@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "destinations": "Destinations",
+    "categories": "Catégories",
+    "about": "À propos"
+  },
+  "hero": {
+    "badge": "🐾 Hôtels pet-friendly en Europe",
+    "title": "Des Hôtels qui Accueillent Votre Animal",
+    "subtitle": "Trouvez le séjour idéal pour vous et votre chien. Parcourez par destination, filtrez par politique animaux, réservez sur Booking.com.",
+    "searchDestination": "Où allez-vous ?",
+    "searchCategory": "Type d'animal ou équipement",
+    "cta": "Rechercher des hôtels"
+  },
+  "categories": {
+    "title": "Parcourir par Catégorie",
+    "explore": "Explorer →"
+  },
+  "howItWorks": {
+    "title": "Réservez en 3 Étapes Simples",
+    "step1Title": "Choisissez votre Destination",
+    "step1Desc": "Parcourez notre liste de destinations pet-friendly en Europe.",
+    "step2Title": "Trouvez votre Hôtel",
+    "step2Desc": "Filtrez par politique animaux, limite de taille et équipements.",
+    "step3Title": "Réservez votre Séjour",
+    "step3Desc": "Cliquez sur Booking.com et finalisez votre réservation."
+  },
+  "destinations": {
+    "title": "Destinations Populaires",
+    "cta": "Découvrir les hôtels",
+    "viewAll": "Voir toutes les destinations →"
+  },
+  "combos": {
+    "title": "100+ Guides Pet-Friendly Sélectionnés",
+    "items": [
+      { "emoji": "🐕", "label": "Hôtels chiens à Amsterdam", "href": "amsterdam/dog-friendly" },
+      { "emoji": "🏖️", "label": "Hôtels pet-friendly avec accès plage à Biarritz", "href": "biarritz/beach-access" },
+      { "emoji": "✨", "label": "Hôtels de luxe avec chiens à Paris", "href": "paris/luxury" }
+    ]
+  },
+  "footer": {
+    "explore": "Explorer",
+    "destinations": "Destinations",
+    "categories": "Catégories",
+    "company": "Société",
+    "about": "À propos",
+    "disclosure": "Mentions affiliées",
+    "disclosureText": "Ce site contient des liens affiliés. Nous pouvons percevoir une commission lorsque vous réservez via nos liens, sans frais supplémentaires pour vous.",
+    "copyright": "© 2026 HotelsWithPets.com. Tous droits réservés."
+  }
+}

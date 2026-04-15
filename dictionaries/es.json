@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "destinations": "Destinos",
+    "categories": "Categorías",
+    "about": "Acerca de"
+  },
+  "hero": {
+    "badge": "🐾 Hoteles pet-friendly en Europa",
+    "title": "Hoteles que Dan la Bienvenida a tu Mascota",
+    "subtitle": "Encuentra el alojamiento perfecto para ti y tu perro. Busca por destino, filtra por política de mascotas, reserva en Booking.com.",
+    "searchDestination": "¿A dónde vas?",
+    "searchCategory": "Tipo de mascota o servicio",
+    "cta": "Buscar hoteles"
+  },
+  "categories": {
+    "title": "Explorar por Categoría",
+    "explore": "Explorar →"
+  },
+  "howItWorks": {
+    "title": "Reserva en 3 Pasos Sencillos",
+    "step1Title": "Elige el Destino",
+    "step1Desc": "Explora nuestra lista de destinos pet-friendly en Europa.",
+    "step2Title": "Encuentra tu Hotel",
+    "step2Desc": "Filtra por política de mascotas, límite de tamaño y servicios.",
+    "step3Title": "Reserva tu Estancia",
+    "step3Desc": "Haz clic en Booking.com y completa tu reserva."
+  },
+  "destinations": {
+    "title": "Destinos Populares",
+    "cta": "Descubrir hoteles",
+    "viewAll": "Ver todos los destinos →"
+  },
+  "combos": {
+    "title": "100+ Guías Pet-Friendly Seleccionadas",
+    "items": [
+      { "emoji": "🐕", "label": "Hoteles para perros en Ámsterdam", "href": "amsterdam/dog-friendly" },
+      { "emoji": "🏖️", "label": "Hoteles pet-friendly con acceso a la playa en Biarritz", "href": "biarritz/beach-access" },
+      { "emoji": "✨", "label": "Hoteles de lujo para perros en París", "href": "paris/luxury" }
+    ]
+  },
+  "footer": {
+    "explore": "Explorar",
+    "destinations": "Destinos",
+    "categories": "Categorías",
+    "company": "Empresa",
+    "about": "Acerca de",
+    "disclosure": "Divulgación de afiliados",
+    "disclosureText": "Este sitio contiene enlaces de afiliados. Podemos ganar una comisión cuando reservas a través de nuestros enlaces, sin costo adicional para ti.",
+    "copyright": "© 2026 HotelsWithPets.com. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "dog-friendly",
+    "name": "Dog-friendly",
+    "nameFr": "Chiens acceptés",
+    "nameEs": "Perros bienvenidos",
+    "emoji": "🐕",
+    "gradient": "from-orange-400 to-amber-500",
+    "cityCount": 42,
+    "description": "Hotels that explicitly welcome dogs of all breeds and sizes."
+  },
+  {
+    "slug": "cat-friendly",
+    "name": "Cat-friendly",
+    "nameFr": "Chats acceptés",
+    "nameEs": "Gatos bienvenidos",
+    "emoji": "🐈",
+    "gradient": "from-purple-400 to-violet-500",
+    "cityCount": 28,
+    "description": "Hotels that welcome cats and provide a comfortable stay for feline travellers."
+  },
+  {
+    "slug": "beach-access",
+    "name": "Beach Access",
+    "nameFr": "Accès plage",
+    "nameEs": "Acceso a la playa",
+    "emoji": "🏖️",
+    "gradient": "from-cyan-400 to-blue-500",
+    "cityCount": 19,
+    "description": "Pet-friendly hotels with direct or nearby beach access for your dog."
+  },
+  {
+    "slug": "near-parks",
+    "name": "Near Parks",
+    "nameFr": "Proche des parcs",
+    "nameEs": "Cerca de parques",
+    "emoji": "🌳",
+    "gradient": "from-green-400 to-emerald-500",
+    "cityCount": 35,
+    "description": "Hotels within walking distance of dog-friendly parks and green spaces."
+  },
+  {
+    "slug": "luxury",
+    "name": "Luxury",
+    "nameFr": "Luxe",
+    "nameEs": "Lujo",
+    "emoji": "✨",
+    "gradient": "from-yellow-400 to-orange-400",
+    "cityCount": 22,
+    "description": "5-star hotels and upscale properties that welcome pets with premium amenities."
+  },
+  {
+    "slug": "dogs-stay-free",
+    "name": "Dogs Stay Free",
+    "nameFr": "Chiens gratuits",
+    "nameEs": "Perros gratis",
+    "emoji": "🎉",
+    "gradient": "from-pink-400 to-rose-500",
+    "cityCount": 17,
+    "description": "Hotels with no pet fee — your dog stays at no extra charge."
+  }
+]

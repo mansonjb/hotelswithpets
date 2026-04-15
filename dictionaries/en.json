@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "destinations": "Destinations",
+    "categories": "Categories",
+    "about": "About"
+  },
+  "hero": {
+    "badge": "🐾 Pet-friendly hotels across Europe",
+    "title": "Hotels That Welcome Your Pet",
+    "subtitle": "Find the perfect stay for you and your dog. Browse by destination, filter by pet policy, book directly on Booking.com.",
+    "searchDestination": "Where are you going?",
+    "searchCategory": "Pet type or amenity",
+    "cta": "Search hotels"
+  },
+  "categories": {
+    "title": "Browse by Category",
+    "explore": "Explore →"
+  },
+  "howItWorks": {
+    "title": "Book in 3 Simple Steps",
+    "step1Title": "Choose Destination",
+    "step1Desc": "Browse our curated list of pet-friendly destinations across Europe.",
+    "step2Title": "Pick Your Stay",
+    "step2Desc": "Filter hotels by pet policy, size limits, and amenities.",
+    "step3Title": "Book Your Hotel",
+    "step3Desc": "Click through to Booking.com and complete your reservation."
+  },
+  "destinations": {
+    "title": "Popular Destinations",
+    "cta": "Discover hotels",
+    "viewAll": "View all destinations →"
+  },
+  "combos": {
+    "title": "100+ Curated Pet-Friendly Guides",
+    "items": [
+      { "emoji": "🐕", "label": "Dog-friendly hotels in Amsterdam", "href": "amsterdam/dog-friendly" },
+      { "emoji": "🏖️", "label": "Pet-friendly beach hotels in Biarritz", "href": "biarritz/beach-access" },
+      { "emoji": "✨", "label": "Luxury dog-friendly hotels in Paris", "href": "paris/luxury" }
+    ]
+  },
+  "footer": {
+    "explore": "Explore",
+    "destinations": "Destinations",
+    "categories": "Categories",
+    "company": "Company",
+    "about": "About Us",
+    "disclosure": "Affiliate Disclosure",
+    "disclosureText": "This site contains affiliate links. We may earn a commission when you book through our links, at no extra cost to you.",
+    "copyright": "© 2026 HotelsWithPets.com. All rights reserved."
+  }
+}

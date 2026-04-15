@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/amsterdam.jpg",
+    "intro": "Amsterdam is one of Europe's most dog-friendly cities, with parks, canals, and welcoming hotels."
+  },
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/paris.jpg",
+    "intro": "Paris welcomes pets in many hotels, cafés, and even some restaurants."
+  },
+  {
+    "slug": "biarritz",
+    "name": "Biarritz",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/biarritz.jpg",
+    "intro": "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels."
+  },
+  {
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 7,
+    "heroImage": "/images/destinations/barcelona.jpg",
+    "intro": "Barcelona has a growing pet-friendly scene with many hotels welcoming dogs of all sizes."
+  },
+  {
+    "slug": "berlin",
+    "name": "Berlin",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 9,
+    "heroImage": "/images/destinations/berlin.jpg",
+    "intro": "Berlin is one of the most dog-friendly capitals in Europe, with extensive parks and pet-welcoming accommodation."
+  },
+  {
+    "slug": "lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/lisbon.jpg",
+    "intro": "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet."
+  }
+]

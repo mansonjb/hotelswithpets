@@ -18,63 +18,84 @@ interface HeroProps {
 export default function Hero({ locale, dict }: HeroProps) {
   const { hero } = dict
   return (
-    <section className="bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
-        <div className="max-w-3xl mx-auto text-center">
-          {/* Badge */}
-          <span className="inline-block bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-1.5 text-sm font-medium mb-6">
-            {hero.badge}
-          </span>
+    <section className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white min-h-[600px] flex items-center">
+      {/* Background blobs */}
+      <div className="absolute top-[-80px] right-[-60px] w-[420px] h-[420px] rounded-full bg-blue-500/20 blur-3xl pointer-events-none" />
+      <div className="absolute bottom-[-60px] left-[-40px] w-[320px] h-[320px] rounded-full bg-indigo-600/20 blur-3xl pointer-events-none" />
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[300px] bg-blue-700/10 blur-3xl pointer-events-none rounded-full" />
 
-          {/* Title */}
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-            {hero.title}
-          </h1>
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 w-full">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
 
-          {/* Subtitle */}
-          <p className="text-lg md:text-xl text-blue-100 mb-10 leading-relaxed">
-            {hero.subtitle}
-          </p>
+          {/* Left — copy */}
+          <div>
+            <span className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-1.5 text-sm font-medium mb-8">
+              <span>🐾</span> {hero.badge}
+            </span>
+            <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.1] mb-6 tracking-tight">
+              {hero.title}
+            </h1>
+            <p className="text-lg text-blue-200 leading-relaxed mb-10 max-w-lg">
+              {hero.subtitle}
+            </p>
 
-          {/* Search bar */}
-          <div className="bg-white rounded-2xl p-2 flex flex-col sm:flex-row gap-2 shadow-2xl max-w-2xl mx-auto">
-            <input
-              type="text"
-              placeholder={hero.searchDestination}
-              className="flex-1 px-4 py-3 text-gray-900 placeholder-gray-400 rounded-xl outline-none text-sm focus:ring-2 focus:ring-blue-500"
-            />
-            <select className="px-4 py-3 text-gray-600 rounded-xl outline-none text-sm bg-gray-50 focus:ring-2 focus:ring-blue-500">
-              <option value="">{hero.searchCategory}</option>
-              <option value="dog-friendly">Dog-friendly</option>
-              <option value="cat-friendly">Cat-friendly</option>
-              <option value="beach-access">Beach Access</option>
-              <option value="near-parks">Near Parks</option>
-              <option value="luxury">Luxury</option>
-              <option value="dogs-stay-free">Dogs Stay Free</option>
-            </select>
-            <Link
-              href={`/${locale}/destinations`}
-              className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl transition-colors text-sm whitespace-nowrap"
-            >
-              {hero.cta}
-            </Link>
-          </div>
-
-          {/* Stats */}
-          <div className="flex flex-wrap justify-center gap-8 mt-10 text-sm text-blue-200">
-            <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-white">50+</span>
-              <span>Destinations</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-white">6</span>
-              <span>Pet categories</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <span className="text-2xl font-bold text-white">100%</span>
-              <span>Free to use</span>
+            {/* Stats row */}
+            <div className="flex flex-wrap gap-8">
+              {[
+                { value: '50+', label: 'Destinations' },
+                { value: '6', label: 'Pet categories' },
+                { value: '100%', label: 'Free to use' },
+              ].map((s) => (
+                <div key={s.label} className="flex flex-col">
+                  <span className="text-3xl font-black text-white leading-none">{s.value}</span>
+                  <span className="text-xs text-blue-300 mt-1 uppercase tracking-widest">{s.label}</span>
+                </div>
+              ))}
             </div>
           </div>
+
+          {/* Right — search card */}
+          <div className="relative">
+            {/* Decorative ring */}
+            <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-500/30 to-indigo-500/10 blur-xl" />
+            <div className="relative bg-white/10 backdrop-blur-md border border-white/20 rounded-3xl p-8 shadow-2xl">
+              <p className="text-sm font-semibold text-blue-200 uppercase tracking-widest mb-6">Find your stay</p>
+
+              <div className="space-y-3">
+                <div className="relative">
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">📍</span>
+                  <input
+                    type="text"
+                    placeholder={hero.searchDestination}
+                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 transition"
+                  />
+                </div>
+                <div className="relative">
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">🐾</span>
+                  <select className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 transition appearance-none cursor-pointer">
+                    <option value="">{hero.searchCategory}</option>
+                    <option value="dog-friendly">Dog-friendly</option>
+                    <option value="cat-friendly">Cat-friendly</option>
+                    <option value="beach-access">Beach Access</option>
+                    <option value="near-parks">Near Parks</option>
+                    <option value="luxury">Luxury</option>
+                    <option value="dogs-stay-free">Dogs Stay Free</option>
+                  </select>
+                </div>
+                <Link
+                  href={`/${locale}/destinations`}
+                  className="block w-full bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-4 rounded-2xl text-center transition-all duration-200 shadow-lg shadow-blue-900/40 hover:shadow-blue-900/60 hover:-translate-y-0.5"
+                >
+                  {hero.cta} →
+                </Link>
+              </div>
+
+              <p className="text-xs text-blue-300 text-center mt-5 opacity-70">
+                Free · No sign-up · Book on Booking.com
+              </p>
+            </div>
+          </div>
+
         </div>
       </div>
     </section>

@@ -47,5 +47,49 @@
     "disclosure": "Divulgación de afiliados",
     "disclosureText": "Este sitio contiene enlaces de afiliados. Podemos ganar una comisión cuando reservas a través de nuestros enlaces, sin costo adicional para ti.",
     "copyright": "© 2026 HotelsWithPets.com. Todos los derechos reservados."
+  },
+  "pages": {
+    "destinations": {
+      "title": "Todos los Destinos Pet-Friendly",
+      "subtitle": "Explora cada ciudad de nuestra guía — de Ámsterdam a Lisboa, descubre dónde alojarte con tu mascota.",
+      "explore": "Explorar"
+    },
+    "destination": {
+      "categoriesTitle": "Explorar por categoría de mascota",
+      "hotelsTitle": "Mejores hoteles pet-friendly",
+      "book": "Reservar en Booking.com",
+      "from": "Desde",
+      "perNight": "/ noche",
+      "free": "Sin tarifa de mascota",
+      "petFee": "Tarifa mascota",
+      "petPolicy": "Política de mascotas",
+      "stars": "estrellas",
+      "reviews": "reseñas",
+      "viewCombo": "Ver hoteles →"
+    },
+    "categories": {
+      "title": "Todas las Categorías",
+      "subtitle": "Desde hoteles para perros hasta estancias de lujo — encuentra exactamente lo que tu mascota necesita.",
+      "destinations": "destinos"
+    },
+    "category": {
+      "destinationsTitle": "Mejores destinos para esta categoría",
+      "explore": "Ver hoteles →"
+    },
+    "combo": {
+      "hotelsTitle": "Mejores hoteles",
+      "book": "Reservar en Booking.com",
+      "from": "Desde",
+      "perNight": "/ noche",
+      "free": "Sin tarifa de mascota",
+      "petFee": "Tarifa mascota",
+      "petPolicy": "Política de mascotas",
+      "stars": "estrellas",
+      "reviews": "reseñas",
+      "ctaTitle": "¿Listo para reservar?",
+      "ctaDesc": "Encuentra más opciones en Booking.com — filtra por política de mascotas, precio y servicios.",
+      "ctaButton": "Buscar todos los hoteles pet-friendly",
+      "noHotels": "Aún no hay hoteles listados para esta combinación. Vuelve pronto o consulta Booking.com directamente."
+    }
   }
 }

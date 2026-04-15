@@ -47,5 +47,49 @@
     "disclosure": "Affiliate Disclosure",
     "disclosureText": "This site contains affiliate links. We may earn a commission when you book through our links, at no extra cost to you.",
     "copyright": "© 2026 HotelsWithPets.com. All rights reserved."
+  },
+  "pages": {
+    "destinations": {
+      "title": "All Pet-Friendly Destinations",
+      "subtitle": "Browse every city in our guide — from Amsterdam to Lisbon, discover where to stay with your pet.",
+      "explore": "Explore"
+    },
+    "destination": {
+      "categoriesTitle": "Browse by pet category",
+      "hotelsTitle": "Top pet-friendly hotels",
+      "book": "Book on Booking.com",
+      "from": "From",
+      "perNight": "/ night",
+      "free": "No pet fee",
+      "petFee": "Pet fee",
+      "petPolicy": "Pet policy",
+      "stars": "stars",
+      "reviews": "reviews",
+      "viewCombo": "See hotels →"
+    },
+    "categories": {
+      "title": "All Pet Categories",
+      "subtitle": "From dog-friendly to luxury pet stays — find exactly what your pet needs.",
+      "destinations": "destinations"
+    },
+    "category": {
+      "destinationsTitle": "Best destinations for this category",
+      "explore": "See hotels →"
+    },
+    "combo": {
+      "hotelsTitle": "Top hotels",
+      "book": "Book on Booking.com",
+      "from": "From",
+      "perNight": "/ night",
+      "free": "No pet fee",
+      "petFee": "Pet fee",
+      "petPolicy": "Pet policy",
+      "stars": "stars",
+      "reviews": "reviews",
+      "ctaTitle": "Ready to book?",
+      "ctaDesc": "Find even more options on Booking.com — filter by pet policy, price, and amenities.",
+      "ctaButton": "Search all pet-friendly hotels",
+      "noHotels": "No hotels listed yet for this combination. Check back soon or browse Booking.com directly."
+    }
   }
 }

@@ -47,5 +47,49 @@
     "disclosure": "Mentions affiliées",
     "disclosureText": "Ce site contient des liens affiliés. Nous pouvons percevoir une commission lorsque vous réservez via nos liens, sans frais supplémentaires pour vous.",
     "copyright": "© 2026 HotelsWithPets.com. Tous droits réservés."
+  },
+  "pages": {
+    "destinations": {
+      "title": "Toutes les Destinations Pet-Friendly",
+      "subtitle": "Découvrez chaque ville de notre guide — d'Amsterdam à Lisbonne, trouvez où séjourner avec votre animal.",
+      "explore": "Explorer"
+    },
+    "destination": {
+      "categoriesTitle": "Parcourir par catégorie",
+      "hotelsTitle": "Meilleurs hôtels pet-friendly",
+      "book": "Réserver sur Booking.com",
+      "from": "À partir de",
+      "perNight": "/ nuit",
+      "free": "Sans frais animal",
+      "petFee": "Frais animal",
+      "petPolicy": "Politique animaux",
+      "stars": "étoiles",
+      "reviews": "avis",
+      "viewCombo": "Voir les hôtels →"
+    },
+    "categories": {
+      "title": "Toutes les Catégories",
+      "subtitle": "Des hôtels chiens aux séjours luxe — trouvez exactement ce qu'il faut pour votre animal.",
+      "destinations": "destinations"
+    },
+    "category": {
+      "destinationsTitle": "Meilleures destinations pour cette catégorie",
+      "explore": "Voir les hôtels →"
+    },
+    "combo": {
+      "hotelsTitle": "Meilleurs hôtels",
+      "book": "Réserver sur Booking.com",
+      "from": "À partir de",
+      "perNight": "/ nuit",
+      "free": "Sans frais animal",
+      "petFee": "Frais animal",
+      "petPolicy": "Politique animaux",
+      "stars": "étoiles",
+      "reviews": "avis",
+      "ctaTitle": "Prêt à réserver ?",
+      "ctaDesc": "Trouvez encore plus d'options sur Booking.com — filtrez par politique animaux, prix et équipements.",
+      "ctaButton": "Rechercher tous les hôtels pet-friendly",
+      "noHotels": "Pas encore d'hôtels listés pour cette combinaison. Revenez bientôt ou consultez Booking.com directement."
+    }
   }
 }

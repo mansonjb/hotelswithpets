@@ -12,10 +12,10 @@
     "searchDestination": "¿A dónde vas?",
     "searchCategory": "Tipo de mascota o servicio",
     "cta": "Buscar hoteles",
-    "stat1Value": "50+",
+    "stat1Value": "34",
     "stat1Label": "Destinos",
-    "stat2Value": "6",
-    "stat2Label": "Categorías de mascotas",
+    "stat2Value": "100+",
+    "stat2Label": "Hoteles con mascotas",
     "stat3Value": "100%",
     "stat3Label": "Gratuito"
   },
@@ -44,9 +44,21 @@
     "featuredLabel": "Guía Destacada",
     "viewGuide": "Ver guía →",
     "items": [
-      { "emoji": "🐕", "label": "Hoteles para perros en Ámsterdam", "href": "amsterdam/dog-friendly" },
-      { "emoji": "🏖️", "label": "Hoteles pet-friendly con playa en Biarritz", "href": "biarritz/beach-access" },
-      { "emoji": "✨", "label": "Hoteles de lujo para perros en París", "href": "paris/luxury" }
+      {
+        "emoji": "🐕",
+        "label": "Hoteles para perros en Ámsterdam",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Hoteles pet-friendly con playa en Biarritz",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Hoteles de lujo para perros en París",
+        "href": "paris/luxury"
+      }
     ]
   },
   "footer": {

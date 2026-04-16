@@ -38,11 +38,31 @@ export async function generateMetadata({
   const comboHotels = hotels.filter(
     (h) => h.destinationSlug === destination && h.categories.includes(category)
   )
+
+  // noindex empty pages — no hotels = thin content, bad for SEO
+  if (comboHotels.length === 0) {
+    return { robots: { index: false, follow: false } }
+  }
+
   const minPrice = Math.min(...comboHotels.map((h) => h.priceFrom))
   const freeCount = comboHotels.filter((h) => h.petFee === 0).length
 
-  const title = `Best ${cat.name} Hotels in ${dest.name} (${year}) — Top ${comboHotels.length} Picks`
-  const description = `Find the ${comboHotels.length} best ${cat.name.toLowerCase()} hotels in ${dest.name}, ${dest.country}. Handpicked, verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`
+  // Locale-aware title for cat name
+  const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+
+  const titles: Record<string, string> = {
+    en: `Best ${cat.name} Hotels in ${dest.name} (${year}) — Top ${comboHotels.length} Picks`,
+    fr: `Meilleurs hôtels ${catName} à ${dest.name} (${year}) — Top ${comboHotels.length}`,
+    es: `Mejores hoteles ${catName} en ${dest.name} (${year}) — Top ${comboHotels.length}`,
+  }
+  const descriptions: Record<string, string> = {
+    en: `Find the ${comboHotels.length} best ${cat.name.toLowerCase()} hotels in ${dest.name}, ${dest.country}. Handpicked, verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
+    fr: `Découvrez les ${comboHotels.length} meilleurs hôtels ${catName.toLowerCase()} à ${dest.name}, ${dest.country}. Sélectionnés, politiques vérifiées, dès €${minPrice}/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
+    es: `Encuentra los ${comboHotels.length} mejores hoteles ${catName.toLowerCase()} en ${dest.name}, ${dest.country}. Seleccionados, políticas verificadas, desde €${minPrice}/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
+  }
+
+  const title = titles[locale] ?? titles.en
+  const description = descriptions[locale] ?? descriptions.en
 
   return {
     title: `${title} | HotelsWithPets.com`,
@@ -318,6 +338,28 @@ export default async function ComboPage({
                 </div>
               </section>
 
+              {/* Mobile-only CTA — sidebar is hidden on mobile, put CTA above fold here */}
+              {comboHotels.length > 0 && (
+                <div className="lg:hidden mb-10">
+                  <div className={`bg-gradient-to-r ${cat.gradient} rounded-2xl p-5 flex items-center justify-between gap-4 shadow-lg`}>
+                    <div className="text-white">
+                      <p className="font-extrabold text-base leading-tight">{p.ctaTitle}</p>
+                      {minPrice && (
+                        <p className="text-white/80 text-sm mt-0.5">{p.from} €{minPrice} {p.perNight}</p>
+                      )}
+                    </div>
+                    <a
+                      href={bookingUrl}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="flex-shrink-0 bg-white text-gray-900 font-bold text-sm px-5 py-3 rounded-xl shadow-md hover:bg-gray-50 transition-colors whitespace-nowrap"
+                    >
+                      {p.ctaButton} →
+                    </a>
+                  </div>
+                </div>
+              )}
+
               {/* ② Why {dest} callout — blue gradient box */}
               <section aria-label={`Why ${dest.name}`} className="mb-10">
                 <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-indigo-700 p-6 lg:p-8 text-white shadow-lg">
@@ -396,6 +438,7 @@ export default async function ComboPage({
                     lng={(dest as typeof dest & { lng: number }).lng}
                     stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
                     destName={dest.name}
+                    country={dest.country}
                     height={400}
                   />
                 </section>

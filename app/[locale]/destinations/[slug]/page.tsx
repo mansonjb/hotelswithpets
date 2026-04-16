@@ -8,6 +8,7 @@ import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
+import { generateDestIntro } from '@/lib/editorial'
 
 export async function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }))
@@ -69,6 +70,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const p = dict.pages.destination
 
   const destHotels = hotels.filter((h) => h.destinationSlug === slug)
+  const localeIntro = generateDestIntro(slug, dest.name, dest.country, locale) || dest.intro
 
   // Find which categories have hotels here
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
@@ -92,7 +94,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             <div>
               <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{dest.name}</h1>
               <p className="text-blue-300 text-lg">{dest.country}</p>
-              <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{dest.intro}</p>
+              <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
             </div>
           </div>
         </div>
@@ -133,6 +135,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 lng={(dest as typeof dest & { lng: number }).lng}
                 stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
                 destName={dest.name}
+                country={dest.country}
                 height={380}
               />
           </div>

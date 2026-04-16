@@ -16,7 +16,8 @@ function getCategoryName(cat: typeof categories[number], locale: Locale): string
 }
 
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
-  const [featured, ...rest] = categories
+  const activeCats = categories.filter((c) => c.cityCount > 0)
+  const [featured, ...rest] = activeCats
 
   return (
     <section className="py-20 bg-gray-50">

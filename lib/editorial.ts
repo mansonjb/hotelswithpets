@@ -1152,3 +1152,25 @@ export function generateTips(catSlug: string, destName: string, locale: string =
     { n: 5, title: 'Leave a review after your stay', text: 'Detailed reviews from pet owners help future travellers find genuinely welcoming hotels, and encourage properties to maintain high standards.' },
   ]
 }
+
+// ─── Destination intro (locale-aware) ────────────────────────────────────────
+
+/**
+ * Returns a one-sentence locale-aware intro for a destination page.
+ * Falls back to the static `dest.intro` field (English) if locale is 'en'
+ * or if no locale context is available.
+ */
+export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
+  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
+  const ctx = ctxMap[destSlug]
+  if (!ctx) return ''
+
+  if (l === 'fr') {
+    return `${destName} est ${ctx.personality}. Les meilleurs spots pour se balader avec un animal sont ${ctx.highlight}, notamment dans le quartier de ${ctx.area}.`
+  }
+  if (l === 'es') {
+    return `${destName} es ${ctx.personality}. Los mejores lugares para pasear con mascotas son ${ctx.highlight}, especialmente en el barrio de ${ctx.area}.`
+  }
+  return `${destName} is ${ctx.personality}. Top spots for pets include ${ctx.highlight}, especially around ${ctx.area}.`
+}

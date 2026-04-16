@@ -23,12 +23,12 @@ const HOTELS_JSON = path.join(__dirname, '..', 'data', 'hotels.json')
 
 // ─── Date helpers ─────────────────────────────────────────────────────────────
 
-/** Next Friday from today (or today+8 if today is Friday, to avoid same-day) */
+/** Next Monday from today — weekday rates = "from" prices, not peak weekend */
 function nextCheckin() {
   const d = new Date()
-  d.setDate(d.getDate() + 1)
-  // Move to next Friday (day 5)
-  while (d.getDay() !== 5) d.setDate(d.getDate() + 1)
+  d.setDate(d.getDate() + 7) // at least 1 week out so hotels show normal rates
+  // Move to next Monday (day 1)
+  while (d.getDay() !== 1) d.setDate(d.getDate() + 1)
   return d
 }
 
@@ -41,6 +41,8 @@ function addDays(d, n) {
   r.setDate(r.getDate() + n)
   return r
 }
+
+const NIGHTS = 1 // 1-night stay = price shown = per-night rate
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -260,7 +262,7 @@ async function main() {
     : hotels
 
   const checkin = nextCheckin()
-  const checkout = addDays(checkin, 2) // 2-night stay → better price visibility
+  const checkout = addDays(checkin, NIGHTS) // 1 night → price shown = per-night rate
 
   console.log(`\n💰 Price refresh — ${targets.length} hotels`)
   console.log(`   Dates: ${formatDate(checkin)} → ${formatDate(checkout)}`)

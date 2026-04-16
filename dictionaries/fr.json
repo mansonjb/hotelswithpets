@@ -12,10 +12,10 @@
     "searchDestination": "Où allez-vous ?",
     "searchCategory": "Type d'animal ou équipement",
     "cta": "Rechercher des hôtels",
-    "stat1Value": "50+",
+    "stat1Value": "34",
     "stat1Label": "Destinations",
-    "stat2Value": "6",
-    "stat2Label": "Catégories animaux",
+    "stat2Value": "100+",
+    "stat2Label": "Hôtels acceptant animaux",
     "stat3Value": "100%",
     "stat3Label": "Gratuit"
   },
@@ -44,9 +44,21 @@
     "featuredLabel": "Guide Vedette",
     "viewGuide": "Voir le guide →",
     "items": [
-      { "emoji": "🐕", "label": "Hôtels chiens à Amsterdam", "href": "amsterdam/dog-friendly" },
-      { "emoji": "🏖️", "label": "Hôtels pet-friendly avec plage à Biarritz", "href": "biarritz/beach-access" },
-      { "emoji": "✨", "label": "Hôtels luxe avec chiens à Paris", "href": "paris/luxury" }
+      {
+        "emoji": "🐕",
+        "label": "Hôtels chiens à Amsterdam",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Hôtels pet-friendly avec plage à Biarritz",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Hôtels luxe avec chiens à Paris",
+        "href": "paris/luxury"
+      }
     ]
   },
   "footer": {

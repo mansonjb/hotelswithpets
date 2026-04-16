@@ -54,7 +54,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {categories.map((cat) => (
+            {categories.filter((cat) => cat.cityCount > 0).map((cat) => (
               <Link
                 key={cat.slug}
                 href={`/${locale}/categories/${cat.slug}`}

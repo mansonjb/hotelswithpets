@@ -113,10 +113,21 @@ function seedPetFee(hotel, price) {
 }
 
 async function main() {
+  const args = process.argv.slice(2)
+  const feesOnly = args.includes('--fees-only')
+
   const hotels = JSON.parse(await readFile(HOTELS_JSON, 'utf-8'))
 
   let changed = 0
   for (const hotel of hotels) {
+    if (feesOnly) {
+      // Only re-seed pet fees (keep scraped prices + stars)
+      const newFee = seedPetFee(hotel, hotel.priceFrom)
+      if (newFee !== hotel.petFee) changed++
+      hotel.petFee = newFee
+      continue
+    }
+
     // Fix star rating first (scraper returned 5★ for 93% of hotels)
     hotel.stars = seedStars(hotel)
 
@@ -127,6 +138,7 @@ async function main() {
 
     hotel.priceFrom = newPrice
     hotel.petFee = newFee
+    if (newPrice !== hotel.priceFrom || newFee !== hotel.petFee) changed++
   }
 
   await writeFile(HOTELS_JSON, JSON.stringify(hotels, null, 2))

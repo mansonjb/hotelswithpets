@@ -24,7 +24,7 @@ const HOTELS_JSON = path.join(__dirname, '..', 'data', 'hotels.json')
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const MAX_HOTELS_PER_DEST = 3
+const MAX_HOTELS_PER_DEST = 5
 const DELAY_MIN = 2000
 const DELAY_MAX = 4000
 

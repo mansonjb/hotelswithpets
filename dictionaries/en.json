@@ -12,10 +12,10 @@
     "searchDestination": "Where are you going?",
     "searchCategory": "Pet type or amenity",
     "cta": "Search hotels",
-    "stat1Value": "50+",
+    "stat1Value": "34",
     "stat1Label": "Destinations",
-    "stat2Value": "6",
-    "stat2Label": "Pet categories",
+    "stat2Value": "100+",
+    "stat2Label": "Pet-friendly hotels",
     "stat3Value": "100%",
     "stat3Label": "Free to use"
   },
@@ -44,9 +44,21 @@
     "featuredLabel": "Featured Guide",
     "viewGuide": "View Guide →",
     "items": [
-      { "emoji": "🐕", "label": "Dog-friendly hotels in Amsterdam", "href": "amsterdam/dog-friendly" },
-      { "emoji": "🏖️", "label": "Pet-friendly beach hotels in Biarritz", "href": "biarritz/beach-access" },
-      { "emoji": "✨", "label": "Luxury dog-friendly hotels in Paris", "href": "paris/luxury" }
+      {
+        "emoji": "🐕",
+        "label": "Dog-friendly hotels in Amsterdam",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Pet-friendly beach hotels in Biarritz",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Luxury dog-friendly hotels in Paris",
+        "href": "paris/luxury"
+      }
     ]
   },
   "footer": {

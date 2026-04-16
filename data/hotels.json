@@ -1510,5 +1510,929 @@
       "Private parking",
       "Free WiFi"
     ]
+  },
+  {
+    "id": "seville-1",
+    "name": "Hotel Lobby",
+    "destinationSlug": "seville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 2536,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/lobby-room-sevilla.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Calle Reyes Catolicos 23, Old town, 41001 Seville, SpainExcellent location — rated 9.7/10!(score from 2502 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "seville-2",
+    "name": "Only YOU Hotel Sevilla",
+    "destinationSlug": "seville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 4153,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/avenida-kansas-sevilla.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "seville-3",
+    "name": "Hotel Alfonso XIII, a Luxury Collection Hotel, Seville",
+    "destinationSlug": "seville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 951,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/starwoodalfonso.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "San Fernando, 2, Old town, 41004 Seville, SpainExcellent location — rated 9.9/10!(score from 934 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "valencia-1",
+    "name": "The Westin Valencia",
+    "destinationSlug": "valencia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1242,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/the-westin-alameda-valencia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "valencia-2",
+    "name": "Only YOU Hotel Valencia",
+    "destinationSlug": "valencia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 5343,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/only-you-valencia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Fitness centre"
+    ]
+  },
+  {
+    "id": "valencia-3",
+    "name": "SH Valencia Palace",
+    "destinationSlug": "valencia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3599,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/shhotelesvalenciapalace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "malaga-1",
+    "name": "Soho Boutique Castillo de Santa Catalina - Adults Recommended",
+    "destinationSlug": "malaga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1871,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/soho-boutique-castillo-de-santa-catalina.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Soho Boutique Castillo de Santa Catalina - Adults Recommended (Hotel) (Spain) deals",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "malaga-2",
+    "name": "Vincci Selección Posada del Patio",
+    "destinationSlug": "malaga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 4063,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/vincci-seleccion-posada-del-patio-malaga.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "malaga-3",
+    "name": "Only YOU Hotel Málaga",
+    "destinationSlug": "malaga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 3208,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/only-you-malaga.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "florence-1",
+    "name": "Golden Tower Hotel & Spa",
+    "destinationSlug": "florence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 859,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/golden-tower.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Piazza Strozzi 11/r, Santa Maria Novella, 50123 Florence, ItalyExcellent location — rated 9.9/10!(score from 852 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "florence-2",
+    "name": "Hotel La Gemma",
+    "destinationSlug": "florence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 1562,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/la-gemma-firenze.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Dei Cavalieri, 6R, Santa Maria Novella, 50123 Florence, ItalyExcellent location — rated 9.9/10!(score from 1550 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "florence-3",
+    "name": "IL Tornabuoni The Unbound Collection by Hyatt",
+    "destinationSlug": "florence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 329,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/iltornabuoni-hotel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "venice-1",
+    "name": "Ca' di Dio - VRetreats, an SLH Hotel",
+    "destinationSlug": "venice",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 866,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/ca-39-di-dio.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Free WiFi",
+      "Spa and wellness centre",
+      "Airport shuttle"
+    ]
+  },
+  {
+    "id": "venice-2",
+    "name": "Nolinski Venezia - Evok Collection",
+    "destinationSlug": "venice",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 512,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nolinski-venezia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "venice-3",
+    "name": "Radisson Collection Hotel, Palazzo Nani Venice",
+    "destinationSlug": "venice",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1097,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/radisson-collection-palazzo-nani-venice.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Fondamenta Cannaregio 1105 A, Cannaregio, 30123 Venice, ItalyExcellent location — rated 9.3/10!(score from 1084 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Airport shuttle",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "ghent-1",
+    "name": "B&B The Verhaegen",
+    "destinationSlug": "ghent",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 255,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/hotelverhaegen.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Oude Houtlei 110, Elisabethbegijnhof-Papegaai, 9000 Ghent, BelgiumExcellent location — rated 9.7/10!(score from 250 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "ghent-2",
+    "name": "Marcel de Gand Business & Travel",
+    "destinationSlug": "ghent",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 188,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/b-amp-b-marcel-de-gand.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Octaaf Van Dammestraat 56, 9030 Ghent, BelgiumExcellent location — rated 9.1/10!(score from 186 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "ghent-3",
+    "name": "B&B Snooz Inn",
+    "destinationSlug": "ghent",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 256,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/snooz-inn.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Ham 89, Sluizeken-Tolhuis-Ham, 9000 Ghent, BelgiumExcellent location — rated 9.1/10!(score from 255 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking on site",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "antwerp-1",
+    "name": "Botanic Sanctuary Antwerp - The Leading Hotels of the World",
+    "destinationSlug": "antwerp",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1489,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/botanic-sanctuary-antwerp.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "26 Leopoldstraat, Antwerp District, 2000 Antwerp, BelgiumExcellent location — rated 9.7/10!(score from 1456 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "antwerp-2",
+    "name": "Sapphire House Antwerp, Autograph Collection by Marriott",
+    "destinationSlug": "antwerp",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2176,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/sapphire-house-antwerp-autograph-collection.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "antwerp-3",
+    "name": "Maison Nationale City Flats & Suites",
+    "destinationSlug": "antwerp",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 858,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/maison-nationale.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Nationalestraat 49, Antwerp District, 2000 Antwerp, BelgiumExcellent location — rated 9.9/10!(score from 833 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "edinburgh-1",
+    "name": "Gleneagles Townhouse",
+    "destinationSlug": "edinburgh",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 507,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/gleneagles-townhouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "edinburgh-2",
+    "name": "Virgin Hotels Edinburgh",
+    "destinationSlug": "edinburgh",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 5683,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/virgin-hotels-edinburgh.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "1 India Buildings Victoria Street, Old Town, Edinburgh, EH1 2EX, United KingdomExcellent location — rated 9.8/10!(score from 5612 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "edinburgh-3",
+    "name": "The Edinburgh Grand, a Luxury Collection Hotel, Edinburgh",
+    "destinationSlug": "edinburgh",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 970,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-edinburgh-grand.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "42 St Andrew Square, Edinburgh, EH2 2AD, United KingdomExcellent location — rated 9.9/10!(score from 959 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "dublin-1",
+    "name": "The Fitzwilliam Hotel",
+    "destinationSlug": "dublin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1498,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-fitzwilliam.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "dublin-2",
+    "name": "The Merrion Hotel",
+    "destinationSlug": "dublin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 576,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-merrion.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "dublin-3",
+    "name": "Anantara The Marker Dublin- A Leading Hotel of the World",
+    "destinationSlug": "dublin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2274,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-marker.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "reykjavik-1",
+    "name": "The Reykjavik EDITION",
+    "destinationSlug": "reykjavik",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 686,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/is/the-reykjavik-edition.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Austurbakki 2, 101 Reykjavík, IcelandExcellent location — rated 9.6/10!(score from 678 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "reykjavik-2",
+    "name": "Black Pearl Apartment Hotel",
+    "destinationSlug": "reykjavik",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 577,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/is/black-pearl-reykjavik-finest-apartments.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Tryggvagata 18, 101 Reykjavík, IcelandExcellent location — rated 9.7/10!(score from 571 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "reykjavik-3",
+    "name": "Reykjavik Konsulat Hotel, Curio Collection By Hilton",
+    "destinationSlug": "reykjavik",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 424,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/is/consulate-reykjavik-curio-collection-by-hilton.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Free WiFi",
+      "Spa and wellness centre",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "ljubljana-1",
+    "name": "InterContinental - Ljubljana by IHG",
+    "destinationSlug": "ljubljana",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1963,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/intercontinental-ljubljana.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "ljubljana-2",
+    "name": "Grand Plaza Hotel & Congress Center",
+    "destinationSlug": "ljubljana",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 5328,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/grand-plaza-in-kongresni-center.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "60 Slovenska cesta, 1000 Ljubljana, SloveniaExcellent location — rated 9.5/10!(score from 5241 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "ljubljana-3",
+    "name": "Zlata Ladjica Boutique Hotel",
+    "destinationSlug": "ljubljana",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 328,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/zlata-ladjica-boutique-ljubljana.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Parking",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "riga-1",
+    "name": "Grand Hotel Kempinski Riga",
+    "destinationSlug": "riga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1179,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lv/grand-kempinski-riga.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "riga-2",
+    "name": "Grand Poet Hotel and SPA by Semarah",
+    "destinationSlug": "riga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 4906,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lv/grand-poet-by-semarah.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "riga-3",
+    "name": "Grand Palace Hotel - Small Luxury Hotels of the World",
+    "destinationSlug": "riga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1322,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lv/schlosslegrandpalace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pils iela 12, Rīga, LV-1050, LatviaExcellent location — rated 9.8/10!(score from 1306 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "tallinn-1",
+    "name": "Radisson Collection Hotel, Tallinn",
+    "destinationSlug": "tallinn",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 6691,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ee/radisson-sas-tallinn.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "tallinn-2",
+    "name": "Hotel Telegraaf, Autograph Collection",
+    "destinationSlug": "tallinn",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 847,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ee/telegraaf.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa and wellness centre"
+    ]
+  },
+  {
+    "id": "tallinn-3",
+    "name": "Swissotel Tallinn",
+    "destinationSlug": "tallinn",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 3432,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ee/swissotel-tallinn.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "Spa and wellness centre"
+    ]
   }
 ]

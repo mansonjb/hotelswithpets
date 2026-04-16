@@ -51,6 +51,147 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
       area: 'Chiado, Príncipe Real, and Bairro Alto',
     },
+    rome: {
+      personality: 'a city where dogs accompany their owners everywhere — from morning cornetto runs to evening passeggiata strolls',
+      highlight: 'Villa Borghese gardens, the off-leash areas of Parco dell\'Appia Antica, and the riverside Lungotevere paths',
+      area: 'Prati, Trastevere, and Pigneto',
+    },
+    madrid: {
+      personality: 'one of Europe\'s most dog-obsessed capitals — Madrid has more dogs per capita than almost any other European city',
+      highlight: 'the Retiro Park, Casa de Campo, and the off-leash Parque del Oeste',
+      area: 'Malasaña, Lavapiés, and Chamberí',
+    },
+    prague: {
+      personality: 'a compact, walkable city where dogs are welcome in most pubs, wine bars, and even some indoor markets',
+      highlight: 'the Stromovka and Letná parks, and the riverside Nusle Valley trails',
+      area: 'Vinohrady, Žižkov, and Malá Strana',
+    },
+    vienna: {
+      personality: 'a city that takes dog ownership seriously — dogs ride the U-Bahn, enter museums, and are catered for in hundreds of Viennese cafés',
+      highlight: 'the Prater park, Donauinsel island, and the Lainzer Tiergarten',
+      area: 'the 1st district, Naschmarkt, and Josefstadt',
+    },
+    copenhagen: {
+      personality: 'a city that leads Europe on pet welfare — dogs travel free on public transport, enter most shops, and are welcomed with water bowls on nearly every terrace',
+      highlight: 'the Frederiksberg Gardens, Fælledparken, and the harbour waterfront',
+      area: 'Nørrebro, Frederiksberg, and Vesterbro',
+    },
+    stockholm: {
+      personality: 'a city where dogs are part of the fabric of daily life — on ferries, in cafés, and across the archipelago islands',
+      highlight: 'Djurgården island, Hagaparken, and the archipelago trail network',
+      area: 'Södermalm, Östermalm, and Djurgården',
+    },
+    munich: {
+      personality: 'a city where dogs are welcomed in beer gardens, on public transport, and throughout the English Garden — Europe\'s largest urban park',
+      highlight: 'the Englischer Garten, Olympiapark, and the Isar river banks',
+      area: 'Schwabing, Maxvorstadt, and Haidhausen',
+    },
+    zurich: {
+      personality: 'a city that ranks among Europe\'s most dog-friendly — with dedicated dog zones on lake beaches, dog-friendly trams, and pet passports accepted everywhere',
+      highlight: 'the Zürichsee lakefront, Uetliberg hill, and the Sihl river trails',
+      area: 'Kreis 4, Zürich West, and the Old Town',
+    },
+    nice: {
+      personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
+      highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
+      area: 'the Old Town (Vieux-Nice), Cimiez, and the Port',
+    },
+    bordeaux: {
+      personality: 'a city where dogs stroll the wine-bar terraces of the Chartrons, explore the Garonne riverside, and are welcomed in most boutique hotels',
+      highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
+      area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
+    },
+    lyon: {
+      personality: 'France\'s gastronomic capital, where dogs are as common as bouchon restaurants — welcomed in cafés, along the riverbanks, and throughout the Presqu\'île',
+      highlight: 'the Parc de la Tête d\'Or, the Saône and Rhône riverbanks, and the Fourvière hillside trails',
+      area: 'the Presqu\'île, Croix-Rousse, and Confluence',
+    },
+    bruges: {
+      personality: 'a beautifully preserved medieval city where dogs trot alongside their owners on cobbled streets, canal towpaths, and through the quiet surrounding countryside',
+      highlight: 'the Minnewater park, the canal network towpaths, and the Koningin Astridpark',
+      area: 'the historic centre, Sint-Anna quarter, and the Begijnhof',
+    },
+    budapest: {
+      personality: 'a city of grand architecture and a growing dog-friendly scene — dogs ride the metro, access most parks, and are welcomed in Budapest\'s famous ruin bars',
+      highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
+      area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
+    },
+    dubrovnik: {
+      personality: 'a dramatic walled city where dogs join their owners on coastal paths, quiet island beaches, and the pine-shaded terraces outside the Old Town',
+      highlight: 'the coastal path to Sveti Jakov beach, the Lokrum island day trip ferry (dogs allowed), and the Lapad peninsula',
+      area: 'Lapad, Gruž, and the Old Town surroundings',
+    },
+    porto: {
+      personality: 'a hilly, atmospheric city where dogs are part of the daily rhythm — on trams, in wine-bar gardens, and along the Douro river esplanade',
+      highlight: 'the Jardins do Palácio de Cristal, the Douro riverside (Ribeira), and the Serralves park',
+      area: 'Ribeira, Bonfim, and Foz do Douro',
+    },
+    // Tier 2
+    seville: {
+      personality: 'one of Andalusia\'s most dog-friendly cities — where dogs stroll under orange trees, join owners on tapas bar terraces, and explore riverside parks',
+      highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
+      area: 'Triana, Santa Cruz, and El Arenal',
+    },
+    valencia: {
+      personality: 'a sunny Mediterranean city with 19 km of park running through its centre — the former Turia riverbed — making it one of Europe\'s most walkable cities for dog owners',
+      highlight: 'the Turia Garden (9 km off-leash friendly), the Malvarrosa beach dog zone, and the Albufera nature park',
+      area: 'Ruzafa, El Carmen, and the Eixample',
+    },
+    malaga: {
+      personality: 'a relaxed Andalusian port city where dogs join their owners on museum terraces, in beachfront hotels, and through the historic Alcazaba district',
+      highlight: 'the Parque de Málaga seafront, the Montes de Málaga natural park, and the Pedregalejo beach dog zone',
+      area: 'the Historic Centre, Soho, and Pedregalejo',
+    },
+    florence: {
+      personality: 'a Renaissance city where dogs trot over cobblestones to morning markets, sit under café parasols, and walk the Arno riverbanks with their owners each evening',
+      highlight: 'the Boboli Gardens, the Cascine park (off-leash zones), and the Arno riverside paths',
+      area: 'Oltrarno, Santa Croce, and San Frediano',
+    },
+    venice: {
+      personality: 'one of Italy\'s most surprisingly dog-friendly cities — dogs ride the vaporetto, explore quiet sestieri away from crowds, and are welcomed in many local bacari',
+      highlight: 'the Lido island beaches (dogs allowed off-season), the quiet canals of Cannaregio, and the Sant\'Elena park',
+      area: 'Cannaregio, Dorsoduro, and Sant\'Elena',
+    },
+    ghent: {
+      personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life — on trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
+      highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
+      area: 'the Patershol, Sint-Pieters, and Portus Ganda',
+    },
+    antwerp: {
+      personality: 'Belgium\'s fashion capital and one of its most dog-forward cities — with vast riverside parks, dog-welcoming terraces, and a thriving boutique hotel scene',
+      highlight: 'the Rivierenhof park, the Schelde riverside promenade, and the Nachtegalenpark',
+      area: 'the Old Town, Zurenborg, and the Zuid',
+    },
+    edinburgh: {
+      personality: 'one of Britain\'s most dog-welcoming cities — with off-leash hills, dog-friendly pubs on every street, and a culture that treats dogs as full members of the family',
+      highlight: 'Arthur\'s Seat (off-leash), Holyrood Park, and the Water of Leith walkway',
+      area: 'Stockbridge, Leith, and the New Town',
+    },
+    dublin: {
+      personality: 'a warm, pub-centred city where dogs are welcomed in beer gardens, on coastal walks, and through Europe\'s largest urban park — the Phoenix Park',
+      highlight: 'Phoenix Park (1,750 acres, largely off-leash), the Dodder river walk, and the Sandymount Strand beach',
+      area: 'Ranelagh, Portobello, and Stoneybatter',
+    },
+    reykjavik: {
+      personality: 'the world\'s northernmost capital and one of its most dog-friendly — with vast lava fields, geothermal beaches, and a culture that brings dogs everywhere',
+      highlight: 'Elliðaárdalur valley, the Öskjuhlíð hill, and the Grótta lighthouse coastal walk',
+      area: 'the Old Town (Miðborg), Laugardalur, and Álftanes',
+    },
+    ljubljana: {
+      personality: 'Europe\'s green capital — a compact, traffic-free centre where dogs walk alongside their owners on riverside terraces, through castle grounds, and across medieval bridges',
+      highlight: 'Tivoli Park (off-leash), the Ljubljana Castle hill, and the Sava river greenway',
+      area: 'the Old Town, Trnovo, and Šiška',
+    },
+    riga: {
+      personality: 'a beautifully restored Art Nouveau city with a strong Baltic outdoor culture — dogs are part of daily life in parks, markets, and on the Daugava riverbanks',
+      highlight: 'the Mežaparks forest park, Bastejkalns park, and the Daugava riverside promenade',
+      area: 'the Old Town (Vecrīga), the Art Nouveau District, and Āgenskalns',
+    },
+    tallinn: {
+      personality: 'a fairy-tale medieval city with a progressive Estonian attitude toward pets — dogs enter most shops, visit the old town, and explore the coastal paths freely',
+      highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
+      area: 'Kalamaja, Telliskivi, and the Old Town',
+    },
   },
   fr: {
     amsterdam: {
@@ -83,6 +224,146 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
       area: 'Chiado, Príncipe Real et Bairro Alto',
     },
+    rome: {
+      personality: 'une ville où les chiens accompagnent leurs propriétaires partout — du cornetto du matin à la passeggiata du soir',
+      highlight: 'les jardins de la Villa Borghèse, les zones sans laisse du Parco dell\'Appia Antica et les promenades du Lungotevere',
+      area: 'Prati, Trastevere et Pigneto',
+    },
+    madrid: {
+      personality: 'l\'une des capitales les plus dog-friendly d\'Europe — Madrid compte plus de chiens par habitant que presque toute autre ville européenne',
+      highlight: 'le Parc du Retiro, la Casa de Campo et le Parque del Oeste sans laisse',
+      area: 'Malasaña, Lavapiés et Chamberí',
+    },
+    prague: {
+      personality: 'une ville compacte et marchable où les chiens sont les bienvenus dans la plupart des pubs, bars à vins et même certains marchés couverts',
+      highlight: 'les parcs Stromovka et Letná, et les sentiers de la vallée de Nusle au bord de la rivière',
+      area: 'Vinohrady, Žižkov et Malá Strana',
+    },
+    vienna: {
+      personality: 'une ville qui prend la possession d\'animaux très au sérieux — les chiens prennent le U-Bahn, entrent dans les musées et sont accueillis dans des centaines de cafés viennois',
+      highlight: 'le parc du Prater, l\'île du Danube et le Lainzer Tiergarten',
+      area: 'le 1er arrondissement, le Naschmarkt et Josefstadt',
+    },
+    copenhagen: {
+      personality: 'une ville en tête de l\'Europe pour le bien-être animal — les chiens voyagent gratuitement dans les transports en commun, entrent dans la plupart des commerces et sont accueillis avec des bols d\'eau sur presque toutes les terrasses',
+      highlight: 'les jardins de Frederiksberg, Fælledparken et le front de mer du port',
+      area: 'Nørrebro, Frederiksberg et Vesterbro',
+    },
+    stockholm: {
+      personality: 'une ville où les chiens font partie du tissu de la vie quotidienne — sur les ferries, dans les cafés et à travers les îles de l\'archipel',
+      highlight: 'l\'île de Djurgården, Hagaparken et le réseau de sentiers de l\'archipel',
+      area: 'Södermalm, Östermalm et Djurgården',
+    },
+    munich: {
+      personality: 'une ville où les chiens sont accueillis dans les jardins de bière, dans les transports en commun et dans le Jardin Anglais — le plus grand parc urbain d\'Europe',
+      highlight: 'l\'Englischer Garten, l\'Olympiapark et les berges de l\'Isar',
+      area: 'Schwabing, Maxvorstadt et Haidhausen',
+    },
+    zurich: {
+      personality: 'une ville qui figure parmi les plus dog-friendly d\'Europe — avec des zones dédiées aux chiens sur les plages, des tramways dog-friendly et les passeports pour animaux acceptés partout',
+      highlight: 'le front de lac du Zürichsee, la colline de l\'Uetliberg et les sentiers de la rivière Sihl',
+      area: 'Kreis 4, Zurich West et la Vieille Ville',
+    },
+    nice: {
+      personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
+      highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
+      area: 'le Vieux-Nice, Cimiez et le Port',
+    },
+    bordeaux: {
+      personality: 'une ville où les chiens se promènent sur les terrasses des bars à vins du quartier des Chartrons, explorent les quais de la Garonne et sont accueillis dans la plupart des hôtels boutiques',
+      highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
+      area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
+    },
+    lyon: {
+      personality: 'la capitale gastronomique de la France, où les chiens sont aussi courants que les bouchons — accueillis dans les cafés, le long des berges et dans toute la Presqu\'île',
+      highlight: 'le Parc de la Tête d\'Or, les berges de la Saône et du Rhône, et les sentiers de la colline de Fourvière',
+      area: 'la Presqu\'île, la Croix-Rousse et Confluence',
+    },
+    bruges: {
+      personality: 'une magnifique ville médiévale préservée où les chiens trottent aux côtés de leurs propriétaires sur des rues pavées, des chemins de halage et à travers la tranquille campagne environnante',
+      highlight: 'le parc de Minnewater, les chemins de halage du réseau de canaux et le Koningin Astridpark',
+      area: 'le centre historique, le quartier Sint-Anna et le Begijnhof',
+    },
+    budapest: {
+      personality: 'une ville de grande architecture et d\'une scène dog-friendly en plein essor — les chiens prennent le métro, accèdent à la plupart des parcs et sont accueillis dans les célèbres bars en ruine de Budapest',
+      highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
+      area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
+    },
+    dubrovnik: {
+      personality: 'une ville fortifiée spectaculaire où les chiens accompagnent leurs propriétaires sur les sentiers côtiers, les plages tranquilles des îles et les terrasses ombragées de pins en dehors de la Vieille Ville',
+      highlight: 'le sentier côtier vers la plage de Sveti Jakov, le ferry de l\'île de Lokrum (chiens acceptés) et la péninsule de Lapad',
+      area: 'Lapad, Gruž et les environs de la Vieille Ville',
+    },
+    porto: {
+      personality: 'une ville vallonnée et atmosphérique où les chiens font partie du rythme quotidien — dans les tramways, dans les jardins des bars à vins et le long de l\'esplanade du fleuve Douro',
+      highlight: 'les Jardins du Palácio de Cristal, les berges du Douro (Ribeira) et le parc de Serralves',
+      area: 'Ribeira, Bonfim et Foz do Douro',
+    },
+    seville: {
+      personality: 'l\'une des villes les plus dog-friendly d\'Andalousie — où les chiens se promènent sous les orangers, rejoignent leurs propriétaires sur les terrasses de bars à tapas et explorent les parcs riverains',
+      highlight: 'le Parque de María Luisa, le parc Alamillo et la promenade riveraine du Guadalquivir',
+      area: 'Triana, Santa Cruz et El Arenal',
+    },
+    valencia: {
+      personality: 'une ville méditerranéenne ensoleillée avec 19 km de parc traversant son centre — l\'ancien lit de la Turia — ce qui en fait l\'une des villes les plus praticables d\'Europe pour les propriétaires de chiens',
+      highlight: 'le Jardin du Turia (9 km largement sans laisse), la zone chiens de la plage de Malvarrosa et le parc naturel de l\'Albufera',
+      area: 'Ruzafa, El Carmen et l\'Eixample',
+    },
+    malaga: {
+      personality: 'une ville portuaire andalouse décontractée où les chiens rejoignent leurs propriétaires sur les terrasses de musées, dans les hôtels en bord de mer et à travers le quartier historique de l\'Alcazaba',
+      highlight: 'le Parque de Málaga en bord de mer, le parc naturel des Montes de Málaga et la zone chiens de la plage de Pedregalejo',
+      area: 'le Centre Historique, Soho et Pedregalejo',
+    },
+    florence: {
+      personality: 'une ville de la Renaissance où les chiens trottent sur les pavés vers les marchés matinaux, s\'installent sous les parasols des cafés et font la promenade des berges de l\'Arno chaque soir avec leurs propriétaires',
+      highlight: 'les Jardins de Boboli, le parc des Cascine (zones sans laisse) et les chemins riverains de l\'Arno',
+      area: 'Oltrarno, Santa Croce et San Frediano',
+    },
+    venice: {
+      personality: 'l\'une des villes les plus étonnamment dog-friendly d\'Italie — les chiens prennent le vaporetto, explorent les sestieri tranquilles loin des foules et sont accueillis dans de nombreux bacari locaux',
+      highlight: 'les plages de l\'île du Lido (chiens autorisés hors saison), les canaux tranquilles du Cannaregio et le parc de Sant\'Elena',
+      area: 'Cannaregio, Dorsoduro et Sant\'Elena',
+    },
+    ghent: {
+      personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne — dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
+      highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
+      area: 'le Patershol, Sint-Pieters et Portus Ganda',
+    },
+    antwerp: {
+      personality: 'la capitale de la mode belge et l\'une de ses villes les plus dog-friendly — avec de vastes parcs riverains, des terrasses accueillantes pour les chiens et un secteur hôtelier boutique florissant',
+      highlight: 'le parc Rivierenhof, la promenade riveraine de l\'Escaut et le Nachtegalenpark',
+      area: 'la Vieille Ville, Zurenborg et le Zuid',
+    },
+    edinburgh: {
+      personality: 'l\'une des villes les plus dog-friendly de Grande-Bretagne — avec des collines sans laisse, des pubs accueillant les chiens dans chaque rue et une culture qui traite les chiens comme de véritables membres de la famille',
+      highlight: 'Arthur\'s Seat (sans laisse), le Holyrood Park et le sentier riverain Water of Leith',
+      area: 'Stockbridge, Leith et le New Town',
+    },
+    dublin: {
+      personality: 'une ville chaleureuse et centrée sur les pubs où les chiens sont accueillis dans les jardins de bière, sur les promenades côtières et à travers le plus grand parc urbain d\'Europe — le Phoenix Park',
+      highlight: 'le Phoenix Park (700 hectares, largement sans laisse), le sentier de la rivière Dodder et la plage de Sandymount Strand',
+      area: 'Ranelagh, Portobello et Stoneybatter',
+    },
+    reykjavik: {
+      personality: 'la capitale la plus septentrionale du monde et l\'une des plus dog-friendly — avec de vastes champs de lave, des plages géothermiques et une culture qui emmène les chiens partout',
+      highlight: 'la vallée d\'Elliðaárdalur, la colline d\'Öskjuhlíð et la promenade côtière du phare de Grótta',
+      area: 'le Centre (Miðborg), Laugardalur et Álftanes',
+    },
+    ljubljana: {
+      personality: 'la capitale verte d\'Europe — un centre compact et sans circulation où les chiens se promènent avec leurs propriétaires sur les terrasses riveraines, à travers les jardins du château et sur les ponts médiévaux',
+      highlight: 'le Parc Tivoli (sans laisse), la colline du château de Ljubljana et la voie verte de la rivière Sava',
+      area: 'la Vieille Ville, Trnovo et Šiška',
+    },
+    riga: {
+      personality: 'une belle ville Art Nouveau restaurée avec une forte culture de plein air balte — les chiens font partie de la vie quotidienne dans les parcs, les marchés et sur les berges de la Daugava',
+      highlight: 'le parc forestier de Mežaparks, le parc Bastejkalns et la promenade riveraine de la Daugava',
+      area: 'la Vieille Ville (Vecrīga), le Quartier Art Nouveau et Āgenskalns',
+    },
+    tallinn: {
+      personality: 'une ville médiévale de conte de fées avec une attitude estonienne progressiste envers les animaux — les chiens entrent dans la plupart des commerces, visitent la vieille ville et explorent librement les chemins côtiers',
+      highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
+      area: 'Kalamaja, Telliskivi et la Vieille Ville',
+    },
   },
   es: {
     amsterdam: {
@@ -114,6 +395,146 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad soleada y con colinas cuyo clima suave la hace ideal para viajar con mascotas durante todo el año',
       highlight: 'el parque forestal de Monsanto, el paseo marítimo de Belém y las explanadas de Alfama',
       area: 'Chiado, Príncipe Real y Bairro Alto',
+    },
+    rome: {
+      personality: 'una ciudad donde los perros acompañan a sus dueños a todas partes — desde el cornetto matutino hasta el paseo vespertino',
+      highlight: 'los jardines de Villa Borghese, las zonas sin correa del Parco dell\'Appia Antica y los paseos ribereños del Lungotevere',
+      area: 'Prati, Trastevere y Pigneto',
+    },
+    madrid: {
+      personality: 'una de las capitales más dog-friendly de Europa — Madrid tiene más perros per cápita que casi cualquier otra ciudad europea',
+      highlight: 'el Parque del Retiro, la Casa de Campo y el Parque del Oeste sin correa',
+      area: 'Malasaña, Lavapiés y Chamberí',
+    },
+    prague: {
+      personality: 'una ciudad compacta y transitable donde los perros son bienvenidos en la mayoría de los pubs, bares de vinos e incluso algunos mercados cubiertos',
+      highlight: 'los parques Stromovka y Letná, y los senderos del Valle de Nusle junto al río',
+      area: 'Vinohrady, Žižkov y Malá Strana',
+    },
+    vienna: {
+      personality: 'una ciudad que se toma en serio la tenencia de mascotas — los perros viajan en el U-Bahn, entran en museos y son atendidos en cientos de cafés vieneses',
+      highlight: 'el parque del Prater, la isla del Danubio y el Lainzer Tiergarten',
+      area: 'el 1er distrito, el Naschmarkt y Josefstadt',
+    },
+    copenhagen: {
+      personality: 'una ciudad líder en Europa en bienestar animal — los perros viajan gratis en transporte público, entran en la mayoría de los comercios y son bienvenidos con cuencos de agua en casi todas las terrazas',
+      highlight: 'los Jardines de Frederiksberg, Fælledparken y el paseo marítimo del puerto',
+      area: 'Nørrebro, Frederiksberg y Vesterbro',
+    },
+    stockholm: {
+      personality: 'una ciudad donde los perros forman parte del tejido de la vida cotidiana — en ferries, en cafés y a través de las islas del archipiélago',
+      highlight: 'la isla de Djurgården, Hagaparken y la red de senderos del archipiélago',
+      area: 'Södermalm, Östermalm y Djurgården',
+    },
+    munich: {
+      personality: 'una ciudad donde los perros son bienvenidos en los jardines de cerveza, en el transporte público y en el Jardín Inglés — el parque urbano más grande de Europa',
+      highlight: 'el Englischer Garten, el Olympiapark y las orillas del río Isar',
+      area: 'Schwabing, Maxvorstadt y Haidhausen',
+    },
+    zurich: {
+      personality: 'una ciudad que figura entre las más dog-friendly de Europa — con zonas dedicadas a perros en las playas, tranvías pet-friendly y pasaportes de mascotas aceptados en todas partes',
+      highlight: 'el paseo lacustre del Zürichsee, la colina del Uetliberg y los senderos del río Sihl',
+      area: 'Kreis 4, Zúrich Oeste y el Casco Antiguo',
+    },
+    nice: {
+      personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
+      highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
+      area: 'el Casco Antiguo (Vieux-Nice), Cimiez y el Puerto',
+    },
+    bordeaux: {
+      personality: 'una ciudad donde los perros pasean por las terrazas de los bares de vino del barrio de Chartrons, exploran los muelles del Garona y son bienvenidos en la mayoría de los hoteles boutique',
+      highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
+      area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
+    },
+    lyon: {
+      personality: 'la capital gastronómica de Francia, donde los perros son tan comunes como los restaurantes bouchon — bienvenidos en cafés, a lo largo de las orillas del río y en toda la Presqu\'île',
+      highlight: 'el Parque de la Tête d\'Or, las orillas del Saona y el Ródano, y los senderos de la colina de Fourvière',
+      area: 'la Presqu\'île, Croix-Rousse y Confluence',
+    },
+    bruges: {
+      personality: 'una hermosa ciudad medieval conservada donde los perros trotean junto a sus dueños por calles empedradas, caminos de sirga y a través del tranquilo campo circundante',
+      highlight: 'el parque Minnewater, los caminos de sirga de la red de canales y el Koningin Astridpark',
+      area: 'el centro histórico, el barrio de Sint-Anna y el Begijnhof',
+    },
+    budapest: {
+      personality: 'una ciudad de gran arquitectura y una escena dog-friendly en auge — los perros viajan en metro, acceden a la mayoría de los parques y son bienvenidos en los famosos bares en ruinas de Budapest',
+      highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
+      area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
+    },
+    dubrovnik: {
+      personality: 'una ciudad amurallada dramática donde los perros acompañan a sus dueños en senderos costeros, playas tranquilas en islas y terrazas sombreadas por pinos fuera del Casco Antiguo',
+      highlight: 'el sendero costero hacia la playa de Sveti Jakov, el ferry a la isla de Lokrum (perros permitidos) y la península de Lapad',
+      area: 'Lapad, Gruž y los alrededores del Casco Antiguo',
+    },
+    porto: {
+      personality: 'una ciudad montañosa y atmosférica donde los perros forman parte del ritmo diario — en tranvías, en jardines de bares de vino y a lo largo del paseo fluvial del Duero',
+      highlight: 'los Jardines del Palácio de Cristal, la orilla del Duero (Ribeira) y el parque de Serralves',
+      area: 'Ribeira, Bonfim y Foz do Douro',
+    },
+    seville: {
+      personality: 'una de las ciudades más dog-friendly de Andalucía — donde los perros pasean bajo los naranjos, acompañan a sus dueños en las terrazas de bares de tapas y exploran los parques ribereños',
+      highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
+      area: 'Triana, Santa Cruz y El Arenal',
+    },
+    valencia: {
+      personality: 'una ciudad mediterránea soleada con 19 km de parque atravesando su centro — el antiguo cauce del Turia — que la convierte en una de las ciudades más transitables de Europa para los dueños de perros',
+      highlight: 'el Jardín del Turia (9 km mayormente sin correa), la zona para perros de la playa de Malvarrosa y el parque natural de la Albufera',
+      area: 'Ruzafa, El Carmen y el Eixample',
+    },
+    malaga: {
+      personality: 'una relajada ciudad portuaria andaluza donde los perros acompañan a sus dueños en las terrazas de museos, en hoteles frente al mar y a través del histórico barrio de la Alcazaba',
+      highlight: 'el Parque de Málaga en el paseo marítimo, el parque natural de los Montes de Málaga y la zona para perros de la playa de Pedregalejo',
+      area: 'el Centro Histórico, Soho y Pedregalejo',
+    },
+    florence: {
+      personality: 'una ciudad renacentista donde los perros trotean sobre adoquines hacia los mercados matutinos, descansan bajo los parasoles de los cafés y pasean por las orillas del Arno cada tarde con sus dueños',
+      highlight: 'los Jardines de Bóboli, el parque de las Cascine (zonas sin correa) y los caminos ribereños del Arno',
+      area: 'Oltrarno, Santa Croce y San Frediano',
+    },
+    venice: {
+      personality: 'una de las ciudades más sorprendentemente dog-friendly de Italia — los perros viajan en vaporetto, exploran tranquilos sestieri lejos de las multitudes y son bienvenidos en muchos bacari locales',
+      highlight: 'las playas de la isla del Lido (perros permitidos fuera de temporada), los tranquilos canales de Cannaregio y el parque de Sant\'Elena',
+      area: 'Cannaregio, Dorsoduro y Sant\'Elena',
+    },
+    ghent: {
+      personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana — en tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',
+      highlight: 'el Citadelpark, la reserva natural de Bourgoyen-Ossemeersen y los caminos de sirga ribereños del Leie',
+      area: 'el Patershol, Sint-Pieters y Portus Ganda',
+    },
+    antwerp: {
+      personality: 'la capital de la moda de Bélgica y una de sus ciudades más dog-friendly — con amplios parques ribereños, terrazas acogedoras para perros y un floreciente sector de hoteles boutique',
+      highlight: 'el parque Rivierenhof, el paseo ribereño del Escalda y el Nachtegalenpark',
+      area: 'el Casco Antiguo, Zurenborg y el Zuid',
+    },
+    edinburgh: {
+      personality: 'una de las ciudades más dog-friendly de Gran Bretaña — con colinas sin correa, pubs que admiten perros en cada calle y una cultura que trata a los perros como miembros plenos de la familia',
+      highlight: 'Arthur\'s Seat (sin correa), el Holyrood Park y el sendero ribereño Water of Leith',
+      area: 'Stockbridge, Leith y el New Town',
+    },
+    dublin: {
+      personality: 'una cálida ciudad centrada en los pubs donde los perros son bienvenidos en los jardines de cerveza, en los paseos costeros y a través del parque urbano más grande de Europa — el Phoenix Park',
+      highlight: 'el Phoenix Park (700 hectáreas, mayormente sin correa), el sendero del río Dodder y la playa de Sandymount Strand',
+      area: 'Ranelagh, Portobello y Stoneybatter',
+    },
+    reykjavik: {
+      personality: 'la capital más septentrional del mundo y una de las más dog-friendly — con vastos campos de lava, playas geotérmicas y una cultura que lleva a los perros a todas partes',
+      highlight: 'el valle de Elliðaárdalur, la colina de Öskjuhlíð y el paseo costero del faro de Grótta',
+      area: 'el Centro (Miðborg), Laugardalur y Álftanes',
+    },
+    ljubljana: {
+      personality: 'la capital verde de Europa — un centro compacto y sin tráfico donde los perros pasean junto a sus dueños en terrazas ribereñas, por los jardines del castillo y sobre puentes medievales',
+      highlight: 'el Parque Tivoli (sin correa), la colina del castillo de Ljubljana y la vía verde del río Sava',
+      area: 'el Casco Antiguo, Trnovo y Šiška',
+    },
+    riga: {
+      personality: 'una bella ciudad Art Nouveau restaurada con una fuerte cultura báltica de aire libre — los perros forman parte de la vida cotidiana en parques, mercados y a lo largo de las orillas del Daugava',
+      highlight: 'el parque forestal de Mežaparks, el parque Bastejkalns y el paseo ribereño del Daugava',
+      area: 'el Casco Antiguo (Vecrīga), el Barrio Art Nouveau y Āgenskalns',
+    },
+    tallinn: {
+      personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas — los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',
+      highlight: 'el Parque Kadriorg, el sendero costero de Pirita y los paseos por la turbera de Pääsküla',
+      area: 'Kalamaja, Telliskivi y el Casco Antiguo',
     },
   },
 }

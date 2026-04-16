@@ -5,6 +5,8 @@ import hotels from '@/data/hotels.json'
 
 const BASE_URL = 'https://hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']
+// Build date — used as lastModified for static content
+const BUILD_DATE = new Date()
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = []
@@ -13,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const locale of LOCALES) {
     entries.push({
       url: `${BASE_URL}/${locale}`,
-      lastModified: new Date(),
+      lastModified: BUILD_DATE,
       changeFrequency: 'weekly',
       priority: 1.0,
     })
@@ -23,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const locale of LOCALES) {
     entries.push({
       url: `${BASE_URL}/${locale}/destinations`,
-      lastModified: new Date(),
+      lastModified: BUILD_DATE,
       changeFrequency: 'weekly',
       priority: 0.9,
     })
@@ -33,7 +35,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const locale of LOCALES) {
     entries.push({
       url: `${BASE_URL}/${locale}/categories`,
-      lastModified: new Date(),
+      lastModified: BUILD_DATE,
       changeFrequency: 'weekly',
       priority: 0.9,
     })
@@ -44,7 +46,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/destinations/${dest.slug}`,
-        lastModified: new Date(),
+        lastModified: BUILD_DATE,
         changeFrequency: 'weekly',
         priority: 0.8,
       })
@@ -56,7 +58,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/categories/${cat.slug}`,
-        lastModified: new Date(),
+        lastModified: BUILD_DATE,
         changeFrequency: 'weekly',
         priority: 0.8,
       })
@@ -72,7 +74,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/${destSlug}/${catSlug}`,
-        lastModified: new Date(),
+        lastModified: BUILD_DATE,
         changeFrequency: 'monthly',
         priority: 0.95,
       })

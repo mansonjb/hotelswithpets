@@ -76,7 +76,46 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
   const presentCategories = categories.filter((c) => presentCategorySlugs.has(c.slug))
 
+  const base = 'https://hotelswithpets.com'
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: dict.nav.home, item: `${base}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: dict.nav.destinations, item: `${base}/${locale}/destinations` },
+      { '@type': 'ListItem', position: 3, name: dest.name, item: `${base}/${locale}/destinations/${dest.slug}` },
+    ],
+  }
+  const itemListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Pet-friendly hotels in ${dest.name}`,
+    numberOfItems: destHotels.length,
+    itemListElement: destHotels.map((hotel, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'LodgingBusiness',
+        name: hotel.name,
+        url: hotel.bookingUrl,
+        petsAllowed: true,
+        starRating: { '@type': 'Rating', ratingValue: hotel.stars },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: hotel.rating,
+          reviewCount: hotel.reviewCount,
+          bestRating: '10',
+          worstRating: '1',
+        },
+        address: { '@type': 'PostalAddress', addressLocality: dest.name, addressCountry: dest.country },
+      },
+    })),
+  }
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
@@ -163,5 +202,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </div>
       </section>
     </div>
+    </>
   )
 }

@@ -28,7 +28,9 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
   }
   const l = hasLocale(locale) ? locale : 'en'
   return {
-    title: { default: titles[l], template: `%s | HotelsWithPets` },
+    // template '%s' is identity — pages include their own '| HotelsWithPets.com' suffix
+    // to avoid double-suffix (e.g. "Title | HotelsWithPets.com | HotelsWithPets")
+    title: { default: titles[l], template: `%s` },
     description: descriptions[l],
     openGraph: {
       siteName: 'HotelsWithPets',

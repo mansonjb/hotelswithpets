@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import destinations from '@/data/destinations.json'
+import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -15,6 +16,15 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   return {
     title: `${dict.pages.destinations.title} | HotelsWithPets.com`,
     description: dict.pages.destinations.subtitle,
+    alternates: {
+      canonical: `${SITE_URL}/${locale}/destinations`,
+      languages: {
+        en: `${SITE_URL}/en/destinations`,
+        fr: `${SITE_URL}/fr/destinations`,
+        es: `${SITE_URL}/es/destinations`,
+        'x-default': `${SITE_URL}/en/destinations`,
+      },
+    },
   }
 }
 

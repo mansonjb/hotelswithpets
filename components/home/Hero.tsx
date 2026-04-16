@@ -1,5 +1,10 @@
-import Link from 'next/link'
+'use client'
+
+import { useState } from 'react'
+import { useRouter } from 'next/navigation'
 import type { Locale } from '@/app/[locale]/dictionaries'
+import destinations from '@/data/destinations.json'
+import categories from '@/data/categories.json'
 
 interface HeroProps {
   locale: Locale
@@ -21,8 +26,44 @@ interface HeroProps {
   }
 }
 
+function getCategoryName(cat: (typeof categories)[number], locale: Locale): string {
+  if (locale === 'fr' && cat.nameFr) return cat.nameFr
+  if (locale === 'es' && cat.nameEs) return cat.nameEs
+  return cat.name
+}
+
+function matchDestination(query: string) {
+  const q = query.trim().toLowerCase()
+  if (!q) return null
+  return (
+    destinations.find((d) => d.slug === q) ||
+    destinations.find((d) => d.name.toLowerCase() === q) ||
+    destinations.find((d) => d.name.toLowerCase().startsWith(q)) ||
+    null
+  )
+}
+
 export default function Hero({ locale, dict }: HeroProps) {
+  const router = useRouter()
   const { hero } = dict
+  const [destQuery, setDestQuery] = useState('')
+  const [catSlug, setCatSlug] = useState('')
+
+  function handleSearch(e: React.FormEvent) {
+    e.preventDefault()
+    const match = matchDestination(destQuery)
+
+    if (match && catSlug) {
+      router.push(`/${locale}/${match.slug}/${catSlug}`)
+    } else if (match) {
+      router.push(`/${locale}/destinations/${match.slug}`)
+    } else if (catSlug) {
+      router.push(`/${locale}/categories/${catSlug}`)
+    } else {
+      router.push(`/${locale}/destinations`)
+    }
+  }
+
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white min-h-[600px] flex items-center">
       {/* Background blobs */}
@@ -64,42 +105,67 @@ export default function Hero({ locale, dict }: HeroProps) {
           <div className="relative">
             {/* Decorative ring */}
             <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-500/30 to-indigo-500/10 blur-xl" />
-            <div className="relative bg-white/10 backdrop-blur-md border border-white/20 rounded-3xl p-8 shadow-2xl">
-              <p className="text-sm font-semibold text-blue-200 uppercase tracking-widest mb-6">Find your stay</p>
+            <form
+              onSubmit={handleSearch}
+              className="relative bg-white/10 backdrop-blur-md border border-white/20 rounded-3xl p-8 shadow-2xl"
+            >
+              <p className="text-sm font-semibold text-blue-200 uppercase tracking-widest mb-6">
+                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
+              </p>
 
               <div className="space-y-3">
+                {/* Destination input with datalist for autocomplete */}
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">📍</span>
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg pointer-events-none">📍</span>
                   <input
+                    list="destinations-list"
                     type="text"
+                    value={destQuery}
+                    onChange={(e) => setDestQuery(e.target.value)}
                     placeholder={hero.searchDestination}
                     className="w-full pl-11 pr-4 py-4 bg-white text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 transition"
+                    autoComplete="off"
                   />
+                  <datalist id="destinations-list">
+                    {destinations.map((d) => (
+                      <option key={d.slug} value={d.name} />
+                    ))}
+                  </datalist>
                 </div>
+
+                {/* Category select */}
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">🐾</span>
-                  <select className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 transition appearance-none cursor-pointer">
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg pointer-events-none">🐾</span>
+                  <select
+                    value={catSlug}
+                    onChange={(e) => setCatSlug(e.target.value)}
+                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 transition appearance-none cursor-pointer"
+                  >
                     <option value="">{hero.searchCategory}</option>
-                    <option value="dog-friendly">Dog-friendly</option>
-                    <option value="cat-friendly">Cat-friendly</option>
-                    <option value="beach-access">Beach Access</option>
-                    <option value="near-parks">Near Parks</option>
-                    <option value="luxury">Luxury</option>
-                    <option value="dogs-stay-free">Dogs Stay Free</option>
+                    {categories.map((cat) => (
+                      <option key={cat.slug} value={cat.slug}>
+                        {cat.emoji} {getCategoryName(cat, locale)}
+                      </option>
+                    ))}
                   </select>
                 </div>
-                <Link
-                  href={`/${locale}/destinations`}
+
+                <button
+                  type="submit"
                   className="block w-full bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-4 rounded-2xl text-center transition-all duration-200 shadow-lg shadow-blue-900/40 hover:shadow-blue-900/60 hover:-translate-y-0.5"
                 >
                   {hero.cta} →
-                </Link>
+                </button>
               </div>
 
               <p className="text-xs text-blue-300 text-center mt-5 opacity-70">
-                Free · No sign-up · Book on Booking.com
+                {locale === 'fr'
+                  ? 'Gratuit · Sans inscription · Réservez sur Booking.com'
+                  : locale === 'es'
+                  ? 'Gratis · Sin registro · Reserva en Booking.com'
+                  : 'Free · No sign-up · Book on Booking.com'}
               </p>
-            </div>
+            </form>
           </div>
 
         </div>

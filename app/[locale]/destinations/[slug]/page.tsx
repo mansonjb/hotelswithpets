@@ -7,6 +7,7 @@ import PetMap from '@/components/PetMap'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
+import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }))
@@ -17,12 +18,36 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   if (!hasLocale(locale)) return {}
   const dest = destinations.find((d) => d.slug === slug)
   if (!dest) return {}
+
+  const titleTemplates: Record<string, string> = {
+    en: `Pet-friendly hotels in ${dest.name}, ${dest.country} | HotelsWithPets.com`,
+    fr: `Hôtels acceptant animaux à ${dest.name}, ${dest.country} | HotelsWithPets.com`,
+    es: `Hoteles con mascotas en ${dest.name}, ${dest.country} | HotelsWithPets.com`,
+  }
+  const descTemplates: Record<string, string> = {
+    en: `Find the best pet-friendly hotels in ${dest.name}. Browse by category, compare pet policies, and book on Booking.com.`,
+    fr: `Trouvez les meilleurs hôtels acceptant les animaux à ${dest.name}. Comparez les politiques et réservez sur Booking.com.`,
+    es: `Encuentra los mejores hoteles con mascotas en ${dest.name}. Compara políticas y reserva en Booking.com.`,
+  }
+  const title = titleTemplates[locale] ?? titleTemplates.en
+  const description = descTemplates[locale] ?? descTemplates.en
+
   return {
-    title: `Pet-friendly hotels in ${dest.name}, ${dest.country} | HotelsWithPets.com`,
-    description: `Find the best pet-friendly hotels in ${dest.name}. Browse by category, compare pet policies, and book on Booking.com.`,
+    title,
+    description,
     openGraph: {
-      title: `Pet-friendly hotels in ${dest.name}`,
-      description: dest.intro,
+      title,
+      description,
+      type: 'website',
+    },
+    alternates: {
+      canonical: `${SITE_URL}/${locale}/destinations/${slug}`,
+      languages: {
+        en: `${SITE_URL}/en/destinations/${slug}`,
+        fr: `${SITE_URL}/fr/destinations/${slug}`,
+        es: `${SITE_URL}/es/destinations/${slug}`,
+        'x-default': `${SITE_URL}/en/destinations/${slug}`,
+      },
     },
   }
 }

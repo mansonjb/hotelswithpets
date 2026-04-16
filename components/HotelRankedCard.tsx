@@ -46,6 +46,22 @@ const ratingLabel = (r: number) => {
 
 const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
 
+/**
+ * Scraper sometimes returns garbage policy text (very long, HTML fragments, or
+ * repeated filler phrases). Detect and replace with a clean generic fallback.
+ */
+function sanitizePetPolicy(raw: string): string {
+  if (!raw || raw.trim().length === 0) return 'Pets welcome. Please confirm specific policy at booking.'
+  // Too long = scraped boilerplate
+  if (raw.length > 180) return 'Pets welcome. Please confirm specific policy at booking.'
+  // Contains HTML tags or suspicious chars
+  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return 'Pets welcome. Please confirm specific policy at booking.'
+  // Generic Booking.com filler
+  if (/charged|subject to availability|may vary|see policies/i.test(raw) && raw.length > 100)
+    return 'Pets welcome. Please confirm specific policy at booking.'
+  return raw
+}
+
 export default function HotelRankedCard({ hotel, rank, destName, catName, dict }: HotelRankedCardProps) {
   return (
     <article className="group bg-white rounded-3xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100">
@@ -105,7 +121,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict }
           {/* Pet policy */}
           <div className="bg-blue-50 border border-blue-100 rounded-2xl p-3 mb-4">
             <p className="text-xs font-bold text-blue-700 uppercase tracking-wide mb-0.5">{dict.petPolicy}</p>
-            <p className="text-sm text-gray-700 leading-snug">{hotel.petPolicy}</p>
+            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy)}</p>
           </div>
 
           {/* Highlights */}

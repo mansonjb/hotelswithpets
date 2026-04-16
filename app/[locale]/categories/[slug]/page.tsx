@@ -5,6 +5,7 @@ import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/d
 import categories from '@/data/categories.json'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }))
@@ -15,9 +16,31 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   if (!hasLocale(locale)) return {}
   const cat = categories.find((c) => c.slug === slug)
   if (!cat) return {}
+
+  const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+  const titleTemplates: Record<string, string> = {
+    en: `${catName} Hotels in Europe | HotelsWithPets.com`,
+    fr: `Hôtels ${catName} en Europe | HotelsWithPets.com`,
+    es: `Hoteles ${catName} en Europa | HotelsWithPets.com`,
+  }
+  const descTemplates: Record<string, string> = {
+    en: `${cat.description} Browse ${cat.cityCount}+ destinations and find the perfect stay for you and your pet.`,
+    fr: `${cat.description} Parcourez ${cat.cityCount}+ destinations et trouvez le séjour idéal pour vous et votre animal.`,
+    es: `${cat.description} Explora ${cat.cityCount}+ destinos y encuentra el alojamiento perfecto para ti y tu mascota.`,
+  }
+
   return {
-    title: `${cat.name} hotels in Europe | HotelsWithPets.com`,
-    description: `${cat.description} Browse ${cat.cityCount}+ destinations and find the perfect stay for you and your pet.`,
+    title: titleTemplates[locale] ?? titleTemplates.en,
+    description: descTemplates[locale] ?? descTemplates.en,
+    alternates: {
+      canonical: `${SITE_URL}/${locale}/categories/${slug}`,
+      languages: {
+        en: `${SITE_URL}/en/categories/${slug}`,
+        fr: `${SITE_URL}/fr/categories/${slug}`,
+        es: `${SITE_URL}/es/categories/${slug}`,
+        'x-default': `${SITE_URL}/en/categories/${slug}`,
+      },
+    },
   }
 }
 

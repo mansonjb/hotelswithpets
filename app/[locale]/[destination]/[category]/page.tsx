@@ -8,6 +8,7 @@ import { generateIntro, generateFaqs, generateTips, generateWhy, generateTestimo
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
+import { SITE_URL } from '@/lib/site'
 
 // ─── Static params ────────────────────────────────────────────────────────────
 
@@ -52,7 +53,13 @@ export async function generateMetadata({
       type: 'website',
     },
     alternates: {
-      canonical: `/${locale}/${destination}/${category}`,
+      canonical: `${SITE_URL}/${locale}/${destination}/${category}`,
+      languages: {
+        en: `${SITE_URL}/en/${destination}/${category}`,
+        fr: `${SITE_URL}/fr/${destination}/${category}`,
+        es: `${SITE_URL}/es/${destination}/${category}`,
+        'x-default': `${SITE_URL}/en/${destination}/${category}`,
+      },
     },
   }
 }
@@ -112,6 +119,7 @@ function buildSchema(
         '@type': 'LodgingBusiness',
         name: hotel.name,
         url: hotel.bookingUrl,
+        petsAllowed: true,
         starRating: { '@type': 'Rating', ratingValue: hotel.stars },
         aggregateRating: {
           '@type': 'AggregateRating',

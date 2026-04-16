@@ -30,6 +30,15 @@ interface HotelCardProps {
   dict: HotelCardDict
 }
 
+function sanitizePetPolicy(raw: string): string {
+  if (!raw || raw.trim().length === 0) return 'Pets welcome. Please confirm specific policy at booking.'
+  if (raw.length > 180) return 'Pets welcome. Please confirm specific policy at booking.'
+  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return 'Pets welcome. Please confirm specific policy at booking.'
+  if (/charged|subject to availability|may vary|see policies/i.test(raw) && raw.length > 100)
+    return 'Pets welcome. Please confirm specific policy at booking.'
+  return raw
+}
+
 const ratingLabel = (r: number) => {
   if (r >= 9) return 'Exceptional'
   if (r >= 8.5) return 'Excellent'
@@ -67,7 +76,7 @@ export default function HotelCard({ hotel, dict }: HotelCardProps) {
         {/* Pet policy */}
         <div className="bg-blue-50 rounded-xl p-3 mb-4">
           <p className="text-xs font-semibold text-blue-700 uppercase tracking-wide mb-1">{dict.petPolicy}</p>
-          <p className="text-sm text-gray-700 leading-relaxed">{hotel.petPolicy}</p>
+          <p className="text-sm text-gray-700 leading-relaxed">{sanitizePetPolicy(hotel.petPolicy)}</p>
         </div>
 
         {/* Highlights */}

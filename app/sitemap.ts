@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
+import { getAllCountries } from '@/lib/countries'
 
 const BASE_URL = 'https://hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']
@@ -18,6 +19,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: BUILD_DATE,
       changeFrequency: 'weekly',
       priority: 1.0,
+    })
+  }
+
+  // About page
+  for (const locale of LOCALES) {
+    entries.push({
+      url: `${BASE_URL}/${locale}/about`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'monthly',
+      priority: 0.5,
     })
   }
 
@@ -39,6 +50,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.9,
     })
+  }
+
+  // Country hub pages
+  const allCountries = getAllCountries()
+  for (const country of allCountries) {
+    for (const locale of LOCALES) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/countries/${country.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      })
+    }
   }
 
   // Individual destination pages

@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation'
 import destinations from '@/data/destinations.json'
 import { SITE_URL } from '@/lib/site'
 import { generateDestIntro } from '@/lib/editorial'
+import { getAllCountries } from '@/lib/countries'
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -43,6 +44,11 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
   if (!hasLocale(locale)) notFound()
   const dict = await getDictionary(locale as Locale)
   const p = dict.pages.destinations
+  const allCountries = getAllCountries()
+  // Only show countries with 2+ cities in the country filter strip
+  const multiCityCountries = allCountries.filter((c) => c.destinations.length >= 2)
+
+  const browseByCountry = locale === 'fr' ? 'Parcourir par pays' : locale === 'es' ? 'Explorar por país' : 'Browse by country'
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -51,6 +57,26 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{p.title}</h1>
           <p className="text-blue-200 text-lg max-w-2xl mx-auto">{p.subtitle}</p>
+        </div>
+      </section>
+
+      {/* Country filter strip */}
+      <section className="bg-white border-b border-gray-100 py-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <p className="text-xs font-semibold text-gray-400 uppercase tracking-wide mb-3">{browseByCountry}</p>
+          <div className="flex flex-wrap gap-2">
+            {multiCityCountries.map((country) => (
+              <Link
+                key={country.slug}
+                href={`/${locale}/countries/${country.slug}`}
+                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-gray-200 bg-gray-50 hover:bg-blue-50 hover:border-blue-200 text-sm text-gray-700 hover:text-blue-700 transition-colors"
+              >
+                <span>{country.flag}</span>
+                <span className="font-medium">{country.name}</span>
+                <span className="text-gray-400 text-xs">({country.destinations.length})</span>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 

@@ -11,6 +11,7 @@ interface FooterProps {
       company: string
       about: string
       disclosure: string
+      privacy?: string
       disclosureText: string
       copyright: string
     }
@@ -63,6 +64,7 @@ export default function Footer({ locale, dict }: FooterProps) {
             <ul className="space-y-2 text-sm">
               <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">{footer.about}</Link></li>
               <li><Link href={`/${locale}/affiliate-disclosure`} className="hover:text-white transition-colors">{footer.disclosure}</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">{footer.privacy ?? 'Privacy Policy'}</Link></li>
             </ul>
           </div>
         </div>

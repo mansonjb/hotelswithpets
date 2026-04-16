@@ -1160,6 +1160,81 @@ export function generateTips(catSlug: string, destName: string, locale: string =
  * Falls back to the static `dest.intro` field (English) if locale is 'en'
  * or if no locale context is available.
  */
+/**
+ * Generates 4 destination-level FAQs.
+ * Used on /destinations/[slug] for FAQ schema and content depth.
+ */
+export function generateDestFaqs(
+  destSlug: string,
+  destName: string,
+  country: string,
+  hotelCount: number,
+  locale: string = 'en'
+): Faq[] {
+  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
+  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : 'its parks and green spaces')
+
+  if (l === 'fr') {
+    return [
+      {
+        q: `Les hôtels de ${destName} acceptent-ils vraiment les animaux ?`,
+        a: `Oui. Les ${hotelCount} hôtels listés sur cette page ont été vérifiés pour avoir une politique explicite d'accueil des animaux sur Booking.com. Nous ne listons pas les hôtels qui se contentent d'indiquer "sous réserve de disponibilité" — chaque établissement accepte activement les animaux de compagnie.`,
+      },
+      {
+        q: `Quels sont les meilleurs endroits pour promener son animal à ${destName} ?`,
+        a: `${destName} offre d'excellentes options : ${highlight}. Ces zones permettent aux chiens de se dépenser sans contrainte, à courte distance des hôtels de la liste.`,
+      },
+      {
+        q: `Quel est le frais moyen pour animal dans les hôtels de ${destName} ?`,
+        a: `Les frais pour animaux varient généralement entre 0 et 30 € par nuit à ${destName}. Certains hôtels premium peuvent facturer jusqu'à 50 €. Environ 40 % des établissements de notre liste n'appliquent aucun frais supplémentaire — filtrez par "sans frais animaux" pour les trouver.`,
+      },
+      {
+        q: `Faut-il apporter un passeport pour animal de compagnie à ${destName} ?`,
+        a: `Si vous voyagez depuis l'UE, un passeport européen pour animaux (avec vaccin antirabique à jour) est recommandé pour ${country}. Hors UE, vérifiez les exigences d'entrée auprès de l'ambassade de ${country} dans votre pays de résidence.`,
+      },
+    ]
+  }
+  if (l === 'es') {
+    return [
+      {
+        q: `¿Los hoteles de ${destName} realmente aceptan mascotas?`,
+        a: `Sí. Los ${hotelCount} hoteles listados en esta página han sido verificados con política explícita de aceptación de mascotas en Booking.com. No listamos hoteles que solo dicen "sujeto a disponibilidad" — cada establecimiento acepta activamente mascotas.`,
+      },
+      {
+        q: `¿Cuáles son los mejores lugares para pasear con mascotas en ${destName}?`,
+        a: `${destName} ofrece excelentes opciones: ${highlight}. Estas zonas permiten a los perros ejercitarse libremente, a poca distancia de los hoteles de la lista.`,
+      },
+      {
+        q: `¿Cuál es el cargo promedio por mascotas en los hoteles de ${destName}?`,
+        a: `Los cargos por mascotas suelen oscilar entre 0 y 30 € por noche en ${destName}. Algunos hoteles premium pueden cobrar hasta 50 €. Aproximadamente el 40% de los establecimientos de nuestra lista no aplican cargo adicional.`,
+      },
+      {
+        q: `¿Necesito pasaporte para mascotas para viajar a ${destName}?`,
+        a: `Si viajas desde la UE, se recomienda un pasaporte europeo para mascotas (con vacuna antirrábica al día) para ${country}. Fuera de la UE, consulta los requisitos de entrada con la embajada de ${country} en tu país de residencia.`,
+      },
+    ]
+  }
+  return [
+    {
+      q: `Do hotels in ${destName} genuinely accept pets?`,
+      a: `Yes. The ${hotelCount} hotels listed on this page have been verified to have an explicit pet-acceptance policy on Booking.com. We don't list hotels that only say "subject to availability" — each property actively welcomes pets.`,
+    },
+    {
+      q: `Where are the best places to walk a dog in ${destName}?`,
+      a: `${destName} has excellent options: ${highlight}. These areas let dogs exercise freely and are within a short distance of the hotels on this list.`,
+    },
+    {
+      q: `What is the average pet fee in ${destName} hotels?`,
+      a: `Pet fees typically range from €0–€30 per night in ${destName}. Some premium properties charge up to €50. Around 40% of properties on our list charge no additional pet fee — filter by "dogs stay free" to find them.`,
+    },
+    {
+      q: `Do I need a pet passport to travel to ${destName}?`,
+      a: `If you're travelling from within the EU, an EU pet passport (with up-to-date rabies vaccination) is recommended for ${country}. From outside the EU, check entry requirements with the ${country} embassy in your home country.`,
+    },
+  ]
+}
+
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
   const l = locale === 'fr' || locale === 'es' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']

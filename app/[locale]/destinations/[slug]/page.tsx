@@ -8,7 +8,7 @@ import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
-import { generateDestIntro } from '@/lib/editorial'
+import { generateDestIntro, generateDestFaqs } from '@/lib/editorial'
 
 export async function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }))
@@ -71,6 +71,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
   const destHotels = hotels.filter((h) => h.destinationSlug === slug)
   const localeIntro = generateDestIntro(slug, dest.name, dest.country, locale) || dest.intro
+  const faqs = generateDestFaqs(slug, dest.name, dest.country, destHotels.length, locale)
 
   // Find which categories have hotels here
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
@@ -112,10 +113,21 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     })),
   }
 
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  }
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
@@ -199,6 +211,33 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               <p className="text-lg">{dict.pages.combo.noHotels}</p>
             </div>
           )}
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="py-16 bg-white border-t border-gray-100">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+            {locale === 'fr' ? 'Questions fréquentes' : locale === 'es' ? 'Preguntas frecuentes' : 'Frequently asked questions'}
+          </h2>
+          <div className="space-y-6">
+            {faqs.map((faq, i) => (
+              <details
+                key={i}
+                className="group bg-gray-50 rounded-2xl border border-gray-100 overflow-hidden"
+              >
+                <summary className="flex items-center justify-between gap-4 p-6 cursor-pointer list-none font-semibold text-gray-900 hover:bg-gray-100 transition-colors">
+                  <span>{faq.q}</span>
+                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center text-sm font-black group-open:rotate-45 transition-transform">
+                    +
+                  </span>
+                </summary>
+                <div className="px-6 pb-6 text-gray-600 text-sm leading-relaxed">
+                  {faq.a}
+                </div>
+              </details>
+            ))}
+          </div>
         </div>
       </section>
     </div>

@@ -64,6 +64,11 @@ function getCategoryName(cat: (typeof categories)[number], locale: Locale): stri
   return cat.name
 }
 
+/** Simple template interpolation: t("Top {n} {cat} in {dest}", {n:3, cat:"Dog-friendly", dest:"Amsterdam"}) */
+function t(template: string, vars: Record<string, string | number>): string {
+  return template.replace(/\{(\w+)\}/g, (_, k) => String(vars[k] ?? k))
+}
+
 // ─── Schema builder ───────────────────────────────────────────────────────────
 
 function buildSchema(
@@ -256,7 +261,7 @@ export default async function ComboPage({
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
-                  {comboHotels.length} handpicked properties · {dest.country} · Updated {new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}
+                  {comboHotels.length} {p.handpicked} · {dest.country} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB', { month: 'long', year: 'numeric' })}
                 </p>
               </div>
 
@@ -266,18 +271,18 @@ export default async function ComboPage({
                   {minPrice && (
                     <div className="text-center lg:text-right">
                       <p className="text-3xl lg:text-4xl font-black">€{minPrice}</p>
-                      <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">from / night</p>
+                      <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.fromPerNight}</p>
                     </div>
                   )}
                   {avgRating && (
                     <div className="text-center lg:text-right">
                       <p className="text-3xl lg:text-4xl font-black">{avgRating}/10</p>
-                      <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">avg rating</p>
+                      <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.avgRating}</p>
                     </div>
                   )}
                   <div className="text-center lg:text-right">
                     <p className="text-3xl lg:text-4xl font-black">{freeCount}</p>
-                    <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">no pet fee</p>
+                    <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.noPetFee}</p>
                   </div>
                 </div>
               )}
@@ -306,7 +311,7 @@ export default async function ComboPage({
               {/* Hotel ranked list */}
               <section aria-label="Hotel list">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
-                  Our Top {comboHotels.length} {catName} Hotels in {dest.name}
+                  {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: dest.name })}
                 </h2>
 
                 {comboHotels.length > 0 ? (
@@ -333,11 +338,9 @@ export default async function ComboPage({
               {/* Tips section */}
               <section aria-label="Selection guide" className="mt-16">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
-                  💡 How to choose the right {catName.toLowerCase()} hotel in {dest.name}
+                  💡 {t(p.tipsTitle, { cat: catName.toLowerCase(), dest: dest.name })}
                 </h2>
-                <p className="text-gray-500 text-sm mb-8">
-                  Five things experienced pet-owning travellers check before booking.
-                </p>
+                <p className="text-gray-500 text-sm mb-8">{p.tipsSubtitle}</p>
                 <ol className="flex flex-col gap-4">
                   {tips.map((tip) => (
                     <li key={tip.n} className="flex gap-4 bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
@@ -356,7 +359,7 @@ export default async function ComboPage({
               {/* FAQ section */}
               <section aria-label="Frequently asked questions" className="mt-16">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
-                  Frequently Asked Questions
+                  {p.faqTitle}
                 </h2>
                 <div className="flex flex-col gap-3">
                   {faqs.map((faq, i) => (
@@ -414,7 +417,7 @@ export default async function ComboPage({
                 {relatedByDest.length > 0 && (
                   <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
                     <h3 className="font-bold text-gray-900 text-sm mb-4">
-                      More guides in {dest.name}
+                      {t(p.moreInDest, { dest: dest.name })}
                     </h3>
                     <ul className="flex flex-col gap-2">
                       {relatedByDest.map((c) => (
@@ -436,7 +439,7 @@ export default async function ComboPage({
                 {relatedByCategory.length > 0 && (
                   <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
                     <h3 className="font-bold text-gray-900 text-sm mb-4">
-                      {catName} hotels elsewhere
+                      {t(p.catElsewhere, { cat: catName })}
                     </h3>
                     <ul className="flex flex-col gap-2">
                       {relatedByCategory.map((d) => (
@@ -465,7 +468,7 @@ export default async function ComboPage({
           className="bg-white border-t border-gray-100 py-14"
         >
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-8">Related guides</h2>
+            <h2 className="text-xl font-extrabold text-gray-900 mb-8">{p.relatedTitle}</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {relatedByDest.map((c) => (
                 <Link

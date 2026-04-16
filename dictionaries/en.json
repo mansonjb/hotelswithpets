@@ -1,5 +1,6 @@
 {
   "nav": {
+    "home": "Home",
     "destinations": "Destinations",
     "categories": "Categories",
     "about": "About"
@@ -10,10 +11,18 @@
     "subtitle": "Find the perfect stay for you and your dog. Browse by destination, filter by pet policy, book directly on Booking.com.",
     "searchDestination": "Where are you going?",
     "searchCategory": "Pet type or amenity",
-    "cta": "Search hotels"
+    "cta": "Search hotels",
+    "stat1Value": "50+",
+    "stat1Label": "Destinations",
+    "stat2Value": "6",
+    "stat2Label": "Pet categories",
+    "stat3Value": "100%",
+    "stat3Label": "Free to use"
   },
   "categories": {
-    "title": "Browse by Category",
+    "browseBy": "Browse by",
+    "browseTitle": "Category",
+    "subtitle": "Find hotels filtered by what matters to your pet.",
     "explore": "Explore →"
   },
   "howItWorks": {
@@ -32,6 +41,8 @@
   },
   "combos": {
     "title": "100+ Curated Pet-Friendly Guides",
+    "featuredLabel": "Featured Guide",
+    "viewGuide": "View Guide →",
     "items": [
       { "emoji": "🐕", "label": "Dog-friendly hotels in Amsterdam", "href": "amsterdam/dog-friendly" },
       { "emoji": "🏖️", "label": "Pet-friendly beach hotels in Biarritz", "href": "biarritz/beach-access" },
@@ -55,6 +66,7 @@
       "explore": "Explore"
     },
     "destination": {
+      "back": "← Destinations",
       "categoriesTitle": "Browse by pet category",
       "hotelsTitle": "Top pet-friendly hotels",
       "book": "Book on Booking.com",
@@ -73,11 +85,24 @@
       "destinations": "destinations"
     },
     "category": {
+      "back": "← Categories",
       "destinationsTitle": "Best destinations for this category",
       "explore": "See hotels →"
     },
     "combo": {
-      "hotelsTitle": "Top hotels",
+      "rankLabel": "Best for",
+      "hotelsTitle": "Our Top {n} {cat} Hotels in {dest}",
+      "tipsTitle": "How to choose the right {cat} hotel in {dest}",
+      "tipsSubtitle": "Five things experienced pet-owning travellers check before booking.",
+      "faqTitle": "Frequently Asked Questions",
+      "moreInDest": "More guides in {dest}",
+      "catElsewhere": "{cat} hotels elsewhere",
+      "relatedTitle": "Related guides",
+      "updatedLabel": "Updated",
+      "handpicked": "handpicked properties",
+      "fromPerNight": "from / night",
+      "avgRating": "avg rating",
+      "noPetFee": "no pet fee",
       "book": "Book on Booking.com",
       "from": "From",
       "perNight": "/ night",

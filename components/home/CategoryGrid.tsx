@@ -5,7 +5,7 @@ import type { Locale } from '@/app/[locale]/dictionaries'
 interface CategoryGridProps {
   locale: Locale
   dict: {
-    categories: { title: string; explore: string }
+    categories: { browseBy: string; browseTitle: string; subtitle: string; explore: string }
   }
 }
 
@@ -23,13 +23,13 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-end justify-between mb-12">
           <h2 className="text-4xl font-extrabold text-gray-900 leading-tight">
-            Browse by<br />
+            {dict.categories.browseBy}<br />
             <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              Category
+              {dict.categories.browseTitle}
             </span>
           </h2>
           <p className="text-gray-400 text-sm max-w-xs text-right hidden md:block">
-            {dict.categories.title}
+            {dict.categories.subtitle}
           </p>
         </div>
 

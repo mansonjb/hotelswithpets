@@ -10,7 +10,7 @@ interface ComboItem {
 interface FeaturedCombosProps {
   locale: Locale
   dict: {
-    combos: { title: string; items: ComboItem[] }
+    combos: { title: string; featuredLabel: string; viewGuide: string; items: ComboItem[] }
   }
 }
 
@@ -38,14 +38,14 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
             <div className="relative flex items-center gap-6">
               <span className="text-6xl filter drop-shadow-lg">{main.emoji}</span>
               <div>
-                <p className="text-white/60 text-xs uppercase tracking-widest mb-1">Featured Guide</p>
+                <p className="text-white/60 text-xs uppercase tracking-widest mb-1">{dict.combos.featuredLabel}</p>
                 <h3 className="text-white font-extrabold text-2xl lg:text-3xl leading-tight">
                   {main.label}
                 </h3>
               </div>
             </div>
             <span className="relative hidden lg:flex items-center gap-2 bg-white text-indigo-700 font-bold px-6 py-3 rounded-2xl shadow-lg group-hover:bg-indigo-50 transition-colors whitespace-nowrap">
-              View Guide →
+              {dict.combos.viewGuide}
             </span>
           </Link>
 
@@ -68,7 +68,7 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
               <div className="relative">
                 <h3 className="text-white font-bold text-lg leading-snug">{combo.label}</h3>
                 <span className="text-white/70 text-sm group-hover:text-white transition-colors">
-                  View Guide →
+                  {dict.combos.viewGuide}
                 </span>
               </div>
             </Link>

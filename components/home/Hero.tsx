@@ -11,6 +11,12 @@ interface HeroProps {
       searchDestination: string
       searchCategory: string
       cta: string
+      stat1Value: string
+      stat1Label: string
+      stat2Value: string
+      stat2Label: string
+      stat3Value: string
+      stat3Label: string
     }
   }
 }
@@ -42,9 +48,9 @@ export default function Hero({ locale, dict }: HeroProps) {
             {/* Stats row */}
             <div className="flex flex-wrap gap-8">
               {[
-                { value: '50+', label: 'Destinations' },
-                { value: '6', label: 'Pet categories' },
-                { value: '100%', label: 'Free to use' },
+                { value: hero.stat1Value, label: hero.stat1Label },
+                { value: hero.stat2Value, label: hero.stat2Label },
+                { value: hero.stat3Value, label: hero.stat3Label },
               ].map((s) => (
                 <div key={s.label} className="flex flex-col">
                   <span className="text-3xl font-black text-white leading-none">{s.value}</span>

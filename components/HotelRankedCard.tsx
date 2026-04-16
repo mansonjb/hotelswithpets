@@ -17,6 +17,7 @@ interface Hotel {
 }
 
 interface HotelRankedCardDict {
+  rankLabel: string
   book: string
   from: string
   perNight: string
@@ -54,7 +55,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict }
           #{rank}
         </span>
         <span className="text-xs font-semibold text-blue-600 uppercase tracking-widest">
-          Best for {catName}
+          {dict.rankLabel} {catName}
         </span>
       </div>
 

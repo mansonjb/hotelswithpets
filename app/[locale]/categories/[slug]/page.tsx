@@ -65,7 +65,7 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3 mb-4">
             <Link href={`/${locale}/categories`} className="text-white/70 hover:text-white text-sm transition-colors">
-              ← Categories
+              {dict.pages.category.back}
             </Link>
           </div>
           <div className="flex items-center gap-6">

@@ -1,5 +1,6 @@
 {
   "nav": {
+    "home": "Inicio",
     "destinations": "Destinos",
     "categories": "Categorías",
     "about": "Acerca de"
@@ -10,10 +11,18 @@
     "subtitle": "Encuentra el alojamiento perfecto para ti y tu perro. Busca por destino, filtra por política de mascotas, reserva en Booking.com.",
     "searchDestination": "¿A dónde vas?",
     "searchCategory": "Tipo de mascota o servicio",
-    "cta": "Buscar hoteles"
+    "cta": "Buscar hoteles",
+    "stat1Value": "50+",
+    "stat1Label": "Destinos",
+    "stat2Value": "6",
+    "stat2Label": "Categorías de mascotas",
+    "stat3Value": "100%",
+    "stat3Label": "Gratuito"
   },
   "categories": {
-    "title": "Explorar por Categoría",
+    "browseBy": "Explorar por",
+    "browseTitle": "Categoría",
+    "subtitle": "Encuentra hoteles filtrados según las necesidades de tu mascota.",
     "explore": "Explorar →"
   },
   "howItWorks": {
@@ -32,9 +41,11 @@
   },
   "combos": {
     "title": "100+ Guías Pet-Friendly Seleccionadas",
+    "featuredLabel": "Guía Destacada",
+    "viewGuide": "Ver guía →",
     "items": [
       { "emoji": "🐕", "label": "Hoteles para perros en Ámsterdam", "href": "amsterdam/dog-friendly" },
-      { "emoji": "🏖️", "label": "Hoteles pet-friendly con acceso a la playa en Biarritz", "href": "biarritz/beach-access" },
+      { "emoji": "🏖️", "label": "Hoteles pet-friendly con playa en Biarritz", "href": "biarritz/beach-access" },
       { "emoji": "✨", "label": "Hoteles de lujo para perros en París", "href": "paris/luxury" }
     ]
   },
@@ -55,6 +66,7 @@
       "explore": "Explorar"
     },
     "destination": {
+      "back": "← Destinos",
       "categoriesTitle": "Explorar por categoría de mascota",
       "hotelsTitle": "Mejores hoteles pet-friendly",
       "book": "Reservar en Booking.com",
@@ -73,11 +85,24 @@
       "destinations": "destinos"
     },
     "category": {
+      "back": "← Categorías",
       "destinationsTitle": "Mejores destinos para esta categoría",
       "explore": "Ver hoteles →"
     },
     "combo": {
-      "hotelsTitle": "Mejores hoteles",
+      "rankLabel": "Ideal para",
+      "hotelsTitle": "Nuestro top {n} hoteles {cat} en {dest}",
+      "tipsTitle": "Cómo elegir el hotel {cat} adecuado en {dest}",
+      "tipsSubtitle": "Cinco cosas que verifican los viajeros con mascotas experimentados.",
+      "faqTitle": "Preguntas frecuentes",
+      "moreInDest": "Más guías en {dest}",
+      "catElsewhere": "Hoteles {cat} en otros destinos",
+      "relatedTitle": "Guías relacionadas",
+      "updatedLabel": "Actualizado",
+      "handpicked": "propiedades seleccionadas",
+      "fromPerNight": "desde / noche",
+      "avgRating": "valoración media",
+      "noPetFee": "sin tarifa de mascota",
       "book": "Reservar en Booking.com",
       "from": "Desde",
       "perNight": "/ noche",

@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import HotelCard from '@/components/HotelCard'
-import Stay22Map from '@/components/Stay22Map'
+import PetMap from '@/components/PetMap'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -103,7 +103,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{p.hotelsTitle} — {dest.name}</h2>
-            <Stay22Map lat={(dest as typeof dest & { lat: number }).lat} lng={(dest as typeof dest & { lng: number }).lng} destName={dest.name} height={380} />
+            <PetMap lat={(dest as typeof dest & { lat: number }).lat} lng={(dest as typeof dest & { lng: number }).lng} destName={dest.name} height={380} />
           </div>
         </section>
       )}

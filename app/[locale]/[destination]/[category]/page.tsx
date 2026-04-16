@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
-import Stay22Map from '@/components/Stay22Map'
+import PetMap from '@/components/PetMap'
 import { generateIntro, generateFaqs, generateTips, generateWhy, generateTestimonial } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
@@ -383,7 +383,7 @@ export default async function ComboPage({
                   <h2 className="text-xl font-extrabold text-gray-900 mb-4">
                     🗺️ {p.mapSectionTitle}
                   </h2>
-                  <Stay22Map
+                  <PetMap
                     lat={(dest as typeof dest & { lat: number }).lat}
                     lng={(dest as typeof dest & { lng: number }).lng}
                     destName={dest.name}

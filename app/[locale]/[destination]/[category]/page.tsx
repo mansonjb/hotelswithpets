@@ -386,6 +386,7 @@ export default async function ComboPage({
                   <PetMap
                     lat={(dest as typeof dest & { lat: number }).lat}
                     lng={(dest as typeof dest & { lng: number }).lng}
+                    stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
                     destName={dest.name}
                     height={400}
                   />

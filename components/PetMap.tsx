@@ -4,26 +4,44 @@ interface PetMapProps {
   lat: number
   lng: number
   destName: string
+  /** Stay22 map ID — uses Stay22 embed when provided, OpenStreetMap otherwise */
+  stay22MapId?: string
   /** Map height in px, default 420 */
   height?: number
-  /** Zoom level 1-19, default 14 */
-  zoom?: number
 }
 
 /**
- * OpenStreetMap embed — free, no API key, no account required.
- * Shows the destination area with a marker. Booking.com affiliate
- * links are handled separately by Stay22 LetMeAllez (in layout.tsx).
+ * Interactive hotel map. Uses Stay22 when a map ID is configured
+ * (shows live hotel prices), falls back to OpenStreetMap otherwise.
+ * Stay22 LetMeAllez affiliate script is handled separately in layout.tsx.
  */
-export default function PetMap({ lat, lng, destName, height = 420, zoom = 14 }: PetMapProps) {
-  // Bounding box: roughly 1.5 km radius around the city center
+export default function PetMap({ lat, lng, destName, stay22MapId, height = 420 }: PetMapProps) {
+  if (stay22MapId) {
+    return (
+      <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
+        <iframe
+          id="stay22-widget"
+          src={`https://www.stay22.com/embed/${stay22MapId}`}
+          title={`Pet-friendly hotels map — ${destName}`}
+          width="100%"
+          height={height}
+          style={{ border: 0, display: 'block' }}
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+          allowFullScreen
+        />
+      </div>
+    )
+  }
+
+  // Fallback: OpenStreetMap embed — free, no API key
   const delta = 0.025
   const bbox = `${lng - delta},${lat - delta},${lng + delta},${lat + delta}`
   const src = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lng}`
-  const fullMapUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lng}#map=${zoom}/${lat}/${lng}`
+  const fullMapUrl = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lng}#map=14/${lat}/${lng}`
 
   return (
-    <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm relative group">
+    <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm relative">
       <iframe
         src={src}
         title={`Pet-friendly hotels map — ${destName}`}
@@ -34,7 +52,6 @@ export default function PetMap({ lat, lng, destName, height = 420, zoom = 14 }: 
         referrerPolicy="no-referrer-when-downgrade"
         allowFullScreen
       />
-      {/* "Open full map" link — OSM requirement */}
       <div className="absolute bottom-2 right-2">
         <a
           href={fullMapUrl}

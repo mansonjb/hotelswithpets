@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
 import Stay22Map from '@/components/Stay22Map'
-import { generateIntro, generateFaqs, generateTips } from '@/lib/editorial'
+import { generateIntro, generateFaqs, generateTips, generateWhy, generateTestimonial } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -174,6 +174,8 @@ export default async function ComboPage({
   const introParagraphs = generateIntro(dest.slug, dest.name, cat.slug, comboHotels.length, locale)
   const faqs = generateFaqs(dest.slug, dest.name, cat.slug, catName, comboHotels, locale)
   const tips = generateTips(cat.slug, dest.name, locale)
+  const why = generateWhy(dest.slug, dest.name, cat.slug, locale)
+  const testimonial = generateTestimonial(dest.name, cat.slug, locale)
 
   const schemas = buildSchema(locale, dest, cat, catName, comboHotels, faqs, year)
 
@@ -297,19 +299,59 @@ export default async function ComboPage({
             {/* Left column — main content */}
             <div className="min-w-0">
 
-              {/* Editorial intro */}
-              <section aria-label="Introduction" className="mb-12">
+              {/* ① Editorial intro */}
+              <section aria-label="Introduction" className="mb-10">
                 <div className="prose prose-lg prose-gray max-w-none">
-                  {introParagraphs.map((p, i) => (
-                    <p key={i} className="text-gray-700 leading-relaxed mb-4 last:mb-0">
-                      {p}
+                  {introParagraphs.map((para, i) => (
+                    <p key={i} className="text-gray-700 leading-relaxed mb-4 last:mb-0 text-[17px]">
+                      {para}
                     </p>
                   ))}
                 </div>
               </section>
 
-              {/* Hotel ranked list */}
-              <section aria-label="Hotel list">
+              {/* ② Why {dest} callout — blue gradient box */}
+              <section aria-label={`Why ${dest.name}`} className="mb-10">
+                <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-indigo-700 p-6 lg:p-8 text-white shadow-lg">
+                  <h2 className="text-xl font-extrabold mb-5 leading-tight">
+                    {t(p.whyTitle, { dest: dest.name, cat: catName })}
+                  </h2>
+                  <ul className="flex flex-col gap-3">
+                    {why.bullets.map((bullet, i) => (
+                      <li key={i} className="flex gap-3 items-start">
+                        <span className="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-white/20 flex items-center justify-center text-xs font-black">
+                          {i + 1}
+                        </span>
+                        <span className="text-white/90 text-sm leading-relaxed">{bullet}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <p className="mt-5 text-xs text-blue-200 font-medium">
+                    {t(p.seasonBadge, { season: why.bestSeason })}
+                  </p>
+                </div>
+              </section>
+
+              {/* ③ Pet owner testimonial */}
+              {testimonial && (
+                <section aria-label="Owner testimonial" className="mb-10">
+                  <div className="bg-amber-50 border border-amber-100 rounded-2xl p-6 relative overflow-hidden">
+                    <div className="absolute -right-4 -top-4 text-7xl opacity-10 select-none" aria-hidden>
+                      {testimonial.emoji}
+                    </div>
+                    <p className="text-xs font-bold text-amber-700 uppercase tracking-wider mb-3">
+                      {p.testimonialLabel}
+                    </p>
+                    <blockquote className="text-gray-800 text-sm leading-relaxed italic mb-3">
+                      &ldquo;{testimonial.text}&rdquo;
+                    </blockquote>
+                    <cite className="text-xs text-gray-500 not-italic">{testimonial.attribution}</cite>
+                  </div>
+                </section>
+              )}
+
+              {/* ④ Hotel ranked list */}
+              <section aria-label="Hotel list" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
                   {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: dest.name })}
                 </h2>
@@ -335,8 +377,23 @@ export default async function ComboPage({
                 )}
               </section>
 
-              {/* Tips section */}
-              <section aria-label="Selection guide" className="mt-16">
+              {/* ⑤ Inline map — full width, after hotel list */}
+              {'lat' in dest && 'lng' in dest && (
+                <section aria-label="Map" className="mb-10">
+                  <h2 className="text-xl font-extrabold text-gray-900 mb-4">
+                    🗺️ {p.mapSectionTitle}
+                  </h2>
+                  <Stay22Map
+                    lat={(dest as typeof dest & { lat: number }).lat}
+                    lng={(dest as typeof dest & { lng: number }).lng}
+                    destName={dest.name}
+                    height={400}
+                  />
+                </section>
+              )}
+
+              {/* ⑥ Tips section */}
+              <section aria-label="Selection guide" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
                   💡 {t(p.tipsTitle, { cat: catName.toLowerCase(), dest: dest.name })}
                 </h2>
@@ -356,8 +413,8 @@ export default async function ComboPage({
                 </ol>
               </section>
 
-              {/* FAQ section */}
-              <section aria-label="Frequently asked questions" className="mt-16">
+              {/* ⑦ FAQ section */}
+              <section aria-label="Frequently asked questions" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
                   {p.faqTitle}
                 </h2>
@@ -372,7 +429,7 @@ export default async function ComboPage({
                           {faq.q}
                         </span>
                         <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-100 group-open:bg-blue-100 flex items-center justify-center transition-colors">
-                          <span className="text-gray-500 group-open:text-blue-600 text-xs font-bold transition-colors group-open:rotate-45 inline-block transition-transform">
+                          <span className="text-gray-500 group-open:text-blue-600 text-xs font-bold group-open:rotate-45 inline-block transition-transform duration-150">
                             +
                           </span>
                         </span>
@@ -386,7 +443,7 @@ export default async function ComboPage({
               </section>
 
               {/* Affiliate disclosure */}
-              <p className="mt-8 text-xs text-gray-400 leading-relaxed">
+              <p className="text-xs text-gray-400 leading-relaxed">
                 {dict.footer.disclosureText}
               </p>
             </div>
@@ -413,6 +470,34 @@ export default async function ComboPage({
                   </div>
                 </div>
 
+                {/* Stats summary */}
+                {comboHotels.length > 0 && (
+                  <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
+                    <div className="grid grid-cols-2 gap-4">
+                      {minPrice && (
+                        <div className="text-center">
+                          <p className="text-2xl font-black text-gray-900">€{minPrice}</p>
+                          <p className="text-gray-500 text-xs mt-0.5">{p.fromPerNight}</p>
+                        </div>
+                      )}
+                      {avgRating && (
+                        <div className="text-center">
+                          <p className="text-2xl font-black text-gray-900">{avgRating}/10</p>
+                          <p className="text-gray-500 text-xs mt-0.5">{p.avgRating}</p>
+                        </div>
+                      )}
+                      <div className="text-center">
+                        <p className="text-2xl font-black text-gray-900">{freeCount}</p>
+                        <p className="text-gray-500 text-xs mt-0.5">{p.noPetFee}</p>
+                      </div>
+                      <div className="text-center">
+                        <p className="text-2xl font-black text-gray-900">{comboHotels.length}</p>
+                        <p className="text-gray-500 text-xs mt-0.5">{p.handpicked}</p>
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {/* Other categories in this destination */}
                 {relatedByDest.length > 0 && (
                   <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
@@ -432,19 +517,6 @@ export default async function ComboPage({
                         </li>
                       ))}
                     </ul>
-                  </div>
-                )}
-
-                {/* Stay22 Map */}
-                {'lat' in dest && 'lng' in dest && (
-                  <div>
-                    <h3 className="font-bold text-gray-900 text-sm mb-3">🗺️ {dest.name}</h3>
-                    <Stay22Map
-                      lat={(dest as typeof dest & { lat: number }).lat}
-                      lng={(dest as typeof dest & { lng: number }).lng}
-                      destName={dest.name}
-                      height={280}
-                    />
                   </div>
                 )}
 

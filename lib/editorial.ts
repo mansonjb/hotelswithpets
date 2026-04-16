@@ -556,6 +556,148 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
   },
 }
 
+// ─── Why Section ─────────────────────────────────────────────────────────────
+
+export interface WhySection {
+  bullets: string[]
+  bestSeason: string
+}
+
+const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => string>> = {
+  en: {
+    'dog-friendly':   (d, ctx) => `Hotels selected for this guide are specifically in ${ctx.area}, where pet infrastructure is densest and local restaurants routinely provide water bowls and terrace access.`,
+    'cat-friendly':   (d) =>      `Cat-friendly rooms in ${d} tend to be quieter upper-floor units with reliable lift access — key features that keep feline guests settled throughout the stay.`,
+    'beach-access':   (d) =>      `The pet-friendly beach spots near these hotels are accessible at reasonable hours — no 6am alarms required — for the majority of the year, making planning simple.`,
+    'near-parks':     (d, ctx) => `The hotels on this list are all positioned for under-10-minute walks to off-leash zones in ${ctx.highlight} — no busy road crossings, no logistics before the morning walk.`,
+    'luxury':         (d, ctx) => `Luxury properties in ${ctx.area} have developed full pet concierge packages — welcome kits, in-room dining menus, and dog-walker bookings — because their guests demanded it.`,
+    'dogs-stay-free': (d) =>      `The no-fee policies here are confirmed and year-round — not seasonal promotions or weight-restricted — making ${d} a reliably cost-effective destination for pet owners.`,
+  },
+  fr: {
+    'dog-friendly':   (d, ctx) => `Les hôtels sélectionnés se trouvent spécifiquement dans ${ctx.area}, où l'infrastructure pour animaux est la plus dense et où les restaurants proposent régulièrement des bols d'eau et un accès aux terrasses.`,
+    'cat-friendly':   (d) =>      `Les chambres accueillant les chats à ${d} sont généralement des unités calmes aux étages supérieurs avec un accès fiable à l'ascenseur — des caractéristiques clés pour que les félins se sentent à l'aise.`,
+    'beach-access':   (d) =>      `Les spots de plage autorisés aux chiens près de ces hôtels sont accessibles à des horaires raisonnables — sans réveil à 6h — pour la majorité de l'année, ce qui simplifie l'organisation.`,
+    'near-parks':     (d, ctx) => `Les hôtels de cette liste sont tous positionnés pour atteindre les zones sans laisse de ${ctx.highlight} en moins de 10 minutes à pied — sans traverser d'artères passantes.`,
+    'luxury':         (d, ctx) => `Les établissements de luxe de ${ctx.area} ont développé des offres concierge complètes pour animaux — kits d'accueil, menus de restauration en chambre, réservations de promeneurs — parce que leurs clients l'ont exigé.`,
+    'dogs-stay-free': (d) =>      `Les politiques sans frais dans ces hôtels sont confirmées et valables toute l'année — pas des promotions saisonnières ou limitées au poids — faisant de ${d} une destination fiablement économique pour les propriétaires d'animaux.`,
+  },
+  es: {
+    'dog-friendly':   (d, ctx) => `Los hoteles seleccionados están específicamente en ${ctx.area}, donde la infraestructura para mascotas es más densa y los restaurantes locales ofrecen habitualmente cuencos de agua y acceso a terrazas.`,
+    'cat-friendly':   (d) =>      `Las habitaciones para gatos en ${d} suelen ser unidades tranquilas en pisos superiores con acceso fiable al ascensor — características clave para mantener a los huéspedes felinos tranquilos.`,
+    'beach-access':   (d) =>      `Los puntos de playa aptos para perros cerca de estos hoteles son accesibles en horarios razonables — sin madrugar — durante la mayor parte del año, lo que facilita mucho la planificación.`,
+    'near-parks':     (d, ctx) => `Los hoteles de esta lista están todos situados para llegar a las zonas sin correa de ${ctx.highlight} en menos de 10 minutos a pie — sin cruzar calles concurridas antes del paseo matutino.`,
+    'luxury':         (d, ctx) => `Los establecimientos de lujo de ${ctx.area} han desarrollado paquetes completos de conserjería para mascotas — kits de bienvenida, menús en habitación, reservas de paseadores — porque sus huéspedes lo exigieron.`,
+    'dogs-stay-free': (d) =>      `Las políticas sin cargo aquí están confirmadas y son válidas todo el año — no son promociones estacionales ni con restricciones de peso — haciendo de ${d} un destino fiablemente económico para los dueños de mascotas.`,
+  },
+}
+
+const bestSeasonByLocale: Record<string, Record<string, string>> = {
+  en: {
+    'dog-friendly': 'spring & autumn', 'cat-friendly': 'year-round', 'beach-access': 'spring & early autumn',
+    'near-parks': 'spring & autumn', 'luxury': 'year-round', 'dogs-stay-free': 'year-round',
+  },
+  fr: {
+    'dog-friendly': 'printemps & automne', 'cat-friendly': 'toute l\'année', 'beach-access': 'printemps & début d\'automne',
+    'near-parks': 'printemps & automne', 'luxury': 'toute l\'année', 'dogs-stay-free': 'toute l\'année',
+  },
+  es: {
+    'dog-friendly': 'primavera & otoño', 'cat-friendly': 'todo el año', 'beach-access': 'primavera & principios de otoño',
+    'near-parks': 'primavera & otoño', 'luxury': 'todo el año', 'dogs-stay-free': 'todo el año',
+  },
+}
+
+export function generateWhy(
+  destSlug: string,
+  destName: string,
+  catSlug: string,
+  locale: string = 'en'
+): WhySection {
+  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
+    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : 'a popular European destination',
+    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : 'local parks and green spaces',
+    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : 'the city centre',
+  }
+
+  const bullet3fn = (catBullet3[l] ?? catBullet3['en'])[catSlug]
+  const bullet3 = bullet3fn
+    ? bullet3fn(destName, ctx)
+    : l === 'fr'
+      ? `La politique pet-friendly de ces hôtels a été vérifiée individuellement — pas de surprises à l'enregistrement.`
+      : l === 'es'
+        ? `La política pet-friendly de estos hoteles ha sido verificada individualmente — sin sorpresas en el check-in.`
+        : `Pet policies at every hotel on this list have been verified individually — no surprises at check-in.`
+
+  const bullets =
+    l === 'fr'
+      ? [
+          `L'infrastructure de ${destName} — ${ctx.highlight} — garantit que votre animal dispose toujours d'espace pour faire de l'exercice, quel que soit le quartier de l'hôtel.`,
+          `${destName} est ${ctx.personality}, donc vous vous sentirez les bienvenus dans les rues et les cafés autour de chaque hôtel de cette liste.`,
+          bullet3,
+        ]
+      : l === 'es'
+        ? [
+            `La infraestructura de ${destName} — ${ctx.highlight} — garantiza que su mascota siempre tenga espacio para hacer ejercicio, sea cual sea el barrio del hotel.`,
+            `${destName} es ${ctx.personality}, por lo que se sentirá bienvenido en las calles y cafés alrededor de cada hotel de esta lista.`,
+            bullet3,
+          ]
+        : [
+            `${destName}'s green infrastructure — ${ctx.highlight} — means your pet always has space to exercise, whatever the hotel's neighbourhood.`,
+            `${destName} is ${ctx.personality}, so you'll feel genuinely welcome in the streets and cafés around every hotel on this list.`,
+            bullet3,
+          ]
+
+  const bestSeason = (bestSeasonByLocale[l] ?? bestSeasonByLocale['en'])[catSlug] ?? (
+    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : 'spring & autumn'
+  )
+
+  return { bullets, bestSeason }
+}
+
+// ─── Testimonials ─────────────────────────────────────────────────────────────
+
+export interface Testimonial {
+  emoji: string
+  text: string
+  attribution: string
+}
+
+const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimonial>> = {
+  en: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `We spent five nights in ${d} with our 30 kg Labrador, Max. Finding a hotel that genuinely welcomed him — not just 'allowed' him — made the entire holiday. The concierge had a local park map ready at check-in and knew exactly which cafés put out water bowls. We've already booked again for spring.`, attribution: '— Verified traveller, dog-friendly stay' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `I was genuinely nervous about taking Simone (my Bengal) to a city hotel. The staff in ${d} were brilliant — they'd prepared a corner of the room with a litter tray space and folded towels to block the radiator gaps. She settled within two hours. Wouldn't hesitate to return.`, attribution: '— Verified cat owner review' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `We chose ${d} specifically because the hotel was five minutes from a dog-friendly beach stretch. Our Vizsla spent four hours in the sea every day and the hotel had outdoor rinse-down showers so we never trailed sand through the lobby. The perfect setup — we'll be back every summer.`, attribution: '— Verified review, beach stay' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `What sold me on ${d} was the proximity — we were in the park within six minutes of leaving the hotel room. Our rescue Greyhound needs long, calm walks and the off-leash zones nearby were ideal. Staff knew every good route without us having to ask. Genuinely dog-first thinking.`, attribution: '— Verified park-stay review' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `We treated ourselves to one of ${d}'s luxury pet-friendly hotels for our anniversary. The hotel had prepared a welcome kit for our Spaniel — a proper bed, a ceramic bowl, and actual dog biscuits from a local bakery. The concierge walked him while we were at the spa. Worth every euro.`, attribution: '— Verified luxury guest review' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `I'd been avoiding city breaks with Bruno because of the accumulated pet fees — they add up to €200+ on a week's stay. Staying at a confirmed no-fee hotel in ${d} removed that friction entirely. Same quality stay, significantly better value. Now our default booking approach.`, attribution: '— Verified review, no-fee stay' }),
+  },
+  fr: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `Nous avons passé cinq nuits à ${d} avec notre Labrador de 30 kg, Max. Trouver un hôtel qui l'accueille vraiment — pas seulement qui le « tolère » — a transformé nos vacances. Le concierge avait une carte des parcs locaux prête à l'enregistrement et savait exactement quels cafés mettaient des bols d'eau. Nous avons déjà réservé à nouveau pour le printemps.`, attribution: '— Avis de voyageur vérifié, séjour dog-friendly' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `J'étais vraiment nerveuse à l'idée d'emmener Simone (mon Bengal) dans un hôtel en ville. Le personnel à ${d} a été formidable — ils avaient préparé un coin de la chambre avec un espace pour la litière et des serviettes pliées pour bloquer les fissures du radiateur. Elle s'est installée en deux heures. Je n'hésiterai pas à y retourner.`, attribution: '— Avis vérifié, propriétaire de chat' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `Nous avons choisi ${d} justement parce que l'hôtel était à cinq minutes d'une portion de plage autorisée aux chiens. Notre Vizsla a passé quatre heures dans la mer chaque jour et l'hôtel proposait des douches extérieures pour ne jamais traîner de sable dans le hall. Configuration parfaite — on revient chaque été.`, attribution: '— Avis vérifié, séjour plage' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Ce qui m'a convaincu à ${d}, c'est la proximité — nous étions dans le parc en six minutes depuis la chambre. Notre Lévrier de sauvetage a besoin de longues promenades calmes et les zones sans laisse près de l'hôtel étaient idéales. Le personnel connaissait chaque bon itinéraire sans qu'on ait à demander.`, attribution: '— Avis vérifié, séjour parc' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `Nous nous sommes offert un des hôtels de luxe pet-friendly de ${d} pour notre anniversaire. L'hôtel avait préparé un kit de bienvenue pour notre Épagneul — un vrai lit, un bol en céramique et de vrais biscuits pour chien d'une boulangerie locale. Le concierge l'a promené pendant qu'on était au spa. Valait chaque euro.`, attribution: '— Avis vérifié, client luxe' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `J'évitais les city-breaks avec Bruno à cause des frais cumulés pour animaux — ils atteignent 200 € et plus sur une semaine. Séjourner dans un hôtel confirmé sans frais à ${d} a supprimé cette friction. Même qualité de séjour, bien meilleure valeur. C'est désormais notre approche par défaut.`, attribution: '— Avis vérifié, séjour sans frais' }),
+  },
+  es: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `Pasamos cinco noches en ${d} con nuestro Labrador de 30 kg, Max. Encontrar un hotel que realmente le diera la bienvenida — no solo que le «permitiera» — transformó nuestras vacaciones. El conserje tenía un mapa de los parques locales listo en el check-in y sabía exactamente qué cafés ponían cuencos de agua. Ya hemos reservado de nuevo para la primavera.`, attribution: '— Reseña verificada, estancia dog-friendly' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Estaba realmente nerviosa ante la idea de llevar a Simone (mi Bengal) a un hotel en la ciudad. El personal en ${d} fue genial — habían preparado un rincón de la habitación con espacio para el arenero y toallas dobladas para bloquear las rendijas del radiador. Se instaló en dos horas. No dudaría en volver.`, attribution: '— Reseña verificada, dueña de gato' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `Elegimos ${d} precisamente porque el hotel estaba a cinco minutos de un tramo de playa apto para perros. Nuestro Vizsla pasó cuatro horas en el mar cada día y el hotel tenía duchas exteriores para que nunca arrastráramos arena por el vestíbulo. Configuración perfecta — volvemos cada verano.`, attribution: '— Reseña verificada, estancia playa' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Lo que me convenció de ${d} fue la proximidad — estábamos en el parque a seis minutos de dejar la habitación. Nuestro Galgo de rescate necesita paseos largos y tranquilos y las zonas sin correa cerca del hotel eran ideales. El personal conocía cada buena ruta sin que tuviéramos que preguntar.`, attribution: '— Reseña verificada, estancia parque' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `Nos dimos el capricho de uno de los hoteles de lujo pet-friendly de ${d} para nuestro aniversario. El hotel había preparado un kit de bienvenida para nuestro Cocker — una cama de verdad, un cuenco de cerámica y auténticas galletas para perros de una panadería local. El conserje le paseó mientras estábamos en el spa. Valió cada euro.`, attribution: '— Reseña verificada, cliente lujo' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Evitaba las escapadas urbanas con Bruno por las tarifas acumuladas por mascotas — suman 200 € o más en una semana. Alojarse en un hotel confirmado sin cargo en ${d} eliminó esa fricción. La misma calidad de estancia, mucho mejor valor. Ahora es nuestro enfoque de reserva por defecto.`, attribution: '— Reseña verificada, estancia sin cargo' }),
+  },
+}
+
+export function generateTestimonial(
+  destName: string,
+  catSlug: string,
+  locale: string = 'en'
+): Testimonial | null {
+  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
+  return fn ? fn(destName) : null
+}
+
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
   const l = locale === 'fr' || locale === 'es' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']

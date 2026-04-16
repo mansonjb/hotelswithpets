@@ -116,7 +116,11 @@
       "ctaTitle": "¿Listo para reservar?",
       "ctaDesc": "Encuentra más opciones en Booking.com — filtra por política de mascotas, precio y servicios.",
       "ctaButton": "Buscar todos los hoteles pet-friendly",
-      "noHotels": "Aún no hay hoteles listados para esta combinación. Vuelve pronto o consulta Booking.com directamente."
+      "noHotels": "Aún no hay hoteles listados para esta combinación. Vuelve pronto o consulta Booking.com directamente.",
+      "whyTitle": "Por qué {dest} es ideal para hoteles {cat}",
+      "testimonialLabel": "🐾 La experiencia de un dueño de mascota",
+      "mapSectionTitle": "Encontrar estos hoteles en el mapa",
+      "seasonBadge": "Mejor temporada: {season}"
     }
   }
 }

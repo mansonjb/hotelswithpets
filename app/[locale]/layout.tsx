@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Script from 'next/script'
 import '../globals.css'
 import { getDictionary, hasLocale, locales } from './dictionaries'
 import type { Locale } from './dictionaries'
@@ -51,6 +52,14 @@ export default async function LocaleLayout({
         <Header locale={locale as Locale} dict={dict} />
         <main>{children}</main>
         <Footer locale={locale as Locale} dict={dict} />
+        {/* Stay22 LetMeAllez — auto-upgrades Booking.com links to multi-platform affiliate */}
+        <Script
+          id="stay22-letmeallez"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function(s,t,a,y,twenty,two){s.Stay22=s.Stay22||{};s.Stay22.params={lmaID:'69e08b99d5ab79f03e163885'};twenty=t.createElement(a);two=t.getElementsByTagName(a)[0];twenty.async=1;twenty.src=y;two.parentNode.insertBefore(twenty,two)})(window,document,'script','https://scripts.stay22.com/letmeallez.js');`,
+          }}
+        />
       </body>
     </html>
   )

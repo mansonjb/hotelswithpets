@@ -91,7 +91,9 @@
     },
     "combo": {
       "rankLabel": "Best for",
+      "heroTitle": "Best {cat} Hotels in {dest}",
       "hotelsTitle": "Our Top {n} {cat} Hotels in {dest}",
+      "inCity": "in {dest}",
       "tipsTitle": "How to choose the right {cat} hotel in {dest}",
       "tipsSubtitle": "Five things experienced pet-owning travellers check before booking.",
       "faqTitle": "Frequently Asked Questions",

@@ -6,7 +6,9 @@
     "flag": "🇳🇱",
     "categoryCount": 8,
     "heroImage": "/images/destinations/amsterdam.jpg",
-    "intro": "Amsterdam is one of Europe's most dog-friendly cities, with parks, canals, and welcoming hotels."
+    "intro": "Amsterdam is one of Europe's most dog-friendly cities, with parks, canals, and welcoming hotels.",
+    "lat": 52.3702,
+    "lng": 4.8952
   },
   {
     "slug": "paris",
@@ -15,7 +17,9 @@
     "flag": "🇫🇷",
     "categoryCount": 7,
     "heroImage": "/images/destinations/paris.jpg",
-    "intro": "Paris welcomes pets in many hotels, cafés, and even some restaurants."
+    "intro": "Paris welcomes pets in many hotels, cafés, and even some restaurants.",
+    "lat": 48.8566,
+    "lng": 2.3522
   },
   {
     "slug": "biarritz",
@@ -24,7 +28,9 @@
     "flag": "🇫🇷",
     "categoryCount": 6,
     "heroImage": "/images/destinations/biarritz.jpg",
-    "intro": "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels."
+    "intro": "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels.",
+    "lat": 43.4832,
+    "lng": -1.5586
   },
   {
     "slug": "barcelona",
@@ -33,7 +39,9 @@
     "flag": "🇪🇸",
     "categoryCount": 7,
     "heroImage": "/images/destinations/barcelona.jpg",
-    "intro": "Barcelona has a growing pet-friendly scene with many hotels welcoming dogs of all sizes."
+    "intro": "Barcelona has a growing pet-friendly scene with many hotels welcoming dogs of all sizes.",
+    "lat": 41.3851,
+    "lng": 2.1734
   },
   {
     "slug": "berlin",
@@ -42,7 +50,9 @@
     "flag": "🇩🇪",
     "categoryCount": 9,
     "heroImage": "/images/destinations/berlin.jpg",
-    "intro": "Berlin is one of the most dog-friendly capitals in Europe, with extensive parks and pet-welcoming accommodation."
+    "intro": "Berlin is one of the most dog-friendly capitals in Europe, with extensive parks and pet-welcoming accommodation.",
+    "lat": 52.5200,
+    "lng": 13.4050
   },
   {
     "slug": "lisbon",
@@ -51,6 +61,8 @@
     "flag": "🇵🇹",
     "categoryCount": 6,
     "heroImage": "/images/destinations/lisbon.jpg",
-    "intro": "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet."
+    "intro": "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet.",
+    "lat": 38.7169,
+    "lng": -9.1399
   }
 ]

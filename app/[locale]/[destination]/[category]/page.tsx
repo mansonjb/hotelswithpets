@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
+import Stay22Map from '@/components/Stay22Map'
 import { generateIntro, generateFaqs, generateTips } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
@@ -170,9 +171,9 @@ export default async function ComboPage({
       : null
   const freeCount = comboHotels.filter((h) => h.petFee === 0).length
 
-  const introParagraphs = generateIntro(dest.slug, dest.name, cat.slug, comboHotels.length)
-  const faqs = generateFaqs(dest.slug, dest.name, cat.slug, catName, comboHotels)
-  const tips = generateTips(cat.slug, dest.name)
+  const introParagraphs = generateIntro(dest.slug, dest.name, cat.slug, comboHotels.length, locale)
+  const faqs = generateFaqs(dest.slug, dest.name, cat.slug, catName, comboHotels, locale)
+  const tips = generateTips(cat.slug, dest.name, locale)
 
   const schemas = buildSchema(locale, dest, cat, catName, comboHotels, faqs, year)
 
@@ -214,13 +215,13 @@ export default async function ComboPage({
           <ol className="max-w-7xl mx-auto flex items-center flex-wrap gap-1 text-sm text-gray-500">
             <li>
               <Link href={`/${locale}`} className="hover:text-blue-600 transition-colors">
-                Home
+                {dict.nav.home}
               </Link>
             </li>
             <li className="text-gray-300">/</li>
             <li>
               <Link href={`/${locale}/destinations`} className="hover:text-blue-600 transition-colors">
-                Destinations
+                {dict.nav.destinations}
               </Link>
             </li>
             <li className="text-gray-300">/</li>
@@ -256,8 +257,7 @@ export default async function ComboPage({
                   <span className="text-4xl lg:text-6xl filter drop-shadow-lg">{dest.flag}</span>
                 </div>
                 <h1 className="text-3xl lg:text-5xl font-extrabold leading-[1.1] mb-3 tracking-tight">
-                  Best {catName} Hotels<br />
-                  <span className="text-white/85">in {dest.name}</span>
+                  {t(p.heroTitle, { cat: catName, dest: dest.name })}
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
@@ -427,11 +427,24 @@ export default async function ComboPage({
                             className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors py-1"
                           >
                             <span>{c.emoji}</span>
-                            <span>{getCategoryName(c, locale as Locale)} in {dest.name}</span>
+                            <span>{getCategoryName(c, locale as Locale)} {t(p.inCity, { dest: dest.name })}</span>
                           </Link>
                         </li>
                       ))}
                     </ul>
+                  </div>
+                )}
+
+                {/* Stay22 Map */}
+                {'lat' in dest && 'lng' in dest && (
+                  <div>
+                    <h3 className="font-bold text-gray-900 text-sm mb-3">🗺️ {dest.name}</h3>
+                    <Stay22Map
+                      lat={(dest as typeof dest & { lat: number }).lat}
+                      lng={(dest as typeof dest & { lng: number }).lng}
+                      destName={dest.name}
+                      height={280}
+                    />
                   </div>
                 )}
 
@@ -449,7 +462,7 @@ export default async function ComboPage({
                             className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors py-1"
                           >
                             <span>{d.flag}</span>
-                            <span>{catName} in {d.name}</span>
+                            <span>{catName} {t(p.inCity, { dest: d.name })}</span>
                           </Link>
                         </li>
                       ))}

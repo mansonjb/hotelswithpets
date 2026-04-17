@@ -1698,6 +1698,521 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  nice: {
+    history: {
+      en: 'Nice — the capital of the French Riviera and France\'s fifth-largest city — has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',
+      fr: 'Nice — capitale de la Côte d\'Azur et cinquième ville de France — est une villégiature pour les voyageurs aisés et leurs animaux depuis le XIXe siècle, quand les aristocrates britanniques hivernant sur la Riviera faisaient de la Promenade des Anglais leur promenade quotidienne. Aujourd\'hui, ses 342 000 habitants partagent la ville avec une importante population canine attirée par le climat méditerranéen, la longue plage de galets et l\'accès facile aux collines des Alpes-Maritimes.',
+      es: 'Niza — capital de la Costa Azul y quinta ciudad de Francia — ha sido un refugio para viajeros con mascotas desde el siglo XIX, cuando los aristócratas británicos que pasaban el invierno en la Riviera convertían el Paseo de los Ingleses en su paseo diario. Hoy, sus 342.000 habitantes comparten la ciudad con una importante población canina atraída por el clima mediterráneo, la larga playa de guijarros y el fácil acceso a las colinas de los Alpes Marítimos.',
+    },
+    sights: [
+      {
+        name: 'Promenade des Anglais',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          en: 'The iconic 7km seafront promenade is one of Europe\'s great dog walks. Wide, flat, sea-breezy and busy with locals at all hours. Dogs on lead; the pebble beach is accessible but mostly without dedicated dog areas in summer.',
+          fr: 'La célèbre promenade de 7 km en bord de mer est l\'une des grandes promenades canines d\'Europe. Large, plate, ventée et animée à toute heure. Chiens en laisse ; la plage de galets est accessible mais sans zones canines dédiées en été.',
+          es: 'El icónico paseo marítimo de 7 km es uno de los grandes paseos caninos de Europa. Amplio, llano, con brisa marina y animado a todas horas. Perros con correa; la playa de guijarros es accesible pero sin zonas caninas específicas en verano.',
+        },
+      },
+      {
+        name: 'Colline du Château',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: 'The hilltop park overlooking the old town and the sea is a favourite with Nice dog owners. Shaded paths, a waterfall, open terraces and sweeping views — and almost always a breeze even in July. Reach it on foot from the old port or via the free lift.',
+          fr: 'Le parc sur la colline surplombant la vieille ville et la mer est le favori des promeneurs avec chiens à Nice. Sentiers ombragés, cascade, terrasses ouvertes et vues panoramiques — et presque toujours une brise même en juillet. Accessible à pied depuis le vieux port ou par l\'ascenseur gratuit.',
+          es: 'El parque en la colina que domina el casco antiguo y el mar es el favorito de los dueños de perros de Niza. Senderos sombreados, cascada, terrazas abiertas y vistas panorámicas — y casi siempre hay brisa incluso en julio. Se llega a pie desde el puerto viejo o en el ascensor gratuito.',
+        },
+      },
+      {
+        name: 'Vieux-Nice (Old Town)',
+        emoji: '🍋',
+        petFriendly: true,
+        desc: {
+          en: 'The baroque old town — all orange and yellow ochre façades, flower market and Socca stalls — is navigable with a calm dog. Most café terraces welcome dogs and the streets are narrow but not overwhelmingly so outside August.',
+          fr: 'La vieille ville baroque — façades orange et jaune, marché aux fleurs et stands de socca — est praticable avec un chien calme. La plupart des terrasses accueillent les chiens et les ruelles sont étroites mais pas envahissantes hors du mois d\'août.',
+          es: 'El casco antiguo barroco — fachadas naranja y amarillo ocre, mercado de flores y puestos de socca — es transitable con un perro tranquilo. La mayoría de terrazas admiten perros y las calles son estrechas pero no agobiantes fuera de agosto.',
+        },
+      },
+      {
+        name: 'Parc du Mont-Boron',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: 'The 340-hectare forested park east of the city is Nice\'s best escape from the heat. Pine forest trails, sea views and a military fort at the summit. Dogs off-lead in most areas; very popular with local runners and their dogs at weekends.',
+          fr: 'Le parc forestier de 340 hectares à l\'est de la ville est la meilleure échappatoire à la chaleur niçoise. Sentiers en forêt de pins, vues sur la mer et fort militaire au sommet. Chiens en liberté dans la plupart des zones ; très apprécié des coureurs locaux et de leurs chiens le week-end.',
+          es: 'El parque forestal de 340 hectáreas al este de la ciudad es el mejor escape del calor de Niza. Senderos entre pinos, vistas al mar y un fuerte militar en la cima. Perros libres en la mayoría de zonas; muy popular entre los corredores locales y sus perros los fines de semana.',
+        },
+      },
+      {
+        name: 'Musée Matisse & Musée d\'Art Moderne',
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          en: 'Nice\'s museums are not accessible to dogs. The Matisse museum gardens (outside) are dog-friendly and offer a pleasant stroll in the Cimiez neighbourhood.',
+          fr: 'Les musées de Nice ne sont pas accessibles aux chiens. Les jardins extérieurs du musée Matisse sont ouverts aux chiens et offrent une agréable promenade dans le quartier Cimiez.',
+          es: 'Los museos de Niza no son accesibles para perros. Los jardines exteriores del museo Matisse están abiertos a los perros y ofrecen un agradable paseo por el barrio de Cimiez.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Nice beaches are mostly pebble and private concessions in summer. Dogs are banned from most main beaches June–September. Coco Beach (east of the port) has a small dog area in season.',
+        'The city tram (Ligne 1 and 2) does not allow dogs — use it alone for museum visits. Taxis and ride-share apps allow dogs at driver discretion.',
+        'Arrière-pays excursion: the hinterland villages (Èze, La Turbie, Peille) are outstanding half-day trips with dogs — cool air, quiet trails and universally dog-friendly terraces.',
+        'Summer heat on the Promenade can reach 38°C. Pavement and pebbles overheat quickly. Walk before 9am; carry water and a portable bowl at all times.',
+        'Monaco day trip (20 min by train): dogs on lead are permitted in the Jardins Exotiques and on the Rocher. The casino and palace gardens are strictly no dogs.',
+      ],
+      fr: [
+        'Les plages de Nice sont principalement des galets et des concessions privées en été. Les chiens sont interdits sur la plupart des plages principales de juin à septembre. Coco Beach (à l\'est du port) dispose d\'un espace canin en saison.',
+        'Le tramway (lignes 1 et 2) n\'accepte pas les chiens — utilisez-le seul pour les visites de musées. Les taxis et applications de VTC acceptent les chiens à la discrétion du conducteur.',
+        'Excursion dans l\'arrière-pays : les villages du hinterland (Èze, La Turbie, Peille) sont d\'excellentes demi-journées avec un chien — air frais, sentiers tranquilles et terrasses universellement accueillantes.',
+        'La chaleur estivale sur la Promenade peut atteindre 38°C. Les trottoirs et les galets surchauffent rapidement. Promenez-vous avant 9h ; emportez de l\'eau et un bol portable en permanence.',
+        'Excursion à Monaco (20 min en train) : les chiens en laisse sont admis dans les Jardins Exotiques et sur le Rocher. Les jardins du casino et du palais sont strictement interdits aux chiens.',
+      ],
+      es: [
+        'Las playas de Niza son principalmente de guijarros y concesiones privadas en verano. Los perros están prohibidos en la mayoría de playas principales de junio a septiembre. Coco Beach (al este del puerto) tiene una zona canina en temporada.',
+        'El tranvía (líneas 1 y 2) no admite perros — úselo solo para visitas a museos. Los taxis y aplicaciones de VTC admiten perros a discreción del conductor.',
+        'Excursión al hinterland: los pueblos del interior (Èze, La Turbie, Peille) son excelentes medias jornadas con perro — aire fresco, senderos tranquilos y terrazas universalmente acogedoras.',
+        'El calor estival en el Paseo puede alcanzar los 38°C. Las aceras y los guijarros se calientan rápidamente. Pasee antes de las 9h; lleve siempre agua y un cuenco portátil.',
+        'Excursión a Mónaco (20 min en tren): los perros con correa están permitidos en los Jardines Exóticos y en la Roca. Los jardines del casino y del palacio son estrictamente sin perros.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Centre Hospitalier Vétérinaire Saint-Martin, Nice (+33 4 93 53 04 04) — 24-hour facility on the eastern edge of the city.',
+        'Getting there: Nice Côte d\'Azur Airport is 7km from the centre. The Tramway Line 2 connects in 25 minutes. Dogs in carriers allowed on the tram.',
+        'Train connections: Nice-Ville station connects to Paris (5h30 TGV), Marseille (2h30) and the scenic Côte d\'Azur local line (Menton, Monaco, Cannes, Antibes — all dog-friendly in terms of access).',
+        'Best season: May–June and September–October. The Promenade is spectacular in all seasons but summer crowds and beach restrictions make autumn the sweet spot for dog owners.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Centre Hospitalier Vétérinaire Saint-Martin, Nice (+33 4 93 53 04 04) — établissement 24h/24 à l\'est de la ville.',
+        'Accès : l\'aéroport de Nice Côte d\'Azur est à 7 km du centre. La ligne 2 du tramway relie en 25 minutes. Les chiens en transport sont acceptés dans le tramway.',
+        'Connexions ferroviaires : la gare de Nice-Ville est reliée à Paris (5h30 TGV), Marseille (2h30) et la pittoresque ligne locale de la Côte d\'Azur (Menton, Monaco, Cannes, Antibes — toutes accessibles aux chiens).',
+        'Meilleure saison : mai-juin et septembre-octobre. La Promenade est spectaculaire en toute saison, mais les foules estivales et les restrictions sur les plages font de l\'automne la période idéale pour les propriétaires de chiens.',
+      ],
+      es: [
+        'Veterinario de urgencias: Centre Hospitalier Vétérinaire Saint-Martin, Niza (+33 4 93 53 04 04) — centro 24h al este de la ciudad.',
+        'Cómo llegar: el aeropuerto de Niza Côte d\'Azur está a 7 km del centro. La línea 2 del tranvía conecta en 25 minutos. Los perros en transportín están admitidos en el tranvía.',
+        'Conexiones ferroviarias: la estación de Niza-Ville conecta con París (5h30 TGV), Marsella (2h30) y la pintoresca línea local de la Costa Azul (Menton, Mónaco, Cannes, Antibes — todas accesibles para perros).',
+        'Mejor temporada: mayo-junio y septiembre-octubre. El Paseo es espectacular en todas las estaciones, pero las multitudes estivales y las restricciones de playa hacen del otoño el momento ideal para los dueños de perros.',
+      ],
+    },
+  },
+
+  lyon: {
+    history: {
+      en: 'Lyon — France\'s second city by economic weight, often called the gastronomic capital of the world — sits at the confluence of the Rhône and Saône rivers. With 500,000 inhabitants and a dense network of traboules (covered passageways), hillside parks and riverside quays, Lyon is as good for dog owners as it is for food lovers. The city\'s UNESCO-listed Vieux Lyon and the Fourvière hill offer contrasting dog walk environments: tight medieval lanes below, open gardens and Roman ruins above. Lyonnais take their dogs to the bouchons (traditional bistros) as a matter of course.',
+      fr: 'Lyon — deuxième ville de France par le poids économique, souvent qualifiée de capitale gastronomique mondiale — est à la confluence du Rhône et de la Saône. Avec 500 000 habitants, un dense réseau de traboules, des parcs en pente et des quais fluviaux, Lyon est aussi accueillante pour les propriétaires de chiens que pour les amateurs de bonne cuisine. Le Vieux-Lyon classé à l\'UNESCO et la colline de Fourvière offrent des environnements de promenade contrastés : ruelles médiévales étroites en bas, jardins ouverts et ruines romaines en haut.',
+      es: 'Lyon — segunda ciudad de Francia por peso económico, a menudo llamada capital gastronómica mundial — se asienta en la confluencia del Ródano y el Saona. Con 500.000 habitantes, una densa red de traboules (pasajes cubiertos), parques en pendiente y paseos fluviales, Lyon es tan acogedora para los dueños de perros como para los amantes de la buena mesa. Los lioneses llevan a sus perros a los bouchons (bistros tradicionales) como algo natural.',
+    },
+    sights: [
+      {
+        name: 'Parc de la Tête d\'Or',
+        emoji: '🌹',
+        petFriendly: true,
+        desc: {
+          en: 'Lyon\'s magnificent 117-hectare park — with a lake, rose garden, and a free zoo — is the city\'s premier dog destination. Dogs on lead welcome throughout; the lakeside paths and open meadows make it ideal for long walks morning or evening.',
+          fr: 'Le magnifique parc de 117 hectares de Lyon — avec un lac, une roseraie et un zoo gratuit — est la destination canine principale de la ville. Chiens en laisse bienvenus partout ; les allées au bord du lac et les prairies ouvertes en font un lieu idéal pour de longues promenades matin et soir.',
+          es: 'El magnífico parque de 117 hectáreas de Lyon — con un lago, un jardín de rosas y un zoo gratuito — es el principal destino canino de la ciudad. Perros con correa bienvenidos en todas partes; los senderos junto al lago y las praderas abiertas lo hacen ideal para largos paseos mañana y tarde.',
+        },
+      },
+      {
+        name: 'Colline de Fourvière',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: 'The hilltop above old Lyon, topped by the Fourvière basilica and Roman amphitheatre ruins, is a superb elevated dog walk. The Jardin du Rosaire leads up through terraced gardens with views over the city. Most of the hill\'s gardens are accessible with dogs on lead.',
+          fr: 'La colline surplombant le vieux Lyon, couronnée par la basilique de Fourvière et les ruines d\'un amphithéâtre romain, est une superbe promenade canine en altitude. Le Jardin du Rosaire monte à travers des jardins en terrasses avec des vues sur la ville. La plupart des jardins de la colline sont accessibles avec des chiens en laisse.',
+          es: 'La colina sobre el Lyon antiguo, coronada por la basílica de Fourvière y las ruinas de un anfiteatro romano, es un magnífico paseo canino en altura. El Jardín del Rosario asciende por jardines en terrazas con vistas a la ciudad. La mayoría de los jardines de la colina son accesibles con perros con correa.',
+        },
+      },
+      {
+        name: 'Quais du Rhône & Saône',
+        emoji: '🚴',
+        petFriendly: true,
+        desc: {
+          en: 'The redeveloped riverside quays on both rivers are Lyon\'s most popular outdoor spaces. Flat, wide, shaded in parts and lined with cafés and food trucks — the Berges du Rhône on the left bank are especially dog-friendly, with water points and open lawns.',
+          fr: 'Les quais réaménagés sur les deux fleuves sont les espaces extérieurs les plus populaires de Lyon. Plats, larges, partiellement ombragés et bordés de cafés et food trucks — les Berges du Rhône sur la rive gauche sont particulièrement accueillantes pour les chiens, avec des points d\'eau et des pelouses.',
+          es: 'Los paseos fluviales rehabilitados en ambos ríos son los espacios exteriores más populares de Lyon. Llanos, amplios, parcialmente sombreados y bordeados de cafés y food trucks — las Berges del Ródano en la orilla izquierda son especialmente amigables para perros, con puntos de agua y praderas.',
+        },
+      },
+      {
+        name: 'Vieux-Lyon (St-Jean & St-Georges)',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          en: 'The UNESCO-listed Renaissance district below Fourvière is navigable with a dog, especially in the early morning or off-season. The traboules (hidden passageways) are accessible; dogs must be on lead in the narrow streets. Bouchons generally welcome dogs at outdoor tables.',
+          fr: 'Le quartier Renaissance classé à l\'UNESCO sous Fourvière est praticable avec un chien, surtout tôt le matin ou hors saison. Les traboules (passages couverts) sont accessibles ; les chiens doivent être en laisse dans les ruelles. Les bouchons accueillent généralement les chiens aux tables extérieures.',
+          es: 'El barrio renacentista declarado Patrimonio Mundial bajo Fourvière es transitable con un perro, especialmente por la mañana temprano o fuera de temporada. Las traboules (pasajes cubiertos) son accesibles; los perros deben ir con correa en las calles estrechas. Los bouchons generalmente admiten perros en las mesas exteriores.',
+        },
+      },
+      {
+        name: 'Musée des Beaux-Arts & Musée Lumière',
+        emoji: '🎬',
+        petFriendly: false,
+        desc: {
+          en: 'Museums in Lyon do not allow dogs. The courtyard of the Musée des Beaux-Arts (former Benedictine abbey) is accessible for a look from the garden side. The Lumière gardens are dog-friendly.',
+          fr: 'Les musées lyonnais n\'acceptent pas les chiens. La cour intérieure du Musée des Beaux-Arts (ancienne abbaye bénédictine) est accessible pour un aperçu depuis le jardin. Les jardins Lumière sont ouverts aux chiens.',
+          es: 'Los museos de Lyon no admiten perros. El patio del Musée des Beaux-Arts (antigua abadía benedictina) es accesible para una visita desde el jardín. Los jardines Lumière admiten perros.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Lyon\'s TCL metro and tram allow dogs in carriers only. The extensive bus network allows small dogs in carriers; larger dogs with muzzle at driver discretion.',
+        'Bouchons (traditional Lyon bistros) are among France\'s most dog-friendly restaurants — it\'s common to see dogs under the table at lunch. Always ask "Est-ce que je peux venir avec mon chien ?" first.',
+        'The Croix-Rousse hill (the "hill that works," historically the silk-weaving district) has excellent dog-walking streets, independent cafés and a great Saturday market. Much quieter than Fourvière.',
+        'Parc de la Tête d\'Or has free water points throughout. The lake area is popular for swimming (dogs included in some areas in early morning before the park fills).',
+        'Lyon gets cold in winter but the covered traboules and indoor bouchon culture make it one of France\'s best off-season city breaks for dog owners.',
+      ],
+      fr: [
+        'Le métro et le tramway TCL de Lyon n\'acceptent les chiens qu\'en transport. Le réseau de bus accepte les petits chiens en transport ; les grands chiens avec muselière à la discrétion du conducteur.',
+        'Les bouchons (bistrots traditionnels lyonnais) sont parmi les restaurants les plus accueillants pour les chiens en France — il est courant de voir des chiens sous la table au déjeuner. Demandez toujours "Est-ce que je peux venir avec mon chien ?" en premier.',
+        'La colline de la Croix-Rousse (la colline "qui travaille", historiquement le quartier des canuts) offre d\'excellentes rues de promenade, des cafés indépendants et un excellent marché du samedi. Beaucoup plus calme que Fourvière.',
+        'Le parc de la Tête d\'Or dispose de points d\'eau gratuits partout. La zone du lac est populaire pour la baignade (chiens inclus dans certaines zones tôt le matin avant que le parc ne se remplisse).',
+        'Lyon est froide en hiver mais les traboules couvertes et la culture bouchon font de Lyon l\'une des meilleures escapades citadines hors saison pour les propriétaires de chiens en France.',
+      ],
+      es: [
+        'El metro y el tranvía TCL de Lyon solo admiten perros en transportín. La red de autobuses admite perros pequeños en transportín; perros grandes con bozal a discreción del conductor.',
+        'Los bouchons (bistros tradicionales lioneses) están entre los restaurantes más acogedores para perros en Francia — es habitual ver perros bajo la mesa al mediodía. Pregunte siempre "Est-ce que je peux venir avec mon chien?" primero.',
+        'La colina de Croix-Rousse (la colina "que trabaja", históricamente el barrio de los tejedores de seda) tiene excelentes calles para pasear, cafés independientes y un magnífico mercado de sábado. Mucho más tranquila que Fourvière.',
+        'El parque de la Tête d\'Or tiene puntos de agua gratuitos por todo el recinto. La zona del lago es popular para nadar (perros incluidos en algunas zonas temprano por la mañana antes de que se llene el parque).',
+        'Lyon es fría en invierno, pero las traboules cubiertas y la cultura del bouchon la convierten en una de las mejores escapadas urbanas fuera de temporada para dueños de perros en Francia.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: VetaLyon, 79 Rue des Mûriers, Lyon 8e (+33 4 37 47 00 00) — 24-hour specialist animal hospital.',
+        'Getting there: Lyon Part-Dieu and Lyon Perrache stations connect to Paris (2h TGV), Marseille (1h40), Geneva (2h) and beyond. Dogs in carriers free on TGV; larger dogs pay a reduced fare.',
+        'Lyon is perfectly placed for a multi-city trip: Grenoble (1h30), Annecy (2h by car) and Burgundy wine country (1h north) all make excellent dog-friendly day trips.',
+        'Food market tip: Les Halles de Lyon Paul Bocuse allow dogs in the covered market hall — a rare privilege for a food market of this scale.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : VetaLyon, 79 rue des Mûriers, Lyon 8e (+33 4 37 47 00 00) — hôpital animalier spécialisé ouvert 24h/24.',
+        'Accès : les gares de Lyon Part-Dieu et Lyon Perrache sont reliées à Paris (2h TGV), Marseille (1h40), Genève (2h) et au-delà. Chiens en transport gratuits sur TGV ; les grands chiens paient un tarif réduit.',
+        'Lyon est idéalement placée pour un voyage multi-villes : Grenoble (1h30), Annecy (2h en voiture) et la Bourgogne (1h au nord) sont d\'excellentes excursions d\'une journée.',
+        'Bon plan marché : les Halles de Lyon Paul Bocuse acceptent les chiens dans le hall couvert — un privilège rare pour un marché de cette envergure.',
+      ],
+      es: [
+        'Veterinario de urgencias: VetaLyon, 79 Rue des Mûriers, Lyon 8e (+33 4 37 47 00 00) — hospital animal especializado 24h.',
+        'Cómo llegar: las estaciones de Lyon Part-Dieu y Lyon Perrache conectan con París (2h TGV), Marsella (1h40), Ginebra (2h) y más destinos. Perros en transportín gratis en TGV; los perros grandes pagan tarifa reducida.',
+        'Lyon está perfectamente ubicada para un viaje multi-ciudad: Grenoble (1h30), Annecy (2h en coche) y la Borgoña vinícola (1h al norte) son excelentes excursiones de un día.',
+        'Consejo de mercado: las Halles de Lyon Paul Bocuse admiten perros en el mercado cubierto — un privilegio poco común para un mercado de esta escala.',
+      ],
+    },
+  },
+
+  bordeaux: {
+    history: {
+      en: 'Bordeaux — the "sleeping beauty" famously woken by Alain Juppé\'s mayoral renovation in the 1990s — is now one of France\'s most liveable cities. Its UNESCO-listed 18th-century riverfront, its wine culture and its Atlantic-influenced climate draw over five million visitors a year. Dogs have always been part of Bordeaux life: the Girondins tradition of long Sunday walks along the Garonne, the wine estate (château) culture where working dogs guard the vines, and the outdoor café life of the Chartrons antiques district all make Bordeaux one of France\'s most dog-welcoming cities.',
+      fr: 'Bordeaux — la "belle endormie" réveillée par la rénovation municipale d\'Alain Juppé dans les années 1990 — est aujourd\'hui l\'une des villes les plus agréables de France. Son front de Garonne classé à l\'UNESCO, sa culture viticole et son climat atlantique attirent plus de cinq millions de visiteurs par an. Les chiens ont toujours fait partie de la vie bordelaise : la tradition girondine des longues promenades du dimanche le long de la Garonne, la culture des châteaux viticoles et la vie de café en plein air du quartier des Chartrons en font l\'une des villes françaises les plus accueillantes pour les chiens.',
+      es: 'Burdeos — la "bella durmiente" despertada por la renovación municipal de Alain Juppé en los años 90 — es hoy una de las ciudades más habitables de Francia. Su frente fluvial del siglo XVIII declarado Patrimonio Mundial, su cultura vinícola y su clima atlántico atraen a más de cinco millones de visitantes al año. Los perros siempre han formado parte de la vida bordelesa: la tradición girondina de largos paseos dominicales a orillas del Garona, la cultura de los châteaux vinícolas y la vida de café al aire libre del barrio de Chartrons la convierten en una de las ciudades francesas más acogedoras para perros.',
+    },
+    sights: [
+      {
+        name: 'Quais de la Garonne & Darwin Ecosystem',
+        emoji: '🚲',
+        petFriendly: true,
+        desc: {
+          en: 'The redesigned 4.5km riverfront quays are Bordeaux\'s great outdoor living room. Flat, wide and shaded by plane trees, they connect the Miroir d\'Eau (the world\'s largest reflecting pool — dogs wade in it daily) to the Darwin Ecosystem, a converted barracks with organic market, skate park and dog-friendly café terrace.',
+          fr: 'Les quais réaménagés sur 4,5 km sont le grand salon en plein air de Bordeaux. Plats, larges et ombragés par des platanes, ils relient le Miroir d\'Eau (le plus grand miroir d\'eau du monde — les chiens y pataugent quotidiennement) au Darwin Ecosystème, une caserne reconvertie avec marché bio, skate park et terrasse de café chien-friendly.',
+          es: 'Los paseos fluviales rehabilitados de 4,5 km son el gran salón exterior de Burdeos. Llanos, amplios y sombreados por plátanos, conectan el Miroir d\'Eau (el mayor espejo de agua del mundo — los perros chapotean en él a diario) con el Darwin Ecosystème, un cuartel reconvertido con mercado ecológico, skate park y terraza de café para perros.',
+        },
+      },
+      {
+        name: 'Parc Bordelais',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: 'Bordeaux\'s main city park — 28 hectares of oak and chestnut woodland, a lake and dedicated off-leash areas. Extremely popular with local dog owners on weekend mornings. The rose garden and children\'s play area are lead-required zones.',
+          fr: 'Le principal parc de Bordeaux — 28 hectares de chênes et châtaigniers, un lac et des zones en liberté dédiées. Extrêmement populaire auprès des propriétaires de chiens locaux le week-end matin. La roseraie et l\'espace de jeux pour enfants sont des zones en laisse obligatoire.',
+          es: 'El principal parque de Burdeos — 28 hectáreas de robles y castaños, un lago y zonas de libertad dedicadas. Muy popular entre los dueños de perros locales las mañanas de fin de semana. El jardín de rosas y la zona de juegos infantiles son zonas con correa obligatoria.',
+        },
+      },
+      {
+        name: 'Quartier des Chartrons',
+        emoji: '🍷',
+        petFriendly: true,
+        desc: {
+          en: 'The antiques and wine merchant district north of the Quinconces is Bordeaux at its most relaxed. Sunday market, independent wine shops (caves) that often welcome dogs inside, and shaded street cafés where dogs are as normal a sight as wine glasses.',
+          fr: 'Le quartier des antiquaires et des négociants en vin au nord des Quinconces est Bordeaux dans ce qu\'elle a de plus décontracté. Marché du dimanche, caves indépendantes qui accueillent souvent les chiens à l\'intérieur, et cafés de rue ombragés où les chiens sont aussi ordinaires que les verres de vin.',
+          es: 'El barrio de anticuarios y comerciantes de vino al norte de los Quinconces es Burdeos en su versión más relajada. Mercado dominical, tiendas de vino independientes (caves) que a menudo admiten perros dentro, y cafés de calle sombreados donde los perros son tan habituales como las copas de vino.',
+        },
+      },
+      {
+        name: 'Lac de Bordeaux (Parc du Lac)',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          en: 'The city\'s artificial lake north of the centre is ringed by a 10km path ideal for jogging and dog walks. Off-leash areas exist around the lake perimeter; in summer, the beach area has a dog zone separate from the main swimming beach.',
+          fr: 'Le lac artificiel au nord du centre est entouré d\'un parcours de 10 km idéal pour les courses et les promenades canines. Des zones en liberté existent sur le pourtour du lac ; en été, la zone de plage dispose d\'un espace canin séparé de la plage principale.',
+          es: 'El lago artificial al norte del centro está rodeado por un camino de 10 km ideal para correr y pasear con perros. Hay zonas de libertad alrededor del perímetro del lago; en verano, la zona de playa tiene un área canina separada de la playa principal.',
+        },
+      },
+      {
+        name: 'Cité du Vin',
+        emoji: '🍾',
+        petFriendly: false,
+        desc: {
+          en: 'The spectacular wine museum is not accessible to dogs. The riverside gardens and terraces of the Cité du Vin are dog-friendly; the rooftop bar (with views over the river) welcomes dogs on its terrace.',
+          fr: 'Le spectaculaire musée du vin n\'est pas accessible aux chiens. Les jardins et terrasses en bord de fleuve de la Cité du Vin sont ouverts aux chiens ; le bar du belvédère (avec vue sur le fleuve) accueille les chiens sur sa terrasse.',
+          es: 'El espectacular museo del vino no es accesible para perros. Los jardines y terrazas fluviales de la Cité du Vin admiten perros; el bar del mirador (con vistas al río) acoge perros en su terraza.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Bordeaux tram (lines A–D): dogs in carriers accepted on all lines. Larger dogs need a muzzle and a child fare ticket. The tram is the main way to cross the city.',
+        'Wine estate day trip: the Médoc, Saint-Émilion and Entre-Deux-Mers are all within 45 minutes by car. Many châteaux welcome dogs on their estate walks and vineyard tours — call ahead to confirm.',
+        'The Miroir d\'Eau is Bordeaux\'s most famous sight and a genuine dog magnet — the shallow water (2cm at most) is refreshing in summer and dogs wade freely. Go early to avoid the crowd.',
+        'Arcachon Bay (Bassin d\'Arcachon) is 45 minutes by train: the town has dog-friendly beaches, boat trips to the Dune du Pilat (dogs allowed outside July–August) and an excellent oyster market.',
+        'Atlantic climate: Bordeaux is wetter and cooler than Provence. A waterproof dog coat and towel are worthwhile companions in spring and autumn.',
+      ],
+      fr: [
+        'Tramway de Bordeaux (lignes A–D) : les chiens en transport sont acceptés sur toutes les lignes. Les grands chiens ont besoin d\'une muselière et d\'un billet tarif enfant. Le tramway est le principal moyen de traverser la ville.',
+        'Excursion dans les vignobles : le Médoc, Saint-Émilion et l\'Entre-Deux-Mers sont tous à 45 minutes en voiture. De nombreux châteaux accueillent les chiens lors de leurs promenades dans le domaine et des visites de chais — appelez à l\'avance pour confirmer.',
+        'Le Miroir d\'Eau est le site le plus célèbre de Bordeaux et un véritable aimant pour les chiens — l\'eau peu profonde (2 cm au maximum) est rafraîchissante en été et les chiens y pataugent librement. Arrivez tôt pour éviter la foule.',
+        'Le Bassin d\'Arcachon est à 45 minutes en train : la ville dispose de plages canines, de balades en bateau jusqu\'à la Dune du Pilat (chiens admis hors juillet-août) et d\'un excellent marché aux huîtres.',
+        'Climat atlantique : Bordeaux est plus humide et plus fraîche que la Provence. Un imperméable pour chien et une serviette sont des compagnons précieux au printemps et en automne.',
+      ],
+      es: [
+        'Tranvía de Burdeos (líneas A–D): perros en transportín admitidos en todas las líneas. Los perros grandes necesitan bozal y billete tarifa infantil. El tranvía es el principal medio para cruzar la ciudad.',
+        'Excursión por las bodegas: el Médoc, Saint-Émilion y Entre-Deux-Mers están todos a 45 minutos en coche. Muchos châteaux acogen perros en sus paseos por la finca y visitas a las bodegas — llame con antelación para confirmar.',
+        'El Miroir d\'Eau es el lugar más famoso de Burdeos y un auténtico imán para perros — el agua poco profunda (2 cm como máximo) es refrescante en verano y los perros chapotean libremente. Vaya temprano para evitar la multitud.',
+        'La Bahía de Arcachon (Bassin d\'Arcachon) está a 45 minutos en tren: la ciudad tiene playas caninas, paseos en barco hasta la Duna del Pilat (perros permitidos fuera de julio-agosto) y un excelente mercado de ostras.',
+        'Clima atlántico: Burdeos es más húmeda y fresca que la Provenza. Un impermeable para perro y una toalla son compañeros valiosos en primavera y otoño.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Clinique Vétérinaire des Hauts de Garonne, Bègles (+33 5 56 49 19 19) — 24-hour facility south of the city centre.',
+        'Getting there: Bordeaux-Saint-Jean station connects to Paris (2h TGV), Lyon (2h), and Spain (Irun connection for San Sebastián and Madrid). Dogs in carriers free on TGV; larger dogs pay a reduced fare.',
+        'Bordeaux airport (BOD) is 10km west. The BUS LIANE 1 connects to the centre in 50 minutes. Dogs in carriers allowed on city buses.',
+        'Best season: May–June and September–October for wine harvest season. The vendanges (harvest) period in September is particularly atmospheric and many estates organise dog-friendly open days.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Clinique Vétérinaire des Hauts de Garonne, Bègles (+33 5 56 49 19 19) — établissement 24h/24 au sud du centre-ville.',
+        'Accès : la gare de Bordeaux-Saint-Jean est reliée à Paris (2h TGV), Lyon (2h) et l\'Espagne (connexion Irun pour Saint-Sébastien et Madrid). Chiens en transport gratuits sur TGV ; les grands chiens paient un tarif réduit.',
+        'L\'aéroport de Bordeaux (BOD) est à 10 km à l\'ouest. Le BUS LIANE 1 relie en 50 minutes. Les chiens en transport sont acceptés dans les bus de ville.',
+        'Meilleure saison : mai-juin et septembre-octobre pour les vendanges. La période des vendanges en septembre est particulièrement atmosphérique et de nombreux domaines organisent des journées portes ouvertes.',
+      ],
+      es: [
+        'Veterinario de urgencias: Clinique Vétérinaire des Hauts de Garonne, Bègles (+33 5 56 49 19 19) — centro 24h al sur del centro de la ciudad.',
+        'Cómo llegar: la estación de Bordeaux-Saint-Jean conecta con París (2h TGV), Lyon (2h) y España (conexión Irun para San Sebastián y Madrid). Perros en transportín gratis en TGV; los perros grandes pagan tarifa reducida.',
+        'El aeropuerto de Burdeos (BOD) está a 10 km al oeste. El BUS LIANE 1 conecta con el centro en 50 minutos. Los perros en transportín están admitidos en los autobuses de ciudad.',
+        'Mejor temporada: mayo-junio y septiembre-octubre para la vendimia. El período de la vendimia en septiembre es especialmente atmosférico y muchas bodegas organizan jornadas de puertas abiertas.',
+      ],
+    },
+  },
+
+  copenhagen: {
+    history: {
+      en: 'Copenhagen — consistently ranked among the world\'s most liveable cities — is also one of Europe\'s most dog-friendly capitals. Danes have a deep and unsentimental relationship with their dogs: Copenhageners cycle with dogs in cargo bikes, take them to work, and bring them to the city\'s many dog-friendly cafés and restaurants as a matter of course. The city\'s commitment to cycling infrastructure, its network of harbour baths, parks and beaches within cycling distance, and its high social trust create an environment where dogs are genuinely welcomed rather than merely tolerated. An estimated 70,000 dogs live in the Copenhagen metropolitan area.',
+      fr: 'Copenhague — régulièrement classée parmi les villes les plus agréables au monde — est aussi l\'une des capitales les plus accueillantes pour les chiens en Europe. Les Danois entretiennent avec leurs chiens une relation profonde et pragmatique : les Copenhaguois pédalent avec leurs chiens dans des vélos-cargo, les emmènent au bureau et les conduisent dans les nombreux cafés et restaurants dog-friendly de la ville. L\'engagement de la ville envers les infrastructures cyclables, son réseau de bains portuaires, de parcs et de plages accessibles à vélo, et sa grande confiance sociale créent un environnement où les chiens sont véritablement bienvenus.',
+      es: 'Copenhague — clasificada sistemáticamente entre las ciudades más habitables del mundo — es también una de las capitales más acogedoras para perros de Europa. Los daneses tienen con sus perros una relación profunda y pragmática: los copenhagueses pedalean con sus perros en bicis de carga, los llevan al trabajo y los traen a los numerosos cafés y restaurantes dog-friendly de la ciudad. El compromiso de la ciudad con la infraestructura ciclista, su red de baños portuarios, parques y playas accesibles en bicicleta, y su elevada confianza social crean un entorno donde los perros son genuinamente bienvenidos.',
+    },
+    sights: [
+      {
+        name: 'Frederiksberg Have & Søndermarken',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          en: 'The romantic English landscape gardens of Frederiksberg palace — 32 hectares of canals, hills and woodland — are among Copenhagen\'s best dog walks. Connecting directly to the 55-hectare Søndermarken park with a large off-leash zone, it\'s the go-to morning destination for dog owners in western Copenhagen.',
+          fr: 'Les romantiques jardins paysagers anglais du château de Frederiksberg — 32 hectares de canaux, de collines et de bois — comptent parmi les meilleures promenades canines de Copenhague. En connexion directe avec le parc Søndermarken (55 ha) et sa grande zone en liberté, c\'est la destination matinale de prédilection des propriétaires de chiens du west de Copenhague.',
+          es: 'Los románticos jardines paisajistas ingleses del palacio de Frederiksberg — 32 hectáreas de canales, colinas y bosque — están entre los mejores paseos caninos de Copenhague. Conectados directamente con el parque Søndermarken (55 ha) y su gran zona de libertad, es el destino matutino preferido de los dueños de perros del oeste de Copenhague.',
+        },
+      },
+      {
+        name: 'Refshaleøen & Amager Fælled',
+        emoji: '🏭',
+        petFriendly: true,
+        desc: {
+          en: 'The former shipyard island of Refshaleøen, now a creative and food hub, borders the vast Amager Fælled nature reserve. The fælled (common) is 3.5km² of meadow, wetland and forest — one of the best off-leash wild-feeling dog walks in any European capital.',
+          fr: 'L\'ancienne île de chantier naval de Refshaleøen, aujourd\'hui un hub créatif et gastronomique, borde l\'immense réserve naturelle d\'Amager Fælled. Le fælled est un espace de 3,5 km² de prairies, zones humides et forêt — l\'une des meilleures promenades canines en liberté dans toute capitale européenne.',
+          es: 'La antigua isla de astilleros de Refshaleøen, ahora un hub creativo y gastronómico, linda con la vasta reserva natural de Amager Fælled. El fælled es un espacio de 3,5 km² de praderas, humedales y bosque — uno de los mejores paseos caninos en libertad en cualquier capital europea.',
+        },
+      },
+      {
+        name: 'Nørrebro & Assistens Cemetery',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          en: 'Nørrebro is Copenhagen\'s most dog-friendly neighbourhood: independent cafés with dogs under the tables, a Saturday organic market and the Assistens Cemetery — burial place of Kierkegaard and H.C. Andersen — which doubles as a beloved public park where locals picnic and walk dogs.',
+          fr: 'Nørrebro est le quartier le plus dog-friendly de Copenhague : cafés indépendants avec des chiens sous les tables, marché bio du samedi et le cimetière d\'Assistens — lieu de sépulture de Kierkegaard et H.C. Andersen — qui sert aussi de parc public aimé où les habitants pique-niquent et promènent leurs chiens.',
+          es: 'Nørrebro es el barrio más amigable para perros de Copenhague: cafés independientes con perros bajo las mesas, mercado ecológico de sábado y el cementerio de Assistens — lugar de reposo de Kierkegaard y H.C. Andersen — que funciona también como querido parque público donde los locales hacen picnic y pasean a sus perros.',
+        },
+      },
+      {
+        name: 'Copenhagen Harbour & Nyhavn',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          en: 'The colourful 17th-century canal of Nyhavn and the harbour front are navigable with a dog. The harbour baths (swimming spots) are not accessible to dogs, but the quayside promenade and the canal boat tours (Nettobådene) allow dogs in carriers.',
+          fr: 'Le canal coloré du XVIIe siècle de Nyhavn et le front portuaire sont praticables avec un chien. Les bains portuaires (zones de baignade) ne sont pas accessibles aux chiens, mais la promenade sur le quai et les balades en bateau sur le canal (Nettobådene) acceptent les chiens en transport.',
+          es: 'El colorido canal del siglo XVII de Nyhavn y el frente portuario son transitables con un perro. Los baños del puerto (zonas de baño) no son accesibles para perros, pero el paseo por el muelle y los paseos en barco por el canal (Nettobådene) admiten perros en transportín.',
+        },
+      },
+      {
+        name: 'Tivoli Gardens',
+        emoji: '🎡',
+        petFriendly: false,
+        desc: {
+          en: 'Tivoli does not allow dogs. It is one of Copenhagen\'s top attractions but requires leaving your pet at the hotel. Check accommodation with secure dog-minding facilities if you plan a Tivoli evening.',
+          fr: 'Tivoli n\'accepte pas les chiens. C\'est l\'une des principales attractions de Copenhague, mais elle nécessite de laisser votre animal à l\'hôtel. Vérifiez les hébergements avec des services de garde de chiens sécurisés si vous prévoyez une soirée à Tivoli.',
+          es: 'Tivoli no admite perros. Es una de las principales atracciones de Copenhague, pero requiere dejar a su mascota en el hotel. Compruebe alojamientos con servicios de cuidado de perros seguros si planea una velada en Tivoli.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Copenhagen Metro allows dogs in carriers only. S-Tog (suburban trains) and regional trains allow dogs with a muzzle for a child fare. Buses allow dogs in carriers.',
+        'Cargo bikes (Christiania bikes) are everywhere in Copenhagen and Danes routinely transport dogs in them. Some bike rental shops offer cargo bikes — a uniquely Copenhagen way to explore with a large dog.',
+        'Danish cafés are predominantly dog-friendly — look for "hunde velkomne" (dogs welcome) signs. It\'s unusual to find a Copenhagen neighbourhood café that refuses dogs.',
+        'Beaches: Bellevue Beach (20 min by S-Tog, Klampenborg) has a dedicated off-leash dog beach area. Amager Beach has dog-friendly sections outside June–August.',
+        'The famous Strøget pedestrian street is accessible with dogs; the main department stores (Magasin, Illum) do not allow dogs.',
+      ],
+      fr: [
+        'Le métro de Copenhague n\'accepte les chiens qu\'en transport. Les S-Tog (trains de banlieue) et les trains régionaux acceptent les chiens avec muselière au tarif enfant. Les bus acceptent les chiens en transport.',
+        'Les vélos-cargo (vélos Christiania) sont omniprésents à Copenhague et les Danois y transportent régulièrement leurs chiens. Certaines boutiques de location de vélos proposent des vélos-cargo — une façon typiquement copenhaguoise d\'explorer avec un grand chien.',
+        'Les cafés danois sont majoritairement dog-friendly — repérez les panneaux "hunde velkomne" (chiens bienvenus). Il est rare de trouver un café de quartier à Copenhague qui refuse les chiens.',
+        'Plages : la plage de Bellevue (20 min en S-Tog, Klampenborg) dispose d\'une zone de plage canine en liberté. La plage d\'Amager a des sections dog-friendly hors juin-août.',
+        'La célèbre rue piétonne Strøget est accessible avec des chiens ; les grands magasins (Magasin, Illum) n\'acceptent pas les chiens.',
+      ],
+      es: [
+        'El metro de Copenhague solo admite perros en transportín. Los S-Tog (trenes de cercanías) y los trenes regionales admiten perros con bozal al precio de billete infantil. Los autobuses admiten perros en transportín.',
+        'Las bicicletas de carga (bicicletas Christiania) están en todas partes en Copenhague y los daneses transportan habitualmente a sus perros en ellas. Algunas tiendas de alquiler de bicicletas ofrecen bicicletas de carga — una forma típicamente copenhaguesa de explorar con un perro grande.',
+        'Los cafés daneses son mayoritariamente dog-friendly — busque los carteles "hunde velkomne" (perros bienvenidos). Es poco común encontrar un café de barrio en Copenhague que rechace perros.',
+        'Playas: la playa de Bellevue (20 min en S-Tog, Klampenborg) tiene una zona de playa canina en libertad. La playa de Amager tiene secciones dog-friendly fuera de junio-agosto.',
+        'La famosa calle peatonal Strøget es accesible con perros; los grandes almacenes (Magasin, Illum) no admiten perros.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Dyrehospitalet Frederiksberg, Howitzvej (+45 38 86 55 55) — 24-hour specialist animal hospital in central Copenhagen.',
+        'Getting there: Copenhagen Airport (CPH) is connected to the city centre by Metro M2 in 15 minutes. Dogs in carriers accepted; larger dogs need a muzzle and lead.',
+        'From Sweden: the Øresund Bridge connects Copenhagen to Malmö (35 min by train). Dogs with EU pet passport can cross freely.',
+        'Denmark uses the Danish krone (DKK), not the euro. Most places accept card; cash is rarely needed.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Dyrehospitalet Frederiksberg, Howitzvej (+45 38 86 55 55) — hôpital animalier spécialisé 24h/24 au centre de Copenhague.',
+        'Accès : l\'aéroport de Copenhague (CPH) est relié au centre-ville par le métro M2 en 15 minutes. Les chiens en transport sont acceptés ; les grands chiens ont besoin d\'une muselière et d\'une laisse.',
+        'Depuis la Suède : le pont de l\'Øresund relie Copenhague à Malmö (35 min en train). Les chiens avec passeport UE peuvent traverser librement.',
+        'Le Danemark utilise la couronne danoise (DKK), pas l\'euro. La plupart des endroits acceptent la carte ; les espèces sont rarement nécessaires.',
+      ],
+      es: [
+        'Veterinario de urgencias: Dyrehospitalet Frederiksberg, Howitzvej (+45 38 86 55 55) — hospital animal especializado 24h en el centro de Copenhague.',
+        'Cómo llegar: el aeropuerto de Copenhague (CPH) conecta con el centro de la ciudad en 15 minutos por el metro M2. Los perros en transportín están admitidos; los perros grandes necesitan bozal y correa.',
+        'Desde Suecia: el puente de Øresund une Copenhague con Malmö (35 min en tren). Los perros con pasaporte UE pueden cruzar libremente.',
+        'Dinamarca usa la corona danesa (DKK), no el euro. La mayoría de los lugares aceptan tarjeta; el efectivo raramente es necesario.',
+      ],
+    },
+  },
+
+  stockholm: {
+    history: {
+      en: 'Stockholm — spread across 14 islands at the point where Lake Mälaren meets the Baltic — is a city that takes its relationship with nature seriously. Swedes are prolific dog owners (over 900,000 dogs nationwide, roughly one per ten people) and Stockholm\'s infrastructure reflects this: Djurgården island, the archipelago day trips and the city\'s extensive cycle and walking paths make it one of Europe\'s most naturally dog-friendly cities. The Gamla Stan (Old Town) island, with its 13th-century cobblestone alleys, is navigable with a calm dog; the surrounding water-city gives an almost unique sense of space for a European capital of 975,000 people.',
+      fr: 'Stockholm — étendue sur 14 îles au point de rencontre du lac Mälaren et de la Baltique — est une ville qui prend au sérieux sa relation avec la nature. Les Suédois sont de grands propriétaires de chiens (plus de 900 000 chiens à l\'échelle nationale, soit environ un pour dix personnes) et l\'infrastructure de Stockholm le reflète : l\'île de Djurgården, les excursions dans l\'archipel et les nombreuses pistes cyclables et pédestres en font l\'une des capitales européennes les plus naturellement accueillantes pour les chiens.',
+      es: 'Estocolmo — extendida por 14 islas en el punto donde el lago Mälaren se encuentra con el Báltico — es una ciudad que toma en serio su relación con la naturaleza. Los suecos son prolíficos dueños de perros (más de 900.000 perros en todo el país, aproximadamente uno por cada diez personas) y la infraestructura de Estocolmo lo refleja: la isla de Djurgården, las excursiones al archipiélago y los extensos caminos ciclistas y peatonales la convierten en una de las capitales europeas más naturalmente acogedoras para los perros.',
+    },
+    sights: [
+      {
+        name: 'Djurgården Island',
+        emoji: '🦌',
+        petFriendly: true,
+        desc: {
+          en: 'The royal park island — home to the Vasa Museum, Skansen open-air museum and ABBA The Museum — is Stockholm\'s premier dog destination. The forested southern half is entirely off-leash; the northern path along the water offers spectacular views of the city. Dogs see deer here regularly.',
+          fr: 'L\'île du parc royal — accueillant le musée Vasa, le musée en plein air Skansen et le musée ABBA — est la destination canine principale de Stockholm. La moitié sud boisée est entièrement en liberté ; le sentier nord longeant l\'eau offre des vues spectaculaires sur la ville. Les chiens y croisent régulièrement des cerfs.',
+          es: 'La isla del parque real — sede del Museo Vasa, el museo al aire libre Skansen y el Museo ABBA — es el principal destino canino de Estocolmo. La mitad sur boscosa está completamente libre de correa; el sendero norte a lo largo del agua ofrece vistas espectaculares de la ciudad. Los perros se cruzan regularmente con ciervos aquí.',
+        },
+      },
+      {
+        name: 'Södermalm & Tantolunden',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          en: 'Södermalm — Stockholm\'s bohemian southern island — is the most dog-friendly neighbourhood in the city. Tantolunden park has an allotment area, open lawns, a waterfront and a dedicated dog run. The café culture on SoFo (south of Folkungagatan) is excellent, with dogs welcome inside most establishments.',
+          fr: 'Södermalm — l\'île bohème sud de Stockholm — est le quartier le plus dog-friendly de la ville. Le parc Tantolunden dispose d\'une zone de jardins ouvriers, de pelouses ouvertes, d\'un front d\'eau et d\'un parc canin dédié. La culture des cafés dans le SoFo (au sud de la Folkungagatan) est excellente, avec des chiens bienvenus à l\'intérieur de la plupart des établissements.',
+          es: 'Södermalm — la isla bohemia sur de Estocolmo — es el barrio más amigable para perros de la ciudad. El parque Tantolunden tiene una zona de huertos, praderas abiertas, un frente fluvial y un parque canino dedicado. La cultura del café en SoFo (al sur de Folkungagatan) es excelente, con perros bienvenidos dentro de la mayoría de establecimientos.',
+        },
+      },
+      {
+        name: 'Ekoparken (Royal National City Park)',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: 'The world\'s first national city park — 27km² of forest, meadow, lakes and royal palaces within the city limits. Dogs on lead in the meadow zones; off-lead in the forested areas. Moose, deer and hares are regular sightings — keep your dog under control.',
+          fr: 'Le premier parc national urbain au monde — 27 km² de forêt, prairies, lacs et palais royaux dans les limites de la ville. Chiens en laisse dans les zones de prairies ; en liberté dans les zones boisées. Les élans, cerfs et lièvres sont des habitués — gardez votre chien sous contrôle.',
+          es: 'El primer parque nacional urbano del mundo — 27 km² de bosque, praderas, lagos y palacios reales dentro de los límites de la ciudad. Perros con correa en las zonas de pradera; libres en las zonas boscosas. Los alces, ciervos y liebres son visitantes habituales — mantenga a su perro bajo control.',
+        },
+      },
+      {
+        name: 'Gamla Stan (Old Town)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: 'The medieval island at Stockholm\'s heart is navigable with a dog, especially in the morning before the tourist groups arrive. The cobblestone alleys (gränder) are narrow but the main square (Stortorget) and the waterfront paths are wide and welcoming to dogs.',
+          fr: 'L\'île médiévale au cœur de Stockholm est praticable avec un chien, surtout le matin avant l\'arrivée des groupes touristiques. Les ruelles pavées (gränder) sont étroites, mais la grande place (Stortorget) et les promenades en bord d\'eau sont larges et accueillantes pour les chiens.',
+          es: 'La isla medieval en el corazón de Estocolmo es transitable con un perro, especialmente por la mañana antes de que lleguen los grupos turísticos. Las callejuelas adoquinadas (gränder) son estrechas, pero la plaza principal (Stortorget) y los paseos fluviales son amplios y acogedores para los perros.',
+        },
+      },
+      {
+        name: 'Vasa Museum & Skansen',
+        emoji: '⛵',
+        petFriendly: false,
+        desc: {
+          en: 'Neither the Vasa Museum nor Skansen allows dogs inside. Skansen\'s outdoor areas allow dogs on lead in some sections — check the current rules on arrival. Both are worth a solo visit; plan dog time for Djurgården\'s forested southern paths meanwhile.',
+          fr: 'Ni le musée Vasa ni Skansen n\'acceptent les chiens à l\'intérieur. Les espaces extérieurs de Skansen permettent les chiens en laisse dans certaines sections — vérifiez les règles actuelles à l\'arrivée. Les deux valent une visite en solo ; prévoyez du temps pour les sentiers boisés du sud de Djurgården.',
+          es: 'Ni el Museo Vasa ni Skansen admiten perros dentro. Las áreas exteriores de Skansen permiten perros con correa en algunas secciones — compruebe las normas actuales a la llegada. Ambos merecen una visita en solitario; planifique tiempo para los senderos boscosos del sur de Djurgården.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'SL (Stockholm public transport): dogs in carriers travel free on all modes. Larger dogs need a muzzle and travel as a reduced-fare passenger. Dogs are not allowed on Arlanda Express.',
+        'Stockholm archipelago day trip: Waxholmsbolaget ferries allow dogs on all routes. The islands of Vaxholm, Sandhamn and Utö have excellent dog walks and dog-friendly guesthouses (värdshus).',
+        'Swedish wildlife warning: Djurgården and Ekoparken are home to moose (älg). These large animals can be aggressive if a dog gives chase — keep your dog on lead near dawn and dusk.',
+        'Winter: Stockholm averages −3°C in January with short daylight (6h). Dog boots (hundtassar) are widely sold in Swedish pet shops and are recommended for icy pavements and road-salt protection.',
+        'Swedish fika culture: most kafé and konditori (café-bakeries) in Stockholm welcome dogs. Södermalm has the highest concentration of dog-friendly independent cafés.',
+      ],
+      fr: [
+        'SL (transports publics de Stockholm) : les chiens en transport voyagent gratuitement sur tous les modes. Les grands chiens ont besoin d\'une muselière et voyagent en passager à tarif réduit. Les chiens ne sont pas admis dans l\'Arlanda Express.',
+        'Excursion dans l\'archipel de Stockholm : les ferries Waxholmsbolaget acceptent les chiens sur toutes les lignes. Les îles de Vaxholm, Sandhamn et Utö offrent d\'excellentes promenades canines et des maisons d\'hôtes (värdshus) dog-friendly.',
+        'Avertissement faune : Djurgården et Ekoparken abritent des élans (älg). Ces grands animaux peuvent être agressifs si un chien les poursuit — gardez votre chien en laisse près de l\'aube et du crépuscule.',
+        'Hiver : Stockholm connaît en moyenne −3°C en janvier avec peu de lumière du jour (6h). Les bottines pour chiens (hundtassar) sont largement vendues dans les animaleries suédoises et sont recommandées pour les trottoirs glacés et la protection contre le sel de voirie.',
+        'Culture fika suédoise : la plupart des kafé et konditori (cafés-pâtisseries) de Stockholm accueillent les chiens. Södermalm concentre le plus grand nombre de cafés indépendants dog-friendly.',
+      ],
+      es: [
+        'SL (transporte público de Estocolmo): los perros en transportín viajan gratis en todos los medios. Los perros grandes necesitan bozal y viajan como pasajero de tarifa reducida. Los perros no están permitidos en el Arlanda Express.',
+        'Excursión al archipiélago de Estocolmo: los ferrís de Waxholmsbolaget admiten perros en todas las rutas. Las islas de Vaxholm, Sandhamn y Utö tienen excelentes paseos caninos y casas de huéspedes (värdshus) dog-friendly.',
+        'Aviso de fauna: Djurgården y Ekoparken albergan alces (älg). Estos grandes animales pueden ser agresivos si un perro los persigue — mantenga a su perro con correa cerca del amanecer y el atardecer.',
+        'Invierno: Estocolmo tiene una media de −3°C en enero con poca luz solar (6h). Las botitas para perros (hundtassar) se venden ampliamente en las tiendas de mascotas suecas y son recomendables para aceras heladas y protección contra la sal de la calzada.',
+        'Cultura fika sueca: la mayoría de kafé y konditori (cafés-pastelerías) de Estocolmo admiten perros. Södermalm concentra la mayor cantidad de cafés independientes dog-friendly.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Evidensia Djursjukhuset Stockholm, Rasundavägen, Solna (+46 10 750 10 00) — 24-hour specialist animal hospital north of the city centre.',
+        'Getting there: Stockholm Arlanda Airport is 42km north. The Arlanda Express takes 18 minutes to Stockholm Central (dogs not allowed); airport buses (Flygbussarna) allow dogs in carriers.',
+        'From Norway: direct trains from Oslo to Stockholm (4h45, SJ Norge/SJ AB). Dogs in carriers or with muzzle and reduced fare ticket.',
+        'Best season: June–August for long daylight (up to 18h), outdoor swimming and archipelago trips. December–January for Christmas markets and snow walks — but prepare for cold and darkness.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Evidensia Djursjukhuset Stockholm, Rasundavägen, Solna (+46 10 750 10 00) — hôpital animalier spécialisé 24h/24 au nord du centre-ville.',
+        'Accès : l\'aéroport Stockholm Arlanda est à 42 km au nord. L\'Arlanda Express met 18 minutes jusqu\'à Stockholm Central (chiens non admis) ; les bus aéroport (Flygbussarna) acceptent les chiens en transport.',
+        'Depuis la Norvège : trains directs depuis Oslo vers Stockholm (4h45, SJ Norge/SJ AB). Chiens en transport ou avec muselière et billet à tarif réduit.',
+        'Meilleure saison : juin-août pour la longue durée du jour (jusqu\'à 18h), la baignade en plein air et les excursions dans l\'archipel. Décembre-janvier pour les marchés de Noël et les promenades dans la neige — mais prévoir le froid et l\'obscurité.',
+      ],
+      es: [
+        'Veterinario de urgencias: Evidensia Djursjukhuset Stockholm, Rasundavägen, Solna (+46 10 750 10 00) — hospital animal especializado 24h al norte del centro de la ciudad.',
+        'Cómo llegar: el aeropuerto de Estocolmo Arlanda está a 42 km al norte. El Arlanda Express tarda 18 minutos hasta la Estación Central de Estocolmo (perros no admitidos); los autobuses del aeropuerto (Flygbussarna) admiten perros en transportín.',
+        'Desde Noruega: trenes directos desde Oslo a Estocolmo (4h45, SJ Norge/SJ AB). Perros en transportín o con bozal y billete de tarifa reducida.',
+        'Mejor temporada: junio-agosto para los días largos (hasta 18h), el baño al aire libre y las excursiones al archipiélago. Diciembre-enero para los mercados navideños y los paseos en la nieve — pero prepare para el frío y la oscuridad.',
+      ],
+    },
+  },
+
 }
 
 export default cityContent

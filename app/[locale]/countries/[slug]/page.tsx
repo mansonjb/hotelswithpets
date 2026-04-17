@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { getAllCountries, slugToCountry } from '@/lib/countries'
 import hotels from '@/data/hotels.json'
+import categories from '@/data/categories.json'
 import { SITE_URL } from '@/lib/site'
 
 const countries = getAllCountries()
@@ -153,8 +154,47 @@ export default async function CountryPage({
           </div>
         </section>
 
+        {/* Popular guides for this country */}
+        {(() => {
+          const guideLinks: Array<{ href: string; label: string }> = []
+          country.destinations.slice(0, 4).forEach((dest) => {
+            const destCats = new Set(hotels.filter(h => h.destinationSlug === dest.slug).flatMap(h => h.categories))
+            const topCats = categories.filter(c => destCats.has(c.slug)).slice(0, 2)
+            topCats.forEach(cat => {
+              const catLabel = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+              const label = locale === 'fr'
+                ? `Hôtels ${catLabel.toLowerCase()} à ${dest.name}`
+                : locale === 'es'
+                ? `Hoteles ${catLabel.toLowerCase()} en ${dest.name}`
+                : `${catLabel} hotels in ${dest.name}`
+              guideLinks.push({ href: `/${locale}/${dest.slug}/${cat.slug}`, label })
+            })
+          })
+          if (guideLinks.length === 0) return null
+          return (
+            <section className="bg-white border-t border-gray-100 py-10">
+              <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h2 className="text-lg font-extrabold text-gray-900 mb-5">
+                  {locale === 'fr' ? `Guides populaires en ${countryName}` : locale === 'es' ? `Guías populares en ${countryName}` : `Popular guides in ${countryName}`}
+                </h2>
+                <div className="flex flex-wrap gap-2">
+                  {guideLinks.map((g) => (
+                    <Link
+                      key={g.href}
+                      href={g.href}
+                      className="text-sm text-blue-700 hover:text-blue-900 bg-blue-50 hover:bg-blue-100 border border-blue-100 rounded-full px-4 py-1.5 transition-colors"
+                    >
+                      {g.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            </section>
+          )
+        })()}
+
         {/* Breadcrumb back */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           <Link href={`/${locale}/destinations`} className="text-blue-600 hover:underline text-sm">
             ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : 'All destinations'}
           </Link>

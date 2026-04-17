@@ -12,6 +12,7 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { generateDestIntro, generateDestFaqs, destContextByLocale } from '@/lib/editorial'
+import cityContent from '@/lib/cityContent'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -351,6 +352,82 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   </div>
                 </div>
               )}
+            </div>
+          </section>
+        )
+      })()}
+
+      {/* ── Rich city content (history + sights + tips) ── */}
+      {cityContent[slug] && (() => {
+        const cc = cityContent[slug]
+        const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+        const historyTitle = locale === 'fr' ? `Amsterdam : histoire et caractère` : locale === 'es' ? `Ámsterdam: historia y carácter` : `${dest.name}: history & character`
+        const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : 'Key sights'
+        const petsTitle = locale === 'fr' ? 'Voyager avec son animal à Amsterdam' : locale === 'es' ? 'Viajar con mascota en Ámsterdam' : 'Travelling with a pet in Amsterdam'
+        const practicalTitle = locale === 'fr' ? 'Infos pratiques' : locale === 'es' ? 'Información práctica' : 'Practical info'
+        const petFriendlyLabel = locale === 'fr' ? 'Accès animaux' : locale === 'es' ? 'Acceso mascotas' : 'Pet-friendly'
+        const restrictedLabel = locale === 'fr' ? 'Animaux non admis' : locale === 'es' ? 'No mascotas' : 'Pets restricted'
+        return (
+          <section className="py-14 bg-white border-b border-gray-100">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+              {/* History */}
+              <div className="max-w-3xl mb-12">
+                <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{historyTitle}</h2>
+                <p className="text-gray-600 leading-relaxed text-[15px]">{cc.history[lang]}</p>
+              </div>
+
+              {/* Sights */}
+              <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{sightsTitle}</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
+                {cc.sights.map((sight) => (
+                  <div key={sight.name} className="bg-gray-50 rounded-2xl p-5 border border-gray-100">
+                    <div className="flex items-start gap-3 mb-2">
+                      <span className="text-2xl flex-shrink-0">{sight.emoji}</span>
+                      <div className="flex-1 min-w-0">
+                        <div className="flex items-center gap-2 flex-wrap mb-1">
+                          <h3 className="font-bold text-gray-900 text-sm">{sight.name}</h3>
+                          <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full ${sight.petFriendly ? 'bg-emerald-50 text-emerald-600 border border-emerald-100' : 'bg-amber-50 text-amber-600 border border-amber-100'}`}>
+                            {sight.petFriendly ? `✓ ${petFriendlyLabel}` : `⚠ ${restrictedLabel}`}
+                          </span>
+                        </div>
+                        <p className="text-xs text-gray-500 leading-relaxed">{sight.desc[lang]}</p>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              {/* Pet tips + Practical side by side */}
+              <div className="grid md:grid-cols-2 gap-8">
+                <div>
+                  <h2 className="text-lg font-extrabold text-gray-900 mb-4 flex items-center gap-2">
+                    <span>🐾</span> {petsTitle}
+                  </h2>
+                  <ul className="space-y-3">
+                    {cc.petTips[lang].map((tip, i) => (
+                      <li key={i} className="flex items-start gap-2.5 text-sm text-gray-600">
+                        <span className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-100 text-blue-600 text-[10px] font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
+                        {tip}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                <div>
+                  <h2 className="text-lg font-extrabold text-gray-900 mb-4 flex items-center gap-2">
+                    <span>ℹ️</span> {practicalTitle}
+                  </h2>
+                  <ul className="space-y-2">
+                    {cc.practicalInfo[lang].map((info, i) => (
+                      <li key={i} className="flex items-start gap-2.5 text-sm text-gray-600">
+                        <span className="text-gray-300 flex-shrink-0 mt-1">•</span>
+                        {info}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
             </div>
           </section>
         )

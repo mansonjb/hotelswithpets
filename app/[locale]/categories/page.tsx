@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import categories from '@/data/categories.json'
+import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
@@ -54,7 +55,9 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {categories.filter((cat) => cat.cityCount > 0).map((cat) => (
+            {categories.filter((cat) => cat.cityCount > 0).map((cat) => {
+              const hotelCount = hotels.filter((h) => h.categories.includes(cat.slug)).length
+              return (
               <Link
                 key={cat.slug}
                 href={`/${locale}/categories/${cat.slug}`}
@@ -69,7 +72,9 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
                   <h2 className="text-white font-bold text-xl leading-tight mb-1">
                     {getCategoryName(cat, locale as Locale)}
                   </h2>
-                  <p className="text-white/70 text-sm">{cat.cityCount} {p.destinations}</p>
+                  <p className="text-white/70 text-sm">
+                    {cat.cityCount} {p.destinations} · {hotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}
+                  </p>
                 </div>
                 <div className="relative mt-4">
                   <p className="text-white/80 text-sm leading-relaxed mb-4">{cat.description}</p>
@@ -78,7 +83,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
                   </span>
                 </div>
               </Link>
-            ))}
+            )})}
           </div>
         </div>
       </section>

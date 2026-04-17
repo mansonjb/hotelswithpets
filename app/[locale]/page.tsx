@@ -9,6 +9,7 @@ import DestinationsGrid from '@/components/home/DestinationsGrid'
 import FeaturedCombos from '@/components/home/FeaturedCombos'
 import PopularSearches from '@/components/home/PopularSearches'
 import PetTravelTips from '@/components/home/PetTravelTips'
+import TopHotels from '@/components/home/TopHotels'
 import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
@@ -90,6 +91,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       <Hero locale={locale as Locale} dict={dict} />
       <CategoryGrid locale={locale as Locale} dict={dict} />
       <HowItWorks dict={dict} />
+      <TopHotels locale={locale as Locale} />
       <DestinationsGrid locale={locale as Locale} dict={dict} />
       <FeaturedCombos locale={locale as Locale} dict={dict} />
       <PetTravelTips locale={locale as Locale} />

@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { buildAllezLink } from '@/lib/site'
+import { localizedPetPolicy } from '@/lib/petPolicy'
 
 interface Hotel {
   id: string
@@ -167,7 +168,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
               <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">{dict.petPolicy}</p>
               <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
             </div>
-            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale)}</p>
+            <p className="text-sm text-gray-700 leading-snug">{localizedPetPolicy(hotel, locale)}</p>
           </div>
 
           {/* Highlights */}

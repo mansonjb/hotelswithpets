@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { buildAllezLink } from '@/lib/site'
+import { localizedPetPolicy } from '@/lib/petPolicy'
 
 interface Hotel {
   id: string
@@ -87,7 +88,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
     : hotel.bookingUrl
 
   const isFree = hotel.petFee === 0
-  const policyText = sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale)
+  const policyText = localizedPetPolicy(hotel, locale)
 
   return (
     <article className="group bg-white rounded-3xl overflow-hidden border border-gray-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col">

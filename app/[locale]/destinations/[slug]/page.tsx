@@ -11,7 +11,7 @@ import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
-import { generateDestIntro, generateDestFaqs } from '@/lib/editorial'
+import { generateDestIntro, generateDestFaqs, destContextByLocale } from '@/lib/editorial'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -228,6 +228,82 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           </div>
         </div>
       </section>
+
+      {/* ── Editorial Snapshot ── */}
+      {(() => {
+        const ctx = destContextByLocale['en']?.[slug]
+        const avgRating = destHotels.length > 0
+          ? (destHotels.reduce((s, h) => s + h.rating, 0) / destHotels.length).toFixed(1)
+          : null
+        const freeCount = destHotels.filter(h => h.petFee === 0).length
+        const minPrice = destHotels.length > 0 ? Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean)) : null
+
+        const statsLabel = {
+          hotels:  locale === 'fr' ? 'hôtels pet-friendly' : locale === 'es' ? 'hoteles pet-friendly' : 'pet-friendly hotels',
+          rating:  locale === 'fr' ? 'note moyenne' : locale === 'es' ? 'nota media' : 'avg. rating',
+          free:    locale === 'fr' ? 'sans frais animaux' : locale === 'es' ? 'sin cargo mascotas' : 'with no pet fee',
+          from:    locale === 'fr' ? 'dès' : locale === 'es' ? 'desde' : 'from',
+          night:   locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night',
+          whyTitle: locale === 'fr' ? `Pourquoi ${dest.name} avec votre animal ?` : locale === 'es' ? `¿Por qué ${dest.name} con tu mascota?` : `Why ${dest.name} with your pet?`,
+          highlight: locale === 'fr' ? 'À ne pas manquer' : locale === 'es' ? 'No te pierdas' : 'Top spot',
+          area: locale === 'fr' ? 'Quartiers idéaux' : locale === 'es' ? 'Barrios ideales' : 'Best area',
+        }
+
+        return (
+          <section className="bg-white border-b border-gray-100 py-10">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              {/* Stats row */}
+              <div className="flex flex-wrap gap-3 mb-8">
+                {destHotels.length > 0 && (
+                  <div className="flex items-center gap-2 bg-blue-50 rounded-2xl px-5 py-3">
+                    <span className="text-2xl font-black text-blue-700">{destHotels.length}</span>
+                    <span className="text-sm text-blue-600">{statsLabel.hotels}</span>
+                  </div>
+                )}
+                {avgRating && (
+                  <div className="flex items-center gap-2 bg-amber-50 rounded-2xl px-5 py-3">
+                    <span className="text-2xl font-black text-amber-600">⭐ {avgRating}</span>
+                    <span className="text-sm text-amber-700">{statsLabel.rating}</span>
+                  </div>
+                )}
+                {freeCount > 0 && (
+                  <div className="flex items-center gap-2 bg-emerald-50 rounded-2xl px-5 py-3">
+                    <span className="text-2xl font-black text-emerald-700">{freeCount}</span>
+                    <span className="text-sm text-emerald-600">{statsLabel.free}</span>
+                  </div>
+                )}
+                {minPrice && (
+                  <div className="flex items-center gap-2 bg-gray-50 rounded-2xl px-5 py-3">
+                    <span className="text-2xl font-black text-gray-800">{statsLabel.from} €{minPrice}</span>
+                    <span className="text-sm text-gray-500">{statsLabel.night}</span>
+                  </div>
+                )}
+              </div>
+
+              {/* Editorial context */}
+              {ctx && (
+                <div className="grid md:grid-cols-3 gap-6">
+                  {/* Why this city */}
+                  <div className="md:col-span-1 bg-indigo-50 rounded-2xl p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-indigo-400 mb-2">{statsLabel.whyTitle}</p>
+                    <p className="text-gray-800 text-sm leading-relaxed">{dest.name} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : 'is'} {ctx.personality}.</p>
+                  </div>
+                  {/* Top spot */}
+                  <div className="bg-emerald-50 rounded-2xl p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-emerald-500 mb-2">📍 {statsLabel.highlight}</p>
+                    <p className="text-gray-800 text-sm leading-relaxed">{ctx.highlight}.</p>
+                  </div>
+                  {/* Best area */}
+                  <div className="bg-amber-50 rounded-2xl p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-amber-500 mb-2">🏘️ {statsLabel.area}</p>
+                    <p className="text-gray-800 text-sm leading-relaxed">{ctx.area}.</p>
+                  </div>
+                </div>
+              )}
+            </div>
+          </section>
+        )
+      })()}
 
       {/* City Guides. Prominent, right after hero */}
       {hasGuide && (

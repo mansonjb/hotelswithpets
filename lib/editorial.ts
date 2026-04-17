@@ -17,9 +17,9 @@ export interface Tip {
 
 // ─── Dest Context ────────────────────────────────────────────────────────────
 
-type DestCtx = { personality: string; highlight: string; area: string }
+export type DestCtx = { personality: string; highlight: string; area: string }
 
-const destContextByLocale: Record<string, Record<string, DestCtx>> = {
+export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
     amsterdam: {
       personality: 'one of Europe\'s most relaxed and pet-welcoming capitals',

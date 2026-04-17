@@ -103,10 +103,10 @@ export default function Header({ locale, dict }: HeaderProps) {
                   onMouseEnter={handleMouseEnter}
                   onMouseLeave={handleMouseLeave}
                 >
-                  <div className="flex">
+                  <div className="flex max-h-[70vh]">
 
                     {/* Left: Popular destinations */}
-                    <div className="flex-1 p-5 border-r border-gray-100">
+                    <div className="flex-1 p-5 border-r border-gray-100 overflow-y-auto">
                       <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
                         {locale === 'fr' ? 'Destinations populaires' : locale === 'es' ? 'Destinos populares' : 'Popular destinations'}
                       </p>
@@ -133,7 +133,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                     </div>
 
                     {/* Right: Browse by country */}
-                    <div className="w-52 p-5 bg-gray-50/60">
+                    <div className="w-52 p-5 bg-gray-50/60 overflow-y-auto">
                       <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
                         {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : 'By country'}
                       </p>

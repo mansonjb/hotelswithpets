@@ -1,6 +1,14 @@
 import Link from 'next/link'
 import destinations from '@/data/destinations.json'
+import hotels from '@/data/hotels.json'
 import type { Locale } from '@/app/[locale]/dictionaries'
+
+function getMinPrice(destSlug: string): number | null {
+  const prices = hotels
+    .filter((h) => h.destinationSlug === destSlug && h.priceFrom > 0)
+    .map((h) => h.priceFrom)
+  return prices.length > 0 ? Math.min(...prices) : null
+}
 
 interface DestinationsGridProps {
   locale: Locale
@@ -49,7 +57,10 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             <div className="relative">
               <span className="text-5xl mb-3 block">{hero.flag}</span>
               <h3 className="text-white font-extrabold text-2xl mb-1">{hero.name}</h3>
-              <p className="text-white/70 text-sm mb-1">{hero.country} · {hero.categoryCount} categories</p>
+              <p className="text-white/70 text-sm mb-1">
+                {hero.country} · {hero.categoryCount} categories
+                {getMinPrice(hero.slug) ? ` · from €${getMinPrice(hero.slug)}/night` : ''}
+              </p>
               <p className="text-white/60 text-sm leading-relaxed mb-4 line-clamp-2">{hero.intro}</p>
               <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
                 {d.cta} →

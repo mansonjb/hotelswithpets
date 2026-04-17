@@ -151,6 +151,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{dest.name}</h1>
               <p className="text-blue-300 text-lg">{dest.country}</p>
               <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
+              {/* Price + hotel count stats */}
+              {destHotels.length > 0 && (
+                <div className="flex flex-wrap items-center gap-4 mt-4">
+                  <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
+                    🏨 {destHotels.length} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}
+                  </span>
+                  <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
+                    💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}/night
+                  </span>
+                </div>
+              )}
             </div>
           </div>
         </div>

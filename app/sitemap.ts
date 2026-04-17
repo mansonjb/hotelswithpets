@@ -115,5 +115,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
+  // Individual hotel pages — long-tail SEO (brand + "pet friendly" searches)
+  for (const hotel of hotels) {
+    if (!hotel.slug) continue
+    for (const locale of LOCALES) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/hotels/${hotel.slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly',
+        priority: 0.7,
+      })
+    }
+  }
+
   return entries
 }

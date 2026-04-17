@@ -97,6 +97,11 @@ export default function Footer({ locale, dict }: FooterProps) {
               { name: 'Switzerland', slug: 'switzerland', flag: '🇨🇭' },
               { name: 'Denmark', slug: 'denmark', flag: '🇩🇰' },
               { name: 'Sweden', slug: 'sweden', flag: '🇸🇪' },
+              { name: 'Norway', slug: 'norway', flag: '🇳🇴' },
+              { name: 'Finland', slug: 'finland', flag: '🇫🇮' },
+              { name: 'Poland', slug: 'poland', flag: '🇵🇱' },
+              { name: 'Greece', slug: 'greece', flag: '🇬🇷' },
+              { name: 'Croatia', slug: 'croatia', flag: '🇭🇷' },
             ].map((c) => (
               <Link
                 key={c.slug}
@@ -123,8 +128,12 @@ export default function Footer({ locale, dict }: FooterProps) {
               { en: 'Beach hotels Biarritz', fr: 'Hôtels plage Biarritz', es: 'Hoteles playa Biarritz', href: 'biarritz/beach-access' },
               { en: 'Dog-friendly hotels Berlin', fr: 'Hôtels chiens Berlin', es: 'Hoteles perros Berlín', href: 'berlin/dog-friendly' },
               { en: 'Dog-friendly hotels Rome', fr: 'Hôtels chiens Rome', es: 'Hoteles perros Roma', href: 'rome/dog-friendly' },
-              { en: 'No pet fee hotels', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', href: 'amsterdam/dogs-stay-free' },
+              { en: 'No pet fee hotels Amsterdam', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', href: 'amsterdam/dogs-stay-free' },
               { en: 'Beach hotels Malaga', fr: 'Hôtels plage Malaga', es: 'Hoteles playa Málaga', href: 'malaga/beach-access' },
+              { en: 'Luxury hotels Milan', fr: 'Hôtels luxe Milan', es: 'Hoteles lujo Milán', href: 'milan/luxury' },
+              { en: 'Dog-friendly hotels Oslo', fr: 'Hôtels chiens Oslo', es: 'Hoteles perros Oslo', href: 'oslo/dog-friendly' },
+              { en: 'Beach hotels Split', fr: 'Hôtels plage Split', es: 'Hoteles playa Split', href: 'split/beach-access' },
+              { en: 'Luxury hotels Brussels', fr: 'Hôtels luxe Bruxelles', es: 'Hoteles lujo Bruselas', href: 'brussels/luxury' },
             ].map((g) => (
               <Link
                 key={g.href}

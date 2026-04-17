@@ -48,7 +48,7 @@ const content: Record<string, {
     subtitle: 'We help pet owners travel Europe with confidence — finding hotels that truly welcome animals.',
     mission: {
       title: 'Our Mission',
-      text: 'Travelling with a pet shouldn\'t mean spending hours cross-checking hotel policies, calling ahead to confirm fees, or worrying whether your dog will actually be welcome. HotelsWithPets.com curates the best pet-friendly hotels across 34 European destinations so you can spend more time planning the adventure and less time on logistics.',
+      text: 'Travelling with a pet shouldn\'t mean spending hours cross-checking hotel policies, calling ahead to confirm fees, or worrying whether your dog will actually be welcome. HotelsWithPets.com curates the best pet-friendly hotels across 43 European destinations so you can spend more time planning the adventure and less time on logistics.',
     },
     how: {
       title: 'How We Select Hotels',
@@ -73,7 +73,7 @@ const content: Record<string, {
     subtitle: 'Nous aidons les propriétaires d\'animaux à voyager en Europe en toute confiance — en trouvant des hôtels qui accueillent vraiment les animaux.',
     mission: {
       title: 'Notre Mission',
-      text: 'Voyager avec un animal de compagnie ne devrait pas signifier passer des heures à vérifier les politiques d\'hôtels, appeler pour confirmer les frais ou s\'inquiéter de l\'accueil réservé à votre chien. HotelsWithPets.com sélectionne les meilleurs hôtels acceptant les animaux dans 34 destinations européennes.',
+      text: 'Voyager avec un animal de compagnie ne devrait pas signifier passer des heures à vérifier les politiques d\'hôtels, appeler pour confirmer les frais ou s\'inquiéter de l\'accueil réservé à votre chien. HotelsWithPets.com sélectionne les meilleurs hôtels acceptant les animaux dans 43 destinations européennes.',
     },
     how: {
       title: 'Comment Nous Sélectionnons les Hôtels',
@@ -98,7 +98,7 @@ const content: Record<string, {
     subtitle: 'Ayudamos a los dueños de mascotas a viajar por Europa con confianza — encontrando hoteles que realmente dan la bienvenida a los animales.',
     mission: {
       title: 'Nuestra Misión',
-      text: 'Viajar con una mascota no debería significar pasar horas verificando políticas de hoteles o preocuparse por si tu perro será realmente bienvenido. HotelsWithPets.com selecciona los mejores hoteles que admiten mascotas en 34 destinos europeos.',
+      text: 'Viajar con una mascota no debería significar pasar horas verificando políticas de hoteles o preocuparse por si tu perro será realmente bienvenido. HotelsWithPets.com selecciona los mejores hoteles que admiten mascotas en 43 destinos europeos.',
     },
     how: {
       title: 'Cómo Seleccionamos los Hoteles',
@@ -169,13 +169,13 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           <section className="bg-blue-600 rounded-3xl p-8 text-white">
             <div className="grid grid-cols-3 gap-6 text-center">
               <div>
-                <p className="text-4xl font-black">34</p>
+                <p className="text-4xl font-black">43</p>
                 <p className="text-blue-200 text-sm mt-1">
                   {locale === 'fr' ? 'Destinations' : locale === 'es' ? 'Destinos' : 'Destinations'}
                 </p>
               </div>
               <div>
-                <p className="text-4xl font-black">270+</p>
+                <p className="text-4xl font-black">340+</p>
                 <p className="text-blue-200 text-sm mt-1">
                   {locale === 'fr' ? 'Hôtels vérifiés' : locale === 'es' ? 'Hoteles verificados' : 'Verified hotels'}
                 </p>

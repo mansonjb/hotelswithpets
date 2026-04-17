@@ -29,7 +29,8 @@ export async function generateMetadata({
   if (!dest) return {}
 
   const title = `${hotel.name} — Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`
-  const description = `${hotel.name} in ${dest.name}: pet policy — ${hotel.petPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`
+  const cleanPetPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
+  const description = `${hotel.name} in ${dest.name}: pet policy — ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`
 
   return {
     title,
@@ -51,13 +52,26 @@ export async function generateMetadata({
   }
 }
 
-function sanitizePetPolicy(raw: string): string {
-  if (!raw || raw.trim().length === 0) return 'Pets welcome. Please confirm specific policy at booking.'
-  if (raw.length > 180) return 'Pets welcome. Please confirm specific policy at booking.'
-  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return 'Pets welcome. Please confirm specific policy at booking.'
-  if (/charged|subject to availability|may vary|see policies/i.test(raw) && raw.length > 100)
-    return 'Pets welcome. Please confirm specific policy at booking.'
-  return raw
+function sanitizePetPolicy(raw: string, petFee?: number): string {
+  const fallback = (): string => {
+    if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
+    if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
+    return 'Pets are welcome. Please confirm specific pet policy when booking.'
+  }
+
+  if (!raw || raw.trim().length === 0) return fallback()
+  // Contains HTML tags or suspicious chars
+  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return fallback()
+  // Address-like strings: contain digits followed by street keywords
+  if (/\d+.*\b(avenue|ave|rue|street|st\.|boulevard|blvd|road|rd\.)\b/i.test(raw)) return fallback()
+  // Review/UI snippet indicators
+  if (/rated|reviews|real guests|real stays|show map|sustainability certification|beachfront/i.test(raw)) return fallback()
+  // Must contain at least one pet-related keyword
+  const hasPetKeyword = /\b(pet|dog|cat|animal|charge|fee|welcome|allowed|accepted)\b/i.test(raw)
+  if (!hasPetKeyword) return fallback()
+  // Truncate to max 200 chars
+  const trimmed = raw.trim()
+  return trimmed.length > 200 ? trimmed.slice(0, 197) + '…' : trimmed
 }
 
 const ratingLabel = (r: number) => {
@@ -213,7 +227,7 @@ export default async function HotelPage({
                   <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">Pet Policy</p>
                   <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
                 </div>
-                <p className="text-gray-700 text-sm leading-relaxed">{sanitizePetPolicy(hotel.petPolicy)}</p>
+                <p className="text-gray-700 text-sm leading-relaxed">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee)}</p>
               </div>
 
               {/* Highlights */}

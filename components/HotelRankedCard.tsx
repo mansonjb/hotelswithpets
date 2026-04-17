@@ -50,19 +50,29 @@ const ratingLabel = (r: number) => {
 const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
 
 /**
- * Scraper sometimes returns garbage policy text (very long, HTML fragments, or
- * repeated filler phrases). Detect and replace with a clean generic fallback.
+ * Scraper sometimes returns garbage policy text (addresses, UI labels, review snippets).
+ * Requires pet-related keywords; falls back to a smart default based on petFee.
  */
-function sanitizePetPolicy(raw: string): string {
-  if (!raw || raw.trim().length === 0) return 'Pets welcome. Please confirm specific policy at booking.'
-  // Too long = scraped boilerplate
-  if (raw.length > 180) return 'Pets welcome. Please confirm specific policy at booking.'
+function sanitizePetPolicy(raw: string, petFee?: number): string {
+  const fallback = (): string => {
+    if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
+    if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
+    return 'Pets are welcome. Please confirm specific pet policy when booking.'
+  }
+
+  if (!raw || raw.trim().length === 0) return fallback()
   // Contains HTML tags or suspicious chars
-  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return 'Pets welcome. Please confirm specific policy at booking.'
-  // Generic Booking.com filler
-  if (/charged|subject to availability|may vary|see policies/i.test(raw) && raw.length > 100)
-    return 'Pets welcome. Please confirm specific policy at booking.'
-  return raw
+  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return fallback()
+  // Address-like strings: contain digits followed by street keywords
+  if (/\d+.*\b(avenue|ave|rue|street|st\.|boulevard|blvd|road|rd\.)\b/i.test(raw)) return fallback()
+  // Review/UI snippet indicators
+  if (/rated|reviews|real guests|real stays|show map|sustainability certification|beachfront/i.test(raw)) return fallback()
+  // Must contain at least one pet-related keyword
+  const hasPetKeyword = /\b(pet|dog|cat|animal|charge|fee|welcome|allowed|accepted)\b/i.test(raw)
+  if (!hasPetKeyword) return fallback()
+  // Truncate to max 200 chars
+  const trimmed = raw.trim()
+  return trimmed.length > 200 ? trimmed.slice(0, 197) + '…' : trimmed
 }
 
 export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale }: HotelRankedCardProps) {
@@ -133,7 +143,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
               <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">{dict.petPolicy}</p>
               <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
             </div>
-            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy)}</p>
+            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee)}</p>
           </div>
 
           {/* Highlights */}

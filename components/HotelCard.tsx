@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 interface Hotel {
   id: string
   name: string
@@ -49,8 +51,26 @@ const ratingLabel = (r: number) => {
 export default function HotelCard({ hotel, dict }: HotelCardProps) {
   return (
     <div className="group bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
-      {/* Colour header bar */}
-      <div className="h-2 bg-gradient-to-r from-blue-500 to-indigo-600" />
+      {/* Hotel image */}
+      <div className="relative h-44 overflow-hidden flex-shrink-0">
+        <Image
+          src={`/images/hotels/${hotel.id}.jpg`}
+          alt={hotel.name}
+          fill
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          className="object-cover group-hover:scale-105 transition-transform duration-500"
+        />
+        {/* Pet fee overlay badge */}
+        <div className="absolute top-2 right-2">
+          <span className={`px-2.5 py-1 rounded-full text-xs font-bold shadow ${
+            hotel.petFee === 0
+              ? 'bg-green-500 text-white'
+              : 'bg-amber-400 text-gray-900'
+          }`}>
+            {hotel.petFee === 0 ? `✓ ${dict.free}` : `${dict.petFee}: €${hotel.petFee}`}
+          </span>
+        </div>
+      </div>
 
       <div className="p-6 flex flex-col flex-1">
         {/* Name + Stars */}
@@ -106,11 +126,6 @@ export default function HotelCard({ hotel, dict }: HotelCardProps) {
             <p className="text-2xl font-black text-gray-900">
               {hotel.currency === 'EUR' ? '€' : hotel.currency}{hotel.priceFrom}
               <span className="text-sm font-normal text-gray-400 ml-1">{dict.perNight}</span>
-            </p>
-            <p className={`text-xs mt-0.5 font-medium ${hotel.petFee === 0 ? 'text-green-600' : 'text-amber-600'}`}>
-              {hotel.petFee === 0
-                ? `✓ ${dict.free}`
-                : `${dict.petFee}: €${hotel.petFee}`}
             </p>
           </div>
           <a

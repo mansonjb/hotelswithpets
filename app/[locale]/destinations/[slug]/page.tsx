@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
@@ -9,6 +10,10 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { generateDestIntro, generateDestFaqs } from '@/lib/editorial'
+
+type DestWithWeather = typeof destinations[number] & {
+  weather?: Record<string, { temp: number; desc: string; icon: string }>
+}
 
 export async function generateStaticParams() {
   return destinations.map((d) => ({ slug: d.slug }))
@@ -157,6 +162,19 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
+        {/* City landmark photo background */}
+        {dest.heroImage && (
+          <div className="absolute inset-0 overflow-hidden">
+            <Image
+              src={dest.heroImage}
+              alt={dest.name}
+              fill
+              sizes="100vw"
+              className="object-cover opacity-20"
+              priority
+            />
+          </div>
+        )}
         <div className="absolute top-0 right-0 w-80 h-80 text-[12rem] opacity-5 select-none flex items-center justify-center">
           {dest.flag}
         </div>

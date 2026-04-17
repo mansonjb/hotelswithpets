@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
@@ -133,6 +134,15 @@ export default async function CountryPage({
                     href={`/${locale}/destinations/${dest.slug}`}
                     className={`group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[i % gradients.length]} p-8 min-h-[200px] flex flex-col justify-end shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
                   >
+                    {dest.heroImage && (
+                      <Image
+                        src={dest.heroImage}
+                        alt={dest.name}
+                        fill
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+                      />
+                    )}
                     <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />
                     <div className="absolute top-6 right-6 text-7xl opacity-20 group-hover:opacity-35 transition-opacity select-none">
                       {dest.flag}

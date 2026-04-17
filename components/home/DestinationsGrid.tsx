@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import type { Locale } from '@/app/[locale]/dictionaries'
@@ -50,6 +51,15 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             href={`/${locale}/destinations/${hero.slug}`}
             className={`col-span-2 row-span-2 group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[0]} flex flex-col justify-end p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
           >
+            {hero.heroImage && (
+              <Image
+                src={hero.heroImage}
+                alt={hero.name}
+                fill
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+              />
+            )}
             <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors" />
             <div className="absolute top-6 right-6 text-6xl opacity-30 group-hover:opacity-50 transition-opacity select-none">
               {hero.flag}
@@ -75,6 +85,15 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
               href={`/${locale}/destinations/${dest.slug}`}
               className={`col-span-1 lg:col-span-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[i + 1]} flex flex-col justify-end p-5 shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1`}
             >
+              {dest.heroImage && (
+                <Image
+                  src={dest.heroImage}
+                  alt={dest.name}
+                  fill
+                  sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                  className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+                />
+              )}
               <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />
               <div className="absolute top-3 right-4 text-4xl opacity-25 select-none">{dest.flag}</div>
               <div className="relative">
@@ -92,6 +111,15 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
               href={`/${locale}/destinations/${dest.slug}`}
               className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[(i + 3) % gradients.length]} flex flex-col justify-end p-4 shadow-sm hover:shadow-lg transition-all duration-200 hover:-translate-y-0.5`}
             >
+              {dest.heroImage && (
+                <Image
+                  src={dest.heroImage}
+                  alt={dest.name}
+                  fill
+                  sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 16vw"
+                  className="object-cover opacity-40 group-hover:opacity-50 transition-opacity duration-300"
+                />
+              )}
               <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />
               <div className="absolute top-2 right-3 text-3xl opacity-20 select-none">{dest.flag}</div>
               <div className="relative">

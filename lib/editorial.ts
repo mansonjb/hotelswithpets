@@ -192,6 +192,51 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
       area: 'Kalamaja, Telliskivi, and the Old Town',
     },
+    milan: {
+      personality: 'Italy\'s design capital, where a growing number of luxury and boutique hotels now warmly welcome pets',
+      highlight: 'Parco Sempione, the Navigli canal district, and the spacious Villa Reale gardens',
+      area: 'Brera, Navigli, and the Porta Venezia design district',
+    },
+    warsaw: {
+      personality: 'a rapidly modernising European capital where pet-friendly hotels are increasingly the norm and riverside parks offer excellent walking',
+      highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
+      area: 'Śródmieście, Praga, and the Powiśle riverside district',
+    },
+    krakow: {
+      personality: 'a historic Polish city where the ring of Planty gardens encircling the old town makes it one of Central Europe\'s most walkable destinations for dogs',
+      highlight: 'the Planty park ring, the Błonia meadows, and the Vistula riverside paths',
+      area: 'the Old Town, Kazimierz, and Podgórze',
+    },
+    brussels: {
+      personality: 'an underrated pet travel destination with spacious parks, a compact and walkable centre, and a hospitality culture that genuinely welcomes animals',
+      highlight: 'the Bois de la Cambre, the Parc du Cinquantenaire, and the Forêt de Soignes',
+      area: 'Ixelles, Saint-Gilles, and the European Quarter',
+    },
+    athens: {
+      personality: 'a sun-drenched Mediterranean capital that surprises pet travellers with its walkable neighbourhoods and a growing boutique hotel scene that welcomes dogs year-round',
+      highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
+      area: 'Koukaki, Monastiraki, and Pangrati',
+    },
+    split: {
+      personality: 'a relaxed Croatian coastal city where the Adriatic waterfront, ancient Diocletian\'s Palace, and a laid-back local culture make it a standout destination for pet owners',
+      highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
+      area: 'Meje, the Old Town surroundings, and the Manuš neighbourhood',
+    },
+    oslo: {
+      personality: 'a Scandinavian capital where the proximity of fjords, forests, and the vast Oslomarka trail network makes it one of the continent\'s best destinations for active dog owners',
+      highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
+      area: 'Frogner, Grünerløkka, and Tjuvholmen',
+    },
+    helsinki: {
+      personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
+      highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
+      area: 'Kallio, Töölö, and the Design District',
+    },
+    salzburg: {
+      personality: 'a compact Alpine city where Mozart-era architecture, rolling meadows, and the surrounding Salzkammergut mountains create a magical backdrop for pet travel',
+      highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
+      area: 'the Old Town (Altstadt), Schallmoos, and Mülln',
+    },
   },
   fr: {
     amsterdam: {
@@ -364,6 +409,51 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
       area: 'Kalamaja, Telliskivi et la Vieille Ville',
     },
+    milan: {
+      personality: 'la capitale italienne du design, où un nombre croissant d\'hôtels de luxe et boutiques accueillent chaleureusement les animaux',
+      highlight: 'le Parco Sempione, le quartier des canaux Navigli et les spacieux jardins de la Villa Reale',
+      area: 'Brera, les Navigli et le quartier du design de la Porta Venezia',
+    },
+    warsaw: {
+      personality: 'une capitale européenne en pleine modernisation où les hôtels pet-friendly sont de plus en plus la norme et les parcs riverains offrent d\'excellentes promenades',
+      highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
+      area: 'Śródmieście, Praga et le quartier riverain de Powiśle',
+    },
+    krakow: {
+      personality: 'une ville historique polonaise dont la ceinture de jardins Planty entourant la vieille ville en fait l\'une des destinations les plus praticables d\'Europe centrale pour les chiens',
+      highlight: 'l\'anneau du parc Planty, les prairies de Błonia et les chemins riverains de la Vistule',
+      area: 'la Vieille Ville, Kazimierz et Podgórze',
+    },
+    brussels: {
+      personality: 'une destination méconnue pour les voyageurs avec animaux, avec de grands parcs, un centre compact et praticable et une culture hôtelière qui accueille vraiment les animaux',
+      highlight: 'le Bois de la Cambre, le Parc du Cinquantenaire et la Forêt de Soignes',
+      area: 'Ixelles, Saint-Gilles et le Quartier Européen',
+    },
+    athens: {
+      personality: 'une capitale méditerranéenne ensoleillée qui surprend les voyageurs avec animaux par ses quartiers praticables et une scène hôtelière boutique accueillant les chiens toute l\'année',
+      highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
+      area: 'Koukaki, Monastiraki et Pangrati',
+    },
+    split: {
+      personality: 'une ville côtière croate décontractée où le front de mer adriatique, l\'ancien Palais de Dioclétien et une culture locale relax en font une destination remarquable pour les propriétaires d\'animaux',
+      highlight: 'le parc forestier de la colline Marjan, la zone chiens de la plage de Bačvice et le sentier côtier vers Stobreč',
+      area: 'Meje, les environs de la Vieille Ville et le quartier de Manuš',
+    },
+    oslo: {
+      personality: 'une capitale scandinave où la proximité des fjords, des forêts et du vaste réseau de sentiers de l\'Oslomarka en fait l\'une des meilleures destinations du continent pour les propriétaires de chiens actifs',
+      highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
+      area: 'Frogner, Grünerløkka et Tjuvholmen',
+    },
+    helsinki: {
+      personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
+      highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
+      area: 'Kallio, Töölö et le Quartier du Design',
+    },
+    salzburg: {
+      personality: 'une ville alpine compacte où l\'architecture de l\'époque Mozart, les prairies vallonnées et les montagnes du Salzkammergut environnantes créent un cadre magique pour les voyages avec animaux',
+      highlight: 'le parc de Hellbrunn, le chemin riverain de la Salzach et les sentiers de la colline du Kapuzinerberg',
+      area: 'la Vieille Ville (Altstadt), Schallmoos et Mülln',
+    },
   },
   es: {
     amsterdam: {
@@ -535,6 +625,51 @@ const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas — los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',
       highlight: 'el Parque Kadriorg, el sendero costero de Pirita y los paseos por la turbera de Pääsküla',
       area: 'Kalamaja, Telliskivi y el Casco Antiguo',
+    },
+    milan: {
+      personality: 'la capital del diseño de Italia, donde un número creciente de hoteles de lujo y boutique acogen cálidamente a las mascotas',
+      highlight: 'el Parco Sempione, el distrito de los canales Navigli y los espaciosos jardines de la Villa Reale',
+      area: 'Brera, los Navigli y el barrio de diseño de la Porta Venezia',
+    },
+    warsaw: {
+      personality: 'una capital europea en rápida modernización donde los hoteles pet-friendly son cada vez más la norma y los parques ribereños ofrecen excelentes paseos',
+      highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
+      area: 'Śródmieście, Praga y el barrio ribereño de Powiśle',
+    },
+    krakow: {
+      personality: 'una ciudad histórica polaca donde el anillo de jardines Planty que rodea el casco antiguo la convierte en uno de los destinos más transitables de Europa Central para los perros',
+      highlight: 'el anillo del parque Planty, los prados de Błonia y los senderos ribereños del Vístula',
+      area: 'el Casco Antiguo, Kazimierz y Podgórze',
+    },
+    brussels: {
+      personality: 'un destino de viaje con mascotas subestimado, con amplios parques, un centro compacto y transitable y una cultura hotelera que da una auténtica bienvenida a los animales',
+      highlight: 'el Bosque de la Cambre, el Parque del Cincuentenario y el Bosque de Soignes',
+      area: 'Ixelles, Saint-Gilles y el Barrio Europeo',
+    },
+    athens: {
+      personality: 'una capital mediterránea bañada por el sol que sorprende a los viajeros con mascotas con sus barrios transitables y una creciente escena de hoteles boutique que acogen perros todo el año',
+      highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
+      area: 'Koukaki, Monastiraki y Pangrati',
+    },
+    split: {
+      personality: 'una relajada ciudad costera croata donde el paseo marítimo adriático, el antiguo Palacio de Diocleciano y una actitud local distendida la convierten en un destino destacado para los dueños de mascotas',
+      highlight: 'el parque forestal de la colina Marjan, la zona para perros de la playa de Bačvice y el sendero costero hacia Stobreč',
+      area: 'Meje, los alrededores del Casco Antiguo y el barrio de Manuš',
+    },
+    oslo: {
+      personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',
+      highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
+      area: 'Frogner, Grünerløkka y Tjuvholmen',
+    },
+    helsinki: {
+      personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',
+      highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
+      area: 'Kallio, Töölö y el Barrio del Diseño',
+    },
+    salzburg: {
+      personality: 'una compacta ciudad alpina donde la arquitectura de la época de Mozart, los prados ondulados y las montañas del Salzkammergut circundante crean un escenario mágico para viajar con mascotas',
+      highlight: 'el parque de Hellbrunn, el sendero ribereño del Salzach y los senderos de la colina del Kapuzinerberg',
+      area: 'el Casco Antiguo (Altstadt), Schallmoos y Mülln',
     },
   },
 }

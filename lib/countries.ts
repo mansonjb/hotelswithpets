@@ -28,6 +28,10 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Slovenia: '🇸🇮',
   Latvia: '🇱🇻',
   Estonia: '🇪🇪',
+  Poland: '🇵🇱',
+  Greece: '🇬🇷',
+  Norway: '🇳🇴',
+  Finland: '🇫🇮',
 }
 
 export function countryToSlug(name: string): string {

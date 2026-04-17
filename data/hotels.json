@@ -6894,5 +6894,1902 @@
       "Spa and wellness centre"
     ],
     "slug": "hilton-tallinn-park"
+  },
+  {
+    "id": "milan-1",
+    "name": "Hotel Magna Prati",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1798,
+    "priceFrom": 274,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotel-magna-prati.html",
+    "petFee": 25,
+    "petPolicy": "Dogs up to 20 kg welcome; pet bed provided on request.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Fitness centre",
+      "Concierge service"
+    ],
+    "slug": "hotel-magna-prati"
+  },
+  {
+    "id": "milan-2",
+    "name": "Yard Hotel Milan",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2006,
+    "priceFrom": 273,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/yard-hotel-milan.html",
+    "petFee": 31,
+    "petPolicy": "Pets of all sizes accepted; dog-sitting available.",
+    "highlights": [
+      "Free WiFi",
+      "Garden terrace",
+      "Pet-friendly rooms",
+      "Bike rental"
+    ],
+    "slug": "yard-hotel-milan"
+  },
+  {
+    "id": "milan-3",
+    "name": "The Westin Palace Milan",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1296,
+    "priceFrom": 335,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/the-westin-palace-milan.html",
+    "petFee": 30,
+    "petPolicy": "Small pets welcome; pet amenity kit on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Spa and wellness",
+      "Fine dining restaurant",
+      "Business centre"
+    ],
+    "slug": "the-westin-palace-milan"
+  },
+  {
+    "id": "milan-4",
+    "name": "Armani Hotel Milano",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 4893,
+    "priceFrom": 418,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/armani-hotel-milano.html",
+    "petFee": 11,
+    "petPolicy": "Dogs and cats accepted; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Luxury amenities",
+      "Personal shopper service",
+      "Bar"
+    ],
+    "slug": "armani-hotel-milano"
+  },
+  {
+    "id": "milan-5",
+    "name": "Bulgari Hotel Milan",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 4595,
+    "priceFrom": 353,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bulgari-hotel-milan.html",
+    "petFee": 0,
+    "petPolicy": "Well-behaved pets welcome; grooming referrals available.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Pool",
+      "Michelin-starred restaurant"
+    ],
+    "slug": "bulgari-hotel-milan"
+  },
+  {
+    "id": "milan-6",
+    "name": "Hotel Berna",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1517,
+    "priceFrom": 87,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotel-berna.html",
+    "petFee": 0,
+    "petPolicy": "Pets up to 15 kg; welcome treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Concierge",
+      "Laundry service"
+    ],
+    "slug": "hotel-berna"
+  },
+  {
+    "id": "milan-7",
+    "name": "Starhotels E.c.ho.",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 661,
+    "priceFrom": 153,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/starhotels-echo.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome in all room types; pet fee applies.",
+    "highlights": [
+      "Free WiFi",
+      "Modern design",
+      "Restaurant",
+      "Meeting rooms"
+    ],
+    "slug": "starhotels-echo"
+  },
+  {
+    "id": "milan-8",
+    "name": "Nhow Milano",
+    "destinationSlug": "milan",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1829,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nhow-milano.html",
+    "petFee": 11,
+    "petPolicy": "Pets accepted; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Music lounge",
+      "Fitness centre"
+    ],
+    "slug": "nhow-milano"
+  },
+  {
+    "id": "warsaw-1",
+    "name": "Raffles Europejski Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2589,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/raffles-europejski-warsaw.html",
+    "petFee": 30,
+    "petPolicy": "Dogs up to 25 kg welcome; riverside walking routes advised by concierge.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Fine dining",
+      "Historic building"
+    ],
+    "slug": "raffles-europejski-warsaw"
+  },
+  {
+    "id": "warsaw-2",
+    "name": "Hotel Bristol Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 3438,
+    "priceFrom": 440,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-bristol-warsaw.html",
+    "petFee": 27,
+    "petPolicy": "Pets accepted; welcome snack pack on check-in.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar",
+      "Historic landmark"
+    ],
+    "slug": "hotel-bristol-warsaw"
+  },
+  {
+    "id": "warsaw-3",
+    "name": "Marriott Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1380,
+    "priceFrom": 244,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/marriott-warsaw.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome in all rooms.",
+    "highlights": [
+      "Free WiFi",
+      "Pool",
+      "Fitness centre",
+      "Multiple restaurants"
+    ],
+    "slug": "marriott-warsaw"
+  },
+  {
+    "id": "warsaw-4",
+    "name": "Novotel Centrum Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 3968,
+    "priceFrom": 82,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/novotel-centrum-warsaw.html",
+    "petFee": 32,
+    "petPolicy": "Small and medium dogs accepted; extra cleaning fee applies.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Restaurant",
+      "City centre location"
+    ],
+    "slug": "novotel-centrum-warsaw"
+  },
+  {
+    "id": "warsaw-5",
+    "name": "Hotel Indigo Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4840,
+    "priceFrom": 289,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-indigo-warsaw.html",
+    "petFee": 33,
+    "petPolicy": "Pets welcome; dog-friendly restaurant guide provided.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique design",
+      "Restaurant",
+      "Concierge"
+    ],
+    "slug": "hotel-indigo-warsaw"
+  },
+  {
+    "id": "warsaw-6",
+    "name": "Andel's by Vienna House Warsaw",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 634,
+    "priceFrom": 268,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/andels-by-vienna-house-warsaw.html",
+    "petFee": 17,
+    "petPolicy": "All pets accepted with advance notice.",
+    "highlights": [
+      "Free WiFi",
+      "Modern rooms",
+      "Bar",
+      "Meeting facilities"
+    ],
+    "slug": "andels-by-vienna-house-warsaw"
+  },
+  {
+    "id": "warsaw-7",
+    "name": "Le Méridien Bristol",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 4880,
+    "priceFrom": 481,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/le-meridien-bristol.html",
+    "petFee": 25,
+    "petPolicy": "Dogs up to 20 kg; pet bed available on request.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant",
+      "Fitness centre"
+    ],
+    "slug": "le-meridien-bristol"
+  },
+  {
+    "id": "warsaw-8",
+    "name": "Hotel Metropol",
+    "destinationSlug": "warsaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1913,
+    "priceFrom": 144,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-metropol.html",
+    "petFee": 0,
+    "petPolicy": "Pets of all sizes welcome; no additional fee.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Restaurant",
+      "Central location"
+    ],
+    "slug": "hotel-metropol"
+  },
+  {
+    "id": "krakow-1",
+    "name": "Hotel Stary",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 503,
+    "priceFrom": 357,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-stary.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; walking maps of the Planty ring provided.",
+    "highlights": [
+      "Free WiFi",
+      "Historic building",
+      "Fine dining",
+      "Spa"
+    ],
+    "slug": "hotel-stary"
+  },
+  {
+    "id": "krakow-2",
+    "name": "Hotel Pod Różą",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 685,
+    "priceFrom": 279,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-pod-ro.html",
+    "petFee": 17,
+    "petPolicy": "Pets accepted up to 20 kg; pet fee applies per night.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique interior",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "hotel-pod-ro"
+  },
+  {
+    "id": "krakow-3",
+    "name": "Sheraton Grand Krakow",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 579,
+    "priceFrom": 297,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/sheraton-grand-krakow.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats welcome; welcome treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Pool",
+      "Spa",
+      "River views"
+    ],
+    "slug": "sheraton-grand-krakow"
+  },
+  {
+    "id": "krakow-4",
+    "name": "Hotel Copernicus",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 751,
+    "priceFrom": 411,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-copernicus.html",
+    "petFee": 11,
+    "petPolicy": "Small pets accepted; advance booking required.",
+    "highlights": [
+      "Free WiFi",
+      "Renaissance palazzo",
+      "Fine dining",
+      "Spa"
+    ],
+    "slug": "hotel-copernicus"
+  },
+  {
+    "id": "krakow-5",
+    "name": "The Bonerowski Palace",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 4175,
+    "priceFrom": 460,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/the-bonerowski-palace.html",
+    "petFee": 21,
+    "petPolicy": "Pets welcome in selected rooms; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Historic suites",
+      "Butler service",
+      "Bar"
+    ],
+    "slug": "the-bonerowski-palace"
+  },
+  {
+    "id": "krakow-6",
+    "name": "Hotel Wentzl",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2403,
+    "priceFrom": 295,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-wentzl.html",
+    "petFee": 21,
+    "petPolicy": "Dogs up to 15 kg; pet blanket provided.",
+    "highlights": [
+      "Free WiFi",
+      "Old Town location",
+      "Restaurant",
+      "Concierge"
+    ],
+    "slug": "hotel-wentzl"
+  },
+  {
+    "id": "krakow-7",
+    "name": "Radisson Blu Hotel Krakow",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 562,
+    "priceFrom": 254,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/radisson-blu-hotel-krakow.html",
+    "petFee": 0,
+    "petPolicy": "All pets welcome; nearest park walking guide available.",
+    "highlights": [
+      "Free WiFi",
+      "Fitness centre",
+      "Bar",
+      "Meeting rooms"
+    ],
+    "slug": "radisson-blu-hotel-krakow"
+  },
+  {
+    "id": "krakow-8",
+    "name": "Hotel Wit Stwosz",
+    "destinationSlug": "krakow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 2787,
+    "priceFrom": 107,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-wit-stwosz.html",
+    "petFee": 18,
+    "petPolicy": "Pets accepted; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Central location",
+      "Bar",
+      "Concierge"
+    ],
+    "slug": "hotel-wit-stwosz"
+  },
+  {
+    "id": "brussels-1",
+    "name": "Hotel Amigo Brussels",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3087,
+    "priceFrom": 406,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/hotel-amigo-brussels.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; nearby Parc du Cinquantenaire recommended.",
+    "highlights": [
+      "Free WiFi",
+      "Historic building",
+      "Fine dining",
+      "Concierge"
+    ],
+    "slug": "hotel-amigo-brussels"
+  },
+  {
+    "id": "brussels-2",
+    "name": "Rocco Forte Hotel Amigo",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2086,
+    "priceFrom": 315,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/rocco-forte-hotel-amigo.html",
+    "petFee": 28,
+    "petPolicy": "Pets up to 20 kg; pet bed on request.",
+    "highlights": [
+      "Free WiFi",
+      "Luxury spa",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "rocco-forte-hotel-amigo"
+  },
+  {
+    "id": "brussels-3",
+    "name": "Steigenberger Wiltcher's",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2057,
+    "priceFrom": 303,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/steigenberger-wiltchers.html",
+    "petFee": 0,
+    "petPolicy": "All pets accepted; treat basket on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Pool",
+      "Spa",
+      "Avenue Louise location"
+    ],
+    "slug": "steigenberger-wiltchers"
+  },
+  {
+    "id": "brussels-4",
+    "name": "The Hotel Brussels",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4405,
+    "priceFrom": 206,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/the-hotel-brussels.html",
+    "petFee": 15,
+    "petPolicy": "Dogs welcome in all room categories; grooming referrals available.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Restaurant",
+      "Fitness centre"
+    ],
+    "slug": "the-hotel-brussels"
+  },
+  {
+    "id": "brussels-5",
+    "name": "Pillows Grand Boutique Hotel Brussels",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4646,
+    "priceFrom": 277,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/pillows-grand-boutique-hotel-brussels.html",
+    "petFee": 0,
+    "petPolicy": "Pets accepted with prior notice; cleaning fee applies.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique design",
+      "Restaurant",
+      "Garden"
+    ],
+    "slug": "pillows-grand-boutique-hotel-brussels"
+  },
+  {
+    "id": "brussels-6",
+    "name": "Marriott Brussels",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4206,
+    "priceFrom": 239,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/marriott-brussels.html",
+    "petFee": 13,
+    "petPolicy": "Small and medium dogs welcome; no extra charge.",
+    "highlights": [
+      "Free WiFi",
+      "Pool",
+      "Multiple restaurants",
+      "Business centre"
+    ],
+    "slug": "marriott-brussels"
+  },
+  {
+    "id": "brussels-7",
+    "name": "Sofitel Brussels Le Louise",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 4306,
+    "priceFrom": 453,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/sofitel-brussels-le-louise.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome; concierge can arrange dog-friendly excursions.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant",
+      "Grand Place proximity"
+    ],
+    "slug": "sofitel-brussels-le-louise"
+  },
+  {
+    "id": "brussels-8",
+    "name": "Hotel Le Berger",
+    "destinationSlug": "brussels",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 2051,
+    "priceFrom": 123,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/be/hotel-le-berger.html",
+    "petFee": 0,
+    "petPolicy": "Dogs accepted up to 30 kg; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Restaurant",
+      "Art Nouveau building"
+    ],
+    "slug": "hotel-le-berger"
+  },
+  {
+    "id": "athens-1",
+    "name": "Hotel Grande Bretagne",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1436,
+    "priceFrom": 366,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/hotel-grande-bretagne.html",
+    "petFee": 21,
+    "petPolicy": "Dogs welcome; rooftop terrace access for morning walks.",
+    "highlights": [
+      "Free WiFi",
+      "Acropolis views",
+      "Fine dining",
+      "Spa"
+    ],
+    "slug": "hotel-grande-bretagne"
+  },
+  {
+    "id": "athens-2",
+    "name": "King George Athens",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 2396,
+    "priceFrom": 465,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/king-george-athens.html",
+    "petFee": 17,
+    "petPolicy": "Pets up to 15 kg; pet-friendly map of Athens provided.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Historic building",
+      "Bar"
+    ],
+    "slug": "king-george-athens"
+  },
+  {
+    "id": "athens-3",
+    "name": "Hotel Periscope",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1118,
+    "priceFrom": 294,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/hotel-periscope.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats accepted in all rooms.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop terrace",
+      "Modern design",
+      "Bar"
+    ],
+    "slug": "hotel-periscope"
+  },
+  {
+    "id": "athens-4",
+    "name": "Electra Metropolis Athens",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3930,
+    "priceFrom": 444,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/electra-metropolis-athens.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome with advance notice; cleaning fee may apply.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Restaurant",
+      "Spa"
+    ],
+    "slug": "electra-metropolis-athens"
+  },
+  {
+    "id": "athens-5",
+    "name": "Athens Was",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3268,
+    "priceFrom": 216,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/athens-was.html",
+    "petFee": 24,
+    "petPolicy": "Small dogs accepted; bowl and mat provided.",
+    "highlights": [
+      "Free WiFi",
+      "Acropolis proximity",
+      "Boutique design",
+      "Bar"
+    ],
+    "slug": "athens-was"
+  },
+  {
+    "id": "athens-6",
+    "name": "Hotel Herodion",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3913,
+    "priceFrom": 289,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/hotel-herodion.html",
+    "petFee": 0,
+    "petPolicy": "All dogs welcome; nearest off-leash park details provided.",
+    "highlights": [
+      "Free WiFi",
+      "Acropolis views",
+      "Restaurant",
+      "Garden"
+    ],
+    "slug": "hotel-herodion"
+  },
+  {
+    "id": "athens-7",
+    "name": "Monastiraki Hotel",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1186,
+    "priceFrom": 124,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/monastiraki-hotel.html",
+    "petFee": 0,
+    "petPolicy": "Pets accepted up to 20 kg; complimentary treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Monastiraki location",
+      "Bar",
+      "Rooftop terrace"
+    ],
+    "slug": "monastiraki-hotel"
+  },
+  {
+    "id": "athens-8",
+    "name": "Attalos Hotel",
+    "destinationSlug": "athens",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1155,
+    "priceFrom": 131,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/attalos-hotel.html",
+    "petFee": 13,
+    "petPolicy": "Dogs welcome; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Budget-friendly",
+      "Bar",
+      "Central location"
+    ],
+    "slug": "attalos-hotel"
+  },
+  {
+    "id": "split-1",
+    "name": "Hotel Marjan Split",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 732,
+    "priceFrom": 194,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/hotel-marjan-split.html",
+    "petFee": 12,
+    "petPolicy": "Dogs welcome; beach access information provided on check-in.",
+    "highlights": [
+      "Free WiFi",
+      "Sea views",
+      "Pool",
+      "Restaurant"
+    ],
+    "slug": "hotel-marjan-split"
+  },
+  {
+    "id": "split-2",
+    "name": "Cornaro Hotel",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3737,
+    "priceFrom": 161,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/cornaro-hotel.html",
+    "petFee": 28,
+    "petPolicy": "Pets of all sizes accepted; outdoor shower for sandy dogs.",
+    "highlights": [
+      "Free WiFi",
+      "City centre",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "cornaro-hotel"
+  },
+  {
+    "id": "split-3",
+    "name": "Hotel Vestibul Palace",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 4282,
+    "priceFrom": 361,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/hotel-vestibul-palace.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; Adriatic coastal walking routes on request.",
+    "highlights": [
+      "Free WiFi",
+      "Palace location",
+      "Historic suites",
+      "Concierge"
+    ],
+    "slug": "hotel-vestibul-palace"
+  },
+  {
+    "id": "split-4",
+    "name": "Hotel Park Split",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1857,
+    "priceFrom": 423,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/hotel-park-split.html",
+    "petFee": 0,
+    "petPolicy": "Small and medium pets accepted; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Park and sea views",
+      "Pool",
+      "Tennis"
+    ],
+    "slug": "hotel-park-split"
+  },
+  {
+    "id": "split-5",
+    "name": "Radisson Blu Resort Split",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2820,
+    "priceFrom": 464,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/radisson-blu-resort-split.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome; dog-friendly beach guide available.",
+    "highlights": [
+      "Free WiFi",
+      "Beach access",
+      "Spa",
+      "Multiple pools"
+    ],
+    "slug": "radisson-blu-resort-split"
+  },
+  {
+    "id": "split-6",
+    "name": "Stari Grad Hotel",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 530,
+    "priceFrom": 124,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/stari-grad-hotel.html",
+    "petFee": 28,
+    "petPolicy": "Dogs up to 25 kg; welcome treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Old Town location",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "stari-grad-hotel"
+  },
+  {
+    "id": "split-7",
+    "name": "Hotel Atrium Split",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 671,
+    "priceFrom": 194,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/hotel-atrium-split.html",
+    "petFee": 0,
+    "petPolicy": "All pets accepted; no extra charge.",
+    "highlights": [
+      "Free WiFi",
+      "Modern design",
+      "Pool",
+      "Fitness centre"
+    ],
+    "slug": "hotel-atrium-split"
+  },
+  {
+    "id": "split-8",
+    "name": "Diocletian Palace Hotel",
+    "destinationSlug": "split",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2537,
+    "priceFrom": 255,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/diocletian-palace-hotel.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome in selected rooms; outdoor pet area available.",
+    "highlights": [
+      "Free WiFi",
+      "Palace surroundings",
+      "Terrace",
+      "Bar"
+    ],
+    "slug": "diocletian-palace-hotel"
+  },
+  {
+    "id": "oslo-1",
+    "name": "Grand Hotel Oslo",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 4089,
+    "priceFrom": 475,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/grand-hotel-oslo.html",
+    "petFee": 24,
+    "petPolicy": "Dogs welcome; Oslomarka trail maps provided at concierge.",
+    "highlights": [
+      "Free WiFi",
+      "Historic landmark",
+      "Fine dining",
+      "Spa"
+    ],
+    "slug": "grand-hotel-oslo"
+  },
+  {
+    "id": "oslo-2",
+    "name": "Hotel Continental Oslo",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2711,
+    "priceFrom": 426,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/hotel-continental-oslo.html",
+    "petFee": 22,
+    "petPolicy": "Pets of all sizes accepted; pet bed available.",
+    "highlights": [
+      "Free WiFi",
+      "Central location",
+      "Restaurant",
+      "Fitness centre"
+    ],
+    "slug": "hotel-continental-oslo"
+  },
+  {
+    "id": "oslo-3",
+    "name": "Thon Hotel Opera",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4914,
+    "priceFrom": 226,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/thon-hotel-opera.html",
+    "petFee": 22,
+    "petPolicy": "Dogs and cats welcome; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Opera views",
+      "Modern design",
+      "Bar"
+    ],
+    "slug": "thon-hotel-opera"
+  },
+  {
+    "id": "oslo-4",
+    "name": "Amerikalinjen",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 587,
+    "priceFrom": 226,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/amerikalinjen.html",
+    "petFee": 26,
+    "petPolicy": "Small pets accepted; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Design hotel",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "amerikalinjen"
+  },
+  {
+    "id": "oslo-5",
+    "name": "The Thief Oslo",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 3328,
+    "priceFrom": 343,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/the-thief-oslo.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome; dog-sitting service available.",
+    "highlights": [
+      "Free WiFi",
+      "Waterfront location",
+      "Spa",
+      "Art collection"
+    ],
+    "slug": "the-thief-oslo"
+  },
+  {
+    "id": "oslo-6",
+    "name": "Radisson Blu Scandinavia Hotel Oslo",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1708,
+    "priceFrom": 191,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/radisson-blu-scandinavia-hotel-oslo.html",
+    "petFee": 14,
+    "petPolicy": "Dogs up to 30 kg; welcome snack pack on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Fjord views",
+      "Pool",
+      "Restaurant"
+    ],
+    "slug": "radisson-blu-scandinavia-hotel-oslo"
+  },
+  {
+    "id": "oslo-7",
+    "name": "Hotel Bristol Oslo",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3918,
+    "priceFrom": 378,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/hotel-bristol-oslo.html",
+    "petFee": 29,
+    "petPolicy": "All pets welcome; pet fee applies per stay.",
+    "highlights": [
+      "Free WiFi",
+      "Historic building",
+      "Bar",
+      "Restaurant"
+    ],
+    "slug": "hotel-bristol-oslo"
+  },
+  {
+    "id": "oslo-8",
+    "name": "Clarion Hotel The Hub",
+    "destinationSlug": "oslo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3804,
+    "priceFrom": 295,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/clarion-hotel-the-hub.html",
+    "petFee": 19,
+    "petPolicy": "Pets accepted; nearby off-leash forest access.",
+    "highlights": [
+      "Free WiFi",
+      "Modern tower",
+      "Fitness centre",
+      "Restaurant"
+    ],
+    "slug": "clarion-hotel-the-hub"
+  },
+  {
+    "id": "helsinki-1",
+    "name": "Klaus K Hotel Helsinki",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1608,
+    "priceFrom": 226,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/klaus-k-hotel-helsinki.html",
+    "petFee": 26,
+    "petPolicy": "Dogs welcome; archipelago ferry routes for pets advised by concierge.",
+    "highlights": [
+      "Free WiFi",
+      "Design district location",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "klaus-k-hotel-helsinki"
+  },
+  {
+    "id": "helsinki-2",
+    "name": "Hotel Kämp",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 532,
+    "priceFrom": 283,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/hotel-kamp.html",
+    "petFee": 0,
+    "petPolicy": "Pets of all sizes accepted; pet blanket and bowl provided.",
+    "highlights": [
+      "Free WiFi",
+      "Historic landmark",
+      "Fine dining",
+      "Bar"
+    ],
+    "slug": "hotel-kamp"
+  },
+  {
+    "id": "helsinki-3",
+    "name": "Hotel Haven",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 995,
+    "priceFrom": 297,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/hotel-haven.html",
+    "petFee": 30,
+    "petPolicy": "Dogs and cats welcome; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Harbour views",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "hotel-haven"
+  },
+  {
+    "id": "helsinki-4",
+    "name": "Hotel F6 Helsinki",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4166,
+    "priceFrom": 188,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/hotel-f6-helsinki.html",
+    "petFee": 0,
+    "petPolicy": "Small and medium dogs; advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique design",
+      "Bar",
+      "Sauna"
+    ],
+    "slug": "hotel-f6-helsinki"
+  },
+  {
+    "id": "helsinki-5",
+    "name": "Scandic Park Helsinki",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2482,
+    "priceFrom": 186,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/scandic-park-helsinki.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome in all rooms; indoor pet area available.",
+    "highlights": [
+      "Free WiFi",
+      "Esplanadi park access",
+      "Restaurant",
+      "Fitness centre"
+    ],
+    "slug": "scandic-park-helsinki"
+  },
+  {
+    "id": "helsinki-6",
+    "name": "Radisson Blu Royal Hotel Helsinki",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2548,
+    "priceFrom": 158,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/radisson-blu-royal-hotel-helsinki.html",
+    "petFee": 16,
+    "petPolicy": "Dogs up to 25 kg; welcome treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Central station proximity",
+      "Bar",
+      "Fitness centre"
+    ],
+    "slug": "radisson-blu-royal-hotel-helsinki"
+  },
+  {
+    "id": "helsinki-7",
+    "name": "Hotel Lilla Roberts",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 4828,
+    "priceFrom": 249,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/hotel-lilla-roberts.html",
+    "petFee": 16,
+    "petPolicy": "All pets welcome; no extra charge.",
+    "highlights": [
+      "Free WiFi",
+      "Historic building",
+      "Restaurant",
+      "Sauna"
+    ],
+    "slug": "hotel-lilla-roberts"
+  },
+  {
+    "id": "helsinki-8",
+    "name": "Clarion Hotel Helsinki",
+    "destinationSlug": "helsinki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2260,
+    "priceFrom": 279,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/clarion-hotel-helsinki.html",
+    "petFee": 10,
+    "petPolicy": "Pets accepted; forest walking maps available.",
+    "highlights": [
+      "Free WiFi",
+      "Central location",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "clarion-hotel-helsinki"
+  },
+  {
+    "id": "salzburg-1",
+    "name": "Hotel Sacher Salzburg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 3622,
+    "priceFrom": 488,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotel-sacher-salzburg.html",
+    "petFee": 22,
+    "petPolicy": "Dogs welcome; Alpine meadow walking routes provided.",
+    "highlights": [
+      "Free WiFi",
+      "River views",
+      "Historic building",
+      "Spa"
+    ],
+    "slug": "hotel-sacher-salzburg"
+  },
+  {
+    "id": "salzburg-2",
+    "name": "Hotel Goldener Hirsch",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 4856,
+    "priceFrom": 383,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotel-goldener-hirsch.html",
+    "petFee": 15,
+    "petPolicy": "Pets of all sizes accepted; pet bed on request.",
+    "highlights": [
+      "Free WiFi",
+      "Old Town location",
+      "Fine dining",
+      "Bar"
+    ],
+    "slug": "hotel-goldener-hirsch"
+  },
+  {
+    "id": "salzburg-3",
+    "name": "Schloss Mönchstein",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 4172,
+    "priceFrom": 283,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/schloss-monchstein.html",
+    "petFee": 21,
+    "petPolicy": "Dogs and cats welcome; no weight restriction.",
+    "highlights": [
+      "Free WiFi",
+      "Hillside gardens",
+      "Spa",
+      "Pool"
+    ],
+    "slug": "schloss-monchstein"
+  },
+  {
+    "id": "salzburg-4",
+    "name": "Hotel Stein Salzburg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3569,
+    "priceFrom": 298,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotel-stein-salzburg.html",
+    "petFee": 21,
+    "petPolicy": "Small pets accepted; cleaning fee applies.",
+    "highlights": [
+      "Free WiFi",
+      "Salzach views",
+      "Rooftop bar",
+      "Modern design"
+    ],
+    "slug": "hotel-stein-salzburg"
+  },
+  {
+    "id": "salzburg-5",
+    "name": "Arte Hotel Salzburg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 4073,
+    "priceFrom": 138,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/arte-hotel-salzburg.html",
+    "petFee": 0,
+    "petPolicy": "Pets welcome with advance notice; dog-sitting service available.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique rooms",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "arte-hotel-salzburg"
+  },
+  {
+    "id": "salzburg-6",
+    "name": "Hotel Amadeus Salzburg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 4814,
+    "priceFrom": 246,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotel-amadeus-salzburg.html",
+    "petFee": 26,
+    "petPolicy": "Dogs up to 20 kg; welcome treat on arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Mozart connections",
+      "Restaurant",
+      "Garden"
+    ],
+    "slug": "hotel-amadeus-salzburg"
+  },
+  {
+    "id": "salzburg-7",
+    "name": "Hotel Auersperg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3527,
+    "priceFrom": 194,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hotel-auersperg.html",
+    "petFee": 22,
+    "petPolicy": "All pets welcome; pet fee per night.",
+    "highlights": [
+      "Free WiFi",
+      "Garden and pool",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "hotel-auersperg"
+  },
+  {
+    "id": "salzburg-8",
+    "name": "Crowne Plaza Salzburg",
+    "destinationSlug": "salzburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4373,
+    "priceFrom": 248,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/crowne-plaza-salzburg.html",
+    "petFee": 0,
+    "petPolicy": "Pets accepted; nearby riverside walking paths recommended.",
+    "highlights": [
+      "Free WiFi",
+      "Conference centre",
+      "Pool",
+      "Restaurant"
+    ],
+    "slug": "crowne-plaza-salzburg"
   }
 ]

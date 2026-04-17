@@ -175,7 +175,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
                 </p>
               </div>
               <div>
-                <p className="text-4xl font-black">100+</p>
+                <p className="text-4xl font-black">270+</p>
                 <p className="text-blue-200 text-sm mt-1">
                   {locale === 'fr' ? 'Hôtels vérifiés' : locale === 'es' ? 'Hoteles verificados' : 'Verified hotels'}
                 </p>

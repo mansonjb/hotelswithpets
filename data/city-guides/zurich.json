@@ -1,0 +1,854 @@
+{
+  "slug": "zurich",
+  "name": "Zurich",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Zurich",
+      "titleFr": "Restaurants acceptant les animaux à Zurich",
+      "titleEs": "Restaurantes con mascotas en Zúrich",
+      "introEn": "Zurich is one of Europe's wealthiest and most liveable cities, and its relationship with dogs is characteristically Swiss — orderly, well-considered, and generally welcoming. Dogs are commonly accepted in Zurich restaurants and cafés, particularly in the Langstrasse, Kreis 4, and Wiedikon neighbourhoods. Swiss law gives restaurants the discretion to allow or refuse dogs, so policies vary. The Zürichsee lakefront terraces in summer are a highlight — many café-bars along the lake welcome dogs on their outdoor seating. One honest caveat: Zurich's fine-dining restaurants in the banking district and Bahnhofstrasse area tend to be strictly no-dogs indoors.",
+      "introFr": "Zurich est l'une des villes les plus riches et les plus agréables à vivre d'Europe, et sa relation avec les chiens est typiquement suisse — ordonnée, réfléchie et généralement accueillante. Les chiens sont communément acceptés dans les restaurants et cafés zurichois, notamment dans les quartiers de la Langstrasse, du Kreis 4 et de Wiedikon. La loi suisse laisse aux restaurants le soin d'autoriser ou de refuser les chiens, d'où des politiques variables. Les terrasses en bord du lac Zürichsee en été sont un temps fort — beaucoup de cafés-bars le long du lac accueillent les chiens en plein air. Un bémol honnête : les restaurants gastronomiques du quartier bancaire et de la Bahnhofstrasse sont généralement strictement sans chiens à l'intérieur.",
+      "introEs": "Zúrich es una de las ciudades más ricas y habitables de Europa, y su relación con los perros es característicamente suiza — ordenada, bien considerada y generalmente acogedora. Los perros son comúnmente aceptados en restaurantes y cafés de Zúrich, especialmente en los barrios de Langstrasse, Kreis 4 y Wiedikon. La ley suiza da a los restaurantes la discreción de permitir o rechazar perros, por lo que las políticas varían. Las terrazas del lago Zürichsee en verano son un punto culminante — muchos cafés-bares junto al lago admiten perros en sus asientos exteriores. Una advertencia honesta: los restaurantes de alta cocina en el distrito bancario y la zona de la Bahnhofstrasse tienden a ser estrictamente sin perros en el interior.",
+      "places": [
+        {
+          "name": "Café Zähringer",
+          "address": "Zähringerplatz 11, 8001 Zürich",
+          "neighborhood": "Altstadt (Niederdorf)",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.cafe-zaehringer.ch/",
+          "description": "A beloved collective café in the Altstadt, Café Zähringer has been a Zurich institution since 1981. The food is entirely plant-based, the prices are reasonable by Swiss standards, and the atmosphere is comfortably unpretentious. Dogs are welcome inside and the long wooden tables encourage settling in for a full afternoon. One of the few genuinely relaxed and affordable café-restaurants in Zurich's expensive old town.",
+          "descriptionFr": "Un café collectif bien-aimé dans l'Altstadt, le Café Zähringer est une institution zurichoise depuis 1981. La nourriture est entièrement végétale, les prix sont raisonnables pour des standards suisses et l'ambiance est confortablement sans prétention. Les chiens sont les bienvenus en salle et les longues tables en bois invitent à s'installer pour tout un après-midi. L'un des rares cafés-restaurants vraiment décontractés et abordables dans la vieille ville chère de Zurich.",
+          "descriptionEs": "Un querido café colectivo en el Altstadt, el Café Zähringer es una institución zurichesa desde 1981. La comida es completamente vegetal, los precios son razonables para los estándares suizos y el ambiente es cómodamente sin pretensiones. Los perros son bienvenidos en el interior y las largas mesas de madera invitan a instalarse durante toda una tarde. Uno de los pocos cafés-restaurantes genuinamente relajados y asequibles en el caro casco antiguo de Zúrich.",
+          "petPolicy": "Dogs welcome inside",
+          "petPolicyFr": "Chiens acceptés en salle",
+          "petPolicyEs": "Perros admitidos en interior",
+          "priceRange": "€€",
+          "mustTry": "Daily plant-based lunch menu, seasonal soups",
+          "mustTryFr": "Menu déjeuner végétal du jour, soupes de saison",
+          "mustTryEs": "Menú de almuerzo vegetal del día, sopas de temporada",
+          "openingHours": "Mon–Sat 08:00–24:00, Sun 09:00–24:00",
+          "tip": "The Sunday brunch is popular and worth arriving early for. Dogs are welcome at the full brunch service",
+          "tipFr": "Le brunch du dimanche est populaire et vaut la peine d'arriver tôt. Les chiens sont bienvenus pour le service de brunch complet",
+          "tipEs": "El brunch del domingo es popular y vale la pena llegar temprano. Los perros son bienvenidos en el servicio completo de brunch",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Z%C3%A4hringer+Z%C3%BCrich"
+        },
+        {
+          "name": "Cabaret Voltaire",
+          "address": "Spiegelgasse 1, 8001 Zürich",
+          "neighborhood": "Altstadt / Niederdorf",
+          "photo": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.cabaretvoltaire.ch/",
+          "description": "The birthplace of Dada (the Cabaret Voltaire was founded here in 1916), today a café, bar, and cultural venue in the heart of the old town. The atmosphere is the kind of creative and irreverent that dogs fit right into. Dogs are welcome on the terrace and the bar area. The Spiegelgasse location is one of the most atmospheric streets in Zurich's old town.",
+          "descriptionFr": "Le berceau du Dadaïsme (le Cabaret Voltaire a été fondé ici en 1916), aujourd'hui un café, bar et lieu culturel au cœur de la vieille ville. L'ambiance est du genre créatif et irrévérencieux dans lequel les chiens s'intègrent parfaitement. Les chiens sont les bienvenus en terrasse et au bar. La Spiegelgasse est l'une des rues les plus atmosphériques de la vieille ville de Zurich.",
+          "descriptionEs": "El lugar de nacimiento del Dadaísmo (el Cabaret Voltaire fue fundado aquí en 1916), hoy un café, bar y espacio cultural en el corazón del casco antiguo. El ambiente es del tipo creativo e irreverente en el que los perros encajan perfectamente. Los perros son bienvenidos en la terraza y la zona del bar.",
+          "petPolicy": "Dogs welcome on terrace and in bar area",
+          "petPolicyFr": "Chiens bienvenus en terrasse et au bar",
+          "petPolicyEs": "Perros bienvenidos en terraza y zona de bar",
+          "priceRange": "€€",
+          "mustTry": "Swiss craft beer, seasonal specials",
+          "mustTryFr": "Bière artisanale suisse, spécialités de saison",
+          "mustTryEs": "Cerveza artesanal suiza, especialidades de temporada",
+          "openingHours": "Tue–Sun 12:00–24:00",
+          "tip": "Check their events calendar — the Cabaret hosts regular live music and art events, all with a dog-friendly atmosphere",
+          "tipFr": "Consultez leur agenda — le Cabaret accueille régulièrement de la musique live et des événements artistiques, dans une ambiance dog-friendly",
+          "tipEs": "Consulta su calendario de eventos — el Cabaret organiza regularmente música en vivo y eventos de arte, todo con un ambiente amigable con los perros",
+          "googleMapsUrl": "https://maps.google.com/?q=Cabaret+Voltaire+Z%C3%BCrich"
+        },
+        {
+          "name": "Frau Gerolds Garten",
+          "address": "Geroldstraße 23, 8005 Zürich",
+          "neighborhood": "Kreis 5 (Zürich West)",
+          "photo": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+          "website": "https://fraugerold.ch/",
+          "description": "A spectacular outdoor bar and restaurant in the repurposed industrial Zürich West district, Frau Gerolds Garten is a summer-only institution (open May–September) built from recycled shipping containers around a lush community garden. Dogs are entirely welcome in this open-air venue. Excellent cocktails, street food from rotating vendors, and one of the best atmospheres in the city on a summer evening.",
+          "descriptionFr": "Un bar et restaurant extérieur spectaculaire dans le quartier industriel recyclé de Zürich West, le Frau Gerolds Garten est une institution estivale (ouvert mai–septembre) construite à partir de containers recyclés autour d'un luxuriant jardin communautaire. Les chiens sont entièrement les bienvenus dans cet espace en plein air. Excellents cocktails, street food de vendeurs tournants, et l'une des meilleures ambiances de la ville les soirs d'été.",
+          "descriptionEs": "Un espectacular bar y restaurante al aire libre en el reconvertido distrito industrial de Zürich West, Frau Gerolds Garten es una institución de verano (abierto mayo–septiembre) construida con contenedores reciclados alrededor de un exuberante jardín comunitario. Los perros son completamente bienvenidos en este local al aire libre. Excelentes cócteles, comida callejera de proveedores rotativos y uno de los mejores ambientes de la ciudad en una tarde de verano.",
+          "petPolicy": "Dogs welcome — outdoor venue",
+          "petPolicyFr": "Chiens bienvenus — espace extérieur",
+          "petPolicyEs": "Perros bienvenidos — local al aire libre",
+          "priceRange": "€€",
+          "mustTry": "Seasonal cocktails, rotating street food vendors",
+          "mustTryFr": "Cocktails de saison, food trucks tournants",
+          "mustTryEs": "Cócteles de temporada, vendedores de comida rotativos",
+          "openingHours": "May–Sept: Mon–Sat 11:00–24:00, Sun 11:00–22:00",
+          "tip": "This is a summer-only venue. Visit on a warm weekday evening for the best atmosphere without weekend crowds",
+          "tipFr": "C'est un lieu uniquement estival. Venez un soir de semaine chaud pour la meilleure ambiance sans les foules du week-end",
+          "tipEs": "Este es un local solo de verano. Visítalo en una tarde cálida entre semana para el mejor ambiente sin las multitudes del fin de semana",
+          "googleMapsUrl": "https://maps.google.com/?q=Frau+Gerolds+Garten+Z%C3%BCrich"
+        },
+        {
+          "name": "Kafi Dihei",
+          "address": "Quellenstraße 17, 8005 Zürich",
+          "neighborhood": "Kreis 5 (Zürich West / Langstrasse area)",
+          "photo": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.kafidihei.ch/",
+          "description": "A neighbourhood café in the creative Zürich West district, Kafi Dihei (dialect for 'Kaffee daheim' — coffee at home) is exactly what the name suggests: a relaxed, home-style café with excellent Swiss-roasted coffee, good pastries, and a genuinely warm welcome for regulars and their dogs. The interior has mismatched furniture and a lived-in feel that Zurich's more designed cafés lack. Dogs are very welcome inside.",
+          "descriptionFr": "Un café de quartier dans le quartier créatif de Zürich West, le Kafi Dihei (dialecte pour 'Kaffee daheim' — café à la maison) est exactement ce que son nom suggère : un café décontracté, en style maison, avec un excellent café de torréfaction suisse, de bons pâtisseries et un accueil vraiment chaleureux pour les habitués et leurs chiens. L'intérieur a des meubles dépareillés et un aspect vécu que les cafés plus design de Zurich n'ont pas. Les chiens sont très bienvenus en salle.",
+          "descriptionEs": "Un café de barrio en el creativo distrito de Zürich West, Kafi Dihei (dialecto para 'Kaffee daheim' — café en casa) es exactamente lo que el nombre sugiere: un café relajado, de estilo hogareño, con excelente café de tueste suizo, buenos pasteles y una bienvenida genuinamente cálida para los habituales y sus perros. El interior tiene muebles dispares y una sensación de vivido que los cafés más diseñados de Zúrich no tienen.",
+          "petPolicy": "Dogs welcome inside",
+          "petPolicyFr": "Chiens acceptés en salle",
+          "petPolicyEs": "Perros admitidos en interior",
+          "priceRange": "€€",
+          "mustTry": "Swiss-roasted specialty coffee, homemade cakes",
+          "mustTryFr": "Café de spécialité torréfié en Suisse, gâteaux maison",
+          "mustTryEs": "Café de especialidad tostado en Suiza, tartas caseras",
+          "openingHours": "Mon–Fri 07:30–18:00, Sat–Sun 09:00–17:00",
+          "tip": "Perfect for a slow morning with your dog before exploring Zürich West. Staff are enthusiastically dog-friendly",
+          "tipFr": "Parfait pour une matinée tranquille avec votre chien avant d'explorer Zürich West. Le personnel est enthousiaste envers les chiens",
+          "tipEs": "Perfecto para una mañana tranquila con tu perro antes de explorar Zürich West. El personal es entusiastamente amigable con los perros",
+          "googleMapsUrl": "https://maps.google.com/?q=Kafi+Dihei+Z%C3%BCrich"
+        }
+      ],
+      "tipsEn": [
+        "Zürich West (Kreis 5), Langstrasse (Kreis 4), and Wiedikon (Kreis 3) are the most dog-welcoming neighbourhoods for dining.",
+        "Swiss restaurants have legal discretion to allow or refuse dogs. Always check before assuming dogs are welcome indoors.",
+        "The Zürichsee lakefront has many café-bars with outdoor terraces where dogs are welcome, particularly in summer.",
+        "Zurich is expensive. Even dog-friendly venues will charge Swiss prices. Budget approximately CHF 15–25 for a coffee and snack."
+      ],
+      "tipsFr": [
+        "Zürich West (Kreis 5), la Langstrasse (Kreis 4) et Wiedikon (Kreis 3) sont les quartiers les plus accueillants pour manger avec son chien.",
+        "Les restaurants suisses ont le droit légal d'autoriser ou de refuser les chiens. Vérifiez toujours avant de supposer que les chiens sont bienvenus à l'intérieur.",
+        "Le bord du lac Zürichsee compte de nombreux cafés-bars avec terrasses extérieures où les chiens sont bienvenus, notamment en été.",
+        "Zurich est cher. Même les établissements dog-friendly pratiquent des prix suisses. Comptez environ 15 à 25 CHF pour un café et une collation."
+      ],
+      "tipsEs": [
+        "Zürich West (Kreis 5), Langstrasse (Kreis 4) y Wiedikon (Kreis 3) son los barrios más acogedores para comer con perro.",
+        "Los restaurantes suizos tienen discreción legal para permitir o rechazar perros. Siempre comprueba antes de asumir que los perros son bienvenidos en el interior.",
+        "El frente del lago Zürichsee tiene muchos cafés-bares con terrazas exteriores donde los perros son bienvenidos, especialmente en verano.",
+        "Zúrich es caro. Incluso los locales amigables con perros cobrarán precios suizos. Presupuesta aproximadamente 15–25 CHF para un café y un tentempié."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Zurich restaurants?",
+          "a": "Swiss law gives restaurants discretion over whether to allow dogs. In practice, most independent cafés and restaurants in Zurich's creative districts (Kreis 4, 5, Wiedikon) welcome dogs. The Altstadt and banking district tend to be more variable. Always ask on arrival."
+        },
+        {
+          "q": "Can I dine with my dog on the Zürichsee lakefront?",
+          "a": "Yes — the lakefront café-bars in summer have outdoor terraces where dogs are routinely welcome. The stretch along the Seepromenade from Bürkliplatz to Riesbach is particularly good for dog-friendly outdoor dining."
+        },
+        {
+          "q": "Is Zurich an expensive city for dog owners visiting from abroad?",
+          "a": "Yes. Zurich is consistently one of the world's most expensive cities. Restaurant meals, accommodation, and services (including vet care) are significantly more expensive than in Germany or Austria. Budget accordingly and be aware that pet fees at hotels are also common."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants zurichois ?",
+          "a": "La loi suisse laisse aux restaurants le soin de décider s'ils autorisent les chiens. En pratique, la plupart des cafés et restaurants indépendants dans les quartiers créatifs de Zurich (Kreis 4, 5, Wiedikon) accueillent les chiens. L'Altstadt et le quartier bancaire tendent à être plus variables. Demandez toujours à votre arrivée."
+        },
+        {
+          "q": "Puis-je dîner avec mon chien au bord du lac Zürichsee ?",
+          "a": "Oui — les cafés-bars en bord de lac en été disposent de terrasses extérieures où les chiens sont régulièrement bienvenus. Le tronçon de la Seepromenade entre le Bürkliplatz et Riesbach est particulièrement adapté pour une restauration en plein air dog-friendly."
+        },
+        {
+          "q": "Zurich est-elle une ville chère pour les propriétaires de chiens venant de l'étranger ?",
+          "a": "Oui. Zurich figure régulièrement parmi les villes les plus chères au monde. Les repas au restaurant, l'hébergement et les services (y compris les soins vétérinaires) sont nettement plus chers qu'en Allemagne ou en Autriche. Prévoyez un budget en conséquence et sachez que les frais pour animaux dans les hôtels sont également courants."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros en los restaurantes de Zúrich?",
+          "a": "La ley suiza da a los restaurantes discreción sobre si permitir perros. En la práctica, la mayoría de los cafés y restaurantes independientes en los distritos creativos de Zúrich (Kreis 4, 5, Wiedikon) admiten perros. El Altstadt y el distrito bancario tienden a ser más variables. Siempre pregunta al llegar."
+        },
+        {
+          "q": "¿Puedo cenar con mi perro en el frente del lago Zürichsee?",
+          "a": "Sí — los cafés-bares del frente del lago en verano tienen terrazas exteriores donde los perros son habitualmente bienvenidos. El tramo a lo largo de la Seepromenade desde Bürkliplatz hasta Riesbach es particularmente bueno para cenar al aire libre con perros."
+        },
+        {
+          "q": "¿Es Zúrich una ciudad cara para los dueños de perros que visitan desde el extranjero?",
+          "a": "Sí. Zúrich se clasifica constantemente entre las ciudades más caras del mundo. Las comidas en restaurante, el alojamiento y los servicios (incluida la atención veterinaria) son significativamente más caros que en Alemania o Austria. Presupuesta en consecuencia y ten en cuenta que las tarifas por mascotas en hoteles también son comunes."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Zurich",
+      "titleFr": "Parcs et balades avec son chien à Zurich",
+      "titleEs": "Parques y paseos con perros en Zúrich",
+      "introEn": "Zurich is well-supplied with parks and green spaces for dogs. The Zürichsee lake promenade, the Sihl river valley, the Uetliberg hill, and several large city parks all provide excellent walking. Off-leash areas exist in most major parks, but Swiss regulations about dog control in public spaces are enforced — always check signage.",
+      "introFr": "Zurich est bien dotée en parcs et espaces verts pour les chiens. La promenade du lac Zürichsee, la vallée de la Sihl, la colline de l'Uetliberg et plusieurs grands parcs urbains offrent d'excellentes balades. Des zones de liberté existent dans la plupart des grands parcs, mais les règlements suisses sur le contrôle des chiens dans les espaces publics sont appliqués — vérifiez toujours la signalisation.",
+      "introEs": "Zúrich está bien surtida de parques y espacios verdes para perros. El paseo marítimo del lago Zürichsee, el valle del río Sihl, la colina Uetliberg y varios grandes parques de la ciudad ofrecen excelentes paseos. Existen zonas sin correa en la mayoría de los parques principales, pero las regulaciones suizas sobre el control de perros en espacios públicos se aplican — siempre comprueba la señalización.",
+      "places": [
+        {
+          "name": "Uetliberg Hill & Forest",
+          "type": "City hill. 871m. Forest walks and panoramic views. Dogs off-leash on forest trails",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.stadt-zuerich.ch/ted/de/index/gsz/natur-und-stadtgruen/parks-und-waelder/uetliberg.html",
+          "description": "The Uetliberg is Zurich's home mountain: a 871-metre forested hill right at the city's edge, reached by the S10 train from the Hauptbahnhof in 20 minutes. For dogs, it is the finest outing in the city: kilometres of forest trails through beech and spruce woodland, a panoramic platform at the summit with views over the entire Alps range, and the Planetenweg (Planet Walk) trail descending through the forest to Felsenegg. Dogs can go off-leash on most of the forest trails.",
+          "descriptionFr": "L'Uetliberg est la montagne locale de Zurich : une colline boisée de 871 mètres aux portes de la ville, accessible par le train S10 depuis la Hauptbahnhof en 20 minutes. Pour les chiens, c'est la meilleure sortie de la ville : des kilomètres de sentiers forestiers à travers des hêtres et des épicéas, une plateforme panoramique au sommet avec vue sur toute la chaîne des Alpes, et le Planetenweg (sentier des planètes) descendant à travers la forêt jusqu'à Felsenegg. Les chiens peuvent circuler sans laisse sur la plupart des sentiers forestiers.",
+          "descriptionEs": "El Uetliberg es la montaña local de Zúrich: una colina boscosa de 871 metros en el borde de la ciudad, accesible en el tren S10 desde la Hauptbahnhof en 20 minutos. Para los perros, es la mejor excursión de la ciudad: kilómetros de senderos forestales a través de hayas y abetos, una plataforma panorámica en la cima con vistas a toda la cordillera de los Alpes, y el Planetenweg (Sendero Planetario) descendiendo a través del bosque hasta Felsenegg.",
+          "offLeash": true,
+          "offLeashArea": "Most forest trails. Dogs must be on-leash on the summit viewing platform and near residential areas",
+          "offLeashAreaFr": "La plupart des sentiers forestiers. Laisse obligatoire sur la plateforme panoramique et près des zones résidentielles",
+          "offLeashAreaEs": "La mayoría de los senderos forestales. Correa obligatoria en la plataforma de observación de la cima y cerca de las zonas residenciales",
+          "tip": "Take the S10 to Uetliberg station (top). Then walk the Planetenweg down to Felsenegg and take the cable car back — a perfect loop",
+          "tipFr": "Prenez le S10 jusqu'à la station Uetliberg (sommet). Ensuite, descendez le Planetenweg jusqu'à Felsenegg et prenez le téléphérique — un circuit parfait",
+          "tipEs": "Toma el S10 hasta la estación Uetliberg (cima). Luego camina el Planetenweg bajando hasta Felsenegg y toma el teleférico de vuelta — un circuito perfecto",
+          "googleMapsUrl": "https://maps.google.com/?q=Uetliberg+Z%C3%BCrich"
+        },
+        {
+          "name": "Zürichsee Promenade & Parks",
+          "type": "Lakefront promenade. Multiple parks. On-leash on promenade",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.zuerich.com/en/visit/nature/lake-zurich",
+          "description": "The Zürichsee (Lake Zurich) promenade stretches for kilometres along both shores, with several large lakeside parks (Zürichhorn Park, Arboretum, Mythenquai) that are excellent for dog walking. Dogs must be on-leash on the main promenade path but can go off-leash in designated areas within the parks. The lake water is exceptionally clean and there are dog-accessible swimming points away from the main bathing beaches.",
+          "descriptionFr": "La promenade du Zürichsee s'étend sur des kilomètres le long des deux rives, avec plusieurs grands parcs en bord de lac (parc Zürichhorn, Arboretum, Mythenquai) qui sont excellents pour les balades avec chien. Les chiens doivent être en laisse sur le chemin principal de la promenade mais peuvent être sans laisse dans les zones désignées des parcs. L'eau du lac est exceptionnellement propre et il existe des points d'accès pour la baignade canine loin des plages principales.",
+          "descriptionEs": "El paseo del Zürichsee se extiende durante kilómetros a lo largo de ambas orillas, con varios grandes parques junto al lago (Parque Zürichhorn, Arboretum, Mythenquai) que son excelentes para pasear con perro. Los perros deben ir con correa en el sendero principal del paseo pero pueden ir sin correa en las zonas designadas dentro de los parques. El agua del lago es excepcionalmente limpia y hay puntos de natación accesibles para perros alejados de las playas principales.",
+          "offLeash": true,
+          "offLeashArea": "Designated areas within Zürichhorn Park and Arboretum. On-leash on the main promenade path",
+          "offLeashAreaFr": "Zones désignées dans le parc Zürichhorn et l'Arboretum. Laisse obligatoire sur le chemin principal de la promenade",
+          "offLeashAreaEs": "Zonas designadas dentro del Parque Zürichhorn y el Arboretum. Correa obligatoria en el sendero principal del paseo",
+          "tip": "The Zürichhorn Park on the eastern shore has the best dog areas and is quieter than the western promenade",
+          "tipFr": "Le parc Zürichhorn sur la rive est dispose des meilleures zones canines et est plus calme que la promenade ouest",
+          "tipEs": "El Parque Zürichhorn en la orilla oriental tiene las mejores zonas para perros y es más tranquilo que el paseo occidental",
+          "googleMapsUrl": "https://maps.google.com/?q=Z%C3%BCrichsee+Promenade"
+        },
+        {
+          "name": "Sihlwald & Sihltal",
+          "type": "Protected forest valley. 1,000 hectares. Dogs off-leash on trails",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.wildnispark.ch/",
+          "description": "The Sihlwald is a protected primeval forest in the Sihl river valley, about 30 minutes from central Zurich by S-Bahn (S4). It is one of the finest examples of protected lowland forest in Switzerland and a spectacular dog outing. The river banks of the Sihl are accessible throughout the valley, and dogs can run freely on most of the forest trails. The Wildnispark Zürich visitor centre provides good information about dog access policies in the reserve.",
+          "descriptionFr": "La Sihlwald est une forêt primaire protégée dans la vallée de la Sihl, à environ 30 minutes du centre de Zurich en S-Bahn (S4). C'est l'un des meilleurs exemples de forêt de plaine protégée en Suisse et une sortie canine spectaculaire. Les berges de la Sihl sont accessibles dans toute la vallée, et les chiens peuvent courir librement sur la plupart des sentiers forestiers. Le centre d'accueil du Wildnispark Zürich fournit de bonnes informations sur les règles d'accès pour les chiens dans la réserve.",
+          "descriptionEs": "El Sihlwald es un bosque primitivo protegido en el valle del río Sihl, a unos 30 minutos del centro de Zúrich en S-Bahn (S4). Es uno de los mejores ejemplos de bosque de llanura protegido en Suiza y una espectacular excursión canina. Las orillas del río Sihl son accesibles en todo el valle, y los perros pueden correr libremente en la mayoría de los senderos forestales.",
+          "offLeash": true,
+          "offLeashArea": "Most forest trails in the Sihlwald. Dogs must be on-leash in designated nature protection zones — check signage",
+          "offLeashAreaFr": "La plupart des sentiers forestiers du Sihlwald. Laisse obligatoire dans les zones de protection naturelle désignées — respectez la signalisation",
+          "offLeashAreaEs": "La mayoría de los senderos forestales del Sihlwald. Correa obligatoria en las zonas de protección natural designadas — comprueba la señalización",
+          "tip": "Take the S4 to Sihlwald station. The forest starts right at the station — no car needed",
+          "tipFr": "Prenez le S4 jusqu'à la station Sihlwald. La forêt commence juste à la station — pas besoin de voiture",
+          "tipEs": "Toma el S4 hasta la estación Sihlwald. El bosque comienza justo en la estación — no necesitas coche",
+          "googleMapsUrl": "https://maps.google.com/?q=Sihlwald+Z%C3%BCrich"
+        }
+      ],
+      "tipsEn": [
+        "In Zurich, dogs must be on-leash in most public spaces unless in a designated off-leash area. Swiss rules are firmly enforced.",
+        "The Uetliberg is the best single dog outing from Zurich. Plan 3–4 hours for the full Planetenweg loop.",
+        "Swiss transport (ZVV) requires dogs to have a half-fare ticket and muzzle on all public transport. Source: zvv.ch",
+        "Dog waste bags are mandatory to carry in Zurich. Fines for not picking up are high by European standards."
+      ],
+      "tipsFr": [
+        "À Zurich, les chiens doivent être tenus en laisse dans la plupart des espaces publics sauf dans une zone de liberté désignée. Les règles suisses sont fermement appliquées.",
+        "L'Uetliberg est la meilleure sortie canine depuis Zurich. Prévoyez 3 à 4 heures pour la boucle complète du Planetenweg.",
+        "Les transports suisses (ZVV) exigent que les chiens aient un billet demi-tarif et une muselière dans tous les transports en commun. Source : zvv.ch",
+        "Les sacs ramasse-crottes sont obligatoires à Zurich. Les amendes pour ne pas ramasser sont élevées selon les standards européens."
+      ],
+      "tipsEs": [
+        "En Zúrich, los perros deben ir con correa en la mayoría de los espacios públicos a menos que estén en una zona sin correa designada. Las normas suizas se aplican firmemente.",
+        "El Uetliberg es la mejor excursión canina desde Zúrich. Planifica 3–4 horas para el bucle completo del Planetenweg.",
+        "El transporte suizo (ZVV) requiere que los perros tengan un billete de tarifa reducida y bozal en todos los transportes públicos. Fuente: zvv.ch",
+        "Las bolsas para excrementos son obligatorias en Zúrich. Las multas por no recoger son altas según los estándares europeos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs go off-leash in Zurich?",
+          "a": "Designated off-leash areas exist in several Zurich parks and the Uetliberg and Sihlwald forests. The city's parks authority (Grün Stadt Zürich) publishes an online map of designated dog areas. On-leash rules apply on the main lake promenade and most public streets."
+        },
+        {
+          "q": "Is the Zürichsee lake accessible for dog swimming?",
+          "a": "Yes, away from the main bathing beaches. Dogs are prohibited from the main lido beaches (Seebad) during the summer season. Dog-accessible water points exist along the quieter sections of both shores. Always check for current signage."
+        },
+        {
+          "q": "How do I get to the Uetliberg with my dog?",
+          "a": "Take the S10 train from Zurich Hauptbahnhof to Uetliberg station (about 20 minutes). The S10 follows ZVV rules — dogs in a carrier travel free; larger dogs need a half-fare ticket and must wear a muzzle. Source: zvv.ch"
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils être sans laisse à Zurich ?",
+          "a": "Des zones de liberté désignées existent dans plusieurs parcs zurichois et dans les forêts de l'Uetliberg et du Sihlwald. L'autorité des parcs de la ville (Grün Stadt Zürich) publie une carte en ligne des zones canines désignées. Les règles de laisse s'appliquent sur la promenade principale du lac et la plupart des rues publiques."
+        },
+        {
+          "q": "Le lac Zürichsee est-il accessible pour la baignade canine ?",
+          "a": "Oui, loin des plages principales. Les chiens sont interdits dans les principales plages (Seebad) pendant la saison estivale. Des points d'accès à l'eau pour chiens existent le long des sections plus calmes des deux rives. Vérifiez toujours la signalisation en vigueur."
+        },
+        {
+          "q": "Comment rejoindre l'Uetliberg avec mon chien ?",
+          "a": "Prenez le train S10 depuis la Zürich Hauptbahnhof jusqu'à la station Uetliberg (environ 20 minutes). Le S10 suit les règles ZVV — les chiens dans un sac voyagent gratuitement ; les chiens plus grands ont besoin d'un billet demi-tarif et doivent porter une muselière. Source : zvv.ch"
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden ir los perros sin correa en Zúrich?",
+          "a": "Existen zonas sin correa designadas en varios parques de Zúrich y en los bosques del Uetliberg y Sihlwald. La autoridad de parques de la ciudad (Grün Stadt Zürich) publica un mapa online de las zonas caninas designadas. Las normas de correa se aplican en el paseo principal del lago y la mayoría de las calles públicas."
+        },
+        {
+          "q": "¿Es el lago Zürichsee accesible para nadar con perros?",
+          "a": "Sí, alejado de las playas principales. Los perros están prohibidos en las principales playas de baño (Seebad) durante la temporada de verano. Los puntos de acceso al agua para perros existen a lo largo de las secciones más tranquilas de ambas orillas. Comprueba siempre la señalización actual."
+        },
+        {
+          "q": "¿Cómo llego al Uetliberg con mi perro?",
+          "a": "Toma el tren S10 desde la Hauptbahnhof de Zúrich hasta la estación Uetliberg (unos 20 minutos). El S10 sigue las normas ZVV — los perros en bolsa viajan gratis; los perros más grandes necesitan un billete de tarifa reducida y deben llevar bozal. Fuente: zvv.ch"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Zurich",
+      "titleFr": "Voyager avec son animal à Zurich",
+      "titleEs": "Viajar con mascotas en Zúrich",
+      "introEn": "Zurich's ZVV public transport network (tram, S-Bahn, bus, lake boats) is one of the world's most efficient. For dogs, the rules are consistent: dogs in a carrier travel free; larger dogs need a half-fare ticket and must wear a muzzle on all ZVV services. The SBB (Swiss Federal Railways) follows similar rules for intercity rail. Source: zvv.ch and sbb.ch",
+      "introFr": "Le réseau de transport public ZVV de Zurich (tram, S-Bahn, bus, bateaux du lac) est l'un des plus efficaces au monde. Pour les chiens, les règles sont cohérentes : les chiens dans un sac voyagent gratuitement ; les chiens plus grands ont besoin d'un billet demi-tarif et doivent porter une muselière sur tous les services ZVV. Les CFF (Chemins de fer fédéraux suisses) suivent des règles similaires pour les trains intercités. Sources : zvv.ch et sbb.ch",
+      "introEs": "La red de transporte público ZVV de Zúrich (tranvía, S-Bahn, autobús, barcos del lago) es una de las más eficientes del mundo. Para los perros, las normas son consistentes: los perros en bolsa viajan gratis; los perros más grandes necesitan un billete de tarifa reducida y deben llevar bozal en todos los servicios ZVV. Los FFS (Ferrocarriles Federales Suizos) siguen normas similares para el tren de largo recorrido. Fuente: zvv.ch y sbb.ch",
+      "rules": [
+        {
+          "mode": "Tram, S-Bahn & Bus (ZVV)",
+          "modeFr": "Tram, S-Bahn & Bus (ZVV)",
+          "modeEs": "Tranvía, S-Bahn & Autobús (ZVV)",
+          "policy": "Dogs in a carrier bag: free. Larger dogs: half-fare ticket + muzzle mandatory. Dogs cannot sit on seats. Source: zvv.ch",
+          "policyFr": "Chiens dans un sac de transport : gratuit. Chiens plus grands : billet demi-tarif + muselière obligatoire. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : zvv.ch",
+          "policyEs": "Perros en bolsa de transporte: gratis. Perros más grandes: billete de tarifa reducida + bozal obligatorio. Los perros no pueden ocupar asientos. Fuente: zvv.ch",
+          "tip": "The ZVV app (on iOS/Android) allows you to buy half-fare dog tickets easily. Inspectors check on trams and S-Bahn.",
+          "tipFr": "L'application ZVV (iOS/Android) permet d'acheter facilement des billets demi-tarif pour chien. Les contrôleurs vérifient dans les trams et le S-Bahn.",
+          "tipEs": "La app ZVV (iOS/Android) permite comprar fácilmente billetes de tarifa reducida para perros. Los inspectores comprueban en tranvías y S-Bahn."
+        },
+        {
+          "mode": "Lake Boats (ZVV Zürichsee)",
+          "modeFr": "Bateaux du lac (ZVV Zürichsee)",
+          "modeEs": "Barcos del lago (ZVV Zürichsee)",
+          "policy": "Dogs follow the same ZVV rules: in a carrier, free; larger dogs, half-fare ticket + muzzle. Dogs are permitted on all lake boat services.",
+          "policyFr": "Les chiens suivent les mêmes règles ZVV : dans un sac, gratuit ; chiens plus grands, billet demi-tarif + muselière. Les chiens sont autorisés sur tous les services de bateaux du lac.",
+          "policyEs": "Los perros siguen las mismas normas ZVV: en bolsa, gratis; perros más grandes, billete de tarifa reducida + bozal. Los perros están permitidos en todos los servicios de barcos del lago.",
+          "tip": "A lake boat circuit of the Zürichsee is one of Zurich's most enjoyable dog-friendly activities. Dogs love the open deck.",
+          "tipFr": "Un circuit en bateau sur le Zürichsee est l'une des activités dog-friendly les plus agréables de Zurich. Les chiens adorent le pont ouvert.",
+          "tipEs": "Un circuito en barco por el Zürichsee es una de las actividades más agradables para perros en Zúrich. A los perros les encanta la cubierta abierta."
+        },
+        {
+          "mode": "SBB Intercity Rail (Swiss Federal Railways)",
+          "modeFr": "Trains intercités CFF (Chemins de fer fédéraux suisses)",
+          "modeEs": "Tren intercity SBB (Ferrocarriles Federales Suizos)",
+          "policy": "Dogs in carrier: free. Larger dogs: half-fare ticket + muzzle at all times. Dogs cannot sit on seats. Source: sbb.ch",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : billet demi-tarif + muselière en permanence. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : sbb.ch",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete de tarifa reducida + bozal en todo momento. Los perros no pueden ocupar asientos. Fuente: sbb.ch",
+          "tip": "Zurich Hauptbahnhof is Switzerland's largest station. The SBB connects Zurich to Basel (1h), Geneva (3h), and Lucerne (45 min) — all excellent dog-travel routes.",
+          "tipFr": "La Zürich Hauptbahnhof est la plus grande gare de Suisse. Les CFF connectent Zurich à Bâle (1h), Genève (3h) et Lucerne (45 min) — d'excellentes destinations avec un chien.",
+          "tipEs": "La Hauptbahnhof de Zúrich es la estación más grande de Suiza. Los FFS conectan Zúrich con Basilea (1h), Ginebra (3h) y Lucerna (45 min) — excelentes rutas de viaje con perro."
+        },
+        {
+          "mode": "Uetliberg S10 & Felsenegg Cable Car",
+          "modeFr": "S10 Uetliberg & Téléphérique Felsenegg",
+          "modeEs": "S10 Uetliberg & Teleférico Felsenegg",
+          "policy": "The S10 follows standard ZVV rules (dog in carrier: free; larger dogs: half-fare + muzzle). The Felsenegg cable car (Luftseilbahn Adliswil-Felsenegg) allows dogs — same ZVV rules apply.",
+          "policyFr": "Le S10 suit les règles ZVV standard (chien en sac : gratuit ; chiens plus grands : demi-tarif + muselière). Le téléphérique de Felsenegg (Luftseilbahn Adliswil-Felsenegg) accepte les chiens — mêmes règles ZVV.",
+          "policyEs": "El S10 sigue las normas ZVV estándar (perro en bolsa: gratis; perros más grandes: tarifa reducida + bozal). El teleférico de Felsenegg (Luftseilbahn Adliswil-Felsenegg) permite perros — mismas normas ZVV.",
+          "tip": "The Felsenegg cable car is a classic Zurich outing. Dogs are welcome on board and the views from the top are spectacular.",
+          "tipFr": "Le téléphérique de Felsenegg est une sortie classique de Zurich. Les chiens sont bienvenus à bord et la vue depuis le sommet est spectaculaire.",
+          "tipEs": "El teleférico de Felsenegg es una excursión clásica de Zúrich. Los perros son bienvenidos a bordo y las vistas desde arriba son espectaculares."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "ZVV app and tickets: zvv.ch. All Zurich public transport. SBB national rail: sbb.ch. Swiss intercity trains. The SBB app is the best way to buy tickets and plan routes for Swiss travel.",
+          "contentFr": "Application et billets ZVV : zvv.ch. Tous les transports publics zurichois. CFF trains nationaux : sbb.ch. Trains intercités suisses. L'application CFF est le meilleur moyen d'acheter des billets et planifier des trajets pour les voyages en Suisse.",
+          "contentEs": "App y billetes ZVV: zvv.ch. Todo el transporte público de Zúrich. FFS trenes nacionales: sbb.ch. Trenes intercity suizos. La app FFS es la mejor manera de comprar billetes y planificar rutas para viajar por Suiza."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on Zurich trams?",
+          "a": "Yes. Dogs in a carrier travel free. Larger dogs need a half-fare ticket and must wear a muzzle. Source: zvv.ch. This rule applies to all ZVV trams, buses, S-Bahn, and lake boats."
+        },
+        {
+          "q": "Do dogs need a muzzle on Zurich public transport?",
+          "a": "Yes — all dogs larger than a carry-bag must wear a muzzle on all ZVV services. This is a firm rule and inspectors check. Source: zvv.ch"
+        },
+        {
+          "q": "Can I take my dog on SBB trains to other Swiss cities?",
+          "a": "Yes. SBB intercity trains allow dogs. In a carrier, dogs travel free. Larger dogs need a half-fare ticket and must wear a muzzle. Book tickets at sbb.ch."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre les trams de Zurich avec mon chien ?",
+          "a": "Oui. Les chiens dans un sac voyagent gratuitement. Les chiens plus grands ont besoin d'un billet demi-tarif et doivent porter une muselière. Source : zvv.ch. Cette règle s'applique à tous les trams, bus, S-Bahn et bateaux du lac ZVV."
+        },
+        {
+          "q": "Les chiens doivent-ils porter une muselière dans les transports zurichois ?",
+          "a": "Oui — tous les chiens plus grands qu'un sac de transport doivent porter une muselière dans tous les services ZVV. C'est une règle stricte et les contrôleurs vérifient. Source : zvv.ch"
+        },
+        {
+          "q": "Puis-je prendre les trains CFF avec mon chien vers d'autres villes suisses ?",
+          "a": "Oui. Les trains intercités CFF acceptent les chiens. Dans un sac, les chiens voyagent gratuitement. Les chiens plus grands ont besoin d'un billet demi-tarif et doivent porter une muselière. Achetez vos billets sur sbb.ch."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en los tranvías de Zúrich?",
+          "a": "Sí. Los perros en bolsa viajan gratis. Los perros más grandes necesitan un billete de tarifa reducida y deben llevar bozal. Fuente: zvv.ch. Esta norma se aplica a todos los tranvías, autobuses, S-Bahn y barcos del lago ZVV."
+        },
+        {
+          "q": "¿Los perros necesitan bozal en el transporte público de Zúrich?",
+          "a": "Sí — todos los perros más grandes que una bolsa de transporte deben llevar bozal en todos los servicios ZVV. Esta es una norma firme y los inspectores comprueban. Fuente: zvv.ch"
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en los trenes FFS a otras ciudades suizas?",
+          "a": "Sí. Los trenes de largo recorrido FFS permiten perros. En bolsa, los perros viajan gratis. Los perros más grandes necesitan un billete de tarifa reducida y deben llevar bozal. Compra billetes en sbb.ch."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Swimming near Zurich",
+      "titleFr": "Lacs et baignade avec son chien près de Zurich",
+      "titleEs": "Lagos y zonas de baño para perros cerca de Zúrich",
+      "introEn": "Zurich's greatest natural asset is the Zürichsee lake and the surrounding Alpine lakes within 1–2 hours by car or train. The lake water is exceptionally clean and swimming is excellent. However, dogs are banned from most main bathing beaches (Badis) from May to September — the Swiss enforce this rule firmly. Dog-friendly swimming spots exist on quieter sections of shore. In winter, dogs often have much more access.",
+      "introFr": "Le plus grand atout naturel de Zurich est le lac Zürichsee et les lacs alpins environnants accessibles en 1 à 2 heures en voiture ou en train. L'eau du lac est exceptionnellement propre et la baignade est excellente. Cependant, les chiens sont interdits dans la plupart des principales plages de baignade (Badis) de mai à septembre — les Suisses appliquent cette règle fermement. Des spots de baignade dog-friendly existent sur les sections plus calmes du rivage. En hiver, les chiens bénéficient souvent d'un accès beaucoup plus large.",
+      "introEs": "El mayor activo natural de Zúrich es el lago Zürichsee y los lagos alpinos circundantes a 1–2 horas en coche o tren. El agua del lago es excepcionalmente limpia y la natación es excelente. Sin embargo, los perros están prohibidos en la mayoría de las principales playas de baño (Badis) de mayo a septiembre — los suizos aplican esta norma firmemente. Los puntos de natación amigables con perros existen en secciones más tranquilas de la orilla. En invierno, los perros suelen tener mucho más acceso.",
+      "places": [
+        {
+          "name": "Zürichsee — Dog-Accessible Shores",
+          "distance": "Walking distance from city centre (depending on section)",
+          "description": "Several sections of the Zürichsee shoreline are accessible to dogs outside the main bathing beach zones. The eastern shore (Seepromenade from Riesbach to Zollikon) has quiet stretches where dogs can reach the water. The Zürichhorn Park area on the eastern side also has some dog-accessible lake access. Always check seasonal signage — the city's rules are updated each spring.",
+          "season": "Year-round on quiet sections. Restrictions apply May–September on main beaches",
+          "rules": "Dogs prohibited from Badis (official bathing establishments) May–September. Accessible at quiet shore sections year-round. Always check local signage.",
+          "facilities": "Tram and S-Bahn access throughout. Cafés along both shores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Z%C3%BCrichsee+Z%C3%BCrich"
+        },
+        {
+          "name": "Greifensee (Lake Greifen)",
+          "distance": "25 min by S-Bahn (S8) from Zurich city centre",
+          "description": "A smaller lake east of Zurich in the Glatt Valley, the Greifensee is a UNESCO wetlands reserve surrounded by reed beds and meadows. It is considerably quieter than the Zürichsee and generally more dog-permissive at its shore access points. The lake walk (17 km circumference) is entirely accessible to dogs on a leash. Excellent for a half-day outing.",
+          "season": "Year-round",
+          "rules": "Dogs on leash on the perimeter path. Dog-accessible swimming at several shore points away from the wetland protection zones.",
+          "facilities": "S-Bahn to Greifensee station, parking, local cafés",
+          "googleMapsUrl": "https://maps.google.com/?q=Greifensee+Z%C3%BCrich"
+        },
+        {
+          "name": "Türlersee",
+          "distance": "30 min by car from Zurich city centre",
+          "description": "A small, quiet lake in the Albis hills south of Zurich, the Türlersee is the most dog-friendly swimming lake in the Zurich region. Dogs are permitted at several shore access points. The lake is calm and shallow, making it suitable for dogs of all swimming abilities. Combine with a walk through the surrounding Sihlwald forest for a full half-day outing.",
+          "season": "Year-round. Best May–October for swimming",
+          "rules": "Dogs generally permitted on the quieter sections of shore. Check local signage. No designated dog prohibition as of the most recent published information.",
+          "facilities": "Parking at Türlersee, basic facilities, cafés in Stallikon village nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=T%C3%BCrlersee"
+        }
+      ],
+      "tipsEn": [
+        "Swiss lake dog rules are strict from May to September. The main Badis (bathing establishments) prohibit dogs. Always check seasonal signage before entering any lake shore area.",
+        "The Greifensee and Türlersee are more dog-permissive than the Zürichsee in summer.",
+        "The Zürichsee lake boats (ZVV) are dog-friendly — a boat trip to Rapperswil (1.5 hours) is an excellent day outing.",
+        "In winter (October–April), dog access to most lake shores improves significantly as bathing restrictions lift."
+      ],
+      "tipsFr": [
+        "Les règles suisses pour les chiens dans les lacs sont strictes de mai à septembre. Les principaux Badis (établissements de baignade) interdisent les chiens. Vérifiez toujours la signalisation saisonnière avant d'accéder à n'importe quelle rive.",
+        "Le Greifensee et le Türlersee sont plus permissifs que le Zürichsee en été.",
+        "Les bateaux du lac Zürichsee (ZVV) sont dog-friendly — un trajet en bateau jusqu'à Rapperswil (1h30) est une excellente sortie d'une journée.",
+        "En hiver (octobre–avril), l'accès des chiens à la plupart des rives des lacs s'améliore considérablement avec la levée des restrictions de baignade."
+      ],
+      "tipsEs": [
+        "Las normas suizas para perros en los lagos son estrictas de mayo a septiembre. Los principales Badis (establecimientos de baño) prohíben perros. Siempre comprueba la señalización estacional antes de entrar en cualquier zona de orilla del lago.",
+        "El Greifensee y el Türlersee son más permisivos que el Zürichsee en verano.",
+        "Los barcos del lago Zürichsee (ZVV) son amigables con los perros — un viaje en barco a Rapperswil (1,5 horas) es una excelente excursión de un día.",
+        "En invierno (octubre–abril), el acceso de los perros a la mayoría de las orillas de los lagos mejora significativamente al levantarse las restricciones de baño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in Lake Zurich?",
+          "a": "Yes, but not at the main bathing beaches. Dogs are prohibited from the Badis (official bathing establishments) from May to September. Dog-accessible water points exist on quieter sections of both shores, particularly the eastern Seepromenade. In winter, access improves significantly."
+        },
+        {
+          "q": "Which lake near Zurich is most dog-friendly?",
+          "a": "The Türlersee south of Zurich is the most consistently dog-permissive lake in the region. The Greifensee is also good. Both are accessible by public transport or car within 30 minutes."
+        },
+        {
+          "q": "Can I take a lake boat with my dog on the Zürichsee?",
+          "a": "Yes. The ZVV lake boats on the Zürichsee allow dogs following standard ZVV rules: in a carrier, free; larger dogs, half-fare ticket + muzzle. A full lake circuit or a trip to Rapperswil is one of the best dog-friendly activities from Zurich."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le lac de Zurich ?",
+          "a": "Oui, mais pas dans les plages principales. Les chiens sont interdits dans les Badis (établissements de baignade officiels) de mai à septembre. Des points d'accès à l'eau pour chiens existent sur des sections plus calmes des deux rives, notamment la Seepromenade est. En hiver, l'accès s'améliore considérablement."
+        },
+        {
+          "q": "Quel lac près de Zurich est le plus dog-friendly ?",
+          "a": "Le Türlersee au sud de Zurich est le lac le plus systématiquement permissif de la région pour les chiens. Le Greifensee est également bon. Les deux sont accessibles en transports en commun ou en voiture en 30 minutes."
+        },
+        {
+          "q": "Puis-je prendre le bateau du lac avec mon chien sur le Zürichsee ?",
+          "a": "Oui. Les bateaux du lac ZVV sur le Zürichsee acceptent les chiens selon les règles ZVV standard : dans un sac, gratuit ; chiens plus grands, billet demi-tarif + muselière. Un circuit complet du lac ou un trajet jusqu'à Rapperswil est l'une des meilleures activités dog-friendly depuis Zurich."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en el lago de Zúrich?",
+          "a": "Sí, pero no en las playas principales. Los perros están prohibidos en los Badis (establecimientos de baño oficiales) de mayo a septiembre. Los puntos de acceso al agua para perros existen en secciones más tranquilas de ambas orillas, especialmente la Seepromenade oriental. En invierno, el acceso mejora significativamente."
+        },
+        {
+          "q": "¿Qué lago cerca de Zúrich es más amigable con los perros?",
+          "a": "El Türlersee al sur de Zúrich es el lago más consistentemente permisivo con los perros en la región. El Greifensee también es bueno. Ambos son accesibles en transporte público o coche en 30 minutos."
+        },
+        {
+          "q": "¿Puedo tomar un barco del lago con mi perro en el Zürichsee?",
+          "a": "Sí. Los barcos del lago ZVV en el Zürichsee permiten perros siguiendo las normas estándar ZVV: en bolsa, gratis; perros más grandes, billete de tarifa reducida + bozal. Un circuito completo del lago o un viaje a Rapperswil es una de las mejores actividades amigables con perros desde Zúrich."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Zurich",
+      "titleFr": "Vétérinaires et urgences vétérinaires à Zurich",
+      "titleEs": "Veterinarios y urgencias veterinarias en Zúrich",
+      "introEn": "Zurich has excellent veterinary facilities, including the renowned Vetsuisse Faculty of the University of Zurich, which provides 24-hour emergency care. Swiss veterinary costs are among the highest in Europe — pet insurance is strongly recommended if you plan to visit with a dog. Always call ahead before visiting any clinic, particularly outside regular business hours.",
+      "introFr": "Zurich dispose d'excellentes installations vétérinaires, notamment la renommée Faculté Vetsuisse de l'Université de Zurich, qui assure des soins d'urgence 24h/24. Les coûts vétérinaires suisses sont parmi les plus élevés d'Europe — l'assurance animaux est fortement recommandée si vous prévoyez une visite avec un chien. Appelez toujours avant de vous rendre dans une clinique, notamment en dehors des heures d'ouverture normales.",
+      "introEs": "Zúrich tiene excelentes instalaciones veterinarias, incluyendo la reconocida Facultad Vetsuisse de la Universidad de Zúrich, que proporciona atención de emergencia las 24 horas. Los costos veterinarios suizos son de los más altos de Europa — se recomienda encarecidamente el seguro para mascotas si planeas visitar con un perro. Siempre llama antes de visitar cualquier clínica, especialmente fuera del horario comercial habitual.",
+      "places": [
+        {
+          "name": "Vetsuisse — Universitätsspital für Kleintiere",
+          "address": "Winterthurerstrasse 260, 8057 Zürich",
+          "neighborhood": "Oerlikon",
+          "photo": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tierspital.uzh.ch/",
+          "description": "The small animal hospital of the University of Zurich's Vetsuisse Faculty is Switzerland's leading veterinary teaching hospital, providing 24-hour emergency care and specialist services across all disciplines. It handles the most complex cases and is the most reliable emergency option in the Zurich region. Located in Oerlikon, accessible by tram and S-Bahn.",
+          "descriptionFr": "L'hôpital pour petits animaux de la Faculté Vetsuisse de l'Université de Zurich est le principal hôpital vétérinaire universitaire de Suisse, assurant des soins d'urgence 24h/24 et des services spécialisés dans toutes les disciplines. Il prend en charge les cas les plus complexes et est l'option d'urgence la plus fiable dans la région de Zurich. Situé à Oerlikon, accessible en tram et S-Bahn.",
+          "descriptionEs": "El hospital de animales pequeños de la Facultad Vetsuisse de la Universidad de Zúrich es el principal hospital veterinario universitario de Suiza, que proporciona atención de emergencia las 24 horas y servicios especializados en todas las disciplinas. Maneja los casos más complejos y es la opción de emergencia más fiable en la región de Zúrich.",
+          "petPolicy": "24-hour emergency care. All species accepted",
+          "petPolicyFr": "Soins d'urgence 24h/24. Toutes espèces acceptées",
+          "petPolicyEs": "Atención de urgencias 24 horas. Todas las especies admitidas",
+          "priceRange": "€€€€",
+          "openingHours": "24 hours, 7 days a week",
+          "tip": "Swiss vet costs are extremely high. Always have pet insurance before arriving in Switzerland",
+          "tipFr": "Les frais vétérinaires suisses sont très élevés. Ayez toujours une assurance animaux avant d'arriver en Suisse",
+          "tipEs": "Los costos veterinarios suizos son extremadamente altos. Siempre ten seguro para mascotas antes de llegar a Suiza",
+          "googleMapsUrl": "https://maps.google.com/?q=Vetsuisse+Universit%C3%A4tsspital+Z%C3%BCrich"
+        },
+        {
+          "name": "Kleintierpraxis Wiedikon",
+          "address": "Birmensdorferstraße 113, 8003 Zürich",
+          "neighborhood": "Wiedikon (Kreis 3)",
+          "photo": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.kleintierpraxis-wiedikon.ch/",
+          "description": "A well-regarded general practice in the Wiedikon neighbourhood, centrally located for dogs staying in the southern and western districts. Offers routine consultations, vaccinations, and minor treatments. Not a 24-hour emergency clinic — always call ahead to confirm availability.",
+          "descriptionFr": "Un cabinet généraliste apprécié dans le quartier Wiedikon, idéalement situé pour les chiens logeant dans les arrondissements sud et ouest. Propose des consultations de routine, vaccinations et traitements mineurs. Ce n'est pas une clinique d'urgence 24h/24 — appelez toujours d'abord pour confirmer les disponibilités.",
+          "descriptionEs": "Una consulta generalista bien considerada en el barrio Wiedikon, convenientemente ubicada para perros que se alojan en los distritos sur y oeste. Ofrece consultas de rutina, vacunaciones y tratamientos menores. No es una clínica de emergencias 24 horas — siempre llama para confirmar disponibilidad.",
+          "petPolicy": "Dogs and cats. Appointment required",
+          "petPolicyFr": "Chiens et chats. Rendez-vous obligatoire",
+          "petPolicyEs": "Perros y gatos. Cita obligatoria",
+          "priceRange": "€€€",
+          "openingHours": "Mon–Fri 08:00–18:00, Sat 08:00–12:00",
+          "tip": "For routine care during your visit, book at least 3–4 days in advance. For emergencies, go to Vetsuisse",
+          "tipFr": "Pour les soins de routine pendant votre visite, réservez au moins 3 à 4 jours à l'avance. Pour les urgences, allez à la Vetsuisse",
+          "tipEs": "Para cuidados rutinarios durante tu visita, reserva con al menos 3–4 días de antelación. Para emergencias, ve a Vetsuisse",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Wiedikon+Z%C3%BCrich"
+        }
+      ],
+      "tipsEn": [
+        "Swiss veterinary costs are among the highest in Europe. Emergency treatment at Vetsuisse can easily cost several thousand Swiss francs. Pet insurance is essential.",
+        "The Vetsuisse University Hospital (Winterthurerstrasse 260) is the most reliable 24-hour emergency vet in Zurich.",
+        "Bring your dog's EU or Swiss pet passport and vaccination records — Swiss vets require them.",
+        "Swiss vets require appointments for routine visits. Walk-ins are only accepted for genuine emergencies."
+      ],
+      "tipsFr": [
+        "Les frais vétérinaires suisses sont parmi les plus élevés d'Europe. Un traitement d'urgence à la Vetsuisse peut facilement coûter plusieurs milliers de francs suisses. L'assurance animaux est indispensable.",
+        "L'hôpital universitaire Vetsuisse (Winterthurerstrasse 260) est le vétérinaire d'urgence 24h/24 le plus fiable de Zurich.",
+        "Apportez le passeport européen ou suisse pour animaux et les carnets de vaccination de votre chien — les vétérinaires suisses les demandent.",
+        "Les vétérinaires suisses exigent des rendez-vous pour les visites de routine. Les consultations sans rendez-vous ne sont acceptées qu'en cas de vraie urgence."
+      ],
+      "tipsEs": [
+        "Los costos veterinarios suizos son de los más altos de Europa. El tratamiento de emergencia en Vetsuisse puede fácilmente costar varios miles de francos suizos. El seguro para mascotas es esencial.",
+        "El Hospital Universitario Vetsuisse (Winterthurerstrasse 260) es el veterinario de urgencias 24 horas más fiable en Zúrich.",
+        "Trae el pasaporte europeo o suizo para mascotas y los registros de vacunación de tu perro — los veterinarios suizos los requieren.",
+        "Los veterinarios suizos requieren citas para visitas de rutina. Las visitas sin cita solo se aceptan para emergencias genuinas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Zurich?",
+          "a": "Yes. The Vetsuisse Universitätsspital für Kleintiere (Winterthurerstrasse 260, 8057 Zurich) provides genuine 24-hour emergency care every day of the year. It is Switzerland's leading veterinary university hospital."
+        },
+        {
+          "q": "How expensive is emergency vet care in Zurich?",
+          "a": "Very expensive by European standards. An emergency consultation alone can cost CHF 200–500+, with treatment costs scaling rapidly. Pet insurance valid in Switzerland is strongly recommended before visiting."
+        },
+        {
+          "q": "Will Zurich vets accept my dog's EU pet passport?",
+          "a": "Yes. Switzerland has bilateral agreements with the EU, and EU pet passports are accepted. Ensure your dog's rabies vaccination is current and that the microchip number matches the passport."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Zurich ?",
+          "a": "Oui. Le Vetsuisse Universitätsspital für Kleintiere (Winterthurerstrasse 260, 8057 Zurich) assure une permanence d'urgence 24h/24 tous les jours de l'année. C'est le principal hôpital vétérinaire universitaire de Suisse."
+        },
+        {
+          "q": "Combien coûtent les soins vétérinaires d'urgence à Zurich ?",
+          "a": "Très chers selon les standards européens. Une consultation d'urgence seule peut coûter 200 à 500 CHF et plus, les frais de traitement augmentant rapidement. L'assurance animaux valable en Suisse est fortement recommandée avant de visiter."
+        },
+        {
+          "q": "Les vétérinaires zurichois acceptent-ils le passeport européen pour animaux de mon chien ?",
+          "a": "Oui. La Suisse dispose d'accords bilatéraux avec l'UE et les passeports européens pour animaux sont acceptés. Assurez-vous que la vaccination antirabique de votre chien est à jour et que le numéro de puce correspond au passeport."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias 24 horas en Zúrich?",
+          "a": "Sí. El Vetsuisse Universitätsspital für Kleintiere (Winterthurerstrasse 260, 8057 Zúrich) proporciona atención de emergencia genuina las 24 horas, todos los días del año. Es el principal hospital veterinario universitario de Suiza."
+        },
+        {
+          "q": "¿Cuánto cuesta la atención veterinaria de emergencia en Zúrich?",
+          "a": "Muy cara según los estándares europeos. Una consulta de emergencia sola puede costar 200–500 CHF o más, con costos de tratamiento que escalan rápidamente. Se recomienda encarecidamente un seguro para mascotas válido en Suiza antes de visitar."
+        },
+        {
+          "q": "¿Los veterinarios de Zúrich aceptarán el pasaporte europeo para mascotas de mi perro?",
+          "a": "Sí. Suiza tiene acuerdos bilaterales con la UE y se aceptan los pasaportes europeos para mascotas. Asegúrate de que la vacunación antirrábica de tu perro esté vigente y que el número del microchip coincida con el pasaporte."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "General Dog Travel Tips for Zurich",
+      "titleFr": "Conseils généraux pour voyager avec son chien à Zurich",
+      "titleEs": "Consejos generales para viajar con perro a Zúrich",
+      "introEn": "Zurich is a clean, orderly, and dog-friendly city. Swiss rules regarding dogs in public spaces are clearer and more consistently enforced than in many other European cities. Understanding the system — muzzle on transport, leash in most public areas, designated off-leash zones — makes everything run smoothly.",
+      "introFr": "Zurich est une ville propre, ordonnée et dog-friendly. Les règles suisses concernant les chiens dans les espaces publics sont plus claires et plus systématiquement appliquées que dans de nombreuses autres villes européennes. Comprendre le système — muselière dans les transports, laisse dans la plupart des espaces publics, zones de liberté désignées — fait tout fonctionner sans accroc.",
+      "introEs": "Zúrich es una ciudad limpia, ordenada y amigable con los perros. Las normas suizas sobre perros en espacios públicos son más claras y se aplican de forma más consistente que en muchas otras ciudades europeas. Entender el sistema — bozal en el transporte, correa en la mayoría de los espacios públicos, zonas sin correa designadas — hace que todo funcione sin problemas.",
+      "places": [],
+      "tipsEn": [
+        "Swiss dog rules: leash in all public streets and parks (unless designated off-leash). Muzzle + half-fare ticket on all public transport. These rules are enforced.",
+        "Zurich is one of the world's most expensive cities. Budget CHF 80–120 per day for accommodation, transport, food, and dog costs.",
+        "The ZVV transport day pass covers all trams, buses, boats, and S-Bahn within the Zurich transport zone. Add a half-fare dog ticket when needed.",
+        "Many Zurich shops allow dogs. Look for a dog sticker on the door. The Globus department store on Bahnhofstrasse does not allow dogs.",
+        "Swiss pet insurance is not required for tourists but is strongly recommended given the high veterinary costs in Switzerland."
+      ],
+      "tipsFr": [
+        "Règles suisses pour les chiens : laisse dans toutes les rues et parcs publics (sauf zones désignées). Muselière + billet demi-tarif dans tous les transports. Ces règles sont appliquées.",
+        "Zurich est l'une des villes les plus chères au monde. Prévoyez 80 à 120 CHF par jour pour l'hébergement, les transports, la nourriture et les frais liés au chien.",
+        "Le pass journalier ZVV couvre tous les trams, bus, bateaux et S-Bahn dans la zone de transport zurichoise. Ajoutez un billet demi-tarif pour chien si nécessaire.",
+        "De nombreuses boutiques zurichoises acceptent les chiens. Cherchez un autocollant de chien sur la porte. Le grand magasin Globus sur la Bahnhofstrasse n'autorise pas les chiens.",
+        "L'assurance animaux suisse n'est pas obligatoire pour les touristes mais est fortement recommandée compte tenu des coûts vétérinaires élevés en Suisse."
+      ],
+      "tipsEs": [
+        "Normas suizas para perros: correa en todas las calles y parques públicos (excepto zonas sin correa designadas). Bozal + billete de tarifa reducida en todos los transportes. Estas normas se aplican.",
+        "Zúrich es una de las ciudades más caras del mundo. Presupuesta 80–120 CHF por día para alojamiento, transporte, comida y costos relacionados con el perro.",
+        "El pase de día ZVV cubre todos los tranvías, autobuses, barcos y S-Bahn dentro de la zona de transporte de Zúrich. Añade un billete de tarifa reducida para perros cuando sea necesario.",
+        "Muchas tiendas de Zúrich permiten perros. Busca una pegatina de perro en la puerta. Los grandes almacenes Globus en la Bahnhofstrasse no permiten perros.",
+        "El seguro suizo para mascotas no es obligatorio para turistas pero se recomienda encarecidamente dados los altos costos veterinarios en Suiza."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Zurich a dog-friendly city?",
+          "a": "Yes, very much. Switzerland has a strong culture of respect for animals in public, and Zurich reflects this. Dogs are commonly seen in cafés, shops, and public transport. The rules are clear and consistently enforced, which makes navigation easy once you understand them."
+        },
+        {
+          "q": "Do I need to register my dog in Zurich as a tourist?",
+          "a": "No. Dog registration and the Swiss Hundesteuer apply to Swiss residents. Tourists visiting with dogs for short periods are exempt from registration requirements."
+        },
+        {
+          "q": "Can I bring my dog to Zurich on a Eurostar or train from Germany/Austria?",
+          "a": "Yes. Dogs can travel on DB, ÖBB, and SBB international trains. In a carrier: free. Larger dogs: half-fare (SBB) or child ticket (DB/ÖBB) + muzzle. Check the specific operator's rules for the cross-border service you're using."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Zurich est-elle une ville dog-friendly ?",
+          "a": "Oui, très. La Suisse a une forte culture de respect des animaux en public, et Zurich en est le reflet. Les chiens sont couramment vus dans les cafés, commerces et transports en commun. Les règles sont claires et systématiquement appliquées, ce qui facilite la navigation une fois qu'on les comprend."
+        },
+        {
+          "q": "Dois-je enregistrer mon chien à Zurich en tant que touriste ?",
+          "a": "Non. L'enregistrement des chiens et la Hundesteuer suisse s'appliquent aux résidents suisses. Les touristes visitant avec leur chien pour de courts séjours sont exemptés des exigences d'enregistrement."
+        },
+        {
+          "q": "Puis-je amener mon chien à Zurich en train depuis l'Allemagne ou l'Autriche ?",
+          "a": "Oui. Les chiens peuvent voyager sur les trains internationaux DB, ÖBB et CFF. Dans un sac : gratuit. Chiens plus grands : demi-tarif (CFF) ou ticket enfant (DB/ÖBB) + muselière. Consultez les règles de l'opérateur spécifique pour le service transfrontalier utilisé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Zúrich una ciudad amigable con los perros?",
+          "a": "Sí, mucho. Suiza tiene una fuerte cultura de respeto por los animales en público, y Zúrich lo refleja. Los perros son vistos comúnmente en cafés, tiendas y transporte público. Las normas son claras y se aplican de forma consistente, lo que facilita la navegación una vez que las entiendes."
+        },
+        {
+          "q": "¿Necesito registrar a mi perro en Zúrich como turista?",
+          "a": "No. El registro de perros y el Hundesteuer suizo se aplican a los residentes suizos. Los turistas que visitan con perros por períodos cortos están exentos de los requisitos de registro."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a Zúrich en tren desde Alemania o Austria?",
+          "a": "Sí. Los perros pueden viajar en trenes internacionales de DB, ÖBB y FFS. En bolsa: gratis. Perros más grandes: tarifa reducida (FFS) o billete de niño (DB/ÖBB) + bozal. Comprueba las normas del operador específico para el servicio transfronterizo que uses."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Zurich",
+      "titleFr": "Attractions dog-friendly à Zurich",
+      "titleEs": "Atracciones para perros en Zúrich",
+      "introEn": "Zurich's attractions are concentrated in its beautiful old town (Altstadt), lake promenade, and surrounding hills. Most outdoor attractions are accessible with a dog on a leash. The city's museums and the Kunsthaus art gallery do not admit dogs. The lake boats, the Uetliberg, and the old town cobbled streets are all excellent for exploring with a dog.",
+      "introFr": "Les attractions de Zurich se concentrent dans sa belle vieille ville (Altstadt), la promenade du lac et les collines environnantes. La plupart des attractions extérieures sont accessibles avec un chien en laisse. Les musées de la ville et la Kunsthaus ne l'admettent pas. Les bateaux du lac, l'Uetliberg et les rues pavées de la vieille ville sont excellents à explorer avec un chien.",
+      "introEs": "Las atracciones de Zúrich se concentran en su hermoso casco antiguo (Altstadt), el paseo del lago y las colinas circundantes. La mayoría de las atracciones al aire libre son accesibles con un perro con correa. Los museos de la ciudad y la galería de arte Kunsthaus no admiten perros. Los barcos del lago, el Uetliberg y las calles adoquinadas del casco antiguo son todos excelentes para explorar con un perro.",
+      "places": [
+        {
+          "name": "Altstadt (Old Town) — Niederdorf & Lindenhügel",
+          "address": "Niederdorf, 8001 Zürich",
+          "neighborhood": "Altstadt",
+          "photo": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.zuerich.com/en/visit/nature/old-town",
+          "description": "Zurich's medieval old town is one of the finest in Central Europe: cobbled streets, guild houses, twin towers of the Grossmünster and Fraumünster churches, and the Limmat river running through the middle. Dogs on a leash can walk everywhere in the old town. The narrow alleys of Niederdorf on the east bank and the broader streets of the Lindenhügel on the west bank are equally accessible. One of the most pleasant dog-walks in any European city.",
+          "descriptionFr": "La vieille ville médiévale de Zurich est l'une des plus belles d'Europe centrale : rues pavées, maisons de guildes, les tours jumelles du Grossmünster et du Fraumünster, et la rivière Limmat qui la traverse en son centre. Les chiens en laisse peuvent se promener partout dans la vieille ville. Les ruelles étroites de Niederdorf sur la rive est et les rues plus larges du Lindenhügel sur la rive ouest sont également accessibles. L'une des promenades canines les plus agréables dans n'importe quelle ville européenne.",
+          "descriptionEs": "El casco antiguo medieval de Zúrich es uno de los mejores de Europa Central: calles adoquinadas, casas gremiales, las torres gemelas del Grossmünster y el Fraumünster, y el río Limmat corriendo por el medio. Los perros con correa pueden caminar por todo el casco antiguo. Los estrechos callejones del Niederdorf en la orilla este y las calles más amplias del Lindenhügel en la orilla oeste son igualmente accesibles.",
+          "petPolicy": "Dogs on leash welcome throughout the old town public spaces",
+          "petPolicyFr": "Chiens en laisse bienvenus dans tout l'espace public de la vieille ville",
+          "petPolicyEs": "Perros con correa bienvenidos en todos los espacios públicos del casco antiguo",
+          "priceRange": "Free",
+          "mustTry": "Walk the full Limmatquai along the river, then cross to Niederdorf for the old town lanes",
+          "mustTryFr": "Longer tout le Limmatquai le long de la rivière, puis traverser vers Niederdorf pour les ruelles de la vieille ville",
+          "mustTryEs": "Recorre el Limmatquai completo a lo largo del río, luego cruza al Niederdorf para los callejones del casco antiguo",
+          "openingHours": "Open 24 hours",
+          "tip": "Early morning (before 09:00) is the best time for the old town — empty streets, beautiful light, and your dog has the cobblestones to themselves",
+          "tipFr": "Le matin très tôt (avant 9h) est le meilleur moment pour la vieille ville — rues vides, belle lumière, et votre chien a les pavés pour lui seul",
+          "tipEs": "La madrugada (antes de las 09:00) es el mejor momento para el casco antiguo — calles vacías, hermosa luz y tu perro tiene los adoquines para él solo",
+          "googleMapsUrl": "https://maps.google.com/?q=Niederdorf+Z%C3%BCrich"
+        },
+        {
+          "name": "Zürichsee Lake Boat Tour",
+          "address": "Bürkliplatz, 8001 Zürich",
+          "neighborhood": "City Centre",
+          "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.zsg.ch/en/",
+          "description": "The Zürich Lake Ships (ZSG) operate scenic boat services on the Zürichsee from the Bürkliplatz pier in the city centre. A round trip or a one-way journey to Rapperswil (1.5 hours) with your dog on the open deck is one of Zurich's finest experiences. Dogs follow standard ZVV rules on board. The views of the Glarus Alps from the lake in clear weather are extraordinary.",
+          "descriptionFr": "Les bateaux du lac de Zurich (ZSG) opèrent des services de bateaux panoramiques sur le Zürichsee depuis la jetée de Bürkliplatz au centre-ville. Un aller-retour ou un trajet simple jusqu'à Rapperswil (1h30) avec votre chien sur le pont ouvert est l'une des plus belles expériences de Zurich. Les chiens suivent les règles ZVV standard à bord. Les vues sur les Alpes glaronnaises depuis le lac par temps clair sont extraordinaires.",
+          "descriptionEs": "Los Barcos del Lago de Zúrich (ZSG) operan servicios de barco panorámicos en el Zürichsee desde el muelle de Bürkliplatz en el centro de la ciudad. Un viaje de ida y vuelta o un viaje de una sola dirección a Rapperswil (1,5 horas) con tu perro en la cubierta abierta es una de las mejores experiencias de Zúrich. Los perros siguen las normas ZVV estándar a bordo.",
+          "petPolicy": "Dogs welcome on board (ZVV rules: carrier free; larger dogs half-fare + muzzle)",
+          "petPolicyFr": "Chiens bienvenus à bord (règles ZVV : dans un sac gratuit ; chiens plus grands demi-tarif + muselière)",
+          "petPolicyEs": "Perros bienvenidos a bordo (normas ZVV: en bolsa gratis; perros más grandes tarifa reducida + bozal)",
+          "priceRange": "€€",
+          "mustTry": "Full lake circuit or one-way to Rapperswil — the Alps views from the lake are exceptional in clear weather",
+          "mustTryFr": "Circuit complet du lac ou aller simple jusqu'à Rapperswil — les vues sur les Alpes depuis le lac sont exceptionnelles par temps clair",
+          "mustTryEs": "Circuito completo del lago o solo ida a Rapperswil — las vistas de los Alpes desde el lago son excepcionales con tiempo despejado",
+          "openingHours": "Daily (seasonal schedule). Check zsg.ch for timetable",
+          "tip": "Sit on the upper open deck with your dog. The covered lower deck is less interesting. Best on sunny weekday mornings",
+          "tipFr": "Installez-vous sur le pont supérieur ouvert avec votre chien. Le pont inférieur couvert est moins intéressant. Idéal les matins de semaine ensoleillés",
+          "tipEs": "Siéntate en la cubierta superior abierta con tu perro. La cubierta inferior cubierta es menos interesante. Mejor en mañanas soleadas de días laborables",
+          "googleMapsUrl": "https://maps.google.com/?q=ZSG+B%C3%BCrkliplatz+Z%C3%BCrich"
+        }
+      ],
+      "tipsEn": [
+        "Zurich's outdoor spaces (old town, lake promenade, hills) are all accessible to dogs on a leash.",
+        "The Kunsthaus (art gallery), the National Museum, and most indoor cultural venues do not admit dogs.",
+        "The Uetliberg train (S10) and Felsenegg cable car both allow dogs — the best alpine experience directly from the city.",
+        "Zurich's weekly flea markets (Flohmarkt) and food markets are dog-friendly outdoor events."
+      ],
+      "tipsFr": [
+        "Les espaces extérieurs de Zurich (vieille ville, promenade du lac, collines) sont tous accessibles aux chiens en laisse.",
+        "Le Kunsthaus (galerie d'art), le Musée national et la plupart des lieux culturels intérieurs n'admettent pas les chiens.",
+        "Le train Uetliberg (S10) et le téléphérique de Felsenegg acceptent les chiens — la meilleure expérience alpine directement depuis la ville.",
+        "Les marchés aux puces hebdomadaires de Zurich (Flohmarkt) et les marchés alimentaires sont des événements de plein air dog-friendly."
+      ],
+      "tipsEs": [
+        "Los espacios al aire libre de Zúrich (casco antiguo, paseo del lago, colinas) son todos accesibles a perros con correa.",
+        "El Kunsthaus (galería de arte), el Museo Nacional y la mayoría de los espacios culturales interiores no admiten perros.",
+        "El tren Uetliberg (S10) y el teleférico de Felsenegg permiten perros — la mejor experiencia alpina directamente desde la ciudad.",
+        "Los mercadillos semanales de Zúrich (Flohmarkt) y los mercados de alimentos son eventos al aire libre amigables con los perros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I explore Zurich's old town with my dog?",
+          "a": "Yes. The entire old town (both sides of the Limmat — Niederdorf and Lindenhügel) is accessible to dogs on a leash. The cobbled streets, river views, and café terraces make it one of the most pleasant dog-walks in any European city."
+        },
+        {
+          "q": "Is the Zürichsee lake boat dog-friendly?",
+          "a": "Yes. ZSG lake boats allow dogs following ZVV rules — in a carrier, free; larger dogs, half-fare ticket + muzzle. The open deck is particularly enjoyable with dogs. A round trip or the journey to Rapperswil is an excellent outing."
+        },
+        {
+          "q": "Can I take my dog to the top of the Uetliberg?",
+          "a": "Yes. The S10 train from Zurich Hauptbahnhof takes you to the Uetliberg summit in 20 minutes. Dogs follow ZVV rules on board. At the top, dogs can roam the forest trails freely. The Planetenweg hiking route down to Felsenegg is one of Zurich's best dog-friendly walks."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je explorer la vieille ville de Zurich avec mon chien ?",
+          "a": "Oui. Toute la vieille ville (des deux côtés de la Limmat — Niederdorf et Lindenhügel) est accessible aux chiens en laisse. Les rues pavées, les vues sur la rivière et les terrasses de cafés en font l'une des promenades canines les plus agréables dans n'importe quelle ville européenne."
+        },
+        {
+          "q": "Le bateau du lac Zürichsee est-il dog-friendly ?",
+          "a": "Oui. Les bateaux du lac ZSG acceptent les chiens selon les règles ZVV — dans un sac, gratuit ; chiens plus grands, billet demi-tarif + muselière. Le pont ouvert est particulièrement agréable avec les chiens. Un aller-retour ou le trajet jusqu'à Rapperswil est une excellente sortie."
+        },
+        {
+          "q": "Puis-je emmener mon chien au sommet de l'Uetliberg ?",
+          "a": "Oui. Le train S10 depuis la Zürich Hauptbahnhof vous emmène au sommet de l'Uetliberg en 20 minutes. Les chiens suivent les règles ZVV à bord. Au sommet, les chiens peuvent parcourir les sentiers forestiers librement. La randonnée Planetenweg descendant jusqu'à Felsenegg est l'une des meilleures balades dog-friendly de Zurich."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo explorar el casco antiguo de Zúrich con mi perro?",
+          "a": "Sí. Todo el casco antiguo (ambos lados del Limmat — Niederdorf y Lindenhügel) es accesible a perros con correa. Las calles adoquinadas, las vistas al río y las terrazas de los cafés lo convierten en uno de los paseos con perro más agradables en cualquier ciudad europea."
+        },
+        {
+          "q": "¿Es el barco del lago Zürichsee amigable con los perros?",
+          "a": "Sí. Los barcos del lago ZSG permiten perros siguiendo las normas ZVV — en bolsa, gratis; perros más grandes, billete de tarifa reducida + bozal. La cubierta abierta es especialmente agradable con perros. Un viaje de ida y vuelta o el trayecto a Rapperswil es una excelente excursión."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a la cima del Uetliberg?",
+          "a": "Sí. El tren S10 desde la Hauptbahnhof de Zúrich te lleva a la cima del Uetliberg en 20 minutos. Los perros siguen las normas ZVV a bordo. En la cima, los perros pueden recorrer los senderos del bosque libremente. La ruta de senderismo Planetenweg bajando hasta Felsenegg es uno de los mejores paseos para perros de Zúrich."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Services in Zurich",
+      "titleFr": "Pet sitting et services pour chiens à Zurich",
+      "titleEs": "Pet sitting y servicios para perros en Zúrich",
+      "introEn": "Zurich has a professional and well-developed pet services market. International platforms and local Swiss providers both operate in the city. Swiss pet sitters tend to be more expensive than their European counterparts — budget accordingly. Book well in advance during peak seasons.",
+      "introFr": "Zurich dispose d'un marché de services animaliers professionnel et bien développé. Les plateformes internationales et les prestataires suisses locaux opèrent tous deux dans la ville. Les pet sitters suisses tendent à être plus chers que leurs homologues européens — prévoyez un budget en conséquence. Réservez bien à l'avance pendant les saisons de pointe.",
+      "introEs": "Zúrich tiene un mercado de servicios para mascotas profesional y bien desarrollado. Tanto las plataformas internacionales como los proveedores suizos locales operan en la ciudad. Los pet sitters suizos tienden a ser más caros que sus homólogos europeos — presupuesta en consecuencia. Reserva con mucha antelación durante las temporadas punta.",
+      "places": [],
+      "tipsEn": [
+        "Rover.com operates in Zurich with a network of verified sitters. Pawshake is also active.",
+        "Swiss pet sitters typically charge CHF 20–40 per visit and CHF 50–90 per night for home boarding — significantly higher than Germany or Austria.",
+        "Dog daycare (Hundetagesbetreuung) is available in Zurich but less common than in German cities. Search 'Hundekindergarten Zürich' for local options.",
+        "Many Zurich hotels that accept dogs can recommend trusted local dog walkers — ask at reception."
+      ],
+      "tipsFr": [
+        "Rover.com opère à Zurich avec un réseau de gardiens vérifiés. Pawshake est également actif.",
+        "Les pet sitters suisses facturent généralement 20 à 40 CHF par visite et 50 à 90 CHF par nuit pour la pension à domicile — nettement plus cher qu'en Allemagne ou en Autriche.",
+        "La garderie pour chiens (Hundetagesbetreuung) est disponible à Zurich mais moins courante que dans les villes allemandes. Cherchez 'Hundekindergarten Zürich' pour les options locales.",
+        "De nombreux hôtels zurichois acceptant les animaux peuvent recommander des promeneurs de confiance — demandez à la réception."
+      ],
+      "tipsEs": [
+        "Rover.com opera en Zúrich con una red de cuidadores verificados. Pawshake también está activo.",
+        "Los pet sitters suizos suelen cobrar 20–40 CHF por visita y 50–90 CHF por noche para alojamiento en casa — significativamente más caro que en Alemania o Austria.",
+        "La guardería para perros (Hundetagesbetreuung) está disponible en Zúrich pero es menos común que en las ciudades alemanas. Busca 'Hundekindergarten Zürich' para opciones locales.",
+        "Muchos hoteles de Zúrich que aceptan perros pueden recomendar paseadores de perros locales de confianza — pregunta en recepción."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does a dog sitter cost in Zurich?",
+          "a": "Zurich is one of the world's most expensive cities. Dog sitters typically charge CHF 20–40 per visit and CHF 50–90 per night for home boarding via platforms like Rover. Professional kennels (Hundepension) may charge CHF 60–120 per night."
+        },
+        {
+          "q": "Can I find an English-speaking dog sitter in Zurich?",
+          "a": "Yes. Zurich is highly international and English is widely spoken. Rover.com and Pawshake both have large English-speaking sitter networks in the city."
+        },
+        {
+          "q": "Are there dog daycare options near central Zurich?",
+          "a": "Yes. Dog daycare facilities exist in Zurich, though they are less common than in German cities. Search 'Hundekindergarten Zürich' or 'Hundetagesbetreuung Zürich' for local options near your accommodation."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte un pet sitter à Zurich ?",
+          "a": "Zurich est l'une des villes les plus chères au monde. Les pet sitters facturent généralement 20 à 40 CHF par visite et 50 à 90 CHF par nuit pour la pension à domicile via des plateformes comme Rover. Les chenils professionnels (Hundepension) peuvent facturer 60 à 120 CHF par nuit."
+        },
+        {
+          "q": "Puis-je trouver un pet sitter anglophone à Zurich ?",
+          "a": "Oui. Zurich est très internationale et l'anglais est largement parlé. Rover.com et Pawshake disposent tous deux de grands réseaux de gardiens anglophones dans la ville."
+        },
+        {
+          "q": "Y a-t-il des garderies pour chiens près du centre de Zurich ?",
+          "a": "Oui. Des garderies pour chiens existent à Zurich, bien qu'elles soient moins répandues que dans les villes allemandes. Cherchez 'Hundekindergarten Zürich' ou 'Hundetagesbetreuung Zürich' pour les options locales proches de votre hébergement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de perros en Zúrich?",
+          "a": "Zúrich es una de las ciudades más caras del mundo. Los cuidadores de perros suelen cobrar 20–40 CHF por visita y 50–90 CHF por noche para alojamiento en casa a través de plataformas como Rover. Las perreras profesionales (Hundepension) pueden cobrar 60–120 CHF por noche."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador de perros de habla inglesa en Zúrich?",
+          "a": "Sí. Zúrich es muy internacional y el inglés se habla ampliamente. Rover.com y Pawshake tienen grandes redes de cuidadores de habla inglesa en la ciudad."
+        },
+        {
+          "q": "¿Hay opciones de guardería para perros cerca del centro de Zúrich?",
+          "a": "Sí. Existen instalaciones de guardería para perros en Zúrich, aunque son menos comunes que en las ciudades alemanas. Busca 'Hundekindergarten Zürich' o 'Hundetagesbetreuung Zürich' para opciones locales cerca de tu alojamiento."
+        }
+      ]
+    }
+  }
+}

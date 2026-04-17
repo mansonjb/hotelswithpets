@@ -1,0 +1,937 @@
+{
+  "slug": "berlin",
+  "name": "Berlin",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Berlin",
+      "titleFr": "Restaurants acceptant les animaux à Berlin",
+      "titleEs": "Restaurantes con mascotas en Berlín",
+      "introEn": "Berlin is one of Europe's most dog-friendly capitals, and nowhere is this more evident than in its café and restaurant culture. Dogs are a fixture in the city's Kneipen (local pubs), independent cafés, and brunch spots — particularly in Prenzlauer Berg, Friedrichshain, and Neukölln. Most terraces in these neighbourhoods accept dogs without question, and staff will bring a water bowl unprompted. One honest caveat: indoor pet policies vary by establishment, and upscale restaurants in Mitte and the new luxury hotel zones tend to be stricter. Always confirm if you plan to sit indoors at a fine-dining venue.",
+      "introFr": "Berlin est l'une des capitales européennes les plus accueillantes pour les chiens, et cela se voit particulièrement dans sa culture des cafés et restaurants. Les chiens sont présents dans les Kneipen (bistrots locaux), les cafés indépendants et les spots brunch — notamment à Prenzlauer Berg, Friedrichshain et Neukölln. La plupart des terrasses de ces quartiers acceptent les chiens sans poser de questions, et le personnel apporte souvent un bol d'eau sans qu'on le demande. Un bémol honnête : les politiques en intérieur varient selon les établissements, et les restaurants haut de gamme du centre (Mitte) peuvent être plus stricts. Renseignez-vous avant de vous installer à l'intérieur d'un restaurant gastronomique.",
+      "introEs": "Berlín es una de las capitales europeas más amigables con los perros, y esto se ve claramente en su cultura de cafés y restaurantes. Los perros son habituales en los Kneipen (bares locales), cafés independientes y spots de brunch — especialmente en Prenzlauer Berg, Friedrichshain y Neukölln. La mayoría de las terrazas de estos barrios admiten perros sin problemas, y el personal suele traer un cuenco de agua sin que se lo pidas. Una advertencia honesta: las políticas en interiores varían según el establecimiento, y los restaurantes elegantes del centro (Mitte) tienden a ser más estrictos. Confirma siempre si planeas sentarte en interior en un restaurante de alta cocina.",
+      "places": [
+        {
+          "name": "Café Morgenrot",
+          "address": "Kastanienallee 85, 10435 Berlin",
+          "neighborhood": "Prenzlauer Berg",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://cafe-morgenrot.de/",
+          "description": "A beloved leftist collective café in the heart of Kastanienallee, Café Morgenrot has been feeding Prenzlauer Berg's creative community since reunification. The food is entirely plant-based, prepared by volunteers, and remarkably good for the price. Dogs are welcome both inside and on the large pavement terrace that overlooks one of Berlin's best people-watching streets. The Sunday brunch buffet — a Berlin institution — draws long queues, dogs included.",
+          "descriptionFr": "Café collectif emblématique dans le cœur de la Kastanienallee, le Café Morgenrot nourrit la communauté créative de Prenzlauer Berg depuis la réunification. La cuisine est entièrement végétalienne, préparée par des bénévoles, et remarquablement bonne pour le prix. Les chiens sont les bienvenus en salle et sur la grande terrasse sur le trottoir qui donne sur l'une des rues les plus animées de Berlin. Le buffet du brunch du dimanche — une institution berlinoise — attire de longues files, chiens compris.",
+          "descriptionEs": "Un querido café colectivo en el corazón de la Kastanienallee, el Café Morgenrot lleva alimentando a la comunidad creativa de Prenzlauer Berg desde la reunificación. La comida es completamente vegetal, preparada por voluntarios, y sorprendentemente buena para el precio. Los perros son bienvenidos tanto en el interior como en la amplia terraza en la acera que da a una de las mejores calles para observar gente de Berlín. El brunch buffet del domingo — una institución berlinesa — atrae largas colas, perros incluidos.",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos en interior y terraza",
+          "priceRange": "€",
+          "mustTry": "Sunday brunch buffet, homemade soups",
+          "mustTryFr": "Buffet du brunch du dimanche, soupes maison",
+          "mustTryEs": "Brunch buffet del domingo, sopas caseras",
+          "openingHours": "Mon–Fri 10:00–23:00, Sat–Sun 10:00–16:00 (brunch)",
+          "tip": "Arrive before 11:00 on Sundays for the brunch or expect a 30-minute wait outside",
+          "tipFr": "Arrivez avant 11h le dimanche pour le brunch, sinon attendez-vous à 30 minutes de queue",
+          "tipEs": "Llega antes de las 11:00 el domingo para el brunch o espera 30 minutos de cola",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Morgenrot+Berlin"
+        },
+        {
+          "name": "Burgermeister",
+          "address": "Oberbaumstraße 8, 10243 Berlin",
+          "neighborhood": "Friedrichshain",
+          "photo": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+          "website": "https://burger-meister.de/",
+          "description": "Built inside a converted Art Nouveau public toilet beneath the Schlesisches Tor U-Bahn station, Burgermeister is one of Berlin's most iconic burger spots. The burgers are genuinely excellent — thick, juicy, and made from quality beef. The entire operation is outdoors: you order at the window and eat standing or at benches under the arches of the elevated rail. Dogs are entirely welcome in this open-air setting, and the clientele skews very dog-friendly. A Berlin experience that has no equivalent elsewhere.",
+          "descriptionFr": "Installé dans des toilettes publiques Art Nouveau reconverties sous la station de U-Bahn Schlesisches Tor, Burgermeister est l'un des spots burgers les plus iconiques de Berlin. Les burgers sont vraiment excellents — épais, juteux et préparés avec une viande de qualité. Tout se passe en extérieur : on commande au guichet et on mange debout ou sur des bancs sous les arches du métro aérien. Les chiens sont les bienvenus dans cet espace en plein air, et la clientèle est très dog-friendly. Une expérience berlinoise sans équivalent ailleurs.",
+          "descriptionEs": "Instalado en unos retretes públicos de Art Nouveau reconvertidos bajo la estación de U-Bahn Schlesisches Tor, Burgermeister es uno de los spots de hamburguesas más icónicos de Berlín. Las hamburguesas son genuinamente excelentes — gruesas, jugosas y elaboradas con carne de calidad. Toda la operación es al aire libre: pides en la ventanilla y comes de pie o en bancos bajo los arcos del metro elevado. Los perros son completamente bienvenidos en este espacio al aire libre, y la clientela es muy amigable con los perros.",
+          "petPolicy": "Dogs welcome — fully outdoor venue",
+          "petPolicyFr": "Chiens bienvenus — établissement entièrement en extérieur",
+          "petPolicyEs": "Perros bienvenidos — local completamente al aire libre",
+          "priceRange": "€",
+          "mustTry": "Meister burger, crispy fries",
+          "mustTryFr": "Burger Meister, frites croustillantes",
+          "mustTryEs": "Hamburguesa Meister, patatas fritas crujientes",
+          "openingHours": "Mon–Thu 11:00–03:00, Fri–Sat 11:00–04:00, Sun 12:00–03:00",
+          "tip": "Best visited late evening when the queues are shorter and the atmosphere under the U-Bahn is at its most Berlin",
+          "tipFr": "Idéal en fin de soirée quand les files sont plus courtes et l'ambiance sous le métro aérien typiquement berlinoise",
+          "tipEs": "Es mejor visitarlo tarde por la noche cuando las colas son más cortas y el ambiente bajo el U-Bahn es el más berlinés",
+          "googleMapsUrl": "https://maps.google.com/?q=Burgermeister+Oberbaumstra%C3%9Fe+Berlin"
+        },
+        {
+          "name": "Roamers",
+          "address": "Pannierstraße 64, 12047 Berlin",
+          "neighborhood": "Neukölln",
+          "photo": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",
+          "website": "https://roamers-berlin.com/",
+          "description": "Roamers is the standard-bearer for the Neukölln brunch scene: a beautifully designed café with a long communal table, high ceilings, and a menu that changes with the seasons. The avocado toast and granola bowls are Instagram-famous but actually taste as good as they look. Dogs are welcome on the courtyard terrace behind the café — a sun-trap in the afternoon, shaded with plants and fairy lights. The neighbourhood is deeply dog-friendly and worth spending a full morning exploring on foot with your dog.",
+          "descriptionFr": "Roamers est la référence du brunch à Neukölln : un café magnifiquement aménagé avec une grande table commune, de hauts plafonds et une carte qui évolue avec les saisons. L'avocat toast et les bowls de granola sont célèbres sur Instagram, mais ils tiennent vraiment leurs promesses. Les chiens sont acceptés sur la terrasse intérieure derrière le café — un piège à soleil l'après-midi, ombragé par les plantes et des guirlandes lumineuses. Le quartier est profondément dog-friendly et mérite d'être exploré à pied avec son chien pendant toute une matinée.",
+          "descriptionEs": "Roamers es el referente del brunch en Neukölln: un café bellamente diseñado con una larga mesa comunal, techos altos y una carta que cambia con las estaciones. El tostada de aguacate y los bowls de granola son famosos en Instagram pero realmente saben tan bien como parecen. Los perros son bienvenidos en la terraza del patio trasero del café — una trampa solar por la tarde, sombreada con plantas y luces. El barrio es profundamente amigable con los perros y vale la pena explorarlo a pie toda una mañana.",
+          "petPolicy": "Dogs welcome on courtyard terrace",
+          "petPolicyFr": "Chiens acceptés sur la terrasse intérieure",
+          "petPolicyEs": "Perros admitidos en la terraza del patio",
+          "priceRange": "€€",
+          "mustTry": "Smashed avocado toast, seasonal granola bowl",
+          "mustTryFr": "Avocado toast, bowl granola de saison",
+          "mustTryEs": "Tostada de aguacate, bowl de granola de temporada",
+          "openingHours": "Sat–Sun 09:00–17:00, Mon–Fri 09:00–16:00",
+          "tip": "Weekday mornings are much quieter. Saturdays can have a 45-minute wait for a table",
+          "tipFr": "Les matins en semaine sont bien plus calmes. Le samedi, l'attente peut atteindre 45 minutes",
+          "tipEs": "Los días de semana por la mañana son mucho más tranquilos. Los sábados puede haber 45 minutos de espera",
+          "googleMapsUrl": "https://maps.google.com/?q=Roamers+Berlin+Neuk%C3%B6lln"
+        },
+        {
+          "name": "Hops & Barley",
+          "address": "Wühlischstraße 22/23, 10245 Berlin",
+          "neighborhood": "Friedrichshain",
+          "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80",
+          "website": "https://hopsandbarley-berlin.de/",
+          "description": "A genuine craft beer pub in a former butcher's shop in Friedrichshain, Hops & Barley brews its own Pilsner, Dunkel, and seasonal beers on-site. The interior retains the original tiled walls of the butcher's, and the atmosphere is authentically local — no tourists, lots of regulars, and several dogs at any given evening. Dogs are welcome inside and on the small streetside terrace. The bar staff are openly dog-enthusiastic and often keep treats behind the bar.",
+          "descriptionFr": "Véritable pub de bière artisanale installé dans une ancienne boucherie à Friedrichshain, Hops & Barley brasse ses propres Pilsner, Dunkel et bières de saison sur place. L'intérieur conserve les murs carrelés d'origine de la boucherie, et l'ambiance est authentiquement locale — pas de touristes, beaucoup de habitués, et plusieurs chiens en soirée. Les chiens sont les bienvenus en salle et sur la petite terrasse en bord de rue. Le personnel est ouvertement passionné de chiens et garde souvent des friandises derrière le comptoir.",
+          "descriptionEs": "Un auténtico pub de cerveza artesanal en una antigua carnicería en Friedrichshain, Hops & Barley elabora su propia Pilsner, Dunkel y cervezas de temporada in situ. El interior conserva los azulejos originales de la carnicería, y el ambiente es auténticamente local — sin turistas, muchos habituales y varios perros en cualquier tarde. Los perros son bienvenidos tanto en el interior como en la pequeña terraza en la calle. El personal es abiertamente entusiasta de los perros y a menudo guarda chuches detrás de la barra.",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos en interior y terraza",
+          "priceRange": "€",
+          "mustTry": "House Pilsner, seasonal dark beer (Dunkel)",
+          "mustTryFr": "Pilsner maison, bière brune de saison (Dunkel)",
+          "mustTryEs": "Pilsner de la casa, cerveza oscura de temporada (Dunkel)",
+          "openingHours": "Mon–Fri 17:00–02:00, Sat–Sun 14:00–02:00",
+          "tip": "Go on a weekday evening for the best local atmosphere and least crowded bar",
+          "tipFr": "Venez en semaine en soirée pour la meilleure ambiance locale et le bar le moins fréquenté",
+          "tipEs": "Ve entre semana por la noche para el mejor ambiente local y la barra menos concurrida",
+          "googleMapsUrl": "https://maps.google.com/?q=Hops+%26+Barley+Berlin"
+        },
+        {
+          "name": "Café am Neuen See",
+          "address": "Lichtensteinallee 2, 10787 Berlin",
+          "neighborhood": "Tiergarten",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://cafeamneuensee.de/",
+          "description": "Set directly on the banks of the Neuer See inside the Tiergarten, this is Berlin's most idyllic beer garden. The terrace holds around 1,000 people and the setting — willow trees, lake, rowboats for hire — is genuinely beautiful in any season. Dogs are welcome on the large outdoor terrace and are extremely common here. The food is Bavarian-style: pretzels, Bratwurst, Flammkuchen, and cold beer by the Maß. A perfect destination after a long walk through the Tiergarten.",
+          "descriptionFr": "Installé directement sur les rives du Neuer See dans le Tiergarten, voici le beer-garden le plus idyllique de Berlin. La terrasse peut accueillir environ 1 000 personnes et le cadre — saules pleureurs, lac, barques à louer — est vraiment magnifique quelle que soit la saison. Les chiens sont les bienvenus sur la grande terrasse extérieure et y sont extrêmement courants. La cuisine est de style bavarois : bretzels, bratwurst, flammkuchen et bière fraîche en pinte. Une destination parfaite après une longue promenade dans le Tiergarten.",
+          "descriptionEs": "Situado directamente a orillas del Neuer See dentro del Tiergarten, este es el jardín de cerveza más idílico de Berlín. La terraza tiene capacidad para unas 1.000 personas y el entorno — sauces llorones, lago, barcas de alquiler — es genuinamente hermoso en cualquier estación. Los perros son bienvenidos en la gran terraza exterior y son muy comunes aquí. La comida es de estilo bávaro: pretzels, Bratwurst, Flammkuchen y cerveza fría en jarra. Un destino perfecto tras un largo paseo por el Tiergarten.",
+          "petPolicy": "Dogs welcome on outdoor terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse extérieure",
+          "petPolicyEs": "Perros admitidos en terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Maß (1-litre beer), Bratwurst, Flammkuchen",
+          "mustTryFr": "Maß (chope d'un litre), Bratwurst, Flammkuchen",
+          "mustTryEs": "Maß (jarra de un litro), Bratwurst, Flammkuchen",
+          "openingHours": "Daily 10:00–23:00 (weather permitting, outdoor only)",
+          "tip": "Rent a rowboat on the lake after lunch. Dogs are allowed on the boats",
+          "tipFr": "Louez une barque sur le lac après le déjeuner. Les chiens sont autorisés à bord",
+          "tipEs": "Alquila una barca en el lago después de comer. Los perros están permitidos en las barcas",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+am+Neuen+See+Berlin"
+        }
+      ],
+      "tipsEn": [
+        "Prenzlauer Berg, Neukölln, and Friedrichshain are the most dog-friendly dining neighbourhoods in Berlin.",
+        "Most Kneipen (local pubs) in Berlin accept dogs inside by default. It is part of the culture.",
+        "Look for the word 'hundefreundlich' (dog-friendly) on café windows or Google Maps listings.",
+        "Avoid upscale restaurants in Mitte near the government district — they tend to have stricter indoor policies."
+      ],
+      "tipsFr": [
+        "Prenzlauer Berg, Neukölln et Friedrichshain sont les quartiers les plus dog-friendly pour manger à Berlin.",
+        "La plupart des Kneipen (bistrots locaux) à Berlin acceptent les chiens en salle par défaut. C'est dans la culture.",
+        "Cherchez le mot 'hundefreundlich' (chiens bienvenus) sur les vitrines ou les fiches Google Maps.",
+        "Évitez les restaurants haut de gamme de Mitte près du quartier gouvernemental — ils ont tendance à être plus stricts à l'intérieur."
+      ],
+      "tipsEs": [
+        "Prenzlauer Berg, Neukölln y Friedrichshain son los barrios más amigables con los perros para comer en Berlín.",
+        "La mayoría de los Kneipen (bares locales) en Berlín admiten perros en el interior por defecto. Es parte de la cultura.",
+        "Busca la palabra 'hundefreundlich' (amigable con perros) en ventanas de cafés o en las fichas de Google Maps.",
+        "Evita los restaurantes elegantes en Mitte cerca del distrito gubernamental — tienden a tener políticas más estrictas en el interior."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Berlin restaurants?",
+          "a": "Yes, very commonly. Berlin is one of Germany's most dog-permissive cities. Most Kneipen, cafés, and brunch spots in neighbourhoods like Prenzlauer Berg, Neukölln, and Friedrichshain welcome dogs both inside and on terraces. High-end restaurants may have restrictions indoors."
+        },
+        {
+          "q": "Do I need to register my dog in Berlin?",
+          "a": "If you are a Berlin resident, yes — you must pay the Hundesteuer (dog tax) and register your dog with the Finanzamt. Tourists visiting with their dogs are exempt and do not need to register."
+        },
+        {
+          "q": "Which Berlin neighbourhood has the most dog-friendly cafés?",
+          "a": "Prenzlauer Berg is widely considered Berlin's most dog-friendly neighbourhood for dining. Kastanienallee and Helmholtzplatz are especially concentrated with dog-welcoming cafés and Kneipen."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants berlinois ?",
+          "a": "Oui, très souvent. Berlin est l'une des villes les plus dog-friendly d'Allemagne. La plupart des Kneipen, cafés et spots brunch à Prenzlauer Berg, Neukölln et Friedrichshain accueillent les chiens en salle et en terrasse. Les restaurants gastronomiques peuvent avoir des restrictions à l'intérieur."
+        },
+        {
+          "q": "Dois-je enregistrer mon chien à Berlin ?",
+          "a": "Si vous êtes résident berlinois, oui — vous devez payer la Hundesteuer (taxe sur les chiens) et enregistrer votre animal auprès du Finanzamt. Les touristes visitant Berlin avec leur chien sont exemptés et n'ont aucune formalité à accomplir."
+        },
+        {
+          "q": "Quel quartier de Berlin est le plus dog-friendly pour les cafés ?",
+          "a": "Prenzlauer Berg est considéré comme le quartier le plus dog-friendly de Berlin pour la restauration. La Kastanienallee et la Helmholtzplatz regorgent particulièrement de cafés et Kneipen accueillant les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Berlín?",
+          "a": "Sí, muy comúnmente. Berlín es una de las ciudades más permisivas con los perros en Alemania. La mayoría de los Kneipen, cafés y spots de brunch en barrios como Prenzlauer Berg, Neukölln y Friedrichshain admiten perros tanto en interior como en terraza. Los restaurantes de alta gama pueden tener restricciones en el interior."
+        },
+        {
+          "q": "¿Necesito registrar a mi perro en Berlín?",
+          "a": "Si eres residente en Berlín, sí — debes pagar el Hundesteuer (impuesto sobre perros) y registrar tu perro en el Finanzamt. Los turistas que visitan Berlín con sus perros están exentos y no necesitan registrar nada."
+        },
+        {
+          "q": "¿Qué barrio de Berlín tiene más cafés amigables con los perros?",
+          "a": "Prenzlauer Berg es ampliamente considerado el barrio más amigable con los perros de Berlín para comer. La Kastanienallee y la Helmholtzplatz tienen una especial concentración de cafés y Kneipen que admiten perros."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Berlin",
+      "titleFr": "Parcs et balades avec son chien à Berlin",
+      "titleEs": "Parques y paseos con perros en Berlín",
+      "introEn": "Berlin is exceptionally well-suited for dog walking. The city has over 200 designated off-leash areas (Hundeauslaufgebiete), and enormous green spaces like the Tiergarten, Volkspark Friedrichshain, and Grunewald forest give dogs of all sizes room to run. The Wannsee and Müggelsee lakes on the outskirts have designated dog swimming areas in summer. Berlin's urban forests are a genuine asset for active dogs.",
+      "introFr": "Berlin est exceptionnellement adaptée aux balades avec chien. La ville compte plus de 200 zones de liberté désignées (Hundeauslaufgebiete), et d'immenses espaces verts comme le Tiergarten, le Volkspark Friedrichshain et la forêt de Grunewald offrent aux chiens de toutes tailles l'espace pour courir. Les lacs du Wannsee et du Müggelsee en périphérie disposent de zones de baignade pour chiens en été. Les forêts urbaines berlinoises sont un véritable atout pour les chiens actifs.",
+      "introEs": "Berlín es excepcionalmente adecuada para pasear con perros. La ciudad tiene más de 200 zonas de libertad designadas (Hundeauslaufgebiete), y enormes espacios verdes como el Tiergarten, el Volkspark Friedrichshain y el bosque de Grunewald dan a perros de todos los tamaños espacio para correr. Los lagos Wannsee y Müggelsee en las afueras tienen zonas designadas para que los perros naden en verano. Los bosques urbanos de Berlín son un activo genuino para los perros activos.",
+      "places": [
+        {
+          "name": "Tiergarten",
+          "type": "Central urban park with off-leash areas",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.berlin.de/sehenswuerdigkeiten/3560249-3558930-grosser-tiergarten.html",
+          "description": "Berlin's central park spans 210 hectares of woodland, meadows, and lakes right in the heart of the city. The Tiergarten is a serious park — genuinely wild in places, with tall trees, dense undergrowth, and winding paths that can make you forget you're in a capital city. Dogs are welcome throughout and there are several designated off-leash areas, including the meadows around the Neuer See. The Café am Neuen See (see restaurants) is the natural halfway stop. On warm weekends, this park feels like the entire city is having a picnic with their dogs.",
+          "descriptionFr": "Le parc central de Berlin s'étend sur 210 hectares de forêts, prairies et lacs au cœur même de la ville. Le Tiergarten est un vrai parc — sauvage par endroits, avec de grands arbres, une végétation dense et des chemins sinueux qui font oublier qu'on est dans une capitale. Les chiens sont les bienvenus partout et il existe plusieurs zones de liberté désignées, dont les prairies autour du Neuer See. Le Café am Neuen See (voir restaurants) est l'arrêt naturel à mi-chemin. Par beau temps le week-end, ce parc donne l'impression que toute la ville pique-nique avec ses chiens.",
+          "descriptionEs": "El parque central de Berlín se extiende por 210 hectáreas de bosque, praderas y lagos en pleno centro de la ciudad. El Tiergarten es un parque serio — genuinamente salvaje en algunos lugares, con árboles altos, vegetación densa y senderos sinuosos que hacen olvidar que estás en una capital. Los perros son bienvenidos en todo el parque y hay varias zonas sin correa designadas, incluidas las praderas alrededor del Neuer See. El Café am Neuen See (ver restaurantes) es la parada natural a mitad de camino. En los fines de semana cálidos, este parque parece como si toda la ciudad estuviera de picnic con sus perros.",
+          "offLeash": true,
+          "offLeashArea": "Designated zones near Neuer See and southern meadow areas. Dogs must be on-leash near playgrounds",
+          "offLeashAreaFr": "Zones désignées près du Neuer See et des prairies sud. Laisse obligatoire à proximité des aires de jeux",
+          "offLeashAreaEs": "Zonas designadas cerca del Neuer See y las praderas del sur. Correa obligatoria cerca de los parques infantiles",
+          "tip": "Enter from the Bellevue S-Bahn station side for the quickest access to the off-leash areas near the lake",
+          "tipFr": "Entrez par la station S-Bahn Bellevue pour accéder le plus vite aux zones de liberté près du lac",
+          "tipEs": "Entra por el lado de la estación S-Bahn Bellevue para el acceso más rápido a las zonas sin correa cerca del lago",
+          "googleMapsUrl": "https://maps.google.com/?q=Tiergarten+Berlin"
+        },
+        {
+          "name": "Volkspark Friedrichshain",
+          "type": "Hilltop park with large off-leash areas",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.berlin.de/sehenswuerdigkeiten/3560158-3558930-volkspark-friedrichshain.html",
+          "description": "Berlin's oldest public park (1848), Volkspark Friedrichshain occupies 52 hectares in the heart of East Berlin's most vibrant neighbourhoods. The park has several large off-leash areas including the Hundewiese (dog meadow) near the north entrance, which is one of the best-maintained dedicated dog zones in the city. The hills — actually anti-aircraft bunkers from WWII covered in soil — give excellent views over the city. The surrounding streets of Friedrichshain are uniformly dog-friendly.",
+          "descriptionFr": "Le plus ancien parc public de Berlin (1848), le Volkspark Friedrichshain occupe 52 hectares au cœur des quartiers les plus animés de Berlin-Est. Le parc dispose de plusieurs grandes zones de liberté, dont la Hundewiese (prairie pour chiens) près de l'entrée nord, l'une des zones canines dédiées les mieux entretenues de la ville. Les collines — en réalité des bunkers antiaériens de la Seconde Guerre mondiale recouverts de terre — offrent d'excellentes vues sur la ville. Les rues environnantes de Friedrichshain sont uniformément dog-friendly.",
+          "descriptionEs": "El parque público más antiguo de Berlín (1848), el Volkspark Friedrichshain ocupa 52 hectáreas en el corazón de los barrios más vibrantes del Berlín del Este. El parque tiene varias zonas grandes sin correa, incluida la Hundewiese (pradera para perros) cerca de la entrada norte, una de las zonas caninas dedicadas mejor mantenidas de la ciudad. Las colinas — en realidad búnkeres antiaéreos de la Segunda Guerra Mundial cubiertos de tierra — dan excelentes vistas sobre la ciudad.",
+          "offLeash": true,
+          "offLeashArea": "Hundewiese (dog meadow) near north entrance, plus several designated zones throughout the park",
+          "offLeashAreaFr": "Hundewiese (prairie pour chiens) près de l'entrée nord, plus plusieurs zones désignées dans tout le parc",
+          "offLeashAreaEs": "Hundewiese (pradera para perros) cerca de la entrada norte, más varias zonas designadas en todo el parque",
+          "tip": "The Märchenbrunnen (fairy tale fountain) in the south of the park is a great landmark. Dogs welcome in the surrounding area",
+          "tipFr": "Le Märchenbrunnen (fontaine des contes de fées) au sud du parc est un repère idéal. Chiens bienvenus dans les alentours",
+          "tipEs": "El Märchenbrunnen (fuente de cuentos de hadas) al sur del parque es un gran punto de referencia. Perros bienvenidos en la zona",
+          "googleMapsUrl": "https://maps.google.com/?q=Volkspark+Friedrichshain+Berlin"
+        },
+        {
+          "name": "Grunewald Forest",
+          "type": "Urban forest. 3,000 hectares. Largely off-leash",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.berlin.de/sehenswuerdigkeiten/3559768-3558930-grunewald.html",
+          "description": "The Grunewald is Berlin's largest green space: 3,000 hectares of pine and birch forest on the western edge of the city, running along the Havel river and the Wannsee lake. Dogs can run freely throughout most of the forest, and the combination of woodland trails, river banks, and sandy lakeside beaches makes it the ultimate dog outing in Berlin. The Hundestrand at Wannsee (see beaches section) is accessible from within the forest. Multiple S-Bahn stations serve the forest, making it easily reachable without a car.",
+          "descriptionFr": "Le Grunewald est le plus grand espace vert de Berlin : 3 000 hectares de forêt de pins et de bouleaux à la lisière ouest de la ville, longeant la rivière Havel et le lac Wannsee. Les chiens peuvent circuler librement dans la majeure partie de la forêt, et la combinaison de sentiers boisés, de berges et de plages de sable lacustres en fait la sortie canine ultime à Berlin. La Hundestrand du Wannsee (voir section plages) est accessible depuis la forêt. Plusieurs stations de S-Bahn desservent la forêt, la rendant facilement accessible sans voiture.",
+          "descriptionEs": "El Grunewald es el mayor espacio verde de Berlín: 3.000 hectáreas de bosque de pinos y abedules en el borde occidental de la ciudad, siguiendo el río Havel y el lago Wannsee. Los perros pueden correr libremente por la mayor parte del bosque, y la combinación de senderos forestales, orillas de ríos y playas arenosas junto al lago lo convierte en la salida canina definitiva en Berlín. La Hundestrand del Wannsee (ver sección playas) es accesible desde el bosque.",
+          "offLeash": true,
+          "offLeashArea": "Entire forest except nature reserve zones near the Teufelssee. Dogs can also access the Wannsee lakeside",
+          "offLeashAreaFr": "Toute la forêt sauf les zones naturelles protégées près du Teufelssee. Accès possible aux rives du Wannsee",
+          "offLeashAreaEs": "Todo el bosque excepto las zonas de reserva natural cerca del Teufelssee. Los perros también pueden acceder a las orillas del Wannsee",
+          "tip": "Take the S7 to Grunewald station for the quickest access. The forest starts right behind the station",
+          "tipFr": "Prenez le S7 jusqu'à la gare Grunewald. La forêt commence juste derrière la station",
+          "tipEs": "Toma el S7 hasta la estación Grunewald. El bosque comienza justo detrás de la estación",
+          "googleMapsUrl": "https://maps.google.com/?q=Grunewald+Berlin"
+        },
+        {
+          "name": "Tempelhofer Feld",
+          "type": "Former airport. Vast open field. Dogs on-leash on runways",
+          "photo": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80",
+          "website": "https://gruen-berlin.de/tempelhofer-feld",
+          "description": "The former Tempelhof Airport — closed in 2008 and converted into a public park — is one of the most extraordinary urban spaces in Europe. The old runways and taxiways stretch for kilometres across a completely flat, open plain in the middle of south Berlin. Dogs must be on-leash on the old runways (to protect nesting birds), but there are designated off-leash meadow areas at the edges of the field. The sense of space is unlike anything else in a European capital. On a summer evening, the sunset over the field, with hundreds of Berliners cycling, kite-surfing, and walking their dogs, is a remarkable sight.",
+          "descriptionFr": "L'ancien aéroport de Tempelhof — fermé en 2008 et reconverti en parc public — est l'un des espaces urbains les plus extraordinaires d'Europe. Les anciennes pistes et voies de circulation s'étendent sur des kilomètres dans une plaine complètement plate au cœur du sud de Berlin. Les chiens doivent être en laisse sur les anciennes pistes (pour protéger les oiseaux nicheurs), mais des zones de liberté en prairie existent en bordure du terrain. Le sentiment d'espace n'a rien d'équivalent dans une capitale européenne. Un soir d'été, le coucher de soleil sur le terrain, avec des centaines de Berlinois à vélo, en kite et en promenade avec leurs chiens, est un spectacle saisissant.",
+          "descriptionEs": "El antiguo aeropuerto de Tempelhof — cerrado en 2008 y convertido en parque público — es uno de los espacios urbanos más extraordinarios de Europa. Las antiguas pistas y calles de rodaje se extienden durante kilómetros a través de una llanura completamente plana en el centro del sur de Berlín. Los perros deben ir con correa en las antiguas pistas (para proteger las aves que anidan), pero hay zonas de prado sin correa designadas en los bordes del campo. La sensación de espacio es incomparable en cualquier capital europea.",
+          "offLeash": true,
+          "offLeashArea": "Designated meadow zones at the field perimeter. Dogs must be on-leash on the runways due to protected nesting birds",
+          "offLeashAreaFr": "Zones de prairie désignées en périphérie du terrain. Laisse obligatoire sur les pistes — oiseaux nicheurs protégés",
+          "offLeashAreaEs": "Zonas de prado designadas en el perímetro del campo. Correa obligatoria en las pistas — aves nidificantes protegidas",
+          "tip": "Enter from the Leinestraße entrance in Neukölln for the least-busy access and the best meadow areas",
+          "tipFr": "Entrez par l'accès Leinestraße à Neukölln pour le secteur le moins fréquenté et les meilleures zones de prairie",
+          "tipEs": "Entra por la entrada de Leinestraße en Neukölln para el acceso menos concurrido y las mejores zonas de prado",
+          "googleMapsUrl": "https://maps.google.com/?q=Tempelhofer+Feld+Berlin"
+        }
+      ],
+      "tipsEn": [
+        "Berlin requires dogs to be on-leash in most public streets and parks. Off-leash (Leinenpflicht frei) is only in designated Hundeauslaufgebiete zones.",
+        "Berlin has over 200 designated off-leash dog areas. Use the Berlin Senate's online map to find the nearest one to your hotel.",
+        "Dog waste bags are widely available at park entrances. Fines for not picking up dog waste can reach €35 in Berlin.",
+        "The Grunewald forest is the best option for large dogs or breeds that need lots of space. Plan a minimum of two hours."
+      ],
+      "tipsFr": [
+        "Berlin exige que les chiens soient tenus en laisse dans la plupart des espaces publics. La liberté (Leinenpflicht frei) n'est autorisée que dans les zones Hundeauslaufgebiete désignées.",
+        "Berlin compte plus de 200 zones de liberté pour chiens. Utilisez la carte en ligne du Sénat de Berlin pour trouver la plus proche de votre hôtel.",
+        "Des sacs ramasse-crottes sont disponibles à l'entrée des parcs. Les amendes pour ne pas ramasser peuvent atteindre 35 € à Berlin.",
+        "La forêt de Grunewald est le meilleur choix pour les grands chiens ou les races ayant besoin de beaucoup d'espace. Prévoyez au minimum deux heures."
+      ],
+      "tipsEs": [
+        "Berlín requiere que los perros vayan con correa en la mayoría de las calles y parques públicos. La libertad (Leinenpflicht frei) solo está permitida en las zonas Hundeauslaufgebiete designadas.",
+        "Berlín tiene más de 200 zonas sin correa para perros designadas. Usa el mapa online del Senado de Berlín para encontrar la más cercana a tu hotel.",
+        "Las bolsas para excrementos están ampliamente disponibles en las entradas de los parques. Las multas por no recoger pueden llegar a 35 € en Berlín.",
+        "El bosque de Grunewald es la mejor opción para perros grandes o razas que necesitan mucho espacio. Planifica un mínimo de dos horas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash in Berlin parks?",
+          "a": "Only in designated off-leash areas (Hundeauslaufgebiete). Berlin has over 200 of these zones. Outside them, dogs must be on-leash at all times in public spaces. The Berlin Senate website has an official map of all off-leash zones."
+        },
+        {
+          "q": "Where can dogs swim in Berlin?",
+          "a": "The Wannsee and Müggelsee lakes have designated dog swimming areas. Within the Grunewald, there are also accessible lake banks. Dogs are not permitted in most public swimming beaches during the main summer season."
+        },
+        {
+          "q": "Is Tempelhofer Feld good for dogs?",
+          "a": "Yes, with caveats. Dogs must be on-leash on the old runways to protect nesting birds, but there are off-leash meadow areas at the field's perimeter. The sheer space is extraordinary, but it is not a fully off-leash environment."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse dans les parcs de Berlin ?",
+          "a": "Uniquement dans les zones de liberté désignées (Hundeauslaufgebiete). Berlin en compte plus de 200. En dehors de ces zones, les chiens doivent être tenus en laisse en permanence dans les espaces publics. Le site du Sénat de Berlin dispose d'une carte officielle de toutes ces zones."
+        },
+        {
+          "q": "Où les chiens peuvent-ils se baigner à Berlin ?",
+          "a": "Les lacs Wannsee et Müggelsee disposent de zones de baignade pour chiens. À Grunewald, des accès aux rives des lacs sont également possibles. Les chiens ne sont généralement pas admis sur les plages de baignade publiques en pleine saison estivale."
+        },
+        {
+          "q": "Le Tempelhofer Feld est-il adapté aux chiens ?",
+          "a": "Oui, avec quelques réserves. Les chiens doivent être en laisse sur les anciennes pistes pour protéger les oiseaux nicheurs, mais des zones de prairie libres existent en périphérie du terrain. L'espace est extraordinaire, mais ce n'est pas un environnement entièrement sans laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en los parques de Berlín?",
+          "a": "Solo en las zonas sin correa designadas (Hundeauslaufgebiete). Berlín tiene más de 200 de estas zonas. Fuera de ellas, los perros deben ir con correa en todo momento en los espacios públicos. El sitio web del Senado de Berlín tiene un mapa oficial de todas las zonas sin correa."
+        },
+        {
+          "q": "¿Dónde pueden nadar los perros en Berlín?",
+          "a": "Los lagos Wannsee y Müggelsee tienen zonas de natación designadas para perros. Dentro del Grunewald, también hay accesos a las orillas de los lagos. Los perros no están permitidos en la mayoría de las playas de baño públicas durante la temporada de verano principal."
+        },
+        {
+          "q": "¿Es Tempelhofer Feld bueno para los perros?",
+          "a": "Sí, con matices. Los perros deben ir con correa en las antiguas pistas para proteger las aves que anidan, pero hay zonas de prado sin correa en el perímetro del campo. El espacio es extraordinario, pero no es un entorno completamente sin correa."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Berlin",
+      "titleFr": "Voyager avec son animal à Berlin",
+      "titleEs": "Viajar con mascotas en Berlín",
+      "introEn": "Berlin's public transport network (BVG) covers the city comprehensively with U-Bahn, S-Bahn, trams, and buses. For dog owners, the rules are clear: dogs in a carrier bag travel free on all BVG services; dogs larger than a carrier bag require a child's ticket (Kleinkinderticket, around €1.80 per journey) and must wear a muzzle. The rule is consistently enforced, particularly on the U-Bahn. Berlin is also a cycling city, and riding with a dog on quieter streets is very common.",
+      "introFr": "Le réseau de transports en commun de Berlin (BVG) couvre la ville de manière exhaustive avec U-Bahn, S-Bahn, trams et bus. Pour les propriétaires de chiens, les règles sont claires : les chiens dans un sac de transport voyagent gratuitement sur tous les services BVG ; les chiens plus grands nécessitent un ticket enfant (Kleinkinderticket, environ 1,80 €) et doivent porter une muselière. La règle est régulièrement appliquée, notamment dans le U-Bahn. Berlin est aussi une ville cycliste, et rouler avec un chien dans les rues plus calmes est très courant.",
+      "introEs": "La red de transporte público de Berlín (BVG) cubre la ciudad de forma integral con U-Bahn, S-Bahn, tranvías y autobuses. Para los dueños de perros, las normas son claras: los perros en bolsa de transporte viajan gratis en todos los servicios BVG; los perros más grandes necesitan un billete de niño (Kleinkinderticket, alrededor de 1,80 €) y deben llevar bozal. La norma se aplica de forma consistente, especialmente en el U-Bahn. Berlín también es una ciudad ciclista, y circular con un perro por calles más tranquilas es muy común.",
+      "rules": [
+        {
+          "mode": "U-Bahn & S-Bahn (BVG)",
+          "modeFr": "U-Bahn & S-Bahn (BVG)",
+          "modeEs": "U-Bahn & S-Bahn (BVG)",
+          "policy": "Dogs in a carrier bag: free. Larger dogs: child's ticket (Kleinkinderticket) required + muzzle mandatory. Maximum 1 dog per ticket. Dogs cannot occupy seats. Source: bvg.de",
+          "policyFr": "Chiens dans un sac de transport : gratuit. Chiens plus grands : ticket enfant (Kleinkinderticket) obligatoire + muselière obligatoire. Maximum 1 chien par ticket. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : bvg.de",
+          "policyEs": "Perros en bolsa de transporte: gratis. Perros más grandes: billete de niño (Kleinkinderticket) obligatorio + bozal obligatorio. Máximo 1 perro por billete. Los perros no pueden ocupar asientos. Fuente: bvg.de",
+          "tip": "Buy the Kleinkinderticket from any BVG machine or app before boarding. Inspectors regularly check on the U-Bahn.",
+          "tipFr": "Achetez le Kleinkinderticket à n'importe quel automate BVG ou sur l'appli avant de monter. Les contrôleurs vérifient régulièrement dans le U-Bahn.",
+          "tipEs": "Compra el Kleinkinderticket en cualquier máquina BVG o app antes de subir. Los inspectores comprueban regularmente en el U-Bahn."
+        },
+        {
+          "mode": "Tram & Bus (BVG)",
+          "modeFr": "Tram & Bus (BVG)",
+          "modeEs": "Tranvía & Autobús (BVG)",
+          "policy": "Same rules as U-Bahn/S-Bahn. Dogs in carriers: free. Larger dogs: Kleinkinderticket + muzzle. Tram drivers occasionally enforce more strictly during peak hours.",
+          "policyFr": "Mêmes règles que U-Bahn/S-Bahn. Chiens dans un sac : gratuit. Chiens plus grands : Kleinkinderticket + muselière. Les chauffeurs de tram peuvent appliquer les règles plus strictement aux heures de pointe.",
+          "policyEs": "Mismas normas que U-Bahn/S-Bahn. Perros en bolsa: gratis. Perros más grandes: Kleinkinderticket + bozal. Los conductores de tranvía a veces aplican las normas con más rigor en horas punta.",
+          "tip": "Trams in Prenzlauer Berg and Friedrichshain are generally more relaxed than the central U-Bahn lines.",
+          "tipFr": "Les trams à Prenzlauer Berg et Friedrichshain sont généralement plus souples que les lignes centrales du U-Bahn.",
+          "tipEs": "Los tranvías en Prenzlauer Berg y Friedrichshain son generalmente más relajados que las líneas centrales del U-Bahn."
+        },
+        {
+          "mode": "Deutsche Bahn (intercity trains)",
+          "modeFr": "Deutsche Bahn (trains intercités)",
+          "modeEs": "Deutsche Bahn (trenes de largo recorrido)",
+          "policy": "Dogs in a carrier: free. Larger dogs: child's ticket (50% of adult fare) + muzzle required at all times. Dogs cannot occupy seats. Source: bahn.de",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : billet enfant (50% du tarif adulte) + muselière obligatoire en permanence. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : bahn.de",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete de niño (50% de la tarifa adulta) + bozal obligatorio en todo momento. Los perros no pueden ocupar asientos. Fuente: bahn.de",
+          "tip": "Book seats in the quiet car (Ruhewagen) when travelling with a dog. Less crowded and calmer for animals.",
+          "tipFr": "Réservez des places dans le wagon silencieux (Ruhewagen) quand vous voyagez avec un chien. Moins chargé et plus calme pour les animaux.",
+          "tipEs": "Reserva asientos en el vagón silencioso (Ruhewagen) cuando viajes con un perro. Menos concurrido y más tranquilo para los animales."
+        },
+        {
+          "mode": "Taxi & Uber",
+          "modeFr": "Taxi & Uber",
+          "modeEs": "Taxi & Uber",
+          "policy": "Standard taxis in Berlin generally accept dogs, especially small dogs or dogs in a carrier. Uber drivers can legally decline. Agree on the fare before entering with a large dog.",
+          "policyFr": "Les taxis standard à Berlin acceptent généralement les chiens, surtout les petits chiens ou ceux dans un sac de transport. Les chauffeurs Uber peuvent légalement refuser. Convenez du tarif avant de monter avec un grand chien.",
+          "policyEs": "Los taxis estándar en Berlín generalmente aceptan perros, especialmente perros pequeños o perros en bolsa de transporte. Los conductores de Uber pueden rechazar legalmente. Acuerda la tarifa antes de entrar con un perro grande.",
+          "tip": "Call Taxi Berlin (+49 30 202020) for the most reliable service. They are generally accommodating with dogs.",
+          "tipFr": "Appelez Taxi Berlin (+49 30 202020) pour le service le plus fiable. Ils sont généralement accommodants avec les chiens.",
+          "tipEs": "Llama a Taxi Berlin (+49 30 202020) para el servicio más fiable. Generalmente son acomodadizos con los perros."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "BVG official app and journey planner: bvg.de. Buy U-Bahn/S-Bahn/tram/bus tickets, plan routes, and check live departures. Deutsche Bahn national rail: bahn.de. Book train tickets and check schedules. The BVG app can be used for all Berlin public transport.",
+          "contentFr": "Application et planificateur BVG officiel : bvg.de. Achetez des billets U-Bahn/S-Bahn/tram/bus, planifiez vos trajets et consultez les départs en temps réel. Deutsche Bahn trains nationaux : bahn.de. Réservez des billets et consultez les horaires. L'appli BVG est valable pour tous les transports en commun berlinois.",
+          "contentEs": "App oficial y planificador BVG: bvg.de. Compra billetes de U-Bahn/S-Bahn/tranvía/autobús, planifica rutas y consulta salidas en tiempo real. Deutsche Bahn trenes nacionales: bahn.de. Reserva billetes de tren y consulta horarios. La app BVG se puede usar para todos los transportes públicos de Berlín."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Berlin U-Bahn?",
+          "a": "Yes. Dogs in a carrier travel free. Larger dogs need a child's ticket (Kleinkinderticket, around €1.80) and must wear a muzzle. Only one dog per passenger is permitted, and dogs cannot sit on seats. Rules are from bvg.de."
+        },
+        {
+          "q": "Do dogs need a muzzle on Berlin public transport?",
+          "a": "Yes — dogs larger than a carrier bag must wear a muzzle on all BVG services (U-Bahn, S-Bahn, tram, bus). This rule is enforced. Always carry a spare muzzle when travelling in Berlin."
+        },
+        {
+          "q": "Can I take my dog on Deutsche Bahn trains from Berlin?",
+          "a": "Yes. Small dogs in an approved carrier travel free. Dogs larger than a carrier need a child's ticket (50% of adult fare) and a muzzle. Dogs cannot sit on seats. Book tickets at bahn.de."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le U-Bahn de Berlin avec mon chien ?",
+          "a": "Oui. Les chiens dans un sac voyagent gratuitement. Les chiens plus grands ont besoin d'un ticket enfant (Kleinkinderticket, environ 1,80 €) et doivent porter une muselière. Un seul chien par passager et les animaux ne peuvent pas s'asseoir sur les sièges. Règles issues de bvg.de."
+        },
+        {
+          "q": "Les chiens doivent-ils porter une muselière dans les transports en commun berlinois ?",
+          "a": "Oui — les chiens plus grands qu'un sac de transport doivent porter une muselière dans tous les services BVG (U-Bahn, S-Bahn, tram, bus). Cette règle est appliquée. Emportez toujours une muselière de rechange lorsque vous vous déplacez à Berlin."
+        },
+        {
+          "q": "Puis-je prendre les trains Deutsche Bahn depuis Berlin avec mon chien ?",
+          "a": "Oui. Les petits chiens dans un sac homologué voyagent gratuitement. Les chiens plus grands ont besoin d'un billet enfant (50% du tarif adulte) et d'une muselière. Les chiens ne peuvent pas s'asseoir sur les sièges. Billets sur bahn.de."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el U-Bahn de Berlín?",
+          "a": "Sí. Los perros en bolsa de transporte viajan gratis. Los perros más grandes necesitan un billete de niño (Kleinkinderticket, alrededor de 1,80 €) y deben llevar bozal. Solo se permite un perro por pasajero y los animales no pueden ocupar asientos. Normas en bvg.de."
+        },
+        {
+          "q": "¿Los perros necesitan bozal en el transporte público de Berlín?",
+          "a": "Sí — los perros más grandes que una bolsa de transporte deben llevar bozal en todos los servicios BVG (U-Bahn, S-Bahn, tranvía, autobús). Esta norma se aplica. Lleva siempre un bozal de repuesto cuando viajes en Berlín."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en los trenes de Deutsche Bahn desde Berlín?",
+          "a": "Sí. Los perros pequeños en transportín homologado viajan gratis. Los perros más grandes necesitan un billete de niño (50% de la tarifa adulta) y bozal. Los perros no pueden ocupar asientos. Reserva billetes en bahn.de."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Swimming near Berlin",
+      "titleFr": "Lacs et baignade avec son chien près de Berlin",
+      "titleEs": "Lagos y zonas de baño para perros cerca de Berlín",
+      "introEn": "Berlin is an inland city, but it is surrounded by lakes that serve as the city's beaches. The Wannsee, Müggelsee, and Schlachtensee are all within 30–45 minutes of the city centre and each has designated dog-friendly swimming areas. Many of these areas are seasonal: dogs may be banned from the main swimming zones from May to September but are freely allowed in off-season. Always check current signage on arrival.",
+      "introFr": "Berlin est une ville intérieure, mais elle est entourée de lacs qui font office de plages. Le Wannsee, le Müggelsee et le Schlachtensee sont tous à 30–45 minutes du centre-ville et chacun dispose de zones de baignade réservées aux chiens. Beaucoup de ces zones sont saisonnières : les chiens peuvent être interdits dans les zones de baignade principales de mai à septembre, mais sont librement autorisés hors saison. Vérifiez toujours la signalisation sur place à votre arrivée.",
+      "introEs": "Berlín es una ciudad interior, pero está rodeada de lagos que actúan como playas de la ciudad. El Wannsee, el Müggelsee y el Schlachtensee están todos a 30–45 minutos del centro de la ciudad y cada uno tiene zonas de natación designadas para perros. Muchas de estas zonas son estacionales: los perros pueden estar prohibidos en las principales zonas de baño de mayo a septiembre, pero se permiten libremente fuera de temporada. Comprueba siempre la señalización local a tu llegada.",
+      "places": [
+        {
+          "name": "Wannsee — Hundestrand (Dog Beach)",
+          "distance": "30 min by S-Bahn (S1/S7) from central Berlin",
+          "description": "The Wannsee is Berlin's most famous swimming lake, and it has a dedicated dog beach (Hundestrand) at the northern end of the main beach area. Dogs can swim freely in the designated zone year-round. The surrounding Grunewald forest provides a full day's outing: forest walk followed by lake swim. The dog beach has good shading and the lake is clean and monitored.",
+          "season": "Year-round (dog zone). Main public beach is May–September",
+          "rules": "Dogs permitted in the designated Hundestrand zone year-round. Dogs prohibited from the main public bathing beach from May to September.",
+          "facilities": "Parking, cafés nearby, S-Bahn station (Wannsee) within walking distance",
+          "googleMapsUrl": "https://maps.google.com/?q=Wannsee+Berlin"
+        },
+        {
+          "name": "Müggelsee — Rahnsdorfer Ufer",
+          "distance": "40 min by S-Bahn (S3) + bus from central Berlin",
+          "description": "Berlin's largest lake, the Müggelsee, has several dog-accessible shores, particularly on the quieter southern and eastern banks around Rahnsdorf. Dogs can swim freely in most areas outside the main public beach zone. The surrounding Müggelberge forest hills make this the best combination of woodland walking and lake swimming near Berlin.",
+          "season": "Year-round on designated dog-accessible shores",
+          "rules": "Dogs prohibited from main public beach (Strandbad Müggelsee) from May to September. Dog-friendly access on quieter banks year-round.",
+          "facilities": "Parking, local cafés in Rahnsdorf village",
+          "googleMapsUrl": "https://maps.google.com/?q=M%C3%BCggelsee+Berlin"
+        },
+        {
+          "name": "Schlachtensee",
+          "distance": "25 min by S-Bahn (S1) from central Berlin",
+          "description": "A smaller, quieter alternative to the Wannsee, Schlachtensee is a beloved local lake in the Zehlendorf district. Dogs are permitted at several points along the 4 km walking path around the lake, with designated swimming access areas. It's calmer and less crowded than Wannsee, making it better for dogs that find busy beaches stressful.",
+          "season": "Year-round at designated access points",
+          "rules": "Dogs permitted at designated lake access points. Check current seasonal signage on arrival. Generally more permissive than Wannsee.",
+          "facilities": "S-Bahn station (Schlachtensee), small café at the lake",
+          "googleMapsUrl": "https://maps.google.com/?q=Schlachtensee+Berlin"
+        }
+      ],
+      "tipsEn": [
+        "Berlin's lake dog rules change seasonally. Always check signage on arrival — fines apply for dogs in prohibited areas.",
+        "The Hundestrand at Wannsee is the most reliable year-round dog swimming area near Berlin.",
+        "Combine a Grunewald forest walk with a Wannsee swim for a full-day dog outing that requires no car.",
+        "Avoid the main public beach zones at all major lakes from May to September — dogs are generally banned from these areas."
+      ],
+      "tipsFr": [
+        "Les règles pour les chiens dans les lacs de Berlin changent selon la saison. Vérifiez toujours la signalisation à votre arrivée — des amendes s'appliquent dans les zones interdites.",
+        "La Hundestrand du Wannsee est la zone de baignade canine la plus fiable toute l'année près de Berlin.",
+        "Combinez une balade dans la forêt de Grunewald avec une baignade au Wannsee pour une journée complète sans voiture.",
+        "Évitez les zones de baignade publiques principales de tous les grands lacs de mai à septembre — les chiens y sont généralement interdits."
+      ],
+      "tipsEs": [
+        "Las normas de los lagos de Berlín para perros cambian según la temporada. Comprueba siempre la señalización a tu llegada — se aplican multas en las zonas prohibidas.",
+        "La Hundestrand del Wannsee es la zona de natación para perros más fiable durante todo el año cerca de Berlín.",
+        "Combina un paseo por el bosque de Grunewald con un baño en el Wannsee para una excursión de día completo sin coche.",
+        "Evita las principales zonas de baño público de todos los grandes lagos de mayo a septiembre — los perros generalmente están prohibidos en estas zonas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in the Wannsee in Berlin?",
+          "a": "Yes, in the dedicated Hundestrand (dog beach) zone at the northern end of the beach area. This zone is open year-round. Dogs are prohibited from the main public bathing beach from May to September."
+        },
+        {
+          "q": "Which is the most dog-friendly lake near Berlin?",
+          "a": "The Schlachtensee tends to be the most relaxed about dog access. The Wannsee has the most reliable dedicated dog zone (Hundestrand). The Müggelsee offers the best combination of quiet banks and woodland surroundings."
+        },
+        {
+          "q": "Are there entry fees for Berlin's lakes?",
+          "a": "The Strandbad Wannsee (public beach) charges entry from May to September. The dog zones and most lake bank areas are free to access year-round. Parking may charge a fee at popular spots."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le Wannsee à Berlin ?",
+          "a": "Oui, dans la zone Hundestrand (plage pour chiens) dédiée à l'extrémité nord de la plage. Cette zone est accessible toute l'année. Les chiens sont interdits sur la plage de baignade publique principale de mai à septembre."
+        },
+        {
+          "q": "Quel est le lac le plus dog-friendly près de Berlin ?",
+          "a": "Le Schlachtensee est généralement le plus souple concernant l'accès des chiens. Le Wannsee a la zone canine dédiée la plus fiable (Hundestrand). Le Müggelsee offre la meilleure combinaison de rives calmes et d'environnement boisé."
+        },
+        {
+          "q": "Y a-t-il des droits d'entrée pour les lacs de Berlin ?",
+          "a": "Le Strandbad Wannsee (plage publique) est payant de mai à septembre. Les zones canines et la plupart des berges sont accessibles gratuitement toute l'année. Un parking payant peut être appliqué dans les endroits très fréquentés."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en el Wannsee en Berlín?",
+          "a": "Sí, en la zona Hundestrand (playa para perros) dedicada en el extremo norte del área de playa. Esta zona está abierta durante todo el año. Los perros están prohibidos en la principal playa de baño público de mayo a septiembre."
+        },
+        {
+          "q": "¿Cuál es el lago más amigable con los perros cerca de Berlín?",
+          "a": "El Schlachtensee tiende a ser el más relajado respecto al acceso de perros. El Wannsee tiene la zona canina dedicada más fiable (Hundestrand). El Müggelsee ofrece la mejor combinación de orillas tranquilas y entorno boscoso."
+        },
+        {
+          "q": "¿Hay tarifas de entrada para los lagos de Berlín?",
+          "a": "El Strandbad Wannsee (playa pública) cobra entrada de mayo a septiembre. Las zonas para perros y la mayoría de las orillas del lago son de acceso gratuito durante todo el año. El aparcamiento puede cobrar en los puntos más populares."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Berlin",
+      "titleFr": "Vétérinaires et urgences vétérinaires à Berlin",
+      "titleEs": "Veterinarios y urgencias veterinarias en Berlín",
+      "introEn": "Berlin has a strong network of veterinary clinics, including several genuine 24-hour emergency practices. The Tierklinik Düppel and the Tierärztliche Hochschule (veterinary university clinic) provide round-the-clock emergency care. For routine needs, the city has hundreds of practices across all neighbourhoods. Always confirm opening hours by phone before visiting any clinic, especially on weekends and public holidays.",
+      "introFr": "Berlin dispose d'un solide réseau de cliniques vétérinaires, dont plusieurs cabinets d'urgence véritablement ouverts 24h/24. La Tierklinik Düppel et la clinique universitaire vétérinaire (Tierärztliche Hochschule) assurent des soins d'urgence en permanence. Pour les besoins courants, la ville compte des centaines de cabinets dans tous les quartiers. Vérifiez toujours les horaires d'ouverture par téléphone avant de vous rendre dans une clinique, notamment le week-end et les jours fériés.",
+      "introEs": "Berlín tiene una sólida red de clínicas veterinarias, incluyendo varias prácticas de emergencia genuinamente abiertas las 24 horas. La Tierklinik Düppel y la clínica universitaria veterinaria (Tierärztliche Hochschule) proporcionan atención de emergencia las 24 horas. Para necesidades rutinarias, la ciudad tiene cientos de consultas en todos los barrios. Confirma siempre los horarios de apertura por teléfono antes de visitar cualquier clínica, especialmente los fines de semana y festivos.",
+      "places": [
+        {
+          "name": "Tierklinik Düppel — Freie Universität Berlin",
+          "address": "Oertzenweg 19b, 14163 Berlin",
+          "neighborhood": "Zehlendorf",
+          "photo": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.vetmed.fu-berlin.de/kliniken/",
+          "description": "The veterinary teaching hospital of the Freie Universität Berlin is Berlin's most comprehensive animal hospital, offering 24-hour emergency care and specialist services in internal medicine, surgery, and imaging. As a university clinic, it handles complex cases that regular practices cannot. The emergency intake is open around the clock, every day of the year. The facility is large, well-staffed, and accepts all species.",
+          "descriptionFr": "L'hôpital vétérinaire universitaire de la Freie Universität Berlin est l'hôpital animalier le plus complet de Berlin, offrant des soins d'urgence 24h/24 et des services spécialisés en médecine interne, chirurgie et imagerie. En tant que clinique universitaire, elle traite des cas complexes que les cabinets ordinaires ne peuvent pas gérer. L'accueil des urgences est ouvert en permanence, tous les jours de l'année. L'établissement est grand, bien doté en personnel et accepte toutes les espèces.",
+          "descriptionEs": "El hospital veterinario universitario de la Freie Universität Berlin es el hospital de animales más completo de Berlín, que ofrece atención de emergencia las 24 horas y servicios especializados en medicina interna, cirugía e imagen. Como clínica universitaria, atiende casos complejos que las consultas habituales no pueden gestionar. La recepción de urgencias está abierta las 24 horas del día, todos los días del año.",
+          "petPolicy": "All species accepted. 24-hour emergency intake",
+          "petPolicyFr": "Toutes espèces acceptées. Accueil urgences 24h/24",
+          "petPolicyEs": "Todas las especies admitidas. Urgencias 24 horas",
+          "priceRange": "€€€",
+          "openingHours": "24 hours, 7 days a week",
+          "tip": "For true emergencies this is the most reliable option in Berlin. Expect wait times on busy nights",
+          "tipFr": "Pour les vraies urgences, c'est l'option la plus fiable à Berlin. Prévoyez des temps d'attente les soirs chargés",
+          "tipEs": "Para emergencias reales, esta es la opción más fiable en Berlín. Espera tiempos de espera en noches concurridas",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+D%C3%BCppel+Berlin"
+        },
+        {
+          "name": "Tierarztpraxis Bergmannstraße",
+          "address": "Bergmannstraße 5, 10961 Berlin",
+          "neighborhood": "Kreuzberg",
+          "photo": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tierarzt-bergmannstrasse.de/",
+          "description": "A well-regarded general practice in the heart of Kreuzberg, conveniently located for dogs staying in the central neighbourhoods. Offers routine consultations, vaccinations, and minor treatments. English-speaking staff available on request. Not a 24-hour emergency clinic — call ahead to confirm hours.",
+          "descriptionFr": "Un cabinet généraliste apprécié au cœur de Kreuzberg, idéalement situé pour les chiens logeant dans les quartiers centraux. Propose des consultations de routine, vaccinations et traitements mineurs. Personnel anglophone disponible sur demande. Ce n'est pas une clinique d'urgence 24h/24 — appelez d'abord pour confirmer les horaires.",
+          "descriptionEs": "Una consulta generalista bien considerada en el corazón de Kreuzberg, convenientemente ubicada para perros que se alojan en los barrios centrales. Ofrece consultas de rutina, vacunaciones y tratamientos menores. Personal de habla inglesa disponible a petición. No es una clínica de emergencias 24 horas — llama para confirmar horarios.",
+          "petPolicy": "Dogs and cats. By appointment preferred",
+          "petPolicyFr": "Chiens et chats. Sur rendez-vous de préférence",
+          "petPolicyEs": "Perros y gatos. Con cita previa preferiblemente",
+          "priceRange": "€€",
+          "openingHours": "Mon–Fri 09:00–18:00, Sat 09:00–13:00",
+          "tip": "Book by phone or online at least 2 days ahead for non-urgent consultations",
+          "tipFr": "Réservez par téléphone ou en ligne au moins 2 jours à l'avance pour les consultations non urgentes",
+          "tipEs": "Reserva por teléfono o en línea con al menos 2 días de antelación para consultas no urgentes",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Bergmannstra%C3%9Fe+Berlin"
+        }
+      ],
+      "tipsEn": [
+        "Save the number for Tierklinik Düppel (+49 30 838 0) before your trip — they are the most reliable 24-hour emergency service in Berlin.",
+        "Most Berlin vets require an appointment for routine visits. Walk-ins are usually only accepted for emergencies.",
+        "Bring your dog's EU pet passport or vaccination records. German vets will ask for them.",
+        "Pet insurance valid in Germany significantly reduces emergency vet costs — check your policy coverage before travelling."
+      ],
+      "tipsFr": [
+        "Enregistrez le numéro de la Tierklinik Düppel (+49 30 838 0) avant votre voyage — c'est le service d'urgence 24h/24 le plus fiable de Berlin.",
+        "La plupart des vétérinaires berlinois exigent un rendez-vous pour les visites de routine. Les consultations sans rendez-vous ne sont généralement acceptées qu'en cas d'urgence.",
+        "Apportez le passeport européen pour animaux de votre chien ou ses carnets de vaccination. Les vétérinaires allemands les demanderont.",
+        "Une assurance animaux valable en Allemagne réduit considérablement les frais vétérinaires d'urgence — vérifiez votre couverture avant de voyager."
+      ],
+      "tipsEs": [
+        "Guarda el número de la Tierklinik Düppel (+49 30 838 0) antes de tu viaje — es el servicio de urgencias 24 horas más fiable de Berlín.",
+        "La mayoría de los veterinarios de Berlín requieren cita para visitas de rutina. Las visitas sin cita generalmente solo se aceptan para emergencias.",
+        "Trae el pasaporte europeo para mascotas de tu perro o sus registros de vacunación. Los veterinarios alemanes los pedirán.",
+        "El seguro para mascotas válido en Alemania reduce significativamente los costos de urgencias veterinarias — comprueba la cobertura de tu póliza antes de viajar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Berlin?",
+          "a": "Yes. The Tierklinik Düppel at the Freie Universität Berlin (Oertzenweg 19b, Zehlendorf) provides genuine 24-hour emergency care every day of the year. It is a university teaching hospital with specialist capabilities."
+        },
+        {
+          "q": "Do I need an appointment at a Berlin vet?",
+          "a": "For routine visits, yes — appointments are strongly recommended and often required. For genuine emergencies, the Tierklinik Düppel accepts walk-ins at all hours. Smaller practices may also see emergency cases at their discretion."
+        },
+        {
+          "q": "Will Berlin vets accept my dog's EU pet passport?",
+          "a": "Yes. Germany is part of the EU, and all EU pet passports are accepted. Ensure your dog's rabies vaccination is current before travelling. Non-EU pet passports (e.g., UK post-Brexit) are also accepted under separate bilateral arrangements."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Berlin ?",
+          "a": "Oui. La Tierklinik Düppel de la Freie Universität Berlin (Oertzenweg 19b, Zehlendorf) assure une permanence d'urgence véritable 24h/24, 365 jours par an. C'est un hôpital universitaire avec des capacités spécialisées."
+        },
+        {
+          "q": "Faut-il un rendez-vous chez un vétérinaire berlinois ?",
+          "a": "Pour les visites de routine, oui — les rendez-vous sont fortement recommandés et souvent obligatoires. Pour les vraies urgences, la Tierklinik Düppel accepte les consultations sans rendez-vous à toute heure. Les petits cabinets peuvent aussi recevoir des cas d'urgence à leur discrétion."
+        },
+        {
+          "q": "Les vétérinaires berlinois acceptent-ils le passeport européen pour animaux de mon chien ?",
+          "a": "Oui. L'Allemagne fait partie de l'UE et tous les passeports européens pour animaux sont acceptés. Assurez-vous que la vaccination antirabique de votre chien est à jour avant de voyager. Les passeports non européens (p. ex. britanniques post-Brexit) sont également acceptés dans le cadre d'accords bilatéraux distincts."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias 24 horas en Berlín?",
+          "a": "Sí. La Tierklinik Düppel de la Freie Universität Berlin (Oertzenweg 19b, Zehlendorf) proporciona atención de emergencia genuina las 24 horas, todos los días del año. Es un hospital universitario con capacidades especializadas."
+        },
+        {
+          "q": "¿Necesito cita en un veterinario de Berlín?",
+          "a": "Para visitas de rutina, sí — se recomiendan encarecidamente las citas y a menudo son obligatorias. Para emergencias reales, la Tierklinik Düppel acepta visitas sin cita a cualquier hora. Las consultas más pequeñas también pueden atender casos de emergencia a su discreción."
+        },
+        {
+          "q": "¿Los veterinarios de Berlín aceptarán el pasaporte europeo para mascotas de mi perro?",
+          "a": "Sí. Alemania es parte de la UE y se aceptan todos los pasaportes europeos para mascotas. Asegúrate de que la vacunación antirrábica de tu perro esté vigente antes de viajar. Los pasaportes no europeos (p. ej., del Reino Unido post-Brexit) también se aceptan en virtud de acuerdos bilaterales separados."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "General Dog Travel Tips for Berlin",
+      "titleFr": "Conseils généraux pour voyager avec son chien à Berlin",
+      "titleEs": "Consejos generales para viajar con perro a Berlín",
+      "introEn": "Berlin is one of the most dog-friendly capitals in Europe, with a relaxed attitude toward dogs in public spaces, cafés, and shops. The city has excellent infrastructure for dog owners, from off-leash zones to dog-washing stations in some supermarkets. A few practical points will make your visit smoother.",
+      "introFr": "Berlin est l'une des capitales les plus dog-friendly d'Europe, avec une attitude détendue envers les chiens dans les espaces publics, cafés et commerces. La ville dispose d'une excellente infrastructure pour les propriétaires de chiens, des zones de liberté aux stations de lavage pour chiens dans certains supermarchés. Quelques points pratiques rendront votre visite plus agréable.",
+      "introEs": "Berlín es una de las capitales más amigables con los perros de Europa, con una actitud relajada hacia los perros en espacios públicos, cafés y tiendas. La ciudad tiene una excelente infraestructura para los dueños de perros, desde zonas sin correa hasta estaciones de lavado de perros en algunos supermercados. Algunos puntos prácticos harán tu visita más fluida.",
+      "places": [],
+      "tipsEn": [
+        "Berlin's Hundesteuer (dog tax) applies to residents only. Tourists do not need to pay or register.",
+        "Dogs are commonly allowed in many Berlin supermarkets, particularly in Rewe and Edeka stores — look for a dog silhouette on the door.",
+        "Carry a muzzle at all times when using public transport — the BVG rule is enforced and you may be fined or refused entry without one.",
+        "Many Berlin parks have dedicated Hundeauslaufgebiete (off-leash zones) marked with brown signs. Use the Berlin Senate's online map to find them.",
+        "The Tierheim Berlin (Berlin animal shelter) has a dog-friendly visitor policy — a worthwhile stop if you're looking to meet rescue dogs."
+      ],
+      "tipsFr": [
+        "La Hundesteuer (taxe sur les chiens) de Berlin ne s'applique qu'aux résidents. Les touristes ne doivent ni payer ni s'enregistrer.",
+        "Les chiens sont souvent admis dans de nombreux supermarchés berlinois, notamment Rewe et Edeka — cherchez une silhouette de chien sur la porte.",
+        "Portez toujours une muselière dans les transports en commun — la règle BVG est appliquée et vous pouvez être sanctionné ou refoulé sans elle.",
+        "De nombreux parcs berlinois ont des zones Hundeauslaufgebiete (zones de liberté) balisées par des panneaux marron. Utilisez la carte en ligne du Sénat de Berlin pour les localiser.",
+        "Le Tierheim Berlin (refuge pour animaux de Berlin) applique une politique de visite dog-friendly — une étape intéressante si vous souhaitez rencontrer des chiens en attente d'adoption."
+      ],
+      "tipsEs": [
+        "El Hundesteuer (impuesto sobre perros) de Berlín se aplica solo a los residentes. Los turistas no necesitan pagar ni registrarse.",
+        "Los perros son comúnmente admitidos en muchos supermercados de Berlín, especialmente en tiendas Rewe y Edeka — busca una silueta de perro en la puerta.",
+        "Lleva siempre un bozal cuando uses el transporte público — la norma BVG se aplica y pueden multarte o negarte el acceso sin él.",
+        "Muchos parques de Berlín tienen zonas Hundeauslaufgebiete (sin correa) marcadas con señales marrones. Usa el mapa online del Senado de Berlín para encontrarlas.",
+        "El Tierheim Berlin (refugio de animales de Berlín) tiene una política de visita amigable con los perros — una parada que vale la pena si quieres conocer perros en adopción."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Berlin a good city to visit with a dog?",
+          "a": "Excellent. Berlin consistently ranks among Europe's most dog-friendly cities. The combination of widespread café and restaurant acceptance, excellent park infrastructure, and a relaxed local attitude makes it one of the best European capitals to visit with a dog."
+        },
+        {
+          "q": "Can I bring my dog into shops in Berlin?",
+          "a": "Many independent shops and some supermarkets (particularly Rewe and Edeka) allow dogs. Look for a dog silhouette sticker on the door. Larger chain stores and shopping centres generally do not allow dogs."
+        },
+        {
+          "q": "What is the Hundesteuer in Berlin, and does it affect tourists?",
+          "a": "The Hundesteuer is an annual dog tax paid by Berlin residents to register their dog with the local Finanzamt. It does not apply to tourists visiting the city with their dog. No registration is required for a short stay."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Berlin est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Excellente. Berlin figure régulièrement parmi les villes les plus dog-friendly d'Europe. La combinaison d'un accueil généralisé dans les cafés et restaurants, d'une excellente infrastructure de parcs, et d'une attitude locale détendue en fait l'une des meilleures capitales européennes à visiter avec un chien."
+        },
+        {
+          "q": "Puis-je entrer dans les commerces berlinois avec mon chien ?",
+          "a": "Beaucoup de commerces indépendants et quelques supermarchés (notamment Rewe et Edeka) acceptent les chiens. Cherchez un autocollant représentant une silhouette de chien sur la porte. Les grandes chaînes et centres commerciaux n'autorisent généralement pas les chiens."
+        },
+        {
+          "q": "Qu'est-ce que la Hundesteuer à Berlin, et cela concerne-t-il les touristes ?",
+          "a": "La Hundesteuer est une taxe annuelle sur les chiens payée par les résidents berlinois pour enregistrer leur animal auprès du Finanzamt local. Elle ne s'applique pas aux touristes visitant la ville avec leur chien. Aucune démarche d'enregistrement n'est nécessaire pour un court séjour."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Berlín una buena ciudad para visitar con un perro?",
+          "a": "Excelente. Berlín se clasifica consistentemente entre las ciudades más amigables con los perros de Europa. La combinación de aceptación generalizada en cafés y restaurantes, excelente infraestructura de parques y una actitud local relajada la convierte en una de las mejores capitales europeas para visitar con un perro."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a las tiendas en Berlín?",
+          "a": "Muchas tiendas independientes y algunos supermercados (especialmente Rewe y Edeka) permiten perros. Busca una pegatina con silueta de perro en la puerta. Las grandes cadenas y centros comerciales generalmente no permiten perros."
+        },
+        {
+          "q": "¿Qué es el Hundesteuer en Berlín y afecta a los turistas?",
+          "a": "El Hundesteuer es un impuesto anual sobre perros pagado por los residentes de Berlín para registrar su animal en el Finanzamt local. No se aplica a los turistas que visitan la ciudad con su perro. No se requiere ningún registro para una estancia corta."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Berlin",
+      "titleFr": "Attractions dog-friendly à Berlin",
+      "titleEs": "Atracciones para perros en Berlín",
+      "introEn": "Berlin's outdoor attractions are largely dog-friendly by default. The vast majority of the city's most iconic sites — the East Side Gallery, the Holocaust Memorial, the Reichstag forecourt — are outdoor spaces where dogs on a leash are entirely welcome. Museums are a different matter: most German museums do not allow dogs inside. However, the sheer number of extraordinary outdoor experiences in Berlin means you will never run short of things to do with your dog.",
+      "introFr": "Les attractions extérieures de Berlin sont en grande partie dog-friendly par défaut. La grande majorité des sites les plus iconiques de la ville — la East Side Gallery, le Mémorial de l'Holocauste, le parvis du Reichstag — sont des espaces extérieurs où les chiens en laisse sont parfaitement acceptés. Les musées sont une autre affaire : la plupart des musées allemands n'autorisent pas les chiens à l'intérieur. Cependant, le nombre extraordinaire d'expériences en plein air à Berlin fait que vous ne manquerez jamais d'activités à faire avec votre chien.",
+      "introEs": "Las atracciones al aire libre de Berlín son en su mayor parte amigables con los perros por defecto. La gran mayoría de los sitios más icónicos de la ciudad — la East Side Gallery, el Memorial del Holocausto, el patio del Reichstag — son espacios exteriores donde los perros con correa son completamente bienvenidos. Los museos son otra cuestión: la mayoría de los museos alemanes no permiten perros en el interior. Sin embargo, el enorme número de experiencias al aire libre extraordinarias en Berlín significa que nunca te faltará qué hacer con tu perro.",
+      "places": [
+        {
+          "name": "East Side Gallery",
+          "address": "Mühlenstraße 3-100, 10243 Berlin",
+          "neighborhood": "Friedrichshain",
+          "photo": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.eastsidegallery-berlin.de/",
+          "description": "The longest surviving section of the Berlin Wall — 1.3 kilometres of concrete panels painted by artists from around the world — runs alongside the Spree river in Friedrichshain. This is one of Berlin's most powerful outdoor experiences and entirely dog-friendly. Dogs on a leash are welcome the full length of the gallery, and the riverside path extends for several kilometres in both directions, making for an excellent walk. The Oberbaumbrücke at the end is a Berlin landmark.",
+          "descriptionFr": "La plus longue section du Mur de Berlin encore debout — 1,3 kilomètre de panneaux de béton peints par des artistes du monde entier — longe la rivière Spree à Friedrichshain. C'est l'une des expériences extérieures les plus fortes de Berlin et elle est entièrement dog-friendly. Les chiens en laisse sont les bienvenus sur toute la longueur de la galerie, et le chemin en bord de Spree s'étend sur plusieurs kilomètres dans les deux sens, formant une excellente promenade. L'Oberbaumbrücke au bout est un monument berlinois.",
+          "descriptionEs": "La sección superviviente más larga del Muro de Berlín — 1,3 kilómetros de paneles de hormigón pintados por artistas de todo el mundo — discurre junto al río Spree en Friedrichshain. Esta es una de las experiencias al aire libre más poderosas de Berlín y es completamente amigable con los perros. Los perros con correa son bienvenidos en toda la longitud de la galería, y el camino junto al río se extiende varios kilómetros en ambas direcciones.",
+          "petPolicy": "Dogs on leash welcome throughout",
+          "petPolicyFr": "Chiens en laisse bienvenus sur tout le parcours",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el recorrido",
+          "priceRange": "Free",
+          "mustTry": "Walk the full 1.3km length, then continue to the Oberbaumbrücke",
+          "mustTryFr": "Parcourir les 1,3 km en entier, puis continuer jusqu'à l'Oberbaumbrücke",
+          "mustTryEs": "Recorre el 1,3 km completo, luego continúa hasta el Oberbaumbrücke",
+          "openingHours": "Open 24 hours",
+          "tip": "Come early morning (before 09:00) to see the murals without crowds and have the riverside path almost to yourself",
+          "tipFr": "Venez tôt le matin (avant 9h) pour voir les fresques sans foule et profiter du chemin de bord de Spree presque seul",
+          "tipEs": "Ven temprano por la mañana (antes de las 09:00) para ver los murales sin multitudes y tener el camino junto al río casi para ti solo",
+          "googleMapsUrl": "https://maps.google.com/?q=East+Side+Gallery+Berlin"
+        },
+        {
+          "name": "Holocaust Memorial (Memorial to the Murdered Jews of Europe)",
+          "address": "Cora-Berliner-Straße 1, 10117 Berlin",
+          "neighborhood": "Mitte",
+          "photo": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.stiftung-denkmal.de/",
+          "description": "Peter Eisenman's field of 2,711 concrete stelae in the heart of Berlin is one of the most powerful memorial spaces in the world. The outdoor field is open 24 hours and dogs on a leash are permitted to walk through it with their owners. The underground information centre (Ort der Information) does not permit dogs. This is a place for quiet reflection — keep your dog calm and on a short leash out of respect.",
+          "descriptionFr": "Le champ de 2 711 stèles en béton de Peter Eisenman au cœur de Berlin est l'un des espaces commémoratifs les plus puissants au monde. Le champ extérieur est ouvert 24h/24 et les chiens en laisse sont autorisés à le parcourir avec leur propriétaire. Le centre d'information souterrain (Ort der Information) n'autorise pas les chiens. C'est un lieu de recueillement — gardez votre chien calme et en courte laisse par respect.",
+          "descriptionEs": "El campo de 2.711 estelas de hormigón de Peter Eisenman en el corazón de Berlín es uno de los espacios conmemorativos más poderosos del mundo. El campo exterior está abierto las 24 horas y los perros con correa pueden recorrerlo con sus dueños. El centro de información subterráneo (Ort der Information) no permite perros. Este es un lugar de reflexión tranquila — mantén a tu perro calmado y con correa corta por respeto.",
+          "petPolicy": "Dogs on leash permitted in outdoor memorial field. Not permitted in underground information centre",
+          "petPolicyFr": "Chiens en laisse autorisés dans le champ commémoratif extérieur. Non autorisés dans le centre d'information souterrain",
+          "petPolicyEs": "Perros con correa permitidos en el campo conmemorativo exterior. No permitidos en el centro de información subterráneo",
+          "priceRange": "Free",
+          "mustTry": "Walk through the full field of stelae at dawn or dusk for the most powerful experience",
+          "mustTryFr": "Traverser l'ensemble du champ de stèles à l'aube ou au crépuscule pour l'expérience la plus forte",
+          "mustTryEs": "Recorre todo el campo de estelas al amanecer o al atardecer para la experiencia más poderosa",
+          "openingHours": "Outdoor memorial: open 24 hours. Information Centre: Tue–Sun 10:00–20:00",
+          "tip": "The memorial is a solemn space. Treat it with respect — keep dogs on a short leash and prevent jumping on the stelae",
+          "tipFr": "Ce mémorial est un espace solennel. Faites preuve de respect — tenez les chiens en courte laisse et empêchez-les de sauter sur les stèles",
+          "tipEs": "El memorial es un espacio solemne. Trátalo con respeto — mantén a los perros con correa corta y evita que salten sobre las estelas",
+          "googleMapsUrl": "https://maps.google.com/?q=Holocaust+Memorial+Berlin"
+        },
+        {
+          "name": "Tempelhofer Feld",
+          "address": "Tempelhofer Damm, 12099 Berlin",
+          "neighborhood": "Tempelhof",
+          "photo": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://gruen-berlin.de/tempelhofer-feld",
+          "description": "See the parks section for a full description. Listed here because this former airport is also one of Berlin's most extraordinary visitor experiences — a genuine piece of living history that is unlike any other public space in Europe. Walking the old runways with your dog, surrounded by kite-surfers and community gardens, is a uniquely Berlin experience. No entry fee. Open dawn to dusk.",
+          "descriptionFr": "Voir la section parcs pour une description complète. Mentionné ici car cet ancien aéroport est aussi l'une des expériences visiteur les plus extraordinaires de Berlin — un véritable morceau d'histoire vivante sans équivalent en Europe. Marcher sur les anciennes pistes avec son chien, entouré de kite-surfers et de jardins communautaires, est une expérience typiquement berlinoise. Entrée gratuite. Ouvert du lever au coucher du soleil.",
+          "descriptionEs": "Ver la sección parques para una descripción completa. Se menciona aquí porque este antiguo aeropuerto es también una de las experiencias de visitante más extraordinarias de Berlín — un auténtico trozo de historia viva que no tiene equivalente en ningún otro espacio público de Europa. Caminar por las antiguas pistas con tu perro, rodeado de kite-surfers y huertos comunitarios, es una experiencia únicamente berlinesa.",
+          "petPolicy": "Dogs on leash on runways. Off-leash in designated meadow zones",
+          "petPolicyFr": "Chiens en laisse sur les pistes. Liberté dans les zones de prairie désignées",
+          "petPolicyEs": "Perros con correa en las pistas. Sin correa en las zonas de prado designadas",
+          "priceRange": "Free",
+          "mustTry": "Walk the full runway circuit (5 km) at sunset",
+          "mustTryFr": "Parcourir le circuit complet des pistes (5 km) au coucher du soleil",
+          "mustTryEs": "Recorre el circuito completo de pistas (5 km) al atardecer",
+          "openingHours": "Daily dawn–dusk",
+          "tip": "Entry is from six gates around the perimeter. The Leinestraße gate in Neukölln is least busy",
+          "tipFr": "L'accès se fait par six portails en périphérie. La porte Leinestraße à Neukölln est la moins fréquentée",
+          "tipEs": "El acceso es por seis puertas en el perímetro. La puerta Leinestraße en Neukölln es la menos concurrida",
+          "googleMapsUrl": "https://maps.google.com/?q=Tempelhofer+Feld+Berlin"
+        },
+        {
+          "name": "Charlottenburg Palace Gardens",
+          "address": "Spandauer Damm 10-22, 14059 Berlin",
+          "neighborhood": "Charlottenburg",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.spsg.de/en/palaces-gardens/object/charlottenburg-palace-new-wing/",
+          "description": "The baroque gardens of Charlottenburg Palace are among the most beautiful formal gardens in Germany. Dogs on a leash are permitted in the gardens (not in the palace interior). The extensive parkland behind the formal garden stretches along the Spree river, providing a long, flat walk in a beautiful setting. The garden is particularly spectacular in spring when the ornamental trees are in bloom.",
+          "descriptionFr": "Les jardins baroques du Palais de Charlottenburg sont parmi les plus beaux jardins formels d'Allemagne. Les chiens en laisse sont autorisés dans les jardins (pas à l'intérieur du palais). Le vaste parc derrière le jardin à la française s'étend le long de la Spree, offrant une longue promenade plate dans un cadre magnifique. Le jardin est particulièrement splendide au printemps lorsque les arbres ornementaux sont en fleur.",
+          "descriptionEs": "Los jardines barrocos del Palacio de Charlottenburg se encuentran entre los jardines formales más bellos de Alemania. Los perros con correa están permitidos en los jardines (no en el interior del palacio). El extenso parque detrás del jardín formal se extiende a lo largo del río Spree, proporcionando un largo paseo llano en un entorno hermoso.",
+          "petPolicy": "Dogs on leash permitted in palace gardens. Not permitted inside palace buildings",
+          "petPolicyFr": "Chiens en laisse autorisés dans les jardins du palais. Non autorisés à l'intérieur des bâtiments",
+          "petPolicyEs": "Perros con correa permitidos en los jardines del palacio. No permitidos en el interior de los edificios",
+          "priceRange": "Free (garden access)",
+          "mustTry": "Walk the full length of the park along the Spree river behind the formal garden",
+          "mustTryFr": "Longer tout le parc le long de la Spree derrière le jardin à la française",
+          "mustTryEs": "Recorre toda la longitud del parque a lo largo del río Spree detrás del jardín formal",
+          "openingHours": "Daily 06:00–21:00 (summer), 06:00–19:00 (winter)",
+          "tip": "Combine with a walk along the Spree river behind the palace for a full morning outing",
+          "tipFr": "Combinez avec une balade le long de la Spree derrière le palais pour une matinée complète",
+          "tipEs": "Combínalo con un paseo por el río Spree detrás del palacio para una mañana completa",
+          "googleMapsUrl": "https://maps.google.com/?q=Schloss+Charlottenburg+Berlin"
+        }
+      ],
+      "tipsEn": [
+        "Berlin's outdoor monuments and memorials almost universally welcome dogs on a leash. Interiors (museums, churches, galleries) generally do not.",
+        "The East Side Gallery, Tempelhofer Feld, and the palace gardens are the three best dog-friendly attractions in the city.",
+        "The Berliner Dom (cathedral) allows dogs in the surrounding Lustgarten park but not inside the building.",
+        "Most Berlin markets (Mauerpark, Boxhagener Platz, Naschmarkt) are extremely dog-friendly."
+      ],
+      "tipsFr": [
+        "Les monuments et mémoriaux extérieurs de Berlin accueillent presque universellement les chiens en laisse. Les intérieurs (musées, églises, galeries) généralement non.",
+        "La East Side Gallery, le Tempelhofer Feld et les jardins du palais sont les trois meilleures attractions dog-friendly de la ville.",
+        "Le Berliner Dom (cathédrale) autorise les chiens dans le Lustgarten environnant mais pas à l'intérieur du bâtiment.",
+        "La plupart des marchés berlinois (Mauerpark, Boxhagener Platz, Naschmarkt) sont extrêmement dog-friendly."
+      ],
+      "tipsEs": [
+        "Los monumentos y memoriales al aire libre de Berlín acogen casi universalmente perros con correa. Los interiores (museos, iglesias, galerías) generalmente no.",
+        "La East Side Gallery, el Tempelhofer Feld y los jardines del palacio son las tres mejores atracciones para perros en la ciudad.",
+        "El Berliner Dom (catedral) permite perros en el Lustgarten circundante pero no dentro del edificio.",
+        "La mayoría de los mercados de Berlín (Mauerpark, Boxhagener Platz, Naschmarkt) son extremadamente amigables con los perros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed at the Berlin Wall (East Side Gallery)?",
+          "a": "Yes. The East Side Gallery is an outdoor site and dogs on a leash are welcome the full length of the 1.3 km gallery. The riverside path extending in both directions is also freely accessible with dogs."
+        },
+        {
+          "q": "Can I visit Charlottenburg Palace with my dog?",
+          "a": "Yes, in the gardens. The baroque gardens and the riverside park behind the palace are open to dogs on a leash. Dogs are not permitted inside the palace buildings themselves."
+        },
+        {
+          "q": "Are Berlin's Christmas markets dog-friendly?",
+          "a": "Most of them yes. Berlin's many Christmas markets (Gendarmenmarkt, Charlottenburg, Alexanderplatz) are outdoor events where dogs on a leash are typically welcome. The Gendarmenmarkt market charges entry, but dogs can join you."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés au Mur de Berlin (East Side Gallery) ?",
+          "a": "Oui. La East Side Gallery est un site extérieur et les chiens en laisse sont les bienvenus sur l'intégralité des 1,3 km de galerie. Le chemin en bord de Spree s'étendant dans les deux sens est aussi librement accessible avec des chiens."
+        },
+        {
+          "q": "Puis-je visiter le Palais de Charlottenburg avec mon chien ?",
+          "a": "Oui, dans les jardins. Les jardins baroques et le parc fluvial derrière le palais sont ouverts aux chiens en laisse. Les chiens ne sont pas admis à l'intérieur des bâtiments du palais."
+        },
+        {
+          "q": "Les marchés de Noël berlinois sont-ils dog-friendly ?",
+          "a": "La plupart, oui. Les nombreux marchés de Noël de Berlin (Gendarmenmarkt, Charlottenburg, Alexanderplatz) sont des événements en plein air où les chiens en laisse sont généralement les bienvenus. Le marché du Gendarmenmarkt est payant, mais vous pouvez y emmener votre chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros en el Muro de Berlín (East Side Gallery)?",
+          "a": "Sí. La East Side Gallery es un sitio al aire libre y los perros con correa son bienvenidos en toda la longitud de la galería de 1,3 km. El camino junto al río que se extiende en ambas direcciones también es libremente accesible con perros."
+        },
+        {
+          "q": "¿Puedo visitar el Palacio de Charlottenburg con mi perro?",
+          "a": "Sí, en los jardines. Los jardines barrocos y el parque fluvial detrás del palacio están abiertos a los perros con correa. Los perros no están permitidos dentro de los edificios del palacio."
+        },
+        {
+          "q": "¿Los mercados navideños de Berlín son amigables con los perros?",
+          "a": "La mayoría sí. Los numerosos mercados navideños de Berlín (Gendarmenmarkt, Charlottenburg, Alexanderplatz) son eventos al aire libre donde los perros con correa son generalmente bienvenidos. El mercado de Gendarmenmarkt cobra entrada, pero los perros pueden acompañarte."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Services in Berlin",
+      "titleFr": "Pet sitting et services pour chiens à Berlin",
+      "titleEs": "Pet sitting y servicios para perros en Berlín",
+      "introEn": "Berlin has a well-developed pet services ecosystem, including professional dog walkers, daycare facilities, and pet sitters available through established platforms. The city's large dog-owning population means supply is generally good. Book well in advance during peak tourist season (June–August) as demand is high.",
+      "introFr": "Berlin dispose d'un écosystème de services animaliers bien développé, incluant des promeneurs de chiens professionnels, des garderies et des pet sitters disponibles via des plateformes établies. La grande population berlinoise de propriétaires de chiens garantit généralement une bonne offre. Réservez bien à l'avance pendant la haute saison touristique (juin–août) car la demande est forte.",
+      "introEs": "Berlín tiene un ecosistema de servicios para mascotas bien desarrollado, incluyendo paseadores de perros profesionales, guarderías y pet sitters disponibles a través de plataformas establecidas. La gran población de dueños de perros de la ciudad significa que la oferta es generalmente buena. Reserva con mucha antelación durante la temporada turística punta (junio–agosto) ya que la demanda es alta.",
+      "places": [],
+      "tipsEn": [
+        "Rover.com and Pawshake operate in Berlin with large networks of verified sitters and walkers.",
+        "Hundehotel Berlin (dog hotels/boarding) is a category worth searching — several professional dog boarding facilities operate in and around the city.",
+        "Many Berlin hotels that are pet-friendly can also recommend local dog walkers. Ask at the front desk.",
+        "Dog daycare (Hundekindergarten) is popular and widely available in Berlin — good for active dogs staying multiple days."
+      ],
+      "tipsFr": [
+        "Rover.com et Pawshake opèrent à Berlin avec de vastes réseaux de gardiens et promeneurs vérifiés.",
+        "Le Hundehotel Berlin (hébergement pour chiens) est une catégorie à rechercher — plusieurs structures d'hébergement canin professionnel existent dans et autour de la ville.",
+        "De nombreux hôtels berlinois acceptant les animaux peuvent également recommander des promeneurs locaux. Demandez à la réception.",
+        "La garderie pour chiens (Hundekindergarten) est populaire et largement disponible à Berlin — idéal pour les chiens actifs lors de séjours de plusieurs jours."
+      ],
+      "tipsEs": [
+        "Rover.com y Pawshake operan en Berlín con amplias redes de cuidadores y paseadores verificados.",
+        "El Hundehotel Berlin (hotel/alojamiento para perros) es una categoría que vale la pena buscar — varias instalaciones profesionales de alojamiento canino operan en la ciudad y sus alrededores.",
+        "Muchos hoteles de Berlín que admiten mascotas también pueden recomendar paseadores locales. Pregunta en recepción.",
+        "La guardería para perros (Hundekindergarten) es popular y ampliamente disponible en Berlín — ideal para perros activos que se quedan varios días."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Berlin on short notice?",
+          "a": "Rover.com and Pawshake both operate in Berlin and typically have sitters available within 24-48 hours, though peak summer season (July–August) can be tighter. Book at least a week in advance if your dates are fixed."
+        },
+        {
+          "q": "Are there dog daycare options in Berlin?",
+          "a": "Yes. Dog daycare (Hundekindergarten or Hundetagesstätte) is widely available in Berlin. Many operate in all major neighbourhoods. Search for 'Hundekindergarten Berlin' plus your neighbourhood for local options."
+        },
+        {
+          "q": "What should I look for in a Berlin dog sitter?",
+          "a": "Verify reviews on the platform, confirm the sitter's experience with your dog's breed and size, and ensure they have a secure outdoor space if your dog is not well on a leash. Ask if they have experience with the Berlin public transport system for walks."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet sitter à Berlin à la dernière minute ?",
+          "a": "Rover.com et Pawshake opèrent tous deux à Berlin et disposent généralement de gardiens disponibles sous 24 à 48 heures, bien que la haute saison estivale (juillet–août) puisse être plus tendue. Réservez au moins une semaine à l'avance si vos dates sont fixes."
+        },
+        {
+          "q": "Existe-t-il des options de garderie pour chiens à Berlin ?",
+          "a": "Oui. La garderie pour chiens (Hundekindergarten ou Hundetagesstätte) est largement disponible à Berlin. Beaucoup opèrent dans tous les grands quartiers. Cherchez 'Hundekindergarten Berlin' suivi du nom de votre quartier pour des options locales."
+        },
+        {
+          "q": "À quoi dois-je faire attention pour choisir un pet sitter berlinois ?",
+          "a": "Vérifiez les avis sur la plateforme, confirmez l'expérience du gardien avec la race et la taille de votre chien, et assurez-vous qu'il dispose d'un espace extérieur sécurisé si votre chien n'est pas à l'aise en laisse. Demandez s'il a l'habitude des transports en commun berlinois pour les promenades."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros en Berlín con poca antelación?",
+          "a": "Rover.com y Pawshake ambos operan en Berlín y típicamente tienen cuidadores disponibles en 24-48 horas, aunque la temporada punta de verano (julio–agosto) puede estar más apretada. Reserva con al menos una semana de antelación si tus fechas son fijas."
+        },
+        {
+          "q": "¿Hay opciones de guardería para perros en Berlín?",
+          "a": "Sí. La guardería para perros (Hundekindergarten o Hundetagesstätte) está ampliamente disponible en Berlín. Muchas operan en todos los barrios principales. Busca 'Hundekindergarten Berlin' más tu barrio para opciones locales."
+        },
+        {
+          "q": "¿Qué debo buscar en un cuidador de perros en Berlín?",
+          "a": "Verifica las reseñas en la plataforma, confirma la experiencia del cuidador con la raza y el tamaño de tu perro, y asegúrate de que tenga un espacio exterior seguro si tu perro no está bien con correa. Pregunta si tiene experiencia con el sistema de transporte público de Berlín para los paseos."
+        }
+      ]
+    }
+  }
+}

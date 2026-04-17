@@ -1,0 +1,876 @@
+{
+  "slug": "vienna",
+  "name": "Vienna",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Vienna",
+      "titleFr": "Restaurants acceptant les animaux à Vienne",
+      "titleEs": "Restaurantes con mascotas en Viena",
+      "introEn": "Vienna's café culture is one of the great institutions of European civilisation, and dogs have always been part of it. The traditional Viennese Kaffeehaus (coffee house) — a UNESCO-listed cultural heritage — has historically been a space where dogs sat under the table while their owners spent hours with a Melange and a newspaper. Modern Vienna continues this tradition, with most independent cafés and neighbourhood restaurants outside the First District readily accepting dogs. The honest caveat: the fine-dining restaurants in the Innere Stadt (First District) and the luxury hotels along the Ringstrasse are significantly stricter. Always confirm indoor pet policies before visiting upscale venues.",
+      "introFr": "La culture des cafés de Vienne est l'une des grandes institutions de la civilisation européenne, et les chiens en ont toujours fait partie. Le Kaffeehaus viennois traditionnel — patrimoine culturel inscrit à l'UNESCO — a toujours été un espace où les chiens s'installaient sous la table pendant que leurs maîtres passaient des heures avec un Melange et un journal. La Vienne moderne perpétue cette tradition, et la plupart des cafés indépendants et restaurants de quartier en dehors du Premier Arrondissement accueillent volontiers les chiens. Le bémol honnête : les restaurants gastronomiques dans l'Innere Stadt (1er arrondissement) et les hôtels de luxe le long du Ringstrasse sont nettement plus stricts. Confirmez toujours la politique intérieure avant de visiter des établissements haut de gamme.",
+      "introEs": "La cultura del café de Viena es una de las grandes instituciones de la civilización europea, y los perros siempre han sido parte de ella. El tradicional Kaffeehaus vienés — patrimonio cultural de la UNESCO — siempre ha sido un espacio donde los perros se sentaban bajo la mesa mientras sus dueños pasaban horas con un Melange y un periódico. La Viena moderna continúa esta tradición, con la mayoría de los cafés independientes y restaurantes de barrio fuera del Primer Distrito aceptando fácilmente a los perros. La advertencia honesta: los restaurantes de alta cocina en la Innere Stadt (Primer Distrito) y los hoteles de lujo a lo largo del Ringstrasse son significativamente más estrictos. Siempre confirma las políticas de mascotas en el interior antes de visitar locales de lujo.",
+      "places": [
+        {
+          "name": "Café Hawelka",
+          "address": "Dorotheergasse 6, 1010 Wien",
+          "neighborhood": "Innere Stadt (1st District)",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.hawelka.at/",
+          "description": "One of Vienna's most legendary and beloved coffee houses, the Hawelka has been open since 1939 and was the meeting place of the entire Viennese artistic and literary scene for decades. The interior is gloriously unrenovated — cracked plaster, nicotine-stained walls, marble tabletops. Dogs have always been welcome here and the tradition continues. The famous Buchteln (sweet buns) come out at 22:00 sharp each evening — one of Vienna's great late-night rituals.",
+          "descriptionFr": "L'un des cafés les plus légendaires et aimés de Vienne, le Hawelka est ouvert depuis 1939 et fut le lieu de rencontre de toute la scène artistique et littéraire viennoise pendant des décennies. L'intérieur est glorieusement non rénové — plâtre fissuré, murs jaunis, plateaux en marbre. Les chiens y ont toujours été les bienvenus et la tradition se perpétue. Les célèbres Buchteln (brioches sucrées) sortent du four à 22h précises chaque soir — l'un des grands rituels nocturnes de Vienne.",
+          "descriptionEs": "Uno de los cafés más legendarios y queridos de Viena, el Hawelka lleva abierto desde 1939 y fue el punto de encuentro de toda la escena artística y literaria vienesa durante décadas. El interior está gloriosamente sin renovar — yeso agrietado, paredes manchadas, encimeras de mármol. Los perros siempre han sido bienvenidos aquí y la tradición continúa. Los famosos Buchteln (bollos dulces) salen a las 22:00 en punto cada noche — uno de los grandes rituales nocturnos de Viena.",
+          "petPolicy": "Dogs welcome inside",
+          "petPolicyFr": "Chiens acceptés en salle",
+          "petPolicyEs": "Perros admitidos en interior",
+          "priceRange": "€€",
+          "mustTry": "Melange (Viennese coffee with milk), Buchteln after 22:00",
+          "mustTryFr": "Melange (café viennois au lait), Buchteln après 22h",
+          "mustTryEs": "Melange (café vienés con leche), Buchteln después de las 22:00",
+          "openingHours": "Mon–Sat 08:00–02:00, Sun 10:00–02:00",
+          "tip": "Come after 22:00 if you want the Buchteln fresh from the oven. The atmosphere is best late at night",
+          "tipFr": "Venez après 22h pour les Buchteln tout frais. L'ambiance est la meilleure en fin de soirée",
+          "tipEs": "Ven después de las 22:00 si quieres los Buchteln recién salidos del horno. El ambiente es mejor de noche",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Hawelka+Wien"
+        },
+        {
+          "name": "Café Landtmann",
+          "address": "Dr.-Karl-Lueger-Ring 4, 1010 Wien",
+          "neighborhood": "Innere Stadt / Ringstrasse",
+          "photo": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.landtmann.at/en/",
+          "description": "Opened in 1873, the Café Landtmann is considered Vienna's most prestigious coffee house — Freud was a regular, and Austrian politicians still hold meetings here. The terrace overlooking the Burgtheater and Rathaus park is magnificent in summer. Dogs are welcome on the terrace. The interior, with its grand Belle Époque rooms, is more formal but generally accepts well-behaved dogs. The breakfast here is exceptional — one of Vienna's finest.",
+          "descriptionFr": "Ouvert en 1873, le Café Landtmann est considéré comme le café le plus prestigieux de Vienne — Freud était un habitué, et les politiciens autrichiens y tiennent encore des réunions. La terrasse avec vue sur le Burgtheater et le parc du Rathaus est magnifique en été. Les chiens sont les bienvenus en terrasse. L'intérieur, avec ses grandes salles Belle Époque, est plus formel mais accepte généralement les chiens bien tenus. Le petit-déjeuner est exceptionnel — l'un des meilleurs de Vienne.",
+          "descriptionEs": "Abierto en 1873, el Café Landtmann es considerado el café más prestigioso de Viena — Freud era un habitual, y los políticos austríacos todavía celebran reuniones aquí. La terraza con vistas al Burgtheater y al parque del Rathaus es magnífica en verano. Los perros son bienvenidos en la terraza. El interior, con sus grandes salas Belle Époque, es más formal pero generalmente acepta perros bien educados.",
+          "petPolicy": "Dogs welcome on terrace. Well-behaved dogs accepted inside at staff discretion",
+          "petPolicyFr": "Chiens acceptés en terrasse. Chiens bien tenus acceptés en salle à la discrétion du personnel",
+          "petPolicyEs": "Perros bienvenidos en terraza. Perros bien educados aceptados en interior a discreción del personal",
+          "priceRange": "€€€",
+          "mustTry": "Viennese breakfast, Wiener Melange, Apfelstrudel",
+          "mustTryFr": "Petit-déjeuner viennois, Wiener Melange, Apfelstrudel",
+          "mustTryEs": "Desayuno vienés, Wiener Melange, Apfelstrudel",
+          "openingHours": "Daily 07:30–22:00",
+          "tip": "Book a terrace table in advance for summer evenings — it fills quickly and the Burgtheater view is worth it",
+          "tipFr": "Réservez une table en terrasse à l'avance pour les soirées d'été — ça se remplit vite et la vue sur le Burgtheater en vaut la peine",
+          "tipEs": "Reserva una mesa en la terraza con antelación para las noches de verano — se llena rápido y la vista del Burgtheater vale la pena",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Landtmann+Wien"
+        },
+        {
+          "name": "Café Schwarzenberg",
+          "address": "Kärntner Ring 17, 1010 Wien",
+          "neighborhood": "Innere Stadt / Ringstrasse",
+          "photo": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",
+          "website": "https://cafe-schwarzenberg.at/",
+          "description": "The oldest café on the Ringstrasse (1861), the Schwarzenberg is a magnificent, wood-panelled grand café with chandeliers and red velvet banquettes. The terrace overlooks the Ringstrasse boulevard and the fountain. Dogs are welcome on the terrace and the café is one of the more dog-accommodating of Vienna's grand establishments. An espresso here with a dog at your feet, watching the trams and horses go by on the Ring, is a genuinely special Vienna experience.",
+          "descriptionFr": "Le plus ancien café du Ringstrasse (1861), le Schwarzenberg est un magnifique grand café lambrissé avec des lustres et des banquettes en velours rouge. La terrasse donne sur le boulevard du Ringstrasse et la fontaine. Les chiens sont les bienvenus en terrasse et le café est l'un des grands établissements viennois les plus accueillants pour les chiens. Un espresso ici avec son chien aux pieds, à regarder passer les tramways et les calèches sur le Ring, est une expérience véritablement viennoise.",
+          "descriptionEs": "El café más antiguo del Ringstrasse (1861), el Schwarzenberg es un magnífico gran café con paneles de madera, arañas de cristal y banquetas de terciopelo rojo. La terraza da al bulevar del Ringstrasse y a la fuente. Los perros son bienvenidos en la terraza y el café es uno de los grandes establecimientos de Viena más acogedores con los perros.",
+          "petPolicy": "Dogs welcome on terrace. Ask about indoor access",
+          "petPolicyFr": "Chiens bienvenus en terrasse. Renseignez-vous pour l'accès en salle",
+          "petPolicyEs": "Perros bienvenidos en terraza. Preguntar por acceso en interior",
+          "priceRange": "€€€",
+          "mustTry": "Wiener Melange, Kardinalschnitte (cream cake)",
+          "mustTryFr": "Wiener Melange, Kardinalschnitte (gâteau à la crème)",
+          "mustTryEs": "Wiener Melange, Kardinalschnitte (pastel de crema)",
+          "openingHours": "Daily 07:00–24:00",
+          "tip": "The terrace faces west — it is magnificent in the late afternoon sun",
+          "tipFr": "La terrasse est exposée à l'ouest — elle est magnifique dans le soleil de fin d'après-midi",
+          "tipEs": "La terraza está orientada al oeste — es magnífica a la luz del sol de última hora de la tarde",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Schwarzenberg+Wien"
+        },
+        {
+          "name": "Café Westend",
+          "address": "Mariahilfer Straße 128, 1060 Wien",
+          "neighborhood": "Mariahilf (6th District)",
+          "photo": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.cafewestend.at/",
+          "description": "A no-frills neighbourhood Kaffeehaus in the 6th District near the Westbahnhof, the Café Westend is exactly what a Vienna coffee house should be: open all night, staffed by gruff but efficient waiters, and accepting of everyone — including dogs. It serves the full Viennese coffee house menu (Melange, Einspänner, Verlängerter) and simple Austrian food. Dogs are welcome inside and the clientele is reassuringly local.",
+          "descriptionFr": "Un Kaffeehaus de quartier sans prétention dans le 6e arrondissement près du Westbahnhof, le Café Westend est exactement ce que doit être un café viennois : ouvert toute la nuit, servi par des garçons bougons mais efficaces, et accueillant pour tout le monde — y compris les chiens. Il sert le menu complet des cafés viennois (Melange, Einspänner, Verlängerter) et une cuisine autrichienne simple. Les chiens sont les bienvenus en salle et la clientèle est rassurante de localité.",
+          "descriptionEs": "Un sencillo Kaffeehaus de barrio en el 6° Distrito cerca del Westbahnhof, el Café Westend es exactamente lo que debería ser un café vienés: abierto toda la noche, atendido por camareros rudos pero eficientes, y acogedor con todos — incluyendo perros. Sirve el menú completo del café vienés (Melange, Einspänner, Verlängerter) y comida austríaca sencilla.",
+          "petPolicy": "Dogs welcome inside",
+          "petPolicyFr": "Chiens acceptés en salle",
+          "petPolicyEs": "Perros admitidos en interior",
+          "priceRange": "€",
+          "mustTry": "Melange, Leberkäsesemmel (meat loaf roll), Wiener Schnitzel",
+          "mustTryFr": "Melange, Leberkäsesemmel, Wiener Schnitzel",
+          "mustTryEs": "Melange, Leberkäsesemmel, Wiener Schnitzel",
+          "openingHours": "Daily 07:00–02:00",
+          "tip": "One of the few places in Vienna that is genuinely open late and still serves hot food after midnight",
+          "tipFr": "L'un des rares endroits à Vienne ouvert tard le soir et servant encore des plats chauds après minuit",
+          "tipEs": "Uno de los pocos lugares en Viena que realmente está abierto tarde y todavía sirve comida caliente después de medianoche",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Westend+Wien"
+        },
+        {
+          "name": "Strandbar Herrmann",
+          "address": "Franz-Josefs-Kai 1, 1010 Wien",
+          "neighborhood": "Innere Stadt / Danube Canal",
+          "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.strandbarherrmann.at/",
+          "description": "A legendary Vienna beach bar on the Danube Canal, Strandbar Herrmann brings the beach to the city with sand, deckchairs, and cocktails on the canal bank. Open from May to September, it is one of Vienna's great summer experiences. Dogs are welcome at this outdoor venue. The canal path extends both ways for a pleasant dog walk before or after drinks.",
+          "descriptionFr": "Un bar de plage légendaire à Vienne sur le canal du Danube, le Strandbar Herrmann apporte la plage en ville avec du sable, des transats et des cocktails sur les berges. Ouvert de mai à septembre, c'est l'une des grandes expériences estivales de Vienne. Les chiens sont les bienvenus dans cet espace en plein air. Le chemin le long du canal s'étend dans les deux sens pour une agréable promenade avant ou après les boissons.",
+          "descriptionEs": "Un legendario bar de playa en Viena junto al Canal del Danubio, el Strandbar Herrmann lleva la playa a la ciudad con arena, tumbonas y cócteles en la orilla del canal. Abierto de mayo a septiembre, es una de las grandes experiencias estivales de Viena. Los perros son bienvenidos en este local al aire libre.",
+          "petPolicy": "Dogs welcome — fully outdoor summer venue",
+          "petPolicyFr": "Chiens bienvenus — établissement estival entièrement en extérieur",
+          "petPolicyEs": "Perros bienvenidos — local veraniego completamente al aire libre",
+          "priceRange": "€€",
+          "mustTry": "Aperol Spritz, gin & tonic, seasonal cocktails",
+          "mustTryFr": "Aperol Spritz, gin & tonic, cocktails de saison",
+          "mustTryEs": "Aperol Spritz, gin & tonic, cócteles de temporada",
+          "openingHours": "May–Sept daily 14:00–02:00 (weather permitting)",
+          "tip": "Arrive before 18:00 on summer weekends to get a deckchair. After that it's standing room only",
+          "tipFr": "Arrivez avant 18h le week-end en été pour avoir un transat. Après, c'est uniquement debout",
+          "tipEs": "Llega antes de las 18:00 los fines de semana de verano para conseguir una tumbona. Después solo hay sitio para estar de pie",
+          "googleMapsUrl": "https://maps.google.com/?q=Strandbar+Herrmann+Wien"
+        }
+      ],
+      "tipsEn": [
+        "Traditional Viennese coffee houses (Kaffeehäuser) are historically dog-friendly. Always ask before sitting inside.",
+        "The Naschmarkt (Vienna's great outdoor food market) is very dog-friendly and worth an early morning visit.",
+        "Districts 4–9 (Wieden, Margareten, Mariahilf, Neubau, Alsergrund) are the most dog-welcoming for dining.",
+        "Vienna's Heurigen (wine taverns in the wine-growing suburbs) are almost universally dog-friendly both inside and in their garden areas."
+      ],
+      "tipsFr": [
+        "Les Kaffeehäuser viennois traditionnels sont historiquement dog-friendly. Demandez toujours avant de vous asseoir à l'intérieur.",
+        "Le Naschmarkt (le grand marché en plein air de Vienne) est très accueillant pour les chiens et mérite une visite tôt le matin.",
+        "Les arrondissements 4 à 9 (Wieden, Margareten, Mariahilf, Neubau, Alsergrund) sont les plus accueillants pour les chiens.",
+        "Les Heurigen viennois (tavernes à vin dans les faubourgs viticoles) sont presque universellement dog-friendly, en salle comme en jardin."
+      ],
+      "tipsEs": [
+        "Los tradicionales Kaffeehäuser vieneses son históricamente amigables con los perros. Siempre pregunta antes de sentarte en el interior.",
+        "El Naschmarkt (el gran mercado al aire libre de Viena) es muy amigable con los perros y vale la pena una visita temprana por la mañana.",
+        "Los distritos 4–9 (Wieden, Margareten, Mariahilf, Neubau, Alsergrund) son los más acogedores con los perros para comer.",
+        "Los Heurigen de Viena (tabernas de vino en los suburbios vinícolas) son casi universalmente amigables con los perros tanto en interior como en sus zonas de jardín."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Vienna coffee houses?",
+          "a": "Generally yes. The Kaffeehaus tradition in Vienna has always included dogs, and most traditional coffee houses welcome well-behaved dogs inside. Some of the most upscale or famous establishments (Café Central, Café Sacher) may have stricter policies — always ask when you arrive."
+        },
+        {
+          "q": "Is Vienna dog-friendly overall?",
+          "a": "Very. Vienna is one of Europe's most dog-friendly cities, with a long cultural tradition of dogs in public spaces, cafés, and shops. The Wienerlinien public transport system also allows dogs (with muzzle + child ticket). Source: wienerlinien.at"
+        },
+        {
+          "q": "Do Vienna restaurants provide water bowls for dogs?",
+          "a": "Many traditional coffee houses and neighbourhood restaurants will bring a water bowl without being asked. In the more upscale venues, ask — they will usually oblige."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les cafés viennois ?",
+          "a": "En général oui. La tradition du Kaffeehaus à Vienne a toujours inclus les chiens, et la plupart des cafés traditionnels accueillent les chiens bien tenus en salle. Certains des établissements les plus huppés ou renommés (Café Central, Café Sacher) peuvent avoir des politiques plus strictes — demandez toujours à votre arrivée."
+        },
+        {
+          "q": "Vienne est-elle globalement dog-friendly ?",
+          "a": "Très. Vienne est l'une des villes les plus dog-friendly d'Europe, avec une longue tradition culturelle d'acceptation des chiens dans les espaces publics, cafés et commerces. Le réseau de transport Wienerlinien accepte également les chiens (avec muselière + ticket enfant). Source : wienerlinien.at"
+        },
+        {
+          "q": "Les restaurants viennois proposent-ils des gamelles d'eau pour les chiens ?",
+          "a": "Beaucoup de cafés traditionnels et restaurants de quartier apportent une gamelle sans qu'on le demande. Dans les établissements plus huppés, il suffit de demander — ils s'exécutent généralement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los cafés de Viena?",
+          "a": "Generalmente sí. La tradición del Kaffeehaus en Viena siempre ha incluido perros, y la mayoría de los cafés tradicionales admiten perros bien educados en el interior. Algunos de los establecimientos más exclusivos o famosos (Café Central, Café Sacher) pueden tener políticas más estrictas — siempre pregunta cuando llegues."
+        },
+        {
+          "q": "¿Es Viena amigable con los perros en general?",
+          "a": "Mucho. Viena es una de las ciudades más amigables con los perros de Europa, con una larga tradición cultural de perros en espacios públicos, cafés y tiendas. El sistema de transporte público Wienerlinien también permite perros (con bozal + billete de niño). Fuente: wienerlinien.at"
+        },
+        {
+          "q": "¿Los restaurantes de Viena proporcionan cuencos de agua para los perros?",
+          "a": "Muchos cafés tradicionales y restaurantes de barrio traerán un cuenco de agua sin que lo pidas. En los locales más exclusivos, pídelo — generalmente lo harán encantados."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Vienna",
+      "titleFr": "Parcs et balades avec son chien à Vienne",
+      "titleEs": "Parques y paseos con perros en Viena",
+      "introEn": "Vienna has an excellent network of parks and green spaces for dogs. The city has over 850 designated off-leash areas (Hundeauslaufplätze), and large parks like the Prater, Wienerwald forest, and the Donauinsel provide extensive space for walking and running. Vienna's parks are carefully maintained and well-signposted for dog zones.",
+      "introFr": "Vienne dispose d'un excellent réseau de parcs et d'espaces verts pour les chiens. La ville compte plus de 850 zones de liberté désignées (Hundeauslaufplätze), et les grands parcs comme le Prater, la forêt du Wienerwald et la Donauinsel offrent de vastes espaces pour la promenade et la course. Les parcs viennois sont soigneusement entretenus et bien balisés pour les zones canines.",
+      "introEs": "Viena tiene una excelente red de parques y espacios verdes para perros. La ciudad tiene más de 850 zonas sin correa designadas (Hundeauslaufplätze), y grandes parques como el Prater, el bosque de Wienerwald y la Donauinsel proporcionan amplio espacio para caminar y correr. Los parques de Viena están cuidadosamente mantenidos y bien señalizados para las zonas caninas.",
+      "places": [
+        {
+          "name": "Prater & Hauptallee",
+          "type": "Historic park. 600 hectares. Off-leash in designated areas",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.wien.gv.at/umwelt/parks/anlagen/prater.html",
+          "description": "The Prater is Vienna's most famous park: 600 hectares of grassland, forest, and the iconic Hauptallee — a 4.5 km tree-lined avenue stretching from the Praterstern to the Lusthaus. Dogs are welcome on the Hauptallee and in most of the park. The Prater Meadows (Praterauen) along the Danube branch are the best area for off-leash running, with several designated zones. The area around the historic Wurstelprater amusement park is always busy and best avoided with dogs.",
+          "descriptionFr": "Le Prater est le parc le plus célèbre de Vienne : 600 hectares de prairies, forêt et la Hauptallee emblématique — une allée bordée d'arbres de 4,5 km reliant le Praterstern au Lusthaus. Les chiens sont les bienvenus sur la Hauptallee et dans la majeure partie du parc. Les prairies du Prater (Praterauen) longeant le bras du Danube sont la meilleure zone pour les libertés, avec plusieurs zones désignées. La zone autour du parc d'attractions historique de Wurstelprater est toujours bondée et mieux évitée avec des chiens.",
+          "descriptionEs": "El Prater es el parque más famoso de Viena: 600 hectáreas de prado, bosque y la icónica Hauptallee — una avenida arbolada de 4,5 km que se extiende desde el Praterstern hasta el Lusthaus. Los perros son bienvenidos en la Hauptallee y en la mayor parte del parque. Los prados del Prater (Praterauen) a lo largo del brazo del Danubio son la mejor área para correr sin correa, con varias zonas designadas.",
+          "offLeash": true,
+          "offLeashArea": "Designated Hundeauslaufplätze in the Praterauen meadows. On-leash on the Hauptallee boulevard itself",
+          "offLeashAreaFr": "Hundeauslaufplätze désignés dans les prairies Praterauen. Laisse obligatoire sur la Hauptallee elle-même",
+          "offLeashAreaEs": "Hundeauslaufplätze designados en los prados Praterauen. Correa obligatoria en la propia Hauptallee",
+          "tip": "Walk the full 4.5 km Hauptallee early morning before the joggers and cyclists arrive — it's one of Vienna's great walks",
+          "tipFr": "Parcourez les 4,5 km de la Hauptallee tôt le matin avant l'arrivée des joggeurs et cyclistes — c'est l'une des grandes balades de Vienne",
+          "tipEs": "Recorre los 4,5 km de la Hauptallee temprano por la mañana antes de que lleguen los corredores y ciclistas — es uno de los grandes paseos de Viena",
+          "googleMapsUrl": "https://maps.google.com/?q=Prater+Wien"
+        },
+        {
+          "name": "Donauinsel (Danube Island)",
+          "type": "21 km island between Danube channels. Dog zones and swimming",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.donauinsel.at/",
+          "description": "A 21-kilometre artificial island between the Danube and the New Danube, the Donauinsel is Vienna's great outdoor recreational space. It has cycling paths, swimming areas, restaurants, and enormous amounts of green space. For dogs, the northern end of the island (above the Floridsdorfer Bridge) has designated dog zones where dogs can run freely and swim in the New Danube. Check the Wiener Umweltschutzabteilung rules for current dog zone locations as they are periodically reviewed.",
+          "descriptionFr": "Une île artificielle de 21 kilomètres entre le Danube et le Nouveau Danube, la Donauinsel est le grand espace de loisirs extérieur de Vienne. Elle dispose de pistes cyclables, de zones de baignade, de restaurants et d'immenses espaces verts. Pour les chiens, l'extrémité nord de l'île (au-dessus du pont de Floridsdorf) dispose de zones canines désignées où les chiens peuvent courir librement et se baigner dans le Nouveau Danube. Consultez les règles du Wiener Umweltschutzabteilung pour les emplacements actuels des zones canines, révisés périodiquement.",
+          "descriptionEs": "Una isla artificial de 21 kilómetros entre el Danubio y el Nuevo Danubio, la Donauinsel es el gran espacio recreativo al aire libre de Viena. Tiene carriles ciclistas, zonas de baño, restaurantes y enormes espacios verdes. Para los perros, el extremo norte de la isla (sobre el Puente de Floridsdorf) tiene zonas caninas designadas donde los perros pueden correr libremente y nadar en el Nuevo Danubio.",
+          "offLeash": true,
+          "offLeashArea": "Designated dog zones at the northern end of the island. Check current Wiener Umweltschutzabteilung maps for exact locations",
+          "offLeashAreaFr": "Zones canines désignées à l'extrémité nord de l'île. Consultez les cartes actuelles du Wiener Umweltschutzabteilung pour les emplacements exacts",
+          "offLeashAreaEs": "Zonas caninas designadas en el extremo norte de la isla. Consulta los mapas actuales del Wiener Umweltschutzabteilung para ubicaciones exactas",
+          "tip": "Take the U1 or U2 to Donauinsel station and follow the path north. The dog zones are clearly marked",
+          "tipFr": "Prenez le U1 ou U2 jusqu'à la station Donauinsel et suivez le chemin vers le nord. Les zones canines sont clairement balisées",
+          "tipEs": "Toma el U1 o U2 hasta la estación Donauinsel y sigue el camino hacia el norte. Las zonas caninas están claramente marcadas",
+          "googleMapsUrl": "https://maps.google.com/?q=Donauinsel+Wien"
+        },
+        {
+          "name": "Wienerwald (Vienna Woods)",
+          "type": "Forest reserve. 105,000 hectares. Largely accessible for dogs",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.wienerwald.info/",
+          "description": "The Wienerwald (Vienna Woods) is a UNESCO Biosphere Reserve of forested hills surrounding the western edge of Vienna. For dog owners, it is a tremendous resource: kilometres of hiking trails through beech and oak woodland, accessible by public transport from the city. The trails around Kahlenberg, Leopoldsberg, and through the Lainzer Tiergarten (deer park — dogs must be on-leash to protect wildlife) provide exceptional walking.",
+          "descriptionFr": "Le Wienerwald (forêt de Vienne) est une réserve de biosphère UNESCO de collines boisées entourant le bord ouest de Vienne. Pour les propriétaires de chiens, c'est une ressource exceptionnelle : des kilomètres de sentiers de randonnée à travers des forêts de hêtres et de chênes, accessibles en transports en commun depuis la ville. Les sentiers autour du Kahlenberg, du Leopoldsberg et à travers le Lainzer Tiergarten (parc aux cerfs — chiens en laisse pour protéger la faune) offrent une marche exceptionnelle.",
+          "descriptionEs": "El Wienerwald (Bosque de Viena) es una Reserva de la Biosfera de la UNESCO de colinas boscosas que rodean el borde occidental de Viena. Para los dueños de perros, es un recurso tremendo: kilómetros de senderos de senderismo a través de bosques de hayas y robles, accesibles en transporte público desde la ciudad. Los senderos alrededor del Kahlenberg, el Leopoldsberg y a través del Lainzer Tiergarten (parque de ciervos — perros con correa para proteger la fauna) proporcionan un paseo excepcional.",
+          "offLeash": true,
+          "offLeashArea": "Most forest trails. Dogs must be on-leash in the Lainzer Tiergarten (protected wildlife). Check local signage",
+          "offLeashAreaFr": "La plupart des sentiers forestiers. Laisse obligatoire dans le Lainzer Tiergarten (faune protégée). Respectez la signalisation locale",
+          "offLeashAreaEs": "La mayoría de los senderos forestales. Correa obligatoria en el Lainzer Tiergarten (fauna protegida). Comprueba la señalización local",
+          "tip": "Take tram D to the Kahlenberg terminal and walk the forest ridge for the best Vienna panorama with your dog",
+          "tipFr": "Prenez le tram D jusqu'au terminus du Kahlenberg et longez la crête forestière pour le meilleur panorama de Vienne avec votre chien",
+          "tipEs": "Toma el tranvía D hasta el terminal del Kahlenberg y camina por la cresta del bosque para el mejor panorama de Viena con tu perro",
+          "googleMapsUrl": "https://maps.google.com/?q=Kahlenberg+Wien"
+        }
+      ],
+      "tipsEn": [
+        "Vienna has over 850 designated off-leash areas. Use the city's online Hundeauslaufplätze map at wien.gv.at to find the nearest one.",
+        "Dogs must be on-leash in public streets and non-designated park areas. Fines for non-compliance apply.",
+        "The Lainzer Tiergarten (deer park in the Wienerwald) requires dogs to be on-leash at all times to protect the wildlife.",
+        "Wienerlinien (public transport) requires muzzle + child ticket for all dogs larger than a carrier. Source: wienerlinien.at"
+      ],
+      "tipsFr": [
+        "Vienne dispose de plus de 850 zones de liberté désignées. Utilisez la carte en ligne du Hundeauslaufplätze sur wien.gv.at pour trouver la plus proche.",
+        "Les chiens doivent être tenus en laisse dans les rues publiques et les zones de parc non désignées. Des amendes s'appliquent en cas de non-respect.",
+        "Le Lainzer Tiergarten (parc aux cerfs dans le Wienerwald) exige que les chiens soient en laisse en permanence pour protéger la faune.",
+        "Wienerlinien (transports en commun) exige une muselière + ticket enfant pour tous les chiens plus grands qu'un sac de transport. Source : wienerlinien.at"
+      ],
+      "tipsEs": [
+        "Viena tiene más de 850 zonas sin correa designadas. Usa el mapa online de Hundeauslaufplätze en wien.gv.at para encontrar la más cercana.",
+        "Los perros deben ir con correa en las calles públicas y las zonas del parque no designadas. Se aplican multas por incumplimiento.",
+        "El Lainzer Tiergarten (parque de ciervos en el Wienerwald) requiere que los perros estén con correa en todo momento para proteger la fauna.",
+        "Wienerlinien (transporte público) requiere bozal + billete de niño para todos los perros más grandes que una bolsa de transporte. Fuente: wienerlinien.at"
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs go off-leash in Vienna?",
+          "a": "Vienna has over 850 designated off-leash areas (Hundeauslaufplätze). The best large ones are in the Praterauen meadows and the northern Donauinsel. The city's official wien.gv.at website has an interactive map of all off-leash zones."
+        },
+        {
+          "q": "Can dogs swim in the Danube in Vienna?",
+          "a": "Yes, in designated dog zones at the northern end of the Donauinsel (Danube Island). The New Danube channel alongside the island has dog-accessible swimming points. The main Danube river itself is not suitable for dog swimming due to strong currents."
+        },
+        {
+          "q": "Is the Wienerwald accessible with dogs?",
+          "a": "Yes. The Vienna Woods are a tremendous resource for dog owners. Most trails are open to dogs. The main exception is the Lainzer Tiergarten, where dogs must remain on-leash to protect the deer and wildlife within the reserve."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils être sans laisse à Vienne ?",
+          "a": "Vienne compte plus de 850 zones de liberté désignées (Hundeauslaufplätze). Les plus grandes sont dans les prairies du Praterauen et la Donauinsel nord. Le site officiel wien.gv.at dispose d'une carte interactive de toutes les zones."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le Danube à Vienne ?",
+          "a": "Oui, dans les zones canines désignées à l'extrémité nord de la Donauinsel. Le bras du Nouveau Danube longeant l'île dispose de points de baignade accessibles aux chiens. Le Danube principal n'est pas adapté à la baignade canine en raison de courants forts."
+        },
+        {
+          "q": "Le Wienerwald est-il accessible avec des chiens ?",
+          "a": "Oui. La forêt de Vienne est une ressource exceptionnelle pour les propriétaires de chiens. La plupart des sentiers sont ouverts aux chiens. La principale exception est le Lainzer Tiergarten, où les chiens doivent rester en laisse pour protéger les cerfs et la faune de la réserve."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden ir los perros sin correa en Viena?",
+          "a": "Viena tiene más de 850 zonas sin correa designadas (Hundeauslaufplätze). Las mejores grandes están en los prados Praterauen y la Donauinsel norte. El sitio web oficial wien.gv.at tiene un mapa interactivo de todas las zonas sin correa."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Danubio en Viena?",
+          "a": "Sí, en las zonas caninas designadas en el extremo norte de la Donauinsel. El canal del Nuevo Danubio junto a la isla tiene puntos de natación accesibles para perros. El río Danubio principal no es adecuado para que los perros naden debido a las fuertes corrientes."
+        },
+        {
+          "q": "¿Es el Wienerwald accesible con perros?",
+          "a": "Sí. El Bosque de Viena es un recurso tremendo para los dueños de perros. La mayoría de los senderos están abiertos a los perros. La principal excepción es el Lainzer Tiergarten, donde los perros deben permanecer con correa para proteger los ciervos y la fauna dentro de la reserva."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Vienna",
+      "titleFr": "Voyager avec son animal à Vienne",
+      "titleEs": "Viajar con mascotas en Viena",
+      "introEn": "Vienna's Wienerlinien public transport network (U-Bahn, tram, bus) is one of the finest in Europe. For dog owners, the rules are clear: dogs in a carrier travel free on all Wienerlinien services; larger dogs require a child's ticket and must wear a muzzle. The rule is consistently enforced on the U-Bahn. Vienna's S-Bahn (operated by ÖBB) and night buses follow the same rules. Source: wienerlinien.at",
+      "introFr": "Le réseau de transports en commun Wienerlinien (U-Bahn, tram, bus) est l'un des meilleurs d'Europe. Pour les propriétaires d'animaux, les règles sont claires : les chiens dans un sac voyagent gratuitement sur tous les services Wienerlinien ; les chiens plus grands ont besoin d'un ticket enfant et doivent porter une muselière. La règle est régulièrement appliquée dans le U-Bahn. Le S-Bahn viennois (opéré par ÖBB) et les bus de nuit suivent les mêmes règles. Source : wienerlinien.at",
+      "introEs": "La red de transporte público Wienerlinien de Viena (U-Bahn, tranvía, autobús) es una de las mejores de Europa. Para los dueños de mascotas, las normas son claras: los perros en bolsa viajan gratis en todos los servicios Wienerlinien; los perros más grandes necesitan un billete de niño y deben llevar bozal. La norma se aplica de forma consistente en el U-Bahn. El S-Bahn de Viena (operado por ÖBB) y los autobuses nocturnos siguen las mismas normas. Fuente: wienerlinien.at",
+      "rules": [
+        {
+          "mode": "U-Bahn, Tram & Bus (Wienerlinien)",
+          "modeFr": "U-Bahn, Tram & Bus (Wienerlinien)",
+          "modeEs": "U-Bahn, Tranvía & Autobús (Wienerlinien)",
+          "policy": "Dogs in a carrier bag: free. Larger dogs: child's ticket required + muzzle mandatory at all times. One dog per passenger. Dogs cannot occupy seats. Source: wienerlinien.at",
+          "policyFr": "Chiens dans un sac de transport : gratuit. Chiens plus grands : ticket enfant obligatoire + muselière en permanence. Un chien par passager. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : wienerlinien.at",
+          "policyEs": "Perros en bolsa de transporte: gratis. Perros más grandes: billete de niño obligatorio + bozal en todo momento. Un perro por pasajero. Los perros no pueden ocupar asientos. Fuente: wienerlinien.at",
+          "tip": "The Vienna City Card (Wienkarte) includes unlimited public transport. A child ticket supplement covers your dog for the day.",
+          "tipFr": "La Vienna City Card (Wienkarte) comprend les transports en commun illimités. Un supplément ticket enfant couvre votre chien pour la journée.",
+          "tipEs": "La Vienna City Card (Wienkarte) incluye transporte público ilimitado. Un suplemento de billete de niño cubre a tu perro para el día."
+        },
+        {
+          "mode": "ÖBB S-Bahn (Vienna regional rail)",
+          "modeFr": "ÖBB S-Bahn (rail régional viennois)",
+          "modeEs": "ÖBB S-Bahn (tren regional vienés)",
+          "policy": "Dogs in a carrier: free. Larger dogs: half-price ticket + muzzle required. Dogs cannot sit on seats. Source: oebb.at",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : billet à moitié prix + muselière obligatoire. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : oebb.at",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete a mitad de precio + bozal obligatorio. Los perros no pueden ocupar asientos. Fuente: oebb.at",
+          "tip": "The ÖBB Schnellbahn (S-Bahn) lines are the best way to reach the Wienerwald and the wine villages in the Vienna Woods.",
+          "tipFr": "Les lignes ÖBB Schnellbahn (S-Bahn) sont le meilleur moyen de rejoindre le Wienerwald et les villages viticoles des forêts de Vienne.",
+          "tipEs": "Las líneas ÖBB Schnellbahn (S-Bahn) son la mejor manera de llegar al Wienerwald y los pueblos vinícolas del Bosque de Viena."
+        },
+        {
+          "mode": "ÖBB intercity trains (from Wien Hbf)",
+          "modeFr": "Trains ÖBB intercités (depuis Wien Hbf)",
+          "modeEs": "Trenes ÖBB de largo recorrido (desde Wien Hbf)",
+          "policy": "Dogs in carrier: free. Larger dogs: half-price ticket + muzzle. Dogs cannot sit on seats. Source: oebb.at",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : billet demi-tarif + muselière. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : oebb.at",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete a mitad de precio + bozal. Los perros no pueden ocupar asientos. Fuente: oebb.at",
+          "tip": "Vienna Hauptbahnhof (Wien Hbf) connects to Salzburg (2.5h), Graz (2h), and Budapest (2.5h) — all great dog-travel routes.",
+          "tipFr": "Vienne Hauptbahnhof (Wien Hbf) connecte Salzbourg (2h30), Graz (2h) et Budapest (2h30) — d'excellentes destinations avec un chien.",
+          "tipEs": "La Hauptbahnhof de Viena (Wien Hbf) conecta con Salzburgo (2,5h), Graz (2h) y Budapest (2,5h) — excelentes rutas de viaje con perro."
+        },
+        {
+          "mode": "Fiaker (horse carriage)",
+          "modeFr": "Fiaker (calèche)",
+          "modeEs": "Fiaker (carruaje de caballos)",
+          "policy": "Vienna's historic horse-drawn carriages (Fiaker) operate in the city centre. Dogs in a carrier are usually accepted. Larger dogs at the driver's discretion — always ask before boarding.",
+          "policyFr": "Les calèches historiques de Vienne (Fiaker) circulent dans le centre. Les chiens dans un sac sont généralement acceptés. Les chiens plus grands à la discrétion du cocher — demandez toujours avant de monter.",
+          "policyEs": "Los históricos carruajes de caballos de Viena (Fiaker) operan en el centro de la ciudad. Los perros en bolsa generalmente se aceptan. Los perros más grandes a discreción del cochero — siempre pregunta antes de subir.",
+          "tip": "A Fiaker ride through the Ringstrasse with your dog is one of Vienna's most memorable experiences.",
+          "tipFr": "Une balade en Fiaker sur le Ringstrasse avec votre chien est l'une des expériences les plus mémorables de Vienne.",
+          "tipEs": "Un paseo en Fiaker por el Ringstrasse con tu perro es una de las experiencias más memorables de Viena."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "Wienerlinien app and tickets: wienerlinien.at. Buy all Vienna public transport tickets. ÖBB national rail: oebb.at. Book intercity trains and check schedules. The WienMobil app combines Wienerlinien, ÖBB, bike-sharing, and taxi in one interface.",
+          "contentFr": "Application et billets Wienerlinien : wienerlinien.at. Tous les billets de transport public viennois. ÖBB trains nationaux : oebb.at. Réservez les trains intercités. L'application WienMobil combine Wienerlinien, ÖBB, vélos en libre-service et taxi dans une seule interface.",
+          "contentEs": "App y billetes de Wienerlinien: wienerlinien.at. Compra todos los billetes de transporte público de Viena. ÖBB trenes nacionales: oebb.at. Reserva trenes de largo recorrido. La app WienMobil combina Wienerlinien, ÖBB, bicicletas compartidas y taxi en una sola interfaz."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Vienna U-Bahn?",
+          "a": "Yes. Dogs in a carrier travel free. Larger dogs need a child's ticket + muzzle. Rules from wienerlinien.at apply to all U-Bahn, tram, and bus services."
+        },
+        {
+          "q": "Do dogs need a muzzle on Vienna public transport?",
+          "a": "Yes — all dogs larger than a carry-bag must wear a muzzle on all Wienerlinien services (U-Bahn, tram, bus). This is strictly enforced. Source: wienerlinien.at"
+        },
+        {
+          "q": "Can I travel to Salzburg by train with my dog from Vienna?",
+          "a": "Yes. ÖBB intercity trains from Wien Hbf reach Salzburg in about 2.5 hours. Dogs in carriers travel free; larger dogs need a half-price ticket and must wear a muzzle. Book at oebb.at."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le U-Bahn de Vienne avec mon chien ?",
+          "a": "Oui. Les chiens dans un sac voyagent gratuitement. Les chiens plus grands ont besoin d'un ticket enfant + muselière. Les règles de wienerlinien.at s'appliquent à tous les services U-Bahn, tram et bus."
+        },
+        {
+          "q": "Les chiens doivent-ils porter une muselière dans les transports viennois ?",
+          "a": "Oui — tous les chiens plus grands qu'un sac de transport doivent porter une muselière dans tous les services Wienerlinien (U-Bahn, tram, bus). C'est strictement appliqué. Source : wienerlinien.at"
+        },
+        {
+          "q": "Puis-je voyager en train de Vienne à Salzbourg avec mon chien ?",
+          "a": "Oui. Les trains intercités ÖBB depuis Wien Hbf atteignent Salzbourg en environ 2h30. Les chiens dans un sac voyagent gratuitement ; les chiens plus grands ont besoin d'un billet demi-tarif et doivent porter une muselière. Réservez sur oebb.at."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el U-Bahn de Viena?",
+          "a": "Sí. Los perros en bolsa viajan gratis. Los perros más grandes necesitan un billete de niño + bozal. Las normas de wienerlinien.at se aplican a todos los servicios de U-Bahn, tranvía y autobús."
+        },
+        {
+          "q": "¿Los perros necesitan bozal en el transporte público de Viena?",
+          "a": "Sí — todos los perros más grandes que una bolsa de transporte deben llevar bozal en todos los servicios Wienerlinien (U-Bahn, tranvía, autobús). Esto se aplica estrictamente. Fuente: wienerlinien.at"
+        },
+        {
+          "q": "¿Puedo viajar en tren de Viena a Salzburgo con mi perro?",
+          "a": "Sí. Los trenes de largo recorrido de ÖBB desde Wien Hbf llegan a Salzburgo en unas 2,5 horas. Los perros en bolsa viajan gratis; los perros más grandes necesitan un billete a mitad de precio y deben llevar bozal. Reserva en oebb.at."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Swimming near Vienna",
+      "titleFr": "Lacs et baignade avec son chien près de Vienne",
+      "titleEs": "Lagos y zonas de baño para perros cerca de Viena",
+      "introEn": "Vienna has no sea coast, but the Alte Donau (Old Danube) and Donauinsel within the city, plus the Lobau nature reserve and the Neusiedler See to the east, provide excellent dog-friendly water access. The Wiener Umweltschutzabteilung (Vienna Environmental Protection Department) publishes current dog zone maps — always check before visiting, as regulations are updated seasonally.",
+      "introFr": "Vienne n'a pas de côte maritime, mais l'Alte Donau (Vieux Danube) et la Donauinsel au sein de la ville, ainsi que la réserve naturelle de la Lobau et le Neusiedler See à l'est, offrent d'excellents accès à l'eau pour les chiens. Le Wiener Umweltschutzabteilung (département de la protection de l'environnement de Vienne) publie les cartes actuelles des zones canines — vérifiez toujours avant votre visite, les réglementations étant mises à jour saisonnièrement.",
+      "introEs": "Viena no tiene costa marítima, pero el Alte Donau (Danubio Antiguo) y la Donauinsel dentro de la ciudad, más la reserva natural de la Lobau y el Neusiedler See al este, proporcionan excelente acceso al agua amigable con los perros. El Wiener Umweltschutzabteilung (Departamento de Protección Ambiental de Viena) publica mapas actuales de zonas caninas — siempre comprueba antes de visitar, ya que las regulaciones se actualizan estacionalmente.",
+      "places": [
+        {
+          "name": "Alte Donau (Old Danube) — Dog Zones",
+          "distance": "20 min by U-Bahn (U1) from city centre",
+          "description": "The Alte Donau is an oxbow lake separated from the main Danube — calmer, warmer, and excellent for swimming. Several sections of the Alte Donau shoreline have designated dog zones where dogs can swim freely. The Floridsdorf and Langenzersdorf sides tend to have better dog access than the more developed resort beach areas.",
+          "season": "Year-round at designated dog zones",
+          "rules": "Dogs prohibited from the main resort beaches (Strandbäder) from May to September. Designated dog swimming zones are marked — check city maps.",
+          "facilities": "Multiple U-Bahn access points, cafés nearby, parking available",
+          "googleMapsUrl": "https://maps.google.com/?q=Alte+Donau+Wien"
+        },
+        {
+          "name": "Lobau Nature Reserve",
+          "distance": "30 min by car from city centre",
+          "description": "The Lobau is a protected floodplain forest and nature reserve east of Vienna, part of the Donau-Auen National Park. It has natural swimming ponds (Lobaugewässer) where dogs are permitted. The atmosphere is entirely different from the manicured city parks — wild, reed-lined, and peaceful. Dogs must be on-leash in protected zones but have more freedom in the recreation areas.",
+          "season": "Year-round. Summer for swimming",
+          "rules": "Dogs on-leash in protected natural zones. Dogs permitted in designated recreation and swimming areas.",
+          "facilities": "Limited facilities — bring your own water and food",
+          "googleMapsUrl": "https://maps.google.com/?q=Lobau+Wien"
+        },
+        {
+          "name": "Neusiedler See (Lake Neusiedl)",
+          "distance": "1 hour by train from Vienna Hauptbahnhof",
+          "description": "The Neusiedler See is a vast, shallow steppe lake on the border between Austria and Hungary, unique in Central Europe. It is surrounded by reed beds, wine villages, and wide open sky. Dogs are permitted at several lake access points around the lake, with the areas around Podersdorf and Rust being particularly accessible. A full day trip from Vienna that no dog-loving visitor should miss.",
+          "season": "Year-round. Best May–October",
+          "rules": "Dogs permitted at most lake shore access points. Local rules vary by municipality — check signage on arrival.",
+          "facilities": "Full facilities in the wine villages (Rust, Mörbisch, Podersdorf), ÖBB train access",
+          "googleMapsUrl": "https://maps.google.com/?q=Neusiedler+See"
+        }
+      ],
+      "tipsEn": [
+        "The Alte Donau is the most convenient dog swimming option from central Vienna — a 20-minute U-Bahn ride.",
+        "Vienna's lake dog rules change seasonally. The city's official map at wien.gv.at shows current dog zone locations.",
+        "The Lobau nature reserve is the most natural and tranquil swimming experience near Vienna — but facilities are minimal. Bring everything you need.",
+        "Dogs are prohibited from the Strandbad resort beaches on the Alte Donau from May to September."
+      ],
+      "tipsFr": [
+        "L'Alte Donau est l'option de baignade canine la plus pratique depuis le centre de Vienne — à 20 minutes en U-Bahn.",
+        "Les règles pour les chiens dans les lacs de Vienne changent selon la saison. La carte officielle de la ville sur wien.gv.at indique les emplacements actuels des zones canines.",
+        "La réserve naturelle de la Lobau offre l'expérience de baignade la plus naturelle et paisible près de Vienne — mais les équipements sont minimes. Apportez tout ce dont vous avez besoin.",
+        "Les chiens sont interdits dans les plages Strandbad de l'Alte Donau de mai à septembre."
+      ],
+      "tipsEs": [
+        "El Alte Donau es la opción de natación canina más conveniente desde el centro de Viena — a 20 minutos en U-Bahn.",
+        "Las normas de lagos para perros de Viena cambian estacionalmente. El mapa oficial de la ciudad en wien.gv.at muestra las ubicaciones actuales de las zonas caninas.",
+        "La reserva natural de la Lobau es la experiencia de natación más natural y tranquila cerca de Viena — pero las instalaciones son mínimas. Trae todo lo que necesitas.",
+        "Los perros están prohibidos en las playas Strandbad del Alte Donau de mayo a septiembre."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs swim in Vienna?",
+          "a": "The Alte Donau (Old Danube oxbow lake) has designated dog swimming zones accessible in about 20 minutes by U-Bahn. The Donauinsel's northern end also has dog swimming areas. The Lobau nature reserve has natural swimming ponds. All dog zones are marked on the city's official wien.gv.at maps."
+        },
+        {
+          "q": "Can I take my dog to the Neusiedler See?",
+          "a": "Yes. The Neusiedler See is a 1-hour train journey from Vienna Hauptbahnhof and is an excellent dog-friendly day trip. Dogs are permitted at most lake access points, with the Podersdorf and Rust areas being particularly accessible."
+        },
+        {
+          "q": "Are there dog-friendly beaches on the Alte Donau?",
+          "a": "Yes — in designated dog zones. The main resort beaches (Strandbäder) on the Alte Donau prohibit dogs from May to September. Designated dog swimming zones are separate and clearly marked. Check the city's online map for current locations."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils se baigner à Vienne ?",
+          "a": "L'Alte Donau (lac en oxbow du Vieux Danube) dispose de zones de baignade canine désignées accessibles en environ 20 minutes en U-Bahn. L'extrémité nord de la Donauinsel dispose également de zones de baignade canine. La réserve naturelle de la Lobau possède des étangs de baignade naturels. Toutes les zones canines sont indiquées sur les cartes officielles de wien.gv.at."
+        },
+        {
+          "q": "Puis-je emmener mon chien au Neusiedler See ?",
+          "a": "Oui. Le Neusiedler See est à 1h de train depuis la Vienne Hauptbahnhof et constitue une excellente excursion d'une journée dog-friendly. Les chiens sont admis à la plupart des points d'accès au lac, les zones de Podersdorf et Rust étant particulièrement accessibles."
+        },
+        {
+          "q": "Y a-t-il des plages dog-friendly sur l'Alte Donau ?",
+          "a": "Oui — dans les zones canines désignées. Les plages des complexes balnéaires (Strandbäder) de l'Alte Donau interdisent les chiens de mai à septembre. Les zones de baignade canine désignées sont séparées et clairement balisées. Consultez la carte en ligne de la ville pour les emplacements actuels."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden nadar los perros en Viena?",
+          "a": "El Alte Donau (lago de meandro del Danubio Antiguo) tiene zonas de natación canina designadas accesibles en unos 20 minutos en U-Bahn. El extremo norte de la Donauinsel también tiene zonas de natación para perros. La reserva natural de la Lobau tiene estanques de natación naturales. Todas las zonas caninas están marcadas en los mapas oficiales de wien.gv.at."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro al Neusiedler See?",
+          "a": "Sí. El Neusiedler See está a 1 hora en tren desde la Hauptbahnhof de Viena y es una excelente excursión de un día amigable con los perros. Los perros están permitidos en la mayoría de los puntos de acceso al lago, siendo las zonas de Podersdorf y Rust particularmente accesibles."
+        },
+        {
+          "q": "¿Hay playas amigables con los perros en el Alte Donau?",
+          "a": "Sí — en zonas caninas designadas. Las playas de los complejos turísticos (Strandbäder) del Alte Donau prohíben los perros de mayo a septiembre. Las zonas de natación canina designadas son separadas y están claramente marcadas. Consulta el mapa online de la ciudad para las ubicaciones actuales."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Vienna",
+      "titleFr": "Vétérinaires et urgences vétérinaires à Vienne",
+      "titleEs": "Veterinarios y urgencias veterinarias en Viena",
+      "introEn": "Vienna has a well-developed veterinary network including several genuine 24-hour emergency clinics. The Veterinary University of Vienna (Vetmeduni) operates the most comprehensive animal hospital in Austria. For routine visits, appointments are required. Always call ahead on Austrian public holidays, when many regular practices close.",
+      "introFr": "Vienne dispose d'un réseau vétérinaire bien développé comprenant plusieurs vraies cliniques d'urgence 24h/24. L'Université vétérinaire de Vienne (Vetmeduni) exploite l'hôpital animalier le plus complet d'Autriche. Pour les visites de routine, un rendez-vous est nécessaire. Appelez toujours avant les jours fériés autrichiens, où de nombreux cabinets ordinaires ferment.",
+      "introEs": "Viena tiene una red veterinaria bien desarrollada que incluye varias clínicas de emergencias genuinamente abiertas las 24 horas. La Universidad Veterinaria de Viena (Vetmeduni) opera el hospital de animales más completo de Austria. Para visitas de rutina, se requiere cita previa. Siempre llama con antelación en los días festivos austríacos, cuando muchas consultas habituales cierran.",
+      "places": [
+        {
+          "name": "Vetmeduni Universitätsklinik für Kleintiere",
+          "address": "Veterinärplatz 1, 1210 Wien",
+          "neighborhood": "Floridsdorf (21st District)",
+          "photo": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.vetmeduni.ac.at/kliniken/klinik-fuer-kleintiere/",
+          "description": "The small animal clinic of the Vienna University of Veterinary Medicine is Austria's leading animal hospital, providing genuine 24-hour emergency care and specialist services across all disciplines. As a teaching university clinic, it handles the most complex cases. The emergency intake is open every day of the year. Located in Floridsdorf, it is accessible via public transport.",
+          "descriptionFr": "La clinique des petits animaux de l'Université vétérinaire de Vienne est le principal hôpital animalier d'Autriche, assurant des urgences 24h/24 et des services spécialisés dans toutes les disciplines. En tant que clinique universitaire, elle prend en charge les cas les plus complexes. L'accueil des urgences est ouvert tous les jours de l'année. Situé à Floridsdorf, accessible en transports en commun.",
+          "descriptionEs": "La clínica de animales pequeños de la Universidad Veterinaria de Viena es el hospital de animales líder de Austria, proporcionando atención de emergencia genuina las 24 horas y servicios especializados en todas las disciplinas. Como clínica universitaria, maneja los casos más complejos. La recepción de urgencias está abierta todos los días del año.",
+          "petPolicy": "24-hour emergency care. All species accepted",
+          "petPolicyFr": "Soins d'urgence 24h/24. Toutes espèces acceptées",
+          "petPolicyEs": "Atención de urgencias 24 horas. Todas las especies admitidas",
+          "priceRange": "€€€",
+          "openingHours": "24 hours, 7 days a week",
+          "tip": "The most reliable 24-hour emergency option in Vienna. Take the U6 to Floridsdorf then a short taxi or tram",
+          "tipFr": "L'option d'urgence 24h/24 la plus fiable à Vienne. Prenez le U6 jusqu'à Floridsdorf puis un court trajet en taxi ou tram",
+          "tipEs": "La opción de urgencias 24 horas más fiable en Viena. Toma el U6 hasta Floridsdorf luego un corto trayecto en taxi o tranvía",
+          "googleMapsUrl": "https://maps.google.com/?q=Vetmeduni+Wien+Klinik+Kleintiere"
+        },
+        {
+          "name": "Tierklinik AKH Wien",
+          "address": "Währinger Gürtel 18-20, 1090 Wien",
+          "neighborhood": "Alsergrund (9th District)",
+          "photo": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tierklinik.at/",
+          "description": "A centrally located private veterinary clinic in the 9th District, near the AKH hospital. Offers routine consultations and some specialist services. Not a 24-hour emergency clinic — confirm availability by phone before visiting. Convenient location for dogs staying in the inner districts.",
+          "descriptionFr": "Une clinique vétérinaire privée centralement située dans le 9e arrondissement, près de l'AKH. Propose des consultations de routine et quelques services spécialisés. Ce n'est pas une clinique d'urgence 24h/24 — confirmez les disponibilités par téléphone avant de vous rendre. Emplacement pratique pour les chiens logeant dans les arrondissements centraux.",
+          "descriptionEs": "Una clínica veterinaria privada centralmente ubicada en el 9° Distrito, cerca del hospital AKH. Ofrece consultas de rutina y algunos servicios especializados. No es una clínica de emergencias 24 horas — confirma disponibilidad por teléfono antes de visitar. Ubicación conveniente para perros que se alojan en los distritos interiores.",
+          "petPolicy": "Dogs and cats. Appointment preferred",
+          "petPolicyFr": "Chiens et chats. Rendez-vous préférable",
+          "petPolicyEs": "Perros y gatos. Cita previa preferible",
+          "priceRange": "€€",
+          "openingHours": "Mon–Fri 09:00–18:00, Sat 09:00–13:00",
+          "tip": "For emergencies, always call Vetmeduni. This clinic is best for planned consultations during business hours",
+          "tipFr": "Pour les urgences, appelez toujours la Vetmeduni. Cette clinique convient mieux aux consultations planifiées pendant les heures ouvrables",
+          "tipEs": "Para emergencias, siempre llama a Vetmeduni. Esta clínica es mejor para consultas planificadas durante horario comercial",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Wien+Alsergrund"
+        }
+      ],
+      "tipsEn": [
+        "Save the Vetmeduni emergency number before your visit. They are Vienna's most reliable 24-hour veterinary facility.",
+        "Austrian public holidays are frequent. Many regular practices close. Always have the emergency number ready.",
+        "All EU pet passports are accepted in Austria. Ensure your dog's rabies vaccination is current.",
+        "Pet insurance valid in Austria significantly reduces emergency veterinary costs."
+      ],
+      "tipsFr": [
+        "Enregistrez le numéro d'urgence de la Vetmeduni avant votre visite. C'est l'établissement vétérinaire 24h/24 le plus fiable de Vienne.",
+        "Les jours fériés autrichiens sont fréquents. De nombreux cabinets ordinaires ferment. Ayez toujours le numéro d'urgence à portée de main.",
+        "Tous les passeports européens pour animaux sont acceptés en Autriche. Assurez-vous que la vaccination antirabique de votre chien est à jour.",
+        "Une assurance animaux valable en Autriche réduit considérablement les frais vétérinaires d'urgence."
+      ],
+      "tipsEs": [
+        "Guarda el número de urgencias de la Vetmeduni antes de tu visita. Son la instalación veterinaria 24 horas más fiable de Viena.",
+        "Los festivos austríacos son frecuentes. Muchas consultas habituales cierran. Ten siempre el número de emergencias a mano.",
+        "Todos los pasaportes europeos para mascotas se aceptan en Austria. Asegúrate de que la vacunación antirrábica de tu perro esté vigente.",
+        "El seguro para mascotas válido en Austria reduce significativamente los costos veterinarios de emergencia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Vienna?",
+          "a": "Yes. The Vetmeduni Universitätsklinik für Kleintiere (Veterinärplatz 1, 1210 Wien) provides genuine 24-hour emergency care every day of the year. It is Austria's leading veterinary university hospital."
+        },
+        {
+          "q": "Do I need an appointment at a Vienna vet for a routine visit?",
+          "a": "Yes. Most Vienna veterinary practices require an appointment for non-emergency consultations. The Vetmeduni emergency clinic is available without appointment 24 hours a day."
+        },
+        {
+          "q": "Will Vienna vets accept my dog's EU pet passport?",
+          "a": "Yes. Austria is part of the EU and all EU pet passports are accepted. Ensure your dog's rabies vaccination is current. Non-EU passports are accepted under bilateral arrangements."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Vienne ?",
+          "a": "Oui. La Vetmeduni Universitätsklinik für Kleintiere (Veterinärplatz 1, 1210 Wien) assure une permanence d'urgence 24h/24 tous les jours de l'année. C'est le principal hôpital vétérinaire universitaire d'Autriche."
+        },
+        {
+          "q": "Faut-il un rendez-vous chez un vétérinaire viennois pour une visite de routine ?",
+          "a": "Oui. La plupart des cabinets vétérinaires viennois exigent un rendez-vous pour les consultations non urgentes. La clinique d'urgence de la Vetmeduni est disponible sans rendez-vous 24h/24."
+        },
+        {
+          "q": "Les vétérinaires viennois acceptent-ils le passeport européen pour animaux de mon chien ?",
+          "a": "Oui. L'Autriche fait partie de l'UE et tous les passeports européens pour animaux sont acceptés. Assurez-vous que la vaccination antirabique de votre chien est à jour. Les passeports non européens sont acceptés dans le cadre d'accords bilatéraux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias 24 horas en Viena?",
+          "a": "Sí. La Vetmeduni Universitätsklinik für Kleintiere (Veterinärplatz 1, 1210 Wien) proporciona atención de emergencia genuina las 24 horas, todos los días del año. Es el principal hospital veterinario universitario de Austria."
+        },
+        {
+          "q": "¿Necesito cita en un veterinario de Viena para una visita de rutina?",
+          "a": "Sí. La mayoría de las consultas veterinarias de Viena requieren cita para consultas no urgentes. La clínica de urgencias de Vetmeduni está disponible sin cita las 24 horas del día."
+        },
+        {
+          "q": "¿Los veterinarios de Viena aceptarán el pasaporte europeo para mascotas de mi perro?",
+          "a": "Sí. Austria es parte de la UE y se aceptan todos los pasaportes europeos para mascotas. Asegúrate de que la vacunación antirrábica de tu perro esté vigente. Los pasaportes no europeos se aceptan en virtud de acuerdos bilaterales."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "General Dog Travel Tips for Vienna",
+      "titleFr": "Conseils généraux pour voyager avec son chien à Vienne",
+      "titleEs": "Consejos generales para viajar con perro a Viena",
+      "introEn": "Vienna is one of Europe's most civilised cities for dogs. The coffee house tradition, the excellent park infrastructure, and the generally relaxed Viennese attitude toward dogs in public spaces make it a genuinely excellent destination. A few practical points will help you make the most of your visit.",
+      "introFr": "Vienne est l'une des villes d'Europe les plus civilisées pour les chiens. La tradition des cafés, l'excellente infrastructure de parcs et l'attitude généralement détendue des Viennois envers les chiens dans les espaces publics en font une destination vraiment excellente. Quelques points pratiques vous aideront à tirer le meilleur parti de votre visite.",
+      "introEs": "Viena es una de las ciudades más civilizadas de Europa para los perros. La tradición del café, la excelente infraestructura de parques y la actitud generalmente relajada de los vieneses hacia los perros en los espacios públicos la convierten en un destino genuinamente excelente. Algunos puntos prácticos te ayudarán a sacar el máximo partido de tu visita.",
+      "places": [],
+      "tipsEn": [
+        "Dogs in Vienna must be registered and licensed by the dog owner's home municipality. Tourists visiting with dogs are exempt from registration.",
+        "Vienna has over 850 designated off-leash areas. Use the interactive map at wien.gv.at to find the nearest one.",
+        "Always carry a muzzle on Vienna public transport — it is legally required for all dogs not in a carrier bag.",
+        "The Naschmarkt (Vienna's great outdoor market) is extremely dog-friendly. Saturday mornings are the best time to visit.",
+        "Vienna's Heurigen (wine taverns) in the hills of Grinzing, Nussdorf, and Neustift are fantastic dog-friendly destinations — most allow dogs in their garden areas."
+      ],
+      "tipsFr": [
+        "Les chiens à Vienne doivent être enregistrés et licenciés par la commune du propriétaire. Les touristes visitant avec leur chien sont exemptés d'enregistrement.",
+        "Vienne dispose de plus de 850 zones de liberté désignées. Utilisez la carte interactive sur wien.gv.at pour trouver la plus proche.",
+        "Portez toujours une muselière dans les transports en commun viennois — elle est légalement obligatoire pour tous les chiens qui ne sont pas dans un sac de transport.",
+        "Le Naschmarkt (le grand marché de plein air de Vienne) est extrêmement dog-friendly. Le samedi matin est le meilleur moment pour le visiter.",
+        "Les Heurigen (tavernes à vin) viennois dans les collines de Grinzing, Nussdorf et Neustift sont de fantastiques destinations dog-friendly — la plupart autorisent les chiens dans leurs jardins."
+      ],
+      "tipsEs": [
+        "Los perros en Viena deben estar registrados y con licencia por el municipio del dueño. Los turistas que visitan con perros están exentos del registro.",
+        "Viena tiene más de 850 zonas sin correa designadas. Usa el mapa interactivo en wien.gv.at para encontrar la más cercana.",
+        "Lleva siempre un bozal en el transporte público de Viena — es legalmente obligatorio para todos los perros que no estén en una bolsa de transporte.",
+        "El Naschmarkt (el gran mercado al aire libre de Viena) es extremadamente amigable con los perros. Los sábados por la mañana es el mejor momento para visitar.",
+        "Los Heurigen (tabernas de vino) de Viena en las colinas de Grinzing, Nussdorf y Neustift son destinos fantásticamente amigables con los perros — la mayoría permiten perros en sus zonas de jardín."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Vienna a dog-friendly city?",
+          "a": "Excellent. Vienna is historically and culturally one of Europe's most dog-friendly cities. The Kaffeehaus tradition, the extensive park network, the Wienerwald, and the relaxed urban culture all make it a top destination for dog owners."
+        },
+        {
+          "q": "Can I take my dog to the Vienna Heurigen wine taverns?",
+          "a": "Yes. The Heurigen in Vienna's wine-growing suburbs (Grinzing, Nussdorf, Sievering, Neustift) are almost universally dog-friendly. Most have large garden areas where dogs are welcome. This is one of Vienna's most distinctive and enjoyable dog-friendly experiences."
+        },
+        {
+          "q": "Can I take my dog to the Naschmarkt?",
+          "a": "Yes. Vienna's Naschmarkt is an outdoor market open Monday through Saturday. Dogs are very welcome throughout the market. Saturday morning is the busiest but also the most exciting time to visit."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Vienne est-elle une ville dog-friendly ?",
+          "a": "Excellente. Vienne est historiquement et culturellement l'une des villes les plus dog-friendly d'Europe. La tradition du Kaffeehaus, l'étendu réseau de parcs, le Wienerwald et la culture urbaine détendue en font une destination de premier choix pour les propriétaires de chiens."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans les Heurigen (tavernes à vin) de Vienne ?",
+          "a": "Oui. Les Heurigen dans les faubourgs viticoles de Vienne (Grinzing, Nussdorf, Sievering, Neustift) sont presque universellement dog-friendly. La plupart disposent de grandes terrasses jardins où les chiens sont les bienvenus. C'est l'une des expériences viennoises les plus typiques et agréables avec un chien."
+        },
+        {
+          "q": "Puis-je emmener mon chien au Naschmarkt ?",
+          "a": "Oui. Le Naschmarkt de Vienne est un marché de plein air ouvert du lundi au samedi. Les chiens sont très bienvenus dans tout le marché. Le samedi matin est le plus fréquenté mais aussi le plus animé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Viena una ciudad amigable con los perros?",
+          "a": "Excelente. Viena es histórica y culturalmente una de las ciudades más amigables con los perros de Europa. La tradición del Kaffeehaus, la extensa red de parques, el Wienerwald y la relajada cultura urbana la convierten en un destino de primer nivel para los dueños de perros."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a los Heurigen (tabernas de vino) de Viena?",
+          "a": "Sí. Los Heurigen en los suburbios vinícolas de Viena (Grinzing, Nussdorf, Sievering, Neustift) son casi universalmente amigables con los perros. La mayoría tienen grandes zonas de jardín donde los perros son bienvenidos. Esta es una de las experiencias más distintivas y agradables de Viena para los dueños de perros."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro al Naschmarkt?",
+          "a": "Sí. El Naschmarkt de Viena es un mercado al aire libre abierto de lunes a sábado. Los perros son muy bienvenidos en todo el mercado. El sábado por la mañana es el momento más concurrido pero también el más emocionante para visitar."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Vienna",
+      "titleFr": "Attractions dog-friendly à Vienne",
+      "titleEs": "Atracciones para perros en Viena",
+      "introEn": "Vienna's extraordinary concentration of imperial architecture, parks, and outdoor spaces means there is plenty to do with a dog. The Schönbrunn and Belvedere palace gardens, the Ringstrasse boulevard, the Naschmarkt, and the Prater are all excellent with dogs on a leash. Vienna's world-famous museums and opera houses do not admit dogs — plan accordingly.",
+      "introFr": "La concentration extraordinaire de Vienne en architecture impériale, parcs et espaces extérieurs offre de nombreuses activités avec un chien. Les jardins des palais de Schönbrunn et du Belvédère, le boulevard du Ringstrasse, le Naschmarkt et le Prater sont tous excellents avec un chien en laisse. Les musées et opéras de renommée mondiale de Vienne n'admettent pas les chiens — planifiez en conséquence.",
+      "introEs": "La extraordinaria concentración de Viena de arquitectura imperial, parques y espacios al aire libre significa que hay mucho que hacer con un perro. Los jardines de los palacios de Schönbrunn y Belvedere, el bulevar del Ringstrasse, el Naschmarkt y el Prater son todos excelentes con perros con correa. Los mundialmente famosos museos y casas de ópera de Viena no admiten perros — planifica en consecuencia.",
+      "places": [
+        {
+          "name": "Schönbrunn Palace Gardens",
+          "address": "Schönbrunner Schloßstraße 47, 1130 Wien",
+          "neighborhood": "Hietzing (13th District)",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.schoenbrunn.at/en/",
+          "description": "The Schönbrunn Palace gardens are among the finest baroque gardens in Europe: 1.2 km of formal French-style garden rising to the Gloriette hilltop monument with its panoramic view over Vienna. Dogs on a leash are welcome throughout the gardens (not inside the palace). The upper garden (between the Gloriette and the parterre) is particularly beautiful for a morning walk with a dog. One of Vienna's most extraordinary outdoor experiences.",
+          "descriptionFr": "Les jardins du palais de Schönbrunn sont parmi les plus beaux jardins baroques d'Europe : 1,2 km de jardin formel à la française montant jusqu'au monument de la Gloriette au sommet de la colline avec sa vue panoramique sur Vienne. Les chiens en laisse sont les bienvenus dans tout le jardin (pas à l'intérieur du palais). Le jardin supérieur (entre la Gloriette et le parterre) est particulièrement beau pour une promenade matinale avec un chien.",
+          "descriptionEs": "Los jardines del Palacio de Schönbrunn son de los más bellos jardines barrocos de Europa: 1,2 km de jardín formal al estilo francés que sube hasta el monumento de la Gloriette en la colina con su vista panorámica sobre Viena. Los perros con correa son bienvenidos en todo el jardín (no en el interior del palacio). El jardín superior (entre la Gloriette y el parterre) es especialmente hermoso para un paseo matutino con un perro.",
+          "petPolicy": "Dogs on leash welcome in palace gardens. Not permitted inside palace buildings",
+          "petPolicyFr": "Chiens en laisse bienvenus dans les jardins. Non admis à l'intérieur du palais",
+          "petPolicyEs": "Perros con correa bienvenidos en los jardines. No permitidos en el interior del palacio",
+          "priceRange": "Free (garden access)",
+          "mustTry": "Walk up to the Gloriette at sunset for the best view of Vienna with your dog",
+          "mustTryFr": "Montez jusqu'à la Gloriette au coucher du soleil pour la meilleure vue de Vienne avec votre chien",
+          "mustTryEs": "Sube a la Gloriette al atardecer para la mejor vista de Viena con tu perro",
+          "openingHours": "Daily 06:00–dusk (garden access free year-round)",
+          "tip": "Go on a weekday morning. The gardens are magical before 09:00 before the tourist groups arrive",
+          "tipFr": "Venez en semaine le matin. Les jardins sont magiques avant 9h, avant l'arrivée des groupes touristiques",
+          "tipEs": "Ve un día de semana por la mañana. Los jardines son mágicos antes de las 09:00 antes de que lleguen los grupos turísticos",
+          "googleMapsUrl": "https://maps.google.com/?q=Schloss+Sch%C3%B6nbrunn+Wien"
+        },
+        {
+          "name": "Belvedere Gardens",
+          "address": "Prinz-Eugen-Straße 27, 1030 Wien",
+          "neighborhood": "Wieden (4th District)",
+          "photo": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.belvedere.at/en",
+          "description": "The baroque gardens of the Belvedere run between the Upper and Lower Belvedere palaces and are one of the finest formal gardens in Central Europe. Dogs on a leash are welcome in the gardens. The setting — cascading terraces, sphinxes, and the Upper Belvedere reflected in its ornamental pond — is genuinely extraordinary. Dogs cannot enter the palaces themselves, but the garden walk is a complete experience in its own right.",
+          "descriptionFr": "Les jardins baroques du Belvédère relient les palais du Belvédère supérieur et inférieur et constituent l'un des plus beaux jardins formels d'Europe centrale. Les chiens en laisse sont les bienvenus dans les jardins. Le cadre — terrasses en cascade, sphinx et Belvédère supérieur reflété dans son bassin ornemental — est vraiment extraordinaire. Les chiens ne peuvent pas entrer dans les palais eux-mêmes, mais la promenade dans les jardins est à elle seule une expérience complète.",
+          "descriptionEs": "Los jardines barrocos del Belvedere discurren entre los palacios del Alto y Bajo Belvedere y son uno de los mejores jardines formales de Europa Central. Los perros con correa son bienvenidos en los jardines. El entorno — terrazas en cascada, esfinges y el Alto Belvedere reflejado en su estanque ornamental — es genuinamente extraordinario.",
+          "petPolicy": "Dogs on leash welcome in palace gardens. Not permitted inside museum buildings",
+          "petPolicyFr": "Chiens en laisse bienvenus dans les jardins. Non admis à l'intérieur des musées",
+          "petPolicyEs": "Perros con correa bienvenidos en los jardines. No permitidos en el interior de los museos",
+          "priceRange": "Free (garden access)",
+          "mustTry": "Walk from the Lower to Upper Belvedere through the garden terraces",
+          "mustTryFr": "Marcher du Belvédère inférieur au supérieur à travers les terrasses du jardin",
+          "mustTryEs": "Caminar desde el Belvedere Inferior al Superior a través de las terrazas del jardín",
+          "openingHours": "Daily 06:00–20:00 (garden access, free)",
+          "tip": "The best view of the Upper Belvedere is from the lower parterre — arrive early for the best light and no crowds",
+          "tipFr": "La meilleure vue sur le Belvédère supérieur est depuis le parterre inférieur — arrivez tôt pour la meilleure lumière et sans foule",
+          "tipEs": "La mejor vista del Belvedere Superior es desde el parterre inferior — llega temprano para la mejor luz y sin multitudes",
+          "googleMapsUrl": "https://maps.google.com/?q=Belvedere+Wien"
+        }
+      ],
+      "tipsEn": [
+        "Vienna's palace gardens (Schönbrunn, Belvedere, Augarten) are all open to dogs on a leash and are among the finest outdoor spaces in Europe.",
+        "The Ringstrasse boulevard is an excellent dog walk — 5 km of grand imperial architecture with wide pavements and several pocket parks.",
+        "Dogs are not permitted in Vienna's major museums (KHM, Albertina, Belvedere palaces, Kunsthistorisches Museum). Plan accordingly.",
+        "Vienna's Christmas market at Rathausplatz (November–December) is extremely dog-friendly and one of the best in Europe."
+      ],
+      "tipsFr": [
+        "Les jardins des palais viennois (Schönbrunn, Belvédère, Augarten) sont tous ouverts aux chiens en laisse et figurent parmi les plus beaux espaces extérieurs d'Europe.",
+        "Le boulevard du Ringstrasse est une excellente promenade canine — 5 km d'architecture impériale grandiose avec de larges trottoirs et plusieurs parcs de poche.",
+        "Les chiens ne sont pas admis dans les grands musées viennois (KHM, Albertina, palais du Belvédère, Kunsthistorisches Museum). Planifiez en conséquence.",
+        "Le marché de Noël viennois sur le Rathausplatz (novembre–décembre) est extrêmement dog-friendly et l'un des meilleurs d'Europe."
+      ],
+      "tipsEs": [
+        "Los jardines del palacio de Viena (Schönbrunn, Belvedere, Augarten) están todos abiertos a perros con correa y son de los mejores espacios al aire libre de Europa.",
+        "El bulevar del Ringstrasse es un excelente paseo para perros — 5 km de gran arquitectura imperial con amplias aceras y varios parques de bolsillo.",
+        "Los perros no están permitidos en los grandes museos de Viena (KHM, Albertina, palacios Belvedere, Kunsthistorisches Museum). Planifica en consecuencia.",
+        "El mercado navideño de Viena en el Rathausplatz (noviembre–diciembre) es extremadamente amigable con los perros y uno de los mejores de Europa."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I visit Schönbrunn Palace with my dog?",
+          "a": "Yes, in the gardens. The 1.2 km formal baroque garden, including the climb to the Gloriette monument, is open to dogs on a leash. Garden access is free. Dogs cannot enter the palace buildings themselves."
+        },
+        {
+          "q": "Can I walk the Ringstrasse with my dog?",
+          "a": "Yes. The Ringstrasse is a public boulevard and dogs on a leash are fully welcome. The 5 km circuit passes the Opera, Parliament, Rathaus, Burgtheater, and several palace facades — it is Vienna's best dog-friendly sightseeing walk."
+        },
+        {
+          "q": "Are dogs allowed at Vienna's Christmas market?",
+          "a": "Yes. The main Viennese Christmas market at the Rathausplatz and most of Vienna's Christmas markets are outdoor events where dogs on a leash are welcome. The Rathausplatz market is one of the most beautiful in Europe."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je visiter le palais de Schönbrunn avec mon chien ?",
+          "a": "Oui, dans les jardins. Le jardin baroque formel de 1,2 km, y compris la montée jusqu'au monument de la Gloriette, est ouvert aux chiens en laisse. L'accès au jardin est gratuit. Les chiens ne peuvent pas entrer dans les bâtiments du palais."
+        },
+        {
+          "q": "Puis-je me promener sur le Ringstrasse avec mon chien ?",
+          "a": "Oui. Le Ringstrasse est un boulevard public et les chiens en laisse y sont pleinement bienvenus. Le circuit de 5 km passe devant l'Opéra, le Parlement, l'Hôtel de Ville, le Burgtheater et plusieurs façades de palais — c'est la meilleure promenade touristique dog-friendly de Vienne."
+        },
+        {
+          "q": "Les chiens sont-ils admis au marché de Noël de Vienne ?",
+          "a": "Oui. Le principal marché de Noël viennois au Rathausplatz et la plupart des marchés de Noël de Vienne sont des événements en plein air où les chiens en laisse sont les bienvenus. Le marché du Rathausplatz est l'un des plus beaux d'Europe."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo visitar el Palacio de Schönbrunn con mi perro?",
+          "a": "Sí, en los jardines. El jardín barroco formal de 1,2 km, incluida la subida al monumento de la Gloriette, está abierto a perros con correa. El acceso al jardín es gratuito. Los perros no pueden entrar en los edificios del palacio."
+        },
+        {
+          "q": "¿Puedo pasear por el Ringstrasse con mi perro?",
+          "a": "Sí. El Ringstrasse es un bulevar público y los perros con correa son completamente bienvenidos. El circuito de 5 km pasa por la Ópera, el Parlamento, el Ayuntamiento, el Burgtheater y varias fachadas de palacios — es el mejor paseo turístico amigable con perros de Viena."
+        },
+        {
+          "q": "¿Se admiten perros en el mercado navideño de Viena?",
+          "a": "Sí. El principal mercado navideño de Viena en el Rathausplatz y la mayoría de los mercados navideños de Viena son eventos al aire libre donde los perros con correa son bienvenidos. El mercado del Rathausplatz es uno de los más bellos de Europa."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Services in Vienna",
+      "titleFr": "Pet sitting et services pour chiens à Vienne",
+      "titleEs": "Pet sitting y servicios para perros en Viena",
+      "introEn": "Vienna has a good network of pet sitting and dog walking services. Both international platforms and local Austrian providers operate in the city. The city's cosmopolitan character means English-speaking sitters are readily available.",
+      "introFr": "Vienne dispose d'un bon réseau de services de pet sitting et de promenade de chiens. Les plateformes internationales et les prestataires autrichiens locaux opèrent dans la ville. Le caractère cosmopolite de la ville signifie que les gardiens anglophones sont facilement disponibles.",
+      "introEs": "Viena tiene una buena red de servicios de pet sitting y paseo de perros. Tanto plataformas internacionales como proveedores austríacos locales operan en la ciudad. El carácter cosmopolita de la ciudad significa que los cuidadores de habla inglesa están fácilmente disponibles.",
+      "places": [],
+      "tipsEn": [
+        "Rover.com and Pawshake operate in Vienna with good English-speaking sitter networks.",
+        "DogBuddy and local Austrian platforms like Tiertaxi also offer dog care services in Vienna.",
+        "Vienna's pet boarding facilities (Tierpension) range from small home-based operations to professional kennels. Search 'Tierpension Wien' for local options.",
+        "Vienna hotels that accept dogs can often recommend trusted local dog walkers — always ask at reception."
+      ],
+      "tipsFr": [
+        "Rover.com et Pawshake opèrent à Vienne avec de bons réseaux de gardiens anglophones.",
+        "DogBuddy et des plateformes autrichiennes locales comme Tiertaxi proposent également des services de garde à Vienne.",
+        "Les pensions pour animaux (Tierpension) à Vienne vont des petites structures à domicile aux chenils professionnels. Cherchez 'Tierpension Wien' pour les options locales.",
+        "Les hôtels viennois acceptant les animaux peuvent souvent recommander des promeneurs de chiens locaux de confiance — demandez toujours à la réception."
+      ],
+      "tipsEs": [
+        "Rover.com y Pawshake operan en Viena con buenas redes de cuidadores de habla inglesa.",
+        "DogBuddy y plataformas austríacas locales como Tiertaxi también ofrecen servicios de cuidado de mascotas en Viena.",
+        "Las pensiones para mascotas (Tierpension) de Viena van desde pequeñas operaciones en casa hasta perreras profesionales. Busca 'Tierpension Wien' para opciones locales.",
+        "Los hoteles de Viena que aceptan perros a menudo pueden recomendar paseadores de perros locales de confianza — siempre pregunta en recepción."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find an English-speaking dog sitter in Vienna?",
+          "a": "Yes. Vienna is a cosmopolitan city with a large international community. Rover.com and Pawshake both have English-speaking sitters available. Most sitters list their languages on their profiles."
+        },
+        {
+          "q": "Are there dog daycare options in Vienna?",
+          "a": "Yes. Dog daycare (Hundetagesbetreuung or Hundehotel) is available in Vienna, though less common than in some German cities. Search 'Hundetagesbetreuung Wien' for local options."
+        },
+        {
+          "q": "How far in advance should I book a dog sitter in Vienna?",
+          "a": "For peak summer (July–August) and the Christmas market season (December), book 2–3 weeks in advance. Off-peak seasons usually have availability within a few days."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet sitter anglophone à Vienne ?",
+          "a": "Oui. Vienne est une ville cosmopolite avec une grande communauté internationale. Rover.com et Pawshake disposent tous deux de gardiens anglophones. La plupart indiquent leurs langues sur leur profil."
+        },
+        {
+          "q": "Y a-t-il des garderies pour chiens à Vienne ?",
+          "a": "Oui. La garderie pour chiens (Hundetagesbetreuung ou Hundehotel) est disponible à Vienne, bien que moins répandue que dans certaines villes allemandes. Cherchez 'Hundetagesbetreuung Wien' pour les options locales."
+        },
+        {
+          "q": "Combien de temps à l'avance dois-je réserver un pet sitter à Vienne ?",
+          "a": "Pour la haute saison estivale (juillet–août) et la période des marchés de Noël (décembre), réservez 2 à 3 semaines à l'avance. Hors saison, des disponibilités sont généralement trouvables en quelques jours."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros de habla inglesa en Viena?",
+          "a": "Sí. Viena es una ciudad cosmopolita con una gran comunidad internacional. Rover.com y Pawshake tienen cuidadores de habla inglesa disponibles. La mayoría de los cuidadores indican sus idiomas en sus perfiles."
+        },
+        {
+          "q": "¿Hay opciones de guardería para perros en Viena?",
+          "a": "Sí. La guardería para perros (Hundetagesbetreuung o Hundehotel) está disponible en Viena, aunque es menos común que en algunas ciudades alemanas. Busca 'Hundetagesbetreuung Wien' para opciones locales."
+        },
+        {
+          "q": "¿Con cuánta antelación debo reservar un cuidador de perros en Viena?",
+          "a": "Para el verano punta (julio–agosto) y la temporada de mercados navideños (diciembre), reserva con 2–3 semanas de antelación. Fuera de temporada, generalmente hay disponibilidad en pocos días."
+        }
+      ]
+    }
+  }
+}

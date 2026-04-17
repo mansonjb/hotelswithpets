@@ -1,0 +1,876 @@
+{
+  "slug": "munich",
+  "name": "Munich",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Munich",
+      "titleFr": "Restaurants acceptant les animaux à Munich",
+      "titleEs": "Restaurantes con mascotas en Múnich",
+      "introEn": "Munich's restaurant culture is anchored by the Biergarten tradition — outdoor beer gardens that are genuinely part of Bavarian life, not a tourist invention. These gardens are almost universally dog-friendly: you bring your own food, buy drinks at the counter, and sit at long communal tables under chestnut trees. Dogs are part of the furniture. Beyond beer gardens, Munich's café scene in Schwabing, Haidhausen, and the Glockenbachviertel is reliably dog-welcoming. One caveat: Munich is also home to some of Germany's most exclusive restaurants, and the Michelin-starred venues in the Maxvorstadt and Altstadt tend to be stricter about dogs indoors.",
+      "introFr": "La culture de la restauration à Munich est ancrée dans la tradition des Biergärten — jardins de bière en plein air qui font véritablement partie de la vie bavaroise, et non une invention touristique. Ces jardins sont presque universellement dog-friendly : on apporte sa propre nourriture, on achète les boissons au comptoir et on s'assoit aux longues tables communes sous les marronniers. Les chiens font partie du décor. Au-delà des biergärten, la scène des cafés à Schwabing, Haidhausen et dans le Glockenbachviertel est régulièrement accueillante pour les chiens. Un bémol : Munich abrite aussi certains des restaurants les plus exclusifs d'Allemagne, et les adresses étoilées au Michelin dans le Maxvorstadt et l'Altstadt tendent à être plus strictes concernant les chiens à l'intérieur.",
+      "introEs": "La cultura restaurantera de Múnich está anclada en la tradición del Biergarten — jardines de cerveza al aire libre que forman parte genuina de la vida bávara, no una invención turística. Estos jardines son casi universalmente amigables con los perros: llevas tu propia comida, compras bebidas en el mostrador y te sientas en largas mesas comunales bajo castaños. Los perros son parte del mobiliario. Más allá de los biergärten, la escena de cafés en Schwabing, Haidhausen y el Glockenbachviertel es fiablemente acogedora con los perros. Una advertencia: Múnich también alberga algunos de los restaurantes más exclusivos de Alemania, y los locales con estrellas Michelin en el Maxvorstadt y el Altstadt tienden a ser más estrictos con los perros en el interior.",
+      "places": [
+        {
+          "name": "Augustiner-Keller Biergarten",
+          "address": "Arnulfstraße 52, 80335 München",
+          "neighborhood": "Maxvorstadt / near Hauptbahnhof",
+          "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.augustinerkeller.de/",
+          "description": "The Augustiner-Keller is one of Munich's oldest and most beloved beer gardens, with space for 5,000 people under ancient chestnut trees. Unlike many Munich beer gardens, it allows you to bring your own picnic food, which makes it particularly popular with locals. Dogs are entirely welcome in the self-service section of the beer garden — a Munich tradition. The Maß of Augustiner beer is considered by many to be the finest in the city.",
+          "descriptionFr": "L'Augustiner-Keller est l'un des jardins de bière les plus anciens et les plus appréciés de Munich, avec une capacité de 5 000 personnes sous d'anciens marronniers. Contrairement à de nombreux biergärten munichois, on peut y apporter son propre repas, ce qui le rend particulièrement populaire auprès des locaux. Les chiens sont entièrement les bienvenus dans la partie libre-service du jardin — une tradition munichoise. La Maß d'Augustiner est considérée par beaucoup comme la meilleure bière de la ville.",
+          "descriptionEs": "El Augustiner-Keller es uno de los jardines de cerveza más antiguos y queridos de Múnich, con capacidad para 5.000 personas bajo añosos castaños. A diferencia de muchos biergärten de Múnich, permite traer tu propia comida de picnic, lo que lo hace especialmente popular entre los locales. Los perros son completamente bienvenidos en la sección de autoservicio del jardín de cerveza — una tradición muniquesa. La Maß de cerveza Augustiner es considerada por muchos como la mejor de la ciudad.",
+          "petPolicy": "Dogs welcome in the self-service beer garden section",
+          "petPolicyFr": "Chiens bienvenus dans la partie libre-service du Biergarten",
+          "petPolicyEs": "Perros bienvenidos en la sección de autoservicio del Biergarten",
+          "priceRange": "€",
+          "mustTry": "Maß Augustiner Helles, Obatzda (Bavarian cheese spread) with pretzels",
+          "mustTryFr": "Maß Augustiner Helles, Obatzda (pâte de fromage bavaroise) et bretzels",
+          "mustTryEs": "Maß Augustiner Helles, Obatzda (pasta de queso bávara) con pretzels",
+          "openingHours": "Daily 10:00–24:00 (beer garden), weather permitting",
+          "tip": "Bring your own food to save money. Only drinks are sold at the self-service counter. Dogs allowed in this section only.",
+          "tipFr": "Apportez votre repas pour économiser. Seules les boissons sont vendues au comptoir libre-service. Chiens autorisés dans cette section uniquement.",
+          "tipEs": "Trae tu propia comida para ahorrar. Solo se venden bebidas en el mostrador de autoservicio. Perros permitidos solo en esta sección.",
+          "googleMapsUrl": "https://maps.google.com/?q=Augustiner-Keller+M%C3%BCnchen"
+        },
+        {
+          "name": "Hirschgarten Biergarten",
+          "address": "Hirschgarten 1, 80639 München",
+          "neighborhood": "Nymphenburg",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.hirschgarten.de/",
+          "description": "The Hirschgarten is the largest beer garden in the world, with seating for 8,000 people in a deer park (Hirschgarten literally means deer garden — there are actual deer in enclosures nearby). The atmosphere is extraordinary: a sea of communal tables under chestnut trees, with Bavarian families, office workers, and tourists all mixed together. Dogs are welcome in the self-service area, though you should keep them leashed and away from the deer enclosures.",
+          "descriptionFr": "Le Hirschgarten est le plus grand jardin de bière du monde, avec une capacité de 8 000 personnes dans un parc à cerfs (Hirschgarten signifie littéralement 'jardin aux cerfs' — il y a de vrais cerfs dans des enclos à proximité). L'atmosphère est extraordinaire : une mer de tables communes sous les marronniers, mêlant familles bavaroises, travailleurs et touristes. Les chiens sont les bienvenus dans la zone libre-service, mais vous devez les tenir en laisse et à l'écart des enclos à cerfs.",
+          "descriptionEs": "El Hirschgarten es el jardín de cerveza más grande del mundo, con capacidad para 8.000 personas en un parque de ciervos (Hirschgarten literalmente significa jardín de ciervos — hay ciervos reales en recintos cercanos). El ambiente es extraordinario: un mar de mesas comunales bajo castaños, con familias bávaras, trabajadores de oficina y turistas todos mezclados. Los perros son bienvenidos en la zona de autoservicio, aunque debes mantenerlos con correa y alejados de los recintos de ciervos.",
+          "petPolicy": "Dogs welcome in self-service section. Keep leashed — deer enclosures nearby",
+          "petPolicyFr": "Chiens bienvenus en zone libre-service. En laisse obligatoire — enclos à cerfs à proximité",
+          "petPolicyEs": "Perros bienvenidos en zona de autoservicio. Correa obligatoria — recintos de ciervos cercanos",
+          "priceRange": "€",
+          "mustTry": "Maß Augustiner, Hendl (rotisserie chicken), Steckerlfisch (grilled fish)",
+          "mustTryFr": "Maß Augustiner, Hendl (poulet rôti), Steckerlfisch (poisson grillé)",
+          "mustTryEs": "Maß Augustiner, Hendl (pollo a la brasa), Steckerlfisch (pescado a la parrilla)",
+          "openingHours": "Daily 10:00–22:00 (weather permitting)",
+          "tip": "Come on a weekday afternoon for the most relaxed experience. The weekend draws enormous crowds",
+          "tipFr": "Venez un après-midi de semaine pour une expérience plus calme. Le week-end attire des foules immenses",
+          "tipEs": "Ven un miércoles por la tarde para la experiencia más relajada. El fin de semana atrae multitudes enormes",
+          "googleMapsUrl": "https://maps.google.com/?q=Hirschgarten+M%C3%BCnchen"
+        },
+        {
+          "name": "Café Münchner Freiheit",
+          "address": "Münchner Freiheit 20, 80802 München",
+          "neighborhood": "Schwabing",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.cafemuenchnerfreiheit.de/",
+          "description": "On Munich's most famous café square in Schwabing, the Café Münchner Freiheit has a large terrace that is one of the best places in the city to sit with a coffee and a dog on a warm afternoon. The café serves breakfast all day, excellent Bavarian cakes, and a solid lunch menu. Dogs are welcome on the terrace and often get a treat from the staff.",
+          "descriptionFr": "Sur la place de café la plus célèbre de Munich à Schwabing, le Café Münchner Freiheit dispose d'une grande terrasse, l'un des meilleurs endroits de la ville pour s'installer avec un café et un chien lors d'un après-midi ensoleillé. Le café sert le petit-déjeuner toute la journée, d'excellents gâteaux bavarois et un solide menu déjeuner. Les chiens sont les bienvenus en terrasse et reçoivent souvent une friandise du personnel.",
+          "descriptionEs": "En la plaza de café más famosa de Múnich en Schwabing, el Café Münchner Freiheit tiene una gran terraza que es uno de los mejores lugares de la ciudad para sentarse con un café y un perro en una tarde cálida. El café sirve desayuno todo el día, excelentes pasteles bávaros y un sólido menú de almuerzo. Los perros son bienvenidos en la terraza y a menudo reciben un premio del personal.",
+          "petPolicy": "Dogs welcome on terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse",
+          "petPolicyEs": "Perros admitidos en terraza",
+          "priceRange": "€€",
+          "mustTry": "Bavarian Apfelstrudel, eggs Benedict at brunch",
+          "mustTryFr": "Apfelstrudel bavarois, œufs Bénédicte au brunch",
+          "mustTryEs": "Apfelstrudel bávaro, huevos Benedict en el brunch",
+          "openingHours": "Mon–Fri 08:00–23:00, Sat–Sun 09:00–23:00",
+          "tip": "The square gets busy after 12:00 on weekends. Arrive early for terrace seating with your dog",
+          "tipFr": "La place se remplit après 12h le week-end. Arrivez tôt pour une place en terrasse avec votre chien",
+          "tipEs": "La plaza se llena después de las 12:00 los fines de semana. Llega temprano para una plaza en la terraza con tu perro",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+M%C3%BCnchner+Freiheit"
+        },
+        {
+          "name": "Zum Franziskaner",
+          "address": "Residenzstraße 9, 80333 München",
+          "neighborhood": "Altstadt",
+          "photo": "https://images.unsplash.com/photo-1567521464027-f127ff144326?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.zum-franziskaner.de/",
+          "description": "A classic Munich Wirtshaus (traditional inn) just steps from the Marienplatz, Zum Franziskaner has been serving Bavarian food and Spaten beer since 1363. The restaurant has a beautiful courtyard garden that becomes a beer garden in summer, where dogs are very welcome. The Weißwurst (white sausage) breakfast here is a Munich institution — the correct way to eat it involves peeling the skin and dipping in sweet mustard.",
+          "descriptionFr": "Un Wirtshaus munichois classique (auberge traditionnelle) à deux pas de la Marienplatz, le Zum Franziskaner sert cuisine bavaroise et bière Spaten depuis 1363. Le restaurant possède une belle cour intérieure qui se transforme en biergarten l'été, où les chiens sont très bienvenus. Le petit-déjeuner Weißwurst (saucisse blanche) est une institution munichoise — la façon correcte de le manger consiste à peler la peau et à tremper dans de la moutarde douce.",
+          "descriptionEs": "Un clásico Wirtshaus muniqués (posada tradicional) a pocos pasos de la Marienplatz, el Zum Franziskaner lleva sirviendo comida bávara y cerveza Spaten desde 1363. El restaurante tiene un hermoso patio jardín que se convierte en Biergarten en verano, donde los perros son muy bienvenidos. El desayuno de Weißwurst (salchicha blanca) aquí es una institución muniquesa — la forma correcta de comerla implica pelar la piel y mojar en mostaza dulce.",
+          "petPolicy": "Dogs welcome in courtyard beer garden (summer). Check indoor policy when cold",
+          "petPolicyFr": "Chiens bienvenus dans le jardin intérieur (été). Renseignez-vous pour l'intérieur par temps froid",
+          "petPolicyEs": "Perros bienvenidos en el patio jardín (verano). Consultar política interior cuando hace frío",
+          "priceRange": "€€",
+          "mustTry": "Weißwurst with sweet mustard and a Weizen, Schweinshaxe (pork knuckle)",
+          "mustTryFr": "Weißwurst avec moutarde douce et Weizen, Schweinshaxe (jarret de porc)",
+          "mustTryEs": "Weißwurst con mostaza dulce y Weizen, Schweinshaxe (codillo de cerdo)",
+          "openingHours": "Daily 08:00–24:00",
+          "tip": "Weißwurst is traditionally only eaten before noon in Bavaria. Order yours before 12:00 for the authentic experience",
+          "tipFr": "La Weißwurst ne se mange traditionnellement qu'avant midi en Bavière. Commandez la vôtre avant 12h pour l'expérience authentique",
+          "tipEs": "La Weißwurst se come tradicionalmente solo antes del mediodía en Baviera. Pídela antes de las 12:00 para la experiencia auténtica",
+          "googleMapsUrl": "https://maps.google.com/?q=Zum+Franziskaner+M%C3%BCnchen"
+        },
+        {
+          "name": "Gärtnerplatz Beer Garden",
+          "address": "Gärtnerplatz, 80469 München",
+          "neighborhood": "Glockenbachviertel",
+          "photo": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.muenchen.de/sehenswuerdigkeiten/plaetze/gaertnerplatz.html",
+          "description": "The Gärtnerplatz is Munich's most relaxed and cosmopolitan square, surrounded by independent restaurants and cafés that spill out onto the hexagonal plaza in warm weather. It is the social heart of Munich's Glockenbachviertel neighbourhood and one of the most dog-friendly outdoor spaces in the city. Multiple cafés around the square (including Café Ignaz and Gärtnerplatz 7) welcome dogs on their outdoor seating.",
+          "descriptionFr": "La Gärtnerplatz est la place la plus décontractée et cosmopolite de Munich, entourée de restaurants et cafés indépendants qui débordent sur la place hexagonale par beau temps. C'est le cœur social du quartier Glockenbachviertel et l'un des espaces extérieurs les plus dog-friendly de la ville. Plusieurs cafés autour de la place (dont le Café Ignaz et le Gärtnerplatz 7) accueillent les chiens en terrasse.",
+          "descriptionEs": "La Gärtnerplatz es la plaza más relajada y cosmopolita de Múnich, rodeada de restaurantes y cafés independientes que se derraman sobre la plaza hexagonal cuando hace buen tiempo. Es el corazón social del barrio Glockenbachviertel de Múnich y uno de los espacios al aire libre más amigables con los perros de la ciudad. Varios cafés alrededor de la plaza (incluyendo Café Ignaz y Gärtnerplatz 7) admiten perros en sus asientos exteriores.",
+          "petPolicy": "Dogs welcome on all outdoor seating around the square",
+          "petPolicyFr": "Chiens bienvenus sur toutes les terrasses autour de la place",
+          "petPolicyEs": "Perros bienvenidos en todos los asientos exteriores alrededor de la plaza",
+          "priceRange": "€€",
+          "mustTry": "Seasonal specials at whichever café you choose",
+          "mustTryFr": "Spécialités de saison dans le café de votre choix",
+          "mustTryEs": "Especialidades de temporada en el café que elijas",
+          "openingHours": "Varies by café. Most open daily 09:00–23:00",
+          "tip": "The square itself is a meeting point. Locals sit on the steps of the fountain with their dogs on sunny evenings — no café required",
+          "tipFr": "La place elle-même est un lieu de rencontre. Les locaux s'assoient sur les marches de la fontaine avec leurs chiens les soirs ensoleillés — sans avoir besoin d'un café",
+          "tipEs": "La plaza en sí es un punto de encuentro. Los locales se sientan en los escalones de la fuente con sus perros en las tardes soleadas — sin necesidad de un café",
+          "googleMapsUrl": "https://maps.google.com/?q=G%C3%A4rtnerplatz+M%C3%BCnchen"
+        }
+      ],
+      "tipsEn": [
+        "Munich's beer garden culture is the best thing about dining with a dog in the city. The self-service section is always dog-friendly.",
+        "Schwabing and the Glockenbachviertel are the most dog-welcoming café neighbourhoods in Munich.",
+        "Many Munich restaurants allow dogs on indoor seating in winter, but always ask before sitting down.",
+        "During Oktoberfest (late September–early October), most venues are overwhelmed. Dogs are not permitted inside the main festival tents."
+      ],
+      "tipsFr": [
+        "La culture des biergärten munichois est le meilleur atout pour déjeuner avec un chien dans la ville. La zone libre-service est toujours dog-friendly.",
+        "Schwabing et le Glockenbachviertel sont les quartiers de cafés les plus accueillants pour les chiens à Munich.",
+        "De nombreux restaurants munichois acceptent les chiens en salle en hiver, mais renseignez-vous toujours avant de vous installer.",
+        "Pendant l'Oktoberfest (fin septembre–début octobre), la plupart des lieux sont débordés. Les chiens ne sont pas admis à l'intérieur des grandes tentes du festival."
+      ],
+      "tipsEs": [
+        "La cultura de los biergärten de Múnich es lo mejor de cenar con un perro en la ciudad. La sección de autoservicio es siempre amigable con los perros.",
+        "Schwabing y el Glockenbachviertel son los barrios de cafés más acogedores para perros en Múnich.",
+        "Muchos restaurantes de Múnich permiten perros en el asiento interior en invierno, pero siempre pregunta antes de sentarte.",
+        "Durante la Oktoberfest (finales de septiembre–principios de octubre), la mayoría de los locales están desbordados. Los perros no están permitidos dentro de las carpas principales del festival."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Munich beer gardens?",
+          "a": "Yes, in the self-service section. Traditional Munich beer gardens have two areas: a waiter-service restaurant area (where dogs are not permitted) and a self-service area with communal tables where you bring your own food and buy drinks at the counter. Dogs are almost always welcome in the self-service section."
+        },
+        {
+          "q": "Are dogs allowed at Oktoberfest?",
+          "a": "Dogs are not permitted inside the main festival tents at Oktoberfest. The outdoor fairground areas are more relaxed, but the main Wiesn area during peak festival season is extremely crowded and not suitable for most dogs regardless of policy."
+        },
+        {
+          "q": "Which Munich neighbourhood is most dog-friendly for eating out?",
+          "a": "Schwabing (around Münchner Freiheit) and the Glockenbachviertel (around Gärtnerplatz) are the most relaxed and dog-welcoming areas for café and restaurant visits. Haidhausen is also very good."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les biergärten munichois ?",
+          "a": "Oui, dans la zone libre-service. Les biergärten munichois traditionnels ont deux espaces : une zone restaurant avec service à table (chiens non admis) et une zone libre-service avec tables communes où on apporte sa nourriture et achète ses boissons au comptoir. Les chiens sont presque toujours les bienvenus en zone libre-service."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés à l'Oktoberfest ?",
+          "a": "Les chiens ne sont pas admis à l'intérieur des grandes tentes du festival de l'Oktoberfest. Les zones extérieures de la fête foraine sont plus souples, mais la Wiesn pendant la haute saison est extrêmement bondée et peu adaptée à la plupart des chiens, quelle que soit la politique."
+        },
+        {
+          "q": "Quel quartier munichois est le plus dog-friendly pour manger dehors ?",
+          "a": "Schwabing (autour de la Münchner Freiheit) et le Glockenbachviertel (autour de la Gärtnerplatz) sont les zones les plus décontractées et accueillantes pour les chiens dans les cafés et restaurants. Haidhausen est également très bien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros en los biergärten de Múnich?",
+          "a": "Sí, en la sección de autoservicio. Los biergärten tradicionales de Múnich tienen dos áreas: un área de restaurante con servicio de camareros (donde no se permiten perros) y un área de autoservicio con mesas comunales donde traes tu propia comida y compras bebidas en el mostrador. Los perros casi siempre son bienvenidos en la sección de autoservicio."
+        },
+        {
+          "q": "¿Se permiten perros en la Oktoberfest?",
+          "a": "Los perros no están permitidos dentro de las carpas principales del festival de la Oktoberfest. Las áreas exteriores del recinto ferial son más relajadas, pero el área principal de la Wiesn durante la temporada alta del festival está extremadamente concurrida y no es adecuada para la mayoría de los perros independientemente de la política."
+        },
+        {
+          "q": "¿Qué barrio de Múnich es más amigable con los perros para comer fuera?",
+          "a": "Schwabing (alrededor de la Münchner Freiheit) y el Glockenbachviertel (alrededor de la Gärtnerplatz) son las zonas más relajadas y acogedoras para perros en cafés y restaurantes. Haidhausen también es muy bueno."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Munich",
+      "titleFr": "Parcs et balades avec son chien à Munich",
+      "titleEs": "Parques y paseos con perros en Múnich",
+      "introEn": "Munich is exceptionally well-equipped for dog walking. The Englischer Garten — larger than New York's Central Park — is the city's centrepiece and has several large off-leash areas. The Isar river, which runs through the city, provides kilometres of dog-accessible banks and swimming spots. Munich's parks are well-maintained and the city has clear signage for dog zones.",
+      "introFr": "Munich est exceptionnellement bien équipée pour les balades avec chien. L'Englischer Garten — plus grand que Central Park à New York — est le cœur de la ville et dispose de plusieurs grandes zones de liberté. La rivière Isar, qui traverse la ville, offre des kilomètres de berges et de spots de baignade accessibles aux chiens. Les parcs de Munich sont bien entretenus et la ville dispose d'une signalisation claire pour les zones canines.",
+      "introEs": "Múnich está excepcionalmente bien equipada para pasear con perros. El Englischer Garten — más grande que el Central Park de Nueva York — es el epicentro de la ciudad y tiene varias zonas grandes sin correa. El río Isar, que atraviesa la ciudad, proporciona kilómetros de orillas y zonas de baño accesibles para perros. Los parques de Múnich están bien mantenidos y la ciudad tiene señalización clara para las zonas caninas.",
+      "places": [
+        {
+          "name": "Englischer Garten",
+          "type": "Vast urban park. 373 hectares. Multiple off-leash zones",
+          "photo": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.schloesser.bayern.de/deutsch/garten/objekte/mue_eg.htm",
+          "description": "At 373 hectares, the Englischer Garten is larger than Central Park and one of the world's great urban parks. For dogs, it is the ultimate Munich destination: multiple designated off-leash areas, the Isar river and Eisbach stream for swimming, the famous artificial surf wave, and kilometre after kilometre of woodland and meadow paths. Dogs are permitted off-leash in the designated Hundezone areas, and there is excellent variety from dense woodland in the north to open meadows in the south.",
+          "descriptionFr": "Avec 373 hectares, l'Englischer Garten est plus grand que Central Park et l'un des grands parcs urbains du monde. Pour les chiens, c'est la destination ultime à Munich : plusieurs zones de liberté désignées, la rivière Isar et le ruisseau Eisbach pour la baignade, la célèbre vague artificielle, et kilomètre après kilomètre de sentiers boisés et de prairies. Les chiens peuvent être sans laisse dans les zones Hundezone désignées, avec une excellente variété allant des bois denses au nord aux prairies ouvertes au sud.",
+          "descriptionEs": "Con 373 hectáreas, el Englischer Garten es más grande que el Central Park y uno de los grandes parques urbanos del mundo. Para los perros, es el destino definitivo en Múnich: múltiples zonas sin correa designadas, el río Isar y el arroyo Eisbach para nadar, la famosa ola de surf artificial, y kilómetro tras kilómetro de senderos forestales y praderas. Los perros pueden ir sin correa en las zonas Hundezone designadas, con excelente variedad desde bosque denso en el norte hasta praderas abiertas en el sur.",
+          "offLeash": true,
+          "offLeashArea": "Designated Hundezone areas clearly marked. The meadow areas in the northern section allow off-leash. Dogs can swim in the Eisbach and Isar access points",
+          "offLeashAreaFr": "Zones Hundezone clairement balisées. Les prairies du secteur nord permettent la liberté. Baignade possible dans l'Eisbach et aux accès à l'Isar",
+          "offLeashAreaEs": "Zonas Hundezone claramente marcadas. Las zonas de pradera en la sección norte permiten sin correa. Los perros pueden nadar en el Eisbach y los puntos de acceso al Isar",
+          "tip": "Start from the northern Kleinhesseloher See (lake) for the best off-leash areas and a dog-friendly beer garden at the lakeside",
+          "tipFr": "Commencez par le Kleinhesseloher See (lac) au nord pour les meilleures zones de liberté et un biergarten dog-friendly au bord du lac",
+          "tipEs": "Empieza desde el Kleinhesseloher See (lago) en el norte para las mejores zonas sin correa y un biergarten amigable con perros junto al lago",
+          "googleMapsUrl": "https://maps.google.com/?q=Englischer+Garten+M%C3%BCnchen"
+        },
+        {
+          "name": "Isar River Banks",
+          "type": "River corridor. Largely dog-friendly and popular for swimming",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.muenchen.de/freizeit/natur-erholung/isar",
+          "description": "The Isar river, running through the heart of Munich, is one of the city's greatest amenities. The river banks — particularly the renaturalised southern sections between Wittelsbacherbrücke and the Flaucher — are a major dog destination. The banks are pebbly and the river fast-moving but manageable for strong swimmers. Flaucher (the river bend in Sendling) is the most popular spot and has a beloved beer garden directly on the bank.",
+          "descriptionFr": "La rivière Isar, qui traverse le cœur de Munich, est l'un des atouts majeurs de la ville. Les berges — notamment les sections renaturalisées au sud entre le Wittelsbacherbrücke et le Flaucher — sont une grande destination canine. Les berges sont caillouteuses et la rivière rapide mais gérable pour les bons nageurs. Le Flaucher (le méandre de l'Isar à Sendling) est le spot le plus populaire et dispose d'un biergarten très apprécié directement sur la berge.",
+          "descriptionEs": "El río Isar, que discurre por el corazón de Múnich, es uno de los mayores atractivos de la ciudad. Las orillas del río — especialmente las secciones renaturalizadas del sur entre el Wittelsbacherbrücke y el Flaucher — son un destino canino importante. Las orillas son de guijarros y el río fluye rápido pero es manejable para buenos nadadores. El Flaucher (el meandro del Isar en Sendling) es el punto más popular y tiene un querido biergarten directamente en la orilla.",
+          "offLeash": true,
+          "offLeashArea": "River banks along most of the Isar corridor. Dogs can swim at multiple access points. Busiest at Flaucher in summer",
+          "offLeashAreaFr": "Berges de l'Isar sur la majeure partie du corridor. Baignade possible à de nombreux points d'accès. Plus fréquenté au Flaucher en été",
+          "offLeashAreaEs": "Orillas del Isar a lo largo de la mayor parte del corredor. Los perros pueden nadar en múltiples puntos de acceso. Más concurrido en el Flaucher en verano",
+          "tip": "The Flaucher area (Sendlinger Straße S-Bahn) is the local favourite. Arrive before 10:00 on sunny weekends for a good spot",
+          "tipFr": "Le Flaucher (S-Bahn Sendlinger Straße) est le favori des locaux. Arrivez avant 10h le week-end par temps ensoleillé pour une bonne place",
+          "tipEs": "La zona del Flaucher (S-Bahn Sendlinger Straße) es la favorita de los locales. Llega antes de las 10:00 los fines de semana soleados para un buen lugar",
+          "googleMapsUrl": "https://maps.google.com/?q=Flaucher+M%C3%BCnchen"
+        },
+        {
+          "name": "Olympiapark",
+          "type": "Park around the 1972 Olympics site. Dog-friendly grounds",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.olympiapark.de/en/",
+          "description": "Built for the 1972 Olympics, the Olympiapark has grown into one of Munich's great public spaces: a rolling landscape of artificial hills, an Olympic lake, and the tent-roof stadium complex that remains architecturally extraordinary. Dogs are welcome on leash throughout the park grounds, and the lake has dog-accessible banks. The elevated hill (Olympiaberg) gives the best panoramic view of Munich and the Alps beyond.",
+          "descriptionFr": "Construit pour les Jeux olympiques de 1972, l'Olympiapark est devenu l'un des grands espaces publics de Munich : un paysage vallonné de collines artificielles, un lac olympique et le complexe du stade à toit tentaculaire qui reste architecturalement extraordinaire. Les chiens sont admis en laisse dans tout le parc, et le lac dispose de berges accessibles aux chiens. La colline surélevée (Olympiaberg) offre la meilleure vue panoramique sur Munich et les Alpes.",
+          "descriptionEs": "Construido para los Juegos Olímpicos de 1972, el Olympiapark se ha convertido en uno de los grandes espacios públicos de Múnich: un paisaje ondulado de colinas artificiales, un lago olímpico y el complejo del estadio de cubierta de tienda que sigue siendo arquitectónicamente extraordinario. Los perros son bienvenidos con correa en todo el parque, y el lago tiene orillas accesibles para los perros.",
+          "offLeash": true,
+          "offLeashArea": "Designated off-leash zone on the western side of the Olympiaberg hill. Dogs on leash elsewhere",
+          "offLeashAreaFr": "Zone de liberté désignée sur le versant ouest de l'Olympiaberg. Laisse obligatoire ailleurs",
+          "offLeashAreaEs": "Zona sin correa designada en el lado oeste de la colina Olympiaberg. Correa obligatoria en el resto",
+          "tip": "Walk up the Olympiaberg (hill) at sunset for the best Alps view. Dogs welcome on the slopes",
+          "tipFr": "Montez l'Olympiaberg au coucher du soleil pour la meilleure vue sur les Alpes. Chiens bienvenus sur les pentes",
+          "tipEs": "Sube al Olympiaberg al atardecer para la mejor vista de los Alpes. Perros bienvenidos en las pendientes",
+          "googleMapsUrl": "https://maps.google.com/?q=Olympiapark+M%C3%BCnchen"
+        }
+      ],
+      "tipsEn": [
+        "In Munich, dogs must be on-leash in public streets and most park areas. Off-leash is only in designated Hundezone areas.",
+        "The Englischer Garten is enormous — take a map (available at park entrances) to find the Hundezone areas efficiently.",
+        "Isar swimming for dogs is best in the calmer stretches. The current is powerful in the main channel — watch your dog carefully.",
+        "MVV public transport rule: dogs must have a muzzle and a child's ticket (Kleinkinderticket) on U-Bahn and S-Bahn. Source: mvv-muenchen.de"
+      ],
+      "tipsFr": [
+        "À Munich, les chiens doivent être tenus en laisse dans les rues publiques et la plupart des zones de parc. La liberté n'est autorisée que dans les zones Hundezone désignées.",
+        "L'Englischer Garten est immense — prenez un plan (disponible aux entrées du parc) pour trouver efficacement les zones Hundezone.",
+        "La baignade dans l'Isar est meilleure dans les tronçons plus calmes. Le courant est puissant dans le chenal principal — surveillez votre chien attentivement.",
+        "Règle MVV : les chiens doivent porter une muselière et avoir un ticket enfant (Kleinkinderticket) dans le U-Bahn et le S-Bahn. Source : mvv-muenchen.de"
+      ],
+      "tipsEs": [
+        "En Múnich, los perros deben ir con correa en las calles públicas y la mayoría de las áreas del parque. Sin correa solo está permitido en las zonas Hundezone designadas.",
+        "El Englischer Garten es enorme — toma un mapa (disponible en las entradas del parque) para encontrar las zonas Hundezone eficientemente.",
+        "Nadar en el Isar es mejor en los tramos más tranquilos. La corriente es poderosa en el canal principal — vigila a tu perro con atención.",
+        "Norma MVV: los perros deben llevar bozal y un billete de niño (Kleinkinderticket) en el U-Bahn y el S-Bahn. Fuente: mvv-muenchen.de"
+      ],
+      "faqsEn": [
+        {
+          "q": "Is the Englischer Garten dog-friendly?",
+          "a": "Very. The Englischer Garten has designated off-leash zones (Hundezone), extensive meadow areas, and river/stream access for swimming. Dogs must be on-leash in the more formal garden areas and near playgrounds. It is the best dog park in Munich by a significant margin."
+        },
+        {
+          "q": "Can dogs swim in the Isar in Munich?",
+          "a": "Yes. The Isar river banks are popular dog swimming spots, particularly at the Flaucher in Sendling. The current is strong in the main channel — choose calmer sections for your dog to enter. No restriction on dogs swimming in the Isar banks."
+        },
+        {
+          "q": "Where is the best off-leash dog area in Munich?",
+          "a": "The northern section of the Englischer Garten near the Kleinhesseloher See has the largest and most consistently used off-leash area. The Isar banks at Flaucher are also heavily used. The Olympiapark has a designated zone on the Olympiaberg hill."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "L'Englischer Garten est-il dog-friendly ?",
+          "a": "Très. L'Englischer Garten dispose de zones de liberté désignées (Hundezone), de vastes prairies et d'accès à la rivière/ruisseau pour la baignade. Les chiens doivent être en laisse dans les zones de jardin plus formelles et près des aires de jeux. C'est de loin le meilleur parc pour chiens à Munich."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner dans l'Isar à Munich ?",
+          "a": "Oui. Les berges de l'Isar sont des spots de baignade canine populaires, notamment au Flaucher à Sendling. Le courant est fort dans le chenal principal — choisissez des sections plus calmes pour que votre chien entre dans l'eau. Pas de restriction concernant la baignade des chiens dans les berges de l'Isar."
+        },
+        {
+          "q": "Quelle est la meilleure zone de liberté pour chiens à Munich ?",
+          "a": "Le secteur nord de l'Englischer Garten près du Kleinhesseloher See dispose de la zone de liberté la plus grande et la plus fréquentée. Les berges de l'Isar au Flaucher sont également très utilisées. L'Olympiapark dispose d'une zone désignée sur la colline de l'Olympiaberg."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es el Englischer Garten amigable con los perros?",
+          "a": "Mucho. El Englischer Garten tiene zonas sin correa designadas (Hundezone), extensas zonas de pradera y acceso al río/arroyo para nadar. Los perros deben ir con correa en las zonas del jardín más formales y cerca de los parques infantiles. Es el mejor parque para perros en Múnich por un amplio margen."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Isar en Múnich?",
+          "a": "Sí. Las orillas del río Isar son puntos populares de natación canina, especialmente en el Flaucher en Sendling. La corriente es fuerte en el canal principal — elige secciones más tranquilas para que tu perro entre al agua. No hay restricción para que los perros naden en las orillas del Isar."
+        },
+        {
+          "q": "¿Dónde está la mejor zona sin correa para perros en Múnich?",
+          "a": "La sección norte del Englischer Garten cerca del Kleinhesseloher See tiene la zona sin correa más grande y de uso más consistente. Las orillas del Isar en el Flaucher también son muy utilizadas. El Olympiapark tiene una zona designada en la colina Olympiaberg."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Munich",
+      "titleFr": "Voyager avec son animal à Munich",
+      "titleEs": "Viajar con mascotas en Múnich",
+      "introEn": "Munich's public transport network (MVV) covers the city and surrounding region with U-Bahn, S-Bahn, tram, and bus services. For dog owners: dogs in a carrier travel free on all MVV services; larger dogs need a child's ticket (Kleinkinderticket) and must wear a muzzle. The S-Bahn reaches Munich Airport (MUC) — a useful option for arrival and departure with a dog. Source: mvv-muenchen.de",
+      "introFr": "Le réseau de transport public de Munich (MVV) couvre la ville et la région environnante avec U-Bahn, S-Bahn, tram et bus. Pour les propriétaires de chiens : les chiens dans un sac voyagent gratuitement sur tous les services MVV ; les chiens plus grands ont besoin d'un ticket enfant (Kleinkinderticket) et doivent porter une muselière. Le S-Bahn dessert l'aéroport de Munich (MUC) — une option pratique pour l'arrivée et le départ avec un chien. Source : mvv-muenchen.de",
+      "introEs": "La red de transporte público de Múnich (MVV) cubre la ciudad y la región circundante con U-Bahn, S-Bahn, tranvía y autobús. Para los dueños de perros: los perros en bolsa viajan gratis en todos los servicios MVV; los perros más grandes necesitan un billete de niño (Kleinkinderticket) y deben llevar bozal. El S-Bahn llega al aeropuerto de Múnich (MUC) — una opción útil para llegada y salida con un perro. Fuente: mvv-muenchen.de",
+      "rules": [
+        {
+          "mode": "U-Bahn & S-Bahn (MVV)",
+          "modeFr": "U-Bahn & S-Bahn (MVV)",
+          "modeEs": "U-Bahn & S-Bahn (MVV)",
+          "policy": "Dogs in a carrier: free. Larger dogs: child's ticket (Kleinkinderticket) + muzzle mandatory. One dog per passenger. Dogs cannot occupy seats. Source: mvv-muenchen.de",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : ticket enfant (Kleinkinderticket) + muselière obligatoire. Un chien par passager. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : mvv-muenchen.de",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete de niño (Kleinkinderticket) + bozal obligatorio. Un perro por pasajero. Los perros no pueden ocupar asientos. Fuente: mvv-muenchen.de",
+          "tip": "The Kleinkinderticket is available at any MVV ticket machine. Always validate before boarding.",
+          "tipFr": "Le Kleinkinderticket s'achète à n'importe quel automate MVV. Validez-le toujours avant de monter.",
+          "tipEs": "El Kleinkinderticket está disponible en cualquier máquina expendedora de MVV. Siempre valídalo antes de subir."
+        },
+        {
+          "mode": "Tram & Bus (MVV)",
+          "modeFr": "Tram & Bus (MVV)",
+          "modeEs": "Tranvía & Autobús (MVV)",
+          "policy": "Same rules as U-Bahn/S-Bahn. Small dogs in carriers: free. Larger dogs: Kleinkinderticket + muzzle required.",
+          "policyFr": "Mêmes règles que U-Bahn/S-Bahn. Petits chiens en sac : gratuit. Chiens plus grands : Kleinkinderticket + muselière obligatoire.",
+          "policyEs": "Mismas normas que U-Bahn/S-Bahn. Perros pequeños en bolsa: gratis. Perros más grandes: Kleinkinderticket + bozal obligatorio.",
+          "tip": "Munich's trams are less busy than the U-Bahn and generally easier for dog travel.",
+          "tipFr": "Les trams munichois sont moins fréquentés que le U-Bahn et généralement plus pratiques pour voyager avec un chien.",
+          "tipEs": "Los tranvías de Múnich están menos concurridos que el U-Bahn y son generalmente más fáciles para viajar con un perro."
+        },
+        {
+          "mode": "Deutsche Bahn (intercity trains from Munich Hbf)",
+          "modeFr": "Deutsche Bahn (trains intercités depuis Munich Hbf)",
+          "modeEs": "Deutsche Bahn (trenes de largo recorrido desde Munich Hbf)",
+          "policy": "Dogs in a carrier: free. Larger dogs: child's ticket (50% of adult fare) + muzzle at all times. Dogs cannot sit on seats. Source: bahn.de",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : billet enfant (50 % du tarif adulte) + muselière en permanence. Les chiens ne peuvent pas s'asseoir sur les sièges. Source : bahn.de",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: billete de niño (50% de la tarifa adulta) + bozal en todo momento. Los perros no pueden ocupar asientos. Fuente: bahn.de",
+          "tip": "Munich Hauptbahnhof is enormous. Allow extra time to navigate to your platform, especially with a dog.",
+          "tipFr": "La gare principale de Munich est immense. Prévoyez du temps supplémentaire pour rejoindre votre quai, surtout avec un chien.",
+          "tipEs": "La Hauptbahnhof de Múnich es enorme. Date tiempo extra para navegar hasta tu andén, especialmente con un perro."
+        },
+        {
+          "mode": "S-Bahn to Munich Airport (MUC)",
+          "modeFr": "S-Bahn vers l'aéroport de Munich (MUC)",
+          "modeEs": "S-Bahn al aeropuerto de Múnich (MUC)",
+          "policy": "Dogs in a carrier: free. Larger dogs: Airport City Day Ticket or Kleinkinderticket covers the journey. Muzzle required. S8 and S1 lines both serve the airport.",
+          "policyFr": "Chiens dans un sac : gratuit. Chiens plus grands : l'Airport City Day Ticket ou le Kleinkinderticket couvre le trajet. Muselière obligatoire. Lignes S8 et S1 vers l'aéroport.",
+          "policyEs": "Perros en bolsa: gratis. Perros más grandes: el Airport City Day Ticket o Kleinkinderticket cubre el trayecto. Bozal obligatorio. Líneas S8 y S1 al aeropuerto.",
+          "tip": "Journey time from Munich city centre to the airport is approx. 40 minutes. Dogs must have a muzzle for the full journey.",
+          "tipFr": "La durée du trajet depuis le centre de Munich jusqu'à l'aéroport est d'environ 40 minutes. Les chiens doivent porter leur muselière pendant tout le trajet.",
+          "tipEs": "El tiempo de viaje desde el centro de Múnich al aeropuerto es de unos 40 minutos. Los perros deben llevar bozal durante todo el trayecto."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "MVV official journey planner and tickets: mvv-muenchen.de. Buy U-Bahn/S-Bahn/tram/bus tickets. Deutsche Bahn national rail: bahn.de. The MVV app (available iOS/Android) is the easiest way to buy tickets and plan routes in Munich.",
+          "contentFr": "Planificateur de trajets et billets MVV officiels : mvv-muenchen.de. Billets U-Bahn/S-Bahn/tram/bus. Deutsche Bahn trains nationaux : bahn.de. L'appli MVV (iOS/Android) est le moyen le plus simple d'acheter des billets et de planifier des trajets à Munich.",
+          "contentEs": "Planificador de viajes y billetes MVV oficial: mvv-muenchen.de. Billetes de U-Bahn/S-Bahn/tranvía/autobús. Deutsche Bahn trenes nacionales: bahn.de. La app MVV (disponible en iOS/Android) es la forma más sencilla de comprar billetes y planificar rutas en Múnich."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Munich U-Bahn?",
+          "a": "Yes. Dogs in a carrier travel free. Larger dogs require a child's ticket (Kleinkinderticket) and must wear a muzzle. One dog per passenger. Rules from mvv-muenchen.de."
+        },
+        {
+          "q": "Can I get to Munich Airport by public transport with my dog?",
+          "a": "Yes. The S1 and S8 S-Bahn lines connect the city to Munich Airport (MUC) in about 40 minutes. Dogs in carriers travel free; larger dogs need the Kleinkinderticket and a muzzle."
+        },
+        {
+          "q": "Do dogs need a muzzle on Munich public transport?",
+          "a": "Yes — all dogs larger than a carry-bag must wear a muzzle on all MVV services (U-Bahn, S-Bahn, tram, bus). This is a firm rule. Always carry a spare muzzle."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le U-Bahn de Munich avec mon chien ?",
+          "a": "Oui. Les chiens dans un sac voyagent gratuitement. Les chiens plus grands ont besoin d'un ticket enfant (Kleinkinderticket) et doivent porter une muselière. Un chien par passager. Règles issues de mvv-muenchen.de."
+        },
+        {
+          "q": "Puis-je rejoindre l'aéroport de Munich en transports en commun avec mon chien ?",
+          "a": "Oui. Les lignes S1 et S8 du S-Bahn relient la ville à l'aéroport de Munich (MUC) en environ 40 minutes. Les chiens dans un sac voyagent gratuitement ; les chiens plus grands ont besoin du Kleinkinderticket et d'une muselière."
+        },
+        {
+          "q": "Les chiens doivent-ils porter une muselière dans les transports munichois ?",
+          "a": "Oui — tous les chiens plus grands qu'un sac de transport doivent porter une muselière dans tous les services MVV (U-Bahn, S-Bahn, tram, bus). C'est une règle stricte. Emportez toujours une muselière de rechange."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el U-Bahn de Múnich?",
+          "a": "Sí. Los perros en bolsa viajan gratis. Los perros más grandes necesitan un billete de niño (Kleinkinderticket) y deben llevar bozal. Un perro por pasajero. Normas en mvv-muenchen.de."
+        },
+        {
+          "q": "¿Puedo llegar al aeropuerto de Múnich en transporte público con mi perro?",
+          "a": "Sí. Las líneas S1 y S8 del S-Bahn conectan la ciudad con el aeropuerto de Múnich (MUC) en unos 40 minutos. Los perros en bolsa viajan gratis; los perros más grandes necesitan el Kleinkinderticket y bozal."
+        },
+        {
+          "q": "¿Los perros necesitan bozal en el transporte público de Múnich?",
+          "a": "Sí — todos los perros más grandes que una bolsa de transporte deben llevar bozal en todos los servicios MVV (U-Bahn, S-Bahn, tranvía, autobús). Esta es una norma firme. Lleva siempre un bozal de repuesto."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Swimming near Munich",
+      "titleFr": "Lacs et baignade avec son chien près de Munich",
+      "titleEs": "Lagos y zonas de baño para perros cerca de Múnich",
+      "introEn": "Munich has no sea coast but is surrounded by Bavarian lakes within 30–60 minutes by car or public transport. The Isar river within the city provides swimming spots year-round. Many Bavarian lakes have designated dog zones that are clearly marked. Summer weekends at the popular lakes are busy — arrive early or go on a weekday.",
+      "introFr": "Munich n'a pas de côte maritime mais est entourée de lacs bavarois accessibles en 30 à 60 minutes en voiture ou en transports en commun. La rivière Isar au sein de la ville offre des spots de baignade toute l'année. Beaucoup de lacs bavarois ont des zones réservées aux chiens clairement indiquées. Les week-ends d'été dans les lacs populaires sont très fréquentés — arrivez tôt ou venez en semaine.",
+      "introEs": "Múnich no tiene costa marítima pero está rodeada de lagos bávaros a 30–60 minutos en coche o transporte público. El río Isar dentro de la ciudad proporciona zonas de baño durante todo el año. Muchos lagos bávaros tienen zonas designadas para perros claramente señalizadas. Los fines de semana de verano en los lagos populares son concurridos — llega temprano o ve entre semana.",
+      "places": [
+        {
+          "name": "Flaucher — Isar River",
+          "distance": "20 min by bike or S-Bahn from city centre",
+          "description": "The Flaucher is Munich's most popular urban swimming and sunbathing spot — a series of gravel banks at a wide bend in the Isar in the Sendling district. It's also one of the most dog-friendly spots in the city. Dogs can swim freely in the calmer shallows. The adjacent Flaucher Beer Garden (Isarauen) is one of Munich's best, with a large outdoor terrace where dogs are welcome. Perfect for combining a swim with a cold beer.",
+          "season": "Year-round. Most popular May–September",
+          "rules": "Dogs permitted to swim at the river banks. Keep them controlled near other swimmers. The beer garden is dog-friendly.",
+          "facilities": "Beer garden, parking, bike access, S-Bahn nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=Flaucher+M%C3%BCnchen+Isar"
+        },
+        {
+          "name": "Starnberger See (Lake Starnberg)",
+          "distance": "30 min by S-Bahn (S6) from Munich city centre",
+          "description": "The nearest major Alpine lake to Munich, Starnberger See is stunning — clear water, mountain backdrop, and a string of historic villages along its shores. Dogs are permitted at several lake access points around the shoreline, particularly on the quieter northern and eastern banks. The main town beaches have restrictions on dogs in summer. The lakeside towns of Tutzing and Bernried tend to be more dog-permissive.",
+          "season": "Year-round. Quieter dog areas available even in summer",
+          "rules": "Dogs prohibited from main town beaches from May to September in most municipalities. Dog-accessible banks on quieter stretches year-round.",
+          "facilities": "Parking, cafés in lakeside villages, S-Bahn station in Starnberg town",
+          "googleMapsUrl": "https://maps.google.com/?q=Starnberger+See"
+        },
+        {
+          "name": "Ammersee (Lake Ammer)",
+          "distance": "50 min by S-Bahn (S5) from Munich",
+          "description": "The Ammersee is the second of Munich's great day-trip lakes, with a more relaxed and less crowded atmosphere than the Starnberger See. Several access points around the lake allow dogs year-round, particularly on the northern bank near Herrsching. The lake is surrounded by beautiful rolling countryside and the area is excellent for combined cycling and swimming trips.",
+          "season": "Year-round at designated access points",
+          "rules": "Dogs restricted from main swimming areas in summer. Northern bank near Herrsching is more permissive.",
+          "facilities": "Parking, cafés in Herrsching and Dießen, S-Bahn to Herrsching",
+          "googleMapsUrl": "https://maps.google.com/?q=Ammersee+Herrsching"
+        }
+      ],
+      "tipsEn": [
+        "The Isar river in Munich is the best year-round dog swimming option — no entry fees, easy access, and generally unrestricted.",
+        "Bavarian lake dog rules vary by municipality. Always check local signage on arrival.",
+        "Summer weekends at Starnberger See and Ammersee get very busy. Arrive before 10:00 for parking and a good spot.",
+        "The Flaucher beer garden (Isarauen 8) is the ideal post-swim stop — dogs are welcome on the terrace."
+      ],
+      "tipsFr": [
+        "La rivière Isar à Munich est la meilleure option de baignade canine toute l'année — pas de droits d'entrée, accès facile et généralement sans restriction.",
+        "Les règles pour les chiens dans les lacs bavarois varient selon les municipalités. Vérifiez toujours la signalisation locale à votre arrivée.",
+        "Les week-ends d'été au Starnberger See et à l'Ammersee sont très fréquentés. Arrivez avant 10h pour le stationnement et une bonne place.",
+        "Le biergarten du Flaucher (Isarauen 8) est l'arrêt idéal après la baignade — les chiens sont bienvenus en terrasse."
+      ],
+      "tipsEs": [
+        "El río Isar en Múnich es la mejor opción de natación para perros durante todo el año — sin tarifas de entrada, acceso fácil y generalmente sin restricciones.",
+        "Las normas de los lagos bávaros para perros varían según el municipio. Comprueba siempre la señalización local a tu llegada.",
+        "Los fines de semana de verano en el Starnberger See y el Ammersee se ponen muy concurridos. Llega antes de las 10:00 para aparcamiento y un buen lugar.",
+        "El biergarten del Flaucher (Isarauen 8) es la parada ideal después de nadar — los perros son bienvenidos en la terraza."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs swim near Munich?",
+          "a": "The Isar river (at Flaucher in Sendling, and along the renaturalised southern banks) is the most accessible year-round dog swimming spot. For Alpine lake swimming, Starnberger See and Ammersee both have dog-accessible sections, particularly outside the main summer season."
+        },
+        {
+          "q": "Are dogs allowed at Starnberger See?",
+          "a": "Yes, with restrictions. Dogs are prohibited from main town beaches in summer (May–September) in most of the lakeshore municipalities. Quieter sections of the shore and the banks near Tutzing and Bernried are more accessible year-round."
+        },
+        {
+          "q": "Can dogs swim in the Isar river in Munich?",
+          "a": "Yes. The Isar is freely accessible to dogs at the Flaucher, along the Isarauen park, and at several other points along the river through the city. The current is strong in the main channel — use the calmer bank sections for swimming."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils se baigner près de Munich ?",
+          "a": "La rivière Isar (au Flaucher à Sendling et le long des berges renaturalisées au sud) est le spot de baignade canine le plus accessible toute l'année. Pour les lacs alpins, le Starnberger See et l'Ammersee disposent tous deux de sections accessibles aux chiens, notamment hors de la haute saison estivale."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés au Starnberger See ?",
+          "a": "Oui, avec des restrictions. Les chiens sont interdits sur les plages principales des villes en été (mai–septembre) dans la plupart des communes riveraines. Les sections plus calmes du rivage et les berges près de Tutzing et Bernried sont plus accessibles toute l'année."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner dans l'Isar à Munich ?",
+          "a": "Oui. L'Isar est librement accessible aux chiens au Flaucher, le long du parc Isarauen et en plusieurs autres points le long de la rivière en ville. Le courant est fort dans le chenal principal — utilisez les sections de berge plus calmes pour la baignade."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden nadar los perros cerca de Múnich?",
+          "a": "El río Isar (en el Flaucher en Sendling, y a lo largo de las orillas renaturalizadas del sur) es el punto de natación canina más accesible durante todo el año. Para nadar en lagos alpinos, el Starnberger See y el Ammersee tienen secciones accesibles para perros, especialmente fuera de la temporada principal de verano."
+        },
+        {
+          "q": "¿Se permiten perros en el Starnberger See?",
+          "a": "Sí, con restricciones. Los perros están prohibidos en las playas principales de los pueblos en verano (mayo–septiembre) en la mayoría de los municipios ribereños. Las secciones más tranquilas de la orilla y las orillas cerca de Tutzing y Bernried son más accesibles durante todo el año."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el río Isar en Múnich?",
+          "a": "Sí. El Isar es libremente accesible para los perros en el Flaucher, a lo largo del parque Isarauen y en varios otros puntos a lo largo del río a través de la ciudad. La corriente es fuerte en el canal principal — usa las secciones de orilla más tranquilas para nadar."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Munich",
+      "titleFr": "Vétérinaires et urgences vétérinaires à Munich",
+      "titleEs": "Veterinarios y urgencias veterinarias en Múnich",
+      "introEn": "Munich has a strong veterinary network including the renowned Ludwig Maximilian University veterinary clinic, which provides 24-hour emergency care. For routine visits, appointments are required at most practices. Always call ahead to confirm availability, particularly on weekends and Bavarian public holidays (of which there are many).",
+      "introFr": "Munich dispose d'un solide réseau vétérinaire, notamment la clinique vétérinaire renommée de l'Université Ludwig Maximilian, qui assure des soins d'urgence 24h/24. Pour les visites de routine, un rendez-vous est nécessaire dans la plupart des cabinets. Appelez toujours à l'avance pour confirmer les disponibilités, notamment le week-end et les jours fériés bavarois (nombreux).",
+      "introEs": "Múnich tiene una sólida red veterinaria que incluye la renombrada clínica veterinaria de la Universidad Ludwig Maximilian, que proporciona atención de emergencia las 24 horas. Para visitas de rutina, se requiere cita previa en la mayoría de las consultas. Siempre llama con antelación para confirmar disponibilidad, especialmente los fines de semana y festivos bávaros (que son muchos).",
+      "places": [
+        {
+          "name": "Tierärztliche Fakultät — LMU München (Veterinary University Clinic)",
+          "address": "Veterinärstraße 13, 80539 München",
+          "neighborhood": "Maxvorstadt",
+          "photo": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.lmu.de/en/about-lmu/structure/faculties/veterinary-medicine/",
+          "description": "The veterinary faculty clinic of Ludwig Maximilian University is Munich's most comprehensive animal hospital, with 24-hour emergency services and specialist departments covering all major disciplines. As a teaching university, it handles complex and specialist cases. The emergency intake is available around the clock. Located in the Maxvorstadt, it is centrally accessible.",
+          "descriptionFr": "La clinique de la faculté vétérinaire de l'Université Ludwig Maximilian est l'hôpital animalier le plus complet de Munich, avec des urgences 24h/24 et des services spécialisés couvrant toutes les disciplines majeures. En tant qu'université d'enseignement, elle prend en charge des cas complexes et spécialisés. L'accueil des urgences est disponible en permanence. Situé dans le Maxvorstadt, il est accessible en transport en commun.",
+          "descriptionEs": "La clínica de la facultad veterinaria de la Universidad Ludwig Maximilian es el hospital de animales más completo de Múnich, con servicios de urgencias las 24 horas y departamentos especializados que cubren todas las disciplinas principales. Como universidad de enseñanza, maneja casos complejos y especializados. La recepción de urgencias está disponible las 24 horas. Ubicada en el Maxvorstadt, es accesible en transporte público.",
+          "petPolicy": "24-hour emergency care. All species accepted",
+          "petPolicyFr": "Soins d'urgence 24h/24. Toutes espèces acceptées",
+          "petPolicyEs": "Atención de urgencias 24 horas. Todas las especies admitidas",
+          "priceRange": "€€€",
+          "openingHours": "24 hours, 7 days a week",
+          "tip": "For emergencies this is the most reliable option in Munich. Located in Maxvorstadt, reachable by U-Bahn (Universität station)",
+          "tipFr": "Pour les urgences, c'est l'option la plus fiable à Munich. Situé dans le Maxvorstadt, accessible en U-Bahn (station Universität)",
+          "tipEs": "Para emergencias, esta es la opción más fiable en Múnich. Ubicada en el Maxvorstadt, accesible en U-Bahn (estación Universität)",
+          "googleMapsUrl": "https://maps.google.com/?q=Tiermedizin+LMU+M%C3%BCnchen+Veterin%C3%A4rstra%C3%9Fe"
+        },
+        {
+          "name": "Tierklinik Ismaning",
+          "address": "Freisinger Straße 27, 85737 Ismaning",
+          "neighborhood": "Ismaning (northeast of Munich, near airport)",
+          "photo": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tierklinik-ismaning.de/",
+          "description": "A well-regarded private veterinary clinic northeast of Munich, near the airport, offering specialist and emergency services. Useful for travellers arriving or departing via Munich Airport. Offers internal medicine, surgery, and imaging. Confirm emergency availability by phone before visiting.",
+          "descriptionFr": "Une clinique vétérinaire privée réputée au nord-est de Munich, près de l'aéroport, proposant des services spécialisés et d'urgence. Pratique pour les voyageurs arrivant ou partant via l'aéroport de Munich. Propose médecine interne, chirurgie et imagerie. Confirmez la disponibilité d'urgence par téléphone avant de vous rendre.",
+          "descriptionEs": "Una clínica veterinaria privada bien considerada al noreste de Múnich, cerca del aeropuerto, que ofrece servicios especializados y de emergencia. Útil para viajeros que llegan o salen por el aeropuerto de Múnich. Ofrece medicina interna, cirugía e imagen. Confirma la disponibilidad de urgencias por teléfono antes de visitar.",
+          "petPolicy": "Dogs and cats. Appointment recommended for non-emergencies",
+          "petPolicyFr": "Chiens et chats. Rendez-vous recommandé pour les cas non urgents",
+          "petPolicyEs": "Perros y gatos. Cita recomendada para casos no urgentes",
+          "priceRange": "€€€",
+          "openingHours": "Mon–Fri 08:00–18:00, emergency line after hours — call to confirm",
+          "tip": "Call ahead to confirm emergency availability. The LMU clinic is the most reliable 24-hour option in Munich proper",
+          "tipFr": "Appelez d'abord pour confirmer les disponibilités d'urgence. La clinique LMU est l'option 24h/24 la plus fiable à Munich",
+          "tipEs": "Llama primero para confirmar la disponibilidad de urgencias. La clínica LMU es la opción 24 horas más fiable en Múnich",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Ismaning"
+        }
+      ],
+      "tipsEn": [
+        "Save the LMU Veterinary Clinic number before your trip. They are Munich's most reliable 24-hour emergency vet.",
+        "Bavaria has many public holidays. Many regular vet practices will be closed. Always have the emergency clinic number ready.",
+        "Bring your dog's EU pet passport and vaccination records — German vets require them.",
+        "Pet insurance valid in Germany significantly reduces emergency costs. Check your policy before travelling."
+      ],
+      "tipsFr": [
+        "Enregistrez le numéro de la clinique vétérinaire LMU avant votre voyage. C'est le vétérinaire d'urgence 24h/24 le plus fiable de Munich.",
+        "La Bavière compte de nombreux jours fériés. Beaucoup de cabinets vétérinaires ordinaires seront fermés. Ayez toujours le numéro de la clinique d'urgence à portée de main.",
+        "Apportez le passeport européen et les carnets de vaccination de votre chien — les vétérinaires allemands les demandent.",
+        "Une assurance animaux valable en Allemagne réduit considérablement les coûts d'urgence. Vérifiez votre police avant de voyager."
+      ],
+      "tipsEs": [
+        "Guarda el número de la Clínica Veterinaria LMU antes de tu viaje. Son el veterinario de urgencias 24 horas más fiable de Múnich.",
+        "Baviera tiene muchos festivos. Muchas consultas veterinarias habituales estarán cerradas. Ten siempre el número de la clínica de urgencias a mano.",
+        "Trae el pasaporte europeo para mascotas y los registros de vacunación de tu perro — los veterinarios alemanes los requieren.",
+        "El seguro para mascotas válido en Alemania reduce significativamente los costos de urgencias. Comprueba tu póliza antes de viajar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Munich?",
+          "a": "Yes. The LMU Veterinary Faculty Clinic (Veterinärstraße 13, Maxvorstadt) provides genuine 24-hour emergency care every day of the year. It is the most reliable option. Private clinics may have on-call emergency services but confirm by phone."
+        },
+        {
+          "q": "Do I need an appointment at a Munich vet?",
+          "a": "For routine visits, yes — appointments are required at most Munich practices. For emergencies, the LMU clinic accepts walk-ins around the clock."
+        },
+        {
+          "q": "Are Bavarian public holidays a problem for vet access in Munich?",
+          "a": "Yes — Bavaria has more public holidays than most German states, and many regular vet practices close on these days. Always have the emergency clinic number (LMU) saved, especially if visiting during holiday periods."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Munich ?",
+          "a": "Oui. La clinique de la faculté vétérinaire LMU (Veterinärstraße 13, Maxvorstadt) assure une permanence d'urgence 24h/24 tous les jours de l'année. C'est l'option la plus fiable. Les cliniques privées peuvent avoir des services d'astreinte mais confirmez par téléphone."
+        },
+        {
+          "q": "Faut-il un rendez-vous chez un vétérinaire munichois ?",
+          "a": "Pour les visites de routine, oui — un rendez-vous est obligatoire dans la plupart des cabinets. Pour les urgences, la clinique LMU accepte les consultations sans rendez-vous en permanence."
+        },
+        {
+          "q": "Les jours fériés bavarois posent-ils un problème pour l'accès aux vétérinaires à Munich ?",
+          "a": "Oui — la Bavière compte plus de jours fériés que la plupart des autres Länder allemands, et de nombreux cabinets ordinaires ferment ces jours-là. Ayez toujours le numéro de la clinique d'urgence (LMU) enregistré, surtout si vous visitez pendant les périodes de fêtes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias 24 horas en Múnich?",
+          "a": "Sí. La Clínica de la Facultad Veterinaria LMU (Veterinärstraße 13, Maxvorstadt) proporciona atención de emergencia genuina las 24 horas, todos los días del año. Es la opción más fiable. Las clínicas privadas pueden tener servicios de guardia pero confirma por teléfono."
+        },
+        {
+          "q": "¿Necesito cita en un veterinario de Múnich?",
+          "a": "Para visitas de rutina, sí — se requiere cita en la mayoría de las consultas de Múnich. Para emergencias, la clínica LMU acepta visitas sin cita las 24 horas."
+        },
+        {
+          "q": "¿Los festivos bávaros son un problema para el acceso al veterinario en Múnich?",
+          "a": "Sí — Baviera tiene más festivos que la mayoría de los estados alemanes, y muchas consultas veterinarias habituales cierran en estos días. Ten siempre el número de la clínica de urgencias (LMU) guardado, especialmente si visitas durante períodos festivos."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "General Dog Travel Tips for Munich",
+      "titleFr": "Conseils généraux pour voyager avec son chien à Munich",
+      "titleEs": "Consejos generales para viajar con perro a Múnich",
+      "introEn": "Munich is a dog-friendly city with a strong Bavarian outdoor culture that naturally includes dogs in public life. Beer gardens, river banks, and mountain hikes are all part of a Munich dog-owner's weekend. A few practical details will help you navigate the city smoothly.",
+      "introFr": "Munich est une ville dog-friendly dotée d'une forte culture de plein air bavaroise qui inclut naturellement les chiens dans la vie publique. Biergärten, berges de l'Isar et randonnées en montagne font partie du week-end d'un propriétaire de chien à Munich. Quelques détails pratiques vous aideront à naviguer dans la ville sans encombre.",
+      "introEs": "Múnich es una ciudad amigable con los perros con una fuerte cultura al aire libre bávara que incluye naturalmente a los perros en la vida pública. Los biergärten, las orillas del río y las excursiones de montaña forman parte del fin de semana de un dueño de perro en Múnich. Algunos detalles prácticos te ayudarán a navegar por la ciudad sin problemas.",
+      "places": [],
+      "tipsEn": [
+        "Munich's Biergarten culture is uniquely dog-friendly. Always sit in the self-service section if you have a dog.",
+        "Dogs are permitted in many Munich supermarkets, particularly smaller Rewe and Edeka branches — look for a dog sticker on the door.",
+        "Always carry a muzzle. MVV public transport requires it for all dogs larger than a carrier bag.",
+        "During Oktoberfest the city is extremely crowded. The Wiesn fairground is not suitable for most dogs — consider booking dog care for the evenings if you plan to attend.",
+        "The Bavarian Alps are 1.5 hours south by car. Most alpine trails are dog-friendly and the mountain lakes are generally accessible to dogs."
+      ],
+      "tipsFr": [
+        "La culture des biergärten munichois est particulièrement dog-friendly. Asseyez-vous toujours dans la zone libre-service si vous avez un chien.",
+        "Les chiens sont admis dans de nombreux supermarchés munichois, notamment les petits Rewe et Edeka — cherchez un autocollant de chien sur la porte.",
+        "Portez toujours une muselière. Les transports en commun MVV l'exigent pour tous les chiens plus grands qu'un sac de transport.",
+        "Pendant l'Oktoberfest, la ville est extrêmement fréquentée. La fête foraine de la Wiesn n'est pas adaptée à la plupart des chiens — envisagez une garde de chien si vous prévoyez d'y assister.",
+        "Les Alpes bavaroises sont à 1h30 en voiture vers le sud. La plupart des sentiers alpins sont dog-friendly et les lacs de montagne sont généralement accessibles aux chiens."
+      ],
+      "tipsEs": [
+        "La cultura de los biergärten de Múnich es excepcionalmente amigable con los perros. Siempre siéntate en la sección de autoservicio si tienes un perro.",
+        "Los perros están permitidos en muchos supermercados de Múnich, especialmente en sucursales más pequeñas de Rewe y Edeka — busca un adhesivo de perro en la puerta.",
+        "Lleva siempre un bozal. El transporte público MVV lo requiere para todos los perros más grandes que una bolsa de transporte.",
+        "Durante la Oktoberfest la ciudad está extremadamente concurrida. El recinto ferial de la Wiesn no es adecuado para la mayoría de los perros — considera reservar cuidado de perros para las noches si planeas asistir.",
+        "Los Alpes bávaros están a 1,5 horas en coche hacia el sur. La mayoría de los senderos alpinos son amigables con los perros y los lagos de montaña son generalmente accesibles para los perros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Munich a good city to visit with a dog?",
+          "a": "Yes, very much. Munich's Biergarten culture is uniquely welcoming to dogs, the Englischer Garten and Isar river provide excellent outdoor space, and the city has good pet infrastructure. It is one of the better German cities to visit with a dog."
+        },
+        {
+          "q": "Can I visit the Bavarian Alps on a day trip with my dog from Munich?",
+          "a": "Yes. The Alps are 1.5 hours by car or 2 hours by train. Most mountain trails are open to leashed dogs. The famous Zugspitze summit cable car allows dogs in carriers; larger dogs may be restricted on some summit transport. Check specific Bergbahn (mountain railway) websites for current rules."
+        },
+        {
+          "q": "Are there dog-friendly hotels in Munich?",
+          "a": "Yes, many. Munich has numerous pet-friendly hotels, particularly in the Schwabing, Bogenhausen, and Haidhausen areas. Always confirm pet policy and any size restrictions when booking, and ask about pet fees (many Munich hotels charge a surcharge)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Munich est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui, tout à fait. La culture des biergärten munichois est particulièrement accueillante pour les chiens, l'Englischer Garten et l'Isar offrent d'excellents espaces de plein air, et la ville dispose d'une bonne infrastructure pour les animaux. C'est l'une des meilleures villes allemandes à visiter avec un chien."
+        },
+        {
+          "q": "Puis-je visiter les Alpes bavaroises avec mon chien en excursion depuis Munich ?",
+          "a": "Oui. Les Alpes sont à 1h30 en voiture ou 2h en train. La plupart des sentiers de montagne sont ouverts aux chiens en laisse. Le télécabine du Zugspitze accepte les chiens dans un sac ; les chiens plus grands peuvent être limités sur certains transports en altitude. Consultez les sites des Bergbahn pour les règles en vigueur."
+        },
+        {
+          "q": "Y a-t-il des hôtels dog-friendly à Munich ?",
+          "a": "Oui, beaucoup. Munich dispose de nombreux hôtels acceptant les animaux, notamment dans les quartiers de Schwabing, Bogenhausen et Haidhausen. Confirmez toujours la politique animaux et les éventuelles restrictions de taille lors de la réservation, et demandez les éventuels frais supplémentaires pour animaux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Múnich una buena ciudad para visitar con un perro?",
+          "a": "Sí, mucho. La cultura de los biergärten de Múnich es excepcionalmente acogedora para los perros, el Englischer Garten y el río Isar proporcionan excelente espacio al aire libre, y la ciudad tiene buena infraestructura para mascotas. Es una de las mejores ciudades alemanas para visitar con un perro."
+        },
+        {
+          "q": "¿Puedo visitar los Alpes bávaros en una excursión de un día con mi perro desde Múnich?",
+          "a": "Sí. Los Alpes están a 1,5 horas en coche o 2 horas en tren. La mayoría de los senderos de montaña están abiertos a perros con correa. El teleférico de la Zugspitze permite perros en bolsa; los perros más grandes pueden estar restringidos en algunos transportes de cumbre. Consulta los sitios web de las Bergbahn para las normas actuales."
+        },
+        {
+          "q": "¿Hay hoteles amigables con los perros en Múnich?",
+          "a": "Sí, muchos. Múnich tiene numerosos hoteles que admiten mascotas, especialmente en las zonas de Schwabing, Bogenhausen y Haidhausen. Siempre confirma la política de mascotas y cualquier restricción de tamaño al reservar, y pregunta sobre los cargos por mascotas (muchos hoteles de Múnich cobran un suplemento)."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Munich",
+      "titleFr": "Attractions dog-friendly à Munich",
+      "titleEs": "Atracciones para perros en Múnich",
+      "introEn": "Munich's most dog-friendly attractions are its outdoor spaces and markets. The Englischer Garten, Olympiapark, and the Nymphenburg Palace gardens are all excellent with a dog on a leash. Museums and indoor cultural venues generally do not permit dogs. The weekly markets at Viktualienmarkt, the Christmas markets, and the many flea markets around the city are all very dog-welcoming.",
+      "introFr": "Les attractions les plus dog-friendly de Munich sont ses espaces extérieurs et ses marchés. L'Englischer Garten, l'Olympiapark et les jardins du château de Nymphenburg sont tous excellents avec un chien en laisse. Les musées et lieux culturels intérieurs n'autorisent généralement pas les chiens. Les marchés hebdomadaires du Viktualienmarkt, les marchés de Noël et les nombreuses brocantes de la ville sont tous très dog-friendly.",
+      "introEs": "Las atracciones más amigables con los perros de Múnich son sus espacios al aire libre y mercados. El Englischer Garten, el Olympiapark y los jardines del Palacio de Nymphenburg son todos excelentes con un perro con correa. Los museos y locales culturales interiores generalmente no permiten perros. Los mercados semanales del Viktualienmarkt, los mercados navideños y los numerosos mercadillos de la ciudad son todos muy acogedores con los perros.",
+      "places": [
+        {
+          "name": "Nymphenburg Palace & Gardens",
+          "address": "Schloß Nymphenburg 1, 80638 München",
+          "neighborhood": "Nymphenburg",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.schloesser.bayern.de/deutsch/palace/objekte/nymphenburg.htm",
+          "description": "The Nymphenburg Palace is one of Germany's most magnificent baroque palaces, and its park — 200 hectares of formal French gardens, English woodland, and ornamental canals — is one of the finest in Europe. Dogs on a leash are welcome throughout the park. The Amalienburg hunting lodge and the series of small canal waterways through the park make for an extraordinary walk. The palace interior does not admit dogs.",
+          "descriptionFr": "Le château de Nymphenburg est l'un des palais baroques les plus magnifiques d'Allemagne, et son parc — 200 hectares de jardins à la française, de bosquets à l'anglaise et de canaux ornementaux — est l'un des plus beaux d'Europe. Les chiens en laisse sont les bienvenus dans tout le parc. Le pavillon de chasse d'Amalienburg et la série de canaux qui traversent le parc constituent une promenade extraordinaire. L'intérieur du château n'admet pas les chiens.",
+          "descriptionEs": "El Palacio de Nymphenburg es uno de los palacios barrocos más magníficos de Alemania, y su parque — 200 hectáreas de jardines formales franceses, bosque inglés y canales ornamentales — es uno de los mejores de Europa. Los perros con correa son bienvenidos en todo el parque. El pabellón de caza Amalienburg y la serie de canales a través del parque hacen de esto un paseo extraordinario. El interior del palacio no admite perros.",
+          "petPolicy": "Dogs on leash welcome in palace park. Not permitted inside palace buildings",
+          "petPolicyFr": "Chiens en laisse bienvenus dans le parc. Non admis à l'intérieur du château",
+          "petPolicyEs": "Perros con correa bienvenidos en el parque del palacio. No permitidos en el interior del palacio",
+          "priceRange": "Free (park access)",
+          "mustTry": "Walk the full canal circuit from the palace to the lake",
+          "mustTryFr": "Parcourir le circuit complet du canal du palais jusqu'au lac",
+          "mustTryEs": "Recorre el circuito completo del canal desde el palacio hasta el lago",
+          "openingHours": "Park: daily dawn to dusk",
+          "tip": "The park is largest accessed from the rear (east) of the palace. Start there for the best canal walks",
+          "tipFr": "Le parc est le mieux accessible par l'arrière (est) du château. Commencez là pour les meilleures promenades le long des canaux",
+          "tipEs": "El parque es mejor accedido desde la parte trasera (este) del palacio. Empieza allí para los mejores paseos por los canales",
+          "googleMapsUrl": "https://maps.google.com/?q=Schloss+Nymphenburg+M%C3%BCnchen"
+        },
+        {
+          "name": "Viktualienmarkt",
+          "address": "Viktualienmarkt 3, 80331 München",
+          "neighborhood": "Altstadt",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.muenchen.de/veranstaltungen/maerkte/viktualienmarkt.html",
+          "description": "Munich's Viktualienmarkt is one of the great open-air food markets in Germany: a daily market selling premium Bavarian produce, flowers, spices, and specialty foods, with a central beer garden that is open year-round. Dogs are welcome throughout the market and in the beer garden (self-service section). A Munich must-do regardless of season.",
+          "descriptionFr": "Le Viktualienmarkt de Munich est l'un des grands marchés alimentaires en plein air d'Allemagne : un marché quotidien vendant des produits bavarois de qualité, des fleurs, épices et spécialités, avec un biergarten central ouvert toute l'année. Les chiens sont les bienvenus dans tout le marché et au biergarten (zone libre-service). Un incontournable munichois quelle que soit la saison.",
+          "descriptionEs": "El Viktualienmarkt de Múnich es uno de los grandes mercados de alimentos al aire libre de Alemania: un mercado diario que vende productos bávaros premium, flores, especias y alimentos especiales, con un biergarten central abierto durante todo el año. Los perros son bienvenidos en todo el mercado y en el biergarten (sección de autoservicio). Una visita obligada en Múnich independientemente de la temporada.",
+          "petPolicy": "Dogs welcome throughout market and in beer garden",
+          "petPolicyFr": "Chiens bienvenus dans tout le marché et au biergarten",
+          "petPolicyEs": "Perros bienvenidos en todo el mercado y en el biergarten",
+          "priceRange": "Free (market access)",
+          "mustTry": "Maß at the central beer garden, Obatzda and fresh Brez'n from the stalls",
+          "mustTryFr": "Maß au biergarten central, Obatzda et Brez'n fraîche des étals",
+          "mustTryEs": "Maß en el biergarten central, Obatzda y Brez'n fresca de los puestos",
+          "openingHours": "Mon–Sat 08:00–20:00 (market), beer garden daily until 22:00",
+          "tip": "Go on a weekday morning. The market is quietest before 10:00 and the produce is freshest",
+          "tipFr": "Venez un matin de semaine. Le marché est le plus calme avant 10h et les produits sont les plus frais",
+          "tipEs": "Ve un miércoles por la mañana. El mercado está más tranquilo antes de las 10:00 y los productos son los más frescos",
+          "googleMapsUrl": "https://maps.google.com/?q=Viktualienmarkt+M%C3%BCnchen"
+        }
+      ],
+      "tipsEn": [
+        "Most Munich outdoor spaces and gardens welcome dogs on a leash. Museums do not.",
+        "The Nymphenburg Palace park and the Englischer Garten are the best dog-friendly attractions in the city.",
+        "Munich's Christmas markets (December) are almost universally dog-friendly — dogs are common at the Christkindlmarkt on the Marienplatz.",
+        "The BMW Museum and the Deutsches Museum do not admit dogs. The outdoor surroundings are fine."
+      ],
+      "tipsFr": [
+        "La plupart des espaces extérieurs et jardins munichois accueillent les chiens en laisse. Les musées ne le font pas.",
+        "Le parc du château de Nymphenburg et l'Englischer Garten sont les meilleures attractions dog-friendly de la ville.",
+        "Les marchés de Noël de Munich (décembre) sont presque universellement dog-friendly — les chiens sont courants au Christkindlmarkt sur la Marienplatz.",
+        "Le BMW Museum et le Deutsches Museum n'admettent pas les chiens. Les alentours extérieurs sont accessibles."
+      ],
+      "tipsEs": [
+        "La mayoría de los espacios al aire libre y jardines de Múnich admiten perros con correa. Los museos no.",
+        "El parque del Palacio de Nymphenburg y el Englischer Garten son las mejores atracciones para perros en la ciudad.",
+        "Los mercados navideños de Múnich (diciembre) son casi universalmente amigables con los perros — los perros son comunes en el Christkindlmarkt en la Marienplatz.",
+        "El Museo BMW y el Deutsches Museum no admiten perros. Los alrededores exteriores son accesibles."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I visit Nymphenburg Palace with my dog?",
+          "a": "Yes, in the palace park. The 200-hectare park with its formal gardens and ornamental canals is open to dogs on a leash. Dogs are not permitted inside the palace buildings. Park access is free."
+        },
+        {
+          "q": "Is the Englischer Garten accessible from the city centre for a quick dog walk?",
+          "a": "Yes. The southern entrance near Odeonsplatz/Prinzregentenstraße is walkable from the Altstadt. For the best dog areas, head north into the park — the Kleinhesseloher See area about 2 km in has the main off-leash zones."
+        },
+        {
+          "q": "Are dogs welcome at Munich's Christmas markets?",
+          "a": "Yes. The Christkindlmarkt on the Marienplatz and most of Munich's Christmas markets are outdoor events where dogs on a leash are welcome. The markets get very crowded in the evenings — daytime visits are easier with a dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je visiter le château de Nymphenburg avec mon chien ?",
+          "a": "Oui, dans le parc du château. Le parc de 200 hectares avec ses jardins formels et ses canaux ornementaux est ouvert aux chiens en laisse. Les chiens ne sont pas admis à l'intérieur des bâtiments du château. L'accès au parc est gratuit."
+        },
+        {
+          "q": "L'Englischer Garten est-il accessible depuis le centre-ville pour une courte balade canine ?",
+          "a": "Oui. L'entrée sud près de l'Odeonsplatz/Prinzregentenstraße est à pied de l'Altstadt. Pour les meilleures zones canines, dirigez-vous vers le nord dans le parc — le secteur du Kleinhesseloher See, à environ 2 km, abrite les principales zones de liberté."
+        },
+        {
+          "q": "Les chiens sont-ils bienvenus aux marchés de Noël de Munich ?",
+          "a": "Oui. Le Christkindlmarkt sur la Marienplatz et la plupart des marchés de Noël munichois sont des événements en plein air où les chiens en laisse sont les bienvenus. Les marchés sont très fréquentés le soir — les visites en journée sont plus faciles avec un chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo visitar el Palacio de Nymphenburg con mi perro?",
+          "a": "Sí, en el parque del palacio. El parque de 200 hectáreas con sus jardines formales y canales ornamentales está abierto a los perros con correa. Los perros no están permitidos dentro de los edificios del palacio. El acceso al parque es gratuito."
+        },
+        {
+          "q": "¿Es el Englischer Garten accesible desde el centro de la ciudad para un paseo rápido con el perro?",
+          "a": "Sí. La entrada sur cerca de Odeonsplatz/Prinzregentenstraße es a pie desde el Altstadt. Para las mejores zonas para perros, dirígete al norte del parque — la zona del Kleinhesseloher See, a unos 2 km, tiene las principales zonas sin correa."
+        },
+        {
+          "q": "¿Son los mercados navideños de Múnich amigables con los perros?",
+          "a": "Sí. El Christkindlmarkt en la Marienplatz y la mayoría de los mercados navideños de Múnich son eventos al aire libre donde los perros con correa son bienvenidos. Los mercados se llenan mucho por las noches — las visitas diurnas son más fáciles con un perro."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Services in Munich",
+      "titleFr": "Pet sitting et services pour chiens à Munich",
+      "titleEs": "Pet sitting y servicios para perros en Múnich",
+      "introEn": "Munich has a well-established pet services market. The city's dog-owning culture is strong and professional dog walking, daycare, and sitting services are readily available through both local providers and international platforms. Book well in advance during Oktoberfest and summer peak seasons.",
+      "introFr": "Munich dispose d'un marché de services animaliers bien établi. La culture canine de la ville est forte et les services professionnels de promenade, garderie et pet sitting sont facilement disponibles via des prestataires locaux et des plateformes internationales. Réservez bien à l'avance pendant l'Oktoberfest et les saisons estivales de pointe.",
+      "introEs": "Múnich tiene un mercado de servicios para mascotas bien establecido. La cultura canina de la ciudad es fuerte y los servicios profesionales de paseo, guardería y pet sitting están fácilmente disponibles a través de proveedores locales y plataformas internacionales. Reserva con mucha antelación durante la Oktoberfest y las temporadas punta de verano.",
+      "places": [],
+      "tipsEn": [
+        "Rover.com and Pawshake both operate in Munich with good networks of verified sitters.",
+        "Dog daycare (Hundekindergarten) is widely available in Munich. Search for 'Hundekindergarten München' plus your neighbourhood.",
+        "During Oktoberfest (late September), demand for dog care spikes significantly. Book 2–3 weeks in advance.",
+        "Many Munich hotels that accept pets can recommend local dog walkers — ask at reception when you check in."
+      ],
+      "tipsFr": [
+        "Rover.com et Pawshake opèrent tous deux à Munich avec de bons réseaux de gardiens vérifiés.",
+        "La garderie pour chiens (Hundekindergarten) est largement disponible à Munich. Cherchez 'Hundekindergarten München' suivi de votre quartier.",
+        "Pendant l'Oktoberfest (fin septembre), la demande de garde d'animaux augmente considérablement. Réservez 2 à 3 semaines à l'avance.",
+        "De nombreux hôtels munichois acceptant les animaux peuvent recommander des promeneurs locaux — renseignez-vous à la réception lors de votre check-in."
+      ],
+      "tipsEs": [
+        "Rover.com y Pawshake ambos operan en Múnich con buenas redes de cuidadores verificados.",
+        "La guardería para perros (Hundekindergarten) está ampliamente disponible en Múnich. Busca 'Hundekindergarten München' más tu barrio.",
+        "Durante la Oktoberfest (finales de septiembre), la demanda de cuidado de perros aumenta significativamente. Reserva con 2–3 semanas de antelación.",
+        "Muchos hoteles de Múnich que aceptan mascotas pueden recomendar paseadores locales — pregunta en recepción cuando hagas el check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Munich during Oktoberfest?",
+          "a": "Yes, but book early. Oktoberfest (late September–early October) is the peak season for dog care in Munich as many owners attend the festival. Book via Rover.com or Pawshake at least 2–3 weeks in advance."
+        },
+        {
+          "q": "Are there dog daycare centres near the city centre in Munich?",
+          "a": "Yes. Dog daycare (Hundekindergarten or Hundetagesstätte) facilities are available throughout Munich, including central areas. Search online for your specific district."
+        },
+        {
+          "q": "What is the average cost of a dog sitter in Munich?",
+          "a": "Rates on platforms like Rover typically range from €20–€35 per visit or €35–€60 per night for home boarding. Professional dog hotels (Hundepension) may charge more. Prices in Munich tend to be higher than the German average."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet sitter à Munich pendant l'Oktoberfest ?",
+          "a": "Oui, mais réservez tôt. L'Oktoberfest (fin septembre–début octobre) est la haute saison pour la garde de chiens à Munich car de nombreux propriétaires assistent au festival. Réservez via Rover.com ou Pawshake au moins 2 à 3 semaines à l'avance."
+        },
+        {
+          "q": "Y a-t-il des garderies pour chiens près du centre-ville de Munich ?",
+          "a": "Oui. Des établissements de garderie canine (Hundekindergarten ou Hundetagesstätte) sont disponibles dans tout Munich, y compris dans les zones centrales. Cherchez en ligne pour votre arrondissement spécifique."
+        },
+        {
+          "q": "Quel est le tarif moyen d'un pet sitter à Munich ?",
+          "a": "Les tarifs sur des plateformes comme Rover varient généralement de 20 à 35 € par visite ou de 35 à 60 € par nuit pour la pension à domicile. Les hôtels pour chiens professionnels (Hundepension) peuvent être plus chers. Les prix à Munich ont tendance à être supérieurs à la moyenne allemande."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros en Múnich durante la Oktoberfest?",
+          "a": "Sí, pero reserva con antelación. La Oktoberfest (finales de septiembre–principios de octubre) es la temporada alta para el cuidado de perros en Múnich, ya que muchos dueños asisten al festival. Reserva a través de Rover.com o Pawshake con al menos 2–3 semanas de antelación."
+        },
+        {
+          "q": "¿Hay guarderías para perros cerca del centro de Múnich?",
+          "a": "Sí. Las instalaciones de guardería canina (Hundekindergarten o Hundetagesstätte) están disponibles en todo Múnich, incluyendo zonas centrales. Busca online para tu distrito específico."
+        },
+        {
+          "q": "¿Cuál es el coste medio de un cuidador de perros en Múnich?",
+          "a": "Las tarifas en plataformas como Rover suelen oscilar entre 20–35 € por visita o 35–60 € por noche para alojamiento en casa. Los hoteles profesionales para perros (Hundepension) pueden cobrar más. Los precios en Múnich tienden a ser más altos que la media alemana."
+        }
+      ]
+    }
+  }
+}

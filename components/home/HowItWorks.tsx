@@ -15,19 +15,19 @@ interface HowItWorksProps {
 
 const TESTIMONIALS = {
   fr: [
-    { text: 'Nous voyagions avec notre border collie et l\'hôtel avait déjà un panier préparé dans la chambre. Exactement ce que le site promettait.', author: 'Sophie T.', location: 'Paris', rating: 5 },
-    { text: 'Enfin un site qui vérifie vraiment les politiques animaux. Amsterdam, tout s\'est passé comme prévu, pas de mauvaise surprise à l\'arrivée.', author: 'Marc & Julie L.', location: 'Lyon', rating: 5 },
-    { text: 'Le filtre "sans frais animaux" a changé notre façon de voyager. On a économisé 80€ sur un week-end à Barcelone.', author: 'Antoine R.', location: 'Bordeaux', rating: 5 },
+    { text: 'On voyage avec notre border collie depuis deux ans. Pour la première fois, l\'hôtel avait préparé un panier dans la chambre. Exactement ce que le site avait promis.', author: 'Sophie T.', location: 'Paris', rating: 5 },
+    { text: 'Enfin un site qui vérifie vraiment les politiques animaux. Amsterdam, tout s\'est passé comme prévu, aucune mauvaise surprise à l\'arrivée.', author: 'Marc & Julie L.', location: 'Lyon', rating: 5 },
+    { text: 'Le filtre "sans supplément animaux" a changé notre façon de voyager. On a économisé 80 € sur un week-end à Barcelone — et l\'hôtel était superbe.', author: 'Antoine R.', location: 'Bordeaux', rating: 5 },
   ],
   en: [
-    { text: 'Travelling with our golden retriever used to be stressful. HotelsWithPets found us a hotel in Rome where dogs are genuinely welcome, not just tolerated.', author: 'Claire M.', location: 'London', rating: 5 },
-    { text: 'Finally a site that actually verifies pet policies. Booked in Amsterdam and everything was exactly as described. No surprises on arrival.', author: 'James & Sarah K.', location: 'Edinburgh', rating: 5 },
-    { text: 'The "no pet fee" filter changed our travel budget. We saved over €80 on a Barcelona weekend — and the hotel was beautiful.', author: 'Thomas R.', location: 'Dublin', rating: 5 },
+    { text: 'Travelling with our golden retriever used to be stressful. HotelsWithPets found us a hotel in Rome where dogs are genuinely made welcome, not just tolerated.', author: 'Claire M.', location: 'London', rating: 5 },
+    { text: 'Finally a site that actually verifies pet policies. We booked in Amsterdam and everything was exactly as described — no surprises at check-in.', author: 'James & Sarah K.', location: 'Edinburgh', rating: 5 },
+    { text: 'The "no pet fee" filter transformed our travel budget. We saved over €80 on a Barcelona weekend and the hotel was genuinely lovely.', author: 'Thomas R.', location: 'Dublin', rating: 5 },
   ],
   es: [
-    { text: 'Viajar con nuestra perra era siempre complicado. Ahora encontramos hoteles que realmente dan la bienvenida a los perros, no solo los toleran.', author: 'Lucía M.', location: 'Madrid', rating: 5 },
-    { text: 'Por fin un sitio que verifica las políticas reales. Reservamos en Amsterdam y todo fue exactamente como prometían. Sin sorpresas.', author: 'Carlos y Ana R.', location: 'Barcelona', rating: 5 },
-    { text: 'El filtro "sin cargo por mascota" ha cambiado nuestra forma de viajar. Ahorramos más de 80€ en un fin de semana en Barcelona.', author: 'Javier T.', location: 'Sevilla', rating: 5 },
+    { text: 'Viajar con nuestra perra siempre era un lío. Ahora encontramos hoteles que realmente la reciben bien, no que simplemente la toleran.', author: 'Lucía M.', location: 'Madrid', rating: 5 },
+    { text: 'Por fin un sitio que verifica las políticas de verdad. Reservamos en Ámsterdam y todo fue exactamente como prometían. Sin ninguna sorpresa.', author: 'Carlos y Ana R.', location: 'Barcelona', rating: 5 },
+    { text: 'El filtro "sin suplemento por mascota" ha cambiado nuestra forma de viajar. Ahorramos más de 80 € en un fin de semana en Barcelona — y el hotel era precioso.', author: 'Javier T.', location: 'Sevilla', rating: 5 },
   ],
 }
 
@@ -35,7 +35,7 @@ const TRUST_BADGES = {
   fr: [
     { icon: '✓', label: 'Gratuit, sans inscription' },
     { icon: '✓', label: 'Politiques vérifiées à la source' },
-    { icon: '✓', label: 'Réservation directe Booking.com' },
+    { icon: '✓', label: 'Réservation directe sur Booking.com' },
     { icon: '✓', label: '344 hôtels dans 43 destinations' },
   ],
   en: [
@@ -46,7 +46,7 @@ const TRUST_BADGES = {
   ],
   es: [
     { icon: '✓', label: 'Gratis, sin registro' },
-    { icon: '✓', label: 'Políticas verificadas en la fuente' },
+    { icon: '✓', label: 'Políticas verificadas en origen' },
     { icon: '✓', label: 'Reserva directa en Booking.com' },
     { icon: '✓', label: '344 hoteles en 43 destinos' },
   ],
@@ -64,7 +64,10 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
   const testimonials = TESTIMONIALS[lang]
   const badges = TRUST_BADGES[lang]
 
-  const reviewLabel = locale === 'fr' ? 'Avis de propriétaires d\'animaux' : locale === 'es' ? 'Opiniones de dueños de mascotas' : 'From pet owners across Europe'
+  const reviewLabel =
+    locale === 'fr' ? 'Ce que disent les voyageurs avec animaux' :
+    locale === 'es' ? 'Lo que dicen los viajeros con mascotas' :
+    'What pet-owning travellers say'
 
   return (
     <section className="py-20 bg-gray-50 border-t border-gray-100">
@@ -119,7 +122,7 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
                     <span key={j} className="text-amber-400 text-sm">★</span>
                   ))}
                 </div>
-                <p className="text-gray-700 text-sm leading-relaxed flex-1 italic">"{t.text}"</p>
+                <p className="text-gray-700 text-sm leading-relaxed flex-1 italic">&ldquo;{t.text}&rdquo;</p>
                 <div className="flex items-center gap-2 pt-2 border-t border-gray-50">
                   <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
                     {t.author[0]}

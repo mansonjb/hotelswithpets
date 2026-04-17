@@ -22,9 +22,9 @@ export async function generateMetadata({
     es: 'Guías prácticas para viajar con mascota en Europa | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
-    en: 'Practical guides for travelling with your dog or cat in Europe: pet passport requirements, country rules, tips and more.',
-    fr: 'Guides pratiques pour voyager avec votre chien ou chat en Europe : passeport animal, règles par pays, conseils.',
-    es: 'Guías prácticas para viajar con tu perro o gato en Europa: pasaporte de mascota, normas por país, consejos.',
+    en: 'Practical guides for travelling with your dog or cat across Europe: pet passport requirements, country-by-country rules, tips and more.',
+    fr: 'Guides pratiques pour voyager avec votre chien ou chat en Europe : passeport animal, règles par pays, conseils essentiels.',
+    es: 'Guías prácticas para viajar con tu perro o gato por Europa: pasaporte de mascota, normas por país, consejos imprescindibles.',
   }
 
   return {
@@ -45,12 +45,12 @@ export async function generateMetadata({
 const COPY = {
   fr: {
     hero: 'Guides pratiques',
-    subtitle: 'Tout ce qu\'il faut savoir pour voyager sereinement avec votre chien ou votre chat en Europe.',
+    subtitle: 'Tout ce qu\'il faut savoir pour voyager sereinement avec votre chien ou votre chat à travers l\'Europe.',
     guides: [
       {
         emoji: '📋',
         title: 'Passeport animal par pays',
-        desc: 'Puce, vaccin antirabique, traitement tapeworm... Les règles d\'entrée pays par pays pour l\'UE, le Royaume-Uni, la Finlande, l\'Islande et plus. Fact-checké sur les sources officielles.',
+        desc: 'Puce électronique, vaccin antirabique, traitement tapeworm... Les conditions d\'entrée pays par pays pour l\'UE, le Royaume-Uni, la Finlande, la Norvège, l\'Islande et plus encore. Fact-checké sur les sources officielles.',
         href: 'passeport-animal',
         badge: 'Essentiel',
         tags: ['Tous les pays', 'Réglementation', 'Vétérinaire'],
@@ -58,20 +58,20 @@ const COPY = {
     ],
     comingSoon: 'À venir',
     comingSoonGuides: [
-      { emoji: '🏖️', title: 'Voyager en train avec son chien', desc: 'Règles SNCF, Eurostar, Thalys, Renfe... Comment transporter votre animal en train à travers l\'Europe.' },
-      { emoji: '✈️', title: 'Voyager en avion avec son animal', desc: 'Cabine vs soute, compagnies acceptant les animaux, restrictions de taille et de race.' },
-      { emoji: '🚗', title: 'Road trip avec son chien', desc: 'Sécurité en voiture, pauses, frontières, trousse de premiers secours.' },
-      { emoji: '🏨', title: 'Choisir un hôtel vraiment pet-friendly', desc: 'Les bons critères à vérifier avant de réserver, les pièges à éviter.' },
+      { emoji: '🚂', title: 'Voyager en train avec son chien', desc: 'SNCF, Eurostar, Thalys, Renfe... Tout ce qu\'il faut savoir pour embarquer votre animal à bord.' },
+      { emoji: '✈️', title: 'Prendre l\'avion avec son animal', desc: 'Cabine ou soute, compagnies acceptant les animaux, restrictions de taille et de race.' },
+      { emoji: '🚗', title: 'Road trip avec son chien', desc: 'Sécurité en voiture, pauses obligatoires, franchissement des frontières, trousse de premiers secours.' },
+      { emoji: '🏨', title: 'Choisir un vrai hôtel pet-friendly', desc: 'Les critères qui comptent vraiment, les formulations trompeuses à repérer, les bonnes questions à poser avant de réserver.' },
     ],
   },
   en: {
     hero: 'Practical guides',
-    subtitle: 'Everything you need to know to travel confidently with your dog or cat in Europe.',
+    subtitle: 'Everything you need to travel confidently with your dog or cat anywhere in Europe.',
     guides: [
       {
         emoji: '📋',
         title: 'Pet passport by country',
-        desc: 'Microchip, rabies vaccination, tapeworm treatment... Entry rules country by country for the EU, UK, Finland, Iceland and more. Fact-checked against official sources.',
+        desc: 'Microchip, rabies vaccination, tapeworm treatment... Entry requirements country by country for the EU, UK, Finland, Norway, Iceland and more. Fact-checked against official sources.',
         href: 'passeport-animal',
         badge: 'Essential',
         tags: ['All countries', 'Regulations', 'Vet'],
@@ -79,20 +79,20 @@ const COPY = {
     ],
     comingSoon: 'Coming soon',
     comingSoonGuides: [
-      { emoji: '🏖️', title: 'Travelling by train with your dog', desc: 'Rules for Eurostar, Thalys, Renfe, and more. How to transport your pet by train across Europe.' },
-      { emoji: '✈️', title: 'Flying with your pet', desc: 'Cabin vs hold, airlines that accept pets, size and breed restrictions.' },
-      { emoji: '🚗', title: 'Road tripping with your dog', desc: 'Car safety, breaks, border crossings, first-aid kit.' },
-      { emoji: '🏨', title: 'Choosing a truly pet-friendly hotel', desc: 'The right criteria to check before booking, common pitfalls to avoid.' },
+      { emoji: '🚂', title: 'Travelling by train with your dog', desc: 'Eurostar, Thalys, Renfe and beyond — everything you need to know before boarding with your pet.' },
+      { emoji: '✈️', title: 'Flying with your pet', desc: 'Cabin vs hold, which airlines accept pets, size and breed restrictions to know in advance.' },
+      { emoji: '🚗', title: 'Road tripping with your dog', desc: 'Car safety, rest stops, border crossings and what to keep in your pet first-aid kit.' },
+      { emoji: '🏨', title: 'Choosing a truly pet-friendly hotel', desc: 'The criteria that really matter, misleading wording to spot, and the right questions to ask before booking.' },
     ],
   },
   es: {
     hero: 'Guías prácticas',
-    subtitle: 'Todo lo que necesitas saber para viajar con tranquilidad con tu perro o gato en Europa.',
+    subtitle: 'Todo lo que necesitas para viajar con tranquilidad con tu perro o gato por Europa.',
     guides: [
       {
         emoji: '📋',
         title: 'Pasaporte de mascota por país',
-        desc: 'Microchip, vacuna antirrábica, tratamiento contra tenias... Normas de entrada país a país para la UE, Reino Unido, Finlandia, Islandia y más. Verificado en fuentes oficiales.',
+        desc: 'Microchip, vacuna antirrábica, tratamiento contra tenias... Requisitos de entrada país a país para la UE, Reino Unido, Finlandia, Noruega, Islandia y más. Verificado en fuentes oficiales.',
         href: 'passeport-animal',
         badge: 'Esencial',
         tags: ['Todos los países', 'Normativa', 'Veterinario'],
@@ -100,10 +100,10 @@ const COPY = {
     ],
     comingSoon: 'Próximamente',
     comingSoonGuides: [
-      { emoji: '🏖️', title: 'Viajar en tren con tu perro', desc: 'Normas de Renfe, Eurostar, Thalys... Cómo transportar a tu mascota en tren por Europa.' },
-      { emoji: '✈️', title: 'Volar con tu mascota', desc: 'Cabina vs bodega, aerolíneas que aceptan mascotas, restricciones de tamaño y raza.' },
-      { emoji: '🚗', title: 'Road trip con tu perro', desc: 'Seguridad en el coche, paradas, fronteras, botiquín de primeros auxilios.' },
-      { emoji: '🏨', title: 'Elegir un hotel realmente pet-friendly', desc: 'Los criterios correctos a verificar antes de reservar, errores comunes a evitar.' },
+      { emoji: '🚂', title: 'Viajar en tren con tu perro', desc: 'Renfe, Eurostar, Thalys y más — todo lo que necesitas saber antes de subir al tren con tu mascota.' },
+      { emoji: '✈️', title: 'Volar con tu mascota', desc: 'Cabina o bodega, qué aerolíneas aceptan mascotas, restricciones de tamaño y raza.' },
+      { emoji: '🚗', title: 'Road trip con tu perro', desc: 'Seguridad en el coche, paradas necesarias, cruce de fronteras y botiquín de viaje para mascotas.' },
+      { emoji: '🏨', title: 'Elegir un hotel realmente pet-friendly', desc: 'Los criterios que importan de verdad, las frases engañosas que hay que detectar y las preguntas clave antes de reservar.' },
     ],
   },
 }
@@ -126,7 +126,7 @@ export default async function GuidesIndexPage({
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
-            📚 {locale === 'fr' ? 'Ressources' : locale === 'es' ? 'Recursos' : 'Resources'}
+            📚 {locale === 'fr' ? 'Ressources pratiques' : locale === 'es' ? 'Recursos prácticos' : 'Practical resources'}
           </span>
           <h1 className="text-3xl lg:text-4xl font-extrabold mb-4">{copy.hero}</h1>
           <p className="text-blue-200 text-base leading-relaxed max-w-2xl">{copy.subtitle}</p>

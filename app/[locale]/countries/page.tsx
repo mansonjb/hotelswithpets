@@ -22,13 +22,13 @@ export async function generateMetadata({
 
   const titles: Record<string, string> = {
     en: 'Pet-Friendly Hotels by Country in Europe | HotelsWithPets.com',
-    fr: 'Hôtels Acceptant Animaux par Pays en Europe | HotelsWithPets.com',
-    es: 'Hoteles con Mascotas por País en Europa | HotelsWithPets.com',
+    fr: 'Hôtels acceptant les animaux par pays en Europe | HotelsWithPets.com',
+    es: 'Hoteles con mascotas por país en Europa | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: `Browse pet-friendly hotels by country across ${countries.length} European countries. Find the best stays for you and your pet.`,
-    fr: `Parcourez les hôtels acceptant animaux par pays dans ${countries.length} pays européens.`,
-    es: `Explora hoteles con mascotas por país en ${countries.length} países europeos.`,
+    fr: `Parcourez les hôtels acceptant les animaux par pays dans ${countries.length} pays européens. Trouvez le séjour idéal pour vous et votre animal.`,
+    es: `Explora hoteles con mascotas por país en ${countries.length} países europeos. Encuentra el alojamiento ideal para ti y tu mascota.`,
   }
 
   return {
@@ -59,64 +59,64 @@ const COPY: Record<string, {
   tip: string
 }> = {
   fr: {
-    hero: 'Explorez par pays',
+    hero: 'Explorer par pays',
     subtitle: 'Trouvez les meilleurs hôtels pet-friendly dans chaque pays d\'Europe.',
-    featuredTitle: 'Destinations vedettes',
+    featuredTitle: 'Pays incontournables',
     allTitle: 'Tous les pays',
-    intro: 'Chaque pays européen a ses propres règles pour voyager avec un animal : documents requis, accès aux transports, politiques hôtelières. Nos fiches pays vous donnent une vue d\'ensemble avant de réserver.',
-    tipTitle: 'Le saviez-vous ?',
-    tip: 'Pour voyager avec votre chien ou chat dans l\'Union européenne, vous avez besoin d\'un passeport européen pour animal de compagnie et d\'un vaccin antirabique à jour. Certains pays comme la Finlande ou le Royaume-Uni ont des exigences supplémentaires.',
+    intro: 'Chaque pays a ses propres règles pour voyager avec un animal : documents requis, accès aux transports, conditions hôtelières. Nos fiches pays vous donnent l\'essentiel à savoir avant de partir.',
+    tipTitle: 'Bon à savoir',
+    tip: 'Pour voyager avec votre chien ou chat dans l\'Union européenne, il vous faut un passeport européen pour animal de compagnie et un vaccin antirabique à jour. La Finlande, le Royaume-Uni et la Norvège ont des règles supplémentaires.',
   },
   en: {
     hero: 'Browse by country',
     subtitle: 'Find the best pet-friendly hotels in every European country.',
-    featuredTitle: 'Featured destinations',
+    featuredTitle: 'Top destinations',
     allTitle: 'All countries',
-    intro: 'Each European country has its own rules for travelling with a pet: required documents, transport access, hotel policies. Our country pages give you an overview before you book.',
-    tipTitle: 'Did you know?',
-    tip: 'To travel with your dog or cat within the European Union, you need an EU pet passport and an up-to-date rabies vaccination. Some countries like Finland or the UK have additional requirements.',
+    intro: 'Each European country has its own rules for travelling with a pet: required documents, transport access, hotel policies. Our country pages give you what you need to know before you set off.',
+    tipTitle: 'Good to know',
+    tip: 'To travel with your dog or cat within the EU, you need an EU pet passport and an up-to-date rabies vaccination. Finland, the UK and Norway have additional requirements — check our full guide before you travel.',
   },
   es: {
     hero: 'Explorar por país',
     subtitle: 'Encuentra los mejores hoteles pet-friendly en cada país de Europa.',
-    featuredTitle: 'Destinos destacados',
+    featuredTitle: 'Destinos imprescindibles',
     allTitle: 'Todos los países',
-    intro: 'Cada país europeo tiene sus propias normas para viajar con mascotas: documentos requeridos, acceso al transporte, políticas hoteleras. Nuestras páginas por país te dan una visión general antes de reservar.',
-    tipTitle: '¿Sabías que?',
-    tip: 'Para viajar con tu perro o gato dentro de la Unión Europea, necesitas un pasaporte europeo para mascotas y una vacunación antirrábica al día. Algunos países como Finlandia o el Reino Unido tienen requisitos adicionales.',
+    intro: 'Cada país europeo tiene sus propias normas para viajar con mascotas: documentación necesaria, acceso al transporte, condiciones hoteleras. Nuestras páginas por país te dan lo esencial antes de salir.',
+    tipTitle: 'Importante',
+    tip: 'Para viajar con tu perro o gato dentro de la UE necesitas el pasaporte europeo para mascotas y la vacuna antirrábica al día. Finlandia, el Reino Unido y Noruega tienen requisitos adicionales — consulta nuestra guía completa.',
   },
 }
 
 const COUNTRY_INTROS: Record<string, Record<string, string>> = {
   france: {
-    fr: 'Pays le plus pet-friendly d\'Europe, la France accueille les chiens dans les cafés, restaurants et hôtels de luxe. Du surf à Biarritz aux terrasses parisiennes.',
-    en: 'Europe\'s most pet-friendly country, France welcomes dogs in cafés, restaurants and luxury hotels. From surfing in Biarritz to Parisian terraces.',
-    es: 'El país más amigable con las mascotas de Europa, Francia acoge perros en cafés, restaurantes y hoteles de lujo. Desde el surf en Biarritz hasta las terrazas parisinas.',
+    fr: "L'une des destinations les plus accueillantes pour les animaux en Europe. Les chiens sont admis dans les cafés, les brasseries et les hôtels de luxe — du surf à Biarritz aux terrasses parisiennes.",
+    en: "One of Europe's most dog-welcoming countries. From Parisian café terraces to surf beaches in Biarritz, France treats dogs like locals.",
+    es: "Uno de los países más abiertos a las mascotas de Europa. Los perros son bienvenidos en cafés, restaurantes y hoteles de lujo — desde las terrazas parisinas hasta las olas de Biarritz.",
   },
   spain: {
-    fr: 'L\'Espagne du soleil et des plages pour chiens. Barcelone, Madrid et la côte méditerranéenne offrent un accueil croissant aux propriétaires d\'animaux.',
-    en: 'Spain of sun and dog-friendly beaches. Barcelona, Madrid and the Mediterranean coast offer growing hospitality to pet owners.',
-    es: 'La España del sol y las playas para perros. Barcelona, Madrid y la costa mediterránea ofrecen una hospitalidad creciente para los dueños de mascotas.',
+    fr: "Soleil, plages accessibles aux chiens et hôtels de plus en plus ouverts aux animaux. Barcelone, Madrid et la côte méditerranéenne font de l'Espagne un choix naturel pour voyager avec son animal.",
+    en: "Sun, dog-friendly beaches and an ever-growing hotel scene open to pets. Barcelona, Madrid and the Mediterranean coast make Spain a natural choice for pet-owning travellers.",
+    es: "Sol, playas para perros y hoteles que cada vez abren más las puertas a las mascotas. Barcelona, Madrid y la costa mediterránea convierten España en un destino de lo más acogedor.",
   },
   italy: {
-    fr: 'L\'Italie où les chiens accompagnent partout : restaurants, piazzas et monuments. Rome, Florence et Venise vous attendent.',
-    en: 'Italy where dogs go everywhere: restaurants, piazzas and monuments. Rome, Florence and Venice await.',
-    es: 'Italia donde los perros van a todas partes: restaurantes, plazas y monumentos. Roma, Florencia y Venecia te esperan.',
+    fr: "En Italie, les chiens accompagnent leurs propriétaires partout : restaurants en terrasse, piazzas et balades historiques. Rome, Florence et Venise vous attendent.",
+    en: "In Italy, dogs go everywhere with their owners — terrace restaurants, piazzas and monument-lined strolls. Rome, Florence and Venice await.",
+    es: "En Italia los perros acompañan a sus dueños a todas partes: terrazas, plazas y paseos entre monumentos. Roma, Florencia y Venecia te esperan.",
   },
   belgium: {
-    fr: 'La Belgique et ses villes médiévales dog-friendly : Bruges, Gand et Anvers accueillent les animaux dans leurs cafés et hôtels boutiques.',
-    en: 'Belgium and its dog-friendly medieval cities: Bruges, Ghent and Antwerp welcome pets in their cafés and boutique hotels.',
-    es: 'Bélgica y sus ciudades medievales dog-friendly: Brujas, Gante y Amberes acogen mascotas en sus cafés y hoteles boutique.',
+    fr: "Les villes médiévales de Belgique — Bruges, Gand, Anvers — comptent parmi les plus dog-friendly d'Europe. Cafés, hôtels boutiques et towpaths de canaux accessibles à quatre pattes.",
+    en: "Belgium's medieval cities — Bruges, Ghent and Antwerp — rank among Europe's most dog-forward. Cafés, boutique hotels and canal towpaths welcome you and your pet.",
+    es: "Las ciudades medievales de Bélgica — Brujas, Gante y Amberes — están entre las más abiertas a los perros de Europa. Cafés, hoteles boutique y canales a tu disposición.",
   },
   germany: {
-    fr: 'L\'Allemagne, capitale européenne du dog-friendly. Les chiens montent dans le métro, entrent dans les musées et sont les bienvenus dans les biergartens.',
-    en: 'Germany, Europe\'s dog-friendly capital. Dogs ride the metro, enter museums and are welcomed in beer gardens.',
-    es: 'Alemania, la capital dog-friendly de Europa. Los perros viajan en metro, entran en museos y son bienvenidos en los biergarten.',
+    fr: "En Allemagne, voyager avec un chien est parfaitement normal. Métro, musées, biergartens — les chiens sont bienvenus partout et dans toutes les villes.",
+    en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens — dogs are welcome everywhere, in every city.",
+    es: "En Alemania viajar con perro es de lo más habitual. Metro, museos, biergarten — los perros son bienvenidos en todas partes y en todas las ciudades.",
   },
   portugal: {
-    fr: 'Le Portugal doux et ensoleillé, parfait pour voyager avec un animal toute l\'année. Lisbonne et Porto offrent un mélange unique de charme et d\'accessibilité.',
-    en: 'Mild, sunny Portugal, perfect for year-round pet travel. Lisbon and Porto offer a unique blend of charm and accessibility.',
-    es: 'Portugal cálido y soleado, perfecto para viajar con mascotas todo el año. Lisboa y Oporto ofrecen una mezcla única de encanto y accesibilidad.',
+    fr: "Doux, ensoleillé et accessible, le Portugal est idéal pour voyager avec un animal toute l'année. Lisbonne et Porto combinent charme, tranquillité et terrasses face au fleuve.",
+    en: "Mild, sunny and affordable, Portugal is ideal for year-round pet travel. Lisbon and Porto combine charm, relaxed vibes and riverside terraces.",
+    es: "Cálido, soleado y asequible, Portugal es ideal para viajar con mascota durante todo el año. Lisboa y Oporto combinan encanto, tranquilidad y terrazas junto al río.",
   },
 }
 
@@ -172,7 +172,7 @@ export default async function CountriesPage({
           <div className="flex items-start justify-between gap-4 flex-wrap">
             <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
               <span className="text-base flex-shrink-0">💡</span>
-              <span><strong>{copy.tipTitle}</strong> {copy.tip}</span>
+              <span><strong>{copy.tipTitle} —</strong> {copy.tip}</span>
             </p>
             <Link
               href={`/${locale}/guides/passeport-animal`}

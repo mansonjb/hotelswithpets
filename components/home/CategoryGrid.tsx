@@ -35,23 +35,23 @@ function getTopCities(catSlug: string, count = 3): string[] {
 }
 
 const INTRO: Record<string, string> = {
-  fr: 'Chaque hôtel sur HotelsWithPets a une politique animaux vérifiée. Mais tous ne sont pas adaptés à votre situation. Filtrez pour trouver exactement ce qu\'il vous faut.',
-  en: 'Every hotel on HotelsWithPets has a verified pet policy. But not every hotel suits every trip. Filter to find exactly what you need.',
-  es: 'Todos los hoteles en HotelsWithPets tienen una política de mascotas verificada. Pero no todos se adaptan a tu situación. Filtra para encontrar exactamente lo que necesitas.',
+  fr: 'Tous nos hôtels ont une politique animaux vérifiée — mais chaque voyage est différent. Filtrez par catégorie pour trouver exactement l\'hôtel qu\'il vous faut.',
+  en: 'Every hotel on HotelsWithPets has a verified pet policy — but not every hotel suits every trip. Filter by category to find exactly what you need.',
+  es: 'Todos nuestros hoteles tienen una política de mascotas verificada — pero no todos encajan con cada viaje. Filtra por categoría para dar con el hotel ideal.',
 }
 
 const PROMISE: Record<string, { title: string; items: string[] }> = {
   fr: {
     title: 'Notre engagement',
-    items: ['Politique animaux vérifiée à la source', 'Prix directs Booking.com', 'Aucun frais caché', 'Mis à jour régulièrement'],
+    items: ['Politique animaux vérifiée à la source', 'Prix en direct via Booking.com', 'Aucun frais caché', 'Mis à jour régulièrement'],
   },
   en: {
     title: 'Our commitment',
-    items: ['Pet policy verified at source', 'Direct Booking.com prices', 'No hidden fees', 'Regularly updated'],
+    items: ['Pet policy verified at source', 'Prices direct from Booking.com', 'No hidden fees', 'Regularly updated'],
   },
   es: {
     title: 'Nuestro compromiso',
-    items: ['Política verificada en la fuente', 'Precios directos Booking.com', 'Sin cargos ocultos', 'Actualizado regularmente'],
+    items: ['Política verificada en origen', 'Precios directos de Booking.com', 'Sin costes ocultos', 'Actualizado regularmente'],
   },
 }
 

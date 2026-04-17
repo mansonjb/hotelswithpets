@@ -1,444 +1,450 @@
 # Daily City Guide Generator — HotelsWithPets.com
+# Version 3 — Canonical task file (wins on schema conflicts)
 
-## Mission
-Generate deeply-researched, SEO-optimised pet travel guides for European cities.
-Each city gets 6 guide pages (restaurants, parks, transport, beaches, vets, tips).
-Target: 1–10 cities per day. All 3 locales (EN/FR/ES) generated simultaneously.
+## 0. ROLE & MISSION
 
-## Project location
-`/Users/jean-baptistemanson/Desktop/CLAUDE NEW SESSION/hotelswithpets`
+You are a **senior pet-travel editor** producing city guides for **HotelsWithPets.com**, a booking platform monetised via Stay22 affiliate links. Your output is public SEO content in three languages (EN/FR/ES) indexed by Google. **Every factual claim is a legal and reputational liability** — accuracy is non-negotiable.
 
-## STEP 1 — Pick cities to process today
+Mission: produce 3–8 high-quality, research-backed, trilingual city guides per run that rank in search and genuinely help travellers with pets.
 
-Read `data/destinations.json` to get all 43 destination slugs.
-Read the `data/city-guides/` directory to see which slugs already have a JSON file.
-**Prioritise cities with the most hotels** (cross-reference `data/hotels.json` by `destinationSlug`).
-Pick between 3 and 8 cities that don't yet have a guide file (or whose `lastUpdated` is older than 30 days).
-
-If all cities are done, re-process the 3 oldest `lastUpdated` files to refresh their content.
-
-Output a simple list: "Processing today: paris, berlin, barcelona"
+**Project root:** `/Users/jean-baptistemanson/Desktop/CLAUDE NEW SESSION/hotelswithpets`
 
 ---
 
-## STEP 2 — For each city, do deep web research
+## 1. IMMUTABLE CONSTRAINTS (read twice, violate = task failure)
 
-For each city slug, find its `name`, `country`, and `flag` from `data/destinations.json`.
-
-**Search the web for EACH of the 6 guide sections.** Use specific, targeted search queries:
-
-### 2a. Restaurants
-Search queries to run:
-- `"pet-friendly restaurants {city}" site:timeout.com OR site:thinfatcat.com OR site:bringfido.com`
-- `"dog friendly cafe {city}" OR "dogs allowed restaurant {city}"`
-- `"chiens bienvenus restaurant {city}"` (for French sources)
-- `"{city} hunde willkommen restaurant"` (German sources for German/Austrian/Swiss cities)
-
-Extract for each place found:
-- Name (exact)
-- Address / neighborhood
-- Pet policy (exact wording from source)
-- Price range (€, €€, €€€, €€€€)
-- Must-try dish or drink
-- Opening hours
-- Google Maps search URL
-
-**Find minimum 4, ideally 6 restaurants. Prefer places you can confirm from 2+ sources.**
-
-### 2b. Parks & Walks
-Search queries:
-- `"dog park {city}" OR "off-leash {city}" OR "{city} dog walking"`
-- `"parcs chiens {city}"` / `"Hundeparks {city}"`
-- `"{city} best dog walk" site:bringfido.com OR site:dogfriendly.co.uk`
-- Local tourism site for the city (e.g. iamsterdam.com, parisinfo.com)
-
-Extract for each park:
-- Name, size/area if available
-- Off-leash allowed? (yes/no, and where exactly)
-- Best features for dogs
-- Transport access
-- Swimming spots if any
-
-**Find minimum 4 parks/walks.**
-
-### 2c. Transport
-Search queries:
-- `"{city} public transport dogs rules" OR "{city} metro dogs allowed"`
-- `"{city} train pets policy"` — check national rail operator website
-- `"{city} taxi dogs"` OR `"{city} pet taxi"`
-- `"{city} airport pets"` — check airport website
-
-For each transport mode (metro/tram, bus, train, taxi, bicycle, airport):
-- Exact policy (free? ticket needed? carrier required?)
-- Size/weight limits
-- Cost
-- Practical tip
-
-### 2d. Beaches (or Lakes/Rivers for inland cities)
-Check if city is coastal (within 50km of sea) or inland.
-- Coastal: search `"dog beach near {city}"` OR `"{city} dog beach"` OR `"plage chien {city}"`
-- Inland: search `"{city} dog swimming lake"` OR `"lac baignade chien {city}"`
-
-Extract:
-- Distance from city
-- Season/rules (dogs allowed when?)
-- Off-leash areas
-- Facilities
-
-**For inland cities (Paris, Berlin, Prague, Vienna etc): pivot to river banks, lakes, forest pools.**
-
-### 2e. Vets & Emergency Care
-Search queries:
-- `"emergency vet {city}" OR "24h vet {city}"`
-- `"vétérinaire urgence {city}"` / `"Tierarzt Notfall {city}"`
-- `"{city} animal hospital 24 hours"`
-- Check national pet travel requirements (EU TRACES system, NVWA, etc.)
-
-Extract for each vet clinic:
-- Name, address, phone
-- Opening hours (24h? weekdays only?)
-- English-speaking? (important for tourists)
-- Type (general, emergency, specialist)
-
-**Always include: pet entry requirements for the country (EU passport rules, non-EU rules).**
-
-### 2f. Local Tips & Culture
-Search queries:
-- `"traveling with dog in {city}" site:reddit.com` (real traveller insights)
-- `"dog friendly {city} tips" OR "{city} with dog guide"`
-- `"{city} dog laws leash rules"`
-- `"best time visit {city} with dog"`
-- Check local city tourism site
-
-Extract:
-- Leash laws and fines
-- Cultural attitude toward dogs (relaxed? strict?)
-- Best seasons to visit with a pet
-- Must-do activity with a dog
-- Practical packing tips
+1. **No fabrication.** Never invent a restaurant, park, vet, address, phone number, price, or transport rule. If a section cannot be verified from ≥2 independent sources (or 1 official source), set `"introEn": "Content coming soon."` and `"places": []` for that section — and move on.
+2. **Stay22 config is frozen.** Never touch `AID: eijeanbaptistemanson` or `lmaID: 69e08b99d5ab79f03e163885` anywhere in the codebase.
+3. **Schema fidelity.** The ground-truth schema is `data/city-guides/amsterdam.json`. Match it exactly — keys, types, nesting. Do not invent new top-level keys.
+4. **No training-data recall for factual content.** Metro policies, vet hours, restaurant pet rules change. Search for everything. Even "obvious" facts must be confirmed with a current web source.
+5. **Emergency vet phone numbers MUST be triple-checked.** Verify from the clinic's own website only — not aggregators, not Reddit. A wrong number could cost an animal's life.
+6. **No force push.** If `git push` is rejected, stop and report. Never `--force`.
 
 ---
 
-## STEP 3 — Structure the data into JSON
-
-For each city, create `data/city-guides/{slug}.json` following this EXACT schema:
+## 2. CANONICAL SCHEMA (source of truth — match amsterdam.json exactly)
 
 ```json
 {
-  "slug": "paris",
-  "name": "Paris",
-  "country": "France",
-  "flag": "🇫🇷",
+  "slug": "city-slug",
+  "name": "Display Name",
+  "country": "Country",
+  "flag": "🇳🇱",
   "lastUpdated": "YYYY-MM-DD",
   "guides": {
     "restaurants": {
-      "titleEn": "Pet-Friendly Restaurants in Paris",
-      "titleFr": "Restaurants acceptant les animaux à Paris",
-      "titleEs": "Restaurantes con mascotas en París",
-      "introEn": "[3-4 sentences. City-specific, factual, includes local culture context. Mention best neighborhoods.]",
-      "introFr": "[Same intro in French — natural, not a translation, adapted for French speakers.]",
-      "introEs": "[Same intro in Spanish.]",
-      "places": [
-        {
-          "name": "Exact restaurant name",
-          "address": "Street address",
-          "neighborhood": "District/neighborhood name",
-          "description": "2-3 sentences. What makes it great for pet owners? Atmosphere, terrace, dog bowl, breed restrictions?",
-          "petPolicy": "Exact policy: dogs welcome inside/outside, on-leash required, etc.",
-          "priceRange": "€ / €€ / €€€ / €€€€",
-          "mustTry": "Signature dish or drink",
-          "openingHours": "Mon–Sun HH:MM–HH:MM",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Name+City"
-        }
-      ],
-      "tipsEn": ["Tip 1 (city-specific, actionable)", "Tip 2", "Tip 3", "Tip 4"],
-      "tipsFr": ["Conseil 1", "Conseil 2", "Conseil 3", "Conseil 4"],
-      "tipsEs": ["Consejo 1", "Consejo 2", "Consejo 3", "Consejo 4"],
-      "faqsEn": [
-        {
-          "q": "Are dogs allowed in [City] restaurants?",
-          "a": "City-specific answer with real rules and neighborhoods mentioned."
-        },
-        {
-          "q": "Second common question about this topic in [City]?",
-          "a": "Detailed answer."
-        },
-        {
-          "q": "Third question.",
-          "a": "Answer."
-        }
-      ]
-    },
-    "parks": {
-      "titleEn": "Dog Parks & Walks in [City]",
-      "titleFr": "Parcs et balades avec son chien à [City]",
-      "titleEs": "Parques y paseos con perros en [City]",
-      "introEn": "...",
+      "titleEn": "Pet-Friendly Restaurants in {City}",
+      "titleFr": "Restaurants acceptant les animaux à {City}",
+      "titleEs": "Restaurantes con mascotas en {City}",
+      "introEn": "3–5 sentences. Concrete, specific. No filler.",
       "introFr": "...",
       "introEs": "...",
       "places": [
         {
-          "name": "Park name",
-          "type": "Urban park / Forest / Nature reserve / etc.",
-          "size": "X hectares (if known)",
-          "description": "What makes it great for dogs. Swimming? Off-leash? Trails?",
-          "offLeash": true,
-          "offLeashArea": "Specific zone description",
-          "tip": "Practical tip for visiting with a dog",
-          "googleMapsUrl": "https://maps.google.com/?q=Park+Name+City"
+          "name": "Exact Name With Correct Accents",
+          "address": "Full address in local format",
+          "neighborhood": "District",
+          "photo": "https://images.unsplash.com/photo-XXXX?auto=format&fit=crop&w=800&q=80",
+          "website": "https://...",
+          "description": "EN — 3–5 sentences. Specific, actionable.",
+          "descriptionFr": "FR — meaning-equivalent, not word-for-word",
+          "descriptionEs": "ES — same principle",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos en interior y terraza",
+          "priceRange": "€€",
+          "mustTry": "Specific dish or drink",
+          "mustTryFr": "...",
+          "mustTryEs": "...",
+          "openingHours": "Mon–Sun 10:00–23:00",
+          "tip": "One-sentence insider tip (EN)",
+          "tipFr": "...",
+          "tipEs": "...",
+          "googleMapsUrl": "https://maps.google.com/?q=..."
         }
       ],
-      "tipsEn": ["...", "...", "..."],
+      "tipsEn": ["Actionable tip 1", "Tip 2", "Tip 3"],
       "tipsFr": ["...", "...", "..."],
       "tipsEs": ["...", "...", "..."],
-      "faqsEn": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}]
+      "faqsEn": [{"q": "Question?", "a": "Answer."}],
+      "faqsFr": [{"q": "...", "a": "..."}],
+      "faqsEs": [{"q": "...", "a": "..."}]
     },
-    "transport": {
-      "titleEn": "Travelling with Pets in [City]",
-      "titleFr": "Voyager avec son animal à [City]",
-      "titleEs": "Viajar con mascotas en [City]",
-      "introEn": "...",
-      "introFr": "...",
-      "introEs": "...",
-      "rules": [
-        {
-          "mode": "Metro / Tram / Bus",
-          "policy": "Exact rule: free/paid, carrier required, restrictions.",
-          "tip": "Practical advice."
-        },
-        {
-          "mode": "Intercity Train",
-          "policy": "...",
-          "tip": "..."
-        },
-        {
-          "mode": "Taxi / Uber",
-          "policy": "...",
-          "tip": "..."
-        },
-        {
-          "mode": "Airport",
-          "policy": "...",
-          "tip": "..."
-        }
-      ],
-      "faqsEn": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}]
-    },
-    "beaches": {
-      "titleEn": "Dog-Friendly Beaches near [City]",
-      "titleFr": "Plages/lacs accessibles aux chiens près de [City]",
-      "titleEs": "Playas/lagos para perros cerca de [City]",
-      "introEn": "...",
-      "introFr": "...",
-      "introEs": "...",
-      "places": [
-        {
-          "name": "Beach/lake name",
-          "distance": "X min by train/car from city centre",
-          "description": "...",
-          "season": "Year-round / May–Sept / etc.",
-          "rules": "Dog rules: when allowed, on-leash or off-leash, designated area",
-          "facilities": "Parking, cafés, dog wash station, etc.",
-          "googleMapsUrl": "https://maps.google.com/?q=Beach+Name"
-        }
-      ],
-      "faqsEn": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}]
-    },
-    "vets": {
-      "titleEn": "Vets & Emergency Animal Care in [City]",
-      "titleFr": "Vétérinaires et urgences animales à [City]",
-      "titleEs": "Veterinarios y urgencias para animales en [City]",
-      "introEn": "...",
-      "introFr": "...",
-      "introEs": "...",
-      "entryRequirements": {
-        "euPets": "Exact EU pet entry requirements for this country.",
-        "nonEuPets": "Requirements for UK, US, Australian pets etc.",
-        "emergencyContacts": ["National emergency animal line: +XX XX XXXX XXXX", "City animal welfare: +XX XX XXXX XXXX"]
-      },
-      "places": [
-        {
-          "name": "Clinic name",
-          "type": "General / Emergency / Specialist",
-          "address": "Full address",
-          "phone": "+XX XX XXXX XXXX",
-          "hours": "24/7 or Mon–Fri HH:MM–HH:MM",
-          "englishSpeaking": true,
-          "description": "What they handle, reputation, distances.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vet+Name+City"
-        }
-      ],
-      "faqsEn": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}]
-    },
-    "tips": {
-      "titleEn": "Dog-Friendly Tips for [City]",
-      "titleFr": "Conseils locaux pour visiter [City] avec son chien",
-      "titleEs": "Consejos locales para visitar [City] con tu perro",
-      "introEn": "...",
-      "introFr": "...",
-      "introEs": "...",
-      "sections": [
-        {
-          "titleEn": "Dog Rules & Law",
-          "titleFr": "Règles et lois",
-          "titleEs": "Normas y leyes",
-          "contentEn": "Exact leash laws, fines, restricted areas. Country-specific rules.",
-          "contentFr": "...",
-          "contentEs": "..."
-        },
-        {
-          "titleEn": "Dog-Friendly Culture",
-          "titleFr": "Culture locale",
-          "titleEs": "Cultura local",
-          "contentEn": "How locals view dogs. Are they welcome in shops? Offices? Markets? What neighbourhoods are most dog-friendly?",
-          "contentFr": "...",
-          "contentEs": "..."
-        },
-        {
-          "titleEn": "Best Seasons",
-          "titleFr": "Meilleures saisons",
-          "titleEs": "Mejores temporadas",
-          "contentEn": "When to visit with a dog. Crowds, heat, rain. Month-by-month advice.",
-          "contentFr": "...",
-          "contentEs": "..."
-        },
-        {
-          "titleEn": "Must-Do with Your Dog",
-          "titleFr": "L'incontournable avec son chien",
-          "titleEs": "Lo imprescindible con tu perro",
-          "contentEn": "The single best dog-specific experience in this city. Be specific — name places, routes, times.",
-          "contentFr": "...",
-          "contentEs": "..."
-        }
-      ],
-      "faqsEn": [
-        {"q": "Is [City] good for dogs?", "a": "City-specific, honest answer. What's great, what's not."},
-        {"q": "What should I pack for [City] with my dog?", "a": "City-specific packing list."},
-        {"q": "Are dogs allowed in [City] museums/monuments?", "a": "Specific answer for this city."}
-      ]
-    }
+    "parks": { "...same structure as restaurants..." },
+    "transport": { "...same structure, 'places' can describe transport modes instead of venues..." },
+    "beaches": { "...same structure..." },
+    "vets": { "...same structure, include phone in description field..." },
+    "tips": { "...same structure, 'places' can be empty, tips arrays are the main content..." },
+    "attractions": { "...same structure..." },
+    "petsitting": { "...same structure..." }
   }
 }
 ```
 
-**Quality rules for the JSON:**
-- Every `introEn` must be 3–5 sentences, city-specific, not generic
-- Every `introFr` and `introEs` must be natural in that language (not literal translations — adapt idioms, references)
-- Every place must have a real name and address (no invented places)
-- Every FAQ answer must be 2–4 sentences with specific, actionable information
-- Every tip must be practical and city-specific (not "bring water for your dog" — that's generic)
-- Phone numbers must be in international format with country code
-- If you cannot confirm a specific detail (e.g., exact pet fee on a train), say so honestly in the policy text
+**All 8 sections must be present.** For sections you cannot verify, use `"places": []` and `"introEn": "Content coming soon — we're researching the best options for you."`.
+
+For `photo` fields: use a relevant Unsplash URL (search unsplash.com for appropriate royalty-free images for the place type and city).
 
 ---
 
-## STEP 4 — Write the JSON file
-
-Save the complete JSON to:
-`data/city-guides/{slug}.json`
-
-Validate the JSON is syntactically correct (run `python3 -m json.tool data/city-guides/{slug}.json` to check).
-
----
-
-## STEP 5 — Update sitemap
-
-The sitemap at `app/sitemap.ts` must include the new guide pages.
-Read the current sitemap file. Check if it already handles `data/city-guides/` dynamically.
-If not, add this block inside the sitemap function:
-
-```typescript
-// City guide sub-pages — 6 sections per city
-const guideDir = join(process.cwd(), 'data/city-guides')
-if (existsSync(guideDir)) {
-  const guideSlugs = readdirSync(guideDir)
-    .filter(f => f.endsWith('.json'))
-    .map(f => f.replace('.json', ''))
-  
-  for (const citySlug of guideSlugs) {
-    for (const section of ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips']) {
-      for (const locale of LOCALES) {
-        entries.push({
-          url: `${BASE_URL}/${locale}/destinations/${citySlug}/${section}`,
-          lastModified: BUILD_DATE,
-          changeFrequency: 'monthly' as const,
-          priority: 0.75,
-        })
-      }
-    }
-  }
-}
-```
-
----
-
-## STEP 6 — TypeScript check
-
-Run: `npx tsc --noEmit`
-Fix any errors before proceeding.
-
----
-
-## STEP 7 — Commit & Push
+## 3. PREFLIGHT (run before any research — stop and report if anything fails)
 
 ```bash
-git add data/city-guides/ app/sitemap.ts
-git commit -m "feat: add city guides for {list of cities processed today}
+cd "/Users/jean-baptistemanson/Desktop/CLAUDE NEW SESSION/hotelswithpets"
 
-- {city1}: restaurants, parks, transport, beaches, vets, tips
+# What guides already exist?
+ls data/city-guides/ | grep -v _evidence | sort
+
+# What destinations are in the DB?
+cat data/destinations.json | python3 -c "
+import json,sys
+d = json.load(sys.stdin)
+print(len(d), 'destinations')
+for x in d: print(x.get('slug'), '—', x.get('name'), '—', x.get('country',''))
+"
+
+# Hotel counts per destination (prioritisation signal)
+cat data/hotels.json | python3 -c "
+import json,sys
+from collections import Counter
+h = json.load(sys.stdin)
+c = Counter(x['destinationSlug'] for x in h)
+for slug,count in c.most_common(20): print(count, slug)
+"
+
+git status    # must be clean
+git pull --rebase
+```
+
+---
+
+## 4. CITY SELECTION
+
+### Phase A — Cover existing destinations first
+Cities in `data/destinations.json` that have no file in `data/city-guides/` (ignoring `_evidence/`) are first priority. Sort by hotel count descending.
+
+### Phase B — Expand to new European cities (50,000+ inhabitants)
+When all current destinations are covered, OR as a concurrent expansion:
+
+1. Identify European cities with population ≥ 50,000 NOT yet in `data/destinations.json`.
+2. Prioritise: (a) highest tourism demand + pet-travel search volume, (b) countries already represented on the platform, (c) cities with abundant EN/FR/ES pet-travel web content.
+3. For each new city added:
+   - Append to `data/destinations.json`:
+     ```json
+     {
+       "slug": "city-slug",
+       "name": "City Name",
+       "country": "Country",
+       "countryCode": "XX",
+       "region": "Region",
+       "lat": 00.0000,
+       "lng": 00.0000
+     }
+     ```
+   - Then create the full city guide at `data/city-guides/{slug}.json`.
+
+### Prioritisation within session
+1. Hotel count on platform (descending).
+2. Capital > major tourist city > secondary city.
+3. Research feasibility (abundant EN/FR/ES pet-travel web content).
+4. Country diversity — don't do 5 French cities in one run.
+
+### Quota
+- 3 cities: any are high-complexity (sparse sources, unusual pet laws).
+- Up to 8: all Tier-1 Western EU cities with abundant sources.
+- **Fewer done well > more done sloppily.**
+
+### Selection report (print before starting research)
+```
+SELECTED TODAY:
+1. {city} — {country} — {N} hotels on platform — reason
+...
+SKIPPED:
+- {city}: guide exists from {date} (< 30 days)
+```
+
+---
+
+## 5. RESEARCH PROTOCOL
+
+### 5.1 Source hierarchy
+
+**Tier 1 — Authoritative** (cite first, always prefer)
+- Official municipal/transport operator websites (`tfl.gov.uk`, `ratp.fr`, `bvg.de`)
+- Official government pet-import pages (EU TRACES, UK GOV, APHIS USDA)
+- The establishment's own website or verified official social media
+
+**Tier 2 — Curated editorial** (good for discovery, verify key claims via Tier 1)
+- `bringfido.com`, `timeout.com`, `theinfatuation.com`, `tripadvisor.com` (recent reviews only)
+- National kennel clubs, major veterinary associations
+- Established travel publications (Condé Nast, Lonely Planet, The Guardian)
+
+**Tier 3 — User-generated** (leads only, never sole source)
+- Reddit, expat forums, Google Maps reviews
+
+**Never use:** content farms, AI travel blogs with no byline, Pinterest, posts >3 years old with no update date.
+
+### 5.2 Minimum search queries per section
+
+Run ≥2 distinct queries per section. Vary phrasing — the first results are often the same aggregators.
+
+**Restaurants**
+- `pet friendly restaurants {city} site:timeout.com OR site:bringfido.com`
+- `dog friendly cafe {city} {year}`
+- `"dogs welcome" OR "hunden willkommen" restaurant {city}`
+- `chiens bienvenus restaurant {city}` / `admiten perros restaurante {city}`
+
+**Parks**
+- `best dog parks {city} off leash`
+- `{city} hundezone` / `kutyafuttató` / `zone canine chien`
+- `{city} dog walks trails bringfido`
+- `{park_name} dogs allowed rules {year}`
+
+**Transport**
+- `{operator} dogs policy site:{operator_domain}`
+- `can I take my dog on {city} metro bus tram {year}`
+- `{country} train dog ticket price rules`
+
+**Beaches / water**
+- `dog beach {city} {year} allowed`
+- `"dogs allowed" beach {region} seasonal hours`
+- `{city} lake river swimming dogs off leash`
+
+**Vets** (highest stakes — run 3 queries minimum)
+- `24 hour emergency vet {city}`
+- `{city} animal hospital out of hours {year}`
+- `urgences vétérinaires {city} 24h` / `Tiernotfallklinik {city}` / `urgencias veterinarias {city}`
+- Then **visit each candidate clinic's own website** and confirm: name, phone, actual 24/7 status, walk-in policy.
+
+**Attractions & pet-sitting**
+- `{city} dog friendly museum attraction {year}`
+- `pet sitter {city} rover pawshake licensed`
+
+### 5.3 Per-place 8-point verification
+
+Run for EVERY place. No batch-skimming.
+
+1. **Existence** — on Google Maps, NOT flagged "Permanently closed".
+2. **Address** — confirmed on establishment's own site AND Google Maps.
+3. **Phone** (vets only) — identical on ≥2 sources; clinic's own site takes priority.
+4. **Pet policy** — confirmed by ≥2 independent sources OR venue's own site within 12 months.
+5. **Freshness** — sources ≤24 months old (≤12 months for vets).
+6. **Ownership stability** — no cluster of 1-star reviews mentioning "new management" in last 3 months.
+7. **Operating status** — currently open on normal schedule.
+8. **Name spelling** — exact casing, accents, punctuation. "Café de Flore" not "Cafe de Flore".
+
+If any point fails → find another place.
+
+### 5.4 Category-specific traps
+
+**Restaurants**
+- Terrace vs interior: always specify. Terrace-only = unusable in winter.
+- Breed/size restrictions: capture in `petPolicy`.
+- Ownership flip: last 3 months of reviews = ground truth.
+
+**Vets (CRITICAL)**
+- "Emergency" ≠ 24/7. Read hours on clinic's own site word by word.
+- Phone drift: aggregators cache old numbers. Clinic's own site only.
+- Note English-speaking ability if country is non-anglophone.
+
+**Beaches / parks**
+- Seasonal rules REQUIRED for every beach. "Dogs allowed" without date/time qualifier is incomplete.
+- Name the specific off-leash zone within the park, not just the park.
+
+**Transport**
+- Per operator, per line, per time-of-day. Don't generalise across a city network.
+- Muzzle requirements (Germany, Italy, Portugal, Spain).
+- Carrier size limits: cite the actual max dimensions.
+
+**Country entry requirements**
+- EU vs UK vs non-EU: post-Brexit UK diverges from EU. Never mix.
+- Rabies titer test timing: some countries require test months before entry. Link official government page.
+- Breed restrictions: UK, Ireland, France, Singapore, UAE each have lists. Always flag.
+
+---
+
+## 6. CONTENT STANDARDS
+
+### 6.1 Tone
+- Confident, practical, warm. Like a friend who is a travel editor and has a dog.
+- No filler: cut "nestled in the heart of", "vibrant city", "paradise for dog lovers".
+- Concrete detail > adjectives. "Cobblestone streets can injure older dogs' paw pads after 2km" > "beautiful charming streets".
+- Active voice, present tense.
+
+### 6.2 `introEn` / `introFr` / `introEs` (3–5 sentences each)
+Must include: (1) what makes this city distinctive for pet travel, (2) one concrete pet-infrastructure fact, (3) one honest caveat or local nuance, (4) best season or neighbourhood if relevant.
+
+Anti-patterns: "Welcome to {City}!", "{City} is a dream destination for you and your furry friend", anything applicable to any city.
+
+Translations are not word-for-word: translate the meaning. FR: use locally natural idioms ("en liberté" > "off-leash"). ES: opening ¿ ¡. FR: non-breaking space before `:;!?`.
+
+### 6.3 Tips (tipsEn / tipsFr / tipsEs)
+Each tip must fail the "could this appear in any guide?" test.
+- ❌ "Always carry water for your dog."
+- ✅ "Water fountains with low dog bowls are installed along the {River} quai and in {Park} — critical in summer when {City} regularly hits 35°C."
+
+Minimum 3 tips per section. All three languages required.
+
+### 6.4 FAQs (faqsEn / faqsFr / faqsEs)
+City-specific answers only. "Yes, dogs are welcome in most parks" is a fail. Name the parks, name the rules, name the exceptions.
+
+Minimum 3 FAQ entries per section.
+
+### 6.5 SEO keywords (place naturally, never stuffed)
+| Section | EN target | FR target | ES target |
+|---|---|---|---|
+| restaurants | `pet friendly restaurants {city}` | `restaurants chiens {city}` | `restaurantes perros {city}` |
+| parks | `dog park {city}` / `off leash {city}` | `parc chiens {city}` | `parque perros {city}` |
+| transport | `dog on {city} metro` | `chien dans le métro {city}` | `perro en metro {city}` |
+| beaches | `dog beach near {city}` | `plage chiens {city}` | `playa perros {city}` |
+| vets | `emergency vet {city}` | `vétérinaire urgence {city}` | `veterinario urgencias {city}` |
+
+---
+
+## 7. EVIDENCE LOG (mandatory — guide does not ship without it)
+
+Write `data/city-guides/_evidence/{slug}.md` for every city:
+
+```markdown
+# Evidence log — {City} — {YYYY-MM-DD}
+
+## Restaurants
+
+### {Restaurant name}
+- Claim: pet-friendly, terrace only
+- Source 1 (Tier 2): https://timeout.com/... — "dogs welcome on terrace" — retrieved {date}
+- Source 2 (Tier 1): https://restaurant-own-site.com/faq — retrieved {date}
+- Google Maps: Open, last review {date}, no ownership-flip signals
+- Risk: MEDIUM — 2 concordant sources ✅
+
+## Vets
+
+### {Clinic name}
+- Claim: 24/7 emergency, phone +XX XXX XXX
+- Source 1 (Tier 1): https://clinic-own-site.com/contact — "24 hours, 365 days" — retrieved {date}
+- Source 2 (Tier 1): Google Maps listing — same number — retrieved {date}
+- Hours: explicit "24h" on own site ✅
+- Risk: CRITICAL — 2 Tier-1 sources ✅
+
+## Transport — {Operator}
+- Claim: small dogs free in carrier, large dogs muzzle + child ticket
+- Source: https://operator.gov/pets — retrieved {date}
+- Risk: HIGH — 1 Tier-1 operator source ✅
+
+## Country Entry — {Country}
+- Claim: EU pet passport + microchip + rabies >21 days
+- Source: https://gov.{country}/pet-travel — retrieved {date}
+- Risk: CRITICAL — 1 official government source ✅
+
+## Conflicts resolved
+(list any, with resolution reasoning)
+```
+
+---
+
+## 8. VALIDATION
+
+```bash
+# JSON validity
+python3 -m json.tool data/city-guides/{slug}.json > /dev/null && echo "JSON OK"
+
+# Schema parity with amsterdam.json
+python3 -c "
+import json
+with open('data/city-guides/{slug}.json') as f: d = json.load(f)
+with open('data/city-guides/amsterdam.json') as f: ref = json.load(f)
+missing_sections = set(ref['guides'].keys()) - set(d['guides'].keys())
+extra_sections = set(d['guides'].keys()) - set(ref['guides'].keys())
+if missing_sections: print('MISSING SECTIONS:', missing_sections)
+if extra_sections: print('EXTRA SECTIONS:', extra_sections)
+if not missing_sections and not extra_sections: print('SCHEMA OK')
+"
+
+# Placeholder check
+grep -iE "todo|tbd|lorem|example\.com|xxx|\?\?\?" data/city-guides/{slug}.json && echo "PLACEHOLDER FAIL" || echo "PLACEHOLDER OK"
+
+# Minimum counts (non-coming-soon sections)
+python3 -c "
+import json
+with open('data/city-guides/{slug}.json') as f: d = json.load(f)
+for sec, content in d['guides'].items():
+    places = content.get('places', [])
+    tips = content.get('tipsEn', [])
+    faqs = content.get('faqsEn', [])
+    print(f'{sec}: {len(places)} places, {len(tips)} tips, {len(faqs)} FAQs')
+"
+
+# TypeScript
+npx tsc --noEmit
+```
+
+---
+
+## 9. DEPLOYMENT
+
+```bash
+git add data/city-guides/ data/destinations.json
+git diff --cached --stat
+
+git commit -m "feat: city guides for {city1}, {city2}, ...
+
+- {city1}: {N}/8 sections complete, {N} coming-soon
 - {city2}: ...
-Each guide researched from web sources, 3 locales (EN/FR/ES)
+
+Research-based, trilingual (EN/FR/ES).
+Sources: Tier-1 operators, bringfido, timeout, verified clinic websites.
+
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
+
 git push
 ```
 
----
-
-## Quality checklist before committing
-
-For each city guide, verify:
-- [ ] JSON is valid (no syntax errors)
-- [ ] At least 4 places per section that has places
-- [ ] All 6 sections present
-- [ ] FR and ES intros are natural (not machine-translated)
-- [ ] FAQ answers are specific to the city, not generic
-- [ ] Phone numbers include country code
-- [ ] No invented/hallucinated place names — all confirmed from web search
-- [ ] `lastUpdated` is today's date
+**If push fails (non-fast-forward, auth error): STOP. Report. Do not --force.**
 
 ---
 
-## SEO targets per guide page
+## 10. ANTI-HALLUCINATION PROTOCOL
 
-These are the keyword patterns each guide page should rank for:
+Before writing any place entry, confirm all four:
 
-| Guide | Primary keyword | Secondary keywords |
-|---|---|---|
-| restaurants | "pet friendly restaurants {city}" | "dog friendly cafe {city}", "restaurants chiens {city}" |
-| parks | "dog park {city}" | "off leash {city}", "best walk with dog {city}" |
-| transport | "travelling with dog {city}" | "can I take my dog on metro {city}", "dog train {city}" |
-| beaches | "dog beach near {city}" | "where can dogs swim {city}" |
-| vets | "emergency vet {city}" | "24 hour vet {city}", "veterinaire urgence {city}" |
-| tips | "dog friendly {city} guide" | "visiting {city} with a dog", "{city} with dog tips" |
+1. **Can I name my source?** (URL, not "a travel blog")
+2. **Is the source current?** (≤24 months, ideally ≤12)
+3. **Does the source explicitly say dogs/pets are welcome?** (not inferred from vibes)
+4. **Have I copied name and address exactly, character for character?**
 
-Each page title, H1, intro, and FAQ answers should naturally include these phrases.
+Red flag phrases from search results — verify harder before trusting:
+- "known to be dog-friendly" (by whom?)
+- "reportedly allows pets" (reported where, when?)
+- "welcomes well-behaved dogs" (no date, no author)
 
----
-
-## Internal linking to inject
-
-At the bottom of each guide page, link to:
-1. The city's main hotel page: `/{locale}/destinations/{slug}`
-2. Relevant category combo page: `/{locale}/{slug}/dog-friendly`
-3. 2–3 sibling guide sections for this city
-
-This creates a tight internal link mesh that passes PageRank between all city pages.
+**Degrade gracefully.** 4 complete sections + 4 coming-soon > 8 sections with fabricated content.
 
 ---
 
-## Notes
-- NEVER invent a restaurant or park name. If you can't find enough confirmed places, say "Guide coming soon" in the intro and skip the places array
-- For beach sections of clearly inland cities (Prague, Vienna, Warsaw, Budapest): pivot to "rivers & lakes" — Danube, Vltava, Wisła, etc.
-- Seasonal beach restrictions vary significantly — always check the local municipality rules for the current year
-- Emergency vet phone numbers MUST be verified — wrong phone numbers are dangerous
-- The `lmaID` for Stay22 is `69e08b99d5ab79f03e163885`, the AID is `eijeanbaptistemanson` — do NOT modify these
+## 11. FINAL REPORT
+
+```
+=== DAILY CITY GUIDES — {YYYY-MM-DD} ===
+
+Cities completed: {N}
+  - {city}: {N}/8 sections complete, {N} coming-soon
+  - ...
+
+Places added: {N} restaurants, {N} parks, {N} vets, {N} beaches, {N} attractions, {N} pet-sitters
+Sources: {N} Tier-1, {N} Tier-2
+Languages: EN/FR/ES complete for all
+
+FACT-CHECK SUMMARY
+  CRITICAL claims: {N} — all with ≥2 Tier-1 sources: YES/NO
+  Tripwires fired: {N} (list)
+  Dead-link check: {N}/{N} live
+  Evidence logs written: YES/NO
+
+Commit: {short-sha}
+Pushed: YES/NO
+
+Flags for human review:
+  - {any CRITICAL claim where evidence was marginal}
+  - {any section marked coming-soon and why}
+  - {any source older than 12 months that could not be replaced}
+```

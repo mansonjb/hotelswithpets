@@ -26,12 +26,6 @@ interface HeroProps {
   }
 }
 
-function getCategoryName(cat: (typeof categories)[number], locale: Locale): string {
-  if (locale === 'fr' && cat.nameFr) return cat.nameFr
-  if (locale === 'es' && cat.nameEs) return cat.nameEs
-  return cat.name
-}
-
 function matchDestination(query: string) {
   const q = query.trim().toLowerCase()
   if (!q) return null
@@ -56,6 +50,9 @@ const POPULAR_CITIES = [
   { name: 'Berlin', flag: '🇩🇪' },
 ]
 
+// Top categories shown as quick-pick pills
+const QUICK_CATS = ['dog-friendly', 'cat-friendly', 'luxury', 'beach-access', 'dogs-stay-free', 'near-parks']
+
 const HEADLINES: Record<string, { line1: string; line2: string }> = {
   fr: { line1: 'Votre meilleur ami mérite', line2: 'de vraies belles vacances.' },
   en: { line1: 'Your best friend deserves', line2: 'a real holiday too.' },
@@ -74,23 +71,33 @@ const TRUST: Record<string, string[]> = {
   es: ['Gratis · sin registro', 'Políticas verificadas', 'Booking.com'],
 }
 
+function getCategoryName(cat: typeof categories[number], locale: Locale): string {
+  if (locale === 'fr' && cat.nameFr) return cat.nameFr
+  if (locale === 'es' && cat.nameEs) return cat.nameEs
+  return cat.name
+}
+
 export default function Hero({ locale, dict }: HeroProps) {
   const router = useRouter()
   const { hero } = dict
   const [destQuery, setDestQuery] = useState('')
-  const [catSlug, setCatSlug] = useState('')
+  const [selectedCat, setSelectedCat] = useState('')
 
   const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
   const headlines = HEADLINES[lang]
   const review = REVIEW[lang]
   const trust = TRUST[lang]
 
+  const quickCats = QUICK_CATS
+    .map((slug) => categories.find((c) => c.slug === slug))
+    .filter(Boolean) as typeof categories
+
   function handleSearch(e: React.FormEvent) {
     e.preventDefault()
     const match = matchDestination(destQuery)
-    if (match && catSlug) router.push(`/${locale}/${match.slug}/${catSlug}`)
+    if (match && selectedCat) router.push(`/${locale}/${match.slug}/${selectedCat}`)
     else if (match) router.push(`/${locale}/destinations/${match.slug}`)
-    else if (catSlug) router.push(`/${locale}/categories/${catSlug}`)
+    else if (selectedCat) router.push(`/${locale}/categories/${selectedCat}`)
     else router.push(`/${locale}/destinations`)
   }
 
@@ -101,33 +108,24 @@ export default function Hero({ locale, dict }: HeroProps) {
 
   const popularLabel =
     locale === 'fr' ? 'Destinations populaires' :
-    locale === 'es' ? 'Destinos populares' :
-    'Popular'
+    locale === 'es' ? 'Destinos populares' : 'Popular'
+
+  const filterLabel =
+    locale === 'fr' ? 'Je voyage avec...' :
+    locale === 'es' ? 'Viajo con...' : 'I\'m travelling with...'
 
   return (
     <section className="relative overflow-hidden bg-white border-b border-gray-100">
-
-      {/* Subtle blobs : orange chaud à droite, bleu doux à gauche */}
-      <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full pointer-events-none"
-        style={{ background: 'radial-gradient(circle at 80% 20%, rgba(251,146,60,0.12) 0%, transparent 60%)' }} />
-      <div className="absolute bottom-0 left-0 w-[500px] h-[500px] rounded-full pointer-events-none"
-        style={{ background: 'radial-gradient(circle at 20% 80%, rgba(99,102,241,0.08) 0%, transparent 60%)' }} />
-
-      {/* Paw prints discrets */}
-      <div className="absolute top-12 right-[12%] text-6xl opacity-[0.04] select-none rotate-[12deg] hidden xl:block">🐾</div>
-      <div className="absolute bottom-10 left-[8%] text-5xl opacity-[0.04] select-none rotate-[-18deg] hidden lg:block">🐾</div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
           {/* ── Gauche : copy ── */}
           <div>
-            {/* Badge */}
             <span className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-semibold mb-7 border border-orange-200 bg-orange-50 text-orange-600">
               <span>🐾</span> {hero.badge}
             </span>
 
-            {/* Headline */}
             <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.08] tracking-tight mb-5 text-gray-900">
               {headlines.line1}
               <br />
@@ -166,61 +164,68 @@ export default function Hero({ locale, dict }: HeroProps) {
 
           {/* ── Droite : formulaire ── */}
           <div>
-            <div className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
+            <form onSubmit={handleSearch} className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
 
               <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">
                 {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
               </p>
 
-              <div className="space-y-3">
-                {/* Destination */}
-                <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
-                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                    </svg>
-                  </span>
-                  <input
-                    list="destinations-list"
-                    type="text"
-                    value={destQuery}
-                    onChange={(e) => setDestQuery(e.target.value)}
-                    placeholder={hero.searchDestination}
-                    className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition"
-                    autoComplete="off"
-                  />
-                  <datalist id="destinations-list">
-                    {destinations.map((d) => <option key={d.slug} value={d.name} />)}
-                  </datalist>
-                </div>
-
-                {/* Category */}
-                <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 text-base">🐾</span>
-                  <select
-                    value={catSlug}
-                    onChange={(e) => setCatSlug(e.target.value)}
-                    className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition appearance-none cursor-pointer"
-                  >
-                    <option value="">{hero.searchCategory}</option>
-                    {categories.map((cat) => (
-                      <option key={cat.slug} value={cat.slug}>{cat.emoji} {getCategoryName(cat, locale)}</option>
-                    ))}
-                  </select>
-                </div>
-
-                <button
-                  type="submit"
-                  onClick={handleSearch as unknown as React.MouseEventHandler}
-                  className="w-full font-bold py-4 rounded-2xl text-white text-sm tracking-wide transition-all duration-200 hover:-translate-y-0.5 shadow-lg hover:shadow-xl"
-                  style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)', boxShadow: '0 8px 20px rgba(99,102,241,0.25)' }}
-                >
-                  {hero.cta} →
-                </button>
+              {/* Destination */}
+              <div className="relative mb-3">
+                <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                  </svg>
+                </span>
+                <input
+                  list="destinations-list"
+                  type="text"
+                  value={destQuery}
+                  onChange={(e) => setDestQuery(e.target.value)}
+                  placeholder={hero.searchDestination}
+                  className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition"
+                  autoComplete="off"
+                />
+                <datalist id="destinations-list">
+                  {destinations.map((d) => <option key={d.slug} value={d.name} />)}
+                </datalist>
               </div>
 
-              {/* City chips */}
+              {/* Category quick-pick pills */}
+              <div className="mb-4">
+                <p className="text-[11px] text-gray-400 mb-2.5">{filterLabel}</p>
+                <div className="flex flex-wrap gap-2">
+                  {quickCats.map((cat) => {
+                    const isSelected = selectedCat === cat.slug
+                    return (
+                      <button
+                        key={cat.slug}
+                        type="button"
+                        onClick={() => setSelectedCat(isSelected ? '' : cat.slug)}
+                        className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border transition-all duration-150 ${
+                          isSelected
+                            ? 'bg-blue-600 text-white border-blue-600 shadow-sm'
+                            : 'bg-white text-gray-600 border-gray-200 hover:border-blue-300 hover:text-blue-600'
+                        }`}
+                      >
+                        <span>{cat.emoji}</span>
+                        <span>{getCategoryName(cat, locale)}</span>
+                      </button>
+                    )
+                  })}
+                </div>
+              </div>
+
+              <button
+                type="submit"
+                className="w-full font-bold py-4 rounded-2xl text-white text-sm tracking-wide transition-all duration-200 hover:-translate-y-0.5 shadow-lg hover:shadow-xl"
+                style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)', boxShadow: '0 8px 20px rgba(99,102,241,0.25)' }}
+              >
+                {hero.cta} →
+              </button>
+
+              {/* Popular city chips */}
               <div className="mt-5">
                 <p className="text-[10px] text-gray-400 uppercase tracking-widest mb-2">{popularLabel}</p>
                 <div className="flex flex-wrap gap-1.5">
@@ -245,7 +250,7 @@ export default function Hero({ locale, dict }: HeroProps) {
                   </span>
                 ))}
               </div>
-            </div>
+            </form>
           </div>
 
         </div>

@@ -117,6 +117,7 @@ export default function HotelCard({ hotel, dict }: HotelCardProps) {
             href={hotel.bookingUrl}
             target="_blank"
             rel="noopener noreferrer sponsored"
+            aria-label={`Book ${hotel.name} on Booking.com`}
             className="flex-shrink-0 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-5 py-3 rounded-xl text-sm transition-all duration-200 shadow-md hover:shadow-lg hover:-translate-y-0.5 whitespace-nowrap"
           >
             {dict.book}

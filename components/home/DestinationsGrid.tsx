@@ -90,7 +90,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             <Link
               key={dest.slug}
               href={`/${locale}/destinations/${dest.slug}`}
-              className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[i + 3]} flex flex-col justify-end p-4 shadow-sm hover:shadow-lg transition-all duration-200 hover:-translate-y-0.5`}
+              className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[(i + 3) % gradients.length]} flex flex-col justify-end p-4 shadow-sm hover:shadow-lg transition-all duration-200 hover:-translate-y-0.5`}
             >
               <div className="absolute inset-0 bg-black/15 group-hover:bg-black/5 transition-colors" />
               <div className="absolute top-2 right-3 text-3xl opacity-20 select-none">{dest.flag}</div>

@@ -52,13 +52,33 @@
       },
       {
         "emoji": "🏖️",
-        "label": "Pet-friendly beach hotels in Biarritz",
+        "label": "Beach hotels for pets in Biarritz",
         "href": "biarritz/beach-access"
       },
       {
         "emoji": "✨",
         "label": "Luxury dog-friendly hotels in Paris",
         "href": "paris/luxury"
+      },
+      {
+        "emoji": "🎉",
+        "label": "No pet fee hotels in Barcelona",
+        "href": "barcelona/dogs-stay-free"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Dog-friendly hotels in Rome",
+        "href": "rome/dog-friendly"
+      },
+      {
+        "emoji": "🌳",
+        "label": "Near-park hotels in Berlin",
+        "href": "berlin/near-parks"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Dog-friendly hotels in Lisbon",
+        "href": "lisbon/dog-friendly"
       }
     ]
   },

@@ -76,8 +76,35 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
   const availableDestinations = destinations.filter((d) => destSlugs.has(d.slug))
 
   const catName = getCategoryName(cat, locale as Locale)
+  const base = 'https://hotelswithpets.com'
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${base}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: dict.nav.categories, item: `${base}/${locale}/categories` },
+      { '@type': 'ListItem', position: 3, name: catName, item: `${base}/${locale}/categories/${slug}` },
+    ],
+  }
+
+  const itemListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: catName,
+    numberOfItems: availableDestinations.length,
+    itemListElement: availableDestinations.map((dest, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `${catName} hotels in ${dest.name}`,
+      url: `${base}/${locale}/${dest.slug}/${slug}`,
+    })),
+  }
 
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className={`bg-gradient-to-br ${cat.gradient} text-white py-20 relative overflow-hidden`}>
@@ -131,5 +158,6 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
         </div>
       </section>
     </div>
+    </>
   )
 }

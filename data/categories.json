@@ -7,7 +7,9 @@
     "emoji": "🐕",
     "gradient": "from-orange-400 to-amber-500",
     "cityCount": 43,
-    "description": "Hotels that explicitly welcome dogs of all breeds and sizes."
+    "description": "Hotels that explicitly welcome dogs of all breeds and sizes.",
+    "descriptionFr": "Hôtels qui accueillent explicitement les chiens de toutes races et tailles.",
+    "descriptionEs": "Hoteles que admiten explícitamente perros de todas las razas y tamaños."
   },
   {
     "slug": "cat-friendly",
@@ -17,7 +19,9 @@
     "emoji": "🐈",
     "gradient": "from-purple-400 to-violet-500",
     "cityCount": 43,
-    "description": "Hotels that welcome cats and provide a comfortable stay for feline travellers."
+    "description": "Hotels that welcome cats and provide a comfortable stay for feline travellers.",
+    "descriptionFr": "Hôtels qui acceptent les chats et offrent un séjour confortable aux félins.",
+    "descriptionEs": "Hoteles que admiten gatos y ofrecen una estancia cómoda para los felinos."
   },
   {
     "slug": "near-parks",
@@ -27,7 +31,9 @@
     "emoji": "🌳",
     "gradient": "from-green-400 to-emerald-500",
     "cityCount": 43,
-    "description": "Hotels within walking distance of dog-friendly parks and green spaces."
+    "description": "Hotels within walking distance of dog-friendly parks and green spaces.",
+    "descriptionFr": "Hôtels à quelques pas de parcs et espaces verts accessibles aux chiens.",
+    "descriptionEs": "Hoteles a poca distancia de parques y zonas verdes aptas para perros."
   },
   {
     "slug": "luxury",
@@ -37,7 +43,9 @@
     "emoji": "✨",
     "gradient": "from-yellow-400 to-orange-400",
     "cityCount": 43,
-    "description": "5-star hotels and upscale properties that welcome pets with premium amenities."
+    "description": "5-star hotels and upscale properties that welcome pets with premium amenities.",
+    "descriptionFr": "Hôtels 5 étoiles et établissements haut de gamme qui accueillent les animaux avec des services premium.",
+    "descriptionEs": "Hoteles de 5 estrellas y propiedades de lujo que acogen mascotas con servicios premium."
   },
   {
     "slug": "beach-access",
@@ -47,7 +55,9 @@
     "emoji": "🏖️",
     "gradient": "from-cyan-400 to-blue-500",
     "cityCount": 7,
-    "description": "Pet-friendly hotels with direct or nearby beach access for your dog."
+    "description": "Pet-friendly hotels with direct or nearby beach access for your dog.",
+    "descriptionFr": "Hôtels avec accès direct ou à proximité de la plage pour votre chien.",
+    "descriptionEs": "Hoteles con acceso directo o cercano a la playa para tu perro."
   },
   {
     "slug": "dogs-stay-free",
@@ -57,6 +67,8 @@
     "emoji": "🎉",
     "gradient": "from-pink-400 to-rose-500",
     "cityCount": 43,
-    "description": "Hotels with no pet fee — your dog stays at no extra charge."
+    "description": "Hotels with no pet fee — your dog stays at no extra charge.",
+    "descriptionFr": "Hôtels sans supplément animaux — votre chien séjourne sans frais supplémentaires.",
+    "descriptionEs": "Hoteles sin cargo adicional por mascotas — tu perro se queda sin coste extra."
   }
 ]

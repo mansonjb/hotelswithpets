@@ -23,10 +23,12 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
     fr: `Hôtels ${catName} en Europe | HotelsWithPets.com`,
     es: `Hoteles ${catName} en Europa | HotelsWithPets.com`,
   }
+  const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
+  const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
   const descTemplates: Record<string, string> = {
     en: `${cat.description} Browse ${cat.cityCount}+ destinations and find the perfect stay for you and your pet.`,
-    fr: `${cat.description} Parcourez ${cat.cityCount}+ destinations et trouvez le séjour idéal pour vous et votre animal.`,
-    es: `${cat.description} Explora ${cat.cityCount}+ destinos y encuentra el alojamiento perfecto para ti y tu mascota.`,
+    fr: `${metaDescFr ?? cat.description} Parcourez ${cat.cityCount}+ destinations et trouvez le séjour idéal pour vous et votre animal.`,
+    es: `${metaDescEs ?? cat.description} Explora ${cat.cityCount}+ destinos y encuentra el alojamiento perfecto para ti y tu mascota.`,
   }
 
   return {
@@ -76,6 +78,8 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
   const availableDestinations = destinations.filter((d) => destSlugs.has(d.slug))
 
   const catName = getCategoryName(cat, locale as Locale)
+  const catDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
+  const catDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
   const base = 'https://hotelswithpets.com'
 
   const breadcrumbSchema = {
@@ -123,7 +127,9 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
             <div>
               <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{catName}</h1>
               <p className="text-white/80 text-lg">{cat.cityCount} {p.categories.destinations}</p>
-              <p className="text-white/70 text-base mt-2 max-w-2xl">{cat.description}</p>
+              <p className="text-white/70 text-base mt-2 max-w-2xl">
+                {locale === 'fr' ? (catDescFr ?? cat.description) : locale === 'es' ? (catDescEs ?? cat.description) : cat.description}
+              </p>
             </div>
           </div>
         </div>

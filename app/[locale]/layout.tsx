@@ -54,6 +54,11 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={inter.className}>
+      <head>
+        <link rel="preconnect" href="https://www.booking.com" />
+        <link rel="preconnect" href="https://www.stay22.com" />
+        <link rel="dns-prefetch" href="https://scripts.stay22.com" />
+      </head>
       <body className="bg-white text-gray-900 antialiased">
         <Header locale={locale as Locale} dict={dict} />
         <main>{children}</main>

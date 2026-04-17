@@ -56,43 +56,22 @@ const POPULAR_CITIES = [
   { name: 'Berlin', flag: '🇩🇪' },
 ]
 
-const HEADLINES: Record<string, { line1: string; line2: string; accent: string }> = {
-  fr: {
-    line1: 'Votre meilleur ami mérite',
-    line2: 'de vraies belles vacances.',
-    accent: 'Hôtels vérifiés. Animaux vraiment bienvenus.',
-  },
-  en: {
-    line1: 'Your best friend deserves',
-    line2: 'a real holiday too.',
-    accent: 'Verified hotels. Pets truly welcome.',
-  },
-  es: {
-    line1: 'Tu mejor amigo merece',
-    line2: 'unas vacaciones de verdad.',
-    accent: 'Hoteles verificados. Mascotas bienvenidas.',
-  },
+const HEADLINES: Record<string, { line1: string; line2: string }> = {
+  fr: { line1: 'Votre meilleur ami mérite', line2: 'de vraies belles vacances.' },
+  en: { line1: 'Your best friend deserves', line2: 'a real holiday too.' },
+  es: { line1: 'Tu mejor amigo merece', line2: 'unas vacaciones de verdad.' },
 }
 
 const REVIEW: Record<string, { text: string; author: string }> = {
-  fr: {
-    text: '"Enfin un site qui vérifie vraiment les politiques animaux. Aucune mauvaise surprise."',
-    author: 'Sophie T., Paris',
-  },
-  en: {
-    text: '"Finally a site that actually verifies pet policies. No nasty surprises on arrival."',
-    author: 'Claire M., London',
-  },
-  es: {
-    text: '"Por fin un sitio que verifica las políticas reales. Sin sorpresas a la llegada."',
-    author: 'Lucía M., Madrid',
-  },
+  fr: { text: '"Enfin un site qui vérifie vraiment les politiques animaux. Aucune mauvaise surprise à l\'arrivée."', author: 'Sophie T., Paris' },
+  en: { text: '"Finally a site that actually verifies pet policies. No nasty surprises on arrival."', author: 'Claire M., London' },
+  es: { text: '"Por fin un sitio que verifica las políticas reales. Sin sorpresas a la llegada."', author: 'Lucía M., Madrid' },
 }
 
 const TRUST: Record<string, string[]> = {
-  fr: ['Gratuit, sans inscription', 'Politiques vérifiées', 'Réservation directe Booking.com'],
-  en: ['Free, no sign-up', 'Policies verified', 'Book on Booking.com'],
-  es: ['Gratis, sin registro', 'Políticas verificadas', 'Reserva en Booking.com'],
+  fr: ['Gratuit · sans inscription', 'Politiques vérifiées', 'Booking.com'],
+  en: ['Free · no sign-up', 'Verified policies', 'Booking.com'],
+  es: ['Gratis · sin registro', 'Políticas verificadas', 'Booking.com'],
 }
 
 export default function Hero({ locale, dict }: HeroProps) {
@@ -123,106 +102,75 @@ export default function Hero({ locale, dict }: HeroProps) {
   const popularLabel =
     locale === 'fr' ? 'Destinations populaires' :
     locale === 'es' ? 'Destinos populares' :
-    'Popular destinations'
+    'Popular'
 
   return (
-    <section
-      className="relative overflow-hidden text-white bg-gradient-to-br from-slate-800 via-blue-950 to-slate-900"
-    >
-      {/* Warm ambient glow — honey gold, not orange */}
-      <div
-        className="absolute top-[-60px] right-[-80px] w-[550px] h-[550px] rounded-full pointer-events-none"
-        style={{ background: 'radial-gradient(circle, rgba(212,168,43,0.18) 0%, transparent 70%)' }}
-      />
-      <div
-        className="absolute bottom-[-100px] left-[-80px] w-[450px] h-[450px] rounded-full pointer-events-none"
-        style={{ background: 'radial-gradient(circle, rgba(180,130,30,0.12) 0%, transparent 70%)' }}
-      />
+    <section className="relative overflow-hidden bg-white border-b border-gray-100">
 
-      {/* Paw decorations */}
-      <div className="absolute top-10 left-[6%] text-5xl opacity-[0.05] select-none rotate-[-20deg] hidden lg:block">🐾</div>
-      <div className="absolute bottom-16 right-[5%] text-6xl opacity-[0.05] select-none rotate-[15deg] hidden lg:block">🐾</div>
+      {/* Subtle blobs : orange chaud à droite, bleu doux à gauche */}
+      <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full pointer-events-none"
+        style={{ background: 'radial-gradient(circle at 80% 20%, rgba(251,146,60,0.12) 0%, transparent 60%)' }} />
+      <div className="absolute bottom-0 left-0 w-[500px] h-[500px] rounded-full pointer-events-none"
+        style={{ background: 'radial-gradient(circle at 20% 80%, rgba(99,102,241,0.08) 0%, transparent 60%)' }} />
 
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16 w-full">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-center">
+      {/* Paw prints discrets */}
+      <div className="absolute top-12 right-[12%] text-6xl opacity-[0.04] select-none rotate-[12deg] hidden xl:block">🐾</div>
+      <div className="absolute bottom-10 left-[8%] text-5xl opacity-[0.04] select-none rotate-[-18deg] hidden lg:block">🐾</div>
 
-          {/* Left — copy */}
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+
+          {/* ── Gauche : copy ── */}
           <div>
             {/* Badge */}
-            <span
-              className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-medium mb-8 border"
-              style={{ background: 'rgba(212,168,43,0.12)', borderColor: 'rgba(212,168,43,0.25)', color: '#e8cc7a' }}
-            >
+            <span className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-semibold mb-7 border border-orange-200 bg-orange-50 text-orange-600">
               <span>🐾</span> {hero.badge}
             </span>
 
             {/* Headline */}
-            <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.08] mb-4 tracking-tight">
-              <span className="text-white">{headlines.line1}</span>
+            <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.08] tracking-tight mb-5 text-gray-900">
+              {headlines.line1}
               <br />
-              <span style={{ background: 'linear-gradient(90deg, #d4a82b, #e8cc7a)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+              <span className="bg-gradient-to-r from-orange-500 to-blue-600 bg-clip-text text-transparent">
                 {headlines.line2}
               </span>
             </h1>
 
-            <p className="text-sm font-semibold mb-6 tracking-wide" style={{ color: '#c8a840' }}>
-              {headlines.accent}
-            </p>
-
-            <p className="text-base leading-relaxed mb-10 max-w-lg" style={{ color: '#94a3b8' }}>
+            <p className="text-base text-gray-500 leading-relaxed mb-9 max-w-md">
               {hero.subtitle}
             </p>
 
             {/* Stats */}
-            <div className="flex flex-wrap gap-x-8 gap-y-5 mb-10">
+            <div className="flex flex-wrap gap-x-8 gap-y-4 mb-9 pb-9 border-b border-gray-100">
               {[
                 { value: hero.stat1Value, label: hero.stat1Label },
                 { value: hero.stat2Value, label: hero.stat2Label },
                 { value: hero.stat3Value, label: hero.stat3Label },
               ].map((s) => (
-                <div key={s.label} className="flex flex-col">
-                  <span className="text-3xl font-black text-white leading-none tracking-tight">{s.value}</span>
-                  <span className="text-[11px] mt-1.5 uppercase tracking-widest" style={{ color: '#64748b' }}>{s.label}</span>
+                <div key={s.label}>
+                  <p className="text-3xl font-black text-gray-900 leading-none">{s.value}</p>
+                  <p className="text-[11px] text-gray-400 mt-1.5 uppercase tracking-widest">{s.label}</p>
                 </div>
               ))}
             </div>
 
-            {/* Review quote */}
-            <div
-              className="flex items-start gap-3 p-4 rounded-2xl border"
-              style={{ background: 'rgba(255,255,255,0.04)', borderColor: 'rgba(255,255,255,0.07)' }}
-            >
-              <div className="flex-shrink-0 text-lg mt-0.5" style={{ color: '#d4a82b' }}>★★★★★</div>
+            {/* Review */}
+            <div className="flex items-start gap-3 p-4 rounded-2xl bg-gray-50 border border-gray-100">
+              <span className="text-amber-400 text-base flex-shrink-0 mt-0.5">★★★★★</span>
               <div>
-                <p className="text-sm italic leading-relaxed" style={{ color: '#cbd5e1' }}>{review.text}</p>
-                <p className="text-xs mt-1.5" style={{ color: '#475569' }}>{review.author}</p>
+                <p className="text-sm text-gray-700 italic leading-relaxed">{review.text}</p>
+                <p className="text-xs text-gray-400 mt-1.5">{review.author}</p>
               </div>
             </div>
           </div>
 
-          {/* Right — search card */}
-          <div className="relative">
-            <div
-              className="absolute -inset-3 rounded-3xl blur-2xl opacity-30"
-              style={{ background: 'linear-gradient(135deg, rgba(212,168,43,0.3), rgba(30,58,138,0.2))' }}
-            />
-            <form
-              onSubmit={handleSearch}
-              className="relative rounded-3xl p-7 shadow-2xl border"
-              style={{ background: 'rgba(255,255,255,0.06)', backdropFilter: 'blur(20px)', borderColor: 'rgba(255,255,255,0.1)' }}
-            >
-              {/* Card header */}
-              <div className="flex items-center gap-2 mb-6">
-                <span className="text-2xl">🔍</span>
-                <div>
-                  <p className="text-sm font-bold text-white">
-                    {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
-                  </p>
-                  <p className="text-xs" style={{ color: '#64748b' }}>
-                    {locale === 'fr' ? 'Parmi nos hôtels pet-friendly en Europe' : locale === 'es' ? 'Entre nuestros hoteles pet-friendly en Europa' : 'Among our pet-friendly hotels in Europe'}
-                  </p>
-                </div>
-              </div>
+          {/* ── Droite : formulaire ── */}
+          <div>
+            <div className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
+
+              <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">
+                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
+              </p>
 
               <div className="space-y-3">
                 {/* Destination */}
@@ -239,7 +187,7 @@ export default function Hero({ locale, dict }: HeroProps) {
                     value={destQuery}
                     onChange={(e) => setDestQuery(e.target.value)}
                     placeholder={hero.searchDestination}
-                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-amber-400 transition"
+                    className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition"
                     autoComplete="off"
                   />
                   <datalist id="destinations-list">
@@ -253,7 +201,7 @@ export default function Hero({ locale, dict }: HeroProps) {
                   <select
                     value={catSlug}
                     onChange={(e) => setCatSlug(e.target.value)}
-                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-amber-400 transition appearance-none cursor-pointer"
+                    className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition appearance-none cursor-pointer"
                   >
                     <option value="">{hero.searchCategory}</option>
                     {categories.map((cat) => (
@@ -264,26 +212,24 @@ export default function Hero({ locale, dict }: HeroProps) {
 
                 <button
                   type="submit"
-                  className="block w-full font-bold py-4 rounded-2xl text-center transition-all duration-200 hover:-translate-y-0.5 text-sm tracking-wide text-white"
-                  style={{ background: 'linear-gradient(135deg, #1e40af, #3b82f6)', boxShadow: '0 8px 24px rgba(59,130,246,0.35)' }}
+                  onClick={handleSearch as unknown as React.MouseEventHandler}
+                  className="w-full font-bold py-4 rounded-2xl text-white text-sm tracking-wide transition-all duration-200 hover:-translate-y-0.5 shadow-lg hover:shadow-xl"
+                  style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)', boxShadow: '0 8px 20px rgba(99,102,241,0.25)' }}
                 >
                   {hero.cta} →
                 </button>
               </div>
 
-              {/* Popular city chips */}
+              {/* City chips */}
               <div className="mt-5">
-                <p className="text-[10px] uppercase tracking-widest mb-2" style={{ color: 'rgba(255,255,255,0.3)' }}>
-                  {popularLabel}
-                </p>
+                <p className="text-[10px] text-gray-400 uppercase tracking-widest mb-2">{popularLabel}</p>
                 <div className="flex flex-wrap gap-1.5">
                   {POPULAR_CITIES.map((city) => (
                     <button
                       key={city.name}
                       type="button"
                       onClick={() => handleCityChip(city.name)}
-                      className="text-[11px] px-2.5 py-1 rounded-full transition-all duration-150 border hover:border-amber-400/40 hover:bg-amber-400/10 hover:text-white"
-                      style={{ color: 'rgba(255,255,255,0.55)', background: 'rgba(255,255,255,0.06)', borderColor: 'rgba(255,255,255,0.1)' }}
+                      className="text-[11px] px-2.5 py-1 rounded-full border border-gray-200 bg-white text-gray-600 hover:border-orange-300 hover:bg-orange-50 hover:text-orange-600 transition-all duration-150"
                     >
                       {city.flag} {city.name}
                     </button>
@@ -291,18 +237,15 @@ export default function Hero({ locale, dict }: HeroProps) {
                 </div>
               </div>
 
-              {/* Trust strip */}
-              <div
-                className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t"
-                style={{ borderColor: 'rgba(255,255,255,0.07)' }}
-              >
+              {/* Trust */}
+              <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t border-gray-100">
                 {trust.map((item) => (
-                  <span key={item} className="text-[10px] flex items-center gap-1" style={{ color: 'rgba(255,255,255,0.35)' }}>
-                    <span className="text-emerald-400">✓</span> {item}
+                  <span key={item} className="text-[10px] text-gray-400 flex items-center gap-1">
+                    <span className="text-emerald-500">✓</span> {item}
                   </span>
                 ))}
               </div>
-            </form>
+            </div>
           </div>
 
         </div>

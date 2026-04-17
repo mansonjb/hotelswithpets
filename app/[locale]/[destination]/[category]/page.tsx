@@ -55,9 +55,9 @@ export async function generateMetadata({
   const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
 
   const titles: Record<string, string> = {
-    en: `Best ${cat.name} Hotels in ${dest.name} (${year}) — Top ${comboHotels.length} Picks`,
-    fr: `Meilleurs hôtels ${catName} à ${dest.name} (${year}) — Top ${comboHotels.length}`,
-    es: `Mejores hoteles ${catName} en ${dest.name} (${year}) — Top ${comboHotels.length}`,
+    en: `Best ${cat.name} Hotels in ${dest.name} (${year}): Top ${comboHotels.length} Picks`,
+    fr: `Meilleurs hôtels ${catName} à ${dest.name} (${year}): Top ${comboHotels.length}`,
+    es: `Mejores hoteles ${catName} en ${dest.name} (${year}): Top ${comboHotels.length}`,
   }
   const descriptions: Record<string, string> = {
     en: `Find the ${comboHotels.length} best ${cat.name.toLowerCase()} hotels in ${dest.name}, ${dest.country}. Handpicked, verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
@@ -340,7 +340,7 @@ export default async function ComboPage({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
           <div className="lg:grid lg:grid-cols-[1fr_320px] lg:gap-12 items-start">
 
-            {/* Left column — main content */}
+            {/* Left column. Main content */}
             <div className="min-w-0">
 
               {/* ① Editorial intro */}
@@ -354,7 +354,7 @@ export default async function ComboPage({
                 </div>
               </section>
 
-              {/* Mobile-only CTA — sidebar is hidden on mobile, put CTA above fold here */}
+              {/* Mobile-only CTA. Sidebar is hidden on mobile, put CTA above fold here */}
               {comboHotels.length > 0 && (
                 <div className="lg:hidden mb-10">
                   <div className={`bg-gradient-to-r ${cat.gradient} rounded-2xl p-5 flex items-center justify-between gap-4 shadow-lg`}>
@@ -376,7 +376,7 @@ export default async function ComboPage({
                 </div>
               )}
 
-              {/* ② Why {dest} callout — blue gradient box */}
+              {/* ② Why {dest} callout. Blue gradient box */}
               <section aria-label={`Why ${dest.name}`} className="mb-10">
                 <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-indigo-700 p-6 lg:p-8 text-white shadow-lg">
                   <h2 className="text-xl font-extrabold mb-5 leading-tight">
@@ -445,7 +445,7 @@ export default async function ComboPage({
                 )}
               </section>
 
-              {/* ⑤ Inline map — full width, after hotel list */}
+              {/* ⑤ Inline map. Full width, after hotel list */}
               {'lat' in dest && 'lng' in dest && (
                 <section aria-label="Map" className="mb-10">
                   <h2 className="text-xl font-extrabold text-gray-900 mb-4">
@@ -518,7 +518,7 @@ export default async function ComboPage({
               </p>
             </div>
 
-            {/* Right column — sticky sidebar */}
+            {/* Right column. Sticky sidebar */}
             <aside className="hidden lg:block">
               <div className="sticky top-6 flex flex-col gap-5">
 

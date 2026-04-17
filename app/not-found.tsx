@@ -6,7 +6,7 @@ export default function NotFound() {
       <span className="text-8xl mb-6 block">🐾</span>
       <h1 className="text-4xl font-extrabold text-gray-900 mb-3">Page not found</h1>
       <p className="text-gray-500 text-lg mb-8 max-w-md">
-        We couldn't find that page — the hotel may have moved or this URL is incorrect.
+        We couldn't find that page. The hotel may have moved or this URL is incorrect.
       </p>
       <div className="flex flex-wrap gap-3 justify-center">
         <Link

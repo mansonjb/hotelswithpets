@@ -117,7 +117,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
         <div className="relative md:w-2/5 h-56 md:h-auto md:min-h-[260px] flex-shrink-0 overflow-hidden">
           <Image
             src={`/images/hotels/${hotel.id}.jpg`}
-            alt={`${hotel.name} — ${catName} hotel in ${destName}`}
+            alt={`${hotel.name}: ${catName} hotel in ${destName}`}
             fill
             sizes="(max-width: 768px) 100vw, 40vw"
             className="object-cover group-hover:scale-105 transition-transform duration-500"

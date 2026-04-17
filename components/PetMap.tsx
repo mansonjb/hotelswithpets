@@ -27,7 +27,7 @@ export default function PetMap({ lat, lng, destName, height = 420 }: PetMapProps
       <iframe
         id="stay22-widget"
         src={src}
-        title={`Pet-friendly hotels map — ${destName}`}
+        title={`Pet-friendly hotels in ${destName}`}
         width="100%"
         height={height}
         style={{ border: 0, display: 'block' }}

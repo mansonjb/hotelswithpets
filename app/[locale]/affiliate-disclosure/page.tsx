@@ -33,7 +33,7 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
             This means that when you click on a hotel link and make a booking, we may receive a commission at no additional cost to you.
           </p>
           <p>
-            These commissions help us run and improve this website — keeping it free to use for all visitors.
+            These commissions help us run and improve this website, keeping it free for all visitors.
           </p>
           <h2>Our Editorial Independence</h2>
           <p>

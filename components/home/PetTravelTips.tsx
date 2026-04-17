@@ -11,7 +11,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '📋',
       title: 'Verify before you book',
-      text: 'Always confirm the pet policy directly with the hotel — fees and restrictions can change. Our data is updated regularly but a quick call avoids surprises.',
+      text: 'Always confirm the pet policy directly with the hotel. Fees and restrictions can change. Our data is updated regularly but a quick call avoids surprises.',
     },
     {
       icon: '🛂',
@@ -21,7 +21,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '🐕',
       title: 'Book the right room',
-      text: 'Not all rooms in a pet-friendly hotel accept pets. Request a pet-designated room at booking and confirm you\'re on a suitable floor — ideally with easy outdoor access.',
+      text: 'Not all rooms in a pet-friendly hotel accept pets. Request a pet-designated room at booking and confirm you\'re on a suitable floor. Ideally with easy outdoor access.',
     },
     {
       icon: '⭐',
@@ -33,7 +33,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '📋',
       title: 'Vérifiez avant de réserver',
-      text: 'Confirmez toujours la politique animaux directement avec l\'hôtel — les frais et restrictions peuvent changer. Nos données sont mises à jour régulièrement mais un appel rapide évite les mauvaises surprises.',
+      text: 'Confirmez toujours la politique animaux directement avec l\'hôtel. Les frais et restrictions peuvent changer. Nos données sont mises à jour régulièrement mais un appel rapide évite les mauvaises surprises.',
     },
     {
       icon: '🛂',
@@ -43,7 +43,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '🐕',
       title: 'Réservez la bonne chambre',
-      text: 'Toutes les chambres d\'un hôtel pet-friendly n\'acceptent pas les animaux. Demandez une chambre adaptée à la réservation et confirmez votre étage — idéalement avec un accès facile à l\'extérieur.',
+      text: 'Toutes les chambres d\'un hôtel pet-friendly n\'acceptent pas les animaux. Demandez une chambre adaptée à la réservation et confirmez votre étage. Idéalement avec un accès facile à l\'extérieur.',
     },
     {
       icon: '⭐',
@@ -55,7 +55,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '📋',
       title: 'Verifica antes de reservar',
-      text: 'Confirma siempre la política de mascotas directamente con el hotel — las tarifas y restricciones pueden cambiar. Actualizamos nuestros datos regularmente, pero una llamada rápida evita sorpresas.',
+      text: 'Confirma siempre la política de mascotas directamente con el hotel. Las tarifas y restricciones pueden cambiar. Actualizamos nuestros datos regularmente, pero una llamada rápida evita sorpresas.',
     },
     {
       icon: '🛂',
@@ -65,7 +65,7 @@ const tips: Record<Locale, Tip[]> = {
     {
       icon: '🐕',
       title: 'Reserva la habitación adecuada',
-      text: 'No todas las habitaciones de un hotel pet-friendly aceptan mascotas. Solicita una habitación designada para mascotas y confirma tu planta — idealmente con fácil acceso al exterior.',
+      text: 'No todas las habitaciones de un hotel pet-friendly aceptan mascotas. Solicita una habitación designada para mascotas y confirma tu planta. Idealmente con fácil acceso al exterior.',
     },
     {
       icon: '⭐',

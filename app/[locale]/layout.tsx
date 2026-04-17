@@ -17,14 +17,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Promise<Metadata> {
   const { locale } = await params
   const titles: Record<Locale, string> = {
-    en: 'HotelsWithPets — Pet-Friendly Hotels in Europe',
-    fr: 'HotelsWithPets — Hôtels Pet-Friendly en Europe',
-    es: 'HotelsWithPets — Hoteles Pet-Friendly en Europa',
+    en: 'HotelsWithPets: Pet-Friendly Hotels in Europe',
+    fr: 'HotelsWithPets: Hôtels Pet-Friendly en Europe',
+    es: 'HotelsWithPets: Hoteles Pet-Friendly en Europa',
   }
   const descriptions: Record<Locale, string> = {
-    en: 'Find the best pet-friendly hotels in Europe. Dog-friendly stays, beach access, luxury hotels and more — book via Booking.com.',
-    fr: 'Trouvez les meilleurs hôtels pet-friendly en Europe. Séjours avec chiens, accès plage, hôtels de luxe — réservez sur Booking.com.',
-    es: 'Encuentra los mejores hoteles pet-friendly en Europa. Estancias con perros, acceso a la playa, hoteles de lujo — reserva en Booking.com.',
+    en: 'Find the best pet-friendly hotels in Europe. Dog-friendly stays, beach access, luxury hotels and more. Book via Booking.com.',
+    fr: 'Trouvez les meilleurs hôtels pet-friendly en Europe. Séjours avec chiens, accès plage, hôtels de luxe. Réservez sur Booking.com.',
+    es: 'Encuentra los mejores hoteles pet-friendly en Europa. Estancias con perros, acceso a la playa, hoteles de lujo. Reserva en Booking.com.',
   }
   const l = hasLocale(locale) ? locale : 'en'
   return {
@@ -63,7 +63,7 @@ export default async function LocaleLayout({
         <Header locale={locale as Locale} dict={dict} />
         <main>{children}</main>
         <Footer locale={locale as Locale} dict={dict} />
-        {/* Stay22 LetMeAllez — auto-upgrades Booking.com links to multi-platform affiliate */}
+        {/* Stay22 LetMeAllez. Auto-upgrades Booking.com links to multi-platform affiliate */}
         <Script
           id="stay22-letmeallez"
           strategy="afterInteractive"

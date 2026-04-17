@@ -22,7 +22,7 @@ export default function Stay22Map({ lat, lng, destName, height = 420 }: Stay22Ma
     <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
       <iframe
         src={src}
-        title={`Pet-friendly hotels map — ${destName}`}
+        title={`Pet-friendly hotels in ${destName}`}
         width="100%"
         height={height}
         style={{ border: 0, display: 'block' }}

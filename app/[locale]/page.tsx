@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
   const dict = await getDictionary(locale as Locale)
 
   const titles: Record<string, string> = {
-    en: 'Pet-Friendly Hotels in Europe — Find & Book | HotelsWithPets.com',
+    en: 'Pet-Friendly Hotels in Europe: Find & Book | HotelsWithPets.com',
     fr: 'Hôtels Acceptant les Animaux en Europe | HotelsWithPets.com',
     es: 'Hoteles que Admiten Mascotas en Europa | HotelsWithPets.com',
   }
@@ -67,7 +67,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     '@type': 'WebSite',
     name: 'HotelsWithPets',
     url: SITE_URL,
-    description: 'Pet-friendly hotels across Europe — verified policies, real guest ratings.',
+    description: 'Pet-friendly hotels across Europe. Verified policies, real guest ratings.',
     potentialAction: {
       '@type': 'SearchAction',
       target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/en/destinations/{search_term_string}` },

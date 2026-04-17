@@ -45,7 +45,7 @@ const content: Record<string, {
 }> = {
   en: {
     title: 'About HotelsWithPets.com',
-    subtitle: 'We help pet owners travel Europe with confidence — finding hotels that truly welcome animals.',
+    subtitle: 'We help pet owners travel Europe with confidence. Finding hotels that truly welcome animals.',
     mission: {
       title: 'Our Mission',
       text: 'Travelling with a pet shouldn\'t mean spending hours cross-checking hotel policies, calling ahead to confirm fees, or worrying whether your dog will actually be welcome. HotelsWithPets.com curates the best pet-friendly hotels across 43 European destinations so you can spend more time planning the adventure and less time on logistics.',
@@ -53,7 +53,7 @@ const content: Record<string, {
     how: {
       title: 'How We Select Hotels',
       steps: [
-        { title: 'Pet policy verification', text: 'We only list hotels that explicitly accept pets. We check official Booking.com pet policies and filter for genuine welcomes — not just "small pets considered".' },
+        { title: 'Pet policy verification', text: 'We only list hotels that explicitly accept pets. We check official Booking.com pet policies and filter for genuine welcomes. Not just "small pets considered".' },
         { title: 'Guest ratings', text: 'Every hotel on our site has a minimum Booking.com guest score of 8.0. Pet-friendly doesn\'t mean compromising on quality.' },
         { title: 'Category tagging', text: 'We tag hotels by what matters to pet owners: dog-friendly, cat-friendly, beach access, proximity to parks, luxury, and no-pet-fee properties.' },
         { title: 'Regular updates', text: 'Pet policies change. We refresh our data regularly to ensure the information you see reflects current hotel policies.' },
@@ -61,7 +61,7 @@ const content: Record<string, {
     },
     affiliate: {
       title: 'Affiliate Disclosure',
-      text: 'HotelsWithPets.com earns a commission when you book through our links to Booking.com. This comes at no extra cost to you and helps us maintain and improve the site. Our editorial choices are never influenced by affiliate relationships — we list hotels based on quality and genuine pet-friendliness.',
+      text: 'HotelsWithPets.com earns a commission when you book through our links to Booking.com. This comes at no extra cost to you and helps us maintain and improve the site. Our editorial choices are never influenced by affiliate relationships. We list hotels based on quality and genuine pet-friendliness.',
     },
     contact: {
       title: 'Contact & Corrections',
@@ -70,7 +70,7 @@ const content: Record<string, {
   },
   fr: {
     title: 'À propos de HotelsWithPets.com',
-    subtitle: 'Nous aidons les propriétaires d\'animaux à voyager en Europe en toute confiance — en trouvant des hôtels qui accueillent vraiment les animaux.',
+    subtitle: 'Nous aidons les propriétaires d\'animaux à voyager en Europe en toute confiance. En trouvant des hôtels qui accueillent vraiment les animaux.',
     mission: {
       title: 'Notre Mission',
       text: 'Voyager avec un animal de compagnie ne devrait pas signifier passer des heures à vérifier les politiques d\'hôtels, appeler pour confirmer les frais ou s\'inquiéter de l\'accueil réservé à votre chien. HotelsWithPets.com sélectionne les meilleurs hôtels acceptant les animaux dans 43 destinations européennes.',
@@ -95,7 +95,7 @@ const content: Record<string, {
   },
   es: {
     title: 'Sobre HotelsWithPets.com',
-    subtitle: 'Ayudamos a los dueños de mascotas a viajar por Europa con confianza — encontrando hoteles que realmente dan la bienvenida a los animales.',
+    subtitle: 'Ayudamos a los dueños de mascotas a viajar por Europa con confianza. Encontrando hoteles que realmente dan la bienvenida a los animales.',
     mission: {
       title: 'Nuestra Misión',
       text: 'Viajar con una mascota no debería significar pasar horas verificando políticas de hoteles o preocuparse por si tu perro será realmente bienvenido. HotelsWithPets.com selecciona los mejores hoteles que admiten mascotas en 43 destinos europeos.',

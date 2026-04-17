@@ -72,7 +72,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const { locale, slug } = await params
   if (!hasLocale(locale)) notFound()
 
-  const dest = destinations.find((d) => d.slug === slug)
+  const dest = destinations.find((d) => d.slug === slug) as DestWithWeather | undefined
   if (!dest) notFound()
 
   const dict = await getDictionary(locale as Locale)
@@ -253,6 +253,78 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 country={dest.country}
                 height={380}
               />
+          </div>
+        </section>
+      )}
+
+      {/* Weather section */}
+      {dest.weather && (
+        <section className="py-12 bg-white border-t border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-extrabold text-gray-900 mb-2">
+              🌡️ {locale === 'fr' ? `Météo typique à ${dest.name}` : locale === 'es' ? `Clima típico en ${dest.name}` : `Typical weather in ${dest.name}`}
+            </h2>
+            <p className="text-sm text-gray-500 mb-6">
+              {locale === 'fr' ? 'Températures moyennes — idéal pour planifier votre séjour avec votre animal' : locale === 'es' ? 'Temperaturas medias — ideal para planificar su estancia con su mascota' : 'Average temperatures — ideal for planning your pet trip'}
+            </p>
+            {(() => {
+              const months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+              const monthLabels: Record<string, Record<string, string>> = {
+                en: {jan:'Jan',feb:'Feb',mar:'Mar',apr:'Apr',may:'May',jun:'Jun',jul:'Jul',aug:'Aug',sep:'Sep',oct:'Oct',nov:'Nov',dec:'Dec'},
+                fr: {jan:'Jan',feb:'Fév',mar:'Mar',apr:'Avr',may:'Mai',jun:'Jun',jul:'Jul',aug:'Aoû',sep:'Sep',oct:'Oct',nov:'Nov',dec:'Déc'},
+                es: {jan:'Ene',feb:'Feb',mar:'Mar',apr:'Abr',may:'May',jun:'Jun',jul:'Jul',aug:'Ago',sep:'Sep',oct:'Oct',nov:'Nov',dec:'Dic'},
+              }
+              const currentMonth = months[new Date().getMonth()]
+              const labels = monthLabels[locale] ?? monthLabels.en
+              const weather = dest.weather as Record<string, { temp: number; desc: string; icon: string }>
+
+              // Find best months (warmest but not too hot, if beach; or just pleasant temp 15-25)
+              const bestMonths = months.filter(m => {
+                const t = weather[m]?.temp ?? 0
+                return t >= 15 && t <= 26
+              })
+
+              return (
+                <div>
+                  <div className="overflow-x-auto pb-2">
+                    <div className="flex gap-2 min-w-max">
+                      {months.map(m => {
+                        const w = weather[m]
+                        const isCurrent = m === currentMonth
+                        const isBest = bestMonths.includes(m)
+                        return (
+                          <div
+                            key={m}
+                            className={`flex flex-col items-center rounded-2xl p-3 min-w-[72px] border transition-all ${
+                              isCurrent
+                                ? 'bg-blue-600 text-white border-blue-600 shadow-md shadow-blue-200'
+                                : isBest
+                                ? 'bg-green-50 border-green-200 text-gray-900'
+                                : 'bg-gray-50 border-gray-100 text-gray-700'
+                            }`}
+                          >
+                            <span className="text-xs font-semibold uppercase tracking-wide opacity-70">{labels[m]}</span>
+                            <span className="text-xl my-1">{w?.icon ?? '🌡️'}</span>
+                            <span className="text-lg font-black">{w?.temp ?? '?'}°</span>
+                            {isBest && !isCurrent && (
+                              <span className="text-xs text-green-600 font-semibold mt-0.5">✓ Best</span>
+                            )}
+                          </div>
+                        )
+                      })}
+                    </div>
+                  </div>
+                  {bestMonths.length > 0 && (
+                    <p className="mt-4 text-sm text-gray-500">
+                      🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${dest.name} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${dest.name}: ` : `Best months to travel with a pet in ${dest.name}: `}
+                      <span className="font-semibold text-gray-700">
+                        {bestMonths.map(m => (monthLabels[locale] ?? monthLabels.en)[m]).join(', ')}
+                      </span>
+                    </p>
+                  )}
+                </div>
+              )
+            })()}
           </div>
         </section>
       )}

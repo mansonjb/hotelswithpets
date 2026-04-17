@@ -10,6 +10,10 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 
+type DestWithWeather = typeof destinations[number] & {
+  weather?: Record<string, { temp: number; desc: string; icon: string }>
+}
+
 // ─── Static params ────────────────────────────────────────────────────────────
 
 export async function generateStaticParams() {
@@ -179,7 +183,7 @@ export default async function ComboPage({
   const { locale, destination, category } = await params
   if (!hasLocale(locale)) notFound()
 
-  const dest = destinations.find((d) => d.slug === destination)
+  const dest = destinations.find((d) => d.slug === destination) as DestWithWeather | undefined
   const cat = categories.find((c) => c.slug === category)
   if (!dest || !cat) notFound()
 
@@ -550,6 +554,33 @@ export default async function ComboPage({
                     </div>
                   </div>
                 )}
+
+                {/* Weather compact */}
+                {dest.weather && (() => {
+                  const weather = (dest as DestWithWeather).weather!
+                  const months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+                  const currentMonth = months[new Date().getMonth()]
+                  const w = weather[currentMonth]
+                  const monthName = new Date().toLocaleDateString(
+                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB',
+                    { month: 'long' }
+                  )
+                  return (
+                    <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
+                      <h3 className="font-bold text-gray-900 text-sm mb-3">
+                        🌡️ {locale === 'fr' ? 'Météo ce mois' : locale === 'es' ? 'Clima este mes' : 'Weather this month'}
+                      </h3>
+                      <div className="flex items-center gap-3">
+                        <span className="text-3xl">{w?.icon ?? '🌡️'}</span>
+                        <div>
+                          <p className="text-2xl font-black text-gray-900">{w?.temp ?? '?'}°C</p>
+                          <p className="text-xs text-gray-500">{w?.desc}</p>
+                          <p className="text-xs text-gray-400 capitalize">{monthName}</p>
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })()}
 
                 {/* Other categories in this destination */}
                 {relatedByDest.length > 0 && (

@@ -846,12 +846,20 @@ export function generateFaqs(
         q: `Quelle est la meilleure période pour visiter ${destName} avec un animal ?`,
         a: `Le printemps (avril-mai) et le début de l'automne (septembre-octobre) sont idéaux. Les températures sont douces, moins de touristes signifie des rues et parcs plus calmes, et la plupart des hôtels ne sont pas encore en pleine capacité haute saison. L'été peut être très chaud à ${destName}, ce qui est difficile pour les animaux, et la disponibilité des chambres pet-friendly se réduit considérablement en juillet-août.`,
       },
+      {
+        q: `Quelle est la meilleure période de l'année pour visiter ${destName} avec un chien ?`,
+        a: `Pour les séjours ${catName.toLowerCase()} à ${destName}, le printemps (mars-mai) et l'automne (septembre-novembre) offrent les meilleures conditions. Les températures restent agréables pour les promenades, les parcs sont moins fréquentés et les hôtels proposent souvent de meilleurs tarifs hors saison. En été, surveillez les fortes chaleurs qui peuvent être épuisantes pour les chiens, notamment pour les races à museau court.`,
+      },
+      {
+        q: `Quel quartier de ${destName} est le mieux situé pour les hôtels ${catName.toLowerCase()} ?`,
+        a: `Le choix du quartier dépend de votre style de voyage. Les quartiers centraux offrent un accès facile aux restaurants et musées, mais peuvent être bruyants. Les quartiers résidentiels ou en bordure de parcs sont généralement plus adaptés aux animaux, avec plus d'espaces verts à proximité. Les hôtels de cette liste ont été sélectionnés pour leur emplacement pratique pour les propriétaires d'animaux — consultez la carte ci-dessus pour comparer les positions.`,
+      },
     ]
 
     const extra: Record<string, Faq> = {
       'beach-access': {
         q: `Les chiens sont-ils autorisés sur les plages de ${destName} ?`,
-        a: `L'accès des chiens aux plages de ${destName} varie selon la plage et la saison. De nombreuses plages restreignent les chiens de juin à septembre aux heures de pointe. Les hôtels avec accès direct à la plage peuvent vous conseiller sur les meilleurs moments et endroits pour les chiens — demandez toujours à l'enregistrement une carte actualisée des plages dog-friendly.`,
+        a: `L'accès des chiens aux plages de ${destName} varie selon la plage et la saison. De nombreuses plages européennes autorisent les chiens en basse saison (printemps et automne) mais imposent des restrictions strictes de juin à septembre en période de haute saison. En dehors de la saison estivale, les horaires d'accès sont souvent plus flexibles (avant 9h et après 19h en été). Les hôtels avec accès direct à la plage peuvent vous conseiller sur les meilleurs moments et endroits pour les chiens — demandez toujours à l'enregistrement une carte actualisée des plages dog-friendly.`,
       },
       'dogs-stay-free': {
         q: `"Chiens gratuits" signifie-t-il également sans caution ?`,
@@ -898,12 +906,20 @@ export function generateFaqs(
         q: `¿Cuál es la mejor época para visitar ${destName} con una mascota?`,
         a: `La primavera (abril-mayo) y el principio del otoño (septiembre-octubre) son ideales. Las temperaturas son suaves, menos turistas significa calles y parques más tranquilos, y la mayoría de los hoteles aún no están en capacidad máxima de temporada alta. El verano puede ser muy caluroso en ${destName}, lo que es duro para los animales, y la disponibilidad de habitaciones pet-friendly se reduce considerablemente en julio-agosto.`,
       },
+      {
+        q: `¿Cuál es la mejor época del año para visitar ${destName} con un perro?`,
+        a: `Para estancias ${catName.toLowerCase()} en ${destName}, la primavera (marzo-mayo) y el otoño (septiembre-noviembre) ofrecen las mejores condiciones. Las temperaturas son agradables para los paseos, los parques están menos concurridos y los hoteles suelen ofrecer mejores tarifas fuera de temporada. En verano, tenga en cuenta que el calor intenso puede ser agotador para los perros, especialmente para las razas braquicéfalas.`,
+      },
+      {
+        q: `¿Qué barrio de ${destName} es mejor para hoteles ${catName.toLowerCase()}?`,
+        a: `La elección del barrio depende de su estilo de viaje. Los barrios céntricos ofrecen fácil acceso a restaurantes y museos, pero pueden ser ruidosos. Los barrios residenciales o junto a parques suelen ser más adecuados para las mascotas, con más zonas verdes cercanas. Los hoteles de esta lista han sido seleccionados por su ubicación práctica para los dueños de mascotas — consulte el mapa de arriba para comparar posiciones.`,
+      },
     ]
 
     const extra: Record<string, Faq> = {
       'beach-access': {
         q: `¿Se permiten perros en las playas de ${destName}?`,
-        a: `El acceso de perros a las playas de ${destName} varía según la playa y la temporada. Muchas playas restringen los perros de junio a septiembre durante las horas punta. Los hoteles con acceso directo a la playa pueden asesorarle sobre los mejores momentos y lugares para los perros — pregunte siempre en el check-in por un mapa actualizado de playas dog-friendly.`,
+        a: `El acceso de perros a las playas de ${destName} varía según la playa y la temporada. Muchas playas europeas permiten perros en temporada baja (primavera y otoño) pero imponen restricciones en los meses de verano de junio a septiembre. Fuera de temporada, los horarios de acceso suelen ser más flexibles (antes de las 9h y después de las 19h en verano). Los hoteles con acceso directo a la playa pueden asesorarle sobre los mejores momentos y lugares para los perros — pregunte siempre en el check-in por un mapa actualizado de playas dog-friendly.`,
       },
       'dogs-stay-free': {
         q: `¿"Perros gratis" significa también sin depósito?`,
@@ -950,12 +966,20 @@ export function generateFaqs(
       q: `When is the best time to visit ${destName} with a pet?`,
       a: `Spring (April–May) and early autumn (September–October) are ideal. Temperatures are mild, fewer tourists means calmer streets and parks, and most hotels are not yet in peak-season occupancy. Summer can be very hot in ${destName}, which is hard on animals, and availability of pet-friendly rooms shrinks considerably in July–August.`,
     },
+    {
+      q: `What is the best time of year to visit ${destName} with a dog?`,
+      a: `For ${catName.toLowerCase()} stays in ${destName}, spring (March–May) and autumn (September–November) tend to offer the best all-round conditions. Temperatures are comfortable for long walks, crowds are thinner, and hotels often have better availability and pricing outside peak season. In summer, watch for heat that can tire dogs quickly — especially flat-faced breeds. Autumn evenings in ${destName} are particularly pleasant for exploring with a dog.`,
+    },
+    {
+      q: `Which neighbourhood in ${destName} is best for ${catName.toLowerCase()} hotels?`,
+      a: `The best neighbourhood depends on your travel style. Central areas offer walkability to restaurants and attractions but tend to be noisier. Residential or park-adjacent neighbourhoods are generally better for pets — more green space, quieter streets, and a more relaxed pace. The hotels on this list have been selected partly for their practical location for pet owners; use the map above to compare positions and proximity to parks.`,
+    },
   ]
 
   const extra: Record<string, Faq> = {
     'beach-access': {
       q: `Are dogs allowed on ${destName} beaches?`,
-      a: `Dog access to beaches in ${destName} varies by beach and by season. Many beaches restrict dogs from June to September during peak hours. Hotels with direct beach access can advise on the best times and spots for dogs — always ask at check-in for a current dog-friendly beach map.`,
+      a: `Dog access to beaches in ${destName} varies by beach and by season. Many European beaches allow dogs in the shoulder season — spring and autumn — but enforce restrictions during the summer peak from June to September, when dogs are often banned during daytime hours. Outside summer, access is typically more flexible, with early morning and evening slots often permitted even in peak season. Hotels with direct beach access can advise on the best times and spots for dogs — always ask at check-in for a current dog-friendly beach map.`,
     },
     'dogs-stay-free': {
       q: `Does "dogs stay free" mean no deposit either?`,

@@ -1,0 +1,868 @@
+{
+  "slug": "tallinn",
+  "name": "Tallinn",
+  "country": "Estonia",
+  "flag": "🇪🇪",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Tallinn",
+      "titleFr": "Restaurants acceptant les animaux à Tallinn",
+      "titleEs": "Restaurantes con mascotas en Tallinn",
+      "introEn": "Tallinn is genuinely and reliably dog-friendly when it comes to dining. Most cafés and restaurants in the city do not explicitly ban dogs, and outdoor terraces in the Old Town square, the Telliskivi Creative City, and the Kalamaja wooden-house district are almost universally welcoming. Look for a dog-friendly sticker at the entrance, or simply ask — the default answer is almost always yes, particularly outside. The local pet platform petcity.ee maintains a map of verified dog-friendly restaurants. Summer (June–August) is peak season, with terraces filling the Old Town square and its surrounds. Even in the darker months, Tallinn's cosy café culture extends warmly to dogs in many interiors.",
+      "introFr": "Tallinn est véritablement et régulièrement dog-friendly en matière de restauration. La plupart des cafés et restaurants de la ville n'interdisent pas explicitement les chiens, et les terrasses extérieures sur la place de la vieille ville, dans la ville créative Telliskivi et dans le quartier des maisons en bois de Kalamaja sont presque universellement accueillantes. Cherchez un autocollant dog-friendly à l'entrée, ou demandez simplement — la réponse par défaut est presque toujours oui, en particulier en extérieur. La plateforme locale petcity.ee maintient une carte des restaurants dog-friendly vérifiés. L'été (juin–août) est la haute saison, avec des terrasses qui envahissent la place de la vieille ville et ses environs. Même pendant les mois sombres, la culture du café cosy de Tallinn s'étend chaleureusement aux chiens dans de nombreux intérieurs.",
+      "introEs": "Tallinn es genuinamente y de manera confiable amigable con los perros en lo que respecta a la gastronomía. La mayoría de los cafés y restaurantes de la ciudad no prohíben explícitamente a los perros, y las terrazas exteriores en la plaza del casco antiguo, la Ciudad Creativa Telliskivi y el barrio de casas de madera de Kalamaja son casi universalmente acogedoras. Busca una pegatina pet-friendly en la entrada, o simplemente pregunta — la respuesta predeterminada es casi siempre sí, especialmente en el exterior. La plataforma local petcity.ee mantiene un mapa de restaurantes verificados pet-friendly. El verano (junio–agosto) es la temporada alta, con terrazas que llenan la plaza del casco antiguo y sus alrededores. Incluso en los meses más oscuros, la acogedora cultura del café de Tallinn se extiende cálidamente a los perros en muchos interiores.",
+      "places": [
+        {
+          "name": "Café Boheem",
+          "address": "Kopli tn 18, 10412 Tallinn",
+          "neighborhood": "Kalamaja",
+          "photo": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.facebook.com/Boheem.Kohvik.Kalamajas/",
+          "description": "A beloved neighbourhood café on the edge of the trendy Kalamaja district, Boheem is everything a local café should be: unpretentious, warm, with genuinely good affordable food. Crêpes, wraps, salads, quiches, stews, pasta, and next door a wood-fired pizzeria. Dogs are explicitly welcome — both inside and on the outdoor terrace. Visitors report being seated inside on rainy evenings with their dog without any issue. This is the quintessential Tallinn dog-friendly café experience.",
+          "descriptionFr": "Un café de quartier bien-aimé à la lisière du quartier branché de Kalamaja, Boheem est tout ce qu'un café local devrait être : sans prétention, chaleureux, avec une bonne nourriture abordable. Crêpes, wraps, salades, quiches, ragoûts, pâtes et à côté une pizzeria au feu de bois. Les chiens sont explicitement les bienvenus — à l'intérieur et en terrasse extérieure. Les visiteurs rapportent avoir été installés à l'intérieur par des soirées pluvieuses avec leur chien sans aucun problème. C'est l'expérience de café dog-friendly quintessentielle de Tallinn.",
+          "descriptionEs": "Un querido café de barrio al borde del trendy barrio Kalamaja, Boheem es todo lo que un café local debería ser: sin pretensiones, cálido, con comida genuinamente buena y asequible. Crêpes, wraps, ensaladas, quiches, guisos, pasta y al lado una pizzería de leña. Los perros son explícitamente bienvenidos — tanto dentro como en la terraza exterior. Los visitantes informan haber sido sentados en el interior en noches lluviosas con su perro sin ningún problema. Esta es la experiencia quintaesencial de café pet-friendly de Tallinn.",
+          "petPolicy": "Dogs welcome inside and on outdoor terrace",
+          "petPolicyFr": "Chiens acceptés à l'intérieur et en terrasse",
+          "petPolicyEs": "Perros admitidos dentro y en terraza exterior",
+          "priceRange": "€",
+          "mustTry": "Crêpes, wood-fired pizza (from the adjacent pizzeria), coffee",
+          "mustTryFr": "Crêpes, pizza au feu de bois (de la pizzeria adjacente), café",
+          "mustTryEs": "Crêpes, pizza de leña (de la pizzería adyacente), café",
+          "openingHours": "Mon–Sun 10:00–22:00 (check for seasonal variations)",
+          "tip": "Kalamaja is Tallinn's most charming neighbourhood — combine with a walk through the wooden house streets before or after",
+          "tipFr": "Kalamaja est le quartier le plus charmant de Tallinn — combinez avec une balade dans les rues de maisons en bois avant ou après",
+          "tipEs": "Kalamaja es el barrio más encantador de Tallinn — combínalo con un paseo por las calles de casas de madera antes o después",
+          "googleMapsUrl": "https://maps.google.com/?q=Boheem+Kohvik+Tallinn+Kalamaja"
+        },
+        {
+          "name": "F-Hoone",
+          "address": "Telliskivi tn 60a, 10412 Tallinn",
+          "neighborhood": "Telliskivi Creative City",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://fhoone.ee/",
+          "description": "Set in the old foundry hall of Tallinn's Telliskivi Creative City, F-Hoone is one of the most beloved all-day dining spots in the city. The industrial space has been beautifully repurposed — exposed brick, high ceilings, warm lighting — into a relaxed community café and restaurant. Breakfasts, soups, salads, and solid main courses. The outdoor courtyard area in Telliskivi is particularly dog-friendly, buzzing with locals, bicycles, and dogs on sunny days. Part of Tallinn's most vibrant creative quarter.",
+          "descriptionFr": "Installé dans l'ancienne halle de fonderie de la ville créative Telliskivi à Tallinn, F-Hoone est l'un des restaurants tout-en-un les plus appréciés de la ville. L'espace industriel a été magnifiquement reconverti — briques apparentes, hauts plafonds, éclairage chaleureux — en un café-restaurant communautaire détendu. Petits-déjeuners, soupes, salades et bons plats principaux. La zone de cour extérieure à Telliskivi est particulièrement dog-friendly, animée de locaux, de vélos et de chiens par beau temps. Au cœur du quartier créatif le plus dynamique de Tallinn.",
+          "descriptionEs": "Situado en el antiguo pabellón de fundición de la Ciudad Creativa Telliskivi de Tallinn, F-Hoone es uno de los lugares de restauración de todo el día más queridos de la ciudad. El espacio industrial ha sido magníficamente reconvertido — ladrillo visto, techos altos, iluminación cálida — en un relajado café-restaurante comunitario. Desayunos, sopas, ensaladas y sólidos platos principales. La zona del patio exterior en Telliskivi es especialmente pet-friendly, llena de locales, bicicletas y perros en los días soleados. En el barrio creativo más vibrante de Tallinn.",
+          "petPolicy": "Dogs welcome in outdoor courtyard. Generally tolerant inside — ask staff when you arrive",
+          "petPolicyFr": "Chiens bienvenus dans la cour extérieure. Généralement tolérant en intérieur — demandez au personnel à l'arrivée",
+          "petPolicyEs": "Perros bienvenidos en el patio exterior. Generalmente tolerante en el interior — pregunta al personal al llegar",
+          "priceRange": "€€",
+          "mustTry": "Weekend brunch, daily soups, local craft beers",
+          "mustTryFr": "Brunch du week-end, soupes du jour, bières artisanales locales",
+          "mustTryEs": "Brunch de fin de semana, sopas del día, cervezas artesanas locales",
+          "openingHours": "Mon–Fri 08:00–23:00, Sat–Sun 09:00–23:00",
+          "tip": "Telliskivi on a sunny Saturday has the best atmosphere — outdoor food trucks, markets, and dogs everywhere",
+          "tipFr": "Telliskivi un samedi ensoleillé offre la meilleure ambiance — food trucks en extérieur, marchés et chiens partout",
+          "tipEs": "Telliskivi un sábado soleado tiene el mejor ambiente — food trucks al aire libre, mercados y perros por todas partes",
+          "googleMapsUrl": "https://maps.google.com/?q=F-Hoone+Telliskivi+Tallinn"
+        },
+        {
+          "name": "Fotografiska Tallinn — Café",
+          "address": "Telliskivi tn 60a, 10412 Tallinn",
+          "neighborhood": "Telliskivi Creative City",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.fotografiska.com/tallinn/",
+          "description": "The Tallinn outpost of the internationally acclaimed Fotografiska photography museum, set within Telliskivi Creative City. The museum itself welcomes well-behaved dogs (skip guided tours — they sometimes have restrictions). The café is one of the most stylish in the city, serving excellent food and drinks in an airy industrial space. The outdoor terrace in the Telliskivi courtyard is dog-friendly. An excellent stop combining culture and coffee in one of Tallinn's most dynamic creative spaces.",
+          "descriptionFr": "L'antenne tallinnoise du musée de photographie Fotografiska de renommée internationale, au sein de la ville créative Telliskivi. Le musée lui-même accueille les chiens bien élevés (évitez les visites guidées — elles ont parfois des restrictions). Le café est l'un des plus élégants de la ville, servant d'excellents plats et boissons dans un espace industriel aéré. La terrasse extérieure dans la cour de Telliskivi est dog-friendly. Un excellent arrêt combinant culture et café dans l'un des espaces créatifs les plus dynamiques de Tallinn.",
+          "descriptionEs": "La sede de Tallinn del internacionalmente aclamado museo de fotografía Fotografiska, ubicada en la Ciudad Creativa Telliskivi. El propio museo da la bienvenida a los perros bien educados (evita las visitas guiadas — a veces tienen restricciones). El café es uno de los más elegantes de la ciudad, sirviendo excelente comida y bebidas en un espacioso espacio industrial. La terraza exterior en el patio de Telliskivi es pet-friendly. Una excelente parada que combina cultura y café en uno de los espacios creativos más dinámicos de Tallinn.",
+          "petPolicy": "Dogs welcome in the museum (skip guided tours) and in the café/outdoor terrace area",
+          "petPolicyFr": "Chiens bienvenus dans le musée (évitez les visites guidées) et dans la zone café/terrasse extérieure",
+          "petPolicyEs": "Perros bienvenidos en el museo (evita las visitas guiadas) y en la zona del café/terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Seasonal café menu, natural wine, specialty coffee",
+          "mustTryFr": "Menu café saisonnier, vin nature, café de spécialité",
+          "mustTryEs": "Menú de café de temporada, vino natural, café de especialidad",
+          "openingHours": "Mon–Wed & Sun 10:00–21:00, Thu–Sat 10:00–23:00",
+          "tip": "Book gallery entrance tickets online in advance. Dogs are welcome in the museum itself — just skip the guided tours",
+          "tipFr": "Réservez les billets d'entrée en ligne à l'avance. Les chiens sont bienvenus dans le musée lui-même — évitez simplement les visites guidées",
+          "tipEs": "Reserva las entradas a la galería online con antelación. Los perros son bienvenidos en el museo en sí — simplemente evita las visitas guiadas",
+          "googleMapsUrl": "https://maps.google.com/?q=Fotografiska+Tallinn"
+        },
+        {
+          "name": "Balti Jaama Turg (Baltic Station Market)",
+          "address": "Kopli tn 1, 10149 Tallinn",
+          "neighborhood": "Kalamaja / near Central Station",
+          "photo": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=800&q=80",
+          "website": "https://bjturg.ee/en/",
+          "description": "A beautifully restored indoor-outdoor market hall adjacent to Tallinn's Baltic Station, Balti Jaama Turg is one of the city's most enjoyable spaces. Food stalls selling everything from local cheeses and cured meats to Estonian pastries and international street food. Dogs were welcomed during visits reported by multiple travellers — the relaxed, market atmosphere is naturally accommodating. The outdoor sections are fully dog-friendly; the indoor areas are generally tolerant for well-behaved dogs on a leash.",
+          "descriptionFr": "Un hall de marché intérieur-extérieur magnifiquement restauré adjacent à la gare baltique de Tallinn, Balti Jaama Turg est l'un des espaces les plus agréables de la ville. Des étals vendant tout, des fromages locaux et des charcuteries aux pâtisseries estoniennes et à la street food internationale. Les chiens étaient les bienvenus lors de visites rapportées par plusieurs voyageurs — l'atmosphère détendue du marché est naturellement accommodante. Les sections extérieures sont entièrement dog-friendly ; les zones intérieures sont généralement tolérantes pour les chiens bien élevés en laisse.",
+          "descriptionEs": "Un hermoso pabellón de mercado interior-exterior restaurado adyacente a la estación báltica de Tallinn, Balti Jaama Turg es uno de los espacios más agradables de la ciudad. Puestos de comida que venden desde quesos locales y embutidos hasta pasteles estonios y comida callejera internacional. Los perros fueron bienvenidos durante visitas reportadas por múltiples viajeros — el ambiente relajado del mercado es naturalmente acogedor. Las secciones exteriores son totalmente pet-friendly; las áreas interiores son generalmente tolerantes con los perros bien educados con correa.",
+          "petPolicy": "Outdoor areas dog-friendly. Indoor sections generally tolerant for leashed dogs — ask when busy",
+          "petPolicyFr": "Zones extérieures dog-friendly. Sections intérieures généralement tolérantes pour les chiens en laisse — demandez lors des périodes chargées",
+          "petPolicyEs": "Áreas exteriores pet-friendly. Secciones interiores generalmente tolerantes con perros con correa — pregunta cuando esté concurrido",
+          "priceRange": "€",
+          "mustTry": "Estonian black bread, local cheeses, smoked meats from the deli stalls",
+          "mustTryFr": "Pain noir estonien, fromages locaux, charcuteries fumées des étals",
+          "mustTryEs": "Pan negro estonio, quesos locales, embutidos ahumados de los puestos",
+          "openingHours": "Mon–Sun 09:00–20:00",
+          "tip": "Visit on a weekend morning for the widest selection and most lively atmosphere. Combine with a walk through Kalamaja neighbourhood",
+          "tipFr": "Visitez un matin de week-end pour le plus grand choix et l'ambiance la plus animée. Combinez avec une balade dans le quartier Kalamaja",
+          "tipEs": "Visita un fin de semana por la mañana para la mayor selección y el ambiente más animado. Combínalo con un paseo por el barrio Kalamaja",
+          "googleMapsUrl": "https://maps.google.com/?q=Balti+Jaama+Turg+Tallinn"
+        }
+      ],
+      "tipsEn": [
+        "Look for a dog-friendly sticker at café and restaurant entrances. Many Tallinn venues display them clearly. If not, simply ask — the default answer is usually yes on terraces.",
+        "Telliskivi Creative City and Kalamaja are the most reliably dog-friendly neighbourhoods for eating out.",
+        "The Old Town square terraces welcome dogs in summer — but the cobblestones can be hard on paws on long outings.",
+        "petcity.ee maintains a community-updated map of dog-friendly venues in Tallinn and across Estonia."
+      ],
+      "tipsFr": [
+        "Cherchez un autocollant dog-friendly à l'entrée des cafés et restaurants. De nombreux établissements de Tallinn les affichent clairement. Sinon, demandez simplement — la réponse par défaut est généralement oui en terrasse.",
+        "La ville créative Telliskivi et Kalamaja sont les quartiers les plus régulièrement dog-friendly pour manger en dehors.",
+        "Les terrasses de la place de la vieille ville accueillent les chiens en été — mais les pavés peuvent être durs pour les pattes lors des longues sorties.",
+        "petcity.ee maintient une carte mise à jour par la communauté des établissements dog-friendly à Tallinn et partout en Estonie."
+      ],
+      "tipsEs": [
+        "Busca una pegatina pet-friendly en la entrada de cafés y restaurantes. Muchos locales de Tallinn las muestran claramente. Si no, simplemente pregunta — la respuesta predeterminada suele ser sí en las terrazas.",
+        "La Ciudad Creativa Telliskivi y Kalamaja son los barrios más confiablemente pet-friendly para comer fuera.",
+        "Las terrazas de la plaza del casco antiguo admiten perros en verano — pero los adoquines pueden ser duros para las patas en salidas largas.",
+        "petcity.ee mantiene un mapa actualizado por la comunidad de locales pet-friendly en Tallinn y toda Estonia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Tallinn restaurants?",
+          "a": "Many yes, particularly on terraces. Tallinn is one of the more dog-friendly Baltic capitals. Look for dog-friendly stickers at entrances, or simply ask. petcity.ee maps verified dog-friendly venues across the city."
+        },
+        {
+          "q": "Which neighbourhood is most dog-friendly for eating out in Tallinn?",
+          "a": "Telliskivi Creative City and the Kalamaja wooden-house district. Both have a relaxed, outdoor-heavy dining culture that naturally welcomes dogs. The Old Town square terraces are also good in summer."
+        },
+        {
+          "q": "Do Tallinn restaurants provide water for dogs?",
+          "a": "Some do automatically, particularly at explicitly dog-friendly cafés like Boheem. Most will bring water if you ask. Carry a collapsible bowl for longer outings."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Tallinn ?",
+          "a": "Beaucoup oui, en particulier en terrasse. Tallinn est l'une des capitales baltiques les plus dog-friendly. Cherchez des autocollants dog-friendly à l'entrée, ou demandez simplement. petcity.ee cartographie les établissements dog-friendly vérifiés dans toute la ville."
+        },
+        {
+          "q": "Quel quartier est le plus dog-friendly pour manger en dehors à Tallinn ?",
+          "a": "La ville créative Telliskivi et le quartier des maisons en bois de Kalamaja. Les deux ont une culture culinaire détendue et axée sur l'extérieur qui accueille naturellement les chiens. Les terrasses de la place de la vieille ville sont également bonnes en été."
+        },
+        {
+          "q": "Les restaurants de Tallinn fournissent-ils de l'eau pour les chiens ?",
+          "a": "Certains le font automatiquement, notamment dans les cafés explicitement dog-friendly comme Boheem. La plupart apporteront de l'eau si vous le demandez. Emportez un bol pliable pour les longues sorties."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros en los restaurantes de Tallinn?",
+          "a": "Muchos sí, especialmente en las terrazas. Tallinn es una de las capitales bálticas más pet-friendly. Busca pegatinas pet-friendly en las entradas, o simplemente pregunta. petcity.ee mapea los locales pet-friendly verificados en toda la ciudad."
+        },
+        {
+          "q": "¿Qué barrio es más pet-friendly para comer fuera en Tallinn?",
+          "a": "La Ciudad Creativa Telliskivi y el barrio de casas de madera de Kalamaja. Ambos tienen una cultura gastronómica relajada y orientada al exterior que naturalmente da la bienvenida a los perros. Las terrazas de la plaza del casco antiguo también son buenas en verano."
+        },
+        {
+          "q": "¿Los restaurantes de Tallinn proporcionan agua para los perros?",
+          "a": "Algunos lo hacen automáticamente, especialmente en cafés explícitamente pet-friendly como Boheem. La mayoría traerá agua si lo pides. Lleva un cuenco plegable para salidas más largas."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Tallinn",
+      "titleFr": "Parcs et balades avec son chien à Tallinn",
+      "titleEs": "Parques y paseos con perros en Tallinn",
+      "introEn": "Tallinn has a well-maintained network of dog parks, with the city's official website (tallinn.ee/en/walking-area-dogs) listing all designated off-leash walking areas. Dogs must be on a leash in public areas and parks unless in a designated off-leash zone. The most beloved dog destination is Kadriorg Park, where designated areas allow off-leash time. The Toom Park adjacent to the Old Town walls is a green oasis for hot days. The city also has numerous smaller neighbourhood dog parks equipped with agility equipment.",
+      "introFr": "Tallinn dispose d'un réseau bien entretenu de parcs pour chiens, avec le site officiel de la ville (tallinn.ee/en/walking-area-dogs) listant toutes les zones de promenade désignées sans laisse. Les chiens doivent être tenus en laisse dans les espaces publics et les parcs sauf dans une zone de liberté désignée. La destination canine la plus appréciée est le parc Kadriorg, où des zones désignées permettent la liberté. Le Toom Park adjacent aux remparts de la vieille ville est une oasis de verdure pour les jours chauds. La ville dispose également de nombreux petits parcs pour chiens de quartier équipés d'équipements d'agilité.",
+      "introEs": "Tallinn tiene una red bien mantenida de parques para perros, con el sitio web oficial de la ciudad (tallinn.ee/en/walking-area-dogs) listando todas las áreas de paseo designadas sin correa. Los perros deben ir con correa en las áreas públicas y parques excepto en una zona designada sin correa. El destino canino más querido es el parque Kadriorg, donde las áreas designadas permiten el tiempo sin correa. El Toom Park adyacente a las murallas del casco antiguo es un oasis verde para los días calurosos. La ciudad también tiene numerosos parques para perros más pequeños en los barrios equipados con equipos de agilidad.",
+      "places": [
+        {
+          "name": "Kadriorg Park",
+          "type": "Historic baroque park with designated dog areas",
+          "photo": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80",
+          "website": "https://kadriorumuuseum.ekm.ee/en/",
+          "description": "One of the most beautiful parks in the Baltic states, Kadriorg was laid out in the early 18th century by Peter the Great around the magnificent Kadriorg Palace. Today it encompasses formal gardens, woodland, swan ponds, and wide tree-lined promenades. Dogs are welcome throughout the park on a leash, with designated areas within the park where they can be off-leash. Dog waste bags and bins are provided throughout. The park's grand scale and formal gardens make it one of Tallinn's most rewarding places for a long walk. The adjacent Kadriorg Art Museum and KUMU art museum are within easy walking distance.",
+          "descriptionFr": "L'un des plus beaux parcs des États baltes, Kadriorg a été aménagé au début du XVIIIe siècle par Pierre le Grand autour du magnifique palais Kadriorg. Il comprend aujourd'hui des jardins formels, des bois, des étangs aux cygnes et de larges promenades bordées d'arbres. Les chiens sont les bienvenus dans tout le parc en laisse, avec des zones désignées où ils peuvent être libres. Des sacs à déjections et des poubelles sont disponibles partout. La grande échelle et les jardins formels du parc en font l'un des endroits les plus gratifiants de Tallinn pour une longue balade. Le musée d'art Kadriorg adjacent et le musée d'art KUMU sont à courte distance à pied.",
+          "descriptionEs": "Uno de los parques más hermosos de los estados bálticos, Kadriorg fue trazado a principios del siglo XVIII por Pedro el Grande alrededor del magnífico Palacio Kadriorg. Hoy abarca jardines formales, arboleda, estanques con cisnes y amplios paseos arbolados. Los perros son bienvenidos en todo el parque con correa, con áreas designadas dentro del parque donde pueden estar sin correa. Bolsas y contenedores para excrementos de perros están disponibles en todo el parque. La gran escala y los jardines formales del parque lo convierten en uno de los lugares más gratificantes de Tallinn para un largo paseo. El adyacente Museo de Arte Kadriorg y el museo de arte KUMU están a poca distancia a pie.",
+          "offLeash": true,
+          "offLeashArea": "Designated areas within the park — check the city's official list at tallinn.ee/en/walking-area-dogs. Dogs on leash required in the formal palace garden areas.",
+          "offLeashAreaFr": "Zones désignées dans le parc — consultez la liste officielle de la ville sur tallinn.ee/en/walking-area-dogs. Chiens en laisse obligatoires dans les jardins formels du palais.",
+          "offLeashAreaEs": "Áreas designadas dentro del parque — consulta la lista oficial de la ciudad en tallinn.ee/en/walking-area-dogs. Perros con correa obligatoria en las áreas de jardín formal del palacio.",
+          "tip": "Take tram 1 or 3 from the Old Town to Kadriorg (15 min). Dogs travel free on Tallinn public transport with a leash and muzzle",
+          "tipFr": "Prenez le tram 1 ou 3 depuis la vieille ville jusqu'à Kadriorg (15 min). Les chiens voyagent gratuitement dans les transports en commun de Tallinn avec laisse et muselière",
+          "tipEs": "Toma el tranvía 1 o 3 desde el casco antiguo hasta Kadriorg (15 min). Los perros viajan gratis en el transporte público de Tallinn con correa y bozal",
+          "googleMapsUrl": "https://maps.google.com/?q=Kadriorg+Park+Tallinn"
+        },
+        {
+          "name": "Toom Park (Toompea Park)",
+          "type": "Green park adjoining the Old Town walls",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visittallinn.ee/eng/visitor/see-do/things-to-do/parks-nature",
+          "description": "A welcome green oasis on the western edge of Tallinn's Old Town, Toom Park sits directly below the old city walls and provides shade and grass in one of the most historically atmospheric settings in Estonia. Popular with local dog owners for quick morning or evening walks. Off-leash area designated within the park. On hot summer days, the shaded paths below the medieval walls are a perfect refuge from the Old Town cobblestones.",
+          "descriptionFr": "Une bienvenue oasis de verdure à la lisière occidentale de la vieille ville de Tallinn, le Toom Park se trouve directement sous les anciens remparts et offre ombre et pelouse dans l'un des cadres les plus chargés d'histoire d'Estonie. Populaire auprès des propriétaires de chiens locaux pour les courtes promenades matinales ou vespérales. Zone de liberté désignée dans le parc. Les chaudes journées d'été, les allées ombragées sous les remparts médiévaux sont un refuge parfait des pavés de la vieille ville.",
+          "descriptionEs": "Un bienvenido oasis verde en el borde occidental del casco antiguo de Tallinn, el Toom Park se encuentra directamente bajo las antiguas murallas de la ciudad y proporciona sombra y césped en uno de los entornos más históricamente atmosféricos de Estonia. Popular entre los dueños de perros locales para paseos rápidos matutinos o vespertinos. Área sin correa designada dentro del parque. En los calurosos días de verano, los senderos sombreados bajo las murallas medievales son un refugio perfecto de los adoquines del casco antiguo.",
+          "offLeash": true,
+          "offLeashArea": "Designated off-leash area within the park",
+          "offLeashAreaFr": "Zone de liberté désignée dans le parc",
+          "offLeashAreaEs": "Área designada sin correa dentro del parque",
+          "tip": "Ideal for a short walk while based in the Old Town — 5 minutes from Town Hall Square on foot",
+          "tipFr": "Idéal pour une courte balade en séjournant dans la vieille ville — 5 minutes à pied de la place de la Mairie",
+          "tipEs": "Ideal para un paseo corto cuando se aloja en el casco antiguo — 5 minutos a pie desde la Plaza del Ayuntamiento",
+          "googleMapsUrl": "https://maps.google.com/?q=Toom+Park+Tallinn"
+        },
+        {
+          "name": "Tiigiveski Park",
+          "type": "Neighbourhood park with full agility course",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tallinn.ee/en/walking-area-dogs",
+          "description": "One of Tallinn's best-equipped urban dog parks, located south of the Old Town. Tiigiveski features a proper agility course within its off-leash area — a significant upgrade from a basic fenced enclosure. Popular with local dog owners for training and socialisation. The park is clean and well-maintained, a reliable spot for dogs needing proper exercise in an urban setting. Easily reachable on foot or by bus from the city centre.",
+          "descriptionFr": "L'un des parcs canins urbains les mieux équipés de Tallinn, situé au sud de la vieille ville. Tiigiveski dispose d'un véritable parcours d'agilité dans sa zone de liberté — une amélioration significative par rapport à un simple enclos clôturé. Populaire auprès des propriétaires de chiens locaux pour l'entraînement et la socialisation. Le parc est propre et bien entretenu, un endroit fiable pour les chiens ayant besoin d'un exercice adéquat en milieu urbain. Facilement accessible à pied ou en bus depuis le centre-ville.",
+          "descriptionEs": "Uno de los mejores parques caninos urbanos de Tallinn, ubicado al sur del casco antiguo. Tiigiveski cuenta con un circuito de agilidad completo dentro de su área sin correa — una mejora significativa respecto a un simple recinto cercado. Popular entre los dueños de perros locales para el entrenamiento y la socialización. El parque está limpio y bien mantenido, un lugar fiable para los perros que necesitan ejercicio adecuado en un entorno urbano. Fácilmente accesible a pie o en autobús desde el centro de la ciudad.",
+          "offLeash": true,
+          "offLeashArea": "Off-leash area with full agility course within the park",
+          "offLeashAreaFr": "Zone de liberté avec parcours d'agilité complet dans le parc",
+          "offLeashAreaEs": "Área sin correa con circuito de agilidad completo dentro del parque",
+          "tip": "Check the complete list of Tallinn off-leash dog parks at tallinn.ee/en/walking-area-dogs — the city maintains an updated register",
+          "tipFr": "Consultez la liste complète des parcs canins de Tallinn sur tallinn.ee/en/walking-area-dogs — la ville maintient un registre à jour",
+          "tipEs": "Consulta la lista completa de parques para perros sin correa de Tallinn en tallinn.ee/en/walking-area-dogs — la ciudad mantiene un registro actualizado",
+          "googleMapsUrl": "https://maps.google.com/?q=Tiigiveski+park+Tallinn"
+        },
+        {
+          "name": "Pirita Promenade & River Walk",
+          "type": "Coastal and riverside walk with beach access",
+          "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visittallinn.ee/eng/visitor/see-do/things-to-do/sports-recreation",
+          "description": "The Pirita area on the eastern coast of Tallinn offers a pleasant coastal promenade leading to Pirita Beach and the Pirita River walk. Dogs are welcome along the promenade and on the river fitness path year-round. The small natural beach on the Pirita River (along the fitness trail) is dog-friendly for swimming year-round. Pirita Beach itself has seasonal restrictions — dogs are not officially permitted on the main beach during peak summer, but are generally allowed in the off-season (October to May). The wider Pirita coastal forest paths are excellent for longer walks with dogs.",
+          "descriptionFr": "La zone de Pirita sur la côte est de Tallinn offre un agréable promenoir côtier menant à la plage de Pirita et à la balade fluviale de la Pirita. Les chiens sont les bienvenus le long de la promenade et sur le sentier de remise en forme de la rivière toute l'année. La petite plage naturelle sur la rivière Pirita (le long du sentier de remise en forme) est dog-friendly pour la baignade toute l'année. La plage de Pirita elle-même a des restrictions saisonnières — les chiens ne sont officiellement pas autorisés sur la plage principale en plein été, mais sont généralement autorisés hors saison (octobre à mai). Les sentiers forestiers côtiers de Pirita sont excellents pour de longues balades avec les chiens.",
+          "descriptionEs": "La zona de Pirita en la costa este de Tallinn ofrece un agradable paseo costero que lleva a la playa de Pirita y el paseo fluvial del río Pirita. Los perros son bienvenidos a lo largo del paseo y en el sendero de fitness del río durante todo el año. La pequeña playa natural en el río Pirita (a lo largo del sendero de fitness) es pet-friendly para nadar durante todo el año. La propia playa de Pirita tiene restricciones estacionales — los perros no están oficialmente permitidos en la playa principal durante el verano pico, pero generalmente se permiten fuera de temporada (octubre a mayo). Los senderos del bosque costero de Pirita son excelentes para paseos más largos con perros.",
+          "offLeash": false,
+          "offLeashArea": "Dogs on leash throughout the promenade and beach areas. River fitness path beach is an informal swimming spot year-round.",
+          "offLeashAreaFr": "Chiens en laisse dans toute la promenade et les zones de plage. La plage du sentier de remise en forme de la rivière est un endroit de baignade informel toute l'année.",
+          "offLeashAreaEs": "Perros con correa en todo el paseo y las zonas de playa. La playa del sendero de fitness del río es un lugar informal para nadar durante todo el año.",
+          "tip": "Take bus 1A or 34A from the Old Town (20 min). The river fitness trail is the best year-round option for dogs",
+          "tipFr": "Prenez le bus 1A ou 34A depuis la vieille ville (20 min). Le sentier de remise en forme de la rivière est la meilleure option toute l'année pour les chiens",
+          "tipEs": "Toma el autobús 1A o 34A desde el casco antiguo (20 min). El sendero de fitness del río es la mejor opción durante todo el año para los perros",
+          "googleMapsUrl": "https://maps.google.com/?q=Pirita+Beach+Tallinn"
+        }
+      ],
+      "tipsEn": [
+        "Tallinn city's official dog park list is at tallinn.ee/en/walking-area-dogs — updated regularly with all designated off-leash zones.",
+        "Dogs must be on a leash in all parks and public areas in Tallinn except in designated off-leash zones.",
+        "Dog waste bags are provided at many park entry points. Always clean up — enforcement is active in Tallinn.",
+        "In winter (December–February), temperatures drop to −10°C or below. Paw protection (boots or wax) is essential on salted streets."
+      ],
+      "tipsFr": [
+        "La liste officielle des parcs canins de Tallinn se trouve sur tallinn.ee/en/walking-area-dogs — mise à jour régulièrement avec toutes les zones de liberté désignées.",
+        "Les chiens doivent être tenus en laisse dans tous les parcs et espaces publics de Tallinn sauf dans les zones de liberté désignées.",
+        "Des sacs à déjections sont fournis à de nombreux points d'entrée des parcs. Ramassez toujours — la réglementation est active à Tallinn.",
+        "En hiver (décembre–février), les températures descendent à −10°C ou moins. La protection des pattes (bottines ou cire) est essentielle dans les rues salées."
+      ],
+      "tipsEs": [
+        "La lista oficial de parques para perros de Tallinn está en tallinn.ee/en/walking-area-dogs — actualizada regularmente con todas las zonas designadas sin correa.",
+        "Los perros deben ir con correa en todos los parques y áreas públicas de Tallinn excepto en las zonas designadas sin correa.",
+        "Las bolsas para excrementos de perros se proporcionan en muchos puntos de entrada de los parques. Siempre recoge — el cumplimiento es activo en Tallinn.",
+        "En invierno (diciembre–febrero), las temperaturas caen a −10°C o menos. La protección de las patas (botas o cera) es esencial en las calles saladas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs go off-leash in Tallinn?",
+          "a": "In designated off-leash zones listed at tallinn.ee/en/walking-area-dogs. Kadriorg Park, Toom Park, and Tiigiveski Park all have designated off-leash areas. All other public spaces require dogs to be on a leash."
+        },
+        {
+          "q": "Is Kadriorg Park dog-friendly?",
+          "a": "Yes. Dogs on a leash are welcome throughout the park. There are designated off-leash areas within the park. Dog waste bags and bins are provided. Dogs are not permitted inside the Kadriorg Palace museum."
+        },
+        {
+          "q": "Can dogs swim in Tallinn?",
+          "a": "Yes. The natural beach on the Pirita River (along the fitness trail) is available year-round. The Russalka Memorial beach east of the Old Town is another dog-friendly swimming spot. All Estonian sea shores and lakes without specific prohibition signs allow dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils être sans laisse à Tallinn ?",
+          "a": "Dans les zones de liberté désignées listées sur tallinn.ee/en/walking-area-dogs. Le parc Kadriorg, le Toom Park et le parc Tiigiveski ont tous des zones de liberté désignées. Tous les autres espaces publics exigent que les chiens soient tenus en laisse."
+        },
+        {
+          "q": "Le parc Kadriorg est-il dog-friendly ?",
+          "a": "Oui. Les chiens en laisse sont les bienvenus dans tout le parc. Il y a des zones de liberté désignées dans le parc. Des sacs à déjections et des poubelles sont fournis. Les chiens ne sont pas autorisés à l'intérieur du musée du palais Kadriorg."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner à Tallinn ?",
+          "a": "Oui. La plage naturelle sur la rivière Pirita (le long du sentier de remise en forme) est disponible toute l'année. La plage du mémorial Russalka à l'est de la vieille ville est un autre endroit de baignade dog-friendly. Toutes les rives de mer et les lacs estoniens sans panneau d'interdiction spécifique autorisent les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden los perros estar sin correa en Tallinn?",
+          "a": "En las zonas designadas sin correa listadas en tallinn.ee/en/walking-area-dogs. El parque Kadriorg, el Toom Park y el parque Tiigiveski tienen zonas designadas sin correa. Todos los demás espacios públicos requieren que los perros vayan con correa."
+        },
+        {
+          "q": "¿Es el parque Kadriorg pet-friendly?",
+          "a": "Sí. Los perros con correa son bienvenidos en todo el parque. Hay áreas designadas sin correa dentro del parque. Se proporcionan bolsas y contenedores para excrementos. Los perros no están permitidos dentro del museo del Palacio Kadriorg."
+        },
+        {
+          "q": "¿Pueden nadar los perros en Tallinn?",
+          "a": "Sí. La playa natural en el río Pirita (a lo largo del sendero de fitness) está disponible durante todo el año. La playa del Memorial Russalka al este del casco antiguo es otro lugar pet-friendly para nadar. Todas las orillas del mar y los lagos de Estonia sin señales de prohibición específicas permiten perros."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Tallinn",
+      "titleFr": "Voyager avec son animal à Tallinn",
+      "titleEs": "Viajar con mascotas en Tallinn",
+      "introEn": "Tallinn's public transport — trams, trolleybuses, and buses — is well-developed and clearly pet-friendly. Dogs travel free on all city transport when accompanied by a passenger, provided they wear a muzzle (if not in a carrier). The city also has excellent cycling infrastructure. For intercity travel, the national rail operator Elron allows dogs in the vestibule area of second class. The Tallinn–Helsinki ferry route (Tallink Silja, 2 hours) is the most pet-relevant international connection and has clear pet policies.",
+      "introFr": "Les transports en commun de Tallinn — trams, trolleybus et bus — sont bien développés et clairement dog-friendly. Les chiens voyagent gratuitement sur tous les transports de la ville lorsqu'ils sont accompagnés d'un passager, à condition qu'ils portent une muselière (s'ils ne sont pas dans un sac de transport). La ville dispose également d'excellentes infrastructures cyclables. Pour les voyages interurbains, l'opérateur ferroviaire national Elron autorise les chiens dans la zone du vestibule en deuxième classe. La ligne de ferry Tallinn–Helsinki (Tallink Silja, 2 heures) est la connexion internationale la plus pertinente pour les animaux et dispose de politiques claires.",
+      "introEs": "El transporte público de Tallinn — tranvías, trolebuses y autobuses — está bien desarrollado y es claramente pet-friendly. Los perros viajan gratis en todos los transportes de la ciudad cuando van acompañados de un pasajero, siempre que lleven bozal (si no van en un transportín). La ciudad también tiene una excelente infraestructura ciclista. Para los viajes interurbanos, el operador ferroviario nacional Elron permite perros en el área del vestíbulo de segunda clase. La ruta de ferry Tallinn–Helsinki (Tallink Silja, 2 horas) es la conexión internacional más relevante para mascotas y tiene políticas claras.",
+      "rules": [
+        {
+          "mode": "Tram, Trolleybus & Bus (Tallinn city transport)",
+          "modeFr": "Tram, Trolleybus & Bus (transports de Tallinn)",
+          "modeEs": "Tranvía, Trolebús & Autobús (transporte de Tallinn)",
+          "policy": "Dogs travel free. Dogs not in a carrier must wear a muzzle. Dogs in a carrier travel free without muzzle requirement. Dogs must not occupy seats.",
+          "policyFr": "Les chiens voyagent gratuitement. Les chiens qui ne sont pas dans un sac de transport doivent porter une muselière. Les chiens dans un sac de transport voyagent gratuitement sans obligation de muselière. Les chiens ne doivent pas occuper les sièges.",
+          "policyEs": "Los perros viajan gratis. Los perros que no van en un transportín deben llevar bozal. Los perros en un transportín viajan gratis sin necesidad de bozal. Los perros no pueden ocupar asientos.",
+          "tip": "Buy a muzzle before travelling — a good-fitting one makes public transport stress-free for both dog and owner",
+          "tipFr": "Achetez une muselière avant de voyager — une qui convient bien rend les transports en commun sans stress pour le chien comme pour son maître",
+          "tipEs": "Compra un bozal antes de viajar — uno que ajuste bien hace que el transporte público sea sin estrés tanto para el perro como para el dueño"
+        },
+        {
+          "mode": "National Rail (Elron)",
+          "modeFr": "Train national (Elron)",
+          "modeEs": "Tren nacional (Elron)",
+          "policy": "Dogs allowed in the vestibule area of second class only. Dogs in carriers or on leash with muzzle. No pet ticket required. First class not available for pets.",
+          "policyFr": "Les chiens sont autorisés dans la zone du vestibule de la deuxième classe uniquement. Chiens dans des sacs de transport ou en laisse avec muselière. Pas de billet pour animaux requis. La première classe n'est pas disponible pour les animaux.",
+          "policyEs": "Los perros permitidos solo en el área del vestíbulo de segunda clase. Perros en transportines o con correa y bozal. No se requiere billete para mascotas. Primera clase no disponible para mascotas.",
+          "tip": "The vestibule area (between carriages) is where dogs must stay. It's spacious enough for larger dogs",
+          "tipFr": "La zone du vestibule (entre les wagons) est l'endroit où les chiens doivent rester. Elle est assez spacieuse pour les grands chiens",
+          "tipEs": "El área del vestíbulo (entre vagones) es donde deben estar los perros. Es suficientemente espaciosa para perros más grandes"
+        },
+        {
+          "mode": "Ferry to Helsinki (Tallink Silja Line)",
+          "modeFr": "Ferry vers Helsinki (Tallink Silja Line)",
+          "modeEs": "Ferry a Helsinki (Tallink Silja Line)",
+          "policy": "Multiple pet options: carrier in passenger area (€9), vehicle deck transport (free), onboard kennel with sand pit (€9), or pet-friendly cabin (€15 surcharge). Journey: 2 hours. Pets not permitted in restaurants, bars, kids zones.",
+          "policyFr": "Plusieurs options pour les animaux : sac de transport en zone passagers (9 €), transport sur pont-garage (gratuit), chenil à bord avec bac à sable (9 €) ou cabine pet-friendly (supplément de 15 €). Durée : 2 heures. Animaux non autorisés dans les restaurants, bars, espaces enfants.",
+          "policyEs": "Múltiples opciones para mascotas: transportín en área de pasajeros (9 €), transporte en cubierta de vehículos (gratis), perrera a bordo con arenero (9 €), o cabina pet-friendly (suplemento de 15 €). Trayecto: 2 horas. Mascotas no permitidas en restaurantes, bares, zonas infantiles.",
+          "tip": "Book the pet-friendly cabin if travelling on the overnight Stockholm route. On the 2-hour Helsinki route, the kennels or carrier option is sufficient",
+          "tipFr": "Réservez la cabine pet-friendly si vous voyagez sur la route nocturne Stockholm. Sur la route de 2 heures pour Helsinki, les chenils ou l'option sac de transport sont suffisants",
+          "tipEs": "Reserva la cabina pet-friendly si viajas en la ruta nocturna a Estocolmo. En la ruta de 2 horas a Helsinki, los kennels o la opción de transportín son suficientes"
+        },
+        {
+          "mode": "Taxi / Bolt / Uber",
+          "modeFr": "Taxi / Bolt / Uber",
+          "modeEs": "Taxi / Bolt / Uber",
+          "policy": "Bolt is the dominant platform in Tallinn. Drivers may decline pets. Mention your dog in the app notes or call a standard taxi for more reliable acceptance.",
+          "policyFr": "Bolt est la plateforme dominante à Tallinn. Les chauffeurs peuvent refuser les animaux. Mentionnez votre chien dans les notes de l'application ou appelez un taxi conventionnel pour une acceptation plus fiable.",
+          "policyEs": "Bolt es la plataforma dominante en Tallinn. Los conductores pueden rechazar mascotas. Menciona a tu perro en las notas de la app o llama a un taxi estándar para una aceptación más fiable.",
+          "tip": "Use Bolt and add a note about your dog. Most drivers accept small dogs. For large dogs, call ahead",
+          "tipFr": "Utilisez Bolt et ajoutez une note sur votre chien. La plupart des chauffeurs acceptent les petits chiens. Pour les grands chiens, appelez à l'avance",
+          "tipEs": "Usa Bolt y añade una nota sobre tu perro. La mayoría de los conductores aceptan perros pequeños. Para perros grandes, llama con antelación"
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "Tallinn public transport info: tallinn.ee/transport. Journey planning, maps, and pet travel rules. Elron national rail: elron.ee/en. Schedules, tickets, and pet policy (C area vestibule, second class). Tallink Silja Line ferry to Helsinki: tallink.com. Book pet-friendly options (kennels or cabins) when buying tickets.",
+          "contentFr": "Infos transports de Tallinn : tallinn.ee/transport. Planification des trajets, cartes et règles pour les animaux. Train national Elron : elron.ee/en. Horaires, billets et politique animaux (vestibule zone C, deuxième classe). Ferry Tallink Silja Line vers Helsinki : tallink.com. Réservez les options pet-friendly (chenils ou cabines) lors de l'achat des billets.",
+          "contentEs": "Información de transporte de Tallinn: tallinn.ee/transport. Planificación de rutas, mapas y normas de viaje para mascotas. Tren nacional Elron: elron.ee/en. Horarios, billetes y política de mascotas (vestíbulo zona C, segunda clase). Ferry Tallink Silja Line a Helsinki: tallink.com. Reserva las opciones pet-friendly (perreras o cabinas) al comprar los billetes."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the tram in Tallinn?",
+          "a": "Yes, and dogs travel free. Dogs not in a carrier must wear a muzzle. Dogs in a carrier travel with no additional requirements. Dogs cannot occupy seats."
+        },
+        {
+          "q": "Can I take my dog on the ferry from Tallinn to Helsinki?",
+          "a": "Yes. Tallink Silja Line offers several pet options: carrier in passenger area (€9), vehicle deck (free), onboard kennel with sand pit (€9), or pet-friendly cabin (+€15). Book in advance — pet spaces are limited."
+        },
+        {
+          "q": "Is Estonia EU-compliant for pet travel?",
+          "a": "Yes. Estonia is a full EU member. An EU pet passport with a current rabies vaccination is sufficient to enter. Microchipping is required."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le tram avec mon chien à Tallinn ?",
+          "a": "Oui, et les chiens voyagent gratuitement. Les chiens qui ne sont pas dans un sac de transport doivent porter une muselière. Les chiens dans un sac de transport voyagent sans exigences supplémentaires. Les chiens ne peuvent pas occuper les sièges."
+        },
+        {
+          "q": "Puis-je prendre le ferry avec mon chien de Tallinn à Helsinki ?",
+          "a": "Oui. Tallink Silja Line propose plusieurs options pour les animaux : sac de transport en zone passagers (9 €), pont-garage (gratuit), chenil à bord avec bac à sable (9 €) ou cabine pet-friendly (+15 €). Réservez à l'avance — les places pour animaux sont limitées."
+        },
+        {
+          "q": "L'Estonie est-elle conforme à l'UE pour les voyages avec animaux ?",
+          "a": "Oui. L'Estonie est membre à part entière de l'UE. Un passeport UE pour animaux avec une vaccination antirabique en cours est suffisant pour entrer. La puce électronique est obligatoire."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo tomar el tranvía con mi perro en Tallinn?",
+          "a": "Sí, y los perros viajan gratis. Los perros que no van en un transportín deben llevar bozal. Los perros en un transportín viajan sin requisitos adicionales. Los perros no pueden ocupar asientos."
+        },
+        {
+          "q": "¿Puedo tomar el ferry con mi perro de Tallinn a Helsinki?",
+          "a": "Sí. Tallink Silja Line ofrece varias opciones para mascotas: transportín en área de pasajeros (9 €), cubierta de vehículos (gratis), perrera a bordo con arenero (9 €) o cabina pet-friendly (+15 €). Reserva con antelación — los espacios para mascotas son limitados."
+        },
+        {
+          "q": "¿Estonia cumple con la normativa UE para viajes con mascotas?",
+          "a": "Sí. Estonia es miembro pleno de la UE. Un pasaporte UE para mascotas con vacunación antirrábica vigente es suficiente para entrar. Se requiere microchip."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Tallinn",
+      "titleFr": "Plages accessibles aux chiens près de Tallinn",
+      "titleEs": "Playas para perros cerca de Tallinn",
+      "introEn": "Tallinn sits on the Gulf of Finland, with several beaches reachable within 15–30 minutes. Estonia's general rule is permissive: dogs are allowed on all sea shores and lakes that do not have a specific prohibition sign or designated swimming area. This means most Estonian beaches outside designated bathing zones are accessible year-round with a dog. Pirita Beach (the closest to the city) is the main exception — seasonal restrictions apply on the main section in summer, but the river beach nearby is always accessible.",
+      "introFr": "Tallinn est située sur le golfe de Finlande, avec plusieurs plages accessibles en 15–30 minutes. La règle générale de l'Estonie est permissive : les chiens sont autorisés sur toutes les rives de mer et les lacs qui n'ont pas de panneau d'interdiction spécifique ou de zone de baignade désignée. Cela signifie que la plupart des plages estoniennes en dehors des zones de baignade désignées sont accessibles toute l'année avec un chien. La plage de Pirita (la plus proche de la ville) est la principale exception — des restrictions saisonnières s'appliquent sur la section principale en été, mais la plage fluviale à proximité est toujours accessible.",
+      "introEs": "Tallinn está situada en el Golfo de Finlandia, con varias playas accesibles en 15–30 minutos. La regla general de Estonia es permisiva: los perros están permitidos en todas las orillas del mar y los lagos que no tienen una señal de prohibición específica o área de baño designada. Esto significa que la mayoría de las playas de Estonia fuera de las zonas de baño designadas son accesibles durante todo el año con un perro. La playa de Pirita (la más cercana a la ciudad) es la principal excepción — las restricciones estacionales se aplican en la sección principal en verano, pero la playa del río cercana siempre es accesible.",
+      "places": [
+        {
+          "name": "Pirita River Beach (along fitness trail)",
+          "distance": "20 min by bus from Old Town (bus 1A or 34A)",
+          "description": "The natural beach on the Pirita River, accessible along the riverside fitness trail, is the most consistently dog-friendly swimming spot near Tallinn. Dogs can enter the water year-round here, unlike the main Pirita sea beach which has summer restrictions. The trail runs through shaded riverside scenery, making it a pleasant walk in all seasons. Combine with a visit to the Pirita promenade and the ruined Pirita Convent.",
+          "season": "Year-round",
+          "rules": "Dogs on leash along the path. Informal swimming access at the river beach — no specific restrictions.",
+          "facilities": "Parking in the Pirita area, toilets near the promenade, cafés open seasonally",
+          "googleMapsUrl": "https://maps.google.com/?q=Pirita+River+Tallinn"
+        },
+        {
+          "name": "Russalka Memorial Beach",
+          "distance": "15 min by tram from Old Town",
+          "description": "A small, rocky beach east of the Russalka Memorial on Tallinn's coast. This spot is consistently cited by local dog owners as dog-friendly for swimming. The beach is not a designated public bathing area (which means the general dog-permitted rule applies). Quieter than Pirita, with a genuine local feel. The Russalka Memorial itself (a bronze angel monument) is just steps from the beach.",
+          "season": "Year-round",
+          "rules": "Dogs permitted — not a designated human swimming area. Keep dogs on a leash when walking along the coastal path.",
+          "facilities": "Public transport (tram) nearby, some street parking",
+          "googleMapsUrl": "https://maps.google.com/?q=Russalka+Memorial+Tallinn"
+        }
+      ],
+      "tipsEn": [
+        "Estonia's general rule: dogs are allowed on all sea shores and lakes without specific prohibition signs. Use this to find quiet, uncrowded spots beyond the main beaches.",
+        "Pirita Beach (main section) restricts dogs during peak beach season. Use the Pirita River fitness trail beach instead — it's a 5-minute walk from the main beach.",
+        "The Baltic Sea water is warmest (and most swimmable for dogs) in July and August — around 18–22°C at peak.",
+        "Winter walks along the Tallinn coast with a dog are spectacular on clear, crisp days. The Gulf of Finland sometimes freezes, offering extraordinary icy landscapes."
+      ],
+      "tipsFr": [
+        "La règle générale de l'Estonie : les chiens sont autorisés sur toutes les rives de mer et les lacs sans panneaux d'interdiction spécifiques. Utilisez cela pour trouver des endroits calmes et peu fréquentés au-delà des plages principales.",
+        "La plage de Pirita (section principale) interdit les chiens pendant la haute saison balnéaire. Utilisez plutôt la plage du sentier de remise en forme de la rivière Pirita — c'est à 5 minutes à pied de la plage principale.",
+        "L'eau de la mer Baltique est la plus chaude (et la plus praticable pour les chiens) en juillet et août — environ 18–22°C au pic.",
+        "Les promenades hivernales le long de la côte de Tallinn avec un chien sont spectaculaires par temps clair et vif. Le golfe de Finlande se fige parfois, offrant des paysages glacés extraordinaires."
+      ],
+      "tipsEs": [
+        "La regla general de Estonia: los perros están permitidos en todas las orillas del mar y los lagos sin señales de prohibición específicas. Utiliza esto para encontrar lugares tranquilos y poco concurridos más allá de las playas principales.",
+        "La playa de Pirita (sección principal) restringe los perros durante la temporada alta de playa. Usa en su lugar la playa del sendero de fitness del río Pirita — está a 5 minutos a pie de la playa principal.",
+        "El agua del Mar Báltico es más cálida (y más navegable para los perros) en julio y agosto — alrededor de 18–22°C en el pico.",
+        "Los paseos de invierno a lo largo de la costa de Tallinn con un perro son espectaculares en días claros y frescos. El Golfo de Finlandia a veces se congela, ofreciendo paisajes helados extraordinarios."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Pirita Beach?",
+          "a": "The main Pirita sea beach restricts dogs during peak beach season (approximately June–August). Year-round, dogs are welcome on the Pirita River fitness trail beach (a 5-minute walk from the main beach). Dogs are also welcome on the promenade and coastal paths year-round."
+        },
+        {
+          "q": "Are dogs allowed on Estonian beaches in general?",
+          "a": "Yes, as a general rule. Estonia permits dogs on all sea shores and lakes that do not have a specific prohibition sign or designated bathing zone. Most beaches outside Tallinn have no dog restrictions."
+        },
+        {
+          "q": "Can dogs swim in the sea near Tallinn?",
+          "a": "Yes. The Russalka Memorial beach and the Pirita River beach are dog-friendly swimming spots year-round. The sea temperature is swimmable (for dogs) from approximately June to September."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la plage de Pirita ?",
+          "a": "La plage de mer principale de Pirita interdit les chiens pendant la haute saison balnéaire (environ juin–août). Toute l'année, les chiens sont les bienvenus sur la plage du sentier de remise en forme de la rivière Pirita (à 5 minutes à pied de la plage principale). Les chiens sont également les bienvenus sur la promenade et les chemins côtiers toute l'année."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés sur les plages estoniennes en général ?",
+          "a": "Oui, en règle générale. L'Estonie autorise les chiens sur toutes les rives de mer et les lacs qui n'ont pas de panneau d'interdiction spécifique ou de zone de baignade désignée. La plupart des plages en dehors de Tallinn n'ont aucune restriction pour les chiens."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans la mer près de Tallinn ?",
+          "a": "Oui. La plage du mémorial Russalka et la plage de la rivière Pirita sont des endroits de baignade dog-friendly toute l'année. La température de la mer est propice à la baignade (pour les chiens) d'environ juin à septembre."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la playa de Pirita?",
+          "a": "La playa principal del mar de Pirita restringe los perros durante la temporada alta de playa (aproximadamente junio–agosto). Durante todo el año, los perros son bienvenidos en la playa del sendero de fitness del río Pirita (a 5 minutos a pie de la playa principal). Los perros también son bienvenidos en el paseo y los caminos costeros durante todo el año."
+        },
+        {
+          "q": "¿Se permiten perros en las playas de Estonia en general?",
+          "a": "Sí, como regla general. Estonia permite perros en todas las orillas del mar y los lagos que no tienen una señal de prohibición específica o zona de baño designada. La mayoría de las playas fuera de Tallinn no tienen restricciones para perros."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el mar cerca de Tallinn?",
+          "a": "Sí. La playa del Memorial Russalka y la playa del río Pirita son lugares pet-friendly para nadar durante todo el año. La temperatura del mar es nadable (para los perros) aproximadamente de junio a septiembre."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Tallinn",
+      "titleFr": "Vétérinaires et soins d'urgence à Tallinn",
+      "titleEs": "Veterinarios y atención de emergencia en Tallinn",
+      "introEn": "Tallinn has excellent veterinary infrastructure. The most important clinic for visiting pet owners is Loomade Kiirabikliinik (Animal Emergency Clinic) at Mustamäe tee 44/2, which operates 24 hours a day, 7 days a week with stationary emergency vets. Estonia is an EU member, so EU pet passports are valid. Ensure your dog's rabies vaccination is current before travel.",
+      "introFr": "Tallinn dispose d'une excellente infrastructure vétérinaire. La clinique la plus importante pour les propriétaires d'animaux en visite est la Loomade Kiirabikliinik (Clinique d'urgence animale) au Mustamäe tee 44/2, qui fonctionne 24h/24, 7j/7 avec des vétérinaires d'urgence permanents. L'Estonie est membre de l'UE, donc les passeports UE pour animaux sont valables. Assurez-vous que la vaccination antirabique de votre chien est à jour avant de voyager.",
+      "introEs": "Tallinn tiene una excelente infraestructura veterinaria. La clínica más importante para los dueños de mascotas visitantes es Loomade Kiirabikliinik (Clínica de Emergencias Animales) en Mustamäe tee 44/2, que opera las 24 horas del día, 7 días a la semana con veterinarios de emergencia permanentes. Estonia es miembro de la UE, por lo que los pasaportes UE para mascotas son válidos. Asegúrate de que la vacunación antirrábica de tu perro esté al día antes de viajar.",
+      "places": [
+        {
+          "name": "Loomade Kiirabikliinik (Animal Emergency Clinic — Evidensia)",
+          "address": "Mustamäe tee 44/2, 10621 Tallinn",
+          "neighborhood": "Mustamäe",
+          "photo": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://evidensia.ee/loomakliinik/loomade-kiirabikliinik/",
+          "description": "The primary 24-hour emergency veterinary clinic in Tallinn, now part of the Evidensia veterinary group. Operates around the clock every day with stationary emergency veterinarians. Fully equipped for all emergency procedures. This is the main reference for emergency pet care for visitors to Tallinn — keep this address and phone number saved.",
+          "descriptionFr": "La principale clinique vétérinaire d'urgence 24h/24 de Tallinn, désormais intégrée au groupe vétérinaire Evidensia. Fonctionne en continu tous les jours avec des vétérinaires d'urgence permanents. Entièrement équipée pour toutes les procédures d'urgence. C'est la principale référence pour les soins vétérinaires d'urgence pour les visiteurs de Tallinn — conservez cette adresse et ce numéro de téléphone.",
+          "descriptionEs": "La principal clínica veterinaria de emergencias 24 horas de Tallinn, ahora parte del grupo veterinario Evidensia. Opera las 24 horas todos los días con veterinarios de emergencias permanentes. Totalmente equipada para todos los procedimientos de emergencia. Esta es la principal referencia para la atención veterinaria de emergencia para los visitantes de Tallinn — guarda esta dirección y número de teléfono.",
+          "phone": "+372 5023191",
+          "emergency": true,
+          "hours": "Open 24 hours, 7 days a week",
+          "tip": "Save this number before you travel: +372 5023191. It is the main emergency vet number in Tallinn",
+          "tipFr": "Enregistrez ce numéro avant de voyager : +372 5023191. C'est le principal numéro de vétérinaire d'urgence à Tallinn",
+          "tipEs": "Guarda este número antes de viajar: +372 5023191. Es el principal número de emergencias veterinarias en Tallinn",
+          "googleMapsUrl": "https://maps.google.com/?q=Loomade+Kiirabikliinik+Tallinn+Mustamae"
+        },
+        {
+          "name": "Südalinna Loomakliiniku (City Centre Animal Clinic)",
+          "address": "Pärnu mnt 67, 10134 Tallinn",
+          "neighborhood": "Kesklinn (City Centre)",
+          "photo": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80",
+          "website": "https://xn--sdalinnaloomakliinik-pec.ee/en/",
+          "description": "A well-regarded veterinary clinic in central Tallinn on Pärnu mnt, within walking distance of the Old Town. Provides routine and specialist veterinary care. Good option for non-emergency consultations during your stay. English-speaking staff available.",
+          "descriptionFr": "Une clinique vétérinaire bien réputée dans le centre de Tallinn sur Pärnu mnt, accessible à pied depuis la vieille ville. Fournit des soins vétérinaires de routine et spécialisés. Bonne option pour les consultations non urgentes pendant votre séjour. Personnel anglophone disponible.",
+          "descriptionEs": "Una clínica veterinaria bien valorada en el centro de Tallinn en Pärnu mnt, a poca distancia a pie del casco antiguo. Proporciona atención veterinaria de rutina y especializada. Buena opción para consultas no urgentes durante tu estancia. Personal de habla inglesa disponible.",
+          "phone": "Contact via website",
+          "emergency": false,
+          "hours": "Mon–Fri 09:00–19:00, Sat 10:00–16:00",
+          "tip": "For non-emergency care close to the Old Town, this is the most conveniently located option",
+          "tipFr": "Pour les soins non urgents proches de la vieille ville, c'est l'option la mieux située",
+          "tipEs": "Para atención no urgente cerca del casco antiguo, esta es la opción mejor ubicada",
+          "googleMapsUrl": "https://maps.google.com/?q=Parnu+mnt+67+Tallinn+veterinary"
+        }
+      ],
+      "tipsEn": [
+        "Key emergency vet: Loomade Kiirabikliinik, Mustamäe tee 44/2. Phone: +372 5023191. Open 24/7.",
+        "Estonia is EU-member — EU pet passport with current rabies vaccination is all you need. Microchipping required.",
+        "Most Tallinn vets speak English. Estonia has a high level of English proficiency among professionals.",
+        "For information about hospitalised animals at Loomade Kiirabikliinik, call between 13:00–15:00."
+      ],
+      "tipsFr": [
+        "Vétérinaire d'urgence principal : Loomade Kiirabikliinik, Mustamäe tee 44/2. Tél. : +372 5023191. Ouvert 24h/24, 7j/7.",
+        "L'Estonie est membre de l'UE — un passeport UE pour animaux avec une vaccination antirabique à jour est tout ce dont vous avez besoin. Puce électronique obligatoire.",
+        "La plupart des vétérinaires de Tallinn parlent anglais. L'Estonie a un niveau élevé de maîtrise de l'anglais parmi les professionnels.",
+        "Pour des informations sur les animaux hospitalisés à la Loomade Kiirabikliinik, appelez entre 13h00 et 15h00."
+      ],
+      "tipsEs": [
+        "Veterinario de emergencias clave: Loomade Kiirabikliinik, Mustamäe tee 44/2. Tel.: +372 5023191. Abierto 24/7.",
+        "Estonia es miembro de la UE — un pasaporte UE para mascotas con vacunación antirrábica vigente es todo lo que necesitas. Se requiere microchip.",
+        "La mayoría de los veterinarios de Tallinn hablan inglés. Estonia tiene un alto nivel de dominio del inglés entre los profesionales.",
+        "Para información sobre animales hospitalizados en Loomade Kiirabikliinik, llama entre las 13:00 y las 15:00."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Tallinn?",
+          "a": "Yes. Loomade Kiirabikliinik (Animal Emergency Clinic) at Mustamäe tee 44/2 operates 24 hours a day, 7 days a week. Phone: +372 5023191."
+        },
+        {
+          "q": "Do I need special documentation to bring my dog to Estonia?",
+          "a": "No special permit. Estonia is a full EU member. An EU pet passport with current rabies vaccination is sufficient. Microchipping is required."
+        },
+        {
+          "q": "Do vets in Tallinn speak English?",
+          "a": "Yes. English proficiency is high in Estonia among professionals. Most Tallinn veterinary clinics have English-speaking staff. Loomade Kiirabikliinik is the most experienced with international visitors."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Tallinn ?",
+          "a": "Oui. La Loomade Kiirabikliinik (Clinique d'urgence animale) au Mustamäe tee 44/2 fonctionne 24h/24, 7j/7. Tél. : +372 5023191."
+        },
+        {
+          "q": "Ai-je besoin de documents spéciaux pour emmener mon chien en Estonie ?",
+          "a": "Pas de permis spécial. L'Estonie est membre à part entière de l'UE. Un passeport UE pour animaux avec vaccination antirabique en cours est suffisant. La puce électronique est obligatoire."
+        },
+        {
+          "q": "Les vétérinaires de Tallinn parlent-ils anglais ?",
+          "a": "Oui. La maîtrise de l'anglais est élevée en Estonie parmi les professionnels. La plupart des cliniques vétérinaires de Tallinn ont du personnel anglophone. La Loomade Kiirabikliinik est la plus expérimentée avec les visiteurs internationaux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas en Tallinn?",
+          "a": "Sí. Loomade Kiirabikliinik (Clínica de Emergencias Animales) en Mustamäe tee 44/2 opera las 24 horas del día, 7 días a la semana. Tel.: +372 5023191."
+        },
+        {
+          "q": "¿Necesito documentación especial para llevar a mi perro a Estonia?",
+          "a": "No se necesita permiso especial. Estonia es miembro pleno de la UE. Un pasaporte UE para mascotas con vacunación antirrábica vigente es suficiente. Se requiere microchip."
+        },
+        {
+          "q": "¿Los veterinarios de Tallinn hablan inglés?",
+          "a": "Sí. El dominio del inglés es alto en Estonia entre los profesionales. La mayoría de las clínicas veterinarias de Tallinn tienen personal de habla inglesa. Loomade Kiirabikliinik tiene más experiencia con visitantes internacionales."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Tallinn with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Tallinn avec un chien",
+      "titleEs": "Consejos esenciales para visitar Tallinn con un perro",
+      "introEn": "Tallinn is one of the most dog-friendly capitals in Northern Europe. The compact, walkable Old Town is excellent with a leashed dog, public transport is free for dogs (with muzzle), and the café culture is genuinely welcoming. The main challenge is winter — December to February is reliably cold (−5°C to −15°C or below) with ice and snow. Summer (June to August) is the best time to visit with your dog, with terraces open and maximum daylight.",
+      "introFr": "Tallinn est l'une des capitales les plus dog-friendly d'Europe du Nord. La vieille ville compacte et agréable à pied est excellente avec un chien en laisse, les transports en commun sont gratuits pour les chiens (avec muselière), et la culture du café est véritablement accueillante. Le principal défi est l'hiver — de décembre à février, il fait régulièrement froid (−5°C à −15°C ou moins) avec glace et neige. L'été (juin à août) est la meilleure période pour visiter avec votre chien, avec des terrasses ouvertes et un maximum de lumière du jour.",
+      "introEs": "Tallinn es una de las capitales más pet-friendly del norte de Europa. El compacto y agradable para caminar casco antiguo es excelente con un perro con correa, el transporte público es gratuito para los perros (con bozal), y la cultura del café es genuinamente acogedora. El principal desafío es el invierno — de diciembre a febrero hace regularmente frío (−5°C a −15°C o menos) con hielo y nieve. El verano (junio a agosto) es la mejor época para visitar con tu perro, con terrazas abiertas y máxima luz del día.",
+      "places": [],
+      "tipsEn": [
+        "Bring a muzzle — it's required on all Tallinn public transport (trams, buses, trolleybuses) for dogs not in carriers. Without one, you cannot use public transport.",
+        "Winter paw care: Baltic winters are severe. Dog boots or paw wax are essential from November to March. Streets are heavily gritted with salt.",
+        "The Old Town (Vanalinn) is spectacular but cobblestoned — check your dog's paws after long walks on the medieval streets.",
+        "Tallinn's Telliskivi Creative City and Kalamaja neighbourhood are the most relaxed, dog-welcoming areas of the city.",
+        "EU pet passport required. Ensure rabies vaccination is current and your dog is microchipped before travel.",
+        "petcity.ee is the best local resource for verified dog-friendly spots across Tallinn."
+      ],
+      "tipsFr": [
+        "Apportez une muselière — elle est obligatoire dans tous les transports en commun de Tallinn (trams, bus, trolleybus) pour les chiens qui ne sont pas dans des sacs de transport. Sans elle, vous ne pouvez pas utiliser les transports en commun.",
+        "Soin des pattes en hiver : les hivers baltiques sont rudes. Les bottines ou la cire pour pattes sont indispensables de novembre à mars. Les rues sont fortement salées.",
+        "La vieille ville (Vanalinn) est spectaculaire mais pavée — vérifiez les pattes de votre chien après de longues marches dans les rues médiévales.",
+        "La ville créative Telliskivi et le quartier Kalamaja sont les zones les plus détendues et dog-friendly de la ville.",
+        "Passeport UE pour animaux obligatoire. Assurez-vous que la vaccination antirabique est à jour et que votre chien est pucé avant de voyager.",
+        "petcity.ee est la meilleure ressource locale pour les spots dog-friendly vérifiés à travers Tallinn."
+      ],
+      "tipsEs": [
+        "Lleva un bozal — es obligatorio en todos los transportes públicos de Tallinn (tranvías, autobuses, trolebuses) para los perros que no van en transportines. Sin él, no puedes usar el transporte público.",
+        "Cuidado de las patas en invierno: los inviernos bálticos son severos. Las botas para perros o la cera para patas son esenciales de noviembre a marzo. Las calles están muy cubiertas de sal.",
+        "El casco antiguo (Vanalinn) es espectacular pero adoquinado — comprueba las patas de tu perro después de largos paseos por las calles medievales.",
+        "La Ciudad Creativa Telliskivi y el barrio Kalamaja son las zonas más relajadas y pet-friendly de la ciudad.",
+        "Se requiere pasaporte UE para mascotas. Asegúrate de que la vacunación antirrábica esté al día y que tu perro esté microchipado antes de viajar.",
+        "petcity.ee es el mejor recurso local para los lugares verificados pet-friendly en todo Tallinn."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Tallinn dog-friendly?",
+          "a": "Very. Tallinn is one of the most dog-friendly capitals in the Baltic region. Public transport is free for dogs (with muzzle), parks have designated off-leash zones, most café terraces welcome dogs, and the overall culture is welcoming."
+        },
+        {
+          "q": "Do I need a muzzle for my dog in Tallinn?",
+          "a": "On public transport (trams, buses, trolleybuses), yes — a muzzle is required for dogs not in carriers. In parks and on streets, muzzles are not generally required except in specific cases."
+        },
+        {
+          "q": "What is the weather like in Tallinn for dogs in winter?",
+          "a": "Harsh. December to February regularly sees −5°C to −15°C with snow and ice. Paw protection is essential. Streets are heavily salted. Short walks are advisable in the coldest weeks. That said, Tallinn in the snow is extraordinarily beautiful."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Tallinn est-elle dog-friendly ?",
+          "a": "Beaucoup. Tallinn est l'une des capitales les plus dog-friendly de la région baltique. Les transports en commun sont gratuits pour les chiens (avec muselière), les parcs ont des zones de liberté désignées, la plupart des terrasses de café accueillent les chiens, et la culture générale est accueillante."
+        },
+        {
+          "q": "Mon chien a-t-il besoin d'une muselière à Tallinn ?",
+          "a": "Dans les transports en commun (trams, bus, trolleybus), oui — une muselière est obligatoire pour les chiens qui ne sont pas dans des sacs de transport. Dans les parcs et dans les rues, les muselières ne sont généralement pas obligatoires sauf dans des cas spécifiques."
+        },
+        {
+          "q": "Quel temps fait-il à Tallinn pour les chiens en hiver ?",
+          "a": "Rude. De décembre à février, les températures sont régulièrement de −5°C à −15°C avec neige et glace. La protection des pattes est essentielle. Les rues sont fortement salées. Les courtes promenades sont conseillées pendant les semaines les plus froides. Cela dit, Tallinn sous la neige est extraordinairement belle."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Tallinn pet-friendly?",
+          "a": "Mucho. Tallinn es una de las capitales más pet-friendly de la región báltica. El transporte público es gratuito para los perros (con bozal), los parques tienen zonas designadas sin correa, la mayoría de las terrazas de café admiten perros, y la cultura general es acogedora."
+        },
+        {
+          "q": "¿Necesita mi perro un bozal en Tallinn?",
+          "a": "En el transporte público (tranvías, autobuses, trolebuses), sí — se requiere bozal para los perros que no van en transportines. En los parques y en las calles, los bozales no son generalmente necesarios excepto en casos específicos."
+        },
+        {
+          "q": "¿Cómo es el tiempo en Tallinn para los perros en invierno?",
+          "a": "Duro. De diciembre a febrero se registran regularmente −5°C a −15°C con nieve y hielo. La protección de las patas es esencial. Las calles están muy saladas. Los paseos cortos son aconsejables en las semanas más frías. Dicho esto, Tallinn bajo la nieve es extraordinariamente bella."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Tallinn",
+      "titleFr": "Attractions dog-friendly à Tallinn",
+      "titleEs": "Atracciones pet-friendly en Tallinn",
+      "introEn": "Tallinn's medieval Old Town is UNESCO World Heritage-listed and one of the best-preserved in Europe. Dogs on a leash are welcome on all outdoor streets throughout Vanalinn. The viewpoints on Toompea Hill (Kohtuotsa and Patkuli platforms) offer some of the finest urban panoramas in the Baltic and are fully accessible with dogs. Telliskivi Creative City and the Kalamaja wooden house district are the most contemporary dog-friendly neighbourhoods for exploring. Indoor museums generally do not permit dogs, with the exception of Fotografiska.",
+      "introFr": "La vieille ville médiévale de Tallinn est inscrite au patrimoine mondial de l'UNESCO et l'une des mieux préservées d'Europe. Les chiens en laisse sont les bienvenus dans toutes les rues extérieures de Vanalinn. Les points de vue sur la colline Toompea (plateformes Kohtuotsa et Patkuli) offrent certains des plus beaux panoramas urbains des États baltes et sont entièrement accessibles avec des chiens. La ville créative Telliskivi et le quartier des maisons en bois de Kalamaja sont les quartiers dog-friendly les plus contemporains à explorer. Les musées intérieurs n'autorisent généralement pas les chiens, à l'exception de Fotografiska.",
+      "introEs": "El casco antiguo medieval de Tallinn está catalogado como Patrimonio de la Humanidad por la UNESCO y es uno de los mejor conservados de Europa. Los perros con correa son bienvenidos en todas las calles exteriores de Vanalinn. Los miradores en la colina Toompea (plataformas Kohtuotsa y Patkuli) ofrecen algunos de los mejores panoramas urbanos de los estados bálticos y son totalmente accesibles con perros. La Ciudad Creativa Telliskivi y el barrio de casas de madera de Kalamaja son los barrios pet-friendly más contemporáneos para explorar. Los museos interiores generalmente no permiten perros, con la excepción de Fotografiska.",
+      "places": [
+        {
+          "name": "Old Town (Vanalinn) & Toompea Hill",
+          "address": "Tallinn Old Town, 10130 Tallinn",
+          "neighborhood": "Vanalinn",
+          "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visittallinn.ee/eng/visitor/see-do/things-to-do/old-town",
+          "description": "Tallinn's medieval Old Town is one of the best-preserved in all of Europe, and it's all walkable with a dog on a leash. The Town Hall Square (Raekoja plats), St Olaf's Church viewpoint, the city walls walk, and the Toompea Hill panorama platforms are all fully accessible. Dogs on a leash are welcome throughout. The two viewpoint terraces on Toompea (Kohtuotsa and Patkuli) are among the best in the Baltic — arrive early morning for the most atmospheric experience. Several café terraces on the Old Town square welcome dogs in summer.",
+          "descriptionFr": "La vieille ville médiévale de Tallinn est l'une des mieux préservées de toute l'Europe, et elle se visite entièrement avec un chien en laisse. La place de l'Hôtel de Ville (Raekoja plats), le point de vue de l'église Saint-Olaf, la promenade des remparts et les plateformes panoramiques de la colline Toompea sont tous entièrement accessibles. Les chiens en laisse sont les bienvenus partout. Les deux terrasses panoramiques de Toompea (Kohtuotsa et Patkuli) sont parmi les meilleures des États baltes — arrivez tôt le matin pour l'expérience la plus atmosphérique. Plusieurs terrasses de café sur la place de la vieille ville accueillent les chiens en été.",
+          "descriptionEs": "El casco antiguo medieval de Tallinn es uno de los mejor conservados de toda Europa, y es totalmente accesible a pie con un perro con correa. La Plaza del Ayuntamiento (Raekoja plats), el mirador de la Iglesia de San Olaf, el paseo por las murallas de la ciudad y las plataformas panorámicas de la colina Toompea son todos totalmente accesibles. Los perros con correa son bienvenidos en todas partes. Las dos terrazas mirador en Toompea (Kohtuotsa y Patkuli) están entre las mejores de los estados bálticos — llega temprano por la mañana para la experiencia más atmosférica. Varias terrazas de café en la plaza del casco antiguo admiten perros en verano.",
+          "petPolicy": "Dogs on a leash welcome on all outdoor streets. Not permitted inside churches or museums.",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toutes les rues extérieures. Non autorisés dans les églises ou les musées.",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las calles exteriores. No permitidos en iglesias o museos.",
+          "tip": "Arrive before 8am in summer for an almost empty Old Town with your dog. By 10am the tourist crowds begin",
+          "tipFr": "Arrivez avant 8h en été pour une vieille ville presque vide avec votre chien. Dès 10h les foules touristiques commencent",
+          "tipEs": "Llega antes de las 8h en verano para un casco antiguo casi vacío con tu perro. A partir de las 10h empiezan las multitudes turísticas",
+          "googleMapsUrl": "https://maps.google.com/?q=Tallinn+Old+Town+Raekoja+plats"
+        },
+        {
+          "name": "Telliskivi Creative City",
+          "address": "Telliskivi tn 60, 10412 Tallinn",
+          "neighborhood": "Kalamaja",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://telliskivi.cc/en/",
+          "description": "Tallinn's most dynamic neighbourhood destination: a repurposed Soviet-era industrial complex that now houses restaurants, cafés, galleries, design studios, and a flea market. The outdoor courtyards are some of the most dog-friendly spaces in Tallinn — locals bring their dogs here constantly. F-Hoone, Fotografiska, and numerous food trucks and cafés are all here. Telliskivi is at its best on warm weekends when the outdoor areas fill with people and their dogs.",
+          "descriptionFr": "Le quartier le plus dynamique de Tallinn : un complexe industriel soviétique reconverti qui abrite désormais restaurants, cafés, galeries, studios de design et un marché aux puces. Les cours extérieures sont parmi les espaces les plus dog-friendly de Tallinn — les locaux y amènent leurs chiens en permanence. F-Hoone, Fotografiska et de nombreux food trucks et cafés sont tous là. Telliskivi est à son meilleur les week-ends chauds lorsque les espaces extérieurs se remplissent de personnes et de leurs chiens.",
+          "descriptionEs": "El destino de barrio más dinámico de Tallinn: un complejo industrial de la era soviética reconvertido que ahora alberga restaurantes, cafés, galerías, estudios de diseño y un mercado de pulgas. Los patios exteriores son algunos de los espacios más pet-friendly de Tallinn — los locales traen a sus perros aquí constantemente. F-Hoone, Fotografiska y numerosos food trucks y cafés están todos aquí. Telliskivi está en su mejor momento los fines de semana cálidos cuando las áreas exteriores se llenan de personas y sus perros.",
+          "petPolicy": "Dogs welcome throughout outdoor areas. Indoor spaces vary by venue — ask.",
+          "petPolicyFr": "Chiens bienvenus dans toutes les zones extérieures. Les espaces intérieurs varient selon l'établissement — demandez.",
+          "petPolicyEs": "Perros bienvenidos en todas las áreas exteriores. Los espacios interiores varían según el local — pregunta.",
+          "tip": "Visit on Saturday for the weekly flea market — dogs are very welcome among the stalls",
+          "tipFr": "Visitez le samedi pour le marché aux puces hebdomadaire — les chiens sont très bienvenus parmi les étals",
+          "tipEs": "Visita el sábado para el mercado de pulgas semanal — los perros son muy bienvenidos entre los puestos",
+          "googleMapsUrl": "https://maps.google.com/?q=Telliskivi+Creative+City+Tallinn"
+        },
+        {
+          "name": "Kalamaja Wooden House District",
+          "address": "Kalamaja, Tallinn",
+          "neighborhood": "Kalamaja",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visittallinn.ee/eng/visitor/see-do/things-to-do/neighbourhoods/kalamaja",
+          "description": "Tallinn's most charming residential neighbourhood, Kalamaja (literally 'fish house') is characterised by its colourful wooden houses dating from the early 20th century. The neighbourhood has a strongly local, creative character — artists, young families, and lots of dogs. Walking the quiet residential streets with your dog, stopping at Café Boheem or another local café, and soaking up the unhurried neighbourhood atmosphere is one of the best things to do in Tallinn.",
+          "descriptionFr": "Le quartier résidentiel le plus charmant de Tallinn, Kalamaja (littéralement 'maison du poisson') est caractérisé par ses maisons en bois colorées datant du début du XXe siècle. Le quartier a un caractère local et créatif fort — artistes, jeunes familles et beaucoup de chiens. Se promener dans les rues résidentielles tranquilles avec votre chien, s'arrêter au Café Boheem ou dans un autre café local, et s'imprégner de l'atmosphère tranquille du quartier est l'une des meilleures choses à faire à Tallinn.",
+          "descriptionEs": "El barrio residencial más encantador de Tallinn, Kalamaja (literalmente 'casa de pescado') se caracteriza por sus coloridas casas de madera que datan de principios del siglo XX. El barrio tiene un carácter local y creativo fuerte — artistas, familias jóvenes y muchos perros. Pasear por las tranquilas calles residenciales con tu perro, parar en el Café Boheem u otro café local, y empaparse del ambiente tranquilo del barrio es una de las mejores cosas que hacer en Tallinn.",
+          "petPolicy": "Dogs on leash welcome on all streets throughout the neighbourhood",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toutes les rues du quartier",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las calles del barrio",
+          "tip": "Combine Kalamaja with Telliskivi Creative City (adjacent) and a stop at Balti Jaama Turg market for a full half-day out",
+          "tipFr": "Combinez Kalamaja avec la ville créative Telliskivi (adjacente) et un arrêt au marché Balti Jaama Turg pour une bonne demi-journée",
+          "tipEs": "Combina Kalamaja con la Ciudad Creativa Telliskivi (adyacente) y una parada en el mercado Balti Jaama Turg para una media jornada completa",
+          "googleMapsUrl": "https://maps.google.com/?q=Kalamaja+Tallinn"
+        }
+      ],
+      "tipsEn": [
+        "All outdoor streets in Tallinn's Old Town, Kalamaja, and Telliskivi are fully accessible with a leashed dog.",
+        "Fotografiska museum explicitly welcomes dogs — one of the few indoor cultural venues in Tallinn that does so.",
+        "Avoid the Old Town on weekend afternoons in summer — narrow cobbled streets and peak tourist crowds are stressful for dogs.",
+        "Tallinn's city walls and viewpoint towers: the outdoor wall walk and viewpoint terraces (Toompea hill) are dog-friendly. Tower interiors are not."
+      ],
+      "tipsFr": [
+        "Toutes les rues extérieures de la vieille ville de Tallinn, Kalamaja et Telliskivi sont entièrement accessibles avec un chien en laisse.",
+        "Le musée Fotografiska accueille explicitement les chiens — l'un des rares lieux culturels intérieurs à Tallinn à le faire.",
+        "Évitez la vieille ville les après-midis du week-end en été — les rues pavées étroites et les foules de touristes sont stressantes pour les chiens.",
+        "Les remparts de la ville de Tallinn et les tours de guet : la promenade extérieure des remparts et les terrasses panoramiques (colline Toompea) sont dog-friendly. Les intérieurs des tours ne le sont pas."
+      ],
+      "tipsEs": [
+        "Todas las calles exteriores del casco antiguo de Tallinn, Kalamaja y Telliskivi son totalmente accesibles con un perro con correa.",
+        "El museo Fotografiska da explícitamente la bienvenida a los perros — uno de los pocos lugares culturales interiores en Tallinn que lo hace.",
+        "Evita el casco antiguo los fines de semana por la tarde en verano — las estrechas calles adoquinadas y las multitudes turísticas pico son estresantes para los perros.",
+        "Las murallas de la ciudad de Tallinn y las torres mirador: el paseo exterior por las murallas y las terrazas mirador (colina Toompea) son pet-friendly. Los interiores de las torres no lo son."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I visit Tallinn's Old Town with my dog?",
+          "a": "Yes, fully. Dogs on a leash are welcome on all outdoor streets in Vanalinn. You cannot enter churches, museums, or tower interiors. The outdoor walking experience — including the Toompea viewpoints — is exceptional with a dog."
+        },
+        {
+          "q": "Is Fotografiska museum in Tallinn dog-friendly?",
+          "a": "Yes, it explicitly welcomes well-behaved dogs. Skip guided tours if you are bringing a dog, as those may have restrictions. The café and outdoor terrace are fully dog-friendly."
+        },
+        {
+          "q": "What are the best neighbourhoods to explore in Tallinn with a dog?",
+          "a": "Kalamaja (wooden house district), Telliskivi Creative City, and the Old Town streets. All three are relaxed, walkable, and dog-welcoming environments with cafés and outdoor spaces."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je visiter la vieille ville de Tallinn avec mon chien ?",
+          "a": "Oui, complètement. Les chiens en laisse sont les bienvenus dans toutes les rues extérieures de Vanalinn. Vous ne pouvez pas entrer dans les églises, musées ou intérieurs de tours. L'expérience de marche extérieure — y compris les panoramas de Toompea — est exceptionnelle avec un chien."
+        },
+        {
+          "q": "Le musée Fotografiska de Tallinn est-il dog-friendly ?",
+          "a": "Oui, il accueille explicitement les chiens bien élevés. Évitez les visites guidées si vous amenez un chien, car elles peuvent avoir des restrictions. Le café et la terrasse extérieure sont entièrement dog-friendly."
+        },
+        {
+          "q": "Quels sont les meilleurs quartiers à explorer à Tallinn avec un chien ?",
+          "a": "Kalamaja (quartier des maisons en bois), la ville créative Telliskivi et les rues de la vieille ville. Les trois sont des environnements détendus, agréables à pied et accueillants pour les chiens avec des cafés et des espaces extérieurs."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo visitar el casco antiguo de Tallinn con mi perro?",
+          "a": "Sí, completamente. Los perros con correa son bienvenidos en todas las calles exteriores de Vanalinn. No puedes entrar en iglesias, museos o interiores de torres. La experiencia de caminar al aire libre — incluyendo los miradores de Toompea — es excepcional con un perro."
+        },
+        {
+          "q": "¿Es el museo Fotografiska de Tallinn pet-friendly?",
+          "a": "Sí, da explícitamente la bienvenida a los perros bien educados. Evita las visitas guiadas si llevas un perro, ya que pueden tener restricciones. El café y la terraza exterior son totalmente pet-friendly."
+        },
+        {
+          "q": "¿Cuáles son los mejores barrios para explorar en Tallinn con un perro?",
+          "a": "Kalamaja (barrio de casas de madera), la Ciudad Creativa Telliskivi y las calles del casco antiguo. Los tres son entornos relajados, caminables y acogedores con perros con cafés y espacios exteriores."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Tallinn",
+      "titleFr": "Garde d'animaux et promenade à Tallinn",
+      "titleEs": "Cuidado de mascotas y paseo en Tallinn",
+      "introEn": "Tallinn has a growing range of pet-sitting and dog-walking services. The main platforms available are PetBacker (petbacker.com/estonia) and TrustedHousesitters, both of which have verified sitters in Tallinn. Local Estonian platforms also exist. Given Tallinn's compact size, dog walkers can typically cover the most central neighbourhoods easily. Book in advance during summer months when the city is at its busiest.",
+      "introFr": "Tallinn dispose d'une gamme croissante de services de garde d'animaux et de promenade. Les principales plateformes disponibles sont PetBacker (petbacker.com/estonia) et TrustedHousesitters, qui disposent toutes deux de gardiens vérifiés à Tallinn. Des plateformes locales estoniennes existent également. Compte tenu de la taille compacte de Tallinn, les promeneurs de chiens peuvent généralement couvrir facilement les quartiers les plus centraux. Réservez à l'avance pendant les mois d'été, quand la ville est la plus animée.",
+      "introEs": "Tallinn tiene una gama creciente de servicios de cuidado de mascotas y paseo. Las principales plataformas disponibles son PetBacker (petbacker.com/estonia) y TrustedHousesitters, ambas con cuidadores verificados en Tallinn. También existen plataformas locales estonianas. Dada la compacta talla de Tallinn, los paseadores de perros pueden generalmente cubrir fácilmente los barrios más centrales. Reserva con antelación durante los meses de verano cuando la ciudad está en su punto más concurrido.",
+      "places": [],
+      "tipsEn": [
+        "PetBacker (petbacker.com/estonia) is the most widely used platform in Tallinn, with vetted walkers and sitters in central neighbourhoods.",
+        "TrustedHousesitters has verified sitters near Tallinn — good for overnight or multi-day arrangements.",
+        "Estonia's compact size means most sitters can reach you in the Old Town, Kalamaja, or Telliskivi within 20–30 minutes.",
+        "Book at least 3–5 days in advance in summer — July and August are peak tourist season and quality sitters fill quickly."
+      ],
+      "tipsFr": [
+        "PetBacker (petbacker.com/estonia) est la plateforme la plus utilisée à Tallinn, avec des promeneurs et gardiens vérifiés dans les quartiers centraux.",
+        "TrustedHousesitters a des gardiens vérifiés près de Tallinn — idéal pour les arrangements d'une nuit ou de plusieurs jours.",
+        "La taille compacte de l'Estonie signifie que la plupart des gardiens peuvent vous rejoindre dans la vieille ville, Kalamaja ou Telliskivi en 20–30 minutes.",
+        "Réservez au moins 3–5 jours à l'avance en été — juillet et août sont la haute saison touristique et les bons gardiens se réservent vite."
+      ],
+      "tipsEs": [
+        "PetBacker (petbacker.com/estonia) es la plataforma más utilizada en Tallinn, con paseadores y cuidadores verificados en los barrios centrales.",
+        "TrustedHousesitters tiene cuidadores verificados cerca de Tallinn — bueno para arreglos de una noche o varios días.",
+        "El tamaño compacto de Estonia significa que la mayoría de los cuidadores pueden llegar al casco antiguo, Kalamaja o Telliskivi en 20–30 minutos.",
+        "Reserva con al menos 3–5 días de antelación en verano — julio y agosto son la temporada turística alta y los buenos cuidadores se llenan rápidamente."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog walkers available in Tallinn?",
+          "a": "Yes. PetBacker (petbacker.com/estonia) lists multiple vetted dog walkers and sitters in Tallinn. TrustedHousesitters is another option for multi-day arrangements."
+        },
+        {
+          "q": "How much does dog sitting cost in Tallinn?",
+          "a": "Approximately €10–€25 per visit or walk. Overnight stays with a sitter typically cost €25–€40. Tallinn is affordable by Western European standards."
+        },
+        {
+          "q": "Can I find an English-speaking dog sitter in Tallinn?",
+          "a": "Yes. English proficiency is high in Estonia, particularly among the younger generation. Most sitters on PetBacker and TrustedHousesitters in Tallinn communicate fluently in English."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des promeneurs de chiens à Tallinn ?",
+          "a": "Oui. PetBacker (petbacker.com/estonia) liste plusieurs promeneurs et gardiens vérifiés à Tallinn. TrustedHousesitters est une autre option pour les arrangements de plusieurs jours."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Tallinn ?",
+          "a": "Environ 10–25 € par visite ou promenade. Les séjours nocturnes avec un gardien coûtent généralement 25–40 €. Tallinn est abordable par rapport aux standards d'Europe occidentale."
+        },
+        {
+          "q": "Puis-je trouver un gardien de chien anglophone à Tallinn ?",
+          "a": "Oui. La maîtrise de l'anglais est élevée en Estonie, notamment chez la jeune génération. La plupart des gardiens sur PetBacker et TrustedHousesitters à Tallinn communiquent couramment en anglais."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay paseadores de perros disponibles en Tallinn?",
+          "a": "Sí. PetBacker (petbacker.com/estonia) lista múltiples paseadores y cuidadores verificados en Tallinn. TrustedHousesitters es otra opción para arreglos de varios días."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Tallinn?",
+          "a": "Aproximadamente 10–25 € por visita o paseo. Las estancias nocturnas con un cuidador suelen costar 25–40 €. Tallinn es asequible según los estándares de Europa occidental."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador de perros de habla inglesa en Tallinn?",
+          "a": "Sí. El dominio del inglés es alto en Estonia, especialmente entre la generación joven. La mayoría de los cuidadores en PetBacker y TrustedHousesitters en Tallinn se comunican fluidamente en inglés."
+        }
+      ]
+    }
+  }
+}

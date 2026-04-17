@@ -1,0 +1,868 @@
+{
+  "slug": "ljubljana",
+  "name": "Ljubljana",
+  "country": "Slovenia",
+  "flag": "🇸🇮",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Ljubljana",
+      "titleFr": "Restaurants acceptant les animaux à Ljubljana",
+      "titleEs": "Restaurantes con mascotas en Ljubljana",
+      "introEn": "Ljubljana has one of the most relaxed dog-dining cultures in Central Europe. Both banks of the Ljubljanica river are lined with café and restaurant terraces, and the consensus among local dog owners and visitors alike is that nearly every establishment in the city will accept a well-behaved dog. The old city magazine citymagazine.si maintains a running list of verified dog-friendly venues. Many restaurants in Ljubljana proactively offer water for dogs; a few also offer treats. The pedestrianised riverbanks (Cankarjevo nabrežje and Breg) are the most scenic spots — long afternoon lunches alongside the slow-moving Ljubljanica with your dog at your feet.",
+      "introFr": "Ljubljana possède l'une des cultures de restauration canine les plus décontractées d'Europe centrale. Les deux rives de la Ljubljanica sont bordées de terrasses de cafés et de restaurants, et le consensus parmi les propriétaires de chiens locaux et les visiteurs est que presque chaque établissement de la ville acceptera un chien bien élevé. Le magazine local citymagazine.si maintient une liste régulièrement mise à jour des établissements dog-friendly vérifiés. De nombreux restaurants à Ljubljana proposent proactivement de l'eau pour les chiens ; certains offrent également des friandises. Les berges piétonnes (Cankarjevo nabrežje et Breg) sont les endroits les plus pittoresques — de longs déjeuners en terrasse le long de la Ljubljanica tranquille avec votre chien à vos pieds.",
+      "introEs": "Ljubljana tiene una de las culturas de restauración canina más relajadas de Europa Central. Ambas orillas del río Ljubljanica están bordeadas de terrazas de cafés y restaurantes, y el consenso entre los dueños de perros locales y los visitantes es que casi todos los establecimientos de la ciudad aceptarán a un perro bien educado. La revista local citymagazine.si mantiene una lista actualizada de locales verificados pet-friendly. Muchos restaurantes de Ljubljana ofrecen proactivamente agua para los perros; algunos también ofrecen golosinas. Las orillas peatonales del río (Cankarjevo nabrežje y Breg) son los lugares más pintorescos — largos almuerzos en terraza junto al tranquilo Ljubljanica con tu perro a tus pies.",
+      "places": [
+        {
+          "name": "Druga Violina",
+          "address": "Stari trg 21, 1000 Ljubljana",
+          "neighborhood": "Old Town (Stari trg)",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/poi/druga-violina/",
+          "description": "A remarkable restaurant in Ljubljana's old city centre with a story as compelling as its food. Druga Violina (Second Violin) is a social enterprise where people with disabilities produce much of the food on a farmland near Ljubljana and also work as waiting staff. The food is traditional Slovenian — Ljubljana goulash, veal stew, seasonal dishes, slow food — and the quality is excellent. Pets are explicitly welcomed both inside and on the terrace. A genuinely special place that does good in the world and serves outstanding traditional Slovenian food.",
+          "descriptionFr": "Un restaurant remarquable dans le centre historique de Ljubljana avec une histoire aussi convaincante que sa cuisine. Druga Violina (Deuxième Violon) est une entreprise sociale où des personnes handicapées produisent une grande partie de la nourriture sur des terres agricoles près de Ljubljana et travaillent également comme serveurs. La cuisine est traditionnellement slovène — goulash de Ljubljana, ragoût de veau, plats de saison, slow food — et la qualité est excellente. Les animaux sont explicitement bienvenus aussi bien à l'intérieur qu'en terrasse. Un endroit vraiment spécial qui fait du bien dans le monde et sert une cuisine slovène traditionnelle remarquable.",
+          "descriptionEs": "Un notable restaurante en el centro histórico de Ljubljana con una historia tan convincente como su comida. Druga Violina (Segundo Violín) es una empresa social donde personas con discapacidad producen gran parte de la comida en tierras de cultivo cerca de Ljubljana y también trabajan como camareros. La comida es tradicional eslovena — gulash de Ljubljana, estofado de ternera, platos de temporada, slow food — y la calidad es excelente. Las mascotas son explícitamente bienvenidas tanto en el interior como en la terraza. Un lugar genuinamente especial que hace el bien en el mundo y sirve una excelente comida eslovena tradicional.",
+          "petPolicy": "Dogs welcome inside and on the terrace",
+          "petPolicyFr": "Chiens acceptés à l'intérieur et en terrasse",
+          "petPolicyEs": "Perros admitidos en el interior y en la terraza",
+          "priceRange": "€€",
+          "mustTry": "Ljubljana goulash with polenta, veal stew, daily seasonal menu",
+          "mustTryFr": "Goulash de Ljubljana avec polenta, ragoût de veau, menu saisonnier du jour",
+          "mustTryEs": "Gulash de Ljubljana con polenta, estofado de ternera, menú estacional del día",
+          "openingHours": "Tue–Sun 08:00–22:00 (closed Monday)",
+          "tip": "No reservations taken — arrive early for lunch (before 12:30) as it fills quickly with locals",
+          "tipFr": "Pas de réservations — arrivez tôt pour le déjeuner (avant 12h30) car ça se remplit vite avec les locaux",
+          "tipEs": "No se aceptan reservas — llega temprano para el almuerzo (antes de las 12:30) ya que se llena rápido con los locales",
+          "googleMapsUrl": "https://maps.google.com/?q=Druga+Violina+Ljubljana"
+        },
+        {
+          "name": "Špica Caffe",
+          "address": "Špica, Prešernovo nabrežje 4, 1000 Ljubljana",
+          "neighborhood": "Prešernovo nabrežje (Riverfront)",
+          "photo": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.facebook.com/SpicaCaffe",
+          "description": "Perhaps the most famous dog-friendly café in Ljubljana, Špica is set on the tip of the Špica promontory where the Grubar Canal meets the Ljubljanica. It has a huge grassy outdoor area with loungers that functions almost like a dog park — dogs run around freely on sunny days while their owners sip coffee or wine. This is the spot locals recommend when asked about dog-friendly Ljubljana. Casual, relaxed, and almost always dog-filled on warm afternoons.",
+          "descriptionFr": "Peut-être le café dog-friendly le plus célèbre de Ljubljana, Špica est situé à la pointe de la péninsule Špica où le canal Grubar rejoint la Ljubljanica. Il dispose d'une grande zone extérieure herbeuse avec des transats qui fonctionne presque comme un parc pour chiens — les chiens courent librement les jours ensoleillés pendant que leurs maîtres sirotent café ou vin. C'est l'endroit que les locaux recommandent lorsqu'on leur demande la Ljubljana dog-friendly. Décontracté, relaxant et presque toujours rempli de chiens les après-midis chauds.",
+          "descriptionEs": "Quizás el café pet-friendly más famoso de Ljubljana, Špica está situado en la punta de la península Špica donde el canal Grubar se une al Ljubljanica. Tiene una gran área exterior ajardinada con tumbonas que funciona casi como un parque para perros — los perros corren libremente en los días soleados mientras sus dueños toman café o vino. Este es el lugar que los locales recomiendan cuando se les pregunta sobre la Ljubljana pet-friendly. Informal, relajado, y casi siempre lleno de perros las tardes cálidas.",
+          "petPolicy": "Dogs very welcome in the large outdoor grassy area. A de facto dog park atmosphere",
+          "petPolicyFr": "Chiens très bienvenus dans la grande zone extérieure herbeuse. Une atmosphère de parc canin de fait",
+          "petPolicyEs": "Perros muy bienvenidos en la gran área exterior ajardinada. Una atmósfera de facto de parque canino",
+          "priceRange": "€",
+          "mustTry": "Coffee, local wine, casual drinks",
+          "mustTryFr": "Café, vin local, boissons décontractées",
+          "mustTryEs": "Café, vino local, bebidas casuales",
+          "openingHours": "Daily from morning to evening (seasonal variations)",
+          "tip": "This is Ljubljana's most reliably dog-friendly outdoor spot. Come in the afternoon when dogs are most abundant and the atmosphere is at its best",
+          "tipFr": "C'est l'endroit extérieur le plus fiablement dog-friendly de Ljubljana. Venez l'après-midi quand les chiens sont les plus nombreux et que l'ambiance est à son meilleur",
+          "tipEs": "Este es el lugar exterior más confiablemente pet-friendly de Ljubljana. Ven por la tarde cuando los perros son más abundantes y el ambiente está en su mejor momento",
+          "googleMapsUrl": "https://maps.google.com/?q=Spica+Ljubljana"
+        },
+        {
+          "name": "Cafe Čokl",
+          "address": "Trubarjeva cesta 52, 1000 Ljubljana",
+          "neighborhood": "Tabor",
+          "photo": "https://images.unsplash.com/photo-1567521464027-f127ff144326?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.facebook.com/cafecokl",
+          "description": "A neighbourhood café in the Tabor district, Cafe Čokl is consistently cited by Ljubljana dog owners as one of the most genuinely welcoming spots in the city. The relaxed interior and outdoor terrace both accept dogs, and staff are known for their warmth toward four-legged visitors. A local gathering spot with good coffee, casual food, and a pleasantly unhurried atmosphere.",
+          "descriptionFr": "Un café de quartier dans le district de Tabor, le Cafe Čokl est régulièrement cité par les propriétaires de chiens de Ljubljana comme l'un des endroits les plus sincèrement accueillants de la ville. L'intérieur détendu et la terrasse extérieure acceptent tous deux les chiens, et le personnel est réputé pour sa chaleur envers les visiteurs à quatre pattes. Un lieu de rassemblement local avec un bon café, une nourriture décontractée et une atmosphère agréablement paisible.",
+          "descriptionEs": "Un café de barrio en el distrito de Tabor, el Cafe Čokl es citado consistentemente por los dueños de perros de Ljubljana como uno de los lugares más genuinamente acogedores de la ciudad. El interior relajado y la terraza exterior aceptan perros, y el personal es conocido por su calidez hacia los visitantes de cuatro patas. Un lugar de reunión local con buen café, comida casual y una atmósfera agradablemente tranquila.",
+          "petPolicy": "Dogs welcome inside and on the terrace",
+          "petPolicyFr": "Chiens acceptés à l'intérieur et en terrasse",
+          "petPolicyEs": "Perros admitidos en el interior y en la terraza",
+          "priceRange": "€",
+          "mustTry": "Coffee, daily specials",
+          "mustTryFr": "Café, plats du jour",
+          "mustTryEs": "Café, platos del día",
+          "openingHours": "Mon–Sat 08:00–22:00",
+          "tip": "A local neighbourhood spot — come for breakfast or a morning coffee when it's quietest",
+          "tipFr": "Un lieu de quartier local — venez pour le petit-déjeuner ou un café du matin quand c'est le plus calme",
+          "tipEs": "Un lugar de barrio local — ven para el desayuno o un café por la mañana cuando está más tranquilo",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Cokl+Ljubljana"
+        },
+        {
+          "name": "Riverfront Terraces — Cankarjevo nabrežje",
+          "address": "Cankarjevo nabrežje, 1000 Ljubljana",
+          "neighborhood": "City Centre Riverfront",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/plan-your-trip/useful-information/know-before-you-go/",
+          "description": "The pedestrianised Cankarjevo nabrežje and Breg embankment on the Ljubljanica river are the social heart of Ljubljana's outdoor dining scene. Both banks are lined with café and restaurant terraces — dozens of them, essentially all dog-friendly. Locals specifically recommend these terraces as the prime dog-dining territory in the city. The Ljubljanica moves slowly under old stone bridges, Ljubljana Castle rises behind, and dogs lie under the tables in a scene that is quintessentially Ljubljana. No single venue above others — just walk the banks and choose wherever feels right.",
+          "descriptionFr": "Cankarjevo nabrežje piétonnier et le quai Breg sur la Ljubljanica sont le cœur social de la scène de restauration en plein air de Ljubljana. Les deux rives sont bordées de terrasses de cafés et de restaurants — des dizaines, essentiellement toutes dog-friendly. Les locaux recommandent spécifiquement ces terrasses comme le territoire de prédilection pour dîner avec un chien dans la ville. La Ljubljanica coule lentement sous d'anciens ponts de pierre, le château de Ljubljana se dresse derrière, et les chiens s'allongent sous les tables dans une scène qui est quintessentiellement Ljubljana. Pas un établissement au-dessus des autres — promenez-vous simplement le long des berges et choisissez où bon vous semble.",
+          "descriptionEs": "La peatonal Cankarjevo nabrežje y el malecón Breg en el río Ljubljanica son el corazón social de la escena gastronómica al aire libre de Ljubljana. Ambas orillas están bordeadas de terrazas de cafés y restaurantes — docenas de ellos, esencialmente todos pet-friendly. Los locales recomiendan específicamente estas terrazas como el territorio principal para cenar con perro en la ciudad. El Ljubljanica fluye lentamente bajo antiguos puentes de piedra, el castillo de Ljubljana se eleva detrás, y los perros se acuestan bajo las mesas en una escena que es quintaesencialmente Ljubljana. Ningún local por encima de los demás — simplemente camina por las orillas y elige donde te parezca bien.",
+          "petPolicy": "All riverfront terraces are dog-friendly by local consensus. Bring water bowl if dining for extended periods",
+          "petPolicyFr": "Toutes les terrasses riveraines sont dog-friendly selon le consensus local. Apportez un bol d'eau si vous dînez longtemps",
+          "petPolicyEs": "Todas las terrazas ribereñas son pet-friendly según el consenso local. Trae un cuenco de agua si cenas por períodos prolongados",
+          "priceRange": "€€",
+          "mustTry": "Slovenian wine, local craft beer, seasonal food",
+          "mustTryFr": "Vin slovène, bière artisanale locale, nourriture de saison",
+          "mustTryEs": "Vino esloveno, cerveza artesana local, comida de temporada",
+          "openingHours": "Varies by venue. Most open daily 10:00–23:00 in summer",
+          "tip": "The west bank (Breg embankment) is slightly less crowded than Cankarjevo nabrežje and has an equally scenic view of the castle",
+          "tipFr": "La rive ouest (quai Breg) est légèrement moins fréquentée que Cankarjevo nabrežje et offre une vue tout aussi pittoresque sur le château",
+          "tipEs": "La orilla oeste (malecón Breg) está ligeramente menos concurrida que Cankarjevo nabrežje y tiene una vista igualmente pintoresca del castillo",
+          "googleMapsUrl": "https://maps.google.com/?q=Cankarjevo+nabrezje+Ljubljana"
+        }
+      ],
+      "tipsEn": [
+        "citymagazine.si/en maintains a map of verified dog-friendly restaurants and bars in Ljubljana, updated regularly by the local community.",
+        "Almost all Ljubljanica riverfront terraces accept dogs. Walk both banks and choose by view and vibe.",
+        "Most Ljubljana restaurants will bring water for your dog if you ask. Some do so automatically. A few even offer treats.",
+        "The old city (Stari trg, Mestni trg) restaurants are dog-friendly on terraces. Always ask before going inside in restaurants without explicit dog-welcome signage."
+      ],
+      "tipsFr": [
+        "citymagazine.si/en maintient une carte des restaurants et bars dog-friendly vérifiés à Ljubljana, mise à jour régulièrement par la communauté locale.",
+        "Presque toutes les terrasses riveraines de la Ljubljanica acceptent les chiens. Promenez-vous sur les deux rives et choisissez selon la vue et l'ambiance.",
+        "La plupart des restaurants de Ljubljana apporteront de l'eau pour votre chien si vous le demandez. Certains le font automatiquement. Quelques-uns offrent même des friandises.",
+        "Les restaurants de la vieille ville (Stari trg, Mestni trg) sont dog-friendly en terrasse. Demandez toujours avant d'entrer dans les restaurants sans signalétique explicite d'accueil des chiens."
+      ],
+      "tipsEs": [
+        "citymagazine.si/en mantiene un mapa de restaurantes y bares pet-friendly verificados en Ljubljana, actualizado regularmente por la comunidad local.",
+        "Casi todas las terrazas ribereñas del Ljubljanica aceptan perros. Pasea por ambas orillas y elige según la vista y el ambiente.",
+        "La mayoría de los restaurantes de Ljubljana traerán agua para tu perro si lo pides. Algunos lo hacen automáticamente. Algunos incluso ofrecen golosinas.",
+        "Los restaurantes del casco antiguo (Stari trg, Mestni trg) son pet-friendly en las terrazas. Siempre pregunta antes de entrar en restaurantes sin señalización explícita de bienvenida a los perros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Ljubljana restaurants?",
+          "a": "In most cases yes — Ljubljana is exceptionally dog-friendly. The Ljubljanica riverfront terraces are virtually all dog-friendly. Most Ljubljana restaurants will accept a well-behaved dog without question, particularly on outdoor terraces. citymagazine.si/en maintains a verified list."
+        },
+        {
+          "q": "Which part of Ljubljana is most dog-friendly for dining?",
+          "a": "The Ljubljanica riverfront — both Cankarjevo nabrežje and the Breg embankment. Both banks are lined with pet-friendly terraces. Špica café area is the single most dog-welcoming spot."
+        },
+        {
+          "q": "Do Ljubljana restaurants bring water for dogs?",
+          "a": "Many do proactively, especially along the riverfront. Most will bring water if asked. Some cafés and restaurants even offer dog treats. Ljubljana is genuinely among the most dog-welcoming cities in Central Europe for dining."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Ljubljana ?",
+          "a": "Dans la plupart des cas oui — Ljubljana est exceptionnellement dog-friendly. Les terrasses riveraines de la Ljubljanica sont pratiquement toutes dog-friendly. La plupart des restaurants de Ljubljana accepteront un chien bien élevé sans problème, en particulier sur les terrasses extérieures. citymagazine.si/en maintient une liste vérifiée."
+        },
+        {
+          "q": "Quelle partie de Ljubljana est la plus dog-friendly pour se restaurer ?",
+          "a": "Le front de rivière de la Ljubljanica — à la fois Cankarjevo nabrežje et le quai Breg. Les deux rives sont bordées de terrasses dog-friendly. La zone du café Špica est l'endroit le plus dog-friendly."
+        },
+        {
+          "q": "Les restaurants de Ljubljana apportent-ils de l'eau pour les chiens ?",
+          "a": "Beaucoup le font proactivement, surtout le long du front de rivière. La plupart apporteront de l'eau si vous le demandez. Certains cafés et restaurants offrent même des friandises aux chiens. Ljubljana est véritablement parmi les villes les plus dog-friendly d'Europe centrale pour se restaurer."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permiten perros en los restaurantes de Ljubljana?",
+          "a": "En la mayoría de los casos sí — Ljubljana es excepcionalmente pet-friendly. Las terrazas ribereñas del Ljubljanica son prácticamente todas pet-friendly. La mayoría de los restaurantes de Ljubljana aceptarán a un perro bien educado sin problemas, especialmente en las terrazas exteriores. citymagazine.si/en mantiene una lista verificada."
+        },
+        {
+          "q": "¿Qué parte de Ljubljana es más pet-friendly para comer?",
+          "a": "El frente fluvial del Ljubljanica — tanto Cankarjevo nabrežje como el malecón Breg. Ambas orillas están bordeadas de terrazas pet-friendly. La zona del café Špica es el lugar más acogedor para perros."
+        },
+        {
+          "q": "¿Los restaurantes de Ljubljana traen agua para los perros?",
+          "a": "Muchos lo hacen de forma proactiva, especialmente a lo largo del frente fluvial. La mayoría traerá agua si lo pides. Algunos cafés y restaurantes incluso ofrecen golosinas para perros. Ljubljana está genuinamente entre las ciudades más pet-friendly de Europa Central para comer."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Ljubljana",
+      "titleFr": "Parcs et balades avec son chien à Ljubljana",
+      "titleEs": "Parques y paseos con perros en Ljubljana",
+      "introEn": "Ljubljana punches above its weight for dog-friendly green space. Tivoli Park — the city's largest — extends into forest on its western edge, and though most of the park requires dogs on a leash, the forested sections offer a more relaxed environment. The city maintains several dedicated off-leash dog parks, the largest being Šmartinski park in the northeast. The Ljubljanica riverbanks are pedestrianised and excellent for easy, flat walks with dogs. Castle Hill is walkable with dogs on a leash and leads directly to Ljubljana Castle, which explicitly allows dogs (with muzzle).",
+      "introFr": "Ljubljana fait plus que son poids en espace vert dog-friendly. Le parc Tivoli — le plus grand de la ville — s'étend en forêt sur son bord occidental, et bien que la majeure partie du parc exige des chiens en laisse, les sections forestières offrent un environnement plus détendu. La ville maintient plusieurs parcs canins dédiés sans laisse, le plus grand étant le parc Šmartinski au nord-est. Les berges de la Ljubljanica sont piétonnes et excellentes pour des promenades faciles et plates avec les chiens. La colline du Château est accessible à pied avec des chiens en laisse et mène directement au château de Ljubljana, qui autorise explicitement les chiens (avec muselière).",
+      "introEs": "Ljubljana rinde más de lo esperado en espacios verdes pet-friendly. El parque Tivoli — el más grande de la ciudad — se extiende hacia el bosque en su borde occidental, y aunque la mayor parte del parque requiere perros con correa, las secciones forestales ofrecen un entorno más relajado. La ciudad mantiene varios parques caninos dedicados sin correa, siendo el más grande el parque Šmartinski en el noreste. Las orillas del río Ljubljanica están peatonalizadas y son excelentes para paseos fáciles y llanos con perros. La colina del Castillo se puede caminar con perros con correa y conduce directamente al castillo de Ljubljana, que permite explícitamente perros (con bozal).",
+      "places": [
+        {
+          "name": "Tivoli Park (Tivoli, Rožnik & Šišenski hrib)",
+          "type": "Large urban park extending into forested hills",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/explore-the-city/things-to-do/outdoors/tivoli-park/",
+          "description": "Ljubljana's largest park, covering around 510 hectares including the Tivoli formal gardens, the Rožnik forested hill, and the Šišenski hrib ridge. The main formal garden area (closer to the city centre) requires dogs to be on a leash. The western forested sections — Rožnik hill and beyond — offer a much more relaxed environment for longer walks with dogs. The climb to the Church of St Mary on Rožnik is a popular morning walk with local dog owners, and the hilltop views over the city are excellent. Dogs must be on a leash throughout.",
+          "descriptionFr": "Le plus grand parc de Ljubljana, couvrant environ 510 hectares dont les jardins formels de Tivoli, la colline boisée de Rožnik et la crête de Šišenski hrib. La zone du jardin formel principal (plus proche du centre-ville) exige que les chiens soient tenus en laisse. Les sections forestières occidentales — la colline de Rožnik et au-delà — offrent un environnement beaucoup plus détendu pour de longues balades avec les chiens. La montée à l'église Sainte-Marie de Rožnik est une promenade matinale populaire chez les propriétaires de chiens locaux, et les vues sur la ville depuis le sommet sont excellentes. Les chiens doivent être tenus en laisse partout.",
+          "descriptionEs": "El parque más grande de Ljubljana, que cubre aproximadamente 510 hectáreas incluyendo los jardines formales de Tivoli, la colina boscosa de Rožnik y la cresta de Šišenski hrib. La zona del jardín formal principal (más cercana al centro de la ciudad) requiere que los perros vayan con correa. Las secciones forestales occidentales — la colina Rožnik y más allá — ofrecen un entorno mucho más relajado para paseos más largos con perros. El ascenso a la Iglesia de Santa María en Rožnik es un popular paseo matutino entre los dueños de perros locales, y las vistas sobre la ciudad desde la cima son excelentes. Los perros deben ir con correa en todo momento.",
+          "offLeash": false,
+          "offLeashArea": "Dogs on leash throughout Tivoli Park. The forested western sections (Rožnik hill) are more relaxed in practice — larger spaces with fewer people.",
+          "offLeashAreaFr": "Chiens en laisse dans tout le parc Tivoli. Les sections forestières occidentales (colline de Rožnik) sont plus détendues en pratique — grands espaces avec moins de monde.",
+          "offLeashAreaEs": "Perros con correa en todo el parque Tivoli. Las secciones forestales occidentales (colina Rožnik) son más relajadas en la práctica — espacios más grandes con menos gente.",
+          "tip": "For the most relaxed dog walk in Tivoli, head directly to the Rožnik hill section (west of the formal gardens). The forest trail to the top is 45–60 minutes and the views are worth it",
+          "tipFr": "Pour la balade canine la plus détendue à Tivoli, dirigez-vous directement vers la section de la colline de Rožnik (à l'ouest des jardins formels). Le sentier forestier jusqu'au sommet dure 45 à 60 minutes et les vues en valent la peine",
+          "tipEs": "Para el paseo canino más relajado en Tivoli, dirígete directamente a la sección de la colina Rožnik (al oeste de los jardines formales). El sendero forestal hasta la cima dura 45–60 minutos y las vistas valen la pena",
+          "googleMapsUrl": "https://maps.google.com/?q=Tivoli+Park+Ljubljana"
+        },
+        {
+          "name": "Šmartinski Park Dog Park",
+          "type": "Modern urban park with the largest dedicated dog park in Ljubljana",
+          "photo": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/explore-the-city/things-to-do/outdoors/parks-and-green-areas/",
+          "description": "A modern urban park in the northeast of Ljubljana, Šmartinski park was developed on a former industrial site and inaugurated in 2010. It spans 11 hectares with spacious lawns, walking paths, Slovenia's first water playground, and — most importantly for dog owners — a dedicated 1,500m² off-leash dog park, the largest in Ljubljana. Clean, well-maintained, with car parking nearby. Adjacent to the BTC City shopping complex if you need to combine with errands.",
+          "descriptionFr": "Un parc urbain moderne dans le nord-est de Ljubljana, le parc Šmartinski a été aménagé sur une ancienne friche industrielle et inauguré en 2010. Il s'étend sur 11 hectares avec de vastes pelouses, des chemins de promenade, le premier parc aquatique de Slovénie et — surtout pour les propriétaires de chiens — un parc canin dédié de 1 500 m² sans laisse, le plus grand de Ljubljana. Propre, bien entretenu, avec un parking à proximité. Adjacent au complexe commercial BTC City si vous devez combiner avec des courses.",
+          "descriptionEs": "Un moderno parque urbano en el noreste de Ljubljana, el parque Šmartinski fue desarrollado sobre un antiguo terreno industrial e inaugurado en 2010. Abarca 11 hectáreas con amplias praderas, senderos, el primer parque acuático de Eslovenia y — lo más importante para los dueños de perros — un dedicado parque canino sin correa de 1.500 m², el más grande de Ljubljana. Limpio, bien mantenido, con aparcamiento cerca. Adyacente al centro comercial BTC City si necesitas combinar con compras.",
+          "offLeash": true,
+          "offLeashArea": "Dedicated 1,500m² fenced off-leash dog park within the wider Šmartinski park",
+          "offLeashAreaFr": "Parc canin dédié de 1 500 m² clôturé sans laisse dans le parc Šmartinski plus large",
+          "offLeashAreaEs": "Dedicado parque canino cercado sin correa de 1.500 m² dentro del más amplio parque Šmartinski",
+          "tip": "Take bus 27 from the city centre. The dog park is signposted from the main park entrance. Large parking area available",
+          "tipFr": "Prenez le bus 27 depuis le centre-ville. Le parc canin est indiqué depuis l'entrée principale du parc. Grand parking disponible",
+          "tipEs": "Toma el autobús 27 desde el centro de la ciudad. El parque canino está señalizado desde la entrada principal del parque. Gran aparcamiento disponible",
+          "googleMapsUrl": "https://maps.google.com/?q=Smartinski+park+Ljubljana"
+        },
+        {
+          "name": "Koseze Pond (Koseze Pond Park & Dog Park)",
+          "type": "Pond park with adjacent dog park",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/explore-the-city/things-to-do/outdoors/parks-and-green-areas/",
+          "description": "A peaceful park in the western part of Ljubljana centred on the Koseze Pond, a small natural lake surrounded by greenery and walking paths. Popular with local dog owners, particularly in the morning hours. The nearby Bratov Učakar Street has a dedicated dog park. A quieter, more local alternative to Tivoli. Dogs can walk along the pond's perimeter path in a relaxed natural setting.",
+          "descriptionFr": "Un parc paisible dans la partie occidentale de Ljubljana centré sur l'étang de Koseze, un petit lac naturel entouré de verdure et de sentiers de promenade. Populaire auprès des propriétaires de chiens locaux, notamment le matin. La rue Bratov Učakar voisine dispose d'un parc canin dédié. Une alternative plus calme et plus locale à Tivoli. Les chiens peuvent se promener le long du sentier du périmètre de l'étang dans un cadre naturel détendu.",
+          "descriptionEs": "Un parque tranquilo en la parte occidental de Ljubljana centrado en el estanque Koseze, un pequeño lago natural rodeado de vegetación y senderos. Popular entre los dueños de perros locales, especialmente por las mañanas. La cercana calle Bratov Učakar tiene un parque canino dedicado. Una alternativa más tranquila y local al Tivoli. Los perros pueden caminar por el sendero perimetral del estanque en un entorno natural relajado.",
+          "offLeash": false,
+          "offLeashArea": "Dogs on leash at the pond. Dedicated off-leash dog park on nearby Bratov Učakar Street.",
+          "offLeashAreaFr": "Chiens en laisse à l'étang. Parc canin dédié sans laisse sur la rue Bratov Učakar voisine.",
+          "offLeashAreaEs": "Perros con correa en el estanque. Parque canino dedicado sin correa en la cercana calle Bratov Učakar.",
+          "tip": "Come early in the morning — the pond walk is at its most magical in mist and early light. A very local experience away from tourist areas",
+          "tipFr": "Venez tôt le matin — la balade autour de l'étang est la plus magique dans la brume et la lumière matinale. Une expérience très locale loin des zones touristiques",
+          "tipEs": "Ven temprano por la mañana — el paseo por el estanque es más mágico en la niebla y la luz temprana. Una experiencia muy local lejos de las zonas turísticas",
+          "googleMapsUrl": "https://maps.google.com/?q=Koseze+Pond+Ljubljana"
+        },
+        {
+          "name": "Ljubljanica River Embankment Walk",
+          "type": "Pedestrianised riverfront walk",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/explore-the-city/things-to-do/outdoors/",
+          "description": "The pedestrianised banks of the Ljubljanica through the city centre form one of Europe's most pleasant urban riverside walks. Flat, scenic, and continuously lined with cafés and restaurants, the stretch from the Triple Bridge through Cankarjevo nabrežje to the Špica promontory is perfect with a dog. The Dragon Bridge and Butcher's Bridge are architectural highlights along the route. Dogs on a leash are welcome throughout. Combine with a stop at any of the riverfront cafés for the quintessential Ljubljana experience.",
+          "descriptionFr": "Les berges piétonnes de la Ljubljanica à travers le centre-ville constituent l'une des plus agréables promenades riveraines urbaines d'Europe. Plate, pittoresque et continuellement bordée de cafés et restaurants, la portion du Triple Pont à travers Cankarjevo nabrežje jusqu'à la péninsule Špica est parfaite avec un chien. Le pont du Dragon et le pont des Bouchers sont des points forts architecturaux sur le parcours. Les chiens en laisse sont les bienvenus partout. Combinez avec un arrêt dans l'un des cafés riverains pour l'expérience quintessentielle de Ljubljana.",
+          "descriptionEs": "Las peatonales orillas del Ljubljanica a través del centro de la ciudad forman uno de los paseos ribereños urbanos más agradables de Europa. Plano, pintoresco y continuamente bordeado de cafés y restaurantes, el tramo desde el Puente Triple a través de Cankarjevo nabrežje hasta la península Špica es perfecto con un perro. El Puente del Dragón y el Puente del Carnicero son puntos arquitectónicos destacados a lo largo del recorrido. Los perros con correa son bienvenidos en todo momento. Combínalo con una parada en cualquiera de los cafés ribereños para la experiencia quintaesencial de Ljubljana.",
+          "offLeash": false,
+          "offLeashArea": "Dogs on leash throughout the riverbank walk",
+          "offLeashAreaFr": "Chiens en laisse tout au long du chemin de berge",
+          "offLeashAreaEs": "Perros con correa durante todo el paseo por la orilla del río",
+          "tip": "Walk from Triple Bridge to Špica for the full riverfront experience — about 2km each way, flat, and lined with cafés all the way",
+          "tipFr": "Promenez-vous du Triple Pont jusqu'à Špica pour l'expérience riveraine complète — environ 2 km aller, plat et bordé de cafés tout au long du chemin",
+          "tipEs": "Camina desde el Puente Triple hasta Špica para la experiencia ribereña completa — unos 2 km de ida, llano y bordeado de cafés durante todo el camino",
+          "googleMapsUrl": "https://maps.google.com/?q=Cankarjevo+nabrezje+Ljubljana"
+        }
+      ],
+      "tipsEn": [
+        "Ljubljana's dedicated off-leash dog parks: Šmartinski park (largest, 1,500m²), Koseze (Bratov Učakar St), and the Northern City Park. Dogs on leash everywhere else.",
+        "The Rožnik forest section of Tivoli Park offers the most natural and spacious dog walking experience in the city — though dogs must remain on leash.",
+        "Ljubljana's riverbanks are entirely pedestrianised and flat — ideal for older dogs or those with mobility limitations.",
+        "The city is compact — you can walk from the riverfront to the castle and Tivoli in under 30 minutes, making it easy to combine sights and dog walks."
+      ],
+      "tipsFr": [
+        "Les parcs canins sans laisse dédiés de Ljubljana : parc Šmartinski (le plus grand, 1 500 m²), Koseze (rue Bratov Učakar) et le parc de la ville nord. Chiens en laisse partout ailleurs.",
+        "La section forestière de Rožnik du parc Tivoli offre l'expérience de promenade canine la plus naturelle et spacieuse de la ville — bien que les chiens doivent rester en laisse.",
+        "Les berges de Ljubljana sont entièrement piétonnes et plates — idéales pour les chiens plus âgés ou ceux avec des problèmes de mobilité.",
+        "La ville est compacte — vous pouvez marcher du front de rivière jusqu'au château et au Tivoli en moins de 30 minutes, ce qui facilite la combinaison des visites et des promenades canines."
+      ],
+      "tipsEs": [
+        "Los parques caninos dedicados sin correa de Ljubljana: parque Šmartinski (el más grande, 1.500 m²), Koseze (calle Bratov Učakar) y el Parque de la Ciudad Norte. Perros con correa en todos los demás lugares.",
+        "La sección forestal de Rožnik del parque Tivoli ofrece la experiencia de paseo canino más natural y espaciosa de la ciudad — aunque los perros deben permanecer con correa.",
+        "Las orillas del río de Ljubljana son completamente peatonales y planas — ideales para perros mayores o con limitaciones de movilidad.",
+        "La ciudad es compacta — puedes caminar desde el frente fluvial hasta el castillo y Tivoli en menos de 30 minutos, lo que facilita combinar visitas y paseos caninos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs go off-leash in Ljubljana?",
+          "a": "In designated dog parks only. The largest is the 1,500m² dog park at Šmartinski park (northeast Ljubljana). Smaller parks are on Bratov Učakar Street (Koseze area) and in the Northern City Park. Dogs on leash required everywhere else including Tivoli Park."
+        },
+        {
+          "q": "Is Tivoli Park dog-friendly?",
+          "a": "Yes, with dogs on a leash throughout. The formal garden areas require strict leash adherence. The western forest sections (Rožnik hill) are less formal and offer longer, more natural walking routes. Dogs cannot go off-leash anywhere in Tivoli."
+        },
+        {
+          "q": "Can dogs walk along the Ljubljanica river?",
+          "a": "Yes, fully. Both pedestrianised banks of the Ljubljanica are dog-friendly with dogs on a leash. The walk from Triple Bridge to Špica is one of the most pleasant dog walks in the city."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils être sans laisse à Ljubljana ?",
+          "a": "Dans les parcs canins désignés uniquement. Le plus grand est le parc canin de 1 500 m² au parc Šmartinski (nord-est de Ljubljana). Des parcs plus petits se trouvent rue Bratov Učakar (zone Koseze) et dans le parc de la ville nord. Chiens en laisse obligatoire partout ailleurs, y compris dans le parc Tivoli."
+        },
+        {
+          "q": "Le parc Tivoli est-il dog-friendly ?",
+          "a": "Oui, avec les chiens en laisse partout. Les zones du jardin formel nécessitent une stricte tenue en laisse. Les sections forestières occidentales (colline de Rožnik) sont moins formelles et offrent des itinéraires de marche plus longs et plus naturels. Les chiens ne peuvent pas être sans laisse nulle part dans Tivoli."
+        },
+        {
+          "q": "Les chiens peuvent-ils se promener le long de la Ljubljanica ?",
+          "a": "Oui, complètement. Les deux berges piétonnes de la Ljubljanica sont dog-friendly avec les chiens en laisse. La promenade du Triple Pont jusqu'à Špica est l'une des plus agréables balades canines de la ville."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden los perros estar sin correa en Ljubljana?",
+          "a": "Solo en parques caninos designados. El más grande es el parque canino de 1.500 m² en el parque Šmartinski (noreste de Ljubljana). Parques más pequeños están en la calle Bratov Učakar (zona Koseze) y en el Parque de la Ciudad Norte. Perros con correa obligatoria en todos los demás lugares, incluyendo el parque Tivoli."
+        },
+        {
+          "q": "¿Es el parque Tivoli pet-friendly?",
+          "a": "Sí, con perros con correa en todo momento. Las zonas del jardín formal requieren adherencia estricta a la correa. Las secciones forestales occidentales (colina Rožnik) son menos formales y ofrecen rutas de caminata más largas y naturales. Los perros no pueden estar sin correa en ningún lugar de Tivoli."
+        },
+        {
+          "q": "¿Pueden los perros caminar a lo largo del río Ljubljanica?",
+          "a": "Sí, completamente. Ambas orillas peatonales del Ljubljanica son pet-friendly con perros con correa. El paseo desde el Puente Triple hasta Špica es uno de los paseos caninos más agradables de la ciudad."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Ljubljana",
+      "titleFr": "Voyager avec son animal à Ljubljana",
+      "titleEs": "Viajar con mascotas en Ljubljana",
+      "introEn": "Ljubljana's public transport is operated by LPP (city buses) and SŽ (Slovenian Railways for intercity travel). City buses allow dogs with a muzzle, with some restrictions during peak hours. The city itself is compact and very walkable — many visitors with dogs find they can cover most sights on foot. Cycling is also excellent, with dedicated cycling lanes throughout. Slovenia is an EU member, so EU pet passports are valid.",
+      "introFr": "Les transports publics de Ljubljana sont assurés par LPP (bus de ville) et SŽ (chemins de fer slovènes pour les voyages interurbains). Les bus de ville autorisent les chiens avec une muselière, avec quelques restrictions aux heures de pointe. La ville elle-même est compacte et très agréable à pied — de nombreux visiteurs avec des chiens trouvent qu'ils peuvent couvrir la plupart des sites à pied. Le vélo est également excellent, avec des voies cyclables dédiées partout. La Slovénie est membre de l'UE, donc les passeports UE pour animaux sont valables.",
+      "introEs": "El transporte público de Ljubljana es operado por LPP (autobuses de la ciudad) y SŽ (Ferrocarriles Eslovenos para viajes interurbanos). Los autobuses de la ciudad permiten perros con bozal, con algunas restricciones durante las horas pico. La ciudad en sí es compacta y muy agradable para caminar — muchos visitantes con perros encuentran que pueden cubrir la mayoría de los sitios a pie. Andar en bicicleta también es excelente, con carriles bici dedicados en todas partes. Eslovenia es miembro de la UE, por lo que los pasaportes UE para mascotas son válidos.",
+      "rules": [
+        {
+          "mode": "City Bus (LPP)",
+          "modeFr": "Bus de ville (LPP)",
+          "modeEs": "Autobús de la ciudad (LPP)",
+          "policy": "Dogs allowed with a muzzle. Not permitted during peak hours (06:30–09:30 and 13:00–17:00). Small dogs in a carrier: free, no muzzle required. Dogs must not be dirty or wet. Service dogs exempt from muzzle requirement.",
+          "policyFr": "Chiens autorisés avec une muselière. Non autorisés aux heures de pointe (6h30–9h30 et 13h00–17h00). Petits chiens dans un sac de transport : gratuit, muselière non obligatoire. Les chiens ne doivent pas être sales ou mouillés. Les chiens d'assistance sont exemptés de l'obligation de muselière.",
+          "policyEs": "Perros permitidos con bozal. No permitidos en horas pico (06:30–09:30 y 13:00–17:00). Perros pequeños en transportín: gratis, sin necesidad de bozal. Los perros no deben estar sucios o mojados. Los perros de asistencia están exentos de la obligación de bozal.",
+          "tip": "Plan bus trips outside peak hours. The city is compact enough that most destinations are walkable or cyclable anyway",
+          "tipFr": "Planifiez les trajets en bus en dehors des heures de pointe. La ville est assez compacte pour que la plupart des destinations soient accessibles à pied ou à vélo de toute façon",
+          "tipEs": "Planifica los viajes en autobús fuera de las horas pico. La ciudad es suficientemente compacta como para que la mayoría de los destinos sean accesibles a pie o en bicicleta de todas formas"
+        },
+        {
+          "mode": "Intercity Train (SŽ — Slovenian Railways)",
+          "modeFr": "Train interurbain (SŽ — Chemins de fer slovènes)",
+          "modeEs": "Tren interurbano (SŽ — Ferrocarriles Eslovenos)",
+          "policy": "Small dogs (under 30cm / carried on lap): free. Larger dogs: 50% of a 2nd class adult fare. Dogs must wear a muzzle on all trains. Dogs sit on floor of 2nd class — not on seats.",
+          "policyFr": "Petits chiens (moins de 30 cm / transportés sur les genoux) : gratuit. Chiens plus grands : 50% du tarif adulte 2e classe. Les chiens doivent porter une muselière dans tous les trains. Les chiens s'assoient sur le sol en 2e classe — pas sur les sièges.",
+          "policyEs": "Perros pequeños (menos de 30 cm / llevados en el regazo): gratis. Perros más grandes: 50% de la tarifa adulta de 2ª clase. Los perros deben llevar bozal en todos los trenes. Los perros se sientan en el suelo de 2ª clase — no en los asientos.",
+          "tip": "The Ljubljana–Bled train (55 min) is the most scenic route for a day trip. Dogs welcome with muzzle. Book tickets at slo-zeleznice.si",
+          "tipFr": "Le train Ljubljana–Bled (55 min) est l'itinéraire le plus pittoresque pour une excursion d'une journée. Chiens bienvenus avec muselière. Réservez les billets sur slo-zeleznice.si",
+          "tipEs": "El tren Ljubljana–Bled (55 min) es la ruta más pintoresca para una excursión de un día. Perros bienvenidos con bozal. Reserva billetes en slo-zeleznice.si"
+        },
+        {
+          "mode": "Ljubljana Castle Funicular",
+          "modeFr": "Funiculaire du château de Ljubljana",
+          "modeEs": "Funicular del castillo de Ljubljana",
+          "policy": "Dogs allowed on the funicular with a muzzle. If you don't have a muzzle, one can be borrowed at the funicular ticket office at no charge. Dogs ride the funicular for free.",
+          "policyFr": "Chiens autorisés dans le funiculaire avec une muselière. Si vous n'avez pas de muselière, vous pouvez en emprunter une à la billetterie du funiculaire sans frais. Les chiens montent gratuitement dans le funiculaire.",
+          "policyEs": "Perros permitidos en el funicular con bozal. Si no tienes bozal, puedes tomar prestado uno en la taquilla del funicular sin coste. Los perros suben al funicular gratis.",
+          "tip": "Borrow a muzzle at the funicular ticket office if needed — the castle staff are used to accommodating visiting dogs",
+          "tipFr": "Empruntez une muselière à la billetterie du funiculaire si nécessaire — le personnel du château a l'habitude d'accueillir les chiens visiteurs",
+          "tipEs": "Toma prestado un bozal en la taquilla del funicular si es necesario — el personal del castillo está acostumbrado a atender a los perros visitantes"
+        },
+        {
+          "mode": "Walking & Cycling",
+          "modeFr": "À pied et à vélo",
+          "modeEs": "A pie y en bicicleta",
+          "policy": "Ljubljana is exceptionally walkable. The city centre, riverfront, Tivoli Park, and Castle Hill are all reachable on foot from most hotels. Cycling is also excellent — dedicated bike lanes throughout. BicikeLJ is the city's bike-share scheme (bicikelj.si).",
+          "policyFr": "Ljubljana est exceptionnellement agréable à pied. Le centre-ville, le front de rivière, le parc Tivoli et la colline du château sont tous accessibles à pied depuis la plupart des hôtels. Le vélo est également excellent — des pistes cyclables dédiées partout. BicikeLJ est le système de vélos en libre-service de la ville (bicikelj.si).",
+          "policyEs": "Ljubljana es excepcionalmente agradable para caminar. El centro de la ciudad, el frente fluvial, el parque Tivoli y la colina del castillo son todos accesibles a pie desde la mayoría de los hoteles. Andar en bicicleta también es excelente — carriles bici dedicados en todas partes. BicikeLJ es el sistema de bicicletas compartidas de la ciudad (bicikelj.si).",
+          "tip": "For a day trip to Lake Bled, the train (55 min) is the most practical option. Dogs allowed with muzzle",
+          "tipFr": "Pour une excursion d'une journée au lac de Bled, le train (55 min) est l'option la plus pratique. Chiens autorisés avec muselière",
+          "tipEs": "Para una excursión de un día al lago Bled, el tren (55 min) es la opción más práctica. Perros permitidos con bozal"
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "LPP city buses: lpp.si/en. Journey planner, routes, timetables. Pet policy: dogs allowed with muzzle outside peak hours. SŽ Slovenian Railways: slo-zeleznice.si/en. Intercity trains, timetables, tickets. Dogs with muzzle, 50% of adult fare for large dogs. Ljubljana Castle funicular: ljubljanskigrad.si/en. Dogs free with muzzle (borrowable at ticket office).",
+          "contentFr": "Bus de ville LPP : lpp.si/en. Planificateur d'itinéraires, lignes, horaires. Politique animaux : chiens autorisés avec muselière hors heures de pointe. SŽ Chemins de fer slovènes : slo-zeleznice.si/en. Trains interurbains, horaires, billets. Chiens avec muselière, 50% du tarif adulte pour les grands chiens. Funiculaire du château de Ljubljana : ljubljanskigrad.si/en. Chiens gratuits avec muselière (disponible à la billetterie).",
+          "contentEs": "Autobuses LPP de la ciudad: lpp.si/en. Planificador de rutas, líneas, horarios. Política de mascotas: perros permitidos con bozal fuera de horas pico. SŽ Ferrocarriles Eslovenos: slo-zeleznice.si/en. Trenes interurbanos, horarios, billetes. Perros con bozal, 50% de la tarifa adulta para perros grandes. Funicular del castillo de Ljubljana: ljubljanskigrad.si/en. Perros gratis con bozal (disponible para tomar prestado en taquilla)."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the bus in Ljubljana?",
+          "a": "Yes, outside peak hours (06:30–09:30 and 13:00–17:00). Dogs must wear a muzzle. Small dogs in a carrier travel free with no muzzle required. During peak hours, dogs are not permitted on city buses."
+        },
+        {
+          "q": "Can I take my dog to Lake Bled from Ljubljana?",
+          "a": "Yes. The train from Ljubljana to Bled takes approximately 55 minutes. Dogs must wear a muzzle and travel in 2nd class. Large dogs pay 50% of an adult fare. Lake Bled's walking paths are dog-friendly."
+        },
+        {
+          "q": "Can my dog go on the Ljubljana Castle funicular?",
+          "a": "Yes, dogs ride the funicular for free. They must wear a muzzle. If you don't have a muzzle, one can be borrowed at no charge at the funicular ticket office. Dogs are allowed in the castle courtyard with muzzle, but not in indoor museum areas."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le bus avec mon chien à Ljubljana ?",
+          "a": "Oui, hors heures de pointe (6h30–9h30 et 13h00–17h00). Les chiens doivent porter une muselière. Les petits chiens dans un sac de transport voyagent gratuitement sans obligation de muselière. Aux heures de pointe, les chiens ne sont pas autorisés dans les bus de ville."
+        },
+        {
+          "q": "Puis-je emmener mon chien au lac de Bled depuis Ljubljana ?",
+          "a": "Oui. Le train de Ljubljana à Bled prend environ 55 minutes. Les chiens doivent porter une muselière et voyager en 2e classe. Les grands chiens paient 50% du tarif adulte. Les sentiers de randonnée du lac de Bled sont dog-friendly."
+        },
+        {
+          "q": "Mon chien peut-il monter dans le funiculaire du château de Ljubljana ?",
+          "a": "Oui, les chiens montent gratuitement dans le funiculaire. Ils doivent porter une muselière. Si vous n'avez pas de muselière, vous pouvez en emprunter une sans frais à la billetterie du funiculaire. Les chiens sont autorisés dans la cour du château avec muselière, mais pas dans les zones de musée intérieures."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo tomar el autobús con mi perro en Ljubljana?",
+          "a": "Sí, fuera de las horas pico (06:30–09:30 y 13:00–17:00). Los perros deben llevar bozal. Los perros pequeños en un transportín viajan gratis sin necesidad de bozal. Durante las horas pico, los perros no están permitidos en los autobuses de la ciudad."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro al lago Bled desde Ljubljana?",
+          "a": "Sí. El tren de Ljubljana a Bled tarda aproximadamente 55 minutos. Los perros deben llevar bozal y viajar en 2ª clase. Los perros grandes pagan el 50% de la tarifa adulta. Los senderos del lago Bled son pet-friendly."
+        },
+        {
+          "q": "¿Puede mi perro subir al funicular del castillo de Ljubljana?",
+          "a": "Sí, los perros suben al funicular gratis. Deben llevar bozal. Si no tienes bozal, puedes tomar prestado uno sin coste en la taquilla del funicular. Los perros están permitidos en el patio del castillo con bozal, pero no en las áreas de museo interiores."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Swimming & Beach Spots near Ljubljana",
+      "titleFr": "Baignade et plages dog-friendly près de Ljubljana",
+      "titleEs": "Baño y playas pet-friendly cerca de Ljubljana",
+      "introEn": "Ljubljana is inland, about 55km from the Adriatic coast at Koper. The nearest swimming options for dogs are freshwater: the Sava River (which runs just north of Ljubljana), Šmartinsko jezero (a lake near Šmartno ob Paki), and most famously Lake Bled (55km away). The Adriatic coast at Portorož and Piran does have some dog-tolerant beach areas, particularly outside peak summer. None of these are within the city itself, but they are excellent day trip destinations.",
+      "introFr": "Ljubljana est à l'intérieur des terres, à environ 55 km de la côte adriatique à Koper. Les options de baignade les plus proches pour les chiens sont en eau douce : la Sava (qui coule juste au nord de Ljubljana), le Šmartinsko jezero (un lac près de Šmartno ob Paki) et, le plus célèbre, le lac de Bled (55 km). La côte adriatique à Portorož et Piran a quelques zones de plage tolérantes aux chiens, notamment en dehors de l'été peak. Aucun de ces endroits n'est dans la ville elle-même, mais ce sont d'excellentes destinations d'excursion.",
+      "introEs": "Ljubljana está en el interior, a unos 55 km de la costa adriática en Koper. Las opciones de baño más cercanas para los perros son de agua dulce: el río Sava (que corre justo al norte de Ljubljana), el Šmartinsko jezero (un lago cerca de Šmartno ob Paki) y, más famoso, el lago Bled (55 km de distancia). La costa adriática en Portorož y Piran tiene algunas áreas de playa tolerantes con perros, especialmente fuera del verano pico. Ninguno de estos está dentro de la ciudad en sí, pero son excelentes destinos para excursiones de un día.",
+      "places": [
+        {
+          "name": "Lake Bled — Day Trip",
+          "distance": "55km from Ljubljana — 55 min by train or car",
+          "description": "Lake Bled is Slovenia's most iconic landscape — an emerald lake with a small island church and a medieval castle perched on a cliff. For dogs, the good news is that almost all walking paths around the lake are accessible. The full circumambulation of the lake (6km) is an excellent walk with a dog on a leash. Most of the lake's swimming areas allow dogs outside designated bathing zones. Pletna boats (traditional wooden rowboats to the island) and motorboats: check with the operator on the day, as dog policies vary by operator.",
+          "season": "Year-round — but expect crowds June–August",
+          "rules": "Dogs on leash on all walking paths. Allowed in lake for swimming at non-designated bathing areas. Verify dog access on pletna boats with individual operators before boarding.",
+          "facilities": "Train station in Bled, cafés and restaurants (many dog-friendly on terraces), parking available, toilets throughout",
+          "googleMapsUrl": "https://maps.google.com/?q=Lake+Bled+Slovenia"
+        },
+        {
+          "name": "Sava River Swimming (near Ljubljana)",
+          "distance": "Within 10–20km north of Ljubljana city centre",
+          "description": "The Sava River flows just north of Ljubljana and has several accessible swimming spots along its banks. Dogs can swim in the river at informal riverside access points. Less scenic than Bled but much more accessible for a quick dip during a Ljubljana stay. Local dog owners use the Sava regularly in summer for exactly this purpose.",
+          "season": "Year-round swimming possible, best June–September",
+          "rules": "Informal river access — dogs swim freely at non-designated bathing areas. On leash when walking paths alongside.",
+          "facilities": "Varies by access point. Some have basic facilities; most are simple riverside access",
+          "googleMapsUrl": "https://maps.google.com/?q=Sava+River+Slovenia"
+        }
+      ],
+      "tipsEn": [
+        "Lake Bled is the best dog-friendly day trip from Ljubljana — the lake circuit walk is 6km and spectacular. Train from Ljubljana takes 55 minutes.",
+        "The Sava River north of Ljubljana offers informal dog swimming access much closer to the city — no beach, but genuine river access.",
+        "For the Adriatic coast (Portorož, Piran): dogs are permitted on designated areas of some beaches and most promenades. June–August is very crowded — consider visiting in shoulder season with your dog.",
+        "Ljubljana's Šmartinski park has a water playground but dogs must remain on leash in the park area — no swimming within the city."
+      ],
+      "tipsFr": [
+        "Le lac de Bled est la meilleure excursion d'une journée dog-friendly depuis Ljubljana — le circuit autour du lac fait 6 km et est spectaculaire. Le train depuis Ljubljana prend 55 minutes.",
+        "La Sava au nord de Ljubljana offre un accès informel à la baignade canine beaucoup plus proche de la ville — pas de plage, mais un véritable accès fluvial.",
+        "Pour la côte adriatique (Portorož, Piran) : les chiens sont autorisés dans des zones désignées de certaines plages et sur la plupart des promenades. Juin–août est très fréquenté — envisagez de visiter en saison intermédiaire avec votre chien.",
+        "Le parc Šmartinski de Ljubljana a un parc aquatique mais les chiens doivent rester en laisse dans la zone du parc — pas de baignade dans la ville."
+      ],
+      "tipsEs": [
+        "El lago Bled es la mejor excursión de un día pet-friendly desde Ljubljana — el circuito alrededor del lago es de 6 km y espectacular. El tren desde Ljubljana tarda 55 minutos.",
+        "El río Sava al norte de Ljubljana ofrece acceso informal para nadar con perros mucho más cerca de la ciudad — sin playa, pero con acceso genuino al río.",
+        "Para la costa adriática (Portorož, Piran): los perros están permitidos en áreas designadas de algunas playas y en la mayoría de los paseos. Junio–agosto está muy concurrido — considera visitar en temporada media con tu perro.",
+        "El parque Šmartinski de Ljubljana tiene un parque acuático pero los perros deben permanecer con correa en el área del parque — sin baño dentro de la ciudad."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Lake Bled?",
+          "a": "Yes. Lake Bled is excellent for dogs — the 6km lake circuit walk is beautiful and fully accessible with a leashed dog. Dogs can swim in non-designated bathing areas. Train from Ljubljana takes 55 minutes (dogs allowed with muzzle)."
+        },
+        {
+          "q": "Is Ljubljana near any dog-friendly beaches?",
+          "a": "Not directly — Ljubljana is inland. The nearest beach options are the Adriatic coast (about 100km west, at Portorož/Piran) or freshwater at Lake Bled (55km). The Sava River north of Ljubljana has informal dog swimming access within 20km of the city."
+        },
+        {
+          "q": "Can dogs swim near Ljubljana in summer?",
+          "a": "Yes — at informal Sava River access points north of the city (10–20km), and at Lake Bled (55km). Neither has formal dog beaches, but both offer real swimming access for dogs. Lake Bled is the more scenic and practical option."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au lac de Bled ?",
+          "a": "Oui. Le lac de Bled est excellent pour les chiens — le circuit de 6 km autour du lac est magnifique et entièrement accessible avec un chien en laisse. Les chiens peuvent nager dans les zones de baignade non désignées. Le train depuis Ljubljana prend 55 minutes (chiens autorisés avec muselière)."
+        },
+        {
+          "q": "Ljubljana est-elle proche de plages dog-friendly ?",
+          "a": "Pas directement — Ljubljana est à l'intérieur des terres. Les options de plage les plus proches sont la côte adriatique (environ 100 km à l'ouest, à Portorož/Piran) ou les eaux douces du lac de Bled (55 km). La rivière Sava au nord de Ljubljana offre un accès informel à la baignade canine à moins de 20 km de la ville."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager près de Ljubljana en été ?",
+          "a": "Oui — aux points d'accès informels de la Sava au nord de la ville (10–20 km), et au lac de Bled (55 km). Aucun n'a de plages formelles pour chiens, mais les deux offrent un véritable accès à la baignade pour les chiens. Le lac de Bled est l'option la plus pittoresque et pratique."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al lago Bled?",
+          "a": "Sí. El lago Bled es excelente para perros — el circuito de 6 km alrededor del lago es hermoso y totalmente accesible con un perro con correa. Los perros pueden nadar en áreas de baño no designadas. El tren desde Ljubljana tarda 55 minutos (perros permitidos con bozal)."
+        },
+        {
+          "q": "¿Está Ljubljana cerca de playas pet-friendly?",
+          "a": "No directamente — Ljubljana está en el interior. Las opciones de playa más cercanas son la costa adriática (unos 100 km al oeste, en Portorož/Piran) o agua dulce en el lago Bled (55 km). El río Sava al norte de Ljubljana tiene acceso informal para perros a nadar a menos de 20 km de la ciudad."
+        },
+        {
+          "q": "¿Pueden nadar los perros cerca de Ljubljana en verano?",
+          "a": "Sí — en los puntos de acceso informales del río Sava al norte de la ciudad (10–20 km), y en el lago Bled (55 km). Ninguno tiene playas formales para perros, pero ambos ofrecen acceso real para que los perros naden. El lago Bled es la opción más pintoresca y práctica."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Ljubljana",
+      "titleFr": "Vétérinaires et soins d'urgence à Ljubljana",
+      "titleEs": "Veterinarios y atención de emergencia en Ljubljana",
+      "introEn": "Ljubljana has excellent veterinary infrastructure. The primary reference for emergency care is KMŽ — the Small Animal Clinic of the University of Ljubljana Faculty of Veterinary Medicine — which provides 24-hour emergency services. A second option is Prva-K Veterinary Clinic in the Vič district. Slovenia is an EU member, so EU pet passports are valid. Ensure your dog's rabies vaccination is current before travel.",
+      "introFr": "Ljubljana dispose d'une excellente infrastructure vétérinaire. La référence principale pour les soins d'urgence est KMŽ — la Clinique des petits animaux de la Faculté de médecine vétérinaire de l'Université de Ljubljana — qui fournit des services d'urgence 24h/24. Une deuxième option est la Clinique vétérinaire Prva-K dans le quartier Vič. La Slovénie est membre de l'UE, donc les passeports UE pour animaux sont valables. Assurez-vous que la vaccination antirabique de votre chien est à jour avant de voyager.",
+      "introEs": "Ljubljana tiene una excelente infraestructura veterinaria. La referencia principal para la atención de emergencias es KMŽ — la Clínica de Pequeños Animales de la Facultad de Medicina Veterinaria de la Universidad de Ljubljana — que proporciona servicios de emergencia las 24 horas. Una segunda opción es la Clínica Veterinaria Prva-K en el barrio Vič. Eslovenia es miembro de la UE, por lo que los pasaportes UE para mascotas son válidos. Asegúrate de que la vacunación antirrábica de tu perro esté al día antes de viajar.",
+      "places": [
+        {
+          "name": "KMŽ — Small Animal Clinic (University Veterinary Hospital)",
+          "address": "Cesta v Mestni log 47, 1000 Ljubljana",
+          "neighborhood": "Vič (southwest Ljubljana)",
+          "photo": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.kmz.si/en/",
+          "description": "The primary veterinary emergency facility in Ljubljana: the Small Animal Clinic of the University of Ljubljana's Faculty of Veterinary Medicine. A full university veterinary hospital with comprehensive emergency capabilities, 24-hour emergency service, specialist departments, and surgery facilities. This is the main reference for serious emergency cases in Ljubljana. The clinic has experience with international visitors and English-speaking staff are available.",
+          "descriptionFr": "Le principal établissement vétérinaire d'urgence à Ljubljana : la Clinique des petits animaux de la Faculté de médecine vétérinaire de l'Université de Ljubljana. Un hôpital vétérinaire universitaire complet avec des capacités d'urgence complètes, un service d'urgence 24h/24, des départements spécialisés et des installations chirurgicales. C'est la référence principale pour les cas d'urgence graves à Ljubljana. La clinique a l'expérience des visiteurs internationaux et du personnel anglophone est disponible.",
+          "descriptionEs": "La principal instalación de emergencias veterinarias en Ljubljana: la Clínica de Pequeños Animales de la Facultad de Medicina Veterinaria de la Universidad de Ljubljana. Un completo hospital veterinario universitario con capacidades de emergencia integrales, servicio de emergencias las 24 horas, departamentos especializados e instalaciones quirúrgicas. Esta es la referencia principal para casos de emergencia graves en Ljubljana. La clínica tiene experiencia con visitantes internacionales y hay personal de habla inglesa disponible.",
+          "phone": "+386 30 716 190",
+          "emergency": true,
+          "hours": "24-hour emergency service. Regular clinic hours vary — call ahead for non-emergency visits",
+          "tip": "Save the emergency number: +386 30 716 190. This is the main emergency vet in Ljubljana. The clinic is in the Vič district — about 15 min by taxi from the city centre",
+          "tipFr": "Enregistrez le numéro d'urgence : +386 30 716 190. C'est le principal vétérinaire d'urgence à Ljubljana. La clinique est dans le quartier Vič — environ 15 min en taxi depuis le centre-ville",
+          "tipEs": "Guarda el número de emergencias: +386 30 716 190. Este es el principal veterinario de emergencias en Ljubljana. La clínica está en el barrio Vič — unos 15 min en taxi desde el centro de la ciudad",
+          "googleMapsUrl": "https://maps.google.com/?q=KMZ+Small+Animal+Clinic+Ljubljana+Cesta+v+Mestni+log"
+        },
+        {
+          "name": "Prva-K Veterinary Clinic",
+          "address": "Vič area, Ljubljana (behind the Ilirija building)",
+          "neighborhood": "Vič",
+          "photo": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.prva-klinika.si/en/",
+          "description": "A well-regarded private veterinary clinic in the Vič district of Ljubljana. Provides general and emergency veterinary care with an on-duty vet for out-of-hours emergencies. Good option for non-emergency consultations and as a first point of contact outside KMŽ's regular hours.",
+          "descriptionFr": "Une clinique vétérinaire privée bien réputée dans le quartier Vič de Ljubljana. Fournit des soins vétérinaires généraux et d'urgence avec un vétérinaire de garde pour les urgences en dehors des heures ouvrables. Bonne option pour les consultations non urgentes et comme premier point de contact en dehors des heures régulières de KMŽ.",
+          "descriptionEs": "Una clínica veterinaria privada bien valorada en el barrio Vič de Ljubljana. Proporciona atención veterinaria general y de emergencia con un veterinario de guardia para emergencias fuera de horario. Buena opción para consultas no urgentes y como primer punto de contacto fuera del horario regular de KMŽ.",
+          "phone": "+386 41 241 241",
+          "emergency": true,
+          "hours": "Regular clinic hours plus on-call emergency vet (+386 41 241 241)",
+          "tip": "For out-of-hours emergencies: call +386 41 241 241 to reach the on-duty vet at Prva-K",
+          "tipFr": "Pour les urgences en dehors des heures ouvrables : appelez le +386 41 241 241 pour joindre le vétérinaire de garde de Prva-K",
+          "tipEs": "Para emergencias fuera de horario: llama al +386 41 241 241 para contactar al veterinario de guardia de Prva-K",
+          "googleMapsUrl": "https://maps.google.com/?q=Prva-K+veterinarska+Ljubljana"
+        }
+      ],
+      "tipsEn": [
+        "Main 24-hour emergency vet: KMŽ Small Animal Clinic, Cesta v Mestni log 47. Emergency phone: +386 30 716 190.",
+        "Second emergency option: Prva-K Clinic, Vič district. On-call vet: +386 41 241 241.",
+        "Slovenia is EU-member — EU pet passport with current rabies vaccination is sufficient. Microchipping required.",
+        "English is widely spoken in Ljubljana including at veterinary clinics. Communication should not be a barrier."
+      ],
+      "tipsFr": [
+        "Principal vétérinaire d'urgence 24h/24 : Clinique des petits animaux KMŽ, Cesta v Mestni log 47. Téléphone d'urgence : +386 30 716 190.",
+        "Deuxième option d'urgence : Clinique Prva-K, quartier Vič. Vétérinaire de garde : +386 41 241 241.",
+        "La Slovénie est membre de l'UE — un passeport UE pour animaux avec une vaccination antirabique à jour est suffisant. La puce électronique est obligatoire.",
+        "L'anglais est largement parlé à Ljubljana, y compris dans les cliniques vétérinaires. La communication ne devrait pas être un obstacle."
+      ],
+      "tipsEs": [
+        "Principal veterinario de emergencias 24 horas: Clínica de Pequeños Animales KMŽ, Cesta v Mestni log 47. Teléfono de emergencias: +386 30 716 190.",
+        "Segunda opción de emergencia: Clínica Prva-K, barrio Vič. Veterinario de guardia: +386 41 241 241.",
+        "Eslovenia es miembro de la UE — un pasaporte UE para mascotas con vacunación antirrábica vigente es suficiente. Se requiere microchip.",
+        "El inglés se habla ampliamente en Ljubljana, incluidas las clínicas veterinarias. La comunicación no debería ser una barrera."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Ljubljana?",
+          "a": "Yes. KMŽ Small Animal Clinic at Cesta v Mestni log 47 provides 24-hour emergency service. Emergency phone: +386 30 716 190. It is a full university veterinary hospital."
+        },
+        {
+          "q": "Do I need special documentation to bring my dog to Slovenia?",
+          "a": "No special permit. Slovenia is a full EU member. An EU pet passport with current rabies vaccination is sufficient. Microchipping is required."
+        },
+        {
+          "q": "Do Ljubljana vets speak English?",
+          "a": "Yes. English is widely spoken in Slovenia among professionals. Both KMŽ and Prva-K have English-speaking staff."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Ljubljana ?",
+          "a": "Oui. La Clinique des petits animaux KMŽ au Cesta v Mestni log 47 fournit un service d'urgence 24h/24. Téléphone d'urgence : +386 30 716 190. C'est un hôpital vétérinaire universitaire complet."
+        },
+        {
+          "q": "Ai-je besoin de documents spéciaux pour emmener mon chien en Slovénie ?",
+          "a": "Pas de permis spécial. La Slovénie est membre à part entière de l'UE. Un passeport UE pour animaux avec vaccination antirabique en cours est suffisant. La puce électronique est obligatoire."
+        },
+        {
+          "q": "Les vétérinaires de Ljubljana parlent-ils anglais ?",
+          "a": "Oui. L'anglais est largement parlé en Slovénie parmi les professionnels. KMŽ et Prva-K ont tous deux du personnel anglophone."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas en Ljubljana?",
+          "a": "Sí. La Clínica de Pequeños Animales KMŽ en Cesta v Mestni log 47 proporciona servicio de emergencias las 24 horas. Teléfono de emergencias: +386 30 716 190. Es un completo hospital veterinario universitario."
+        },
+        {
+          "q": "¿Necesito documentación especial para llevar a mi perro a Eslovenia?",
+          "a": "No se necesita permiso especial. Eslovenia es miembro pleno de la UE. Un pasaporte UE para mascotas con vacunación antirrábica vigente es suficiente. Se requiere microchip."
+        },
+        {
+          "q": "¿Los veterinarios de Ljubljana hablan inglés?",
+          "a": "Sí. El inglés se habla ampliamente en Eslovenia entre los profesionales. Tanto KMŽ como Prva-K tienen personal de habla inglesa."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Ljubljana with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Ljubljana avec un chien",
+      "titleEs": "Consejos esenciales para visitar Ljubljana con un perro",
+      "introEn": "Ljubljana is one of the most dog-friendly capitals in Europe. The compact, pedestrianised city centre, the dog-welcoming café culture along the Ljubljanica, the accessible Ljubljana Castle (free funicular for dogs), and a generally warm cultural attitude toward dogs make it genuinely easy to travel here with a pet. The climate is mild — spring and autumn are the best seasons. Summer (June–August) is warm but not excessively hot (usually 25–30°C). Winter is cold but not as severe as the Baltic cities.",
+      "introFr": "Ljubljana est l'une des capitales les plus dog-friendly d'Europe. Le centre-ville compact et piétonnier, la culture des cafés dog-friendly le long de la Ljubljanica, le château de Ljubljana accessible (funiculaire gratuit pour les chiens) et une attitude culturelle généralement chaleureuse envers les chiens rendent le voyage avec un animal de compagnie véritablement facile ici. Le climat est doux — le printemps et l'automne sont les meilleures saisons. L'été (juin–août) est chaud mais pas excessivement chaud (généralement 25–30°C). L'hiver est froid mais pas aussi sévère que les villes baltiques.",
+      "introEs": "Ljubljana es una de las capitales más pet-friendly de Europa. El compacto y peatonal centro de la ciudad, la cultura de cafés pet-friendly a lo largo del Ljubljanica, el accesible castillo de Ljubljana (funicular gratuito para perros) y una actitud cultural generalmente cálida hacia los perros hacen que viajar aquí con una mascota sea genuinamente fácil. El clima es suave — la primavera y el otoño son las mejores estaciones. El verano (junio–agosto) es cálido pero no excesivamente caluroso (generalmente 25–30°C). El invierno es frío pero no tan severo como las ciudades bálticas.",
+      "places": [],
+      "tipsEn": [
+        "Bring a muzzle. Required on city buses (LPP), on intercity trains (SŽ), and for the Ljubljana Castle funicular. Without one, you can borrow one free at the funicular ticket office.",
+        "The Ljubljanica riverfront is the best place to be based with a dog — all terraces are dog-friendly and the city's main sights are all within walking distance.",
+        "Ljubljana Castle explicitly welcomes dogs with a muzzle in the courtyard. Dogs ride the funicular free (muzzle required or borrow one at the ticket office).",
+        "Day trip to Lake Bled: 55km by train (55 min). One of the most scenic dog walks in Central Europe — the 6km lake circuit is spectacular.",
+        "Slovenia is EU-compliant for pet travel. EU pet passport with current rabies vaccination is sufficient. Microchipping required.",
+        "Ljubljana is very walkable. Most visitors find they barely need public transport — the riverfront, old city, Tivoli, and castle are all within 30 minutes on foot from the centre."
+      ],
+      "tipsFr": [
+        "Apportez une muselière. Obligatoire dans les bus de ville (LPP), dans les trains interurbains (SŽ) et pour le funiculaire du château de Ljubljana. Sans en avoir, vous pouvez en emprunter une gratuitement à la billetterie du funiculaire.",
+        "Le front de rivière de la Ljubljanica est le meilleur endroit où séjourner avec un chien — toutes les terrasses sont dog-friendly et les principaux sites de la ville sont tous à distance de marche.",
+        "Le château de Ljubljana accueille explicitement les chiens avec muselière dans la cour. Les chiens montent gratuitement dans le funiculaire (muselière obligatoire ou à emprunter à la billetterie).",
+        "Excursion au lac de Bled : 55 km en train (55 min). L'une des plus belles promenades canines d'Europe centrale — le circuit de 6 km autour du lac est spectaculaire.",
+        "La Slovénie est conforme à l'UE pour les voyages avec animaux. Un passeport UE pour animaux avec vaccination antirabique à jour est suffisant. Puce électronique obligatoire.",
+        "Ljubljana est très agréable à pied. La plupart des visiteurs trouvent qu'ils ont à peine besoin des transports en commun — le front de rivière, la vieille ville, Tivoli et le château sont tous à moins de 30 minutes à pied depuis le centre."
+      ],
+      "tipsEs": [
+        "Lleva un bozal. Obligatorio en los autobuses de la ciudad (LPP), en los trenes interurbanos (SŽ) y para el funicular del castillo de Ljubljana. Sin uno, puedes tomar prestado uno gratis en la taquilla del funicular.",
+        "El frente fluvial del Ljubljanica es el mejor lugar para alojarse con un perro — todas las terrazas son pet-friendly y los principales atractivos de la ciudad están todos a distancia a pie.",
+        "El castillo de Ljubljana da explícitamente la bienvenida a los perros con bozal en el patio. Los perros suben al funicular gratis (bozal requerido o tómalo prestado en la taquilla).",
+        "Excursión al lago Bled: 55 km en tren (55 min). Uno de los paseos caninos más pintorescos de Europa Central — el circuito de 6 km alrededor del lago es espectacular.",
+        "Eslovenia cumple con la normativa UE para viajes con mascotas. Un pasaporte UE para mascotas con vacunación antirrábica vigente es suficiente. Se requiere microchip.",
+        "Ljubljana es muy agradable para caminar. La mayoría de los visitantes encuentran que apenas necesitan el transporte público — el frente fluvial, el casco antiguo, Tivoli y el castillo están todos a menos de 30 minutos a pie desde el centro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Ljubljana dog-friendly?",
+          "a": "Exceptionally so. Ljubljana is consistently ranked among the most dog-friendly capitals in Europe. The riverfront café culture is almost universally welcoming to dogs, the city is compact and walkable, public transport allows dogs (outside peak hours with muzzle), and the castle explicitly welcomes dogs."
+        },
+        {
+          "q": "Do I need a muzzle for my dog in Ljubljana?",
+          "a": "Yes for public transport (buses, trains, funicular). On streets and in parks, muzzles are not generally required. For the castle funicular specifically, you can borrow a muzzle free at the ticket office if you don't have one."
+        },
+        {
+          "q": "What is the best season to visit Ljubljana with a dog?",
+          "a": "Spring (April–May) and autumn (September–October) are ideal — mild temperatures, fewer tourists, and terraces open. Summer is warm (25–30°C) and very lively but busier. Winter is cold but not Baltic-severe, and Ljubljana is beautiful in the snow."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Ljubljana est-elle dog-friendly ?",
+          "a": "Exceptionnellement. Ljubljana est régulièrement classée parmi les capitales les plus dog-friendly d'Europe. La culture des cafés riverains est presque universellement accueillante pour les chiens, la ville est compacte et agréable à pied, les transports en commun autorisent les chiens (hors heures de pointe avec muselière) et le château accueille explicitement les chiens."
+        },
+        {
+          "q": "Mon chien a-t-il besoin d'une muselière à Ljubljana ?",
+          "a": "Oui pour les transports en commun (bus, trains, funiculaire). Dans les rues et les parcs, les muselières ne sont généralement pas requises. Pour le funiculaire du château spécifiquement, vous pouvez emprunter gratuitement une muselière à la billetterie si vous n'en avez pas."
+        },
+        {
+          "q": "Quelle est la meilleure saison pour visiter Ljubljana avec un chien ?",
+          "a": "Le printemps (avril–mai) et l'automne (septembre–octobre) sont idéaux — températures douces, moins de touristes et terrasses ouvertes. L'été est chaud (25–30°C) et très animé mais plus fréquenté. L'hiver est froid mais pas aussi rude que les pays baltes, et Ljubljana est magnifique sous la neige."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Ljubljana pet-friendly?",
+          "a": "Excepcionalmente. Ljubljana se clasifica consistentemente entre las capitales más pet-friendly de Europa. La cultura de cafés en el frente fluvial es casi universalmente acogedora con los perros, la ciudad es compacta y agradable para caminar, el transporte público permite perros (fuera de las horas pico con bozal) y el castillo da explícitamente la bienvenida a los perros."
+        },
+        {
+          "q": "¿Necesita mi perro un bozal en Ljubljana?",
+          "a": "Sí para el transporte público (autobuses, trenes, funicular). En las calles y en los parques, los bozales no son generalmente necesarios. Para el funicular del castillo específicamente, puedes tomar prestado un bozal gratis en la taquilla si no tienes uno."
+        },
+        {
+          "q": "¿Cuál es la mejor temporada para visitar Ljubljana con un perro?",
+          "a": "La primavera (abril–mayo) y el otoño (septiembre–octubre) son ideales — temperaturas suaves, menos turistas y terrazas abiertas. El verano es cálido (25–30°C) y muy animado pero más concurrido. El invierno es frío pero no tan severo como los países bálticos, y Ljubljana es hermosa bajo la nieve."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Ljubljana",
+      "titleFr": "Attractions dog-friendly à Ljubljana",
+      "titleEs": "Atracciones pet-friendly en Ljubljana",
+      "introEn": "Ljubljana's main attractions are almost all accessible with a dog on a leash. The city's signature sights — Ljubljana Castle, the Dragon Bridge, the Triple Bridge, the Central Market, the old city streets — are all outdoors or have outdoor components that welcome leashed dogs. The castle is particularly notable: dogs are explicitly allowed in the courtyard and on the funicular. Most indoor museums do not permit dogs, but the outdoor city itself is the main attraction.",
+      "introFr": "Les principales attractions de Ljubljana sont presque toutes accessibles avec un chien en laisse. Les sites emblématiques de la ville — le château de Ljubljana, le pont du Dragon, le Triple Pont, le marché central, les rues de la vieille ville — sont tous en plein air ou ont des composantes extérieures qui accueillent les chiens en laisse. Le château est particulièrement notable : les chiens sont explicitement autorisés dans la cour et dans le funiculaire. La plupart des musées intérieurs n'autorisent pas les chiens, mais la ville extérieure elle-même est l'attraction principale.",
+      "introEs": "Los principales atractivos de Ljubljana son casi todos accesibles con un perro con correa. Los lugares emblemáticos de la ciudad — el castillo de Ljubljana, el Puente del Dragón, el Puente Triple, el Mercado Central, las calles del casco antiguo — son todos al aire libre o tienen componentes exteriores que dan la bienvenida a los perros con correa. El castillo es particularmente notable: los perros están explícitamente permitidos en el patio y en el funicular. La mayoría de los museos interiores no permiten perros, pero la propia ciudad exterior es el principal atractivo.",
+      "places": [
+        {
+          "name": "Ljubljana Castle (Ljubljanski grad)",
+          "address": "Grajska planota 1, 1000 Ljubljana",
+          "neighborhood": "Castle Hill",
+          "photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.ljubljanskigrad.si/en/",
+          "description": "Ljubljana Castle is the defining landmark of the city, a medieval fortress perched dramatically on a forested hill directly above the old town. Dogs are explicitly and officially welcomed in the castle courtyard and on all castle grounds — a genuinely unusual policy among European castle attractions. They are not permitted in indoor museum areas or the cafeteria. Dogs can access the funicular (free for dogs, muzzle required or borrow one at the ticket office). The hilltop views over the old city and the Alps beyond are extraordinary.",
+          "descriptionFr": "Le château de Ljubljana est le monument emblématique de la ville, une forteresse médiévale perchée de manière spectaculaire sur une colline boisée directement au-dessus de la vieille ville. Les chiens sont explicitement et officiellement bienvenus dans la cour du château et sur tous les terrains du château — une politique véritablement inhabituelle parmi les attractions de châteaux européens. Ils ne sont pas autorisés dans les zones de musée intérieures ou la cafétéria. Les chiens peuvent accéder au funiculaire (gratuit pour les chiens, muselière obligatoire ou à emprunter à la billetterie). Les vues sur la vieille ville et les Alpes au-delà depuis le sommet sont extraordinaires.",
+          "descriptionEs": "El castillo de Ljubljana es el símbolo definitorio de la ciudad, una fortaleza medieval situada dramáticamente en una colina boscosa directamente sobre el casco antiguo. Los perros son explícita y oficialmente bienvenidos en el patio del castillo y en todos los terrenos del castillo — una política genuinamente inusual entre las atracciones de castillos europeos. No se les permite en las áreas de museo interiores o la cafetería. Los perros pueden acceder al funicular (gratis para perros, bozal requerido o toma prestado uno en la taquilla). Las vistas sobre el casco antiguo y los Alpes más allá desde la cima son extraordinarias.",
+          "petPolicy": "Dogs explicitly welcome in the castle courtyard and on all grounds. Not permitted in indoor museum areas or cafeteria. Dogs free on the funicular (muzzle required — borrow one free at the ticket office if needed).",
+          "petPolicyFr": "Chiens explicitement bienvenus dans la cour du château et sur tous les terrains. Non autorisés dans les zones de musée intérieures ou la cafétéria. Les chiens montent gratuitement dans le funiculaire (muselière obligatoire — empruntez-en une gratuitement à la billetterie si nécessaire).",
+          "petPolicyEs": "Perros explícitamente bienvenidos en el patio del castillo y en todos los terrenos. No permitidos en las áreas de museo interiores o la cafetería. Los perros van gratis en el funicular (bozal requerido — toma prestado uno gratis en la taquilla si es necesario).",
+          "tip": "Take the funicular up (dogs free) and walk down the wooded castle hill path — about 15–20 min walk with good views through the trees",
+          "tipFr": "Prenez le funiculaire pour monter (chiens gratuits) et redescendez par le sentier boisé de la colline du château — environ 15 à 20 minutes de marche avec de belles vues à travers les arbres",
+          "tipEs": "Toma el funicular para subir (perros gratis) y baja por el sendero arbolado de la colina del castillo — unos 15–20 min de caminata con buenas vistas a través de los árboles",
+          "googleMapsUrl": "https://maps.google.com/?q=Ljubljana+Castle"
+        },
+        {
+          "name": "Old Town & Dragon Bridge",
+          "address": "Stari trg / Mestni trg, 1000 Ljubljana",
+          "neighborhood": "Old Town",
+          "photo": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitljubljana.com/en/visitors/explore-the-city/things-to-do/sightseeing/",
+          "description": "Ljubljana's old city streets (Stari trg and Mestni trg) are intimate, car-free, and beautiful. The Dragon Bridge (Zmajski most) — Ljubljana's most iconic bridge, flanked by four copper dragons — crosses the Ljubljanica and is one of the best-known symbols of the city. Dogs on a leash are welcome on all outdoor streets. The Triple Bridge (Tromostovje) nearby is equally photogenic and dog-friendly. The whole old town circuit with its café terraces, small squares, and the river promenade makes for one of the most pleasant urban dog walks in Central Europe.",
+          "descriptionFr": "Les rues de la vieille ville de Ljubljana (Stari trg et Mestni trg) sont intimistes, sans voitures et magnifiques. Le pont du Dragon (Zmajski most) — le pont le plus emblématique de Ljubljana, flanqué de quatre dragons en cuivre — traverse la Ljubljanica et est l'un des symboles les plus connus de la ville. Les chiens en laisse sont les bienvenus dans toutes les rues extérieures. Le Triple Pont (Tromostovje) à proximité est tout aussi photogénique et dog-friendly. L'ensemble du circuit de la vieille ville avec ses terrasses de café, ses petites places et la promenade riveraine constitue l'une des plus agréables promenades canines urbaines d'Europe centrale.",
+          "descriptionEs": "Las calles del casco antiguo de Ljubljana (Stari trg y Mestni trg) son íntimas, libres de coches y hermosas. El Puente del Dragón (Zmajski most) — el puente más icónico de Ljubljana, flanqueado por cuatro dragones de cobre — cruza el Ljubljanica y es uno de los símbolos más conocidos de la ciudad. Los perros con correa son bienvenidos en todas las calles exteriores. El Puente Triple (Tromostovje) cercano es igualmente fotogénico y pet-friendly. Todo el circuito del casco antiguo con sus terrazas de café, pequeñas plazas y el paseo fluvial hacen de éste uno de los paseos caninos urbanos más agradables de Europa Central.",
+          "petPolicy": "Dogs on a leash welcome on all outdoor streets. Not permitted inside churches or museums.",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toutes les rues extérieures. Non autorisés dans les églises ou les musées.",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las calles exteriores. No permitidos en iglesias o museos.",
+          "tip": "Walk the old city early in the morning for the best atmosphere — by 10am the tourist groups arrive. Pre-9am it belongs to locals and their dogs",
+          "tipFr": "Promenez-vous dans la vieille ville tôt le matin pour la meilleure ambiance — dès 10h arrivent les groupes de touristes. Avant 9h, elle appartient aux locaux et à leurs chiens",
+          "tipEs": "Pasea por el casco antiguo temprano por la mañana para el mejor ambiente — a las 10h llegan los grupos turísticos. Antes de las 9h pertenece a los locales y sus perros",
+          "googleMapsUrl": "https://maps.google.com/?q=Dragon+Bridge+Ljubljana"
+        },
+        {
+          "name": "Central Market (Tržnica Ljubljana)",
+          "address": "Pogačarjev trg 1, 1000 Ljubljana",
+          "neighborhood": "Old Town",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.lpt.si/trznice/trznica-na-pogacarjevem-trgu/",
+          "description": "Ljubljana's central market is held in the beautiful open-air arcade along the Ljubljanica — designed by architect Jože Plečnik, who shaped much of Ljubljana's distinctive character. Fresh produce, flowers, Slovenian cheeses, honey, breads, and seasonal specialties fill the covered open-air stalls. Dogs on a leash are welcome to walk through with their owners. The Butcher's Bridge (Mesarski most) nearby — famous for its love locks — connects the market to the Petkovšek Embankment and is a lovely short walk.",
+          "descriptionFr": "Le marché central de Ljubljana se tient dans la belle arcade en plein air le long de la Ljubljanica — conçue par l'architecte Jože Plečnik, qui a façonné une grande partie du caractère distinctif de Ljubljana. Produits frais, fleurs, fromages slovènes, miel, pains et spécialités saisonnières remplissent les étals couverts en plein air. Les chiens en laisse sont les bienvenus pour se promener avec leurs maîtres. Le pont des Bouchers (Mesarski most) à proximité — célèbre pour ses cadenas d'amour — relie le marché au quai Petkovšek et constitue une agréable courte promenade.",
+          "descriptionEs": "El mercado central de Ljubljana se celebra en el hermoso arcade al aire libre a lo largo del Ljubljanica — diseñado por el arquitecto Jože Plečnik, quien dio forma a gran parte del carácter distintivo de Ljubljana. Productos frescos, flores, quesos eslovenos, miel, panes y especialidades de temporada llenan los puestos cubiertos al aire libre. Los perros con correa son bienvenidos para pasear con sus dueños. El Puente del Carnicero (Mesarski most) cercano — famoso por sus candados de amor — conecta el mercado con el malecón Petkovšek y es un agradable y corto paseo.",
+          "petPolicy": "Dogs on leash welcome throughout the outdoor market arcade",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toute l'arcade extérieure du marché",
+          "petPolicyEs": "Perros con correa bienvenidos en toda la arcada exterior del mercado",
+          "tip": "Visit weekday mornings (Monday–Friday, 06:00–18:00) or Saturday morning (06:00–16:00) for the freshest produce and best atmosphere",
+          "tipFr": "Visitez en semaine le matin (lundi–vendredi, 6h00–18h00) ou le samedi matin (6h00–16h00) pour les produits les plus frais et la meilleure ambiance",
+          "tipEs": "Visita entre semana por la mañana (lunes–viernes, 06:00–18:00) o el sábado por la mañana (06:00–16:00) para los productos más frescos y el mejor ambiente",
+          "googleMapsUrl": "https://maps.google.com/?q=Ljubljana+Central+Market+Pogacarjev+trg"
+        }
+      ],
+      "tipsEn": [
+        "Ljubljana Castle: the city's top sight explicitly welcomes dogs in the courtyard. Dogs free on the funicular — just bring or borrow a muzzle.",
+        "All outdoor sights in Ljubljana (old city, Dragon Bridge, Triple Bridge, riverfront, castle) are fully accessible with a leashed dog.",
+        "Most indoor museums do not permit dogs. Plan museum visits separately or ask about dog-sitting options nearby.",
+        "The Dragon Bridge and Triple Bridge are best photographed early morning or at dusk — and are virtually empty of tourists at those times."
+      ],
+      "tipsFr": [
+        "Le château de Ljubljana : le principal site de la ville accueille explicitement les chiens dans la cour. Les chiens montent gratuitement dans le funiculaire — apportez simplement ou empruntez une muselière.",
+        "Tous les sites extérieurs de Ljubljana (vieille ville, pont du Dragon, Triple Pont, front de rivière, château) sont entièrement accessibles avec un chien en laisse.",
+        "La plupart des musées intérieurs n'autorisent pas les chiens. Planifiez les visites de musées séparément ou renseignez-vous sur les options de garde de chiens à proximité.",
+        "Le pont du Dragon et le Triple Pont se photographient mieux tôt le matin ou au crépuscule — et sont pratiquement vides de touristes à ces moments-là."
+      ],
+      "tipsEs": [
+        "Castillo de Ljubljana: el principal atractivo de la ciudad da explícitamente la bienvenida a los perros en el patio. Los perros van gratis en el funicular — simplemente trae o toma prestado un bozal.",
+        "Todos los atractivos al aire libre de Ljubljana (casco antiguo, Puente del Dragón, Puente Triple, frente fluvial, castillo) son totalmente accesibles con un perro con correa.",
+        "La mayoría de los museos interiores no permiten perros. Planifica las visitas a museos por separado o pregunta sobre opciones de cuidado de perros cerca.",
+        "El Puente del Dragón y el Puente Triple se fotografían mejor a primera hora de la mañana o al atardecer — y están prácticamente vacíos de turistas en esos momentos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Ljubljana Castle dog-friendly?",
+          "a": "Yes. The castle explicitly and officially welcomes dogs in the courtyard and on all grounds. Dogs ride the funicular for free (muzzle required — borrow one at the ticket office if needed). Dogs are not permitted in indoor museum areas or the cafeteria."
+        },
+        {
+          "q": "Can I visit Ljubljana's old town with my dog?",
+          "a": "Fully. Dogs on a leash are welcome on all outdoor streets in the old city (Stari trg, Mestni trg). The Dragon Bridge, Triple Bridge, Central Market arcade, and Ljubljanica riverfront are all accessible. Not permitted inside churches or museums."
+        },
+        {
+          "q": "What are the best things to do in Ljubljana with a dog?",
+          "a": "Walk the Ljubljanica riverfront and stop at terrace cafés, take the funicular to Ljubljana Castle (dogs free, muzzle required), explore the old city streets, visit the Central Market on a weekday morning, and take a day trip to Lake Bled (55 min by train)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Le château de Ljubljana est-il dog-friendly ?",
+          "a": "Oui. Le château accueille explicitement et officiellement les chiens dans la cour et sur tous les terrains. Les chiens montent gratuitement dans le funiculaire (muselière obligatoire — empruntez-en une à la billetterie si nécessaire). Les chiens ne sont pas autorisés dans les zones de musée intérieures ou la cafétéria."
+        },
+        {
+          "q": "Puis-je visiter la vieille ville de Ljubljana avec mon chien ?",
+          "a": "Complètement. Les chiens en laisse sont les bienvenus dans toutes les rues extérieures de la vieille ville (Stari trg, Mestni trg). Le pont du Dragon, le Triple Pont, l'arcade du marché central et le front de rivière de la Ljubljanica sont tous accessibles. Non autorisés dans les églises ou les musées."
+        },
+        {
+          "q": "Que faire de mieux à Ljubljana avec un chien ?",
+          "a": "Se promener le long du front de rivière de la Ljubljanica et s'arrêter dans les cafés en terrasse, prendre le funiculaire jusqu'au château de Ljubljana (chiens gratuits, muselière obligatoire), explorer les rues de la vieille ville, visiter le marché central un matin en semaine, et faire une excursion d'une journée au lac de Bled (55 min en train)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es el castillo de Ljubljana pet-friendly?",
+          "a": "Sí. El castillo da explícita y oficialmente la bienvenida a los perros en el patio y en todos los terrenos. Los perros van gratis en el funicular (bozal requerido — toma prestado uno en la taquilla si es necesario). Los perros no están permitidos en las áreas de museo interiores o la cafetería."
+        },
+        {
+          "q": "¿Puedo visitar el casco antiguo de Ljubljana con mi perro?",
+          "a": "Completamente. Los perros con correa son bienvenidos en todas las calles exteriores del casco antiguo (Stari trg, Mestni trg). El Puente del Dragón, el Puente Triple, la arcada del Mercado Central y el frente fluvial del Ljubljanica son todos accesibles. No permitidos en iglesias o museos."
+        },
+        {
+          "q": "¿Cuáles son las mejores cosas que hacer en Ljubljana con un perro?",
+          "a": "Caminar por el frente fluvial del Ljubljanica y parar en las terrazas de los cafés, tomar el funicular al castillo de Ljubljana (perros gratis, bozal requerido), explorar las calles del casco antiguo, visitar el Mercado Central una mañana entre semana, y hacer una excursión de un día al lago Bled (55 min en tren)."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Ljubljana",
+      "titleFr": "Garde d'animaux et promenade à Ljubljana",
+      "titleEs": "Cuidado de mascotas y paseo en Ljubljana",
+      "introEn": "Ljubljana has a growing range of pet-sitting and dog-walking services. Given how dog-friendly the city is, you may not need them often — but they are useful for indoor museum visits or longer excursions. The main platforms available are PetBacker (petbacker.com/slovenia) and TrustedHousesitters. The city's compact size means walkers can reach most central neighbourhoods quickly. The dedicated dog website ljubljanawithyourdog.com is also a useful local resource.",
+      "introFr": "Ljubljana dispose d'une gamme croissante de services de garde d'animaux et de promenade. Étant donné à quel point la ville est dog-friendly, vous n'en aurez peut-être pas souvent besoin — mais ils sont utiles pour les visites de musées intérieurs ou les excursions plus longues. Les principales plateformes disponibles sont PetBacker (petbacker.com/slovenia) et TrustedHousesitters. La taille compacte de la ville signifie que les promeneurs peuvent atteindre la plupart des quartiers centraux rapidement. Le site web dédié aux chiens ljubljanawithyourdog.com est également une ressource locale utile.",
+      "introEs": "Ljubljana tiene una gama creciente de servicios de cuidado de mascotas y paseo. Dado lo pet-friendly que es la ciudad, puede que no los necesites a menudo — pero son útiles para visitas a museos interiores o excursiones más largas. Las principales plataformas disponibles son PetBacker (petbacker.com/slovenia) y TrustedHousesitters. El tamaño compacto de la ciudad significa que los paseadores pueden llegar a la mayoría de los barrios centrales rápidamente. El sitio web dedicado a perros ljubljanawithyourdog.com también es un útil recurso local.",
+      "places": [],
+      "tipsEn": [
+        "PetBacker (petbacker.com/slovenia) lists vetted dog walkers and sitters in Ljubljana. Reviews and insurance coverage available.",
+        "TrustedHousesitters has verified sitters in and around Ljubljana for overnight arrangements.",
+        "ljubljanawithyourdog.com is a local community resource with maps, tips, and local service recommendations for dog owners visiting Ljubljana.",
+        "Ljubljana is so walkable and dog-friendly that you may rarely need a sitter — but they're useful for long indoor museum days."
+      ],
+      "tipsFr": [
+        "PetBacker (petbacker.com/slovenia) liste des promeneurs et gardiens de chiens vérifiés à Ljubljana. Avis et couverture d'assurance disponibles.",
+        "TrustedHousesitters a des gardiens vérifiés à Ljubljana et ses environs pour les arrangements nocturnes.",
+        "ljubljanawithyourdog.com est une ressource communautaire locale avec des cartes, des conseils et des recommandations de services locaux pour les propriétaires de chiens visitant Ljubljana.",
+        "Ljubljana est tellement agréable à pied et dog-friendly que vous aurez rarement besoin d'un gardien — mais ils sont utiles pour les longues journées dans les musées intérieurs."
+      ],
+      "tipsEs": [
+        "PetBacker (petbacker.com/slovenia) lista paseadores y cuidadores de perros verificados en Ljubljana. Reseñas y cobertura de seguro disponibles.",
+        "TrustedHousesitters tiene cuidadores verificados en Ljubljana y sus alrededores para arreglos nocturnos.",
+        "ljubljanawithyourdog.com es un recurso comunitario local con mapas, consejos y recomendaciones de servicios locales para dueños de perros que visitan Ljubljana.",
+        "Ljubljana es tan agradable para caminar y pet-friendly que raramente necesitarás un cuidador — pero son útiles para los largos días de museos interiores."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog walkers available in Ljubljana?",
+          "a": "Yes. PetBacker (petbacker.com/slovenia) and TrustedHousesitters both operate in Ljubljana. Given the city's compact size, walkers can reach central neighbourhoods quickly."
+        },
+        {
+          "q": "How much does dog sitting cost in Ljubljana?",
+          "a": "Approximately €10–€25 per visit or walk. Overnight stays with a sitter typically cost €25–€40. Ljubljana is affordable by Western European standards."
+        },
+        {
+          "q": "Is there a local website with dog-friendly tips for Ljubljana?",
+          "a": "Yes — ljubljanawithyourdog.com is a dedicated local resource with maps of dog-friendly spots, parks, services, and activities in Ljubljana. citymagazine.si/en also maintains a running list of verified dog-friendly bars and restaurants."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des promeneurs de chiens à Ljubljana ?",
+          "a": "Oui. PetBacker (petbacker.com/slovenia) et TrustedHousesitters opèrent tous deux à Ljubljana. Compte tenu de la taille compacte de la ville, les promeneurs peuvent atteindre rapidement les quartiers centraux."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Ljubljana ?",
+          "a": "Environ 10–25 € par visite ou promenade. Les séjours nocturnes avec un gardien coûtent généralement 25–40 €. Ljubljana est abordable par rapport aux standards d'Europe occidentale."
+        },
+        {
+          "q": "Y a-t-il un site web local avec des conseils dog-friendly pour Ljubljana ?",
+          "a": "Oui — ljubljanawithyourdog.com est une ressource locale dédiée avec des cartes des spots dog-friendly, des parcs, des services et des activités à Ljubljana. citymagazine.si/en maintient également une liste régulièrement mise à jour des bars et restaurants dog-friendly vérifiés."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay paseadores de perros disponibles en Ljubljana?",
+          "a": "Sí. PetBacker (petbacker.com/slovenia) y TrustedHousesitters operan ambos en Ljubljana. Dado el tamaño compacto de la ciudad, los paseadores pueden llegar rápidamente a los barrios centrales."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Ljubljana?",
+          "a": "Aproximadamente 10–25 € por visita o paseo. Las estancias nocturnas con un cuidador suelen costar 25–40 €. Ljubljana es asequible según los estándares de Europa occidental."
+        },
+        {
+          "q": "¿Hay un sitio web local con consejos pet-friendly para Ljubljana?",
+          "a": "Sí — ljubljanawithyourdog.com es un recurso local dedicado con mapas de lugares pet-friendly, parques, servicios y actividades en Ljubljana. citymagazine.si/en también mantiene una lista actualizada de bares y restaurantes pet-friendly verificados."
+        }
+      ]
+    }
+  }
+}

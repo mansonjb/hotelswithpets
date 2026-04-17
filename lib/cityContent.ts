@@ -555,6 +555,521 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vienna: {
+    history: {
+      fr: `Vienne a été pendant six siècles la capitale des Habsbourg et le centre de gravité de l'Europe centrale. Sous l'empire austro-hongrois, la ville a atteint une splendeur architecturale inégalée : le Ring, le Kunsthistorisches Museum, l'Opéra d'État. Mais Vienne, c'est aussi la ville du café — le Wiener Kaffeehaus, inscrit au patrimoine culturel immatériel de l'UNESCO, est une institution où l'on passe des heures à lire, penser et discuter... souvent avec son chien sur les genoux. Car Vienne prend le bien-être animal au sérieux : les chiens sont admis dans le métro, dans la plupart des musées (hors expositions) et dans d'innombrables cafés. La ville compte même des "Hundeauslaufflächen" — des espaces officiellement dédiés aux chiens sans laisse dans la majorité des parcs.`,
+      en: `Vienna was for six centuries the capital of the Habsburg Empire and the gravitational centre of Central Europe. Under the Austro-Hungarian empire the city reached unrivalled architectural splendour: the Ring, the Kunsthistorisches Museum, the State Opera. But Vienna is also the city of the café — the Wiener Kaffeehaus, inscribed on UNESCO's intangible cultural heritage list, is an institution where people spend hours reading, thinking and talking... often with their dog on their lap. Vienna takes animal welfare seriously: dogs are admitted on the metro, in most museums (outside exhibitions) and in countless cafés. The city even has official off-leash areas (Hundeauslaufflächen) in most parks.`,
+      es: `Viena fue durante seis siglos la capital de los Habsburgo y el centro de gravedad de Europa central. Bajo el Imperio austrohúngaro, la ciudad alcanzó un esplendor arquitectónico sin igual: el Ring, el Kunsthistorisches Museum, la Ópera del Estado. Pero Viena también es la ciudad del café: el Wiener Kaffeehaus, inscrito en el patrimonio cultural inmaterial de la UNESCO, es una institución donde se pasan horas leyendo, pensando y conversando... a menudo con el perro en el regazo. Viena se toma en serio el bienestar animal: los perros están admitidos en el metro, en la mayoría de los museos (fuera de las exposiciones) y en innumerables cafés. La ciudad dispone incluso de zonas oficiales sin correa (Hundeauslaufflächen) en la mayoría de sus parques.`,
+    },
+    sights: [
+      {
+        name: 'Prater & Würstelprater',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: 'Le Prater est un immense parc (6 km²) traversé par la Hauptallee, une avenue droite de 4,5 km idéale pour courir avec son chien. Les zones off-leash y sont nombreuses. La grande roue (Riesenrad) est un symbole mais les animaux n\'y sont pas admis.',
+          en: 'The Prater is a vast park (6 km²) crossed by the Hauptallee, a 4.5 km straight avenue ideal for running with your dog. Off-leash zones are plentiful. The giant Ferris wheel (Riesenrad) is an icon but animals are not admitted.',
+          es: 'El Prater es un enorme parque (6 km²) atravesado por la Hauptallee, una avenida recta de 4,5 km ideal para correr con tu perro. Las zonas sin correa son abundantes. La noria gigante (Riesenrad) es un símbolo, pero los animales no están admitidos.',
+        },
+      },
+      {
+        name: 'Donauinsel',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'île du Danube (21 km de long) est le paradis des chiens viennois en été. Zones de baignade canine aménagées, plages de sable et chemins cyclables accessibles aux piétons et aux animaux. Accès direct par le métro U1.',
+          en: 'Danube Island (21 km long) is the paradise for Viennese dogs in summer. Purpose-built dog swimming areas, sandy beaches and cycle paths accessible to pedestrians and animals. Direct access by U1 metro.',
+          es: 'La isla del Danubio (21 km de longitud) es el paraíso de los perros vieneses en verano. Zonas de baño canino habilitadas, playas de arena y carriles bici accesibles para peatones y animales. Acceso directo en metro U1.',
+        },
+      },
+      {
+        name: 'Lainzer Tiergarten',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancienne réserve de chasse des Habsbourg (2 450 ha), le Lainzer Tiergarten est l\'un des plus grands parcs naturels urbains d\'Europe. Les chiens y sont admis en laisse sur les sentiers balisés. Sangliers et cerfs peuvent être aperçus.',
+          en: 'Former Habsburg hunting reserve (2,450 ha), the Lainzer Tiergarten is one of Europe\'s largest urban natural parks. Dogs are admitted on leads on marked trails. Wild boar and deer can be spotted.',
+          es: 'Antigua reserva de caza de los Habsburgo (2.450 ha), el Lainzer Tiergarten es uno de los mayores parques naturales urbanos de Europa. Los perros están admitidos con correa en los senderos señalizados. Se pueden avistar jabalíes y ciervos.',
+        },
+      },
+      {
+        name: 'Innere Stadt & cafés',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: 'Le centre historique de Vienne (1er arrondissement) est truffé de Kaffeehäuser qui acceptent les chiens. Le Café Central, le Hawelka, le Café Landtmann — la plupart autorisent les animaux bien tenus. Une expérience culturelle unique.',
+          en: 'Vienna\'s historic centre (1st district) is dotted with Kaffeehäuser that accept dogs. Café Central, Hawelka, Café Landtmann — most welcome well-behaved animals. A unique cultural experience.',
+          es: 'El centro histórico de Viena (1er distrito) está repleto de Kaffeehäuser que admiten perros. Café Central, Hawelka, Café Landtmann: la mayoría acoge a animales bien educados. Una experiencia cultural única.',
+        },
+      },
+      {
+        name: 'Schönbrunn',
+        emoji: '👑',
+        petFriendly: true,
+        desc: {
+          fr: 'Les jardins du palais de Schönbrunn (1,7 km²) sont accessibles aux chiens en laisse. Le palais lui-même n\'accepte pas les animaux. Les allées de gravier et les panoramas sur Vienne en font une promenade royale — au sens propre.',
+          en: 'The Schönbrunn palace gardens (1.7 km²) welcome dogs on leads. The palace interior does not accept animals. The gravel paths and panoramas over Vienna make for a walk that\'s royal in every sense.',
+          es: 'Los jardines del palacio de Schönbrunn (1,7 km²) admiten perros con correa. El interior del palacio no acepta animales. Los caminos de grava y las panorámicas sobre Viena hacen de este paseo algo verdaderamente regio.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens voyagent dans le métro viennois (U-Bahn) avec un billet réduit (50% du tarif adulte) et doivent être muselés ou en sac. En pratique, les contrôleurs sont souvent indulgents.',
+        'Vienne dispose de 26 espaces officiels "Hundeauslauf" où les chiens peuvent courir librement sans laisse. Une liste est disponible sur le site de la ville (wien.gv.at).',
+        'La plupart des Kaffeehäuser acceptent les chiens — c\'est une tradition viennoise. Demandez simplement : "Darf mein Hund mit reinkommen?"',
+        'En hiver, Vienne peut être froide et verglacée. Des bottes canines sont recommandées pour les petits chiens sensibles au sel de déverglaçage.',
+        'Le Prater est gratuit et ouvert 24h/24. C\'est la promenade matinale idéale avant les musées.',
+      ],
+      en: [
+        'Dogs travel on Vienna\'s U-Bahn with a reduced ticket (50% adult fare) and must be muzzled or in a carrier. In practice, inspectors are often lenient.',
+        'Vienna has 26 official "Hundeauslauf" off-leash spaces. A full list is available on the city website (wien.gv.at).',
+        'Most Kaffeehäuser accept dogs — it\'s a Viennese tradition. Just ask: "Darf mein Hund mit reinkommen?"',
+        'In winter Vienna can be icy and cold. Dog boots are recommended for small dogs sensitive to de-icing salt.',
+        'The Prater is free and open 24/7. It\'s the ideal morning walk before museum visits.',
+      ],
+      es: [
+        'Los perros viajan en el U-Bahn de Viena con billete reducido (50% del adulto) y deben llevar bozal o ir en transportín. En la práctica, los revisores suelen ser indulgentes.',
+        'Viena dispone de 26 espacios oficiales "Hundeauslauf" donde los perros pueden correr sin correa. La lista completa está en la web municipal (wien.gv.at).',
+        'La mayoría de los Kaffeehäuser admiten perros: es una tradición vienesa. Solo hay que preguntar: "Darf mein Hund mit reinkommen?"',
+        'En invierno Viena puede ser muy fría y helada. Se recomiendan botas caninas para perros pequeños sensibles a la sal antiglacial.',
+        'El Prater es gratuito y está abierto 24 horas. Es el paseo matutino ideal antes de visitar los museos.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire d\'urgence 24h/24 : Tierklinik Strebersdorf, Kürschnergasse 4, +43 1 292 5200',
+        'Clinique centrale : Tierspital Wien (Univ.), Veterinärplatz 1, +43 1 25 077 5100',
+        'Trains depuis Paris (Railjet/ÖBB) : les animaux en cage ou sac voyagent gratuitement. Les grands chiens nécessitent un billet demi-tarif et un museau.',
+        'Aéroport de Vienne-Schwechat : animaux UE avec passeport valide admis sans quarantaine.',
+      ],
+      en: [
+        '24/7 emergency vet: Tierklinik Strebersdorf, Kürschnergasse 4, +43 1 292 5200',
+        'Central clinic: Tierspital Wien (University), Veterinärplatz 1, +43 1 25 077 5100',
+        'Trains from Paris (Railjet/ÖBB): animals in carriers or bags travel free. Large dogs need a half-price ticket and a muzzle.',
+        'Vienna Schwechat Airport: EU pets with valid passport admitted without quarantine.',
+      ],
+      es: [
+        'Veterinario de urgencias 24h: Tierklinik Strebersdorf, Kürschnergasse 4, +43 1 292 5200',
+        'Clínica central: Tierspital Wien (Universidad), Veterinärplatz 1, +43 1 25 077 5100',
+        'Trenes desde París (Railjet/ÖBB): animales en transportín o bolsa viajan gratis. Los perros grandes necesitan billete a mitad de precio y bozal.',
+        'Aeropuerto de Viena-Schwechat: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
+      ],
+    },
+  },
+
+  prague: {
+    history: {
+      fr: `Prague est l'une des rares capitales européennes à avoir traversé les deux guerres mondiales pratiquement intacte. Son centre historique, classé au patrimoine mondial de l'UNESCO, conserve intact un millénaire d'architecture : romane, gothique, baroque, Art Nouveau, cubiste — un concentré unique qui en fait l'une des plus belles villes du monde. Fondée au IXe siècle sur les rives de la Vltava, Prague a connu son apogée sous Charles IV (XIVe siècle), qui en fit la capitale du Saint-Empire romain germanique. Aujourd'hui, Prague est une ville compacte et marchable, où les chiens sont bienvenus dans la quasi-totalité des pubs, wine bars et restaurants — une tradition tchèque bien ancrée.`,
+      en: `Prague is one of the few European capitals to have emerged from both World Wars virtually intact. Its historic centre, a UNESCO World Heritage Site, preserves a millennium of architecture: Romanesque, Gothic, Baroque, Art Nouveau, Cubist — a unique concentration that makes it one of the world's most beautiful cities. Founded in the 9th century on the banks of the Vltava, Prague reached its peak under Charles IV (14th century), who made it the capital of the Holy Roman Empire. Today Prague is a compact, walkable city where dogs are welcome in virtually all pubs, wine bars and restaurants — a firmly established Czech tradition.`,
+      es: `Praga es una de las pocas capitales europeas que sobrevivió a ambas guerras mundiales prácticamente intacta. Su centro histórico, declarado Patrimonio de la Humanidad por la UNESCO, conserva un milenio de arquitectura: románica, gótica, barroca, art nouveau, cubista: una concentración única que la convierte en una de las ciudades más bellas del mundo. Fundada en el siglo IX a orillas del Moldava, Praga alcanzó su esplendor bajo Carlos IV (siglo XIV), quien la convirtió en capital del Sacro Imperio Romano Germánico. Hoy Praga es una ciudad compacta y caminable, donde los perros son bienvenidos en prácticamente todos los pubs, bares de vinos y restaurantes: una tradición checa bien arraigada.`,
+    },
+    sights: [
+      {
+        name: 'Stromovka',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ancien parc royal (95 ha) dans le quartier de Holešovice est le parc préféré des chiens praguois. Zones sans laisse désignées, grands espaces ouverts et étangs. Calme en semaine, animé le week-end.',
+          en: 'The former royal park (95 ha) in the Holešovice neighbourhood is the favourite park for Prague dogs. Designated off-leash areas, wide open spaces and ponds. Peaceful on weekdays, lively at weekends.',
+          es: 'El antiguo parque real (95 ha) en el barrio de Holešovice es el parque favorito de los perros de Praga. Zonas sin correa designadas, grandes espacios abiertos y estanques. Tranquilo entre semana, animado los fines de semana.',
+        },
+      },
+      {
+        name: 'Letná',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc de Letná surplombe la vieille ville et offre une vue panoramique spectaculaire sur les ponts et la Vltava. Les chiens peuvent y aller sans laisse dans les zones dégagées. Le beer garden de Letná est l\'un des plus sympas de Prague — les chiens y sont bienvenus.',
+          en: 'Letná Park overlooks the old town and offers a spectacular panoramic view of the bridges and Vltava. Dogs can go off-leash in the open areas. The Letná beer garden is one of Prague\'s nicest — dogs are welcome.',
+          es: 'El parque de Letná domina el casco antiguo y ofrece una espectacular vista panorámica de los puentes y el Moldava. Los perros pueden ir sin correa en las zonas abiertas. El jardín de cerveza de Letná es uno de los más agradables de Praga, y los perros son bienvenidos.',
+        },
+      },
+      {
+        name: 'Vinohrady & Žižkov',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Les deux quartiers les plus dog-friendly de Prague hors du centre touristique. Pubs accueillants, cafés branchés et rues calmes. Le Riegrovy sady (parc de Vinohrady) avec son beer garden est un incontournable.',
+          en: 'Prague\'s two most dog-friendly neighbourhoods outside the tourist centre. Welcoming pubs, trendy cafés and quiet streets. The Riegrovy sady (Vinohrady park) with its beer garden is unmissable.',
+          es: 'Los dos barrios más amigables con los perros de Praga fuera del centro turístico. Pubs acogedores, cafés de moda y calles tranquilas. El Riegrovy sady (parque de Vinohrady) con su jardín de cerveza es imprescindible.',
+        },
+      },
+      {
+        name: 'Pont Charles (Karlův most)',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Le pont médiéval le plus célèbre d\'Europe est ouvert aux piétons et aux chiens. Bondé en journée, il retrouve son calme avant 7h du matin et après 21h — c\'est le moment idéal pour s\'y promener avec son animal.',
+          en: 'Europe\'s most famous medieval bridge is open to pedestrians and dogs. Packed during the day, it recovers its calm before 7am and after 9pm — the ideal moment to walk across with your pet.',
+          es: 'El puente medieval más famoso de Europa está abierto a peatones y perros. Muy concurrido durante el día, recupera su calma antes de las 7 h y después de las 21 h: el momento ideal para cruzarlo con tu mascota.',
+        },
+      },
+      {
+        name: 'Château de Prague (Hradčany)',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: 'Les jardins du Château (Královská zahrada) n\'admettent pas les chiens. En revanche, les Jardins Sud du Château (Jižní zahrady) sont accessibles aux animaux en laisse et offrent une vue magnifique sur la ville.',
+          en: 'The Castle gardens (Královská zahrada) do not admit dogs. However, the South Gardens (Jižní zahrady) welcome dogs on leads and offer magnificent views over the city.',
+          es: 'Los jardines del Castillo (Královská zahrada) no admiten perros. En cambio, los Jardines del Sur (Jižní zahrady) admiten perros con correa y ofrecen magníficas vistas sobre la ciudad.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens sont admis dans le métro praguois avec un billet réduit et doivent être muselés ou en sac. Dans les tramways et bus, les règles sont similaires.',
+        'Les pubs (hospody) tchèques sont presque universellement dog-friendly — c\'est une tradition nationale. Il est rare d\'être refusé avec un chien bien tenu.',
+        'La Vltava est froide toute l\'année. Des zones de baignade canine existent en été près de Císařský ostrov (Île de l\'Empereur) dans le nord de Prague.',
+        'Prague est très touristique en été — les quartiers centraux (Malá Strana, Staré Město) sont bondés. Préférez les promenades matinales ou vespérales.',
+        'De nombreux cafés proposent de l\'eau pour les chiens spontanément — la culture dog-friendly est bien intégrée à Prague.',
+      ],
+      en: [
+        'Dogs are allowed on Prague Metro with a reduced ticket and must be muzzled or in a carrier. Similar rules apply on trams and buses.',
+        'Czech pubs (hospody) are almost universally dog-friendly — it\'s a national tradition. Being refused entry with a well-behaved dog is rare.',
+        'The Vltava is cold year-round. Dog swimming areas exist in summer near Císařský ostrov (Emperor\'s Island) in northern Prague.',
+        'Prague is very touristy in summer — central areas (Malá Strana, Staré Město) get packed. Opt for early morning or evening walks.',
+        'Many cafés spontaneously bring water for dogs — dog-friendly culture is well established in Prague.',
+      ],
+      es: [
+        'Los perros están admitidos en el metro de Praga con billete reducido y deben llevar bozal o ir en transportín. Reglas similares en tranvías y autobuses.',
+        'Los pubs (hospody) checos son casi universalmente dog-friendly: es una tradición nacional. Es raro que te rechacen con un perro bien educado.',
+        'El Moldava es frío todo el año. Hay zonas de baño canino en verano cerca de Císařský ostrov (Isla del Emperador) al norte de Praga.',
+        'Praga es muy turística en verano: las zonas centrales (Malá Strana, Staré Město) se llenan. Opta por paseos a primera hora o al anochecer.',
+        'Muchos cafés traen agua para los perros espontáneamente: la cultura dog-friendly está bien integrada en Praga.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire d\'urgence 24h/24 : Veterinární klinika Hloubětín, Slévačská 905, Prague 9, +420 281 911 219',
+        'Clinique centrale : Veterinární klinika Praha, Štefánikova 6, Prague 5, +420 257 320 191',
+        'Trains depuis Paris (Railjet) : les animaux en cage voyagent avec billet enfant sur les lignes internationales.',
+        'Aéroport Václav-Havel : animaux UE avec passeport valide admis sans quarantaine.',
+      ],
+      en: [
+        '24/7 emergency vet: Veterinární klinika Hloubětín, Slévačská 905, Prague 9, +420 281 911 219',
+        'Central clinic: Veterinární klinika Praha, Štefánikova 6, Prague 5, +420 257 320 191',
+        'Trains from Paris (Railjet): animals in carriers travel with a child ticket on international routes.',
+        'Václav Havel Airport: EU pets with valid passport admitted without quarantine.',
+      ],
+      es: [
+        'Veterinario de urgencias 24h: Veterinární klinika Hloubětín, Slévačská 905, Praga 9, +420 281 911 219',
+        'Clínica central: Veterinární klinika Praha, Štefánikova 6, Praga 5, +420 257 320 191',
+        'Trenes desde París (Railjet): animales en transportín viajan con billete de niño en líneas internacionales.',
+        'Aeropuerto Václav Havel: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
+      ],
+    },
+  },
+
+  edinburgh: {
+    history: {
+      fr: `Édimbourg est une ville qui respire l'histoire. Construite sur des roches volcaniques au sommet desquelles trône le château (XIe siècle), elle fut la capitale du Royaume d'Écosse et le lieu de naissance de la Renaissance écossaise. Sa vieille ville médiévale et son New Town géorgien du XVIIIe siècle sont inscrits ensemble au patrimoine mondial de l'UNESCO. Mais Édimbourg est aussi une ville profondément dog-friendly : les chiens sont admis dans la plupart des pubs, sur les collines d'Arthur's Seat, dans les jardins publics et dans une majorité de cafés. La tradition britannique du chien au pub est ici une réalité quotidienne — et l'Écosse est, avec l'Allemagne, le pays d'Europe le plus accueillant pour les animaux de compagnie.`,
+      en: `Edinburgh is a city that breathes history. Built on volcanic rock crowned by its castle (11th century), it was the capital of the Kingdom of Scotland and the birthplace of the Scottish Enlightenment. Its medieval Old Town and 18th-century Georgian New Town are jointly inscribed as a UNESCO World Heritage Site. But Edinburgh is also a deeply dog-friendly city: dogs are allowed in most pubs, on the Arthur's Seat hills, in public gardens and in the majority of cafés. The British tradition of dogs in pubs is a daily reality here — and Scotland is, alongside Germany, the most pet-welcoming country in Europe.`,
+      es: `Edimburgo es una ciudad que respira historia. Construida sobre roca volcánica coronada por su castillo (siglo XI), fue la capital del Reino de Escocia y la cuna de la Ilustración escocesa. Su casco antiguo medieval y su New Town georgiano del siglo XVIII están inscritos conjuntamente como Patrimonio de la Humanidad por la UNESCO. Pero Edimburgo también es una ciudad profundamente amigable con los perros: los perros están admitidos en la mayoría de los pubs, en las colinas de Arthur's Seat, en los jardines públicos y en la mayoría de los cafés. La tradición británica de los perros en el pub es aquí una realidad cotidiana, y Escocia es, junto con Alemania, el país más acogedor de Europa para las mascotas.`,
+    },
+    sights: [
+      {
+        name: 'Arthur\'s Seat',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le volcan endormi au cœur d\'Édimbourg (251 m) est un terrain de jeu extraordinaire pour les chiens. Les sentiers sont ouverts et les chiens peuvent y aller sans laisse dans la plupart des zones. La vue sur la ville depuis le sommet est spectaculaire.',
+          en: 'The dormant volcano at Edinburgh\'s heart (251 m) is an extraordinary playground for dogs. Trails are open and dogs can go off-leash in most areas. The view over the city from the summit is spectacular.',
+          es: 'El volcán dormido en el corazón de Edimburgo (251 m) es un extraordinario terreno de juego para los perros. Los senderos son abiertos y los perros pueden ir sin correa en la mayoría de las zonas. La vista sobre la ciudad desde la cima es espectacular.',
+        },
+      },
+      {
+        name: 'Water of Leith',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'La rivière qui traverse Édimbourg est bordée d\'un chemin piétonnier de 12 km, du centre-ville jusqu\'à Leith. Les chiens peuvent y aller sans laisse dans la plupart des sections. Un itinéraire vert et paisible loin de l\'agitation touristique.',
+          en: 'The river that crosses Edinburgh is lined with a 12 km footpath from the city centre to Leith. Dogs can go off-leash in most sections. A green, peaceful route away from tourist bustle.',
+          es: 'El río que atraviesa Edimburgo está bordeado por un sendero peatonal de 12 km desde el centro de la ciudad hasta Leith. Los perros pueden ir sin correa en la mayoría de los tramos. Una ruta verde y tranquila alejada del ajetreo turístico.',
+        },
+      },
+      {
+        name: 'Royal Mile & Vieille Ville',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'La rue principale de la vieille ville médiévale est accessible aux chiens. La plupart des closes (ruelles) latérales sont parfaites pour explorer avec un animal. Le château d\'Édimbourg n\'admet pas les animaux à l\'intérieur.',
+          en: 'The main street of the medieval Old Town is accessible to dogs. Most lateral closes (alleyways) are perfect for exploring with a pet. Edinburgh Castle does not admit animals inside.',
+          es: 'La calle principal del casco antiguo medieval es accesible para los perros. La mayoría de los "closes" (callejones) laterales son perfectos para explorar con una mascota. El Castillo de Edimburgo no admite animales en su interior.',
+        },
+      },
+      {
+        name: 'Holyrood Park',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc royal qui entoure Arthur\'s Seat (263 ha) est entièrement accessible aux chiens. Les lochans (petits lacs), les falaises de Salisbury Crags et les vastes prairies en font l\'un des meilleurs parcs urbains d\'Europe.',
+          en: 'The royal park surrounding Arthur\'s Seat (263 ha) is fully accessible to dogs. The lochans (small lakes), Salisbury Crags cliffs and wide meadows make it one of Europe\'s finest urban parks.',
+          es: 'El parque real que rodea Arthur\'s Seat (263 ha) es totalmente accesible para los perros. Los lochans (pequeños lagos), los acantilados de Salisbury Crags y los amplios prados lo convierten en uno de los mejores parques urbanos de Europa.',
+        },
+      },
+      {
+        name: 'Stockbridge & Dean Village',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Stockbridge est le quartier le plus charmant et dog-friendly d\'Édimbourg. Marché du dimanche, pubs accueillants, bouchers et épiceries qui gardent un biscuit pour votre chien. Dean Village, en contrebas, est une merveille architecturale au bord de l\'eau.',
+          en: 'Stockbridge is Edinburgh\'s most charming and dog-friendly neighbourhood. Sunday market, welcoming pubs, butchers and delis that keep a treat for your dog. Dean Village below is an architectural gem by the water.',
+          es: 'Stockbridge es el barrio más encantador y amigable con los perros de Edimburgo. Mercado dominical, pubs acogedores, carnicerías y delicatessen que guardan una golosina para tu perro. Dean Village, más abajo, es una joya arquitectónica junto al agua.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        '⚠️ IMPORTANT : Le Royaume-Uni n\'accepte plus le passeport européen pour animaux post-Brexit. Un Certificat Sanitaire Animal (AHC) est obligatoire pour entrer en Grande-Bretagne. Prenez rendez-vous chez votre vétérinaire 10 jours avant le départ.',
+        'Les chiens sont admis dans la quasi-totalité des pubs écossais — c\'est une tradition nationale. Cherchez le signe "Dogs Welcome" à l\'entrée.',
+        'Le ferry Stena Line ou P&O depuis Calais/Dunkerque vers Douvres est la meilleure option pour voyager avec un grand chien depuis le continent.',
+        'Édimbourg est souvent ventée et fraîche même en été — prévoyez une couverture ou un imperméable pour votre chien.',
+        'Les Meadows (grand parc au sud du centre) disposent de zones off-leash populaires avec les locaux.',
+      ],
+      en: [
+        '⚠️ IMPORTANT: The UK no longer accepts the EU pet passport post-Brexit. An Animal Health Certificate (AHC) is required to enter Great Britain. Book a vet appointment 10 days before departure.',
+        'Dogs are welcome in virtually all Scottish pubs — it\'s a national tradition. Look for the "Dogs Welcome" sign at the entrance.',
+        'The Stena Line or P&O ferry from Calais/Dunkirk to Dover is the best option for travelling with a large dog from the continent.',
+        'Edinburgh is often windy and cool even in summer — pack a blanket or waterproof coat for your dog.',
+        'The Meadows (large park south of the centre) has popular off-leash zones used by locals.',
+      ],
+      es: [
+        '⚠️ IMPORTANTE: El Reino Unido ya no acepta el pasaporte europeo para mascotas tras el Brexit. Se requiere un Certificado Sanitario Animal (AHC) para entrar en Gran Bretaña. Solicita cita con tu veterinario 10 días antes de salir.',
+        'Los perros son bienvenidos en prácticamente todos los pubs escoceses: es una tradición nacional. Busca el cartel "Dogs Welcome" a la entrada.',
+        'El ferry de Stena Line o P&O desde Calais/Dunkerque a Dover es la mejor opción para viajar con un perro grande desde el continente.',
+        'Edimburgo es a menudo ventosa y fresca incluso en verano: lleva una manta o impermeable para tu perro.',
+        'The Meadows (gran parque al sur del centro) tiene populares zonas sin correa frecuentadas por los locales.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire d\'urgence 24h/24 : Dick Vet Emergency Service, Easter Bush, Roslin, Midlothian, +44 131 650 7650',
+        'Clinique centrale : Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
+        '⚠️ Passeport UE non valable au Royaume-Uni — Certificat Sanitaire Animal (AHC) requis, délivré par un vétérinaire accrédité.',
+        'Ferry recommandé : DFDS Dover-Calais ou Stena Line Fishguard-Rosslare (Irlande) — les animaux sont admis à bord.',
+      ],
+      en: [
+        '24/7 emergency vet: Dick Vet Emergency Service, Easter Bush, Roslin, Midlothian, +44 131 650 7650',
+        'Central clinic: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
+        '⚠️ EU pet passport not valid in the UK — Animal Health Certificate (AHC) required, issued by an accredited vet.',
+        'Recommended ferry: DFDS Dover-Calais or Stena Line Fishguard-Rosslare (Ireland) — animals admitted on board.',
+      ],
+      es: [
+        'Veterinario de urgencias 24h: Dick Vet Emergency Service, Easter Bush, Roslin, Midlothian, +44 131 650 7650',
+        'Clínica central: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
+        '⚠️ El pasaporte UE para mascotas no es válido en el Reino Unido — se requiere Certificado Sanitario Animal (AHC) expedido por un veterinario acreditado.',
+        'Ferry recomendado: DFDS Dover-Calais o Stena Line Fishguard-Rosslare (Irlanda) — animales admitidos a bordo.',
+      ],
+    },
+  },
+
+  dublin: {
+    history: {
+      fr: `Dublin — Baile Átha Cliath en irlandais, "la ville du gué aux claies" — a été fondée par les Vikings au IXe siècle sur les rives de la Liffey. Capitale de l'Irlande depuis la domination normande du XIIe siècle, elle a été le centre administratif de la présence britannique en Irlande pendant sept siècles avant de devenir la capitale de l'État libre d'Irlande en 1922. Aujourd'hui, Dublin est une ville chaleureuse et vivante, connue pour ses pubs, sa culture littéraire (Joyce, Beckett, Wilde) et son accueil légendaire. Les chiens y sont les bienvenus dans les beer gardens, sur les sentiers côtiers et dans le Phoenix Park — l'un des plus grands parcs urbains d'Europe, avec 1 750 hectares à explorer.`,
+      en: `Dublin — Baile Átha Cliath in Irish, "the town of the ford of the hurdles" — was founded by the Vikings in the 9th century on the banks of the Liffey. Capital of Ireland since the Norman conquest of the 12th century, it was the administrative centre of British presence in Ireland for seven centuries before becoming the capital of the Irish Free State in 1922. Today Dublin is a warm, vibrant city known for its pubs, literary culture (Joyce, Beckett, Wilde) and legendary hospitality. Dogs are welcome in beer gardens, on coastal walks and in Phoenix Park — one of Europe's largest urban parks at 1,750 hectares.`,
+      es: `Dublín — Baile Átha Cliath en irlandés, "la ciudad del vado de los zarzos" — fue fundada por los vikingos en el siglo IX a orillas del Liffey. Capital de Irlanda desde la conquista normanda del siglo XII, fue el centro administrativo de la presencia británica en Irlanda durante siete siglos antes de convertirse en la capital del Estado Libre Irlandés en 1922. Hoy Dublín es una ciudad cálida y animada, conocida por sus pubs, su cultura literaria (Joyce, Beckett, Wilde) y su legendaria hospitalidad. Los perros son bienvenidos en los beer gardens, en los paseos costeros y en el Phoenix Park: uno de los mayores parques urbanos de Europa, con 1.750 hectáreas por explorar.`,
+    },
+    sights: [
+      {
+        name: 'Phoenix Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Avec 1 750 hectares, Phoenix Park est l\'un des plus grands parcs urbains enclos au monde. Les chiens peuvent y courir librement dans la plupart des zones. Le parc abrite des cerfs en liberté — gardez votre chien en laisse si vous en approchez.',
+          en: 'At 1,750 hectares, Phoenix Park is one of the world\'s largest enclosed urban parks. Dogs can run freely in most areas. The park is home to free-roaming deer — keep your dog on a lead if you approach them.',
+          es: 'Con 1.750 hectáreas, Phoenix Park es uno de los mayores parques urbanos cerrados del mundo. Los perros pueden correr libremente en la mayoría de las zonas. El parque alberga ciervos en libertad: mantén a tu perro con correa si te acercas a ellos.',
+        },
+      },
+      {
+        name: 'Dodder River Walk',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Le chemin longeant la rivière Dodder depuis Rathfarnham jusqu\'au port de Ringsend est l\'une des promenades les plus appréciées des Dublinois avec leurs chiens. Verdoyant, varié et accessible toute l\'année.',
+          en: 'The path along the Dodder river from Rathfarnham to Ringsend harbour is one of the most beloved walks for Dubliners and their dogs. Green, varied and accessible year-round.',
+          es: 'El camino a lo largo del río Dodder desde Rathfarnham hasta el puerto de Ringsend es uno de los paseos más queridos por los dublineses y sus perros. Verde, variado y accesible todo el año.',
+        },
+      },
+      {
+        name: 'Sandymount Strand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'La plage de Sandymount, à 3 km du centre de Dublin, est accessible aux chiens toute l\'année (en laisse pendant la saison balnéaire). À marée basse, les vastes étendues de sable sont parfaites pour une longue promenade canine.',
+          en: 'Sandymount Strand, 3 km from Dublin city centre, is accessible to dogs year-round (on lead during bathing season). At low tide, the vast sandy expanses are perfect for a long dog walk.',
+          es: 'La playa de Sandymount, a 3 km del centro de Dublín, es accesible para los perros durante todo el año (con correa en temporada de baño). Con marea baja, las vastas extensiones de arena son perfectas para un largo paseo canino.',
+        },
+      },
+      {
+        name: 'Ranelagh & Portobello',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Ranelagh et Portobello sont les quartiers les plus dog-friendly de Dublin. Pubs avec beer gardens, cafés branchés et le Grand Canal longeant Portobello — idéal pour une promenade en fin d\'après-midi.',
+          en: 'Ranelagh and Portobello are Dublin\'s most dog-friendly neighbourhoods. Pubs with beer gardens, trendy cafés and the Grand Canal running alongside Portobello — ideal for a late-afternoon walk.',
+          es: 'Ranelagh y Portobello son los barrios más amigables con los perros de Dublín. Pubs con beer gardens, cafés de moda y el Grand Canal junto a Portobello: ideal para un paseo al final de la tarde.',
+        },
+      },
+      {
+        name: 'Wicklow Mountains (excursion)',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'À 40 minutes au sud de Dublin en voiture, les montagnes de Wicklow offrent des randonnées dog-friendly spectaculaires. Glendalough (deux lacs glaciaires) est le site le plus populaire — les chiens y sont admis sur les sentiers.',
+          en: 'A 40-minute drive south of Dublin, the Wicklow Mountains offer spectacular dog-friendly hiking. Glendalough (two glacial lakes) is the most popular site — dogs are allowed on the trails.',
+          es: 'A 40 minutos al sur de Dublín en coche, las montañas de Wicklow ofrecen senderismo espectacular apto para perros. Glendalough (dos lagos glaciares) es el lugar más popular: los perros están admitidos en los senderos.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        '⚠️ IMPORTANT : L\'Irlande exige un traitement antiparasite (tapeworm) pour les chiens 24 à 120 heures avant l\'arrivée, et l\'entrée doit se faire par un port ou aéroport approuvé. Consultez votre vétérinaire.',
+        'Les chiens ne sont pas admis dans les bus et DART (train de banlieue) dublinois sauf s\'ils sont dans un sac. Les taxis sont en général dog-friendly — confirmez à la réservation.',
+        'Les beer gardens des pubs irlandais sont presque universellement dog-friendly. La culture du pub avec chien est bien ancrée à Dublin.',
+        'L\'eau est un sujet en Irlande — il pleut souvent. Emportez une serviette pour sécher votre chien avant d\'entrer dans un café ou hôtel.',
+        'Le marché de Temple Bar le samedi est ouvert aux chiens et offre une belle animation au cœur de Dublin.',
+      ],
+      en: [
+        '⚠️ IMPORTANT: Ireland requires a tapeworm treatment for dogs 24–120 hours before arrival, and entry must be via an approved port or airport. Consult your vet in advance.',
+        'Dogs are not admitted on Dublin buses or DART (suburban train) unless in a carrier. Taxis are generally dog-friendly — confirm when booking.',
+        'Irish pub beer gardens are almost universally dog-friendly. The pub-with-dog culture is well established in Dublin.',
+        'Water — and rain — is a constant in Ireland. Pack a towel to dry your dog before entering a café or hotel.',
+        'Temple Bar market on Saturdays is open to dogs and offers a lively atmosphere in the heart of Dublin.',
+      ],
+      es: [
+        '⚠️ IMPORTANTE: Irlanda exige un tratamiento antiparasitario (tenias) para los perros entre 24 y 120 horas antes de la llegada, y la entrada debe realizarse por un puerto o aeropuerto aprobado. Consulta a tu veterinario.',
+        'Los perros no están admitidos en los autobuses ni en el DART (tren de cercanías) de Dublín, salvo en transportín. Los taxis suelen ser dog-friendly: confírmalo al reservar.',
+        'Los beer gardens de los pubs irlandeses son casi universalmente dog-friendly. La cultura del pub con perro está muy arraigada en Dublín.',
+        'El agua —y la lluvia— es constante en Irlanda. Lleva una toalla para secar a tu perro antes de entrar en un café u hotel.',
+        'El mercado de Temple Bar los sábados admite perros y ofrece un ambiente animado en el corazón de Dublín.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire d\'urgence 24h/24 : UCD Veterinary Hospital, Belfield, Dublin 4, +353 1 716 6100',
+        'Clinique centrale : Clontarf Veterinary Hospital, 193 Clontarf Road, +353 1 833 3284',
+        '⚠️ Traitement tapeworm obligatoire 24-120h avant l\'entrée en Irlande — à faire chez un vétérinaire accrédité.',
+        'Ferry recommandé : Irish Ferries Rosslare-Cherbourg ou Brittany Ferries Cork-Roscoff — chiens admis à bord dans les cabines ou chenils.',
+      ],
+      en: [
+        '24/7 emergency vet: UCD Veterinary Hospital, Belfield, Dublin 4, +353 1 716 6100',
+        'Central clinic: Clontarf Veterinary Hospital, 193 Clontarf Road, +353 1 833 3284',
+        '⚠️ Tapeworm treatment required 24-120h before entering Ireland — carried out by an accredited vet.',
+        'Recommended ferry: Irish Ferries Rosslare-Cherbourg or Brittany Ferries Cork-Roscoff — dogs admitted on board in cabins or kennels.',
+      ],
+      es: [
+        'Veterinario de urgencias 24h: UCD Veterinary Hospital, Belfield, Dublín 4, +353 1 716 6100',
+        'Clínica central: Clontarf Veterinary Hospital, 193 Clontarf Road, +353 1 833 3284',
+        '⚠️ Tratamiento contra tenias obligatorio 24-120h antes de entrar en Irlanda: debe realizarlo un veterinario acreditado.',
+        'Ferry recomendado: Irish Ferries Rosslare-Cherburgo o Brittany Ferries Cork-Roscoff — perros admitidos a bordo en cabinas o perreras.',
+      ],
+    },
+  },
+
+  florence: {
+    history: {
+      fr: `Florence est le berceau de la Renaissance. C'est ici, entre le XIVe et le XVIe siècle, que les Médicis ont financé Botticelli, Léonard de Vinci, Michel-Ange et Brunelleschi — transformant une cité marchande prospère en centre mondial de la culture et des arts. La Florence d'aujourd'hui est une ville à taille humaine (370 000 habitants) qui préserve avec soin ce patrimoine exceptionnel : 70% du patrimoine mondial de l'art selon une estimation célèbre est concentré en Italie, dont une part considérable à Florence. Mais Florence est aussi une ville vivante, avec ses marchés, ses cafés en terrasse le long de l'Arno et une culture canine très développée — les chiens accompagnent leurs maîtres dans les marchés couverts, les bars à vin et les jardins historiques.`,
+      en: `Florence is the cradle of the Renaissance. It was here, between the 14th and 16th centuries, that the Medicis funded Botticelli, Leonardo da Vinci, Michelangelo and Brunelleschi — transforming a prosperous merchant city into the world's cultural and artistic centre. Today's Florence is a human-scaled city (370,000 inhabitants) that carefully preserves this exceptional heritage: an estimated 70% of the world's art heritage is concentrated in Italy, a considerable share of it in Florence. But Florence is also a living city, with its markets, terrace cafés along the Arno and a very developed canine culture — dogs accompany their owners in covered markets, wine bars and historic gardens.`,
+      es: `Florencia es la cuna del Renacimiento. Fue aquí, entre los siglos XIV y XVI, donde los Médici financiaron a Botticelli, Leonardo da Vinci, Miguel Ángel y Brunelleschi, transformando una próspera ciudad mercantil en el centro mundial de la cultura y las artes. La Florencia de hoy es una ciudad a escala humana (370.000 habitantes) que cuida con esmero ese patrimonio excepcional: según una célebre estimación, el 70% del patrimonio artístico mundial está concentrado en Italia, y una parte considerable de él en Florencia. Pero Florencia también es una ciudad viva, con sus mercados, sus terrazas de café a orillas del Arno y una cultura canina muy desarrollada: los perros acompañan a sus dueños en los mercados cubiertos, los bares de vinos y los jardines históricos.`,
+    },
+    sights: [
+      {
+        name: 'Jardins de Boboli',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Le jardin à l\'italienne derrière le Palazzo Pitti (45 000 m²) est accessible aux chiens en laisse. Terrasses, grottes, statues et vue panoramique sur Florence depuis le belvédère. Les chiens sont admis moyennant droit d\'entrée.',
+          en: 'The Italian garden behind the Palazzo Pitti (45,000 m²) is accessible to dogs on leads. Terraces, grottos, statues and panoramic views over Florence from the belvedere. Dogs admitted with entry fee.',
+          es: 'El jardín italiano detrás del Palazzo Pitti (45.000 m²) es accesible para perros con correa. Terrazas, grutas, estatuas y vistas panorámicas sobre Florencia desde el mirador. Los perros están admitidos previo pago de entrada.',
+        },
+      },
+      {
+        name: 'Parco delle Cascine',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Le grand parc linéaire de Florence (160 ha) le long de l\'Arno est le terrain de jeu préféré des Florentins et de leurs chiens. Zones off-leash dans plusieurs sections, pistes cyclables et courts de tennis. Le marché du mardi y est animé.',
+          en: 'Florence\'s large linear park (160 ha) along the Arno is the favourite playground of Florentines and their dogs. Off-leash areas in several sections, cycle paths and tennis courts. The Tuesday market here is lively.',
+          es: 'El gran parque lineal de Florencia (160 ha) a lo largo del Arno es el terreno de juego favorito de los florentinos y sus perros. Zonas sin correa en varias secciones, carriles bici y pistas de tenis. El mercado del martes aquí es muy animado.',
+        },
+      },
+      {
+        name: 'Oltrarno & Santo Spirito',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier de l\'autre côté de l\'Arno (Oltrarno) est le plus authentique et dog-friendly de Florence. La Piazza Santo Spirito est une place vivante avec terrasses et bars à vin où les chiens sont bienvenus. San Frediano est le quartier préféré des artisans et des chiens.',
+          en: 'The neighbourhood on the other side of the Arno (Oltrarno) is Florence\'s most authentic and dog-friendly. Piazza Santo Spirito is a lively square with terraces and wine bars where dogs are welcome. San Frediano is the favourite neighbourhood of artisans and dogs alike.',
+          es: 'El barrio al otro lado del Arno (Oltrarno) es el más auténtico y amigable con los perros de Florencia. La Piazza Santo Spirito es una animada plaza con terrazas y bares de vinos donde los perros son bienvenidos. San Frediano es el barrio favorito de artesanos y perros.',
+        },
+      },
+      {
+        name: 'Lungarni (quais de l\'Arno)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Les quais de l\'Arno qui traversent Florence sont la promenade vespérale par excellence. Lumière dorée sur le Ponte Vecchio, terrasses animées et chiens en laisse partout. La passeggiata florentine se fait ici chaque soir.',
+          en: 'The Arno quaysides through Florence are the quintessential evening walk. Golden light on the Ponte Vecchio, lively terraces and dogs on leads everywhere. Florence\'s passeggiata happens here every evening.',
+          es: 'Los paseos junto al Arno a través de Florencia son el paseo vespertino por excelencia. Luz dorada sobre el Ponte Vecchio, terrazas animadas y perros con correa por todas partes. La passeggiata florentina tiene lugar aquí cada tarde.',
+        },
+      },
+      {
+        name: 'Offices & Académie',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: 'Les Offices et le musée de l\'Académie (David de Michel-Ange) n\'admettent pas les animaux. Profitez-en pour confier votre chien à l\'hôtel ou à un service de garde — les visites sont longues et les files d\'attente importantes.',
+          en: 'The Uffizi and Accademia (Michelangelo\'s David) do not admit animals. Use this time to leave your dog at the hotel or with a pet-sitting service — queues are long and visits are lengthy.',
+          es: 'Los Uffizi y la Accademia (el David de Miguel Ángel) no admiten animales. Aprovecha para dejar a tu perro en el hotel o con un servicio de cuidado: las colas son largas y las visitas extensas.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens sont admis dans les bus florentins avec un billet réduit et doivent être en sac ou muselés. Pour les courtes distances dans le centre, marchez — Florence est très compacte.',
+        'La plupart des marchés couverts (Mercato Centrale, Sant\'Ambrogio) acceptent les chiens en laisse — une véritable expérience locale.',
+        'En été, Florence est l\'une des villes les plus chaudes d\'Italie (jusqu\'à 38°C). Le Parco delle Cascine et les quais de l\'Arno offrent de l\'ombre — évitez les promenades entre 12h et 17h.',
+        'Le Mercato delle Pulci (marché aux puces) du Piazzale degli Uffizi est dog-friendly et fascinant pour une balade le dimanche matin.',
+        'De nombreux restaurants proposent de l\'eau pour les chiens à Florence — c\'est dans la tradition toscane d\'hospitalité.',
+      ],
+      en: [
+        'Dogs are admitted on Florence buses with a reduced ticket and must be in a carrier or muzzled. For short distances in the centre, walk — Florence is very compact.',
+        'Most covered markets (Mercato Centrale, Sant\'Ambrogio) welcome dogs on leads — a genuine local experience.',
+        'In summer, Florence is one of Italy\'s hottest cities (up to 38°C). The Parco delle Cascine and Arno quaysides offer shade — avoid walks between noon and 5pm.',
+        'The Mercato delle Pulci (flea market) at Piazzale degli Uffizi is dog-friendly and fascinating for a Sunday morning stroll.',
+        'Many Florence restaurants spontaneously bring water for dogs — it\'s part of the Tuscan tradition of hospitality.',
+      ],
+      es: [
+        'Los perros están admitidos en los autobuses de Florencia con billete reducido y deben ir en transportín o con bozal. Para distancias cortas en el centro, camina: Florencia es muy compacta.',
+        'La mayoría de los mercados cubiertos (Mercato Centrale, Sant\'Ambrogio) admiten perros con correa: una experiencia local genuina.',
+        'En verano, Florencia es una de las ciudades más calurosas de Italia (hasta 38°C). El Parco delle Cascine y los paseos junto al Arno ofrecen sombra: evita los paseos entre las 12 y las 17 h.',
+        'El Mercato delle Pulci (mercado de antigüedades) en Piazzale degli Uffizi es dog-friendly y fascinante para un paseo el domingo por la mañana.',
+        'Muchos restaurantes de Florencia traen agua espontáneamente para los perros: es parte de la tradición toscana de hospitalidad.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire d\'urgence 24h/24 : Clinica Veterinaria Firenze Sud, Via Senese 251, +39 055 204 9818',
+        'Clinique centrale : Clinica Veterinaria Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
+        'Trains depuis Paris (Trenitalia Frecciarossa) : les animaux en cage voyagent avec billet enfant. Les grands chiens nécessitent un billet demi-tarif.',
+        'Aéroport de Florence Peretola : animaux UE avec passeport valide admis sans quarantaine.',
+      ],
+      en: [
+        '24/7 emergency vet: Clinica Veterinaria Firenze Sud, Via Senese 251, +39 055 204 9818',
+        'Central clinic: Clinica Veterinaria Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
+        'Trains from Paris (Trenitalia Frecciarossa): animals in carriers travel with a child ticket. Large dogs need a half-price ticket.',
+        'Florence Peretola Airport: EU pets with valid passport admitted without quarantine.',
+      ],
+      es: [
+        'Veterinario de urgencias 24h: Clinica Veterinaria Firenze Sud, Via Senese 251, +39 055 204 9818',
+        'Clínica central: Clinica Veterinaria Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
+        'Trenes desde París (Trenitalia Frecciarossa): animales en transportín viajan con billete de niño. Los perros grandes necesitan billete a mitad de precio.',
+        'Aeropuerto de Florencia Peretola: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel — d'où son nom — Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture — et cela vaut aussi pour les chiens, bienvenus dans les cafés, les terrasses et même les transports en commun.`,

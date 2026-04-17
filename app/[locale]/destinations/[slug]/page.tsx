@@ -228,9 +228,91 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </div>
       </section>
 
+      {/* City Guides — prominent, right after hero */}
+      {hasGuide && (
+        <section className="py-16 bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            {/* Section header */}
+            <div className="mb-10">
+              <span className="inline-block bg-indigo-50 text-indigo-600 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-3">
+                🐾 {locale === 'fr' ? 'Guide voyage' : locale === 'es' ? 'Guía de viaje' : 'Travel guide'}
+              </span>
+              <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 leading-tight">
+                {locale === 'fr'
+                  ? `Guide complet de ${dest.name} avec votre animal`
+                  : locale === 'es'
+                  ? `Guía completa de ${dest.name} con tu mascota`
+                  : `Complete ${dest.name} pet travel guide`}
+              </h2>
+              <p className="text-gray-500 text-lg max-w-2xl">
+                {locale === 'fr'
+                  ? `Restaurants, parcs, transports, plages, vétérinaires — tout ce qu'il faut savoir pour ${dest.name} avec votre animal.`
+                  : locale === 'es'
+                  ? `Restaurantes, parques, transporte, playas, veterinarios — todo lo que necesitas saber para ${dest.name} con tu mascota.`
+                  : `Restaurants, parks, transport, beaches, vets — everything you need to know for ${dest.name} with your pet.`}
+              </p>
+            </div>
+
+            {/* Guide cards — premium 4-column grid */}
+            <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {GUIDES.map((g) => {
+                const guideDescriptions: Record<string, { en: string; fr: string; es: string }> = {
+                  restaurants: { en: 'Terrace cafés & dog-welcoming spots', fr: 'Terrasses & restos qui adorent les animaux', es: 'Terrazas y restaurantes pet-friendly' },
+                  parks: { en: 'Off-leash zones, trails & green spaces', fr: 'Zones sans laisse, balades & parcs', es: 'Zonas sin correa, rutas y parques' },
+                  transport: { en: 'Metros, trains & pet travel rules', fr: 'Métros, trains & règles pour animaux', es: 'Metros, trenes y normas para mascotas' },
+                  beaches: { en: 'Dog-friendly beaches & coastal walks', fr: 'Plages acceptant les chiens & côtes', es: 'Playas para perros y paseos costeros' },
+                  attractions: { en: 'Sights, museums & things to do', fr: 'Sites, musées & activités incontournables', es: 'Lugares, museos y qué hacer' },
+                  petsitting: { en: 'Trusted sitters & day care services', fr: 'Garderies et sitters de confiance', es: 'Cuidadores y guarderías de confianza' },
+                  vets: { en: 'Emergency vets & animal clinics', fr: 'Urgences vétérinaires & cliniques', es: 'Veterinarios de urgencia y clínicas' },
+                  tips: { en: 'Local rules, habits & insider tips', fr: 'Règles locales, habitudes & astuces', es: 'Normas locales, costumbres y consejos' },
+                }
+                const desc = guideDescriptions[g.slug]
+                const descText = locale === 'fr' ? desc?.fr : locale === 'es' ? desc?.es : desc?.en
+                const label = locale === 'fr' ? g.fr : locale === 'es' ? g.es : g.en
+
+                return (
+                  <Link
+                    key={g.slug}
+                    href={`/${locale}/destinations/${slug}/${g.slug}`}
+                    className="group relative overflow-hidden rounded-2xl bg-white border border-gray-100 hover:border-transparent shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 flex flex-col"
+                  >
+                    {/* Gradient top stripe */}
+                    <div className={`h-1.5 w-full bg-gradient-to-r ${g.gradient} flex-shrink-0`} />
+
+                    <div className="p-5 flex flex-col flex-1">
+                      {/* Emoji + arrow row */}
+                      <div className="flex items-start justify-between mb-3">
+                        <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${g.gradient} flex items-center justify-center text-2xl shadow-sm flex-shrink-0`}>
+                          {g.emoji}
+                        </div>
+                        <span className="text-gray-300 group-hover:text-gray-600 group-hover:translate-x-1 transition-all duration-200 text-lg font-light mt-1">
+                          →
+                        </span>
+                      </div>
+
+                      {/* Title */}
+                      <h3 className="font-bold text-gray-900 text-base leading-tight mb-1 group-hover:text-blue-700 transition-colors">
+                        {label}
+                      </h3>
+
+                      {/* Description */}
+                      {descText && (
+                        <p className="text-xs text-gray-400 leading-relaxed mt-auto pt-2">
+                          {descText}
+                        </p>
+                      )}
+                    </div>
+                  </Link>
+                )
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Categories */}
       {presentCategories.length > 0 && (
-        <section className="py-16 bg-white">
+        <section className="py-16 bg-gray-50 border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{p.categoriesTitle}</h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
@@ -340,34 +422,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 </div>
               )
             })()}
-          </div>
-        </section>
-      )}
-
-      {/* City Guides */}
-      {hasGuide && (
-        <section className="py-12 bg-gray-50 border-t border-gray-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
-              {locale === 'fr' ? `Guide complet de ${dest.name} avec votre animal` : locale === 'es' ? `Guía completa de ${dest.name} con tu mascota` : `Complete ${dest.name} Pet Travel Guide`}
-            </h2>
-            <p className="text-gray-500 text-sm mb-6">
-              {locale === 'fr' ? 'Restaurants, parcs, transports, plages, vétérinaires — tout ce qu\'il faut savoir.' : locale === 'es' ? 'Restaurantes, parques, transporte, playas, veterinarios — todo lo que necesitas saber.' : 'Restaurants, parks, transport, beaches, vets — everything you need to know.'}
-            </p>
-            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
-              {GUIDES.map(g => (
-                <Link
-                  key={g.slug}
-                  href={`/${locale}/destinations/${slug}/${g.slug}`}
-                  className={`bg-gradient-to-br ${g.gradient} text-white rounded-2xl p-4 hover:opacity-90 transition-opacity text-center`}
-                >
-                  <span className="text-3xl block mb-2">{g.emoji}</span>
-                  <span className="font-bold text-sm leading-tight block">
-                    {locale === 'fr' ? g.fr : locale === 'es' ? g.es : g.en}
-                  </span>
-                </Link>
-              ))}
-            </div>
           </div>
         </section>
       )}

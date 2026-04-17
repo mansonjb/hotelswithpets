@@ -70,12 +70,20 @@ export default function HotelCard({ hotel, dict }: HotelCardProps) {
             {hotel.rating}
           </span>
           <span className="text-sm font-semibold text-gray-700">{ratingLabel(hotel.rating)}</span>
-          <span className="text-xs text-gray-400">{hotel.reviewCount.toLocaleString()} {dict.reviews}</span>
+          <span className="text-xs text-gray-400">
+            {hotel.reviewCount >= 1000
+              ? `${(hotel.reviewCount / 1000).toFixed(hotel.reviewCount >= 10000 ? 0 : 1)}k`
+              : hotel.reviewCount
+            } {dict.reviews}
+          </span>
         </div>
 
         {/* Pet policy */}
         <div className="bg-blue-50 rounded-xl p-3 mb-4">
-          <p className="text-xs font-semibold text-blue-700 uppercase tracking-wide mb-1">{dict.petPolicy}</p>
+          <div className="flex items-center justify-between mb-1">
+            <p className="text-xs font-semibold text-blue-700 uppercase tracking-wide">{dict.petPolicy}</p>
+            <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
+          </div>
           <p className="text-sm text-gray-700 leading-relaxed">{sanitizePetPolicy(hotel.petPolicy)}</p>
         </div>
 

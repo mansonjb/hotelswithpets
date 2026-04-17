@@ -20,15 +20,19 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const dest = destinations.find((d) => d.slug === slug)
   if (!dest) return {}
 
+  const destHotels = hotels.filter((h) => h.destinationSlug === slug)
+  const minPrice = destHotels.length > 0 ? Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean)) : null
+  const hotelCount = destHotels.length
+
   const titleTemplates: Record<string, string> = {
     en: `Pet-friendly hotels in ${dest.name}, ${dest.country} | HotelsWithPets.com`,
     fr: `Hôtels acceptant animaux à ${dest.name}, ${dest.country} | HotelsWithPets.com`,
     es: `Hoteles con mascotas en ${dest.name}, ${dest.country} | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
-    en: `Find the best pet-friendly hotels in ${dest.name}. Browse by category, compare pet policies, and book on Booking.com.`,
-    fr: `Trouvez les meilleurs hôtels acceptant les animaux à ${dest.name}. Comparez les politiques et réservez sur Booking.com.`,
-    es: `Encuentra los mejores hoteles con mascotas en ${dest.name}. Compara políticas y reserva en Booking.com.`,
+    en: `Find ${hotelCount} pet-friendly hotels in ${dest.name}, ${dest.country}. Verified policies, from €${minPrice}/night. Compare and book on Booking.com.`,
+    fr: `Trouvez ${hotelCount} hôtels acceptant les animaux à ${dest.name}. Politiques vérifiées, dès €${minPrice}/nuit. Réservez sur Booking.com.`,
+    es: `Encuentra ${hotelCount} hoteles con mascotas en ${dest.name}. Políticas verificadas, desde €${minPrice}/noche. Reserva en Booking.com.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en

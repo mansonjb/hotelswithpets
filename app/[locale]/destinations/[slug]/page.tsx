@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
+import { existsSync } from 'fs'
+import { join } from 'path'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import HotelCard from '@/components/HotelCard'
@@ -90,6 +92,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const relatedDests = destinations
     .filter((d) => d.country === dest.country && d.slug !== slug)
     .slice(0, 4)
+
+  const hasGuide = existsSync(join(process.cwd(), `data/city-guides/${slug}.json`))
+
+  const GUIDES = [
+    { slug: 'restaurants', emoji: '🍽️', en: 'Restaurants', fr: 'Restaurants', es: 'Restaurantes', gradient: 'from-orange-500 to-amber-500' },
+    { slug: 'parks',       emoji: '🌳', en: 'Parks & Walks', fr: 'Parcs & Balades', es: 'Parques y Paseos', gradient: 'from-emerald-500 to-teal-500' },
+    { slug: 'transport',   emoji: '🚇', en: 'Transport', fr: 'Transport', es: 'Transporte', gradient: 'from-blue-500 to-cyan-500' },
+    { slug: 'beaches',     emoji: '🏖️', en: 'Beaches', fr: 'Plages', es: 'Playas', gradient: 'from-cyan-500 to-blue-400' },
+    { slug: 'vets',        emoji: '🏥', en: 'Vets', fr: 'Vétérinaires', es: 'Veterinarios', gradient: 'from-red-500 to-rose-500' },
+    { slug: 'tips',        emoji: '💡', en: 'Local Tips', fr: 'Conseils locaux', es: 'Consejos locales', gradient: 'from-violet-500 to-purple-600' },
+  ]
 
   const base = 'https://hotelswithpets.com'
   const breadcrumbSchema = {
@@ -325,6 +338,34 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 </div>
               )
             })()}
+          </div>
+        </section>
+      )}
+
+      {/* City Guides */}
+      {hasGuide && (
+        <section className="py-12 bg-gray-50 border-t border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
+              {locale === 'fr' ? `Guide complet de ${dest.name} avec votre animal` : locale === 'es' ? `Guía completa de ${dest.name} con tu mascota` : `Complete ${dest.name} Pet Travel Guide`}
+            </h2>
+            <p className="text-gray-500 text-sm mb-6">
+              {locale === 'fr' ? 'Restaurants, parcs, transports, plages, vétérinaires — tout ce qu\'il faut savoir.' : locale === 'es' ? 'Restaurantes, parques, transporte, playas, veterinarios — todo lo que necesitas saber.' : 'Restaurants, parks, transport, beaches, vets — everything you need to know.'}
+            </p>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+              {GUIDES.map(g => (
+                <Link
+                  key={g.slug}
+                  href={`/${locale}/destinations/${slug}/${g.slug}`}
+                  className={`bg-gradient-to-br ${g.gradient} text-white rounded-2xl p-4 hover:opacity-90 transition-opacity text-center`}
+                >
+                  <span className="text-3xl block mb-2">{g.emoji}</span>
+                  <span className="font-bold text-sm leading-tight block">
+                    {locale === 'fr' ? g.fr : locale === 'es' ? g.es : g.en}
+                  </span>
+                </Link>
+              ))}
+            </div>
           </div>
         </section>
       )}

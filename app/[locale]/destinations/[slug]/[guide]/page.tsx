@@ -64,6 +64,8 @@ interface GuideData {
   tipsFr?: string[]
   tipsEs?: string[]
   faqsEn?: GuideFaq[]
+  faqsFr?: GuideFaq[]
+  faqsEs?: GuideFaq[]
   entryRequirements?: {
     euPets: string
     nonEuPets: string
@@ -194,7 +196,7 @@ export default async function GuideDetailPage({
   const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : null) ?? guideData.titleEn
   const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : null) ?? guideData.introEn
   const tips = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : null) ?? guideData.tipsEn ?? []
-  const faqs = guideData.faqsEn ?? []
+  const faqs = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : null) ?? guideData.faqsEn ?? []
 
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])

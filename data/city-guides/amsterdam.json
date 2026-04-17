@@ -100,6 +100,34 @@
           "q": "Which neighborhoods in Amsterdam have the most dog-friendly restaurants?",
           "a": "Jordaan and De Pijp are the most dog-friendly neighborhoods for eating out. Amsterdam Noord (around NDSM Wharf) is also excellent for large, open-air venues."
         }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants d'Amsterdam ?",
+          "a": "Oui — Amsterdam est l'une des villes les plus dog-friendly d'Europe. La grande majorité des cafés bruns et des terrasses au bord des canaux accueillent les chiens en laisse sans problème. Guettez le panneau 'Honden welkom' ou demandez simplement à l'entrée. Seuls les grands restaurants gastronomiques peuvent être plus restrictifs en salle."
+        },
+        {
+          "q": "Les restaurants d'Amsterdam proposent-ils des gamelles d'eau pour les chiens ?",
+          "a": "Souvent, surtout dans les quartiers du Jordaan et de De Pijp. N'hésitez pas à demander — le personnel le fait volontiers et sans que vous ayez à insister."
+        },
+        {
+          "q": "Quels quartiers d'Amsterdam sont les plus accueillants pour sortir manger avec son chien ?",
+          "a": "Le Jordaan et De Pijp sont clairement les meilleurs quartiers pour dîner en terrasse avec votre chien. Amsterdam Noord, notamment autour du chantier naval NDSM, est aussi une excellente option pour ses grands espaces en plein air."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Ámsterdam ?",
+          "a": "Sí — Ámsterdam es una de las ciudades más amigables con los perros de Europa. La gran mayoría de los cafés marrones y las terrazas junto a los canales reciben perros con correa sin problema. Busca el cartel 'Honden welkom' o pregunta directamente al entrar. Los restaurantes de alta cocina pueden tener restricciones en el interior."
+        },
+        {
+          "q": "¿Los restaurantes de Ámsterdam ofrecen cuencos de agua para perros ?",
+          "a": "Muchos sí, especialmente en los barrios de Jordaan y De Pijp. No dudes en pedirlo — el personal lo trae encantado y sin que tengas que insistir."
+        },
+        {
+          "q": "¿Qué barrios de Ámsterdam tienen más restaurantes donde se admiten perros ?",
+          "a": "Jordaan y De Pijp son los barrios más acogedores para salir a comer con tu perro. Amsterdam Noord, especialmente la zona del astillero NDSM, también es excelente por sus grandes espacios al aire libre."
+        }
       ]
     },
     "parks": {
@@ -197,6 +225,34 @@
           "q": "Where can dogs swim in Amsterdam?",
           "a": "Dogs can swim in designated areas of Amsterdamse Bos (several lakes) and Flevopark (river access). Swimming is not permitted in the main canals in the city centre."
         }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse dans les parcs d'Amsterdam ?",
+          "a": "Oui, dans les zones de liberté officielles appelées 'uitlaatplaatsen'. Elles sont clairement signalées dans le Vondelpark, l'Oosterpark et le Westerpark. À l'Amsterdamse Bos, les chiens peuvent circuler librement dans la quasi-totalité de la forêt."
+        },
+        {
+          "q": "Amsterdam est-elle une bonne ville pour se balader avec son chien ?",
+          "a": "Tout à fait. Amsterdam compte plus de 35 zones de liberté officielles, auxquelles s'ajoutent de longs corridors verts le long des grands canaux. Elle figure régulièrement parmi les capitales européennes les plus accueillantes pour les chiens."
+        },
+        {
+          "q": "Où les chiens peuvent-ils se baigner à Amsterdam ?",
+          "a": "Les chiens peuvent nager dans les zones aménagées de l'Amsterdamse Bos (plusieurs étangs) et du Flevopark (accès à la rivière). La baignade dans les canaux du centre-ville est déconseillée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en los parques de Ámsterdam ?",
+          "a": "Sí, en las zonas habilitadas para ello llamadas 'uitlaatplaatsen'. Están claramente señalizadas en el Vondelpark, el Oosterpark y el Westerpark. En el Amsterdamse Bos, los perros pueden ir sueltos por prácticamente todo el bosque."
+        },
+        {
+          "q": "¿Es Ámsterdam una buena ciudad para pasear con perros ?",
+          "a": "Muchísimo. Ámsterdam cuenta con más de 35 zonas libres oficiales, además de largos corredores verdes junto a los principales canales. La ciudad figura de forma constante entre las capitales europeas más amigables con los perros."
+        },
+        {
+          "q": "¿Dónde pueden bañarse los perros en Ámsterdam ?",
+          "a": "Los perros pueden nadar en las zonas habilitadas del Amsterdamse Bos (varios lagos) y del Flevopark (acceso al río). No está permitido bañarse en los canales del centro de la ciudad."
+        }
       ]
     },
     "transport": {
@@ -251,6 +307,34 @@
           "q": "Is cycling with a dog in Amsterdam safe?",
           "a": "Many locals do it — either with small dogs in a front basket or large dogs running alongside. Use quieter canal-side routes rather than busy bike lanes. Amsterdamse Bos has excellent cycling paths suitable for running dogs."
         }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le métro d'Amsterdam avec mon chien ?",
+          "a": "Oui. Les petits chiens transportés dans un sac de transport voyagent gratuitement. Pour les chiens plus grands, un billet journalier GVB (8 €) est obligatoire. Un seul chien par passager, et les animaux ne peuvent pas s'asseoir sur les sièges."
+        },
+        {
+          "q": "Puis-je prendre le train avec mon chien depuis Amsterdam ?",
+          "a": "Oui. Les trains NS acceptent les chiens munis d'un billet journalier pour chien (3,50 € pour les chiens de plus de 45 cm). Les petits chiens dans un sac homologué voyagent gratuitement. Le billet s'achète à n'importe quel automate NS."
+        },
+        {
+          "q": "Est-il raisonnable de faire du vélo avec son chien à Amsterdam ?",
+          "a": "Les Amstellodamois le font couramment — soit avec un petit chien dans le panier avant, soit avec un grand chien qui trotte à côté. Privilégiez les itinéraires longeant les canaux plutôt que les pistes cyclables très fréquentées. L'Amsterdamse Bos offre d'excellentes pistes adaptées aux chiens qui courent."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el metro de Ámsterdam ?",
+          "a": "Sí. Los perros pequeños en bolsa de transporte viajan gratis. Los perros más grandes requieren un billete diario GVB (8 €). Solo se permite un perro por pasajero y los animales no pueden ocupar asientos."
+        },
+        {
+          "q": "¿Puedo viajar en tren con mi perro desde Ámsterdam ?",
+          "a": "Sí. Los trenes de NS admiten perros con un billete diario para perros (3,50 € para perros de más de 45 cm). Los perros pequeños en transportín homologado viajan gratis. El billete se compra en cualquier máquina expendedora de NS."
+        },
+        {
+          "q": "¿Es seguro ir en bicicleta con un perro en Ámsterdam ?",
+          "a": "Los locales lo hacen habitualmente — ya sea con perros pequeños en la cesta delantera o con perros grandes trotando al lado. Opta por las rutas tranquilas junto a los canales en lugar de los carriles bici más transitados. El Amsterdamse Bos tiene senderos ciclistas ideales para perros que van corriendo."
+        }
       ]
     },
     "beaches": {
@@ -297,6 +381,26 @@
         {
           "q": "Can dogs swim in Amsterdam's canals?",
           "a": "Technically not prohibited, but canal water can be unsafe (bacteria, algae, boat traffic). Use the designated swimming areas in Amsterdamse Bos or go to Zandvoort instead."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il une plage pour chiens près d'Amsterdam ?",
+          "a": "Oui — Zandvoort aan Zee, à 30 minutes en train, dispose d'une plage réservée aux chiens (Hondenstrand) à l'extrémité nord, ouverte toute l'année. C'est l'une des meilleures plages pour chiens des Pays-Bas."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans les canaux d'Amsterdam ?",
+          "a": "Ce n'est pas formellement interdit, mais l'eau des canaux peut être risquée (bactéries, algues, trafic de bateaux). Mieux vaut privilégier les zones de baignade aménagées de l'Amsterdamse Bos ou faire un saut à Zandvoort."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay alguna playa para perros cerca de Ámsterdam ?",
+          "a": "Sí — Zandvoort aan Zee, a 30 minutos en tren, tiene una playa exclusiva para perros (Hondenstrand) en el extremo norte, abierta todo el año. Es una de las mejores playas para perros de los Países Bajos."
+        },
+        {
+          "q": "¿Pueden los perros nadar en los canales de Ámsterdam ?",
+          "a": "No está expresamente prohibido, pero el agua de los canales puede ser poco segura (bacterias, algas, tráfico de embarcaciones). Es preferible usar las zonas de baño habilitadas en el Amsterdamse Bos o acercarse a Zandvoort."
         }
       ]
     },
@@ -353,6 +457,26 @@
           "q": "Is there a 24-hour vet in Amsterdam?",
           "a": "Yes — Dierenkliniek Rivierenbuurt offers 24/7 emergency service. For specialist care, Utrecht University's veterinary hospital (30 min away) is available around the clock."
         }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un passeport pour animal de compagnie pour amener son chien à Amsterdam ?",
+          "a": "Les animaux enregistrés dans l'UE doivent être munis d'un passeport européen valide, d'une puce électronique et d'une vaccination antirabique à jour. Pour les animaux hors UE (Royaume-Uni, États-Unis, etc.), un certificat sanitaire pour pays tiers est requis. Consultez le site de l'NVWA (autorité néerlandaise de sécurité alimentaire) pour les exigences en vigueur."
+        },
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Amsterdam ?",
+          "a": "Oui — la Dierenkliniek Rivierenbuurt assure un service d'urgences 24h/24 et 7j/7. Pour des soins spécialisés, l'hôpital vétérinaire universitaire d'Utrecht (à 30 minutes en voiture) est également disponible à toute heure."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito un pasaporte para mascotas para llevar a mi perro a Ámsterdam ?",
+          "a": "Las mascotas registradas en la UE necesitan un pasaporte europeo válido, microchip y vacunación antirrábica al día. Para animales de fuera de la UE (Reino Unido, EE.UU., etc.) se requiere un certificado sanitario de terceros países. Consulta la web de la NVWA (autoridad neerlandesa de seguridad alimentaria) para los requisitos actualizados."
+        },
+        {
+          "q": "¿Hay algún veterinario de guardia 24 horas en Ámsterdam ?",
+          "a": "Sí — la Dierenkliniek Rivierenbuurt ofrece servicio de urgencias las 24 horas, los 7 días de la semana. Para atención especializada, el hospital veterinario universitario de Utrecht (a 30 minutos en coche) también está disponible a cualquier hora."
+        }
       ]
     },
     "tips": {
@@ -408,6 +532,34 @@
         {
           "q": "Are dogs allowed in Amsterdam museums?",
           "a": "Generally no — most museums don't allow dogs. Exceptions include some outdoor museum gardens. Guide dogs are always permitted. Plan your indoor activities when your dog can be left safely at the hotel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Amsterdam est-elle vraiment une bonne destination pour un voyage avec son chien ?",
+          "a": "Excellente, sans hésitation. Amsterdam figure régulièrement dans le top 3 des villes européennes les plus accueillantes pour les chiens. Les animaux sont bienvenus dans la plupart des cafés et des boutiques, les parcs disposent de zones de liberté, et les habitants adorent les chiens. Le seul vrai point de vigilance, ce sont les canaux : gardez votre chien en laisse près de l'eau."
+        },
+        {
+          "q": "Qu'est-ce qu'il faut emporter pour partir à Amsterdam avec son chien ?",
+          "a": "L'essentiel : passeport européen pour animal (ou équivalent), sacs à déjections (disponibles gratuitement sur place), laisse de 2 m maximum, gourde pour les balades, et un sac de transport si vous prenez le tram. Un imperméable pour chien est aussi un bon réflexe — il peut pleuvoir à n'importe quel moment !"
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les musées d'Amsterdam ?",
+          "a": "En règle générale non — la plupart des musées n'acceptent pas les animaux. Quelques jardins de musées en plein air font exception. Les chiens guides sont toujours autorisés. Prévoyez vos visites en intérieur aux moments où votre chien peut rester tranquillement à l'hôtel."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Merece la pena visitar Ámsterdam con un perro ?",
+          "a": "Es una de las mejores ciudades de Europa para hacerlo. Ámsterdam aparece de forma constante en el top 3 de ciudades europeas más amigables con los perros. Los animales son bienvenidos en la mayoría de cafés y tiendas, los parques tienen zonas sin correa y los locales adoran a los perros. El único punto a tener en cuenta es la seguridad cerca de los canales: lleva siempre a tu perro con correa junto al agua."
+        },
+        {
+          "q": "¿Qué hay que llevar para viajar a Ámsterdam con el perro ?",
+          "a": "Lo imprescindible: pasaporte europeo para mascotas (o equivalente), bolsas para excrementos (disponibles gratis in situ), correa de máximo 2 m, botella de agua para los paseos y un transportín si vas a usar el tranvía. Un chubasquero para perros también viene bien — ¡llueve con frecuencia!"
+        },
+        {
+          "q": "¿Se admiten perros en los museos de Ámsterdam ?",
+          "a": "Por lo general no — la mayoría de los museos no permiten la entrada de animales. Algunos jardines exteriores de museos son una excepción. Los perros guía siempre están admitidos. Organiza tus visitas en interiores para los momentos en que tu perro pueda quedarse cómodamente en el hotel."
         }
       ]
     }

@@ -42,12 +42,18 @@ interface HotelRankedCardProps {
   destCountry?: string
 }
 
-const ratingLabel = (r: number) => {
-  if (r >= 9.5) return 'Outstanding'
-  if (r >= 9) return 'Exceptional'
-  if (r >= 8.5) return 'Excellent'
-  if (r >= 8) return 'Very Good'
-  return 'Good'
+const ratingLabel = (r: number, locale: string): string => {
+  const labels: Record<string, [string, string, string, string, string]> = {
+    en: ['Outstanding', 'Exceptional', 'Excellent', 'Very Good', 'Good'],
+    fr: ['Remarquable', 'Exceptionnel', 'Excellent', 'Très bien', 'Bien'],
+    es: ['Sobresaliente', 'Excepcional', 'Excelente', 'Muy bueno', 'Bueno'],
+  }
+  const [outstanding, exceptional, excellent, veryGood, good] = labels[locale] ?? labels.en
+  if (r >= 9.5) return outstanding
+  if (r >= 9) return exceptional
+  if (r >= 8.5) return excellent
+  if (r >= 8) return veryGood
+  return good
 }
 
 const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
@@ -56,8 +62,19 @@ const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
  * Scraper sometimes returns garbage policy text (addresses, UI labels, review snippets).
  * Requires pet-related keywords; falls back to a smart default based on petFee.
  */
-function sanitizePetPolicy(raw: string, petFee?: number): string {
+function sanitizePetPolicy(raw: string, petFee?: number, locale = 'en'): string {
   const fallback = (): string => {
+    if (locale === 'fr') {
+      if (petFee === 0) return 'Les animaux séjournent gratuitement. Chiens et chats bienvenus dans tout l\'établissement.'
+      if (petFee !== undefined && petFee > 0) return `Animaux acceptés. Un supplément de ${petFee}€ par nuit s'applique. À confirmer lors de la réservation.`
+      return 'Les animaux sont les bienvenus. Veuillez confirmer les conditions lors de la réservation.'
+    }
+    if (locale === 'es') {
+      if (petFee === 0) return 'Las mascotas se alojan gratis. Perros y gatos son bienvenidos en todo el establecimiento.'
+      if (petFee !== undefined && petFee > 0) return `Se admiten mascotas. Se aplica un cargo de ${petFee}€ por noche. Confirmar al reservar.`
+      return 'Las mascotas son bienvenidas. Confirme las condiciones específicas al reservar.'
+    }
+    // English (default)
     if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
     if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
     return 'Pets are welcome. Please confirm specific pet policy when booking.'
@@ -136,7 +153,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
             <span className="bg-blue-600 text-white font-black text-sm px-2.5 py-1 rounded-lg leading-none">
               {hotel.rating}
             </span>
-            <span className="font-semibold text-gray-800 text-sm">{ratingLabel(hotel.rating)}</span>
+            <span className="font-semibold text-gray-800 text-sm">{ratingLabel(hotel.rating, locale)}</span>
             <span className="text-gray-400 text-xs">· {
               hotel.reviewCount >= 1000
                 ? `${(hotel.reviewCount / 1000).toFixed(hotel.reviewCount >= 10000 ? 0 : 1)}k`
@@ -150,7 +167,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
               <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">{dict.petPolicy}</p>
               <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
             </div>
-            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee)}</p>
+            <p className="text-sm text-gray-700 leading-snug">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale)}</p>
           </div>
 
           {/* Highlights */}

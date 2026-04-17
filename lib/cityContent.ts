@@ -1183,6 +1183,521 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  venice: {
+    history: {
+      en: 'Built on 118 islands connected by 400 bridges, Venice has been home to dogs for as long as it has to people. The city\'s narrow calli and open campi create a surprisingly walkable — if car-free — environment for pets. Vaporetto rules are strict (pets in carriers only on most lines), but the islands of the Giudecca and Sant\'Erasmo offer space away from the tourist rush. Venice sees around 30 million visitors a year, making timing and neighbourhood choice critical for a stress-free dog trip.',
+      fr: 'Construite sur 118 îles reliées par 400 ponts, Venise accueille des chiens depuis aussi longtemps qu\'elle accueille des habitants. Les calli étroites et les campi ouverts forment un environnement étonnamment praticable — sans voitures — pour les animaux. Les règles du vaporetto sont strictes (animaux en transport uniquement sur la plupart des lignes), mais les îles de la Giudecca et de Sant\'Erasmo offrent de l\'espace loin de l\'agitation touristique. Venise reçoit environ 30 millions de visiteurs par an : le choix du quartier et du moment est essentiel.',
+      es: 'Construida sobre 118 islas unidas por 400 puentes, Venecia ha acogido perros desde siempre. Las estrechas calli y las campi abiertas crean un entorno sorprendentemente transitable — sin coches — para las mascotas. Las normas del vaporetto son estrictas (animales en transportín en la mayoría de líneas), pero las islas de la Giudecca y Sant\'Erasmo ofrecen espacio lejos del turismo masivo. Con unos 30 millones de visitantes al año, elegir bien el barrio y el momento es fundamental.',
+    },
+    sights: [
+      {
+        name: 'Giardini della Biennale',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          en: 'The gardens of the Venice Biennale are among the few real green spaces on the main island. Outside exhibition season they\'re quiet, leafy and perfectly suited for an off-the-beaten-track walk with your dog.',
+          fr: 'Les jardins de la Biennale font partie des rares espaces verts véritables de l\'île principale. Hors saison d\'exposition, ils sont calmes, ombragés et parfaits pour une promenade tranquille avec votre chien.',
+          es: 'Los jardines de la Bienal son de los pocos espacios verdes reales de la isla principal. Fuera de temporada de exposición, son tranquilos, arbolados y perfectos para un paseo apartado del turismo.',
+        },
+      },
+      {
+        name: 'Isola di Sant\'Erasmo',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          en: 'The "garden of Venice" — a lagoon island of market gardens, quiet lanes and open fields. Take the vaporetto with your dog in a carrier and enjoy a near-deserted half-day of countryside wandering.',
+          fr: 'Le "jardin de Venise" — une île de la lagune avec des maraîchers, des ruelles tranquilles et des champs ouverts. Prenez le vaporetto avec votre chien en transport et profitez d\'une demi-journée de campagne presque déserte.',
+          es: 'El "jardín de Venecia" — una isla de la laguna con huertos, callejuelas tranquilas y campos abiertos. Tome el vaporetto con su perro en transportín y disfrute de medio día de campo casi desierto.',
+        },
+      },
+      {
+        name: 'Fondamenta delle Zattere',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: 'The long sun-drenched promenade facing the Giudecca canal is one of Venice\'s most dog-friendly stretches. Wide, relatively uncrowded in the morning, and lined with cafés that welcome dogs on their terraces.',
+          fr: 'La longue promenade ensoleillée face au canal de la Giudecca est l\'un des parcours les plus accueillants pour les chiens à Venise. Large, relativement peu fréquentée le matin, bordée de cafés qui accueillent les chiens en terrasse.',
+          es: 'El largo paseo soleado frente al canal de la Giudecca es uno de los tramos más amigables para perros en Venecia. Amplio, relativamente tranquilo por la mañana y bordeado de cafés que admiten perros en terraza.',
+        },
+      },
+      {
+        name: 'Campo Santa Margherita',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          en: 'The liveliest square in Dorsoduro, beloved by students and locals alike. Dogs are a fixture here — you\'ll find water bowls outside several bars and a relaxed atmosphere far from the cruise-ship crowds.',
+          fr: 'La place la plus animée du Dorsoduro, adorée des étudiants et des habitants. Les chiens y sont chez eux — vous trouverez des gamelles d\'eau devant plusieurs bars et une atmosphère décontractée, loin des groupes de touristes.',
+          es: 'La plaza más animada de Dorsoduro, querida por estudiantes y locales. Los perros son habituales aquí — encontrará cuencos de agua frente a varios bares y un ambiente relajado, lejos de las multitudes.',
+        },
+      },
+      {
+        name: 'Basilica di San Marco',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: 'Pets are not allowed inside St Mark\'s Basilica or the Doge\'s Palace. The square itself is accessible but extremely crowded — avoid bringing a nervous dog during high season.',
+          fr: 'Les animaux ne sont pas admis dans la Basilique Saint-Marc ni dans le Palais des Doges. La place est accessible mais extrêmement fréquentée — évitez d\'y amener un chien anxieux en haute saison.',
+          es: 'No se admiten mascotas en la Basílica de San Marcos ni en el Palacio Ducal. La plaza es accesible pero extremadamente concurrida — evite llevar un perro nervioso en temporada alta.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Vaporetto rules: dogs must be in a carrier on most ACTV lines. Line 1 (Grand Canal) is often crowded — go early or take line 2 for shorter crossings.',
+        'The streets of Venice are entirely car-free, but they are also narrow and cobbled. Small dogs can be carried; larger breeds may struggle with heavy tourist foot traffic at peak hours.',
+        'Always carry a portable water bowl. Fountains (fontanelle) are common but some are at awkward heights for dogs.',
+        'Book hotels in Dorsoduro or Cannaregio for quieter neighbourhoods. San Marco hotels are central but the constant foot traffic stresses most dogs.',
+        'Summer heat is severe on the lagoon. Schedule walks before 9am and after 7pm in July and August — stone and brick surfaces retain heat long after sunset.',
+      ],
+      fr: [
+        'Règles du vaporetto : les chiens doivent être en transport sur la plupart des lignes ACTV. La ligne 1 (Grand Canal) est souvent bondée — partez tôt ou prenez la ligne 2 pour les traversées courtes.',
+        'Les rues de Venise sont entièrement sans voitures, mais aussi étroites et pavées. Les petits chiens peuvent être portés ; les grandes races peinent avec le flux touristique aux heures de pointe.',
+        'Emportez toujours une gamelle portable. Les fontaines sont nombreuses, mais parfois à une hauteur difficile pour les chiens.',
+        'Réservez dans le Dorsoduro ou le Cannaregio pour des quartiers plus calmes. Les hôtels près de San Marco sont centraux, mais le flux piétonnier continu stresse la plupart des chiens.',
+        'La chaleur estivale est sévère sur la lagune. Planifiez vos promenades avant 9h et après 19h en juillet-août — les surfaces en pierre restent chaudes longtemps après le coucher du soleil.',
+      ],
+      es: [
+        'Normas del vaporetto: los perros deben ir en transportín en la mayoría de líneas ACTV. La línea 1 (Gran Canal) suele estar abarrotada — salga temprano o tome la línea 2 para trayectos cortos.',
+        'Las calles de Venecia son completamente sin coches, pero también estrechas y adoquinadas. Los perros pequeños pueden llevarse en brazos; las razas grandes pueden tener dificultades en horas punta.',
+        'Lleve siempre un cuenco de agua portátil. Las fuentes son frecuentes, pero a veces están a una altura difícil para los perros.',
+        'Reserve en Dorsoduro o Cannaregio para barrios más tranquilos. Los hoteles cerca de San Marcos son céntricos, pero el flujo peatonal constante estresa a la mayoría de perros.',
+        'El calor estival es severo en la laguna. Planifique los paseos antes de las 9h y después de las 19h en julio y agosto — las superficies de piedra retienen el calor mucho después del atardecer.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606) — the nearest 24h facility to central Venice.',
+        'Getting there: Venice Santa Lucia station is on the mainland connection. Dogs in carriers travel free on Trenitalia; larger dogs pay a reduced fare.',
+        'ACTV vaporetto: dogs in carriers accepted on all lines. Unleashed dogs require a muzzle and a valid ticket as for a child.',
+        'Nearest dog-friendly beach: Cavallino-Treporti and Jesolo (on the mainland side of the lagoon) have designated dog beach areas in summer.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606) — l\'établissement 24h le plus proche du centre de Venise.',
+        'Accès : la gare de Venise Santa Lucia est en connexion continentale. Les chiens en transport voyagent gratuitement sur Trenitalia ; les grands chiens paient un tarif réduit.',
+        'ACTV vaporetto : les chiens en transport sont acceptés sur toutes les lignes. Les chiens en laisse sans transport doivent porter une muselière et un billet plein tarif enfant.',
+        'Plage canine la plus proche : Cavallino-Treporti et Jesolo (côté continental de la lagune) disposent de zones de plage réservées aux chiens en été.',
+      ],
+      es: [
+        'Veterinario de urgencias: Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606) — el centro 24h más cercano al centro de Venecia.',
+        'Cómo llegar: la estación de Venecia Santa Lucía conecta con tierra firme. Los perros en transportín viajan gratis en Trenitalia; los perros grandes pagan tarifa reducida.',
+        'Vaporetto ACTV: perros en transportín admitidos en todas las líneas. Los perros con correa sin transportín necesitan bozal y billete equivalente al infantil.',
+        'Playa canina más cercana: Cavallino-Treporti y Jesolo (lado continental de la laguna) tienen zonas de playa para perros en verano.',
+      ],
+    },
+  },
+
+  bruges: {
+    history: {
+      en: 'Medieval Bruges — the "Venice of the North" — is one of Europe\'s best-preserved historic city centres, and one of its most dog-friendly. Belgians take dogs everywhere: into shops, cafés, restaurants and even some museums. The city\'s compact size (easily walkable in a day), its canal-side paths and its relaxed attitude to dogs in public spaces make it an ideal short-break destination for pet owners.',
+      fr: 'Bruges médiévale — la "Venise du Nord" — est l\'un des centres historiques les mieux préservés d\'Europe, et l\'un des plus accueillants pour les chiens. Les Belges emmènent leurs chiens partout : dans les magasins, les cafés, les restaurants et même certains musées. La taille compacte de la ville (facilement explorable en une journée), ses promenades le long des canaux et son attitude détendue envers les chiens en font une destination idéale pour les propriétaires d\'animaux.',
+      es: 'Brujas medieval — la "Venecia del Norte" — es uno de los centros históricos mejor conservados de Europa y uno de los más amigables para perros. Los belgas llevan a sus perros a todas partes: tiendas, cafés, restaurantes e incluso algunos museos. Su tamaño compacto (explorable fácilmente en un día), los senderos junto a los canales y su actitud relajada hacia los perros lo convierten en un destino ideal para escapadas cortas.',
+    },
+    sights: [
+      {
+        name: 'Minnewaterpark',
+        emoji: '🦢',
+        petFriendly: true,
+        desc: {
+          en: 'The "Lake of Love" and its surrounding park are a favourite with local dog walkers. The wide gravel paths circle the romantic lake and connect to the Begijnhof — a peaceful off-leash walk in the early morning.',
+          fr: 'Le "Lac d\'amour" et son parc sont un lieu de prédilection pour les promeneurs avec chiens. Les larges allées de gravier encerclent le lac romantique et rejoignent le Béguinage — une promenade paisible en laisse longue le matin tôt.',
+          es: 'El "Lago del Amor" y su parque son un lugar favorito de los paseantes con perros. Los amplios caminos de grava rodean el lago romántico y conectan con el Begijnhof — un paseo tranquilo a primera hora de la mañana.',
+        },
+      },
+      {
+        name: 'Canal-side walks (Groenerei & Dijver)',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          en: 'The canal towpaths running along the Groenerei and Dijver are perfect for a slow, scenic dog walk. Wide enough to avoid crowds before 10am, lined with weeping willows and medieval façades.',
+          fr: 'Les chemins de halage le long du Groenerei et du Dijver sont parfaits pour une promenade lente et pittoresque avec votre chien. Assez larges pour éviter la foule avant 10h, bordés de saules pleureurs et de façades médiévales.',
+          es: 'Los caminos junto a los canales Groenerei y Dijver son perfectos para un paseo tranquilo y pintoresco. Suficientemente amplios para evitar la multitud antes de las 10h, bordeados de sauces llorones y fachadas medievales.',
+        },
+      },
+      {
+        name: 'Koningin Astridpark',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: 'Bruges\'s main city park, with a bandstand, large pond and open lawns. Dogs on lead are welcome throughout; an enclosed dog run area is available near the northwest corner.',
+          fr: 'Le principal parc de Bruges, avec un kiosque à musique, un grand étang et des pelouses ouvertes. Les chiens en laisse sont les bienvenus ; une zone de détente canine clôturée se trouve près du coin nord-ouest.',
+          es: 'El principal parque urbano de Brujas, con un quiosco de música, un gran estanque y praderas abiertas. Los perros con correa son bienvenidos; hay una zona cercada para perros cerca del rincón noroeste.',
+        },
+      },
+      {
+        name: 'Markt & Burg squares',
+        emoji: '🍺',
+        petFriendly: true,
+        desc: {
+          en: 'The two central squares are accessible with dogs on lead. The café terraces around the Markt are very dog-friendly — it\'s not unusual to see dogs tied to chair legs while owners enjoy a Trappist beer.',
+          fr: 'Les deux places centrales sont accessibles avec des chiens en laisse. Les terrasses de cafés autour du Markt sont très accueillantes pour les chiens — il est courant de voir des chiens attachés aux pieds de chaises pendant que leurs propriétaires savourent une bière trappiste.',
+          es: 'Las dos plazas centrales son accesibles con perros con correa. Las terrazas de los cafés alrededor del Markt son muy amigables — es habitual ver perros atados a las patas de las sillas mientras sus dueños disfrutan de una cerveza trapense.',
+        },
+      },
+      {
+        name: 'Belfry of Bruges (Belfort)',
+        emoji: '🔔',
+        petFriendly: false,
+        desc: {
+          en: 'The iconic 83m bell tower involves a narrow 366-step climb and is not accessible for dogs. Admire it from the Markt square instead.',
+          fr: 'L\'emblématique clocher de 83m implique une montée étroite de 366 marches et n\'est pas accessible aux chiens. Admirez-le depuis la place du Markt.',
+          es: 'El icónico campanario de 83m implica una estrecha subida de 366 escalones y no es accesible para perros. Adíralo desde la plaza del Markt.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Belgian café culture is exceptionally dog-friendly — most cafés, brasseries and even chocolatiers welcome dogs inside. Look for a water bowl by the door as the universal signal.',
+        'Bruges is extremely compact: the historic centre is roughly 2km across, making it one of the easiest European cities to navigate on foot with a dog.',
+        'Canal boat tours (reien): some operators allow small dogs in carriers; ask before booking. The narrow boats can be tricky with larger breeds.',
+        'The city gets very crowded in summer (especially day-tripping from Brussels or Ghent). Arrive early or stay overnight to enjoy quieter morning walks.',
+        'Belgian supermarkets (Delhaize, Carrefour) have good pet food sections for mid-trip supplies.',
+      ],
+      fr: [
+        'La culture des cafés belges est exceptionnellement accueillante pour les chiens — la plupart des cafés, brasseries et même des chocolatiers acceptent les chiens à l\'intérieur. Un bol d\'eau posé devant la porte est le signal universel.',
+        'Bruges est extrêmement compacte : le centre historique mesure environ 2 km de large, ce qui en fait l\'une des villes européennes les plus faciles à explorer à pied avec un chien.',
+        'Excursions en bateau sur les canaux (reien) : certains opérateurs acceptent les petits chiens en transport ; renseignez-vous avant de réserver. Les bateaux étroits peuvent être difficiles avec les grandes races.',
+        'La ville est très fréquentée en été (surtout les excursions en journée depuis Bruxelles ou Gand). Arrivez tôt ou séjournez sur place pour profiter de promenades matinales plus calmes.',
+        'Les supermarchés belges (Delhaize, Carrefour) ont de bons rayons alimentation animale pour les approvisionnements en cours de voyage.',
+      ],
+      es: [
+        'La cultura de café belga es excepcionalmente amigable con los perros — la mayoría de cafés, brasseries e incluso chocolaterías aceptan perros dentro. Un cuenco de agua junto a la puerta es la señal universal.',
+        'Brujas es extremadamente compacta: el centro histórico mide unos 2 km de ancho, lo que la convierte en una de las ciudades europeas más fáciles de recorrer a pie con un perro.',
+        'Paseos en barco por los canales (reien): algunos operadores permiten perros pequeños en transportín; consulte antes de reservar. Los barcos estrechos pueden ser difíciles con razas grandes.',
+        'La ciudad se llena mucho en verano (especialmente de excursionistas desde Bruselas o Gante). Llegue temprano o quédese a dormir para disfrutar de paseos matutinos más tranquilos.',
+        'Los supermercados belgas (Delhaize, Carrefour) tienen buenas secciones de alimentación animal para reabastecerse durante el viaje.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Dierenarts Urgentie Brugge, call the national animal emergency line +32 9 220 00 05 for the nearest on-call vet.',
+        'Getting there: Bruges station is served by hourly direct trains from Brussels (1h) and Ghent (25 min). Dogs travel free in a carrier; larger dogs pay a reduced fare.',
+        'From the UK: direct Eurostar to Brussels, then train to Bruges. Pets require a valid EU/UK pet passport and rabies vaccination.',
+        'Car access: the historic centre is largely pedestrianised. Hotels provide parking information on booking; several have dedicated spots outside the zone.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Dierenarts Urgentie Brugge, appelez la ligne nationale d\'urgence animale +32 9 220 00 05 pour le vétérinaire de garde le plus proche.',
+        'Accès : la gare de Bruges est desservie par des trains directs toutes les heures depuis Bruxelles (1h) et Gand (25 min). Les chiens en transport voyagent gratuitement ; les grands chiens paient un tarif réduit.',
+        'Depuis le Royaume-Uni : Eurostar direct jusqu\'à Bruxelles, puis train pour Bruges. Les animaux nécessitent un passeport animal UE/RU valide et une vaccination antirabique.',
+        'Accès en voiture : le centre historique est en grande partie piétonnier. Les hôtels communiquent les informations de stationnement à la réservation.',
+      ],
+      es: [
+        'Veterinario de urgencias: Dierenarts Urgentie Brugge, llame a la línea nacional de urgencias animales +32 9 220 00 05 para el veterinario de guardia más cercano.',
+        'Cómo llegar: la estación de Brujas tiene trenes directos cada hora desde Bruselas (1h) y Gante (25 min). Los perros en transportín viajan gratis; los perros grandes pagan tarifa reducida.',
+        'Desde el Reino Unido: Eurostar directo a Bruselas, luego tren a Brujas. Las mascotas necesitan un pasaporte de mascota UE/RU válido y vacunación antirrábica.',
+        'Acceso en coche: el centro histórico es en gran parte peatonal. Los hoteles facilitan información de aparcamiento al reservar.',
+      ],
+    },
+  },
+
+  budapest: {
+    history: {
+      en: 'Budapest — formed from the merger of Buda, Óbuda and Pest in 1873 — is one of Central Europe\'s most dog-populated capitals, with an estimated 300,000 dogs registered in the metro area. Hungarians are deeply attached to their dogs and the city\'s infrastructure reflects this: dedicated off-leash zones (kutyafuttató) exist in almost every district, tram and metro rules allow dogs with muzzles, and thermal bath culture — while not dog-inclusive — is balanced by a network of parks and riverside promenades that make Budapest genuinely walker-friendly.',
+      fr: 'Budapest — née de la fusion de Buda, Óbuda et Pest en 1873 — est l\'une des capitales d\'Europe centrale avec le plus grand nombre de chiens, avec environ 300 000 chiens enregistrés dans l\'agglomération. Les Hongrois sont profondément attachés à leurs chiens et l\'infrastructure de la ville le reflète : des zones de liberté (kutyafuttató) existent dans presque tous les quartiers, les tramways et le métro acceptent les chiens avec muselière, et la culture des bains thermaux — sans les chiens — est compensée par un réseau de parcs et de promenades au bord du Danube.',
+      es: 'Budapest — formada por la fusión de Buda, Óbuda y Pest en 1873 — es una de las capitales de Europa Central con más perros, con unos 300.000 perros registrados en el área metropolitana. Los húngaros están profundamente apegados a sus perros y la infraestructura de la ciudad lo refleja: hay zonas de libertad (kutyafuttató) en casi todos los distritos, los tranvías y el metro admiten perros con bozal, y la cultura de los baños termales — sin mascotas — se compensa con una red de parques y paseos fluviales.',
+    },
+    sights: [
+      {
+        name: 'Margit-sziget (Margaret Island)',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          en: 'The car-free island in the middle of the Danube is Budapest\'s best dog walk: 2.5km of shaded paths, a running track, fountains and a dedicated kutyafuttató (dog run) at the northern tip. Dogs on lead are welcome everywhere.',
+          fr: 'L\'île sans voitures au milieu du Danube est la meilleure promenade canine de Budapest : 2,5 km de sentiers ombragés, une piste de course, des fontaines et un kutyafuttató (parc canin) dédié à la pointe nord. Les chiens en laisse sont les bienvenus partout.',
+          es: 'La isla sin coches en medio del Danubio es el mejor paseo canino de Budapest: 2,5 km de senderos sombreados, una pista de atletismo, fuentes y un kutyafuttató (parque canino) dedicado en el extremo norte. Los perros con correa son bienvenidos en todas partes.',
+        },
+      },
+      {
+        name: 'Budai-hegység (Buda Hills)',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          en: 'The forested hills of western Buda offer hours of off-leash hiking. The Hármashatárhegy and Normafa areas are popular with locals and their dogs on weekends — wild trails, clean air and city views.',
+          fr: 'Les collines boisées de Buda offrent des heures de randonnée en liberté. Les secteurs de Hármashatárhegy et Normafa sont populaires auprès des locaux et de leurs chiens le week-end — des sentiers sauvages, un air pur et des vues sur la ville.',
+          es: 'Las colinas boscosas del oeste de Buda ofrecen horas de senderismo sin correa. Las zonas de Hármashatárhegy y Normafa son populares entre los locales y sus perros los fines de semana — senderos salvajes, aire limpio y vistas de la ciudad.',
+        },
+      },
+      {
+        name: 'Városliget (City Park)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: 'Budapest\'s grand public park, home to Vajdahunyad Castle and the Széchenyi thermal baths. Dogs on lead are welcome in the park grounds; the large kutyafuttató near the Olof Palme sétány is a social hub for local dog owners.',
+          fr: 'Le grand parc public de Budapest, accueillant le château Vajdahunyad et les bains thermaux Széchenyi. Les chiens en laisse sont les bienvenus dans le parc ; le grand kutyafuttató près de la promenade Olof Palme est un lieu de rassemblement pour les propriétaires de chiens locaux.',
+          es: 'El gran parque público de Budapest, con el castillo Vajdahunyad y los baños termales Széchenyi. Los perros con correa son bienvenidos en el parque; el gran kutyafuttató cerca de la avenida Olof Palme es un punto de encuentro para los dueños de perros locales.',
+        },
+      },
+      {
+        name: 'Danube Promenade (Duna-korzó)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          en: 'The riverside promenade on the Pest bank, with views of Buda Castle and the Chain Bridge. Relaxed, wide, and welcoming to dogs. Many of the café terraces along here will bring a water bowl without being asked.',
+          fr: 'La promenade en bord de Danube sur la rive de Pest, avec vue sur le château de Buda et le pont des Chaînes. Détendu, large et accueillant pour les chiens. Beaucoup de terrasses de cafés apporteront un bol d\'eau sans qu\'on le demande.',
+          es: 'El paseo fluvial en la orilla de Pest, con vistas al castillo de Buda y al Puente de las Cadenas. Relajado, amplio y acogedor para los perros. Muchas terrazas traerán un cuenco de agua sin pedírselo.',
+        },
+      },
+      {
+        name: 'Széchenyi & Gellért Thermal Baths',
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          en: 'Thermal baths are not accessible to dogs. They are a Budapest highlight but require leaving your pet at the hotel. Book accommodation with secure on-site storage or garden access for these visits.',
+          fr: 'Les bains thermaux ne sont pas accessibles aux chiens. C\'est un incontournable de Budapest, mais cela nécessite de laisser votre animal à l\'hôtel. Réservez un hébergement avec un espace sécurisé ou un accès au jardin pour ces visites.',
+          es: 'Los baños termales no son accesibles para perros. Son un punto destacado de Budapest, pero requieren dejar a su mascota en el hotel. Reserve alojamiento con espacio seguro o acceso al jardín para estas visitas.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'BKV transport rules: dogs must wear a muzzle on metro, tram and bus lines. Small dogs in carriers travel free; larger dogs pay a child fare. Dogs are not permitted during peak commute hours on some lines.',
+        'Kutyafuttató (off-leash dog runs): every district has at least one. They are fenced, often have water, and are free to use. The Városliget and Margit Island runs are the largest.',
+        'Hungarian restaurants and ruin bars (romkocsmák) in the VII district are very dog-friendly — the outdoor courtyards of Szimpla Kert and similar venues welcome dogs.',
+        'Thermal baths are Budapest\'s top attraction but dogs are strictly excluded. Plan your thermal bath days around dog-sitter options or build in hotel time.',
+        'Summers are hot (35°C+) and winters cold (−5°C). The Buda Hills are a great summer refuge; in winter, the heated interior of romkocsmák makes them dog-walker havens.',
+      ],
+      fr: [
+        'Transports BKV : les chiens doivent porter une muselière dans le métro, les tramways et les bus. Les petits chiens en transport voyagent gratuitement ; les grands chiens paient un tarif enfant. Les chiens ne sont pas autorisés aux heures de pointe sur certaines lignes.',
+        'Kutyafuttató (parcs canins en liberté) : chaque arrondissement en possède au moins un. Ils sont clôturés, souvent équipés d\'eau et gratuits. Ceux de Városliget et de l\'île Margit sont les plus grands.',
+        'Les restaurants hongrois et les ruin bars (romkocsmák) du VIIe arrondissement sont très accueillants pour les chiens — les cours extérieures de Szimpla Kert et d\'autres lieux similaires accueillent les chiens.',
+        'Les bains thermaux sont l\'attraction principale de Budapest, mais les chiens en sont strictement exclus. Planifiez vos journées thermales en fonction des options de garde ou prévoyez du temps à l\'hôtel.',
+        'Les étés sont chauds (35°C+) et les hivers froids (−5°C). Les collines de Buda sont un excellent refuge estival ; en hiver, les romkocsmák chauffées deviennent des havres pour les promeneurs avec chiens.',
+      ],
+      es: [
+        'Transporte BKV: los perros deben llevar bozal en metro, tranvía y autobús. Los perros pequeños en transportín viajan gratis; los grandes pagan tarifa infantil. Los perros no están permitidos en algunas líneas en horas punta.',
+        'Kutyafuttató (zonas de libertad): cada distrito tiene al menos uno. Son vallados, suelen tener agua y son gratuitos. Los de Városliget e Isla Margarita son los más grandes.',
+        'Los restaurantes húngaros y los ruin bars (romkocsmák) del distrito VII son muy amigables con los perros — los patios exteriores de Szimpla Kert y locales similares admiten perros.',
+        'Los baños termales son la principal atracción de Budapest, pero los perros están estrictamente excluidos. Planifique sus días de baños termales con opciones de cuidado de mascotas o reserve tiempo en el hotel.',
+        'Los veranos son calurosos (35°C+) y los inviernos fríos (−5°C). Las colinas de Buda son un refugio estival ideal; en invierno, los romkocsmák calefaccionados se convierten en refugios para paseadores con perros.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Állatklinika Budapest, Thököly út (+36 1 251 2929) — 24-hour veterinary hospital in central Pest.',
+        'Getting there: Budapest Keleti station connects to Vienna (2.5h Railjet), Prague (6h) and beyond. Dogs with muzzle and lead travel on a child ticket on MÁV trains.',
+        'Currency: Hungary uses the forint (HUF), not the euro. Credit cards widely accepted but carry some cash for markets and dog-run vending machines.',
+        'Pet passport: Hungary is an EU member — standard EU pet passport with microchip and rabies vaccination is sufficient.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Állatklinika Budapest, Thököly út (+36 1 251 2929) — hôpital vétérinaire ouvert 24h/24 dans le centre de Pest.',
+        'Accès : la gare Keleti de Budapest est reliée à Vienne (2h30 en Railjet), Prague (6h) et au-delà. Les chiens avec muselière et laisse voyagent avec un billet enfant sur les trains MÁV.',
+        'Monnaie : la Hongrie utilise le forint (HUF), pas l\'euro. Les cartes bancaires sont largement acceptées, mais emportez un peu d\'argent liquide pour les marchés.',
+        'Passeport animal : la Hongrie est membre de l\'UE — le passeport européen standard avec puce et vaccin antirabique suffit.',
+      ],
+      es: [
+        'Veterinario de urgencias: Állatklinika Budapest, Thököly út (+36 1 251 2929) — hospital veterinario 24h en el centro de Pest.',
+        'Cómo llegar: la estación Keleti de Budapest conecta con Viena (2,5h en Railjet), Praga (6h) y más destinos. Los perros con bozal y correa viajan con billete infantil en trenes MÁV.',
+        'Moneda: Hungría usa el forinto (HUF), no el euro. Las tarjetas se aceptan ampliamente, pero lleve algo de efectivo para mercados.',
+        'Pasaporte de mascota: Hungría es miembro de la UE — el pasaporte europeo estándar con microchip y vacunación antirrábica es suficiente.',
+      ],
+    },
+  },
+
+  dubrovnik: {
+    history: {
+      en: 'Dubrovnik — the "Pearl of the Adriatic" — is one of Europe\'s most visited cities, with its UNESCO-listed Old Town walls and crystal-clear sea attracting over two million tourists a year to a city of just 40,000 residents. For dog owners, Dubrovnik rewards careful planning: the Old Town itself has steep marble steps and severe summer heat, but the surrounding area offers dog-friendly beaches, forested hills and the quieter Elaphiti Islands within easy ferry reach. Croatian attitudes to dogs in public are welcoming, and the Adriatic coast is one of Europe\'s most scenic walking environments.',
+      fr: 'Dubrovnik — la "Perle de l\'Adriatique" — est l\'une des villes les plus visitées d\'Europe, avec ses remparts classés à l\'UNESCO et sa mer cristalline attirant plus de deux millions de touristes par an dans une ville de seulement 40 000 habitants. Pour les propriétaires de chiens, Dubrovnik récompense une planification soigneuse : la vieille ville elle-même présente des marches en marbre raides et une chaleur estivale sévère, mais les alentours offrent des plages canines, des collines boisées et les îles Élaphites — plus tranquilles — accessibles en ferry.',
+      es: 'Dubrovnik — la "Perla del Adriático" — es una de las ciudades más visitadas de Europa, con sus murallas de la Ciudad Vieja declaradas Patrimonio Mundial y su mar cristalino que atrae a más de dos millones de turistas al año a una ciudad de solo 40.000 habitantes. Para los dueños de perros, Dubrovnik recompensa una planificación cuidadosa: la Ciudad Vieja tiene escalones de mármol empinados y un calor estival severo, pero los alrededores ofrecen playas caninas, colinas boscosas y las tranquilas islas Elafiti a poca distancia en ferry.',
+    },
+    sights: [
+      {
+        name: 'Park Šuma Gradac',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: 'The forested park just west of the Old Town walls is the best dog walk in central Dubrovnik. Shaded pine paths, sea views and a blessedly cooler temperature make it the go-to morning walk even in summer.',
+          fr: 'Le parc forestier juste à l\'ouest des remparts de la vieille ville est la meilleure promenade canine du centre de Dubrovnik. Des sentiers ombragés sous les pins, des vues sur la mer et une température nettement plus fraîche en font la promenade matinale par excellence, même en été.',
+          es: 'El parque forestal justo al oeste de las murallas de la Ciudad Vieja es el mejor paseo canino del centro de Dubrovnik. Senderos sombreados entre pinos, vistas al mar y una temperatura notablemente más fresca lo convierten en el paseo matutino de referencia, incluso en verano.',
+        },
+      },
+      {
+        name: 'Elaphiti Islands (Lopud & Šipan)',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          en: 'The car-free Elaphiti Islands are a revelation for dog owners. Lopud and Šipan have sandy paths, quiet coves and a tiny year-round population. A 1-hour ferry from Dubrovnik port; dogs travel free.',
+          fr: 'Les îles Élaphites sans voitures sont une révélation pour les propriétaires de chiens. Lopud et Šipan ont des sentiers sablonneux, des criques tranquilles et une population résidente très réduite toute l\'année. Ferry d\'1h depuis le port de Dubrovnik ; les chiens voyagent gratuitement.',
+          es: 'Las islas Elafiti sin coches son una revelación para los dueños de perros. Lopud y Šipan tienen senderos de arena, calas tranquilas y una pequeña población permanente. Ferry de 1h desde el puerto de Dubrovnik; los perros viajan gratis.',
+        },
+      },
+      {
+        name: 'Cavtat & the Konavle Valley',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          en: 'The charming coastal village of Cavtat, 20 minutes south of Dubrovnik by bus, is far less crowded and has a lovely seaside promenade. The hinterland Konavle Valley offers cycling tracks and vineyard walks with dogs welcome.',
+          fr: 'Le charmant village côtier de Cavtat, à 20 minutes au sud de Dubrovnik en bus, est beaucoup moins fréquenté et dispose d\'une belle promenade en bord de mer. La vallée de Konavle offre des pistes cyclables et des promenades dans les vignobles, les chiens étant les bienvenus.',
+          es: 'El encantador pueblo costero de Cavtat, a 20 minutos al sur de Dubrovnik en autobús, es mucho menos concurrido y tiene un bonito paseo marítimo. El valle de Konavle ofrece rutas ciclistas y paseos entre viñedos con perros bienvenidos.',
+        },
+      },
+      {
+        name: 'Stari Grad (Old Town Walls)',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          en: 'The Old Town walls are a UNESCO highlight but the narrow, stepped streets and extreme summer heat (40°C+) make them unsuitable for dogs. Visit the walls solo and plan dog time for early morning outside the walls.',
+          fr: 'Les remparts de la vieille ville sont un site UNESCO incontournable, mais les ruelles étroites et les escaliers raides, combinés à la chaleur estivale extrême (40°C+), les rendent inadaptés aux chiens. Visitez les remparts seul et planifiez les sorties canines tôt le matin à l\'extérieur des remparts.',
+          es: 'Las murallas de la Ciudad Vieja son un punto destacado de la UNESCO, pero las estrechas calles escalonadas y el calor estival extremo (40°C+) las hacen inadecuadas para los perros. Visite las murallas solo y planifique los paseos con perro temprano por la mañana fuera de las murallas.',
+        },
+      },
+      {
+        name: 'Lapad Peninsula',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          en: 'The residential Lapad Peninsula, 3km from the Old Town, has a long seaside promenade (šetalište), pine-shaded parks and several dog-friendly beaches. Most Dubrovnik pet-friendly hotels are located here.',
+          fr: 'La péninsule résidentielle de Lapad, à 3 km de la vieille ville, dispose d\'une longue promenade maritime, de parcs ombragés de pins et de plusieurs plages canines. La plupart des hôtels pet-friendly de Dubrovnik s\'y trouvent.',
+          es: 'La península residencial de Lapad, a 3 km de la Ciudad Vieja, tiene un largo paseo marítimo, parques sombreados por pinos y varias playas caninas. La mayoría de los hoteles pet-friendly de Dubrovnik se encuentran aquí.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Summer heat is extreme (July–August regularly hits 38–40°C). Walk only before 8am and after 8pm. The marble paving stones of the Old Town retain heat dangerously — test with your hand before letting your dog walk on them.',
+        'The Old Town\'s stepped streets and narrow passages are stressful for most dogs during tourist season. Base yourself in Lapad or Gruž and visit the Old Town early morning or out of season.',
+        'Dog-friendly beaches exist at Lapad Bay and on the Elaphiti Islands. Most main city beaches (Banje, Copacabana) have pet restrictions in summer — check seasonal signage.',
+        'Croatian phrase: "Mogu li ući s psom?" ("Can I come in with my dog?") — locals appreciate the effort and will often say yes.',
+        'Dubrovnik\'s water is safe to drink and fountains are common. Always carry extra water in summer — the heat combined with walking will dehydrate your dog quickly.',
+      ],
+      fr: [
+        'La chaleur estivale est extrême (juillet-août atteint régulièrement 38-40°C). Promenez-vous uniquement avant 8h et après 20h. Les dalles de marbre de la vieille ville retiennent la chaleur de manière dangereuse — testez avec votre main avant de laisser votre chien marcher dessus.',
+        'Les ruelles en escalier et les passages étroits de la vieille ville sont stressants pour la plupart des chiens en haute saison. Établissez-vous à Lapad ou Gruž et visitez la vieille ville tôt le matin ou hors saison.',
+        'Des plages canines existent à la baie de Lapad et sur les îles Élaphites. La plupart des plages principales (Banje, Copacabana) ont des restrictions pour animaux en été — vérifiez la signalisation saisonnière.',
+        'Expression croate : "Mogu li ući s psom ?" ("Puis-je entrer avec mon chien ?") — les habitants apprécient l\'effort et diront souvent oui.',
+        'L\'eau de Dubrovnik est potable et les fontaines sont nombreuses. Emportez toujours de l\'eau supplémentaire en été — la chaleur combinée à la marche déshydratera rapidement votre chien.',
+      ],
+      es: [
+        'El calor estival es extremo (julio-agosto llega regularmente a 38-40°C). Pasee solo antes de las 8h y después de las 20h. Las losas de mármol de la Ciudad Vieja retienen el calor de forma peligrosa — pruebe con la mano antes de dejar a su perro caminar sobre ellas.',
+        'Las calles escalonadas y los pasajes estrechos de la Ciudad Vieja son estresantes para la mayoría de los perros en temporada alta. Alójese en Lapad o Gruž y visite la Ciudad Vieja temprano por la mañana o fuera de temporada.',
+        'Hay playas caninas en la bahía de Lapad y en las islas Elafiti. La mayoría de las playas principales (Banje, Copacabana) tienen restricciones para mascotas en verano — compruebe la señalización estacional.',
+        'Frase croata: "Mogu li ući s psom?" ("¿Puedo entrar con mi perro?") — los locales aprecian el esfuerzo y a menudo dirán que sí.',
+        'El agua de Dubrovnik es potable y las fuentes son frecuentes. Lleve siempre agua extra en verano — el calor combinado con el paseo deshidratará a su perro rápidamente.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Veterinarska Stanica Dubrovnik, Vukovarska ulica (+385 20 423 433) — for after-hours emergencies, the nearest 24h facility is in Split (3.5h) or consult the local police for the on-call vet.',
+        'Getting there: Dubrovnik Airport is 20km south. Most visitors fly in. Ferries from Split, Rijeka and Italy (Jadrolinija) allow pets in carriers or with lead and muzzle on deck.',
+        'Croatia is an EU member — standard EU pet passport with microchip and rabies vaccination is required.',
+        'Best season for dog owners: May, June and September. Avoid July and August if possible — the combination of crowds, heat and limited dog-friendly beach access makes it the hardest time of year.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Veterinarska Stanica Dubrovnik, Vukovarska ulica (+385 20 423 433) — pour les urgences nocturnes, le centre 24h le plus proche est à Split (3h30) ou consultez la police locale pour le vétérinaire de garde.',
+        'Accès : l\'aéroport de Dubrovnik est à 20 km au sud. La plupart des visiteurs arrivent par avion. Les ferries de Split, Rijeka et d\'Italie (Jadrolinija) acceptent les animaux en transport ou avec laisse et muselière sur le pont.',
+        'La Croatie est membre de l\'UE — le passeport européen standard avec puce et vaccin antirabique est requis.',
+        'Meilleure saison pour les propriétaires de chiens : mai, juin et septembre. Évitez juillet et août si possible — la combinaison de foules, de chaleur et d\'accès limité aux plages canines en fait la période la plus difficile de l\'année.',
+      ],
+      es: [
+        'Veterinario de urgencias: Veterinarska Stanica Dubrovnik, Vukovarska ulica (+385 20 423 433) — para urgencias nocturnas, el centro 24h más cercano está en Split (3,5h) o consulte a la policía local para el veterinario de guardia.',
+        'Cómo llegar: el aeropuerto de Dubrovnik está a 20 km al sur. La mayoría de visitantes llega en avión. Los ferrís de Split, Rijeka e Italia (Jadrolinija) admiten mascotas en transportín o con correa y bozal en cubierta.',
+        'Croacia es miembro de la UE — se requiere el pasaporte europeo estándar con microchip y vacunación antirrábica.',
+        'Mejor temporada para dueños de perros: mayo, junio y septiembre. Evite julio y agosto si es posible — la combinación de multitudes, calor y acceso limitado a playas caninas lo convierte en la época más difícil del año.',
+      ],
+    },
+  },
+
+  porto: {
+    history: {
+      en: 'Porto — Portugal\'s second city and the origin of port wine — sits on the dramatic granite gorge of the Douro river. With around 240,000 inhabitants, it has the warmth of a neighbourhood city and a dog culture that mirrors Lisbon\'s openness. Portuenses (Porto residents) are matter-of-fact about dogs in public spaces: café terraces, riverside promenades and tram cars all see dogs as a normal part of daily life. The Atlantic coast is minutes away, and the Douro Valley wine country — an extraordinary day trip — is one of the most scenic walking environments in Europe.',
+      fr: 'Porto — la deuxième ville du Portugal et l\'origine du vin de porto — s\'étend sur les gorges granitiques dramatiques du Douro. Avec environ 240 000 habitants, elle a la chaleur d\'une ville de quartier et une culture canine qui reflète l\'ouverture de Lisbonne. Les Portuenses considèrent les chiens dans les espaces publics comme une évidence : terrasses de cafés, promenades en bord de fleuve et tramways accueillent les chiens au quotidien. La côte atlantique est à quelques minutes, et la vallée du Douro — une excursion extraordinaire — est l\'un des environnements de marche les plus pittoresques d\'Europe.',
+      es: 'Oporto — la segunda ciudad de Portugal y el origen del vino de Oporto — se extiende por el dramático cañón granítico del Duero. Con unos 240.000 habitantes, tiene la calidez de una ciudad de barrio y una cultura canina que refleja la apertura de Lisboa. Los portuenses consideran los perros en los espacios públicos como algo natural: terrazas de cafés, paseos fluviales y tranvías acogen a los perros a diario. La costa atlántica está a pocos minutos, y el valle del Duero — una excursión extraordinaria — es uno de los entornos de caminata más pintorescos de Europa.',
+    },
+    sights: [
+      {
+        name: 'Parque da Cidade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          en: 'Porto\'s largest park — 83 hectares of ponds, meadows and Atlantic-facing gardens — is the city\'s premier dog walking destination. Off-leash zones, water features and a direct path to the sea make it unmissable.',
+          fr: 'Le plus grand parc de Porto — 83 hectares d\'étangs, de prairies et de jardins face à l\'Atlantique — est la destination de promenade canine par excellence de la ville. Des zones en liberté, des points d\'eau et un accès direct à la mer en font un incontournable.',
+          es: 'El parque más grande de Oporto — 83 hectáreas de estanques, prados y jardines frente al Atlántico — es el destino de paseo canino por excelencia de la ciudad. Zonas de libertad, fuentes de agua y un acceso directo al mar lo hacen imprescindible.',
+        },
+      },
+      {
+        name: 'Ribeira & Cais da Ribeira',
+        emoji: '🚣',
+        petFriendly: true,
+        desc: {
+          en: 'The UNESCO-listed riverfront is one of Porto\'s most atmospheric walks. The narrow alleys of the Ribeira neighbourhood and the wide riverside promenade are perfect for dogs — most of the café terraces here welcome them warmly.',
+          fr: 'Le front de fleuve classé à l\'UNESCO est l\'une des promenades les plus atmosphériques de Porto. Les ruelles étroites du quartier Ribeira et la large promenade en bord de fleuve sont parfaites pour les chiens — la plupart des terrasses les accueillent chaleureusement.',
+          es: 'El frente fluvial declarado Patrimonio Mundial es uno de los paseos más atmosféricos de Oporto. Las estrechas callejuelas del barrio de la Ribeira y el amplio paseo fluvial son perfectos para los perros — la mayoría de las terrazas los acogen con calidez.',
+        },
+      },
+      {
+        name: 'Foz do Douro & Atlantic beaches',
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          en: 'Where the Douro meets the Atlantic, the Foz neighbourhood has a seaside promenade and several dog-friendly beach stretches. In autumn and winter (out of beach season) the entire coastline opens to dogs.',
+          fr: 'Là où le Douro rencontre l\'Atlantique, le quartier de Foz dispose d\'une promenade maritime et de plusieurs zones de plage canines. En automne et en hiver (hors saison balnéaire), tout le littoral s\'ouvre aux chiens.',
+          es: 'Donde el Duero se encuentra con el Atlántico, el barrio de Foz tiene un paseo marítimo y varias zonas de playa caninas. En otoño e invierno (fuera de temporada de playa), todo el litoral se abre a los perros.',
+        },
+      },
+      {
+        name: 'Douro Valley day trip',
+        emoji: '🍷',
+        petFriendly: true,
+        desc: {
+          en: 'A 1.5-hour drive east, the Douro Valley wine country is a revelation: terraced vineyards, ancient quintas and river views. Many quinta restaurants and wine estates welcome dogs on their terraces and in their gardens.',
+          fr: 'À 1h30 à l\'est en voiture, le vignoble du Douro est une révélation : des vignes en terrasses, d\'anciennes quintas et des vues sur le fleuve. De nombreux restaurants de quinta et domaines viticoles accueillent les chiens sur leurs terrasses et dans leurs jardins.',
+          es: 'A 1,5 horas en coche hacia el este, el valle del Duero es una revelación: viñedos en terrazas, antiguas quintas y vistas al río. Muchos restaurantes de quinta y bodegas acogen a los perros en sus terrazas y jardines.',
+        },
+      },
+      {
+        name: 'Livraria Lello & Clérigos Tower',
+        emoji: '📚',
+        petFriendly: false,
+        desc: {
+          en: 'The famous Lello bookshop and the Clérigos Tower are not accessible to dogs. Worth visiting solo — the bookshop entry requires a ticket that is redeemable on purchase.',
+          fr: 'La célèbre librairie Lello et la Tour des Clercs ne sont pas accessibles aux chiens. Valent la visite en solo — l\'entrée de la librairie nécessite un billet remboursable sur achat.',
+          es: 'La famosa librería Lello y la Torre de los Clérigos no son accesibles para perros. Vale la pena visitarlos solos — la entrada a la librería requiere un billete reembolsable en compra.',
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        'Porto\'s hills are steep — the city climbs dramatically from the river to the upper districts. Small dogs can be carried; for larger breeds, plan routes that use the funicular (elevador) or stick to flat riverside paths.',
+        'Atlantic beach access for dogs: Matosinhos beach (adjacent to Porto) has dedicated dog areas. In the off-season (October–May), most beaches are fully open to dogs.',
+        'The Matosinhos neighbourhood, north of the city centre, is one of Porto\'s most dog-friendly: wide streets, a fish market, and a seafront that local dog owners use daily.',
+        'Trams (vintage lines 1, 18, 22) allow small dogs in carriers; larger dogs need a lead and are generally accommodated by drivers. Ask before boarding.',
+        'Porto\'s café culture is open to dogs: most pastelarias and coffee shops allow dogs on the terrace, and many — especially in Foz and Bonfim — welcome them inside.',
+      ],
+      fr: [
+        'Les collines de Porto sont abruptes — la ville grimpe de manière spectaculaire depuis le fleuve jusqu\'aux quartiers hauts. Les petits chiens peuvent être portés ; pour les grandes races, planifiez des itinéraires utilisant le funiculaire ou restez sur les promenades plates en bord de fleuve.',
+        'Accès à la plage pour les chiens : la plage de Matosinhos (adjacente à Porto) dispose de zones dédiées aux chiens. Hors saison (octobre-mai), la plupart des plages sont entièrement ouvertes aux chiens.',
+        'Le quartier de Matosinhos, au nord du centre-ville, est l\'un des plus accueillants pour les chiens : rues larges, marché aux poissons et front de mer que les propriétaires de chiens utilisent quotidiennement.',
+        'Les tramways (lignes vintage 1, 18, 22) acceptent les petits chiens en transport ; les grands chiens avec laisse sont généralement acceptés par les conducteurs. Renseignez-vous avant de monter.',
+        'La culture des cafés à Porto est ouverte aux chiens : la plupart des pastelarias et cafés acceptent les chiens en terrasse, et beaucoup — surtout à Foz et Bonfim — les accueillent à l\'intérieur.',
+      ],
+      es: [
+        'Las colinas de Oporto son empinadas — la ciudad sube dramáticamente desde el río hasta los barrios altos. Los perros pequeños pueden llevarse en brazos; para razas grandes, planifique rutas que usen el funicular o quédese en los paseos planos junto al río.',
+        'Acceso a la playa para perros: la playa de Matosinhos (adyacente a Oporto) tiene zonas dedicadas a perros. En temporada baja (octubre-mayo), la mayoría de playas están completamente abiertas a los perros.',
+        'El barrio de Matosinhos, al norte del centro de la ciudad, es uno de los más amigables para perros: calles amplias, mercado de pescado y un frente marítimo que los dueños de perros usan a diario.',
+        'Los tranvías (líneas vintage 1, 18, 22) admiten perros pequeños en transportín; los perros grandes con correa suelen ser aceptados por los conductores. Pregunte antes de subir.',
+        'La cultura del café en Oporto está abierta a los perros: la mayoría de pastelerías y cafés permiten perros en la terraza, y muchos — especialmente en Foz y Bonfim — los acogen dentro.',
+      ],
+    },
+    practicalInfo: {
+      en: [
+        'Emergency vet: Hospital Veterinário do Porto, Rua da Constituição (+351 22 537 0937) — 24-hour service in the city centre.',
+        'Getting there: Porto Francisco Sá Carneiro Airport is 15km north of the centre. The Metro line E connects it in 30 minutes. Dogs in carriers are accepted on the Metro; larger dogs travel on a lead.',
+        'From Spain: direct trains from Vigo (2h) and Madrid (9h Lusitânia night train) via CP/Renfe. Dogs allowed with muzzle and lead.',
+        'Best season: May–June and September–October for the best balance of weather, beach access and manageable tourist numbers.',
+      ],
+      fr: [
+        'Vétérinaire d\'urgence : Hospital Veterinário do Porto, Rua da Constituição (+351 22 537 0937) — service 24h/24 au centre-ville.',
+        'Accès : l\'aéroport Francisco Sá Carneiro de Porto est à 15 km au nord du centre. La ligne E du métro le relie en 30 minutes. Les chiens en transport sont acceptés dans le métro ; les grands chiens voyagent en laisse.',
+        'Depuis l\'Espagne : trains directs depuis Vigo (2h) et Madrid (9h train de nuit Lusitânia) via CP/Renfe. Les chiens sont autorisés avec muselière et laisse.',
+        'Meilleure saison : mai-juin et septembre-octobre pour le meilleur équilibre entre météo, accès à la plage et affluence touristique raisonnable.',
+      ],
+      es: [
+        'Veterinario de urgencias: Hospital Veterinário do Porto, Rua da Constituição (+351 22 537 0937) — servicio 24h en el centro de la ciudad.',
+        'Cómo llegar: el aeropuerto Francisco Sá Carneiro de Oporto está a 15 km al norte del centro. La línea E del metro conecta en 30 minutos. Los perros en transportín se admiten en el metro; los perros grandes viajan con correa.',
+        'Desde España: trenes directos desde Vigo (2h) y Madrid (9h tren nocturno Lusitânia) vía CP/Renfe. Los perros están permitidos con bozal y correa.',
+        'Mejor temporada: mayo-junio y septiembre-octubre para el mejor equilibrio entre clima, acceso a la playa y afluencia turística manejable.',
+      ],
+    },
+  },
+
 }
 
 export default cityContent

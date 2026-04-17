@@ -338,7 +338,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           {destHotels.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {destHotels.map((hotel) => (
-                <HotelCard key={hotel.id} hotel={hotel} dict={p} locale={locale as string} />
+                <HotelCard key={hotel.id} hotel={hotel} dict={p} locale={locale as string} destName={dest.name} destCountry={dest.country} />
               ))}
             </div>
           ) : (

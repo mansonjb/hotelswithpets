@@ -2,6 +2,7 @@ import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
 import Image from 'next/image'
 import type { Locale } from '@/app/[locale]/dictionaries'
+import { buildAllezLink } from '@/lib/site'
 
 interface TopHotelsProps {
   locale: Locale
@@ -48,6 +49,9 @@ export default function TopHotels({ locale }: TopHotelsProps) {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {topHotels.map((hotel, i) => {
             const dest = destinations.find(d => d.slug === hotel.destinationSlug)
+            const ctaHref = dest
+              ? buildAllezLink(hotel.name, dest.name, dest.country)
+              : hotel.bookingUrl
             return (
               <article key={hotel.id} className="group bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
                 {/* Image */}
@@ -91,7 +95,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                       <p className="text-xl font-black text-gray-900">€{hotel.priceFrom}<span className="text-xs font-normal text-gray-400 ml-1">/night</span></p>
                     </div>
                     <a
-                      href={hotel.bookingUrl}
+                      href={ctaHref}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
                       className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-4 py-2.5 rounded-xl text-sm transition-all shadow-md hover:-translate-y-0.5 whitespace-nowrap"

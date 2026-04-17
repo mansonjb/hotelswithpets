@@ -421,6 +421,7 @@ export default async function ComboPage({
                         catName={catName}
                         dict={p}
                         locale={locale as string}
+                        destCountry={dest.country}
                       />
                     ))}
                   </div>

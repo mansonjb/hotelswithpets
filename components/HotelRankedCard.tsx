@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { buildAllezLink } from '@/lib/site'
 
 interface Hotel {
   id: string
@@ -37,6 +38,8 @@ interface HotelRankedCardProps {
   catName: string
   dict: HotelRankedCardDict
   locale: string
+  /** Country name for Allez tracked deep link */
+  destCountry?: string
 }
 
 const ratingLabel = (r: number) => {
@@ -75,7 +78,11 @@ function sanitizePetPolicy(raw: string, petFee?: number): string {
   return trimmed.length > 200 ? trimmed.slice(0, 197) + '…' : trimmed
 }
 
-export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale }: HotelRankedCardProps) {
+export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale, destCountry }: HotelRankedCardProps) {
+  const ctaHref = destCountry
+    ? buildAllezLink(hotel.name, destName, destCountry)
+    : hotel.bookingUrl
+
   return (
     <article className="group bg-white rounded-3xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100">
       {/* Rank label */}
@@ -168,7 +175,7 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict, 
               </p>
             </div>
             <a
-              href={hotel.bookingUrl}
+              href={ctaHref}
               target="_blank"
               rel="noopener noreferrer sponsored"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-6 py-3 rounded-2xl text-sm transition-all duration-200 shadow-lg shadow-blue-200 hover:shadow-blue-300 hover:-translate-y-0.5 whitespace-nowrap"

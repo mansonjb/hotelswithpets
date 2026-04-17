@@ -1,32 +1,32 @@
 'use client'
 
+const STAY22_AID = 'eijeanbaptistemanson'
+
 interface PetMapProps {
   lat: number
   lng: number
   destName: string
   country?: string
-  /** Stay22 dashboard map ID — uses a pre-curated Stay22 map when provided */
-  stay22MapId?: string
   /** Map height in px, default 420 */
   height?: number
+  /** Ignored — kept for backward compat, Stay22 /gm endpoint doesn't need a dashboard map ID */
+  stay22MapId?: string
 }
 
 /**
- * Interactive hotel map.
- * - When stay22MapId is provided: uses a pre-curated Stay22 dashboard map (shows hotels with booking links)
- * - Otherwise: falls back to Google Maps embed centred on the destination
- * Stay22 LetMeAllez affiliate script is loaded separately in layout.tsx.
+ * Stay22 interactive hotel map.
+ * Uses the Stay22 /embed/gm endpoint: no pre-created dashboard map ID required.
+ * Requires only our partner AID + lat/lng coordinates.
+ * The LetMeAllez script (in layout.tsx) auto-upgrades all Booking.com links on the page.
  */
-export default function PetMap({ lat, lng, destName, country, stay22MapId, height = 420 }: PetMapProps) {
-  const mapSrc = stay22MapId
-    ? `https://www.stay22.com/embed/${stay22MapId}`
-    : `https://maps.google.com/maps?q=pet+friendly+hotels+${encodeURIComponent(`${destName}${country ? ' ' + country : ''}`)}&t=m&z=13&ie=UTF8&iwloc=&output=embed`
+export default function PetMap({ lat, lng, destName, height = 420 }: PetMapProps) {
+  const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=hotelswithpets`
 
   return (
     <div className="w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
       <iframe
         id="stay22-widget"
-        src={mapSrc}
+        src={src}
         title={`Pet-friendly hotels map — ${destName}`}
         width="100%"
         height={height}

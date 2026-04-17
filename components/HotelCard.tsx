@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { buildAllezLink } from '@/lib/site'
 
 interface Hotel {
   id: string
@@ -33,6 +34,10 @@ interface HotelCardProps {
   hotel: Hotel
   dict: HotelCardDict
   locale: string
+  /** Destination city name — used to build Allez tracked deep link */
+  destName?: string
+  /** Destination country — used to build Allez tracked deep link */
+  destCountry?: string
 }
 
 function sanitizePetPolicy(raw: string, petFee?: number): string {
@@ -64,7 +69,11 @@ const ratingLabel = (r: number) => {
   return 'Good'
 }
 
-export default function HotelCard({ hotel, dict, locale }: HotelCardProps) {
+export default function HotelCard({ hotel, dict, locale, destName, destCountry }: HotelCardProps) {
+  // Use Stay22 Allez tracked deep link when we have destination info; fall back to raw bookingUrl
+  const ctaHref = destName && destCountry
+    ? buildAllezLink(hotel.name, destName, destCountry)
+    : hotel.bookingUrl
   return (
     <div className="group bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
       {/* Hotel image */}
@@ -147,10 +156,10 @@ export default function HotelCard({ hotel, dict, locale }: HotelCardProps) {
             </p>
           </div>
           <a
-            href={hotel.bookingUrl}
+            href={ctaHref}
             target="_blank"
             rel="noopener noreferrer sponsored"
-            aria-label={`Book ${hotel.name} on Booking.com`}
+            aria-label={`Book ${hotel.name}`}
             className="flex-shrink-0 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-5 py-3 rounded-xl text-sm transition-all duration-200 shadow-md hover:shadow-lg hover:-translate-y-0.5 whitespace-nowrap"
           >
             {dict.book}

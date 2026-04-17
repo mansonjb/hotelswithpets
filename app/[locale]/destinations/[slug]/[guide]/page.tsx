@@ -386,8 +386,8 @@ export default async function GuideDetailPage({
     datePublished: cityGuide.lastUpdated,
     dateModified: cityGuide.lastUpdated,
     image: `${SITE_URL}/images/destinations/${slug}.jpg`,
-    author: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png` } },
-    publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png` } },
+    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', url: `${SITE_URL}/${locale}/about`, jobTitle: 'Pet Travel Editor' },
+    publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 192, height: 192 } },
   }
 
   const allezHref = buildAllezDestLink(dest.name, dest.country, `guide-${guide}`)

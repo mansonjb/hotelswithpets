@@ -28,9 +28,21 @@ export async function generateMetadata({
   const dest = destinations.find((d) => d.slug === hotel.destinationSlug)
   if (!dest) return {}
 
-  const title = `${hotel.name} — Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`
   const cleanPetPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
-  const description = `${hotel.name} in ${dest.name}: pet policy — ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`
+  const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : 'free') : `€${hotel.petFee}`
+
+  const titles: Record<string, string> = {
+    en: `${hotel.name} — Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`,
+    fr: `${hotel.name} — Hôtel acceptant les animaux à ${dest.name} | HotelsWithPets.com`,
+    es: `${hotel.name} — Hotel con mascotas en ${dest.name} | HotelsWithPets.com`,
+  }
+  const descriptions: Record<string, string> = {
+    en: `${hotel.name} in ${dest.name}: pet policy — ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,
+    fr: `${hotel.name} à ${dest.name} : politique animaux — ${cleanPetPolicy.slice(0, 100)}. Dès €${hotel.priceFrom}/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
+    es: `${hotel.name} en ${dest.name}: política mascotas — ${cleanPetPolicy.slice(0, 100)}. Desde €${hotel.priceFrom}/noche. Nota: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo mascota: ${petFeeStr}.`,
+  }
+  const title = titles[locale] ?? titles.en
+  const description = descriptions[locale] ?? descriptions.en
 
   return {
     title,
@@ -119,11 +131,17 @@ export default async function HotelPage({
     ],
   }
 
+  const cleanPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
+  const hotelImage = `https://hotelswithpets.com/images/hotels/${hotel.id}.jpg`
+  const destHasCoords = 'lat' in dest && 'lng' in dest
+
   const lodgingSchema = {
     '@context': 'https://schema.org',
     '@type': 'LodgingBusiness',
     name: hotel.name,
     url: hotel.bookingUrl,
+    image: hotelImage,
+    description: cleanPolicy,
     petsAllowed: true,
     starRating: { '@type': 'Rating', ratingValue: hotel.stars },
     aggregateRating: {
@@ -138,7 +156,22 @@ export default async function HotelPage({
       addressLocality: dest.name,
       addressCountry: dest.country,
     },
+    ...(destHasCoords ? {
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: (dest as typeof dest & { lat: number }).lat,
+        longitude: (dest as typeof dest & { lng: number }).lng,
+      }
+    } : {}),
     priceRange: '€'.repeat(Math.max(1, hotel.stars - 2)),
+    amenityFeature: [
+      { '@type': 'LocationFeatureSpecification', name: 'Pets allowed', value: true },
+      ...(hotel.petFee === 0
+        ? [{ '@type': 'LocationFeatureSpecification', name: 'Pet fee', value: 'Free' }]
+        : hotel.petFee > 0
+        ? [{ '@type': 'LocationFeatureSpecification', name: 'Pet fee', value: `€${hotel.petFee} per night` }]
+        : []),
+    ],
   }
 
   const getCatName = (cat: typeof categories[number]) => {

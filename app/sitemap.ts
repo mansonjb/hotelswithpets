@@ -6,7 +6,7 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { getAllCountries } from '@/lib/countries'
 
-const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips'] as const
+const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips', 'attractions', 'petsitting'] as const
 
 const BASE_URL = 'https://hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']

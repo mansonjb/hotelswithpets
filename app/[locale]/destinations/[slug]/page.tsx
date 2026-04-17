@@ -31,10 +31,11 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const minPrice = destHotels.length > 0 ? Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean)) : null
   const hotelCount = destHotels.length
 
+  const year = new Date().getFullYear()
   const titleTemplates: Record<string, string> = {
-    en: `Pet-friendly hotels in ${dest.name}, ${dest.country} | HotelsWithPets.com`,
-    fr: `Hôtels acceptant animaux à ${dest.name}, ${dest.country} | HotelsWithPets.com`,
-    es: `Hoteles con mascotas en ${dest.name}, ${dest.country} | HotelsWithPets.com`,
+    en: `${dest.name} Pet-Friendly Hotels (${year}) — Verified Policies | HotelsWithPets.com`,
+    fr: `Hôtels avec animaux à ${dest.name} (${year}) — Politiques vérifiées | HotelsWithPets.com`,
+    es: `Hoteles con mascotas en ${dest.name} (${year}) — Políticas verificadas | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `Find ${hotelCount} pet-friendly hotels in ${dest.name}, ${dest.country}. Verified policies, from €${minPrice}/night. Compare and book on Booking.com.`,

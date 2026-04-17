@@ -35,23 +35,20 @@ function getCategoryName(cat: (typeof categories)[number], locale: Locale): stri
 function matchDestination(query: string) {
   const q = query.trim().toLowerCase()
   if (!q) return null
-  // 1. exact slug
   const bySlug = destinations.find((d) => d.slug === q)
   if (bySlug) return bySlug
-  // 2. exact name (case-insensitive)
   const byExact = destinations.find((d) => d.name.toLowerCase() === q)
   if (byExact) return byExact
-  // 3. starts with
   const byStart = destinations.find((d) => d.name.toLowerCase().startsWith(q))
   if (byStart) return byStart
-  // 4. includes anywhere (e.g. "elona" → Barcelona, "burg" → Edinburgh)
   const byIncludes = destinations.find((d) => d.name.toLowerCase().includes(q))
   if (byIncludes) return byIncludes
-  // 5. country match — return first city in that country
   const byCountry = destinations.find((d) => d.country.toLowerCase().includes(q))
   if (byCountry) return byCountry
   return null
 }
+
+const POPULAR_CITIES = ['Paris', 'Barcelona', 'Amsterdam', 'Rome', 'Lisbon', 'Vienna', 'Prague', 'Berlin']
 
 export default function Hero({ locale, dict }: HeroProps) {
   const router = useRouter()
@@ -62,7 +59,6 @@ export default function Hero({ locale, dict }: HeroProps) {
   function handleSearch(e: React.FormEvent) {
     e.preventDefault()
     const match = matchDestination(destQuery)
-
     if (match && catSlug) {
       router.push(`/${locale}/${match.slug}/${catSlug}`)
     } else if (match) {
@@ -74,14 +70,31 @@ export default function Hero({ locale, dict }: HeroProps) {
     }
   }
 
-  return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white min-h-[600px] flex items-center">
-      {/* Background blobs */}
-      <div className="absolute top-[-80px] right-[-60px] w-[420px] h-[420px] rounded-full bg-blue-500/20 blur-3xl pointer-events-none" />
-      <div className="absolute bottom-[-60px] left-[-40px] w-[320px] h-[320px] rounded-full bg-indigo-600/20 blur-3xl pointer-events-none" />
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[300px] bg-blue-700/10 blur-3xl pointer-events-none rounded-full" />
+  function handleCityChip(name: string) {
+    const match = matchDestination(name)
+    if (match) router.push(`/${locale}/destinations/${match.slug}`)
+  }
 
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 w-full">
+  const findLabel = locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'
+  const trustLabel = locale === 'fr'
+    ? 'Gratuit · Sans inscription · Réservez sur Booking.com'
+    : locale === 'es'
+    ? 'Gratis · Sin registro · Reserva en Booking.com'
+    : 'Free · No sign-up · Book on Booking.com'
+
+  return (
+    <section className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white">
+      {/* Background blobs */}
+      <div className="absolute top-[-80px] right-[-60px] w-[480px] h-[480px] rounded-full bg-blue-500/15 blur-3xl pointer-events-none" />
+      <div className="absolute bottom-[-60px] left-[-40px] w-[360px] h-[360px] rounded-full bg-indigo-600/15 blur-3xl pointer-events-none" />
+      <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[350px] bg-blue-700/8 blur-3xl pointer-events-none rounded-full" />
+
+      {/* Floating paw prints decorative */}
+      <div className="absolute top-12 left-[8%] text-4xl opacity-5 select-none rotate-[-15deg] hidden lg:block">🐾</div>
+      <div className="absolute bottom-20 right-[6%] text-5xl opacity-5 select-none rotate-[20deg] hidden lg:block">🐾</div>
+      <div className="absolute top-1/2 right-[15%] text-3xl opacity-5 select-none rotate-[-8deg] hidden xl:block">🐾</div>
+
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16 w-full">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
 
           {/* Left — copy */}
@@ -92,20 +105,23 @@ export default function Hero({ locale, dict }: HeroProps) {
             <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.1] mb-6 tracking-tight">
               {hero.title}
             </h1>
-            <p className="text-lg text-blue-200 leading-relaxed mb-10 max-w-lg">
+            <p className="text-lg text-blue-200 leading-relaxed mb-12 max-w-lg">
               {hero.subtitle}
             </p>
 
-            {/* Stats row */}
-            <div className="flex flex-wrap gap-8">
+            {/* Stats */}
+            <div className="flex flex-wrap gap-x-10 gap-y-6">
               {[
                 { value: hero.stat1Value, label: hero.stat1Label },
                 { value: hero.stat2Value, label: hero.stat2Label },
                 { value: hero.stat3Value, label: hero.stat3Label },
-              ].map((s) => (
+              ].map((s, i) => (
                 <div key={s.label} className="flex flex-col">
-                  <span className="text-3xl font-black text-white leading-none">{s.value}</span>
-                  <span className="text-xs text-blue-300 mt-1 uppercase tracking-widest">{s.label}</span>
+                  {i > 0 && (
+                    <span className="hidden" aria-hidden="true" />
+                  )}
+                  <span className="text-3xl font-black text-white leading-none tracking-tight">{s.value}</span>
+                  <span className="text-[11px] text-blue-300/80 mt-1.5 uppercase tracking-widest">{s.label}</span>
                 </div>
               ))}
             </div>
@@ -113,20 +129,24 @@ export default function Hero({ locale, dict }: HeroProps) {
 
           {/* Right — search card */}
           <div className="relative">
-            {/* Decorative ring */}
-            <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-500/30 to-indigo-500/10 blur-xl" />
+            <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-blue-500/20 to-indigo-500/10 blur-2xl" />
             <form
               onSubmit={handleSearch}
               className="relative bg-white/10 backdrop-blur-md border border-white/20 rounded-3xl p-8 shadow-2xl"
             >
-              <p className="text-sm font-semibold text-blue-200 uppercase tracking-widest mb-6">
-                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
+              <p className="text-xs font-bold text-blue-300 uppercase tracking-widest mb-6">
+                {findLabel}
               </p>
 
               <div className="space-y-3">
-                {/* Destination input with datalist for autocomplete */}
+                {/* Destination */}
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg pointer-events-none">📍</span>
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                  </span>
                   <input
                     list="destinations-list"
                     type="text"
@@ -143,9 +163,11 @@ export default function Hero({ locale, dict }: HeroProps) {
                   </datalist>
                 </div>
 
-                {/* Category select */}
+                {/* Category */}
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg pointer-events-none">🐾</span>
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 text-base">
+                    🐾
+                  </span>
                   <select
                     value={catSlug}
                     onChange={(e) => setCatSlug(e.target.value)}
@@ -162,18 +184,33 @@ export default function Hero({ locale, dict }: HeroProps) {
 
                 <button
                   type="submit"
-                  className="block w-full bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-4 rounded-2xl text-center transition-all duration-200 shadow-lg shadow-blue-900/40 hover:shadow-blue-900/60 hover:-translate-y-0.5"
+                  className="block w-full bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-4 rounded-2xl text-center transition-all duration-200 shadow-lg shadow-blue-900/40 hover:shadow-blue-900/60 hover:-translate-y-0.5 text-sm tracking-wide"
                 >
                   {hero.cta} →
                 </button>
               </div>
 
-              <p className="text-xs text-blue-300 text-center mt-5 opacity-70">
-                {locale === 'fr'
-                  ? 'Gratuit · Sans inscription · Réservez sur Booking.com'
-                  : locale === 'es'
-                  ? 'Gratis · Sin registro · Reserva en Booking.com'
-                  : 'Free · No sign-up · Book on Booking.com'}
+              {/* Popular city chips */}
+              <div className="mt-5">
+                <p className="text-[10px] text-white/40 uppercase tracking-widest mb-2">
+                  {locale === 'fr' ? 'Populaire' : locale === 'es' ? 'Popular' : 'Popular'}
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {POPULAR_CITIES.map((city) => (
+                    <button
+                      key={city}
+                      type="button"
+                      onClick={() => handleCityChip(city)}
+                      className="text-[11px] text-white/60 hover:text-white bg-white/8 hover:bg-white/15 border border-white/10 hover:border-white/25 px-2.5 py-1 rounded-full transition-all duration-150"
+                    >
+                      {city}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <p className="text-[11px] text-blue-300/60 text-center mt-5">
+                {trustLabel}
               </p>
             </form>
           </div>

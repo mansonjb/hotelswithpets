@@ -15,74 +15,104 @@ function getCategoryName(cat: typeof categories[number], locale: Locale): string
   return cat.name
 }
 
+function getCategoryDesc(cat: typeof categories[number], locale: Locale): string {
+  if (locale === 'fr' && cat.descriptionFr) return cat.descriptionFr
+  if (locale === 'es' && cat.descriptionEs) return cat.descriptionEs
+  return cat.description
+}
+
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
   const activeCats = categories.filter((c) => c.cityCount > 0)
   const [featured, ...rest] = activeCats
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section className="py-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-end justify-between mb-12">
-          <h2 className="text-4xl font-extrabold text-gray-900 leading-tight">
-            {dict.categories.browseBy}<br />
-            <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              {dict.categories.browseTitle}
-            </span>
-          </h2>
-          <p className="text-gray-400 text-sm max-w-xs text-right hidden md:block">
+
+        {/* Header */}
+        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-14">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-widest text-blue-500 mb-3">
+              {dict.categories.browseBy}
+            </p>
+            <h2 className="text-4xl font-extrabold text-gray-900 leading-tight">
+              <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
+                {dict.categories.browseTitle}
+              </span>
+            </h2>
+          </div>
+          <p className="text-gray-400 text-sm max-w-xs sm:text-right">
             {dict.categories.subtitle}
           </p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+
           {/* Featured — spans 2 rows */}
           <Link
             href={`/${locale}/categories/${featured.slug}`}
-            className="group lg:row-span-2 relative overflow-hidden rounded-3xl min-h-[280px] lg:min-h-0 flex flex-col justify-end p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
+            className="group lg:row-span-2 relative overflow-hidden rounded-3xl min-h-[300px] lg:min-h-0 flex flex-col justify-end p-8 shadow-md hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
           >
             <div className={`absolute inset-0 bg-gradient-to-br ${featured.gradient}`} />
-            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors" />
-            {/* Big emoji */}
-            <div className="absolute top-8 right-8 text-7xl opacity-30 group-hover:opacity-50 transition-opacity select-none">
+            {/* Decorative large emoji watermark */}
+            <div className="absolute top-6 right-6 text-[100px] opacity-15 group-hover:opacity-25 transition-opacity duration-500 select-none leading-none">
               {featured.emoji}
             </div>
+            {/* Subtle noise overlay */}
+            <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300" />
+
             <div className="relative">
-              <span className="text-4xl mb-4 block">{featured.emoji}</span>
+              <span className="text-5xl mb-5 block">{featured.emoji}</span>
               <h3 className="text-white font-extrabold text-2xl leading-tight mb-2">
                 {getCategoryName(featured, locale)}
               </h3>
-              <p className="text-white/70 text-sm mb-4">{featured.cityCount} cities</p>
-              <p className="text-white/80 text-sm leading-relaxed mb-6">{featured.description}</p>
-              <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
-                {dict.categories.explore}
-              </span>
+              <p className="text-white/80 text-sm leading-relaxed mb-5">
+                {getCategoryDesc(featured, locale)}
+              </p>
+              <div className="flex items-center justify-between">
+                <span className="inline-flex items-center gap-1.5 bg-white/15 text-white/90 text-xs font-medium px-3 py-1.5 rounded-full">
+                  📍 {featured.cityCount} {locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : 'cities'}
+                </span>
+                <span className="text-white/60 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-lg">
+                  →
+                </span>
+              </div>
             </div>
           </Link>
 
-          {/* 5 smaller cards in 2-col grid */}
+          {/* 5 smaller cards */}
           {rest.map((cat) => (
             <Link
               key={cat.slug}
               href={`/${locale}/categories/${cat.slug}`}
-              className="group relative overflow-hidden rounded-2xl shadow-sm hover:shadow-xl transition-all duration-200 hover:-translate-y-1 flex flex-col justify-between p-6 min-h-[130px]"
+              className="group relative overflow-hidden rounded-2xl shadow-sm hover:shadow-xl transition-all duration-200 hover:-translate-y-1 flex flex-col justify-between p-6 min-h-[140px]"
             >
-              <div className={`absolute inset-0 bg-gradient-to-br ${cat.gradient} opacity-90`} />
-              <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors" />
-              <div className="absolute bottom-0 right-0 text-6xl opacity-20 group-hover:opacity-30 transition-opacity select-none leading-none pb-2 pr-3">
+              <div className={`absolute inset-0 bg-gradient-to-br ${cat.gradient} opacity-95`} />
+              <div className="absolute bottom-0 right-0 text-[72px] opacity-10 group-hover:opacity-20 transition-opacity duration-300 select-none leading-none pb-1 pr-2">
                 {cat.emoji}
               </div>
+              <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-200" />
+
               <div className="relative flex items-start gap-3">
-                <span className="text-2xl">{cat.emoji}</span>
-                <div>
-                  <h3 className="text-white font-bold text-base leading-tight">
+                <span className="text-2xl mt-0.5">{cat.emoji}</span>
+                <div className="min-w-0">
+                  <h3 className="text-white font-bold text-sm leading-tight">
                     {getCategoryName(cat, locale)}
                   </h3>
-                  <p className="text-white/70 text-xs mt-0.5">{cat.cityCount} cities</p>
+                  <p className="text-white/60 text-xs mt-0.5">
+                    {cat.cityCount} {locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : 'cities'}
+                  </p>
                 </div>
               </div>
-              <span className="relative text-white/80 text-xs font-medium group-hover:text-white transition-colors">
-                {dict.categories.explore}
-              </span>
+
+              <div className="relative flex items-center justify-between mt-3">
+                <span className="text-white/70 text-xs group-hover:text-white transition-colors">
+                  {dict.categories.explore}
+                </span>
+                <span className="text-white/40 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-sm">
+                  →
+                </span>
+              </div>
             </Link>
           ))}
         </div>

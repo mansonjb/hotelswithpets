@@ -7,6 +7,7 @@ import CategoryGrid from '@/components/home/CategoryGrid'
 import HowItWorks from '@/components/home/HowItWorks'
 import DestinationsGrid from '@/components/home/DestinationsGrid'
 import FeaturedCombos from '@/components/home/FeaturedCombos'
+import PopularSearches from '@/components/home/PopularSearches'
 import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
@@ -59,13 +60,38 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
 
   const dict = await getDictionary(locale as Locale)
 
+  const websiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'HotelsWithPets',
+    url: SITE_URL,
+    description: 'Pet-friendly hotels across Europe — verified policies, real guest ratings.',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/en/destinations/{search_term_string}` },
+      'query-input': 'required name=search_term_string',
+    },
+  }
+
+  const orgSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'HotelsWithPets',
+    url: SITE_URL,
+    logo: `${SITE_URL}/favicon.ico`,
+    sameAs: [],
+  }
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <Hero locale={locale as Locale} dict={dict} />
       <CategoryGrid locale={locale as Locale} dict={dict} />
       <HowItWorks dict={dict} />
       <DestinationsGrid locale={locale as Locale} dict={dict} />
       <FeaturedCombos locale={locale as Locale} dict={dict} />
+      <PopularSearches locale={locale as Locale} />
     </>
   )
 }

@@ -166,7 +166,14 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             <span className="text-6xl lg:text-8xl">{dest.flag}</span>
             <div>
               <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{dest.name}</h1>
-              <p className="text-blue-300 text-lg">{dest.country}</p>
+              <p className="text-blue-300 text-lg">
+                <Link
+                  href={`/${locale}/countries/${dest.country.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
+                  className="hover:text-white transition-colors underline decoration-blue-500/30 hover:decoration-white/50"
+                >
+                  {dest.country}
+                </Link>
+              </p>
               <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
               {/* Price + hotel count stats */}
               {destHotels.length > 0 && (
@@ -248,6 +255,37 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           )}
         </div>
       </section>
+
+      {/* Explore by category — rich links */}
+      {presentCategories.length > 0 && (
+        <section className="py-12 bg-gray-50 border-t border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-extrabold text-gray-900 mb-6">
+              {locale === 'fr' ? `Explorer les hôtels à ${dest.name} par type` : locale === 'es' ? `Explorar hoteles en ${dest.name} por tipo` : `Explore ${dest.name} hotels by type`}
+            </h2>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              {presentCategories.map((cat) => {
+                const count = destHotels.filter(h => h.categories.includes(cat.slug)).length
+                const catName = getCategoryName(cat, locale as Locale)
+                return (
+                  <Link
+                    key={cat.slug}
+                    href={`/${locale}/${dest.slug}/${cat.slug}`}
+                    className="flex items-center gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl px-4 py-3 transition-all group"
+                  >
+                    <span className="text-2xl">{cat.emoji}</span>
+                    <div>
+                      <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{catName}</p>
+                      <p className="text-xs text-gray-400">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}</p>
+                    </div>
+                    <span className="ml-auto text-gray-300 group-hover:text-blue-400 transition-colors">→</span>
+                  </Link>
+                )
+              })}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* FAQ */}
       <section className="py-16 bg-white border-t border-gray-100">

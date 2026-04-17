@@ -99,43 +99,39 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
               <Link
                 key={cat.slug}
                 href={`/${locale}/categories/${cat.slug}`}
-                className="group flex items-center gap-6 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-6 overflow-hidden relative"
+                className="group grid grid-cols-[4rem_1fr_2rem] items-center gap-5 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-5 overflow-hidden relative"
               >
-                {/* Large faded number */}
+                {/* Large faded number — absolutely positioned, won't affect height */}
                 <span
-                  className="absolute right-6 top-1/2 -translate-y-1/2 text-[6rem] font-black leading-none select-none pointer-events-none transition-opacity duration-200"
-                  style={{ color: 'rgba(0,0,0,0.04)' }}
+                  className="absolute right-12 top-1/2 -translate-y-1/2 text-[5rem] font-black leading-none select-none pointer-events-none"
+                  style={{ color: 'rgba(0,0,0,0.035)' }}
                 >
                   {String(i + 1).padStart(2, '0')}
                 </span>
 
-                {/* Emoji + gradient dot */}
-                <div className={`relative flex-shrink-0 w-16 h-16 rounded-2xl flex items-center justify-center text-3xl bg-gradient-to-br ${cat.gradient} shadow-md`}>
+                {/* Emoji tile */}
+                <div className={`flex-shrink-0 w-16 h-16 rounded-2xl flex items-center justify-center text-3xl bg-gradient-to-br ${cat.gradient} shadow-md`}>
                   {cat.emoji}
                 </div>
 
-                {/* Content */}
-                <div className="flex-1 min-w-0">
-                  <div className="flex items-start gap-3 mb-1">
-                    <h3 className="font-extrabold text-gray-900 text-lg group-hover:text-blue-700 transition-colors leading-tight">
-                      {getCategoryName(cat, locale)}
-                    </h3>
-                  </div>
-                  <p className="text-sm text-gray-500 leading-relaxed mb-3 max-w-md">
+                {/* Content — fixed 2-line desc so rows stay equal height */}
+                <div className="min-w-0">
+                  <h3 className="font-extrabold text-gray-900 text-base group-hover:text-blue-700 transition-colors leading-snug mb-1">
+                    {getCategoryName(cat, locale)}
+                  </h3>
+                  <p className="text-sm text-gray-500 leading-snug mb-2.5 line-clamp-2">
                     {getCategoryDesc(cat, locale)}
                   </p>
-                  <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
-                    <span className="text-xs text-gray-400">{cat.cityCount} {citiesLabel} · {hotelCount} {hotelsLabel}</span>
-                    <div className="flex flex-wrap gap-1.5">
-                      {topCities.map((city) => (
-                        <span key={city} className="text-[11px] bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{city}</span>
-                      ))}
-                    </div>
+                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                    <span className="text-xs text-gray-400 flex-shrink-0">{cat.cityCount} {citiesLabel} · {hotelCount} {hotelsLabel}</span>
+                    {topCities.map((city) => (
+                      <span key={city} className="text-[11px] bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{city}</span>
+                    ))}
                   </div>
                 </div>
 
                 {/* Arrow */}
-                <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all duration-200 text-xl">→</span>
+                <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all duration-200 text-lg">→</span>
               </Link>
             )
           })}

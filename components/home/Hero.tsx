@@ -127,8 +127,7 @@ export default function Hero({ locale, dict }: HeroProps) {
 
   return (
     <section
-      className="relative overflow-hidden text-white"
-      style={{ background: 'linear-gradient(135deg, #1a1209 0%, #141c2e 50%, #0f172a 100%)' }}
+      className="relative overflow-hidden text-white bg-gradient-to-br from-slate-800 via-blue-950 to-slate-900"
     >
       {/* Warm ambient glow — honey gold, not orange */}
       <div

@@ -1,0 +1,872 @@
+{
+  "slug": "milan",
+  "name": "Milan",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Milan",
+      "titleFr": "Restaurants acceptant les animaux à Milan",
+      "titleEs": "Restaurantes con mascotas en Milán",
+      "introEn": "Milan is Italy's most cosmopolitan city and its attitude toward dogs in restaurants and cafés is correspondingly relaxed. The Navigli canal district, Isola, and the Brera neighbourhood are the most dog-friendly areas for outdoor dining. As across Italy, indoor dining with dogs is technically prohibited by health regulations — outdoor terraces are where the pet-friendly dining happens. Milan's long aperitivo culture, where Milanese gather at bar terraces for pre-dinner drinks and nibbles from 18:00 to 20:00, is especially dog-compatible — most outdoor aperitivo bars welcome dogs without question.",
+      "introFr": "Milan est la ville la plus cosmopolite d'Italie et son attitude envers les chiens dans les restaurants et les cafés est correspondant détendue. Le quartier des Navigli, Isola et le quartier Brera sont les zones les plus dog-friendly pour dîner en plein air. Comme partout en Italie, la restauration en intérieur avec des chiens est techniquement interdite par la réglementation sanitaire — les terrasses extérieures sont où la restauration pet-friendly a lieu. La longue culture de l'aperitivo milanaise, où les Milanais se rassemblent aux terrasses des bars pour des boissons pré-dîner et des amuse-bouches de 18h00 à 20h00, est particulièrement compatible avec les chiens — la plupart des bars d'aperitivo extérieurs accueillent les chiens sans problème.",
+      "introEs": "Milán es la ciudad más cosmopolita de Italia y su actitud hacia los perros en restaurantes y cafés es correspondientemente relajada. El barrio de los Navigli, Isola y el barrio de Brera son las zonas más amigables para perros para comer al aire libre. Como en toda Italia, la comida en interior con perros está técnicamente prohibida por la normativa sanitaria — las terrazas exteriores son donde ocurre la gastronomía pet-friendly. La larga cultura del aperitivo milanés, donde los milaneses se reúnen en las terrazas de los bares para bebidas pre-cena y aperitivos de 18:00 a 20:00, es especialmente compatible con perros — la mayoría de los bares de aperitivo al aire libre reciben perros sin problema.",
+      "places": [
+        {
+          "name": "Ristorante Berton al Lago — Navigli adjacent",
+          "address": "Ripa di Porta Ticinese 55, 20143 Milano",
+          "neighborhood": "Navigli",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.naviglimilano.it/",
+          "description": "The Navigli canal district is Milan's most dog-friendly dining destination, with dozens of bars and restaurants offering outdoor canal-side terraces. The Ripa di Porta Ticinese (the main canal-side path of the Naviglio Grande) has outdoor tables from multiple restaurants and bars where dogs are routinely welcomed. The atmosphere in the evening, especially during aperitivo hour, is among the best in Milan — relaxed, social, and dog-friendly by Milanese custom.",
+          "descriptionFr": "Le quartier des Navigli est la destination de restauration la plus dog-friendly de Milan, avec des dizaines de bars et restaurants offrant des terrasses extérieures au bord des canaux. La Ripa di Porta Ticinese (le chemin principal au bord du Naviglio Grande) possède des tables extérieures de plusieurs restaurants et bars où les chiens sont couramment bienvenus. L'atmosphère le soir, surtout pendant l'heure de l'aperitivo, est parmi les meilleures de Milan — détendue, sociale et dog-friendly par coutume milanaise.",
+          "descriptionEs": "El barrio de los Navigli es el destino gastronómico más amigable para perros de Milán, con docenas de bares y restaurantes que ofrecen terrazas exteriores junto al canal. La Ripa di Porta Ticinese (el camino principal junto al Naviglio Grande) tiene mesas exteriores de múltiples restaurantes y bares donde los perros son rutinariamente bienvenidos. El ambiente por la tarde, especialmente durante la hora del aperitivo, está entre los mejores de Milán — relajado, social y apto para perros por costumbre milanesa.",
+          "petPolicy": "Dogs welcome on canal-side outdoor terraces",
+          "petPolicyFr": "Chiens acceptés sur les terrasses extérieures au bord du canal",
+          "petPolicyEs": "Perros admitidos en las terrazas exteriores junto al canal",
+          "priceRange": "€€",
+          "mustTry": "Aperol Spritz, local charcuterie boards during aperitivo hour",
+          "mustTryFr": "Aperol Spritz, planches de charcuterie locales pendant l'aperitivo",
+          "mustTryEs": "Aperol Spritz, tablas de charcutería local durante el aperitivo",
+          "openingHours": "Varies by venue. Aperitivo 18:00–20:00 daily",
+          "tip": "Come to the Navigli at 18:30 on a weekday for aperitivo. The canal-side bars fill up and dogs are everywhere.",
+          "tipFr": "Venez aux Navigli à 18h30 un jour de semaine pour l'aperitivo. Les bars au bord du canal se remplissent et les chiens sont partout.",
+          "tipEs": "Ven a los Navigli a las 18:30 un día entre semana para el aperitivo. Los bares junto al canal se llenan y los perros están por todas partes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Navigli+Milano"
+        },
+        {
+          "name": "Frida — Isola",
+          "address": "Via Antonio Pollaiuolo 3, 20159 Milano",
+          "neighborhood": "Isola",
+          "photo": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.fridaisola.it/",
+          "description": "Frida is one of Milan's most beloved aperitivo and dinner destinations in the creative Isola neighbourhood. The large outdoor courtyard with communal tables is entirely dog-friendly — Frida's atmosphere of relaxed creativity is perfectly matched by its welcome of dogs. The aperitivo buffet (included with drinks purchase) is excellent and the courtyard fills with young Milanese and their dogs from 18:00 every evening.",
+          "descriptionFr": "Frida est l'une des destinations d'aperitivo et de dîner les plus aimées de Milan dans le quartier créatif d'Isola. La grande cour extérieure avec des tables communes est entièrement dog-friendly — l'atmosphère de créativité détendue de Frida correspond parfaitement à son accueil des chiens. Le buffet d'aperitivo (inclus avec la boisson) est excellent et la cour se remplit de jeunes Milanais et de leurs chiens dès 18h00 chaque soir.",
+          "descriptionEs": "Frida es uno de los destinos de aperitivo y cena más queridos de Milán en el creativo barrio de Isola. El gran patio exterior con mesas comunales es totalmente apto para perros — el ambiente de creatividad relajada de Frida combina perfectamente con su bienvenida a los perros. El buffet de aperitivo (incluido con la compra de bebidas) es excelente y el patio se llena de jóvenes milaneses y sus perros a partir de las 18:00 todas las noches.",
+          "petPolicy": "Dogs welcome in the outdoor courtyard",
+          "petPolicyFr": "Chiens acceptés dans la cour extérieure",
+          "petPolicyEs": "Perros admitidos en el patio exterior",
+          "priceRange": "€€",
+          "mustTry": "Aperitivo buffet with drink, Negroni",
+          "mustTryFr": "Buffet d'aperitivo avec boisson, Negroni",
+          "mustTryEs": "Buffet de aperitivo con bebida, Negroni",
+          "openingHours": "Daily 18:00–01:00 (kitchen until 23:00)",
+          "tip": "Arrive at 18:00 when the courtyard opens. It fills quickly on Thursday–Saturday evenings.",
+          "tipFr": "Arrivez à 18h00 à l'ouverture de la cour. Elle se remplit rapidement les jeudi-vendredi-samedi soir.",
+          "tipEs": "Llega a las 18:00 cuando abre el patio. Se llena rápidamente los jueves-viernes-sábados por la tarde.",
+          "googleMapsUrl": "https://maps.google.com/?q=Frida+Isola+Milano"
+        },
+        {
+          "name": "Ratanà",
+          "address": "Via Gaetano de Castillia 28, 20124 Milano",
+          "neighborhood": "Isola / Porta Nuova",
+          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.ratana.it/",
+          "description": "A celebrated Milanese restaurant serving refined modern Lombard cuisine with an impressive wine list and a strong focus on local seasonal ingredients. The outdoor garden terrace is dog-friendly and one of the most pleasant outdoor dining spaces in central Milan. Ratanà is a local institution — book ahead. The risotto alla Milanese is benchmark-setting.",
+          "descriptionFr": "Un restaurant milanais célèbre servant une cuisine lombarde moderne raffinée avec une impressionnante carte des vins et un fort accent sur les ingrédients locaux de saison. La terrasse du jardin extérieur est dog-friendly et l'un des espaces de restauration en plein air les plus agréables du centre de Milan. Ratanà est une institution locale — réservez à l'avance. Le risotto alla Milanese est une référence.",
+          "descriptionEs": "Un célebre restaurante milanés que sirve refinada cocina lombarda moderna con una impresionante lista de vinos y un fuerte enfoque en ingredientes locales de temporada. La terraza del jardín exterior es apta para perros y uno de los espacios gastronómicos al aire libre más agradables del centro de Milán. Ratanà es una institución local — reserva con antelación. El risotto alla Milanese es de referencia.",
+          "petPolicy": "Dogs welcome on the outdoor garden terrace",
+          "petPolicyFr": "Chiens acceptés sur la terrasse du jardin extérieur",
+          "petPolicyEs": "Perros admitidos en la terraza del jardín exterior",
+          "priceRange": "€€€",
+          "mustTry": "Risotto alla Milanese, cotoletta alla Milanese",
+          "mustTryFr": "Risotto alla Milanese, cotoletta alla Milanese",
+          "mustTryEs": "Risotto alla Milanese, cotoletta alla Milanese",
+          "openingHours": "Mon–Fri 12:30–14:30, 19:30–23:00; Sat dinner only",
+          "tip": "Book the garden table specifically when reserving. Mention you have a dog.",
+          "tipFr": "Réservez spécifiquement la table du jardin. Mentionnez que vous avez un chien.",
+          "tipEs": "Reserva específicamente la mesa del jardín al hacer la reserva. Menciona que tienes un perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ratana+Milano"
+        },
+        {
+          "name": "Il Baretto al Baglioni",
+          "address": "Via Senato 5, 20121 Milano",
+          "neighborhood": "Brera / Porta Venezia",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.baglionihotels.com/destinations/milan/milan/",
+          "description": "The terrace bar of the luxurious Baglioni Hotel on Via Senato is one of Milan's most glamorous outdoor dining experiences, and — unusually for a five-star property — dogs are genuinely welcomed. The terrace is perfectly positioned for people-watching in the Brera-adjacent fashion district, and the bar food, cocktails, and aperitivo hour are all excellent. A memorable treat in a central location.",
+          "descriptionFr": "La terrasse-bar du luxueux Baglioni Hotel sur la Via Senato est l'une des expériences de restauration en plein air les plus glamoureuses de Milan, et — fait inhabituel pour un établissement cinq étoiles — les chiens y sont sincèrement bienvenus. La terrasse est parfaitement positionnée pour observer les passants dans le quartier de la mode adjacent à Brera, et la nourriture du bar, les cocktails et l'heure de l'aperitivo sont tous excellents. Une belle expérience dans un emplacement central.",
+          "descriptionEs": "La terraza-bar del lujoso Baglioni Hotel en la Via Senato es una de las experiencias gastronómicas al aire libre más glamorosas de Milán, y — inusualmente para un establecimiento de cinco estrellas — los perros son genuinamente bienvenidos. La terraza está perfectamente posicionada para ver pasar a la gente en el barrio de la moda adyacente a Brera, y la comida del bar, los cócteles y la hora del aperitivo son todos excelentes. Una experiencia memorable en una ubicación central.",
+          "petPolicy": "Dogs welcome on the hotel terrace bar",
+          "petPolicyFr": "Chiens acceptés sur la terrasse-bar de l'hôtel",
+          "petPolicyEs": "Perros admitidos en la terraza-bar del hotel",
+          "priceRange": "€€€€",
+          "mustTry": "Negroni, seasonal cocktails, hotel aperitivo",
+          "mustTryFr": "Negroni, cocktails de saison, aperitivo de l'hôtel",
+          "mustTryEs": "Negroni, cócteles de temporada, aperitivo del hotel",
+          "openingHours": "Daily 11:00–00:00",
+          "tip": "A splurge, but the terrace in the evening light is one of Milan's most beautiful experiences. Dogs are treated as well as guests.",
+          "tipFr": "Un luxe, mais la terrasse dans la lumière du soir est l'une des plus belles expériences de Milan. Les chiens sont traités aussi bien que les clients.",
+          "tipEs": "Un capricho, pero la terraza con la luz del atardecer es una de las experiencias más hermosas de Milán. Los perros son tratados tan bien como los huéspedes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Baglioni+Hotel+Milano"
+        }
+      ],
+      "tipsEn": [
+        "Milan's aperitivo culture (18:00–20:00) is the most dog-friendly dining format in the city. Most outdoor aperitivo bars welcome dogs without being asked.",
+        "The Navigli and Isola neighbourhoods are the best for outdoor dining with dogs. Avoid the Duomo and Galleria Vittorio Emanuele area — tourist-heavy and strict.",
+        "Ask 'Possiamo sederci fuori con il cane?' before settling at any outdoor table. Milanese staff respond well to the question.",
+        "Milan has excellent water fountains (fontanelle) throughout the city, identifiable by the green dome. Dogs love them — use them."
+      ],
+      "tipsFr": [
+        "La culture de l'aperitivo milanaise (18h00–20h00) est le format de restauration le plus dog-friendly de la ville. La plupart des bars d'aperitivo extérieurs accueillent les chiens sans qu'on le demande.",
+        "Les quartiers des Navigli et d'Isola sont les meilleurs pour dîner en terrasse avec des chiens. Évitez la zone du Duomo et de la Galleria Vittorio Emanuele — très touristique et stricte.",
+        "Demandez 'Possiamo sederci fuori con il cane ?' avant de vous installer à n'importe quelle table extérieure. Le personnel milanais répond bien à cette question.",
+        "Milan dispose d'excellentes fontaines (fontanelle) dans toute la ville, reconnaissables à leur dôme vert. Les chiens les adorent — utilisez-les."
+      ],
+      "tipsEs": [
+        "La cultura del aperitivo milanés (18:00–20:00) es el formato gastronómico más amigable para perros de la ciudad. La mayoría de los bares de aperitivo al aire libre reciben perros sin necesidad de pedirlo.",
+        "Los barrios de los Navigli e Isola son los mejores para comer al aire libre con perros. Evita la zona del Duomo y la Galleria Vittorio Emanuele — muy turística y estricta.",
+        "Pregunta '¿Possiamo sederci fuori con il cane?' antes de instalarte en cualquier mesa exterior. El personal milanés responde bien a la pregunta.",
+        "Milán tiene excelentes fuentes (fontanelle) por toda la ciudad, identificables por su cúpula verde. Los perros las adoran — úsalas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Milan restaurants?",
+          "a": "Italian health regulations prohibit dogs indoors in food-service areas. In Milan, as across Italy, pet-friendly dining happens on outdoor terraces. The Navigli and Isola areas have the most reliable outdoor options for dogs."
+        },
+        {
+          "q": "Which neighbourhood in Milan is most dog-friendly for dining?",
+          "a": "Navigli (canal district) and Isola are Milan's most dog-friendly neighbourhoods for outdoor dining. Both have strong aperitivo cultures with large outdoor terrace bars where dogs are entirely normal."
+        },
+        {
+          "q": "Is the aperitivo culture in Milan dog-friendly?",
+          "a": "Very much so. Milan's aperitivo hour (18:00–20:00) takes place primarily at outdoor bar terraces. Dogs are an entirely normal sight at most outdoor aperitivo bars in Navigli, Isola, and Brera. It's one of the most dog-compatible dining formats in Italy."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Milan ?",
+          "a": "La réglementation sanitaire italienne interdit les chiens en salle. À Milan, comme partout en Italie, la restauration dog-friendly se passe en terrasse extérieure. Les quartiers des Navigli et d'Isola offrent les meilleures options pour les chiens."
+        },
+        {
+          "q": "Quel quartier de Milan est le plus dog-friendly pour les restaurants ?",
+          "a": "Navigli (quartier des canaux) et Isola sont les quartiers les plus dog-friendly de Milan pour dîner en plein air. Tous deux ont une forte culture de l'aperitivo avec de grandes terrasses extérieures où les chiens sont tout à fait normaux."
+        },
+        {
+          "q": "La culture de l'aperitivo à Milan est-elle dog-friendly ?",
+          "a": "Tout à fait. L'heure de l'aperitivo milanaise (18h00–20h00) se déroule principalement sur les terrasses des bars extérieurs. Les chiens sont une vue tout à fait normale dans la plupart des bars d'aperitivo en plein air des Navigli, d'Isola et de Brera. C'est l'un des formats de restauration les plus compatibles avec les chiens en Italie."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Milán?",
+          "a": "La normativa sanitaria italiana prohíbe los perros en el interior de los locales de restauración. En Milán, como en toda Italia, la gastronomía pet-friendly ocurre en las terrazas exteriores. Los barrios de los Navigli e Isola tienen las opciones más fiables para los perros."
+        },
+        {
+          "q": "¿Qué barrio de Milán es más amigable para perros en restaurantes?",
+          "a": "Navigli (el barrio de los canales) e Isola son los barrios más amigables para perros de Milán para comer al aire libre. Ambos tienen una fuerte cultura del aperitivo con grandes terrazas exteriores donde los perros son totalmente normales."
+        },
+        {
+          "q": "¿Es la cultura del aperitivo en Milán apta para perros?",
+          "a": "Mucho. La hora del aperitivo milanés (18:00–20:00) tiene lugar principalmente en las terrazas exteriores de los bares. Los perros son una vista totalmente normal en la mayoría de los bares de aperitivo al aire libre en los Navigli, Isola y Brera. Es uno de los formatos gastronómicos más compatibles con perros de Italia."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Milan",
+      "titleFr": "Parcs et balades avec son chien à Milan",
+      "titleEs": "Parques y paseos con perros en Milán",
+      "introEn": "Milan is more generously endowed with public parks than its reputation suggests. The Sempione, Parco Nord, and the Parco delle Cave are all excellent for dogs, and the city has dozens of designated aree cani (off-leash zones) distributed throughout its parks. The Navigli canal towpaths also provide excellent linear walking routes. Milan's parks are well-maintained and dog owners are numerous — you will feel at home.",
+      "introFr": "Milan est mieux dotée en parcs publics que sa réputation ne le suggère. Le Sempione, le Parco Nord et le Parco delle Cave sont tous excellents pour les chiens, et la ville dispose de dizaines d'aree cani (zones de liberté) désignées dans ses parcs. Les chemins de halage des Navigli offrent également d'excellents itinéraires de marche linéaires. Les parcs de Milan sont bien entretenus et les propriétaires de chiens nombreux — vous vous sentirez chez vous.",
+      "introEs": "Milán está más generosamente dotada de parques públicos de lo que sugiere su reputación. El Sempione, el Parco Nord y el Parco delle Cave son todos excelentes para los perros, y la ciudad tiene decenas de aree cani (zonas sin correa) designadas distribuidas por sus parques. Los caminos de sirga de los Navigli también proporcionan excelentes rutas de caminata lineales. Los parques de Milán están bien mantenidos y los dueños de perros son numerosos — te sentirás como en casa.",
+      "places": [
+        {
+          "name": "Parco Sempione",
+          "type": "Historic city park. On-leash with designated areas",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.comune.milano.it/aree-tematiche/verde-e-natura/parchi/parco-sempione",
+          "description": "Milan's most central and famous park, surrounding the Sforzesco Castle, covering 47 hectares of lawns, paths, and a central lake. Dogs are welcome on-leash throughout and there are designated aree cani where off-leash play is permitted. The park is a favourite of Milanese dog owners and on any morning you will see dozens of dogs. Several café kiosks within the park welcome dogs on their outdoor terraces.",
+          "descriptionFr": "Le parc le plus central et le plus célèbre de Milan, entourant le château des Sforza, couvrant 47 hectares de pelouses, chemins et un lac central. Les chiens sont bienvenus en laisse partout et il existe des aree cani désignées où les jeux sans laisse sont autorisés. Le parc est un favori des propriétaires de chiens milanais et chaque matin vous verrez des dizaines de chiens. Plusieurs kiosques café dans le parc accueillent les chiens sur leurs terrasses extérieures.",
+          "descriptionEs": "El parque más central y famoso de Milán, que rodea el Castillo Sforzesco, cubre 47 hectáreas de praderas, senderos y un lago central. Los perros son bienvenidos con correa en todo el parque y hay aree cani designadas donde se permite el juego sin correa. El parque es favorito de los dueños de perros milaneses y cualquier mañana verás decenas de perros. Varios quioscos de café dentro del parque reciben perros en sus terrazas exteriores.",
+          "offLeash": true,
+          "offLeashArea": "Multiple designated aree cani. Look for signed fenced areas within the park.",
+          "offLeashAreaFr": "Plusieurs aree cani désignées. Repérez les zones clôturées signalées dans le parc.",
+          "offLeashAreaEs": "Múltiples aree cani designadas. Busca las zonas cercadas señalizadas dentro del parque.",
+          "tip": "Go early on weekday mornings — before 8am is magical. The park fills quickly from 9am onwards on weekends.",
+          "tipFr": "Allez tôt en semaine le matin — avant 8h c'est magique. Le parc se remplit rapidement à partir de 9h le week-end.",
+          "tipEs": "Ve temprano las mañanas entre semana — antes de las 8h es mágico. El parque se llena rápidamente a partir de las 9h los fines de semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Sempione+Milano"
+        },
+        {
+          "name": "Parco Nord Milano",
+          "type": "Large urban forest park. Best for big dogs needing space",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.parconord.milano.it/",
+          "description": "At 600 hectares, Parco Nord is one of the largest urban parks in Italy and the best option in the Milan area for dogs needing real space. The park has multiple aree cani, kilometres of trails, open meadows, and wooded areas. It is a favourite of Milan's dog-owning community for weekend outings. Several dog-friendly cafés and kiosks are located within the park.",
+          "descriptionFr": "Avec ses 600 hectares, le Parco Nord est l'un des plus grands parcs urbains d'Italie et la meilleure option dans la région de Milan pour les chiens ayant besoin de vrai espace. Le parc dispose de plusieurs aree cani, de kilomètres de sentiers, de prairies ouvertes et de zones boisées. Il est le favori de la communauté canine milanaise pour les sorties du week-end. Plusieurs cafés et kiosques dog-friendly sont situés dans le parc.",
+          "descriptionEs": "Con 600 hectáreas, el Parco Nord es uno de los parques urbanos más grandes de Italia y la mejor opción en el área de Milán para perros que necesitan espacio real. El parque tiene múltiples aree cani, kilómetros de senderos, praderas abiertas y zonas arboladas. Es el favorito de la comunidad canina de Milán para las salidas de fin de semana. Varios cafés y quioscos aptos para perros están ubicados dentro del parque.",
+          "offLeash": true,
+          "offLeashArea": "Multiple designated aree cani throughout the park. Extensive trail network for on-leash walking.",
+          "offLeashAreaFr": "Plusieurs aree cani désignées dans tout le parc. Vaste réseau de sentiers pour la marche en laisse.",
+          "offLeashAreaEs": "Múltiples aree cani designadas por todo el parque. Extensa red de senderos para caminar con correa.",
+          "tip": "Take the metro (M3 or M5) to the northern edges of the city then walk or take a short bus ride to the park entrance.",
+          "tipFr": "Prenez le métro (M3 ou M5) jusqu'aux bordures nord de la ville puis marchez ou prenez un court trajet en bus jusqu'à l'entrée du parc.",
+          "tipEs": "Toma el metro (M3 o M5) hasta los bordes norte de la ciudad y luego camina o toma un corto trayecto en autobús hasta la entrada del parque.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Nord+Milano"
+        },
+        {
+          "name": "Giardini Pubblici Indro Montanelli",
+          "type": "Historic central gardens. On-leash with small dog area",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.comune.milano.it/",
+          "description": "The Giardini Pubblici, Milan's oldest public garden (1784), is centrally located between Porta Venezia and Palestro and is a genuinely pleasant on-leash walking space. There is a small designated dog area, and the tree-lined paths and pond make for a relaxing break in the middle of the city. Located directly next to the Villa Reale and the Museum of Natural History — both excellent for dog walks around their perimeters.",
+          "descriptionFr": "Les Giardini Pubblici, le plus ancien jardin public de Milan (1784), est situé en plein centre entre Porta Venezia et Palestro et constitue un espace de promenade en laisse vraiment agréable. Il y a une petite zone canine désignée, et les allées bordées d'arbres et l'étang offrent une pause reposante au cœur de la ville. Situé directement à côté de la Villa Reale et du Musée d'Histoire Naturelle — tous deux excellents pour les promenades autour de leurs périmètres.",
+          "descriptionEs": "Los Giardini Pubblici, el jardín público más antiguo de Milán (1784), está ubicado en el centro entre Porta Venezia y Palestro y es un espacio de paseo con correa genuinamente agradable. Hay una pequeña zona canina designada, y los senderos arbolados y el estanque hacen de ello un descanso relajante en medio de la ciudad. Ubicado directamente al lado de la Villa Reale y el Museo de Historia Natural — ambos excelentes para paseos alrededor de sus perímetros.",
+          "offLeash": true,
+          "offLeashArea": "Small designated area cani near the Palestro entrance.",
+          "offLeashAreaFr": "Petite area cani désignée près de l'entrée Palestro.",
+          "offLeashAreaEs": "Pequeña area cani designada cerca de la entrada de Palestro.",
+          "tip": "Combine with a visit to the Brera and Porta Venezia neighbourhoods for outdoor dining. The gardens are a short walk from both.",
+          "tipFr": "Combinez avec une visite des quartiers Brera et Porta Venezia pour dîner en terrasse. Les jardins sont à courte distance à pied des deux.",
+          "tipEs": "Combina con una visita a los barrios de Brera y Porta Venezia para comer al aire libre. Los jardines están a corta distancia a pie de ambos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Giardini+Pubblici+Indro+Montanelli+Milano"
+        },
+        {
+          "name": "Navigli Canal Towpaths",
+          "type": "Canal-side walking route. On-leash",
+          "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80",
+          "description": "The Naviglio Grande and Naviglio Pavese canals, running south from the city centre, have canal-side towpaths that provide excellent linear dog walks of several kilometres. The towpaths are flat, relatively quiet in the mornings, and lined with the backs of the canal-side houses and bars. Dogs are entirely normal here. The best walking is between the Porta Ticinese locks and the southern residential sections of both canals.",
+          "descriptionFr": "Le Naviglio Grande et le Naviglio Pavese, qui s'étendent au sud depuis le centre-ville, disposent de chemins de halage au bord du canal qui offrent d'excellentes promenades linéaires avec chien de plusieurs kilomètres. Les chemins de halage sont plats, relativement calmes le matin, et bordés des arrières des maisons et des bars le long du canal. Les chiens y sont tout à fait normaux. La meilleure marche se fait entre les écluses de Porta Ticinese et les sections résidentielles sud des deux canaux.",
+          "descriptionEs": "El Naviglio Grande y el Naviglio Pavese, que corren hacia el sur desde el centro de la ciudad, tienen caminos de sirga junto al canal que proporcionan excelentes caminatas lineales de varios kilómetros para perros. Los caminos de sirga son planos, relativamente tranquilos por las mañanas, y están flanqueados por las partes traseras de las casas y bares junto al canal. Los perros son totalmente normales aquí. La mejor caminata es entre las esclusas de Porta Ticinese y las secciones residenciales del sur de ambos canales.",
+          "offLeash": false,
+          "offLeashArea": "On-leash throughout. No designated off-leash zones on the towpaths.",
+          "offLeashAreaFr": "En laisse partout. Pas de zones de liberté désignées sur les chemins de halage.",
+          "offLeashAreaEs": "Con correa en todo el recorrido. No hay zonas sin correa designadas en los caminos de sirga.",
+          "tip": "Best walked in the morning (before 09:00) or evening (after 19:00) when aperitivo crowds haven't yet arrived. The 3km stretch of Naviglio Grande towpath is Milan's best urban dog walk.",
+          "tipFr": "À mieux parcourir le matin (avant 9h00) ou le soir (après 19h00) avant l'arrivée des foules de l'aperitivo. Le tronçon de 3 km du chemin de halage du Naviglio Grande est la meilleure promenade urbaine pour chien à Milan.",
+          "tipEs": "Mejor recorrerlo por la mañana (antes de las 09:00) o por la tarde-noche (después de las 19:00) antes de que lleguen las multitudes del aperitivo. El tramo de 3 km del camino de sirga del Naviglio Grande es el mejor paseo urbano para perros de Milán.",
+          "googleMapsUrl": "https://maps.google.com/?q=Naviglio+Grande+Milano"
+        }
+      ],
+      "tipsEn": [
+        "Dogs must be on-leash in all Milan public spaces except designated aree cani. Fines apply for off-leash violations.",
+        "Milan's tram lines can surprise dogs — be aware of tram tracks on the main streets and keep your dog close on leash.",
+        "Parco Nord is the best destination for large or high-energy dogs. It's a 600-hectare park with kilometres of trails.",
+        "Milan's many public fountains (fontanelle) are excellent for keeping dogs hydrated on summer walks — look for the distinctive green dome."
+      ],
+      "tipsFr": [
+        "Les chiens doivent être en laisse dans tous les espaces publics de Milan, sauf dans les aree cani désignées. Des amendes s'appliquent en cas d'infraction.",
+        "Les lignes de tram de Milan peuvent surprendre les chiens — soyez attentif aux rails de tram dans les rues principales et gardez votre chien proche en laisse.",
+        "Le Parco Nord est la meilleure destination pour les chiens grands ou pleins d'énergie. C'est un parc de 600 hectares avec des kilomètres de sentiers.",
+        "Les nombreuses fontaines publiques de Milan (fontanelle) sont excellentes pour hydrater les chiens lors des promenades estivales — repérez le dôme vert caractéristique."
+      ],
+      "tipsEs": [
+        "Los perros deben ir con correa en todos los espacios públicos de Milán excepto en las aree cani designadas. Se aplican multas por infracciones.",
+        "Los tranvías de Milán pueden sorprender a los perros — ten cuidado con las vías del tranvía en las calles principales y mantén a tu perro cerca con correa.",
+        "El Parco Nord es el mejor destino para perros grandes o de alta energía. Es un parque de 600 hectáreas con kilómetros de senderos.",
+        "Las numerosas fuentes públicas de Milán (fontanelle) son excelentes para mantener hidratados a los perros en los paseos de verano — busca la característica cúpula verde."
+      ],
+      "faqsEn": [
+        {
+          "q": "What is the best park for dogs in Milan?",
+          "a": "Parco Nord is the best park for dogs needing real space — 600 hectares with multiple aree cani and extensive trails. For something more central, Parco Sempione is excellent and well-located near the Sforzesco Castle."
+        },
+        {
+          "q": "Are there off-leash areas for dogs in Milan?",
+          "a": "Yes. Milan has numerous designated aree cani (fenced off-leash zones) in its parks. Parco Sempione, Parco Nord, and Giardini Pubblici all have designated areas. Look for signed fenced zones within the parks."
+        },
+        {
+          "q": "Can I walk my dog along the Navigli canals?",
+          "a": "Yes. The Naviglio Grande and Naviglio Pavese towpaths are excellent for on-leash dog walks of several kilometres. Best in the morning before the aperitivo crowds arrive. Dogs are entirely normal along the Navigli."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quel est le meilleur parc pour les chiens à Milan ?",
+          "a": "Le Parco Nord est le meilleur parc pour les chiens ayant besoin de vrai espace — 600 hectares avec plusieurs aree cani et de nombreux sentiers. Pour quelque chose de plus central, le Parco Sempione est excellent et bien situé près du château des Sforza."
+        },
+        {
+          "q": "Y a-t-il des zones sans laisse pour les chiens à Milan ?",
+          "a": "Oui. Milan dispose de nombreuses aree cani désignées (zones de liberté clôturées) dans ses parcs. Le Parco Sempione, le Parco Nord et les Giardini Pubblici disposent tous de zones désignées. Repérez les zones clôturées signalées dans les parcs."
+        },
+        {
+          "q": "Puis-je me promener avec mon chien le long des canaux des Navigli ?",
+          "a": "Oui. Les chemins de halage du Naviglio Grande et du Naviglio Pavese sont excellents pour des promenades en laisse de plusieurs kilomètres. Le mieux est le matin avant l'arrivée des foules de l'aperitivo. Les chiens sont tout à fait normaux le long des Navigli."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es el mejor parque para perros en Milán?",
+          "a": "El Parco Nord es el mejor parque para perros que necesitan espacio real — 600 hectáreas con múltiples aree cani y senderos extensos. Para algo más central, el Parco Sempione es excelente y bien ubicado cerca del Castillo Sforzesco."
+        },
+        {
+          "q": "¿Hay zonas sin correa para perros en Milán?",
+          "a": "Sí. Milán tiene numerosas aree cani designadas (zonas cercadas sin correa) en sus parques. El Parco Sempione, el Parco Nord y los Giardini Pubblici tienen todos zonas designadas. Busca las zonas cercadas señalizadas dentro de los parques."
+        },
+        {
+          "q": "¿Puedo pasear a mi perro a lo largo de los canales Navigli?",
+          "a": "Sí. Los caminos de sirga del Naviglio Grande y el Naviglio Pavese son excelentes para paseos de varios kilómetros con correa. Lo mejor es por la mañana antes de que lleguen las multitudes del aperitivo. Los perros son totalmente normales a lo largo de los Navigli."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Milan",
+      "titleFr": "Voyager avec son animal à Milan",
+      "titleEs": "Viajar con mascotas en Milán",
+      "introEn": "Milan's public transport network (ATM) is one of Italy's most comprehensive, covering the city with 4 metro lines, trams, and buses. For dogs: small dogs in a carrier travel free on all ATM services; larger dogs require a muzzle, leash, and a reduced-rate ticket. Milan is also a major intercity rail hub (Milano Centrale), connecting to the rest of Italy and Europe. For dogs on trains, the standard Trenitalia rules apply.",
+      "introFr": "Le réseau de transports en commun de Milan (ATM) est l'un des plus complets d'Italie, couvrant la ville avec 4 lignes de métro, des tramways et des bus. Pour les chiens : les petits chiens dans un sac voyagent gratuitement sur tous les services ATM ; les grands chiens nécessitent une muselière, une laisse et un billet à tarif réduit. Milan est également un grand hub ferroviaire intercités (Milano Centrale), reliant le reste de l'Italie et de l'Europe. Pour les chiens dans les trains, les règles standard Trenitalia s'appliquent.",
+      "introEs": "La red de transporte público de Milán (ATM) es una de las más completas de Italia, cubriendo la ciudad con 4 líneas de metro, tranvías y autobuses. Para los perros: los perros pequeños en transportín viajan gratis en todos los servicios de ATM; los perros más grandes necesitan bozal, correa y un billete a tarifa reducida. Milán es también un importante nodo ferroviario interurbano (Milano Centrale), que conecta con el resto de Italia y Europa. Para perros en trenes, se aplican las normas estándar de Trenitalia.",
+      "rules": [
+        {
+          "mode": "Metro, Tram & Bus (ATM)",
+          "modeFr": "Métro, Tram & Bus (ATM)",
+          "modeEs": "Metro, Tranvía y Autobús (ATM)",
+          "policy": "Small dogs in carrier: free. Larger dogs: muzzle + leash required + reduced-rate ticket. Maximum 1 dog per passenger. Dogs must not occupy seats. Source: atm.it",
+          "policyFr": "Petits chiens en sac : gratuit. Grands chiens : muselière + laisse obligatoires + billet tarif réduit. Maximum 1 chien par passager. Les chiens ne doivent pas occuper les sièges. Source : atm.it",
+          "policyEs": "Perros pequeños en transportín: gratis. Perros grandes: bozal + correa obligatorios + billete tarifa reducida. Máximo 1 perro por pasajero. Los perros no pueden ocupar asientos. Fuente: atm.it",
+          "tip": "Milan's M2 metro line connects to the Navigli (Porta Genova stop) and M1 to Parco Sempione (Cadorna stop). Most central sightseeing is walkable.",
+          "tipFr": "La ligne M2 du métro de Milan relie les Navigli (arrêt Porta Genova) et la M1 le Parco Sempione (arrêt Cadorna). La plupart des visites touristiques centrales sont praticables à pied.",
+          "tipEs": "La línea M2 del metro de Milán conecta con los Navigli (parada Porta Genova) y la M1 con el Parco Sempione (parada Cadorna). La mayoría de las visitas turísticas centrales son practicables a pie."
+        },
+        {
+          "mode": "Intercity Train (from Milano Centrale or Porta Garibaldi)",
+          "modeFr": "Train intercités (depuis Milano Centrale ou Porta Garibaldi)",
+          "modeEs": "Tren interurbano (desde Milano Centrale o Porta Garibaldi)",
+          "policy": "Standard Trenitalia rules. Small dogs in carrier (under 10 kg incl. carrier): free on all trains. Large dogs: not permitted on Frecciarossa/Frecciargento; allowed on regional trains with half-price ticket + muzzle + leash.",
+          "policyFr": "Règles Trenitalia standard. Petits chiens en sac (moins de 10 kg sac compris) : gratuit sur tous les trains. Grands chiens : non admis sur les Frecciarossa/Frecciargento ; admis en trains régionaux avec billet demi-tarif + muselière + laisse.",
+          "policyEs": "Normas estándar de Trenitalia. Perros pequeños en transportín (menos de 10 kg incluyendo el transportín): gratis en todos los trenes. Perros grandes: no permitidos en Frecciarossa/Frecciargento; permitidos en trenes regionales con billete a mitad de precio + bozal + correa.",
+          "tip": "For Ligurian coast beaches (nearest dog-friendly sea beaches from Milan), take a regional train from Milano Centrale to Genova (1.5h) or Rapallo/Sestri Levante.",
+          "tipFr": "Pour les plages de la côte ligurienne (les plages de mer dog-friendly les plus proches de Milan), prenez un train régional depuis Milano Centrale jusqu'à Gênes (1h30) ou Rapallo/Sestri Levante.",
+          "tipEs": "Para las playas de la costa de Liguria (las playas de mar más cercanas aptas para perros desde Milán), toma un tren regional desde Milano Centrale hasta Génova (1,5h) o Rapallo/Sestri Levante."
+        },
+        {
+          "mode": "Taxi / Uber",
+          "modeFr": "Taxi / Uber",
+          "modeEs": "Taxi / Uber",
+          "policy": "Milan taxis generally accept dogs, especially in carriers. Uber drivers may decline. Book official taxis via the itTaxi app and specify you have a dog. Official Milan taxi: +39 02 4040, 02 6969, 02 8585.",
+          "policyFr": "Les taxis milanais acceptent généralement les chiens, surtout en sac. Les chauffeurs Uber peuvent refuser. Réservez les taxis officiels via l'appli itTaxi en précisant que vous avez un chien. Taxi officiel Milan : +39 02 4040, 02 6969, 02 8585.",
+          "policyEs": "Los taxis de Milán generalmente aceptan perros, especialmente en transportín. Los conductores de Uber pueden rechazar. Reserva taxis oficiales a través de la app itTaxi y especifica que llevas un perro. Taxi oficial Milán: +39 02 4040, 02 6969, 02 8585.",
+          "tip": "For Malpensa airport transfers with a large dog, book a pet-friendly taxi in advance. Journey: 45–60 min from the city centre.",
+          "tipFr": "Pour les transferts à l'aéroport de Malpensa avec un grand chien, réservez à l'avance un taxi acceptant les animaux. Trajet : 45 à 60 min depuis le centre-ville.",
+          "tipEs": "Para los traslados al aeropuerto de Malpensa con un perro grande, reserva con antelación un taxi apto para mascotas. Trayecto: 45-60 min desde el centro de la ciudad."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "ATM Milan: atm.it — metro, tram, and bus routes, tickets, and pet rules. itTaxi app: book official Milan taxis. Trenitalia: trenitalia.com — intercity and regional trains. Milan is Italy's main high-speed rail hub: Rome (2h55), Florence (1h40), Venice (2h20) by Frecciarossa.",
+          "contentFr": "ATM Milan : atm.it — lignes de métro, tram et bus, billets et règles pour animaux. Application itTaxi : réservez les taxis officiels de Milan. Trenitalia : trenitalia.com — trains intercités et régionaux. Milan est le principal hub ferroviaire grande vitesse d'Italie : Rome (2h55), Florence (1h40), Venise (2h20) en Frecciarossa.",
+          "contentEs": "ATM Milán: atm.it — líneas de metro, tranvía y autobús, billetes y normas para mascotas. App itTaxi: reserva taxis oficiales de Milán. Trenitalia: trenitalia.com — trenes interurbanos y regionales. Milán es el principal nodo ferroviario de alta velocidad de Italia: Roma (2h55), Florencia (1h40), Venecia (2h20) en Frecciarossa."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Milan metro?",
+          "a": "Yes. Small dogs in a carrier travel free on ATM metro, trams, and buses. Larger dogs need a muzzle, leash, and a reduced-rate ticket. Maximum one dog per passenger. Source: atm.it"
+        },
+        {
+          "q": "How do I get to the Ligurian coast beaches from Milan with my dog?",
+          "a": "Take a regional Trenitalia train from Milano Centrale to Genova, Rapallo, or Sestri Levante (1.5–2 hours). Large dogs allowed on regional trains with half-price ticket, muzzle, and leash. The Ligurian coast has several designated dog beaches."
+        },
+        {
+          "q": "Can large dogs travel by Frecciarossa from Milan?",
+          "a": "No. Dogs over 10 kg (including the carrier) are not permitted on Frecciarossa or Frecciargento high-speed trains. Use Trenitalia regional trains instead, where large dogs can travel with a half-price ticket, muzzle, and leash."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le métro de Milan ?",
+          "a": "Oui. Les petits chiens dans un sac voyagent gratuitement sur le métro, les tramways et les bus ATM. Les grands chiens ont besoin d'une muselière, d'une laisse et d'un billet à tarif réduit. Maximum un chien par passager. Source : atm.it"
+        },
+        {
+          "q": "Comment rejoindre les plages de la côte ligurienne depuis Milan avec mon chien ?",
+          "a": "Prenez un train régional Trenitalia depuis Milano Centrale jusqu'à Gênes, Rapallo ou Sestri Levante (1h30–2h). Les grands chiens sont autorisés sur les trains régionaux avec un billet demi-tarif, une muselière et une laisse. La côte ligurienne dispose de plusieurs plages réservées aux chiens."
+        },
+        {
+          "q": "Les grands chiens peuvent-ils voyager en Frecciarossa depuis Milan ?",
+          "a": "Non. Les chiens de plus de 10 kg (sac compris) ne sont pas autorisés sur les Frecciarossa ou Frecciargento. Utilisez les trains régionaux Trenitalia, où les grands chiens peuvent voyager avec un billet demi-tarif, une muselière et une laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el metro de Milán?",
+          "a": "Sí. Los perros pequeños en transportín viajan gratis en metro, tranvías y autobuses de ATM. Los perros más grandes necesitan bozal, correa y un billete a tarifa reducida. Máximo un perro por pasajero. Fuente: atm.it"
+        },
+        {
+          "q": "¿Cómo llego a las playas de la costa de Liguria desde Milán con mi perro?",
+          "a": "Toma un tren regional de Trenitalia desde Milano Centrale hasta Génova, Rapallo o Sestri Levante (1,5-2 horas). Los perros grandes están permitidos en los trenes regionales con billete a mitad de precio, bozal y correa. La costa de Liguria tiene varias playas designadas para perros."
+        },
+        {
+          "q": "¿Pueden los perros grandes viajar en Frecciarossa desde Milán?",
+          "a": "No. Los perros de más de 10 kg (incluyendo el transportín) no están permitidos en Frecciarossa o Frecciargento. Usa los trenes regionales de Trenitalia, donde los perros grandes pueden viajar con un billete a mitad de precio, bozal y correa."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Milan",
+      "titleFr": "Plages accessibles aux chiens près de Milan",
+      "titleEs": "Playas para perros cerca de Milán",
+      "introEn": "Milan is inland, approximately 100 km from the nearest sea coast. The Ligurian Riviera (Genova, Rapallo, Sestri Levante) is the closest coastal option, reachable by regional train in 1.5–2 hours. Lake Maggiore and Lake Como, closer to Milan, offer excellent freshwater swimming and dog-accessible lake shores as alternative non-sea options. Dog-beach rules on the Ligurian coast follow the same Italian pattern: designated sections in summer, broader access outside June–September.",
+      "introFr": "Milan est une ville intérieure, à environ 100 km de la côte maritime la plus proche. La Riviera Ligurienne (Gênes, Rapallo, Sestri Levante) est l'option côtière la plus proche, accessible en train régional en 1h30 à 2h. Les lacs Majeur et de Côme, plus proches de Milan, offrent d'excellentes baignades en eau douce et des rives de lac accessibles aux chiens comme alternatives non maritimes. Les règles pour les chiens sur les plages de la côte ligurienne suivent le même schéma italien : des sections désignées en été, un accès plus large en dehors de juin–septembre.",
+      "introEs": "Milán es una ciudad interior, a aproximadamente 100 km de la costa marítima más cercana. La Riviera Ligure (Génova, Rapallo, Sestri Levante) es la opción costera más cercana, accesible en tren regional en 1,5-2 horas. Los lagos Maggiore y Como, más cercanos a Milán, ofrecen excelente natación en agua dulce y orillas de lago accesibles para perros como alternativas no marítimas. Las normas para perros en las playas de la costa ligure siguen el mismo patrón italiano: secciones designadas en verano, acceso más amplio fuera de junio–septiembre.",
+      "places": [
+        {
+          "name": "Sestri Levante — Baia del Silenzio (dog-accessible areas)",
+          "distance": "1h 50min by regional train from Milano Centrale",
+          "description": "Sestri Levante on the Ligurian coast is one of the most beautiful small resort towns on the Italian Riviera. It has designated dog-beach areas (outside the main Baia del Silenzio bay which is restricted in summer). The town itself is extremely dog-friendly year-round, with many outdoor cafés and restaurants welcoming dogs on terraces.",
+          "season": "Year-round. Designated dog sections in summer; broader access October–May.",
+          "rules": "Main beaches restricted June–September. Designated dog areas operative in summer. Dogs on-leash on access paths and promenade.",
+          "facilities": "Cafes, restaurants, parking, train station in town.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sestri+Levante"
+        },
+        {
+          "name": "Rapallo — Dog-Friendly Beach Section",
+          "distance": "1h 40min by regional train from Milano Centrale",
+          "description": "Rapallo has a well-established tourist infrastructure and a designated dog beach section. The promenade (lungomare) is excellent for dog walks year-round. Several beach bars near the dog section are dog-friendly. The Portofino peninsula nearby offers spectacular coastal walks for dogs (on-leash, trail walking).",
+          "season": "Year-round. Dog section operative in summer; broader beach access October–May.",
+          "rules": "Designated dog section in summer. Dogs prohibited from main lido sections June–September. On-leash required.",
+          "facilities": "Beach bars, parking, restaurants, train station.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rapallo+spiaggia+cani"
+        },
+        {
+          "name": "Lake Maggiore — Stresa & Ispra Shore",
+          "distance": "1 hr by train from Milano Centrale (Stresa)",
+          "description": "Lake Maggiore is Milan's nearest large lake, with a magnificent Alpine backdrop and extensive dog-accessible lake shores. Several lakeshore parks and beaches allow dogs freely outside the supervised swimming season. The lakeside promenades of Stresa, Baveno, and Arona are excellent for on-leash dog walks year-round. A genuinely beautiful alternative to sea beaches.",
+          "season": "Year-round. Lakeshore access freely available outside supervised bathing areas.",
+          "rules": "Dogs on-leash on promenades and in town parks. Some lake shore areas allow off-leash. Avoid supervised swimming areas.",
+          "facilities": "Cafes on the promenade, restaurants, parking, train connections.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lago+Maggiore+Stresa"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog-friendly beaches near Milan?",
+          "a": "The nearest sea beaches are on the Ligurian coast (Rapallo, Sestri Levante — 1.5–2 hours by regional train). Both have designated dog beach sections. Lake Maggiore (1 hour by train) is an excellent freshwater alternative with dog-accessible lake shores."
+        },
+        {
+          "q": "Can I take a day trip to the beach from Milan with my dog?",
+          "a": "Yes. Rapallo or Sestri Levante by regional train (1.5–2 hours each way) makes for a manageable day trip. Large dogs travel with a half-price ticket, muzzle, and leash on regional Trenitalia trains."
+        },
+        {
+          "q": "Is Lake Como dog-friendly?",
+          "a": "Yes. The promenades of Bellagio, Como town, and Varenna are all accessible with dogs on-leash. Some lake shore areas allow dogs to access the water. The lake is 1 hour by train from Milano Centrale."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des plages dog-friendly près de Milan ?",
+          "a": "Les plages de mer les plus proches sont sur la côte ligurienne (Rapallo, Sestri Levante — 1h30 à 2h en train régional). Toutes deux disposent de sections de plage réservées aux chiens. Le lac Majeur (1h en train) est une excellente alternative en eau douce avec des rives de lac accessibles aux chiens."
+        },
+        {
+          "q": "Puis-je faire une excursion d'une journée à la plage depuis Milan avec mon chien ?",
+          "a": "Oui. Rapallo ou Sestri Levante en train régional (1h30 à 2h dans chaque sens) permet une excursion gérable à la journée. Les grands chiens voyagent avec un billet demi-tarif, une muselière et une laisse sur les trains régionaux Trenitalia."
+        },
+        {
+          "q": "Le lac de Côme est-il dog-friendly ?",
+          "a": "Oui. Les promenades de Bellagio, de la ville de Côme et de Varenna sont toutes accessibles avec des chiens en laisse. Certaines zones du bord du lac permettent aux chiens d'accéder à l'eau. Le lac est à 1 heure en train depuis Milano Centrale."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay playas para perros cerca de Milán?",
+          "a": "Las playas marítimas más cercanas están en la costa de Liguria (Rapallo, Sestri Levante — 1,5-2 horas en tren regional). Ambas tienen secciones de playa designadas para perros. El Lago Maggiore (1 hora en tren) es una excelente alternativa de agua dulce con orillas de lago accesibles para perros."
+        },
+        {
+          "q": "¿Puedo hacer una excursión de un día a la playa desde Milán con mi perro?",
+          "a": "Sí. Rapallo o Sestri Levante en tren regional (1,5-2 horas de ida) permite una excursión de un día manejable. Los perros grandes viajan con billete a mitad de precio, bozal y correa en los trenes regionales de Trenitalia."
+        },
+        {
+          "q": "¿El Lago de Como es apto para perros?",
+          "a": "Sí. Los paseos de Bellagio, la ciudad de Como y Varenna son todos accesibles con perros con correa. Algunas zonas de la orilla del lago permiten a los perros acceder al agua. El lago está a 1 hora en tren desde Milano Centrale."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Milan",
+      "titleFr": "Vétérinaires et urgences animales à Milan",
+      "titleEs": "Veterinarios y urgencias para animales en Milán",
+      "introEn": "Milan has excellent veterinary provision, including several 24-hour emergency clinics and specialist referral hospitals. It is one of the best-served Italian cities for veterinary care. EU pet passport, microchip, and up-to-date rabies vaccination required for all pets entering Italy. Emergency: 112.",
+      "introFr": "Milan dispose d'une excellente couverture vétérinaire, avec plusieurs cliniques d'urgence 24h/24 et des hôpitaux de référence spécialisés. C'est l'une des villes italiennes les mieux desservies en soins vétérinaires. Passeport UE, puce électronique et vaccination antirabique à jour obligatoires pour tous les animaux entrant en Italie. Urgences : 112.",
+      "introEs": "Milán tiene excelente cobertura veterinaria, incluyendo varias clínicas de urgencias de 24 horas y hospitales de derivación especializada. Es una de las ciudades italianas mejor atendidas para la atención veterinaria. Pasaporte UE de mascota, microchip y vacunación antirrábica al día obligatorios para todas las mascotas que entren en Italia. Emergencias: 112.",
+      "entryRequirements": {
+        "euPets": "Valid EU pet passport + microchip + rabies vaccination up to date. Source: salute.gov.it",
+        "nonEuPets": "Health certificate, microchip, rabies vaccination, possible titer test. Check salute.gov.it.",
+        "emergencyContacts": [
+          "Italy national emergency: 112",
+          "Milan ASL veterinary service: 02 8578 3700"
+        ]
+      },
+      "places": [
+        {
+          "name": "Clinica Veterinaria Nerviano (CVN) — 24h",
+          "address": "Via Lampugnano 99, 20151 Milano",
+          "neighborhood": "Lampugnano / northwest Milan",
+          "photo": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.clinicaveterinarianerviano.it/",
+          "description": "One of Milan's best-known multi-specialist veterinary clinics, offering general practice, emergency services, oncology, cardiology, and other specialisms. The clinic operates extended hours and has emergency coverage. Well-regarded by both local pet owners and expatriate residents. English-speaking vets available.",
+          "descriptionFr": "L'une des cliniques vétérinaires multi-spécialistes les plus reconnues de Milan, offrant médecine générale, services d'urgence, oncologie, cardiologie et d'autres spécialités. La clinique fonctionne avec des horaires étendus et dispose d'une couverture d'urgence. Très appréciée tant par les propriétaires d'animaux locaux que par les résidents expatriés. Vétérinaires anglophones disponibles.",
+          "descriptionEs": "Una de las clínicas veterinarias multiespecialistas más conocidas de Milán, que ofrece medicina general, servicios de urgencias, oncología, cardiología y otras especialidades. La clínica opera con horario ampliado y tiene cobertura de urgencias. Muy bien valorada tanto por los dueños de mascotas locales como por los residentes expatriados. Veterinarios anglohablantes disponibles.",
+          "phone": "Verify current phone at clinicaveterinarianerviano.it",
+          "emergency24h": true,
+          "openingHours": "Verify current emergency hours at clinicaveterinarianerviano.it",
+          "tip": "Call ahead before arriving for emergency cases. The clinic is reachable by taxi from central Milan in 20 minutes.",
+          "tipFr": "Appelez avant d'arriver pour les cas d'urgence. La clinique est accessible en taxi depuis le centre de Milan en 20 minutes.",
+          "tipEs": "Llama antes de llegar para los casos de urgencia. La clínica es accesible en taxi desde el centro de Milán en 20 minutos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Lampugnano+Milano"
+        },
+        {
+          "name": "Ospedale Veterinario I Portoni Rossi (nearest major referral — Bologna)",
+          "address": "Via Roma 57, 40069 Zola Predosa, Bologna",
+          "neighborhood": "Bologna (2 hours from Milan by Frecciarossa)",
+          "photo": "https://images.unsplash.com/photo-1581888227599-779811939961?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.iportonirossi.it/",
+          "description": "For context: Italy's largest and most comprehensively equipped 24-hour veterinary referral hospital is in Bologna, 2 hours from Milan by Frecciarossa. For most veterinary needs, Milan's own clinics (including CVN above) are more than adequate. However, for complex specialist referrals, the Portoni Rossi hospital in Bologna is the benchmark institution in northern Italy.",
+          "descriptionFr": "Pour information : l'hôpital vétérinaire de référence 24h le plus grand et le mieux équipé d'Italie est à Bologne, à 2h de Milan en Frecciarossa. Pour la plupart des besoins vétérinaires, les cliniques de Milan elles-mêmes (dont la CVN ci-dessus) sont plus que suffisantes. Cependant, pour les références spécialisées complexes, l'hôpital Portoni Rossi de Bologne est l'institution de référence en Italie du Nord.",
+          "descriptionEs": "Para referencia: el hospital veterinario de derivación de 24 horas más grande y mejor equipado de Italia está en Bolonia, a 2 horas de Milán en Frecciarossa. Para la mayoría de las necesidades veterinarias, las propias clínicas de Milán (incluyendo CVN arriba) son más que adecuadas. Sin embargo, para derivaciones especializadas complejas, el hospital Portoni Rossi en Bolonia es la institución de referencia en el norte de Italia.",
+          "phone": "Verify current phone at iportonirossi.it",
+          "emergency24h": true,
+          "openingHours": "24 hours, 7 days. Verify at iportonirossi.it",
+          "tip": "Milan's own clinics handle the vast majority of emergency cases. Only use the Bologna referral for very complex specialist cases.",
+          "tipFr": "Les cliniques de Milan gèrent la grande majorité des cas d'urgence. N'utilisez la référence de Bologne que pour des cas spécialisés très complexes.",
+          "tipEs": "Las propias clínicas de Milán manejan la gran mayoría de los casos de urgencia. Solo usa la derivación de Bolonia para casos especializados muy complejos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+I+Portoni+Rossi+Bologna"
+        }
+      ],
+      "tipsEn": [
+        "Save the Milan ASL veterinary emergency line in your phone: 02 8578 3700.",
+        "Milan has several 24-hour emergency veterinary clinics — better provisioned than most other Italian cities. Your hotel concierge can direct you to the nearest.",
+        "Always carry your pet's EU passport and vaccination records in Italy.",
+        "In Italian: ask for 'urgenza veterinaria' (veterinary emergency) or 'clinica veterinaria di pronto soccorso' (emergency vet clinic)."
+      ],
+      "tipsFr": [
+        "Enregistrez la ligne d'urgence vétérinaire ASL de Milan dans votre téléphone : 02 8578 3700.",
+        "Milan dispose de plusieurs cliniques vétérinaires d'urgence 24h/24 — mieux pourvue que la plupart des autres villes italiennes. Le concierge de votre hôtel peut vous indiquer la plus proche.",
+        "Emportez toujours le passeport UE et les carnets de vaccination de votre animal en Italie.",
+        "En italien : demandez 'urgenza veterinaria' (urgence vétérinaire) ou 'clinica veterinaria di pronto soccorso' (clinique vétérinaire d'urgence)."
+      ],
+      "tipsEs": [
+        "Guarda la línea de urgencias veterinarias ASL de Milán en tu teléfono: 02 8578 3700.",
+        "Milán tiene varias clínicas veterinarias de urgencias de 24 horas — mejor equipadas que la mayoría de otras ciudades italianas. El conserje de tu hotel puede indicarte la más cercana.",
+        "Lleva siempre el pasaporte UE y los registros de vacunación de tu mascota en Italia.",
+        "En italiano: pide 'urgenza veterinaria' (urgencia veterinaria) o 'clinica veterinaria di pronto soccorso' (clínica veterinaria de urgencias)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour emergency vet in Milan?",
+          "a": "Yes. Milan has several 24-hour emergency veterinary clinics. Call the Milan ASL veterinary line (02 8578 3700) for referral to the nearest open clinic, or call 112 (general emergency) and ask for veterinary assistance."
+        },
+        {
+          "q": "What documents do I need for my dog in Italy?",
+          "a": "EU-registered pets: valid EU pet passport, microchip, and up-to-date rabies vaccination. Non-EU pets: health certificate plus additional documentation. Check salute.gov.it for current requirements."
+        },
+        {
+          "q": "What should I do if my dog gets sick in Milan?",
+          "a": "Call 02 8578 3700 (Milan ASL vet emergency line) for referral to the nearest open clinic. For life-threatening emergencies, call 112. Milan is very well-served for emergency veterinary care compared to other Italian cities."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Milan ?",
+          "a": "Oui. Milan dispose de plusieurs cliniques vétérinaires d'urgence 24h/24. Appelez la ligne vétérinaire ASL de Milan (02 8578 3700) pour être orienté vers la clinique ouverte la plus proche, ou composez le 112 (urgences générales) et demandez une assistance vétérinaire."
+        },
+        {
+          "q": "De quels documents ai-je besoin pour mon chien en Italie ?",
+          "a": "Animaux enregistrés dans l'UE : passeport animal UE valide, puce électronique et vaccination antirabique à jour. Animaux non-UE : certificat sanitaire et documentation supplémentaire. Consultez salute.gov.it pour les exigences actuelles."
+        },
+        {
+          "q": "Que faire si mon chien tombe malade à Milan ?",
+          "a": "Appelez le 02 8578 3700 (ligne d'urgence vétérinaire ASL de Milan) pour être orienté vers la clinique ouverte la plus proche. Pour les urgences vitales, composez le 112. Milan est très bien desservie pour les soins vétérinaires d'urgence par rapport aux autres villes italiennes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario de urgencias de 24 horas en Milán?",
+          "a": "Sí. Milán tiene varias clínicas veterinarias de urgencias de 24 horas. Llama a la línea veterinaria ASL de Milán (02 8578 3700) para que te deriven a la clínica abierta más cercana, o llama al 112 (emergencias generales) y solicita asistencia veterinaria."
+        },
+        {
+          "q": "¿Qué documentos necesito para mi perro en Italia?",
+          "a": "Mascotas registradas en la UE: pasaporte de mascota UE válido, microchip y vacunación antirrábica al día. Mascotas no UE: certificado sanitario más documentación adicional. Consulta salute.gov.it para los requisitos actuales."
+        },
+        {
+          "q": "¿Qué hago si mi perro se pone enfermo en Milán?",
+          "a": "Llama al 02 8578 3700 (línea de urgencias veterinarias ASL de Milán) para que te deriven a la clínica abierta más cercana. Para emergencias potencialmente mortales, llama al 112. Milán está muy bien atendida para la atención veterinaria de urgencia en comparación con otras ciudades italianas."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Milan with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Milan avec un chien",
+      "titleEs": "Consejos esenciales para visitar Milán con un perro",
+      "introEn": "Milan is one of Italy's most practical cities for dog owners. The metro system is dog-friendly, the parks are good, the aperitivo culture is thoroughly compatible with dogs, and emergency veterinary care is excellent. The main constraint is the summer heat (July–August), which requires careful planning for walking, and the prohibition on dogs in Milan's major cultural institutions.",
+      "introFr": "Milan est l'une des villes les plus pratiques d'Italie pour les propriétaires de chiens. Le système de métro est dog-friendly, les parcs sont bons, la culture de l'aperitivo est parfaitement compatible avec les chiens, et les soins vétérinaires d'urgence sont excellents. La principale contrainte est la chaleur estivale (juillet–août), qui nécessite une planification soigneuse pour les promenades, et l'interdiction des chiens dans les principales institutions culturelles de Milan.",
+      "introEs": "Milán es una de las ciudades más prácticas de Italia para los dueños de perros. El sistema de metro es apto para perros, los parques son buenos, la cultura del aperitivo es totalmente compatible con los perros, y la atención veterinaria de urgencia es excelente. La principal limitación es el calor del verano (julio–agosto), que requiere una planificación cuidadosa para los paseos, y la prohibición de perros en las principales instituciones culturales de Milán.",
+      "places": [],
+      "tipsEn": [
+        "Dogs are not permitted in the Duomo di Milano (inside), the Pinacoteca di Brera, the Pinacoteca Ambrosiana, or the Last Supper (Cenacolo Vinciano). Plan museum visits with a pet-sitter.",
+        "Milan in July and August is extremely hot and humid. Walk your dog early morning (before 9am) and evening (after 7pm). The tram tracks are hot and can burn paws at midday.",
+        "The Navigli neighbourhood (canal district) is Milan's most dog-friendly area, especially during aperitivo hour. Canal-side terraces and bars welcome dogs as a matter of course.",
+        "Milan's public transport is dog-friendly with the right equipment. The ATM metro is the fastest way to get across the city with your dog.",
+        "The Parco Nord (north) and Parco delle Cave (west) are the best parks for large dogs needing real exercise. Both require a short metro + bus journey from the centre.",
+        "Milan has Italy's best emergency veterinary coverage. Save 02 8578 3700 (Milan ASL vet emergency) in your phone."
+      ],
+      "tipsFr": [
+        "Les chiens ne sont pas admis dans le Duomo di Milano (à l'intérieur), la Pinacothèque de Brera, la Pinacothèque Ambrosienne ni à la Cène (Cenacolo Vinciano). Planifiez les visites de musées avec un pet-sitter.",
+        "Milan en juillet et août est extrêmement chaud et humide. Promenez votre chien tôt le matin (avant 9h) et le soir (après 19h). Les rails de tram sont chauds et peuvent brûler les pattes à midi.",
+        "Le quartier des Navigli (quartier des canaux) est la zone la plus dog-friendly de Milan, surtout pendant l'heure de l'aperitivo. Les terrasses et bars au bord des canaux accueillent les chiens comme une évidence.",
+        "Les transports en commun de Milan sont dog-friendly avec le bon équipement. Le métro ATM est le moyen le plus rapide de traverser la ville avec votre chien.",
+        "Le Parco Nord (nord) et le Parco delle Cave (ouest) sont les meilleurs parcs pour les grands chiens ayant besoin de vrai exercice. Tous deux nécessitent un court trajet en métro + bus depuis le centre.",
+        "Milan dispose de la meilleure couverture vétérinaire d'urgence d'Italie. Enregistrez le 02 8578 3700 (ASL vétérinaire Milan urgences) dans votre téléphone."
+      ],
+      "tipsEs": [
+        "Los perros no están permitidos en el Duomo di Milano (interior), la Pinacoteca di Brera, la Pinacoteca Ambrosiana ni en la Última Cena (Cenacolo Vinciano). Planifica las visitas a los museos con un cuidador de mascotas.",
+        "Milán en julio y agosto es extremadamente calurosa y húmeda. Pasea a tu perro temprano por la mañana (antes de las 9h) y por la tarde-noche (después de las 19h). Las vías del tranvía están calientes y pueden quemar las patas al mediodía.",
+        "El barrio de los Navigli (barrio de los canales) es la zona más amigable para perros de Milán, especialmente durante la hora del aperitivo. Las terrazas y bares junto al canal reciben perros por norma.",
+        "El transporte público de Milán es apto para perros con el equipo adecuado. El metro ATM es la forma más rápida de cruzar la ciudad con tu perro.",
+        "El Parco Nord (norte) y el Parco delle Cave (oeste) son los mejores parques para perros grandes que necesitan ejercicio real. Ambos requieren un corto viaje en metro + autobús desde el centro.",
+        "Milán tiene la mejor cobertura veterinaria de urgencias de Italia. Guarda el 02 8578 3700 (ASL veterinaria Milán urgencias) en tu teléfono."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Milan a good city for dogs?",
+          "a": "Yes. Milan is one of Italy's most practical cities for dog owners. The metro system is dog-friendly, parks are numerous and well-maintained, the aperitivo culture is compatible with dogs, and veterinary care is excellent. The main issue in summer is the heat."
+        },
+        {
+          "q": "Can I visit the Duomo in Milan with my dog?",
+          "a": "The exterior square (Piazza del Duomo) is publicly accessible with dogs on-leash. Dogs cannot enter the Duomo cathedral itself. For interior visits, use a pet-sitter or take turns."
+        },
+        {
+          "q": "What is the most dog-friendly neighbourhood in Milan?",
+          "a": "The Navigli canal district is Milan's most dog-friendly neighbourhood, especially during aperitivo hour when the canal-side terraces fill with locals and their dogs. Isola and Brera are also good options with excellent outdoor dining."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Milan est-elle une bonne ville pour les chiens ?",
+          "a": "Oui. Milan est l'une des villes les plus pratiques d'Italie pour les propriétaires de chiens. Le système de métro est dog-friendly, les parcs sont nombreux et bien entretenus, la culture de l'aperitivo est compatible avec les chiens, et les soins vétérinaires sont excellents. Le problème principal en été est la chaleur."
+        },
+        {
+          "q": "Puis-je visiter le Duomo de Milan avec mon chien ?",
+          "a": "La place extérieure (Piazza del Duomo) est accessible au public avec des chiens en laisse. Les chiens ne peuvent pas entrer dans la cathédrale du Duomo elle-même. Pour les visites intérieures, faites appel à un pet-sitter ou relayez-vous."
+        },
+        {
+          "q": "Quel est le quartier le plus dog-friendly de Milan ?",
+          "a": "Le quartier des Navigli est le plus dog-friendly de Milan, surtout pendant l'heure de l'aperitivo quand les terrasses au bord des canaux se remplissent de locaux et de leurs chiens. Isola et Brera sont également de bonnes options avec d'excellentes restaurations en plein air."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Milán una buena ciudad para los perros?",
+          "a": "Sí. Milán es una de las ciudades más prácticas de Italia para los dueños de perros. El sistema de metro es apto para perros, los parques son numerosos y bien mantenidos, la cultura del aperitivo es compatible con los perros, y la atención veterinaria es excelente. El principal problema en verano es el calor."
+        },
+        {
+          "q": "¿Puedo visitar el Duomo de Milán con mi perro?",
+          "a": "La plaza exterior (Piazza del Duomo) es accesible públicamente con perros con correa. Los perros no pueden entrar en la catedral del Duomo en sí. Para las visitas al interior, usa un cuidador de mascotas o túrnate."
+        },
+        {
+          "q": "¿Cuál es el barrio más amigable para perros de Milán?",
+          "a": "El barrio de los Navigli es el más amigable para perros de Milán, especialmente durante la hora del aperitivo cuando las terrazas junto al canal se llenan de locales y sus perros. Isola y Brera también son buenas opciones con excelente gastronomía al aire libre."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Milan",
+      "titleFr": "Attractions acceptant les animaux à Milan",
+      "titleEs": "Atracciones con mascotas en Milán",
+      "introEn": "Milan's major cultural institutions (Duomo interior, Brera art gallery, Ambrosiana, Last Supper) do not permit dogs. However, the city's outdoor attractions — the Sforzesco Castle exterior and grounds, the Duomo square, the Navigli, and the design district — are all dog-accessible. Milan's design and fashion identity also creates a surprisingly large number of outdoor brand installations and markets where dogs are welcome.",
+      "introFr": "Les principales institutions culturelles de Milan (intérieur du Duomo, galerie Brera, Ambrosiane, Cène) n'admettent pas les chiens. Cependant, les attractions extérieures de la ville — l'extérieur et les abords du château des Sforza, la place du Duomo, les Navigli et le quartier du design — sont tous accessibles aux chiens. L'identité design et mode de Milan crée également un nombre étonnamment élevé d'installations de marques en plein air et de marchés où les chiens sont bienvenus.",
+      "introEs": "Las principales instituciones culturales de Milán (interior del Duomo, galería Brera, Ambrosiana, Última Cena) no permiten perros. Sin embargo, las atracciones al aire libre de la ciudad — el exterior y los terrenos del Castillo Sforzesco, la plaza del Duomo, los Navigli y el barrio del diseño — son todos accesibles para perros. La identidad del diseño y la moda de Milán también crea un número sorprendentemente grande de instalaciones de marcas al aire libre y mercados donde los perros son bienvenidos.",
+      "places": [
+        {
+          "name": "Castello Sforzesco & Parco Sempione",
+          "address": "Piazza Castello, 20121 Milano",
+          "neighborhood": "Brera / Magenta",
+          "photo": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.milanocastello.it/",
+          "description": "The Sforzesco Castle's outer courtyards and the surrounding Parco Sempione are fully accessible with dogs on-leash. The castle's exterior — its towers, moat, drawbridge, and the Piazza d'Armi (outer courtyard) — make for a spectacular dog walk. Dogs cannot enter the castle's museums and galleries, but the grounds are extensive. The immediate connection to Parco Sempione (see parks section) makes this an easy half-day circuit.",
+          "descriptionFr": "Les cours extérieures du château des Sforza et le Parco Sempione environnant sont entièrement accessibles avec des chiens en laisse. L'extérieur du château — ses tours, ses douves, son pont-levis et la Piazza d'Armi (cour extérieure) — offre un cadre spectaculaire pour une promenade avec chien. Les chiens ne peuvent pas entrer dans les musées et galeries du château, mais les abords sont vastes. La connexion immédiate au Parco Sempione (voir rubrique parcs) facilite un circuit d'une demi-journée.",
+          "descriptionEs": "Los patios exteriores del Castillo Sforzesco y el Parco Sempione circundante son totalmente accesibles con perros con correa. El exterior del castillo — sus torres, foso, puente levadizo y la Piazza d'Armi (patio exterior) — hacen de este lugar un espectacular paseo con perro. Los perros no pueden entrar en los museos y galerías del castillo, pero los terrenos son extensos. La conexión inmediata con el Parco Sempione (ver sección de parques) facilita un circuito de media jornada.",
+          "petPolicy": "Dogs on-leash welcome in all exterior areas. Not permitted in castle museums.",
+          "petPolicyFr": "Chiens en laisse bienvenus dans tous les espaces extérieurs. Non admis dans les musées du château.",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las áreas exteriores. No permitidos en los museos del castillo.",
+          "openingHours": "Castle exterior: open daily. Museums: Tue–Sun 09:00–17:30",
+          "tip": "Start at the castle at 08:00 when it is peaceful, then walk through to Parco Sempione for the morning dog-walking community.",
+          "tipFr": "Commencez au château à 8h00 quand c'est calme, puis traversez jusqu'au Parco Sempione pour rejoindre la communauté des promeneurs de chiens matinaux.",
+          "tipEs": "Comienza en el castillo a las 08:00 cuando está tranquilo, luego camina hasta el Parco Sempione para unirte a la comunidad de paseadores matutinos de perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Castello+Sforzesco+Milano"
+        },
+        {
+          "name": "Navigli Canal District",
+          "address": "Alzaia Naviglio Grande / Ripa di Porta Ticinese, 20143 Milano",
+          "neighborhood": "Navigli",
+          "photo": "https://images.unsplash.com/photo-1567521464027-f127ff144326?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.naviglimilano.it/",
+          "description": "The Navigli canal district is one of Milan's most atmospheric and charming areas, and the most dog-friendly. The Naviglio Grande canal, with its lock system, canal-side restaurants, design studios, and evening aperitivo bars, is entirely walkable with a dog. The Sunday antique market (Mercato dell'Antiquariato, last Sunday of each month) is an extraordinary event with dogs welcome throughout.",
+          "descriptionFr": "Le quartier des Navigli est l'un des plus atmosphériques et charmants de Milan, et le plus dog-friendly. Le Naviglio Grande, avec son système d'écluses, ses restaurants au bord du canal, ses studios de design et ses bars d'aperitivo nocturnes, est entièrement praticable avec un chien. Le marché aux puces du dimanche (Mercato dell'Antiquariato, le dernier dimanche de chaque mois) est un événement extraordinaire où les chiens sont bienvenus partout.",
+          "descriptionEs": "El barrio de los Navigli es uno de los más evocadores y encantadores de Milán, y el más amigable para perros. El Naviglio Grande, con su sistema de esclusas, restaurantes junto al canal, estudios de diseño y bares de aperitivo nocturnos, es totalmente practicable con un perro. El mercadillo de antigüedades del domingo (Mercato dell'Antiquariato, último domingo de cada mes) es un evento extraordinario con perros bienvenidos en todo el recinto.",
+          "petPolicy": "Dogs on-leash welcome throughout the canal district",
+          "petPolicyFr": "Chiens en laisse bienvenus dans tout le quartier des canaux",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el barrio de los canales",
+          "openingHours": "Open at all times. Antique market: last Sunday of month 09:00–18:00",
+          "tip": "The last Sunday of each month brings the Mercato dell'Antiquariato to the canal — 400 stalls, very dog-friendly, one of the best outdoor events in Milan.",
+          "tipFr": "Le dernier dimanche du mois, le Mercato dell'Antiquariato envahit le canal — 400 étals, très dog-friendly, l'un des meilleurs événements en plein air de Milan.",
+          "tipEs": "El último domingo de cada mes llega el Mercato dell'Antiquariato al canal — 400 puestos, muy apto para perros, uno de los mejores eventos al aire libre de Milán.",
+          "googleMapsUrl": "https://maps.google.com/?q=Naviglio+Grande+Milano"
+        },
+        {
+          "name": "Brera Design District Walk",
+          "address": "Brera neighbourhood, 20121 Milano",
+          "neighborhood": "Brera",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.brera.milano.it/",
+          "description": "The Brera neighbourhood — Milan's most artistic and bohemian district — is excellent for a dog walk. The cobblestone streets, design galleries with open doors, independent bookshops, and café terraces all create a pleasant circuit for an afternoon with a dog. The neighbourhood's outdoor art installations are frequently dog-inclusive. Several of the neighbourhood's café terraces are explicitly dog-welcoming.",
+          "descriptionFr": "Le quartier Brera — le quartier le plus artistique et bohème de Milan — est excellent pour une promenade avec chien. Les rues pavées, les galeries de design aux portes ouvertes, les librairies indépendantes et les terrasses de cafés créent tous un agréable circuit pour un après-midi avec un chien. Les installations d'art extérieur du quartier sont fréquemment dog-inclusives. Plusieurs terrasses de cafés du quartier accueillent explicitement les chiens.",
+          "descriptionEs": "El barrio de Brera — el barrio más artístico y bohemio de Milán — es excelente para un paseo con perro. Las calles adoquinadas, las galerías de diseño con puertas abiertas, las librerías independientes y las terrazas de los cafés crean todos un agradable circuito para una tarde con un perro. Las instalaciones de arte al aire libre del barrio son frecuentemente inclusivas con perros. Varias de las terrazas de café del barrio reciben explícitamente a los perros.",
+          "petPolicy": "Dogs on-leash welcome throughout the neighbourhood streets and café terraces",
+          "petPolicyFr": "Chiens en laisse bienvenus dans les rues du quartier et les terrasses de cafés",
+          "petPolicyEs": "Perros con correa bienvenidos en las calles del barrio y las terrazas de los cafés",
+          "openingHours": "Open at all times",
+          "tip": "Combine with the Pinacoteca di Brera exterior courtyard (dog-accessible) and adjacent Giardini Pubblici. A great half-day circuit.",
+          "tipFr": "Combinez avec la cour extérieure de la Pinacothèque de Brera (accessible aux chiens) et les Giardini Pubblici adjacents. Un excellent circuit d'une demi-journée.",
+          "tipEs": "Combina con el patio exterior de la Pinacoteca di Brera (accesible para perros) y los Giardini Pubblici adyacentes. Un excelente circuito de media jornada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brera+Milano"
+        }
+      ],
+      "tipsEn": [
+        "Major museum interiors do not allow dogs. The exteriors and squares of all major attractions (Duomo square, Castello Sforzesco grounds, Brera neighbourhood) are dog-accessible.",
+        "Milan's design identity means frequent outdoor events, pop-ups, and markets — most of which welcome dogs. Check the city's event calendar.",
+        "During Salone del Mobile (April), Milan's streets and outdoor spaces are particularly animated and dog-friendly, with many pop-up installations and events."
+      ],
+      "tipsFr": [
+        "Les intérieurs des grands musées n'admettent pas les chiens. Les extérieurs et places de toutes les grandes attractions (place du Duomo, abords du Castello Sforzesco, quartier Brera) sont accessibles aux chiens.",
+        "L'identité design de Milan se traduit par de fréquents événements extérieurs, pop-ups et marchés — dont la plupart accueillent les chiens. Consultez le calendrier des événements de la ville.",
+        "Durant le Salone del Mobile (avril), les rues et espaces extérieurs de Milan sont particulièrement animés et dog-friendly, avec de nombreuses installations pop-up et événements."
+      ],
+      "tipsEs": [
+        "Los interiores de los museos principales no admiten perros. Los exteriores y plazas de todas las atracciones principales (plaza del Duomo, terrenos del Castello Sforzesco, barrio de Brera) son accesibles para perros.",
+        "La identidad del diseño de Milán significa frecuentes eventos al aire libre, pop-ups y mercados — la mayoría de los cuales reciben perros. Consulta el calendario de eventos de la ciudad.",
+        "Durante el Salone del Mobile (abril), las calles y espacios exteriores de Milán son especialmente animados y aptos para perros, con muchas instalaciones pop-up y eventos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to see the Last Supper in Milan?",
+          "a": "No. The Cenacolo Vinciano (where the Last Supper is painted) does not permit dogs inside. You will need to leave your dog with a pet-sitter. Book Rover.com sitters well in advance — the Last Supper is one of Italy's most tightly ticketed attractions."
+        },
+        {
+          "q": "Can dogs enter the Sforzesco Castle?",
+          "a": "Dogs can access the castle's outdoor courtyards (including the Piazza d'Armi) but cannot enter the castle's interior museums. The grounds are extensive and make for a wonderful dog walk."
+        },
+        {
+          "q": "What outdoor attractions in Milan are dog-friendly?",
+          "a": "All of Milan's outdoor spaces are dog-friendly with dogs on-leash: the Navigli canal district, Parco Sempione, the Castello Sforzesco grounds, Brera neighbourhood streets, and the Giardini Pubblici. The city's outdoor events and markets are also largely dog-welcoming."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien voir la Cène à Milan ?",
+          "a": "Non. Le Cenacolo Vinciano (où est peinte la Cène) n'admet pas les chiens à l'intérieur. Vous devrez laisser votre chien avec un pet-sitter. Réservez des gardiens sur Rover.com bien à l'avance — la Cène est l'une des attractions les plus strictement billettées d'Italie."
+        },
+        {
+          "q": "Les chiens peuvent-ils entrer au château des Sforza ?",
+          "a": "Les chiens peuvent accéder aux cours extérieures du château (dont la Piazza d'Armi) mais ne peuvent pas entrer dans les musées intérieurs du château. Les abords sont vastes et constituent une merveilleuse promenade pour chien."
+        },
+        {
+          "q": "Quelles attractions extérieures de Milan sont dog-friendly ?",
+          "a": "Tous les espaces extérieurs de Milan sont dog-friendly avec des chiens en laisse : le quartier des Navigli, le Parco Sempione, les abords du Castello Sforzesco, les rues du quartier Brera et les Giardini Pubblici. Les événements extérieurs et marchés de la ville sont également largement accueillants pour les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a ver la Última Cena en Milán?",
+          "a": "No. El Cenacolo Vinciano (donde está pintada la Última Cena) no admite perros en el interior. Tendrás que dejar a tu perro con un cuidador. Reserva cuidadores en Rover.com con mucha antelación — la Última Cena es una de las atracciones más estrictamente entradas de Italia."
+        },
+        {
+          "q": "¿Pueden los perros entrar al Castillo Sforzesco?",
+          "a": "Los perros pueden acceder a los patios exteriores del castillo (incluyendo la Piazza d'Armi) pero no pueden entrar en los museos interiores del castillo. Los terrenos son extensos y hacen un maravilloso paseo para perros."
+        },
+        {
+          "q": "¿Qué atracciones al aire libre de Milán son aptas para perros?",
+          "a": "Todos los espacios exteriores de Milán son aptos para perros con correa: el barrio de los Navigli, el Parco Sempione, los terrenos del Castello Sforzesco, las calles del barrio de Brera y los Giardini Pubblici. Los eventos al aire libre y mercados de la ciudad también reciben mayoritariamente perros."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Care in Milan",
+      "titleFr": "Pet-sitting et garde d'animaux à Milan",
+      "titleEs": "Cuidado de mascotas en Milán",
+      "introEn": "Milan has one of Italy's most active pet-sitting communities, reflecting the city's large expatriate population and international character. Rover.com has a large number of active sitters across all central neighbourhoods, and the city also has several established dog daycare facilities (asili nido per cani) in both central and suburban locations. Book in advance for Last Supper and museum days.",
+      "introFr": "Milan dispose de l'une des communautés de pet-sitting les plus actives d'Italie, reflétant la grande population expatriée de la ville et son caractère international. Rover.com compte un grand nombre de gardiens actifs dans tous les quartiers centraux, et la ville dispose également de plusieurs garderies pour chiens bien établies (asili nido per cani) en centre-ville et en banlieue. Réservez à l'avance pour les journées Cène et musées.",
+      "introEs": "Milán tiene una de las comunidades de cuidado de mascotas más activas de Italia, reflejo de la gran población expatriada de la ciudad y su carácter internacional. Rover.com tiene un gran número de cuidadores activos en todos los barrios centrales, y la ciudad también tiene varias guarderías para perros establecidas (asili nido per cani) en ubicaciones tanto centrales como suburbanas. Reserva con antelación para los días de la Última Cena y museos.",
+      "places": [
+        {
+          "name": "Rover.com — Milan",
+          "address": "Online platform — sitters throughout Milan",
+          "neighborhood": "All Milan neighbourhoods",
+          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.rover.com/it/",
+          "description": "Rover.com lists a large number of vetted pet-sitters and dog-walkers across Milan's central neighbourhoods. Milan's international community means many sitters also speak English. Particularly useful for Last Supper (Cenacolo Vinciano) visit days, which are tightly timed and do not allow any flexibility for accompanying a dog.",
+          "descriptionFr": "Rover.com liste un grand nombre de pet-sitters et promeneurs de chiens vérifiés dans les quartiers centraux de Milan. La communauté internationale de Milan signifie que de nombreux gardiens parlent aussi anglais. Particulièrement utile pour les journées de visite de la Cène (Cenacolo Vinciano), qui sont très minutées et ne permettent aucune flexibilité pour accompagner un chien.",
+          "descriptionEs": "Rover.com lista un gran número de cuidadores de mascotas y paseadores de perros verificados en los barrios centrales de Milán. La comunidad internacional de Milán significa que muchos cuidadores también hablan inglés. Especialmente útil para los días de visita a la Última Cena (Cenacolo Vinciano), que están muy controlados en tiempo y no permiten ninguna flexibilidad para acompañar a un perro.",
+          "petPolicy": "Verified sitters, background checks, pet insurance included",
+          "petPolicyFr": "Gardiens vérifiés, vérification des antécédents, assurance animaux incluse",
+          "petPolicyEs": "Cuidadores verificados, comprobación de antecedentes, seguro de mascotas incluido",
+          "priceRange": "€€",
+          "openingHours": "Book online. Sitters available 7 days",
+          "tip": "Book at least 5–7 days in advance for Last Supper visits. Cenacolo tickets are extremely hard to get and sitters fill up on the same days.",
+          "tipFr": "Réservez au moins 5 à 7 jours à l'avance pour les visites de la Cène. Les billets du Cenacolo sont extrêmement difficiles à obtenir et les gardiens se réservent les mêmes jours.",
+          "tipEs": "Reserva con al menos 5-7 días de antelación para las visitas a la Última Cena. Las entradas del Cenacolo son extremadamente difíciles de conseguir y los cuidadores se llenan los mismos días.",
+          "googleMapsUrl": "https://maps.google.com/?q=Milan+Italy"
+        }
+      ],
+      "tipsEn": [
+        "Milan has more established dog daycare (asili nido per cani) options than most Italian cities. Ask your hotel for recommendations.",
+        "Many of Milan's international-facing hotels that accept dogs have established relationships with English-speaking dog-walkers.",
+        "For multi-day itineraries heavy on museum visits, consider booking a full-day doggy daycare placement rather than multiple short handovers."
+      ],
+      "tipsFr": [
+        "Milan dispose de plus d'options de garderie pour chiens (asili nido per cani) établies que la plupart des villes italiennes. Demandez à votre hôtel des recommandations.",
+        "Beaucoup d'hôtels milanais à orientation internationale qui acceptent les chiens ont des relations établies avec des promeneurs de chiens anglophones.",
+        "Pour les itinéraires de plusieurs jours avec beaucoup de visites de musées, envisagez de réserver une garde à la journée complète plutôt que plusieurs courtes passations."
+      ],
+      "tipsEs": [
+        "Milán tiene más opciones establecidas de guardería para perros (asili nido per cani) que la mayoría de las ciudades italianas. Pide recomendaciones a tu hotel.",
+        "Muchos hoteles de Milán con orientación internacional que aceptan perros tienen relaciones establecidas con paseadores de perros anglohablantes.",
+        "Para itinerarios de varios días con muchas visitas a museos, considera reservar una guardería de día completo en lugar de múltiples entregas cortas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I leave my dog while visiting the Last Supper in Milan?",
+          "a": "Book a Rover.com pet-sitter well in advance (at least 5–7 days). Last Supper tickets are timed-entry and highly sought after — your visit day will be fixed well in advance, giving you time to arrange a sitter."
+        },
+        {
+          "q": "Are there dog daycare facilities in Milan?",
+          "a": "Yes. Milan has several established asili nido per cani (dog daycare centres) in both central and suburban locations. Ask your hotel concierge for recommendations or search 'asilo nido per cani Milano' online."
+        },
+        {
+          "q": "Is it easy to find an English-speaking dog-sitter in Milan?",
+          "a": "Yes, more so than other Italian cities. Milan's international population means many Rover.com sitters speak English. Filter by language preference when searching the platform."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où puis-je laisser mon chien pendant la visite de la Cène à Milan ?",
+          "a": "Réservez un pet-sitter sur Rover.com bien à l'avance (au moins 5 à 7 jours). Les billets de la Cène sont à entrée minutée et très demandés — votre jour de visite sera fixé bien à l'avance, ce qui vous laisse le temps d'organiser un gardien."
+        },
+        {
+          "q": "Y a-t-il des garderies pour chiens à Milan ?",
+          "a": "Oui. Milan dispose de plusieurs asili nido per cani (garderies pour chiens) bien établis en centre-ville et en périphérie. Demandez des recommandations au concierge de votre hôtel ou cherchez 'asilo nido per cani Milano' en ligne."
+        },
+        {
+          "q": "Est-il facile de trouver un gardien de chien anglophone à Milan ?",
+          "a": "Oui, plus que dans d'autres villes italiennes. La population internationale de Milan signifie que de nombreux gardiens sur Rover.com parlent anglais. Filtrez par préférence de langue lors de votre recherche sur la plateforme."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo dejar a mi perro mientras visito la Última Cena en Milán?",
+          "a": "Reserva un cuidador en Rover.com con mucha antelación (al menos 5-7 días). Las entradas de la Última Cena son de entrada programada y muy solicitadas — tu día de visita estará fijado con mucha antelación, dándote tiempo para organizar un cuidador."
+        },
+        {
+          "q": "¿Hay guarderías para perros en Milán?",
+          "a": "Sí. Milán tiene varios asili nido per cani (guarderías para perros) establecidos tanto en ubicaciones centrales como suburbanas. Pide recomendaciones al conserje de tu hotel o busca 'asilo nido per cani Milano' en línea."
+        },
+        {
+          "q": "¿Es fácil encontrar un cuidador de perros anglohablante en Milán?",
+          "a": "Sí, más que en otras ciudades italianas. La población internacional de Milán significa que muchos cuidadores en Rover.com hablan inglés. Filtra por preferencia de idioma al buscar en la plataforma."
+        }
+      ]
+    }
+  }
+}

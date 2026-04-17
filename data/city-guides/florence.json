@@ -1,0 +1,870 @@
+{
+  "slug": "florence",
+  "name": "Florence",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Florence",
+      "titleFr": "Restaurants acceptant les animaux à Florence",
+      "titleEs": "Restaurantes con mascotas en Florencia",
+      "introEn": "Florence's dining scene is somewhat more traditional and conservative than Rome's, but the Tuscan attitude toward dogs in public life is warm. Most trattorias and enotecas welcome dogs on their outdoor terraces, particularly in the Oltrarno and San Frediano neighbourhoods on the south bank of the Arno. As across Italy, indoor dining with dogs is technically prohibited by health regulations — outdoor terraces are where the dog-friendly dining happens. Florence's compact size means most of the city is walkable, making terrace-hopping with a dog entirely practical.",
+      "introFr": "La scène gastronomique de Florence est un peu plus traditionnelle et conservatrice que celle de Rome, mais l'attitude toscane envers les chiens dans la vie publique est chaleureuse. La plupart des trattorias et enotecas accueillent les chiens sur leurs terrasses extérieures, notamment dans les quartiers Oltrarno et San Frediano sur la rive sud de l'Arno. Comme partout en Italie, la restauration en intérieur avec des chiens est techniquement interdite par la réglementation sanitaire — c'est en terrasse que la restauration dog-friendly a lieu. La taille compacte de Florence signifie que la plupart de la ville est praticable à pied, rendant la virée de terrasses en terrasses avec un chien tout à fait pratique.",
+      "introEs": "La escena gastronómica de Florencia es algo más tradicional y conservadora que la de Roma, pero la actitud toscana hacia los perros en la vida pública es cálida. La mayoría de las trattorias y enotecas dan la bienvenida a los perros en sus terrazas exteriores, especialmente en los barrios de Oltrarno y San Frediano en la orilla sur del Arno. Como en toda Italia, la comida en interior con perros está técnicamente prohibida por la normativa sanitaria — las terrazas exteriores son donde ocurre la gastronomía pet-friendly. El tamaño compacto de Florencia significa que la mayor parte de la ciudad es practicable a pie, haciendo que moverse de terraza en terraza con un perro sea completamente práctico.",
+      "places": [
+        {
+          "name": "Buca Mario",
+          "address": "Piazza Ottaviani 16, 50123 Firenze",
+          "neighborhood": "Santa Maria Novella",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.bucamario.com/",
+          "description": "Founded in 1886, Buca Mario is one of Florence's oldest restaurants, serving classic Tuscan cuisine in a historic setting. The outdoor tables on Piazza Ottaviani welcome dogs on the terrace, and the classic menu — bistecca alla Fiorentina, ribollita, pappardelle al cinghiale — is exactly what you come to Florence for. The atmosphere is warm and unpretentious, and the owner's family has a documented soft spot for dogs.",
+          "descriptionFr": "Fondé en 1886, Buca Mario est l'un des plus anciens restaurants de Florence, servant la cuisine toscane classique dans un cadre historique. Les tables extérieures sur la Piazza Ottaviani accueillent les chiens en terrasse, et le menu classique — bistecca alla Fiorentina, ribollita, pappardelle al cinghiale — est exactement ce pour quoi on vient à Florence. L'atmosphère est chaleureuse et sans prétention, et la famille du propriétaire a un faible documenté pour les chiens.",
+          "descriptionEs": "Fundado en 1886, Buca Mario es uno de los restaurantes más antiguos de Florencia, que sirve cocina toscana clásica en un entorno histórico. Las mesas exteriores en la Piazza Ottaviani dan la bienvenida a los perros en la terraza, y el menú clásico — bistecca alla Fiorentina, ribollita, pappardelle al cinghiale — es exactamente por lo que se viene a Florencia. El ambiente es cálido y sin pretensiones, y la familia del dueño tiene un conocido cariño por los perros.",
+          "petPolicy": "Dogs welcome on outdoor terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse extérieure",
+          "petPolicyEs": "Perros admitidos en la terraza exterior",
+          "priceRange": "€€€",
+          "mustTry": "Bistecca alla Fiorentina, ribollita",
+          "mustTryFr": "Bistecca alla Fiorentina, ribollita",
+          "mustTryEs": "Bistecca alla Fiorentina, ribollita",
+          "openingHours": "Daily 12:00–15:00, 19:00–23:00",
+          "tip": "Order the bistecca at least 2 days in advance by phone if you want the full Fiorentina experience.",
+          "tipFr": "Commandez la bistecca au moins 2 jours à l'avance par téléphone si vous voulez la vraie expérience Fiorentina.",
+          "tipEs": "Pide la bistecca con al menos 2 días de antelación por teléfono si quieres la experiencia Fiorentina completa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Buca+Mario+Firenze"
+        },
+        {
+          "name": "Il Santino",
+          "address": "Via di Santo Spirito 60r, 50125 Firenze",
+          "neighborhood": "Oltrarno",
+          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.ilsantobevaclub.it/il-santino/",
+          "description": "The wine bar and gastronomia annex of the celebrated Il Santo Bevitore, Il Santino is a small, atmospheric spot on Via di Santo Spirito with outstanding natural wines, house-made charcuterie, and well-sourced small plates. The outdoor seating on the street is informal and dog-friendly, and the Oltrarno neighbourhood is one of the most relaxed in Florence for walking and dining with dogs.",
+          "descriptionFr": "Bar à vins et annexe gastronomique du célèbre Il Santo Bevitore, Il Santino est un petit endroit atmosphérique sur la Via di Santo Spirito avec d'excellents vins naturels, de la charcuterie maison et de petites assiettes bien sourcées. Les tables en extérieur dans la rue sont informelles et dog-friendly, et le quartier Oltrarno est l'un des plus décontractés de Florence pour se promener et dîner avec des chiens.",
+          "descriptionEs": "El bar de vinos y anexo gastronómico del célebre Il Santo Bevitore, Il Santino es un pequeño y evocador local en la Via di Santo Spirito con excelentes vinos naturales, charcutería casera y platillos bien seleccionados. Los asientos exteriores en la calle son informales y aptos para perros, y el barrio de Oltrarno es uno de los más relajados de Florencia para pasear y cenar con perros.",
+          "petPolicy": "Dogs welcome at outdoor street tables",
+          "petPolicyFr": "Chiens acceptés aux tables de rue extérieures",
+          "petPolicyEs": "Perros admitidos en las mesas exteriores de la calle",
+          "priceRange": "€€",
+          "mustTry": "House charcuterie board, natural wine selection",
+          "mustTryFr": "Plateau de charcuterie maison, sélection de vins naturels",
+          "mustTryEs": "Tabla de charcutería casera, selección de vinos naturales",
+          "openingHours": "Mon–Sat 12:30–23:00",
+          "tip": "This place gets busy. Arrive early for the best selection of wines and charcuterie.",
+          "tipFr": "L'endroit se remplit vite. Arrivez tôt pour avoir le meilleur choix de vins et de charcuteries.",
+          "tipEs": "Este lugar se llena. Llega temprano para la mejor selección de vinos y charcutería.",
+          "googleMapsUrl": "https://maps.google.com/?q=Il+Santino+Firenze"
+        },
+        {
+          "name": "Trattoria Sostanza",
+          "address": "Via della Porcellana 25r, 50123 Firenze",
+          "neighborhood": "Santa Maria Novella",
+          "photo": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.trattoriasostanza.it/",
+          "description": "One of Florence's most legendary trattorias, in operation since 1869 and essentially unchanged in atmosphere. The outdoor seating on Via della Porcellana is dog-welcoming, and the kitchen produces some of the most authentic Florentine food in the city: the burro al tartufo pasta, the frittata, and above all the famous butter chicken (pollo al burro). A genuinely historic experience.",
+          "descriptionFr": "L'une des trattorias les plus légendaires de Florence, en activité depuis 1869 et pratiquement inchangée dans son atmosphère. Les places en extérieur sur la Via della Porcellana accueillent les chiens, et la cuisine produit certains des plats florentins les plus authentiques de la ville : les pâtes au beurre truffé, la frittata et surtout le célèbre poulet au beurre (pollo al burro). Une expérience véritablement historique.",
+          "descriptionEs": "Una de las trattorias más legendarias de Florencia, en funcionamiento desde 1869 y esencialmente sin cambios en su ambiente. Los asientos exteriores en la Via della Porcellana reciben perros, y la cocina produce algunos de los platos florentinos más auténticos de la ciudad: la pasta al burro e tartufo, la frittata y sobre todo el famoso pollo al burro. Una experiencia genuinamente histórica.",
+          "petPolicy": "Dogs welcome at outdoor tables",
+          "petPolicyFr": "Chiens acceptés aux tables extérieures",
+          "petPolicyEs": "Perros admitidos en las mesas exteriores",
+          "priceRange": "€€",
+          "mustTry": "Pollo al burro (butter chicken), pasta al tartufo",
+          "mustTryFr": "Pollo al burro (poulet au beurre), pâtes à la truffe",
+          "mustTryEs": "Pollo al burro (pollo a la mantequilla), pasta al tartufo",
+          "openingHours": "Mon–Fri 12:00–14:00, 19:30–22:00",
+          "tip": "Book ahead. This place fills every service. Closed weekends — plan accordingly.",
+          "tipFr": "Réservez à l'avance. C'est complet à chaque service. Fermé le week-end — planifiez en conséquence.",
+          "tipEs": "Reserva con antelación. Se llena en cada servicio. Cerrado los fines de semana — planifica en consecuencia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trattoria+Sostanza+Firenze"
+        },
+        {
+          "name": "Gurdulù",
+          "address": "Via delle Caldaie 12r, 50125 Firenze",
+          "neighborhood": "Oltrarno",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.gurdulu.com/",
+          "description": "A contemporary Florentine restaurant in the Oltrarno with a beautiful courtyard garden that is one of the most pleasant outdoor dining spaces in the city. Gurdulù's cuisine is creative and market-driven, with a focus on seasonal Tuscan ingredients presented in contemporary style. The garden is dog-friendly and genuinely atmospheric — one of Florence's better outdoor dining secrets.",
+          "descriptionFr": "Un restaurant florentin contemporain dans l'Oltrarno avec un beau jardin intérieur qui est l'un des espaces de restauration en plein air les plus agréables de la ville. La cuisine de Gurdulù est créative et orientée marché, avec un accent sur les ingrédients toscans de saison présentés dans un style contemporain. Le jardin est dog-friendly et vraiment atmosphérique — l'un des meilleurs secrets de restauration en plein air de Florence.",
+          "descriptionEs": "Un restaurante florentino contemporáneo en el Oltrarno con un hermoso jardín interior que es uno de los espacios gastronómicos al aire libre más agradables de la ciudad. La cocina de Gurdulù es creativa y orientada al mercado, con un enfoque en ingredientes toscanos de temporada presentados en estilo contemporáneo. El jardín es apto para perros y genuinamente evocador — uno de los mejores secretos gastronómicos al aire libre de Florencia.",
+          "petPolicy": "Dogs welcome in courtyard garden",
+          "petPolicyFr": "Chiens acceptés dans le jardin intérieur",
+          "petPolicyEs": "Perros admitidos en el jardín interior",
+          "priceRange": "€€€",
+          "mustTry": "Seasonal tasting menu, Tuscan wine pairing",
+          "mustTryFr": "Menu dégustation de saison, accord vins toscans",
+          "mustTryEs": "Menú degustación de temporada, maridaje de vinos toscanos",
+          "openingHours": "Tue–Sun 19:30–22:30 (lunch Fri–Sun 12:30–14:30)",
+          "tip": "Book the garden table specifically when reserving. Mention you have a dog.",
+          "tipFr": "Réservez spécifiquement la table du jardin. Mentionnez que vous avez un chien.",
+          "tipEs": "Reserva específicamente la mesa del jardín al hacer la reserva. Menciona que tienes un perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gurdulu+Firenze"
+        }
+      ],
+      "tipsEn": [
+        "Oltrarno (south bank of the Arno) is the best neighbourhood for outdoor dining with dogs. Less tourist-heavy and more authentic than the historic centre.",
+        "Always ask 'Possiamo sederci fuori con il cane?' — Florentine staff respond well to polite requests.",
+        "Avoid the immediate Duomo and Piazza della Repubblica area for dining with your dog. Highly tourist-heavy with less flexible terrace policies.",
+        "Water bowls are not routinely provided. Carry a portable bowl and use Florence's many public drinking fountains."
+      ],
+      "tipsFr": [
+        "L'Oltrarno (rive sud de l'Arno) est le meilleur quartier pour dîner en terrasse avec des chiens. Moins touristique et plus authentique que le centre historique.",
+        "Demandez toujours 'Possiamo sederci fuori con il cane ?' — le personnel florentin répond bien aux demandes polies.",
+        "Évitez la zone directement autour du Duomo et de la Piazza della Repubblica pour dîner avec votre chien. Très touristique avec des politiques de terrasse moins flexibles.",
+        "Les gamelles d'eau ne sont pas fournies systématiquement. Emportez un bol portable et utilisez les nombreuses fontaines publiques de Florence."
+      ],
+      "tipsEs": [
+        "Oltrarno (orilla sur del Arno) es el mejor barrio para comer en terraza con perros. Menos turístico y más auténtico que el centro histórico.",
+        "Pide siempre '¿Possiamo sederci fuori con il cane?' — el personal florentino responde bien a las solicitudes educadas.",
+        "Evita la zona inmediata del Duomo y la Piazza della Repubblica para cenar con tu perro. Muy turística con políticas de terraza menos flexibles.",
+        "Los cuencos de agua no se suelen proporcionar de forma rutinaria. Lleva un cuenco portátil y usa las numerosas fuentes públicas de Florencia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Florence restaurants?",
+          "a": "Italian health regulations prohibit dogs indoors in food-service areas. In Florence, as across Italy, pet-friendly dining is on outdoor terraces. The Oltrarno neighbourhood has the most reliable outdoor dining options for dogs."
+        },
+        {
+          "q": "Which neighbourhood in Florence is most dog-friendly for dining?",
+          "a": "Oltrarno and San Frediano, on the south bank of the Arno, are the most dog-friendly neighbourhoods for outdoor dining. They are also more authentic and less tourist-heavy than the historic centre north of the river."
+        },
+        {
+          "q": "Can dogs sit at café tables in Florence?",
+          "a": "At outdoor tables, yes — generally. Florence cafés with outdoor seating routinely allow well-behaved dogs. Some cafés near the major monuments may be stricter. Always ask before sitting down."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Florence ?",
+          "a": "La réglementation sanitaire italienne interdit les chiens en salle. À Florence, comme partout en Italie, la restauration dog-friendly se fait en terrasse extérieure. Le quartier Oltrarno offre les meilleures options pour dîner en plein air avec son chien."
+        },
+        {
+          "q": "Quel quartier de Florence est le plus dog-friendly pour les restaurants ?",
+          "a": "L'Oltrarno et le San Frediano, sur la rive sud de l'Arno, sont les quartiers les plus dog-friendly pour dîner en terrasse. Ils sont également plus authentiques et moins touristiques que le centre historique nord de la rivière."
+        },
+        {
+          "q": "Les chiens peuvent-ils s'asseoir aux tables des cafés à Florence ?",
+          "a": "Aux tables extérieures, oui — en général. Les cafés de Florence disposant de places en terrasse autorisent couramment les chiens bien tenus. Certains cafés proches des grands monuments peuvent être plus stricts. Demandez toujours avant de vous installer."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Florencia?",
+          "a": "La normativa sanitaria italiana prohíbe los perros en el interior de los locales de restauración. En Florencia, como en toda Italia, la gastronomía pet-friendly se desarrolla en las terrazas exteriores. El barrio de Oltrarno ofrece las opciones más fiables para comer al aire libre con tu perro."
+        },
+        {
+          "q": "¿Qué barrio de Florencia es más amigable para perros en restaurantes?",
+          "a": "Oltrarno y San Frediano, en la orilla sur del Arno, son los barrios más pet-friendly para comer en terraza. También son más auténticos y menos turísticos que el centro histórico al norte del río."
+        },
+        {
+          "q": "¿Pueden los perros sentarse en las mesas de los cafés de Florencia?",
+          "a": "En las mesas exteriores, sí — en general. Los cafés de Florencia con terraza exterior suelen admitir perros educados. Algunos cafés cerca de los monumentos principales pueden ser más estrictos. Pregunta siempre antes de sentarte."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Florence",
+      "titleFr": "Parcs et balades avec son chien à Florence",
+      "titleEs": "Parques y paseos con perros en Florencia",
+      "introEn": "Florence is a compact city, and its green spaces are smaller than Rome's, but they are well-distributed and genuinely welcoming to dogs. The Oltrarno hills (Boboli adjacent) and the Cascine park along the Arno are the main destinations. Tuscany begins immediately outside the city walls, and the hills of Fiesole and the surrounding countryside are excellent for longer dog walks from a Florence base.",
+      "introFr": "Florence est une ville compacte, et ses espaces verts sont plus petits que ceux de Rome, mais bien répartis et vraiment accueillants pour les chiens. Les collines de l'Oltrarno (adjacent à Boboli) et le parc des Cascine le long de l'Arno sont les principales destinations. La Toscane commence immédiatement à l'extérieur des remparts, et les collines de Fiesole et la campagne environnante sont excellentes pour de longues promenades avec votre chien depuis Florence.",
+      "introEs": "Florencia es una ciudad compacta y sus espacios verdes son más pequeños que los de Roma, pero están bien distribuidos y son genuinamente acogedores para los perros. Las colinas de Oltrarno (adyacentes a Boboli) y el parque delle Cascine a lo largo del Arno son los destinos principales. La Toscana comienza inmediatamente fuera de las murallas de la ciudad, y las colinas de Fiesole y el campo circundante son excelentes para largos paseos con perros desde Florencia.",
+      "places": [
+        {
+          "name": "Parco delle Cascine",
+          "type": "Large riverside park. On-leash with dog areas",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.comune.fi.it/pagina/parchi-e-giardini/parco-delle-cascine",
+          "description": "Florence's largest public park, stretching 3.5 km along the north bank of the Arno, is the main destination for dog walking in the city. The Cascine has designated dog areas (aree cani), a jogging path, cycling lanes, and generous tree-shaded lawns. It is very much a local park — you will see Florentine families, cyclists, and dozens of dogs here on any morning. The Tuesday Mercato delle Cascine market along the park edge is a highlight.",
+          "descriptionFr": "Le plus grand parc public de Florence, s'étendant sur 3,5 km le long de la rive nord de l'Arno, est la principale destination pour les promenades avec chien dans la ville. Les Cascine disposent de zones canines désignées (aree cani), d'une piste de jogging, de pistes cyclables et de vastes pelouses ombragées. C'est un parc vraiment local — vous y verrez des familles florentines, des cyclistes et des dizaines de chiens chaque matin. Le marché du mardi Mercato delle Cascine le long du bord du parc est un moment fort.",
+          "descriptionEs": "El parque público más grande de Florencia, que se extiende 3,5 km a lo largo de la orilla norte del Arno, es el principal destino para el paseo de perros en la ciudad. Las Cascine tiene zonas caninas designadas (aree cani), un sendero para correr, carriles bici y generosas praderas con sombra de árboles. Es un parque muy local — verás familias florentinas, ciclistas y decenas de perros aquí cualquier mañana. El mercado del martes Mercato delle Cascine a lo largo del borde del parque es un punto destacado.",
+          "offLeash": true,
+          "offLeashArea": "Designated aree cani in multiple locations. Ask a local or look for the signed fenced areas.",
+          "offLeashAreaFr": "Aree cani désignées en plusieurs endroits. Demandez à un local ou repérez les zones clôturées signalées.",
+          "offLeashAreaEs": "Aree cani designadas en múltiples ubicaciones. Pregunta a un local o busca las zonas cercadas señalizadas.",
+          "tip": "Visit on Tuesday morning to combine with the Mercato delle Cascine. Bring a bag — it's one of Tuscany's best outdoor markets.",
+          "tipFr": "Visitez le mardi matin pour combiner avec le Mercato delle Cascine. Emportez un sac — c'est l'un des meilleurs marchés de plein air de Toscane.",
+          "tipEs": "Visita el martes por la mañana para combinarlo con el Mercato delle Cascine. Lleva una bolsa — es uno de los mejores mercados al aire libre de Toscana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+delle+Cascine+Firenze"
+        },
+        {
+          "name": "Giardino di Boboli",
+          "type": "Historic garden. On-leash only. No dogs in main garden — use adjacent areas",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.uffizi.it/en/boboli-garden",
+          "description": "The Boboli Garden behind Palazzo Pitti is one of Italy's greatest formal gardens. Dogs are NOT permitted inside the Boboli Garden itself (it is a ticketed museum site). However, the surrounding Oltrarno hillside streets and Piazzale Michelangelo nearby offer excellent alternative walks with panoramic views. The Costa San Giorgio road climbing from Oltrarno to Fort Belvedere is particularly scenic for dogs.",
+          "descriptionFr": "Le jardin de Boboli derrière le Palazzo Pitti est l'un des plus grands jardins formels d'Italie. Les chiens ne sont PAS admis à l'intérieur du jardin de Boboli (c'est un site muséal payant). Cependant, les rues des collines environnantes de l'Oltrarno et la Piazzale Michelangelo toute proche offrent d'excellentes alternatives de promenades avec des vues panoramiques. La route Costa San Giorgio montant de l'Oltrarno au Fort Belvédère est particulièrement pittoresque pour les chiens.",
+          "descriptionEs": "El Jardín de Boboli detrás del Palazzo Pitti es uno de los jardines formales más grandes de Italia. Los perros NO están permitidos dentro del Jardín de Boboli (es un recinto museístico con entrada). Sin embargo, las calles de la colina de Oltrarno circundante y la cercana Piazzale Michelangelo ofrecen excelentes paseos alternativos con vistas panorámicas. La carretera Costa San Giorgio que sube desde Oltrarno al Forte Belvedere es especialmente pintoresca para perros.",
+          "offLeash": false,
+          "offLeashArea": "Dogs not permitted in Boboli Garden. Walk the adjacent Oltrarno hill streets instead.",
+          "offLeashAreaFr": "Chiens non admis dans le jardin de Boboli. Promenez-vous dans les rues de la colline Oltrarno adjacente à la place.",
+          "offLeashAreaEs": "Los perros no están permitidos en el Jardín de Boboli. Pasea por las calles de la colina de Oltrarno adyacente.",
+          "tip": "Walk up to Piazzale Michelangelo instead — free, open 24 hours, and one of the best panoramic views in Tuscany. Dogs on-leash welcome.",
+          "tipFr": "Montez plutôt à la Piazzale Michelangelo — gratuit, ouvert 24h/24, et l'une des meilleures vues panoramiques de Toscane. Chiens en laisse bienvenus.",
+          "tipEs": "Sube mejor a la Piazzale Michelangelo — gratuita, abierta 24 horas y una de las mejores vistas panorámicas de Toscana. Perros con correa bienvenidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazzale+Michelangelo+Firenze"
+        },
+        {
+          "name": "Fiesole Hills Walk",
+          "type": "Hillside village and walking trails. Off-leash possible on trails",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.comune.fiesole.fi.it/",
+          "description": "The hill town of Fiesole, 8 km northeast of Florence and reachable by bus, offers spectacular walking in the Tuscan hills with views back over Florence. The trails through the olive groves and cypress forests around Fiesole are excellent for dogs — largely off-leash on the dirt paths, with the town's main square and cafés welcoming dogs on their terraces. A half-day trip from Florence that feels entirely different from the city.",
+          "descriptionFr": "La ville collinaire de Fiesole, à 8 km au nord-est de Florence et accessible en bus, offre des promenades spectaculaires dans les collines toscanes avec des vues sur Florence. Les sentiers à travers les oliveraies et les forêts de cyprès autour de Fiesole sont excellents pour les chiens — largement sans laisse sur les chemins de terre, avec la place principale de la ville et les cafés accueillant les chiens sur leurs terrasses. Une demi-journée depuis Florence qui se sent totalement différente de la ville.",
+          "descriptionEs": "La ciudad de colina de Fiesole, a 8 km al noreste de Florencia y accesible en autobús, ofrece espectaculares caminatas en las colinas toscanas con vistas sobre Florencia. Los senderos a través de los olivares y los bosques de cipreses alrededor de Fiesole son excelentes para perros — en gran parte sin correa en los caminos de tierra, con la plaza principal del pueblo y los cafés recibiendo perros en sus terrazas. Una excursión de medio día desde Florencia que se siente totalmente diferente a la ciudad.",
+          "offLeash": true,
+          "offLeashArea": "Dirt trails and olive groves around the town. On-leash in the town square and near the archaeological site.",
+          "offLeashAreaFr": "Sentiers de terre et oliveraies autour de la ville. En laisse sur la place et près du site archéologique.",
+          "offLeashAreaEs": "Senderos de tierra y olivares alrededor del pueblo. Con correa en la plaza del pueblo y cerca del yacimiento arqueológico.",
+          "tip": "Take bus 7 from Piazza San Marco in Florence. 20 minutes, dogs permitted on-leash. Get off at the Fiesole main square.",
+          "tipFr": "Prenez le bus 7 depuis la Piazza San Marco à Florence. 20 minutes, chiens acceptés en laisse. Descendez à la place principale de Fiesole.",
+          "tipEs": "Toma el autobús 7 desde la Piazza San Marco en Florencia. 20 minutos, perros permitidos con correa. Baja en la plaza principal de Fiesole.",
+          "googleMapsUrl": "https://maps.google.com/?q=Fiesole+Firenze"
+        },
+        {
+          "name": "Piazzale Michelangelo & Rose Garden",
+          "type": "Panoramic terrace + public garden. On-leash",
+          "photo": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.comune.fi.it/pagina/parchi-e-giardini/giardino-delle-rose",
+          "description": "The iconic viewpoint above Florence, reached by a scenic climb through the Oltrarno's hillside streets, is fully accessible to dogs on-leash. The adjacent Giardino delle Rose (open seasonally, April–October) is also dog-friendly and offers another elevated garden walk with stunning Arno views. This is one of the great free walking experiences in Florence, and the sunset view from Piazzale Michelangelo is genuinely world-class.",
+          "descriptionFr": "Le point de vue iconique au-dessus de Florence, accessible par une montée panoramique à travers les rues de la colline Oltrarno, est entièrement accessible aux chiens en laisse. Le Giardino delle Rose adjacent (ouvert de manière saisonnière, avril–octobre) est également dog-friendly et offre une autre promenade en jardin élevé avec une vue imprenable sur l'Arno. C'est l'une des grandes expériences de marche gratuites à Florence, et la vue au coucher du soleil depuis la Piazzale Michelangelo est véritablement de classe mondiale.",
+          "descriptionEs": "El icónico mirador sobre Florencia, al que se llega por una pintoresca subida a través de las calles de la ladera de Oltrarno, es totalmente accesible para perros con correa. El adyacente Giardino delle Rose (abierto de forma estacional, abril–octubre) también es apto para perros y ofrece otro paseo en jardín elevado con impresionantes vistas del Arno. Esta es una de las grandes experiencias de paseo gratuitas en Florencia, y la vista al atardecer desde la Piazzale Michelangelo es genuinamente de clase mundial.",
+          "offLeash": false,
+          "offLeashArea": "On-leash throughout. No designated off-leash areas on the hill.",
+          "offLeashAreaFr": "En laisse partout. Pas de zones de liberté désignées sur la colline.",
+          "offLeashAreaEs": "Con correa en todo el recorrido. No hay zonas sin correa designadas en la colina.",
+          "tip": "Walk up via Via di San Niccolò and Via del Monte alle Croci rather than the main road. Far more scenic and quieter.",
+          "tipFr": "Montez par la Via di San Niccolò et la Via del Monte alle Croci plutôt que par la route principale. Bien plus pittoresque et plus calme.",
+          "tipEs": "Sube por la Via di San Niccolò y la Via del Monte alle Croci en lugar de la carretera principal. Mucho más pintoresco y tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazzale+Michelangelo+Firenze"
+        }
+      ],
+      "tipsEn": [
+        "Florence's Boboli Garden and the Uffizi museum complex do not permit dogs. The adjacent Oltrarno hill streets are better alternatives.",
+        "The Parco delle Cascine is Florence's best dog park. Go on a weekday morning for the most relaxed experience.",
+        "Tuscany's countryside begins immediately outside the city. Rent a car or take a local bus to explore the hills around Fiesole, Settignano, or Arcetri with your dog.",
+        "Dogs must be on-leash in all Florence public spaces except in designated aree cani."
+      ],
+      "tipsFr": [
+        "Le jardin de Boboli et le complexe des Offices n'admettent pas les chiens. Les rues de la colline Oltrarno adjacente sont de meilleures alternatives.",
+        "Le Parco delle Cascine est le meilleur parc pour chiens de Florence. Venez en semaine le matin pour l'expérience la plus tranquille.",
+        "La campagne toscane commence immédiatement à l'extérieur de la ville. Louez une voiture ou prenez un bus local pour explorer les collines autour de Fiesole, Settignano ou Arcetri avec votre chien.",
+        "Les chiens doivent être en laisse dans tous les espaces publics de Florence, sauf dans les aree cani désignées."
+      ],
+      "tipsEs": [
+        "El Jardín de Boboli y el complejo de los Uffizi no admiten perros. Las calles de la colina de Oltrarno adyacente son mejores alternativas.",
+        "El Parco delle Cascine es el mejor parque para perros de Florencia. Ve entre semana por la mañana para la experiencia más relajada.",
+        "La campiña toscana comienza inmediatamente fuera de la ciudad. Alquila un coche o toma un autobús local para explorar las colinas alrededor de Fiesole, Settignano o Arcetri con tu perro.",
+        "Los perros deben ir con correa en todos los espacios públicos de Florencia excepto en las aree cani designadas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog into the Boboli Garden in Florence?",
+          "a": "No. Dogs are not permitted inside the Boboli Garden (it is a ticketed heritage site). Walk the adjacent Oltrarno hillside streets, Piazzale Michelangelo, or the Giardino delle Rose instead — all free and dog-friendly."
+        },
+        {
+          "q": "Where is the best park for dogs in Florence?",
+          "a": "Parco delle Cascine is Florence's best dog park, with multiple designated aree cani (off-leash zones) and 3.5 km of riverside paths. For something more adventurous, take bus 7 to Fiesole for hillside trails."
+        },
+        {
+          "q": "Is there off-leash space for dogs in Florence?",
+          "a": "Yes. Florence has designated aree cani in Parco delle Cascine and several smaller neighbourhood parks. These are clearly signed fenced areas. On-leash is required everywhere else in the city."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le jardin de Boboli à Florence ?",
+          "a": "Non. Les chiens ne sont pas admis dans le jardin de Boboli (c'est un site patrimonial payant). Promenez-vous dans les rues de la colline Oltrarno adjacente, la Piazzale Michelangelo ou le Giardino delle Rose — tous gratuits et dog-friendly."
+        },
+        {
+          "q": "Quel est le meilleur parc pour les chiens à Florence ?",
+          "a": "Le Parco delle Cascine est le meilleur parc pour chiens de Florence, avec plusieurs aree cani (zones de liberté) et 3,5 km de chemins en bord de rivière. Pour quelque chose de plus aventureux, prenez le bus 7 jusqu'à Fiesole pour des sentiers en colline."
+        },
+        {
+          "q": "Y a-t-il des espaces sans laisse pour les chiens à Florence ?",
+          "a": "Oui. Florence dispose d'aree cani désignées dans le Parco delle Cascine et plusieurs petits parcs de quartier. Ce sont des zones clôturées clairement signalées. La laisse est obligatoire partout ailleurs dans la ville."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al Jardín de Boboli en Florencia?",
+          "a": "No. Los perros no están permitidos dentro del Jardín de Boboli (es un recinto patrimonial con entrada). Pasea por las calles de la colina de Oltrarno adyacente, la Piazzale Michelangelo o el Giardino delle Rose — todos gratuitos y aptos para perros."
+        },
+        {
+          "q": "¿Cuál es el mejor parque para perros en Florencia?",
+          "a": "El Parco delle Cascine es el mejor parque para perros de Florencia, con múltiples aree cani (zonas sin correa) y 3,5 km de senderos junto al río. Para algo más aventurero, toma el autobús 7 a Fiesole para senderos en las colinas."
+        },
+        {
+          "q": "¿Hay espacio sin correa para perros en Florencia?",
+          "a": "Sí. Florencia tiene aree cani designadas en el Parco delle Cascine y varios parques de barrio más pequeños. Son zonas cercadas claramente señalizadas. Con correa es obligatorio en todo lo demás de la ciudad."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Florence",
+      "titleFr": "Voyager avec son animal à Florence",
+      "titleEs": "Viajar con mascotas en Florencia",
+      "introEn": "Florence has no metro system. Public transport is by bus only (ATAF/Autolinee Toscane). The city centre is a ZTL (Limited Traffic Zone) — private vehicles need a permit to enter. The city is exceptionally walkable, and for most tourist itineraries, walking is both practical and preferable. For transport with pets: small dogs in a carrier travel free on Florence buses; larger dogs need a leash and muzzle and may require a ticket at the driver's discretion. Intercity connections use Santa Maria Novella station.",
+      "introFr": "Florence n'a pas de métro. Les transports en commun sont uniquement par bus (ATAF/Autolinee Toscane). Le centre-ville est une ZTL (Zone à trafic limité) — les véhicules privés ont besoin d'un permis pour y entrer. La ville est exceptionnellement praticable à pied, et pour la plupart des itinéraires touristiques, marcher est à la fois pratique et préférable. Pour les transports avec animaux : les petits chiens en sac voyagent gratuitement dans les bus florentins ; les grands chiens ont besoin d'une laisse et d'une muselière et peuvent nécessiter un billet à la discrétion du conducteur.",
+      "introEs": "Florencia no tiene metro. El transporte público es solo por autobús (ATAF/Autolinee Toscane). El centro de la ciudad es una ZTL (Zona de Tráfico Limitado) — los vehículos privados necesitan un permiso para entrar. La ciudad es excepcionalmente practicable a pie, y para la mayoría de los itinerarios turísticos, caminar es a la vez práctico y preferible. Para el transporte con mascotas: los perros pequeños en transportín viajan gratis en los autobuses de Florencia; los perros más grandes necesitan correa y bozal y pueden requerir un billete a discreción del conductor.",
+      "rules": [
+        {
+          "mode": "Bus (ATAF / Autolinee Toscane)",
+          "modeFr": "Bus (ATAF / Autolinee Toscane)",
+          "modeEs": "Autobús (ATAF / Autolinee Toscane)",
+          "policy": "Small dogs in a carrier: free. Larger dogs: muzzle + on-leash required; ticket at driver's discretion. Dogs must not occupy seats. Florence has no metro — bus is the only public transport in the city.",
+          "policyFr": "Petits chiens en sac : gratuit. Grands chiens : muselière + laisse obligatoires ; billet à la discrétion du conducteur. Les chiens ne doivent pas occuper les sièges. Florence n'a pas de métro — le bus est le seul transport en commun de la ville.",
+          "policyEs": "Perros pequeños en transportín: gratis. Perros más grandes: bozal + correa obligatorios; billete a discreción del conductor. Los perros no pueden ocupar asientos. Florencia no tiene metro — el autobús es el único transporte público de la ciudad.",
+          "tip": "Florence's centre is very walkable. For most city sightseeing, you won't need a bus at all. Bus 7 to Fiesole is the most useful dog-friendly route.",
+          "tipFr": "Le centre de Florence est très praticable à pied. Pour la plupart des visites touristiques en ville, vous n'aurez pas besoin de bus. Le bus 7 vers Fiesole est l'itinéraire le plus utile dog-friendly.",
+          "tipEs": "El centro de Florencia es muy practicable a pie. Para la mayoría de las visitas turísticas, no necesitarás el autobús. El autobús 7 a Fiesole es la ruta más útil apta para perros."
+        },
+        {
+          "mode": "Intercity Train (from Santa Maria Novella)",
+          "modeFr": "Train intercités (depuis Santa Maria Novella)",
+          "modeEs": "Tren interurbano (desde Santa Maria Novella)",
+          "policy": "Same Trenitalia rules apply. Small dogs in carrier (under 10 kg incl. carrier): free on all trains. Large dogs: not permitted on Frecciarossa/Frecciargento; allowed on regional trains with half-price ticket, muzzle, and leash.",
+          "policyFr": "Les mêmes règles Trenitalia s'appliquent. Petits chiens en sac (moins de 10 kg sac compris) : gratuit sur tous les trains. Grands chiens : non admis sur les Frecciarossa/Frecciargento ; autorisés sur les trains régionaux avec un billet demi-tarif, muselière et laisse.",
+          "policyEs": "Se aplican las mismas normas de Trenitalia. Perros pequeños en transportín (menos de 10 kg incluyendo el transportín): gratis en todos los trenes. Perros grandes: no permitidos en Frecciarossa/Frecciargento; permitidos en trenes regionales con billete a mitad de precio, bozal y correa.",
+          "tip": "Versilia beaches (dog-friendly, 1.5 hrs by regional train) are the nearest good beach option from Florence for dog owners.",
+          "tipFr": "Les plages de Versilia (dog-friendly, 1h30 en train régional) sont l'option de plage la plus proche de Florence pour les propriétaires de chiens.",
+          "tipEs": "Las playas de Versilia (aptas para perros, 1,5 h en tren regional) son la opción de playa más cercana y buena desde Florencia para los dueños de perros."
+        },
+        {
+          "mode": "Taxi",
+          "modeFr": "Taxi",
+          "modeEs": "Taxi",
+          "policy": "Florence taxis generally accept dogs, especially small dogs in carriers. Call ahead and mention you have a dog. Official Florence taxi: +39 055 4242 or +39 055 4390.",
+          "policyFr": "Les taxis florentins acceptent généralement les chiens, surtout les petits en sac. Appelez à l'avance en mentionnant que vous avez un chien. Taxi officiel Florence : +39 055 4242 ou +39 055 4390.",
+          "policyEs": "Los taxis de Florencia generalmente aceptan perros, especialmente los pequeños en transportín. Llama con antelación y menciona que llevas un perro. Taxi oficial Florencia: +39 055 4242 o +39 055 4390.",
+          "tip": "For the Fiesole day trip, a taxi up is easier than the bus with a large dog. Budget €15–20 one way.",
+          "tipFr": "Pour l'excursion à Fiesole, prendre un taxi est plus simple que le bus avec un grand chien. Budget de 15 à 20 € l'aller simple.",
+          "tipEs": "Para la excursión a Fiesole, un taxi subiendo es más fácil que el autobús con un perro grande. Presupuesta 15-20 € de ida."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Useful transport links",
+          "titleFr": "Liens transport utiles",
+          "titleEs": "Enlaces de transporte útiles",
+          "contentEn": "Autolinee Toscane: at-bus.it — Florence bus routes, timetables, and tickets. Trenitalia: trenitalia.com — intercity and regional trains. Florence is a major high-speed hub; Roma Termini–Firenze SMN by Frecciarossa takes 1h30.",
+          "contentFr": "Autolinee Toscane : at-bus.it — lignes de bus de Florence, horaires et billets. Trenitalia : trenitalia.com — trains intercités et régionaux. Florence est un grand hub TGV ; Roma Termini–Firenze SMN en Frecciarossa prend 1h30.",
+          "contentEs": "Autolinee Toscane: at-bus.it — rutas de autobús de Florencia, horarios y billetes. Trenitalia: trenitalia.com — trenes interurbanos y regionales. Florencia es un importante hub de alta velocidad; Roma Termini–Firenze SMN en Frecciarossa tarda 1h30."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Does Florence have a dog-friendly public transport system?",
+          "a": "Florence has no metro — only buses. Small dogs in a carrier travel free. Larger dogs need a leash and muzzle. In practice, Florence's compact historic centre is best explored on foot with your dog."
+        },
+        {
+          "q": "Can I drive into central Florence with my dog?",
+          "a": "Florence's historic centre is a ZTL (Limited Traffic Zone). Non-permitted vehicles face automatic fines from cameras. Use parking outside the ZTL and walk in — which is also the better experience with a dog."
+        },
+        {
+          "q": "How do I get to Versilia beaches from Florence with my dog?",
+          "a": "Take a Trenitalia regional train from Firenze Santa Maria Novella to Viareggio or Marina di Carrara (approx. 1.5 hours). Large dogs require a half-price ticket, muzzle, and leash. Versilia beaches have designated dog-beach sections."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Florence dispose-t-elle d'un système de transport en commun dog-friendly ?",
+          "a": "Florence n'a pas de métro — uniquement des bus. Les petits chiens en sac voyagent gratuitement. Les grands chiens ont besoin d'une laisse et d'une muselière. Dans la pratique, le centre historique compact de Florence se découvre mieux à pied avec son chien."
+        },
+        {
+          "q": "Puis-je conduire en centre-ville de Florence avec mon chien ?",
+          "a": "Le centre historique de Florence est une ZTL (Zone à trafic limité). Les véhicules non autorisés s'exposent à des amendes automatiques par caméras. Utilisez un parking hors de la ZTL et entrez à pied — ce qui est d'ailleurs la meilleure expérience avec un chien."
+        },
+        {
+          "q": "Comment rejoindre les plages de Versilia depuis Florence avec mon chien ?",
+          "a": "Prenez un train régional Trenitalia depuis Firenze Santa Maria Novella jusqu'à Viareggio ou Marina di Carrara (environ 1h30). Les grands chiens nécessitent un billet demi-tarif, une muselière et une laisse. Les plages de Versilia disposent de sections réservées aux chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Florencia tiene un sistema de transporte público apto para perros?",
+          "a": "Florencia no tiene metro — solo autobuses. Los perros pequeños en transportín viajan gratis. Los perros más grandes necesitan correa y bozal. En la práctica, el compacto centro histórico de Florencia se explora mejor a pie con tu perro."
+        },
+        {
+          "q": "¿Puedo conducir hasta el centro de Florencia con mi perro?",
+          "a": "El centro histórico de Florencia es una ZTL (Zona de Tráfico Limitado). Los vehículos sin permiso reciben multas automáticas de las cámaras. Usa un aparcamiento fuera de la ZTL y entra a pie — que es además la mejor experiencia con un perro."
+        },
+        {
+          "q": "¿Cómo llego a las playas de Versilia desde Florencia con mi perro?",
+          "a": "Toma un tren regional de Trenitalia desde Firenze Santa Maria Novella hasta Viareggio o Marina di Carrara (aproximadamente 1,5 horas). Los perros grandes necesitan billete a mitad de precio, bozal y correa. Las playas de Versilia tienen secciones designadas para perros."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Florence",
+      "titleFr": "Plages accessibles aux chiens près de Florence",
+      "titleEs": "Playas para perros cerca de Florencia",
+      "introEn": "Florence is inland, about 80 km from the Tyrrhenian Sea. The nearest coastal options are the Versilia Riviera (Viareggio, Forte dei Marmi) to the west, reachable by regional train in about 90 minutes. The Versilia coast has several designated dog beaches (spiagge per cani) that are well-organised and open year-round. Dogs are banned from most private lido sections of Italian beaches during the summer bathing season (June–September) but permitted on free public beach sections and designated dog areas.",
+      "introFr": "Florence est une ville intérieure, à environ 80 km de la mer Tyrrhénienne. Les options côtières les plus proches sont la Riviera de Versilia (Viareggio, Forte dei Marmi) à l'ouest, accessible en train régional en environ 90 minutes. La côte de Versilia dispose de plusieurs plages réservées aux chiens (spiagge per cani) bien organisées et ouvertes toute l'année. Les chiens sont interdits sur la plupart des sections de plage privées des littoraux italiens pendant la saison balnéaire (juin–septembre) mais autorisés sur les sections de plage publiques libres et les zones canines désignées.",
+      "introEs": "Florencia es una ciudad interior, a unos 80 km del Mar Tirreno. Las opciones costeras más cercanas son la Riviera de Versilia (Viareggio, Forte dei Marmi) al oeste, accesible en tren regional en unos 90 minutos. La costa de Versilia cuenta con varias playas designadas para perros (spiagge per cani) bien organizadas y abiertas todo el año. Los perros están prohibidos en la mayoría de las secciones privadas de playa de las playas italianas durante la temporada de baño estival (junio–septiembre), pero están permitidos en las secciones de playa pública gratuita y en las zonas caninas designadas.",
+      "places": [
+        {
+          "name": "Viareggio — Spiaggia per Cani",
+          "distance": "1h 20min by regional train from Firenze SMN",
+          "description": "Viareggio is the main city of the Versilia Riviera and has at least one well-established designated dog beach (spiaggia per cani) on the northern end of its beach. The dog beach is properly signposted, fenced-access, and allows dogs to swim freely. The seafront promenade (passeggiata) is also pleasant for dog walks year-round.",
+          "season": "Year-round. Dog beach officially designated; broader beach access outside June–September.",
+          "rules": "Dogs permitted in designated spiaggia per cani section. Prohibited on most private lido sections June–September. On-leash on the promenade.",
+          "facilities": "Beach cafes, promenade, parking, train station 10 min walk from beach.",
+          "googleMapsUrl": "https://maps.google.com/?q=Viareggio+spiaggia+cani"
+        },
+        {
+          "name": "Marina di Carrara / Marina di Massa — Dog Beach",
+          "distance": "1h 30min by regional train from Firenze SMN",
+          "description": "The beaches near Carrara (Marble Mountains backdrop) have designated dog beach sections at Marina di Carrara and Marina di Massa. Less crowded than Viareggio, these beaches offer more space and a more relaxed atmosphere. The dramatic backdrop of the Apuan Alps adds to the scenery.",
+          "season": "Year-round. Most dog-friendly October–May.",
+          "rules": "Designated dog beach sections operative in summer. Free access outside June–September. On-leash near bathers.",
+          "facilities": "Beach bars, parking, train station within walking distance.",
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+di+Carrara+spiaggia"
+        },
+        {
+          "name": "Lake Bilancino (Lago di Bilancino)",
+          "distance": "40 min by car from Florence",
+          "description": "For non-sea beach alternatives, the artificial lake of Bilancino north of Florence has sandy lake beaches where dogs can access the water freely outside the supervised swimming areas. A popular local destination for families with dogs, especially in spring and autumn. No direct public transport — car or taxi needed.",
+          "season": "Spring to autumn. Best outside July–August peak.",
+          "rules": "Dogs permitted on most areas of the lake shore. Excluded from supervised swimming areas. On-leash near picnic areas.",
+          "facilities": "Parking, beach bars (seasonal), picnic areas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lago+di+Bilancino"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog-friendly beaches near Florence?",
+          "a": "Yes. The Versilia coast (Viareggio, Marina di Carrara) is about 90 minutes by regional train from Florence and has designated dog beach sections. Lake Bilancino (40 min by car) is also a good freshwater alternative."
+        },
+        {
+          "q": "Can dogs go to Italian beaches in summer?",
+          "a": "Most main Italian beach areas prohibit dogs from June to September due to hygiene regulations. However, every major beach resort has at least one designated dog-beach section (spiaggia per cani) where dogs can swim freely. Check local rules on arrival."
+        },
+        {
+          "q": "How do I get to Viareggio from Florence with my dog?",
+          "a": "Take a regional Trenitalia train from Firenze Santa Maria Novella. Journey: 1h20. Small dogs free; large dogs half-price ticket with muzzle and leash. Trains run every 1–2 hours."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des plages dog-friendly près de Florence ?",
+          "a": "Oui. La côte de Versilia (Viareggio, Marina di Carrara) est à environ 90 minutes en train régional de Florence et dispose de sections de plage réservées aux chiens. Le lac de Bilancino (40 min en voiture) est également une bonne alternative en eau douce."
+        },
+        {
+          "q": "Les chiens peuvent-ils aller sur les plages italiennes en été ?",
+          "a": "La plupart des grandes plages italiennes interdisent les chiens de juin à septembre pour des raisons d'hygiène. Cependant, chaque grande station balnéaire dispose d'au moins une section de plage réservée aux chiens (spiaggia per cani) où les chiens peuvent nager librement. Vérifiez les règles locales à l'arrivée."
+        },
+        {
+          "q": "Comment rejoindre Viareggio depuis Florence avec mon chien ?",
+          "a": "Prenez un train régional Trenitalia depuis Firenze Santa Maria Novella. Trajet : 1h20. Petits chiens gratuits ; grands chiens billet demi-tarif avec muselière et laisse. Les trains circulent toutes les 1 à 2 heures."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay playas para perros cerca de Florencia?",
+          "a": "Sí. La costa de Versilia (Viareggio, Marina di Carrara) está a unos 90 minutos en tren regional desde Florencia y tiene secciones de playa designadas para perros. El Lago Bilancino (40 min en coche) también es una buena alternativa de agua dulce."
+        },
+        {
+          "q": "¿Pueden los perros ir a las playas italianas en verano?",
+          "a": "La mayoría de las principales zonas de playa italianas prohíben los perros de junio a septiembre por razones de higiene. Sin embargo, cada gran resort de playa tiene al menos una sección de playa designada para perros (spiaggia per cani) donde los perros pueden nadar libremente. Comprueba las normas locales a tu llegada."
+        },
+        {
+          "q": "¿Cómo llego a Viareggio desde Florencia con mi perro?",
+          "a": "Toma un tren regional de Trenitalia desde Firenze Santa Maria Novella. Trayecto: 1h20. Perros pequeños gratis; perros grandes billete a mitad de precio con bozal y correa. Los trenes circulan cada 1-2 horas."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Florence",
+      "titleFr": "Vétérinaires et urgences animales à Florence",
+      "titleEs": "Veterinarios y urgencias para animales en Florencia",
+      "introEn": "Florence has good veterinary provision, with several clinics offering specialist and emergency services. The University of Florence also has a veterinary teaching hospital (Ospedale Veterinario Universitario) which handles complex cases. EU pet passport, microchip, and up-to-date rabies vaccination required for all pets entering Italy. Emergency number: 112.",
+      "introFr": "Florence dispose d'une bonne offre vétérinaire, avec plusieurs cliniques proposant des services spécialisés et d'urgence. L'Université de Florence dispose également d'un hôpital vétérinaire universitaire (Ospedale Veterinario Universitario) qui traite les cas complexes. Passeport UE, puce électronique et vaccination antirabique à jour obligatoires pour tous les animaux entrant en Italie. Numéro d'urgence : 112.",
+      "introEs": "Florencia tiene buena cobertura veterinaria, con varias clínicas que ofrecen servicios especializados y de urgencias. La Universidad de Florencia también tiene un hospital veterinario universitario (Ospedale Veterinario Universitario) que trata casos complejos. Pasaporte UE de mascota, microchip y vacunación antirrábica al día obligatorios para todas las mascotas que entren en Italia. Número de emergencias: 112.",
+      "entryRequirements": {
+        "euPets": "Valid EU pet passport + microchip + rabies vaccination up to date. Source: salute.gov.it",
+        "nonEuPets": "Health certificate, microchip, rabies vaccination, possible titer test depending on origin country. Check salute.gov.it.",
+        "emergencyContacts": [
+          "Italy national emergency: 112",
+          "Florence ASL veterinary service: 055 2496 1"
+        ]
+      },
+      "places": [
+        {
+          "name": "Clinica Veterinaria Firenze",
+          "address": "Via Ugo Foscolo 3, 50124 Firenze",
+          "neighborhood": "Oltrarno",
+          "photo": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.clinicaveterinarialafiorentina.it/",
+          "description": "A well-established veterinary clinic in the Oltrarno area serving Florence's residential and tourist community. Offers general practice, diagnostics, and emergency consultations. English-speaking staff available. Conveniently located for visitors staying south of the Arno.",
+          "descriptionFr": "Une clinique vétérinaire bien établie dans la zone Oltrarno, au service de la communauté résidentielle et touristique de Florence. Propose des soins généralistes, des diagnostics et des consultations d'urgence. Personnel anglophone disponible. Idéalement situé pour les visiteurs séjournant au sud de l'Arno.",
+          "descriptionEs": "Una clínica veterinaria bien establecida en la zona de Oltrarno que sirve a la comunidad residencial y turística de Florencia. Ofrece medicina general, diagnósticos y consultas de urgencia. Personal anglohablante disponible. Convenientemente situada para los visitantes alojados al sur del Arno.",
+          "phone": "Verify current phone at clinicaveterinarialafiorentina.it",
+          "emergency24h": false,
+          "openingHours": "Verify current hours at clinicaveterinarialafiorentina.it",
+          "tip": "Call ahead for appointments. For out-of-hours emergencies, call 112 or the Florence ASL vet line: 055 2496 1.",
+          "tipFr": "Appelez pour les rendez-vous. Pour les urgences hors heures, composez le 112 ou la ligne vétérinaire ASL de Florence : 055 2496 1.",
+          "tipEs": "Llama para citas. Para urgencias fuera de horario, llama al 112 o a la línea veterinaria ASL de Florencia: 055 2496 1.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Firenze+Oltrarno"
+        },
+        {
+          "name": "Ospedale Veterinario Universitario (UNIFI)",
+          "address": "Viale delle Piagge 2, 50122 Firenze",
+          "neighborhood": "Gavinana / Viale delle Piagge",
+          "photo": "https://images.unsplash.com/photo-1581888227599-779811939961?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.dsvsa.unifi.it/",
+          "description": "The University of Florence's veterinary teaching hospital is the most comprehensive veterinary facility in the region, offering specialist referral services, surgery, and emergency care. As a university hospital, it treats complex cases and has a broad range of specialist departments. Appointments required for non-emergency cases.",
+          "descriptionFr": "L'hôpital vétérinaire universitaire de l'Université de Florence est l'établissement vétérinaire le plus complet de la région, offrant des services de référence spécialisée, de chirurgie et de soins d'urgence. En tant qu'hôpital universitaire, il traite les cas complexes et dispose d'un large éventail de départements spécialisés. Rendez-vous obligatoire pour les cas non urgents.",
+          "descriptionEs": "El hospital veterinario universitario de la Universidad de Florencia es el establecimiento veterinario más completo de la región, ofreciendo servicios de derivación especializada, cirugía y urgencias. Como hospital universitario, trata casos complejos y tiene una amplia gama de departamentos especializados. Se requieren citas para casos no urgentes.",
+          "phone": "Verify current phone at dsvsa.unifi.it",
+          "emergency24h": true,
+          "openingHours": "Verify current emergency hours at dsvsa.unifi.it",
+          "tip": "This is Florence's best-equipped veterinary facility for serious cases. Ask your hotel to help you get there quickly if needed.",
+          "tipFr": "C'est l'établissement vétérinaire le mieux équipé de Florence pour les cas graves. Demandez à votre hôtel de vous aider à y accéder rapidement si nécessaire.",
+          "tipEs": "Es el establecimiento veterinario mejor equipado de Florencia para casos graves. Pide a tu hotel que te ayude a llegar rápidamente si es necesario.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Universitario+Firenze"
+        }
+      ],
+      "tipsEn": [
+        "Save the Florence ASL vet emergency line in your phone: 055 2496 1.",
+        "The University veterinary hospital (UNIFI) handles complex and emergency cases and is the best-equipped facility in Tuscany.",
+        "Always carry your pet's EU passport and vaccination record. Italian border controls and vets may request them.",
+        "In Italian, ask for 'il pronto soccorso veterinario' (veterinary emergency) if you need urgent help."
+      ],
+      "tipsFr": [
+        "Enregistrez la ligne d'urgence vétérinaire ASL de Florence dans votre téléphone : 055 2496 1.",
+        "L'hôpital vétérinaire universitaire (UNIFI) traite les cas complexes et d'urgence et est l'établissement le mieux équipé de Toscane.",
+        "Emportez toujours le passeport UE et le carnet de vaccination de votre animal. Les contrôles frontaliers italiens et les vétérinaires peuvent les demander.",
+        "En italien, demandez le 'pronto soccorso veterinario' (urgences vétérinaires) si vous avez besoin d'aide urgente."
+      ],
+      "tipsEs": [
+        "Guarda la línea de urgencias veterinarias ASL de Florencia en tu teléfono: 055 2496 1.",
+        "El hospital veterinario universitario (UNIFI) atiende casos complejos y de urgencia y es el establecimiento mejor equipado de Toscana.",
+        "Lleva siempre el pasaporte UE y el registro de vacunación de tu mascota. Los controles fronterizos italianos y los veterinarios pueden solicitarlos.",
+        "En italiano, pide el 'pronto soccorso veterinario' (urgencias veterinarias) si necesitas ayuda urgente."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour emergency vet in Florence?",
+          "a": "The University of Florence veterinary hospital (UNIFI, Viale delle Piagge 2) offers emergency services. For referral to the nearest open clinic at any hour, call the Florence ASL veterinary line: 055 2496 1."
+        },
+        {
+          "q": "What documents do I need to bring my pet to Italy?",
+          "a": "EU-registered pets: valid EU pet passport, microchip, and up-to-date rabies vaccination. Non-EU pets: health certificate plus additional documentation depending on country of origin. Check salute.gov.it for current requirements."
+        },
+        {
+          "q": "What should I do in a pet emergency in Florence?",
+          "a": "Call 055 2496 1 (Florence ASL veterinary emergency) or 112 (general emergency) and ask for veterinary assistance. The University veterinary hospital can handle the most complex cases. Ask your hotel concierge for the nearest open vet."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Florence ?",
+          "a": "L'hôpital vétérinaire universitaire de l'Université de Florence (UNIFI, Viale delle Piagge 2) propose des services d'urgence. Pour être orienté vers la clinique ouverte la plus proche à toute heure, appelez la ligne vétérinaire ASL de Florence : 055 2496 1."
+        },
+        {
+          "q": "Quels documents dois-je apporter pour emmener mon animal en Italie ?",
+          "a": "Animaux enregistrés dans l'UE : passeport animal UE valide, puce électronique et vaccination antirabique à jour. Animaux non-UE : certificat sanitaire et documentation supplémentaire selon le pays d'origine. Consultez salute.gov.it pour les exigences actuelles."
+        },
+        {
+          "q": "Que faire en cas d'urgence avec mon animal à Florence ?",
+          "a": "Appelez le 055 2496 1 (urgences vétérinaires ASL Florence) ou le 112 (urgences générales) et demandez une assistance vétérinaire. L'hôpital vétérinaire universitaire peut gérer les cas les plus complexes. Demandez au concierge de votre hôtel le vétérinaire ouvert le plus proche."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario de urgencias 24 horas en Florencia?",
+          "a": "El hospital veterinario universitario de la Universidad de Florencia (UNIFI, Viale delle Piagge 2) ofrece servicios de urgencias. Para que te deriven a la clínica abierta más cercana a cualquier hora, llama a la línea veterinaria ASL de Florencia: 055 2496 1."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi mascota a Italia?",
+          "a": "Mascotas registradas en la UE: pasaporte de mascota UE válido, microchip y vacunación antirrábica al día. Mascotas no UE: certificado sanitario más documentación adicional según el país de origen. Consulta salute.gov.it para los requisitos actuales."
+        },
+        {
+          "q": "¿Qué hago en una emergencia con mi mascota en Florencia?",
+          "a": "Llama al 055 2496 1 (urgencias veterinarias ASL Florencia) o al 112 (emergencias generales) y solicita asistencia veterinaria. El hospital veterinario universitario puede manejar los casos más complejos. Pide al conserje de tu hotel el veterinario más cercano que esté abierto."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Florence with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Florence avec un chien",
+      "titleEs": "Consejos esenciales para visitar Florencia con un perro",
+      "introEn": "Florence is one of Italy's most rewarding cities for a short trip with a dog. It is compact, largely walkable, and the cultural weight of the city is primarily in its outdoor spaces — the streets, the piazzas, and the hilltop views — all of which are fully dog-accessible. The key constraints are the summer heat and the prohibition of dogs in Florence's major museums.",
+      "introFr": "Florence est l'une des villes les plus enrichissantes d'Italie pour un court séjour avec un chien. Elle est compacte, largement praticable à pied, et le patrimoine culturel de la ville est principalement dans ses espaces extérieurs — rues, piazzas et vues depuis les collines — tous entièrement accessibles aux chiens. Les principales contraintes sont la chaleur estivale et l'interdiction des chiens dans les grands musées florentins.",
+      "introEs": "Florencia es una de las ciudades más gratificantes de Italia para una escapada corta con un perro. Es compacta, en gran parte practicable a pie, y el peso cultural de la ciudad está principalmente en sus espacios exteriores — calles, plazas y vistas desde las colinas — todos totalmente accesibles para perros. Las principales limitaciones son el calor estival y la prohibición de perros en los grandes museos de Florencia.",
+      "places": [],
+      "tipsEn": [
+        "Dogs are not permitted inside the Uffizi Gallery, Accademia (David), Boboli Garden, or Palazzo Pitti. Plan museum visits with this in mind — use a pet-sitter or take turns.",
+        "Florence is at its most dog-friendly in the Oltrarno district. Cross the Ponte Vecchio or Ponte Santa Trinita and explore San Frediano and Piazza Santo Spirito — far more relaxed than the tourist-heavy north bank.",
+        "Summer heat in Florence (July–August) is intense. Walk your dog before 9am and after 7pm. The Arno riverbanks and Parco delle Cascine offer shade.",
+        "The Arno embankments (Lungarni) are excellent for on-leash dog walks and are far less crowded than the city centre streets.",
+        "Tuscany day trips from Florence are excellent with dogs: Chianti wine roads, Siena (mostly accessible), the Mugello hills. All require a car."
+      ],
+      "tipsFr": [
+        "Les chiens ne sont pas admis à la Galerie des Offices, à l'Accademia (Le David), au jardin de Boboli ni au Palazzo Pitti. Planifiez les visites de musées en conséquence — faites appel à un pet-sitter ou relayez-vous.",
+        "Florence est à son meilleur pour les chiens dans le quartier Oltrarno. Traversez le Ponte Vecchio ou le Ponte Santa Trinita et explorez San Frediano et la Piazza Santo Spirito — bien plus détendu que la rive nord très touristique.",
+        "La chaleur estivale à Florence (juillet–août) est intense. Promenez votre chien avant 9h et après 19h. Les berges de l'Arno et le Parco delle Cascine offrent de l'ombre.",
+        "Les quais de l'Arno (Lungarni) sont excellents pour les promenades en laisse et sont beaucoup moins fréquentés que les rues du centre-ville.",
+        "Les excursions d'une journée depuis Florence sont excellentes avec des chiens : les routes du Chianti, Sienne (largement accessible), les collines du Mugello. Toutes nécessitent une voiture."
+      ],
+      "tipsEs": [
+        "Los perros no están permitidos en la Galería Uffizi, la Accademia (el David), el Jardín de Boboli ni el Palazzo Pitti. Planifica las visitas a los museos teniendo esto en cuenta — usa un cuidador de mascotas o túrnate.",
+        "Florencia está en su mejor momento para los perros en el barrio de Oltrarno. Cruza el Ponte Vecchio o el Ponte Santa Trinita y explora San Frediano y la Piazza Santo Spirito — mucho más relajado que la concurrida orilla norte.",
+        "El calor estival en Florencia (julio–agosto) es intenso. Pasea a tu perro antes de las 9h y después de las 19h. Las orillas del Arno y el Parco delle Cascine ofrecen sombra.",
+        "Los muelles del Arno (Lungarni) son excelentes para paseos con correa y están mucho menos concurridos que las calles del centro de la ciudad.",
+        "Las excursiones de un día desde Florencia son excelentes con perros: las carreteras del Chianti, Siena (mayormente accesible), las colinas del Mugello. Todas requieren coche."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Florence a good city to visit with a dog?",
+          "a": "Yes. Florence is compact, walkable, and its primary attractions — the outdoor spaces, piazzas, hills, and Arno riverbanks — are all dog-accessible. The main limitation is that major museums do not allow dogs. Plan museum visits with a pet-sitter or by taking turns."
+        },
+        {
+          "q": "Which is the most dog-friendly part of Florence?",
+          "a": "Oltrarno, on the south bank of the Arno, is the most dog-friendly neighbourhood. It is less touristy, more residential, and has the best outdoor dining options for dogs. San Frediano and Piazza Santo Spirito are the heart of it."
+        },
+        {
+          "q": "Can I walk my dog along the Arno river in Florence?",
+          "a": "Yes. The Lungarni (Arno embankments) on both sides of the river are open for dog walking with dogs on-leash. This is one of Florence's best dog walks, particularly in the early morning and evening."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Florence est-elle une bonne ville pour un séjour avec un chien ?",
+          "a": "Oui. Florence est compacte, praticable à pied, et ses principales attractions — espaces extérieurs, piazzas, collines et quais de l'Arno — sont toutes accessibles aux chiens. La principale limite est que les grands musées n'admettent pas les chiens. Planifiez les visites de musées avec un pet-sitter ou en vous relayant."
+        },
+        {
+          "q": "Quelle est la partie la plus dog-friendly de Florence ?",
+          "a": "L'Oltrarno, sur la rive sud de l'Arno, est le quartier le plus dog-friendly. Il est moins touristique, plus résidentiel, et dispose des meilleures options de restauration en plein air pour les chiens. San Frediano et la Piazza Santo Spirito en sont le coeur."
+        },
+        {
+          "q": "Puis-je me promener avec mon chien le long de l'Arno à Florence ?",
+          "a": "Oui. Les Lungarni (quais de l'Arno) des deux rives sont ouverts aux promenades avec chien en laisse. C'est l'une des meilleures balades avec chien à Florence, particulièrement tôt le matin et le soir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Florencia una buena ciudad para visitar con un perro?",
+          "a": "Sí. Florencia es compacta, practicable a pie, y sus principales atracciones — espacios exteriores, plazas, colinas y orillas del Arno — son todas accesibles para perros. La principal limitación es que los grandes museos no admiten perros. Planifica las visitas a los museos con un cuidador de mascotas o turnándote."
+        },
+        {
+          "q": "¿Cuál es la parte más amigable para perros de Florencia?",
+          "a": "Oltrarno, en la orilla sur del Arno, es el barrio más amigable para perros. Es menos turístico, más residencial y tiene las mejores opciones gastronómicas al aire libre para perros. San Frediano y la Piazza Santo Spirito son su corazón."
+        },
+        {
+          "q": "¿Puedo pasear a mi perro a lo largo del río Arno en Florencia?",
+          "a": "Sí. Los Lungarni (muelles del Arno) en ambas orillas del río están abiertos para pasear perros con correa. Es uno de los mejores paseos con perro en Florencia, especialmente a primera hora de la mañana y por la tarde-noche."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Florence",
+      "titleFr": "Attractions acceptant les animaux à Florence",
+      "titleEs": "Atracciones con mascotas en Florencia",
+      "introEn": "Florence's major indoor museums (Uffizi, Accademia, Bargello, Palazzo Pitti) do not permit dogs. However, the city's extraordinary outdoor heritage — the piazzas, bridges, hilltops, and medieval streets — is all fully accessible with dogs on-leash. The outdoor experiences of Florence are, in many ways, the most memorable.",
+      "introFr": "Les grands musées intérieurs de Florence (Offices, Accademia, Bargello, Palazzo Pitti) n'admettent pas les chiens. Cependant, le patrimoine extérieur extraordinaire de la ville — piazzas, ponts, collines et rues médiévales — est entièrement accessible avec des chiens en laisse. Les expériences extérieures de Florence sont, à bien des égards, les plus mémorables.",
+      "introEs": "Los grandes museos interiores de Florencia (Uffizi, Accademia, Bargello, Palazzo Pitti) no admiten perros. Sin embargo, el extraordinario patrimonio exterior de la ciudad — plazas, puentes, colinas y calles medievales — es totalmente accesible con perros con correa. Las experiencias al aire libre de Florencia son, en muchos sentidos, las más memorables.",
+      "places": [
+        {
+          "name": "Piazzale Michelangelo",
+          "address": "Piazzale Michelangelo, 50125 Firenze",
+          "neighborhood": "Oltrarno",
+          "photo": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.turismoroma.it/en",
+          "description": "The most famous viewpoint in Florence, overlooking the entire city from the Oltrarno hill, is free, open 24 hours, and fully accessible to dogs on-leash. The walk up through the hillside gardens and staircases is itself a pleasure, and the view at sunrise or sunset is genuinely world-class. Several bar-restaurants around the piazzale have outdoor terraces where dogs are welcome.",
+          "descriptionFr": "Le point de vue le plus célèbre de Florence, surplombant toute la ville depuis la colline Oltrarno, est gratuit, ouvert 24h/24 et entièrement accessible aux chiens en laisse. La montée à travers les jardins et escaliers de la colline est en elle-même un plaisir, et la vue au lever ou coucher du soleil est véritablement de classe mondiale. Plusieurs bars-restaurants autour de la piazzale ont des terrasses extérieures où les chiens sont bienvenus.",
+          "descriptionEs": "El mirador más famoso de Florencia, con vistas a toda la ciudad desde la colina de Oltrarno, es gratuito, abierto 24 horas y totalmente accesible para perros con correa. La subida a través de los jardines y escalinatas de la ladera es en sí misma un placer, y la vista al amanecer o al atardecer es genuinamente de clase mundial. Varios bares-restaurantes alrededor de la piazzale tienen terrazas exteriores donde los perros son bienvenidos.",
+          "petPolicy": "Dogs on-leash welcome at the viewpoint and on the walk up",
+          "petPolicyFr": "Chiens en laisse bienvenus au belvédère et lors de la montée",
+          "petPolicyEs": "Perros con correa bienvenidos en el mirador y en la subida",
+          "openingHours": "Open 24 hours",
+          "tip": "Come at sunrise (before 7am) or sunset (after 7pm in summer). The light is extraordinary and the piazzale is almost empty.",
+          "tipFr": "Venez au lever du soleil (avant 7h) ou au coucher du soleil (après 19h en été). La lumière est extraordinaire et la piazzale est presque vide.",
+          "tipEs": "Ven al amanecer (antes de las 7h) o al atardecer (después de las 19h en verano). La luz es extraordinaria y la piazzale está casi vacía.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazzale+Michelangelo+Firenze"
+        },
+        {
+          "name": "Ponte Vecchio & Lungarno Walk",
+          "address": "Ponte Vecchio, 50125 Firenze",
+          "neighborhood": "Historic Centre",
+          "photo": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.visitflorence.com/florence-monuments/ponte-vecchio.html",
+          "description": "The Ponte Vecchio itself is a public thoroughfare — dogs on-leash are fully permitted on the bridge and along the Lungarni on both sides. This is one of the great free walking experiences in Florence: crossing the Ponte Vecchio with your dog, walking the Oltrarno Lungarno west toward Ponte Santa Trinita, then crossing back through the historic centre. Best in the early morning before the tourist crowds arrive.",
+          "descriptionFr": "Le Ponte Vecchio lui-même est une voie publique — les chiens en laisse sont tout à fait autorisés sur le pont et le long des Lungarni des deux côtés. C'est l'une des grandes expériences de marche gratuite à Florence : traverser le Ponte Vecchio avec son chien, longer l'Oltrarno Lungarno vers l'ouest jusqu'au Ponte Santa Trinita, puis revenir à travers le centre historique. Le mieux est de venir tôt le matin avant l'arrivée des foules touristiques.",
+          "descriptionEs": "El Ponte Vecchio en sí es una vía pública — los perros con correa están totalmente permitidos en el puente y a lo largo de los Lungarni en ambos lados. Esta es una de las grandes experiencias de paseo gratuitas en Florencia: cruzar el Ponte Vecchio con tu perro, caminar por el Lungarno de Oltrarno hacia el oeste hasta el Ponte Santa Trinita, y luego cruzar de vuelta por el centro histórico. Mejor a primera hora de la mañana antes de que lleguen las multitudes turísticas.",
+          "petPolicy": "Dogs on-leash permitted on the bridge and Lungarni",
+          "petPolicyFr": "Chiens en laisse autorisés sur le pont et les Lungarni",
+          "petPolicyEs": "Perros con correa permitidos en el puente y los Lungarni",
+          "openingHours": "Open at all times",
+          "tip": "Walk the Ponte Vecchio at 07:00–08:00. It's one of the world's most photographed bridges and is magical when empty.",
+          "tipFr": "Traversez le Ponte Vecchio entre 7h00 et 8h00. C'est l'un des ponts les plus photographiés au monde, et il est magique quand il est vide.",
+          "tipEs": "Cruza el Ponte Vecchio entre las 07:00 y las 08:00. Es uno de los puentes más fotografiados del mundo y es mágico cuando está vacío.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ponte+Vecchio+Firenze"
+        },
+        {
+          "name": "Mercato Centrale Neighbourhood Walk",
+          "address": "Piazza del Mercato Centrale, 50123 Firenze",
+          "neighborhood": "San Lorenzo",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.mercatocentrale.it/firenze/",
+          "description": "The San Lorenzo market area and the streets around Mercato Centrale are among the most authentic and dog-friendly parts of Florence. The outdoor street market around the leather stalls is dog-accessible, and several neighbourhood trattorias and wine bars on the side streets have outdoor tables where dogs are welcomed. The indoor food hall (Mercato Centrale al piano di sopra) does not allow dogs, but the surrounding streets are excellent.",
+          "descriptionFr": "La zone du marché San Lorenzo et les rues autour du Mercato Centrale sont parmi les parties les plus authentiques et dog-friendly de Florence. Le marché de rue extérieur autour des étals de cuir est accessible aux chiens, et plusieurs trattorias et bars à vin de quartier dans les rues adjacentes ont des tables extérieures où les chiens sont les bienvenus. La halle alimentaire intérieure (Mercato Centrale al piano di sopra) n'admet pas les chiens, mais les rues environnantes sont excellentes.",
+          "descriptionEs": "La zona del mercado de San Lorenzo y las calles alrededor del Mercato Centrale son de las partes más auténticas y amigables para perros de Florencia. El mercado de calle exterior alrededor de los puestos de cuero es accesible para perros, y varias trattorias y bares de vinos del barrio en las calles laterales tienen mesas exteriores donde los perros son bienvenidos. El mercado de alimentos interior (Mercato Centrale al piano di sopra) no admite perros, pero las calles circundantes son excelentes.",
+          "petPolicy": "Dogs on-leash welcome in the outdoor market area and surrounding streets",
+          "petPolicyFr": "Chiens en laisse bienvenus dans la zone du marché extérieur et les rues environnantes",
+          "petPolicyEs": "Perros con correa bienvenidos en la zona del mercado exterior y las calles circundantes",
+          "openingHours": "Market: daily 09:00–19:00",
+          "tip": "Visit the outdoor stalls in the morning and explore the neighbourhood cafés afterward. Via Rosina next to the market has some of the most dog-friendly outdoor seating in the centre.",
+          "tipFr": "Visitez les étals extérieurs le matin et explorez ensuite les cafés du quartier. La Via Rosina, à côté du marché, dispose de certains des meilleurs sièges extérieurs dog-friendly du centre.",
+          "tipEs": "Visita los puestos exteriores por la mañana y explora luego los cafés del barrio. La Via Rosina, junto al mercado, tiene algunos de los asientos exteriores más amigables para perros del centro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mercato+Centrale+Firenze"
+        }
+      ],
+      "tipsEn": [
+        "Major museums (Uffizi, Accademia) require leaving your dog behind. Book a Rover.com pet-sitter in advance for museum days.",
+        "The exterior of the Baptistery, the Campanile, and the Cathedral square (Piazza del Duomo) are all freely accessible with dogs on-leash.",
+        "Florence's historic centre is small. Walking from Ponte Vecchio to Santa Croce takes 15 minutes — everything is manageable with a dog."
+      ],
+      "tipsFr": [
+        "Les grands musées (Offices, Accademia) nécessitent de laisser votre chien. Réservez un pet-sitter sur Rover.com à l'avance pour les jours de musée.",
+        "L'extérieur du Baptistère, du Campanile et de la place de la Cathédrale (Piazza del Duomo) sont tous accessibles gratuitement avec des chiens en laisse.",
+        "Le centre historique de Florence est petit. La marche du Ponte Vecchio à Santa Croce prend 15 minutes — tout est gérable avec un chien."
+      ],
+      "tipsEs": [
+        "Los museos principales (Uffizi, Accademia) requieren dejar a tu perro. Reserva un cuidador de mascotas en Rover.com con antelación para los días de museo.",
+        "El exterior del Baptisterio, el Campanile y la plaza de la Catedral (Piazza del Duomo) son todos accesibles libremente con perros con correa.",
+        "El centro histórico de Florencia es pequeño. Caminar desde el Ponte Vecchio hasta Santa Croce lleva 15 minutos — todo es manejable con un perro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to see the Duomo in Florence?",
+          "a": "You can walk to the Piazza del Duomo and view the Cathedral, Baptistery, and Campanile exterior with your dog on-leash. Dogs are not permitted inside any of these buildings."
+        },
+        {
+          "q": "Can I take my dog across the Ponte Vecchio?",
+          "a": "Yes. The Ponte Vecchio is a public bridge — dogs on-leash are permitted. It is best enjoyed in the early morning before tourists fill the bridge."
+        },
+        {
+          "q": "Where can I go in Florence without leaving my dog behind?",
+          "a": "The entire outdoor city is accessible: all piazzas, bridges, hillside walks (Piazzale Michelangelo, Fiesole), Lungarni, outdoor markets, and terrace restaurants in Oltrarno. Florence's outdoor heritage is extraordinary and fully dog-friendly."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien voir le Duomo à Florence ?",
+          "a": "Vous pouvez vous rendre sur la Piazza del Duomo et admirer la cathédrale, le Baptistère et le Campanile de l'extérieur avec votre chien en laisse. Les chiens ne sont pas admis à l'intérieur de ces édifices."
+        },
+        {
+          "q": "Puis-je traverser le Ponte Vecchio avec mon chien ?",
+          "a": "Oui. Le Ponte Vecchio est un pont public — les chiens en laisse sont autorisés. C'est idéalement à apprécier tôt le matin avant que les touristes n'envahissent le pont."
+        },
+        {
+          "q": "Où puis-je aller à Florence sans laisser mon chien derrière moi ?",
+          "a": "Toute la ville extérieure est accessible : toutes les piazzas, ponts, promenades en colline (Piazzale Michelangelo, Fiesole), Lungarni, marchés extérieurs et restaurants en terrasse dans l'Oltrarno. Le patrimoine extérieur de Florence est extraordinaire et entièrement dog-friendly."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a ver el Duomo en Florencia?",
+          "a": "Puedes ir a la Piazza del Duomo y contemplar el exterior de la Catedral, el Baptisterio y el Campanile con tu perro con correa. Los perros no están permitidos dentro de ninguno de estos edificios."
+        },
+        {
+          "q": "¿Puedo cruzar el Ponte Vecchio con mi perro?",
+          "a": "Sí. El Ponte Vecchio es un puente público — los perros con correa están permitidos. Se disfruta mejor a primera hora de la mañana antes de que los turistas llenen el puente."
+        },
+        {
+          "q": "¿A dónde puedo ir en Florencia sin dejar a mi perro atrás?",
+          "a": "Toda la ciudad exterior es accesible: todas las plazas, puentes, paseos en las colinas (Piazzale Michelangelo, Fiesole), Lungarni, mercados exteriores y restaurantes de terraza en Oltrarno. El patrimonio exterior de Florencia es extraordinario y totalmente apto para perros."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Care in Florence",
+      "titleFr": "Pet-sitting et garde d'animaux à Florence",
+      "titleEs": "Cuidado de mascotas en Florencia",
+      "introEn": "Florence has a good network of pet-sitters and dog-walkers, primarily accessible through Rover.com. The city's compact size means most sitters can reach central hotels quickly. Book in advance for museum days (Uffizi, Accademia) when you will need someone to watch your dog. Summer demand (June–September) is high.",
+      "introFr": "Florence dispose d'un bon réseau de pet-sitters et promeneurs de chiens, principalement accessibles via Rover.com. La taille compacte de la ville signifie que la plupart des gardiens peuvent rejoindre rapidement les hôtels du centre. Réservez à l'avance pour les journées de musée (Offices, Accademia) où vous aurez besoin de quelqu'un pour surveiller votre chien. La demande en été (juin–septembre) est élevée.",
+      "introEs": "Florencia tiene una buena red de cuidadores de mascotas y paseadores de perros, principalmente accesibles a través de Rover.com. El tamaño compacto de la ciudad significa que la mayoría de los cuidadores pueden llegar rápidamente a los hoteles del centro. Reserva con antelación para los días de museo (Uffizi, Accademia) cuando necesitarás a alguien que cuide a tu perro. La demanda en verano (junio–septiembre) es alta.",
+      "places": [
+        {
+          "name": "Rover.com — Florence",
+          "address": "Online platform — sitters throughout Florence",
+          "neighborhood": "All Florence neighbourhoods",
+          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.rover.com/it/",
+          "description": "Rover.com is the most reliable platform for finding vetted pet-sitters and dog-walkers in Florence. The platform lists sitters across all central neighbourhoods, with verified reviews and pet insurance included. Particularly useful for Uffizi and Accademia visit days when dogs cannot enter.",
+          "descriptionFr": "Rover.com est la plateforme la plus fiable pour trouver des pet-sitters et promeneurs de chiens vérifiés à Florence. La plateforme liste des gardiens dans tous les quartiers centraux, avec des avis vérifiés et une assurance animaux incluse. Particulièrement utile pour les journées de visite aux Offices et à l'Accademia où les chiens ne peuvent pas entrer.",
+          "descriptionEs": "Rover.com es la plataforma más fiable para encontrar cuidadores de mascotas y paseadores de perros verificados en Florencia. La plataforma lista cuidadores en todos los barrios centrales, con reseñas verificadas y seguro de mascotas incluido. Especialmente útil para los días de visita a los Uffizi y la Accademia cuando los perros no pueden entrar.",
+          "petPolicy": "Verified sitters, background checks, pet insurance included",
+          "petPolicyFr": "Gardiens vérifiés, vérification des antécédents, assurance animaux incluse",
+          "petPolicyEs": "Cuidadores verificados, comprobación de antecedentes, seguro de mascotas incluido",
+          "priceRange": "€€",
+          "openingHours": "Book online. Sitters available 7 days",
+          "tip": "Book Rover sitters at least 5 days in advance for Uffizi or Accademia days.",
+          "tipFr": "Réservez les gardiens Rover au moins 5 jours à l'avance pour les jours Offices ou Accademia.",
+          "tipEs": "Reserva cuidadores de Rover con al menos 5 días de antelación para los días de Uffizi o Accademia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Florence+Italy"
+        }
+      ],
+      "tipsEn": [
+        "Florence is so compact that a dog-walker can cover your hotel from anywhere in the centre within 10 minutes.",
+        "Ask your hotel for recommendations. Many Florentine hotels have established contacts with local dog-walkers and pensioni per cani.",
+        "For multi-day museum itineraries, consider a full-day doggy daycare placement — more relaxing for your dog than multiple short handovers."
+      ],
+      "tipsFr": [
+        "Florence est tellement compacte qu'un promeneur de chien peut rejoindre votre hôtel depuis n'importe où dans le centre en 10 minutes.",
+        "Demandez à votre hôtel des recommandations. De nombreux hôtels florentins ont des contacts établis avec des promeneurs de chiens locaux et des pensioni per cani.",
+        "Pour les itinéraires de musée sur plusieurs jours, envisagez une garde à la journée complète — plus reposant pour votre chien que plusieurs courtes passations."
+      ],
+      "tipsEs": [
+        "Florencia es tan compacta que un paseador de perros puede llegar a tu hotel desde cualquier lugar del centro en 10 minutos.",
+        "Pide recomendaciones a tu hotel. Muchos hoteles florentinos tienen contactos establecidos con paseadores de perros locales y pensioni per cani.",
+        "Para itinerarios de museo de varios días, considera una guardería de día completo — más relajante para tu perro que múltiples entregas cortas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I leave my dog while visiting the Uffizi in Florence?",
+          "a": "Book a pet-sitter or dog-walker through Rover.com in advance. Many Florence hotels that accept dogs also have concierge connections to local dog-walkers. There is no official pet-minding service at the Uffizi entrance."
+        },
+        {
+          "q": "Are there dog boarding kennels in Florence?",
+          "a": "Yes. Several pensioni per cani (dog boarding facilities) operate in the Florence area. Ask your hotel for recommendations or search online for 'pensione per cani Firenze'."
+        },
+        {
+          "q": "Can I take my dog to Florence on a day trip and manage without a pet-sitter?",
+          "a": "Yes — if you skip indoor museums. Florence's outdoor spaces (Piazzale Michelangelo, Lungarni, Oltrarno, Parco delle Cascine) provide a full and rewarding day without entering any museum. You only need a pet-sitter if museum visits are on the agenda."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où puis-je laisser mon chien pendant la visite des Offices à Florence ?",
+          "a": "Réservez un pet-sitter ou un promeneur via Rover.com à l'avance. De nombreux hôtels florentins acceptant les animaux ont aussi des contacts en consergerie avec des promeneurs de chiens locaux. Il n'y a pas de service officiel de garde animaux à l'entrée des Offices."
+        },
+        {
+          "q": "Y a-t-il des chenils à Florence ?",
+          "a": "Oui. Plusieurs pensioni per cani (pensions pour chiens) fonctionnent dans la région de Florence. Demandez à votre hôtel des recommandations ou cherchez en ligne 'pensione per cani Firenze'."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Florence en excursion d'une journée et me passer d'un pet-sitter ?",
+          "a": "Oui — si vous renoncez aux musées intérieurs. Les espaces extérieurs de Florence (Piazzale Michelangelo, Lungarni, Oltrarno, Parco delle Cascine) offrent une journée complète et enrichissante sans entrer dans un musée. Vous n'avez besoin d'un pet-sitter que si des visites de musées sont au programme."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo dejar a mi perro mientras visito los Uffizi en Florencia?",
+          "a": "Reserva un cuidador de mascotas o paseador a través de Rover.com con antelación. Muchos hoteles de Florencia que aceptan perros también tienen contactos de conserjería con paseadores de perros locales. No hay servicio oficial de cuidado de mascotas en la entrada de los Uffizi."
+        },
+        {
+          "q": "¿Hay residencias caninas en Florencia?",
+          "a": "Sí. Varias pensioni per cani (residencias para perros) operan en el área de Florencia. Pide recomendaciones a tu hotel o busca en línea 'pensione per cani Firenze'."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a Florencia en una excursión de un día y arreglármelas sin cuidador?",
+          "a": "Sí — si omites los museos interiores. Los espacios exteriores de Florencia (Piazzale Michelangelo, Lungarni, Oltrarno, Parco delle Cascine) proporcionan un día completo y gratificante sin entrar en ningún museo. Solo necesitas un cuidador si las visitas a museos están en la agenda."
+        }
+      ]
+    }
+  }
+}

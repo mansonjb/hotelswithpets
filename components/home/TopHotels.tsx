@@ -52,53 +52,65 @@ export default function TopHotels({ locale }: TopHotelsProps) {
             const ctaHref = dest
               ? buildAllezLink(hotel.name, dest.name, dest.country)
               : hotel.bookingUrl
+            const isFree = hotel.petFee === 0
+            const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night'
+            const fromLabel = locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : 'From'
             return (
-              <article key={hotel.id} className="group bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
+              <article key={hotel.id} className="group bg-white rounded-3xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
                 {/* Image */}
-                <div className="relative h-48 overflow-hidden flex-shrink-0">
+                <div className="relative h-52 overflow-hidden flex-shrink-0">
                   <Image
                     src={`/images/hotels/${hotel.id}.jpg`}
                     alt={hotel.name}
                     fill
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    className="object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                   />
-                  {/* Rank badge */}
-                  <div className="absolute top-3 left-3">
-                    <span className="bg-amber-400 text-gray-900 text-xs font-black px-2.5 py-1 rounded-full shadow">
-                      #{i + 1}
-                    </span>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
+                  {/* Rank badge — top left */}
+                  <div className="absolute top-3 left-3 flex items-center gap-1.5 bg-white/95 backdrop-blur-sm rounded-xl px-2.5 py-1.5 shadow-sm">
+                    <span className="text-amber-500 font-black text-xs">#{i + 1}</span>
+                    <span className="text-blue-600 font-black text-sm leading-none">{hotel.rating}</span>
                   </div>
-                  {/* Rating badge */}
+                  {/* Pet fee badge — top right */}
                   <div className="absolute top-3 right-3">
-                    <span className="bg-blue-600 text-white text-sm font-black px-2.5 py-1 rounded-lg shadow">
-                      {hotel.rating}
+                    {isFree ? (
+                      <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
+                        🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : 'Free'}
+                      </span>
+                    ) : (
+                      <span className="bg-amber-400 text-gray-900 text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
+                        €{hotel.petFee}
+                      </span>
+                    )}
+                  </div>
+                  {/* Stars — bottom left */}
+                  <div className="absolute bottom-3 left-3">
+                    <span className="text-amber-400 text-sm tracking-tight drop-shadow-sm">
+                      {'★'.repeat(hotel.stars)}{'☆'.repeat(Math.max(0, 5 - hotel.stars))}
                     </span>
                   </div>
                 </div>
 
                 <div className="p-5 flex flex-col flex-1">
-                  <div className="flex items-start gap-2 mb-2">
-                    <h3 className="font-bold text-gray-900 text-base leading-snug flex-1 group-hover:text-blue-700 transition-colors">
-                      {hotel.name}
-                    </h3>
-                  </div>
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="text-amber-400 text-xs">{'★'.repeat(hotel.stars)}</span>
-                    {dest && (
-                      <span className="text-xs text-gray-400">{dest.flag} {dest.name}</span>
-                    )}
-                  </div>
-                  <div className="flex items-center justify-between mt-auto pt-3 border-t border-gray-100">
+                  <h3 className="font-bold text-gray-900 text-base leading-snug mb-1 group-hover:text-blue-700 transition-colors line-clamp-2">
+                    {hotel.name}
+                  </h3>
+                  {dest && (
+                    <p className="text-xs text-gray-400 mb-4">{dest.flag} {dest.name}, {dest.country}</p>
+                  )}
+                  <div className="flex items-center justify-between mt-auto pt-3 border-t border-gray-50">
                     <div>
-                      <p className="text-xs text-gray-400">{locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : 'From'}</p>
-                      <p className="text-xl font-black text-gray-900">€{hotel.priceFrom}<span className="text-xs font-normal text-gray-400 ml-1">/night</span></p>
+                      <p className="text-[10px] text-gray-400 uppercase tracking-widest">{fromLabel}</p>
+                      <p className="text-xl font-black text-gray-900 leading-tight">
+                        €{hotel.priceFrom}<span className="text-xs font-normal text-gray-400 ml-1">{perNight}</span>
+                      </p>
                     </div>
                     <a
                       href={ctaHref}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
-                      className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-4 py-2.5 rounded-xl text-sm transition-all shadow-md hover:-translate-y-0.5 whitespace-nowrap"
+                      className="flex-shrink-0 bg-blue-600 hover:bg-blue-700 text-white font-bold px-4 py-2.5 rounded-xl text-xs tracking-wide transition-all duration-150 shadow-sm hover:shadow-blue-200 hover:shadow-md whitespace-nowrap"
                     >
                       {bookLabel[locale] ?? bookLabel.en} →
                     </a>

@@ -38,6 +38,9 @@ export default function Header({ locale, dict }: HeaderProps) {
             <Link href={`/${locale}/categories`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.categories}
             </Link>
+            <Link href={`/${locale}/countries`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+              {dict.nav.countries ?? 'Countries'}
+            </Link>
             <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.about}
             </Link>

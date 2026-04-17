@@ -1,0 +1,102 @@
+/**
+ * Localized city names for FR and ES.
+ * English city names (from destinations.json) are used as fallback.
+ * Usage: getLocalizedCityName(slug, englishName, locale)
+ */
+
+const NAMES_FR: Record<string, string> = {
+  lisbon: 'Lisbonne',
+  vienna: 'Vienne',
+  edinburgh: 'Édimbourg',
+  venice: 'Venise',
+  florence: 'Florence',
+  copenhagen: 'Copenhague',
+  seville: 'Séville',
+  valencia: 'Valence',
+  ghent: 'Gand',
+  antwerp: 'Anvers',
+  warsaw: 'Varsovie',
+  krakow: 'Cracovie',
+  brussels: 'Bruxelles',
+  athens: 'Athènes',
+  salzburg: 'Salzbourg',
+  barcelona: 'Barcelone',
+  munich: 'Munich',
+  cologne: 'Cologne',
+  rome: 'Rome',
+  milan: 'Milan',
+  naples: 'Naples',
+  dubrovnik: 'Dubrovnik',
+  zagreb: 'Zagreb',
+  bucharest: 'Bucarest',
+  sofia: 'Sofia',
+  oslo: 'Oslo',
+  stockholm: 'Stockholm',
+  helsinki: 'Helsinki',
+  reykjavik: 'Reykjavik',
+  geneva: 'Genève',
+  zurich: 'Zurich',
+  luxembourg: 'Luxembourg',
+  nice: 'Nice',
+  lyon: 'Lyon',
+  bordeaux: 'Bordeaux',
+  toulouse: 'Toulouse',
+  bruges: 'Bruges',
+  porto: 'Porto',
+  bilbao: 'Bilbao',
+  tallinn: 'Tallinn',
+  riga: 'Riga',
+  vilnius: 'Vilnius',
+  budapest: 'Budapest',
+  bratislava: 'Bratislava',
+  ljubljana: 'Ljubljana',
+  thessaloniki: 'Thessalonique',
+  bern: 'Berne',
+}
+
+const NAMES_ES: Record<string, string> = {
+  lisbon: 'Lisboa',
+  vienna: 'Viena',
+  edinburgh: 'Edimburgo',
+  florence: 'Florencia',
+  venice: 'Venecia',
+  ghent: 'Gante',
+  antwerp: 'Amberes',
+  warsaw: 'Varsovia',
+  krakow: 'Cracovia',
+  brussels: 'Bruselas',
+  athens: 'Atenas',
+  salzburg: 'Salzburgo',
+  seville: 'Sevilla',
+  copenhagen: 'Copenhague',
+  munich: 'Múnich',
+  cologne: 'Colonia',
+  rome: 'Roma',
+  milan: 'Milán',
+  naples: 'Nápoles',
+  zagreb: 'Zagreb',
+  bucharest: 'Bucarest',
+  sofia: 'Sofía',
+  geneva: 'Ginebra',
+  zurich: 'Zúrich',
+  nice: 'Niza',
+  bruges: 'Brujas',
+  tallinn: 'Tallin',
+  riga: 'Riga',
+  vilnius: 'Vilna',
+  bratislava: 'Bratislava',
+  ljubljana: 'Liubliana',
+  thessaloniki: 'Tesalónica',
+  bern: 'Berna',
+  reykjavik: 'Reikiavik',
+}
+
+export function getLocalizedCityName(
+  slug: string,
+  englishName: string,
+  locale: string
+): string {
+  if (locale === 'fr') return NAMES_FR[slug] ?? englishName
+  if (locale === 'es') return NAMES_ES[slug] ?? englishName
+  return englishName
+}

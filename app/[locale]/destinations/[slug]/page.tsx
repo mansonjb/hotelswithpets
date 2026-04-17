@@ -13,6 +13,7 @@ import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { generateDestIntro, generateDestFaqs, destContextByLocale } from '@/lib/editorial'
 import cityContent from '@/lib/cityContent'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -81,6 +82,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
   const dict = await getDictionary(locale as Locale)
   const p = dict.pages.destination
+  const localizedName = getLocalizedCityName(slug, dest.name, locale)
 
   const destHotels = hotels.filter((h) => h.destinationSlug === slug)
   const localeIntro = generateDestIntro(slug, dest.name, dest.country, locale) || dest.intro
@@ -204,7 +206,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           <div className="flex items-center gap-6">
             <span className="text-6xl lg:text-8xl">{dest.flag}</span>
             <div>
-              <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{dest.name}</h1>
+              <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{localizedName}</h1>
               <p className="text-blue-300 text-lg">
                 <Link
                   href={`/${locale}/countries/${dest.country.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
@@ -296,7 +298,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           free:    locale === 'fr' ? 'sans frais animaux' : locale === 'es' ? 'sin cargo mascotas' : 'with no pet fee',
           from:    locale === 'fr' ? 'dès' : locale === 'es' ? 'desde' : 'from',
           night:   locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night',
-          whyTitle: locale === 'fr' ? `Pourquoi ${dest.name} avec votre animal ?` : locale === 'es' ? `¿Por qué ${dest.name} con tu mascota?` : `Why ${dest.name} with your pet?`,
+          whyTitle: locale === 'fr' ? `Pourquoi ${localizedName} avec votre animal ?` : locale === 'es' ? `¿Por qué ${localizedName} con tu mascota?` : `Why ${localizedName} with your pet?`,
           highlight: locale === 'fr' ? 'À ne pas manquer' : locale === 'es' ? 'No te pierdas' : 'Top spot',
           area: locale === 'fr' ? 'Quartiers idéaux' : locale === 'es' ? 'Barrios ideales' : 'Best area',
         }
@@ -338,7 +340,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   {/* Why this city */}
                   <div className="md:col-span-1 bg-indigo-50 rounded-2xl p-6">
                     <p className="text-xs font-bold uppercase tracking-widest text-indigo-400 mb-2">{statsLabel.whyTitle}</p>
-                    <p className="text-gray-800 text-sm leading-relaxed">{dest.name} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : 'is'} {ctx.personality}.</p>
+                    <p className="text-gray-800 text-sm leading-relaxed">{localizedName} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : 'is'} {ctx.personality}.</p>
                   </div>
                   {/* Top spot */}
                   <div className="bg-emerald-50 rounded-2xl p-6">
@@ -361,9 +363,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {cityContent[slug] && (() => {
         const cc = cityContent[slug]
         const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
-        const historyTitle = locale === 'fr' ? `Amsterdam : histoire et caractère` : locale === 'es' ? `Ámsterdam: historia y carácter` : `${dest.name}: history & character`
+        const historyTitle = locale === 'fr' ? `${localizedName} : histoire et caractère` : locale === 'es' ? `${localizedName}: historia y carácter` : `${localizedName}: history & character`
         const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : 'Key sights'
-        const petsTitle = locale === 'fr' ? 'Voyager avec son animal à Amsterdam' : locale === 'es' ? 'Viajar con mascota en Ámsterdam' : 'Travelling with a pet in Amsterdam'
+        const petsTitle = locale === 'fr' ? `Voyager avec son animal à ${localizedName}` : locale === 'es' ? `Viajar con mascota en ${localizedName}` : `Travelling with a pet in ${localizedName}`
         const practicalTitle = locale === 'fr' ? 'Infos pratiques' : locale === 'es' ? 'Información práctica' : 'Practical info'
         const petFriendlyLabel = locale === 'fr' ? 'Accès animaux' : locale === 'es' ? 'Acceso mascotas' : 'Pet-friendly'
         const restrictedLabel = locale === 'fr' ? 'Animaux non admis' : locale === 'es' ? 'No mascotas' : 'Pets restricted'
@@ -444,17 +446,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               </span>
               <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 leading-tight">
                 {locale === 'fr'
-                  ? `Guide complet de ${dest.name} avec votre animal`
+                  ? `Guide complet de ${localizedName} avec votre animal`
                   : locale === 'es'
-                  ? `Guía completa de ${dest.name} con tu mascota`
-                  : `Complete ${dest.name} pet travel guide`}
+                  ? `Guía completa de ${localizedName} con tu mascota`
+                  : `Complete ${localizedName} pet travel guide`}
               </h2>
               <p className="text-gray-500 text-lg max-w-2xl">
                 {locale === 'fr'
-                  ? `Restaurants, parcs, transports, plages, vétérinaires. Tout ce qu'il faut savoir pour ${dest.name} avec votre animal.`
+                  ? `Restaurants, parcs, transports, plages, vétérinaires. Tout ce qu'il faut savoir pour ${localizedName} avec votre animal.`
                   : locale === 'es'
-                  ? `Restaurantes, parques, transporte, playas, veterinarios. Todo lo que necesitas saber para ${dest.name} con tu mascota.`
-                  : `Restaurants, parks, transport, beaches, vets. Everything you need to know for ${dest.name} with your pet.`}
+                  ? `Restaurantes, parques, transporte, playas, veterinarios. Todo lo que necesitas saber para ${localizedName} con tu mascota.`
+                  : `Restaurants, parks, transport, beaches, vets. Everything you need to know for ${localizedName} with your pet.`}
               </p>
             </div>
 
@@ -545,7 +547,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
-              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${dest.name}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${dest.name}` : `Pet-friendly hotel map: ${dest.name}`}
+              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
             </h2>
             <PetMap
                 lat={(dest as typeof dest & { lat: number }).lat}
@@ -564,7 +566,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-white border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-xl font-extrabold text-gray-900 mb-2">
-              🌡️ {locale === 'fr' ? `Météo typique à ${dest.name}` : locale === 'es' ? `Clima típico en ${dest.name}` : `Typical weather in ${dest.name}`}
+              🌡️ {locale === 'fr' ? `Météo typique à ${localizedName}` : locale === 'es' ? `Clima típico en ${localizedName}` : `Typical weather in ${localizedName}`}
             </h2>
             <p className="text-sm text-gray-500 mb-6">
               {locale === 'fr' ? 'Températures moyennes. Idéal pour planifier votre séjour avec votre animal' : locale === 'es' ? 'Temperaturas medias. Ideal para planificar su estancia con su mascota' : 'Average temperatures. Ideal for planning your pet trip'}
@@ -618,7 +620,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   </div>
                   {bestMonths.length > 0 && (
                     <p className="mt-4 text-sm text-gray-500">
-                      🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${dest.name} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${dest.name}: ` : `Best months to travel with a pet in ${dest.name}: `}
+                      🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${localizedName} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${localizedName}: ` : `Best months to travel with a pet in ${localizedName}: `}
                       <span className="font-semibold text-gray-700">
                         {bestMonths.map(m => (monthLabels[locale] ?? monthLabels.en)[m]).join(', ')}
                       </span>
@@ -635,7 +637,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
-            {p.hotelsTitle}: {dest.name}
+            {p.hotelsTitle}: {localizedName}
           </h2>
           {destHotels.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -657,7 +659,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-gray-50 border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-xl font-extrabold text-gray-900 mb-6">
-              {locale === 'fr' ? `Explorer les hôtels à ${dest.name} par type` : locale === 'es' ? `Explorar hoteles en ${dest.name} por tipo` : `Explore ${dest.name} hotels by type`}
+              {locale === 'fr' ? `Explorer les hôtels à ${localizedName} par type` : locale === 'es' ? `Explorar hoteles en ${localizedName} por tipo` : `Explore ${localizedName} hotels by type`}
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
               {presentCategories.map((cat) => {
@@ -728,7 +730,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   className="inline-flex items-center gap-2 bg-white border border-gray-200 rounded-full px-5 py-2.5 text-sm font-medium text-gray-700 hover:border-blue-300 hover:text-blue-700 transition-colors shadow-sm"
                 >
                   <span>{related.flag}</span>
-                  <span>{related.name}</span>
+                  <span>{getLocalizedCityName(related.slug, related.name, locale)}</span>
                 </Link>
               ))}
             </div>

@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { getAllCountries, slugToCountry } from '@/lib/countries'
+import { getLocalizedCityName } from '@/lib/cityNames'
 import hotels from '@/data/hotels.json'
 import categories from '@/data/categories.json'
 import { SITE_URL } from '@/lib/site'
@@ -149,7 +150,7 @@ export default async function CountryPage({
                     </div>
                     <div className="relative">
                       <span className="text-5xl mb-3 block">{dest.flag}</span>
-                      <h2 className="text-white font-extrabold text-2xl mb-1">{dest.name}</h2>
+                      <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
                       <p className="text-white/70 text-sm mb-3">
                         {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}
                       </p>
@@ -172,11 +173,12 @@ export default async function CountryPage({
             const topCats = categories.filter(c => destCats.has(c.slug)).slice(0, 2)
             topCats.forEach(cat => {
               const catLabel = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+              const localizedDestName = getLocalizedCityName(dest.slug, dest.name, locale)
               const label = locale === 'fr'
-                ? `Hôtels ${catLabel.toLowerCase()} à ${dest.name}`
+                ? `Hôtels ${catLabel.toLowerCase()} à ${localizedDestName}`
                 : locale === 'es'
-                ? `Hoteles ${catLabel.toLowerCase()} en ${dest.name}`
-                : `${catLabel} hotels in ${dest.name}`
+                ? `Hoteles ${catLabel.toLowerCase()} en ${localizedDestName}`
+                : `${catLabel} hotels in ${localizedDestName}`
               guideLinks.push({ href: `/${locale}/${dest.slug}/${cat.slug}`, label })
             })
           })

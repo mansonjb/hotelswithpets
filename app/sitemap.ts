@@ -52,6 +52,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   }
 
+  // Countries listing page
+  for (const locale of LOCALES) {
+    entries.push({
+      url: `${BASE_URL}/${locale}/countries`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+  }
+
   // Country hub pages
   const allCountries = getAllCountries()
   for (const country of allCountries) {

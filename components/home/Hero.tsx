@@ -35,12 +35,22 @@ function getCategoryName(cat: (typeof categories)[number], locale: Locale): stri
 function matchDestination(query: string) {
   const q = query.trim().toLowerCase()
   if (!q) return null
-  return (
-    destinations.find((d) => d.slug === q) ||
-    destinations.find((d) => d.name.toLowerCase() === q) ||
-    destinations.find((d) => d.name.toLowerCase().startsWith(q)) ||
-    null
-  )
+  // 1. exact slug
+  const bySlug = destinations.find((d) => d.slug === q)
+  if (bySlug) return bySlug
+  // 2. exact name (case-insensitive)
+  const byExact = destinations.find((d) => d.name.toLowerCase() === q)
+  if (byExact) return byExact
+  // 3. starts with
+  const byStart = destinations.find((d) => d.name.toLowerCase().startsWith(q))
+  if (byStart) return byStart
+  // 4. includes anywhere (e.g. "elona" → Barcelona, "burg" → Edinburgh)
+  const byIncludes = destinations.find((d) => d.name.toLowerCase().includes(q))
+  if (byIncludes) return byIncludes
+  // 5. country match — return first city in that country
+  const byCountry = destinations.find((d) => d.country.toLowerCase().includes(q))
+  if (byCountry) return byCountry
+  return null
 }
 
 export default function Hero({ locale, dict }: HeroProps) {

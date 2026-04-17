@@ -229,6 +229,57 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </div>
       </section>
 
+      {/* ── Pet passport alert for destinations with special entry rules ── */}
+      {['edinburgh', 'dublin', 'helsinki', 'reykjavik', 'oslo'].includes(slug) && (() => {
+        const alerts: Record<string, Record<string, { icon: string; text: string }>> = {
+          edinburgh: {
+            fr: { icon: '⚠️', text: `Le Royaume-Uni n'accepte plus le passeport européen post-Brexit. Un Certificat Sanitaire Animal (AHC) est obligatoire pour entrer avec votre animal.` },
+            en: { icon: '⚠️', text: `The UK no longer accepts the EU pet passport post-Brexit. An Animal Health Certificate (AHC) is required to enter with your pet.` },
+            es: { icon: '⚠️', text: `El Reino Unido ya no acepta el pasaporte europeo post-Brexit. Se requiere un Certificado Sanitario Animal (AHC) para entrar con tu mascota.` },
+          },
+          dublin: {
+            fr: { icon: '⚠️', text: `L'Irlande exige un traitement antiparasite tapeworm pour les chiens (24–120h avant l'arrivée) et l'entrée par un port approuvé.` },
+            en: { icon: '⚠️', text: `Ireland requires a tapeworm treatment for dogs (24–120h before arrival) and entry via an approved port.` },
+            es: { icon: '⚠️', text: `Irlanda exige un tratamiento antiparasitario contra tenias para perros (24-120h antes de la llegada) y la entrada por un puerto aprobado.` },
+          },
+          helsinki: {
+            fr: { icon: '⚠️', text: `La Finlande exige un traitement antiparasite échinocoque 1 à 5 jours avant l'entrée, en plus du passeport européen standard.` },
+            en: { icon: '⚠️', text: `Finland requires an Echinococcus (tapeworm) treatment 1–5 days before entry, in addition to the standard EU passport.` },
+            es: { icon: '⚠️', text: `Finlandia exige un tratamiento contra Echinococcus (tenia) 1-5 días antes de la entrada, además del pasaporte UE estándar.` },
+          },
+          reykjavik: {
+            fr: { icon: '⚠️', text: `L'Islande a des règles très strictes : test de titration antirabique + permis d'importation + traitement antiparasitaire. Prévoyez 6 mois à l'avance.` },
+            en: { icon: '⚠️', text: `Iceland has very strict rules: rabies titer test + import permit + anti-parasite treatment. Allow 6 months to prepare.` },
+            es: { icon: '⚠️', text: `Islandia tiene normas muy estrictas: test de titulación antirrábica + permiso de importación + tratamiento antiparasitario. Prevé 6 meses de antelación.` },
+          },
+          oslo: {
+            fr: { icon: '⚠️', text: `La Norvège exige un traitement tapeworm 1 à 5 jours avant l'entrée. Les documents UE sont acceptés mais des règles supplémentaires s'appliquent.` },
+            en: { icon: '⚠️', text: `Norway requires a tapeworm treatment 1–5 days before entry. EU documents are accepted but extra rules apply.` },
+            es: { icon: '⚠️', text: `Noruega exige un tratamiento contra tenias 1-5 días antes de la entrada. Los documentos UE son aceptados, pero se aplican normas adicionales.` },
+          },
+        }
+        const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+        const alert = alerts[slug]?.[lang]
+        if (!alert) return null
+        const guideLabel = locale === 'fr' ? 'Voir le guide complet' : locale === 'es' ? 'Ver guía completa' : 'See full guide'
+        return (
+          <div className="bg-amber-50 border-b border-amber-100">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+              <div className="flex items-start justify-between gap-4 flex-wrap">
+                <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
+                  <span className="flex-shrink-0 text-base">{alert.icon}</span>
+                  <span><strong>{locale === 'fr' ? 'Attention passeport animal :' : locale === 'es' ? 'Atención pasaporte mascota:' : 'Pet passport alert:'}</strong> {alert.text}</span>
+                </p>
+                <Link href={`/${locale}/guides/passeport-animal`}
+                  className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap">
+                  {guideLabel} →
+                </Link>
+              </div>
+            </div>
+          </div>
+        )
+      })()}
+
       {/* ── Editorial Snapshot ── */}
       {(() => {
         const ctx = destContextByLocale['en']?.[slug]

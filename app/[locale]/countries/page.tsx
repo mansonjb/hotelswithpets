@@ -166,13 +166,21 @@ export default async function CountriesPage({
         </div>
       </section>
 
-      {/* Travel tip */}
+      {/* Travel tip — links to full guide */}
       <section className="bg-amber-50 border-b border-amber-100 py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-sm text-amber-800 flex items-start gap-2">
-            <span className="text-base flex-shrink-0">💡</span>
-            <span><strong>{copy.tipTitle}</strong> {copy.tip}</span>
-          </p>
+          <div className="flex items-start justify-between gap-4 flex-wrap">
+            <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
+              <span className="text-base flex-shrink-0">💡</span>
+              <span><strong>{copy.tipTitle}</strong> {copy.tip}</span>
+            </p>
+            <Link
+              href={`/${locale}/guides/passeport-animal`}
+              className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap"
+            >
+              {locale === 'fr' ? 'Guide complet →' : locale === 'es' ? 'Guía completa →' : 'Full guide →'}
+            </Link>
+          </div>
         </div>
       </section>
 

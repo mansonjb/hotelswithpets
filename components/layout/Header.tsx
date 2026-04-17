@@ -130,6 +130,21 @@ export default function Header({ locale, dict }: HeaderProps) {
                       >
                         {locale === 'fr' ? `Voir les ${destinations.length} destinations →` : locale === 'es' ? `Ver ${destinations.length} destinos →` : `View all ${destinations.length} destinations →`}
                       </Link>
+                      <div className="mt-4 pt-4 border-t border-gray-100">
+                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2">
+                          {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : 'Practical guides'}
+                        </p>
+                        <Link
+                          href={`/${locale}/guides/passeport-animal`}
+                          className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-amber-50 hover:text-amber-700 text-gray-600 transition-colors"
+                          onClick={() => setDropdownOpen(false)}
+                        >
+                          <span className="text-base">📋</span>
+                          <span className="text-sm font-medium leading-tight">
+                            {locale === 'fr' ? 'Passeport animal par pays' : locale === 'es' ? 'Pasaporte mascota por país' : 'Pet passport by country'}
+                          </span>
+                        </Link>
+                      </div>
                     </div>
 
                     {/* Right: Browse by country */}
@@ -162,6 +177,9 @@ export default function Header({ locale, dict }: HeaderProps) {
             </Link>
             <Link href={`/${locale}/countries`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.countries ?? 'Countries'}
+            </Link>
+            <Link href={`/${locale}/guides/passeport-animal`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+              {locale === 'fr' ? 'Guides' : locale === 'es' ? 'Guías' : 'Guides'}
             </Link>
             <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.about}

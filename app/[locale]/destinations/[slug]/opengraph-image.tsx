@@ -5,22 +5,6 @@ import hotels from '@/data/hotels.json'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
 
-export async function generateImageMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string; slug: string }>
-}) {
-  const { slug } = await params
-  const dest = destinations.find((d) => d.slug === slug)
-  return [
-    {
-      id: slug,
-      alt: dest
-        ? `Pet-friendly hotels in ${dest.name}, ${dest.country}`
-        : 'Pet-friendly hotels in Europe',
-    },
-  ]
-}
 
 export default async function Image({
   params,

@@ -7,22 +7,6 @@ export const contentType = 'image/png'
 
 const countries = getAllCountries()
 
-export async function generateImageMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string; slug: string }>
-}) {
-  const { slug } = await params
-  const countryName = slugToCountry(slug)
-  return [
-    {
-      id: slug,
-      alt: countryName
-        ? `Pet-friendly hotels in ${countryName} — HotelsWithPets.com`
-        : 'Pet-friendly hotels in Europe — HotelsWithPets.com',
-    },
-  ]
-}
 
 export default async function Image({
   params,

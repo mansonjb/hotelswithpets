@@ -46,12 +46,21 @@ export default function Footer({ locale, dict }: FooterProps) {
 
           {/* Popular Destinations */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Popular</h3>
+            <h3 className="text-white font-semibold mb-4">
+              {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : 'Popular'}
+            </h3>
             <ul className="space-y-2 text-sm">
-              {['Amsterdam', 'Paris', 'Barcelona', 'Berlin'].map((city) => (
-                <li key={city}>
-                  <Link href={`/${locale}/destinations/${city.toLowerCase()}`} className="hover:text-white transition-colors">
-                    {city}
+              {[
+                { name: 'Amsterdam', slug: 'amsterdam' },
+                { name: 'Paris', slug: 'paris' },
+                { name: 'Barcelona', slug: 'barcelona' },
+                { name: 'Berlin', slug: 'berlin' },
+                { name: 'Lisbon', slug: 'lisbon' },
+                { name: 'Rome', slug: 'rome' },
+              ].map((city) => (
+                <li key={city.slug}>
+                  <Link href={`/${locale}/destinations/${city.slug}`} className="hover:text-white transition-colors">
+                    {city.name}
                   </Link>
                 </li>
               ))}
@@ -69,7 +78,35 @@ export default function Footer({ locale, dict }: FooterProps) {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-10 pt-6 text-sm text-gray-500">
+        {/* Country links */}
+        <div className="border-t border-gray-800 mt-10 pt-8">
+          <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
+            {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : 'By country'}
+          </p>
+          <div className="flex flex-wrap gap-x-4 gap-y-1">
+            {[
+              { name: 'France', slug: 'france', flag: '🇫🇷' },
+              { name: 'Spain', slug: 'spain', flag: '🇪🇸' },
+              { name: 'Italy', slug: 'italy', flag: '🇮🇹' },
+              { name: 'Germany', slug: 'germany', flag: '🇩🇪' },
+              { name: 'Portugal', slug: 'portugal', flag: '🇵🇹' },
+              { name: 'Belgium', slug: 'belgium', flag: '🇧🇪' },
+              { name: 'Netherlands', slug: 'netherlands', flag: '🇳🇱' },
+              { name: 'Austria', slug: 'austria', flag: '🇦🇹' },
+            ].map((c) => (
+              <Link
+                key={c.slug}
+                href={`/${locale}/countries/${c.slug}`}
+                className="text-sm text-gray-500 hover:text-gray-300 transition-colors flex items-center gap-1"
+              >
+                <span>{c.flag}</span>
+                <span>{c.name}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        <div className="border-t border-gray-800 mt-6 pt-6 text-sm text-gray-500">
           {footer.copyright}
         </div>
       </div>

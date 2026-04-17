@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
@@ -19,6 +20,8 @@ interface GuidePlace {
   neighborhood?: string
   distance?: string
   type?: string
+  photo?: string          // Unsplash URL or /images/guides/... path
+  website?: string        // Official external website URL
   // Multilingual description
   description: string
   descriptionFr?: string
@@ -228,7 +231,36 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
 // ─── UI label maps ────────────────────────────────────────────────────────────
 
 function uiLabels(locale: string) {
+  const en = {
+    updated: 'Updated',
+    cityOverview: '← City overview',
+    offLeash: 'Off-leash ✓',
+    enSpoken: 'EN spoken',
+    offLeashZone: 'Off-leash zone:',
+    rules: 'Rules:',
+    viewOnMaps: 'View on Google Maps →',
+    visitWebsite: 'Visit official website →',
+    modeHeader: 'Mode',
+    policyHeader: 'Policy',
+    tipHeader: 'Tip',
+    euPets: 'EU pets:',
+    nonEuPets: 'Non-EU pets:',
+    emergencyContacts: 'Emergency contacts:',
+    perNight: '/night',
+    admissionFee: 'Admission:',
+    dogPolicy: 'Dog policy:',
+    serviceType: 'Service:',
+    seeAllHotels: 'See all hotels →',
+    compareBooking: 'Compare on Booking.com →',
+    moreGuides: (city: string) => `More ${city} guides`,
+    quickTips: '💡 Quick Tips',
+    faqTitle: 'Frequently Asked Questions',
+    hotelsTitle: (city: string) => `Pet-Friendly Hotels in ${city}`,
+    hotelsSubtitle: 'Our top-rated pet-friendly hotels, handpicked and verified.',
+    entryTitle: 'Pet Entry Requirements',
+  }
   if (locale === 'fr') return {
+    ...en,
     updated: 'Mis à jour le',
     cityOverview: '← Aperçu de la ville',
     offLeash: 'Sans laisse ✓',
@@ -236,6 +268,7 @@ function uiLabels(locale: string) {
     offLeashZone: 'Zone sans laisse :',
     rules: 'Règles :',
     viewOnMaps: 'Voir sur Google Maps →',
+    visitWebsite: 'Site officiel →',
     modeHeader: 'Moyen',
     policyHeader: 'Conditions',
     tipHeader: 'Conseil',
@@ -256,6 +289,7 @@ function uiLabels(locale: string) {
     entryTitle: 'Conditions d\'entrée pour les animaux',
   }
   if (locale === 'es') return {
+    ...en,
     updated: 'Actualizado el',
     cityOverview: '← Vista general',
     offLeash: 'Sin correa ✓',
@@ -263,6 +297,7 @@ function uiLabels(locale: string) {
     offLeashZone: 'Zona sin correa:',
     rules: 'Normas:',
     viewOnMaps: 'Ver en Google Maps →',
+    visitWebsite: 'Sitio oficial →',
     modeHeader: 'Medio',
     policyHeader: 'Condiciones',
     tipHeader: 'Consejo',
@@ -282,33 +317,7 @@ function uiLabels(locale: string) {
     hotelsSubtitle: 'Los mejores hoteles que admiten mascotas, seleccionados y verificados.',
     entryTitle: 'Requisitos de entrada para mascotas',
   }
-  return {
-    updated: 'Updated',
-    cityOverview: '← City overview',
-    offLeash: 'Off-leash ✓',
-    enSpoken: 'EN spoken',
-    offLeashZone: 'Off-leash zone:',
-    rules: 'Rules:',
-    viewOnMaps: 'View on Google Maps →',
-    modeHeader: 'Mode',
-    policyHeader: 'Policy',
-    tipHeader: 'Tip',
-    euPets: 'EU pets:',
-    nonEuPets: 'Non-EU pets:',
-    emergencyContacts: 'Emergency contacts:',
-    perNight: '/night',
-    admissionFee: 'Admission:',
-    dogPolicy: 'Dog policy:',
-    serviceType: 'Service:',
-    seeAllHotels: 'See all hotels →',
-    compareBooking: 'Compare on Booking.com →',
-    moreGuides: (city: string) => `More ${city} guides`,
-    quickTips: '💡 Quick Tips',
-    faqTitle: 'Frequently Asked Questions',
-    hotelsTitle: (city: string) => `Pet-Friendly Hotels in ${city}`,
-    hotelsSubtitle: 'Our top-rated pet-friendly hotels, handpicked and verified.',
-    entryTitle: 'Pet Entry Requirements',
-  }
+  return en
 }
 
 // ─── Page ─────────────────────────────────────────────────────────────────────
@@ -468,114 +477,177 @@ export default async function GuideDetailPage({
                 const serviceType = getPlaceField(place, 'serviceType', locale)
 
                 return (
-                  <div key={i} className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm hover:shadow-md transition-shadow">
-                    <div className="flex items-start justify-between gap-4 mb-3">
-                      <div>
-                        <div className="flex items-center gap-2 mb-1">
-                          <span className="text-xs font-bold text-white bg-gray-800 rounded-full w-6 h-6 flex items-center justify-center flex-shrink-0">
+                  <article key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">
+                    {/* Photo header */}
+                    {place.photo && (
+                      <div className="relative h-52 overflow-hidden">
+                        <Image
+                          src={place.photo}
+                          alt={place.name}
+                          fill
+                          sizes="(max-width: 768px) 100vw, 800px"
+                          className="object-cover"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+                        {/* Number + badges overlaid on photo */}
+                        <div className="absolute top-3 left-3 flex items-center gap-2">
+                          <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center shadow-sm`}>
                             {i + 1}
                           </span>
-                          <h3 className="font-bold text-gray-900 text-lg">{place.name}</h3>
+                          {place.offLeash === true && (
+                            <span className="text-xs font-bold bg-green-500 text-white px-2 py-1 rounded-lg">{ui.offLeash}</span>
+                          )}
                         </div>
-                        {(place.address || place.neighborhood || place.distance) && (
-                          <p className="text-sm text-gray-400 ml-8">
-                            {place.neighborhood && <span>{place.neighborhood} · </span>}
-                            {place.address ?? place.distance}
-                          </p>
-                        )}
+                        <div className="absolute top-3 right-3 flex items-center gap-2">
+                          {place.priceRange && (
+                            <span className="text-xs font-bold bg-white/90 backdrop-blur-sm text-gray-800 px-2 py-1 rounded-lg">{place.priceRange}</span>
+                          )}
+                          {place.rating && (
+                            <span className="text-xs font-bold bg-amber-400 text-gray-900 px-2 py-1 rounded-lg">⭐ {place.rating}</span>
+                          )}
+                        </div>
+                        {/* Name on photo bottom */}
+                        <div className="absolute bottom-3 left-3 right-3">
+                          <h3 className="font-extrabold text-white text-xl leading-tight drop-shadow-sm">{place.name}</h3>
+                          {(place.neighborhood || place.address) && (
+                            <p className="text-white/80 text-xs mt-0.5">
+                              {place.neighborhood}{place.neighborhood && place.address ? ' · ' : ''}{place.address}
+                            </p>
+                          )}
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2 flex-shrink-0 flex-wrap justify-end">
-                        {place.priceRange && (
-                          <span className="text-xs font-bold bg-gray-100 text-gray-600 px-2 py-1 rounded-lg">{place.priceRange}</span>
+                    )}
+
+                    <div className="p-6">
+                      {/* Header when no photo */}
+                      {!place.photo && (
+                        <div className="flex items-start justify-between gap-4 mb-4">
+                          <div>
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center flex-shrink-0`}>
+                                {i + 1}
+                              </span>
+                              <h3 className="font-bold text-gray-900 text-lg">{place.name}</h3>
+                            </div>
+                            {(place.address || place.neighborhood) && (
+                              <p className="text-sm text-gray-400 ml-9">
+                                {place.neighborhood && <span>{place.neighborhood}{place.address ? ' · ' : ''}</span>}
+                                {place.address}
+                              </p>
+                            )}
+                          </div>
+                          <div className="flex items-center gap-2 flex-shrink-0 flex-wrap justify-end">
+                            {place.priceRange && (
+                              <span className="text-xs font-bold bg-gray-100 text-gray-600 px-2 py-1 rounded-lg">{place.priceRange}</span>
+                            )}
+                            {place.rating && (
+                              <span className="text-xs font-bold bg-amber-100 text-amber-700 px-2 py-1 rounded-lg">⭐ {place.rating}</span>
+                            )}
+                            {place.offLeash === true && (
+                              <span className="text-xs font-bold bg-green-100 text-green-700 px-2 py-1 rounded-lg">{ui.offLeash}</span>
+                            )}
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Description */}
+                      <p className="text-gray-700 text-sm leading-relaxed mb-4">{desc}</p>
+
+                      {/* Metadata pills */}
+                      <div className="flex flex-wrap gap-2 text-xs text-gray-500 mb-4">
+                        {policy && (
+                          <span className="flex items-center gap-1 bg-green-50 text-green-700 px-2.5 py-1 rounded-full font-medium">
+                            🐾 {policy}
+                          </span>
                         )}
-                        {place.rating && (
-                          <span className="text-xs font-bold bg-amber-100 text-amber-700 px-2 py-1 rounded-lg">⭐ {place.rating}/5</span>
+                        {dogPolicy && !policy && (
+                          <span className="flex items-center gap-1 bg-green-50 text-green-700 px-2.5 py-1 rounded-full font-medium">
+                            🐾 {dogPolicy}
+                          </span>
                         )}
-                        {place.offLeash === true && (
-                          <span className="text-xs font-bold bg-green-100 text-green-700 px-2 py-1 rounded-lg">{ui.offLeash}</span>
+                        {placeHours && (
+                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                            🕐 {placeHours}
+                          </span>
+                        )}
+                        {place.phone && (
+                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                            📞 {place.phone}
+                          </span>
+                        )}
+                        {place.season && (
+                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                            📅 {place.season}
+                          </span>
+                        )}
+                        {mustTry && (
+                          <span className="flex items-center gap-1 bg-amber-50 text-amber-700 px-2.5 py-1 rounded-full">
+                            ⭐ {mustTry}
+                          </span>
+                        )}
+                        {admissionFee && (
+                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                            🎟️ {admissionFee}
+                          </span>
+                        )}
+                        {serviceType && (
+                          <span className="flex items-center gap-1 bg-pink-50 text-pink-700 px-2.5 py-1 rounded-full">
+                            🐶 {serviceType}
+                          </span>
+                        )}
+                        {place.pricePerDay && (
+                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                            💰 {place.pricePerDay}
+                          </span>
                         )}
                         {place.englishSpeaking && (
-                          <span className="text-xs font-bold bg-blue-100 text-blue-700 px-2 py-1 rounded-lg">{ui.enSpoken}</span>
+                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                            🌍 {ui.enSpoken}
+                          </span>
+                        )}
+                        {place.languages && place.languages.length > 0 && (
+                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                            🌍 {place.languages.join(', ')}
+                          </span>
                         )}
                       </div>
-                    </div>
 
-                    <p className="text-gray-700 text-sm leading-relaxed mb-3 ml-8">{desc}</p>
+                      {/* Tip / rules callout */}
+                      {(tipText || rulesText || offLeashAreaText) && (
+                        <div className="bg-amber-50 border border-amber-100 rounded-xl p-3 mb-4 space-y-1">
+                          {offLeashAreaText && <p className="text-xs text-amber-800"><strong>{ui.offLeashZone}</strong> {offLeashAreaText}</p>}
+                          {rulesText && <p className="text-xs text-amber-800"><strong>{ui.rules}</strong> {rulesText}</p>}
+                          {tipText && <p className="text-xs text-amber-700">💡 {tipText}</p>}
+                        </div>
+                      )}
 
-                    <div className="ml-8 flex flex-wrap gap-3 text-xs text-gray-500">
-                      {policy && (
-                        <span className="flex items-center gap-1">
-                          <span className="text-green-500">🐾</span> {policy}
-                        </span>
-                      )}
-                      {dogPolicy && !policy && (
-                        <span className="flex items-center gap-1">
-                          <span>🐾</span> {dogPolicy}
-                        </span>
-                      )}
-                      {placeHours && (
-                        <span className="flex items-center gap-1">
-                          <span>🕐</span> {placeHours}
-                        </span>
-                      )}
-                      {place.phone && (
-                        <span className="flex items-center gap-1">
-                          <span>📞</span> {place.phone}
-                        </span>
-                      )}
-                      {place.season && (
-                        <span className="flex items-center gap-1">
-                          <span>📅</span> {place.season}
-                        </span>
-                      )}
-                      {mustTry && (
-                        <span className="flex items-center gap-1">
-                          <span>⭐</span> {mustTry}
-                        </span>
-                      )}
-                      {admissionFee && (
-                        <span className="flex items-center gap-1">
-                          <span>🎟️</span> {ui.admissionFee} {admissionFee}
-                        </span>
-                      )}
-                      {serviceType && (
-                        <span className="flex items-center gap-1">
-                          <span>🐶</span> {ui.serviceType} {serviceType}
-                        </span>
-                      )}
-                      {place.pricePerDay && (
-                        <span className="flex items-center gap-1">
-                          <span>💰</span> {place.pricePerDay}
-                        </span>
-                      )}
-                      {place.languages && place.languages.length > 0 && (
-                        <span className="flex items-center gap-1">
-                          <span>🌍</span> {place.languages.join(', ')}
-                        </span>
+                      {/* External links row */}
+                      {(place.website || place.googleMapsUrl) && (
+                        <div className="flex flex-wrap gap-2 pt-3 border-t border-gray-50">
+                          {place.website && (
+                            <a
+                              href={place.website}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition-colors"
+                            >
+                              🌐 {ui.visitWebsite}
+                            </a>
+                          )}
+                          {place.googleMapsUrl && (
+                            <a
+                              href={place.googleMapsUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
+                            >
+                              📍 {ui.viewOnMaps}
+                            </a>
+                          )}
+                        </div>
                       )}
                     </div>
-
-                    {(tipText || rulesText || offLeashAreaText) && (
-                      <div className="ml-8 mt-3 bg-amber-50 rounded-xl p-3 space-y-1">
-                        {offLeashAreaText && <p className="text-xs text-amber-800"><strong>{ui.offLeashZone}</strong> {offLeashAreaText}</p>}
-                        {rulesText && <p className="text-xs text-amber-800"><strong>{ui.rules}</strong> {rulesText}</p>}
-                        {tipText && <p className="text-xs text-amber-700">💡 {tipText}</p>}
-                      </div>
-                    )}
-
-                    {place.googleMapsUrl && (
-                      <div className="ml-8 mt-3">
-                        <a
-                          href={place.googleMapsUrl}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-xs text-blue-600 hover:text-blue-800 font-medium"
-                        >
-                          {ui.viewOnMaps}
-                        </a>
-                      </div>
-                    )}
-                  </div>
+                  </article>
                 )
               })}
             </div>

@@ -1,0 +1,415 @@
+{
+  "slug": "amsterdam",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "flag": "🇳🇱",
+  "lastUpdated": "2026-04-17",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Amsterdam",
+      "titleFr": "Restaurants acceptant les animaux à Amsterdam",
+      "titleEs": "Restaurantes con mascotas en Ámsterdam",
+      "introEn": "Amsterdam has one of Europe's most relaxed attitudes toward dogs in restaurants. Most brown cafés (bruine kroegen) and canal-side terraces explicitly welcome leashed dogs, and many keep a water bowl by the door. The city's outdoor dining culture — especially from May to September — makes it ideal for traveling with your dog.",
+      "introFr": "Amsterdam est l'une des villes européennes les plus accueillantes pour les chiens dans les restaurants. La plupart des cafés bruns (bruine kroegen) et terrasses au bord des canaux acceptent les chiens en laisse. La culture de la restauration en plein air, notamment de mai à septembre, en fait une destination idéale pour voyager avec son animal.",
+      "introEs": "Ámsterdam tiene una de las actitudes más relajadas de Europa hacia los perros en restaurantes. La mayoría de los cafés marrones (bruine kroegen) y las terrazas junto a los canales aceptan perros con correa. La cultura de comer al aire libre, especialmente de mayo a septiembre, lo hace ideal para viajar con tu perro.",
+      "places": [
+        {
+          "name": "Café Brecht",
+          "address": "Weteringschans 157, Amsterdam",
+          "neighborhood": "De Pijp / Leidseplein",
+          "description": "German-inspired café with a relaxed literary vibe. Dogs are welcome inside and on the terrace. Staff often bring a water bowl unprompted.",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "priceRange": "€€",
+          "mustTry": "Club sandwich, selection of German beers",
+          "openingHours": "Mon–Sun 10:00–01:00",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Brecht+Amsterdam"
+        },
+        {
+          "name": "Café Papeneiland",
+          "address": "Prinsengracht 2, Amsterdam",
+          "neighborhood": "Jordaan",
+          "description": "One of Amsterdam's oldest brown cafés (1642), on a prime canal corner. Dogs always welcome. Famous for its apple pie.",
+          "petPolicy": "Dogs always welcome",
+          "priceRange": "€",
+          "mustTry": "Appeltaart (apple pie), Dutch coffee",
+          "openingHours": "Mon–Thu 10:00–01:00, Fri–Sat 10:00–02:00, Sun 11:00–01:00",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Papeneiland+Amsterdam"
+        },
+        {
+          "name": "Brouwerij 't IJ",
+          "address": "Funenkade 7, Amsterdam",
+          "neighborhood": "Plantagebuurt",
+          "description": "Brewery in a historic windmill. Large outdoor area where dogs can run. Excellent local craft beers. One of Amsterdam's most iconic spots.",
+          "petPolicy": "Dogs welcome outside and in the taproom",
+          "priceRange": "€€",
+          "mustTry": "IJwit (white beer), Zatte (tripel)",
+          "openingHours": "Daily 14:00–20:00",
+          "googleMapsUrl": "https://maps.google.com/?q=Brouwerij+IJ+Amsterdam"
+        },
+        {
+          "name": "Pllek",
+          "address": "TT. Neveritaweg 59, Amsterdam",
+          "neighborhood": "Noord (NDSM Wharf)",
+          "description": "Industrial-chic waterfront restaurant made from shipping containers. Huge outdoor terrace on the IJ river. Dogs everywhere — it's that kind of place.",
+          "petPolicy": "Dogs welcome everywhere",
+          "priceRange": "€€",
+          "mustTry": "Weekend brunch, organic burgers",
+          "openingHours": "Mon–Thu 11:00–23:00, Fri–Sat 11:00–00:00, Sun 11:00–22:00",
+          "googleMapsUrl": "https://maps.google.com/?q=Pllek+Amsterdam"
+        },
+        {
+          "name": "De Kas",
+          "address": "Kamerlingh Onneslaan 3, Amsterdam",
+          "neighborhood": "Frankendael Park",
+          "description": "Farm-to-table restaurant in a 1926 greenhouse, surrounded by its own gardens. Terrace and garden areas welcome dogs.",
+          "petPolicy": "Dogs welcome on terrace and in garden",
+          "priceRange": "€€€€",
+          "mustTry": "Daily changing 3-course market menu",
+          "openingHours": "Mon–Fri 12:00–15:00, 18:30–22:00 / Sat 18:30–22:00",
+          "googleMapsUrl": "https://maps.google.com/?q=De+Kas+Amsterdam"
+        }
+      ],
+      "tipsEn": [
+        "Look for the 'Honden welkom' (dogs welcome) sign — many cafés display it on the door.",
+        "Canal-side terraces on Prinsengracht and Keizersgracht are your best bet in summer.",
+        "Avoid tourist-heavy Leidseplein restaurants — they're usually stricter. Head to Jordaan or De Pijp instead.",
+        "Most brown cafés (bruine kroegen) allow dogs by default — it's part of the culture."
+      ],
+      "tipsFr": [
+        "Cherchez le panneau 'Honden welkom' (chiens bienvenus) — de nombreux cafés l'affichent sur la porte.",
+        "Les terrasses le long des canaux Prinsengracht et Keizersgracht sont idéales en été.",
+        "Évitez les restaurants touristiques autour de Leidseplein — ils sont généralement plus stricts. Préférez le Jordaan ou De Pijp.",
+        "La plupart des cafés bruns (bruine kroegen) acceptent les chiens par défaut — c'est dans la culture locale."
+      ],
+      "tipsEs": [
+        "Busca el cartel 'Honden welkom' (perros bienvenidos) — muchos cafés lo muestran en la puerta.",
+        "Las terrazas junto a los canales Prinsengracht y Keizersgracht son las mejores opciones en verano.",
+        "Evita los restaurantes turísticos de Leidseplein — suelen ser más estrictos. Ve al barrio Jordaan o De Pijp.",
+        "La mayoría de los cafés marrones (bruine kroegen) aceptan perros por defecto — es parte de la cultura local."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Amsterdam restaurants?",
+          "a": "Yes — Amsterdam is very dog-friendly. Most brown cafés and canal terraces welcome leashed dogs. Look for the 'Honden welkom' sign or simply ask. Upscale Michelin-starred restaurants may have restrictions inside."
+        },
+        {
+          "q": "Do Amsterdam restaurants provide water bowls for dogs?",
+          "a": "Many do, especially in Jordaan and De Pijp neighborhoods. Don't hesitate to ask — staff are usually happy to bring one."
+        },
+        {
+          "q": "Which neighborhoods in Amsterdam have the most dog-friendly restaurants?",
+          "a": "Jordaan and De Pijp are the most dog-friendly neighborhoods for eating out. Amsterdam Noord (around NDSM Wharf) is also excellent for large, open-air venues."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Amsterdam",
+      "titleFr": "Parcs et balades avec son chien à Amsterdam",
+      "titleEs": "Parques y paseos con perros en Ámsterdam",
+      "introEn": "Amsterdam is exceptionally well-equipped for dog walks. The city has over 35 designated off-leash areas (uitlaatplaatsen), plus extensive green corridors along the canals. Most large parks have clearly marked dog zones where animals can run free without a leash.",
+      "introFr": "Amsterdam est remarquablement bien équipée pour les balades avec chien. La ville compte plus de 35 zones de liberté pour chiens (uitlaatplaatsen), ainsi que de longs corridors verts le long des canaux. La plupart des grands parcs ont des zones clairement délimitées où les animaux peuvent courir librement.",
+      "introEs": "Ámsterdam está excepcionalmente bien equipada para pasear con perros. La ciudad tiene más de 35 zonas libres para perros (uitlaatplaatsen), además de extensos corredores verdes a lo largo de los canales. La mayoría de los parques tienen zonas claramente marcadas donde los animales pueden correr libremente.",
+      "places": [
+        {
+          "name": "Vondelpark",
+          "type": "Urban park with off-leash zones",
+          "size": "47 hectares",
+          "description": "Amsterdam's most famous park. Dogs allowed on-leash in most areas; specific off-leash zones marked clearly. Beautiful ponds and meadows. Gets crowded on summer weekends — go early morning.",
+          "offLeash": true,
+          "offLeashArea": "Designated zones marked on park maps — northeast corner near the rose garden",
+          "tip": "Visit before 9am on summer weekends to avoid crowds",
+          "nearbyHotels": true,
+          "googleMapsUrl": "https://maps.google.com/?q=Vondelpark+Amsterdam"
+        },
+        {
+          "name": "Amsterdamse Bos (Amsterdam Forest)",
+          "type": "Urban forest — off-leash allowed",
+          "size": "1,000 hectares",
+          "description": "A massive forest on the city's edge. Dogs can run off-leash in most of the forest (except picnic areas). Excellent for long hikes, cycling paths, and swimming in the lakes. The best place in Amsterdam for a proper half-day adventure with a large dog.",
+          "offLeash": true,
+          "offLeashArea": "Entire forest except designated picnic zones",
+          "tip": "Take tram 5 to Amstelveen, then walk 10 minutes into the forest entrance",
+          "nearbyHotels": false,
+          "googleMapsUrl": "https://maps.google.com/?q=Amsterdamse+Bos"
+        },
+        {
+          "name": "Oosterpark",
+          "type": "Neighborhood park",
+          "size": "8.5 hectares",
+          "description": "Popular with East Amsterdam locals and their dogs. More relaxed than Vondelpark, less touristy. The large pond makes it great for water-loving dogs.",
+          "offLeash": true,
+          "offLeashArea": "Dedicated off-leash area near the south entrance",
+          "tip": "Best for a quick morning walk before exploring the Dappermarkt nearby",
+          "nearbyHotels": false,
+          "googleMapsUrl": "https://maps.google.com/?q=Oosterpark+Amsterdam"
+        },
+        {
+          "name": "Westerpark & Cultuurpark Westergasfabriek",
+          "type": "Park + cultural complex",
+          "size": "14 hectares",
+          "description": "Trendy park in the west of the city, surrounding a converted gasworks. Dogs welcome throughout. Great café terraces on-site (Café-Restaurant Westergas is dog-friendly).",
+          "offLeash": true,
+          "offLeashArea": "South meadow area",
+          "tip": "Combine with a visit to the Westerpark market on weekends",
+          "nearbyHotels": false,
+          "googleMapsUrl": "https://maps.google.com/?q=Westerpark+Amsterdam"
+        },
+        {
+          "name": "Flevopark",
+          "type": "Riverside park",
+          "size": "12 hectares",
+          "description": "A calmer alternative on the east side. Right on the river, with dog-friendly swimming areas. Less known to tourists, more authentic Amsterdam.",
+          "offLeash": true,
+          "offLeashArea": "Most of the park",
+          "tip": "Dogs can swim in the designated river access area near the south end",
+          "nearbyHotels": false,
+          "googleMapsUrl": "https://maps.google.com/?q=Flevopark+Amsterdam"
+        }
+      ],
+      "tipsEn": [
+        "In Amsterdam, dogs must be on-leash on public streets. Off-leash is only allowed in designated 'uitlaatplaatsen' zones.",
+        "Dog waste bags (hondenpoepzakjes) are available for free at many park entrances and from the city app.",
+        "Amsterdam's canal banks are NOT off-leash zones — be careful near the water, especially with excited dogs.",
+        "Amsterdamse Bos is the best choice for large dogs or breeds needing lots of space — plan a half-day."
+      ],
+      "tipsFr": [
+        "À Amsterdam, les chiens doivent être tenus en laisse dans les rues. La liberté n'est autorisée que dans les zones 'uitlaatplaatsen' désignées.",
+        "Des sacs à déjections (hondenpoepzakjes) sont disponibles gratuitement à l'entrée de nombreux parcs.",
+        "Les berges des canaux ne sont PAS des zones de liberté — soyez prudent, surtout avec les chiens enthousiastes.",
+        "L'Amsterdamse Bos est le meilleur choix pour les grands chiens ou les races ayant besoin d'espace — prévoyez une demi-journée."
+      ],
+      "tipsEs": [
+        "En Ámsterdam, los perros deben ir con correa en las calles públicas. La libertad solo está permitida en zonas designadas 'uitlaatplaatsen'.",
+        "Las bolsas para excrementos (hondenpoepzakjes) están disponibles gratis en muchas entradas de parques.",
+        "Las orillas de los canales NO son zonas libres — ten cuidado cerca del agua, especialmente con perros activos.",
+        "El Amsterdamse Bos es la mejor opción para perros grandes o razas que necesitan mucho espacio — planifica medio día."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go off-leash in Amsterdam parks?",
+          "a": "Yes, in designated off-leash zones called 'uitlaatplaatsen'. These are clearly marked in Vondelpark, Oosterpark, and Westerpark. In Amsterdamse Bos, dogs can be off-leash throughout most of the forest."
+        },
+        {
+          "q": "Is Amsterdam dog-friendly for walks?",
+          "a": "Very. Amsterdam has over 35 official off-leash zones plus green corridors along all major canals. The city consistently ranks as one of Europe's most dog-friendly capitals."
+        },
+        {
+          "q": "Where can dogs swim in Amsterdam?",
+          "a": "Dogs can swim in designated areas of Amsterdamse Bos (several lakes) and Flevopark (river access). Swimming is not permitted in the main canals in the city centre."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Amsterdam",
+      "titleFr": "Voyager avec son animal à Amsterdam",
+      "titleEs": "Viajar con mascotas en Ámsterdam",
+      "introEn": "Amsterdam's public transport network (GVB) is generally pet-friendly for small dogs carried in bags. Larger dogs require a day ticket for the dog, and some restrictions apply. The city is extremely cycle-friendly — many locals cycle with their dogs running alongside.",
+      "introFr": "Le réseau de transports en commun d'Amsterdam (GVB) est généralement favorable aux petits chiens transportés dans des sacs. Les grands chiens nécessitent un billet journalier supplémentaire, et certaines restrictions s'appliquent. La ville est très favorable au vélo — de nombreux Amsterdamois pédalent avec leur chien à côté.",
+      "introEs": "La red de transporte público de Ámsterdam (GVB) es generalmente amigable con las mascotas pequeñas llevadas en bolsas. Los perros más grandes requieren un billete de día adicional, y se aplican algunas restricciones. La ciudad es muy favorable a la bicicleta — muchos locales van en bici con su perro corriendo a su lado.",
+      "rules": [
+        {
+          "mode": "Tram & Metro (GVB)",
+          "policy": "Small dogs in a carrier bag: free. Dogs larger than a carrier bag: day ticket required (€8). Maximum 1 dog per passenger. Dogs must not occupy seats.",
+          "tip": "Avoid rush hours (07:30–09:00, 16:30–18:30) with large dogs — can be very crowded."
+        },
+        {
+          "mode": "Bus (GVB & Connexxion)",
+          "policy": "Same rules as tram/metro. Small dogs in bags: free. Larger dogs: day ticket at driver discretion.",
+          "tip": "Night buses are more relaxed about large dogs if the bus isn't full."
+        },
+        {
+          "mode": "Intercity Train (NS)",
+          "policy": "Small dogs in carrier (max 45cm): free. Larger dogs: dog day ticket (€3.50). Dogs must sit on floor or on owner's lap only. Not permitted in first class without prior arrangement.",
+          "tip": "Buy the dog day ticket at any NS ticket machine before boarding."
+        },
+        {
+          "mode": "Bicycle",
+          "policy": "No official restriction. Small dogs can be carried in a front basket or cargo bike. Large dogs can run alongside — keep them on the right side of the bike.",
+          "tip": "Rent a cargo bike (bakfiets) from MacBike or Rent-a-Bike if you want to carry your dog."
+        },
+        {
+          "mode": "Taxi / Uber",
+          "policy": "Uber drivers can decline pets. Standard taxis are generally accepting. Call ahead with pet taxi services: Amsterdam Pet Taxi (+31 20 xxx) or Taxicentrale Amsterdam.",
+          "tip": "Pre-booking a pet-friendly taxi is strongly recommended for airport transfers."
+        },
+        {
+          "mode": "Schiphol Airport",
+          "policy": "Pets must enter/exit via Terminal 1 or 2 cargo area. Guide dogs exempt. Dogs must be in an approved IATA carrier for flights.",
+          "tip": "The airport has a pet relief area outside Terminal 2 near the car parks."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Amsterdam metro?",
+          "a": "Yes. Small dogs in a carry bag travel free. Dogs larger than a carry bag require a GVB day ticket (€8). Only one dog per passenger, and dogs cannot sit on seats."
+        },
+        {
+          "q": "Can I take my dog on trains from Amsterdam?",
+          "a": "Yes. NS trains allow dogs with a dog day ticket (€3.50 for dogs over 45cm). Small dogs in an approved carrier travel free. Purchase the ticket at any NS machine."
+        },
+        {
+          "q": "Is cycling with a dog in Amsterdam safe?",
+          "a": "Many locals do it — either with small dogs in a front basket or large dogs running alongside. Use quieter canal-side routes rather than busy bike lanes. Amsterdamse Bos has excellent cycling paths suitable for running dogs."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Amsterdam",
+      "titleFr": "Plages accessibles aux chiens près d'Amsterdam",
+      "titleEs": "Playas para perros cerca de Ámsterdam",
+      "introEn": "Amsterdam is inland, but the North Sea coast is only 30–45 minutes away by train or car. Several beaches near Zandvoort and IJmuiden have designated dog areas year-round, while others allow dogs freely from September to May.",
+      "introFr": "Amsterdam est une ville intérieure, mais la côte de la mer du Nord n'est qu'à 30–45 minutes en train ou en voiture. Plusieurs plages près de Zandvoort et d'IJmuiden disposent de zones réservées aux chiens toute l'année, tandis que d'autres les autorisent librement de septembre à mai.",
+      "introEs": "Ámsterdam es una ciudad interior, pero la costa del Mar del Norte está a solo 30–45 minutos en tren o coche. Varias playas cerca de Zandvoort e IJmuiden tienen zonas designadas para perros durante todo el año, mientras que otras los permiten libremente de septiembre a mayo.",
+      "places": [
+        {
+          "name": "Zandvoort aan Zee — Dog Beach (Hondenstrand)",
+          "distance": "30 min by train from Amsterdam Centraal",
+          "description": "Dedicated off-leash dog beach clearly marked at the northern end. Dogs can swim freely. One of the Netherlands' best dog beaches.",
+          "season": "Year-round",
+          "rules": "Off-leash allowed in designated dog zone (north end). On-leash required elsewhere on the beach from June to August.",
+          "facilities": "Parking, dog-friendly café near the beach",
+          "googleMapsUrl": "https://maps.google.com/?q=Hondenstrand+Zandvoort"
+        },
+        {
+          "name": "IJmuiden Beach (Strand IJmuiden)",
+          "distance": "40 min by bus/car from Amsterdam",
+          "description": "Long, wide beach near the port. Dogs permitted freely October–April, restricted to specific areas May–September. Less crowded than Zandvoort.",
+          "season": "Year-round (off-leash Oct–Apr)",
+          "rules": "Dogs on-leash in swimming areas June–August. Free roaming outside marked zones.",
+          "facilities": "Beach parking, restaurants nearby (some dog-friendly)",
+          "googleMapsUrl": "https://maps.google.com/?q=Strand+IJmuiden"
+        },
+        {
+          "name": "Amsterdamse Bos — Swimming Lakes",
+          "distance": "30 min by tram/bike from city centre",
+          "description": "Not a sea beach but excellent freshwater swimming. Multiple lake access points. Dogs can swim freely in most areas. Great alternative in hot weather.",
+          "season": "Spring to autumn",
+          "rules": "Dogs welcome in most swimming areas. Check local signs.",
+          "facilities": "Café, bike rental, picnic areas",
+          "googleMapsUrl": "https://maps.google.com/?q=Amsterdamse+Bos+zwemvijver"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a dog beach near Amsterdam?",
+          "a": "Yes — Zandvoort aan Zee, 30 minutes by train, has a dedicated off-leash dog beach (Hondenstrand) at the northern end. It's open year-round and is one of the Netherlands' best dog beaches."
+        },
+        {
+          "q": "Can dogs swim in Amsterdam's canals?",
+          "a": "Technically not prohibited, but canal water can be unsafe (bacteria, algae, boat traffic). Use the designated swimming areas in Amsterdamse Bos or go to Zandvoort instead."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in Amsterdam",
+      "titleFr": "Vétérinaires et urgences animales à Amsterdam",
+      "titleEs": "Veterinarios y urgencias para animales en Ámsterdam",
+      "introEn": "Amsterdam has excellent veterinary care, including several 24-hour emergency clinics. EU-registered pets need a valid pet passport and up-to-date rabies vaccination to enter the Netherlands.",
+      "introFr": "Amsterdam dispose d'excellents soins vétérinaires, dont plusieurs cliniques d'urgence 24h/24. Les animaux de compagnie enregistrés dans l'UE ont besoin d'un passeport animal valide et d'une vaccination antirabique à jour pour entrer aux Pays-Bas.",
+      "introEs": "Ámsterdam cuenta con excelente atención veterinaria, incluidas varias clínicas de urgencias 24 horas. Las mascotas registradas en la UE necesitan un pasaporte de mascota válido y una vacunación antirrábica actualizada para entrar en los Países Bajos.",
+      "entryRequirements": {
+        "euPets": "Valid EU pet passport + microchip + rabies vaccination up to date. No additional tests required.",
+        "nonEuPets": "Health certificate (APHIS 7001 for US pets), microchip, rabies vaccination, possibly titer test depending on origin country. Check Netherlands NVWA rules.",
+        "emergencyContacts": ["Netherlands national emergency vet line: +31 900 1770", "Amsterdam municipality animal welfare: +31 20 251 2555"]
+      },
+      "places": [
+        {
+          "name": "Dierenkliniek Rivierenbuurt",
+          "type": "General + Emergency",
+          "address": "Rijnstraat 94A, Amsterdam",
+          "phone": "+31 20 644 5188",
+          "hours": "24/7 emergency service",
+          "englishSpeaking": true,
+          "description": "Well-regarded full-service clinic in South Amsterdam. English-speaking staff. Handles most emergencies.",
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Rivierenbuurt+Amsterdam"
+        },
+        {
+          "name": "Universiteitskliniek voor Gezelschapsdieren (UKG) — Utrecht",
+          "type": "Specialist / Referral",
+          "address": "Yalelaan 108, Utrecht (30 min from Amsterdam)",
+          "phone": "+31 30 253 4750",
+          "hours": "24/7 emergency",
+          "englishSpeaking": true,
+          "description": "The top specialist veterinary hospital in the Netherlands. For serious emergencies or complex cases not handled locally. About 30 minutes by car from Amsterdam centre.",
+          "googleMapsUrl": "https://maps.google.com/?q=UKG+Utrecht"
+        },
+        {
+          "name": "Dierenkliniek Jordaan",
+          "type": "General practice",
+          "address": "Westerstraat 157, Amsterdam",
+          "phone": "+31 20 624 0455",
+          "hours": "Mon–Fri 08:00–18:00, Sat 09:00–13:00",
+          "englishSpeaking": true,
+          "description": "Popular general practice in the heart of the Jordaan. Not a 24h clinic — use for routine check-ups and vaccinations during your stay.",
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Jordaan+Amsterdam"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a pet passport to bring my dog to Amsterdam?",
+          "a": "EU-registered pets need a valid EU pet passport with microchip and current rabies vaccination. Non-EU pets (UK, US, etc.) need a third-country health certificate. Check with the Netherlands Food and Consumer Product Safety Authority (NVWA) for the latest requirements."
+        },
+        {
+          "q": "Is there a 24-hour vet in Amsterdam?",
+          "a": "Yes — Dierenkliniek Rivierenbuurt offers 24/7 emergency service. For specialist care, Utrecht University's veterinary hospital (30 min away) is available around the clock."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Dog-Friendly Tips for Amsterdam",
+      "titleFr": "Conseils locaux pour visiter Amsterdam avec son chien",
+      "titleEs": "Consejos locales para visitar Ámsterdam con tu perro",
+      "introEn": "Amsterdam is consistently ranked as one of Europe's top dog-friendly cities. The culture is relaxed, locals love dogs, and the infrastructure is excellent. A few local rules and habits to know before you go.",
+      "introFr": "Amsterdam est régulièrement classée parmi les villes les plus accueillantes pour les chiens en Europe. La culture est détendue, les habitants adorent les chiens et les infrastructures sont excellentes. Voici quelques règles et habitudes locales à connaître.",
+      "introEs": "Ámsterdam se clasifica constantemente entre las ciudades más amigables con los perros en Europa. La cultura es relajada, a los locales les encantan los perros y la infraestructura es excelente. Algunas normas y costumbres locales que debes conocer.",
+      "sections": [
+        {
+          "titleEn": "Dog Rules & Law",
+          "titleFr": "Règles et lois",
+          "titleEs": "Normas y leyes",
+          "contentEn": "Dogs must be on a leash of maximum 2 meters on all public streets and in parks outside off-leash zones. Dog waste must be picked up — fines apply (€140+). Dogs are not permitted on most beaches June–August except in designated dog zones.",
+          "contentFr": "Les chiens doivent être tenus en laisse de 2 mètres maximum dans toutes les rues publiques et dans les parcs hors zones de liberté. Les déjections doivent être ramassées — des amendes s'appliquent (140€+). Les chiens ne sont pas autorisés sur la plupart des plages de juin à août, sauf dans les zones désignées.",
+          "contentEs": "Los perros deben ir con correa de máximo 2 metros en todas las calles públicas y en parques fuera de las zonas libres. Los excrementos deben recogerse — se aplican multas (140€+). Los perros no están permitidos en la mayoría de las playas de junio a agosto, excepto en zonas designadas."
+        },
+        {
+          "titleEn": "Dog-Friendly Culture",
+          "titleFr": "Culture locale",
+          "titleEs": "Cultura local",
+          "contentEn": "Amsterdam is extremely dog-tolerant. You'll see dogs in shops, markets, and even some offices. The Jordaan, De Pijp, and Amsterdam Noord neighborhoods are particularly welcoming. Locals tend to greet other dogs as much as their owners.",
+          "contentFr": "Amsterdam est extrêmement accueillante pour les chiens. On les voit dans les magasins, marchés et même certains bureaux. Les quartiers du Jordaan, de De Pijp et d'Amsterdam Noord sont particulièrement ouverts. Les Amstellodamois ont tendance à saluer les chiens autant que leurs propriétaires.",
+          "contentEs": "Ámsterdam es extremadamente tolerante con los perros. Los verás en tiendas, mercados e incluso algunas oficinas. Los barrios de Jordaan, De Pijp y Amsterdam Noord son especialmente acogedores. Los locales tienden a saludar a los perros tanto como a sus dueños."
+        },
+        {
+          "titleEn": "Best Seasons",
+          "titleFr": "Meilleures saisons",
+          "titleEs": "Mejores temporadas",
+          "contentEn": "Spring (April–May) and autumn (September–October) are ideal — mild weather, fewer tourists, parks are beautiful. Summer is warm but very crowded. Winter is cold but dogs are actually very welcome in most indoor spaces and cozy cafés.",
+          "contentFr": "Le printemps (avril–mai) et l'automne (septembre–octobre) sont idéaux — temps doux, moins de touristes, parcs magnifiques. L'été est chaud mais très fréquenté. L'hiver est frais mais les chiens sont très bien accueillis dans les espaces intérieurs et les cafés cosy.",
+          "contentEs": "La primavera (abril–mayo) y el otoño (septiembre–octubre) son ideales — clima suave, menos turistas, parques hermosos. El verano es cálido pero muy concurrido. El invierno es frío pero los perros son muy bien recibidos en la mayoría de espacios interiores y acogedores cafés."
+        },
+        {
+          "titleEn": "Must-Do Day Trip",
+          "titleFr": "L'excursion incontournable",
+          "titleEs": "La excursión imprescindible",
+          "contentEn": "Take the free ferry across the IJ river from Amsterdam Centraal (behind the station) to NDSM Wharf. The ferry allows dogs free. NDSM is an enormous dog-friendly area with street art, restaurants (Pllek, NDSM Treehouse), and open space to run.",
+          "contentFr": "Prenez le ferry gratuit qui traverse l'IJ depuis Amsterdam Centraal (derrière la gare) jusqu'au chantier NDSM. Le ferry accepte les chiens gratuitement. Le NDSM est une immense zone dog-friendly avec street art, restaurants (Pllek, NDSM Treehouse) et de grands espaces pour courir.",
+          "contentEs": "Toma el ferry gratuito que cruza el río IJ desde Amsterdam Centraal (detrás de la estación) hasta el astillero NDSM. El ferry admite perros gratis. NDSM es una enorme zona dog-friendly con arte urbano, restaurantes (Pllek, NDSM Treehouse) y espacio abierto para correr."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Amsterdam good for dogs?",
+          "a": "Exceptionally so. Amsterdam consistently ranks in the top 3 most dog-friendly European cities. Dogs are welcome in most cafés, shops, parks have off-leash zones, and the locals are dog-loving. The main limitation is canal safety — keep dogs on-leash near water."
+        },
+        {
+          "q": "What should I pack for a trip to Amsterdam with my dog?",
+          "a": "Bring: EU pet passport (or equivalent), poop bags (available locally for free), leash (max 2m), water bottle for walks, and a dog carrier if using the tram. A rain jacket for your dog is also handy — it rains often!"
+        },
+        {
+          "q": "Are dogs allowed in Amsterdam museums?",
+          "a": "Generally no — most museums don't allow dogs. Exceptions include some outdoor museum gardens. Guide dogs are always permitted. Plan your indoor activities when your dog can be left safely at the hotel."
+        }
+      ]
+    }
+  }
+}

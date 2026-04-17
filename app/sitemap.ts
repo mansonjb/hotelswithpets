@@ -1,8 +1,12 @@
 import type { MetadataRoute } from 'next'
+import { readdirSync, existsSync } from 'fs'
+import { join } from 'path'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { getAllCountries } from '@/lib/countries'
+
+const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips'] as const
 
 const BASE_URL = 'https://hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']
@@ -125,6 +129,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: 'monthly',
         priority: 0.7,
       })
+    }
+  }
+
+  // City guide sub-pages — 6 sections per city (restaurants, parks, transport, beaches, vets, tips)
+  // Dynamically reads data/city-guides/ so new cities are included automatically
+  const guideDir = join(process.cwd(), 'data/city-guides')
+  if (existsSync(guideDir)) {
+    const guideCitySlugs = readdirSync(guideDir)
+      .filter(f => f.endsWith('.json'))
+      .map(f => f.replace('.json', ''))
+
+    for (const citySlug of guideCitySlugs) {
+      for (const section of GUIDE_SECTIONS) {
+        for (const locale of LOCALES) {
+          entries.push({
+            url: `${BASE_URL}/${locale}/destinations/${citySlug}/${section}`,
+            lastModified: BUILD_DATE,
+            changeFrequency: 'monthly',
+            priority: 0.75,
+          })
+        }
+      }
     }
   }
 

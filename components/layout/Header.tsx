@@ -7,7 +7,7 @@ import type { Locale } from '@/app/[locale]/dictionaries'
 interface HeaderProps {
   locale: Locale
   dict: {
-    nav: { destinations: string; categories: string; about: string }
+    nav: { destinations: string; categories: string; about: string; countries?: string }
   }
 }
 
@@ -85,6 +85,7 @@ export default function Header({ locale, dict }: HeaderProps) {
             {[
               { href: `/${locale}/destinations`, label: dict.nav.destinations },
               { href: `/${locale}/categories`, label: dict.nav.categories },
+              { href: `/${locale}/countries`, label: dict.nav.countries ?? 'Countries' },
               { href: `/${locale}/about`, label: dict.nav.about },
             ].map(({ href, label }) => (
               <li key={href}>

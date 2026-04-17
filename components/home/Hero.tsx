@@ -35,17 +35,14 @@ function getCategoryName(cat: (typeof categories)[number], locale: Locale): stri
 function matchDestination(query: string) {
   const q = query.trim().toLowerCase()
   if (!q) return null
-  const bySlug = destinations.find((d) => d.slug === q)
-  if (bySlug) return bySlug
-  const byExact = destinations.find((d) => d.name.toLowerCase() === q)
-  if (byExact) return byExact
-  const byStart = destinations.find((d) => d.name.toLowerCase().startsWith(q))
-  if (byStart) return byStart
-  const byIncludes = destinations.find((d) => d.name.toLowerCase().includes(q))
-  if (byIncludes) return byIncludes
-  const byCountry = destinations.find((d) => d.country.toLowerCase().includes(q))
-  if (byCountry) return byCountry
-  return null
+  return (
+    destinations.find((d) => d.slug === q) ||
+    destinations.find((d) => d.name.toLowerCase() === q) ||
+    destinations.find((d) => d.name.toLowerCase().startsWith(q)) ||
+    destinations.find((d) => d.name.toLowerCase().includes(q)) ||
+    destinations.find((d) => d.country.toLowerCase().includes(q)) ||
+    null
+  )
 }
 
 const POPULAR_CITIES = [
@@ -63,7 +60,7 @@ const HEADLINES: Record<string, { line1: string; line2: string; accent: string }
   fr: {
     line1: 'Votre meilleur ami mérite',
     line2: 'de vraies belles vacances.',
-    accent: 'Hôtels vérifiés, animaux bienvenus.',
+    accent: 'Hôtels vérifiés. Animaux vraiment bienvenus.',
   },
   en: {
     line1: 'Your best friend deserves',
@@ -112,15 +109,10 @@ export default function Hero({ locale, dict }: HeroProps) {
   function handleSearch(e: React.FormEvent) {
     e.preventDefault()
     const match = matchDestination(destQuery)
-    if (match && catSlug) {
-      router.push(`/${locale}/${match.slug}/${catSlug}`)
-    } else if (match) {
-      router.push(`/${locale}/destinations/${match.slug}`)
-    } else if (catSlug) {
-      router.push(`/${locale}/categories/${catSlug}`)
-    } else {
-      router.push(`/${locale}/destinations`)
-    }
+    if (match && catSlug) router.push(`/${locale}/${match.slug}/${catSlug}`)
+    else if (match) router.push(`/${locale}/destinations/${match.slug}`)
+    else if (catSlug) router.push(`/${locale}/categories/${catSlug}`)
+    else router.push(`/${locale}/destinations`)
   }
 
   function handleCityChip(name: string) {
@@ -129,53 +121,60 @@ export default function Hero({ locale, dict }: HeroProps) {
   }
 
   const popularLabel =
-    locale === 'fr' ? 'Destinations populaires' : locale === 'es' ? 'Destinos populares' : 'Popular destinations'
+    locale === 'fr' ? 'Destinations populaires' :
+    locale === 'es' ? 'Destinos populares' :
+    'Popular destinations'
 
   return (
-    <section className="relative overflow-hidden text-white" style={{ background: 'linear-gradient(135deg, #3d1a08 0%, #1c1a2e 40%, #0f172a 100%)' }}>
+    <section
+      className="relative overflow-hidden text-white"
+      style={{ background: 'linear-gradient(135deg, #1a1209 0%, #141c2e 50%, #0f172a 100%)' }}
+    >
+      {/* Warm ambient glow — honey gold, not orange */}
+      <div
+        className="absolute top-[-60px] right-[-80px] w-[550px] h-[550px] rounded-full pointer-events-none"
+        style={{ background: 'radial-gradient(circle, rgba(212,168,43,0.18) 0%, transparent 70%)' }}
+      />
+      <div
+        className="absolute bottom-[-100px] left-[-80px] w-[450px] h-[450px] rounded-full pointer-events-none"
+        style={{ background: 'radial-gradient(circle, rgba(180,130,30,0.12) 0%, transparent 70%)' }}
+      />
 
-      {/* Warm ambient blobs */}
-      <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full opacity-30 blur-3xl pointer-events-none"
-        style={{ background: 'radial-gradient(circle, #f97316 0%, transparent 70%)' }} />
-      <div className="absolute bottom-[-80px] left-[-60px] w-[500px] h-[500px] rounded-full opacity-20 blur-3xl pointer-events-none"
-        style={{ background: 'radial-gradient(circle, #fb923c 0%, transparent 70%)' }} />
-      <div className="absolute top-1/2 left-[30%] w-[400px] h-[200px] rounded-full opacity-10 blur-3xl pointer-events-none"
-        style={{ background: 'radial-gradient(circle, #fbbf24 0%, transparent 70%)' }} />
-
-      {/* Subtle paw print texture */}
-      <div className="absolute top-10 left-[6%] text-5xl opacity-[0.06] select-none rotate-[-20deg] hidden lg:block">🐾</div>
-      <div className="absolute bottom-16 right-[5%] text-6xl opacity-[0.06] select-none rotate-[15deg] hidden lg:block">🐾</div>
-      <div className="absolute top-1/2 right-[22%] text-4xl opacity-[0.04] select-none rotate-[-5deg] hidden xl:block">🐾</div>
+      {/* Paw decorations */}
+      <div className="absolute top-10 left-[6%] text-5xl opacity-[0.05] select-none rotate-[-20deg] hidden lg:block">🐾</div>
+      <div className="absolute bottom-16 right-[5%] text-6xl opacity-[0.05] select-none rotate-[15deg] hidden lg:block">🐾</div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16 w-full">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-center">
 
-          {/* Left — emotional copy */}
+          {/* Left — copy */}
           <div>
             {/* Badge */}
-            <span className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-medium mb-8 border"
-              style={{ background: 'rgba(251,146,60,0.15)', borderColor: 'rgba(251,146,60,0.3)', color: '#fed7aa' }}>
+            <span
+              className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-medium mb-8 border"
+              style={{ background: 'rgba(212,168,43,0.12)', borderColor: 'rgba(212,168,43,0.25)', color: '#e8cc7a' }}
+            >
               <span>🐾</span> {hero.badge}
             </span>
 
-            {/* Emotional headline */}
+            {/* Headline */}
             <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.08] mb-4 tracking-tight">
               <span className="text-white">{headlines.line1}</span>
               <br />
-              <span style={{ background: 'linear-gradient(90deg, #fb923c, #fbbf24)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
+              <span style={{ background: 'linear-gradient(90deg, #d4a82b, #e8cc7a)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
                 {headlines.line2}
               </span>
             </h1>
 
-            <p className="text-base font-semibold mb-6" style={{ color: '#fdba74' }}>
+            <p className="text-sm font-semibold mb-6 tracking-wide" style={{ color: '#c8a840' }}>
               {headlines.accent}
             </p>
 
-            <p className="text-base leading-relaxed mb-10 max-w-lg" style={{ color: '#cbd5e1' }}>
+            <p className="text-base leading-relaxed mb-10 max-w-lg" style={{ color: '#94a3b8' }}>
               {hero.subtitle}
             </p>
 
-            {/* Stats row */}
+            {/* Stats */}
             <div className="flex flex-wrap gap-x-8 gap-y-5 mb-10">
               {[
                 { value: hero.stat1Value, label: hero.stat1Label },
@@ -184,31 +183,34 @@ export default function Hero({ locale, dict }: HeroProps) {
               ].map((s) => (
                 <div key={s.label} className="flex flex-col">
                   <span className="text-3xl font-black text-white leading-none tracking-tight">{s.value}</span>
-                  <span className="text-[11px] mt-1.5 uppercase tracking-widest" style={{ color: '#94a3b8' }}>{s.label}</span>
+                  <span className="text-[11px] mt-1.5 uppercase tracking-widest" style={{ color: '#64748b' }}>{s.label}</span>
                 </div>
               ))}
             </div>
 
             {/* Review quote */}
-            <div className="flex items-start gap-3 p-4 rounded-2xl border"
-              style={{ background: 'rgba(255,255,255,0.05)', borderColor: 'rgba(255,255,255,0.08)' }}>
-              <div className="flex-shrink-0 text-amber-400 text-lg mt-0.5">★★★★★</div>
+            <div
+              className="flex items-start gap-3 p-4 rounded-2xl border"
+              style={{ background: 'rgba(255,255,255,0.04)', borderColor: 'rgba(255,255,255,0.07)' }}
+            >
+              <div className="flex-shrink-0 text-lg mt-0.5" style={{ color: '#d4a82b' }}>★★★★★</div>
               <div>
-                <p className="text-sm italic leading-relaxed" style={{ color: '#e2e8f0' }}>{review.text}</p>
-                <p className="text-xs mt-1.5" style={{ color: '#64748b' }}>{review.author}</p>
+                <p className="text-sm italic leading-relaxed" style={{ color: '#cbd5e1' }}>{review.text}</p>
+                <p className="text-xs mt-1.5" style={{ color: '#475569' }}>{review.author}</p>
               </div>
             </div>
           </div>
 
           {/* Right — search card */}
           <div className="relative">
-            <div className="absolute -inset-3 rounded-3xl blur-2xl opacity-40"
-              style={{ background: 'linear-gradient(135deg, rgba(251,146,60,0.3), rgba(99,102,241,0.2))' }} />
-
+            <div
+              className="absolute -inset-3 rounded-3xl blur-2xl opacity-30"
+              style={{ background: 'linear-gradient(135deg, rgba(212,168,43,0.3), rgba(30,58,138,0.2))' }}
+            />
             <form
               onSubmit={handleSearch}
               className="relative rounded-3xl p-7 shadow-2xl border"
-              style={{ background: 'rgba(255,255,255,0.08)', backdropFilter: 'blur(20px)', borderColor: 'rgba(255,255,255,0.15)' }}
+              style={{ background: 'rgba(255,255,255,0.06)', backdropFilter: 'blur(20px)', borderColor: 'rgba(255,255,255,0.1)' }}
             >
               {/* Card header */}
               <div className="flex items-center gap-2 mb-6">
@@ -217,8 +219,8 @@ export default function Hero({ locale, dict }: HeroProps) {
                   <p className="text-sm font-bold text-white">
                     {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
                   </p>
-                  <p className="text-xs" style={{ color: '#94a3b8' }}>
-                    {locale === 'fr' ? 'Parmi nos hôtels pet-friendly en Europe' : locale === 'es' ? 'Entre nuestros hoteles pet-friendly' : 'Among our pet-friendly hotels in Europe'}
+                  <p className="text-xs" style={{ color: '#64748b' }}>
+                    {locale === 'fr' ? 'Parmi nos hôtels pet-friendly en Europe' : locale === 'es' ? 'Entre nuestros hoteles pet-friendly en Europa' : 'Among our pet-friendly hotels in Europe'}
                   </p>
                 </div>
               </div>
@@ -238,47 +240,41 @@ export default function Hero({ locale, dict }: HeroProps) {
                     value={destQuery}
                     onChange={(e) => setDestQuery(e.target.value)}
                     placeholder={hero.searchDestination}
-                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-orange-400 transition"
+                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-amber-400 transition"
                     autoComplete="off"
                   />
                   <datalist id="destinations-list">
-                    {destinations.map((d) => (
-                      <option key={d.slug} value={d.name} />
-                    ))}
+                    {destinations.map((d) => <option key={d.slug} value={d.name} />)}
                   </datalist>
                 </div>
 
                 {/* Category */}
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 text-base">
-                    🐾
-                  </span>
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 text-base">🐾</span>
                   <select
                     value={catSlug}
                     onChange={(e) => setCatSlug(e.target.value)}
-                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-orange-400 transition appearance-none cursor-pointer"
+                    className="w-full pl-11 pr-4 py-4 bg-white text-gray-700 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-amber-400 transition appearance-none cursor-pointer"
                   >
                     <option value="">{hero.searchCategory}</option>
                     {categories.map((cat) => (
-                      <option key={cat.slug} value={cat.slug}>
-                        {cat.emoji} {getCategoryName(cat, locale)}
-                      </option>
+                      <option key={cat.slug} value={cat.slug}>{cat.emoji} {getCategoryName(cat, locale)}</option>
                     ))}
                   </select>
                 </div>
 
                 <button
                   type="submit"
-                  className="block w-full font-bold py-4 rounded-2xl text-center transition-all duration-200 shadow-lg hover:-translate-y-0.5 text-sm tracking-wide text-white"
-                  style={{ background: 'linear-gradient(135deg, #f97316, #ea580c)', boxShadow: '0 8px 24px rgba(249,115,22,0.4)' }}
+                  className="block w-full font-bold py-4 rounded-2xl text-center transition-all duration-200 hover:-translate-y-0.5 text-sm tracking-wide text-white"
+                  style={{ background: 'linear-gradient(135deg, #1e40af, #3b82f6)', boxShadow: '0 8px 24px rgba(59,130,246,0.35)' }}
                 >
                   {hero.cta} →
                 </button>
               </div>
 
-              {/* Popular city chips with flags */}
+              {/* Popular city chips */}
               <div className="mt-5">
-                <p className="text-[10px] uppercase tracking-widest mb-2" style={{ color: 'rgba(255,255,255,0.35)' }}>
+                <p className="text-[10px] uppercase tracking-widest mb-2" style={{ color: 'rgba(255,255,255,0.3)' }}>
                   {popularLabel}
                 </p>
                 <div className="flex flex-wrap gap-1.5">
@@ -287,18 +283,8 @@ export default function Hero({ locale, dict }: HeroProps) {
                       key={city.name}
                       type="button"
                       onClick={() => handleCityChip(city.name)}
-                      className="text-[11px] px-2.5 py-1 rounded-full transition-all duration-150 border"
-                      style={{ color: 'rgba(255,255,255,0.65)', background: 'rgba(255,255,255,0.07)', borderColor: 'rgba(255,255,255,0.12)' }}
-                      onMouseEnter={e => {
-                        (e.currentTarget as HTMLElement).style.background = 'rgba(249,115,22,0.2)'
-                        ;(e.currentTarget as HTMLElement).style.borderColor = 'rgba(249,115,22,0.4)'
-                        ;(e.currentTarget as HTMLElement).style.color = '#fff'
-                      }}
-                      onMouseLeave={e => {
-                        (e.currentTarget as HTMLElement).style.background = 'rgba(255,255,255,0.07)'
-                        ;(e.currentTarget as HTMLElement).style.borderColor = 'rgba(255,255,255,0.12)'
-                        ;(e.currentTarget as HTMLElement).style.color = 'rgba(255,255,255,0.65)'
-                      }}
+                      className="text-[11px] px-2.5 py-1 rounded-full transition-all duration-150 border hover:border-amber-400/40 hover:bg-amber-400/10 hover:text-white"
+                      style={{ color: 'rgba(255,255,255,0.55)', background: 'rgba(255,255,255,0.06)', borderColor: 'rgba(255,255,255,0.1)' }}
                     >
                       {city.flag} {city.name}
                     </button>
@@ -307,9 +293,12 @@ export default function Hero({ locale, dict }: HeroProps) {
               </div>
 
               {/* Trust strip */}
-              <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t" style={{ borderColor: 'rgba(255,255,255,0.08)' }}>
+              <div
+                className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t"
+                style={{ borderColor: 'rgba(255,255,255,0.07)' }}
+              >
                 {trust.map((item) => (
-                  <span key={item} className="text-[10px] flex items-center gap-1" style={{ color: 'rgba(255,255,255,0.4)' }}>
+                  <span key={item} className="text-[10px] flex items-center gap-1" style={{ color: 'rgba(255,255,255,0.35)' }}>
                     <span className="text-emerald-400">✓</span> {item}
                   </span>
                 ))}

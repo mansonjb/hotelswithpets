@@ -298,6 +298,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇦🇹',
     name: { fr: 'Autriche', en: 'Austria', es: 'Austria' },
     requirement: 'standard',
+    countrySiteSlug: 'austria',
     destinationSlug: 'vienna',
     summary: {
       fr: 'Passeport européen standard. Vienne est très accueillante pour les animaux.',
@@ -327,6 +328,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇨🇿',
     name: { fr: 'République tchèque', en: 'Czech Republic', es: 'República Checa' },
     requirement: 'standard',
+    countrySiteSlug: 'czech-republic',
     destinationSlug: 'prague',
     summary: {
       fr: 'Passeport européen standard. Prague accueille bien les chiens.',
@@ -356,6 +358,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇭🇺',
     name: { fr: 'Hongrie', en: 'Hungary', es: 'Hungría' },
     requirement: 'standard',
+    countrySiteSlug: 'hungary',
     destinationSlug: 'budapest',
     summary: {
       fr: 'Passeport européen standard.',
@@ -382,6 +385,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇭🇷',
     name: { fr: 'Croatie', en: 'Croatia', es: 'Croacia' },
     requirement: 'standard',
+    countrySiteSlug: 'croatia',
     destinationSlug: 'dubrovnik',
     summary: {
       fr: 'Passeport européen standard. Les plages dog-friendly sont nombreuses hors saison.',
@@ -411,6 +415,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇬🇷',
     name: { fr: 'Grèce', en: 'Greece', es: 'Grecia' },
     requirement: 'standard',
+    countrySiteSlug: 'greece',
     destinationSlug: 'athens',
     summary: {
       fr: 'Passeport européen standard. Traitement antiparasitaire recommandé en été.',
@@ -525,7 +530,7 @@ const COUNTRY_RULES: CountryRule[] = [
     flag: '🇬🇧',
     name: { fr: 'Royaume-Uni', en: 'United Kingdom', es: 'Reino Unido' },
     requirement: 'strict',
-    countrySiteSlug: 'uk',
+    countrySiteSlug: 'united-kingdom',
     destinationSlug: 'edinburgh',
     summary: {
       fr: 'Hors UE (Brexit). Le passeport européen n\'est plus valide. Un Certificat Sanitaire Animal (AHC) est désormais obligatoire.',
@@ -1100,16 +1105,11 @@ export default async function PetPassportGuidePage({
                       ))}
                     </ul>
                     <div className="flex gap-2 flex-wrap">
-                      {country.destinationSlug && (
-                        <Link href={`/${locale}/destinations/${country.destinationSlug}`}
+                      {(country.countrySiteSlug || country.destinationSlug) && (
+                        <Link
+                          href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
                           className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
-                        </Link>
-                      )}
-                      {country.countrySiteSlug && (
-                        <Link href={`/${locale}/countries/${country.countrySiteSlug}`}
-                          className="text-[11px] text-gray-500 hover:text-gray-700 bg-gray-50 hover:bg-gray-100 px-2.5 py-1 rounded-full transition-colors">
-                          {copy.seeCountry}
                         </Link>
                       )}
                     </div>
@@ -1147,16 +1147,11 @@ export default async function PetPassportGuidePage({
                       ))}
                     </ul>
                     <div className="flex gap-2 flex-wrap">
-                      {country.destinationSlug && (
-                        <Link href={`/${locale}/destinations/${country.destinationSlug}`}
+                      {(country.countrySiteSlug || country.destinationSlug) && (
+                        <Link
+                          href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
                           className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
-                        </Link>
-                      )}
-                      {country.countrySiteSlug && (
-                        <Link href={`/${locale}/countries/${country.countrySiteSlug}`}
-                          className="text-[11px] text-gray-500 hover:text-gray-700 bg-gray-50 hover:bg-gray-100 px-2.5 py-1 rounded-full transition-colors">
-                          {copy.seeCountry}
                         </Link>
                       )}
                     </div>
@@ -1195,16 +1190,11 @@ export default async function PetPassportGuidePage({
                       ))}
                     </ul>
                     <div className="flex gap-2 flex-wrap">
-                      {country.destinationSlug && (
-                        <Link href={`/${locale}/destinations/${country.destinationSlug}`}
+                      {(country.countrySiteSlug || country.destinationSlug) && (
+                        <Link
+                          href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
                           className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
-                        </Link>
-                      )}
-                      {country.countrySiteSlug && (
-                        <Link href={`/${locale}/countries/${country.countrySiteSlug}`}
-                          className="text-[11px] text-gray-500 hover:text-gray-700 bg-gray-50 hover:bg-gray-100 px-2.5 py-1 rounded-full transition-colors">
-                          {copy.seeCountry}
                         </Link>
                       )}
                     </div>

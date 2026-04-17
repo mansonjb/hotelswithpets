@@ -135,7 +135,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                           {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : 'Practical guides'}
                         </p>
                         <Link
-                          href={`/${locale}/guides/passeport-animal`}
+                          href={`/${locale}/guides`}
                           className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-amber-50 hover:text-amber-700 text-gray-600 transition-colors"
                           onClick={() => setDropdownOpen(false)}
                         >
@@ -178,7 +178,7 @@ export default function Header({ locale, dict }: HeaderProps) {
             <Link href={`/${locale}/countries`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.countries ?? 'Countries'}
             </Link>
-            <Link href={`/${locale}/guides/passeport-animal`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/guides`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {locale === 'fr' ? 'Guides' : locale === 'es' ? 'Guías' : 'Guides'}
             </Link>
             <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">

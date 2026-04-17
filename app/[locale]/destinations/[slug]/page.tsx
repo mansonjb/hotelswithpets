@@ -96,12 +96,14 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const hasGuide = existsSync(join(process.cwd(), `data/city-guides/${slug}.json`))
 
   const GUIDES = [
-    { slug: 'restaurants', emoji: '🍽️', en: 'Restaurants', fr: 'Restaurants', es: 'Restaurantes', gradient: 'from-orange-500 to-amber-500' },
-    { slug: 'parks',       emoji: '🌳', en: 'Parks & Walks', fr: 'Parcs & Balades', es: 'Parques y Paseos', gradient: 'from-emerald-500 to-teal-500' },
-    { slug: 'transport',   emoji: '🚇', en: 'Transport', fr: 'Transport', es: 'Transporte', gradient: 'from-blue-500 to-cyan-500' },
-    { slug: 'beaches',     emoji: '🏖️', en: 'Beaches', fr: 'Plages', es: 'Playas', gradient: 'from-cyan-500 to-blue-400' },
-    { slug: 'vets',        emoji: '🏥', en: 'Vets', fr: 'Vétérinaires', es: 'Veterinarios', gradient: 'from-red-500 to-rose-500' },
-    { slug: 'tips',        emoji: '💡', en: 'Local Tips', fr: 'Conseils locaux', es: 'Consejos locales', gradient: 'from-violet-500 to-purple-600' },
+    { slug: 'restaurants', emoji: '🍽️', en: 'Restaurants',     fr: 'Restaurants',       es: 'Restaurantes',          gradient: 'from-orange-500 to-amber-500' },
+    { slug: 'parks',       emoji: '🌳', en: 'Parks & Walks',   fr: 'Parcs & Balades',   es: 'Parques y Paseos',      gradient: 'from-emerald-500 to-teal-500' },
+    { slug: 'transport',   emoji: '🚇', en: 'Transport',        fr: 'Transport',          es: 'Transporte',            gradient: 'from-blue-500 to-cyan-500' },
+    { slug: 'beaches',     emoji: '🏖️', en: 'Beaches',          fr: 'Plages',             es: 'Playas',                gradient: 'from-cyan-500 to-blue-400' },
+    { slug: 'attractions', emoji: '🏛️', en: 'Attractions',      fr: 'À visiter',          es: 'Qué ver',               gradient: 'from-indigo-500 to-violet-500' },
+    { slug: 'petsitting',  emoji: '🐶', en: 'Pet Sitting',      fr: 'Garde animaux',      es: 'Cuidado mascotas',      gradient: 'from-pink-500 to-rose-400' },
+    { slug: 'vets',        emoji: '🏥', en: 'Vets',             fr: 'Vétérinaires',       es: 'Veterinarios',          gradient: 'from-red-500 to-rose-500' },
+    { slug: 'tips',        emoji: '💡', en: 'Local Tips',       fr: 'Conseils locaux',    es: 'Consejos locales',      gradient: 'from-violet-500 to-purple-600' },
   ]
 
   const base = 'https://hotelswithpets.com'

@@ -22,7 +22,11 @@
           "priceRange": "€€",
           "mustTry": "Club sandwich, selection of German beers",
           "openingHours": "Mon–Sun 10:00–01:00",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Brecht+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Brecht+Amsterdam",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos en interior y terraza",
+          "mustTryFr": "Club sandwich, sélection de bières allemandes",
+          "mustTryEs": "Club sándwich, selección de cervezas alemanas"
         },
         {
           "name": "Café Papeneiland",
@@ -33,7 +37,11 @@
           "priceRange": "€",
           "mustTry": "Appeltaart (apple pie), Dutch coffee",
           "openingHours": "Mon–Thu 10:00–01:00, Fri–Sat 10:00–02:00, Sun 11:00–01:00",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Papeneiland+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Papeneiland+Amsterdam",
+          "petPolicyFr": "Chiens toujours les bienvenus",
+          "petPolicyEs": "Perros siempre bienvenidos",
+          "mustTryFr": "Appeltaart (tarte aux pommes), café hollandais",
+          "mustTryEs": "Appeltaart (tarta de manzana), café holandés"
         },
         {
           "name": "Brouwerij 't IJ",
@@ -44,7 +52,11 @@
           "priceRange": "€€",
           "mustTry": "IJwit (white beer), Zatte (tripel)",
           "openingHours": "Daily 14:00–20:00",
-          "googleMapsUrl": "https://maps.google.com/?q=Brouwerij+IJ+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Brouwerij+IJ+Amsterdam",
+          "petPolicyFr": "Chiens acceptés en extérieur et au bar",
+          "petPolicyEs": "Perros admitidos fuera y en el bar",
+          "mustTryFr": "IJwit (bière blanche), Zatte (triple)",
+          "mustTryEs": "IJwit (cerveza blanca), Zatte (triple)"
         },
         {
           "name": "Pllek",
@@ -55,7 +67,11 @@
           "priceRange": "€€",
           "mustTry": "Weekend brunch, organic burgers",
           "openingHours": "Mon–Thu 11:00–23:00, Fri–Sat 11:00–00:00, Sun 11:00–22:00",
-          "googleMapsUrl": "https://maps.google.com/?q=Pllek+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Pllek+Amsterdam",
+          "petPolicyFr": "Chiens acceptés partout",
+          "petPolicyEs": "Perros admitidos en todas partes",
+          "mustTryFr": "Brunch du week-end, burgers bio",
+          "mustTryEs": "Brunch de fin de semana, hamburguesas ecológicas"
         },
         {
           "name": "De Kas",
@@ -66,7 +82,11 @@
           "priceRange": "€€€€",
           "mustTry": "Daily changing 3-course market menu",
           "openingHours": "Mon–Fri 12:00–15:00, 18:30–22:00 / Sat 18:30–22:00",
-          "googleMapsUrl": "https://maps.google.com/?q=De+Kas+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=De+Kas+Amsterdam",
+          "petPolicyFr": "Chiens acceptés en terrasse et dans le jardin",
+          "petPolicyEs": "Perros admitidos en terraza y jardín",
+          "mustTryFr": "Menu 3 plats du marché (change chaque jour)",
+          "mustTryEs": "Menú de mercado de 3 platos (cambia cada día)"
         }
       ],
       "tipsEn": [
@@ -147,7 +167,11 @@
           "offLeashArea": "Designated zones marked on park maps — northeast corner near the rose garden",
           "tip": "Visit before 9am on summer weekends to avoid crowds",
           "nearbyHotels": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Vondelpark+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Vondelpark+Amsterdam",
+          "offLeashAreaFr": "Zones désignées sur les plans du parc — coin nord-est près de la roseraie",
+          "offLeashAreaEs": "Zonas designadas en los mapas del parque — esquina noreste cerca del jardín de rosas",
+          "tipFr": "Visitez avant 9h le week-end en été pour éviter la foule",
+          "tipEs": "Visita antes de las 9h los fines de semana en verano para evitar las multitudes"
         },
         {
           "name": "Amsterdamse Bos (Amsterdam Forest)",
@@ -158,7 +182,11 @@
           "offLeashArea": "Entire forest except designated picnic zones",
           "tip": "Take tram 5 to Amstelveen, then walk 10 minutes into the forest entrance",
           "nearbyHotels": false,
-          "googleMapsUrl": "https://maps.google.com/?q=Amsterdamse+Bos"
+          "googleMapsUrl": "https://maps.google.com/?q=Amsterdamse+Bos",
+          "offLeashAreaFr": "Toute la forêt sauf les zones de pique-nique désignées",
+          "offLeashAreaEs": "Todo el bosque excepto las zonas de picnic designadas",
+          "tipFr": "Prenez le tram 5 jusqu'à Amstelveen, puis marchez 10 minutes",
+          "tipEs": "Toma el tranvía 5 hasta Amstelveen, luego camina 10 minutos"
         },
         {
           "name": "Oosterpark",
@@ -169,7 +197,11 @@
           "offLeashArea": "Dedicated off-leash area near the south entrance",
           "tip": "Best for a quick morning walk before exploring the Dappermarkt nearby",
           "nearbyHotels": false,
-          "googleMapsUrl": "https://maps.google.com/?q=Oosterpark+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Oosterpark+Amsterdam",
+          "offLeashAreaFr": "Zone réservée sans laisse près de l'entrée sud",
+          "offLeashAreaEs": "Zona reservada sin correa cerca de la entrada sur",
+          "tipFr": "Idéal pour une promenade avant d'explorer le Dappermarkt à proximité",
+          "tipEs": "Perfecto para un paseo antes de explorar el Dappermarkt cercano"
         },
         {
           "name": "Westerpark & Cultuurpark Westergasfabriek",
@@ -180,7 +212,11 @@
           "offLeashArea": "South meadow area",
           "tip": "Combine with a visit to the Westerpark market on weekends",
           "nearbyHotels": false,
-          "googleMapsUrl": "https://maps.google.com/?q=Westerpark+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Westerpark+Amsterdam",
+          "offLeashAreaFr": "Prairie sud",
+          "offLeashAreaEs": "Pradera sur",
+          "tipFr": "À combiner avec le marché du Westerpark le week-end",
+          "tipEs": "Combínalo con el mercado del Westerpark los fines de semana"
         },
         {
           "name": "Flevopark",
@@ -191,7 +227,11 @@
           "offLeashArea": "Most of the park",
           "tip": "Dogs can swim in the designated river access area near the south end",
           "nearbyHotels": false,
-          "googleMapsUrl": "https://maps.google.com/?q=Flevopark+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Flevopark+Amsterdam",
+          "offLeashAreaFr": "La quasi-totalité du parc",
+          "offLeashAreaEs": "La mayor parte del parque",
+          "tipFr": "Les chiens peuvent se baigner dans la zone d'accès à la rivière au sud",
+          "tipEs": "Los perros pueden bañarse en la zona de acceso al río en el extremo sur"
         }
       ],
       "tipsEn": [
@@ -414,7 +454,14 @@
       "entryRequirements": {
         "euPets": "Valid EU pet passport + microchip + rabies vaccination up to date. No additional tests required.",
         "nonEuPets": "Health certificate (APHIS 7001 for US pets), microchip, rabies vaccination, possibly titer test depending on origin country. Check Netherlands NVWA rules.",
-        "emergencyContacts": ["Netherlands national emergency vet line: +31 900 1770", "Amsterdam municipality animal welfare: +31 20 251 2555"]
+        "emergencyContacts": [
+          "Netherlands national emergency vet line: +31 900 1770",
+          "Amsterdam municipality animal welfare: +31 20 251 2555"
+        ],
+        "euPetsFr": "Passeport animal européen valide, vaccination antirabique à jour, puce électronique. Entrée aux Pays-Bas sans quarantaine pour les animaux enregistrés dans l'UE.",
+        "euPetsEs": "Pasaporte europeo de mascotas válido, vacunación antirrábica al día, microchip. Entrada a los Países Bajos sin cuarentena para mascotas registradas en la UE.",
+        "nonEuPetsFr": "Un certificat vétérinaire officiel est requis. Selon le pays d'origine, un traitement antiparasitaire et une période d'observation peuvent être exigés.",
+        "nonEuPetsEs": "Se requiere un certificado veterinario oficial. Dependiendo del país de origen, puede exigirse tratamiento antiparasitario y período de observación."
       },
       "places": [
         {
@@ -425,7 +472,13 @@
           "hours": "24/7 emergency service",
           "englishSpeaking": true,
           "description": "Well-regarded full-service clinic in South Amsterdam. English-speaking staff. Handles most emergencies.",
-          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Rivierenbuurt+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Rivierenbuurt+Amsterdam",
+          "descriptionFr": "Clinique vétérinaire généraliste de bonne réputation dans le sud d'Amsterdam. Personnel anglophone. Gère la plupart des urgences. La clinique la plus proche du centre-ville avec des services d'urgence disponibles.",
+          "descriptionEs": "Clínica veterinaria generalista bien valorada en el sur de Ámsterdam. Personal angloparlante. Atiende la mayoría de las urgencias. La clínica más cercana al centro con servicios de urgencia disponibles.",
+          "hoursFr": "Service d'urgence 24h/24",
+          "hoursEs": "Servicio de urgencia 24h/24",
+          "tipFr": "Appelez avant de venir en urgence pour qu'ils préparent l'accueil.",
+          "tipEs": "Llama antes de ir en urgencia para que preparen la atención."
         },
         {
           "name": "Universiteitskliniek voor Gezelschapsdieren (UKG) — Utrecht",
@@ -435,7 +488,11 @@
           "hours": "24/7 emergency",
           "englishSpeaking": true,
           "description": "The top specialist veterinary hospital in the Netherlands. For serious emergencies or complex cases not handled locally. About 30 minutes by car from Amsterdam centre.",
-          "googleMapsUrl": "https://maps.google.com/?q=UKG+Utrecht"
+          "googleMapsUrl": "https://maps.google.com/?q=UKG+Utrecht",
+          "descriptionFr": "Le principal hôpital vétérinaire spécialisé des Pays-Bas. Pour les urgences graves ou les cas nécessitant des équipements avancés. À 30 minutes d'Amsterdam en voiture.",
+          "descriptionEs": "El principal hospital veterinario especializado de los Países Bajos. Para urgencias graves o casos que requieren equipos avanzados. A 30 minutos de Ámsterdam en coche.",
+          "hoursFr": "Urgences 24h/24",
+          "hoursEs": "Urgencias 24h/24"
         },
         {
           "name": "Dierenkliniek Jordaan",
@@ -445,7 +502,11 @@
           "hours": "Mon–Fri 08:00–18:00, Sat 09:00–13:00",
           "englishSpeaking": true,
           "description": "Popular general practice in the heart of the Jordaan. Not a 24h clinic — use for routine check-ups and vaccinations during your stay.",
-          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Jordaan+Amsterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Jordaan+Amsterdam",
+          "descriptionFr": "Cabinet vétérinaire généraliste populaire au cœur du Jordaan. Pas de service 24h — consultations de routine uniquement. Idéal pour un bilan rapide si vous séjournez dans le centre.",
+          "descriptionEs": "Consulta veterinaria generalista popular en el corazón del Jordaan. Sin servicio 24h — solo consultas rutinarias. Ideal para un chequeo rápido si te alojas en el centro.",
+          "hoursFr": "Lun–Ven 08h00–18h00, Sam 09h00–13h00",
+          "hoursEs": "Lun–Vie 08:00–18:00, Sáb 09:00–13:00"
         }
       ],
       "faqsEn": [
@@ -560,6 +621,231 @@
         {
           "q": "¿Se admiten perros en los museos de Ámsterdam ?",
           "a": "Por lo general no — la mayoría de los museos no permiten la entrada de animales. Algunos jardines exteriores de museos son una excepción. Los perros guía siempre están admitidos. Organiza tus visitas en interiores para los momentos en que tu perro pueda quedarse cómodamente en el hotel."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Amsterdam",
+      "titleFr": "Sites à visiter avec son animal à Amsterdam",
+      "titleEs": "Atracciones pet-friendly en Ámsterdam",
+      "introEn": "Amsterdam is surprisingly welcoming to dogs at many of its iconic sites. While most museums don't allow pets inside, the city's open-air attractions, markets, and historic neighbourhoods are all easily explored with your dog.",
+      "introFr": "Amsterdam est étonnamment accueillante pour les chiens dans de nombreux sites emblématiques. Si la plupart des musées n'acceptent pas les animaux à l'intérieur, les attractions en plein air, les marchés et les quartiers historiques se visitent facilement avec votre compagnon.",
+      "introEs": "Ámsterdam es sorprendentemente acogedora para los perros en muchos de sus lugares emblemáticos. Aunque la mayoría de los museos no permiten mascotas, las atracciones al aire libre, los mercados y los barrios históricos se pueden explorar fácilmente con tu perro.",
+      "places": [
+        {
+          "name": "Jordaan & Nine Streets (De Negen Straatjes)",
+          "neighborhood": "Jordaan",
+          "description": "Amsterdam's most charming neighbourhood — a labyrinth of 17th-century canals, independent boutiques, and café terraces. Dogs welcomed at most terraces. The Nine Streets area is a must for boutique shopping and canal views.",
+          "descriptionFr": "Le quartier le plus charmant d'Amsterdam — un labyrinthe de canaux du XVIIe siècle, de boutiques indépendantes et de terrasses. Les chiens sont acceptés sur la plupart des terrasses. Les Neuf Rues sont incontournables pour le shopping et les vues sur les canaux.",
+          "descriptionEs": "El barrio más encantador de Ámsterdam — un laberinto de canales del siglo XVII, boutiques independientes y terrazas. Los perros son bienvenidos en la mayoría de las terrazas. La zona de las Nueve Calles es imprescindible.",
+          "dogPolicy": "Dogs welcome on streets and most café terraces",
+          "dogPolicyFr": "Chiens acceptés dans les rues et sur la plupart des terrasses",
+          "dogPolicyEs": "Perros admitidos en calles y en la mayoría de las terrazas",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Entrée libre",
+          "admissionFeeEs": "Entrada gratuita",
+          "tip": "Go early morning — quietest time, best light for photos",
+          "tipFr": "Allez tôt le matin — le plus calme, meilleure lumière pour les photos",
+          "tipEs": "Ve temprano por la mañana — el momento más tranquilo, mejor luz para fotos",
+          "googleMapsUrl": "https://maps.google.com/?q=Jordaan+Amsterdam"
+        },
+        {
+          "name": "Albert Cuypmarkt",
+          "neighborhood": "De Pijp",
+          "description": "Europe's largest outdoor market — 260m of stalls, open Monday to Saturday. Dogs on leash are very common here. A vibrant, authentic Amsterdam experience.",
+          "descriptionFr": "Le plus grand marché en plein air d'Europe — 260 m d'étals, ouvert du lundi au samedi. Les chiens en laisse y sont très courants. Une expérience vivante et authentique d'Amsterdam.",
+          "descriptionEs": "El mercado al aire libre más grande de Europa — 260 m de puestos, abierto de lunes a sábado. Los perros con correa son muy habituales aquí. Una experiencia vibrante y auténtica de Ámsterdam.",
+          "dogPolicy": "Dogs on leash welcome",
+          "dogPolicyFr": "Chiens en laisse acceptés",
+          "dogPolicyEs": "Perros con correa admitidos",
+          "openingHours": "Mon–Sat 09:00–17:00",
+          "openingHoursFr": "Lun–Sam 09h00–17h00",
+          "openingHoursEs": "Lun–Sáb 09:00–17:00",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Entrée libre",
+          "admissionFeeEs": "Entrada gratuita",
+          "tip": "Weekday mornings are quietest",
+          "tipFr": "Les matinées de semaine sont les plus calmes",
+          "tipEs": "Las mañanas entre semana son las más tranquilas",
+          "googleMapsUrl": "https://maps.google.com/?q=Albert+Cuypmarkt+Amsterdam"
+        },
+        {
+          "name": "NDSM Wharf (Amsterdam Noord)",
+          "neighborhood": "Noord — free ferry from Central Station",
+          "description": "Former shipyard turned cultural hub. Massive open spaces, street art, and waterfront restaurants. One of the most dog-friendly areas in Amsterdam. 15-min free ferry from Central Station.",
+          "descriptionFr": "Ancien chantier naval reconverti en pôle culturel. Grands espaces ouverts, art de rue et restaurants en bord de rivière. L'un des quartiers les plus accueillants pour les chiens à Amsterdam. Ferry gratuit en 15 min depuis la gare Centrale.",
+          "descriptionEs": "Antiguo astillero reconvertido en hub cultural. Grandes espacios abiertos, arte urbano y restaurantes junto al agua. Una de las zonas más pet-friendly de Ámsterdam. Ferry gratuito en 15 min desde la Estación Central.",
+          "dogPolicy": "Dogs fully welcome — large open spaces",
+          "dogPolicyFr": "Chiens entièrement acceptés — grands espaces ouverts",
+          "dogPolicyEs": "Perros totalmente admitidos — grandes espacios abiertos",
+          "admissionFee": "Free (free ferry)",
+          "admissionFeeFr": "Gratuit (ferry gratuit)",
+          "admissionFeeEs": "Gratuito (ferry gratuito)",
+          "tip": "Take the GVB free ferry from behind Amsterdam Central Station — dogs allowed on board",
+          "tipFr": "Prenez le ferry gratuit GVB derrière la gare Centrale — chiens acceptés à bord",
+          "tipEs": "Toma el ferry gratuito de GVB detrás de la Estación Central — perros admitidos a bordo",
+          "googleMapsUrl": "https://maps.google.com/?q=NDSM+Amsterdam"
+        },
+        {
+          "name": "Hortus Botanicus Amsterdam",
+          "neighborhood": "Plantagebuurt",
+          "description": "One of the world's oldest botanical gardens (1638). Dogs allowed in outdoor garden areas (not tropical greenhouses). Beautiful for a relaxed morning walk between exotic plants.",
+          "descriptionFr": "L'un des plus anciens jardins botaniques du monde (1638). Les chiens sont autorisés dans les zones extérieures (pas dans les serres tropicales). Parfait pour une promenade matinale tranquille.",
+          "descriptionEs": "Uno de los jardines botánicos más antiguos del mundo (1638). Los perros están permitidos en las zonas exteriores (no en los invernaderos tropicales). Perfecto para un tranquilo paseo matutino.",
+          "dogPolicy": "Dogs allowed in outdoor areas only",
+          "dogPolicyFr": "Chiens autorisés dans les zones extérieures uniquement",
+          "dogPolicyEs": "Perros permitidos solo en zonas exteriores",
+          "admissionFee": "€11.50",
+          "admissionFeeFr": "11,50€",
+          "admissionFeeEs": "11,50€",
+          "openingHours": "Daily 10:00–17:00",
+          "openingHoursFr": "Tous les jours 10h00–17h00",
+          "openingHoursEs": "Todos los días 10:00–17:00",
+          "googleMapsUrl": "https://maps.google.com/?q=Hortus+Botanicus+Amsterdam"
+        },
+        {
+          "name": "Keukenhof Gardens (day trip — Lisse)",
+          "neighborhood": "Day trip — 35km from Amsterdam",
+          "description": "World-famous tulip garden, open March–May. Dogs welcome in the gardens on a leash. One of the most spectacular spring day trips from Amsterdam.",
+          "descriptionFr": "Le jardin de tulipes le plus célèbre au monde, ouvert de mars à mai. Les chiens sont acceptés dans les jardins en laisse. L'une des plus belles excursions printanières depuis Amsterdam.",
+          "descriptionEs": "El jardín de tulipanes más famoso del mundo, abierto de marzo a mayo. Los perros son bienvenidos en los jardines con correa. Una de las excursiones primaverales más espectaculares desde Ámsterdam.",
+          "dogPolicy": "Dogs on leash welcome in all outdoor areas",
+          "dogPolicyFr": "Chiens en laisse acceptés dans toutes les zones extérieures",
+          "dogPolicyEs": "Perros con correa admitidos en todas las zonas exteriores",
+          "admissionFee": "~€22 adult",
+          "admissionFeeFr": "~22€ adulte",
+          "admissionFeeEs": "~22€ adulto",
+          "openingHours": "Mar–May daily 08:00–19:30",
+          "openingHoursFr": "Mar–Mai tous les jours 08h00–19h30",
+          "openingHoursEs": "Mar–May todos los días 08:00–19:30",
+          "season": "March–May only",
+          "tip": "Arrive before 10am to avoid coach groups",
+          "tipFr": "Arrivez avant 10h pour éviter les groupes de cars",
+          "tipEs": "Llega antes de las 10h para evitar los grupos de autocares",
+          "googleMapsUrl": "https://maps.google.com/?q=Keukenhof+Lisse"
+        }
+      ],
+      "tipsEn": [
+        "Most Amsterdam museums (Rijksmuseum, Van Gogh, Anne Frank House) do NOT allow dogs inside. Service dogs always permitted.",
+        "The canal ring is best explored on foot with a dog — most towpaths are pedestrian-friendly.",
+        "Amsterdam Noord is the most dog-friendly area for large open spaces and relaxed venues.",
+        "Dog-friendly canal boat tours exist — search 'dog-friendly canal tour Amsterdam' for specialist operators.",
+        "Avoid Dam Square and the Red Light District with dogs — overcrowded and stressful for animals."
+      ],
+      "tipsFr": [
+        "La plupart des musées d'Amsterdam (Rijksmuseum, Van Gogh, Anne Frank) n'acceptent PAS les chiens à l'intérieur. Les chiens guides sont toujours autorisés.",
+        "L'anneau de canaux se visite idéalement à pied avec un chien — la plupart des berges sont piétonnes.",
+        "Amsterdam Noord est la partie la plus accueillante pour les grands chiens et les lieux décontractés.",
+        "Des croisières sur les canaux acceptant les chiens existent — cherchez 'dog-friendly canal tour Amsterdam'.",
+        "Évitez la Place du Dam et le Quartier Rouge avec un chien — surpeuplés et stressants."
+      ],
+      "tipsEs": [
+        "La mayoría de los museos de Ámsterdam (Rijksmuseum, Van Gogh, Anne Frank) NO permiten perros. Los perros guía siempre están permitidos.",
+        "El anillo de canales se explora mejor a pie con un perro — la mayoría de las orillas son peatonales.",
+        "Amsterdam Noord es la parte más pet-friendly para espacios grandes y locales relajados.",
+        "Existen tours en barco pet-friendly — busca 'dog-friendly canal tour Amsterdam' para operadores especializados.",
+        "Evita la Plaza Dam y el Barrio Rojo con perros — masificados y estresantes para los animales."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I visit Amsterdam's main museums with my dog?",
+          "a": "Generally no. The Rijksmuseum, Van Gogh Museum, and Anne Frank House do not allow dogs. Exceptions include outdoor areas of Hortus Botanicus and NDSM Wharf. Service dogs are always permitted."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je visiter les principaux musées d'Amsterdam avec mon chien ?",
+          "a": "En général, non. Le Rijksmuseum, le Musée Van Gogh et la Maison d'Anne Frank n'acceptent pas les chiens. Les exceptions incluent les zones extérieures de l'Hortus Botanicus et le NDSM. Les chiens guides sont toujours autorisés."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo visitar los principales museos de Ámsterdam con mi perro ?",
+          "a": "Generalmente no. El Rijksmuseum, el Museo Van Gogh y la Casa de Ana Frank no permiten perros. Las excepciones incluyen zonas exteriores del Hortus Botanicus y el NDSM. Los perros guía siempre están permitidos."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitters & Pet Care in Amsterdam",
+      "titleFr": "Garde animaux et pet-sitting à Amsterdam",
+      "titleEs": "Cuidado de mascotas y pet-sitting en Ámsterdam",
+      "introEn": "Sometimes you need a few hours without your dog — for a museum visit, a business meeting, or a solo afternoon. Amsterdam has a solid network of dog sitters, doggy daycares, and dog walkers for travellers.",
+      "introFr": "Parfois vous avez besoin de quelques heures sans votre chien — pour visiter un musée, un rendez-vous ou un après-midi en solo. Amsterdam dispose d'un bon réseau de pet-sitters, de garderies et de promeneurs pour les voyageurs.",
+      "introEs": "A veces necesitas unas horas sin tu perro — para visitar un museo, una reunión o una tarde en solitario. Ámsterdam cuenta con una sólida red de cuidadores de perros, guarderías y paseadores para viajeros.",
+      "places": [
+        {
+          "name": "Rover / DogBuddy Amsterdam",
+          "description": "The two largest pet-sitting platforms operating in Amsterdam. Book a verified local dog sitter for a few hours or a full day. Most sitters accept last-minute bookings. Reviews and insurance included.",
+          "descriptionFr": "Les deux plus grandes plateformes de pet-sitting à Amsterdam. Réservez un dog-sitter local vérifié pour quelques heures ou une journée. La plupart acceptent les réservations de dernière minute. Avis et assurance inclus.",
+          "descriptionEs": "Las dos mayores plataformas de pet-sitting en Ámsterdam. Reserva un cuidador local verificado por unas horas o un día completo. La mayoría aceptan reservas de última hora. Reseñas y seguro incluidos.",
+          "serviceType": "App-based booking platform",
+          "serviceTypeFr": "Plateforme de réservation en ligne",
+          "serviceTypeEs": "Plataforma de reserva en línea",
+          "pricePerDay": "~€15–35/jour",
+          "languages": [
+            "English",
+            "Dutch",
+            "French",
+            "Spanish"
+          ],
+          "tip": "Book 24h in advance. Filter by 'accepts dogs over 25kg' for large breeds.",
+          "tipFr": "Réservez 24h à l'avance. Filtrez par 'accepte les chiens de plus de 25 kg' pour les grandes races.",
+          "tipEs": "Reserva con 24h de antelación. Filtra por 'acepta perros de más de 25 kg' para razas grandes.",
+          "googleMapsUrl": "https://www.rover.com/search/amsterdam"
+        },
+        {
+          "name": "Pawshake Amsterdam",
+          "description": "Platform connecting travellers with local dog sitters. Most sitters offer drop-in visits (1 hour), dog walking, or full-day care. All sitters are background-checked.",
+          "descriptionFr": "Plateforme mettant en relation voyageurs et dog-sitters locaux. La plupart des sitters proposent des visites rapides (1h), des promenades ou une garde complète. Tous les sitters sont vérifiés.",
+          "descriptionEs": "Plataforma que conecta viajeros con cuidadores locales. La mayoría ofrecen visitas rápidas (1h), paseos o cuidado de día completo. Todos los cuidadores son verificados.",
+          "serviceType": "Online booking platform",
+          "serviceTypeFr": "Plateforme de réservation en ligne",
+          "serviceTypeEs": "Plataforma de reserva en línea",
+          "pricePerDay": "~€12–25/jour",
+          "languages": [
+            "English",
+            "Dutch"
+          ],
+          "tip": "Great for 2–4h 'museum visits'. Message sitters directly to confirm availability.",
+          "tipFr": "Idéal pour les visites de musée de 2 à 4h. Contactez les sitters directement.",
+          "tipEs": "Perfecto para visitas a museos de 2 a 4h. Contacta directamente a los cuidadores.",
+          "googleMapsUrl": "https://www.pawshake.nl/amsterdam"
+        }
+      ],
+      "tipsEn": [
+        "Book pet-sitting at least 48 hours in advance — last-minute availability is limited in summer.",
+        "Dog daycare centres typically accept dogs from 07:00 — useful for early flights or full-day trips.",
+        "Always verify that your travel insurance covers vet costs in the Netherlands before you depart.",
+        "Most Amsterdam dog-sitters speak English well — no language barrier for travellers."
+      ],
+      "tipsFr": [
+        "Réservez une garde au moins 48h à l'avance — les disponibilités de dernière minute sont limitées en été.",
+        "Les garderies pour chiens acceptent généralement les animaux à partir de 7h00 — utile pour les vols tôt.",
+        "Vérifiez que votre assurance voyage couvre les frais vétérinaires aux Pays-Bas avant de partir.",
+        "La plupart des dog-sitters d'Amsterdam parlent anglais — aucune barrière pour les voyageurs."
+      ],
+      "tipsEs": [
+        "Reserva el cuidado de mascotas con al menos 48h de antelación — la disponibilidad de última hora es limitada en verano.",
+        "Las guarderías caninas suelen aceptar perros desde las 07:00 — útil para vuelos tempranos o excursiones de día.",
+        "Verifica que tu seguro de viaje cubra los costes veterinarios en los Países Bajos antes de salir.",
+        "La mayoría de los cuidadores de perros de Ámsterdam hablan inglés — sin barrera idiomática para viajeros."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog sitting cost in Amsterdam?",
+          "a": "Expect to pay €12–35 per day depending on the service (drop-in visit vs. full daycare). Dog hotels charge €30–50 per night. In-home sitting for a few hours typically costs €15–20."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garde d'un chien à Amsterdam ?",
+          "a": "Comptez 12 à 35€ par jour selon le service (visite rapide ou garderie complète). Les hôtels pour chiens facturent 30 à 50€ par nuit. La garde à domicile pour quelques heures coûte généralement 15 à 20€."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta el cuidado de un perro en Ámsterdam?",
+          "a": "Espera pagar entre 12 y 35€ por día según el servicio. Los hoteles caninos cobran entre 30 y 50€ por noche. El cuidado en casa por unas horas suele costar entre 15 y 20€."
         }
       ]
     }

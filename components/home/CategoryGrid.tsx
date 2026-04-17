@@ -23,7 +23,6 @@ function getCategoryDesc(cat: typeof categories[number], locale: Locale): string
   return cat.description
 }
 
-// Compute top 3 city names per category
 function getTopCities(catSlug: string, count = 3): string[] {
   const tally: Record<string, number> = {}
   hotels.forEach((h) => {
@@ -37,18 +36,40 @@ function getTopCities(catSlug: string, count = 3): string[] {
     .map(([slug]) => destinations.find((d) => d.slug === slug)?.name ?? slug)
 }
 
+const EDITORIAL: Record<string, string> = {
+  fr: 'Que vous voyagiez avec un chien de grande taille, un chat, ou que vous cherchiez un hôtel de luxe sans supplément animaux, nos filtres vous permettent de trouver exactement ce qu\'il vous faut en quelques secondes.',
+  es: 'Tanto si viajas con un perro grande, un gato o buscas un hotel de lujo sin cargo por mascota, nuestros filtros te permiten encontrar exactamente lo que necesitas en segundos.',
+  en: 'Whether you\'re travelling with a large dog, a cat, or looking for a luxury hotel with no pet fee, our filters help you find exactly what you need in seconds.',
+}
+
+const PROMISE: Record<string, { title: string; items: string[] }> = {
+  fr: {
+    title: 'Notre engagement',
+    items: ['Politique animaux vérifiée', 'Prix directs Booking.com', 'Aucun frais caché', 'Mis à jour régulièrement'],
+  },
+  en: {
+    title: 'Our commitment',
+    items: ['Pet policy verified', 'Direct Booking.com prices', 'No hidden fees', 'Regularly updated'],
+  },
+  es: {
+    title: 'Nuestro compromiso',
+    items: ['Política de mascotas verificada', 'Precios directos Booking.com', 'Sin cargos ocultos', 'Actualizado regularmente'],
+  },
+}
+
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
   const activeCats = categories.filter((c) => c.cityCount > 0)
   const [featured, ...rest] = activeCats
-
   const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : 'cities'
+  const editorial = EDITORIAL[locale] ?? EDITORIAL.en
+  const promise = PROMISE[locale] ?? PROMISE.en
 
   return (
-    <section className="py-24 bg-white">
+    <section className="py-24 bg-white border-t border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-        {/* Header */}
-        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-14">
+        {/* Header — 2-col editorial */}
+        <div className="grid lg:grid-cols-2 gap-10 items-end mb-14">
           <div>
             <p className="text-xs font-semibold uppercase tracking-widest text-blue-500 mb-3">
               {dict.categories.browseBy}
@@ -59,14 +80,15 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
               </span>
             </h2>
           </div>
-          <p className="text-gray-400 text-sm max-w-xs sm:text-right">
-            {dict.categories.subtitle}
+          <p className="text-gray-500 text-base leading-relaxed lg:pb-1">
+            {editorial}
           </p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+        {/* Cards grid */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mb-12">
 
-          {/* Featured card — spans 2 rows */}
+          {/* Featured card */}
           {(() => {
             const topCities = getTopCities(featured.slug, 4)
             return (
@@ -79,7 +101,6 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                   {featured.emoji}
                 </div>
                 <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300" />
-
                 <div className="relative">
                   <span className="text-5xl mb-5 block">{featured.emoji}</span>
                   <h3 className="text-white font-extrabold text-2xl leading-tight mb-2">
@@ -88,7 +109,6 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                   <p className="text-white/80 text-sm leading-relaxed mb-4">
                     {getCategoryDesc(featured, locale)}
                   </p>
-                  {/* City chips */}
                   <div className="flex flex-wrap gap-1.5 mb-5">
                     {topCities.map((city) => (
                       <span key={city} className="text-white/80 text-xs bg-white/15 px-2.5 py-1 rounded-full font-medium">
@@ -100,9 +120,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                     <span className="inline-flex items-center gap-1.5 bg-white/15 text-white/90 text-xs font-medium px-3 py-1.5 rounded-full">
                       📍 {featured.cityCount} {citiesLabel}
                     </span>
-                    <span className="text-white/60 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-lg">
-                      →
-                    </span>
+                    <span className="text-white/60 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-lg">→</span>
                   </div>
                 </div>
               </Link>
@@ -123,40 +141,40 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                   {cat.emoji}
                 </div>
                 <div className="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-200" />
-
                 <div className="relative flex items-start gap-3">
                   <span className="text-2xl mt-0.5">{cat.emoji}</span>
                   <div className="min-w-0">
-                    <h3 className="text-white font-bold text-sm leading-tight">
-                      {getCategoryName(cat, locale)}
-                    </h3>
-                    <p className="text-white/60 text-xs mt-0.5">
-                      {cat.cityCount} {citiesLabel}
-                    </p>
+                    <h3 className="text-white font-bold text-sm leading-tight">{getCategoryName(cat, locale)}</h3>
+                    <p className="text-white/60 text-xs mt-0.5">{cat.cityCount} {citiesLabel}</p>
                   </div>
                 </div>
-
-                {/* City hints */}
                 <div className="relative mt-2 flex flex-wrap gap-1">
                   {topCities.map((city) => (
-                    <span key={city} className="text-white/70 text-[10px] bg-white/10 px-2 py-0.5 rounded-full">
-                      {city}
-                    </span>
+                    <span key={city} className="text-white/70 text-[10px] bg-white/10 px-2 py-0.5 rounded-full">{city}</span>
                   ))}
                 </div>
-
                 <div className="relative flex items-center justify-between mt-3">
-                  <span className="text-white/70 text-xs group-hover:text-white transition-colors">
-                    {dict.categories.explore}
-                  </span>
-                  <span className="text-white/40 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-sm">
-                    →
-                  </span>
+                  <span className="text-white/70 text-xs group-hover:text-white transition-colors">{dict.categories.explore}</span>
+                  <span className="text-white/40 group-hover:text-white group-hover:translate-x-1 transition-all duration-200 text-sm">→</span>
                 </div>
               </Link>
             )
           })}
         </div>
+
+        {/* Promise strip */}
+        <div className="bg-gray-50 rounded-2xl px-6 py-4 flex flex-wrap items-center gap-x-8 gap-y-3">
+          <p className="text-xs font-bold text-gray-400 uppercase tracking-widest flex-shrink-0">{promise.title}</p>
+          <div className="flex flex-wrap gap-x-6 gap-y-2">
+            {promise.items.map((item) => (
+              <span key={item} className="flex items-center gap-1.5 text-sm text-gray-600">
+                <span className="text-emerald-500 font-bold">✓</span>
+                {item}
+              </span>
+            ))}
+          </div>
+        </div>
+
       </div>
     </section>
   )

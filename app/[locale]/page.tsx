@@ -90,7 +90,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
       <Hero locale={locale as Locale} dict={dict} />
       <CategoryGrid locale={locale as Locale} dict={dict} />
-      <HowItWorks dict={dict} />
+      <HowItWorks dict={dict} locale={locale} />
       <TopHotels locale={locale as Locale} />
       <DestinationsGrid locale={locale as Locale} dict={dict} />
       <FeaturedCombos locale={locale as Locale} dict={dict} />

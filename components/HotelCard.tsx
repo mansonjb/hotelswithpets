@@ -1,8 +1,10 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 interface Hotel {
   id: string
   name: string
+  slug: string
   destinationSlug: string
   categories: string[]
   stars: number
@@ -30,6 +32,7 @@ interface HotelCardDict {
 interface HotelCardProps {
   hotel: Hotel
   dict: HotelCardDict
+  locale: string
 }
 
 function sanitizePetPolicy(raw: string): string {
@@ -48,7 +51,7 @@ const ratingLabel = (r: number) => {
   return 'Good'
 }
 
-export default function HotelCard({ hotel, dict }: HotelCardProps) {
+export default function HotelCard({ hotel, dict, locale }: HotelCardProps) {
   return (
     <div className="group bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
       {/* Hotel image */}
@@ -76,7 +79,9 @@ export default function HotelCard({ hotel, dict }: HotelCardProps) {
         {/* Name + Stars */}
         <div className="flex items-start justify-between gap-3 mb-3">
           <h3 className="font-bold text-gray-900 text-lg leading-snug group-hover:text-blue-700 transition-colors">
-            {hotel.name}
+            <Link href={`/${locale}/hotels/${hotel.slug}`} className="hover:underline">
+              {hotel.name}
+            </Link>
           </h3>
           <span className="flex-shrink-0 flex items-center gap-0.5 text-amber-400 text-sm">
             {'★'.repeat(hotel.stars)}

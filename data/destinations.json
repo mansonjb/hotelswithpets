@@ -373,5 +373,95 @@
     "intro": "Tallinn's beautifully preserved medieval old town, coastal paths, and dog-friendly hotels make it a hidden gem for pet travel in Northern Europe.",
     "lat": 59.437,
     "lng": 24.7536
+  },
+  {
+    "slug": "milan",
+    "name": "Milan",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "intro": "Milan is Italy's fashion and design capital, where sleek hotels increasingly cater to pet owners travelling for business and leisure.",
+    "lat": 45.4654,
+    "lng": 9.1859
+  },
+  {
+    "slug": "warsaw",
+    "name": "Warsaw",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "intro": "Warsaw is a rapidly modernising capital where pet-friendly hotels are becoming the norm, with great parks and riverside paths for dogs.",
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  {
+    "slug": "krakow",
+    "name": "Krakow",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "intro": "Krakow's historic old town and sweeping Planty park ring make it one of Poland's best cities for travelling with a dog.",
+    "lat": 50.0647,
+    "lng": 19.9450
+  },
+  {
+    "slug": "brussels",
+    "name": "Brussels",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "intro": "Brussels is an underrated pet travel destination, with spacious parks, a compact walkable centre, and hotels that genuinely welcome animals.",
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  {
+    "slug": "athens",
+    "name": "Athens",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "intro": "Athens surprises pet travellers with its mild climate, walkable neighbourhoods, and a growing number of boutique hotels that welcome dogs year-round.",
+    "lat": 37.9838,
+    "lng": 23.7275
+  },
+  {
+    "slug": "split",
+    "name": "Split",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "categoryCount": 5,
+    "intro": "Split's Adriatic waterfront, historic Diocletian's Palace, and relaxed Croatian attitude make it a fantastic destination for pet owners.",
+    "lat": 43.5081,
+    "lng": 16.4402
+  },
+  {
+    "slug": "oslo",
+    "name": "Oslo",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "categoryCount": 5,
+    "intro": "Oslo's proximity to fjords, forests, and the Oslomarka trail network makes it one of Scandinavia's top destinations for active pet owners.",
+    "lat": 59.9139,
+    "lng": 10.7522
+  },
+  {
+    "slug": "helsinki",
+    "name": "Helsinki",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "categoryCount": 5,
+    "intro": "Helsinki's island archipelago, pine forests, and culture of outdoors living make it exceptionally welcoming for dogs and their owners.",
+    "lat": 60.1699,
+    "lng": 24.9384
+  },
+  {
+    "slug": "salzburg",
+    "name": "Salzburg",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "intro": "Salzburg's Alpine setting, Mozart-era architecture, and rolling meadows make it a magical destination for pet owners exploring Austria.",
+    "lat": 47.8095,
+    "lng": 13.0550
   }
 ]

@@ -1,8 +1,10 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 interface Hotel {
   id: string
   name: string
+  slug: string
   destinationSlug: string
   categories: string[]
   stars: number
@@ -34,6 +36,7 @@ interface HotelRankedCardProps {
   destName: string
   catName: string
   dict: HotelRankedCardDict
+  locale: string
 }
 
 const ratingLabel = (r: number) => {
@@ -62,7 +65,7 @@ function sanitizePetPolicy(raw: string): string {
   return raw
 }
 
-export default function HotelRankedCard({ hotel, rank, destName, catName, dict }: HotelRankedCardProps) {
+export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale }: HotelRankedCardProps) {
   return (
     <article className="group bg-white rounded-3xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100">
       {/* Rank label */}
@@ -102,7 +105,9 @@ export default function HotelRankedCard({ hotel, rank, destName, catName, dict }
           {/* Name + Stars */}
           <div className="flex items-start justify-between gap-2 mb-3">
             <h3 className="text-xl font-extrabold text-gray-900 leading-tight group-hover:text-blue-700 transition-colors">
-              {hotel.name}
+              <Link href={`/${locale}/hotels/${hotel.slug}`} className="hover:underline">
+                {hotel.name}
+              </Link>
             </h3>
             <span className="flex-shrink-0 text-amber-400 text-sm tracking-tight" aria-label={`${hotel.stars} stars`}>
               {'★'.repeat(hotel.stars)}{'☆'.repeat(5 - hotel.stars)}

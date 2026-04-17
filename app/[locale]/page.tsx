@@ -26,9 +26,9 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
     es: 'Hoteles que Admiten Mascotas en Europa | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
-    en: 'Browse 100+ pet-friendly hotels across 34 European destinations. Filter by pet type, compare policies, and book on Booking.com.',
-    fr: 'Plus de 100 hôtels acceptant les animaux dans 34 destinations européennes. Filtrez par type d\'animal, comparez les politiques et réservez.',
-    es: 'Más de 100 hoteles que admiten mascotas en 34 destinos europeos. Filtra por tipo de mascota, compara políticas y reserva.',
+    en: 'Browse 270+ pet-friendly hotels across 34 European destinations. Filter by pet type, compare policies, and book on Booking.com.',
+    fr: 'Plus de 270 hôtels acceptant les animaux dans 34 destinations européennes. Filtrez par type d\'animal, comparez les politiques et réservez.',
+    es: 'Más de 270 hoteles que admiten mascotas en 34 destinos europeos. Filtra por tipo de mascota, compara políticas y reserva.',
   }
 
   const title = titles[locale] ?? titles.en

@@ -36,6 +36,10 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
       siteName: 'HotelsWithPets',
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      site: '@hotelswithpets',
+    },
   }
 }
 

@@ -77,6 +77,11 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
   const presentCategories = categories.filter((c) => presentCategorySlugs.has(c.slug))
 
+  // Related destinations: same country, exclude self, up to 4
+  const relatedDests = destinations
+    .filter((d) => d.country === dest.country && d.slug !== slug)
+    .slice(0, 4)
+
   const base = 'https://hotelswithpets.com'
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -240,6 +245,32 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           </div>
         </div>
       </section>
+      {/* Related destinations in same country */}
+      {relatedDests.length > 0 && (
+        <section className="py-12 bg-gray-50 border-t border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">
+              {locale === 'fr'
+                ? `Plus de destinations en ${dest.country}`
+                : locale === 'es'
+                ? `Más destinos en ${dest.country}`
+                : `More destinations in ${dest.country}`}
+            </h2>
+            <div className="flex flex-wrap gap-3">
+              {relatedDests.map((related) => (
+                <Link
+                  key={related.slug}
+                  href={`/${locale}/destinations/${related.slug}`}
+                  className="inline-flex items-center gap-2 bg-white border border-gray-200 rounded-full px-5 py-2.5 text-sm font-medium text-gray-700 hover:border-blue-300 hover:text-blue-700 transition-colors shadow-sm"
+                >
+                  <span>{related.flag}</span>
+                  <span>{related.name}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
     </div>
     </>
   )

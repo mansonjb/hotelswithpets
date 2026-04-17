@@ -128,11 +128,28 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     })),
   }
 
+  const destSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'TouristDestination',
+    name: dest.name,
+    description: localeIntro || dest.intro,
+    url: `${base}/${locale}/destinations/${dest.slug}`,
+    touristType: { '@type': 'Audience', audienceType: 'Pet owners' },
+    containsPlace: destHotels.map((hotel) => ({
+      '@type': 'LodgingBusiness',
+      name: hotel.name,
+      url: hotel.bookingUrl,
+      petsAllowed: true,
+      priceRange: '€'.repeat(Math.max(1, hotel.stars - 2)),
+    })),
+  }
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(destSchema) }} />
     <div className="min-h-screen bg-gray-50">
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">

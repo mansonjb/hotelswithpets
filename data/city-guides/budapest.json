@@ -1,0 +1,788 @@
+{
+  "slug": "budapest",
+  "name": "Budapest",
+  "country": "Hungary",
+  "flag": "🇭🇺",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Budapest",
+      "titleFr": "Restaurants acceptant les animaux à Budapest",
+      "titleEs": "Restaurantes con mascotas en Budapest",
+      "introEn": "Budapest has a quietly excellent dog-friendly café culture that most visitors don't immediately notice, because it doesn't announce itself with signs. The city's ruin bar scene, born in the abandoned courtyards of the old Jewish Quarter, set the tone: relaxed, informal, and fundamentally tolerant of animals. Dogs are common companions at the sprawling outdoor terraces that dominate summer dining in Budapest. From the garden bars of District VII to the riverside terraces looking out over the Danube toward Buda Castle, you'll find that most casual restaurants simply accept dogs without discussion, especially outside. The places listed below are all reliably and specifically welcoming to dogs, year-round or in their outdoor season.",
+      "introFr": "Budapest possède une culture café dog-friendly discrètement excellente que la plupart des visiteurs ne remarquent pas immédiatement, car elle ne s'annonce pas avec des panneaux. La scène des ruin bars, née dans les cours abandonnées du vieux quartier juif, a donné le ton : détendue, informelle et fondamentalement tolérante envers les animaux. Les chiens sont des compagnons courants sur les vastes terrasses en plein air qui dominent la restauration estivale à Budapest. Des bars à jardins du VIIe arrondissement aux terrasses en bord de Danube avec vue sur le château de Buda, vous trouverez que la plupart des restaurants décontractés acceptent simplement les chiens sans discussion, surtout en extérieur. Les adresses ci-dessous accueillent spécifiquement et de manière fiable les chiens, à l'année ou pendant leur saison extérieure.",
+      "introEs": "Budapest tiene una cultura de cafés dog-friendly discretamente excelente que la mayoría de los visitantes no notan de inmediato, porque no se anuncia con carteles. La escena de los ruin bars, nacida en los patios abandonados del antiguo barrio judío, marcó el tono: relajada, informal y fundamentalmente tolerante con los animales. Los perros son compañeros habituales en las amplias terrazas al aire libre que dominan la gastronomía veraniega en Budapest. Desde los garden bars del Distrito VII hasta las terrazas junto al Danubio con vistas al Castillo de Buda, encontrarás que la mayoría de los restaurantes informales simplemente aceptan perros sin discusión, especialmente en exterior. Los lugares listados a continuación son todos fiable y específicamente acogedores con los perros, todo el año o en su temporada exterior.",
+      "places": [
+        {
+          "name": "Szimpla Kert",
+          "address": "Kazinczy utca 14, Budapest 1075",
+          "neighborhood": "District VII — Jewish Quarter",
+          "photo": "https://images.unsplash.com/photo-1567521464027-f127ff144326?auto=format&fit=crop&w=800&q=80",
+          "website": "https://szimpla.hu/",
+          "description": "The original ruin bar and still the most iconic, Szimpla Kert occupies a crumbling early 20th-century apartment building whose courtyard has been transformed into one of Budapest's most atmospheric spaces. Mismatched furniture, hanging plants, vintage car bodies turned into seating booths, and a dozen different rooms spilling into each other. Dogs are welcome in the outdoor courtyard sections. On Sunday mornings Szimpla hosts a farmer's market, and the relaxed atmosphere makes it one of the best times to visit with a dog.",
+          "descriptionFr": "Le ruin bar originel et toujours le plus iconique, le Szimpla Kert occupe un immeuble du début du XXe siècle dont la cour a été transformée en l'un des espaces les plus atmosphériques de Budapest. Mobilier dépareillé, plantes suspendues, carcasses de voitures vintage transformées en cabines, et une douzaine de pièces qui s'enchaînent. Les chiens sont bienvenus dans les parties de cour extérieure. Le dimanche matin, Szimpla accueille un marché de producteurs, et l'atmosphère détendue en fait l'un des meilleurs moments pour venir avec son chien.",
+          "descriptionEs": "El ruin bar original y todavía el más icónico, el Szimpla Kert ocupa un edificio de principios del siglo XX cuyo patio ha sido transformado en uno de los espacios más atmosféricos de Budapest. Muebles dispares, plantas colgantes, carrocerías de coches vintage convertidas en cabinas, y una docena de habitaciones que se comunican entre sí. Los perros son bienvenidos en las secciones del patio exterior. Los domingos por la mañana Szimpla acoge un mercado de agricultores, y el ambiente relajado lo convierte en uno de los mejores momentos para visitar con un perro.",
+          "petPolicy": "Dogs welcome in outdoor courtyard areas",
+          "petPolicyFr": "Chiens acceptés dans les parties extérieures de la cour",
+          "petPolicyEs": "Perros admitidos en las zonas del patio exterior",
+          "priceRange": "€",
+          "mustTry": "Pálinka (fruit brandy), craft beers, Sunday farmers market produce",
+          "mustTryFr": "Pálinka (eau-de-vie de fruits), bières artisanales, produits du marché du dimanche",
+          "mustTryEs": "Pálinka (aguardiente de frutas), cervezas artesanales, productos del mercado dominical",
+          "openingHours": "Mon–Thu 12:00–04:00, Fri–Sun 09:00–04:00",
+          "tip": "Sunday morning from 09:00 is the best time to visit with a dog — the farmer's market crowd is calm and the bar hasn't filled up yet",
+          "tipFr": "Le dimanche matin à partir de 9h est le meilleur moment pour venir avec un chien : l'ambiance du marché est calme et le bar n'est pas encore bondé",
+          "tipEs": "El domingo por la mañana a partir de las 09:00 es el mejor momento para ir con un perro: el mercado está tranquilo y el bar todavía no se ha llenado",
+          "googleMapsUrl": "https://maps.google.com/?q=Szimpla+Kert+Budapest"
+        },
+        {
+          "name": "Két Szerecsen",
+          "address": "Nagymező utca 14, Budapest 1065",
+          "neighborhood": "District VI — Terézváros",
+          "photo": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.ketszerecsen.hu/",
+          "description": "A much-loved Budapest institution on Nagymező utca, the city's so-called 'Broadway,' Két Szerecsen is a Mediterranean-influenced all-day café and bistro with a generous terrace. The food is consistently good: mezze plates, salads, grilled meats, and excellent brunch dishes on weekends. The terrace is relaxed and dog-friendly, and the staff are attentive without being intrusive. A reliable choice for a long lunch with your dog after a morning walk in Városliget.",
+          "descriptionFr": "Institution très aimée de Budapest sur la Nagymező utca, la 'Broadway' de la ville, le Két Szerecsen est un café-bistrot all-day d'inspiration méditerranéenne avec une belle terrasse. La cuisine est régulièrement bonne : assiettes de mezze, salades, viandes grillées et excellents plats de brunch le week-end. La terrasse est détendue et dog-friendly, et le personnel est attentionné sans être intrusif. Un choix fiable pour un long déjeuner avec son chien après une matinée de promenade à Városliget.",
+          "descriptionEs": "Una institución muy querida de Budapest en la Nagymező utca, la llamada 'Broadway' de la ciudad, el Két Szerecsen es un café-bistró de inspiración mediterránea de todo el día con una generosa terraza. La comida es consistentemente buena: platos de mezze, ensaladas, carnes a la parrilla y excelentes platos de brunch los fines de semana. La terraza es relajada y dog-friendly, y el personal es atento sin ser intrusivo. Una opción fiable para un largo almuerzo con tu perro después de una mañana de paseo en Városliget.",
+          "petPolicy": "Dogs welcome on terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse",
+          "petPolicyEs": "Perros admitidos en terraza",
+          "priceRange": "€€",
+          "mustTry": "Mezze platter, weekend brunch, fresh-squeezed juice",
+          "mustTryFr": "Assiette de mezze, brunch du week-end, jus fraîchement pressé",
+          "mustTryEs": "Tabla de mezze, brunch de fin de semana, zumo recién exprimido",
+          "openingHours": "Mon–Fri 08:00–23:00, Sat–Sun 09:00–23:00",
+          "tip": "The terrace is covered and heated in shoulder season, so you can eat outside with your dog even in April and October",
+          "tipFr": "La terrasse est couverte et chauffée en mi-saison, donc vous pouvez manger dehors avec votre chien même en avril et en octobre",
+          "tipEs": "La terraza está cubierta y calefaccionada en temporada media, así que puedes comer fuera con tu perro incluso en abril y octubre",
+          "googleMapsUrl": "https://maps.google.com/?q=K%C3%A9t+Szerecsen+Budapest"
+        },
+        {
+          "name": "Élesztőház",
+          "address": "Tűzoltó utca 22, Budapest 1094",
+          "neighborhood": "District IX — Ferencváros",
+          "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80",
+          "website": "https://elesztohaz.hu/",
+          "description": "One of Budapest's finest craft beer venues, Élesztőház (meaning 'yeast house') is a spacious ruin-bar-style space in the emerging Ferencváros district with a large, shaded outdoor garden. Over 40 taps of Hungarian and international craft beers, plus a rotating selection of natural wines. The garden is genuinely dog-friendly, with space for dogs to settle and a relaxed atmosphere that draws a local crowd rather than tourist groups. The kitchen serves excellent burgers and sharing plates.",
+          "descriptionFr": "L'un des meilleurs établissements de bière artisanale de Budapest, l'Élesztőház (qui signifie 'maison de la levure') est un vaste espace de style ruin bar dans le quartier en plein essor de Ferencváros, avec un grand jardin ombragé. Plus de 40 tireuses de bières artisanales hongroises et internationales, plus une sélection tournante de vins nature. Le jardin est véritablement dog-friendly, avec de l'espace pour les chiens et une atmosphère détendue qui attire des locaux plutôt que des groupes de touristes. La cuisine sert d'excellents burgers et des assiettes à partager.",
+          "descriptionEs": "Uno de los mejores locales de cerveza artesanal de Budapest, el Élesztőház (que significa 'casa de la levadura') es un amplio espacio de estilo ruin bar en el emergente barrio de Ferencváros, con un gran jardín sombreado. Más de 40 grifos de cervezas artesanales húngaras e internacionales, más una selección rotativa de vinos naturales. El jardín es genuinamente dog-friendly, con espacio para los perros y un ambiente relajado que atrae a locales en lugar de grupos de turistas. La cocina sirve excelentes hamburguesas y platos para compartir.",
+          "petPolicy": "Dogs welcome in the outdoor garden",
+          "petPolicyFr": "Chiens acceptés dans le jardin extérieur",
+          "petPolicyEs": "Perros admitidos en el jardín exterior",
+          "priceRange": "€€",
+          "mustTry": "Hungarian craft beers on tap, smash burger, charcuterie board",
+          "mustTryFr": "Bières artisanales hongroises à la pression, smash burger, planche de charcuterie",
+          "mustTryEs": "Cervezas artesanales húngaras de barril, smash burger, tabla de charcutería",
+          "openingHours": "Mon–Thu 15:00–23:00, Fri 15:00–01:00, Sat 12:00–01:00, Sun 12:00–22:00",
+          "tip": "Visit on a weekend afternoon when the garden is at its liveliest and the dog-to-human ratio is impressively high",
+          "tipFr": "Venez un après-midi de week-end quand le jardin est le plus animé et que le ratio chien/humain est impressionnant",
+          "tipEs": "Visita en una tarde de fin de semana cuando el jardín está más animado y la proporción perro/humano es impresionantemente alta",
+          "googleMapsUrl": "https://maps.google.com/?q=%C3%89leszth%C3%A1z+Budapest"
+        },
+        {
+          "name": "Kertem",
+          "address": "Állatkerti körút 9-11, Budapest 1146",
+          "neighborhood": "District XIV — Városliget",
+          "photo": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.kertem.com/",
+          "description": "Kertem ('my garden' in Hungarian) is a vast open-air garden bar and restaurant right at the edge of Városliget (City Park), making it the perfect stopping point after a long walk with your dog in the park. Picnic tables under the trees, live music events in summer, and a menu spanning grilled meats, salads, and Hungarian comfort food. Dogs are welcome throughout the garden. One of those Budapest spots that feels genuinely local on weekday evenings.",
+          "descriptionFr": "Kertem ('mon jardin' en hongrois) est un vaste bar-restaurant en plein air à jardin, juste à la lisière du Városliget (parc de la Ville), ce qui en fait l'arrêt parfait après une longue promenade avec votre chien dans le parc. Tables de pique-nique sous les arbres, concerts en été et un menu allant des viandes grillées aux salades en passant par la cuisine hongroise réconfortante. Les chiens sont les bienvenus dans tout le jardin. Un de ces endroits budapestois qui semblent vraiment locaux en semaine le soir.",
+          "descriptionEs": "Kertem ('mi jardín' en húngaro) es un vasto bar-restaurante de jardín al aire libre justo en el borde del Városliget (Parque de la Ciudad), lo que lo convierte en la parada perfecta después de un largo paseo con tu perro en el parque. Mesas de picnic bajo los árboles, eventos de música en directo en verano y un menú que abarca carnes a la parrilla, ensaladas y comida reconfortante húngara. Los perros son bienvenidos en todo el jardín. Uno de esos lugares de Budapest que se sienten genuinamente locales en las tardes de entre semana.",
+          "petPolicy": "Dogs welcome throughout the garden",
+          "petPolicyFr": "Chiens acceptés dans tout le jardin",
+          "petPolicyEs": "Perros admitidos en todo el jardín",
+          "priceRange": "€€",
+          "mustTry": "Grilled pork skewers, lángos (fried dough), cold Hungarian lager",
+          "mustTryFr": "Brochettes de porc grillées, lángos (pâte frite), bière hongroise fraîche",
+          "mustTryEs": "Brochetas de cerdo a la parrilla, lángos (masa frita), cerveza húngara fría",
+          "openingHours": "Apr–Oct: Mon–Thu 11:00–23:00, Fri–Sat 11:00–01:00, Sun 11:00–22:00",
+          "tip": "Combine with a morning walk in Városliget — the park is right next door and dogs are welcome off-leash in designated areas",
+          "tipFr": "Combinez avec une promenade matinale à Városliget : le parc est juste à côté et les chiens sont autorisés sans laisse dans les zones désignées",
+          "tipEs": "Combina con un paseo matutino por el Városliget: el parque está justo al lado y los perros pueden ir sin correa en las zonas designadas",
+          "googleMapsUrl": "https://maps.google.com/?q=Kertem+Budapest"
+        },
+        {
+          "name": "Holdudvar",
+          "address": "Hold utca 13, Budapest 1054",
+          "neighborhood": "District V — Lipótváros",
+          "photo": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?auto=format&fit=crop&w=800&q=80",
+          "website": "https://holdudvar.hu/",
+          "description": "A beautiful converted market hall near the Hold utca market in Lipótváros, Holdudvar is a food hall concept with multiple vendors, a central bar, and a sunny courtyard. The vendors rotate but typically include Hungarian street food, artisan sandwiches, and excellent coffee. The courtyard is dog-friendly. It's a smart choice for a quick stop when exploring the 5th district, and close to the Danube bank and the Chain Bridge for a post-meal walk.",
+          "descriptionFr": "Une belle halle de marché reconvertie près du marché Hold utca à Lipótváros, Holdudvar est un food hall avec plusieurs vendeurs, un bar central et une cour ensoleillée. Les vendeurs changent, mais proposent généralement de la street food hongroise, des sandwichs artisanaux et d'excellent café. La cour est dog-friendly. C'est un choix judicieux pour une pause rapide lors de l'exploration du 5e arrondissement, et proche des berges du Danube et du Pont des Chaînes pour une promenade après le repas.",
+          "descriptionEs": "Un hermoso mercado cubierto reconvertido cerca del mercado Hold utca en Lipótváros, el Holdudvar es un concepto de food hall con múltiples vendedores, una barra central y un soleado patio. Los vendedores rotan pero típicamente incluyen street food húngaro, sándwiches artesanales y excelente café. El patio es dog-friendly. Es una opción inteligente para una parada rápida al explorar el distrito 5, y está cerca del paseo del Danubio y el Puente de las Cadenas para un paseo después de comer.",
+          "petPolicy": "Dogs welcome in the courtyard",
+          "petPolicyFr": "Chiens acceptés dans la cour",
+          "petPolicyEs": "Perros admitidos en el patio",
+          "priceRange": "€€",
+          "mustTry": "Rotating Hungarian street food vendors, specialty coffee, craft beer",
+          "mustTryFr": "Vendeurs de street food hongroise, café de spécialité, bière artisanale",
+          "mustTryEs": "Vendedores rotativos de street food húngaro, café de especialidad, cerveza artesanal",
+          "openingHours": "Mon–Sat 10:00–22:00, Sun 10:00–18:00",
+          "tip": "Walk five minutes to the Danube bank after eating — the riverside promenade between Chain Bridge and Elizabeth Bridge is lovely with a dog",
+          "tipFr": "Marchez cinq minutes jusqu'aux berges du Danube après avoir mangé : la promenade entre le Pont des Chaînes et le Pont Élisabeth est magnifique avec un chien",
+          "tipEs": "Camina cinco minutos hasta el paseo del Danubio después de comer: el paseo fluvial entre el Puente de las Cadenas y el Puente Isabel es precioso con un perro",
+          "googleMapsUrl": "https://maps.google.com/?q=Holdudvar+Budapest"
+        }
+      ],
+      "tipsEn": [
+        "Ruin bars in District VII are almost universally dog-friendly in their outdoor sections — it's part of the culture.",
+        "Ask for a 'víz a kutyának' (water for the dog) — Budapest café staff are generally happy to help.",
+        "Avoid the tourist-heavy restaurants around Váci utca. Head to Districts VI, VII, or IX for a more relaxed experience.",
+        "Summer rooftop bars and garden bars open from May — these are almost always dog-friendly."
+      ],
+      "tipsFr": [
+        "Les ruin bars du VIIe arrondissement sont presque universellement dog-friendly dans leurs parties extérieures — c'est dans la culture.",
+        "Demandez 'víz a kutyának' (de l'eau pour le chien) — le personnel des cafés budapestois est généralement ravi d'aider.",
+        "Évitez les restaurants très touristiques autour de Váci utca. Dirigez-vous vers les VIe, VIIe ou IXe arrondissements pour une expérience plus détendue.",
+        "Les bars sur les toits et les bars jardins d'été ouvrent à partir de mai — ils sont presque toujours dog-friendly."
+      ],
+      "tipsEs": [
+        "Los ruin bars del Distrito VII son casi universalmente dog-friendly en sus secciones exteriores: es parte de la cultura.",
+        "Pide 'víz a kutyának' (agua para el perro): el personal de los cafés de Budapest suele estar feliz de ayudar.",
+        "Evita los restaurantes turísticos de Váci utca. Ve a los Distritos VI, VII o IX para una experiencia más relajada.",
+        "Los bares de azotea y bares jardín de verano abren desde mayo, y casi siempre son dog-friendly."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Budapest restaurants?",
+          "a": "Yes, especially in outdoor terraces and garden bars. Ruin bars in District VII are particularly welcoming. Most casual restaurants accept well-behaved dogs on their terraces without fuss. Some higher-end places inside may ask you to keep your dog under the table."
+        },
+        {
+          "q": "Do I need to pay for my dog on Budapest public transport to get to restaurants?",
+          "a": "Dogs in carriers ride free. Dogs on a leash (with muzzle) require a half-price child ticket. This applies on BKK metro, trams, and buses."
+        },
+        {
+          "q": "What is the best district for dog-friendly dining in Budapest?",
+          "a": "District VII (the Jewish Quarter / ruin bar area) and District VI (around Nagymező utca and Andrássy út) are consistently the most dog-friendly. District IX (Ferencváros) is an emerging option with newer venues."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks in Budapest",
+      "titleFr": "Parcs acceptant les chiens à Budapest",
+      "titleEs": "Parques con mascotas en Budapest",
+      "introEn": "Budapest is unusually well-served with green space for a Central European capital. The city stretches along both banks of the Danube, and the hilly Buda side in particular is laced with forested trails. On the flat Pest side, Városliget (City Park) and Margaret Island (Margit-sziget) are the two great urban lungs. Dogs are generally allowed on leash throughout Budapest's public parks, and designated off-leash areas (kutyafuttató) exist in most major green spaces. The parks below are the best of them.",
+      "introFr": "Budapest est inhabituellement bien dotée en espaces verts pour une capitale d'Europe centrale. La ville s'étend sur les deux rives du Danube, et le côté Buda, vallonné, est particulièrement parsemé de sentiers forestiers. Côté plat de Pest, le Városliget (parc de la Ville) et l'île Margit (Margit-sziget) sont les deux grands poumons verts de la ville. Les chiens sont généralement admis en laisse dans tous les parcs publics de Budapest, et des zones de liberté désignées (kutyafuttató) existent dans la plupart des grands espaces verts. Les parcs ci-dessous en sont les meilleurs exemples.",
+      "introEs": "Budapest está excepcionalmente bien dotada de espacios verdes para una capital de Europa Central. La ciudad se extiende por ambas orillas del Danubio, y el lado de Buda, con sus colinas, está especialmente jalonado de senderos forestales. En el lado llano de Pest, el Városliget (Parque de la Ciudad) y la Isla Margarita (Margit-sziget) son los dos grandes pulmones verdes de la ciudad. Los perros están generalmente permitidos con correa en todos los parques públicos de Budapest, y existen zonas habilitadas para perros sin correa (kutyafuttató) en la mayoría de los grandes espacios verdes. Los parques a continuación son los mejores de todos.",
+      "places": [
+        {
+          "name": "Margit-sziget (Margaret Island)",
+          "address": "Margit-sziget, Budapest 1007",
+          "neighborhood": "Between Districts II and XIII — accessible from Margaret Bridge",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.margitsziget.hu/",
+          "description": "Margaret Island is Budapest's greatest urban park: a 2.5km island in the middle of the Danube, car-free, and absolutely beautiful. Shaded paths wind through linden trees, past Roman ruins, the musical fountain, the Japanese garden, and a small zoo. Dogs on leash are welcome throughout the island. There is a dedicated off-leash dog run near the northern end. The running track that circles the island is used by hundreds of Budapest residents daily, many with dogs. You can reach the island from both the Margaret Bridge (District II side) and the Árpád Bridge (District XIII side).",
+          "descriptionFr": "L'île Marguerite est le plus grand parc urbain de Budapest : une île de 2,5 km au milieu du Danube, sans voitures et absolument magnifique. Des chemins ombragés serpentent sous les tilleuls, longeant des ruines romaines, la fontaine musicale, le jardin japonais et un petit zoo. Les chiens en laisse sont les bienvenus sur toute l'île. Une zone de liberté dédiée (kutyafuttató) se trouve près de l'extrémité nord. La piste de jogging qui fait le tour de l'île est utilisée chaque jour par des centaines d'habitants de Budapest, dont beaucoup avec des chiens. On peut accéder à l'île depuis le pont Marguerite (côté District II) ou le pont Árpád (côté District XIII).",
+          "descriptionEs": "La Isla Margarita es el mayor parque urbano de Budapest: una isla de 2,5 km en medio del Danubio, sin coches y absolutamente hermosa. Senderos sombreados serpentean entre tilos, pasando por ruinas romanas, la fuente musical, el jardín japonés y un pequeño zoo. Los perros con correa son bienvenidos en toda la isla. Hay una zona habilitada para perros sin correa cerca del extremo norte. La pista de running que rodea la isla es utilizada diariamente por cientos de residentes de Budapest, muchos con perros. Se puede acceder a la isla desde el Puente Margarita (lado Distrito II) o el Puente Árpád (lado Distrito XIII).",
+          "petPolicy": "Dogs on leash throughout; off-leash area at northern end",
+          "petPolicyFr": "Chiens en laisse sur toute l'île ; zone de liberté à l'extrémité nord",
+          "petPolicyEs": "Perros con correa en toda la isla; zona sin correa en el extremo norte",
+          "priceRange": "Free",
+          "mustTry": "The full island loop (5.4km), Japanese garden, musical fountain show",
+          "mustTryFr": "Le tour complet de l'île (5,4 km), le jardin japonais, le spectacle de la fontaine musicale",
+          "mustTryEs": "La vuelta completa a la isla (5,4 km), el jardín japonés, el espectáculo de la fuente musical",
+          "openingHours": "Open 24 hours (park); facilities vary",
+          "tip": "Enter from the Margaret Bridge (southern end) for the scenic route past the ruins and gardens. The dog run is at the northern Árpád Bridge end.",
+          "tipFr": "Entrez par le pont Marguerite (extrémité sud) pour le parcours panoramique passant par les ruines et les jardins. Le kutyafuttató est à l'extrémité nord près du pont Árpád.",
+          "tipEs": "Entra por el Puente Margarita (extremo sur) para el recorrido panorámico por las ruinas y jardines. El área para perros está en el extremo norte, cerca del Puente Árpád.",
+          "googleMapsUrl": "https://maps.google.com/?q=Margit-sziget+Budapest"
+        },
+        {
+          "name": "Városliget (City Park)",
+          "address": "Városliget, Budapest 1146",
+          "neighborhood": "District XIV — Zugló",
+          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "website": "https://varosliget.com/en/",
+          "description": "Városliget is Budapest's largest park on the Pest side, home to Vajdahunyad Castle, Széchenyi Baths, the Museum of Fine Arts, and Heroes' Square. The park has extensive shaded pathways and several dog-friendly areas. Dogs on leash are allowed throughout the park, and there is a designated off-leash area in the northeastern section. The boating lake doubles as an ice rink in winter, and the park is beautiful year-round. Well-connected by M1 metro to central Pest.",
+          "descriptionFr": "Le Városliget est le plus grand parc de Budapest côté Pest, avec le château de Vajdahunyad, les Thermes Széchenyi, le Musée des Beaux-Arts et la place des Héros. Le parc dispose de nombreuses allées ombragées et de plusieurs zones dog-friendly. Les chiens en laisse sont admis partout dans le parc, et une zone de liberté est aménagée dans la partie nord-est. Le lac à barques se transforme en patinoire en hiver, et le parc est magnifique en toute saison. Bien desservi par le métro M1 depuis le centre de Pest.",
+          "descriptionEs": "El Városliget es el mayor parque de Budapest en el lado de Pest, hogar del Castillo de Vajdahunyad, los Baños Széchenyi, el Museo de Bellas Artes y la Plaza de los Héroes. El parque tiene extensos senderos sombreados y varias zonas dog-friendly. Los perros con correa están permitidos en todo el parque, y hay una zona habilitada sin correa en la sección noreste. El lago de barcas se convierte en pista de hielo en invierno, y el parque es hermoso todo el año. Bien comunicado en metro M1 desde el centro de Pest.",
+          "petPolicy": "Dogs on leash throughout; designated off-leash area in the northeast",
+          "petPolicyFr": "Chiens en laisse partout ; zone de liberté désignée au nord-est",
+          "petPolicyEs": "Perros con correa en todo el parque; zona designada sin correa en el noreste",
+          "priceRange": "Free",
+          "mustTry": "Walk past Vajdahunyad Castle, circuit of the boating lake, ice cream from park vendors in summer",
+          "mustTryFr": "Promenade devant le château de Vajdahunyad, tour du lac à barques, glace des marchands ambulants en été",
+          "mustTryEs": "Paseo junto al Castillo de Vajdahunyad, vuelta al lago de barcas, helado de los vendedores del parque en verano",
+          "openingHours": "Open 24 hours",
+          "tip": "Kertem garden bar is right at the park's edge — combine a long park walk with a drink or meal at their dog-friendly garden",
+          "tipFr": "Le bar-jardin Kertem est juste à la lisière du parc — combinez une longue promenade avec un verre ou un repas dans leur jardin dog-friendly",
+          "tipEs": "El bar-jardín Kertem está justo en el borde del parque: combina un largo paseo con una bebida o comida en su jardín dog-friendly",
+          "googleMapsUrl": "https://maps.google.com/?q=V%C3%A1rosliget+Budapest"
+        },
+        {
+          "name": "Normafa",
+          "address": "Normafa, Budapest 1121",
+          "neighborhood": "District XII — Buda Hills",
+          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.normafa.hu/",
+          "description": "Normafa is Budapest's beloved forested recreation area in the Buda Hills, reached by the historic Fogaskerekű (rack railway) from Városmajor. The area offers extensive forested trails through the Buda Hills, with marked hiking routes ranging from easy family strolls to demanding climbs. Dogs are welcome on all trails. The chairlift (libegő) that runs between Normafa and János-hegy does not allow dogs, but the walking trail there is beautiful. In winter, the lower slopes are used for sledding.",
+          "descriptionFr": "Normafa est la zone de loisirs forestière bien-aimée de Budapest dans les collines de Buda, accessible par le train à crémaillère historique (Fogaskerekű) depuis Városmajor. La zone offre de nombreux sentiers forestiers dans les collines de Buda, avec des itinéraires balisés allant de la balade familiale facile aux montées exigeantes. Les chiens sont les bienvenus sur tous les sentiers. Le télésiège (libegő) entre Normafa et le János-hegy n'accepte pas les chiens, mais le sentier pédestre est magnifique. En hiver, les pentes inférieures servent à la luge.",
+          "descriptionEs": "Normafa es la amada zona de recreo forestal de Budapest en las Colinas de Buda, accesible mediante el histórico tren de cremallera (Fogaskerekű) desde Városmajor. La zona ofrece extensos senderos forestales por las Colinas de Buda, con rutas marcadas que van desde paseos familiares fáciles hasta ascensos exigentes. Los perros son bienvenidos en todos los senderos. El telesilla (libegő) entre Normafa y János-hegy no admite perros, pero el sendero a pie es precioso. En invierno, las laderas inferiores se usan para el trineo.",
+          "petPolicy": "Dogs welcome on all trails; not allowed on the libegő chairlift",
+          "petPolicyFr": "Chiens bienvenus sur tous les sentiers ; non admis sur le télésiège libegő",
+          "petPolicyEs": "Perros bienvenidos en todos los senderos; no admitidos en el telesilla libegő",
+          "priceRange": "Free (rack railway ticket required)",
+          "mustTry": "Fogaskerekű rack railway ride, Normafa viewpoint, forest trail to János-hegy",
+          "mustTryFr": "Trajet en train à crémaillère Fogaskerekű, point de vue de Normafa, sentier forestier vers le János-hegy",
+          "mustTryEs": "Viaje en tren de cremallera Fogaskerekű, mirador de Normafa, sendero forestal hacia János-hegy",
+          "openingHours": "Open 24 hours (trails); rack railway approx 09:00–19:00",
+          "tip": "Take the rack railway up and walk back down into the city — it's a pleasant descent through the Buda hills with great views",
+          "tipFr": "Prenez le train à crémaillère pour monter et redescendez à pied jusqu'à la ville : c'est une belle descente à travers les collines de Buda avec de belles vues",
+          "tipEs": "Toma el tren de cremallera para subir y baja a pie hasta la ciudad: es un agradable descenso por las colinas de Buda con grandes vistas",
+          "googleMapsUrl": "https://maps.google.com/?q=Normafa+Budapest"
+        },
+        {
+          "name": "Feneketlen-tó Park",
+          "address": "Feneketlen-tó, Budapest 1117",
+          "neighborhood": "District XI — Újbuda",
+          "photo": "https://images.unsplash.com/photo-1475113548492-9ee2eceb7af5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=Feneketlen-t%C3%B3+Budapest",
+          "description": "The 'Bottomless Lake' (Feneketlen-tó) is a small but beloved local park in Újbuda built around a natural lake. It's a genuine neighbourhood park rather than a tourist destination, which makes it one of the most authentically Budapest spots on this list. The paths around the lake are popular with dog walkers at all hours. There is a designated off-leash area. Swans and ducks on the lake, mature trees providing shade, and wooden benches throughout. A 10-minute walk from Móricz Zsigmond körtér.",
+          "descriptionFr": "Le 'Lac sans fond' (Feneketlen-tó) est un petit parc de quartier très aimé à Újbuda, construit autour d'un lac naturel. C'est un vrai parc de quartier plutôt qu'une destination touristique, ce qui en fait l'un des endroits les plus authentiquement budapestois de cette liste. Les chemins autour du lac sont populaires pour les promeneurs de chiens à toute heure. Il y a une zone de liberté désignée. Cygnes et canards sur le lac, vieux arbres offrant de l'ombre et bancs en bois un peu partout. À 10 minutes à pied du Móricz Zsigmond körtér.",
+          "descriptionEs": "El 'Lago sin fondo' (Feneketlen-tó) es un pequeño pero muy querido parque de barrio en Újbuda construido alrededor de un lago natural. Es un parque de barrio genuino más que un destino turístico, lo que lo convierte en uno de los lugares más auténticamente budapestinos de esta lista. Los senderos alrededor del lago son populares entre los paseadores de perros a todas horas. Hay una zona designada sin correa. Cisnes y patos en el lago, árboles maduros que dan sombra y bancos de madera por todo el parque. A 10 minutos a pie del Móricz Zsigmond körtér.",
+          "petPolicy": "Dogs on leash; designated off-leash area available",
+          "petPolicyFr": "Chiens en laisse ; zone de liberté disponible",
+          "petPolicyEs": "Perros con correa; zona designada sin correa disponible",
+          "priceRange": "Free",
+          "mustTry": "A full lap of the lake, watching the swans, the local morning dog-walking scene",
+          "mustTryFr": "Un tour complet du lac, observer les cygnes, la scène locale des promeneurs de chiens le matin",
+          "mustTryEs": "Una vuelta completa al lago, observar los cisnes, el ambiente local de los paseadores de perros por la mañana",
+          "openingHours": "Open 24 hours",
+          "tip": "Go early morning on a weekday to see Budapest's dog-walking culture at its most social — locals gather here daily",
+          "tipFr": "Venez tôt le matin en semaine pour voir la culture de la promenade canine de Budapest dans toute sa convivialité — les locaux s'y retrouvent chaque jour",
+          "tipEs": "Ve temprano por la mañana entre semana para ver la cultura del paseo canino de Budapest en su momento más social: los locales se reúnen aquí cada día",
+          "googleMapsUrl": "https://maps.google.com/?q=Feneketlen-t%C3%B3+Budapest"
+        }
+      ],
+      "tipsEn": [
+        "Look for 'kutyafuttató' signs — these are the designated off-leash dog run areas found in most large Budapest parks.",
+        "Dogs must be on leash in all public parks unless in a designated kutyafuttató. Fines apply.",
+        "The Buda Hills offer the best off-leash hiking — dogs are welcome on all forest trails.",
+        "Margaret Island bans bicycles in some sections; use this to your advantage and walk the full loop with your dog off-leash in the designated northern area."
+      ],
+      "tipsFr": [
+        "Cherchez les panneaux 'kutyafuttató' — ce sont les zones de liberté désignées que l'on trouve dans la plupart des grands parcs de Budapest.",
+        "Les chiens doivent être tenus en laisse dans tous les parcs publics, sauf dans les zones kutyafuttató désignées. Des amendes sont prévues.",
+        "Les collines de Buda offrent les meilleures randonnées en liberté — les chiens sont admis sur tous les sentiers forestiers.",
+        "L'île Marguerite interdit les vélos dans certaines sections ; profitez-en pour faire le tour complet de l'île avec votre chien en laisse dans la zone nord désignée."
+      ],
+      "tipsEs": [
+        "Busca los carteles 'kutyafuttató': son las zonas designadas para perros sin correa que se encuentran en la mayoría de los grandes parques de Budapest.",
+        "Los perros deben ir con correa en todos los parques públicos a menos que estén en un kutyafuttató designado. Hay multas.",
+        "Las Colinas de Buda ofrecen el mejor senderismo sin correa: los perros son bienvenidos en todos los senderos forestales.",
+        "La Isla Margarita prohíbe las bicicletas en algunas secciones; aprovecha esto para hacer el recorrido completo con tu perro sin correa en la zona norte designada."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Budapest public parks?",
+          "a": "Yes. Dogs are welcome in all Budapest public parks on a leash. Designated off-leash areas (kutyafuttató) are available in most major parks including Margaret Island, Városliget, and Feneketlen-tó."
+        },
+        {
+          "q": "Can I take my dog to the Buda Hills for hiking?",
+          "a": "Absolutely. The Buda Hills have extensive marked forest trails and dogs are welcome on all of them. The rack railway (Fogaskerekű) to Normafa allows dogs. Note that the libegő chairlift does not accept dogs."
+        },
+        {
+          "q": "Is Margaret Island the best park for dogs in Budapest?",
+          "a": "It's one of the best. The car-free island with 5.4km of paths, a dedicated off-leash area, and beautiful scenery makes it ideal. Városliget is also excellent and better connected by metro."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Budapest with Your Pet",
+      "titleFr": "Se déplacer à Budapest avec son animal",
+      "titleEs": "Moverse por Budapest con tu mascota",
+      "introEn": "Budapest's public transport network (operated by BKK) is comprehensive and covers the city well. The good news for pet owners is that dogs are allowed on all forms of BKK transport — metro, trams, buses, and the HÉV suburban railway — under specific conditions. The rules are consistent and not difficult to follow. Small dogs in carriers travel free. Larger dogs on a leash (with muzzle) require a half-price child ticket. The system runs frequently and Budapest is compact enough that most tourist areas are within reach of a short transit ride.",
+      "introFr": "Le réseau de transports en commun de Budapest (opéré par BKK) est complet et bien desservi. La bonne nouvelle pour les propriétaires d'animaux : les chiens sont autorisés dans tous les modes de transport BKK — métro, tramways, bus et le HÉV (train de banlieue) — sous certaines conditions. Les règles sont cohérentes et faciles à respecter. Les petits chiens dans des sacs de transport voyagent gratuitement. Les chiens plus grands en laisse (avec muselière) nécessitent un demi-billet enfant. Le réseau est fréquent et Budapest est suffisamment compacte pour que la plupart des zones touristiques soient accessibles en quelques arrêts.",
+      "introEs": "La red de transporte público de Budapest (operada por BKK) es completa y cubre bien la ciudad. La buena noticia para los dueños de mascotas es que los perros están permitidos en todos los medios de transporte BKK — metro, tranvías, autobuses y el HÉV (tren de cercanías) — bajo condiciones específicas. Las normas son coherentes y fáciles de seguir. Los perros pequeños en transportines viajan gratis. Los perros más grandes con correa (y bozal) necesitan un billete de medio precio para niños. El sistema es frecuente y Budapest es lo suficientemente compacta como para que la mayoría de las zonas turísticas sean accesibles en pocas paradas.",
+      "rules": [
+        {
+          "titleEn": "Small dogs in carriers",
+          "titleFr": "Petits chiens dans un sac de transport",
+          "titleEs": "Perros pequeños en transportín",
+          "descriptionEn": "Dogs that fit in a carrier or bag travel free on all BKK transport. The carrier must be closed and the animal must not be visible or disturbing other passengers.",
+          "descriptionFr": "Les chiens pouvant tenir dans un sac de transport voyagent gratuitement sur tous les transports BKK. Le sac doit être fermé et l'animal ne doit pas être visible ni déranger les autres passagers.",
+          "descriptionEs": "Los perros que caben en un transportín viajan gratis en todos los transportes BKK. El transportín debe estar cerrado y el animal no debe ser visible ni molestar a otros pasajeros."
+        },
+        {
+          "titleEn": "Larger dogs on leash",
+          "titleFr": "Chiens plus grands en laisse",
+          "titleEs": "Perros más grandes con correa",
+          "descriptionEn": "Dogs that don't fit in a carrier can travel on BKK transport with a leash and muzzle. A half-price child ticket must be purchased for the dog.",
+          "descriptionFr": "Les chiens ne pouvant pas tenir dans un sac de transport peuvent voyager dans les transports BKK avec une laisse et une muselière. Un demi-billet enfant doit être acheté pour le chien.",
+          "descriptionEs": "Los perros que no caben en un transportín pueden viajar en el transporte BKK con correa y bozal. Hay que comprar un billete de medio precio para niños para el perro."
+        },
+        {
+          "titleEn": "Rack railway (Fogaskerekű)",
+          "titleFr": "Train à crémaillère (Fogaskerekű)",
+          "titleEs": "Tren de cremallera (Fogaskerekű)",
+          "descriptionEn": "Dogs are allowed on the historic rack railway to the Buda Hills. Same rules apply: carriers go free, larger dogs need a leash, muzzle, and child ticket.",
+          "descriptionFr": "Les chiens sont admis dans le train à crémaillère historique vers les collines de Buda. Les mêmes règles s'appliquent : les sacs sont gratuits, les chiens plus grands nécessitent une laisse, une muselière et un billet enfant.",
+          "descriptionEs": "Los perros están permitidos en el histórico tren de cremallera hacia las Colinas de Buda. Se aplican las mismas normas: los transportines son gratis, los perros más grandes necesitan correa, bozal y billete de niño."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Metro",
+          "titleFr": "Métro",
+          "titleEs": "Metro",
+          "descriptionEn": "Budapest has four metro lines (M1–M4). Dogs in carriers: free. Dogs on leash with muzzle: half-price child ticket required. Avoid peak hours (08:00–09:00 and 17:00–18:30) with a large dog.",
+          "descriptionFr": "Budapest dispose de quatre lignes de métro (M1–M4). Chiens dans un sac : gratuit. Chiens en laisse avec muselière : demi-billet enfant requis. Évitez les heures de pointe (8h-9h et 17h-18h30) avec un grand chien.",
+          "descriptionEs": "Budapest tiene cuatro líneas de metro (M1–M4). Perros en transportín: gratis. Perros con correa y bozal: se requiere medio billete de niño. Evita las horas punta (08:00–09:00 y 17:00–18:30) con un perro grande."
+        },
+        {
+          "titleEn": "Trams",
+          "titleFr": "Tramways",
+          "titleEs": "Tranvías",
+          "descriptionEn": "The Danube tram routes (2 and 2A along the Pest bank) are scenic and dog-friendly. Same rules as metro. Tram 2 along the Pest riverbank offers spectacular views of Buda Castle and the Chain Bridge.",
+          "descriptionFr": "Les lignes de tramway du Danube (2 et 2A le long de la rive de Pest) sont panoramiques et dog-friendly. Mêmes règles qu'au métro. Le tramway 2 le long de la rive de Pest offre des vues spectaculaires sur le château de Buda et le Pont des Chaînes.",
+          "descriptionEs": "Las líneas de tranvía del Danubio (2 y 2A a lo largo de la orilla de Pest) son escénicas y dog-friendly. Las mismas normas que en el metro. El tranvía 2 a lo largo del paseo fluvial de Pest ofrece vistas espectaculares del Castillo de Buda y el Puente de las Cadenas."
+        }
+      ],
+      "tipsEn": [
+        "Buy a BKK 24-hour or 72-hour travelcard — it covers all transport and saves you buying individual tickets for your dog each time.",
+        "Tram 2 along the Pest Danube bank is one of the world's most scenic tram routes — do it with your dog on a clear day.",
+        "The Children's Railway (Gyermekvasút) in the Buda Hills allows dogs and is a fun excursion.",
+        "Uber and Bolt operate in Budapest. Driver policies on dogs vary — mention your dog when booking or use the app's pet option."
+      ],
+      "tipsFr": [
+        "Achetez un titre de transport BKK 24h ou 72h — il couvre tous les transports et vous évite d'acheter des billets séparés pour votre chien à chaque fois.",
+        "Le tramway 2 le long du Danube côté Pest est l'un des parcours de tramway les plus pittoresques du monde — faites-le avec votre chien par temps clair.",
+        "Le Chemin de fer des Enfants (Gyermekvasút) dans les collines de Buda accepte les chiens et constitue une excursion amusante.",
+        "Uber et Bolt opèrent à Budapest. Les politiques des chauffeurs concernant les chiens varient — mentionnez votre chien lors de la réservation ou utilisez l'option animaux de l'appli."
+      ],
+      "tipsEs": [
+        "Compra un abono BKK de 24 o 72 horas: cubre todo el transporte y te evita comprar billetes individuales para tu perro cada vez.",
+        "El tranvía 2 a lo largo del Danubio por el lado de Pest es una de las rutas de tranvía más panorámicas del mundo: hazla con tu perro en un día despejado.",
+        "El Tren de los Niños (Gyermekvasút) en las Colinas de Buda admite perros y es una excursión divertida.",
+        "Uber y Bolt operan en Budapest. Las políticas de los conductores sobre perros varían: menciona tu perro al reservar o usa la opción de mascotas de la app."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on Budapest metro?",
+          "a": "Yes. Small dogs in a closed carrier travel free. Larger dogs travel with a leash and muzzle and require a half-price child ticket. This applies to all four metro lines."
+        },
+        {
+          "q": "Is there a scenic public transport route to do with a dog in Budapest?",
+          "a": "Yes — Tram 2 along the Pest Danube bank is one of Europe's most beautiful tram routes. Dogs allowed with standard BKK rules. Also consider the Fogaskerekű rack railway to the Buda Hills."
+        },
+        {
+          "q": "Can I take a taxi or rideshare with a dog in Budapest?",
+          "a": "Yes, but policies vary by driver. Bolt and Uber both operate in Budapest. Mention your dog when booking. Some drivers may decline large dogs — having a carrier helps."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly River Beaches & Danube Banks in Budapest",
+      "titleFr": "Plages fluviales et berges du Danube acceptant les chiens à Budapest",
+      "titleEs": "Playas fluviales y orillas del Danubio con mascotas en Budapest",
+      "introEn": "Budapest is an inland city, but the Danube is one of the widest and most dramatic rivers in Europe at this point, and the city has developed several proper river beaches and bathing areas along its banks. Locals call these strand (beaches), and in summer they are a genuine alternative to the sea. Dogs are allowed at several of the strand areas, though rules vary. The riverside promenades on both the Buda and Pest banks are excellent for long dog walks year-round.",
+      "introFr": "Budapest est une ville intérieure, mais le Danube est l'un des fleuves les plus larges et les plus spectaculaires d'Europe à cet endroit, et la ville a développé plusieurs vraies plages fluviales et zones de baignade sur ses berges. Les locaux les appellent strand (plages), et en été, elles constituent une véritable alternative à la mer. Les chiens sont autorisés dans plusieurs de ces zones de strand, bien que les règles varient. Les promenades en bord de fleuve sur les deux rives (Buda et Pest) sont excellentes pour de longues promenades avec son chien tout au long de l'année.",
+      "introEs": "Budapest es una ciudad interior, pero el Danubio es uno de los ríos más anchos y espectaculares de Europa en este punto, y la ciudad ha desarrollado varias playas fluviales y zonas de baño a lo largo de sus orillas. Los locales las llaman strand (playas), y en verano son una alternativa genuina al mar. Los perros están permitidos en varias de estas zonas de strand, aunque las normas varían. Los paseos fluviales en ambas orillas del Danubio (Buda y Pest) son excelentes para largos paseos con el perro durante todo el año.",
+      "places": [
+        {
+          "name": "Római-part (Roman Bank)",
+          "address": "Római-part, Budapest 1031",
+          "neighborhood": "District III — Óbuda",
+          "photo": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=R%C3%B3mai-part+Budapest",
+          "description": "Római-part is Budapest's most beloved riverside strip: a 4km stretch of Danube bank in Óbuda lined with outdoor restaurants, fishing spots, and informal grass areas where locals come to relax in summer. Dogs are a constant presence here. The area has a relaxed, village-like atmosphere completely unlike the tourist-heavy south bank. On summer evenings, families, cyclists, dog walkers, and anglers all coexist happily along the riverside. Several of the restaurants have waterside terraces where dogs are welcome.",
+          "descriptionFr": "Római-part est la bande de berge la plus aimée de Budapest : 4 km de rive du Danube à Óbuda, bordés de restaurants en plein air, de coins de pêche et de prairies informelles où les locaux viennent se détendre en été. Les chiens y sont une présence constante. L'endroit a une atmosphère détendue, presque villageoise, complètement différente de la rive sud très touristique. Les soirs d'été, familles, cyclistes, promeneurs de chiens et pêcheurs cohabitent joyeusement sur la berge. Plusieurs restaurants ont des terrasses au bord de l'eau où les chiens sont les bienvenus.",
+          "descriptionEs": "Római-part es la franja ribereña más querida de Budapest: 4 km de orilla del Danubio en Óbuda jalonados de restaurantes al aire libre, zonas de pesca y áreas de hierba informales donde los locales vienen a relajarse en verano. Los perros son una presencia constante aquí. La zona tiene un ambiente relajado, casi aldeano, completamente diferente a la orilla sur plagada de turistas. En las tardes de verano, familias, ciclistas, paseadores de perros y pescadores conviven felizmente a lo largo de la orilla. Varios restaurantes tienen terrazas junto al agua donde los perros son bienvenidos.",
+          "petPolicy": "Dogs welcome on the riverbank; terrace policies vary by restaurant",
+          "petPolicyFr": "Chiens bienvenus sur la berge ; les politiques des terrasses varient selon les restaurants",
+          "petPolicyEs": "Perros bienvenidos en la orilla; las políticas de las terrazas varían según el restaurante",
+          "priceRange": "Free (restaurants extra)",
+          "mustTry": "Walking the full 4km strip, watching the sunset over the river, riverside dinner at one of the terrace restaurants",
+          "mustTryFr": "Parcourir les 4 km complets de la berge, regarder le coucher de soleil sur le fleuve, dîner en terrasse dans l'un des restaurants",
+          "mustTryEs": "Recorrer los 4 km completos de la orilla, ver el atardecer sobre el río, cena en terraza en uno de los restaurantes",
+          "openingHours": "Open 24 hours (public area)",
+          "tip": "Take HÉV H5 train from Batthyány tér to Római-fürdő stop — just a few minutes and much faster than driving",
+          "tipFr": "Prenez le HÉV H5 depuis Batthyány tér jusqu'à l'arrêt Római-fürdő — quelques minutes seulement et bien plus rapide qu'en voiture",
+          "tipEs": "Toma el tren HÉV H5 desde Batthyány tér hasta la parada Római-fürdő: solo unos minutos y mucho más rápido que en coche",
+          "googleMapsUrl": "https://maps.google.com/?q=R%C3%B3mai-part+Budapest"
+        },
+        {
+          "name": "Kopaszi-gát",
+          "address": "Kopaszi-gát, Budapest 1117",
+          "neighborhood": "District XI — Újbuda",
+          "photo": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=Kopaszi-g%C3%A1t+Budapest",
+          "description": "Kopaszi-gát is a modern riverside park and peninsula development in southern Buda, featuring a small lake, waterside walking and cycling paths, a children's playground, and several bars and restaurants with terraces over the water. Dogs are welcome throughout the park. The wooden boardwalk over the Danube is particularly beautiful at sunset. This is a newer, more polished version of the Danube-bank experience compared to Római-part, with excellent café and restaurant options.",
+          "descriptionFr": "Kopaszi-gát est un parc et développement de péninsule en bord de fleuve moderne dans le sud de Buda, avec un petit lac, des promenades et pistes cyclables au bord de l'eau, une aire de jeux pour enfants et plusieurs bars et restaurants avec des terrasses sur l'eau. Les chiens sont les bienvenus dans tout le parc. La promenade en bois sur le Danube est particulièrement belle au coucher du soleil. C'est une version plus récente et plus soignée de l'expérience de berge du Danube par rapport à Római-part, avec d'excellentes options de cafés et restaurants.",
+          "descriptionEs": "Kopaszi-gát es un moderno parque ribereño y desarrollo de península en el sur de Buda, con un pequeño lago, senderos peatonales y ciclistas junto al agua, un parque infantil y varios bares y restaurantes con terrazas sobre el agua. Los perros son bienvenidos en todo el parque. El paseo de madera sobre el Danubio es especialmente hermoso al atardecer. Esta es una versión más moderna y pulida de la experiencia de orilla del Danubio en comparación con Római-part, con excelentes opciones de cafés y restaurantes.",
+          "petPolicy": "Dogs welcome throughout the park and on the boardwalk",
+          "petPolicyFr": "Chiens bienvenus dans tout le parc et sur la promenade en bois",
+          "petPolicyEs": "Perros bienvenidos en todo el parque y en el paseo de madera",
+          "priceRange": "Free",
+          "mustTry": "Sunset walk on the Danube boardwalk, coffee at one of the waterside cafés",
+          "mustTryFr": "Promenade au coucher du soleil sur la passerelle du Danube, café dans l'un des cafés au bord de l'eau",
+          "mustTryEs": "Paseo al atardecer por el paseo de madera del Danubio, café en uno de los cafés junto al agua",
+          "openingHours": "Open 24 hours",
+          "tip": "Reachable by tram 1 or 47/49 to Szerémi út, then a short walk. Very popular on summer weekends — go on a weekday morning for a peaceful visit",
+          "tipFr": "Accessible par les tramways 1 ou 47/49 jusqu'à Szerémi út, puis courte marche. Très fréquenté le week-end en été — venez en semaine le matin pour une visite tranquille",
+          "tipEs": "Accesible en tranvía 1 o 47/49 hasta Szerémi út, luego un corto paseo. Muy concurrido los fines de semana de verano: ve entre semana por la mañana para una visita tranquila",
+          "googleMapsUrl": "https://maps.google.com/?q=Kopaszi-g%C3%A1t+Budapest"
+        },
+        {
+          "name": "Pest Danube Promenade (Duna-korzó)",
+          "address": "Duna-korzó, Budapest 1051",
+          "neighborhood": "District V — Belváros",
+          "photo": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=Duna+korz%C3%B3+Budapest",
+          "description": "The historic riverside promenade on the Pest bank between the Chain Bridge and Elizabeth Bridge is one of Budapest's great public spaces. The view across to Buda Castle, the Fishermen's Bastion, and the Matthias Church is among the finest in Europe. Dogs on leash are welcome along the entire promenade. This is not a beach but a grand riverside walk, and it's excellent for a morning or evening stroll with your dog. The Shoes on the Danube memorial is along this stretch.",
+          "descriptionFr": "La promenade historique en bord de fleuve sur la rive de Pest, entre le Pont des Chaînes et le Pont Élisabeth, est l'un des grands espaces publics de Budapest. La vue sur le château de Buda, le Bastion des Pêcheurs et l'église Matthias est parmi les plus belles d'Europe. Les chiens en laisse sont les bienvenus sur toute la promenade. Ce n'est pas une plage mais une grande promenade au bord du fleuve, excellente pour une balade matinale ou vespérale avec son chien. Le mémorial des Chaussures sur le Danube se trouve sur ce tronçon.",
+          "descriptionEs": "El histórico paseo fluvial en la orilla de Pest entre el Puente de las Cadenas y el Puente Isabel es uno de los grandes espacios públicos de Budapest. La vista hacia el Castillo de Buda, el Bastión de los Pescadores y la Iglesia de Matías está entre las más bellas de Europa. Los perros con correa son bienvenidos a lo largo de todo el paseo. No es una playa sino un gran paseo ribereño, excelente para un paseo matutino o vespertino con tu perro. El memorial de los Zapatos en el Danubio se encuentra en este tramo.",
+          "petPolicy": "Dogs on leash welcome along the full promenade",
+          "petPolicyFr": "Chiens en laisse bienvenus sur toute la promenade",
+          "petPolicyEs": "Perros con correa bienvenidos a lo largo de todo el paseo",
+          "priceRange": "Free",
+          "mustTry": "Sunset walk with views of illuminated Buda Castle, the Shoes on the Danube memorial, Tram 2 ride alongside",
+          "mustTryFr": "Promenade au coucher du soleil avec vue sur le château de Buda illuminé, le mémorial des Chaussures sur le Danube, trajet en tramway 2 le long de la promenade",
+          "mustTryEs": "Paseo al atardecer con vistas al Castillo de Buda iluminado, el memorial de los Zapatos en el Danubio, viaje en tranvía 2 a lo largo del paseo",
+          "openingHours": "Open 24 hours",
+          "tip": "Walk from Chain Bridge to Elizabeth Bridge (about 1km) then cross to the Buda side via Elizabeth Bridge for a round trip — it's one of Budapest's great urban walks",
+          "tipFr": "Marchez du Pont des Chaînes au Pont Élisabeth (environ 1 km), puis traversez côté Buda par le Pont Élisabeth pour un aller-retour — c'est l'une des plus belles promenades urbaines de Budapest",
+          "tipEs": "Camina desde el Puente de las Cadenas hasta el Puente Isabel (unos 800m), luego cruza al lado de Buda por el Puente Isabel para un recorrido de ida y vuelta: es uno de los grandes paseos urbanos de Budapest",
+          "googleMapsUrl": "https://maps.google.com/?q=Duna+korz%C3%B3+Budapest"
+        }
+      ],
+      "tipsEn": [
+        "Formal strand (beach) areas may have specific rules about dogs — always check before entering the fenced sections.",
+        "The Danube promenade on both banks is always open and free — the best dog walk in central Budapest.",
+        "Római-part in summer has a strong local, non-tourist atmosphere — it's the most authentic Danube-bank experience.",
+        "Avoid swimming areas with your dog on hot summer weekends — these get crowded and lifeguards may redirect you."
+      ],
+      "tipsFr": [
+        "Les zones de strand (plage) formelles peuvent avoir des règles spécifiques concernant les chiens — vérifiez toujours avant d'entrer dans les sections clôturées.",
+        "La promenade le long du Danube des deux côtés est toujours ouverte et gratuite — la meilleure promenade pour chiens dans le centre de Budapest.",
+        "Római-part en été a une forte atmosphère locale et non touristique — c'est l'expérience de berge du Danube la plus authentique.",
+        "Évitez les zones de baignade avec votre chien les week-ends d'été chauds — elles sont très fréquentées et les maîtres-nageurs pourraient vous rediriger."
+      ],
+      "tipsEs": [
+        "Las zonas de strand (playa) formales pueden tener reglas específicas sobre perros: comprueba siempre antes de entrar en las secciones valladas.",
+        "El paseo del Danubio en ambas orillas siempre está abierto y es gratuito: el mejor paseo con perro en el centro de Budapest.",
+        "Római-part en verano tiene un fuerte ambiente local y no turístico: es la experiencia de orilla del Danubio más auténtica.",
+        "Evita las zonas de baño con tu perro los calurosos fines de semana de verano: se llenan mucho y los socorristas pueden redirigirte."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog-friendly beaches in Budapest?",
+          "a": "Budapest is inland but has several river beaches (strand) and riverside areas along the Danube. Dogs are welcome at Római-part and Kopaszi-gát. The Pest Danube promenade is excellent for year-round dog walks."
+        },
+        {
+          "q": "Can my dog swim in the Danube in Budapest?",
+          "a": "Technically possible at some spots but not recommended — the Danube has strong currents and can be cold. Stick to the shallow edges at Római-part if your dog wants a paddle."
+        },
+        {
+          "q": "What is the best riverside area for a long dog walk in Budapest?",
+          "a": "Római-part in Óbuda (4km stretch) is the best for a long, relaxed walk with a local atmosphere. The Pest Danube promenade is better for sightseeing. Kopaszi-gát is best for sunset visits."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Pet Services in Budapest",
+      "titleFr": "Vétérinaires et services animaliers à Budapest",
+      "titleEs": "Veterinarios y servicios para mascotas en Budapest",
+      "introEn": "Budapest has good veterinary infrastructure. Emergency vet clinics operate 24 hours in several districts, and routine clinics are widespread throughout the city. EU pet passport requirements apply: your pet needs to be microchipped and have an up-to-date rabies vaccination with a valid EU health certificate for travel. Prices are significantly lower than in Western Europe. Most clinics in Budapest can communicate in basic English.",
+      "introFr": "Budapest dispose d'une bonne infrastructure vétérinaire. Des cliniques vétérinaires d'urgence opèrent 24h/24 dans plusieurs arrondissements, et les cliniques ordinaires sont répandues dans toute la ville. Les exigences du passeport européen pour animaux s'appliquent : votre animal doit être pucé et avoir une vaccination antirabique à jour avec un certificat sanitaire européen valide pour voyager. Les prix sont nettement inférieurs à ceux d'Europe occidentale. La plupart des cliniques de Budapest peuvent communiquer en anglais de base.",
+      "introEs": "Budapest tiene una buena infraestructura veterinaria. Las clínicas veterinarias de urgencias operan las 24 horas en varios distritos, y las clínicas rutinarias están distribuidas por toda la ciudad. Se aplican los requisitos del pasaporte europeo para mascotas: tu mascota necesita estar microchipada y tener una vacunación antirrábica actualizada con un certificado sanitario europeo válido para viajar. Los precios son significativamente más bajos que en Europa Occidental. La mayoría de las clínicas de Budapest pueden comunicarse en inglés básico.",
+      "places": [
+        {
+          "name": "Lósy-Reimann Állatkorház (24h Emergency)",
+          "address": "Szugló utca 57-59, Budapest 1141",
+          "neighborhood": "District XIV — Zugló",
+          "photo": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.allatkorhaz.hu/",
+          "description": "One of Budapest's main 24-hour emergency veterinary hospitals, with a full range of surgical, diagnostic, and intensive care capabilities. The clinic handles emergencies around the clock and also accepts routine appointments during the day. Staff speak basic English. Located in District XIV close to Városliget.",
+          "descriptionFr": "L'un des principaux hôpitaux vétérinaires d'urgence 24h/24 de Budapest, avec une gamme complète de capacités chirurgicales, diagnostiques et de soins intensifs. La clinique gère les urgences en permanence et accepte également des rendez-vous de routine en journée. Le personnel parle un anglais de base. Situé dans le XIVe arrondissement, près du Városliget.",
+          "descriptionEs": "Uno de los principales hospitales veterinarios de urgencias 24 horas de Budapest, con una completa gama de capacidades quirúrgicas, de diagnóstico y cuidados intensivos. La clínica atiende urgencias las 24 horas y también acepta citas rutinarias durante el día. El personal habla inglés básico. Situado en el Distrito XIV, cerca del Városliget.",
+          "petPolicy": "24/7 emergency service; routine appointments available",
+          "petPolicyFr": "Service d'urgence 24h/24 7j/7 ; rendez-vous de routine disponibles",
+          "petPolicyEs": "Servicio de urgencias 24/7; citas de rutina disponibles",
+          "priceRange": "€€",
+          "mustTry": "",
+          "mustTryFr": "",
+          "mustTryEs": "",
+          "openingHours": "24 hours, 7 days a week",
+          "tip": "Save the address in your phone before you travel — knowing where the 24h vet is located gives peace of mind for any trip with a pet",
+          "tipFr": "Enregistrez l'adresse sur votre téléphone avant de voyager — savoir où se trouve le vétérinaire 24h/24 est rassurant pour tout voyage avec un animal",
+          "tipEs": "Guarda la dirección en tu teléfono antes de viajar: saber dónde está el veterinario 24h da tranquilidad en cualquier viaje con una mascota",
+          "googleMapsUrl": "https://maps.google.com/?q=L%C3%B3sy-Reimann+%C3%81llatkorh%C3%A1z+Budapest"
+        },
+        {
+          "name": "Budai Állatkórház",
+          "address": "Ördögárok út 31, Budapest 1124",
+          "neighborhood": "District XII — Hegyvidék",
+          "photo": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=Budai+%C3%81llatk%C3%B3rh%C3%A1z+Budapest",
+          "description": "A well-regarded veterinary clinic on the Buda side, covering general practice, dentistry, dermatology, and minor surgery. Useful for routine health checks, prescription medication, and EU health certificate signing if needed before departure. English-speaking staff available. Located near the Buda Hills for visitors staying on the Buda side.",
+          "descriptionFr": "Une clinique vétérinaire bien considérée côté Buda, proposant médecine générale, dentisterie, dermatologie et chirurgie légère. Utile pour les bilans de santé de routine, les médicaments sur ordonnance et la signature du certificat sanitaire européen si nécessaire avant le départ. Personnel anglophone disponible. Situé près des collines de Buda pour les visiteurs séjournant côté Buda.",
+          "descriptionEs": "Una clínica veterinaria bien valorada en el lado de Buda, que cubre medicina general, odontología, dermatología y cirugía menor. Útil para chequeos de salud rutinarios, medicación con receta y firma del certificado sanitario europeo si es necesario antes de la partida. Personal angloparlante disponible. Situado cerca de las Colinas de Buda para los visitantes que se alojan en el lado de Buda.",
+          "petPolicy": "Routine appointments; call ahead to confirm current hours",
+          "petPolicyFr": "Rendez-vous de routine ; appelez à l'avance pour confirmer les horaires actuels",
+          "petPolicyEs": "Citas de rutina; llama con antelación para confirmar los horarios actuales",
+          "priceRange": "€€",
+          "mustTry": "",
+          "mustTryFr": "",
+          "mustTryEs": "",
+          "openingHours": "Mon–Fri 08:00–19:00, Sat 09:00–14:00",
+          "tip": "Bring your pet's EU passport and vaccination records to any Hungarian vet appointment to speed up any required paperwork",
+          "tipFr": "Apportez le passeport européen et les carnets de vaccination de votre animal à tout rendez-vous vétérinaire hongrois pour accélérer les formalités nécessaires",
+          "tipEs": "Lleva el pasaporte europeo de tu mascota y los registros de vacunación a cualquier cita veterinaria húngara para agilizar cualquier papeleo necesario",
+          "googleMapsUrl": "https://maps.google.com/?q=Budai+%C3%81llatk%C3%B3rh%C3%A1z+Budapest"
+        }
+      ],
+      "tipsEn": [
+        "EU pet passport is required for entry into Hungary — ensure microchip registration and rabies vaccination are current.",
+        "Veterinary costs in Budapest are notably lower than in Western Europe — a standard consultation is typically €20–40.",
+        "Most Budapest pet shops (állateledel/állatkereskedés) sell EU-compliant tick and flea treatments.",
+        "If you need a health certificate for flying out of Budapest, contact your vet at least 72 hours in advance."
+      ],
+      "tipsFr": [
+        "Le passeport européen pour animaux est obligatoire pour entrer en Hongrie — vérifiez que l'enregistrement de la puce et la vaccination antirabique sont à jour.",
+        "Les coûts vétérinaires à Budapest sont nettement inférieurs à ceux d'Europe occidentale — une consultation standard coûte généralement 20 à 40 euros.",
+        "La plupart des animaleries de Budapest (állateledel/állatkereskedés) vendent des traitements antiparasitaires conformes aux normes de l'UE.",
+        "Si vous avez besoin d'un certificat sanitaire pour voler depuis Budapest, contactez votre vétérinaire au moins 72 heures à l'avance."
+      ],
+      "tipsEs": [
+        "El pasaporte europeo para mascotas es obligatorio para entrar en Hungría: asegúrate de que el registro del microchip y la vacunación antirrábica están actualizados.",
+        "Los costes veterinarios en Budapest son notablemente más bajos que en Europa Occidental: una consulta estándar suele costar entre 20 y 40 euros.",
+        "La mayoría de las tiendas de mascotas de Budapest (állateledel/állatkereskedés) venden tratamientos antiparasitarios conformes con la normativa de la UE.",
+        "Si necesitas un certificado sanitario para volar desde Budapest, contacta a tu veterinario con al menos 72 horas de antelación."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a pet passport to bring my dog to Budapest?",
+          "a": "Yes. Hungary is an EU country. You need an EU pet passport with valid microchip registration and a current rabies vaccination. For non-EU travellers, equivalent documentation is required."
+        },
+        {
+          "q": "Are there 24-hour vets in Budapest?",
+          "a": "Yes. Lósy-Reimann Állatkorház in District XIV operates 24 hours a day, 7 days a week and handles emergencies."
+        },
+        {
+          "q": "How much does a vet visit cost in Budapest?",
+          "a": "A standard consultation typically costs 8,000–15,000 HUF (approximately €20–40). Emergency and specialist fees are higher. Costs are significantly lower than in Western Europe."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Pet Travel Tips for Budapest",
+      "titleFr": "Conseils essentiels pour voyager avec son animal à Budapest",
+      "titleEs": "Consejos esenciales para viajar con mascotas a Budapest",
+      "introEn": "Budapest is a genuinely welcoming city for dog owners. The culture is relaxed, the parks are excellent, and public transport accepts dogs. A few local rules and customs to know before you arrive will make the trip much smoother.",
+      "introFr": "Budapest est une ville vraiment accueillante pour les propriétaires de chiens. La culture est détendue, les parcs sont excellents et les transports en commun acceptent les chiens. Quelques règles et coutumes locales à connaître avant d'arriver rendront le voyage bien plus agréable.",
+      "introEs": "Budapest es una ciudad genuinamente acogedora para los dueños de perros. La cultura es relajada, los parques son excelentes y el transporte público acepta perros. Conocer algunas normas y costumbres locales antes de llegar hará el viaje mucho más cómodo.",
+      "places": [],
+      "tipsEn": [
+        "Dogs must be on leash in all Budapest public spaces except designated off-leash areas (kutyafuttató). Fines for off-leash violations are enforced.",
+        "Poop bags (szatyor) are expected to be used. Most parks have dog waste bin stations. Failing to clean up can result in fines.",
+        "Hungarian summers can be very hot (35°C+). Carry water for your dog and avoid midday walks on exposed surfaces.",
+        "The Buda Castle district and Fishermen's Bastion are tourist-heavy and the cobblestones can be hard on paws — plan shorter visits there.",
+        "Most Budapest hotels that accept dogs charge a small additional cleaning fee (typically 2,000–5,000 HUF per night). Confirm when booking.",
+        "The city's thermal bath culture (fürdő) does not extend to dogs — animals are not allowed inside any of the famous bath complexes."
+      ],
+      "tipsFr": [
+        "Les chiens doivent être tenus en laisse dans tous les espaces publics de Budapest, sauf dans les zones de liberté désignées (kutyafuttató). Les infractions sont sanctionnées d'amendes.",
+        "L'utilisation de sacs à déjections (szatyor) est attendue. La plupart des parcs disposent de stations de collecte des déjections. Ne pas ramasser peut entraîner une amende.",
+        "Les étés hongrois peuvent être très chauds (35°C et plus). Emportez de l'eau pour votre chien et évitez les promenades à midi sur les surfaces exposées.",
+        "Le quartier du château de Buda et le Bastion des Pêcheurs sont très fréquentés et les pavés peuvent être durs pour les pattes — prévoyez des visites plus courtes.",
+        "La plupart des hôtels de Budapest qui acceptent les chiens facturent une petite taxe de nettoyage supplémentaire (généralement 2 000 à 5 000 HUF par nuit). Confirmez lors de la réservation.",
+        "La culture des bains thermaux de la ville (fürdő) ne s'étend pas aux chiens — les animaux ne sont admis dans aucun des célèbres complexes de bains."
+      ],
+      "tipsEs": [
+        "Los perros deben ir con correa en todos los espacios públicos de Budapest excepto en las zonas designadas sin correa (kutyafuttató). Se aplican multas por infringir esta norma.",
+        "Se espera que uses bolsas para recoger las heces (szatyor). La mayoría de los parques tienen contenedores para excrementos. No recoger puede resultar en multa.",
+        "Los veranos húngaros pueden ser muy calurosos (más de 35°C). Lleva agua para tu perro y evita los paseos al mediodía en superficies expuestas.",
+        "El barrio del Castillo de Buda y el Bastión de los Pescadores son muy turísticos y los adoquines pueden ser duros para las patas: planifica visitas más cortas allí.",
+        "La mayoría de los hoteles de Budapest que aceptan perros cobran una pequeña tarifa adicional de limpieza (generalmente 2.000-5.000 HUF por noche). Confírmalo al reservar.",
+        "La cultura de los baños termales de la ciudad (fürdő) no se extiende a los perros: los animales no están permitidos en ninguno de los famosos complejos de baños."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Budapest dog-friendly overall?",
+          "a": "Yes. Budapest is one of the more dog-friendly Central European capitals. Dogs are common in cafés, parks, and on public transport. The rules are clear and the culture is generally accepting of well-behaved dogs."
+        },
+        {
+          "q": "What are the leash laws in Budapest?",
+          "a": "Dogs must be on leash in all public spaces. In designated off-leash areas (kutyafuttató), dogs may run free. Fines apply for violations. Muzzles are required on public transport for larger dogs."
+        },
+        {
+          "q": "What is the best time of year to visit Budapest with a dog?",
+          "a": "Spring (April–May) and autumn (September–October) are ideal: mild weather, fewer crowds, and the parks are beautiful. Summer is hot but the river beaches and garden bars are excellent. Winter has reduced outdoor options but thermal bath walks on the Buda hills are fine."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Budapest",
+      "titleFr": "Attractions dog-friendly à Budapest",
+      "titleEs": "Atracciones dog-friendly en Budapest",
+      "introEn": "Most of Budapest's greatest attractions are outdoor and free — the castle district, the Danube promenades, Heroes' Square — and dogs on leash are welcome at all of them. Indoor attractions (museums, basilica interiors, thermal baths) do not allow dogs. The places below offer genuinely good experiences for dog owners that don't require leaving your pet behind.",
+      "introFr": "La plupart des plus grandes attractions de Budapest sont en plein air et gratuites — le quartier du château, les promenades du Danube, la place des Héros — et les chiens en laisse y sont les bienvenus partout. Les attractions intérieures (musées, intérieur de la basilique, bains thermaux) n'admettent pas les chiens. Les endroits ci-dessous offrent de véritables bonnes expériences pour les propriétaires de chiens sans avoir à laisser leur animal.",
+      "introEs": "La mayoría de las grandes atracciones de Budapest son exteriores y gratuitas — el barrio del castillo, los paseos del Danubio, la Plaza de los Héroes — y los perros con correa son bienvenidos en todas ellas. Las atracciones interiores (museos, interior de la basílica, baños termales) no admiten perros. Los lugares a continuación ofrecen experiencias genuinamente buenas para los dueños de perros sin necesidad de dejar a su mascota.",
+      "places": [
+        {
+          "name": "Buda Castle District & Fishermen's Bastion",
+          "address": "Várhegy, Budapest 1014",
+          "neighborhood": "District I — Castle Hill",
+          "photo": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?auto=format&fit=crop&w=800&q=80",
+          "website": "https://budacastlebudapest.com/",
+          "description": "The Castle Hill district is one of Central Europe's great urban heritage sites: a UNESCO-listed hilltop citadel with the Royal Palace, Matthias Church, and the neo-Romanesque Fishermen's Bastion. Dogs on leash are welcome throughout the open outdoor areas. The Fishermen's Bastion terraces offer some of the best views of the Pest side across the Danube. The hill is reachable by funicular (dogs not allowed on the funicular — use the walking path from Adam Clark tér instead).",
+          "descriptionFr": "Le quartier du Château est l'un des grands sites patrimoniaux urbains d'Europe centrale : une citadelle perchée inscrite à l'UNESCO avec le Palais Royal, l'église Matthias et le Bastion des Pêcheurs néo-roman. Les chiens en laisse sont les bienvenus dans toutes les zones extérieures ouvertes. Les terrasses du Bastion des Pêcheurs offrent certaines des meilleures vues sur la rive de Pest de l'autre côté du Danube. La colline est accessible par funiculaire (chiens non admis dans le funiculaire — empruntez plutôt le chemin pédestre depuis la place Adam Clark).",
+          "descriptionEs": "El barrio del Castillo es uno de los grandes sitios del patrimonio urbano de Europa Central: una ciudadela en lo alto de una colina declarada Patrimonio de la UNESCO con el Palacio Real, la Iglesia de Matías y el neo-románico Bastión de los Pescadores. Los perros con correa son bienvenidos en todas las zonas exteriores abiertas. Las terrazas del Bastión de los Pescadores ofrecen algunas de las mejores vistas del lado de Pest al otro lado del Danubio. La colina es accesible en funicular (los perros no están permitidos en el funicular: usa en su lugar el sendero peatonal desde la plaza Adam Clark).",
+          "petPolicy": "Dogs on leash welcome in all outdoor areas; not allowed on the funicular",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toutes les zones extérieures ; non admis dans le funiculaire",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las zonas exteriores; no admitidos en el funicular",
+          "priceRange": "Free (outdoor areas); Fishermen's Bastion tower has a small fee",
+          "mustTry": "Fishermen's Bastion viewpoint, walk along Táncsics Mihály utca, view of Chain Bridge from the hill",
+          "mustTryFr": "Point de vue du Bastion des Pêcheurs, promenade sur la rue Táncsics Mihály, vue sur le Pont des Chaînes depuis la colline",
+          "mustTryEs": "Mirador del Bastión de los Pescadores, paseo por la calle Táncsics Mihály, vista del Puente de las Cadenas desde la colina",
+          "openingHours": "Open 24 hours (outdoor areas); Fishermen's Bastion Mar–Oct 09:00–23:00",
+          "tip": "Walk up via the zigzag path from Adam Clark tér (15 min) rather than the funicular — dogs allowed on foot, and the path through the castle gardens is beautiful",
+          "tipFr": "Montez à pied par le chemin en lacets depuis la place Adam Clark (15 min) plutôt que par le funiculaire — les chiens sont autorisés à pied, et le chemin à travers les jardins du château est magnifique",
+          "tipEs": "Sube por el camino en zigzag desde la plaza Adam Clark (15 min) en lugar del funicular: los perros están permitidos a pie y el camino por los jardines del castillo es precioso",
+          "googleMapsUrl": "https://maps.google.com/?q=Fishermen%27s+Bastion+Budapest"
+        },
+        {
+          "name": "Heroes' Square & Vajdahunyad Castle",
+          "address": "Hősök tere, Budapest 1146",
+          "neighborhood": "District XIV — Városliget",
+          "photo": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=H%C5%91s%C3%B6k+tere+Budapest",
+          "description": "Heroes' Square (Hősök tere) at the end of Andrássy Avenue is one of Budapest's defining spaces — the monumental Millennium Monument, the twin museum buildings, and the gateway to Városliget. Dogs on leash are welcome throughout the square and in the adjacent City Park. Vajdahunyad Castle at the edge of the park lake is a stunning neo-Gothic, Romanesque, and Baroque composite building. Worth combining with a park walk to make a half-day excursion.",
+          "descriptionFr": "La place des Héros (Hősök tere) au bout de l'avenue Andrássy est l'un des espaces emblématiques de Budapest — le monumental Monument du Millénaire, les deux bâtiments de musée et la porte d'entrée du Városliget. Les chiens en laisse sont les bienvenus sur toute la place et dans le parc de la Ville adjacent. Le château de Vajdahunyad, au bord du lac du parc, est un magnifique bâtiment composite néo-gothique, roman et baroque. À combiner avec une promenade dans le parc pour une demi-journée d'excursion.",
+          "descriptionEs": "La Plaza de los Héroes (Hősök tere) al final de la Avenida Andrássy es uno de los espacios emblemáticos de Budapest: el monumental Monumento del Milenio, los dos edificios de museos y la puerta de entrada al Városliget. Los perros con correa son bienvenidos en toda la plaza y en el adyacente Parque de la Ciudad. El Castillo de Vajdahunyad en el borde del lago del parque es un impresionante edificio compuesto neogótico, románico y barroco. Vale la pena combinarlo con un paseo por el parque para una excursión de medio día.",
+          "petPolicy": "Dogs on leash welcome in all outdoor areas",
+          "petPolicyFr": "Chiens en laisse bienvenus dans toutes les zones extérieures",
+          "petPolicyEs": "Perros con correa bienvenidos en todas las zonas exteriores",
+          "priceRange": "Free (outdoor areas)",
+          "mustTry": "The Millennium Monument, walk to Vajdahunyad Castle, boat hire on the lake (dogs not on boats but can wait)",
+          "mustTryFr": "Le Monument du Millénaire, promenade jusqu'au château de Vajdahunyad, location de barques sur le lac (les chiens ne sont pas admis en barque mais peuvent attendre)",
+          "mustTryEs": "El Monumento del Milenio, paseo hasta el Castillo de Vajdahunyad, alquiler de barcas en el lago (los perros no van en barcas pero pueden esperar)",
+          "openingHours": "Open 24 hours (square and park)",
+          "tip": "Take metro M1 (the original continental metro from 1896) from downtown to Hősök tere — it's a historic experience and dogs in carriers go free",
+          "tipFr": "Prenez le métro M1 (le premier métro continental d'Europe de 1896) depuis le centre-ville jusqu'à Hősök tere — c'est une expérience historique et les chiens en sac voyagent gratuitement",
+          "tipEs": "Toma el metro M1 (el primer metro continental de Europa de 1896) desde el centro hasta Hősök tere: es una experiencia histórica y los perros en transportín viajan gratis",
+          "googleMapsUrl": "https://maps.google.com/?q=H%C5%91s%C3%B6k+tere+Budapest"
+        },
+        {
+          "name": "Andrássy Avenue",
+          "address": "Andrássy út, Budapest",
+          "neighborhood": "Districts VI and XIV",
+          "photo": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=800&q=80",
+          "website": "https://maps.google.com/?q=Andr%C3%A1ssy+%C3%BAt+Budapest",
+          "description": "UNESCO-listed Andrássy Avenue is Budapest's grandest boulevard: 2.5km of fin-de-siècle apartment palaces, the State Opera House, embassies, and the underground M1 metro running beneath. Walking the full length from Deák tér to Heroes' Square with a dog is one of Budapest's great urban walks. The tree-lined central promenade provides shade on hot days. Dog-friendly café terraces line sections of the boulevard.",
+          "descriptionFr": "L'avenue Andrássy, inscrite au patrimoine mondial de l'UNESCO, est le plus grand boulevard de Budapest : 2,5 km de palais de la Belle Époque, l'Opéra national, des ambassades et le métro M1 souterrain qui le longe. Parcourir la totalité du boulevard depuis la place Deák jusqu'à la place des Héros avec un chien est l'une des plus belles promenades urbaines de Budapest. La promenade centrale bordée d'arbres offre de l'ombre les jours de chaleur. Des terrasses de cafés dog-friendly jalonnent le boulevard.",
+          "descriptionEs": "La Avenida Andrássy, declarada Patrimonio de la UNESCO, es el gran bulevar de Budapest: 2,5 km de palacios modernistas de fin de siglo, la Casa de la Ópera del Estado, embajadas y el metro M1 subterráneo que discurre por debajo. Recorrer su longitud completa desde la plaza Deák hasta la Plaza de los Héroes con un perro es uno de los grandes paseos urbanos de Budapest. El paseo central arbolado proporciona sombra en los días calurosos. Terrazas de cafés dog-friendly jalonan secciones del bulevar.",
+          "petPolicy": "Dogs on leash welcome on the boulevard and central promenade",
+          "petPolicyFr": "Chiens en laisse bienvenus sur le boulevard et la promenade centrale",
+          "petPolicyEs": "Perros con correa bienvenidos en el bulevar y el paseo central",
+          "priceRange": "Free",
+          "mustTry": "Full walk from Deák tér to Heroes' Square (2.5km), stop at a terrace café midway, the view of the Opera House",
+          "mustTryFr": "Parcours complet depuis la place Deák jusqu'à la place des Héros (2,5 km), pause dans un café en terrasse à mi-chemin, vue sur l'Opéra",
+          "mustTryEs": "Recorrido completo desde la plaza Deák hasta la Plaza de los Héroes (2,5 km), parada en un café con terraza a mitad de camino, la vista de la Casa de la Ópera",
+          "openingHours": "Open 24 hours",
+          "tip": "Walk in the morning before 10:00 for the least crowded experience — Andrássy gets busy with tour groups from mid-morning",
+          "tipFr": "Marchez le matin avant 10h pour éviter la foule — Andrássy se remplit de groupes touristiques à partir de milieu de matinée",
+          "tipEs": "Pasea por la mañana antes de las 10:00 para la experiencia menos concurrida: Andrássy se llena de grupos de turistas a partir de media mañana",
+          "googleMapsUrl": "https://maps.google.com/?q=Andr%C3%A1ssy+%C3%BAt+Budapest"
+        }
+      ],
+      "tipsEn": [
+        "The funicular (Budavári Sikló) to Buda Castle does not allow dogs — take the walking path from Adam Clark tér instead.",
+        "All Budapest outdoor monuments and squares welcome leashed dogs.",
+        "Chain Bridge (Lánchíd) allows dogs — it's a pedestrian and vehicle bridge and one of the most photographed spots in the city.",
+        "Museum interiors, basilica interiors, and all thermal bath complexes do not allow dogs."
+      ],
+      "tipsFr": [
+        "Le funiculaire (Budavári Sikló) vers le château de Buda n'accepte pas les chiens — empruntez à la place le chemin pédestre depuis la place Adam Clark.",
+        "Tous les monuments extérieurs et places de Budapest accueillent les chiens en laisse.",
+        "Le Pont des Chaînes (Lánchíd) est accessible aux chiens — c'est un pont piéton et automobile, l'un des endroits les plus photographiés de la ville.",
+        "Les intérieurs des musées, de la basilique et tous les complexes de bains thermaux n'admettent pas les chiens."
+      ],
+      "tipsEs": [
+        "El funicular (Budavári Sikló) al Castillo de Buda no admite perros: toma el camino peatonal desde la plaza Adam Clark.",
+        "Todos los monumentos exteriores y plazas de Budapest admiten perros con correa.",
+        "El Puente de las Cadenas (Lánchíd) permite perros: es un puente peatonal y de vehículos y uno de los lugares más fotografiados de la ciudad.",
+        "Los interiores de museos, el interior de la basílica y todos los complejos de baños termales no admiten perros."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Buda Castle?",
+          "a": "Yes, dogs on leash are welcome in all the outdoor areas of the Castle Hill district, including the courtyards and the terraces of the Fishermen's Bastion. Dogs are not allowed inside the palace museums or church interiors."
+        },
+        {
+          "q": "Can I walk across the Chain Bridge with my dog?",
+          "a": "Yes. Chain Bridge is open to pedestrians and dogs are welcome on leash. It's one of the best Danube crossings to do on foot with a dog."
+        },
+        {
+          "q": "Are dogs allowed at thermal baths in Budapest?",
+          "a": "No. Dogs are not allowed inside any of Budapest's thermal bath complexes, including Széchenyi, Gellért, and Rudas. This is a firm rule across all venues."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Care in Budapest",
+      "titleFr": "Garde d'animaux et soins canins à Budapest",
+      "titleEs": "Cuidado de mascotas y perros en Budapest",
+      "introEn": "Budapest has a growing community of professional pet sitters and dog walkers accessible through international platforms. If you need to visit a thermal bath, a museum, or take a tour that doesn't allow dogs, these services offer reliable options for a few hours of supervised care.",
+      "introFr": "Budapest dispose d'une communauté croissante de pet-sitters et promeneurs de chiens professionnels accessibles via des plateformes internationales. Si vous devez visiter un bain thermal, un musée ou participer à une visite guidée n'acceptant pas les chiens, ces services offrent des options fiables pour quelques heures de garde supervisée.",
+      "introEs": "Budapest tiene una comunidad creciente de cuidadores de mascotas y paseadores de perros profesionales accesibles a través de plataformas internacionales. Si necesitas visitar un baño termal, un museo o hacer una visita guiada que no admita perros, estos servicios ofrecen opciones fiables para unas horas de cuidado supervisado.",
+      "places": [
+        {
+          "name": "Rover.com / Pawshake Budapest",
+          "address": "Platform-based — Budapest-wide",
+          "neighborhood": "All districts",
+          "photo": "https://images.unsplash.com/photo-1601758174493-45d0a4d3e407?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.pawshake.com/",
+          "description": "Pawshake and Rover both have networks of verified pet sitters in Budapest. You can book drop-in visits, half-day care, or full-day boarding with a local host family. Profiles are reviewed, backgrounds are checked, and payment is handled through the platform. Useful for days when you want to explore Budapest's indoor attractions without your dog.",
+          "descriptionFr": "Pawshake et Rover disposent tous deux de réseaux de pet-sitters vérifiés à Budapest. Vous pouvez réserver des visites ponctuelles, une garde à la demi-journée ou une pension complète chez une famille locale. Les profils sont vérifiés, les antécédents sont contrôlés et le paiement s'effectue via la plateforme. Pratique pour les journées où vous souhaitez explorer les attractions intérieures de Budapest sans votre chien.",
+          "descriptionEs": "Pawshake y Rover tienen redes de cuidadores de mascotas verificados en Budapest. Puedes reservar visitas puntuales, cuidado de medio día o pensión completa con una familia local. Los perfiles están revisados, los antecedentes verificados y el pago se gestiona a través de la plataforma. Útil para los días en que quieras explorar las atracciones interiores de Budapest sin tu perro.",
+          "petPolicy": "Verified sitters; full-day and half-day options available",
+          "petPolicyFr": "Sitters vérifiés ; options à la journée complète et à la demi-journée disponibles",
+          "petPolicyEs": "Cuidadores verificados; opciones de día completo y medio día disponibles",
+          "priceRange": "€€",
+          "mustTry": "",
+          "mustTryFr": "",
+          "mustTryEs": "",
+          "openingHours": "Book in advance via platform",
+          "tip": "Book at least 48 hours in advance, especially in summer when demand is higher from visiting tourists with dogs",
+          "tipFr": "Réservez au moins 48 heures à l'avance, surtout en été quand la demande est plus forte de la part des touristes visiteurs avec leurs chiens",
+          "tipEs": "Reserva con al menos 48 horas de antelación, especialmente en verano cuando la demanda es mayor por parte de los turistas que visitan la ciudad con sus perros",
+          "googleMapsUrl": "https://maps.google.com/?q=Budapest+Hungary"
+        }
+      ],
+      "tipsEn": [
+        "Book pet sitting in advance for busy periods — Rover and Pawshake both work well in Budapest.",
+        "Ask your hotel concierge for dog-friendly recommendations. Higher-end hotels often have relationships with local dog walking services.",
+        "Some of Budapest's dog-friendly hotels offer pet sitting or dog walking as an add-on service — ask at booking.",
+        "If your dog is comfortable with strangers, Rover's drop-in visit option (a sitter comes to your hotel) is the most convenient solution for a few hours."
+      ],
+      "tipsFr": [
+        "Réservez la garde à l'avance pour les périodes chargées — Rover et Pawshake fonctionnent bien tous deux à Budapest.",
+        "Demandez au concierge de votre hôtel des recommandations dog-friendly. Les hôtels haut de gamme ont souvent des relations avec des services locaux de promenade de chiens.",
+        "Certains hôtels dog-friendly de Budapest proposent la garde d'animaux ou la promenade de chiens comme service additionnel — renseignez-vous lors de la réservation.",
+        "Si votre chien est à l'aise avec les inconnus, l'option de visite ponctuelle de Rover (un sitter vient à votre hôtel) est la solution la plus pratique pour quelques heures."
+      ],
+      "tipsEs": [
+        "Reserva el cuidado de mascotas con antelación para los períodos de mayor actividad: tanto Rover como Pawshake funcionan bien en Budapest.",
+        "Pide al conserje del hotel recomendaciones dog-friendly. Los hoteles de gama alta suelen tener relaciones con servicios locales de paseo de perros.",
+        "Algunos hoteles dog-friendly de Budapest ofrecen cuidado de mascotas o paseo de perros como servicio adicional: pregunta al reservar.",
+        "Si tu perro se siente cómodo con desconocidos, la opción de visita puntual de Rover (un cuidador viene a tu hotel) es la solución más conveniente para unas horas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Budapest?",
+          "a": "Pawshake and Rover both operate in Budapest with verified sitter profiles. Book at least 48 hours in advance. Your hotel concierge may also have recommendations."
+        },
+        {
+          "q": "Can I leave my dog at the hotel while I visit the thermal baths?",
+          "a": "Depends on the hotel. Some dog-friendly hotels offer crating or supervised care. Otherwise, book a Rover drop-in sitter to come to your room. Never leave a dog unattended in a hotel room in summer heat."
+        },
+        {
+          "q": "Are there dog daycare facilities in Budapest?",
+          "a": "Yes, there are local dog daycare (kutyapanzió) facilities in Budapest. Search for 'kutyapanzió Budapest' for local options. Pawshake hosts also offer full-day care."
+        }
+      ]
+    }
+  }
+}

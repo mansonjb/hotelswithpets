@@ -1210,19 +1210,19 @@ export function generateWhy(
   const bullets =
     l === 'fr'
       ? [
-          `L'infrastructure de ${destName}: ${ctx.highlight}. Garantit que votre animal dispose toujours d'espace pour faire de l'exercice, quel que soit le quartier de l'hôtel.`,
-          `${destName} est ${ctx.personality}, donc vous vous sentirez les bienvenus dans les rues et les cafés autour de chaque hôtel de cette liste.`,
+          `À ${destName}, ${ctx.highlight} sont accessibles depuis chaque hôtel de cette liste — idéal pour les sorties matin et soir.`,
+          `${destName} est ${ctx.personality} — les animaux sont acceptés dans les rues, les terrasses et les commerces du quotidien.`,
           bullet3,
         ]
       : l === 'es'
         ? [
-            `La infraestructura de ${destName}: ${ctx.highlight}. Garantiza que su mascota siempre tenga espacio para hacer ejercicio, sea cual sea el barrio del hotel.`,
-            `${destName} es ${ctx.personality}, por lo que se sentirá bienvenido en las calles y cafés alrededor de cada hotel de esta lista.`,
+            `En ${destName}, ${ctx.highlight} son accesibles desde cada hotel de esta lista, perfectos para salidas mañana y noche.`,
+            `${destName} es ${ctx.personality} — los animales son bienvenidos en calles, terrazas y comercios habituales.`,
             bullet3,
           ]
         : [
-            `${destName}'s green infrastructure: ${ctx.highlight}. Means your pet always has space to exercise, whatever the hotel's neighbourhood.`,
-            `${destName} is ${ctx.personality}, so you'll feel genuinely welcome in the streets and cafés around every hotel on this list.`,
+            `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list — good for morning and evening outings.`,
+            `${destName} is ${ctx.personality} — pets are a normal part of street life, café terraces, and local shops.`,
             bullet3,
           ]
 

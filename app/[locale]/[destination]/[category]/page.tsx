@@ -398,23 +398,7 @@ export default async function ComboPage({
                 </div>
               </section>
 
-              {/* ③ Pet owner testimonial */}
-              {testimonial && (
-                <section aria-label="Owner testimonial" className="mb-10">
-                  <div className="bg-amber-50 border border-amber-100 rounded-2xl p-6 relative overflow-hidden">
-                    <div className="absolute -right-4 -top-4 text-7xl opacity-10 select-none" aria-hidden>
-                      {testimonial.emoji}
-                    </div>
-                    <p className="text-xs font-bold text-amber-700 uppercase tracking-wider mb-3">
-                      {p.testimonialLabel}
-                    </p>
-                    <blockquote className="text-gray-800 text-sm leading-relaxed italic mb-3">
-                      &ldquo;{testimonial.text}&rdquo;
-                    </blockquote>
-                    <cite className="text-xs text-gray-500 not-italic">{testimonial.attribution}</cite>
-                  </div>
-                </section>
-              )}
+              {/* ③ Pet owner testimonial — removed (template text identical across pages) */}
 
               {/* ④ Hotel ranked list */}
               <section aria-label="Hotel list" className="mb-10">

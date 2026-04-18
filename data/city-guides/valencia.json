@@ -334,7 +334,10 @@
           "hours": "24 hours, 7 days a week",
           "hoursFr": "24h/24, 7j/7",
           "hoursEs": "24 horas, 7 días a la semana",
-          "languages": "Spanish, some English",
+          "languages": [
+            "Spanish",
+            "some English"
+          ],
           "languagesFr": "Espagnol, quelques notions d'anglais",
           "languagesEs": "Español, algo de inglés",
           "description": "The main 24-hour emergency veterinary hospital in Valencia. Full diagnostic and surgical facilities including X-ray, ultrasound, and intensive care. Located north of the city centre, reachable in approximately 10–15 minutes by taxi from central Valencia. The most comprehensive emergency facility in the city.",
@@ -349,7 +352,10 @@
           "hours": "24 hours, 7 days a week",
           "hoursFr": "24h/24, 7j/7",
           "hoursEs": "24 horas, 7 días a la semana",
-          "languages": "Spanish, basic English",
+          "languages": [
+            "Spanish",
+            "basic English"
+          ],
           "languagesFr": "Espagnol, anglais de base",
           "languagesEs": "Español, inglés básico",
           "description": "Clínica Veterinaria Amisos is one of Valencia's well-regarded 24-hour emergency clinics, with full general practice capabilities and an emergency out-of-hours service. A reliable option for after-hours emergencies when the standard clinics are closed.",

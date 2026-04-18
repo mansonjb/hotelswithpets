@@ -348,7 +348,10 @@
           "services": "Emergency consultations, surgery, hospitalisation",
           "servicesFr": "Consultations d'urgence, chirurgie, hospitalisation",
           "servicesEs": "Consultas de urgencia, cirugía, hospitalización",
-          "languages": "French (limited English)",
+          "languages": [
+            "French",
+            "limited English"
+          ],
           "languagesFr": "Français (anglais limité)",
           "languagesEs": "Francés (inglés limitado)",
           "tip": "Save this number in your phone before you travel. In a genuine emergency, call first — they will advise whether to come immediately or if another clinic is closer.",
@@ -367,7 +370,10 @@
           "services": "Full referral hospital — emergency, surgery, imaging (MRI, CT), oncology, cardiology, dermatology",
           "servicesFr": "Hôpital de référence complet — urgences, chirurgie, imagerie (IRM, scanner), oncologie, cardiologie, dermatologie",
           "servicesEs": "Hospital de referencia completo — urgencias, cirugía, diagnóstico por imagen (RMN, TC), oncología, cardiología, dermatología",
-          "languages": "French (some English)",
+          "languages": [
+            "French",
+            "some English"
+          ],
           "languagesFr": "Français (quelques anglophones)",
           "languagesEs": "Francés (algo de inglés)",
           "tip": "This is the highest-level veterinary facility on the Côte d'Azur. If your dog needs specialist care or overnight hospitalisation, this is the place. It is a 15-minute drive north from central Nice.",

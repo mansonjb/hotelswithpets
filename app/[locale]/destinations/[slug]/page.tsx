@@ -285,7 +285,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* ── Editorial Snapshot ── */}
       {(() => {
-        const ctx = destContextByLocale['en']?.[slug]
+        const ctxLocale = locale === 'fr' || locale === 'es' ? locale : 'en'
+        const ctx = (destContextByLocale[ctxLocale] ?? destContextByLocale['en'])?.[slug]
         const avgRating = destHotels.length > 0
           ? (destHotels.reduce((s, h) => s + h.rating, 0) / destHotels.length).toFixed(1)
           : null

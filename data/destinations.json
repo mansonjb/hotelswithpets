@@ -3138,5 +3138,78 @@
         "icon": "🌧️"
       }
     }
+  },
+  {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/hamburg.jpg",
+    "intro": "Hamburg's 129 designated off-leash zones, dog-welcoming cafés, and Elbe river beaches make it one of Germany's most dog-friendly cities.",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & changeable",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant & mild",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    }
   }
 ]

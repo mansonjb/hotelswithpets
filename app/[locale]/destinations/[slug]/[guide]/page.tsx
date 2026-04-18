@@ -191,7 +191,7 @@ export async function generateMetadata({
   const guideData = cityGuide.guides[guide]
   const title = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : guideData.titleEn
   const intro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : guideData.introEn
-  const description = (intro ?? guideData.introEn).slice(0, 155)
+  const description = (intro ?? guideData.introEn ?? '').slice(0, 155)
 
   return {
     title: `${title ?? guideData.titleEn} | HotelsWithPets.com`,

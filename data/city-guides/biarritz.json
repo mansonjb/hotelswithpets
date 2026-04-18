@@ -145,9 +145,24 @@
           "leashRulesFr": "Chiens tenus en laisse obligatoire partout",
           "leashRulesEs": "Perros con correa obligatoria en todo el recinto",
           "size": "Medium",
-          "features": ["Shaded paths", "Duck pond", "Benches", "Central location"],
-          "featuresFr": ["Allées ombragées", "Mare aux canards", "Bancs", "Situation centrale"],
-          "featuresEs": ["Caminos sombreados", "Estanque con patos", "Bancos", "Ubicación central"],
+          "features": [
+            "Shaded paths",
+            "Duck pond",
+            "Benches",
+            "Central location"
+          ],
+          "featuresFr": [
+            "Allées ombragées",
+            "Mare aux canards",
+            "Bancs",
+            "Situation centrale"
+          ],
+          "featuresEs": [
+            "Caminos sombreados",
+            "Estanque con patos",
+            "Bancos",
+            "Ubicación central"
+          ],
           "bestTimeToVisit": "Early morning (07:00–09:00) for the quietest experience",
           "bestTimeToVisitFr": "Tôt le matin (7h–9h) pour la plus grande tranquillité",
           "bestTimeToVisitEs": "Primera hora de la mañana (07:00–09:00) para mayor tranquilidad",
@@ -165,9 +180,24 @@
           "leashRulesFr": "Chiens tenus en laisse obligatoire — bords de falaise sur tout le parcours",
           "leashRulesEs": "Perros con correa obligatoria — bordes del acantilado en todo el recorrido",
           "size": "Small (short walk)",
-          "features": ["Cliff path", "Atlantic views", "Connects to Rocher de la Vierge", "Sea spray"],
-          "featuresFr": ["Sentier de falaise", "Vues sur l'Atlantique", "Relie au Rocher de la Vierge", "Embruns"],
-          "featuresEs": ["Sendero de acantilado", "Vistas al Atlántico", "Conecta con el Rocher de la Vierge", "Spray marino"],
+          "features": [
+            "Cliff path",
+            "Atlantic views",
+            "Connects to Rocher de la Vierge",
+            "Sea spray"
+          ],
+          "featuresFr": [
+            "Sentier de falaise",
+            "Vues sur l'Atlantique",
+            "Relie au Rocher de la Vierge",
+            "Embruns"
+          ],
+          "featuresEs": [
+            "Sendero de acantilado",
+            "Vistas al Atlántico",
+            "Conecta con el Rocher de la Vierge",
+            "Spray marino"
+          ],
           "bestTimeToVisit": "Late afternoon for the light; stormy days for the drama",
           "bestTimeToVisitFr": "En fin d'après-midi pour la lumière ; les jours de tempête pour le spectacle",
           "bestTimeToVisitEs": "A última hora de la tarde para la luz; los días de tormenta para el espectáculo",
@@ -185,9 +215,24 @@
           "leashRulesFr": "En laisse dans les zones résidentielles ; des tronçons ouverts permettent plus de liberté",
           "leashRulesEs": "Con correa en zonas residenciales; tramos abiertos permiten más libertad",
           "size": "Large",
-          "features": ["GR coastal path access", "Sea views", "Open grassy areas", "Mill landmark"],
-          "featuresFr": ["Accès au GR côtier", "Vues mer", "Espaces herbus ouverts", "Moulin emblématique"],
-          "featuresEs": ["Acceso al GR costero", "Vistas al mar", "Zonas abiertas con hierba", "Molino emblemático"],
+          "features": [
+            "GR coastal path access",
+            "Sea views",
+            "Open grassy areas",
+            "Mill landmark"
+          ],
+          "featuresFr": [
+            "Accès au GR côtier",
+            "Vues mer",
+            "Espaces herbus ouverts",
+            "Moulin emblématique"
+          ],
+          "featuresEs": [
+            "Acceso al GR costero",
+            "Vistas al mar",
+            "Zonas abiertas con hierba",
+            "Molino emblemático"
+          ],
           "bestTimeToVisit": "Morning or evening — the coastal path gets warm in the midday sun",
           "bestTimeToVisitFr": "Matin ou soir — le sentier côtier chauffe en plein soleil de midi",
           "bestTimeToVisitEs": "Mañana o tarde — el sendero costero calienta con el sol del mediodía",
@@ -205,9 +250,24 @@
           "leashRulesFr": "Chiens tenus en laisse obligatoire sur toute la promenade",
           "leashRulesEs": "Perros con correa obligatoria en todo el paseo",
           "size": "Large (linear walk ~3km)",
-          "features": ["Atlantic views", "Cliff-edge path", "Access to multiple beaches", "3km linear route"],
-          "featuresFr": ["Vues sur l'Atlantique", "Chemin en bord de falaise", "Accès à plusieurs plages", "Parcours linéaire de 3 km"],
-          "featuresEs": ["Vistas al Atlántico", "Camino en el borde del acantilado", "Acceso a varias playas", "Recorrido lineal de 3 km"],
+          "features": [
+            "Atlantic views",
+            "Cliff-edge path",
+            "Access to multiple beaches",
+            "3km linear route"
+          ],
+          "featuresFr": [
+            "Vues sur l'Atlantique",
+            "Chemin en bord de falaise",
+            "Accès à plusieurs plages",
+            "Parcours linéaire de 3 km"
+          ],
+          "featuresEs": [
+            "Vistas al Atlántico",
+            "Camino en el borde del acantilado",
+            "Acceso a varias playas",
+            "Recorrido lineal de 3 km"
+          ],
           "bestTimeToVisit": "Sunrise or golden hour for the best light and fewest people",
           "bestTimeToVisitFr": "Au lever du soleil ou à l'heure dorée pour la meilleure lumière et le moins de monde",
           "bestTimeToVisitEs": "Al amanecer o a la hora dorada para la mejor luz y menos gente",
@@ -354,33 +414,34 @@
       "titleEn": "Essential Tips for Visiting Biarritz with a Dog",
       "titleFr": "Conseils essentiels pour visiter Biarritz avec un chien",
       "titleEs": "Consejos esenciales para visitar Biarritz con un perro",
-      "items": [
-        {
-          "tipEn": "Know the beach ban dates. Dogs are banned from the Grande Plage May 15 – September 15 without exception. Beach wardens actively enforce this and fines are issued. Use Plage de la Milady (designated dog zone) or drive 5 minutes to Plage d'Erretegia in Bidart as your year-round alternative.",
-          "tipFr": "Connaissez les dates d'interdiction de plage. Les chiens sont interdits sur la Grande Plage du 15 mai au 15 septembre sans exception. Les surveillants de plage font respecter activement cette règle et des amendes sont dressées. Utilisez la plage de la Milady (zone chien dédiée) ou conduisez 5 minutes jusqu'à la plage d'Erretegia à Bidart comme alternative toute l'année.",
-          "tipEs": "Conoce las fechas de prohibición de playa. Los perros están prohibidos en la Grande Plage del 15 de mayo al 15 de septiembre sin excepción. Los vigilantes de playa hacen cumplir esto activamente y se emiten multas. Usa la Playa de la Milady (zona habilitada para perros) o conduce 5 minutos hasta la Playa de Erretegia en Bidart como alternativa durante todo el año."
-        },
-        {
-          "tipEn": "The Basque Country is dog-friendly by culture. Pintxos bars, cafés, and market stalls routinely welcome dogs. You don't need to research each venue individually — if there's an outdoor terrace, your dog is almost certainly welcome. Ask to be certain, but the default answer is yes.",
-          "tipFr": "Le Pays basque est accueillant pour les chiens par culture. Les bars à pintxos, les cafés et les étals de marché accueillent régulièrement les chiens. Vous n'avez pas besoin de faire des recherches sur chaque établissement individuellement — s'il y a une terrasse extérieure, votre chien est presque certainement le bienvenu. Demandez pour en être sûr, mais la réponse par défaut est oui.",
-          "tipEs": "El País Vasco es culturalmente amigable con los perros. Los bares de pintxos, las cafeterías y los puestos de mercado acogen regularmente a perros. No necesitas investigar cada local individualmente — si hay una terraza exterior, tu perro casi con certeza es bienvenido. Pregunta para asegurarte, pero la respuesta por defecto es sí."
-        },
-        {
-          "tipEn": "For Txik Txak buses, small dogs in a closed carrier travel free. Larger dogs need a taxi or private hire. The town is compact enough that most central sights are walkable, so this only becomes relevant for excursions to Bayonne, Bidart, or St-Jean-de-Luz.",
-          "tipFr": "Pour les bus Txik Txak, les petits chiens dans une caisse fermée voyagent gratuitement. Les chiens plus grands ont besoin d'un taxi ou d'un véhicule de location avec chauffeur. La ville est suffisamment compacte pour que la plupart des sites centraux soient accessibles à pied, donc cela ne devient pertinent que pour les excursions à Bayonne, Bidart ou Saint-Jean-de-Luz.",
-          "tipEs": "Para los autobuses Txik Txak, los perros pequeños en portador cerrado viajan gratis. Los perros grandes necesitan un taxi o vehículo de alquiler. La ciudad es lo suficientemente compacta como para que la mayoría de los lugares del centro sean accesibles a pie, por lo que esto solo es relevante para excursiones a Bayona, Bidart o San Juan de Luz."
-        },
-        {
-          "tipEn": "The Rocher de la Vierge cliff walk and the Phare de Biarritz lighthouse exterior are both open to dogs on leads. These are two of the most photographed spots in Biarritz. Go early morning to avoid crowds and get the best light on the lighthouse and the Atlantic.",
-          "tipFr": "Le chemin de falaise du Rocher de la Vierge et l'extérieur du Phare de Biarritz sont tous deux accessibles aux chiens en laisse. Ce sont deux des endroits les plus photographiés de Biarritz. Venez tôt le matin pour éviter la foule et profiter de la meilleure lumière sur le phare et l'Atlantique.",
-          "tipEs": "El paseo por el acantilado del Rocher de la Vierge y el exterior del Faro de Biarritz están ambos abiertos a perros con correa. Estos son dos de los lugares más fotografiados de Biarritz. Ve temprano por la mañana para evitar las multitudes y obtener la mejor luz sobre el faro y el Atlántico."
-        },
-        {
-          "tipEn": "Surf school parking areas and beach access zones at Milady and Côte des Basques are relaxed about dogs. If you want to watch surf sessions while your dog stretches, these are perfect. Bring water — the Atlantic wind is dehydrating for animals and owners alike.",
-          "tipFr": "Les zones de stationnement des écoles de surf et les zones d'accès à la plage à la Milady et à la Côte des Basques sont tolérantes avec les chiens. Si vous souhaitez regarder des sessions de surf pendant que votre chien se dégourdit les pattes, ce sont des endroits parfaits. Apportez de l'eau — le vent atlantique déshydrate autant les animaux que leurs maîtres.",
-          "tipEs": "Las zonas de aparcamiento de las escuelas de surf y las zonas de acceso a la playa en Milady y Côte des Basques son relajadas con los perros. Si quieres ver sesiones de surf mientras tu perro estira las piernas, estos son lugares perfectos. Trae agua — el viento atlántico deshidrata tanto a los animales como a sus dueños."
-        }
-      ]
+      "introEn": "Practical tips for visiting Biarritz with your dog.",
+      "introFr": "Conseils pratiques pour visiter Biarritz avec votre chien.",
+      "introEs": "Consejos prácticos para visitar Biarritz con tu perro.",
+      "tipsEn": [
+        "Know the beach ban dates. Dogs are banned from the Grande Plage May 15 – September 15 without exception. Beach wardens actively enforce this and fines are issued. Use Plage de la Milady (designated dog zone) or drive 5 minutes to Plage d'Erretegia in Bidart as your year-round alternative.",
+        "The Basque Country is dog-friendly by culture. Pintxos bars, cafés, and market stalls routinely welcome dogs. You don't need to research each venue individually — if there's an outdoor terrace, your dog is almost certainly welcome. Ask to be certain, but the default answer is yes.",
+        "For Txik Txak buses, small dogs in a closed carrier travel free. Larger dogs need a taxi or private hire. The town is compact enough that most central sights are walkable, so this only becomes relevant for excursions to Bayonne, Bidart, or St-Jean-de-Luz.",
+        "The Rocher de la Vierge cliff walk and the Phare de Biarritz lighthouse exterior are both open to dogs on leads. These are two of the most photographed spots in Biarritz. Go early morning to avoid crowds and get the best light on the lighthouse and the Atlantic.",
+        "Surf school parking areas and beach access zones at Milady and Côte des Basques are relaxed about dogs. If you want to watch surf sessions while your dog stretches, these are perfect. Bring water — the Atlantic wind is dehydrating for animals and owners alike."
+      ],
+      "tipsFr": [
+        "Connaissez les dates d'interdiction de plage. Les chiens sont interdits sur la Grande Plage du 15 mai au 15 septembre sans exception. Les surveillants de plage font respecter activement cette règle et des amendes sont dressées. Utilisez la plage de la Milady (zone chien dédiée) ou conduisez 5 minutes jusqu'à la plage d'Erretegia à Bidart comme alternative toute l'année.",
+        "Le Pays basque est accueillant pour les chiens par culture. Les bars à pintxos, les cafés et les étals de marché accueillent régulièrement les chiens. Vous n'avez pas besoin de faire des recherches sur chaque établissement individuellement — s'il y a une terrasse extérieure, votre chien est presque certainement le bienvenu. Demandez pour en être sûr, mais la réponse par défaut est oui.",
+        "Pour les bus Txik Txak, les petits chiens dans une caisse fermée voyagent gratuitement. Les chiens plus grands ont besoin d'un taxi ou d'un véhicule de location avec chauffeur. La ville est suffisamment compacte pour que la plupart des sites centraux soient accessibles à pied, donc cela ne devient pertinent que pour les excursions à Bayonne, Bidart ou Saint-Jean-de-Luz.",
+        "Le chemin de falaise du Rocher de la Vierge et l'extérieur du Phare de Biarritz sont tous deux accessibles aux chiens en laisse. Ce sont deux des endroits les plus photographiés de Biarritz. Venez tôt le matin pour éviter la foule et profiter de la meilleure lumière sur le phare et l'Atlantique.",
+        "Les zones de stationnement des écoles de surf et les zones d'accès à la plage à la Milady et à la Côte des Basques sont tolérantes avec les chiens. Si vous souhaitez regarder des sessions de surf pendant que votre chien se dégourdit les pattes, ce sont des endroits parfaits. Apportez de l'eau — le vent atlantique déshydrate autant les animaux que leurs maîtres."
+      ],
+      "tipsEs": [
+        "Conoce las fechas de prohibición de playa. Los perros están prohibidos en la Grande Plage del 15 de mayo al 15 de septiembre sin excepción. Los vigilantes de playa hacen cumplir esto activamente y se emiten multas. Usa la Playa de la Milady (zona habilitada para perros) o conduce 5 minutos hasta la Playa de Erretegia en Bidart como alternativa durante todo el año.",
+        "El País Vasco es culturalmente amigable con los perros. Los bares de pintxos, las cafeterías y los puestos de mercado acogen regularmente a perros. No necesitas investigar cada local individualmente — si hay una terraza exterior, tu perro casi con certeza es bienvenido. Pregunta para asegurarte, pero la respuesta por defecto es sí.",
+        "Para los autobuses Txik Txak, los perros pequeños en portador cerrado viajan gratis. Los perros grandes necesitan un taxi o vehículo de alquiler. La ciudad es lo suficientemente compacta como para que la mayoría de los lugares del centro sean accesibles a pie, por lo que esto solo es relevante para excursiones a Bayona, Bidart o San Juan de Luz.",
+        "El paseo por el acantilado del Rocher de la Vierge y el exterior del Faro de Biarritz están ambos abiertos a perros con correa. Estos son dos de los lugares más fotografiados de Biarritz. Ve temprano por la mañana para evitar las multitudes y obtener la mejor luz sobre el faro y el Atlántico.",
+        "Las zonas de aparcamiento de las escuelas de surf y las zonas de acceso a la playa en Milady y Côte des Basques son relajadas con los perros. Si quieres ver sesiones de surf mientras tu perro estira las piernas, estos son lugares perfectos. Trae agua — el viento atlántico deshidrata tanto a los animales como a sus dueños."
+      ],
+      "places": [],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Biarritz",

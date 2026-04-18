@@ -145,9 +145,24 @@
           "leashRule": "On leash at all times",
           "leashRuleFr": "En laisse obligatoire",
           "leashRuleEs": "Con correa obligatoria en todo momento",
-          "facilities": ["Water fountains", "Waste bins", "Gravel paths", "Grass areas"],
-          "facilitiesFr": ["Fontaines à eau", "Poubelles", "Allées gravillonnées", "Pelouses"],
-          "facilitiesEs": ["Fuentes de agua", "Papeleras", "Caminos de grava", "Zonas de césped"],
+          "facilities": [
+            "Water fountains",
+            "Waste bins",
+            "Gravel paths",
+            "Grass areas"
+          ],
+          "facilitiesFr": [
+            "Fontaines à eau",
+            "Poubelles",
+            "Allées gravillonnées",
+            "Pelouses"
+          ],
+          "facilitiesEs": [
+            "Fuentes de agua",
+            "Papeleras",
+            "Caminos de grava",
+            "Zonas de césped"
+          ],
           "openingHours": "Daily 06:00–22:30 (summer), 06:00–21:00 (winter)",
           "tip": "Enter from the Avenue Verguin gate and head straight to the lake — it's the most open, dog-friendly section",
           "tipFr": "Entrez par la grille de l'avenue Verguin et allez directement vers le lac — c'est la zone la plus ouverte et dog-friendly",
@@ -166,9 +181,24 @@
           "leashRule": "On leash, flexible enforcement in open grass areas",
           "leashRuleFr": "En laisse, application souple dans les zones de pelouse ouvertes",
           "leashRuleEs": "Con correa, aplicación flexible en zonas de césped abierto",
-          "facilities": ["Drinking fountains", "Dog waste stations", "Wide promenades", "Riverside café terraces"],
-          "facilitiesFr": ["Fontaines d'eau potable", "Stations déjections canines", "Larges promenades", "Terrasses de cafés en bord de rivière"],
-          "facilitiesEs": ["Fuentes de agua potable", "Estaciones de recogida de excrementos", "Amplios paseos", "Terrazas de cafés junto al río"],
+          "facilities": [
+            "Drinking fountains",
+            "Dog waste stations",
+            "Wide promenades",
+            "Riverside café terraces"
+          ],
+          "facilitiesFr": [
+            "Fontaines d'eau potable",
+            "Stations déjections canines",
+            "Larges promenades",
+            "Terrasses de cafés en bord de rivière"
+          ],
+          "facilitiesEs": [
+            "Fuentes de agua potable",
+            "Estaciones de recogida de excrementos",
+            "Amplios paseos",
+            "Terrazas de cafés junto al río"
+          ],
           "openingHours": "Open 24 hours",
           "tip": "Start at Pont de la Guillotière and walk south — the path gets quieter and greener as you go",
           "tipFr": "Commencez au pont de la Guillotière et marchez vers le sud — le chemin devient plus calme et plus verdoyant",
@@ -187,9 +217,24 @@
           "leashRule": "On leash on paths, off leash permitted in meadow areas",
           "leashRuleFr": "En laisse sur les sentiers, sans laisse autorisé dans les prairies",
           "leashRuleEs": "Con correa en los senderos, sin correa permitido en las praderas",
-          "facilities": ["Woodland paths", "Viewpoints", "Meadow areas", "Benches"],
-          "facilitiesFr": ["Sentiers boisés", "Belvédères", "Prairies", "Bancs"],
-          "facilitiesEs": ["Senderos arbolados", "Miradores", "Praderas", "Bancos"],
+          "facilities": [
+            "Woodland paths",
+            "Viewpoints",
+            "Meadow areas",
+            "Benches"
+          ],
+          "facilitiesFr": [
+            "Sentiers boisés",
+            "Belvédères",
+            "Prairies",
+            "Bancs"
+          ],
+          "facilitiesEs": [
+            "Senderos arbolados",
+            "Miradores",
+            "Praderas",
+            "Bancos"
+          ],
           "openingHours": "Open 24 hours",
           "tip": "Take the Montée de la Boucle path up from Croix-Rousse metro — the views open up after 5 minutes of climbing",
           "tipFr": "Prenez la montée de la Boucle depuis le métro Croix-Rousse — les vues s'ouvrent après 5 minutes de montée",
@@ -208,9 +253,21 @@
           "leashRule": "On leash",
           "leashRuleFr": "En laisse",
           "leashRuleEs": "Con correa",
-          "facilities": ["Stone quayside paths", "Shade trees", "Occasional cafés"],
-          "facilitiesFr": ["Chemins de quai en pierre", "Arbres ombragés", "Cafés ponctuels"],
-          "facilitiesEs": ["Caminos de muelle de piedra", "Árboles que dan sombra", "Cafés ocasionales"],
+          "facilities": [
+            "Stone quayside paths",
+            "Shade trees",
+            "Occasional cafés"
+          ],
+          "facilitiesFr": [
+            "Chemins de quai en pierre",
+            "Arbres ombragés",
+            "Cafés ponctuels"
+          ],
+          "facilitiesEs": [
+            "Caminos de muelle de piedra",
+            "Árboles que dan sombra",
+            "Cafés ocasionales"
+          ],
           "openingHours": "Open 24 hours",
           "tip": "Walk from Saint-Paul station toward Île Barbe on a weekday morning for near-total solitude",
           "tipFr": "Marchez depuis la gare Saint-Paul vers l'île Barbe un matin en semaine pour une quasi-solitude totale",
@@ -390,48 +447,13 @@
       "introEn": "Lyon is one of the more dog-friendly large cities in France, but the rules are specific and the etiquette matters. These five tips will make your visit smoother and more enjoyable.",
       "introFr": "Lyon est l'une des grandes villes les plus dog-friendly de France, mais les règles sont précises et l'étiquette compte. Ces cinq conseils rendront votre visite plus fluide et plus agréable.",
       "introEs": "Lyon es una de las ciudades grandes más amigas de los perros en Francia, pero las normas son específicas y la etiqueta importa. Estos cinco consejos harán tu visita más fluida y agradable.",
-      "items": [
-        {
-          "titleEn": "Carry a muzzle for public transport",
-          "titleFr": "Portez une muselière pour les transports en commun",
-          "titleEs": "Lleva un bozal para el transporte público",
-          "textEn": "Large dogs are required to wear a muzzle on buses and trams. Even if your dog has never needed one, having a well-fitted muzzle in your bag avoids any problem with transport inspectors, who do patrol and do enforce the rules. Start muzzle training a few weeks before your trip if your dog isn't accustomed to one.",
-          "textFr": "Les grands chiens doivent porter une muselière dans les bus et les trams. Même si votre chien n'en a jamais eu besoin, avoir une muselière bien ajustée dans votre sac évite tout problème avec les contrôleurs, qui patrouillent et font respecter les règles. Commencez l'entraînement à la muselière quelques semaines avant votre voyage si votre chien n'y est pas habitué.",
-          "textEs": "Los perros grandes deben llevar bozal en autobuses y tranvías. Aunque tu perro nunca haya necesitado uno, tener un bozal bien ajustado en la bolsa evita cualquier problema con los inspectores de transporte, que sí patrullan y sí hacen cumplir las normas. Empieza el entrenamiento con bozal unas semanas antes de tu viaje si tu perro no está acostumbrado."
-        },
-        {
-          "titleEn": "Bring a collapsible water bowl",
-          "titleFr": "Emportez un bol à eau pliable",
-          "titleEs": "Trae un cuenco de agua plegable",
-          "textEn": "While many café terraces and dog-friendly restaurants will bring water, Lyon's parks and the longer riverside walks have limited water points for dogs. In summer heat, a collapsible silicone bowl and a water bottle are essential kit for any walk over 30 minutes. The Tête d'Or park has drinking fountains, but the Berges de Saône and Parc des Hauteurs are less well-equipped.",
-          "textFr": "Bien que de nombreuses terrasses de café et restaurants dog-friendly apportent de l'eau, les parcs de Lyon et les promenades plus longues en bord de rivière offrent peu de points d'eau pour les chiens. Par forte chaleur estivale, un bol en silicone pliable et une bouteille d'eau sont indispensables pour toute balade de plus de 30 minutes. Le parc de la Tête d'Or dispose de fontaines, mais les Berges de la Saône et le Parc des Hauteurs sont moins bien équipés.",
-          "textEs": "Aunque muchas terrazas de café y restaurantes pet-friendly traerán agua, los parques de Lyon y los paseos más largos junto al río tienen puntos de agua limitados para perros. En el calor del verano, un cuenco de silicona plegable y una botella de agua son equipamiento esencial para cualquier paseo de más de 30 minutos. El parque Tête d'Or tiene fuentes, pero las Berges de Saône y el Parc des Hauteurs están menos bien equipados."
-        },
-        {
-          "titleEn": "Vieux-Lyon and the Traboules",
-          "titleFr": "Le Vieux-Lyon et les Traboules",
-          "titleEs": "El Vieux-Lyon y las Traboules",
-          "textEn": "Vieux-Lyon (the UNESCO-listed Renaissance quarter) is fully accessible to dogs on leads in all outdoor streets and squares — it is among the most atmospheric places in France to walk a dog. The Traboules (the famous covered passageways connecting streets through the interiors of buildings) are technically private property; some owners allow dogs, some do not. Ask at the entrance and respect the answer. The main public attractions — Cathédrale Saint-Jean, Place Saint-Jean, Place du Change — are all dog-friendly outdoors.",
-          "textFr": "Le Vieux-Lyon (le quartier Renaissance inscrit à l'UNESCO) est entièrement accessible aux chiens en laisse dans toutes les rues et places extérieures — c'est l'un des endroits les plus atmosphériques de France pour se promener avec son chien. Les Traboules (les fameux passages couverts reliant les rues à travers les intérieurs d'immeubles) sont techniquement des propriétés privées ; certains propriétaires autorisent les chiens, d'autres non. Demandez à l'entrée et respectez la réponse. Les principales attractions publiques — cathédrale Saint-Jean, place Saint-Jean, place du Change — sont toutes dog-friendly en extérieur.",
-          "textEs": "Vieux-Lyon (el barrio renacentista declarado Patrimonio de la UNESCO) es completamente accesible para perros con correa en todas las calles y plazas al aire libre — está entre los lugares más atmosféricos de Francia para pasear un perro. Las Traboules (los famosos pasajes cubiertos que conectan calles a través del interior de los edificios) son técnicamente propiedad privada; algunos propietarios permiten perros, otros no. Pregunta en la entrada y respeta la respuesta. Las principales atracciones públicas — Cathédrale Saint-Jean, Place Saint-Jean, Place du Change — son todas dog-friendly en exteriores."
-        },
-        {
-          "titleEn": "Lyon's markets welcome dogs",
-          "titleFr": "Les marchés de Lyon accueillent les chiens",
-          "titleEs": "Los mercados de Lyon acogen a los perros",
-          "textEn": "The outdoor markets of Lyon — particularly the Croix-Rousse market (daily except Monday), the Marché Saint-Antoine on the Saône quai (daily except Monday), and the Marché de la Création on the Berges du Rhône (Sunday mornings) — are all dog-friendly. Dogs on leads are completely normal and expected. The markets are among the best experiences in Lyon and make excellent morning outings with a dog before the heat of the day.",
-          "textFr": "Les marchés en plein air de Lyon — notamment le marché de la Croix-Rousse (tous les jours sauf le lundi), le marché Saint-Antoine sur le quai de Saône (tous les jours sauf le lundi) et le marché de la Création sur les Berges du Rhône (le dimanche matin) — sont tous dog-friendly. Les chiens en laisse y sont tout à fait normaux et attendus. Les marchés comptent parmi les meilleures expériences de Lyon et constituent d'excellentes sorties matinales avec un chien avant la chaleur de la journée.",
-          "textEs": "Los mercados al aire libre de Lyon — particularmente el mercado de Croix-Rousse (diario excepto lunes), el Marché Saint-Antoine en el muelle del Saona (diario excepto lunes) y el Marché de la Création en las Berges du Rhône (domingo por la mañana) — son todos aptos para perros. Los perros con correa son completamente normales y esperados. Los mercados están entre las mejores experiencias de Lyon y hacen excelentes salidas matutinas con un perro antes del calor del día."
-        },
-        {
-          "titleEn": "Book pet-friendly accommodation in advance",
-          "titleFr": "Réservez un hébergement acceptant les animaux à l'avance",
-          "titleEs": "Reserva alojamiento pet-friendly con antelación",
-          "textEn": "Lyon is a major business and tourism destination. Pet-friendly hotels fill up quickly, especially during the Fête des Lumières (December), the Nuits de Fourvière festival (June–July), and the summer tourist peak. Use the HotelsWithPets filter to find genuinely pet-friendly properties that have been verified — many Lyon hotels technically allow pets but add surcharges or restrict room access. Book early and confirm the pet policy directly with the hotel before you travel.",
-          "textFr": "Lyon est une grande destination d'affaires et de tourisme. Les hôtels acceptant les animaux affichent complet rapidement, surtout lors de la Fête des Lumières (décembre), du festival des Nuits de Fourvière (juin-juillet) et du pic touristique estival. Utilisez le filtre HotelsWithPets pour trouver des hébergements vraiment pet-friendly qui ont été vérifiés — beaucoup d'hôtels lyonnais acceptent techniquement les animaux mais ajoutent des suppléments ou restreignent l'accès aux chambres. Réservez tôt et confirmez la politique animaux directement avec l'hôtel avant de voyager.",
-          "textEs": "Lyon es un gran destino de negocios y turismo. Los hoteles pet-friendly se llenan rápidamente, especialmente durante la Fête des Lumières (diciembre), el festival Nuits de Fourvière (junio-julio) y el pico turístico de verano. Usa el filtro de HotelsWithPets para encontrar alojamientos genuinamente pet-friendly que han sido verificados — muchos hoteles de Lyon técnicamente permiten mascotas pero añaden recargos o restringen el acceso a las habitaciones. Reserva con antelación y confirma la política de mascotas directamente con el hotel antes de viajar."
-        }
-      ]
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "places": [],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Lyon",

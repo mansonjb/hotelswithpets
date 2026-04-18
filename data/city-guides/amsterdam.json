@@ -722,7 +722,11 @@
           "q": "¿Se admiten perros en los museos de Ámsterdam ?",
           "a": "Por lo general no. La mayoría de los museos no permiten la entrada de animales. Algunos jardines exteriores de museos son una excepción. Los perros guía siempre están admitidos. Organiza tus visitas en interiores para los momentos en que tu perro pueda quedarse cómodamente en el hotel."
         }
-      ]
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Amsterdam",
@@ -897,7 +901,13 @@
           "serviceTypeFr": "Réservation via app. Garde, promenade, pension",
           "serviceTypeEs": "Reserva por app. Cuidado, paseos, alojamiento",
           "pricePerDay": "€15–40/day depending on service",
-          "languages": ["English", "Dutch", "French", "Spanish", "German"],
+          "languages": [
+            "English",
+            "Dutch",
+            "French",
+            "Spanish",
+            "German"
+          ],
           "tip": "Book at least 48h in advance in summer. Last-minute availability is limited. Use the filter 'accepts dogs over 25kg' for large breeds",
           "tipFr": "Réservez au moins 48h à l'avance en été. Les disponibilités de dernière minute sont limitées. Utilisez le filtre 'accepte les chiens de plus de 25 kg' pour les grandes races",
           "tipEs": "Reserva con al menos 48h de antelación en verano. La disponibilidad de última hora es limitada. Usa el filtro 'acepta perros de más de 25 kg' para razas grandes"
@@ -913,7 +923,10 @@
           "serviceTypeFr": "Réservation en ligne. Garde, promenade, garderie, pension",
           "serviceTypeEs": "Reserva online. Cuidado, paseos, guardería, alojamiento",
           "pricePerDay": "€12–28/day",
-          "languages": ["English", "Dutch"],
+          "languages": [
+            "English",
+            "Dutch"
+          ],
           "tip": "Message sitters directly before booking to confirm they're comfortable with your dog's size and energy level",
           "tipFr": "Contactez les sitters directement avant de réserver pour confirmer qu'ils sont à l'aise avec la taille et le niveau d'énergie de votre chien",
           "tipEs": "Contacta a los cuidadores directamente antes de reservar para confirmar que se sienten cómodos con el tamaño y nivel de energía de tu perro"

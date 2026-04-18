@@ -144,9 +144,24 @@
           "leashRules": "Off-leash in designated hundeskov zones; on leash elsewhere",
           "leashRulesFr": "Sans laisse dans les zones hundeskov désignées ; en laisse ailleurs",
           "leashRulesEs": "Sin correa en las zonas hundeskov designadas; con correa en el resto",
-          "facilities": ["Designated off-leash zones", "Water fountains", "Benches", "Toilets"],
-          "facilitiesFr": ["Zones sans laisse désignées", "Fontaines d'eau", "Bancs", "Toilettes"],
-          "facilitiesEs": ["Zonas designadas sin correa", "Fuentes de agua", "Bancos", "Aseos"],
+          "facilities": [
+            "Designated off-leash zones",
+            "Water fountains",
+            "Benches",
+            "Toilets"
+          ],
+          "facilitiesFr": [
+            "Zones sans laisse désignées",
+            "Fontaines d'eau",
+            "Bancs",
+            "Toilettes"
+          ],
+          "facilitiesEs": [
+            "Zonas designadas sin correa",
+            "Fuentes de agua",
+            "Bancos",
+            "Aseos"
+          ],
           "tip": "The hundeskov at the northern end near Edel Sunds Vej is the largest and least crowded off-leash area",
           "tipFr": "Le hundeskov à l'extrémité nord près d'Edel Sunds Vej est la plus grande zone sans laisse et la moins fréquentée",
           "tipEs": "El hundeskov en el extremo norte cerca de Edel Sunds Vej es la zona sin correa más grande y menos concurrida",
@@ -163,9 +178,24 @@
           "leashRules": "On leash in Frederiksberg Have; off-leash zones in adjacent Søndermarken",
           "leashRulesFr": "En laisse dans Frederiksberg Have ; zones sans laisse dans le Søndermarken adjacent",
           "leashRulesEs": "Con correa en Frederiksberg Have; zonas sin correa en el adyacente Søndermarken",
-          "facilities": ["Canals and ponds", "Benches", "Café nearby", "Toilets"],
-          "facilitiesFr": ["Canaux et étangs", "Bancs", "Café à proximité", "Toilettes"],
-          "facilitiesEs": ["Canales y estanques", "Bancos", "Café cercano", "Aseos"],
+          "facilities": [
+            "Canals and ponds",
+            "Benches",
+            "Café nearby",
+            "Toilets"
+          ],
+          "facilitiesFr": [
+            "Canaux et étangs",
+            "Bancs",
+            "Café à proximité",
+            "Toilettes"
+          ],
+          "facilitiesEs": [
+            "Canales y estanques",
+            "Bancos",
+            "Café cercano",
+            "Aseos"
+          ],
           "tip": "Enter via the Pile Allé entrance for the most scenic route, then cross into Søndermarken for off-leash time",
           "tipFr": "Entrez par l'entrée Pile Allé pour le parcours le plus panoramique, puis traversez dans Søndermarken pour le temps sans laisse",
           "tipEs": "Entra por la entrada de Pile Allé para la ruta más pintoresca, luego cruza a Søndermarken para el tiempo sin correa",
@@ -182,9 +212,21 @@
           "leashRules": "Dogs on leash at all times",
           "leashRulesFr": "Chiens en laisse en tout temps",
           "leashRulesEs": "Perros con correa en todo momento",
-          "facilities": ["Shaded paths", "Benches", "Historic graves"],
-          "facilitiesFr": ["Chemins ombragés", "Bancs", "Tombes historiques"],
-          "facilitiesEs": ["Caminos sombreados", "Bancos", "Tumbas históricas"],
+          "facilities": [
+            "Shaded paths",
+            "Benches",
+            "Historic graves"
+          ],
+          "facilitiesFr": [
+            "Chemins ombragés",
+            "Bancs",
+            "Tombes historiques"
+          ],
+          "facilitiesEs": [
+            "Caminos sombreados",
+            "Bancos",
+            "Tumbas históricas"
+          ],
           "tip": "Combine with a visit to the Ravnsborggade café strip just outside the northern gate for a full Nørrebro morning with your dog",
           "tipFr": "Combinez avec une visite de la rue des cafés Ravnsborggade juste à l'extérieur de la porte nord pour une matinée complète à Nørrebro avec votre chien",
           "tipEs": "Combínalo con una visita a la calle de los cafés Ravnsborggade justo fuera de la puerta norte para una mañana completa en Nørrebro con tu perro",
@@ -201,9 +243,21 @@
           "leashRules": "Dogs on leash on marked paths; check seasonal rules for wildlife protection areas",
           "leashRulesFr": "Chiens en laisse sur les sentiers balisés ; vérifier les règles saisonnières pour les zones de protection de la faune",
           "leashRulesEs": "Perros con correa en los senderos marcados; consultar las normas estacionales para las zonas de protección de fauna",
-          "facilities": ["Nature trails", "Bird watching areas", "Picnic spots"],
-          "facilitiesFr": ["Sentiers naturels", "Zones d'observation des oiseaux", "Spots pique-nique"],
-          "facilitiesEs": ["Senderos naturales", "Zonas de observación de aves", "Zonas de picnic"],
+          "facilities": [
+            "Nature trails",
+            "Bird watching areas",
+            "Picnic spots"
+          ],
+          "facilitiesFr": [
+            "Sentiers naturels",
+            "Zones d'observation des oiseaux",
+            "Spots pique-nique"
+          ],
+          "facilitiesEs": [
+            "Senderos naturales",
+            "Zonas de observación de aves",
+            "Zonas de picnic"
+          ],
           "tip": "Pair with Amager Strandpark beach (just 15 minutes' walk east) for a full morning of nature and sea",
           "tipFr": "Combinez avec la plage d'Amager Strandpark (à seulement 15 minutes à pied vers l'est) pour une matinée complète de nature et de mer",
           "tipEs": "Combínalo con la playa de Amager Strandpark (a solo 15 minutos a pie hacia el este) para una mañana completa de naturaleza y mar",
@@ -375,49 +429,13 @@
       "introEn": "Copenhagen is one of the most dog-friendly capital cities in Europe, but knowing the local rules, rhythms, and customs before you arrive will make the trip noticeably smoother. Here are the five things every visiting dog owner should know.",
       "introFr": "Copenhague est l'une des capitales européennes les plus accueillantes pour les chiens, mais connaître les règles, les rythmes et les coutumes locaux avant votre arrivée rendra le voyage nettement plus agréable. Voici les cinq choses que tout propriétaire de chien en visite devrait savoir.",
       "introEs": "Copenhague es una de las capitales europeas más amigables para los perros, pero conocer las normas, ritmos y costumbres locales antes de llegar hará el viaje notablemente más fluido. Aquí están las cinco cosas que todo dueño de perro visitante debería saber.",
-      "items": [
-        {
-          "titleEn": "Pooper-scooper rules are strictly enforced",
-          "titleFr": "Les règles de ramassage des déjections sont strictement appliquées",
-          "titleEs": "Las normas de recogida de excrementos se aplican estrictamente",
-          "bodyEn": "Copenhagen takes dog waste management seriously. Bins with free bags are located throughout the city's parks and streets. Failure to clean up after your dog can result in an on-the-spot fine. Always carry bags with you as a backup even where free bags are available.",
-          "bodyFr": "Copenhague prend très au sérieux la gestion des déjections canines. Des poubelles avec des sacs gratuits sont disponibles dans les parcs et les rues de la ville. Ne pas ramasser peut entraîner une amende immédiate. Portez toujours des sacs avec vous en réserve, même là où des sacs gratuits sont disponibles.",
-          "bodyEs": "Copenhague se toma muy en serio la gestión de los excrementos caninos. Hay papeleras con bolsas gratuitas repartidas por los parques y calles de la ciudad. No recoger los excrementos puede resultar en una multa en el acto. Lleva siempre bolsas contigo como respaldo incluso donde hay bolsas gratuitas disponibles."
-        },
-        {
-          "titleEn": "EU Pet Passport required for entry to Denmark",
-          "titleFr": "Le passeport européen pour animaux de compagnie est requis pour entrer au Danemark",
-          "titleEs": "Se requiere Pasaporte Europeo para Mascotas para entrar a Dinamarca",
-          "bodyEn": "Denmark requires dogs entering from EU countries to have a valid EU Pet Passport with proof of rabies vaccination. Dogs from non-EU countries may face additional requirements. Check the Danish Veterinary and Food Administration (fvst.dk) for current entry rules before you travel, as requirements change.",
-          "bodyFr": "Le Danemark exige que les chiens entrant en provenance de pays de l'UE aient un passeport européen valide pour animaux de compagnie avec la preuve d'une vaccination antirabique. Les chiens en provenance de pays non membres de l'UE peuvent être soumis à des exigences supplémentaires. Vérifiez les règles d'entrée actuelles auprès de l'Administration vétérinaire et alimentaire danoise (fvst.dk) avant de voyager, car les exigences changent.",
-          "bodyEs": "Dinamarca requiere que los perros que entren desde países de la UE tengan un Pasaporte Europeo para Mascotas válido con prueba de vacunación antirrábica. Los perros de países no pertenecientes a la UE pueden tener requisitos adicionales. Consulta las normas de entrada actuales en la Administración Veterinaria y Alimentaria Danesa (fvst.dk) antes de viajar, ya que los requisitos cambian."
-        },
-        {
-          "titleEn": "Breed restrictions apply in Denmark",
-          "titleFr": "Des restrictions de races s'appliquent au Danemark",
-          "titleEs": "Se aplican restricciones de razas en Dinamarca",
-          "bodyEn": "Denmark has a list of banned and restricted dog breeds under its Dog Act (Hundeloven). Thirteen breeds are banned outright, including Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, and others. If you are travelling with a breed that might be covered by Danish restrictions, check the current official list at retsinformation.dk before your trip. Restricted dogs found in Denmark can be confiscated.",
-          "bodyFr": "Le Danemark dispose d'une liste de races de chiens interdites et restreintes en vertu de sa loi sur les chiens (Hundeloven). Treize races sont totalement interdites, notamment le Pitbull Terrier, le Tosa Inu, l'American Staffordshire Terrier, et d'autres. Si vous voyagez avec une race susceptible d'être concernée par les restrictions danoises, consultez la liste officielle actuelle sur retsinformation.dk avant votre voyage. Les chiens restreints trouvés au Danemark peuvent être confisqués.",
-          "bodyEs": "Dinamarca tiene una lista de razas de perros prohibidas y restringidas bajo su Ley de Perros (Hundeloven). Trece razas están totalmente prohibidas, incluyendo el Pitbull Terrier, el Tosa Inu, el American Staffordshire Terrier y otros. Si viajas con una raza que pudiera estar cubierta por las restricciones danesas, consulta la lista oficial actualizada en retsinformation.dk antes de tu viaje. Los perros restringidos encontrados en Dinamarca pueden ser confiscados."
-        },
-        {
-          "titleEn": "Tivoli Gardens does not allow dogs",
-          "titleFr": "Tivoli Gardens n'autorise pas les chiens",
-          "titleEs": "Tivoli Gardens no permite perros",
-          "bodyEn": "Copenhagen's most iconic attraction explicitly prohibits dogs inside the park. If your plan includes Tivoli, arrange pet care in advance or book a hotel nearby where staff can watch your dog during your visit. The same applies to most major museums. The canal walk at Nyhavn, the parks, and the beaches are all excellent dog-friendly alternatives.",
-          "bodyFr": "La plus célèbre attraction de Copenhague interdit explicitement les chiens à l'intérieur du parc. Si votre programme inclut Tivoli, organisez la garde de votre animal à l'avance ou réservez un hôtel à proximité dont le personnel peut surveiller votre chien pendant votre visite. Il en va de même pour la plupart des grands musées. La promenade en canal à Nyhavn, les parcs et les plages sont d'excellentes alternatives dog-friendly.",
-          "bodyEs": "La atracción más icónica de Copenhague prohíbe explícitamente los perros dentro del parque. Si tu plan incluye Tivoli, organiza el cuidado de tu mascota con antelación o reserva un hotel cercano donde el personal pueda vigilar a tu perro durante la visita. Lo mismo se aplica a la mayoría de los grandes museos. El paseo por los canales de Nyhavn, los parques y las playas son excelentes alternativas pet-friendly.",
-          "type": "warning"
-        },
-        {
-          "titleEn": "Water is easy to find; shade less so in summer",
-          "titleFr": "L'eau est facile à trouver ; l'ombre un peu moins en été",
-          "titleEs": "El agua es fácil de encontrar; la sombra algo menos en verano",
-          "bodyEn": "Copenhagen's parks are well-equipped with water fountains and many cafés will proactively bring a water bowl for your dog. In summer, however, the city's open design — long harbour promenades, flat parks, exposed beach stretches — can leave dogs overheating quickly. Plan walks for early morning or evening during warmer months, and always carry extra water on days above 20°C.",
-          "bodyFr": "Les parcs de Copenhague sont bien équipés en fontaines à eau et de nombreux cafés apportent proactivement un bol d'eau pour votre chien. En été, cependant, la conception ouverte de la ville — longues promenades portuaires, parcs plats, plages exposées — peut rapidement entraîner une surchauffe des chiens. Planifiez les promenades tôt le matin ou en soirée pendant les mois plus chauds, et portez toujours de l'eau supplémentaire par temps supérieur à 20°C.",
-          "bodyEs": "Los parques de Copenhague están bien equipados con fuentes de agua y muchos cafés traerán proactivamente un cuenco de agua para tu perro. En verano, sin embargo, el diseño abierto de la ciudad — largos paseos marítimos, parques llanos, tramos de playa expuestos — puede hacer que los perros se sobrecalienten rápidamente. Planifica los paseos para primera hora de la mañana o la tarde durante los meses más cálidos, y lleva siempre agua extra en días por encima de 20°C."
-        }
-      ]
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "places": [],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Copenhagen",

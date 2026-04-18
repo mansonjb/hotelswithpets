@@ -1,0 +1,518 @@
+{
+  "slug": "porto",
+  "name": "Porto",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-04-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Porto",
+      "titleFr": "Restaurants acceptant les animaux à Porto",
+      "titleEs": "Restaurantes con mascotas en Oporto",
+      "introEn": "Porto's restaurant culture is built around outdoor life. The Ribeira waterfront, the sun-drenched terraces of Foz do Douro, and the hip neighbourhood cafés of Bonfim have made the city one of Iberia's most relaxed destinations for dining out with a dog. Portuguese attitudes toward pets in restaurants are pragmatic and warm. Terraces are almost universally dog-friendly, and many interiors wave well-behaved dogs through without a second thought. The city's tascas and cervejarias — the traditional taverns and beer halls — have always attracted a local crowd who brings their animals along. What makes Porto especially good for dog owners is the sheer volume of outdoor seating along the Douro river and the Atlantic coast neighbourhood of Foz. Even in winter, Porto's mild climate means terraces stay open and populated. The five places below represent the breadth of Porto's pet-friendly dining scene, from the touristy-but-genuinely-welcoming Ribeira to the authentically local back streets of Bonfim.",
+      "introFr": "La culture de la restauration à Porto est construite autour de la vie en plein air. Les terrasses au bord du Douro sur la Ribeira, les cafés ensoleillés de Foz do Douro et les adresses branchées de Bonfim ont fait de la ville l'une des plus agréables de la péninsule ibérique pour dîner en compagnie d'un chien. L'attitude portugaise envers les animaux dans les restaurants est pragmatique et chaleureuse. Les terrasses sont presque universellement dog-friendly, et de nombreux intérieurs acceptent les chiens bien tenus sans hésiter. Les tascas et cervejarias de la ville — les tavernes et brasseries traditionnelles — ont toujours accueilli des habitués qui viennent avec leurs animaux. Ce qui rend Porto particulièrement agréable pour les propriétaires de chiens, c'est l'abondance de places en terrasse le long du Douro et dans le quartier côtier de Foz. Même en hiver, le climat doux de Porto maintient les terrasses ouvertes et animées. Les cinq adresses ci-dessous illustrent la diversité de la scène dog-friendly portuense, du touristique mais sincèrement accueillant quartier de la Ribeira aux ruelles authentiquement locales de Bonfim.",
+      "introEs": "La cultura gastronómica de Oporto está construida alrededor de la vida al aire libre. Las terrazas frente al río en la Ribeira, los cafés soleados de Foz do Douro y los locales con onda de Bonfim han convertido la ciudad en uno de los destinos más relajados de la península ibérica para salir a comer con un perro. La actitud portuguesa hacia las mascotas en los restaurantes es pragmática y cálida. Las terrazas son casi universalmente dog-friendly, y muchos interiores dejan pasar a los perros bien educados sin pensarlo dos veces. Las tascas y cervejarias de la ciudad — las tabernas y brasseries tradicionales — siempre han atraído a una clientela local que trae a sus animales. Lo que hace a Oporto especialmente bueno para los dueños de perros es la gran cantidad de asientos al aire libre a lo largo del río Duero y en el barrio costero de Foz. Incluso en invierno, el suave clima de Oporto mantiene las terrazas abiertas y concurridas. Los cinco lugares a continuación representan la amplitud de la escena gastronómica pet-friendly de Oporto, desde la turística pero genuinamente acogedora Ribeira hasta las auténticas calles traseras de Bonfim.",
+      "places": [
+        {
+          "name": "Taberna dos Mercadores",
+          "address": "Rua dos Mercadores 36, Porto",
+          "neighborhood": "Ribeira",
+          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tripadvisor.com/Restaurant_Review-g189180-d2259037-Reviews-Taberna_dos_Mercadores-Porto_Porto_District_Northern_Portugal.html",
+          "description": "Tucked into a cobbled street just back from the Ribeira waterfront, Taberna dos Mercadores is the kind of place that defines honest Porto eating. The traditional Portuguese menu — bacalhau com natas, caldo verde, francesinha — is served at wooden tables on a terrace that spills into the medieval street. Dogs are welcome on the terrace and the staff regularly bring out a bowl of water without being asked. The neighbourhood cats and the occasional dog tied outside give the street the feel of a village square rather than a tourist zone.",
+          "descriptionFr": "Nichée dans une rue pavée juste derrière le front de Douro de la Ribeira, la Taberna dos Mercadores est le genre d'endroit qui définit la cuisine honnête de Porto. Le menu traditionnel portugais — bacalhau com natas, caldo verde, francesinha — est servi à des tables en bois sur une terrasse qui déborde dans la rue médiévale. Les chiens sont bienvenus en terrasse et le personnel apporte régulièrement un bol d'eau sans qu'on le demande. Les chats du quartier et les chiens occasionnellement attachés dehors donnent à la rue des airs de place de village plutôt que de zone touristique.",
+          "descriptionEs": "Escondida en una calle empedrada justo detrás del paseo fluvial de la Ribeira, la Taberna dos Mercadores es el tipo de lugar que define la honesta cocina portuense. El menú tradicional portugués — bacalhau com natas, caldo verde, francesinha — se sirve en mesas de madera en una terraza que se derrama sobre la calle medieval. Los perros son bienvenidos en la terraza y el personal suele traer un cuenco de agua sin que se lo pidan. Los gatos del barrio y algún que otro perro atado fuera dan a la calle un aire de plaza de pueblo más que de zona turística.",
+          "petPolicy": "Dogs welcome on terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse",
+          "petPolicyEs": "Perros admitidos en terraza",
+          "priceRange": "€€",
+          "mustTry": "Bacalhau com natas, francesinha",
+          "mustTryFr": "Bacalhau com natas, francesinha",
+          "mustTryEs": "Bacalhau com natas, francesinha",
+          "openingHours": "Mon–Sun 12:00–22:30",
+          "tip": "Arrive before 13:00 for lunch to get terrace seating. The street fills up fast in summer",
+          "tipFr": "Arrivez avant 13h pour le déjeuner afin d'avoir une table en terrasse. La rue se remplit vite en été",
+          "tipEs": "Llega antes de las 13:00 para el almuerzo si quieres terraza. La calle se llena rápido en verano",
+          "googleMapsUrl": "https://maps.google.com/?q=Taberna+dos+Mercadores+Porto"
+        },
+        {
+          "name": "Café do Cais",
+          "address": "Rua da Reboleira 49, Porto",
+          "neighborhood": "Ribeira",
+          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.tripadvisor.com/Restaurant_Review-g189180-d10186543-Reviews-Cafe_Do_Cais-Porto_Porto_District_Northern_Portugal.html",
+          "description": "Café do Cais sits on the lower Ribeira quay with uninterrupted views across the Douro to Vila Nova de Gaia and the wine lodges. The riverside terrace is generous and well-shaded in summer. Dogs are part of the scenery here — you'll regularly see locals walking their dogs along the quay and stopping for a coffee or a glass of vinho verde at the outdoor tables. The grilled fish and seafood are straightforward and well-executed. Come in the late afternoon as the light turns golden on the Dom Luís I Bridge.",
+          "descriptionFr": "Le Café do Cais est situé sur le quai inférieur de la Ribeira avec une vue dégagée sur le Douro jusqu'à Vila Nova de Gaia et ses chais. La terrasse au bord du fleuve est généreuse et bien ombragée en été. Les chiens font partie du décor ici — on voit régulièrement des habitants promener leurs chiens le long du quai et s'arrêter pour un café ou un verre de vinho verde aux tables en plein air. Les poissons et fruits de mer grillés sont simples et bien exécutés. Venez en fin d'après-midi lorsque la lumière devient dorée sur le pont Dom Luís I.",
+          "descriptionEs": "El Café do Cais se asienta en el muelle inferior de la Ribeira con vistas sin obstáculos al Duero hasta Vila Nova de Gaia y sus bodegas. La terraza junto al río es generosa y bien sombreada en verano. Los perros son parte del paisaje aquí — con frecuencia se ven locales paseando a sus perros por el muelle y deteniéndose a tomar un café o una copa de vinho verde en las mesas exteriores. El pescado y el marisco a la plancha son sencillos y bien ejecutados. Ven al final de la tarde cuando la luz se vuelve dorada sobre el Puente Dom Luís I.",
+          "petPolicy": "Dogs welcome on riverside terrace",
+          "petPolicyFr": "Chiens acceptés sur la terrasse au bord du fleuve",
+          "petPolicyEs": "Perros admitidos en la terraza fluvial",
+          "priceRange": "€€",
+          "mustTry": "Grilled sea bass, vinho verde",
+          "mustTryFr": "Bar grillé, vinho verde",
+          "mustTryEs": "Lubina a la plancha, vinho verde",
+          "openingHours": "Mon–Sun 10:00–23:00",
+          "tip": "The riverside tables in the front row fill up fast at sunset — arrive 30 minutes before the light changes",
+          "tipFr": "Les tables en première rangée côté fleuve se remplissent vite au coucher du soleil — arrivez 30 minutes avant",
+          "tipEs": "Las mesas de primera fila junto al río se llenan rápido al atardecer — llega 30 minutos antes",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+do+Cais+Porto+Ribeira"
+        },
+        {
+          "name": "Cantina 32",
+          "address": "Rua das Flores 32, Porto",
+          "neighborhood": "Centro Histórico",
+          "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.cantina32.com/",
+          "description": "Cantina 32 on Rua das Flores is one of Porto's most talked-about casual dining spots, mixing market-fresh ingredients with eclectic decor — reclaimed wood, vintage crockery, industrial lighting. The interior has a welcoming energy that extends to four-legged guests. Dogs are accepted on the ground floor and the small front terrace on the pedestrianized street. The menu changes with the market but reliably features petiscos (Portuguese tapas), excellent house cocktails, and creative daily specials. Popular with Porto's creative class and digital nomads who tend to bring their dogs along.",
+          "descriptionFr": "Cantina 32, sur la Rua das Flores, est l'une des adresses de restauration décontractée les plus appréciées de Porto, associant des ingrédients de marché frais à une décoration éclectique — bois recyclé, vaisselle vintage, éclairage industriel. L'ambiance intérieure chaleureuse s'étend aux invités à quatre pattes. Les chiens sont acceptés au rez-de-chaussée et sur la petite terrasse avant donnant sur la rue piétonne. Le menu change au gré du marché mais propose invariablement des petiscos (tapas portugaises), d'excellents cocktails maison et des plats du jour créatifs. Populaire auprès de la classe créative et des nomades numériques de Porto, qui ont tendance à amener leurs chiens.",
+          "descriptionEs": "Cantina 32, en la Rua das Flores, es uno de los restaurantes informales más comentados de Oporto, combinando ingredientes frescos del mercado con una decoración ecléctica — madera reciclada, vajilla vintage, iluminación industrial. El ambiente interior acogedor se extiende a los invitados de cuatro patas. Los perros son bienvenidos en la planta baja y en la pequeña terraza delantera sobre la calle peatonal. El menú cambia según el mercado pero siempre incluye petiscos (tapas portuguesas), excelentes cócteles de la casa y creativos platos del día. Popular entre la clase creativa y los nómadas digitales de Oporto, que tienden a traer a sus perros.",
+          "petPolicy": "Dogs welcome on ground floor and terrace",
+          "petPolicyFr": "Chiens acceptés au rez-de-chaussée et en terrasse",
+          "petPolicyEs": "Perros admitidos en planta baja y terraza",
+          "priceRange": "€€",
+          "mustTry": "Petiscos selection, daily specials, house cocktails",
+          "mustTryFr": "Sélection de petiscos, plats du jour, cocktails maison",
+          "mustTryEs": "Selección de petiscos, platos del día, cócteles de la casa",
+          "openingHours": "Tue–Sun 12:30–15:30, 19:30–23:00",
+          "tip": "Book ahead for dinner — this place fills quickly and the kitchen closes at 22:30",
+          "tipFr": "Réservez pour le dîner — ce restaurant se remplit vite et la cuisine ferme à 22h30",
+          "tipEs": "Reserva para cenar — este lugar se llena rápido y la cocina cierra a las 22:30",
+          "googleMapsUrl": "https://maps.google.com/?q=Cantina+32+Porto"
+        },
+        {
+          "name": "Café Progresso",
+          "address": "Rua de Bonfim 168, Porto",
+          "neighborhood": "Bonfim",
+          "photo": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.instagram.com/cafeprogresso/",
+          "description": "In the rising neighbourhood of Bonfim, Café Progresso is the definitive local café: small, unpretentious, with a long wooden bar and a handful of outdoor tables on the pavement. Dogs are part of the daily fabric here — the neighbourhood is full of dog owners, and Progresso is their natural meeting point. Excellent galão (Portuguese latte), pastéis de nata from the local pastelaria, and simple toasts. No tourist prices. The kind of place you return to every morning of your Porto stay.",
+          "descriptionFr": "Dans le quartier montant de Bonfim, le Café Progresso est le café local par excellence : petit, sans prétention, avec un long comptoir en bois et quelques tables en terrasse sur le trottoir. Les chiens font partie du tissu quotidien ici — le quartier est plein de propriétaires de chiens, et Progresso est leur point de rendez-vous naturel. Excellent galão (latte portugais), pastéis de nata de la pastelaria locale, et toasts simples. Sans prix touristiques. Le genre d'endroit où l'on revient chaque matin de son séjour à Porto.",
+          "descriptionEs": "En el ascendente barrio de Bonfim, el Café Progresso es el café local por excelencia: pequeño, sin pretensiones, con una larga barra de madera y unas pocas mesas en la acera. Los perros son parte del tejido diario aquí — el barrio está lleno de dueños de perros, y Progresso es su punto de encuentro natural. Excelente galão (latte portugués), pastéis de nata de la pastelaria local, y tostadas sencillas. Sin precios turísticos. El tipo de lugar al que vuelves cada mañana de tu estancia en Oporto.",
+          "petPolicy": "Dogs welcome on pavement terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse sur le trottoir",
+          "petPolicyEs": "Perros admitidos en la terraza de la acera",
+          "priceRange": "€",
+          "mustTry": "Galão, pastel de nata, torrada",
+          "mustTryFr": "Galão, pastel de nata, torrada",
+          "mustTryEs": "Galão, pastel de nata, torrada",
+          "openingHours": "Mon–Sat 07:30–19:00",
+          "tip": "Bonfim is Porto's most dog-friendly neighbourhood overall. Combine with a walk to Parque de São Roque nearby",
+          "tipFr": "Bonfim est le quartier le plus dog-friendly de Porto. À combiner avec une promenade au Parque de São Roque à proximité",
+          "tipEs": "Bonfim es el barrio más dog-friendly de Oporto. Combínalo con un paseo por el cercano Parque de São Roque",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Progresso+Bonfim+Porto"
+        },
+        {
+          "name": "Restaurante Catraio",
+          "address": "Rua de Entreparedes 86, Porto",
+          "neighborhood": "Cedofeita",
+          "photo": "https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.instagram.com/restaurantecatraio/",
+          "description": "Catraio in Cedofeita is Porto's beloved craft beer and petiscos destination. The selection of Portuguese and European craft beers on tap is the best in the city, and the petiscos menu — smoked sausages, cheeses, cured meats, fresh bread — is made for sharing over a long evening. The covered outdoor patio accepts dogs with a smile, and the atmosphere is relaxed, neighbourhood-pub energy. Staff know their regulars' dogs by name. If you're looking for the authentic Porto equivalent of a Belgian beer café, this is it.",
+          "descriptionFr": "Catraio, à Cedofeita, est le temple incontournable de la bière artisanale et des petiscos à Porto. La sélection de bières artisanales portugaises et européennes à la pression est la meilleure de la ville, et le menu de petiscos — saucisses fumées, fromages, charcuteries, pain frais — est fait pour être partagé au cours d'une longue soirée. La terrasse couverte accepte les chiens avec le sourire, et l'atmosphère est détendue, dans l'esprit d'un pub de quartier. Le personnel connaît les chiens des habitués par leur prénom. Si vous cherchez l'équivalent portuense d'un café belge, c'est ici.",
+          "descriptionEs": "Catraio, en Cedofeita, es el amado destino de cerveza artesanal y petiscos de Oporto. La selección de cervezas artesanales portuguesas y europeas de barril es la mejor de la ciudad, y el menú de petiscos — embutidos ahumados, quesos, fiambres, pan fresco — está hecho para compartir en una larga velada. El patio exterior cubierto acepta perros con una sonrisa, y el ambiente es relajado, con energía de pub de barrio. El personal conoce los perros de los habituales por su nombre. Si buscas el equivalente portuense de un café belga de cervezas, este es tu sitio.",
+          "petPolicy": "Dogs welcome on covered outdoor patio",
+          "petPolicyFr": "Chiens acceptés sur la terrasse couverte",
+          "petPolicyEs": "Perros admitidos en el patio exterior cubierto",
+          "priceRange": "€€",
+          "mustTry": "Craft beer flight, smoked chouriço petisco, aged cheese board",
+          "mustTryFr": "Dégustation de bières artisanales, petisco de chouriço fumé, plateau de fromages affinés",
+          "mustTryEs": "Degustación de cervezas artesanales, petisco de chouriço ahumado, tabla de quesos curados",
+          "openingHours": "Tue–Sun 17:00–00:00",
+          "tip": "Check their Instagram for tap list updates — the selection rotates weekly and sells out of rarities fast",
+          "tipFr": "Consultez leur Instagram pour les mises à jour de la liste des bières — la sélection change chaque semaine et les raretés partent vite",
+          "tipEs": "Consulta su Instagram para actualizaciones de la lista de grifos — la selección rota semanalmente y las rarezas se agotan rápido",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Catraio+Porto"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks in Porto",
+      "titleFr": "Parcs acceptant les chiens à Porto",
+      "titleEs": "Parques para perros en Oporto",
+      "introEn": "Porto is well served by green spaces and riverside promenades that make daily dog walking a genuine pleasure. The city's parks range from the vast and semi-wild Parque da Cidade on the Atlantic coast to the manicured garden terraces of Palácio de Cristal overlooking the Douro. Porto does not have a city-wide blanket ban on dogs in parks — most green spaces allow leashed dogs, and Parque da Cidade has large areas where off-leash is tolerated or explicitly permitted. What Porto lacks in dedicated dog runs it makes up for in sheer scale and variety of outdoor space. The four parks below are the most reliable and rewarding options for dog owners visiting the city.",
+      "introFr": "Porto est bien desservie par des espaces verts et des promenades au bord du fleuve qui font de la promenade quotidienne avec un chien un vrai plaisir. Les parcs de la ville vont du vaste et semi-sauvage Parque da Cidade sur la côte atlantique aux jardins en terrasse soignés du Palácio de Cristal surplombant le Douro. Porto n'a pas d'interdiction générale des chiens dans les parcs — la plupart des espaces verts autorisent les chiens tenus en laisse, et le Parque da Cidade dispose de grandes zones où le chien libre est toléré ou explicitement autorisé. Ce qui manque à Porto en aires canines dédiées est compensé par l'étendue et la diversité des espaces extérieurs. Les quatre parcs ci-dessous sont les options les plus fiables et les plus agréables pour les propriétaires de chiens visitant la ville.",
+      "introEs": "Oporto está bien servida por espacios verdes y paseos fluviales que convierten el paseo diario con el perro en un auténtico placer. Los parques de la ciudad van desde el vasto y semi-silvestre Parque da Cidade en la costa atlántica hasta los cuidados jardines en terraza del Palácio de Cristal con vistas al Duero. Oporto no tiene una prohibición general de perros en parques — la mayoría de los espacios verdes permiten perros con correa, y el Parque da Cidade tiene grandes zonas donde se tolera o permite explícitamente ir sin correa. Lo que le falta a Oporto en áreas caninas dedicadas lo compensa con la escala y variedad del espacio exterior. Los cuatro parques a continuación son las opciones más fiables y gratificantes para los dueños de perros que visitan la ciudad.",
+      "places": [
+        {
+          "name": "Parque da Cidade",
+          "address": "Rua de Serralves, Porto",
+          "neighborhood": "Foz do Douro / Nevogilde",
+          "photo": "https://images.unsplash.com/photo-1558618047-f4e20e7a1f51?auto=format&fit=crop&w=800&q=80",
+          "description": "At 83 hectares, Parque da Cidade is the largest urban park in Portugal and one of the best green spaces for dog owners in the country. The park stretches from the inner city all the way to the Atlantic coast at Praia do Ourigo, with lakes, meadows, forest paths, and open grassland. Dogs are welcome throughout, and in most wooded and meadow sections off-leash is commonly practised and tolerated. The sheer size means you can walk for two hours without crossing the same path twice. On weekends the park fills with Porto families and their dogs — it has the feel of a collective city exhale.",
+          "descriptionFr": "Avec ses 83 hectares, le Parque da Cidade est le plus grand parc urbain du Portugal et l'un des meilleurs espaces verts pour les propriétaires de chiens du pays. Le parc s'étend du centre-ville jusqu'à la côte atlantique à Praia do Ourigo, avec des lacs, des prairies, des sentiers forestiers et des pelouses ouvertes. Les chiens sont les bienvenus partout, et dans la plupart des zones boisées et de prairies, le chien libre est couramment pratiqué et toléré. La superficie immense permet de marcher deux heures sans repasser par le même chemin. Le week-end, le parc se remplit de familles portuenses et de leurs chiens — on y ressent comme un soupir collectif de la ville.",
+          "descriptionEs": "Con 83 hectáreas, el Parque da Cidade es el parque urbano más grande de Portugal y uno de los mejores espacios verdes para los dueños de perros del país. El parque se extiende desde el interior de la ciudad hasta la costa atlántica en Praia do Ourigo, con lagos, prados, senderos forestales y praderas abiertas. Los perros son bienvenidos en todo el parque, y en la mayoría de las zonas de bosque y pradera ir sin correa es una práctica habitual y tolerada. La enorme extensión permite caminar durante dos horas sin cruzar el mismo camino dos veces. Los fines de semana el parque se llena de familias portuenses y sus perros — tiene la sensación de un suspiro colectivo de la ciudad.",
+          "petPolicy": "Dogs welcome, off-leash tolerated in meadow and forest areas",
+          "petPolicyFr": "Chiens bienvenus, chien libre toléré dans les zones de prairie et forêt",
+          "petPolicyEs": "Perros bienvenidos, sin correa tolerado en zonas de pradera y bosque",
+          "openingHours": "Daily 08:00–21:00 (varies seasonally)",
+          "tip": "Enter from the Rua de Serralves side for the lake and meadow area. The Atlantic coastal end near Praia do Ourigo is wilder and less crowded",
+          "tipFr": "Entrez par le côté Rua de Serralves pour le lac et les prairies. L'extrémité côtière atlantique près de la Praia do Ourigo est plus sauvage et moins fréquentée",
+          "tipEs": "Entra por el lado de la Rua de Serralves para el lago y la zona de praderas. El extremo costero atlántico cerca de Praia do Ourigo es más salvaje y menos concurrido",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Cidade+Porto"
+        },
+        {
+          "name": "Jardins do Palácio de Cristal",
+          "address": "Rua Dom Manuel II, Porto",
+          "neighborhood": "Massarelos",
+          "photo": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=800&q=80",
+          "description": "The gardens of the Palácio de Cristal are Porto's most scenic park: a terraced green space that climbs above the Douro valley, offering some of the finest river and bridge views in the city. Peacocks roam freely through the gardens (keep dogs on a short lead when peacocks are nearby — they will stand their ground). The gardens are beautifully maintained with rose beds, towering sequoias, and stone fountains. Dogs on leash are welcome throughout. The combination of elevated Douro views, manageable size, and genuine elegance makes this the best park for a shorter, contemplative walk.",
+          "descriptionFr": "Les jardins du Palácio de Cristal sont le parc le plus pittoresque de Porto : un espace vert en terrasse qui s'élève au-dessus de la vallée du Douro, offrant certaines des meilleures vues sur le fleuve et les ponts de la ville. Des paons se promènent librement dans les jardins (gardez votre chien en laisse courte lorsque des paons sont à proximité — ils ne cèdent pas facilement). Les jardins sont magnifiquement entretenus avec des parterres de roses, des séquoias majestueux et des fontaines en pierre. Les chiens en laisse sont bienvenus partout. La combinaison de vues élevées sur le Douro, d'une taille gérable et d'une élégance authentique en fait le meilleur parc pour une promenade courte et contemplative.",
+          "descriptionEs": "Los jardines del Palácio de Cristal son el parque más pintoresco de Oporto: un espacio verde en terrazas que asciende sobre el valle del Duero, ofreciendo algunas de las mejores vistas del río y los puentes de la ciudad. Los pavos reales deambulan libremente por los jardines (mantén al perro con la correa corta cuando haya pavos reales cerca — no se apartan fácilmente). Los jardines están bellamente cuidados con parterres de rosas, imponentes secuoyas y fuentes de piedra. Los perros con correa son bienvenidos en todo el parque. La combinación de vistas elevadas al Duero, tamaño manejable y elegancia genuina lo convierte en el mejor parque para un paseo corto y contemplativo.",
+          "petPolicy": "Dogs on leash welcome throughout",
+          "petPolicyFr": "Chiens en laisse bienvenus partout",
+          "petPolicyEs": "Perros con correa bienvenidos en todo el jardín",
+          "openingHours": "Daily 08:00–21:00 (summer), 08:00–19:00 (winter)",
+          "tip": "The viewpoint terrace on the south side has the best Douro panorama. Go in the late afternoon for the golden light on the river",
+          "tipFr": "La terrasse panoramique côté sud offre le meilleur panorama sur le Douro. Allez-y en fin d'après-midi pour la lumière dorée sur le fleuve",
+          "tipEs": "La terraza mirador del lado sur tiene el mejor panorama del Duero. Ve a última hora de la tarde para la luz dorada sobre el río",
+          "googleMapsUrl": "https://maps.google.com/?q=Jardins+Pal%C3%A1cio+de+Cristal+Porto"
+        },
+        {
+          "name": "Parque de Serralves",
+          "address": "Rua de Serralves 977, Porto",
+          "neighborhood": "Serralves",
+          "photo": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+          "description": "The gardens surrounding the famous Serralves Museum of Contemporary Art are among the finest in Portugal. Art deco formal gardens give way to an English landscape park, a working farm, and woodland trails through towering trees. Dogs on leash are permitted in the gardens (not inside the museum itself). The combination of manicured formal spaces and wilder natural areas makes for a genuinely varied walk. Entry to the gardens requires a ticket (museum ticket also covers gardens, or gardens-only ticket available at the gate).",
+          "descriptionFr": "Les jardins entourant le célèbre Musée d'Art Contemporain de Serralves figurent parmi les plus beaux du Portugal. Des jardins formels Art déco cèdent la place à un parc paysager à l'anglaise, une ferme en activité et des sentiers boisés sous des arbres majestueux. Les chiens en laisse sont autorisés dans les jardins (pas à l'intérieur du musée). La combinaison d'espaces formels soignés et de zones naturelles plus sauvages permet une promenade vraiment variée. L'entrée aux jardins nécessite un ticket (le billet musée comprend les jardins, ou billet jardins seul disponible à l'entrée).",
+          "descriptionEs": "Los jardines que rodean el famoso Museo de Arte Contemporánea de Serralves se encuentran entre los mejores de Portugal. Los jardines formales art déco dan paso a un parque paisajístico inglés, una granja en funcionamiento y senderos forestales entre árboles imponentes. Los perros con correa están permitidos en los jardines (no dentro del museo). La combinación de espacios formales cuidados y zonas naturales más silvestres hace del paseo una experiencia genuinamente variada. La entrada a los jardines requiere entrada (la entrada al museo incluye los jardines, o entrada solo jardines disponible en taquilla).",
+          "petPolicy": "Dogs on leash permitted in gardens (not inside museum)",
+          "petPolicyFr": "Chiens en laisse autorisés dans les jardins (pas à l'intérieur du musée)",
+          "petPolicyEs": "Perros con correa permitidos en los jardines (no dentro del museo)",
+          "openingHours": "Tue–Sun 10:00–19:00 (summer), 10:00–18:00 (winter)",
+          "tip": "Buy the gardens-only ticket if you're just walking your dog. Combined with a visit to nearby Parque da Cidade, it makes for a full morning of walking",
+          "tipFr": "Achetez le billet jardins seul si vous venez uniquement pour promener votre chien. Combiné avec une visite du Parque da Cidade tout proche, cela fait une matinée complète de marche",
+          "tipEs": "Compra la entrada solo jardines si vienes únicamente a pasear. Combinado con una visita al cercano Parque da Cidade, es toda una mañana de paseo",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+de+Serralves+Porto"
+        },
+        {
+          "name": "Jardim do Morro",
+          "address": "Av. da República, Vila Nova de Gaia",
+          "neighborhood": "Vila Nova de Gaia",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "description": "Across the Dom Luís I Bridge in Vila Nova de Gaia, the Jardim do Morro is a small but elevated garden park with the best view of Porto from across the Douro. The terrace looks directly at the Ribeira waterfront, the Dom Luís I Bridge, and the hillside of Porto's historic centre. It's a favourite walk for Gaia residents and their dogs, and the relaxed atmosphere makes it easy to spend an hour here. Easily combined with a walk along the Gaia waterfront and the famous Port wine lodges.",
+          "descriptionFr": "De l'autre côté du pont Dom Luís I, à Vila Nova de Gaia, le Jardim do Morro est un petit parc en hauteur avec la meilleure vue sur Porto depuis l'autre rive du Douro. La terrasse fait face directement au front de Ribeira, au pont Dom Luís I et à la colline du centre historique de Porto. C'est une promenade favorite des habitants de Gaia et de leurs chiens, et l'atmosphère détendue permet d'y passer facilement une heure. Facilement combinable avec une promenade le long du front de mer de Gaia et des célèbres chais.",
+          "descriptionEs": "Al otro lado del Puente Dom Luís I, en Vila Nova de Gaia, el Jardim do Morro es un pequeño jardín elevado con la mejor vista de Oporto desde el otro lado del Duero. La terraza mira directamente al frente fluvial de la Ribeira, al Puente Dom Luís I y a la colina del centro histórico de Oporto. Es un paseo favorito para los residentes de Gaia y sus perros, y el ambiente relajado hace fácil pasar una hora allí. Fácilmente combinable con un paseo por el paseo marítimo de Gaia y las famosas bodegas de vino de Oporto.",
+          "petPolicy": "Dogs on leash welcome",
+          "petPolicyFr": "Chiens en laisse bienvenus",
+          "petPolicyEs": "Perros con correa bienvenidos",
+          "openingHours": "Open access daily",
+          "tip": "Take the upper level of the Dom Luís I Bridge on foot with your dog for the crossing — the views are extraordinary and dogs are permitted on both levels",
+          "tipFr": "Traversez à pied le niveau supérieur du pont Dom Luís I avec votre chien — les vues sont extraordinaires et les chiens sont autorisés sur les deux niveaux",
+          "tipEs": "Cruza a pie el nivel superior del Puente Dom Luís I con tu perro — las vistas son extraordinarias y los perros están permitidos en ambos niveles",
+          "googleMapsUrl": "https://maps.google.com/?q=Jardim+do+Morro+Vila+Nova+de+Gaia"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Porto with Your Pet",
+      "titleFr": "Se déplacer à Porto avec son animal",
+      "titleEs": "Moverse por Oporto con tu mascota",
+      "introEn": "Porto's public transport network is run by two main operators: Metro do Porto (the urban metro) and STCP (surface buses). The rules differ significantly between the two, and it pays to know them before you travel. Small dogs in a carrier are the easiest option for any form of public transport. For larger dogs, taxis and Uber are the most stress-free solution. Porto is also a very walkable city — the historic centre, Ribeira, and many of the main parks are all reachable on foot from central accommodation.",
+      "introFr": "Le réseau de transports en commun de Porto est géré par deux opérateurs principaux : le Metro do Porto (métro urbain) et la STCP (bus de surface). Les règles diffèrent considérablement entre les deux, et il est utile de les connaître avant de se déplacer. Les petits chiens dans un sac de transport sont l'option la plus simple pour tout type de transport en commun. Pour les chiens plus grands, les taxis et Uber sont la solution la moins stressante. Porto est également une ville très agréable à parcourir à pied — le centre historique, la Ribeira et la plupart des principaux parcs sont accessibles à pied depuis les hébergements centraux.",
+      "introEs": "La red de transporte público de Oporto está gestionada por dos operadores principales: el Metro do Porto (el metro urbano) y la STCP (autobuses de superficie). Las normas difieren significativamente entre ambos, y conviene conocerlas antes de viajar. Los perros pequeños en transportín son la opción más sencilla para cualquier tipo de transporte público. Para perros más grandes, los taxis y Uber son la solución menos estresante. Oporto es también una ciudad muy caminable — el centro histórico, la Ribeira y muchos de los principales parques son accesibles a pie desde los alojamientos céntricos.",
+      "rules": [
+        {
+          "mode": "Metro do Porto",
+          "modeFr": "Metro do Porto",
+          "modeEs": "Metro do Porto",
+          "rule": "Small dogs in an enclosed carrier (≤6 kg) travel free. Larger dogs are not permitted on the metro.",
+          "ruleFr": "Les petits chiens dans un sac de transport fermé (≤6 kg) voyagent gratuitement. Les chiens plus grands ne sont pas autorisés dans le métro.",
+          "ruleEs": "Los perros pequeños en transportín cerrado (≤6 kg) viajan gratis. Los perros más grandes no están permitidos en el metro.",
+          "icon": "🚇"
+        },
+        {
+          "mode": "STCP Buses",
+          "modeFr": "Bus STCP",
+          "modeEs": "Autobuses STCP",
+          "rule": "STCP buses are more lenient than the metro. Leashed dogs are generally tolerated at the driver's discretion, particularly outside rush hours. Small dogs in carriers always permitted.",
+          "ruleFr": "Les bus STCP sont plus tolérants que le métro. Les chiens en laisse sont généralement tolérés à la discrétion du chauffeur, particulièrement en dehors des heures de pointe. Les petits chiens en sac de transport sont toujours autorisés.",
+          "ruleEs": "Los autobuses STCP son más tolerantes que el metro. Los perros con correa generalmente se toleran a discreción del conductor, especialmente fuera de las horas punta. Los perros pequeños en transportín siempre están permitidos.",
+          "icon": "🚌"
+        },
+        {
+          "mode": "Tram (Linha 1E)",
+          "modeFr": "Tram (Ligne 1E)",
+          "modeEs": "Tranvía (Línea 1E)",
+          "rule": "The historic tram line running along the Douro waterfront operates similar rules to STCP buses — small dogs in carriers always permitted, larger dogs at driver's discretion.",
+          "ruleFr": "La ligne de tram historique le long du front de Douro applique des règles similaires aux bus STCP — petits chiens en sac de transport toujours autorisés, chiens plus grands à la discrétion du chauffeur.",
+          "ruleEs": "La histórica línea de tranvía a lo largo del paseo fluvial del Duero opera con reglas similares a los autobuses STCP — perros pequeños en transportín siempre permitidos, perros más grandes a discreción del conductor.",
+          "icon": "🚋"
+        },
+        {
+          "mode": "Taxi / Uber",
+          "modeFr": "Taxi / Uber",
+          "modeEs": "Taxi / Uber",
+          "rule": "Taxis and Uber are the most reliable option for larger dogs. Inform the driver before entry. Most accept well-behaved dogs. Uber is widely available in Porto.",
+          "ruleFr": "Les taxis et Uber sont l'option la plus fiable pour les grands chiens. Prévenez le chauffeur avant de monter. La plupart acceptent les chiens bien tenus. Uber est largement disponible à Porto.",
+          "ruleEs": "Los taxis y Uber son la opción más fiable para perros grandes. Informa al conductor antes de entrar. La mayoría acepta perros bien educados. Uber está ampliamente disponible en Oporto.",
+          "icon": "🚕"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Porto",
+      "titleFr": "Plages acceptant les chiens près de Porto",
+      "titleEs": "Playas para perros cerca de Oporto",
+      "introEn": "Porto sits on the Atlantic coast and has several excellent beaches within easy reach, some of which are reliably dog-friendly year-round. Portuguese beach regulations generally permit dogs outside of the official bathing season (June 15 to September 15), and some beaches have dedicated dog sections or year-round access. The three beaches below are the most convenient and consistently dog-friendly options for Porto visitors.",
+      "introFr": "Porto est situé sur la côte atlantique et dispose de plusieurs excellentes plages facilement accessibles, dont certaines sont régulièrement dog-friendly tout au long de l'année. La réglementation portugaise des plages autorise généralement les chiens en dehors de la saison officielle de baignade (du 15 juin au 15 septembre), et certaines plages disposent de sections dédiées ou d'un accès toute l'année. Les trois plages ci-dessous sont les options les plus pratiques et régulièrement dog-friendly pour les visiteurs de Porto.",
+      "introEs": "Oporto se encuentra en la costa atlántica y tiene varias playas excelentes a fácil alcance, algunas de las cuales son de manera fiable dog-friendly durante todo el año. La normativa portuguesa de playas generalmente permite perros fuera de la temporada oficial de baño (del 15 de junio al 15 de septiembre), y algunas playas tienen secciones dedicadas o acceso todo el año. Las tres playas a continuación son las opciones más convenientes y consistentemente dog-friendly para los visitantes de Oporto.",
+      "places": [
+        {
+          "name": "Praia de Matosinhos",
+          "address": "Matosinhos, Porto",
+          "neighborhood": "Matosinhos",
+          "photo": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+          "description": "The closest beach to central Porto and one of the most popular with locals, Praia de Matosinhos is reachable in 20 minutes on the metro (Line A, Matosinhos Sul station). It's a wide, Atlantic-facing beach backed by the fishing port and seafood restaurants of Matosinhos. Dogs are permitted outside the official bathing season and early/late in the day during summer. The beach is very popular with Porto dog owners year-round and has a relaxed, local atmosphere very different from the tourist beaches further south.",
+          "descriptionFr": "La plage la plus proche du centre de Porto et l'une des plus populaires chez les habitants, la Praia de Matosinhos est accessible en 20 minutes de métro (Ligne A, station Matosinhos Sul). C'est une large plage face à l'Atlantique, bordée par le port de pêche et les restaurants de fruits de mer de Matosinhos. Les chiens sont autorisés en dehors de la saison officielle de baignade et tôt le matin ou en soirée en été. La plage est très appréciée des propriétaires de chiens portuenses tout au long de l'année et bénéficie d'une atmosphère détendue et locale, très différente des plages touristiques plus au sud.",
+          "descriptionEs": "La playa más cercana al centro de Oporto y una de las más populares entre los locales, la Praia de Matosinhos es accesible en 20 minutos en metro (Línea A, estación Matosinhos Sul). Es una amplia playa de cara al Atlántico, respaldada por el puerto pesquero y los restaurantes de marisco de Matosinhos. Los perros están permitidos fuera de la temporada oficial de baño y temprano/tarde durante el verano. La playa es muy popular entre los dueños de perros de Oporto durante todo el año y tiene un ambiente relajado y local muy diferente al de las playas turísticas más al sur.",
+          "petPolicy": "Dogs permitted outside bathing season (before June 15 and after Sep 15); early/late hours in summer",
+          "petPolicyFr": "Chiens autorisés hors saison de baignade (avant le 15 juin et après le 15 septembre) ; tôt/tard en été",
+          "petPolicyEs": "Perros permitidos fuera de la temporada de baño (antes del 15 de junio y después del 15 de septiembre); horarios tempranos/tardíos en verano",
+          "distance": "20 min by metro from central Porto",
+          "distanceFr": "20 min en métro depuis le centre de Porto",
+          "distanceEs": "20 min en metro desde el centro de Oporto",
+          "tip": "Combine the beach walk with seafood lunch in Matosinhos — the Rua Heróis de França is lined with excellent grilled fish restaurants that welcome dogs on their terraces",
+          "tipFr": "Combinez la promenade sur la plage avec un déjeuner de fruits de mer à Matosinhos — la Rua Heróis de França est bordée d'excellents restaurants de poisson grillé qui accueillent les chiens en terrasse",
+          "tipEs": "Combina el paseo por la playa con un almuerzo de marisco en Matosinhos — la Rua Heróis de França está bordeada de excelentes restaurantes de pescado a la plancha que aceptan perros en sus terrazas",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Matosinhos"
+        },
+        {
+          "name": "Praia da Madalena",
+          "address": "Madalena, Vila Nova de Gaia",
+          "neighborhood": "Vila Nova de Gaia",
+          "photo": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80",
+          "description": "South of Porto in the municipality of Vila Nova de Gaia, Praia da Madalena has a designated dog-friendly section that is open year-round. This makes it one of the few beaches near Porto where you can take your dog even during the height of summer without restrictions. The beach is quieter and less touristic than Matosinhos, with a pleasant promenade and good parking. Reachable by bus or car from central Porto in around 30 minutes.",
+          "descriptionFr": "Au sud de Porto, dans la municipalité de Vila Nova de Gaia, la Praia da Madalena dispose d'une section réservée aux chiens ouverte toute l'année. C'est l'une des rares plages proches de Porto où vous pouvez emmener votre chien même en plein été sans restrictions. La plage est plus calme et moins touristique que Matosinhos, avec une belle promenade et un bon parking. Accessible en bus ou en voiture depuis le centre de Porto en environ 30 minutes.",
+          "descriptionEs": "Al sur de Oporto, en el municipio de Vila Nova de Gaia, la Praia da Madalena tiene una sección designada para perros abierta todo el año. Esto la convierte en una de las pocas playas cerca de Oporto donde puedes llevar a tu perro incluso en pleno verano sin restricciones. La playa es más tranquila y menos turística que Matosinhos, con un agradable paseo marítimo y buen aparcamiento. Accesible en autobús o coche desde el centro de Oporto en unos 30 minutos.",
+          "petPolicy": "Designated dog-friendly section open year-round",
+          "petPolicyFr": "Zone réservée aux chiens ouverte toute l'année",
+          "petPolicyEs": "Sección designada para perros abierta todo el año",
+          "distance": "30 min by bus or car from central Porto",
+          "distanceFr": "30 min en bus ou en voiture depuis le centre de Porto",
+          "distanceEs": "30 min en autobús o coche desde el centro de Oporto",
+          "tip": "Check the signage on arrival to locate the designated dog zone — it is clearly marked at the southern end of the beach",
+          "tipFr": "Repérez la signalétique à votre arrivée pour trouver la zone réservée aux chiens — elle est clairement indiquée à l'extrémité sud de la plage",
+          "tipEs": "Fíjate en la señalización a la llegada para localizar la zona designada para perros — está claramente marcada en el extremo sur de la playa",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Madalena+Vila+Nova+de+Gaia"
+        },
+        {
+          "name": "Praia de Mindelo",
+          "address": "Mindelo, Vila do Conde",
+          "neighborhood": "Vila do Conde",
+          "photo": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=800&q=80",
+          "description": "Around 30 kilometres north of Porto, Praia de Mindelo is a broad, windswept Atlantic beach known for its natural dune systems and quiet out-of-season atmosphere. Dogs are welcome year-round outside the bathing season and the beach's length and lack of crowds make it ideal for longer off-lead runs in the dune areas. The charming town of Vila do Conde is nearby for lunch. Best reached by car, though the Urbano Norte bus service connects Porto to Vila do Conde.",
+          "descriptionFr": "À environ 30 kilomètres au nord de Porto, la Praia de Mindelo est une large plage atlantique balayée par les vents, connue pour ses systèmes dunaires naturels et son atmosphère tranquille hors saison. Les chiens sont bienvenus toute l'année en dehors de la saison de baignade, et la longueur de la plage et l'absence de foule en font un endroit idéal pour de longues balades en liberté dans les zones de dunes. La charmante ville de Vila do Conde est toute proche pour le déjeuner. Le meilleur accès se fait en voiture, bien que le service de bus Urbano Norte relie Porto à Vila do Conde.",
+          "descriptionEs": "A unos 30 kilómetros al norte de Oporto, la Praia de Mindelo es una amplia playa atlántica azotada por el viento, conocida por sus sistemas dunares naturales y su tranquila atmósfera fuera de temporada. Los perros son bienvenidos durante todo el año fuera de la temporada de baño, y la longitud de la playa y la ausencia de aglomeraciones la hacen ideal para paseos más largos sin correa en las zonas dunares. El encantador pueblo de Vila do Conde está cerca para el almuerzo. Mejor llegar en coche, aunque el servicio de autobús Urbano Norte conecta Oporto con Vila do Conde.",
+          "petPolicy": "Dogs welcome year-round, off-leash in dune areas outside bathing season",
+          "petPolicyFr": "Chiens bienvenus toute l'année, libre dans les zones de dunes hors saison de baignade",
+          "petPolicyEs": "Perros bienvenidos todo el año, sin correa en zonas dunares fuera de temporada de baño",
+          "distance": "30 min by car north of Porto",
+          "distanceFr": "30 min en voiture au nord de Porto",
+          "distanceEs": "30 min en coche al norte de Oporto",
+          "tip": "This beach is best in autumn and winter when it is almost empty. The dune walks are spectacular and your dog will have the run of the place",
+          "tipFr": "Cette plage est à son meilleur en automne et en hiver, quand elle est presque vide. Les promenades dans les dunes sont spectaculaires et votre chien aura tout l'espace pour lui",
+          "tipEs": "Esta playa está en su mejor momento en otoño e invierno, cuando está casi vacía. Los paseos por las dunas son espectaculares y tu perro tendrá todo el espacio para él",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Mindelo+Vila+do+Conde"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Porto",
+      "titleFr": "Vétérinaires d'urgence à Porto",
+      "titleEs": "Veterinarios de urgencia en Oporto",
+      "introEn": "Porto has two well-equipped 24-hour veterinary hospitals for emergencies. Both are staffed by qualified vets around the clock and are used to seeing pets that have been in accidents, eaten something they shouldn't have, or fallen ill overnight. If you have an urgent concern about your pet, call ahead before arriving to let them know you are on your way. For non-urgent consultations, many general practices are open during the day and can be found near most residential neighbourhoods.",
+      "introFr": "Porto dispose de deux hôpitaux vétérinaires bien équipés ouverts 24h/24 pour les urgences. Tous deux sont dotés de vétérinaires qualifiés en permanence et ont l'habitude de prendre en charge des animaux victimes d'accidents, ayant ingéré quelque chose de dangereux ou tombés malades pendant la nuit. En cas d'urgence concernant votre animal, appelez avant d'arriver pour les prévenir. Pour les consultations non urgentes, de nombreux cabinets généralistes sont ouverts en journée dans la plupart des quartiers résidentiels.",
+      "introEs": "Oporto cuenta con dos hospitales veterinarios bien equipados abiertos las 24 horas para urgencias. Ambos están atendidos por veterinarios cualificados a todas horas y están acostumbrados a tratar mascotas que han sufrido accidentes, han ingerido algo que no debían o han enfermado durante la noche. Si tienes una preocupación urgente por tu mascota, llama antes de llegar para avisarles. Para consultas no urgentes, muchas clínicas generales abren durante el día y se encuentran cerca de la mayoría de los barrios residenciales.",
+      "places": [
+        {
+          "name": "Hospital Veterinário do Porto",
+          "address": "Rua da Constituição 290, Porto",
+          "neighborhood": "Paranhos",
+          "phone": "+351 225 106 340",
+          "openingHours": "Open 24 hours, 7 days a week",
+          "openingHoursFr": "Ouvert 24h/24, 7j/7",
+          "openingHoursEs": "Abierto 24 horas, 7 días a la semana",
+          "description": "The Hospital Veterinário do Porto on Rua da Constituição is one of the city's main 24-hour emergency veterinary referral centres. It offers a full range of emergency and specialist services including surgery, imaging, and intensive care. Well-regarded by Porto residents and trusted by local vet practices for referrals.",
+          "descriptionFr": "L'Hospital Veterinário do Porto, sur la Rua da Constituição, est l'un des principaux centres vétérinaires d'urgence et de référence ouverts 24h/24 à Porto. Il offre une gamme complète de services d'urgence et de spécialistes, notamment la chirurgie, l'imagerie et les soins intensifs. Très apprécié des habitants de Porto et utilisé comme centre de référence par les cabinets vétérinaires locaux.",
+          "descriptionEs": "El Hospital Veterinário do Porto, en la Rua da Constituição, es uno de los principales centros veterinarios de urgencias y derivación abiertos las 24 horas en Oporto. Ofrece una gama completa de servicios de urgencia y especialistas, incluyendo cirugía, diagnóstico por imagen y cuidados intensivos. Muy valorado por los residentes de Oporto y utilizado como centro de derivación por las clínicas veterinarias locales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterin%C3%A1rio+do+Porto+Rua+da+Constitui%C3%A7%C3%A3o"
+        },
+        {
+          "name": "Centro Veterinário do Porto",
+          "address": "Rua Antero de Quental 563, Porto",
+          "neighborhood": "Foz do Douro",
+          "phone": "+351 226 107 174",
+          "openingHours": "Open 24 hours, 7 days a week",
+          "openingHoursFr": "Ouvert 24h/24, 7j/7",
+          "openingHoursEs": "Abierto 24 horas, 7 días a la semana",
+          "description": "Located in the Foz do Douro neighbourhood on the Atlantic coast side of Porto, the Centro Veterinário do Porto is a full-service 24-hour emergency vet hospital. Conveniently located for guests staying in the western part of the city near the beaches. Offers emergency consultations, surgery, and hospitalisation.",
+          "descriptionFr": "Situé dans le quartier de Foz do Douro du côté de la côte atlantique de Porto, le Centro Veterinário do Porto est un hôpital vétérinaire d'urgence complet ouvert 24h/24. Idéalement situé pour les visiteurs séjournant dans la partie ouest de la ville, près des plages. Propose des consultations d'urgence, de la chirurgie et des hospitalisations.",
+          "descriptionEs": "Ubicado en el barrio de Foz do Douro, en el lado de la costa atlántica de Oporto, el Centro Veterinário do Porto es un hospital veterinario de urgencias de servicio completo abierto las 24 horas. Convenientemente situado para los huéspedes que se alojan en la parte occidental de la ciudad, cerca de las playas. Ofrece consultas de urgencia, cirugía y hospitalización.",
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterin%C3%A1rio+do+Porto+Foz"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Travelling to Porto with Pets",
+      "titleFr": "Conseils essentiels pour voyager à Porto avec un animal",
+      "titleEs": "Consejos esenciales para viajar a Oporto con mascotas",
+      "introEn": "Porto is one of the most pet-friendly cities in southern Europe, but a little preparation makes the difference between a stressful trip and a great one. The city's cobbled hills, narrow medieval streets, and Atlantic climate each create specific situations that dog owners should be aware of before they arrive.",
+      "introFr": "Porto est l'une des villes les plus accueillantes pour les animaux du sud de l'Europe, mais un peu de préparation fait la différence entre un voyage stressant et un excellent séjour. Les collines pavées, les ruelles médiévales étroites et le climat atlantique de la ville créent chacun des situations spécifiques que les propriétaires de chiens devraient connaître avant d'arriver.",
+      "introEs": "Oporto es una de las ciudades más pet-friendly del sur de Europa, pero un poco de preparación marca la diferencia entre un viaje estresante y uno excelente. Las colinas empedradas, las estrechas calles medievales y el clima atlántico de la ciudad crean situaciones específicas que los dueños de perros deben conocer antes de llegar.",
+      "tipsEn": [
+        "Porto's cobblestone streets (calçada portuguesa) can be rough on paw pads, particularly in the Ribeira and Miragaia areas. Bring paw balm and check your dog's pads daily if you're doing a lot of walking on stone surfaces.",
+        "Dogs under 6 kg in an enclosed carrier travel free on the Metro do Porto. Larger dogs are not permitted on the metro — use STCP buses (more lenient) or Uber/taxi for larger breeds.",
+        "The Atlantic coast climate means Porto can be cool and windy even in summer. Small or short-haired dogs may need a layer in the evening, especially near the beachfront neighbourhoods of Foz and Matosinhos.",
+        "Parque da Cidade (83 ha) is the go-to spot for off-leash exercise. It's easily reachable by bus from the centre (lines 500, 502) or by metro (Parque station on Line B). Arrive early on weekends to find quieter sections.",
+        "If you need a dog-sitter for a museum visit or a dinner without your pet, Rover.pt (also accessible via Rover.com/pt) is the main platform connecting travellers with verified local sitters in Porto. Book in advance during peak season."
+      ],
+      "tipsFr": [
+        "Les pavés de Porto (calçada portuguesa) peuvent être difficiles pour les coussinets, notamment dans les quartiers de la Ribeira et de Miragaia. Emportez du baume pour les pattes et vérifiez les coussinets de votre chien quotidiennement si vous marchez beaucoup sur des surfaces pavées.",
+        "Les chiens de moins de 6 kg dans un sac de transport fermé voyagent gratuitement sur le Metro do Porto. Les chiens plus grands ne sont pas autorisés dans le métro — utilisez les bus STCP (plus tolérants) ou Uber/taxi pour les grandes races.",
+        "Le climat de la côte atlantique fait que Porto peut être frais et venteux même en été. Les chiens petits ou à poil court peuvent avoir besoin d'une couche supplémentaire le soir, surtout près des quartiers côtiers de Foz et Matosinhos.",
+        "Le Parque da Cidade (83 ha) est l'endroit idéal pour l'exercice en liberté. Il est facilement accessible en bus depuis le centre (lignes 500, 502) ou en métro (station Parque sur la Ligne B). Arrivez tôt le week-end pour trouver des zones plus tranquilles.",
+        "Si vous avez besoin d'un gardien pour une visite de musée ou un dîner sans votre animal, Rover.pt (également accessible via Rover.com/pt) est la principale plateforme mettant en relation les voyageurs avec des gardiens locaux vérifiés à Porto. Réservez à l'avance en haute saison."
+      ],
+      "tipsEs": [
+        "Las calles empedradas de Oporto (calçada portuguesa) pueden ser duras para las almohadillas, especialmente en los barrios de la Ribeira y Miragaia. Lleva bálsamo para patas y revisa las almohadillas de tu perro a diario si caminas mucho sobre superficies de piedra.",
+        "Los perros de menos de 6 kg en transportín cerrado viajan gratis en el Metro do Porto. Los perros más grandes no están permitidos en el metro — usa los autobuses STCP (más tolerantes) o Uber/taxi para razas grandes.",
+        "El clima de la costa atlántica hace que Oporto pueda ser fresco y ventoso incluso en verano. Los perros pequeños o de pelo corto pueden necesitar una capa por la tarde, especialmente cerca de los barrios costeros de Foz y Matosinhos.",
+        "El Parque da Cidade (83 ha) es el lugar ideal para el ejercicio sin correa. Es fácilmente accesible en autobús desde el centro (líneas 500, 502) o en metro (estación Parque en la Línea B). Llega temprano los fines de semana para encontrar zonas más tranquilas.",
+        "Si necesitas un cuidador para una visita a un museo o una cena sin tu mascota, Rover.pt (también accesible a través de Rover.com/pt) es la principal plataforma que conecta a los viajeros con cuidadores locales verificados en Oporto. Reserva con antelación en temporada alta."
+      ],
+      "places": []
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Porto",
+      "titleFr": "Attractions acceptant les chiens à Porto",
+      "titleEs": "Atracciones para perros en Oporto",
+      "introEn": "Most of Porto's most memorable experiences happen outdoors — the riverside, the bridge walks, the historic viewpoints — and these are all accessible with a dog. The city's indoor attractions (museums, churches, Livraria Lello) generally do not accept dogs inside, but the exterior experience is often just as rewarding. The three highlights below are the most genuinely dog-friendly and iconic experiences Porto has to offer.",
+      "introFr": "La plupart des expériences les plus mémorables de Porto se déroulent en plein air — au bord du fleuve, sur les ponts, depuis les belvédères historiques — et toutes sont accessibles avec un chien. Les attractions intérieures de la ville (musées, églises, Livraria Lello) n'acceptent généralement pas les chiens, mais l'expérience extérieure est souvent tout aussi gratifiante. Les trois incontournables ci-dessous sont les expériences les plus véritablement dog-friendly et iconiques que Porto a à offrir.",
+      "introEs": "La mayoría de las experiencias más memorables de Oporto ocurren al aire libre — junto al río, en los paseos por los puentes, desde los miradores históricos — y todas son accesibles con un perro. Las atracciones de interior de la ciudad (museos, iglesias, Livraria Lello) generalmente no aceptan perros dentro, pero la experiencia exterior es a menudo igual de gratificante. Los tres puntos destacados a continuación son las experiencias más genuinamente dog-friendly e icónicas que Oporto tiene para ofrecer.",
+      "places": [
+        {
+          "name": "Dom Luís I Bridge Walk",
+          "address": "Ponte Dom Luís I, Porto",
+          "neighborhood": "Ribeira / Vila Nova de Gaia",
+          "photo": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=800&q=80",
+          "description": "Walking the Dom Luís I Bridge is one of Porto's great free experiences and entirely dog-friendly on both levels. The upper level (used by the metro and pedestrians) offers the most dramatic views — the Douro gorge below, the Ribeira waterfront, the wine lodge rooftops of Gaia, and the Atlantic on the horizon. Dogs must be on a lead. The lower level connects the Ribeira directly to the Gaia waterfront and is a busier, more accessible crossing. Both provide extraordinary photo opportunities with your dog.",
+          "descriptionFr": "Traverser le pont Dom Luís I est l'une des grandes expériences gratuites de Porto et est entièrement accessible aux chiens sur les deux niveaux. Le niveau supérieur (utilisé par le métro et les piétons) offre les vues les plus spectaculaires — les gorges du Douro en contrebas, le front de la Ribeira, les toits des chais de Gaia et l'Atlantique à l'horizon. Les chiens doivent être tenus en laisse. Le niveau inférieur relie directement la Ribeira au front de mer de Gaia et est un passage plus fréquenté et plus accessible. Les deux offrent d'extraordinaires opportunités de photos avec votre chien.",
+          "descriptionEs": "Cruzar el Puente Dom Luís I es una de las grandes experiencias gratuitas de Oporto y es completamente dog-friendly en ambos niveles. El nivel superior (usado por el metro y los peatones) ofrece las vistas más dramáticas — el desfiladero del Duero abajo, el frente fluvial de la Ribeira, los tejados de las bodegas de Gaia y el Atlántico en el horizonte. Los perros deben ir con correa. El nivel inferior conecta directamente la Ribeira con el paseo marítimo de Gaia y es un cruce más concurrido y accesible. Ambos ofrecen extraordinarias oportunidades fotográficas con tu perro.",
+          "petPolicy": "Dogs on lead permitted on both levels",
+          "petPolicyFr": "Chiens en laisse autorisés sur les deux niveaux",
+          "petPolicyEs": "Perros con correa permitidos en ambos niveles",
+          "tip": "Cross at the upper level going east (Porto to Gaia) and return on the lower level. The loop is one of the best short walks in the city",
+          "tipFr": "Traversez au niveau supérieur en direction est (Porto vers Gaia) et revenez au niveau inférieur. Cette boucle est l'une des meilleures courtes promenades de la ville",
+          "tipEs": "Cruza por el nivel superior hacia el este (Porto a Gaia) y vuelve por el nivel inferior. El bucle es uno de los mejores paseos cortos de la ciudad",
+          "googleMapsUrl": "https://maps.google.com/?q=Ponte+Dom+Lu%C3%ADs+I+Porto"
+        },
+        {
+          "name": "Ribeira Waterfront",
+          "address": "Cais da Ribeira, Porto",
+          "neighborhood": "Ribeira",
+          "photo": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=800&q=80",
+          "description": "The Ribeira waterfront is Porto's most famous street scene and one of the best riverside walks in Europe. The narrow quayside along the Douro — colourful medieval townhouses rising directly from the water, rabelo boats moored in the river, the Dom Luís I Bridge overhead — is entirely accessible with dogs. The outdoor terrace restaurants along the quay all welcome dogs at their tables. This is where Porto feels most like itself: chaotic, photogenic, alive, and deeply welcoming. Walk the full length from the Alfândega building to the foot of the bridge for the complete experience.",
+          "descriptionFr": "Le front de Ribeira est la scène de rue la plus célèbre de Porto et l'une des meilleures promenades au bord d'un fleuve en Europe. Le quai étroit le long du Douro — maisons médiévales colorées surgissant directement de l'eau, bateaux rabelos amarrés dans le fleuve, pont Dom Luís I en surplomb — est entièrement accessible avec des chiens. Les restaurants en terrasse le long du quai accueillent tous les chiens à leurs tables. C'est ici que Porto se ressent le plus elle-même : chaotique, photogénique, vivante et profondément accueillante. Parcourez toute la longueur, du bâtiment de l'Alfândega jusqu'au pied du pont, pour vivre l'expérience complète.",
+          "descriptionEs": "El paseo fluvial de la Ribeira es la escena callejera más famosa de Oporto y uno de los mejores paseos fluviales de Europa. El estrecho muelle a lo largo del Duero — casas medievales de colores que surgen directamente del agua, barcos rabelo amarrados en el río, el Puente Dom Luís I sobre la cabeza — es completamente accesible con perros. Los restaurantes con terraza a lo largo del muelle dan la bienvenida a los perros en sus mesas. Aquí es donde Oporto más se parece a sí misma: caótica, fotogénica, viva y profundamente acogedora. Camina toda la longitud desde el edificio de la Alfândega hasta el pie del puente para la experiencia completa.",
+          "petPolicy": "Dogs welcome throughout on lead; terrace restaurants generally dog-friendly",
+          "petPolicyFr": "Chiens bienvenus partout en laisse ; restaurants en terrasse généralement dog-friendly",
+          "petPolicyEs": "Perros bienvenidos en todo el paseo con correa; restaurantes con terraza generalmente dog-friendly",
+          "tip": "Walk the Ribeira early in the morning (before 09:00) for the quietest experience. By 10:00 the tour groups arrive and the quay becomes very busy",
+          "tipFr": "Promenez-vous sur la Ribeira tôt le matin (avant 9h) pour la plus grande tranquillité. Dès 10h, les groupes de touristes arrivent et le quai devient très animé",
+          "tipEs": "Pasea por la Ribeira temprano por la mañana (antes de las 09:00) para la experiencia más tranquila. A las 10:00 llegan los grupos turísticos y el muelle se vuelve muy concurrido",
+          "googleMapsUrl": "https://maps.google.com/?q=Cais+da+Ribeira+Porto"
+        },
+        {
+          "name": "Livraria Lello — Exterior & Queue Area",
+          "address": "Rua das Carmelitas 144, Porto",
+          "neighborhood": "Centro Histórico",
+          "photo": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=800&q=80",
+          "description": "Livraria Lello is widely considered one of the most beautiful bookshops in the world, and while dogs are not permitted inside, the exterior and the queue area outside are dog-friendly. The neo-Gothic façade on Rua das Carmelitas is one of Porto's most photographed spots, and your dog will be the only four-legged visitor in the queue line. Combine with a walk along Rua das Flores (the nearby pedestrian street) and a coffee at Cantina 32. Book your entry ticket online in advance to skip most of the wait.",
+          "descriptionFr": "La Livraria Lello est largement considérée comme l'une des plus belles librairies du monde et, bien que les chiens ne soient pas autorisés à l'intérieur, l'extérieur et la zone de file d'attente sont dog-friendly. La façade néo-gothique de la Rua das Carmelitas est l'un des endroits les plus photographiés de Porto, et votre chien sera le seul visiteur à quatre pattes dans la file d'attente. À combiner avec une promenade sur la Rua das Flores (la rue piétonne voisine) et un café au Cantina 32. Réservez votre billet en ligne à l'avance pour éviter la majeure partie de l'attente.",
+          "descriptionEs": "La Livraria Lello está ampliamente considerada una de las librerías más bellas del mundo y, aunque los perros no están permitidos en el interior, el exterior y la zona de cola son dog-friendly. La fachada neogótica de la Rua das Carmelitas es uno de los lugares más fotografiados de Oporto, y tu perro será el único visitante de cuatro patas en la cola. Combínalo con un paseo por la Rua das Flores (la calle peatonal cercana) y un café en Cantina 32. Reserva tu entrada en línea con antelación para saltarte la mayor parte de la espera.",
+          "petPolicy": "Dogs allowed in exterior and queue area; not permitted inside the bookshop",
+          "petPolicyFr": "Chiens autorisés en extérieur et dans la zone de file d'attente ; non autorisés à l'intérieur de la librairie",
+          "petPolicyEs": "Perros permitidos en el exterior y zona de cola; no permitidos dentro de la librería",
+          "tip": "If one person in your group wants to go inside, the other can wait outside with the dog — there is a pleasant café area on the street nearby",
+          "tipFr": "Si une personne de votre groupe souhaite entrer, l'autre peut attendre dehors avec le chien — il y a une agréable zone de café dans la rue à proximité",
+          "tipEs": "Si alguien de tu grupo quiere entrar, el otro puede esperar fuera con el perro — hay una agradable zona de café en la calle cercana",
+          "googleMapsUrl": "https://maps.google.com/?q=Livraria+Lello+Porto"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Care in Porto",
+      "titleFr": "Garde d'animaux à Porto",
+      "titleEs": "Cuidado de mascotas en Oporto",
+      "introEn": "Porto has a growing community of pet-sitters and dog walkers, and the main platform for finding them is Rover.pt (also accessible at Rover.com/pt). The service works the same way as in other European cities — create an account, search by neighbourhood and dates, read reviews, and book a verified local sitter. Prices in Porto are generally lower than in western European capitals. For day trips to Douro Valley wineries or visits to indoor attractions like Serralves Museum, having a trusted local sitter for a few hours is a worthwhile investment.",
+      "introFr": "Porto dispose d'une communauté croissante de gardiens d'animaux et de promeneurs de chiens, et la principale plateforme pour les trouver est Rover.pt (également accessible sur Rover.com/pt). Le service fonctionne de la même manière que dans les autres villes européennes — créez un compte, recherchez par quartier et par dates, lisez les avis et réservez un gardien local vérifié. Les prix à Porto sont généralement inférieurs à ceux des capitales d'Europe occidentale. Pour les excursions d'une journée dans les vignobles de la Vallée du Douro ou les visites d'attractions intérieures comme le Musée Serralves, confier son animal à un gardien local de confiance pendant quelques heures est un investissement rentable.",
+      "introEs": "Oporto cuenta con una creciente comunidad de cuidadores de mascotas y paseadores de perros, y la principal plataforma para encontrarlos es Rover.pt (también accesible en Rover.com/pt). El servicio funciona igual que en otras ciudades europeas — crea una cuenta, busca por barrio y fechas, lee las reseñas y reserva un cuidador local verificado. Los precios en Oporto son generalmente más bajos que en las capitales de Europa occidental. Para excursiones de un día a las bodegas del Valle del Duero o visitas a atracciones de interior como el Museo Serralves, contar con un cuidador local de confianza durante unas horas es una inversión que vale la pena.",
+      "places": [
+        {
+          "name": "Rover.pt",
+          "address": "Online platform — Porto-wide coverage",
+          "addressFr": "Plateforme en ligne — couverture dans tout Porto",
+          "addressEs": "Plataforma online — cobertura en todo Oporto",
+          "website": "https://www.rover.com/pt/",
+          "description": "Rover.pt is Portugal's leading pet-sitting and dog-walking platform. Sitters are background-checked and reviewed. Services include drop-in visits, day care, overnight stays, and dog walking. Coverage is good across central Porto and the western neighbourhoods of Foz and Matosinhos. Booking through the app is straightforward and payment is handled online.",
+          "descriptionFr": "Rover.pt est la principale plateforme de garde d'animaux et de promenade de chiens au Portugal. Les gardiens sont vérifiés et évalués par les utilisateurs. Les services comprennent les visites ponctuelles, la garde de jour, les nuits et les promenades. La couverture est bonne dans le centre de Porto et les quartiers ouest de Foz et Matosinhos. La réservation via l'application est simple et le paiement est géré en ligne.",
+          "descriptionEs": "Rover.pt es la principal plataforma de cuidado de mascotas y paseo de perros en Portugal. Los cuidadores están verificados y reseñados por los usuarios. Los servicios incluyen visitas puntuales, cuidado diurno, estancias nocturnas y paseos. La cobertura es buena en el centro de Oporto y los barrios occidentales de Foz y Matosinhos. La reserva a través de la aplicación es sencilla y el pago se gestiona en línea.",
+          "petPolicy": "All sizes and breeds welcome; filter by pet type and service needed",
+          "petPolicyFr": "Toutes tailles et races acceptées ; filtrez par type d'animal et service souhaité",
+          "petPolicyEs": "Todos los tamaños y razas bienvenidos; filtra por tipo de mascota y servicio necesario",
+          "tip": "Book at least 3–5 days in advance during summer and Easter week when demand from tourists and locals peaks simultaneously",
+          "tipFr": "Réservez au moins 3 à 5 jours à l'avance en été et pendant la semaine de Pâques, lorsque la demande des touristes et des locaux atteint son pic simultanément",
+          "tipEs": "Reserva con al menos 3-5 días de antelación durante el verano y la Semana Santa, cuando la demanda de turistas y locales alcanza su máximo simultáneamente",
+          "googleMapsUrl": "https://maps.google.com/?q=Porto+Portugal"
+        }
+      ]
+    },
+    "faqs": {
+      "titleEn": "Frequently Asked Questions — Porto with Pets",
+      "titleFr": "Questions fréquentes — Porto avec des animaux",
+      "titleEs": "Preguntas frecuentes — Oporto con mascotas",
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Porto metro?",
+          "a": "Small dogs in an enclosed carrier weighing 6 kg or less travel free on the Metro do Porto. Larger dogs are not permitted on metro trains. For larger dogs, STCP buses are a more lenient option (at the driver's discretion outside rush hours), or use Uber or taxi."
+        },
+        {
+          "q": "Are there dog-friendly beaches near Porto?",
+          "a": "Yes. Praia de Matosinhos (20 min by metro) and Praia de Mindelo (30 min north by car) are dog-friendly year-round outside the official bathing season (June 15 – September 15). Praia da Madalena in Vila Nova de Gaia has a designated dog section open year-round even in summer."
+        },
+        {
+          "q": "Where is the best place in Porto to let my dog run off-leash?",
+          "a": "Parque da Cidade is the best option — at 83 hectares it is Portugal's largest urban park and off-leash is commonly practised and tolerated in the meadow and forest areas. Arrive early on weekends to find quieter sections. Always be ready to leash up if asked by other park users."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre mon chien dans le métro de Porto ?",
+          "a": "Les petits chiens dans un sac de transport fermé pesant 6 kg ou moins voyagent gratuitement sur le Metro do Porto. Les chiens plus grands ne sont pas autorisés dans les rames de métro. Pour les grands chiens, les bus STCP sont une option plus tolérante (à la discrétion du chauffeur en dehors des heures de pointe), ou utilisez Uber ou un taxi."
+        },
+        {
+          "q": "Y a-t-il des plages accessibles aux chiens près de Porto ?",
+          "a": "Oui. La Praia de Matosinhos (20 min en métro) et la Praia de Mindelo (30 min au nord en voiture) sont accessibles aux chiens toute l'année en dehors de la saison officielle de baignade (15 juin – 15 septembre). La Praia da Madalena à Vila Nova de Gaia dispose d'une zone réservée aux chiens ouverte toute l'année, même en été."
+        },
+        {
+          "q": "Où est le meilleur endroit à Porto pour laisser mon chien courir en liberté ?",
+          "a": "Le Parque da Cidade est la meilleure option — avec ses 83 hectares, c'est le plus grand parc urbain du Portugal et le chien libre est couramment pratiqué et toléré dans les zones de prairie et de forêt. Arrivez tôt le week-end pour trouver des zones plus tranquilles. Soyez toujours prêt à remettre la laisse si d'autres usagers du parc vous le demandent."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el metro de Oporto?",
+          "a": "Los perros pequeños en transportín cerrado que pesen 6 kg o menos viajan gratis en el Metro do Porto. Los perros más grandes no están permitidos en los trenes de metro. Para perros grandes, los autobuses STCP son una opción más tolerante (a discreción del conductor fuera de las horas punta), o usa Uber o taxi."
+        },
+        {
+          "q": "¿Hay playas para perros cerca de Oporto?",
+          "a": "Sí. La Praia de Matosinhos (20 min en metro) y la Praia de Mindelo (30 min al norte en coche) son dog-friendly todo el año fuera de la temporada oficial de baño (15 de junio – 15 de septiembre). La Praia da Madalena en Vila Nova de Gaia tiene una sección designada para perros abierta todo el año, incluso en verano."
+        },
+        {
+          "q": "¿Cuál es el mejor lugar en Oporto para dejar correr a mi perro sin correa?",
+          "a": "El Parque da Cidade es la mejor opción — con 83 hectáreas es el parque urbano más grande de Portugal y ir sin correa es una práctica habitual y tolerada en las zonas de pradera y bosque. Llega temprano los fines de semana para encontrar zonas más tranquilas. Prepárate siempre para poner la correa si otros usuarios del parque te lo piden."
+        }
+      ]
+    }
+  }
+}

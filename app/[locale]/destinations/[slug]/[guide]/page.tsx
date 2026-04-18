@@ -657,8 +657,8 @@ export default async function GuideDetailPage({
         {/* ── Transport rules table ── */}
         {guideData.rules && guideData.rules.length > 0 && (
           <section className="mb-12">
-            <div className="overflow-hidden rounded-2xl border border-gray-200">
-              <table className="w-full text-sm">
+            <div className="overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full text-sm min-w-[600px]">
                 <thead className="bg-gray-50">
                   <tr>
                     <th className="text-left px-4 py-3 font-semibold text-gray-700 w-1/4">{ui.modeHeader}</th>

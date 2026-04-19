@@ -3140,39 +3140,39 @@
     }
   },
   {
-    "slug": "hamburg",
-    "name": "Hamburg",
-    "country": "Germany",
-    "flag": "🇩🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/hamburg.jpg",
-    "intro": "Hamburg's 129 designated off-leash zones, dog-welcoming cafés, and Elbe river beaches make it one of Germany's most dog-friendly cities.",
-    "lat": 53.5511,
-    "lng": 9.9937,
+    "slug": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/london.jpg",
+    "intro": "With nearly half of households owning a dog and hundreds of dog-welcoming pubs and parks, London is one of Europe's most naturally pet-friendly capitals — from Hyde Park's off-leash zones to Bermondsey's dog-friendly restaurant strip.",
+    "lat": 51.5074,
+    "lng": -0.1278,
     "weather": {
       "jan": {
-        "temp": 3,
-        "desc": "Cold & rainy",
+        "temp": 6,
+        "desc": "Cold & grey",
         "icon": "🌧️"
       },
       "feb": {
-        "temp": 3,
-        "desc": "Cold & overcast",
-        "icon": "🌧️"
+        "temp": 7,
+        "desc": "Cool & cloudy",
+        "icon": "🌥️"
       },
       "mar": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
       },
       "apr": {
-        "temp": 10,
-        "desc": "Mild & changeable",
-        "icon": "⛅"
+        "temp": 12,
+        "desc": "Mild showers",
+        "icon": "🌦️"
       },
       "may": {
         "temp": 15,
-        "desc": "Pleasant & mild",
+        "desc": "Pleasant",
         "icon": "⛅"
       },
       "jun": {
@@ -3181,33 +3181,33 @@
         "icon": "☀️"
       },
       "jul": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "🌤️"
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "☀️"
       },
       "aug": {
         "temp": 20,
         "desc": "Warm & sunny",
-        "icon": "🌤️"
+        "icon": "☀️"
       },
       "sep": {
-        "temp": 16,
+        "temp": 17,
         "desc": "Mild & pleasant",
-        "icon": "⛅"
+        "icon": "🌤️"
       },
       "oct": {
-        "temp": 12,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
+        "temp": 13,
+        "desc": "Cooling down",
+        "icon": "🌥️"
       },
       "nov": {
-        "temp": 7,
+        "temp": 9,
         "desc": "Cool & rainy",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 3,
-        "desc": "Cold & rainy",
+        "temp": 6,
+        "desc": "Cold & festive",
         "icon": "🌧️"
       }
     }

@@ -237,6 +237,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
       area: 'the Old Town (Altstadt), Schallmoos, and Mülln',
     },
+    london: {
+      personality: 'one of Europe\'s most naturally pet-friendly capitals, where dogs accompany their owners into pubs, cafés, and across vast royal parks year-round',
+      highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
+      area: 'Islington, Notting Hill, and Bermondsey',
+    },
   },
   fr: {
     amsterdam: {
@@ -454,6 +459,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc de Hellbrunn, le chemin riverain de la Salzach et les sentiers de la colline du Kapuzinerberg',
       area: 'la Vieille Ville (Altstadt), Schallmoos et Mülln',
     },
+    london: {
+      personality: 'l\'une des capitales les plus naturellement accueillantes pour les animaux d\'Europe, où les chiens accompagnent leurs propriétaires dans les pubs, cafés et à travers de vastes parcs royaux toute l\'année',
+      highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
+      area: 'Islington, Notting Hill et Bermondsey',
+    },
   },
   es: {
     amsterdam: {
@@ -670,6 +680,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una compacta ciudad alpina donde la arquitectura de la época de Mozart, los prados ondulados y las montañas del Salzkammergut circundante crean un escenario mágico para viajar con mascotas',
       highlight: 'el parque de Hellbrunn, el sendero ribereño del Salzach y los senderos de la colina del Kapuzinerberg',
       area: 'el Casco Antiguo (Altstadt), Schallmoos y Mülln',
+    },
+    london: {
+      personality: 'una de las capitales más naturalmente acogedoras con mascotas de Europa, donde los perros acompañan a sus dueños en pubs, cafés y a través de vastos parques reales durante todo el año',
+      highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
+      area: 'Islington, Notting Hill y Bermondsey',
     },
   },
 }

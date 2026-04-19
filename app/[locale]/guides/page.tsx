@@ -250,26 +250,7 @@ export default async function GuidesIndexPage({
           ))}
         </div>
 
-        {/* Coming soon */}
-        <div>
-          <h2 className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">{copy.comingSoon}</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-            {copy.comingSoonGuides.map((guide) => (
-              <div
-                key={guide.title}
-                className="bg-white rounded-xl border border-gray-100 border-dashed p-5 opacity-60"
-              >
-                <div className="flex items-start gap-3">
-                  <span className="text-2xl flex-shrink-0">{guide.emoji}</span>
-                  <div>
-                    <p className="font-semibold text-gray-700 text-sm mb-1">{guide.title}</p>
-                    <p className="text-xs text-gray-400 leading-relaxed">{guide.desc}</p>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
+        {/* Coming soon — section removed, all guides now published */}
 
       </div>
     </div>

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -311,7 +312,7 @@ const COPY = {
     relatedTitle: 'Guides connexes',
     relatedItems: [
       { href: 'passeport-animal', label: 'Passeport animal : guide complet par pays' },
-      { href: '../', label: 'Tous nos guides voyages avec animaux' },
+      { href: 'train-avec-chien', label: 'Voyager en train avec son chien' },
     ],
     tipTitle: 'Le conseil pratique',
     tipText: "Avant un long road trip, faites un bilan vétérinaire, mettez à jour les vaccins et demandez si votre chien a besoin d'un traitement contre le mal des transports. Votre vétérinaire peut aussi vous donner le contact de collègues dans votre pays de destination.",
@@ -481,7 +482,7 @@ const COPY = {
     relatedTitle: 'Related guides',
     relatedItems: [
       { href: 'passeport-animal', label: 'Pet passport: complete country-by-country guide' },
-      { href: '../', label: 'All our pet travel guides' },
+      { href: 'train-avec-chien', label: 'Train travel with your dog' },
     ],
     tipTitle: 'Expert tip',
     tipText: "Before a long road trip, book a vet check-up, update vaccinations and ask whether your dog needs motion-sickness medication. Your vet can also give you contact details for colleagues in your destination country.",
@@ -651,7 +652,7 @@ const COPY = {
     relatedTitle: 'Guías relacionadas',
     relatedItems: [
       { href: 'passeport-animal', label: 'Pasaporte para mascotas: guía completa por país' },
-      { href: '../', label: 'Todas nuestras guías de viaje con mascotas' },
+      { href: 'train-avec-chien', label: 'Viajar en tren con tu perro' },
     ],
     tipTitle: 'Consejo práctico',
     tipText: 'Antes de un road trip largo, haz una revisión veterinaria, actualiza las vacunas y pregunta si tu perro necesita medicación contra el mareo. Tu veterinario también puede darte el contacto de colegas en el país de destino.',
@@ -962,6 +963,8 @@ export default async function RoadTripChienPage({
               ))}
             </div>
           </section>
+
+          <GuideFooter locale={locale} currentSlug="road-trip-chien" />
 
         </div>
       </div>

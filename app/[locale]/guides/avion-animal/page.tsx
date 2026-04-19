@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -1202,7 +1203,7 @@ export default async function FlyingWithPetGuidePage({
                 </div>
               </Link>
               <Link
-                href={`/${locale}`}
+                href={`/${locale}/destinations`}
                 className="flex items-start gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl p-5 transition-all shadow-sm group"
               >
                 <span className="text-2xl flex-shrink-0">🏨</span>
@@ -1215,6 +1216,8 @@ export default async function FlyingWithPetGuidePage({
               </Link>
             </div>
           </section>
+
+          <GuideFooter locale={locale} currentSlug="avion-animal" />
 
         </div>
       </div>

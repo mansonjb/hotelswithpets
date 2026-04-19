@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -1236,6 +1237,8 @@ export default async function PetPassportGuidePage({
               })}
             </div>
           </section>
+
+          <GuideFooter locale={locale} currentSlug="passeport-animal" />
 
         </div>
       </div>

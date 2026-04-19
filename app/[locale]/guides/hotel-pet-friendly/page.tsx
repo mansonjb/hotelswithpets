@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -220,7 +221,7 @@ const COPY = {
 
     internalLinksTitle: 'Keep exploring',
     internalLinks: [
-      { label: 'Browse all pet-friendly hotels in Europe', href: '/search' },
+      { label: 'Browse all pet-friendly destinations in Europe', href: '/destinations' },
       { label: 'Dog-friendly hotels', href: '/categories/dog-friendly' },
       { label: 'Hotels where dogs stay free', href: '/categories/dogs-stay-free' },
       { label: 'Pet passport requirements by country', href: '/guides/passeport-animal' },
@@ -398,7 +399,7 @@ const COPY = {
 
     internalLinksTitle: 'Continuez à explorer',
     internalLinks: [
-      { label: 'Trouver tous les hôtels pet-friendly en Europe', href: '/search' },
+      { label: 'Voir toutes les destinations pet-friendly en Europe', href: '/destinations' },
       { label: 'Hôtels dog-friendly', href: '/categories/dog-friendly' },
       { label: 'Hôtels où les chiens séjournent gratuitement', href: '/categories/dogs-stay-free' },
       { label: 'Exigences passeport animal par pays', href: '/guides/passeport-animal' },
@@ -576,7 +577,7 @@ const COPY = {
 
     internalLinksTitle: 'Sigue explorando',
     internalLinks: [
-      { label: 'Ver todos los hoteles pet-friendly en Europa', href: '/search' },
+      { label: 'Ver todos los destinos pet-friendly en Europa', href: '/destinations' },
       { label: 'Hoteles dog-friendly', href: '/categories/dog-friendly' },
       { label: 'Hoteles donde los perros se quedan gratis', href: '/categories/dogs-stay-free' },
       { label: 'Requisitos de pasaporte para mascotas por país', href: '/guides/passeport-animal' },
@@ -889,6 +890,8 @@ export default async function HotelPetFriendlyGuidePage({
               ))}
             </div>
           </section>
+
+          <GuideFooter locale={locale} currentSlug="hotel-pet-friendly" />
 
         </div>
       </div>

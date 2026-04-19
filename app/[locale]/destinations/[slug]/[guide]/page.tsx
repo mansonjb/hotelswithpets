@@ -344,7 +344,9 @@ export default async function GuideDetailPage({
   const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : null) ?? guideData.titleEn
   const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : null) ?? guideData.introEn
   const tips = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : null) ?? guideData.tipsEn ?? []
-  const faqs = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : null) ?? guideData.faqsEn ?? []
+  // Never fall back to EN faqs on FR/ES pages — show nothing rather than wrong language
+  const faqsLocalized = locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : guideData.faqsEn
+  const faqs = (faqsLocalized && faqsLocalized.length > 0) ? faqsLocalized : (locale === 'en' ? (guideData.faqsEn ?? []) : [])
 
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])

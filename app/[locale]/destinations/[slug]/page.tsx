@@ -360,6 +360,27 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         )
       })()}
 
+      {/* Hotels */}
+      <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+            {p.hotelsTitle}: {localizedName}
+          </h2>
+          {destHotels.length > 0 ? (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {destHotels.map((hotel) => (
+                <HotelCard key={hotel.id} hotel={hotel} dict={p} locale={locale as string} destName={dest.name} destCountry={dest.country} />
+              ))}
+            </div>
+          ) : (
+            <div className="text-center py-16 text-gray-400">
+              <span className="text-5xl block mb-4">🏨</span>
+              <p className="text-lg">{dict.pages.combo.noHotels}</p>
+            </div>
+          )}
+        </div>
+      </section>
+
       {/* ── Rich city content (history + sights + tips) ── */}
       {cityContent[slug] && (() => {
         const cc = cityContent[slug]
@@ -633,27 +654,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           </div>
         </section>
       )}
-
-      {/* Hotels */}
-      <section className="py-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
-            {p.hotelsTitle}: {localizedName}
-          </h2>
-          {destHotels.length > 0 ? (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {destHotels.map((hotel) => (
-                <HotelCard key={hotel.id} hotel={hotel} dict={p} locale={locale as string} destName={dest.name} destCountry={dest.country} />
-              ))}
-            </div>
-          ) : (
-            <div className="text-center py-16 text-gray-400">
-              <span className="text-5xl block mb-4">🏨</span>
-              <p className="text-lg">{dict.pages.combo.noHotels}</p>
-            </div>
-          )}
-        </div>
-      </section>
 
       {/* Explore by category. Rich links */}
       {presentCategories.length > 0 && (

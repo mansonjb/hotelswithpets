@@ -1,0 +1,453 @@
+{
+  "slug": "san-sebastian",
+  "name": "San Sebastián",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-04-19",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in San Sebastián",
+      "titleFr": "Restaurants Dog-Friendly à Saint-Sébastien",
+      "titleEs": "Restaurantes que admiten perros en San Sebastián",
+      "introEn": "San Sebastián (Donostia in Basque) is one of Europe's great food cities — and with over 15,000 registered dogs among fewer than 200,000 inhabitants, it is also one of its most dog-friendly. Terraces, pintxos bars, and waterfront restaurants regularly welcome dogs without hesitation, reflecting the Basque Country's deeply relaxed attitude to pets in public life.",
+      "introFr": "Saint-Sébastien (Donostia en basque) est l'une des grandes villes gastronomiques d'Europe — et avec plus de 15 000 chiens enregistrés pour moins de 200 000 habitants, c'est aussi l'une des plus dog-friendly. Terrasses, bars à pintxos et restaurants en front de mer accueillent régulièrement les chiens sans hésitation, reflétant l'attitude très détendue du Pays basque envers les animaux dans la vie publique.",
+      "introEs": "San Sebastián (Donostia en euskera) es una de las grandes ciudades gastronómicas de Europa — y con más de 15.000 perros registrados entre menos de 200.000 habitantes, también es una de las más dog-friendly. Terrazas, bares de pintxos y restaurantes frente al mar acogen habitualmente a los perros sin dudarlo, reflejando la actitud profundamente relajada del País Vasco hacia las mascotas en la vida pública.",
+      "places": [
+        {
+          "name": "Restaurante Igeldo",
+          "address": "Puerto Pesquero, Muelle 14, 20003 Donostia-San Sebastián",
+          "neighborhood": "Old Port",
+          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.restauranteigeldo.com",
+          "description": "A seafood restaurant at the old fishing port, just steps from the Aquarium and La Concha bay. Dogs are welcome throughout the restaurant — on the terrace and inside — and staff provide water bowls on request. The menu centres on the Basque catch of the day: txangurro (spider crab) and kokotxas (cod cheeks) are the emblematic dishes.",
+          "descriptionFr": "Un restaurant de fruits de mer au vieux port de pêche, à deux pas de l'Aquarium et de la baie de La Concha. Les chiens sont bienvenus dans tout le restaurant — en terrasse et à l'intérieur — et le personnel fournit des bols d'eau sur demande. La carte tourne autour de la pêche basque du jour : le txangurro (araignée de mer) et les kokotxas (joues de morue) sont les plats emblématiques.",
+          "descriptionEs": "Un restaurante de mariscos en el antiguo puerto pesquero, a pasos del Acuario y la bahía de La Concha. Los perros son bienvenidos en todo el restaurante — en la terraza y en el interior — y el personal proporciona bebederos a petición. La carta gira en torno a la pesca vasca del día: el txangurro y las kokotxas son los platos emblemáticos.",
+          "petPolicy": "Dogs welcome throughout — terrace and inside. Water bowls provided on request.",
+          "petPolicyFr": "Chiens bienvenus partout — terrasse et intérieur. Bols d'eau fournis sur demande.",
+          "petPolicyEs": "Perros bienvenidos en todo el local — terraza e interior. Bebederos disponibles a petición.",
+          "priceRange": "€€€",
+          "mustTry": "Txangurro al horno (baked spider crab) and kokotxas al pil-pil",
+          "mustTryFr": "Txangurro al horno (araignée de mer au four) et kokotxas al pil-pil",
+          "mustTryEs": "Txangurro al horno y kokotxas al pil-pil",
+          "openingHours": "Tue–Sun 13:00–15:30 & 20:00–23:00. Closed Monday.",
+          "tip": "Reserve a port-side terrace table for views of the working fishing boats. Dogs must remain on the lead inside the dining room.",
+          "tipFr": "Réservez une table en terrasse côté port pour les vues sur les bateaux de pêche. Les chiens doivent rester en laisse dans la salle intérieure.",
+          "tipEs": "Reserva una mesa en la terraza del lado del puerto para disfrutar de las vistas a los barcos de pesca. Los perros deben ir con correa en el comedor interior.",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Igeldo+San+Sebastian+Puerto+Pesquero"
+        },
+        {
+          "name": "Villano Bistro",
+          "address": "Calle Urdaneta 2, Hotel Intelier Villa Katalina, 20006 Donostia-San Sebastián",
+          "neighborhood": "Gros",
+          "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.villanobistro.com",
+          "description": "A contemporary bistro inside the boutique Hotel Intelier Villa Katalina in the Gros neighbourhood, a short walk from the surf beach Zurriola. Creative pintxos and seasonal Basque dishes are the focus. Dogs are welcome on the terrace and throughout the ground floor — a natural stop after a walk along the Zurriola promenade.",
+          "descriptionFr": "Un bistrot contemporain au sein du boutique Hôtel Intelier Villa Katalina dans le quartier Gros, à deux pas de la plage de surf de Zurriola. Pintxos créatifs et plats basques de saison sont à l'honneur. Les chiens sont bienvenus en terrasse et dans tout le rez-de-chaussée — une escale naturelle après une promenade sur le front de mer de Zurriola.",
+          "descriptionEs": "Un bistró contemporáneo en el interior del boutique Hotel Intelier Villa Katalina, en el barrio de Gros, a un corto paseo de la playa de surf de Zurriola. Pintxos creativos y platos vascos de temporada son el foco. Los perros son bienvenidos en la terraza y en toda la planta baja — una parada natural tras un paseo por el paseo de Zurriola.",
+          "petPolicy": "Dogs welcome on the terrace and ground floor dining area.",
+          "petPolicyFr": "Chiens bienvenus en terrasse et dans la salle du rez-de-chaussée.",
+          "petPolicyEs": "Perros bienvenidos en la terraza y en el comedor de la planta baja.",
+          "priceRange": "€€",
+          "mustTry": "Creative pintxos tasting menu and the day's catch ceviche",
+          "mustTryFr": "Menu dégustation de pintxos créatifs et le ceviche de pêche du jour",
+          "mustTryEs": "Menú degustación de pintxos creativos y el ceviche de pescado del día",
+          "openingHours": "Daily 12:00–15:00 & 19:00–22:30.",
+          "tip": "Arrive early for pintxos — the best selections sell out by 13:30. The Gros neighbourhood is flat and easy to navigate with a dog.",
+          "tipFr": "Arrivez tôt pour les pintxos — les meilleures sélections sont épuisées dès 13h30. Le quartier Gros est plat et facile à parcourir avec un chien.",
+          "tipEs": "Llega pronto para los pintxos — las mejores selecciones se agotan antes de las 13:30. El barrio de Gros es llano y fácil de recorrer con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Villano+Bistro+Hotel+Villa+Katalina+San+Sebastian"
+        }
+      ],
+      "tipsEn": [
+        "San Sebastián's pintxos bars are almost universally dog-friendly on their outdoor counter areas — the local culture treats dogs as normal companions in social settings.",
+        "The Parte Vieja (Old Town) lanes are very narrow during peak pintxos hours (13:00–14:30 and 20:00–22:00) — move to quieter side streets if you have a large dog.",
+        "Most cafés along the Paseo de La Concha and the Paseo de Zurriola promenades allow leashed dogs at outdoor tables."
+      ],
+      "tipsFr": [
+        "Les bars à pintxos de Saint-Sébastien sont presque universellement dog-friendly dans leurs espaces de comptoir en plein air — la culture locale traite les chiens comme des compagnons habituels.",
+        "Les ruelles de la Parte Vieja (Vieille Ville) sont très étroites pendant les heures de pointe des pintxos (13h–14h30 et 20h–22h) — optez pour les rues secondaires si vous avez un grand chien.",
+        "La plupart des cafés le long du Paseo de La Concha et du Paseo de Zurriola permettent les chiens tenus en laisse aux tables en terrasse."
+      ],
+      "tipsEs": [
+        "Los bares de pintxos de San Sebastián son casi universalmente dog-friendly en sus zonas de barra exterior — la cultura local trata a los perros como compañeros habituales en entornos sociales.",
+        "Los callejones de la Parte Vieja son muy estrechos durante las horas punta de pintxos (13:00–14:30 y 20:00–22:00) — busca calles secundarias más tranquilas si tienes un perro grande.",
+        "La mayoría de las cafeterías a lo largo del Paseo de La Concha y el Paseo de Zurriola permiten perros con correa en las mesas exteriores."
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks in San Sebastián",
+      "titleFr": "Parcs Dog-Friendly à Saint-Sébastien",
+      "titleEs": "Parques para perros en San Sebastián",
+      "introEn": "San Sebastián is ringed by forested hills and coastal paths that make it one of the best cities in Spain for dog walking. The two main peaks — Monte Urgull and Monte Ulía — offer extensive off-leash time outside morning hours, while the city's parks and promenades are all leash-friendly. With the highest dog-to-human ratio of any major Spanish city, the infrastructure for dog owners is excellent.",
+      "introFr": "Saint-Sébastien est entourée de collines boisées et de sentiers côtiers qui en font l'une des meilleures villes d'Espagne pour les promenades avec son chien. Les deux principaux sommets — Monte Urgull et Monte Ulía — offrent de larges plages de liberté en dehors des heures matinales, tandis que les parcs et promenades de la ville sont tous accessibles en laisse. Avec le ratio chiens/habitants le plus élevé de toutes les grandes villes espagnoles, les infrastructures pour les propriétaires de chiens sont excellentes.",
+      "introEs": "San Sebastián está rodeada de montes arbolados y senderos costeros que la convierten en una de las mejores ciudades de España para pasear con perro. Los dos principales montes — Urgull y Ulía — ofrecen amplias franjas horarias sin correa fuera de las horas de la mañana, mientras que los parques y paseos de la ciudad son todos aptos para perros con correa. Con el mayor ratio perros/habitantes de cualquier gran ciudad española, la infraestructura para propietarios de perros es excelente.",
+      "places": [
+        {
+          "name": "Monte Urgull",
+          "type": "Hill & Nature Reserve",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "The wooded hill crowning the Old Town, topped by the Castillo de la Mota fort and a large statue of Christ. Monte Urgull's network of shaded paths offers panoramic views over La Concha bay and the Cantabrian Sea. Dogs are permitted off-leash during the designated hours — 18:00 to 12:00 in winter, 19:00 to 10:00 in summer — across the full hill, except that breeds classified as potentially dangerous (PPP) must always remain leashed and muzzled.",
+          "descriptionFr": "La colline boisée couronnant la Vieille Ville, surmontée du Castillo de la Mota et d'une grande statue du Christ. Le réseau de sentiers ombragés de Monte Urgull offre des vues panoramiques sur la baie de La Concha et la mer Cantabrique. Les chiens sont autorisés sans laisse pendant les heures désignées — 18h à 12h en hiver, 19h à 10h en été — sur toute la colline, à l'exception des races classées potentiellement dangereuses (PPP) qui doivent toujours rester en laisse et muselière.",
+          "descriptionEs": "El monte arbolado que corona el Casco Viejo, rematado por el Castillo de la Mota y una gran estatua de Cristo. La red de senderos sombreados del Monte Urgull ofrece vistas panorámicas sobre la bahía de La Concha y el Mar Cantábrico. Los perros están permitidos sin correa durante las horas designadas — de 18:00 a 12:00 en invierno, de 19:00 a 10:00 en verano — en todo el monte, excepto las razas clasificadas como potencialmente peligrosas (PPP), que deben ir siempre con correa y bozal.",
+          "offLeash": true,
+          "offLeashArea": "Full hill during off-leash hours: 18:00–12:00 (winter) / 19:00–10:00 (summer). PPP breeds always leashed & muzzled.",
+          "offLeashAreaFr": "Toute la colline pendant les heures sans laisse : 18h–12h (hiver) / 19h–10h (été). Races PPP toujours en laisse et muselière.",
+          "offLeashAreaEs": "Todo el monte durante las horas sin correa: 18:00–12:00 (invierno) / 19:00–10:00 (verano). Razas PPP siempre con correa y bozal.",
+          "tip": "Enter from the Paseo Nuevo side for the most dramatic clifftop sea views. Carry water — there are no fountains on the upper paths.",
+          "tipFr": "Entrez par le côté Paseo Nuevo pour les vues maritimes les plus spectaculaires sur les falaises. Emportez de l'eau — il n'y a pas de fontaines sur les sentiers supérieurs.",
+          "tipEs": "Entra por el lado del Paseo Nuevo para las vistas al mar más espectaculares desde los acantilados. Lleva agua — no hay fuentes en los senderos superiores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Monte+Urgull+San+Sebastian"
+        },
+        {
+          "name": "Monte Ulía",
+          "type": "Coastal Nature Reserve",
+          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "The wild eastern headland beyond Zurriola beach, Monte Ulía is a protected natural area with dramatic clifftop trails and Atlantic views. Its off-leash hours are consistent year-round — 18:00 to 12:00 every day — and the trails are far less crowded than Monte Urgull. The GR121 coastal path runs along the clifftops with views stretching to the open Atlantic.",
+          "descriptionFr": "La presqu'île sauvage à l'est de la plage de Zurriola, Monte Ulía est une zone naturelle protégée avec des sentiers vertigineux sur les falaises côtières et des vues sur l'Atlantique. Ses horaires sans laisse sont constants toute l'année — 18h à 12h chaque jour — et les sentiers sont beaucoup moins fréquentés que Monte Urgull. Le sentier côtier GR121 longe les falaises avec des vues s'étendant jusqu'à l'Atlantique ouvert.",
+          "descriptionEs": "La agreste cabecera oriental más allá de la playa de Zurriola, el Monte Ulía es un espacio natural protegido con espectaculares senderos en acantilados y vistas al Atlántico. Sus horarios sin correa son consistentes todo el año — de 18:00 a 12:00 cada día — y los senderos están mucho menos concurridos que el Monte Urgull. El sendero costero GR121 recorre los acantilados con vistas que se extienden hasta el Atlántico abierto.",
+          "offLeash": true,
+          "offLeashArea": "Full natural area year-round during off-leash hours: 18:00–12:00 daily. PPP breeds always leashed & muzzled.",
+          "offLeashAreaFr": "Toute la zone naturelle toute l'année pendant les heures sans laisse : 18h–12h chaque jour. Races PPP toujours en laisse et muselière.",
+          "offLeashAreaEs": "Toda la zona natural todo el año durante las horas sin correa: 18:00–12:00 cada día. Razas PPP siempre con correa y bozal.",
+          "tip": "Access from the Paseo de Ulía road above the Gros neighbourhood. The clifftop trails can be slippery after rain — check your dog's paw pads after walking on coastal rock.",
+          "tipFr": "Accès depuis la route Paseo de Ulía au-dessus du quartier Gros. Les sentiers sur les falaises peuvent être glissants après la pluie — vérifiez les coussinets de votre chien après marche sur la roche côtière.",
+          "tipEs": "Acceso desde la carretera del Paseo de Ulía sobre el barrio de Gros. Los senderos en los acantilados pueden ser resbaladizos tras la lluvia — comprueba las almohadillas de tu perro tras caminar sobre roca costera.",
+          "googleMapsUrl": "https://maps.google.com/?q=Monte+Ulia+San+Sebastian"
+        },
+        {
+          "name": "Parque Cristina Enea",
+          "type": "Urban Park",
+          "photo": "https://images.unsplash.com/photo-1548919973-5cef591cdbc9?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "San Sebastián's most elegant park — a 17-hectare woodland donated to the city in 1898 by the Duke of Mandas in memory of his wife. Shaded paths wind through exotic trees, ponds, and peacock enclosures along the river Urumea. Dogs are welcome throughout on leads, and the riverbank lawns are an ideal shaded rest stop on hot days.",
+          "descriptionFr": "Le parc le plus élégant de Saint-Sébastien — un bois de 17 hectares offert à la ville en 1898 par le duc de Mandas en mémoire de son épouse. Des allées ombragées serpentent parmi des arbres exotiques, des étangs et des enclos à paons le long de la rivière Urumea. Les chiens sont bienvenus tenus en laisse dans tout le parc, et les pelouses en bord de rivière constituent une halte ombragée idéale lors des journées chaudes.",
+          "descriptionEs": "El parque más elegante de San Sebastián — un bosque de 17 hectáreas donado a la ciudad en 1898 por el Duque de Mandas en memoria de su esposa. Senderos sombreados serpentean entre árboles exóticos, estanques y recintos de pavos reales a lo largo del río Urumea. Los perros son bienvenidos con correa en todo el parque, y los céspedes junto al río son una parada a la sombra ideal en días calurosos.",
+          "offLeash": false,
+          "offLeashArea": "On-lead only throughout the park. No designated off-leash zone.",
+          "offLeashAreaFr": "Laisse obligatoire dans tout le parc. Pas de zone sans laisse désignée.",
+          "offLeashAreaEs": "Correa obligatoria en todo el parque. Sin zona habilitada para perros sin correa.",
+          "tip": "Entry from the Paseo de Francia side offers the most direct access to the river lawns. Some older drinking fountains have dog-friendly low bowls.",
+          "tipFr": "L'entrée côté Paseo de Francia offre l'accès le plus direct aux pelouses au bord de la rivière. Certaines vieilles fontaines ont des bols bas adaptés aux chiens.",
+          "tipEs": "La entrada por el lado del Paseo de Francia ofrece el acceso más directo a los céspedes junto al río. Algunas fuentes antiguas tienen tazones bajos aptos para perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Cristina+Enea+San+Sebastian"
+        }
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "transport": {
+      "titleEn": "Getting Around San Sebastián with Your Dog",
+      "titleFr": "Se déplacer à Saint-Sébastien avec son chien",
+      "titleEs": "Moverse por San Sebastián con tu perro",
+      "introEn": "San Sebastián is a compact and walkable city — most attractions, parks, and beaches are reachable on foot from the centre. For longer trips, the city bus network (Dbus) allows small dogs in carriers or in your arms. Train travel within the Basque Country and beyond follows Spanish national rules.",
+      "introFr": "Saint-Sébastien est une ville compacte et accessible à pied — la plupart des attractions, parcs et plages sont accessibles à pied depuis le centre. Pour les trajets plus longs, le réseau de bus urbains (Dbus) permet les petits chiens dans un sac de transport ou dans les bras. Le voyage en train dans le Pays basque et au-delà suit les règles nationales espagnoles.",
+      "introEs": "San Sebastián es una ciudad compacta y peatonal — la mayoría de las atracciones, parques y playas son accesibles a pie desde el centro. Para trayectos más largos, la red de autobuses urbanos (Dbus) permite perros pequeños en transportín o en brazos. El viaje en tren dentro del País Vasco y más allá sigue las normas nacionales españolas.",
+      "rules": [
+        {
+          "mode": "Dbus (City Bus)",
+          "modeFr": "Dbus (Bus Urbain)",
+          "modeEs": "Dbus (Autobús Urbano)",
+          "policy": "Small dogs carried in your arms or in a closed carrier are permitted. Assistance dogs travel free. No large dogs uncontained.",
+          "policyFr": "Les petits chiens portés dans les bras ou dans un sac de transport fermé sont autorisés. Les chiens d'assistance voyagent gratuitement. Pas de grands chiens non contenus.",
+          "policyEs": "Los perros pequeños llevados en brazos o en un transportín cerrado están permitidos. Los perros de asistencia viajan gratis. No se admiten perros grandes sin contener."
+        },
+        {
+          "mode": "Renfe (National Rail)",
+          "modeFr": "Renfe (Train National)",
+          "modeEs": "Renfe (Tren Nacional)",
+          "policy": "Small dogs (under 10 kg with carrier, max 60×35×35 cm) travel at the child fare. Large dogs must be muzzled and leashed and pay 50% of the adult fare. Guide dogs travel free.",
+          "policyFr": "Les petits chiens (moins de 10 kg avec sac, max 60×35×35 cm) voyagent au tarif enfant. Les grands chiens doivent être muselés et tenus en laisse et paient 50% du tarif adulte. Les chiens guides voyagent gratuitement.",
+          "policyEs": "Los perros pequeños (menos de 10 kg con transportín, máx. 60×35×35 cm) viajan al precio de niño. Los perros grandes deben ir con bozal y correa y pagan el 50% de la tarifa adulta. Los perros guía viajan gratis."
+        },
+        {
+          "mode": "Euskotren (Basque Regional Rail)",
+          "modeFr": "Euskotren (Train Régional Basque)",
+          "modeEs": "Euskotren (Tren Regional Vasco)",
+          "policy": "Small dogs in a closed carrier travel free. Larger dogs must wear a muzzle and remain on a short lead; a child's ticket is required. Useful for reaching Hondarribia and other Basque coastal towns.",
+          "policyFr": "Les petits chiens dans un sac de transport fermé voyagent gratuitement. Les grands chiens doivent porter une muselière et rester en laisse courte ; un billet enfant est requis. Utile pour rejoindre Hondarribia et d'autres villes côtières basques.",
+          "policyEs": "Los perros pequeños en transportín cerrado viajan gratis. Los perros más grandes deben llevar bozal y permanecer con correa corta; se requiere un billete de niño. Útil para llegar a Hondarribia y otras localidades costeras vascas."
+        },
+        {
+          "mode": "Taxi & Ride-hailing",
+          "modeFr": "Taxi et VTC",
+          "modeEs": "Taxi y VTC",
+          "policy": "Taxis are plentiful and most drivers accept dogs, particularly small ones. Confirm with the driver before entering. Ride-hailing apps (Cabify) operate in the city.",
+          "policyFr": "Les taxis sont nombreux et la plupart des chauffeurs acceptent les chiens, particulièrement les petits. Confirmez avec le chauffeur avant de monter. Les applis de VTC (Cabify) opèrent dans la ville.",
+          "policyEs": "Los taxis son abundantes y la mayoría de los taxistas aceptan perros, especialmente los pequeños. Confirma con el conductor antes de subir. Las apps de VTC (Cabify) operan en la ciudad."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Walking the City",
+          "titleFr": "Explorer la ville à pied",
+          "titleEs": "Recorrer la ciudad a pie",
+          "contentEn": "San Sebastián's compact geography makes walking the best way to travel with a dog. The Paseo de La Concha promenade links the Ondarreta and La Concha beaches via a wide esplanade; the Paseo Nuevo runs along the cliff base between the Old Port and Monte Urgull; and the Paseo de Zurriola follows the eastern beach. All three are flat, wide, and fully dog-friendly on a lead.",
+          "contentFr": "La géographie compacte de Saint-Sébastien fait de la marche le meilleur moyen de se déplacer avec un chien. Le Paseo de La Concha relie les plages d'Ondarreta et de La Concha via une large esplanade ; le Paseo Nuevo longe la base des falaises entre le vieux port et Monte Urgull ; et le Paseo de Zurriola suit la plage est. Les trois sont plats, larges et entièrement dog-friendly en laisse.",
+          "contentEs": "La geografía compacta de San Sebastián hace que caminar sea la mejor forma de desplazarse con un perro. El Paseo de La Concha une las playas de Ondarreta y La Concha a través de una amplia esplanada; el Paseo Nuevo discurre a lo largo de la base del acantilado entre el Puerto Viejo y el Monte Urgull; y el Paseo de Zurriola sigue la playa oriental. Los tres son planos, amplios y totalmente aptos para perros con correa."
+        }
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near San Sebastián",
+      "titleFr": "Plages Dog-Friendly autour de Saint-Sébastien",
+      "titleEs": "Playas para perros cerca de San Sebastián",
+      "introEn": "San Sebastián's own beaches — La Concha, Ondarreta, and Zurriola — are dog-friendly outside the summer bathing season (1 October to 31 May). From 1 June to 30 September dogs are banned from the city beaches during bathing hours. For guaranteed year-round dog beach access, the nearby beach at Hendaia (France) across the border and other Basque coast beaches are good alternatives.",
+      "introFr": "Les propres plages de Saint-Sébastien — La Concha, Ondarreta et Zurriola — sont dog-friendly en dehors de la saison balnéaire estivale (1er octobre au 31 mai). Du 1er juin au 30 septembre, les chiens sont interdits sur les plages de la ville pendant les heures de baignade. Pour un accès aux plages avec chien garanti toute l'année, la plage voisine d'Hendaye (France) de l'autre côté de la frontière et d'autres plages de la côte basque sont de bonnes alternatives.",
+      "introEs": "Las propias playas de San Sebastián — La Concha, Ondarreta y Zurriola — admiten perros fuera de la temporada de baño estival (del 1 de octubre al 31 de mayo). Del 1 de junio al 30 de septiembre, los perros están prohibidos en las playas de la ciudad durante el horario de baño. Para un acceso garantizado a la playa con perro durante todo el año, la playa cercana de Hendaya (Francia) al otro lado de la frontera y otras playas de la costa vasca son buenas alternativas.",
+      "places": [
+        {
+          "name": "Playa de La Concha & Ondarreta",
+          "distance": "City centre — on foot from the Old Town",
+          "description": "San Sebastián's iconic curved bay beach, ranked among the most beautiful urban beaches in Europe. Dogs are permitted on La Concha and Ondarreta from 1 October to 31 May, outside the official bathing season. During this period the beach is usually nearly empty and dogs can run freely, though they must remain under control. From 1 June to 30 September dogs are not allowed during bathing hours.",
+          "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
+          "rules": "Dogs permitted outside summer bathing season (Oct–May). No dogs 1 Jun–30 Sep during bathing hours. Always pick up after your dog.",
+          "facilities": "Promenade, cafés, public toilets nearby. No dog-specific facilities.",
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+La+Concha+San+Sebastian"
+        },
+        {
+          "name": "Playa de Zurriola",
+          "distance": "Gros neighbourhood — 15 min walk from the Old Town",
+          "description": "San Sebastián's surf beach on the eastern side of the Urumea river mouth. More exposed and wilder than La Concha, Zurriola is popular with surfers year-round. The same seasonal dog rules apply: permitted 1 October to 31 May, banned during summer bathing hours. Outside summer the beach has a completely different atmosphere — mostly surfers and dog walkers.",
+          "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
+          "rules": "Same seasonal policy as La Concha. Dogs permitted Oct–May. No dogs during bathing season (Jun–Sep). Keep dog on lead near surf school areas.",
+          "facilities": "Surf schools, beach bars, promenade. No dog-specific facilities.",
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Zurriola+San+Sebastian"
+        },
+        {
+          "name": "Hendaia Beach (Hendaye, France)",
+          "distance": "35 min by car or Euskotren from San Sebastián centre",
+          "description": "Just across the French border in the town of Hendaye, this wide sandy Atlantic beach is one of the longest on the Basque coast and has more relaxed dog rules than the Spanish city beaches. It offers a practical year-round alternative, particularly during the summer months when San Sebastián's beaches are closed to dogs. Check current local rules with the Hendaye tourist office, as seasonal restrictions may apply to specific sections.",
+          "season": "Generally year-round, though some sections may have summer restrictions — verify locally.",
+          "rules": "Dogs typically permitted year-round on non-restricted sections. Keep on lead when near designated bathing areas. Bag required.",
+          "facilities": "Beach bars, surf shops, parking, public toilets.",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Hendaye+France"
+        }
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Animal Care in San Sebastián",
+      "titleFr": "Vétérinaires et Soins d'Urgence à Saint-Sébastien",
+      "titleEs": "Veterinarios y Urgencias Veterinarias en San Sebastián",
+      "introEn": "San Sebastián has a dedicated 24/7 emergency veterinary clinic serving the Donostia-San Sebastián area. For non-urgent care, numerous local clinics serve the city's unusually large dog population. All veterinary care in Spain uses EU-standard protocols and most clinics in a tourist city of this size will have English-speaking staff or access to translation.",
+      "introFr": "Saint-Sébastien dispose d'une clinique vétérinaire d'urgence dédiée 24h/24 et 7j/7 desservant la zone Donostia-Saint-Sébastien. Pour les soins non urgents, de nombreuses cliniques locales servent la population canine inhabituellement importante de la ville. Tous les soins vétérinaires en Espagne utilisent les protocoles standard de l'UE et la plupart des cliniques dans une ville touristique de cette taille auront du personnel anglophone ou accès à la traduction.",
+      "introEs": "San Sebastián cuenta con una clínica veterinaria de urgencias dedicada 24/7 que atiende el área de Donostia-San Sebastián. Para atención no urgente, numerosas clínicas locales atienden a la inusualmente grande población canina de la ciudad. Toda la atención veterinaria en España utiliza protocolos estándar de la UE y la mayoría de las clínicas en una ciudad turística de este tamaño contarán con personal angloparlante o acceso a traducción.",
+      "entryRequirements": {
+        "euPets": "EU pet passport required. Must show: ISO microchip (15-digit, 11784/11785 standard), valid rabies vaccination (minimum 21 days before travel if first vaccination), and tapeworm treatment record if entering from certain non-EU countries. Spain is an EU member — travel within the Schengen Area is straightforward with a valid pet passport.",
+        "nonEuPets": "Pets from non-EU countries entering Spain require an EU-format animal health certificate issued by an official government vet in the country of origin. The certificate must cover: ISO microchip, valid rabies vaccination, and any additional tests required (rabies antibody titer test for pets from unlisted countries). Entry must be at a designated EU Border Inspection Post (BIP).",
+        "emergencyContacts": [
+          "+34 943 274 903 — Clínica Veterinaria El Jardín (24/7)",
+          "112 — General emergency services (Spain)"
+        ],
+        "euPetsFr": "Passeport européen pour animaux de compagnie requis. Doit mentionner : micropuce ISO (15 chiffres, norme 11784/11785), vaccination antirabique valide (minimum 21 jours avant le voyage si première vaccination) et traitement antiparasitaire si entrée depuis certains pays non-UE. L'Espagne est membre de l'UE — les voyages dans l'espace Schengen sont simples avec un passeport animal valide.",
+        "nonEuPetsFr": "Les animaux de pays non-UE entrant en Espagne nécessitent un certificat zoosanitaire au format UE délivré par un vétérinaire officiel gouvernemental dans le pays d'origine. Le certificat doit couvrir : micropuce ISO, vaccination antirabique valide et tous tests supplémentaires requis. L'entrée doit se faire par un Poste d'Inspection Frontalier (PIF) UE désigné.",
+        "euPetsEs": "Se requiere pasaporte europeo para animales de compañía. Debe acreditar: microchip ISO (15 dígitos, norma 11784/11785), vacunación antirrábica válida (mínimo 21 días antes del viaje si es la primera vacunación) y tratamiento antiparasitario si se entra desde ciertos países no UE. España es miembro de la UE — viajar dentro del espacio Schengen es sencillo con un pasaporte válido para mascotas.",
+        "nonEuPetsEs": "Las mascotas de países no pertenecientes a la UE que entren en España necesitan un certificado sanitario en formato UE expedido por un veterinario oficial del gobierno en el país de origen. El certificado debe cubrir: microchip ISO, vacunación antirrábica válida y cualquier prueba adicional requerida. La entrada debe realizarse por un Puesto de Inspección Fronterizo (PIF) de la UE designado."
+      },
+      "places": [
+        {
+          "name": "Clínica Veterinaria El Jardín",
+          "type": "Emergency & General Practice",
+          "address": "Avenida de Ategorrieta 47, 20013 Donostia-San Sebastián",
+          "phone": "+34 943 274 903",
+          "hours": "Open 24 hours, 7 days a week",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24 horas, 7 días a la semana",
+          "englishSpeaking": true,
+          "website": "https://www.veterinariaeljardin.com",
+          "description": "A full-service veterinary clinic open 24/7 for emergencies and routine care in the Ategorrieta district of Donostia-San Sebastián. El Jardín offers emergency consultations, surgery, diagnostics, and hospitalisation. This is the primary 24-hour veterinary emergency resource for the city. Phone number verified from the clinic's own website (veterinariaeljardin.com).",
+          "descriptionFr": "Une clinique vétérinaire complète ouverte 24h/24 pour les urgences et les soins de routine dans le quartier Ategorrieta de Donostia-Saint-Sébastien. El Jardín propose des consultations d'urgence, de la chirurgie, des diagnostics et des hospitalisations. Il s'agit de la principale ressource vétérinaire d'urgence 24h/24 de la ville. Numéro de téléphone vérifié sur le site web propre de la clinique (veterinariaeljardin.com).",
+          "descriptionEs": "Una clínica veterinaria de servicio completo abierta 24/7 para urgencias y atención rutinaria en el distrito Ategorrieta de Donostia-San Sebastián. El Jardín ofrece consultas de urgencias, cirugía, diagnóstico y hospitalización. Es el principal recurso veterinario de urgencias 24 horas de la ciudad. Número de teléfono verificado en el sitio web propio de la clínica (veterinariaeljardin.com).",
+          "tip": "The clinic is in the Ategorrieta residential district — approximately 10 minutes by taxi from the Old Town. Save the number before you travel.",
+          "tipFr": "La clinique se trouve dans le quartier résidentiel d'Ategorrieta — environ 10 minutes en taxi depuis la Vieille Ville. Enregistrez le numéro avant de partir.",
+          "tipEs": "La clínica se encuentra en el barrio residencial de Ategorrieta — aproximadamente 10 minutos en taxi desde el Casco Viejo. Guarda el número antes de viajar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+El+Jardin+Avenida+Ategorrieta+47+San+Sebastian"
+        }
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting San Sebastián with Your Dog",
+      "titleFr": "Conseils Essentiels pour Visiter Saint-Sébastien avec son Chien",
+      "titleEs": "Consejos Esenciales para Visitar San Sebastián con tu Perro",
+      "introEn": "San Sebastián is consistently rated one of the most dog-friendly cities in Spain, with the highest registered dog-to-inhabitant ratio of any major Spanish city. The city's combination of walkable urban beaches, forested hills, and a relaxed cultural attitude makes it a natural fit for a dog-inclusive trip.",
+      "introFr": "Saint-Sébastien est régulièrement classée parmi les villes les plus dog-friendly d'Espagne, avec le ratio chiens enregistrés/habitants le plus élevé de toutes les grandes villes espagnoles. La combinaison de plages urbaines accessibles à pied, de collines boisées et d'une attitude culturelle détendue en fait un choix naturel pour un voyage avec son animal.",
+      "introEs": "San Sebastián está considerada sistemáticamente una de las ciudades más dog-friendly de España, con el mayor ratio de perros registrados por habitante de cualquier gran ciudad española. La combinación de playas urbanas accesibles a pie, montes arbolados y una actitud cultural relajada la convierte en un destino natural para un viaje con mascotas.",
+      "sections": [
+        {
+          "titleEn": "Beach Access: Know the Dates",
+          "titleFr": "Accès aux plages : Connaître les dates",
+          "titleEs": "Acceso a playas: Conoce las fechas",
+          "contentEn": "The single most important rule in San Sebastián for dog owners: the city beaches (La Concha, Ondarreta, and Zurriola) are open to dogs from 1 October to 31 May and closed to dogs from 1 June to 30 September during bathing hours. Plan your visit accordingly or head to Hendaia beach across the French border for year-round access.",
+          "contentFr": "La règle la plus importante à Saint-Sébastien pour les propriétaires de chiens : les plages de la ville (La Concha, Ondarreta et Zurriola) sont ouvertes aux chiens du 1er octobre au 31 mai et fermées aux chiens du 1er juin au 30 septembre pendant les heures de baignade. Planifiez votre visite en conséquence ou rendez-vous à la plage d'Hendaye de l'autre côté de la frontière française pour un accès toute l'année.",
+          "contentEs": "La regla más importante en San Sebastián para los dueños de perros: las playas de la ciudad (La Concha, Ondarreta y Zurriola) están abiertas a los perros del 1 de octubre al 31 de mayo y cerradas a los perros del 1 de junio al 30 de septiembre durante el horario de baño. Planifica tu visita en consecuencia o dirígete a la playa de Hendaya al otro lado de la frontera francesa para acceso durante todo el año."
+        },
+        {
+          "titleEn": "Off-Leash Hours: Respect the Schedule",
+          "titleFr": "Heures sans laisse : Respectez le calendrier",
+          "titleEs": "Horas sin correa: Respeta el horario",
+          "contentEn": "Monte Urgull and Monte Ulía have specific off-leash windows — not all-day access. In winter, off-leash is permitted from 18:00 to 12:00 (next day) on Monte Urgull; on Monte Ulía it is 18:00 to 12:00 year-round. During the on-leash hours (typically mid-morning to early evening), keep your dog leashed. Fines apply for non-compliance.",
+          "contentFr": "Monte Urgull et Monte Ulía ont des fenêtres sans laisse spécifiques — pas un accès toute la journée. En hiver, la liberté est permise de 18h à 12h (le lendemain) sur Monte Urgull ; sur Monte Ulía, c'est 18h à 12h toute l'année. Pendant les heures en laisse (généralement de la matinée à la soirée), gardez votre chien en laisse. Des amendes s'appliquent en cas de non-respect.",
+          "contentEs": "El Monte Urgull y el Monte Ulía tienen ventanas horarias específicas sin correa — no es acceso libre todo el día. En invierno, se permite sin correa de 18:00 a 12:00 (del día siguiente) en el Monte Urgull; en el Monte Ulía es de 18:00 a 12:00 todo el año. Durante las horas con correa (normalmente de media mañana a primera tarde), mantén a tu perro con correa. Se aplican multas por incumplimiento."
+        },
+        {
+          "titleEn": "PPP (Potentially Dangerous Dog) Rules",
+          "titleFr": "Règles PPP (chiens potentiellement dangereux)",
+          "titleEs": "Normativa PPP (Perros Potencialmente Peligrosos)",
+          "contentEn": "Spain maintains a national register of breeds classified as 'Potentially Dangerous' (PPP — Perros Potencialmente Peligrosos). These breeds must always be leashed and muzzled in public spaces in San Sebastián, including in parks and on the hills — even during the designated off-leash hours. Owners must carry their PPP licence. Check with the Spanish authorities if your breed may be classified.",
+          "contentFr": "L'Espagne tient un registre national des races classées « potentiellement dangereuses » (PPP — Perros Potencialmente Peligrosos). Ces races doivent toujours être tenues en laisse et porter une muselière dans les espaces publics de Saint-Sébastien, y compris dans les parcs et sur les collines — même pendant les heures sans laisse désignées. Les propriétaires doivent porter leur licence PPP. Renseignez-vous auprès des autorités espagnoles si votre race pourrait être classifiée.",
+          "contentEs": "España mantiene un registro nacional de razas clasificadas como 'Potencialmente Peligrosas' (PPP). Estas razas deben ir siempre con correa y bozal en los espacios públicos de San Sebastián, incluidos parques y montes — incluso durante las horas sin correa designadas. Los propietarios deben llevar su licencia PPP. Consulta con las autoridades españolas si tu raza podría estar clasificada."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "San Sebastián has over 15,000 registered dogs for fewer than 200,000 inhabitants — you will encounter dogs everywhere and the local attitude is consistently welcoming.",
+        "The pintxos bar culture extends naturally to dogs: most bars allow leashed dogs at outdoor seating and are accustomed to pet owners.",
+        "Carry a water bottle and collapsible bowl — the city has water fountains but not all are dog-accessible. The mountains and clifftop paths have no water points.",
+        "Basque summers are mild compared to inland Spain, making July and August entirely viable for a dog trip despite the beach ban.",
+        "The city's EU pet passport infrastructure is well established — local vets are familiar with cross-border travel and can issue the necessary documentation."
+      ],
+      "tipsFr": [
+        "Saint-Sébastien compte plus de 15 000 chiens enregistrés pour moins de 200 000 habitants — vous croiserez des chiens partout et l'attitude locale est constamment accueillante.",
+        "La culture des bars à pintxos s'étend naturellement aux chiens : la plupart des bars permettent les chiens tenus en laisse aux sièges en terrasse et sont habitués aux propriétaires d'animaux.",
+        "Portez une bouteille d'eau et un bol pliable — la ville a des fontaines mais elles ne sont pas toutes accessibles aux chiens. Les montagnes et sentiers sur les falaises n'ont pas de points d'eau.",
+        "Les étés basques sont doux comparés à l'Espagne intérieure, ce qui rend juillet et août tout à fait viables pour un voyage avec un chien malgré l'interdiction des plages.",
+        "L'infrastructure du passeport européen pour animaux de la ville est bien établie — les vétérinaires locaux sont familiers avec les voyages transfrontaliers et peuvent délivrer la documentation nécessaire."
+      ],
+      "tipsEs": [
+        "San Sebastián tiene más de 15.000 perros registrados para menos de 200.000 habitantes — te encontrarás con perros en todas partes y la actitud local es constantemente acogedora.",
+        "La cultura de los bares de pintxos se extiende naturalmente a los perros: la mayoría de los bares permiten perros con correa en los asientos exteriores y están acostumbrados a los propietarios de mascotas.",
+        "Lleva una botella de agua y un bol plegable — la ciudad tiene fuentes pero no todas son accesibles para perros. Los montes y senderos en acantilados no tienen puntos de agua.",
+        "Los veranos vascos son suaves en comparación con el interior de España, lo que hace que julio y agosto sean perfectamente viables para un viaje con perro a pesar de la prohibición en las playas.",
+        "La infraestructura de pasaporte europeo para animales de la ciudad está bien establecida — los veterinarios locales están familiarizados con los viajes transfronterizos y pueden emitir la documentación necesaria."
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in San Sebastián",
+      "titleFr": "Attractions Dog-Friendly à Saint-Sébastien",
+      "titleEs": "Atracciones para perros en San Sebastián",
+      "introEn": "San Sebastián's best attractions for dog owners are outdoors — the clifftop walks, the bay views, and the historic urban waterfront. Most of the city's museums do not permit dogs inside, but the outdoor sights and promenades more than compensate. The Paseo Nuevo coastal walk and Monte Urgull are highlights that need no entry ticket.",
+      "introFr": "Les meilleures attractions de Saint-Sébastien pour les propriétaires de chiens sont en plein air — les promenades sur les falaises, les vues sur la baie et le front de mer urbain historique. La plupart des musées de la ville ne permettent pas les chiens à l'intérieur, mais les sites de plein air et les promenades compensent largement. Le Paseo Nuevo et Monte Urgull sont des points forts qui n'ont pas besoin de billet d'entrée.",
+      "introEs": "Las mejores atracciones de San Sebastián para los dueños de perros son al aire libre — los paseos en los acantilados, las vistas a la bahía y el histórico frente marítimo urbano. La mayoría de los museos de la ciudad no permiten perros en su interior, pero los atractivos al aire libre y los paseos compensan con creces. El Paseo Nuevo y el Monte Urgull son puntos destacados que no requieren entrada.",
+      "places": [
+        {
+          "name": "Paseo Nuevo & Monte Urgull Viewpoints",
+          "neighborhood": "Old Town / Old Port",
+          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "The Paseo Nuevo is a clifftop promenade that curves around the base of Monte Urgull between the Old Port and the Zurriola side, offering uninterrupted views of the Cantabrian Sea and the bay. Dogs on leads are welcome along the full length. From the Paseo, steps and paths lead up into Monte Urgull's forested interior and to the Castillo de la Mota fort at the summit.",
+          "descriptionFr": "Le Paseo Nuevo est une promenade sur les falaises qui s'incurve autour de la base de Monte Urgull entre le vieux port et le côté Zurriola, offrant des vues ininterrompues sur la mer Cantabrique et la baie. Les chiens tenus en laisse sont bienvenus sur toute sa longueur. Depuis le Paseo, des escaliers et des sentiers mènent dans les forêts intérieures de Monte Urgull et au fort du Castillo de la Mota au sommet.",
+          "descriptionEs": "El Paseo Nuevo es un paseo en los acantilados que se curva alrededor de la base del Monte Urgull entre el Puerto Viejo y el lado de Zurriola, ofreciendo vistas ininterrumpidas del Mar Cantábrico y la bahía. Los perros con correa son bienvenidos en toda su extensión. Desde el Paseo, escaleras y senderos conducen al interior arbolado del Monte Urgull y al Castillo de la Mota en la cima.",
+          "dogPolicy": "Dogs welcome on leads along the full promenade and up into Monte Urgull (off-leash hours apply on the hill).",
+          "dogPolicyFr": "Chiens bienvenus en laisse sur toute la promenade et jusqu'à Monte Urgull (horaires sans laisse applicables sur la colline).",
+          "dogPolicyEs": "Perros bienvenidos con correa en todo el paseo y hacia el Monte Urgull (se aplican horarios sin correa en el monte).",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Start at the Old Port (Puerto Viejo) and walk the full Paseo Nuevo to the Zurriola end. The section below the cliff wall (where the sea sprays in) is dramatic in any weather.",
+          "tipFr": "Commencez au Vieux Port (Puerto Viejo) et parcourez tout le Paseo Nuevo jusqu'au bout de Zurriola. La section sous le mur des falaises (où la mer éclabousse) est spectaculaire par tous les temps.",
+          "tipEs": "Empieza en el Puerto Viejo y recorre todo el Paseo Nuevo hasta el extremo de Zurriola. La sección bajo la pared del acantilado (donde el mar salpica) es espectacular con cualquier clima.",
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Nuevo+San+Sebastian"
+        },
+        {
+          "name": "Paseo de La Concha Promenade",
+          "neighborhood": "Centro",
+          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "The elegant Belle Époque promenade that runs the full length of La Concha beach from the Old Town to the Ondarreta neighbourhood. Wide, flat, and flanked by ornate iron railings and globe lamps, the Paseo de La Concha is one of the most beautiful waterfront promenades in Europe. Dogs on leads are welcome at all times along the promenade; beach access for dogs applies the seasonal rules.",
+          "descriptionFr": "L'élégante promenade Belle Époque qui longe toute la plage de La Concha depuis la Vieille Ville jusqu'au quartier d'Ondarreta. Large, plate et flanquée de rambardes en fer forgé ornées et de lampadaires à globe, le Paseo de La Concha est l'une des plus belles promenades en front de mer d'Europe. Les chiens tenus en laisse sont bienvenus à tout moment sur la promenade ; l'accès à la plage pour les chiens suit les règles saisonnières.",
+          "descriptionEs": "El elegante paseo de estilo Belle Époque que recorre toda la playa de La Concha desde el Casco Viejo hasta el barrio de Ondarreta. Ancho, llano y flanqueado por ornamentadas barandillas de hierro y farolas de globo, el Paseo de La Concha es uno de los paseos marítimos más bellos de Europa. Los perros con correa son bienvenidos en todo momento a lo largo del paseo; el acceso a la playa para perros aplica las normas estacionales.",
+          "dogPolicy": "Dogs on leads welcome on the promenade at all times. Beach access follows seasonal rules (dogs permitted Oct–May, banned Jun–Sep during bathing hours).",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur la promenade à tout moment. L'accès à la plage suit les règles saisonnières (chiens autorisés oct.–mai, interdits juin–sept. pendant les heures de baignade).",
+          "dogPolicyEs": "Perros con correa bienvenidos en el paseo en todo momento. El acceso a la playa sigue las normas estacionales (perros permitidos oct.–may., prohibidos jun.–sep. durante el horario de baño).",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "The promenade is busiest 11:00–13:00 and 18:00–21:00 in summer. Early morning walks offer the bay almost entirely to yourself and your dog.",
+          "tipFr": "La promenade est la plus fréquentée entre 11h–13h et 18h–21h en été. Les promenades matinales vous offrent la baie presque entièrement à vous et à votre chien.",
+          "tipEs": "El paseo está más concurrido entre las 11:00–13:00 y las 18:00–21:00 en verano. Los paseos matutinos te ofrecen la bahía casi en exclusiva para ti y tu perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+de+La+Concha+San+Sebastian"
+        }
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in San Sebastián",
+      "titleFr": "Pet Sitting et Promenades de Chiens à Saint-Sébastien",
+      "titleEs": "Cuidado de Mascotas y Paseos con Perros en San Sebastián",
+      "introEn": "San Sebastián's size means fewer pet-sitting providers than a major capital, but platforms like Rover.es connect travellers with local dog walkers and sitters across the Donostia area. Given the city's large dog-owning population, local sitters tend to be experienced and comfortable with a wide range of breeds.",
+      "introFr": "La taille de Saint-Sébastien signifie moins de prestataires de pet-sitting qu'une grande capitale, mais des plateformes comme Rover.es mettent les voyageurs en contact avec des promeneurs et gardiens de chiens locaux dans tout le secteur de Donostia. Compte tenu de la grande population propriétaire de chiens de la ville, les gardiens locaux ont tendance à être expérimentés et à l'aise avec une grande variété de races.",
+      "introEs": "El tamaño de San Sebastián significa menos proveedores de cuidado de mascotas que una gran capital, pero plataformas como Rover.es conectan a los viajeros con paseadores y cuidadores locales de perros en toda el área de Donostia. Dado que la ciudad tiene una gran población de propietarios de perros, los cuidadores locales tienden a ser experimentados y cómodos con una amplia variedad de razas.",
+      "places": [
+        {
+          "name": "Rover.es — San Sebastián",
+          "photo": "https://images.unsplash.com/photo-1548199973-3ec2-45e4-ab9d-c8b45c2e6ebb?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.rover.com/es",
+          "description": "Rover's Spanish platform lists dog walkers and pet sitters in the Donostia-San Sebastián area. Sitters are rated, reviewed, and many offer bilingual (Spanish/Basque or Spanish/English) communication. Services include dog walking, home visits, doggy day care, and overnight boarding.",
+          "descriptionFr": "La plateforme espagnole de Rover liste des promeneurs de chiens et des pet-sitters dans la zone Donostia-Saint-Sébastien. Les gardiens sont notés, évalués, et beaucoup proposent une communication bilingue (espagnol/basque ou espagnol/anglais). Les services comprennent les promenades, les visites à domicile, la garderie de jour et l'hébergement de nuit.",
+          "descriptionEs": "La plataforma española de Rover lista paseadores y cuidadores de perros en el área de Donostia-San Sebastián. Los cuidadores están valorados, reseñados, y muchos ofrecen comunicación bilingüe (español/euskera o español/inglés). Los servicios incluyen paseos, visitas a domicilio, guardería diurna y alojamiento nocturno.",
+          "serviceType": "Dog walking, pet sitting, doggy day care, overnight boarding",
+          "serviceTypeFr": "Promenade, pet-sitting, garderie de jour, hébergement de nuit",
+          "serviceTypeEs": "Paseos, cuidado de mascotas, guardería diurna, alojamiento nocturno",
+          "pricePerDay": "€10–15 per walk / €25–40 per night boarding (varies by sitter)",
+          "languages": ["Spanish", "Basque", "English (selected sitters)"],
+          "tip": "Book at least a week ahead in July and August — the summer festival season (Semana Grande in August) fills sitters quickly. Check that your chosen sitter is comfortable with the city's seasonal beach rules if you plan beach days.",
+          "tipFr": "Réservez au moins une semaine à l'avance en juillet et août — la saison des festivals estivaux (Semaine Grande en août) remplit rapidement les gardiens. Vérifiez que votre gardien choisi est à l'aise avec les règles saisonnières des plages de la ville si vous prévoyez des journées à la plage.",
+          "tipEs": "Reserva con al menos una semana de antelación en julio y agosto — la temporada de festivales de verano (la Semana Grande en agosto) llena rápidamente a los cuidadores. Comprueba que el cuidador elegido esté familiarizado con las normas estacionales de las playas de la ciudad si planeas días de playa."
+        },
+        {
+          "name": "Gudog — San Sebastián",
+          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "website": "https://www.gudog.com/es",
+          "description": "A Spanish pet-sitting and dog-boarding platform operating in San Sebastián. Gudog specialises in home-based boarding — your dog stays with a local host family rather than in a kennel environment. All hosts are vetted and insured. Useful for multi-day trips or when you need your dog in a home setting.",
+          "descriptionFr": "Une plateforme espagnole de pet-sitting et de pension pour chiens opérant à Saint-Sébastien. Gudog se spécialise dans l'hébergement à domicile — votre chien séjourne chez une famille d'accueil locale plutôt que dans un chenil. Tous les hôtes sont vérifiés et assurés. Utile pour les voyages de plusieurs jours ou quand vous avez besoin que votre chien soit dans un environnement familial.",
+          "descriptionEs": "Una plataforma española de cuidado de mascotas y alojamiento para perros que opera en San Sebastián. Gudog se especializa en el alojamiento en casa — tu perro se queda con una familia anfitriona local en lugar de en un ambiente de residencia canina. Todos los anfitriones son verificados y asegurados. Útil para viajes de varios días o cuando necesitas que tu perro esté en un entorno doméstico.",
+          "serviceType": "Home-based dog boarding & day care",
+          "serviceTypeFr": "Pension à domicile et garderie de jour",
+          "serviceTypeEs": "Alojamiento en casa y guardería diurna",
+          "pricePerDay": "€20–35 per night (varies by host)",
+          "languages": ["Spanish", "Basque", "English (selected hosts)"],
+          "tip": "Gudog hosts in the residential areas outside the centre (Gros, Amara, Intxaurrondo) often have access to quieter parks and gardens — useful if your dog is more comfortable in calmer surroundings.",
+          "tipFr": "Les hôtes Gudog dans les zones résidentielles en dehors du centre (Gros, Amara, Intxaurrondo) ont souvent accès à des parcs et jardins plus tranquilles — utile si votre chien est plus à l'aise dans un environnement calme.",
+          "tipEs": "Los anfitriones de Gudog en las zonas residenciales fuera del centro (Gros, Amara, Intxaurrondo) a menudo tienen acceso a parques y jardines más tranquilos — útil si tu perro se siente más cómodo en entornos más calmados."
+        }
+      ],
+      "tipsEn": [
+        "San Sebastián's compact size means most sitters can reach your accommodation easily — city-centre pickup is standard.",
+        "During the Tamborrada festival (20 January) and Semana Grande (August), the city is extremely busy — book sitters well in advance if your trip overlaps.",
+        "Many local dog owners speak Basque and Spanish but not always English — choose a sitter with confirmed English proficiency if needed."
+      ],
+      "tipsFr": [
+        "La taille compacte de Saint-Sébastien signifie que la plupart des gardiens peuvent facilement atteindre votre hébergement — la prise en charge en centre-ville est standard.",
+        "Pendant le festival Tamborrada (20 janvier) et la Semaine Grande (août), la ville est extrêmement animée — réservez les gardiens bien à l'avance si votre voyage coïncide.",
+        "De nombreux propriétaires de chiens locaux parlent basque et espagnol mais pas toujours anglais — choisissez un gardien avec une maîtrise confirmée de l'anglais si nécessaire."
+      ],
+      "tipsEs": [
+        "El tamaño compacto de San Sebastián significa que la mayoría de los cuidadores pueden llegar fácilmente a tu alojamiento — la recogida en el centro de la ciudad es habitual.",
+        "Durante el festival de la Tamborrada (20 de enero) y la Semana Grande (agosto), la ciudad está extremadamente concurrida — reserva cuidadores con mucha antelación si tu viaje coincide.",
+        "Muchos propietarios de perros locales hablan euskera y español pero no siempre inglés — elige un cuidador con dominio del inglés confirmado si es necesario."
+      ],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    }
+  }
+}

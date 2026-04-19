@@ -3211,5 +3211,297 @@
         "icon": "🌧️"
       }
     }
+  },
+  {
+    "slug": "cologne",
+    "name": "Cologne",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/cologne.jpg",
+    "intro": "Cologne (Köln) sits on the Rhine with its iconic cathedral and a vibrant dog culture — the KVB city network welcomes dogs in carriers and the vast Stadtwald forest offers one of western Germany's best off-leash walking experiences.",
+    "lat": 50.9333,
+    "lng": 6.95,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Pleasant & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cooling down",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "toulouse",
+    "name": "Toulouse",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/toulouse.jpg",
+    "intro": "La Ville Rose on the Garonne offers dog owners green riverside parks with dedicated canitracks, an excellent emergency vet infrastructure, and the vast Bouconne forest on its doorstep — though note that Tisséo public transport bans dogs except in closed carriers.",
+    "lat": 43.6047,
+    "lng": 1.4442,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & cloudy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "bologna",
+    "name": "Bologna",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/bologna.jpg",
+    "intro": "Bologna's medieval porticoes and progressive urban fauna regulations make it Italy's most dog-welcoming city — dogs are legally permitted in all public premises, a 24/7 emergency vet operates inside the main park, and the UNESCO-listed Portico di San Luca offers a stunning shaded walk for any weather.",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & overcast",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      }
+    }
+  },
+  {
+    "slug": "san-sebastian",
+    "name": "San Sebastián",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/san-sebastian.jpg",
+    "intro": "San Sebastián (Donostia) has more registered dogs per inhabitant than any other major Spanish city, and it shows — Michelin-starred restaurants welcome dogs without hesitation, Monte Urgull offers vast off-leash hillside walks, and La Concha's crescent beach opens to dogs every October for a full six months.",
+    "lat": 43.3183,
+    "lng": -1.9812,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & mild",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      }
+    }
   }
 ]

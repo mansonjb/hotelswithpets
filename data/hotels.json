@@ -8791,5 +8791,290 @@
       "Restaurant"
     ],
     "slug": "crowne-plaza-salzburg"
+  },
+  {
+    "id": "marseille-1",
+    "name": "InterContinental Marseille - Hotel Dieu",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 3800,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/intercontinental-marseille-hotel-dieu.html",
+    "petFee": 55,
+    "petPolicy": "Dogs are welcome at the InterContinental Marseille - Hotel Dieu with advance notice. An extra fee of €55 per dog per stay applies. Pets are permitted in the restaurant but must be kept on a leash or in a carrier. Guests must inform the hotel at booking.",
+    "highlights": [
+      "Old Port view",
+      "Spa",
+      "Michelin-starred dining"
+    ],
+    "slug": "intercontinental-marseille-hotel-dieu-marseille"
+  },
+  {
+    "id": "marseille-2",
+    "name": "Sofitel Marseille Vieux-Port",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2600,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/sofitel-marseille-vieux-port.html",
+    "petFee": 30,
+    "petPolicy": "Pets are allowed at Sofitel Marseille Vieux-Port on request; charges may apply. Small to medium dogs are welcome in guest rooms. Notify the hotel when booking to arrange pet-friendly accommodation.",
+    "highlights": [
+      "Panoramic sea view",
+      "Rooftop bar",
+      "Fitness centre"
+    ],
+    "slug": "sofitel-marseille-vieux-port-marseille"
+  },
+  {
+    "id": "marseille-3",
+    "name": "Mama Shelter Marseille",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 4100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mama-shelter-marseille.html",
+    "petFee": 0,
+    "petPolicy": "Mama Shelter Marseille welcomes pets free of charge. Dogs and cats are allowed in all rooms and in the restaurant, though not in every bar area. No weight restriction stated. Truly one of the most pet-friendly hotels in Marseille.",
+    "highlights": [
+      "Rooftop terrace",
+      "Trendy design",
+      "Free WiFi"
+    ],
+    "slug": "mama-shelter-marseille-marseille"
+  },
+  {
+    "id": "marseille-4",
+    "name": "NH Collection Marseille",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2200,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/nh-collection-marseille.html",
+    "petFee": 25,
+    "petPolicy": "Pets are allowed at NH Collection Marseille upon request. A fee of €25 per pet per night applies. Maximum two pets per room, each up to 25 kg. Contact the hotel in advance to arrange a pet-friendly room.",
+    "highlights": [
+      "Old Port location",
+      "Fitness centre",
+      "Free WiFi"
+    ],
+    "slug": "nh-collection-marseille-marseille"
+  },
+  {
+    "id": "marseille-5",
+    "name": "Hotel Hermes",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1500,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hermes.html",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at Hotel Hermes on request with a small extra charge per night. Small pets welcome; ideal for travellers exploring the Vieux-Port area with their dog. Confirm availability when booking.",
+    "highlights": [
+      "Rooftop terrace",
+      "Near Old Port",
+      "Free WiFi"
+    ],
+    "slug": "hotel-hermes-marseille"
+  },
+  {
+    "id": "marseille-6",
+    "name": "ibis Marseille Centre Gare Saint Charles",
+    "destinationSlug": "marseille",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 5200,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibismarseillecentregaresaintcharles.html",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at ibis Marseille Centre Gare Saint Charles with a small nightly charge. Convenient for travellers arriving by train with a pet — only steps from Gare Saint-Charles. Well-behaved dogs welcome in guest rooms.",
+    "highlights": [
+      "Near train station",
+      "24-hour front desk",
+      "Free WiFi"
+    ],
+    "slug": "ibis-marseille-centre-gare-saint-charles-marseille"
+  },
+  {
+    "id": "rotterdam-1",
+    "name": "nhow Rotterdam",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 5200,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nhow-rotterdam.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats up to 25 kg are allowed at nhow Rotterdam for €35 per pet per night. Maximum two pets per room. Pets are not allowed in the Elvy Gastrobar or on the rooftop terrace. Guide dogs stay free.",
+    "highlights": [
+      "River view",
+      "Central Wilhelminapier location",
+      "Design hotel"
+    ],
+    "slug": "nhow-rotterdam-rotterdam"
+  },
+  {
+    "id": "rotterdam-2",
+    "name": "Hilton Rotterdam",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4100,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/hilton-rotterdam.html",
+    "petFee": 35,
+    "petPolicy": "Pets are welcome at Hilton Rotterdam on request. A fee applies per pet per stay. Only small to medium pets are accepted; notify the hotel at booking. Central location steps from Rotterdam Central Station.",
+    "highlights": [
+      "Central station nearby",
+      "Fitness centre",
+      "On-site restaurant"
+    ],
+    "slug": "hilton-rotterdam-rotterdam"
+  },
+  {
+    "id": "rotterdam-3",
+    "name": "Haven Hotel Rotterdam, Curio Collection by Hilton",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3600,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/mainport.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats up to 23 kg are allowed at Haven Hotel Rotterdam (formerly Mainport) for €35 per pet per night. Multiple pets welcome. Located on the banks of the Maas river near the Erasmus Bridge.",
+    "highlights": [
+      "Harbour view",
+      "Spa and sauna",
+      "Luxury rooms"
+    ],
+    "slug": "haven-hotel-rotterdam-curio-collection-by-hilton-rotterdam"
+  },
+  {
+    "id": "rotterdam-4",
+    "name": "NH Atlanta Rotterdam",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nhatlanta.html",
+    "petFee": 25,
+    "petPolicy": "NH Atlanta Rotterdam allows up to 2 pets per room (dogs and cats, max 25 kg) in designated pet-friendly rooms for €25 per pet per night. Exotic pets are not accepted. Contact the hotel in advance to book a pet-friendly room.",
+    "highlights": [
+      "Historic Art Deco building",
+      "Central location",
+      "Free WiFi"
+    ],
+    "slug": "nh-atlanta-rotterdam-rotterdam"
+  },
+  {
+    "id": "rotterdam-5",
+    "name": "Room Mate Bruno",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "boutique-pet-friendly",
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/room-mate-bruno.html",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed on request at Room Mate Bruno; charges may apply. The design hotel welcomes small dogs in guest rooms. Waterfront location on Wilhelminapier with easy access to Kop van Zuid walks.",
+    "highlights": [
+      "Waterfront location",
+      "Design interiors",
+      "Free WiFi"
+    ],
+    "slug": "room-mate-bruno-rotterdam"
+  },
+  {
+    "id": "rotterdam-6",
+    "name": "ibis Rotterdam City Centre",
+    "destinationSlug": "rotterdam",
+    "categories": [
+      "budget-pet-friendly",
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 4800,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/ibis-rotterdam-city-centre.html",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at ibis Rotterdam City Centre with a small extra charge per pet per night. Well-behaved dogs are welcome in guest rooms. Central location within walking distance of Markthal and Witte de Withstraat.",
+    "highlights": [
+      "Central location",
+      "Free WiFi",
+      "Budget-friendly"
+    ],
+    "slug": "ibis-rotterdam-city-centre-rotterdam"
   }
 ]

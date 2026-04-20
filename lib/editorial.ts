@@ -252,6 +252,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Calanques National Park trails, the Frioul islands accessible by ferry, and the 5-kilometre Corniche Kennedy promenade',
       area: 'the Vieux-Port quays, Le Panier historic quarter, and the Vallon des Auffes fishing port',
     },
+    bologna: {
+      personality: 'a medieval Italian city of porticoes and food markets that welcomes dogs into its cafés, piazzas and surrounding hills',
+      highlight: 'the Giardini Margherita park, the porticoed San Luca trail (3.8 km), and the hills above the Bolognina district',
+      area: 'the Quadrilatero food district, Santo Stefano, and the Via Zamboni university quarter',
+    },
+    cologne: {
+      personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
+      highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
+      area: 'the Altstadt around the cathedral, Ehrenfeld, and the Severinsviertel',
+    },
+    'san-sebastian': {
+      personality: 'a Basque seaside city where dogs outnumber children in some districts and beaches open to them from October to May',
+      highlight: 'La Concha and Zurriola beaches (October–May), Monte Urgull\'s hill trails, and the Paseo Nuevo coastal path',
+      area: 'the Old Town (Parte Vieja), Gros, and the Antiguo district near Monte Igueldo',
+    },
+    toulouse: {
+      personality: 'a laid-back southwestern city of pink brick and outdoor terraces where dogs blend into everyday life along the Garonne',
+      highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
+      area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
+    },
   },
   fr: {
     amsterdam: {
@@ -484,6 +504,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les sentiers du Parc National des Calanques, les îles du Frioul accessibles en ferry et les 5 kilomètres de la Corniche Kennedy',
       area: 'les quais du Vieux-Port, le quartier historique du Panier et le port de pêche du Vallon des Auffes',
     },
+    bologna: {
+      personality: 'une ville médiévale italienne de portiques et de marchés qui accueille les chiens dans ses cafés, ses piazzas et ses collines environnantes',
+      highlight: 'les Giardini Margherita, le sentier à portiques de San Luca (3,8 km) et les collines au-dessus du quartier de la Bolognina',
+      area: 'le Quadrilatero gastronomique, Santo Stefano et le quartier universitaire de Via Zamboni',
+    },
+    cologne: {
+      personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
+      highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
+      area: 'l\'Altstadt autour de la cathédrale, Ehrenfeld et le Severinsviertel',
+    },
+    'san-sebastian': {
+      personality: 'une ville balnéaire basque où les chiens sont parfois plus nombreux que les enfants et où les plages leur ouvrent d\'octobre à mai',
+      highlight: 'les plages de La Concha et Zurriola (octobre–mai), les sentiers du Mont Urgull et le Paseo Nuevo sur le front de mer',
+      area: 'la Parte Vieja (vieille ville), Gros et le quartier d\'Antiguo près du Mont Igueldo',
+    },
+    toulouse: {
+      personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
+      highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
+      area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
+    },
   },
   es: {
     amsterdam: {
@@ -715,6 +755,26 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad mediterránea bañada por el sol donde la vida al aire libre, las terrazas y la naturaleza costera imponen un ritmo claramente dog-friendly',
       highlight: 'los senderos del Parque Nacional de las Calanques, las islas Frioul accesibles en ferry y los 5 kilómetros de la Corniche Kennedy',
       area: 'los muelles del Vieux-Port, el barrio histórico del Panier y el puerto pesquero del Vallon des Auffes',
+    },
+    bologna: {
+      personality: 'una ciudad medieval italiana de pórticos y mercados gastronómicos que acoge a los perros en sus cafés, plazas y las colinas circundantes',
+      highlight: 'los Giardini Margherita, el sendero con pórticos de San Luca (3,8 km) y las colinas sobre el barrio de la Bolognina',
+      area: 'el Quadrilatero gastronómico, Santo Stefano y el barrio universitario de Via Zamboni',
+    },
+    cologne: {
+      personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
+      highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
+      area: 'la Altstadt en torno a la catedral, Ehrenfeld y el Severinsviertel',
+    },
+    'san-sebastian': {
+      personality: 'una ciudad costera vasca donde los perros llegan a ser más numerosos que los niños en algunos barrios y cuyas playas se les abren de octubre a mayo',
+      highlight: 'las playas de La Concha y Zurriola (octubre–mayo), los senderos del Monte Urgull y el Paseo Nuevo junto al mar',
+      area: 'la Parte Vieja, Gros y el barrio de Antiguo cerca del Monte Igueldo',
+    },
+    toulouse: {
+      personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',
+      highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
+      area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
     },
   },
 }

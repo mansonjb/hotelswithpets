@@ -2445,6 +2445,1399 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cologne: {
+    history: {
+      fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires en règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,
+      en: `Cologne (Köln), founded by the Romans in 50 AD as Colonia Claudia Ara Agrippinensium, is Germany's fourth-largest city and guardian of the UNESCO-listed Gothic Kölner Dom, whose twin spires dominate the Rhine skyline. Rebuilt from wartime rubble, the city blends Carnival exuberance with a laid-back Rhineland spirit. Dog culture runs deep here: North Rhine-Westphalia requires owners to pay an annual Hundesteuer (dog tax, roughly 156 euros for the first dog in 2026) and register the animal with the city. Large or so-called 'listed' breeds must pass a temperament test and their owners carry a Hundeführerschein permit. Cologne rewards compliant owners with generous green space, riverside promenades, and a café culture where a water bowl at the door is the rule rather than the exception.`,
+      es: `Colonia (Köln), fundada por los romanos en el año 50 d.C. como Colonia Claudia Ara Agrippinensium, es la cuarta ciudad de Alemania y guardiana de la catedral gótica declarada Patrimonio de la UNESCO, cuyas torres gemelas dominan el Rin. Reconstruida tras los bombardeos, combina la euforia del Carnaval con el espíritu relajado de Renania. La cultura canina está profundamente arraigada: Renania del Norte-Westfalia exige una Hundesteuer anual (unos 156 euros por el primer perro en 2026) y el registro del animal en el ayuntamiento. Las razas grandes o 'listadas' deben superar una prueba de temperamento, y sus dueños portar un Hundeführerschein. A cambio, Colonia ofrece amplios espacios verdes, paseos ribereños y una cultura de cafés donde el cuenco de agua en la puerta es la norma.`,
+    },
+    sights: [
+      {
+        name: 'Kölner Dom',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: 'La cathédrale aux deux flèches de 157 mètres a nécessité 632 ans de construction et abrite les reliques des Rois Mages. Les chiens ne sont pas admis à l\'intérieur, mais la vaste Domplatte qui l\'entoure se prête à une balade en laisse, avec des cafés accueillants.',
+          en: 'The 157-metre twin-spired cathedral took 632 years to complete and holds the relics of the Three Magi. Dogs are not permitted inside, but the vast Domplatte plaza around it is a classic leashed stroll with cafés that welcome pets.',
+          es: 'La catedral de dos torres de 157 metros tardó 632 años en terminarse y alberga las reliquias de los Reyes Magos. No se admiten perros en el interior, pero la amplia Domplatte invita a pasear con correa, con cafés que aceptan mascotas.',
+        },
+      },
+      {
+        name: 'Rhine Promenade & Altstadt',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'La Rheinuferpromenade pavée relie le pont Hohenzollern aux maisons à pignons colorés de la vieille ville. Les chiens doivent rester en laisse dans la Altstadt ; les Poller Wiesen, au sud, offrent un espace de liberté officieux aux heures calmes.',
+          en: 'The cobbled Rheinuferpromenade links the Hohenzollern bridge to the colourful Altstadt gable houses. Dogs must stay on a leash within the old town, and the riverside Poller Wiesen just south offers unofficial off-leash space during quiet hours.',
+          es: 'La adoquinada Rheinuferpromenade conecta el puente Hohenzollern con las coloridas casas de la Altstadt. Los perros deben ir con correa en el casco antiguo; los Poller Wiesen, al sur, ofrecen un espacio suelto extraoficial en horas tranquilas.',
+        },
+      },
+      {
+        name: 'Stadtwald',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'La « forêt urbaine » de Cologne s\'étend sur 205 hectares dans le quartier verdoyant de Lindenthal et dispose d\'un Hundeauslaufplatz clôturé où les chiens peuvent courir librement. Ailleurs, la laisse est obligatoire du 1er mars au 15 juillet pour protéger les oiseaux nicheurs.',
+          en: 'Cologne\'s \'city forest\' covers 205 hectares in the leafy Lindenthal district, with a dedicated fenced Hundeauslaufplatz where dogs can run off-leash. Elsewhere in the park leashes are mandatory from 1 March to 15 July to protect ground-nesting birds.',
+          es: 'El \'bosque urbano\' de Colonia abarca 205 hectáreas en el frondoso barrio de Lindenthal, con un Hundeauslaufplatz vallado donde los perros corren sueltos. En el resto del parque la correa es obligatoria del 1 de marzo al 15 de julio para proteger a las aves nidificantes.',
+        },
+      },
+      {
+        name: 'Beethovenpark & Decksteiner Weiher',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parc paysager paisible au sud-ouest du centre, organisé autour d\'un étang d\'aviron de 1,5 km. La laisse est exigée près de l\'eau et des aires de jeux, mais les prairies attenantes font le bonheur des propriétaires de teckels et de bergers allemands.',
+          en: 'A calm landscape park southwest of the centre wrapped around a 1.5-kilometre rowing pond. Leashes are required near the water and children\'s areas, but the adjoining meadows are a favourite of local Dackel and Schäferhund owners.',
+          es: 'Un tranquilo parque paisajístico al suroeste del centro que rodea un estanque de remo de 1,5 km. La correa es obligatoria junto al agua y las zonas infantiles, pero los prados colindantes son los favoritos de los dueños de teckels y pastores alemanes.',
+        },
+      },
+      {
+        name: 'Belgisches Viertel',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: 'Les rues ombragées du Belgisches Viertel, baptisées du nom de villes flamandes, forment le quartier le plus branché de Cologne. La plupart des bistrots de la Brüsseler Platz laissent une gamelle dehors et acceptent les chiens sages sous la table — demandez « Hund erlaubt ? ».',
+          en: 'The Belgian Quarter\'s tree-lined streets named after Flemish cities form Cologne\'s hippest café grid. Most bistros on Brüsseler Platz keep water bowls outside, and many interiors welcome well-behaved dogs under the table — just ask \'Hund erlaubt?\' first.',
+          es: 'Las calles arboladas del Belgisches Viertel, con nombres de ciudades flamencas, forman el barrio más moderno de Colonia. Casi todos los bistrós de Brüsseler Platz dejan un cuenco fuera y admiten perros tranquilos bajo la mesa — pregunta primero ¿Hund erlaubt?.',
+        },
+      },
+      {
+        name: 'Rheinpark & Cable Car',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: 'Rive droite face à la vieille ville, le Rheinpark déploie 40 hectares de pelouses soignées. Les chiens voyagent gratuitement sur le téléphérique Kölner Seilbahn (à l\'appréciation du conducteur) s\'ils sont tenus en laisse et muselés, offrant une vue aérienne sur le Rhin.',
+          en: 'On the right bank opposite the Altstadt, the Rheinpark stretches 40 hectares with sculpted lawns. Dogs ride free on the Kölner Seilbahn cable car (subject to driver discretion) if leashed and muzzled, giving a stroller-friendly aerial view of the Rhine.',
+          es: 'En la orilla derecha frente a la Altstadt, el Rheinpark despliega 40 hectáreas de césped cuidado. Los perros viajan gratis en el teleférico Kölner Seilbahn (a criterio del operador) con correa y bozal, ofreciendo una vista aérea del Rin.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La Deutsche Bahn facture un tarif enfant (environ 50 % du billet adulte) pour les chiens plus grands qu\'un chat ; les petits chiens en cage fermée voyagent gratuitement en ICE, IC et trains régionaux.',
+        'La muselière est obligatoire pour les chiens de taille moyenne et grande dans les trams, bus et U-Bahn de la KVB aux heures de pointe — gardez une muselière souple dans votre sac.',
+        'Au-delà de trois mois de séjour, vous devez déclarer votre chien au Kassenamt dans les 14 jours et commencer à payer la Hundesteuer le mois suivant.',
+        'Gardez toujours le passeport européen sur vous : des contrôles aléatoires ont lieu dans les ICE venant de Belgique ou des Pays-Bas à la Hauptbahnhof de Cologne.',
+        'Les sacs à déjections sont distribués gratuitement aux bornes vertes Köln-tipptopp dans tous les grands parcs ; l\'amende pour non-ramassage atteint 100 euros.',
+      ],
+      en: [
+        'Deutsche Bahn charges a child fare (around 50 percent of the adult ticket) for dogs larger than a cat; small dogs in a closed carrier travel free on ICE, IC and regional trains.',
+        'Muzzles are mandatory for medium and large dogs on all KVB trams, buses and the U-Bahn during rush hours; keep a soft muzzle in your bag.',
+        'If you stay longer than three months, you must register your dog with the Kassenamt within 14 days and begin paying Hundesteuer the following month.',
+        'Carry your EU pet passport at all times — random checks happen on ICE trains crossing from Belgium or the Netherlands into Cologne Hauptbahnhof.',
+        'Dog waste bags are dispensed free at green Köln-tipptopp stations across all major parks; fines for not scooping reach 100 euros.',
+      ],
+      es: [
+        'Deutsche Bahn cobra tarifa infantil (cerca del 50 % del billete de adulto) para perros mayores que un gato; los pequeños en transportín cerrado viajan gratis en ICE, IC y regionales.',
+        'El bozal es obligatorio para perros medianos y grandes en los tranvías, autobuses y U-Bahn de KVB en hora punta; lleva un bozal flexible en la bolsa.',
+        'Si te quedas más de tres meses, debes inscribir al perro en el Kassenamt en 14 días y empezar a pagar la Hundesteuer el mes siguiente.',
+        'Lleva siempre el pasaporte europeo para mascotas: hay controles aleatorios en los ICE que llegan desde Bélgica o Países Bajos a la Hauptbahnhof de Colonia.',
+        'Las bolsas para excrementos se reparten gratis en las estaciones verdes Köln-tipptopp de todos los parques; la multa por no recoger llega a 100 euros.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Urgences vétérinaires (Tierärztlicher Notdienst Köln) : +49 221 340 5555, rotation 24h/24 des cliniques participantes.',
+        'Le Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) gère les déclarations de pertes et les lectures de puce, tous les jours 10h-16h.',
+        'Les races « listées » en NRW incluent le Pit Bull, l\'American Staffordshire, le Staffordshire Bullterrier et le Bull Terrier — une autorisation d\'importation est requise avant l\'arrivée.',
+        'L\'aéroport de Cologne/Bonn (CGN) accepte les chiens en cabine jusqu\'à 8 kg avec Eurowings ; les plus gros voyagent en soute via l\'Animal Lounge de Francfort.',
+        'La tenue en laisse (Anleinpflicht) est obligatoire sur tous les trottoirs, zones piétonnes, cimetières et à moins de 5 mètres des aires de jeux.',
+      ],
+      en: [
+        'Emergency vet (Tierärztlicher Notdienst Köln): +49 221 340 5555, 24/7 rotation of participating clinics.',
+        'Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) handles lost-pet reports and microchip scans daily 10:00-16:00.',
+        'Listed breeds in NRW include Pit Bull, American Staffordshire, Staffordshire Bullterrier and Bullterrier — import permits are required before arrival.',
+        'Cologne/Bonn airport (CGN) accepts dogs in cabin up to 8 kg with Eurowings; larger animals travel as cargo via Lufthansa Animal Lounge in Frankfurt.',
+        'Leash law (Anleinpflicht) applies citywide on all pavements, pedestrian zones, cemeteries and within 5 metres of playgrounds.',
+      ],
+      es: [
+        'Urgencias veterinarias (Tierärztlicher Notdienst Köln): +49 221 340 5555, rotación 24/7 de clínicas.',
+        'El Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) atiende mascotas perdidas y lectura de microchip de 10:00 a 16:00.',
+        'Las razas \'listadas\' en NRW incluyen Pit Bull, American Staffordshire, Staffordshire Bullterrier y Bull Terrier — requieren permiso de importación previo.',
+        'El aeropuerto Colonia/Bonn (CGN) admite perros en cabina hasta 8 kg con Eurowings; los mayores viajan como carga vía Animal Lounge de Fráncfort.',
+        'La obligación de correa (Anleinpflicht) rige en toda la ciudad en aceras, zonas peatonales, cementerios y a menos de 5 metros de parques infantiles.',
+      ],
+    },
+  },
+
+  munich: {
+    history: {
+      fr: `Munich (München), capitale de la Bavière depuis 1506, est née d'un établissement monastique du XIIe siècle — son nom vient de « Mönche » — avant de devenir résidence royale baroque et capitale mondiale de la bière. Les Wittelsbach y ont tracé les grands axes et fondé en 1789 le Jardin anglais, l'un des plus vastes parcs urbains d'Europe. La culture bavaroise adore les chiens : les biergartens accueillent traditionnellement les Hunde sages sous les marronniers, et l'on voit des teckels et münsterländers somnoler près des chopes de Helles. La loi bavaroise impose une Hundesteuer (100 euros par an à Munich en 2026) et une assurance responsabilité civile. Les races listées passent un test comportemental. Le quotidien reste détendu : les transports MVG acceptent les chiens en laisse, les bancs de graviers de l'Isar offrent des zones de liberté, et la célèbre vague du Eisbach attire autant les chiens que les humains.`,
+      en: `Munich (München), capital of Bavaria since 1506, grew from a 12th-century monks' settlement — its name comes from 'Mönche' — into a baroque royal residence and the world's beer capital. The Wittelsbach dynasty laid out its grand axes and founded the English Garden in 1789, one of Europe's largest urban parks. Bavarian culture adores dogs: biergartens traditionally welcome well-behaved Hunde under the chestnut trees, and you will spot Dackel and Münsterländer napping beside steins of Helles. Bavaria's Landeshundegesetz requires a Hundesteuer (100 euros per year in Munich for 2026) and liability insurance. Listed breeds face a temperament test. Yet daily life is relaxed: MVG public transport accepts leashed dogs, off-leash zones dot the Isar gravel banks, and the famous Surfer's Wave on the Eisbach draws crowds of pets and humans alike.`,
+      es: `Múnich (München), capital de Baviera desde 1506, nació de un asentamiento monástico del siglo XII — su nombre viene de 'Mönche' — y se convirtió en residencia real barroca y capital mundial de la cerveza. Los Wittelsbach trazaron sus grandes ejes y fundaron en 1789 el Jardín Inglés, uno de los mayores parques urbanos de Europa. La cultura bávara adora a los perros: los biergartens acogen tradicionalmente Hunde educados bajo los castaños, y verás teckels y münsterländer dormitando junto a jarras de Helles. La ley bávara exige una Hundesteuer (100 euros anuales en Múnich en 2026) y un seguro de responsabilidad civil. Las razas listadas superan una prueba de temperamento. La vida diaria es relajada: el MVG admite perros con correa, las riberas del Isar ofrecen zonas sueltas, y la famosa ola del Eisbach atrae por igual a perros y humanos.`,
+    },
+    sights: [
+      {
+        name: 'Englischer Garten',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Avec 375 hectares, le Jardin anglais est plus vaste que Central Park. La laisse est obligatoire sur les allées principales, mais quatre Freilaufflächen balisées — notamment près du Schwabinger Bach et de la Hirschau — autorisent la liberté du lever au coucher du soleil.',
+          en: 'At 375 hectares, the English Garden is bigger than New York\'s Central Park. Dogs must be leashed on main paths, but four marked Freilaufflächen — notably near Schwabinger Bach and the Hirschau — allow off-leash running from sunrise to sunset.',
+          es: 'Con 375 hectáreas, el Jardín Inglés supera a Central Park. Los perros deben ir con correa en los senderos principales, pero cuatro Freilaufflächen señalizadas — destacan la del Schwabinger Bach y la Hirschau — permiten soltarlos de sol a sol.',
+        },
+      },
+      {
+        name: 'Marienplatz & Glockenspiel',
+        emoji: '🕰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur médiéval de la ville abrite le Neues Rathaus néo-gothique et son Glockenspiel aux 43 cloches, qui sonne tous les jours à 11h et 12h. La zone piétonne accepte les chiens en laisse, mais la foule aux heures de spectacle est à éviter avec un chien sensible.',
+          en: 'The city\'s medieval heart hosts the neo-Gothic Neues Rathaus and its 43-bell Glockenspiel, which performs at 11:00 and 12:00 daily. The pedestrian zone allows leashed dogs, though the crowds at showtime are best avoided with sensitive pets.',
+          es: 'El corazón medieval alberga el Neues Rathaus neogótico y su Glockenspiel de 43 campanas, que suena diariamente a las 11:00 y 12:00. La zona peatonal admite perros con correa, aunque conviene evitar las multitudes del espectáculo con perros sensibles.',
+        },
+      },
+      {
+        name: 'Isar River Path',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'Isar renaturée serpente sur 14 kilomètres à travers la ville avec bancs de graviers, bras morts et la zone du Flaucher, au sud du Wittelsbacher Brücke, officiellement ouverte aux chiens sans laisse. La baignade est autorisée hors du secteur central de la Museumsinsel.',
+          en: 'The renaturalised Isar winds 14 kilometres through the city with gravel banks, shallow side channels and the Flaucher area south of Wittelsbacher Brücke designated as an official off-leash zone. Swimming is permitted for dogs outside the central Museumsinsel stretch.',
+          es: 'El renaturalizado Isar serpentea 14 km por la ciudad con playas de grava, brazos laterales y la zona del Flaucher, al sur del Wittelsbacher Brücke, oficialmente sin correa. Los perros pueden bañarse fuera del tramo central de la Museumsinsel.',
+        },
+      },
+      {
+        name: 'Viktualienmarkt Biergarten',
+        emoji: '🍺',
+        petFriendly: true,
+        desc: {
+          fr: 'Le marché aux 140 étals accueille en son centre un biergarten de 600 places sous les mâts de mai et les marronniers. La tradition bavaroise y accueille expressément les chiens ; gamelles d\'eau fournies et Leberkäs-Semmel en récompense.',
+          en: 'The 140-stall daily food market has a central biergarten seating 600 under maypoles and chestnuts. Bavarian tradition explicitly welcomes dogs at biergarten tables; water bowls are standard and a Leberkäs-Semmel ends most canine visits happily.',
+          es: 'El mercado de 140 puestos alberga en su centro un biergarten de 600 plazas bajo maypoles y castaños. La tradición bávara acoge explícitamente a los perros; hay cuencos de agua y un Leberkäs-Semmel suele cerrar la visita canina.',
+        },
+      },
+      {
+        name: 'Nymphenburg Palace Park',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'La résidence d\'été des Wittelsbach s\'étend sur un parc baroque de 180 hectares, avec canaux et bois. Les chiens en laisse sont admis sur toutes les allées principales, mais interdits dans le parterre formel devant le palais et dans les quatre pavillons.',
+          en: 'The summer Wittelsbach residence sits in a 180-hectare baroque park with canals and woodland. Dogs on leash are welcome on every main path, though they are banned from the formal parterre near the palace façade and from the four garden pavilions.',
+          es: 'La residencia estival de los Wittelsbach se extiende en un parque barroco de 180 hectáreas con canales y bosques. Se admiten perros con correa en todos los senderos, pero no en el parterre formal junto al palacio ni en los cuatro pabellones.',
+        },
+      },
+      {
+        name: 'Olympiapark',
+        emoji: '🏟️',
+        petFriendly: true,
+        desc: {
+          fr: 'Aménagé pour les Jeux de 1972, le parc de 85 hectares déploie des collines faites de gravats de guerre autour d\'un lac central. Une vaste Hundewiese clôturée à l\'ouest de l\'Olympiaturm permet la course libre, avec vue sur les Alpes par temps de Föhn.',
+          en: 'Built for the 1972 Games, the 85-hectare park has hills recycled from war rubble and a central lake. A large fenced Hundewiese west of the Olympiaturm lets dogs sprint off-leash while owners enjoy skyline views toward the Alps on clear Föhn days.',
+          es: 'Construido para los Juegos de 1972, el parque de 85 hectáreas luce colinas de escombros de guerra alrededor de un lago. Una gran Hundewiese vallada al oeste de la Olympiaturm permite soltar al perro con vistas a los Alpes en días de Föhn.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le MVG (U-Bahn, tram, bus) exige un Kinderticket (tarif enfant) pour tout chien plus gros qu\'un sac à main ; les petits en cage fermée voyagent gratuitement.',
+        'La muselière n\'est pas obligatoire dans les transports munichois, mais le conducteur peut l\'exiger lors d\'événements bondés comme l\'Oktoberfest.',
+        'Étiquette biergarten : chien sous le banc, jamais sur le siège, ni près du coin Brotzeit où l\'on déballe sa propre nourriture.',
+        'Les bassins du Flaucher sur l\'Isar sont parfaits pour la baignade, mais l\'eau reste sous 14 °C même en juillet — séchez rapidement.',
+        'L\'Oktoberfest (Theresienwiese) interdit officiellement les chiens sur le site ; seule exception : les chiens d\'assistance avec papiers.',
+      ],
+      en: [
+        'MVG (U-Bahn, tram, bus) requires a child-fare Kinderticket for every dog larger than a handbag; small dogs in closed carriers ride free.',
+        'Muzzles are not mandatory on Munich public transport, but drivers may request one at their discretion during crowded events like Oktoberfest.',
+        'Biergarten etiquette: keep your dog tucked under the bench, never on seats, and never near the Brotzeit area where self-brought food is prepared.',
+        'The Isar\'s Flaucher pools are ideal for swimming but water temperatures stay below 14 °C even in July — towel off quickly.',
+        'Oktoberfest (Theresienwiese) officially bans dogs from the grounds; the only exception is registered assistance dogs with documentation.',
+      ],
+      es: [
+        'El MVG (U-Bahn, tranvía, bus) exige un Kinderticket para cada perro más grande que un bolso; los pequeños en transportín cerrado viajan gratis.',
+        'El bozal no es obligatorio en el transporte muniqués, pero el conductor puede exigirlo en eventos concurridos como el Oktoberfest.',
+        'Etiqueta biergarten: perro bajo el banco, nunca en el asiento ni cerca del rincón Brotzeit donde se prepara comida propia.',
+        'Las pozas del Flaucher en el Isar son ideales para bañarse, pero el agua sigue bajo 14 °C incluso en julio — seca rápido al perro.',
+        'El Oktoberfest (Theresienwiese) prohíbe oficialmente los perros; única excepción, perros de asistencia con documentación.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Urgences vétérinaires de Munich : +49 89 5505 3434, nuits de semaine, week-ends et jours fériés.',
+        'Le Tierheim München (Riemer Strasse 270) est l\'un des plus grands refuges d\'Europe et reçoit les chiens trouvés 24h/24 à l\'accueil.',
+        'Les races listées bavaroises (catégorie 1) incluent Pit Bull Terrier, Bandog, American Staffordshire et Tosa Inu — l\'entrée requiert un permis du Kreisverwaltungsreferat.',
+        'L\'aéroport de Munich (MUC) dispose d\'une Animal Lounge au Terminal 1 pour les transits internationaux ; réservez 48 heures à l\'avance.',
+        'La laisse est obligatoire dans toutes les zones piétonnes, bâtiments publics et à moins de 200 mètres des écoles en période scolaire.',
+      ],
+      en: [
+        'Tierärztlicher Notdienst München hotline: +49 89 5505 3434, active weekday nights, weekends and holidays.',
+        'Tierheim München (Riemer Strasse 270) is one of Europe\'s largest shelters and accepts found dogs 24/7 at its intake desk.',
+        'Bavarian listed breeds (Kategorie 1) include Pit Bull Terrier, Bandog, American Staffordshire and Tosa Inu — entry requires a special permit from the Kreisverwaltungsreferat.',
+        'Munich airport (MUC) offers a dedicated Animal Lounge at Terminal 1 for international transits; reserve 48 hours ahead.',
+        'City-wide leash requirement applies on all pedestrian zones, public buildings and within 200 metres of schools during term time.',
+      ],
+      es: [
+        'Urgencias veterinarias Múnich: +49 89 5505 3434, noches entre semana, fines de semana y festivos.',
+        'El Tierheim München (Riemer Strasse 270) es uno de los mayores refugios de Europa y recibe perros encontrados 24/7.',
+        'Las razas listadas bávaras (categoría 1) incluyen Pit Bull Terrier, Bandog, American Staffordshire y Tosa Inu — la entrada requiere permiso del Kreisverwaltungsreferat.',
+        'El aeropuerto de Múnich (MUC) cuenta con Animal Lounge en la Terminal 1 para tránsitos internacionales; reserva con 48 horas.',
+        'La correa es obligatoria en zonas peatonales, edificios públicos y a menos de 200 metros de colegios en horario lectivo.',
+      ],
+    },
+  },
+
+  salzburg: {
+    history: {
+      fr: `Salzbourg, la « Rome du Nord » classée UNESCO, doit sa richesse à l'or blanc — le sel — extrait du Dürrnberg depuis les Celtes. Les princes-archevêques la gouvernèrent en État indépendant jusqu'en 1803, laissant la forteresse du Hohensalzburg, la vieille ville baroque et une tradition musicale couronnée par Mozart, l'enfant du pays. L'Autriche fixe les règles canines au niveau fédéral : puce, passeport européen et assurance responsabilité civile sont obligatoires, et la ville de Salzbourg perçoit une Hundeabgabe de 72 euros par an. Le Land exige un Hundeführerschein pour tout maître n'en ayant jamais détenu, à obtenir dans les quatre mois suivant l'enregistrement. La proximité des Alpes apporte hivers froids et étés de Föhn ; la ville compense par les berges vertes de la Salzach, les sentiers ombragés du Kapuzinerberg et une densité rare de Konditoreien dog-friendly.`,
+      en: `Salzburg, the UNESCO-listed 'Rome of the North', grew rich on the white gold — salt — mined in the Dürrnberg since Celtic times. The prince-archbishops ruled it as an independent state until 1803, leaving behind the Hohensalzburg fortress, the baroque Altstadt and a music tradition crowned by native son Mozart. Austria's dog rules are set federally: microchip, EU passport and liability insurance are compulsory, and the city of Salzburg levies a Hundeabgabe of 72 euros per year. Salzburg Land requires a Hundeführerschein (dog licence) for any dog whose owner has never held one before, completed within four months of registration. Alpine proximity brings cold winters and hot Föhn summers; the city compensates with green banks along the Salzach, shaded Kapuzinerberg trails and an unusually high density of pet-welcoming Konditoreien.`,
+      es: `Salzburgo, la 'Roma del Norte' declarada Patrimonio UNESCO, se enriqueció con el oro blanco — la sal — extraída del Dürrnberg desde tiempos celtas. Los príncipes-arzobispos la gobernaron como estado independiente hasta 1803, legando la fortaleza Hohensalzburg, el casco barroco y una tradición musical coronada por Mozart, hijo de la ciudad. Austria fija las normas caninas a nivel federal: microchip, pasaporte europeo y seguro de responsabilidad civil son obligatorios, y la ciudad cobra una Hundeabgabe de 72 euros anuales. El Land exige un Hundeführerschein a todo dueño primerizo, obtenible en los cuatro meses tras el registro. La cercanía alpina trae inviernos fríos y veranos de Föhn; la ciudad compensa con riberas verdes del Salzach, senderos sombreados del Kapuzinerberg y una densidad rara de Konditoreien que admiten perros.`,
+    },
+    sights: [
+      {
+        name: 'Hohensalzburg Fortress',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus grand château médiéval intact d\'Europe couronne le Festungsberg à 506 mètres. Les chiens en laisse peuvent emprunter le funiculaire et parcourir les cours extérieures et remparts ; les salles du musée et les appartements princiers leur sont interdits.',
+          en: 'Europe\'s largest fully preserved medieval castle crowns the Festungsberg at 506 metres. Leashed dogs may ride the funicular and walk the outer courtyards and ramparts; interior museum rooms and the prince\'s chambers are not accessible with pets.',
+          es: 'El mayor castillo medieval íntegro de Europa corona el Festungsberg a 506 metros. Los perros con correa pueden subir en el funicular y recorrer los patios exteriores y murallas; las salas del museo y los aposentos principescos quedan vetados.',
+        },
+      },
+      {
+        name: 'Mirabellgarten',
+        emoji: '🌹',
+        petFriendly: false,
+        desc: {
+          fr: 'Le jardin baroque de 1690 et sa fontaine du Pégase ont servi de décor à La Mélodie du bonheur. Les chiens sont strictement interdits dans les parterres, mais le Kurpark voisin, le long de la Salzach, les accepte en laisse.',
+          en: 'The 1690 baroque garden with its Pegasus fountain starred in The Sound of Music. Dogs are strictly prohibited inside the formal parterres per city bylaw, but the adjoining Kurpark along the Salzach allows leashed pets and makes a fine substitute.',
+          es: 'El jardín barroco de 1690 y su fuente de Pegaso aparecen en Sonrisas y Lágrimas. Los perros están estrictamente prohibidos en los parterres, pero el contiguo Kurpark junto al Salzach los admite con correa.',
+        },
+      },
+      {
+        name: 'Salzach River Path',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: 'Les deux rives de la Salzach émeraude offrent 7 kilomètres de promenade pavée reliant Mülln à Aigen. La plage de graviers du Glanspitz est l\'un des rares endroits de la ville où les chiens peuvent légalement se baigner hors zone de protection d\'eau potable.',
+          en: 'Both banks of the emerald Salzach offer 7 kilometres of paved promenade linking Mülln to Aigen. The gravel beach at Glanspitz marks one of the few city spots where dogs may legally swim outside the drinking-water protection zone.',
+          es: 'Ambas orillas del esmeralda Salzach ofrecen 7 km de paseo pavimentado entre Mülln y Aigen. La playa de grava del Glanspitz es uno de los pocos puntos urbanos donde los perros pueden bañarse legalmente fuera de la zona de protección de agua potable.',
+        },
+      },
+      {
+        name: 'Kapuzinerberg',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'La colline boisée de 640 mètres face à la vieille ville se gravit en 40 minutes jusqu\'au monastère des Capucins ; des chevreuils y vivent librement. Laisse obligatoire toute l\'année (réserve naturelle), mais les sentiers restent ombragés en juillet.',
+          en: 'The 640-metre wooded hill opposite the Altstadt offers a 40-minute climb to the Capuchin monastery with wild-roaming roe deer. Dogs must stay on leash year-round because of the wildlife reserve status, but paths are shaded even in July.',
+          es: 'La colina boscosa de 640 metros frente a la Altstadt se sube en 40 minutos hasta el monasterio capuchino, con corzos en libertad. La correa es obligatoria todo el año por la reserva natural, pero los senderos se mantienen sombreados en julio.',
+        },
+      },
+      {
+        name: 'Hellbrunn Palace & Trick Fountains',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: 'Palais de plaisance de 1615 célèbre pour ses grottes et fontaines-farces destinées à arroser les invités. Le parc de 60 hectares accepte gratuitement les chiens en laisse ; la visite guidée des fontaines, elle, n\'est pas adaptée à cause des jets.',
+          en: 'A 1615 pleasure palace famous for water-powered grottoes and trick fountains designed to soak unsuspecting guests. The 60-hectare park welcomes leashed dogs free of charge; the trick-fountain guided tour itself is not pet-appropriate due to spraying jets.',
+          es: 'Palacio de recreo de 1615 célebre por sus grutas y fuentes-broma que mojan a los invitados. El parque de 60 hectáreas admite perros con correa gratis; la visita guiada de las fuentes no es apta por los chorros sorpresa.',
+        },
+      },
+      {
+        name: 'Getreidegasse & Mozart\'s Birthplace',
+        emoji: '🎼',
+        petFriendly: true,
+        desc: {
+          fr: 'La ruelle commerçante de 800 ans, célèbre pour ses enseignes en fer forgé, fait face à la maison natale jaune de Mozart, au numéro 9. Les chiens en laisse sont admis dans la rue et sur la plupart des terrasses, mais pas à l\'intérieur du musée.',
+          en: 'The narrow 800-year-old shopping street with its wrought-iron guild signs fronts Mozart\'s bright-yellow birth house at number 9. Leashed dogs are permitted on the street and on most café terraces, but not inside the Mozart museum itself.',
+          es: 'La callejuela comercial de 800 años, famosa por sus rótulos de hierro forjado, da al número 9 donde nació Mozart, en la casa amarilla. Se admiten perros con correa en la calle y en la mayoría de terrazas, no dentro del museo.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chemins de fer autrichiens ÖBB : grand chien = demi-tarif adulte, muselière et laisse obligatoires ; petit chien en cage, gratuit.',
+        'Salzbourg impose le sac jaune Biokompostsackerl (biodégradable) disponible tous les 200 mètres — utiliser un sac non biodégradable dans les bacs de compost coûte 70 euros d\'amende.',
+        'Dans les cafés et restaurants salzbourgeois, le chien reste au sol, jamais sur les banquettes — norme autrichienne stricte héritée de la tradition des cafés.',
+        'Par temps de Föhn estival, le thermomètre dépasse 32 °C : marchez tôt dans l\'ombragée Leopoldskroner Allee et évitez les pavés de la Residenzplatz après 11h.',
+        'Les races listées au Land (Bull Terrier, Rottweiler, American Staffordshire…) exigent un Sachkundenachweis obtenu avant l\'entrée sur le territoire.',
+      ],
+      en: [
+        'ÖBB Austrian Railways: large dogs need a half-price adult ticket plus muzzle and leash on all trains; small dogs in a carrier ride free.',
+        'Salzburg Stadt requires a yellow Biokompostsackerl (biodegradable bag) in dispensers every 200 metres — using non-biodegradable bags in the compost bins draws a 70 euro fine.',
+        'In all Salzburg restaurants and cafés, dogs must lie on the floor, never on the upholstered benches — a strict Austrian norm also enforced in coffeehouse tradition.',
+        'Summer Föhn days push temperatures above 32 °C; walk the shaded Leopoldskroner Allee early and avoid the open Residenzplatz cobblestones after 11:00.',
+        'Listed \'aggressive\' breeds in Salzburg Land (e.g. Bull Terrier, Rottweiler, American Staffordshire) require a Sachkundenachweis obtained before the animal enters the state.',
+      ],
+      es: [
+        'Los ferrocarriles austríacos ÖBB: perro grande, medio billete adulto con bozal y correa; perro pequeño en transportín, gratis.',
+        'Salzburgo exige bolsa amarilla Biokompostsackerl (biodegradable) en dispensadores cada 200 metros — usar bolsas no biodegradables en los contenedores de compost supone 70 euros de multa.',
+        'En cafés y restaurantes de Salzburgo el perro va al suelo, nunca sobre los bancos tapizados — norma austríaca estricta de la tradición cafetera.',
+        'En días de Föhn estival se superan los 32 °C: camina temprano por la sombreada Leopoldskroner Allee y evita los adoquines de la Residenzplatz después de las 11:00.',
+        'Las razas listadas del Land (Bull Terrier, Rottweiler, American Staffordshire…) requieren Sachkundenachweis obtenido antes de entrar en el estado.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Urgences vétérinaires (Ordre des vétérinaires de Salzbourg) : +43 662 435645, redirection vers la clinique de garde.',
+        'Le Tierheim Salzburg (Bayernstrasse 1) accueille les chiens trouvés 24h/24 et croise les photos avec la Heimtierdatenbank nationale par puce.',
+        'L\'aéroport de Salzbourg (SZG) admet en cabine les chiens de moins de 8 kg avec Austrian Airlines et Eurowings ; au-delà, soute uniquement et sur certaines lignes.',
+        'Les chiens sont interdits dans les piscines publiques mais bienvenus sur le Hundebadeplatz du Glan, à Liefering.',
+        'La laisse est obligatoire dans toute zone urbanisée, sur les sentiers des alpages (Almen) et en saison de protection du gibier forestier (1er avril-30 juin).',
+      ],
+      en: [
+        'Veterinary emergency line (Tierärztekammer Salzburg): +43 662 435645, redirects to the on-duty clinic after hours.',
+        'Tierheim Salzburg (Bayernstrasse 1) takes lost dogs 24/7 and maintains a photo database checked against microchips via the national Heimtierdatenbank.',
+        'Salzburg airport (SZG) allows dogs under 8 kg in cabin with Austrian Airlines and Eurowings; larger animals fly as checked baggage only on selected routes.',
+        'Dogs are banned from Salzburg\'s public swimming lidos but welcome at the dedicated Hundebadeplatz on the Glan stream in Liefering.',
+        'Statewide leash requirement applies in all built-up areas, on marked hiking trails through alpine pastures (Almen), and during forest wildlife-protection season (1 April to 30 June).',
+      ],
+      es: [
+        'Urgencias veterinarias (Colegio de Veterinarios de Salzburgo): +43 662 435645, redirige a la clínica de guardia.',
+        'El Tierheim Salzburg (Bayernstrasse 1) recibe perros perdidos 24/7 y coteja fotos con la Heimtierdatenbank nacional por microchip.',
+        'El aeropuerto de Salzburgo (SZG) admite en cabina perros de menos de 8 kg con Austrian Airlines y Eurowings; los mayores viajan en bodega solo en rutas seleccionadas.',
+        'Los perros no entran en las piscinas públicas, pero sí en el Hundebadeplatz del arroyo Glan, en Liefering.',
+        'La correa es obligatoria en toda zona urbanizada, en los senderos de pastos alpinos (Almen) y en temporada de protección de fauna forestal (1 de abril-30 de junio).',
+      ],
+    },
+  },
+
+  zurich: {
+    history: {
+      fr: `Zurich, fondée par les Romains sous le nom de Turicum au bord de la Limmat, est passée du bourg marchand médiéval au centre financier de la Suisse, référence mondiale de qualité de vie. Huldrych Zwingli y lança la Réforme suisse depuis le Grossmünster en 1519, façonnant une éthique civique encore attachée à l'ordre et à la précision. Le canton prend les chiens au sérieux : chaque maître paie une Hundesteuer cantonale (env. 170 CHF pour le premier chien en 2026), l'animal doit être pucé dans la base AMICUS et l'assurance responsabilité civile est obligatoire. Le Hundeführerschein fédéral a été supprimé en 2017, mais Zurich a réintroduit un cours pratique pour les primo-propriétaires. En échange, la ville est taillée pour les chiens : baignades propres dans le lac, compartiments de tram dédiés, crêtes boisées de l'Uetliberg et accueil exceptionnellement généreux dans les restaurants et boutiques.`,
+      en: `Zurich, founded by the Romans as Turicum on the Limmat, grew from a medieval trading town into Switzerland's financial capital and a global benchmark for quality of life. Huldrych Zwingli launched the Swiss Reformation from the Grossmünster in 1519, shaping a civic ethic that still prizes order and precision. Canton Zurich is dog-serious: every owner pays a cantonal Hundesteuer (around 170 CHF for the first dog in 2026), the animal must be microchipped in the national AMICUS database, and liability insurance is mandatory. The old federal Hundeführerschein was abolished in 2017, but Canton Zurich reinstated a practical course requirement for first-time owners. The reward is a city built for dogs: clean lake swimming zones, dedicated tram compartments, the Uetliberg's forested ridges and an unusually generous welcome in restaurants and shops.`,
+      es: `Zúrich, fundada por los romanos como Turicum a orillas del Limmat, pasó de burgo medieval a capital financiera de Suiza y referencia mundial de calidad de vida. Huldrych Zwingli lanzó la Reforma suiza desde el Grossmünster en 1519, forjando una ética cívica aún apegada al orden y la precisión. El cantón se toma en serio a los perros: cada dueño paga una Hundesteuer cantonal (unos 170 CHF por el primer perro en 2026), el animal debe ir chipado en la base AMICUS y el seguro de responsabilidad civil es obligatorio. El Hundeführerschein federal desapareció en 2017, pero Zúrich reintrodujo un curso práctico para dueños primerizos. A cambio, la ciudad está hecha para perros: baños limpios en el lago, compartimentos de tranvía dedicados, crestas boscosas del Uetliberg y una acogida excepcional en restaurantes y comercios.`,
+    },
+    sights: [
+      {
+        name: 'Lake Zurich & Seebad',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: 'Le lac glaciaire de 40 kilomètres dessine la bordure sud de la ville. Les chiens n\'entrent pas dans les Seebad aménagés (Enge, Utoquai) mais disposent de trois Hundebadeplätze — Wollishofen, Tiefenbrunnen et Zürichhorn — avec entrées herbeuses en pente douce.',
+          en: 'The 40-kilometre glacial lake defines the city\'s southern edge. Dogs cannot enter the manicured swimming lidos (Seebad Enge, Utoquai) but have three dedicated Hundebadeplätze — Wollishofen, Tiefenbrunnen and Zürichhorn — with gently sloping grass entries.',
+          es: 'El lago glaciar de 40 km define el borde sur de la ciudad. Los perros no entran en los Seebad ajardinados (Enge, Utoquai) pero tienen tres Hundebadeplätze — Wollishofen, Tiefenbrunnen y Zürichhorn — con rampas herbosas suaves.',
+        },
+      },
+      {
+        name: 'Uetliberg',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: 'Le « sommet de Zurich » à 870 mètres se rejoint en 20 minutes par le train S10 — chiens gratuits avec Hundepass ou demi-tarif. La crête de 4 kilomètres jusqu\'à Felsenegg enchaîne les bancs panoramiques ; laisse obligatoire en saison de nidification (1er avril-31 juillet).',
+          en: 'The 870-metre \'top of Zurich\' is reachable in 20 minutes on the S10 train — dogs ride free with a Hundepass or half-fare ticket. A 4-kilometre ridge trail to Felsenegg links panoramic benches; watch for mandatory leash signs during nesting season from 1 April to 31 July.',
+          es: 'La \'cumbre de Zúrich\', a 870 metros, se alcanza en 20 minutos con el tren S10 — los perros viajan gratis con Hundepass o billete de media tarifa. La cresta de 4 km hasta Felsenegg encadena bancos panorámicos; correa obligatoria en época de nidificación (1 de abril-31 de julio).',
+        },
+      },
+      {
+        name: 'Altstadt & Grossmünster',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'La vieille ville médiévale s\'étend sur les deux rives de la Limmat entre le Grossmünster à deux tours et les vitraux de Chagall du Fraumünster. Chiens en laisse bienvenus dans toutes les ruelles et sur la plupart des ponts, mais pas dans les églises ; la terrasse voisine du Lindenhof offre une pause ombragée.',
+          en: 'The medieval old town straddles the Limmat between the twin-towered Grossmünster and the Fraumünster\'s Chagall windows. Dogs on leash are welcome on all lanes and most bridges, but not inside the churches; the nearby Lindenhof terrace offers a quiet shaded break.',
+          es: 'El casco medieval se extiende a ambos lados del Limmat entre las dos torres del Grossmünster y las vidrieras de Chagall del Fraumünster. Se admiten perros con correa en todas las callejuelas y casi todos los puentes, no dentro de las iglesias; la cercana terraza del Lindenhof ofrece sombra tranquila.',
+        },
+      },
+      {
+        name: 'Zurichhorn & Chinese Garden',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc au bord du lac sur la rive est, avec pelouses, la sculpture cinétique Heureka et le Jardin chinois (don de la ville jumelle de Kunming). Chiens libres tolérés sur les prairies, laisse près de l\'entrée du jardin et des kiosques.',
+          en: 'A lakeside park on the eastern shore with lawns, the Heureka kinetic sculpture and Zurich\'s Chinese Garden (a gift from twin city Kunming). Dogs off-leash are tolerated on the meadows but must be leashed near the garden entrance and the kiosk areas.',
+          es: 'Parque a orillas del lago en la costa este, con praderas, la escultura cinética Heureka y el Jardín Chino (regalo de la ciudad hermanada de Kunming). Se toleran perros sueltos en las praderas, correa cerca de la entrada del jardín y los kioscos.',
+        },
+      },
+      {
+        name: 'Sihlwald',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'unique Wildnispark de Suisse couvre 11 km² de hêtraies anciennes à 20 minutes au sud par le S4. Laisse partout dans la réserve (protection des cerfs et du lynx) ; le sentier principal de la vallée de la Sihl reste accessible aux poussettes toute l\'année.',
+          en: 'Switzerland\'s only Wildnispark covers 11 square kilometres of old-growth beech forest 20 minutes south by S4 train. Dogs must stay on leash everywhere inside the reserve to protect red deer and lynx, with the main Sihl valley path stroller-accessible year-round.',
+          es: 'El único Wildnispark de Suiza abarca 11 km² de hayedos viejos a 20 minutos al sur en el S4. Correa obligatoria en toda la reserva (protección de ciervos y lince); el sendero principal del valle del Sihl es apto para cochecitos todo el año.',
+        },
+      },
+      {
+        name: 'Bahnhofstrasse & Paradeplatz',
+        emoji: '💳',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'avenue commerçante de 1,4 km entre la gare et le lac figure parmi les plus chères du monde. Les chiens en laisse sont admis dans la plupart des grands magasins (Jelmoli, Globus), et le temple du chocolat Sprüngli, sur la Paradeplatz, met une gamelle à la porte.',
+          en: 'The 1.4-kilometre shopping avenue from the main station to the lake is one of the world\'s most expensive addresses. Leashed dogs are admitted in most department stores (Jelmoli, Globus) and the chocolate temple Sprüngli on Paradeplatz provides a water bowl at the door.',
+          es: 'La avenida comercial de 1,4 km entre la estación y el lago figura entre las direcciones más caras del mundo. Se admiten perros con correa en la mayoría de grandes almacenes (Jelmoli, Globus), y la chocolatería Sprüngli, en la Paradeplatz, deja un cuenco de agua en la puerta.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le Hundebillett CFF coûte 25 CHF forfaitaires pour un jour sur tous les trains, trams et bus du pays ; les petits chiens de moins de 30 cm en cage voyagent gratuitement.',
+        'Le Hundepass annuel à 350 CHF couvre les voyages illimités sur les CFF et devient rentable dès 14 jours de déplacement — idéal pour un tour de Suisse.',
+        'Le canton de Zurich interdit 8 races à risque (Pit Bull Terrier, American Staffordshire, croisements Bull Terrier…) ; entrée touristique autorisée jusqu\'à 30 jours avec enregistrement obligatoire.',
+        'Les stations Robidog se trouvent tous les 300 mètres le long du lac et des rivières ; amende de 80 CHF pour non-ramassage dans tout le canton.',
+        'Les restaurants affichant l\'autocollant Hund willkommen (ville de Zurich) garantissent une gamelle et une place à l\'écart de la cuisine — raccourci utile.',
+      ],
+      en: [
+        'SBB Hundebillett (dog ticket) costs a flat CHF 25 for a day pass covering all trains, trams and buses nationwide; small dogs under 30 cm in a carrier ride free.',
+        'An annual Hundepass at CHF 350 covers unlimited SBB travel and pays off after roughly 14 day passes — ideal for holidays touring multiple cantons.',
+        'Canton Zurich bans 8 high-risk breeds outright (Pit Bull Terrier, American Staffordshire, Bull Terrier crossings and others); temporary tourist entry up to 30 days is allowed but registration is mandatory.',
+        'Poop-bag \'Robidog\' stations stand every 300 metres along lake and river paths; fine for not picking up is CHF 80 anywhere in Canton Zurich.',
+        'Restaurants with a Hund willkommen sticker (issued by the city) guarantee a water bowl and a spot away from the kitchen — useful shortcut when scanning menus.',
+      ],
+      es: [
+        'El Hundebillett de SBB cuesta 25 CHF fijos por un día en todos los trenes, tranvías y autobuses del país; los perros pequeños de menos de 30 cm en transportín viajan gratis.',
+        'El Hundepass anual de 350 CHF cubre viajes ilimitados en SBB y resulta rentable a partir de 14 días de movimiento — ideal para recorrer cantones.',
+        'El cantón de Zúrich prohíbe 8 razas de riesgo (Pit Bull Terrier, American Staffordshire, cruces de Bull Terrier…); entrada turística permitida hasta 30 días con registro obligatorio.',
+        'Las estaciones Robidog están cada 300 metros en lago y ríos; la multa por no recoger es de 80 CHF en todo el cantón.',
+        'Los restaurantes con la pegatina Hund willkommen (ciudad de Zúrich) garantizan cuenco de agua y mesa lejos de la cocina — atajo útil al elegir.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Le Tierspital de Zurich (Winterthurerstrasse 260) dispose d\'urgences petits animaux 24h/24 : +41 44 635 81 11.',
+        'Chien perdu ? Zurich utilise la base nationale ANIS/AMICUS gérée par Identitas AG ; tout vétérinaire ou poste de police peut scanner la puce.',
+        'L\'aéroport de Zurich (ZRH) abrite l\'Animal Welfare Zurich pour les transits internationaux ; Swiss WorldCargo accepte les animaux sur la plupart des long-courriers (réservation 72 h à l\'avance).',
+        'Les chiens voyagent gratuitement sur les trams et bus VBZ en heures creuses ; en 6h-9h et 17h-19h, un billet enfant demi-tarif est exigé pour les moyens et grands chiens.',
+        'Laisse obligatoire dans toutes les forêts du canton du 1er avril au 31 juillet (protection de la faune) ; amende jusqu\'à 300 CHF en cas de chien en liberté.',
+      ],
+      en: [
+        'Tierspital Zurich (Winterthurerstrasse 260) runs a 24/7 small-animal emergency clinic: +41 44 635 81 11.',
+        'Lost pet? Zurich uses the national ANIS/AMICUS microchip database run by Identitas AG; any vet or police station can scan and look up owners.',
+        'Zurich Flughafen (ZRH) has the Animal Welfare Zurich cargo station for international transit; Swiss WorldCargo accepts pets on most long-haul flights with 72-hour booking.',
+        'Dogs ride free on VBZ trams and buses outside peak hours; during 6:00-9:00 and 17:00-19:00 a half-fare child ticket is required for medium and large dogs.',
+        'Canton-wide leash requirement runs from 1 April to 31 July in every forest to protect wildlife, with fines up to CHF 300 for free-running dogs.',
+      ],
+      es: [
+        'El Tierspital de Zúrich (Winterthurerstrasse 260) tiene urgencias de pequeños animales 24/7: +41 44 635 81 11.',
+        '¿Perro perdido? Zúrich usa la base nacional ANIS/AMICUS gestionada por Identitas AG; cualquier veterinario o comisaría puede escanear el chip.',
+        'El aeropuerto de Zúrich (ZRH) alberga Animal Welfare Zurich para tránsitos internacionales; Swiss WorldCargo acepta mascotas en la mayoría de vuelos largos con reserva de 72 horas.',
+        'Los perros viajan gratis en tranvías y buses VBZ en horas valle; entre 6:00-9:00 y 17:00-19:00 se exige billete infantil de media tarifa para medianos y grandes.',
+        'Correa obligatoria en todos los bosques del cantón del 1 de abril al 31 de julio (protección de fauna); multa de hasta 300 CHF por perro suelto.',
+      ],
+    },
+  },
+
+  bologna: {
+    history: {
+      fr: `Bologne, capitale de l'Émilie-Romagne, a gagné ses surnoms La Dotta (la Savante) en accueillant la plus ancienne université d'Europe, fondée en 1088; La Rossa pour ses toits en terre cuite; et La Grassa pour une cuisine fondée sur les tortellini, la mortadelle et le ragù. Près de 62 kilomètres de portiques médiévaux, aujourd'hui classés à l'UNESCO, abritent les piétons du soleil et de la pluie, rendant le centre historique exceptionnellement agréable à parcourir avec un chien. La culture bolognaise embrasse les compagnons à quatre pattes: les trattorias accueillent volontiers les chiens bien élevés, et la race locale, le Bichon Bolonais, a été élevée ici comme chien de salon durant la Renaissance. Les collines verdoyantes au sud des remparts, notamment vers San Luca, sont depuis des siècles un lieu de promenade apprécié.`,
+      en: `Bologna, capital of Emilia-Romagna, earned its nicknames La Dotta (the Learned) for hosting Europe's oldest university, founded in 1088; La Rossa for its terracotta rooftops; and La Grassa for a cuisine built on tortellini, mortadella and ragù. Nearly 38 miles of medieval porticoes, now UNESCO-listed, shelter pedestrians from sun and rain, making the historic core uniquely walkable with a dog at your side. Bolognese culture embraces four-legged companions: trattorie routinely welcome well-behaved dogs, and the city's own ancient breed, the Bolognese toy dog, was bred here as a Renaissance lap companion and gifted among European courts. Leafy hills rise immediately south of the walls, where trails toward San Luca have been a pilgrim and dog-walker favorite for centuries.`,
+      es: `Bolonia, capital de Emilia-Romaña, ganó sus apodos La Dotta (la Sabia) por albergar la universidad más antigua de Europa, fundada en 1088; La Rossa por sus tejados de terracota; y La Grassa por una cocina basada en tortellini, mortadela y ragú. Casi 62 kilómetros de pórticos medievales, hoy declarados Patrimonio de la UNESCO, protegen a los peatones del sol y la lluvia, haciendo que el centro histórico sea excepcionalmente transitable con un perro. La cultura boloñesa abraza a los compañeros de cuatro patas: las trattorias suelen admitir perros bien educados, y la raza local, el Bichón Boloñés, se crió aquí como perro de regazo renacentista, regalado entre cortes europeas. Las colinas al sur de las murallas, hacia San Luca, son desde hace siglos un paseo muy querido.`,
+    },
+    sights: [
+      {
+        name: 'Portico di San Luca',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'Une arcade couverte de 3,8 km avec 666 arches grimpant la Colle della Guardia jusqu\'au Sanctuaire de la Madone de San Luca. Les chiens en laisse sont les bienvenus sur toute la montée, et les portiques ombragés la rendent praticable même en été.',
+          en: 'A 3.8 km covered arcade with 666 arches climbing Colle della Guardia to the Sanctuary of the Madonna di San Luca. Dogs on leash are welcome along the entire ascent, and the shaded porticoes make it viable even in summer heat.',
+          es: 'Una arcada cubierta de 3,8 km con 666 arcos que sube la Colle della Guardia hasta el Santuario de la Virgen de San Luca. Se admiten perros con correa en toda la subida, y los pórticos sombreados la hacen viable incluso con el calor del verano.',
+        },
+      },
+      {
+        name: 'Giardini Margherita',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus grand parc public de Bologne, ouvert en 1879 et inspiré des jardins anglais, couvre 26 hectares juste hors de Porta Santo Stefano. Il dispose de deux aires canines clôturées sans laisse, d\'un étang et de pelouses ombragées parfaites pour un pique-nique.',
+          en: 'Bologna\'s largest public park, opened in 1879 and modeled on English gardens, covers 26 hectares just outside Porta Santo Stefano. It features two fenced off-leash dog areas, a pond and shaded lawns ideal for a picnic after a long city walk.',
+          es: 'El mayor parque público de Bolonia, inaugurado en 1879 e inspirado en jardines ingleses, ocupa 26 hectáreas junto a Porta Santo Stefano. Cuenta con dos zonas caninas valladas sin correa, un estanque y praderas sombreadas ideales para un picnic.',
+        },
+      },
+      {
+        name: 'Piazza Maggiore & Basilica di San Petronio',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: 'Le cœur civique de la ville depuis le XIIIe siècle, bordé du Palazzo d\'Accursio et de la façade inachevée de San Petronio, l\'une des plus grandes églises du monde. Les chiens sont admis sur la place mais pas à l\'intérieur de la basilique.',
+          en: 'The civic heart of the city since the 13th century, flanked by the Palazzo d\'Accursio and the unfinished façade of San Petronio, one of the largest churches in the world. Dogs are welcome on the square itself, but not inside the basilica.',
+          es: 'El corazón cívico de la ciudad desde el siglo XIII, flanqueado por el Palazzo d\'Accursio y la fachada inacabada de San Petronio, una de las iglesias más grandes del mundo. Se admiten perros en la plaza pero no dentro de la basílica.',
+        },
+      },
+      {
+        name: 'Quadrilatero Market',
+        emoji: '🧀',
+        petFriendly: true,
+        desc: {
+          fr: 'Un dédale médiéval à l\'est de Piazza Maggiore où salumerie, fromageries et osterie commercent depuis le Moyen Âge. Les chiens en laisse sont bienvenus en extérieur à la plupart des étals et terrasses, mais exclus des comptoirs intérieurs pour raisons d\'hygiène.',
+          en: 'A dense grid of medieval lanes east of Piazza Maggiore where salumerie, cheese shops and osterie have traded since the Middle Ages. Leashed dogs are welcomed outdoors at most stalls and café terraces, though food-hygiene rules keep them out of indoor counters.',
+          es: 'Una cuadrícula medieval al este de Piazza Maggiore donde salumerie, queserías y osterie comercian desde la Edad Media. Se admiten perros con correa al aire libre en la mayoría de puestos y terrazas, aunque las normas de higiene los excluyen de los mostradores interiores.',
+        },
+      },
+      {
+        name: 'Le Due Torri (Asinelli & Garisenda)',
+        emoji: '🗼',
+        petFriendly: false,
+        desc: {
+          fr: 'Les tours penchées jumelles, bâties par des familles rivales vers 1109-1119, définissent la silhouette de Bologne. La place en contrebas est accessible aux chiens, mais la montée de 498 marches de l\'Asinelli leur est interdite et l\'accès reste limité le temps de la restauration de la Garisenda.',
+          en: 'The leaning twin towers built by rival noble families around 1109-1119 are Bologna\'s defining skyline. The base piazza is pet-friendly, but the 498-step climb up Asinelli is off-limits to dogs and currently restricted pending restoration of Garisenda.',
+          es: 'Las torres gemelas inclinadas, construidas por familias rivales hacia 1109-1119, definen el perfil de Bolonia. La plaza a sus pies admite perros, pero los 498 escalones de la Asinelli están vetados para ellos y el acceso sigue limitado mientras se restaura la Garisenda.',
+        },
+      },
+      {
+        name: 'Parco di Villa Ghigi',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parc de colline de 28 hectares à dix minutes des remparts, avec oliveraies, vergers et larges vues sur les toits. Les chiens peuvent courir sans laisse sur les prairies balisées, ce qui en fait l\'évasion préférée des habitants pour les longues balades matinales.',
+          en: 'A 28-hectare hillside park ten minutes from the walls, with olive groves, orchards and wide views over the rooftops. Dogs may run off-leash on marked meadows, making it the locals\' favorite escape for long morning walks.',
+          es: 'Un parque en la colina de 28 hectáreas a diez minutos de las murallas, con olivares, huertos y amplias vistas sobre los tejados. Los perros pueden correr sin correa en las praderas señalizadas, lo que lo convierte en el escape favorito de los locales.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La loi italienne impose d\'avoir une muselière sur soi et de la présenter sur demande, même si votre chien ne la porte pas; gardez toujours une laisse de 1,5 m maximum en public.',
+        'Ramassez immédiatement — l\'arrêté municipal de Bologne exige des propriétaires qu\'ils aient sacs et petite bouteille d\'eau pour rincer l\'urine des portiques, sous peine d\'amende jusqu\'à 450 EUR.',
+        'Les portiques sont votre meilleur allié l\'été: planifiez vos balades via Zamboni ou Strada Maggiore pour épargner les coussinets du pavé brûlant.',
+        'Les chiens voyagent gratuitement dans les bus TPER, en laisse et muselés (ou en caisse); évitez l\'heure de pointe 7h30-9h00.',
+        'La plupart des trattorias du Quadrilatero apportent une gamelle d\'eau sur demande — demandez \'una ciotola d\'acqua per il cane\'.',
+      ],
+      en: [
+        'Under Italian law you must carry a muzzle and produce it on request, even if your dog never wears it; always keep a leash (max 1.5 m) in public.',
+        'Clean up immediately — Bologna\'s municipal ordinance requires owners to carry both bags and a small bottle of water to rinse urine from porticoes, with fines up to 450 EUR.',
+        'The porticoes are your summer best friend: plan walks along Via Zamboni or Strada Maggiore to keep paws off sun-baked pavement.',
+        'Dogs ride free on TPER city buses when leashed and muzzled (or carried in a crate); avoid rush hour 7:30-9:00.',
+        'Most trattorie in the Quadrilatero put out a water bowl on request — ask for \'una ciotola d\'acqua per il cane\'.',
+      ],
+      es: [
+        'La ley italiana obliga a llevar bozal y mostrarlo si se solicita, aunque el perro no lo use; mantenga siempre una correa de máximo 1,5 m en público.',
+        'Recoja de inmediato — la ordenanza municipal de Bolonia exige llevar bolsas y una botellita de agua para enjuagar la orina de los pórticos, con multas de hasta 450 EUR.',
+        'Los pórticos son su mejor aliado en verano: planifique paseos por Via Zamboni o Strada Maggiore para evitar el pavimento ardiente.',
+        'Los perros viajan gratis en los autobuses TPER con correa y bozal (o en transportín); evite la hora punta 7:30-9:00.',
+        'La mayoría de trattorias del Quadrilatero sacan un bol de agua si lo pide — diga \'una ciotola d\'acqua per il cane\'.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport le plus proche: Bologne Guglielmo Marconi (BLQ), à 6 km du centre; les petits chiens en sac voyagent gratuitement sur le monorail Marconi Express, les plus gros uniquement en taxi.',
+        'La clinique vétérinaire 24h/24 la plus proche est l\'Ospedale Veterinario San Francesco à San Lazzaro di Savena, à environ 15 minutes en voiture du centre historique.',
+        'L\'eau du robinet est potable et les fontaines (fontanelle) coulent toute l\'année Piazza Maggiore et Giardini Margherita — remplissez la gamelle partout.',
+        'L\'été dépasse régulièrement 35 °C; promenez avant 9h ou après 20h, car les rues en céramique gardent la chaleur jusque tard dans la nuit.',
+        'La taxe canine ne concerne pas les touristes, mais emportez le passeport européen et la preuve de vaccination antirabique si vous venez de l\'étranger.',
+      ],
+      en: [
+        'Nearest airport: Bologna Guglielmo Marconi (BLQ), 6 km from center; small dogs in carriers travel free on the Marconi Express monorail, larger dogs by taxi only.',
+        'The closest 24-hour veterinary clinic is Ospedale Veterinario San Francesco in San Lazzaro di Savena, about 15 minutes by car from the historic center.',
+        'Tap water is safe and fountains (fontanelle) run year-round in Piazza Maggiore and Giardini Margherita — fill your dog\'s bowl anywhere.',
+        'Summer temperatures regularly exceed 35 °C; walk before 9:00 or after 20:00, as the ceramic-tiled streets retain heat into the night.',
+        'Dog license tax does not apply to tourists, but you must carry the EU pet passport and proof of rabies vaccination if crossing from outside Italy.',
+      ],
+      es: [
+        'Aeropuerto más cercano: Bolonia Guglielmo Marconi (BLQ), a 6 km del centro; los perros pequeños en transportín viajan gratis en el monorraíl Marconi Express, los grandes solo en taxi.',
+        'La clínica veterinaria 24 horas más próxima es el Ospedale Veterinario San Francesco en San Lazzaro di Savena, a unos 15 minutos en coche del centro histórico.',
+        'El agua del grifo es potable y las fuentes (fontanelle) funcionan todo el año en Piazza Maggiore y Giardini Margherita — rellene el bol en cualquier sitio.',
+        'El verano supera a menudo los 35 °C; pasee antes de las 9:00 o después de las 20:00, porque las calles cerámicas conservan el calor hasta la noche.',
+        'El impuesto canino no afecta a los turistas, pero lleve el pasaporte europeo y el certificado de vacunación antirrábica si llega desde fuera de Italia.',
+      ],
+    },
+  },
+
+  milan: {
+    history: {
+      fr: `Milan, capitale de la Lombardie et moteur financier et mode de l'Italie, remonte à l'établissement celte de Medhelan vers 600 av. J.-C. avant de devenir capitale impériale romaine en 286 apr. J.-C. La ville mêle aujourd'hui la grandeur gothique — le Duomo et ses 135 flèches ont mis près de six siècles à être achevés — aux gratte-ciel élégants de Porta Nuova et aux canaux restaurés des Navigli. Le mode de vie milanais est réputé dog-friendly: l'Italie a le plus fort taux de possession de chiens d'Europe, et on les voit impeccablement toilettés dans le Quadrilatero, aux terrasses de l'aperitivo des Navigli et au Parco Sempione le dimanche. La ville accueille même chaque année 'Quattrozampeinfiera' à la Fiera Milano. Les animaux sont admis dans les transports ATM — métro, tram, bus — à condition de porter laisse ET muselière, règle appliquée plus strictement qu'ailleurs en Italie.`,
+      en: `Milan, capital of Lombardy and Italy's financial and fashion powerhouse, traces its origins to the Celtic settlement of Medhelan around 600 BCE before becoming a Roman imperial capital in 286 CE. Today it blends Gothic grandeur — the Duomo's 135 spires took nearly six centuries to complete — with sleek Porta Nuova skyscrapers and the restored Navigli canals. Milanese lifestyle is famously dog-forward: Italy's highest per-capita pet ownership sees immaculately groomed dogs in Quadrilatero boutiques, aperitivo terraces along the Navigli, and Sunday strolls in Parco Sempione. The city even hosts the annual 'Quattrozampeinfiera' pet fair at Fiera Milano. Pets are fully welcomed on ATM transit — metro, tram and bus — provided they wear both leash and muzzle, a rule enforced more strictly here than in most Italian cities.`,
+      es: `Milán, capital de Lombardía y motor financiero y de la moda de Italia, nació como asentamiento celta de Medhelan hacia el 600 a.C. antes de convertirse en capital imperial romana en el 286 d.C. Hoy combina la grandeza gótica — el Duomo y sus 135 agujas tardaron casi seis siglos en completarse — con los rascacielos de Porta Nuova y los canales restaurados de los Navigli. El estilo de vida milanés es conocido por su amor a los perros: Italia tiene la mayor tasa de posesión canina de Europa, y se les ve impecables en las boutiques del Quadrilatero, en los aperitivos de los Navigli y en los paseos dominicales del Parco Sempione. La ciudad acoge cada año la feria 'Quattrozampeinfiera' en Fiera Milano. Las mascotas viajan en el transporte ATM — metro, tranvía y autobús — con correa Y bozal, norma aplicada con más rigor que en otras ciudades italianas.`,
+    },
+    sights: [
+      {
+        name: 'Parco Sempione',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Aménagé en 1888 derrière le Castello Sforzesco, ce parc de 47 hectares est le poumon vert de Milan, avec lac, Arco della Pace et quatre aires canines clôturées sans laisse. Les Milanais et leurs chiens l\'envahissent chaque matin avant le bureau.',
+          en: 'Laid out in 1888 behind the Sforza Castle, this 47-hectare park is Milan\'s green lung, complete with a lake, the Arco della Pace and four fenced off-leash dog areas. It fills with Milanese and their dogs every morning before office hours.',
+          es: 'Diseñado en 1888 detrás del Castillo Sforzesco, este parque de 47 hectáreas es el pulmón verde de Milán, con lago, Arco della Pace y cuatro áreas caninas valladas sin correa. Los milaneses y sus perros lo toman cada mañana antes del trabajo.',
+        },
+      },
+      {
+        name: 'Navigli (Naviglio Grande & Pavese)',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier des canaux du XIIe siècle, dessiné en partie par Léonard de Vinci, est aujourd\'hui l\'artère nocturne de Milan, avec des chemins de halage parfaits pour la balade du soir. Presque tous les bars à aperitivo acceptent les chiens en laisse en terrasse après 18h.',
+          en: 'The 12th-century canal district designed in part by Leonardo da Vinci is now Milan\'s nightlife artery, with towpaths perfect for evening strolls. Nearly every aperitivo bar along the water accepts leashed dogs on the terrace after 18:00.',
+          es: 'El distrito de canales del siglo XII, diseñado en parte por Leonardo da Vinci, es hoy la arteria nocturna de Milán, con caminos de sirga ideales para paseos al anochecer. Casi todos los bares de aperitivo junto al agua admiten perros con correa en la terraza a partir de las 18:00.',
+        },
+      },
+      {
+        name: 'Duomo di Milano',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: 'Quatrième plus grande cathédrale d\'Europe, commencée en 1386, elle domine la place avec ses flèches de marbre de Candoglia. Les chiens sont admis sur la Piazza del Duomo mais pas dans la cathédrale, le baptistère ou sur les terrasses du toit.',
+          en: 'The fourth-largest cathedral in Europe, begun in 1386, dominates the city square with its Candoglia marble spires. Dogs are welcome on Piazza del Duomo, but not inside the cathedral, baptistery or rooftop terraces.',
+          es: 'La cuarta catedral más grande de Europa, iniciada en 1386, domina la plaza con sus agujas de mármol de Candoglia. Se admiten perros en la Piazza del Duomo pero no dentro de la catedral, el baptisterio ni las terrazas del tejado.',
+        },
+      },
+      {
+        name: 'Brera District',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Une trame bohème de ruelles pavées autour du Palazzo Brera du XVIIe siècle, pleine de galeries, boutiques et cafés. De nombreux commerces proposent une gamelle d\'eau, et l\'Orto Botanico di Brera admet les petits chiens en laisse pendant les horaires d\'ouverture.',
+          en: 'A bohemian grid of cobbled streets around the 17th-century Palazzo Brera, packed with galleries, boutiques and cafés. Many shops set out water bowls, and the Orto Botanico di Brera admits leashed small dogs during its open hours.',
+          es: 'Una trama bohemia de calles empedradas en torno al Palazzo Brera del siglo XVII, llena de galerías, tiendas y cafés. Muchos comercios ponen bol de agua, y el Orto Botanico di Brera admite perros pequeños con correa en horario de apertura.',
+        },
+      },
+      {
+        name: 'CityLife Park',
+        emoji: '🏙️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus récent espace vert de Milan, ouvert en 2018 autour des tours Hadid, Isozaki et Libeskind, s\'étend sur 17 hectares avec une aire canine clôturée dédiée. Son tracé plat et sans voiture est idéal pour les chiens âgés et les petites races.',
+          en: 'Milan\'s newest green space, opened in 2018 around the Hadid, Isozaki and Libeskind towers, spans 17 hectares with a dedicated fenced dog run. Its flat, traffic-free design is ideal for senior dogs and small breeds.',
+          es: 'El espacio verde más nuevo de Milán, inaugurado en 2018 en torno a las torres de Hadid, Isozaki y Libeskind, ocupa 17 hectáreas con una zona canina vallada exclusiva. Su trazado plano y sin tráfico es ideal para perros mayores y razas pequeñas.',
+        },
+      },
+      {
+        name: 'Parco Nord Milano',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parc de 640 hectares reconverti au nord de la ville, accessible en 25 minutes par le tram 4 depuis Cairoli. Prairies, pistes cyclables et vaste zone sans laisse clôturée en font l\'escapade week-end favorite des Milanais avec chien.',
+          en: 'A 640-hectare reclaimed industrial park north of the city, reached by tram 4 from Cairoli in 25 minutes. Wide meadows, cycle paths and a large fenced off-leash zone make it the go-to weekend escape for Milanese dog owners.',
+          es: 'Un parque de 640 hectáreas recuperado de antiguas zonas industriales al norte de la ciudad, a 25 minutos en el tranvía 4 desde Cairoli. Praderas, carriles bici y una gran zona sin correa vallada lo convierten en la escapada dominical favorita.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les transports ATM autorisent les chiens dans le métro, le tram et le bus uniquement en laisse ET muselière — gardez une muselière panier même pour les petits chiens; les contrôleurs vérifient.',
+        'Les petits chiens en sac entièrement fermé voyagent gratuitement sur ATM; les plus gros ont besoin d\'un billet urbain standard (2,20 EUR).',
+        'La ville interdit les chiens sur la pelouse de Piazza della Scala et dans la cour intérieure de la Pinacoteca di Brera — préférez les rues alentour.',
+        'Les étés milanais atteignent 36 °C avec forte humidité; les stations de métro restent fraîches mais seulement pour le transit, pas pour stationner.',
+        'Les terrasses d\'aperitivo de Corso Como et des Navigli accueillent les chiens, mais réservez à l\'avance les restaurants en salle, tous ne sont pas étiquetés pet-friendly.',
+      ],
+      en: [
+        'ATM transport allows dogs on metro, tram and bus only with leash AND muzzle — carry a basket muzzle even for tiny dogs; ticket inspectors do check.',
+        'Small dogs in fully closed carriers ride free on ATM; larger dogs need a standard urban ticket (2.20 EUR).',
+        'The city bans dogs from Piazza della Scala lawn and the Pinacoteca di Brera\'s interior courtyard — use the surrounding streets instead.',
+        'Milan summers hit 36 °C with high humidity; the underground metro stations stay cool but only for transit, not lingering.',
+        'Aperitivo terraces along Corso Como and the Navigli welcome dogs, but book indoor restaurants in advance, as not all comply with pet-friendly labeling.',
+      ],
+      es: [
+        'El transporte ATM admite perros en metro, tranvía y autobús solo con correa Y bozal — lleve un bozal tipo cesta incluso para perros pequeños; los revisores comprueban.',
+        'Los perros pequeños en transportín totalmente cerrado viajan gratis en ATM; los grandes necesitan un billete urbano estándar (2,20 EUR).',
+        'La ciudad prohíbe perros en el césped de Piazza della Scala y el patio interior de la Pinacoteca di Brera — use las calles de alrededor.',
+        'Los veranos milaneses alcanzan los 36 °C con alta humedad; las estaciones de metro permanecen frescas pero solo para el tránsito, no para quedarse.',
+        'Las terrazas de aperitivo de Corso Como y los Navigli admiten perros, pero reserve con antelación los restaurantes en interior, no todos cumplen la etiqueta pet-friendly.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Deux aéroports principaux: Malpensa (MXP, 50 km) et Linate (LIN, 7 km); le train Malpensa Express accepte les chiens en laisse et muselés pour 2,50 EUR.',
+        'La Clinica Veterinaria Gran Sasso (Via Donatello) est ouverte 24h/24 avec urgences spécialisées, à environ 2 km du Duomo.',
+        'La loi italienne plafonne la laisse à 1,5 m et impose de porter une muselière sur soi; Milan sanctionne en outre l\'absence de ramassage par des amendes de 100 à 450 EUR.',
+        'Des fontaines pour chiens équipent le Parco Sempione, les Giardini Montanelli et CityLife — l\'eau du robinet est potable partout.',
+        'Les brouillards hivernaux et le froid de janvier peuvent flirter avec 0 °C; la cire protectrice aide contre le sel de déneigement.',
+      ],
+      en: [
+        'Two main airports: Malpensa (MXP, 50 km) and Linate (LIN, 7 km); the Malpensa Express train accepts leashed and muzzled dogs for 2.50 EUR.',
+        'Clinica Veterinaria Gran Sasso (Via Donatello) is open 24/7 with specialist emergency care about 2 km from the Duomo.',
+        'Italian law caps leashes at 1.5 m in public and requires a muzzle to be carried; Milan additionally fines failure to clean up with penalties from 100-450 EUR.',
+        'Dog drinking fountains exist throughout Parco Sempione, Giardini Montanelli and CityLife — tap water is safe citywide.',
+        'Winter fog and January cold can bring temperatures near 0 °C; paw wax helps protect against road salt used on icy pavements.',
+      ],
+      es: [
+        'Dos aeropuertos principales: Malpensa (MXP, 50 km) y Linate (LIN, 7 km); el tren Malpensa Express admite perros con correa y bozal por 2,50 EUR.',
+        'La Clinica Veterinaria Gran Sasso (Via Donatello) abre 24/7 con urgencias especializadas, a unos 2 km del Duomo.',
+        'La ley italiana limita la correa a 1,5 m y obliga a llevar bozal; Milán sanciona además no recoger con multas de 100 a 450 EUR.',
+        'Hay fuentes caninas en Parco Sempione, Giardini Montanelli y CityLife — el agua del grifo es potable en toda la ciudad.',
+        'La niebla invernal y el frío de enero pueden rozar los 0 °C; la cera protectora ayuda contra la sal antihielo de las aceras.',
+      ],
+    },
+  },
+
+  biarritz: {
+    history: {
+      fr: `Biarritz fut d'abord un modeste village basque de chasseurs de baleines, harponnées depuis les falaises jusqu'au XVIIIe siècle. Son destin bascule en 1854 quand l'impératrice Eugénie, épouse de Napoléon III, fait bâtir la Villa Eugénie (aujourd'hui Hôtel du Palais) au-dessus de la Grande Plage, attirant l'aristocratie européenne sur la Côte Basque. En 1957, le scénariste californien Peter Viertel introduit le surf sur la Côte des Basques, faisant de Biarritz le berceau européen du surf. Aujourd'hui villas Belle Époque, casino Art Déco et criques rocheuses côtoient les écoles de surf, les bars à pintxos et une identité basque forte. Côté chiens, Biarritz est tolérante hors saison — la plupart des plages admettent les animaux en laisse d'octobre à mai — et la promenade des falaises autour du phare Saint-Martin est l'une des plus belles balades canines de France.`,
+      en: `Biarritz began as a humble Basque whaling village, harpooning cetaceans from the cliffs until the 18th century. Its fortunes changed in 1854 when Empress Eugénie, wife of Napoleon III, built the Villa Eugénie (now the Hôtel du Palais) above the Grande Plage, drawing European aristocracy to the Côte Basque. In 1957 Californian screenwriter Peter Viertel introduced surfing to the Côte des Basques, making Biarritz the cradle of European surf culture. Today its Belle Époque villas, Art Deco casino and rocky coves coexist with surf schools, pintxo bars and a deeply Basque identity. Dog-wise, Biarritz is liberal off-season — most beaches are open to leashed pets from October through May — and the clifftop promenade around the Phare Saint-Martin lighthouse is one of France's finest year-round dog walks.`,
+      es: `Biarritz nació como un humilde pueblo vasco de balleneros que arponeaban cetáceos desde los acantilados hasta el siglo XVIII. Su destino cambió en 1854 cuando la emperatriz Eugenia, esposa de Napoleón III, construyó la Villa Eugénie (hoy Hôtel du Palais) sobre la Grande Plage, atrayendo a la aristocracia europea a la Costa Vasca. En 1957 el guionista californiano Peter Viertel introdujo el surf en la Côte des Basques, convirtiendo Biarritz en la cuna del surf europeo. Hoy conviven villas Belle Époque, casino Art Déco y calas rocosas con escuelas de surf, bares de pintxos y una fuerte identidad vasca. Con los perros, Biarritz es tolerante fuera de temporada — la mayoría de playas admite mascotas con correa de octubre a mayo — y el paseo por los acantilados hasta el faro Saint-Martin es uno de los más hermosos de Francia.`,
+    },
+    sights: [
+      {
+        name: 'Phare Saint-Martin',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: 'Le phare de 44 mètres, construit en 1834 à la Pointe Saint-Martin, marque la limite géologique entre la côte sableuse des Landes et la côte rocheuse basque. Les pelouses et le sentier littoral sont ouverts aux chiens en laisse toute l\'année, avec vue panoramique sur les Pyrénées par temps clair.',
+          en: 'The 44-metre lighthouse, built in 1834 at Pointe Saint-Martin, marks the geological boundary between the sandy Landes coast and the rocky Basque coast. The surrounding clifftop lawns and coastal path are open to leashed dogs year-round, with panoramic views to the Pyrenees on clear days.',
+          es: 'El faro de 44 metros, construido en 1834 en la Pointe Saint-Martin, marca el límite geológico entre la costa arenosa de las Landas y la rocosa vasca. Las praderas y el sendero costero admiten perros con correa todo el año, con vistas panorámicas a los Pirineos los días claros.',
+        },
+      },
+      {
+        name: 'Rocher de la Vierge',
+        emoji: '🗻',
+        petFriendly: true,
+        desc: {
+          fr: 'Un rocher coiffé d\'une statue de la Vierge, relié à la côte par une passerelle en fer attribuée à l\'atelier Eiffel (1887). Les chiens en laisse peuvent traverser et explorer l\'éperon rocheux, mais la passerelle ferme par forte houle.',
+          en: 'A sea-stack crowned by a statue of the Virgin, linked to shore by an iron footbridge attributed to Eiffel\'s workshop (1887). Leashed dogs may cross the footbridge and explore the rocky outcrop, though the bridge closes during heavy swell.',
+          es: 'Un peñón coronado por una estatua de la Virgen, unido a la costa por una pasarela de hierro atribuida al taller de Eiffel (1887). Los perros con correa pueden cruzar y explorar el espolón rocoso, aunque la pasarela cierra con oleaje fuerte.',
+        },
+      },
+      {
+        name: 'Grande Plage',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: 'Le croissant de sable doré d\'un kilomètre, face au Casino et à l\'Hôtel du Palais, est la plage emblématique de Biarritz. Les chiens y sont interdits du 15 juin au 15 septembre par arrêté municipal; hors saison ils sont bienvenus en laisse à l\'aube et au crépuscule.',
+          en: 'The 1 km crescent of golden sand fronted by the Casino and Hôtel du Palais is Biarritz\'s signature beach. Dogs are banned from 15 June to 15 September by municipal decree; outside those dates they are welcome on leash at dawn and dusk.',
+          es: 'El arco de arena dorada de un kilómetro frente al Casino y al Hôtel du Palais es la playa emblemática de Biarritz. Los perros están prohibidos del 15 de junio al 15 de septiembre por decreto municipal; fuera de temporada se admiten con correa al amanecer y atardecer.',
+        },
+      },
+      {
+        name: 'Côte des Basques',
+        emoji: '🏄',
+        petFriendly: false,
+        desc: {
+          fr: 'Berceau du surf européen (1957), encadrée de falaises ocre qui disparaissent à marée haute. Les chiens sont interdits sur le sable de juin à septembre; la promenade sommitale reste accessible en laisse toute l\'année.',
+          en: 'The birthplace of European surfing (1957), framed by ochre cliffs that disappear at high tide. Dogs are banned on the sand from June to September; the clifftop promenade above remains accessible on leash year-round.',
+          es: 'Cuna del surf europeo (1957), enmarcada por acantilados ocres que desaparecen con la pleamar. Los perros están prohibidos en la arena de junio a septiembre; el paseo superior del acantilado sigue accesible con correa todo el año.',
+        },
+      },
+      {
+        name: 'Les Halles de Biarritz',
+        emoji: '🥐',
+        petFriendly: true,
+        desc: {
+          fr: 'Le marché couvert Art Déco, ouvert en 1885 et rénové en 2009, est le cœur gourmand de la ville, croulant sous le jambon de Bayonne, l\'Ossau-Iraty et le chorizo basque. Les chiens en laisse sont admis aux terrasses alentour mais pas à l\'intérieur de la halle.',
+          en: 'The covered Art Deco market, opened in 1885 and renovated in 2009, is the city\'s culinary heart, piled with Bayonne ham, Ossau-Iraty cheese and Basque chorizo. Leashed dogs are welcome in the surrounding café terraces but not inside the market hall itself.',
+          es: 'El mercado cubierto Art Déco, inaugurado en 1885 y renovado en 2009, es el corazón gastronómico de la ciudad, repleto de jamón de Bayona, queso Ossau-Iraty y chorizo vasco. Se admiten perros con correa en las terrazas cercanas pero no dentro de la lonja.',
+        },
+      },
+      {
+        name: 'Lac Marion',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: 'Un paisible lac d\'eau douce de 8 hectares entouré d\'un sentier ombragé de 2 km, à 3 km du centre. Les chiens en laisse sont admis toute l\'année; la prairie sud est un spot informel prisé pour lâcher le chien dès qu\'on quitte le sentier principal.',
+          en: 'A peaceful 8-hectare freshwater lake ringed by a 2 km shaded path, 3 km from the center. Leashed dogs are welcome all year; the southern meadow is a popular informal off-leash spot once you leave the main path.',
+          es: 'Un tranquilo lago de agua dulce de 8 hectáreas rodeado de un sendero sombreado de 2 km, a 3 km del centro. Se admiten perros con correa todo el año; la pradera sur es un lugar informal popular para soltarlos al salir del sendero principal.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Interdiction estivale des plages: les chiens sont bannis de toutes les plages de Biarritz du 15 juin au 15 septembre, de 10h à 19h, avec amende jusqu\'à 450 EUR — privilégiez les promenades des falaises.',
+        'Les chiens de catégories 1 et 2 (races dites dangereuses selon la loi française) doivent porter une muselière en tout espace public et disposer du permis municipal.',
+        'Les TER SNCF au départ de Biarritz facturent 7 EUR par grand chien et acceptent gratuitement les petits chiens en sac.',
+        'La marée compte: vérifiez-la avant de descendre Plage du Miramar ou Plage de la Milady, la montée d\'eau peut piéger au pied des falaises.',
+        'De nombreux cidreries basques et bars à pintxos autour des Halles sortent une gamelle d\'eau — culturellement, entrer avec un chien calme en laisse est naturel.',
+      ],
+      en: [
+        'Summer beach ban: dogs are forbidden on all Biarritz beaches from 15 June to 15 September, 10:00-19:00, with fines up to 450 EUR — walk them on the clifftop promenades instead.',
+        'Category 1 and 2 dogs (listed dangerous breeds under French law) must wear a muzzle in all public spaces and carry an official permit from the mairie.',
+        'The SNCF regional TER trains from Biarritz station charge 7 EUR for large dogs and accept small dogs in carriers free of charge.',
+        'Tide matters: check the marée before walking Plage du Miramar or Plage de la Milady, as rising water can trap you at cliff bases.',
+        'Many Basque cider houses and pintxo bars in the Halles district put out water bowls — it\'s culturally normal to enter with a calm leashed dog.',
+      ],
+      es: [
+        'Prohibición veraniega: los perros no pueden acceder a ninguna playa de Biarritz del 15 de junio al 15 de septiembre, de 10:00 a 19:00, con multas de hasta 450 EUR — use los paseos de los acantilados.',
+        'Los perros de categorías 1 y 2 (razas consideradas peligrosas por la ley francesa) deben llevar bozal en espacios públicos y contar con permiso municipal.',
+        'Los trenes regionales TER desde Biarritz cobran 7 EUR por perro grande y admiten gratis a los pequeños en transportín.',
+        'La marea importa: consúltela antes de bajar a Plage du Miramar o Plage de la Milady, la subida puede atraparle al pie de los acantilados.',
+        'Muchas sidrerías vascas y bares de pintxos junto a Les Halles ofrecen bol de agua — culturalmente es normal entrar con un perro tranquilo con correa.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport le plus proche: Biarritz-Pays Basque (BIQ), à 3 km du centre; les petits chiens voyagent gratuitement en cabine sur la plupart des lignes vers Paris et Londres.',
+        'La Clinique Vétérinaire Iratzean avenue de Bayonne gère les urgences 24h/24 et se trouve à 5 minutes en voiture du centre.',
+        'Climat océanique: hivers doux (10 °C), étés chauds mais rarement caniculaires (24 °C en moyenne); la pluie est possible toute l\'année, prévoyez une serviette.',
+        'Les plages sableuses abritent des vives en été — rincez les coussinets à l\'eau douce après chaque baignade.',
+        'La loi française exige passeport européen, puce ISO et vaccination antirabique valide pour tout animal transfrontalier; la clinique Iratzean délivre aussi des passeports.',
+      ],
+      en: [
+        'Nearest airport: Biarritz-Pays Basque (BIQ), 3 km from center; small dogs travel free in the cabin on most airlines to/from Paris and London.',
+        'The Clinique Vétérinaire Iratzean on Avenue de Bayonne handles 24-hour emergencies and is 5 minutes by car from the center.',
+        'Oceanic climate: mild winters (10 °C), warm but rarely hot summers (24 °C average); rain is possible year-round, so pack a dog towel.',
+        'Sand-bottomed beaches have sharp weever fish in warm months — rinse your dog\'s paws with fresh water after any beach session.',
+        'French law requires an EU pet passport, ISO microchip and valid rabies vaccination for all cross-border pets; vet Iratzean can reissue passports for residents.',
+      ],
+      es: [
+        'Aeropuerto más cercano: Biarritz-Pays Basque (BIQ), a 3 km del centro; los perros pequeños viajan gratis en cabina en la mayoría de líneas a París y Londres.',
+        'La Clinique Vétérinaire Iratzean en Avenue de Bayonne atiende urgencias 24 horas, a 5 minutos en coche del centro.',
+        'Clima oceánico: inviernos suaves (10 °C), veranos cálidos pero rara vez tórridos (24 °C de media); la lluvia es posible todo el año, lleve una toalla para el perro.',
+        'Las playas de arena albergan peces araña en verano — enjuague las almohadillas con agua dulce después de cada baño.',
+        'La ley francesa exige pasaporte europeo, chip ISO y vacuna antirrábica vigente para toda mascota transfronteriza; la clínica Iratzean también expide pasaportes.',
+      ],
+    },
+  },
+
+  toulouse: {
+    history: {
+      fr: `Toulouse, 'La Ville Rose' sur la Garonne, doit sa chaude teinte rose à la brique de terre cuite fabriquée avec l'argile du fleuve depuis l'époque romaine, où elle s'appelait Tolosa. Capitale des comtes médiévaux de Toulouse et berceau de la poésie des troubadours, elle s'enrichit au XVIe siècle grâce au commerce du pastel qui paya ses hôtels particuliers Renaissance. C'est aujourd'hui la quatrième ville de France et la capitale européenne de l'aérospatiale, siège d'Airbus et de la Cité de l'Espace. Les quais de la Garonne et le Canal du Midi du XVIIe siècle — classé UNESCO et œuvre de Pierre-Paul Riquet — forment une promenade fluviale presque ininterrompue, largement ombragée de platanes et dog-friendly. Avec la Prairie des Filtres et ses prairies sans laisse en plein centre, Toulouse figure parmi les villes françaises les plus accueillantes pour les chiens.`,
+      en: `Toulouse, 'La Ville Rose' on the Garonne, owes its warm pink hue to the terracotta brick fired from river clay since Roman times, when it was known as Tolosa. Capital of the medieval Counts of Toulouse and a cradle of troubadour poetry, it grew rich on the 16th-century pastel (woad) trade that paid for its Renaissance hôtels particuliers. Today it is France's fourth-largest city and Europe's aerospace capital, home to Airbus and the Cité de l'Espace. The Garonne quays and the 17th-century Canal du Midi — a UNESCO site and the brainchild of Pierre-Paul Riquet — form a nearly continuous waterside promenade, much of it plane-tree-shaded and dog-friendly. With the Prairie des Filtres offering off-leash meadows in the heart of the city, Toulouse consistently ranks among France's most dog-welcoming urban centers.`,
+      es: `Toulouse, 'La Ville Rose' sobre el Garona, debe su cálido tono rosado al ladrillo de terracota cocido con la arcilla del río desde época romana, cuando se llamaba Tolosa. Capital de los condes medievales de Toulouse y cuna de la poesía trovadoresca, se enriqueció en el siglo XVI gracias al comercio del pastel (azul) que pagó sus palacetes renacentistas. Hoy es la cuarta ciudad de Francia y la capital europea del sector aeroespacial, sede de Airbus y de la Cité de l'Espace. Los muelles del Garona y el Canal du Midi del siglo XVII — Patrimonio UNESCO y obra de Pierre-Paul Riquet — forman un paseo fluvial casi continuo, sombreado por plátanos y admisorio con perros. Con la Prairie des Filtres y sus praderas sin correa en pleno centro, Toulouse figura entre las ciudades francesas más acogedoras para perros.`,
+    },
+    sights: [
+      {
+        name: 'Prairie des Filtres',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: 'Une prairie inondable de 4 hectares sur la rive gauche de la Garonne, face à la vieille ville. C\'est l\'un des rares parcs français en centre-ville où les chiens peuvent courir sans laisse, et elle se remplit de Toulousains, frisbees et guitares au coucher du soleil.',
+          en: 'A 4-hectare floodplain meadow on the left bank of the Garonne, directly opposite the old town. It is one of the few French city-center parks where dogs may run off-leash, and it fills with locals, frisbees and guitars at sunset.',
+          es: 'Una pradera inundable de 4 hectáreas en la orilla izquierda del Garona, frente al casco antiguo. Es uno de los pocos parques franceses en pleno centro donde los perros pueden correr sin correa, y se llena de lugareños, frisbees y guitarras al atardecer.',
+        },
+      },
+      {
+        name: 'Canal du Midi',
+        emoji: '🛥️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le canal de 240 km inscrit à l\'UNESCO commandé par Louis XIV démarre au Port Saint-Sauveur et rejoint la Méditerranée. Le chemin de halage ombragé de platanes est idéal pour de longues balades en laisse ou en vélo avec remorque.',
+          en: 'The 240 km UNESCO-listed canal commissioned by Louis XIV begins at Port Saint-Sauveur and stretches to the Mediterranean. The continuous plane-tree-shaded towpath is ideal for long leashed walks or bike runs with a dog trailer.',
+          es: 'El canal de 240 km declarado Patrimonio de la UNESCO por encargo de Luis XIV parte del Port Saint-Sauveur y llega al Mediterráneo. El camino de sirga sombreado por plátanos es ideal para largos paseos con correa o en bici con remolque.',
+        },
+      },
+      {
+        name: 'Basilique Saint-Sernin',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: 'Édifiée entre 1080 et 1120, c\'est la plus grande église romane conservée d\'Europe et une étape majeure du pèlerinage de Compostelle. Les chiens peuvent rester avec vous Place Saint-Sernin mais ne sont pas admis dans la basilique.',
+          en: 'Built between 1080 and 1120, this is the largest surviving Romanesque church in Europe and a key stop on the pilgrimage to Santiago de Compostela. Dogs may sit with you on the surrounding Place Saint-Sernin but are not permitted inside the basilica.',
+          es: 'Construida entre 1080 y 1120, es la mayor iglesia románica conservada de Europa y etapa clave del Camino de Santiago. Los perros pueden estar con usted en la Place Saint-Sernin pero no acceden al interior de la basílica.',
+        },
+      },
+      {
+        name: 'Place du Capitole',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'La vaste place principale du XVIIIe siècle, dominée par le Capitole et sa Croix occitane incrustée dans le pavé. Les chiens en laisse sont bienvenus sur la place et sous les arcades, où plusieurs cafés sortent des gamelles l\'été.',
+          en: 'The vast 18th-century main square, dominated by the Capitole city hall with its Occitan Cross inlaid in the pavement. Leashed dogs are welcome on the square and under the arcades, where several cafés set out water bowls in summer.',
+          es: 'La vasta plaza mayor del siglo XVIII, dominada por el Capitolio y su cruz occitana incrustada en el pavimento. Se admiten perros con correa en la plaza y bajo los soportales, donde varios cafés sacan boles de agua en verano.',
+        },
+      },
+      {
+        name: 'Jardin des Plantes',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: 'Aménagé en 1794, ce jardin botanique de 7 hectares est relié au Grand-Rond et au Jardin Royal par des ponts cintrés. Les chiens en laisse sont admis sur toutes les allées principales, mais pas au Muséum d\'Histoire naturelle qui s\'y trouve.',
+          en: 'Laid out in 1794, this 7-hectare botanical garden connects to the Grand-Rond and Jardin Royal via arched bridges. Leashed dogs are permitted on all main paths, though the Museum of Natural History inside the park does not admit them.',
+          es: 'Diseñado en 1794, este jardín botánico de 7 hectáreas se une al Grand-Rond y al Jardin Royal mediante puentes arqueados. Se admiten perros con correa en todos los paseos principales, pero no en el Museo de Historia Natural que alberga.',
+        },
+      },
+      {
+        name: 'Pont Neuf & Quais de la Garonne',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Inauguré par Louis XIV en 1659 après près d\'un siècle de travaux, le Pont Neuf relie la vieille ville à Saint-Cyprien. Les quais pavés des deux rives sont fermés aux voitures le dimanche, offrant aux promeneurs plusieurs kilomètres ininterrompus le long du fleuve en briques roses.',
+          en: 'Inaugurated by Louis XIV in 1659 after nearly a century of construction, the Pont Neuf links the old town to Saint-Cyprien. The paved quays on both banks are closed to cars on Sundays, giving dog walkers uninterrupted kilometres along the pink-bricked river.',
+          es: 'Inaugurado por Luis XIV en 1659 tras casi un siglo de obras, el Pont Neuf une el casco antiguo con Saint-Cyprien. Los muelles empedrados de ambas orillas cierran al tráfico los domingos, ofreciendo kilómetros ininterrumpidos de paseo canino junto al río de ladrillo rosa.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La Prairie des Filtres autorise le chien sans laisse sous contrôle vocal — pas d\'enclos fermé, entraînez le rappel avant d\'y aller.',
+        'Le métro Tisséo lignes A et B accepte les petits chiens (<6 kg) en sac fermé gratuitement; les plus gros sont admis uniquement en tram et bus de surface, en laisse et muselés.',
+        'Les chiens de catégories 1 et 2 nécessitent le permis de détention municipal (attestation et muselière) — la police toulousaine contrôle sur les quais du canal.',
+        'Le Canal du Midi dispose de canisettes tous les 500 m en section centrale; l\'amende pour non-ramassage monte à 68 EUR.',
+        'La chaleur estivale peut atteindre 38 °C; les quais de la Daurade et Saint-Pierre restent ombragés de platanes même à midi, contrairement à la Place du Capitole à découvert.',
+      ],
+      en: [
+        'Prairie des Filtres allows off-leash dogs under effective voice control — no fenced enclosure, so train recall before going.',
+        'Tisséo metro lines A and B accept small dogs (<6 kg) in closed carriers free; larger dogs are only allowed on ground-level tram and bus lines, leashed and muzzled.',
+        'Category 1 and 2 dogs require the French city-hall permit (attestation and muzzle) — Toulouse police check on canal towpaths.',
+        'The Canal du Midi has mandatory dog-waste stations every 500 m in the central section; fines for non-collection reach 68 EUR.',
+        'Summer heat can hit 38 °C; the Daurade and Saint-Pierre quays stay shaded under plane trees even at midday, unlike the open Place du Capitole.',
+      ],
+      es: [
+        'La Prairie des Filtres permite perros sueltos con control de voz — no hay recinto vallado, entrene la llamada antes de ir.',
+        'El metro Tisséo líneas A y B admite perros pequeños (<6 kg) en transportín cerrado gratis; los más grandes solo en tranvía y autobús de superficie, con correa y bozal.',
+        'Los perros de categorías 1 y 2 necesitan el permiso municipal (certificado y bozal) — la policía toulousana controla en los muelles del canal.',
+        'El Canal du Midi cuenta con estaciones caninas cada 500 m en el tramo central; la multa por no recoger llega a 68 EUR.',
+        'El calor estival alcanza los 38 °C; los muelles de la Daurade y Saint-Pierre siguen sombreados por plátanos incluso al mediodía, a diferencia de la expuesta Place du Capitole.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport le plus proche: Toulouse-Blagnac (TLS), à 8 km du centre, relié par le tram T2 qui accepte chiens en laisse et muselés.',
+        'Vétérinaire d\'urgence 24h/24: Clinique Vétérinaire des Carmes (boulevard Lascrosses) pour le centre; ADVETIA à Purpan pour les spécialités.',
+        'L\'eau du robinet est potable et les fontaines à boire parsèment le Jardin des Plantes, le Grand-Rond et la Prairie des Filtres — prenez une gamelle pliable.',
+        'La Garonne déborde en hiver et au printemps; consultez Vigicrues avant les balades sur les quais bas après de fortes pluies.',
+        'La loi française impose puce ISO, vaccin antirabique et passeport européen pour tout chien entrant, plus la laisse obligatoire dans tous les espaces publics toulousains.',
+      ],
+      en: [
+        'Nearest airport: Toulouse-Blagnac (TLS), 8 km from center, linked by tram T2 which accepts leashed and muzzled dogs.',
+        'The 24-hour emergency vet Clinique Vétérinaire des Carmes (boulevard Lascrosses) covers the central districts; ADVETIA in Purpan handles specialist referrals.',
+        'Tap water is safe and drinking fountains dot the Jardin des Plantes, Grand-Rond and Prairie des Filtres — bring a collapsible bowl.',
+        'The Garonne floods in winter and spring; check the Vigicrues website before planning walks on the lower quays after heavy rain.',
+        'French law requires ISO microchip, rabies vaccination and EU pet passport for all dogs entering the country, plus leash use in all public spaces of Toulouse.',
+      ],
+      es: [
+        'Aeropuerto más cercano: Toulouse-Blagnac (TLS), a 8 km del centro, unido por el tranvía T2 que admite perros con correa y bozal.',
+        'Veterinario de urgencias 24 horas: Clinique Vétérinaire des Carmes (boulevard Lascrosses) para el centro; ADVETIA en Purpan para especialidades.',
+        'El agua del grifo es potable y hay fuentes en el Jardin des Plantes, Grand-Rond y Prairie des Filtres — lleve un bol plegable.',
+        'El Garona se desborda en invierno y primavera; consulte Vigicrues antes de pasear por los muelles bajos tras fuertes lluvias.',
+        'La ley francesa exige chip ISO, vacuna antirrábica y pasaporte europeo para todo perro que entre, además de correa obligatoria en todos los espacios públicos de Toulouse.',
+      ],
+    },
+  },
+
+  london: {
+    history: {
+      fr: `L'histoire de Londres s'étend du Londinium romain à la capitale mondiale d'aujourd'hui, peuplée de près de 9 millions d'habitants, et son attachement aux chiens est tout aussi profond. Le Royaume-Uni est une nation réputée pour son amour des chiens, avec environ 13 millions de chiens de compagnie, dont plus d'un million rien qu'à Londres. Les parcs royaux comme Hyde Park et Hampstead Heath accueillent les promenades sans laisse depuis plus d'un siècle, et les pubs affichent fièrement des panneaux 'dogs welcome'. Depuis le Brexit, les visiteurs européens ne peuvent plus utiliser le passeport européen pour animaux et doivent obtenir un Certificat Sanitaire Animal (AHC) délivré dans les 10 jours précédant le voyage. Un traitement contre le ténia est également requis 24 à 120 heures avant l'arrivée. Malgré les formalités, Londres reste l'une des capitales européennes les plus agréables à découvrir avec son chien.`,
+      en: `London's story stretches from Roman Londinium to today's global capital of nearly 9 million residents, and its affection for dogs runs just as deep. The UK is a famously dog-loving nation with an estimated 13 million pet dogs, and London alone is home to more than a million. Royal parks like Hyde Park and Hampstead Heath have welcomed off-leash walks for over a century, and pubs across the city proudly display 'dogs welcome' signs. Since Brexit, EU visitors can no longer use the EU Pet Passport to enter Great Britain and must instead obtain an Animal Health Certificate (AHC) issued within 10 days of travel. Dogs also require a tapeworm treatment 24-120 hours before arrival. Despite the paperwork, London remains one of Europe's most rewarding cities to explore with a four-legged companion.`,
+      es: `La historia de Londres abarca desde el Londinium romano hasta la capital global actual de casi 9 millones de habitantes, y su afecto por los perros es igual de profundo. El Reino Unido es una nación célebre por su pasión canina, con aproximadamente 13 millones de perros de compañía, de los cuales más de un millón viven en Londres. Los parques reales como Hyde Park y Hampstead Heath permiten paseos sin correa desde hace más de un siglo, y los pubs exhiben con orgullo carteles de 'dogs welcome'. Desde el Brexit, los visitantes de la UE ya no pueden usar el Pasaporte Europeo para Mascotas y deben obtener un Certificado Sanitario Animal (AHC) emitido dentro de los 10 días previos al viaje. También se requiere un tratamiento antiparasitario contra la tenia entre 24 y 120 horas antes de la llegada. Pese a los trámites, Londres sigue siendo una de las capitales europeas más gratificantes para recorrer con un compañero de cuatro patas.`,
+    },
+    sights: [
+      {
+        name: 'Hyde Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Ce parc royal de 140 hectares au cœur de Londres autorise les chiens sans laisse dans la majeure partie de son enceinte, à l\'exception de la fontaine Diana et des jardins fleuris. C\'est un incontournable pour une promenade matinale au bord de la Serpentine.',
+          en: 'The 350-acre royal park in central London allows dogs off-leash throughout most of its grounds, except in the Diana Memorial Fountain and flower gardens. It\'s a classic morning walk spot along the Serpentine lake.',
+          es: 'Este parque real de 140 hectáreas en el centro de Londres permite perros sin correa en casi todo su recinto, salvo en la Fuente Diana y los jardines de flores. Es un clásico para el paseo matinal junto al lago Serpentine.',
+        },
+      },
+      {
+        name: 'Hampstead Heath',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: 'Une lande sauvage de 320 hectares au nord de Londres, adorée des propriétaires de chiens, avec bois, prairies et étangs. Les chiens circulent librement sur la plupart des sentiers, et Parliament Hill offre l\'une des plus belles vues sur la ville.',
+          en: 'A wild 320-hectare heath in north London beloved by dog owners, with woodlands, meadows and ponds. Dogs roam freely across most paths, and Parliament Hill offers one of the best skyline views in the city.',
+          es: 'Un brezal salvaje de 320 hectáreas en el norte de Londres, adorado por los dueños de perros, con bosques, praderas y estanques. Los perros circulan libremente por casi todos los senderos, y Parliament Hill ofrece una de las mejores vistas del skyline.',
+        },
+      },
+      {
+        name: 'Notting Hill & Portobello Road',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Maisons aux façades pastel, cafés indépendants et célèbre marché aux antiquités du samedi font de Notting Hill un bonheur pour les promeneurs de chiens. De nombreux cafés de Portobello Road installent gamelles d\'eau et accueillent les chiens en terrasse.',
+          en: 'Pastel townhouses, independent cafés and the famous Saturday antiques market make Notting Hill a dog-walker\'s delight. Many cafés along Portobello Road keep water bowls outside and welcome leashed dogs on their terraces.',
+          es: 'Casas de fachadas pastel, cafés independientes y el famoso mercadillo sabatino de antigüedades hacen de Notting Hill un deleite para pasear con perro. Muchos cafés de Portobello Road dejan cuencos de agua fuera y reciben perros con correa en sus terrazas.',
+        },
+      },
+      {
+        name: 'Tower of London exterior',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: 'Les chiens ne sont pas admis à l\'intérieur de cette forteresse du XIe siècle, mais les jardins de Tower Hill et le Thames Path voisin offrent une superbe balade extérieure. La vue sur le Tower Bridge est d\'ailleurs plus belle depuis les quais.',
+          en: 'Dogs aren\'t allowed inside this 11th-century fortress, but the Tower Hill gardens and nearby Thames Path make a scenic exterior walk. Views of Tower Bridge are arguably better from the outside anyway.',
+          es: 'Los perros no pueden entrar en esta fortaleza del siglo XI, pero los jardines de Tower Hill y el cercano Thames Path permiten un paseo exterior muy pintoresco. Las vistas del Tower Bridge son incluso mejores desde fuera.',
+        },
+      },
+      {
+        name: 'Regent\'s Canal (Little Venice to Camden)',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: 'Un chemin de halage plat de 5 km relie Little Venice à Camden Lock en longeant Regent\'s Park. Péniches, saules pleureurs et nombreux pubs acceptant les chiens en font l\'une des plus jolies balades de Londres.',
+          en: 'A flat 5km towpath links Little Venice to Camden Lock through Regent\'s Park borders. Narrowboats, willow trees and plenty of dog-friendly pubs make it one of London\'s most charming walks.',
+          es: 'Un camino de sirga llano de 5 km une Little Venice con Camden Lock bordeando Regent\'s Park. Barcazas, sauces llorones y numerosos pubs dog-friendly lo convierten en uno de los paseos más encantadores de Londres.',
+        },
+      },
+      {
+        name: 'Greenwich Park',
+        emoji: '🔭',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus ancien parc royal clos de Londres grimpe jusqu\'à l\'Observatoire Royal et au méridien de Greenwich. Les chiens y sont acceptés en laisse près du parc aux daims, et sans laisse ailleurs, avec vue panoramique sur Canary Wharf.',
+          en: 'London\'s oldest enclosed royal park climbs to the Royal Observatory and the Prime Meridian. Dogs are welcome on-leash near the deer enclosure and off-leash elsewhere, with panoramic views over Canary Wharf.',
+          es: 'El parque real amurallado más antiguo de Londres sube hasta el Real Observatorio y el Meridiano de Greenwich. Los perros son bienvenidos con correa cerca del cercado de ciervos y sueltos en el resto, con vistas panorámicas sobre Canary Wharf.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens voyagent gratuitement sur tout le réseau TfL (métro, Overground, bus, DLR) mais doivent être portés dans les escalators ou tenus en laisse courte — sinon le personnel peut refuser l\'embarquement.',
+        'Les black cabs (taxis Hackney agréés) sont légalement tenus d\'accepter les chiens sans supplément ; Uber et les VTC peuvent refuser, pensez à vérifier à la réservation.',
+        'La plupart des pubs londoniens acceptent les chiens au bar mais pas en salle de restauration — repérez l\'autocollant \'dog-friendly\' sur la porte ou consultez Doggie Pubs UK.',
+        'Pour les arrivées depuis l\'UE post-Brexit : votre Certificat Sanitaire Animal doit avoir moins de 10 jours à l\'entrée, et vous devez utiliser un Point d\'Entrée Voyageur désigné comme St Pancras (Eurostar) ou Heathrow.',
+        'Hampstead Heath compte trois étangs de baignade non clôturés où les chiens sont autorisés dans certaines zones — lisez les panneaux, l\'étang mixte est interdit aux chiens en été.',
+      ],
+      en: [
+        'Dogs travel free on the entire TfL network (Tube, Overground, buses, DLR) but must be carried on escalators or kept on a short leash — staff may refuse boarding otherwise.',
+        'Black cabs (licensed Hackney carriages) are legally required to accept dogs at no extra charge; Uber and private hire firms can refuse, so check when booking.',
+        'Most London pubs welcome dogs in the bar area but not in the dining room — look for the \'dog-friendly\' sticker on the door or check Doggie Pubs UK.',
+        'For EU arrivals post-Brexit: your Animal Health Certificate must be under 10 days old on entry and you must use a designated Traveller Point of Entry like St Pancras (Eurostar) or Heathrow.',
+        'Hampstead Heath has three unfenced swimming ponds where dogs are allowed in specific sections — check posted signs, as the mixed bathing pond is off-limits to dogs in summer.',
+      ],
+      es: [
+        'Los perros viajan gratis en toda la red TfL (Metro, Overground, autobuses, DLR) pero deben ir en brazos en las escaleras mecánicas o con correa corta — de lo contrario el personal puede impedir el acceso.',
+        'Los black cabs (taxis Hackney con licencia) están legalmente obligados a aceptar perros sin recargo; Uber y VTC pueden negarse, confírmalo al reservar.',
+        'La mayoría de los pubs londinenses admiten perros en la zona de barra pero no en el comedor — busca la pegatina \'dog-friendly\' en la puerta o consulta Doggie Pubs UK.',
+        'Para llegadas desde la UE tras el Brexit: tu Certificado Sanitario Animal debe tener menos de 10 días a la entrada y hay que usar un Traveller Point of Entry designado como St Pancras (Eurostar) o Heathrow.',
+        'Hampstead Heath cuenta con tres estanques de baño sin vallar donde los perros son bienvenidos en zonas concretas — mira los carteles, el estanque mixto prohíbe perros en verano.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroports principaux : Heathrow (LHR) et Gatwick (LGW) sont des points d\'entrée désignés ; les chiens ne voyagent pas en cabine et doivent arriver en fret manifesté via IAG Cargo ou équivalent.',
+        'L\'Eurostar N\'ACCEPTE PAS les chiens, sauf chiens d\'assistance ; la seule option ferroviaire depuis Paris/Bruxelles avec un chien est l\'Eurotunnel Le Shuttle depuis Folkestone (en voiture).',
+        'Meilleures saisons : avril-juin et septembre-octobre offrent des températures douces et peu de pluie ; évitez août (foule) et juillet (canicules occasionnelles au-dessus de 30°C).',
+        'Urgence vétérinaire 24h/24 : Royal Veterinary College Hospital Camden, +44 20 7387 8134, ou The London Vet Clinic à Belgravia pour le centre.',
+        'Les amendes pour déjections canines à Londres atteignent 150 £ (amende forfaitaire) et les municipalités comme Westminster sanctionnent activement ; les sacs sont obligatoires en permanence.',
+      ],
+      en: [
+        'Main airports: Heathrow (LHR) and Gatwick (LGW) are designated pet entry points; dogs cannot arrive in the cabin and must travel as manifest cargo via IAG Cargo or similar.',
+        'Eurostar does NOT accept dogs except registered assistance dogs — the only rail option from Paris/Brussels with a pet is via Folkestone (Eurotunnel Le Shuttle by car).',
+        'Best seasons: April-June and September-October offer mild temperatures and dry-ish weather; avoid August for crowds and July for occasional heatwaves above 30°C.',
+        '24/7 emergency vet: Royal Veterinary College Hospital Camden, +44 20 7387 8134, or The London Vet Clinic in Belgravia for central emergencies.',
+        'Dog waste fines in London can reach £150 (fixed penalty notice) and councils like Westminster actively enforce; bags are mandatory at all times.',
+      ],
+      es: [
+        'Aeropuertos principales: Heathrow (LHR) y Gatwick (LGW) son puntos de entrada designados; los perros no pueden viajar en cabina y deben llegar como carga manifiesta vía IAG Cargo o similar.',
+        'Eurostar NO admite perros salvo perros de asistencia registrados — la única opción ferroviaria desde París/Bruselas con mascota es el Eurotunnel Le Shuttle desde Folkestone (en coche).',
+        'Mejores temporadas: abril-junio y septiembre-octubre ofrecen temperaturas suaves y poca lluvia; evita agosto por las multitudes y julio por olas de calor ocasionales superiores a 30°C.',
+        'Urgencia veterinaria 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic en Belgravia para el centro.',
+        'Las multas por excrementos caninos en Londres alcanzan 150 £ (sanción fija) y ayuntamientos como Westminster la aplican con rigor; las bolsas son obligatorias en todo momento.',
+      ],
+    },
+  },
+
+  antwerp: {
+    history: {
+      fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle — la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,
+      en: `Antwerp, Flanders' diamond capital and Belgium's second-largest city, has been a trading powerhouse since the 16th century, when Rubens painted and the port rivalled Venice. Today its 530,000 residents share the city with an unusually high density of dogs — Flanders has one of Europe's highest dog-ownership rates, and Antwerp counts several hundred registered fenced dog runs (hondenlosloopzones). The city takes pet welfare seriously: all dogs must be microchipped and registered in DogID, and there are strict leash rules outside designated zones. A famously fashion-forward town thanks to the Antwerp Six designers, it's also surprisingly relaxed about four-legged customers in its cafés and boutiques. The Scheldt riverside promenade, the medieval Grote Markt and the vast Middelheim sculpture park all double as prime dog-walking territory.`,
+      es: `Amberes, capital flamenca del diamante y segunda ciudad de Bélgica, es una potencia comercial desde el siglo XVI, cuando Rubens pintaba y el puerto rivalizaba con Venecia. Hoy, sus 530.000 habitantes comparten la ciudad con una densidad canina poco habitual — Flandes presenta una de las tasas más altas de tenencia de perros de Europa, y Amberes cuenta con varios centenares de zonas valladas de suelta (hondenlosloopzones). La ciudad se toma en serio el bienestar animal: todos los perros deben ir microchipados e inscritos en DogID, y la correa es obligatoria fuera de las áreas habilitadas. Ciudad vanguardista gracias a los Seis de Amberes, también es sorprendentemente abierta a los clientes de cuatro patas en sus cafés y boutiques. El paseo del Escalda, el medieval Grote Markt y el extenso parque escultórico Middelheim son territorios ideales para el paseo canino.`,
+    },
+    sights: [
+      {
+        name: 'Grote Markt & Cathedral of Our Lady',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: 'La place triangulaire médiévale est dominée par les maisons des guildes et la cathédrale gothique de 123 mètres abritant quatre retables de Rubens. Les chiens profitent de la place et des ruelles pavées environnantes, mais ne sont pas admis dans la cathédrale.',
+          en: 'The triangular medieval square is dominated by guild houses and the 123-metre Gothic cathedral housing four Rubens altarpieces. Dogs can enjoy the square and surrounding cobbled streets, though they aren\'t allowed inside the cathedral itself.',
+          es: 'La plaza triangular medieval está dominada por las casas gremiales y la catedral gótica de 123 metros, que alberga cuatro retablos de Rubens. Los perros disfrutan de la plaza y las callejuelas empedradas, pero no pueden entrar en la catedral.',
+        },
+      },
+      {
+        name: 'Park Spoor Noord',
+        emoji: '🚂',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancienne gare de triage de 24 hectares reconvertie en parc urbain dans le quartier branché 2060, avec une grande zone clôturée sans laisse (hondenweide). Prisée des habitants pour les footings du week-end et les pataugeoires l\'été.',
+          en: 'A reclaimed 24-hectare railway yard turned urban park in the trendy 2060 district, with a large fenced off-leash zone (hondenweide). Popular with locals for weekend runs and paddling-pool days in summer.',
+          es: 'Una antigua estación de maniobras de 24 hectáreas convertida en parque urbano en el moderno distrito 2060, con una gran zona vallada sin correa (hondenweide). Muy popular entre los locales para correr los fines de semana y refrescarse en verano.',
+        },
+      },
+      {
+        name: 'Het Steen & Scheldt Riverside',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Le château du XIIIe siècle sur l\'Escaut marque le départ d\'une longue promenade fluviale prisée des coureurs et des promeneurs de chiens. La nouvelle terrasse du Steenplein offre une vue dégagée sur Linkeroever.',
+          en: 'The 13th-century castle on the Scheldt marks the start of a long riverside promenade popular with joggers and dog walkers. The new Steenplein terrace offers sweeping views across to Linkeroever.',
+          es: 'El castillo del siglo XIII sobre el Escalda marca el inicio de un largo paseo fluvial muy querido por corredores y paseadores de perros. La nueva terraza del Steenplein ofrece vistas amplias hacia Linkeroever.',
+        },
+      },
+      {
+        name: 'Middelheim Open-Air Sculpture Museum',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parc de 30 hectares exposant 400 sculptures modernes et contemporaines — dont Rodin et Henry Moore — où les chiens en laisse sont les bienvenus. Entrée gratuite toute l\'année.',
+          en: 'A 30-hectare park displaying 400 modern and contemporary sculptures — including Rodin and Henry Moore — where leashed dogs are free to roam. Entry is free year-round.',
+          es: 'Un parque de 30 hectáreas con 400 esculturas modernas y contemporáneas — incluidos Rodin y Henry Moore — donde los perros con correa son bienvenidos. Entrada gratuita todo el año.',
+        },
+      },
+      {
+        name: 'MAS Museum rooftop',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Les chiens ne sont pas admis dans les galeries du musée, mais la montée gratuite en escalators en plein air jusqu\'à 60 mètres leur est ouverte et offre le plus beau panorama sur le port et la vieille ville.',
+          en: 'You can\'t take dogs into the museum galleries, but the free open-air rooftop escalator climb to 60 metres is dog-friendly and delivers the best panorama of the port and old town.',
+          es: 'No se admiten perros en las salas del museo, pero el ascenso gratuito por las escaleras mecánicas al aire libre hasta los 60 metros sí lo es, y ofrece la mejor panorámica del puerto y el casco antiguo.',
+        },
+      },
+      {
+        name: 'Zurenborg & Cogels-Osylei',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Ce quartier fin de siècle est un musée vivant d\'Art Nouveau et d\'architecture éclectique, idéal à découvrir à pied sans se presser. Le Dakota Café et plusieurs terrasses de la Dageraadplaats accueillent les chiens.',
+          en: 'This fin-de-siècle neighbourhood is a living museum of Art Nouveau and eclectic architecture — best explored slowly on foot. Dakota Café and several terraces on Dageraadplaats welcome dogs.',
+          es: 'Este barrio finisecular es un museo vivo del Art Nouveau y la arquitectura ecléctica, ideal para recorrer a pie sin prisas. El Dakota Café y varias terrazas de Dageraadplaats admiten perros.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les trams et bus De Lijn acceptent les chiens moyennant un tarif réduit de 1,80 € par trajet (les petits chiens en cage voyagent gratuitement) ; la muselière n\'est pas obligatoire, mais la laisse si.',
+        'Téléchargez la carte \'Stad Antwerpen\' des hondenlosloopzones — plus de 40 zones clôturées sans laisse dans la ville, dont les grandes du Rivierenhof et du Nachtegalenpark.',
+        'Les déjections canines sont sanctionnées jusqu\'à 350 € — et Anvers expérimente le traçage ADN dans certains quartiers, ramassez toujours.',
+        'De nombreux hôtels anversois facturent 10-25 € par nuit et par chien ; les boutique-hôtels du Zuid sont souvent les plus accueillants — demandez les limites de taille à la réservation.',
+        'Pour passer aux Pays-Bas avec votre chien, Anvers-Central dessert directement Rotterdam et Amsterdam en Intercity, avec un NS Dagkaart Hond à 3,40 €.',
+      ],
+      en: [
+        'De Lijn trams and buses accept dogs for a reduced fare of €1.80 per trip (small dogs in a carrier travel free); muzzles aren\'t legally required but leash is mandatory.',
+        'Download the \'Stad Antwerpen\' map of hondenlosloopzones — there are over 40 fenced off-leash areas across the city, including large ones at Rivierenhof and Nachtegalenpark.',
+        'Dog waste is strictly enforced with fines up to €350 — and Antwerp has DNA tracking pilot projects in some districts, so always scoop.',
+        'Many Antwerp hotels charge a \'dog fee\' of €10-25 per night; boutique hotels in Het Zuid are often the most accommodating — ask about size limits when booking.',
+        'If you\'re crossing into the Netherlands with your dog, Antwerp-Centraal has direct Intercity trains to Rotterdam and Amsterdam where dogs travel for a €3.40 NS Dagkaart Hond.',
+      ],
+      es: [
+        'Los tranvías y autobuses De Lijn admiten perros por 1,80 € por trayecto (los perros pequeños en transportín viajan gratis); el bozal no es obligatorio, la correa sí.',
+        'Descarga el mapa \'Stad Antwerpen\' de hondenlosloopzones — más de 40 zonas valladas sin correa en la ciudad, con áreas grandes en Rivierenhof y Nachtegalenpark.',
+        'Las multas por excrementos caninos llegan a 350 € — y Amberes prueba el rastreo por ADN en algunos distritos, así que recoge siempre.',
+        'Muchos hoteles de Amberes cobran una tarifa de 10-25 € por noche y perro; los hoteles-boutique de Het Zuid suelen ser los más acogedores — pregunta por los límites de tamaño al reservar.',
+        'Para cruzar a los Países Bajos con tu perro, Antwerpen-Centraal conecta directamente con Rotterdam y Ámsterdam en Intercity, con un NS Dagkaart Hond por 3,40 €.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport principal : Brussels Airport (BRU) à 45 km ; Antwerp Airport (ANR) gère uniquement le court-courrier. Thalys et Eurostar desservent Antwerpen-Centraal, l\'une des plus belles gares d\'Europe.',
+        'Tout chien enregistré dans l\'UE doit disposer d\'un passeport européen, d\'une puce et d\'une vaccination antirabique valide (au moins 21 jours) pour entrer en Belgique.',
+        'Meilleures saisons : mai-juin et septembre pour 18-22°C et parcs fleuris ; les hivers sont humides mais rarement sous zéro.',
+        'Vétérinaire d\'urgence 24h/24 : Dierenkliniek Visserij (+32 3 449 55 51) et AniCura Kontich au sud pour les soins spécialisés.',
+        'L\'eau du robinet est excellente et gratuite dans la plupart des cafés — demandez \'water voor de hond\' et on vous apportera une gamelle.',
+      ],
+      en: [
+        'Main airport: Brussels Airport (BRU) is 45 km away; Antwerp Airport (ANR) handles short-haul only. Thalys and Eurostar reach Antwerpen-Centraal, one of Europe\'s most beautiful stations.',
+        'All EU-registered dogs need an EU Pet Passport, microchip and a valid rabies vaccination (at least 21 days old) to enter Belgium.',
+        'Best seasons: May-June and September for mild 18-22°C weather and blooming parks; winters are damp but rarely below freezing.',
+        '24/7 emergency vet: Dierenkliniek Visserij (+32 3 449 55 51) and AniCura Kontich south of the city for specialist care.',
+        'Tap water is excellent and free in most cafés — just ask for \'water voor de hond\' and you\'ll usually get a bowl.',
+      ],
+      es: [
+        'Aeropuerto principal: Brussels Airport (BRU) a 45 km; Antwerp Airport (ANR) solo opera vuelos cortos. Thalys y Eurostar llegan a Antwerpen-Centraal, una de las estaciones más bellas de Europa.',
+        'Todo perro registrado en la UE necesita Pasaporte Europeo, microchip y vacuna antirrábica vigente (mínimo 21 días) para entrar en Bélgica.',
+        'Mejores temporadas: mayo-junio y septiembre por el clima suave de 18-22°C y los parques floridos; los inviernos son húmedos pero rara vez bajo cero.',
+        'Urgencia veterinaria 24h: Dierenkliniek Visserij (+32 3 449 55 51) y AniCura Kontich al sur para atención especializada.',
+        'El agua del grifo es excelente y gratuita en casi todos los cafés — pide \'water voor de hond\' y te traerán un cuenco.',
+      ],
+    },
+  },
+
+  brussels: {
+    history: {
+      fr: `Bruxelles, capitale de la Belgique et capitale de facto de l'Union européenne, mêle des origines médiévales flamandes à un présent diplomatique cosmopolite — et ses 1,2 million d'habitants sont massivement pro-chiens. La Belgique compte environ 1,7 million de chiens, et la capitale bilingue abrite des dizaines de parcs canins urbains et de sentiers forestiers sans clôture. L'héritage royal se lit au Parc du Cinquantenaire, érigé par Léopold II en 1880, tandis que la vaste Forêt de Soignes et le Bois de la Cambre, au sud, offrent des promenades à l'échelle de la campagne. La culture locale est réputée accueillante : les chiens sont admis en terrasse, dans la plupart des commerces, et — tenus en laisse et muselés ou en sac — sur tout le réseau STIB-MIVB. La Grand-Place est classée UNESCO, mais pour les chiens, la vraie magie, c'est la ceinture verte.`,
+      en: `Brussels, capital of Belgium and de facto capital of the European Union, blends medieval Flemish origins with a cosmopolitan diplomatic present — and its 1.2 million residents are overwhelmingly pro-dog. Belgium has an estimated 1.7 million pet dogs nationally, and the bilingual capital hosts dozens of urban dog parks and unfenced forest paths. The city's royal heritage is visible in the Parc du Cinquantenaire, built by Leopold II in 1880, while the vast Sonian Forest and Bois de la Cambre on the southern edge offer countryside-scale walks. Local culture is famously dog-tolerant: dogs are welcomed on café terraces, in most shops, and — provided they're leashed and muzzled or in a bag — on the entire STIB-MIVB public transport network. The Grand-Place may be UNESCO-listed, but for dogs, the real magic is the green belt.`,
+      es: `Bruselas, capital de Bélgica y capital de facto de la Unión Europea, mezcla raíces medievales flamencas con un presente diplomático cosmopolita — y sus 1,2 millones de habitantes son claramente properros. Bélgica cuenta con unos 1,7 millones de perros, y la capital bilingüe alberga decenas de parques caninos urbanos y senderos forestales sin vallar. La herencia real se aprecia en el Parc du Cinquantenaire, levantado por Leopoldo II en 1880, mientras que el extenso Bosque de Soignes y el Bois de la Cambre, al sur, ofrecen paseos de dimensiones rurales. La cultura local es muy tolerante con los perros: se les acepta en las terrazas, en la mayoría de las tiendas y — con correa y bozal o en bolsa — en toda la red STIB-MIVB. La Grand-Place es Patrimonio UNESCO, pero para los perros, la verdadera magia está en el cinturón verde.`,
+    },
+    sights: [
+      {
+        name: 'Parc du Cinquantenaire',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc néoclassique de 30 hectares couronné par l\'arc de triomphe érigé pour le cinquantenaire de la Belgique en 1880. Les chiens sont bienvenus en laisse partout, et les larges allées gravillonnées attirent les groupes de promeneurs expatriés.',
+          en: 'A 30-hectare neoclassical park crowned by the triumphal arch built for Belgium\'s 50th anniversary in 1880. Dogs are welcome on leash throughout, and the wide gravel paths and lawns are popular with expat dog-walking groups.',
+          es: 'Un parque neoclásico de 30 hectáreas coronado por el arco triunfal erigido por el 50 aniversario de Bélgica en 1880. Los perros son bienvenidos con correa en todo el recinto, y los anchos senderos de grava son un imán para los grupos de paseadores expatriados.',
+        },
+      },
+      {
+        name: 'Bois de la Cambre',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Ce parc forestier de 124 hectares est l\'escapade favorite du week-end, avec lac, pelouses vallonnées et zone sans laisse non clôturée sur le flanc ouest. La route qui le traverse est fermée aux voitures chaque week-end.',
+          en: 'This 124-hectare forest park is the city\'s favourite weekend escape, with a lake, rolling lawns and a dedicated unfenced off-leash zone on the western side. The road through it is closed to cars every weekend.',
+          es: 'Este parque forestal de 124 hectáreas es la escapada preferida del fin de semana, con lago, praderas onduladas y zona sin correa sin vallar en el flanco oeste. La carretera que lo atraviesa se cierra al tráfico todos los fines de semana.',
+        },
+      },
+      {
+        name: 'Sonian Forest (Forêt de Soignes)',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Une hêtraie classée UNESCO de 4 400 hectares au sud de la ville, avec des centaines de kilomètres de sentiers. Les chiens doivent être en laisse dans les réserves écologiques mais peuvent circuler librement sur la plupart des chemins.',
+          en: 'A UNESCO-listed 4,400-hectare beech forest on the southern edge of the city, with hundreds of kilometres of trails. Dogs must be leashed in ecological reserves but can roam free on most footpaths.',
+          es: 'Un hayedo Patrimonio UNESCO de 4.400 hectáreas al sur de la ciudad, con cientos de kilómetros de senderos. Los perros deben ir con correa en las reservas ecológicas pero pueden ir sueltos en la mayoría de los caminos.',
+        },
+      },
+      {
+        name: 'Grand-Place',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'La place centrale classée UNESCO est entourée des maisons des guildes dorées du XVIIe siècle et de l\'hôtel de ville gothique. Les chiens en laisse peuvent traverser et poser pour la photo, mais pas participer aux visites de l\'hôtel de ville.',
+          en: 'The UNESCO-listed central square is surrounded by gilded 17th-century guild houses and the Gothic Town Hall. Leashed dogs are free to cross and even pose for photos, though they can\'t enter the Town Hall tours.',
+          es: 'La plaza central Patrimonio UNESCO está rodeada por las casas gremiales doradas del siglo XVII y el Ayuntamiento gótico. Los perros con correa pueden cruzarla e incluso posar para fotos, aunque no entrar a las visitas del Ayuntamiento.',
+        },
+      },
+      {
+        name: 'Parc de Woluwe',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc de style anglais de 70 hectares avec étangs et vieux hêtres, doté de deux grandes zones clôturées sans laisse. Très prisé de la communauté européenne installée à proximité.',
+          en: 'A 70-hectare English-style park with ponds and ancient beeches, featuring two large fenced off-leash zones. A favourite with the Brussels-EU crowd living nearby.',
+          es: 'Un parque de estilo inglés de 70 hectáreas con estanques y hayas centenarias, con dos grandes zonas valladas sin correa. Favorito de la comunidad Bruselas-UE que vive cerca.',
+        },
+      },
+      {
+        name: 'Sablon & Place du Grand Sablon',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier des antiquaires est aussi la place-café la plus chic de Bruxelles, avec les chocolatiers Wittamer et Pierre Marcolini. La plupart des terrasses accueillent les chiens, et le Petit Sablon voisin offre une pause fraîche et ombragée.',
+          en: 'The antique-dealer district doubles as Brussels\' chicest café square, with chocolatiers like Wittamer and Pierre Marcolini. Most terraces welcome dogs, and the adjacent Petit Sablon gardens are a leafy cool-down spot.',
+          es: 'El barrio de los anticuarios es también la plaza de café más chic de Bruselas, con chocolateros como Wittamer y Pierre Marcolini. Casi todas las terrazas admiten perros y los cercanos jardines del Petit Sablon son un refugio fresco y arbolado.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Sur le métro, les trams et bus STIB-MIVB, les petits chiens en cage voyagent gratis ; les grands chiens exigent laisse ET muselière et un titre à tarif réduit — beaucoup de locaux gardent la muselière roulée en poche pour les contrôles.',
+        'Bruxelles compte plus de 20 espaces canins clôturés officiels ; les plus grands se trouvent au Parc Duden, au Parc Josaphat et près de l\'Atomium, au Parc de Laeken.',
+        'Taxe sur les chiens : les résidents bruxellois doivent enregistrer leur chien et payer une petite redevance annuelle, mais les touristes en sont exemptés — gardez simplement votre passeport européen.',
+        'Le marché dominical de la Gare du Midi (l\'un des plus grands d\'Europe) n\'est pas adapté aux chiens — trop de monde et trop de nourriture au sol ; préférez le marché du Châtelain, plus calme, le mercredi après-midi.',
+        'Les sachets canins sont mis gratuitement à l\'entrée de la plupart des parcs, mais les amendes pour déjections vont jusqu\'à 250 € — les 19 communes verbalisent indépendamment.',
+      ],
+      en: [
+        'On STIB-MIVB metro, trams and buses, small dogs travel free in a carrier; large dogs need a leash AND muzzle and a reduced fare ticket — many locals carry the muzzle rolled in a pocket for controls.',
+        'Brussels has over 20 official fenced dog parks (espaces canins); the biggest are at Parc Duden, Parc Josaphat and near the Atomium in Parc de Laeken.',
+        'Dog tax: if you live in Brussels you must register and pay a small annual fee per dog, but tourists are exempt — just carry your EU Pet Passport.',
+        'The Sunday market at Gare du Midi (one of Europe\'s largest) is not dog-friendly — too crowded and too much dropped food; try the calmer Châtelain market on Wednesday afternoons instead.',
+        'Pick up bags (sachets canins) are provided free at most park entrances, but fines for fouling run up to €250 — the 19 communes enforce independently.',
+      ],
+      es: [
+        'En el metro, tranvías y autobuses STIB-MIVB, los perros pequeños en transportín viajan gratis; los perros grandes necesitan correa Y bozal y un billete a tarifa reducida — muchos locales llevan el bozal enrollado en el bolsillo para los controles.',
+        'Bruselas cuenta con más de 20 espacios caninos vallados oficiales; los mayores están en el Parc Duden, el Parc Josaphat y junto al Atomium en el Parc de Laeken.',
+        'Impuesto canino: los residentes deben inscribir al perro y pagar una pequeña tasa anual, pero los turistas están exentos — basta con llevar el Pasaporte Europeo.',
+        'El mercado dominical de la Gare du Midi (uno de los más grandes de Europa) no es apto para perros — demasiada gente y comida por el suelo; mejor el mercado del Châtelain, más tranquilo, los miércoles por la tarde.',
+        'Las bolsas caninas son gratuitas en la entrada de la mayoría de los parques, pero las multas por excrementos llegan a 250 € — los 19 municipios sancionan de forma independiente.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'aéroport de Bruxelles (BRU) à Zaventem est la porte d\'entrée principale ; Brussels-South Charleroi (CRL) accueille les low-cost à 55 km au sud. Eurostar relie Bruxelles-Midi à Londres et Paris — uniquement les petits chiens en cage, et pas sur les trains vers Londres.',
+        'Les chiens venant de l\'UE doivent présenter un passeport européen, puce et vaccin antirabique. Hors UE, un certificat sanitaire UE et un titrage peuvent s\'appliquer — prévoir 3 mois minimum.',
+        'Meilleures saisons : fin avril à juin pour les parcs en fleurs, septembre les années de Tapis de Fleurs ; les hivers sont gris et bruineux, rarement enneigés.',
+        'Vétérinaire d\'urgence 24h/24 : Clinique Vétérinaire Universitaire (ULB) Anderlecht, +32 2 555 40 00, et Vetsuni à l\'est de la ville.',
+        'La plupart des hôtels facturent 15-30 € par nuit et par chien ; l\'Hotel Amigo, The Dominican et plusieurs boutique-hôtels d\'Ixelles sont particulièrement accueillants.',
+      ],
+      en: [
+        'Brussels Airport (BRU) in Zaventem is the main gateway; Brussels-South Charleroi (CRL) handles low-cost carriers 55 km south. Eurostar connects Brussels-Midi to London and Paris — small dogs in carriers only, not on London-bound trains.',
+        'Dogs from EU countries need the EU Pet Passport, microchip and rabies vaccination. From non-EU, an EU health certificate and titre test may apply — plan 3+ months ahead.',
+        'Best seasons: late April to June for blossoming parks, September for the Brussels Flower Carpet years; winters are grey and drizzly but rarely snowy.',
+        '24/7 emergency vet: Clinique Vétérinaire Universitaire (ULB) Anderlecht, +32 2 555 40 00, and Vetsuni on the city\'s eastern edge.',
+        'Most hotels charge €15-30 per night for a dog; Hotel Amigo, The Dominican and several Ixelles boutique hotels are particularly welcoming.',
+      ],
+      es: [
+        'El Aeropuerto de Bruselas (BRU) en Zaventem es la puerta principal; Brussels-South Charleroi (CRL) opera low-cost a 55 km al sur. Eurostar conecta Bruselas-Midi con Londres y París — solo perros pequeños en transportín, y no en los trenes a Londres.',
+        'Los perros procedentes de la UE necesitan Pasaporte Europeo, microchip y vacuna antirrábica. Desde fuera de la UE puede requerirse certificado sanitario UE y titulación — planifica con 3 meses de antelación.',
+        'Mejores temporadas: finales de abril a junio por los parques en flor, septiembre los años de la Alfombra de Flores; los inviernos son grises y lluviosos, rara vez con nieve.',
+        'Urgencia veterinaria 24h: Clinique Vétérinaire Universitaire (ULB) Anderlecht, +32 2 555 40 00, y Vetsuni al este de la ciudad.',
+        'La mayoría de los hoteles cobran 15-30 € por noche y perro; el Hotel Amigo, The Dominican y varios hoteles-boutique de Ixelles son especialmente acogedores.',
+      ],
+    },
+  },
+
+  ghent: {
+    history: {
+      fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours — cathédrale Saint-Bavon, Beffroi et Saint-Nicolas — témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe — un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première en Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme — et de chien.`,
+      en: `Ghent, in the heart of Flanders, was the second-largest city in medieval Northern Europe after Paris, and its skyline of three towers — St Bavo's Cathedral, the Belfry and St Nicholas' Church — still announces that golden age. Today it's a compact university city of 265,000 people with one of Europe's most pedestrianised historic centres, which makes it paradise for walking a dog. Flanders is Belgium's dog-owning heartland, and Ghent counts dozens of official hondenlosloopzones including large ones at Bourgoyen nature reserve and Blaarmeersen recreational lake. The city's famously progressive spirit extends to animals: it was the first European city to introduce a weekly Veggie Day in 2009, and its cafés along the Graslei canal almost universally welcome dogs. Car-free since 2017, the medieval centre lets you wander with a leashed dog at human (and canine) pace.`,
+      es: `Gante, en el corazón de Flandes, fue la segunda ciudad más grande del norte de Europa medieval tras París, y su perfil de tres torres — catedral de San Bavón, Campanario y San Nicolás — aún evoca aquella edad dorada. Hoy es una ciudad universitaria compacta de 265.000 habitantes con uno de los centros históricos más peatonalizados de Europa, un paraíso para pasear con perro. Flandes es el territorio canino por excelencia de Bélgica, y Gante cuenta con decenas de hondenlosloopzones oficiales, incluidas las grandes de la reserva natural de Bourgoyen y el lago recreativo de Blaarmeersen. El espíritu progresista de la ciudad se extiende a los animales: fue la primera en Europa en instaurar un Día Vegetariano semanal en 2009, y sus cafés del Graslei admiten perros casi sin excepción. Sin coches desde 2017, el centro medieval se recorre a ritmo humano — y canino.`,
+    },
+    sights: [
+      {
+        name: 'Gravensteen Castle',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: 'Le château des Comtes, du XIIe siècle, dresse ses douves au cœur de la ville. Les chiens n\'ont pas accès à la visite intérieure, mais le tour des douves et la place Sint-Veerleplein voisine sont superbes.',
+          en: 'The 12th-century Castle of the Counts stands moated in the city centre. Dogs can\'t enter the interior tour, but the exterior walk around the moat and the adjoining Sint-Veerleplein square are picture-perfect.',
+          es: 'El Castillo de los Condes, del siglo XII, se alza con sus fosos en el centro. Los perros no pueden entrar en la visita interior, pero la vuelta exterior por el foso y la plaza Sint-Veerleplein son de postal.',
+        },
+      },
+      {
+        name: 'Graslei & Korenlei',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'Les deux quais médiévaux qui se font face sur la Lys forment le paysage le plus photogénique de Belgique. Les chiens sont acceptés à presque toutes les terrasses le long du canal — les Gantois pique-niquent souvent avec leur chien sur les marches du Graslei.',
+          en: 'The two medieval quays facing each other across the Leie river form the most photogenic stretch in Belgium. Dogs are welcome at nearly every canal-side terrace — locals often picnic with their dogs on the Graslei steps.',
+          es: 'Los dos muelles medievales enfrentados sobre el río Lys componen la estampa más fotogénica de Bélgica. Los perros son bienvenidos en casi todas las terrazas del canal — los locales suelen merendar con sus perros en las escaleras del Graslei.',
+        },
+      },
+      {
+        name: 'Bourgoyen-Ossemeersen Reserve',
+        emoji: '🦢',
+        petFriendly: true,
+        desc: {
+          fr: 'Réserve naturelle humide de 230 hectares à l\'ouest de la ville, avec caillebotis, observatoires ornithologiques et zones sans laisse dédiées. À quelques minutes du centre en tram 1.',
+          en: 'A 230-hectare wetland nature reserve on the city\'s western edge, with boardwalks, bird hides and dedicated off-leash zones. A short tram 1 ride from the centre.',
+          es: 'Una reserva natural de humedales de 230 hectáreas en el extremo oeste de la ciudad, con pasarelas, hides para avistar aves y zonas sin correa habilitadas. A pocos minutos del centro en el tranvía 1.',
+        },
+      },
+      {
+        name: 'Citadelpark',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc central de Gand aménagé sur une ancienne citadelle, il abrite le SMAK (art contemporain) et le MSK (beaux-arts). Les chiens en laisse sont admis dans le parc, pas dans les musées.',
+          en: 'Ghent\'s central public park, built on a former citadel, houses the SMAK contemporary art museum and the MSK fine arts museum. Leashed dogs are welcome in the grounds but not inside the museums.',
+          es: 'El parque público central de Gante, levantado sobre una antigua ciudadela, alberga el SMAK de arte contemporáneo y el MSK de bellas artes. Los perros con correa son bienvenidos en el recinto pero no en los museos.',
+        },
+      },
+      {
+        name: 'Blaarmeersen',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: 'Zone de loisirs de 90 hectares avec lac de baignade, pistes de jogging et plage canine clôturée sans laisse sur la rive nord — l\'un des rares endroits urbains où les chiens peuvent nager l\'été.',
+          en: 'A 90-hectare recreation area with a swimming lake, running tracks and a fenced off-leash dog beach on the northern shore — one of the rare city spots where dogs can swim in summer.',
+          es: 'Una zona recreativa de 90 hectáreas con lago de baño, pistas de jogging y una playa canina vallada sin correa en la orilla norte — uno de los pocos lugares urbanos donde los perros pueden nadar en verano.',
+        },
+      },
+      {
+        name: 'Patershol district',
+        emoji: '🍺',
+        petFriendly: true,
+        desc: {
+          fr: 'Un dédale de ruelles médiévales derrière Gravensteen, truffé de restaurants indépendants et de \'brown cafés\'. Beaucoup accueillent les chiens en intérieur l\'hiver — essayez \'t Dreupelkot pour une dégustation de genièvre.',
+          en: 'A warren of narrow medieval lanes behind Gravensteen, packed with independent restaurants and brown cafés. Many welcome dogs inside in winter — try \'t Dreupelkot for a genever tasting.',
+          es: 'Un laberinto de callejuelas medievales detrás del Gravensteen, repleto de restaurantes independientes y \'brown cafés\'. Muchos admiten perros en el interior en invierno — prueba \'t Dreupelkot para una cata de ginebra genever.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les trams De Lijn 1, 2 et 4 desservent toutes les grandes promenades canines depuis Gent-Sint-Pieters — 1,80 € par trajet pour le chien, gratuit en sac pour les petits, laisse obligatoire.',
+        'Le centre médiéval sans voitures (depuis 2017) permet de promener son chien sereinement sur le Korenmarkt, le Vrijdagmarkt et les quais sans traverser de trafic.',
+        'Les canaux de Gand sont accessibles en plusieurs points — évitez que votre chien y boive, la qualité de l\'eau varie ; les cafés vous prêteront une gamelle sur demande.',
+        'Si vous louez un bateau chez Minerva ou la Rederij Dewaele pour une croisière, la plupart des opérateurs acceptent les chiens sages en laisse sans supplément — confirmez à la réservation.',
+        'Attention aux cyclistes : Gand affiche l\'une des plus fortes parts modales vélo de Flandre, et les zones partagées exigent une laisse courte, notamment dans le quartier étudiant d\'Overpoort.',
+      ],
+      en: [
+        'De Lijn trams 1, 2 and 4 serve all the main dog walks from Ghent-Sint-Pieters station — dogs pay €1.80 per trip, small dogs in a bag travel free, leash required.',
+        'The car-free medieval centre (since 2017) means you can walk your dog stress-free through Korenmarkt, Vrijdagmarkt and the quays without crossing traffic.',
+        'Ghent\'s canals are directly accessible at several spots — don\'t let your dog drink from them as the water quality is variable; cafés will give you a bowl on request.',
+        'If you\'re renting a boat from Minerva or Rederij Dewaele for a canal cruise, most operators allow well-behaved leashed dogs at no extra charge — confirm when booking.',
+        'Watch for cyclists: Ghent has one of Flanders\' highest bike-mode shares, and shared zones mean dogs must be kept on a short leash, especially around the student quarter Overpoort.',
+      ],
+      es: [
+        'Los tranvías De Lijn 1, 2 y 4 conectan con todos los grandes paseos caninos desde Gent-Sint-Pieters — 1,80 € por trayecto para el perro, gratis en bolsa para los pequeños, correa obligatoria.',
+        'El centro medieval sin coches (desde 2017) permite pasear sin estrés por el Korenmarkt, el Vrijdagmarkt y los muelles sin cruzar tráfico.',
+        'Los canales de Gante son accesibles en varios puntos — evita que tu perro beba de ellos, la calidad del agua varía; los cafés te prestarán un cuenco si lo pides.',
+        'Si alquilas un barco en Minerva o Rederij Dewaele para un crucero por los canales, casi todos los operadores aceptan perros tranquilos con correa sin recargo — confírmalo al reservar.',
+        'Atención a las bicicletas: Gante tiene una de las mayores cuotas modales ciclistas de Flandes, y en zonas compartidas se exige correa corta, sobre todo en el barrio estudiantil de Overpoort.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport principal : Bruxelles (BRU) à 55 km avec un IC direct chaque heure pour Gent-Sint-Pieters (55 min) ; Brussels-South Charleroi pour les low-cost.',
+        'Les trains NMBS/SNCB acceptent les chiens : gratis en sac pour les petits, 3,40 € en billet journée pour les grands, laisse obligatoire — idéal pour une journée à Bruges (25 min) ou Anvers (50 min).',
+        'Meilleures saisons : avril-juin pour les floraisons au bord des canaux et les Floralies de Gand ; les Gentse Feesten fin juillet sont splendides mais bruyantes et bondées — à éviter avec un chien sensible.',
+        'Vétérinaire d\'urgence 24h/24 : Faculté Vétérinaire de l\'Université de Gand à Merelbeke, +32 9 264 77 00 — l\'un des plus grands CHU vétérinaires d\'Europe.',
+        'Les hôtels gantois affichent souvent des tarifs \'chien inclus\' — Ghent Marriott, 1898 The Post et NH Gent Belfort sont fiables côté accueil ; apportez toujours la preuve de vaccination antirabique.',
+      ],
+      en: [
+        'Main airport: Brussels (BRU) is 55 km away with a direct hourly IC train to Gent-Sint-Pieters (55 min); Brussels-South Charleroi handles low-cost flights.',
+        'NMBS/SNCB trains accept dogs: small dogs free in a bag, large dogs €3.40 day ticket, leash required — perfect for day trips to Bruges (25 min) or Antwerp (50 min).',
+        'Best seasons: April-June for canal-side flowers and the Ghent Floralies, and the Ghent Festivities (Gentse Feesten) in late July — note it\'s very crowded and loud, not ideal for nervous dogs.',
+        '24/7 emergency vet: Small Animal Department of Ghent University Veterinary Faculty in Merelbeke, +32 9 264 77 00 — one of Europe\'s leading veterinary teaching hospitals.',
+        'Ghent hotels often quote \'dog included\' rates — Ghent Marriott, 1898 The Post and NH Gent Belfort are reliably pet-welcoming; always bring proof of rabies vaccination.',
+      ],
+      es: [
+        'Aeropuerto principal: Bruselas (BRU) a 55 km con IC directo cada hora hasta Gent-Sint-Pieters (55 min); Brussels-South Charleroi para los low-cost.',
+        'Los trenes NMBS/SNCB admiten perros: gratis en bolsa los pequeños, 3,40 € billete diario los grandes, correa obligatoria — ideal para excursiones a Brujas (25 min) o Amberes (50 min).',
+        'Mejores temporadas: abril-junio por las floraciones junto a los canales y las Floralías de Gante; las Gentse Feesten de finales de julio son espectaculares pero ruidosas y abarrotadas — no aptas para perros nerviosos.',
+        'Urgencia veterinaria 24h: Facultad de Veterinaria de la Universidad de Gante en Merelbeke, +32 9 264 77 00 — uno de los hospitales veterinarios universitarios más destacados de Europa.',
+        'Los hoteles gantesess suelen ofrecer tarifas \'perro incluido\' — Ghent Marriott, 1898 The Post y NH Gent Belfort son fiables en acogida; lleva siempre la prueba de vacunación antirrábica.',
+      ],
+    },
+  },
+
+
 }
 
 export default cityContent

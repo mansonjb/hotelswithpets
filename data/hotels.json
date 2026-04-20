@@ -9076,5 +9076,599 @@
       "Budget-friendly"
     ],
     "slug": "ibis-rotterdam-city-centre-rotterdam"
+  },
+  {
+    "id": "bologna-1",
+    "name": "Grand Hotel Majestic già Baglioni",
+    "destinationSlug": "bologna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2400,
+    "priceFrom": 310,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-majestic-gia-baglioni.html",
+    "petFee": 50,
+    "petPolicy": "Grand Hotel Majestic welcomes small and medium-sized pets with a fee of €50 per pet per stay. Located in the historic centre on Via dell'Indipendenza, the 5-star property offers welcome amenities for dogs including water bowls and sleeping pads.",
+    "highlights": [
+      "Historic centre location",
+      "Michelin dining",
+      "Spa"
+    ],
+    "slug": "grand-hotel-majestic-bologna"
+  },
+  {
+    "id": "bologna-2",
+    "name": "Art Hotel Commercianti",
+    "destinationSlug": "bologna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2100,
+    "priceFrom": 185,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/art-commercianti.html",
+    "petFee": 0,
+    "petPolicy": "Art Hotel Commercianti welcomes dogs of any size free of charge. Set in a 12th-century building next to Piazza Maggiore, this boutique hotel is ideal for exploring the porticoes with your pet.",
+    "highlights": [
+      "Piazza Maggiore location",
+      "Medieval building",
+      "Free WiFi"
+    ],
+    "slug": "art-hotel-commercianti-bologna"
+  },
+  {
+    "id": "bologna-3",
+    "name": "Zanhotel Regina",
+    "destinationSlug": "bologna",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3200,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/zanhotel-regina.html",
+    "petFee": 0,
+    "petPolicy": "Zanhotel Regina allows dogs and cats of any size at no additional fee. Just 500 metres from Bologna Central Station, it's a practical base for travellers arriving by train with pets.",
+    "highlights": [
+      "Near central station",
+      "Historic building",
+      "Free WiFi"
+    ],
+    "slug": "zanhotel-regina-bologna"
+  },
+  {
+    "id": "bologna-4",
+    "name": "Savhotel Fiera Bologna",
+    "destinationSlug": "bologna",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/savhotel.html",
+    "petFee": 0,
+    "petPolicy": "Savhotel Fiera Bologna allows dogs of any size in designated rooms at no additional fee. Located near the Fiera district and easily reached by bus from the centre.",
+    "highlights": [
+      "Free WiFi",
+      "Fiera district",
+      "Budget-friendly"
+    ],
+    "slug": "savhotel-fiera-bologna"
+  },
+  {
+    "id": "bologna-5",
+    "name": "Hotel Internazionale",
+    "destinationSlug": "bologna",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1800,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/internazionale.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Internazionale charges a pet fee of €20 per stay. The hotel sits on Via dell'Indipendenza, steps from the train station and the central porticoes.",
+    "highlights": [
+      "Central location",
+      "Near porticoes",
+      "Free WiFi"
+    ],
+    "slug": "hotel-internazionale-bologna"
+  },
+  {
+    "id": "cologne-1",
+    "name": "Hotel Lyskirchen",
+    "destinationSlug": "cologne",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3400,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/lyskirchen.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Lyskirchen allows up to 2 dogs of any size for €15 per pet per night. The hotel sits right on the Rhine promenade, perfect for riverside dog walks.",
+    "highlights": [
+      "Rhine riverside",
+      "Old town",
+      "Free WiFi"
+    ],
+    "slug": "hotel-lyskirchen-cologne"
+  },
+  {
+    "id": "cologne-2",
+    "name": "CityClass Hotel Am Dom",
+    "destinationSlug": "cologne",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2900,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/cityclass-am-dom.html",
+    "petFee": 19,
+    "petPolicy": "CityClass Hotel Am Dom welcomes pets of any size for €19 per pet per night. Steps from the Kölner Dom, an ideal base for exploring the Altstadt with a dog.",
+    "highlights": [
+      "Next to Cologne Cathedral",
+      "Historic centre",
+      "Free WiFi"
+    ],
+    "slug": "cityclass-hotel-am-dom-cologne"
+  },
+  {
+    "id": "cologne-3",
+    "name": "Villahotel Rheinblick",
+    "destinationSlug": "cologne",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1600,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/villahotel-rheinblick.html",
+    "petFee": 20,
+    "petPolicy": "Villahotel Rheinblick allows pets of any size in designated rooms for €20 per pet per night. The historic villa offers Rhine views and a garden.",
+    "highlights": [
+      "Rhine view",
+      "Garden",
+      "Historic villa"
+    ],
+    "slug": "villahotel-rheinblick-cologne"
+  },
+  {
+    "id": "cologne-4",
+    "name": "Hotel Eigelstein",
+    "destinationSlug": "cologne",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/eigelstein.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Eigelstein welcomes dogs of any size at no additional fee. Located in the multicultural Eigelstein district just north of the Altstadt.",
+    "highlights": [
+      "Free pets",
+      "Near central station",
+      "Boutique feel"
+    ],
+    "slug": "hotel-eigelstein-cologne"
+  },
+  {
+    "id": "cologne-5",
+    "name": "Hotel Servatius Köln",
+    "destinationSlug": "cologne",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1500,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/servatius-koeln.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Servatius welcomes dogs of any size free of charge. Small family-run hotel in the quiet Deutz district on the right bank of the Rhine.",
+    "highlights": [
+      "Free pets",
+      "Family-run",
+      "Quiet location"
+    ],
+    "slug": "hotel-servatius-cologne"
+  },
+  {
+    "id": "san-sebastian-1",
+    "name": "Hotel ILUNION San Sebastián",
+    "destinationSlug": "san-sebastian",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2600,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ilunion-san-sebastian.html",
+    "petFee": 25,
+    "petPolicy": "Hotel ILUNION San Sebastián allows dogs of any size in designated rooms for €25 per pet per night. Close to the bus station and a short walk to La Concha beach.",
+    "highlights": [
+      "Near La Concha",
+      "Modern design",
+      "Free WiFi"
+    ],
+    "slug": "hotel-ilunion-san-sebastian"
+  },
+  {
+    "id": "san-sebastian-2",
+    "name": "Hotel Antik San Sebastián",
+    "destinationSlug": "san-sebastian",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1900,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/antik-san-sebastian.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Antik San Sebastián allows dogs of any size for €15 per pet per night. Located in the Parte Vieja, perfect for pintxo bar-hopping with your dog.",
+    "highlights": [
+      "Parte Vieja location",
+      "Boutique",
+      "Free WiFi"
+    ],
+    "slug": "hotel-antik-san-sebastian"
+  },
+  {
+    "id": "san-sebastian-3",
+    "name": "Hotel Gudamendi",
+    "destinationSlug": "san-sebastian",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1200,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/gudamendi.html",
+    "petFee": 16,
+    "petPolicy": "Hotel Gudamendi charges €16 per night for a dog's stay. Set on Monte Igueldo with garden grounds, ideal for dogs that want to stretch their legs.",
+    "highlights": [
+      "Mountain location",
+      "Garden",
+      "Sea views"
+    ],
+    "slug": "hotel-gudamendi-san-sebastian"
+  },
+  {
+    "id": "san-sebastian-4",
+    "name": "Colectia Hotel Urumea",
+    "destinationSlug": "san-sebastian",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1600,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/colectia-urumea.html",
+    "petFee": 10,
+    "petPolicy": "Colectia Hotel Urumea charges a reasonable €10 per night for pets. On the Urumea river promenade near Zurriola beach.",
+    "highlights": [
+      "Near Zurriola beach",
+      "Riverside",
+      "Budget-friendly"
+    ],
+    "slug": "colectia-hotel-urumea-san-sebastian"
+  },
+  {
+    "id": "san-sebastian-5",
+    "name": "Hostal Bahía",
+    "destinationSlug": "san-sebastian",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.3,
+    "reviewCount": 2100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-bahia.html",
+    "petFee": 0,
+    "petPolicy": "Hostal Bahía allows dogs of any size at no additional fee. Simple accommodation close to La Concha beach and the city centre.",
+    "highlights": [
+      "Free pets",
+      "Near La Concha",
+      "Central"
+    ],
+    "slug": "hostal-bahia-san-sebastian"
+  },
+  {
+    "id": "toulouse-1",
+    "name": "La Cour Des Consuls Hotel & Spa Toulouse",
+    "destinationSlug": "toulouse",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2100,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-cour-des-consuls.html",
+    "petFee": 15,
+    "petPolicy": "La Cour Des Consuls Hotel & Spa allows pets of any size for €15 per pet per night. A 5-star MGallery property in the heart of the pink city, with a spa and Michelin-starred restaurant.",
+    "highlights": [
+      "5-star spa",
+      "MGallery",
+      "Historic centre"
+    ],
+    "slug": "la-cour-des-consuls-toulouse"
+  },
+  {
+    "id": "toulouse-2",
+    "name": "Aparthotel Adagio Toulouse Centre La Grave",
+    "destinationSlug": "toulouse",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3400,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/adagio-toulouse-centre-la-grave.html",
+    "petFee": 6,
+    "petPolicy": "Aparthotel Adagio Toulouse Centre La Grave allows pets of any size for €6 per pet (varies by stay length). Self-catering apartments on the Garonne left bank.",
+    "highlights": [
+      "Apartment-style",
+      "Near Garonne",
+      "Self-catering"
+    ],
+    "slug": "aparthotel-adagio-toulouse-centre-la-grave"
+  },
+  {
+    "id": "toulouse-3",
+    "name": "Odalys City Apartment Hotel Toulouse",
+    "destinationSlug": "toulouse",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2500,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/odalys-city-toulouse.html",
+    "petFee": 12,
+    "petPolicy": "Odalys City Toulouse allows 2 pets of any size for €12 per pet per night. Modern apartment hotel with kitchenettes.",
+    "highlights": [
+      "Apartment-style",
+      "Kitchenette",
+      "Central"
+    ],
+    "slug": "odalys-city-toulouse"
+  },
+  {
+    "id": "toulouse-4",
+    "name": "Hôtel Alizé",
+    "destinationSlug": "toulouse",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.2,
+    "reviewCount": 1800,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/alize-toulouse.html",
+    "petFee": 0,
+    "petPolicy": "Hôtel Alizé welcomes dogs of any size at no additional fee. Small family-run hotel near Place du Capitole.",
+    "highlights": [
+      "Free pets",
+      "Near Capitole",
+      "Family-run"
+    ],
+    "slug": "hotel-alize-toulouse"
+  },
+  {
+    "id": "toulouse-5",
+    "name": "ibis Toulouse Ponts Jumeaux",
+    "destinationSlug": "toulouse",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-toulouse-ponts-jumeaux.html",
+    "petFee": 5,
+    "petPolicy": "ibis Toulouse Ponts Jumeaux allows pets of any size for €5 per pet per night. On the Canal du Midi, with easy access to the towpath for long dog walks.",
+    "highlights": [
+      "Canal du Midi location",
+      "Budget-friendly",
+      "Free WiFi"
+    ],
+    "slug": "ibis-toulouse-ponts-jumeaux"
+  },
+  {
+    "id": "london-1",
+    "name": "The Langham London",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 5200,
+    "priceFrom": 520,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/langhamhilton.html",
+    "petFee": 70,
+    "petPolicy": "The Langham London allows pets of any size with a £70 refundable deposit per night. One of London's original grand hotels, offering a full VIP Pet programme with bowls, beds, and treats.",
+    "highlights": [
+      "Iconic Regent Street",
+      "VIP pet programme",
+      "Afternoon tea"
+    ],
+    "slug": "the-langham-london"
+  },
+  {
+    "id": "london-2",
+    "name": "The Hoxton Shoreditch",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 4800,
+    "priceFrom": 195,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/thehoxton-shoreditch.html",
+    "petFee": 0,
+    "petPolicy": "The Hoxton Shoreditch welcomes one dog per room up to 40lb (18 kg) at no extra fee. Stylish urban hotel in East London's creative quarter.",
+    "highlights": [
+      "Free pets",
+      "Shoreditch scene",
+      "Design"
+    ],
+    "slug": "the-hoxton-shoreditch-london"
+  },
+  {
+    "id": "london-3",
+    "name": "Sea Containers London",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3900,
+    "priceFrom": 340,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/sea-containers.html",
+    "petFee": 35,
+    "petPolicy": "Sea Containers London charges £35 per stay for pets (not per night). South Bank boutique hotel with Thames views; dogs receive a welcome amenity.",
+    "highlights": [
+      "Thames view",
+      "South Bank",
+      "Rooftop bar"
+    ],
+    "slug": "sea-containers-london"
+  },
+  {
+    "id": "london-4",
+    "name": "Virgin Hotels London-Shoreditch",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1800,
+    "priceFrom": 220,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/virgin-hotels-london-shoreditch.html",
+    "petFee": 0,
+    "petPolicy": "Virgin Hotels London-Shoreditch welcomes dogs of any size at no additional fee. Pet-forward property with treats, beds, and bowls provided on request.",
+    "highlights": [
+      "Free pets",
+      "Shoreditch",
+      "Pet amenities"
+    ],
+    "slug": "virgin-hotels-london-shoreditch"
+  },
+  {
+    "id": "london-5",
+    "name": "The Columbia Hotel",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 6200,
+    "priceFrom": 135,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/columbia.html",
+    "petFee": 0,
+    "petPolicy": "The Columbia allows pets of any size at no additional fee. Victorian hotel overlooking Hyde Park — one of Europe's finest off-leash dog walks.",
+    "highlights": [
+      "Opposite Hyde Park",
+      "Free pets",
+      "Victorian building"
+    ],
+    "slug": "the-columbia-hotel-london"
   }
 ]

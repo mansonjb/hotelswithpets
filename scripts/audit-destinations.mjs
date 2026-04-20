@@ -43,7 +43,7 @@ for (const h of hotels) hotelCounts[h.destinationSlug] = (hotelCounts[h.destinat
 // Extract slugs with cityContent entries
 // Match lines like "  slug: {" that follow the top-level opening of cityContent
 const cityContentSlugs = new Set(
-  [...cityContentSrc.matchAll(/^\s{2}([a-z][a-z0-9-]*): \{$/gm)].map(m => m[1])
+  [...cityContentSrc.matchAll(/^\s{2}['"]?([a-z][a-z0-9-]*)['"]?: \{$/gm)].map(m => m[1])
 )
 
 // Extract slugs present in destContextByLocale per language block

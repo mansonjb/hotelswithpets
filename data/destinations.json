@@ -74,146 +74,146 @@
     }
   },
   {
-    "slug": "paris",
-    "name": "Paris",
-    "country": "France",
-    "flag": "🇫🇷",
+    "slug": "antwerp",
+    "name": "Antwerp",
+    "country": "Belgium",
+    "flag": "🇧🇪",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/paris.jpg",
-    "intro": "Paris welcomes pets in many hotels, cafés, and even some restaurants.",
-    "lat": 48.8566,
-    "lng": 2.3522,
+    "heroImage": "/images/destinations/antwerp.jpg",
+    "intro": "Antwerp's fashion-forward, dog-welcoming culture, riverside parks, and boutique hotel scene make it Belgium's most exciting city for pet travel.",
+    "lat": 51.2194,
+    "lng": 4.4025,
     "weather": {
       "jan": {
-        "temp": 6,
-        "desc": "Cool & overcast",
+        "temp": 4,
+        "desc": "Cold & grey",
         "icon": "🌧️"
       },
       "feb": {
-        "temp": 7,
+        "temp": 5,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
       "mar": {
-        "temp": 11,
-        "desc": "Mild with rain",
+        "temp": 8,
+        "desc": "Cool & overcast",
         "icon": "🌦️"
       },
       "apr": {
-        "temp": 14,
+        "temp": 13,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
       "may": {
-        "temp": 18,
+        "temp": 17,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
       "jun": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
         "temp": 22,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
       "sep": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 16,
+        "temp": 18,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
-      "nov": {
-        "temp": 10,
+      "oct": {
+        "temp": 13,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
       "dec": {
-        "temp": 7,
+        "temp": 5,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
     }
   },
   {
-    "slug": "biarritz",
-    "name": "Biarritz",
-    "country": "France",
-    "flag": "🇫🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/biarritz.jpg",
-    "intro": "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels.",
-    "lat": 43.4832,
-    "lng": -1.5586,
+    "slug": "athens",
+    "name": "Athens",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/athens.jpg",
+    "intro": "Athens surprises pet travellers: the city's mild climate means year-round outdoor dining, and many boutique hotels in Koukaki and Monastiraki actively welcome dogs. The Philopappos Hill parkland, with its panoramic views of the Acropolis, is just minutes from the historic centre.",
+    "lat": 37.9838,
+    "lng": 23.7275,
     "weather": {
       "jan": {
-        "temp": 10,
+        "temp": 11,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
       "feb": {
-        "temp": 11,
+        "temp": 12,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
       "mar": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
         "temp": 14,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
+      "apr": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 32,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
       "dec": {
-        "temp": 11,
+        "temp": 13,
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
@@ -366,720 +366,63 @@
     }
   },
   {
-    "slug": "lisbon",
-    "name": "Lisbon",
-    "country": "Portugal",
-    "flag": "🇵🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/lisbon.jpg",
-    "intro": "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet.",
-    "lat": 38.7169,
-    "lng": -9.1399,
+    "slug": "biarritz",
+    "name": "Biarritz",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/biarritz.jpg",
+    "intro": "Biarritz is a paradise for dogs and their owners, with beach access and pet-friendly hotels.",
+    "lat": 43.4832,
+    "lng": -1.5586,
     "weather": {
       "jan": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 28,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "rome",
-    "name": "Rome",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/rome.jpg",
-    "intro": "Rome combines ancient grandeur with a surprisingly relaxed attitude toward pets: dogs are welcome in many piazzas, parks, and hotel terraces.",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "weather": {
-      "jan": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "madrid",
-    "name": "Madrid",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/madrid.jpg",
-    "intro": "Madrid is one of Europe's most dog-friendly capitals, with sprawling parks, dog-welcoming terraces, and a thriving pet culture.",
-    "lat": 40.4168,
-    "lng": -3.7038,
-    "weather": {
-      "jan": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 30,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "prague",
-    "name": "Prague",
-    "country": "Czech Republic",
-    "flag": "🇨🇿",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/prague.jpg",
-    "intro": "Prague's compact old town and riverside parks make it an underrated gem for travelling with dogs.",
-    "lat": 50.0755,
-    "lng": 14.4378,
-    "weather": {
-      "jan": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "vienna",
-    "name": "Vienna",
-    "country": "Austria",
-    "flag": "🇦🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/vienna.jpg",
-    "intro": "Vienna's grand parks, dog-friendly cafés, and highly-rated hotels make it a top destination for pet owners in Central Europe.",
-    "lat": 48.2082,
-    "lng": 16.3738,
-    "weather": {
-      "jan": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "copenhagen",
-    "name": "Copenhagen",
-    "country": "Denmark",
-    "flag": "🇩🇰",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/copenhagen.jpg",
-    "intro": "Copenhagen leads Europe in sustainability and pet-friendliness: dogs are welcomed in shops, restaurants, and on public transport.",
-    "lat": 55.6761,
-    "lng": 12.5683,
-    "weather": {
-      "jan": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "apr": {
         "temp": 10,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
-      "may": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "aug": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "sep": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
+      "feb": {
         "temp": 11,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
-      "nov": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "stockholm",
-    "name": "Stockholm",
-    "country": "Sweden",
-    "flag": "🇸🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/stockholm.jpg",
-    "intro": "Stockholm's archipelago setting, vast green spaces, and dog-welcoming culture make it one of Scandinavia's best cities for pet travel.",
-    "lat": 59.3293,
-    "lng": 18.0686,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 0,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
       "mar": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 9,
-        "desc": "Cool & overcast",
+        "temp": 13,
+        "desc": "Mild with rain",
         "icon": "🌦️"
       },
-      "may": {
+      "apr": {
         "temp": 15,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
-      "jun": {
-        "temp": 19,
+      "may": {
+        "temp": 18,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
-      "jul": {
+      "jun": {
         "temp": 22,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
-      "aug": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "sep": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "munich",
-    "name": "Munich",
-    "country": "Germany",
-    "flag": "🇩🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/munich.jpg",
-    "intro": "Munich's English Garden, beer garden culture (dogs welcome), and excellent hotels make it ideal for a city break with your pet.",
-    "lat": 48.1351,
-    "lng": 11.582,
-    "weather": {
-      "jan": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
       "jul": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "zurich",
-    "name": "Zurich",
-    "country": "Switzerland",
-    "flag": "🇨🇭",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/zurich.jpg",
-    "intro": "Zurich has some of Europe's highest standards for pet welfare: dogs ride trams, enter shops, and are welcomed in many top hotels.",
-    "lat": 47.3769,
-    "lng": 8.5417,
-    "weather": {
-      "jan": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "nice",
-    "name": "Nice",
-    "country": "France",
-    "flag": "🇫🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/nice.jpg",
-    "intro": "Nice's Mediterranean climate, Promenade des Anglais, and abundance of terrace restaurants make it a superb destination for pets year-round.",
-    "lat": 43.7102,
-    "lng": 7.262,
-    "weather": {
-      "jan": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 27,
+        "temp": 25,
         "desc": "Hot & sunny",
         "icon": "🌤️"
       },
       "aug": {
-        "temp": 27,
+        "temp": 25,
         "desc": "Hot & sunny",
         "icon": "🌤️"
       },
       "sep": {
-        "temp": 23,
+        "temp": 22,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
       "oct": {
-        "temp": 19,
+        "temp": 18,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
@@ -1089,9 +432,82 @@
         "icon": "🌦️"
       },
       "dec": {
-        "temp": 10,
+        "temp": 11,
         "desc": "Mild with rain",
         "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "bologna",
+    "name": "Bologna",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/bologna.jpg",
+    "intro": "Bologna's medieval porticoes and progressive urban fauna regulations make it Italy's most dog-welcoming city — dogs are legally permitted in all public premises, a 24/7 emergency vet operates inside the main park, and the UNESCO-listed Portico di San Luca offers a stunning shaded walk for any weather.",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & overcast",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
       }
     }
   },
@@ -1169,79 +585,6 @@
     }
   },
   {
-    "slug": "lyon",
-    "name": "Lyon",
-    "country": "France",
-    "flag": "🇫🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/lyon.jpg",
-    "intro": "Lyon's gastronomic culture extends to its terrace restaurants and bouchons, many of which welcome well-behaved dogs.",
-    "lat": 45.764,
-    "lng": 4.8357,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
     "slug": "bruges",
     "name": "Bruges",
     "country": "Belgium",
@@ -1299,6 +642,79 @@
       },
       "oct": {
         "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "brussels",
+    "name": "Brussels",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brussels.jpg",
+    "intro": "Brussels punches above its weight as a pet travel destination: compact, walkable, with a café culture that extends happily to four-legged guests. The Bois de la Cambre and the vast Forêt de Soignes on the city's edge offer hours of off-lead woodland walking.",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
@@ -1388,685 +804,101 @@
     }
   },
   {
-    "slug": "dubrovnik",
-    "name": "Dubrovnik",
-    "country": "Croatia",
-    "flag": "🇭🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/dubrovnik.jpg",
-    "intro": "Dubrovnik's dramatic coastline, island day-trips, and boutique hotels outside the Old Town walls offer a memorable setting for pet owners.",
-    "lat": 42.6507,
-    "lng": 18.0944,
+    "slug": "cologne",
+    "name": "Cologne",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/cologne.jpg",
+    "intro": "Cologne (Köln) sits on the Rhine with its iconic cathedral and a vibrant dog culture — the KVB city network welcomes dogs in carriers and the vast Stadtwald forest offers one of western Germany's best off-leash walking experiences.",
+    "lat": 50.9333,
+    "lng": 6.95,
     "weather": {
       "jan": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 28,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 28,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "porto",
-    "name": "Porto",
-    "country": "Portugal",
-    "flag": "🇵🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/porto.jpg",
-    "intro": "Porto's hilly streets, river esplanades, and laid-back attitude make it one of Portugal's most welcoming cities for travelling with a dog.",
-    "lat": 41.1579,
-    "lng": -8.6291,
-    "weather": {
-      "jan": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "seville",
-    "name": "Seville",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/seville.jpg",
-    "intro": "Seville's orange-tree lined streets, riverside promenades, and vibrant terrace culture make it one of Andalusia's most dog-friendly cities.",
-    "lat": 37.3886,
-    "lng": -5.9823,
-    "weather": {
-      "jan": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 31,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 35,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 35,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 30,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "valencia",
-    "name": "Valencia",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/valencia.jpg",
-    "intro": "Valencia's sunny climate, Turia river park, and dog-welcoming beaches make it a superb year-round destination for pet travel.",
-    "lat": 39.4699,
-    "lng": -0.3763,
-    "weather": {
-      "jan": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "malaga",
-    "name": "Malaga",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/malaga.jpg",
-    "intro": "Malaga combines a sunny Mediterranean climate with a relaxed attitude toward dogs: ideal for a beach-and-city break with your pet.",
-    "lat": 36.7213,
-    "lng": -4.4213,
-    "weather": {
-      "jan": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jun": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 30,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "dec": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "florence",
-    "name": "Florence",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/florence.jpg",
-    "intro": "Florence's Renaissance beauty is matched by a surprisingly welcoming attitude toward dogs: in restaurants, on the Arno riverbanks, and in the Boboli gardens.",
-    "lat": 43.7696,
-    "lng": 11.2558,
-    "weather": {
-      "jan": {
-        "temp": 7,
-        "desc": "Cool & overcast",
+        "temp": 3,
+        "desc": "Cold & grey",
         "icon": "🌧️"
       },
       "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌥️"
+      },
+      "mar": {
         "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
       },
       "apr": {
+        "temp": 12,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
         "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 21,
-        "desc": "Sunny & warm",
+        "desc": "Pleasant & warm",
         "icon": "⛅"
       },
       "jun": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 29,
-        "desc": "Hot & sunny",
+        "temp": 19,
+        "desc": "Warm & sunny",
         "icon": "☀️"
       },
-      "aug": {
-        "temp": 28,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      }
-    }
-  },
-  {
-    "slug": "venice",
-    "name": "Venice",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/venice.jpg",
-    "intro": "Venice is surprisingly dog-friendly: dogs travel on the vaporetto, explore quiet campi, and are welcomed in many trattorias.",
-    "lat": 45.4408,
-    "lng": 12.3155,
-    "weather": {
-      "jan": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
       "jul": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
         "temp": 22,
-        "desc": "Sunny & warm",
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
         "icon": "🌤️"
       },
-      "oct": {
+      "sep": {
         "temp": 17,
         "desc": "Mild & pleasant",
-        "icon": "⛅"
+        "icon": "🌤️"
       },
-      "nov": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "ghent",
-    "name": "Ghent",
-    "country": "Belgium",
-    "flag": "🇧🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/ghent.jpg",
-    "intro": "Ghent is one of Belgium's most progressive cities: a strong cycling and pet culture, compact centre, and excellent hotels make it ideal for dog owners.",
-    "lat": 51.0543,
-    "lng": 3.7174,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
+      "oct": {
         "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
+        "desc": "Cooling down",
+        "icon": "🌥️"
       },
       "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "antwerp",
-    "name": "Antwerp",
-    "country": "Belgium",
-    "flag": "🇧🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/antwerp.jpg",
-    "intro": "Antwerp's fashion-forward, dog-welcoming culture, riverside parks, and boutique hotel scene make it Belgium's most exciting city for pet travel.",
-    "lat": 51.2194,
-    "lng": 4.4025,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "edinburgh",
-    "name": "Edinburgh",
-    "country": "United Kingdom",
-    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/edinburgh.jpg",
-    "intro": "Edinburgh's dramatic hills, Arthur's Seat, and deeply dog-welcoming pub culture make it one of Britain's best cities for a break with your dog.",
-    "lat": 55.9533,
-    "lng": -3.1883,
-    "weather": {
-      "jan": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
         "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "copenhagen",
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "flag": "🇩🇰",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/copenhagen.jpg",
+    "intro": "Copenhagen leads Europe in sustainability and pet-friendliness: dogs are welcomed in shops, restaurants, and on public transport.",
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 5,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
@@ -2076,27 +908,27 @@
         "icon": "🌦️"
       },
       "may": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
       },
       "jun": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "aug": {
         "temp": 18,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
       "sep": {
-        "temp": 15,
+        "temp": 16,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
@@ -2111,8 +943,8 @@
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
+        "temp": 4,
+        "desc": "Cold & grey",
         "icon": "🌧️"
       }
     }
@@ -2191,320 +1023,28 @@
     }
   },
   {
-    "slug": "reykjavik",
-    "name": "Reykjavik",
-    "country": "Iceland",
-    "flag": "🇮🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/reykjavik.jpg",
-    "intro": "Reykjavik's clean air, dramatic landscapes, and dog-welcoming culture make it a unique and increasingly popular destination for adventurous pet owners.",
-    "lat": 64.1355,
-    "lng": -21.8954,
+    "slug": "dubrovnik",
+    "name": "Dubrovnik",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/dubrovnik.jpg",
+    "intro": "Dubrovnik's dramatic coastline, island day-trips, and boutique hotels outside the Old Town walls offer a memorable setting for pet owners.",
+    "lat": 42.6507,
+    "lng": 18.0944,
     "weather": {
       "jan": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "may": {
         "temp": 9,
         "desc": "Cool & overcast",
         "icon": "🌦️"
       },
-      "jun": {
-        "temp": 12,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "jul": {
-        "temp": 14,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "aug": {
-        "temp": 14,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "sep": {
+      "feb": {
         "temp": 10,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "oct": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "ljubljana",
-    "name": "Ljubljana",
-    "country": "Slovenia",
-    "flag": "🇸🇮",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/ljubljana.jpg",
-    "intro": "Ljubljana: Europe's green capital: is one of the continent's most walkable, bike-friendly, and dog-welcoming small cities.",
-    "lat": 46.0569,
-    "lng": 14.5058,
-    "weather": {
-      "jan": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
-      "may": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "riga",
-    "name": "Riga",
-    "country": "Latvia",
-    "flag": "🇱🇻",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/riga.jpg",
-    "intro": "Riga's Art Nouveau architecture, riverside parks, and affordable hotels make it an emerging gem for pet-friendly city breaks in the Baltics.",
-    "lat": 56.9496,
-    "lng": 24.1052,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -2,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
       "mar": {
-        "temp": 2,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 22,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "sep": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "tallinn",
-    "name": "Tallinn",
-    "country": "Estonia",
-    "flag": "🇪🇪",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/tallinn.jpg",
-    "intro": "Tallinn's beautifully preserved medieval old town, coastal paths, and dog-friendly hotels make it a hidden gem for pet travel in Northern Europe.",
-    "lat": 59.437,
-    "lng": 24.7536,
-    "weather": {
-      "jan": {
-        "temp": -2,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": -3,
-        "desc": "Very cold",
-        "icon": "🌨️"
-      },
-      "mar": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "apr": {
-        "temp": 7,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "may": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "aug": {
-        "temp": 20,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "sep": {
-        "temp": 14,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "oct": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 0,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      }
-    }
-  },
-  {
-    "slug": "milan",
-    "name": "Milan",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/milan.jpg",
-    "intro": "Milan is Italy's style capital and increasingly one of its most pet-welcoming cities: boutique hotels in the Navigli and Brera districts actively court guests with dogs. Parco Sempione, a 47-hectare green lung right beside the Castello Sforzesco, is perfect for morning walks before a day of exploring.",
-    "lat": 45.4654,
-    "lng": 9.1859,
-    "weather": {
-      "jan": {
-        "temp": 3,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 6,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 11,
+        "temp": 12,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
@@ -2514,7 +1054,7 @@
         "icon": "⛅"
       },
       "may": {
-        "temp": 20,
+        "temp": 21,
         "desc": "Sunny & warm",
         "icon": "⛅"
       },
@@ -2529,85 +1069,85 @@
         "icon": "☀️"
       },
       "aug": {
-        "temp": 27,
+        "temp": 28,
         "desc": "Hot & sunny",
-        "icon": "🌤️"
+        "icon": "☀️"
       },
       "sep": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 10,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "warsaw",
-    "name": "Warsaw",
-    "country": "Poland",
-    "flag": "🇵🇱",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/warsaw.jpg",
-    "intro": "Warsaw has transformed into one of Central Europe's most dynamic capitals, and its hotels have kept pace: many now welcome pets with open arms. The Łazienki Royal Park, with its sprawling grounds and peacocks, makes a dream off-lead destination for visiting dogs.",
-    "lat": 52.2297,
-    "lng": 21.0122,
-    "weather": {
-      "jan": {
-        "temp": -1,
-        "desc": "Very cold",
-        "icon": "❄️"
-      },
-      "feb": {
-        "temp": 1,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "mar": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      },
-      "apr": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
         "temp": 24,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "edinburgh",
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/edinburgh.jpg",
+    "intro": "Edinburgh's dramatic hills, Arthur's Seat, and deeply dog-welcoming pub culture make it one of Britain's best cities for a break with your dog.",
+    "lat": 55.9533,
+    "lng": -3.1883,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
       "aug": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
       },
       "sep": {
-        "temp": 17,
+        "temp": 15,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
@@ -2617,13 +1157,232 @@
         "icon": "🌦️"
       },
       "nov": {
-        "temp": 5,
+        "temp": 7,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 1,
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "florence",
+    "name": "Florence",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/florence.jpg",
+    "intro": "Florence's Renaissance beauty is matched by a surprisingly welcoming attitude toward dogs: in restaurants, on the Arno riverbanks, and in the Boboli gardens.",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "ghent",
+    "name": "Ghent",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ghent.jpg",
+    "intro": "Ghent is one of Belgium's most progressive cities: a strong cycling and pet culture, compact centre, and excellent hotels make it ideal for dog owners.",
+    "lat": 51.0543,
+    "lng": 3.7174,
+    "weather": {
+      "jan": {
+        "temp": 4,
         "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "helsinki",
+    "name": "Helsinki",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/helsinki.jpg",
+    "intro": "Helsinki's island archipelago, its love of outdoor life, and its exceptionally clean air make it one of Northern Europe's finest pet travel destinations. Dogs are welcomed on city ferries, in many cafés, and across the Nuuksio national park trails just 35km from the city centre.",
+    "lat": 60.1699,
+    "lng": 24.9384,
+    "weather": {
+      "jan": {
+        "temp": -4,
+        "desc": "Very cold",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": -5,
+        "desc": "Very cold",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "apr": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Very cold",
         "icon": "❄️"
       }
     }
@@ -2702,15 +1461,234 @@
     }
   },
   {
-    "slug": "brussels",
-    "name": "Brussels",
-    "country": "Belgium",
-    "flag": "🇧🇪",
+    "slug": "lisbon",
+    "name": "Lisbon",
+    "country": "Portugal",
+    "flag": "🇵🇹",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/brussels.jpg",
-    "intro": "Brussels punches above its weight as a pet travel destination: compact, walkable, with a café culture that extends happily to four-legged guests. The Bois de la Cambre and the vast Forêt de Soignes on the city's edge offer hours of off-lead woodland walking.",
-    "lat": 50.8503,
-    "lng": 4.3517,
+    "heroImage": "/images/destinations/lisbon.jpg",
+    "intro": "Lisbon's mild climate and relaxed culture make it ideal for travelling with your pet.",
+    "lat": 38.7169,
+    "lng": -9.1399,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "ljubljana",
+    "name": "Ljubljana",
+    "country": "Slovenia",
+    "flag": "🇸🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ljubljana.jpg",
+    "intro": "Ljubljana: Europe's green capital: is one of the continent's most walkable, bike-friendly, and dog-welcoming small cities.",
+    "lat": 46.0569,
+    "lng": 14.5058,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/london.jpg",
+    "intro": "With nearly half of households owning a dog and hundreds of dog-welcoming pubs and parks, London is one of Europe's most naturally pet-friendly capitals — from Hyde Park's off-leash zones to Bermondsey's dog-friendly restaurant strip.",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & cloudy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cooling down",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & festive",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "lyon",
+    "name": "Lyon",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lyon.jpg",
+    "intro": "Lyon's gastronomic culture extends to its terrace restaurants and bouchons, many of which welcome well-behaved dogs.",
+    "lat": 45.764,
+    "lng": 4.8357,
     "weather": {
       "jan": {
         "temp": 4,
@@ -2718,158 +1696,243 @@
         "icon": "🌧️"
       },
       "feb": {
-        "temp": 5,
+        "temp": 6,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
       "mar": {
-        "temp": 9,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Sunny & warm",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 14,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 5,
-        "desc": "Cool & overcast",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "athens",
-    "name": "Athens",
-    "country": "Greece",
-    "flag": "🇬🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/athens.jpg",
-    "intro": "Athens surprises pet travellers: the city's mild climate means year-round outdoor dining, and many boutique hotels in Koukaki and Monastiraki actively welcome dogs. The Philopappos Hill parkland, with its panoramic views of the Acropolis, is just minutes from the historic centre.",
-    "lat": 37.9838,
-    "lng": 23.7275,
-    "weather": {
-      "jan": {
-        "temp": 11,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 12,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 14,
+        "temp": 10,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
       "apr": {
-        "temp": 19,
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
-      "may": {
-        "temp": 24,
+      "jun": {
+        "temp": 23,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
-      "jun": {
-        "temp": 29,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
       "jul": {
-        "temp": 32,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
       },
       "aug": {
-        "temp": 32,
-        "desc": "Mediterranean heat",
-        "icon": "☀️"
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
       },
       "sep": {
-        "temp": 28,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
         "temp": 22,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
       "nov": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "madrid",
+    "name": "Madrid",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/madrid.jpg",
+    "intro": "Madrid is one of Europe's most dog-friendly capitals, with sprawling parks, dog-welcoming terraces, and a thriving pet culture.",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
         "temp": 17,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
+      "nov": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
       "dec": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "malaga",
+    "name": "Malaga",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/malaga.jpg",
+    "intro": "Malaga combines a sunny Mediterranean climate with a relaxed attitude toward dogs: ideal for a beach-and-city break with your pet.",
+    "lat": 36.7213,
+    "lng": -4.4213,
+    "weather": {
+      "jan": {
         "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
     }
   },
   {
-    "slug": "split",
-    "name": "Split",
-    "country": "Croatia",
-    "flag": "🇭🇷",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/split.jpg",
-    "intro": "Split's Adriatic setting delivers the perfect combination for pet owners: a gorgeous coastline, a compact walkable old town, and an increasingly pet-friendly hospitality scene. The seaside Riva promenade and the green Marjan Hill forest park: essentially a dog-walker's paradise: are both within a short stroll.",
-    "lat": 43.5081,
-    "lng": 16.4402,
+    "slug": "marseille",
+    "name": "Marseille",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "lat": 43.2965,
+    "lng": 5.3698,
+    "categoryCount": 5,
+    "heroImage": null,
+    "intro": "Marseille offers unrivalled outdoor pet travel with the Calanques National Park, Frioul island beaches accessible by ferry, and a Vieux-Port terrace scene that welcomes dogs throughout the year."
+  },
+  {
+    "slug": "milan",
+    "name": "Milan",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/milan.jpg",
+    "intro": "Milan is Italy's style capital and increasingly one of its most pet-welcoming cities: boutique hotels in the Navigli and Brera districts actively court guests with dogs. Parco Sempione, a 47-hectare green lung right beside the Castello Sforzesco, is perfect for morning walks before a day of exploring.",
+    "lat": 45.4654,
+    "lng": 9.1859,
     "weather": {
       "jan": {
-        "temp": 8,
-        "desc": "Cool & overcast",
-        "icon": "🌦️"
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
       },
       "feb": {
-        "temp": 9,
+        "temp": 6,
         "desc": "Cool & overcast",
-        "icon": "🌦️"
+        "icon": "🌧️"
       },
       "mar": {
-        "temp": 12,
+        "temp": 11,
         "desc": "Mild with rain",
         "icon": "🌦️"
       },
@@ -2879,7 +1942,7 @@
         "icon": "⛅"
       },
       "may": {
-        "temp": 21,
+        "temp": 20,
         "desc": "Sunny & warm",
         "icon": "⛅"
       },
@@ -2894,12 +1957,158 @@
         "icon": "☀️"
       },
       "aug": {
-        "temp": 28,
+        "temp": 27,
         "desc": "Hot & sunny",
-        "icon": "☀️"
+        "icon": "🌤️"
       },
       "sep": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "munich",
+    "name": "Munich",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/munich.jpg",
+    "intro": "Munich's English Garden, beer garden culture (dogs welcome), and excellent hotels make it ideal for a city break with your pet.",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
         "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "nice",
+    "name": "Nice",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/nice.jpg",
+    "intro": "Nice's Mediterranean climate, Promenade des Anglais, and abundance of terrace restaurants make it a superb destination for pets year-round.",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 23,
         "desc": "Sunny & warm",
         "icon": "🌤️"
       },
@@ -2994,77 +2203,454 @@
     }
   },
   {
-    "slug": "helsinki",
-    "name": "Helsinki",
-    "country": "Finland",
-    "flag": "🇫🇮",
+    "slug": "paris",
+    "name": "Paris",
+    "country": "France",
+    "flag": "🇫🇷",
     "categoryCount": 5,
-    "heroImage": "/images/destinations/helsinki.jpg",
-    "intro": "Helsinki's island archipelago, its love of outdoor life, and its exceptionally clean air make it one of Northern Europe's finest pet travel destinations. Dogs are welcomed on city ferries, in many cafés, and across the Nuuksio national park trails just 35km from the city centre.",
-    "lat": 60.1699,
-    "lng": 24.9384,
+    "heroImage": "/images/destinations/paris.jpg",
+    "intro": "Paris welcomes pets in many hotels, cafés, and even some restaurants.",
+    "lat": 48.8566,
+    "lng": 2.3522,
     "weather": {
       "jan": {
-        "temp": -4,
-        "desc": "Very cold",
-        "icon": "🌨️"
-      },
-      "feb": {
-        "temp": -5,
-        "desc": "Very cold",
-        "icon": "🌨️"
-      },
-      "mar": {
-        "temp": 0,
-        "desc": "Cold & grey",
-        "icon": "❄️"
-      },
-      "apr": {
         "temp": 6,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
-      "may": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "jun": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 21,
-        "desc": "Sunny & warm",
-        "icon": "⛅"
-      },
-      "aug": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "sep": {
-        "temp": 13,
-        "desc": "Fresh & breezy",
-        "icon": "🌦️"
-      },
-      "oct": {
+      "feb": {
         "temp": 7,
         "desc": "Cool & overcast",
         "icon": "🌧️"
       },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
       "nov": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "porto",
+    "name": "Porto",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/porto.jpg",
+    "intro": "Porto's hilly streets, river esplanades, and laid-back attitude make it one of Portugal's most welcoming cities for travelling with a dog.",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "prague",
+    "name": "Prague",
+    "country": "Czech Republic",
+    "flag": "🇨🇿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/prague.jpg",
+    "intro": "Prague's compact old town and riverside parks make it an underrated gem for travelling with dogs.",
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
         "temp": 2,
         "desc": "Cold & grey",
         "icon": "🌧️"
       },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
       "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "reykjavik",
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "flag": "🇮🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/reykjavik.jpg",
+    "intro": "Reykjavik's clean air, dramatic landscapes, and dog-welcoming culture make it a unique and increasingly popular destination for adventurous pet owners.",
+    "lat": 64.1355,
+    "lng": -21.8954,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "may": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 12,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "jul": {
+        "temp": 14,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 14,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 10,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "riga",
+    "name": "Riga",
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/riga.jpg",
+    "intro": "Riga's Art Nouveau architecture, riverside parks, and affordable hotels make it an emerging gem for pet-friendly city breaks in the Baltics.",
+    "lat": 56.9496,
+    "lng": 24.1052,
+    "weather": {
+      "jan": {
         "temp": -2,
         "desc": "Very cold",
         "icon": "❄️"
+      },
+      "feb": {
+        "temp": -2,
+        "desc": "Very cold",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
       }
     }
+  },
+  {
+    "slug": "rome",
+    "name": "Rome",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/rome.jpg",
+    "intro": "Rome combines ancient grandeur with a surprisingly relaxed attitude toward pets: dogs are welcome in many piazzas, parks, and hotel terraces.",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "rotterdam",
+    "name": "Rotterdam",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "lat": 51.9225,
+    "lng": 4.4792,
+    "categoryCount": 5,
+    "heroImage": null,
+    "intro": "Rotterdam is one of Europe's most dog-friendly cities, with free public transport for pets, five off-leash parks, and a vibrant café culture that welcomes dogs by default."
   },
   {
     "slug": "salzburg",
@@ -3140,45 +2726,45 @@
     }
   },
   {
-    "slug": "london",
-    "name": "London",
-    "country": "United Kingdom",
-    "flag": "🇬🇧",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/london.jpg",
-    "intro": "With nearly half of households owning a dog and hundreds of dog-welcoming pubs and parks, London is one of Europe's most naturally pet-friendly capitals — from Hyde Park's off-leash zones to Bermondsey's dog-friendly restaurant strip.",
-    "lat": 51.5074,
-    "lng": -0.1278,
+    "slug": "san-sebastian",
+    "name": "San Sebastián",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/san-sebastian.jpg",
+    "intro": "San Sebastián (Donostia) has more registered dogs per inhabitant than any other major Spanish city, and it shows — Michelin-starred restaurants welcome dogs without hesitation, Monte Urgull offers vast off-leash hillside walks, and La Concha's crescent beach opens to dogs every October for a full six months.",
+    "lat": 43.3183,
+    "lng": -1.9812,
     "weather": {
       "jan": {
-        "temp": 6,
-        "desc": "Cold & grey",
+        "temp": 9,
+        "desc": "Cool & rainy",
         "icon": "🌧️"
       },
       "feb": {
-        "temp": 7,
-        "desc": "Cool & cloudy",
+        "temp": 9,
+        "desc": "Cool & breezy",
         "icon": "🌥️"
       },
       "mar": {
-        "temp": 9,
-        "desc": "Mild & breezy",
-        "icon": "🌤️"
+        "temp": 11,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
       },
       "apr": {
-        "temp": 12,
-        "desc": "Mild showers",
+        "temp": 13,
+        "desc": "Mild with showers",
         "icon": "🌦️"
       },
       "may": {
         "temp": 15,
-        "desc": "Pleasant",
+        "desc": "Mild & pleasant",
         "icon": "⛅"
       },
       "jun": {
         "temp": 18,
         "desc": "Warm & sunny",
-        "icon": "☀️"
+        "icon": "🌤️"
       },
       "jul": {
         "temp": 21,
@@ -3186,102 +2772,321 @@
         "icon": "☀️"
       },
       "aug": {
-        "temp": 20,
+        "temp": 22,
         "desc": "Warm & sunny",
         "icon": "☀️"
       },
       "sep": {
-        "temp": 17,
-        "desc": "Mild & pleasant",
+        "temp": 19,
+        "desc": "Warm & mild",
         "icon": "🌤️"
       },
       "oct": {
-        "temp": 13,
-        "desc": "Cooling down",
-        "icon": "🌥️"
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
       },
       "nov": {
-        "temp": 9,
+        "temp": 11,
         "desc": "Cool & rainy",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 6,
-        "desc": "Cold & festive",
+        "temp": 9,
+        "desc": "Cool & grey",
         "icon": "🌧️"
       }
     }
   },
   {
-    "slug": "cologne",
-    "name": "Cologne",
-    "country": "Germany",
-    "flag": "🇩🇪",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/cologne.jpg",
-    "intro": "Cologne (Köln) sits on the Rhine with its iconic cathedral and a vibrant dog culture — the KVB city network welcomes dogs in carriers and the vast Stadtwald forest offers one of western Germany's best off-leash walking experiences.",
-    "lat": 50.9333,
-    "lng": 6.95,
+    "slug": "seville",
+    "name": "Seville",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/seville.jpg",
+    "intro": "Seville's orange-tree lined streets, riverside promenades, and vibrant terrace culture make it one of Andalusia's most dog-friendly cities.",
+    "lat": 37.3886,
+    "lng": -5.9823,
     "weather": {
       "jan": {
-        "temp": 3,
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 31,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 35,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 35,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 30,
+        "desc": "Mediterranean heat",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "split",
+    "name": "Split",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/split.jpg",
+    "intro": "Split's Adriatic setting delivers the perfect combination for pet owners: a gorgeous coastline, a compact walkable old town, and an increasingly pet-friendly hospitality scene. The seaside Riva promenade and the green Marjan Hill forest park: essentially a dog-walker's paradise: are both within a short stroll.",
+    "lat": 43.5081,
+    "lng": 16.4402,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "stockholm",
+    "name": "Stockholm",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/stockholm.jpg",
+    "intro": "Stockholm's archipelago setting, vast green spaces, and dog-welcoming culture make it one of Scandinavia's best cities for pet travel.",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Very cold",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
         "desc": "Cold & grey",
         "icon": "🌧️"
       },
-      "feb": {
-        "temp": 4,
-        "desc": "Cool & overcast",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Mild & breezy",
-        "icon": "🌤️"
-      },
       "apr": {
-        "temp": 12,
-        "desc": "Mild with showers",
+        "temp": 9,
+        "desc": "Cool & overcast",
         "icon": "🌦️"
       },
       "may": {
-        "temp": 16,
-        "desc": "Pleasant & warm",
+        "temp": 15,
+        "desc": "Mild & pleasant",
         "icon": "⛅"
       },
       "jun": {
         "temp": 19,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
       },
       "jul": {
         "temp": 22,
-        "desc": "Warmest month",
-        "icon": "☀️"
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
       },
       "aug": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "🌤️"
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
       },
       "sep": {
-        "temp": 17,
+        "temp": 16,
         "desc": "Mild & pleasant",
-        "icon": "🌤️"
+        "icon": "⛅"
       },
       "oct": {
-        "temp": 12,
-        "desc": "Cooling down",
-        "icon": "🌥️"
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
       },
       "nov": {
-        "temp": 7,
-        "desc": "Cool & rainy",
+        "temp": 5,
+        "desc": "Cool & overcast",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 4,
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
+    "slug": "tallinn",
+    "name": "Tallinn",
+    "country": "Estonia",
+    "flag": "🇪🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tallinn.jpg",
+    "intro": "Tallinn's beautifully preserved medieval old town, coastal paths, and dog-friendly hotels make it a hidden gem for pet travel in Northern Europe.",
+    "lat": 59.437,
+    "lng": 24.7536,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Very cold",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Very cold",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Fresh & breezy",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 3,
         "desc": "Cold & grey",
         "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
       }
     }
   },
@@ -3359,147 +3164,366 @@
     }
   },
   {
-    "slug": "bologna",
-    "name": "Bologna",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/bologna.jpg",
-    "intro": "Bologna's medieval porticoes and progressive urban fauna regulations make it Italy's most dog-welcoming city — dogs are legally permitted in all public premises, a 24/7 emergency vet operates inside the main park, and the UNESCO-listed Portico di San Luca offers a stunning shaded walk for any weather.",
-    "lat": 44.4949,
-    "lng": 11.3426,
-    "weather": {
-      "jan": {
-        "temp": 3,
-        "desc": "Cold & foggy",
-        "icon": "🌫️"
-      },
-      "feb": {
-        "temp": 5,
-        "desc": "Cold & overcast",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 10,
-        "desc": "Mild & breezy",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Warm & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 27,
-        "desc": "Hottest month",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 21,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 15,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 8,
-        "desc": "Cool & foggy",
-        "icon": "🌫️"
-      },
-      "dec": {
-        "temp": 4,
-        "desc": "Cold & foggy",
-        "icon": "🌫️"
-      }
-    }
-  },
-  {
-    "slug": "san-sebastian",
-    "name": "San Sebastián",
+    "slug": "valencia",
+    "name": "Valencia",
     "country": "Spain",
     "flag": "🇪🇸",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/san-sebastian.jpg",
-    "intro": "San Sebastián (Donostia) has more registered dogs per inhabitant than any other major Spanish city, and it shows — Michelin-starred restaurants welcome dogs without hesitation, Monte Urgull offers vast off-leash hillside walks, and La Concha's crescent beach opens to dogs every October for a full six months.",
-    "lat": 43.3183,
-    "lng": -1.9812,
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/valencia.jpg",
+    "intro": "Valencia's sunny climate, Turia river park, and dog-welcoming beaches make it a superb year-round destination for pet travel.",
+    "lat": 39.4699,
+    "lng": -0.3763,
     "weather": {
       "jan": {
-        "temp": 9,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
       },
       "feb": {
-        "temp": 9,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
       },
       "mar": {
-        "temp": 11,
-        "desc": "Mild & showery",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "may": {
         "temp": 15,
         "desc": "Mild & pleasant",
         "icon": "⛅"
       },
-      "jun": {
+      "apr": {
         "temp": 18,
-        "desc": "Warm & sunny",
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
         "icon": "🌤️"
       },
       "jul": {
-        "temp": 21,
-        "desc": "Warmest month",
+        "temp": 29,
+        "desc": "Hot & sunny",
         "icon": "☀️"
       },
       "aug": {
-        "temp": 22,
-        "desc": "Warm & sunny",
+        "temp": 29,
+        "desc": "Hot & sunny",
         "icon": "☀️"
       },
       "sep": {
-        "temp": 19,
-        "desc": "Warm & mild",
+        "temp": 26,
+        "desc": "Hot & sunny",
         "icon": "🌤️"
       },
       "oct": {
-        "temp": 15,
-        "desc": "Mild & rainy",
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild with rain",
         "icon": "🌦️"
+      }
+    }
+  },
+  {
+    "slug": "venice",
+    "name": "Venice",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/venice.jpg",
+    "intro": "Venice is surprisingly dog-friendly: dogs travel on the vaporetto, explore quiet campi, and are welcomed in many trattorias.",
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
       },
       "nov": {
         "temp": 11,
-        "desc": "Cool & rainy",
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "vienna",
+    "name": "Vienna",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vienna.jpg",
+    "intro": "Vienna's grand parks, dog-friendly cafés, and highly-rated hotels make it a top destination for pet owners in Central Europe.",
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "warsaw",
+    "name": "Warsaw",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/warsaw.jpg",
+    "intro": "Warsaw has transformed into one of Central Europe's most dynamic capitals, and its hotels have kept pace: many now welcome pets with open arms. The Łazienki Royal Park, with its sprawling grounds and peacocks, makes a dream off-lead destination for visiting dogs.",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Very cold",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
         "icon": "🌧️"
       },
       "dec": {
-        "temp": 9,
-        "desc": "Cool & grey",
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
+    "slug": "zurich",
+    "name": "Zurich",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/zurich.jpg",
+    "intro": "Zurich has some of Europe's highest standards for pet welfare: dogs ride trams, enter shops, and are welcomed in many top hotels.",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & grey",
         "icon": "🌧️"
       }
     }

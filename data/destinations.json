@@ -1908,7 +1908,69 @@
     "lng": 5.3698,
     "categoryCount": 5,
     "heroImage": "/images/destinations/marseille.jpg",
-    "intro": "Marseille offers unrivalled outdoor pet travel with the Calanques National Park, Frioul island beaches accessible by ferry, and a Vieux-Port terrace scene that welcomes dogs throughout the year."
+    "intro": "Marseille offers unrivalled outdoor pet travel with the Calanques National Park, Frioul island beaches accessible by ferry, and a Vieux-Port terrace scene that welcomes dogs throughout the year.",
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
+    }
   },
   {
     "slug": "milan",
@@ -2650,7 +2712,69 @@
     "lng": 4.4792,
     "categoryCount": 5,
     "heroImage": "/images/destinations/rotterdam.jpg",
-    "intro": "Rotterdam is one of Europe's most dog-friendly cities, with free public transport for pets, five off-leash parks, and a vibrant café culture that welcomes dogs by default."
+    "intro": "Rotterdam is one of Europe's most dog-friendly cities, with free public transport for pets, five off-leash parks, and a vibrant café culture that welcomes dogs by default.",
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
   },
   {
     "slug": "salzburg",

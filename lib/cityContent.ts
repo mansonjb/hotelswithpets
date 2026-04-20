@@ -2213,6 +2213,238 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  marseille: {
+    history: {
+      fr: `Marseille est la plus ancienne ville de France — fondée par les Grecs phocéens en 600 avant J.-C., elle a 2 600 ans de culture portuaire et méditerranéenne. Ville cosmopolite et populaire, Marseille entretient un rapport décomplexé avec les animaux : les chiens accompagnent leurs maîtres sur les quais du Vieux-Port, dans les bars du Panier, et sur les sentiers des Calanques. Le Parc National des Calanques, créé en 2012 aux portes de la ville, offre un cadre unique en Europe : 20 km de côtes sauvages accessibles à pied ou en bateau, où les chiens sont autorisés en laisse. La ville compte aussi 70 km de littoral et plus de 30 parcs, dont une poignée disposent de zones canines dédiées.`,
+      en: `Marseille is France's oldest city — founded by Phocaean Greeks in 600 BC, it carries 2,600 years of Mediterranean port culture. A cosmopolitan, working-class city, Marseille has an unpretentious relationship with animals: dogs accompany their owners on the Vieux-Port quays, in the Panier's bars, and along the Calanques trails. The Calanques National Park, created in 2012 at the city's edge, offers a setting unmatched in Europe: 20 km of wild coastline accessible on foot or by boat, where dogs are allowed on leash. The city also has 70 km of coastline and more than 30 parks, a handful with dedicated canine zones.`,
+      es: `Marsella es la ciudad más antigua de Francia: fundada por los griegos foceos en el 600 a. C., atesora 2.600 años de cultura portuaria mediterránea. Ciudad cosmopolita y popular, Marsella mantiene una relación natural con los animales: los perros acompañan a sus dueños en los muelles del Vieux-Port, en los bares del Panier y en los senderos de las Calanques. El Parque Nacional de las Calanques, creado en 2012 a las puertas de la ciudad, ofrece un entorno único en Europa: 20 km de costa salvaje accesibles a pie o en barco, donde se admiten perros con correa. La ciudad también cuenta con 70 km de litoral y más de 30 parques, algunos con zonas caninas dedicadas.`,
+    },
+    sights: [
+      {
+        name: 'Vieux-Port',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur historique de Marseille depuis 26 siècles. Les quais sont entièrement dog-friendly, avec terrasses de café acceptant les chiens et marché aux poissons matinal. Vue iconique sur Notre-Dame de la Garde.',
+          en: 'Marseille\'s beating heart for 26 centuries. The quays are fully dog-friendly, with café terraces welcoming pets and a morning fish market. Iconic view up to Notre-Dame de la Garde.',
+          es: 'El corazón histórico de Marsella desde hace 26 siglos. Los muelles son totalmente dog-friendly, con terrazas de café que admiten perros y un mercado de pescado matinal. Vista icónica hacia Notre-Dame de la Garde.',
+        },
+      },
+      {
+        name: 'Calanques National Park',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: '20 km de côtes sauvages aux portes de la ville. Les chiens sont autorisés en laisse sur tous les sentiers — Sugiton, En-Vau, Marseilleveyre. Attention aux fermetures estivales en cas de risque incendie.',
+          en: '20 km of wild coastline on the city\'s doorstep. Dogs are permitted on leash on all trails — Sugiton, En-Vau, Marseilleveyre. Watch for summer closures during high fire risk.',
+          es: '20 km de costa salvaje a las puertas de la ciudad. Los perros se admiten con correa en todos los senderos: Sugiton, En-Vau, Marseilleveyre. Atento a los cierres estivales en caso de riesgo alto de incendio.',
+        },
+      },
+      {
+        name: 'Le Panier',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus ancien quartier de Marseille — labyrinthe de ruelles pavées, street art et cafés. Entièrement praticable avec un chien ; plusieurs terrasses acceptent les animaux.',
+          en: 'Marseille\'s oldest neighbourhood — a labyrinth of cobblestone streets, street art and cafés. Fully walkable with a dog; several terraces welcome pets.',
+          es: 'El barrio más antiguo de Marsella: un laberinto de calles empedradas, arte urbano y cafés. Totalmente accesible con perro; varias terrazas aceptan mascotas.',
+        },
+      },
+      {
+        name: 'Corniche Kennedy',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Route côtière de 5 km entre la plage des Catalans et le Vallon des Auffes. Piste piétonne dédiée, vues sur mer constantes — la meilleure balade du soir en ville.',
+          en: '5 km coastal road between Catalans beach and Vallon des Auffes. Dedicated pedestrian path and constant sea views — the city\'s best evening walk.',
+          es: 'Carretera costera de 5 km entre la playa dels Catalans y Vallon des Auffes. Carril peatonal dedicado y vistas al mar constantes: el mejor paseo nocturno de la ciudad.',
+        },
+      },
+      {
+        name: 'MuCEM',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: 'Musée des Civilisations de l\'Europe et de la Méditerranée. Les chiens sont autorisés sur l\'esplanade et les passerelles extérieures — seule l\'intérieur est interdit.',
+          en: 'Museum of European and Mediterranean Civilisations. Dogs are allowed on the esplanade and outdoor walkways — only the interior is off-limits.',
+          es: 'Museo de las Civilizaciones de Europa y el Mediterráneo. Los perros pueden estar en la esplanada y pasarelas exteriores; solo el interior está prohibido.',
+        },
+      },
+      {
+        name: 'Îles du Frioul',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: 'Archipel accessible en ferry depuis le Vieux-Port (10 € aller-retour, chiens gratuits). 10 plages acceptant les chiens en laisse — la Calanque de la Crine aux eaux turquoises vaut la marche d\'une heure.',
+          en: 'Archipelago accessible by ferry from the Vieux-Port (€10 return, dogs free). 10 beaches welcoming dogs on leash — the turquoise Calanque de la Crine rewards the one-hour walk.',
+          es: 'Archipiélago accesible en ferry desde el Vieux-Port (10 € ida y vuelta, perros gratis). 10 playas que admiten perros con correa: la Calanque de la Crine de aguas turquesas merece la hora de caminata.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Été brûlant : les températures au sol dépassent 55°C à midi en juillet-août. Promenez votre chien avant 9h ou après 18h uniquement.',
+        'Les grands chiens sont INTERDITS dans le métro et bus RTM — prévoyez Uber, Bolt ou un taxi pet-friendly.',
+        'Le Parc Longchamp a une zone canine de 6 000 m² accessible uniquement depuis l\'entrée Métro 5 Avenues.',
+        'Les plages urbaines (Prado, Catalans, Prophète) interdisent les chiens du 1er juin au 30 septembre — direction Frioul pour l\'été.',
+        'Urgences vétérinaires : Vétérinaires 2 Toute Urgence au 04 91 13 44 44 (La Valentine) — ou composez le 3115 gratuit.',
+      ],
+      en: [
+        'Scorching summers: ground temperatures exceed 55°C at midday in July–August. Walk your dog before 9am or after 6pm only.',
+        'Large dogs are BANNED on RTM metro and buses — plan for Uber, Bolt or a pet-friendly taxi.',
+        'Parc Longchamp has a 6,000 m² dog zone accessible only from the Métro 5 Avenues entrance.',
+        'City beaches (Prado, Catalans, Prophète) ban dogs from June 1 to September 30 — head to the Frioul islands instead.',
+        'Emergency vet: Vétérinaires 2 Toute Urgence on +33 4 91 13 44 44 (La Valentine) — or dial 3115 free from any French phone.',
+      ],
+      es: [
+        'Veranos abrasadores: las temperaturas del suelo superan los 55°C al mediodía en julio-agosto. Pasea a tu perro solo antes de las 9 h o después de las 18 h.',
+        'Los perros grandes están PROHIBIDOS en el metro y autobús RTM: planifica Uber, Bolt o un taxi pet-friendly.',
+        'El Parc Longchamp tiene una zona canina de 6.000 m² accesible solo desde la entrada del Metro 5 Avenues.',
+        'Las playas urbanas (Prado, Catalans, Prophète) prohíben perros del 1 de junio al 30 de septiembre: ve a las islas Frioul en verano.',
+        'Urgencias veterinarias: Vétérinaires 2 Toute Urgence en el +33 4 91 13 44 44 (La Valentine) o marca el 3115 gratis desde cualquier teléfono francés.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport Marseille Provence (MRP) à 27 km au nord — navette-bus accepte les chiens en transportin (8 €).',
+        'Depuis Paris : TGV direct (3h15) — chiens acceptés avec billet spécifique (7 € petit chien, tarif enfant pour grand chien).',
+        'Meilleure saison : avril-juin et septembre-octobre. Éviter juillet-août pour la chaleur extrême et l\'affluence touristique.',
+        'Location de bateau au Vieux-Port avec chien : possible sur certains catamarans — réserver avec Les Bateaux Marseillais.',
+        'Pharmacies vétérinaires dans le 1er et le 8e arrondissement — la plupart ouvertes de 9h à 19h du lundi au samedi.',
+      ],
+      en: [
+        'Marseille Provence Airport (MRP) is 27 km north — the airport shuttle bus accepts dogs in carriers (€8).',
+        'From Paris: direct TGV (3h15) — dogs welcome with a specific ticket (€7 small dog, child fare for large dog).',
+        'Best season: April–June and September–October. Avoid July–August for extreme heat and tourist crowds.',
+        'Boat charter from Vieux-Port with a dog: possible on select catamarans — book with Les Bateaux Marseillais.',
+        'Vet pharmacies in the 1st and 8th arrondissement — most open 9am–7pm Monday to Saturday.',
+      ],
+      es: [
+        'Aeropuerto de Marsella Provenza (MRP) a 27 km al norte: el autobús lanzadera admite perros en transportín (8 €).',
+        'Desde París: TGV directo (3h15): perros admitidos con billete específico (7 € perro pequeño, tarifa infantil para perro grande).',
+        'Mejor temporada: abril-junio y septiembre-octubre. Evita julio-agosto por el calor extremo y las aglomeraciones turísticas.',
+        'Alquiler de barco en el Vieux-Port con perro: posible en algunos catamaranes. Reserva con Les Bateaux Marseillais.',
+        'Farmacias veterinarias en los distritos 1 y 8: la mayoría abren de 9 h a 19 h de lunes a sábado.',
+      ],
+    },
+  },
+
+  rotterdam: {
+    history: {
+      fr: `Rotterdam est née au 13e siècle sur un barrage de la rivière Rotte — d'où son nom. Entièrement détruite par les bombardements allemands en 1940, elle s'est reconstruite en une ville moderne et audacieuse, devenue le plus grand port d'Europe et un laboratoire d'architecture contemporaine. Cette culture d'innovation se retrouve dans le rapport aux chiens : Rotterdam est considérée comme l'une des villes les plus dog-friendly d'Europe. Les chiens voyagent gratuitement dans tout le réseau de transport public (métro, tram, bus), sans limite de taille ni de race. La ville compte 5 zones de liberté canine officielles et plus de 15 parcs accessibles aux chiens, dont Het Park (28 ha en plein centre, près de l'Euromast) et le Kralingse Bos (forêt et lac au bord de la ville).`,
+      en: `Rotterdam was born in the 13th century on a dam of the Rotte river — hence its name. Completely destroyed by German bombing in 1940, it rebuilt itself as a modern, bold city that became Europe's largest port and a laboratory of contemporary architecture. This innovation culture carries over to dogs: Rotterdam is considered one of Europe's most dog-friendly cities. Dogs travel free on the entire public transport network (metro, tram, bus), with no size or breed limit. The city has five official off-leash dog zones and more than 15 parks welcoming dogs, including Het Park (28 ha in the centre, beside the Euromast) and Kralingse Bos (forest and lake on the city edge).`,
+      es: `Rotterdam nació en el siglo XIII sobre una presa del río Rotte, de ahí su nombre. Completamente destruida por los bombardeos alemanes en 1940, se reconstruyó como una ciudad moderna y audaz que se convirtió en el mayor puerto de Europa y un laboratorio de arquitectura contemporánea. Esa cultura de innovación se traslada a su relación con los perros: Rotterdam está considerada una de las ciudades más dog-friendly de Europa. Los perros viajan gratis en toda la red de transporte público (metro, tranvía, autobús), sin límite de tamaño ni raza. La ciudad tiene 5 zonas oficiales de suelta y más de 15 parques que admiten perros, incluidos Het Park (28 ha en el centro, junto al Euromast) y el Kralingse Bos (bosque y lago en el borde de la ciudad).`,
+    },
+    sights: [
+      {
+        name: 'Het Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: '28 hectares d\'espace sans laisse en plein centre, juste à côté de l\'Euromast. Café du parc avec grande terrasse dog-friendly — parfait pour un café post-balade.',
+          en: '28 hectares of off-leash space right in the centre, beside the Euromast. The park café has a large dog-friendly terrace — perfect for post-walk coffee.',
+          es: '28 hectáreas de espacio sin correa en pleno centro, junto al Euromast. El café del parque tiene una amplia terraza dog-friendly: perfecto para café tras el paseo.',
+        },
+      },
+      {
+        name: 'Erasmus Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Le pont signature de Rotterdam et ses gratte-ciels modernes du Wilhelminapier. Balade emblématique avec un chien — attention aux grilles métalliques qui gênent certains coussinets.',
+          en: 'Rotterdam\'s signature bridge and the modern Wilhelminapier skyscrapers. Iconic dog walk — watch out for the metal grating that can bother sensitive paws.',
+          es: 'El puente emblemático de Rotterdam y los modernos rascacielos del Wilhelminapier. Paseo icónico con perro: atención a las rejillas metálicas que pueden molestar las patas sensibles.',
+        },
+      },
+      {
+        name: 'Kralingse Bos',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Forêt avec lac (Kralingse Plas) au nord-est de la ville. Les chiens peuvent nager dans le lac et courir en liberté sur les sentiers forestiers. Destination préférée des locaux.',
+          en: 'Forest with lake (Kralingse Plas) on the city\'s northeast edge. Dogs can swim in the lake and run off-leash on forest trails. Locals\' favourite weekend destination.',
+          es: 'Bosque con lago (Kralingse Plas) al noreste de la ciudad. Los perros pueden nadar en el lago y correr sueltos por los senderos. Destino favorito de los locales los fines de semana.',
+        },
+      },
+      {
+        name: 'Witte de Withstraat',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'La rue art et culture de Rotterdam, piétonnisée le week-end. Fresques murales, galeries et cafés dog-friendly côte à côte — le meilleur quartier pour un après-midi avec son chien.',
+          en: 'Rotterdam\'s art and culture street, pedestrianised at weekends. Murals, galleries and dog-friendly cafés side by side — the best neighbourhood for a dog afternoon.',
+          es: 'La calle de arte y cultura de Rotterdam, peatonal los fines de semana. Murales, galerías y cafés dog-friendly: el mejor barrio para una tarde con tu perro.',
+        },
+      },
+      {
+        name: 'Markthal',
+        emoji: '🏪',
+        petFriendly: false,
+        desc: {
+          fr: 'Le marché couvert iconique en arche. Les chiens ne sont pas admis à l\'intérieur, mais la place extérieure et les bars environnants sont entièrement dog-friendly.',
+          en: 'The iconic arch-shaped indoor market. Dogs are not permitted inside, but the outdoor square and surrounding bars are fully dog-friendly.',
+          es: 'El icónico mercado cubierto en forma de arco. No se admiten perros dentro, pero la plaza exterior y los bares cercanos son totalmente dog-friendly.',
+        },
+      },
+      {
+        name: 'Kubuswoningen (Cube Houses)',
+        emoji: '🟧',
+        petFriendly: true,
+        desc: {
+          fr: 'Les maisons cubes de Piet Blom, icône de l\'architecture rotterdamoise. Visibles et photographiables de l\'extérieur avec votre chien — l\'intérieur-musée n\'accepte pas les animaux.',
+          en: 'Piet Blom\'s Cube Houses, a Rotterdam architectural icon. Viewable and photographable with your dog from outside — the museum interior doesn\'t accept pets.',
+          es: 'Las Casas Cúbicas de Piet Blom, icono de la arquitectura de Rotterdam. Se pueden ver y fotografiar con tu perro desde fuera; el museo interior no admite mascotas.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens voyagent gratuitement sur tout le réseau RET (métro, tram, bus) — aucun billet requis, juste la laisse obligatoire.',
+        'Pas de restriction de taille ou de race sur les transports — les grands chiens sont les bienvenus.',
+        'Pour les trains NS hors Rotterdam, un petit chien en transportin voyage gratis ; un grand chien nécessite un « hondenbiljet » journée à 3,50 €.',
+        'Plages de Hoek van Holland : chiens interdits 9h-19h du 1er mai au 1er octobre, sauf à la pointe de l\'estuaire.',
+        'Urgences vétérinaires : Dierenziekenhuis Rotterdam au 010 492 51 51 jusqu\'à 22h, puis Evidensia Barendrecht 24h/24.',
+      ],
+      en: [
+        'Dogs travel free on the entire RET network (metro, tram, bus) — no ticket required, just keep them on a leash.',
+        'No size or breed restriction on public transport — large dogs are welcome.',
+        'For NS trains outside Rotterdam, a small dog in a carrier travels free; a large dog needs a "hondenbiljet" day ticket at €3.50.',
+        'Hoek van Holland beaches: dogs banned 9am–7pm from May 1 to October 1, except at the estuary tip.',
+        'Emergency vet: Dierenziekenhuis Rotterdam on +31 10 492 51 51 until 10pm, then Evidensia Barendrecht 24/7.',
+      ],
+      es: [
+        'Los perros viajan gratis en toda la red RET (metro, tranvía, autobús): no se necesita billete, solo hay que llevarlos con correa.',
+        'Sin restricción de tamaño ni raza en el transporte público: los perros grandes son bienvenidos.',
+        'En los trenes NS fuera de Rotterdam, un perro pequeño en transportín viaja gratis; uno grande necesita un "hondenbiljet" de día (3,50 €).',
+        'Playas de Hoek van Holland: perros prohibidos 9:00-19:00 del 1 de mayo al 1 de octubre, excepto en la punta del estuario.',
+        'Urgencias veterinarias: Dierenziekenhuis Rotterdam en el +31 10 492 51 51 hasta las 22:00, luego Evidensia Barendrecht 24/7.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport Rotterdam-The Hague (RTM) à 8 km — ou Amsterdam Schiphol (AMS) à 50 min en train (chiens acceptés).',
+        'Depuis Amsterdam : trains NS directs toutes les 15 minutes (40 min de trajet).',
+        'Meilleure saison : mai à septembre pour les terrasses et les canaux. L\'hiver reste fonctionnel mais humide.',
+        'Rotterdam Central Station est entièrement accessible aux chiens, y compris la zone de restauration extérieure.',
+        'Plupart des hôtels centre-ville acceptent les animaux (frais de 10-25 €/nuit typiquement).',
+      ],
+      en: [
+        'Rotterdam-The Hague Airport (RTM) is 8 km away — or Amsterdam Schiphol (AMS) 50 min by train (dogs welcome).',
+        'From Amsterdam: direct NS trains every 15 minutes (40-minute journey).',
+        'Best season: May to September for terraces and canals. Winter is still functional but damp.',
+        'Rotterdam Central Station is fully accessible to dogs, including the outdoor dining area.',
+        'Most city-centre hotels accept pets (typically €10–25/night fee).',
+      ],
+      es: [
+        'Aeropuerto Rotterdam-La Haya (RTM) a 8 km, o Ámsterdam Schiphol (AMS) a 50 min en tren (perros admitidos).',
+        'Desde Ámsterdam: trenes NS directos cada 15 minutos (40 min de trayecto).',
+        'Mejor temporada: mayo a septiembre para terrazas y canales. El invierno sigue siendo funcional pero húmedo.',
+        'La Rotterdam Central Station es totalmente accesible para perros, incluida la zona de restauración exterior.',
+        'La mayoría de hoteles céntricos admiten mascotas (tarifa típica de 10-25 €/noche).',
+      ],
+    },
+  },
+
 }
 
 export default cityContent

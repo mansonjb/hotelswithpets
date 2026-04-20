@@ -3838,6 +3838,1050 @@ const cityContent: Record<string, CityContent> = {
   },
 
 
+  krakow: {
+    history: {
+      fr: `Cracovie, ancienne capitale royale de Pologne, porte sa couronne depuis plus de mille ans. Née de la légende d'un dragon terrassé sous la colline du Wawel, la ville est passée de la richesse marchande médiévale à une vitrine UNESCO d'architecture gothique, Renaissance et baroque. Sa Grand-Place, la plus grande place médiévale d'Europe, vibre encore au rythme des calèches, des musiciens de rue et d'une âme locale intacte. Les Cracoviens adorent leurs chiens, et cela se voit : les cafés du quartier juif de Kazimierz sortent des gamelles d'eau, et la ceinture verte des Planty autour de la Vieille Ville se remplit chaque soir de voisins promenant caniches, bâtards et lévriers. La tradition rurale polonaise des chiens de travail se mêle ici à une culture urbaine moderne, faisant de Cracovie l'une des villes les plus accueillantes d'Europe centrale pour les voyageurs à quatre pattes.`,
+      en: `Krakow, Poland's former royal capital, has worn its crown for over a thousand years. Founded on the legend of a dragon slain beneath Wawel Hill, the city grew from medieval merchant wealth into a UNESCO-listed showcase of Gothic, Renaissance, and Baroque architecture. Its Main Square, Europe's largest medieval plaza, still pulses with horse-drawn carriages, street musicians, and a strong local soul. Krakovians adore their dogs, and it shows: cafes tucked into Kazimierz's Jewish quarter set out water bowls, and the Planty green belt encircling the Old Town fills each evening with neighbors walking poodles, mutts, and hounds. Poland's deep rural tradition of working dogs blends here with a modern urban pet culture, making Krakow one of Central Europe's most genuinely welcoming cities for four-legged travelers.`,
+      es: `Cracovia, antigua capital real de Polonia, luce su corona desde hace más de mil años. Nacida de la leyenda de un dragón abatido bajo la colina de Wawel, la ciudad pasó de la riqueza mercantil medieval a ser un escaparate UNESCO de arquitectura gótica, renacentista y barroca. Su Plaza Mayor, la mayor plaza medieval de Europa, aún late con coches de caballos, músicos callejeros y un alma local intacta. Los cracovianos adoran a sus perros y se nota: los cafés del barrio judío de Kazimierz ofrecen cuencos de agua, y el cinturón verde de los Planty que rodea el Casco Antiguo se llena cada tarde de vecinos paseando caniches, mestizos y galgos. La tradición rural polaca de perros de trabajo se funde aquí con una cultura urbana moderna, haciendo de Cracovia una de las ciudades más hospitalarias de Europa Central para viajeros de cuatro patas.`,
+    },
+    sights: [
+      {
+        name: 'Wawel Hill & Castle Grounds',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur spirituel de la Pologne couronne une colline calcaire au-dessus de la Vistule. Les chiens tenus en laisse sont les bienvenus dans les cours extérieures, sur les remparts et à l\'entrée de l\'Antre du Dragon, mais la cathédrale et les salles d\'apparat restent interdites. Les balades à l\'aube sur les murs du château sont un rituel local.',
+          en: 'The spiritual heart of Poland crowns a limestone hill above the Vistula. Leashed dogs are welcome across the outdoor courtyards, ramparts, and Dragon\'s Den approach, though the cathedral and state rooms remain off-limits. Sunrise walks along the castle walls are a local ritual.',
+          es: 'El corazón espiritual de Polonia corona una colina caliza sobre el Vístula. Los perros con correa son bienvenidos en los patios exteriores, murallas y acceso a la Cueva del Dragón, aunque la catedral y las salas de estado están vetadas. Pasear al amanecer por las murallas es un ritual local.',
+        },
+      },
+      {
+        name: 'Planty Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Ceinture verte de quatre kilomètres épousant le tracé des anciennes murailles médiévales, les Planty forment la promenade canine préférée de Cracovie. Trente jardins reliés entre eux, avec bancs, fontaines et arbres ombragés, en font un circuit idéal autour de la Vieille Ville. Presque tout est plat, pavé et accessible aux poussettes comme aux pattes.',
+          en: 'A four-kilometer ring of parkland tracing the line of the old medieval walls, Planty is Krakow\'s favorite dog-walking loop. Thirty interconnected gardens with benches, fountains, and shade trees make it ideal for a slow circuit around the Old Town. Most of it is flat, paved, and stroller-and-paw friendly.',
+          es: 'Un anillo verde de cuatro kilómetros que sigue el trazado de las antiguas murallas medievales; los Planty son el paseo canino favorito de Cracovia. Treinta jardines interconectados con bancos, fuentes y árboles hacen de él un circuito ideal alrededor del Casco Antiguo. Es casi todo llano, pavimentado y apto para cochecitos y patas.',
+        },
+      },
+      {
+        name: 'Kazimierz Jewish Quarter',
+        emoji: '🕎',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ancien quartier juif est devenu le plus attachant de Cracovie, entre synagogues, boutiques vintage et cafés cachés dans les cours. Les terrasses du Plac Nowy sont réputées dog-friendly, et presque un café de spécialité sur trois pose une gamelle près de la porte. Le soir, l\'ambiance des bars reste calme et ouverte aux chiens sages.',
+          en: 'The former Jewish district has become Krakow\'s most soulful neighborhood, with synagogues, vintage shops, and courtyard cafes. Plac Nowy\'s outdoor terraces are famously dog-friendly, and nearly every third-wave coffee bar keeps a bowl by the door. Evenings bring low-key bar life that welcomes calm canines.',
+          es: 'El antiguo barrio judío se ha convertido en el más entrañable de Cracovia, con sinagogas, tiendas vintage y cafés escondidos en patios. Las terrazas de Plac Nowy son famosamente pet-friendly y casi una de cada tres cafeterías de especialidad deja un cuenco junto a la puerta. Por la noche los bares mantienen un ambiente tranquilo apto para perros educados.',
+        },
+      },
+      {
+        name: 'Vistula Boulevards (Bulwary Wiślane)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'De larges promenades fluviales s\'étendent sur des kilomètres des deux côtés de la Vistule, reliant le Wawel à Kazimierz et au-delà. Coureurs, cyclistes et maîtres de chiens partagent un chemin plat et sans voitures, bordé d\'herbe pour les pauses rapides. L\'été, les péniches transformées en cafés flottants acceptent souvent les chiens en laisse sur le pont.',
+          en: 'Wide riverside promenades stretch for kilometers on both banks of the Vistula, linking Wawel to Kazimierz and beyond. Runners, cyclists, and dog walkers share a flat, car-free path with grass strips for quick stops. Summer brings river barges turned into floating cafes, many of which allow leashed dogs on deck.',
+          es: 'Amplios paseos fluviales se extienden kilómetros por ambas orillas del Vístula, uniendo Wawel con Kazimierz y más allá. Corredores, ciclistas y dueños comparten un camino llano y sin coches, con franjas de hierba para paradas rápidas. En verano, las barcazas convertidas en cafés flotantes suelen admitir perros con correa en cubierta.',
+        },
+      },
+      {
+        name: 'Las Wolski Forest',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Vaste colline boisée à l\'ouest du centre, Las Wolski est le poumon de Cracovie. Les sentiers grimpent vers le tertre de Piłsudski et le monastère des Camaldules, avec de larges vues sur le piémont des Carpates. Les chiens doivent rester en laisse sur les chemins balisés ; le zoo à l\'intérieur de la forêt ne les admet pas.',
+          en: 'A vast wooded hill just west of the center, Las Wolski is Krakow\'s lungs. Trails climb to the Piłsudski Mound and the Camaldolese Monastery with sweeping views over the Carpathian foothills. Dogs must stay leashed on marked paths; the zoo inside the forest does not admit them.',
+          es: 'Amplia colina boscosa al oeste del centro, Las Wolski es el pulmón de Cracovia. Los senderos suben al Túmulo de Piłsudski y al Monasterio Camaldulense, con vistas amplias sobre las estribaciones de los Cárpatos. Los perros deben ir atados en los senderos señalizados; el zoo dentro del bosque no los admite.',
+        },
+      },
+      {
+        name: 'Main Market Square (Rynek Główny)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'La plus grande place médiévale d\'Europe abrite la Halle aux Draps, la basilique Sainte-Marie et le hejnał sonné chaque heure depuis la tour. Les chiens en laisse peuvent traverser la place et s\'installer en terrasse, mais l\'intérieur des églises et le musée souterrain leur sont fermés. Tôt le matin, l\'endroit est le plus calme.',
+          en: 'Europe\'s largest medieval square hosts the Cloth Hall, St. Mary\'s Basilica, and the hourly bugle call from the tower. Leashed dogs can cross the square and join terrace tables, though the interior of churches and the underground museum are closed to pets. Early morning is the calmest time to visit.',
+          es: 'La mayor plaza medieval de Europa alberga la Lonja de los Paños, la basílica de Santa María y el toque de corneta que suena cada hora desde la torre. Los perros con correa pueden cruzar la plaza y sentarse en terrazas, aunque el interior de las iglesias y el museo subterráneo les están vetados. Temprano por la mañana es cuando está más tranquilo.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La loi polonaise classe 11 races comme dangereuses (Rottweiler, Akita, Tosa, American Pit Bull Terrier...) et impose un permis municipal plus muselière et laisse en public.',
+        'Les chiens voyagent gratuitement dans les trams et bus de Cracovie s\'ils sont muselés et tenus en laisse ; les grands chiens non muselés nécessitent en théorie un second billet, prévoyez une muselière souple pour le réseau MPK.',
+        'Kazimierz est le quartier de référence pour manger avec son chien — visez les terrasses du Plac Nowy plutôt que les intérieurs exigus de la Vieille Ville.',
+        'Ramassez systématiquement : les amendes pour déjection non ramassée dans le centre peuvent atteindre 500 PLN, et des distributeurs de sacs verts jalonnent désormais les Planty et les berges de la Vistule.',
+        'L\'été, les pavés près du Rynek Główny chauffent énormément en milieu de journée — promenez avant 10 h ou après 19 h, et privilégiez l\'anneau herbeux des Planty.',
+      ],
+      en: [
+        'Polish law classifies 11 breeds as dangerous (including Rottweiler, Akita, Tosa, and American Pit Bull Terrier) and requires a municipal permit plus muzzle and leash in public.',
+        'Dogs ride free on Krakow\'s trams and buses if muzzled and leashed; larger unmuzzled dogs technically require a second ticket, so carry a soft muzzle for MPK rides.',
+        'Kazimierz is your gold-standard dog-friendly neighborhood for dining — aim for Plac Nowy terraces rather than tight Old Town interiors.',
+        'Pick up after your dog: fines for leaving waste in Krakow\'s center run up to 500 PLN, and green bag dispensers are now standard along the Planty and Vistula paths.',
+        'Summer pavements near Rynek Główny get scorching by midday — walk your dog before 10 a.m. or after 7 p.m., and use the grassy Planty ring as a cooler alternative.',
+      ],
+      es: [
+        'La ley polaca clasifica 11 razas como peligrosas (Rottweiler, Akita, Tosa, American Pit Bull Terrier...) y exige permiso municipal más bozal y correa en público.',
+        'Los perros viajan gratis en tranvías y autobuses de Cracovia si llevan bozal y correa; los perros grandes sin bozal requieren técnicamente un segundo billete, así que carga un bozal blando para la red MPK.',
+        'Kazimierz es el barrio de referencia para comer con perro — apunta a las terrazas del Plac Nowy antes que a los interiores estrechos del Casco Antiguo.',
+        'Recoge siempre: las multas por no recoger excrementos en el centro pueden llegar a 500 PLN y ya hay dispensadores de bolsas verdes a lo largo de los Planty y el Vístula.',
+        'En verano el adoquinado cerca del Rynek Główny se recalienta al mediodía — pasea antes de las 10 h o después de las 19 h, y usa el anillo de césped de los Planty como alternativa más fresca.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'entrée depuis l\'UE exige un passeport européen pour animaux avec vaccin antirabique valide au moins 21 jours avant le voyage ; hors UE, certificat sanitaire et puce ISO obligatoires.',
+        'Cracovie dispose de cliniques vétérinaires 24 h/24 à Śródmieście et Podgórze — la Całodobowa Lecznica Weterynaryjna, rue Mogilska, est la plus centrale pour les urgences.',
+        'MPK (transports urbains) ne facture pas de supplément pour un chien en laisse et muselé ; les taxis dont Bolt et Free Now acceptent généralement les animaux, à confirmer à la réservation.',
+        'L\'aéroport Balice (KRK) traite les animaux en soute ou en cabine selon le poids ; réservez la place de votre animal au moins 48 h avant le départ.',
+        'L\'été atteint 30 °C avec des épisodes humides en juillet-août — l\'hiver peut descendre à -10 °C, baume pour coussinets et tapis rafraîchissant sont utiles selon la saison.',
+      ],
+      en: [
+        'Entry from the EU requires an EU pet passport with rabies vaccination valid at least 21 days before travel; from outside the EU, a health certificate and ISO microchip are mandatory.',
+        'Krakow has 24-hour veterinary clinics in Śródmieście and Podgórze — Całodobowa Lecznica Weterynaryjna on ul. Mogilska is the most central emergency option.',
+        'MPK (city transport) charges no extra fare for a leashed, muzzled dog; taxis including Bolt and Free Now generally accept pets but confirm when booking.',
+        'Balice Airport (KRK) processes pets as cargo or cabin baggage depending on weight; reserve your animal\'s spot at least 48 hours before departure.',
+        'Summer daytime highs reach 30 °C with humid stretches in July and August — winter can fall to -10 °C, so paw balm is as useful as a cooling mat depending on season.',
+      ],
+      es: [
+        'La entrada desde la UE requiere pasaporte europeo de mascota con vacuna antirrábica válida al menos 21 días antes del viaje; fuera de la UE, certificado sanitario y microchip ISO son obligatorios.',
+        'Cracovia cuenta con clínicas veterinarias 24 h en Śródmieście y Podgórze — la Całodobowa Lecznica Weterynaryjna en ul. Mogilska es la más céntrica para urgencias.',
+        'MPK (transporte urbano) no cobra suplemento por perro con correa y bozal; los taxis, incluidos Bolt y Free Now, suelen aceptar mascotas, confirma al reservar.',
+        'El aeropuerto de Balice (KRK) gestiona mascotas en bodega o cabina según el peso; reserva la plaza al menos 48 h antes de la salida.',
+        'En verano se alcanzan 30 °C con tramos húmedos en julio y agosto — en invierno puede bajar a -10 °C, así que bálsamo para almohadillas o manta refrescante son útiles según la estación.',
+      ],
+    },
+  },
+
+  warsaw: {
+    history: {
+      fr: `Varsovie est une ville qui s'est reconstruite brique après brique. Détruite à 85 % pendant la Seconde Guerre mondiale, sa Vieille Ville a été restaurée à partir de tableaux et dessins d'avant-guerre, lui valant une reconnaissance UNESCO comme symbole de résilience. Aujourd'hui, la capitale polonaise superpose le Palais de la Culture communiste et des gratte-ciel de verre, reliant résidences royales et nature fluviale par des avenues ombragées comme Nowy Świat et Krakowskie Przedmieście. Varsovie est devenue, discrètement, l'une des capitales les plus dog-friendly d'Europe : presque tous les parcs acceptent les chiens en laisse, beaucoup de cafés de Śródmieście et Saska Kępa arborent le sticker 'pies mile widziany' (chien bienvenu), et les berges de la Vistule sont devenues un vrai sanctuaire urbain. La culture canine polonaise mêle ici pragmatisme et chaleur, et chiens de travail comme bâtards adoptés sont traités en membres de la famille sur chaque tram et terrasse.`,
+      en: `Warsaw is a city that chose to rebuild itself brick by brick. Flattened by 85% during World War II, its Old Town was meticulously reconstructed from pre-war paintings and drawings, earning UNESCO recognition as a symbol of resilience. Today Poland's capital layers Communist-era Palace of Culture against glass skyscrapers, with leafy avenues like Nowy Świat and Krakowskie Przedmieście connecting royal residences to riverside wilderness. Warsaw has quietly become one of Europe's most dog-friendly capitals: nearly every park allows leashed dogs, many cafes in Śródmieście and Saska Kępa display 'pies mile widziany' (dog welcome) stickers, and the Vistula riverbanks have been rewilded into a genuine urban sanctuary. Polish dog culture here mixes pragmatism with genuine warmth, and you'll see working breeds and rescue mutts alike treated as full family members on every tram and terrace.`,
+      es: `Varsovia es una ciudad que se reconstruyó ladrillo a ladrillo. Destruida en un 85 % durante la Segunda Guerra Mundial, su Casco Antiguo fue restaurado a partir de cuadros y dibujos anteriores a la guerra, logrando el reconocimiento UNESCO como símbolo de resiliencia. Hoy la capital polaca superpone el Palacio de la Cultura de la era comunista con rascacielos de cristal, y conecta residencias reales con la ribera salvaje mediante avenidas arboladas como Nowy Świat y Krakowskie Przedmieście. Varsovia se ha convertido, discretamente, en una de las capitales más pet-friendly de Europa: casi todos los parques admiten perros con correa, muchos cafés de Śródmieście y Saska Kępa muestran la pegatina 'pies mile widziany' (perro bienvenido), y las orillas del Vístula son un auténtico santuario urbano. La cultura canina polaca mezcla aquí pragmatismo y calidez, tratando tanto a razas de trabajo como a mestizos rescatados como un miembro más de la familia en cada tranvía y terraza.`,
+    },
+    sights: [
+      {
+        name: 'Łazienki Royal Park',
+        emoji: '🦚',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc le plus élégant de Varsovie s\'étend sur 76 hectares de palais, paons et allées bordées de chênes. Les chiens doivent rester en laisse et ne sont pas admis dans le Palais sur l\'Île ni dans les autres bâtiments historiques, mais le monument Chopin en plein air et l\'amphithéâtre les accueillent. Les concerts Chopin gratuits du dimanche en été tolèrent les chiens.',
+          en: 'Warsaw\'s most elegant park spans 76 hectares of palaces, peacocks, and oak-lined alleys. Dogs must stay leashed at all times and are not allowed in the Palace on the Isle or other historic buildings, but the outdoor Chopin monument and amphitheater welcome them. Sunday summer Chopin concerts are free and dog-tolerant.',
+          es: 'El parque más elegante de Varsovia se extiende por 76 hectáreas de palacios, pavos reales y avenidas de robles. Los perros deben ir con correa siempre y no entran en el Palacio sobre el Agua ni en otros edificios históricos, pero el monumento a Chopin y el anfiteatro al aire libre los reciben. Los conciertos gratuitos de Chopin los domingos de verano toleran perros.',
+        },
+      },
+      {
+        name: 'Vistula Boulevards',
+        emoji: '🚤',
+        petFriendly: true,
+        desc: {
+          fr: 'La rive gauche est devenue une promenade de trois kilomètres avec bars, bancs et couchers de soleil, tandis que la rive sauvage droite (côté Praga) offre des plages de sable où les chiens peuvent nager en liberté hors des semaines d\'affluence estivale. Des ferries gratuits traversent l\'été et acceptent les chiens en laisse.',
+          en: 'Warsaw\'s left bank has been transformed into a three-kilometer promenade of bars, benches, and sunset views, while the wild right bank (Praga side) offers sandy beaches where dogs can swim off-leash outside the busiest summer weeks. Free ferries cross in summer and accept leashed pets.',
+          es: 'La orilla izquierda se ha transformado en un paseo de tres kilómetros con bares, bancos y puestas de sol, mientras que la orilla derecha, salvaje (lado Praga), ofrece playas de arena donde los perros pueden bañarse sueltos fuera de las semanas más concurridas del verano. En verano hay ferries gratuitos que admiten perros con correa.',
+        },
+      },
+      {
+        name: 'Old Town Market Square',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur de la Varsovie d\'avant-guerre, méticuleusement reconstruit, avec ses maisons pastel, la fontaine de la Sirène et les calèches. Les chiens en laisse sont admis sur les pavés et à la plupart des terrasses, mais le Château Royal et les musées sont interdits.',
+          en: 'The painstakingly reconstructed heart of pre-war Warsaw, with pastel townhouses, the mermaid fountain, and horse carts. Leashed dogs are welcome across the cobbles and on most terrace tables, though the Royal Castle and museums are off-limits.',
+          es: 'El corazón de la Varsovia de antes de la guerra, reconstruido con esmero: casas pastel, fuente de la Sirena y coches de caballos. Los perros con correa son bienvenidos en el adoquinado y en la mayoría de terrazas, pero el Castillo Real y los museos están vetados.',
+        },
+      },
+      {
+        name: 'Pole Mokotowskie',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: 'Vaste parc plat en plein cœur de Varsovie, avec zones sans laisse, agrès d\'agility et prairies à frisbee. Les habitants l\'appellent \'le poumon du centre\' et il se remplit chaque soir de chiens de toutes tailles. Un espace clos pour petits chiens jouxte l\'étang.',
+          en: 'A vast flat park in the middle of Warsaw with dedicated off-leash dog zones, agility equipment, and open meadows for frisbee. Locals call it \'the lungs of the center\' and it fills every evening with dogs of every size. There\'s even a dedicated small-dog fenced area near the pond.',
+          es: 'Un amplio parque llano en pleno centro de Varsovia, con zonas sin correa, equipamiento de agility y praderas para frisbee. Los locales lo llaman \'el pulmón del centro\' y se llena cada tarde de perros de todos los tamaños. Hay incluso una zona vallada para perros pequeños junto al estanque.',
+        },
+      },
+      {
+        name: 'Praga District',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancien quartier ouvrier, Praga a traversé la guerre intact et accueille aujourd\'hui ateliers d\'artistes, Musée des Néons et cafés de cour intérieure. Les terrasses de la rue Ząbkowska sont réputées dog-friendly, et la plage fluviale voisine de Plaża Poniatówka accepte les chiens toute l\'année.',
+          en: 'Once a gritty working-class quarter, Praga survived the war intact and now hosts artist studios, Neon Museum, and courtyard cafes. Ząbkowska Street terraces are famously dog-friendly, and the nearby riverside beach of Plaża Poniatówka allows dogs year-round.',
+          es: 'Antiguo barrio obrero, Praga sobrevivió intacto a la guerra y hoy acoge estudios de artistas, el Museo del Neón y cafés en patios. Las terrazas de la calle Ząbkowska son famosamente pet-friendly, y la cercana playa fluvial de Plaża Poniatówka admite perros todo el año.',
+        },
+      },
+      {
+        name: 'Kampinos National Park',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc national de 385 km² aux portes de Varsovie, avec pinèdes, dunes de sable et apparitions d\'élans. Les chiens sont admis sur les sentiers balisés mais doivent toujours rester en laisse, car le parc protège élans, lynx et oiseaux au sol. Le tram 9 puis le bus 719 rejoignent l\'entrée sud en moins d\'une heure.',
+          en: 'A 385-square-kilometer national park on Warsaw\'s doorstep, with pine forests, sand dunes, and elk sightings. Dogs are allowed on marked trails but must stay leashed at all times, as the park protects elk, lynx, and ground-nesting birds. Tram 9 plus bus 719 reach the southern entrance in under an hour.',
+          es: 'Parque nacional de 385 km² a las puertas de Varsovia, con pinares, dunas de arena y avistamientos de alces. Se admiten perros en los senderos señalizados, pero siempre con correa, ya que el parque protege alces, linces y aves que anidan en el suelo. El tranvía 9 más el autobús 719 llegan a la entrada sur en menos de una hora.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'ZTM (transports publics de Varsovie) impose muselière et laisse à chaque chien dans les trams, bus et le métro ; le trajet est gratuit ainsi, mais les contrôleurs vérifient.',
+        'Le parc Łazienki applique strictement la laisse — les gardiens peuvent verbaliser 100 à 500 PLN les maîtres dont le chien est lâché, réservez la liberté à Pole Mokotowskie.',
+        'Les 11 races \'dangereuses\' listées par la Pologne exigent un permis municipal ; emportez le pedigree pour éviter les confusions.',
+        'L\'été, les arrêts de tram atteignent 35 °C — prévoyez de l\'eau, évitez les dalles de granit entre midi et 16 h, et réfugiez-vous au Jardin Saxon ou Krasiński pour l\'ombre.',
+        'Les amendes pour déjections dans le centre atteignent 500 PLN ; la ZTM poste même des agents près du Palais de la Culture, ayez toujours des sacs.',
+      ],
+      en: [
+        'ZTM (Warsaw public transport) requires a muzzle and leash for every dog on trams, buses, and the metro; travel is free with these, but inspectors do check.',
+        'Łazienki Park strictly enforces its leash rule — rangers can fine off-leash owners 100-500 PLN, so save free-running for Pole Mokotowskie\'s designated zones.',
+        'Poland\'s 11 listed \'dangerous breeds\' require a city hall permit; carry pedigree papers to avoid confusion with look-alikes.',
+        'Summer heat on Warsaw\'s tram stops can hit 35 °C — carry water, avoid walking on granite slabs between noon and 4 p.m., and duck into Saxon Garden or Krasiński Garden for shade.',
+        'Dog-waste fines in the city center run up to 500 PLN; ZTM even posts enforcement officers near the Palace of Culture, so always carry bags.',
+      ],
+      es: [
+        'ZTM (transporte público de Varsovia) exige bozal y correa para todo perro en tranvías, autobuses y metro; así el viaje es gratis, pero los inspectores comprueban.',
+        'El parque Łazienki aplica estrictamente la correa — los guardas pueden multar con 100-500 PLN si el perro va suelto, reserva la libertad para Pole Mokotowskie.',
+        'Las 11 razas \'peligrosas\' listadas por Polonia requieren permiso municipal; lleva el pedigrí para evitar confusiones.',
+        'En verano las paradas de tranvía alcanzan 35 °C — lleva agua, evita las losas de granito entre las 12 h y las 16 h, y refúgiate en el Jardín Sajón o Krasiński para tener sombra.',
+        'Las multas por excrementos en el centro llegan a 500 PLN; ZTM incluso destina agentes cerca del Palacio de la Cultura, lleva siempre bolsas.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Les voyageurs UE ont besoin d\'un passeport européen, d\'une puce ISO et d\'un vaccin antirabique administré au moins 21 jours avant ; hors UE, certificat vétérinaire endossé dans les 10 jours précédant l\'arrivée.',
+        'L\'aéroport de Chopin (WAW) accepte les animaux en cabine jusqu\'à 8 kg et en soute selon les normes IATA ; réservez au moins 48 h à l\'avance, surtout l\'été.',
+        'Cliniques 24 h/24 : Lecznica Weterynaryjna Multivet (Mokotów) et Przychodnia Weterynaryjna Auxilium (Wola), toutes deux gérant les urgences en anglais.',
+        'L\'hiver varsovien oscille entre -5 et -10 °C avec neige de décembre à mars — baume, bottines et manteau pour chiens à poil ras sont essentiels ; l\'été se situe à 25-30 °C.',
+        'Les applis Bolt, Free Now et iTaxi acceptent les animaux si signalé à la réservation ; un sac de transport ou une serviette sur le siège est la norme courtoise.',
+      ],
+      en: [
+        'EU travelers need an EU pet passport, ISO microchip, and rabies vaccine administered at least 21 days prior; non-EU travelers need a veterinary health certificate endorsed within 10 days of arrival.',
+        'Chopin Airport (WAW) accepts pets in cabin up to 8 kg and in hold under IATA containers; reserve at least 48 hours ahead, especially in summer.',
+        '24-hour veterinary clinics include Lecznica Weterynaryjna Multivet (Mokotów) and Przychodnia Weterynaryjna Auxilium (Wola); both handle emergencies in English.',
+        'Warsaw winters run -5 to -10 °C with snow from December to March — paw balm, booties, and a coat for short-haired breeds are essential; summers are warm at 25-30 °C.',
+        'Taxi apps Bolt, Free Now, and iTaxi accept pets when requested at booking; a small carrier or towel on the seat is expected as a courtesy.',
+      ],
+      es: [
+        'Los viajeros de la UE necesitan pasaporte europeo, microchip ISO y vacuna antirrábica administrada al menos 21 días antes; fuera de la UE, certificado veterinario sellado en los 10 días previos a la llegada.',
+        'El aeropuerto de Chopin (WAW) admite mascotas en cabina hasta 8 kg y en bodega según normas IATA; reserva con al menos 48 h de antelación, sobre todo en verano.',
+        'Clínicas 24 h: Lecznica Weterynaryjna Multivet (Mokotów) y Przychodnia Weterynaryjna Auxilium (Wola), ambas atienden urgencias en inglés.',
+        'Los inviernos de Varsovia oscilan entre -5 y -10 °C con nieve de diciembre a marzo — bálsamo, botines y abrigo para razas de pelo corto son esenciales; los veranos rondan los 25-30 °C.',
+        'Las apps Bolt, Free Now e iTaxi aceptan mascotas al indicarlo al reservar; un transportín o una toalla en el asiento es la norma de cortesía.',
+      ],
+    },
+  },
+
+  ljubljana: {
+    history: {
+      fr: `Ljubljana, capitale-carte-postale de la Slovénie, s'enroule le long de la Ljubljanica émeraude au pied d'un château médiéval. L'Emona romaine se trouvait ici, et les vestiges de ses murs apparaissent encore entre les façades Art nouveau et les ponts gardés par des dragons de l'architecte Jože Plečnik. Avec moins de 300 000 habitants, la ville ressemble plus à un village, piétonnisée depuis 2007 et entourée de forêts de tous côtés. Les Slovènes sont férocement amoureux du plein air et réputés pour leur attachement aux chiens : on les voit sur les sentiers de montagne, dans les cafés du bord de rivière et lovés sous les tables de restaurants étoilés. Au-delà de la ville, les Alpes Juliennes et le Karst sont un vrai territoire d'ours et de loups, ajoutant une touche sauvage à tout rêve sans laisse.`,
+      en: `Ljubljana, Slovenia's postcard-small capital, curls along the emerald Ljubljanica River beneath a medieval hilltop castle. Roman Emona once stood here, and traces of its walls still appear between Art Nouveau facades and the playful dragon-guarded bridges of architect Jože Plečnik. With just under 300,000 inhabitants, the city feels more like a village, pedestrianized since 2007 and wrapped in forest on every side. Slovenians are fiercely outdoorsy and famously fond of dogs: you'll spot them on mountain trails, in riverside cafes, and curled under tables at award-winning restaurants. Beyond the city, the Julian Alps and Karst plateau are true bear and wolf country, adding a wild edge to any leash-off dream.`,
+      es: `Liubliana, la capital de postal de Eslovenia, se enrosca junto al esmeralda Ljubljanica bajo un castillo medieval. Aquí estuvo la romana Emona, y los restos de sus murallas aún asoman entre fachadas Art Nouveau y los puentes custodiados por dragones del arquitecto Jože Plečnik. Con menos de 300.000 habitantes, la ciudad parece más un pueblo, peatonalizada desde 2007 y rodeada de bosque por todas partes. Los eslovenos son ferozmente amantes del aire libre y famosos por su cariño a los perros: se les ve en senderos de montaña, cafés junto al río y acurrucados bajo las mesas de restaurantes premiados. Más allá de la ciudad, los Alpes Julianos y el Karst son auténtico territorio de osos y lobos, añadiendo un toque salvaje a cualquier sueño sin correa.`,
+    },
+    sights: [
+      {
+        name: 'Tivoli Park',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus grand espace vert de Ljubljana s\'étend sur 500 hectares à deux pas du centre, avec ses promenades bordées de marronniers signées Plečnik, ses roseraies et une zone sans laisse près de l\'étang Tivolski Ribnik. Des sentiers forestiers grimpent vers la colline de Rožnik.',
+          en: 'Ljubljana\'s largest green space sprawls over 500 hectares just minutes from the center, with chestnut-lined promenades designed by Plečnik, rose gardens, and a dedicated off-leash dog zone near Tivolski Ribnik pond. Forested trails climb toward Rožnik Hill.',
+          es: 'El mayor espacio verde de Liubliana se extiende por 500 hectáreas a pocos minutos del centro, con paseos de castaños diseñados por Plečnik, rosaledas y una zona sin correa junto al estanque Tivolski Ribnik. Senderos forestales suben hacia la colina Rožnik.',
+        },
+      },
+      {
+        name: 'Ljubljana Castle',
+        emoji: '🐉',
+        petFriendly: true,
+        desc: {
+          fr: 'Forteresse médiévale à thème dragonesque couronnant la colline au-dessus de la Vieille Ville. Le funiculaire admet explicitement les chiens en laisse, et les cours extérieures, remparts et sentiers forestiers d\'accès sont pet-friendly. Le musée intérieur payant et la tour d\'observation refusent les chiens.',
+          en: 'A dragon-themed medieval fortress crowning the hill above the Old Town. The funicular explicitly welcomes leashed dogs, and the outer courtyards, ramparts, and forest approach trails are pet-friendly. The paid interior museum and viewing tower do not admit dogs.',
+          es: 'Fortaleza medieval con motivo de dragón que corona la colina sobre el Casco Antiguo. El funicular admite explícitamente perros con correa, y los patios exteriores, murallas y senderos forestales de acceso son pet-friendly. El museo interior de pago y la torre mirador no admiten perros.',
+        },
+      },
+      {
+        name: 'Ljubljanica Riverbank',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Les quais piétonniers de Plečnik forment le salon de la ville, avec cafés sous les saules, Triple Pont, Pont des Dragons et excursions en bateau. Des accès à l\'eau le long des berges permettent aux chiens de se rafraîchir l\'été. Tout le tronçon est plat et parsemé de gamelles devant les cafés.',
+          en: 'Plečnik\'s pedestrianized embankments form the city\'s living room, with willow-draped cafes, Triple Bridge, Dragon Bridge, and boat tours. Water access points along the banks let dogs cool off in summer. The entire stretch is flat and lined with water bowls outside cafes.',
+          es: 'Los muelles peatonales de Plečnik forman el salón de la ciudad, con cafés bajo sauces, Triple Puente, Puente de los Dragones y paseos en barco. Los accesos al agua a lo largo de las orillas permiten refrescar al perro en verano. Todo el tramo es llano y salpicado de cuencos de agua junto a los cafés.',
+        },
+      },
+      {
+        name: 'Rožnik Hill',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Colline boisée de 394 mètres s\'élevant directement depuis le parc Tivoli. Le sentier principal grimpe doucement en 30 minutes à travers les hêtraies jusqu\'à l\'auberge Rožnik, gostilna slovène classique qui accepte les chiens en terrasse.',
+          en: 'A forested 394-meter hill rising directly from Tivoli Park. The main trail climbs gently in 30 minutes through beech woods to the Rožnik inn, a classic Slovenian gostilna that seats dogs on its terrace.',
+          es: 'Una colina boscosa de 394 metros que se alza directamente desde el parque Tivoli. El sendero principal sube en 30 minutos entre hayedos hasta la posada Rožnik, clásica gostilna eslovena que acepta perros en la terraza.',
+        },
+      },
+      {
+        name: 'Metelkova Autonomous Quarter',
+        emoji: '🎭',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancienne caserne yougoslave transformée en squat artistique alternatif, couverte de fresques, sculptures et clubs underground. Le jour, c\'est une galerie à ciel ouvert parfaite avec chien ; la nuit, c\'est le quartier le plus bruyant de Ljubljana, à éviter avec des animaux sensibles.',
+          en: 'A former Yugoslav army barracks turned alternative arts squat, covered in murals, sculpture, and underground clubs. By day it\'s an open-air gallery perfectly walkable with dogs; at night it becomes Ljubljana\'s loudest nightlife zone, best avoided with sensitive pets.',
+          es: 'Antiguo cuartel del ejército yugoslavo convertido en okupa artística alternativa, cubierta de murales, esculturas y clubes underground. De día es una galería al aire libre perfecta con perro; de noche se convierte en la zona más ruidosa de Liubliana, evitable con mascotas sensibles.',
+        },
+      },
+      {
+        name: 'Ljubljana Marsh (Ljubljansko barje)',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: 'Zone humide classée UNESCO au sud de la ville, célèbre pour ses habitats préhistoriques sur pilotis et ses 260 espèces d\'oiseaux. Les digues en gravier s\'étendent sur des kilomètres en pleine campagne plate — idéales pour les longues balades avec longe. Laisse obligatoire de mars à juillet pour protéger les oiseaux nicheurs au sol.',
+          en: 'A UNESCO-listed wetland just south of the city, famous for prehistoric pile dwellings and 260 bird species. Gravel dike paths stretch for kilometers in flat, open countryside — ideal for long-lead runs with a dog. Leashes are required March to July to protect ground-nesting birds.',
+          es: 'Humedal declarado UNESCO al sur de la ciudad, famoso por sus viviendas prehistóricas sobre pilotes y 260 especies de aves. Los caminos de dique de grava se extienden kilómetros por campo llano — ideales para paseos largos con longe. Correa obligatoria de marzo a julio para proteger a las aves que anidan en el suelo.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La Slovénie exige les chiens en laisse dans l\'espace public sauf zones de liberté désignées ; Tivoli, sentier Pot Spominov et parcs clôturés spécifiques sont concernés.',
+        'Aucune interdiction raciale, mais les grands chiens doivent avoir une muselière dans les transports en commun ; les bus LPP acceptent les chiens gratuitement avec muselière et laisse.',
+        'Pour randonner dans les Alpes Juliennes ou les forêts de Kočevje, sachez que la Slovénie abrite la plus forte densité d\'ours bruns d\'Europe plus des loups — gardez le chien en laisse, évitez les crêtes à l\'aube/crépuscule.',
+        'L\'eau du robinet est excellente et gratuite partout ; les fontaines signées Plečnik (Prešeren, Novi Trg) sont potables et servent aux locaux pour remplir les gourdes canines.',
+        'De nombreux restaurants de Ljubljana sont explicitement dog-friendly — repérez le sticker \'Pes je dobrodošel\', surtout autour de Mestni trg, Krakovo et Trnovo.',
+      ],
+      en: [
+        'Slovenia requires dogs in public spaces to be leashed unless in designated free-run zones; Tivoli, Pot Spominov trail, and specific fenced parks qualify.',
+        'No breed-specific bans apply, but owners of larger dogs must carry a muzzle in public transport; LPP city buses accept dogs free with a muzzle and leash.',
+        'If you plan to hike the Julian Alps or Kočevje forests, note that Slovenia has Europe\'s densest brown bear population plus wolves — keep dogs leashed, avoid dawn/dusk ridge walks.',
+        'Tap water is excellent and free across the city; Plečnik-designed fountains at Prešeren Square and Novi Trg are drinkable and used by locals to refill dog bottles.',
+        'Many Ljubljana restaurants are explicitly pet-friendly — look for the \'Pes je dobrodošel\' sticker, especially around Mestni trg, Krakovo, and Trnovo neighborhoods.',
+      ],
+      es: [
+        'Eslovenia exige perros con correa en espacios públicos salvo en zonas designadas de libertad; Tivoli, sendero Pot Spominov y parques vallados específicos valen.',
+        'No hay prohibiciones por raza, pero los perros grandes deben llevar bozal en transporte público; los autobuses LPP admiten perros gratis con bozal y correa.',
+        'Si planeas caminar en los Alpes Julianos o los bosques de Kočevje, ten en cuenta que Eslovenia tiene la mayor densidad de osos pardos de Europa más lobos — mantén al perro con correa, evita las crestas al amanecer/anochecer.',
+        'El agua del grifo es excelente y gratuita en toda la ciudad; las fuentes diseñadas por Plečnik (Prešeren, Novi Trg) son potables y los locales las usan para rellenar botellas caninas.',
+        'Muchos restaurantes de Liubliana son explícitamente pet-friendly — busca la pegatina \'Pes je dobrodošel\', sobre todo en Mestni trg, Krakovo y Trnovo.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport UE, puce ISO et vaccin antirabique d\'au moins 21 jours sont requis ; la Slovénie applique le cadre standard UE.',
+        'L\'aéroport de Ljubljana (LJU) gère les animaux en cabine jusqu\'à 8 kg et en soute selon l\'IATA ; contactez la compagnie 48 h avant le vol.',
+        'La clinique 24 h/24 de la Faculté vétérinaire (Veterinarska fakulteta), rue Gerbičeva, traite les urgences ; la Klinika Loka privée est une autre option hors horaires.',
+        'Températures estivales entre 25 et 30 °C avec passages humides, hiver entre 0 et -5 °C avec neige occasionnelle — la bora peut faire chuter la température ressentie.',
+        'Les taxis (Metro Taxi, Cammeo) acceptent les animaux si signalé à la réservation ; le réseau LPP admet les chiens muselés en laisse sans supplément, et la compagnie ferroviaire SŽ facture un petit billet animal (environ 3 €).',
+      ],
+      en: [
+        'EU pet passport, ISO microchip, and rabies vaccine at least 21 days old are required; Slovenia accepts the standard EU entry framework.',
+        'Ljubljana Airport (LJU) handles pets in cabin up to 8 kg and in hold under IATA standards; contact the airline at least 48 hours before flying.',
+        'The 24-hour Veterinary Faculty clinic (Veterinarska fakulteta) on Gerbičeva handles emergencies; the private Klinika Loka is another after-hours option.',
+        'Summer temperatures run 25-30 °C with humid stretches, winter averages 0 to -5 °C with occasional snow; the bura wind can drop felt temperatures sharply.',
+        'Taxis (Metro Taxi, Cammeo) accept pets when mentioned at booking; the LPP bus network takes muzzled leashed dogs at no extra charge, and intercity train company SŽ requires a small-pet ticket (about €3).',
+      ],
+      es: [
+        'Pasaporte UE, microchip ISO y vacuna antirrábica de al menos 21 días son obligatorios; Eslovenia aplica el marco estándar de la UE.',
+        'El aeropuerto de Liubliana (LJU) gestiona mascotas en cabina hasta 8 kg y en bodega según la IATA; contacta con la aerolínea 48 h antes del vuelo.',
+        'La clínica 24 h de la Facultad Veterinaria (Veterinarska fakulteta) en Gerbičeva atiende urgencias; la privada Klinika Loka es otra opción fuera de horario.',
+        'Temperaturas estivales de 25-30 °C con tramos húmedos, invierno entre 0 y -5 °C con nieve ocasional — el viento bora puede desplomar la sensación térmica.',
+        'Los taxis (Metro Taxi, Cammeo) aceptan mascotas avisando al reservar; la red LPP admite perros con bozal y correa sin suplemento, y la compañía ferroviaria SŽ cobra un billete pequeño para mascotas (unos 3 €).',
+      ],
+    },
+  },
+
+  split: {
+    history: {
+      fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse en bord de mer que des réfugiés transformèrent plus tard en cœur vivant d'une ville — 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens — en particulier le dalmatien, sélectionné sur cette côte — et la plupart des cafés laissent des gamelles dehors.`,
+      en: `Split grew up inside a palace. When Roman emperor Diocletian retired here in 305 AD, he built a seaside fortress-home that later refugees turned into the living heart of a city — today 3,000 people still sleep within its limestone walls. The result is UNESCO-listed chaos: Roman columns holding up medieval apartments, Baroque altars jammed against Venetian merchant houses, all facing an Adriatic bluer than any postcard. Split rises between Marjan Hill's pine forest and a palm-lined Riva promenade, with the Dalmatian islands just a ferry hop away. Croatians adore dogs — particularly the native Dalmatian, bred along this very coast — and most cafes keep water bowls out.`,
+      es: `Split creció dentro de un palacio. Cuando el emperador romano Diocleciano se retiró aquí en el 305 d.C., construyó una residencia-fortaleza junto al mar que refugiados posteriores convirtieron en el corazón vivo de una ciudad — aún hoy 3.000 personas duermen dentro de sus muros de caliza. El resultado es un caos UNESCO: columnas romanas sosteniendo apartamentos medievales, altares barrocos encajados en casas mercantes venecianas, todo frente a un Adriático más azul que cualquier postal. Split se alza entre el pinar de la colina Marjan y la palmeada Riva, con las islas dálmatas a un salto de ferry. Los croatas adoran a los perros — en particular al dálmata, seleccionado en esta costa — y la mayoría de cafés dejan cuencos fuera.`,
+    },
+    sights: [
+      {
+        name: 'Diocletian\'s Palace',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'La retraite impériale romaine vieille de 1 700 ans, devenue la vieille ville de Split. Les chiens en laisse sont admis dans le labyrinthe vivant de ruelles, places et caves — mais interdits dans la cathédrale Saint-Domnius, son clocher et les musées payants. Les balades matinales avant les croisiéristes sont magiques.',
+          en: 'The 1,700-year-old Roman imperial retreat that became Split\'s Old Town. Leashed dogs are welcome throughout the living labyrinth of streets, squares, and cellars — but forbidden inside the Cathedral of St. Domnius, its bell tower, and paid museums. Early morning walks before cruise crowds are magical.',
+          es: 'El retiro imperial romano de 1.700 años convertido en el Casco Antiguo de Split. Los perros con correa son bienvenidos en el laberinto vivo de calles, plazas y sótanos — pero no en la catedral de San Domnio, su campanario ni los museos de pago. Los paseos al amanecer antes de los cruceristas son mágicos.',
+        },
+      },
+      {
+        name: 'Marjan Hill',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'La péninsule boisée de Split s\'élevant directement de la Vieille Ville, 178 mètres de pins d\'Alep, chapelles de pierre et points de vue panoramiques. Les chiens sont admis partout en laisse, et plusieurs criques rocheuses sur les pentes sud servent de spots non officiels de baignade canine toute l\'année.',
+          en: 'Split\'s forested peninsula rising directly from the Old Town, with 178 meters of Aleppo pines, stone chapels, and panoramic viewpoints. Dogs are welcome throughout on leash, and several rocky coves on the southern slopes serve as unofficial dog swimming spots year-round.',
+          es: 'La península boscosa de Split que se alza directamente desde el Casco Antiguo: 178 metros de pinos carrascos, capillas de piedra y miradores panorámicos. Los perros son bienvenidos con correa en todo el área, y varias calas rocosas en las laderas sur sirven como puntos no oficiales de baño canino todo el año.',
+        },
+      },
+      {
+        name: 'Riva Promenade',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: 'La promenade maritime bordée de palmiers de Split est le paseo quotidien de chaque habitant, chien ou non. Les chiens en laisse sont admis sur tout le tronçon et à la plupart des terrasses. La brise marine du soir la garde fraîche longtemps après que la ville de pierre a cuit.',
+          en: 'Split\'s palm-lined seafront promenade is the daily paseo of every local, dog or not. Leashed dogs are welcome along the whole strip and on most cafe terraces. Evening sea breezes keep it cool long after the stone city bakes.',
+          es: 'El paseo marítimo palmeado de Split es el paseo diario de cada local, con perro o sin él. Los perros con correa son bienvenidos en todo el tramo y en la mayoría de terrazas. La brisa marina del atardecer lo mantiene fresco mucho después de que la ciudad de piedra haya hervido.',
+        },
+      },
+      {
+        name: 'Bačvice Beach',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: 'La plage de sable la plus célèbre de Split, patrie du picigin local. Les chiens y sont interdits du 1er juin au 30 septembre pendant les heures de baignade, comme sur toutes les plages municipales de Split — mais admis matin et soir hors saison.',
+          en: 'Split\'s most famous sandy beach, home to the local picigin ball game. Dogs are banned between June 1 and September 30 during daytime hours as on all Split municipal bathing beaches — but allowed morning and evening outside season.',
+          es: 'La playa de arena más famosa de Split, cuna del picigin local. Los perros están prohibidos del 1 de junio al 30 de septiembre en horario diurno, como en todas las playas municipales de baño de Split — pero admitidos por la mañana y la tarde fuera de temporada.',
+        },
+      },
+      {
+        name: 'Žnjan Dog Beach',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: 'Plage officiellement dédiée aux chiens à l\'est du centre, ouverte toute l\'année y compris en plein été. Entrée en galets, eau tiède peu profonde et douche pour chiens en font le choix pratique en juillet-août.',
+          en: 'An officially designated pet beach east of the center, open to dogs year-round including peak summer. Pebble entry, shallow warm water, and a dog shower make it the practical choice in July and August.',
+          es: 'Playa oficialmente designada para perros al este del centro, abierta todo el año incluido el verano punta. Entrada de guijarros, agua templada poco profunda y ducha para perros la convierten en la opción práctica en julio y agosto.',
+        },
+      },
+      {
+        name: 'Green Market (Pazar)',
+        emoji: '🍅',
+        petFriendly: true,
+        desc: {
+          fr: 'Le marché aux fruits et légumes en plein air adossé au mur est du palais, animé chaque matin par des paysans dalmates. Les chiens en laisse sont admis entre les étals, et nombre de marchands gardent une gamelle à portée.',
+          en: 'The open-air fruit and vegetable market pressed against the eastern palace wall, buzzing every morning with Dalmatian farmers. Leashed dogs are welcome weaving between stalls, and many vendors keep a water bowl handy.',
+          es: 'El mercado al aire libre de frutas y verduras pegado al muro este del palacio, animado cada mañana con campesinos dálmatas. Los perros con correa son bienvenidos entre los puestos y muchos vendedores tienen un cuenco a mano.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les plages municipales de Split interdisent les chiens du 1er juin au 30 septembre en journée ; Žnjan, les criques secondaires de Kašjuni et Trstenik possèdent des zones dédiées toute l\'année.',
+        'Les ruelles en pierre calcaire atteignent 50 °C au soleil de l\'après-midi — testez avec le dos de la main ; si vous ne tenez pas 5 secondes, cela brûle les coussinets. Promenez avant 10 h ou après 20 h.',
+        'La Croatie exige la laisse dans tout espace public sauf parcs désignés ; muselière obligatoire dans les transports en commun.',
+        'L\'eau est plus difficile à trouver qu\'en Europe du Nord — emportez un bol pliable et remplissez aux fontaines en pierre de Marjan ou aux cafés de la Riva.',
+        'La compagnie Jadrolinija accepte gratuitement les chiens en laisse sur le pont de la plupart des lignes dalmates ; les cabines nécessitent un billet.',
+      ],
+      en: [
+        'Split municipal beaches ban dogs from June 1 to September 30 during daytime; Žnjan, Kašjuni secondary coves, and Trstenik have dedicated pet areas open year-round.',
+        'Limestone and stone streets reach 50 °C in the afternoon sun — test with the back of your hand; if you can\'t hold it for 5 seconds, it will burn paws. Walk before 10 a.m. or after 8 p.m.',
+        'Croatia requires dogs to be leashed in all public spaces except designated parks; muzzles are mandatory on public transport.',
+        'Fresh water is harder to find than in Northern Europe — carry a collapsible bowl and refill at Marjan\'s stone fountains or Riva cafes.',
+        'Ferry company Jadrolinija welcomes leashed dogs on deck for free on most Dalmatian island routes; cabins require an extra ticket.',
+      ],
+      es: [
+        'Las playas municipales de Split prohíben perros del 1 de junio al 30 de septiembre en horario diurno; Žnjan, calas secundarias de Kašjuni y Trstenik tienen zonas dedicadas todo el año.',
+        'Las callejuelas de piedra caliza alcanzan los 50 °C al sol de la tarde — comprueba con el dorso de la mano; si no aguantas 5 segundos, quemará las almohadillas. Pasea antes de las 10 h o después de las 20 h.',
+        'Croacia exige correa en todo espacio público salvo parques designados; bozal obligatorio en transporte público.',
+        'El agua es más difícil de encontrar que en el norte de Europa — lleva un bol plegable y rellena en las fuentes de piedra de Marjan o en cafés de la Riva.',
+        'La naviera Jadrolinija admite gratis perros con correa en cubierta en la mayoría de rutas dálmatas; los camarotes requieren billete.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'La Croatie est dans l\'UE et Schengen : passeport UE, puce ISO et vaccin antirabique valide (au moins 21 jours) suffisent ; hors UE, certificat vétérinaire requis.',
+        'L\'aéroport de Split (SPU) gère les animaux en cabine jusqu\'à 8 kg et en soute toute l\'année ; réservez au moins 48 h avant et prévoyez les restrictions chaleur en juillet-août.',
+        'Soins vétérinaires 24 h/24 à la Veterinarska Ambulanta Split (Poljička cesta) et à la Poliklinika Kreso ; toutes deux anglophones.',
+        'Les maximales estivales dépassent souvent 32 °C avec UV intenses ; hivers doux à 5-12 °C mais la bora peut être brutale — prévoyez ombre l\'été, manteau léger pour petites races l\'hiver.',
+        'Les applis Bolt et Uber opèrent à Split et acceptent les animaux si signalé à la réservation ; les bus urbains (Promet) admettent les chiens muselés en laisse avec un petit billet animal.',
+      ],
+      en: [
+        'Croatia is in the EU and Schengen: an EU pet passport, ISO microchip, and valid rabies vaccine (at least 21 days old) are sufficient; non-EU travelers need a veterinary health certificate.',
+        'Split Airport (SPU) handles in-cabin pets up to 8 kg and hold transport year-round; book the pet slot at least 48 hours ahead and plan for heat restrictions in July-August.',
+        '24-hour veterinary care is available at Veterinarska Ambulanta Split (Poljička cesta) and Poliklinika Kreso; both speak English.',
+        'Summer highs often exceed 32 °C with intense UV; winters are mild at 5-12 °C but the bura wind can feel brutal — pack sun shade gear in summer and a light coat for small breeds in winter.',
+        'Taxi apps Bolt and Uber operate in Split and accept pets when mentioned at booking; city buses (Promet) accept muzzled leashed dogs with a small pet ticket.',
+      ],
+      es: [
+        'Croacia está en la UE y en Schengen: pasaporte UE, microchip ISO y vacuna antirrábica válida (al menos 21 días) bastan; fuera de la UE se exige certificado veterinario.',
+        'El aeropuerto de Split (SPU) gestiona mascotas en cabina hasta 8 kg y en bodega todo el año; reserva la plaza con al menos 48 h de antelación y prevé las restricciones por calor en julio-agosto.',
+        'Atención veterinaria 24 h en la Veterinarska Ambulanta Split (Poljička cesta) y en la Poliklinika Kreso; ambas con personal angloparlante.',
+        'Las máximas estivales superan a menudo los 32 °C con UV intenso; inviernos suaves a 5-12 °C pero el viento bora puede ser brutal — lleva sombra en verano y un abrigo ligero para razas pequeñas en invierno.',
+        'Las apps Bolt y Uber operan en Split y admiten mascotas al indicarlo al reservar; los autobuses urbanos (Promet) admiten perros con bozal y correa con un pequeño billete para mascotas.',
+      ],
+    },
+  },
+
+  helsinki: {
+    history: {
+      fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,
+      en: `Founded in 1550 by King Gustav Vasa of Sweden as a rival to Tallinn, Helsinki grew slowly until Russia made it the capital of the Grand Duchy of Finland in 1812, giving the city its neoclassical Senate Square heart designed by C. L. Engel. Today around 630,000 residents share the capital with roughly 60,000 registered dogs, one of the highest per-capita ratios in Europe. Finnish law requires dogs to be leashed from March to August to protect ground-nesting birds, but the city compensates with more than 80 fenced koira-aitaus (off-leash enclosures), including large ones in Kivinokka and Mustikkamaa. Dogs ride freely on trams, metros and ferries, and most cafés tolerate them indoors. Helsinki's pet culture is quietly practical: heated winter paw balms, reflective vests and sauna-dog etiquette are simply part of city life.`,
+      es: `Fundada en 1550 por Gustavo Vasa de Suecia como rival de Tallin, Helsinki creció despacio hasta que Rusia la convirtió en 1812 en capital del Gran Ducado de Finlandia, encargando a C. L. Engel el neoclásico corazón de la plaza del Senado. Hoy sus cerca de 630.000 vecinos conviven con unos 60.000 perros registrados, una de las proporciones más altas de Europa. La ley finlandesa obliga a llevarlos atados de marzo a agosto para proteger a las aves que anidan en el suelo, pero la ciudad compensa con más de 80 koira-aitaus, recintos vallados sin correa, entre ellos los amplios de Kivinokka y Mustikkamaa. Los perros viajan gratis en tranvía, metro y ferris, y los cafés suelen admitirlos dentro. Bálsamo para almohadillas, chaleco reflectante y saber comportarse en la sauna forman parte del día a día.`,
+    },
+    sights: [
+      {
+        name: 'Keskuspuisto (Central Park)',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Un couloir vert de 10 km fait de pinèdes, de tourbières et de lacs, qui relie le centre-ville aux quartiers nord. Plusieurs zones clôturées, notamment près de Pirkkola, autorisent les chiens sans laisse, et les sentiers enneigés servent de pistes de ski doublées de couloirs pour promeneurs canins.',
+          en: 'A 10 km green corridor of pine forest, bogs and lakes stretching from the city centre to the northern suburbs. Several sections, notably near Pirkkola, allow dogs off-leash in fenced zones, and winter trails double as ski paths with parallel dog-walking lanes.',
+          es: 'Un corredor verde de 10 km con pinares, turberas y lagos que une el centro con los barrios del norte. Varias zonas valladas, sobre todo cerca de Pirkkola, permiten soltar al perro, y en invierno los senderos se comparten con esquiadores y pasean perros en carriles paralelos.',
+        },
+      },
+      {
+        name: 'Suomenlinna Sea Fortress',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Forteresse du XVIIIe siècle classée à l\'UNESCO, répartie sur six îlots et accessible en 15 minutes de ferry depuis le Kauppatori. Les chiens voyagent gratuitement sur le ferry HSL, tenus en laisse, et peuvent arpenter remparts, batteries et rivages rocheux, à l\'exception des musées.',
+          en: 'A UNESCO-listed 18th-century fortress spread across six islands, reached by a 15-minute ferry from Market Square. Dogs ride the HSL ferry free with a leashed owner and can roam the ramparts, cannon batteries and rocky shores except inside the museums.',
+          es: 'Fortaleza del siglo XVIII declarada Patrimonio de la Humanidad, repartida en seis islas y a 15 minutos en ferry desde la plaza del Mercado. Los perros viajan gratis en el ferry HSL con correa y pueden recorrer murallas, baterías y costas rocosas, salvo el interior de los museos.',
+        },
+      },
+      {
+        name: 'Kaivopuisto Park & Seaside Promenade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus ancien parc d\'Helsinki, jardin thermal du XIXe siècle à la pointe sud de la presqu\'île, avec une vue dégagée sur la Baltique. La côte rocheuse d\'Ullanlinna, juste en contrebas, abrite une plage canine officielle et devient le rendez-vous dominical des teckels et huskies de la capitale.',
+          en: 'Helsinki\'s oldest park, a 19th-century spa garden on the southern tip of the peninsula with sweeping Baltic views. The rocky Ullanlinna shoreline below has a dedicated dog swimming spot and is the classic Sunday stroll for Helsinki\'s dachshunds and huskies.',
+          es: 'El parque más antiguo de Helsinki, un jardín balneario del siglo XIX en la punta sur de la península con vistas abiertas al Báltico. La costa rocosa de Ullanlinna, justo debajo, cuenta con una zona de baño canino y es el paseo dominical clásico de teckels y huskies.',
+        },
+      },
+      {
+        name: 'Rauhaniemi Dog Beach (Mustikkamaa)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'Sur l\'île de Mustikkamaa, accessible à pied depuis le métro Kalasatama, se trouve l\'une des deux plages canines officielles de la ville. Eau peu profonde, sable fin, pins ombragés et prairie clôturée sans laisse en font le spot préféré des Helsinkiens en été.',
+          en: 'On the island of Mustikkamaa, a short bridge walk from Kalasatama metro, lies one of the city\'s two official dog beaches. Sandy shallows, shaded pines and a fenced off-leash meadow make it the summer favourite of locals.',
+          es: 'En la isla de Mustikkamaa, a un puente del metro Kalasatama, está una de las dos playas caninas oficiales de la ciudad. Aguas someras, arena, pinos con sombra y un prado vallado sin correa la convierten en la favorita del verano.',
+        },
+      },
+      {
+        name: 'Design District & Punavuori',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Environ 200 boutiques, ateliers et galeries se concentrent autour de Fredrikinkatu et Uudenmaankatu. La plupart des enseignes finlandaises acceptent les chiens en laisse, et des adresses comme Johan & Nyström ou le Fazer Café sortent des gamelles d\'eau sur le pas de la porte.',
+          en: 'Some 200 shops, studios and galleries cluster around Fredrikinkatu and Uudenmaankatu. Most Finnish boutiques allow leashed dogs inside, and cafés like Johan & Nyström and Fazer Café keep water bowls by the door.',
+          es: 'Unas 200 tiendas, estudios y galerías se agrupan en torno a Fredrikinkatu y Uudenmaankatu. La mayoría de comercios finlandeses admite perros con correa, y cafés como Johan & Nyström o Fazer Café sacan cuencos de agua junto a la puerta.',
+        },
+      },
+      {
+        name: 'Senate Square & Helsinki Cathedral',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ensemble néoclassique d\'Engel, achevé en 1852, est l\'image carte postale d\'Helsinki : cathédrale blanche, marches de granit et pavés. Les chiens sont les bienvenus sur la place et les escaliers, mais pas à l\'intérieur de l\'édifice.',
+          en: 'Engel\'s neoclassical ensemble of 1852 is the postcard image of Helsinki: white cathedral, granite steps and cobbled square. Dogs are welcome on the square and steps outside the cathedral, though not inside the church itself.',
+          es: 'El conjunto neoclásico de Engel, terminado en 1852, es la imagen postal de Helsinki: catedral blanca, escalinata de granito y empedrado. Los perros pueden estar en la plaza y en las escaleras, pero no dentro del templo.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Dans la zone AB d\'Helsinki, les chiens voyagent gratuitement en tram, métro, bus et sur le ferry de Suomenlinna ; seul le train régional longue distance exige un billet réduit.',
+        'Du 1er mars au 19 août, la laisse est obligatoire partout hors des koira-aitaus clôturés — les gardes verbalisent régulièrement à Keskuspuisto.',
+        'L\'urgence vétérinaire 24h/24 est Yliopistollinen Eläinsairaala à Viikki (+358 2 941 57373) ; Univet à Konala assure aussi une permanence de nuit.',
+        'En hiver, rincez les coussinets après chaque sortie : Helsinki sable ses trottoirs avec du gravier concassé qui se coince douloureusement entre les doigts.',
+        'De nombreux magasins Alko et K-Market laissent entrer les chiens tenus en laisse — repérez le sticker patte collé sur la porte.',
+      ],
+      en: [
+        'Buy a single HSL ticket for your dog only on long regional trains; within Helsinki zone AB dogs ride trams, metro, buses and Suomenlinna ferry for free.',
+        'From 1 March to 19 August leashes are mandatory everywhere outside fenced koira-aitaus — rangers do fine repeat offenders around Keskuspuisto.',
+        'The 24/7 emergency vet is Yliopistollinen Eläinsairaala in Viikki (+358 2 941 57373); Univet in Konala also runs a night line.',
+        'In winter, rinse your dog\'s paws after walks: Helsinki grits pavements with coarse gravel rather than salt, which lodges painfully between the pads.',
+        'Many Alko off-licences and K-Market grocery stores allow leashed dogs inside — look for the paw sticker on the door.',
+      ],
+      es: [
+        'Dentro de la zona AB de Helsinki el perro viaja gratis en tranvía, metro, autobús y ferry a Suomenlinna; solo en los trenes regionales de largo recorrido necesita billete reducido.',
+        'Del 1 de marzo al 19 de agosto la correa es obligatoria fuera de los koira-aitaus vallados — los guardas multan a los reincidentes en Keskuspuisto.',
+        'La urgencia veterinaria 24 h es Yliopistollinen Eläinsairaala en Viikki (+358 2 941 57373); Univet en Konala también atiende de noche.',
+        'En invierno enjuaga las almohadillas al volver: Helsinki echa grava gruesa en vez de sal y se clava dolorosamente entre los dedos.',
+        'Muchas tiendas Alko y supermercados K-Market admiten perros con correa — busca la pegatina con la huella en la puerta.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'aéroport Helsinki-Vantaa (HEL) est à 30 min du centre par les trains I ou P (4,10 €) ; les chiens voyagent gratuitement en caisse ou muselés.',
+        'Meilleures saisons : mai-septembre pour la baignade sans laisse, février pour marcher sur la banquise au large de Lauttasaari.',
+        'Urgence vétérinaire 24h/24 : Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki — +358 2 941 57373.',
+        'La gare centrale relie Tallinn par ferry Tallink (2 h, chiens en cabine uniquement) ; la ligne vers Saint-Pétersbourg est suspendue depuis 2022.',
+        'L\'eau du robinet est parmi les plus pures au monde — la plupart des cafés remplissent la gamelle sans qu\'on le demande.',
+      ],
+      en: [
+        'Helsinki-Vantaa Airport (HEL) is 30 min by train I or P (€4.10) from the centre; dogs travel free in carriers or muzzles.',
+        'Best seasons: May-September for off-leash swims, February for snow walks on frozen sea ice off Lauttasaari.',
+        '24/7 emergency vet: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki — +358 2 941 57373.',
+        'Helsinki Central Station connects to Tallinn by Tallink ferry (2 h, dogs in cabins only) and to St Petersburg suspended since 2022.',
+        'Tap water is among the cleanest in the world — bowls are refilled without asking in most cafés.',
+      ],
+      es: [
+        'El aeropuerto de Helsinki-Vantaa (HEL) está a 30 min del centro en los trenes I o P (4,10 €); los perros viajan gratis en transportín o con bozal.',
+        'Mejores temporadas: mayo-septiembre para baños sin correa, febrero para caminar sobre el hielo marino frente a Lauttasaari.',
+        'Urgencia veterinaria 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki — +358 2 941 57373.',
+        'La Estación Central conecta con Tallin en ferry Tallink (2 h, perros solo en camarote); la línea a San Petersburgo está suspendida desde 2022.',
+        'El agua del grifo es de las más puras del mundo — en casi todos los cafés rellenan el cuenco sin pedirlo.',
+      ],
+    },
+  },
+
+  oslo: {
+    history: {
+      fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés — Torshovdalen, Sofienbergparken, St. Hanshaugen — et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,
+      en: `Oslo was founded around 1040 at the head of its fjord, rebuilt by Christian IV after the 1624 fire as Christiania, and renamed Oslo in 1925. The capital of roughly 710,000 residents is wrapped by the Marka forest belt and has one of Europe's highest dog-ownership rates, with about 75,000 registered dogs inside the municipality. Norwegians treat dogs as family: the nationwide båndtvang law requires leashes from 1 April to 20 August to protect wildlife and grazing sheep, but outside that window the Nordmarka trails become a paradise of off-leash hiking. Oslo has dozens of hundeparker (fenced dog parks) — Torshovdalen, Sofienbergparken and St. Hanshaugen among the best — and dogs ride trams, metro, buses and ferries for a child-fare ticket. Cafés, hotels and even some museums welcome them; cleaning up after your dog is strictly enforced with 1 600 NOK fines.`,
+      es: `Oslo nació hacia 1040 en el fondo de su fiordo, fue reconstruida por Cristián IV tras el incendio de 1624 bajo el nombre de Christiania y recuperó el actual en 1925. La capital, de unos 710.000 habitantes, está rodeada por el cinturón forestal de Marka y registra una de las tasas de perros por habitante más altas de Europa: unos 75.000 censados. Los noruegos tratan al perro como familia: la ley båndtvang obliga a llevarlo atado del 1 de abril al 20 de agosto para proteger fauna y ovejas, pero fuera de esas fechas los senderos de Nordmarka se convierten en paraíso sin correa. Hay decenas de hundeparker vallados — Torshovdalen, Sofienbergparken, St. Hanshaugen — y los perros pagan tarifa infantil en tranvía, metro, autobús y ferry. Cafés, hoteles y algunos museos los admiten; no recoger sus deposiciones cuesta 1.600 NOK de multa.`,
+    },
+    sights: [
+      {
+        name: 'Nordmarka Forest',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Réserve forestière de 430 km² accessible directement par la ligne 1 du métro jusqu\'à Frognerseteren. Hors période de båndtvang (21 août-31 mars), les chiens y courent sans laisse sur des centaines de kilomètres de sentiers, et l\'hiver les pistes balisées intègrent des couloirs pour mushers et skijoring.',
+          en: 'A 430 km² forest reserve reached directly by metro line 1 to Frognerseteren. Outside båndtvang season (21 August-31 March) dogs can roam off-leash on hundreds of kilometres of trails, and in winter marked ski tracks include parallel lanes for mushers and skijoring.',
+          es: 'Reserva forestal de 430 km² accesible directamente por la línea 1 del metro hasta Frognerseteren. Fuera de la temporada de båndtvang (21 agosto-31 marzo), los perros corren sueltos por cientos de kilómetros de senderos, y en invierno las pistas señalizadas cuentan con carriles para mushers y skijoring.',
+        },
+      },
+      {
+        name: 'Ekebergparken Sculpture Park',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: 'Parc de 25 hectares perché au-dessus du fjord, jalonné de 45 sculptures signées Rodin, Dalí ou Louise Bourgeois. Les chiens en laisse sont admis sur tous les chemins, et le belvédère près de la Vénus de Dalí offre la vue de carte postale sur la ville.',
+          en: 'A 25-hectare hillside park above the fjord with 45 sculptures by Rodin, Dalí and Louise Bourgeois. Dogs on leash are welcome on all trails, and the viewpoint by Salvador Dalí\'s Venus gives the classic skyline photo.',
+          es: 'Parque de 25 hectáreas en una ladera sobre el fiordo con 45 esculturas de Rodin, Dalí o Louise Bourgeois. Los perros con correa son bienvenidos en todos los senderos, y el mirador junto a la Venus de Dalí regala la foto clásica del skyline.',
+        },
+      },
+      {
+        name: 'Sørenga Seawater Pool & Promenade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Promenade portuaire du quartier de Bjørvika avec sa piscine flottante d\'eau de mer. Les chiens n\'ont pas accès au bassin, mais les marches de Sørengkaia juste à côté leur permettent de patauger dans le fjord ; l\'été, toute la promenade devient un défilé animé de badauds et de chiens.',
+          en: 'A harbour-front boardwalk in the Bjørvika district with a floating seawater pool. Dogs cannot enter the swim platform but the adjacent Sørengkaia steps let them paddle in the fjord, and the whole promenade is a lively people-and-dog parade in summer.',
+          es: 'Paseo portuario del barrio de Bjørvika con una piscina flotante de agua de mar. Los perros no pueden subir al solárium, pero las escaleras contiguas de Sørengkaia les permiten chapotear en el fiordo; en verano el paseo es un desfile animado de gente y canes.',
+        },
+      },
+      {
+        name: 'Vigeland Sculpture Park (Frognerparken)',
+        emoji: '🗽',
+        petFriendly: true,
+        desc: {
+          fr: 'Plus grand parc au monde consacré à un seul sculpteur, avec 212 bronzes et granits de Gustav Vigeland répartis sur les 45 hectares du Frognerparken. Les chiens en laisse sont admis partout à l\'extérieur, et les pelouses au sud du Monolithe accueillent volontiers les pique-niques accompagnés.',
+          en: 'The world\'s largest sculpture park by a single artist, with 212 Gustav Vigeland bronzes and granites set in the 45-hectare Frognerparken. Dogs on leash are welcome everywhere outdoors, and the lawns south of the Monolith are a popular picnic spot with them.',
+          es: 'El mayor parque escultórico del mundo dedicado a un solo artista, con 212 bronces y granitos de Gustav Vigeland en las 45 hectáreas de Frognerparken. Los perros con correa son bienvenidos en todo el exterior, y los céspedes al sur del Monolito son un clásico para merendar con ellos.',
+        },
+      },
+      {
+        name: 'Akershus Fortress',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Forteresse médiévale commencée vers 1290 et encore siège militaire actif, perchée au-dessus du fjord d\'Oslo. Les chiens en laisse peuvent parcourir gratuitement remparts, cours et promenade du front de mer, mais pas le musée du château.',
+          en: 'A medieval fortress begun around 1290 and still an active military headquarters, perched over the Oslofjord. Leashed dogs may walk the ramparts, courtyards and waterfront promenade free of charge, though not inside the castle museum.',
+          es: 'Fortaleza medieval iniciada hacia 1290 y todavía cuartel general militar, asomada al fiordo de Oslo. Los perros con correa pueden recorrer gratis murallas, patios y paseo marítimo, aunque no el museo del castillo.',
+        },
+      },
+      {
+        name: 'Grünerløkka & Sofienbergparken',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Quartier hipster devenu familial, jalonné de friperies, cafés vegan et librairies indépendantes. Son cœur vert, Sofienbergparken, possède un vaste enclos sans laisse clôturé qui se remplit chaque soir de chiens du quartier et de leurs maîtres.',
+          en: 'Oslo\'s hipster-turned-family district lined with vintage shops, vegan cafés and independent bookstores. Its green heart, Sofienbergparken, includes a large fenced off-leash enclosure that fills up every evening with local dogs and their owners.',
+          es: 'El barrio hípster reconvertido en familiar, con tiendas vintage, cafés veganos y librerías independientes. Su pulmón verde, Sofienbergparken, tiene un amplio recinto vallado sin correa que se llena cada tarde de perros del vecindario.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Achetez un billet Ruter tarif enfant pour votre chien dans le métro, le tram et le bus — le ferry de Bygdøy et des îles est gratuit pour lui.',
+        'Respectez la båndtvang : du 1er avril au 20 août la laisse est obligatoire hors enclos, Nordmarka comprise, sous peine de 2 000 NOK d\'amende.',
+        'L\'urgence vétérinaire 24h/24 est AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00) ; gardez le passeport européen sous la main.',
+        'Prévoyez des sacs : Oslo verbalise 1 600 NOK les crottes non ramassées et les gardes patrouillent activement dans les parcs centraux.',
+        'En hiver, cirez les coussinets avant la sortie — Oslo épand un mélange de gravier et de saumure qui fend les pattes à -15 °C.',
+      ],
+      en: [
+        'Buy a child-fare Ruter ticket for your dog on metro, tram and bus — no ticket needed on ferries to Bygdøy or the islands.',
+        'Respect båndtvang: from 1 April to 20 August every dog must be leashed outside fenced parks, including in Nordmarka, with fines up to 2 000 NOK.',
+        'The 24/7 emergency vet is AniCura Oslo Dyresykehus at Ensjøveien 14 (+47 22 68 35 00); have your pet passport ready.',
+        'Carry waste bags: Oslo fines 1 600 NOK for un-scooped dog poo and park rangers actively patrol the central parks.',
+        'In winter, wax your dog\'s paws before walks — Oslo uses mixed gravel and brine that cracks pads in -15 °C weather.',
+      ],
+      es: [
+        'Compra un billete Ruter de tarifa infantil para tu perro en metro, tranvía y autobús — en los ferris a Bygdøy y las islas viaja gratis.',
+        'Respeta la båndtvang: del 1 de abril al 20 de agosto la correa es obligatoria fuera de los recintos vallados, Nordmarka incluida, con multas de hasta 2.000 NOK.',
+        'La urgencia veterinaria 24 h es AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00); ten a mano el pasaporte europeo.',
+        'Lleva bolsas: Oslo multa con 1.600 NOK las deposiciones no recogidas y los guardas patrullan los parques céntricos.',
+        'En invierno aplica cera en las almohadillas antes de salir — Oslo echa una mezcla de grava y salmuera que agrieta las patas a -15 °C.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'aéroport Oslo Gardermoen (OSL) est à 19 min du centre par le Flytoget ; les chiens voyagent gratuitement en caisse ou avec un billet à 50 %.',
+        'Meilleures saisons : septembre-octobre pour les randonnées sans laisse, février-mars pour le skijoring et les lacs gelés.',
+        'Urgence vétérinaire 24h/24 : AniCura Dyresykehus, Ensjøveien 14 — +47 22 68 35 00.',
+        'Le ferry de Bygdøy (ligne B9, avril-octobre) au départ de Rådhusbrygge 3 embarque les chiens gratuitement et dessert musées et plages en 15 min.',
+        'L\'eau du robinet vient directement du lac Maridalsvannet via Oset — parfaitement potable partout, inutile d\'acheter de l\'eau en bouteille.',
+      ],
+      en: [
+        'Oslo Lufthavn Gardermoen (OSL) is 19 min from the centre on the Flytoget airport express; dogs travel free in carriers or with a 50 % ticket.',
+        'Best seasons: September-October for crisp off-leash forest hikes, February-March for skijoring and frozen-lake walks.',
+        '24/7 emergency vet: AniCura Dyresykehus, Ensjøveien 14 — +47 22 68 35 00.',
+        'The Bygdøy ferry (line B9, April-October) from Rådhusbrygge 3 lets dogs board free and leads to museums and beaches in 15 minutes.',
+        'Tap water from Oset comes straight from Lake Maridalsvannet and is drinkable everywhere — no need for bottled water.',
+      ],
+      es: [
+        'El aeropuerto de Oslo Gardermoen (OSL) está a 19 min del centro en el tren Flytoget; los perros viajan gratis en transportín o con billete al 50 %.',
+        'Mejores temporadas: septiembre-octubre para rutas sin correa, febrero-marzo para skijoring y lagos helados.',
+        'Urgencia veterinaria 24 h: AniCura Dyresykehus, Ensjøveien 14 — +47 22 68 35 00.',
+        'El ferry de Bygdøy (línea B9, abril-octubre) sale de Rådhusbrygge 3, admite perros gratis y llega a museos y playas en 15 min.',
+        'El agua del grifo procede del lago Maridalsvannet vía Oset y es potable en toda la ciudad — no hace falta comprar agua embotellada.',
+      ],
+    },
+  },
+
+  reykjavik: {
+    history: {
+      fr: `Reykjavik — la « baie fumante » — remonte à Ingólfur Arnarson vers 874, mais n'obtint sa charte commerciale qu'en 1786 et ne devint capitale nationale qu'en 1944. L'Islande entretient un rapport unique avec les chiens : de 1924 à 1984, leur possession fut purement interdite en ville pour lutter contre l'échinococcose. Aujourd'hui, environ 4 000 chiens vivent dans l'agglomération de 240 000 habitants, chacun devant détenir une licence municipale et un vermifuge annuel. Les règles restent plus strictes qu'ailleurs en Scandinavie : laisse obligatoire dans tout l'espace public, et plusieurs quartiers interdisent encore leur entrée dans commerces et restaurants. En compensation, la ville a aménagé quatre excellents hundasvæði clôturés, le plus grand à Geirsnefstangi, une presqu'île entière où les chiens nagent dans l'Atlantique et courent libres toute l'année.`,
+      en: `Reykjavik — 'Smoky Bay' — traces its origin to Ingólfur Arnarson around 874, yet only in 1786 did it receive a trading charter, and it became a national capital only in 1944. Iceland's love-hate relationship with dogs is unique: from 1924 until 1984 dog ownership was outright banned in the city to fight echinococcosis tapeworm. Today around 4 000 dogs live in the capital region of 240 000 inhabitants, each requiring a municipal licence and annual deworming. Rules remain stricter than anywhere else in the Nordics: dogs must be leashed in all public spaces, and several neighbourhoods still ban them from shops and restaurants. Offsetting this, Reykjavik has invested in four excellent fenced hundasvæði (dog zones), the largest at Geirsnefstangi, a whole peninsula where dogs swim in the Atlantic and run free year-round.`,
+      es: `Reykjavik — la «bahía humeante» — se remonta a Ingólfur Arnarson hacia 874, pero no recibió carta comercial hasta 1786 y solo en 1944 se convirtió en capital. Islandia mantiene una relación única con el perro: de 1924 a 1984 estuvo prohibido tenerlos en la ciudad para combatir la equinococosis. Hoy unos 4.000 perros viven en el área metropolitana de 240.000 habitantes, con licencia municipal y desparasitación anual obligatorias. Las normas siguen siendo más severas que en el resto de los países nórdicos: correa en todo espacio público y varios barrios aún prohíben la entrada en comercios y restaurantes. A cambio, la ciudad ha creado cuatro excelentes hundasvæði vallados, el mayor en Geirsnefstangi, una península entera donde los perros nadan en el Atlántico y corren libres todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Geirsnefstangi Dog Peninsula',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: 'Presqu\'île d\'un kilomètre dans la baie d\'Elliðaárvogur, intégralement dédiée aux chiens sans laisse — le plus grand hundasvæði d\'Islande. Sentiers de gravier, rivage de sable noir et bains atlantiques en font le rendez-vous quotidien de la communauté canine locale.',
+          en: 'A 1 km-long peninsula in Elliðaárvogur bay dedicated entirely to off-leash dogs — the largest hundasvæði in Iceland. Gravel paths, black-sand shore and Atlantic swimming make it the daily gathering place of Reykjavik\'s dog community.',
+          es: 'Península de un kilómetro en la bahía de Elliðaárvogur, dedicada por completo a perros sin correa — el mayor hundasvæði de Islandia. Senderos de grava, orilla de arena negra y baños atlánticos la convierten en el punto de encuentro diario de la comunidad canina.',
+        },
+      },
+      {
+        name: 'Tjörnin Pond & City Hall',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: 'Le petit lac du centre est réputé pour ses 40 espèces d\'oiseaux, raison pour laquelle les chiens doivent y rester strictement en laisse. Les bancs du côté est et le jardin de sculptures derrière l\'hôtel de ville offrent de jolies balades courtes.',
+          en: 'The small central lake is famous for its 40+ bird species, which is exactly why dogs must remain leashed on the paths around it. The benches on the east side and the sculpture garden behind City Hall make for short, easy walks with a dog.',
+          es: 'El pequeño lago central es famoso por sus más de 40 especies de aves, motivo por el que los perros deben ir atados en todo su perímetro. Los bancos del lado este y el jardín de esculturas tras el Ayuntamiento son perfectos para paseos cortos.',
+        },
+      },
+      {
+        name: 'Hallgrímskirkja',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: 'Église de 74 mètres signée Guðjón Samúelsson, inspirée des orgues basaltiques, achevée en 1986 et emblème de Reykjavik. Les chiens ne sont admis ni à l\'intérieur ni dans l\'ascenseur, mais les pelouses autour et la statue de Leif Eriksson font une jolie halte photo.',
+          en: 'Guðjón Samúelsson\'s 74-metre basalt-inspired church of 1986 is Reykjavik\'s icon. Dogs are not allowed inside the church or the tower lift, but the surrounding lawns and the Leif Eriksson statue make a fine photo stop on leash.',
+          es: 'Iglesia de 74 metros inspirada en las columnas basálticas, obra de Guðjón Samúelsson concluida en 1986 y símbolo de Reykjavik. Los perros no pueden entrar ni subir al ascensor, pero los céspedes y la estatua de Leif Eriksson son una bonita parada con correa.',
+        },
+      },
+      {
+        name: 'Grótta Lighthouse & Tidal Nature Reserve',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: 'Phare blanc de 1947 à la pointe de la presqu\'île de Seltjarnarnes, accessible à pied à marée basse. La réserve ferme du 1er mai au 15 juillet pour la nidification, mais le reste de l\'année c\'est le meilleur point d\'observation des aurores en compagnie d\'un chien.',
+          en: 'A white 1947 lighthouse at the tip of the Seltjarnarnes peninsula, reachable on foot at low tide. From 1 May to 15 July the reserve closes for bird nesting, but the rest of the year it offers the best northern-lights-with-dog viewpoint in town.',
+          es: 'Faro blanco de 1947 en la punta de la península de Seltjarnarnes, al que se accede a pie con marea baja. La reserva cierra del 1 de mayo al 15 de julio por la nidificación, pero el resto del año ofrece el mejor mirador de auroras con perro de la ciudad.',
+        },
+      },
+      {
+        name: 'Laugardalur Valley',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Plus grand parc de Reykjavik, aménagé autour des sources chaudes qui servaient jadis à laver le linge de la ville ; on y trouve jardin botanique, mini-zoo et piscines géothermales. Une aire canine clôturée occupe la lisière est, près du stade Laugardalsvöllur.',
+          en: 'Reykjavik\'s largest park, built around the hot springs that once washed the city\'s laundry, now home to the botanical garden, family zoo and geothermal pools. A fenced dog area sits at the valley\'s eastern edge by the Laugardalsvöllur stadium.',
+          es: 'El mayor parque de Reykjavik, creado en torno a las fuentes termales que antaño lavaban la ropa de la ciudad, con jardín botánico, mini-zoo y piscinas geotérmicas. En el extremo oriental, junto al estadio Laugardalsvöllur, hay un recinto canino vallado.',
+        },
+      },
+      {
+        name: 'Old Harbour & Grandi District',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancien port de pêche reconverti en quartier d\'art avec galeries, le centre Marshall House, les glaces Valdís et l\'attraction FlyOver Iceland. Les chiens en laisse sont admis sur tout le front de mer et les terrasses extérieures de la Harpa.',
+          en: 'Former fishing docks reinvented with galleries, the Marshall House art centre, Valdís ice cream and the FlyOver Iceland attraction. Dogs on leash are welcome along the whole waterfront and on the Harpa concert hall\'s outdoor terraces.',
+          es: 'Antiguo puerto pesquero reconvertido con galerías, el centro de arte Marshall House, los helados Valdís y la atracción FlyOver Iceland. Los perros con correa son bienvenidos en todo el paseo marítimo y en las terrazas exteriores de la Harpa.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Importer un chien en Islande exige un permis MAST demandé plus de 30 jours à l\'avance et une quarantaine obligatoire de 14 jours à Keflavík.',
+        'À Reykjavik, la laisse est obligatoire partout dans l\'espace public — seuls les quatre hundasvæði officiels autorisent la course libre.',
+        'Le bus urbain Strætó accepte les chiens tenus en laisse au tarif enfant, uniquement hors heures de pointe (après 9h et avant 15h en semaine).',
+        'Urgence vétérinaire 24h/24 : Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887) — seule clinique de garde de la capitale.',
+        'Ramassez avec les sacs biodégradables gratuits distribués à l\'entrée de chaque hundasvæði ; l\'amende peut atteindre 30 000 ISK.',
+      ],
+      en: [
+        'Bringing a dog to Iceland requires an import permit from MAST applied for 30+ days ahead and a mandatory 14-day quarantine in Keflavík.',
+        'Within Reykjavik, dogs must be leashed everywhere in public — only the four official hundasvæði allow off-leash running.',
+        'The Strætó city bus lets a leashed, well-behaved dog board with a child fare, but only off-peak (after 09:00 and before 15:00 weekdays).',
+        '24/7 emergency vet: Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887) — the only after-hours clinic in the capital region.',
+        'Pick up waste with Reykjavik\'s free biodegradable poop bags dispensed at every hundasvæði entrance; fines for non-compliance reach 30 000 ISK.',
+      ],
+      es: [
+        'Importar un perro a Islandia exige permiso de MAST solicitado con más de 30 días de antelación y cuarentena obligatoria de 14 días en Keflavík.',
+        'En Reykjavik la correa es obligatoria en todo espacio público — solo los cuatro hundasvæði oficiales permiten soltarlo.',
+        'El autobús urbano Strætó admite perros atados con tarifa infantil, pero solo fuera de hora punta (tras las 9:00 y antes de las 15:00 entre semana).',
+        'Urgencia veterinaria 24 h: Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887) — única clínica de guardia de la capital.',
+        'Recoge con las bolsas biodegradables gratuitas de cada entrada de hundasvæði; la multa puede llegar a 30.000 ISK.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Keflavík International (KEF) est à 50 km à l\'ouest ; le Flybus met 45 min, les chiens voyagent en soute pour 2 500 ISK en caisse homologuée IATA.',
+        'Meilleures saisons : juin-août pour les 24 heures de jour, fin septembre pour les aurores boréales à Grótta.',
+        'Urgence vétérinaire 24h/24 : Dýraspítalinn í Víðidal, Víðidalur — +354 587 8887.',
+        'Il n\'existe aucun train en Islande ; le réseau Strætó dessert la capitale et les villes de la route circulaire, et la location de voiture s\'impose pour les routes volcaniques.',
+        'L\'eau du robinet est de l\'eau glaciaire non filtrée de Heiðmörk — parfaite pour remplir la gamelle à n\'importe quelle fontaine de la ville.',
+      ],
+      en: [
+        'Keflavík International (KEF) is 50 km west; the Flybus takes 45 min, dogs travel in the hold for a 2 500 ISK fee in an IATA-approved crate.',
+        'Best seasons: June-August for 24-hour daylight walks, late September for northern-lights viewing at Grótta.',
+        '24/7 emergency vet: Dýraspítalinn í Víðidal, Víðidalur — +354 587 8887.',
+        'No trains exist in Iceland; the Strætó bus network covers the capital and ring-road towns, and rental cars must be booked for volcanic-road trips.',
+        'Reykjavik tap water is unfiltered glacier water from Heiðmörk — safe to refill a dog bowl from any fountain in the city.',
+      ],
+      es: [
+        'Keflavík International (KEF) está a 50 km al oeste; el Flybus tarda 45 min y los perros viajan en bodega por 2.500 ISK en transportín homologado IATA.',
+        'Mejores temporadas: junio-agosto para paseos con 24 horas de luz, finales de septiembre para auroras boreales en Grótta.',
+        'Urgencia veterinaria 24 h: Dýraspítalinn í Víðidal, Víðidalur — +354 587 8887.',
+        'No existen trenes en Islandia; los autobuses Strætó cubren la capital y los pueblos de la carretera de circunvalación, y el coche de alquiler es imprescindible para rutas volcánicas.',
+        'El agua del grifo es agua glaciar sin filtrar de Heiðmörk — apta para rellenar el cuenco en cualquier fuente de la ciudad.',
+      ],
+    },
+  },
+
+  riga: {
+    history: {
+      fr: `Fondée en 1201 par l'évêque Albert de Brême, Riga devint le plus grand port hanséatique de la Baltique orientale et compte aujourd'hui environ 605 000 habitants, avec quelque 40 000 chiens enregistrés. Sa vieille ville classée à l'UNESCO et son quartier Art nouveau, le plus vaste du monde, côtoient une culture canine profondément ancrée — la Riga Dog Show, l'une des plus grandes d'Europe, existe depuis 1975. La loi lettonne impose la laisse et la muselière pour les races dites dangereuses, et tout chien de plus de quatre mois doit porter une puce électronique et la médaille fiscale municipale. La ville entretient une douzaine de suņu laukumi clôturés, notamment à Mežaparks et Uzvaras, ainsi que plusieurs sentiers forestiers sur les îles de la Daugava où la laisse peut tomber hors période de nidification (avril-juillet).`,
+      en: `Founded in 1201 by Bishop Albert of Bremen, Riga grew into the largest Hanseatic port on the eastern Baltic and today counts roughly 605 000 residents, plus an estimated 40 000 registered dogs. Its UNESCO-listed Old Town and the world's most extensive Art Nouveau quarter define a skyline that Latvians share with a deeply ingrained dog culture — Riga Dog Show, one of Europe's largest, has run since 1975. Latvian law requires leashes and muzzles on dangerous breeds in public, and all dogs over four months must wear a microchip and municipal dog tax tag. The capital maintains a dozen fenced suņu laukumi (dog parks), notably in Mežaparks and Uzvaras Park, plus several forest trails on the Daugava islands where leashes can come off outside the April-July nesting season.`,
+      es: `Fundada en 1201 por el obispo Alberto de Bremen, Riga se convirtió en el mayor puerto hanseático del Báltico oriental y hoy suma unos 605.000 habitantes y cerca de 40.000 perros registrados. Su casco antiguo Patrimonio de la Humanidad y el barrio Art Nouveau más extenso del mundo conviven con una cultura canina muy arraigada — la Riga Dog Show, una de las mayores de Europa, se celebra desde 1975. La ley letona obliga a llevar correa y bozal a las razas consideradas peligrosas, y todo perro de más de cuatro meses debe portar microchip y la chapa fiscal municipal. La ciudad mantiene una docena de suņu laukumi vallados, sobre todo en Mežaparks y Uzvaras, además de varios senderos forestales en las islas del Daugava donde se puede soltar al perro fuera de la temporada de nidificación (abril-julio).`,
+    },
+    sights: [
+      {
+        name: 'Mežaparks',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Banlieue jardin centenaire articulée autour d\'un parc de pins avec lacs et scène plein air, et une aire canine clôturée d\'un hectare près de l\'entrée principale. Les sentiers forestiers au nord acceptent les chiens en laisse et éloignent vite du bruit de la ville.',
+          en: 'A century-old garden suburb around a pine-forested park with lakes, open-air stage and a dedicated 1-hectare fenced dog area near the main entrance. The forest trails further north allow leashed dogs and get you quickly away from city noise.',
+          es: 'Barrio jardín centenario en torno a un parque de pinos con lagos y escenario al aire libre, con un recinto canino vallado de una hectárea junto a la entrada principal. Los senderos forestales del norte admiten perros atados y alejan rápido del ruido urbano.',
+        },
+      },
+      {
+        name: 'Art Nouveau District (Alberta iela)',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Riga compte environ 800 façades Jugendstil, dont un tiers dans les rues Alberta et Elizabetes, signées Mikhaïl Eisenstein. Les trottoirs sont assez larges pour flâner au pas du chien en laisse et photographier chaque gargouille.',
+          en: 'Riga holds around 800 Jugendstil facades, a third of them on Alberta and Elizabetes streets, signed by Mikhail Eisenstein. The sidewalks are wide enough for a slow walk with a leashed dog and every gargoyle photo op.',
+          es: 'Riga conserva unas 800 fachadas Jugendstil, un tercio en las calles Alberta y Elizabetes, firmadas por Mijaíl Eisenstein. Las aceras son lo bastante anchas para pasear despacio con el perro con correa y fotografiar cada gárgola.',
+        },
+      },
+      {
+        name: 'Central Market (Centrāltirgus)',
+        emoji: '🥬',
+        petFriendly: false,
+        desc: {
+          fr: 'Cinq hangars à zeppelins reconvertis forment l\'un des plus grands marchés couverts d\'Europe, inauguré en 1930. Les règles d\'hygiène lettones interdisent les chiens à l\'intérieur, mais les étals extérieurs le long du quai de la Daugava acceptent les animaux en laisse et vendent d\'excellents poissons fumés à partager.',
+          en: 'Five repurposed Zeppelin hangars make up one of Europe\'s largest covered markets, opened in 1930. Latvian food-hygiene rules forbid dogs inside the pavilions, but the outdoor stalls by the Daugava embankment welcome leashed pets and sell smoked fish perfect to share.',
+          es: 'Cinco antiguos hangares de zepelín conforman uno de los mayores mercados cubiertos de Europa, inaugurado en 1930. Las normas letonas de higiene prohíben los perros dentro, pero los puestos exteriores junto al muelle del Daugava admiten animales con correa y venden pescado ahumado perfecto para compartir.',
+        },
+      },
+      {
+        name: 'Vērmanes Garden',
+        emoji: '🌹',
+        petFriendly: true,
+        desc: {
+          fr: 'Plus ancien parc public de Riga, inauguré en 1817, avec roseraie, tables d\'échecs et cinéma d\'été en plein air. Les chiens en laisse sont admis sur toutes les allées et la pelouse centrale autour de la fontaine se remplit les soirs d\'été.',
+          en: 'Riga\'s oldest public park, opened in 1817, with a rose garden, chess tables and a summer outdoor cinema. Leashed dogs are welcome on all paths and the central fountain lawn is a popular spot on summer evenings.',
+          es: 'El parque público más antiguo de Riga, abierto en 1817, con rosaleda, mesas de ajedrez y cine de verano al aire libre. Los perros con correa pueden circular por todos los paseos y el césped central junto a la fuente se llena las tardes de verano.',
+        },
+      },
+      {
+        name: 'Kīpsala Island Promenade',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Île aux maisons en bois reliée à la vieille ville par le pont haubané Vanšu, avec une promenade de 3 km le long de la Daugava face au skyline le plus photogénique de Riga. Joggeurs, cyclistes et chiens en laisse y sont plus nombreux que les voitures.',
+          en: 'A quiet wooden-house island linked to the Old Town by the Vanšu cable-stayed bridge, with a 3 km riverside promenade facing the most photogenic Riga skyline. Morning joggers, cyclists and leashed dogs outnumber cars here.',
+          es: 'Isla de casas de madera unida al casco antiguo por el puente atirantado Vanšu, con un paseo fluvial de 3 km frente al skyline más fotogénico de Riga. Corredores, ciclistas y perros con correa superan en número a los coches.',
+        },
+      },
+      {
+        name: 'Old Town & House of the Black Heads',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'Cœur médiéval classé à l\'UNESCO, reconstruit après la Seconde Guerre autour de la place de l\'hôtel de ville et de la Maison des Têtes noires de 1334. Les pavés chauffent fort l\'été : préférez l\'ombre des places Līvu et Doma, où chiens et cartes « chien + bière » abondent.',
+          en: 'The UNESCO-listed medieval core, rebuilt after WWII around Town Hall Square and the 1334 House of the Black Heads. The cobbles are hard on paws in summer heat, so stick to shady Līvu and Doma squares where dogs and dogs-and-beer menus abound.',
+          es: 'Núcleo medieval Patrimonio de la Humanidad, reconstruido tras la Segunda Guerra Mundial en torno a la plaza del Ayuntamiento y la Casa de los Cabezas Negras de 1334. Los adoquines arden en verano; mejor las sombreadas plazas Līvu y Doma, con abundantes cartas de «perro y cerveza».',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Tout chien de plus de quatre mois doit porter une puce et la médaille fiscale annuelle de Riga (environ 10 €) — contrôles ponctuels dans la vieille ville.',
+        'Les trams, trolleybus et bus Rīgas Satiksme acceptent les petits chiens en caisse gratuitement et les grands avec un billet réduit à 1 €, hors heures de pointe.',
+        'Les meilleures aires sans laisse sont les suņu laukumi clôturés de Mežaparks (près de Kokneses prospekts) et du parc Uzvaras, rive gauche.',
+        'Urgence vétérinaire 24h/24 : Dr Bomis Animal Hospital, Dzirnavu iela 62 (+371 67 279 000), central et anglophone.',
+        'Les pavés Art nouveau accumulent la chaleur — promenez avant 11h ou après 19h en juillet-août pour éviter les coussinets brûlés.',
+      ],
+      en: [
+        'Every dog over four months needs a microchip and the annual Riga dog tax tag (around €10) — inspectors sometimes check in Old Town.',
+        'Rīgas Satiksme trams, trolleybuses and buses take small dogs in carriers free and big dogs for a reduced €1 ticket, off-peak only.',
+        'The best off-leash spots are the fenced suņu laukumi at Mežaparks (near Kokneses prospekts) and Uzvaras Park on the left bank.',
+        '24/7 emergency vet: Dr Bomis Animal Hospital, Dzirnavu iela 62 (+371 67 279 000), central and English-speaking.',
+        'Latvian Art Nouveau cobblestones retain heat — walk before 11:00 or after 19:00 in July-August to avoid burnt paws.',
+      ],
+      es: [
+        'Todo perro mayor de cuatro meses necesita microchip y la chapa fiscal anual de Riga (unos 10 €) — hay controles ocasionales en el casco antiguo.',
+        'Los tranvías, trolebuses y autobuses de Rīgas Satiksme admiten perros pequeños en transportín gratis y grandes con billete reducido de 1 €, fuera de hora punta.',
+        'Los mejores recintos sin correa son los suņu laukumi vallados de Mežaparks (junto a Kokneses prospekts) y del parque Uzvaras, en la orilla izquierda.',
+        'Urgencia veterinaria 24 h: Dr Bomis Animal Hospital, Dzirnavu iela 62 (+371 67 279 000), céntrica y con inglés.',
+        'Los adoquines del Art Nouveau acumulan calor — pasea antes de las 11:00 o después de las 19:00 en julio-agosto para evitar quemaduras en las almohadillas.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'aéroport Riga International (RIX) est à 20 min du centre par le bus 22 (2 €) ; les chiens voyagent gratuitement en caisse, les grands muselés au tarif enfant.',
+        'Meilleures saisons : mai-juin pour l\'Art nouveau à 20 °C, janvier pour la Daugava gelée.',
+        'Urgence vétérinaire 24h/24 : Dr Bomis, Dzirnavu iela 62 — +371 67 279 000.',
+        'Le car Lux Express Tallinn-Riga-Vilnius (4h30 jusqu\'à Tallinn) accepte les petits chiens en caisse ; la future ligne Rail Baltica est prévue pour 2030.',
+        'L\'eau du robinet est potable mais très calcaire — certains chiens préfèrent l\'eau filtrée, facile à trouver dans les supermarchés Rimi ou Maxima.',
+      ],
+      en: [
+        'Riga International (RIX) is 20 min from the centre by bus 22 (€2); dogs travel free in carriers, bigger dogs with a muzzle and child fare.',
+        'Best seasons: May-June for Art Nouveau walks at 20 °C, January for frozen Daugava photos.',
+        '24/7 emergency vet: Dr Bomis, Dzirnavu iela 62 — +371 67 279 000.',
+        'The Tallinn-Riga-Vilnius Lux Express coach (4 h 30 to Tallinn) accepts small dogs in carriers; the new Rail Baltica line is due in 2030.',
+        'Tap water is safe but very hard — some dogs prefer filtered water, easy to find in any Rimi or Maxima supermarket.',
+      ],
+      es: [
+        'El aeropuerto Riga International (RIX) está a 20 min del centro en el autobús 22 (2 €); los perros viajan gratis en transportín y los grandes con bozal y tarifa infantil.',
+        'Mejores temporadas: mayo-junio para el Art Nouveau a 20 °C, enero para fotografiar el Daugava helado.',
+        'Urgencia veterinaria 24 h: Dr Bomis, Dzirnavu iela 62 — +371 67 279 000.',
+        'El autocar Lux Express Tallin-Riga-Vilna (4 h 30 hasta Tallin) admite perros pequeños en transportín; la nueva línea Rail Baltica se espera para 2030.',
+        'El agua del grifo es potable pero muy dura — a algunos perros les sienta mejor filtrada, fácil de encontrar en Rimi o Maxima.',
+      ],
+    },
+  },
+
+  tallinn: {
+    history: {
+      fr: `Tallinn apparaît dès 1154 sur une carte arabe et rejoint la Hanse en 1285, donnant naissance à l'un des ensembles médiévaux les mieux préservés d'Europe, classé à l'UNESCO en 1997. La capitale estonienne, peuplée d'environ 460 000 habitants, enregistre près de 30 000 chiens, chiffre en forte hausse depuis la suppression de la taxe canine locale en 2014. C'est sans doute la ville balte la plus accommodante pour les chiens : transports en commun gratuits pour les résidents (chiens inclus, muselés si grands), koerte jalutusväljak clôturés dans chaque quartier, et la tradition matinale de faire le tour des bastions de Toompea avec son chien. La loi estonienne exige la laisse en zone urbaine et la muselière pour les grandes races dans les transports, mais les contrôles sont plus souples que chez les voisins nordiques, à condition de ramasser.`,
+      en: `Tallinn first appears on an Arab map in 1154 and joined the Hanseatic League in 1285, making its Old Town one of the best-preserved medieval ensembles in Europe and a UNESCO site since 1997. The Estonian capital of about 460 000 inhabitants registers roughly 30 000 dogs, a figure that has grown sharply since the 2014 abolition of the local dog tax. Tallinn is arguably the most dog-easy city in the Baltics: all public transport is free for residents (dogs included, muzzled if large), fenced dog parks (koerte jalutusväljak) dot every district, and historic bastions like Toompea are walked with pets as a morning ritual. Estonian law requires leashes in built-up areas and muzzles for large breeds on transport, but enforcement is relaxed compared with Nordic neighbours — provided you scoop and stay polite.`,
+      es: `Tallin aparece ya en un mapa árabe de 1154 y entró en la Hansa en 1285, legando uno de los conjuntos medievales mejor conservados de Europa, Patrimonio de la Humanidad desde 1997. La capital estonia, de unos 460.000 habitantes, registra cerca de 30.000 perros, cifra que ha subido mucho desde que en 2014 se suprimió la tasa canina local. Es, quizá, la ciudad más cómoda del Báltico para viajar con perro: transporte público gratuito para los residentes (perros incluidos, con bozal si son grandes), koerte jalutusväljak vallados en cada barrio y el ritual matutino de recorrer los bastiones de Toompea con el animal. La ley obliga a llevar correa en zona urbana y bozal en el transporte para razas grandes, pero los controles son más laxos que en los países nórdicos, siempre que se recoja.`,
+    },
+    sights: [
+      {
+        name: 'Old Town & Toompea Hill',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Cité fortifiée du XIIIe siècle avec 1,9 km de remparts, ruelles pavées et le château rose de Toompea. Les chiens en laisse circulent partout à l\'extérieur, y compris sur les belvédères Kohtuotsa et Patkuli — seuls les églises et le Parlement restent interdits.',
+          en: 'A 13th-century walled city with 1.9 km of ramparts, cobbled lanes and the pink Toompea Castle. Dogs on leash can walk everywhere outdoors, including the Kohtuotsa and Patkuli viewing platforms — only the churches and the Parliament remain off-limits.',
+          es: 'Ciudad amurallada del siglo XIII con 1,9 km de murallas, callejuelas empedradas y el castillo rosa de Toompea. Los perros con correa pueden pasear por todo el exterior, incluidos los miradores Kohtuotsa y Patkuli — solo iglesias y Parlamento quedan vetados.',
+        },
+      },
+      {
+        name: 'Kadriorg Park & Palace Gardens',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: 'Résidence d\'été baroque voulue par Pierre le Grand en 1718, nichée dans un parc de 70 hectares avec étang aux cygnes, jardin japonais et allée des roses présidentielle. Les chiens en laisse circulent partout dehors, et le parc file jusqu\'à la mer à Pirita via une promenade ombragée de pins.',
+          en: 'Peter the Great\'s 1718 baroque summer residence sits in a 70-hectare park with swan pond, Japanese garden and the presidential rose alley. Leashed dogs roam everywhere outside, and the park runs straight to the sea at Pirita via a pine promenade.',
+          es: 'Residencia estival barroca mandada construir por Pedro el Grande en 1718, en un parque de 70 hectáreas con estanque de cisnes, jardín japonés y avenida presidencial de rosas. Los perros con correa circulan por todo el exterior, y el parque llega hasta el mar en Pirita por un paseo de pinos.',
+        },
+      },
+      {
+        name: 'Pirita Beach & Promenade',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'Plage balte de sable de 2 km, à 5 km de la vieille ville, avec une zone de baignade canine balisée à son extrémité est, au-delà du centre TOP Sport. Hors saison (octobre-avril), toute la plage devient de fait sans laisse.',
+          en: 'A 2 km Baltic sand beach 5 km from Old Town, with a marked dog-swimming zone at its eastern end, beyond the TOP Sport centre. Out of season (October-April) the whole beach is effectively off-leash.',
+          es: 'Playa báltica de arena de 2 km, a 5 km del casco antiguo, con una zona de baño canino señalizada en el extremo este, pasado el centro TOP Sport. Fuera de temporada (octubre-abril) toda la playa queda prácticamente libre de correa.',
+        },
+      },
+      {
+        name: 'Telliskivi Creative City',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Ancien dépôt ferroviaire soviétique devenu le quartier créatif le plus branché de Tallinn, avec street art, friperies, musée Fotografiska et plus de 20 restaurants. La plupart des cafés — F-hoone, Peatus, Kivi Paber Käärid — accueillent ouvertement les chiens à l\'intérieur avec gamelle.',
+          en: 'A former Soviet railway depot reborn as Tallinn\'s coolest creative quarter, with street art, vintage shops, the Fotografiska museum and over 20 restaurants. Most cafés — F-hoone, Peatus and Kivi Paber Käärid — openly welcome dogs indoors with bowls.',
+          es: 'Antiguo depósito ferroviario soviético convertido en el barrio creativo más cool de Tallin, con arte urbano, tiendas vintage, el museo Fotografiska y más de 20 restaurantes. La mayoría de cafés — F-hoone, Peatus, Kivi Paber Käärid — admiten abiertamente perros dentro, con cuenco.',
+        },
+      },
+      {
+        name: 'Kalamaja & Patarei Seafront',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Quartier de maisons en bois pastel adossé à l\'ancienne forteresse-prison soviétique de Patarei. La promenade Culture Kilometre longe la mer sur 2 km jusqu\'au port d\'hydravions Lennusadam — entièrement accessible aux chiens en extérieur.',
+          en: 'A district of pastel wooden houses next to the Soviet-era Patarei sea fortress and prison. The Culture Kilometre boardwalk runs 2 km along the water to Lennusadam seaplane harbour — fully dog-friendly outdoors.',
+          es: 'Barrio de casas de madera en colores pastel junto a la antigua fortaleza-prisión soviética de Patarei. El paseo Culture Kilometre bordea el mar durante 2 km hasta el puerto de hidroaviones Lennusadam — totalmente abierto a perros al aire libre.',
+        },
+      },
+      {
+        name: 'Löwenruh Park Dog Area',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: 'Dans le quartier de Kristiine, ce parc romantique du XIXe siècle abrite l\'une des plus grandes zones sans laisse clôturées de Tallinn, équipée d\'agility, de robinets et de bancs ombragés. Le tram 4 s\'arrête à la porte.',
+          en: 'In the Kristiine district, this 19th-century romantic park contains one of Tallinn\'s largest fenced off-leash zones with agility equipment, water taps and shaded benches. Tram 4 stops at the gate.',
+          es: 'En el barrio de Kristiine, este parque romántico del siglo XIX alberga una de las mayores zonas sin correa valladas de Tallin, con agility, fuentes y bancos con sombra. El tranvía 4 para en la puerta.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les non-résidents paient 2 € par trajet pour leur chien dans les trams, trolleybus et bus ; muselière obligatoire pour les grandes races.',
+        'Les pavés de la vieille ville chauffent vite en juillet — préférez les rues Vene et Müürivahe à l\'ombre et vérifiez la température avec la main.',
+        'L\'Estonie applique le passeport européen ; la rage doit dater d\'au moins 21 jours et le traitement antitiques est indispensable d\'avril à octobre.',
+        'Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), à 5 min en tram 1 du centre.',
+        'Utilisez les distributeurs bleus gratuits de sacs à déjection dans chaque parc canin ; ne pas ramasser coûte 40 € d\'amende immédiate.',
+      ],
+      en: [
+        'Non-residents pay €2 per ride for a dog on trams, trolleybuses and buses; large breeds must wear a muzzle on board.',
+        'Old Town cobbles heat up fast in July — take Vene and Müürivahe streets in the shade, and check paw temperature with your hand.',
+        'Estonia uses EU pet-passport rules; rabies vaccination must be at least 21 days old and tick treatment is essential April-October.',
+        '24/7 emergency vet: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), 5 min by tram 1 from the centre.',
+        'Use the free blue poop-bag dispensers at every Tallinn dog park; not scooping incurs a €40 on-the-spot fine.',
+      ],
+      es: [
+        'Los no residentes pagan 2 € por trayecto para el perro en tranvía, trolebús y autobús; las razas grandes deben llevar bozal a bordo.',
+        'Los adoquines del casco antiguo se calientan rápido en julio — elige las calles Vene y Müürivahe, más umbrías, y comprueba la temperatura con la mano.',
+        'Estonia aplica las normas del pasaporte europeo; la rabia debe tener al menos 21 días y el tratamiento antigarrapatas es esencial de abril a octubre.',
+        'Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), a 5 min en tranvía 1 del centro.',
+        'Usa los dispensadores azules gratuitos de bolsas en cada parque canino; no recoger cuesta 40 € de multa inmediata.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'aéroport de Tallinn (TLL) est le plus proche d\'une capitale en Europe — 4 km, desservi par le tram 4 en 15 min ; les chiens paient le tarif normal.',
+        'Meilleures saisons : mai-septembre pour la baignade à Pirita, fin décembre pour la vieille ville sous la neige.',
+        'Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A — +372 600 2837.',
+        'Les ferries Tallink et Viking Line vers Helsinki (2 h) acceptent les chiens en cabine animaux à partir de 25 € aller-retour ; réservez en été.',
+        'L\'eau du robinet, issue du lac Ülemiste, est potable et fraîche toute l\'année — points de remplissage gratuits le long du Culture Kilometre.',
+      ],
+      en: [
+        'Tallinn Airport (TLL) is Europe\'s closest to a capital — 4 km, reachable by tram 4 in 15 min; dogs pay standard fare.',
+        'Best seasons: May-September for sea swims at Pirita, late December for snowy Old Town lanes.',
+        '24/7 emergency vet: Loomakliinik Well, Paldiski mnt 50A — +372 600 2837.',
+        'Tallink and Viking Line ferries to Helsinki (2 h) accept dogs in pet cabins from €25 return; book ahead in summer.',
+        'Tallinn tap water from Lake Ülemiste is safe and cold year-round — free refill points along the Culture Kilometre.',
+      ],
+      es: [
+        'El aeropuerto de Tallin (TLL) es el más cercano a una capital en Europa — 4 km, con el tranvía 4 en 15 min; los perros pagan tarifa normal.',
+        'Mejores temporadas: mayo-septiembre para bañarse en Pirita, finales de diciembre para el casco antiguo nevado.',
+        'Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A — +372 600 2837.',
+        'Los ferris Tallink y Viking Line a Helsinki (2 h) admiten perros en camarotes para mascotas desde 25 € ida y vuelta; reserva en verano.',
+        'El agua del grifo, del lago Ülemiste, es potable y fresca todo el año — puntos de recarga gratuitos por el Culture Kilometre.',
+      ],
+    },
+  },
+
 }
 
 export default cityContent

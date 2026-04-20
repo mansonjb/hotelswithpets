@@ -4882,6 +4882,702 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  madrid: {
+    history: {
+      fr: `Madrid est née d'une forteresse maure du IXe siècle appelée Mayrit avant de devenir la capitale de l'Espagne sous Philippe II en 1561, passant d'une modeste bourgade médiévale au cœur politique et culturel de l'empire des Habsbourg. La ville marie aujourd'hui la grandeur Bourbon à une énergie urbaine noctambule et frénétique. Madrid est une capitale remarquablement attentive aux chiens : la mairie recense plus de 300 000 chiens enregistrés et a multiplié les zones canines (zonas de esparcimiento canino) dans chaque quartier. Les matins de week-end, les allées du Retiro se remplissent de Galgos, Podencos et chiens adoptés via les vastes réseaux de sauvetage espagnols. Les cafés de Malasaña, Chueca et La Latina accueillent les chiens en terrasse, et l'immense Casa de Campo — cinq fois le Central Park — offre un vrai terrain de jeu aux toutous urbains.`,
+      en: `Madrid rose from a 9th-century Moorish fortress called Mayrit to become Spain's capital under Felipe II in 1561, transforming from a modest medieval town into the political and cultural heart of the Habsburg empire. Today it balances Bourbon grandeur with a frenetic, night-loving urban pulse. Madrid is a remarkably dog-aware capital: the Ayuntamiento counts over 300,000 registered dogs, and the city has invested heavily in dedicated dog runs (zonas de esparcimiento canino) across every district. Weekend mornings, Retiro's gravel paths fill with Galgos, Podencos, and rescue mutts from Spain's vast galgo-rehoming networks. Cafés in Malasaña, Chueca, and La Latina routinely welcome dogs on terraces, and the enormous Casa de Campo — five times the size of Central Park — gives urban hounds space to truly stretch their legs.`,
+      es: `Madrid surgió de una fortaleza musulmana del siglo IX llamada Mayrit y se convirtió en capital de España bajo Felipe II en 1561, pasando de ser una modesta villa medieval al corazón político y cultural del imperio de los Habsburgo. Hoy combina la grandeza borbónica con un pulso urbano frenético y nocturno. Madrid es una capital notablemente consciente de los perros: el Ayuntamiento registra más de 300.000 perros censados y ha invertido en zonas de esparcimiento canino en todos los distritos. Las mañanas de fin de semana, los senderos de El Retiro se llenan de Galgos, Podencos y mestizos rescatados de las extensas redes de adopción galgueras. Los cafés de Malasaña, Chueca y La Latina acogen perros en sus terrazas, y la enorme Casa de Campo — cinco veces el Central Park — ofrece espacio real para que los canes urbanos corran.`,
+    },
+    sights: [
+      {
+        name: 'Parque del Retiro',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc royal de 125 hectares accueille les chiens en laisse partout, avec des zones sans laisse près de la Puerta de Madrid et de la Puerta de Mariano de Cavia. Évitez la Roseraie et l\'intérieur du Palais de Cristal, où les animaux sont interdits.',
+          en: 'Madrid\'s 125-hectare royal park welcomes dogs on leash throughout, with designated off-leash areas near Puerta de Madrid and Puerta de Mariano de Cavia. Avoid the Rosaleda rose garden and interior of the Crystal Palace, where pets are restricted.',
+          es: 'El parque real de 125 hectáreas admite perros con correa en todo su recinto, con zonas de suelta cerca de Puerta de Madrid y Puerta de Mariano de Cavia. Evita La Rosaleda y el interior del Palacio de Cristal, donde las mascotas están restringidas.',
+        },
+      },
+      {
+        name: 'Casa de Campo',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Avec ses 1 700 hectares, le plus grand espace vert de Madrid est un paradis canin : kilomètres de sentiers, un lac et une large tolérance sans laisse loin des zones de pique-nique. Accessible par le métro ligne 10 (Lago) ou le téléphérique depuis le Parque del Oeste.',
+          en: 'At 1,700 hectares, Madrid\'s largest green space is a dog paradise with kilometers of trails, a lake, and broad off-leash tolerance away from picnic zones. Reachable by Metro line 10 (Lago) or the teleférico from Parque del Oeste.',
+          es: 'Con 1.700 hectáreas, el mayor espacio verde de Madrid es un paraíso canino: kilómetros de senderos, un lago y amplia tolerancia a la suelta lejos de las zonas de picnic. Llega en Metro línea 10 (Lago) o en el teleférico desde el Parque del Oeste.',
+        },
+      },
+      {
+        name: 'Plaza Mayor & Madrid de los Austrias',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'La place à arcades du XVIIe siècle et le quartier des Habsbourg sont parfaits pour une balade en laisse, avec d\'innombrables terrasses pet-friendly sur Cava Baja et Calle Mayor. Les pavés chauffent intensément en juillet-août — restez sous les porches ombragés.',
+          en: 'The 17th-century arcaded square and surrounding Habsburg quarter are ideal for leashed strolls, with countless dog-welcoming terraces on Cava Baja and Calle Mayor. Cobblestones can heat up fiercely in July-August — stick to shaded porticos.',
+          es: 'La plaza porticada del siglo XVII y el entorno del Madrid de los Austrias son ideales para pasear con correa, con infinidad de terrazas dog-friendly en Cava Baja y Calle Mayor. El adoquín se calienta muchísimo en julio-agosto: busca los soportales con sombra.',
+        },
+      },
+      {
+        name: 'Museo del Prado',
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          fr: 'Le grand musée espagnol interdit les chiens sauf ceux d\'assistance certifiés, mais le Paseo del Prado et l\'entrée des Jardines du Retiro se prêtent à une promenade avant la visite. Des services de dog-sitting opèrent sur Calle Alfonso XII.',
+          en: 'Spain\'s flagship museum prohibits dogs except certified assistance animals, but the surrounding Paseo del Prado and Jardines del Buen Retiro entrance are lovely for a pre-visit walk. Nearby dog-sitting services operate on Calle Alfonso XII.',
+          es: 'El museo estrella de España prohíbe perros salvo los de asistencia certificados, pero el Paseo del Prado y la entrada a los Jardines del Buen Retiro son perfectos para un paseo previo. Hay servicios de dog-sitting cerca, en Calle Alfonso XII.',
+        },
+      },
+      {
+        name: 'Templo de Debod',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: 'Ce temple égyptien authentique du IIe siècle avant J.-C., offert à l\'Espagne en 1968, trône dans le Parque del Oeste avec les plus beaux couchers de soleil de Madrid. Chiens acceptés en laisse dans le parc ; l\'intérieur du temple leur est interdit.',
+          en: 'This authentic 2nd-century BC Egyptian temple, gifted to Spain in 1968, sits in Parque del Oeste with Madrid\'s best sunset views. Dogs are welcome on leash in the surrounding park; entry inside the temple itself is not permitted.',
+          es: 'Este auténtico templo egipcio del siglo II a.C., donado a España en 1968, se alza en el Parque del Oeste con las mejores puestas de sol de Madrid. Se admiten perros con correa en el parque; el interior del templo no está permitido.',
+        },
+      },
+      {
+        name: 'Madrid Río',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Le corridor réhabilité du Manzanares s\'étire sur 10 km avec parcs à chiens, fontaines et le pont historique de Tolède. Ses allées linéaires ombragées et ses jeux d\'eau en font la meilleure promenade par temps chaud dans le centre.',
+          en: 'The reclaimed Manzanares riverside corridor stretches 10 km with dog parks, fountains, and the historic Puente de Toledo. Its shaded linear paths and water features make it the smartest hot-weather walk in central Madrid.',
+          es: 'El corredor recuperado del Manzanares se extiende 10 km con zonas caninas, fuentes y el histórico Puente de Toledo. Sus paseos lineales a la sombra y sus juegos de agua lo convierten en la mejor ruta en pleno calor madrileño.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le métro de Madrid accepte un chien moyen par voyageur en heures creuses (avant 7h30, 9h30-14h, après 19h en semaine ; toute la journée le week-end) — muselière et laisse obligatoires.',
+        'En juillet-août, le bitume dépasse 55°C l\'après-midi — promenez avant 10h ou après 21h, et testez l\'asphalte avec la main pendant 7 secondes avant d\'y poser les pattes.',
+        'Madrid impose la laisse dans les espaces publics ; les races classées PPP (Rottweiler, type Pitbull, etc.) doivent porter une muselière et le maître nécessite une licence municipale.',
+        'Les terrasses acceptant les chiens doivent afficher un autocollant officiel — à l\'intérieur des restaurants c\'est au patron, mais les bars à tapas de La Latina et Malasaña sont très accueillants.',
+        'Emportez toujours de l\'eau : Madrid compte plus de 180 fontaines publiques (beaucoup avec vasque à hauteur de chien) cartographiées sur l\'app \'Canes Madrid\'.',
+      ],
+      en: [
+        'Metro Madrid allows one medium dog per passenger off-peak (before 07:30, 09:30-14:00, after 19:00 weekdays; all day weekends) — dog must wear muzzle and leash.',
+        'July-August afternoon pavement can exceed 55°C — walk before 10:00 or after 21:00, and test asphalt with your hand for 7 seconds before setting paws down.',
+        'Madrid requires dogs in public areas to be leashed; PPP-classified breeds (Rottweiler, Pitbull-type, etc.) must wear a muzzle and handler needs a municipal license.',
+        'All terraces that accept dogs must display a sticker — inside restaurants it depends on the owner, but tapas bars in La Latina and Malasaña are overwhelmingly welcoming.',
+        'Carry water everywhere: Madrid has 180+ public fountains (many with dog-level basins) mapped on the \'Canes Madrid\' app.',
+      ],
+      es: [
+        'Metro de Madrid permite un perro mediano por viajero en horas valle (antes de 7:30, de 9:30 a 14:00, después de 19:00 entre semana; todo el día los fines de semana) — con bozal y correa.',
+        'En julio-agosto el asfalto supera los 55°C por la tarde — pasea antes de las 10:00 o después de las 21:00, y comprueba el suelo con la mano durante 7 segundos antes de que pise tu perro.',
+        'Madrid exige correa en espacios públicos; las razas consideradas PPP (Rottweiler, tipo Pitbull, etc.) deben llevar bozal y el dueño necesita licencia municipal.',
+        'Las terrazas que admiten perros deben exhibir pegatina oficial — dentro del local depende del dueño, pero los bares de tapas de La Latina y Malasaña son muy receptivos.',
+        'Lleva siempre agua: Madrid tiene más de 180 fuentes públicas (muchas con pilón a altura canina) mapeadas en la app \'Canes Madrid\'.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Madrid-Barajas (MAD) dispose d\'une zone de détente canine au terminal 4 ; les taxis acceptent les chiens en laisse à la discrétion du chauffeur.',
+        'Vétérinaires : cliniques d\'urgence 24h/24 dans chaque quartier — Hospital Veterinario Puchol (Chamartín) et Los Madrazo (Sol) sont les références centrales.',
+        'Alternative plage : la Dehesa de la Villa municipale et le Pinar de Chamartín offrent des balades forestières quand la ville surchauffe.',
+        'Transports : les bus (EMT) acceptent les petits chiens en caisse ; les Cercanías admettent les chiens jusqu\'à 10 kg en caisse, les plus grands tolérés en heures creuses avec muselière.',
+        'Fournitures : Kiwoko, Tiendanimal et la chaîne locale Masquepet ont des boutiques centrales.',
+      ],
+      en: [
+        'Airport: Madrid-Barajas (MAD) has a pet relief area in Terminal 4; taxis accept leashed dogs at the driver\'s discretion.',
+        'Vets: 24-hour emergency clinics in every district — Hospital Veterinario Puchol (Chamartín) and Los Madrazo (Sol) are central reference points.',
+        'Beach alternative: the municipal Dehesa de la Villa and Pinar de Chamartín offer forest walks when the city overheats.',
+        'Public transport: buses (EMT) allow small dogs in carriers; Cercanías regional trains accept dogs up to 10 kg in a carrier, larger dogs permitted off-peak with muzzle.',
+        'Pet supplies: Kiwoko, Tiendanimal, and local petshop chain Masquepet have central branches.',
+      ],
+      es: [
+        'Aeropuerto: Madrid-Barajas (MAD) tiene zona de esparcimiento canino en la T4; los taxis admiten perros con correa a criterio del conductor.',
+        'Veterinarios: clínicas de urgencias 24h en todos los distritos — Hospital Veterinario Puchol (Chamartín) y Los Madrazo (Sol) son referencias céntricas.',
+        'Alternativa a la playa: la Dehesa de la Villa y el Pinar de Chamartín ofrecen paseos de bosque cuando la ciudad es un horno.',
+        'Transporte: los autobuses (EMT) admiten perros pequeños en transportín; Cercanías acepta perros hasta 10 kg en transportín y los mayores en horas valle con bozal.',
+        'Suministros: Kiwoko, Tiendanimal y la cadena local Masquepet tienen tiendas por toda la ciudad.',
+      ],
+    },
+  },
+
+  malaga: {
+    history: {
+      fr: `Fondée par les Phéniciens vers 770 avant J.-C. sous le nom de Malaka, Málaga est l'une des plus anciennes villes d'Europe continuellement habitées, empilant l'héritage romain, maure et du Siècle d'Or espagnol sous son vernis ensoleillé de Costa del Sol. La ville natale de Picasso s'est réinventée en capitale culturelle avec les musées Pompidou, Thyssen et Picasso, tout en restant une station balnéaire dans l'âme. Son rapport aux chiens mêle tradition villageoise andalouse et culture expatriée moderne : podencos et galgos issus de refuges comme APAM côtoient les retrievers des vacanciers. La ville compte quatre plages canines officielles — la plus célèbre étant Playa del Peñón del Cuervo — et le climat subtropical permet la vie en terrasse avec chien toute l'année.`,
+      en: `Founded by Phoenicians around 770 BC as Malaka, Málaga is one of Europe's oldest continuously inhabited cities, layered with Roman, Moorish, and Spanish Golden Age heritage beneath its sunny Costa del Sol veneer. Picasso's birthplace has reinvented itself over the last two decades into a serious cultural capital with the Pompidou, Thyssen, and Picasso museums, while remaining a beach-town at heart. Málaga's relationship with dogs is shaped by Andalusian village tradition and modern Costa del Sol expat culture: podencos and galgos from rescue foundations like APAM share promenades with holidaymakers' retrievers. The city operates four officially recognized dog beaches — most famously Playa del Peñón del Cuervo — and the subtropical climate means outdoor café life with a dog at your feet is a year-round default.`,
+      es: `Fundada por los fenicios hacia el 770 a.C. como Malaka, Málaga es una de las ciudades europeas habitadas ininterrumpidamente más antiguas, superponiendo legado romano, andalusí y del Siglo de Oro bajo su barniz soleado de Costa del Sol. La ciudad natal de Picasso se ha reinventado en las últimas dos décadas como capital cultural con los museos Pompidou, Thyssen y Picasso, sin perder su esencia playera. Su relación con los perros combina tradición pueblerina andaluza y cultura expatriada moderna: podencos y galgos de protectoras como APAM comparten paseo marítimo con los retrievers de los turistas. La ciudad cuenta con cuatro playas caninas oficialmente reconocidas — la más famosa, la Playa del Peñón del Cuervo — y el clima subtropical permite vida en terraza con perro todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Alcazaba',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: 'Le palais-forteresse maure du XIe siècle interdit les chiens à l\'intérieur, mais les jardins en terrasse extérieurs et la place du Théâtre romain attenante sont accessibles en laisse. La montée depuis la Calle Alcazabilla offre des vues cartes postales qui valent le détour même sans entrer.',
+          en: 'The 11th-century Moorish palace-fortress forbids dogs inside, but its terraced exterior gardens and the adjacent Roman Theatre plaza are walkable on leash. The uphill approach from Calle Alcazabilla provides postcard views worth the detour even without entry.',
+          es: 'El palacio-fortaleza nazarí del siglo XI prohíbe perros en su interior, pero los jardines escalonados exteriores y la plaza del Teatro Romano adyacente se pasean con correa. La subida desde Calle Alcazabilla ofrece vistas de postal que merecen el rodeo aunque no entres.',
+        },
+      },
+      {
+        name: 'Playa del Peñón del Cuervo',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: 'La plage canine phare de Málaga se trouve à 6 km à l\'est du centre, une crique rocheuse distinctive avec zones ombragées de pins. Ouverte aux chiens toute l\'année avec rappel ; apportez de l\'eau, les fontaines sont rares en été.',
+          en: 'Málaga\'s flagship dog beach sits 6 km east of the centre, a distinctive rocky cove with shaded pine areas. It\'s open year-round for dogs with voice control; bring your own water as fountains are limited in summer.',
+          es: 'La playa canina de referencia en Málaga se ubica 6 km al este del centro, una cala rocosa característica con pinares para la sombra. Abierta a perros todo el año con control de voz; lleva agua, en verano las fuentes escasean.',
+        },
+      },
+      {
+        name: 'Parque de Málaga',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: 'La promenade botanique du XIXe siècle s\'étire sur 800 m entre le port et la vieille ville, ombragée de ficus et palmiers massifs. Chiens en laisse sur les allées centrales — parfait à midi quand la plage est trop chaude.',
+          en: 'The 19th-century botanical promenade stretches 800 m between port and old town, shaded by massive ficus and palms. Dogs are welcome on leash along the central paths — ideal for midday heat when the beach is too hot.',
+          es: 'El paseo botánico decimonónico recorre 800 m entre puerto y casco antiguo, a la sombra de ficus y palmeras enormes. Perros con correa en los paseos centrales — ideal al mediodía cuando la playa arde.',
+        },
+      },
+      {
+        name: 'Muelle Uno & Port',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'La promenade portuaire rénovée mêle shopping et vues marines avec de nombreuses terrasses pet-friendly. Le Paseo de la Farola menant au phare est le rituel du soir préféré des propriétaires de chiens locaux.',
+          en: 'The revamped harbour promenade blends shopping and sea views with abundant pet-friendly terraces. The Paseo de la Farola leading to the lighthouse is a favorite evening ritual for local dog-walkers.',
+          es: 'El remozado paseo del puerto combina tiendas y vistas al mar con numerosas terrazas pet-friendly. El Paseo de la Farola hasta el faro es el ritual vespertino favorito de los perreros locales.',
+        },
+      },
+      {
+        name: 'Castillo de Gibralfaro',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: 'Les chiens en laisse peuvent grimper le sentier ombragé dans la pinède jusqu\'au château du XIVe siècle (extérieurs seulement — l\'intérieur est restreint). Le belvédère au sommet domine les arènes et la côte méditerranéenne.',
+          en: 'Leashed dogs can climb the shaded pine-forested trail to the 14th-century hilltop castle (outdoor paths only — inside the fortress is restricted). The panoramic viewpoint at the top overlooks the bullring and Mediterranean coastline.',
+          es: 'Los perros con correa pueden subir el sendero sombreado entre pinos hasta el castillo del siglo XIV (solo exteriores — el interior está restringido). El mirador superior domina la plaza de toros y la costa mediterránea.',
+        },
+      },
+      {
+        name: 'Soho Málaga',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier street-art entre le port et l\'Alameda abrite d\'énormes fresques de D*Face, Obey et Boa Mistura, ponctué de cafés pet-friendly et de la place d\'entrée du Centre Pompidou. Parfait pour une balade photo en matinée fraîche.',
+          en: 'The street-art district between the port and Alameda hosts enormous murals by D*Face, Obey, and Boa Mistura, threaded with dog-welcoming cafés and the Centre Pompidou entrance plaza. Perfect for a cool-morning photo walk.',
+          es: 'El barrio del arte urbano entre el puerto y la Alameda alberga murales monumentales de D*Face, Obey y Boa Mistura, salpicado de cafés dog-friendly y la plaza de entrada al Centro Pompidou. Ideal para paseo fotográfico mañanero.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les plages municipales interdisent les chiens du 1er juin au 30 septembre entre 9h et 20h — hors de ces horaires, vous pouvez fréquenter la plupart des plages librement, mais vérifiez toujours le panneau à l\'entrée.',
+        'L\'été méditerranéen présente un vrai risque de coup de chaleur : évitez totalement les balades entre 12h et 18h de juillet à septembre ; les urgences vétérinaires de Málaga enregistrent un pic d\'admissions chaque août.',
+        'Le sable dépasse régulièrement 60°C l\'après-midi en été — même sur les plages canines, allez-y au lever du soleil ou après 19h, et rincez les pattes aussitôt, le sel méditerranéen irrite les coussinets.',
+        'Le métro de Málaga (deux lignes) accepte un chien par voyageur en caisse, ou les plus grands en laisse/muselière hors heures de pointe — gratuit en heures creuses.',
+        'Le centre historique est quasi entièrement piéton et dallé — confortable pour marcher, mais glissant mouillé.',
+      ],
+      en: [
+        'Municipal beaches ban dogs from June 1 to September 30 between 09:00 and 20:00 — outside this window you can walk most beaches freely, but always check the sign at the entry ramp.',
+        'Mediterranean summer means real danger of heatstroke: avoid 12:00-18:00 walks entirely July-September; the Málaga urgent-vet network logs a spike of canine heatstroke admissions every August.',
+        'Sand temperatures routinely exceed 60°C on summer afternoons — even on dog-friendly beaches, go at sunrise or after 19:00, and rinse paws immediately as Mediterranean salt irritates pads.',
+        'Metro Málaga (two lines) accepts one dog per passenger in a carrier, or larger dogs on leash/muzzle off-peak — free travel outside rush hours.',
+        'The historic centre is almost entirely pedestrianised and tile-paved — comfortable for walking, but slippery when wet.',
+      ],
+      es: [
+        'Las playas municipales prohíben perros del 1 de junio al 30 de septiembre entre las 9:00 y las 20:00 — fuera de ese horario puedes pisar la mayoría libremente, pero comprueba siempre el cartel en la rampa de acceso.',
+        'El verano mediterráneo es peligro real de golpe de calor: evita por completo los paseos entre 12:00 y 18:00 de julio a septiembre; las urgencias veterinarias de Málaga registran un pico de ingresos cada agosto.',
+        'La arena supera a menudo los 60°C por la tarde en verano — incluso en playas caninas, ve al amanecer o tras las 19:00, y aclara las patas inmediatamente, la sal mediterránea irrita las almohadillas.',
+        'El Metro de Málaga (dos líneas) admite un perro por viajero en transportín, o perros mayores con correa y bozal en horas valle — gratis fuera de horas punta.',
+        'El centro histórico es casi todo peatonal y enlosado — cómodo para caminar, pero resbaladizo con lluvia.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Málaga-Costa del Sol (AGP), quatrième d\'Espagne, avec zones de détente animalière à la sortie des arrivées T2 et T3.',
+        'Saison plage : la \'temporada alta\' juin-septembre impose des interdictions strictes sur la plupart des plages ; d\'octobre à mai, presque toutes sont de facto pet-friendly tôt le matin.',
+        'Vétérinaires : Hospital Veterinario Málaga (24h) sur Calle Demóstenes, et cliniques Vetersalud dans toute la ville.',
+        'Transports : les bus EMT acceptent les petits chiens en caisse ; la Cercanías C-1 vers Fuengirola admet les chiens en laisse en heures creuses.',
+        'Abreuvoirs : le Paseo Marítimo et le Parque de Málaga possèdent des fontaines à hauteur de chien à intervalles réguliers.',
+      ],
+      en: [
+        'Airport: Málaga-Costa del Sol (AGP) is Spain\'s fourth-busiest, with pet relief areas outside terminals T2 and T3 arrivals.',
+        'Beach season split: \'temporada alta\' June-September has strict dog bans on most beaches; October-May almost all beaches are de facto dog-friendly in early morning.',
+        'Vets: Hospital Veterinario Málaga (24h) on Calle Demóstenes, and Vetersalud chain clinics throughout the city.',
+        'Public transport: EMT city buses accept small dogs in carriers; the Cercanías C-1 line to Fuengirola allows leashed dogs off-peak.',
+        'Water top-up: the Paseo Marítimo and Parque de Málaga have dog-height drinking fountains at regular intervals.',
+      ],
+      es: [
+        'Aeropuerto: Málaga-Costa del Sol (AGP), cuarto de España, con zonas de esparcimiento animal a la salida de llegadas T2 y T3.',
+        'Temporada de playa: junio-septiembre impone prohibiciones estrictas en la mayoría de playas; de octubre a mayo casi todas son de facto pet-friendly a primera hora.',
+        'Veterinarios: Hospital Veterinario Málaga (24h) en Calle Demóstenes, y clínicas de la cadena Vetersalud por toda la ciudad.',
+        'Transporte: autobuses EMT admiten perros pequeños en transportín; la Cercanías C-1 a Fuengirola permite perros con correa en horas valle.',
+        'Puntos de agua: el Paseo Marítimo y el Parque de Málaga cuentan con fuentes a altura canina a intervalos regulares.',
+      ],
+    },
+  },
+
+  seville: {
+    history: {
+      fr: `L'identité de Séville s'est forgée dans l'empire : Hispalis sous Rome, Ishbiliya sous les Almohades, puis port atlantique exclusif des Indes espagnoles après 1503, elle a fait transiter l'argent du Nouveau Monde par sa Torre del Oro et vu naître Velázquez, Murillo et le flamenco. Il en résulte une ville de patios parfumés à l'oranger, d'azulejos mudéjars et de la plus grande cathédrale gothique au monde. Les Sévillans entretiennent un rapport très social avec leurs chiens, fruit d'un mode de vie place-et-patio où le perro de casa suit simplement la famille au bar à tapas. L'été bouleverse tout autour de l'ombre : chiens et maîtres vivent nocturnes de juin à septembre, les berges ombragées du Guadalquivir faisant office de salon extérieur.`,
+      en: `Seville's identity was forged by empire: as Hispalis under Rome, Ishbiliya under the Almohads, and the exclusive Atlantic port of the Spanish Indies after 1503, it funneled New World silver through its Torre del Oro and birthed Velázquez, Murillo, and flamenco. The result is a city of orange-scented patios, Mudéjar tilework, and the world's largest Gothic cathedral. Sevillanos have a deeply social relationship with their dogs, born of a plaza-and-patio lifestyle where the perro de casa simply joins the family at the tapas bar. Summer, however, recasts life entirely around shade: dogs and owners alike live nocturnally from June to September, with the Guadalquivir's shaded riverbanks acting as the city's outdoor living room.`,
+      es: `La identidad de Sevilla se forjó en el imperio: Hispalis romana, Ishbiliya almohade, y puerto atlántico exclusivo de las Indias tras 1503, canalizó la plata del Nuevo Mundo a través de su Torre del Oro y vio nacer a Velázquez, Murillo y el flamenco. El resultado es una ciudad de patios con aroma a azahar, azulejería mudéjar y la mayor catedral gótica del mundo. Los sevillanos mantienen una relación profundamente social con sus perros, fruto de una vida de plaza y patio donde el perro de casa simplemente acompaña a la familia al bar de tapas. El verano, sin embargo, reordena la vida en torno a la sombra: perros y dueños viven noctámbulos de junio a septiembre, y las orillas frondosas del Guadalquivir hacen de salón al aire libre de la ciudad.`,
+    },
+    sights: [
+      {
+        name: 'Parque de María Luisa',
+        emoji: '🌺',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc luxuriant de 40 hectares est le cœur canin de la ville, sillonné de fontaines, bassins et bancs en azulejos mauresques. Chiens en laisse partout sauf à l\'intérieur du monument de la Plaza de España.',
+          en: 'Seville\'s lush 40-hectare park is the dog-walking heart of the city, laced with fountains, ponds, and Moorish-style tiled benches. Leashed dogs welcome everywhere except inside the Plaza de España monument itself.',
+          es: 'El frondoso parque de 40 hectáreas es el corazón perruno de la ciudad, salpicado de fuentes, estanques y bancos de azulejos. Se admiten perros con correa en todos los rincones salvo dentro del propio monumento de la Plaza de España.',
+        },
+      },
+      {
+        name: 'Plaza de España',
+        emoji: '🎭',
+        petFriendly: true,
+        desc: {
+          fr: 'Le chef-d\'œuvre semi-circulaire de l\'Expo ibéro-américaine de 1929 est accessible aux chiens en laisse sur la promenade extérieure et les ponts — spot photo superbe. La location de barques sur le canal n\'est pas pet-friendly.',
+          en: 'The semicircular 1929 Ibero-American Expo masterpiece is accessible to leashed dogs on the outer promenade and bridge plazas — a superb photo stop. Rowboat rental on the canal is not pet-permitted.',
+          es: 'La obra maestra semicircular de la Expo Iberoamericana de 1929 es accesible a perros con correa en la galería exterior y los puentes — parada fotográfica excepcional. El alquiler de barcas en el canal no admite mascotas.',
+        },
+      },
+      {
+        name: 'Real Alcázar & Cathedral',
+        emoji: '🕌',
+        petFriendly: false,
+        desc: {
+          fr: 'Aucun des deux monuments UNESCO n\'accepte les animaux (sauf chiens d\'assistance), mais le Barrio de Santa Cruz tout autour est un labyrinthe de patios et terrasses pet-friendly. La Plaza del Triunfo entre les deux se visite en laisse.',
+          en: 'Neither UNESCO monument admits pets (except assistance dogs), but the surrounding Barrio de Santa Cruz is a labyrinth of dog-friendly patios and tapas terraces. Plaza del Triunfo outside both sites is leash-walkable.',
+          es: 'Ninguno de los dos monumentos UNESCO admite mascotas (salvo perros de asistencia), pero el Barrio de Santa Cruz que los rodea es un laberinto de patios y terrazas dog-friendly. La Plaza del Triunfo entre ambos se pasea con correa.',
+        },
+      },
+      {
+        name: 'Guadalquivir Riverside & Triana',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Le Paseo de Nuestra Señora de la O côté Triana est la balade canine du soir par excellence, avec ses bars d\'histoire flamenca débordant sur les quais. Traversez le pont Isabel II (1852) pour les vues iconiques sur la cathédrale au couchant.',
+          en: 'The Paseo de Nuestra Señora de la O on the Triana side is Seville\'s classic evening dog walk, with flamenco-history bars spilling onto the riverbank. Cross the 1852 Puente de Isabel II for iconic cathedral views at sunset.',
+          es: 'El Paseo de Nuestra Señora de la O, en Triana, es el paseo canino clásico del atardecer, con bares de solera flamenca que se vuelcan al río. Cruza el Puente de Isabel II (1852) para las vistas icónicas de la catedral al ocaso.',
+        },
+      },
+      {
+        name: 'Metropol Parasol (Las Setas)',
+        emoji: '🍄',
+        petFriendly: true,
+        desc: {
+          fr: 'La plus grande structure en bois au monde ombrage la Plaza de la Encarnación — refuge rare et frais en journée l\'été, chiens en laisse bienvenus en dessous. La passerelle sommitale est payante et interdite aux animaux.',
+          en: 'The world\'s largest wooden structure shades Plaza de la Encarnación — a rare cool daytime refuge in summer, with leashed dogs welcome underneath. The rooftop walkway requires a ticket and pets are not allowed up top.',
+          es: 'La mayor estructura de madera del mundo sombrea la Plaza de la Encarnación — un raro refugio fresco de día en verano, con perros con correa bienvenidos debajo. La pasarela superior es de pago y no admite mascotas.',
+        },
+      },
+      {
+        name: 'Parque del Alamillo',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Au nord du centre, le Parque del Alamillo est le plus grand espace vert de Séville, avec de vastes zones sans laisse où les locaux laissent courir leurs grands chiens avant la chaleur. Accessible à pied par le pont Alamillo de 1992.',
+          en: 'North of the centre, the Parque del Alamillo is Seville\'s largest green space and has generous off-leash zones where locals take big dogs to run before the heat sets in. Reachable on foot across the 1992 Alamillo Bridge.',
+          es: 'Al norte del centro, el Parque del Alamillo es el mayor espacio verde de Sevilla, con amplias zonas de suelta donde los locales dejan correr a perros grandes antes de que apriete el calor. Se llega a pie cruzando el Puente del Alamillo de 1992.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les températures estivales atteignent régulièrement 42-45°C de juin à septembre — vraiment dangereux pour les chiens ; promenez uniquement avant 8h ou après 22h, jamais sur pierre ou métal exposés.',
+        'Séville suit le règlement autonome de l\'Andalousie : laisse obligatoire partout en public ; les races PPP exigent muselière et licence ; les amendes sont activement appliquées au centre historique.',
+        'De nombreux patios historiques et restaurants à cour accueillent les petits chiens à la discrétion du patron — demandez toujours ; cherchez l\'autocollant vert \'Admitimos Mascotas\'.',
+        'Les berges du Guadalquivir comptent plusieurs zones canines ombragées (vers le Paseo de las Delicias) avec fontaines fonctionnelles — votre parcours d\'été par défaut.',
+        'Les calèches touristiques et les processions de la Semana Santa et de la Feria de Abril sont stressantes et bondées — évitez totalement le centre.',
+      ],
+      en: [
+        'Summer temperatures regularly hit 42-45°C June-September — this is genuinely dangerous for dogs; walk only before 08:00 or after 22:00, and never on stone/metal surfaces in sun.',
+        'Seville belongs to Andalucía\'s autonomous rules: dogs must be leashed everywhere public; PPP breeds require muzzle and owner license; fines are actively enforced in the historic centre.',
+        'Many historic patios and courtyard restaurants welcome small dogs at the owner\'s discretion — always ask; look for the green \'Admitimos Mascotas\' sticker.',
+        'The Guadalquivir riverbanks have several shaded dog-meet areas (around Paseo de las Delicias) with working water fountains — make this your default summer route.',
+        'Tourist horse-carriages and the Semana Santa and Feria de Abril processions are stressful — avoid the centre entirely during Holy Week and April fair.',
+      ],
+      es: [
+        'Las temperaturas veraniegas alcanzan habitualmente 42-45°C de junio a septiembre — realmente peligroso para los perros; pasea solo antes de las 8:00 o después de las 22:00, nunca sobre piedra o metal al sol.',
+        'Sevilla se rige por la normativa autonómica andaluza: correa obligatoria en todo espacio público; las razas PPP exigen bozal y licencia; las multas se aplican activamente en el casco histórico.',
+        'Muchos patios históricos y restaurantes con corrala admiten perros pequeños a criterio del dueño — pregunta siempre; busca la pegatina verde \'Admitimos Mascotas\'.',
+        'Las orillas del Guadalquivir tienen varias zonas caninas sombreadas (hacia el Paseo de las Delicias) con fuentes operativas — conviértelo en tu ruta estival por defecto.',
+        'Los coches de caballos turísticos y las procesiones de Semana Santa y la Feria de Abril son ambientes estresantes y abarrotados — evita el centro por completo.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Séville (SVQ) à 10 km au nord-est ; taxis à la discrétion du chauffeur, et le bus EA n\'accepte que les caisses de transport.',
+        'Vétérinaires : Hospital Veterinario Sevilla Este (24h) et Clínica Veterinaria Torneo (centre, près du fleuve) pour les urgences.',
+        'Transports : les bus TUSSAM acceptent les petits chiens en caisse ; le métro de Séville (une ligne) admet les chiens en caisse à toute heure, les plus grands en heures creuses avec muselière.',
+        'Refuges fraîcheur : les galeries souterraines alimentées par aqueduc de Las Setas et les jardins du Real Alcázar restent nettement plus frais qu\'au niveau de la rue.',
+        'Animaleries : Kiwoko et Tiendanimal au centre commercial Nervión ; Triana compte plusieurs petshops indépendants.',
+      ],
+      en: [
+        'Airport: Seville (SVQ) is 10 km northeast; taxis accept dogs at driver discretion, and the EA airport bus allows carriers only.',
+        'Vets: Hospital Veterinario Sevilla Este (24h) and Clínica Veterinaria Torneo (central, near the river) handle emergencies.',
+        'Public transport: TUSSAM buses permit small dogs in carriers; Metro Sevilla (one line) allows dogs in carriers any time, larger dogs off-peak with muzzle.',
+        'Cooling alternatives: underground aqueduct-fed galleries at Las Setas and the Real Alcázar gardens area stay significantly cooler than street level.',
+        'Pet shops: Kiwoko and Tiendanimal in Nervión shopping district; Triana has several independent neighborhood petshops.',
+      ],
+      es: [
+        'Aeropuerto: Sevilla (SVQ) a 10 km al noreste; taxis a criterio del conductor, y el autobús EA solo admite transportín.',
+        'Veterinarios: Hospital Veterinario Sevilla Este (24h) y Clínica Veterinaria Torneo (céntrica, junto al río) cubren urgencias.',
+        'Transporte: autobuses TUSSAM admiten perros pequeños en transportín; Metro de Sevilla (una línea) permite perros en transportín a toda hora y mayores con bozal en horas valle.',
+        'Refugios frescos: las galerías subterráneas alimentadas por acueducto de Las Setas y los jardines del Real Alcázar se mantienen mucho más frescos que la calle.',
+        'Tiendas: Kiwoko y Tiendanimal en el centro comercial Nervión; Triana cuenta con varios petshops independientes.',
+      ],
+    },
+  },
+
+  valencia: {
+    history: {
+      fr: `Fondée par Rome en 138 avant J.-C. sous le nom de Valentia, Valence s'est développée pendant la période maure comme centre papetier et agricole, irriguée par un système vieux de 1 200 ans toujours fonctionnel, régi par le Tribunal des Eaux — la plus ancienne institution judiciaire européenne en activité. Une crue de 1957 a dévié le fleuve Turia, et son lit vidé est devenu le plus grand parc urbain d'Europe : un jardin linéaire de 9 km qui définit la Valence moderne. Cette transformation a aussi façonné la culture canine : le Turia est un immense jardin partagé où des milliers de chiens s'exercent quotidiennement, avec de nombreuses aires sans laisse clôturées (áreas caninas).`,
+      en: `Founded by Rome in 138 BC as Valentia, Valencia grew through its Moorish period as a centre of paper-making and agriculture, watered by a still-functioning 1,200-year-old irrigation system governed by the Tribunal de las Aguas — the oldest European judicial institution in continuous operation. A 1957 flood rerouted the Turia river, and the emptied riverbed became Europe's largest urban park: a 9 km linear garden that defines modern Valencia. This transformation has also defined the city's canine culture — the Turia is a giant shared backyard where thousands of dogs exercise daily, with numerous fenced off-leash zones (áreas caninas).`,
+      es: `Fundada por Roma en el 138 a.C. como Valentia, Valencia creció durante el periodo andalusí como centro papelero y agrícola, regada por un sistema de 1.200 años aún en uso y regido por el Tribunal de las Aguas — la institución judicial europea en activo más antigua. Una riada en 1957 desvió el río Turia, y el cauce vaciado se convirtió en el mayor parque urbano de Europa: un jardín lineal de 9 km que define la Valencia moderna. Esta transformación ha moldeado también la cultura canina: el Turia es un enorme patio compartido donde miles de perros se ejercitan a diario, con numerosas áreas caninas valladas sin correa.`,
+    },
+    sights: [
+      {
+        name: 'Jardín del Turia',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ancien lit du fleuve, parc de 9 km, est le paradis canin de Valence, avec plusieurs aires sans laisse clôturées (notamment près du Palau de la Música et de Viveros). Des dizaines de locaux y promènent leurs chiens à l\'aube et au crépuscule.',
+          en: 'The 9 km former riverbed park is Valencia\'s dog paradise, with multiple fenced off-leash áreas caninas (notably near Palau de la Música and Viveros). Expect dozens of locals walking dogs at dawn and dusk.',
+          es: 'El antiguo cauce convertido en parque de 9 km es el paraíso canino de Valencia, con varias áreas caninas valladas sin correa (destacan las del Palau de la Música y Viveros). Decenas de locales pasean sus perros al amanecer y al atardecer.',
+        },
+      },
+      {
+        name: 'Ciudad de las Artes y las Ciencias',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le complexe futuriste de Calatrava se parcourt en laisse autour de ses bassins et esplanades, avec des angles photo spectaculaires. Les intérieurs (Hemisfèric, Oceanogràfic, Museo de las Ciencias) n\'admettent que les chiens d\'assistance.',
+          en: 'Calatrava\'s futuristic complex is walkable on leash around its reflective pools and plazas, with spectacular photo angles. Interiors (Hemisfèric, Oceanogràfic, Museo de las Ciencias) admit only assistance dogs.',
+          es: 'El complejo futurista de Calatrava se recorre con correa entre láminas de agua y explanadas, con ángulos fotográficos espectaculares. Los interiores (Hemisfèric, Oceanogràfic, Museo de las Ciencias) solo admiten perros de asistencia.',
+        },
+      },
+      {
+        name: 'Playa de Pinedo (dog beach)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'La \'Playa de Pinedo para Perros\' officielle de Valence, au sud du port, est ouverte toute l\'année et clôturée comme territoire canin dédié. Douches, structures ombragées et poubelles à déjections disponibles.',
+          en: 'Valencia\'s official \'Playa de Pinedo para Perros\', south of the port, is open year-round and fenced off as dedicated canine territory. Showers, shade structures, and dog waste bins are provided.',
+          es: 'La oficial \'Playa de Pinedo para Perros\', al sur del puerto, abre todo el año y está vallada como zona canina exclusiva. Dispone de duchas, estructuras de sombra y papeleras para heces.',
+        },
+      },
+      {
+        name: 'Malvarrosa & Playa de las Arenas',
+        emoji: '🌊',
+        petFriendly: false,
+        desc: {
+          fr: 'Les plages emblématiques de la ville interdisent les chiens d\'avril à octobre en journée. Hors été, les balades matinales en laisse sur la promenade sont tolérées, et ses terrasses pet-friendly servent d\'excellentes paellas toute l\'année.',
+          en: 'The iconic city beaches ban dogs April through October during daytime. Outside summer, early-morning leashed walks along the promenade are tolerated, and its pet-friendly terraces serve great paella year-round.',
+          es: 'Las playas icónicas de la ciudad prohíben perros de abril a octubre durante el día. Fuera del verano, se tolera pasear con correa a primera hora por el paseo, y sus terrazas pet-friendly sirven buena paella todo el año.',
+        },
+      },
+      {
+        name: 'Mercado Central & Lonja de la Seda',
+        emoji: '🍊',
+        petFriendly: true,
+        desc: {
+          fr: 'Le marché moderniste de 1928 accepte les petits chiens en caisse à la discrétion des marchands ; la place extérieure et l\'extérieur de la Lonja de la Seda UNESCO sont accessibles en laisse. Escale matinale idéale avant le Turia.',
+          en: 'The 1928 Modernista market accepts small dogs in carriers at vendors\' discretion; the square outside and the UNESCO Lonja de la Seda exterior are leash-accessible. Great morning stop for produce en route to the Turia.',
+          es: 'El mercado modernista de 1928 admite perros pequeños en transportín a criterio de los vendedores; la plaza exterior y el exterior de la Lonja de la Seda UNESCO son accesibles con correa. Parada mañanera perfecta antes del Turia.',
+        },
+      },
+      {
+        name: 'Barrio del Carmen',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'Les ruelles médiévales et impasses couvertes de street-art regorgent de cafés et bars à vin pet-friendly. Les Torres de Serranos et Torres de Quart offrent des escales photo sur l\'ancienne muraille.',
+          en: 'The medieval quarter\'s narrow streets and street-art alleys are lined with dog-welcoming cafés and wine bars. The Torres de Serranos and Torres de Quart city gates offer exterior photo stops on the old defensive wall.',
+          es: 'Las callejas medievales y callejones de arte urbano se llenan de cafés y bares de vino dog-friendly. Las Torres de Serranos y Torres de Quart ofrecen paradas fotográficas sobre la antigua muralla.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le parc du Turia signale clairement ses áreas caninas où le sans-laisse est légal — hors de ces zones, tenez votre chien en laisse ; les amendes sont appliquées dans le reste du parc.',
+        'Las Fallas (mi-mars) est spectaculaire mais brutal pour les chiens : pétards quasi continus pendant deux semaines. Si vous venez avec votre animal, logez hors du centre et utilisez des calmants.',
+        'Les règles plage divisent l\'année : Malvarrosa et El Saler interdisent les chiens en journée d\'avril à octobre — allez plutôt à la plage canine de Pinedo, ou promenez à l\'aube en intersaison.',
+        'Metrovalencia et le tram acceptent un chien en laisse/muselière par voyageur en heures creuses (avant 7h, 9h30-16h30, après 19h) ; petits chiens en caisse à tout moment.',
+        'L\'humidité estivale rend la côte méditerranéenne plus éprouvante que l\'intérieur — emportez toujours de l\'eau et respectez la sieste 13h-18h.',
+      ],
+      en: [
+        'The Turia riverbed park has clearly signposted áreas caninas where off-leash is legal — outside these zones keep your dog on a lead; fines for off-leash violations in the wider park are enforced.',
+        'Las Fallas (mid-March) is spectacular but brutal for dogs: nearly continuous firecrackers (\'petardos\') for two weeks. If you visit with a pet, stay outside the centre and use calming aids.',
+        'Beach rules split the year: Malvarrosa and El Saler are dog-banned in daytime April-October — head to Pinedo\'s dog beach instead, or walk early dawn in shoulder season.',
+        'Valencia\'s Metrovalencia and tram accept one leashed/muzzled dog per passenger off-peak (before 07:00, 09:30-16:30, after 19:00); small dogs in carriers any time.',
+        'Summer humidity makes the Mediterranean coast feel hotter than inland Spain — always carry water and plan around 13:00-18:00 siesta.',
+      ],
+      es: [
+        'El parque del Turia señaliza claramente sus áreas caninas donde la suelta es legal — fuera de ellas, lleva al perro con correa; las multas se aplican en el resto del parque.',
+        'Las Fallas (mediados de marzo) son espectaculares pero brutales para los perros: petardos casi continuos durante dos semanas. Si vienes con mascota, alójate fuera del centro y usa productos relajantes.',
+        'Las reglas de playa dividen el año: Malvarrosa y El Saler prohíben perros de día de abril a octubre — ve mejor a la playa canina de Pinedo, o pasea al alba en temporada baja.',
+        'Metrovalencia y tranvía admiten un perro con correa y bozal por viajero en horas valle (antes de 7:00, 9:30-16:30, después de 19:00); perros pequeños en transportín a cualquier hora.',
+        'La humedad estival hace que la costa mediterránea se sienta más dura que el interior — lleva siempre agua y respeta la siesta 13:00-18:00.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Valence (VLC) à 8 km à l\'ouest ; les lignes de métro 3 et 5 rejoignent le centre et acceptent les chiens en heures creuses selon les règles standard.',
+        'Vétérinaires : Hospital Veterinario Valencia Sur (24h) et Hospital Aúna Especialidades Veterinarias, centres de référence de haut niveau.',
+        'Le vélopartage Valenbisi est excellent pour les propriétaires de chiens, avec de nombreuses stations aux entrées du Turia — mais les chiens n\'y embarquent pas, les accompagnateurs à pied sont de mise.',
+        'Plage : Pinedo est à 30 min en bus (ligne 25) ou par les lignes EMT saisonnières ; emportez de l\'eau douce, les fontaines sur place sont inégales.',
+        'Fournitures : Tiendanimal, Kiwoko et la chaîne locale Acuarium ont des boutiques partout.',
+      ],
+      en: [
+        'Airport: Valencia (VLC) is 8 km west; Metrovalencia lines 3 and 5 connect to the centre and accept dogs off-peak under the standard rules.',
+        'Vets: Hospital Veterinario Valencia Sur (24h) and Hospital Aúna Especialidades Veterinarias are top-tier referral centres.',
+        'Bike sharing Valenbisi is excellent for dog-owners since many Turia park entrances have stations — but dogs can\'t ride, so walking buddies work best.',
+        'Beach practicality: Pinedo dog beach is 30 min by bus (line 25) or EMT seasonal lines; bring fresh water, the on-site fountains can be inconsistent.',
+        'Pet supplies: Tiendanimal, Kiwoko, and the local chain Acuarium have stores citywide.',
+      ],
+      es: [
+        'Aeropuerto: Valencia (VLC) a 8 km al oeste; Metrovalencia líneas 3 y 5 conectan con el centro y admiten perros en horas valle según las normas estándar.',
+        'Veterinarios: Hospital Veterinario Valencia Sur (24h) y Hospital Aúna Especialidades Veterinarias, centros de referencia de primer nivel.',
+        'El servicio Valenbisi es excelente para los dueños con muchas estaciones en las entradas del Turia — pero los perros no viajan en bici, mejor acompañantes a pie.',
+        'Playa: Pinedo queda a 30 min en autobús (línea 25) o líneas estacionales EMT; lleva agua dulce, las fuentes del lugar son irregulares.',
+        'Suministros: Tiendanimal, Kiwoko y la cadena local Acuarium tienen tiendas por toda la ciudad.',
+      ],
+    },
+  },
+
+  'san-sebastian': {
+    history: {
+      fr: `Donostia-San Sebastián débute comme port de pêche médiéval chartré en 1180, rasé par les troupes anglo-portugaises en 1813, puis reconstruit en capitale estivale Belle Époque de l'Espagne sous la reine Marie-Christine, qui instaure la baignade royale à La Concha en 1845. Il en résulte un damier de boulevards XIXe élégants, trois plages urbaines parfaites et une densité d'étoiles Michelin rivalisant avec Paris — sans doute la petite ville la plus raffinée d'Europe. La culture basque considère le chien comme membre de la famille : l'Euskal Artzain Txakurra (berger basque) est un symbole national, et les txoko ruraux accueillent le chien sous la table depuis toujours.`,
+      en: `Donostia-San Sebastián began as a medieval fishing port chartered in 1180, burned to the ground by Anglo-Portuguese troops in 1813, and rebuilt as the Belle Époque summer capital of Spain under Queen María Cristina, who established the royal habit of bathing at La Concha in 1845. The resulting grid of elegant 19th-century boulevards, three perfect urban beaches, and a Michelin-star density rivalling Paris make it arguably Europe's most polished small city. Basque culture treats dogs as family: the Euskal Artzain Txakurra (Basque Shepherd) is a national symbol, and rural txoko supper clubs long welcomed the family dog under the table.`,
+      es: `Donostia-San Sebastián comenzó como puerto pesquero medieval fueral en 1180, fue arrasada por tropas anglo-portuguesas en 1813 y reconstruida como capital estival de la Belle Époque española bajo la reina María Cristina, que instauró el baño real en La Concha en 1845. El resultado: una retícula de elegantes bulevares decimonónicos, tres playas urbanas perfectas y una densidad de estrellas Michelin rivalizando con París — seguramente la ciudad pequeña más refinada de Europa. La cultura vasca considera al perro como familia: el Euskal Artzain Txakurra (pastor vasco) es símbolo nacional, y los txokos rurales acogen al perro bajo la mesa desde siempre.`,
+    },
+    sights: [
+      {
+        name: 'Playa de la Concha',
+        emoji: '🌊',
+        petFriendly: false,
+        desc: {
+          fr: 'La mythique baie en coquille interdit les chiens du 1er juin au 15 septembre, 8h-20h. Hors saison et tôt le matin, elle devient l\'une des plus belles plages canines d\'Europe, avec ses garde-corps Belle Époque en toile de fond.',
+          en: 'The mythical shell-shaped bay bans dogs from June 1 to September 15, 08:00-20:00. Off-season and early mornings it becomes one of Europe\'s finest dog-walking beaches, with its Belle Époque railings as backdrop.',
+          es: 'La mítica bahía en forma de concha prohíbe perros del 1 de junio al 15 de septiembre, 8:00-20:00. Fuera de temporada y a primera hora se convierte en una de las mejores playas caninas de Europa, con sus barandillas Belle Époque de fondo.',
+        },
+      },
+      {
+        name: 'Monte Urgull',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le promontoire de 123 m entre la vieille ville et la mer est sillonné de sentiers forestiers ombragés menant au fort Motako Gaztelua et à la statue du Sacré-Cœur. Chiens en laisse bienvenus sur tous les sentiers extérieurs.',
+          en: 'The 123 m headland between the old town and the sea is crisscrossed with shaded forest trails leading to the Motako Gaztelua fortress and the Sagrado Corazón statue. Dogs on leash are welcome on all exterior paths.',
+          es: 'El promontorio de 123 m entre el casco viejo y el mar lo cruzan senderos boscosos sombreados que llevan al castillo de la Motako Gaztelua y la estatua del Sagrado Corazón. Perros con correa bienvenidos en todos los senderos exteriores.',
+        },
+      },
+      {
+        name: 'Parte Vieja (Old Town)',
+        emoji: '🍷',
+        petFriendly: true,
+        desc: {
+          fr: 'Le dédale de bars à pintxos autour de la Plaza de la Constitución accueille les chiens sages sur la plupart des terrasses et dans beaucoup de bars — la culture basque est particulièrement détendue. Les soirées sont bondées ; le txikiteo du midi est plus calme.',
+          en: 'The pintxo-bar grid around Plaza de la Constitución welcomes well-behaved dogs on most terraces and many bar floors — Basque pet culture is unusually relaxed. Evenings get crushingly busy; lunchtime txikiteo is calmer.',
+          es: 'La retícula de bares de pintxos en torno a la Plaza de la Constitución recibe perros tranquilos en la mayoría de terrazas y en muchos interiores — la cultura vasca es especialmente relajada. Por la noche hay aglomeración; el txikiteo del mediodía es más tranquilo.',
+        },
+      },
+      {
+        name: 'Paseo Nuevo',
+        emoji: '🌬️',
+        petFriendly: true,
+        desc: {
+          fr: 'La promenade côtière battue par les vagues contourne le Monte Urgull, offrant embruns atlantiques et spectacle des tempêtes. Chiens en laisse bienvenus ; tenez-les près de vous à l\'automne-hiver quand les vagues passent par-dessus les garde-corps.',
+          en: 'The wave-battered coastal promenade circles Monte Urgull, offering Atlantic spray and dramatic storm-viewing. Leashed dogs are welcome; keep them close during autumn and winter swells when the waves crash over the railings.',
+          es: 'El paseo costero azotado por el oleaje rodea el Monte Urgull, con rociones atlánticos y espectáculo de temporales. Perros con correa bienvenidos; llévalos cerca en otoño-invierno, cuando las olas saltan sobre las barandillas.',
+        },
+      },
+      {
+        name: 'Monte Igueldo & Funicular',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: 'Le funiculaire de 1912 accepte les chiens en laisse (petit supplément) jusqu\'au belvédère panoramique et son parc d\'attractions rétro. Sinon, montez par le sentier GR-121 pour la plus belle vue de la baie du Pays basque.',
+          en: 'The 1912 funicular accepts leashed dogs (small fee) to the panoramic summit and its vintage amusement park. Alternatively, hike up via the GR-121 path for the best bay view in the Basque Country.',
+          es: 'El funicular de 1912 admite perros con correa (suplemento) hasta el mirador panorámico y su parque de atracciones retro. Como alternativa, sube por el sendero GR-121 para la mejor vista de la bahía de Euskadi.',
+        },
+      },
+      {
+        name: 'Playa de la Zurriola',
+        emoji: '🏄',
+        petFriendly: false,
+        desc: {
+          fr: 'La plage de surf du quartier Gros interdit également les chiens en journée l\'été, mais le Parque de Cristina Enea voisin offre une superbe alternative boisée toute l\'année avec zones canines.',
+          en: 'The surf beach of the Gros neighborhood also bans dogs during summer daytime, but the adjacent Parque de Cristina Enea offers a superb leafy alternative year-round with designated dog zones.',
+          es: 'La playa de surf del barrio de Gros también prohíbe perros de día en verano, pero el Parque de Cristina Enea contiguo ofrece una estupenda alternativa arbolada todo el año con zonas caninas.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les interdictions saisonnières sur les plages urbaines sont strictement appliquées du 1er juin au 15 septembre (8h-20h) — hors saison, les mêmes plages sont largement tolérantes ; vérifiez le pictogramme à l\'entrée.',
+        'Le climat basque est nord-atlantique : emportez serviette et équipement séchage rapide toute l\'année ; le \'sirimiri\' (pluie fine et latérale) est quasi quotidien même en été.',
+        'Euskotren et Renfe Cercanías côtières acceptent les chiens en laisse/muselière en heures creuses — très utile pour Hondarribia, Zarautz ou Biarritz à la journée.',
+        'Les bars à pintxos tolèrent les chiens mais sont bondés — venez avant 20h30 pour éviter la cohue ; pourboire généreux si votre chien se cale sous un tabouret.',
+        'Les marées à La Concha et Zurriola peuvent être extrêmes (6 m d\'amplitude) — consultez l\'horaire des marées avant d\'aller sur la plage à marée basse pour éviter d\'être piégé.',
+      ],
+      en: [
+        'Urban beach seasonal bans are firmly enforced June 1-September 15 (08:00-20:00) — off-season the same sands are largely dog-tolerant; always check the beach-entry pictogram.',
+        'Basque weather is North Atlantic: bring a dog towel and quick-dry gear year-round; sideways rain (\'sirimiri\') is a near-daily possibility even in summer.',
+        'Euskotren and Renfe Cercanías lines on the coast accept leashed/muzzled dogs off-peak — very useful for day trips to Hondarribia, Zarautz, or Biarritz.',
+        'Pintxo bars are dog-tolerant but crowded — visit before 20:30 to avoid the crush; always tip generously if your dog parks itself under a bar stool.',
+        'La Concha and Zurriola tides can be extreme (6+ m range) — check the tide table before heading to the beach at low water to avoid being trapped by rising sea.',
+      ],
+      es: [
+        'Las prohibiciones estacionales en las playas urbanas se aplican con firmeza del 1 de junio al 15 de septiembre (8:00-20:00) — fuera de temporada las mismas arenas son bastante tolerantes; revisa el pictograma a la entrada.',
+        'El clima vasco es del Atlántico Norte: lleva toalla y equipo de secado rápido todo el año; el \'sirimiri\' (lluvia fina y oblicua) es casi diario incluso en verano.',
+        'Euskotren y los Cercanías costeros admiten perros con correa y bozal en horas valle — muy útiles para excursiones a Hondarribia, Zarautz o Biarritz.',
+        'Los bares de pintxos toleran perros pero se abarrotan — ve antes de las 20:30 para evitar la avalancha; deja propina generosa si tu perro se acomoda bajo un taburete.',
+        'Las mareas en La Concha y Zurriola pueden ser extremas (6 m de desnivel) — consulta la tabla de mareas antes de bajar a la playa en bajamar para no quedar atrapado.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Saint-Sébastien (EAS) est petit et régional ; Biarritz (BIQ, France) et Bilbao (BIO) sont les alternatives, toutes accessibles en bus pet-friendly (Pesa, Lurraldebus).',
+        'Vétérinaires : Hospital Veterinario Donosti et Centro Veterinario Igeldo pour les urgences ; les soins spécialisés 24h sont parfois à Pampelune ou Bilbao.',
+        'Les bus Dbus acceptent les chiens en laisse/muselière en heures creuses ; petits chiens en caisse à tout moment — réseau parmi les plus permissifs d\'Espagne.',
+        'Excursions : Pasai Donibane (le ferry accepte les chiens), Hondarribia et la côte basque française sont à moins de 40 min et ultra pet-friendly.',
+        'Fournitures : Kiwoko au centre, plus plusieurs cliniques-boutiques à Gros et Antiguo.',
+      ],
+      en: [
+        'Airport: San Sebastián (EAS) is small and regional; Biarritz (BIQ, France) and Bilbao (BIO) are larger alternatives, both reachable by dog-friendly bus (Pesa, Lurraldebus).',
+        'Vets: Hospital Veterinario Donosti and Centro Veterinario Igeldo handle emergencies; closest 24h specialty care is sometimes in Pamplona or Bilbao.',
+        'Buses (Dbus) allow leashed/muzzled dogs off-peak; small dogs in carriers any time — one of the more permissive urban networks in Spain.',
+        'Day trips: Pasai Donibane (ferry accepts dogs), Hondarribia, and French Basque coast all within 40 minutes and overwhelmingly dog-friendly.',
+        'Pet supplies: Kiwoko in the centre, plus several neighborhood clinics-with-shops in Gros and Antiguo.',
+      ],
+      es: [
+        'Aeropuerto: San Sebastián (EAS) es pequeño y regional; Biarritz (BIQ, Francia) y Bilbao (BIO) son las alternativas, accesibles en autobús pet-friendly (Pesa, Lurraldebus).',
+        'Veterinarios: Hospital Veterinario Donosti y Centro Veterinario Igeldo cubren urgencias; la atención especializada 24h a veces está en Pamplona o Bilbao.',
+        'Los autobuses Dbus admiten perros con correa y bozal en horas valle; perros pequeños en transportín siempre — una de las redes urbanas más permisivas de España.',
+        'Excursiones: Pasai Donibane (el ferry admite perros), Hondarribia y la costa vasco-francesa, todas a menos de 40 min y muy dog-friendly.',
+        'Suministros: Kiwoko en el centro y varias clínicas-tienda en Gros y Antiguo.',
+      ],
+    },
+  },
+
+  athens: {
+    history: {
+      fr: `Athènes est habitée continuellement depuis plus de 5 000 ans et a donné au monde la démocratie, la philosophie et le théâtre occidental depuis son âge d'or du Ve siècle av. J.-C. sous Périclès. Le Parthénon couronne toujours l'Acropole au-dessus d'une métropole tentaculaire de quatre millions d'habitants, façonnée par la domination ottomane, les vagues de réfugiés d'Asie Mineure après 1922 et la refonte urbaine post-Olympiques 2004. Athènes abrite l'une des plus grandes populations de chiens errants d'Europe — le célèbre chien athénien, souvent stérilisé, vacciné et tagué par la municipalité, monte la garde aux stations de métro et sites archéologiques. La loi grecque de 2021 a durci la régulation tout en protégeant les errants.`,
+      en: `Athens has been continuously inhabited for over 5,000 years and gave the world democracy, philosophy, and Western drama from its 5th-century BC golden age under Pericles. The Parthenon still crowns the Acropolis above a sprawling modern metropolis of four million, shaped by Ottoman rule, post-1922 refugee waves from Asia Minor, and a post-2004 Olympics urban overhaul. Athens has one of Europe's largest free-roaming dog populations — the famous Athenian stray, often sterilised, vaccinated, and collar-tagged by the municipality, stands guard at metro stations and archaeological sites. Greek law since 2021 has tightened pet regulation while simultaneously protecting strays.`,
+      es: `Atenas lleva habitada ininterrumpidamente más de 5.000 años y regaló al mundo la democracia, la filosofía y el teatro occidental desde su edad dorada del siglo V a.C. bajo Pericles. El Partenón sigue coronando la Acrópolis sobre una metrópolis de cuatro millones de habitantes, moldeada por la dominación otomana, las oleadas de refugiados de Asia Menor tras 1922 y la transformación urbana post-Olímpica de 2004. Atenas tiene una de las mayores poblaciones de perros callejeros de Europa — el célebre perro ateniense, a menudo esterilizado, vacunado y chapeado por el municipio, monta guardia en bocas de metro y yacimientos arqueológicos. La ley griega desde 2021 ha endurecido la regulación protegiendo a la vez a los callejeros.`,
+    },
+    sights: [
+      {
+        name: 'Acropolis',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: 'Le site archéologique n\'admet que les chiens d\'assistance, mais la promenade péripatéticienne qui l\'entoure (rue piétonne Dionysiou Areopagitou) est l\'une des grandes balades canines d\'Athènes, avec vue directe sur le Parthénon.',
+          en: 'The archaeological site admits only assistance dogs, but the surrounding peripatetic promenade (Dionysiou Areopagitou pedestrian street) is one of Athens\' great dog walks, with direct views up to the Parthenon.',
+          es: 'El yacimiento arqueológico solo admite perros de asistencia, pero el paseo peripatético que lo rodea (calle peatonal Dionisíou Areopayítou) es uno de los grandes paseos caninos de Atenas, con vistas directas al Partenón.',
+        },
+      },
+      {
+        name: 'National Garden',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ancien jardin royal de 15,5 hectares derrière le Parlement accepte les chiens en laisse courte sur les allées principales, mais les exclut du petit zoo, du bassin aux canards et des aires de jeux. À visiter avant 9h en été pour la fraîcheur et la compagnie.',
+          en: 'The 15.5-hectare former royal garden behind Parliament accepts dogs on short leash on main paths, but excludes them from the small zoo, duck pond, and playground areas. Best visited before 09:00 in summer for coolness and company.',
+          es: 'El antiguo jardín real de 15,5 hectáreas tras el Parlamento admite perros con correa corta en los senderos principales, pero los excluye del pequeño zoo, el estanque de los patos y las zonas de juegos. Mejor visitar antes de las 9:00 en verano por el fresco y la compañía.',
+        },
+      },
+      {
+        name: 'Lycabettus Hill',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'À 277 m, le point culminant d\'Athènes se gagne à pied par un sentier en lacets ombragé de pins (chiens en laisse bienvenus) ou par funiculaire (animaux en caisse uniquement). La chapelle sommitale et la terrasse panoramique offrent une vue à 360° sur la ville.',
+          en: 'At 277 m, Athens\' highest point is reached on foot via a switchback pine-shaded trail (leashed dogs welcome) or by funicular (pets allowed in carriers only). The summit chapel and panoramic terrace offer 360° city views.',
+          es: 'A 277 m, el punto más alto de Atenas se alcanza a pie por un sendero en zigzag entre pinos (perros con correa bienvenidos) o en funicular (mascotas solo en transportín). La capilla y la terraza panorámica superior ofrecen vistas 360°.',
+        },
+      },
+      {
+        name: 'Plaka & Anafiotika',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus vieux quartier, enroulé autour du versant de l\'Acropole, offre une promenade en laisse imbattable avec les ruelles cycladiques blanchies d\'Anafiotika, les bougainvillées et des dizaines de tavernes pet-friendly. Très pentu — emportez de l\'eau.',
+          en: 'The oldest neighborhood, wrapped around the Acropolis slope, is an unbeatable leashed walk with white-washed Cycladic-style Anafiotika alleys, bougainvillea, and dozens of pet-friendly tavernas. Very steep — bring water.',
+          es: 'El barrio más antiguo, pegado a la ladera de la Acrópolis, es un paseo con correa insuperable entre las callejas cicládicas blancas de Anafiótika, buganvillas y decenas de tabernas dog-friendly. Muy empinado — lleva agua.',
+        },
+      },
+      {
+        name: 'Stavros Niarchos Park',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc de 21 hectares signé Renzo Piano, en bord de mer à Kallithea, dispose d\'un parc canin clôturé dédié, de corridors ombragés et d\'une programmation culturelle gratuite. Le meilleur grand espace vert pour chiens actifs en ville.',
+          en: 'The 21-hectare Renzo Piano-designed park by the sea in Kallithea has a dedicated fenced dog park, cooling canopy corridors, and free cultural programming. The best large green space for active dogs in the city.',
+          es: 'El parque de 21 hectáreas diseñado por Renzo Piano junto al mar en Kallithea cuenta con un área canina vallada propia, corredores de sombra y programación cultural gratuita. El mejor gran espacio verde para perros activos de la ciudad.',
+        },
+      },
+      {
+        name: 'Monastiraki & Ancient Agora perimeter',
+        emoji: '🏺',
+        petFriendly: true,
+        desc: {
+          fr: 'La place du marché aux puces et la rue piétonne Adrianou longeant les grilles de l\'Agora antique offrent des vues stratifiées sur les ruines en laisse. L\'intérieur des sites est payant et interdit aux animaux.',
+          en: 'The flea-market square and the pedestrian Adrianou street running along the Ancient Agora railings offer layered ruin-views on a leashed walk. Site interiors require tickets and do not admit pets.',
+          es: 'La plaza del rastro y la peatonal Adrianoú junto a las verjas del Ágora Antigua ofrecen vistas superpuestas de las ruinas en un paseo con correa. El interior de los yacimientos es de pago y no admite mascotas.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les canicules athéniennes dépassent régulièrement 40°C et les rues en marbre rayonnent bien au-dessus de 50°C — promenez uniquement avant 7h30 et après 21h30 en juillet-août, sans exception.',
+        'La loi grecque (4830/2021) impose puce, laisse en public et ramassage des déjections ; les visiteurs doivent avoir passeport européen pour animaux et preuve de vaccination antirabique.',
+        'Les célèbres chiens errants athéniens sont généralement vaccinés et calmes — n\'approchez pas avec votre chien en laisse, les rencontres territoriales sont stressantes.',
+        'Le métro d\'Athènes accepte un petit chien par voyageur en caisse à toute heure ; les plus grands en laisse/muselière en heures creuses (avant 7h, 9h30-14h, 17h30-20h30) en semaine, toute la journée le week-end.',
+        'L\'eau est critique : de nombreux cafés pet-friendly remplissent la gourde du chien sur demande (\'neraki gia to skylaki\'), et le Jardin National dispose de fontaines fonctionnelles à plusieurs portes.',
+      ],
+      en: [
+        'Athens summer heatwaves regularly exceed 40°C with marble-paved streets radiating well above 50°C — restrict walks to before 07:30 and after 21:30 July-August, mandatory.',
+        'Greek law (4830/2021) requires all dogs to be microchipped, leashed in public, and picked up after; visitors must carry EU pet passport and rabies vaccination proof.',
+        'The famous Athenian strays are generally vaccinated and calm — do not approach with your own dog on leash as territorial encounters can be stressful.',
+        'Athens Metro allows one small dog per passenger in a carrier at all times; larger leashed/muzzled dogs are permitted off-peak (before 07:00, 09:30-14:00, 17:30-20:30) weekdays, all day weekends.',
+        'Water is critical: many pet-friendly cafés will top up your dog\'s water bottle if asked (\'neraki gia to skylaki\'), and the National Garden has working fountains at multiple gates.',
+      ],
+      es: [
+        'Las olas de calor atenienses superan habitualmente 40°C y las calles de mármol irradian más de 50°C — pasea solo antes de las 7:30 y después de las 21:30 en julio-agosto, obligatorio.',
+        'La ley griega (4830/2021) exige microchip, correa en público y recogida de heces; los visitantes deben llevar pasaporte europeo y prueba de vacunación antirrábica.',
+        'Los famosos callejeros atenienses suelen estar vacunados y son tranquilos — no te acerques con tu perro con correa, los encuentros territoriales estresan.',
+        'El Metro de Atenas admite un perro pequeño por viajero en transportín a toda hora; los mayores con correa y bozal en horas valle (antes de 7:00, 9:30-14:00, 17:30-20:30) entre semana, todo el día los fines de semana.',
+        'El agua es crítica: muchos cafés dog-friendly rellenan la botella del perro si se pide (\'neraki gia to skylaki\'), y el Jardín Nacional tiene fuentes operativas en varias puertas.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : Athènes Eleftherios Venizelos (ATH) dispose d\'une zone de détente canine dédiée et admet les chiens en laisse dans le terminal ; la ligne 3 du métro accepte les chiens selon les règles standard.',
+        'Vétérinaires : 24h Veterinary Hospital of Athens (Glyfada) et Vet Alliance (centre) sont bien équipés ; l\'école vétérinaire universitaire à Votanikos pour les cas complexes.',
+        'Plages : la plupart des plages de l\'Attique interdisent les chiens en été ; Palaio Faliro a une plage canine dédiée, et hors saison Vouliagmeni et Varkiza sont souvent tolérantes.',
+        'Taxis (Beat/FreeNow) — sélectionnez l\'option \'avec animal\' à la réservation ; les chauffeurs peuvent refuser mais la plupart acceptent les chiens en laisse avec petit pourboire.',
+        'Fournitures : Pet City est la chaîne principale avec magasins dans toute la métropole.',
+      ],
+      en: [
+        'Airport: Athens Eleftherios Venizelos (ATH) has a dedicated pet relief area and permits leashed dogs in the terminal; the Metro Line 3 to the centre accepts dogs under standard rules.',
+        'Vets: 24h Veterinary Hospital of Athens (Glyfada) and Vet Alliance (central) are well-equipped; university VetSchool in Votanikos for complex cases.',
+        'Beaches: most Attica coast beaches ban dogs in summer; Palaio Faliro has a dedicated dog beach, and off-season Vouliagmeni and Varkiza are often tolerant.',
+        'Taxis (Beat/FreeNow) — select \'with pet\' option when booking; drivers can refuse but most accept leashed dogs with a small tip.',
+        'Pet supplies: Pet City is the main chain with stores across the metro area.',
+      ],
+      es: [
+        'Aeropuerto: Atenas Eleftherios Venizelos (ATH) tiene zona de esparcimiento canino dedicada y admite perros con correa en la terminal; la Línea 3 del Metro al centro admite perros bajo las normas estándar.',
+        'Veterinarios: 24h Veterinary Hospital of Athens (Glyfada) y Vet Alliance (céntrico) están bien equipados; la Escuela Veterinaria universitaria en Votanikos para casos complejos.',
+        'Playas: la mayoría de playas del Ática prohíben perros en verano; Paleó Fáliro tiene una playa canina propia, y fuera de temporada Vouliagmeni y Varkiza suelen ser tolerantes.',
+        'Taxis (Beat/FreeNow) — selecciona la opción \'con mascota\' al reservar; los conductores pueden rechazar pero la mayoría acepta perros con correa y propina.',
+        'Suministros: Pet City es la cadena principal con tiendas por toda el área metropolitana.',
+      ],
+    },
+  },
+
 }
 
 export default cityContent

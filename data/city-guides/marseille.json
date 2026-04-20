@@ -17,7 +17,7 @@
           "name": "La Caravelle",
           "address": "34 Quai du Port, 13002 Marseille",
           "neighborhood": "Vieux-Port",
-          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-restaurants-la-caravelle.jpg",
           "website": "https://lacaravellerestaurant.com/",
           "description": "Iconic bar-restaurant on the Vieux-Port quay, celebrated for its terrace with direct harbour views and consistent dog-friendly welcome. Provençal menu with excellent seafood platters and rosé by the carafe.",
           "descriptionFr": "Bar-restaurant iconique sur les quais du Vieux-Port, réputé pour sa terrasse avec vue directe sur le port et son accueil constant aux chiens. Carte provençale avec d'excellents plateaux de fruits de mer et rosé à la carafe.",
@@ -39,7 +39,7 @@
           "name": "Chez Fonfon",
           "address": "140 Rue du Vallon des Auffes, 13007 Marseille",
           "neighborhood": "Vallon des Auffes",
-          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-restaurants-chez-fonfon.jpg",
           "website": "https://www.chezfonfon.com/",
           "description": "Legendary Marseille seafood restaurant at the picturesque Vallon des Auffes fishing port, accepting dogs on its terrace overlooking the tiny harbour. One of the best bouillabaisse addresses in France.",
           "descriptionFr": "Restaurant de fruits de mer légendaire au pittoresque port de pêche du Vallon des Auffes, acceptant les chiens sur sa terrasse surplombant le petit port. L'une des meilleures adresses pour la bouillabaisse en France.",
@@ -61,7 +61,7 @@
           "name": "The Roof Kitchen",
           "address": "Château Gombert, 13013 Marseille",
           "neighborhood": "Château Gombert (13e)",
-          "photo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-restaurants-the-roof-kitchen.jpg",
           "website": "https://www.theroofkitchen.fr/",
           "description": "Dog-friendly restaurant in the village-like Château Gombert district, explicitly welcoming pets for family meals. Good escape from the busy city centre with a relaxed Provençal atmosphere.",
           "descriptionFr": "Restaurant dog-friendly dans le quartier village de Château Gombert, qui accueille explicitement les animaux pour les repas en famille. Bonne échappatoire au centre-ville animé avec une ambiance provençale détendue.",
@@ -96,19 +96,46 @@
         "Pregunta siempre antes de atar a tu perro en una terraza: algunos locales exigen que las mascotas estén al alcance del dueño."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside restaurants in Marseille?", "a": "Rarely — French health regulations restrict dogs from food-preparation areas and most restaurant interiors. Terrace dining is the standard option throughout the city."},
-        {"q": "Which area of Marseille has the most dog-friendly terraces?", "a": "The Vieux-Port quays, Cours Estienne d'Orves, and the Panier neighbourhood have the highest concentration of dog-tolerant terraces."},
-        {"q": "Does Chez Fonfon accept dogs?", "a": "Yes — dogs are welcome on Chez Fonfon's terrace overlooking the Vallon des Auffes fishing port. Reservation recommended as tables are limited."}
+        {
+          "q": "Are dogs allowed inside restaurants in Marseille?",
+          "a": "Rarely — French health regulations restrict dogs from food-preparation areas and most restaurant interiors. Terrace dining is the standard option throughout the city."
+        },
+        {
+          "q": "Which area of Marseille has the most dog-friendly terraces?",
+          "a": "The Vieux-Port quays, Cours Estienne d'Orves, and the Panier neighbourhood have the highest concentration of dog-tolerant terraces."
+        },
+        {
+          "q": "Does Chez Fonfon accept dogs?",
+          "a": "Yes — dogs are welcome on Chez Fonfon's terrace overlooking the Vallon des Auffes fishing port. Reservation recommended as tables are limited."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils autorisés à l'intérieur des restaurants à Marseille ?", "a": "Rarement — la réglementation sanitaire française restreint les chiens des zones de préparation alimentaire et de la plupart des salles. La terrasse est l'option standard dans toute la ville."},
-        {"q": "Quel quartier de Marseille a le plus de terrasses dog-friendly ?", "a": "Les quais du Vieux-Port, le Cours Estienne d'Orves et le quartier du Panier ont la plus forte concentration de terrasses accueillant les chiens."},
-        {"q": "Chez Fonfon accepte-t-il les chiens ?", "a": "Oui — les chiens sont bienvenus sur la terrasse de Chez Fonfon surplombant le port de pêche du Vallon des Auffes. Réservation conseillée, les tables sont limitées."}
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants à Marseille ?",
+          "a": "Rarement — la réglementation sanitaire française restreint les chiens des zones de préparation alimentaire et de la plupart des salles. La terrasse est l'option standard dans toute la ville."
+        },
+        {
+          "q": "Quel quartier de Marseille a le plus de terrasses dog-friendly ?",
+          "a": "Les quais du Vieux-Port, le Cours Estienne d'Orves et le quartier du Panier ont la plus forte concentration de terrasses accueillant les chiens."
+        },
+        {
+          "q": "Chez Fonfon accepte-t-il les chiens ?",
+          "a": "Oui — les chiens sont bienvenus sur la terrasse de Chez Fonfon surplombant le port de pêche du Vallon des Auffes. Réservation conseillée, les tables sont limitées."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes en Marsella?", "a": "Raramente: la normativa sanitaria francesa restringe los perros en las zonas de preparación de alimentos y la mayoría de los interiores. La terraza es la opción estándar en toda la ciudad."},
-        {"q": "¿Qué zona de Marsella tiene más terrazas dog-friendly?", "a": "Los muelles del Vieux-Port, el Cours Estienne d'Orves y el barrio del Panier tienen la mayor concentración de terrazas que toleran perros."},
-        {"q": "¿Chez Fonfon acepta perros?", "a": "Sí: los perros son bienvenidos en la terraza de Chez Fonfon con vistas al puerto pesquero del Vallon des Auffes. Se recomienda reserva, las mesas son limitadas."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes en Marsella?",
+          "a": "Raramente: la normativa sanitaria francesa restringe los perros en las zonas de preparación de alimentos y la mayoría de los interiores. La terraza es la opción estándar en toda la ciudad."
+        },
+        {
+          "q": "¿Qué zona de Marsella tiene más terrazas dog-friendly?",
+          "a": "Los muelles del Vieux-Port, el Cours Estienne d'Orves y el barrio del Panier tienen la mayor concentración de terrazas que toleran perros."
+        },
+        {
+          "q": "¿Chez Fonfon acepta perros?",
+          "a": "Sí: los perros son bienvenidos en la terraza de Chez Fonfon con vistas al puerto pesquero del Vallon des Auffes. Se recomienda reserva, las mesas son limitadas."
+        }
       ]
     },
     "parks": {
@@ -123,7 +150,7 @@
           "name": "Parc Longchamp — Zone Canine",
           "address": "Boulevard Jardin Zoologique, 13004 Marseille",
           "neighborhood": "4e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1589923158776-cb4dc7133865?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-parks-parc-longchamp-zone-canine.jpg",
           "website": "https://aubontoutou.fr/tous-les-parcs-autorisees-aux-chiens-a-marseille/",
           "description": "The most accessible dog park for city-centre visitors: a dedicated 6,000 m² canine zone accessible from the Métro 5 Avenues entrance only. Well-maintained with benches for owners.",
           "descriptionFr": "Le parc pour chiens le plus accessible pour les visiteurs du centre-ville : une zone canine dédiée de 6 000 m² accessible uniquement depuis l'entrée Métro 5 Avenues. Bien entretenu avec des bancs pour les propriétaires.",
@@ -145,7 +172,7 @@
           "name": "Parc Pastré — Upper Section",
           "address": "Avenue de Montredon, 13008 Marseille",
           "neighborhood": "8e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-parks-parc-pastre-upper-section.jpg",
           "website": "https://aubontoutou.fr/tous-les-parcs-autorisees-aux-chiens-a-marseille/",
           "description": "Marseille's most spacious park at 75 hectares — dogs are allowed off-leash in the upper zone beyond the canal, while the lower landscaped section requires a leash. A genuine wild escape within the city.",
           "descriptionFr": "Le parc le plus spacieux de Marseille, 75 hectares — les chiens sont en liberté dans la zone haute au-delà du canal, tandis que la partie basse paysagée impose la laisse. Une véritable escapade sauvage en pleine ville.",
@@ -167,7 +194,7 @@
           "name": "Colline Saint-Joseph — Canisite",
           "address": "Colline Saint-Joseph, 13012 Marseille",
           "neighborhood": "12e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-parks-colline-saint-joseph-canisite.jpg",
           "website": "https://urgence-veterinaire-marseille.fr/meilleurs-parcs-chiens-marseille/",
           "description": "A rare combination in Marseille: a 15 m² enclosed canisite (for off-leash play) adjacent to a 3,000 m² open dog-walking area. Less known and therefore less crowded than Longchamp.",
           "descriptionFr": "Une combinaison rare à Marseille : un canisite clôturé de 15 m² (pour les jeux en liberté) adjacent à une zone de promenade canine de 3 000 m². Moins connu et donc moins fréquenté que Longchamp.",
@@ -202,19 +229,46 @@
         "En verano (junio–septiembre), pasea a los perros antes de las 9 h y después de las 18:00 para evitar el estrés térmico: Marsella supera regularmente los 35°C con sol intenso."
       ],
       "faqsEn": [
-        {"q": "Where can my dog run off-leash in Marseille?", "a": "Parc Longchamp (6,000 m² canine zone, Métro 5 Avenues entrance), Parc Pastré upper section (beyond the canal), and Colline Saint-Joseph all offer legitimate off-leash areas."},
-        {"q": "Are dogs allowed in all Marseille parks?", "a": "No — the majority of Marseille's parks prohibit dogs entirely or restrict them to leash-only in specific zones. Always check the entrance signs for 'Espace Canin' before entering."},
-        {"q": "Can dogs enter the Parc Borely in Marseille?", "a": "Parc Borely has restricted dog access — dogs on leash are permitted in some areas but the main gardens and rose garden are dog-free. Check current signage on arrival."}
+        {
+          "q": "Where can my dog run off-leash in Marseille?",
+          "a": "Parc Longchamp (6,000 m² canine zone, Métro 5 Avenues entrance), Parc Pastré upper section (beyond the canal), and Colline Saint-Joseph all offer legitimate off-leash areas."
+        },
+        {
+          "q": "Are dogs allowed in all Marseille parks?",
+          "a": "No — the majority of Marseille's parks prohibit dogs entirely or restrict them to leash-only in specific zones. Always check the entrance signs for 'Espace Canin' before entering."
+        },
+        {
+          "q": "Can dogs enter the Parc Borely in Marseille?",
+          "a": "Parc Borely has restricted dog access — dogs on leash are permitted in some areas but the main gardens and rose garden are dog-free. Check current signage on arrival."
+        }
       ],
       "faqsFr": [
-        {"q": "Où mon chien peut-il courir librement à Marseille ?", "a": "Le Parc Longchamp (zone canine de 6 000 m², entrée Métro 5 Avenues), la partie haute du Parc Pastré (au-delà du canal) et la Colline Saint-Joseph offrent des zones de liberté légitimes."},
-        {"q": "Les chiens sont-ils autorisés dans tous les parcs de Marseille ?", "a": "Non — la majorité des parcs marseillais interdisent totalement les chiens ou les restreignent à des zones en laisse. Vérifiez toujours les panneaux à l'entrée pour 'Espace Canin'."},
-        {"q": "Les chiens peuvent-ils entrer dans le Parc Borély à Marseille ?", "a": "Le Parc Borély a un accès restreint pour les chiens — les chiens en laisse sont autorisés dans certaines zones, mais les jardins principaux et la roseraie sont sans animaux. Vérifiez la signalisation actuelle à l'entrée."}
+        {
+          "q": "Où mon chien peut-il courir librement à Marseille ?",
+          "a": "Le Parc Longchamp (zone canine de 6 000 m², entrée Métro 5 Avenues), la partie haute du Parc Pastré (au-delà du canal) et la Colline Saint-Joseph offrent des zones de liberté légitimes."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans tous les parcs de Marseille ?",
+          "a": "Non — la majorité des parcs marseillais interdisent totalement les chiens ou les restreignent à des zones en laisse. Vérifiez toujours les panneaux à l'entrée pour 'Espace Canin'."
+        },
+        {
+          "q": "Les chiens peuvent-ils entrer dans le Parc Borély à Marseille ?",
+          "a": "Le Parc Borély a un accès restreint pour les chiens — les chiens en laisse sont autorisés dans certaines zones, mais les jardins principaux et la roseraie sont sans animaux. Vérifiez la signalisation actuelle à l'entrée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde puede correr mi perro suelto en Marsella?", "a": "El Parc Longchamp (zona canina de 6.000 m², entrada Metro 5 Avenues), la sección alta del Parc Pastré (más allá del canal) y la Colline Saint-Joseph ofrecen zonas de suelta legítimas."},
-        {"q": "¿Se admiten perros en todos los parques de Marsella?", "a": "No: la mayoría de los parques de Marsella prohíben los perros por completo o los restringen a zonas de correa. Comprueba siempre los carteles de entrada para 'Espace Canin'."},
-        {"q": "¿Pueden entrar los perros en el Parc Borely de Marsella?", "a": "El Parc Borely tiene acceso restringido para perros: se permiten con correa en algunas zonas pero los jardines principales y la rosaleda son zonas sin animales. Comprueba la señalización actual a la llegada."}
+        {
+          "q": "¿Dónde puede correr mi perro suelto en Marsella?",
+          "a": "El Parc Longchamp (zona canina de 6.000 m², entrada Metro 5 Avenues), la sección alta del Parc Pastré (más allá del canal) y la Colline Saint-Joseph ofrecen zonas de suelta legítimas."
+        },
+        {
+          "q": "¿Se admiten perros en todos los parques de Marsella?",
+          "a": "No: la mayoría de los parques de Marsella prohíben los perros por completo o los restringen a zonas de correa. Comprueba siempre los carteles de entrada para 'Espace Canin'."
+        },
+        {
+          "q": "¿Pueden entrar los perros en el Parc Borely de Marsella?",
+          "a": "El Parc Borely tiene acceso restringido para perros: se permiten con correa en algunas zonas pero los jardines principales y la rosaleda son zonas sin animales. Comprueba la señalización actual a la llegada."
+        }
       ]
     },
     "transport": {
@@ -229,7 +283,7 @@
           "name": "RTM Métro & Bus (small dogs only)",
           "address": "Gare Saint-Charles, Place Victor Hugo, 13001 Marseille",
           "neighborhood": "1er arrondissement",
-          "photo": "https://images.unsplash.com/photo-1569144654912-5f146e3a7e51?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-transport-rtm-metro-bus-small-dogs-only.jpg",
           "website": "https://www.rtm.fr/reglement-public-exploitation",
           "description": "Small pets in a fully closed carrier (basket/bag/cage) may travel on RTM metro and bus for €1.70. The carrier must rest on the owner's lap, not on a seat. Guide and assistance dogs travel free on leash.",
           "descriptionFr": "Les petits animaux dans un transportin entièrement fermé (panier/sac/cage) peuvent voyager sur le métro et bus RTM pour 1,70 €. Le transportin doit reposer sur les genoux du propriétaire, pas sur un siège. Les chiens guides et d'assistance voyagent gratuitement en laisse.",
@@ -264,19 +318,46 @@
         "El ferry a las Îles du Frioul (barcos RTMN desde el Vieux-Port) permite perros con correa en cubierta: una opción mucho más práctica que el metro para los dueños de perros."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Marseille metro?", "a": "Only small dogs in a completely closed carrier (bag/basket) for €1.70. Dogs that cannot fit in a carrier are banned from all RTM metro and bus services."},
-        {"q": "Are large dogs banned from Marseille public transport?", "a": "Yes — RTM rules explicitly ban large and medium dogs from all network services. Guide and assistance dogs are the only exception."},
-        {"q": "How do I get around Marseille with a large dog?", "a": "Use Uber, Bolt, or a local pet-friendly taxi. The Corniche area is also walkable from the Vieux-Port (30 minutes on foot)."}
+        {
+          "q": "Can I take my dog on the Marseille metro?",
+          "a": "Only small dogs in a completely closed carrier (bag/basket) for €1.70. Dogs that cannot fit in a carrier are banned from all RTM metro and bus services."
+        },
+        {
+          "q": "Are large dogs banned from Marseille public transport?",
+          "a": "Yes — RTM rules explicitly ban large and medium dogs from all network services. Guide and assistance dogs are the only exception."
+        },
+        {
+          "q": "How do I get around Marseille with a large dog?",
+          "a": "Use Uber, Bolt, or a local pet-friendly taxi. The Corniche area is also walkable from the Vieux-Port (30 minutes on foot)."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien dans le métro de Marseille ?", "a": "Uniquement les petits chiens dans un transportin entièrement fermé (sac/panier) pour 1,70 €. Les chiens qui ne tiennent pas dans un transportin sont interdits sur tous les services de métro et bus RTM."},
-        {"q": "Les grands chiens sont-ils interdits dans les transports en commun de Marseille ?", "a": "Oui — le règlement RTM interdit explicitement les chiens grands et moyens sur tous les services du réseau. Les chiens guides et d'assistance sont la seule exception."},
-        {"q": "Comment se déplacer à Marseille avec un grand chien ?", "a": "Utilisez Uber, Bolt ou un taxi local acceptant les animaux. La zone de la Corniche est également accessible à pied depuis le Vieux-Port (30 minutes)."}
+        {
+          "q": "Puis-je emmener mon chien dans le métro de Marseille ?",
+          "a": "Uniquement les petits chiens dans un transportin entièrement fermé (sac/panier) pour 1,70 €. Les chiens qui ne tiennent pas dans un transportin sont interdits sur tous les services de métro et bus RTM."
+        },
+        {
+          "q": "Les grands chiens sont-ils interdits dans les transports en commun de Marseille ?",
+          "a": "Oui — le règlement RTM interdit explicitement les chiens grands et moyens sur tous les services du réseau. Les chiens guides et d'assistance sont la seule exception."
+        },
+        {
+          "q": "Comment se déplacer à Marseille avec un grand chien ?",
+          "a": "Utilisez Uber, Bolt ou un taxi local acceptant les animaux. La zone de la Corniche est également accessible à pied depuis le Vieux-Port (30 minutes)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en el metro de Marsella?", "a": "Solo perros pequeños en transportín completamente cerrado (bolsa/cesta) por 1,70 €. Los perros que no caben en un transportín están prohibidos en todos los servicios de metro y autobús RTM."},
-        {"q": "¿Están prohibidos los perros grandes en el transporte público de Marsella?", "a": "Sí: el reglamento RTM prohíbe explícitamente los perros grandes y medianos en todos los servicios de la red. Los perros guía y de asistencia son la única excepción."},
-        {"q": "¿Cómo me desplazo por Marsella con un perro grande?", "a": "Usa Uber, Bolt o un taxi local que acepte mascotas. La zona de la Corniche también es accesible a pie desde el Vieux-Port (30 minutos)."}
+        {
+          "q": "¿Puedo llevar a mi perro en el metro de Marsella?",
+          "a": "Solo perros pequeños en transportín completamente cerrado (bolsa/cesta) por 1,70 €. Los perros que no caben en un transportín están prohibidos en todos los servicios de metro y autobús RTM."
+        },
+        {
+          "q": "¿Están prohibidos los perros grandes en el transporte público de Marsella?",
+          "a": "Sí: el reglamento RTM prohíbe explícitamente los perros grandes y medianos en todos los servicios de la red. Los perros guía y de asistencia son la única excepción."
+        },
+        {
+          "q": "¿Cómo me desplazo por Marsella con un perro grande?",
+          "a": "Usa Uber, Bolt o un taxi local que acepte mascotas. La zona de la Corniche también es accesible a pie desde el Vieux-Port (30 minutos)."
+        }
       ]
     },
     "beaches": {
@@ -291,7 +372,7 @@
           "name": "Îles du Frioul — Multiple Dog-Friendly Beaches",
           "address": "Îles du Frioul, 13007 Marseille (ferry from Vieux-Port)",
           "neighborhood": "Frioul Islands",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-beaches-iles-du-frioul-multiple-dog-friendly-beaches.jpg",
           "website": "https://emmenetonchien.com/en/destinations-voyage-avec-un-chien/les-secrets-de-marseille-avec-son-chien/",
           "description": "The Frioul Islands have 10+ beaches all accessible to dogs on leash, including the beautiful turquoise Calanque de la Crine (1 hour's walk). Ferry from Vieux-Port costs €10 return per person; dogs travel free.",
           "descriptionFr": "Les îles du Frioul ont 10+ plages toutes accessibles aux chiens en laisse, dont la magnifique Calanque de la Crine aux eaux turquoises (1h de marche). Ferry depuis le Vieux-Port à 10 € aller-retour par personne ; les chiens voyagent gratuitement.",
@@ -313,7 +394,7 @@
           "name": "Calanques Hiking Trails (dogs on leash)",
           "address": "Luminy Trailhead, 13009 Marseille (bus 21 from Castellane)",
           "neighborhood": "9e arrondissement / Calanques National Park",
-          "photo": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-beaches-calanques-hiking-trails-dogs-on-leash.jpg",
           "website": "https://www.calanques-parcnational.fr/en/regulations-land",
           "description": "The Calanques National Park allows leashed dogs on all hiking trails to the calanques (coastal coves). The Calanque de Sugiton from Luminy is a 45-minute hike with a small pebble beach at the end.",
           "descriptionFr": "Le Parc National des Calanques autorise les chiens en laisse sur tous les sentiers de randonnée vers les calanques. La Calanque de Sugiton depuis Luminy est une randonnée de 45 minutes avec une petite plage de galets à l'arrivée.",
@@ -348,19 +429,46 @@
         "El terreno rocoso de las Calanques puede dañar las almohadillas: lleva bálsamo protector para patas y revisa las patas después de las caminatas por caliza."
       ],
       "faqsEn": [
-        {"q": "Can my dog go to the beach in Marseille in summer?", "a": "City beaches ban dogs June–September. The Îles du Frioul (10-minute boat from Vieux-Port) allow dogs on leash on all beaches year-round and are the best summer option."},
-        {"q": "Are dogs allowed in the Calanques?", "a": "Yes, on leash at all times. Dogs may also swim in the calanques if they are on a long line. Check the park website for seasonal closures before hiking in summer."},
-        {"q": "How do I get to the Frioul islands with my dog?", "a": "Take the RTMN ferry from the Vieux-Port (€10 return per person, dogs free). Departures roughly hourly from 09:00. Dogs must be on leash on deck."}
+        {
+          "q": "Can my dog go to the beach in Marseille in summer?",
+          "a": "City beaches ban dogs June–September. The Îles du Frioul (10-minute boat from Vieux-Port) allow dogs on leash on all beaches year-round and are the best summer option."
+        },
+        {
+          "q": "Are dogs allowed in the Calanques?",
+          "a": "Yes, on leash at all times. Dogs may also swim in the calanques if they are on a long line. Check the park website for seasonal closures before hiking in summer."
+        },
+        {
+          "q": "How do I get to the Frioul islands with my dog?",
+          "a": "Take the RTMN ferry from the Vieux-Port (€10 return per person, dogs free). Departures roughly hourly from 09:00. Dogs must be on leash on deck."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il aller à la plage à Marseille en été ?", "a": "Les plages urbaines interdisent les chiens de juin à septembre. Les Îles du Frioul (bateau de 10 min depuis le Vieux-Port) autorisent les chiens en laisse sur toutes leurs plages toute l'année — c'est la meilleure option estivale."},
-        {"q": "Les chiens sont-ils autorisés dans les Calanques ?", "a": "Oui, en laisse à tout moment. Les chiens peuvent aussi se baigner dans les calanques avec une longue laisse. Vérifiez le site du parc pour les fermetures saisonnières avant de randonner en été."},
-        {"q": "Comment rejoindre les îles du Frioul avec mon chien ?", "a": "Prenez le ferry RTMN depuis le Vieux-Port (10 € aller-retour par personne, chiens gratuits). Départs environ toutes les heures à partir de 9h. Chiens en laisse obligatoire sur le pont."}
+        {
+          "q": "Mon chien peut-il aller à la plage à Marseille en été ?",
+          "a": "Les plages urbaines interdisent les chiens de juin à septembre. Les Îles du Frioul (bateau de 10 min depuis le Vieux-Port) autorisent les chiens en laisse sur toutes leurs plages toute l'année — c'est la meilleure option estivale."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans les Calanques ?",
+          "a": "Oui, en laisse à tout moment. Les chiens peuvent aussi se baigner dans les calanques avec une longue laisse. Vérifiez le site du parc pour les fermetures saisonnières avant de randonner en été."
+        },
+        {
+          "q": "Comment rejoindre les îles du Frioul avec mon chien ?",
+          "a": "Prenez le ferry RTMN depuis le Vieux-Port (10 € aller-retour par personne, chiens gratuits). Départs environ toutes les heures à partir de 9h. Chiens en laisse obligatoire sur le pont."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puede mi perro ir a la playa en Marsella en verano?", "a": "Las playas urbanas prohíben los perros de junio a septiembre. Las Îles du Frioul (barco de 10 min desde el Vieux-Port) permiten perros con correa en todas sus playas todo el año: es la mejor opción de verano."},
-        {"q": "¿Se admiten perros en las Calanques?", "a": "Sí, con correa en todo momento. Los perros también pueden bañarse en las calanques con correa larga. Consulta la web del parque para cierres estacionales antes de hacer senderismo en verano."},
-        {"q": "¿Cómo llego a las islas Frioul con mi perro?", "a": "Toma el ferry RTMN desde el Vieux-Port (10 € ida y vuelta por persona, perros gratis). Salidas aproximadamente cada hora desde las 9:00. Perros con correa obligatoria en cubierta."}
+        {
+          "q": "¿Puede mi perro ir a la playa en Marsella en verano?",
+          "a": "Las playas urbanas prohíben los perros de junio a septiembre. Las Îles du Frioul (barco de 10 min desde el Vieux-Port) permiten perros con correa en todas sus playas todo el año: es la mejor opción de verano."
+        },
+        {
+          "q": "¿Se admiten perros en las Calanques?",
+          "a": "Sí, con correa en todo momento. Los perros también pueden bañarse en las calanques con correa larga. Consulta la web del parque para cierres estacionales antes de hacer senderismo en verano."
+        },
+        {
+          "q": "¿Cómo llego a las islas Frioul con mi perro?",
+          "a": "Toma el ferry RTMN desde el Vieux-Port (10 € ida y vuelta por persona, perros gratis). Salidas aproximadamente cada hora desde las 9:00. Perros con correa obligatoria en cubierta."
+        }
       ]
     },
     "vets": {
@@ -375,7 +483,7 @@
           "name": "Vétérinaires 2 Toute Urgence",
           "address": "227 Route des 3 Lucs, 13011 Marseille (La Valentine)",
           "neighborhood": "La Valentine (11e arrondissement)",
-          "photo": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-vets-veterinaires-2-toute-urgence.jpg",
           "website": "https://veterinaires2touteurgence.com/urgence-veterinaire-marseille/",
           "description": "Marseille's main emergency veterinary centre, operating from 19:00 on weekdays, from Saturday noon through Monday 8am, and 24/7 on public holidays. Call 04 91 13 44 44 before travelling.",
           "descriptionFr": "Le principal centre vétérinaire d'urgence de Marseille, opérationnel à partir de 19h en semaine, du samedi midi au lundi 8h, et 24h/24 les jours fériés. Appelez le 04 91 13 44 44 avant de vous déplacer.",
@@ -397,7 +505,7 @@
           "name": "Clinique K d'Urgence",
           "address": "Marseille 13004 (call for exact address)",
           "neighborhood": "4e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-vets-clinique-k-d-urgence.jpg",
           "website": "https://www.kurgence.fr/",
           "description": "Secondary 24/7 emergency clinic run by experienced vets, operating across Marseille. Confirmed 24-hour service — call before visiting to confirm availability and get the current address.",
           "descriptionFr": "Clinique d'urgence secondaire 24h/24, gérée par des vétérinaires expérimentés, opérant sur l'ensemble de Marseille. Service 24h confirmé — appelez avant de vous rendre pour confirmer la disponibilité et obtenir l'adresse actuelle.",
@@ -432,19 +540,46 @@
         "Los veterinarios franceses trabajan en francés: lleva una app de traducción si no hablas francés; el personal puede tener inglés limitado."
       ],
       "faqsEn": [
-        {"q": "Is there a 24-hour vet in Marseille?", "a": "Yes — Vétérinaires 2 Toute Urgence (04 91 13 44 44) and Clinique K d'Urgence both provide 24-hour cover. Vétérinaires 2 Toute Urgence operates from 19:00 weekdays and full weekends."},
-        {"q": "What is the emergency vet number in Marseille?", "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) is the main emergency number. Alternatively dial 3115 (free) for the national duty vet line."},
-        {"q": "Do Marseille vets speak English?", "a": "Basic English is possible but not guaranteed — French is the working language. Prepare key medical terms in French or use a translation app at the consultation."}
+        {
+          "q": "Is there a 24-hour vet in Marseille?",
+          "a": "Yes — Vétérinaires 2 Toute Urgence (04 91 13 44 44) and Clinique K d'Urgence both provide 24-hour cover. Vétérinaires 2 Toute Urgence operates from 19:00 weekdays and full weekends."
+        },
+        {
+          "q": "What is the emergency vet number in Marseille?",
+          "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) is the main emergency number. Alternatively dial 3115 (free) for the national duty vet line."
+        },
+        {
+          "q": "Do Marseille vets speak English?",
+          "a": "Basic English is possible but not guaranteed — French is the working language. Prepare key medical terms in French or use a translation app at the consultation."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire 24h/24 à Marseille ?", "a": "Oui — Vétérinaires 2 Toute Urgence (04 91 13 44 44) et la Clinique K d'Urgence assurent toutes deux une couverture 24h/24. Vétérinaires 2 Toute Urgence opère à partir de 19h en semaine et tout le week-end."},
-        {"q": "Quel est le numéro du vétérinaire d'urgence à Marseille ?", "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) est le principal numéro d'urgence. Vous pouvez aussi composer le 3115 (gratuit) pour la ligne nationale de vétérinaire de garde."},
-        {"q": "Les vétérinaires de Marseille parlent-ils anglais ?", "a": "Un anglais de base est possible mais non garanti — le français est la langue de travail. Préparez les termes médicaux clés en français ou utilisez une application de traduction."}
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Marseille ?",
+          "a": "Oui — Vétérinaires 2 Toute Urgence (04 91 13 44 44) et la Clinique K d'Urgence assurent toutes deux une couverture 24h/24. Vétérinaires 2 Toute Urgence opère à partir de 19h en semaine et tout le week-end."
+        },
+        {
+          "q": "Quel est le numéro du vétérinaire d'urgence à Marseille ?",
+          "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) est le principal numéro d'urgence. Vous pouvez aussi composer le 3115 (gratuit) pour la ligne nationale de vétérinaire de garde."
+        },
+        {
+          "q": "Les vétérinaires de Marseille parlent-ils anglais ?",
+          "a": "Un anglais de base est possible mais non garanti — le français est la langue de travail. Préparez les termes médicaux clés en français ou utilisez une application de traduction."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un veterinario 24 horas en Marsella?", "a": "Sí: Vétérinaires 2 Toute Urgence (04 91 13 44 44) y Clinique K d'Urgence ofrecen cobertura 24 h. Vétérinaires 2 Toute Urgence opera desde las 19:00 en días laborables y todo el fin de semana."},
-        {"q": "¿Cuál es el teléfono del veterinario de urgencias en Marsella?", "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) es el principal número de urgencias. También puedes marcar el 3115 (gratis) para la línea nacional de veterinario de guardia."},
-        {"q": "¿Los veterinarios de Marsella hablan inglés?", "a": "Es posible un inglés básico pero no está garantizado: el francés es el idioma de trabajo. Prepara términos médicos clave en francés o usa una app de traducción en la consulta."}
+        {
+          "q": "¿Hay un veterinario 24 horas en Marsella?",
+          "a": "Sí: Vétérinaires 2 Toute Urgence (04 91 13 44 44) y Clinique K d'Urgence ofrecen cobertura 24 h. Vétérinaires 2 Toute Urgence opera desde las 19:00 en días laborables y todo el fin de semana."
+        },
+        {
+          "q": "¿Cuál es el teléfono del veterinario de urgencias en Marsella?",
+          "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) es el principal número de urgencias. También puedes marcar el 3115 (gratis) para la línea nacional de veterinario de guardia."
+        },
+        {
+          "q": "¿Los veterinarios de Marsella hablan inglés?",
+          "a": "Es posible un inglés básico pero no está garantizado: el francés es el idioma de trabajo. Prepara términos médicos clave en francés o usa una app de traducción en la consulta."
+        }
       ]
     },
     "tips": {
@@ -471,19 +606,46 @@
         "El paseo marítimo de la Corniche Kennedy (5 km) es totalmente dog-friendly y parcialmente sombreado: el mejor paseo nocturno de la ciudad."
       ],
       "faqsEn": [
-        {"q": "Is Marseille dog-friendly overall?", "a": "Moderately — outdoor Marseille (Calanques, Corniche, Vieux-Port terraces) is excellent for dogs, but indoor access (restaurants, transport, shops) is more restricted than in northern European cities."},
-        {"q": "Is it safe to walk dogs in Marseille in summer?", "a": "Only before 9am and after 18:00. Midday pavement temperatures can cause paw burns in under two minutes on hot tarmac — the 'hand test' rule applies: if you can't hold your palm on the ground for 5 seconds, it's too hot for your dog."},
-        {"q": "Can I bring my dog to the Vieux-Port area?", "a": "Yes — the entire Vieux-Port quay is a dog-friendly outdoor space. Dogs are welcome on the quays, at terrace restaurants, and on the ferry to Frioul."}
+        {
+          "q": "Is Marseille dog-friendly overall?",
+          "a": "Moderately — outdoor Marseille (Calanques, Corniche, Vieux-Port terraces) is excellent for dogs, but indoor access (restaurants, transport, shops) is more restricted than in northern European cities."
+        },
+        {
+          "q": "Is it safe to walk dogs in Marseille in summer?",
+          "a": "Only before 9am and after 18:00. Midday pavement temperatures can cause paw burns in under two minutes on hot tarmac — the 'hand test' rule applies: if you can't hold your palm on the ground for 5 seconds, it's too hot for your dog."
+        },
+        {
+          "q": "Can I bring my dog to the Vieux-Port area?",
+          "a": "Yes — the entire Vieux-Port quay is a dog-friendly outdoor space. Dogs are welcome on the quays, at terrace restaurants, and on the ferry to Frioul."
+        }
       ],
       "faqsFr": [
-        {"q": "Marseille est-elle globalement dog-friendly ?", "a": "Moyennement — le Marseille extérieur (Calanques, Corniche, terrasses du Vieux-Port) est excellent pour les chiens, mais l'accès intérieur (restaurants, transports, commerces) est plus restreint que dans les villes d'Europe du Nord."},
-        {"q": "Est-il prudent de promener les chiens à Marseille en été ?", "a": "Seulement avant 9h et après 18h. Les températures du sol à midi peuvent provoquer des brûlures aux coussinets en moins de deux minutes sur l'asphalte chaud — la règle de 'test de la paume' s'applique : si vous ne pouvez pas tenir votre paume au sol 5 secondes, c'est trop chaud pour votre chien."},
-        {"q": "Puis-je emmener mon chien dans la zone du Vieux-Port ?", "a": "Oui — l'ensemble des quais du Vieux-Port est un espace extérieur dog-friendly. Les chiens sont bienvenus sur les quais, dans les restaurants en terrasse et sur le ferry pour le Frioul."}
+        {
+          "q": "Marseille est-elle globalement dog-friendly ?",
+          "a": "Moyennement — le Marseille extérieur (Calanques, Corniche, terrasses du Vieux-Port) est excellent pour les chiens, mais l'accès intérieur (restaurants, transports, commerces) est plus restreint que dans les villes d'Europe du Nord."
+        },
+        {
+          "q": "Est-il prudent de promener les chiens à Marseille en été ?",
+          "a": "Seulement avant 9h et après 18h. Les températures du sol à midi peuvent provoquer des brûlures aux coussinets en moins de deux minutes sur l'asphalte chaud — la règle de 'test de la paume' s'applique : si vous ne pouvez pas tenir votre paume au sol 5 secondes, c'est trop chaud pour votre chien."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans la zone du Vieux-Port ?",
+          "a": "Oui — l'ensemble des quais du Vieux-Port est un espace extérieur dog-friendly. Les chiens sont bienvenus sur les quais, dans les restaurants en terrasse et sur le ferry pour le Frioul."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Marsella generalmente dog-friendly?", "a": "Moderadamente: el Marsella exterior (Calanques, Corniche, terrazas del Vieux-Port) es excelente para los perros, pero el acceso interior (restaurantes, transporte, tiendas) es más restrictivo que en las ciudades del norte de Europa."},
-        {"q": "¿Es seguro pasear perros en Marsella en verano?", "a": "Solo antes de las 9 h y después de las 18:00. Las temperaturas del suelo al mediodía pueden causar quemaduras en las almohadillas en menos de dos minutos sobre asfalto caliente: aplica la 'regla de la mano': si no puedes mantener la palma en el suelo 5 segundos, hace demasiado calor para tu perro."},
-        {"q": "¿Puedo llevar a mi perro a la zona del Vieux-Port?", "a": "Sí: todo el muelle del Vieux-Port es un espacio exterior dog-friendly. Los perros son bienvenidos en los muelles, en las terrazas de los restaurantes y en el ferry a Frioul."}
+        {
+          "q": "¿Es Marsella generalmente dog-friendly?",
+          "a": "Moderadamente: el Marsella exterior (Calanques, Corniche, terrazas del Vieux-Port) es excelente para los perros, pero el acceso interior (restaurantes, transporte, tiendas) es más restrictivo que en las ciudades del norte de Europa."
+        },
+        {
+          "q": "¿Es seguro pasear perros en Marsella en verano?",
+          "a": "Solo antes de las 9 h y después de las 18:00. Las temperaturas del suelo al mediodía pueden causar quemaduras en las almohadillas en menos de dos minutos sobre asfalto caliente: aplica la 'regla de la mano': si no puedes mantener la palma en el suelo 5 segundos, hace demasiado calor para tu perro."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a la zona del Vieux-Port?",
+          "a": "Sí: todo el muelle del Vieux-Port es un espacio exterior dog-friendly. Los perros son bienvenidos en los muelles, en las terrazas de los restaurantes y en el ferry a Frioul."
+        }
       ]
     },
     "attractions": {
@@ -498,7 +660,7 @@
           "name": "Vieux-Port Promenade",
           "address": "Quai du Port, 13002 Marseille",
           "neighborhood": "1er arrondissement",
-          "photo": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-attractions-vieux-port-promenade.jpg",
           "website": "https://www.marseille-tourisme.com/en/organize-your-stay/visiting-marseille-with-a-dog/",
           "description": "The heart of Marseille — a 600-metre promenade around the old fishing port where dogs are fully welcome on the quays. The daily fish market wraps up by 9am, leaving the quayside clear for walks.",
           "descriptionFr": "Le cœur de Marseille — une promenade de 600 mètres autour du vieux port de pêche où les chiens sont totalement bienvenus sur les quais. Le marché aux poissons quotidien se termine vers 9h, laissant le quai libre pour les promenades.",
@@ -520,7 +682,7 @@
           "name": "Corniche Kennedy",
           "address": "Corniche Président John Fitzgerald Kennedy, 13007 Marseille",
           "neighborhood": "7e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1499678329028-101435549a4e?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-attractions-corniche-kennedy.jpg",
           "website": "https://www.marseille-tourisme.com/en/organize-your-stay/visiting-marseille-with-a-dog/",
           "description": "A 5-kilometre clifftop seafront road with a dedicated pedestrian path — the best long walk in Marseille for dogs. Passes Vallon des Auffes (home to Chez Fonfon) and offers constant sea views.",
           "descriptionFr": "Une route côtière de 5 kilomètres avec une piste piétonne dédiée — la meilleure longue balade de Marseille pour les chiens. Passe devant le Vallon des Auffes (où se trouve Chez Fonfon) et offre des vues permanentes sur la mer.",
@@ -542,7 +704,7 @@
           "name": "Le Panier — Historic Quarter Walk",
           "address": "Quartier du Panier, 13002 Marseille",
           "neighborhood": "2e arrondissement",
-          "photo": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-attractions-le-panier-historic-quarter-walk.jpg",
           "website": "https://www.marseille-tourisme.com/",
           "description": "Marseille's oldest neighbourhood — a labyrinth of narrow streets, street art and stairs connecting the Vieux-Port to the hilltop. Fully walkable with dogs and several small café terraces accept pets.",
           "descriptionFr": "Le plus ancien quartier de Marseille — un labyrinthe de ruelles, de street art et d'escaliers reliant le Vieux-Port au sommet de la colline. Entièrement praticable avec les chiens et plusieurs petites terrasses de cafés acceptent les animaux.",
@@ -577,19 +739,46 @@
         "La basílica de Notre-Dame de la Garde puede visitarse con perros en la terraza exterior: las vistas sobre la ciudad son excepcionales."
       ],
       "faqsEn": [
-        {"q": "Can my dog visit the MuCEM?", "a": "Dogs are permitted in MuCEM's exterior areas (esplanade and outdoor walkways) but are not allowed inside the exhibition halls."},
-        {"q": "Is the Vieux-Port dog-friendly?", "a": "Fully — the quays around the old port are open to dogs without restriction and many terrace restaurants welcome pets."},
-        {"q": "Can I take my dog to see the Calanques?", "a": "Yes, on leash. The most accessible calanques for dogs are Sugiton (from Luminy by bus) and those on the Frioul islands (by ferry from Vieux-Port)."}
+        {
+          "q": "Can my dog visit the MuCEM?",
+          "a": "Dogs are permitted in MuCEM's exterior areas (esplanade and outdoor walkways) but are not allowed inside the exhibition halls."
+        },
+        {
+          "q": "Is the Vieux-Port dog-friendly?",
+          "a": "Fully — the quays around the old port are open to dogs without restriction and many terrace restaurants welcome pets."
+        },
+        {
+          "q": "Can I take my dog to see the Calanques?",
+          "a": "Yes, on leash. The most accessible calanques for dogs are Sugiton (from Luminy by bus) and those on the Frioul islands (by ferry from Vieux-Port)."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il visiter le MuCEM ?", "a": "Les chiens sont autorisés dans les espaces extérieurs du MuCEM (esplanade et passerelles extérieures) mais ne sont pas admis dans les salles d'exposition."},
-        {"q": "Le Vieux-Port est-il dog-friendly ?", "a": "Entièrement — les quais autour du vieux port sont ouverts aux chiens sans restriction et de nombreux restaurants en terrasse accueillent les animaux."},
-        {"q": "Puis-je emmener mon chien voir les Calanques ?", "a": "Oui, en laisse. Les calanques les plus accessibles pour les chiens sont Sugiton (depuis Luminy en bus) et celles des îles du Frioul (en ferry depuis le Vieux-Port)."}
+        {
+          "q": "Mon chien peut-il visiter le MuCEM ?",
+          "a": "Les chiens sont autorisés dans les espaces extérieurs du MuCEM (esplanade et passerelles extérieures) mais ne sont pas admis dans les salles d'exposition."
+        },
+        {
+          "q": "Le Vieux-Port est-il dog-friendly ?",
+          "a": "Entièrement — les quais autour du vieux port sont ouverts aux chiens sans restriction et de nombreux restaurants en terrasse accueillent les animaux."
+        },
+        {
+          "q": "Puis-je emmener mon chien voir les Calanques ?",
+          "a": "Oui, en laisse. Les calanques les plus accessibles pour les chiens sont Sugiton (depuis Luminy en bus) et celles des îles du Frioul (en ferry depuis le Vieux-Port)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puede mi perro visitar el MuCEM?", "a": "Los perros están permitidos en las áreas exteriores del MuCEM (esplanada y pasarelas exteriores) pero no se admiten en las salas de exposición."},
-        {"q": "¿Es el Vieux-Port dog-friendly?", "a": "Totalmente: los muelles alrededor del antiguo puerto están abiertos a los perros sin restricciones y muchos restaurantes con terraza aceptan mascotas."},
-        {"q": "¿Puedo llevar a mi perro a ver las Calanques?", "a": "Sí, con correa. Las calanques más accesibles para los perros son Sugiton (desde Luminy en autobús) y las de las islas Frioul (en ferry desde el Vieux-Port)."}
+        {
+          "q": "¿Puede mi perro visitar el MuCEM?",
+          "a": "Los perros están permitidos en las áreas exteriores del MuCEM (esplanada y pasarelas exteriores) pero no se admiten en las salas de exposición."
+        },
+        {
+          "q": "¿Es el Vieux-Port dog-friendly?",
+          "a": "Totalmente: los muelles alrededor del antiguo puerto están abiertos a los perros sin restricciones y muchos restaurantes con terraza aceptan mascotas."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a ver las Calanques?",
+          "a": "Sí, con correa. Las calanques más accesibles para los perros son Sugiton (desde Luminy en autobús) y las de las islas Frioul (en ferry desde el Vieux-Port)."
+        }
       ]
     },
     "petsitting": {
@@ -604,7 +793,7 @@
           "name": "Pawshake Marseille",
           "address": "Online platform — sitters throughout Marseille",
           "neighborhood": "City-wide",
-          "photo": "https://images.unsplash.com/photo-1601758124096-519f4ad609d8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/marseille-petsitting-pawshake-marseille.jpg",
           "website": "https://www.pawshake.fr/garde-chien/marseille-provence-alpes-cote-dazur",
           "description": "Marseille's most reviewed pet-sitting platform with a 4.99/5 average. All bookings include veterinary coverage and 24/7 support — the safest option for tourist stays.",
           "descriptionFr": "La plateforme de pet-sitting la mieux notée à Marseille avec une moyenne de 4,99/5. Toutes les réservations incluent une couverture vétérinaire et un support 24h/24 — l'option la plus sûre pour les séjours touristiques.",
@@ -639,19 +828,46 @@
         "Reserva el alojamiento de verano (julio–agosto) con al menos 2 semanas de antelación: Marsella se llena como destino vacacional y los cuidadores se reservan pronto."
       ],
       "faqsEn": [
-        {"q": "Where can I find a dog sitter in Marseille for a day?", "a": "Pawshake (pawshake.fr) is the most reliable — book drop-in visits or full-day care. Gudog (gudog.fr) is an alternative with lower starting prices."},
-        {"q": "Is there a dog kennel near Marseille city centre?", "a": "Pension canines exist in the Marseille suburbs — search 'pension canine Marseille' for options near your area. Pawshake home boarding is generally more comfortable for dogs and more central."},
-        {"q": "How much does dog sitting cost in Marseille?", "a": "Pawshake rates range from €16–€30/night for home boarding. Gudog starts from €6/day. Rates vary by sitter experience and neighbourhood."}
+        {
+          "q": "Where can I find a dog sitter in Marseille for a day?",
+          "a": "Pawshake (pawshake.fr) is the most reliable — book drop-in visits or full-day care. Gudog (gudog.fr) is an alternative with lower starting prices."
+        },
+        {
+          "q": "Is there a dog kennel near Marseille city centre?",
+          "a": "Pension canines exist in the Marseille suburbs — search 'pension canine Marseille' for options near your area. Pawshake home boarding is generally more comfortable for dogs and more central."
+        },
+        {
+          "q": "How much does dog sitting cost in Marseille?",
+          "a": "Pawshake rates range from €16–€30/night for home boarding. Gudog starts from €6/day. Rates vary by sitter experience and neighbourhood."
+        }
       ],
       "faqsFr": [
-        {"q": "Où trouver un dog-sitter à Marseille pour la journée ?", "a": "Pawshake (pawshake.fr) est le plus fiable — réservez des visites à domicile ou une garde à la journée. Gudog (gudog.fr) est une alternative avec des prix de départ plus bas."},
-        {"q": "Y a-t-il un chenil près du centre-ville de Marseille ?", "a": "Des pensions canines existent en banlieue marseillaise — recherchez 'pension canine Marseille' pour les options près de chez vous. L'hébergement Pawshake à domicile est généralement plus confortable pour les chiens et plus central."},
-        {"q": "Combien coûte la garde de chien à Marseille ?", "a": "Les tarifs Pawshake vont de 16 à 30 €/nuit pour l'hébergement à domicile. Gudog commence à 6 €/jour. Les tarifs varient selon l'expérience du gardien et le quartier."}
+        {
+          "q": "Où trouver un dog-sitter à Marseille pour la journée ?",
+          "a": "Pawshake (pawshake.fr) est le plus fiable — réservez des visites à domicile ou une garde à la journée. Gudog (gudog.fr) est une alternative avec des prix de départ plus bas."
+        },
+        {
+          "q": "Y a-t-il un chenil près du centre-ville de Marseille ?",
+          "a": "Des pensions canines existent en banlieue marseillaise — recherchez 'pension canine Marseille' pour les options près de chez vous. L'hébergement Pawshake à domicile est généralement plus confortable pour les chiens et plus central."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Marseille ?",
+          "a": "Les tarifs Pawshake vont de 16 à 30 €/nuit pour l'hébergement à domicile. Gudog commence à 6 €/jour. Les tarifs varient selon l'expérience du gardien et le quartier."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde puedo encontrar un cuidador de perros en Marsella para un día?", "a": "Pawshake (pawshake.fr) es el más fiable: reserva visitas a domicilio o cuidado de día completo. Gudog (gudog.fr) es una alternativa con precios iniciales más bajos."},
-        {"q": "¿Hay una perrera cerca del centro de Marsella?", "a": "Existen pensiones caninas en los suburbios de Marsella: busca 'pension canine Marseille' para opciones cerca de tu zona. El alojamiento doméstico de Pawshake es generalmente más cómodo para los perros y más céntrico."},
-        {"q": "¿Cuánto cuesta el cuidado de perros en Marsella?", "a": "Las tarifas de Pawshake oscilan entre 16 y 30 €/noche para alojamiento doméstico. Gudog empieza desde 6 €/día. Las tarifas varían según la experiencia del cuidador y el barrio."}
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Marsella para un día?",
+          "a": "Pawshake (pawshake.fr) es el más fiable: reserva visitas a domicilio o cuidado de día completo. Gudog (gudog.fr) es una alternativa con precios iniciales más bajos."
+        },
+        {
+          "q": "¿Hay una perrera cerca del centro de Marsella?",
+          "a": "Existen pensiones caninas en los suburbios de Marsella: busca 'pension canine Marseille' para opciones cerca de tu zona. El alojamiento doméstico de Pawshake es generalmente más cómodo para los perros y más céntrico."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Marsella?",
+          "a": "Las tarifas de Pawshake oscilan entre 16 y 30 €/noche para alojamiento doméstico. Gudog empieza desde 6 €/día. Las tarifas varían según la experiencia del cuidador y el barrio."
+        }
       ]
     }
   }

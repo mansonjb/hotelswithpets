@@ -17,7 +17,7 @@
           "name": "Les 4 Z'Arts",
           "address": "11 Place de la Daurade, 31000 Toulouse",
           "neighborhood": "Capitole",
-          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/toulouse-restaurants-les-4-z-arts.jpg",
           "website": "https://les-4-zarts.eatbu.com/",
           "description": "A French bistro in a prime location on the Place de la Daurade, directly on the banks of the Garonne. Pet-friendly outdoor tables with water bowls for dogs, in one of Toulouse's most scenic riverside squares. The menu is market-driven French cuisine — duck confit, magret de canard, and cassoulet are regulars. The view over the Garonne and the Notre-Dame de la Daurade basilica makes this one of the most atmospheric dog-dining spots in southwest France. BringFido-verified.",
           "descriptionFr": "Un bistrot français dans un emplacement de premier choix sur la Place de la Daurade, directement sur les berges de la Garonne. Tables extérieures pet-friendly avec bols d'eau pour les chiens, dans l'une des plus belles places riveraines de Toulouse. La carte propose une cuisine française du marché — confit de canard, magret et cassoulet. La vue sur la Garonne et la basilique Notre-Dame de la Daurade en fait l'un des spots de restauration canine les plus atmosphériques du sud-ouest de la France.",
@@ -81,7 +81,7 @@
         {
           "name": "Prairie des Filtres",
           "type": "Riverside Park",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/toulouse-parks-prairie-des-filtres.jpg",
           "website": "https://www.toulouse.fr/",
           "description": "A wide riverside meadow along the Garonne in central Toulouse, adjacent to the historic city centre. One of the city's most popular dog-walking destinations — an off-leash freedom area is located within the park where dogs can run freely. Open daily 7:00–22:00. Dogs can access the Garonne riverbank for supervised swimming. The park connects to a longer riverside promenade along both banks. Tram line T1 stops nearby.",
           "descriptionFr": "Une large prairie riveraine le long de la Garonne dans le centre de Toulouse, adjacente au centre historique. L'une des destinations de promenade canine les plus populaires de la ville — une zone de liberté pour chiens est située dans le parc. Ouvert tous les jours de 7h à 22h. Les chiens peuvent accéder à la berge de la Garonne pour une baignade surveillée.",
@@ -98,7 +98,7 @@
         {
           "name": "Jardins Compans-Caffarelli",
           "type": "Public Garden",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/toulouse-parks-jardins-compans-caffarelli.jpg",
           "website": "https://www.toulouse.fr/",
           "description": "A 7-hectare formal garden near the Toulouse-Matabiau train station with alleys, lawns, and a Japanese garden section. Dogs can walk in the alleys and use the lawns for picnics, though the Japanese garden is restricted. A caniparc (fenced dog area) is available within the garden. Good option for a structured walk close to the city centre and train station.",
           "descriptionFr": "Un jardin formel de 7 hectares près de la gare Toulouse-Matabiau avec allées, pelouses et un jardin japonais. Les chiens peuvent se promener dans les allées et utiliser les pelouses pour les pique-niques, bien que le jardin japonais soit restreint. Un caniparc (espace canin clôturé) est disponible dans le jardin.",
@@ -115,7 +115,7 @@
         {
           "name": "Forêt Domaniale de Bouconne",
           "type": "Forest",
-          "photo": "https://images.unsplash.com/photo-1534432586040-1fe62f7da0e8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/toulouse-parks-foret-domaniale-de-bouconne.jpg",
           "website": "https://www.onf.fr/",
           "description": "A 2,700-hectare state forest on the western edge of Toulouse, offering 5 marked walking trails, 2 sports trails, and a GR hiking route. Dogs can go off-lead in the forest. The terrain is mostly flat with light undergrowth — good for high-energy dogs who need long runs. Accessible by car (15–20 min from city centre); no direct public transport. Bring water as there are few facilities inside the forest.",
           "descriptionFr": "Une forêt domaniale de 2 700 hectares à l'ouest de Toulouse, offrant 5 sentiers de randonnée balisés, 2 sentiers sportifs et un itinéraire GR. Les chiens peuvent aller sans laisse dans la forêt. Le terrain est principalement plat avec une végétation légère — idéal pour les chiens très actifs. Accessible en voiture (15–20 min depuis le centre-ville) ; pas de transport en commun direct.",
@@ -267,7 +267,8 @@
           "tip": "Located in Purpan — about 20 minutes by car from the city centre. Call +33 5 61 61 20 20 before leaving so the team can prepare for your arrival.",
           "tipFr": "Situé à Purpan — environ 20 minutes en voiture depuis le centre-ville. Appelez le +33 5 61 61 20 20 avant de partir pour que l'équipe puisse se préparer à votre arrivée.",
           "tipEs": "Ubicado en Purpan, a unos 20 minutos en coche desde el centro de la ciudad. Llama al +33 5 61 61 20 20 antes de salir para que el equipo pueda prepararse para tu llegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=VetOccitanie+2+rue+Lionel+de+Marmier+Toulouse"
+          "googleMapsUrl": "https://maps.google.com/?q=VetOccitanie+2+rue+Lionel+de+Marmier+Toulouse",
+          "photo": "/images/city-places/toulouse-vets-chv-vetoccitanie.jpg"
         }
       ],
       "faqsEn": [
@@ -354,7 +355,7 @@
       "places": [
         {
           "name": "Rover Toulouse",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/toulouse-petsitting-rover-toulouse.jpg",
           "website": "https://www.rover.com/fr/toulouse--haute-garonne/",
           "description": "Rover's French platform with sitters across Toulouse. All sitters pass background checks. Services include dog walking, home boarding, and day care. Average cost: ~€12–15 per 30-minute walk, €25–40 per night boarding. The Rover platform in France is entirely in French — most Toulouse sitters speak only French.",
           "descriptionFr": "La plateforme française de Rover avec des gardiens dans toute Toulouse. Tous passent des vérifications. Services : promenades, pension, garderie. Coût moyen : 12–15 €/promenade de 30 min, 25–40 €/nuit en pension.",
@@ -363,7 +364,9 @@
           "serviceTypeFr": "Promenades, pension, garderie de jour",
           "serviceTypeEs": "Paseos, alojamiento, guardería diurna",
           "pricePerDay": "€25–40 overnight; €12–15 per walk",
-          "languages": ["French"],
+          "languages": [
+            "French"
+          ],
           "tip": "Gudog.fr is an alternative French platform with strong Toulouse coverage — and more sitters with English language skills for international visitors.",
           "tipFr": "Gudog.fr est une plateforme française alternative avec une bonne couverture à Toulouse — et plus de gardiens avec des compétences en anglais pour les visiteurs internationaux.",
           "tipEs": "Gudog.fr es una plataforma francesa alternativa con buena cobertura en Toulouse, y más cuidadores con conocimientos de inglés para visitantes internacionales."

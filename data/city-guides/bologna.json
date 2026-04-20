@@ -17,7 +17,7 @@
           "name": "Trattoria Boni",
           "address": "Via Don Luigi Sturzo 22/cd, 40135 Bologna",
           "neighborhood": "Saragozza",
-          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/bologna-restaurants-trattoria-boni.jpg",
           "website": "https://www.facebook.com/TrattoriaBoni/",
           "description": "A family-run trattoria in its fourth generation since 1961, in the Saragozza neighbourhood. Specifically registered as dog-friendly on Dogwelcome.it — dogs up to medium size are accepted inside, receive a snack, and get a water bowl on arrival. The menu is resolutely traditional Bolognese: tortellini in brodo, tagliatelle al ragù, lasagna, and grilled meats. The atmosphere is warm, unpretentious, and typical of what makes Bologna the best city in Italy for traditional cooking.",
           "descriptionFr": "Une trattoria familiale dans sa quatrième génération depuis 1961, dans le quartier Saragozza. Spécifiquement enregistrée comme dog-friendly sur Dogwelcome.it — les chiens jusqu'à taille moyenne sont acceptés à l'intérieur, reçoivent une friandise et un bol d'eau à l'arrivée. La carte est résolument bolognaise traditionnelle : tortellini in brodo, tagliatelle al ragù, lasagne et viandes grillées.",
@@ -93,7 +93,7 @@
         {
           "name": "Giardini Margherita",
           "type": "Public Park",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/bologna-parks-giardini-margherita.jpg",
           "website": "https://www.comune.bologna.it/",
           "description": "Bologna's largest and most central park, covering 26 hectares in the Murri neighbourhood. Home to the Ospedale Veterinario Giardini Margherita (Bluvet) — a 24/7 emergency vet clinic, conveniently located within the park itself. The park has a designated off-leash area (area sgambatura) where dogs can run freely. Popular with local dog owners on weekday mornings and weekend afternoons. The park's café has outdoor seating.",
           "descriptionFr": "Le plus grand et le plus central parc de Bologne, couvrant 26 hectares dans le quartier Murri. Il abrite l'Ospedale Veterinario Giardini Margherita (Bluvet) — une clinique vétérinaire d'urgence 24h/24 idéalement située dans le parc même. Le parc dispose d'une zone de liberté désignée (area sgambatura) où les chiens peuvent courir librement.",
@@ -110,7 +110,7 @@
         {
           "name": "Parco del Velodromo",
           "type": "Neighbourhood Park",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/bologna-parks-parco-del-velodromo.jpg",
           "website": "https://www.comune.bologna.it/",
           "description": "A neighbourhood park in the Savena district with a fully fenced off-leash area specifically designed for dogs. The fenced enclosure makes it ideal for dogs with unreliable recall or those who need to exercise in a secure space. Smaller than Giardini Margherita but well-maintained and less crowded. Local dog owners use it consistently on weekday mornings.",
           "descriptionFr": "Un parc de quartier dans le district de Savena avec une zone de liberté entièrement clôturée spécifiquement conçue pour les chiens. L'enclos clôturé le rend idéal pour les chiens dont le rappel est peu fiable ou ceux qui ont besoin de s'exercer dans un espace sécurisé. Plus petit que les Giardini Margherita mais bien entretenu et moins fréquenté.",
@@ -262,7 +262,8 @@
           "tip": "Located inside the same park where most visitors walk their dogs — convenient for any emergency that arises during a park visit.",
           "tipFr": "Situé dans le même parc où la plupart des visiteurs promènent leurs chiens — pratique pour toute urgence survenant lors d'une visite au parc.",
           "tipEs": "Ubicado dentro del mismo parque donde la mayoría de los visitantes pasean a sus perros: conveniente para cualquier emergencia que surja durante una visita al parque.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Giardini+Margherita+Bologna"
+          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Giardini+Margherita+Bologna",
+          "photo": "/images/city-places/bologna-vets-ospedale-veterinario-giardini-margherita-bluvet.jpg"
         },
         {
           "name": "Clinica Veterinaria Semprini",
@@ -280,7 +281,8 @@
           "tip": "Call ahead at +39 051 6491706 before visiting — the clinic uses phone triage to manage emergency arrivals efficiently.",
           "tipFr": "Appelez à l'avance au +39 051 6491706 avant de vous rendre — la clinique utilise le triage téléphonique pour gérer efficacement les arrivées d'urgence.",
           "tipEs": "Llama con antelación al +39 051 6491706 antes de ir: la clínica utiliza el triaje telefónico para gestionar eficientemente las llegadas de urgencia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Semprini+Via+Montenero+Bologna"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Semprini+Via+Montenero+Bologna",
+          "photo": "/images/city-places/bologna-vets-clinica-veterinaria-semprini.jpg"
         }
       ],
       "faqsEn": [
@@ -361,7 +363,7 @@
         {
           "name": "Portico di San Luca",
           "neighborhood": "Saragozza / Colli Bolognesi",
-          "photo": "https://images.unsplash.com/photo-1548919973-5cef591cdbc9?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/bologna-attractions-portico-di-san-luca.jpg",
           "website": "https://www.bolognawelcome.com/",
           "description": "The world's longest portico — 666 arches covering 3.8km from the Arco del Meloncello city gate to the Sanctuary of the Madonna di San Luca on the Colli Bolognesi. Dogs on leads are welcome throughout. The walk gains about 200 metres in elevation — gentle enough for most dogs but a workout for older animals. At the top, panoramic views over Bologna and the Apennines reward the climb. UNESCO World Heritage Site since 2021.",
           "descriptionFr": "Le plus long portique du monde — 666 arches couvrant 3,8 km depuis la porte de ville Arco del Meloncello jusqu'au Sanctuaire de la Madonna di San Luca sur les Colli Bolognesi. Les chiens en laisse sont les bienvenus tout au long. La promenade gagne environ 200 mètres d'altitude — assez douce pour la plupart des chiens mais sportive pour les animaux âgés. Au sommet, des vues panoramiques sur Bologne et les Apennins récompensent l'ascension. Site du patrimoine mondial de l'UNESCO depuis 2021.",
@@ -419,7 +421,7 @@
       "places": [
         {
           "name": "Rover Bologna",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/bologna-petsitting-rover-bologna.jpg",
           "website": "https://www.rover.com/it/bologna--emilia-romagna/",
           "description": "Rover's Italian platform with sitters across Bologna. All sitters pass background checks. Services include dog walking, home boarding, and day care. Particularly useful during museum visits — a 2–3 hour booking covers most Italian museum experiences. Average cost: ~€10–12 per 30-minute walk, €20–30 per night boarding. Most sitters in Bologna speak Italian only; filter for English-speaking sitters if needed.",
           "descriptionFr": "La plateforme italienne de Rover avec des gardiens dans toute Bologne. Tous les gardiens passent des vérifications. Services : promenades, pension, garderie. Particulièrement utile lors des visites de musées. Coût moyen : ~10–12 €/promenade de 30 min, 20–30 €/nuit en pension. La plupart des gardiens à Bologne parlent uniquement italien.",
@@ -428,7 +430,10 @@
           "serviceTypeFr": "Promenades, pension, garderie, visites",
           "serviceTypeEs": "Paseos, alojamiento, guardería, visitas",
           "pricePerDay": "€20–30 overnight; €10–12 per walk",
-          "languages": ["Italian", "English (some sitters)"],
+          "languages": [
+            "Italian",
+            "English (some sitters)"
+          ],
           "tip": "Bologna's museum dog-sitting service is free (or very low cost) for specific museums — combine this with Rover for full-day coverage during longer museum itineraries.",
           "tipFr": "Le service de garde canine des musées de Bologne est gratuit (ou très peu coûteux) dans certains musées — combinez-le avec Rover pour une couverture journée complète lors d'itinéraires musées plus longs.",
           "tipEs": "El servicio de cuidado de perros de los museos de Bolonia es gratuito (o de muy bajo coste) en museos específicos: combínalo con Rover para una cobertura de día completo durante itinerarios de museos más largos."

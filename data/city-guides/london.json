@@ -17,7 +17,7 @@
           "name": "Bellanger",
           "address": "9 Islington Green, N1 2XH, London",
           "neighborhood": "Islington",
-          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-restaurants-bellanger.jpg",
           "website": "https://bellanger.co.uk",
           "description": "A grand Parisian brasserie on Islington Green that treats dogs as welcome guests rather than an afterthought. Dogs are allowed throughout the restaurant — inside and on the terrace overlooking the Green. The kitchen sends out homemade Bellanger-branded dog biscuits to every table with a four-legged guest. The menu runs from classic onion soup and steak tartare to croque monsieur. Closest tube: Angel (10-min walk).",
           "descriptionFr": "Une grande brasserie parisienne sur Islington Green qui traite les chiens comme des clients de plein droit. Les chiens sont admis dans toute la salle et en terrasse. La cuisine envoie des biscuits maison estampillés Bellanger à chaque table accompagnée d'un quatre-pattes. La carte propose soupe à l'oignon, steak tartare et croque-monsieur. Métro : Angel (10 min à pied).",
@@ -39,7 +39,7 @@
           "name": "Los Mochis Notting Hill",
           "address": "2-4 Farmer St, W8 7SN, London",
           "neighborhood": "Notting Hill",
-          "photo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-restaurants-los-mochis-notting-hill.jpg",
           "website": "https://www.losmochis.co.uk/nh/notting-hill",
           "description": "The restaurant is literally named after Mochi, the founder's Yorkshire Terrier — a portrait of her hangs in the dining area. Dogs are welcome at the bar and outside on the terrace, and they get a fresh water bowl on arrival. The menu fuses Mexican and Japanese flavours in ways that genuinely work: yuzu-dressed ceviche, miso-glazed pork tacos, and an exceptional list of mezcal and sake. Closest tube: Notting Hill Gate (3-min walk).",
           "descriptionFr": "Le restaurant porte littéralement le nom de Mochi, le Yorkshire Terrier du fondateur, dont le portrait orne la salle. Les chiens sont les bienvenus au bar et en terrasse, avec un bol d'eau à la disposition. La carte mêle saveurs mexicaines et japonaises : ceviche à la yuzu, tacos de porc au miso et une belle sélection de mezcal et saké. Métro : Notting Hill Gate (3 min à pied).",
@@ -115,7 +115,7 @@
         {
           "name": "Hyde Park — The Dog Bowl",
           "type": "Royal Park",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-parks-hyde-park-the-dog-bowl.jpg",
           "website": "https://www.royalparks.org.uk/parks/hyde-park",
           "description": "Hyde Park's dedicated off-leash area is nicknamed 'The Dog Bowl' — a large open meadow near Speakers' Corner where dogs can run freely. The park covers 350 acres and dogs are on-lead in the Kensington Gardens section and near the Serpentine. The Dog Bowl is one of the best places to socialize a dog in London — high footfall, tolerant regulars, and plenty of space. The park-side café at Speakers' Corner offers outdoor seating.",
           "descriptionFr": "La zone de liberté dédiée de Hyde Park est surnommée 'The Dog Bowl' — une grande prairie ouverte près de Speakers' Corner où les chiens peuvent courir librement. Le parc couvre 350 acres et les chiens doivent être tenus en laisse dans la section de Kensington Gardens et près de la Serpentine.",
@@ -132,7 +132,7 @@
         {
           "name": "Hampstead Heath",
           "type": "Heath",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-parks-hampstead-heath.jpg",
           "website": "https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath",
           "description": "790 acres of ancient woodland, meadows, and swimming ponds in North London. Dogs are off-leash across most of the heath and there is a dedicated dog-swimming pond on the Highgate side. The terrain is varied — muddy trails through woods, open hillsides with city views, and ponds for summer splashing. Heavily used by North London dog owners at weekends; arrive before 9am for a calmer experience. The Lido Café near the ponds has outdoor seating.",
           "descriptionFr": "790 acres de forêts, prairies et bassins de baignade au nord de Londres. Les chiens peuvent aller sans laisse dans la quasi-totalité du Heath, avec un bassin spécial pour chiens côté Highgate. Le terrain est varié : chemins boueux en forêt, collines ouvertes avec vue sur la ville, bassins pour se rafraîchir l'été. Très fréquenté par les propriétaires de chiens du nord de Londres le week-end.",
@@ -149,7 +149,7 @@
         {
           "name": "Victoria Park",
           "type": "Public Park",
-          "photo": "https://images.unsplash.com/photo-1534432586040-1fe62f7da0e8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-parks-victoria-park.jpg",
           "website": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/victoria_park.aspx",
           "description": "218-acre park in East London with multiple designated off-leash areas and a loyal local dog-walking community. The western half of the park has the largest off-leash meadow; the boating lake area requires leads. Victoria Park is significantly less crowded than the Royal Parks on weekday mornings — ideal for dogs who find busy spaces stressful. The Pavilion Café on the lakeshore has a large dog-friendly terrace.",
           "descriptionFr": "Parc de 218 acres dans l'East End londonien avec plusieurs zones de liberté désignées et une communauté de promeneuses et promeneurs de chiens très fidèle. La moitié ouest du parc dispose de la plus grande prairie sans laisse ; la zone du lac nécessite la laisse. Victoria Park est bien moins fréquenté que les Royal Parks en semaine.",
@@ -299,7 +299,8 @@
           "season": "Dogs allowed year-round with no restrictions",
           "rules": "Dogs on leads are the norm near the town centre; off-lead is accepted on the quieter eastern sections. No restrictions on size or breed.",
           "facilities": "Dog-friendly pubs along the beach road, multiple seafood stalls with outdoor seating, ample street parking",
-          "googleMapsUrl": "https://maps.google.com/?q=Whitstable+Beach+Kent"
+          "googleMapsUrl": "https://maps.google.com/?q=Whitstable+Beach+Kent",
+          "photo": "/images/city-places/london-beaches-whitstable-beach.jpg"
         },
         {
           "name": "Camber Sands",
@@ -308,7 +309,8 @@
           "season": "Dogs allowed year-round on east and west sections; central section restricted May–September",
           "rules": "Dogs must be under control in dunes areas. Seasonal restriction on central section May–Sept — signage is clearly posted.",
           "facilities": "Car parks with seasonal charges, snack kiosks open in summer, dog-friendly pub (The Gallivant) 5 min walk",
-          "googleMapsUrl": "https://maps.google.com/?q=Camber+Sands+East+Sussex"
+          "googleMapsUrl": "https://maps.google.com/?q=Camber+Sands+East+Sussex",
+          "photo": "/images/city-places/london-beaches-camber-sands.jpg"
         }
       ],
       "faqsEn": [
@@ -379,7 +381,8 @@
           "tip": "Call ahead even for emergencies — the team uses arrival calls to triage and prepare equipment, reducing wait time significantly.",
           "tipFr": "Appelez même en cas d'urgence — l'équipe utilise les appels d'arrivée pour faire le triage et préparer le matériel, réduisant significativement le temps d'attente.",
           "tipEs": "Llama antes incluso en emergencias: el equipo usa las llamadas previas para hacer el triaje y preparar el equipamiento, reduciendo significativamente el tiempo de espera.",
-          "googleMapsUrl": "https://maps.google.com/?q=Goddard+Wanstead+Veterinary+Hospital+84+New+Wanstead+London"
+          "googleMapsUrl": "https://maps.google.com/?q=Goddard+Wanstead+Veterinary+Hospital+84+New+Wanstead+London",
+          "photo": "/images/city-places/london-vets-goddard-wanstead-veterinary-hospital.jpg"
         },
         {
           "name": "Goddard Mandeville Veterinary Hospital",
@@ -397,7 +400,8 @@
           "tip": "Located near the A40 Western Avenue — most accessible by car from West or Central London.",
           "tipFr": "Situé près de l'A40 Western Avenue — plus accessible en voiture depuis l'ouest ou le centre de Londres.",
           "tipEs": "Situado cerca de la A40 Western Avenue: más accesible en coche desde el oeste o el centro de Londres.",
-          "googleMapsUrl": "https://maps.google.com/?q=Goddard+Mandeville+Veterinary+Hospital+15+Mandeville+Road+Northolt+London"
+          "googleMapsUrl": "https://maps.google.com/?q=Goddard+Mandeville+Veterinary+Hospital+15+Mandeville+Road+Northolt+London",
+          "photo": "/images/city-places/london-vets-goddard-mandeville-veterinary-hospital.jpg"
         }
       ],
       "faqsEn": [
@@ -490,7 +494,7 @@
         {
           "name": "Tower Bridge",
           "neighborhood": "Southwark",
-          "photo": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-attractions-tower-bridge.jpg",
           "website": "https://www.towerbridge.org.uk/your-visit/dog-friendly",
           "description": "London's most iconic bridge is also its most dog-friendly paid attraction, welcoming hundreds of dogs each year. Dogs on leads are admitted throughout, including the high-level glass walkways and the Victorian Engine Rooms. The bridge runs VIPooch Morning events — early-bird dog-priority opening slots — which can be booked through their website. The bridge also describes itself as 'London's only major dog-friendly attraction', a claim backed by its dedicated dog page.",
           "descriptionFr": "Le pont le plus emblématique de Londres est aussi son attraction payante la plus dog-friendly, accueillant des centaines de chiens chaque année. Les chiens en laisse sont admis partout, y compris sur les passerelles vitrées en hauteur et dans les salles des machines victoriennes. Tower Bridge organise des VIPooch Morning — créneaux d'ouverture anticipés dédiés aux chiens — réservables sur leur site.",
@@ -509,7 +513,7 @@
         {
           "name": "Brunel Museum",
           "neighborhood": "Rotherhithe",
-          "photo": "https://images.unsplash.com/photo-1548919973-5cef591cdbc9?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-attractions-brunel-museum.jpg",
           "website": "https://www.brunel-museum.org.uk",
           "description": "A small but fascinating museum in Rotherhithe telling the story of Isambard Kingdom Brunel and the Thames Tunnel — the world's first underwater tunnel. Dogs are welcome inside the exhibition space, making it one of the only museums in London where you can explore with your dog alongside you. The riverside garden also welcomes dogs.",
           "descriptionFr": "Un petit musée fascinant à Rotherhithe racontant l'histoire d'Isambard Kingdom Brunel et du tunnel de la Tamise — le premier tunnel sous-marin du monde. Les chiens sont les bienvenus dans l'espace d'exposition, ce qui en fait l'un des rares musées londoniens où l'on peut visiter avec son chien.",
@@ -570,7 +574,7 @@
       "places": [
         {
           "name": "Rover London",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-petsitting-rover-london.jpg",
           "website": "https://www.rover.com/uk/london--greater-london--dog-walking/",
           "description": "The largest network of dog walkers and pet sitters in London, with 20,000+ local sitters. All sitters pass a background check. Services include drop-in visits, dog walking (30-min and 60-min), overnight boarding, and doggy day care. Average cost: £14/30-min walk, £30–£45/night boarding. Booking and payment through the Rover app, with GPS-tracked walks and photo updates.",
           "descriptionFr": "Le plus grand réseau de promeneurs de chiens et de pet-sitters à Londres, avec plus de 20 000 gardiens locaux. Tous les gardiens passent une vérification de casier judiciaire. Services : visites de contrôle, promenades (30 et 60 min), pension à domicile et garderie de jour. Coût moyen : 14 £/promenade de 30 min, 30–45 £/nuit en pension.",
@@ -579,14 +583,16 @@
           "serviceTypeFr": "Promenades, garde, pension à domicile, garderie de jour",
           "serviceTypeEs": "Paseos, cuidado, alojamiento en casa, guardería diurna",
           "pricePerDay": "£30–45 overnight; £14–18 per 30-min walk",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Filter by 'experienced with large dogs' and 'has own dog' in the Rover search to find sitters who will genuinely exercise your dog rather than just a garden drop-in.",
           "tipFr": "Filtrez par 'expérimenté avec les grands chiens' et 'possède un chien' dans la recherche Rover pour trouver des gardiens qui exerceront vraiment votre chien plutôt qu'une simple visite dans le jardin.",
           "tipEs": "Filtra por 'experiencia con perros grandes' y 'tiene perro propio' en la búsqueda de Rover para encontrar cuidadores que realmente ejerciten a tu perro y no solo hagan una visita al jardín."
         },
         {
           "name": "Pawshake London",
-          "photo": "https://images.unsplash.com/photo-1522709846083-f2a12af6aafc?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/london-petsitting-pawshake-london.jpg",
           "website": "https://www.pawshake.co.uk/dog-walking/london-greater-london-england",
           "description": "Pawshake connects London dog owners with local sitters and walkers, all covered by the Pawshake Guarantee. Platform takes a 19% service fee from sitters. Particularly strong for dog boarding and longer dog-sitting stays. Search by neighbourhood to find sitters in your hotel's area.",
           "descriptionFr": "Pawshake connecte les propriétaires de chiens londoniens avec des gardiens et promeneurs locaux, tous couverts par la Garantie Pawshake. La plateforme prend une commission de 19% aux gardiens. Particulièrement bien représenté pour la garde et les séjours de plus longue durée.",
@@ -595,7 +601,9 @@
           "serviceTypeFr": "Promenades, garde, pension, garde à domicile",
           "serviceTypeEs": "Paseos, cuidado, alojamiento, cuidado en casa",
           "pricePerDay": "£25–40 overnight boarding",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Book boarding 2–3 weeks in advance for summer and bank holiday weekends — London sitters fill up quickly.",
           "tipFr": "Réservez la pension 2–3 semaines à l'avance pour les week-ends d'été et jours fériés — les gardiens londoniens se remplissent vite.",
           "tipEs": "Reserva el alojamiento con 2–3 semanas de antelación para los fines de semana de verano y festivos: los cuidadores londinenses se llenan rápido."

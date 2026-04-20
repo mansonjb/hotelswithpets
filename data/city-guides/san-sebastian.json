@@ -17,7 +17,7 @@
           "name": "Restaurante Igeldo",
           "address": "Puerto Pesquero, Muelle 14, 20003 Donostia-San Sebastián",
           "neighborhood": "Old Port",
-          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-restaurants-restaurante-igeldo.jpg",
           "website": "https://www.restauranteigeldo.com",
           "description": "A seafood restaurant at the old fishing port, just steps from the Aquarium and La Concha bay. Dogs are welcome throughout the restaurant — on the terrace and inside — and staff provide water bowls on request. The menu centres on the Basque catch of the day: txangurro (spider crab) and kokotxas (cod cheeks) are the emblematic dishes.",
           "descriptionFr": "Un restaurant de fruits de mer au vieux port de pêche, à deux pas de l'Aquarium et de la baie de La Concha. Les chiens sont bienvenus dans tout le restaurant — en terrasse et à l'intérieur — et le personnel fournit des bols d'eau sur demande. La carte tourne autour de la pêche basque du jour : le txangurro (araignée de mer) et les kokotxas (joues de morue) sont les plats emblématiques.",
@@ -39,7 +39,7 @@
           "name": "Villano Bistro",
           "address": "Calle Urdaneta 2, Hotel Intelier Villa Katalina, 20006 Donostia-San Sebastián",
           "neighborhood": "Gros",
-          "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-restaurants-villano-bistro.jpg",
           "website": "https://www.villanobistro.com",
           "description": "A contemporary bistro inside the boutique Hotel Intelier Villa Katalina in the Gros neighbourhood, a short walk from the surf beach Zurriola. Creative pintxos and seasonal Basque dishes are the focus. Dogs are welcome on the terrace and throughout the ground floor — a natural stop after a walk along the Zurriola promenade.",
           "descriptionFr": "Un bistrot contemporain au sein du boutique Hôtel Intelier Villa Katalina dans le quartier Gros, à deux pas de la plage de surf de Zurriola. Pintxos créatifs et plats basques de saison sont à l'honneur. Les chiens sont bienvenus en terrasse et dans tout le rez-de-chaussée — une escale naturelle après une promenade sur le front de mer de Zurriola.",
@@ -88,7 +88,7 @@
         {
           "name": "Monte Urgull",
           "type": "Hill & Nature Reserve",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-parks-monte-urgull.jpg",
           "website": "https://www.sansebastianturismoa.eus",
           "description": "The wooded hill crowning the Old Town, topped by the Castillo de la Mota fort and a large statue of Christ. Monte Urgull's network of shaded paths offers panoramic views over La Concha bay and the Cantabrian Sea. Dogs are permitted off-leash during the designated hours — 18:00 to 12:00 in winter, 19:00 to 10:00 in summer — across the full hill, except that breeds classified as potentially dangerous (PPP) must always remain leashed and muzzled.",
           "descriptionFr": "La colline boisée couronnant la Vieille Ville, surmontée du Castillo de la Mota et d'une grande statue du Christ. Le réseau de sentiers ombragés de Monte Urgull offre des vues panoramiques sur la baie de La Concha et la mer Cantabrique. Les chiens sont autorisés sans laisse pendant les heures désignées — 18h à 12h en hiver, 19h à 10h en été — sur toute la colline, à l'exception des races classées potentiellement dangereuses (PPP) qui doivent toujours rester en laisse et muselière.",
@@ -105,7 +105,7 @@
         {
           "name": "Monte Ulía",
           "type": "Coastal Nature Reserve",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-parks-monte-ulia.jpg",
           "website": "https://www.sansebastianturismoa.eus",
           "description": "The wild eastern headland beyond Zurriola beach, Monte Ulía is a protected natural area with dramatic clifftop trails and Atlantic views. Its off-leash hours are consistent year-round — 18:00 to 12:00 every day — and the trails are far less crowded than Monte Urgull. The GR121 coastal path runs along the clifftops with views stretching to the open Atlantic.",
           "descriptionFr": "La presqu'île sauvage à l'est de la plage de Zurriola, Monte Ulía est une zone naturelle protégée avec des sentiers vertigineux sur les falaises côtières et des vues sur l'Atlantique. Ses horaires sans laisse sont constants toute l'année — 18h à 12h chaque jour — et les sentiers sont beaucoup moins fréquentés que Monte Urgull. Le sentier côtier GR121 longe les falaises avec des vues s'étendant jusqu'à l'Atlantique ouvert.",
@@ -122,7 +122,7 @@
         {
           "name": "Parque Cristina Enea",
           "type": "Urban Park",
-          "photo": "https://images.unsplash.com/photo-1548919973-5cef591cdbc9?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-parks-parque-cristina-enea.jpg",
           "website": "https://www.sansebastianturismoa.eus",
           "description": "San Sebastián's most elegant park — a 17-hectare woodland donated to the city in 1898 by the Duke of Mandas in memory of his wife. Shaded paths wind through exotic trees, ponds, and peacock enclosures along the river Urumea. Dogs are welcome throughout on leads, and the riverbank lawns are an ideal shaded rest stop on hot days.",
           "descriptionFr": "Le parc le plus élégant de Saint-Sébastien — un bois de 17 hectares offert à la ville en 1898 par le duc de Mandas en mémoire de son épouse. Des allées ombragées serpentent parmi des arbres exotiques, des étangs et des enclos à paons le long de la rivière Urumea. Les chiens sont bienvenus tenus en laisse dans tout le parc, et les pelouses en bord de rivière constituent une halte ombragée idéale lors des journées chaudes.",
@@ -211,7 +211,8 @@
           "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
           "rules": "Dogs permitted outside summer bathing season (Oct–May). No dogs 1 Jun–30 Sep during bathing hours. Always pick up after your dog.",
           "facilities": "Promenade, cafés, public toilets nearby. No dog-specific facilities.",
-          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+La+Concha+San+Sebastian"
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+La+Concha+San+Sebastian",
+          "photo": "/images/city-places/san-sebastian-beaches-playa-de-la-concha-ondarreta.jpg"
         },
         {
           "name": "Playa de Zurriola",
@@ -220,7 +221,8 @@
           "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
           "rules": "Same seasonal policy as La Concha. Dogs permitted Oct–May. No dogs during bathing season (Jun–Sep). Keep dog on lead near surf school areas.",
           "facilities": "Surf schools, beach bars, promenade. No dog-specific facilities.",
-          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Zurriola+San+Sebastian"
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Zurriola+San+Sebastian",
+          "photo": "/images/city-places/san-sebastian-beaches-playa-de-zurriola.jpg"
         },
         {
           "name": "Hendaia Beach (Hendaye, France)",
@@ -229,7 +231,8 @@
           "season": "Generally year-round, though some sections may have summer restrictions — verify locally.",
           "rules": "Dogs typically permitted year-round on non-restricted sections. Keep on lead when near designated bathing areas. Bag required.",
           "facilities": "Beach bars, surf shops, parking, public toilets.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Hendaye+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Hendaye+France",
+          "photo": "/images/city-places/san-sebastian-beaches-hendaia-beach-hendaye-france.jpg"
         }
       ],
       "faqsEn": [],
@@ -272,7 +275,8 @@
           "tip": "The clinic is in the Ategorrieta residential district — approximately 10 minutes by taxi from the Old Town. Save the number before you travel.",
           "tipFr": "La clinique se trouve dans le quartier résidentiel d'Ategorrieta — environ 10 minutes en taxi depuis la Vieille Ville. Enregistrez le numéro avant de partir.",
           "tipEs": "La clínica se encuentra en el barrio residencial de Ategorrieta — aproximadamente 10 minutos en taxi desde el Casco Viejo. Guarda el número antes de viajar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+El+Jardin+Avenida+Ategorrieta+47+San+Sebastian"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+El+Jardin+Avenida+Ategorrieta+47+San+Sebastian",
+          "photo": "/images/city-places/san-sebastian-vets-clinica-veterinaria-el-jardin.jpg"
         }
       ],
       "faqsEn": [],
@@ -349,7 +353,7 @@
         {
           "name": "Paseo Nuevo & Monte Urgull Viewpoints",
           "neighborhood": "Old Town / Old Port",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-attractions-paseo-nuevo-monte-urgull-viewpoints.jpg",
           "website": "https://www.sansebastianturismoa.eus",
           "description": "The Paseo Nuevo is a clifftop promenade that curves around the base of Monte Urgull between the Old Port and the Zurriola side, offering uninterrupted views of the Cantabrian Sea and the bay. Dogs on leads are welcome along the full length. From the Paseo, steps and paths lead up into Monte Urgull's forested interior and to the Castillo de la Mota fort at the summit.",
           "descriptionFr": "Le Paseo Nuevo est une promenade sur les falaises qui s'incurve autour de la base de Monte Urgull entre le vieux port et le côté Zurriola, offrant des vues ininterrompues sur la mer Cantabrique et la baie. Les chiens tenus en laisse sont bienvenus sur toute sa longueur. Depuis le Paseo, des escaliers et des sentiers mènent dans les forêts intérieures de Monte Urgull et au fort du Castillo de la Mota au sommet.",
@@ -368,7 +372,7 @@
         {
           "name": "Paseo de La Concha Promenade",
           "neighborhood": "Centro",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-attractions-paseo-de-la-concha-promenade.jpg",
           "website": "https://www.sansebastianturismoa.eus",
           "description": "The elegant Belle Époque promenade that runs the full length of La Concha beach from the Old Town to the Ondarreta neighbourhood. Wide, flat, and flanked by ornate iron railings and globe lamps, the Paseo de La Concha is one of the most beautiful waterfront promenades in Europe. Dogs on leads are welcome at all times along the promenade; beach access for dogs applies the seasonal rules.",
           "descriptionFr": "L'élégante promenade Belle Époque qui longe toute la plage de La Concha depuis la Vieille Ville jusqu'au quartier d'Ondarreta. Large, plate et flanquée de rambardes en fer forgé ornées et de lampadaires à globe, le Paseo de La Concha est l'une des plus belles promenades en front de mer d'Europe. Les chiens tenus en laisse sont bienvenus à tout moment sur la promenade ; l'accès à la plage pour les chiens suit les règles saisonnières.",
@@ -408,14 +412,18 @@
           "serviceTypeFr": "Promenade, pet-sitting, garderie de jour, hébergement de nuit",
           "serviceTypeEs": "Paseos, cuidado de mascotas, guardería diurna, alojamiento nocturno",
           "pricePerDay": "€10–15 per walk / €25–40 per night boarding (varies by sitter)",
-          "languages": ["Spanish", "Basque", "English (selected sitters)"],
+          "languages": [
+            "Spanish",
+            "Basque",
+            "English (selected sitters)"
+          ],
           "tip": "Book at least a week ahead in July and August — the summer festival season (Semana Grande in August) fills sitters quickly. Check that your chosen sitter is comfortable with the city's seasonal beach rules if you plan beach days.",
           "tipFr": "Réservez au moins une semaine à l'avance en juillet et août — la saison des festivals estivaux (Semaine Grande en août) remplit rapidement les gardiens. Vérifiez que votre gardien choisi est à l'aise avec les règles saisonnières des plages de la ville si vous prévoyez des journées à la plage.",
           "tipEs": "Reserva con al menos una semana de antelación en julio y agosto — la temporada de festivales de verano (la Semana Grande en agosto) llena rápidamente a los cuidadores. Comprueba que el cuidador elegido esté familiarizado con las normas estacionales de las playas de la ciudad si planeas días de playa."
         },
         {
           "name": "Gudog — San Sebastián",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/san-sebastian-petsitting-gudog-san-sebastian.jpg",
           "website": "https://www.gudog.com/es",
           "description": "A Spanish pet-sitting and dog-boarding platform operating in San Sebastián. Gudog specialises in home-based boarding — your dog stays with a local host family rather than in a kennel environment. All hosts are vetted and insured. Useful for multi-day trips or when you need your dog in a home setting.",
           "descriptionFr": "Une plateforme espagnole de pet-sitting et de pension pour chiens opérant à Saint-Sébastien. Gudog se spécialise dans l'hébergement à domicile — votre chien séjourne chez une famille d'accueil locale plutôt que dans un chenil. Tous les hôtes sont vérifiés et assurés. Utile pour les voyages de plusieurs jours ou quand vous avez besoin que votre chien soit dans un environnement familial.",
@@ -424,7 +432,11 @@
           "serviceTypeFr": "Pension à domicile et garderie de jour",
           "serviceTypeEs": "Alojamiento en casa y guardería diurna",
           "pricePerDay": "€20–35 per night (varies by host)",
-          "languages": ["Spanish", "Basque", "English (selected hosts)"],
+          "languages": [
+            "Spanish",
+            "Basque",
+            "English (selected hosts)"
+          ],
           "tip": "Gudog hosts in the residential areas outside the centre (Gros, Amara, Intxaurrondo) often have access to quieter parks and gardens — useful if your dog is more comfortable in calmer surroundings.",
           "tipFr": "Les hôtes Gudog dans les zones résidentielles en dehors du centre (Gros, Amara, Intxaurrondo) ont souvent accès à des parcs et jardins plus tranquilles — utile si votre chien est plus à l'aise dans un environnement calme.",
           "tipEs": "Los anfitriones de Gudog en las zonas residenciales fuera del centro (Gros, Amara, Intxaurrondo) a menudo tienen acceso a parques y jardines más tranquilos — útil si tu perro se siente más cómodo en entornos más calmados."

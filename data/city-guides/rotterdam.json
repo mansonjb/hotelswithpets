@@ -17,7 +17,7 @@
           "name": "Lilith",
           "address": "Nieuwe Binnenweg 127, 3014 GK Rotterdam",
           "neighborhood": "Middelland",
-          "photo": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-restaurants-lilith.jpg",
           "website": "https://www.instagram.com/lilithrotterdam/",
           "description": "Trendy brunch café on Nieuwe Binnenweg that is firmly established as one of Rotterdam's most dog-friendly spots. Dogs are welcomed inside and on the terrace; water bowls are always on hand.",
           "descriptionFr": "Café brunch branché sur la Nieuwe Binnenweg, l'une des adresses les plus connues pour les chiens à Rotterdam. Chiens acceptés en salle et en terrasse, avec gamelles d'eau disponibles.",
@@ -39,7 +39,7 @@
           "name": "Wester Paviljoen",
           "address": "Nieuwe Binnenweg 136, 3014 GK Rotterdam",
           "neighborhood": "Middelland",
-          "photo": "https://images.unsplash.com/photo-1559329007-40df8a9345d8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-restaurants-wester-paviljoen.jpg",
           "website": "https://westerpaviljoen.nl/",
           "description": "Grand brasserie with a spacious terrace popular with Rotterdam's design crowd — dogs are routinely welcomed on the terrace and often inside too. Menu runs from lunch sandwiches to evening sharing plates.",
           "descriptionFr": "Grande brasserie avec une terrasse spacieuse très fréquentée par les créatifs de Rotterdam — les chiens y sont les bienvenus en terrasse et souvent en salle. Carte qui va du sandwich déjeuner aux assiettes à partager le soir.",
@@ -61,7 +61,7 @@
           "name": "Matelief",
           "address": "Matelief, Rotterdam (near Witte de Withstraat)",
           "neighborhood": "Witte de With",
-          "photo": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-restaurants-matelief.jpg",
           "website": "https://www.thefork.com/restaurant/matelief-rotterdam",
           "description": "Neighbourhood café-restaurant rated 9/10 by TheFork users, consistently praised for its dog-friendly terrace on one of Rotterdam's coolest streets. Good natural wines and seasonal Dutch menu.",
           "descriptionFr": "Café-restaurant de quartier noté 9/10 par les utilisateurs de TheFork, régulièrement salué pour sa terrasse accueillante aux chiens sur l'une des rues les plus animées de Rotterdam. Bons vins naturels et carte néerlandaise de saison.",
@@ -96,19 +96,46 @@
         "Muchos cafés de Rotterdam ofrecen cuencos de agua automáticamente; lleva el tuyo plegable para días largos."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside restaurants in Rotterdam?", "a": "Many cafés allow dogs inside, especially neighbourhood spots on Nieuwe Binnenweg and Witte de Withstraat. Call ahead for dinner service at larger restaurants."},
-        {"q": "Do Rotterdam restaurants provide water for dogs?", "a": "A majority do, especially the dog-focused venues listed above. It is always safe to ask when you arrive."},
-        {"q": "Are there any breed or size restrictions in Rotterdam restaurants?", "a": "No city-wide rules — individual venues may restrict large breeds, but this is uncommon. Lilith and Wester Paviljoen welcome dogs of all sizes."}
+        {
+          "q": "Are dogs allowed inside restaurants in Rotterdam?",
+          "a": "Many cafés allow dogs inside, especially neighbourhood spots on Nieuwe Binnenweg and Witte de Withstraat. Call ahead for dinner service at larger restaurants."
+        },
+        {
+          "q": "Do Rotterdam restaurants provide water for dogs?",
+          "a": "A majority do, especially the dog-focused venues listed above. It is always safe to ask when you arrive."
+        },
+        {
+          "q": "Are there any breed or size restrictions in Rotterdam restaurants?",
+          "a": "No city-wide rules — individual venues may restrict large breeds, but this is uncommon. Lilith and Wester Paviljoen welcome dogs of all sizes."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils acceptés à l'intérieur des restaurants à Rotterdam ?", "a": "De nombreux cafés les acceptent en salle, surtout les adresses de quartier sur la Nieuwe Binnenweg et Witte de Withstraat. Appelez pour confirmer pour les grands restaurants le soir."},
-        {"q": "Les restaurants rotterdamois fournissent-ils de l'eau pour les chiens ?", "a": "La majorité oui, surtout les adresses spécifiquement dog-friendly listées ci-dessus. Il est toujours utile de demander à l'arrivée."},
-        {"q": "Y a-t-il des restrictions de race ou de taille dans les restaurants de Rotterdam ?", "a": "Pas de règle générale — certains établissements peuvent restreindre les grandes races, mais c'est rare. Lilith et Wester Paviljoen accueillent les chiens de toute taille."}
+        {
+          "q": "Les chiens sont-ils acceptés à l'intérieur des restaurants à Rotterdam ?",
+          "a": "De nombreux cafés les acceptent en salle, surtout les adresses de quartier sur la Nieuwe Binnenweg et Witte de Withstraat. Appelez pour confirmer pour les grands restaurants le soir."
+        },
+        {
+          "q": "Les restaurants rotterdamois fournissent-ils de l'eau pour les chiens ?",
+          "a": "La majorité oui, surtout les adresses spécifiquement dog-friendly listées ci-dessus. Il est toujours utile de demander à l'arrivée."
+        },
+        {
+          "q": "Y a-t-il des restrictions de race ou de taille dans les restaurants de Rotterdam ?",
+          "a": "Pas de règle générale — certains établissements peuvent restreindre les grandes races, mais c'est rare. Lilith et Wester Paviljoen accueillent les chiens de toute taille."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Rotterdam?", "a": "Muchos cafés los admiten en interior, especialmente los locales de barrio en Nieuwe Binnenweg y Witte de Withstraat. Llama para confirmarlo en restaurantes grandes por la noche."},
-        {"q": "¿Los restaurantes de Rotterdam ofrecen agua para perros?", "a": "La mayoría sí, especialmente los locales especializados listados arriba. Siempre es útil preguntar al llegar."},
-        {"q": "¿Hay restricciones de raza o tamaño en los restaurantes de Rotterdam?", "a": "No hay norma general: algunos locales pueden restringir razas grandes, pero es poco habitual. Lilith y Wester Paviljoen aceptan perros de todos los tamaños."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Rotterdam?",
+          "a": "Muchos cafés los admiten en interior, especialmente los locales de barrio en Nieuwe Binnenweg y Witte de Withstraat. Llama para confirmarlo en restaurantes grandes por la noche."
+        },
+        {
+          "q": "¿Los restaurantes de Rotterdam ofrecen agua para perros?",
+          "a": "La mayoría sí, especialmente los locales especializados listados arriba. Siempre es útil preguntar al llegar."
+        },
+        {
+          "q": "¿Hay restricciones de raza o tamaño en los restaurantes de Rotterdam?",
+          "a": "No hay norma general: algunos locales pueden restringir razas grandes, pero es poco habitual. Lilith y Wester Paviljoen aceptan perros de todos los tamaños."
+        }
       ]
     },
     "parks": {
@@ -123,7 +150,7 @@
           "name": "Het Park",
           "address": "Rochussenstraat, 3015 EK Rotterdam",
           "neighborhood": "Dijkzigt",
-          "photo": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-parks-het-park.jpg",
           "website": "https://www.rotterdamcentrum.nl/en/discover/street-art-parks/walking-your-dog-rotterdam-centre",
           "description": "Rotterdam's finest urban park at 28 hectares, directly beside the Euromast, where dogs can run off leash across the entire grounds. The park café has a large dog-friendly terrace — perfect for post-walk coffee.",
           "descriptionFr": "Le plus beau parc urbain de Rotterdam (28 hectares), directement à côté de l'Euromast, où les chiens peuvent courir libres sur l'ensemble du domaine. Le café du parc dispose d'une grande terrasse dog-friendly — idéal pour un café post-balade.",
@@ -145,7 +172,7 @@
           "name": "Kralingse Bos",
           "address": "Kralingse Plaslaan, 3061 RL Rotterdam",
           "neighborhood": "Kralingen",
-          "photo": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-parks-kralingse-bos.jpg",
           "website": "https://www.tripadvisor.com/Attraction_Review-g188632-d5994413-Reviews-Kralingse_Plas-Rotterdam.html",
           "description": "Large forest park with a central lake (Kralingse Plas) where dogs can swim freely in designated areas and roam off-leash on woodland trails. A favourite local weekend destination — arrive before 10am on sunny days.",
           "descriptionFr": "Grand parc boisé avec un lac central (Kralingse Plas) où les chiens peuvent nager librement dans des zones dédiées et se promener sans laisse sur les sentiers forestiers. La destination week-end préférée des locaux — arrivez avant 10h les jours ensoleillés.",
@@ -167,7 +194,7 @@
           "name": "Zuiderpark — Hondeneiland",
           "address": "Zuiderpark, 3083 Rotterdam",
           "neighborhood": "Zuid",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-parks-zuiderpark-hondeneiland.jpg",
           "website": "https://pupguide.net/off-leash-dog-parks-netherlands/",
           "description": "Rotterdam's largest park (235 ha) contains the 'Hondeneiland' (Dog Island) — a fenced off-leash island specifically designed for dogs to play and socialise. Great for dog owners in the south of the city.",
           "descriptionFr": "Le plus grand parc de Rotterdam (235 ha) abrite le 'Hondeneiland' (l'île aux chiens) — une île clôturée spécialement conçue pour les jeux et la socialisation canine. Idéal pour les propriétaires du sud de la ville.",
@@ -202,19 +229,46 @@
         "Lleva una correa larga para Kralingse Bos si el llamado no es fiable: los senderos forestales conectan con carreteras transitadas en los bordes."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed off-leash in Rotterdam parks?", "a": "Yes, in designated Uitlaatgebieden zones. Het Park (near Euromast) and Kralingse Bos have large off-leash areas throughout."},
-        {"q": "Can my dog swim in Rotterdam?", "a": "Yes — the Kralingse Plas lake allows dog swimming, and some spots along the Maas river are suitable too. Avoid industrial port areas."},
-        {"q": "Is Zuiderpark good for large dogs?", "a": "Yes — the Hondeneiland (Dog Island) in Zuiderpark is a fenced dedicated space ideal for large breeds and energetic dogs."}
+        {
+          "q": "Are dogs allowed off-leash in Rotterdam parks?",
+          "a": "Yes, in designated Uitlaatgebieden zones. Het Park (near Euromast) and Kralingse Bos have large off-leash areas throughout."
+        },
+        {
+          "q": "Can my dog swim in Rotterdam?",
+          "a": "Yes — the Kralingse Plas lake allows dog swimming, and some spots along the Maas river are suitable too. Avoid industrial port areas."
+        },
+        {
+          "q": "Is Zuiderpark good for large dogs?",
+          "a": "Yes — the Hondeneiland (Dog Island) in Zuiderpark is a fenced dedicated space ideal for large breeds and energetic dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils être en liberté dans les parcs de Rotterdam ?", "a": "Oui, dans les zones Uitlaatgebieden dédiées. Het Park (près de l'Euromast) et Kralingse Bos offrent de grandes zones de liberté."},
-        {"q": "Mon chien peut-il nager à Rotterdam ?", "a": "Oui — le lac Kralingse Plas autorise la baignade canine, et certains endroits le long de la Meuse conviennent aussi. Évitez les zones portuaires industrielles."},
-        {"q": "Le Zuiderpark convient-il aux grands chiens ?", "a": "Oui — le Hondeneiland (île aux chiens) dans le Zuiderpark est un espace clôturé dédié, idéal pour les grandes races et les chiens énergiques."}
+        {
+          "q": "Les chiens peuvent-ils être en liberté dans les parcs de Rotterdam ?",
+          "a": "Oui, dans les zones Uitlaatgebieden dédiées. Het Park (près de l'Euromast) et Kralingse Bos offrent de grandes zones de liberté."
+        },
+        {
+          "q": "Mon chien peut-il nager à Rotterdam ?",
+          "a": "Oui — le lac Kralingse Plas autorise la baignade canine, et certains endroits le long de la Meuse conviennent aussi. Évitez les zones portuaires industrielles."
+        },
+        {
+          "q": "Le Zuiderpark convient-il aux grands chiens ?",
+          "a": "Oui — le Hondeneiland (île aux chiens) dans le Zuiderpark est un espace clôturé dédié, idéal pour les grandes races et les chiens énergiques."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden los perros ir sueltos en los parques de Rotterdam?", "a": "Sí, en las zonas Uitlaatgebieden designadas. Het Park (cerca del Euromast) y Kralingse Bos tienen grandes áreas de suelta."},
-        {"q": "¿Puede nadar mi perro en Rotterdam?", "a": "Sí: el lago Kralingse Plas permite el baño canino, y algunos puntos del río Mosa también son aptos. Evita las zonas portuarias industriales."},
-        {"q": "¿Es el Zuiderpark adecuado para perros grandes?", "a": "Sí: el Hondeneiland (isla de los perros) en el Zuiderpark es un espacio vallado dedicado, ideal para razas grandes y perros enérgicos."}
+        {
+          "q": "¿Pueden los perros ir sueltos en los parques de Rotterdam?",
+          "a": "Sí, en las zonas Uitlaatgebieden designadas. Het Park (cerca del Euromast) y Kralingse Bos tienen grandes áreas de suelta."
+        },
+        {
+          "q": "¿Puede nadar mi perro en Rotterdam?",
+          "a": "Sí: el lago Kralingse Plas permite el baño canino, y algunos puntos del río Mosa también son aptos. Evita las zonas portuarias industriales."
+        },
+        {
+          "q": "¿Es el Zuiderpark adecuado para perros grandes?",
+          "a": "Sí: el Hondeneiland (isla de los perros) en el Zuiderpark es un espacio vallado dedicado, ideal para razas grandes y perros enérgicos."
+        }
       ]
     },
     "transport": {
@@ -229,7 +283,7 @@
           "name": "RET Metro & Tram",
           "address": "Rotterdam Central Station, Stationsplein 1, 3013 AK Rotterdam",
           "neighborhood": "City Centre",
-          "photo": "https://images.unsplash.com/photo-1581262177000-8139a463e531?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-transport-ret-metro-tram.jpg",
           "website": "https://www.ret.nl/en/home/travelling-with-the-ret/travel-rules-terms-and-conditions/travel-rules.html",
           "description": "Dogs travel free on all RET metro, tram and bus services. The only rules are: leash required at all times, dogs may not sit on seats, and owners must be considerate of other passengers.",
           "descriptionFr": "Les chiens voyagent gratuitement sur tous les services RET (métro, tram, bus). Les seules règles : laisse obligatoire, interdiction de s'asseoir sur les sièges, et respect des autres voyageurs.",
@@ -264,19 +318,46 @@
         "Para excursiones fuera de Rotterdam, los trenes NS aceptan un perro pequeño gratis en transportín; los perros grandes necesitan un billete de día 'hondenbiljet' (3,50 €)."
       ],
       "faqsEn": [
-        {"q": "Do I need to buy a ticket for my dog on Rotterdam trams and metro?", "a": "No — dogs travel free on all RET services (metro, tram, bus) with no size limit. Just keep your dog on a leash."},
-        {"q": "Are large dogs allowed on Rotterdam public transport?", "a": "Yes — RET has no size or breed restrictions. Dogs of any size can board as long as they are on a leash and do not sit on seats."},
-        {"q": "Can I take my dog on a NS intercity train from Rotterdam?", "a": "Small dogs in a closed carrier travel free. Dogs over 30cm shoulder height need a 'hondenbiljet' day pass (€3.50) and must be muzzled and leashed on intercity services."}
+        {
+          "q": "Do I need to buy a ticket for my dog on Rotterdam trams and metro?",
+          "a": "No — dogs travel free on all RET services (metro, tram, bus) with no size limit. Just keep your dog on a leash."
+        },
+        {
+          "q": "Are large dogs allowed on Rotterdam public transport?",
+          "a": "Yes — RET has no size or breed restrictions. Dogs of any size can board as long as they are on a leash and do not sit on seats."
+        },
+        {
+          "q": "Can I take my dog on a NS intercity train from Rotterdam?",
+          "a": "Small dogs in a closed carrier travel free. Dogs over 30cm shoulder height need a 'hondenbiljet' day pass (€3.50) and must be muzzled and leashed on intercity services."
+        }
       ],
       "faqsFr": [
-        {"q": "Faut-il acheter un billet pour mon chien dans les trams et le métro de Rotterdam ?", "a": "Non — les chiens voyagent gratuitement sur tous les services RET sans limite de taille. Il suffit de garder le chien en laisse."},
-        {"q": "Les grands chiens sont-ils autorisés dans les transports en commun de Rotterdam ?", "a": "Oui — le RET n'a pas de restriction de taille ou de race. Tout chien peut monter en laisse, à condition de ne pas monter sur les sièges."},
-        {"q": "Puis-je emmener mon chien dans un train intercités NS depuis Rotterdam ?", "a": "Les petits chiens dans un transportin fermé voyagent gratuitement. Les chiens de plus de 30 cm au garrot nécessitent un pass journée 'hondenbiljet' (3,50 €), avec muselière et laisse."}
+        {
+          "q": "Faut-il acheter un billet pour mon chien dans les trams et le métro de Rotterdam ?",
+          "a": "Non — les chiens voyagent gratuitement sur tous les services RET sans limite de taille. Il suffit de garder le chien en laisse."
+        },
+        {
+          "q": "Les grands chiens sont-ils autorisés dans les transports en commun de Rotterdam ?",
+          "a": "Oui — le RET n'a pas de restriction de taille ou de race. Tout chien peut monter en laisse, à condition de ne pas monter sur les sièges."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un train intercités NS depuis Rotterdam ?",
+          "a": "Les petits chiens dans un transportin fermé voyagent gratuitement. Les chiens de plus de 30 cm au garrot nécessitent un pass journée 'hondenbiljet' (3,50 €), avec muselière et laisse."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Tengo que comprar billete para mi perro en tranvías y metro de Rotterdam?", "a": "No: los perros viajan gratis en todos los servicios RET sin límite de tamaño. Solo hay que llevarlos con correa."},
-        {"q": "¿Se admiten perros grandes en el transporte público de Rotterdam?", "a": "Sí: el RET no tiene restricciones de tamaño ni raza. Cualquier perro puede subir con correa, siempre que no se siente en los asientos."},
-        {"q": "¿Puedo llevar a mi perro en un tren intercity de NS desde Rotterdam?", "a": "Los perros pequeños en transportín cerrado viajan gratis. Los perros de más de 30 cm a la cruz necesitan un billete de día 'hondenbiljet' (3,50 €), bozal y correa."}
+        {
+          "q": "¿Tengo que comprar billete para mi perro en tranvías y metro de Rotterdam?",
+          "a": "No: los perros viajan gratis en todos los servicios RET sin límite de tamaño. Solo hay que llevarlos con correa."
+        },
+        {
+          "q": "¿Se admiten perros grandes en el transporte público de Rotterdam?",
+          "a": "Sí: el RET no tiene restricciones de tamaño ni raza. Cualquier perro puede subir con correa, siempre que no se siente en los asientos."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en un tren intercity de NS desde Rotterdam?",
+          "a": "Los perros pequeños en transportín cerrado viajan gratis. Los perros de más de 30 cm a la cruz necesitan un billete de día 'hondenbiljet' (3,50 €), bozal y correa."
+        }
       ]
     },
     "beaches": {
@@ -291,7 +372,7 @@
           "name": "Maasvlakte Beach",
           "address": "Maasvlakte, 3199 Rotterdam (Havennummer 9700)",
           "neighborhood": "Maasvlakte",
-          "photo": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-beaches-maasvlakte-beach.jpg",
           "website": "https://www.portofrotterdam.com/en/to-do-port/beach",
           "description": "Vast, wild North Sea beach on the edge of the port of Rotterdam — dogs are welcome on a leash year-round with no seasonal restrictions. A unique setting with container ships passing offshore.",
           "descriptionFr": "Vaste plage sauvage de la mer du Nord à la lisière du port de Rotterdam — les chiens sont acceptés en laisse toute l'année sans restriction saisonnière. Un décor unique avec des porte-conteneurs passant au large.",
@@ -313,7 +394,7 @@
           "name": "Hoek van Holland Beach — Estuary Section",
           "address": "Hoek van Holland, 3151 Rotterdam",
           "neighborhood": "Hoek van Holland",
-          "photo": "https://images.unsplash.com/photo-1473496169904-658ba7574b0d?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-beaches-hoek-van-holland-beach-estuary-section.jpg",
           "website": "https://www.rotterdam.info/en/visit/guide/discover-hoek-van-holland",
           "description": "The southernmost tip of Hoek van Holland beach, alongside the Nieuwe Waterweg estuary, is dog-friendly year-round and offers fascinating views of ocean-going ships at close range. The main beach bans dogs May–October from 09:00–19:00.",
           "descriptionFr": "La pointe sud de la plage de Hoek van Holland, le long de l'estuaire du Nieuwe Waterweg, est accessible aux chiens toute l'année et offre des vues fascinantes sur les navires de haute mer à courte distance. La plage principale interdit les chiens de mai à octobre de 9h à 19h.",
@@ -348,19 +429,46 @@
         "Maasvlakte no tiene infraestructuras (sin café, sin baños): lleva todo lo necesario, incluida agua fresca para tu perro."
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at the beach near Rotterdam?", "a": "Yes — Maasvlakte and the estuary section of Hoek van Holland both allow dogs to enter the water. Check North Sea currents before letting your dog swim offshore."},
-        {"q": "Are there dog-friendly beaches within Rotterdam city itself?", "a": "The Maashaven and some Maas riverbanks allow dogs, but the main sea beaches (Hoek van Holland, Maasvlakte) require a 40-minute metro ride."},
-        {"q": "What are the seasonal dog restrictions at Hoek van Holland?", "a": "From May 1 to October 1, dogs are banned on the main beach between 09:00 and 19:00. The estuary tip section has no such restriction."}
+        {
+          "q": "Can my dog swim at the beach near Rotterdam?",
+          "a": "Yes — Maasvlakte and the estuary section of Hoek van Holland both allow dogs to enter the water. Check North Sea currents before letting your dog swim offshore."
+        },
+        {
+          "q": "Are there dog-friendly beaches within Rotterdam city itself?",
+          "a": "The Maashaven and some Maas riverbanks allow dogs, but the main sea beaches (Hoek van Holland, Maasvlakte) require a 40-minute metro ride."
+        },
+        {
+          "q": "What are the seasonal dog restrictions at Hoek van Holland?",
+          "a": "From May 1 to October 1, dogs are banned on the main beach between 09:00 and 19:00. The estuary tip section has no such restriction."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il nager à la plage près de Rotterdam ?", "a": "Oui — Maasvlakte et la section estuaire de Hoek van Holland autorisent les chiens dans l'eau. Vérifiez les courants de la mer du Nord avant de laisser votre chien nager au large."},
-        {"q": "Y a-t-il des plages dog-friendly dans Rotterdam même ?", "a": "Le Maashaven et certaines berges de la Meuse accueillent les chiens, mais les grandes plages de mer (Hoek van Holland, Maasvlakte) nécessitent 40 minutes de métro."},
-        {"q": "Quelles sont les restrictions saisonnières à Hoek van Holland ?", "a": "Du 1er mai au 1er octobre, les chiens sont interdits sur la plage principale de 9h à 19h. La section pointe de l'estuaire n'a pas cette restriction."}
+        {
+          "q": "Mon chien peut-il nager à la plage près de Rotterdam ?",
+          "a": "Oui — Maasvlakte et la section estuaire de Hoek van Holland autorisent les chiens dans l'eau. Vérifiez les courants de la mer du Nord avant de laisser votre chien nager au large."
+        },
+        {
+          "q": "Y a-t-il des plages dog-friendly dans Rotterdam même ?",
+          "a": "Le Maashaven et certaines berges de la Meuse accueillent les chiens, mais les grandes plages de mer (Hoek van Holland, Maasvlakte) nécessitent 40 minutes de métro."
+        },
+        {
+          "q": "Quelles sont les restrictions saisonnières à Hoek van Holland ?",
+          "a": "Du 1er mai au 1er octobre, les chiens sont interdits sur la plage principale de 9h à 19h. La section pointe de l'estuaire n'a pas cette restriction."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puede nadar mi perro en la playa cerca de Rotterdam?", "a": "Sí: Maasvlakte y la sección del estuario de Hoek van Holland permiten a los perros entrar al agua. Comprueba las corrientes del Mar del Norte antes de dejar nadar a tu perro mar adentro."},
-        {"q": "¿Hay playas dog-friendly dentro de la ciudad de Rotterdam?", "a": "El Maashaven y algunas orillas del Mosa aceptan perros, pero las playas marítimas principales (Hoek van Holland, Maasvlakte) requieren 40 minutos en metro."},
-        {"q": "¿Cuáles son las restricciones estacionales en Hoek van Holland?", "a": "Del 1 de mayo al 1 de octubre los perros están prohibidos en la playa principal de 9:00 a 19:00. La sección de la punta del estuario no tiene esa restricción."}
+        {
+          "q": "¿Puede nadar mi perro en la playa cerca de Rotterdam?",
+          "a": "Sí: Maasvlakte y la sección del estuario de Hoek van Holland permiten a los perros entrar al agua. Comprueba las corrientes del Mar del Norte antes de dejar nadar a tu perro mar adentro."
+        },
+        {
+          "q": "¿Hay playas dog-friendly dentro de la ciudad de Rotterdam?",
+          "a": "El Maashaven y algunas orillas del Mosa aceptan perros, pero las playas marítimas principales (Hoek van Holland, Maasvlakte) requieren 40 minutos en metro."
+        },
+        {
+          "q": "¿Cuáles son las restricciones estacionales en Hoek van Holland?",
+          "a": "Del 1 de mayo al 1 de octubre los perros están prohibidos en la playa principal de 9:00 a 19:00. La sección de la punta del estuario no tiene esa restricción."
+        }
       ]
     },
     "vets": {
@@ -375,7 +483,7 @@
           "name": "Dierenziekenhuis Rotterdam",
           "address": "Pascalweg 12, 3067 MA Rotterdam",
           "neighborhood": "Prins Alexander",
-          "photo": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-vets-dierenziekenhuis-rotterdam.jpg",
           "website": "https://www.dierenziekenhuis.nl/site/spoed-dierenarts",
           "description": "Rotterdam's main veterinary hospital handling emergencies Mon–Fri until 22:00 and weekends until 22:00. Phone 010 492 51 51 for triage before arriving — emergencies are always prioritised.",
           "descriptionFr": "Le principal hôpital vétérinaire de Rotterdam, qui gère les urgences du lundi au vendredi et le week-end jusqu'à 22h. Appelez le 010 492 51 51 pour un triage avant d'arriver — les urgences sont toujours prioritaires.",
@@ -397,7 +505,7 @@
           "name": "Evidensia Dierenziekenhuis Barendrecht (24h)",
           "address": "Bijdorp-West 12, 2992 LA Barendrecht",
           "neighborhood": "Barendrecht (3 km south of Rotterdam)",
-          "photo": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-vets-evidensia-dierenziekenhuis-barendrecht-24h.jpg",
           "website": "https://cooperpetcare.com/animal-emergency-contacts-in-the-netherlands/",
           "description": "The true 24-hour emergency clinic serving Rotterdam after 22:00 and when other local clinics are closed. Fully equipped specialist hospital with intensive care — 15 minutes from Rotterdam Centre by car.",
           "descriptionFr": "La véritable clinique d'urgence 24h/24 desservant Rotterdam après 22h et lorsque les autres cliniques locales sont fermées. Hôpital spécialisé entièrement équipé avec soins intensifs — à 15 minutes du centre de Rotterdam en voiture.",
@@ -432,19 +540,46 @@
         "Los veterinarios holandeses hablan un excelente inglés: el idioma raramente es una barrera en consultas turísticas."
       ],
       "faqsEn": [
-        {"q": "Is there a 24-hour vet in Rotterdam?", "a": "Not directly in the city — Dierenziekenhuis Rotterdam handles emergencies until 22:00, after which Evidensia Barendrecht (15 min south) provides 24/7 cover."},
-        {"q": "What is the emergency vet phone number for Rotterdam?", "a": "Call 010 492 51 51 (Dierenziekenhuis Rotterdam) first — they triage and refer you to the correct facility."},
-        {"q": "Do Rotterdam vets speak English?", "a": "Yes — Dutch vets routinely handle consultations in English and the staff at Dierenziekenhuis Rotterdam are fully fluent."}
+        {
+          "q": "Is there a 24-hour vet in Rotterdam?",
+          "a": "Not directly in the city — Dierenziekenhuis Rotterdam handles emergencies until 22:00, after which Evidensia Barendrecht (15 min south) provides 24/7 cover."
+        },
+        {
+          "q": "What is the emergency vet phone number for Rotterdam?",
+          "a": "Call 010 492 51 51 (Dierenziekenhuis Rotterdam) first — they triage and refer you to the correct facility."
+        },
+        {
+          "q": "Do Rotterdam vets speak English?",
+          "a": "Yes — Dutch vets routinely handle consultations in English and the staff at Dierenziekenhuis Rotterdam are fully fluent."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire 24h/24 à Rotterdam ?", "a": "Pas directement en ville — le Dierenziekenhuis Rotterdam gère les urgences jusqu'à 22h, après quoi Evidensia Barendrecht (15 min au sud) assure une couverture 24h/24."},
-        {"q": "Quel est le numéro du vétérinaire d'urgence à Rotterdam ?", "a": "Appelez d'abord le 010 492 51 51 (Dierenziekenhuis Rotterdam) — ils font le triage et vous orientent vers le bon établissement."},
-        {"q": "Les vétérinaires de Rotterdam parlent-ils anglais ?", "a": "Oui — les vétérinaires néerlandais gèrent couramment les consultations en anglais, et le personnel du Dierenziekenhuis Rotterdam est entièrement bilingue."}
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Rotterdam ?",
+          "a": "Pas directement en ville — le Dierenziekenhuis Rotterdam gère les urgences jusqu'à 22h, après quoi Evidensia Barendrecht (15 min au sud) assure une couverture 24h/24."
+        },
+        {
+          "q": "Quel est le numéro du vétérinaire d'urgence à Rotterdam ?",
+          "a": "Appelez d'abord le 010 492 51 51 (Dierenziekenhuis Rotterdam) — ils font le triage et vous orientent vers le bon établissement."
+        },
+        {
+          "q": "Les vétérinaires de Rotterdam parlent-ils anglais ?",
+          "a": "Oui — les vétérinaires néerlandais gèrent couramment les consultations en anglais, et le personnel du Dierenziekenhuis Rotterdam est entièrement bilingue."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un veterinario 24 horas en Rotterdam?", "a": "No directamente en la ciudad: Dierenziekenhuis Rotterdam atiende urgencias hasta las 22:00, después Evidensia Barendrecht (15 min al sur) cubre las 24 h."},
-        {"q": "¿Cuál es el teléfono de urgencias veterinarias en Rotterdam?", "a": "Llama primero al 010 492 51 51 (Dierenziekenhuis Rotterdam): hacen el triaje y te derivan al centro correcto."},
-        {"q": "¿Los veterinarios de Rotterdam hablan inglés?", "a": "Sí: los veterinarios holandeses atienden consultas en inglés habitualmente, y el personal del Dierenziekenhuis Rotterdam es totalmente bilingüe."}
+        {
+          "q": "¿Hay un veterinario 24 horas en Rotterdam?",
+          "a": "No directamente en la ciudad: Dierenziekenhuis Rotterdam atiende urgencias hasta las 22:00, después Evidensia Barendrecht (15 min al sur) cubre las 24 h."
+        },
+        {
+          "q": "¿Cuál es el teléfono de urgencias veterinarias en Rotterdam?",
+          "a": "Llama primero al 010 492 51 51 (Dierenziekenhuis Rotterdam): hacen el triaje y te derivan al centro correcto."
+        },
+        {
+          "q": "¿Los veterinarios de Rotterdam hablan inglés?",
+          "a": "Sí: los veterinarios holandeses atienden consultas en inglés habitualmente, y el personal del Dierenziekenhuis Rotterdam es totalmente bilingüe."
+        }
       ]
     },
     "tips": {
@@ -471,19 +606,46 @@
         "El Markthal en sí (mercado cubierto) no permite perros, pero la plaza del mercado exterior y los puestos circundantes son totalmente dog-friendly."
       ],
       "faqsEn": [
-        {"q": "Is Rotterdam generally dog-friendly?", "a": "Extremely so — Rotterdam consistently ranks among the top dog-friendly cities in the Netherlands. Public transport is free for dogs, parks have off-leash zones, and most cafés welcome pets."},
-        {"q": "Are dogs allowed inside Rotterdam's Markthal?", "a": "No — dogs are not permitted inside the Markthal food market. The outdoor square directly outside is fully dog-friendly."},
-        {"q": "What is the best neighbourhood for dogs in Rotterdam?", "a": "Middelland (around Nieuwe Binnenweg) and the area around Het Park near the Euromast are the most dog-centric neighbourhoods with off-leash space and welcoming cafés within walking distance."}
+        {
+          "q": "Is Rotterdam generally dog-friendly?",
+          "a": "Extremely so — Rotterdam consistently ranks among the top dog-friendly cities in the Netherlands. Public transport is free for dogs, parks have off-leash zones, and most cafés welcome pets."
+        },
+        {
+          "q": "Are dogs allowed inside Rotterdam's Markthal?",
+          "a": "No — dogs are not permitted inside the Markthal food market. The outdoor square directly outside is fully dog-friendly."
+        },
+        {
+          "q": "What is the best neighbourhood for dogs in Rotterdam?",
+          "a": "Middelland (around Nieuwe Binnenweg) and the area around Het Park near the Euromast are the most dog-centric neighbourhoods with off-leash space and welcoming cafés within walking distance."
+        }
       ],
       "faqsFr": [
-        {"q": "Rotterdam est-elle globalement dog-friendly ?", "a": "Extrêmement — Rotterdam figure régulièrement parmi les villes les plus dog-friendly des Pays-Bas. Transport gratuit, parcs avec zones de liberté, la plupart des cafés acceptent les animaux."},
-        {"q": "Les chiens sont-ils autorisés à l'intérieur du Markthal de Rotterdam ?", "a": "Non — les chiens ne sont pas autorisés à l'intérieur du marché couvert Markthal. La place extérieure juste devant est entièrement dog-friendly."},
-        {"q": "Quel est le meilleur quartier pour les chiens à Rotterdam ?", "a": "Middelland (autour de la Nieuwe Binnenweg) et les abords d'Het Park près de l'Euromast sont les quartiers les plus dog-friendly, avec zones de liberté et cafés accueillants à portée de promenade."}
+        {
+          "q": "Rotterdam est-elle globalement dog-friendly ?",
+          "a": "Extrêmement — Rotterdam figure régulièrement parmi les villes les plus dog-friendly des Pays-Bas. Transport gratuit, parcs avec zones de liberté, la plupart des cafés acceptent les animaux."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur du Markthal de Rotterdam ?",
+          "a": "Non — les chiens ne sont pas autorisés à l'intérieur du marché couvert Markthal. La place extérieure juste devant est entièrement dog-friendly."
+        },
+        {
+          "q": "Quel est le meilleur quartier pour les chiens à Rotterdam ?",
+          "a": "Middelland (autour de la Nieuwe Binnenweg) et les abords d'Het Park près de l'Euromast sont les quartiers les plus dog-friendly, avec zones de liberté et cafés accueillants à portée de promenade."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Rotterdam generalmente dog-friendly?", "a": "Enormemente: Rotterdam figura constantemente entre las ciudades más dog-friendly de los Países Bajos. Transporte gratuito, parques con zonas de suelta y la mayoría de los cafés aceptan mascotas."},
-        {"q": "¿Se admiten perros dentro del Markthal de Rotterdam?", "a": "No: los perros no están permitidos dentro del mercado cubierto Markthal. La plaza exterior justo delante es totalmente dog-friendly."},
-        {"q": "¿Cuál es el mejor barrio para perros en Rotterdam?", "a": "Middelland (alrededor de Nieuwe Binnenweg) y la zona de Het Park cerca del Euromast son los barrios más dog-friendly, con zonas de suelta y cafés acogedores a poca distancia."}
+        {
+          "q": "¿Es Rotterdam generalmente dog-friendly?",
+          "a": "Enormemente: Rotterdam figura constantemente entre las ciudades más dog-friendly de los Países Bajos. Transporte gratuito, parques con zonas de suelta y la mayoría de los cafés aceptan mascotas."
+        },
+        {
+          "q": "¿Se admiten perros dentro del Markthal de Rotterdam?",
+          "a": "No: los perros no están permitidos dentro del mercado cubierto Markthal. La plaza exterior justo delante es totalmente dog-friendly."
+        },
+        {
+          "q": "¿Cuál es el mejor barrio para perros en Rotterdam?",
+          "a": "Middelland (alrededor de Nieuwe Binnenweg) y la zona de Het Park cerca del Euromast son los barrios más dog-friendly, con zonas de suelta y cafés acogedores a poca distancia."
+        }
       ]
     },
     "attractions": {
@@ -498,7 +660,7 @@
           "name": "Waterfront Walk: Wilhelminapier to Veerhaven",
           "address": "Wilhelminapier, 3072 AP Rotterdam",
           "neighborhood": "Kop van Zuid / City Centre",
-          "photo": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-attractions-waterfront-walk-wilhelminapier-to-veerhaven.jpg",
           "website": "https://www.spido.nl/en/exploring-rotterdam-with-your-dog-an-adventurous-and-cosy-day-out",
           "description": "The classic Rotterdam walk: from the modern skyscrapers of Wilhelminapier across the Erasmus Bridge to the historic Veerhaven. Dogs are welcome throughout and the route passes Het Park — one seamless 3-hour dog adventure.",
           "descriptionFr": "La balade classique de Rotterdam : des gratte-ciels modernes du Wilhelminapier jusqu'au Veerhaven historique en traversant le pont Erasme. Les chiens sont bienvenus tout au long du parcours qui longe Het Park — une aventure canine continue de 3 heures.",
@@ -520,7 +682,7 @@
           "name": "Spido Harbour Tour (dogs on deck)",
           "address": "Willemsplein 85, 3016 DR Rotterdam",
           "neighborhood": "City Centre",
-          "photo": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-attractions-spido-harbour-tour-dogs-on-deck.jpg",
           "website": "https://www.spido.nl/en/exploring-rotterdam-with-your-dog-an-adventurous-and-cosy-day-out",
           "description": "The classic 75-minute Rotterdam harbour tour by Spido boat — dogs are welcome on the outdoor deck. An excellent way to see Europe's largest port with your dog alongside you.",
           "descriptionFr": "Le tour classique du port de Rotterdam en bateau Spido (75 minutes) — les chiens sont acceptés sur le pont extérieur. Une excellente façon de découvrir le plus grand port d'Europe avec son chien.",
@@ -542,7 +704,7 @@
           "name": "Witte de Withstraat Street Art Walk",
           "address": "Witte de Withstraat, 3012 Rotterdam",
           "neighborhood": "Witte de With",
-          "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-attractions-witte-de-withstraat-street-art-walk.jpg",
           "website": "https://www.rotterdamcentrum.nl/en/",
           "description": "Rotterdam's art and culture street — fully pedestrianised at weekends with murals, galleries, and dog-friendly cafés side by side. The ideal base for an afternoon exploring with your dog.",
           "descriptionFr": "La rue art et culture de Rotterdam — entièrement piétonisée le week-end, avec des fresques murales, des galeries et des cafés dog-friendly côte à côte. La base idéale pour un après-midi d'exploration avec son chien.",
@@ -577,19 +739,46 @@
         "El frente marítimo industrial de Rotterdam se explora mejor con marea baja, cuando los bancos de piedra del Mosa se vuelven accesibles para los perros."
       ],
       "faqsEn": [
-        {"q": "Can my dog go on the Spido harbour boat tour?", "a": "Yes — dogs are welcome on the outdoor deck of the Spido harbour tour. Keep your dog on a leash and away from the railings."},
-        {"q": "Are there any indoor attractions in Rotterdam that allow dogs?", "a": "Most major indoor attractions (Boijmans depot, Kunsthal, Markthal) do not allow dogs. Museum Rotterdam occasionally holds dog-friendly days — check their website."},
-        {"q": "Is the Euromast dog-friendly?", "a": "Note: the Euromast is closed for renovation until Q2 2026. Its outdoor terrace previously allowed dogs; confirm when it reopens."}
+        {
+          "q": "Can my dog go on the Spido harbour boat tour?",
+          "a": "Yes — dogs are welcome on the outdoor deck of the Spido harbour tour. Keep your dog on a leash and away from the railings."
+        },
+        {
+          "q": "Are there any indoor attractions in Rotterdam that allow dogs?",
+          "a": "Most major indoor attractions (Boijmans depot, Kunsthal, Markthal) do not allow dogs. Museum Rotterdam occasionally holds dog-friendly days — check their website."
+        },
+        {
+          "q": "Is the Euromast dog-friendly?",
+          "a": "Note: the Euromast is closed for renovation until Q2 2026. Its outdoor terrace previously allowed dogs; confirm when it reopens."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il embarquer sur le tour du port Spido ?", "a": "Oui — les chiens sont acceptés sur le pont extérieur du tour Spido. Tenez votre chien en laisse et éloigné des rambardes."},
-        {"q": "Y a-t-il des attractions intérieures à Rotterdam qui acceptent les chiens ?", "a": "La plupart des grandes attractions intérieures (dépôt Boijmans, Kunsthal, Markthal) n'acceptent pas les chiens. Le Museum Rotterdam organise occasionnellement des journées dog-friendly — vérifiez leur site web."},
-        {"q": "L'Euromast est-il dog-friendly ?", "a": "Note : l'Euromast est fermé pour rénovation jusqu'au T2 2026. Sa terrasse extérieure acceptait auparavant les chiens ; confirmez à sa réouverture."}
+        {
+          "q": "Mon chien peut-il embarquer sur le tour du port Spido ?",
+          "a": "Oui — les chiens sont acceptés sur le pont extérieur du tour Spido. Tenez votre chien en laisse et éloigné des rambardes."
+        },
+        {
+          "q": "Y a-t-il des attractions intérieures à Rotterdam qui acceptent les chiens ?",
+          "a": "La plupart des grandes attractions intérieures (dépôt Boijmans, Kunsthal, Markthal) n'acceptent pas les chiens. Le Museum Rotterdam organise occasionnellement des journées dog-friendly — vérifiez leur site web."
+        },
+        {
+          "q": "L'Euromast est-il dog-friendly ?",
+          "a": "Note : l'Euromast est fermé pour rénovation jusqu'au T2 2026. Sa terrasse extérieure acceptait auparavant les chiens ; confirmez à sa réouverture."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puede mi perro ir en el tour del puerto Spido?", "a": "Sí: los perros son bienvenidos en la cubierta exterior del tour Spido. Mantén a tu perro con correa y alejado de las barandillas."},
-        {"q": "¿Hay atracciones de interior en Rotterdam que admitan perros?", "a": "La mayoría de las grandes atracciones de interior (depósito Boijmans, Kunsthal, Markthal) no admiten perros. El Museum Rotterdam organiza jornadas dog-friendly ocasionalmente: consulta su web."},
-        {"q": "¿Es el Euromast dog-friendly?", "a": "Nota: el Euromast está cerrado por renovación hasta el T2 de 2026. Su terraza exterior anteriormente admitía perros: confirma cuando reabra."}
+        {
+          "q": "¿Puede mi perro ir en el tour del puerto Spido?",
+          "a": "Sí: los perros son bienvenidos en la cubierta exterior del tour Spido. Mantén a tu perro con correa y alejado de las barandillas."
+        },
+        {
+          "q": "¿Hay atracciones de interior en Rotterdam que admitan perros?",
+          "a": "La mayoría de las grandes atracciones de interior (depósito Boijmans, Kunsthal, Markthal) no admiten perros. El Museum Rotterdam organiza jornadas dog-friendly ocasionalmente: consulta su web."
+        },
+        {
+          "q": "¿Es el Euromast dog-friendly?",
+          "a": "Nota: el Euromast está cerrado por renovación hasta el T2 de 2026. Su terraza exterior anteriormente admitía perros: confirma cuando reabra."
+        }
       ]
     },
     "petsitting": {
@@ -604,7 +793,7 @@
           "name": "Pawshake Rotterdam",
           "address": "Online platform — sitters throughout Rotterdam",
           "neighborhood": "City-wide",
-          "photo": "https://images.unsplash.com/photo-1601758124096-519f4ad609d8?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/rotterdam-petsitting-pawshake-rotterdam.jpg",
           "website": "https://en.pawshake.nl/petsitters/rotterdam",
           "description": "Rotterdam's top pet-sitting platform with 6,700+ verified reviews and an average rating of 4.96/5. Every booking includes veterinary coverage and 24/7 customer support.",
           "descriptionFr": "La principale plateforme de pet-sitting à Rotterdam avec plus de 6 700 avis vérifiés et une note moyenne de 4,96/5. Chaque réservation inclut une couverture vétérinaire et un support client 24h/24.",
@@ -639,19 +828,46 @@
         "Reserva el alojamiento para mascotas con al menos una semana de antelación para visitas de verano (junio–agosto) cuando la demanda es alta."
       ],
       "faqsEn": [
-        {"q": "Where can I find a dog sitter in Rotterdam for a day trip?", "a": "Pawshake (pawshake.nl) is the best option — Rotterdam has 6,700+ reviews and drop-in visits are available for half-day and full-day bookings."},
-        {"q": "Is there a dog kennel near Rotterdam city centre?", "a": "There are boarding kennels in the Rotterdam suburbs and in Barendrecht. For stays within the city, Pawshake home boarding is more practical and typically kinder for dogs."},
-        {"q": "How much does dog boarding cost in Rotterdam?", "a": "Pawshake home boarding rates typically range from €25–€45 per night depending on the sitter's experience and neighbourhood."}
+        {
+          "q": "Where can I find a dog sitter in Rotterdam for a day trip?",
+          "a": "Pawshake (pawshake.nl) is the best option — Rotterdam has 6,700+ reviews and drop-in visits are available for half-day and full-day bookings."
+        },
+        {
+          "q": "Is there a dog kennel near Rotterdam city centre?",
+          "a": "There are boarding kennels in the Rotterdam suburbs and in Barendrecht. For stays within the city, Pawshake home boarding is more practical and typically kinder for dogs."
+        },
+        {
+          "q": "How much does dog boarding cost in Rotterdam?",
+          "a": "Pawshake home boarding rates typically range from €25–€45 per night depending on the sitter's experience and neighbourhood."
+        }
       ],
       "faqsFr": [
-        {"q": "Où trouver un dog-sitter à Rotterdam pour une excursion ?", "a": "Pawshake (pawshake.nl) est la meilleure option — Rotterdam compte plus de 6 700 avis et des visites à domicile sont disponibles pour des réservations à la demi-journée ou journée."},
-        {"q": "Y a-t-il un chenil près du centre-ville de Rotterdam ?", "a": "Il existe des chenils en banlieue de Rotterdam et à Barendrecht. Pour les séjours en ville, l'hébergement Pawshake à domicile est plus pratique et généralement plus agréable pour les chiens."},
-        {"q": "Combien coûte la pension pour chien à Rotterdam ?", "a": "Les tarifs d'hébergement Pawshake à domicile varient généralement entre 25 et 45 € par nuit selon l'expérience du gardien et le quartier."}
+        {
+          "q": "Où trouver un dog-sitter à Rotterdam pour une excursion ?",
+          "a": "Pawshake (pawshake.nl) est la meilleure option — Rotterdam compte plus de 6 700 avis et des visites à domicile sont disponibles pour des réservations à la demi-journée ou journée."
+        },
+        {
+          "q": "Y a-t-il un chenil près du centre-ville de Rotterdam ?",
+          "a": "Il existe des chenils en banlieue de Rotterdam et à Barendrecht. Pour les séjours en ville, l'hébergement Pawshake à domicile est plus pratique et généralement plus agréable pour les chiens."
+        },
+        {
+          "q": "Combien coûte la pension pour chien à Rotterdam ?",
+          "a": "Les tarifs d'hébergement Pawshake à domicile varient généralement entre 25 et 45 € par nuit selon l'expérience du gardien et le quartier."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde puedo encontrar un cuidador de perros en Rotterdam para una excursión?", "a": "Pawshake (pawshake.nl) es la mejor opción: Rotterdam tiene más de 6.700 reseñas y hay visitas a domicilio disponibles para reservas de medio día y día completo."},
-        {"q": "¿Hay una perrera cerca del centro de Rotterdam?", "a": "Hay pensiones caninas en los suburbios de Rotterdam y en Barendrecht. Para estancias en la ciudad, el alojamiento doméstico de Pawshake es más práctico y generalmente mejor para los perros."},
-        {"q": "¿Cuánto cuesta el alojamiento para perros en Rotterdam?", "a": "Las tarifas de alojamiento doméstico de Pawshake suelen oscilar entre 25 y 45 € por noche según la experiencia del cuidador y el barrio."}
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Rotterdam para una excursión?",
+          "a": "Pawshake (pawshake.nl) es la mejor opción: Rotterdam tiene más de 6.700 reseñas y hay visitas a domicilio disponibles para reservas de medio día y día completo."
+        },
+        {
+          "q": "¿Hay una perrera cerca del centro de Rotterdam?",
+          "a": "Hay pensiones caninas en los suburbios de Rotterdam y en Barendrecht. Para estancias en la ciudad, el alojamiento doméstico de Pawshake es más práctico y generalmente mejor para los perros."
+        },
+        {
+          "q": "¿Cuánto cuesta el alojamiento para perros en Rotterdam?",
+          "a": "Las tarifas de alojamiento doméstico de Pawshake suelen oscilar entre 25 y 45 € por noche según la experiencia del cuidador y el barrio."
+        }
       ]
     }
   }

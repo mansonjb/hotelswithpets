@@ -17,7 +17,7 @@
           "name": "Brauhaus Sion",
           "address": "Unter Taschenmacher 5-7, 50667 Köln",
           "neighborhood": "Altstadt-Nord",
-          "photo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/cologne-restaurants-brauhaus-sion.jpg",
           "website": "https://www.brauhaus-sion.de/en/",
           "description": "One of Cologne's oldest Brauhäuser, with roots traced to 1318 on the same street. Brauhaus Sion serves traditional Kölsch in the classic long-stemmed glasses (Stangen) brought by roving Köbes servers. Dogs are welcome at the outdoor tables on the cobblestone terrace. The food is Rhineland staples: Himmel un Ääd (black pudding with mashed potatoes and apple sauce), Reibekuchen (potato fritters), and halve Hahn (rye bread with cheese). Central location, 5-min walk from Cologne Cathedral.",
           "descriptionFr": "L'une des plus anciennes brasseries de Cologne, avec des racines remontant à 1318 dans la même rue. Brauhaus Sion sert la Kölsch traditionnelle dans les verres longs caracteristiques, apportés par les serveurs itinérants appelés Köbes. Les chiens sont les bienvenus aux tables en terrasse extérieure sur le pavé. La cuisine est celle des spécialités rhénanes : Himmel un Ääd (boudin noir avec purée et compote de pomme), Reibekuchen (galettes de pommes de terre) et halve Hahn (pain de seigle avec fromage).",
@@ -81,7 +81,7 @@
         {
           "name": "Stadtwald",
           "type": "Forest Park",
-          "photo": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/cologne-parks-stadtwald.jpg",
           "website": "https://www.stadt-koeln.de/",
           "description": "Cologne's largest urban forest, covering several hundred hectares in the Lindenthal district. The north side of the Stadtwald has a large designated off-leash area (Hundeauslauf) where dogs can run freely. Wooded trails and open meadows make this the best all-weather dog-walking destination in the city. The forest is dense enough to be cool in summer. Accessible by tram (Linie 1 to Dürener Straße/Gürtel).",
           "descriptionFr": "La plus grande forêt urbaine de Cologne, couvrant plusieurs centaines d'hectares dans le quartier de Lindenthal. La partie nord du Stadtwald dispose d'une grande zone de liberté désignée (Hundeauslauf) où les chiens peuvent courir librement. Les sentiers boisés et les prairies ouvertes en font la meilleure destination de promenade canine par tous les temps. Accessible en tram (ligne 1 jusqu'à Dürener Straße/Gürtel).",
@@ -98,7 +98,7 @@
         {
           "name": "Rheinpark",
           "type": "Riverside Park",
-          "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/cologne-parks-rheinpark.jpg",
           "website": "https://www.stadt-koeln.de/",
           "description": "A scenic riverside park on the east bank of the Rhine in Deutz, offering panoramic views of the Cologne Cathedral skyline. Open meadows along the riverbank allow dogs to run, and the park connects to a longer riverside cycling and walking path along the Rhine. The park has picnic areas and a small café with outdoor seating. Accessible via the Hohenzollernbrücke bridge from the Altstadt or by tram to Köln Messe/Deutz.",
           "descriptionFr": "Un parc riverain pittoresque sur la rive est du Rhin à Deutz, offrant des vues panoramiques sur la cathédrale de Cologne. Les grandes pelouses au bord du fleuve permettent aux chiens de courir, et le parc se connecte à un chemin cyclable et pédestre plus long le long du Rhin. Accessible via le pont Hohenzollernbrücke depuis l'Altstadt ou en tram jusqu'à Köln Messe/Deutz.",
@@ -267,7 +267,8 @@
           "tip": "For the emergency line, dial +49 221 47 45 43 911 (the main clinic number is 0221 474543-0 for regular appointments).",
           "tipFr": "Pour la ligne d'urgence, composez le +49 221 47 45 43 911 (le numéro principal de la clinique est le 0221 474543-0 pour les rendez-vous réguliers).",
           "tipEs": "Para la línea de urgencias, marca +49 221 47 45 43 911 (el número principal de la clínica es 0221 474543-0 para citas regulares).",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Köln+Brühler+Straße+183+Köln"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Köln+Brühler+Straße+183+Köln",
+          "photo": "/images/city-places/cologne-vets-tierklinik-koln-sud-dr-kellerwessel.jpg"
         },
         {
           "name": "Vet Zentrum Köln",
@@ -285,7 +286,8 @@
           "tip": "Located closer to the city centre than Tierklinik Köln-Süd — faster to reach from the Altstadt or central hotels.",
           "tipFr": "Situé plus près du centre-ville que la Tierklinik Köln-Süd — plus rapide à atteindre depuis l'Altstadt ou les hôtels centraux.",
           "tipEs": "Ubicado más cerca del centro de la ciudad que la Tierklinik Köln-Süd: más rápido de alcanzar desde el Altstadt o los hoteles del centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vet+Zentrum+Köln+Scheidtweilerstraße+19+Köln"
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+Zentrum+Köln+Scheidtweilerstraße+19+Köln",
+          "photo": "/images/city-places/cologne-vets-vet-zentrum-koln.jpg"
         }
       ],
       "faqsEn": [
@@ -358,7 +360,7 @@
         {
           "name": "Cologne Cathedral Exterior & Surroundings",
           "neighborhood": "Altstadt-Nord",
-          "photo": "https://images.unsplash.com/photo-1548919973-5cef591cdbc9?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/cologne-attractions-cologne-cathedral-exterior-surroundings.jpg",
           "website": "https://www.koelner-dom.de/",
           "description": "The UNESCO World Heritage cathedral dominates the city skyline. Dogs are not admitted inside, but the large forecourt (Domplatte) and surrounding pedestrian area are dog-friendly. The view of the cathedral from the Hohenzollernbrücke (the love lock bridge) is one of the most photogenic spots in Germany — and dogs are welcome on the bridge. The Rhine promenade immediately below the cathedral area is outstanding for a morning walk.",
           "descriptionFr": "La cathédrale classée au patrimoine mondial de l'UNESCO domine la skyline de la ville. Les chiens ne sont pas admis à l'intérieur, mais le grand parvis (Domplatte) et les zones piétonnes environnantes sont dog-friendly. La vue de la cathédrale depuis le Hohenzollernbrücke (le pont des cadenas) est l'un des spots les plus photographiques d'Allemagne — et les chiens sont les bienvenus sur le pont.",
@@ -416,7 +418,7 @@
       "places": [
         {
           "name": "Rover Köln",
-          "photo": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+          "photo": "/images/city-places/cologne-petsitting-rover-koln.jpg",
           "website": "https://www.rover.com/de/koln--nordrhein-westfalen--hundesitter/",
           "description": "Rover's German platform with 453 dog walkers in Cologne (March 2026). All sitters pass background checks. Services include dog walking, home boarding, drop-in visits, and day care. Average cost: ~€14 per 30-minute walk. German-language platform; many sitters speak English in Cologne given the city's international community.",
           "descriptionFr": "La plateforme allemande de Rover avec 453 promeneurs de chiens à Cologne (mars 2026). Tous les gardiens passent des vérifications. Services : promenades, pension à domicile, visites de contrôle, garderie de jour. Coût moyen : ~14 € pour une promenade de 30 min.",
@@ -425,7 +427,10 @@
           "serviceTypeFr": "Promenades, pension, visites, garderie de jour",
           "serviceTypeEs": "Paseos, alojamiento, visitas, guardería diurna",
           "pricePerDay": "~€30–40 overnight boarding; ~€14 per walk",
-          "languages": ["German", "English"],
+          "languages": [
+            "German",
+            "English"
+          ],
           "tip": "Filter for 'English-speaking sitters' in Rover's search if language is a concern — Cologne has a large expat community with bilingual sitters.",
           "tipFr": "Filtrez pour 'gardiens anglophones' dans la recherche Rover si la langue est une préoccupation — Cologne a une grande communauté expatriée avec des gardiens bilingues.",
           "tipEs": "Filtra por 'cuidadores anglófonos' en la búsqueda de Rover si el idioma es una preocupación: Colonia tiene una gran comunidad de expatriados con cuidadores bilingües."

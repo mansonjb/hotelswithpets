@@ -242,6 +242,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
       area: 'Islington, Notting Hill, and Bermondsey',
     },
+    rotterdam: {
+      personality: 'one of the most dog-friendly cities in the Netherlands, where pets travel free on public transport and most café terraces welcome them by default',
+      highlight: 'Het Park\'s 28 hectares of off-leash space beside the Euromast, Kralingse Bos forest and lake, and the Maasvlakte beach',
+      area: 'Middelland along Nieuwe Binnenweg, the Witte de With arts district, and the waterfront around Veerhaven',
+    },
+    marseille: {
+      personality: 'a sun-drenched Mediterranean city where outdoor life, terraces and coastal nature shape an unmistakably dog-friendly rhythm',
+      highlight: 'the Calanques National Park trails, the Frioul islands accessible by ferry, and the 5-kilometre Corniche Kennedy promenade',
+      area: 'the Vieux-Port quays, Le Panier historic quarter, and the Vallon des Auffes fishing port',
+    },
   },
   fr: {
     amsterdam: {
@@ -464,6 +474,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
       area: 'Islington, Notting Hill et Bermondsey',
     },
+    rotterdam: {
+      personality: 'l\'une des villes les plus dog-friendly des Pays-Bas, où les animaux voyagent gratuitement dans les transports et la plupart des terrasses de café les accueillent par défaut',
+      highlight: 'les 28 hectares d\'espace sans laisse d\'Het Park à côté de l\'Euromast, le Kralingse Bos et la plage de Maasvlakte',
+      area: 'Middelland le long de la Nieuwe Binnenweg, le quartier artistique de Witte de With et les quais de Veerhaven',
+    },
+    marseille: {
+      personality: 'une ville méditerranéenne baignée de soleil où la vie en extérieur, les terrasses et la nature côtière imposent un rythme résolument dog-friendly',
+      highlight: 'les sentiers du Parc National des Calanques, les îles du Frioul accessibles en ferry et les 5 kilomètres de la Corniche Kennedy',
+      area: 'les quais du Vieux-Port, le quartier historique du Panier et le port de pêche du Vallon des Auffes',
+    },
   },
   es: {
     amsterdam: {
@@ -685,6 +705,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales más naturalmente acogedoras con mascotas de Europa, donde los perros acompañan a sus dueños en pubs, cafés y a través de vastos parques reales durante todo el año',
       highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
       area: 'Islington, Notting Hill y Bermondsey',
+    },
+    rotterdam: {
+      personality: 'una de las ciudades más dog-friendly de los Países Bajos, donde las mascotas viajan gratis en el transporte público y la mayoría de las terrazas las aceptan por defecto',
+      highlight: 'las 28 hectáreas sin correa de Het Park junto al Euromast, el bosque y lago de Kralingse Bos, y la playa de Maasvlakte',
+      area: 'Middelland a lo largo de Nieuwe Binnenweg, el barrio artístico de Witte de With y los muelles de Veerhaven',
+    },
+    marseille: {
+      personality: 'una ciudad mediterránea bañada por el sol donde la vida al aire libre, las terrazas y la naturaleza costera imponen un ritmo claramente dog-friendly',
+      highlight: 'los senderos del Parque Nacional de las Calanques, las islas Frioul accesibles en ferry y los 5 kilómetros de la Corniche Kennedy',
+      area: 'los muelles del Vieux-Port, el barrio histórico del Panier y el puerto pesquero del Vallon des Auffes',
     },
   },
 }

@@ -134,16 +134,25 @@ export default function Header({ locale, dict }: HeaderProps) {
                         <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2">
                           {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : 'Practical guides'}
                         </p>
-                        <Link
-                          href={`/${locale}/guides`}
-                          className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-amber-50 hover:text-amber-700 text-gray-600 transition-colors"
-                          onClick={() => setDropdownOpen(false)}
-                        >
-                          <span className="text-base">📋</span>
-                          <span className="text-sm font-medium leading-tight">
-                            {locale === 'fr' ? 'Passeport animal par pays' : locale === 'es' ? 'Pasaporte mascota por país' : 'Pet passport by country'}
-                          </span>
-                        </Link>
+                        {[
+                          { slug: 'passeport-animal', emoji: '📋', en: 'Pet passport by country', fr: 'Passeport animal par pays', es: 'Pasaporte mascota por país' },
+                          { slug: 'train-avec-chien', emoji: '🚂', en: 'Train travel with your dog', fr: 'Voyager en train avec son chien', es: 'Viajar en tren con tu perro' },
+                          { slug: 'avion-animal', emoji: '✈️', en: 'Flying with your pet', fr: 'Prendre l\'avion avec son animal', es: 'Volar con tu mascota' },
+                          { slug: 'road-trip-chien', emoji: '🚗', en: 'Road trip with your dog', fr: 'Road trip avec son chien', es: 'Road trip con tu perro' },
+                          { slug: 'hotel-pet-friendly', emoji: '🏨', en: 'Choosing a pet-friendly hotel', fr: 'Choisir un hôtel pet-friendly', es: 'Elegir un hotel pet-friendly' },
+                        ].map((g) => (
+                          <Link
+                            key={g.slug}
+                            href={`/${locale}/guides/${g.slug}`}
+                            className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-amber-50 hover:text-amber-700 text-gray-600 transition-colors"
+                            onClick={() => setDropdownOpen(false)}
+                          >
+                            <span className="text-base">{g.emoji}</span>
+                            <span className="text-sm font-medium leading-tight">
+                              {locale === 'fr' ? g.fr : locale === 'es' ? g.es : g.en}
+                            </span>
+                          </Link>
+                        ))}
                       </div>
                     </div>
 

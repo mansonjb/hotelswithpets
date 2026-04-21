@@ -100,7 +100,13 @@ If slug has a dash (e.g. `san-sebastian`), wrap the key in quotes: `'san-sebasti
 
 ### Step 8 — Add cityContent entry
 
-In `lib/cityContent.ts`, add a full entry before the closing `}` + `export default`:
+**Insert entries alphabetically by slug**, NOT at the end. The file is sorted A→Z to make it maintainable — appending to the end creates a mess.
+
+To insert `newcity`:
+1. Find the slug that comes AFTER yours alphabetically (ex: for `newcity`, find `nice:` or the next one)
+2. Use Edit with `old_string = "  {next-slug}: {"` and `new_string = "  newcity: { ... },\n\n  {next-slug}: {"` — making sure the full entry is valid
+
+In `lib/cityContent.ts`, add a full entry with this structure:
 
 ```typescript
 slug: {

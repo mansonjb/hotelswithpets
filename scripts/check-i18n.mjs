@@ -148,6 +148,78 @@ for (const cat of catSlugs) {
 }
 if (catMissing === 0) console.log('✅ editorial.ts: catIntrosByLocale complete for all locales × categories')
 
+// ── 5. Check sight names in cityContent.ts have no English descriptors ───────
+// The `name` field is unlocalized and shown verbatim on FR/ES pages.
+// Pure English descriptors (Off-Leash Area, Riverside Walk, Sculpture Park, etc.)
+// look wrong on a French page. Allow them only if followed by a translation in parens.
+
+const cityContent = readFileSync(path.join(ROOT, 'lib', 'cityContent.ts'), 'utf-8')
+const sightNames = [...cityContent.matchAll(/^\s+name: '([^']+)'/gm)].map(m => m[1])
+
+// Forbidden English descriptor phrases (case-insensitive, word-boundary-bounded).
+// If the name ends with "(something)" we allow it — that's a translation hint.
+const FORBIDDEN_DESCRIPTORS = [
+  /\bOff-Leash Area\b/i,
+  /\bRiverside Walk\b/i,
+  /\bSculpture Park\b/i,
+  /\bMedieval Quarter\b/i,
+  /\bHistoric Quarter\b/i,
+  /\bMuseum Quarter\b/i,
+  /\bRiver Path\b/i,
+  /\bCity Walk\b/i,
+  /\bSeafront Promenade\b/i,
+  /\bFortress Walk\b/i,
+]
+
+const sightIssues = []
+for (const name of new Set(sightNames)) {
+  // Skip if the name has a parenthesised translation/clarification
+  const hasParens = /\([^)]+\)/.test(name)
+  for (const pat of FORBIDDEN_DESCRIPTORS) {
+    if (pat.test(name) && !hasParens) {
+      sightIssues.push({ name, descriptor: pat.source })
+      break
+    }
+  }
+}
+
+if (sightIssues.length > 0) {
+  console.error(`❌ cityContent.ts: ${sightIssues.length} sight names contain English descriptors that will render on FR/ES pages:`)
+  for (const s of sightIssues) {
+    console.error(`   • "${s.name}" — remove "${s.descriptor.replace(/\\b|\\s/g, '').replace(/\\/g, '')}" or add a translation in parens`)
+  }
+  errors += sightIssues.length
+} else {
+  console.log(`✅ cityContent.ts: no English descriptors in sight names (${new Set(sightNames).size} names checked)`)
+}
+
+// ── 6. Check all 3 locales present in cityContent entries ────────────────────
+// Every sight.desc / petTips / practicalInfo block should have fr, en, es keys.
+// Scan for blocks that only have some.
+
+// Find every "sights: [" block and within it every "desc: {" block; ensure all 3 keys.
+const descBlocks = [...cityContent.matchAll(/desc:\s*\{([^{}]+)\}/g)]
+let missingLangCount = 0
+for (const m of descBlocks) {
+  const body = m[1]
+  const hasFr = /\bfr:\s*['"`]/.test(body)
+  const hasEn = /\ben:\s*['"`]/.test(body)
+  const hasEs = /\bes:\s*['"`]/.test(body)
+  if (!hasFr || !hasEn || !hasEs) {
+    missingLangCount++
+    if (missingLangCount <= 5) {
+      const missing = [!hasFr && 'fr', !hasEn && 'en', !hasEs && 'es'].filter(Boolean).join(', ')
+      console.error(`❌ cityContent.ts: a sight.desc block is missing ${missing} (near char ${m.index})`)
+    }
+  }
+}
+if (missingLangCount > 0) {
+  errors += missingLangCount
+  if (missingLangCount > 5) console.error(`   …and ${missingLangCount - 5} more`)
+} else {
+  console.log(`✅ cityContent.ts: all ${descBlocks.length} sight.desc blocks have fr/en/es`)
+}
+
 // ── Result ────────────────────────────────────────────────────────────────────
 
 console.log(`\n${errors > 0 ? '❌' : '✅'} i18n check complete — ${errors} error(s), ${guideIssues} warning(s)`)

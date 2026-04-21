@@ -5589,7 +5589,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎨',
         petFriendly: true,
         desc: {
-          fr: 'L\'extérieur en titane signé Frank Gehry et la sculpture 'Puppy' de Jeff Koons (un terrier des Highlands de 12 mètres couvert de fleurs) sont entièrement accessibles aux chiens — l\'intérieur du musée en revanche est interdit aux animaux.',
+          fr: 'L\'extérieur en titane signé Frank Gehry et la sculpture \'Puppy\' de Jeff Koons (un terrier des Highlands de 12 mètres couvert de fleurs) sont entièrement accessibles aux chiens — l\'intérieur du musée en revanche est interdit aux animaux.',
           en: 'Frank Gehry\'s titanium exterior and Jeff Koons\'s 12-metre flower-covered \'Puppy\' West Highland Terrier are fully dog-friendly; the museum interior does not allow pets.',
           es: 'El exterior de titanio de Frank Gehry y el \'Puppy\' de Jeff Koons (un West Highland Terrier de 12 metros cubierto de flores) son totalmente dog-friendly; el interior del museo no admite mascotas.',
         },

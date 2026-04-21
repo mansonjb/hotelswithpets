@@ -1,0 +1,7 @@
+# Lessons learned
+
+| Date | Ce qui s'est mal passé | Règle à suivre |
+|------|------------------------|----------------|
+| 2026-04-21 | Prompt rendu avec fences \`\`\` imbriquées — le bloc externe terminait sur le premier \`\`\`bash interne, cassant l'affichage | Pour un prompt/doc à copier-coller contenant des exemples code, ne JAMAIS wrapper le tout dans un code fence externe. Utiliser du markdown plat avec blocs \`\`\`lang inline. |
+| 2026-04-21 | Tâche Claude.ai cloud lancée sans setup initial → agent démarré dans /home/user vide (repo pas cloné automatiquement par le GitHub connector) | Toujours inclure en première section du prompt cloud : \`cd /home/user && git clone https://github.com/{owner}/{repo}.git && cd {repo}\`. Aussi configurer les secrets (GOOGLE_PLACES_API_KEY etc.) dans la config Claude.ai — le .env.local n'est pas dans le repo. |
+| 2026-04-21 | Daily run Bilbao/Montpellier : apostrophes non-échappées dans une string single-quoted en TypeScript — \`'Puppy'\` dans \`'...'\` a cassé le build Vercel. Bizarrement la version EN/ES utilisait bien \`\\'Puppy\\'\` mais pas FR. | Dans les strings single-quoted de cityContent.ts, TOUTES les apostrophes/guillemets simples à l'intérieur doivent être échappés \`\\'\`. Alternative plus safe : utiliser des backticks \`\`\`...\`\`\` pour les strings contenant des citations. Ajouter \`npx tsc --noEmit\` dans Step 11 du pipeline AVANT le commit — l'audit ne détecte pas les erreurs TS. |

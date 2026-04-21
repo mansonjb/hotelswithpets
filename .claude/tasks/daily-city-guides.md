@@ -145,12 +145,15 @@ node scripts/fetch-city-guide-photos.mjs --city=slug  # all places for this city
 ### Step 11 — Validate & audit
 
 ```bash
+npx tsc --noEmit lib/cityContent.ts lib/editorial.ts    # catch syntax errors (unescaped apostrophes etc.)
 node scripts/check-i18n.mjs       # must pass
 node scripts/audit-destinations.mjs | tail -5    # city must be in "Fully parity-compliant"
 python3 -m json.tool data/destinations.json > /dev/null    # valid JSON
 ```
 
-If the audit shows the new city under "Errors" or "Warnings", **fix it before committing** — the whole point is full parity.
+If any step shows errors, **fix before committing**. The audit alone doesn't catch TypeScript syntax errors that break Vercel builds — `tsc --noEmit` does.
+
+**Apostrophe trap**: TypeScript single-quoted strings require `\'` for every internal apostrophe. Example mistake: `'L\'extérieur signé Gehry et la sculpture 'Puppy' de Koons'` breaks because `'Puppy'` isn't escaped. Use `\'Puppy\'` or switch to backticks.
 
 ### Step 12 — Commit & push
 

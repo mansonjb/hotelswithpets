@@ -8,7 +8,7 @@ import { getAllCountries } from '@/lib/countries'
 
 const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips', 'attractions', 'petsitting'] as const
 
-const BASE_URL = 'https://hotelswithpets.com'
+const BASE_URL = 'https://www.hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']
 // Build date — used as lastModified for static content
 const BUILD_DATE = new Date()

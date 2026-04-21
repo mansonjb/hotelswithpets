@@ -118,7 +118,7 @@ export default async function HotelPage({
   // Hotel categories with full data
   const hotelCategories = categories.filter((c) => hotel.categories.includes(c.slug))
 
-  const base = 'https://hotelswithpets.com'
+  const base = 'https://www.hotelswithpets.com'
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -132,7 +132,7 @@ export default async function HotelPage({
   }
 
   const cleanPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
-  const hotelImage = `https://hotelswithpets.com/images/hotels/${hotel.id}.jpg`
+  const hotelImage = `https://www.hotelswithpets.com/images/hotels/${hotel.id}.jpg`
   const destHasCoords = 'lat' in dest && 'lng' in dest
 
   const lodgingSchema = {

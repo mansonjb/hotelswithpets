@@ -112,7 +112,7 @@ function buildSchema(
   faqs: Array<{ q: string; a: string }>,
   year: number
 ) {
-  const base = `https://hotelswithpets.com`
+  const base = `https://www.hotelswithpets.com`
 
   const breadcrumb = {
     '@context': 'https://schema.org',

@@ -80,7 +80,7 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
   const catName = getCategoryName(cat, locale as Locale)
   const catDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const catDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
-  const base = 'https://hotelswithpets.com'
+  const base = 'https://www.hotelswithpets.com'
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',

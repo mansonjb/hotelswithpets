@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://hotelswithpets.com'
+export const SITE_URL = 'https://www.hotelswithpets.com'
 
 /** Stay22 partner AID — used for map embeds and Allez deep links */
 export const STAY22_AID = 'eijeanbaptistemanson'

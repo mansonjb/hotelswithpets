@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://hotelswithpets.com/sitemap.xml',
+    sitemap: 'https://www.hotelswithpets.com/sitemap.xml',
   }
 }

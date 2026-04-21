@@ -95,7 +95,7 @@ export default async function CountryPage({
     es: `${country.destinations.length} ciudades · ${totalHotels}+ hoteles con mascotas`,
   }
 
-  const base = 'https://hotelswithpets.com'
+  const base = 'https://www.hotelswithpets.com'
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',

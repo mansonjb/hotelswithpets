@@ -110,7 +110,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
     { slug: 'tips',        emoji: '💡', en: 'Local Tips',       fr: 'Conseils locaux',    es: 'Consejos locales',      gradient: 'from-violet-500 to-purple-600' },
   ]
 
-  const base = 'https://hotelswithpets.com'
+  const base = 'https://www.hotelswithpets.com'
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',

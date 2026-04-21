@@ -5692,5 +5692,120 @@ const cityContent: Record<string, CityContent> = {
       ],
     },
   },
+  montpellier: {
+    history: {
+      fr: `Montpellier est l'une des villes les plus jeunes de France par son histoire médiévale — fondée au Xe siècle autour d'un marché, elle devint rapidement un carrefour commercial entre l'Italie, l'Espagne et le nord de la France. Son université de médecine, fondée en 1220, est l'une des plus anciennes encore en activité en Europe et donna à la ville son caractère intellectuel durable. Ville universitaire et dynamique, Montpellier accueille aujourd'hui plus de 70 000 étudiants, ce qui explique son ambiance détendue et progressiste. La ville est connue pour ses cafés accueillant les chiens, ses marchés en plein air et ses parcs ombragés — une combinaison qui en fait l'une des villes du sud de la France les plus agréables à visiter avec un animal de compagnie.`,
+      en: `Montpellier is one of France's younger medieval foundations — established in the 10th century around a trading post, it rapidly grew into a hub linking Italy, Spain and northern France. Its medical school, founded in 1220, is among the oldest still operating in Europe and gave the city its lasting intellectual character. Today Montpellier is a bustling university city with over 70,000 students, explaining its relaxed and progressive atmosphere. The city is known for its dog-welcoming café terraces, open-air markets, and shaded parks — a combination that makes it one of southern France's most enjoyable cities to visit with a pet.`,
+      es: `Montpellier es una de las fundaciones medievales más jóvenes de Francia: establecida en el siglo X en torno a un mercado, creció rápidamente hasta convertirse en un nexo entre Italia, España y el norte de Francia. Su facultad de medicina, fundada en 1220, es una de las más antiguas que aún funcionan en Europa y otorgó a la ciudad su carácter intelectual duradero. Hoy Montpellier es una animada ciudad universitaria con más de 70 000 estudiantes, lo que explica su ambiente relajado y progresista. La ciudad es conocida por sus terrazas de café que admiten perros, sus mercados al aire libre y sus parques sombreados, una combinación que la convierte en una de las ciudades del sur de Francia más agradables para visitar con una mascota.`,
+    },
+    sights: [
+      {
+        name: 'Place de la Comédie & Esplanade',
+        emoji: '🎭',
+        petFriendly: true,
+        desc: {
+          fr: 'La grande place emblématique de Montpellier — appelée localement l\'Œuf — avec sa fontaine des Trois Grâces et son esplanade ombragée de platanes, idéale pour une promenade en laisse avec votre chien.',
+          en: 'Montpellier\'s iconic central square — known locally as l\'Œuf — with its Fountain of the Three Graces and a plane-tree-shaded esplanade perfect for a leashed stroll with your dog.',
+          es: 'La icónica plaza central de Montpellier —conocida localmente como l\'Œuf— con su Fuente de las Tres Gracias y una explanada sombreada por plátanos, perfecta para pasear con tu perro con correa.',
+        },
+      },
+      {
+        name: 'Écusson Medieval Quarter',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur historique de Montpellier : ruelles pavées, hôtels particuliers du XVIIe et terrasses de café animées où les chiens en laisse sont les bienvenus tout au long de la journée.',
+          en: 'Montpellier\'s historic core: cobbled lanes, 17th-century townhouses, and lively café terraces where leashed dogs are welcome throughout the day.',
+          es: 'El núcleo histórico de Montpellier: callejuelas adoquinadas, mansiones del siglo XVII y animadas terrazas de café donde los perros con correa son bienvenidos durante todo el día.',
+        },
+      },
+      {
+        name: 'Promenade du Peyrou & Château d\'Eau',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: 'Un jardin royal du XVIIe siècle avec vue panoramique sur les Cévennes et la mer. L\'arc de triomphe et le château d\'eau constituent un cadre majestueux pour une promenade avec votre chien.',
+          en: 'A 17th-century royal garden with panoramic views over the Cévennes and the sea. The triumphal arch and water tower make a majestic backdrop for a dog walk.',
+          es: 'Un jardín real del siglo XVII con vistas panorámicas a las Cevenas y al mar. El arco de triunfo y la torre del agua forman un escenario majestuoso para pasear con tu perro.',
+        },
+      },
+      {
+        name: 'Parc Méric Off-Leash Area',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus grand caniparc de Montpellier : 6 000 m² entièrement clôturés et réservés aux chiens sans laisse, avec zones séparées pour petits et grands chiens. Ouvert tous les jours.',
+          en: 'Montpellier\'s largest off-leash dog park: 6,000 m² fully fenced and dedicated to unleashed dogs, with separate zones for small and large breeds. Open daily.',
+          es: 'El parque canino más grande de Montpellier: 6 000 m² completamente vallados y dedicados a perros sin correa, con zonas separadas para razas pequeñas y grandes. Abierto todos los días.',
+        },
+      },
+      {
+        name: 'Berges du Lez Riverside Walk',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Un corridor vert le long de la rivière Lez reliant le centre-ville aux quartiers nord, offrant des kilomètres de promenade ombragée pour chiens en laisse loin de la circulation.',
+          en: 'A green corridor along the Lez river linking the city centre to northern districts, offering kilometres of shaded walking for leashed dogs away from traffic.',
+          es: 'Un corredor verde a lo largo del río Lez que une el centro de la ciudad con los barrios del norte, ofreciendo kilómetros de paseo sombreado para perros con correa lejos del tráfico.',
+        },
+      },
+      {
+        name: 'Plage du Grand Travers, La Grande Motte',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'La plage dog-friendly la plus proche de Montpellier (20 km), accessible à l\'accès 58-60. Les chiens sont autorisés toute l\'année, même hors laisse dans certaines zones. Attention : les plages de Palavas-les-Flots et Carnon interdisent les chiens.',
+          en: 'The nearest dog-friendly beach to Montpellier (20 km), accessible at access 58–60. Dogs are permitted year-round, even off-leash in designated areas. Note: Palavas-les-Flots and Carnon beaches ban dogs.',
+          es: 'La playa más cercana a Montpellier que admite perros (20 km), accesible por el acceso 58-60. Los perros están permitidos todo el año, incluso sin correa en zonas designadas. Atención: las playas de Palavas-les-Flots y Carnon prohíben los perros.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'La chaleur méditerranéenne de juillet-août peut dépasser 38 °C — évitez les promenades entre 11h et 17h et emportez toujours de l\'eau fraîche pour votre chien.',
+        'Le réseau de tramway TAM accepte les petits chiens dans un transportín fermé sans supplément ; les grands chiens sont admis à la discrétion du conducteur avec laisse et muselière.',
+        'La plage du Grand Travers (accès 58-60 à La Grande Motte) est ouverte aux chiens toute l\'année — la seule plage proche de Montpellier à le faire. Evitez Palavas et Carnon où les chiens sont interdits.',
+        'Le marché du Lez et les marchés du Peyrou sont dog-friendly ; la plupart des terrasses de café dans l\'Écusson acceptent les chiens en laisse.',
+        'Les ruelles pavées de l\'Écusson peuvent être glissantes en été mouillé — des protège-pattes peuvent être utiles pour les chiens aux coussinets sensibles.',
+      ],
+      en: [
+        'Mediterranean summer heat can exceed 38 °C in July and August — avoid walks between 11 am and 5 pm and always carry fresh water for your dog.',
+        'The TAM tram network accepts small dogs in a closed carrier at no extra charge; large dogs are admitted at the driver\'s discretion with leash and muzzle.',
+        'Grand Travers beach (access 58–60 at La Grande Motte) is open to dogs year-round — the only nearby beach that is. Avoid Palavas-les-Flots and Carnon where dogs are banned.',
+        'The Marché du Lez and Peyrou markets are dog-friendly; most café terraces in the Écusson welcome leashed dogs.',
+        'The cobbled lanes of the Écusson can be slippery when wet in summer storms — paw protectors may help dogs with sensitive pads.',
+      ],
+      es: [
+        'El calor mediterráneo de julio y agosto puede superar los 38 °C — evita los paseos entre las 11 h y las 17 h y lleva siempre agua fresca para tu perro.',
+        'La red de tranvía TAM acepta perros pequeños en transportín cerrado sin cargo adicional; los perros grandes se admiten a discreción del conductor con correa y bozal.',
+        'La playa del Grand Travers (acceso 58-60 en La Grande Motte) está abierta a los perros todo el año — la única playa cercana que lo permite. Evita Palavas-les-Flots y Carnon, donde los perros están prohibidos.',
+        'El Marché du Lez y los mercados del Peyrou son dog-friendly; la mayoría de las terrazas de café en el Écusson aceptan perros con correa.',
+        'Los adoquines del Écusson pueden ser resbaladizos cuando están mojados en las tormentas de verano — las protecciones para patas pueden ayudar a los perros con almohadillas sensibles.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : l\'Aéroport de Montpellier-Méditerranée (MPL) est à 8 km du centre. Les chiens en transportín sont admis dans la cabine sous le siège ; les grands chiens voyagent en soute selon les règles de la compagnie.',
+        'Vétérinaire d\'urgence : CHV Languedocia, 470 rue Favre de Saint Castor, tél. 04 67 75 14 44, ouvert 24h/24, 7j/7, 365 jours par an (vérifié sur le site officiel).',
+        'Transport : le tram TAM accepte les petits chiens en transportín fermé gratuitement. Les grands chiens sont admis à la discrétion du conducteur avec laisse et muselière. Pas d\'accès aux bus.',
+        'Plages : seule la plage du Grand Travers à La Grande Motte (accès 58-60) accepte les chiens toute l\'année à proximité de Montpellier. Les plages de Palavas et Carnon sont interdites aux chiens.',
+        'Fournitures : plusieurs animaleries en centre-ville, notamment autour de la Rue de la Loge et du quartier Antigone.',
+      ],
+      en: [
+        'Airport: Montpellier-Méditerranée Airport (MPL) is 8 km from the centre. Small dogs in carriers are admitted to the cabin under the seat; large dogs travel in the hold per airline rules.',
+        'Emergency vet: CHV Languedocia, 470 rue Favre de Saint Castor, tel. 04 67 75 14 44, open 24h/7 days/365 days (verified from official website).',
+        'Transport: TAM tram accepts small dogs in a closed carrier free of charge. Large dogs are admitted at the driver\'s discretion with leash and muzzle. Buses do not accept dogs.',
+        'Beaches: only Grand Travers beach at La Grande Motte (access 58–60) allows dogs year-round near Montpellier. Palavas and Carnon beaches ban dogs entirely.',
+        'Pet supplies: several pet shops in the city centre, particularly around Rue de la Loge and the Antigone district.',
+      ],
+      es: [
+        'Aeropuerto: el Aeropuerto Montpellier-Méditerranée (MPL) está a 8 km del centro. Los perros pequeños en transportín se admiten en cabina bajo el asiento; los grandes viajan en bodega según las normas de la aerolínea.',
+        'Veterinario de urgencias: CHV Languedocia, 470 rue Favre de Saint Castor, tel. 04 67 75 14 44, abierto 24h/7 días/365 días (verificado en el sitio oficial).',
+        'Transporte: el tranvía TAM acepta perros pequeños en transportín cerrado de forma gratuita. Los perros grandes se admiten a discreción del conductor con correa y bozal. Los autobuses no aceptan perros.',
+        'Playas: solo la playa del Grand Travers en La Grande Motte (acceso 58-60) permite perros todo el año cerca de Montpellier. Las playas de Palavas y Carnon prohíben totalmente los perros.',
+        'Suministros: varias tiendas de animales en el centro, especialmente en la Rue de la Loge y el barrio de l\'Antigone.',
+      ],
+    },
+  },
 
 }

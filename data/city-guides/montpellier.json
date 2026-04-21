@@ -1,0 +1,814 @@
+{
+  "slug": "montpellier",
+  "name": "Montpellier",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-04-21",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Montpellier",
+      "titleFr": "Restaurants acceptant les chiens à Montpellier",
+      "titleEs": "Restaurantes dog-friendly en Montpellier",
+      "introEn": "Montpellier's outdoor café culture is exceptionally dog-friendly — the city's warm Mediterranean climate means terraces are in use most of the year, and a large student and expat population has created a welcoming culture for well-behaved dogs in cafés and restaurants throughout the historic Écusson district and beyond.",
+      "introFr": "La culture des cafés en terrasse à Montpellier est particulièrement dog-friendly — le climat méditerranéen doux permet d'utiliser les terrasses la quasi-totalité de l'année, et une importante population étudiante et expatriée a créé un accueil chaleureux pour les chiens bien tenus dans les cafés et restaurants du quartier historique de l'Écusson et au-delà.",
+      "introEs": "La cultura de cafés con terraza de Montpellier es excepcionalmente dog-friendly: el clima mediterráneo suave permite usar las terrazas casi todo el año, y una gran población estudiantil y expatriada ha creado un ambiente acogedor para los perros bien portados en cafés y restaurantes del histórico barrio del Écusson y más allá.",
+      "places": [
+        {
+          "name": "Bonobo Brunch",
+          "address": "46 Rue Saint Guilhem, 34000 Montpellier",
+          "neighborhood": "Écusson / Historic Centre",
+          "photo": "/images/city-places/montpellier-restaurants-bonobo-brunch.jpg",
+          "website": "https://www.bonobo-brunch.com/",
+          "description": "Montpellier's most beloved brunch café in the heart of the historic Écusson — dogs are accepted and the relaxed, plant-filled interior and sheltered terrace make it one of the city's top spots for a long brunch with your pet. The menu spans eggs Benedict, pancakes, specialty coffee, and natural wines.",
+          "descriptionFr": "Le café brunch le plus apprécié de Montpellier, au cœur de l'Écusson historique — les chiens sont acceptés et l'intérieur détendu plein de plantes et la terrasse abritée en font l'un des meilleurs endroits de la ville pour un long brunch avec son animal. La carte va des œufs bénédicte aux pancakes, en passant par les cafés de spécialité et les vins naturels.",
+          "descriptionEs": "El café brunch más querido de Montpellier, en el corazón del histórico Écusson: los perros son bienvenidos y el relajado interior lleno de plantas y la terraza resguardada lo convierten en uno de los mejores lugares de la ciudad para un largo brunch con tu mascota. La carta abarca huevos benedictinos, tortitas, café de especialidad y vinos naturales.",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse",
+          "petPolicyEs": "Perros admitidos en interior y terraza",
+          "priceRange": "€€",
+          "mustTry": "Eggs Benedict, homemade granola bowl, oat milk latte",
+          "mustTryFr": "Œufs bénédicte, bol de granola maison, latte au lait d'avoine",
+          "mustTryEs": "Huevos benedictinos, bol de granola casero, latte de avena",
+          "openingHours": "Mon–Sun 09:00–17:00",
+          "tip": "Arrive before 10:30 on weekends — this is Montpellier's most popular brunch spot and tables fill quickly once the student crowd arrives.",
+          "tipFr": "Arrivez avant 10h30 le week-end — c'est le brunch le plus populaire de Montpellier et les tables se remplissent vite dès que la foule étudiante arrive.",
+          "tipEs": "Llega antes de las 10:30 los fines de semana: es el brunch más popular de Montpellier y las mesas se llenan rápido cuando llega el público universitario.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bonobo+Brunch+46+Rue+Saint+Guilhem+Montpellier"
+        },
+        {
+          "name": "Rosemarie",
+          "address": "3 Rue des Sœurs Noires, 34000 Montpellier",
+          "neighborhood": "Écusson / Historic Centre",
+          "photo": "/images/city-places/montpellier-restaurants-rosemarie.jpg",
+          "website": "https://rosemarie-montpellier.fr/",
+          "description": "A popular Mediterranean restaurant in the heart of the Écusson, listed by pet travel publications as one of Montpellier's most dog-welcoming dining spots. The warm, characterful interior and sunny terrace make it ideal for long lunches with a well-behaved dog — Mediterranean small plates, local wines, and excellent service.",
+          "descriptionFr": "Un restaurant méditerranéen populaire au cœur de l'Écusson, classé par les publications de voyage pet-friendly comme l'une des adresses les plus accueillantes de Montpellier pour les chiens. L'intérieur chaleureux et caractéristique et la terrasse ensoleillée en font un idéal pour de longs déjeuners avec un chien bien tenu — petites assiettes méditerranéennes, vins locaux et excellent service.",
+          "descriptionEs": "Un popular restaurante mediterráneo en el corazón del Écusson, catalogado por publicaciones de viajes con mascotas como uno de los establecimientos más acogedores para perros de Montpellier. El cálido interior con carácter y la terraza soleada lo hacen ideal para largos almuerzos con un perro bien portado: platos pequeños mediterráneos, vinos locales y excelente servicio.",
+          "petPolicy": "Dogs welcome — confirm on arrival; terrace always dog-friendly",
+          "petPolicyFr": "Chiens acceptés — confirmez à l'arrivée ; terrasse toujours dog-friendly",
+          "petPolicyEs": "Perros bienvenidos — confirmar a la llegada; terraza siempre dog-friendly",
+          "priceRange": "€€",
+          "mustTry": "Mediterranean mezze platter, regional Languedoc wine",
+          "mustTryFr": "Plateau de mezze méditerranéen, vin régional du Languedoc",
+          "mustTryEs": "Tabla de mezze mediterráneo, vino regional del Languedoc",
+          "openingHours": "Tue–Sat 12:00–14:30 & 19:00–22:00",
+          "tip": "The shaded terrace on the side street stays cool even in July and August — book in advance for weekend dinner as this small restaurant fills fast.",
+          "tipFr": "La terrasse ombragée dans la ruelle reste fraîche même en juillet et août — réservez en avance pour le dîner du week-end car ce petit restaurant affiche vite complet.",
+          "tipEs": "La terraza sombreada en la callejuela se mantiene fresca incluso en julio y agosto: reserva con antelación para la cena del fin de semana, ya que este pequeño restaurante se llena rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rosemarie+3+Rue+des+Soeurs+Noires+Montpellier"
+        },
+        {
+          "name": "La Grange",
+          "address": "30 Rue Jean-Jacques Rousseau, 34000 Montpellier",
+          "neighborhood": "Préfecture",
+          "photo": "/images/city-places/montpellier-restaurants-la-grange.jpg",
+          "website": "https://www.tripadvisor.com/Restaurant_Review-g187153-d969164-Reviews-La_Grange-Montpellier_Herault_Occitanie.html",
+          "description": "A rustic French restaurant decorated with farm tools and warm canvases, listed by pet travel guides as a dog-friendly address in Montpellier. Traditional Languedoc cuisine — hearty plats du jour, charcuterie, and Languedoc wine — served in a setting that feels miles from the city's student bustle.",
+          "descriptionFr": "Un restaurant français rustique décoré d'outils agricoles et de toiles chaleureuses, référencé par les guides de voyage avec animaux comme une adresse dog-friendly à Montpellier. Cuisine languedocienne traditionnelle — plantureux plats du jour, charcuterie et vin du Languedoc — servie dans un cadre qui semble loin de l'agitation estudiantine de la ville.",
+          "descriptionEs": "Un rústico restaurante francés decorado con aperos agrícolas y cálidos lienzos, catalogado por las guías de viaje con mascotas como dirección dog-friendly en Montpellier. Cocina languedociana tradicional: contundentes platos del día, charcutería y vino del Languedoc, en un ambiente que parece muy lejos del bullicio universitario de la ciudad.",
+          "petPolicy": "Dogs welcome — pet travel guides verified; call ahead to confirm for evening service",
+          "petPolicyFr": "Chiens acceptés — vérifié par les guides voyage pets ; appelez pour confirmer pour le dîner",
+          "petPolicyEs": "Perros admitidos — verificado por guías de viaje con mascotas; llamar para confirmar en cena",
+          "priceRange": "€€",
+          "mustTry": "Plat du jour (changes daily), regional charcuterie board",
+          "mustTryFr": "Plat du jour (change chaque jour), plateau de charcuterie régionale",
+          "mustTryEs": "Plato del día (cambia cada día), tabla de charcutería regional",
+          "openingHours": "Mon–Fri 12:00–14:30, Tue–Sat 19:30–22:00",
+          "tip": "This is a neighbourhood restaurant popular with local professionals — book by phone for weekday lunch and arrive promptly at 12:00 for the best plat du jour selection.",
+          "tipFr": "C'est un restaurant de quartier populaire auprès des professionnels locaux — réservez par téléphone pour le déjeuner en semaine et arrivez à 12h pile pour le meilleur choix de plat du jour.",
+          "tipEs": "Es un restaurante de barrio popular entre los profesionales locales: reserva por teléfono para el almuerzo entre semana y llega puntualmente a las 12:00 para la mejor selección de plato del día.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Grange+30+Rue+Jean+Jacques+Rousseau+Montpellier"
+        }
+      ],
+      "tipsEn": [
+        "Montpellier's terrace culture is active from March to November — the Mediterranean climate means outdoor dining with your dog is viable for most of the year.",
+        "The Écusson (historic medieval quarter) has the highest concentration of dog-friendly cafés and bars — walk Rue Saint Guilhem and the surrounding streets to find most of them.",
+        "Many restaurants will ask dogs to be kept under the table or tied to your chair leg — bring a short leash for indoor dining and be prepared for staff to occasionally ask you to move to the terrace."
+      ],
+      "tipsFr": [
+        "La culture des terrasses à Montpellier est active de mars à novembre — le climat méditerranéen permet de déjeuner en extérieur avec son chien la majeure partie de l'année.",
+        "L'Écusson (le quartier médiéval historique) concentre la plus forte densité de cafés et bars dog-friendly — remontez la Rue Saint Guilhem et les rues voisines pour en trouver la plupart.",
+        "De nombreux restaurants demanderont à garder les chiens sous la table ou attachés à la chaise — emportez une laisse courte pour manger en intérieur et soyez prêt à être éventuellement redirigé vers la terrasse."
+      ],
+      "tipsEs": [
+        "La cultura de terrazas de Montpellier está activa de marzo a noviembre: el clima mediterráneo permite comer al aire libre con tu perro la mayor parte del año.",
+        "El Écusson (el barrio medieval histórico) tiene la mayor concentración de cafés y bares dog-friendly: recorre la Rue Saint Guilhem y las calles adyacentes para encontrar la mayoría.",
+        "Muchos restaurantes pedirán que los perros estén bajo la mesa o atados a la pata de la silla: lleva una correa corta para comer en interior y sé flexible si el personal te pide pasar a la terraza."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Montpellier restaurants?",
+          "a": "Yes — many restaurants and cafés in Montpellier welcome dogs, especially on terraces. The Écusson historic quarter has the highest concentration of dog-friendly spots. Indoor policies vary by venue."
+        },
+        {
+          "q": "Which area of Montpellier is most dog-friendly for dining?",
+          "a": "The Écusson (historic centre), particularly around Rue Saint Guilhem and Place Jean Jaurès, has the most dog-welcoming cafés and restaurants. The area around Comédie and Place du Marché are also good options."
+        },
+        {
+          "q": "Is Montpellier generally a dog-friendly city?",
+          "a": "Yes — Montpellier has over 27 designated dog parks (caniparcs), extensive off-leash areas along the Lez River, and a relaxed student-friendly culture that is generally welcoming to well-behaved dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants de Montpellier ?",
+          "a": "Oui — de nombreux restaurants et cafés à Montpellier accueillent les chiens, notamment en terrasse. Le quartier historique de l'Écusson concentre les adresses les plus dog-friendly. Les politiques en intérieur varient selon l'établissement."
+        },
+        {
+          "q": "Quel quartier de Montpellier est le plus dog-friendly pour se restaurer ?",
+          "a": "L'Écusson (centre historique), notamment autour de la Rue Saint Guilhem et de la Place Jean Jaurès, regroupe les cafés et restaurants les plus accueillants pour les chiens. Les environs de la Comédie et de la Place du Marché sont aussi de bonnes options."
+        },
+        {
+          "q": "Montpellier est-elle globalement une ville dog-friendly ?",
+          "a": "Oui — Montpellier compte plus de 27 parcs pour chiens (caniparcs), de vastes zones hors laisse le long du Lez, et une culture estudiantine détendue généralement bienveillante avec les chiens bien tenus."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Montpellier?",
+          "a": "Sí: muchos restaurantes y cafés de Montpellier admiten perros, especialmente en terrazas. El barrio histórico del Écusson tiene la mayor concentración de locales dog-friendly. Las políticas en interior varían según el establecimiento."
+        },
+        {
+          "q": "¿Qué zona de Montpellier es más dog-friendly para comer?",
+          "a": "El Écusson (centro histórico), especialmente en la Rue Saint Guilhem y la Place Jean Jaurès, concentra los cafés y restaurantes más acogedores para perros. Los alrededores de la Comédie y la Place du Marché también son buenas opciones."
+        },
+        {
+          "q": "¿Es Montpellier en general una ciudad dog-friendly?",
+          "a": "Sí: Montpellier tiene más de 27 parques para perros (caniparcs), extensas zonas libres a lo largo del río Lez, y una cultura universitaria relajada que generalmente acoge bien a los perros bien portados."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Walks in Montpellier",
+      "titleFr": "Parcs et balades avec son chien à Montpellier",
+      "titleEs": "Parques y paseos con perros en Montpellier",
+      "introEn": "Montpellier has over 27 caniparcs (enclosed off-leash dog parks) spread across the city, plus extensive riverside paths along the Lez that allow off-leash walking in many sections. The city is also at the edge of the Garrigues hills, offering wilder walks within 20 minutes of the centre.",
+      "introFr": "Montpellier compte plus de 27 caniparcs (espaces clôturés hors laisse) répartis dans toute la ville, plus d'importants chemins de bord de rivière le long du Lez qui autorisent la liberté dans de nombreuses sections. La ville est aussi aux portes des Garrigues, offrant des balades plus sauvages à 20 minutes du centre.",
+      "introEs": "Montpellier tiene más de 27 caniparcs (áreas cercadas sin correa) repartidos por toda la ciudad, además de extensos caminos fluviales a lo largo del Lez que permiten paseos sin correa en muchas secciones. La ciudad también está a las puertas de las Garrigas, con paseos más silvestres a 20 minutos del centro.",
+      "places": [
+        {
+          "name": "Parc Méric — Grand Caniparc",
+          "type": "Riverside park with 6,000 m² off-leash dog park",
+          "photo": "/images/city-places/montpellier-parks-parc-meric-grand-caniparc.jpg",
+          "website": "https://www.holidog.com/parc-chien/le-top-10-des-parcs-ou-promener-son-chien-a-montpellier",
+          "description": "Montpellier's best dedicated dog park — a 6,000 m² enclosed off-leash area beside the Lez River with canine play equipment, benches, and shaded areas. The riverside setting is beautiful and the park itself is one of the largest purpose-built dog spaces in southern France, popular with local dog owners daily.",
+          "descriptionFr": "Le meilleur parc canin de Montpellier — un espace hors laisse clôturé de 6 000 m² en bordure du Lez avec des équipements canins, des bancs et des zones ombragées. Le cadre en bord de rivière est magnifique et le parc lui-même est l'un des plus grands espaces canins aménagés du sud de la France, fréquenté quotidiennement par les propriétaires de chiens locaux.",
+          "descriptionEs": "El mejor parque canino de Montpellier: una zona sin correa de 6.000 m² junto al río Lez con equipamiento canino, bancos y zonas con sombra. El entorno fluvial es precioso y el parque en sí es uno de los mayores espacios caninos de uso específico del sur de Francia, frecuentado diariamente por dueños de perros locales.",
+          "offLeash": true,
+          "offLeashArea": "Full 6,000 m² enclosed caniparc beside the Lez River",
+          "offLeashAreaFr": "Caniparc clôturé de 6 000 m² au bord du Lez",
+          "offLeashAreaEs": "Caniparc cerrado de 6.000 m² junto al río Lez",
+          "tip": "The park is busiest between 08:00–09:30 and 18:00–19:30 on weekdays — for a quieter session go on a weekday midday or early Saturday morning.",
+          "tipFr": "Le parc est plus fréquenté entre 8h–9h30 et 18h–19h30 en semaine — pour une session plus calme, allez en semaine à midi ou tôt le samedi matin.",
+          "tipEs": "El parque está más concurrido entre las 8:00–9:30 y las 18:00–19:30 entre semana: para una sesión más tranquila ve entre semana al mediodía o a primera hora del sábado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Meric+Montpellier"
+        },
+        {
+          "name": "Promenade du Peyrou",
+          "type": "Classical promenade with panoramic views",
+          "photo": "/images/city-places/montpellier-parks-promenade-du-peyrou.jpg",
+          "website": "https://www.montpellier-france.com/",
+          "description": "A 4.59-hectare formal esplanade at the heart of Montpellier, with a triumphal arch, a magnificent 18th-century water tower, and panoramic views stretching to the Cévennes and on clear days to the Pyrénées. Dogs are welcome on a leash throughout the promenade — the wide tree-lined allées are perfect for a morning walk before the heat of the day.",
+          "descriptionFr": "Une promenade formelle de 4,59 hectares au cœur de Montpellier, avec un arc de triomphe, un château d'eau du XVIIIe siècle et des vues panoramiques jusqu'aux Cévennes et, par temps clair, jusqu'aux Pyrénées. Les chiens sont les bienvenus en laisse sur toute la promenade — les larges allées bordées d'arbres sont parfaites pour une promenade matinale avant la chaleur.",
+          "descriptionEs": "Un paseo formal de 4,59 hectáreas en el corazón de Montpellier, con un arco triunfal, una magnífica torre de agua del siglo XVIII y vistas panorámicas hacia las Cévennes y, en días claros, hasta los Pirineos. Los perros son bienvenidos con correa en todo el paseo: los amplios paseos arbolados son perfectos para el paseo matutino antes del calor del día.",
+          "offLeash": false,
+          "offLeashArea": "Leash required throughout; off-leash not permitted",
+          "offLeashAreaFr": "Laisse obligatoire partout ; hors laisse non autorisé",
+          "offLeashAreaEs": "Correa obligatoria en todo momento; suelta no permitida",
+          "tip": "Visit before 09:00 in summer — by 11:00 the exposed esplanade offers almost no shade and becomes very hot for dogs. The fountain at the lower end provides some relief.",
+          "tipFr": "Visitez avant 9h en été — dès 11h l'esplanade à découvert n'offre presque plus d'ombre et devient très chaude pour les chiens. La fontaine en bas de la promenade offre un peu de fraîcheur.",
+          "tipEs": "Visita antes de las 9:00 en verano: a partir de las 11:00 la esplanada expuesta ofrece casi nada de sombra y se vuelve muy calurosa para los perros. La fuente en el extremo inferior proporciona algo de alivio.",
+          "googleMapsUrl": "https://maps.google.com/?q=Promenade+du+Peyrou+Montpellier"
+        },
+        {
+          "name": "Berges du Lez — Riverside Walk",
+          "type": "Riverside path — off-leash sections",
+          "photo": "/images/city-places/montpellier-parks-berges-du-lez-riverside-walk.jpg",
+          "website": "https://emmenetonchien.com/en/destinations-voyage-avec-un-chien/que-faire-a-montpellier-avec-son-chien/",
+          "description": "The banks of the Lez River running through Montpellier offer several kilometres of walking path with off-leash sections where dogs can cool off in the water. The Montcalm and Aiguelongue sections are particularly popular and have formal caniparcs nearby — a complete loop through both riverbanks takes 1.5–2 hours.",
+          "descriptionFr": "Les berges du Lez traversant Montpellier offrent plusieurs kilomètres de chemin de promenade avec des sections hors laisse où les chiens peuvent se rafraîchir dans l'eau. Les sections Montcalm et Aiguelongue sont particulièrement populaires et disposent de caniparcs à proximité — une boucle complète des deux rives prend 1h30 à 2h.",
+          "descriptionEs": "Las orillas del río Lez que atraviesa Montpellier ofrecen varios kilómetros de caminos con zonas sin correa donde los perros pueden refrescarse en el agua. Los tramos de Montcalm y Aiguelongue son especialmente populares y tienen caniparcs cercanos: un recorrido completo por ambas orillas lleva 1,5–2 horas.",
+          "offLeash": true,
+          "offLeashArea": "Off-leash sections along multiple river stretches; watch for designated zones",
+          "offLeashAreaFr": "Sections hors laisse le long de plusieurs tronçons du fleuve ; repérez les zones désignées",
+          "offLeashAreaEs": "Zonas sin correa a lo largo de varios tramos del río; observar las zonas designadas",
+          "tip": "Dogs can wade in the Lez at several access points — avoid the central city stretch which is channelled and less accessible; head to the Parc Méric stretch for the best water access.",
+          "tipFr": "Les chiens peuvent se baigner dans le Lez à plusieurs points d'accès — évitez la section centrale de la ville qui est canalisée et moins accessible ; allez vers le tronçon du Parc Méric pour le meilleur accès à l'eau.",
+          "tipEs": "Los perros pueden bañarse en el Lez en varios puntos de acceso: evita el tramo central de la ciudad, que está canalizado y es menos accesible; dirígete al tramo del Parc Méric para el mejor acceso al agua.",
+          "googleMapsUrl": "https://maps.google.com/?q=Berges+du+Lez+Montpellier"
+        }
+      ],
+      "tipsEn": [
+        "Montpellier has 27+ caniparcs (enclosed off-leash areas) distributed across every district — the Montpellier city website (montpellier.fr) has a full interactive map of their locations.",
+        "In July and August, avoid walking between 11:00 and 18:00 — pavement temperatures can exceed 50°C and grass areas in exposed parks burn quickly in the southern sun.",
+        "The Garrigues Natural Area north of the city (accessible by car in 20 min) offers 240 hectares of scrubland where dogs can walk off-leash year-round — the most expansive dog walking near Montpellier."
+      ],
+      "tipsFr": [
+        "Montpellier compte 27+ caniparcs (zones hors laisse clôturées) répartis dans tous les quartiers — le site de la ville (montpellier.fr) dispose d'une carte interactive complète de leurs emplacements.",
+        "En juillet et août, évitez de promener entre 11h et 18h — les températures du sol peuvent dépasser 50°C et les espaces gazonnés brûlent rapidement sous le soleil du Midi.",
+        "La zone naturelle des Garrigues au nord de la ville (accessible en voiture en 20 min) offre 240 hectares de garrigue où les chiens peuvent circuler librement toute l'année — le plus grand espace de promenade canine autour de Montpellier."
+      ],
+      "tipsEs": [
+        "Montpellier tiene más de 27 caniparcs (zonas sin correa cercadas) distribuidos por todos los barrios: el sitio web del ayuntamiento (montpellier.fr) tiene un mapa interactivo completo de sus ubicaciones.",
+        "En julio y agosto, evita pasear entre las 11:00 y las 18:00: las temperaturas del pavimento pueden superar los 50°C y las zonas de hierba en parques expuestos se queman rápido bajo el sol del sur.",
+        "La zona natural de las Garrigas al norte de la ciudad (accesible en coche en 20 min) ofrece 240 hectáreas de matorral donde los perros pueden caminar sin correa todo el año: el espacio más amplio para paseos caninos cerca de Montpellier."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there off-leash dog parks in Montpellier?",
+          "a": "Yes — Montpellier has 27+ caniparcs (enclosed off-leash zones) across the city. Parc Méric has the largest (6,000 m²). All are free to use and most are open year-round."
+        },
+        {
+          "q": "Can dogs swim in the Lez River in Montpellier?",
+          "a": "Yes — dogs can access the Lez River at several points along the riverside path, particularly near Parc Méric. The water is generally clean in these sections."
+        },
+        {
+          "q": "What is the best park for dogs in Montpellier?",
+          "a": "Parc Méric is the top choice — it has a 6,000 m² enclosed caniparc beside the Lez River with play equipment and shade. For more open space, the Garrigues hills north of the city allow off-leash walking across 240 hectares."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs hors laisse à Montpellier ?",
+          "a": "Oui — Montpellier compte 27+ caniparcs (zones hors laisse clôturées) dans toute la ville. Le Parc Méric dispose du plus grand (6 000 m²). Tous sont gratuits et la plupart sont ouverts toute l'année."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le Lez à Montpellier ?",
+          "a": "Oui — les chiens peuvent accéder au Lez à plusieurs points le long du chemin de berge, notamment près du Parc Méric. L'eau est généralement propre dans ces sections."
+        },
+        {
+          "q": "Quel est le meilleur parc pour les chiens à Montpellier ?",
+          "a": "Le Parc Méric est le meilleur choix — il dispose d'un caniparc clôturé de 6 000 m² en bord de Lez avec des équipements et de l'ombre. Pour plus d'espace, les Garrigues au nord de la ville permettent la liberté sur 240 hectares."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques sin correa en Montpellier?",
+          "a": "Sí: Montpellier tiene más de 27 caniparcs (zonas sin correa cercadas) por toda la ciudad. El Parc Méric tiene el más grande (6.000 m²). Todos son de acceso gratuito y la mayoría abren todo el año."
+        },
+        {
+          "q": "¿Pueden los perros bañarse en el río Lez en Montpellier?",
+          "a": "Sí: los perros pueden acceder al Lez en varios puntos a lo largo del camino de ribera, especialmente cerca del Parc Méric. El agua es generalmente limpia en esos tramos."
+        },
+        {
+          "q": "¿Cuál es el mejor parque para perros en Montpellier?",
+          "a": "El Parc Méric es la mejor opción: tiene un caniparc cerrado de 6.000 m² junto al río Lez con equipamiento y sombra. Para más espacio abierto, las Garrigas al norte de la ciudad permiten paseos sin correa en 240 hectáreas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Montpellier with Your Dog",
+      "titleFr": "Se déplacer à Montpellier avec son chien",
+      "titleEs": "Moverse por Montpellier con tu perro",
+      "introEn": "Montpellier's TAM network (4 tram lines + buses) has clear rules for dogs: small dogs in closed containers are always permitted; large dogs may travel with a leash and muzzle at the driver's discretion. The compact city centre is also highly walkable — most major attractions are within 30 minutes on foot from Place de la Comédie.",
+      "introFr": "Le réseau TAM de Montpellier (4 lignes de tram + bus) a des règles claires pour les chiens : les petits chiens en conteneur fermé sont toujours admis ; les grands chiens peuvent voyager en laisse et avec muselière à la discrétion du conducteur. Le centre-ville compact est aussi très praticable à pied — la plupart des sites majeurs se trouvent à 30 minutes à pied de la Place de la Comédie.",
+      "introEs": "La red TAM de Montpellier (4 líneas de tranvía + autobuses) tiene normas claras para perros: los perros pequeños en recipiente cerrado siempre están permitidos; los perros grandes pueden viajar con correa y bozal a discreción del conductor. El compacto centro de la ciudad también es muy transitable a pie: la mayoría de las atracciones principales están a 30 minutos a pie de la Place de la Comédie.",
+      "places": [
+        {
+          "name": "TAM Tram Network (Lines 1–4)",
+          "address": "TAM Central Station: Place de la Comédie, 34000 Montpellier",
+          "neighborhood": "City-wide — hub at Place de la Comédie",
+          "photo": "/images/city-places/montpellier-transport-tam-tram-network-lines-1-4.jpg",
+          "website": "https://www.tam-voyages.com/",
+          "description": "Montpellier's 4-line tram network covers the city from centre to suburbs. Small dogs in a closed carrier are always permitted; large dogs may be accepted on leash with muzzle at the driver's discretion. The tram is the best option for getting to the Mosson stadium area (Line 1) or the Odysseum shopping area (Line 1) with your dog.",
+          "descriptionFr": "Le réseau de 4 lignes de tram de Montpellier couvre la ville du centre aux banlieues. Les petits chiens dans un conteneur fermé sont toujours admis ; les grands chiens peuvent être acceptés en laisse avec muselière à la discrétion du conducteur. Le tram est la meilleure option pour rejoindre les environs du stade de la Mosson (ligne 1) ou la zone commerciale d'Odysseum (ligne 1) avec votre chien.",
+          "descriptionEs": "La red de 4 líneas de tranvía de Montpellier cubre la ciudad desde el centro hasta los suburbios. Los perros pequeños en un recipiente cerrado siempre están permitidos; los perros grandes pueden ser aceptados con correa y bozal a discreción del conductor. El tranvía es la mejor opción para llegar a la zona del estadio de La Mosson (Línea 1) u Odysseum (Línea 1) con tu perro.",
+          "petPolicy": "Small dogs in closed carriers: always permitted. Large dogs: leash + muzzle required, at driver's discretion",
+          "petPolicyFr": "Petits chiens en conteneur fermé : toujours admis. Grands chiens : laisse + muselière obligatoires, à la discrétion du conducteur",
+          "petPolicyEs": "Perros pequeños en recipiente cerrado: siempre permitidos. Perros grandes: correa + bozal obligatorios, a discreción del conductor",
+          "priceRange": "€ (standard fare; small dog in carrier free)",
+          "mustTry": "Line 3 to Mosson for access to Parc Méric and the Lez riverside walks",
+          "mustTryFr": "Ligne 3 jusqu'à la Mosson pour rejoindre le Parc Méric et les berges du Lez",
+          "mustTryEs": "Línea 3 hasta Mosson para acceder al Parc Méric y los paseos por las orillas del Lez",
+          "openingHours": "Daily approx 05:00–00:30",
+          "tip": "Avoid morning rush (07:30–09:00) and evening rush (17:00–19:00) with a large dog — trams get packed and conductors are less likely to accept large dogs during these periods.",
+          "tipFr": "Évitez les heures de pointe (7h30–9h et 17h–19h) avec un grand chien — les trams sont bondés et les conducteurs moins susceptibles d'accepter les grands chiens pendant ces périodes.",
+          "tipEs": "Evita las horas punta (7:30–9:00 y 17:00–19:00) con un perro grande: los tranvías se llenan y los conductores son menos propensos a aceptar perros grandes en esos momentos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+de+la+Comedie+Montpellier+Tram"
+        }
+      ],
+      "tipsEn": [
+        "Large dogs (over ~8 kg) on TAM trams require a leash and muzzle — the driver's discretion rule means acceptance varies. In practice, calm, leashed large dogs are usually accepted off-peak.",
+        "Montpellier's city centre is very walkable — the Écusson, Place de la Comédie, Promenade du Peyrou, and most dog-friendly restaurants are all within 15 minutes' walk of each other.",
+        "Taxis and VTCs (Bolt, Uber) are available city-wide — larger dogs are best transported this way, though drivers can refuse pets. Booking through the app and selecting 'pet-friendly' reduces refusals."
+      ],
+      "tipsFr": [
+        "Les grands chiens (plus d'environ 8 kg) dans les trams TAM nécessitent laisse et muselière — la règle de discrétion du conducteur signifie une acceptation variable. En pratique, les grands chiens calmes en laisse sont généralement acceptés hors pointes.",
+        "Le centre de Montpellier est très praticable à pied — l'Écusson, la Place de la Comédie, la Promenade du Peyrou et la plupart des restaurants dog-friendly sont à moins de 15 minutes à pied les uns des autres.",
+        "Les taxis et VTC (Bolt, Uber) sont disponibles partout en ville — les grands chiens sont mieux transportés ainsi, même si les conducteurs peuvent refuser les animaux. Réserver via l'application en sélectionnant l'option 'animal accepté' réduit les refus."
+      ],
+      "tipsEs": [
+        "Los perros grandes (más de ~8 kg) en los tranvías TAM necesitan correa y bozal: la norma de discreción del conductor significa una aceptación variable. En la práctica, los perros grandes tranquilos con correa suelen ser aceptados fuera de las horas punta.",
+        "El centro de Montpellier es muy transitable a pie: el Écusson, la Place de la Comédie, la Promenade du Peyrou y la mayoría de los restaurantes dog-friendly están a menos de 15 minutos a pie entre sí.",
+        "Los taxis y VTC (Bolt, Uber) están disponibles en toda la ciudad: los perros grandes se transportan mejor así, aunque los conductores pueden rechazar mascotas. Reservar por la app y seleccionar 'mascota admitida' reduce los rechazos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can large dogs ride the Montpellier tram?",
+          "a": "Possibly — large dogs need a leash and muzzle and are accepted at the driver's discretion. In practice, calm dogs are usually accepted off-peak. Small dogs in closed carriers are always permitted."
+        },
+        {
+          "q": "How do I get to the beaches near Montpellier with a large dog?",
+          "a": "The dog-friendly Grand Travers beach near La Grande Motte is best reached by car (30 min). Public transport options (bus from Montpellier Sud) allow small dogs in carriers only."
+        },
+        {
+          "q": "Is a muzzle required for dogs on Montpellier public transport?",
+          "a": "Yes — large dogs on TAM trams and buses must be muzzled and leashed. Small dogs in closed containers are exempt from the muzzle requirement."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les grands chiens peuvent-ils prendre le tram de Montpellier ?",
+          "a": "Peut-être — les grands chiens nécessitent laisse et muselière et sont acceptés à la discrétion du conducteur. En pratique, les chiens calmes sont généralement acceptés hors pointe. Les petits chiens en conteneur fermé sont toujours admis."
+        },
+        {
+          "q": "Comment rejoindre les plages près de Montpellier avec un grand chien ?",
+          "a": "La plage dog-friendly du Grand Travers près de La Grande Motte est mieux accessible en voiture (30 min). Les options de transport en commun (bus depuis Montpellier Sud) n'admettent les chiens qu'en conteneur fermé."
+        },
+        {
+          "q": "Une muselière est-elle obligatoire pour les chiens dans les transports en commun de Montpellier ?",
+          "a": "Oui — les grands chiens dans les trams et bus TAM doivent être musselés et tenus en laisse. Les petits chiens dans des conteneurs fermés sont exemptés de l'obligation de muselière."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros grandes ir en el tranvía de Montpellier?",
+          "a": "Posiblemente: los perros grandes necesitan correa y bozal y se aceptan a discreción del conductor. En la práctica, los perros tranquilos suelen ser aceptados fuera de las horas punta. Los perros pequeños en recipiente cerrado siempre están permitidos."
+        },
+        {
+          "q": "¿Cómo llego a las playas cerca de Montpellier con un perro grande?",
+          "a": "La playa dog-friendly de Grand Travers cerca de La Grande Motte se llega mejor en coche (30 min). Las opciones de transporte público (autobús desde Montpellier Sud) solo admiten perros en recipiente cerrado."
+        },
+        {
+          "q": "¿Es obligatorio el bozal para perros en el transporte público de Montpellier?",
+          "a": "Sí: los perros grandes en tranvías y autobuses TAM deben ir con bozal y correa. Los perros pequeños en recipientes cerrados están exentos del requisito de bozal."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Montpellier",
+      "titleFr": "Plages acceptant les chiens près de Montpellier",
+      "titleEs": "Playas dog-friendly cerca de Montpellier",
+      "introEn": "Montpellier itself is inland, but the Mediterranean coast is 15–30 minutes away by car. Most beaches near Montpellier restrict dogs in summer — but Grand Travers beach near La Grande Motte is officially open to dogs year-round, even off-leash, and is the top dog beach destination in the Hérault department.",
+      "introFr": "Montpellier est à l'intérieur des terres, mais la côte méditerranéenne est à 15 à 30 minutes en voiture. La plupart des plages proches de Montpellier interdisent les chiens en été — mais la plage du Grand Travers près de La Grande Motte est officiellement ouverte aux chiens toute l'année, même sans laisse, et est la principale plage dog-friendly du département de l'Hérault.",
+      "introEs": "Montpellier es una ciudad de interior, pero la costa mediterránea está a 15–30 minutos en coche. La mayoría de las playas cercanas a Montpellier restringen los perros en verano, pero la playa de Grand Travers cerca de La Grande Motte está oficialmente abierta a los perros todo el año, incluso sin correa, y es el principal destino de playa para perros del departamento del Hérault.",
+      "places": [
+        {
+          "name": "Plage du Grand Travers (La Grande Motte)",
+          "type": "Dog-friendly beach — year-round access",
+          "photo": "/images/city-places/montpellier-beaches-plage-du-grand-travers-la-grande-motte.jpg",
+          "website": "https://emmenetonchien.com/activit%C3%A9s-%C3%A0-faire-avec-un-chien/plage-du-grand-travers-la-grande-motte-34",
+          "description": "The top dog beach near Montpellier — Grand Travers at La Grande Motte officially allows dogs year-round at access points 58 to 60, even without a leash. This wide sandy beach at the western border of Carnon-Plage is the most reliable dog-beach option in the Hérault and is accessible by car in 30 minutes from Montpellier centre.",
+          "descriptionFr": "La meilleure plage dog-friendly près de Montpellier — le Grand Travers à La Grande Motte autorise officiellement les chiens toute l'année aux accès 58 à 60, même sans laisse. Cette vaste plage de sable à la frontière ouest de Carnon-Plage est l'option de plage canine la plus fiable de l'Hérault et est accessible en voiture en 30 minutes depuis le centre de Montpellier.",
+          "descriptionEs": "La mejor playa para perros cerca de Montpellier: Grand Travers en La Grande Motte permite oficialmente perros todo el año en los accesos 58 al 60, incluso sin correa. Esta amplia playa de arena en el límite occidental de Carnon-Plage es la opción de playa canina más fiable del Hérault y se llega en coche en 30 minutos desde el centro de Montpellier.",
+          "petPolicy": "Dogs allowed year-round, including off-leash, at access points 58–60",
+          "petPolicyFr": "Chiens autorisés toute l'année, hors laisse possible, aux accès 58 à 60",
+          "petPolicyEs": "Perros permitidos todo el año, incluso sin correa, en los accesos 58 al 60",
+          "priceRange": "Free",
+          "mustTry": "Early morning visit (before 09:00) in summer — the beach is much cooler and dogs enjoy the shallow warm Mediterranean water before the day heats up",
+          "mustTryFr": "Visite tôt le matin (avant 9h) en été — la plage est bien plus fraîche et les chiens adorent l'eau méditerranéenne peu profonde et tiède avant que la chaleur ne s'installe",
+          "mustTryEs": "Visita matutina (antes de las 9:00) en verano: la playa está mucho más fresca y los perros disfrutan del poco profundo y templado mar Mediterráneo antes de que el día se caliente",
+          "openingHours": "Open year-round",
+          "tip": "Look for the marker 'Accès 58' at La Grande Motte — this is the start of the officially dog-friendly section. Parking at La Grande Motte is paid in summer (free October–May).",
+          "tipFr": "Cherchez le panneau 'Accès 58' à La Grande Motte — c'est le début de la section officiellement dog-friendly. Le stationnement à La Grande Motte est payant en été (gratuit d'octobre à mai).",
+          "tipEs": "Busca la señal 'Accés 58' en La Grande Motte: es el inicio de la sección oficialmente dog-friendly. El aparcamiento en La Grande Motte es de pago en verano (gratuito de octubre a mayo).",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Grand+Travers+La+Grande+Motte+Herault"
+        }
+      ],
+      "tipsEn": [
+        "Palavas-les-Flots and Carnon beaches (the closest to Montpellier) do NOT allow dogs — go directly to Grand Travers at La Grande Motte (access points 58–60) for the verified year-round dog section.",
+        "In summer (June–September), visit the beach before 09:00 or after 19:00 — Mediterranean beach sand reaches extreme temperatures in midday heat, dangerous for dog paws.",
+        "Salagou Lake (45 min from Montpellier by car) is an excellent alternative to the beach for dogs — red-rock shores, clean water for swimming, and no summer restrictions."
+      ],
+      "tipsFr": [
+        "Les plages de Palavas-les-Flots et Carnon (les plus proches de Montpellier) n'autorisent PAS les chiens — allez directement au Grand Travers à La Grande Motte (accès 58 à 60) pour la section canine toute l'année.",
+        "En été (juin–septembre), visitez la plage avant 9h ou après 19h — le sable des plages méditerranéennes atteint des températures extrêmes à la chaleur de midi, dangereuses pour les coussinets.",
+        "Le lac du Salagou (45 min de Montpellier en voiture) est une excellente alternative à la plage pour les chiens — berges de roches rouges, eau propre pour nager et aucune restriction estivale."
+      ],
+      "tipsEs": [
+        "Las playas de Palavas-les-Flots y Carnon (las más cercanas a Montpellier) NO permiten perros: ve directamente a Grand Travers en La Grande Motte (accesos 58 al 60) para la sección canina abierta todo el año.",
+        "En verano (junio–septiembre), visita la playa antes de las 9:00 o después de las 19:00: la arena de las playas mediterráneas alcanza temperaturas extremas al mediodía, peligrosas para las patas de los perros.",
+        "El lago Salagou (45 min desde Montpellier en coche) es una excelente alternativa a la playa para los perros: orillas de roca roja, agua limpia para nadar y sin restricciones estivales."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed on beaches near Montpellier?",
+          "a": "Most beaches near Montpellier ban dogs in summer. The exception is Grand Travers beach at La Grande Motte (access points 58–60), which officially allows dogs year-round, even off-leash."
+        },
+        {
+          "q": "Can dogs go to Palavas or Carnon beach?",
+          "a": "No — Palavas-les-Flots and Carnon beaches prohibit dogs even on a leash. Go to Grand Travers at La Grande Motte instead, which is 10 km further east and fully dog-friendly year-round."
+        },
+        {
+          "q": "How far is the nearest dog-friendly beach from Montpellier?",
+          "a": "Grand Travers at La Grande Motte is about 30 km from central Montpellier — around 30 minutes by car. There is no reliable dog-friendly beach within 20 km of the city centre."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés sur les plages proches de Montpellier ?",
+          "a": "La plupart des plages proches de Montpellier interdisent les chiens en été. L'exception est la plage du Grand Travers à La Grande Motte (accès 58 à 60), qui autorise officiellement les chiens toute l'année, même hors laisse."
+        },
+        {
+          "q": "Les chiens peuvent-ils aller à Palavas ou Carnon ?",
+          "a": "Non — les plages de Palavas-les-Flots et de Carnon interdisent les chiens même en laisse. Allez plutôt au Grand Travers à La Grande Motte, à 10 km plus à l'est et entièrement dog-friendly toute l'année."
+        },
+        {
+          "q": "Quelle est la distance jusqu'à la plage dog-friendly la plus proche de Montpellier ?",
+          "a": "Le Grand Travers à La Grande Motte se trouve à environ 30 km du centre de Montpellier — environ 30 minutes en voiture. Il n'y a pas de plage dog-friendly fiable à moins de 20 km du centre-ville."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en las playas cercanas a Montpellier?",
+          "a": "La mayoría de las playas cercanas a Montpellier prohíben los perros en verano. La excepción es la playa de Grand Travers en La Grande Motte (accesos 58 al 60), que permite oficialmente perros todo el año, incluso sin correa."
+        },
+        {
+          "q": "¿Pueden los perros ir a la playa de Palavas o Carnon?",
+          "a": "No: las playas de Palavas-les-Flots y Carnon prohíben los perros incluso con correa. Ve a Grand Travers en La Grande Motte, a 10 km más al este y totalmente dog-friendly todo el año."
+        },
+        {
+          "q": "¿A qué distancia está la playa más cercana para perros desde Montpellier?",
+          "a": "Grand Travers en La Grande Motte está a unos 30 km del centro de Montpellier: alrededor de 30 minutos en coche. No hay ninguna playa dog-friendly fiable a menos de 20 km del centro."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Montpellier",
+      "titleFr": "Vétérinaires d'urgence à Montpellier",
+      "titleEs": "Veterinarios de urgencia en Montpellier",
+      "introEn": "Montpellier has a high-quality 24-hour veterinary hospital in CHV Languedocia, verified from their official website. The clinic operates round-the-clock every day of the year including public holidays, with specialist surgical cover available for overnight emergencies.",
+      "introFr": "Montpellier dispose d'un hôpital vétérinaire 24h/24 de haute qualité avec le CHV Languedocia, vérifié sur leur site officiel. La clinique fonctionne en continu tous les jours de l'année y compris les jours fériés, avec une couverture chirurgicale spécialisée disponible pour les urgences nocturnes.",
+      "introEs": "Montpellier cuenta con un hospital veterinario 24 horas de alta calidad en el CHV Languedocia, verificado en su sitio web oficial. La clínica funciona de forma continua todos los días del año incluidos los festivos, con cobertura quirúrgica especialista disponible para urgencias nocturnas.",
+      "places": [
+        {
+          "name": "CHV Languedocia — Centre Hospitalier Vétérinaire",
+          "address": "470 Rue Favre de Saint Castor, 34080 Montpellier",
+          "neighborhood": "Port Marianne / Est",
+          "photo": "/images/city-places/montpellier-vets-chv-languedocia-centre-hospitalier-veterinaire.jpg",
+          "website": "https://www.veterinaire-languedocia.com/urgence-veterinaire/",
+          "description": "Montpellier's primary veterinary hospital with 24/7 emergency coverage every day of the year including public holidays — verified from the official CHV Languedocia website. The facility handles dogs, cats, and exotic animals, with specialist surgeons on call for overnight procedures. Phone 04 67 75 14 44 before arriving.",
+          "descriptionFr": "Le principal hôpital vétérinaire de Montpellier avec une couverture d'urgence 24h/24 tous les jours de l'année y compris les jours fériés — vérifié sur le site officiel du CHV Languedocia. L'établissement prend en charge les chiens, chats et animaux exotiques, avec des chirurgiens spécialisés de garde pour les interventions nocturnes. Téléphonez au 04 67 75 14 44 avant d'arriver.",
+          "descriptionEs": "El principal hospital veterinario de Montpellier con cobertura de urgencias 24/7 todos los días del año incluidos los festivos, verificado en el sitio oficial del CHV Languedocia. El centro atiende perros, gatos y animales exóticos, con cirujanos especialistas de guardia para intervenciones nocturnas. Llama al 04 67 75 14 44 antes de llegar.",
+          "petPolicy": "24/7 emergency service, 365 days including public holidays — call 04 67 75 14 44 first",
+          "petPolicyFr": "Service d'urgence 24h/24 7j/7, 365 jours y compris jours fériés — appelez le 04 67 75 14 44 en premier",
+          "petPolicyEs": "Servicio de urgencias 24/7, 365 días incluidos festivos — llama primero al 04 67 75 14 44",
+          "priceRange": "€€€",
+          "mustTry": "Save 04 67 75 14 44 in your phone before arriving in Montpellier",
+          "mustTryFr": "Enregistrez le 04 67 75 14 44 dans votre téléphone avant d'arriver à Montpellier",
+          "mustTryEs": "Guarda el 04 67 75 14 44 en tu teléfono antes de llegar a Montpellier",
+          "openingHours": "24/7, 365 days a year including public holidays",
+          "tip": "The clinic is in the Port Marianne district east of the centre — a taxi from Place de la Comédie takes around 10–12 minutes. Always call ahead on 04 67 75 14 44.",
+          "tipFr": "La clinique est dans le quartier Port Marianne à l'est du centre — un taxi depuis la Place de la Comédie prend environ 10 à 12 minutes. Appelez toujours avant au 04 67 75 14 44.",
+          "tipEs": "La clínica está en el barrio Port Marianne al este del centro: un taxi desde la Place de la Comédie tarda unos 10–12 minutos. Llama siempre antes al 04 67 75 14 44.",
+          "googleMapsUrl": "https://maps.google.com/?q=470+Rue+Favre+de+Saint+Castor+Montpellier"
+        }
+      ],
+      "tipsEn": [
+        "Save 04 67 75 14 44 (CHV Languedocia) in your phone before arriving in Montpellier — verified 24h emergency line from the official website.",
+        "In summer, heat-related emergencies (heatstroke, burned paws) are the most common reason tourists visit emergency vets in Montpellier — keep dogs hydrated and avoid pavement between 11:00–18:00.",
+        "The Ordre Régional des Vétérinaires d'Occitanie can provide additional referrals if CHV Languedocia is at capacity."
+      ],
+      "tipsFr": [
+        "Enregistrez le 04 67 75 14 44 (CHV Languedocia) dans votre téléphone avant d'arriver à Montpellier — ligne d'urgence 24h vérifiée sur le site officiel.",
+        "En été, les urgences liées à la chaleur (coup de chaleur, coussinets brûlés) sont la raison la plus fréquente pour laquelle les touristes consultent des vétérinaires d'urgence à Montpellier — hydratez vos chiens et évitez les revêtements entre 11h et 18h.",
+        "L'Ordre Régional des Vétérinaires d'Occitanie peut fournir des références supplémentaires si le CHV Languedocia est saturé."
+      ],
+      "tipsEs": [
+        "Guarda el 04 67 75 14 44 (CHV Languedocia) en tu teléfono antes de llegar a Montpellier: línea de urgencias 24h verificada en el sitio web oficial.",
+        "En verano, las urgencias relacionadas con el calor (golpe de calor, quemaduras en las patas) son la razón más frecuente por la que los turistas acuden a veterinarios de urgencias en Montpellier: mantén a los perros hidratados y evita el pavimento entre las 11:00 y las 18:00.",
+        "El Ordre Régional des Vétérinaires d'Occitanie puede proporcionar referencias adicionales si el CHV Languedocia está saturado."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Montpellier?",
+          "a": "Yes — CHV Languedocia at 470 Rue Favre de Saint Castor operates a verified 24/7 emergency service every day of the year. Phone 04 67 75 14 44."
+        },
+        {
+          "q": "What is the emergency vet number in Montpellier?",
+          "a": "04 67 75 14 44 — CHV Languedocia, the main 24-hour veterinary hospital. Verified from their official website at veterinaire-languedocia.com."
+        },
+        {
+          "q": "Do Montpellier vets speak English?",
+          "a": "French is the primary language. CHV Languedocia may have English-speaking staff, but it is advisable to bring a translation app or prepared notes in French for complex consultations."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Montpellier ?",
+          "a": "Oui — le CHV Languedocia au 470 Rue Favre de Saint Castor assure un service d'urgence 24h/24 7j/7 vérifiéé tous les jours de l'année. Téléphone : 04 67 75 14 44."
+        },
+        {
+          "q": "Quel est le numéro d'urgence vétérinaire à Montpellier ?",
+          "a": "04 67 75 14 44 — CHV Languedocia, le principal hôpital vétérinaire 24h/24. Vérifié sur leur site officiel veterinaire-languedocia.com."
+        },
+        {
+          "q": "Les vétérinaires de Montpellier parlent-ils anglais ?",
+          "a": "Le français est la langue principale. Le CHV Languedocia peut avoir du personnel anglophone, mais il est conseillé d'apporter une application de traduction ou des notes préparées en français pour les consultations complexes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24 horas en Montpellier?",
+          "a": "Sí: el CHV Languedocia en 470 Rue Favre de Saint Castor presta un servicio de urgencias 24/7 verificado todos los días del año. Teléfono: 04 67 75 14 44."
+        },
+        {
+          "q": "¿Cuál es el teléfono de urgencias veterinarias en Montpellier?",
+          "a": "04 67 75 14 44 — CHV Languedocia, el principal hospital veterinario 24 horas. Verificado en su sitio web oficial veterinaire-languedocia.com."
+        },
+        {
+          "q": "¿Los veterinarios de Montpellier hablan inglés?",
+          "a": "El francés es el idioma principal. El CHV Languedocia puede tener personal angloparlante, pero es aconsejable llevar una app de traducción o notas preparadas en francés para consultas complejas."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Montpellier",
+      "titleFr": "Conseils voyage avec animaux à Montpellier",
+      "titleEs": "Consejos para viajar con mascotas en Montpellier",
+      "introEn": "Montpellier's Mediterranean climate is excellent for pet travel from September to May — warm but not scorching. In July and August, the city is very hot (regularly 35–38°C) and pavement temperatures can reach dangerous levels for dog paws. Planning walks for early morning or evening is essential in peak summer.",
+      "introFr": "Le climat méditerranéen de Montpellier est excellent pour les voyages avec animaux de septembre à mai — chaud mais sans excès. En juillet et août, la ville est très chaude (régulièrement 35–38°C) et les températures des revêtements peuvent atteindre des niveaux dangereux pour les coussinets. Planifier les promenades tôt le matin ou en soirée est indispensable en plein été.",
+      "introEs": "El clima mediterráneo de Montpellier es excelente para viajar con mascotas de septiembre a mayo: cálido pero sin excesos. En julio y agosto la ciudad es muy calurosa (regularmente 35–38°C) y las temperaturas del pavimento pueden alcanzar niveles peligrosos para las patas de los perros. Planificar los paseos para primera hora de la mañana o la tarde es imprescindible en pleno verano.",
+      "places": [],
+      "tipsEn": [
+        "The EU pet passport (with up-to-date rabies vaccination and microchip) is required for entry from non-EU countries. Within the EU, carry it at all times as French authorities can request it at parks and beaches.",
+        "Summer in Montpellier is serious heat — the city regularly hits 38°C+ in July. Walk dogs only before 09:00 and after 20:00, carry water, and never leave a pet in a parked car.",
+        "The Écusson historic quarter is the most pedestrian-friendly area of Montpellier and stays relatively shaded in summer — the tight medieval street grid provides natural shade from building facades."
+      ],
+      "tipsFr": [
+        "Le passeport européen pour animaux (avec vaccination antirabique à jour et puce électronique) est requis pour l'entrée depuis les pays hors UE. Dans l'UE, emportez-le toujours car les autorités françaises peuvent le demander dans les parcs et plages.",
+        "L'été à Montpellier est une chaleur sérieuse — la ville atteint régulièrement 38°C+ en juillet. Promenez les chiens uniquement avant 9h et après 20h, ayez de l'eau et ne laissez jamais un animal dans une voiture garée.",
+        "Le quartier historique de l'Écusson est la zone la plus piétonne de Montpellier et reste relativement ombragée en été — le réseau serré de rues médiévales offre une ombre naturelle grâce aux façades des bâtiments."
+      ],
+      "tipsEs": [
+        "El pasaporte europeo para animales (con vacunación antirrábica al día y microchip) es obligatorio para entrar desde países no UE. Dentro de la UE, llévalo siempre contigo ya que las autoridades francesas pueden solicitarlo en parques y playas.",
+        "El verano en Montpellier es calor serio: la ciudad supera regularmente los 38°C en julio. Pasea a los perros solo antes de las 9:00 y después de las 20:00, lleva agua y nunca dejes a una mascota en un coche aparcado.",
+        "El barrio histórico del Écusson es la zona más peatonal de Montpellier y permanece relativamente a la sombra en verano: la densa red de calles medievales proporciona sombra natural gracias a las fachadas de los edificios."
+      ],
+      "faqsEn": [
+        {
+          "q": "What is the best time to visit Montpellier with a dog?",
+          "a": "September to November and March to May are ideal — warm enough for terrace dining and beach visits, but without the extreme heat of summer. July and August require careful heat management."
+        },
+        {
+          "q": "Are dogs allowed in Montpellier's historic centre?",
+          "a": "Yes — the Écusson historic quarter is fully accessible to leashed dogs on all streets. Many cafés and restaurant terraces are dog-friendly. The area is pedestrianised in places, making it comfortable for dogs."
+        },
+        {
+          "q": "Can I take my dog to Montpellier by train?",
+          "a": "Yes — Montpellier Saint-Roch is a major TGV station. SNCF allows small dogs in carriers free of charge; dogs over 6 kg pay a flat rate of €7 per journey with a leash and muzzle required."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la meilleure période pour visiter Montpellier avec un chien ?",
+          "a": "De septembre à novembre et de mars à mai c'est idéal — assez chaud pour les terrasses et les plages, sans la chaleur extrême de l'été. Juillet et août nécessitent une gestion attentive de la chaleur."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans le centre historique de Montpellier ?",
+          "a": "Oui — l'Écusson est entièrement accessible aux chiens en laisse dans toutes les rues. De nombreuses terrasses de cafés et restaurants sont dog-friendly. Le quartier est partiellement piéton, ce qui le rend agréable pour les chiens."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Montpellier en train ?",
+          "a": "Oui — Montpellier Saint-Roch est une grande gare TGV. La SNCF autorise les petits chiens en transportin gratuitement ; les chiens de plus de 6 kg paient un forfait de 7 € par trajet avec laisse et muselière obligatoires."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la mejor época para visitar Montpellier con un perro?",
+          "a": "De septiembre a noviembre y de marzo a mayo es ideal: suficientemente cálido para terrazas y playa, pero sin el calor extremo del verano. Julio y agosto requieren una gestión cuidadosa del calor."
+        },
+        {
+          "q": "¿Se admiten perros en el centro histórico de Montpellier?",
+          "a": "Sí: el Écusson es totalmente accesible para perros con correa en todas sus calles. Muchas terrazas de cafés y restaurantes son dog-friendly. El barrio es parcialmente peatonal, lo que lo hace cómodo para los perros."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a Montpellier en tren?",
+          "a": "Sí: Montpellier Saint-Roch es una gran estación TGV. La SNCF permite perros pequeños en transportín gratis; los perros de más de 6 kg pagan un precio plano de 7 € por trayecto con correa y bozal obligatorios."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Montpellier",
+      "titleFr": "Attractions accessibles aux chiens à Montpellier",
+      "titleEs": "Atracciones dog-friendly en Montpellier",
+      "introEn": "Montpellier's best sights are overwhelmingly outdoors and dog-friendly — the Écusson medieval quarter, the grand Promenade du Peyrou, and the Place de la Comédie all welcome dogs on a leash. The city's compact layout makes a full morning of sightseeing achievable on foot with a dog.",
+      "introFr": "Les meilleurs sites de Montpellier sont massivement en extérieur et dog-friendly — le quartier médiéval de l'Écusson, la majestueuse Promenade du Peyrou et la Place de la Comédie accueillent tous les chiens en laisse. La configuration compacte de la ville permet de faire une matinée complète de visites à pied avec un chien.",
+      "introEs": "Los mejores atractivos de Montpellier son abrumadoramente exteriores y dog-friendly: el barrio medieval del Écusson, la majestuosa Promenade du Peyrou y la Place de la Comédie admiten todos perros con correa. El diseño compacto de la ciudad permite hacer una mañana completa de visitas a pie con un perro.",
+      "places": [
+        {
+          "name": "Place de la Comédie & Esplanade Charles de Gaulle",
+          "address": "Place de la Comédie, 34000 Montpellier",
+          "neighborhood": "City Centre",
+          "photo": "/images/city-places/montpellier-attractions-place-de-la-comedie-esplanade-charles-de-gaulle.jpg",
+          "website": "https://www.montpellier-france.com/",
+          "description": "Montpellier's grand central square, nicknamed 'L'Œuf' (The Egg) for its oval shape — dogs are welcome on a leash throughout. The tree-lined Esplanade Charles de Gaulle leads north from the square, providing a long shaded promenade popular with dog owners, with street performers and market stalls adding to the atmosphere.",
+          "descriptionFr": "La grande place centrale de Montpellier, surnommée 'L'Œuf' pour sa forme ovale — les chiens sont les bienvenus en laisse partout. L'Esplanade Charles de Gaulle, bordée d'arbres, s'étend vers le nord depuis la place, offrant une longue promenade ombragée populaire auprès des propriétaires de chiens, avec des artistes de rue et des marchés qui animent l'atmosphère.",
+          "descriptionEs": "La gran plaza central de Montpellier, apodada 'L'Œuf' (El Huevo) por su forma oval: los perros son bienvenidos con correa en todo el espacio. La arbolada Esplanade Charles de Gaulle se extiende hacia el norte desde la plaza, proporcionando un largo paseo sombreado popular entre dueños de perros, con artistas callejeros y puestos de mercado que animan el ambiente.",
+          "petPolicy": "Dogs welcome on leash throughout the square and esplanade",
+          "petPolicyFr": "Chiens acceptés en laisse sur toute la place et l'esplanade",
+          "petPolicyEs": "Perros admitidos con correa en toda la plaza y la esplanada",
+          "priceRange": "Free",
+          "mustTry": "Evening walk when the square fills with locals — the Montpellier student population creates a relaxed, dog-welcoming atmosphere",
+          "mustTryFr": "Promenade en soirée quand la place se remplit de locaux — la population étudiante de Montpellier crée une atmosphère détendue et bienveillante envers les chiens",
+          "mustTryEs": "Paseo vespertino cuando la plaza se llena de locales: la población universitaria de Montpellier crea un ambiente relajado y acogedor para los perros",
+          "openingHours": "Open 24 hours",
+          "tip": "The Comédie is the tram hub for all 4 lines — use it as your navigation anchor. Most dog-friendly spots in the city are walkable from here within 15 minutes.",
+          "tipFr": "La Comédie est le nœud tram des 4 lignes — utilisez-la comme point de repère. La plupart des endroits dog-friendly de la ville sont accessibles à pied depuis ici en moins de 15 minutes.",
+          "tipEs": "La Comédie es el nudo de tranvía de las 4 líneas: úsala como punto de referencia. La mayoría de los lugares dog-friendly de la ciudad están a menos de 15 minutos a pie desde aquí.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+de+la+Comedie+Montpellier"
+        },
+        {
+          "name": "L'Écusson — Medieval Quarter Walk",
+          "address": "Écusson, 34000 Montpellier",
+          "neighborhood": "Historic Centre",
+          "photo": "/images/city-places/montpellier-attractions-l-ecusson-medieval-quarter-walk.jpg",
+          "website": "https://www.montpellier-france.com/",
+          "description": "Montpellier's historic medieval heart — a tightly woven network of hôtels particuliers, medieval lanes, hidden courtyards, and independent shops all concentrated within a 10-minute walking radius. Dogs are welcome on all streets and the shaded alleys provide natural relief from the southern sun in summer.",
+          "descriptionFr": "Le cœur médiéval historique de Montpellier — un réseau serré d'hôtels particuliers, de ruelles médiévales, de cours cachées et de boutiques indépendantes concentrées dans un rayon de 10 minutes à pied. Les chiens sont les bienvenus dans toutes les rues et les ruelles ombragées offrent un soulagement naturel du soleil du Midi en été.",
+          "descriptionEs": "El corazón medieval histórico de Montpellier: una densa red de hôtels particuliers, callejas medievales, patios ocultos y tiendas independientes concentrados en un radio de 10 minutos a pie. Los perros son bienvenidos en todas las calles y los callejones sombreados proporcionan alivio natural del sol del sur en verano.",
+          "petPolicy": "Dogs welcome on leash on all streets; many cafés and terraces dog-friendly",
+          "petPolicyFr": "Chiens acceptés en laisse dans toutes les rues ; nombreux cafés et terrasses dog-friendly",
+          "petPolicyEs": "Perros admitidos con correa en todas las calles; muchos cafés y terrazas dog-friendly",
+          "priceRange": "Free",
+          "mustTry": "Wander without a map — the Écusson is small enough to explore freely, and getting 'lost' leads to the best discoveries",
+          "mustTryFr": "Déambulez sans plan — l'Écusson est suffisamment petit pour être exploré librement, et se 'perdre' mène aux meilleures découvertes",
+          "mustTryEs": "Pasea sin mapa: el Écusson es suficientemente pequeño para explorarlo libremente, y 'perderse' lleva a los mejores descubrimientos",
+          "openingHours": "Open 24 hours (streets)",
+          "tip": "The narrow streets of the Écusson stay shaded until around 11:00 even in midsummer — plan your historic quarter walk for the morning before the heat builds.",
+          "tipFr": "Les ruelles étroites de l'Écusson restent ombragées jusqu'à environ 11h même au cœur de l'été — planifiez votre balade dans le quartier historique le matin avant que la chaleur ne s'installe.",
+          "tipEs": "Las estrechas calles del Écusson permanecen sombreadas hasta aproximadamente las 11:00 incluso en pleno verano: planifica tu paseo por el barrio histórico por la mañana antes de que se acumule el calor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ecusson+Montpellier+historic+centre"
+        },
+        {
+          "name": "Promenade du Peyrou & Château d'Eau",
+          "address": "Promenade du Peyrou, 34000 Montpellier",
+          "neighborhood": "Écusson / Peyrou",
+          "photo": "/images/city-places/montpellier-attractions-promenade-du-peyrou-chateau-d-eau.jpg",
+          "website": "https://www.montpellier-france.com/",
+          "description": "A 4.59-hectare formal Royal Square at the western edge of the Écusson, with a triumphal arch, an 18th-century water tower (Château d'Eau), and panoramic views stretching to the Cévennes and Pyrénées on clear days. Dogs are welcome on a leash throughout — the wide tree-lined allées offer excellent morning walks before the heat arrives.",
+          "descriptionFr": "Une place royale formelle de 4,59 hectares à l'angle ouest de l'Écusson, avec un arc de triomphe, un château d'eau du XVIIIe siècle et des vues panoramiques jusqu'aux Cévennes et aux Pyrénées par temps clair. Les chiens sont les bienvenus en laisse partout — les larges allées arborées offrent d'excellentes promenades matinales avant l'arrivée de la chaleur.",
+          "descriptionEs": "Una plaza real formal de 4,59 hectáreas en el extremo occidental del Écusson, con un arco triunfal, una torre de agua del siglo XVIII (Château d'Eau) y vistas panorámicas hacia las Cévennes y los Pirineos en días claros. Los perros son bienvenidos con correa en todo el espacio: los amplios paseos arbolados ofrecen excelentes paseos matutinos antes de que llegue el calor.",
+          "petPolicy": "Dogs welcome on leash throughout; no off-leash areas",
+          "petPolicyFr": "Chiens acceptés en laisse partout ; pas de zones hors laisse",
+          "petPolicyEs": "Perros admitidos con correa en todo el espacio; sin zonas sin correa",
+          "priceRange": "Free",
+          "mustTry": "Sunrise walk with your dog — the Pyrénées are visible on clear mornings and the esplanade is deserted before 08:00",
+          "mustTryFr": "Balade au lever du soleil avec votre chien — les Pyrénées sont visibles par les matins clairs et l'esplanade est déserte avant 8h",
+          "mustTryEs": "Paseo al amanecer con tu perro: los Pirineos son visibles en mañanas despejadas y la esplanada está desierta antes de las 8:00",
+          "openingHours": "Open 24 hours",
+          "tip": "The weekly organic market (Marché Bio) takes place at the Peyrou on Tuesday and Saturday mornings — many stalls are dog-friendly and it is a great opportunity to stock up on local produce.",
+          "tipFr": "Le marché bio hebdomadaire se tient au Peyrou les mardis et samedis matin — de nombreux stands sont dog-friendly et c'est une bonne occasion de s'approvisionner en produits locaux.",
+          "tipEs": "El mercado ecológico semanal (Marché Bio) tiene lugar en el Peyrou los martes y sábados por la mañana: muchos puestos son dog-friendly y es una gran oportunidad para abastecerse de productos locales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Promenade+du+Peyrou+Montpellier"
+        }
+      ],
+      "tipsEn": [
+        "The Faculty of Medicine (oldest in France, founded 1220) can be viewed from the Rue de l'École de Médecine — the courtyard is occasionally open and dogs are allowed on the surrounding streets.",
+        "Montpellier's weekly Marché du Lez (Saturday mornings on the banks of the Lez) is fully dog-friendly and one of the best local markets in southern France.",
+        "Fabre Museum, MOCO contemporary art centre, and Musée Languedocien do not allow dogs inside — enjoy the architecture from outside with your dog and plan indoor cultural visits separately."
+      ],
+      "tipsFr": [
+        "La Faculté de Médecine (la plus ancienne de France, fondée en 1220) peut être vue depuis la Rue de l'École de Médecine — la cour est parfois ouverte et les chiens sont autorisés dans les rues environnantes.",
+        "Le marché hebdomadaire du Lez de Montpellier (samedis matin sur les berges du Lez) est entièrement dog-friendly et l'un des meilleurs marchés locaux du sud de la France.",
+        "Le Musée Fabre, le MOCO centre d'art contemporain et le Musée Languedocien n'autorisent pas les chiens à l'intérieur — admirez l'architecture depuis l'extérieur avec votre chien et planifiez les visites culturelles intérieures séparément."
+      ],
+      "tipsEs": [
+        "La Facultad de Medicina (la más antigua de Francia, fundada en 1220) puede verse desde la Rue de l'École de Médecine: el patio está ocasionalmente abierto y los perros están permitidos en las calles circundantes.",
+        "El mercado semanal del Lez de Montpellier (sábados por la mañana en las orillas del Lez) es totalmente dog-friendly y uno de los mejores mercados locales del sur de Francia.",
+        "El Musée Fabre, el MOCO de arte contemporáneo y el Musée Languedocien no permiten perros en su interior: disfruta la arquitectura desde fuera con tu perro y planifica las visitas culturales de interior por separado."
+      ],
+      "faqsEn": [
+        {
+          "q": "What are the top dog-friendly sights in Montpellier?",
+          "a": "Place de la Comédie, the Écusson medieval quarter, and Promenade du Peyrou are all fully dog-friendly. The weekly Marché du Lez on Saturdays is also excellent. Most indoor museums do not allow pets."
+        },
+        {
+          "q": "Is the Promenade du Peyrou dog-friendly?",
+          "a": "Yes — dogs are welcome on a leash throughout the Promenade du Peyrou. Avoid midday in summer as there is very little shade and surface temperatures become extreme for dog paws."
+        },
+        {
+          "q": "Can I explore the Écusson medieval quarter with a dog?",
+          "a": "Yes — all streets in the Écusson are accessible to leashed dogs. The shaded medieval alleys are particularly good in summer as they stay cooler than open squares."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quels sont les principaux sites dog-friendly à Montpellier ?",
+          "a": "La Place de la Comédie, le quartier médiéval de l'Écusson et la Promenade du Peyrou sont tous entièrement dog-friendly. Le Marché du Lez hebdomadaire du samedi est aussi excellent. La plupart des musées intérieurs n'acceptent pas les animaux."
+        },
+        {
+          "q": "La Promenade du Peyrou est-elle dog-friendly ?",
+          "a": "Oui — les chiens sont bienvenus en laisse sur toute la Promenade du Peyrou. Évitez le midi en été car l'ombre est très rare et les températures de surface deviennent extrêmes pour les coussinets."
+        },
+        {
+          "q": "Peut-on explorer le quartier médiéval de l'Écusson avec un chien ?",
+          "a": "Oui — toutes les rues de l'Écusson sont accessibles aux chiens en laisse. Les ruelles médiévales ombragées sont particulièrement agréables en été car elles restent plus fraîches que les places ouvertes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuáles son las principales atracciones dog-friendly en Montpellier?",
+          "a": "La Place de la Comédie, el barrio medieval del Écusson y la Promenade du Peyrou son todos totalmente dog-friendly. El Marché du Lez semanal los sábados también es excelente. La mayoría de los museos de interior no admiten mascotas."
+        },
+        {
+          "q": "¿Es dog-friendly la Promenade du Peyrou?",
+          "a": "Sí: los perros son bienvenidos con correa en toda la Promenade du Peyrou. Evita el mediodía en verano ya que hay muy poca sombra y las temperaturas superficiales se vuelven extremas para las patas de los perros."
+        },
+        {
+          "q": "¿Se puede explorar el barrio medieval del Écusson con un perro?",
+          "a": "Sí: todas las calles del Écusson son accesibles para perros con correa. Los callejones medievales sombreados son especialmente buenos en verano, ya que se mantienen más frescos que las plazas abiertas."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitters and Pet Boarding in Montpellier",
+      "titleFr": "Garde de chien et pension animaux à Montpellier",
+      "titleEs": "Cuidadores de perros y pensiones en Montpellier",
+      "introEn": "Montpellier has an active Pawshake community with 240+ verified reviews and an average rating of 4.95/5. For day trips to beaches or wine regions where dogs may not be welcome, a Pawshake sitter in your neighbourhood is the most convenient option.",
+      "introFr": "Montpellier dispose d'une communauté Pawshake active avec plus de 240 avis vérifiés et une note moyenne de 4,95/5. Pour les excursions à la plage ou dans les domaines viticoles où les chiens ne sont pas toujours admis, un gardien Pawshake dans votre quartier est l'option la plus pratique.",
+      "introEs": "Montpellier cuenta con una activa comunidad Pawshake con más de 240 reseñas verificadas y una puntuación media de 4,95/5. Para excursiones a playas o bodegas donde los perros pueden no ser bienvenidos, un cuidador Pawshake en tu barrio es la opción más cómoda.",
+      "places": [
+        {
+          "name": "Pawshake Montpellier",
+          "address": "Online platform — sitters throughout Montpellier",
+          "neighborhood": "City-wide",
+          "photo": "/images/city-places/montpellier-petsitting-pawshake-montpellier.jpg",
+          "website": "https://en.pawshake.fr/petsitters/montpellier-occitanie",
+          "description": "Montpellier's leading pet-sitting platform with 240+ verified reviews and a 4.95/5 average score. Local verified sitters offer home boarding, drop-in visits, and dog walking — all bookings include veterinary coverage and 24/7 support through the Pawshake Guarantee.",
+          "descriptionFr": "La principale plateforme de pet-sitting à Montpellier avec plus de 240 avis vérifiés et une note moyenne de 4,95/5. Des gardiens locaux vérifiés proposent hébergement à domicile, visites à domicile et promenades — toutes les réservations incluent une couverture vétérinaire et un support 24h/24 via la Garantie Pawshake.",
+          "descriptionEs": "La principal plataforma de cuidado de mascotas de Montpellier con más de 240 reseñas verificadas y una puntuación media de 4,95/5. Cuidadores locales verificados ofrecen alojamiento doméstico, visitas a domicilio y paseos: todas las reservas incluyen cobertura veterinaria y soporte 24/7 a través de la Garantía Pawshake.",
+          "petPolicy": "Home boarding, drop-in visits, dog walking — all covered with insurance",
+          "petPolicyFr": "Hébergement à domicile, visites à domicile, promenades — tout couvert avec assurance",
+          "petPolicyEs": "Alojamiento doméstico, visitas a domicilio, paseos: todo cubierto con seguro",
+          "priceRange": "€€",
+          "mustTry": "Book 72h in advance for summer weekends — popular sitters in the Écusson and Antigone districts fill fast in July and August",
+          "mustTryFr": "Réservez 72h à l'avance pour les week-ends d'été — les bons gardiens dans l'Écusson et Antigone se remplissent vite en juillet–août",
+          "mustTryEs": "Reserva con 72 h de antelación para los fines de semana de verano: los cuidadores populares del Écusson y Antigone se llenan rápido en julio–agosto",
+          "openingHours": "Online platform — available 24/7",
+          "tip": "Use the map view on Pawshake to find sitters within walking distance of your hotel — this makes drop-off and pick-up much easier without a car.",
+          "tipFr": "Utilisez la vue carte sur Pawshake pour trouver des gardiens à distance de marche de votre hôtel — cela facilite grandement le dépôt et la récupération sans voiture.",
+          "tipEs": "Usa la vista de mapa en Pawshake para encontrar cuidadores a poca distancia a pie de tu hotel: esto facilita mucho la entrega y recogida sin coche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Montpellier+France"
+        }
+      ],
+      "tipsEn": [
+        "Pawshake Montpellier has 240+ reviews with a 4.95/5 average — use the neighbourhood filter to find sitters in the Écusson, Beaux-Arts, or Antigone districts near most hotels.",
+        "For longer stays, TrustedHousesitters is an alternative where a sitter comes to your accommodation — useful if you have multiple pets.",
+        "Book pet boarding well in advance for July and August — Montpellier is busy in summer and local Pawshake sitters are in high demand."
+      ],
+      "tipsFr": [
+        "Pawshake Montpellier compte plus de 240 avis avec une moyenne de 4,95/5 — utilisez le filtre de quartier pour trouver des gardiens dans l'Écusson, les Beaux-Arts ou Antigone près de la plupart des hôtels.",
+        "Pour les séjours plus longs, TrustedHousesitters est une alternative où un gardien vient chez vous — utile si vous avez plusieurs animaux.",
+        "Réservez la garde animaux bien à l'avance pour juillet et août — Montpellier est très animée en été et les gardiens Pawshake locaux sont très demandés."
+      ],
+      "tipsEs": [
+        "Pawshake Montpellier tiene más de 240 reseñas con una media de 4,95/5: usa el filtro de barrio para encontrar cuidadores en el Écusson, Beaux-Arts o Antigone, cerca de la mayoría de los hoteles.",
+        "Para estancias más largas, TrustedHousesitters es una alternativa en la que un cuidador viene a tu alojamiento: útil si tienes varias mascotas.",
+        "Reserva el alojamiento para mascotas con mucha antelación para julio y agosto: Montpellier está muy concurrida en verano y los cuidadores locales de Pawshake tienen mucha demanda."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Montpellier?",
+          "a": "Pawshake (pawshake.fr) is the best option — Montpellier has 240+ verified reviews and local sitters offer home boarding, day care, and dog walking with full insurance coverage."
+        },
+        {
+          "q": "Is there a dog kennel near Montpellier city centre?",
+          "a": "Traditional kennels are mostly in the outskirts and surrounding villages. For city-centre stays, Pawshake home boarding is more convenient and typically better for the dog's wellbeing."
+        },
+        {
+          "q": "How much does dog boarding cost in Montpellier?",
+          "a": "Pawshake home boarding in Montpellier typically ranges from €20–€35 per night depending on the sitter's experience and location. Rates peak in July and August."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un dog-sitter à Montpellier ?",
+          "a": "Pawshake (pawshake.fr) est la meilleure option — Montpellier compte 240+ avis vérifiés et les gardiens locaux proposent hébergement, garde à la journée et promenades avec couverture assurance complète."
+        },
+        {
+          "q": "Y a-t-il un chenil près du centre-ville de Montpellier ?",
+          "a": "Les chenils traditionnels sont surtout en périphérie et dans les villages environnants. Pour les séjours en centre-ville, l'hébergement Pawshake à domicile est plus pratique et généralement meilleur pour le bien-être du chien."
+        },
+        {
+          "q": "Combien coûte la pension pour chien à Montpellier ?",
+          "a": "L'hébergement Pawshake à domicile à Montpellier coûte généralement entre 20 et 35 € par nuit selon l'expérience et la localisation du gardien. Les tarifs sont au plus haut en juillet et août."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Montpellier?",
+          "a": "Pawshake (pawshake.fr) es la mejor opción: Montpellier tiene más de 240 reseñas verificadas y los cuidadores locales ofrecen alojamiento, guardería diurna y paseos con cobertura de seguro completa."
+        },
+        {
+          "q": "¿Hay residencia canina cerca del centro de Montpellier?",
+          "a": "Las residencias caninas tradicionales están mayormente en las afueras y pueblos de alrededor. Para estancias en el centro, el alojamiento doméstico de Pawshake es más conveniente y generalmente mejor para el bienestar del perro."
+        },
+        {
+          "q": "¿Cuánto cuesta el alojamiento para perros en Montpellier?",
+          "a": "El alojamiento doméstico de Pawshake en Montpellier suele costar entre 20 y 35 € por noche según la experiencia y ubicación del cuidador. Las tarifas alcanzan su máximo en julio y agosto."
+        }
+      ]
+    }
+  }
+}

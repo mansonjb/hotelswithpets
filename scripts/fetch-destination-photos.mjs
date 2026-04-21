@@ -31,6 +31,7 @@ const TARGETS = [
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },
+  { slug: 'montpellier',  query: 'Place de la Comedie Montpellier fountain' },
 ]
 
 async function searchPhoto(query, apiKey) {

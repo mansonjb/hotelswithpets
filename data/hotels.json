@@ -9788,5 +9788,121 @@
       "Heart of Casco Viejo — walk to Nervión and Arenal"
     ],
     "slug": "petit-palace-arana-bilbao"
+  },
+  {
+    "id": "montpellier-1",
+    "name": "Hôtel Oceania Le Métropole",
+    "destinationSlug": "montpellier",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2150,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.oceania-hotels.com/hotel-oceania-le-metropole-montpellier",
+    "petFee": 20,
+    "petPolicy": "Hôtel Oceania Le Métropole is a 4-star pet-friendly hotel in central Montpellier. The Oceania Hotels chain officially welcomes pets of all sizes, with a supplement of €20 per pet per night. The hotel is within walking distance of the Place de la Comédie, the Berges du Lez riverside walk, and several green spaces. Declare your pet when booking to receive a pet welcome kit including a bowl and towel.",
+    "highlights": [
+      "All pet sizes welcome — Oceania pet-friendly chain",
+      "Pet welcome kit (bowl and towel) on arrival",
+      "Walk to Place de la Comédie and Berges du Lez"
+    ],
+    "slug": "hotel-oceania-le-metropole-montpellier"
+  },
+  {
+    "id": "montpellier-2",
+    "name": "Mercure Montpellier Centre Comédie",
+    "destinationSlug": "montpellier",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-montpellier-centre-comedie.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Mercure Montpellier Centre Comédie is an Accor 4-star hotel accepting dogs and cats for €25 per pet per night. Located steps from the Place de la Comédie and the Écusson medieval quarter, it is one of the most central pet-friendly hotels in Montpellier. Small pets are accepted in all rooms; large dogs are allocated to dedicated ground-floor pet-friendly rooms. Notify the hotel at booking.",
+    "highlights": [
+      "Steps from Place de la Comédie",
+      "Dedicated ground-floor pet rooms for large dogs",
+      "Accor loyalty programme — earn points"
+    ],
+    "slug": "mercure-montpellier-centre-comedie"
+  },
+  {
+    "id": "montpellier-3",
+    "name": "Campanile Montpellier Centre - Saint-Roch",
+    "destinationSlug": "montpellier",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1850,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/campanile-montpellier-centre-saint-roch.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Campanile Montpellier Centre - Saint-Roch accepts dogs and cats with a modest supplement of €10 per pet per night. The hotel sits close to the Gare Saint-Roch train station and the tram network, making it an excellent base for day trips to the Grand Travers dog-friendly beach. Ground-floor rooms are available on request for easier pet access. Declare your pet when booking.",
+    "highlights": [
+      "Low €10/night pet fee",
+      "Near Saint-Roch station and TAM tram",
+      "Ground-floor rooms available on request"
+    ],
+    "slug": "campanile-montpellier-centre-saint-roch"
+  },
+  {
+    "id": "montpellier-4",
+    "name": "Ibis Montpellier Centre",
+    "destinationSlug": "montpellier",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 2400,
+    "priceFrom": 58,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-montpellier-centre.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Ibis Montpellier Centre accepts small dogs and cats (under 8 kg) for an additional €10 per pet per night — one of the most affordable options in central Montpellier. The Accor ibis chain's standard pet policy applies: pets must remain on a leash in common areas and are not permitted in the restaurant. Notify the hotel in advance. The city-centre location gives easy access to the tram and the Écusson.",
+    "highlights": [
+      "Affordable €10/night pet fee",
+      "City-centre tram access",
+      "Accor ibis — reliable budget brand"
+    ],
+    "slug": "ibis-montpellier-centre"
+  },
+  {
+    "id": "montpellier-5",
+    "name": "Hôtel du Parc Montpellier",
+    "destinationSlug": "montpellier",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 980,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/du-parc-montpellier.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hôtel du Parc Montpellier is a charming 3-star boutique hotel near the Promenade du Peyrou and the Parc Méric off-leash area — the ideal base for dog owners who want green space on their doorstep. Dogs of all sizes are accepted for €15 per pet per night. The hotel's quiet location in the western part of the city centre means less traffic noise and easy access to the shaded walking routes along the Berges du Lez.",
+    "highlights": [
+      "Close to Parc Méric off-leash area",
+      "Walk to Promenade du Peyrou",
+      "Quiet boutique setting — all dog sizes welcome"
+    ],
+    "slug": "hotel-du-parc-montpellier"
   }
 ]

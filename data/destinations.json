@@ -3725,5 +3725,31 @@
         "icon": "🌧️"
       }
     }
+  },
+  {
+    "slug": "montpellier",
+    "name": "Montpellier",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/montpellier.jpg",
+    "intro": "Montpellier's sun-soaked terraces, tram-laced streets, and the Grand Travers beach nearby make it one of southern France's most pet-welcoming cities for a city break.",
+    "lat": 43.6109,
+    "lng": 3.8772,
+    "weather": {
+      "jan": { "temp": 8, "desc": "Cool & mild", "icon": "⛅" },
+      "feb": { "temp": 9, "desc": "Cool & mild", "icon": "⛅" },
+      "mar": { "temp": 12, "desc": "Mild & pleasant", "icon": "🌤️" },
+      "apr": { "temp": 14, "desc": "Warm & sunny", "icon": "🌤️" },
+      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "jun": { "temp": 22, "desc": "Hot & sunny", "icon": "☀️" },
+      "jul": { "temp": 26, "desc": "Very hot & sunny", "icon": "☀️" },
+      "aug": { "temp": 25, "desc": "Very hot & sunny", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
+      "oct": { "temp": 16, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 11, "desc": "Cool & rainy", "icon": "🌦️" },
+      "dec": { "temp": 8, "desc": "Cool & mild", "icon": "⛅" }
+    }
   }
 ]

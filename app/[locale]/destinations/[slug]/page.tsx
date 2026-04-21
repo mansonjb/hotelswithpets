@@ -183,7 +183,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
         {/* City landmark photo background */}
         {dest.heroImage && (
-          <div className="absolute inset-0 overflow-hidden">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
             <Image
               src={dest.heroImage}
               alt={dest.name}
@@ -194,12 +194,12 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             />
           </div>
         )}
-        <div className="absolute top-0 right-0 w-80 h-80 text-[12rem] opacity-5 select-none flex items-center justify-center">
+        <div className="absolute top-0 right-0 w-80 h-80 text-[12rem] opacity-5 select-none pointer-events-none flex items-center justify-center">
           {dest.flag}
         </div>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3 mb-4">
-            <Link href={`/${locale}/destinations`} className="text-blue-300 hover:text-white text-sm transition-colors">
+            <Link href={`/${locale}/destinations`} className="inline-flex items-center gap-1 text-blue-300 hover:text-white hover:underline underline-offset-4 text-sm font-medium transition-colors">
               {dict.pages.destination.back}
             </Link>
           </div>

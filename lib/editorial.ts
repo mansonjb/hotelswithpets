@@ -272,6 +272,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
+    bilbao: {
+      personality: 'one of Spain\'s most dog-friendly cities, where the tram welcomes all sizes, pintxos bars officially accept dogs indoors, and the Guggenheim\'s famous \'Puppy\' sculpture makes every dog feel at home',
+      highlight: 'the Parque Doña Casilda off-leash zone, the Artxanda funicular dog compartment, and the Nervión riverside walk to the Guggenheim',
+      area: 'the Abando and Indautxu districts, the Casco Viejo seven streets, and the Abandoibarra waterfront',
+    },
   },
   fr: {
     amsterdam: {
@@ -524,6 +529,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
     },
+    bilbao: {
+      personality: 'l\'une des villes les plus dog-friendly d\'Espagne, où le tram accepte toutes tailles, les bars à pintxos accueillent officiellement les chiens en intérieur et la sculpture \'Puppy\' du Guggenheim met chaque chien à son aise',
+      highlight: 'la zone hors laisse du Parc Doña Casilda, le compartiment dog-friendly du funiculaire d\'Artxanda et la promenade en bord de Nervión jusqu\'au Guggenheim',
+      area: 'les quartiers Abando et Indautxu, les Sept Rues du Casco Viejo et le front de mer d\'Abandoibarra',
+    },
   },
   es: {
     amsterdam: {
@@ -775,6 +785,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
+    },
+    bilbao: {
+      personality: 'una de las ciudades más dog-friendly de España, donde el tranvía admite todas las tallas, los bares de pintxos aceptan oficialmente perros en interior y la escultura \'Puppy\' del Guggenheim hace sentir a cada perro como en casa',
+      highlight: 'la zona de suelta del Parque Doña Casilda, el vagón dog-friendly del Funicular de Artxanda y el paseo fluvial del Nervión hasta el Guggenheim',
+      area: 'los barrios de Abando e Indautxu, las Siete Calles del Casco Viejo y el paseo marítimo de Abandoibarra',
     },
   },
 }

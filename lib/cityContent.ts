@@ -5577,7 +5577,120 @@ const cityContent: Record<string, CityContent> = {
       ],
     },
   },
+  bilbao: {
+    history: {
+      fr: `Bilbao a connu l'une des transformations urbaines les plus spectaculaires d'Europe. Fondée en 1300 sur les rives de la Nervión, la ville devint au XIXe siècle un géant industriel de l'acier et de la marine marchande basque — une prospérité qui laissa un héritage de pollution et de désindustrialisation. La renaissance commença avec l'ouverture du musée Guggenheim en 1997, conçu par Frank Gehry : un pari audacieux qui attira des millions de visiteurs et métamorphosa l'ancienne zone portuaire en un quartier culturel de renommée mondiale. Aujourd'hui, Bilbao est une ville compacte et fière de son identité basque, célèbre pour sa gastronomie, ses bars à pintxos et son amour déclaré des chiens — le tourisme canin est activement promu par les autorités régionales du Pays Basque.`,
+      en: `Bilbao underwent one of Europe's most dramatic urban transformations. Founded in 1300 on the banks of the Nervión estuary, the city became a 19th-century industrial giant — steel mills and a Basque merchant fleet that defined its skyline and left a heavy post-industrial legacy. The renaissance began with Frank Gehry's Guggenheim Museum opening in 1997, a bold cultural gamble that attracted millions of visitors and turned a derelict docklands area into a globally recognised arts quarter. Today Bilbao is a compact, proudly Basque city renowned for its pintxos gastronomy, the warmth of its neighbourhoods, and an openly declared love of dogs — regional authorities actively promote dog tourism across the Basque Country.`,
+      es: `Bilbao experimentó una de las transformaciones urbanas más espectaculares de Europa. Fundada en 1300 a orillas de la ría del Nervión, la ciudad se convirtió en un gigante industrial del siglo XIX, con acerías y una flota mercante vasca que definieron su fisonomía y dejaron un pesado legado posindustrial. El renacimiento llegó con la apertura del Museo Guggenheim de Frank Gehry en 1997, una audaz apuesta cultural que atrajo millones de visitantes y transformó los antiguos muelles en un barrio artístico de reconocimiento mundial. Hoy Bilbao es una ciudad compacta y orgullosamente vasca, famosa por su gastronomía de pintxos, la calidez de sus barrios y un declarado amor por los perros: las autoridades regionales promueven activamente el turismo canino en el País Vasco.`,
+    },
+    sights: [
+      {
+        name: 'Guggenheim Museum & Puppy Sculpture',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'extérieur en titane signé Frank Gehry et la sculpture 'Puppy' de Jeff Koons (un terrier des Highlands de 12 mètres couvert de fleurs) sont entièrement accessibles aux chiens — l\'intérieur du musée en revanche est interdit aux animaux.',
+          en: 'Frank Gehry\'s titanium exterior and Jeff Koons\'s 12-metre flower-covered \'Puppy\' West Highland Terrier are fully dog-friendly; the museum interior does not allow pets.',
+          es: 'El exterior de titanio de Frank Gehry y el \'Puppy\' de Jeff Koons (un West Highland Terrier de 12 metros cubierto de flores) son totalmente dog-friendly; el interior del museo no admite mascotas.',
+        },
+      },
+      {
+        name: 'Casco Viejo — Siete Calles',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le cœur médiéval de Bilbao — un labyrinthe de ruelles, bars à pintxos et places arcadées où les chiens en laisse accompagnent naturellement leurs maîtres lors du txikiteo du soir.',
+          en: 'Bilbao\'s medieval heart — narrow lanes, pintxos bars and arcaded squares where leashed dogs are a natural part of the evening txikiteo bar-hop.',
+          es: 'El corazón medieval de Bilbao: callejuelas estrechas, bares de pintxos y plazas porticadas donde los perros con correa son parte natural del txikiteo vespertino.',
+        },
+      },
+      {
+        name: 'Parque Doña Casilda Iturrizar',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Le plus beau parc central de Bilbao, avec une zone de liberté officielle dans le coin nord-ouest — accessible depuis l\'arrêt de tram Indautxu à seulement 200 mètres.',
+          en: 'Bilbao\'s finest central park with an official off-leash zone in the north-western corner, 200 m from the Indautxu tram stop.',
+          es: 'El mejor parque central de Bilbao, con zona de esparcimiento oficial en la esquina noroeste, a 200 m de la parada de tranvía Indautxu.',
+        },
+      },
+      {
+        name: 'Artxanda Funicular & Summit',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le funiculaire d\'Artxanda dispose d\'un compartiment dédié aux chiens (confirmé par Bilbao Tourisme) et monte en 3 minutes jusqu\'à une zone ouverte avec vue panoramique sur la ville.',
+          en: 'The Artxanda Funicular has a dedicated dog compartment (confirmed by Bilbao Tourism) and climbs to open summit parkland with panoramic city views in 3 minutes.',
+          es: 'El Funicular de Artxanda dispone de vagón dedicado para perros (confirmado por Turismo de Bilbao) y sube en 3 minutos a zonas verdes abiertas con vistas panorámicas.',
+        },
+      },
+      {
+        name: 'Nervión Riverside Walk (Abandoibarra)',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parcours de 4 km entièrement plat et dog-friendly du Casco Viejo au Guggenheim, longeant le Nervión avec des cafés accueillants, la sculpture Zubizuri et l\'esplanade d\'Abandoibarra.',
+          en: 'A flat 4-km fully dog-friendly riverside route from the Casco Viejo to the Guggenheim, passing dog-welcoming cafés, the Zubizuri bridge, and the Abandoibarra esplanade.',
+          es: 'Ruta fluvial de 4 km totalmente plana y dog-friendly del Casco Viejo al Guggenheim, con cafés acogedores, el puente Zubizuri y la esplanada de Abandoibarra.',
+        },
+      },
+      {
+        name: 'Parque Etxebarria',
+        emoji: '🏭',
+        petFriendly: true,
+        desc: {
+          fr: 'Un parc sur colline dominé par une cheminée industrielle emblématique, avec une zone hors laisse près du skatepark et des vues dégagées vers le Guggenheim depuis les terrasses supérieures.',
+          en: 'A hillside park dominated by an iconic industrial chimney, with an off-leash area near the skate park and sweeping Guggenheim views from the upper terraces.',
+          es: 'Un parque en ladera dominado por una emblemática chimenea industrial, con zona de suelta junto al skatepark y amplias vistas al Guggenheim desde las terrazas superiores.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le guide officiel dog-friendly du Pays Basque (\'Euskadi con Perro\') est disponible gratuitement dans les offices de tourisme de Bilbao et téléchargeable sur turismo.euskadi.eus — c\'est la liste la plus fiable des restaurants, hôtels et attractions acceptant les chiens.',
+        'Le tram EuskoTran est le transport en commun le plus adapté aux chiens de toutes tailles — laisse obligatoire, pas de transportin requis, et il dessert tous les sites touristiques majeurs.',
+        'Les plages de la côte basque (Sopelana, Getxo) autorisent les chiens d\'octobre à mai uniquement — planifiez en conséquence et vérifiez chaque année les arrêtés municipaux.',
+        'La norme off-leash dans les parcs de Bilbao est de 19h à 11h dans les zonas de esparcimiento désignées — respectez ces horaires pour éviter les amendes.',
+        'Sauvegardez le 944 212 212 (Veterinaria Bilbao, urgences 24h) dans votre téléphone avant d\'arriver — c\'est le numéro vérifié sur le site officiel de la clinique.',
+      ],
+      en: [
+        'The official Basque Country dog-friendly guide (\'Euskadi con Perro\') is available free at Bilbao\'s tourist offices and downloadable at turismo.euskadi.eus — the most reliable list of pet-welcoming restaurants, hotels and attractions.',
+        'The EuskoTran tram is the best public transport for all dog sizes — leash required, no carrier needed, and it covers all major tourist destinations along one line.',
+        'Basque coast beaches (Sopelana, Getxo) allow dogs October to May only — plan accordingly and verify current municipal bylaws each year before visiting.',
+        'Bilbao\'s park off-leash rule is 19:00 to 11:00 in designated zonas de esparcimiento — respect these hours to avoid fines.',
+        'Save 944 212 212 (Veterinaria Bilbao, 24h emergency) in your phone before arriving — verified from the clinic\'s official website.',
+      ],
+      es: [
+        'La guía dog-friendly oficial del País Vasco (\'Euskadi con Perro\') está disponible gratis en las oficinas de turismo de Bilbao y descargable en turismo.euskadi.eus: la lista más fiable de restaurantes, hoteles y atracciones que admiten mascotas.',
+        'El tranvía EuskoTran es el mejor transporte público para perros de todos los tamaños: correa obligatoria, sin necesidad de transportín, y cubre todos los destinos turísticos principales en una sola línea.',
+        'Las playas de la costa vasca (Sopelana, Getxo) permiten perros solo de octubre a mayo: planifica en consecuencia y verifica cada año los reglamentos municipales vigentes.',
+        'La norma de suelta en los parques de Bilbao es de 19:00 a 11:00 en las zonas de esparcimiento designadas: respeta estos horarios para evitar multas.',
+        'Guarda el 944 212 212 (Veterinaria Bilbao, urgencias 24h) en tu teléfono antes de llegar: verificado en el sitio web oficial de la clínica.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Aéroport : l\'aéroport de Bilbao (BIO) est à 12 km du centre. Les chiens en transportin sont admis dans le terminal ; les grands chiens voyagent en soute. Navette directe Bizkaibus A3247 jusqu\'à l\'arrêt Moyúa (30 min) — chiens en transportin uniquement dans le bus.',
+        'Vétérinaires d\'urgence : Veterinaria Bilbao, Zorrotza Kastrexana Errepidea 25, tél. 944 212 212, ouverte 24h/24 365 jours/an (vérifié sur le site officiel).',
+        'Transport : le tram EuskoTran accepte tous les chiens en laisse ; le métro est limité aux chiens de moins de 8 kg portés sur les genoux ; les bus n\'acceptent que les transportins.',
+        'Plages : toutes les plages de la côte basque proche interdisent les chiens de juin à septembre. Les plages de Sopelana et Getxo les autorisent d\'octobre à mai.',
+        'Fournitures : plusieurs animaleries dans le centre-ville, notamment autour de Calle Licenciado Poza et Gran Vía.',
+      ],
+      en: [
+        'Airport: Bilbao Airport (BIO) is 12 km from the centre. Small dogs in carriers are admitted to the terminal; larger dogs travel in the hold. Direct Bizkaibus A3247 shuttle to Moyúa stop (30 min) — carriers only on the bus.',
+        'Emergency vet: Veterinaria Bilbao, Zorrotza Kastrexana Errepidea 25, tel. 944 212 212, open 24h/365 days (verified from official website).',
+        'Transport: EuskoTran tram accepts all dog sizes on a leash; metro restricted to dogs under 8 kg held on lap; buses accept carriers only.',
+        'Beaches: all nearby Basque coast beaches ban dogs June–September. Sopelana and Getxo beaches allow dogs October–May.',
+        'Pet supplies: several pet shops in the city centre, particularly around Calle Licenciado Poza and Gran Vía.',
+      ],
+      es: [
+        'Aeropuerto: el Aeropuerto de Bilbao (BIO) está a 12 km del centro. Los perros pequeños en transportín se admiten en la terminal; los más grandes viajan en bodega. Autobús directo Bizkaibus A3247 hasta la parada Moyúa (30 min): solo transportín en el autobús.',
+        'Veterinario de urgencias: Veterinaria Bilbao, Zorrotza Kastrexana Errepidea 25, tel. 944 212 212, abierto 24h/365 días (verificado en el sitio oficial).',
+        'Transporte: el tranvía EuskoTran admite perros de todos los tamaños con correa; el metro está restringido a perros menores de 8 kg sostenidos en el regazo; los autobuses solo aceptan transportín.',
+        'Playas: todas las playas de la costa vasca cercana prohíben perros de junio a septiembre. Las playas de Sopelana y Getxo permiten perros de octubre a mayo.',
+        'Suministros: varias tiendas de animales en el centro, especialmente en la Calle Licenciado Poza y la Gran Vía.',
+      ],
+    },
+  },
 
 }
-
-export default cityContent

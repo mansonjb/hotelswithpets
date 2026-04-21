@@ -9670,5 +9670,123 @@
       "Victorian building"
     ],
     "slug": "the-columbia-hotel-london"
+  },
+  {
+    "id": "bilbao-1",
+    "name": "Hotel Tayko Bilbao",
+    "destinationSlug": "bilbao",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 2563,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/tayko-bilbao.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Tayko Bilbao is a luxury pet-friendly property with no size limit on dogs — their philosophy is that 'family is not measured in kilograms'. A supplement of €25 per night applies (direct booking rate; confirm at reservation). The hotel provides a pet cot, food bowl, and water bowl. Dogs have access to reception, lifts, and corridors but are not permitted in restaurant areas. Prior request and confirmation is required at the time of booking.",
+    "highlights": [
+      "No dog size limit",
+      "Pet cot and bowls provided",
+      "Steps from Doña Casilda park off-leash zone"
+    ],
+    "slug": "hotel-tayko-bilbao"
+  },
+  {
+    "id": "bilbao-2",
+    "name": "Meliá Bilbao",
+    "destinationSlug": "bilbao",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4200,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/meliabilbao.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Meliá Bilbao participates in the Meliá Pet Friendly programme. Dogs are accepted on request, subject to availability of pet-friendly rooms. A maximum of two pets per room is permitted. Pets must be accompanied in the room and kept on a leash in common areas. The hotel is adjacent to the off-leash zone of Parque Doña Casilda Iturrizar — one of Bilbao's best dog parks. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Adjacent to Parque Doña Casilda off-leash zone",
+      "5-star facilities",
+      "City centre location on Gran Vía"
+    ],
+    "slug": "melia-bilbao"
+  },
+  {
+    "id": "bilbao-3",
+    "name": "Hotel ILUNION Bilbao",
+    "destinationSlug": "bilbao",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 1800,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://en.ilunionbilbao.com/",
+    "petFee": 25,
+    "petPolicy": "Hotel ILUNION Bilbao accepts dogs of any size in designated pet-friendly rooms for a supplement of €25 per pet, per night. All double rooms are pet-friendly. The hotel also provides full accessible facilities and is conveniently located for the tram network. Please declare your pet when booking to ensure appropriate room allocation.",
+    "highlights": [
+      "All dog sizes accepted",
+      "Pet-friendly rooms available",
+      "Accessible facilities throughout"
+    ],
+    "slug": "hotel-ilunion-bilbao"
+  },
+  {
+    "id": "bilbao-4",
+    "name": "Ibis Bilbao Centro",
+    "destinationSlug": "bilbao",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 2100,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ibis-bilbao-centro.en-gb.html",
+    "petFee": 7,
+    "petPolicy": "Ibis Bilbao Centro accepts pets of any size for an additional fee of €7 per pet, per night — one of the most affordable pet fees of any hotel in Bilbao. The hotel is well-located in the city centre with easy access to the tram network for dog-friendly travel across Bilbao. Please notify the hotel in advance that you are bringing a pet.",
+    "highlights": [
+      "Low €7/night pet fee",
+      "City centre location",
+      "Easy tram access"
+    ],
+    "slug": "ibis-bilbao-centro"
+  },
+  {
+    "id": "bilbao-5",
+    "name": "Petit Palace Arana",
+    "destinationSlug": "bilbao",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1650,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.petitpalacearanabilbao.com/en/",
+    "petFee": 0,
+    "petPolicy": "Petit Palace Arana is a boutique pet-friendly hotel in the heart of the Casco Viejo with no additional charge for pets when booking directly through their official website. All domestic pets are welcome regardless of breed or size. The hotel provides a pet bed, bowl, and food. The central location on Bidebarrieta Kalea 2 puts you steps from the Nervión riverside walk, Arenal Bridge, and the Casco Viejo streets. Notify in advance when booking and include your pet's name.",
+    "highlights": [
+      "No pet fee on direct booking",
+      "Pet bed, bowl and food provided",
+      "Heart of Casco Viejo — walk to Nervión and Arenal"
+    ],
+    "slug": "petit-palace-arana-bilbao"
   }
 ]

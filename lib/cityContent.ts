@@ -5809,3 +5809,5 @@ const cityContent: Record<string, CityContent> = {
   },
 
 }
+
+export default cityContent

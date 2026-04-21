@@ -145,15 +145,36 @@ node scripts/fetch-city-guide-photos.mjs --city=slug  # all places for this city
 ### Step 11 — Validate & audit
 
 ```bash
-npx tsc --noEmit lib/cityContent.ts lib/editorial.ts    # catch syntax errors (unescaped apostrophes etc.)
-node scripts/check-i18n.mjs       # must pass
-node scripts/audit-destinations.mjs | tail -5    # city must be in "Fully parity-compliant"
-python3 -m json.tool data/destinations.json > /dev/null    # valid JSON
+# Structural integrity check (critical — the audit doesn't catch these)
+grep -c "^export default cityContent" lib/cityContent.ts   # must return 1
+grep -c "^}$" lib/cityContent.ts                            # top-level closing brace intact
+
+# Full build (catches both TS syntax errors AND import issues — the only reliable pre-commit check)
+npm run build
+
+# Additional validation
+node scripts/check-i18n.mjs
+node scripts/audit-destinations.mjs | tail -5
+python3 -m json.tool data/destinations.json > /dev/null
 ```
 
-If any step shows errors, **fix before committing**. The audit alone doesn't catch TypeScript syntax errors that break Vercel builds — `tsc --noEmit` does.
+If `npm run build` fails or any grep returns 0, **FIX BEFORE COMMITTING**. The audit doesn't catch:
+- Unescaped apostrophes in TS single-quoted strings
+- Missing `export default cityContent` at end of file (common when inserting new entries before the closing brace)
+- Broken imports downstream
 
-**Apostrophe trap**: TypeScript single-quoted strings require `\'` for every internal apostrophe. Example mistake: `'L\'extérieur signé Gehry et la sculpture 'Puppy' de Koons'` breaks because `'Puppy'` isn't escaped. Use `\'Puppy\'` or switch to backticks.
+**Two gotchas that have broken production Vercel builds**:
+
+1. **Apostrophe trap**: TypeScript single-quoted strings require `\'` for every internal apostrophe. Example mistake: `'L\'extérieur signé Gehry et la sculpture 'Puppy' de Koons'` breaks because `'Puppy'` isn't escaped. Use `\'Puppy\'` or switch to backticks.
+
+2. **Missing export default**: When inserting a new city entry at the end of `lib/cityContent.ts`, always insert BEFORE the final `}` that closes the object literal — NEVER below it (that would put your entry after the `export default` or erase it). The correct end-of-file must always be:
+```
+  },  // last city entry
+
+}
+
+export default cityContent
+```
 
 ### Step 12 — Commit & push
 

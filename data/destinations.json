@@ -439,6 +439,80 @@
     }
   },
   {
+    "slug": "bilbao",
+    "name": "Bilbao",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bilbao.jpg",
+    "intro": "Bilbao and the Basque Country rank among Spain's most dog-friendly destinations, where pintxos bars officially welcome dogs indoors and the tram accepts all sizes on a leash — the city's compact riverside design means a single walk connects the medieval Casco Viejo, Jeff Koons's 'Puppy' at the Guggenheim, and the dog-friendly Abandoibarra waterfront.",
+    "lat": 43.2627,
+    "lng": -2.9253,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, some rain",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "bologna",
     "name": "Bologna",
     "country": "Italy",
@@ -2042,6 +2116,80 @@
         "temp": 4,
         "desc": "Cold & grey",
         "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "montpellier",
+    "name": "Montpellier",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/montpellier.jpg",
+    "intro": "Montpellier's sun-soaked terraces, tram-laced streets, and the Grand Travers beach nearby make it one of southern France's most pet-welcoming cities for a city break.",
+    "lat": 43.6109,
+    "lng": 3.8772,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & mild",
+        "icon": "⛅"
       }
     }
   },
@@ -3650,106 +3798,6 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
-  },
-  {
-    "slug": "bilbao",
-    "name": "Bilbao",
-    "country": "Spain",
-    "countryCode": "ES",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/bilbao.jpg",
-    "intro": "Bilbao and the Basque Country rank among Spain's most dog-friendly destinations, where pintxos bars officially welcome dogs indoors and the tram accepts all sizes on a leash — the city's compact riverside design means a single walk connects the medieval Casco Viejo, Jeff Koons's 'Puppy' at the Guggenheim, and the dog-friendly Abandoibarra waterfront.",
-    "lat": 43.2627,
-    "lng": -2.9253,
-    "weather": {
-      "jan": {
-        "temp": 9,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 10,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild & overcast",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 13,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Warm, some rain",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 21,
-        "desc": "Warm & sunny",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 19,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 15,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 12,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 10,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "montpellier",
-    "name": "Montpellier",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/montpellier.jpg",
-    "intro": "Montpellier's sun-soaked terraces, tram-laced streets, and the Grand Travers beach nearby make it one of southern France's most pet-welcoming cities for a city break.",
-    "lat": 43.6109,
-    "lng": 3.8772,
-    "weather": {
-      "jan": { "temp": 8, "desc": "Cool & mild", "icon": "⛅" },
-      "feb": { "temp": 9, "desc": "Cool & mild", "icon": "⛅" },
-      "mar": { "temp": 12, "desc": "Mild & pleasant", "icon": "🌤️" },
-      "apr": { "temp": 14, "desc": "Warm & sunny", "icon": "🌤️" },
-      "may": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "jun": { "temp": 22, "desc": "Hot & sunny", "icon": "☀️" },
-      "jul": { "temp": 26, "desc": "Very hot & sunny", "icon": "☀️" },
-      "aug": { "temp": 25, "desc": "Very hot & sunny", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Warm & sunny", "icon": "🌤️" },
-      "oct": { "temp": 16, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 11, "desc": "Cool & rainy", "icon": "🌦️" },
-      "dec": { "temp": 8, "desc": "Cool & mild", "icon": "⛅" }
     }
   }
 ]

@@ -1316,6 +1316,80 @@
     }
   },
   {
+    "slug": "frankfurt",
+    "name": "Frankfurt",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/frankfurt.jpg",
+    "intro": "Germany's financial capital is also one of its greenest — 52% of the city is woodland, parks, or water. With dog-friendly Sachsenhausen taverns, the 4,200-hectare Stadtwald, and two 24/7 emergency vet clinics, Frankfurt is a reliable stop on any European pet road trip.",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold, grey",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold, occasional snow",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Mild, breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Springlike, showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, long days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm, occasional storms",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, Christmas markets",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "ghent",
     "name": "Ghent",
     "country": "Belgium",

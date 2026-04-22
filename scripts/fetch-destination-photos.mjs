@@ -33,6 +33,7 @@ const TARGETS = [
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },
   { slug: 'montpellier',  query: 'Place de la Comedie Montpellier fountain' },
   { slug: 'nantes',       query: 'Chateau des Ducs de Bretagne Nantes' },
+  { slug: 'frankfurt',    query: 'Romerberg Frankfurt old town skyline' },
 ]
 
 async function searchPhoto(query, apiKey) {

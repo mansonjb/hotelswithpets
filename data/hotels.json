@@ -3432,6 +3432,128 @@
     "slug": "helvetiabristol-firenze-starhotels-collezione"
   },
   {
+    "id": "frankfurt-1",
+    "name": "Adina Apartment Hotel Frankfurt Neue Oper",
+    "destinationSlug": "frankfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 121,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/adina-apartment-franfkurt-neue-oper.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed (dogs and cats) for a surcharge of €15 per pet per night. Additional information must be confirmed in advance.",
+    "highlights": [
+      "Apartments with kitchenette",
+      "Indoor pool and sauna",
+      "Near Opera and Mainufer"
+    ],
+    "slug": "adina-apartment-hotel-frankfurt-neue-oper"
+  },
+  {
+    "id": "frankfurt-2",
+    "name": "Scandic Frankfurt Museumsufer",
+    "destinationSlug": "frankfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3100,
+    "priceFrom": 81,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/scandic-frankfurt-museumsufer.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for €20 per stay. Dogs of any size accepted. Pet beds available on request.",
+    "highlights": [
+      "Near Museumsufer and Mainufer promenade",
+      "Pet beds on request",
+      "5-min walk from Eiserner Steg"
+    ],
+    "slug": "scandic-frankfurt-museumsufer"
+  },
+  {
+    "id": "frankfurt-3",
+    "name": "Hotel Hamburger Hof",
+    "destinationSlug": "frankfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1800,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/hotelhamburgerhof.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free. Water and food bowls provided on request. Pets of any size welcome.",
+    "highlights": [
+      "Pets stay free",
+      "Water + food bowls on request",
+      "300m from Hauptbahnhof"
+    ],
+    "slug": "hotel-hamburger-hof"
+  },
+  {
+    "id": "frankfurt-4",
+    "name": "Holiday Inn Express Frankfurt Messe",
+    "destinationSlug": "frankfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2600,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/holiday-inn-express-frankfurt-messe.html",
+    "petFee": 16,
+    "petPolicy": "Pets welcome for €16 per night. Dogs of any size accepted. Max 2 pets per room.",
+    "highlights": [
+      "Walking distance to Messe",
+      "24h reception",
+      "Free breakfast"
+    ],
+    "slug": "holiday-inn-express-frankfurt-messe"
+  },
+  {
+    "id": "frankfurt-5",
+    "name": "25hours Hotel Frankfurt The Trip",
+    "destinationSlug": "frankfurt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1450,
+    "priceFrom": 139,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/25hours-the-trip.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per stay. Water bowls and a pet welcome kit provided. All sizes welcome.",
+    "highlights": [
+      "Design hotel near Messe",
+      "Pet welcome kit",
+      "Rooftop bar with skyline views"
+    ],
+    "slug": "25hours-hotel-frankfurt-the-trip"
+  },
+  {
     "id": "ghent-1",
     "name": "B&B The Verhaegen",
     "destinationSlug": "ghent",

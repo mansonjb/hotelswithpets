@@ -1,0 +1,763 @@
+{
+  "slug": "frankfurt",
+  "name": "Frankfurt",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-04-22",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Frankfurt",
+      "titleFr": "Restaurants acceptant les chiens à Francfort",
+      "titleEs": "Restaurantes dog-friendly en Fráncfort",
+      "introEn": "Frankfurt's Sachsenhausen district, with its cobbled lanes and century-old apple-wine taverns (Apfelweinwirtschaften), is the epicentre of dog-friendly dining. In Germany, dogs are welcome in restaurants by default unless a sign says otherwise, and most traditional taverns keep a water bowl at the door. Well-behaved dogs on a leash are a normal sight under the chestnut trees of the Alt-Sachsenhausen courtyards.",
+      "introFr": "Le quartier de Sachsenhausen à Francfort, avec ses ruelles pavées et ses tavernes à cidre centenaires (Apfelweinwirtschaften), est l'épicentre des restaurants dog-friendly. En Allemagne, les chiens sont bienvenus dans les restaurants par défaut sauf pancarte contraire, et la plupart des tavernes traditionnelles laissent une gamelle d'eau à l'entrée. Les chiens bien tenus en laisse sont un spectacle ordinaire sous les châtaigniers des cours d'Alt-Sachsenhausen.",
+      "introEs": "El barrio de Sachsenhausen en Fráncfort, con sus callejones empedrados y sus tabernas centenarias de vino de manzana (Apfelweinwirtschaften), es el epicentro de los restaurantes dog-friendly. En Alemania, los perros son bienvenidos en los restaurantes por defecto salvo cartel contrario, y la mayoría de las tabernas tradicionales dejan un bol de agua en la entrada. Los perros bien educados con correa son una presencia habitual bajo los castaños de los patios de Alt-Sachsenhausen.",
+      "places": [
+        {
+          "name": "Apfelwein Wagner",
+          "address": "Schweizer Straße 71, 60594 Frankfurt am Main",
+          "neighborhood": "Alt-Sachsenhausen",
+          "photo": "/images/city-places/frankfurt-restaurants-apfelwein-wagner.jpg",
+          "website": "https://www.apfelwein-wagner.com/",
+          "description": "Opened in 1931, Apfelwein Wagner is one of the most famous apple-wine taverns in Frankfurt and a long-standing favourite for dog owners. The courtyard and wooden-bench interior both welcome dogs, and staff will bring a water bowl on request. Frankfurt classics like Handkäs' mit Musik and Grüne Soße pair with the house-made Ebbelwoi (apple wine).",
+          "descriptionFr": "Ouverte en 1931, Apfelwein Wagner est l'une des tavernes à cidre les plus réputées de Francfort et une valeur sûre des propriétaires de chiens. La cour intérieure comme la salle aux bancs de bois accueillent les chiens, et le personnel apporte une gamelle d'eau sur simple demande. Les classiques francfortois Handkäs' mit Musik et Grüne Soße s'accordent à merveille avec l'Ebbelwoi (cidre) maison.",
+          "descriptionEs": "Inaugurada en 1931, Apfelwein Wagner es una de las tabernas de vino de manzana más célebres de Fráncfort y un clásico entre los dueños de perros. Tanto el patio como la sala de bancos de madera admiten perros, y el personal trae un bol de agua a petición. Los clásicos francofurteses Handkäs' mit Musik y Grüne Soße maridan a la perfección con el Ebbelwoi (vino de manzana) de la casa.",
+          "petPolicy": "Dogs welcome inside and in courtyard",
+          "petPolicyFr": "Chiens bienvenus en salle et dans la cour",
+          "petPolicyEs": "Perros bienvenidos en la sala y en el patio",
+          "priceRange": "€€",
+          "mustTry": "Handkäs' mit Musik, Grüne Soße with boiled egg, house Ebbelwoi",
+          "mustTryFr": "Handkäs' mit Musik, Grüne Soße aux œufs, Ebbelwoi maison",
+          "mustTryEs": "Handkäs' mit Musik, Grüne Soße con huevo cocido, Ebbelwoi de la casa",
+          "openingHours": "Daily 11:00–24:00",
+          "tip": "Ask for a table in the chestnut-tree courtyard in summer — shaded, quieter than the main hall, and the preferred spot for regulars with dogs.",
+          "tipFr": "Demandez une table dans la cour aux châtaigniers en été — ombragée, plus calme que la salle principale, et le spot préféré des habitués accompagnés de leur chien.",
+          "tipEs": "Pide una mesa en el patio de los castaños en verano: con sombra, más tranquilo que la sala principal y el lugar preferido de los habituales con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Apfelwein+Wagner+Schweizer+Strasse+71+Frankfurt"
+        },
+        {
+          "name": "Atschel",
+          "address": "Wallstraße 7, 60594 Frankfurt am Main",
+          "neighborhood": "Alt-Sachsenhausen",
+          "photo": "/images/city-places/frankfurt-restaurants-atschel.jpg",
+          "website": "https://www.atschel-frankfurt.de/",
+          "description": "A cosy Sachsenhausen Gasthaus on a quiet cobbled street, Atschel lists itself as dog-welcoming and is a reliable choice for traditional Frankfurter dishes without the tourist crowds of the main tavern alleys. The small terrace is especially calm on weekday evenings — ideal for owners with reactive dogs.",
+          "descriptionFr": "Gasthaus chaleureux de Sachsenhausen dans une ruelle pavée calme, Atschel se revendique dog-friendly et constitue un bon choix pour les plats traditionnels francfortois sans la foule touristique des ruelles à tavernes. La petite terrasse est particulièrement tranquille les soirs de semaine — idéal pour les propriétaires de chiens réactifs.",
+          "descriptionEs": "Acogedor Gasthaus de Sachsenhausen en una tranquila calle empedrada, Atschel se declara dog-friendly y es una opción fiable para platos tradicionales francofurteses sin las multitudes turísticas de las callejuelas de tabernas. La pequeña terraza está especialmente tranquila entre semana por la noche, ideal para dueños de perros reactivos.",
+          "petPolicy": "Dogs welcome on terrace and inside",
+          "petPolicyFr": "Chiens bienvenus en terrasse et en salle",
+          "petPolicyEs": "Perros bienvenidos en terraza y sala",
+          "priceRange": "€€",
+          "mustTry": "Schnitzel Frankfurter Art, Rippchen mit Kraut",
+          "mustTryFr": "Schnitzel Frankfurter Art, Rippchen mit Kraut",
+          "mustTryEs": "Schnitzel Frankfurter Art, Rippchen mit Kraut",
+          "openingHours": "Wed–Mon 17:00–24:00, closed Tue",
+          "tip": "Tuesday is the closing day and Saturdays fill up after 19:30 — book a weekday evening table for the quietest experience with your dog.",
+          "tipFr": "Fermeture le mardi et rush à partir de 19h30 le samedi — réservez un soir de semaine pour l'expérience la plus calme avec votre chien.",
+          "tipEs": "Cierra los martes y los sábados se llena a partir de las 19:30 — reserva una mesa entre semana para la experiencia más tranquila con tu perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Atschel+Wallstrasse+Frankfurt"
+        },
+        {
+          "name": "Fichtekränzi",
+          "address": "Wallstraße 5, 60594 Frankfurt am Main",
+          "neighborhood": "Alt-Sachsenhausen",
+          "photo": "/images/city-places/frankfurt-restaurants-fichtekranzi.jpg",
+          "website": "https://www.fichtekraenzi.de/",
+          "description": "One of the oldest Ebbelwoi taverns still running in Sachsenhausen (founded 1849), Fichtekränzi is known for its long wooden tables, hearty Hessian classics, and a relaxed attitude towards well-behaved dogs. The leafy courtyard is a local summer institution.",
+          "descriptionFr": "L'une des plus anciennes tavernes à Ebbelwoi de Sachsenhausen toujours en activité (fondée en 1849), Fichtekränzi est réputée pour ses longues tables en bois, ses classiques hessois copieux et sa tolérance détendue envers les chiens bien éduqués. La cour verdoyante est une institution estivale locale.",
+          "descriptionEs": "Una de las tabernas de Ebbelwoi más antiguas de Sachsenhausen aún en activo (fundada en 1849), Fichtekränzi es conocida por sus largas mesas de madera, sus contundentes clásicos de Hesse y su actitud relajada con los perros bien educados. El patio frondoso es una institución estival local.",
+          "petPolicy": "Dogs welcome in courtyard and inside",
+          "petPolicyFr": "Chiens bienvenus dans la cour et en salle",
+          "petPolicyEs": "Perros bienvenidos en el patio y la sala",
+          "priceRange": "€€",
+          "mustTry": "Frankfurter Schnitzel with Grüne Soße, house Ebbelwoi",
+          "mustTryFr": "Frankfurter Schnitzel à la Grüne Soße, Ebbelwoi maison",
+          "mustTryEs": "Frankfurter Schnitzel con Grüne Soße, Ebbelwoi de la casa",
+          "openingHours": "Mon–Sat from 17:00, Sun from 12:00",
+          "tip": "The courtyard is shaded and large — request a corner table so your dog can lie down without blocking the busy waiter paths.",
+          "tipFr": "La cour est ombragée et spacieuse — demandez une table en angle pour que votre chien puisse s'allonger sans gêner les trajets des serveurs.",
+          "tipEs": "El patio es amplio y con sombra: pide una mesa en esquina para que tu perro pueda tumbarse sin entorpecer el paso de los camareros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Fichtekranzi+Wallstrasse+Frankfurt"
+        }
+      ],
+      "tipsEn": [
+        "In Germany, dogs are allowed in restaurants by default — a Hund willkommen sticker or water bowl at the door is a reliable sign the staff actively welcome dogs.",
+        "Sachsenhausen's traditional Ebbelwoi taverns are the most dog-friendly area in Frankfurt, with shaded courtyards ideal for long summer evenings.",
+        "Ask for Leitungswasser (tap water) for your dog — German restaurants serve it free, and most will add a bowl without you having to ask twice."
+      ],
+      "tipsFr": [
+        "En Allemagne, les chiens sont autorisés par défaut dans les restaurants — un autocollant Hund willkommen ou une gamelle à l'entrée signale un lieu qui les accueille activement.",
+        "Les tavernes traditionnelles à Ebbelwoi de Sachsenhausen sont la zone la plus dog-friendly de Francfort, avec des cours ombragées idéales pour les longues soirées d'été.",
+        "Demandez Leitungswasser (eau du robinet) pour votre chien — les restaurants allemands la servent gratuitement, et la plupart ajouteront une gamelle sans insister."
+      ],
+      "tipsEs": [
+        "En Alemania, los perros pueden entrar en los restaurantes por defecto: un adhesivo Hund willkommen o un bol de agua en la puerta indica un local que los recibe activamente.",
+        "Las tabernas tradicionales de Ebbelwoi de Sachsenhausen son la zona más dog-friendly de Fráncfort, con patios con sombra ideales para las largas noches de verano.",
+        "Pide Leitungswasser (agua del grifo) para tu perro: los restaurantes alemanes la sirven gratis y la mayoría añadirá un bol sin que tengas que insistir."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Frankfurt restaurants?",
+          "a": "Yes. German law permits dogs in hospitality venues by default unless the owner explicitly bans them. Sachsenhausen and the Altstadt have dozens of traditional taverns that actively welcome dogs."
+        },
+        {
+          "q": "What is an Apfelweinwirtschaft?",
+          "a": "An Apfelweinwirtschaft is a traditional Frankfurt apple-wine tavern serving Ebbelwoi (fermented apple wine) with hearty Hessian dishes. Most have shaded courtyards that are extremely dog-friendly in summer."
+        },
+        {
+          "q": "Do Frankfurt restaurants provide water bowls for dogs?",
+          "a": "Most traditional taverns do, but if not, ask for a Wassernapf or Leitungswasser — staff typically bring one within minutes."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Francfort ?",
+          "a": "Oui. La loi allemande autorise les chiens dans les établissements de restauration par défaut, sauf interdiction explicite du propriétaire. Sachsenhausen et l'Altstadt comptent des dizaines de tavernes traditionnelles qui les accueillent activement."
+        },
+        {
+          "q": "Qu'est-ce qu'une Apfelweinwirtschaft ?",
+          "a": "Une Apfelweinwirtschaft est une taverne traditionnelle de Francfort servant de l'Ebbelwoi (cidre fermenté) accompagné de plats hessois copieux. La plupart possèdent des cours ombragées très accueillantes pour les chiens en été."
+        },
+        {
+          "q": "Les restaurants de Francfort proposent-ils des gamelles d'eau ?",
+          "a": "La plupart des tavernes traditionnelles oui, sinon demandez un Wassernapf ou Leitungswasser — le personnel en apporte généralement une en quelques minutes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permite la entrada de perros en los restaurantes de Fráncfort?",
+          "a": "Sí. La ley alemana permite a los perros en los establecimientos de hostelería por defecto, salvo prohibición expresa del propietario. Sachsenhausen y la Altstadt cuentan con decenas de tabernas tradicionales que los reciben activamente."
+        },
+        {
+          "q": "¿Qué es una Apfelweinwirtschaft?",
+          "a": "Una Apfelweinwirtschaft es una taberna tradicional de Fráncfort que sirve Ebbelwoi (vino de manzana fermentado) acompañado de platos contundentes de Hesse. La mayoría cuenta con patios sombreados muy acogedores para los perros en verano."
+        },
+        {
+          "q": "¿Ofrecen bol de agua para perros en los restaurantes de Fráncfort?",
+          "a": "La mayoría de las tabernas tradicionales sí; si no, pide un Wassernapf o Leitungswasser — el personal suele traerlo en pocos minutos."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Frankfurt",
+      "titleFr": "Parcs à chiens et espaces verts à Francfort",
+      "titleEs": "Parques para perros y espacios verdes en Fráncfort",
+      "introEn": "Frankfurt is greener than its skyline suggests: more than 52% of the city is protected woodland, parks, or water. The 4,200-hectare Stadtwald to the south is one of the largest urban forests in Germany, and the city runs several fenced Hundeauslaufflächen (off-leash zones) — most notably in Grüneburgpark. Outside these zones, dogs must be leashed in public parks per Hessian state law.",
+      "introFr": "Francfort est plus verte que son skyline ne le laisse croire : plus de 52% de la ville est bois protégé, parcs ou plans d'eau. Le Stadtwald de 4 200 hectares au sud est l'une des plus grandes forêts urbaines d'Allemagne, et la ville gère plusieurs Hundeauslaufflächen (zones sans laisse clôturées) — notamment dans le Grüneburgpark. Hors de ces zones, la tenue en laisse est obligatoire dans les parcs publics par arrêté du Land de Hesse.",
+      "introEs": "Fráncfort es más verde de lo que sugiere su skyline: más del 52% de la ciudad es bosque protegido, parques o agua. El Stadtwald de 4.200 hectáreas al sur es uno de los mayores bosques urbanos de Alemania, y la ciudad gestiona varias Hundeauslaufflächen (zonas sin correa valladas) — en particular en el Grüneburgpark. Fuera de estas zonas, la correa es obligatoria en los parques públicos según la normativa del estado de Hesse.",
+      "places": [
+        {
+          "name": "Grüneburgpark",
+          "address": "August-Siebert-Straße, 60323 Frankfurt am Main",
+          "neighborhood": "Westend-Nord",
+          "photo": "/images/city-places/frankfurt-parks-gruneburgpark.jpg",
+          "website": "https://frankfurt.de/themen/umwelt-und-gruen/gruenflaechen-parks-waelder/parks/grueneburgpark",
+          "description": "A 29-hectare English-style park in the Westend district featuring a fenced Hundeauslauffläche (off-leash zone) — one of the few official off-leash areas inside the city ring. The rest of the park requires a leash, but the wide lawns and shaded paths make it one of the most pleasant dog walks in central Frankfurt.",
+          "descriptionFr": "Parc de 29 hectares à l'anglaise dans le Westend, doté d'un Hundeauslauffläche clôturé (zone sans laisse) — l'une des rares aires officielles sans laisse à l'intérieur de la ceinture urbaine. Le reste du parc impose la laisse, mais les vastes pelouses et allées ombragées en font l'une des plus agréables promenades canines du centre de Francfort.",
+          "descriptionEs": "Parque de 29 hectáreas de estilo inglés en el Westend, con una Hundeauslauffläche vallada (zona sin correa), una de las pocas áreas oficiales sin correa dentro del anillo urbano. El resto del parque requiere correa, pero sus amplios céspedes y senderos sombreados lo convierten en uno de los paseos caninos más agradables del centro de Fráncfort.",
+          "petPolicy": "Off-leash zone + leash in the rest",
+          "petPolicyFr": "Zone sans laisse + laisse ailleurs",
+          "petPolicyEs": "Zona sin correa + correa en el resto",
+          "size": "29 ha / 72 acres",
+          "facilities": "Fenced off-leash area, waste bag dispensers, water access near the Korean Garden",
+          "facilitiesFr": "Zone sans laisse clôturée, distributeurs de sacs, accès eau près du Jardin coréen",
+          "facilitiesEs": "Zona sin correa vallada, dispensadores de bolsas, acceso al agua cerca del Jardín coreano",
+          "openingHours": "24/7",
+          "tip": "The fenced Hundewiese is on the eastern side near the U-Bahn Holzhausenstraße — arrive before 9:00 on weekends to avoid the regular-dog-walker rush hour.",
+          "tipFr": "La Hundewiese clôturée se trouve côté est, près de la station Holzhausenstraße — arrivez avant 9h le week-end pour éviter la pointe des habitués.",
+          "tipEs": "La Hundewiese vallada está en el lado este, cerca de la parada Holzhausenstraße — llega antes de las 9:00 los fines de semana para evitar la hora punta de los paseadores habituales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Grueneburgpark+Frankfurt"
+        },
+        {
+          "name": "Stadtwald Frankfurt",
+          "address": "Stadtwaldhaus, Isenburger Schneise 14, 60528 Frankfurt am Main",
+          "neighborhood": "Sachsenhausen-Süd",
+          "photo": "/images/city-places/frankfurt-parks-stadtwald-frankfurt.jpg",
+          "website": "https://frankfurt.de/themen/umwelt-und-gruen/gruenflaechen-parks-waelder/stadtwald",
+          "description": "At 4,200 hectares, the Stadtwald is one of the largest city-owned forests in Germany and a weekend paradise for Frankfurt dog owners. Dogs must be on a leash from 1 March to 15 July (the wildlife breeding season) but can otherwise walk freely on the forest trails. The Stadtwaldhaus visitor centre has a small petting zoo, maps, and a café with an outdoor terrace.",
+          "descriptionFr": "Avec ses 4 200 hectares, le Stadtwald est l'une des plus grandes forêts municipales d'Allemagne et un paradis le week-end pour les propriétaires de chiens francfortois. La laisse est obligatoire du 1er mars au 15 juillet (période de reproduction de la faune), mais les chiens peuvent librement arpenter les chemins forestiers le reste de l'année. Le centre d'accueil Stadtwaldhaus dispose d'un petit parc animalier, de cartes et d'un café avec terrasse.",
+          "descriptionEs": "Con 4.200 hectáreas, el Stadtwald es uno de los mayores bosques municipales de Alemania y un paraíso de fin de semana para los dueños de perros de Fráncfort. La correa es obligatoria del 1 de marzo al 15 de julio (época de reproducción de la fauna), pero los perros pueden pasear libremente por los senderos forestales el resto del año. El centro de visitantes Stadtwaldhaus dispone de un pequeño parque de animales, mapas y una cafetería con terraza.",
+          "petPolicy": "Leash 1 Mar–15 Jul, off-leash trails otherwise",
+          "petPolicyFr": "Laisse du 1er mars au 15 juillet, sans laisse hors saison",
+          "petPolicyEs": "Correa del 1 mar al 15 jul, sin correa fuera de temporada",
+          "size": "4,200 ha / 10,378 acres",
+          "facilities": "Waymarked trails, visitor centre, café, waste bag stations along main paths",
+          "facilitiesFr": "Chemins balisés, centre d'accueil, café, stations de sacs sur les axes principaux",
+          "facilitiesEs": "Senderos balizados, centro de visitantes, cafetería, estaciones de bolsas en los senderos principales",
+          "openingHours": "24/7",
+          "tip": "Pick up a free trail map at the Stadtwaldhaus to stay on the main waymarked routes — wild boar are present and you should keep your dog close even in the off-leash season.",
+          "tipFr": "Récupérez la carte gratuite des sentiers au Stadtwaldhaus pour rester sur les axes balisés — les sangliers sont présents et il vaut mieux garder son chien près de soi même hors saison de laisse.",
+          "tipEs": "Coge un mapa gratuito de los senderos en el Stadtwaldhaus para ceñirte a las rutas balizadas: hay jabalíes en la zona y conviene mantener al perro cerca incluso fuera de temporada de correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtwald+Frankfurt+Stadtwaldhaus"
+        },
+        {
+          "name": "Niddapark",
+          "address": "Olof-Palme-Straße, 60439 Frankfurt am Main",
+          "neighborhood": "Nordweststadt",
+          "photo": "/images/city-places/frankfurt-parks-niddapark.jpg",
+          "website": "https://frankfurt.de/themen/umwelt-und-gruen/gruenflaechen-parks-waelder/parks/niddapark",
+          "description": "At 168 hectares, the Niddapark is Frankfurt's largest inner-city park — created for the 1989 Federal Garden Show and beloved by local dog walkers. A dedicated Hundeauslauffläche sits on the eastern edge, and the park's long meadows and paved circular paths are excellent for jogging with a dog on leash.",
+          "descriptionFr": "Avec ses 168 hectares, le Niddapark est le plus grand parc intra-urbain de Francfort — créé pour l'exposition horticole fédérale de 1989 et adoré des propriétaires de chiens du quartier. Un Hundeauslauffläche dédié se trouve sur la frange est, et les longues prairies et allées circulaires pavées sont parfaites pour faire son footing avec un chien en laisse.",
+          "descriptionEs": "Con 168 hectáreas, el Niddapark es el mayor parque intraurbano de Fráncfort — creado para la Exposición Federal de Jardinería de 1989 y muy querido por los dueños de perros del barrio. Una Hundeauslauffläche específica se ubica en el borde este, y las largas praderas y senderos circulares pavimentados son perfectos para correr con el perro con correa.",
+          "petPolicy": "Off-leash zone + leash in the rest",
+          "petPolicyFr": "Zone sans laisse + laisse ailleurs",
+          "petPolicyEs": "Zona sin correa + correa en el resto",
+          "size": "168 ha / 415 acres",
+          "facilities": "Hundeauslauffläche, jogging/cycling paths, waste bag dispensers, public toilets",
+          "facilitiesFr": "Hundeauslauffläche, pistes jogging/vélo, distributeurs de sacs, toilettes publiques",
+          "facilitiesEs": "Hundeauslauffläche, pistas para correr/bici, dispensadores de bolsas, aseos públicos",
+          "openingHours": "24/7",
+          "tip": "The park is wide-open with little shade — on summer afternoons, take the 6 km perimeter loop early morning or after 18:00 to avoid heat stress on your dog's paws.",
+          "tipFr": "Le parc est très ouvert et peu ombragé — les après-midis d'été, faites le tour de 6 km tôt le matin ou après 18h pour éviter le stress thermique sur les coussinets.",
+          "tipEs": "El parque es muy abierto y con poca sombra: en tardes de verano, haz el circuito perimetral de 6 km a primera hora o después de las 18:00 para evitar el estrés térmico en las almohadillas de tu perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Niddapark+Frankfurt"
+        }
+      ],
+      "tipsEn": [
+        "Frankfurt has fewer than ten official off-leash zones — the fenced Hundeauslaufflächen in Grüneburgpark, Niddapark and Ostpark are the reliable go-to spots.",
+        "The Stadtwald breeding-season leash rule (1 March–15 July) is enforced by forest rangers with spot fines up to €75 per offence.",
+        "Frankfurt requires a Hundesteuer (dog-tax tag) visible on the collar — visitors are exempt but should carry proof of rabies vaccination."
+      ],
+      "tipsFr": [
+        "Francfort compte moins de dix zones sans laisse officielles — les Hundeauslaufflächen clôturés de Grüneburgpark, Niddapark et Ostpark sont les valeurs sûres.",
+        "La règle laisse obligatoire du Stadtwald (1er mars–15 juillet) est contrôlée par les gardes forestiers avec des amendes jusqu'à 75 € par infraction.",
+        "Francfort exige le port visible de la médaille Hundesteuer (taxe canine) sur le collier — les visiteurs en sont exemptés mais doivent présenter une preuve de vaccination antirabique."
+      ],
+      "tipsEs": [
+        "Fráncfort cuenta con menos de diez zonas sin correa oficiales — las Hundeauslaufflächen valladas de Grüneburgpark, Niddapark y Ostpark son las opciones seguras.",
+        "La norma de correa obligatoria del Stadtwald (1 mar–15 jul) la aplican los guardas forestales con multas de hasta 75 € por infracción.",
+        "Fráncfort exige que la chapa Hundesteuer (impuesto canino) sea visible en el collar — los visitantes están exentos pero deben llevar prueba de vacunación antirrábica."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run off-leash in Frankfurt?",
+          "a": "Only in the fenced Hundeauslaufflächen inside official parks (Grüneburgpark, Niddapark, Ostpark) and in the Stadtwald outside the 1 March–15 July breeding season. Everywhere else a leash is required."
+        },
+        {
+          "q": "Are dogs allowed in the Palmengarten or Botanical Garden?",
+          "a": "No — both the Palmengarten and the Botanischer Garten prohibit dogs entirely. The nearby Grüneburgpark is the dog-friendly alternative."
+        },
+        {
+          "q": "Do I need to carry waste bags in Frankfurt?",
+          "a": "Yes. Not picking up dog waste is fined up to €150. Most parks have free Kotbeutel dispensers along the main paths."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils courir sans laisse à Francfort ?",
+          "a": "Uniquement dans les Hundeauslaufflächen clôturés des parcs officiels (Grüneburgpark, Niddapark, Ostpark) et dans le Stadtwald hors période de reproduction (1er mars–15 juillet). Partout ailleurs la laisse est obligatoire."
+        },
+        {
+          "q": "Les chiens sont-ils admis au Palmengarten ou au Jardin botanique ?",
+          "a": "Non — le Palmengarten et le Botanischer Garten interdisent totalement les chiens. Le Grüneburgpark voisin est l'alternative dog-friendly."
+        },
+        {
+          "q": "Dois-je porter des sacs ramasse-crotte à Francfort ?",
+          "a": "Oui. Ne pas ramasser les déjections est sanctionné jusqu'à 150 €. La plupart des parcs disposent de distributeurs gratuits de Kotbeutel sur les axes principaux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden los perros correr sin correa en Fráncfort?",
+          "a": "Solo en las Hundeauslaufflächen valladas de los parques oficiales (Grüneburgpark, Niddapark, Ostpark) y en el Stadtwald fuera de la temporada de reproducción (1 mar–15 jul). En todos los demás lugares la correa es obligatoria."
+        },
+        {
+          "q": "¿Se permiten perros en el Palmengarten o el Jardín Botánico?",
+          "a": "No — tanto el Palmengarten como el Botanischer Garten prohíben los perros por completo. El vecino Grüneburgpark es la alternativa dog-friendly."
+        },
+        {
+          "q": "¿Debo llevar bolsas para recoger en Fráncfort?",
+          "a": "Sí. No recoger las deposiciones se multa hasta con 150 €. La mayoría de los parques disponen de dispensadores gratuitos de Kotbeutel en los senderos principales."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Dogs in Frankfurt",
+      "titleFr": "Se déplacer avec son chien à Francfort",
+      "titleEs": "Viajar con perro en Fráncfort",
+      "introEn": "Frankfurt's public transport is run by the RMV (Rhein-Main-Verkehrsverbund) and its policy is one of the most dog-friendly in Germany. Small dogs travelling in a closed carrier ride free; larger dogs need a half-price child ticket, must be leashed at all times, and may be asked to wear a muzzle if the vehicle is crowded. The rule applies identically on U-Bahn, S-Bahn, tram, bus and regional trains within the RMV network.",
+      "introFr": "Les transports publics de Francfort sont exploités par le RMV (Rhein-Main-Verkehrsverbund) et leur politique est l'une des plus dog-friendly d'Allemagne. Les petits chiens voyageant en cage fermée sont gratuits ; les chiens plus grands nécessitent un billet enfant demi-tarif, doivent être tenus en laisse et peuvent être tenus de porter une muselière si le véhicule est bondé. La règle s'applique à l'identique sur U-Bahn, S-Bahn, tram, bus et trains régionaux du réseau RMV.",
+      "introEs": "El transporte público de Fráncfort lo gestiona el RMV (Rhein-Main-Verkehrsverbund) y su política es una de las más dog-friendly de Alemania. Los perros pequeños que viajan en transportín cerrado son gratuitos; los más grandes necesitan un billete infantil a mitad de precio, deben ir con correa en todo momento y pueden tener que llevar bozal si el vehículo va lleno. La regla se aplica igual en U-Bahn, S-Bahn, tranvía, bus y trenes regionales dentro de la red RMV.",
+      "places": [
+        {
+          "name": "RMV Frankfurt public transport",
+          "address": "U-Bahn, S-Bahn, tram, bus — entire Rhein-Main network",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/frankfurt-transport-rmv-frankfurt-public-transport.jpg",
+          "website": "https://www.rmv.de/",
+          "description": "The RMV network covers Frankfurt and the entire Rhein-Main region. Dogs in carriers travel free; larger dogs pay the child fare (Kinderfahrkarte), must be on a short leash, and a muzzle may be requested by staff during peak hours. Tickets are sold at all station machines and in the RMV app.",
+          "descriptionFr": "Le réseau RMV couvre Francfort et toute la région Rhin-Main. Les chiens en cage voyagent gratuitement ; les plus grands paient le tarif enfant (Kinderfahrkarte), doivent être tenus en laisse courte et le personnel peut demander le port d'une muselière aux heures de pointe. Billets vendus à tous les automates et dans l'appli RMV.",
+          "descriptionEs": "La red RMV cubre Fráncfort y toda la región de Rin-Meno. Los perros en transportín viajan gratis; los más grandes pagan la tarifa infantil (Kinderfahrkarte), deben llevar correa corta y el personal puede exigir bozal en hora punta. Los billetes se venden en todas las máquinas de estación y en la app RMV.",
+          "petPolicy": "Small dogs free (carrier); large dogs child ticket + leash + possible muzzle",
+          "petPolicyFr": "Petits chiens gratuits (cage) ; grands chiens billet enfant + laisse + muselière possible",
+          "petPolicyEs": "Perros pequeños gratis (transportín); grandes, billete infantil + correa + posible bozal",
+          "googleMapsUrl": "https://maps.google.com/?q=Frankfurt+Hauptbahnhof"
+        }
+      ],
+      "tipsEn": [
+        "Avoid rush hours (7:30–9:00 and 16:30–18:30) — trams and U-Bahn carriages fill quickly and muzzle requests become more common.",
+        "For longer trips, an RMV day ticket (Tageskarte) also covers the dog's fare at the child rate — cheaper than per-trip tickets if you're sightseeing.",
+        "Many Frankfurt taxis accept dogs but drivers may charge a €5–10 surcharge; book through Taxi Frankfurt (069 230001) and mention the dog when calling."
+      ],
+      "tipsFr": [
+        "Évitez les heures de pointe (7h30–9h et 16h30–18h30) — les rames de tram et U-Bahn se remplissent vite et les demandes de muselière deviennent fréquentes.",
+        "Pour les longs trajets, un RMV Tageskarte (ticket journée) couvre aussi le chien au tarif enfant — plus économique que les billets au trajet si vous visitez.",
+        "Beaucoup de taxis francfortois acceptent les chiens mais appliquent un supplément de 5 à 10 € ; passez par Taxi Frankfurt (069 230001) et signalez l'animal à la réservation."
+      ],
+      "tipsEs": [
+        "Evita las horas punta (7:30–9:00 y 16:30–18:30): los trenes U-Bahn y tranvías se llenan rápido y las peticiones de bozal son más frecuentes.",
+        "Para trayectos largos, un Tageskarte del RMV (billete diario) cubre también al perro a tarifa infantil: más barato que comprar por trayecto si haces turismo.",
+        "Muchos taxis de Fráncfort admiten perros pero los conductores pueden cobrar un recargo de 5–10 €; reserva por Taxi Frankfurt (069 230001) y menciona al perro al llamar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need to pay for my dog on Frankfurt public transport?",
+          "a": "Only for dogs too large to fit in a closed carrier. Larger dogs require a Kinderfahrkarte (child ticket, about half the adult fare). Small dogs in carriers ride free."
+        },
+        {
+          "q": "Is a muzzle required on Frankfurt buses and trams?",
+          "a": "Not by default, but drivers and controllers can ask you to muzzle your dog if the vehicle is crowded or if the dog appears anxious. Carry a soft muzzle as a precaution."
+        },
+        {
+          "q": "Can dogs travel on long-distance ICE trains from Frankfurt Hauptbahnhof?",
+          "a": "Yes — Deutsche Bahn allows dogs on all ICE, IC and EC trains. Small dogs in carriers are free; larger dogs need a Hundeticket (half the adult fare) and must be leashed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Dois-je payer pour mon chien dans les transports de Francfort ?",
+          "a": "Uniquement pour les chiens trop grands pour tenir dans une cage fermée. Les grands chiens nécessitent une Kinderfahrkarte (billet enfant, environ la moitié du tarif adulte). Les petits chiens en cage voyagent gratuitement."
+        },
+        {
+          "q": "La muselière est-elle obligatoire dans les bus et tramways de Francfort ?",
+          "a": "Pas par défaut, mais les conducteurs et contrôleurs peuvent l'exiger si le véhicule est bondé ou si le chien paraît anxieux. Emportez une muselière souple par précaution."
+        },
+        {
+          "q": "Les chiens peuvent-ils voyager dans les ICE longue distance au départ de la Hauptbahnhof ?",
+          "a": "Oui — la Deutsche Bahn accepte les chiens dans tous les ICE, IC et EC. Petits chiens en cage gratuits ; grands chiens avec Hundeticket (demi-tarif adulte) et laisse obligatoire."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Debo pagar por mi perro en el transporte público de Fráncfort?",
+          "a": "Solo para perros demasiado grandes para caber en un transportín cerrado. Los perros más grandes requieren un Kinderfahrkarte (billete infantil, aproximadamente la mitad de la tarifa adulta). Los perros pequeños en transportín viajan gratis."
+        },
+        {
+          "q": "¿Es obligatorio el bozal en autobuses y tranvías de Fráncfort?",
+          "a": "No por defecto, pero los conductores y revisores pueden exigirlo si el vehículo va lleno o si el perro parece ansioso. Lleva un bozal flexible por precaución."
+        },
+        {
+          "q": "¿Pueden los perros viajar en trenes ICE de larga distancia desde la Hauptbahnhof?",
+          "a": "Sí — Deutsche Bahn admite perros en todos los ICE, IC y EC. Perros pequeños en transportín gratis; los más grandes necesitan un Hundeticket (media tarifa adulta) y correa obligatoria."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Frankfurt",
+      "titleFr": "Plages acceptant les chiens près de Francfort",
+      "titleEs": "Playas dog-friendly cerca de Fráncfort",
+      "introEn": "Content coming soon. Frankfurt is a landlocked city and has no natural beaches — river swimming in the Main is prohibited for both people and dogs. For dog-friendly lakeside bathing, most residents drive one hour south to the Langener Waldsee or two hours to the North Sea. We are verifying current rules before listing.",
+      "introFr": "Contenu à venir. Francfort est une ville enclavée sans plage naturelle — la baignade dans le Main est interdite aux humains comme aux chiens. Pour nager au bord d'un lac, la plupart des habitants roulent une heure vers le sud jusqu'au Langener Waldsee ou deux heures jusqu'à la mer du Nord. Nous vérifions les règles à jour avant d'en publier une liste.",
+      "introEs": "Contenido próximamente. Fráncfort es una ciudad sin litoral y no tiene playas naturales — el baño en el Main está prohibido tanto a personas como a perros. Para darse un baño a la orilla de un lago, la mayoría de los residentes conducen una hora al sur hasta el Langener Waldsee o dos horas hasta el mar del Norte. Estamos verificando las normas actuales antes de publicar la lista.",
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Frankfurt",
+      "titleFr": "Vétérinaires d'urgence à Francfort",
+      "titleEs": "Veterinarios de urgencias en Fráncfort",
+      "introEn": "Frankfurt has two 24/7 emergency veterinary clinics within the city limits plus multiple specialist centres in nearby Offenbach and Bad Homburg. For out-of-hours care, the Kleintierklinik Bockenheim and the Tierklinik Kalbach are the standard references and both accept walk-ins.",
+      "introFr": "Francfort dispose de deux cliniques vétérinaires d'urgence ouvertes 24h/24 dans la ville même, plus plusieurs centres spécialisés à Offenbach et Bad Homburg. Pour les urgences en dehors des heures, la Kleintierklinik Bockenheim et la Tierklinik Kalbach sont les références standard et acceptent les consultations sans rendez-vous.",
+      "introEs": "Fráncfort cuenta con dos clínicas veterinarias de urgencias abiertas 24/7 dentro de la ciudad, además de varios centros especializados en Offenbach y Bad Homburg. Para atención fuera de horario, la Kleintierklinik Bockenheim y la Tierklinik Kalbach son las referencias habituales y ambas admiten visitas sin cita.",
+      "places": [
+        {
+          "name": "Kleintierklinik Frankfurt Bockenheim",
+          "address": "Juliusstraße 12, 60487 Frankfurt am Main",
+          "neighborhood": "Bockenheim",
+          "phone": "+49 69 97074955",
+          "photo": "/images/city-places/frankfurt-vets-kleintierklinik-frankfurt-bockenheim.jpg",
+          "website": "https://www.kleintierklinik-frankfurt.de/",
+          "description": "A full-service small-animal hospital in central Bockenheim with 24-hour emergency care, surgery, imaging (CT, ultrasound) and dental services. Staffed overnight by a veterinarian and two nurses; the clinic accepts walk-ins but calling ahead is recommended for non-critical cases.",
+          "descriptionFr": "Hôpital vétérinaire pour petits animaux en plein Bockenheim, avec urgences 24h/24, chirurgie, imagerie (scanner, échographie) et soins dentaires. Un vétérinaire et deux infirmiers assurent la garde nocturne ; la clinique accepte les consultations sans rendez-vous mais un appel préalable est conseillé pour les cas non critiques.",
+          "descriptionEs": "Hospital veterinario de pequeños animales en pleno Bockenheim, con urgencias 24h, cirugía, imagen (TAC, ecografía) y odontología. Durante la noche cuenta con un veterinario y dos auxiliares; la clínica admite visitas sin cita pero se recomienda llamar antes en casos no críticos.",
+          "petPolicy": "24/7 emergency walk-ins accepted",
+          "petPolicyFr": "Urgences 24h/24 sans rendez-vous",
+          "petPolicyEs": "Urgencias 24/7 con visita sin cita",
+          "services": "Emergency, surgery, imaging, dental, dermatology",
+          "servicesFr": "Urgences, chirurgie, imagerie, dentaire, dermatologie",
+          "servicesEs": "Urgencias, cirugía, imagen, dental, dermatología",
+          "openingHours": "24/7",
+          "tip": "Bring your dog's EU pet passport and vaccination record — German clinics log this in the electronic file on the first visit and it speeds up triage significantly.",
+          "tipFr": "Apportez le passeport européen et le carnet de vaccination — les cliniques allemandes enregistrent ces documents au dossier dès la première visite et cela accélère beaucoup le triage.",
+          "tipEs": "Lleva el pasaporte europeo y la cartilla de vacunación — las clínicas alemanas lo registran en el expediente electrónico en la primera visita y acelera mucho el triaje.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierklinik+Bockenheim+Juliusstrasse+12+Frankfurt"
+        },
+        {
+          "name": "Tierklinik Kalbach",
+          "address": "Max-Holder-Straße 37, 60437 Frankfurt am Main",
+          "neighborhood": "Kalbach-Riedberg",
+          "phone": "+49 69 300651550",
+          "photo": "/images/city-places/frankfurt-vets-tierklinik-kalbach.jpg",
+          "website": "https://www.tierklinik-kalbach.de/",
+          "description": "A large referral clinic in northern Frankfurt offering 24-hour emergency intake, specialist internal medicine, orthopaedic surgery, oncology and cardiology. Well known among Frankfurt expats for English-speaking staff and transparent pricing.",
+          "descriptionFr": "Grande clinique de référence au nord de Francfort offrant un accueil d'urgence 24h/24, médecine interne spécialisée, chirurgie orthopédique, oncologie et cardiologie. Très prisée des expatriés francfortois pour son personnel anglophone et sa tarification transparente.",
+          "descriptionEs": "Gran clínica de referencia al norte de Fráncfort, con admisión de urgencias 24/7, medicina interna especializada, cirugía ortopédica, oncología y cardiología. Muy valorada entre los expatriados de Fráncfort por su personal anglófono y sus tarifas transparentes.",
+          "petPolicy": "24/7 emergency walk-ins accepted",
+          "petPolicyFr": "Urgences 24h/24 sans rendez-vous",
+          "petPolicyEs": "Urgencias 24/7 con visita sin cita",
+          "services": "Emergency, internal medicine, orthopaedics, oncology, cardiology",
+          "servicesFr": "Urgences, médecine interne, orthopédie, oncologie, cardiologie",
+          "servicesEs": "Urgencias, medicina interna, ortopedia, oncología, cardiología",
+          "openingHours": "24/7",
+          "tip": "Parking is generous and free — an important detail at 3 AM. If you arrive outside reception hours, ring the emergency bell on the left side of the main door.",
+          "tipFr": "Parking généreux et gratuit — un détail important à 3h du matin. Hors heures d'accueil, sonnez la cloche d'urgence à gauche de la porte principale.",
+          "tipEs": "Aparcamiento amplio y gratuito — un detalle importante a las 3 de la madrugada. Fuera de horario de recepción, toca el timbre de urgencias a la izquierda de la puerta principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Kalbach+Max-Holder-Strasse+Frankfurt"
+        }
+      ],
+      "tipsEn": [
+        "Germany has no universal pet emergency hotline — save both clinic numbers in your phone before arrival: Kleintierklinik Bockenheim (069 97074955) and Tierklinik Kalbach (069 300651550).",
+        "Animal poison control is handled by the GIZ-Nord human poison centre (0551 19240) which also advises on pet cases around the clock.",
+        "Most Frankfurt clinics accept EU pet insurance (Petplan, Agila) but require upfront payment — keep your policy number and receipt for reimbursement."
+      ],
+      "tipsFr": [
+        "L'Allemagne n'a pas de numéro national d'urgence vétérinaire — enregistrez les deux cliniques dans votre téléphone avant d'arriver : Kleintierklinik Bockenheim (069 97074955) et Tierklinik Kalbach (069 300651550).",
+        "Le centre antipoison vétérinaire passe par le GIZ-Nord humain (0551 19240), qui conseille aussi sur les animaux 24h/24.",
+        "La plupart des cliniques francfortoises acceptent les assurances européennes (Petplan, Agila) mais exigent un paiement immédiat — gardez numéro de police et reçu pour le remboursement."
+      ],
+      "tipsEs": [
+        "Alemania no tiene un número nacional de urgencias veterinarias: guarda ambas clínicas en tu móvil antes de llegar — Kleintierklinik Bockenheim (069 97074955) y Tierklinik Kalbach (069 300651550).",
+        "El centro de toxicología veterinaria pasa por el GIZ-Nord humano (0551 19240), que también atiende casos de animales las 24 horas.",
+        "La mayoría de clínicas francofurtesas aceptan seguros europeos (Petplan, Agila) pero exigen pago inmediato: guarda el número de póliza y el recibo para el reembolso."
+      ],
+      "faqsEn": [
+        {
+          "q": "Which vet clinic in Frankfurt is open 24/7?",
+          "a": "Two clinics run a full 24-hour emergency service inside the city: Kleintierklinik Bockenheim (Juliusstraße 12, 069 97074955) and Tierklinik Kalbach (Max-Holder-Str. 37, 069 300651550)."
+        },
+        {
+          "q": "Will a Frankfurt vet accept walk-ins?",
+          "a": "Yes, both of the 24/7 clinics accept walk-in emergencies. During the day most regular practices require an appointment — call ahead unless it's urgent."
+        },
+        {
+          "q": "How much does an emergency vet visit cost in Frankfurt?",
+          "a": "Baseline out-of-hours consultation is typically €80–120, plus diagnostics. German law (GOT) sets the scale — clinics must display it on request."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle clinique vétérinaire est ouverte 24h/24 à Francfort ?",
+          "a": "Deux cliniques offrent un service d'urgence 24h/24 en ville : Kleintierklinik Bockenheim (Juliusstraße 12, 069 97074955) et Tierklinik Kalbach (Max-Holder-Str. 37, 069 300651550)."
+        },
+        {
+          "q": "Un vétérinaire francfortois accepte-t-il les consultations sans rendez-vous ?",
+          "a": "Oui, les deux cliniques 24h/24 prennent les urgences sans rendez-vous. En journée la plupart des cabinets classiques exigent un rendez-vous — appelez avant, sauf urgence."
+        },
+        {
+          "q": "Combien coûte une urgence vétérinaire à Francfort ?",
+          "a": "La consultation d'urgence de base tourne autour de 80 à 120 €, hors examens. Le barème GOT est fixé par la loi allemande — les cliniques doivent l'afficher sur demande."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué clínica veterinaria abre 24/7 en Fráncfort?",
+          "a": "Dos clínicas ofrecen urgencias 24/7 en la ciudad: Kleintierklinik Bockenheim (Juliusstraße 12, 069 97074955) y Tierklinik Kalbach (Max-Holder-Str. 37, 069 300651550)."
+        },
+        {
+          "q": "¿Un veterinario de Fráncfort admite visitas sin cita?",
+          "a": "Sí, las dos clínicas 24/7 atienden urgencias sin cita. Durante el día la mayoría de las consultas habituales exigen cita previa — llama antes salvo urgencia."
+        },
+        {
+          "q": "¿Cuánto cuesta una urgencia veterinaria en Fráncfort?",
+          "a": "La consulta de urgencia base ronda los 80–120 €, sin contar pruebas. La tarifa GOT la fija la ley alemana — las clínicas deben mostrarla a petición."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Pet Travel Tips for Frankfurt",
+      "titleFr": "Conseils essentiels pour voyager avec son animal à Francfort",
+      "titleEs": "Consejos esenciales para viajar con mascotas a Fráncfort",
+      "introEn": "Frankfurt is one of the most pet-welcoming large cities in Germany, but a few local rules catch visitors off guard: mandatory leash laws in most public spaces, the Hundesteuer (dog tax) displayed on collars, and pet-friendly indoor restaurants that close earlier than in southern Europe. These tips cover the essentials before and during your stay.",
+      "introFr": "Francfort est l'une des grandes villes les plus accueillantes d'Allemagne pour les animaux, mais quelques règles locales surprennent les visiteurs : laisse obligatoire dans la plupart des espaces publics, médaille Hundesteuer (taxe canine) sur le collier, et restaurants d'intérieur qui ferment plus tôt qu'en Europe du sud. Ces conseils couvrent l'essentiel avant et pendant votre séjour.",
+      "introEs": "Fráncfort es una de las grandes ciudades más acogedoras de Alemania para las mascotas, pero algunas reglas locales sorprenden a los visitantes: correa obligatoria en casi todos los espacios públicos, chapa Hundesteuer (impuesto canino) en el collar, y restaurantes de interior que cierran antes que en el sur de Europa. Estos consejos cubren lo esencial antes y durante tu estancia.",
+      "places": [],
+      "tipsEn": [
+        "Frankfurt has a strict Leinenpflicht (leash law) enforced in all public spaces except fenced Hundeauslaufflächen — fines start at €35.",
+        "A muzzle is not required for most breeds but IS required in public transport for listed breeds (Am. Staffordshire, Pit Bull, Bullterrier, Rottweiler) — carry a soft muzzle if your dog is in doubt.",
+        "Frankfurt summers have short but intense heatwaves (35°C+ possible in July) — asphalt temperatures on the Bankenviertel streets reach 55°C; plan walks early or after 19:00.",
+        "Every German pet-friendly hotel requires the EU pet passport and valid rabies vaccination at check-in — no exceptions.",
+        "Frankfurt Airport (FRA) offers the Animal Lounge for transit pets; dog-friendly relief areas are located outside Terminals 1 and 2 near the short-term car parks."
+      ],
+      "tipsFr": [
+        "Francfort applique une Leinenpflicht (laisse obligatoire) stricte dans tous les espaces publics sauf les Hundeauslaufflächen clôturés — amendes à partir de 35 €.",
+        "La muselière n'est pas obligatoire pour la plupart des races mais L'EST dans les transports publics pour les races listées (Am. Staffordshire, Pit Bull, Bullterrier, Rottweiler) — emportez une muselière souple en cas de doute.",
+        "Les étés de Francfort connaissent des canicules courtes mais intenses (35 °C possibles en juillet) — l'asphalte du Bankenviertel atteint 55 °C ; promenez tôt le matin ou après 19h.",
+        "Tout hôtel pet-friendly allemand exige le passeport européen et la vaccination antirabique valide à l'enregistrement — sans exception.",
+        "L'aéroport de Francfort (FRA) dispose de l'Animal Lounge pour les animaux en transit ; des aires de détente dog-friendly se trouvent à l'extérieur des Terminals 1 et 2, près des parkings courte durée."
+      ],
+      "tipsEs": [
+        "Fráncfort aplica una Leinenpflicht (correa obligatoria) estricta en todos los espacios públicos salvo en las Hundeauslaufflächen valladas — las multas parten de 35 €.",
+        "El bozal no es obligatorio para la mayoría de las razas pero SÍ lo es en transporte público para las razas listadas (Am. Staffordshire, Pit Bull, Bullterrier, Rottweiler) — lleva un bozal flexible en caso de duda.",
+        "Los veranos de Fráncfort tienen olas de calor cortas pero intensas (35 °C posibles en julio) — el asfalto del Bankenviertel alcanza 55 °C; pasea temprano o después de las 19:00.",
+        "Cualquier hotel pet-friendly alemán exige el pasaporte europeo y la vacunación antirrábica vigente en el check-in — sin excepción.",
+        "El aeropuerto de Fráncfort (FRA) dispone de Animal Lounge para mascotas en tránsito; las zonas de esparcimiento dog-friendly están fuera de las Terminales 1 y 2, junto a los aparcamientos de corta duración."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Frankfurt a good city to visit with a dog?",
+          "a": "Yes — it's one of the most dog-friendly large German cities, with extensive parks, pet-welcoming restaurants in Sachsenhausen, strong public transport access, and two 24/7 emergency vet clinics in the city."
+        },
+        {
+          "q": "Do I need any special paperwork to bring my dog to Frankfurt?",
+          "a": "For EU residents: the EU pet passport with valid rabies vaccination. For non-EU: an EU animal health certificate issued within 10 days of entry plus the rabies titer test for certain countries."
+        },
+        {
+          "q": "Are there breed restrictions in Frankfurt?",
+          "a": "Yes. Hesse classifies American Pit Bull Terrier, American Staffordshire Terrier, Bullterrier and Rottweiler as Listenhunde with stricter leash and muzzle rules; owners may need a special permit for residence."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Francfort est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui — c'est l'une des grandes villes allemandes les plus dog-friendly, avec de nombreux parcs, des restaurants accueillants à Sachsenhausen, un bon accès aux transports publics et deux cliniques d'urgence 24h/24 en ville."
+        },
+        {
+          "q": "Des documents spécifiques sont-ils exigés pour emmener mon chien à Francfort ?",
+          "a": "Pour les résidents UE : passeport européen avec vaccination antirabique valide. Hors UE : certificat sanitaire UE émis dans les 10 jours précédant l'entrée, plus titrage antirabique pour certains pays."
+        },
+        {
+          "q": "Existe-t-il des restrictions de race à Francfort ?",
+          "a": "Oui. La Hesse classe l'American Pit Bull Terrier, l'American Staffordshire Terrier, le Bullterrier et le Rottweiler comme Listenhunde, avec règles de laisse et muselière renforcées ; un permis spécial peut être requis en cas de résidence."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Fráncfort una buena ciudad para visitar con perro?",
+          "a": "Sí — es una de las grandes ciudades alemanas más dog-friendly, con amplios parques, restaurantes acogedores en Sachsenhausen, buen acceso al transporte público y dos clínicas veterinarias de urgencia 24/7 en la ciudad."
+        },
+        {
+          "q": "¿Necesito papeles especiales para llevar mi perro a Fráncfort?",
+          "a": "Residentes UE: pasaporte europeo con vacunación antirrábica vigente. Fuera de la UE: certificado sanitario UE emitido en los 10 días anteriores a la entrada, además de prueba de título antirrábico para ciertos países."
+        },
+        {
+          "q": "¿Hay restricciones de raza en Fráncfort?",
+          "a": "Sí. Hesse clasifica al American Pit Bull Terrier, American Staffordshire Terrier, Bullterrier y Rottweiler como Listenhunde, con normas de correa y bozal reforzadas; en caso de residencia puede exigirse permiso especial."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Frankfurt",
+      "titleFr": "Attractions acceptant les chiens à Francfort",
+      "titleEs": "Atracciones dog-friendly en Fráncfort",
+      "introEn": "Frankfurt's most iconic sights — the Altstadt, the Main riverbanks, and the Eiserner Steg footbridge — are all fully walkable with a leashed dog. Museums are generally off-limits (the Museumsufer cluster bans pets entirely), but the surrounding Mainufer promenade is one of the best riverside walks in Germany.",
+      "introFr": "Les sites les plus emblématiques de Francfort — l'Altstadt, les rives du Main et la passerelle Eiserner Steg — se parcourent intégralement avec un chien en laisse. Les musées sont en règle générale interdits (le Museumsufer bannit totalement les animaux), mais la promenade Mainufer qui les longe est l'une des plus belles balades de bord de fleuve en Allemagne.",
+      "introEs": "Los lugares más emblemáticos de Fráncfort — la Altstadt, las orillas del Main y la pasarela Eiserner Steg — se pueden recorrer completamente con el perro con correa. Los museos suelen estar vetados (el Museumsufer prohíbe totalmente los animales), pero el paseo Mainufer que los bordea es uno de los más bellos de ribera de Alemania.",
+      "places": [
+        {
+          "name": "Römerberg and Altstadt",
+          "address": "Römerberg, 60311 Frankfurt am Main",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/frankfurt-attractions-romerberg-and-altstadt.jpg",
+          "website": "https://frankfurt-tourismus.de/",
+          "description": "Frankfurt's medieval central square, rebuilt after WWII with its iconic half-timbered façades. Fully walkable with a leashed dog; the cobbled Paulsplatz and Römerberg host open-air markets and Christmas stalls where dogs are welcome outside.",
+          "descriptionFr": "Place centrale médiévale de Francfort, reconstruite après-guerre avec ses emblématiques façades à colombages. Entièrement accessible avec un chien en laisse ; le Paulsplatz pavé et le Römerberg accueillent des marchés en plein air et les chalets de Noël, où les chiens sont bienvenus à l'extérieur.",
+          "descriptionEs": "Plaza central medieval de Fráncfort, reconstruida tras la Segunda Guerra Mundial con sus icónicas fachadas entramadas. Totalmente accesible con perro con correa; el empedrado Paulsplatz y el Römerberg acogen mercados al aire libre y los puestos navideños, donde los perros son bienvenidos en el exterior.",
+          "petPolicy": "Leashed dogs welcome outdoors",
+          "petPolicyFr": "Chiens en laisse bienvenus en extérieur",
+          "petPolicyEs": "Perros con correa bienvenidos al aire libre",
+          "openingHours": "24/7",
+          "tip": "The Römer (city hall) itself does not admit dogs — plan a partner relay if you want to climb the tower.",
+          "tipFr": "Le Römer (hôtel de ville) lui-même n'admet pas les chiens — prévoyez un relais en binôme si vous souhaitez monter à la tour.",
+          "tipEs": "El Römer (ayuntamiento) en sí no admite perros — organiza un relevo con otra persona si quieres subir a la torre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Roemerberg+Frankfurt"
+        },
+        {
+          "name": "Eiserner Steg",
+          "address": "Eiserner Steg, 60311 Frankfurt am Main",
+          "neighborhood": "Altstadt / Sachsenhausen",
+          "photo": "/images/city-places/frankfurt-attractions-eiserner-steg.jpg",
+          "website": "https://frankfurt-tourismus.de/erlebnisse/sehenswuerdigkeiten/eiserner-steg",
+          "description": "A 170-metre pedestrian iron bridge across the Main linking the Altstadt to Sachsenhausen. Fully dog-accessible, with panoramic views of the Frankfurt skyline and the Mainufer museums — one of the city's signature photo spots.",
+          "descriptionFr": "Passerelle piétonne en fer de 170 m enjambant le Main, reliant l'Altstadt à Sachsenhausen. Entièrement accessible aux chiens, elle offre une vue panoramique sur la skyline de Francfort et les musées du Mainufer — l'un des spots photo emblématiques de la ville.",
+          "descriptionEs": "Pasarela peatonal de hierro de 170 m que cruza el Main uniendo la Altstadt con Sachsenhausen. Totalmente accesible para perros, ofrece vistas panorámicas al skyline de Fráncfort y a los museos del Mainufer — uno de los puntos fotográficos emblemáticos de la ciudad.",
+          "petPolicy": "Leashed dogs welcome",
+          "petPolicyFr": "Chiens en laisse bienvenus",
+          "petPolicyEs": "Perros con correa bienvenidos",
+          "openingHours": "24/7",
+          "tip": "The bridge can get windy and crowded during the Mainfest — walk it at sunrise for empty bridge photos and cooler paws.",
+          "tipFr": "Le pont peut être venteux et très fréquenté pendant le Mainfest — traversez-le au lever du soleil pour des photos sans foule et des coussinets au frais.",
+          "tipEs": "El puente puede ser ventoso y estar muy concurrido durante el Mainfest: crúzalo al amanecer para fotos sin gente y almohadillas frescas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Eiserner+Steg+Frankfurt"
+        },
+        {
+          "name": "Mainufer Promenade",
+          "address": "Mainkai / Schaumainkai, 60311 Frankfurt am Main",
+          "neighborhood": "Altstadt / Sachsenhausen",
+          "photo": "/images/city-places/frankfurt-attractions-mainufer-promenade.jpg",
+          "website": "https://frankfurt-tourismus.de/",
+          "description": "A 4 km riverbank promenade that runs along both sides of the Main, past the Museumsufer cluster and under the Eiserner Steg. Flat, wide, paved paths ideal for long walks with a dog; benches, shaded sections under plane trees, and free drinking-water taps in summer.",
+          "descriptionFr": "Promenade fluviale de 4 km longeant les deux rives du Main, passant devant le Museumsufer et sous l'Eiserner Steg. Chemins plats, larges et pavés, idéaux pour les longues promenades canines ; bancs, tronçons ombragés sous les platanes et fontaines publiques en été.",
+          "descriptionEs": "Paseo ribereño de 4 km que recorre ambos lados del Main, pasando por el Museumsufer y bajo el Eiserner Steg. Senderos planos, anchos y pavimentados, ideales para largos paseos con perro; bancos, tramos sombreados bajo plátanos y fuentes de agua potable en verano.",
+          "petPolicy": "Leashed dogs welcome",
+          "petPolicyFr": "Chiens en laisse bienvenus",
+          "petPolicyEs": "Perros con correa bienvenidos",
+          "openingHours": "24/7",
+          "tip": "The Schaumainkai side hosts the Saturday flea market (every second Sat, Mar–Oct) — dogs are welcome but bring water; the market is 3 km long.",
+          "tipFr": "Le Schaumainkai accueille la brocante du samedi (tous les 2e samedis, mars–oct) — les chiens y sont bienvenus mais pensez à l'eau ; le marché fait 3 km de long.",
+          "tipEs": "El lado del Schaumainkai acoge el mercadillo del sábado (cada segundo sábado, mar–oct) — los perros son bienvenidos pero lleva agua; el mercado tiene 3 km de largo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mainufer+Frankfurt+Schaumainkai"
+        }
+      ],
+      "tipsEn": [
+        "The Museumsufer museums (Städel, Liebieghaus, Deutsches Filmmuseum, etc.) all prohibit dogs — the riverside promenade outside is the dog-friendly alternative.",
+        "Frankfurt's main Christmas Market (Römerberg, late Nov–22 Dec) welcomes leashed dogs in the outdoor stalls but not inside the covered food halls.",
+        "The Main Tower observation deck bans dogs; for a skyline view with your dog, walk the Sachsenhausen river promenade at golden hour instead."
+      ],
+      "tipsFr": [
+        "Les musées du Museumsufer (Städel, Liebieghaus, Deutsches Filmmuseum, etc.) interdisent tous les chiens — la promenade fluviale à l'extérieur est l'alternative dog-friendly.",
+        "Le marché de Noël principal (Römerberg, fin nov–22 déc) accueille les chiens en laisse dans les allées extérieures mais pas à l'intérieur des halles gourmandes couvertes.",
+        "Le belvédère de la Main Tower interdit les chiens ; pour une vue skyline avec votre chien, privilégiez la promenade rive Sachsenhausen au coucher du soleil."
+      ],
+      "tipsEs": [
+        "Los museos del Museumsufer (Städel, Liebieghaus, Deutsches Filmmuseum, etc.) prohíben los perros — el paseo ribereño exterior es la alternativa dog-friendly.",
+        "El principal Mercado de Navidad (Römerberg, finales de nov–22 dic) admite perros con correa en los puestos al aire libre pero no dentro de las carpas gastronómicas cubiertas.",
+        "El mirador de la Main Tower prohíbe los perros; para una vista del skyline con tu perro, opta mejor por el paseo ribereño de Sachsenhausen al atardecer."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Frankfurt Zoo or the Palmengarten?",
+          "a": "No. Frankfurt Zoo, the Palmengarten and the Botanischer Garten all prohibit dogs. The Grüneburgpark next to the Palmengarten is a good dog-friendly substitute."
+        },
+        {
+          "q": "Is the Main Tower accessible with a dog?",
+          "a": "The observation deck at the top does not admit dogs. The surrounding Bankenviertel streets are fine for a short leashed walk."
+        },
+        {
+          "q": "Can I bring my dog on a Main river cruise?",
+          "a": "Primus-Linie river cruises from Frankfurt accept leashed dogs on the open-air deck; booking by phone in advance is recommended."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au Zoo de Francfort ou au Palmengarten ?",
+          "a": "Non. Le Zoo de Francfort, le Palmengarten et le Botanischer Garten interdisent tous les chiens. Le Grüneburgpark voisin du Palmengarten est un bon substitut dog-friendly."
+        },
+        {
+          "q": "La Main Tower est-elle accessible avec un chien ?",
+          "a": "Le belvédère au sommet n'admet pas les chiens. Les rues environnantes du Bankenviertel conviennent parfaitement pour une courte promenade en laisse."
+        },
+        {
+          "q": "Mon chien peut-il embarquer sur une croisière sur le Main ?",
+          "a": "Les croisières Primus-Linie au départ de Francfort acceptent les chiens en laisse sur le pont extérieur ; réservation téléphonique préalable conseillée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro al Zoo de Fráncfort o al Palmengarten?",
+          "a": "No. El Zoo de Fráncfort, el Palmengarten y el Botanischer Garten prohíben los perros. El Grüneburgpark junto al Palmengarten es un buen sustituto dog-friendly."
+        },
+        {
+          "q": "¿La Main Tower es accesible con perro?",
+          "a": "El mirador de la cima no admite perros. Las calles del Bankenviertel alrededor están bien para un paseo breve con correa."
+        },
+        {
+          "q": "¿Puedo llevar mi perro en un crucero por el Main?",
+          "a": "Los cruceros Primus-Linie desde Fráncfort admiten perros con correa en la cubierta exterior; se recomienda reservar por teléfono con antelación."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Frankfurt",
+      "titleFr": "Pet sitting et promenade de chiens à Francfort",
+      "titleEs": "Cuidadores y paseadores de perros en Fráncfort",
+      "introEn": "Frankfurt has a strong professional pet-care market driven by its expat community and banking workforce. Pawshake, Holidog and Rover all operate in the city with several hundred verified sitters each; day-care centres (Hundetagesstätten) are clustered in Bockenheim, Sachsenhausen and Nordend.",
+      "introFr": "Francfort dispose d'un marché professionnel de garde d'animaux solide, porté par sa communauté expatriée et le monde de la finance. Pawshake, Holidog et Rover sont tous actifs dans la ville avec plusieurs centaines de sitters vérifiés ; les crèches canines (Hundetagesstätten) se concentrent à Bockenheim, Sachsenhausen et Nordend.",
+      "introEs": "Fráncfort cuenta con un sólido mercado profesional de cuidado de animales, impulsado por su comunidad expatriada y el sector bancario. Pawshake, Holidog y Rover operan en la ciudad con varios cientos de cuidadores verificados cada uno; las guarderías caninas (Hundetagesstätten) se concentran en Bockenheim, Sachsenhausen y Nordend.",
+      "places": [
+        {
+          "name": "Pawshake Frankfurt",
+          "address": "Citywide — online booking",
+          "neighborhood": "Entire city",
+          "photo": "/images/city-places/frankfurt-petsitting-pawshake.jpg",
+          "website": "https://www.pawshake.de/dogsitter/frankfurt-am-main",
+          "description": "European pet-sitting marketplace with verified Frankfurt sitters for daily walks, day care, and home boarding. All bookings are covered by insurance and include photo updates; rates typically run €20–35/day for home boarding and €12–18 for a one-hour walk.",
+          "descriptionFr": "Plateforme européenne de pet sitting avec sitters vérifiés à Francfort pour promenades quotidiennes, garderie et pension à domicile. Toutes les réservations sont assurées et incluent des photos ; tarifs 20–35 €/jour pour la pension et 12–18 € la promenade d'une heure.",
+          "descriptionEs": "Plataforma europea de pet sitting con cuidadores verificados en Fráncfort para paseos diarios, guardería y alojamiento a domicilio. Todas las reservas incluyen seguro y fotos; tarifas de 20–35 €/día para alojamiento y 12–18 € por paseo de una hora.",
+          "petPolicy": "Verified sitters, insurance included",
+          "petPolicyFr": "Sitters vérifiés, assurance incluse",
+          "petPolicyEs": "Cuidadores verificados, seguro incluido",
+          "services": "Dog walking, day care, home boarding",
+          "servicesFr": "Promenade, garderie, pension",
+          "servicesEs": "Paseo, guardería, alojamiento",
+          "openingHours": "Online 24/7",
+          "tip": "Filter sitters by German or English language — Frankfurt has many bilingual sitters that are perfect for anxious dogs travelling from abroad.",
+          "tipFr": "Filtrez les sitters par langue (allemand ou anglais) — Francfort compte de nombreux sitters bilingues, idéaux pour les chiens anxieux en voyage à l'étranger.",
+          "tipEs": "Filtra por idioma (alemán o inglés): Fráncfort tiene muchos cuidadores bilingües, perfectos para perros ansiosos que viajan desde fuera.",
+          "googleMapsUrl": "https://maps.google.com/?q=Frankfurt"
+        }
+      ],
+      "tipsEn": [
+        "Book Frankfurt sitters at least 1 week ahead during Messe (trade fair) weeks — hotels fill and pet sitters do too.",
+        "Holidog.com runs a Frankfurt network of tested, insured sitters with 24h cancellation — a good backup if your primary plan falls through.",
+        "Hundetagesstätten (day cares) typically require a trial day plus proof of a current Hundesteuer tag — allow 48 hours for the first booking."
+      ],
+      "tipsFr": [
+        "Réservez les sitters de Francfort au moins une semaine à l'avance pendant les semaines de Messe (salon) — les hôtels sont pleins et les sitters aussi.",
+        "Holidog.com dispose d'un réseau francfortois de sitters testés et assurés avec annulation 24h — bon plan B si votre solution principale tombe à l'eau.",
+        "Les Hundetagesstätten (crèches) exigent généralement un jour d'essai et la preuve d'une médaille Hundesteuer à jour — comptez 48h pour la première inscription."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores de Fráncfort con al menos una semana de antelación durante las semanas de Messe (feria): los hoteles se llenan y los cuidadores también.",
+        "Holidog.com tiene una red francofurtesa de cuidadores verificados y asegurados con cancelación 24h — un buen plan B si tu opción principal falla.",
+        "Las Hundetagesstätten (guarderías) suelen exigir un día de prueba más la chapa Hundesteuer vigente: prevé 48h para la primera inscripción."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does pet sitting cost in Frankfurt?",
+          "a": "Typical Pawshake/Holidog rates are €20–35/night for home boarding, €25–45/day for day care, and €12–18 for a one-hour walk. Rates rise during Messe (Buchmesse, IAA, etc.)."
+        },
+        {
+          "q": "Are Frankfurt pet sitters insured?",
+          "a": "Pawshake and Holidog include third-party liability and veterinary emergency coverage in every booking. Always confirm this before booking with an independent sitter."
+        },
+        {
+          "q": "Is it safe to leave a dog in a Frankfurt hotel room?",
+          "a": "Many Frankfurt hotels (Adina, Scandic, Hamburger Hof) allow dogs in rooms but none allow the dog to be left unattended unless in a crate. Use a local sitter for day outings to museums."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte le pet sitting à Francfort ?",
+          "a": "Les tarifs Pawshake/Holidog sont de 20 à 35 €/nuit pour la pension, 25 à 45 €/jour pour la garderie et 12 à 18 € la promenade d'une heure. Tarifs plus élevés en période de Messe (Buchmesse, IAA, etc.)."
+        },
+        {
+          "q": "Les pet sitters de Francfort sont-ils assurés ?",
+          "a": "Pawshake et Holidog incluent une responsabilité civile et une couverture vétérinaire d'urgence dans chaque réservation. Vérifiez toujours ce point avant de réserver avec un sitter indépendant."
+        },
+        {
+          "q": "Est-il prudent de laisser un chien dans une chambre d'hôtel à Francfort ?",
+          "a": "De nombreux hôtels francfortois (Adina, Scandic, Hamburger Hof) acceptent les chiens en chambre mais aucun n'autorise à les laisser seuls, sauf en cage. Faites appel à un sitter local pour les sorties musées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta el pet sitting en Fráncfort?",
+          "a": "Las tarifas habituales en Pawshake/Holidog son de 20–35 €/noche para alojamiento en casa, 25–45 €/día para guardería y 12–18 € por paseo de una hora. Las tarifas suben en épocas de Messe (Buchmesse, IAA, etc.)."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores de Fráncfort?",
+          "a": "Pawshake y Holidog incluyen responsabilidad civil y cobertura veterinaria de urgencias en todas las reservas. Verifica siempre este punto antes de contratar a un cuidador independiente."
+        },
+        {
+          "q": "¿Es seguro dejar al perro solo en una habitación de hotel en Fráncfort?",
+          "a": "Muchos hoteles de Fráncfort (Adina, Scandic, Hamburger Hof) admiten perros en la habitación pero ninguno permite dejarlos sin vigilancia, salvo en transportín. Recurre a un cuidador local para visitar museos durante el día."
+        }
+      ]
+    }
+  }
+}

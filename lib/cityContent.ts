@@ -1985,6 +1985,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  frankfurt: {
+    history: {
+      fr: `Francfort-sur-le-Main, cité libre du Saint Empire romain germanique et lieu du couronnement des empereurs pendant cinq siècles, est aujourd'hui la capitale financière de l'Allemagne et le siège de la Banque centrale européenne. Derrière sa skyline de gratte-ciel — unique en Europe continentale — se cache une ville étonnamment verte : plus de 52% du territoire est forêt, parc ou plan d'eau, dont le Stadtwald de 4 200 hectares, l'une des plus grandes forêts municipales d'Allemagne. Le quartier historique de Sachsenhausen, avec ses ruelles pavées et ses Apfelweinwirtschaften centenaires, incarne l'autre visage de la ville : traditionnel, convivial, résolument tourné vers le chien. Entre la promenade Mainufer de 4 km, les sentiers du Stadtwald et les Hundeauslaufflächen clôturés du Grüneburgpark et du Niddapark, Francfort offre aux propriétaires de chiens un équilibre rare entre grande métropole et nature urbaine.`,
+      en: `Frankfurt am Main — a Free Imperial City of the Holy Roman Empire and the coronation site of emperors for five centuries — is today Germany's financial capital and headquarters of the European Central Bank. Behind its skyline of skyscrapers (unique in continental Europe) hides a surprisingly green city: more than 52% of its territory is forest, park, or water, including the 4,200-hectare Stadtwald, one of the largest city-owned forests in Germany. The historic Sachsenhausen district, with its cobbled alleys and century-old Apfelweinwirtschaften (apple-wine taverns), embodies the other face of the city: traditional, welcoming, resolutely dog-friendly. Between the 4 km Mainufer promenade, the Stadtwald trails, and the fenced off-leash zones in Grüneburgpark and Niddapark, Frankfurt offers dog owners a rare balance between big metropolis and urban nature.`,
+      es: `Fráncfort del Meno — Ciudad Libre Imperial del Sacro Imperio Romano Germánico y sede de la coronación de los emperadores durante cinco siglos — es hoy la capital financiera de Alemania y sede del Banco Central Europeo. Tras su skyline de rascacielos (único en la Europa continental) se esconde una ciudad sorprendentemente verde: más del 52% de su territorio es bosque, parque o agua, incluido el Stadtwald de 4.200 hectáreas, uno de los mayores bosques municipales de Alemania. El barrio histórico de Sachsenhausen, con sus callejones empedrados y sus centenarios Apfelweinwirtschaften (tabernas de vino de manzana), encarna la otra cara de la ciudad: tradicional, acogedora, decididamente dog-friendly. Entre el paseo Mainufer de 4 km, los senderos del Stadtwald y las zonas sin correa valladas del Grüneburgpark y Niddapark, Fráncfort ofrece a los dueños de perros un raro equilibrio entre gran metrópoli y naturaleza urbana.`,
+    },
+    sights: [
+      {
+        name: 'Grüneburgpark',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc anglais de 29 hectares dans le Westend, avec l'une des rares Hundeauslaufflächen clôturées du centre de Francfort. Pelouses ombragées et allées piétonnes — interdit aux vélos.`,
+          en: `A 29-hectare English-style park in the Westend featuring one of central Frankfurt's few fenced off-leash areas. Shaded lawns and pedestrian-only paths — no cyclists allowed.`,
+          es: `Parque inglés de 29 hectáreas en el Westend, con una de las escasas Hundeauslaufflächen valladas del centro de Fráncfort. Céspedes sombreados y senderos solo peatonales — sin bicis.`,
+        },
+      },
+      {
+        name: 'Stadtwald',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Forêt municipale de 4 200 hectares au sud de la ville. Sans laisse hors période de reproduction (16 juillet–28 février), la plus grande balade canine d'Allemagne intra-muros.`,
+          en: `A 4,200-hectare municipal forest south of the city. Off-leash outside the breeding season (16 July–28 February), the largest within-city dog walking ground in Germany.`,
+          es: `Bosque municipal de 4.200 hectáreas al sur de la ciudad. Sin correa fuera de temporada de reproducción (16 jul–28 feb), el mayor paseo canino intraurbano de Alemania.`,
+        },
+      },
+      {
+        name: 'Römerberg',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place médiévale de l'Altstadt, avec ses façades à colombages reconstruites après-guerre. Marché de Noël et foires en plein air — chiens en laisse bienvenus en extérieur.`,
+          en: `The Altstadt's medieval central square, with its post-war half-timbered façades. Christmas market and open-air fairs — leashed dogs welcome outdoors.`,
+          es: `Plaza medieval central de la Altstadt, con sus fachadas entramadas reconstruidas tras la guerra. Mercado navideño y ferias al aire libre — perros con correa bienvenidos.`,
+        },
+      },
+      {
+        name: 'Eiserner Steg',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Passerelle piétonne en fer de 170 m enjambant le Main, reliant l'Altstadt à Sachsenhausen. Entièrement accessible aux chiens — vue panoramique sur la skyline.`,
+          en: `A 170-metre pedestrian iron bridge across the Main linking the Altstadt to Sachsenhausen. Fully dog-accessible — panoramic skyline views.`,
+          es: `Pasarela peatonal de hierro de 170 m que cruza el Main uniendo la Altstadt con Sachsenhausen. Totalmente accesible para perros — vistas panorámicas al skyline.`,
+        },
+      },
+      {
+        name: 'Mainufer',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade fluviale de 4 km le long des deux rives du Main, passant devant le Museumsufer. Plate, large, pavée — bancs et fontaines publiques en été.`,
+          en: `A 4 km riverbank promenade along both sides of the Main, passing the Museumsufer. Flat, wide, paved — benches and public water taps in summer.`,
+          es: `Paseo ribereño de 4 km a lo largo de ambas orillas del Main, pasando por el Museumsufer. Plano, ancho, pavimentado — bancos y fuentes públicas en verano.`,
+        },
+      },
+      {
+        name: 'Niddapark',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand parc intra-urbain de Francfort (168 ha), au nord-ouest. Hundeauslauffläche dédiée à l'est, 6 km d'allées circulaires pour le footing canin.`,
+          en: `Frankfurt's largest inner-city park (168 ha) in the north-west. Dedicated off-leash area on the eastern edge, 6 km of circular paths for dog jogging.`,
+          es: `Mayor parque intraurbano de Fráncfort (168 ha) al noroeste. Zona sin correa en el borde este, 6 km de senderos circulares para correr con el perro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les transports RMV acceptent les petits chiens en cage gratuitement ; les grands chiens nécessitent un Kinderfahrkarte (billet enfant).',
+        'Muselière requise en transports publics pour les races listées (Am. Staff, Pit Bull, Bullterrier, Rottweiler) — emportez-en une souple par précaution.',
+        'Amende jusqu\'à 150 € pour non-ramassage des déjections : les Kotbeutel sont gratuits aux distributeurs des parcs.',
+        'Cliniques d\'urgence 24h/24 : Kleintierklinik Bockenheim (069 97074955) et Tierklinik Kalbach (069 300651550).',
+        'Canicule possible en juillet (35 °C+) : promenez tôt ou après 19h, l\'asphalte du Bankenviertel atteint 55 °C.',
+      ],
+      en: [
+        'RMV public transport accepts small dogs in carriers for free; larger dogs need a Kinderfahrkarte (child-rate ticket).',
+        'Muzzles are required on public transport for listed breeds (Am. Staff, Pit Bull, Bullterrier, Rottweiler) — carry a soft muzzle as a precaution.',
+        'Fines up to €150 for not picking up waste: free Kotbeutel bag dispensers sit along main park paths.',
+        '24/7 emergency clinics: Kleintierklinik Bockenheim (069 97074955) and Tierklinik Kalbach (069 300651550).',
+        'Summer heatwaves possible in July (35 °C+): walk early or after 19:00, asphalt in the Bankenviertel reaches 55 °C.',
+      ],
+      es: [
+        'El transporte público RMV admite perros pequeños en transportín gratis; los grandes necesitan un Kinderfahrkarte (billete infantil).',
+        'Se exige bozal en transporte público para las razas listadas (Am. Staff, Pit Bull, Bullterrier, Rottweiler) — lleva un bozal flexible por precaución.',
+        'Multa hasta 150 € por no recoger las deposiciones: los Kotbeutel son gratuitos en los dispensadores de los parques.',
+        'Clínicas de urgencias 24/7: Kleintierklinik Bockenheim (069 97074955) y Tierklinik Kalbach (069 300651550).',
+        'Olas de calor posibles en julio (35 °C+): pasea temprano o después de las 19:00, el asfalto del Bankenviertel alcanza 55 °C.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés par tous les hôtels pet-friendly à l\'enregistrement.',
+        'Laisse obligatoire (Leinenpflicht) dans tous les parcs publics sauf Hundeauslaufflächen clôturés — amendes à partir de 35 €.',
+        'Stadtwald : laisse obligatoire du 1er mars au 15 juillet (reproduction de la faune) — contrôles par gardes forestiers.',
+        'Animal Lounge à l\'aéroport FRA pour les animaux en transit ; aires de détente dog-friendly aux Terminals 1 et 2.',
+        'Numéros d\'urgence vétérinaire à enregistrer avant arrivée — l\'Allemagne n\'a pas de hotline nationale.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required by every pet-friendly hotel at check-in.',
+        'Leash law (Leinenpflicht) applies in all public parks except fenced Hundeauslaufflächen — fines from €35.',
+        'Stadtwald: leash required 1 March–15 July (wildlife breeding season) — enforced by forest rangers.',
+        'Animal Lounge at FRA airport for transit pets; dog-friendly relief areas outside Terminals 1 and 2.',
+        'Save emergency vet numbers before arrival — Germany has no national pet emergency hotline.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly en el check-in.',
+        'Correa obligatoria (Leinenpflicht) en todos los parques públicos salvo Hundeauslaufflächen valladas — multas desde 35 €.',
+        'Stadtwald: correa obligatoria del 1 mar al 15 jul (temporada de reproducción) — controles de los guardas forestales.',
+        'Animal Lounge en el aeropuerto FRA para mascotas en tránsito; áreas dog-friendly junto a las Terminales 1 y 2.',
+        'Guarda los números de urgencias veterinarias antes de llegar — Alemania no tiene línea nacional.',
+      ],
+    },
+  },
+
   ghent: {
     history: {
       fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours — cathédrale Saint-Bavon, Beffroi et Saint-Nicolas — témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe — un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première en Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme — et de chien.`,

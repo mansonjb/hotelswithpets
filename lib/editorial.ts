@@ -111,6 +111,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Boboli Gardens, the Cascine park (off-leash zones), and the Arno riverside paths',
       area: 'Oltrarno, Santa Croce, and San Frediano',
     },
+    frankfurt: {
+      personality: 'Germany\'s greenest financial capital — 52% of the city is woodland or parks, with a 4,200-hectare Stadtwald, dog-welcoming Apfelwein taverns in Sachsenhausen, and two 24/7 emergency vet clinics',
+      highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
+      area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
+    },
     ghent: {
       personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life. On trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
@@ -379,6 +384,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les Jardins de Boboli, le parc des Cascine (zones sans laisse) et les chemins riverains de l\'Arno',
       area: 'Oltrarno, Santa Croce et San Frediano',
     },
+    frankfurt: {
+      personality: 'la capitale financière la plus verte d\'Allemagne — 52% de la ville est forêt ou parcs, avec un Stadtwald de 4 200 hectares, des tavernes à Apfelwein dog-friendly à Sachsenhausen, et deux cliniques vétérinaires d\'urgence ouvertes 24h/24',
+      highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
+      area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
+    },
     ghent: {
       personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne. Dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
@@ -645,6 +655,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad renacentista donde los perros trotean sobre adoquines hacia los mercados matutinos, descansan bajo los parasoles de los cafés y pasean por las orillas del Arno cada tarde con sus dueños',
       highlight: 'los Jardines de Bóboli, el parque de las Cascine (zonas sin correa) y los caminos ribereños del Arno',
       area: 'Oltrarno, Santa Croce y San Frediano',
+    },
+    frankfurt: {
+      personality: 'la capital financiera más verde de Alemania — el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
+      highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
+      area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
     },
     ghent: {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',

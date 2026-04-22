@@ -50,6 +50,12 @@ restaurants, parks, transport, beaches, vets, tips, attractions, petsitting.
 
 Create `data/city-guides/{slug}.json` matching amsterdam.json structure exactly, with the compact limits from Section 1.
 
+**CRITICAL — never write the full JSON in a single `Write` call.** The complete file (8 sections × 3 places × 3 languages + tips/faqs) exceeds the 32 000 output-token ceiling and the call crashes with `API Error: Claude's response exceeded the 32000 output token maximum`, losing the in-memory research. Procedure:
+
+1. `Write` the shell only: `{"city":"{Name}","country":"{Country}","flag":"🇫🇷","guides":{}}`.
+2. Add each of the 8 sections (restaurants, parks, transport, beaches, vets, tips, attractions, petsitting) via a SEPARATE `Edit` call — one section per tool call. Each Edit emits ~3–4k tokens, well under the cap.
+3. If a single section is still large, split it: first Edit adds the section key with 1 place, subsequent Edits append the remaining places.
+
 ### Step 5 — Add to destinations.json
 
 ```json
@@ -182,11 +188,19 @@ If `npm run build` fails or any grep returns 0, **FIX BEFORE COMMITTING**. The a
 export default cityContent
 ```
 
-### Step 12 — Commit & push
+### Step 12 — Commit & push (ONE COMMIT + PUSH PER CITY)
+
+**Commit AND push city 1 before starting city 2.** If city 2 crashes (timeout, token limit, research gap), city 1 is already live on production. Never batch two cities into one commit, and never defer the push until the end.
 
 ```bash
+# After city 1's Steps 1–11 pass:
 git add data/ lib/ public/images/ scripts/
-git commit -m "feat: add {city1}[, {city2}] — full parity with hotels, cityContent, photos"
+git commit -m "feat: add {city1} — full parity with hotels, cityContent, photos"
+git push origin main
+
+# THEN proceed to city 2, repeat Steps 1–11 for it, then:
+git add data/ lib/ public/images/ scripts/
+git commit -m "feat: add {city2} — full parity with hotels, cityContent, photos"
 git push origin main
 ```
 

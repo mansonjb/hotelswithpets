@@ -1,0 +1,29 @@
+name: IndexNow Ping
+
+# Triggers after each successful push to main. Waits for Vercel to build
+# and deploy (typically 60–120 s), then notifies IndexNow-participating
+# search engines (Bing, Yandex, DuckDuckGo, Seznam) that the sitemap has
+# changed.
+#
+# Safe to run even if Vercel isn't done — IndexNow is best-effort and
+# re-sending the same URL a few minutes apart is a no-op.
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Wait for Vercel deploy
+        run: sleep 150
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Ping IndexNow
+        run: node scripts/indexnow-ping.mjs

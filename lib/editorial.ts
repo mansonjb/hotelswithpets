@@ -176,6 +176,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Englischer Garten, Olympiapark, and the Isar river banks',
       area: 'Schwabing, Maxvorstadt, and Haidhausen',
     },
+    nantes: {
+      personality: 'France\'s most liveable city, with ten official dog parks (caniparcs), a QUALIDOG-certified restaurant network, and a 12 km dog-friendly cultural trail along the Loire',
+      highlight: 'the Parc de Procé caniparc, the Loire quaysides, and the Île de Versailles Japanese garden',
+      area: 'the Bouffay historic district, the Île de Nantes, and the Procé neighbourhood',
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -439,6 +444,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'Englischer Garten, l\'Olympiapark et les berges de l\'Isar',
       area: 'Schwabing, Maxvorstadt et Haidhausen',
     },
+    nantes: {
+      personality: 'la ville la plus agréable à vivre de France, avec dix caniparcs officiels, un réseau de restaurants certifiés QUALIDOG et un parcours culturel dog-friendly de 12 km le long de la Loire',
+      highlight: 'le caniparc du Parc de Procé, les quais de la Loire et le jardin japonais de l\'Île de Versailles',
+      area: 'le quartier historique du Bouffay, l\'Île de Nantes et le quartier Procé',
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -700,6 +710,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad donde los perros son bienvenidos en los jardines de cerveza, en el transporte público y en el Jardín Inglés. El parque urbano más grande de Europa',
       highlight: 'el Englischer Garten, el Olympiapark y las orillas del río Isar',
       area: 'Schwabing, Maxvorstadt y Haidhausen',
+    },
+    nantes: {
+      personality: 'la ciudad más habitable de Francia, con diez caniparques oficiales, una red de restaurantes certificados QUALIDOG y un recorrido cultural dog-friendly de 12 km a lo largo del Loira',
+      highlight: 'el caniparque del Parc de Procé, los muelles del Loira y el jardín japonés de la Île de Versailles',
+      area: 'el barrio histórico de Bouffay, la Île de Nantes y el barrio de Procé',
     },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',

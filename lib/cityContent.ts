@@ -3467,6 +3467,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  nantes: {
+    history: {
+      fr: `Fondée sur les rives de la Loire au Ier siècle par les Romains sous le nom de Portus Namnetum, Nantes est devenue au XVe siècle le siège des Ducs de Bretagne, dont le château — aujourd'hui l'un des monuments les plus visités de France — domine encore le centre-ville. Aux XVIIe et XVIIIe siècles, la ville a prospéré en tant que premier port négrier de France, une période sombre que le Musée d'Histoire de Nantes affronte avec une honnêteté remarquable. La révolte des Vendéens, les guerres de révolution et la reconstruction ont façonné la ville moderne. Aujourd'hui, Nantes est régulièrement élue ville la plus agréable à vivre de France — une réputation construite sur ses espaces verts, sa culture créative avec le Voyage à Nantes, et une culture de l'accueil qui s'étend sincèrement aux animaux de compagnie.`,
+      en: `Founded on the banks of the Loire in the 1st century by the Romans as Portus Namnetum, Nantes rose to prominence in the 15th century as the seat of the Dukes of Brittany, whose castle — today one of France's most visited monuments — still dominates the city centre. In the 17th and 18th centuries, the city prospered as France's largest slave-trading port, a dark chapter confronted with remarkable honesty in the Château's history museum. Revolution, Vendée wars, and reconstruction shaped the modern city. Today Nantes is regularly voted France's most liveable city — a reputation built on green spaces, a creative cultural scene anchored by Le Voyage à Nantes, and a culture of welcome that genuinely extends to pets.`,
+      es: `Fundada a orillas del Loira en el siglo I por los romanos como Portus Namnetum, Nantes alcanzó su apogeo en el siglo XV como sede de los Duques de Bretaña, cuyo castillo —hoy uno de los monumentos más visitados de Francia— sigue dominando el centro de la ciudad. En los siglos XVII y XVIII prosperó como el mayor puerto de trata de esclavos de Francia, un capítulo oscuro que el museo de historia del Château aborda con notable honestidad. La revolución, las guerras de la Vendée y la reconstrucción moldearon la ciudad moderna. Hoy Nantes es elegida regularmente la ciudad más habitable de Francia, una reputación construida sobre sus espacios verdes, su escena cultural creativa con Le Voyage à Nantes, y una cultura de acogida que se extiende genuinamente a las mascotas.`,
+    },
+    sights: [
+      {
+        name: 'Parc de Procé',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc star des propriétaires de chiens à Nantes abrite un caniparc officiel et de vastes pelouses où les chiens courent librement dans les zones désignées. Les allées ombragées et la roseraie en font une promenade idéale avant ou après une visite du centre-ville.`,
+          en: `Nantes' favourite dog park has an official off-leash caniparc zone and sweeping lawns where dogs run freely in designated areas. Shaded alleys and a rose garden make it the ideal walk before or after exploring the city centre.`,
+          es: `El parque favorito de los dueños de perros en Nantes tiene un caniparque oficial sin correa y amplias praderas donde los perros corren libremente en zonas designadas. Los paseos sombreados y el jardín de rosas lo convierten en el paseo ideal antes o después de explorar el centro.`,
+        },
+      },
+      {
+        name: 'Les Machines de l\'Île',
+        emoji: '🐘',
+        petFriendly: true,
+        desc: {
+          fr: `L'esplanade extérieure des célèbres machines géantes — dont le Grand Éléphant de 12 mètres — est entièrement accessible aux chiens en laisse. Les chiens ne peuvent pas monter sur l'Éléphant, mais regarder ses promenades depuis les quais avec son chien est une expérience inoubliable.`,
+          en: `The outdoor esplanade of the famous giant machines — including the 12-metre Grand Éléphant — is fully accessible to dogs on leash. Dogs cannot ride the Éléphant, but watching its promenades from the quayside with your dog is an unforgettable experience.`,
+          es: `La explanada exterior de las famosas máquinas gigantes, incluido el Grand Éléphant de 12 metros, es totalmente accesible para perros con correa. Los perros no pueden subir al Éléphant, pero ver sus paseos desde los muelles con tu perro es una experiencia inolvidable.`,
+        },
+      },
+      {
+        name: 'Château des Ducs de Bretagne',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Les jardins des douves et le chemin de ronde de la forteresse du XVe siècle sont en accès libre et dog-friendly en laisse. Le musée intérieur n'accepte pas les chiens, mais les espaces extérieurs seuls offrent une visite très riche avec une vue panoramique sur la ville.`,
+          en: `The moat gardens and rampart walk of this 15th-century fortress are free to access and dog-friendly on leash. The museum inside does not accept dogs, but the exterior grounds alone offer a very rewarding visit with panoramic city views.`,
+          es: `Los jardines del foso y el paseo de ronda de esta fortaleza del siglo XV son de acceso libre y dog-friendly con correa. El museo interior no acepta perros, pero los espacios exteriores solos ofrecen una visita muy valiosa con vistas panorámicas de la ciudad.`,
+        },
+      },
+      {
+        name: 'Île de Versailles',
+        emoji: '⛩️',
+        petFriendly: true,
+        desc: {
+          fr: `Un jardín japonais sur une île de l'Erdre au cœur de Nantes, avec ponts en bois, pavillons rouges et bassins à koïs. Les chiens sont bienvenus en laisse sur les sentiers sinueux — c'est l'un des endroits les plus photogéniques de la ville.`,
+          en: `A Japanese garden on an Erdre River island in the heart of Nantes, with wooden bridges, red pavilions, and koi ponds. Dogs are welcome on leash on the winding footpaths — one of the most photogenic spots in the city.`,
+          es: `Un jardín japonés en una isla del río Erdre en el corazón de Nantes, con puentes de madera, pabellones rojos y estanques de koi. Los perros son bienvenidos con correa en los senderos sinuosos, uno de los lugares más fotogénicos de la ciudad.`,
+        },
+      },
+      {
+        name: 'Quais de la Loire',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `6 km de promenades réaménagées sur les quais de la Loire, reliant le Hangar à Bananes au village de Trentemoult, avec de l'art public, des bars en bord de fleuve et les Machines de l'Île. Les chiens en laisse sont bienvenus sur tout le parcours.`,
+          en: `6 km of renovated riverside promenades along the Loire, linking the Hangar à Bananes to the Trentemoult village, with public art, riverside bars, and the Machines de l\'Île. Dogs on leash are welcome throughout.`,
+          es: `6 km de renovados paseos fluviales a lo largo del Loira, que unen el Hangar à Bananes con el pueblo de Trentemoult, con arte público, bares fluviales y las Machines de l\'Île. Los perros con correa son bienvenidos en todo el recorrido.`,
+        },
+      },
+      {
+        name: 'Parc Naturel de Beaulieu',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Un vaste espace naturel sur l'Île Beaulieu au bord de la Loire, avec un nouveau caniparc ouvert en janvier 2025. Les grandes prairies sauvages sont idéales pour les courses en liberté avec une vue sur le fleuve.`,
+          en: `A vast natural meadow on Île Beaulieu along the Loire, with a new caniparc that opened in January 2025. The wild grassy expanses are ideal for free-running sessions with Loire river views.`,
+          es: `Un vasto prado natural en la Île Beaulieu junto al Loira, con un nuevo caniparque inaugurado en enero de 2025. Las extensas praderas salvajes son ideales para sesiones de carrera libre con vistas al río.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le réseau TAN/Naolib est très restrictif : les chiens de plus de 6 kg sont interdits dans les trams, bus et Navibus. Seuls les petits animaux en panier fermé (< 6 kg) voyagent gratuitement. Avec un grand chien, optez pour un taxi (Heetch/Marcel) ou un vélo cargo Velhop.`,
+        `Nantes dispose de 10 caniparcs officiels — téléchargez la carte interactive sur metropole.nantes.fr avant votre visite pour repérer le plus proche de votre hébergement.`,
+        `Le label QUALIDOG (emmenetonchien.com) certifie les restaurants, hôtels et activités sincèrement dog-friendly à Nantes. Repérez le sticker sur les portes pour une politique d'accueil garantie.`,
+        `En été, les quais de Loire peuvent être très chauds en milieu de journée — promenez votre chien avant 9h ou après 19h pour éviter les coups de chaleur sur le revêtement sombre des quais.`,
+        `Pour toute urgence vétérinaire : CHV Atlantia, 22 rue René Viviani — 02 40 47 40 09, ouvert 24h/24 toute l'année. Le CHUV Oniris (120 route de Gachet) assure aussi des urgences 24h/24 sauf en août.`,
+      ],
+      en: [
+        `TAN/Naolib public transport is highly restrictive for pets: dogs over 6 kg are banned from trams, buses, and the Navibus ferry. Only small pets in closed carriers (under 6 kg) travel free. With a larger dog, use a pet-friendly taxi (Heetch/Marcel app) or a Velhop cargo bike.`,
+        `Nantes has 10 official caniparcs — download the interactive map from metropole.nantes.fr before your visit to find the one closest to your accommodation.`,
+        `The QUALIDOG label (emmenetonchien.com) certifies restaurants, hotels, and activities that are genuinely dog-friendly in Nantes. Look for the sticker on doors for a guaranteed welcome policy.`,
+        `In summer, the Loire quays can be very hot at midday — walk your dog before 09:00 or after 19:00 to avoid heat buildup on the dark quayside pavement.`,
+        `For any veterinary emergency: CHV Atlantia, 22 rue René Viviani — 02 40 47 40 09, open 24/7 all year. CHUV Oniris (120 route de Gachet) also provides 24/7 emergency care except in August.`,
+      ],
+      es: [
+        `El transporte público TAN/Naolib es muy restrictivo para mascotas: los perros de más de 6 kg están prohibidos en tranvías, autobuses y el ferry Navibus. Solo las mascotas pequeñas en transportín cerrado (menos de 6 kg) viajan gratis. Con un perro más grande, usa un taxi pet-friendly (app Heetch/Marcel) o una bicicleta de carga Velhop.`,
+        `Nantes tiene 10 caniparques oficiales: descarga el mapa interactivo de metropole.nantes.fr antes de tu visita para encontrar el más cercano a tu alojamiento.`,
+        `El sello QUALIDOG (emmenetonchien.com) certifica restaurantes, hoteles y actividades genuinamente dog-friendly en Nantes. Busca el adhesivo en las puertas para garantizar una política de bienvenida.`,
+        `En verano, los muelles del Loira pueden estar muy calientes a mediodía: pasea a tu perro antes de las 09:00 o después de las 19:00 para evitar el calor acumulado en el pavimento oscuro de los muelles.`,
+        `Para cualquier urgencia veterinaria: CHV Atlantia, 22 rue René Viviani — 02 40 47 40 09, abierto 24h/7j todo el año. El CHUV Oniris (120 route de Gachet) también ofrece urgencias 24h/7j excepto en agosto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Transport : chiens < 6 kg en panier fermé = gratuit sur TAN/Naolib. Chiens > 6 kg interdits (sauf chiens guides) — utilisez Heetch, Marcel ou les vélos Velhop pour vous déplacer avec un grand chien.`,
+        `Identification obligatoire : tous les chiens doivent être identifiés par puce électronique (ISO 11784/11785) ou tatouage en France. Le registre national I-CAD (www.i-cad.fr) permet de retrouver un animal perdu.`,
+        `Urgences vétérinaires 24h/24 : CHV Atlantia, 22 rue René Viviani, Nantes — tél. 02 40 47 40 09. CHUV Oniris (120 route de Gachet, 44300) également 24h/24 sauf août.`,
+        `Parcs et espaces verts : laisse obligatoire sauf dans les 10 caniparcs désignés. Carte officielle disponible sur metropole.nantes.fr.`,
+        `Plages atlantiques : à 50 km en voiture (Pornic, Saint-Nazaire). Chiens autorisés d'octobre à mai sur la plupart des plages ; restreints juin–septembre. Vérifier emmenetonchien.com avant le départ.`,
+      ],
+      en: [
+        `Transport: pets under 6 kg in a closed carrier = free on TAN/Naolib. Dogs over 6 kg are banned (guide dogs excepted) — use Heetch, Marcel, or Velhop cargo bikes to get around with a larger dog.`,
+        `Identification required: all dogs must be microchipped (ISO 11784/11785) or tattooed in France. The national I-CAD registry (www.i-cad.fr) allows instant lookup of lost pets.`,
+        `24/7 vet emergencies: CHV Atlantia, 22 rue René Viviani, Nantes — tel. 02 40 47 40 09. CHUV Oniris (120 route de Gachet, 44300) also 24/7 except August.`,
+        `Parks and green spaces: leash required everywhere except in the 10 designated caniparcs. Official map available at metropole.nantes.fr.`,
+        `Atlantic beaches: 50 km by car (Pornic, Saint-Nazaire area). Dogs allowed October–May on most beaches; restricted June–September. Check emmenetonchien.com before setting out.`,
+      ],
+      es: [
+        `Transporte: mascotas menores de 6 kg en transportín cerrado = gratis en TAN/Naolib. Perros de más de 6 kg prohibidos (perros guía exentos): usa Heetch, Marcel o bicicletas de carga Velhop para moverte con un perro grande.`,
+        `Identificación obligatoria: todos los perros deben estar identificados con microchip (ISO 11784/11785) o tatuaje en Francia. El registro nacional I-CAD (www.i-cad.fr) permite búsqueda instantánea de mascotas perdidas.`,
+        `Urgencias veterinarias 24h/7j: CHV Atlantia, 22 rue René Viviani, Nantes — tel. 02 40 47 40 09. CHUV Oniris (120 route de Gachet, 44300) también 24h/7j excepto en agosto.`,
+        `Parques y zonas verdes: correa obligatoria en todas partes excepto en los 10 caniparques designados. Mapa oficial disponible en metropole.nantes.fr.`,
+        `Playas atlánticas: a 50 km en coche (zona de Pornic, Saint-Nazaire). Perros permitidos de octubre a mayo en la mayoría de playas; restringidos de junio a septiembre. Consulta emmenetonchien.com antes de salir.`,
+      ],
+    },
+  },
+
   nice: {
     history: {
       en: 'Nice — the capital of the French Riviera and France\'s fifth-largest city — has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',

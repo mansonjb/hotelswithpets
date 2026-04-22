@@ -1,0 +1,826 @@
+{
+  "slug": "nantes",
+  "name": "Nantes",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-04-22",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Nantes",
+      "titleFr": "Restaurants acceptant les chiens à Nantes",
+      "titleEs": "Restaurantes dog-friendly en Nantes",
+      "introEn": "Nantes follows the French rule: dogs are welcome in restaurants unless a 'no dogs' sign is posted. The city's terrace culture — particularly in the Bouffay district and along the Loire quays — means well-behaved dogs are as natural a sight as a glass of Muscadet. The Emmène Ton Chien guide officially certifies dozens of Nantes addresses under the QUALIDOG label.",
+      "introFr": "Nantes suit la règle française : les chiens sont bienvenus dans les restaurants sauf pancarte contraire. La culture des terrasses nantaises, notamment dans le quartier du Bouffay et le long des quais de Loire, fait des chiens bien tenus une présence aussi naturelle qu'un verre de Muscadet. Le guide Emmène Ton Chien certifie officiellement des dizaines d'adresses nantaises sous le label QUALIDOG.",
+      "introEs": "Nantes sigue la norma francesa: los perros son bienvenidos en los restaurantes a menos que haya un cartel prohibiéndolo. La cultura de las terrazas nantesas, especialmente en el barrio de Bouffay y a orillas del Loira, hace de los perros bien educados una presencia tan natural como una copa de Muscadet. La guía Emmène Ton Chien certifica oficialmente decenas de establecimientos en Nantes con el sello QUALIDOG.",
+      "places": [
+        {
+          "name": "GLAZ Café",
+          "address": "10 Rue Cacault, 44000 Nantes",
+          "neighborhood": "Centre-ville / Bouffay",
+          "photo": "/images/city-places/nantes-restaurants-glaz-cafe.jpg",
+          "website": "https://cafeglaz.fr/",
+          "description": "A beloved coffee shop with a Breton soul, GLAZ Café is listed on BringFido as welcoming dogs on its outdoor terrace in the heart of downtown Nantes. The café specialises in quality coffee, weekend brunches, and local producers — ideal for a leisurely morning before exploring the historic centre.",
+          "descriptionFr": "Coffee shop chouchou au cœur de Nantes, le GLAZ Café est référencé sur BringFido pour ses tables en terrasse en plein centre-ville. La maison mise sur des cafés de qualité, les brunchs du week-end et les producteurs locaux — idéal pour une matinée tranquille avant de découvrir le centre historique.",
+          "descriptionEs": "Un querido café con alma bretona, el GLAZ Café está listado en BringFido por su terraza exterior en pleno centro de Nantes. El local apuesta por cafés de calidad, brunchs de fin de semana y productores locales, ideal para una mañana tranquila antes de explorar el centro histórico.",
+          "petPolicy": "Dogs welcome on outdoor terrace",
+          "petPolicyFr": "Chiens bienvenus en terrasse extérieure",
+          "petPolicyEs": "Perros bienvenidos en terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Weekend brunch, single-origin coffee",
+          "mustTryFr": "Brunch du week-end, café d'origine unique",
+          "mustTryEs": "Brunch de fin de semana, café de origen único",
+          "openingHours": "Mon & Thu–Sat 8:30–18:00, Sun 10:00–15:00",
+          "tip": "Request a table at the front terrace for the best street view — it's quiet enough that dogs rarely feel overwhelmed, even at peak hours.",
+          "tipFr": "Demandez une table sur la terrasse avant pour le meilleur spot d'observation — l'artère est suffisamment calme pour que les chiens ne soient pas dépassés, même aux heures de pointe.",
+          "tipEs": "Pide una mesa en la terraza delantera para la mejor vista de la calle: es lo suficientemente tranquila como para que los perros no se agobien incluso en horas punta.",
+          "googleMapsUrl": "https://maps.google.com/?q=GLAZ+Cafe+10+Rue+Cacault+Nantes"
+        },
+        {
+          "name": "Café des Usines",
+          "address": "24 Boulevard de Chantenay, 44000 Nantes",
+          "neighborhood": "Chantenay / Loire Quays",
+          "photo": "/images/city-places/nantes-restaurants-cafe-des-usines.jpg",
+          "website": "https://www.thefork.com/restaurants/nantes-c375898/dog-friendly-t348",
+          "description": "Rated 9.2 on TheFork and listed as dog-friendly, this neighbourhood café-bar sits near the Loire with outdoor seating and a buffet-style lunch menu popular with locals. In the evening it becomes a lively bar — a great option after exploring the Machines de l'Île just along the river.",
+          "descriptionFr": "Noté 9,2 sur TheFork et référencé dog-friendly, ce café-bar de quartier est situé près de la Loire avec une terrasse et un déjeuner en formule buffet très prisé des habitués. En soirée il se mue en bar de quartier animé — parfait après avoir visité les Machines de l'Île, juste le long du fleuve.",
+          "descriptionEs": "Con una puntuación de 9,2 en TheFork y listado como dog-friendly, este café-bar de barrio junto al Loira tiene terraza exterior y menú de almuerzo tipo buffet muy popular entre los locales. Por la noche se convierte en animado bar de barrio, ideal tras visitar las Machines de l'Île, también junto al río.",
+          "petPolicy": "Dogs welcome on outdoor terrace",
+          "petPolicyFr": "Chiens bienvenus en terrasse extérieure",
+          "petPolicyEs": "Perros bienvenidos en terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Lunch buffet (appetizers + desserts), local Muscadet wine",
+          "mustTryFr": "Buffet du midi (entrées + desserts), Muscadet local",
+          "mustTryEs": "Buffet de mediodía (entrantes + postres), vino Muscadet local",
+          "openingHours": "Mon–Sat 12:00–14:30 & 18:00–23:00",
+          "tip": "Arrive before 12:30 for a terrace table — this spot fills quickly with locals at lunchtime, especially on weekdays.",
+          "tipFr": "Arrivez avant 12h30 pour une table en terrasse — cet endroit se remplit vite avec les habitués à l'heure du déjeuner, surtout en semaine.",
+          "tipEs": "Llega antes de las 12:30 para conseguir mesa en terraza: este lugar se llena rápido con los habituales a la hora del almuerzo, especialmente entre semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+des+Usines+24+Boulevard+de+Chantenay+Nantes"
+        },
+        {
+          "name": "2 Potes au Feu",
+          "address": "Place du Commandant Jacques-Yves-Cousteau, 44300 Nantes",
+          "neighborhood": "Bottière-Chênaie",
+          "photo": "/images/city-places/nantes-restaurants-2-potes-au-feu.jpg",
+          "website": "https://2potesaufeu.com",
+          "description": "A modern French bistro rated 9.3 on TheFork and listed among Nantes' best dog-friendly dining options, celebrating market-fresh cuisine with a dog-welcoming terrace. A neighbourhood favourite in the eastern part of Nantes, it draws a loyal local crowd for its seasonal market menu.",
+          "descriptionFr": "Un bistrot français contemporain noté 9,3 sur TheFork et référencé parmi les meilleures adresses dog-friendly de Nantes, célébrant une cuisine du marché avec une terrasse accueillant les chiens. Favori des locaux à l'est de Nantes, il attire une clientèle fidèle avec son menu du marché de saison.",
+          "descriptionEs": "Un bistró francés moderno con 9,3 en TheFork, listado entre las mejores opciones dog-friendly de Nantes, con cocina de mercado y terraza que da la bienvenida a los perros. Favorito del barrio al este de Nantes, atrae a una clientela fiel con su menú de temporada.",
+          "petPolicy": "Dogs welcome on terrace",
+          "petPolicyFr": "Chiens bienvenus en terrasse",
+          "petPolicyEs": "Perros bienvenidos en terraza",
+          "priceRange": "€€€",
+          "mustTry": "Market menu (plat du jour), Loire Valley wine selection",
+          "mustTryFr": "Menu du marché (plat du jour), sélection vins Val de Loire",
+          "mustTryEs": "Menú de mercado (plato del día), selección de vinos del Valle del Loira",
+          "openingHours": "Tue–Sat 12:00–14:00 & 19:00–22:00",
+          "tip": "Book at least two days ahead for weekend evening tables — it is a local institution and the terrace fills fast in summer.",
+          "tipFr": "Réservez au moins deux jours à l'avance pour une table en terrasse le week-end — c'est une institution locale et la terrasse se remplit vite en été.",
+          "tipEs": "Reserva con al menos dos días de antelación para una mesa en terraza los fines de semana: es una institución local y la terraza se llena rápido en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=2+Potes+au+Feu+Nantes+Place+Cousteau"
+        }
+      ],
+      "tipsEn": [
+        "In France, dogs are legally permitted in restaurants unless explicitly banned — look for the Emmène Ton Chien QUALIDOG sticker on the door, which certifies genuine pet-welcome policies in Nantes.",
+        "The Bouffay historic district and the Hangar à Bananes on Île de Nantes have the highest concentration of dog-friendly terraces in the city — perfect for an evening stroll and dinner.",
+        "Always bring a portable water bowl: most terrace restaurants in Nantes will happily refill it, but may not keep one on hand automatically."
+      ],
+      "tipsFr": [
+        "En France, les chiens sont légalement autorisés dans les restaurants sauf interdiction explicite — repérez l'autocollant QUALIDOG d'Emmène Ton Chien sur la porte, certifiant une vraie politique d'accueil à Nantes.",
+        "Le quartier historique du Bouffay et le Hangar à Bananes sur l'Île de Nantes concentrent le plus grand nombre de terrasses dog-friendly de la ville — parfait pour une soirée balade + dîner.",
+        "Emportez toujours une gamelle portable : la plupart des terrasses nantaises la rempliront volontiers, mais ne la gardent pas forcément à portée de main."
+      ],
+      "tipsEs": [
+        "En Francia, los perros están legalmente permitidos en restaurantes salvo prohibición expresa: busca el adhesivo QUALIDOG de Emmène Ton Chien en la puerta, que certifica una política real de bienvenida en Nantes.",
+        "El barrio histórico de Bouffay y el Hangar à Bananes en la Île de Nantes concentran la mayor cantidad de terrazas dog-friendly de la ciudad, perfectas para una tarde de paseo y cena.",
+        "Lleva siempre un cuenco de agua portátil: la mayoría de las terrazas nantesas lo rellenarán con gusto, aunque puede que no tengan uno a mano automáticamente."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside restaurants in Nantes?",
+          "a": "Dogs are permitted in French restaurants by default unless a 'no dogs' sign is displayed. In Nantes, most terraces are dog-friendly and a growing number of indoor café spaces welcome small and medium dogs."
+        },
+        {
+          "q": "What is the QUALIDOG certification?",
+          "a": "QUALIDOG is a French certification awarded to restaurants, hotels, and activities that have demonstrated a genuinely dog-friendly environment — with water bowls, appropriate space, and welcoming staff. Look for the Emmène Ton Chien sticker on restaurant doors in Nantes."
+        },
+        {
+          "q": "Can I bring my dog to a restaurant on the Île de Nantes waterfront?",
+          "a": "Yes — the Hangar à Bananes complex on the Île de Nantes waterfront has several bars and restaurants with outdoor terraces where dogs are welcome. It is one of the most popular evening spots with dogs in the city."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Nantes ?",
+          "a": "Les chiens sont admis par défaut dans les restaurants français sauf pancarte contraire. À Nantes, la plupart des terrasses sont dog-friendly et un nombre croissant d'espaces intérieurs — notamment les cafés — accueillent les petits et moyens chiens."
+        },
+        {
+          "q": "C'est quoi la certification QUALIDOG ?",
+          "a": "QUALIDOG est une certification française attribuée aux restaurants, hôtels et activités ayant démontré un environnement sincèrement dog-friendly — avec gamelles d'eau, espace adapté et personnel formé. Repérez l'autocollant Emmène Ton Chien sur les portes des restaurants nantais."
+        },
+        {
+          "q": "Puis-je amener mon chien dans un restaurant sur les quais de l'Île de Nantes ?",
+          "a": "Oui — le Hangar à Bananes sur les quais de l'Île de Nantes regroupe plusieurs bars et restaurants avec terrasses extérieures où les chiens sont bienvenus. C'est l'un des spots du soir les plus populaires avec les chiens à Nantes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Nantes?",
+          "a": "Los perros están permitidos por defecto en los restaurantes franceses salvo cartel contrario. En Nantes, la mayoría de las terrazas son dog-friendly y un número creciente de espacios interiores de cafés admiten perros pequeños y medianos."
+        },
+        {
+          "q": "¿Qué es la certificación QUALIDOG?",
+          "a": "QUALIDOG es una certificación francesa que se otorga a restaurantes, hoteles y actividades que han demostrado un entorno genuinamente dog-friendly, con cuencos de agua, espacio adecuado y personal acogedor. Busca el adhesivo de Emmène Ton Chien en las puertas de los restaurantes nanteses."
+        },
+        {
+          "q": "¿Puedo llevar mi perro a un restaurante en el frente fluvial de la Île de Nantes?",
+          "a": "Sí: el complejo Hangar à Bananes en la orilla de la Île de Nantes tiene varios bares y restaurantes con terrazas exteriores donde los perros son bienvenidos. Es uno de los lugares de tarde-noche más populares con perros de la ciudad."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks for Dogs in Nantes",
+      "titleFr": "Les meilleurs parcs pour chiens à Nantes",
+      "titleEs": "Los mejores parques para perros en Nantes",
+      "introEn": "Nantes has ten dedicated dog parks (caniparcs) spread across the city, plus large green spaces where dogs can roam freely in designated zones. The Nantes Métropole website officially maps all dog-walking areas and off-leash zones — a model of pet-friendly urban planning that makes the city a joy to explore with a dog.",
+      "introFr": "Nantes compte dix caniparcs répartis dans la ville, ainsi que de grands espaces verts où les chiens se déplacent librement dans les zones désignées. Le site de Nantes Métropole cartographie officiellement toutes les zones de promenade canine et les espaces sans laisse — un modèle de planification urbaine pet-friendly qui fait de la ville un bonheur à explorer avec un chien.",
+      "introEs": "Nantes cuenta con diez caniparques repartidos por la ciudad, además de grandes zonas verdes donde los perros pueden ir libremente en las zonas designadas. El sitio web de Nantes Métropole mapea oficialmente todas las zonas de paseo canino y sin correa: un modelo de planificación urbana pet-friendly que hace de la ciudad un placer para explorar con perro.",
+      "places": [
+        {
+          "name": "Parc de Procé",
+          "address": "44 Rue des Dervallières, 44000 Nantes",
+          "neighborhood": "Procé / Dervallières",
+          "photo": "/images/city-places/nantes-parks-parc-de-proce.jpg",
+          "website": "https://metropole.nantes.fr/mes-services-mon-quotidien/promener-son-chien-a-nantes",
+          "description": "Nantes' most beloved dog park has an official caniparc (fenced off-leash area) and sweeping lawns where dogs can run freely in designated zones, just 15 minutes on foot from the city centre. Tree-lined alleys, a rose garden, and scenic views over a tributary of the Erdre make it the ideal morning or evening walk for owners and dogs alike.",
+          "descriptionFr": "Le parc pour chiens le plus apprécié de Nantes dispose d'un caniparc officiel (zone close sans laisse) et de grandes pelouses où les chiens peuvent courir librement dans les zones désignées, à 15 minutes à pied du centre-ville. Les allées bordées d'arbres, la roseraie et les vues sur un bras de l'Erdre en font la promenade idéale du matin ou du soir pour les propriétaires et leurs chiens.",
+          "descriptionEs": "El parque para perros más querido de Nantes tiene un caniparc oficial (zona vallada sin correa) y amplias praderas donde los perros pueden correr en las zonas designadas, a 15 minutos a pie del centro. Los paseos arbolados, el jardín de rosas y las vistas sobre un afluente del Erdre lo convierten en el paseo ideal de mañana o tarde para dueños y perros.",
+          "petPolicy": "Off-leash in caniparc zone; leash required elsewhere",
+          "petPolicyFr": "Sans laisse dans le caniparc ; laisse obligatoire ailleurs",
+          "petPolicyEs": "Sin correa en el caniparque; correa obligatoria en el resto",
+          "openingHours": "Open daily sunrise to sunset",
+          "tip": "The caniparc is busiest 7:00–9:00 and 17:00–19:00 — arrive outside these windows for a quieter off-leash session with fewer dogs.",
+          "tipFr": "Le caniparc est le plus fréquenté entre 7h–9h et 17h–19h — venez en dehors de ces créneaux pour une session sans laisse plus calme avec moins de chiens.",
+          "tipEs": "El caniparque está más concurrido entre las 7:00-9:00 y las 17:00-19:00: llega fuera de esas franjas para una sesión más tranquila con menos perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+de+Proce+44+Rue+des+Dervallieres+Nantes"
+        },
+        {
+          "name": "Île de Versailles",
+          "address": "Île de Versailles, 44000 Nantes",
+          "neighborhood": "Centre-ville / Erdre River",
+          "photo": "/images/city-places/nantes-parks-ile-de-versailles.jpg",
+          "website": "https://www.nantes-tourisme.com/",
+          "description": "A small island on the Erdre River reimagined as a Japanese garden with wooden bridges, red pavilions, koi ponds, and weeping willows — one of the most photogenic spots in Nantes. Dogs are welcome on leash on the winding footpaths, making it a lovely mid-walk detour in the heart of the city.",
+          "descriptionFr": "Un petit îlot sur l'Erdre réaménagé en jardin japonais avec ponts de bois, pavillons rouges, bassin à koïs et saules pleureurs — l'un des endroits les plus photogéniques de Nantes. Les chiens sont bienvenus en laisse sur les sentiers sinueux, faisant de l'endroit une belle halte en plein cœur de la ville.",
+          "descriptionEs": "Una pequeña isla sobre el Erdre transformada en jardín japonés con puentes de madera, pabellones rojos, estanques de koi y sauces llorones, uno de los lugares más fotogénicos de Nantes. Los perros son bienvenidos con correa en los senderos sinuosos, convirtiéndolo en una deliciosa parada en pleno centro de la ciudad.",
+          "petPolicy": "Dogs on leash permitted throughout",
+          "petPolicyFr": "Chiens en laisse autorisés dans tout le jardin",
+          "petPolicyEs": "Perros con correa permitidos en todo el jardín",
+          "openingHours": "Daily 08:00–20:30 (summer), 08:00–18:00 (winter)",
+          "tip": "Cross the footbridge from the Île Gloriette side early in the morning — the island is best enjoyed before tour groups arrive around 10:00.",
+          "tipFr": "Traversez la passerelle depuis le côté Île Gloriette tôt le matin — l'île est à son meilleur avant l'arrivée des groupes touristiques vers 10h.",
+          "tipEs": "Cruza la pasarela desde el lado de Île Gloriette temprano por la mañana: la isla se disfruta mejor antes de que lleguen los grupos turísticos hacia las 10:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ile+de+Versailles+Nantes+Japanese+Garden"
+        },
+        {
+          "name": "Parc Naturel de Beaulieu",
+          "address": "Île Beaulieu, 44200 Nantes",
+          "neighborhood": "Île de Nantes / Beaulieu",
+          "photo": "/images/city-places/nantes-parks-parc-naturel-de-beaulieu.jpg",
+          "website": "https://metropole.nantes.fr/mes-services-mon-quotidien/promener-son-chien-a-nantes",
+          "description": "A vast natural meadow along the Loire River on Île Beaulieu — described as the last testament of Loire's humid meadows — with a new caniparc opened in January 2025. Wild grassy expanses and riverside views of the Loire make it perfect for a free-running session away from the city bustle.",
+          "descriptionFr": "Un vaste espace naturel le long de la Loire sur l'Île Beaulieu — décrit comme le dernier témoignage des prairies humides de la Loire — avec un nouveau caniparc ouvert en janvier 2025. Grandes étendues sauvages et vues sur la Loire en font l'endroit idéal pour une session en liberté à l'écart de l'agitation de la ville.",
+          "descriptionEs": "Un vasto espacio natural junto al Loira en la Île Beaulieu — descrito como el último testimonio de las praderas húmedas del Loira — con un nuevo caniparque inaugurado en enero de 2025. Las extensiones de hierba salvaje y las vistas del Loira lo hacen perfecto para una sesión de carrera libre lejos del bullicio urbano.",
+          "petPolicy": "Off-leash in caniparc; dogs on leash throughout rest of park",
+          "petPolicyFr": "Sans laisse dans le caniparc ; chiens en laisse dans le reste du parc",
+          "petPolicyEs": "Sin correa en el caniparque; perros con correa en el resto del parque",
+          "openingHours": "Open daily sunrise to sunset",
+          "tip": "Reach the new caniparc via Tram Line 1 (stop Île de Nantes) — it is at the northwest edge of the park, the closest point to the tram stop.",
+          "tipFr": "Accédez au nouveau caniparc via le tram ligne 1 (arrêt Île de Nantes) — il se trouve à la lisière nord-ouest du parc, le point le plus proche de l'arrêt.",
+          "tipEs": "Llega al nuevo caniparque en el Tranvía Línea 1 (parada Île de Nantes): está en el extremo noroeste del parque, el punto más cercano a la parada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Naturel+Beaulieu+Ile+Nantes"
+        }
+      ],
+      "tipsEn": [
+        "The Nantes Métropole website (metropole.nantes.fr) provides an official interactive map of all dog-walking areas, caniparcs, and leash-required zones — download it before your visit.",
+        "Dogs must be leashed in all Nantes parks outside designated caniparc zones; fines of up to €68 can be issued for non-compliance.",
+        "The Parc du Grand-Blottereau in the east of the city has two caniparcs and is quieter than Procé on weekday mornings — a good alternative if you prefer fewer dogs around."
+      ],
+      "tipsFr": [
+        "Le site de Nantes Métropole (metropole.nantes.fr) propose une carte interactive officielle de toutes les zones de promenade canine, caniparcs et zones en laisse obligatoire — à télécharger avant votre visite.",
+        "Les chiens doivent être tenus en laisse dans tous les parcs de Nantes en dehors des caniparcs désignés ; des amendes allant jusqu'à 68 € peuvent être dressées en cas de non-respect.",
+        "Le Parc du Grand-Blottereau à l'est de la ville dispose de deux caniparcs et est moins fréquenté que Procé les matins de semaine — une bonne alternative si vous préférez moins de chiens autour."
+      ],
+      "tipsEs": [
+        "El sitio web de Nantes Métropole (metropole.nantes.fr) ofrece un mapa interactivo oficial de todas las zonas de paseo canino, caniparques y zonas con correa obligatoria: descárgalo antes de tu visita.",
+        "Los perros deben ir con correa en todos los parques de Nantes fuera de los caniparques designados; el incumplimiento puede acarrear multas de hasta 68 €.",
+        "El Parc du Grand-Blottereau al este de la ciudad tiene dos caniparques y está más tranquilo que Procé las mañanas entre semana: buena alternativa si prefieres menos perros alrededor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash in Nantes parks?",
+          "a": "Dogs may run off-leash only in the designated caniparc zones — there are ten across the city. Outside these fenced areas, leashes are mandatory in all public parks and can result in a fine."
+        },
+        {
+          "q": "Is there a dog park near the city centre?",
+          "a": "Yes — Parc de Procé (Rue des Dervallières) has the most central caniparc, just 15 minutes on foot from Place du Commerce. The Île de Versailles Japanese garden is also very central, though dogs must stay on leash there."
+        },
+        {
+          "q": "Can my dog wade in the Loire or Erdre in Nantes?",
+          "a": "Swimming in the Erdre within the city is not recommended due to boat traffic. The Parc Naturel de Beaulieu on Île Beaulieu gives dogs access to Loire riverside areas where some wade in the shallows — no official dog swimming areas exist within the city."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés sans laisse dans les parcs de Nantes ?",
+          "a": "Les chiens ne peuvent courir sans laisse que dans les caniparcs désignés — il y en a dix dans la ville. En dehors de ces zones clôturées, la laisse est obligatoire dans tous les parcs publics sous peine d'amende."
+        },
+        {
+          "q": "Y a-t-il un parc pour chiens près du centre-ville ?",
+          "a": "Oui — le Parc de Procé (Rue des Dervallières) dispose du caniparc le plus central, à 15 minutes à pied de la Place du Commerce. Le jardin japonais de l'Île de Versailles est aussi très central, mais les chiens doivent y rester en laisse."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans la Loire ou l'Erdre à Nantes ?",
+          "a": "La baignade dans l'Erdre en ville est déconseillée en raison du trafic fluvial. Le Parc Naturel de Beaulieu sur l'Île Beaulieu donne accès aux berges de la Loire où certains chiens pataugent — mais il n'existe pas de zones de baignade officielles pour les chiens à l'intérieur de la ville."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permite a los perros ir sin correa en los parques de Nantes?",
+          "a": "Los perros solo pueden correr sin correa en las zonas de caniparque designadas, hay diez en toda la ciudad. Fuera de estas zonas valladas, la correa es obligatoria en todos los parques públicos y puede acarrear una multa."
+        },
+        {
+          "q": "¿Hay un parque para perros cerca del centro?",
+          "a": "Sí: el Parc de Procé (Rue des Dervallières) tiene el caniparque más céntrico, a 15 minutos a pie de la Place du Commerce. El jardín japonés de la Île de Versailles también está muy céntrico, aunque los perros deben ir con correa."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el Loira o el Erdre en Nantes?",
+          "a": "No se recomienda bañarse en el Erdre dentro de la ciudad por el tráfico fluvial. El Parc Naturel de Beaulieu en la Île Beaulieu da acceso a orillas del Loira donde algunos perros chapotean, pero no existen zonas oficiales de baño para perros dentro de la ciudad."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Nantes with a Dog",
+      "titleFr": "Se déplacer à Nantes avec un chien",
+      "titleEs": "Moverse por Nantes con un perro",
+      "introEn": "Nantes has one of the most restrictive pet transport rules of any major French city — dogs over 6 kg are not permitted on TAN (Naolib) buses, trams, or the Navibus ferry, except for guide and assistance dogs. This rule is actively contested by residents. With a medium or large dog, walking, cycling, or pet-friendly taxis are the practical options.",
+      "introFr": "Nantes applique l'une des réglementations les plus restrictives de France pour le transport d'animaux : les chiens de plus de 6 kg ne sont pas autorisés dans les bus, tramways ou le Navibus TAN (Naolib), à l'exception des chiens guides et d'assistance. Cette règle est vivement contestée par les habitants. Avec un chien moyen ou grand, la marche, le vélo ou un taxi acceptant les animaux sont les options pratiques.",
+      "introEs": "Nantes aplica una de las normativas de transporte de mascotas más restrictivas de las grandes ciudades francesas: los perros de más de 6 kg no están permitidos en los autobuses, tranvías o el Navibus TAN (Naolib), excepto los perros guía y de asistencia. Esta norma es activamente contestada por los residentes. Con un perro mediano o grande, caminar, ir en bicicleta o usar taxi pet-friendly son las opciones prácticas.",
+      "places": [
+        {
+          "name": "TAN / Naolib Network",
+          "address": "Place du Commerce, 44000 Nantes (TAN main office)",
+          "neighborhood": "City-wide",
+          "photo": "/images/city-places/nantes-transport-tan-naolib-network.jpg",
+          "website": "https://www.naolib.fr/",
+          "description": "The TAN public transport network (rebranded Naolib) covers the city with 3 tram lines, 60+ bus routes, and the Navibus river service linking the Loire quaysides. Small pets under 6 kg in a closed carrier travel free; dogs over 6 kg are prohibited except guide and assistance dogs.",
+          "descriptionFr": "Le réseau TAN (rebaptisé Naolib) couvre la ville avec 3 lignes de tram, plus de 60 lignes de bus et le Navibus fluvial reliant les quais de la Loire. Les petits animaux de moins de 6 kg en panier fermé voyagent gratuitement ; les chiens de plus de 6 kg sont interdits, sauf chiens guides et d'assistance.",
+          "descriptionEs": "La red TAN (rebautizada Naolib) cubre la ciudad con 3 líneas de tranvía, más de 60 rutas de autobús y el servicio fluvial Navibus que une los muelles del Loira. Las mascotas pequeñas menores de 6 kg en transportín cerrado viajan gratis; los perros de más de 6 kg están prohibidos excepto los guía y de asistencia.",
+          "petPolicy": "Pets under 6 kg in closed carrier: free. Dogs over 6 kg: not permitted (guide/assistance dogs exempt)",
+          "petPolicyFr": "Animaux < 6 kg en panier fermé : gratuit. Chiens > 6 kg : interdits (chiens guides et d'assistance exemptés)",
+          "petPolicyEs": "Mascotas <6 kg en transportín cerrado: gratis. Perros >6 kg: no permitidos (perros guía y de asistencia exentos)",
+          "openingHours": "Trams run daily approximately 05:00–00:30",
+          "tip": "With a large dog, the best option is a pet-friendly taxi via the Heetch or Marcel apps, or rent a Velhop cargo bike (station near the train station) to ride the Loire à Vélo path.",
+          "tipFr": "Avec un grand chien, la meilleure option est un taxi via l'appli Heetch ou Marcel, ou louer un vélo cargo Velhop (station près de la gare) pour longer la Loire à Vélo.",
+          "tipEs": "Con un perro grande, la mejor opción es un taxi a través de la app Heetch o Marcel, o alquilar una bicicleta de carga Velhop (estación cerca de la estación de tren) para recorrer la Loire à Vélo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Commerce+Nantes"
+        }
+      ],
+      "tipsEn": [
+        "Nantes has an excellent cycling network — the Velhop bike-sharing scheme accepts card payment and most dogs run happily alongside a cyclist on the Loire riverside path (La Loire à Vélo).",
+        "Pet-friendly taxis in Nantes include those bookable via Heetch and Marcel apps — always declare your pet when booking to avoid refusal on arrival.",
+        "If your dog fits in a small closed carrier under 6 kg, TAN/Naolib transit is free — carry the pet in a ventilated bag on your lap and there are no restrictions on any line."
+      ],
+      "tipsFr": [
+        "Nantes dispose d'un excellent réseau cyclable — le vélopartage Velhop accepte le paiement par carte et la plupart des chiens accompagnent joyeusement un cycliste sur le chemin de la Loire à Vélo.",
+        "Les taxis acceptant les animaux à Nantes incluent ceux réservables via les applis Heetch et Marcel — déclarez toujours votre animal lors de la réservation pour éviter un refus à l'arrivée.",
+        "Si votre chien tient dans un petit panier fermé de moins de 6 kg, les transports TAN/Naolib sont gratuits — portez l'animal dans un sac ventilé sur les genoux et il n'y a aucune restriction sur aucune ligne."
+      ],
+      "tipsEs": [
+        "Nantes tiene una excelente red ciclista: el sistema de bici compartida Velhop acepta pago con tarjeta y la mayoría de los perros acompañan felizmente a un ciclista por el camino fluvial de La Loire à Vélo.",
+        "Los taxis pet-friendly en Nantes incluyen los reservables a través de las apps Heetch y Marcel: declara siempre tu mascota al reservar para evitar negativas a la llegada.",
+        "Si tu perro cabe en un pequeño transportín cerrado de menos de 6 kg, el transporte TAN/Naolib es gratuito: lleva al animal en una bolsa ventilada sobre el regazo y no hay restricciones en ninguna línea."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take a large dog on the Nantes tram?",
+          "a": "No — dogs over 6 kg are not allowed on TAN trams, buses, or the Navibus. Only guide and assistance dogs are exempt. This is one of the most restrictive rules in France and there is active local campaigning to change it."
+        },
+        {
+          "q": "Are there pet-friendly taxis in Nantes?",
+          "a": "Yes — apps like Heetch and Marcel allow you to filter for pet-friendly drivers. Always declare your pet when booking, and bring a blanket or cover to protect car seats (many drivers appreciate this gesture)."
+        },
+        {
+          "q": "How walkable is Nantes with a dog?",
+          "a": "Very walkable — the train station is just 10–15 minutes on foot from the Château des Ducs, the city centre, and Parc de Procé. Les Machines de l'Île on the Île de Nantes is about 25 minutes on foot from the station."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le tram de Nantes avec un grand chien ?",
+          "a": "Non — les chiens de plus de 6 kg ne sont pas autorisés dans les trams, bus et Navibus TAN. Seuls les chiens guides et d'assistance sont exemptés. C'est l'une des règles les plus restrictives de France, et une campagne locale active cherche à la faire changer."
+        },
+        {
+          "q": "Y a-t-il des taxis acceptant les animaux à Nantes ?",
+          "a": "Oui — les applis comme Heetch et Marcel permettent de filtrer les chauffeurs acceptant les animaux. Déclarez toujours votre animal lors de la réservation, et emportez une couverture pour protéger les sièges (la plupart des chauffeurs l'apprécient)."
+        },
+        {
+          "q": "Nantes est-elle praticable à pied avec un chien ?",
+          "a": "Très — la gare est à 10–15 minutes à pied du Château des Ducs, du centre-ville et du Parc de Procé. Les Machines de l'Île sur l'Île de Nantes sont à environ 25 minutes à pied de la gare."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a un perro grande en el tranvía de Nantes?",
+          "a": "No: los perros de más de 6 kg no están permitidos en los tranvías, autobuses ni el Navibus de TAN. Solo los perros guía y de asistencia están exentos. Es una de las normativas más restrictivas de Francia y existe una campaña local activa para cambiarla."
+        },
+        {
+          "q": "¿Hay taxis pet-friendly en Nantes?",
+          "a": "Sí: apps como Heetch y Marcel permiten filtrar por conductores que acepten mascotas. Declara siempre tu mascota al reservar y lleva una manta para proteger los asientos (muchos conductores lo agradecen)."
+        },
+        {
+          "q": "¿Se puede recorrer Nantes a pie con un perro?",
+          "a": "Muy bien: la estación de tren está a solo 10-15 minutos a pie del Château des Ducs, el centro y el Parc de Procé. Las Machines de l'Île en la Île de Nantes están a unos 25 minutos a pie de la estación."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Beaches & Waterfront Areas near Nantes",
+      "titleFr": "Plages et bords d'eau autour de Nantes",
+      "titleEs": "Playas y zonas fluviales cerca de Nantes",
+      "introEn": "Nantes is about 55 km from the Atlantic coast and has no ocean beaches of its own. The city offers excellent dog-friendly riverside walks along the Loire and Erdre. For Atlantic beaches, the nearest dog-friendly options are in Loire-Atlantique, reachable by car in under an hour.",
+      "introFr": "Nantes est à environ 55 km de la côte atlantique et ne dispose pas de plages océaniques propres. La ville offre d'excellentes promenades dog-friendly le long de la Loire et de l'Erdre. Pour les plages atlantiques, les options dog-friendly les plus proches se trouvent en Loire-Atlantique, accessibles en voiture en moins d'une heure.",
+      "introEs": "Nantes está a unos 55 km de la costa atlántica y no tiene playas oceánicas propias. La ciudad ofrece excelentes paseos pet-friendly a lo largo del Loira y el Erdre. Para playas atlánticas, las opciones dog-friendly más cercanas están en Loire-Atlantique, accesibles en coche en menos de una hora.",
+      "places": [
+        {
+          "name": "Quais de la Loire",
+          "address": "Quai de la Fosse, 44000 Nantes",
+          "neighborhood": "Île de Nantes / Loire Quays",
+          "photo": "/images/city-places/nantes-beaches-quais-de-la-loire.jpg",
+          "website": "https://www.nantes-tourisme.com/",
+          "description": "The renovated Loire quaysides stretching from the Hangar à Bananes to the Trentemoult village form a 6 km dog-friendly riverside promenade passing public art, riverside bars, and the Machines de l'Île. Dogs are welcome on leash throughout — the best city-side waterfront experience Nantes offers.",
+          "descriptionFr": "Les quais de Loire réaménagés qui s'étendent du Hangar à Bananes au village de Trentemoult forment une promenade riverside dog-friendly de 6 km longeant des œuvres d'art public, des bars de bord de fleuve et les Machines de l'Île. Les chiens y sont bienvenus en laisse — la meilleure expérience de front d'eau côté ville à Nantes.",
+          "descriptionEs": "Los renovados muelles del Loira, que van del Hangar à Bananes al pueblo de Trentemoult, forman un paseo fluvial dog-friendly de 6 km junto a arte público, bares fluviales y las Machines de l'Île. Los perros son bienvenidos con correa, la mejor experiencia de frente fluvial que ofrece Nantes.",
+          "petPolicy": "Dogs on leash permitted throughout",
+          "petPolicyFr": "Chiens en laisse autorisés sur tout le parcours",
+          "petPolicyEs": "Perros con correa permitidos en todo el recorrido",
+          "openingHours": "Always accessible",
+          "tip": "Walk the stretch between Pont Anne-de-Bretagne and the Machines at dusk — the lighting of the riverside installations makes it one of the most memorable evening walks in France.",
+          "tipFr": "Longez le tronçon entre le Pont Anne-de-Bretagne et les Machines au crépuscule — l'éclairage des installations riveraines en fait l'une des promenades du soir les plus mémorables de France.",
+          "tipEs": "Recorre el tramo entre el Pont Anne-de-Bretagne y las Machines al atardecer: la iluminación de las instalaciones fluviales lo convierte en uno de los paseos nocturnos más memorables de Francia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Quai+de+la+Fosse+Nantes+Loire"
+        },
+        {
+          "name": "Plage de la Boutinardière",
+          "address": "La Boutinardière, 44550 Pornic",
+          "neighborhood": "Pornic — 50 km from Nantes",
+          "photo": "/images/city-places/nantes-beaches-plage-de-la-boutinardiere.jpg",
+          "website": "https://emmenetonchien.com/en/destinations-voyage-avec-un-chien/top-5-plages-loire-atlantique/",
+          "description": "The closest dog-friendly Atlantic beach to Nantes, near Pornic (about 50 km by car), with a more relaxed dog policy outside peak summer months. Dogs are generally permitted from October to May, making it ideal for an autumn or spring day trip from Nantes.",
+          "descriptionFr": "La plage atlantique dog-friendly la plus proche de Nantes, à Pornic (environ 50 km en voiture), avec une politique plus souple à l'égard des chiens en dehors de l'été. Les chiens y sont généralement autorisés d'octobre à mai — idéal pour une excursion d'automne ou de printemps depuis Nantes.",
+          "descriptionEs": "La playa atlántica dog-friendly más cercana a Nantes, en Pornic (unos 50 km en coche), con una política más flexible con los perros fuera de los meses de verano. Los perros suelen estar permitidos de octubre a mayo, ideal para una excursión de otoño o primavera desde Nantes.",
+          "petPolicy": "Dogs permitted October–May; restricted June–September",
+          "petPolicyFr": "Chiens autorisés d'octobre à mai ; restreint juin–septembre",
+          "petPolicyEs": "Perros permitidos de octubre a mayo; restringidos de junio a septiembre",
+          "openingHours": "Always accessible (seasonal dog restrictions apply)",
+          "tip": "September and October offer the best conditions: mild Atlantic weather, quiet beach, and dogs roaming freely before full restrictions ease — plan the day around a Nantes morning and a Pornic afternoon.",
+          "tipFr": "Septembre et octobre offrent les meilleures conditions : météo atlantique douce, plage calme, chiens en liberté avant que les restrictions s'assouplissent — planifiez la journée avec le matin à Nantes et l'après-midi à Pornic.",
+          "tipEs": "Septiembre y octubre ofrecen las mejores condiciones: clima atlántico suave, playa tranquila y perros libres antes de que se alivien las restricciones completas. Planifica el día con la mañana en Nantes y la tarde en Pornic.",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Boutinardiere+Pornic"
+        }
+      ],
+      "tipsEn": [
+        "The Loire-Atlantique tourist board maintains an official map of dog-friendly beaches across the département — check their website each spring as seasonal rules are updated annually.",
+        "From June to September, most Atlantic beaches in Loire-Atlantique ban dogs during peak hours (typically 09:00–19:00) — plan beach visits for early morning or late evening during summer.",
+        "Bring fresh water and a portable bowl for Atlantic beach visits — saltwater is harmful if dogs drink too much, and beach kiosks rarely stock dog supplies."
+      ],
+      "tipsFr": [
+        "L'office de tourisme de Loire-Atlantique tient une carte officielle des plages dog-friendly du département — consultez leur site chaque printemps car les règles saisonnières sont mises à jour chaque année.",
+        "De juin à septembre, la plupart des plages atlantiques de Loire-Atlantique interdisent les chiens pendant les heures de pointe (généralement 9h–19h) — planifiez vos visites tôt le matin ou en soirée pendant l'été.",
+        "Emportez de l'eau fraîche et une gamelle portable pour les visites à la plage atlantique — l'eau salée est nocive si les chiens en boivent trop, et les kiosques de plage proposent rarement des articles pour animaux."
+      ],
+      "tipsEs": [
+        "La oficina de turismo de Loire-Atlantique mantiene un mapa oficial de playas dog-friendly del departamento: consulta su web cada primavera ya que las normas estacionales se actualizan anualmente.",
+        "De junio a septiembre, la mayoría de las playas atlánticas de Loire-Atlantique prohíben los perros en horas punta (normalmente de 09:00 a 19:00): planifica las visitas a primera hora de la mañana o al anochecer en verano.",
+        "Lleva agua fresca y un cuenco portátil para las visitas a la playa atlántica: el agua salada es perjudicial si los perros beben demasiado y los quioscos de playa raramente tienen suministros para mascotas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Does Nantes have a beach?",
+          "a": "No — Nantes is an inland city about 55 km from the Atlantic coast. The Loire and Erdre rivers provide excellent waterfront walking, and the Loire-Atlantique coastline (Pornic, Saint-Nazaire area) is reachable by car in under an hour."
+        },
+        {
+          "q": "Which beaches near Nantes allow dogs year-round?",
+          "a": "According to the Emmène Ton Chien Loire-Atlantique guide, very few beaches allow dogs year-round in the département. Most allow dogs from October to May. Check the official map at emmenetonchien.com for the current season's rules."
+        },
+        {
+          "q": "Can my dog walk along the Loire in Nantes?",
+          "a": "Yes — the Loire quaysides are dog-friendly throughout and offer a beautiful 6 km riverside walk from the Trentemoult side to the Hangar à Bananes. Dogs must be on a leash on all quayside paths."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Nantes a-t-elle une plage ?",
+          "a": "Non — Nantes est une ville de l'intérieur à environ 55 km de la côte atlantique. La Loire et l'Erdre offrent de belles promenades en bord d'eau, et le littoral de Loire-Atlantique (secteur Pornic, Saint-Nazaire) est accessible en voiture en moins d'une heure."
+        },
+        {
+          "q": "Quelles plages près de Nantes autorisent les chiens toute l'année ?",
+          "a": "Selon le guide Loire-Atlantique d'Emmène Ton Chien, très peu de plages du département autorisent les chiens toute l'année. La plupart les acceptent d'octobre à mai. Consultez la carte officielle sur emmenetonchien.com pour les règles de la saison en cours."
+        },
+        {
+          "q": "Mon chien peut-il se promener le long de la Loire à Nantes ?",
+          "a": "Oui — les quais de la Loire sont dog-friendly sur toute leur longueur et offrent une belle promenade de 6 km depuis le côté Trentemoult jusqu'au Hangar à Bananes. Les chiens doivent être en laisse sur tous les chemins de quai."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Tiene playa Nantes?",
+          "a": "No: Nantes es una ciudad de interior a unos 55 km de la costa atlántica. El Loira y el Erdre ofrecen hermosos paseos fluviales, y el litoral de Loire-Atlantique (zona de Pornic, Saint-Nazaire) es accesible en coche en menos de una hora."
+        },
+        {
+          "q": "¿Qué playas cerca de Nantes admiten perros todo el año?",
+          "a": "Según la guía Loire-Atlantique de Emmène Ton Chien, muy pocas playas del departamento admiten perros todo el año. La mayoría los permiten de octubre a mayo. Consulta el mapa oficial en emmenetonchien.com para las normas de la temporada actual."
+        },
+        {
+          "q": "¿Puede mi perro pasear a lo largo del Loira en Nantes?",
+          "a": "Sí: los muelles del Loira son dog-friendly en toda su extensión y ofrecen un hermoso paseo fluvial de 6 km desde el lado de Trentemoult hasta el Hangar à Bananes. Los perros deben ir con correa en todos los caminos de los muelles."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets & Emergency Pet Care in Nantes",
+      "titleFr": "Vétérinaires et urgences vétérinaires à Nantes",
+      "titleEs": "Veterinarios y urgencias para mascotas en Nantes",
+      "introEn": "Nantes has two 24/7 emergency veterinary hospitals and several specialist centres, making it well-served for pet health emergencies. The Centre Hospitalier Vétérinaire Atlantia is the main 24/7 reference, while CHUV Oniris (Nantes' teaching hospital) handles complex referral cases. The national emergency line 3115 (free, 24/7) can also direct you to the nearest vet on duty.",
+      "introFr": "Nantes dispose de deux hôpitaux vétérinaires d'urgence 24h/24 et de plusieurs centres spécialisés — la ville est bien équipée pour les urgences vétérinaires. Le CHV Atlantia est la principale référence 24h/24, tandis que le CHUV Oniris (centre hospitalier universitaire vétérinaire) gère les cas complexes en référence. Le numéro national 3115 (gratuit, 24h/24) peut aussi vous orienter vers le vétérinaire de garde le plus proche.",
+      "introEs": "Nantes cuenta con dos hospitales veterinarios de urgencias 24h/7j y varios centros especializados, lo que la convierte en una ciudad bien atendida para emergencias de mascotas. El CHV Atlantia es la principal referencia 24h/7j, mientras que el CHUV Oniris (hospital universitario veterinario) gestiona los casos complejos de derivación. La línea nacional 3115 (gratuita, 24h/7j) también puede dirigirte al veterinario de guardia más cercano.",
+      "places": [
+        {
+          "name": "CHV Atlantia",
+          "address": "22 Rue René Viviani, 44200 Nantes",
+          "neighborhood": "Nantes-Sud / Saint-Sébastien",
+          "photo": "/images/city-places/nantes-vets-chv-atlantia.jpg",
+          "website": "https://www.chv-atlantia.fr/urgences/",
+          "description": "Nantes' main 24/7 emergency veterinary hospital, offering specialist surgery, imaging, and intensive care for small animals throughout the year including public holidays. It is the first point of call for any after-hours emergency with a dog or cat in the Nantes area.",
+          "descriptionFr": "Le principal hôpital vétérinaire d'urgences 24h/24 de Nantes, proposant chirurgie spécialisée, imagerie et soins intensifs pour les petits animaux toute l'année, jours fériés inclus. C'est le premier recours pour toute urgence hors heures ouvrables avec un chien ou un chat dans l'agglomération nantaise.",
+          "descriptionEs": "El principal hospital veterinario de urgencias 24h/7j de Nantes, con cirugía especializada, diagnóstico por imagen y cuidados intensivos para pequeños animales durante todo el año incluidos festivos. Es la primera opción para cualquier urgencia fuera de horario con un perro o gato en el área de Nantes.",
+          "petPolicy": "24/7 emergency care all year for small animals",
+          "petPolicyFr": "Urgences 24h/24 toute l'année pour les petits animaux",
+          "petPolicyEs": "Urgencias 24h/7j todo el año para animales pequeños",
+          "openingHours": "24/7, 365 days a year",
+          "tip": "Phone ahead — 02 40 47 40 09 — before arriving with an emergency, so a specialist can be ready on arrival rather than managing triage at the front desk.",
+          "tipFr": "Appelez avant — 02 40 47 40 09 — avant d'arriver avec une urgence, pour qu'un spécialiste soit prêt à votre arrivée plutôt que de gérer le triage à l'accueil.",
+          "tipEs": "Llama antes al 02 40 47 40 09 antes de llegar con una urgencia, para que un especialista esté listo a tu llegada en lugar de gestionar el triaje en recepción.",
+          "googleMapsUrl": "https://maps.google.com/?q=CHV+Atlantia+22+Rue+Rene+Viviani+Nantes"
+        },
+        {
+          "name": "CHUV Oniris",
+          "address": "120 Route de Gachet, 44300 Nantes",
+          "neighborhood": "Nantes-Nord / Gachet",
+          "photo": "/images/city-places/nantes-vets-chuv-oniris.jpg",
+          "website": "https://chuv.oniris-nantes.fr/animaux-de-compagnie/urgences",
+          "description": "The university veterinary teaching hospital of Nantes, part of the Oniris national veterinary school, accepts 24/7 emergency referrals for dogs and cats throughout the year except August. State-of-the-art facilities for oncology, cardiology, and orthopaedic cases are available to all pet owners.",
+          "descriptionFr": "Le centre hospitalier universitaire vétérinaire de Nantes, rattaché à l'école nationale vétérinaire Oniris, accepte les urgences pour chiens et chats 24h/24 toute l'année sauf en août. Des équipements de pointe pour l'oncologie, la cardiologie et l'orthopédie sont accessibles à tous les propriétaires d'animaux.",
+          "descriptionEs": "El hospital universitario veterinario de Nantes, parte de la escuela nacional de veterinaria Oniris, acepta urgencias 24h/7j para perros y gatos todo el año excepto en agosto. Instalaciones de vanguardia para oncología, cardiología y ortopedia disponibles para todos los dueños de mascotas.",
+          "petPolicy": "24/7 emergency care except August; specialist referrals accepted",
+          "petPolicyFr": "Urgences 24h/24 sauf août ; référencements spécialistes acceptés",
+          "petPolicyEs": "Urgencias 24h/7j excepto agosto; se aceptan derivaciones especializadas",
+          "openingHours": "24/7 except August",
+          "tip": "Use the 2nd entrance at 120 route de Gachet for pet owner emergencies — not the main Oniris school gate, which confuses many first-time visitors.",
+          "tipFr": "Utilisez la 2e entrée au 120 route de Gachet pour les urgences propriétaires — pas la porte principale de l'école Oniris, ce qui déroute beaucoup de nouveaux venus.",
+          "tipEs": "Usa la 2ª entrada en 120 route de Gachet para urgencias de propietarios, no la puerta principal de la escuela Oniris, que confunde a muchos visitantes noveles.",
+          "googleMapsUrl": "https://maps.google.com/?q=CHUV+Oniris+120+Route+de+Gachet+Nantes"
+        }
+      ],
+      "tipsEn": [
+        "Save two numbers before arriving: CHV Atlantia 02 40 47 40 09 (24/7 all year) and the national 3115 (free call, 24/7) which directs you to the vet on duty if the nearest clinic cannot be reached.",
+        "Dogs must be identified by microchip or tattoo in France (mandatory since 1999) — if you lose your pet, the I-CAD national registry at www.i-cad.fr allows immediate lookup by chip number.",
+        "Lost pets in Nantes should be reported to the municipal pound (Fourrière Municipale de Nantes) and posted on PA.fr (France's official lost-pet registry) — both are linked from the Nantes Métropole website."
+      ],
+      "tipsFr": [
+        "Enregistrez deux numéros avant d'arriver : le CHV Atlantia 02 40 47 40 09 (24h/24 toute l'année) et le national 3115 (appel gratuit, 24h/24) qui vous oriente vers le vétérinaire de garde si la clinique la plus proche n'est pas joignable.",
+        "Les chiens doivent être identifiés par puce ou tatouage en France (obligatoire depuis 1999) — si vous perdez votre animal, le registre national I-CAD sur www.i-cad.fr permet une recherche immédiate par numéro de puce.",
+        "Les animaux perdus à Nantes doivent être signalés à la fourrière municipale de Nantes et publiés sur PA.fr (registre officiel français des animaux perdus) — les deux sont accessibles depuis le site de Nantes Métropole."
+      ],
+      "tipsEs": [
+        "Guarda dos números antes de llegar: CHV Atlantia 02 40 47 40 09 (24h/7j todo el año) y el nacional 3115 (llamada gratuita, 24h/7j) que te dirige al veterinario de guardia si no se puede contactar con la clínica más cercana.",
+        "Los perros deben estar identificados por microchip o tatuaje en Francia (obligatorio desde 1999): si pierdes tu mascota, el registro nacional I-CAD en www.i-cad.fr permite búsqueda inmediata por número de chip.",
+        "Los animales perdidos en Nantes deben notificarse a la perrera municipal (Fourrière Municipale de Nantes) y publicarse en PA.fr (el registro oficial francés de mascotas perdidas), ambos enlazados desde el sitio web de Nantes Métropole."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Nantes?",
+          "a": "Yes — CHV Atlantia (22 Rue René Viviani, tel. 02 40 47 40 09) operates 24/7 all year including public holidays. CHUV Oniris (120 route de Gachet) also provides 24/7 emergency care but closes in August."
+        },
+        {
+          "q": "What should I do if my dog is lost in Nantes?",
+          "a": "Contact the Nantes municipal pound, check the national I-CAD chip database at www.i-cad.fr, and report on PA.fr. Posting in the local Facebook group 'Animaux Perdus et Trouvés Nantes' is also highly effective."
+        },
+        {
+          "q": "Do I need a health certificate to travel to France with my dog?",
+          "a": "EU residents need only an EU Pet Passport. Non-EU travellers need an official health certificate (issued within 10 days of travel) and proof of rabies vaccination. Ensure the microchip is ISO 11784/11785 compliant."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Nantes ?",
+          "a": "Oui — le CHV Atlantia (22 Rue René Viviani, tél. 02 40 47 40 09) fonctionne 24h/24 toute l'année, jours fériés compris. Le CHUV Oniris (120 route de Gachet) assure également des urgences 24h/24 mais est fermé en août."
+        },
+        {
+          "q": "Que faire si mon chien est perdu à Nantes ?",
+          "a": "Contactez la fourrière municipale de Nantes, consultez la base nationale I-CAD sur www.i-cad.fr, et signalez la perte sur PA.fr. Publier dans le groupe Facebook local 'Animaux Perdus et Trouvés Nantes' est aussi très efficace."
+        },
+        {
+          "q": "Ai-je besoin d'un certificat sanitaire pour voyager en France avec mon chien ?",
+          "a": "Les résidents de l'UE ont uniquement besoin d'un passeport européen pour animaux. Les voyageurs non-UE ont besoin d'un certificat sanitaire officiel (dans les 10 jours précédant le voyage) et d'une preuve de vaccination antirabique. Vérifiez que la puce est conforme à la norme ISO 11784/11785."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24 horas en Nantes?",
+          "a": "Sí: el CHV Atlantia (22 Rue René Viviani, tel. 02 40 47 40 09) funciona 24h/7j todo el año incluidos festivos. El CHUV Oniris (120 route de Gachet) también ofrece urgencias 24h/7j pero cierra en agosto."
+        },
+        {
+          "q": "¿Qué debo hacer si mi perro se pierde en Nantes?",
+          "a": "Contacta con la perrera municipal de Nantes, consulta la base nacional I-CAD en www.i-cad.fr y notifica en PA.fr. Publicar en el grupo local de Facebook 'Animaux Perdus et Trouvés Nantes' también es muy efectivo."
+        },
+        {
+          "q": "¿Necesito un certificado sanitario para viajar a Francia con mi perro?",
+          "a": "Los residentes de la UE solo necesitan el Pasaporte Europeo para Animales. Los viajeros no comunitarios necesitan un certificado sanitario oficial (dentro de los 10 días previos al viaje) y prueba de vacunación antirrábica. Asegúrate de que el microchip cumple la norma ISO 11784/11785."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Insider Tips for Visiting Nantes with a Pet",
+      "titleFr": "Conseils d'initiés pour visiter Nantes avec un animal",
+      "titleEs": "Consejos de iniciados para visitar Nantes con mascota",
+      "introEn": "Nantes has repeatedly been voted France's most liveable city, and much of that quality extends to pets. From the official QUALIDOG restaurant network to a detailed caniparc map, the city takes pet-friendliness seriously. A few local tips will make your visit significantly smoother.",
+      "introFr": "Nantes a été plusieurs fois élue ville la plus agréable à vivre de France, et une grande partie de cette qualité de vie s'étend aux animaux. Du réseau de restaurants QUALIDOG à une carte détaillée des caniparcs, la ville prend au sérieux l'accueil des animaux. Quelques conseils locaux rendront votre séjour bien plus fluide.",
+      "introEs": "Nantes ha sido elegida repetidamente la ciudad más habitable de Francia, y gran parte de esa calidad de vida se extiende a las mascotas. Desde la red oficial de restaurantes QUALIDOG hasta un detallado mapa de caniparques, la ciudad se toma en serio la bienvenida a las mascotas.",
+      "places": [],
+      "tipsEn": [
+        "Download the official Nantes Métropole dog-walking map from metropole.nantes.fr before your trip — it lists all off-leash zones, caniparcs, and restricted areas including parks, children's playgrounds, and summer beach zones.",
+        "The Voyage à Nantes green line painted on the pavements covers 12 km of the city's best sights and is entirely dog-friendly — download the free official app for a self-guided tour at your dog's pace.",
+        "With a large dog and no taxi on hand, rent a Velhop cargo bike at the station — locals with big dogs regularly use this instead of taxis and it doubles as an excellent riverside cycling route along La Loire à Vélo."
+      ],
+      "tipsFr": [
+        "Téléchargez la carte officielle de promenade canine de Nantes Métropole sur metropole.nantes.fr avant votre séjour — elle liste toutes les zones sans laisse, les caniparcs et les zones interdites, notamment les parcs, les aires de jeux et les plages en été.",
+        "Le tracé vert du Voyage à Nantes peint sur les trottoirs couvre 12 km des plus beaux sites de la ville et est entièrement dog-friendly — téléchargez l'appli officielle gratuite pour une visite autoguidée au rythme de votre chien.",
+        "Avec un grand chien et pas de taxi à portée, louez un vélo cargo Velhop à la gare — les Nantais avec de grands chiens utilisent régulièrement cette solution au lieu des taxis, qui double en plus comme excellente route cyclable au bord de la Loire."
+      ],
+      "tipsEs": [
+        "Descarga el mapa oficial de paseo canino de Nantes Métropole desde metropole.nantes.fr antes de tu visita: lista todas las zonas sin correa, caniparques y áreas restringidas, incluidos parques, zonas de juegos y playas en verano.",
+        "El trazado verde del Voyage à Nantes pintado en las aceras cubre 12 km de los mejores lugares de la ciudad y es totalmente dog-friendly: descarga la app oficial gratuita para una visita autoguiada al ritmo de tu perro.",
+        "Con un perro grande y sin taxi a mano, alquila una bicicleta de carga Velhop en la estación: los nanteses con perros grandes la usan regularmente en lugar de taxis, y además es una excelente ruta ciclista junto al Loira."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Nantes a good city to visit with a dog?",
+          "a": "Yes — Nantes is regularly ranked among France's most liveable cities, and that quality extends to dogs. Ten caniparcs, a QUALIDOG restaurant network, and 12 km of dog-friendly cultural walking trail make it genuinely pet-welcoming. The main caveat is the restrictive public transport policy for dogs over 6 kg."
+        },
+        {
+          "q": "What is the best time of year to visit Nantes with a dog?",
+          "a": "April and October are ideal: mild oceanic temperatures, quiet parks, and no summer beach restrictions. May–September offers the best weather but is peak tourist season. Winter is mild by French standards (rarely below 3°C) and the parks and quays are pleasantly quiet."
+        },
+        {
+          "q": "Are dogs allowed in Nantes shops?",
+          "a": "French law allows dogs in shops unless explicitly prohibited. In Nantes, most independent boutiques and some supermarkets tolerate small dogs; large chains (Fnac, Carrefour) generally do not. The Passage Pommeraye arcade and the Bouffay market area are the most dog-welcoming shopping zones."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Nantes est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui — Nantes est régulièrement classée parmi les villes les plus agréables à vivre en France, et cette qualité s'étend aux chiens. Dix caniparcs, un réseau de restaurants QUALIDOG et 12 km de parcours culturel dog-friendly en font une ville sincèrement accueillante. La principale réserve est la politique restrictive des transports en commun pour les chiens de plus de 6 kg."
+        },
+        {
+          "q": "Quelle est la meilleure période pour visiter Nantes avec un chien ?",
+          "a": "Avril et octobre sont idéaux : températures océaniques douces, parcs tranquilles et pas de restrictions estivales sur les plages. Mai–septembre offre le meilleur temps mais c'est la haute saison touristique. L'hiver est doux selon les standards français (rarement sous 3°C) et les parcs et quais sont agréablement calmes."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans les commerces nantais ?",
+          "a": "La loi française autorise les chiens dans les commerces sauf mention contraire. À Nantes, la plupart des boutiques indépendantes et certains supermarchés tolèrent les petits chiens ; les grandes enseignes (Fnac, Carrefour) généralement non. Le Passage Pommeraye et le quartier du marché Bouffay sont les zones commerçantes les plus dog-friendly."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Nantes una buena ciudad para visitar con perro?",
+          "a": "Sí: Nantes está regularmente clasificada entre las ciudades más habitables de Francia, y esa calidad se extiende a los perros. Diez caniparques, una red de restaurantes QUALIDOG y 12 km de recorrido cultural dog-friendly la hacen genuinamente acogedora. La principal salvedad es la restrictiva política de transporte público para perros de más de 6 kg."
+        },
+        {
+          "q": "¿Cuál es la mejor época del año para visitar Nantes con perro?",
+          "a": "Abril y octubre son ideales: temperaturas oceánicas suaves, parques tranquilos y sin restricciones de playa estivales. Mayo-septiembre ofrece el mejor tiempo pero es temporada alta turística. El invierno es suave para los estándares franceses (raramente por debajo de 3°C) y los parques y muelles están agradablemente tranquilos."
+        },
+        {
+          "q": "¿Se admiten perros en las tiendas de Nantes?",
+          "a": "La ley francesa permite los perros en las tiendas salvo prohibición expresa. En Nantes, la mayoría de boutiques independientes y algunos supermercados toleran los perros pequeños; las grandes cadenas (Fnac, Carrefour) generalmente no. El Passage Pommeraye y la zona del mercado de Bouffay son las zonas comerciales más dog-friendly."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Nantes",
+      "titleFr": "Attractions accessibles aux animaux à Nantes",
+      "titleEs": "Atracciones pet-friendly en Nantes",
+      "introEn": "Nantes is famous for its creative, unconventional cultural scene — from the giant mechanical elephant of Les Machines de l'Île to the green-line walking trail through the city. Many signature Nantes experiences take place outdoors or have outdoor components where dogs are welcome, making it one of the most enjoyable European cities to visit culturally with a dog.",
+      "introFr": "Nantes est célèbre pour son offre culturelle créative et décalée — du gigantesque éléphant mécanique des Machines de l'Île au parcours de la ligne verte dans la ville. Beaucoup des expériences emblématiques de Nantes se déroulent en extérieur ou ont des parties en plein air où les chiens sont bienvenus, en faisant l'une des villes européennes les plus agréables à visiter culturellement avec un chien.",
+      "introEs": "Nantes es famosa por su escena cultural creativa e inconformista: desde el gigantesco elefante mecánico de las Machines de l'Île hasta el sendero de la línea verde por la ciudad. Muchas de las experiencias emblemáticas de Nantes son al aire libre o tienen componentes exteriores donde los perros son bienvenidos.",
+      "places": [
+        {
+          "name": "Les Machines de l'Île",
+          "address": "Parc des Chantiers, Boulevard Léon Bureau, 44200 Nantes",
+          "neighborhood": "Île de Nantes",
+          "photo": "/images/city-places/nantes-attractions-les-machines-de-l-ile.jpg",
+          "website": "https://www.lesmachines-nantes.fr/",
+          "description": "A unique artistic attraction blending Jules Verne's imaginary worlds with the industrial heritage of Nantes — the 12-metre Grand Éléphant walks the Île de Nantes carrying 52 passengers on its back. The outdoor esplanade and surrounding park are dog-friendly on leash; dogs cannot ride the Éléphant or enter the Galerie des Machines workshops.",
+          "descriptionFr": "Une attraction artistique unique mêlant les univers imaginaires de Jules Verne et le patrimoine industriel nantais — le Grand Éléphant de 12 mètres se promène sur l'Île de Nantes avec 52 passagers sur le dos. L'esplanade extérieure et le parc environnant sont dog-friendly en laisse ; les chiens ne peuvent pas monter sur l'Éléphant ni entrer dans la Galerie des Machines.",
+          "descriptionEs": "Una atracción artística única que fusiona los mundos imaginarios de Julio Verne con el patrimonio industrial nantés: el Grand Éléphant de 12 metros pasea por la Île de Nantes con 52 pasajeros en su lomo. La explanada exterior y el parque circundante son dog-friendly con correa; los perros no pueden subir al Éléphant ni entrar en los talleres de la Galerie des Machines.",
+          "petPolicy": "Dogs on leash welcome on outdoor esplanade; not permitted inside workshops or on the Éléphant",
+          "petPolicyFr": "Chiens en laisse bienvenus sur l'esplanade extérieure ; non admis dans les ateliers ni sur l'Éléphant",
+          "petPolicyEs": "Perros con correa bienvenidos en la explanada exterior; no permitidos dentro de los talleres ni en el Éléphant",
+          "openingHours": "Tue–Sun 10:00–18:00 (closed Monday; extended summer hours)",
+          "tip": "Come at 14:00 to watch the Grand Éléphant depart for its walk — the surrounding plaza fills with spectators but your dog can watch from the perimeter perfectly well on a short leash.",
+          "tipFr": "Venez à 14h pour voir le Grand Éléphant partir en promenade — la plaza se remplit de spectateurs mais votre chien peut observer depuis le périmètre très bien en laisse courte.",
+          "tipEs": "Ven a las 14:00 para ver al Grand Éléphant salir a pasear: la plaza se llena de espectadores pero tu perro puede observar perfectamente desde el perímetro con correa corta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Les+Machines+Ile+Nantes+Boulevard+Leon+Bureau"
+        },
+        {
+          "name": "Château des Ducs de Bretagne",
+          "address": "4 Place Marc Elder, 44000 Nantes",
+          "neighborhood": "Centre-ville",
+          "photo": "/images/city-places/nantes-attractions-chateau-des-ducs-de-bretagne.jpg",
+          "website": "https://www.chateaunantes.fr/en/",
+          "description": "Nantes' most iconic landmark — a perfectly preserved 15th-century fortress with a moat garden and rampart walk that are free to access and dog-friendly on leash. The museum inside is not accessible to dogs, but the moat gardens and ramparts alone make for an excellent and atmospheric walk.",
+          "descriptionFr": "Le monument le plus iconique de Nantes — une forteresse du XVe siècle parfaitement conservée avec des jardins des douves et un chemin de ronde en accès libre et dog-friendly en laisse. Le musée à l'intérieur n'est pas accessible aux chiens, mais les jardins des douves et les remparts constituent à eux seuls une excellente promenade atmosphérique.",
+          "descriptionEs": "El monumento más icónico de Nantes: una fortaleza del siglo XV perfectamente conservada con jardín en el foso y paseo de ronda de acceso libre y dog-friendly con correa. El museo interior no es accesible con perros, pero los jardines del foso y las murallas por sí solos constituyen un excelente paseo lleno de atmósfera.",
+          "petPolicy": "Dogs on leash welcome in moat gardens and on ramparts; not permitted in museum",
+          "petPolicyFr": "Chiens en laisse bienvenus dans les jardins des douves et sur les remparts ; non admis dans le musée",
+          "petPolicyEs": "Perros con correa bienvenidos en los jardines del foso y en las murallas; no se admiten en el museo",
+          "openingHours": "Grounds free access daily; Museum Tue–Sun 09:30–18:00",
+          "tip": "The moat gardens are shaded and quiet in the morning — an ideal spot to pause with your dog before heading into the city centre. The rampart walk is always free and offers panoramic city views.",
+          "tipFr": "Les jardins des douves sont ombragés et calmes le matin — un endroit idéal pour faire une pause avec son chien avant de partir à la découverte du centre. Le chemin de ronde est toujours gratuit et offre des vues panoramiques sur la ville.",
+          "tipEs": "Los jardines del foso están sombreados y tranquilos por la mañana, un lugar ideal para hacer una pausa con tu perro antes de explorar el centro. El paseo de ronda es siempre gratuito y ofrece vistas panorámicas de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Chateau+des+Ducs+de+Bretagne+4+Place+Marc+Elder+Nantes"
+        },
+        {
+          "name": "Passage Pommeraye",
+          "address": "6 Rue de la Fosse, 44000 Nantes",
+          "neighborhood": "Centre-ville",
+          "photo": "/images/city-places/nantes-attractions-passage-pommeraye.jpg",
+          "website": "https://www.passagepommeraye.fr/",
+          "description": "Built in 1843, this neo-Renaissance multi-level shopping arcade is one of the most beautiful in France and appeared in Jacques Demy's film 'Lola.' Dogs are generally tolerated by shopkeepers on a short leash, making it an elegant rainy-day detour in the heart of Nantes.",
+          "descriptionFr": "Construit en 1843, ce passage couvert néo-Renaissance à plusieurs niveaux est l'un des plus beaux de France et a servi de décor au film 'Lola' de Jacques Demy. Les chiens sont généralement tolérés par les commerçants en laisse courte, en faisant une élégante halte par temps de pluie au cœur de Nantes.",
+          "descriptionEs": "Construido en 1843, esta galería comercial neorrenacentista de varios niveles es una de las más bellas de Francia y apareció en la película 'Lola' de Jacques Demy. Los perros son generalmente tolerados por los comerciantes con correa corta, convirtiéndola en una elegante parada para días de lluvia en el corazón de Nantes.",
+          "petPolicy": "Dogs tolerated at shopkeepers' discretion; short leash required at all times",
+          "petPolicyFr": "Chiens tolérés à la discrétion des commerçants ; laisse courte obligatoire en tout temps",
+          "petPolicyEs": "Perros tolerados a discreción de los comerciantes; correa corta obligatoria en todo momento",
+          "openingHours": "Mon–Sat 09:00–20:00",
+          "tip": "Visit on a weekday morning when the arcade is least crowded — the multi-level space with echoing staircases can unsettle nervous dogs during peak shopping hours.",
+          "tipFr": "Visitez un matin de semaine quand le passage est le moins fréquenté — l'espace à plusieurs niveaux avec des escaliers en écho peut perturber les chiens nerveux aux heures de pointe.",
+          "tipEs": "Visita un día de semana por la mañana cuando la galería está menos concurrida: el espacio de varios niveles con escaleras de eco puede incomodar a los perros nerviosos en horas punta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Passage+Pommeraye+6+Rue+de+la+Fosse+Nantes"
+        }
+      ],
+      "tipsEn": [
+        "The Voyage à Nantes green line (painted on pavements) connects all major sights over 12 km and is completely dog-friendly — download the free app for a self-guided tour at your dog's pace.",
+        "Most Nantes museums do not allow dogs inside — plan for one person to stay outside with the dog, or use the many dog-friendly café terraces nearby as a waiting base.",
+        "The Trentemoult village on the south bank of the Loire is reachable on foot or by bike via the quays — the Navibus ferry does not allow dogs — and is well worth the 40-minute walk for its colourful fishermen's houses."
+      ],
+      "tipsFr": [
+        "Le tracé vert du Voyage à Nantes (peint sur les trottoirs) relie tous les grands sites sur 12 km et est entièrement dog-friendly — téléchargez l'appli gratuite pour une visite autoguidée au rythme de votre chien.",
+        "La plupart des musées de Nantes n'admettent pas les chiens — prévoyez qu'une personne reste dehors avec le chien lors des visites intérieures, ou utilisez les nombreuses terrasses de cafés dog-friendly à proximité comme base d'attente.",
+        "Le village de Trentemoult sur la rive sud de la Loire est accessible à pied ou à vélo via les quais — le Navibus ne permet pas les chiens — et vaut largement les 40 minutes de marche pour ses maisons colorées de pêcheurs."
+      ],
+      "tipsEs": [
+        "La línea verde del Voyage à Nantes (pintada en las aceras) conecta todos los grandes lugares de interés en 12 km y es completamente dog-friendly: descarga la app gratuita para una visita autoguiada al ritmo de tu perro.",
+        "La mayoría de los museos de Nantes no admiten perros: planifica que una persona se quede fuera con el perro al visitar interiores, o usa las numerosas terrazas de cafés dog-friendly cercanas como base de espera.",
+        "El pueblo de Trentemoult en la orilla sur del Loira es accesible a pie o en bicicleta por los muelles (el ferry Navibus no admite perros) y bien vale los 40 minutos de caminata por sus coloridas casas de pescadores."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Les Machines de l'Île?",
+          "a": "Dogs are welcome on the outdoor esplanade around Les Machines on a leash but cannot board the Grand Éléphant or enter the Galerie des Machines workshops. The external circus area and surrounding park are fully accessible with your dog."
+        },
+        {
+          "q": "Are dogs allowed in the Château des Ducs de Bretagne?",
+          "a": "Dogs are welcome on a leash in the moat gardens and on the rampart walk (both free access), but are not permitted inside the castle museum. The outdoor areas alone make for a very rewarding visit."
+        },
+        {
+          "q": "What is the Voyage à Nantes green line?",
+          "a": "It is a 12 km itinerary painted as a green line on Nantes' pavements, connecting major cultural sites, street art, and hidden gems. It is completely free, entirely walkable with a dog, and self-guided using the free official app."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien aux Machines de l'Île ?",
+          "a": "Les chiens sont bienvenus en laisse sur l'esplanade extérieure des Machines mais ne peuvent pas monter sur le Grand Éléphant ni entrer dans la Galerie des Machines. Le secteur extérieur et le parc environnant sont entièrement accessibles avec votre chien."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés au Château des Ducs de Bretagne ?",
+          "a": "Les chiens sont bienvenus en laisse dans les jardins des douves et sur le chemin de ronde (accès libre), mais ne sont pas admis à l'intérieur du musée du château. Les espaces extérieurs seuls valent une visite très appréciable."
+        },
+        {
+          "q": "C'est quoi le tracé vert du Voyage à Nantes ?",
+          "a": "C'est un itinéraire de 12 km tracé en vert sur les trottoirs de Nantes, reliant les grands sites culturels, le street art et les pépites cachées de la ville. Entièrement gratuit, praticable avec un chien, et autoguidé via l'appli officielle gratuite."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a las Machines de l'Île?",
+          "a": "Los perros son bienvenidos con correa en la explanada exterior de las Machines, pero no pueden subir al Grand Éléphant ni entrar en los talleres de la Galerie des Machines. El área exterior y el parque circundante son totalmente accesibles con tu perro."
+        },
+        {
+          "q": "¿Se admiten perros en el Château des Ducs de Bretagne?",
+          "a": "Los perros son bienvenidos con correa en los jardines del foso y en el paseo de ronda (ambos de acceso libre), pero no se admiten en el interior del museo del castillo. Los espacios exteriores por sí solos hacen de la visita una experiencia muy gratificante."
+        },
+        {
+          "q": "¿Qué es la línea verde del Voyage à Nantes?",
+          "a": "Es un itinerario de 12 km pintado como línea verde en las aceras de Nantes que conecta grandes lugares culturales, arte urbano y joyas ocultas. Es completamente gratuito, totalmente transitable con perro y autoguiado con la app oficial gratuita."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog-Walking in Nantes",
+      "titleFr": "Garde et promenade de chiens à Nantes",
+      "titleEs": "Cuidado y paseo de perros en Nantes",
+      "introEn": "Nantes has a well-developed pet-care ecosystem, with 50+ registered dog walkers and sitters on Pawshake and DogBuddy alone. Several local services offer structured walks along the Loire — ideal for a museum afternoon when dogs aren't permitted inside. National platforms Pawshake and Holidog both have strong Nantes coverage.",
+      "introFr": "Nantes dispose d'un écosystème de garde d'animaux bien développé, avec plus de 50 dog walkers et pet sitters inscrits sur Pawshake et DogBuddy. Plusieurs services locaux proposent des promenades structurées le long de la Loire — idéal pour un après-midi musée quand les chiens ne sont pas admis à l'intérieur. Les plateformes nationales Pawshake et Holidog ont toutes deux une bonne couverture à Nantes.",
+      "introEs": "Nantes tiene un ecosistema de cuidado de mascotas bien desarrollado, con más de 50 paseadores y cuidadores registrados solo en Pawshake y DogBuddy. Varios servicios locales ofrecen paseos estructurados a lo largo del Loira, ideales para una tarde de museo cuando los perros no están permitidos dentro.",
+      "places": [
+        {
+          "name": "Pawshake Nantes",
+          "address": "Online platform — Nantes-wide coverage",
+          "neighborhood": "City-wide",
+          "photo": "/images/city-places/nantes-petsitting-pawshake-nantes.jpg",
+          "website": "https://www.pawshake.fr/promenade-chien/nantes-pays-de-la-loire",
+          "description": "France's leading vetted pet-sitter platform, with 50+ insured and reviewed sitters across Nantes offering dog walking (30–60 min), overnight hosting, and drop-in visits. All bookable online with verified user reviews and booking insurance included.",
+          "descriptionFr": "La première plateforme française de pet-sitters vérifiés, avec plus de 50 gardiens assurés et évalués à Nantes proposant des promenades canines (30–60 min), des hébergements de nuit et des visites de passage. Tout réservable en ligne avec avis d'utilisateurs vérifiés et assurance incluse.",
+          "descriptionEs": "La plataforma líder en Francia de cuidadores de mascotas verificados, con más de 50 cuidadores asegurados y valorados en Nantes que ofrecen paseos (30-60 min), alojamiento nocturno y visitas de seguimiento. Todo reservable online con valoraciones verificadas y seguro incluido.",
+          "petPolicy": "Verified and insured sitters; all pet sizes",
+          "petPolicyFr": "Gardiens vérifiés et assurés ; toutes tailles d'animaux",
+          "petPolicyEs": "Cuidadores verificados y asegurados; todos los tamaños de mascotas",
+          "openingHours": "Bookable 24/7 online; sitter availability varies",
+          "tip": "Book at least 48 hours in advance for weekend slots — Nantes sitters fill quickly during Le Voyage à Nantes summer event weekends in July–August.",
+          "tipFr": "Réservez au moins 48 heures à l'avance pour les créneaux du week-end — les gardiens nantais se remplissent rapidement lors des week-ends du Voyage à Nantes en juillet–août.",
+          "tipEs": "Reserva con al menos 48 horas de antelación para los turnos de fin de semana: los cuidadores nanteses se llenan rápido en los fines de semana del Voyage à Nantes en julio-agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nantes+Loire+Atlantique+France"
+        }
+      ],
+      "tipsEn": [
+        "Toutou-Terrain (toutouterrain.fr) is a local Nantes specialist offering structured dog walks along the Loire and Erdre — ideal when you need someone to exercise your dog while you visit museums.",
+        "Most dog-friendly hotels in Nantes (Okko, Citadines) can connect you with local pet-sitters via their concierge — ask at check-in if you know you will need afternoon cover.",
+        "For emergency or same-day sitters, Holidog (holidog.com) has verified sitters with same-day availability in most Nantes neighbourhoods."
+      ],
+      "tipsFr": [
+        "Toutou-Terrain (toutouterrain.fr) est un spécialiste nantais qui propose des promenades structurées le long de la Loire et de l'Erdre — idéal quand vous avez besoin de quelqu'un pour promener votre chien pendant vos visites de musées.",
+        "La plupart des hôtels dog-friendly de Nantes (Okko, Citadines) peuvent vous mettre en contact avec des pet-sitters locaux via leur concierge — renseignez-vous à l'enregistrement si vous savez avoir besoin d'une garde l'après-midi.",
+        "Pour les gardiens d'urgence ou disponibles le jour même, Holidog (holidog.com) dispose de gardiens vérifiés avec des disponibilités en dernière minute dans la plupart des quartiers nantais."
+      ],
+      "tipsEs": [
+        "Toutou-Terrain (toutouterrain.fr) es un especialista local nantés que ofrece paseos estructurados a lo largo del Loira y el Erdre, ideal cuando necesitas a alguien que ejercite a tu perro mientras visitas museos.",
+        "La mayoría de los hoteles dog-friendly de Nantes (Okko, Citadines) pueden conectarte con cuidadores locales a través de su conserjería: pregunta al hacer el check-in si sabes que necesitarás cobertura por la tarde.",
+        "Para cuidadores de urgencia o disponibles el mismo día, Holidog (holidog.com) tiene cuidadores verificados con disponibilidad de última hora en la mayoría de los barrios de Nantes."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter for one afternoon in Nantes?",
+          "a": "Yes — Pawshake and Holidog both offer drop-in visits and short dog-walking sessions bookable for the same day or next day in most Nantes neighbourhoods. Toutou-Terrain is also a reliable local option for structured Loire-side walks."
+        },
+        {
+          "q": "Are there doggy daycares in Nantes?",
+          "a": "Yes — several 'garderies canines' operate in the Nantes area. DogBuddy and Pawshake also have sitters who offer full-day daycare at their home. The Nantes Métropole website occasionally lists licensed facilities."
+        },
+        {
+          "q": "Is it easy to find a pet-friendly hotel in Nantes?",
+          "a": "Yes — Nantes has 65+ pet-friendly hotels including the Okko Hotels (pets free), Citadines Confluent (€14/night), and Mercure Centre Grand (€15/night). For Airbnb, filter by 'pets allowed' and confirm dog size limits with hosts in advance."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un gardien pour un après-midi à Nantes ?",
+          "a": "Oui — Pawshake et Holidog proposent tous deux des visites de passage et de courtes promenades réservables le jour même ou le lendemain dans la plupart des quartiers nantais. Toutou-Terrain est aussi une option locale fiable pour les promenades structurées au bord de la Loire."
+        },
+        {
+          "q": "Y a-t-il des garderies pour chiens à Nantes ?",
+          "a": "Oui — plusieurs garderies canines opèrent dans la région nantaise. DogBuddy et Pawshake ont aussi des gardiens qui proposent une pension de jour complète à leur domicile. Le site de Nantes Métropole liste occasionnellement les établissements agréés."
+        },
+        {
+          "q": "Est-il facile de trouver un hôtel pet-friendly à Nantes ?",
+          "a": "Oui — Nantes compte plus de 65 hôtels acceptant les animaux, dont l'Okko Hotels (animaux gratuits), le Citadines Confluent (14€/nuit) et le Mercure Centre Grand (15€/nuit). Pour Airbnb, filtrez par 'animaux autorisés' et confirmez les limites de taille avec l'hôte à l'avance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador para una tarde en Nantes?",
+          "a": "Sí: Pawshake y Holidog ofrecen visitas de seguimiento y paseos cortos reservables para el mismo día o el día siguiente en la mayoría de los barrios de Nantes. Toutou-Terrain también es una opción local fiable para paseos estructurados junto al Loira."
+        },
+        {
+          "q": "¿Hay guarderías caninas en Nantes?",
+          "a": "Sí: varias 'garderies canines' operan en el área de Nantes. DogBuddy y Pawshake también tienen cuidadores que ofrecen guardería de día completa en su domicilio. El sitio web de Nantes Métropole lista ocasionalmente centros con licencia."
+        },
+        {
+          "q": "¿Es fácil encontrar un hotel pet-friendly en Nantes?",
+          "a": "Sí: Nantes tiene más de 65 hoteles que admiten mascotas, incluidos el Okko Hotels (mascotas gratis), el Citadines Confluent (14€/noche) y el Mercure Centre Grand (15€/noche). Para Airbnb, filtra por 'mascotas permitidas' y confirma los límites de tamaño con el anfitrión de antemano."
+        }
+      ]
+    }
+  }
+}

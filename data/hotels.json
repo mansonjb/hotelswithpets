@@ -5869,6 +5869,127 @@
     "slug": "do-co-hotel-munchen"
   },
   {
+    "id": "nantes-1",
+    "name": "Okko Hotels Nantes Centre Ville",
+    "destinationSlug": "nantes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 380,
+    "priceFrom": 83,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/okko-hotels-nantes-chac-teau.html",
+    "petFee": 0,
+    "petPolicy": "Okko Hotels Nantes Centre Ville welcomes pets free of charge — one of the very few 4-star hotels in Nantes with no supplement. Dogs and cats are welcome in guest rooms and in the lounge area of the Club (the all-inclusive bar and breakfast space), though they must stay away from the food buffet areas. The hotel has a 24-hour reception and is steps from the Château des Ducs and the Parc de Procé caniparc.",
+    "highlights": [
+      "Pets free of charge — no supplement",
+      "Dogs welcome in the Club lounge area",
+      "Steps from Château des Ducs and Parc de Procé"
+    ],
+    "slug": "okko-hotels-nantes-centre-ville"
+  },
+  {
+    "id": "nantes-2",
+    "name": "Mercure Nantes Centre Grand Hotel",
+    "destinationSlug": "nantes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 1100,
+    "priceFrom": 84,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grand-mercure-nantes-central.html",
+    "petFee": 15,
+    "petPolicy": "The Mercure Nantes Centre Grand Hotel accepts dogs and cats with a fee of €15 per pet per night. There are no size restrictions. The hotel is connected to the Nantes Convention Centre, is directly adjacent to the Passage Pommeraye arcade, and is a 2-minute walk from the nearest tram stop. Pet amenities are not listed but front-of-house staff are noted as helpful.",
+    "highlights": [
+      "No pet size limit",
+      "4-star hotel in the historic centre",
+      "2 min walk to tram, next to Passage Pommeraye"
+    ],
+    "slug": "mercure-nantes-centre-grand-hotel"
+  },
+  {
+    "id": "nantes-3",
+    "name": "Citadines Confluent Nantes",
+    "destinationSlug": "nantes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1678,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/citadines-confluent-nantes.html",
+    "petFee": 14,
+    "petPolicy": "Citadines Confluent Nantes accepts pets of any size with a fee of €14 per pet per night. Both dogs and cats are welcome. As an aparthotel, all rooms include a kitchenette and dining area — particularly useful for pet owners who prefer to self-cater rather than find pet-friendly restaurants for every meal. The hotel has an indoor pool, sauna, and plunge pool, and is located near the Île de Nantes and the Loire quaysides.",
+    "highlights": [
+      "Kitchenette in every room — great for self-catering with pets",
+      "Indoor pool and sauna on site",
+      "Near Loire quays and Machines de l'Île"
+    ],
+    "slug": "citadines-confluent-nantes"
+  },
+  {
+    "id": "nantes-4",
+    "name": "Novotel Nantes Carquefou",
+    "destinationSlug": "nantes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 850,
+    "priceFrom": 68,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/nantes-carquefou.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Nantes Carquefou (located in Carquefou, adjacent to Nantes) accepts pets of any size with a fee of approximately €15 per pet per night plus a refundable deposit. Both dogs and cats are welcome. The hotel is verified pet-friendly on BringFido with no size limit stated. It has outdoor grounds, a pool, and easy parking — making it a practical choice for owners driving to Nantes with a large dog.",
+    "highlights": [
+      "No pet size limit, verified on BringFido",
+      "Outdoor grounds with parking — ideal for large dogs",
+      "Good base for day trips into Nantes centre (7 km)"
+    ],
+    "slug": "novotel-nantes-carquefou"
+  },
+  {
+    "id": "nantes-5",
+    "name": "The Originals City, Hôtel Novella, Nantes Centre Gare",
+    "destinationSlug": "nantes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.5,
+    "reviewCount": 315,
+    "priceFrom": 53,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/surcouf.html",
+    "petFee": 10,
+    "petPolicy": "The Originals City, Hôtel Novella accepts cats and dogs with a fee of €10 per pet per night. Pets of any size are welcome. The hotel is verified pet-friendly on BringFido and is located at 38 Rue Richebourg, steps from the Nantes main train station — making it the most convenient budget-friendly option for travellers arriving by rail with a pet.",
+    "highlights": [
+      "Budget-friendly at from €53/night",
+      "Pets any size, €10 supplement",
+      "Steps from Nantes train station"
+    ],
+    "slug": "originals-city-novella-nantes-centre-gare"
+  },
+  {
     "id": "nice-1",
     "name": "Hotel Le Negresco",
     "destinationSlug": "nice",

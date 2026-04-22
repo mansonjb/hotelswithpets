@@ -32,6 +32,7 @@ const TARGETS = [
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },
   { slug: 'bilbao',        query: 'Guggenheim Museum Bilbao titanium exterior' },
   { slug: 'montpellier',  query: 'Place de la Comedie Montpellier fountain' },
+  { slug: 'nantes',       query: 'Chateau des Ducs de Bretagne Nantes' },
 ]
 
 async function searchPhoto(query, apiKey) {

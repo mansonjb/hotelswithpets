@@ -2267,6 +2267,79 @@
     }
   },
   {
+    "slug": "nantes",
+    "name": "Nantes",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/nantes.jpg",
+    "intro": "France’s most liveable city has ten dog parks (caniparcs), a QUALIDOG restaurant network, and a 12 km dog-friendly cultural trail — making it one of the most welcoming destinations in Europe for travelling with a pet.",
+    "lat": 47.2184,
+    "lng": -1.5536,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & sunny spells",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Pleasant spring",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm summer peak",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Pleasant autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "nice",
     "name": "Nice",
     "country": "France",

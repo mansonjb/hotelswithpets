@@ -34,6 +34,7 @@ const TARGETS = [
   { slug: 'montpellier',  query: 'Place de la Comedie Montpellier fountain' },
   { slug: 'nantes',       query: 'Chateau des Ducs de Bretagne Nantes' },
   { slug: 'frankfurt',    query: 'Romerberg Frankfurt old town skyline' },
+  { slug: 'verona',      query: 'Arena di Verona Roman amphitheatre Piazza Bra' },
 ]
 
 async function searchPhoto(query, apiKey) {

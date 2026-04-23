@@ -9572,6 +9572,125 @@
     "slug": "radisson-collection-hotel-palazzo-nani-venice"
   },
   {
+    "id": "verona-1",
+    "name": "Due Torri Hotel",
+    "destinationSlug": "verona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1800,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/due-torri-hotel.html",
+    "petFee": 30,
+    "petPolicy": "Pets allowed (dogs and cats) for €30 per night. Pet bed and bowls provided on request. Small to medium size.",
+    "highlights": [
+      "5-star Leading Hotels of the World",
+      "100m from Piazza delle Erbe",
+      "Pet bed and bowls included"
+    ],
+    "slug": "due-torri-hotel"
+  },
+  {
+    "id": "verona-2",
+    "name": "Hotel Indigo Verona - Grand Hotel Des Arts",
+    "destinationSlug": "verona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-des-arts.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome for €25 per night. IHG-wide pet-friendly policy — dogs of any size accepted.",
+    "highlights": [
+      "10-min walk to Arena",
+      "Rooftop bar",
+      "Pet-friendly IHG brand"
+    ],
+    "slug": "hotel-indigo-verona-grand-hotel-des-arts"
+  },
+  {
+    "id": "verona-3",
+    "name": "Hotel Accademia",
+    "destinationSlug": "verona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/accademia.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for €15 per night. Max 1 pet per room, small to medium size.",
+    "highlights": [
+      "Historic palazzo 5 min from Arena",
+      "Quiet pedestrian street",
+      "Breakfast included"
+    ],
+    "slug": "hotel-accademia"
+  },
+  {
+    "id": "verona-4",
+    "name": "Hotel Milano & Spa",
+    "destinationSlug": "verona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1950,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/milanoverona.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per night. Small to medium dogs welcome. Cats on request.",
+    "highlights": [
+      "Rooftop view of Arena di Verona",
+      "Spa and hot tub",
+      "50m from Piazza Brà"
+    ],
+    "slug": "hotel-milano-spa"
+  },
+  {
+    "id": "verona-5",
+    "name": "Escalus Luxury Suites Verona",
+    "destinationSlug": "verona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 1100,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/escalus-luxury-suites-verona.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for €20 per stay. Quiet suites ideal for pets; bowls provided on request.",
+    "highlights": [
+      "Design suites near Via Mazzini",
+      "Adults-only atmosphere",
+      "3-min walk to Arena"
+    ],
+    "slug": "escalus-luxury-suites-verona"
+  },
+  {
     "id": "vienna-1",
     "name": "The Ritz-Carlton, Vienna",
     "destinationSlug": "vienna",

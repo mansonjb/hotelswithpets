@@ -277,6 +277,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Lido island beaches (dogs allowed off-season), the quiet canals of Cannaregio, and the Sant\'Elena park',
       area: 'Cannaregio, Dorsoduro, and Sant\'Elena',
     },
+    verona: {
+      personality: 'a UNESCO-listed romantic city where dogs join their owners on wine-bar terraces, in Renaissance gardens, and along the scenic banks of the Adige',
+      highlight: 'the Giardino Giusti, the Adige riverbanks, and dog-friendly terraces near the Arena',
+      area: 'Veronetta, the Centro Storico, and the Piazza delle Erbe quarter',
+    },
     vienna: {
       personality: 'a city that takes dog ownership seriously. Dogs ride the U-Bahn, enter museums, and are catered for in hundreds of Viennese cafés',
       highlight: 'the Prater park, Donauinsel island, and the Lainzer Tiergarten',
@@ -549,6 +554,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les plages de l\'île du Lido (chiens autorisés hors saison), les canaux tranquilles du Cannaregio et le parc de Sant\'Elena',
       area: 'Cannaregio, Dorsoduro et Sant\'Elena',
     },
+    verona: {
+      personality: 'une ville romantique classée à l\'UNESCO où les chiens accompagnent leurs maîtres sur les terrasses des bars à vins, dans les jardins Renaissance et le long des berges pittoresques de l\'Adige',
+      highlight: 'le Giardino Giusti, les berges de l\'Adige et les terrasses dog-friendly près de l\'Arena',
+      area: 'Veronetta, le Centre historique et le quartier de la Piazza delle Erbe',
+    },
     vienna: {
       personality: 'une ville qui prend la possession d\'animaux très au sérieux. Les chiens prennent le U-Bahn, entrent dans les musées et sont accueillis dans des centaines de cafés viennois',
       highlight: 'le parc du Prater, l\'île du Danube et le Lainzer Tiergarten',
@@ -820,6 +830,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades más sorprendentemente dog-friendly de Italia. Los perros viajan en vaporetto, exploran tranquilos sestieri lejos de las multitudes y son bienvenidos en muchos bacari locales',
       highlight: 'las playas de la isla del Lido (perros permitidos fuera de temporada), los tranquilos canales de Cannaregio y el parque de Sant\'Elena',
       area: 'Cannaregio, Dorsoduro y Sant\'Elena',
+    },
+    verona: {
+      personality: 'una ciudad romántica declarada Patrimonio de la Humanidad por la UNESCO donde los perros acompañan a sus dueños en las terrazas de los bares de vinos, en los jardines renacentistas y a lo largo de las pintorescas orillas del Adige',
+      highlight: 'el Giardino Giusti, las orillas del Adige y las terrazas dog-friendly cerca del Arena',
+      area: 'Veronetta, el Centro Histórico y el barrio de la Piazza delle Erbe',
     },
     vienna: {
       personality: 'una ciudad que se toma en serio la tenencia de mascotas. Los perros viajan en el U-Bahn, entran en museos y son atendidos en cientos de cafés vieneses',

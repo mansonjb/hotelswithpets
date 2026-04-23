@@ -5706,6 +5706,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  verona: {
+    history: {
+      fr: `Fondée par les Romains au Ier siècle avant J.-C., Vérone a connu une prospérité remarquable sous les empereurs Auguste et Claude. L'Arena di Verona, construite vers 30 après J.-C., pouvait accueillir 30 000 spectateurs — elle reste aujourd'hui l'un des amphithéâtres romains les mieux conservés du monde. Au Moyen Âge, la ville a atteint son apogée sous les Scaligeri, famille seigneuriale qui a commandé les fresques, les palais et les tombeaux gothiques qui ornent encore le centre historique. Shakespeare a situé Roméo et Juliette à Vérone pour une bonne raison : la ville de pierre rose et de ruelles médiévales est parmi les plus romantiques d'Europe. Classée au patrimoine mondial de l'UNESCO en 2000, Vérone accueille aujourd'hui des millions de visiteurs — et leurs chiens sont bienvenus sur les terrasses des bars à vins, dans le Giardino Giusti et le long des berges de l'Adige.`,
+      en: `Founded by the Romans in the 1st century BC, Verona flourished under emperors Augustus and Claudius. The Arena di Verona, built around 30 AD, could hold 30,000 spectators — it remains one of the best-preserved Roman amphitheatres in the world and still hosts opera every summer. In the Middle Ages the city reached its zenith under the Scaligeri dynasty, who commissioned the frescoes, palaces, and Gothic tombs that still ornament the historic centre. Shakespeare set Romeo and Juliet in Verona for good reason: the city of rose-pink stone and medieval lanes is among Europe's most romantic. Listed as a UNESCO World Heritage Site in 2000, Verona today welcomes millions of visitors — and their dogs are welcome on wine-bar terraces, in the Giardino Giusti, and along the banks of the Adige.`,
+      es: `Fundada por los romanos en el siglo I a.C., Verona prosperó bajo los emperadores Augusto y Claudio. El Arena di Verona, construido hacia el año 30 d.C., podía albergar a 30.000 espectadores y sigue siendo uno de los anfiteatros romanos mejor conservados del mundo, con ópera cada verano. En la Edad Media la ciudad alcanzó su cénit bajo la dinastía Scaligeri, que encargó los frescos, palacios y tumbas góticas que todavía adornan el centro histórico. Shakespeare situó Romeo y Julieta en Verona con razón: la ciudad de piedra rosa y callejuelas medievales es una de las más románticas de Europa. Declarada Patrimonio de la Humanidad por la UNESCO en el año 2000, Verona recibe hoy a millones de visitantes, y sus perros son bienvenidos en las terrazas de los bares de vinos, en el Giardino Giusti y a orillas del Adige.`,
+    },
+    sights: [
+      {
+        name: 'Arena di Verona',
+        emoji: '🏟️',
+        petFriendly: false,
+        desc: {
+          fr: 'Le grand amphithéâtre romain du Ier siècle, encore utilisé pour des représentations d\'opéra en été. Les chiens ne sont pas admis à l\'intérieur mais peuvent explorer librement l\'extérieur et la vaste Piazza Bra en laisse. Le tour extérieur est l\'un des incontournables de Vérone.',
+          en: 'The great 1st-century Roman amphitheatre, still used for opera performances in summer. Dogs are not permitted inside but can freely explore the exterior and the vast Piazza Bra on leash. Walking around the outside is one of Verona\'s unmissable experiences.',
+          es: 'El gran anfiteatro romano del siglo I, todavía utilizado para representaciones de ópera en verano. Los perros no están permitidos en el interior pero pueden explorar libremente el exterior y la amplia Piazza Bra con correa. Dar la vuelta al exterior es una de las experiencias imprescindibles de Verona.',
+        },
+      },
+      {
+        name: 'Giardino Giusti',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: 'Jardin Renaissance du XVIe siècle reconnu comme l\'un des plus beaux d\'Europe, avec avenues de cyprès, fontaines et vues panoramiques sur Vérone. Les chiens en laisse sont admis partout. Les allées ombragées en font l\'un des meilleurs refuges par forte chaleur estivale.',
+          en: 'A 16th-century Renaissance garden recognised as one of the finest in Europe, with cypress avenues, fountains, and panoramic views over Verona. Leashed dogs are welcome throughout. The shaded paths make it one of the best shelters from summer heat.',
+          es: 'Jardín renacentista del siglo XVI reconocido como uno de los más bellos de Europa, con avenidas de cipreses, fuentes y vistas panorámicas sobre Verona. Los perros con correa son bienvenidos en todo el jardín. Los caminos sombreados lo convierten en uno de los mejores refugios del calor estival.',
+        },
+      },
+      {
+        name: 'Ponte Pietra',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: 'Le pont romain le plus ancien de Vérone (Ier siècle avant J.-C.), partiellement reconstruit après la Seconde Guerre mondiale. Il offre l\'une des vues les plus emblématiques sur l\'Adige et les collines de Veronetta. Les chiens en laisse peuvent le traverser librement et profiter du panorama.',
+          en: 'Verona\'s oldest Roman bridge (1st century BC), partly rebuilt after World War II. It offers one of the most iconic views of the Adige and the Veronetta hillside. Leashed dogs can cross freely and enjoy the panorama.',
+          es: 'El puente romano más antiguo de Verona (siglo I a.C.), parcialmente reconstruido tras la Segunda Guerra Mundial. Ofrece una de las vistas más icónicas del Adige y la ladera de Veronetta. Los perros con correa pueden cruzarlo libremente y disfrutar del panorama.',
+        },
+      },
+      {
+        name: 'Castel San Pietro',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: 'Belvédère au sommet de la colline au-dessus du Théâtre Romain, offrant la meilleure vue panoramique sur Vérone et l\'Adige. Les chiens en laisse sont bienvenus sur les sentiers et la terrasse. Accessible à pied par un escalier depuis Veronetta (15 minutes de montée).',
+          en: 'A hilltop viewpoint above the Roman Theatre offering the best panoramic view of Verona and the Adige. Leashed dogs are welcome on the paths and terrace. Accessible on foot via a staircase from Veronetta (15-minute climb).',
+          es: 'Un mirador en lo alto de la colina sobre el Teatro Romano con la mejor vista panorámica de Verona y el Adige. Los perros con correa son bienvenidos en los senderos y la terraza. Accesible a pie por una escalera desde Veronetta (15 minutos de subida).',
+        },
+      },
+      {
+        name: 'Piazza delle Erbe',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'La plus ancienne et la plus belle place de Vérone, construite sur l\'emplacement du forum romain et entourée de palais peints et de tours médiévales. Le marché du matin (lundi-samedi) y installe ses étals de fleurs et de produits frais. Les chiens en laisse sont bienvenus sur la place.',
+          en: 'Verona\'s oldest and most beautiful square, built on the Roman forum and surrounded by painted palaces and medieval towers. The morning market fills it with flower and produce stalls Monday to Saturday. Leashed dogs are welcome throughout the square.',
+          es: 'La plaza más antigua y bella de Verona, construida sobre el foro romano y rodeada de palacios pintados y torres medievales. El mercado matutino (lunes a sábado) la llena de puestos de flores y productos frescos. Los perros con correa son bienvenidos en toda la plaza.',
+        },
+      },
+      {
+        name: 'Castelvecchio',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'Château médiéval du XIVe siècle transformé en musée par Carlo Scarpa. Les chiens en laisse sont bienvenus dans la cour, les jardins et sur le célèbre Ponte Scaligero. Seuls les petits chiens en transportin sont admis à l\'intérieur du musée. Le pont fortifié offre une vue imprenable sur l\'Adige.',
+          en: 'A 14th-century medieval castle converted into a museum by Carlo Scarpa. Leashed dogs are welcome in the courtyard, gardens, and on the famous Ponte Scaligero. Only small dogs in carriers are admitted inside the museum. The fortified bridge offers stunning views over the Adige.',
+          es: 'Un castillo medieval del siglo XIV convertido en museo por Carlo Scarpa. Los perros con correa son bienvenidos en el patio, los jardines y en el famoso Ponte Scaligero. Solo los perros pequeños en transportín están admitidos dentro del museo. El puente fortificado ofrece vistas impresionantes del Adige.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'En juillet et août, les températures dépassent régulièrement 32°C — promenez votre chien uniquement tôt le matin (avant 9h) et en soirée (après 19h). Les pavés du centre historique peuvent brûler les coussinets.',
+        'Les chiens sont admis à l\'extérieur de l\'Arena et sur toute la Piazza Bra en laisse. L\'intérieur de l\'Arena est interdit aux chiens sauf chiens guides.',
+        'Le Giardino Giusti (entrée payante) accepte les chiens en laisse — c\'est l\'espace vert le plus agréable du centre pour une pause ombragée.',
+        'Pour le lac de Garde (30 min en voiture), Lazise dispose d\'une plage canine officielle (Giulietta Beach) où les chiens peuvent nager.',
+        'Vétérinaire 24h : Clinica Veterinaria Verona-Lago à Lazise — appelez avant de vous y rendre (consultez clinvetveronalago.it pour le numéro actuel).',
+      ],
+      en: [
+        'In July and August temperatures regularly exceed 32°C — walk your dog only in the early morning (before 09:00) and evening (after 19:00). The cobblestones of the historic centre can burn paw pads.',
+        'Dogs are permitted around the Arena exterior and throughout Piazza Bra on leash. The Arena interior does not admit dogs, except guide and assistance dogs.',
+        'The Giardino Giusti (paid entry) accepts leashed dogs — it is the most pleasant green space in the centre for a shaded break.',
+        'For Lake Garda (30 min by car), Lazise has an official dog beach (Giulietta Beach) where dogs can swim.',
+        '24h emergency vet: Clinica Veterinaria Verona-Lago in Lazise — call before arriving (see clinvetveronalago.it for the current number).',
+      ],
+      es: [
+        'En julio y agosto las temperaturas superan regularmente los 32°C: pasea a tu perro solo a primera hora de la mañana (antes de las 9:00) y por la tarde (después de las 19:00). Los adoquines del centro histórico pueden quemar las almohadillas.',
+        'Los perros están permitidos alrededor del exterior del Arena y en toda la Piazza Bra con correa. El interior del Arena no admite perros, excepto guías y de asistencia.',
+        'El Giardino Giusti (entrada de pago) acepta perros con correa: es el espacio verde más agradable del centro para un descanso a la sombra.',
+        'Para el lago de Garda (30 min en coche), Lazise tiene una playa canina oficial (Giulietta Beach) donde los perros pueden nadar.',
+        'Veterinario de urgencias 24h: Clinica Veterinaria Verona-Lago en Lazise — llama antes de llegar (consulta clinvetveronalago.it para el número actual).',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Buses ATV : petits animaux en transportin gratuits ; grands chiens avec laisse et muselière au tarif standard. Le centre historique est largement piétonnier — les bus sont surtout utiles pour les parcs périphériques.',
+        'Trains Trenitalia depuis Vérone Porta Nuova : petits animaux en transportin gratuits ; grands chiens demi-tarif avec muselière et laisse. Connexions directes : Venise (1h20), Milan (1h30), Bologne (55 min), Peschiera del Garda (20 min).',
+        'Aree cani (zones sans laisse) dans la plupart des quartiers — les principales sont Giardini Raggio di Sole (Borgo Roma) et l\'Area Cani Via Andrea Doria (Golosine).',
+        'L\'Italie exige que tous les chiens soient micropucés et enregistrés dans l\'anagrafe canina régionale. Les visiteurs étrangers doivent présenter un passeport européen pour animaux valide.',
+        'Météo : été très chaud (juil.–août jusqu\'à 35°C), hivers froids et brumeux (jan.–fév. 0–5°C). Printemps (avr.–mai) et automne (sept.–oct.) sont les meilleures saisons pour visiter avec un chien.',
+      ],
+      en: [
+        'ATV local buses: small pets in carrier free; larger dogs with leash and muzzle at standard fare. The historic centre is largely pedestrianised — buses are most useful for outlying parks.',
+        'Trenitalia trains from Verona Porta Nuova: small pets in carrier free; larger dogs half-fare with muzzle and leash. Direct connections: Venice (1h20), Milan (1h30), Bologna (55 min), Peschiera del Garda (20 min).',
+        'Aree cani (off-leash zones) in most districts — the main ones are Giardini Raggio di Sole (Borgo Roma) and Area Cani Via Andrea Doria (Golosine).',
+        'Italy requires all dogs to be microchipped and registered in the regional anagrafe canina. Foreign visitors must carry a valid EU pet passport.',
+        'Weather: very hot summers (Jul–Aug up to 35°C), cold foggy winters (Jan–Feb 0–5°C). Spring (Apr–May) and autumn (Sep–Oct) are the best seasons to visit with a dog.',
+      ],
+      es: [
+        'Autobuses locales ATV: mascotas pequeñas en transportín gratis; perros grandes con correa y bozal al precio estándar. El centro histórico está ampliamente peatonalizado: los autobuses son más útiles para los parques periféricos.',
+        'Trenes Trenitalia desde Verona Porta Nuova: mascotas pequeñas en transportín gratis; perros grandes a mitad de precio con bozal y correa. Conexiones directas: Venecia (1h20), Milán (1h30), Bolonia (55 min), Peschiera del Garda (20 min).',
+        'Aree cani (zonas sin correa) en la mayoría de los barrios — las principales son Giardini Raggio di Sole (Borgo Roma) y el Área Cani Via Andrea Doria (Golosine).',
+        'Italia exige que todos los perros estén microchipados e inscritos en la anagrafe canina regional. Los visitantes extranjeros deben llevar un pasaporte europeo de mascota válido.',
+        'Clima: veranos muy calurosos (jul.–ago. hasta 35°C), inviernos fríos y brumosos (ene.–feb. 0–5°C). Primavera (abr.–may.) y otoño (sep.–oct.) son las mejores épocas para visitar con un perro.',
+      ],
+    },
+  },
+
   vienna: {
     history: {
       fr: `Vienne a été pendant six siècles la capitale des Habsbourg et le centre de gravité de l'Europe centrale. Sous l'empire austro-hongrois, la ville a atteint une splendeur architecturale inégalée : le Ring, le Kunsthistorisches Museum, l'Opéra d'État. Mais Vienne, c'est aussi la ville du café — le Wiener Kaffeehaus, inscrit au patrimoine culturel immatériel de l'UNESCO, est une institution où l'on passe des heures à lire, penser et discuter... souvent avec son chien sur les genoux. Car Vienne prend le bien-être animal au sérieux : les chiens sont admis dans le métro, dans la plupart des musées (hors expositions) et dans d'innombrables cafés. La ville compte même des "Hundeauslaufflächen" — des espaces officiellement dédiés aux chiens sans laisse dans la majorité des parcs.`,

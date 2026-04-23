@@ -3729,6 +3729,79 @@
     }
   },
   {
+    "slug": "verona",
+    "name": "Verona",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/verona.jpg",
+    "intro": "Verona is a UNESCO-listed romantic city with an Arena, a legendary Juliet balcony, and a welcoming attitude to dogs in its wine bars, parks, and alfresco terraces.",
+    "lat": 45.4384,
+    "lng": 10.9916,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & cloudy",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & variable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "☁️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      }
+    }
+  },
+  {
     "slug": "vienna",
     "name": "Vienna",
     "country": "Austria",

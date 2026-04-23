@@ -2414,6 +2414,80 @@
     }
   },
   {
+    "slug": "naples",
+    "name": "Naples",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/naples.jpg",
+    "intro": "Italy's chaotic, passionate southern capital — gateway to Pompeii, Vesuvius, Capri and the Amalfi Coast. Dense historic-centre alleys, seafront Lungomare, 134 hectares of Bosco di Capodimonte, and pet-welcoming trattorie make it a rewarding (if demanding) stop for dog owners.",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild, occasional rain",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild, breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Springlike",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm, blooms everywhere",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, 30°C+ daily",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Peak heat, humid",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, some storms",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "nice",
     "name": "Nice",
     "country": "France",

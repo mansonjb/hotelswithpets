@@ -186,6 +186,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc de Procé caniparc, the Loire quaysides, and the Île de Versailles Japanese garden',
       area: 'the Bouffay historic district, the Île de Nantes, and the Procé neighbourhood',
     },
+    naples: {
+      personality: 'Italy\'s chaotic, passionate southern capital — dense historic alleys, a pedestrian 2.5 km Lungomare, the 134-hectare Bosco di Capodimonte, and trattorie that treat dogs as part of the family',
+      highlight: 'the Lungomare Caracciolo, the Bosco di Capodimonte, and the Parco Virgiliano on Posillipo',
+      area: 'Chiaia, Posillipo, and the historic centre around Spaccanapoli',
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -464,6 +469,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le caniparc du Parc de Procé, les quais de la Loire et le jardin japonais de l\'Île de Versailles',
       area: 'le quartier historique du Bouffay, l\'Île de Nantes et le quartier Procé',
     },
+    naples: {
+      personality: 'la capitale chaotique et passionnée du sud de l\'Italie — ruelles historiques denses, Lungomare piéton de 2,5 km, Bosco di Capodimonte de 134 hectares, et trattorie qui traitent les chiens comme des membres de la famille',
+      highlight: 'le Lungomare Caracciolo, le Bosco di Capodimonte et le Parco Virgiliano de Posillipo',
+      area: 'Chiaia, Posillipo et le centre historique autour de Spaccanapoli',
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -740,6 +750,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad más habitable de Francia, con diez caniparques oficiales, una red de restaurantes certificados QUALIDOG y un recorrido cultural dog-friendly de 12 km a lo largo del Loira',
       highlight: 'el caniparque del Parc de Procé, los muelles del Loira y el jardín japonés de la Île de Versailles',
       area: 'el barrio histórico de Bouffay, la Île de Nantes y el barrio de Procé',
+    },
+    naples: {
+      personality: 'la capital caótica y apasionada del sur de Italia — densos callejones históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas y trattorie que tratan a los perros como miembros de la familia',
+      highlight: 'el Lungomare Caracciolo, el Bosco di Capodimonte y el Parco Virgiliano de Posillipo',
+      area: 'Chiaia, Posillipo y el centro histórico en torno a Spaccanapoli',
     },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',

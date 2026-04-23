@@ -6112,6 +6112,126 @@
     "slug": "originals-city-novella-nantes-centre-gare"
   },
   {
+    "id": "naples-1",
+    "name": "Grand Hotel Vesuvio",
+    "destinationSlug": "naples",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2200,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-vesuvio.html",
+    "petFee": 35,
+    "petPolicy": "Pets allowed (dogs and cats) for €35 per stay. Grand Hotel Vesuvio historic seafront property, small to medium pets preferred.",
+    "highlights": [
+      "Seafront opposite Castel dell'Ovo",
+      "Historic 1882 property",
+      "Rooftop restaurant with Vesuvius view"
+    ],
+    "slug": "grand-hotel-vesuvio"
+  },
+  {
+    "id": "naples-2",
+    "name": "Romeo Hotel",
+    "destinationSlug": "naples",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1400,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/romeo.html",
+    "petFee": 30,
+    "petPolicy": "Pets welcome for €30 per stay. Design hotel opposite Molo Beverello; bowls provided on request.",
+    "highlights": [
+      "Design hotel at the port",
+      "Dogs and cats accepted",
+      "Direct ferry terminal access"
+    ],
+    "slug": "romeo-hotel"
+  },
+  {
+    "id": "naples-3",
+    "name": "Hotel Piazza Bellini",
+    "destinationSlug": "naples",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2600,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/piazza-bellini.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per stay. Small to medium dogs welcome; cats on request.",
+    "highlights": [
+      "Historic centre, 5-min walk to MANN",
+      "Courtyard garden",
+      "Boutique design rooms"
+    ],
+    "slug": "hotel-piazza-bellini"
+  },
+  {
+    "id": "naples-4",
+    "name": "Decumani Hotel de Charme",
+    "destinationSlug": "naples",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2100,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/decumani.html",
+    "petFee": 15,
+    "petPolicy": "Pets accepted for €15 per night. Dogs up to 10 kg and cats welcome.",
+    "highlights": [
+      "Restored Palazzo Giusso",
+      "On Spaccanapoli street",
+      "Quiet internal courtyard"
+    ],
+    "slug": "decumani-hotel-de-charme"
+  },
+  {
+    "id": "naples-5",
+    "name": "B&B Hotel Napoli",
+    "destinationSlug": "naples",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 3200,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bb-napoli.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for €10 per night. All sizes welcome. Max 1 pet per room.",
+    "highlights": [
+      "Budget-friendly chain",
+      "Near Napoli Centrale station",
+      "Easy access to metro and Circumvesuviana"
+    ],
+    "slug": "b-b-hotel-napoli"
+  },
+  {
     "id": "nice-1",
     "name": "Hotel Le Negresco",
     "destinationSlug": "nice",

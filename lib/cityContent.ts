@@ -3699,6 +3699,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  naples: {
+    history: {
+      fr: `Naples, fondée vers 600 avant notre ère sous le nom grec de Neápolis (« nouvelle ville »), a été pendant deux mille cinq cents ans la métropole culturelle du sud de l'Italie : capitale du royaume de Naples, port commercial majeur de la Méditerranée, berceau de la pizza et du café espresso. Ses 915 000 habitants partagent une ville aussi chaotique qu'attachante, dominée par la silhouette du Vésuve et adossée à l'un des golfes les plus photographiés d'Europe. Pour les propriétaires de chiens, Naples est à la fois exigeante — circulation dense, été à plus de 35 °C, muselière obligatoire en transports — et gratifiante : les trattorie et pizzerie accueillent largement les chiens bien tenus, les 134 hectares du Bosco di Capodimonte offrent une respiration rare, et les 2,5 km piétons du Lungomare constituent l'une des plus belles promenades canines urbaines d'Italie.`,
+      en: `Naples, founded around 600 BCE under the Greek name Neápolis ("new city"), has been the cultural capital of southern Italy for 2,500 years — capital of the Kingdom of Naples, major Mediterranean trading port, birthplace of pizza and espresso. Its 915,000 inhabitants share a city as chaotic as it is endearing, dominated by the silhouette of Vesuvius and set on one of the most photographed gulfs in Europe. For dog owners, Naples is both demanding — dense traffic, summer above 35 °C, muzzles mandatory on public transport — and rewarding: trattorie and pizzerie broadly welcome well-behaved dogs, the 134-hectare Bosco di Capodimonte offers a rare green lung, and the 2.5 km pedestrian Lungomare is one of the most beautiful urban dog walks in Italy.`,
+      es: `Nápoles, fundada hacia el 600 a.C. con el nombre griego de Neápolis ("nueva ciudad"), lleva 2.500 años siendo la capital cultural del sur de Italia: capital del Reino de Nápoles, gran puerto comercial del Mediterráneo, cuna de la pizza y el espresso. Sus 915.000 habitantes comparten una ciudad tan caótica como entrañable, dominada por la silueta del Vesubio y asomada a uno de los golfos más fotografiados de Europa. Para los dueños de perros, Nápoles es a la vez exigente — tráfico denso, veranos por encima de 35 °C, bozal obligatorio en transporte — y gratificante: trattorie y pizzerías admiten ampliamente a perros bien educados, las 134 hectáreas del Bosco di Capodimonte ofrecen un pulmón verde poco común, y los 2,5 km peatonales del Lungomare son uno de los paseos caninos urbanos más bellos de Italia.`,
+    },
+    sights: [
+      {
+        name: 'Lungomare Caracciolo',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade piétonne du front de mer de 2,5 km entre le Castel dell'Ovo et Mergellina. Sans voitures depuis 2012, bancs tous les 50 m — la meilleure balade canine de Naples.`,
+          en: `A 2.5 km pedestrian seafront promenade between Castel dell'Ovo and Mergellina. Traffic-free since 2012, benches every 50 m — the single best dog walk in Naples.`,
+          es: `Paseo marítimo peatonal de 2,5 km entre el Castel dell'Ovo y Mergellina. Sin coches desde 2012, bancos cada 50 m — el mejor paseo canino de Nápoles.`,
+        },
+      },
+      {
+        name: 'Bosco di Capodimonte',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Bois royal de 134 hectares derrière le Palais de Capodimonte, plus grand espace vert de Naples. Chênaies et châtaigneraies, 5 km de sentiers, laisse stricte.`,
+          en: `A 134-hectare royal woodland behind the Capodimonte Palace, the largest green space in Naples. Oak and chestnut groves, 5 km of paths, strict leash rule.`,
+          es: `Bosque real de 134 hectáreas tras el Palacio de Capodimonte, el mayor espacio verde de Nápoles. Encinares y castañares, 5 km de senderos, correa estricta.`,
+        },
+      },
+      {
+        name: 'Parco Virgiliano',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Parc en terrasses au sommet de la falaise de Posillipo. Vues panoramiques sur le Vésuve et les îles du Golfe, Area Cani clôturée sur la terrasse supérieure.`,
+          en: `A cliff-top terraced park on Posillipo. Panoramic views over Vesuvius and the Gulf islands, plus a fenced Area Cani on the upper terrace.`,
+          es: `Parque en terrazas en lo alto del acantilado de Posillipo. Vistas panorámicas del Vesubio y las islas del Golfo, con Area Cani vallada en la terraza superior.`,
+        },
+      },
+      {
+        name: 'Castel dell\'Ovo',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La plus ancienne fortification debout de Naples, sur un îlot de tuf relié à Santa Lucia par une chaussée. Remparts extérieurs accessibles en laisse.`,
+          en: `Naples' oldest standing fortification, on a tufa islet connected to Santa Lucia by a causeway. Exterior ramparts are leash-accessible.`,
+          es: `La fortificación más antigua en pie de Nápoles, sobre un islote de toba unido a Santa Lucia por una calzada. Murallas exteriores accesibles con correa.`,
+        },
+      },
+      {
+        name: 'Pompei',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Cité romaine UNESCO à 30 km, ensevelie par le Vésuve en 79. Les chiens en laisse sont admis gratuitement dans tout le parc archéologique.`,
+          en: `UNESCO Roman city 30 km away, buried by Vesuvius in 79 CE. Leashed dogs are admitted free of charge across the entire archaeological park.`,
+          es: `Ciudad romana UNESCO a 30 km, sepultada por el Vesubio en el 79 d.C. Los perros con correa entran gratis en todo el parque arqueológico.`,
+        },
+      },
+      {
+        name: 'Villa Comunale',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin public du XVIIIe siècle au bord de mer, 1,3 km de long entre Piazza Vittoria et Piazza della Repubblica. Fontaines, cafés, bancs sous les magnolias.`,
+          en: `An 18th-century seafront public garden, 1.3 km long between Piazza Vittoria and Piazza della Repubblica. Fountains, cafés, benches under magnolias.`,
+          es: `Jardín público del siglo XVIII frente al mar, de 1,3 km entre Piazza Vittoria y Piazza della Repubblica. Fuentes, cafeterías, bancos bajo magnolias.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Muselière souple OBLIGATOIRE en transports publics (ANM métro, bus, funiculaires) — amendes de 25 à 250 € en cas d\'absence.',
+        'Interdiction estivale sur la plupart des plages du 15 mai au 30 septembre — seules les Spiagge Cani enregistrées BauWatch font exception.',
+        'La Circumvesuviana (Pompéi, Sorrente) accepte les chiens en laisse et muselière ; billet demi-tarif pour chiens de plus de 6 kg.',
+        'Cliniques d\'urgence 24h/24 : Partenope au Vomero (081 5566144) et Pegaso à Ponticelli (081 5838183).',
+        'Bitume à 55 °C les après-midis d\'été — promenez avant 9h ou après 19h30 et évitez l\'asphalte noir, préférez les pavés clairs du Centro Storico.',
+      ],
+      en: [
+        'Soft muzzle MANDATORY on ANM public transport (metro, buses, funiculars) — fines €25–250 for non-compliance.',
+        'Summer beach ban 15 May–30 September on most free beaches — only registered BauWatch Spiagge Cani are exempt.',
+        'The Circumvesuviana (Pompeii, Sorrento) accepts leashed and muzzled dogs; half-price ticket for dogs over 6 kg.',
+        '24/7 emergency clinics: Partenope in Vomero (081 5566144) and Pegaso in Ponticelli (081 5838183).',
+        'Pavement reaches 55 °C on summer afternoons — walk before 09:00 or after 19:30, avoid black asphalt and prefer the lighter cobbles of the historic centre.',
+      ],
+      es: [
+        'Bozal flexible OBLIGATORIO en transporte público ANM (metro, buses, funiculares) — multas de 25 a 250 € por incumplimiento.',
+        'Prohibición estival en la mayoría de playas del 15 mayo al 30 septiembre — solo las Spiagge Cani registradas BauWatch están exentas.',
+        'La Circumvesuviana (Pompeya, Sorrento) admite perros con correa y bozal; medio billete para perros de más de 6 kg.',
+        'Clínicas de urgencias 24/7: Partenope en Vomero (081 5566144) y Pegaso en Ponticelli (081 5838183).',
+        'El pavimento alcanza 55 °C en tardes de verano — pasea antes de las 9:00 o después de las 19:30, evita el asfalto negro y opta por los adoquines claros del Centro Storico.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés dans tout hôtel pet-friendly à l\'enregistrement.',
+        'Laisse obligatoire (Legge Regionale 16/2001) dans tous les espaces publics sauf Aree Cani — amendes à partir de 50 €.',
+        'Ramassage des déjections obligatoire partout — amendes de 75 à 450 €, particulièrement contrôlées à Chiaia et sur le Lungomare.',
+        'Ferries Capri/Ischia : chiens acceptés sur les ponts extérieurs avec laisse, muselière et billet chien (~5 €) auprès d\'Alilauro, Caremar, SNAV et NLG.',
+        'Pompéi admet les chiens en laisse gratuitement ; éviter les heures de midi en juillet-août, le basalte chauffe fortement.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required at every pet-friendly hotel check-in.',
+        'Leash mandatory (Legge Regionale 16/2001) in all public spaces except designated Aree Cani — fines from €50.',
+        'Picking up dog waste is mandatory everywhere — fines €75–450 actively enforced in Chiaia and on the Lungomare.',
+        'Ferries to Capri/Ischia: leashed, muzzled dogs accepted on outer decks; dog ticket (~€5) with Alilauro, Caremar, SNAV, NLG.',
+        'Pompeii admits leashed dogs free of charge; avoid midday in July–August as the basalt street surface heats significantly.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos en todos los hoteles pet-friendly al hacer el check-in.',
+        'Correa obligatoria (Legge Regionale 16/2001) en todos los espacios públicos salvo Aree Cani — multas desde 50 €.',
+        'Recoger las deposiciones es obligatorio en todas partes — multas 75–450 €, controladas activamente en Chiaia y en el Lungomare.',
+        'Ferris a Capri/Ischia: perros con correa y bozal admitidos en cubiertas exteriores; billete de perro (~5 €) con Alilauro, Caremar, SNAV, NLG.',
+        'Pompeya admite perros con correa gratis; evita el mediodía en julio-agosto, el basalto se calienta mucho.',
+      ],
+    },
+  },
+
   nice: {
     history: {
       en: 'Nice — the capital of the French Riviera and France\'s fifth-largest city — has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',

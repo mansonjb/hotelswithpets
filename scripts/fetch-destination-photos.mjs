@@ -35,6 +35,7 @@ const TARGETS = [
   { slug: 'nantes',       query: 'Chateau des Ducs de Bretagne Nantes' },
   { slug: 'frankfurt',    query: 'Romerberg Frankfurt old town skyline' },
   { slug: 'verona',      query: 'Arena di Verona Roman amphitheatre Piazza Bra' },
+  { slug: 'naples',      query: 'Naples skyline Vesuvius Castel dellOvo' },
 ]
 
 async function searchPhoto(query, apiKey) {

@@ -3879,6 +3879,125 @@
     "slug": "bb-hotel-granada"
   },
   {
+    "id": "hamburg-1",
+    "name": "Fairmont Hotel Vier Jahreszeiten",
+    "destinationSlug": "hamburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1700,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/fairmont-hotel-vier-jahreszeiten.html",
+    "petFee": 50,
+    "petPolicy": "Pets allowed (dogs and cats) for €50 per night. Bowls, bed and welcome treats provided. All sizes accepted with prior confirmation.",
+    "highlights": [
+      "Historic 1897 Alster-side palace",
+      "Dog welcome kit (bed, bowl, treats)",
+      "Direct Binnenalster lake access"
+    ],
+    "slug": "fairmont-hotel-vier-jahreszeiten"
+  },
+  {
+    "id": "hamburg-2",
+    "name": "25hours Hotel Hamburg HafenCity",
+    "destinationSlug": "hamburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2800,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/25hours-hafencity.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per stay. Welcome kit with bowl and treats. All sizes welcome.",
+    "highlights": [
+      "Design hotel in HafenCity",
+      "Rooftop sauna",
+      "Pet welcome kit included"
+    ],
+    "slug": "25hours-hotel-hamburg-hafencity"
+  },
+  {
+    "id": "hamburg-3",
+    "name": "Scandic Hamburg Emporio",
+    "destinationSlug": "hamburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3400,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/scandic-hamburg-emporio.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for €20 per stay. Pet beds available on request. Dogs and cats accepted.",
+    "highlights": [
+      "Central Neustadt location",
+      "Close to Planten un Blomen",
+      "Pet beds on request"
+    ],
+    "slug": "scandic-hamburg-emporio"
+  },
+  {
+    "id": "hamburg-4",
+    "name": "Hotel Hafen Hamburg",
+    "destinationSlug": "hamburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/hafenhamburg.html",
+    "petFee": 18,
+    "petPolicy": "Pets allowed for €18 per night. Panoramic harbour views. Dogs of any size welcome.",
+    "highlights": [
+      "Historic building opposite Landungsbrücken",
+      "Panoramic harbour views",
+      "Skybar on the 13th floor"
+    ],
+    "slug": "hotel-hafen-hamburg"
+  },
+  {
+    "id": "hamburg-5",
+    "name": "Motel One Hamburg-Altona",
+    "destinationSlug": "hamburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2600,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/motel-one-hamburg-altona.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for €10 per night. Max 1 pet per room. All sizes welcome.",
+    "highlights": [
+      "Budget design chain",
+      "Walking distance to Altonaer Volkspark",
+      "Near Altona S-Bahn station"
+    ],
+    "slug": "motel-one-hamburg-altona"
+  },
+  {
     "id": "helsinki-1",
     "name": "Klaus K Hotel Helsinki",
     "destinationSlug": "helsinki",

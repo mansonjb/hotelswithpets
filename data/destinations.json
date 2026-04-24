@@ -1536,6 +1536,80 @@
     }
   },
   {
+    "slug": "hamburg",
+    "name": "Hamburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/hamburg.jpg",
+    "intro": "Germany's second-largest city and one of its most dog-friendly — 14% green space, 56 fenced off-leash zones, a 7 km Alster lake walking loop, the famous Elbstrand urban beaches and two 24/7 emergency vet clinics. A port culture with deep roots and wide horizons.",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold, windy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, long days",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm, breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm, occasional heatwave",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, Christmas markets",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "helsinki",
     "name": "Helsinki",
     "country": "Finland",

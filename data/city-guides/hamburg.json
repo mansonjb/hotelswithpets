@@ -1,0 +1,867 @@
+{
+  "slug": "hamburg",
+  "name": "Hamburg",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-04-24",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Hamburg",
+      "titleFr": "Restaurants acceptant les chiens à Hambourg",
+      "titleEs": "Restaurantes dog-friendly en Hamburgo",
+      "introEn": "Hamburg is one of the most dog-welcoming large cities in Germany — a port culture combined with a strong tradition of casual outdoor dining (especially around the Alster lake and in the Schanzenviertel) means water bowls at restaurant doors are almost universal. German law permits dogs in food venues by default unless a 'kein Hund'-sign is posted, and Hamburg restaurants broadly embrace it.",
+      "introFr": "Hambourg est l'une des grandes villes d'Allemagne les plus accueillantes pour les chiens — culture portuaire associée à une forte tradition de restauration en extérieur décontractée (surtout autour du lac Alster et dans le Schanzenviertel) fait des gamelles d'eau à l'entrée des restaurants la norme. La loi allemande autorise les chiens dans les établissements de restauration par défaut sauf pancarte 'kein Hund', et les restaurants hambourgeois adhèrent largement à cette règle.",
+      "introEs": "Hamburgo es una de las grandes ciudades de Alemania más acogedoras con los perros — la cultura portuaria unida a una fuerte tradición de restauración al aire libre (especialmente alrededor del lago Alster y en el Schanzenviertel) hace que los bols de agua a la entrada de los restaurantes sean casi universales. La ley alemana permite perros en locales de restauración por defecto salvo cartel 'kein Hund', y los restaurantes hamburgueses lo aplican ampliamente.",
+      "places": [
+        {
+          "name": "Fischereihafen Restaurant",
+          "address": "Große Elbstraße 143, 22767 Hamburg",
+          "neighborhood": "Altona / Övelgönne",
+          "photo": "/images/city-places/hamburg-restaurants-fischereihafen-restaurant.jpg",
+          "website": "https://www.fischereihafenrestaurant.de/",
+          "description": "A 1981-founded institution on the Elbe riverfront, famed for its fresh North Sea seafood and panoramic views of container ships entering the port. Leashed dogs are welcome on the outdoor terrace and inside on request; the owner is a known dog lover.",
+          "descriptionFr": "Institution fondée en 1981 sur les rives de l'Elbe, réputée pour ses poissons frais de la mer du Nord et sa vue panoramique sur les porte-conteneurs qui entrent au port. Les chiens en laisse sont bienvenus en terrasse et à l'intérieur sur demande ; le propriétaire est un amoureux des chiens reconnu.",
+          "descriptionEs": "Institución fundada en 1981 en la orilla del Elba, célebre por su pescado fresco del Mar del Norte y sus vistas panorámicas a los portacontenedores que entran al puerto. Los perros con correa son bienvenidos en la terraza y en el interior a petición; el propietario es un conocido amante de los perros.",
+          "petPolicy": "Dogs welcome on terrace and inside",
+          "petPolicyFr": "Chiens bienvenus en terrasse et en salle",
+          "petPolicyEs": "Perros bienvenidos en terraza y sala",
+          "priceRange": "€€€",
+          "mustTry": "Labskaus, Nordsee Matjes, Scholle Finkenwerder Art",
+          "mustTryFr": "Labskaus, Matjes de mer du Nord, plie Finkenwerder Art",
+          "mustTryEs": "Labskaus, Matjes del mar del Norte, platija Finkenwerder Art",
+          "openingHours": "Daily 11:30–23:00",
+          "tip": "Reserve a window table for lunch to catch the port light — the view over the Elbe is best from the first-floor tables.",
+          "tipFr": "Réservez une table en vitrine pour le déjeuner afin de profiter de la lumière sur le port — la vue sur l'Elbe est la plus belle depuis les tables du premier étage.",
+          "tipEs": "Reserva una mesa junto a la ventana para la comida para aprovechar la luz del puerto — la vista al Elba es mejor desde las mesas del primer piso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Fischereihafen+Restaurant+Hamburg"
+        },
+        {
+          "name": "Bullerei",
+          "address": "Lagerstraße 34b, 20357 Hamburg",
+          "neighborhood": "Schanzenviertel",
+          "photo": "/images/city-places/hamburg-restaurants-bullerei.jpg",
+          "website": "https://www.bullerei.com/",
+          "description": "Star chef Tim Mälzer's loft-style restaurant in a former cattle slaughterhouse in the hip Schanzenviertel. Dogs are welcome in the bar-bistro area and on the sunny front terrace, which fills with regulars and their pets at weekend brunch.",
+          "descriptionFr": "Restaurant loft du chef Tim Mälzer dans une ancienne halle aux bestiaux du Schanzenviertel hipster. Les chiens sont bienvenus dans l'espace bar-bistro et sur la terrasse ensoleillée, prise d'assaut par les habitués et leurs chiens au brunch du week-end.",
+          "descriptionEs": "Restaurante loft del chef estrella Tim Mälzer en un antiguo matadero del Schanzenviertel hipster. Los perros son bienvenidos en la zona de bar-bistró y en la soleada terraza delantera, que se llena de habituales con sus perros en el brunch de fin de semana.",
+          "petPolicy": "Dogs welcome in bar-bistro and terrace",
+          "petPolicyFr": "Chiens bienvenus au bar-bistro et en terrasse",
+          "petPolicyEs": "Perros bienvenidos en bar-bistró y terraza",
+          "priceRange": "€€€",
+          "mustTry": "Weekend brunch, Bullerei burger, Mälzer's dry-aged steak",
+          "mustTryFr": "Brunch du week-end, burger Bullerei, bœuf maturé de Mälzer",
+          "mustTryEs": "Brunch de fin de semana, hamburguesa Bullerei, chuletón madurado de Mälzer",
+          "openingHours": "Mon–Sat 18:00–24:00, Sat–Sun brunch 10:00–14:00",
+          "tip": "Brunch is no-reservation — arrive at 10:00 sharp for a terrace table or go at 13:30 for the calmer second seating.",
+          "tipFr": "Pas de réservation pour le brunch — venez à 10h pile pour une table en terrasse ou à 13h30 pour le deuxième service plus calme.",
+          "tipEs": "El brunch no se reserva — llega a las 10:00 en punto para una mesa en terraza o a las 13:30 para el segundo turno más tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bullerei+Hamburg"
+        },
+        {
+          "name": "Bodo's Bootssteg",
+          "address": "Harvestehuder Weg 1B, 20149 Hamburg",
+          "neighborhood": "Rotherbaum / Außenalster",
+          "photo": "/images/city-places/hamburg-restaurants-bodo-s-bootssteg.jpg",
+          "website": "https://bodos-bootssteg.de/",
+          "description": "A floating café-restaurant on a historic boat dock at the edge of the Außenalster, one of the city's favourite summer terraces. Leashed dogs are welcome on the wooden deck and the surrounding lawn; water bowls kept at the entrance year-round.",
+          "descriptionFr": "Café-restaurant flottant sur un embarcadère historique en bordure de l'Außenalster, l'une des terrasses estivales favorites des Hambourgeois. Les chiens en laisse sont bienvenus sur le ponton en bois et la pelouse attenante ; gamelles d'eau à l'entrée toute l'année.",
+          "descriptionEs": "Café-restaurante flotante sobre un embarcadero histórico en el borde del Außenalster, una de las terrazas estivales favoritas de Hamburgo. Los perros con correa son bienvenidos en la cubierta de madera y el césped adyacente; bol de agua en la entrada todo el año.",
+          "petPolicy": "Dogs welcome on deck and lawn",
+          "petPolicyFr": "Chiens bienvenus sur le ponton et la pelouse",
+          "petPolicyEs": "Perros bienvenidos en cubierta y césped",
+          "priceRange": "€€",
+          "mustTry": "Fischbrötchen, Franzbrötchen, local Ratsherrn beer",
+          "mustTryFr": "Fischbrötchen, Franzbrötchen, bière locale Ratsherrn",
+          "mustTryEs": "Fischbrötchen, Franzbrötchen, cerveza local Ratsherrn",
+          "openingHours": "Apr–Oct daily 10:00–22:00, Nov–Mar weekends 11:00–18:00",
+          "tip": "Walk down from the Kennedybrücke for the classic Alster approach — the lawn fills from 14:00 onwards on sunny weekends.",
+          "tipFr": "Descendez depuis le Kennedybrücke pour l'approche classique de l'Alster — la pelouse se remplit dès 14h les week-ends ensoleillés.",
+          "tipEs": "Baja desde el Kennedybrücke para el acceso clásico al Alster — el césped se llena a partir de las 14:00 en fines de semana soleados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bodos+Bootssteg+Hamburg"
+        }
+      ],
+      "tipsEn": [
+        "Hamburg restaurants with a 'Hund willkommen' sticker or a water bowl at the door actively welcome dogs — this is a strong signal even for indoor seating.",
+        "The Schanzenviertel and Övelgönne waterfront have the highest concentrations of dog-friendly terraces; the port areas (Speicherstadt, HafenCity) can be cooler with fewer crowds for anxious dogs.",
+        "Ask for 'ein Wassernapf, bitte' — staff routinely bring a fresh bowl, and in summer many cafés also hand out small dog treats."
+      ],
+      "tipsFr": [
+        "Un autocollant 'Hund willkommen' ou une gamelle d'eau à l'entrée d'un restaurant hambourgeois signale un accueil actif des chiens — un bon indicateur même pour la salle intérieure.",
+        "Le Schanzenviertel et le front de mer d'Övelgönne concentrent le plus de terrasses dog-friendly ; les zones portuaires (Speicherstadt, HafenCity) sont plus calmes et moins bondées pour les chiens anxieux.",
+        "Demandez 'ein Wassernapf, bitte' — le personnel apporte régulièrement une gamelle d'eau fraîche, et l'été de nombreux cafés distribuent aussi de petites friandises."
+      ],
+      "tipsEs": [
+        "Un adhesivo 'Hund willkommen' o un bol de agua en la puerta de un restaurante hamburgués indica un recibimiento activo de perros — buena señal incluso para el interior.",
+        "El Schanzenviertel y el paseo marítimo de Övelgönne concentran la mayor cantidad de terrazas dog-friendly; las zonas portuarias (Speicherstadt, HafenCity) son más tranquilas y menos concurridas para perros ansiosos.",
+        "Pide 'ein Wassernapf, bitte' — el personal suele traer un bol de agua fresca, y en verano muchos cafés regalan también pequeñas golosinas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Hamburg restaurants?",
+          "a": "Yes — German law permits dogs in food venues by default unless the owner posts a 'kein Hund' sign. Most Hamburg restaurants actively welcome them, especially in the Schanzenviertel and Alster areas."
+        },
+        {
+          "q": "Do Hamburg cafés provide water bowls?",
+          "a": "Most traditional cafés and port-area restaurants do. If not, ask for 'einen Wassernapf' — staff will bring a fresh bowl within minutes."
+        },
+        {
+          "q": "Where are the most dog-friendly restaurant areas in Hamburg?",
+          "a": "The Außenalster lake shore (Bodo's, Canapé), the Schanzenviertel (Bullerei, Jim Block), and the Övelgönne Elbe waterfront concentrate the highest density of pet-welcoming venues."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Hambourg ?",
+          "a": "Oui — la loi allemande autorise les chiens dans les établissements de restauration par défaut, sauf pancarte 'kein Hund'. La plupart des restaurants hambourgeois les accueillent activement, notamment au Schanzenviertel et autour de l'Alster."
+        },
+        {
+          "q": "Les cafés hambourgeois fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des cafés traditionnels et restaurants du port oui. Sinon, demandez 'einen Wassernapf' — le personnel apporte une gamelle fraîche en quelques minutes."
+        },
+        {
+          "q": "Quels sont les quartiers les plus dog-friendly de Hambourg ?",
+          "a": "Les rives de l'Außenalster (Bodo's, Canapé), le Schanzenviertel (Bullerei, Jim Block) et le front de mer d'Övelgönne concentrent la plus forte densité d'adresses accueillantes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Hamburgo?",
+          "a": "Sí — la ley alemana permite perros en locales de restauración por defecto, salvo cartel 'kein Hund'. La mayoría de los restaurantes hamburgueses los reciben activamente, especialmente en el Schanzenviertel y alrededor del Alster."
+        },
+        {
+          "q": "¿Ofrecen bol de agua los cafés de Hamburgo?",
+          "a": "La mayoría de los cafés tradicionales y restaurantes del puerto, sí. Si no, pide 'einen Wassernapf' — el personal trae un bol fresco en pocos minutos."
+        },
+        {
+          "q": "¿Cuáles son los barrios más dog-friendly de Hamburgo?",
+          "a": "Las orillas del Außenalster (Bodo's, Canapé), el Schanzenviertel (Bullerei, Jim Block) y el paseo marítimo de Övelgönne concentran la mayor densidad de locales acogedores."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Hamburg",
+      "titleFr": "Parcs à chiens et espaces verts à Hambourg",
+      "titleEs": "Parques para perros y espacios verdes en Hamburgo",
+      "introEn": "Hamburg is Germany's greenest major city — over 14% of its surface is parks and public gardens, with the Außenalster lake at its heart and 56 dedicated Hundeauslaufzonen (fenced off-leash dog runs) spread across the 104 city districts. The Stadtpark and the Altonaer Volkspark are the two largest destinations, and most Alster-side paths have Hund-erlaubt sections.",
+      "introFr": "Hambourg est la grande ville la plus verte d'Allemagne — plus de 14% de sa surface sont parcs et jardins publics, avec le lac Außenalster en son cœur et 56 Hundeauslaufzonen (zones canines clôturées sans laisse) réparties sur les 104 quartiers. Le Stadtpark et l'Altonaer Volkspark sont les deux plus grandes destinations, et la plupart des sentiers de l'Alster ont des sections Hund-erlaubt.",
+      "introEs": "Hamburgo es la gran ciudad más verde de Alemania — más del 14% de su superficie son parques y jardines públicos, con el lago Außenalster en su corazón y 56 Hundeauslaufzonen (zonas caninas valladas sin correa) repartidas por los 104 barrios. El Stadtpark y el Altonaer Volkspark son los dos mayores destinos, y la mayoría de los senderos del Alster tienen secciones Hund-erlaubt.",
+      "places": [
+        {
+          "name": "Stadtpark Hamburg",
+          "address": "Südring 5B, 22303 Hamburg",
+          "neighborhood": "Winterhude",
+          "photo": "/images/city-places/hamburg-parks-stadtpark-hamburg.jpg",
+          "website": "https://www.hamburg.de/stadtpark/",
+          "description": "Hamburg's central 148-hectare people's park designed in the 1910s. Features two Hundeauslaufzonen — a large one near the Planetarium and a smaller fenced one to the south — plus wide lawns where leashed dogs are welcome. Summer open-air concerts at the Freilichtbühne; dogs are admitted on leash outside concert hours.",
+          "descriptionFr": "Parc populaire central de 148 hectares, dessiné dans les années 1910. Deux Hundeauslaufzonen — une grande près du Planétarium et une petite clôturée au sud — plus de vastes pelouses où les chiens en laisse sont bienvenus. Concerts d'été à la Freilichtbühne ; les chiens sont admis en laisse en dehors des horaires de concert.",
+          "descriptionEs": "Parque popular central de 148 hectáreas, diseñado en la década de 1910. Dispone de dos Hundeauslaufzonen — una grande junto al Planetario y otra más pequeña vallada al sur — además de amplios céspedes donde los perros con correa son bienvenidos. Conciertos al aire libre en verano en la Freilichtbühne; los perros se admiten con correa fuera de los horarios de concierto.",
+          "petPolicy": "Leash mandatory; two fenced off-leash zones",
+          "petPolicyFr": "Laisse obligatoire ; deux zones sans laisse clôturées",
+          "petPolicyEs": "Correa obligatoria; dos zonas sin correa valladas",
+          "size": "148 ha / 366 acres",
+          "facilities": "Two Hundeauslaufzonen, waste bag dispensers, cafés, public toilets",
+          "facilitiesFr": "Deux Hundeauslaufzonen, distributeurs de sacs, cafés, toilettes publiques",
+          "facilitiesEs": "Dos Hundeauslaufzonen, dispensadores de bolsas, cafeterías, aseos públicos",
+          "openingHours": "24/7",
+          "tip": "The northern Hundeauslaufzone near the Planetarium is shaded and quieter than the southern one — preferred by locals with anxious dogs.",
+          "tipFr": "La Hundeauslaufzone nord près du Planétarium est ombragée et plus calme que celle du sud — préférée des habitants avec des chiens anxieux.",
+          "tipEs": "La Hundeauslaufzone norte, junto al Planetario, tiene más sombra y es más tranquila que la del sur — preferida por los vecinos con perros ansiosos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Hamburg"
+        },
+        {
+          "name": "Außenalster",
+          "address": "Alsterufer, 20354 Hamburg",
+          "neighborhood": "Rotherbaum / Uhlenhorst",
+          "photo": "/images/city-places/hamburg-parks-au-enalster.jpg",
+          "website": "https://www.hamburg.de/alster",
+          "description": "Hamburg's iconic inner-city lake — a 164-hectare expanse surrounded by a 7 km leashed walking path that is the undisputed weekend promenade of the city. Multiple designated Hund-erlaubt lawn sections (Schwanenwik, Fährdamm) and a small Hundeauslauf zone at the northeastern shore near Winterhude.",
+          "descriptionFr": "Le lac emblématique du centre-ville de Hambourg — étendue de 164 hectares entourée d'un sentier de 7 km en laisse, promenade incontestée du week-end. Plusieurs pelouses Hund-erlaubt désignées (Schwanenwik, Fährdamm) et une petite Hundeauslaufzone au nord-est près de Winterhude.",
+          "descriptionEs": "El lago emblemático del centro de Hamburgo — extensión de 164 hectáreas rodeada por un sendero de 7 km con correa, el paseo indiscutible del fin de semana. Varias praderas Hund-erlaubt designadas (Schwanenwik, Fährdamm) y una pequeña Hundeauslaufzone al noreste cerca de Winterhude.",
+          "petPolicy": "Leashed around the full 7 km; specific lawn sections and one fenced zone",
+          "petPolicyFr": "Laisse sur les 7 km ; pelouses désignées et une zone clôturée",
+          "petPolicyEs": "Correa en los 7 km; céspedes designados y una zona vallada",
+          "size": "164 ha water + 7 km path",
+          "facilities": "Benches, cafés, rowing clubs, water taps in summer",
+          "facilitiesFr": "Bancs, cafés, clubs d'aviron, points d'eau en été",
+          "facilitiesEs": "Bancos, cafeterías, clubes de remo, puntos de agua en verano",
+          "openingHours": "24/7",
+          "tip": "Start at Kennedybrücke and walk clockwise — the first 3 km via Schwanenwik have the best lawn-stop options and several dog-friendly cafés.",
+          "tipFr": "Partez du Kennedybrücke dans le sens des aiguilles d'une montre — les 3 premiers km via Schwanenwik offrent les meilleures pauses pelouse et plusieurs cafés dog-friendly.",
+          "tipEs": "Empieza en el Kennedybrücke y camina en sentido horario — los primeros 3 km por Schwanenwik ofrecen las mejores paradas en césped y varios cafés dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Aussenalster+Hamburg"
+        },
+        {
+          "name": "Altonaer Volkspark",
+          "address": "Schnackenburgallee, 22525 Hamburg",
+          "neighborhood": "Altona-Nord",
+          "photo": "/images/city-places/hamburg-parks-altonaer-volkspark.jpg",
+          "website": "https://www.hamburg.de/altonaer-volkspark/",
+          "description": "At 205 hectares, Hamburg's largest public park — woodland, meadows, a rose garden and three large fenced Hundeauslaufzonen make it the city's top destination for off-leash romping. Extensive wooded trails; often quieter than the central Stadtpark.",
+          "descriptionFr": "Avec ses 205 hectares, le plus grand parc public de Hambourg — forêt, prairies, roseraie et trois grandes Hundeauslaufzonen clôturées en font la destination n°1 pour les chiens sans laisse. Larges sentiers forestiers ; souvent plus calme que le Stadtpark central.",
+          "descriptionEs": "Con 205 hectáreas, el mayor parque público de Hamburgo — bosque, praderas, rosaleda y tres grandes Hundeauslaufzonen valladas lo convierten en el destino nº1 para perros sin correa. Amplios senderos forestales; a menudo más tranquilo que el Stadtpark central.",
+          "petPolicy": "Leash mandatory; three fenced off-leash zones",
+          "petPolicyFr": "Laisse obligatoire ; trois zones sans laisse clôturées",
+          "petPolicyEs": "Correa obligatoria; tres zonas sin correa valladas",
+          "size": "205 ha / 507 acres",
+          "facilities": "Three Hundeauslaufzonen, rose garden, café, picnic meadows",
+          "facilitiesFr": "Trois Hundeauslaufzonen, roseraie, café, prairies pique-nique",
+          "facilitiesEs": "Tres Hundeauslaufzonen, rosaleda, cafetería, praderas de picnic",
+          "openingHours": "24/7",
+          "tip": "Park near the Waldfriedhof entrance for quickest access to the largest Hundeauslaufzone — Saturday mornings see organised dog-socialisation meetups.",
+          "tipFr": "Garez-vous près de l'entrée du Waldfriedhof pour l'accès le plus rapide à la plus grande Hundeauslaufzone — les samedis matin des rencontres de socialisation canine sont organisées.",
+          "tipEs": "Aparca cerca de la entrada del Waldfriedhof para el acceso más rápido a la mayor Hundeauslaufzone — los sábados por la mañana hay encuentros de socialización canina organizados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Altonaer+Volkspark+Hamburg"
+        }
+      ],
+      "tipsEn": [
+        "Hamburg has 56 dedicated Hundeauslaufzonen (fenced off-leash areas) — the full map is at hamburg.de/hundeauslaufzonen.",
+        "A leash is required in all public spaces outside Hundeauslaufzonen per the Hamburg Hundegesetz; fines start at €150 for unleashed dogs in central districts.",
+        "Picking up dog waste is mandatory citywide — fines up to €100, actively enforced along the Alster and in Planten un Blomen."
+      ],
+      "tipsFr": [
+        "Hambourg compte 56 Hundeauslaufzonen dédiées (zones sans laisse clôturées) — la carte complète est sur hamburg.de/hundeauslaufzonen.",
+        "La laisse est obligatoire dans tous les espaces publics hors Hundeauslaufzonen selon la Hamburg Hundegesetz ; amendes à partir de 150 € pour chien sans laisse dans les quartiers centraux.",
+        "Le ramassage des déjections est obligatoire en ville — amendes jusqu'à 100 €, activement contrôlées le long de l'Alster et dans Planten un Blomen."
+      ],
+      "tipsEs": [
+        "Hamburgo cuenta con 56 Hundeauslaufzonen dedicadas (zonas sin correa valladas) — el mapa completo está en hamburg.de/hundeauslaufzonen.",
+        "La correa es obligatoria en todos los espacios públicos fuera de las Hundeauslaufzonen según la Hamburg Hundegesetz; multas desde 150 € por perro sin correa en los barrios centrales.",
+        "Recoger las deposiciones es obligatorio en toda la ciudad — multas hasta 100 €, controladas activamente junto al Alster y en Planten un Blomen."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run off-leash in Hamburg?",
+          "a": "In the 56 official Hundeauslaufzonen listed on hamburg.de. The biggest are in Altonaer Volkspark, Stadtpark, Niendorfer Gehege and Öjendorfer Park."
+        },
+        {
+          "q": "Are dogs allowed in Planten un Blomen?",
+          "a": "Yes — leashed dogs are welcome in the park but not in the Japanese Garden, the tropical greenhouse or the playground zones."
+        },
+        {
+          "q": "Can I swim with my dog in the Alster?",
+          "a": "Swimming is prohibited for humans and dogs in both the Binnenalster and the Außenalster. The Öjendorfer See in Billstedt has a designated Hundestrand (dog swimming beach) within the city."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils courir sans laisse à Hambourg ?",
+          "a": "Dans les 56 Hundeauslaufzonen officielles listées sur hamburg.de. Les plus grandes sont à l'Altonaer Volkspark, au Stadtpark, au Niendorfer Gehege et à l'Öjendorfer Park."
+        },
+        {
+          "q": "Les chiens sont-ils admis à Planten un Blomen ?",
+          "a": "Oui — les chiens en laisse sont bienvenus dans le parc, mais interdits au Jardin japonais, à la serre tropicale et aux aires de jeux."
+        },
+        {
+          "q": "Puis-je nager avec mon chien dans l'Alster ?",
+          "a": "La baignade est interdite aux humains comme aux chiens dans la Binnenalster et l'Außenalster. L'Öjendorfer See à Billstedt dispose d'une Hundestrand (plage canine) à l'intérieur de la ville."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden los perros correr sin correa en Hamburgo?",
+          "a": "En las 56 Hundeauslaufzonen oficiales listadas en hamburg.de. Las más grandes están en Altonaer Volkspark, Stadtpark, Niendorfer Gehege y Öjendorfer Park."
+        },
+        {
+          "q": "¿Se admiten perros en Planten un Blomen?",
+          "a": "Sí — los perros con correa son bienvenidos en el parque, pero no en el Jardín Japonés, el invernadero tropical ni las zonas de juegos."
+        },
+        {
+          "q": "¿Puedo nadar con mi perro en el Alster?",
+          "a": "El baño está prohibido tanto para personas como para perros en el Binnenalster y el Außenalster. El Öjendorfer See en Billstedt tiene una Hundestrand (playa canina) dentro de la ciudad."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Dogs in Hamburg",
+      "titleFr": "Se déplacer avec son chien à Hambourg",
+      "titleEs": "Viajar con perro en Hamburgo",
+      "introEn": "Hamburg's HVV transit network (S-Bahn, U-Bahn, bus, ferry) has one of Germany's friendliest dog policies: small dogs in a carrier ride free, larger dogs need a child-rate ticket, a short leash and — if not obviously calm — a muzzle. HVV ferries across the Elbe and Alster also accept dogs under the same rules, which makes port hopping easy with a pet.",
+      "introFr": "Le réseau HVV de Hambourg (S-Bahn, U-Bahn, bus, ferry) applique l'une des politiques chiens les plus accueillantes d'Allemagne : petits chiens en cage gratuits, grands chiens avec billet enfant, laisse courte et — si pas visiblement calme — muselière. Les ferries HVV sur l'Elbe et l'Alster acceptent les chiens aux mêmes conditions, ce qui facilite les déplacements portuaires avec un animal.",
+      "introEs": "La red HVV de Hamburgo (S-Bahn, U-Bahn, bus, ferri) aplica una de las políticas caninas más acogedoras de Alemania: perros pequeños en transportín gratis, perros grandes con billete infantil, correa corta y — si no está visiblemente tranquilo — bozal. Los ferris HVV del Elba y del Alster admiten perros en las mismas condiciones, lo que facilita los desplazamientos portuarios con mascota.",
+      "places": [
+        {
+          "name": "HVV Network (S-Bahn, U-Bahn, bus, ferry)",
+          "address": "Citywide — all lines including Alster and Elbe ferries",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/hamburg-transport-hvv-network-s-bahn-u-bahn-bus-ferry.jpg",
+          "website": "https://www.hvv.de/",
+          "description": "The Hamburger Verkehrsverbund covers every rail, bus and ferry line in Hamburg and the metropolitan region. Small dogs in closed carriers travel free; larger dogs need a child-rate ticket (Kinderkarte) and must be on a short leash. A muzzle may be requested by staff if crowded; staff can refuse boarding without one.",
+          "descriptionFr": "Le Hamburger Verkehrsverbund couvre chaque ligne de train, bus et ferry de Hambourg et sa région métropolitaine. Les petits chiens en cage fermée voyagent gratuitement ; les plus grands nécessitent un billet enfant (Kinderkarte) et une laisse courte. Le personnel peut exiger une muselière en cas d'affluence et refuser l'embarquement sans elle.",
+          "descriptionEs": "El Hamburger Verkehrsverbund cubre todas las líneas de tren, bus y ferri de Hamburgo y la región metropolitana. Los perros pequeños en transportín cerrado viajan gratis; los más grandes necesitan un billete infantil (Kinderkarte) y correa corta. El personal puede exigir bozal en caso de saturación y denegar el embarque si no se lleva.",
+          "petPolicy": "Small dogs free (carrier); large dogs child ticket + leash + possible muzzle",
+          "petPolicyFr": "Petits chiens gratuits (cage) ; grands chiens billet enfant + laisse + muselière possible",
+          "petPolicyEs": "Perros pequeños gratis (transportín); grandes, billete infantil + correa + posible bozal",
+          "googleMapsUrl": "https://maps.google.com/?q=Hamburg+Hauptbahnhof"
+        }
+      ],
+      "tipsEn": [
+        "The Alster ferries (lines 61–74) accept leashed dogs on outer decks for free if the dog fits on your lap — a lovely summer alternative to the 7 km walking loop.",
+        "The Elbe ferry 62 from Landungsbrücken to Finkenwerder is the cheapest harbour tour in Hamburg — dogs free on the open deck with a child-rate ticket if larger.",
+        "The Deutsche Bahn ICE/IC trains from Hamburg Hauptbahnhof accept dogs on the Hundeticket (half the adult fare) plus leash; pre-booking a window seat is recommended on long routes."
+      ],
+      "tipsFr": [
+        "Les ferries de l'Alster (lignes 61-74) acceptent les chiens en laisse gratuitement sur les ponts extérieurs s'ils tiennent sur vos genoux — belle alternative estivale à la boucle de 7 km.",
+        "Le ferry Elbe 62 de Landungsbrücken à Finkenwerder est la visite portuaire la moins chère de Hambourg — chiens gratuits sur le pont extérieur avec billet enfant si plus grands.",
+        "Les trains ICE/IC Deutsche Bahn au départ de Hauptbahnhof acceptent les chiens avec un Hundeticket (demi-tarif adulte) et laisse obligatoire ; réservation d'une place fenêtre conseillée sur les longs trajets."
+      ],
+      "tipsEs": [
+        "Los ferris del Alster (líneas 61–74) admiten perros con correa gratis en cubiertas exteriores si caben en tu regazo — una bonita alternativa estival al circuito de 7 km.",
+        "El ferri del Elba 62 desde Landungsbrücken a Finkenwerder es el tour portuario más barato de Hamburgo — perros gratis en cubierta exterior con billete infantil si son más grandes.",
+        "Los trenes ICE/IC de Deutsche Bahn desde la Hauptbahnhof admiten perros con un Hundeticket (media tarifa adulta) y correa obligatoria; reservar asiento de ventanilla recomendado en trayectos largos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need to pay for my dog on Hamburg public transport?",
+          "a": "Only for dogs too large to fit in a closed carrier. Larger dogs need a child-rate Kinderkarte. Small dogs in carriers ride free."
+        },
+        {
+          "q": "Can I take my dog on the Alster ferries?",
+          "a": "Yes — small dogs travel free on your lap; larger dogs need a child ticket and must be leashed on the outer deck."
+        },
+        {
+          "q": "Are muzzles required on Hamburg public transport?",
+          "a": "Not automatically, but drivers and controllers may ask you to muzzle your dog if the vehicle is crowded or if the dog appears stressed. Carry a soft muzzle."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Dois-je payer pour mon chien dans les transports de Hambourg ?",
+          "a": "Uniquement pour les chiens trop grands pour tenir dans une cage fermée. Les plus grands nécessitent une Kinderkarte demi-tarif. Les petits chiens en cage voyagent gratuitement."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur les ferries de l'Alster ?",
+          "a": "Oui — les petits chiens voyagent gratuitement sur vos genoux ; les plus grands nécessitent un billet enfant et doivent être en laisse sur le pont extérieur."
+        },
+        {
+          "q": "La muselière est-elle obligatoire dans les transports de Hambourg ?",
+          "a": "Pas automatiquement, mais les conducteurs et contrôleurs peuvent l'exiger en cas de véhicule bondé ou de chien stressé. Emportez une muselière souple."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Debo pagar por mi perro en el transporte público de Hamburgo?",
+          "a": "Solo para perros demasiado grandes para caber en un transportín cerrado. Los más grandes necesitan una Kinderkarte a mitad de precio. Los perros pequeños en transportín viajan gratis."
+        },
+        {
+          "q": "¿Puedo llevar mi perro en los ferris del Alster?",
+          "a": "Sí — los perros pequeños viajan gratis en tu regazo; los más grandes necesitan un billete infantil y deben ir con correa en la cubierta exterior."
+        },
+        {
+          "q": "¿Es obligatorio el bozal en el transporte público de Hamburgo?",
+          "a": "No automáticamente, pero conductores y revisores pueden exigirlo si el vehículo va lleno o el perro parece estresado. Lleva un bozal flexible."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Hamburg",
+      "titleFr": "Plages acceptant les chiens près de Hambourg",
+      "titleEs": "Playas dog-friendly cerca de Hamburgo",
+      "introEn": "Hamburg is 100 km from the North Sea but has several excellent dog-friendly sandy beaches along the Elbe and at designated lake Hundestrand zones inside the city. The Elbstrand at Övelgönne and Blankenese is the most famous urban beach in Germany — dogs are welcome off-leash outside the marked bathing season.",
+      "introFr": "Hambourg est à 100 km de la mer du Nord mais dispose de plusieurs excellentes plages de sable dog-friendly le long de l'Elbe et dans des Hundestrand désignés sur les lacs intra-urbains. L'Elbstrand à Övelgönne et Blankenese est la plage urbaine la plus célèbre d'Allemagne — chiens acceptés sans laisse hors période de baignade.",
+      "introEs": "Hamburgo está a 100 km del Mar del Norte pero cuenta con varias excelentes playas de arena dog-friendly a lo largo del Elba y en Hundestrand designadas en los lagos intraurbanos. El Elbstrand en Övelgönne y Blankenese es la playa urbana más famosa de Alemania — perros admitidos sin correa fuera de temporada de baño.",
+      "places": [
+        {
+          "name": "Elbstrand Övelgönne",
+          "address": "Övelgönne, 22605 Hamburg",
+          "neighborhood": "Othmarschen / Övelgönne",
+          "photo": "/images/city-places/hamburg-beaches-elbstrand-ovelgonne.jpg",
+          "website": "https://www.hamburg.de/elbstrand",
+          "description": "Hamburg's iconic sandy urban beach, stretching 3 km along the Elbe with full-frame views of the container port. Dogs are permitted off-leash on the western section (past the Strandperle café) from 1 October to 30 April, and on leash year-round — one of Germany's most photographed dog beaches.",
+          "descriptionFr": "Plage urbaine de sable emblématique de Hambourg, s'étirant sur 3 km le long de l'Elbe avec vue panoramique sur le port de conteneurs. Les chiens sont admis sans laisse sur la portion ouest (après le café Strandperle) du 1er octobre au 30 avril, et en laisse toute l'année — l'une des plages canines les plus photographiées d'Allemagne.",
+          "descriptionEs": "Playa urbana de arena emblemática de Hamburgo, de 3 km a lo largo del Elba con vistas panorámicas al puerto de contenedores. Los perros se admiten sin correa en el tramo oeste (pasado el café Strandperle) del 1 octubre al 30 abril, y con correa todo el año — una de las playas caninas más fotografiadas de Alemania.",
+          "petPolicy": "Off-leash west section Oct–Apr; leash year-round",
+          "petPolicyFr": "Sans laisse côté ouest oct.-avril ; laisse toute l'année",
+          "petPolicyEs": "Sin correa tramo oeste oct-abr; con correa todo el año",
+          "openingHours": "24/7",
+          "tip": "Walk from Strandperle café westward for ~800 m to reach the designated off-leash area — the eastern section near Teufelsbrück is leash-only and busier.",
+          "tipFr": "Depuis le café Strandperle, marchez ~800 m vers l'ouest pour atteindre la zone sans laisse désignée — la partie est près de Teufelsbrück est en laisse obligatoire et plus fréquentée.",
+          "tipEs": "Desde el café Strandperle, camina unos 800 m hacia el oeste para llegar a la zona sin correa designada — el tramo este junto a Teufelsbrück es solo con correa y más concurrido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Elbstrand+Oevelgoenne+Hamburg"
+        },
+        {
+          "name": "Hundestrand Öjendorfer See",
+          "address": "Öjendorfer Damm, 22117 Hamburg",
+          "neighborhood": "Billstedt",
+          "photo": "/images/city-places/hamburg-beaches-hundestrand-ojendorfer-see.jpg",
+          "website": "https://www.hamburg.de/oejendorfer-see",
+          "description": "Hamburg's only in-city Hundestrand (dog swimming beach) on the eastern Öjendorfer See lake. Dogs can swim off-leash year-round in the designated zone; the surrounding 160-hectare lake shore has additional Hund-erlaubt walking paths.",
+          "descriptionFr": "Seule Hundestrand (plage canine) intra-urbaine de Hambourg, sur le lac Öjendorfer See à l'est de la ville. Les chiens peuvent nager sans laisse toute l'année dans la zone désignée ; les 160 hectares de rives offrent aussi des sentiers Hund-erlaubt.",
+          "descriptionEs": "Única Hundestrand (playa canina) intraurbana de Hamburgo, en el lago Öjendorfer See al este. Los perros pueden bañarse sin correa todo el año en la zona designada; las 160 hectáreas de orilla ofrecen además senderos Hund-erlaubt.",
+          "petPolicy": "Off-leash swim zone year-round",
+          "petPolicyFr": "Zone de baignade sans laisse toute l'année",
+          "petPolicyEs": "Zona de baño sin correa todo el año",
+          "openingHours": "24/7",
+          "tip": "Summer weekends can pack 50+ dogs on the small beach — arrive before 10:00 or after 18:00 for calmer swimming.",
+          "tipFr": "Les week-ends d'été peuvent concentrer 50+ chiens sur la petite plage — venez avant 10h ou après 18h pour une baignade plus calme.",
+          "tipEs": "Los fines de semana de verano pueden juntarse 50+ perros en la pequeña playa — llega antes de las 10:00 o después de las 18:00 para un baño más tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Oejendorfer+See+Hamburg"
+        },
+        {
+          "name": "Falkensteiner Ufer",
+          "address": "Falkensteiner Ufer, 22587 Hamburg",
+          "neighborhood": "Blankenese",
+          "photo": "/images/city-places/hamburg-beaches-falkensteiner-ufer.jpg",
+          "website": "https://www.hamburg.de/blankenese",
+          "description": "A wilder Elbe beach at the westernmost edge of Hamburg, beneath the forested slopes of the Falkensteiner Wald. Quieter than Övelgönne, with leashed dogs permitted year-round and a designated off-leash zone from 1 October to 30 April; big ships pass close to shore here.",
+          "descriptionFr": "Plage de l'Elbe plus sauvage à l'extrémité ouest de Hambourg, au pied des versants boisés du Falkensteiner Wald. Plus calme qu'Övelgönne, avec chiens en laisse autorisés toute l'année et zone sans laisse désignée du 1er octobre au 30 avril ; les gros navires passent tout près de la rive.",
+          "descriptionEs": "Playa más salvaje del Elba en el extremo occidental de Hamburgo, al pie de las laderas boscosas del Falkensteiner Wald. Más tranquila que Övelgönne, con perros con correa admitidos todo el año y una zona sin correa designada del 1 octubre al 30 abril; los grandes barcos pasan muy cerca de la orilla.",
+          "petPolicy": "Leash year-round; off-leash zone Oct–Apr",
+          "petPolicyFr": "Laisse toute l'année ; zone sans laisse oct.-avril",
+          "petPolicyEs": "Con correa todo el año; zona sin correa oct-abr",
+          "openingHours": "24/7",
+          "tip": "Park at Falkensteiner Ufer car park and walk 5 min down — the path is sandy but passable. Combine with a Falkensteiner Wald forest loop for a 2-hour excursion.",
+          "tipFr": "Garez-vous au parking du Falkensteiner Ufer et marchez 5 min en contrebas — le sentier est sablonneux mais praticable. Combinez avec une boucle dans le Falkensteiner Wald pour une sortie de 2h.",
+          "tipEs": "Aparca en el parking del Falkensteiner Ufer y baja 5 min a pie — el sendero es arenoso pero practicable. Combínalo con un circuito por el Falkensteiner Wald para una salida de 2 h.",
+          "googleMapsUrl": "https://maps.google.com/?q=Falkensteiner+Ufer+Hamburg"
+        }
+      ],
+      "tipsEn": [
+        "Hamburg's Elbe beaches enforce the bathing-season leash rule (1 May–30 September) — dogs off-leash risk a €150 fine during these months.",
+        "The Öjendorfer See Hundestrand is the only official dog swimming beach inside city limits; other lakes enforce strict leash rules.",
+        "For a proper North Sea beach, drive to St. Peter-Ording (1h45) — its Hundestrand at Böhl is Germany's largest and most famous dog beach."
+      ],
+      "tipsFr": [
+        "Les plages de l'Elbe de Hambourg appliquent la laisse en période de baignade (1er mai–30 septembre) — chien sans laisse = amende de 150 € pendant ces mois.",
+        "La Hundestrand de l'Öjendorfer See est la seule plage canine officielle en ville ; les autres lacs appliquent strictement la laisse.",
+        "Pour une vraie plage de mer du Nord, roulez jusqu'à St. Peter-Ording (1h45) — sa Hundestrand de Böhl est la plus grande et la plus célèbre d'Allemagne."
+      ],
+      "tipsEs": [
+        "Las playas del Elba en Hamburgo aplican la correa en temporada de baño (1 mayo–30 septiembre) — perro sin correa = multa de 150 € en esos meses.",
+        "La Hundestrand del Öjendorfer See es la única playa canina oficial dentro de la ciudad; los demás lagos aplican la correa estrictamente.",
+        "Para una playa de verdad del Mar del Norte, conduce hasta St. Peter-Ording (1h45) — su Hundestrand de Böhl es la mayor y más famosa de Alemania."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog swim in the Elbe from Hamburg city beaches?",
+          "a": "The Elbe current is strong and swimming is officially discouraged. Most dogs paddle at the edge only; the calmer Öjendorfer See is the safer option inside the city."
+        },
+        {
+          "q": "Is the Elbstrand off-leash year-round?",
+          "a": "No — dogs must be on leash from 1 May to 30 September in the entire Elbstrand area. From 1 October to 30 April they may run off-leash in the designated western section."
+        },
+        {
+          "q": "How far is the nearest real sea beach?",
+          "a": "St. Peter-Ording on the North Sea is 170 km (1h45 by car) — its Hundestrand at Böhl is the biggest dog beach in Germany. Timmendorfer Strand on the Baltic is 80 km (1h drive)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il nager dans l'Elbe depuis les plages urbaines ?",
+          "a": "Le courant de l'Elbe est fort et la baignade officiellement déconseillée. La plupart des chiens pataugent seulement au bord ; l'Öjendorfer See est plus sûr en ville."
+        },
+        {
+          "q": "L'Elbstrand est-il sans laisse toute l'année ?",
+          "a": "Non — les chiens doivent être en laisse du 1er mai au 30 septembre sur toute la zone Elbstrand. Du 1er octobre au 30 avril, ils peuvent courir sans laisse dans la section ouest désignée."
+        },
+        {
+          "q": "À quelle distance est la plus proche vraie plage de mer ?",
+          "a": "St. Peter-Ording en mer du Nord : 170 km (1h45 en voiture) — sa Hundestrand de Böhl est la plus grande plage canine d'Allemagne. Timmendorfer Strand sur la Baltique : 80 km (1h de route)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro nadar en el Elba desde las playas urbanas?",
+          "a": "La corriente del Elba es fuerte y el baño está oficialmente desaconsejado. La mayoría de perros solo chapotean en la orilla; el Öjendorfer See es más seguro dentro de la ciudad."
+        },
+        {
+          "q": "¿El Elbstrand es sin correa todo el año?",
+          "a": "No — los perros deben ir con correa del 1 mayo al 30 septiembre en toda la zona Elbstrand. Del 1 octubre al 30 abril pueden ir sin correa en el tramo oeste designado."
+        },
+        {
+          "q": "¿A qué distancia está la playa de mar más cercana?",
+          "a": "St. Peter-Ording en el Mar del Norte: 170 km (1h45 en coche) — su Hundestrand de Böhl es la mayor playa canina de Alemania. Timmendorfer Strand en el Báltico: 80 km (1h en coche)."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Hamburg",
+      "titleFr": "Vétérinaires d'urgence à Hambourg",
+      "titleEs": "Veterinarios de urgencias en Hamburgo",
+      "introEn": "Hamburg has two 24/7 emergency animal hospitals run by the Tierärztliche Klinik network plus the Tierärztlicher Notdienst Hamburg weekend rotation. The Tierklinik Lüneburger Heide and the Tierärztliches Zentrum Bahrenfeld are the two go-to private clinics for after-hours emergencies.",
+      "introFr": "Hambourg dispose de deux hôpitaux vétérinaires d'urgence 24h/24 gérés par le réseau Tierärztliche Klinik, plus la permanence Tierärztlicher Notdienst Hamburg du week-end. La Tierklinik Lüneburger Heide et le Tierärztliches Zentrum Bahrenfeld sont les deux cliniques privées de référence pour les urgences hors horaires.",
+      "introEs": "Hamburgo cuenta con dos hospitales veterinarios de urgencias 24/7 gestionados por la red Tierärztliche Klinik, más la guardia Tierärztlicher Notdienst Hamburg de fin de semana. La Tierklinik Lüneburger Heide y el Tierärztliches Zentrum Bahrenfeld son las dos clínicas privadas de referencia para urgencias fuera de horario.",
+      "places": [
+        {
+          "name": "Tierärztliches Zentrum Bahrenfeld",
+          "address": "Bahrenfelder Chaussee 43, 22761 Hamburg",
+          "neighborhood": "Bahrenfeld",
+          "phone": "+49 40 8907670",
+          "photo": "/images/city-places/hamburg-vets-tierarztliches-zentrum-bahrenfeld.jpg",
+          "website": "https://www.tierarzt-bahrenfeld.de/",
+          "description": "Large full-service clinic in western Hamburg with 24/7 emergency intake, surgery, imaging (CT, ultrasound, X-ray), oncology and intensive care. Well-known for English-speaking staff and a large overnight team.",
+          "descriptionFr": "Grande clinique polyvalente dans l'ouest de Hambourg avec urgences 24h/24, chirurgie, imagerie (scanner, échographie, radiographie), oncologie et soins intensifs. Réputée pour son personnel anglophone et son équipe de garde nocturne étoffée.",
+          "descriptionEs": "Gran clínica polivalente en el oeste de Hamburgo con urgencias 24/7, cirugía, imagen (TAC, ecografía, RX), oncología y cuidados intensivos. Reconocida por su personal anglófono y un amplio equipo de noche.",
+          "petPolicy": "24/7 emergency walk-ins accepted",
+          "petPolicyFr": "Urgences 24h/24 sans rendez-vous",
+          "petPolicyEs": "Urgencias 24/7 con visita sin cita",
+          "services": "Emergency, surgery, imaging, oncology, ICU",
+          "servicesFr": "Urgences, chirurgie, imagerie, oncologie, soins intensifs",
+          "servicesEs": "Urgencias, cirugía, imagen, oncología, UCI",
+          "openingHours": "24/7",
+          "tip": "Parking is generous — an important detail at 3 AM. Bring your dog's EU passport and vaccination record to speed up triage on the first visit.",
+          "tipFr": "Parking généreux — détail important à 3h du matin. Apportez le passeport européen et le carnet de vaccination pour accélérer le triage à la première visite.",
+          "tipEs": "Aparcamiento amplio — detalle importante a las 3 de la madrugada. Lleva el pasaporte europeo y la cartilla de vacunación para acelerar el triaje en la primera visita.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tieraerztliches+Zentrum+Bahrenfeld+Hamburg"
+        },
+        {
+          "name": "Tierärztliche Klinik Dr. Staudacher",
+          "address": "Sievekingsallee 22, 22111 Hamburg",
+          "neighborhood": "Hamm",
+          "phone": "+49 40 6514140",
+          "photo": "/images/city-places/hamburg-vets-tierarztliche-klinik-dr-staudacher.jpg",
+          "website": "https://www.tierklinik-staudacher.de/",
+          "description": "A second major 24/7 emergency clinic on the eastern side of Hamburg, serving Hamm, Wandsbek, and the Bergedorf area. Orthopaedic surgery, internal medicine, emergency imaging and intensive care. Preferred by vets in east Hamburg for complex cases.",
+          "descriptionFr": "Seconde grande clinique d'urgence 24h/24 à l'est de Hambourg, desservant Hamm, Wandsbek et la zone de Bergedorf. Chirurgie orthopédique, médecine interne, imagerie d'urgence et soins intensifs. Préférée des vétérinaires de l'est de Hambourg pour les cas complexes.",
+          "descriptionEs": "Segunda gran clínica de urgencias 24/7 al este de Hamburgo, que atiende Hamm, Wandsbek y la zona de Bergedorf. Cirugía ortopédica, medicina interna, imagen de urgencias y cuidados intensivos. Preferida por los veterinarios del este de Hamburgo para casos complejos.",
+          "petPolicy": "24/7 emergency walk-ins accepted",
+          "petPolicyFr": "Urgences 24h/24 sans rendez-vous",
+          "petPolicyEs": "Urgencias 24/7 con visita sin cita",
+          "services": "Emergency, orthopaedics, internal medicine, imaging, ICU",
+          "servicesFr": "Urgences, orthopédie, médecine interne, imagerie, soins intensifs",
+          "servicesEs": "Urgencias, ortopedia, medicina interna, imagen, UCI",
+          "openingHours": "24/7",
+          "tip": "Call ahead for serious cases — the triage nurse will tell you whether to come straight or route to Bahrenfeld (bigger ICU). Emergency parking in front of the main entrance.",
+          "tipFr": "Appelez avant pour les cas graves — l'infirmier d'accueil vous dira si venir directement ou orienter vers Bahrenfeld (plus gros service intensif). Parking d'urgence devant l'entrée principale.",
+          "tipEs": "Llama antes en casos graves — el enfermero de triaje te indicará si ir directamente o derivar a Bahrenfeld (UCI más grande). Aparcamiento de urgencias frente a la entrada principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Staudacher+Hamburg"
+        }
+      ],
+      "tipsEn": [
+        "Save Bahrenfeld (040 8907670) and Staudacher (040 6514140) in your phone before arrival — Germany has no national pet emergency hotline.",
+        "Animal poison control runs through the GIZ-Nord human poison centre (0551 19240), which also advises on pet cases 24/7.",
+        "Most Hamburg clinics accept European pet insurance (Agila, Petplan, AXA Pet) but payment is upfront; keep the receipt for reimbursement."
+      ],
+      "tipsFr": [
+        "Enregistrez Bahrenfeld (040 8907670) et Staudacher (040 6514140) dans votre téléphone avant d'arriver — l'Allemagne n'a pas de hotline nationale vétérinaire.",
+        "Le centre antipoison vétérinaire passe par le GIZ-Nord humain (0551 19240), qui conseille aussi sur les animaux 24h/24.",
+        "La plupart des cliniques de Hambourg acceptent les assurances européennes (Agila, Petplan, AXA Pet) mais le paiement se fait sur place ; conservez le reçu pour le remboursement."
+      ],
+      "tipsEs": [
+        "Guarda Bahrenfeld (040 8907670) y Staudacher (040 6514140) en tu móvil antes de llegar — Alemania no tiene una línea nacional de urgencias veterinarias.",
+        "El centro de toxicología veterinaria pasa por el GIZ-Nord humano (0551 19240), que asesora sobre mascotas las 24 horas.",
+        "La mayoría de las clínicas de Hamburgo aceptan seguros europeos (Agila, Petplan, AXA Pet) pero el pago es al momento; conserva el recibo para el reembolso."
+      ],
+      "faqsEn": [
+        {
+          "q": "Which vet clinic in Hamburg is open 24/7?",
+          "a": "Two clinics run full 24-hour emergency services inside the city: Tierärztliches Zentrum Bahrenfeld (Bahrenfelder Chaussee 43, 040 8907670) in the west and Tierärztliche Klinik Dr. Staudacher (Sievekingsallee 22, 040 6514140) in the east."
+        },
+        {
+          "q": "How much does an emergency vet visit cost in Hamburg?",
+          "a": "Baseline out-of-hours consultation is typically €80–140, plus diagnostics. The German GOT fee schedule applies; clinics must display it on request."
+        },
+        {
+          "q": "Will a Hamburg vet accept walk-ins?",
+          "a": "Yes — both 24/7 clinics accept walk-in emergencies. During office hours most regular practices require an appointment."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle clinique est ouverte 24h/24 à Hambourg ?",
+          "a": "Deux cliniques assurent un service d'urgence 24h/24 en ville : Tierärztliches Zentrum Bahrenfeld (Bahrenfelder Chaussee 43, 040 8907670) à l'ouest et Tierärztliche Klinik Dr. Staudacher (Sievekingsallee 22, 040 6514140) à l'est."
+        },
+        {
+          "q": "Combien coûte une urgence vétérinaire à Hambourg ?",
+          "a": "La consultation d'urgence de base est de 80 à 140 €, hors examens. Le barème GOT allemand s'applique ; les cliniques doivent l'afficher sur demande."
+        },
+        {
+          "q": "Un vétérinaire hambourgeois accepte-t-il les consultations sans rendez-vous ?",
+          "a": "Oui — les deux cliniques 24h/24 prennent les urgences sans rendez-vous. En journée la plupart des cabinets classiques exigent un rendez-vous."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué clínica abre 24/7 en Hamburgo?",
+          "a": "Dos clínicas prestan urgencias 24/7 en la ciudad: Tierärztliches Zentrum Bahrenfeld (Bahrenfelder Chaussee 43, 040 8907670) en el oeste y Tierärztliche Klinik Dr. Staudacher (Sievekingsallee 22, 040 6514140) en el este."
+        },
+        {
+          "q": "¿Cuánto cuesta una urgencia veterinaria en Hamburgo?",
+          "a": "La consulta de urgencias base es de 80 a 140 €, sin contar pruebas. Se aplica la tarifa GOT alemana; las clínicas deben mostrarla a petición."
+        },
+        {
+          "q": "¿Un veterinario de Hamburgo admite visitas sin cita?",
+          "a": "Sí — ambas clínicas 24/7 atienden urgencias sin cita. En horario de día la mayoría de las consultas habituales exigen cita previa."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Pet Travel Tips for Hamburg",
+      "titleFr": "Conseils essentiels pour voyager avec son animal à Hambourg",
+      "titleEs": "Consejos esenciales para viajar con mascotas a Hamburgo",
+      "introEn": "Hamburg is one of Germany's most dog-welcoming cities — but a few local rules trip up visitors: mandatory Hundesteuer tag on collars for residents, the Hamburg Hundegesetz leash law, and strict beach rules from May to September. These tips cover everything you need before and during your stay.",
+      "introFr": "Hambourg est l'une des villes d'Allemagne les plus accueillantes pour les chiens — mais quelques règles locales surprennent les visiteurs : médaille Hundesteuer sur le collier pour les résidents, Hamburg Hundegesetz (loi sur les chiens) et règles de plage strictes de mai à septembre. Ces conseils couvrent l'essentiel avant et pendant votre séjour.",
+      "introEs": "Hamburgo es una de las ciudades más acogedoras de Alemania con perros — pero algunas reglas locales sorprenden a los visitantes: chapa Hundesteuer en el collar para residentes, Hamburg Hundegesetz (ley canina) y normas estrictas de playa de mayo a septiembre. Estos consejos cubren lo esencial antes y durante tu estancia.",
+      "places": [],
+      "tipsEn": [
+        "Hamburg has a strict Leinenpflicht (leash law) outside designated Hundeauslaufzonen — fines from €150 for central districts.",
+        "Listenhunde (American Staffordshire, Bullterrier, Pit Bull, Rottweiler) face stricter rules in Hamburg including mandatory muzzling in all public spaces, not just transport.",
+        "Hamburg summers are mild (25 °C average in July/August) but can hit 32 °C during heatwaves — the Elbe waterfront is naturally cooler than inland districts.",
+        "Every pet-friendly hotel in Hamburg requires the EU pet passport and valid rabies vaccination at check-in — no exceptions.",
+        "Hamburg Airport (HAM) offers a pet relief area outside Terminal 1 and dog-friendly indoor transit; all major airlines accept pets in cabin on European routes."
+      ],
+      "tipsFr": [
+        "Hambourg applique une Leinenpflicht stricte hors des Hundeauslaufzonen désignées — amendes à partir de 150 € dans les quartiers centraux.",
+        "Les Listenhunde (Am. Staffordshire, Bullterrier, Pit Bull, Rottweiler) font face à des règles renforcées à Hambourg, notamment la muselière obligatoire dans tous les espaces publics, pas seulement les transports.",
+        "Les étés à Hambourg sont doux (25 °C en moyenne juillet-août) mais peuvent atteindre 32 °C en canicule — les rives de l'Elbe sont naturellement plus fraîches que les quartiers intérieurs.",
+        "Tout hôtel pet-friendly de Hambourg exige le passeport européen et la vaccination antirabique valide à l'enregistrement — sans exception.",
+        "L'aéroport de Hambourg (HAM) dispose d'une aire de détente animale à l'extérieur du Terminal 1 et d'un transit intérieur dog-friendly ; toutes les grandes compagnies acceptent les animaux en cabine sur les vols européens."
+      ],
+      "tipsEs": [
+        "Hamburgo aplica una Leinenpflicht estricta fuera de las Hundeauslaufzonen designadas — multas desde 150 € en los barrios centrales.",
+        "Los Listenhunde (Am. Staffordshire, Bullterrier, Pit Bull, Rottweiler) tienen normas más estrictas en Hamburgo, incluido el bozal obligatorio en todos los espacios públicos, no solo en transporte.",
+        "Los veranos de Hamburgo son suaves (25 °C de media en julio-agosto) pero pueden alcanzar 32 °C en olas de calor — las orillas del Elba son naturalmente más frescas que los barrios interiores.",
+        "Todo hotel pet-friendly de Hamburgo exige el pasaporte europeo y la vacunación antirrábica vigente en el check-in — sin excepción.",
+        "El aeropuerto de Hamburgo (HAM) dispone de área de esparcimiento animal fuera de la Terminal 1 y tránsito interior dog-friendly; todas las grandes aerolíneas admiten mascotas en cabina en vuelos europeos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Hamburg a good city to visit with a dog?",
+          "a": "Yes — it's one of the most dog-friendly large German cities, with 56 official off-leash zones, a dog-welcoming Alster promenade, three major urban beaches, and two 24/7 emergency vet clinics."
+        },
+        {
+          "q": "Do I need special paperwork to bring my dog to Hamburg?",
+          "a": "For EU residents: the EU pet passport with valid rabies vaccination. For non-EU: an EU animal health certificate issued within 10 days of entry plus rabies titer test for certain countries."
+        },
+        {
+          "q": "Are there breed restrictions in Hamburg?",
+          "a": "Yes. Hamburg classifies Pit Bull Terrier, American Staffordshire Terrier, Bullterrier and Rottweiler as Listenhunde — owners need a special permit, mandatory muzzle in public, and strict leash rules."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Hambourg est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui — c'est l'une des grandes villes allemandes les plus dog-friendly, avec 56 zones sans laisse officielles, une promenade accueillante autour de l'Alster, trois grandes plages urbaines et deux cliniques d'urgence 24h/24."
+        },
+        {
+          "q": "Des documents spécifiques sont-ils exigés pour emmener mon chien à Hambourg ?",
+          "a": "Résidents UE : passeport européen avec vaccination antirabique valide. Hors UE : certificat sanitaire UE émis dans les 10 jours précédant l'entrée, plus titrage antirabique pour certains pays."
+        },
+        {
+          "q": "Existe-t-il des restrictions de race à Hambourg ?",
+          "a": "Oui. Hambourg classe le Pit Bull, l'American Staffordshire, le Bullterrier et le Rottweiler comme Listenhunde — permis spécial requis, muselière obligatoire en public, et règles de laisse renforcées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Hamburgo una buena ciudad para visitar con perro?",
+          "a": "Sí — es una de las grandes ciudades alemanas más dog-friendly, con 56 zonas sin correa oficiales, un paseo acogedor alrededor del Alster, tres grandes playas urbanas y dos clínicas de urgencias 24/7."
+        },
+        {
+          "q": "¿Necesito papeles especiales para llevar mi perro a Hamburgo?",
+          "a": "Residentes UE: pasaporte europeo con vacunación antirrábica vigente. Fuera de la UE: certificado sanitario UE emitido en los 10 días anteriores más prueba de título antirrábico para ciertos países."
+        },
+        {
+          "q": "¿Hay restricciones de raza en Hamburgo?",
+          "a": "Sí. Hamburgo clasifica al Pit Bull, American Staffordshire, Bullterrier y Rottweiler como Listenhunde — permiso especial requerido, bozal obligatorio en público y normas de correa reforzadas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Hamburg",
+      "titleFr": "Attractions acceptant les chiens à Hambourg",
+      "titleEs": "Atracciones dog-friendly en Hamburgo",
+      "introEn": "Hamburg's signature attractions — the HafenCity waterfront, the Elbphilharmonie's outdoor plaza, the Speicherstadt warehouse district and the Landungsbrücken port promenade — are all fully walkable with a leashed dog. Most indoor museums prohibit pets, but outdoor guided port tours and ferry cruises offer rich sightseeing without leaving your dog behind.",
+      "introFr": "Les attractions emblématiques de Hambourg — HafenCity, la Plaza extérieure de l'Elbphilharmonie, le quartier des entrepôts Speicherstadt et la promenade des Landungsbrücken — sont toutes entièrement accessibles avec un chien en laisse. La plupart des musées intérieurs interdisent les animaux, mais les visites guidées du port et les croisières offrent un riche tour touristique sans laisser votre chien.",
+      "introEs": "Las atracciones emblemáticas de Hamburgo — HafenCity, la Plaza exterior de la Elbphilharmonie, el barrio de almacenes Speicherstadt y el paseo de Landungsbrücken — son totalmente accesibles con perro con correa. La mayoría de museos cubiertos prohíben animales, pero las visitas guiadas al puerto y los cruceros ofrecen un rico recorrido turístico sin dejar al perro en casa.",
+      "places": [
+        {
+          "name": "Speicherstadt and HafenCity",
+          "address": "Speicherstadt, 20457 Hamburg",
+          "neighborhood": "HafenCity",
+          "photo": "/images/city-places/hamburg-attractions-speicherstadt-and-hafencity.jpg",
+          "website": "https://www.hafencity.com/",
+          "description": "The UNESCO-listed Speicherstadt is the world's largest contiguous warehouse district, built on oak pilings in the Elbe. Leashed dogs are welcome throughout the canals, the Brooksfleet bridges and the adjoining HafenCity modern development — one of Europe's finest riverside urban walks.",
+          "descriptionFr": "Le Speicherstadt classé UNESCO est le plus grand quartier d'entrepôts contigu au monde, bâti sur pilotis de chêne dans l'Elbe. Les chiens en laisse sont bienvenus dans les canaux, sur les ponts du Brooksfleet et dans le HafenCity moderne voisin — l'une des plus belles balades urbaines au bord de l'eau d'Europe.",
+          "descriptionEs": "El Speicherstadt, catalogado por la UNESCO, es el mayor barrio de almacenes continuo del mundo, construido sobre pilotes de roble en el Elba. Los perros con correa son bienvenidos por todos los canales, los puentes del Brooksfleet y el adyacente HafenCity moderno — uno de los mejores paseos urbanos a orillas del agua de Europa.",
+          "petPolicy": "Leashed dogs welcome outdoors; no indoor museums",
+          "petPolicyFr": "Chiens en laisse bienvenus en extérieur ; musées intérieurs interdits",
+          "petPolicyEs": "Perros con correa bienvenidos al aire libre; sin museos cubiertos",
+          "openingHours": "24/7",
+          "tip": "Start at the Elbphilharmonie plaza (free access with dog, panoramic view) and walk east through the Speicherstadt toward the Deichtorhallen — 2 km of constant photo opportunities.",
+          "tipFr": "Commencez par la Plaza de l'Elbphilharmonie (accès gratuit avec chien, vue panoramique) et marchez vers l'est à travers le Speicherstadt jusqu'aux Deichtorhallen — 2 km de spots photo ininterrompus.",
+          "tipEs": "Empieza en la Plaza de la Elbphilharmonie (acceso gratuito con perro, vista panorámica) y camina hacia el este por el Speicherstadt hasta los Deichtorhallen — 2 km de oportunidades fotográficas constantes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Speicherstadt+Hamburg"
+        },
+        {
+          "name": "Landungsbrücken",
+          "address": "St. Pauli Landungsbrücken, 20359 Hamburg",
+          "neighborhood": "St. Pauli",
+          "photo": "/images/city-places/hamburg-attractions-landungsbrucken.jpg",
+          "website": "https://www.hamburg.de/landungsbruecken/",
+          "description": "The iconic 688-metre floating pier at the heart of the Hamburg port, with views of the container terminals, the Elbe tunnel entrance, and harbour cruise boats. Leashed dogs are welcome on the pier and on most Hamburg-harbour cruise lines (Rainer Abicht, Barkassen-Centrale).",
+          "descriptionFr": "L'emblématique embarcadère flottant de 688 m au cœur du port de Hambourg, avec vues sur les terminaux de conteneurs, l'entrée du tunnel sous l'Elbe et les bateaux de croisière portuaire. Les chiens en laisse sont bienvenus sur le ponton et sur la plupart des croisières portuaires (Rainer Abicht, Barkassen-Centrale).",
+          "descriptionEs": "El emblemático muelle flotante de 688 m en el corazón del puerto de Hamburgo, con vistas a las terminales de contenedores, la entrada del túnel del Elba y los barcos de crucero portuario. Los perros con correa son bienvenidos en el muelle y en la mayoría de las navieras de crucero portuario (Rainer Abicht, Barkassen-Centrale).",
+          "petPolicy": "Leashed dogs welcome on pier and most harbour cruises",
+          "petPolicyFr": "Chiens en laisse bienvenus sur le ponton et la plupart des croisières",
+          "petPolicyEs": "Perros con correa bienvenidos en muelle y mayoría de cruceros",
+          "openingHours": "24/7",
+          "tip": "Take HVV ferry 62 from here to Finkenwerder — dogs travel on your HVV ticket, and the 25-minute ride is the cheapest harbour tour in the city.",
+          "tipFr": "Prenez le ferry HVV 62 jusqu'à Finkenwerder — les chiens voyagent avec votre ticket HVV et la traversée de 25 min est la visite portuaire la moins chère de la ville.",
+          "tipEs": "Coge el ferri HVV 62 desde aquí hasta Finkenwerder — los perros viajan con tu billete HVV y el trayecto de 25 min es el tour portuario más barato de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Landungsbruecken+Hamburg"
+        },
+        {
+          "name": "Planten un Blomen",
+          "address": "Stephansplatz, 20354 Hamburg",
+          "neighborhood": "Neustadt",
+          "photo": "/images/city-places/hamburg-attractions-planten-un-blomen.jpg",
+          "website": "https://www.plantenunblomen.hamburg.de/",
+          "description": "Hamburg's central city park (47 hectares) with botanical gardens, water-light concerts in summer, playgrounds and tropical greenhouses. Leashed dogs are welcome in the main park areas but NOT in the Japanese Garden, the Tropenhäuser or the playgrounds.",
+          "descriptionFr": "Parc central de Hambourg (47 hectares) avec jardins botaniques, concerts aquatiques et lumineux en été, aires de jeux et serres tropicales. Les chiens en laisse sont bienvenus dans les zones principales mais INTERDITS au Jardin japonais, aux Tropenhäuser et aires de jeux.",
+          "descriptionEs": "Parque central de Hamburgo (47 hectáreas) con jardines botánicos, conciertos acuáticos y luminosos en verano, zonas de juegos e invernaderos tropicales. Los perros con correa son bienvenidos en las zonas principales pero NO en el Jardín Japonés, los Tropenhäuser ni las zonas de juegos.",
+          "petPolicy": "Leashed; NOT in Japanese Garden, greenhouses, playgrounds",
+          "petPolicyFr": "En laisse ; INTERDITS au Jardin japonais, serres, aires de jeux",
+          "petPolicyEs": "Con correa; NO en Jardín Japonés, invernaderos, zonas de juego",
+          "openingHours": "07:00–22:00 (summer), 07:00–20:00 (winter)",
+          "tip": "The Wasserlichtkonzert (water-light concert) at 22:00 on summer evenings is loud and crowded — avoid with anxious dogs; come at 19:00 for the quieter sunset instead.",
+          "tipFr": "Le Wasserlichtkonzert (concert eau-lumière) à 22h les soirs d'été est bruyant et bondé — évitez avec des chiens anxieux ; venez à 19h pour le coucher de soleil plus calme.",
+          "tipEs": "El Wasserlichtkonzert (concierto de agua y luz) a las 22:00 las noches de verano es ruidoso y concurrido — evítalo con perros ansiosos; ve a las 19:00 para el atardecer más tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Planten+un+Blomen+Hamburg"
+        }
+      ],
+      "tipsEn": [
+        "The Elbphilharmonie interior and the indoor museums (Kunsthalle, MKG, Maritimes Museum) all prohibit dogs — the Plaza terrace is free and fully dog-accessible.",
+        "Hamburg harbour cruises with Rainer Abicht, Barkassen-Centrale and HADAG accept leashed dogs on open decks — the classic one-hour Grosse Hafenrundfahrt is a local must.",
+        "Miniatur Wunderland, Hamburg's top paid attraction, does NOT admit dogs — leave yours with a local Pawshake sitter or in a pet-friendly hotel crate for that visit."
+      ],
+      "tipsFr": [
+        "L'intérieur de l'Elbphilharmonie et les musées (Kunsthalle, MKG, Maritimes Museum) interdisent tous les chiens — la terrasse Plaza est gratuite et totalement accessible.",
+        "Les croisières portuaires Rainer Abicht, Barkassen-Centrale et HADAG acceptent les chiens en laisse sur les ponts ouverts — la Grosse Hafenrundfahrt d'1h est un incontournable local.",
+        "Miniatur Wunderland, attraction payante n°1 de Hambourg, N'ADMET PAS les chiens — laissez votre animal chez un sitter Pawshake local ou en cage dans votre hôtel pet-friendly pour cette visite."
+      ],
+      "tipsEs": [
+        "El interior de la Elbphilharmonie y los museos (Kunsthalle, MKG, Maritimes Museum) prohíben los perros — la terraza Plaza es gratuita y totalmente accesible.",
+        "Los cruceros portuarios Rainer Abicht, Barkassen-Centrale y HADAG admiten perros con correa en cubiertas abiertas — la Grosse Hafenrundfahrt de 1 h es un clásico local.",
+        "Miniatur Wunderland, atracción de pago nº1 de Hamburgo, NO admite perros — deja a tu mascota con un cuidador Pawshake local o en transportín en tu hotel pet-friendly para esa visita."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on a Hamburg harbour cruise?",
+          "a": "Yes — the big operators (Rainer Abicht, Barkassen-Centrale, HADAG) accept leashed dogs on outer decks. The HVV ferry 62 to Finkenwerder is the budget alternative."
+        },
+        {
+          "q": "Are dogs allowed at the Elbphilharmonie?",
+          "a": "The concert halls and interior levels are off-limits, but the outdoor Plaza (37 m above water) is free to visit and fully dog-accessible."
+        },
+        {
+          "q": "Can I bring my dog to Miniatur Wunderland or the Maritimes Museum?",
+          "a": "No — both prohibit pets entirely. Hamburg's dog-free indoor attractions are generally covered by a local pet sitter; book 24h in advance via Pawshake."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur une croisière portuaire à Hambourg ?",
+          "a": "Oui — les grands opérateurs (Rainer Abicht, Barkassen-Centrale, HADAG) acceptent les chiens en laisse sur les ponts extérieurs. Le ferry HVV 62 jusqu'à Finkenwerder est l'alternative économique."
+        },
+        {
+          "q": "Les chiens sont-ils admis à l'Elbphilharmonie ?",
+          "a": "Les salles de concert et les niveaux intérieurs sont interdits, mais la Plaza extérieure (37 m au-dessus de l'eau) est gratuite et totalement accessible."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Miniatur Wunderland ou au Maritimes Museum ?",
+          "a": "Non — les deux interdisent totalement les animaux. Les attractions sans chien de Hambourg sont généralement couvertes par un sitter local ; réservez 24h avant sur Pawshake."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro en un crucero portuario de Hamburgo?",
+          "a": "Sí — los grandes operadores (Rainer Abicht, Barkassen-Centrale, HADAG) admiten perros con correa en cubiertas exteriores. El ferri HVV 62 hasta Finkenwerder es la alternativa económica."
+        },
+        {
+          "q": "¿Se admiten perros en la Elbphilharmonie?",
+          "a": "Las salas de concierto y los niveles interiores están vetados, pero la Plaza exterior (37 m sobre el agua) es gratuita y totalmente accesible."
+        },
+        {
+          "q": "¿Puedo llevar mi perro a Miniatur Wunderland o al Maritimes Museum?",
+          "a": "No — ambos prohíben animales por completo. Las atracciones sin perro de Hamburgo se cubren habitualmente con un cuidador local; reserva con 24 h de antelación en Pawshake."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Hamburg",
+      "titleFr": "Pet sitting et promenade de chiens à Hambourg",
+      "titleEs": "Cuidadores y paseadores de perros en Hamburgo",
+      "introEn": "Hamburg has a deep professional pet-care market, anchored by Pawshake, Rover and Holidog plus a solid network of Hundetagesstätten (day-cares) in Eimsbüttel, Altona and Winterhude. Rates run slightly below Munich but in line with Berlin. Book early during cruise-ship arrivals and Hafengeburtstag (harbour birthday, early May) when the city saturates with visitors.",
+      "introFr": "Hambourg dispose d'un solide marché professionnel de garde d'animaux, dominé par Pawshake, Rover et Holidog, plus un bon réseau de Hundetagesstätten (crèches) à Eimsbüttel, Altona et Winterhude. Tarifs légèrement inférieurs à Munich mais alignés sur Berlin. Réservez tôt lors des escales de croisières et du Hafengeburtstag (anniversaire du port, début mai) quand la ville est saturée.",
+      "introEs": "Hamburgo cuenta con un sólido mercado profesional de cuidado de animales, dominado por Pawshake, Rover y Holidog, más una buena red de Hundetagesstätten (guarderías) en Eimsbüttel, Altona y Winterhude. Tarifas ligeramente inferiores a Múnich pero similares a Berlín. Reserva pronto durante las escalas de cruceros y el Hafengeburtstag (aniversario del puerto, principios de mayo) cuando la ciudad se satura.",
+      "places": [
+        {
+          "name": "Pawshake Hamburg",
+          "address": "Citywide — online booking",
+          "neighborhood": "Entire city",
+          "website": "https://www.pawshake.de/dogsitter/hamburg",
+          "description": "European pet-sitting marketplace with verified Hamburg sitters for dog walks, day care and home boarding. All bookings are insured and include daily photo updates. Typical rates: €22–35/day home boarding and €12–18 for a one-hour walk.",
+          "descriptionFr": "Plateforme européenne de pet sitting avec sitters vérifiés à Hambourg pour promenades, garderie et pension à domicile. Toutes les réservations sont assurées et incluent des photos quotidiennes. Tarifs typiques : 22–35 €/jour en pension, 12–18 € la promenade d'une heure.",
+          "descriptionEs": "Plataforma europea de pet sitting con cuidadores verificados en Hamburgo para paseo, guardería y alojamiento a domicilio. Todas las reservas incluyen seguro y fotos diarias. Tarifas típicas: 22–35 €/día en alojamiento, 12–18 € por paseo de una hora.",
+          "petPolicy": "Verified sitters, insurance included",
+          "petPolicyFr": "Sitters vérifiés, assurance incluse",
+          "petPolicyEs": "Cuidadores verificados, seguro incluido",
+          "services": "Dog walking, day care, home boarding",
+          "servicesFr": "Promenade, garderie, pension",
+          "servicesEs": "Paseo, guardería, alojamiento",
+          "openingHours": "Online 24/7",
+          "tip": "Filter Hamburg sitters by experience with Listenhunde breeds if you're travelling with a Staffordshire, Bullterrier or Rottweiler — the city has strict rules and experienced sitters are worth the premium.",
+          "tipFr": "Filtrez les sitters de Hambourg par expérience avec les races Listenhunde si vous voyagez avec un Staffordshire, un Bullterrier ou un Rottweiler — la ville applique des règles strictes et les sitters expérimentés valent leur premium.",
+          "tipEs": "Filtra por experiencia con razas Listenhunde si viajas con un Staffordshire, Bullterrier o Rottweiler — la ciudad aplica normas estrictas y los cuidadores con experiencia merecen la prima."
+        }
+      ],
+      "tipsEn": [
+        "Book Hamburg sitters at least 1 week ahead during summer and Hafengeburtstag (early May) — the city's tourist peaks genuinely saturate availability.",
+        "Holidog.com operates a Hamburg network of verified sitters with 24h cancellation — a reliable backup if your primary sitter falls through.",
+        "Hundetagesstätten typically require a trial day plus proof of current vaccination — allow 48h lead time for the first booking."
+      ],
+      "tipsFr": [
+        "Réservez les sitters de Hambourg au moins une semaine à l'avance en été et pour le Hafengeburtstag (début mai) — les pics touristiques saturent réellement la disponibilité.",
+        "Holidog.com dispose d'un réseau hambourgeois de sitters vérifiés avec annulation 24h — solution de secours fiable si votre sitter principal tombe à l'eau.",
+        "Les Hundetagesstätten exigent généralement un jour d'essai et la preuve d'une vaccination à jour — comptez 48h pour la première inscription."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores en Hamburgo con al menos una semana de antelación en verano y durante el Hafengeburtstag (principios de mayo) — los picos turísticos saturan realmente la disponibilidad.",
+        "Holidog.com opera una red hamburguesa de cuidadores verificados con cancelación 24h — un buen plan B si falla tu cuidador principal.",
+        "Las Hundetagesstätten suelen exigir un día de prueba más prueba de vacunación vigente — prevé 48 h para la primera inscripción."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does pet sitting cost in Hamburg?",
+          "a": "Typical Pawshake/Holidog rates: €22–35/night home boarding, €25–45/day day care, €12–18 for a one-hour walk. Slightly higher during summer cruise peaks."
+        },
+        {
+          "q": "Are Hamburg pet sitters insured?",
+          "a": "Pawshake and Holidog include third-party liability and veterinary emergency coverage in every booking. Always confirm with independent sitters before booking directly."
+        },
+        {
+          "q": "Is it safe to leave a dog in a Hamburg hotel room?",
+          "a": "Many Hamburg hotels accept dogs but few allow them to be left unattended unless crated. For museum days, use a local Pawshake sitter for day visits."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte le pet sitting à Hambourg ?",
+          "a": "Tarifs Pawshake/Holidog habituels : 22 à 35 €/nuit en pension, 25 à 45 €/jour en garderie, 12 à 18 € la promenade d'une heure. Légèrement plus élevés pendant les pics de croisières estivales."
+        },
+        {
+          "q": "Les pet sitters de Hambourg sont-ils assurés ?",
+          "a": "Pawshake et Holidog incluent responsabilité civile et couverture vétérinaire d'urgence dans chaque réservation. Vérifiez toujours avec un sitter indépendant avant de réserver directement."
+        },
+        {
+          "q": "Est-il prudent de laisser un chien dans une chambre d'hôtel à Hambourg ?",
+          "a": "De nombreux hôtels hambourgeois acceptent les chiens mais peu autorisent à les laisser seuls sauf en cage. Pour les journées musées, faites appel à un sitter Pawshake local."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta el pet sitting en Hamburgo?",
+          "a": "Tarifas habituales Pawshake/Holidog: 22 a 35 €/noche en alojamiento, 25 a 45 €/día en guardería, 12 a 18 € por paseo de una hora. Ligeramente más altas en los picos estivales de cruceros."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores de Hamburgo?",
+          "a": "Pawshake y Holidog incluyen responsabilidad civil y cobertura veterinaria de urgencias en cada reserva. Verifica siempre con un cuidador independiente antes de reservar directamente."
+        },
+        {
+          "q": "¿Es seguro dejar al perro en una habitación de hotel en Hamburgo?",
+          "a": "Muchos hoteles hamburgueses admiten perros pero pocos permiten dejarlos sin vigilancia salvo en transportín. Para jornadas de museos, recurre a un cuidador Pawshake local."
+        }
+      ]
+    }
+  }
+}

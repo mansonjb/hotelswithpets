@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
       area: 'the Albaicín, the Realejo, and the historic centre around Plaza Nueva',
     },
+    hamburg: {
+      personality: 'Germany\'s greenest major city with 56 fenced Hundeauslaufzonen, a 7 km Alster lake walking loop, the famous Elbstrand urban beaches, and a harbour culture where dogs ride ferries and nap on café terraces',
+      highlight: 'the Außenalster 7 km loop, the Elbstrand at Övelgönne, and the 205-hectare Altonaer Volkspark',
+      area: 'the Alster lake shores, the Schanzenviertel, and the Elbe waterfront in Övelgönne',
+    },
     helsinki: {
       personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
@@ -419,6 +424,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
       area: 'l\'Albaicín, le Realejo et le centre historique autour de la Plaza Nueva',
     },
+    hamburg: {
+      personality: 'la grande ville la plus verte d\'Allemagne avec 56 Hundeauslaufzonen clôturées, une boucle de 7 km autour du lac Alster, les célèbres plages urbaines de l\'Elbstrand, et une culture portuaire où les chiens prennent les ferries et dorment sur les terrasses des cafés',
+      highlight: 'la boucle de 7 km autour de l\'Außenalster, l\'Elbstrand à Övelgönne et l\'Altonaer Volkspark de 205 hectares',
+      area: 'les rives de l\'Alster, le Schanzenviertel et le front de mer de l\'Elbe à Övelgönne',
+    },
     helsinki: {
       personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
@@ -710,6 +720,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad árabe más atmosférica de Europa — donde la Alhambra vigila las callejuelas empedradas del Albaicín, la cultura de la terraza andaluza hace que los perros sean genuinamente bienvenidos y Sierra Nevada está a una hora',
       highlight: 'el Paseo de los Tristes al pie de las murallas de la Alhambra, el barrio UNESCO del Albaicín y los parques dog-friendly del barrio de Arabial',
       area: 'el Albaicín, el Realejo y el centro histórico en torno a la Plaza Nueva',
+    },
+    hamburg: {
+      personality: 'la gran ciudad más verde de Alemania con 56 Hundeauslaufzonen valladas, un circuito de 7 km alrededor del lago Alster, las famosas playas urbanas del Elbstrand, y una cultura portuaria donde los perros cogen ferris y duermen en las terrazas de los cafés',
+      highlight: 'el circuito de 7 km alrededor del Außenalster, el Elbstrand en Övelgönne y el Altonaer Volkspark de 205 hectáreas',
+      area: 'las orillas del Alster, el Schanzenviertel y el paseo marítimo del Elba en Övelgönne',
     },
     helsinki: {
       personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',

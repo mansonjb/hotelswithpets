@@ -2333,6 +2333,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  hamburg: {
+    history: {
+      fr: `Hambourg, fondée en 808 par Charlemagne comme poste avancé face aux Slaves de l'Est, est depuis mille ans une ville libre et hanséatique — son port, le deuxième d'Europe après Rotterdam, demeure le cœur d'une métropole de 1,9 million d'habitants. Ville-état à part entière au sein de l'Allemagne fédérale, Hambourg combine un centre d'affaires prospère avec un attachement viscéral à l'eau : plus de 2 500 ponts (davantage que Venise, Amsterdam et Londres réunies), le lac Alster en plein cœur urbain et 7 km de rives élégantes. Pour les propriétaires de chiens, Hambourg est une bénédiction : 14% de la surface en parcs et jardins, 56 Hundeauslaufzonen officielles réparties sur 104 quartiers, des plages de sable urbaines le long de l'Elbe, et une culture portuaire décontractée où chien et café font bon ménage. La Hamburg Hundegesetz impose la laisse en public hors zones désignées, mais les Hambourgeois l'appliquent avec le pragmatisme qui a forgé leur réputation hanséatique.`,
+      en: `Hamburg, founded by Charlemagne in 808 as an outpost against the eastern Slavs, has been a free Hanseatic city for a thousand years — its port, second only to Rotterdam in Europe, remains the heart of a 1.9 million-strong metropolis. A city-state in its own right within federal Germany, Hamburg combines a thriving business centre with a visceral attachment to water: over 2,500 bridges (more than Venice, Amsterdam and London combined), the Alster lake in the very heart of the city, and 7 km of elegant shoreline. For dog owners, Hamburg is a blessing: 14% of its surface is parks and gardens, 56 official Hundeauslaufzonen spread across 104 districts, urban sandy beaches along the Elbe, and a relaxed port culture where dog and coffee go hand in hand. The Hamburg Hundegesetz requires leashes in public outside designated zones, but Hamburgers enforce it with the pragmatism that forged their Hanseatic reputation.`,
+      es: `Hamburgo, fundada por Carlomagno en el 808 como avanzada frente a los eslavos orientales, ha sido durante mil años una ciudad libre hanseática — su puerto, segundo de Europa tras Róterdam, sigue siendo el corazón de una metrópoli de 1,9 millones de habitantes. Ciudad-estado independiente dentro de la Alemania federal, Hamburgo combina un próspero centro de negocios con un apego visceral al agua: más de 2.500 puentes (más que Venecia, Ámsterdam y Londres juntas), el lago Alster en pleno corazón urbano y 7 km de elegantes orillas. Para los dueños de perros, Hamburgo es una bendición: el 14% de su superficie son parques y jardines, 56 Hundeauslaufzonen oficiales repartidas por 104 barrios, playas de arena urbanas a lo largo del Elba y una cultura portuaria relajada donde perro y café conviven con naturalidad. La Hamburg Hundegesetz exige correa en público fuera de las zonas designadas, pero los hamburgueses la aplican con el pragmatismo que forjó su reputación hanseática.`,
+    },
+    sights: [
+      {
+        name: 'Außenalster',
+        emoji: '🦢',
+        petFriendly: true,
+        desc: {
+          fr: `Lac intra-urbain de 164 hectares entouré d'un sentier en laisse de 7 km, promenade incontestée du week-end. Pelouses Hund-erlaubt désignées et une Hundeauslaufzone au nord-est.`,
+          en: `A 164-hectare inner-city lake surrounded by a 7 km leashed walking path, the city's undisputed weekend promenade. Designated Hund-erlaubt lawns and a Hundeauslaufzone on the north-eastern shore.`,
+          es: `Lago intraurbano de 164 hectáreas rodeado por un sendero de 7 km con correa, el paseo indiscutible del fin de semana. Céspedes Hund-erlaubt designados y una Hundeauslaufzone al noreste.`,
+        },
+      },
+      {
+        name: 'Elbstrand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage urbaine de sable de 3 km le long de l'Elbe, face au port de conteneurs. Chiens sans laisse côté ouest du 1er octobre au 30 avril, en laisse toute l'année.`,
+          en: `A 3 km urban sandy beach along the Elbe facing the container port. Off-leash on the western section 1 Oct–30 Apr, on-leash year-round.`,
+          es: `Playa urbana de arena de 3 km a lo largo del Elba, frente al puerto de contenedores. Sin correa en el tramo oeste del 1 oct al 30 abr, con correa todo el año.`,
+        },
+      },
+      {
+        name: 'Speicherstadt',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier d'entrepôts classé UNESCO, bâti sur pilotis dans l'Elbe. Canaux, ponts et allées accessibles en laisse — l'une des plus belles balades urbaines d'Europe.`,
+          en: `UNESCO-listed warehouse district built on oak pilings in the Elbe. Canals, bridges and walkways are leash-accessible — one of Europe's finest urban walks.`,
+          es: `Barrio de almacenes catalogado por la UNESCO, construido sobre pilotes de roble en el Elba. Canales, puentes y senderos accesibles con correa — uno de los mejores paseos urbanos de Europa.`,
+        },
+      },
+      {
+        name: 'Altonaer Volkspark',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand parc public de Hambourg (205 hectares). Trois grandes Hundeauslaufzonen clôturées, roseraie, forêts et prairies — destination n°1 pour les chiens sans laisse.`,
+          en: `Hamburg's largest public park (205 ha). Three large fenced Hundeauslaufzonen, a rose garden, woodland and meadows — the top off-leash destination in town.`,
+          es: `Mayor parque público de Hamburgo (205 ha). Tres grandes Hundeauslaufzonen valladas, rosaleda, bosque y praderas — el destino nº1 para perros sin correa.`,
+        },
+      },
+      {
+        name: 'Landungsbrücken',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Embarcadère flottant de 688 m au cœur du port. Chiens en laisse bienvenus sur le ponton et sur la plupart des croisières (Rainer Abicht, Barkassen-Centrale).`,
+          en: `A 688-metre floating pier at the heart of the port. Leashed dogs welcome on the pier and on most harbour cruises (Rainer Abicht, Barkassen-Centrale).`,
+          es: `Muelle flotante de 688 m en el corazón del puerto. Perros con correa bienvenidos en el muelle y en la mayoría de cruceros (Rainer Abicht, Barkassen-Centrale).`,
+        },
+      },
+      {
+        name: 'Planten un Blomen',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Parc central de 47 hectares avec jardins botaniques. Chiens en laisse dans les zones principales, mais interdits au Jardin japonais, aux serres tropicales et aires de jeux.`,
+          en: `A 47-hectare central park with botanical gardens. Leashed dogs in the main areas, but banned from the Japanese Garden, tropical greenhouses and playgrounds.`,
+          es: `Parque central de 47 hectáreas con jardines botánicos. Perros con correa en las zonas principales, pero prohibidos en el Jardín Japonés, invernaderos tropicales y zonas de juegos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le réseau HVV (S-Bahn, U-Bahn, bus, ferries) accepte les petits chiens en cage gratuitement ; les grands chiens avec un Kinderkarte (billet enfant).',
+        'Laisse obligatoire hors des 56 Hundeauslaufzonen officielles — amendes à partir de 150 € dans les quartiers centraux.',
+        'Les plages de l\'Elbe (Elbstrand, Falkensteiner Ufer) imposent la laisse du 1er mai au 30 septembre ; sans laisse en zone désignée le reste de l\'année.',
+        'Cliniques d\'urgence 24h/24 : Tierärztliches Zentrum Bahrenfeld (040 8907670) et Tierärztliche Klinik Dr. Staudacher (040 6514140).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler) : permis spécial, muselière dans tous les espaces publics, règles renforcées à Hambourg.',
+      ],
+      en: [
+        'The HVV network (S-Bahn, U-Bahn, bus, ferries) accepts small dogs in carriers for free; larger dogs need a Kinderkarte (child-rate ticket).',
+        'Leash mandatory outside the 56 official Hundeauslaufzonen — fines from €150 in central districts.',
+        'Elbe beaches (Elbstrand, Falkensteiner Ufer) enforce leash from 1 May to 30 September; off-leash in the designated zone the rest of the year.',
+        '24/7 emergency clinics: Tierärztliches Zentrum Bahrenfeld (040 8907670) and Tierärztliche Klinik Dr. Staudacher (040 6514140).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): special permit required, muzzle in all public spaces, stricter rules in Hamburg than elsewhere.',
+      ],
+      es: [
+        'La red HVV (S-Bahn, U-Bahn, bus, ferris) admite perros pequeños en transportín gratis; los más grandes necesitan una Kinderkarte (billete infantil).',
+        'Correa obligatoria fuera de las 56 Hundeauslaufzonen oficiales — multas desde 150 € en los barrios centrales.',
+        'Las playas del Elba (Elbstrand, Falkensteiner Ufer) imponen correa del 1 mayo al 30 septiembre; sin correa en la zona designada el resto del año.',
+        'Clínicas de urgencias 24/7: Tierärztliches Zentrum Bahrenfeld (040 8907670) y Tierärztliche Klinik Dr. Staudacher (040 6514140).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): permiso especial, bozal en todos los espacios públicos, normas más estrictas en Hamburgo.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés par tout hôtel pet-friendly à l\'enregistrement.',
+        'Ramassage des déjections obligatoire — amendes jusqu\'à 100 €, contrôles actifs le long de l\'Alster et dans Planten un Blomen.',
+        'Miniatur Wunderland et la plupart des musées (Kunsthalle, MKG, Maritimes Museum) interdisent les chiens — prévoyez un sitter Pawshake local.',
+        'Les ferries HVV sur l\'Alster et l\'Elbe acceptent les chiens sur les ponts extérieurs — une belle alternative estivale à la marche.',
+        'Aéroport HAM : aire de détente animale devant le Terminal 1 ; toutes les grandes compagnies acceptent les chiens en cabine sur les vols européens.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required by every pet-friendly hotel at check-in.',
+        'Picking up dog waste is mandatory — fines up to €100, actively enforced along the Alster and in Planten un Blomen.',
+        'Miniatur Wunderland and most museums (Kunsthalle, MKG, Maritimes Museum) prohibit dogs — book a local Pawshake sitter.',
+        'HVV ferries on the Alster and Elbe accept dogs on outer decks — a lovely summer alternative to walking.',
+        'HAM airport: pet relief area outside Terminal 1; all major airlines accept pets in cabin on European routes.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly en el check-in.',
+        'Recoger las deposiciones es obligatorio — multas hasta 100 €, controladas activamente junto al Alster y en Planten un Blomen.',
+        'Miniatur Wunderland y la mayoría de museos (Kunsthalle, MKG, Maritimes Museum) prohíben perros — reserva un cuidador Pawshake local.',
+        'Los ferris HVV en el Alster y el Elba admiten perros en cubiertas exteriores — una bonita alternativa estival al paseo.',
+        'Aeropuerto HAM: área de esparcimiento animal fuera de la Terminal 1; todas las grandes aerolíneas admiten mascotas en cabina en vuelos europeos.',
+      ],
+    },
+  },
+
   helsinki: {
     history: {
       fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,

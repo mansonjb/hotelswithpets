@@ -3877,6 +3877,80 @@
     }
   },
   {
+    "slug": "turin",
+    "name": "Turin",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/turin.jpg",
+    "intro": "Italy's northern baroque capital — 18 km of covered porticoes, 35+ fenced dog areas, a 10 km Po riverside walk and the Alps an hour away. One of Italy's most weather-sheltered dog-friendly cities.",
+    "lat": 45.0703,
+    "lng": 7.6869,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, crisp",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild, bright",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Spring blooms",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, thunderstorms",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, 32°C+ possible",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot, humid",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool, foggy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, Alpine",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "valencia",
     "name": "Valencia",
     "country": "Spain",

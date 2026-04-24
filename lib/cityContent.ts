@@ -5951,6 +5951,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  turin: {
+    history: {
+      fr: `Turin, fondée par les Romains au Ier siècle avant notre ère sous le nom de Iulia Augusta Taurinorum, fut capitale du duché de Savoie dès 1563 puis première capitale de l'Italie unifiée de 1861 à 1865. L'héritage de la dynastie savoyarde marque la ville : 18 km d'arcades baroques (les plus longues d'Europe), des places monumentales et des palais royaux reliés par des promenades piétonnes. Aujourd'hui quatrième ville d'Italie avec 850 000 habitants, Turin combine cette élégance historique avec un esprit industriel — Fiat, le cinéma, la technologie — et un attachement particulier au Pô, qui traverse la ville sur 10 km. Pour les propriétaires de chiens, Turin est l'une des villes italiennes les plus praticables : ses arcades protègent de la pluie et du soleil estival, ses 35+ Aree Cani clôturées sont réparties dans tous les quartiers, et les Alpes à une heure offrent des escapades dog-friendly toute l'année.`,
+      en: `Turin, founded by the Romans in the 1st century BCE as Iulia Augusta Taurinorum, became the capital of the Duchy of Savoy in 1563 and then Italy's first capital after unification (1861–1865). The Savoy dynasty's legacy shapes the city: 18 km of baroque porticoes (the longest continuous arcade system in Europe), monumental squares and royal palaces connected by pedestrian promenades. Italy's fourth-largest city with 850,000 inhabitants, Turin combines this historic elegance with an industrial spirit — Fiat, cinema, technology — and a deep attachment to the Po river, which crosses the city for 10 km. For dog owners, Turin is one of the most practical Italian cities: porticoes shelter from rain and summer sun, 35+ fenced Aree Cani are spread across every district, and the Alps one hour away offer dog-friendly escapes year-round.`,
+      es: `Turín, fundada por los romanos en el siglo I a.C. como Iulia Augusta Taurinorum, fue capital del Ducado de Saboya desde 1563 y primera capital de Italia unificada de 1861 a 1865. La herencia de la dinastía Saboya marca la ciudad: 18 km de pórticos barrocos (los más largos de Europa), plazas monumentales y palacios reales conectados por paseos peatonales. Cuarta ciudad de Italia con 850.000 habitantes, Turín combina esta elegancia histórica con un espíritu industrial — Fiat, el cine, la tecnología — y un profundo apego al río Po, que atraviesa la ciudad durante 10 km. Para los dueños de perros, Turín es una de las ciudades italianas más practicables: sus pórticos resguardan de la lluvia y del sol estival, sus más de 35 Aree Cani valladas están repartidas por todos los barrios, y los Alpes a una hora ofrecen escapadas dog-friendly todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Parco del Valentino',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `84 hectares le long du Pô avec le château du Valentino et deux Aree Cani clôturées. Parc le plus aimé de Turin.`,
+          en: `84 hectares along the Po with the Castello del Valentino and two fenced Aree Cani. Turin's most beloved park.`,
+          es: `84 hectáreas a lo largo del Po con el Castello del Valentino y dos Aree Cani valladas. El parque más querido de Turín.`,
+        },
+      },
+      {
+        name: 'Piazza Castello',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place monumentale centrale avec le Palais royal, le Théâtre royal et l'accès aux Giardini Reali (entrée libre, chiens en laisse bienvenus).`,
+          en: `The monumental central square with the Royal Palace, the Royal Theatre and access to the Giardini Reali (free entry, leashed dogs welcome).`,
+          es: `Plaza monumental central con el Palacio Real, el Teatro Real y acceso a los Giardini Reali (entrada libre, perros con correa admitidos).`,
+        },
+      },
+      {
+        name: 'Basilica di Superga',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Basilique baroque au sommet de la colline, accessible par train à crémaillère historique. Terrasse panoramique accessible aux chiens en laisse.`,
+          en: `Baroque basilica crowning the hill, reached by vintage rack railway. Panoramic terrace accessible to leashed dogs.`,
+          es: `Basílica barroca en la cima de la colina, accesible por tren de cremallera histórico. Terraza panorámica accesible a perros con correa.`,
+        },
+      },
+      {
+        name: 'Murazzi del Po',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Arches du XIXe siècle le long du Pô, point de départ des 10 km de promenade canine continue jusqu'au Valentino et au Borgo Medievale.`,
+          en: `19th-century arches along the Po, starting point of the 10 km continuous dog walk to the Valentino and the Borgo Medievale.`,
+          es: `Arcos del siglo XIX a lo largo del Po, punto de partida del paseo canino continuo de 10 km hasta el Valentino y el Borgo Medievale.`,
+        },
+      },
+      {
+        name: 'Parco della Pellerina',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `169 hectares à l'ouest de la ville, plus grand parc urbain de Turin. Trois Aree Cani clôturées, un petit lac et 6 km de pistes circulaires.`,
+          en: `169 hectares in the west of the city, Turin's largest urban park. Three fenced Aree Cani, a small lake and 6 km of circular trails.`,
+          es: `169 hectáreas al oeste de la ciudad, el mayor parque urbano de Turín. Tres Aree Cani valladas, un pequeño lago y 6 km de circuitos.`,
+        },
+      },
+      {
+        name: 'Quadrilatero Romano',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier historique aux rues pavées et aux cafés sous arcades centenaires. Haut lieu du bicerin et des trattorie dog-friendly.`,
+          en: `Historic district of cobbled streets and porticoed centuries-old cafés. The heart of bicerin culture and dog-friendly trattorie.`,
+          es: `Barrio histórico de calles empedradas y cafés bajo pórticos centenarios. El corazón de la cultura del bicerin y las trattorie dog-friendly.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Muselière OBLIGATOIRE dans les transports GTT (métro, tramway, bus) — amendes de 25 à 250 € contrôlées strictement.',
+        'Train à crémaillère Sassi-Superga : chiens acceptés en laisse et muselière avec supplément 1 € les week-ends.',
+        'Aree Cani officielles (35+) recensées sur comune.torino.it/verdepubblico/aree-cani — toutes gratuites, majorité 24h/24.',
+        'Cliniques d\'urgence 24h/24 : Anubi à Moncalieri (011 6469480) et Torinese au Cenisia (011 3852070).',
+        'Asphalte à 55 °C l\'été — privilégiez les 18 km d\'arcades couvertes ou promenez avant 9h / après 19h30.',
+      ],
+      en: [
+        'Soft muzzle MANDATORY on GTT transport (metro, tram, bus) — fines €25–250 rigorously enforced.',
+        'Sassi-Superga rack railway: leashed, muzzled dogs accepted with a €1 supplement on weekend trains.',
+        'Official Aree Cani (35+) listed at comune.torino.it/verdepubblico/aree-cani — all free, most open 24/7.',
+        '24/7 emergency clinics: Anubi in Moncalieri (011 6469480) and Torinese in Cenisia (011 3852070).',
+        'Pavement at 55 °C in summer — prefer the 18 km of covered porticoes or walk before 09:00 / after 19:30.',
+      ],
+      es: [
+        'Bozal flexible OBLIGATORIO en transporte GTT (metro, tranvía, bus) — multas 25 a 250 € estrictamente controladas.',
+        'Tren de cremallera Sassi-Superga: perros admitidos con correa y bozal con suplemento de 1 € los fines de semana.',
+        'Aree Cani oficiales (35+) listadas en comune.torino.it/verdepubblico/aree-cani — todas gratuitas, la mayoría 24/7.',
+        'Clínicas de urgencias 24/7: Anubi en Moncalieri (011 6469480) y Torinese en Cenisia (011 3852070).',
+        'Asfalto a 55 °C en verano — prioriza los 18 km de pórticos cubiertos o pasea antes de las 9:00 / después de las 19:30.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés dans tout hôtel pet-friendly à l\'enregistrement.',
+        'Laisse obligatoire dans tous les espaces publics hors Aree Cani — amendes à partir de 50 €.',
+        'Musée égyptien, Musée du cinéma (Mole Antonelliana) et Palais royal interdisent les chiens — prévoyez un sitter Pawshake local.',
+        'Trenitalia depuis Porta Nuova accepte les chiens en laisse et muselière avec billet supplémentaire demi-tarif — pratique pour les Alpes.',
+        'Aéroport de Turin (TRN) : aire de détente animale au Terminal 1 ; la plupart des grandes compagnies acceptent les animaux en cabine sur les vols européens.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required at every pet-friendly hotel check-in.',
+        'Leash mandatory in all public spaces outside Aree Cani — fines from €50.',
+        'Egyptian Museum, Cinema Museum (Mole Antonelliana) and Royal Palace prohibit dogs — book a local Pawshake sitter.',
+        'Trenitalia from Porta Nuova accepts leashed, muzzled dogs on a half-price supplementary ticket — useful for Alpine day trips.',
+        'Turin Airport (TRN): pet relief area at Terminal 1; most major airlines accept pets in cabin on European routes.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos en todos los hoteles pet-friendly en el check-in.',
+        'Correa obligatoria en todos los espacios públicos fuera de las Aree Cani — multas desde 50 €.',
+        'Museo Egipcio, Museo del Cine (Mole Antonelliana) y Palacio Real prohíben perros — reserva un cuidador Pawshake local.',
+        'Trenitalia desde Porta Nuova admite perros con correa y bozal con billete suplementario a media tarifa — útil para los Alpes.',
+        'Aeropuerto de Turín (TRN): área de esparcimiento animal en la Terminal 1; la mayoría de grandes aerolíneas admiten mascotas en cabina en vuelos europeos.',
+      ],
+    },
+  },
+
   valencia: {
     history: {
       fr: `Fondée par Rome en 138 avant J.-C. sous le nom de Valentia, Valence s'est développée pendant la période maure comme centre papetier et agricole, irriguée par un système vieux de 1 200 ans toujours fonctionnel, régi par le Tribunal des Eaux — la plus ancienne institution judiciaire européenne en activité. Une crue de 1957 a dévié le fleuve Turia, et son lit vidé est devenu le plus grand parc urbain d'Europe : un jardin linéaire de 9 km qui définit la Valence moderne. Cette transformation a aussi façonné la culture canine : le Turia est un immense jardin partagé où des milliers de chiens s'exercent quotidiennement, avec de nombreuses aires sans laisse clôturées (áreas caninas).`,

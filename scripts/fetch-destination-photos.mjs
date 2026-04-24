@@ -39,6 +39,7 @@ const TARGETS = [
   { slug: 'strasbourg', query: 'Petite France Strasbourg half-timbered houses canals' },
   { slug: 'granada', query: 'Alhambra Granada Nasrid Palace aerial view' },
   { slug: 'hamburg', query: 'Speicherstadt Hamburg warehouse district canals' },
+  { slug: 'turin',   query: 'Mole Antonelliana Turin Piazza Castello sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

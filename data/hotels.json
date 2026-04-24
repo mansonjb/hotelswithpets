@@ -9651,6 +9651,125 @@
     "slug": "ibis-toulouse-ponts-jumeaux"
   },
   {
+    "id": "turin-1",
+    "name": "NH Collection Torino Piazza Carlina",
+    "destinationSlug": "turin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2400,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nh-collection-piazza-carlina.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome (dogs and cats) for €20 per night. NH Hotels chain-wide pet policy. All sizes accepted.",
+    "highlights": [
+      "Historic 18th-century palace",
+      "5-min walk to Mole Antonelliana",
+      "NH chain pet-friendly"
+    ],
+    "slug": "nh-collection-torino-piazza-carlina"
+  },
+  {
+    "id": "turin-2",
+    "name": "Principi di Piemonte UNA Esperienze",
+    "destinationSlug": "turin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1700,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/principidipiemonte.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed for €25 per stay. Dogs and cats welcome. Bowls provided on request.",
+    "highlights": [
+      "Historic 1930s luxury hotel",
+      "Via Gobetti centre",
+      "Spa and pool"
+    ],
+    "slug": "principi-di-piemonte-una-esperienze"
+  },
+  {
+    "id": "turin-3",
+    "name": "Hotel Victoria",
+    "destinationSlug": "turin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 2300,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/victoriatorino.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for €15 per night. Quiet historic house; max 1 pet per room.",
+    "highlights": [
+      "Boutique historic property",
+      "Quiet courtyard garden",
+      "Near Piazza Castello"
+    ],
+    "slug": "hotel-victoria"
+  },
+  {
+    "id": "turin-4",
+    "name": "Starhotels Majestic",
+    "destinationSlug": "turin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3600,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/majestic.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per night. Dogs up to 20 kg, cats welcome. Pet bed on request.",
+    "highlights": [
+      "Opposite Porta Nuova station",
+      "Rooftop restaurant",
+      "Pet bed on request"
+    ],
+    "slug": "starhotels-majestic"
+  },
+  {
+    "id": "turin-5",
+    "name": "B&B Hotel Torino",
+    "destinationSlug": "turin",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2800,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bb-torino.html",
+    "petFee": 8,
+    "petPolicy": "Pets allowed for €8 per night. All sizes welcome, max 1 pet per room.",
+    "highlights": [
+      "Budget-friendly chain",
+      "Near Porta Susa station",
+      "Easy metro access"
+    ],
+    "slug": "b-b-hotel-torino"
+  },
+  {
     "id": "valencia-1",
     "name": "The Westin Valencia",
     "destinationSlug": "valencia",

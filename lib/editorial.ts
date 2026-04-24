@@ -287,6 +287,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
+    turin: {
+      personality: 'Italy\'s northern baroque capital with 18 km of covered porticoes that shelter dogs and owners from rain and summer sun, 35+ fenced dog areas, and the Alps an hour away for weekend escapes',
+      highlight: 'the 84-hectare Parco del Valentino, the 10 km Po riverside, and the Basilica di Superga reached by vintage rack railway',
+      area: 'San Salvario, the Quadrilatero Romano, and the Piazza Castello historic core',
+    },
     valencia: {
       personality: 'a sunny Mediterranean city with 19 km of park running through its centre. The former Turia riverbed. Making it one of Europe\'s most walkable cities for dog owners',
       highlight: 'the Turia Garden (9 km off-leash friendly), the Malvarrosa beach dog zone, and the Albufera nature park',
@@ -584,6 +589,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
     },
+    turin: {
+      personality: 'la capitale baroque du nord de l\'Italie, avec 18 km d\'arcades couvertes qui abritent chiens et propriétaires de la pluie et du soleil estival, 35+ zones canines clôturées, et les Alpes à une heure pour les escapades du week-end',
+      highlight: 'les 84 hectares du Parco del Valentino, les 10 km de berges du Pô et la Basilique de Superga atteinte par train à crémaillère',
+      area: 'San Salvario, le Quadrilatero Romano et le cœur historique autour de la Piazza Castello',
+    },
     valencia: {
       personality: 'une ville méditerranéenne ensoleillée avec 19 km de parc traversant son centre. L\'ancien lit de la Turia. Ce qui en fait l\'une des villes les plus praticables d\'Europe pour les propriétaires de chiens',
       highlight: 'le Jardin du Turia (9 km largement sans laisse), la zone chiens de la plage de Malvarrosa et le parc naturel de l\'Albufera',
@@ -880,6 +890,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
+    },
+    turin: {
+      personality: 'la capital barroca del norte de Italia, con 18 km de pórticos cubiertos que resguardan a perros y dueños de la lluvia y del sol estival, más de 35 zonas caninas valladas, y los Alpes a una hora para escapadas de fin de semana',
+      highlight: 'las 84 hectáreas del Parco del Valentino, los 10 km de orillas del Po y la Basílica de Superga a la que se accede por tren de cremallera',
+      area: 'San Salvario, el Quadrilatero Romano y el núcleo histórico en torno a Piazza Castello',
     },
     valencia: {
       personality: 'una ciudad mediterránea soleada con 19 km de parque atravesando su centro. El antiguo cauce del Turia. Que la convierte en una de las ciudades más transitables de Europa para los dueños de perros',

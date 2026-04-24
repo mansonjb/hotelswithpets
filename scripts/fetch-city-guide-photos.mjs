@@ -102,6 +102,10 @@ async function main() {
     console.log(`\n🏙️  ${cityName} (${citySlug})`)
 
     for (const [sectionName, section] of Object.entries(guide.guides || {})) {
+      // Skip petsitting — online platforms (Pawshake, Rover, Holidog) have no
+      // physical locations and Google Places matches noisy results (e.g.
+      // "Rover Strasbourg" → Land Rover car dealership).
+      if (sectionName === 'petsitting') continue
       const places = section?.places || []
       for (let idx = 0; idx < places.length; idx++) {
         const place = places[idx]

@@ -36,6 +36,7 @@ const TARGETS = [
   { slug: 'frankfurt',    query: 'Romerberg Frankfurt old town skyline' },
   { slug: 'verona',      query: 'Arena di Verona Roman amphitheatre Piazza Bra' },
   { slug: 'naples',      query: 'Naples skyline Vesuvius Castel dellOvo' },
+  { slug: 'strasbourg', query: 'Petite France Strasbourg half-timbered houses canals' },
 ]
 
 async function searchPhoto(query, apiKey) {

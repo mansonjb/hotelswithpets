@@ -3511,6 +3511,31 @@
     }
   },
   {
+    "slug": "strasbourg",
+    "name": "Strasbourg",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/strasbourg.jpg",
+    "lat": 48.5734,
+    "lng": 7.7521,
+    "weather": {
+      "jan": {"temp": 4, "desc": "Cold & grey", "icon": "❄️"},
+      "feb": {"temp": 5, "desc": "Cold & partly cloudy", "icon": "🌥️"},
+      "mar": {"temp": 9, "desc": "Cool with showers", "icon": "🌦️"},
+      "apr": {"temp": 13, "desc": "Mild & pleasant", "icon": "⛅"},
+      "may": {"temp": 18, "desc": "Warm & sunny", "icon": "🌤️"},
+      "jun": {"temp": 21, "desc": "Warm & bright", "icon": "☀️"},
+      "jul": {"temp": 24, "desc": "Hot & sunny", "icon": "☀️"},
+      "aug": {"temp": 23, "desc": "Warm & sunny", "icon": "☀️"},
+      "sep": {"temp": 20, "desc": "Mild & pleasant", "icon": "🌤️"},
+      "oct": {"temp": 14, "desc": "Cool & rainy", "icon": "🌧️"},
+      "nov": {"temp": 8, "desc": "Cool & overcast", "icon": "🌧️"},
+      "dec": {"temp": 4, "desc": "Cold, Christmas market season", "icon": "❄️"}
+    }
+  },
+  {
     "slug": "tallinn",
     "name": "Tallinn",
     "country": "Estonia",

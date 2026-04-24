@@ -262,6 +262,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Djurgården island, Hagaparken, and the archipelago trail network',
       area: 'Södermalm, Östermalm, and Djurgården',
     },
+    strasbourg: {
+      personality: 'one of Europe\'s most atmospheric UNESCO cities — where Alsatian culture, Christmas markets, and a relaxed attitude to dogs make it a year-round pet-travel destination',
+      highlight: 'Parc de l\'Orangerie, the Petite France canals, and the Jardins des Deux Rives on the Rhine',
+      area: 'Petite France, the Krutenau, and the European Quarter',
+    },
     tallinn: {
       personality: 'a fairy-tale medieval city with a progressive Estonian attitude toward pets. Dogs enter most shops, visit the old town, and explore the coastal paths freely',
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
@@ -544,6 +549,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île de Djurgården, Hagaparken et le réseau de sentiers de l\'archipel',
       area: 'Södermalm, Östermalm et Djurgården',
     },
+    strasbourg: {
+      personality: 'l\'une des villes UNESCO les plus atmosphériques d\'Europe — où la culture alsacienne, les marchés de Noël et une attitude détendue envers les chiens en font une destination pet-travel toute l\'année',
+      highlight: 'le Parc de l\'Orangerie, les canaux de la Petite France et les Jardins des Deux Rives sur le Rhin',
+      area: 'la Petite France, le Krutenau et le Quartier Européen',
+    },
     tallinn: {
       personality: 'une ville médiévale de conte de fées avec une attitude estonienne progressiste envers les animaux. Les chiens entrent dans la plupart des commerces, visitent la vieille ville et explorent librement les chemins côtiers',
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
@@ -825,6 +835,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad donde los perros forman parte del tejido de la vida cotidiana. En ferries, en cafés y a través de las islas del archipiélago',
       highlight: 'la isla de Djurgården, Hagaparken y la red de senderos del archipiélago',
       area: 'Södermalm, Östermalm y Djurgården',
+    },
+    strasbourg: {
+      personality: 'una de las ciudades UNESCO más atmosféricas de Europa — donde la cultura alsaciana, los mercados de Navidad y una actitud relajada hacia los perros la convierten en un destino pet-travel durante todo el año',
+      highlight: 'el Parc de l\'Orangerie, los canales de Petite France y los Jardins des Deux Rives en el Rin',
+      area: 'Petite France, el Krutenau y el Barrio Europeo',
     },
     tallinn: {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas. Los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',

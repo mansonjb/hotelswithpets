@@ -8959,6 +8959,131 @@
     "slug": "villa-dagmar"
   },
   {
+    "id": "strasbourg-1",
+    "name": "Hotel & Spa Regent Petite France",
+    "destinationSlug": "strasbourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1200,
+    "priceFrom": 166,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/regentpetitefrance.html",
+    "petFee": 32,
+    "petPolicy": "Hotel & Spa Regent Petite France allows up to 1 dog of any size (up to 100 kg) in a limited number of pet-friendly rooms, subject to a pet fee of EUR 32 per night. Pets must be declared at the time of booking to ensure a suitable room is reserved. Dogs are welcome in outdoor areas of the hotel and throughout the Petite France canals directly outside.",
+    "highlights": [
+      "Spa and wellness centre",
+      "Canal-side rooms in Petite France",
+      "Gourmet restaurant"
+    ],
+    "slug": "hotel-spa-regent-petite-france-strasbourg"
+  },
+  {
+    "id": "strasbourg-2",
+    "name": "OKKO Hotels Strasbourg Centre",
+    "destinationSlug": "strasbourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 3000,
+    "priceFrom": 98,
+    "currency": "EUR",
+    "bookingUrl": "https://www.okkohotels.com/en/page/strasbourg/.24897.html",
+    "petFee": 0,
+    "petPolicy": "OKKO Hotels Strasbourg Centre allows 1 pet of any size at no additional charge. Pets are accepted on request — declare your pet at booking to ensure a pet-compatible room. The hotel is located a short walk from Petite France and the Ill canal walks.",
+    "highlights": [
+      "24h Club lounge with free snacks and drinks",
+      "Central location near Petite France",
+      "Modern design rooms"
+    ],
+    "slug": "okko-hotels-strasbourg-centre"
+  },
+  {
+    "id": "strasbourg-3",
+    "name": "Hotel de l'Europe by Happyculture",
+    "destinationSlug": "strasbourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 1000,
+    "priceFrom": 72,
+    "currency": "EUR",
+    "bookingUrl": "https://www.bringfido.com/lodging/33625",
+    "petFee": 0,
+    "petPolicy": "Hotel de l'Europe by Happyculture welcomes pets of any size at no additional charge, with multiple pets accepted per room. The hotel is housed in a converted 15th-century coaching inn in the heart of Petite France. Dogs must be kept on a lead in common areas.",
+    "highlights": [
+      "15th-century coaching inn in Petite France",
+      "Free WiFi",
+      "Pets of any size welcome at no charge"
+    ],
+    "slug": "hotel-de-l-europe-by-happyculture-strasbourg"
+  },
+  {
+    "id": "strasbourg-4",
+    "name": "Hotel de l'Orangerie",
+    "destinationSlug": "strasbourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 200,
+    "priceFrom": 84,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-l-orangerie.html",
+    "petFee": 0,
+    "petPolicy": "Hotel de l'Orangerie welcomes pets of any size at no extra charge, and provides pet bowls on request. Located on the Allée de la Robertsau, the hotel is adjacent to Parc de l'Orangerie — Strasbourg's finest park with a fenced off-leash dog zone just steps from the front door.",
+    "highlights": [
+      "Adjacent to Parc de l'Orangerie with off-leash dog zone",
+      "Free private parking",
+      "European Quarter location"
+    ],
+    "slug": "hotel-de-l-orangerie-strasbourg"
+  },
+  {
+    "id": "strasbourg-5",
+    "name": "Sejours & Affaires Strasbourg Kleber",
+    "destinationSlug": "strasbourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 7.3,
+    "reviewCount": 1450,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/residhome-strasbourg-kleber.html",
+    "petFee": 0,
+    "petPolicy": "Sejours & Affaires Strasbourg Kleber accepts dogs and cats on request at no extra charge. The aparthotel studios come with fully equipped kitchenettes — ideal for self-catering pet owners on longer stays. Located 5 minutes on foot from Place Kleber in the heart of the city.",
+    "highlights": [
+      "Fully-equipped kitchenette in every studio",
+      "5-minute walk from Place Kleber",
+      "Budget-friendly with flexible stays"
+    ],
+    "slug": "sejours-affaires-strasbourg-kleber"
+  },
+  {
     "id": "tallinn-1",
     "name": "Radisson Collection Hotel, Tallinn",
     "destinationSlug": "tallinn",

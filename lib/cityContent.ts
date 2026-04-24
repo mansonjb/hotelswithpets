@@ -5371,6 +5371,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  strasbourg: {
+    history: {
+      fr: `Fondée par les Romains sous le nom d'Argentoratum en 12 av. J.-C. pour garder un passage stratégique du Rhin, Strasbourg a développé au Moyen Âge une identité alsacienne distincte incarnée par les maisons à colombages de la Petite France. Ville libre du Saint-Empire romain germanique, elle devint française en 1681, fut annexée par l'Allemagne après 1870, retrouva la France en 1919, fut de nouveau occupée de 1940 à 1944 avant de redevenir française définitivement. Ce double héritage a produit une culture unique : dialecte alsacien, tarte flambée et Riesling aux côtés des traditions civiques françaises. Aujourd'hui siège du Parlement Européen, du Conseil de l'Europe et de la Cour Européenne des Droits de l'Homme, Strasbourg est également un Patrimoine Mondial de l'UNESCO dans sa totalité. La ville compte environ 285 000 habitants et une culture canine particulièrement active, soutenue par la communauté strasdog.fr et ses plus de 80 adresses dog-friendly certifiées.`,
+      en: `Founded by the Romans as Argentoratum in 12 BC to guard a strategic Rhine crossing, Strasbourg developed through the Middle Ages as a distinctive Alsatian city whose identity is embodied in the half-timbered houses of Petite France. A free imperial city of the Holy Roman Empire, it became French in 1681, was annexed by Germany after 1870, returned to France in 1919, was occupied again from 1940 to 1944, and became permanently French thereafter. This dual heritage produced a unique culture — Alsatian dialect, tarte flambée and Riesling alongside French civic traditions. Today Strasbourg is the seat of the European Parliament, the Council of Europe, and the European Court of Human Rights, and its entire Grande Île is a UNESCO World Heritage Site. The city has roughly 285,000 inhabitants and a notably active dog-owning culture, supported by the strasdog.fr community with its 80+ certified dog-friendly addresses.`,
+      es: `Fundada por los romanos como Argentoratum en el año 12 a.C. para defender un paso estratégico del Rin, Estrasburgo desarrolló durante la Edad Media una identidad alsaciana distintiva encarnada en las casas de entramado de Petite France. Ciudad libre del Sacro Imperio Romano Germánico, pasó a ser francesa en 1681, fue anexionada por Alemania tras 1870, volvió a Francia en 1919, fue ocupada de nuevo entre 1940 y 1944, y pasó a ser definitivamente francesa. Esta doble herencia produjo una cultura única: dialecto alsaciano, tarte flambée y Riesling junto a las tradiciones cívicas francesas. Hoy Estrasburgo es la sede del Parlamento Europeo, el Consejo de Europa y el Tribunal Europeo de Derechos Humanos, y su entera Grande Île es Patrimonio Mundial de la UNESCO. La ciudad cuenta con unos 285.000 habitantes y una cultura canina especialmente activa, apoyada por la comunidad strasdog.fr con más de 80 direcciones dog-friendly certificadas.`,
+    },
+    sights: [
+      {
+        name: `Cathédrale Notre-Dame`,
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La plus haute construction du monde entre 1647 et 1874, la Cathédrale en grès rose de 142 mètres est un chef-d'œuvre gothique dont la façade ouest sculpturée reste stupéfiante. Les chiens ne sont pas admis à l'intérieur, mais la place piétonne et toute l'enceinte extérieure sont entièrement accessibles en laisse.`,
+          en: `The tallest building in the world from 1647 to 1874, the 142-metre pink sandstone Cathedral is a Gothic masterpiece whose intricately carved west facade remains astonishing. Dogs cannot enter the Cathedral itself, but the surrounding pedestrian square and entire exterior are fully accessible on leash.`,
+          es: `La construcción más alta del mundo entre 1647 y 1874, la Catedral de arenisca rosa de 142 metros es una obra maestra gótica con una fachada oeste esculpida que sigue siendo asombrosa. Los perros no pueden entrar en la Catedral, pero la plaza peatonal circundante y todo el exterior son totalmente accesibles con correa.`,
+        },
+      },
+      {
+        name: `Petite France`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier le plus emblématique de Strasbourg : un labyrinthe de maisons alsaciennes à colombages des XVIe–XVIIe siècles se reflétant dans les canaux de l'Ill. Les chiens en laisse sont bienvenus sur toutes les rues pavées, les quais et les passerelles de ce Patrimoine Mondial de l'UNESCO à ciel ouvert.`,
+          en: `Strasbourg's most iconic district — a labyrinth of 16th–17th-century half-timbered Alsatian houses reflected in the canals of the Ill. Dogs on leash are welcome on every cobbled street, quayside, and footbridge of this open-air UNESCO World Heritage Site.`,
+          es: `El barrio más emblemático de Estrasburgo: un laberinto de casas alsacianas de entramado de los siglos XVI–XVII reflejadas en los canales del Ill. Los perros con correa son bienvenidos en todas las calles adoquinadas, muelles y pasarelas de este sitio del Patrimonio Mundial de la UNESCO al aire libre.`,
+        },
+      },
+      {
+        name: `Ponts Couverts`,
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Quatre tours défensives du XIIIe siècle qui marquaient l'entrée de la Petite France — les ponts couverts qui les reliaient ont disparu, mais les tours et leur reflet dans l'eau demeurent l'image la plus iconique de Strasbourg. Le chemin de halage longeant les quatre tours est entièrement dog-friendly en laisse.`,
+          en: `Four 13th-century defensive towers that once marked the entrance to Petite France — the covered bridges that connected them are long gone, but the towers and their reflection in the water remain Strasbourg's most iconic image. The towpath running past all four towers is entirely dog-friendly on leash.`,
+          es: `Cuatro torres defensivas del siglo XIII que marcaban la entrada a Petite France: los puentes cubiertos que las conectaban han desaparecido hace mucho, pero las torres y su reflejo en el agua siguen siendo la imagen más icónica de Estrasburgo. El camino de sirga que discurre junto a las cuatro torres es totalmente dog-friendly con correa.`,
+        },
+      },
+      {
+        name: `Parc de l'Orangerie`,
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc phare de Strasbourg — 26 hectares de jardins paysagers, un pavillon Napoléon III, un lac, une aire de nidification de cigognes et une zone canine clôturée dans le coin nord-est. Adjacent au Parlement Européen, c'est le poumon vert du Quartier Européen et la meilleure infrastructure canine de la ville.`,
+          en: `Strasbourg's flagship park — 26 hectares of landscaped gardens, a Napoleon III pavilion, a lake, a stork nesting area, and a fenced off-leash dog zone in the northeast corner. Adjacent to the European Parliament, it is the green heart of the European Quarter and the best dog facility in the city.`,
+          es: `El parque insignia de Estrasburgo: 26 hectáreas de jardines paisajísticos, un pabellón Napoleón III, un lago, una zona de nidificación de cigüeñas y una zona canina vallada en la esquina noreste. Adyacente al Parlamento Europeo, es el pulmón verde del Barrio Europeo y la mejor infraestructura canina de la ciudad.`,
+        },
+      },
+      {
+        name: `Grande Île`,
+        emoji: '🗺️',
+        petFriendly: true,
+        desc: {
+          fr: `L'île historique au cœur de Strasbourg est un Patrimoine Mondial de l'UNESCO depuis 1988 — le seul site où c'est l'ensemble du centre-ville qui est classé, pas un seul monument. Chaque rue, place et quai de l'île est praticable en laisse avec son chien.`,
+          en: `The historic island at the heart of Strasbourg has been a UNESCO World Heritage Site since 1988 — the only listing where an entire city centre was classified rather than a single monument. Every street, square, and quay on the island is walkable with a dog on leash.`,
+          es: `La isla histórica en el corazón de Estrasburgo es Patrimonio Mundial de la UNESCO desde 1988, la única declaración donde se clasificó un centro histórico completo en lugar de un solo monumento. Cada calle, plaza y muelle de la isla es transitable con un perro con correa.`,
+        },
+      },
+      {
+        name: `Jardins des Deux Rives`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc binational s'étendant des deux côtés du Rhin franco-allemand, relié par la Passerelle des Deux Rives. Les chiens en laisse peuvent passer librement de France en Allemagne (Kehl) et le côté français dispose d'une zone de liberté désignée et d'un accès informel aux berges du Rhin.`,
+          en: `A binational park spanning both sides of the Franco-German Rhine, connected by the Passerelle des Deux Rives footbridge. Dogs on leash can cross freely from France to Germany (Kehl), and the French side has a designated freedom area and informal Rhine riverbank access.`,
+          es: `Un parque binacional que se extiende a ambos lados del Rin franco-alemán, conectado por la pasarela Passerelle des Deux Rives. Los perros con correa pueden cruzar libremente de Francia a Alemania (Kehl), y el lado francés tiene una zona de libertad designada y acceso informal a la orilla del Rin.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Transports en commun : depuis juillet 2023, les trams CTS acceptent les chiens tenus en laisse et muselés — CTS recommande la muselière Baskerville qui permet de haleter et boire tout en respectant la règle.`,
+        `La communauté strasdog.fr tient une carte en temps réel des restaurants, bars et services dog-friendly à Strasbourg — indispensable à consulter avant d'arriver.`,
+        `Marchés de Noël (fin nov.–déc.) : méfiez-vous du chocolat vendu ouvertement à chaque stand — le chocolat noir est toxique pour les chiens même en petite quantité ; gardez votre chien très proche et surveillez le sol.`,
+        `Étés alsaciens : en juillet–août, les températures peuvent dépasser 30°C — évitez les promenades sur l'asphalte entre 13h et 17h ; les chemins de halage de l'Ill ombragés sont l'alternative la plus fraîche.`,
+        `La culture alsacienne des terrasses est très accueillante : si une terrasse est ouverte, les chiens bien tenus en laisse sont généralement bienvenus sauf pancarte contraire — inutile de demander à chaque fois.`,
+      ],
+      en: [
+        `CTS trams allow dogs on leash and muzzle since July 2023 — a Baskerville muzzle is specifically recommended by CTS as it allows panting and drinking while complying with the rule. Buy one before your trip.`,
+        `The strasdog.fr community website maintains a real-time map of dog-friendly restaurants, bars, and services across Strasbourg — essential reading before arrival.`,
+        `Christmas market season (late Nov–Dec): beware chocolate sold openly at every stall — dark chocolate is toxic to dogs even in small amounts; keep your dog very close and watch the ground at all times.`,
+        `Alsatian summers: in July–August temperatures can exceed 30°C — avoid walking on asphalt during peak afternoon heat (13:00–17:00); the tree-shaded Ill towpaths are the coolest alternative.`,
+        `Alsatian terrace culture is very welcoming: if a terrace is open, well-behaved dogs on leash are generally assumed welcome unless a sign says otherwise — no need to ask every time.`,
+      ],
+      es: [
+        `Los tranvías CTS admiten perros con correa y bozal desde julio de 2023 — CTS recomienda específicamente el bozal Baskerville, que permite jadear y beber cumpliendo la norma. Cómpralo antes del viaje.`,
+        `El sitio comunitario strasdog.fr mantiene un mapa en tiempo real de restaurantes, bares y servicios dog-friendly en Estrasburgo: lectura imprescindible antes de llegar.`,
+        `Temporada de mercados de Navidad (finales nov.–dic.): cuidado con el chocolate vendido abiertamente en cada puesto; el chocolate negro es tóxico para los perros incluso en pequeñas cantidades. Mantén a tu perro muy cerca y vigila el suelo en todo momento.`,
+        `Veranos alsacianos: en julio–agosto las temperaturas pueden superar los 30°C. Evita caminar por el asfalto durante el calor máximo de la tarde (13:00–17:00); los caminos de sirga del Ill sombreados son la alternativa más fresca.`,
+        `La cultura de terrazas alsaciana es muy acogedora: si una terraza está abierta, se asume generalmente que los perros bien educados con correa son bienvenidos salvo cartel en contrario; no hace falta preguntar cada vez.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires : Maison des Urgences Vétérinaires 67, appelez le 03 68 71 83 00 — ouvert le soir (dès 19h30 lun–ven), le samedi dès 12h30, et 24h/24 les dimanches et jours fériés. Clinique Agoravet assure une permanence 24h/24 toute l\'année.`,
+        `Zones sans laisse : Parc de l\'Orangerie (clôturé, coin nord-est) et Parc de la Citadelle (non clôturé, consulter la signalétique à l\'entrée) — les deux principales zones sans laisse de la ville.`,
+        `En train : la gare Strasbourg-Ville dessert les TGV depuis Paris (2h15) et TER depuis Lyon, Colmar et Bâle. Sur TGV, les chiens de plus de 6 kg voyagent en transport ou avec un billet à tarif forfaitaire (règles selon l\'opérateur).`,
+        `Voyage UE : Strasbourg est en zone Schengen. Les animaux UE ont besoin d\'un passeport européen valide avec puce et vaccination antirabique à jour pour traverser la frontière rhénane vers l\'Allemagne.`,
+        `Meilleure base : les quartiers de la Petite France et du Krutenau donnent accès immédiat aux canaux, aux bars dog-friendly et au Parc de l\'Orangerie (15 min à pied) et au Parc de la Citadelle (20 min à pied).`,
+      ],
+      en: [
+        `Emergency vet: Maison des Urgences Vétérinaires 67, call 03 68 71 83 00 — open evenings (from 19:30 Mon–Fri), Saturdays from 12:30, and 24h on Sundays and public holidays. Clinique Agoravet provides 24/7 year-round cover.`,
+        `Off-leash zones: Parc de l\'Orangerie (fenced, northeast corner) and Parc de la Citadelle (unfenced, check signage at entrance) are the two main designated off-leash areas in the city.`,
+        `By train: Strasbourg-Ville station serves TGV from Paris (2h15) and TER from Lyon, Colmar, and Basel. Dogs over 6 kg on TGV must travel in a carrier or pay a flat-rate ticket; rules vary by operator.`,
+        `EU pet travel: Strasbourg is in the Schengen area. EU-registered pets need a valid EU passport with microchip and up-to-date rabies vaccination for all cross-border travel including the Rhine crossing to Germany.`,
+        `Best base: Petite France and Krutenau neighborhoods give immediate access to canal walks, dog-friendly bars, Parc de l\'Orangerie (15 min on foot), and Parc de la Citadelle (20 min on foot).`,
+      ],
+      es: [
+        `Urgencias veterinarias: Maison des Urgences Vétérinaires 67, llama al 03 68 71 83 00 — abierta por las tardes (desde las 19:30 lun–vie), los sábados desde las 12:30, y 24h los domingos y festivos. La Clinique Agoravet garantiza cobertura 24/7 todo el año.`,
+        `Zonas sin correa: Parc de l\'Orangerie (vallado, esquina noreste) y Parc de la Citadelle (sin vallar, consulta la señalización en la entrada) son las dos principales zonas sin correa de la ciudad.`,
+        `En tren: la estación Estrasburgo-Ville sirve TGV desde París (2h15) y TER desde Lyon, Colmar y Basilea. En TGV los perros de más de 6 kg viajan en transportín o con billete de tarifa plana (normas según el operador).`,
+        `Viaje en la UE: Estrasburgo está en la zona Schengen. Las mascotas de la UE necesitan un pasaporte europeo válido con microchip y vacunación antirrábica al día para cruzar la frontera del Rin hacia Alemania.`,
+        `Mejor base: los barrios de Petite France y Krutenau dan acceso inmediato a los canales, los bares dog-friendly, el Parc de l\'Orangerie (15 min a pie) y el Parc de la Citadelle (20 min a pie).`,
+      ],
+    },
+  },
+
   tallinn: {
     history: {
       fr: `Tallinn apparaît dès 1154 sur une carte arabe et rejoint la Hanse en 1285, donnant naissance à l'un des ensembles médiévaux les mieux préservés d'Europe, classé à l'UNESCO en 1997. La capitale estonienne, peuplée d'environ 460 000 habitants, enregistre près de 30 000 chiens, chiffre en forte hausse depuis la suppression de la taxe canine locale en 2014. C'est sans doute la ville balte la plus accommodante pour les chiens : transports en commun gratuits pour les résidents (chiens inclus, muselés si grands), koerte jalutusväljak clôturés dans chaque quartier, et la tradition matinale de faire le tour des bastions de Toompea avec son chien. La loi estonienne exige la laisse en zone urbaine et la muselière pour les grandes races dans les transports, mais les contrôles sont plus souples que chez les voisins nordiques, à condition de ramasser.`,

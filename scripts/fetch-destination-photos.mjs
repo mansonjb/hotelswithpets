@@ -37,6 +37,7 @@ const TARGETS = [
   { slug: 'verona',      query: 'Arena di Verona Roman amphitheatre Piazza Bra' },
   { slug: 'naples',      query: 'Naples skyline Vesuvius Castel dellOvo' },
   { slug: 'strasbourg', query: 'Petite France Strasbourg half-timbered houses canals' },
+  { slug: 'granada', query: 'Alhambra Granada Nasrid Palace aerial view' },
 ]
 
 async function searchPhoto(query, apiKey) {

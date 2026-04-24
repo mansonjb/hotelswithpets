@@ -1463,6 +1463,79 @@
     }
   },
   {
+    "slug": "granada",
+    "name": "Granada",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/granada.jpg",
+    "lat": 37.1773,
+    "lng": -3.5986,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool with some showers",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & bright",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Very hot & dry",
+        "icon": "🔆"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Very hot & dry",
+        "icon": "🔆"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool with showers",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & grey",
+        "icon": "🌥️"
+      }
+    }
+  },
+  {
     "slug": "helsinki",
     "name": "Helsinki",
     "country": "Finland",
@@ -3521,18 +3594,66 @@
     "lat": 48.5734,
     "lng": 7.7521,
     "weather": {
-      "jan": {"temp": 4, "desc": "Cold & grey", "icon": "❄️"},
-      "feb": {"temp": 5, "desc": "Cold & partly cloudy", "icon": "🌥️"},
-      "mar": {"temp": 9, "desc": "Cool with showers", "icon": "🌦️"},
-      "apr": {"temp": 13, "desc": "Mild & pleasant", "icon": "⛅"},
-      "may": {"temp": 18, "desc": "Warm & sunny", "icon": "🌤️"},
-      "jun": {"temp": 21, "desc": "Warm & bright", "icon": "☀️"},
-      "jul": {"temp": 24, "desc": "Hot & sunny", "icon": "☀️"},
-      "aug": {"temp": 23, "desc": "Warm & sunny", "icon": "☀️"},
-      "sep": {"temp": 20, "desc": "Mild & pleasant", "icon": "🌤️"},
-      "oct": {"temp": 14, "desc": "Cool & rainy", "icon": "🌧️"},
-      "nov": {"temp": 8, "desc": "Cool & overcast", "icon": "🌧️"},
-      "dec": {"temp": 4, "desc": "Cold, Christmas market season", "icon": "❄️"}
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & partly cloudy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & bright",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, Christmas market season",
+        "icon": "❄️"
+      }
     }
   },
   {

@@ -3754,6 +3754,131 @@
     "slug": "yalo-urban-boutique-hotel-gent"
   },
   {
+    "id": "granada-1",
+    "name": "NH Collection Granada Victoria",
+    "destinationSlug": "granada",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2200,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-granada-victoria.html",
+    "petFee": 35,
+    "petPolicy": "Dogs and cats accepted, max 25 kg, up to 2 pets per room, €35 per pet per night. Pets must be declared at booking.",
+    "highlights": [
+      "Central location on Puerta Real",
+      "19th-century historic building",
+      "Near Alhambra walking route"
+    ],
+    "slug": "nh-collection-granada-victoria"
+  },
+  {
+    "id": "granada-2",
+    "name": "Catalonia Granada",
+    "destinationSlug": "granada",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/catalonia-granada.html",
+    "petFee": 22,
+    "petPolicy": "1 dog or cat per room, max 20 kg, €22 per night plus €200 refundable deposit. Vaccination certificate required at check-in.",
+    "highlights": [
+      "Rooftop pool",
+      "Near Arabial dog parks",
+      "15 minutes walk to historic centre"
+    ],
+    "slug": "catalonia-granada"
+  },
+  {
+    "id": "granada-3",
+    "name": "Ibis Granada",
+    "destinationSlug": "granada",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 4300,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ibis-granada.html",
+    "petFee": 10,
+    "petPolicy": "Pets of any size accepted, €10 per day for 1 pet (€16 for multi-day stays). Pets allowed in breakfast area. Maximum 2 pets per room.",
+    "highlights": [
+      "No weight limit for pets",
+      "Free parking",
+      "Outdoor pool"
+    ],
+    "slug": "ibis-granada"
+  },
+  {
+    "id": "granada-4",
+    "name": "B&B Hotel Granada Estación",
+    "destinationSlug": "granada",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 950,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/b-b-hotel-granada-estacion.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats accepted at no extra charge, max 40 kg, 1 pet per room. Near Granada RENFE train station.",
+    "highlights": [
+      "No pet fee for large dogs up to 40 kg",
+      "Near RENFE train station",
+      "Budget-friendly rates"
+    ],
+    "slug": "bb-hotel-granada-estacion"
+  },
+  {
+    "id": "granada-5",
+    "name": "B&B Hotel Granada",
+    "destinationSlug": "granada",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 7.5,
+    "reviewCount": 680,
+    "priceFrom": 45,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/b-b-hotel-granada.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats accepted at no extra charge, max 40 kg, 1 pet per room.",
+    "highlights": [
+      "No pet fee",
+      "Near Arabial dog parks",
+      "Free parking"
+    ],
+    "slug": "bb-hotel-granada"
+  },
+  {
     "id": "helsinki-1",
     "name": "Klaus K Hotel Helsinki",
     "destinationSlug": "helsinki",

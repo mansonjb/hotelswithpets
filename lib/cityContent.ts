@@ -2217,6 +2217,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  granada: {
+    history: {
+      fr: `Fondée par les Ibères sous le nom d'Iliberri, Grenade devint sous la domination arabe la capitale de l'émirat nasride au XIIIe siècle, atteignant 150 000 habitants et produisant l'Alhambra, chef-d'œuvre inégalé de l'architecture islamique. La Reconquista l'intégra à la Couronne de Castille en 1492 — la même année où Christophe Colomb levait l'ancre depuis l'Andalousie. La ville conserva son identité arabe bien après la conquête : ses bains, ses marchés couverts et ses ruelles blanches de l'Albaicín témoignent de sept siècles de civilisation Al-Andalus. Aujourd'hui, Grenade est une ville universitaire animée de 230 000 habitants, où la tradition des tapas gratuites avec chaque verre, l'accueil des terrasses envers les chiens et la proximité de la Sierra Nevada en font l'une des escapades les plus séduisantes d'Espagne pour les voyageurs avec animaux.`,
+      en: `Founded by Iberians as Iliberri, Granada became the capital of the Nasrid emirate in the 13th century under Arab rule, reaching a population of 150,000 and producing the Alhambra — the unrivalled masterpiece of Islamic architecture. The Reconquista brought it under the Castilian Crown in 1492, the same year Columbus set sail from Andalusia. The city retained its Arab identity long after conquest: its bathhouses, covered souks, and whitewashed Albaicín lanes bear witness to seven centuries of Al-Andalus civilisation. Today Granada is a lively university city of 230,000 residents, where the tradition of free tapas with every drink, the terrace culture's welcome of dogs, and the proximity of the Sierra Nevada make it one of Spain's most appealing escapes for pet travellers.`,
+      es: `Fundada por los íberos como Iliberri, Granada se convirtió bajo el dominio árabe en la capital del emirato nazarí en el siglo XIII, alcanzando los 150.000 habitantes y produciendo la Alhambra — la obra maestra sin rival de la arquitectura islámica. La Reconquista la incorporó a la Corona de Castilla en 1492, el mismo año en que Colón zarpó desde Andalucía. La ciudad conservó su identidad árabe mucho después de la conquista: sus baños, sus zocos cubiertos y las callejuelas encaladas del Albaicín dan testimonio de siete siglos de civilización Al-Ándalus. Hoy Granada es una animada ciudad universitaria de 230.000 habitantes, donde la tradición de las tapas gratis con cada consumición, la cultura de la terraza abierta a los perros y la proximidad de Sierra Nevada la convierten en una de las escapadas más atractivas de España para los viajeros con mascotas.`,
+    },
+    sights: [
+      {
+        name: `Alhambra`,
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Le palais nasride et la forteresse de l'Alhambra dominent Grenade depuis leur éperon rocheux boisé. Construit principalement entre 1238 et 1358, le complexe est l'un des monuments les plus visités au monde. Les chiens ne sont pas admis à l'intérieur (sauf chiens guides accrédités), mais les sentiers boisés du Bosque de la Alhambra, qui encerclent le site, sont accessibles en laisse et offrent de belles promenades ombragées avec des vues partielles sur les tours. Réservez les billets plusieurs mois à l'avance.`,
+          en: `The Nasrid palace and fortress of the Alhambra dominates Granada from its wooded sandstone spur. Built mainly between 1238 and 1358, the complex is one of the world's most visited monuments. Dogs are not permitted inside (except accredited guide dogs), but the forested Bosque de la Alhambra paths encircling the site are accessible on lead and offer beautiful shaded walks with partial views of the towers. Book tickets months in advance.`,
+          es: `El palacio nazarí y la fortaleza de la Alhambra dominan Granada desde su espigón de arenisca arbolado. Construido principalmente entre 1238 y 1358, el conjunto es uno de los monumentos más visitados del mundo. Los perros no están permitidos en el interior (excepto perros guía acreditados), pero los senderos del Bosque de la Alhambra que rodean el recinto son accesibles con correa y ofrecen hermosos paseos sombreados con vistas parciales de las torres. Reserva las entradas con meses de antelación.`,
+        },
+      },
+      {
+        name: `Paseo de los Tristes`,
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Ce paseo public longe le Darro au pied des remparts de l'Alhambra et offre l'une des vues les plus spectaculaires d'Espagne. Les chiens en laisse sont les bienvenus à toute heure. Les terrasses des bars le long du paseo acceptent les chiens, et la vue sur l'Alhambra illuminée un soir d'été est inoubliable. C'est l'endroit le plus proche de l'Alhambra accessible aux propriétaires de chiens sans entrer dans le site.`,
+          en: `This public promenade runs along the Darro river below the Alhambra walls and offers one of the most spectacular views in Spain. Dogs on leads are welcome at all hours. The terrace bars along the paseo accept dogs, and the view of the floodlit Alhambra on a summer evening is unforgettable. It is the closest point to the Alhambra that dog owners can reach without entering the grounds.`,
+          es: `Este paseo público discurre junto al río Darro al pie de las murallas de la Alhambra y ofrece una de las vistas más espectaculares de España. Los perros con correa son bienvenidos a cualquier hora. Los bares de terraza del paseo admiten perros, y la vista de la Alhambra iluminada en una noche de verano es inolvidable. Es el punto más cercano a la Alhambra al que pueden acceder los propietarios de perros sin entrar en el recinto.`,
+        },
+      },
+      {
+        name: `Albaicín`,
+        emoji: '🕌',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien quartier mauresque de Grenade, classé au patrimoine mondial de l'UNESCO, déploie un labyrinthe de ruelles pavées, de carmens aux murs blancs et de miradors panoramiques. Entièrement public et librement praticable en laisse, il culmine au Mirador de San Nicolás avec sa vue emblématique sur l'Alhambra. Les bars et restaurants de quartier suivent les règles andalouses d'accueil des chiens en terrasse. Évitez les après-midi d'été, quand les ruelles étroites piègent la chaleur.`,
+          en: `Granada's ancient Moorish quarter, a UNESCO World Heritage Site, unfolds as a labyrinth of cobbled lanes, whitewashed carmen walls, and panoramic miradors. Entirely public and freely walkable on lead, it culminates at the Mirador de San Nicolás with its iconic Alhambra view. Local bars and restaurants follow Andalusia's terrace welcome rules for dogs. Avoid summer afternoons when the narrow lanes trap heat.`,
+          es: `El antiguo barrio moro de Granada, Patrimonio de la Humanidad de la UNESCO, se despliega como un laberinto de callejuelas empedradas, cármenes de paredes encaladas y miradores panorámicos. Totalmente público y libremente transitable con correa, culmina en el Mirador de San Nicolás con su icónica vista de la Alhambra. Los bares y restaurantes del barrio siguen las normas andaluzas de acogida de perros en terraza. Evita las tardes de verano cuando las callejuelas estrechas retienen el calor.`,
+        },
+      },
+      {
+        name: `Parque García Lorca`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc urbain de Grenade, 70 000 m² de pelouses ombragées, d'allées et d'un étang aux canards, s'étend entre l'Avenida de Neptuno et l'Avenida de Arabial. Les chiens doivent être en laisse, mais l'espace et le couvert végétal en font l'un des refuges les plus frais de la ville lors des canicules. Baptisé en hommage au poète Federico García Lorca, né dans la province de Grenade.`,
+          en: `Granada's largest urban park, 70,000 m² of shaded lawns, walking paths, and a duck pond, stretches between Avenida de Neptuno and Avenida de Arabial. Dogs must be kept on lead, but the size and tree canopy make it one of the coolest retreats in the city during heatwaves. Named after the poet Federico García Lorca, who was born in the Granada province.`,
+          es: `El parque urbano más grande de Granada, con 70.000 m² de praderas sombreadas, senderos y un estanque de patos, se extiende entre la Avenida de Neptuno y la Avenida de Arabial. Los perros deben ir con correa, pero la extensión y la copa de los árboles lo convierten en uno de los refugios más frescos de la ciudad durante las olas de calor. Lleva el nombre del poeta Federico García Lorca, nacido en la provincia de Granada.`,
+        },
+      },
+      {
+        name: `Parque Ana Orantes`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des meilleurs pipicanes (enclos canins clôturés) de Grenade, entièrement délimité par une clôture, équipé d'obstacles d'agility, d'une fontaine à eau et d'un éclairage nocturne. Populaire auprès des habitants des quartiers d'Arabial et du Zaidín. Les chiens de toutes tailles peuvent courir sans laisse. Idéal tôt le matin ou après 20h en été.`,
+          en: `One of Granada's best pipicanes (fenced dog enclosures), fully enclosed with agility obstacles, a drinking fountain, and night lighting. Popular with residents of the Arabial and Zaidín neighbourhoods. Dogs of all sizes can run off-lead. Ideal in early morning or after 20:00 in summer.`,
+          es: `Uno de los mejores pipicanes (recintos caninos vallados) de Granada, totalmente cercado con obstáculos de agility, fuente de agua e iluminación nocturna. Popular entre los vecinos de los barrios de Arabial y Zaidín. Los perros de todos los tamaños pueden correr sin correa. Ideal a primera hora de la mañana o después de las 20:00 en verano.`,
+        },
+      },
+      {
+        name: `Playa El Cable`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage officielle désignée pour les chiens sur la côte grenading, à Motril, à environ 65 km au sud par l'A-44. Connue sous le nom de PlayaCan, elle offre 400 mètres de galets et de sable où les chiens peuvent courir sans laisse toute l'année, y compris en été quand la plupart des plages espagnoles leur sont interdites. L'eau est claire et chaude de juin à octobre.`,
+          en: `The officially designated dog beach on the Granada coast, in Motril, approximately 65 km south via the A-44. Known as PlayaCan, it offers 400 metres of shingle and sand where dogs can run off-lead year-round, including summer when most Spanish beaches are off-limits. The water is clear and warm from June to October.`,
+          es: `La playa oficialmente designada para perros en la costa granadina, en Motril, a unos 65 km al sur por la A-44. Conocida como PlayaCan, ofrece 400 metros de grava y arena donde los perros pueden correr sin correa durante todo el año, incluso en verano cuando la mayoría de las playas españolas están prohibidas. El agua es clara y cálida de junio a octubre.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chaussées de Grenade peuvent atteindre 60°C en plein soleil en juillet–août. Testez l'asphalte avec votre main : si vous ne pouvez pas la maintenir 5 secondes, ne faites pas marcher votre chien. Promenez-vous uniquement avant 9h ou après 20h.`,
+        `L'Alhambra n'autorise pas les chiens à l'intérieur (sauf chiens guides accrédités). Planifiez la visite les jours où votre chien peut rester à l'hôtel, ou réservez un pet-sitter via Rover ou Pawshake pour les 2–3 heures de visite.`,
+        `Le chocolat est omniprésent à Grenade — churros con chocolate, confiseries, emballages au sol sur les terrasses. Restez vigilant à ras du sol autour de Plaza Nueva et Calle Elvira. En cas d'ingestion, appelez immédiatement CV Granada : 640 80 52 14.`,
+        `La plupart des hôtels acceptent chiens et chats, mais confirmez toujours au moment de la réservation et demandez un étage bas ou un accès jardin pour éviter les trajet longs en ascenseur par temps chaud.`,
+        `Les chiens sont admis en laisse sur tous les sentiers du Bosque de la Alhambra — la forêt de chênes verts qui encercle le site — même si l'intérieur des palais leur est interdit. C'est une promenade magnifique et fraîche à l'aube.`,
+      ],
+      en: [
+        `Granada's pavements can reach 60°C in direct afternoon sun in July–August. Test the asphalt with your hand: if you cannot hold it there for 5 seconds, do not walk your dog. Walk only before 09:00 or after 20:00.`,
+        `The Alhambra interior does not allow dogs (except accredited guide dogs). Plan your visit for a day when your dog can stay at the hotel, or book a pet-sitter via Rover or Pawshake for the 2–3 hours of the interior visit.`,
+        `Chocolate is everywhere in Granada — churros con chocolate, sweet shops, wrappers on café terrace floors. Stay vigilant at ground level around Plaza Nueva and Calle Elvira. If your dog ingests chocolate, call CV Granada immediately: 640 80 52 14.`,
+        `Most hotels accept dogs and cats, but always confirm at booking and ask for a low floor or garden access to avoid long lift rides in the heat.`,
+        `Dogs on leads are permitted on all the Bosque de la Alhambra trails — the holm oak forest encircling the Alhambra grounds — even though the palaces themselves are off-limits. It is a beautiful, shaded early-morning walk.`,
+      ],
+      es: [
+        `Las aceras de Granada pueden alcanzar los 60°C al sol directo en julio–agosto. Prueba el asfalto con tu mano: si no puedes mantenerla 5 segundos, no hagas caminar a tu perro. Pasea solo antes de las 9:00 o después de las 20:00.`,
+        `El interior de la Alhambra no admite perros (excepto perros guía acreditados). Planifica la visita para un día en que tu perro pueda quedarse en el hotel, o reserva un cuidador a través de Rover o Pawshake para las 2–3 horas de visita interior.`,
+        `El chocolate está en todas partes en Granada — churros con chocolate, dulcerías, envoltorios en el suelo de las terrazas. Mantén la atención a ras del suelo en Plaza Nueva y Calle Elvira. Si tu perro ingiere chocolate, llama inmediatamente a CV Granada: 640 80 52 14.`,
+        `La mayoría de los hoteles admiten perros y gatos, pero confirma siempre en el momento de la reserva y pide un piso bajo o acceso al jardín para evitar largos trayectos en ascensor con el calor.`,
+        `Los perros con correa están permitidos en todos los senderos del Bosque de la Alhambra — el encinar que rodea el recinto — aunque los palacios en sí estén prohibidos. Es un paseo hermoso y sombreado a primera hora de la mañana.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires 24h/24 : CV Granada, tél. 640 80 52 14 (cvgranada.com). Enregistrez ce numéro avant votre départ.`,
+        `Les chiens doivent être micropucés et enregistrés au registre espagnol (IACAM/Reca). Le passeport européen est exigé pour entrer en Espagne depuis l'UE ; depuis le Royaume-Uni, un Animal Health Certificate (AHC) est nécessaire depuis le Brexit.`,
+        `Transports en commun : les petits animaux en caisse fermée sont admis dans les bus Transportes Rober. Les grands chiens ne sont pas autorisés dans les bus — prenez un taxi, qui accepte généralement les chiens sur la banquette arrière.`,
+        `La plage pour chiens la plus proche est Playa El Cable à Motril, à 65 km au sud par l'A-44. Accessible en voiture en environ 50 minutes. Partez avant 9h en été.`,
+        `Les zones clôturées hors laisse (pipicanes) les mieux équipées sont le Parque Ana Orantes (quartier Arabial) et le Parque para Perros La Virgencica (Zaidín). Ils sont gratuits et ouverts tous les jours de 8h à 22h.`,
+      ],
+      en: [
+        `24-hour emergency vet: CV Granada, tel. 640 80 52 14 (cvgranada.com). Save this number before you travel.`,
+        `Dogs must be microchipped and registered in the Spanish census (IACAM/Reca). EU pet passports are required to enter Spain from the EU; from the UK, an Animal Health Certificate (AHC) is required post-Brexit.`,
+        `Public transport: small pets in closed carriers are permitted on Transportes Rober buses. Large dogs are not allowed on buses — take a taxi, which generally accepts dogs on the back seat.`,
+        `The nearest dog beach is Playa El Cable in Motril, 65 km south via the A-44. Driveable in about 50 minutes. Leave before 09:00 in summer.`,
+        `The best equipped off-leash enclosures (pipicanes) are Parque Ana Orantes (Arabial district) and Parque para Perros La Virgencica (Zaidín). Both are free and open daily 08:00–22:00.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24 horas: CV Granada, tel. 640 80 52 14 (cvgranada.com). Guarda este número antes de viajar.`,
+        `Los perros deben estar microchipados e inscritos en el censo español (IACAM/Reca). El pasaporte europeo para animales es necesario para entrar en España desde la UE; desde el Reino Unido, se necesita un Animal Health Certificate (AHC) desde el Brexit.`,
+        `Transporte público: las mascotas pequeñas en transportines cerrados están permitidas en los autobuses de Transportes Rober. Los perros grandes no están permitidos en los autobuses — toma un taxi, que generalmente acepta perros en el asiento trasero.`,
+        `La playa para perros más cercana es Playa El Cable en Motril, a 65 km al sur por la A-44. Se llega en coche en unos 50 minutos. Sal antes de las 9:00 en verano.`,
+        `Los mejores recintos sin correa (pipicanes) son el Parque Ana Orantes (barrio de Arabial) y el Parque para Perros La Virgencica (Zaidín). Ambos son gratuitos y abren todos los días de 8:00 a 22:00.`,
+      ],
+    },
+  },
+
   helsinki: {
     history: {
       fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,

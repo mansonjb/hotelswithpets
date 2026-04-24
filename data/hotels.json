@@ -3998,6 +3998,125 @@
     "slug": "motel-one-hamburg-altona"
   },
   {
+    "id": "hannover-1",
+    "name": "Courtyard by Marriott Hannover Maschsee",
+    "destinationSlug": "hannover",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2000,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/courtyard-hannover-maschsee.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed (dogs and cats) for €25 per stay. Marriott chain pet-friendly. Directly at the Maschsee.",
+    "highlights": [
+      "Directly on the Maschsee north shore",
+      "Marriott pet-friendly chain",
+      "Lake views"
+    ],
+    "slug": "courtyard-by-marriott-hannover-maschsee"
+  },
+  {
+    "id": "hannover-2",
+    "name": "Kastens Hotel Luisenhof",
+    "destinationSlug": "hannover",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1500,
+    "priceFrom": 185,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/kastenshotelluisenhof.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for €20 per night. Historic 1856 property. All sizes accepted.",
+    "highlights": [
+      "Historic 1856 luxury hotel",
+      "Opposite Hauptbahnhof",
+      "Fine dining restaurant"
+    ],
+    "slug": "kastens-hotel-luisenhof"
+  },
+  {
+    "id": "hannover-3",
+    "name": "Scandic Hannover",
+    "destinationSlug": "hannover",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2700,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/scandichannover.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for €20 per stay. Pet beds on request. Dogs and cats welcome.",
+    "highlights": [
+      "Central Goseriede location",
+      "Pet beds on request",
+      "Near Marktkirche"
+    ],
+    "slug": "scandic-hannover"
+  },
+  {
+    "id": "hannover-4",
+    "name": "Motel One Hannover",
+    "destinationSlug": "hannover",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 3100,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/motel-one-hannover.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for €10 per night. Max 1 pet per room. All sizes welcome.",
+    "highlights": [
+      "Budget design chain",
+      "Walking distance to Altstadt",
+      "Near Kröpcke metro"
+    ],
+    "slug": "motel-one-hannover"
+  },
+  {
+    "id": "hannover-5",
+    "name": "H4 Hotel Hannover Messe",
+    "destinationSlug": "hannover",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3500,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/h4-hannover-messe.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for €15 per night. Dogs and cats accepted. All sizes.",
+    "highlights": [
+      "Near Messe fairgrounds",
+      "Stadtbahn Line 8 direct access",
+      "Breakfast included"
+    ],
+    "slug": "h4-hotel-hannover-messe"
+  },
+  {
     "id": "helsinki-1",
     "name": "Klaus K Hotel Helsinki",
     "destinationSlug": "helsinki",

@@ -1610,6 +1610,80 @@
     }
   },
   {
+    "slug": "hannover",
+    "name": "Hannover",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/hannover.jpg",
+    "intro": "Lower Saxony's capital — Germany's largest urban forest (Eilenriede, 640 ha), the Maschsee lake with its dog swim zone, the baroque Herrenhäuser Gärten, and a world-class veterinary university hospital. One of the calmest German big-city bases for dog owners.",
+    "lat": 52.3759,
+    "lng": 9.732,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, occasional snow",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, long days",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm, breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm, occasional heatwave",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "helsinki",
     "name": "Helsinki",
     "country": "Finland",

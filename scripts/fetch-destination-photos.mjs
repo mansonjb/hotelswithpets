@@ -40,6 +40,7 @@ const TARGETS = [
   { slug: 'granada', query: 'Alhambra Granada Nasrid Palace aerial view' },
   { slug: 'hamburg', query: 'Speicherstadt Hamburg warehouse district canals' },
   { slug: 'turin',   query: 'Mole Antonelliana Turin Piazza Castello sunset' },
+  { slug: 'hannover', query: 'Neues Rathaus Hannover Maschsee reflection' },
 ]
 
 async function searchPhoto(query, apiKey) {

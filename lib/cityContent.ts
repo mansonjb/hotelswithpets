@@ -2449,6 +2449,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  hannover: {
+    history: {
+      fr: `Hanovre, fondée au XIIIe siècle sur la rive nord de la Leine, connut son heure de gloire en 1714 lorsque la maison de Hanovre hérita du trône britannique. Aujourd'hui capitale de Basse-Saxe et foire commerciale internationale (Hannover Messe), la ville de 550 000 habitants est l'une des plus vertes d'Allemagne : la forêt urbaine de l'Eilenriede (640 hectares, soit 2,5 fois Central Park) étire ses chênes et ses hêtres jusqu'au cœur de la ville, les jardins baroques d'Herrenhausen couronnent l'élégance royale, et le Maschsee artificiel offre 6 km de berges accessibles. Pour les propriétaires de chiens, Hanovre est un choix pragmatique et accessible : 26 Hundefreilaufflächen officielles, une Hundebadestelle intra-urbaine, un hôpital universitaire vétérinaire parmi les meilleurs d'Europe (TiHo), et une culture calme où le chien bien éduqué n'est jamais un sujet de débat.`,
+      en: `Hannover, founded in the 13th century on the north bank of the Leine, had its greatest moment in 1714 when the House of Hanover inherited the British throne. Today the capital of Lower Saxony and a major trade-fair city (Hannover Messe), it is one of Germany's greenest, with 550,000 residents: the Eilenriede urban forest (640 hectares, 2.5× Central Park) stretches its oaks and beeches into the heart of the city, the baroque Herrenhäuser Gärten crown royal elegance, and the artificial Maschsee offers 6 km of accessible shoreline. For dog owners, Hannover is a pragmatic, accessible choice: 26 official Hundefreilaufflächen, an in-city Hundebadestelle, a veterinary teaching hospital (TiHo) among Europe's best, and a calm culture where the well-behaved dog is never a subject of debate.`,
+      es: `Hannover, fundada en el siglo XIII en la orilla norte del Leine, vivió su momento de gloria en 1714 cuando la Casa de Hanover heredó el trono británico. Hoy capital de Baja Sajonia y gran ciudad ferial (Hannover Messe), es una de las más verdes de Alemania, con 550.000 habitantes: el bosque urbano Eilenriede (640 hectáreas, 2,5 veces Central Park) extiende sus robles y hayas hasta el corazón de la ciudad, los jardines barrocos de Herrenhausen coronan la elegancia real, y el artificial Maschsee ofrece 6 km de orilla accesible. Para los dueños de perros, Hannover es una elección pragmática y accesible: 26 Hundefreilaufflächen oficiales, una Hundebadestelle intraurbana, un hospital universitario veterinario (TiHo) entre los mejores de Europa, y una cultura tranquila donde el perro bien educado nunca es motivo de debate.`,
+    },
+    sights: [
+      {
+        name: 'Eilenriede',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grande forêt urbaine d'Allemagne avec ses 640 hectares (2,5 fois Central Park). Trois Hundefreilaufflächen désignées et 80 km de sentiers balisés.`,
+          en: `Germany's largest urban forest at 640 hectares (2.5× Central Park). Three designated Hundefreilaufflächen and 80 km of marked trails.`,
+          es: `El mayor bosque urbano de Alemania con 640 hectáreas (2,5 veces Central Park). Tres Hundefreilaufflächen designadas y 80 km de senderos balizados.`,
+        },
+      },
+      {
+        name: 'Maschsee',
+        emoji: '🦢',
+        petFriendly: true,
+        desc: {
+          fr: `Lac artificiel de 78 hectares avec boucle de marche en laisse de 6 km et Hundebadestelle désignée au sud où les chiens peuvent nager sans laisse.`,
+          en: `A 78-hectare artificial lake with a 6 km leashed walking loop and a designated Hundebadestelle at the south end where dogs may swim off-leash.`,
+          es: `Lago artificial de 78 hectáreas con circuito de 6 km con correa y una Hundebadestelle designada al sur donde los perros pueden bañarse sin correa.`,
+        },
+      },
+      {
+        name: 'Neues Rathaus',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Hôtel de ville de 1913 sur un petit lac, avec vue panoramique depuis la coupole courbée. Maschpark et terrasse extérieure accessibles en laisse.`,
+          en: `A 1913 city hall on a small lake, with panoramic views from its curved dome. The Maschpark and outdoor terrace are leash-accessible.`,
+          es: `Ayuntamiento de 1913 sobre un pequeño lago, con vistas panorámicas desde su cúpula curva. Maschpark y terraza exterior accesibles con correa.`,
+        },
+      },
+      {
+        name: 'Georgengarten',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Partie gratuite des Herrenhäuser Gärten (47 hectares), avec la célèbre allée de tilleuls Herrenhäuser Allee de 2 km. Chiens en laisse bienvenus.`,
+          en: `The free section of the Herrenhäuser Gärten (47 hectares), featuring the famous 2 km Herrenhäuser Allee lime-tree avenue. Leashed dogs welcome.`,
+          es: `La sección gratuita de los Herrenhäuser Gärten (47 hectáreas), con la famosa alameda Herrenhäuser Allee de 2 km. Perros con correa bienvenidos.`,
+        },
+      },
+      {
+        name: 'Altstadt',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Cœur historique reconstruit autour de la Marktkirche, avec maisons à colombages, la Kramerstraße pavée et la Ballhofplatz — tout piétonnier et accessible.`,
+          en: `The reconstructed historic core around the Marktkirche, with half-timbered houses, the cobbled Kramerstraße and the Ballhofplatz — all pedestrianised and leash-accessible.`,
+          es: `El núcleo histórico reconstruido en torno a la Marktkirche, con casas entramadas, la empedrada Kramerstraße y la Ballhofplatz — todo peatonal y accesible con correa.`,
+        },
+      },
+      {
+        name: 'Leine Riverside',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade en laisse de 5 km le long des deux rives de la Leine, passant par la Leineinsel. Ombragée, plate, multiples cafés dog-friendly.`,
+          en: `A 5 km leashed walk along both banks of the Leine, crossing the Leineinsel park. Shaded, flat, multiple dog-friendly cafés on the way.`,
+          es: `Paseo de 5 km con correa por ambas orillas del Leine, cruzando el parque Leineinsel. Sombreado, llano, varios cafés dog-friendly.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Le réseau üstra (Stadtbahn, bus) accepte les petits chiens en cage gratuitement ; les grands chiens avec Kinderkarte (billet enfant).',
+        'Laisse obligatoire hors des 26 Hundefreilaufflächen officielles — amendes à partir de 100 €.',
+        'Le Maschsee n\'autorise la baignade canine qu\'à la Hundebadestelle désignée au sud ; ailleurs, amende de 50 € en été.',
+        'Cliniques d\'urgence 24h/24 : TiHo (0511 9536202, hôpital universitaire) et Walleser (0511 282255, centrale privée).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler) : permis spécial, muselière obligatoire dans tous les espaces publics.',
+      ],
+      en: [
+        'The üstra network (Stadtbahn, bus) accepts small dogs in carriers for free; larger dogs need a Kinderkarte (child-rate ticket).',
+        'Leash mandatory outside the 26 official Hundefreilaufflächen — fines from €100.',
+        'The Maschsee only permits dog swimming at the designated Hundebadestelle in the south; elsewhere €50 fines in summer.',
+        '24/7 emergency clinics: TiHo (0511 9536202, university hospital) and Walleser (0511 282255, central private).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): special permit, muzzle mandatory in all public spaces.',
+      ],
+      es: [
+        'La red üstra (Stadtbahn, bus) admite perros pequeños en transportín gratis; los más grandes necesitan una Kinderkarte (billete infantil).',
+        'Correa obligatoria fuera de las 26 Hundefreilaufflächen oficiales — multas desde 100 €.',
+        'El Maschsee solo permite el baño canino en la Hundebadestelle designada al sur; en otros puntos, multa de 50 € en verano.',
+        'Clínicas de urgencias 24/7: TiHo (0511 9536202, hospital universitario) y Walleser (0511 282255, céntrica privada).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): permiso especial, bozal obligatorio en todos los espacios públicos.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés par tout hôtel pet-friendly à l\'enregistrement.',
+        'Grand Jardin des Herrenhäuser Gärten (entrée payante) et Berggarten botanique interdisent les chiens — Georgengarten gratuit dog-friendly.',
+        'Le Neues Rathaus interdit les chiens dans son ascenseur vitré iconique mais autorise le Maschpark et la terrasse extérieure.',
+        'Erlebnis-Zoo Hannover : l\'un des rares grands zoos européens admettant les chiens en laisse courte.',
+        'Aéroport Hannover (HAJ) : aires de détente animale aux Terminals A/B/C ; animaux en cabine sur vols européens avec réservation.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required by every pet-friendly hotel at check-in.',
+        'Große Garten Herrenhausen (paid entry) and the Berggarten botanical garden prohibit dogs — only the free Georgengarten is dog-friendly.',
+        'The Neues Rathaus bans dogs from its iconic inclined lift but the Maschpark and outdoor terrace are fully accessible.',
+        'Erlebnis-Zoo Hannover: one of the few major European zoos that accepts leashed dogs.',
+        'Hannover Airport (HAJ): pet relief areas at Terminals A/B/C; cabin pets on European flights with prior booking.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly en el check-in.',
+        'Gran Jardín de Herrenhausen (entrada de pago) y jardín botánico Berggarten prohíben los perros — solo el Georgengarten gratuito es dog-friendly.',
+        'El Neues Rathaus prohíbe los perros en su icónico ascensor acristalado, pero el Maschpark y la terraza exterior son totalmente accesibles.',
+        'Erlebnis-Zoo Hannover: uno de los pocos grandes zoos europeos que admite perros con correa.',
+        'Aeropuerto de Hannover (HAJ): áreas de esparcimiento animal en las Terminales A/B/C; mascotas en cabina en vuelos europeos con reserva previa.',
+      ],
+    },
+  },
+
   helsinki: {
     history: {
       fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,

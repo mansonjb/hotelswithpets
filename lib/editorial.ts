@@ -131,6 +131,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Außenalster 7 km loop, the Elbstrand at Övelgönne, and the 205-hectare Altonaer Volkspark',
       area: 'the Alster lake shores, the Schanzenviertel, and the Elbe waterfront in Övelgönne',
     },
+    hannover: {
+      personality: 'Lower Saxony\'s calm capital — home to Germany\'s largest urban forest (Eilenriede, 640 ha, bigger than Central Park), the Maschsee lake with its dog swim zone, and a world-class veterinary university hospital',
+      highlight: 'the 640-hectare Eilenriede forest, the Maschsee 6 km loop and Hundebadestelle, and the baroque Georgengarten avenue',
+      area: 'List, the Maschsee shores, and the Altstadt around the Marktkirche',
+    },
     helsinki: {
       personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
@@ -434,6 +439,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la boucle de 7 km autour de l\'Außenalster, l\'Elbstrand à Övelgönne et l\'Altonaer Volkspark de 205 hectares',
       area: 'les rives de l\'Alster, le Schanzenviertel et le front de mer de l\'Elbe à Övelgönne',
     },
+    hannover: {
+      personality: 'capitale tranquille de Basse-Saxe — la plus grande forêt urbaine d\'Allemagne (Eilenriede, 640 ha, plus grande que Central Park), le lac Maschsee avec sa zone de baignade canine, et un hôpital universitaire vétérinaire de niveau mondial',
+      highlight: 'les 640 hectares de la forêt de l\'Eilenriede, la boucle de 6 km du Maschsee et sa Hundebadestelle, et l\'allée baroque du Georgengarten',
+      area: 'List, les rives du Maschsee et l\'Altstadt autour de la Marktkirche',
+    },
     helsinki: {
       personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
@@ -735,6 +745,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la gran ciudad más verde de Alemania con 56 Hundeauslaufzonen valladas, un circuito de 7 km alrededor del lago Alster, las famosas playas urbanas del Elbstrand, y una cultura portuaria donde los perros cogen ferris y duermen en las terrazas de los cafés',
       highlight: 'el circuito de 7 km alrededor del Außenalster, el Elbstrand en Övelgönne y el Altonaer Volkspark de 205 hectáreas',
       area: 'las orillas del Alster, el Schanzenviertel y el paseo marítimo del Elba en Övelgönne',
+    },
+    hannover: {
+      personality: 'tranquila capital de Baja Sajonia — el mayor bosque urbano de Alemania (Eilenriede, 640 ha, más grande que Central Park), el lago Maschsee con su zona de baño canino, y un hospital universitario veterinario de primer nivel mundial',
+      highlight: 'las 640 hectáreas del bosque Eilenriede, el circuito de 6 km del Maschsee y su Hundebadestelle, y la avenida barroca del Georgengarten',
+      area: 'List, las orillas del Maschsee y la Altstadt alrededor de la Marktkirche',
     },
     helsinki: {
       personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',

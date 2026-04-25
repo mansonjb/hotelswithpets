@@ -52,6 +52,17 @@ const NAMES_FR: Record<string, string> = {
   ljubljana: 'Ljubljana',
   thessaloniki: 'Thessalonique',
   bern: 'Berne',
+  london: 'Londres',
+  hamburg: 'Hambourg',
+  hannover: 'Hanovre',
+  frankfurt: 'Francfort',
+  turin: 'Turin',
+  verona: 'Vérone',
+  bologna: 'Bologne',
+  prague: 'Prague',
+  marseille: 'Marseille',
+  malaga: 'Malaga',
+  'san-sebastian': 'Saint-Sébastien',
 }
 
 const NAMES_ES: Record<string, string> = {
@@ -89,6 +100,15 @@ const NAMES_ES: Record<string, string> = {
   thessaloniki: 'Tesalónica',
   bern: 'Berna',
   reykjavik: 'Reikiavik',
+  london: 'Londres',
+  hamburg: 'Hamburgo',
+  frankfurt: 'Fráncfort',
+  turin: 'Turín',
+  verona: 'Verona',
+  bologna: 'Bolonia',
+  prague: 'Praga',
+  malaga: 'Málaga',
+  'san-sebastian': 'San Sebastián',
 }
 
 export function getLocalizedCityName(

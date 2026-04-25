@@ -9,6 +9,8 @@ import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -53,16 +55,20 @@ export async function generateMetadata({
 
   // Locale-aware title for cat name
   const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+  const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
+  const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
+  const countryFr = getLocalizedCountryName(dest.country, 'fr')
+  const countryEs = getLocalizedCountryName(dest.country, 'es')
 
   const titles: Record<string, string> = {
-    en: `Best ${cat.name} Hotels in ${dest.name} (${year}): Top ${comboHotels.length} Picks`,
-    fr: `Meilleurs hôtels ${catName} à ${dest.name} (${year}): Top ${comboHotels.length}`,
-    es: `Mejores hoteles ${catName} en ${dest.name} (${year}): Top ${comboHotels.length}`,
+    en: `Hotels in ${dest.name} — ${cat.name} (${year}): Top ${comboHotels.length} Picks`,
+    fr: `Hôtels à ${cityFr} — ${catName} (${year}) : Top ${comboHotels.length}`,
+    es: `Hoteles en ${cityEs} — ${catName} (${year}): Top ${comboHotels.length}`,
   }
   const descriptions: Record<string, string> = {
-    en: `Find the ${comboHotels.length} best ${cat.name.toLowerCase()} hotels in ${dest.name}, ${dest.country}. Handpicked, verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
-    fr: `Découvrez les ${comboHotels.length} meilleurs hôtels ${catName.toLowerCase()} à ${dest.name}, ${dest.country}. Sélectionnés, politiques vérifiées, dès €${minPrice}/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
-    es: `Encuentra los ${comboHotels.length} mejores hoteles ${catName.toLowerCase()} en ${dest.name}, ${dest.country}. Seleccionados, políticas verificadas, desde €${minPrice}/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
+    en: `${comboHotels.length} handpicked pet-friendly hotels in ${dest.name}, ${dest.country} — ${cat.name.toLowerCase()}. Verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
+    fr: `${comboHotels.length} hôtels pet-friendly sélectionnés à ${cityFr}, ${countryFr} — ${catName.toLowerCase()}. Politiques vérifiées, dès ${minPrice} €/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
+    es: `${comboHotels.length} hoteles pet-friendly seleccionados en ${cityEs}, ${countryEs} — ${catName.toLowerCase()}. Políticas verificadas, desde ${minPrice} €/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
   }
 
   const title = titles[locale] ?? titles.en
@@ -202,6 +208,8 @@ export default async function ComboPage({
   const dict = await getDictionary(locale as Locale)
   const p = dict.pages.combo
   const catName = getCategoryName(cat, locale as Locale)
+  const localizedDest = getLocalizedCityName(dest.slug, dest.name, locale)
+  const localizedCountry = getLocalizedCountryName(dest.country, locale)
   const year = new Date().getFullYear()
 
   const comboHotels = hotels.filter(
@@ -274,7 +282,7 @@ export default async function ComboPage({
                 href={`/${locale}/destinations/${dest.slug}`}
                 className="hover:text-blue-600 transition-colors"
               >
-                {dest.name}
+                {localizedDest}
               </Link>
             </li>
             <li className="text-gray-300">/</li>
@@ -301,11 +309,11 @@ export default async function ComboPage({
                   <span className="text-4xl lg:text-6xl filter drop-shadow-lg">{dest.flag}</span>
                 </div>
                 <h1 className="text-3xl lg:text-5xl font-extrabold leading-[1.1] mb-3 tracking-tight">
-                  {t(p.heroTitle, { cat: catName, dest: dest.name })}
+                  {t(p.heroTitle, { cat: catName, dest: localizedDest })}
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
-                  {comboHotels.length} {p.handpicked} · {dest.country} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB', { month: 'long', year: 'numeric' })}
+                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB', { month: 'long', year: 'numeric' })}
                 </p>
               </div>
 
@@ -378,7 +386,7 @@ export default async function ComboPage({
               <section aria-label={`Why ${dest.name}`} className="mb-10">
                 <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-indigo-700 p-6 lg:p-8 text-white shadow-lg">
                   <h2 className="text-xl font-extrabold mb-5 leading-tight">
-                    {t(p.whyTitle, { dest: dest.name, cat: catName })}
+                    {t(p.whyTitle, { dest: localizedDest, cat: catName })}
                   </h2>
                   <ul className="flex flex-col gap-3">
                     {why.bullets.map((bullet, i) => (
@@ -401,7 +409,7 @@ export default async function ComboPage({
               {/* ④ Hotel ranked list */}
               <section aria-label="Hotel list" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
-                  {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: dest.name })}
+                  {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: localizedDest })}
                 </h2>
 
                 {comboHotels.length > 0 ? (
@@ -447,7 +455,7 @@ export default async function ComboPage({
               {/* ⑥ Tips section */}
               <section aria-label="Selection guide" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
-                  💡 {t(p.tipsTitle, { cat: catName.toLowerCase(), dest: dest.name })}
+                  💡 {t(p.tipsTitle, { cat: catName.toLowerCase(), dest: localizedDest })}
                 </h2>
                 <p className="text-gray-500 text-sm mb-8">{p.tipsSubtitle}</p>
                 <ol className="flex flex-col gap-4">
@@ -581,7 +589,7 @@ export default async function ComboPage({
                 {relatedByDest.length > 0 && (
                   <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
                     <h3 className="font-bold text-gray-900 text-sm mb-4">
-                      {t(p.moreInDest, { dest: dest.name })}
+                      {t(p.moreInDest, { dest: localizedDest })}
                     </h3>
                     <ul className="flex flex-col gap-2">
                       {relatedByDest.map((c) => (
@@ -591,7 +599,7 @@ export default async function ComboPage({
                             className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors py-1"
                           >
                             <span>{c.emoji}</span>
-                            <span>{getCategoryName(c, locale as Locale)} {t(p.inCity, { dest: dest.name })}</span>
+                            <span>{getCategoryName(c, locale as Locale)} {t(p.inCity, { dest: localizedDest })}</span>
                           </Link>
                         </li>
                       ))}
@@ -646,7 +654,7 @@ export default async function ComboPage({
                     <p className="text-white font-bold text-sm leading-tight">
                       {getCategoryName(c, locale as Locale)}
                     </p>
-                    <p className="text-white/70 text-xs mt-0.5">{dest.name}</p>
+                    <p className="text-white/70 text-xs mt-0.5">{localizedDest}</p>
                   </div>
                 </Link>
               ))}
@@ -660,7 +668,7 @@ export default async function ComboPage({
                   <div className="relative">
                     <span className="text-2xl block mb-2">{d.flag}</span>
                     <p className="text-white font-bold text-sm leading-tight">{catName}</p>
-                    <p className="text-white/70 text-xs mt-0.5">{d.name}</p>
+                    <p className="text-white/70 text-xs mt-0.5">{getLocalizedCityName(d.slug, d.name, locale)}</p>
                   </div>
                 </Link>
               ))}

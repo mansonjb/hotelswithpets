@@ -6,6 +6,8 @@ import categories from '@/data/categories.json'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 export async function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }))
@@ -20,8 +22,8 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
   const titleTemplates: Record<string, string> = {
     en: `${catName} Hotels in Europe | HotelsWithPets.com`,
-    fr: `Hôtels ${catName} en Europe | HotelsWithPets.com`,
-    es: `Hoteles ${catName} en Europa | HotelsWithPets.com`,
+    fr: `Hôtels en Europe — ${catName} | HotelsWithPets.com`,
+    es: `Hoteles en Europa — ${catName} | HotelsWithPets.com`,
   }
   const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
@@ -152,8 +154,8 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
                 <div className="absolute top-4 right-5 text-5xl opacity-20 select-none">{dest.flag}</div>
                 <div className="relative">
                   <span className="text-4xl block mb-2">{dest.flag}</span>
-                  <h3 className="text-white font-bold text-xl">{dest.name}</h3>
-                  <p className="text-white/70 text-sm">{dest.country}</p>
+                  <h3 className="text-white font-bold text-xl">{getLocalizedCityName(dest.slug, dest.name, locale)}</h3>
+                  <p className="text-white/70 text-sm">{getLocalizedCountryName(dest.country, locale)}</p>
                 </div>
                 <p className="relative text-white/80 text-sm font-semibold group-hover:text-white transition-colors">
                   {p.category.explore}

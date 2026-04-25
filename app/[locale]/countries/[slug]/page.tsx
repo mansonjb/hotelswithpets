@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
-import { getAllCountries, slugToCountry } from '@/lib/countries'
+import { getAllCountries, slugToCountry, getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import hotels from '@/data/hotels.json'
 import categories from '@/data/categories.json'
@@ -27,15 +27,17 @@ export async function generateMetadata({
   const countryName = slugToCountry(slug)
   if (!countryName) return {}
 
+  const countryFr = getLocalizedCountryName(countryName, 'fr')
+  const countryEs = getLocalizedCountryName(countryName, 'es')
   const titleTemplates: Record<string, string> = {
     en: `Pet-friendly hotels in ${countryName} | HotelsWithPets.com`,
-    fr: `Hôtels acceptant animaux en ${countryName} | HotelsWithPets.com`,
-    es: `Hoteles con mascotas en ${countryName} | HotelsWithPets.com`,
+    fr: `Hôtels pet-friendly en ${countryFr} | HotelsWithPets.com`,
+    es: `Hoteles pet-friendly en ${countryEs} | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `Discover the best pet-friendly hotels across ${countryName}. Browse cities, compare pet policies and book with confidence.`,
-    fr: `Découvrez les meilleurs hôtels acceptant animaux en ${countryName}. Comparez les villes et réservez.`,
-    es: `Descubre los mejores hoteles con mascotas en ${countryName}. Compara ciudades y reserva.`,
+    fr: `Découvrez les meilleurs hôtels pet-friendly en ${countryFr}. Comparez les villes, vérifiez les politiques animaux et réservez en confiance.`,
+    es: `Descubre los mejores hoteles pet-friendly en ${countryEs}. Compara ciudades, consulta las políticas de mascotas y reserva con confianza.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en
@@ -84,15 +86,16 @@ export default async function CountryPage({
     country.destinations.some((d) => d.slug === h.destinationSlug)
   ).length
 
+  const localizedCountry = getLocalizedCountryName(countryName, locale)
   const headings: Record<string, string> = {
     en: `Pet-friendly hotels in ${countryName}`,
-    fr: `Hôtels acceptant animaux en ${countryName}`,
-    es: `Hoteles con mascotas en ${countryName}`,
+    fr: `Hôtels pet-friendly en ${localizedCountry}`,
+    es: `Hoteles pet-friendly en ${localizedCountry}`,
   }
   const subtitles: Record<string, string> = {
     en: `${country.destinations.length} cities · ${totalHotels}+ pet-friendly hotels`,
-    fr: `${country.destinations.length} villes · ${totalHotels}+ hôtels acceptant animaux`,
-    es: `${country.destinations.length} ciudades · ${totalHotels}+ hoteles con mascotas`,
+    fr: `${country.destinations.length} villes · ${totalHotels}+ hôtels pet-friendly`,
+    es: `${country.destinations.length} ciudades · ${totalHotels}+ hoteles pet-friendly`,
   }
 
   const base = 'https://www.hotelswithpets.com'
@@ -187,7 +190,7 @@ export default async function CountryPage({
             <section className="bg-white border-t border-gray-100 py-10">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-lg font-extrabold text-gray-900 mb-5">
-                  {locale === 'fr' ? `Guides populaires en ${countryName}` : locale === 'es' ? `Guías populares en ${countryName}` : `Popular guides in ${countryName}`}
+                  {locale === 'fr' ? `Guides populaires en ${localizedCountry}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : `Popular guides in ${countryName}`}
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {guideLinks.map((g) => (

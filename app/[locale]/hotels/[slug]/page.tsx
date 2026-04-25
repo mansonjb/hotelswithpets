@@ -7,6 +7,7 @@ import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 type HotelData = typeof hotels[number] & { slug: string }
 
@@ -30,16 +31,18 @@ export async function generateMetadata({
 
   const cleanPetPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
   const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : 'free') : `€${hotel.petFee}`
+  const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
+  const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
 
   const titles: Record<string, string> = {
     en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`,
-    fr: `${hotel.name}: Hôtel acceptant les animaux à ${dest.name} | HotelsWithPets.com`,
-    es: `${hotel.name}: Hotel con mascotas en ${dest.name} | HotelsWithPets.com`,
+    fr: `${hotel.name} — Hôtel pet-friendly à ${cityFr} | HotelsWithPets.com`,
+    es: `${hotel.name} — Hotel pet-friendly en ${cityEs} | HotelsWithPets.com`,
   }
   const descriptions: Record<string, string> = {
     en: `${hotel.name} in ${dest.name}: pet policy: ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,
-    fr: `${hotel.name} à ${dest.name} : politique animaux: ${cleanPetPolicy.slice(0, 100)}. Dès €${hotel.priceFrom}/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
-    es: `${hotel.name} en ${dest.name}: política mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde €${hotel.priceFrom}/noche. Nota: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo mascota: ${petFeeStr}.`,
+    fr: `${hotel.name} à ${cityFr} — politique animaux : ${cleanPetPolicy.slice(0, 100)}. Dès ${hotel.priceFrom} €/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
+    es: `${hotel.name} en ${cityEs} — política de mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noche. Puntuación: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo por mascota: ${petFeeStr}.`,
   }
   const title = titles[locale] ?? titles.en
   const description = descriptions[locale] ?? descriptions.en
@@ -109,6 +112,7 @@ export default async function HotelPage({
   if (!dest) notFound()
 
   const dict = await getDictionary(locale as Locale)
+  const localizedDest = getLocalizedCityName(dest.slug, dest.name, locale)
 
   // Related hotels: same destination, exclude current, up to 3
   const relatedHotels = (hotels as HotelData[])
@@ -205,7 +209,7 @@ export default async function HotelPage({
             {/* Breadcrumb back link */}
             <div className="flex items-center gap-2 mb-6 text-sm">
               <Link href={`/${locale}/destinations/${dest.slug}`} className="text-blue-300 hover:text-white transition-colors">
-                {dest.flag} {dest.name}
+                {dest.flag} {localizedDest}
               </Link>
               <span className="text-white/30">/</span>
               <span className="text-white/60">{hotel.name}</span>
@@ -285,10 +289,10 @@ export default async function HotelPage({
                 <div>
                   <h2 className="text-lg font-bold text-gray-900 mb-3">
                     {locale === 'fr'
-                      ? `Parcourir les hôtels par type à ${dest.name}`
+                      ? `Parcourir les hôtels par type à ${localizedDest}`
                       : locale === 'es'
-                      ? `Explorar hoteles por tipo en ${dest.name}`
-                      : `Browse hotels by type in ${dest.name}`}
+                      ? `Explorar hoteles por tipo en ${localizedDest}`
+                      : `Browse hotels by type in ${localizedDest}`}
                   </h2>
                   <div className="flex flex-wrap gap-2">
                     {hotelCategories.map((cat) => (
@@ -298,7 +302,7 @@ export default async function HotelPage({
                         className="inline-flex items-center gap-1.5 text-sm bg-white border border-gray-200 text-gray-700 hover:border-blue-300 hover:text-blue-700 px-3 py-1.5 rounded-full shadow-sm transition-colors"
                       >
                         <span>{cat.emoji}</span>
-                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : 'in'} {dest.name}</span>
+                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : 'in'} {localizedDest}</span>
                       </Link>
                     ))}
                   </div>
@@ -310,10 +314,10 @@ export default async function HotelPage({
                 <div>
                   <h2 className="text-xl font-extrabold text-gray-900 mb-4">
                     {locale === 'fr'
-                      ? `Plus d'hôtels pet-friendly à ${dest.name}`
+                      ? `Plus d'hôtels pet-friendly à ${localizedDest}`
                       : locale === 'es'
-                      ? `Más hoteles pet-friendly en ${dest.name}`
-                      : `More pet-friendly hotels in ${dest.name}`}
+                      ? `Más hoteles pet-friendly en ${localizedDest}`
+                      : `More pet-friendly hotels in ${localizedDest}`}
                   </h2>
                   <div className="flex flex-col gap-4">
                     {relatedHotels.map((rel) => (
@@ -357,7 +361,7 @@ export default async function HotelPage({
                 href={`/${locale}/destinations/${dest.slug}`}
                 className="inline-flex items-center gap-2 text-sm text-blue-600 hover:text-blue-800 font-medium transition-colors"
               >
-                ← {locale === 'fr' ? `Retour à ${dest.name}` : locale === 'es' ? `Volver a ${dest.name}` : `Back to ${dest.name}`}
+                ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : `Back to ${localizedDest}`}
               </Link>
             </div>
 

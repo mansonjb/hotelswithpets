@@ -14,6 +14,7 @@ import { SITE_URL } from '@/lib/site'
 import { generateDestIntro, generateDestFaqs, destContextByLocale } from '@/lib/editorial'
 import cityContent from '@/lib/cityContent'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -34,15 +35,19 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const hotelCount = destHotels.length
 
   const year = new Date().getFullYear()
+  const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
+  const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
+  const countryFr = getLocalizedCountryName(dest.country, 'fr')
+  const countryEs = getLocalizedCountryName(dest.country, 'es')
   const titleTemplates: Record<string, string> = {
-    en: `${dest.name} Pet-Friendly Hotels (${year}): Verified Policies | HotelsWithPets.com`,
-    fr: `Hôtels avec animaux à ${dest.name} (${year}): Politiques vérifiées | HotelsWithPets.com`,
-    es: `Hoteles con mascotas en ${dest.name} (${year}): Políticas verificadas | HotelsWithPets.com`,
+    en: `Pet-Friendly Hotels in ${dest.name} (${year}): Verified Policies | HotelsWithPets.com`,
+    fr: `Hôtels pet-friendly à ${cityFr} (${year}) — Politiques vérifiées | HotelsWithPets.com`,
+    es: `Hoteles pet-friendly en ${cityEs} (${year}) — Políticas verificadas | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `Find ${hotelCount} pet-friendly hotels in ${dest.name}, ${dest.country}. Verified policies, from €${minPrice}/night. Compare and book on Booking.com.`,
-    fr: `Trouvez ${hotelCount} hôtels acceptant les animaux à ${dest.name}. Politiques vérifiées, dès €${minPrice}/nuit. Réservez sur Booking.com.`,
-    es: `Encuentra ${hotelCount} hoteles con mascotas en ${dest.name}. Políticas verificadas, desde €${minPrice}/noche. Reserva en Booking.com.`,
+    fr: `Découvrez ${hotelCount} hôtels acceptant les animaux à ${cityFr}, ${countryFr}. Politiques vérifiées, dès ${minPrice} €/nuit. Réservez sur Booking.com.`,
+    es: `Descubre ${hotelCount} hoteles que admiten mascotas en ${cityEs}, ${countryEs}. Políticas verificadas, desde ${minPrice} €/noche. Reserva en Booking.com.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en

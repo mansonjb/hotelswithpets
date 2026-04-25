@@ -292,6 +292,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
       area: 'Kalamaja, Telliskivi, and the Old Town',
     },
+    thessaloniki: {
+      personality: 'Greece\'s second city and one of its most dog-friendly — a 2,300-year-old port city where dogs are welcome on terraces, in the old town quarter, and along the 3.5 km Nea Paralia waterfront promenade',
+      highlight: 'the Nea Paralia waterfront park (with a dedicated dog area), the Seich Sou urban forest, and the Ano Poli Byzantine wall walks',
+      area: 'Ano Poli (Upper Town), Ladadika, and the Waterfront',
+    },
     toulouse: {
       personality: 'a laid-back southwestern city of pink brick and outdoor terraces where dogs blend into everyday life along the Garonne',
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
@@ -604,6 +609,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
       area: 'Kalamaja, Telliskivi et la Vieille Ville',
     },
+    thessaloniki: {
+      personality: 'la deuxième ville de Grèce et l\'une de ses plus dog-friendly — une cité portuaire de 2 300 ans où les chiens sont les bienvenus en terrasse, dans le vieux quartier et le long des 3,5 km de la promenade Nea Paralia',
+      highlight: 'le parc du front de mer Nea Paralia (avec une zone canine dédiée), la forêt urbaine de Seich Sou et les promenades byzantines d\'Ano Poli',
+      area: 'Ano Poli (Haute Ville), Ladadika et le Front de Mer',
+    },
     toulouse: {
       personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
@@ -915,6 +925,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas. Los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',
       highlight: 'el Parque Kadriorg, el sendero costero de Pirita y los paseos por la turbera de Pääsküla',
       area: 'Kalamaja, Telliskivi y el Casco Antiguo',
+    },
+    thessaloniki: {
+      personality: 'la segunda ciudad de Grecia y una de las más dog-friendly — una ciudad portuaria de 2.300 años donde los perros son bienvenidos en terrazas, en el barrio antiguo y a lo largo de los 3,5 km del paseo marítimo Nea Paralia',
+      highlight: 'el parque frente al mar Nea Paralia (con zona canina dedicada), el bosque urbano de Seich Sou y los paseos por las murallas bizantinas de Ano Poli',
+      area: 'Ano Poli (Ciudad Alta), Ladadika y el Frente Marítimo',
     },
     toulouse: {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',

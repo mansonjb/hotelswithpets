@@ -9773,6 +9773,131 @@
     "slug": "hilton-tallinn-park"
   },
   {
+    "id": "thessaloniki-1",
+    "name": "The Modernist Thessaloniki",
+    "destinationSlug": "thessaloniki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 1200,
+    "priceFrom": 206,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/the-modernist.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "The Modernist Thessaloniki warmly welcomes pets with a dedicated welcome package: a comfy dog bed, water and food bowls, and a goody bag of treats. A pet fee of EUR 15 per night applies. Dogs and cats up to 20 kg are accepted; maximum one pet per room. Pets must not be left unattended in rooms. The hotel can also help guests find nearby pet-friendly cafés and attractions.",
+    "highlights": [
+      "1920s heritage building",
+      "Central location near Aristotelous Square",
+      "Free WiFi"
+    ],
+    "slug": "the-modernist-thessaloniki"
+  },
+  {
+    "id": "thessaloniki-2",
+    "name": "The Met Hotel Thessaloniki",
+    "destinationSlug": "thessaloniki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2500,
+    "priceFrom": 154,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/the-met.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "The Met Hotel Thessaloniki accepts pets in designated pet-friendly rooms. A flat fee of EUR 50 per stay applies, which covers deep cleaning upon checkout and pet amenities. Both dogs and cats are permitted. Specific pet rooms must be requested at time of booking. Pets may not be left unattended in rooms.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "the-met-hotel-thessaloniki"
+  },
+  {
+    "id": "thessaloniki-3",
+    "name": "Colors Urban Hotel Thessaloniki",
+    "destinationSlug": "thessaloniki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1800,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/colors-urban-hotel-thessaloniki.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Colors Urban Hotel Thessaloniki accepts pets on request. A pet fee of EUR 10 per pet per day applies. Both dogs and cats are welcome. Pets must be declared at the time of booking. The hotel is centrally located on Tsimiski Street, close to the Nea Paralia waterfront.",
+    "highlights": [
+      "Central Tsimiski Street location",
+      "Close to waterfront promenade",
+      "Free WiFi"
+    ],
+    "slug": "colors-urban-hotel-thessaloniki"
+  },
+  {
+    "id": "thessaloniki-4",
+    "name": "Park Hotel Thessaloniki",
+    "destinationSlug": "thessaloniki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 900,
+    "priceFrom": 61,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/park-thessaloniki.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Park Hotel Thessaloniki accepts up to two dogs under 5 kg at no extra charge. Cats are also welcome. Pets must be declared at the time of booking. A water bowl is provided in the room. The hotel offers good value accommodation with easy access to the waterfront and city parks.",
+    "highlights": [
+      "Excellent value",
+      "Central location",
+      "Free WiFi"
+    ],
+    "slug": "park-hotel-thessaloniki"
+  },
+  {
+    "id": "thessaloniki-5",
+    "name": "Abc Hotel",
+    "destinationSlug": "thessaloniki",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 750,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/abc.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Abc Hotel accepts dogs of any size at no additional charge, making it one of the most accessible pet-friendly options in Thessaloniki. Cats are also welcome. Pets are accepted on request. Located on Angelaki Street close to the city centre, the hotel provides straightforward accommodation with genuine pet-friendly access at budget prices.",
+    "highlights": [
+      "Dogs any size, no fee",
+      "City centre location",
+      "Free WiFi"
+    ],
+    "slug": "abc-hotel-thessaloniki"
+  },
+  {
     "id": "toulouse-1",
     "name": "La Cour Des Consuls Hotel & Spa Toulouse",
     "destinationSlug": "toulouse",

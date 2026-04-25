@@ -6067,6 +6067,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  thessaloniki: {
+    history: {
+      fr: `Thessalonique est la deuxième ville de Grèce et l'une des plus anciennes cités habitées en continu d'Europe — fondée en 315 av. J.-C. par le roi macédonien Cassandre, qui lui donna le nom de sa femme, la demi-sœur d'Alexandre le Grand. Ville cosmopolite carrefour des Balkans, elle fut tour à tour capitale romaine, métropole byzantine, cité ottomane et foyer de la bourgeoisie juive séfarade. Aujourd'hui, c'est la capitale culturelle de la Grèce du Nord — riche en monuments de l'Antiquité, de Byzance et de l'époque ottomane qui coexistent dans un tissu urbain vivant. Sa culture est profondément méditerranéenne : on y mange bien, on y sort tard, et les chiens y sont les bienvenus partout sur les terrasses. La Nea Paralia, promenade réaménagée en 2013 avec son parc canin dédié, incarne cette convivialité entre la ville et ses habitants à quatre pattes.`,
+      en: `Thessaloniki is Greece's second city and one of Europe's oldest continuously inhabited cities — founded in 315 BC by Macedonian king Cassander, who named it after his wife, a half-sister of Alexander the Great. A cosmopolitan Balkan crossroads, it was successively a Roman capital, Byzantine metropolis, Ottoman city, and home to a thriving Sephardic Jewish community. Today it is northern Greece's cultural capital — rich in monuments spanning Antiquity, Byzantium, and the Ottoman era, all coexisting in a living urban fabric. Its culture is deeply Mediterranean: good food, late nights, and dogs genuinely welcome on terraces across the city. The Nea Paralia, a 3.5 km promenade redesigned in 2013 with a dedicated dog area, embodies the city's natural relationship with its four-legged residents.`,
+      es: `Tesalónica es la segunda ciudad de Grecia y una de las ciudades habitadas continuamente más antiguas de Europa — fundada en 315 a.C. por el rey macedonio Casandro, quien la nombró así en honor a su esposa, hermanastra de Alejandro Magno. Cruce de caminos balcánico cosmopolita, fue sucesivamente capital romana, metrópolis bizantina, ciudad otomana y hogar de una floreciente comunidad judía sefardí. Hoy es la capital cultural del norte de Grecia — rica en monumentos que abarcan la Antigüedad, Bizancio y la época otomana, todos coexistiendo en un tejido urbano vivo. Su cultura es profundamente mediterránea: buena comida, noches largas, y perros genuinamente bienvenidos en terrazas por toda la ciudad. La Nea Paralia, un paseo de 3,5 km rediseñado en 2013 con una zona canina dedicada, encarna la relación natural de la ciudad con sus residentes de cuatro patas.`,
+    },
+    sights: [
+      {
+        name: 'White Tower',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le symbole de Thessalonique — une tour ottomane du XVIe siècle sur le front de mer. Les jardins extérieurs et la promenade sont dog-friendly ; le musée intérieur ne l\'est pas. Parfait pour une promenade au coucher du soleil.',
+          en: 'The symbol of Thessaloniki — a 16th-century Ottoman tower on the waterfront. The exterior gardens and promenade are dog-friendly; the interior museum is not. Perfect for a sunset walk.',
+          es: 'El símbolo de Tesalónica — una torre otomana del siglo XVI en el frente marítimo. Los jardines exteriores y el paseo son dog-friendly; el museo interior no. Perfecto para un paseo al atardecer.',
+        },
+      },
+      {
+        name: 'Nea Paralia',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc du front de mer de 3,5 km avec une zone canine dédiée — la promenade du soir la plus social de Thessalonique. Cafés dog-friendly tout au long.',
+          en: 'The 3.5 km waterfront park with a dedicated dog area — Thessaloniki\'s most social evening promenade. Dog-welcoming cafés throughout.',
+          es: 'El parque frente al mar de 3,5 km con zona canina dedicada — el paseo vespertino más social de Tesalónica. Cafés que admiten perros en todo el recorrido.',
+        },
+      },
+      {
+        name: 'Ano Poli',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'La Haute Ville ottomane — un labyrinthe de ruelles pavées, remparts byzantins et tavernes de quartier, idéal pour une promenade canine loin de l\'agitation du centre.',
+          en: 'The Ottoman Upper Town — a maze of cobbled lanes, Byzantine walls, and neighbourhood tavernas, ideal for a quiet dog walk away from the city bustle.',
+          es: 'La Ciudad Alta otomana — un laberinto de callejuelas adoquinadas, murallas bizantinas y tabernas de barrio, ideal para un tranquilo paseo canino lejos del bullicio del centro.',
+        },
+      },
+      {
+        name: 'Arch of Galerius',
+        emoji: '🏺',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'arc romain du IVe siècle au cœur de la ville, entouré d\'une piazza piétonnisée animée le soir. Les terrasses de cafés environnantes accueillent universellement les chiens.',
+          en: 'The 4th-century Roman arch at the city centre, surrounded by a lively pedestrianised piazza in the evenings. Surrounding café terraces universally welcome dogs.',
+          es: 'El arco romano del siglo IV en el centro de la ciudad, rodeado de una animada piazza peatonalizada por las noches. Las terrazas de cafés circundantes admiten universalmente perros.',
+        },
+      },
+      {
+        name: 'Seich Sou Forest',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'La forêt urbaine de 3 300 ha au nord-est — le meilleur échappatoire canin de Thessalonique, avec des sentiers balisés et un microclimat plus frais pour les journées chaudes.',
+          en: 'The 3,300-hectare urban forest to the northeast — the best canine escape from Thessaloniki\'s heat, with marked trails and a cooler microclimate.',
+          es: 'El bosque urbano de 3.300 ha al noreste — la mejor escapada canina del calor de Tesalónica, con senderos marcados y un microclima más fresco.',
+        },
+      },
+      {
+        name: 'Ladadika',
+        emoji: '🏮',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'ancien quartier des entrepôts d\'huile d\'olive, reconverti en district nocturne atmosphérique avec des ouzeries et des restaurants dog-friendly sur des ruelles pavées piétonnisées.',
+          en: 'The former olive oil warehouse district, now an atmospheric nightlife quarter with dog-friendly ouzeries and restaurants on pedestrianised cobbled lanes.',
+          es: 'El antiguo barrio de almacenes de aceite de oliva, ahora un animado distrito nocturno con ouzerías y restaurantes dog-friendly en callejuelas adoquinadas peatonalizadas.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Passeport UE valide, puce et vaccination antirabique à jour requis pour entrer en Grèce — vérifiez les dates d\'expiration.',
+        'Laisse obligatoire dans toutes les rues et parcs publics ; seules les zones désignées sans laisse sont exemptées.',
+        'Plages organisées (transats + maîtres-nageurs) interdites aux chiens ; plages non organisées à Peraia et Agia Triada sont dog-friendly toute l\'année.',
+        'Chaleur extrême en juillet-août (32°C) : promenez avant 8h ou après 20h, portez toujours de l\'eau.',
+        'Population de chiens errants à Thessalonique — la plupart vaccinés et identifiés par la mairie ; gardez votre chien en laisse en leur présence.',
+      ],
+      en: [
+        'Valid EU pet passport, microchip, and up-to-date rabies vaccination required to enter Greece — check expiry dates before travel.',
+        'Leash required on all public streets and parks; only officially designated off-leash areas are exempt.',
+        'Organised beaches (sunbeds + lifeguards) are off-limits for dogs; unorganised beaches in Peraia and Agia Triada allow dogs year-round.',
+        'Extreme heat in July–August (32°C): walk before 8am or after 8pm and carry water at all times.',
+        'Thessaloniki has a stray dog population — most are vaccinated and ear-tagged by the municipality; keep your dog leashed when strays are nearby.',
+      ],
+      es: [
+        'Pasaporte UE válido, microchip y vacunación antirrábica actualizada requeridos para entrar en Grecia — comprueba las fechas de vencimiento antes de viajar.',
+        'Correa obligatoria en todas las calles y parques públicos; solo las zonas sin correa oficialmente designadas están exentas.',
+        'Playas organizadas (tumbonas + socorristas) están prohibidas para perros; las playas no organizadas en Peraia y Agia Triada permiten perros todo el año.',
+        'Calor extremo en julio-agosto (32°C): pasea antes de las 8h o después de las 20h y lleva agua siempre.',
+        'Tesalónica tiene una población de perros callejeros — la mayoría vacunados e identificados por el ayuntamiento; mantén a tu perro con correa cuando haya callejeros cerca.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire urgence semaine (14h–9h) et 24h week-end : AUTh Veterinary Teaching Hospital — +30 2310 994403.',
+        'Vétérinaire en ville (ouvert dimanche) : City Paws, Proksenoy Koromila 20 — 2316 019719.',
+        'Bus OASTH : petit chien en transporteur accepté à la discrétion du conducteur ; grand chien muselé + laisse.',
+        'Plage canine la plus proche : Peraia (25 min en voiture sud de Thessalonique) — sections non organisées dog-friendly toute l\'année.',
+        'Aéroport de Thessalonique (SKG) à 15 km à l\'est ; taxi vers le centre environ 15–20 €, 15–25 min.',
+      ],
+      en: [
+        'Emergency vet weeknights (14:00–9:00) and 24h weekends: AUTh Veterinary Teaching Hospital — +30 2310 994403.',
+        'City vet (open Sundays): City Paws, Proksenoy Koromila 20 — 2316 019719.',
+        'OASTH bus: small dog in carrier accepted at driver\'s discretion; large dog muzzled + leash required.',
+        'Nearest dog-friendly beach: Peraia (25 min drive south of Thessaloniki) — unorganised sections dog-friendly year-round.',
+        'Thessaloniki Airport (SKG) 15 km east; taxi to centre approximately €15–20, 15–25 min.',
+      ],
+      es: [
+        'Veterinario urgencias entre semana (14:00–9:00) y 24h fines de semana: AUTh Veterinary Teaching Hospital — +30 2310 994403.',
+        'Veterinaria en ciudad (abierta domingos): City Paws, Proksenoy Koromila 20 — 2316 019719.',
+        'Bus OASTH: perro pequeño en transportín aceptado a discreción del conductor; perro grande con bozal + correa obligatorio.',
+        'Playa dog-friendly más cercana: Peraia (25 min en coche al sur de Tesalónica) — secciones no organizadas dog-friendly todo el año.',
+        'Aeropuerto de Tesalónica (SKG) a 15 km al este; taxi al centro aproximadamente 15–20 €, 15–25 min.',
+      ],
+    },
+  },
+
   toulouse: {
     history: {
       fr: `Toulouse, 'La Ville Rose' sur la Garonne, doit sa chaude teinte rose à la brique de terre cuite fabriquée avec l'argile du fleuve depuis l'époque romaine, où elle s'appelait Tolosa. Capitale des comtes médiévaux de Toulouse et berceau de la poésie des troubadours, elle s'enrichit au XVIe siècle grâce au commerce du pastel qui paya ses hôtels particuliers Renaissance. C'est aujourd'hui la quatrième ville de France et la capitale européenne de l'aérospatiale, siège d'Airbus et de la Cité de l'Espace. Les quais de la Garonne et le Canal du Midi du XVIIe siècle — classé UNESCO et œuvre de Pierre-Paul Riquet — forment une promenade fluviale presque ininterrompue, largement ombragée de platanes et dog-friendly. Avec la Prairie des Filtres et ses prairies sans laisse en plein centre, Toulouse figure parmi les villes françaises les plus accueillantes pour les chiens.`,

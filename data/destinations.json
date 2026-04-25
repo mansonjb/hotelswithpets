@@ -1976,6 +1976,79 @@
     }
   },
   {
+    "slug": "lausanne",
+    "name": "Lausanne",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/lausanne.jpg",
+    "intro": "Lausanne is one of Europe's most dog-welcoming cities — Switzerland's Olympic Capital on Lake Geneva where dogs are permitted in restaurants, on public transport, and even in some museums.",
+    "lat": 46.5197,
+    "lng": 6.6323,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "lisbon",
     "name": "Lisbon",
     "country": "Portugal",

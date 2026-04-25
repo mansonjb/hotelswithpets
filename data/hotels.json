@@ -4795,6 +4795,134 @@
     "slug": "hotel-wit-stwosz"
   },
   {
+    "id": "lausanne-1",
+    "name": "Beau-Rivage Palace",
+    "destinationSlug": "lausanne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1876,
+    "priceFrom": 420,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/beau-rivage-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Beau-Rivage Palace is one of Switzerland's great grand hotels and a genuinely pet-welcoming address. Dogs and cats are accepted at no extra charge. The hotel provides a pet bed, bowls, and a welcome gift on arrival. Pets are welcome in the room, on the private lakeside terrace, and in the informal garden areas. The Ouchy promenade and Olympic Museum park are steps from the front door. One pet per room; advance declaration required.",
+    "highlights": [
+      "Private lakeside park",
+      "Spa",
+      "Michelin-starred dining",
+      "No pet fee"
+    ],
+    "slug": "beau-rivage-palace-lausanne"
+  },
+  {
+    "id": "lausanne-2",
+    "name": "Lausanne Palace",
+    "destinationSlug": "lausanne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1423,
+    "priceFrom": 380,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/lausanne-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Lausanne Palace, set in the upper city above the lake with panoramic Alpine views, welcomes dogs and cats at no extra charge. The hotel provides a pet welcome kit including a bed, bowls, and treats. Pets are welcome in designated pet-friendly rooms and in the garden terrace. The Parc de Montbenon is a 5-minute walk. Prior declaration required at time of booking.",
+    "highlights": [
+      "Panoramic lake views",
+      "Spa & pool",
+      "City centre location",
+      "No pet fee"
+    ],
+    "slug": "lausanne-palace"
+  },
+  {
+    "id": "lausanne-3",
+    "name": "Hôtel Angleterre & Résidence",
+    "destinationSlug": "lausanne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 987,
+    "priceFrom": 245,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/hotel-angleterre.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Hôtel Angleterre & Résidence on the Ouchy lakefront accepts dogs and cats at no extra charge. The hotel has a direct view over Lake Geneva and is metres from the Ouchy promenade. Pets are welcomed in the rooms and on the garden terrace by the lake. A water bowl and pet mat are available on request. The lakeside walking circuit begins at the hotel door.",
+    "highlights": [
+      "Lakefront location",
+      "Garden terrace",
+      "No pet fee",
+      "Byron connection"
+    ],
+    "slug": "hotel-angleterre-residence-lausanne"
+  },
+  {
+    "id": "lausanne-4",
+    "name": "Mövenpick Hotel Lausanne",
+    "destinationSlug": "lausanne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2341,
+    "priceFrom": 185,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/movenpick-lausanne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Mövenpick Hotel Lausanne accepts dogs and cats at no extra charge in designated pet-friendly rooms. The hotel is well located near the city centre and the M2 metro for easy access to Ouchy and the Sauvabelin forest. A pet mat and water bowl are provided on request. Pets welcome in rooms and on the hotel terrace.",
+    "highlights": [
+      "M2 metro nearby",
+      "No pet fee",
+      "Restaurant",
+      "City centre location"
+    ],
+    "slug": "movenpick-hotel-lausanne"
+  },
+  {
+    "id": "lausanne-5",
+    "name": "Alpha-Palmiers Hotel",
+    "destinationSlug": "lausanne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1102,
+    "priceFrom": 160,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/alpha-palmiers.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Alpha-Palmiers Hotel in the centre of Lausanne accepts dogs and cats at no extra charge. A comfortable mid-range option in a central location with easy access to the TL metro and bus network. The Parc de Montbenon is within walking distance. Pets are welcome in designated rooms; water bowl and mat available on request.",
+    "highlights": [
+      "City centre",
+      "No pet fee",
+      "Good value",
+      "Near Parc de Montbenon"
+    ],
+    "slug": "alpha-palmiers-hotel-lausanne"
+  },
+  {
     "id": "lisbon-1",
     "name": "EPIC SANA Marquês Hotel",
     "destinationSlug": "lisbon",

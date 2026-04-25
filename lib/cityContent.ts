@@ -3029,6 +3029,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lausanne: {
+    history: {
+      fr: `Lausanne est la capitale olympique mondiale — le Comité International Olympique y siège depuis 1915, et le Musée Olympique sur les rives du lac Léman en est le cœur symbolique. Fondée à l\'époque romaine sous le nom de Lousonna, la ville médiévale s\'est développée autour de sa cathédrale gothique, l\'une des plus belles de Suisse. Aujourd\'hui, Lausanne est une ville suisse d\'exception pour les voyageurs avec animaux : la loi helvétique protège le bien-être animal, les chiens circulent gratuitement dans le métro M1/M2 et les tramways TL, et la forêt de Sauvabelin — 200 hectares en pleine ville — offre des promenades sans laisse. Les restaurants à terrasse accueillent quasi-systématiquement les chiens, et le bord du lac d\'Ouchy constitue une promenade quotidienne idéale.`,
+      en: `Lausanne is the world\'s Olympic capital — the International Olympic Committee has been headquartered here since 1915, with the Olympic Museum on the shores of Lake Geneva as its symbolic heart. Founded in Roman times as Lousonna, the medieval city grew around its Gothic cathedral, one of the finest in Switzerland. Today, Lausanne is an exceptional destination for travelling with pets: Swiss law mandates strong animal welfare standards, dogs ride the M1/M2 metro and TL trams free of charge, and the 200-hectare Sauvabelin forest within the city offers off-lead trails. Terrace restaurants almost universally welcome dogs, and the Ouchy lakefront is a perfect daily walk with spectacular Alpine views across to France.`,
+      es: `Lausana es la capital olímpica mundial: el Comité Olímpico Internacional tiene su sede aquí desde 1915, y el Museo Olímpico a orillas del lago Lemán es su corazón simbólico. Fundada en época romana como Lousonna, la ciudad medieval creció en torno a su catedral gótica, una de las más hermosas de Suiza. Hoy, Lausana es un destino excepcional para viajar con mascotas: la ley suiza garantiza altos estándares de bienestar animal, los perros viajan gratis en el metro M1/M2 y los tranvías TL, y el bosque de Sauvabelin — 200 hectáreas dentro de la ciudad — ofrece senderos sin correa. Los restaurantes con terraza acogen sistemáticamente a los perros, y el paseo de Ouchy junto al lago es el paseo diario ideal con vistas espectaculares a los Alpes franceses.`,
+    },
+    sights: [
+      {
+        name: 'Forêt de Sauvabelin',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Forêt de 200 ha en plein cœur de Lausanne avec sentiers sans laisse, lac naturel et tour d\'observation — le paradis des chiens lausannois.',
+          en: '200-hectare forest in the heart of Lausanne with off-lead trails, a natural lake and observation tower — the paradise of Lausanne\'s dogs.',
+          es: 'Bosque de 200 ha en el corazón de Lausana con senderos sin correa, lago natural y torre de observación — el paraíso de los perros lausaneses.',
+        },
+      },
+      {
+        name: 'Ouchy Lakefront',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'Promenade lacustre d\'1 km avec vue sur les Alpes françaises, idéale pour les chiens. Les bateaux CGN acceptent les animaux tenus en laisse.',
+          en: '1 km lakeside promenade with views of the French Alps, ideal for dogs. CGN lake boats accept leashed pets on board.',
+          es: 'Paseo lacustre de 1 km con vistas a los Alpes franceses, ideal para perros. Los barcos del lago CGN aceptan mascotas con correa a bordo.',
+        },
+      },
+      {
+        name: 'Cathédrale de Lausanne',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'Chef-d\'œuvre gothique du XIIIe siècle dominant la vieille ville. Les chiens sont bienvenus à l\'extérieur et sur le parvis avec vue panoramique.',
+          en: '13th-century Gothic masterpiece dominating the old town. Dogs are welcome outside and on the forecourt with panoramic views over the lake.',
+          es: 'Obra maestra gótica del siglo XIII que domina el casco antiguo. Los perros son bienvenidos en el exterior y en el atrio con vistas panorámicas al lago.',
+        },
+      },
+      {
+        name: 'Place de la Palud',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: 'Place médiévale animée avec fontaine Renaissance et hôtel de ville. Terrasses de cafés accueillant les chiens et marché le mercredi et vendredi.',
+          en: 'Lively medieval square with Renaissance fountain and town hall. Dog-friendly café terraces and a market every Wednesday and Friday.',
+          es: 'Animada plaza medieval con fuente renacentista y ayuntamiento. Terrazas de cafés que aceptan perros y mercado cada miércoles y viernes.',
+        },
+      },
+      {
+        name: 'Lavaux Vineyards',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: 'Vignobles en terrasses classés UNESCO longeant le lac de Genève. Sentiers pédestres ouverts aux chiens tenus en laisse avec vues époustouflantes.',
+          en: 'UNESCO-listed terraced vineyards stretching along Lake Geneva. Walking trails open to leashed dogs with breathtaking lake and Alpine views.',
+          es: 'Viñedos en terrazas declarados Patrimonio UNESCO a lo largo del lago Lemán. Senderos abiertos a perros con correa con vistas impresionantes al lago y los Alpes.',
+        },
+      },
+      {
+        name: 'Parc de Montbenon',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Grand parc en belvédère avec terrasse panoramique sur le lac et les Alpes. Pelouses spacieuses et allées ombragées idéales pour les chiens.',
+          en: 'Grand hilltop park with panoramic terrace over the lake and Alps. Spacious lawns and shaded paths perfect for dogs.',
+          es: 'Gran parque en mirador con terraza panorámica sobre el lago y los Alpes. Amplios céspedes y caminos sombreados perfectos para los perros.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens voyagent gratuitement dans tout le réseau TL (métro M1/M2, bus, trolleybus) — pas de billet supplémentaire requis, laisse obligatoire.',
+        'La forêt de Sauvabelin autorise les chiens sans laisse sur la majeure partie de ses sentiers — idéale pour les longues promenades matinales.',
+        'Les restaurants à terrasse lausannois acceptent quasi-universellement les chiens — demandez simplement en entrant, le refus est rare.',
+        'La plage de Vidy autorise les chiens hors saison (septembre à mai) ; en été, privilégiez tôt le matin avant 9 h ou la promenade d\'Ouchy.',
+        'La clinique vétérinaire d\'urgence CHUV VetSuisse (chemin des Boveresses 155) assure les urgences 24 h/24 — la meilleure référence pour les cas complexes.',
+      ],
+      en: [
+        'Dogs travel free on the entire TL network (M1/M2 metro, buses, trolleybuses) — no extra ticket needed, lead required at all times.',
+        'Sauvabelin forest allows off-lead dogs on most of its trails — ideal for long morning runs away from city streets.',
+        'Lausanne terrace restaurants almost universally welcome dogs — just ask on arrival; refusals are rare by local custom.',
+        'Vidy beach allows dogs off-season (September to May); in summer, go early before 9 am or stick to the Ouchy lakefront promenade.',
+        'Emergency vet CHUV VetSuisse (chemin des Boveresses 155) provides 24/7 care — the top referral centre for complex cases in the region.',
+      ],
+      es: [
+        'Los perros viajan gratis en toda la red TL (metro M1/M2, autobuses, trolebuses) — no se necesita billete adicional, correa obligatoria en todo momento.',
+        'El bosque de Sauvabelin permite perros sin correa en la mayoría de sus senderos — ideal para largas caminatas matutinas lejos del tráfico urbano.',
+        'Los restaurantes con terraza en Lausana acogen casi universalmente a los perros — basta con preguntar al llegar; las negativas son raras por costumbre local.',
+        'La playa de Vidy permite perros fuera de temporada (septiembre a mayo); en verano, ve temprano antes de las 9 h o quédate en el paseo de Ouchy.',
+        'El veterinario de urgencias CHUV VetSuisse (chemin des Boveresses 155) ofrece atención 24 h — el principal centro de referencia para casos complejos de la región.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'L\'entrée en Suisse depuis l\'UE requiert le passeport européen pour animaux de compagnie avec vaccination antirabique valide ; hors UE, certificat sanitaire et puce ISO 11784/11785 obligatoires.',
+        'L\'aéroport de Genève-Cointrin (GVA, à 45 min) est la porte d\'entrée principale — les animaux en cabine sont acceptés sur la plupart des vols selon les règles de la compagnie.',
+        'Lausanne bénéficie d\'un climat lacustre tempéré : étés chauds (25-30 °C), hivers doux avec neige occasionnelle (0-5 °C) — une destination praticable toute l\'année.',
+        'Le franc suisse (CHF) est la monnaie ; les prix sont élevés mais les hôtels inclus dans ce guide affichent des politiques pets clairement établies, sans surprise.',
+        'Les pharmacies et épiceries Migros/Coop proposent des aliments pour animaux de bonne qualité — les grandes surfaces sont ouvertes 7j/7 y compris le dimanche en gare.',
+      ],
+      en: [
+        'Entry into Switzerland from the EU requires the EU pet passport with valid rabies vaccination; from outside the EU, a health certificate and ISO 11784/11785 microchip are mandatory.',
+        'Geneva Airport (GVA, 45 min away) is the main gateway — cabin pets are accepted on most flights subject to individual airline rules.',
+        'Lausanne enjoys a temperate lakeside climate: warm summers (25–30 °C), mild winters with occasional snow (0–5 °C) — a year-round destination.',
+        'The Swiss franc (CHF) is the currency; prices are high but hotels in this guide have clearly stated pet policies with no hidden surprises.',
+        'Migros and Coop supermarkets stock good-quality pet food — large branches are open 7 days a week including Sunday at the main station.',
+      ],
+      es: [
+        'La entrada en Suiza desde la UE requiere el pasaporte europeo para mascotas con vacuna antirrábica vigente; fuera de la UE, son obligatorios el certificado sanitario y el microchip ISO 11784/11785.',
+        'El aeropuerto de Ginebra-Cointrin (GVA, a 45 min) es la principal puerta de entrada — se aceptan mascotas en cabina en la mayoría de vuelos según las normas de cada compañía.',
+        'Lausana disfruta de un clima lacustre templado: veranos cálidos (25-30 °C), inviernos suaves con nieve ocasional (0-5 °C) — un destino practicable todo el año.',
+        'El franco suizo (CHF) es la moneda; los precios son elevados pero los hoteles de esta guía tienen políticas de mascotas claramente establecidas y sin sorpresas.',
+        'Los supermercados Migros y Coop ofrecen alimentos para mascotas de buena calidad — las grandes tiendas abren 7 días a la semana incluido el domingo en la estación central.',
+      ],
+    },
+  },
+
   lisbon: {
     history: {
       fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises — d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa en damier — la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses — idéale pour voyager avec un animal toute l'année.`,

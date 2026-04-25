@@ -156,6 +156,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Planty park ring, the Błonia meadows, and the Vistula riverside paths',
       area: 'the Old Town, Kazimierz, and Podgórze',
     },
+    lausanne: {
+      personality: 'Switzerland\'s Olympic Capital on Lake Geneva — one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
+      highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
+      area: 'Ouchy (lakeside), the Flon creative district, and the medieval Cité',
+    },
     lisbon: {
       personality: 'a sunlit, hilly city whose mild climate makes it ideal for travelling with pets year-round',
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
@@ -484,6 +489,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'anneau du parc Planty, les prairies de Błonia et les chemins riverains de la Vistule',
       area: 'la Vieille Ville, Kazimierz et Podgórze',
     },
+    lausanne: {
+      personality: 'la Capitale Olympique suisse sur le lac Léman — l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
+      highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
+      area: 'Ouchy (bord du lac), le quartier créatif du Flon et la Cité médiévale',
+    },
     lisbon: {
       personality: 'une ville ensoleillée et vallonnée dont le climat doux la rend idéale pour voyager avec des animaux toute l\'année',
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
@@ -810,6 +820,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad histórica polaca donde el anillo de jardines Planty que rodea el casco antiguo la convierte en uno de los destinos más transitables de Europa Central para los perros',
       highlight: 'el anillo del parque Planty, los prados de Błonia y los senderos ribereños del Vístula',
       area: 'el Casco Antiguo, Kazimierz y Podgórze',
+    },
+    lausanne: {
+      personality: 'la Capital Olímpica suiza en el lago Lemán — una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
+      highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
+      area: 'Ouchy (a orillas del lago), el barrio creativo del Flon y la Cité medieval',
     },
     lisbon: {
       personality: 'una ciudad soleada y con colinas cuyo clima suave la hace ideal para viajar con mascotas durante todo el año',

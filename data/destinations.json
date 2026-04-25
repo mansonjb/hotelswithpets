@@ -2855,6 +2855,79 @@
     }
   },
   {
+    "slug": "palma",
+    "name": "Palma de Mallorca",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/palma.jpg",
+    "lat": 39.5696,
+    "lng": 2.6502,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & some rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & overcast",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "paris",
     "name": "Paris",
     "country": "France",

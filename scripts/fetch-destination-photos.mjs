@@ -41,6 +41,7 @@ const TARGETS = [
   { slug: 'hamburg', query: 'Speicherstadt Hamburg warehouse district canals' },
   { slug: 'turin',   query: 'Mole Antonelliana Turin Piazza Castello sunset' },
   { slug: 'hannover', query: 'Neues Rathaus Hannover Maschsee reflection' },
+  { slug: 'palma', query: 'La Seu Cathedral Palma de Mallorca waterfront' },
 ]
 
 async function searchPhoto(query, apiKey) {

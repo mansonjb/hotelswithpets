@@ -7013,6 +7013,131 @@
     "slug": "clarion-hotel-the-hub"
   },
   {
+    "id": "palma-1",
+    "name": "Hotel Cappuccino - Palma",
+    "destinationSlug": "palma",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 777,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/cappuccino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Cappuccino Palma warmly welcomes well-behaved pets. Pets are accepted on request with no extra charge. Pet amenities including bowls and a pet basket are provided. Pets must be kept on a lead in all common areas and are not allowed unattended in rooms for extended periods. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Rooftop pool with city views",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "hotel-cappuccino-palma"
+  },
+  {
+    "id": "palma-2",
+    "name": "Boutique Hotel Posada Terra Santa",
+    "destinationSlug": "palma",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 420,
+    "priceFrom": 199,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/posada-terra-santa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Boutique Hotel Posada Terra Santa accepts small dogs up to 7 kg at no extra charge. A dog bed and bowl are provided in the room. Pets are not allowed in the restaurant, spa, or lounge areas. Set in a 16th-century manor in the Old Town, the hotel is a short walk from the Parc de la Mar and La Seu cathedral gardens. Please declare your pet at the time of booking.",
+    "highlights": [
+      "16th-century manor building",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "boutique-hotel-posada-terra-santa"
+  },
+  {
+    "id": "palma-3",
+    "name": "Nakar Hotel",
+    "destinationSlug": "palma",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1850,
+    "priceFrom": 181,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nkr.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Nakar Hotel accepts pets on request; a fee of EUR 30 per pet per night applies, charged at check-in. Pet amenities including bowls and a basket are provided. Pets must be kept on a lead in all common areas and are not allowed unattended in rooms. The hotel is centrally located near Parc de sa Riera. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Rooftop pool and terrace",
+      "Turkish steam bath and hot tub",
+      "Free WiFi"
+    ],
+    "slug": "nakar-hotel-palma"
+  },
+  {
+    "id": "palma-4",
+    "name": "Puro Hotel Oasis Urbano",
+    "destinationSlug": "palma",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1000,
+    "priceFrom": 134,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/puro.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Puro Hotel Oasis Urbano accepts dogs only (cats not permitted). Dogs up to 10 kg are accepted; a fee of EUR 25 per pet per day applies. A pet basket and bowls are provided. Pets must be supervised in all common areas. The hotel is located near the Gothic cathedral and Parc de la Mar. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Wellness area with plunge pool and steam bath",
+      "Central Gothic quarter location",
+      "Free WiFi"
+    ],
+    "slug": "puro-hotel-oasis-urbano-palma"
+  },
+  {
+    "id": "palma-5",
+    "name": "Hotel Palau Sa Font",
+    "destinationSlug": "palma",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 800,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/palau-sa-font.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Palau Sa Font accepts pets on request with no extra charge. Water bowls are provided in pet-friendly rooms. Pets are not permitted in common areas. This beautifully renovated 16th-century palace in the Old Town is 450 metres from Plaça de la Reina and within walking distance of the cathedral gardens. Please declare your pet at the time of booking.",
+    "highlights": [
+      "16th-century palace renovation",
+      "Rooftop lookout tower with cathedral views",
+      "Outdoor pool"
+    ],
+    "slug": "hotel-palau-sa-font-palma"
+  },
+  {
     "id": "paris-1",
     "name": "The Peninsula Paris",
     "destinationSlug": "paris",

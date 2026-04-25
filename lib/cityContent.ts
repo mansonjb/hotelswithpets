@@ -4382,6 +4382,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  palma: {
+    history: {
+      fr: `Palma de Majorque a une relation longue et détendue avec les animaux de compagnie. Capitale des Îles Baléares depuis le XIVe siècle, la ville a toujours été une ville commerçante et cosmopolite, ouverte aux voyageurs venus de toute la Méditerranée — et à leurs animaux. Aujourd'hui, Palma est l'une des destinations les plus pet-friendly d'Espagne. La réglementation baléare est claire et bien appliquée : laisse obligatoire partout, assurance animale obligatoire depuis 2023, et des plages canines officielles comme Es Carnatge ouvertes toute l'année. Le vieux port et le quartier de Santa Catalina sont devenus le cœur social de la ville pour les propriétaires de chiens, avec des terrasses qui affichent explicitement «chiens bienvenus» et du personnel qui apporte une gamelle d'eau sans qu'on le demande.`,
+      en: `Palma de Mallorca has a long and relaxed relationship with pets. The capital of the Balearic Islands since the 14th century, it has always been a cosmopolitan trading city open to travellers from across the Mediterranean — and their animals. Today, Palma is one of Spain's most genuinely pet-friendly destinations. Balearic regulations are clear and enforced: leash required everywhere, pet insurance compulsory since 2023, and official year-round dog beaches like Es Carnatge. The old port and Santa Catalina neighbourhood have become the social heart of the city for dog owners, with terraces that explicitly display dogs-welcome signs and staff who bring a water bowl before you ask.`,
+      es: `Palma de Mallorca tiene una larga y relajada relación con las mascotas. Capital de las Islas Baleares desde el siglo XIV, siempre ha sido una ciudad cosmopolita y comercial abierta a viajeros de todo el Mediterráneo — y a sus animales. Hoy, Palma es uno de los destinos más genuinamente pet-friendly de España. La normativa balear es clara y se aplica: correa obligatoria en todos lados, seguro de mascotas obligatorio desde 2023, y playas caninas oficiales de todo el año como Es Carnatge. El puerto viejo y el barrio de Santa Catalina se han convertido en el corazón social de la ciudad para los dueños de perros, con terrazas que exhiben explícitamente carteles de bienvenida a perros y personal que trae un cuenco de agua antes de que lo pidas.`,
+    },
+    sights: [
+      {
+        name: 'La Seu',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: 'La cathédrale gothique de Palma s\'élève directement depuis le mur de mer — l\'extérieur et le Parc de la Mar en contrebas sont dog-friendly. Idéal pour une promenade au coucher du soleil avec une vue extraordinaire.',
+          en: 'Palma\'s Gothic cathedral rises directly from the sea wall — the exterior and the Parc de la Mar below are dog-friendly. Perfect for a sunset walk with extraordinary views.',
+          es: 'La catedral gótica de Palma se eleva directamente desde el muro marítimo — el exterior y el Parc de la Mar abajo son dog-friendly. Ideal para un paseo al atardecer con vistas extraordinarias.',
+        },
+      },
+      {
+        name: 'Castell de Bellver',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'L\'unique château médiéval circulaire d\'Europe, perché sur une colline boisée avec une vue panoramique sur la baie. Les jardins et le parc boisé accueillent les chiens en laisse.',
+          en: 'Europe\'s only circular medieval castle, perched on a wooded hill with panoramic bay views. The grounds and surrounding pine park welcome leashed dogs.',
+          es: 'El único castillo medieval circular de Europa, sobre una colina arbolada con vistas panorámicas de la bahía. Los jardines y el parque de pinos circundante admiten perros con correa.',
+        },
+      },
+      {
+        name: 'Santa Catalina',
+        emoji: '🍷',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier le plus animé de Palma, avec des bars à tapas, des marchés et des terrasses dog-friendly. Le marché de Santa Catalina est un incontournable le matin avec votre chien.',
+          en: 'Palma\'s most vibrant neighbourhood, full of tapas bars, markets, and dog-welcoming terraces. Santa Catalina market is unmissable on a morning walk with your dog.',
+          es: 'El barrio más animado de Palma, lleno de bares de tapas, mercados y terrazas que admiten perros. El mercado de Santa Catalina es imprescindible en un paseo matutino con tu perro.',
+        },
+      },
+      {
+        name: 'Passeig des Born',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: 'Le boulevard élégant de Palma, avec de larges trottoirs ombragés et des cafés en terrasse qui accueillent les chiens. Parfait pour une promenade en soirée quand les Palmesanos sortent avec leurs propres chiens.',
+          en: 'Palma\'s elegant main boulevard with wide shaded pavements and dog-welcoming terrace cafés. Perfect for an evening stroll when locals walk their own dogs.',
+          es: 'El elegante bulevar principal de Palma con amplias aceras sombreadas y cafés con terraza que admiten perros. Perfecto para un paseo vespertino cuando los palmesanos sacan a sus propios perros.',
+        },
+      },
+      {
+        name: 'Es Carnatge',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: 'La plage canine officielle de Palma, ouverte aux chiens toute l\'année et sans laisse — la seule plage près du centre autorisée en été. Terrain sauvage avec une eau turquoise cristalline.',
+          en: 'Palma\'s official year-round dog beach, off-leash — the only beach near the city centre legal in summer. Wild terrain with crystal-clear turquoise water.',
+          es: 'La playa canina oficial de Palma, abierta a perros todo el año sin correa — la única playa cerca del centro legal en verano. Terreno salvaje con agua turquesa cristalina.',
+        },
+      },
+      {
+        name: 'Portixol',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier balnéaire branché de Palma, avec des restaurants en bord de mer dog-friendly et une promenade agréable le long du port de pêche. L\'une des meilleures adresses pour dîner avec son chien en vue sur la baie.',
+          en: 'Palma\'s fashionable waterfront neighbourhood, with dog-friendly restaurants by the sea and a pleasant walk along the fishing harbour. One of the best spots for dinner with your dog overlooking the bay.',
+          es: 'El moderno barrio costero de Palma, con restaurantes frente al mar que admiten perros y un agradable paseo junto al puerto pesquero. Uno de los mejores sitios para cenar con tu perro con vistas a la bahía.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'L\'assurance animale est obligatoire pour les chiens dans les Îles Baléares depuis septembre 2023 — vérifiez que votre police couvre l\'Espagne avant de voyager.',
+        'Laisse obligatoire dans toutes les rues et parcs sauf zones pipican désignées ; les amendes commencent à 150 €.',
+        'Chiens interdits sur la plupart des plages du 1er avril au 31 octobre ; Es Carnatge et Cala Gamba sont les exceptions légales toute l\'année.',
+        'Chaleur intense en juillet-août (jusqu\'à 32°C) : promenez votre chien avant 9h ou après 20h pour éviter les coups de chaleur.',
+        'EMT bus : ticket chien 0,30 € sur toutes les lignes depuis 2024 ; chiens muselés et en laisse obligatoire.',
+      ],
+      en: [
+        'Pet insurance is compulsory for dogs in the Balearic Islands since September 2023 — check your policy covers Spain before travelling.',
+        'Leash required on all public streets and parks except designated pipican zones; fines start at €150.',
+        'Dogs banned from most beaches April 1–October 31; Es Carnatge and Cala Gamba are the legal year-round exceptions near Palma.',
+        'Intense heat in July–August (up to 32°C): walk dogs before 9am or after 8pm to avoid heatstroke.',
+        'EMT bus: dog ticket €0.30 on all lines since 2024; dogs must be muzzled and on a leash.',
+      ],
+      es: [
+        'El seguro de mascotas es obligatorio para los perros en las Islas Baleares desde septiembre de 2023 — comprueba que tu póliza cubre España antes de viajar.',
+        'Correa obligatoria en todas las calles y parques públicos excepto zonas pipican designadas; multas a partir de 150 €.',
+        'Perros prohibidos en la mayoría de las playas del 1 de abril al 31 de octubre; Es Carnatge y Cala Gamba son las excepciones legales de todo el año cerca de Palma.',
+        'Calor intenso en julio-agosto (hasta 32°C): pasea a tu perro antes de las 9h o después de las 20h para evitar golpes de calor.',
+        'Bus EMT: billete de perro 0,30 € en todas las líneas desde 2024; perros deben ir con bozal y correa.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Vétérinaire urgence: Clínica Veterinaria San Fernando, Avda. Sant Ferran 49 — 971 730 546 (urgences hors horaires: 601 200 320).',
+        'Vétérinaire 24h (soins intensifs): CalviaVet, Gran Vía Puig des Castellet 1, Santa Ponsa — 971 695 108.',
+        'Transport: EMT bus toutes lignes, chien muselé + laisse + ticket 0,30 €. Train SFM : chien en transporteur gratuit.',
+        'Plage canine officielle toute l\'année : Es Carnatge (entre Palma et Can Pastilla). Cala Gamba : autre option toute l\'année.',
+        'Aéroport de Palma (PMI) à 10 km du centre. Taxi depuis l\'aéroport : environ 20–25 €, 15–25 min.',
+      ],
+      en: [
+        'Emergency vet: Clínica Veterinaria San Fernando, Avda. Sant Ferran 49 — 971 730 546 (after-hours emergency: 601 200 320).',
+        '24h intensive care vet: CalviaVet, Gran Vía Puig des Castellet 1, Santa Ponsa — 971 695 108.',
+        'Transport: EMT bus all lines, dog muzzled + leash + €0.30 ticket. SFM train: dog in carrier free.',
+        'Official year-round dog beach: Es Carnatge (between Palma and Can Pastilla). Cala Gamba: another year-round option.',
+        'Palma Airport (PMI) 10 km from centre. Taxi from airport: approximately €20–25, 15–25 min.',
+      ],
+      es: [
+        'Veterinario urgencias: Clínica Veterinaria San Fernando, Avda. Sant Ferran 49 — 971 730 546 (urgencias fuera de horario: 601 200 320).',
+        'Veterinario 24h (cuidados intensivos): CalviaVet, Gran Vía Puig des Castellet 1, Santa Ponsa — 971 695 108.',
+        'Transporte: bus EMT todas las líneas, perro con bozal + correa + billete 0,30 €. Tren SFM: perro en transportín gratis.',
+        'Playa canina oficial todo el año: Es Carnatge (entre Palma y Can Pastilla). Cala Gamba: otra opción todo el año.',
+        'Aeropuerto de Palma (PMI) a 10 km del centro. Taxi desde el aeropuerto: aproximadamente 20–25 €, 15–25 min.',
+      ],
+    },
+  },
+
   paris: {
     history: {
       fr: `Paris est une ville de chien — et les Parisiens le savent depuis toujours. On compte aujourd'hui plus de 500 000 chiens dans la capitale, soit un pour huit habitants. Cette relation ancienne entre Paris et ses animaux remonte aux cafés du XVIIIe siècle, où les chiens accompagnaient leurs maîtres sur les banquettes. La ville a beau être la plus visitée au monde, elle conserve cette culture de proximité : les chiens sont admis dans la plupart des brasseries, dans les boutiques, dans les jardins sans laisse désignés. Le Bois de Boulogne (846 ha) et le Bois de Vincennes (995 ha) constituent deux poumons verts immenses, parcourus chaque matin par des milliers de chiens en liberté.`,

@@ -216,6 +216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
       area: 'Frogner, Grünerløkka, and Tjuvholmen',
     },
+    palma: {
+      personality: 'a sun-soaked Mediterranean island capital where terraces, beaches, and a year-round warm climate make it one of Spain\'s most dog-friendly cities',
+      highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
+      area: 'Santa Catalina, the Old Town (Casc Antic), and Portixol',
+    },
     paris: {
       personality: 'a city where dogs are famously welcome in cafés, shops, and many restaurants',
       highlight: 'the Bois de Boulogne, Bois de Vincennes, and hundreds of smaller squares',
@@ -524,6 +529,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
       area: 'Frogner, Grünerløkka et Tjuvholmen',
     },
+    palma: {
+      personality: 'une capitale insulaire méditerranéenne ensoleillée où les terrasses, les plages et un climat chaud toute l\'année en font l\'une des villes les plus dog-friendly d\'Espagne',
+      highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
+      area: 'Santa Catalina, le Vieux-Ville (Casc Antic) et Portixol',
+    },
     paris: {
       personality: 'une ville où les chiens sont célèbres pour être acceptés dans les cafés, boutiques et de nombreux restaurants',
       highlight: 'le Bois de Boulogne, le Bois de Vincennes et des centaines de squares',
@@ -830,6 +840,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
       area: 'Frogner, Grünerløkka y Tjuvholmen',
+    },
+    palma: {
+      personality: 'una capital insular mediterránea bañada por el sol donde las terrazas, las playas y el clima cálido durante todo el año la convierten en una de las ciudades más dog-friendly de España',
+      highlight: 'la playa canina todo el año de Es Carnatge, el Parc de sa Riera y los jardines del Castell de Bellver',
+      area: 'Santa Catalina, el Casco Antiguo (Casc Antic) y Portixol',
     },
     paris: {
       personality: 'una ciudad donde los perros son famosos por ser bienvenidos en cafés, tiendas y muchos restaurantes',

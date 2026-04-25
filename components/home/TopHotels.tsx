@@ -36,7 +36,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <span className="inline-block bg-amber-100 text-amber-700 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-4">
-            ⭐ Editor's Choice
+            ⭐ Editor&apos;s Choice
           </span>
           <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3">
             {headings[locale] ?? headings.en}

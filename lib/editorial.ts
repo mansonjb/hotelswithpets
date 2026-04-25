@@ -1492,7 +1492,7 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
   en: {
     'dog-friendly':   (d, ctx) => `Hotels selected for this guide are specifically in ${ctx.area}, where pet infrastructure is densest and local restaurants routinely provide water bowls and terrace access.`,
     'cat-friendly':   (d) =>      `Cat-friendly rooms in ${d} tend to be quieter upper-floor units with reliable lift access. Key features that keep feline guests settled throughout the stay.`,
-    'beach-access':   (d) =>      `The pet-friendly beach spots near these hotels are accessible at reasonable hours. No 6am alarms required. For the majority of the year, making planning simple.`,
+    'beach-access':   (_d) =>     `The pet-friendly beach spots near these hotels are accessible at reasonable hours. No 6am alarms required. For the majority of the year, making planning simple.`,
     'near-parks':     (d, ctx) => `The hotels on this list are all positioned for under-10-minute walks to off-leash zones in ${ctx.highlight}. No busy road crossings, no logistics before the morning walk.`,
     'luxury':         (d, ctx) => `Luxury properties in ${ctx.area} have developed full pet concierge packages. Welcome kits, in-room dining menus, and dog-walker bookings. Because their guests demanded it.`,
     'dogs-stay-free': (d) =>      `The no-fee policies here are confirmed and year-round. Not seasonal promotions or weight-restricted. Making ${d} a reliably cost-effective destination for pet owners.`,
@@ -1500,7 +1500,7 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
   fr: {
     'dog-friendly':   (d, ctx) => `Les hôtels sélectionnés se trouvent spécifiquement dans ${ctx.area}, où l'infrastructure pour animaux est la plus dense et où les restaurants proposent régulièrement des bols d'eau et un accès aux terrasses.`,
     'cat-friendly':   (d) =>      `Les chambres accueillant les chats à ${d} sont généralement des unités calmes aux étages supérieurs avec un accès fiable à l'ascenseur. Des caractéristiques clés pour que les félins se sentent à l'aise.`,
-    'beach-access':   (d) =>      `Les spots de plage autorisés aux chiens près de ces hôtels sont accessibles à des horaires raisonnables. Sans réveil à 6h. Pour la majorité de l'année, ce qui simplifie l'organisation.`,
+    'beach-access':   (_d) =>     `Les spots de plage autorisés aux chiens près de ces hôtels sont accessibles à des horaires raisonnables. Sans réveil à 6h. Pour la majorité de l'année, ce qui simplifie l'organisation.`,
     'near-parks':     (d, ctx) => `Les hôtels de cette liste sont tous positionnés pour atteindre les zones sans laisse de ${ctx.highlight} en moins de 10 minutes à pied. Sans traverser d'artères passantes.`,
     'luxury':         (d, ctx) => `Les établissements de luxe de ${ctx.area} ont développé des offres concierge complètes pour animaux. Kits d'accueil, menus de restauration en chambre, réservations de promeneurs. Parce que leurs clients l'ont exigé.`,
     'dogs-stay-free': (d) =>      `Les politiques sans frais dans ces hôtels sont confirmées et valables toute l'année. Pas des promotions saisonnières ou limitées au poids. Faisant de ${d} une destination fiablement économique pour les propriétaires d'animaux.`,
@@ -1508,7 +1508,7 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
   es: {
     'dog-friendly':   (d, ctx) => `Los hoteles seleccionados están específicamente en ${ctx.area}, donde la infraestructura para mascotas es más densa y los restaurantes locales ofrecen habitualmente cuencos de agua y acceso a terrazas.`,
     'cat-friendly':   (d) =>      `Las habitaciones para gatos en ${d} suelen ser unidades tranquilas en pisos superiores con acceso fiable al ascensor. Características clave para mantener a los huéspedes felinos tranquilos.`,
-    'beach-access':   (d) =>      `Los puntos de playa aptos para perros cerca de estos hoteles son accesibles en horarios razonables. Sin madrugar. Durante la mayor parte del año, lo que facilita mucho la planificación.`,
+    'beach-access':   (_d) =>     `Los puntos de playa aptos para perros cerca de estos hoteles son accesibles en horarios razonables. Sin madrugar. Durante la mayor parte del año, lo que facilita mucho la planificación.`,
     'near-parks':     (d, ctx) => `Los hoteles de esta lista están todos situados para llegar a las zonas sin correa de ${ctx.highlight} en menos de 10 minutos a pie. Sin cruzar calles concurridas antes del paseo matutino.`,
     'luxury':         (d, ctx) => `Los establecimientos de lujo de ${ctx.area} han desarrollado paquetes completos de conserjería para mascotas. Kits de bienvenida, menús en habitación, reservas de paseadores. Porque sus huéspedes lo exigieron.`,
     'dogs-stay-free': (d) =>      `Las políticas sin cargo aquí están confirmadas y son válidas todo el año. No son promociones estacionales ni con restricciones de peso. Haciendo de ${d} un destino fiablemente económico para los dueños de mascotas.`,

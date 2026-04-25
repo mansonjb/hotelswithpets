@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
-import { hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
+import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { getAllCountries } from '@/lib/countries'
 import hotels from '@/data/hotels.json'

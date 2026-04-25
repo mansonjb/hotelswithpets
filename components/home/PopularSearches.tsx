@@ -26,12 +26,6 @@ const searches = [
   { dest: 'paris', destName: 'Paris', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros' },
 ]
 
-function getCatLabel(s: typeof searches[number], locale: Locale) {
-  if (locale === 'fr') return s.catNameFr
-  if (locale === 'es') return s.catNameEs
-  return s.catNameEn
-}
-
 const headings: Record<Locale, string> = {
   en: 'Popular searches',
   fr: 'Recherches populaires',

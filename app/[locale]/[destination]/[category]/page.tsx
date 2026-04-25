@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
 import PetMap from '@/components/PetMap'
-import { generateIntro, generateFaqs, generateTips, generateWhy, generateTestimonial } from '@/lib/editorial'
+import { generateIntro, generateFaqs, generateTips, generateWhy } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -219,8 +219,6 @@ export default async function ComboPage({
   const faqs = generateFaqs(dest.slug, dest.name, cat.slug, catName, comboHotels, locale)
   const tips = generateTips(cat.slug, dest.name, locale)
   const why = generateWhy(dest.slug, dest.name, cat.slug, locale)
-  const testimonial = generateTestimonial(dest.name, cat.slug, locale)
-
   const schemas = buildSchema(locale, dest, cat, catName, comboHotels, faqs, year)
 
   // Related: other categories in same destination

@@ -59,42 +59,6 @@ const ratingLabel = (r: number, locale: string): string => {
 
 const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
 
-/**
- * Scraper sometimes returns garbage policy text (addresses, UI labels, review snippets).
- * Requires pet-related keywords; falls back to a smart default based on petFee.
- */
-function sanitizePetPolicy(raw: string, petFee?: number, locale = 'en'): string {
-  const fallback = (): string => {
-    if (locale === 'fr') {
-      if (petFee === 0) return 'Les animaux séjournent gratuitement. Chiens et chats bienvenus dans tout l\'établissement.'
-      if (petFee !== undefined && petFee > 0) return `Animaux acceptés. Un supplément de ${petFee}€ par nuit s'applique. À confirmer lors de la réservation.`
-      return 'Les animaux sont les bienvenus. Veuillez confirmer les conditions lors de la réservation.'
-    }
-    if (locale === 'es') {
-      if (petFee === 0) return 'Las mascotas se alojan gratis. Perros y gatos son bienvenidos en todo el establecimiento.'
-      if (petFee !== undefined && petFee > 0) return `Se admiten mascotas. Se aplica un cargo de ${petFee}€ por noche. Confirmar al reservar.`
-      return 'Las mascotas son bienvenidas. Confirme las condiciones específicas al reservar.'
-    }
-    // English (default)
-    if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
-    if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
-    return 'Pets are welcome. Please confirm specific pet policy when booking.'
-  }
-
-  if (!raw || raw.trim().length === 0) return fallback()
-  // Contains HTML tags or suspicious chars
-  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return fallback()
-  // Address-like strings: contain digits followed by street keywords
-  if (/\d+.*\b(avenue|ave|rue|street|st\.|boulevard|blvd|road|rd\.)\b/i.test(raw)) return fallback()
-  // Review/UI snippet indicators
-  if (/rated|reviews|real guests|real stays|show map|sustainability certification|beachfront/i.test(raw)) return fallback()
-  // Must contain at least one pet-related keyword
-  const hasPetKeyword = /\b(pet|dog|cat|animal|charge|fee|welcome|allowed|accepted)\b/i.test(raw)
-  if (!hasPetKeyword) return fallback()
-  // Truncate to max 200 chars
-  const trimmed = raw.trim()
-  return trimmed.length > 200 ? trimmed.slice(0, 197) + '…' : trimmed
-}
 
 export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale, destCountry }: HotelRankedCardProps) {
   const ctaHref = destCountry

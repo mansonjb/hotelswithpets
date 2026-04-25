@@ -7,7 +7,7 @@ export default function LocaleNotFound() {
       <span className="text-8xl mb-6 block">🐾</span>
       <h1 className="text-4xl font-extrabold text-gray-900 mb-3">Page introuvable</h1>
       <p className="text-gray-500 text-lg mb-8 max-w-md">
-        Cette page n'existe pas ou l'hôtel a déménagé.
+        Cette page n&apos;existe pas ou l&apos;hôtel a déménagé.
       </p>
       <div className="flex flex-wrap gap-3 justify-center">
         <Link

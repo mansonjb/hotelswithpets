@@ -19,7 +19,6 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<'/[locale]'>): Promise<Metadata> {
   const { locale } = await params
   if (!hasLocale(locale)) return {}
-  const dict = await getDictionary(locale as Locale)
 
   const titles: Record<string, string> = {
     en: 'Pet-Friendly Hotels in Europe: Find & Book | HotelsWithPets.com',
@@ -27,9 +26,9 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
     es: 'Hoteles que Admiten Mascotas en Europa | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
-    en: 'Browse 270+ pet-friendly hotels across 34 European destinations. Filter by pet type, compare policies, and book on Booking.com.',
-    fr: 'Plus de 270 hôtels acceptant les animaux dans 34 destinations européennes. Filtrez par type d\'animal, comparez les politiques et réservez.',
-    es: 'Más de 270 hoteles que admiten mascotas en 34 destinos europeos. Filtra por tipo de mascota, compara políticas y reserva.',
+    en: 'Browse 460+ pet-friendly hotels across 66 European destinations. Filter by pet type, compare policies, and book on Booking.com.',
+    fr: 'Plus de 460 hôtels acceptant les animaux dans 66 destinations européennes. Filtrez par type d\'animal, comparez les politiques et réservez.',
+    es: 'Más de 460 hoteles que admiten mascotas en 66 destinos europeos. Filtra por tipo de mascota, compara políticas y reserva.',
   }
 
   const title = titles[locale] ?? titles.en

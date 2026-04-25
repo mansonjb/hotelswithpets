@@ -12,7 +12,18 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Scripts are Node.js/CommonJS utilities — linted separately if needed
+    "scripts/**",
   ]),
+  {
+    rules: {
+      // Allow _-prefixed names to mark intentionally unused vars/args
+      '@typescript-eslint/no-unused-vars': [
+        'warn',
+        { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
+      ],
+    },
+  },
 ]);
 
 export default eslintConfig;

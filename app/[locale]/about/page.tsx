@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
+import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site'
 
@@ -123,7 +123,6 @@ const content: Record<string, {
 export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
-  const dict = await getDictionary(locale as Locale)
   const c = content[locale] ?? content.en
 
   return (

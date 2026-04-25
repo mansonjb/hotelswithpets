@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
+import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import categories from '@/data/categories.json'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'

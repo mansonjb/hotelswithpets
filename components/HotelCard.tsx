@@ -39,33 +39,6 @@ interface HotelCardProps {
   destCountry?: string
 }
 
-function sanitizePetPolicy(raw: string, petFee?: number, locale = 'en'): string {
-  const fallback = (): string => {
-    if (locale === 'fr') {
-      if (petFee === 0) return "Les animaux séjournent gratuitement. Chiens et chats bienvenus dans tout l'établissement."
-      if (petFee !== undefined && petFee > 0) return `Animaux acceptés. Un supplément de ${petFee}€ par nuit s'applique. À confirmer lors de la réservation.`
-      return 'Les animaux sont les bienvenus. Veuillez confirmer les conditions lors de la réservation.'
-    }
-    if (locale === 'es') {
-      if (petFee === 0) return 'Las mascotas se alojan gratis. Perros y gatos son bienvenidos en todo el establecimiento.'
-      if (petFee !== undefined && petFee > 0) return `Se admiten mascotas. Se aplica un cargo de ${petFee}€ por noche. Confirmar al reservar.`
-      return 'Las mascotas son bienvenidas. Confirme las condiciones específicas al reservar.'
-    }
-    if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
-    if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
-    return 'Pets are welcome. Please confirm specific pet policy when booking.'
-  }
-
-  if (!raw || raw.trim().length === 0) return fallback()
-  if (/<[a-z]/i.test(raw) || /[<>{}]/.test(raw)) return fallback()
-  if (/\d+.*\b(avenue|ave|rue|street|st\.|boulevard|blvd|road|rd\.)\b/i.test(raw)) return fallback()
-  if (/rated|reviews|real guests|real stays|show map|sustainability certification|beachfront/i.test(raw)) return fallback()
-  const hasPetKeyword = /\b(pet|dog|cat|animal|charge|fee|welcome|allowed|accepted)\b/i.test(raw)
-  if (!hasPetKeyword) return fallback()
-  const trimmed = raw.trim()
-  return trimmed.length > 200 ? trimmed.slice(0, 197) + '…' : trimmed
-}
-
 const ratingLabel = (r: number, locale: string): string => {
   const labels: Record<string, [string, string, string, string]> = {
     en: ['Exceptional', 'Excellent', 'Very Good', 'Good'],

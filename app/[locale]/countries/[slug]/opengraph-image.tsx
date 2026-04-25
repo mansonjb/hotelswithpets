@@ -1,5 +1,5 @@
 import { ImageResponse } from 'next/og'
-import { getAllCountries, slugToCountry } from '@/lib/countries'
+import { getAllCountries } from '@/lib/countries'
 import hotels from '@/data/hotels.json'
 
 export const size = { width: 1200, height: 630 }

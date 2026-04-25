@@ -2333,6 +2333,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  gothenburg: {
+    history: {
+      fr: `Göteborg, fondée en 1621 par le roi Gustave II Adolphe comme porte de sortie de la Suède vers la mer du Nord, est devenue la deuxième ville du pays et son principal port. La ville a longtemps été dominée par les marchands écossais, néerlandais et allemands qui ont façonné son architecture et sa culture commerçante. Au XIXe siècle, le chantier naval Eriksberg et les usines Volvo et SKF ont fait de Göteborg le cœur industriel de la Suède. La ville a su se réinventer après le déclin de l'industrie lourde : aujourd'hui, c\'est une métropole universitaire de 600 000 habitants, réputée pour sa gastronomie de crustacés, son architecture Art Nouveau et, surtout, sa qualité de vie. En matière animale, la Suède figure parmi les législations les plus progressistes d\'Europe : les chiens sont admis dans les transports en commun, dans la majorité des cafés et restaurants, et dans les espaces naturels avec une laisse. Göteborg applique cela avec pragmatisme — le réseau Västtrafik, le Slottsskogen et la culture fika forment ensemble un paradis quotidien pour les propriétaires de chiens.`,
+      en: `Gothenburg, founded in 1621 by King Gustavus II Adolphus as Sweden's gateway to the North Sea, became the country's second city and primary port. The city was long dominated by Scottish, Dutch, and German merchants who shaped its architecture and trading culture. In the 19th century, the Eriksberg shipyards and the Volvo and SKF factories made Gothenburg the industrial heart of Sweden. The city successfully reinvented itself after the decline of heavy industry: today it is a university metropolis of 600,000 residents, renowned for its seafood gastronomy, Art Nouveau architecture, and above all its quality of life. On the pet travel front, Sweden is among Europe's most progressive countries: dogs are permitted on public transport, in the majority of cafés and restaurants, and in natural spaces on a lead. Gothenburg applies this with characteristic pragmatism — the Västtrafik network, the Slottsskogen, and the fika culture together form a daily paradise for dog owners.`,
+      es: `Gotemburgo, fundada en 1621 por el rey Gustavo II Adolfo como salida de Suecia hacia el Mar del Norte, se convirtió en la segunda ciudad del país y su principal puerto. La ciudad estuvo durante mucho tiempo dominada por comerciantes escoceses, holandeses y alemanes que dieron forma a su arquitectura y cultura comercial. En el siglo XIX, los astilleros de Eriksberg y las fábricas de Volvo y SKF convirtieron a Gotemburgo en el corazón industrial de Suecia. La ciudad supo reinventarse tras el declive de la industria pesada: hoy es una metrópolis universitaria de 600.000 habitantes, reconocida por su gastronomía de mariscos, su arquitectura Art Nouveau y, sobre todo, su calidad de vida. En materia de viajes con mascotas, Suecia está entre los países más progresistas de Europa: los perros están permitidos en el transporte público, en la mayoría de cafés y restaurantes, y en espacios naturales con correa.`,
+    },
+    sights: [
+      {
+        name: 'Slottsskogen',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc urbain emblématique de Göteborg — 137 hectares de forêt mixte, prairies et jardins formels avec cerfs, élans et flamants roses en liberté. Des zones sans laisse officielles sont disponibles dans la section nord. Circuit matinal incontournable pour les propriétaires de chiens götebourgeois.',
+          en: 'Gothenburg\'s iconic urban park — 137 hectares of mixed forest, meadows, and formal gardens with free-roaming deer, moose, and flamingos. Official off-leash zones are in the northern section. The unmissable morning circuit for Gothenburg dog owners.',
+          es: 'El icónico parque urbano de Gotemburgo — 137 hectáreas de bosque mixto, prados y jardines formales con ciervos, alces y flamencos en libertad. Las zonas oficiales sin correa están en la sección norte.',
+        },
+      },
+      {
+        name: 'Haga',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le quartier en bois du XIXe siècle le mieux préservé de Göteborg — rues pavées, maisons basses colorées et une longue rangée de terrasses de cafés sur la Haga Nygata. Les chiens y sont omniprésents à toute heure. La brioche à la cannelle géante du Café Husaren est incontournable.',
+          en: 'Gothenburg\'s best-preserved 19th-century wooden district — cobbled streets, colourful low wooden houses, and an unbroken line of café terraces on Haga Nygata. Dogs are omnipresent at all hours. Café Husaren\'s enormous cinnamon bun is unmissable.',
+          es: 'El barrio de madera del siglo XIX mejor conservado de Gotemburgo — calles adoquinadas, casas bajas coloridas y una interminable línea de terrazas de café en Haga Nygata. Los perros son omnipresentes a todas horas.',
+        },
+      },
+      {
+        name: 'Kungsportsavenyn',
+        emoji: '🛤️',
+        petFriendly: true,
+        desc: {
+          fr: 'Le boulevard principal de Göteborg — 700 mètres de terrasses de restaurants et cafés de la Kungsportsplatsen à la Götaplatsen. Les chiens en laisse y sont omniprésents, et le Kungsparken adjacent offre une alternative verte le long du même axe.',
+          en: 'Gothenburg\'s main boulevard — 700 metres of restaurant and café terraces from Kungsportsplatsen to Götaplatsen. Dogs on leads are ubiquitous here, and the adjacent Kungsparken provides a green alternative along the same axis.',
+          es: 'El bulevar principal de Gotemburgo — 700 metros de terrazas de restaurantes y cafés desde Kungsportsplatsen hasta Götaplatsen. Los perros con correa son omnipresentes, y el Kungsparken adyacente ofrece una alternativa verde.',
+        },
+      },
+      {
+        name: 'Trädgårdsföreningen',
+        emoji: '🌹',
+        petFriendly: true,
+        desc: {
+          fr: 'Le parc historique de la Société du Jardin du XIXe siècle — une roseraie scandinavie exceptionnelle, une serre palmier victorienne et un café en plein air où les chiens sont bienvenus en terrasse. Entrée payante mais atmosphère unique.',
+          en: 'The 19th-century Garden Society historic park — an exceptional Scandinavian rose garden, a Victorian palm house, and an outdoor café where dogs are welcome on the terrace. Admission charged but the atmosphere is unique.',
+          es: 'El histórico parque de la Sociedad del Jardín del siglo XIX — un excepcional jardín de rosas escandinavo, un invernadero victoriano de palmeras y un café al aire libre donde los perros son bienvenidos en la terraza.',
+        },
+      },
+      {
+        name: 'Feskekôrka',
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: 'Le célèbre marché aux poissons de Göteborg dans un bâtiment néo-gothique qui ressemble à une église. Les chiens attendent à l\'extérieur, mais les quais du canal de Rosenlund environnants sont entièrement accessibles et font une promenade de 20 minutes idéale.',
+          en: 'Gothenburg\'s famous fish market in a neo-Gothic building resembling a church. Dogs wait outside, but the surrounding Rosenlund canal quaysides are fully accessible and make an ideal 20-minute walk.',
+          es: 'El famoso mercado de pescado de Gotemburgo en un edificio neogótico que parece una iglesia. Los perros esperan fuera, pero los muelles del canal de Rosenlund circundante son totalmente accesibles.',
+        },
+      },
+      {
+        name: 'Gothenburg Archipelago',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'Les îles de l\'archipel sud — Styrsö, Brännö, Vrångö — accessibles en ferry depuis Saltholmen (ligne de tramway 11). Les îles sont sans voiture, avec des sentiers côtiers étendus et des plages de roche. Les chiens voyagent gratuitement sur les ferries Styrsöbolaget.',
+          en: 'The southern archipelago islands — Styrsö, Brännö, Vrångö — accessible by ferry from Saltholmen (tram Line 11). The islands are car-free with extensive coastal paths and rock beaches. Dogs travel free on Styrsöbolaget ferries.',
+          es: 'Las islas del archipiélago sur — Styrsö, Brännö, Vrångö — accesibles en ferry desde Saltholmen (tranvía Línea 11). Las islas son libres de coches con extensos senderos costeros. Los perros viajan gratis en los ferries de Styrsöbolaget.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les chiens voyagent gratuitement dans tous les tramways, bus et ferries Västtrafik de Göteborg — sans restriction de taille, sans transport obligatoire. Profitez-en pour rayonner dans toute la ville et jusqu\'à l\'archipel.',
+        'Le Slottsskogen dispose de zones sans laisse officielles dans sa section nord — entrez par Linnéplatsen pour y accéder directement depuis le quartier Haga en 15 minutes.',
+        'La Suède exige le passeport européen standard, la puce électronique et la vaccination antirabique valide. Aucune quarantaine pour les animaux conformes à l\'UE.',
+        'La culture fika götebourgeoise est profondément dog-friendly : si vous hésitez à entrer dans un café avec votre chien, faites-le simplement en laisse — la réponse sera presque toujours positive dans les quartiers Haga et Linné.',
+        'En été (juin-août), le soleil se couche après 21h à Göteborg — profitez-en pour des promenades en soirée dans le Slottsskogen ou sur les quais, quand la foule s\'est dissipée.',
+      ],
+      en: [
+        'Dogs travel free on all Västtrafik trams, buses, and ferries with no size restriction and no carrier required. Use this to explore the whole city and reach the archipelago at no extra cost.',
+        'Slottsskogen has official off-leash zones in the northern section — enter from Linnéplatsen for direct access from the Haga district in 15 minutes.',
+        'Sweden requires the standard EU pet passport, microchip, and valid rabies vaccination. No quarantine for EU-compliant pets.',
+        'Gothenburg\'s fika culture is deeply dog-welcoming: if in doubt about a café\'s dog policy, simply walk in with your dog on a lead — the answer will almost always be positive in Haga and Linné.',
+        'In summer (June-August), the sun sets after 9pm in Gothenburg — take advantage for evening walks in the Slottsskogen or along the canal quaysides when the crowds have thinned.',
+      ],
+      es: [
+        'Los perros viajan gratis en todos los tranvías, autobuses y ferries de Västtrafik sin restricción de tamaño y sin transportín obligatorio. Úsalo para explorar toda la ciudad y llegar al archipiélago sin coste adicional.',
+        'Slottsskogen tiene zonas oficiales sin correa en la sección norte — entra por Linnéplatsen para acceso directo desde el barrio de Haga en 15 minutos.',
+        'Suecia exige el pasaporte europeo estándar, microchip y vacunación antirrábica válida. Sin cuarentena para mascotas conformes con la UE.',
+        'La cultura fika de Gotemburgo es profundamente acogedora para perros: si tienes dudas sobre la política canina de un café, simplemente entra con tu perro con correa — la respuesta será casi siempre positiva en Haga y Linné.',
+        'En verano (junio-agosto), el sol se pone después de las 21:00 en Gotemburgo — aprovecha para paseos vespertinos en el Slottsskogen o por los muelles del canal cuando la multitud se ha dispersado.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Accès : l\'Aéroport de Göteborg Landvetter est à 30 minutes en bus (Flygbussarna). La Gare centrale relie Stockholm (3h), Malmö (2h45), Copenhague (3h15) et Oslo (4h). Les chiens paient le tarif enfant en train SJ.',
+        'Transports : chiens gratuits dans tous les tramways et bus Västtrafik, sans restriction de taille. Tramway ligne 11 pour l\'archipel (Saltholmen). Ferries Styrsöbolaget pour les îles, chiens gratuits sur le pont.',
+        'Parcs : Slottsskogen (137 ha, zones sans laisse), Trädgårdsföreningen (payant, chiens en laisse en terrasse). Circuit Haga-Slottsskogen recommandé pour les promenades matinales.',
+        'Vétérinaires : Anicura Djursjukhuset (urgences 24h/7). Plusieurs cabinets centraux dans Vasastan et Linné, ouverts le samedi.',
+        'Documents : passeport UE + puce + rage obligatoires. Les pharmacies suédoises (Apotek) vendent des antiparasitaires et médicaments pour animaux.',
+      ],
+      en: [
+        'Getting there: Göteborg Landvetter Airport is 30 minutes by bus (Flygbussarna). The Central Station connects Stockholm (3h), Malmö (2h45), Copenhagen (3h15), and Oslo (4h). Dogs pay the child fare on SJ trains.',
+        'Transport: dogs free on all Västtrafik trams and buses, no size restriction. Tram Line 11 for the archipelago (Saltholmen). Styrsöbolaget ferries to the islands; dogs free on deck.',
+        'Parks: Slottsskogen (137 ha, off-leash zones in north). Trädgårdsföreningen (admission, dogs on lead on terrace). Haga–Slottsskogen circuit recommended for morning walks.',
+        'Vets: Anicura Djursjukhuset (24/7 emergency). Several central practices in Vasastan and Linné, open Saturdays.',
+        'Documents: EU passport + microchip + rabies required. Swedish pharmacies (Apotek) sell antiparasitics and pet medications.',
+      ],
+      es: [
+        'Cómo llegar: el Aeropuerto Göteborg Landvetter está a 30 minutos en autobús (Flygbussarna). La Estación Central conecta con Estocolmo (3h), Malmö (2h45), Copenhague (3h15) y Oslo (4h). Los perros pagan la tarifa infantil en trenes SJ.',
+        'Transporte: perros gratis en todos los tranvías y autobuses Västtrafik, sin restricción de tamaño. Tranvía Línea 11 para el archipiélago (Saltholmen). Ferries Styrsöbolaget a las islas; perros gratis en cubierta.',
+        'Parques: Slottsskogen (137 ha, zonas sin correa en el norte). Trädgårdsföreningen (entrada de pago, perros con correa en terraza). Circuito Haga-Slottsskogen recomendado para paseos matutinos.',
+        'Veterinarios: Anicura Djursjukhuset (urgencias 24/7). Varios consultorios centrales en Vasastan y Linné, abiertos los sábados.',
+        'Documentación: pasaporte UE + microchip + rabia obligatorios. Las farmacias suecas (Apotek) venden antiparasitarios y medicamentos para mascotas.',
+      ],
+    },
+  },
+
   granada: {
     history: {
       fr: `Fondée par les Ibères sous le nom d'Iliberri, Grenade devint sous la domination arabe la capitale de l'émirat nasride au XIIIe siècle, atteignant 150 000 habitants et produisant l'Alhambra, chef-d'œuvre inégalé de l'architecture islamique. La Reconquista l'intégra à la Couronne de Castille en 1492 — la même année où Christophe Colomb levait l'ancre depuis l'Andalousie. La ville conserva son identité arabe bien après la conquête : ses bains, ses marchés couverts et ses ruelles blanches de l'Albaicín témoignent de sept siècles de civilisation Al-Andalus. Aujourd'hui, Grenade est une ville universitaire animée de 230 000 habitants, où la tradition des tapas gratuites avec chaque verre, l'accueil des terrasses envers les chiens et la proximité de la Sierra Nevada en font l'une des escapades les plus séduisantes d'Espagne pour les voyageurs avec animaux.`,

@@ -3883,6 +3883,135 @@
     "slug": "yalo-urban-boutique-hotel-gent"
   },
   {
+    "id": "gothenburg-1",
+    "name": "Clarion Hotel Post",
+    "destinationSlug": "gothenburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 3102,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/clarion-post.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Clarion Hotel Post welcomes dogs and cats at no extra charge. Set inside the historic Gothenburg post office building beside the Central Station, the hotel is perfectly placed for tram access to Slottsskogen and Haga. Pets up to any size are accepted. A water bowl and welcome treat are provided on arrival. Pets are welcome in the room and in the informal lobby lounge. Declare your pet at the time of booking.",
+    "highlights": [
+      "Pool & spa",
+      "Rooftop bar",
+      "Historic building",
+      "Central Station location"
+    ],
+    "slug": "clarion-hotel-post-gothenburg"
+  },
+  {
+    "id": "gothenburg-2",
+    "name": "Elite Plaza Hotel",
+    "destinationSlug": "gothenburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1843,
+    "priceFrom": 185,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/elite-plaza-goteborg.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Elite Plaza Hotel accepts dogs and cats of all sizes with no pet supplement. The hotel is housed in a grand 1889 building on the Västra Hamngatan. Pet-friendly rooms are available on request. Dogs and cats are welcome in the room and in the hotel's library lounge. The Kungsparken and Trädgårdsföreningen are a 5-minute walk.",
+    "highlights": [
+      "19th-century architecture",
+      "No pet fee",
+      "Library lounge",
+      "Avenyn proximity"
+    ],
+    "slug": "elite-plaza-hotel-gothenburg"
+  },
+  {
+    "id": "gothenburg-3",
+    "name": "Hotel Pigalle",
+    "destinationSlug": "gothenburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 876,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/pigalle-goteborg.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Pigalle is a design boutique hotel with a genuinely relaxed approach to pets. Dogs and cats are welcomed at no extra charge. The intimate size of the hotel means pets are treated as individuals rather than managed exceptions. Pet-friendly rooms include extra floor space. Slottsskogen park is a 10-minute walk.",
+    "highlights": [
+      "Design hotel",
+      "No pet fee",
+      "Boutique atmosphere",
+      "Slottsskogen nearby"
+    ],
+    "slug": "hotel-pigalle-gothenburg"
+  },
+  {
+    "id": "gothenburg-4",
+    "name": "Scandic Rubinen",
+    "destinationSlug": "gothenburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2541,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/scandic-rubinen.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Scandic Hotels has a system-wide pet-friendly policy: dogs and cats are welcome at no extra charge at all Scandic properties. At Scandic Rubinen on the Kungsportsavenyn, pets are accepted in designated pet-friendly rooms. A pet mat and water bowl are available on request. The Avenyn and Kungsparken are immediately outside the door.",
+    "highlights": [
+      "Avenyn location",
+      "No pet fee",
+      "Scandic pet-friendly network",
+      "Kungsparken access"
+    ],
+    "slug": "scandic-rubinen-gothenburg"
+  },
+  {
+    "id": "gothenburg-5",
+    "name": "Avalon Hotel",
+    "destinationSlug": "gothenburg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1234,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/avalon-goteborg.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Avalon Hotel is a design hotel near the city's main boulevards that welcomes dogs and cats at no extra charge. The hotel has a rooftop pool and terrace; pets are welcome in the room and in the informal lobby areas. The Trädgårdsföreningen garden park is a short walk. Pets up to 20 kg accepted; larger on request.",
+    "highlights": [
+      "Rooftop pool",
+      "Design hotel",
+      "No pet fee",
+      "Trädgårdsföreningen nearby"
+    ],
+    "slug": "avalon-hotel-gothenburg"
+  },
+  {
     "id": "granada-1",
     "name": "NH Collection Granada Victoria",
     "destinationSlug": "granada",

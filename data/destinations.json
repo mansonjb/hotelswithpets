@@ -1536,6 +1536,79 @@
     }
   },
   {
+    "slug": "gothenburg",
+    "name": "Gothenburg",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/gothenburg.jpg",
+    "intro": "Gothenburg is Sweden's most dog-friendly city — a lively port city with vast urban forests, dog-welcoming café culture, and a Scandinavian transit system that treats pets as first-class passengers.",
+    "lat": 57.7089,
+    "lng": 11.9746,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "granada",
     "name": "Granada",
     "country": "Spain",

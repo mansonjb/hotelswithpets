@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
       area: 'the Patershol, Sint-Pieters, and Portus Ganda',
     },
+    gothenburg: {
+      personality: 'Sweden\'s most dog-friendly city — a lively port and university city where dogs ride trams for free, run off-leash in the 137-hectare Slottsskogen, and are welcomed inside almost every café',
+      highlight: 'the Slottsskogen urban forest, the Haga wooden district cafés, and the dog-friendly Gothenburg Archipelago islands',
+      area: 'Haga, the Linné neighbourhood, and the Vasastan district',
+    },
     granada: {
       personality: 'the most atmospheric Moorish city in Europe — where the Alhambra watches over cobbled Albaicín lanes, Andalusian terrace culture makes dogs genuinely welcome, and the Sierra Nevada is an hour away',
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
@@ -449,6 +454,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
       area: 'le Patershol, Sint-Pieters et Portus Ganda',
     },
+    gothenburg: {
+      personality: 'la ville la plus dog-friendly de Suède — une ville portuaire et universitaire animée où les chiens prennent le tramway gratuitement, courent sans laisse dans le Slottsskogen de 137 hectares et sont accueillis dans presque tous les cafés',
+      highlight: 'la forêt urbaine de Slottsskogen, les cafés du quartier en bois de Haga et les îles dog-friendly de l\'archipel de Göteborg',
+      area: 'Haga, le quartier Linné et le quartier Vasastan',
+    },
     granada: {
       personality: 'la ville mauresque la plus atmosphérique d\'Europe — où l\'Alhambra surveille les ruelles pavées de l\'Albaicín, la culture de la terrasse andalouse réserve un accueil sincère aux chiens, et la Sierra Nevada est à une heure',
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
@@ -770,6 +780,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',
       highlight: 'el Citadelpark, la reserva natural de Bourgoyen-Ossemeersen y los caminos de sirga ribereños del Leie',
       area: 'el Patershol, Sint-Pieters y Portus Ganda',
+    },
+    gothenburg: {
+      personality: 'la ciudad más acogedora para perros de Suecia — una animada ciudad portuaria y universitaria donde los perros viajan en tranvía gratis, corren sin correa en el Slottsskogen de 137 hectáreas y son bienvenidos en casi todos los cafés',
+      highlight: 'el bosque urbano de Slottsskogen, los cafés del barrio de madera de Haga y las islas aptas para perros del archipiélago de Gotemburgo',
+      area: 'Haga, el barrio de Linné y el distrito de Vasastan',
     },
     granada: {
       personality: 'la ciudad árabe más atmosférica de Europa — donde la Alhambra vigila las callejuelas empedradas del Albaicín, la cultura de la terraza andaluza hace que los perros sean genuinamente bienvenidos y Sierra Nevada está a una hora',

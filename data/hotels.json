@@ -2293,6 +2293,135 @@
     "slug": "aria-hotel-budapest-by-library-hotel-collection"
   },
   {
+    "id": "cannes-1",
+    "name": "Grand Hyatt Cannes Hôtel Martinez",
+    "destinationSlug": "cannes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2341,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-martinez-cannes.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Grand Hyatt Cannes Hôtel Martinez welcomes dogs and cats in designated pet-friendly rooms on the Croisette. A flat pet fee of €50 per stay applies. Pets up to 20 kg are accepted; one pet per room. Guests receive a welcome amenity for their pet. The hotel is steps from the Croisette promenade, ideal for morning walks. Pets must be kept on a lead in all public areas and are not permitted in the restaurant or spa. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Outdoor pool",
+      "Private beach access",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "grand-hyatt-cannes-hotel-martinez"
+  },
+  {
+    "id": "cannes-2",
+    "name": "Hôtel Barrière Le Majestic Cannes",
+    "destinationSlug": "cannes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1876,
+    "priceFrom": 310,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-majestic-cannes.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Hôtel Barrière Le Majestic accepts dogs and cats in pet-friendly rooms. A pet supplement of €30 per night applies. Pets up to 10 kg are welcomed; larger pets on request with prior approval. The hotel provides pet bedding and a water bowl. Pets are welcome in the room and on the terrace but not in the dining room or spa. Cannes' finest boulevard is right outside the door for long morning walks with your dog.",
+    "highlights": [
+      "Croisette location",
+      "Private beach",
+      "Pools",
+      "Michelin-starred dining"
+    ],
+    "slug": "hotel-barriere-le-majestic-cannes"
+  },
+  {
+    "id": "cannes-3",
+    "name": "Hotel 3.14 Cannes",
+    "destinationSlug": "cannes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 987,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/3-14-cannes.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel 3.14 welcomes dogs and cats of all sizes at no extra charge. The hotel is designed around themes from each continent and has a relaxed, eclectic atmosphere that extends to its pet policy. Pets are welcome in the rooms, on the rooftop terrace, and in the informal garden areas. There is no weight limit. The Croisette and the old port are a 5-minute walk away. Guests with pets are asked to use the pet entrance on the side street.",
+    "highlights": [
+      "Rooftop pool",
+      "Boutique design",
+      "No pet fee",
+      "Central location"
+    ],
+    "slug": "hotel-3-14-cannes"
+  },
+  {
+    "id": "cannes-4",
+    "name": "Novotel Cannes Centre",
+    "destinationSlug": "cannes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2103,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/novotel-cannes-centre.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Cannes Centre accepts pets in designated pet-friendly rooms. A supplement of €15 per night applies. Dogs and cats up to 10 kg are welcomed without additional requirements; larger dogs are accepted on request. The hotel provides a pet mat and water bowl on request. The property is a 10-minute walk from the Croisette and close to the Parc de la Roseraie for morning walks. Pets must be kept on a lead in all common areas.",
+    "highlights": [
+      "Outdoor pool",
+      "Central location",
+      "Parking",
+      "Restaurant"
+    ],
+    "slug": "novotel-cannes-centre"
+  },
+  {
+    "id": "cannes-5",
+    "name": "Le Cavendish Boutique Hotel",
+    "destinationSlug": "cannes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 743,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-cavendish-boutique.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Le Cavendish Boutique Hotel is a genuinely pet-welcoming address with no pet supplement. Dogs and cats are accepted up to 20 kg. The hotel is housed in a Belle Époque building one block from the Croisette, and the intimate size means pets are treated as guests. A welcome treat is provided on arrival. Pets may accompany guests on the outdoor terrace and in the lobby lounge. Morning walks to the Allées de la Liberté and the old port start from the front door.",
+    "highlights": [
+      "Belle Époque building",
+      "No pet fee",
+      "Croisette proximity",
+      "Personalised service"
+    ],
+    "slug": "le-cavendish-boutique-hotel-cannes"
+  },
+  {
     "id": "cologne-1",
     "name": "Hotel Lyskirchen",
     "destinationSlug": "cologne",

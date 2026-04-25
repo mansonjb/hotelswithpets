@@ -43,6 +43,9 @@ const TARGETS = [
   { slug: 'hannover', query: 'Neues Rathaus Hannover Maschsee reflection' },
   { slug: 'palma', query: 'La Seu Cathedral Palma de Mallorca waterfront' },
   { slug: 'thessaloniki', query: 'White Tower Thessaloniki waterfront promenade' },
+  { slug: 'cannes', query: 'Cannes La Croisette seafront promenade' },
+  { slug: 'gothenburg', query: 'Gothenburg Haga district historic wooden houses' },
+  { slug: 'lausanne', query: 'Lausanne Ouchy lakeside Lake Geneva panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

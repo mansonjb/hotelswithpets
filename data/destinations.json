@@ -878,6 +878,79 @@
     }
   },
   {
+    "slug": "cannes",
+    "name": "Cannes",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cannes.jpg",
+    "intro": "Cannes blends Riviera glamour with a surprisingly relaxed dog culture — terraces along Le Suquet, the Marché Forville, and the western beaches all welcome four-legged guests year-round.",
+    "lat": 43.5528,
+    "lng": 7.0174,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild with sun",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Cool & mild",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "cologne",
     "name": "Cologne",
     "country": "Germany",

@@ -1354,6 +1354,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cannes: {
+    history: {
+      fr: `Cannes, petite ville de pêcheurs jusqu\'au milieu du XIXe siècle, doit sa métamorphose en capitale du glamour à lord Henry Brougham, qui s\'y arrêta en 1834 et décida d\'y construire une villa. L\'aristocratie britannique suivit, puis la Belle Époque transforma la Croisette en vitrine du luxe mondial. Le Festival international du film, créé en 1946, ancra définitivement Cannes sur la carte culturelle mondiale. Derrière ce vernis, la ville garde son âme provençale : le marché Forville, les ruelles du Suquet et la flotte de pêcheurs du vieux port rappellent que Cannes est d\'abord une ville méditerranéenne. Côté animal, la France impose un passeport européen pour animaux, une puce électronique et la vaccination antirabique pour les chiens et chats de l\'Union. À Cannes, les chiens en laisse sont admis sur les promenades, dans les parcs et sur la plupart des terrasses. Les plages de la Croisette sont interdites aux chiens de juin à septembre, mais la Plage de la Bocca et l\'Île Sainte-Marguerite restent accessibles toute l\'année.`,
+      en: `Cannes was a quiet fishing village until the mid-19th century, when Lord Henry Brougham stopped here in 1834 and built a villa — triggering a cascade of British aristocrats who turned the coast into a winter retreat. The Belle Époque transformed the Croisette into a world showcase of luxury hotels and grand promenades. The Festival International du Film, launched in 1946, sealed Cannes\'s place on the global cultural map. Behind the glamour, the city retains its Provençal soul: the Marché Forville, the cobbled lanes of Le Suquet, and the fishing fleet in the old port remind you that Cannes is, at heart, a Mediterranean town. For travelling pets, France requires a standard EU pet passport, microchip, and rabies vaccination. Dogs on leads are permitted on promenades, in parks, and on most café terraces. The main Croisette beaches ban dogs from June to September, but Plage de la Bocca\'s western end and the Île Sainte-Marguerite remain accessible year-round.`,
+      es: `Cannes era un tranquilo pueblo de pescadores hasta mediados del siglo XIX, cuando lord Henry Brougham se detuvo aquí en 1834 y construyó una villa, desencadenando la llegada de la aristocracia británica que convirtió la costa en su retiro invernal. La Belle Époque transformó la Croisette en un escaparate mundial de hoteles de lujo y grandes paseos. El Festival Internacional de Cine, creado en 1946, consolidó definitivamente a Cannes en el mapa cultural mundial. Detrás del glamour, la ciudad conserva su alma provenzal: el Marché Forville, los callejones empedrados del Suquet y la flota pesquera del puerto viejo recuerdan que Cannes es, en el fondo, una ciudad mediterránea. Para las mascotas viajeras, Francia exige el pasaporte europeo estándar, microchip y vacunación antirrábica. Los perros con correa están permitidos en los paseos, en los parques y en la mayoría de las terrazas. Las principales playas de la Croisette prohíben los perros de junio a septiembre, pero el extremo occidental de la Plage de la Bocca y la Île Sainte-Marguerite son accesibles durante todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Le Suquet',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: 'La vieille ville médiévale de Cannes, perchée sur sa colline au-dessus du vieux port, est un quartier de ruelles pavées, d\'escaliers raides et de panoramas sur la baie et les Îles de Lérins. Le circuit de promenade (40 minutes aller-retour depuis le port) passe devant des maisons colorées et débouche sur la Place de la Castre avec sa tour médiévale. Les chiens en laisse y sont parfaitement à leur place.',
+          en: 'Cannes\' medieval hilltop old town rises steeply above the old port in cobbled lanes with panoramic views over the bay and Lérins Islands. The walking circuit — 40 minutes return from the port — opens onto the Place de la Castre with its medieval tower. Dogs on leads are entirely at home here.',
+          es: 'El casco antiguo medieval de Cannes se alza sobre el puerto viejo en un laberinto de callejones empedrados con vistas panorámicas a la bahía y las Islas de Lérins. El circuito desemboca en la Place de la Castre con su torre medieval. Los perros con correa están completamente a gusto.',
+        },
+      },
+      {
+        name: 'Marché Forville',
+        emoji: '🛒',
+        petFriendly: true,
+        desc: {
+          fr: 'Le marché couvert de Cannes, ouvert tous les matins sauf le lundi, est l\'un des plus beaux marchés provençaux de la Côte d\'Azur : légumes du Var, poissons de Méditerranée, fromages, fleurs et épices. Les chiens en laisse y sont les bienvenus et les commerçants en sont coutumiers.',
+          en: 'Cannes\' covered market, open every morning except Monday, is one of the finest Provençal markets on the Côte d\'Azur: Var vegetables, Mediterranean fish, cheeses, and flowers. Dogs on leads are welcomed throughout and the vendors are entirely accustomed to them.',
+          es: 'El mercado cubierto de Cannes, abierto todas las mañanas excepto el lunes, es uno de los mejores mercados provenzales de la Costa Azul: verduras del Var, pescado mediterráneo, quesos y flores. Los perros con correa son bienvenidos en todo el recinto.',
+        },
+      },
+      {
+        name: 'La Croisette',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: 'Le boulevard de la Croisette, large promenade de 2 km longeant la mer, est l\'adresse la plus célèbre de Cannes. La promenade est entièrement accessible aux chiens en laisse à toute heure de l\'année. La traversée complète aller-retour prend environ 45 minutes avec des vues permanentes sur la Méditerranée.',
+          en: 'The 2 km Boulevard de la Croisette, running from the Pointe Croisette to the Palais des Festivals, is Cannes\' most famous address. The promenade is fully dog-friendly year-round — a wide, palm-lined walkway with sea views for its entire length.',
+          es: 'El Boulevard de la Croisette, de 2 km, es la dirección más famosa de Cannes. El propio paseo es totalmente apto para perros durante todo el año — un amplio sendero bordeado de palmeras con vistas al mar en toda su longitud.',
+        },
+      },
+      {
+        name: 'Île Sainte-Marguerite',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: 'La plus grande des Îles de Lérins, à 15 minutes en ferry du vieux port, est couverte d\'une forêt de pins traversée par des sentiers côtiers. Les chiens sont autorisés sur tous les chemins — l\'un des rares endroits de la région où un chien peut se promener librement dans la nature côtière.',
+          en: 'The largest of the Lérins Islands, 15 minutes by ferry from the old port, is blanketed in pine forest threaded with coastal trails. Dogs are permitted on all paths — one of the rare places near Cannes where a dog can walk freely in a natural coastal environment.',
+          es: 'La mayor de las Islas de Lérins, a 15 minutos en ferry, está cubierta de bosque de pinos con senderos costeros. Los perros están permitidos en todos los caminos — uno de los pocos lugares donde pueden caminar libremente en un entorno natural costero.',
+        },
+      },
+      {
+        name: 'Vieux Port de Cannes',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: 'Le vieux port de Cannes, en fer à cheval entre le Suquet et le Palais des Festivals, est bordé de bateaux de pêche, de yachts et de brasseries en terrasse. Les quais offrent une promenade plane et ombragée idéale avec un chien, et plusieurs terrasses acceptent les animaux.',
+          en: 'The old port of Cannes, in a horseshoe curve between Le Suquet and the Palais des Festivals, is lined with fishing boats, yachts, and terrace brasseries. The quaysides offer a flat walk ideal for dogs, and several terrace cafés accept dogs.',
+          es: 'El puerto viejo de Cannes, en forma de herradura entre Le Suquet y el Palais des Festivals, está bordeado de barcos de pesca, yates y brasseries con terraza. Los muelles ofrecen un paseo plano ideal para perros.',
+        },
+      },
+      {
+        name: 'Parc de la Roseraie',
+        emoji: '🌹',
+        petFriendly: true,
+        desc: {
+          fr: 'Le principal parc urbain de Cannes, installé sur une colline au nord de la Croisette, offre parterres de roses, allées ombragées et plusieurs niveaux de verdure. C\'est le lieu de promenade quotidien des chiens cannois — très fréquenté le matin et plus calme en semaine l\'après-midi.',
+          en: 'Cannes\' main urban park, set on a hillside north of the Croisette with rose beds and shaded alleys. It is the daily walking ground of Cannes dogs — busy mornings, quieter weekday afternoons. Dogs must stay on leads.',
+          es: 'El principal parque urbano de Cannes, en una colina al norte de la Croisette con parterres de rosas y callejones sombreados. Es el lugar de paseo diario de los perros cannenses — concurrido por las mañanas, tranquilo entre semana.',
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Les plages de la Croisette sont interdites aux chiens de juin à septembre. Repliez-vous sur la Plage de la Bocca (extrémité ouest) ou l\'Île Sainte-Marguerite, accessibles toute l\'année.',
+        'Le Marché Forville accepte les chiens en laisse chaque matin sauf lundi — arrivez avant 9h pour le meilleur choix et une terrasse tranquille ensuite.',
+        'Réservez votre hôtel pet-friendly très tôt pour le mois de mai (Festival de Cannes) — les chambres acceptant les animaux sont prises en premier, parfois 3 à 4 mois à l\'avance.',
+        'En juillet-août, promenez votre chien avant 9h et après 19h — les pavés de la Croisette réfléchissent la chaleur et peuvent brûler les coussinets.',
+        'L\'Envibus (réseau urban) accepte les petits chiens en transport gratuitement et les grands chiens en laisse à tarif réduit — utile pour rejoindre la Bocca depuis le centre.',
+      ],
+      en: [
+        'Croisette beaches ban dogs from June to September. Fall back on the far western end of Plage de la Bocca or the Île Sainte-Marguerite — both accessible year-round.',
+        'Marché Forville welcomes dogs on leads every morning except Monday — arrive before 9am for the best produce and a quiet terrace afterwards.',
+        'Book your pet-friendly hotel very early for May (Cannes Film Festival) — pet-friendly rooms are the first to sell out, sometimes 3–4 months ahead.',
+        'In July and August, walk your dog before 9am and after 7pm — the Croisette pavements reflect heat that can burn paw pads.',
+        'Envibus (urban buses) accepts small dogs in carriers free and larger dogs on leads at a reduced fare — useful for reaching La Bocca beach from the centre.',
+      ],
+      es: [
+        'Las playas de la Croisette prohíben los perros de junio a septiembre. Recurre al extremo más occidental de la Plage de la Bocca o la Île Sainte-Marguerite — accesibles durante todo el año.',
+        'El Marché Forville da la bienvenida a los perros con correa todas las mañanas excepto el lunes — llega antes de las 9:00 para los mejores productos y una terraza tranquila después.',
+        'Reserva tu hotel pet-friendly muy pronto para mayo (Festival de Cine de Cannes) — las habitaciones que aceptan mascotas son las primeras en agotarse, a veces con 3-4 meses de antelación.',
+        'En julio y agosto, pasea a tu perro antes de las 9:00 y después de las 19:00 — los pavimentos de la Croisette reflejan el calor y pueden quemar las almohadillas.',
+        'Envibus (autobuses urbanos) acepta perros pequeños en transportín gratis y perros más grandes con correa a tarifa reducida — útil para llegar a la playa de la Bocca desde el centro.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Accès : la Gare de Cannes (SNCF) relie Nice (30 min), Antibes (10 min) et Marseille (2h). L\'Aéroport Nice Côte d\'Azur est à 45 min en taxi. Les chiens <6 kg voyagent en SNCF pour 7,50 € ; >6 kg : 50 % du tarif adulte + muselière.',
+        'Plages : chiens interdits sur les plages de la Croisette de juin à septembre. Plage de la Bocca (extrémité ouest) et Île Sainte-Marguerite accessibles toute l\'année.',
+        'Parcs : Parc de la Roseraie et Parc Montfleury acceptent les chiens en laisse. Le Suquet fonctionne comme un circuit de promenade naturel.',
+        'Vétérinaires : plusieurs cabinets dans le centre-ville. Clinique ouverte le samedi matin. Urgences vétérinaires à Nice (45 min).',
+        'Passeport : passeport européen, puce électronique et vaccination antirabique obligatoires. Les pharmacies cannoise vendent des antiparasitaires et les essentiels du voyage animalier.',
+      ],
+      en: [
+        'Getting there: Cannes SNCF station connects Nice (30 min), Antibes (10 min), and Marseille (2h). Nice Côte d\'Azur Airport is 45 minutes by taxi. Dogs under 6 kg travel SNCF for €7.50; over 6 kg: 50% adult fare and muzzle required.',
+        'Beaches: dogs banned from Croisette beaches June–September. Western end of Plage de la Bocca and Île Sainte-Marguerite accessible year-round.',
+        'Parks: Parc de la Roseraie and Parc Montfleury welcome dogs on leads. Le Suquet functions as a natural walking circuit through the old town.',
+        'Vets: several clinics in the city centre, open Saturday mornings. Emergency veterinary care available in Nice (45 minutes).',
+        'Documents: EU pet passport, microchip, and rabies vaccination required. Cannes pharmacies stock antiparasitic treatments and basic pet travel supplies.',
+      ],
+      es: [
+        'Cómo llegar: la Gare de Cannes (SNCF) conecta con Niza (30 min), Antibes (10 min) y Marsella (2h). El Aeropuerto de Niza Côte d\'Azur está a 45 minutos en taxi. Perros <6 kg viajan en SNCF por 7,50 €; >6 kg: 50% tarifa adulta y bozal obligatorio.',
+        'Playas: perros prohibidos en las playas de la Croisette de junio a septiembre. El extremo occidental de la Plage de la Bocca y la Île Sainte-Marguerite son accesibles durante todo el año.',
+        'Parques: el Parc de la Roseraie y el Parc Montfleury admiten perros con correa. Le Suquet funciona como circuito de paseo natural por el casco antiguo.',
+        'Veterinarios: varias clínicas en el centro de la ciudad, abiertas los sábados por la mañana. Atención veterinaria de urgencia disponible en Niza (45 minutos).',
+        'Documentación: pasaporte europeo, microchip y vacunación antirrábica obligatorios. Las farmacias de Cannes venden antiparasitarios y los elementos esenciales del viaje con mascota.',
+      ],
+    },
+  },
+
   cologne: {
     history: {
       fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires en règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,

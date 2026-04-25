@@ -81,6 +81,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
+    cannes: {
+      personality: 'a glamorous French Riviera city with a surprisingly relaxed dog culture — terraces in Le Suquet, the Marché Forville, and the western beaches all welcome dogs year-round',
+      highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
+      area: 'Le Suquet (the old town), the Marché Forville quarter, and La Bocca',
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -399,6 +404,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
+    cannes: {
+      personality: 'une ville glamour de la Côte d\'Azur avec une culture canine étonnamment détendue — les terrasses du Suquet, le quartier du Marché Forville et les plages de l\'ouest accueillent les chiens toute l\'année',
+      highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
+      area: 'Le Suquet (la vieille ville), le quartier du Marché Forville et La Bocca',
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -715,6 +725,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad de gran arquitectura y una escena dog-friendly en auge. Los perros viajan en metro, acceden a la mayoría de los parques y son bienvenidos en los famosos bares en ruinas de Budapest',
       highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
+    },
+    cannes: {
+      personality: 'una glamurosa ciudad de la Costa Azul con una cultura canina sorprendentemente relajada — las terrazas de Le Suquet, el barrio del Marché Forville y las playas occidentales acogen perros durante todo el año',
+      highlight: 'la Île Sainte-Marguerite boscosa, la Plage de la Bocca y los callejones adoquinados de Le Suquet',
+      area: 'Le Suquet (el casco antiguo), el barrio del Marché Forville y La Bocca',
     },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',

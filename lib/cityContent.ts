@@ -490,7 +490,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: 'Le grand parc central de Berlin (210 ha) est le terrain de jeu préféré des Berlinois et de leurs chiens. De nombreuses zones sont off-leash. L\'axe est-ouest traverse le parc entier. Les matins de semaine, il appartient presque entièrement aux chiens.',
+          fr: 'Le grand parc central de Berlin (210 ha) est le terrain de jeu préféré des Berlinois et de leurs chiens. De nombreuses zones sont sans laisse. L\'axe est-ouest traverse le parc entier. Les matins de semaine, il appartient presque entièrement aux chiens.',
           en: 'Berlin\'s main central park (210 ha) is the favourite playground of Berliners and their dogs. Many areas are off-leash. The east-west axis traverses the entire park. On weekday mornings it belongs almost entirely to the dogs.',
           es: 'El gran parque central de Berlín (210 ha) es el terreno de juego favorito de los berlineses y sus perros. Numerosas zonas están sin correa. El eje este-oeste atraviesa todo el parque. Los días laborables por la mañana pertenece casi íntegramente a los perros.',
         },
@@ -770,7 +770,7 @@ const cityContent: Record<string, CityContent> = {
         'Le guide officiel dog-friendly du Pays Basque (\'Euskadi con Perro\') est disponible gratuitement dans les offices de tourisme de Bilbao et téléchargeable sur turismo.euskadi.eus — c\'est la liste la plus fiable des restaurants, hôtels et attractions acceptant les chiens.',
         'Le tram EuskoTran est le transport en commun le plus adapté aux chiens de toutes tailles — laisse obligatoire, pas de transportin requis, et il dessert tous les sites touristiques majeurs.',
         'Les plages de la côte basque (Sopelana, Getxo) autorisent les chiens d\'octobre à mai uniquement — planifiez en conséquence et vérifiez chaque année les arrêtés municipaux.',
-        'La norme off-leash dans les parcs de Bilbao est de 19h à 11h dans les zonas de esparcimiento désignées — respectez ces horaires pour éviter les amendes.',
+        'La norme sans laisse dans les parcs de Bilbao est de 19h à 11h dans les zonas de esparcimiento désignées — respectez ces horaires pour éviter les amendes.',
         'Sauvegardez le 944 212 212 (Veterinaria Bilbao, urgences 24h) dans votre téléphone avant d\'arriver — c\'est le numéro vérifié sur le site officiel de la clinique.',
       ],
       en: [
@@ -1959,7 +1959,7 @@ const cityContent: Record<string, CityContent> = {
         'Les chiens sont admis dans la quasi-totalité des pubs écossais — c\'est une tradition nationale. Cherchez le signe "Dogs Welcome" à l\'entrée.',
         'Le ferry Stena Line ou P&O depuis Calais/Dunkerque vers Douvres est la meilleure option pour voyager avec un grand chien depuis le continent.',
         'Édimbourg est souvent ventée et fraîche même en été — prévoyez une couverture ou un imperméable pour votre chien.',
-        'Les Meadows (grand parc au sud du centre) disposent de zones off-leash populaires avec les locaux.',
+        'Les Meadows (grand parc au sud du centre) disposent de zones sans laisse populaires avec les locaux.',
       ],
       en: [
         '⚠️ IMPORTANT: The UK no longer accepts the EU pet passport post-Brexit. An Animal Health Certificate (AHC) is required to enter Great Britain. Book a vet appointment 10 days before departure.',
@@ -2020,7 +2020,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: 'Le grand parc linéaire de Florence (160 ha) le long de l\'Arno est le terrain de jeu préféré des Florentins et de leurs chiens. Zones off-leash dans plusieurs sections, pistes cyclables et courts de tennis. Le marché du mardi y est animé.',
+          fr: 'Le grand parc linéaire de Florence (160 ha) le long de l\'Arno est le terrain de jeu préféré des Florentins et de leurs chiens. Zones sans laisse dans plusieurs sections, pistes cyclables et courts de tennis. Le marché du mardi y est animé.',
           en: 'Florence\'s large linear park (160 ha) along the Arno is the favourite playground of Florentines and their dogs. Off-leash areas in several sections, cycle paths and tennis courts. The Tuesday market here is lively.',
           es: 'El gran parque lineal de Florencia (160 ha) a lo largo del Arno es el terreno de juego favorito de los florentinos y sus perros. Zonas sin correa en varias secciones, carriles bici y pistas de tenis. El mercado del martes aquí es muy animado.',
         },
@@ -7226,7 +7226,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎡',
         petFriendly: true,
         desc: {
-          fr: 'Le Prater est un immense parc (6 km²) traversé par la Hauptallee, une avenue droite de 4,5 km idéale pour courir avec son chien. Les zones off-leash y sont nombreuses. La grande roue (Riesenrad) est un symbole mais les animaux n\'y sont pas admis.',
+          fr: 'Le Prater est un immense parc (6 km²) traversé par la Hauptallee, une avenue droite de 4,5 km idéale pour courir avec son chien. Les zones sans laisse y sont nombreuses. La grande roue (Riesenrad) est un symbole mais les animaux n\'y sont pas admis.',
           en: 'The Prater is a vast park (6 km²) crossed by the Hauptallee, a 4.5 km straight avenue ideal for running with your dog. Off-leash zones are plentiful. The giant Ferris wheel (Riesenrad) is an icon but animals are not admitted.',
           es: 'El Prater es un enorme parque (6 km²) atravesado por la Hauptallee, una avenida recta de 4,5 km ideal para correr con tu perro. Las zonas sin correa son abundantes. La noria gigante (Riesenrad) es un símbolo, pero los animales no están admitidos.',
         },

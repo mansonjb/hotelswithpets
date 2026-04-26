@@ -2217,6 +2217,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  geneva: {
+    history: {
+      fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe — siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande en français qu'en anglais, italien ou portugais — y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade — le bassin lacustre coiffé du Jet d'Eau de 140 mètres — relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports — la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, en plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,
+      en: `Geneva — at the south-western tip of Lake Geneva and cradled between the Jura and Alps — was a fortified city-state before becoming the cradle of the Calvinist Reformation in the 16th century, then the world's humanitarian capital in the 20th: home to the Red Cross, the European seat of the United Nations and more than 40 international organisations. This cosmopolitan diplomatic population (40% of residents are foreign) shapes an extraordinarily multilingual city where it is just as natural to hear an order placed in French as in English, Italian or Portuguese — including the commands given to a dog. Compact (16 km²), Geneva can be crossed on foot north to south in 45 minutes, and its layout around the Rade — the lakeside basin crowned by the 140-metre Jet d'Eau — connects all districts: Pâquis on the right bank, Eaux-Vives on the left, the Old Town on its hilltop, and bohemian Carouge across the Arve. Swiss federal law lets dogs in everywhere unless an owner explicitly forbids it: restaurants, cafés, hotels, public transport — the decision is left to each business, and the prevailing culture is welcome. The Bois de la Bâtie, in the very centre, is one of the rare Swiss urban forests with year-round off-leash status.`,
+      es: `Ginebra — en la punta suroeste del lago Lemán y acunada entre el Jura y los Alpes — fue una ciudad-estado fortificada antes de convertirse en la cuna de la Reforma calvinista en el siglo XVI, y después en la capital humanitaria mundial en el XX: sede de la Cruz Roja, la sede europea de las Naciones Unidas y más de 40 organizaciones internacionales. Esta población diplomática cosmopolita (el 40% de los residentes son extranjeros) modela una ciudad extraordinariamente multilingüe donde es igual de natural oír un pedido en francés que en inglés, italiano o portugués — incluidas las órdenes dadas a un perro. Compacta (16 km²), Ginebra se atraviesa a pie de norte a sur en 45 minutos, y su organización en torno a la Rade — la cuenca lacustre coronada por el Jet d'Eau de 140 metros — conecta todos los barrios: Pâquis en la orilla derecha, Eaux-Vives en la izquierda, el Casco Antiguo en su colina y la bohemia Carouge al otro lado del Arve. La ley federal suiza permite perros en todas partes salvo prohibición explícita del propietario del local: restaurantes, cafés, hoteles, transporte — la decisión queda en cada uno, y la cultura dominante es de acogida. El Bois de la Bâtie, en pleno centro, es uno de los raros bosques urbanos suizos sin correa todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Bois de la Bâtie',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Colline boisée entre Rhône et Arve, plus grande zone sans laisse toute l'année du centre genevois. Sentiers ombragés, petit parc animalier gratuit, panorama sur la ville.`,
+          en: `A wooded hillside between the Rhône and Arve — the largest year-round off-leash zone in central Geneva. Shaded forest paths, a free small animal park, and panoramic city views.`,
+          es: `Colina arbolada entre el Ródano y el Arve — la mayor zona sin correa durante todo el año del centro de Ginebra. Senderos sombreados, pequeño parque animal gratuito, vistas panorámicas a la ciudad.`,
+        },
+      },
+      {
+        name: 'Quai Wilson',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade de 1,5 km en bord de lac sur la rive droite, du Pont du Mont-Blanc au parc de la Perle du Lac. Bandes herbeuses, accès direct au lac, chiens en laisse acceptés toute l'année.`,
+          en: `A 1.5 km lakeside promenade on the right bank, from the Mont-Blanc Bridge to the Perle du Lac park. Grassy strips, direct lake access, leashed dogs welcome year-round.`,
+          es: `Paseo de 1,5 km a la orilla del lago en la margen derecha, del Pont du Mont-Blanc al parque de la Perle du Lac. Franjas de césped, acceso directo al lago, perros con correa todo el año.`,
+        },
+      },
+      {
+        name: 'Parc des Bastions',
+        emoji: '♟️',
+        petFriendly: true,
+        desc: {
+          fr: `Parc historique au pied de la Vieille-Ville, abritant le Mur des Réformateurs et les jeux d'échecs géants. Marronniers anciens, allée centrale ombragée, chiens en laisse acceptés.`,
+          en: `Historic park beneath the Old Town, home to the Reformation Wall and the giant outdoor chess sets. Mature horse-chestnut trees, shaded central avenue, leashed dogs welcome.`,
+          es: `Parque histórico al pie del Casco Antiguo, hogar del Muro de la Reforma y los ajedreces gigantes al aire libre. Castaños de Indias maduros, avenida central sombreada, perros con correa.`,
+        },
+      },
+      {
+        name: 'Carouge',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier sarde du XVIIIe siècle au sud de l'Arve, avec ses bâtiments pastel et ses cours intérieures. Marché du mercredi et samedi, terrasses dog-friendly autour de la Place du Marché.`,
+          en: `An 18th-century Sardinian quarter south of the Arve, with pastel buildings and inner courtyards. Wednesday and Saturday market, dog-friendly terraces ringing the Place du Marché.`,
+          es: `Barrio sardo del siglo XVIII al sur del Arve, con edificios pastel y patios interiores. Mercado los miércoles y sábados, terrazas aptas para perros alrededor de la Place du Marché.`,
+        },
+      },
+      {
+        name: 'Jet d\'Eau',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Panache emblématique de 140 m sur le lac, à l'extrémité sud du Pont du Mont-Blanc. Jetée d'accès entièrement praticable en laisse — éclairé en soirée, plus calme après 21h.`,
+          en: `Geneva's signature 140-metre water plume on the lake, at the southern end of the Mont-Blanc Bridge. The access pier is fully walkable on lead — illuminated in the evening, calmer after 21:00.`,
+          es: `Penacho emblemático de 140 m sobre el lago, al extremo sur del Pont du Mont-Blanc. El muelle de acceso es totalmente transitable con correa — iluminado por la noche, más tranquilo después de las 21:00.`,
+        },
+      },
+      {
+        name: 'Parc des Eaux-Vives',
+        emoji: '🌹',
+        petFriendly: true,
+        desc: {
+          fr: `Parc lacustre élégant sur la Rive Gauche, voisin du Parc de la Grange. Pelouses, arbres anciens, vue directe sur le Jet d'Eau — boucle d'1 h avec La Grange et la roseraie.`,
+          en: `An elegant lakeside park on the Rive Gauche, neighbouring the Parc de la Grange. Lawns, mature trees, direct view of the Jet d'Eau — make it a one-hour loop with La Grange and its rose garden.`,
+          es: `Elegante parque junto al lago en la Rive Gauche, vecino del Parc de la Grange. Praderas, árboles maduros, vista directa al Jet d'Eau — circuito de una hora con La Grange y su rosaleda.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'TPG : petits chiens en panier gratuits, grands chiens demi-tarif (CHF 5 la carte journalière, ou CHF 25 pour la Suisse entière sur les CFF).',
+        'Bois de la Bâtie : zone sans laisse toute l\'année — la plupart des autres forêts du canton ferment du 1er avril au 15 juillet pour la nidification.',
+        'Genève-Plage et Baby Plage interdisent totalement les chiens en été (juin-septembre). Alternatives : Quai Wilson en ville, Bécassine ou Sciez en France.',
+        'Urgences vétérinaires 24h/24 : EVC Pâquis (sans rendez-vous), Vétélys Vernier (+41 22 719 10 10), réseau cantonal UVRG (+41 22 757 24 24).',
+        'Frais vétérinaires suisses élevés (consultation routine 100-150 CHF) : vérifiez que votre assurance voyage couvre explicitement la Suisse.',
+      ],
+      en: [
+        'TPG: small dogs in carriers travel free, larger dogs at half fare (CHF 5 day pass, or CHF 25 for unlimited rail travel across Switzerland on CFF).',
+        'Bois de la Bâtie: year-round off-leash zone — most other forests in the canton close 1 April to 15 July for wildlife nesting.',
+        'Genève-Plage and Baby Plage ban dogs entirely in summer (June–September). Alternatives: Quai Wilson in town, Bécassine or Sciez on the French side.',
+        '24/7 emergency vets: EVC Pâquis (walk-in), Vétélys Vernier (+41 22 719 10 10), cantonal on-call UVRG (+41 22 757 24 24).',
+        'Swiss vet fees are high (routine consultation CHF 100–150): make sure your travel insurance explicitly covers Switzerland.',
+      ],
+      es: [
+        'TPG: perros pequeños en transportín gratis, perros grandes a mitad de tarifa (CHF 5 el bono diario, o CHF 25 para tren ilimitado en Suiza con CFF).',
+        'Bois de la Bâtie: zona sin correa todo el año — la mayoría de los demás bosques del cantón cierran del 1 de abril al 15 de julio por nidificación.',
+        'Genève-Plage y Baby Plage prohíben perros enteramente en verano (junio-septiembre). Alternativas: Quai Wilson en la ciudad, Bécassine o Sciez en el lado francés.',
+        'Veterinarios de urgencia 24/7: EVC Pâquis (sin cita), Vétélys Vernier (+41 22 719 10 10), guardia cantonal UVRG (+41 22 757 24 24).',
+        'Tarifas veterinarias suizas altas (consulta rutinaria CHF 100-150): asegúrate de que tu seguro de viaje cubra explícitamente Suiza.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen avec puce et vaccination antirabique en cours de validité exigés à l\'arrivée — pas de quarantaine pour les animaux UE/EEE.',
+        'Carte Geneva Transport gratuite à l\'enregistrement de l\'hôtel : couvre tout le réseau TPG et le train aéroport-Cornavin pendant le séjour.',
+        'Loi suisse : décision d\'accepter les chiens revient au propriétaire de l\'établissement — la plupart disent oui, mais demandez à l\'entrée.',
+        'Centre-ville compact (16 km²) : du Pont du Mont-Blanc à la Vieille-Ville, comptez 10 minutes à pied — pas besoin de transports pour la majorité des sorties.',
+        'Frontière française à 5 km : passez avec passeport européen prêt, contrôles aléatoires côté suisse au retour.',
+      ],
+      en: [
+        'EU pet passport with microchip and current rabies vaccination required on arrival — no quarantine for EU/EEA animals.',
+        'Free Geneva Transport Card at hotel check-in: covers the full TPG network and the airport-Cornavin train for your entire stay.',
+        'Swiss law: deciding whether to admit dogs is left to each business owner — most say yes, but ask at the door.',
+        'The centre is compact (16 km²): from the Mont-Blanc Bridge to the Old Town is a 10-minute walk — no transport needed for most outings.',
+        'French border is 5 km away: cross with your EU pet passport ready, random checks by Swiss customs on return.',
+      ],
+      es: [
+        'Pasaporte europeo con microchip y vacunación antirrábica vigente exigidos a la llegada — sin cuarentena para animales UE/EEE.',
+        'Tarjeta Geneva Transport gratuita en el check-in del hotel: cubre toda la red TPG y el tren aeropuerto-Cornavin durante toda la estancia.',
+        'Ley suiza: la decisión de admitir perros corresponde al propietario de cada local — la mayoría dicen sí, pero pregunta en la entrada.',
+        'El centro es compacto (16 km²): del Pont du Mont-Blanc al Casco Antiguo son 10 minutos a pie — no se necesita transporte para la mayoría de las salidas.',
+        'La frontera francesa está a 5 km: cruza con tu pasaporte europeo a mano, controles aleatorios de la aduana suiza al regreso.',
+      ],
+    },
+  },
+
   ghent: {
     history: {
       fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours — cathédrale Saint-Bavon, Beffroi et Saint-Nicolas — témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe — un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première en Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme — et de chien.`,

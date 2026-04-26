@@ -46,6 +46,7 @@ const TARGETS = [
   { slug: 'cannes', query: 'Cannes La Croisette seafront promenade' },
   { slug: 'gothenburg', query: 'Gothenburg Haga district historic wooden houses' },
   { slug: 'lausanne', query: 'Lausanne Ouchy lakeside Lake Geneva panorama' },
+  { slug: 'geneva', query: 'Geneva Jet d Eau Lake Geneva Mont Blanc bridge panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

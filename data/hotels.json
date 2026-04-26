@@ -3666,6 +3666,126 @@
     "slug": "25hours-hotel-frankfurt-the-trip"
   },
   {
+    "id": "geneva-1",
+    "name": "Hotel d'Angleterre Geneva",
+    "destinationSlug": "geneva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 1112,
+    "priceFrom": 580,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/hotel-d-angleterre-geneva.html",
+    "petFee": 50,
+    "petPolicy": "Hotel d'Angleterre is a 5-star lakeside grand hotel directly opposite the Jet d'Eau, with a serious commitment to pet guests. Dogs and cats of any size are accepted at CHF 50 per pet per night (max CHF 100/stay, two pets per room). On arrival pets are welcomed with a basket, water and food bowls, and treats; the hotel can arrange a pet concierge service for waterfront walks and city outings. Pets are welcome in rooms and on the lakeside terrace. Advance declaration required.",
+    "highlights": [
+      "Lakeside terrace facing Jet d'Eau",
+      "Pet concierge & welcome basket",
+      "Two pets per room"
+    ],
+    "slug": "hotel-d-angleterre-geneva"
+  },
+  {
+    "id": "geneva-2",
+    "name": "Beau-Rivage Geneva",
+    "destinationSlug": "geneva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1456,
+    "priceFrom": 750,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/beau-rivage-geneve.html",
+    "petFee": 50,
+    "petPolicy": "Beau-Rivage is one of Geneva's historic 5-star palaces on the Quai du Mont-Blanc, family-owned for five generations and famous for its discreet, attentive service. Pets are welcomed with personalised treats, a basket with litter for cats, and feeding accessories — daily charge of CHF 50 per animal. The Concierge can plan dog-friendly excursions and waterfront walks. Pets allowed in rooms and on the lakefront terrace.",
+    "highlights": [
+      "Historic 5-star palace",
+      "Concierge plans pet activities",
+      "Direct lakefront promenade access"
+    ],
+    "slug": "beau-rivage-geneva"
+  },
+  {
+    "id": "geneva-3",
+    "name": "N'vY Manotel",
+    "destinationSlug": "geneva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2134,
+    "priceFrom": 245,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/epsom.html",
+    "petFee": 25,
+    "petPolicy": "N'vY Manotel is a vibrant design hotel on Rue de Richemont, a five-minute walk from the lake and the Pâquis cafés. Dogs and cats are accepted at CHF 25 per pet per night with no firm size limit (call ahead for very large dogs). The hotel typically prepares a basket and bowls in the room before arrival. Pets are welcome in rooms and the lobby; not in the restaurant.",
+    "highlights": [
+      "Design hotel near the lake",
+      "Welcome basket prepared in room",
+      "Walk to Pâquis & Quai Wilson"
+    ],
+    "slug": "nvy-manotel-geneva"
+  },
+  {
+    "id": "geneva-4",
+    "name": "Edelweiss Manotel",
+    "destinationSlug": "geneva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1789,
+    "priceFrom": 195,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/edelweiss.html",
+    "petFee": 25,
+    "petPolicy": "Edelweiss Manotel sits in the Pâquis between the lake and the UN, a quirky chalet-style 3-star with carved wooden interiors and a Swiss restaurant downstairs. Pets of any size are accepted at CHF 25 per pet per night, dogs and cats both welcome (multiple pets allowed). Pets accepted in rooms; not in the restaurant during dinner service. Walking distance to the EVC emergency vet centre.",
+    "highlights": [
+      "Chalet-style interiors",
+      "Multiple pets allowed",
+      "5 minutes from emergency vet"
+    ],
+    "slug": "edelweiss-manotel-geneva"
+  },
+  {
+    "id": "geneva-5",
+    "name": "Hotel Cornavin Geneva",
+    "destinationSlug": "geneva",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3456,
+    "priceFrom": 165,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/cornavin.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Cornavin sits directly opposite Geneva's main railway station, ideal for travellers using the CFF train network or arriving from the airport (one stop, 7 minutes). Dogs and cats are welcome at no additional charge (size limitations may apply for very large dogs — call ahead). Pets accepted in rooms; the hotel asks owners to keep pets leashed in lobbies and corridors. The Bois de la Bâtie off-leash forest is a short tram ride away.",
+    "highlights": [
+      "Opposite Cornavin train station",
+      "No pet fee — dogs stay free",
+      "Direct airport rail access"
+    ],
+    "slug": "hotel-cornavin-geneva"
+  },
+  {
     "id": "ghent-1",
     "name": "B&B The Verhaegen",
     "destinationSlug": "ghent",

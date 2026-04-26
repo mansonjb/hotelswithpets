@@ -121,6 +121,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
+    geneva: {
+      personality: 'one of Europe\'s most pet-welcoming international capitals — Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
+      highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
+      area: 'Pâquis on the right bank, Eaux-Vives on the left bank, and Carouge across the Arve',
+    },
     ghent: {
       personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life. On trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
@@ -454,6 +459,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
+    geneva: {
+      personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe — la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
+      highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
+      area: 'Pâquis sur la rive droite, les Eaux-Vives sur la rive gauche et Carouge de l\'autre côté de l\'Arve',
+    },
     ghent: {
       personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne. Dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
@@ -785,6 +795,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capital financiera más verde de Alemania — el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
+    },
+    geneva: {
+      personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa — la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',
+      highlight: 'el bosque sin correa del Bois de la Bâtie, el paseo lacustre del Quai Wilson y el bohemio distrito de Carouge',
+      area: 'Pâquis en la orilla derecha, Eaux-Vives en la orilla izquierda y Carouge al otro lado del Arve',
     },
     ghent: {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',

@@ -1463,6 +1463,79 @@
     }
   },
   {
+    "slug": "geneva",
+    "name": "Geneva",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/geneva.jpg",
+    "intro": "Geneva is one of Europe's most pet-welcoming international capitals — Swiss law allows dogs in restaurants and cafés, the Bois de la Bâtie offers year-round off-leash forest, and two 24/7 emergency vet centres serve the city.",
+    "lat": 46.2044,
+    "lng": 6.1432,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "ghent",
     "name": "Ghent",
     "country": "Belgium",

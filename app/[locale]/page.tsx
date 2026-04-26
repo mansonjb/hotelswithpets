@@ -65,12 +65,14 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: 'HotelsWithPets',
+    alternateName: 'HotelsWithPets.com',
     url: SITE_URL,
-    description: 'Pet-friendly hotels across Europe. Verified policies, real guest ratings.',
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/en/destinations/{search_term_string}` },
-      'query-input': 'required name=search_term_string',
+    description: 'Pet-friendly hotels across Europe. Handpicked, verified pet policies, real guest ratings, and city guides for travelling with your dog or cat.',
+    inLanguage: ['en', 'fr', 'es'],
+    publisher: {
+      '@type': 'Organization',
+      name: 'HotelsWithPets',
+      url: SITE_URL,
     },
   }
 
@@ -78,9 +80,16 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'HotelsWithPets',
+    alternateName: 'HotelsWithPets.com',
     url: SITE_URL,
-    logo: `${SITE_URL}/favicon.ico`,
-    sameAs: [],
+    logo: {
+      '@type': 'ImageObject',
+      url: `${SITE_URL}/favicon.ico`,
+    },
+    description: 'A trip-planning platform for travellers with pets — 460+ verified pet-friendly hotels across 66 European destinations, with city guides, vet directories, and transport rules.',
+    foundingDate: '2026',
+    areaServed: 'Europe',
+    knowsLanguage: ['en', 'fr', 'es'],
   }
 
   return (

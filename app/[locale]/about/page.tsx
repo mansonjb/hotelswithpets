@@ -125,8 +125,40 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
   if (!hasLocale(locale)) notFound()
   const c = content[locale] ?? content.en
 
+  // E-E-A-T signals: structured Organization + AboutPage schema for Google.
+  // Helps the Search Console understand who runs the site and where the
+  // editorial decisions come from — important for a young domain.
+  const aboutPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: c.title,
+    description: c.subtitle,
+    url: `${SITE_URL}/${locale}/about`,
+    inLanguage: locale,
+    mainEntity: {
+      '@type': 'Organization',
+      name: 'HotelsWithPets',
+      alternateName: 'HotelsWithPets.com',
+      url: SITE_URL,
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
+      description: 'A trip-planning platform for travellers with pets. We curate verified pet-friendly hotels and city guides across 66 European destinations.',
+      foundingDate: '2026',
+      areaServed: { '@type': 'Continent', name: 'Europe' },
+      knowsLanguage: ['en', 'fr', 'es'],
+      knowsAbout: [
+        'Pet-friendly hotels',
+        'Travelling with dogs',
+        'Travelling with cats',
+        'European travel',
+        'Pet policies',
+        'Pet transport regulations',
+      ],
+    },
+  }
+
   return (
     <div className="min-h-screen bg-gray-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutPageSchema) }} />
       {/* Hero */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

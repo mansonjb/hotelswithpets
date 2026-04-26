@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next'
-import { readdirSync, existsSync } from 'fs'
+import { readdirSync, existsSync, statSync } from 'fs'
 import { join } from 'path'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
@@ -10,8 +10,27 @@ const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 
 
 const BASE_URL = 'https://www.hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es']
-// Build date — used as lastModified for static content
+
+// Real-modtime helpers — stronger freshness signal for search engines than
+// "build date everywhere". Each page's lastmod reflects the actual data file
+// it depends on, so re-deploying without touching content does not falsely
+// inflate freshness.
+function safeMtime(absPath: string, fallback: Date): Date {
+  try {
+    return statSync(absPath).mtime
+  } catch {
+    return fallback
+  }
+}
+
 const BUILD_DATE = new Date()
+const ROOT = process.cwd()
+const DESTINATIONS_MTIME = safeMtime(join(ROOT, 'data/destinations.json'), BUILD_DATE)
+const HOTELS_MTIME       = safeMtime(join(ROOT, 'data/hotels.json'), BUILD_DATE)
+const CATEGORIES_MTIME   = safeMtime(join(ROOT, 'data/categories.json'), BUILD_DATE)
+function cityGuideMtime(slug: string): Date {
+  return safeMtime(join(ROOT, 'data/city-guides', `${slug}.json`), DESTINATIONS_MTIME)
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = []
@@ -81,10 +100,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Individual destination pages
   for (const dest of destinations) {
+    const mtime = cityGuideMtime(dest.slug)
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/destinations/${dest.slug}`,
-        lastModified: BUILD_DATE,
+        lastModified: mtime,
         changeFrequency: 'weekly',
         priority: 0.8,
       })
@@ -96,7 +116,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/categories/${cat.slug}`,
-        lastModified: BUILD_DATE,
+        lastModified: CATEGORIES_MTIME,
         changeFrequency: 'weekly',
         priority: 0.8,
       })
@@ -109,10 +129,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   )
   for (const combo of combos) {
     const [destSlug, catSlug] = combo.split('|')
+    const mtime = cityGuideMtime(destSlug) > HOTELS_MTIME ? cityGuideMtime(destSlug) : HOTELS_MTIME
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/${destSlug}/${catSlug}`,
-        lastModified: BUILD_DATE,
+        lastModified: mtime,
         changeFrequency: 'monthly',
         priority: 0.95,
       })
@@ -125,7 +146,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of LOCALES) {
       entries.push({
         url: `${BASE_URL}/${locale}/hotels/${hotel.slug}`,
-        lastModified: BUILD_DATE,
+        lastModified: HOTELS_MTIME,
         changeFrequency: 'monthly',
         priority: 0.7,
       })
@@ -141,11 +162,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       .map(f => f.replace('.json', ''))
 
     for (const citySlug of guideCitySlugs) {
+      const mtime = cityGuideMtime(citySlug)
       for (const section of GUIDE_SECTIONS) {
         for (const locale of LOCALES) {
           entries.push({
             url: `${BASE_URL}/${locale}/destinations/${citySlug}/${section}`,
-            lastModified: BUILD_DATE,
+            lastModified: mtime,
             changeFrequency: 'monthly',
             priority: 0.75,
           })

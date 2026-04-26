@@ -366,6 +366,79 @@
     }
   },
   {
+    "slug": "bern",
+    "name": "Bern",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/bern.jpg",
+    "intro": "Bern is one of Europe's most pet-welcoming capitals — Switzerland's UNESCO Old Town has 6 km of covered Lauben arcades, three urban forests within tram distance, and the country's leading veterinary teaching hospital.",
+    "lat": 46.9481,
+    "lng": 7.4474,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "biarritz",
     "name": "Biarritz",
     "country": "France",

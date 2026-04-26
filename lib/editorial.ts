@@ -46,6 +46,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Tiergarten, Tempelhof field, and Grunewald forest',
       area: 'Prenzlauer Berg, Mitte, and Kreuzberg',
     },
+    bern: {
+      personality: 'one of Europe\'s most pet-welcoming capitals — Switzerland\'s UNESCO Old Town has 6 km of covered Lauben arcades, three urban forests within tram distance, and the country\'s leading veterinary teaching hospital',
+      highlight: 'the Bremgartenwald off-leash forest, the 5 km Aare riverside promenade, and the BärenPark below the Old Town',
+      area: 'the Altstadt UNESCO arcades, the Marzili and Matte riverside districts, and the Rosengarten viewpoint',
+    },
     biarritz: {
       personality: 'a Basque surf town with a deeply relaxed attitude toward dogs and outdoor life',
       highlight: 'the Grande Plage and the Côte Basque coastal path',
@@ -384,6 +389,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Tiergarten, le champ de Tempelhof et la forêt de Grunewald',
       area: 'Prenzlauer Berg, Mitte et Kreuzberg',
     },
+    bern: {
+      personality: 'l\'une des capitales les plus accueillantes pour les animaux d\'Europe — la Vieille-Ville UNESCO de Suisse compte 6 km d\'arcades Lauben couvertes, trois forêts urbaines à distance de tram et le principal hôpital universitaire vétérinaire du pays',
+      highlight: 'la forêt sans laisse du Bremgartenwald, la promenade fluviale de 5 km le long de l\'Aare et le BärenPark en contrebas de la Vieille-Ville',
+      area: 'les arcades UNESCO de l\'Altstadt, les quartiers fluviaux de Marzili et de la Matte et le belvédère du Rosengarten',
+    },
     biarritz: {
       personality: 'une ville de surf basque avec une attitude profondément décontractée envers les chiens et la vie en plein air',
       highlight: 'la Grande Plage et le sentier côtier de la Côte Basque',
@@ -720,6 +730,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'posiblemente la capital más dog-friendly de Europa. Los perros viajan en transporte público y entran libremente en muchos comercios',
       highlight: 'el Tiergarten, el campo de Tempelhof y el bosque de Grunewald',
       area: 'Prenzlauer Berg, Mitte y Kreuzberg',
+    },
+    bern: {
+      personality: 'una de las capitales más acogedoras para mascotas de Europa — el Casco Antiguo UNESCO de Suiza tiene 6 km de soportales Lauben cubiertos, tres bosques urbanos a distancia de tranvía y el principal hospital universitario veterinario del país',
+      highlight: 'el bosque sin correa del Bremgartenwald, el paseo fluvial de 5 km a lo largo del Aar y el BärenPark bajo el Casco Antiguo',
+      area: 'los soportales UNESCO del Altstadt, los barrios ribereños de Marzili y la Matte y el mirador del Rosengarten',
     },
     biarritz: {
       personality: 'una ciudad de surf vasca con una actitud profundamente relajada hacia los perros y la vida al aire libre',

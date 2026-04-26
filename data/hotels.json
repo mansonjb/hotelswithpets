@@ -1022,6 +1022,125 @@
     "slug": "intercontinental-berlin-by-ihg"
   },
   {
+    "id": "bern-1",
+    "name": "Bellevue Palace Bern",
+    "destinationSlug": "bern",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1245,
+    "priceFrom": 480,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/bellevue-palace.html",
+    "petFee": 50,
+    "petPolicy": "The Bellevue Palace is Bern's grand 5-star next door to the Federal Parliament, in a 1913 Art Nouveau building with sweeping Aare and Bernese Alps views. Dogs and cats are accepted (size limitations may apply for very large dogs — call ahead) at CHF 50 per pet per night. Pets are welcome in rooms and on the panoramic terrace; not in the gourmet restaurant. Direct access to the Aare promenade for early-morning walks.",
+    "highlights": [
+      "Federal Parliament neighbour",
+      "Panoramic Aare & Alps terrace",
+      "Direct Aare promenade access"
+    ],
+    "slug": "bellevue-palace-bern"
+  },
+  {
+    "id": "bern-2",
+    "name": "Hotel Schweizerhof Bern & Spa",
+    "destinationSlug": "bern",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1632,
+    "priceFrom": 420,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/schweizerhof-bern.html",
+    "petFee": 30,
+    "petPolicy": "The Schweizerhof is a historic 5-star directly opposite the main Bern train station — the most convenient luxury option for arrivals by rail. Pets are welcome at CHF 30 per pet per night, with bowls and a basket placed in the room before arrival. Dogs accepted in rooms and lobby; not in the rooftop restaurant. The Old Town and BärenPark are a 10-minute walk away.",
+    "highlights": [
+      "Opposite Hauptbahnhof",
+      "Welcome basket in room",
+      "10-min walk to UNESCO Old Town"
+    ],
+    "slug": "hotel-schweizerhof-bern"
+  },
+  {
+    "id": "bern-3",
+    "name": "Best Western Plus Hotel Bern",
+    "destinationSlug": "bern",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1856,
+    "priceFrom": 215,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/best-western-bern.html",
+    "petFee": 20,
+    "petPolicy": "A reliable 4-star in the centre near the train station, with rooms over the Zeughausgasse. Dogs are accepted at CHF 20 per night per pet (size limits may apply for very large breeds — call ahead). Pets allowed in rooms; not in breakfast room. Walking distance to the Bremgartenwald tram line for morning walks.",
+    "highlights": [
+      "Central location",
+      "Tram link to Bremgartenwald",
+      "Affordable pet fee"
+    ],
+    "slug": "best-western-plus-hotel-bern"
+  },
+  {
+    "id": "bern-4",
+    "name": "Holiday Inn Bern Westside",
+    "destinationSlug": "bern",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2134,
+    "priceFrom": 175,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/holiday-inn-bern-westside.html",
+    "petFee": 0,
+    "petPolicy": "A 4-star at the Westside complex on the western edge of Bern, ideal for travellers wanting forest access — the Bremgartenwald and the Aare riverside trails are 5 minutes by tram (line 8) or a 15-minute walk. Dogs and cats are welcome at no additional charge (size limitations may apply). Pets accepted in rooms and lobby. Tram 8 links the hotel to the Old Town in 12 minutes.",
+    "highlights": [
+      "No pet fee",
+      "5 min from Bremgartenwald",
+      "Direct tram to Old Town"
+    ],
+    "slug": "holiday-inn-bern-westside"
+  },
+  {
+    "id": "bern-5",
+    "name": "Ibis Bern Expo",
+    "destinationSlug": "bern",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 2645,
+    "priceFrom": 125,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/ibisbernexpo.html",
+    "petFee": 20,
+    "petPolicy": "The Ibis Bern Expo sits next to the Wankdorf trade-fair complex on the north-eastern edge of Bern, easily reached by S-Bahn (Wankdorf station, one stop from the Hauptbahnhof). Dogs of any size are accepted at CHF 20 per pet per night (one pet per room). Direct tram link to the Old Town in 15 minutes; easy access to the Bremgartenwald via tram 9.",
+    "highlights": [
+      "Budget pet-friendly",
+      "Direct rail to Hauptbahnhof",
+      "Wankdorf trade-fair location"
+    ],
+    "slug": "ibis-bern-expo"
+  },
+  {
     "id": "biarritz-1",
     "name": "Hôtel du Palais Biarritz, in The Unbound Collection by Hyatt",
     "destinationSlug": "biarritz",

@@ -3905,6 +3905,124 @@
     "slug": "hotel-cornavin-geneva"
   },
   {
+    "id": "genoa-1",
+    "name": "Grand Hotel Savoia Genova",
+    "destinationSlug": "genoa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2456,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-savoia.html",
+    "petFee": 20,
+    "petPolicy": "The Grand Hotel Savoia is a 5-star Curio Collection by Hilton property, opposite Genova Piazza Principe station. Dogs and cats up to 40 kg are welcome (1 pet per room) at €20 per stay. The hotel provides a free Doggy Lounge — a water-repellent cushion and microfibre quilt — set up in the room before arrival. Pets are welcome in rooms and the lobby; not in the rooftop restaurant. Walking distance to the Porto Antico promenade.",
+    "highlights": [
+      "Opposite Piazza Principe station",
+      "Doggy Lounge in room",
+      "Walk to Porto Antico"
+    ],
+    "slug": "grand-hotel-savoia-genova"
+  },
+  {
+    "id": "genoa-2",
+    "name": "Hotel Bristol Palace",
+    "destinationSlug": "genoa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1845,
+    "priceFrom": 245,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotelbristolpalace.html",
+    "petFee": 20,
+    "petPolicy": "A historic 5-star on Via XX Settembre with a famous Belle Époque elliptical staircase. Small and medium-sized dogs are accepted at €20 per night. Service and guide dogs stay free. Pets are welcome in rooms (small and medium) and the bar/lobby; only small dogs in the breakfast room or restaurant — let the front desk know in advance to reserve a dedicated table. A green dog area sits a short walk from the hotel.",
+    "highlights": [
+      "Historic Belle Époque staircase",
+      "Dedicated dog tables on request",
+      "Central Via XX Settembre"
+    ],
+    "slug": "hotel-bristol-palace-genova"
+  },
+  {
+    "id": "genoa-3",
+    "name": "NH Collection Genova Marina",
+    "destinationSlug": "genoa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2698,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/h-collection-genova-marina.html",
+    "petFee": 35,
+    "petPolicy": "An NH Collection 4-star directly inside the Porto Antico marina, with rooms overlooking the harbour. Dogs and cats up to 25 kg are accepted at €35 per night per pet, max 2 pets per room. Pet beds and bowls available on request. Pets are welcome in rooms and lobby; not in the restaurant. Direct on-foot access to the Porto Antico quays for morning walks.",
+    "highlights": [
+      "Inside Porto Antico marina",
+      "Up to 2 pets per room",
+      "Direct quay access"
+    ],
+    "slug": "nh-collection-genova-marina"
+  },
+  {
+    "id": "genoa-4",
+    "name": "NH Genova Centro",
+    "destinationSlug": "genoa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2154,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nh-genova-plaza.html",
+    "petFee": 25,
+    "petPolicy": "A reliable 4-star NH in the central Foce district, 10 minutes' walk from Genova Brignole station. Dogs and cats up to 25 kg are accepted at €25 per night, max 2 pets per room. Pets are welcome in rooms; not in the restaurant. Walking distance to the Centro Veterinario Genovese 24h emergency clinic.",
+    "highlights": [
+      "Central Foce location",
+      "Walking distance to 24h vet",
+      "Up to 2 pets per room"
+    ],
+    "slug": "nh-genova-centro"
+  },
+  {
+    "id": "genoa-5",
+    "name": "B&B Hotel Genova City Center",
+    "destinationSlug": "genoa",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3214,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/b-amp-b-genova-city-center.html",
+    "petFee": 5,
+    "petPolicy": "A simple, modern 3-star in the central Maddalena district, walking distance from the Porto Antico and the historic centre. Dogs of any size are accepted at €5 per night per pet — the most affordable pet-friendly option in central Genoa. Pets are welcome in rooms; not in the breakfast room. Direct AMT bus link to Vesima dog beach.",
+    "highlights": [
+      "Lowest pet fee in Genoa",
+      "Central Maddalena",
+      "Walk to Porto Antico"
+    ],
+    "slug": "bb-hotel-genova-city-center"
+  },
+  {
     "id": "ghent-1",
     "name": "B&B The Verhaegen",
     "destinationSlug": "ghent",

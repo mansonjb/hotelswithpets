@@ -479,6 +479,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
       area: 'Pâquis sur la rive droite, les Eaux-Vives sur la rive gauche et Carouge de l\'autre côté de l\'Arve',
     },
+    genoa: {
+      personality: 'l\'une des villes italiennes les plus discrètement accueillantes pour les animaux — la première de Ligurie à ouvrir une plage canine officielle, avec des caruggi 8 °C plus frais que le front de mer en été, trois cliniques vétérinaires d\'urgence 24h/24 et un réseau de transport vertical unique de funiculaires et d\'ascenseurs',
+      highlight: 'la plage canine de Vesima toute l\'année, les Parchi di Nervi de 92 000 m² et le Porto Antico redessiné par Renzo Piano',
+      area: 'les Strade Nuove UNESCO, le village de pêcheurs de Boccadasse et les parcs côtiers de Nervi',
+    },
     ghent: {
       personality: 'une ville belge progressiste axée sur le vélo où les chiens font partie de la vie quotidienne. Dans les tramways, dans les coffee bars et le long des belles rivières Leie et Schelde',
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
@@ -820,6 +825,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa — la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',
       highlight: 'el bosque sin correa del Bois de la Bâtie, el paseo lacustre del Quai Wilson y el bohemio distrito de Carouge',
       area: 'Pâquis en la orilla derecha, Eaux-Vives en la orilla izquierda y Carouge al otro lado del Arve',
+    },
+    genoa: {
+      personality: 'una de las ciudades italianas más discretamente acogedoras para mascotas — la primera de Liguria en abrir una playa canina oficial, con caruggi 8°C más frescos que el paseo marítimo en verano, tres clínicas veterinarias de urgencias 24/7 y una red de transporte vertical única de funiculares y ascensores',
+      highlight: 'la playa canina de Vesima todo el año, los Parchi di Nervi de 92.000 m² y el Porto Antico rediseñado por Renzo Piano',
+      area: 'las Strade Nuove UNESCO, el pueblo pesquero de Boccadasse y los parques costeros de Nervi',
     },
     ghent: {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',

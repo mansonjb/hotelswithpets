@@ -2449,6 +2449,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  genoa: {
+    history: {
+      fr: `Gênes, capitale de la Ligurie et port le plus puissant de la Méditerranée occidentale au Moyen Âge, a façonné une partie de l'histoire commerciale de l'Europe — sa Casa di San Giorgio, fondée en 1407, est considérée comme la première banque moderne, et sa flotte rivalisait avec Venise pour le contrôle de la mer. Christophe Colomb y est né en 1451, dans une ville-état farouche dont la République indépendante a perduré jusqu'en 1797. La ville moderne s'étire sur 30 km le long de la côte ligure, étroitement comprimée entre la mer et les Alpes maritimes — d'où ses caruggi (les ruelles médiévales les plus étroites d'Europe), son centre historique vertigineux UNESCO classé en 2006 (les Strade Nuove et les Palazzi dei Rolli), et son réseau unique de funiculaires et d'ascenseurs publics. Le Porto Antico, redessiné par Renzo Piano pour le 500e anniversaire de Colomb en 1992, a transformé un front portuaire industriel en l'un des grands espaces publics de la Méditerranée. Côté chiens, Gênes est étonnamment bien équipée : la première plage canine officielle de Ligurie ouvre à Vesima, trois cliniques vétérinaires 24h/24 desservent la ville, les caruggi médiévaux restent 8°C plus frais que le front de mer en été — et le réseau AMT de funiculaires et d'ascenseurs épargne aux chiens les pentes raides du centre.`,
+      en: `Genoa — capital of Liguria and the most powerful Mediterranean port in the medieval west — shaped much of Europe's commercial history: its Casa di San Giorgio, founded in 1407, is considered the first modern bank, and its fleet rivalled Venice for control of the sea. Christopher Columbus was born here in 1451, in a fierce city-state whose independent Republic lasted until 1797. The modern city stretches 30 km along the Ligurian coast, tightly squeezed between the sea and the Maritime Alps — hence its caruggi (Europe's narrowest medieval alleys), its vertiginous UNESCO old town listed in 2006 (the Strade Nuove and Palazzi dei Rolli), and its unique network of funiculars and public elevators. The Porto Antico, redesigned by Renzo Piano for Columbus's 500th anniversary in 1992, transformed an industrial harbour front into one of the great public spaces of the Mediterranean. For dog owners, Genoa is surprisingly well-equipped: the first official dog beach in Liguria sits at Vesima, three 24/7 vet clinics serve the city, the medieval caruggi stay 8°C cooler than the seafront in summer — and the AMT network of funiculars and lifts spares dogs the steep climbs of the centre.`,
+      es: `Génova — capital de Liguria y el puerto mediterráneo más poderoso del occidente medieval — modeló gran parte de la historia comercial de Europa: su Casa di San Giorgio, fundada en 1407, está considerada el primer banco moderno, y su flota rivalizaba con Venecia por el control del mar. Cristóbal Colón nació aquí en 1451, en una feroz ciudad-estado cuya República independiente duró hasta 1797. La ciudad moderna se extiende 30 km a lo largo de la costa ligur, fuertemente comprimida entre el mar y los Alpes marítimos — de ahí sus caruggi (los callejones medievales más estrechos de Europa), su vertiginoso casco antiguo UNESCO inscrito en 2006 (las Strade Nuove y los Palazzi dei Rolli), y su red única de funiculares y ascensores públicos. El Porto Antico, rediseñado por Renzo Piano para el 500º aniversario de Colón en 1992, transformó un frente portuario industrial en uno de los grandes espacios públicos del Mediterráneo. Para los dueños de perros, Génova está sorprendentemente bien equipada: la primera playa canina oficial de Liguria está en Vesima, tres clínicas veterinarias 24/7 atienden la ciudad, los caruggi medievales se mantienen 8°C más frescos que el paseo marítimo en verano — y la red AMT de funiculares y ascensores ahorra a los perros las cuestas empinadas del centro.`,
+    },
+    sights: [
+      {
+        name: 'Porto Antico',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Port historique redessiné par Renzo Piano pour 1992, avec le grand mât Bigo, des répliques de voiliers et l'Aquarium. Chiens en laisse acceptés sur tous les quais publics.`,
+          en: `Historic harbour redesigned by Renzo Piano for 1992, with the Bigo crane lift, sailing-ship replicas and the Aquarium. Leashed dogs welcome on all public quays.`,
+          es: `Puerto histórico rediseñado por Renzo Piano para 1992, con el ascensor-grúa Bigo, réplicas de veleros y el Acuario. Perros con correa bienvenidos en todos los muelles públicos.`,
+        },
+      },
+      {
+        name: 'Boccadasse',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Village de pêcheurs aux maisons pastel niché dans une crique de galets à l'est de la ville. Chiens en laisse partout dans les rues ; accès à la crique restreint en matinées d'été.`,
+          en: `Pastel-painted fishing village folded into a pebble cove east of the city. Leashed dogs throughout streets; cove access restricted in summer mornings.`,
+          es: `Pueblo pesquero de casas pastel acurrucado en una cala de guijarros al este de la ciudad. Perros con correa en todas las calles; acceso a la cala restringido en mañanas de verano.`,
+        },
+      },
+      {
+        name: 'Parchi di Nervi',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand espace vert de Gênes (92 000 m²), trois jardins de villas historiques fusionnés à Nervi, avec roseraie et accès à la promenade Anita Garibaldi en bord de falaise.`,
+          en: `Genoa's largest green space (92,000 m²), three historic villa gardens merged at Nervi, with rose garden and access to the Anita Garibaldi cliff promenade.`,
+          es: `El mayor espacio verde de Génova (92.000 m²), tres jardines de villas históricas fusionados en Nervi, con rosaleda y acceso al paseo del acantilado Anita Garibaldi.`,
+        },
+      },
+      {
+        name: 'Spianata Castelletto',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Belvédère emblématique sur les toits de Gênes et le port, accessible par un ascenseur public Art Nouveau de 1909. Chiens en laisse acceptés sur la terrasse et dans l'ascenseur.`,
+          en: `Iconic belvedere over the Genoa rooftops and harbour, reached by a 1909 Art Nouveau public elevator. Leashed dogs welcome on terrace and in elevator.`,
+          es: `Mirador emblemático sobre los tejados de Génova y el puerto, accesible por un ascensor público Art Nouveau de 1909. Perros con correa bienvenidos en terraza y ascensor.`,
+        },
+      },
+      {
+        name: 'Strade Nuove e Palazzi dei Rolli',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Trois rues Renaissance et 42 palais de la noblesse génoise, classés UNESCO en 2006. Chiens en laisse dans les rues et cours intérieures ouvertes ; non admis dans les musées.`,
+          en: `Three Renaissance streets and 42 Genoese noble palaces, UNESCO-listed in 2006. Leashed dogs in streets and open courtyards; not admitted inside the museum palazzi.`,
+          es: `Tres calles renacentistas y 42 palacios de la nobleza genovesa, declarados UNESCO en 2006. Perros con correa en calles y patios abiertos; no admitidos en los palacios museo.`,
+        },
+      },
+      {
+        name: 'Parco delle Mura',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Vaste parc forestier sur les hauteurs au-dessus du centre, accessible par funiculaire. Zones sans laisse signalées sur les sentiers supérieurs avec vue sur le port.`,
+          en: `Vast hillside forest park above the centre, reached by funicular. Off-leash zones marked on upper trails with views over the harbour.`,
+          es: `Vasto parque forestal en la ladera sobre el centro, accesible por funicular. Zonas sin correa marcadas en senderos superiores con vistas al puerto.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'AMT : petits chiens en transporteur gratuits, grands chiens avec billet (1 € en sus du trajet à 2 €), muselière et laisse obligatoires en voiture.',
+        'Vesima : première plage canine officielle de Ligurie, équipée de fontaines et distributeurs de sacs, accès toute l\'année (train régional jusqu\'à Genova Voltri).',
+        'Boccadasse Cove : accès canin uniquement avant 9h en été (juin-septembre) ; toute la journée hors été.',
+        'Urgences vétérinaires 24h/24 : Centro Veterinario Genovese (Foce), Clinica Veterinaria San Giorgio (Marassi), Ospedale Veterinario Landi (centre).',
+        'Caruggi : restent 8 °C plus frais que le front de mer en été — utilisez-les comme corridors frais pour traverser le centre à midi.',
+      ],
+      en: [
+        'AMT: small dogs in carriers free, larger dogs require a ticket (€1 in addition to the €2 fare), muzzle and lead required in carriages.',
+        'Vesima: the first official dog beach in Liguria, equipped with fountains and bag dispensers, year-round access (regional train to Genova Voltri).',
+        'Boccadasse Cove: dog access only before 9am in summer (June–September); all day outside summer.',
+        '24/7 emergency vets: Centro Veterinario Genovese (Foce), Clinica Veterinaria San Giorgio (Marassi), Ospedale Veterinario Landi (centre).',
+        'Caruggi: stay 8°C cooler than the seafront in summer — use them as cool corridors to cross the centre at midday.',
+      ],
+      es: [
+        'AMT: perros pequeños en transportín gratis, perros grandes con billete (1 € además del trayecto de 2 €), bozal y correa obligatorios en los vagones.',
+        'Vesima: primera playa canina oficial de Liguria, equipada con fuentes y dispensadores de bolsas, acceso todo el año (tren regional hasta Genova Voltri).',
+        'Boccadasse Cove: acceso canino solo antes de las 9:00 en verano (junio-septiembre); todo el día fuera de verano.',
+        'Veterinarios de urgencias 24/7: Centro Veterinario Genovese (Foce), Clinica Veterinaria San Giorgio (Marassi), Ospedale Veterinario Landi (centro).',
+        'Caruggi: se mantienen 8°C más frescos que el paseo marítimo en verano — úsalos como corredores frescos para cruzar el centro al mediodía.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen avec puce et vaccination antirabique en cours de validité exigés à l\'arrivée — pas de quarantaine pour les animaux UE/EEE.',
+        'Pass MetDaily 24h à 10 € : couvre tout le réseau AMT (bus, métro, 3 funiculaires, 10 ascenseurs publics) — rentabilisé en 5 trajets.',
+        'Loi italienne : décision d\'accepter les chiens revient à chaque restaurateur — la plupart disent oui en terrasse, demandez à l\'entrée pour la salle.',
+        'Trenitalia depuis Brignole et Principe : Cinque Terre en 1h, Pise en 2h, Milan en 1h35 — petits chiens en transporteur gratuits, grands au demi-tarif.',
+        'Été humide (jusqu\'à 32 °C) : promenez tôt ou tard, le pavé du front de mer brûle les coussinets et les caruggi sont vos refuges naturels.',
+      ],
+      en: [
+        'EU pet passport with microchip and current rabies vaccination required on arrival — no quarantine for EU/EEA animals.',
+        '€10 24-hour MetDaily pass: covers the full AMT network (bus, metro, 3 funiculars, 10 public lifts) — pays for itself in 5 trips.',
+        'Italian law: deciding whether to admit dogs is left to each restaurant — most say yes on the terrace, ask at the door for indoor seating.',
+        'Trenitalia from Brignole and Principe: Cinque Terre in 1h, Pisa in 2h, Milan in 1h35 — small dogs in carriers free, larger at half fare.',
+        'Humid summer (up to 32°C): walk early or late, the seafront pavement burns paws and the caruggi are your natural refuges.',
+      ],
+      es: [
+        'Pasaporte europeo con microchip y vacunación antirrábica vigente exigidos a la llegada — sin cuarentena para animales UE/EEE.',
+        'Bono MetDaily 24h a 10 €: cubre toda la red AMT (autobús, metro, 3 funiculares, 10 ascensores públicos) — se amortiza en 5 viajes.',
+        'Ley italiana: la decisión de admitir perros corresponde a cada restaurante — la mayoría dicen sí en terraza, pregunta en la entrada para interior.',
+        'Trenitalia desde Brignole y Principe: Cinque Terre en 1h, Pisa en 2h, Milán en 1h35 — perros pequeños en transportín gratis, grandes a mitad de tarifa.',
+        'Verano húmedo (hasta 32°C): pasea temprano o tarde, el pavimento del paseo marítimo quema las almohadillas y los caruggi son tus refugios naturales.',
+      ],
+    },
+  },
+
   ghent: {
     history: {
       fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours — cathédrale Saint-Bavon, Beffroi et Saint-Nicolas — témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe — un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première en Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme — et de chien.`,

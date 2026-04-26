@@ -1609,6 +1609,79 @@
     }
   },
   {
+    "slug": "genoa",
+    "name": "Genoa",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/genoa.jpg",
+    "intro": "Genoa is one of Italy's most quietly pet-welcoming cities — the first in Liguria to open an official dog beach, with three urban green parks, the historic Strade Nuove UNESCO district, and 24/7 emergency vet clinics on call.",
+    "lat": 44.4056,
+    "lng": 8.9463,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & cloudy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Pleasant & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "ghent",
     "name": "Ghent",
     "country": "Belgium",

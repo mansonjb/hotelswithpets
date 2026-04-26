@@ -131,6 +131,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
       area: 'Pâquis on the right bank, Eaux-Vives on the left bank, and Carouge across the Arve',
     },
+    genoa: {
+      personality: 'one of Italy\'s most quietly pet-welcoming cities — the first in Liguria to open an official dog beach, with caruggi alleys 8°C cooler than the seafront on summer days, three 24/7 emergency vet clinics, and a unique vertical transport network of funiculars and lifts',
+      highlight: 'the Vesima year-round dog beach, the 92,000 m² Parchi di Nervi, and the Porto Antico redesigned by Renzo Piano',
+      area: 'the UNESCO Strade Nuove, the Boccadasse fishing village, and the Nervi seaside parks',
+    },
     ghent: {
       personality: 'a progressive, cycling-first Belgian city where dogs are part of daily life. On trams, in coffee bars, and along the beautiful Leie and Schelde rivers',
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',

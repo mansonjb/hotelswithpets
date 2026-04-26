@@ -48,6 +48,7 @@ const TARGETS = [
   { slug: 'lausanne', query: 'Lausanne Ouchy lakeside Lake Geneva panorama' },
   { slug: 'geneva', query: 'Geneva Jet d Eau Lake Geneva Mont Blanc bridge panorama' },
   { slug: 'bern', query: 'Bern Switzerland Altstadt Aare river UNESCO old town panorama' },
+  { slug: 'genoa', query: 'Genoa Italy Porto Antico harbour Lanterna lighthouse panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

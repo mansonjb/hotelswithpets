@@ -85,6 +85,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   }
 
+  // Practical guides hub + individual guide pages
+  // High SEO value (long-form, original, expert content) — list them explicitly so
+  // new guides are picked up the next deploy.
+  const PRACTICAL_GUIDES = [
+    'passeport-animal',
+    'train-avec-chien',
+    'avion-animal',
+    'road-trip-chien',
+    'hotel-pet-friendly',
+    'city-trip-chien',
+  ]
+  for (const locale of LOCALES) {
+    entries.push({
+      url: `${BASE_URL}/${locale}/guides`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    })
+    for (const slug of PRACTICAL_GUIDES) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/guides/${slug}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly',
+        priority: 0.85,
+      })
+    }
+  }
+
   // Country hub pages
   const allCountries = getAllCountries()
   for (const country of allCountries) {

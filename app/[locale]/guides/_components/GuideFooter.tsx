@@ -31,6 +31,12 @@ const ALL_GUIDES = [
     label: { fr: 'Choisir un hôtel pet-friendly', en: 'Choosing a pet-friendly hotel', es: 'Elegir un hotel pet-friendly' },
     desc:  { fr: 'Red flags, frais, questions clés', en: 'Red flags, fees, key questions', es: 'Red flags, tarifas, preguntas clave' },
   },
+  {
+    slug: 'city-trip-chien',
+    emoji: '🚂',
+    label: { fr: 'City trip en Europe avec son chien', en: 'European city trip with your dog', es: 'City trip por Europa con tu perro' },
+    desc:  { fr: 'Paris → Bruxelles → Amsterdam → Berlin (10 j)', en: 'Paris → Brussels → Amsterdam → Berlin (10 days)', es: 'París → Bruselas → Ámsterdam → Berlín (10 días)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

@@ -2,6 +2,8 @@ import { ImageResponse } from 'next/og'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
@@ -42,11 +44,13 @@ export default async function Image({
       ? `${hotelCount} hoteles`
       : `${hotelCount} hotels`
 
+  const localizedDest = getLocalizedCityName(dest.slug, dest.name, locale)
+  const localizedCountry = getLocalizedCountryName(dest.country, locale)
   const tagline =
     locale === 'fr'
-      ? `Hôtels ${catName.toLowerCase()} · ${dest.country}`
+      ? `${catName} · ${localizedCountry}`
       : locale === 'es'
-      ? `Hoteles ${catName.toLowerCase()} · ${dest.country}`
+      ? `${catName} · ${localizedCountry}`
       : `${catName} hotels · ${dest.country}`
 
   return new ImageResponse(
@@ -119,7 +123,7 @@ export default async function Image({
             <span style={{ fontSize: 80, display: 'flex' }}>{dest.flag}</span>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
               <span style={{ fontSize: 68, fontWeight: 800, color: '#ffffff', display: 'flex', lineHeight: 1 }}>
-                {dest.name}
+                {localizedDest}
               </span>
               <span style={{ fontSize: 26, color: '#93c5fd', display: 'flex' }}>{tagline}</span>
             </div>

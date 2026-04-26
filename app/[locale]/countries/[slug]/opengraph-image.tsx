@@ -1,5 +1,5 @@
 import { ImageResponse } from 'next/og'
-import { getAllCountries } from '@/lib/countries'
+import { getAllCountries, getLocalizedCountryName } from '@/lib/countries'
 import hotels from '@/data/hotels.json'
 
 export const size = { width: 1200, height: 630 }
@@ -27,10 +27,12 @@ export default async function Image({
     country.destinations.some((d) => d.slug === h.destinationSlug)
   ).length
 
+  const countryFr = getLocalizedCountryName(country.name, 'fr')
+  const countryEs = getLocalizedCountryName(country.name, 'es')
   const headings: Record<string, string> = {
     en: `Pet-friendly hotels in ${country.name}`,
-    fr: `Hôtels acceptant animaux en ${country.name}`,
-    es: `Hoteles con mascotas en ${country.name}`,
+    fr: `Hôtels pet-friendly en ${countryFr}`,
+    es: `Hoteles pet-friendly en ${countryEs}`,
   }
   const stats: Record<string, string> = {
     en: `${country.destinations.length} cities · ${totalHotels}+ hotels`,

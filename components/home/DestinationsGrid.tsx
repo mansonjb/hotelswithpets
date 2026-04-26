@@ -3,6 +3,14 @@ import Image from 'next/image'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import type { Locale } from '@/app/[locale]/dictionaries'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
+
+function labels(locale: Locale) {
+  if (locale === 'fr') return { categories: 'catégories', cat: 'cat.', from: 'à partir de', perNight: '/nuit' }
+  if (locale === 'es') return { categories: 'categorías', cat: 'cat.', from: 'desde', perNight: '/noche' }
+  return { categories: 'categories', cat: 'cat.', from: 'from', perNight: '/night' }
+}
 
 function getMinPrice(destSlug: string): number | null {
   const prices = hotels
@@ -30,6 +38,9 @@ const gradients = [
 export default function DestinationsGrid({ locale, dict }: DestinationsGridProps) {
   const { destinations: d } = dict
   const [hero, second, third, ...smalls] = destinations
+  const L = labels(locale)
+  const lDest = (slug: string, name: string) => getLocalizedCityName(slug, name, locale)
+  const lCountry = (name: string) => getLocalizedCountryName(name, locale)
 
   return (
     <section className="py-20 bg-white">
@@ -66,10 +77,10 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             </div>
             <div className="relative">
               <span className="text-5xl mb-3 block">{hero.flag}</span>
-              <h3 className="text-white font-extrabold text-2xl mb-1">{hero.name}</h3>
+              <h3 className="text-white font-extrabold text-2xl mb-1">{lDest(hero.slug, hero.name)}</h3>
               <p className="text-white/70 text-sm mb-1">
-                {hero.country} · {hero.categoryCount} categories
-                {getMinPrice(hero.slug) ? ` · from €${getMinPrice(hero.slug)}/night` : ''}
+                {lCountry(hero.country)} · {hero.categoryCount} {L.categories}
+                {getMinPrice(hero.slug) ? ` · ${L.from} ${getMinPrice(hero.slug)} €${L.perNight}` : ''}
               </p>
               <p className="text-white/60 text-sm leading-relaxed mb-4 line-clamp-2">{hero.intro}</p>
               <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
@@ -98,8 +109,8 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
               <div className="absolute top-3 right-4 text-4xl opacity-25 select-none">{dest.flag}</div>
               <div className="relative">
                 <span className="text-2xl mb-1 block">{dest.flag}</span>
-                <h3 className="text-white font-bold text-base leading-tight">{dest.name}</h3>
-                <p className="text-white/60 text-xs">{dest.categoryCount} categories</p>
+                <h3 className="text-white font-bold text-base leading-tight">{lDest(dest.slug, dest.name)}</h3>
+                <p className="text-white/60 text-xs">{dest.categoryCount} {L.categories}</p>
               </div>
             </Link>
           ))}
@@ -124,8 +135,8 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
               <div className="absolute top-2 right-3 text-3xl opacity-20 select-none">{dest.flag}</div>
               <div className="relative">
                 <span className="text-xl mb-0.5 block">{dest.flag}</span>
-                <h3 className="text-white font-bold text-sm leading-tight">{dest.name}</h3>
-                <p className="text-white/60 text-xs">{dest.categoryCount} cat.</p>
+                <h3 className="text-white font-bold text-sm leading-tight">{lDest(dest.slug, dest.name)}</h3>
+                <p className="text-white/60 text-xs">{dest.categoryCount} {L.cat}</p>
               </div>
             </Link>
           ))}

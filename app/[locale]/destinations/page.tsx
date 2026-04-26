@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation'
 import destinations from '@/data/destinations.json'
 import { SITE_URL } from '@/lib/site'
 import { generateDestIntro } from '@/lib/editorial'
-import { getAllCountries } from '@/lib/countries'
+import { getAllCountries, getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
 
 export async function generateStaticParams() {
@@ -108,9 +108,9 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
                 <div className="relative">
                   <span className="text-5xl mb-3 block">{dest.flag}</span>
                   <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
-                  <p className="text-white/70 text-sm mb-1">{dest.country}</p>
+                  <p className="text-white/70 text-sm mb-1">{getLocalizedCountryName(dest.country, locale)}</p>
                   <p className="text-white/60 text-sm leading-relaxed line-clamp-2 mb-4">
-                    {generateDestIntro(dest.slug, dest.name, dest.country, locale) || dest.intro}
+                    {generateDestIntro(dest.slug, getLocalizedCityName(dest.slug, dest.name, locale), getLocalizedCountryName(dest.country, locale), locale) || dest.intro}
                   </p>
                   <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
                     {p.explore} →

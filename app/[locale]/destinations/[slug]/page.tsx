@@ -90,8 +90,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const localizedName = getLocalizedCityName(slug, dest.name, locale)
 
   const destHotels = hotels.filter((h) => h.destinationSlug === slug)
-  const localeIntro = generateDestIntro(slug, dest.name, dest.country, locale) || dest.intro
-  const faqs = generateDestFaqs(slug, dest.name, dest.country, destHotels.length, locale)
+  const localizedCountry = getLocalizedCountryName(dest.country, locale)
+  const localeIntro = generateDestIntro(slug, localizedName, localizedCountry, locale) || dest.intro
+  const faqs = generateDestFaqs(slug, localizedName, localizedCountry, destHotels.length, locale)
 
   // Find which categories have hotels here
   const presentCategorySlugs = new Set(destHotels.flatMap((h) => h.categories))
@@ -723,9 +724,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">
               {locale === 'fr'
-                ? `Plus de destinations en ${dest.country}`
+                ? `Plus de destinations en ${getLocalizedCountryName(dest.country, 'fr')}`
                 : locale === 'es'
-                ? `Más destinos en ${dest.country}`
+                ? `Más destinos en ${getLocalizedCountryName(dest.country, 'es')}`
                 : `More destinations in ${dest.country}`}
             </h2>
             <div className="flex flex-wrap gap-3">

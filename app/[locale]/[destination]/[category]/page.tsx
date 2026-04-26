@@ -223,10 +223,10 @@ export default async function ComboPage({
       : null
   const freeCount = comboHotels.filter((h) => h.petFee === 0).length
 
-  const introParagraphs = generateIntro(dest.slug, dest.name, cat.slug, comboHotels.length, locale)
-  const faqs = generateFaqs(dest.slug, dest.name, cat.slug, catName, comboHotels, locale)
-  const tips = generateTips(cat.slug, dest.name, locale)
-  const why = generateWhy(dest.slug, dest.name, cat.slug, locale)
+  const introParagraphs = generateIntro(dest.slug, localizedDest, cat.slug, comboHotels.length, locale)
+  const faqs = generateFaqs(dest.slug, localizedDest, cat.slug, catName, comboHotels, locale)
+  const tips = generateTips(cat.slug, localizedDest, locale)
+  const why = generateWhy(dest.slug, localizedDest, cat.slug, locale)
   const schemas = buildSchema(locale, dest, cat, catName, comboHotels, faqs, year)
 
   // Related: other categories in same destination

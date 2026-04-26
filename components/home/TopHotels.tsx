@@ -3,6 +3,8 @@ import destinations from '@/data/destinations.json'
 import Image from 'next/image'
 import type { Locale } from '@/app/[locale]/dictionaries'
 import { buildAllezLink } from '@/lib/site'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 interface TopHotelsProps {
   locale: Locale
@@ -30,13 +32,18 @@ export default function TopHotels({ locale }: TopHotelsProps) {
     fr: 'Réserver',
     es: 'Reservar',
   }
+  const editorChoice: Record<string, string> = {
+    en: "⭐ Editor's Choice",
+    fr: '⭐ Coup de cœur de la rédaction',
+    es: '⭐ Selección de la redacción',
+  }
 
   return (
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <span className="inline-block bg-amber-100 text-amber-700 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-4">
-            ⭐ Editor&apos;s Choice
+            {editorChoice[locale] ?? editorChoice.en}
           </span>
           <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3">
             {headings[locale] ?? headings.en}
@@ -97,7 +104,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                     {hotel.name}
                   </h3>
                   {dest && (
-                    <p className="text-xs text-gray-400 mb-4">{dest.flag} {dest.name}, {dest.country}</p>
+                    <p className="text-xs text-gray-400 mb-4">{dest.flag} {getLocalizedCityName(dest.slug, dest.name, locale)}, {getLocalizedCountryName(dest.country, locale)}</p>
                   )}
                   <div className="flex items-center justify-between mt-auto pt-3 border-t border-gray-50">
                     <div>

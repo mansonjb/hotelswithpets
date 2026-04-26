@@ -2,7 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { getAllCountries } from '@/lib/countries'
+import { getAllCountries, getLocalizedCountryName } from '@/lib/countries'
+import { getLocalizedCityName } from '@/lib/cityNames'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 
@@ -202,14 +203,14 @@ export default async function CountriesPage({
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-4xl">{country.flag}</span>
                     <div>
-                      <p className="font-bold text-gray-900 text-lg group-hover:text-blue-700 transition-colors">{country.name}</p>
+                      <p className="font-bold text-gray-900 text-lg group-hover:text-blue-700 transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
                       <p className="text-xs text-gray-400">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                     </div>
                   </div>
                   {intro && <p className="text-sm text-gray-500 leading-relaxed mb-4">{intro}</p>}
                   <div className="flex flex-wrap gap-1.5 mb-4">
                     {country.destinations.slice(0, 4).map((d) => (
-                      <span key={d.slug} className="text-xs bg-gray-100 text-gray-600 px-2.5 py-1 rounded-full">{d.name}</span>
+                      <span key={d.slug} className="text-xs bg-gray-100 text-gray-600 px-2.5 py-1 rounded-full">{getLocalizedCityName(d.slug, d.name, locale)}</span>
                     ))}
                     {country.destinations.length > 4 && (
                       <span className="text-xs bg-gray-100 text-gray-400 px-2.5 py-1 rounded-full">+{country.destinations.length - 4}</span>
@@ -236,7 +237,7 @@ export default async function CountriesPage({
                 >
                   <span className="text-3xl flex-shrink-0">{country.flag}</span>
                   <div className="min-w-0">
-                    <p className="font-semibold text-gray-900 group-hover:text-blue-700 transition-colors text-sm">{country.name}</p>
+                    <p className="font-semibold text-gray-900 group-hover:text-blue-700 transition-colors text-sm">{getLocalizedCountryName(country.name, locale)}</p>
                     <p className="text-xs text-gray-400">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                   </div>
                 </Link>

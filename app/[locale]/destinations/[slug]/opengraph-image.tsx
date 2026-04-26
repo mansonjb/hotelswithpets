@@ -1,6 +1,8 @@
 import { ImageResponse } from 'next/og'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import { getLocalizedCityName } from '@/lib/cityNames'
+import { getLocalizedCountryName } from '@/lib/countries'
 
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
@@ -18,12 +20,14 @@ export default async function Image({
   }
 
   const hotelCount = hotels.filter((h) => h.destinationSlug === slug).length
+  const localizedDest = getLocalizedCityName(dest.slug, dest.name, locale)
+  const localizedCountry = getLocalizedCountryName(dest.country, locale)
 
   const subtitle =
     locale === 'fr'
-      ? `Hôtels acceptant animaux · ${dest.country}`
+      ? `Hôtels pet-friendly · ${localizedCountry}`
       : locale === 'es'
-      ? `Hoteles con mascotas · ${dest.country}`
+      ? `Hoteles pet-friendly · ${localizedCountry}`
       : `Pet-friendly hotels · ${dest.country}`
 
   const hotelLabel =
@@ -91,7 +95,7 @@ export default async function Image({
             <span style={{ fontSize: 96, display: 'flex' }}>{dest.flag}</span>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
               <div style={{ fontSize: 72, fontWeight: 800, color: '#ffffff', display: 'flex', lineHeight: 1 }}>
-                {dest.name}
+                {localizedDest}
               </div>
               <div style={{ fontSize: 28, color: '#93c5fd', display: 'flex' }}>{subtitle}</div>
             </div>

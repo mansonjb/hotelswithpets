@@ -406,7 +406,31 @@ export default async function ComboPage({
 
               {/* ③ Pet owner testimonial — removed (template text identical across pages) */}
 
-              {/* ④ Hotel ranked list */}
+              {/* ④ Map (moved up — high-conversion: drives bookings on broader Booking inventory) */}
+              {'lat' in dest && 'lng' in dest && (
+                <section aria-label="Map" className="mb-10">
+                  <h2 className="text-xl font-extrabold text-gray-900 mb-3">
+                    🗺️ {p.mapSectionTitle}
+                  </h2>
+                  <p className="text-sm text-gray-500 mb-4">
+                    {locale === 'fr'
+                      ? `Tous les hôtels acceptant les animaux à ${localizedDest}, directement depuis Booking.com — cliquez sur un marqueur pour voir le prix et réserver.`
+                      : locale === 'es'
+                      ? `Todos los hoteles que admiten mascotas en ${localizedDest}, directamente desde Booking.com — haz clic en un marcador para ver el precio y reservar.`
+                      : `All pet-friendly hotels in ${localizedDest}, live from Booking.com — click any marker to see prices and book.`}
+                  </p>
+                  <PetMap
+                    lat={(dest as typeof dest & { lat: number }).lat}
+                    lng={(dest as typeof dest & { lng: number }).lng}
+                    stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
+                    destName={dest.name}
+                    country={dest.country}
+                    height={400}
+                  />
+                </section>
+              )}
+
+              {/* ⑤ Hotel ranked list */}
               <section aria-label="Hotel list" className="mb-10">
                 <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
                   {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: localizedDest })}
@@ -434,23 +458,6 @@ export default async function ComboPage({
                   </div>
                 )}
               </section>
-
-              {/* ⑤ Inline map. Full width, after hotel list */}
-              {'lat' in dest && 'lng' in dest && (
-                <section aria-label="Map" className="mb-10">
-                  <h2 className="text-xl font-extrabold text-gray-900 mb-4">
-                    🗺️ {p.mapSectionTitle}
-                  </h2>
-                  <PetMap
-                    lat={(dest as typeof dest & { lat: number }).lat}
-                    lng={(dest as typeof dest & { lng: number }).lng}
-                    stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
-                    destName={dest.name}
-                    country={dest.country}
-                    height={400}
-                  />
-                </section>
-              )}
 
               {/* ⑥ Tips section */}
               <section aria-label="Selection guide" className="mb-10">

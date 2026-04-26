@@ -289,6 +289,32 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         )
       })()}
 
+      {/* ── Map (high-conversion: first booking came from this component) ── */}
+      {'lat' in dest && 'lng' in dest && (
+        <section className="py-10 bg-gray-50 border-b border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
+              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
+            </h2>
+            <p className="text-sm text-gray-500 mb-5">
+              {locale === 'fr'
+                ? `Tous les hôtels acceptant les animaux à ${localizedName}, directement depuis Booking.com — cliquez sur un marqueur pour voir le prix et réserver.`
+                : locale === 'es'
+                ? `Todos los hoteles que admiten mascotas en ${localizedName}, directamente desde Booking.com — haz clic en un marcador para ver el precio y reservar.`
+                : `All pet-friendly hotels in ${localizedName}, live from Booking.com — click any marker to see prices and book.`}
+            </p>
+            <PetMap
+              lat={(dest as typeof dest & { lat: number }).lat}
+              lng={(dest as typeof dest & { lng: number }).lng}
+              stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
+              destName={dest.name}
+              country={dest.country}
+              height={420}
+            />
+          </div>
+        </section>
+      )}
+
       {/* ── Editorial Snapshot ── */}
       {(() => {
         const ctxLocale = locale === 'fr' || locale === 'es' ? locale : 'en'
@@ -566,25 +592,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 </Link>
               ))}
             </div>
-          </div>
-        </section>
-      )}
-
-      {/* Map */}
-      {'lat' in dest && 'lng' in dest && (
-        <section className="py-12 bg-gray-50">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
-              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
-            </h2>
-            <PetMap
-                lat={(dest as typeof dest & { lat: number }).lat}
-                lng={(dest as typeof dest & { lng: number }).lng}
-                stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
-                destName={dest.name}
-                country={dest.country}
-                height={380}
-              />
           </div>
         </section>
       )}

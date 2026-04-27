@@ -151,9 +151,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Combo pages (destination × category) — highest value SEO pages
+  // Combo pages (destination × category) — highest value SEO pages.
+  // Restrict to OFFICIAL categories.json slugs: hotels.json carries internal
+  // filter tags ("budget-pet-friendly", "boutique-pet-friendly",
+  // "luxury-pet-friendly") that don't have a category landing page. Including
+  // them here would surface noindex pages to Google.
+  const officialCategorySlugs = new Set(categories.map((c) => c.slug))
   const combos = new Set(
-    hotels.flatMap((h) => h.categories.map((cat) => `${h.destinationSlug}|${cat}`))
+    hotels.flatMap((h) =>
+      h.categories
+        .filter((cat) => officialCategorySlugs.has(cat))
+        .map((cat) => `${h.destinationSlug}|${cat}`)
+    )
   )
   for (const combo of combos) {
     const [destSlug, catSlug] = combo.split('|')

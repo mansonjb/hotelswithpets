@@ -18,9 +18,21 @@ type DestWithWeather = typeof destinations[number] & {
 
 // ─── Static params ────────────────────────────────────────────────────────────
 
+// Only generate routes for OFFICIAL categories (the ones in categories.json).
+// hotels.json contains "ghost" tags like `boutique-pet-friendly`,
+// `budget-pet-friendly`, `luxury-pet-friendly` used for internal filtering —
+// these have no editorial content, so the page would render notFound() → 200 +
+// noindex, which wastes Google's crawl budget and pollutes Search Console with
+// "Excluded by noindex" reports. Filtering at the source removes them entirely.
+const OFFICIAL_CATEGORY_SLUGS = new Set(categories.map((c) => c.slug))
+
 export async function generateStaticParams() {
   const combos = new Set(
-    hotels.flatMap((h) => h.categories.map((cat) => `${h.destinationSlug}|${cat}`))
+    hotels.flatMap((h) =>
+      h.categories
+        .filter((cat) => OFFICIAL_CATEGORY_SLUGS.has(cat))
+        .map((cat) => `${h.destinationSlug}|${cat}`)
+    )
   )
   return [...combos].map((combo) => {
     const [destination, category] = combo.split('|')

@@ -322,6 +322,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
       area: 'Kalamaja, Telliskivi, and the Old Town',
     },
+    'the-hague': {
+      personality: 'a stately Dutch capital where 11 km of North Sea coast, off-leash dunes, and dog-friendly cafés sit a tram ride from the centre',
+      highlight: 'Westduinpark and Bosjes van Poot, the Haagse Bos forest, and Landgoed Clingendael',
+      area: 'Statenkwartier, Hofkwartier, and Scheveningen Haven',
+    },
     thessaloniki: {
       personality: 'Greece\'s second city and one of its most dog-friendly — a 2,300-year-old port city where dogs are welcome on terraces, in the old town quarter, and along the 3.5 km Nea Paralia waterfront promenade',
       highlight: 'the Nea Paralia waterfront park (with a dedicated dog area), the Seich Sou urban forest, and the Ano Poli Byzantine wall walks',
@@ -669,6 +674,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
       area: 'Kalamaja, Telliskivi et la Vieille Ville',
     },
+    'the-hague': {
+      personality: 'une capitale néerlandaise élégante où 11 km de côte de la mer du Nord, des dunes sans laisse et des cafés dog-friendly sont à un tram du centre',
+      highlight: 'le Westduinpark et les Bosjes van Poot, la forêt du Haagse Bos et le domaine de Clingendael',
+      area: 'le Statenkwartier, le Hofkwartier et Scheveningen Haven',
+    },
     thessaloniki: {
       personality: 'la deuxième ville de Grèce et l\'une de ses plus dog-friendly — une cité portuaire de 2 300 ans où les chiens sont les bienvenus en terrasse, dans le vieux quartier et le long des 3,5 km de la promenade Nea Paralia',
       highlight: 'le parc du front de mer Nea Paralia (avec une zone canine dédiée), la forêt urbaine de Seich Sou et les promenades byzantines d\'Ano Poli',
@@ -1015,6 +1025,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas. Los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',
       highlight: 'el Parque Kadriorg, el sendero costero de Pirita y los paseos por la turbera de Pääsküla',
       area: 'Kalamaja, Telliskivi y el Casco Antiguo',
+    },
+    'the-hague': {
+      personality: 'una capital neerlandesa elegante donde 11 km de costa del Mar del Norte, dunas sin correa y cafés dog-friendly están a un tranvía del centro',
+      highlight: 'Westduinpark y Bosjes van Poot, el bosque Haagse Bos y la finca Clingendael',
+      area: 'el Statenkwartier, el Hofkwartier y Scheveningen Haven',
     },
     thessaloniki: {
       personality: 'la segunda ciudad de Grecia y una de las más dog-friendly — una ciudad portuaria de 2.300 años donde los perros son bienvenidos en terrazas, en el barrio antiguo y a lo largo de los 3,5 km del paseo marítimo Nea Paralia',

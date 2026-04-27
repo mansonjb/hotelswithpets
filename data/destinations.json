@@ -4389,6 +4389,80 @@
     }
   },
   {
+    "slug": "the-hague",
+    "name": "The Hague",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "lat": 52.0705,
+    "lng": 4.3007,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/the-hague.jpg",
+    "intro": "The Hague pairs Dutch political grandeur with a 11-kilometre North Sea coastline, off-leash dunes a tram ride from the centre, and dog-friendly cafés on every corner of the Statenkwartier and Scheveningen Haven.",
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "thessaloniki",
     "name": "Thessaloniki",
     "country": "Greece",

@@ -6763,6 +6763,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'the-hague': {
+    history: {
+      fr: `La Haye n'est pas la capitale officielle des Pays-Bas mais elle en concentre la fonction — siège du gouvernement, du Parlement, des ambassades et de la Cour internationale de Justice depuis 1913. Fondée au XIIIe siècle autour d'un pavillon de chasse comtal sur l'étang du Hofvijver, la ville est restée une « Résidence » royale jusqu'à aujourd'hui, conservant un urbanisme aéré et arboré qui la distingue d'Amsterdam ou Rotterdam. Sur ses 560 000 habitants, plus de 50 000 chiens sont enregistrés à la commune, et la culture locale leur fait largement de la place : 11 km de littoral à Scheveningen et Kijkduin, des dunes Natura 2000 sans laisse, des forêts en plein centre comme le Haagse Bos, et une politique de transports gratuits pour les petits chiens en sac. La Haye est l'une des capitales européennes les mieux équipées pour vivre — et voyager — avec un chien.`,
+      en: `The Hague is not the official capital of the Netherlands but it concentrates the function — seat of government, Parliament, embassies, and the International Court of Justice since 1913. Founded in the 13th century around a counts' hunting lodge on the Hofvijver pond, the city has remained a royal Residence to this day, with an airy, tree-lined urbanism that sets it apart from Amsterdam or Rotterdam. Of its 560 000 inhabitants, more than 50 000 dogs are registered at the municipality, and the local culture gives them generous room: 11 km of coast at Scheveningen and Kijkduin, off-leash Natura 2000 dunes, central forests like Haagse Bos, and a transport policy that lets small dogs ride free in a carrier. The Hague is one of the best-equipped European capitals for living — and travelling — with a dog.`,
+      es: `La Haya no es la capital oficial de los Países Bajos, pero concentra la función: sede del Gobierno, del Parlamento, de las embajadas y de la Corte Internacional de Justicia desde 1913. Fundada en el siglo XIII en torno a un pabellón de caza condal a orillas del estanque del Hofvijver, la ciudad ha seguido siendo una Residencia real hasta hoy, con un urbanismo amplio y arbolado que la distingue de Ámsterdam o Róterdam. De sus 560.000 habitantes, hay más de 50.000 perros registrados en el ayuntamiento, y la cultura local les deja mucho espacio: 11 km de costa en Scheveningen y Kijkduin, dunas Natura 2000 sin correa, bosques céntricos como el Haagse Bos, y una política de transportes que deja viajar gratis a los perros pequeños en transportín. La Haya es una de las capitales europeas mejor preparadas para vivir y viajar con perro.`,
+    },
+    sights: [
+      {
+        name: 'Hofvijver & Binnenhof',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Étang historique du XIIIe siècle entouré du complexe parlementaire, accessible librement aux chiens en laisse autour des cours et de la promenade riveraine. L'intérieur du Binnenhof est en rénovation jusqu'en 2028, mais le tour à pied reste l'un des plus photogéniques du pays.`,
+          en: `A 13th-century pond ringed by the parliamentary complex, freely accessible to leashed dogs around the courtyards and the lakeside walk. The Binnenhof's interior is closed for renovation until 2028, but the outside loop remains one of the country's most photogenic walks.`,
+          es: `Estanque histórico del siglo XIII rodeado del complejo parlamentario, accesible libremente a perros con correa por los patios y el paseo del agua. El interior del Binnenhof está en obras hasta 2028, pero la vuelta exterior sigue siendo uno de los paseos más fotogénicos del país.`,
+        },
+      },
+      {
+        name: 'Westduinpark & Bosjes van Poot',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Réserve dunaire Natura 2000 de 240 hectares entre Kijkduin et Scheveningen, avec des sections sans laisse étendues, des vues sur la mer et un accès direct à la plage. L'un des plus grands espaces naturels urbains des Pays-Bas.`,
+          en: `A 240-hectare Natura 2000 dune reserve between Kijkduin and Scheveningen, with extensive off-leash sections, sea views, and direct beach access. One of the largest urban nature areas in the Netherlands.`,
+          es: `Reserva dunar Natura 2000 de 240 hectáreas entre Kijkduin y Scheveningen, con extensas zonas sin correa, vistas al mar y acceso directo a la playa. Uno de los mayores espacios naturales urbanos de los Países Bajos.`,
+        },
+      },
+      {
+        name: 'Scheveningen Pier & Boulevard',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Long boulevard plat avec vue sur la mer du Nord et la jetée De Pier emblématique. Les chiens en laisse parcourent toute la promenade et la majeure partie de la jetée, y compris hors saison où la plage en contrebas devient sans laisse.`,
+          en: `A long flat boulevard with views of the North Sea and the iconic De Pier. Leashed dogs walk the whole promenade and most of the pier itself, including off-season when the beach below becomes off-leash.`,
+          es: `Largo bulevar llano con vistas al Mar del Norte y al icónico Scheveningen Pier. Los perros con correa recorren todo el paseo y la mayor parte del muelle, incluso fuera de temporada cuando la playa de abajo queda sin correa.`,
+        },
+      },
+      {
+        name: 'Haagse Bos',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Forêt de feuillus séculaire de plus de 100 hectares qui s'étend du Malieveld au Park Marlot, gérée par Staatsbosbeheer. Plusieurs zones sans laisse balisées le long de l'allée principale ; l'entrée par le Malieveld est à dix minutes à pied du Binnenhof.`,
+          en: `A centuries-old hardwood forest of over 100 hectares stretching from Malieveld to Park Marlot, managed by Staatsbosbeheer. Several marked off-leash zones along the main path; the Malieveld entrance is a ten-minute walk from the Binnenhof.`,
+          es: `Bosque de frondosas centenario de más de 100 hectáreas que se extiende desde el Malieveld hasta el Park Marlot, gestionado por Staatsbosbeheer. Varias zonas sin correa señalizadas a lo largo del camino principal; la entrada por el Malieveld está a diez minutos a pie del Binnenhof.`,
+        },
+      },
+      {
+        name: 'Lange Voorhout',
+        emoji: '🌰',
+        petFriendly: true,
+        desc: {
+          fr: `Avenue en L plantée de marronniers, bordée d'ambassades et de musées, qui accueille chaque été une exposition de sculptures en plein air libre d'accès. Les chiens en laisse y profitent d'un cadre cultivé sans contrainte de billet.`,
+          en: `An L-shaped chestnut-tree avenue lined with embassies and museums, host each summer to a free open-air sculpture exhibition. Leashed dogs share in the cultural setting with no ticket required.`,
+          es: `Avenida en L plantada de castaños, flanqueada por embajadas y museos, sede cada verano de una exposición de esculturas al aire libre y de acceso libre. Los perros con correa disfrutan del entorno cultural sin necesidad de entrada.`,
+        },
+      },
+      {
+        name: 'Landgoed Clingendael',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Domaine seigneurial du XVIIe siècle de 100 hectares dans le Benoordenhout, avec jardins formels, étangs et ferme. Les chiens en laisse sont admis partout sauf dans le Jardin japonais, ouvert seulement six semaines par an.`,
+          en: `A 17th-century country estate of 100 hectares in Benoordenhout, with formal gardens, ponds, and a working farm. Leashed dogs are admitted everywhere except the Japanese Garden, which opens only six weeks a year.`,
+          es: `Finca señorial del siglo XVII de 100 hectáreas en Benoordenhout, con jardines formales, estanques y una granja en funcionamiento. Los perros con correa se admiten en todas partes excepto en el Jardín Japonés, que solo abre seis semanas al año.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction saisonnière de plage à Scheveningen (15 mai-1er oct) : repliez-vous sur Kijkduin sud du strandslag 2, ou Noorderstrand au nord du poteau 34, sans laisse toute l'année.`,
+        `Sur la plage centrale de Scheveningen, l'été, les chiens sont admis sans laisse uniquement entre 21h et 7h — un mini-rituel social très haguenois.`,
+        `HTM (trams et bus) : petits chiens en sac gratuits, grands chiens en laisse acceptés sans ticket, à condition de s'asseoir dans l'allée.`,
+        `Urgence vétérinaire 24h/24 : AniCura Haaglanden Rijswijk, Frijdastraat 20a (+31 85 483 13 00), à 10 minutes du centre en voiture.`,
+        `Le Jardin japonais de Clingendael interdit les chiens (sauf chiens d'assistance) ; le reste du domaine est en revanche entièrement accessible en laisse.`,
+      ],
+      en: [
+        `Seasonal beach ban on Scheveningen (15 May-1 Oct): fall back on Kijkduin south of strandslag 2, or Noorderstrand north of pole 34, both off-leash year-round.`,
+        `On the central Scheveningen beach in summer, dogs are off-leash only between 21:00 and 07:00 — a small but lively local social ritual.`,
+        `HTM (trams and buses): small dogs in a carrier travel free, large dogs on a leash are accepted at no extra fare provided they sit in the aisle.`,
+        `24/7 emergency vet: AniCura Haaglanden Rijswijk, Frijdastraat 20a (+31 85 483 13 00), 10 minutes by car from the centre.`,
+        `Clingendael's Japanese Garden bans dogs (assistance dogs only); the rest of the estate is fully accessible on a leash.`,
+      ],
+      es: [
+        `Prohibición estacional de playa en Scheveningen (15 may-1 oct): usa Kijkduin al sur de strandslag 2, o Noorderstrand al norte del poste 34, ambas sin correa todo el año.`,
+        `En la playa central de Scheveningen en verano, los perros están sin correa solo entre las 21:00 y las 07:00: un pequeño ritual social muy local.`,
+        `HTM (tranvías y autobuses): perros pequeños en transportín gratis, perros grandes con correa aceptados sin coste adicional siempre que vayan sentados en el pasillo.`,
+        `Urgencia veterinaria 24h: AniCura Haaglanden Rijswijk, Frijdastraat 20a (+31 85 483 13 00), a 10 minutos en coche del centro.`,
+        `El Jardín Japonés de Clingendael prohíbe los perros (solo perros de asistencia); el resto de la finca es totalmente accesible con correa.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport principal pour La Haye est Amsterdam Schiphol (AMS) à 45 min en train direct ; Rotterdam-La Haye (RTM) est plus proche mais dessert moins de destinations.`,
+        `Sur les trains NS, les grands chiens ont besoin d'un Dog Day Ticket à environ 3,50 €, valable toute la journée sur le réseau domestique. Petits chiens en sac : gratuits.`,
+        `Urgence vétérinaire régionale 24h/24 : ligne 0900-2226333, redirige vers la clinique de garde (AniCura à Rijswijk en pratique).`,
+        `Climat océanique : étés doux (19 °C en juillet), hivers gris et venteux ; le vent de la mer du Nord justifie un manteau pour petits chiens d'octobre à mars.`,
+        `Pawshake.nl est la plateforme de référence pour la garde et la promenade ; comptez 15-20 € la visite, 30 € la journée complète, 35 € la nuit.`,
+      ],
+      en: [
+        `The main airport for The Hague is Amsterdam Schiphol (AMS), 45 minutes by direct train; Rotterdam-The Hague (RTM) is closer but serves fewer destinations.`,
+        `On NS trains, large dogs need a Dog Day Ticket at around €3.50, valid all day across the domestic network. Small dogs in a bag travel free.`,
+        `24/7 regional emergency vet line: 0900-2226333, which routes to the on-call clinic (in practice AniCura Rijswijk).`,
+        `Oceanic climate: mild summers (19 °C in July), grey and windy winters; the North Sea wind makes a coat sensible for small dogs from October to March.`,
+        `Pawshake.nl is the standard pet-care platform; budget €15-20 per drop-in visit, €30 for full-day care, €35 per night.`,
+      ],
+      es: [
+        `El aeropuerto principal para La Haya es Ámsterdam Schiphol (AMS), a 45 minutos en tren directo; Rotterdam-La Haya (RTM) está más cerca pero opera menos destinos.`,
+        `En los trenes NS, los perros grandes necesitan un Dog Day Ticket de unos 3,50 €, válido todo el día en la red doméstica. Los perros pequeños en bolsa viajan gratis.`,
+        `Línea regional de urgencias veterinarias 24 h: 0900-2226333; deriva a la clínica de guardia (en la práctica, AniCura en Rijswijk).`,
+        `Clima oceánico: veranos suaves (19 °C en julio), inviernos grises y ventosos; el viento del Mar del Norte hace recomendable un abrigo para perros pequeños de octubre a marzo.`,
+        `Pawshake.nl es la plataforma de referencia para cuidado y paseo; cuenta 15-20 € por visita puntual, 30 € por día completo, 35 € por noche.`,
+      ],
+    },
+  },
+
   thessaloniki: {
     history: {
       fr: `Thessalonique est la deuxième ville de Grèce et l'une des plus anciennes cités habitées en continu d'Europe — fondée en 315 av. J.-C. par le roi macédonien Cassandre, qui lui donna le nom de sa femme, la demi-sœur d'Alexandre le Grand. Ville cosmopolite carrefour des Balkans, elle fut tour à tour capitale romaine, métropole byzantine, cité ottomane et foyer de la bourgeoisie juive séfarade. Aujourd'hui, c'est la capitale culturelle de la Grèce du Nord — riche en monuments de l'Antiquité, de Byzance et de l'époque ottomane qui coexistent dans un tissu urbain vivant. Sa culture est profondément méditerranéenne : on y mange bien, on y sort tard, et les chiens y sont les bienvenus partout sur les terrasses. La Nea Paralia, promenade réaménagée en 2013 avec son parc canin dédié, incarne cette convivialité entre la ville et ses habitants à quatre pattes.`,

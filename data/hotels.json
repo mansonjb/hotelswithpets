@@ -10462,6 +10462,124 @@
     "slug": "hilton-tallinn-park"
   },
   {
+    "id": "the-hague-1",
+    "name": "Hilton The Hague",
+    "destinationSlug": "the-hague",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2779,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/hilton-the-hague.html",
+    "petFee": 50,
+    "petPolicy": "Hilton The Hague allows up to two pets up to 34 kg combined for €50 per pet per stay. Both dogs and cats are accepted. Pets are not permitted in the food and beverage areas; service dogs stay free.",
+    "highlights": [
+      "Embassy quarter location",
+      "Walk to Peace Palace",
+      "Concierge can arrange pet sitting"
+    ],
+    "slug": "hilton-the-hague-the-hague"
+  },
+  {
+    "id": "the-hague-2",
+    "name": "Park Centraal Den Haag, part of Sircle Collection",
+    "destinationSlug": "the-hague",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 5259,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/parkhotel.html",
+    "petFee": 20,
+    "petPolicy": "Park Centraal welcomes one dog up to 15 kg per room for €20 per night. Cats are not accepted. Service dogs stay free; the hotel sits beside the royal Paleistuin gardens for easy morning walks.",
+    "highlights": [
+      "Beside Paleistuin royal gardens",
+      "Hofkwartier neighbourhood",
+      "160-year heritage building"
+    ],
+    "slug": "park-centraal-den-haag-the-hague"
+  },
+  {
+    "id": "the-hague-3",
+    "name": "Novotel Den Haag City Centre",
+    "destinationSlug": "the-hague",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 4800,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/novotel-denhaag.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Den Haag City Centre allows pets of any size for €15 per pet per night. Both dogs and cats are accepted. Service animals stay free.",
+    "highlights": [
+      "Steps from Hofvijver",
+      "Indoor pool",
+      "Tram 9 to Scheveningen at the door"
+    ],
+    "slug": "novotel-den-haag-city-centre-the-hague"
+  },
+  {
+    "id": "the-hague-4",
+    "name": "Ibis Styles Den Haag Scheveningen",
+    "destinationSlug": "the-hague",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 3500,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/ibisscheveningen.html",
+    "petFee": 20,
+    "petPolicy": "Ibis Styles Den Haag Scheveningen allows pets of any size for €20 per pet per night. Both dogs and cats are accepted. Reserve in advance as designated pet rooms are limited.",
+    "highlights": [
+      "50 m from Scheveningen beach",
+      "Free parking",
+      "Buffet breakfast included"
+    ],
+    "slug": "ibis-styles-den-haag-scheveningen-the-hague"
+  },
+  {
+    "id": "the-hague-5",
+    "name": "easyHotel The Hague Scheveningen Beach",
+    "destinationSlug": "the-hague",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.8,
+    "reviewCount": 4195,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/easyhotel-the-hague-scheveningen-beach.html",
+    "petFee": 10,
+    "petPolicy": "easyHotel The Hague Scheveningen Beach allows up to two dogs (max height 60 cm) per room for €10 per pet per night. Pets cannot be left unattended in the room. Guide dogs stay free.",
+    "highlights": [
+      "Walk to Scheveningen beach",
+      "Compact rooms",
+      "Best price near the seafront"
+    ],
+    "slug": "easyhotel-the-hague-scheveningen-beach-the-hague"
+  },
+  {
     "id": "thessaloniki-1",
     "name": "The Modernist Thessaloniki",
     "destinationSlug": "thessaloniki",

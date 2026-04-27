@@ -1,0 +1,885 @@
+{
+  "slug": "vilnius",
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "flag": "🇱🇹",
+  "lastUpdated": "2026-04-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Vilnius",
+      "titleFr": "Restaurants acceptant les chiens à Vilnius",
+      "titleEs": "Restaurantes para perros en Vilna",
+      "introEn": "Vilnius has built a reputation as one of the most genuinely pet-friendly capitals in the Baltics, with a national directory (draugiskigyvunams.lt) listing nearly 500 dog-friendly cafés and restaurants. The compact UNESCO Old Town concentrates the best terraces, while the bohemian Užupis quarter and the Pilies–Stiklių spine carry a higher density of indoor dog welcomes than most Western European capitals. Below are three reliably dog-friendly addresses across the centre.",
+      "introFr": "Vilnius a bâti sa réputation comme l'une des capitales baltes les plus authentiquement pet-friendly, avec un annuaire national (draugiskigyvunams.lt) qui recense près de 500 cafés et restaurants ouverts aux chiens. La vieille ville UNESCO compacte concentre les meilleures terrasses, tandis que le quartier bohème d'Užupis et l'axe Pilies-Stiklių offrent une densité d'accueil en intérieur supérieure à la plupart des capitales d'Europe de l'Ouest. Ci-dessous, trois adresses fiables au cœur de la ville.",
+      "introEs": "Vilna se ha ganado fama como una de las capitales bálticas más genuinamente pet-friendly, con un directorio nacional (draugiskigyvunams.lt) que lista cerca de 500 cafés y restaurantes abiertos a perros. El compacto casco antiguo UNESCO concentra las mejores terrazas, mientras que el bohemio barrio de Užupis y el eje Pilies-Stiklių ofrecen una densidad de admisión en interior superior a la de la mayoría de las capitales de Europa Occidental. A continuación, tres direcciones fiables en el centro.",
+      "places": [
+        {
+          "name": "In Vino",
+          "address": "Aušros Vartų g. 7, 01304 Vilnius",
+          "neighborhood": "Old Town (Aušros Vartai)",
+          "photo": "/images/city-places/vilnius-restaurants-in-vino.jpg",
+          "website": "https://invino.lt/",
+          "description": "A long-running wine bar in the courtyard of a 16th-century townhouse on Aušros Vartų street, regularly cited as the most dog-friendly evening venue in the Old Town. Dogs are welcome inside and on the cobbled inner courtyard terrace, where water bowls are kept by the door. Strong Eastern European wine selection plus tapas-style sharing plates.",
+          "descriptionFr": "Bar à vin de longue date dans la cour d'un hôtel particulier du XVIe siècle sur Aušros Vartų, régulièrement cité comme l'adresse de soirée la plus dog-friendly de la vieille ville. Les chiens sont les bienvenus en salle et sur la terrasse pavée de la cour intérieure, où des gamelles d'eau sont gardées à la porte. Belle sélection de vins d'Europe de l'Est et planches à partager façon tapas.",
+          "descriptionEs": "Bar de vinos veterano en el patio de una casa solariega del siglo XVI en la calle Aušros Vartų, citado a menudo como la dirección nocturna más dog-friendly del casco antiguo. Los perros son bienvenidos en el interior y en la terraza adoquinada del patio, con cuencos de agua guardados junto a la puerta. Buena selección de vinos de Europa del Este y tablas para compartir tipo tapas.",
+          "petPolicy": "Dogs welcome inside and on courtyard terrace; water bowls provided",
+          "petPolicyFr": "Chiens acceptés en salle et sur la terrasse de cour ; gamelles d'eau fournies",
+          "petPolicyEs": "Perros admitidos en interior y terraza del patio; cuencos de agua disponibles",
+          "priceRange": "€€",
+          "mustTry": "Lithuanian sparkling, regional wine flight, sharing board",
+          "mustTryFr": "Mousseux lituanien, dégustation régionale, planche à partager",
+          "mustTryEs": "Espumoso lituano, cata de vinos regionales, tabla para compartir",
+          "openingHours": "Mon–Sat 16:00–24:00",
+          "tip": "The courtyard fills first on summer Fridays — book the inside corner table for a quieter evening with a dog.",
+          "tipFr": "La cour se remplit d'abord les vendredis d'été — réservez la table d'angle en salle pour une soirée plus calme avec un chien.",
+          "tipEs": "El patio se llena primero los viernes de verano: reserva la mesa del rincón interior para una velada más tranquila con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=In+Vino+Vilnius"
+        },
+        {
+          "name": "12 Istorijų",
+          "address": "Vilniaus g. 22, 01402 Vilnius",
+          "neighborhood": "Old Town (Vilniaus street)",
+          "photo": "/images/city-places/vilnius-restaurants-12-istoriju.jpg",
+          "website": "https://www.12istoriju.lt/",
+          "description": "A bright all-day restaurant on Vilniaus street, named '12 Stories' after the wood-floored townhouse it occupies. The dining room is open to dogs, with bowls and treats kept behind the bar. Whole-grain pancakes, fried eggs, and salads run from breakfast until late, and the kitchen is one of the few in the Old Town that explicitly highlights dog-welcoming on its menu.",
+          "descriptionFr": "Restaurant lumineux ouvert toute la journée sur la rue Vilniaus, baptisé '12 Histoires' d'après l'hôtel particulier en bois qu'il occupe. La salle accueille les chiens, avec gamelles et friandises gardées derrière le bar. Pancakes complets, œufs au plat et salades du petit-déjeuner jusqu'au soir — l'une des rares cuisines de la vieille ville à mettre explicitement en avant l'accueil des chiens sur sa carte.",
+          "descriptionEs": "Restaurante luminoso abierto todo el día en la calle Vilniaus, llamado '12 Historias' por la casa de madera que ocupa. La sala admite perros, con cuencos y premios detrás de la barra. Tortitas integrales, huevos fritos y ensaladas del desayuno a la noche; una de las pocas cocinas del casco antiguo que destaca explícitamente la admisión de perros en la carta.",
+          "petPolicy": "Dogs welcome inside; treats and water provided",
+          "petPolicyFr": "Chiens acceptés en salle ; friandises et eau fournies",
+          "petPolicyEs": "Perros admitidos en interior; premios y agua disponibles",
+          "priceRange": "€€",
+          "mustTry": "Whole-grain pancakes, beetroot soup, Lithuanian craft beer",
+          "mustTryFr": "Pancakes complets, soupe de betterave, bière artisanale lituanienne",
+          "mustTryEs": "Tortitas integrales, sopa de remolacha, cerveza artesana lituana",
+          "openingHours": "Mon–Sun 08:00–22:00",
+          "tip": "The window seats by Vilniaus street are best for people-watching with a dog at your feet — arrive before noon on weekends.",
+          "tipFr": "Les places fenêtre sur Vilniaus sont parfaites pour observer la rue avec un chien aux pieds — venez avant midi le week-end.",
+          "tipEs": "Las mesas junto a la ventana de Vilniaus son las mejores para mirar la calle con un perro a los pies: llega antes del mediodía los fines de semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=12+Istoriju+Vilnius"
+        },
+        {
+          "name": "The House Gastropub",
+          "address": "Pilies g. 36, 01123 Vilnius",
+          "neighborhood": "Old Town (Pilies street)",
+          "photo": "/images/city-places/vilnius-restaurants-the-house-gastropub.jpg",
+          "website": "https://www.thehouse.lt/",
+          "description": "A contemporary gastropub on Pilies street, the busiest pedestrian stretch in the Old Town. Dogs are welcomed indoors and given access to a small printed dog menu — one of the only such offers in the Baltics. The kitchen runs Western contemporary plates with strong Lithuanian seasonal sourcing.",
+          "descriptionFr": "Gastropub contemporain sur Pilies, l'axe piéton le plus fréquenté de la vieille ville. Les chiens sont accueillis en salle et bénéficient d'une petite carte canine imprimée — l'une des rares de ce genre dans les Pays baltes. La cuisine propose des assiettes occidentales contemporaines avec un fort ancrage saisonnier lituanien.",
+          "descriptionEs": "Gastropub contemporáneo en la calle Pilies, el eje peatonal más concurrido del casco antiguo. Los perros son bienvenidos en el interior y disponen de una pequeña carta canina impresa, una de las pocas de este tipo en los países bálticos. La cocina ofrece platos contemporáneos occidentales con fuerte apego a los productos de temporada lituanos.",
+          "petPolicy": "Dogs welcome inside with dedicated dog menu",
+          "petPolicyFr": "Chiens acceptés en salle avec menu canin dédié",
+          "petPolicyEs": "Perros admitidos en interior con carta canina dedicada",
+          "priceRange": "€€€",
+          "mustTry": "Cold beetroot soup (šaltibarščiai), Baltic cod, dog menu starter",
+          "mustTryFr": "Soupe froide de betterave (šaltibarščiai), morue de la Baltique, entrée du menu canin",
+          "mustTryEs": "Sopa fría de remolacha (šaltibarščiai), bacalao báltico, entrante del menú canino",
+          "openingHours": "Tue–Sat 12:00–23:00",
+          "tip": "Ask for the dog menu at the start — it's not always brought to the table unless you mention the dog has joined you.",
+          "tipFr": "Demandez le menu canin dès le départ — il n'arrive pas toujours à table sauf si vous précisez que le chien vous accompagne.",
+          "tipEs": "Pide la carta canina al principio: no la traen siempre salvo que digas que el perro está contigo.",
+          "googleMapsUrl": "https://maps.google.com/?q=The+House+Gastropub+Vilnius"
+        }
+      ],
+      "tipsEn": [
+        "draugiskigyvunams.lt is the national pet-friendly directory — bookmark it before arrival; it lists nearly 500 cafés, shops and services across Lithuania.",
+        "Lithuanian cafés often keep treats behind the bar; a polite 'gal turite skanėstų?' (do you have treats?) will reliably surface them.",
+        "Old Town terraces from May to September are universally dog-welcoming; indoor seating depends on the venue — ask at the door."
+      ],
+      "tipsFr": [
+        "draugiskigyvunams.lt est l'annuaire national pet-friendly — mettez-le en favoris avant votre arrivée ; il liste près de 500 cafés, boutiques et services dans tout le pays.",
+        "Les cafés lituaniens gardent souvent des friandises derrière le bar ; un poli 'gal turite skanėstų?' (avez-vous des friandises ?) les fera apparaître à coup sûr.",
+        "Les terrasses de la vieille ville de mai à septembre sont dog-friendly partout ; en intérieur, ça dépend de l'établissement — demandez à la porte."
+      ],
+      "tipsEs": [
+        "draugiskigyvunams.lt es el directorio nacional pet-friendly: guárdalo antes del viaje; lista cerca de 500 cafés, tiendas y servicios en toda Lituania.",
+        "Los cafés lituanos suelen guardar premios detrás de la barra; un educado 'gal turite skanėstų?' (¿tenéis premios?) los hará aparecer con seguridad.",
+        "Las terrazas del casco antiguo de mayo a septiembre son dog-friendly en todas partes; en interiores depende del local: pregunta en la puerta."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Vilnius restaurants?",
+          "a": "More widely than in most Western European capitals — Vilnius has nearly 500 venues on the national pet-friendly directory. Cafés and gastropubs almost always say yes; fine-dining is more variable, so check at the door."
+        },
+        {
+          "q": "Do I need to bring my own water bowl?",
+          "a": "Not in dog-friendly venues — most keep bowls behind the bar. A collapsible bowl is still useful between cafés, especially in summer."
+        },
+        {
+          "q": "Where are the most concentrated dog-friendly food strips?",
+          "a": "Pilies and Vilniaus streets in the Old Town, plus Užupis main square. The Aušros Vartai approach concentrates the best evening venues."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les restaurants de Vilnius ?",
+          "a": "Plus largement que dans la plupart des capitales d'Europe de l'Ouest — Vilnius compte près de 500 adresses dans l'annuaire national pet-friendly. Cafés et gastropubs disent quasi toujours oui ; les restaurants gastronomiques sont plus variables, vérifiez à la porte."
+        },
+        {
+          "q": "Faut-il apporter sa propre gamelle d'eau ?",
+          "a": "Pas dans les adresses dog-friendly — la plupart gardent des gamelles derrière le bar. Une gamelle pliable reste utile entre deux cafés, surtout l'été."
+        },
+        {
+          "q": "Où trouver les plus fortes concentrations d'adresses dog-friendly ?",
+          "a": "Les rues Pilies et Vilniaus dans la vieille ville, plus la place principale d'Užupis. L'approche d'Aušros Vartai concentre les meilleures adresses du soir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Vilna?",
+          "a": "Más ampliamente que en la mayoría de las capitales de Europa Occidental: Vilna tiene cerca de 500 locales en el directorio nacional pet-friendly. Cafés y gastropubs dicen casi siempre sí; los restaurantes de alta cocina son más variables, comprueba en la puerta."
+        },
+        {
+          "q": "¿Hace falta llevar el propio cuenco de agua?",
+          "a": "En los locales dog-friendly no: la mayoría guarda cuencos detrás de la barra. Un cuenco plegable sigue siendo útil entre cafés, sobre todo en verano."
+        },
+        {
+          "q": "¿Dónde están las mayores concentraciones de direcciones dog-friendly?",
+          "a": "Las calles Pilies y Vilniaus en el casco antiguo, además de la plaza principal de Užupis. El acceso por Aušros Vartai concentra las mejores opciones nocturnas."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Vilnius",
+      "titleFr": "Meilleurs parcs pour chiens à Vilnius",
+      "titleEs": "Mejores parques para perros en Vilna",
+      "introEn": "Vilnius is the greenest EU capital by tree canopy, and the city's dog culture matches the geography: 160 hectares of central forest at Vingis Park, the historic Bernardine Garden in the heart of the Old Town, and the dedicated Purina Dog Park in Šnipiškės. Off-leash use varies by park; the standard is leash plus muzzle in busy areas, off-leash tolerated in the marked sections of Vingis. Always pick up — the city enforces fines for fouling.",
+      "introFr": "Vilnius est la capitale de l'UE la plus verte par couvert arboré, et la culture canine locale est à la hauteur : 160 hectares de forêt centrale au Vingis, le jardin bernardin historique au cœur de la vieille ville et le Purina Dog Park dédié à Šnipiškės. Le sans laisse varie selon le parc ; la norme est laisse + muselière dans les zones fréquentées, sans laisse toléré dans les sections balisées du Vingis. Ramassez toujours — la ville verbalise.",
+      "introEs": "Vilna es la capital de la UE más verde por cobertura arbórea, y la cultura canina local está a la altura: 160 hectáreas de bosque central en Vingis Park, el histórico Bernardine Garden en pleno casco antiguo y el dedicado Purina Dog Park en Šnipiškės. El uso sin correa varía por parque; la norma es correa + bozal en zonas concurridas, suelto tolerado en los tramos señalizados de Vingis. Recoge siempre: la ciudad sanciona.",
+      "places": [
+        {
+          "name": "Vingis Park",
+          "address": "Vingis Park, 03100 Vilnius",
+          "neighborhood": "West of centre, on the Neris bend",
+          "photo": "/images/city-places/vilnius-parks-vingis-park.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/vingis-park",
+          "description": "The largest park in Vilnius at 160 hectares, set on a wide bend of the Neris River with pine forest, jogging paths, an open-air amphitheatre, and a marked dog beach on the river. Off-leash use is tolerated on the wooded inner trails and on the dog beach itself; leashes are required around the amphitheatre and bridges.",
+          "descriptionFr": "Plus grand parc de Vilnius (160 hectares), aménagé sur une grande boucle de la Neris avec forêt de pins, sentiers de jogging, amphithéâtre en plein air et plage canine balisée sur la rivière. Le sans laisse est toléré sur les sentiers boisés intérieurs et sur la plage canine elle-même ; la laisse est obligatoire autour de l'amphithéâtre et des ponts.",
+          "descriptionEs": "El mayor parque de Vilna (160 hectáreas), trazado sobre un amplio meandro del río Neris con pinar, senderos para correr, un anfiteatro al aire libre y una playa canina señalizada en el río. Soltarlos se tolera en los senderos boscosos interiores y en la propia playa canina; la correa es obligatoria alrededor del anfiteatro y los puentes.",
+          "size": "160 hectares",
+          "fenced": false,
+          "amenities": [
+            "Dog beach on the Neris",
+            "Off-leash forest trails",
+            "Café & toilets near amphitheatre",
+            "Trolleybus 7 access"
+          ],
+          "amenitiesFr": [
+            "Plage canine sur la Neris",
+            "Sentiers forestiers sans laisse",
+            "Café et toilettes près de l'amphithéâtre",
+            "Accès trolleybus 7"
+          ],
+          "amenitiesEs": [
+            "Playa canina en el Neris",
+            "Senderos forestales sin correa",
+            "Café y aseos cerca del anfiteatro",
+            "Acceso con trolebús 7"
+          ],
+          "openingHours": "24/7",
+          "tip": "Take trolleybus 7 from the Cathedral to its terminus — fifteen minutes door-to-door, and you walk straight onto the riverside path.",
+          "tipFr": "Prenez le trolleybus 7 de la Cathédrale jusqu'à son terminus — quinze minutes porte à porte, et vous arrivez directement au sentier riverain.",
+          "tipEs": "Toma el trolebús 7 desde la Catedral hasta su terminal: quince minutos puerta a puerta y entras directamente al paseo ribereño.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vingis+Park+Vilnius"
+        },
+        {
+          "name": "Bernardinai Garden",
+          "address": "Maironio g. 11, 01124 Vilnius",
+          "neighborhood": "Old Town (between Gediminas Tower and Bernardine Monastery)",
+          "photo": "/images/city-places/vilnius-parks-bernardinai-garden.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/bernardine-park",
+          "description": "Historic Renaissance-era garden in the very centre of the Old Town, on the right bank of the Vilnia stream. Mature lime alleys, a rose garden, fountains and a famous bronze statue of three Lithuanian Hounds. Dogs are welcome on a leash; the garden links Gediminas Tower to Užupis in a 10-minute walk.",
+          "descriptionFr": "Jardin Renaissance historique au cœur de la vieille ville, sur la rive droite du ruisseau Vilnia. Allées de tilleuls anciens, roseraie, fontaines et célèbre statue en bronze de trois chiens lituaniens. Les chiens y sont les bienvenus en laisse ; le jardin relie la tour de Gediminas à Užupis en dix minutes à pied.",
+          "descriptionEs": "Jardín renacentista histórico en pleno casco antiguo, en la orilla derecha del arroyo Vilnia. Avenidas de tilos maduros, roseda, fuentes y la famosa estatua de bronce de tres galgos lituanos. Los perros son bienvenidos con correa; el jardín conecta la Torre de Gediminas con Užupis en diez minutos a pie.",
+          "size": "About 9 hectares",
+          "fenced": false,
+          "amenities": [
+            "Rose garden",
+            "Lime tree alleys",
+            "Fountains",
+            "Public toilets"
+          ],
+          "amenitiesFr": [
+            "Roseraie",
+            "Allées de tilleuls",
+            "Fontaines",
+            "Toilettes publiques"
+          ],
+          "amenitiesEs": [
+            "Roseda",
+            "Avenidas de tilos",
+            "Fuentes",
+            "Aseos públicos"
+          ],
+          "openingHours": "Daily 06:00–23:00",
+          "tip": "The 'three hounds' statue is a fixed photo stop for dog owners — frame it from the eastern alley with the Cathedral bell tower behind.",
+          "tipFr": "La statue des 'trois chiens' est l'arrêt photo incontournable des propriétaires de chiens — cadrez-la depuis l'allée est avec le clocher de la cathédrale en arrière-plan.",
+          "tipEs": "La estatua de los 'tres galgos' es la parada fotográfica clásica para dueños de perros: encuádrala desde la avenida este con el campanario de la catedral al fondo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bernardine+Garden+Vilnius"
+        },
+        {
+          "name": "Purina Dog Park (Šnipiškės)",
+          "address": "Konstitucijos pr., 09308 Vilnius",
+          "neighborhood": "Šnipiškės (north bank, business district)",
+          "photo": "/images/city-places/vilnius-parks-purina-dog-park-snipiskes.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/purina-dog-park",
+          "description": "Vilnius's only dedicated, fenced municipal dog park, sponsored by Purina and located on the north bank of the Neris in the modern Šnipiškės business district. Two separate fenced sections (small/large), agility equipment, water taps, and shaded benches. The Constitution Square is a five-minute walk away.",
+          "descriptionFr": "Seul parc canin clôturé municipal dédié de Vilnius, sponsorisé par Purina et situé sur la rive nord de la Neris dans le quartier d'affaires moderne de Šnipiškės. Deux sections clôturées séparées (petits/grands), agility, robinets et bancs ombragés. La place de la Constitution est à cinq minutes à pied.",
+          "descriptionEs": "El único parque canino municipal cerrado y dedicado de Vilna, patrocinado por Purina y situado en la orilla norte del Neris, en el moderno distrito de negocios de Šnipiškės. Dos secciones valladas separadas (pequeños/grandes), agility, fuentes y bancos con sombra. La Plaza de la Constitución está a cinco minutos a pie.",
+          "size": "Small fenced enclosure (~0.3 hectare)",
+          "fenced": true,
+          "amenities": [
+            "Two fenced size-separated areas",
+            "Agility equipment",
+            "Water taps",
+            "Shaded benches"
+          ],
+          "amenitiesFr": [
+            "Deux zones clôturées séparées par taille",
+            "Agility",
+            "Robinets d'eau",
+            "Bancs ombragés"
+          ],
+          "amenitiesEs": [
+            "Dos zonas valladas separadas por tamaño",
+            "Equipo de agility",
+            "Fuentes",
+            "Bancos con sombra"
+          ],
+          "openingHours": "24/7",
+          "tip": "Walk over from the Old Town via the King Mindaugas pedestrian bridge — fifteen minutes door-to-door and a great panorama.",
+          "tipFr": "Traversez depuis la vieille ville par le pont piéton du roi Mindaugas — quinze minutes porte à porte et un beau panorama.",
+          "tipEs": "Cruza desde el casco antiguo por el puente peatonal del rey Mindaugas: quince minutos puerta a puerta y un buen panorama.",
+          "googleMapsUrl": "https://maps.google.com/?q=Purina+Dog+Park+Vilnius"
+        }
+      ],
+      "tipsEn": [
+        "Lithuanian law requires a leash (max 0.5 m) and a muzzle for medium and large dogs in public spaces — enforcement is light in parks but visible on transport.",
+        "Vingis Park's marked dog beach is on the southern bend of the Neris, accessible from the trolleybus 7 terminus.",
+        "Most central parks are free; bag dispensers are sporadic, so pack your own."
+      ],
+      "tipsFr": [
+        "La loi lituanienne impose laisse (0,5 m max) et muselière pour les chiens moyens et grands dans les espaces publics — l'application est souple dans les parcs mais visible dans les transports.",
+        "La plage canine balisée du Vingis se trouve sur la boucle sud de la Neris, accessible depuis le terminus du trolleybus 7.",
+        "La plupart des parcs centraux sont gratuits ; les distributeurs de sacs sont sporadiques, emportez les vôtres."
+      ],
+      "tipsEs": [
+        "La ley lituana exige correa (máx. 0,5 m) y bozal para perros medianos y grandes en espacios públicos: la aplicación es flexible en los parques pero visible en el transporte.",
+        "La playa canina señalizada del Vingis está en el meandro sur del Neris, accesible desde la terminal del trolebús 7.",
+        "La mayoría de los parques centrales son gratuitos; los dispensadores de bolsas son escasos, lleva las tuyas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run completely off-leash in Vilnius?",
+          "a": "The Purina Dog Park in Šnipiškės is fully fenced. Vingis Park's wooded inner trails and dog beach also tolerate off-leash use. Elsewhere a leash is the rule."
+        },
+        {
+          "q": "Do I really need a muzzle in Vilnius parks?",
+          "a": "Lithuanian law technically requires it for medium and large dogs in public spaces, but in parks the rule is rarely enforced for well-behaved dogs. Public transport is where it really matters."
+        },
+        {
+          "q": "Are the historic gardens (Bernardine, Cathedral Square) dog-friendly?",
+          "a": "Yes, on a leash. Both the Bernardine Garden and the Cathedral Square approach welcome leashed dogs throughout the day."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Vilnius ?",
+          "a": "Le Purina Dog Park de Šnipiškės est entièrement clôturé. Les sentiers boisés intérieurs et la plage canine du Vingis tolèrent aussi le sans laisse. Ailleurs, la laisse est la règle."
+        },
+        {
+          "q": "La muselière est-elle vraiment nécessaire dans les parcs de Vilnius ?",
+          "a": "La loi lituanienne l'impose en théorie aux chiens moyens et grands dans les espaces publics, mais dans les parcs la règle est rarement appliquée aux chiens sages. C'est dans les transports que ça compte vraiment."
+        },
+        {
+          "q": "Les jardins historiques (Bernardine, place de la Cathédrale) sont-ils dog-friendly ?",
+          "a": "Oui, en laisse. Le jardin Bernardine et l'esplanade de la Cathédrale acceptent les chiens en laisse toute la journée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Vilna?",
+          "a": "El Purina Dog Park en Šnipiškės está totalmente vallado. Los senderos boscosos interiores y la playa canina de Vingis Park también toleran soltarlos. En el resto la correa es la norma."
+        },
+        {
+          "q": "¿De verdad hace falta bozal en los parques de Vilna?",
+          "a": "La ley lituana lo exige en teoría para perros medianos y grandes en espacios públicos, pero en los parques rara vez se aplica a perros tranquilos. Donde de verdad importa es en el transporte público."
+        },
+        {
+          "q": "¿Son dog-friendly los jardines históricos (Bernardine, Plaza de la Catedral)?",
+          "a": "Sí, con correa. Tanto el Bernardine Garden como el acceso a la Plaza de la Catedral admiten perros con correa todo el día."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Vilnius",
+      "titleFr": "Transports acceptant les animaux à Vilnius",
+      "titleEs": "Transporte para mascotas en Vilna",
+      "introEn": "Vilnius transport is run by JUDU (formerly Susisiekimo paslaugos), covering buses and trolleybuses, with national rail by LTG. Both accept dogs free of charge — there is no separate pet ticket — but the rules on leash length, muzzling, and documentation are strict and inspectors do enforce. Pack a basket muzzle and your dog's vaccination record before any ride.",
+      "introFr": "Le transport à Vilnius est exploité par JUDU (anciennement Susisiekimo paslaugos), couvrant bus et trolleybus, avec le rail national par LTG. Les deux acceptent les chiens gratuitement — pas de ticket animal séparé — mais les règles sur la longueur de laisse, la muselière et les documents sont strictes et les contrôleurs vérifient. Emportez une muselière panier et le carnet de vaccination de votre chien avant tout trajet.",
+      "introEs": "El transporte de Vilna lo opera JUDU (antes Susisiekimo paslaugos), que cubre autobuses y trolebuses, con el ferrocarril nacional gestionado por LTG. Ambos admiten perros gratis — no hay billete de mascota aparte — pero las reglas sobre longitud de correa, bozal y documentación son estrictas y los inspectores comprueban. Lleva un bozal tipo cesta y la cartilla de vacunación del perro antes de cualquier trayecto.",
+      "places": [
+        {
+          "name": "JUDU bus & trolleybus network",
+          "address": "Citywide; main hub at Cathedral Square and the Train Station",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/vilnius-transport-judu-bus-trolleybus-network.jpg",
+          "website": "https://judu.lt/en/",
+          "description": "JUDU runs the dense bus and trolleybus grid that links the Old Town, Šnipiškės, the airport (bus 88) and Vingis Park (trolleybus 7). Pets travel free in a closed carrier; outside a carrier they require a leash of max 0.5 metres and a muzzle. Vaccination paperwork must be carried — inspectors can ask to see it.",
+          "descriptionFr": "JUDU exploite le dense réseau bus/trolleybus qui relie la vieille ville, Šnipiškės, l'aéroport (bus 88) et le Vingis (trolleybus 7). Les animaux voyagent gratuitement en panier fermé ; hors panier, laisse de 0,5 mètre maximum et muselière obligatoires. Le carnet de vaccination doit être sur soi — les contrôleurs peuvent le demander.",
+          "descriptionEs": "JUDU gestiona la densa red de autobuses y trolebuses que conecta el casco antiguo, Šnipiškės, el aeropuerto (bus 88) y Vingis (trolebús 7). Las mascotas viajan gratis en transportín cerrado; fuera de transportín se exige correa de máximo 0,5 metros y bozal. La cartilla de vacunación debe llevarse encima: los inspectores pueden pedirla.",
+          "petPolicy": "Pets free; outside a carrier require a 0.5 m leash, muzzle, and vaccination papers",
+          "petPolicyFr": "Animaux gratuits ; hors panier : laisse 0,5 m, muselière et carnet de vaccination obligatoires",
+          "petPolicyEs": "Mascotas gratis; fuera del transportín: correa de 0,5 m, bozal y cartilla de vacunación obligatorios",
+          "openingHours": "First service ~05:00, last ~24:00; reduced night service",
+          "tip": "Trolleybus 7 from the Cathedral to Vingis Park is the single most useful dog-walk route in the city — keep your muzzle within reach, the route is well-inspected.",
+          "tipFr": "Le trolleybus 7 de la Cathédrale au Vingis est l'itinéraire dog-walk le plus utile de la ville — gardez votre muselière à portée, la ligne est bien contrôlée.",
+          "tipEs": "El trolebús 7 de la Catedral a Vingis Park es la ruta dog-walk más útil de la ciudad: mantén el bozal a mano, la línea está bien controlada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vilnius+Cathedral+Square"
+        }
+      ],
+      "tipsEn": [
+        "On LTG (Lietuvos geležinkeliai) trains, dogs travel free with a leash and muzzle; small pets in a closed carrier travel without restrictions.",
+        "International trains (Vilnius–Warsaw, Vilnius–Riga) follow the same rules as domestic LTG services — pack the EU pet passport.",
+        "Bolt and Uber are widespread; mention 'with a dog' when booking — most drivers accept, but tip generously."
+      ],
+      "tipsFr": [
+        "Sur les trains LTG (Lietuvos geležinkeliai), les chiens voyagent gratuitement avec laisse et muselière ; les petits animaux en panier fermé voyagent sans restriction.",
+        "Les trains internationaux (Vilnius-Varsovie, Vilnius-Riga) suivent les mêmes règles que les LTG domestiques — emportez le passeport européen.",
+        "Bolt et Uber sont très présents ; précisez 'avec chien' à la réservation — la plupart des chauffeurs acceptent, laissez un bon pourboire."
+      ],
+      "tipsEs": [
+        "En los trenes LTG (Lietuvos geležinkeliai), los perros viajan gratis con correa y bozal; las mascotas pequeñas en transportín cerrado viajan sin restricciones.",
+        "Los trenes internacionales (Vilna-Varsovia, Vilna-Riga) siguen las mismas reglas que los LTG nacionales: lleva el pasaporte europeo.",
+        "Bolt y Uber están muy extendidos; al reservar indica 'con perro' — la mayoría de los conductores aceptan, deja una buena propina."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a separate ticket for my dog on Vilnius buses?",
+          "a": "No — pets travel free of charge on JUDU buses and trolleybuses. The catch is the equipment: a 0.5 m leash, a muzzle, and the vaccination booklet must accompany the dog."
+        },
+        {
+          "q": "Can I take my dog on a train from Vilnius to Riga or Warsaw?",
+          "a": "Yes — LTG and the international connections to Riga and Warsaw accept leashed and muzzled dogs at no extra charge. Pet passport required for cross-border."
+        },
+        {
+          "q": "Are taxis pet-friendly in Vilnius?",
+          "a": "Most are, but it's at the driver's discretion. Bolt is the dominant app; mention 'su šunimi' (with a dog) in the booking note and tip generously, especially with sandy paws after a park visit."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket séparé pour mon chien dans les bus de Vilnius ?",
+          "a": "Non — les animaux voyagent gratuitement sur le réseau JUDU. La contrepartie : laisse de 0,5 m, muselière et carnet de vaccination doivent accompagner le chien."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un train de Vilnius vers Riga ou Varsovie ?",
+          "a": "Oui — LTG et les liaisons internationales vers Riga et Varsovie acceptent les chiens en laisse et muselés sans supplément. Passeport européen exigé en transfrontalier."
+        },
+        {
+          "q": "Les taxis acceptent-ils les animaux à Vilnius ?",
+          "a": "La plupart oui, mais à l'appréciation du chauffeur. Bolt est l'appli dominante ; mentionnez 'su šunimi' (avec un chien) dans la note de réservation et laissez un bon pourboire, surtout avec des pattes sableuses après une sortie au parc."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta billete aparte para el perro en los autobuses de Vilna?",
+          "a": "No: las mascotas viajan gratis en la red JUDU. La contrapartida: correa de 0,5 m, bozal y cartilla de vacunación deben acompañar al perro."
+        },
+        {
+          "q": "¿Puedo llevar al perro en tren de Vilna a Riga o Varsovia?",
+          "a": "Sí: LTG y las conexiones internacionales a Riga y Varsovia admiten perros con correa y bozal sin coste adicional. Pasaporte europeo obligatorio en transfronterizo."
+        },
+        {
+          "q": "¿Aceptan mascotas los taxis en Vilna?",
+          "a": "La mayoría sí, pero a discreción del conductor. Bolt es la app dominante; pon 'su šunimi' (con perro) en la nota de reserva y deja una buena propina, sobre todo con patas con arena tras un paseo por el parque."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Waterfronts & Lakes in Vilnius",
+      "titleFr": "Bords de l'eau et lacs dog-friendly à Vilnius",
+      "titleEs": "Riberas y lagos dog-friendly en Vilna",
+      "introEn": "Vilnius is inland but the city wraps around the Neris river and sits 30 km from the Baltic lakeland of Trakai. The marked dog beach inside Vingis Park is the closest swimming spot for dogs; for a half-day excursion, Lake Galvė at Trakai or Lake Saulekas in Verkiai Regional Park are the local classics. The Neris itself is fast-flowing and deep — for swimming, head to a marked lake instead.",
+      "introFr": "Vilnius est à l'intérieur des terres mais la ville épouse la Neris et se trouve à 30 km de la région des lacs de Trakai. La plage canine balisée du Vingis Park est le spot de baignade canin le plus proche ; pour une excursion à la demi-journée, le lac Galvė à Trakai ou le lac Saulekas dans le parc régional de Verkiai sont les classiques. La Neris elle-même est rapide et profonde — pour la baignade, allez vers un lac balisé.",
+      "introEs": "Vilna está en el interior, pero la ciudad rodea el río Neris y se encuentra a 30 km de la región lacustre de Trakai. La playa canina señalizada del Vingis Park es el punto de baño más cercano; para una excursión de medio día, el lago Galvė en Trakai o el lago Saulekas en el Parque Regional de Verkiai son los clásicos. El propio Neris es rápido y profundo: para bañarse, ve a un lago marcado.",
+      "places": [
+        {
+          "name": "Vingis Park Dog Beach",
+          "address": "Southern bend of Vingis Park, 03100 Vilnius",
+          "neighborhood": "Vingis Park (west of centre)",
+          "photo": "/images/city-places/vilnius-beaches-vingis-park-dog-beach.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/vingis-park",
+          "description": "A signposted dog beach inside Vingis Park on the south-bend of the Neris River, the only official urban swimming spot for dogs in Vilnius. Sand and gravel underfoot, with calm water in the bend. Off-leash use is tolerated on the beach itself; surrounding paths require a leash.",
+          "descriptionFr": "Plage canine signalée à l'intérieur du Vingis Park sur la boucle sud de la Neris, seul spot urbain officiel de baignade pour chiens à Vilnius. Sable et gravier au sol, eau calme dans la boucle. Le sans laisse est toléré sur la plage elle-même ; les sentiers alentour exigent la laisse.",
+          "descriptionEs": "Playa canina señalizada dentro de Vingis Park en el meandro sur del Neris, el único punto urbano oficial de baño para perros en Vilna. Arena y grava en el suelo, agua tranquila en el recodo. Soltarlos se tolera en la playa misma; los senderos del entorno exigen correa.",
+          "petPolicy": "Off-leash on the dog beach; leashed elsewhere in Vingis Park",
+          "petPolicyFr": "Sans laisse sur la plage canine ; en laisse ailleurs dans le Vingis",
+          "petPolicyEs": "Sin correa en la playa canina; con correa en otras zonas de Vingis Park",
+          "openingHours": "24/7",
+          "tip": "Trolleybus 7 from the Cathedral terminates at the park's east gate — the dog beach is a 15-minute riverside walk from there.",
+          "tipFr": "Le trolleybus 7 de la Cathédrale termine à la porte est du parc — la plage canine est à 15 minutes de marche le long de la rivière.",
+          "tipEs": "El trolebús 7 desde la Catedral termina en la puerta este del parque: la playa canina está a 15 minutos a pie por la orilla.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vingis+Park+dog+beach"
+        },
+        {
+          "name": "Lake Galvė & Trakai",
+          "address": "Trakai (30 km west of Vilnius)",
+          "neighborhood": "Trakai Historical National Park",
+          "photo": "/images/city-places/vilnius-beaches-lake-galve-trakai.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/trakai",
+          "description": "A 30 km drive or train ride from Vilnius takes you to Trakai's island castle on Lake Galvė, one of Lithuania's flagship images. Dogs are welcome on a leash on the lakeside path and the wooded peninsulas around the lake; the castle interior is closed to non-assistance pets. The lake has natural shallow swim spots dogs can use safely.",
+          "descriptionFr": "À 30 km de Vilnius en voiture ou en train, le château insulaire de Trakai sur le lac Galvė est l'une des images phares de la Lituanie. Les chiens sont les bienvenus en laisse sur le sentier riverain et les presqu'îles boisées autour du lac ; l'intérieur du château est fermé aux animaux non-assistance. Le lac offre des spots de baignade peu profonds que les chiens peuvent utiliser en toute sécurité.",
+          "descriptionEs": "A 30 km de Vilna en coche o tren, el castillo insular de Trakai sobre el lago Galvė es una de las imágenes emblemáticas de Lituania. Los perros son bienvenidos con correa en el sendero ribereño y las penínsulas boscosas alrededor del lago; el interior del castillo está cerrado a mascotas no de asistencia. El lago tiene puntos naturales poco profundos que los perros pueden usar con seguridad.",
+          "petPolicy": "Dogs welcome on leash on lakeside; not admitted to castle",
+          "petPolicyFr": "Chiens acceptés en laisse au bord du lac ; non admis au château",
+          "petPolicyEs": "Perros admitidos con correa junto al lago; no admitidos en el castillo",
+          "openingHours": "24/7 (lakeside)",
+          "tip": "Take the train from Vilnius main station — 30 minutes, dog free if leashed and muzzled, then walk 1.5 km to the lake.",
+          "tipFr": "Prenez le train depuis la gare principale de Vilnius — 30 minutes, chien gratuit si en laisse et muselé, puis 1,5 km à pied jusqu'au lac.",
+          "tipEs": "Toma el tren desde la estación principal de Vilna: 30 minutos, perro gratis con correa y bozal, después 1,5 km a pie hasta el lago.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trakai+Castle+Lake+Galve"
+        },
+        {
+          "name": "Verkiai Regional Park",
+          "address": "Verkiai Regional Park, 08303 Vilnius",
+          "neighborhood": "North-west of centre",
+          "photo": "/images/city-places/vilnius-beaches-verkiai-regional-park.jpg",
+          "website": "https://www.verkiai.lt/",
+          "description": "A protected forest landscape on the north-western edge of the city, with the Neris and Lake Saulekas inside the park boundary. Dogs on leash are welcome on all marked trails; the forest tracks reach 14 km of continuous walking. The park sits within Vilnius city limits, so transport access is direct.",
+          "descriptionFr": "Paysage forestier protégé à l'extrémité nord-ouest de la ville, avec la Neris et le lac Saulekas à l'intérieur du parc. Les chiens en laisse sont les bienvenus sur tous les sentiers balisés ; les pistes forestières s'étendent sur 14 km en continu. Le parc se trouve dans les limites de Vilnius, l'accès en transport est donc direct.",
+          "descriptionEs": "Paisaje forestal protegido en el extremo noroeste de la ciudad, con el Neris y el lago Saulekas dentro del parque. Los perros con correa son bienvenidos en todos los senderos señalizados; las pistas forestales alcanzan 14 km continuos de caminata. El parque está dentro de los límites municipales de Vilna, así que el acceso en transporte es directo.",
+          "petPolicy": "Dogs welcome on leash on all marked trails",
+          "petPolicyFr": "Chiens acceptés en laisse sur tous les sentiers balisés",
+          "petPolicyEs": "Perros admitidos con correa en todos los senderos señalizados",
+          "openingHours": "24/7",
+          "tip": "Bus 36 from the Cathedral runs to the Verkiai Manor entrance — the start of the best signposted dog-walk loop.",
+          "tipFr": "Le bus 36 de la Cathédrale dessert l'entrée du manoir de Verkiai — point de départ de la meilleure boucle canine balisée.",
+          "tipEs": "El bus 36 desde la Catedral va a la entrada del Palacio de Verkiai: punto de partida del mejor circuito canino señalizado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Verkiai+Regional+Park"
+        }
+      ],
+      "tipsEn": [
+        "The Neris main channel inside Vilnius is fast-flowing and not safe for dog swimming; the Vingis dog beach has the only calm corner suitable.",
+        "Lake Galvė at Trakai is a 30-minute train ride and the most photogenic dog day-trip from Vilnius.",
+        "Lithuania's lake water is mostly clean but check for algae warnings in late summer — they're posted at all bathing spots."
+      ],
+      "tipsFr": [
+        "Le chenal principal de la Neris dans Vilnius est rapide et dangereux pour la baignade canine ; la plage du Vingis offre le seul recoin calme adapté.",
+        "Le lac Galvė à Trakai est à 30 minutes en train et la sortie canine à la journée la plus photogénique depuis Vilnius.",
+        "L'eau des lacs lituaniens est majoritairement propre mais surveillez les avis d'algues en fin d'été — ils sont affichés sur tous les spots de baignade."
+      ],
+      "tipsEs": [
+        "El canal principal del Neris dentro de Vilna es rápido y peligroso para el baño canino; la playa de Vingis tiene el único rincón tranquilo apto.",
+        "El lago Galvė en Trakai está a 30 minutos en tren y es la excursión canina de un día más fotogénica desde Vilna.",
+        "El agua de los lagos lituanos es mayoritariamente limpia, pero comprueba los avisos de algas a finales de verano: están en todos los puntos de baño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog swim in the Neris in Vilnius?",
+          "a": "Only in the marked dog beach inside Vingis Park. The main river current is too strong elsewhere — head to Trakai or Verkiai for safer swimming."
+        },
+        {
+          "q": "Is there a real beach for dogs near Vilnius?",
+          "a": "The Vingis Park dog beach is the closest. For a more substantial day out, Lake Galvė at Trakai (30 km) is the standard local option."
+        },
+        {
+          "q": "Are dogs allowed in Trakai Castle?",
+          "a": "No — only assistance dogs are admitted to the interior. The lakeside path, the wooded peninsulas, and the boat moorings are all leash-friendly."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il se baigner dans la Neris à Vilnius ?",
+          "a": "Uniquement sur la plage canine balisée du Vingis Park. Le courant principal du fleuve est trop fort ailleurs — allez à Trakai ou Verkiai pour une baignade plus sûre."
+        },
+        {
+          "q": "Y a-t-il une vraie plage canine près de Vilnius ?",
+          "a": "La plage canine du Vingis est la plus proche. Pour une vraie journée d'évasion, le lac Galvė à Trakai (30 km) est l'option locale classique."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au château de Trakai ?",
+          "a": "Non — seuls les chiens d'assistance sont admis à l'intérieur. Le sentier du lac, les presqu'îles boisées et les pontons sont accessibles en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro bañarse en el Neris en Vilna?",
+          "a": "Solo en la playa canina señalizada de Vingis Park. La corriente principal del río es demasiado fuerte en otros tramos: ve a Trakai o Verkiai para un baño más seguro."
+        },
+        {
+          "q": "¿Hay una playa canina real cerca de Vilna?",
+          "a": "La playa canina de Vingis Park es la más cercana. Para una jornada completa, el lago Galvė en Trakai (30 km) es la opción local clásica."
+        },
+        {
+          "q": "¿Se admiten perros en el Castillo de Trakai?",
+          "a": "No: solo perros de asistencia entran al interior. La senda del lago, las penínsulas boscosas y los embarcaderos son accesibles con correa."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Vilnius",
+      "titleFr": "Cliniques vétérinaires et urgences à Vilnius",
+      "titleEs": "Clínicas veterinarias y urgencias en Vilna",
+      "introEn": "Vilnius has at least two true 24/7 emergency veterinary hospitals plus a dense network of daytime clinics. The Lithuanian University of Health Sciences runs a 24-hour teaching hospital in Kaunas branch in the city, and Greitoji Žirafa has been operating round the clock for over a decade. English service is available in most clinics aimed at the international community. Costs are about 40–50% lower than Western Europe.",
+      "introFr": "Vilnius dispose d'au moins deux véritables hôpitaux vétérinaires 24h/24 plus un réseau dense de cliniques de jour. L'Université lituanienne de sciences de la santé exploite un hôpital universitaire 24h/24 à Vilnius, et Greitoji Žirafa fonctionne en continu depuis plus de dix ans. L'anglais est disponible dans la plupart des cliniques tournées vers la communauté internationale. Les coûts sont environ 40-50 % inférieurs à l'Europe de l'Ouest.",
+      "introEs": "Vilna cuenta con al menos dos verdaderos hospitales veterinarios 24/7 más una densa red de clínicas diurnas. La Universidad Lituana de Ciencias de la Salud opera un hospital universitario 24 horas en Vilna, y Greitoji Žirafa funciona ininterrumpidamente desde hace más de diez años. El inglés está disponible en la mayoría de las clínicas orientadas a la comunidad internacional. Los costes son entre un 40 y un 50 % inferiores a los de Europa Occidental.",
+      "places": [
+        {
+          "name": "LSMU Small Animals Clinic (24h)",
+          "address": "Žaliųjų ežerų g. 47, 08405 Vilnius",
+          "neighborhood": "Šeškinė (north of centre)",
+          "photo": "/images/city-places/vilnius-vets-lsmu-small-animals-clinic-24h.jpg",
+          "website": "https://sgk.lsmuni.lt/",
+          "description": "The Vilnius branch of the Lithuanian University of Health Sciences small-animals teaching hospital, open 24/7 for emergencies. Equipped for surgery, intensive care, and advanced imaging, with a roster of specialists across departments. The default referral destination for Vilnius's daytime clinics outside hours.",
+          "descriptionFr": "Antenne vilnoise de l'hôpital universitaire pour petits animaux de l'Université lituanienne de sciences de la santé, ouverte 24h/24 pour les urgences. Équipée pour la chirurgie, les soins intensifs et l'imagerie avancée, avec une équipe de spécialistes par discipline. Destination de référence des cabinets de jour de Vilnius hors horaires.",
+          "descriptionEs": "Sede en Vilna del hospital universitario de animales de compañía de la Universidad Lituana de Ciencias de la Salud, abierto 24/7 para urgencias. Equipado para cirugía, cuidados intensivos y diagnóstico por imagen avanzado, con un equipo de especialistas por departamento. Destino de referencia para las clínicas diurnas de Vilna fuera de horario.",
+          "phone": "+370 37 363 505",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "About 15 minutes by taxi from the Old Town — keep cab apps installed (Bolt is dominant) for fast late-night transfers.",
+          "tipFr": "Environ 15 minutes en taxi depuis la vieille ville — gardez les applis taxi installées (Bolt est dominante) pour un transfert nocturne rapide.",
+          "tipEs": "A unos 15 minutos en taxi desde el casco antiguo: mantén instaladas las apps de taxi (Bolt es la dominante) para un traslado nocturno rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=LSMU+small+animals+clinic+Vilnius"
+        },
+        {
+          "name": "Greitoji Žirafa",
+          "address": "Naugarduko g. 102, 03202 Vilnius",
+          "neighborhood": "Naujamiestis",
+          "photo": "/images/city-places/vilnius-vets-greitoji-zirafa.jpg",
+          "website": "https://greitojizirafa.lt/en/home/",
+          "description": "A 24-hour veterinary clinic and pharmacy in central Vilnius, operating without days off for over fourteen years. Strong on internal medicine and soft-tissue surgery, with English-speaking staff and a well-organised triage system. Walk-in friendly during the day, phone-triage at night.",
+          "descriptionFr": "Clinique vétérinaire et pharmacie 24h/24 dans le centre de Vilnius, ouverte sans jour de fermeture depuis plus de quatorze ans. Spécialisée en médecine interne et chirurgie des tissus mous, avec personnel anglophone et un système de tri bien organisé. Sans rendez-vous en journée, tri téléphonique la nuit.",
+          "descriptionEs": "Clínica veterinaria y farmacia 24 horas en el centro de Vilna, abierta sin días libres desde hace más de catorce años. Fuerte en medicina interna y cirugía de tejidos blandos, con personal angloparlante y un sistema de triaje bien organizado. Acepta pacientes sin cita durante el día, triaje telefónico por la noche.",
+          "phone": "+370 5 213 1130",
+          "openingHours": "24/7",
+          "tip": "Call before driving over at night — the on-call vet may need a few minutes to arrive. The website has an English contact form.",
+          "tipFr": "Appelez avant de venir la nuit — le vétérinaire de garde peut avoir besoin de quelques minutes pour arriver. Le site a un formulaire de contact en anglais.",
+          "tipEs": "Llama antes de ir por la noche: el veterinario de guardia puede necesitar unos minutos para llegar. La web tiene formulario de contacto en inglés.",
+          "googleMapsUrl": "https://maps.google.com/?q=Greitoji+Zirafa+Vilnius"
+        }
+      ],
+      "tipsEn": [
+        "Lithuania uses the EU pet passport — bring it; clinics record vaccinations directly into the booklet, simplifying any onward Schengen travel.",
+        "Card payment is the norm at all main 24/7 clinics; emergency consultations typically start at €40–60 plus medication.",
+        "Lithuanian veterinary medicine is high-quality and significantly cheaper than Poland or Germany — visitors from neighbouring countries occasionally combine a city break with non-urgent procedures."
+      ],
+      "tipsFr": [
+        "La Lituanie applique le passeport européen — apportez-le ; les cliniques y inscrivent les vaccinations, ce qui simplifie tout déplacement ultérieur dans l'espace Schengen.",
+        "Le paiement par carte est la norme dans toutes les principales cliniques 24/7 ; les consultations d'urgence démarrent généralement à 40-60 € plus médicaments.",
+        "La médecine vétérinaire lituanienne est de qualité et nettement moins chère qu'en Pologne ou en Allemagne — des visiteurs des pays voisins combinent parfois un séjour avec des actes non urgents."
+      ],
+      "tipsEs": [
+        "Lituania aplica el pasaporte europeo: tráelo; las clínicas anotan las vacunaciones directamente en él, lo que simplifica cualquier viaje posterior por Schengen.",
+        "El pago con tarjeta es la norma en todas las clínicas 24/7 principales; las consultas de urgencia suelen empezar en 40-60 € más medicación.",
+        "La medicina veterinaria lituana es de calidad y bastante más barata que la polaca o alemana: a veces los visitantes de países vecinos combinan una escapada con procedimientos no urgentes."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour vet to Vilnius Old Town?",
+          "a": "Greitoji Žirafa on Naugarduko g. 102 in Naujamiestis, about 10 minutes by taxi from the Old Town. Phone +370 5 213 1130."
+        },
+        {
+          "q": "Do Vilnius vets speak English?",
+          "a": "Yes, almost universally in central clinics. Lithuanian veterinary training is partly delivered in English and the city's expat community is large."
+        },
+        {
+          "q": "Are veterinary services in Vilnius expensive?",
+          "a": "No — significantly cheaper than Western Europe or even Poland. A standard consultation is around €25–30, and emergency consultations start at €40–60."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire 24h/24 le plus proche de la vieille ville de Vilnius ?",
+          "a": "Greitoji Žirafa sur Naugarduko g. 102 à Naujamiestis, à environ 10 minutes en taxi de la vieille ville. Téléphone : +370 5 213 1130."
+        },
+        {
+          "q": "Les vétérinaires de Vilnius parlent-ils anglais ?",
+          "a": "Oui, presque toujours dans les cliniques centrales. La formation vétérinaire lituanienne se fait en partie en anglais et la communauté expatriée est importante."
+        },
+        {
+          "q": "Les soins vétérinaires sont-ils chers à Vilnius ?",
+          "a": "Non — nettement moins chers qu'en Europe de l'Ouest ou même en Pologne. Une consultation standard tourne autour de 25-30 €, les consultations d'urgence démarrent à 40-60 €."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario 24 horas más cercano al casco antiguo de Vilna?",
+          "a": "Greitoji Žirafa en Naugarduko g. 102 en Naujamiestis, a unos 10 minutos en taxi del casco antiguo. Teléfono: +370 5 213 1130."
+        },
+        {
+          "q": "¿Los veterinarios de Vilna hablan inglés?",
+          "a": "Sí, casi siempre en las clínicas céntricas. La formación veterinaria lituana se imparte en parte en inglés y la comunidad expatriada de la ciudad es amplia."
+        },
+        {
+          "q": "¿Son caros los servicios veterinarios en Vilna?",
+          "a": "No: bastante más baratos que los de Europa Occidental o incluso Polonia. Una consulta estándar ronda los 25-30 €, y las de urgencia empiezan en 40-60 €."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Vilnius",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Vilnius",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Vilna",
+      "introEn": "Vilnius is one of the most affordable and genuinely pet-friendly capitals in the EU: a compact UNESCO Old Town walkable in a day, free pets on every bus and trolleybus, two 24/7 emergency hospitals, and a national pet-friendly directory listing nearly 500 venues. The two things to plan around are the strict 0.5-metre leash and muzzle rule on transport, and the cold-snowy winters from December to February.",
+      "introFr": "Vilnius est l'une des capitales européennes les plus abordables et authentiquement pet-friendly : une vieille ville UNESCO compacte qui se visite en une journée, animaux gratuits dans tous les bus et trolleybus, deux hôpitaux d'urgence 24h/24 et un annuaire national pet-friendly recensant près de 500 adresses. Les deux points à anticiper sont la règle stricte de la laisse de 0,5 m et de la muselière dans les transports, et les hivers froids et neigeux de décembre à février.",
+      "introEs": "Vilna es una de las capitales europeas más asequibles y genuinamente pet-friendly: un casco antiguo UNESCO compacto que se recorre en un día, mascotas gratis en todos los autobuses y trolebuses, dos hospitales de urgencias 24/7 y un directorio nacional pet-friendly con cerca de 500 direcciones. Los dos puntos a anticipar son la norma estricta de la correa de 0,5 m y el bozal en el transporte, y los inviernos fríos y nevados de diciembre a febrero.",
+      "places": [],
+      "tipsEn": [
+        "Pack a basket muzzle for any bus, trolleybus, or train trip with a medium or large dog — the rule is 0.5 m leash plus muzzle and inspectors do enforce.",
+        "Save Greitoji Žirafa 24/7 emergency: +370 5 213 1130 (Naugarduko g. 102, Naujamiestis).",
+        "Bookmark draugiskigyvunams.lt — the national pet-friendly directory lists nearly 500 cafés, shops and services across Lithuania."
+      ],
+      "tipsFr": [
+        "Emportez une muselière panier pour tout trajet en bus, trolleybus ou train avec un chien moyen ou grand — la règle est laisse de 0,5 m + muselière, et les contrôleurs appliquent.",
+        "Enregistrez l'urgence Greitoji Žirafa 24h/24 : +370 5 213 1130 (Naugarduko g. 102, Naujamiestis).",
+        "Mettez en favoris draugiskigyvunams.lt — l'annuaire national pet-friendly liste près de 500 cafés, boutiques et services dans tout le pays."
+      ],
+      "tipsEs": [
+        "Lleva un bozal tipo cesta para cualquier viaje en autobús, trolebús o tren con un perro mediano o grande: la norma es correa de 0,5 m más bozal, y los inspectores aplican la regla.",
+        "Guarda la urgencia Greitoji Žirafa 24/7: +370 5 213 1130 (Naugarduko g. 102, Naujamiestis).",
+        "Marca como favorito draugiskigyvunams.lt: el directorio nacional pet-friendly lista cerca de 500 cafés, tiendas y servicios en toda Lituania."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Vilnius a good city for travelling with a dog?",
+          "a": "Yes — among the easiest and most affordable EU capitals. Compact Old Town, free pets on transport, two 24/7 vets, and nearly 500 pet-friendly venues. The main quirk is the strict transport equipment rule."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Lithuania?",
+          "a": "An EU pet passport (or third-country equivalent), a valid rabies vaccination at least 21 days old, and a microchip. Keep the vaccination paperwork on you at all times — Vilnius transport inspectors can ask to see it."
+        },
+        {
+          "q": "Can my dog visit Gediminas Tower or Vilnius Cathedral?",
+          "a": "The exterior squares and Gediminas Hill are leash-friendly. The Cathedral interior, the Tower's museum, and the funicular are off-limits to non-assistance pets."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Vilnius est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — parmi les capitales européennes les plus simples et abordables. Vieille ville compacte, animaux gratuits dans les transports, deux vétérinaires 24h/24 et près de 500 adresses pet-friendly. La principale subtilité est la règle stricte d'équipement dans les transports."
+        },
+        {
+          "q": "Quels documents pour emmener son chien en Lituanie ?",
+          "a": "Un passeport européen (ou équivalent hors UE), une vaccination antirabique valide datant d'au moins 21 jours, et une puce électronique. Gardez le carnet de vaccination sur vous en permanence — les contrôleurs des transports de Vilnius peuvent le demander."
+        },
+        {
+          "q": "Mon chien peut-il visiter la tour de Gediminas ou la Cathédrale ?",
+          "a": "Les places extérieures et la colline de Gediminas sont accessibles en laisse. L'intérieur de la Cathédrale, le musée de la Tour et le funiculaire sont interdits aux animaux non-assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Vilna una buena ciudad para viajar con perro?",
+          "a": "Sí: entre las capitales europeas más fáciles y económicas. Casco antiguo compacto, mascotas gratis en transporte, dos veterinarios 24/7 y cerca de 500 direcciones pet-friendly. La principal peculiaridad es la regla estricta de equipamiento en el transporte."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Lituania?",
+          "a": "Un pasaporte europeo (o equivalente fuera de la UE), una vacunación antirrábica válida con al menos 21 días, y un microchip. Lleva la cartilla de vacunación encima en todo momento: los inspectores del transporte de Vilna pueden pedirla."
+        },
+        {
+          "q": "¿Puede visitar mi perro la Torre de Gediminas o la Catedral de Vilna?",
+          "a": "Las plazas exteriores y la colina de Gediminas son accesibles con correa. El interior de la Catedral, el museo de la Torre y el funicular están vetados a mascotas no de asistencia."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Vilnius",
+      "titleFr": "Attractions dog-friendly à Vilnius",
+      "titleEs": "Atracciones para mascotas en Vilna",
+      "introEn": "Vilnius's headline attractions are mostly outdoors — Cathedral Square, Gediminas Hill, the bohemian Užupis district, and the panoramic walks along the Vilnia stream — which makes the city unusually well-suited to dog-friendly visiting. Indoor museums and the Cathedral interior admit only assistance dogs, but the exterior heritage spans miles of leash-friendly cobbled walking. Three of the best are below.",
+      "introFr": "Les attractions phares de Vilnius sont en grande majorité en plein air — la place de la Cathédrale, la colline de Gediminas, le quartier bohème d'Užupis et les promenades panoramiques le long du ruisseau Vilnia — ce qui rend la ville particulièrement adaptée à la visite dog-friendly. Les musées en intérieur et l'intérieur de la cathédrale n'admettent que les chiens d'assistance, mais le patrimoine extérieur offre des kilomètres de promenade pavée en laisse. Trois des meilleurs ci-dessous.",
+      "introEs": "Las grandes atracciones de Vilna son mayoritariamente al aire libre — la Plaza de la Catedral, la colina de Gediminas, el bohemio barrio de Užupis y los paseos panorámicos junto al arroyo Vilnia —, lo que hace que la ciudad encaje muy bien con la visita dog-friendly. Los museos cerrados y el interior de la Catedral solo admiten perros de asistencia, pero el patrimonio exterior ofrece kilómetros de paseo adoquinado con correa. A continuación, tres de los mejores.",
+      "places": [
+        {
+          "name": "Cathedral Square & Gediminas Hill",
+          "address": "Katedros aikštė, 01100 Vilnius",
+          "neighborhood": "Old Town (heart of Vilnius)",
+          "photo": "/images/city-places/vilnius-attractions-cathedral-square-gediminas-hill.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/cathedral-square",
+          "description": "The wide cobbled square in front of Vilnius Cathedral, with the Bell Tower, the Palace of the Grand Dukes, and the path up Gediminas Hill behind it. Dogs on leash are welcome throughout the square and the hillside walk; the Cathedral interior, the museum, and the funicular admit only assistance dogs. The summit gives one of Europe's best free Old-Town panoramas.",
+          "descriptionFr": "Vaste place pavée devant la cathédrale de Vilnius, avec son clocher séparé, le Palais des Grands-Ducs et le sentier qui monte à la colline de Gediminas. Les chiens en laisse sont les bienvenus sur toute la place et la promenade de la colline ; l'intérieur de la cathédrale, le musée et le funiculaire n'admettent que les chiens d'assistance. Le sommet offre l'un des meilleurs panoramas gratuits sur la vieille ville d'Europe.",
+          "descriptionEs": "Amplia plaza adoquinada frente a la Catedral de Vilna, con el campanario exento, el Palacio de los Grandes Duques y la senda que sube a la colina de Gediminas. Los perros con correa son bienvenidos en toda la plaza y en el paseo de la colina; el interior de la Catedral, el museo y el funicular solo admiten perros de asistencia. La cima ofrece uno de los mejores panoramas gratuitos del casco antiguo de Europa.",
+          "petPolicy": "Dogs welcome on leash on the square and Gediminas Hill walking path",
+          "petPolicyFr": "Chiens acceptés en laisse sur la place et le sentier de la colline de Gediminas",
+          "petPolicyEs": "Perros admitidos con correa en la plaza y en el sendero de la colina de Gediminas",
+          "openingHours": "24/7 (square); hill walking path daylight only",
+          "tip": "Walk up the hill from the back of the Bernardine Garden — gentler gradient and far fewer steps than the Cathedral side approach.",
+          "tipFr": "Montez la colline depuis l'arrière du jardin Bernardine — pente plus douce et beaucoup moins de marches que l'approche côté Cathédrale.",
+          "tipEs": "Sube a la colina por la parte trasera del Bernardine Garden: pendiente más suave y muchos menos escalones que la aproximación por la Catedral.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vilnius+Cathedral+Square"
+        },
+        {
+          "name": "Užupis Republic",
+          "address": "Užupio g., 01200 Vilnius",
+          "neighborhood": "Užupis",
+          "photo": "/images/city-places/vilnius-attractions-uzupis-republic.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/uzupis",
+          "description": "A bohemian artists' district that declared itself an independent republic in 1997, separated from the Old Town by the Vilnia stream. The famous constitution wall, the Angel of Užupis statue, and dozens of dog-friendly cafés make this the city's most pet-welcoming neighbourhood. The annual Independence Day celebration (1 April) is dog-friendly and worth timing a trip around.",
+          "descriptionFr": "Quartier d'artistes bohème qui s'est autoproclamé république indépendante en 1997, séparé de la vieille ville par le ruisseau Vilnia. Le célèbre mur de la constitution, la statue de l'Ange d'Užupis et des dizaines de cafés dog-friendly font du quartier le plus accueillant pour les chiens de la ville. La fête de l'Indépendance (1er avril) est dog-friendly et mérite qu'on cale son séjour dessus.",
+          "descriptionEs": "Barrio bohemio de artistas que se autoproclamó república independiente en 1997, separado del casco antiguo por el arroyo Vilnia. El famoso muro de la constitución, la estatua del Ángel de Užupis y decenas de cafés dog-friendly hacen de este el barrio más acogedor con mascotas de la ciudad. El Día de la Independencia (1 de abril) es dog-friendly y vale la pena planificar el viaje en torno a él.",
+          "petPolicy": "Dogs welcome on leash; many cafés and shops admit dogs indoors",
+          "petPolicyFr": "Chiens acceptés en laisse ; nombreux cafés et boutiques acceptent les chiens en intérieur",
+          "petPolicyEs": "Perros admitidos con correa; muchos cafés y tiendas admiten perros en interior",
+          "openingHours": "24/7 (district)",
+          "tip": "Cross from the Bernardine Garden side — the most photogenic approach is over the small footbridge with the Užupis sign on the far side.",
+          "tipFr": "Traversez depuis le jardin Bernardine — l'approche la plus photogénique passe par la passerelle avec le panneau Užupis de l'autre côté.",
+          "tipEs": "Cruza desde el lado del Bernardine Garden: la aproximación más fotogénica es por la pequeña pasarela con el cartel de Užupis al otro lado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Uzupis+Vilnius"
+        },
+        {
+          "name": "Three Crosses & Hill of Three Crosses",
+          "address": "Kalnų parkas, 01101 Vilnius",
+          "neighborhood": "Old Town hill (east of Gediminas Hill)",
+          "photo": "/images/city-places/vilnius-attractions-three-crosses-hill-of-three-crosses.jpg",
+          "website": "https://www.govilnius.lt/visit-vilnius/places/three-crosses",
+          "description": "An iconic monument of three white crosses on a hilltop above the Old Town, set in the wooded Kalnų Park. The walking path up from Bernardine Garden is leash-friendly throughout — about 25 minutes of moderate climb each way. The summit panorama is the second-best free view in the city after Gediminas Hill.",
+          "descriptionFr": "Monument emblématique des trois croix blanches au sommet d'une colline au-dessus de la vieille ville, dans le parc boisé Kalnų. Le sentier qui monte depuis le jardin Bernardine est accessible en laisse de bout en bout — environ 25 minutes de montée modérée à l'aller. Le panorama au sommet est la deuxième vue gratuite de la ville après la colline de Gediminas.",
+          "descriptionEs": "Monumento icónico de tres cruces blancas en lo alto de una colina sobre el casco antiguo, en el arbolado parque Kalnų. El sendero que sube desde el Bernardine Garden es accesible con correa de principio a fin: unos 25 minutos de subida moderada en cada sentido. El panorama desde la cima es la segunda mejor vista gratuita de la ciudad tras la colina de Gediminas.",
+          "petPolicy": "Dogs welcome on leash on the hilltop and the access path",
+          "petPolicyFr": "Chiens acceptés en laisse au sommet et sur le sentier d'accès",
+          "petPolicyEs": "Perros admitidos con correa en la cima y en la senda de acceso",
+          "openingHours": "Daylight only (path lighting limited)",
+          "tip": "Combine the climb with the Bernardine Garden — together they make a perfect 90-minute leashed loop from the Old Town.",
+          "tipFr": "Combinez la montée avec le jardin Bernardine — ensemble ils forment une boucle parfaite de 90 minutes en laisse depuis la vieille ville.",
+          "tipEs": "Combina la subida con el Bernardine Garden: juntos forman un circuito perfecto de 90 minutos con correa desde el casco antiguo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Three+Crosses+Vilnius"
+        }
+      ],
+      "tipsEn": [
+        "Most of Vilnius's main outdoor sights — Cathedral Square, Gediminas Hill, Three Crosses, Užupis — are leash-friendly and free.",
+        "Indoor museums (National Museum of Lithuania, MO Museum, KGB Museum) admit only assistance dogs.",
+        "The Old Town and Užupis are walkable in 90 minutes as a single dog-friendly loop, so a sitter is rarely needed for a short city break."
+      ],
+      "tipsFr": [
+        "La plupart des sites principaux extérieurs de Vilnius — place de la Cathédrale, colline de Gediminas, Trois Croix, Užupis — sont accessibles en laisse et gratuits.",
+        "Les musées en intérieur (Musée national de Lituanie, MO Museum, Musée du KGB) n'admettent que les chiens d'assistance.",
+        "La vieille ville et Užupis se parcourent en 90 minutes en une seule boucle dog-friendly, donc un sitter est rarement nécessaire pour un court séjour."
+      ],
+      "tipsEs": [
+        "La mayoría de los lugares principales al aire libre de Vilna — Plaza de la Catedral, colina de Gediminas, Tres Cruces, Užupis — son accesibles con correa y gratuitos.",
+        "Los museos cerrados (Museo Nacional de Lituania, MO Museum, Museo del KGB) solo admiten perros de asistencia.",
+        "El casco antiguo y Užupis se recorren en 90 minutos como un único circuito dog-friendly, así que un cuidador rara vez es necesario para una escapada corta."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog enter Vilnius Cathedral or Gediminas Tower?",
+          "a": "No — only assistance dogs are admitted to the Cathedral interior, the Tower museum, and the funicular. The squares and the walking path up the hill are leash-friendly."
+        },
+        {
+          "q": "What's the best dog-friendly day in Vilnius?",
+          "a": "Walk Cathedral Square to Gediminas Hill, descend through Bernardine Garden, climb to the Three Crosses, then drop into Užupis for late lunch and a coffee on a dog-welcoming terrace."
+        },
+        {
+          "q": "Are dogs allowed in Užupis cafés?",
+          "a": "Most are dog-friendly indoors as well as outdoors — Užupis is generally the city's most pet-welcoming neighbourhood. Sun-Tea Café, Beigelių Krautuvėlė, and Sweet Root all welcome leashed dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer à la cathédrale de Vilnius ou à la tour de Gediminas ?",
+          "a": "Non — seuls les chiens d'assistance sont admis dans l'intérieur de la cathédrale, le musée de la tour et le funiculaire. Les places et le sentier de montée sont accessibles en laisse."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Vilnius ?",
+          "a": "Place de la Cathédrale jusqu'à la colline de Gediminas, descente par le jardin Bernardine, montée aux Trois Croix, puis Užupis pour un déjeuner tardif et un café en terrasse dog-welcoming."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés dans les cafés d'Užupis ?",
+          "a": "La plupart sont dog-friendly en intérieur comme en terrasse — Užupis est généralement le quartier le plus accueillant de la ville. Sun-Tea Café, Beigelių Krautuvėlė et Sweet Root acceptent tous les chiens en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro entrar a la Catedral de Vilna o a la Torre de Gediminas?",
+          "a": "No: solo perros de asistencia se admiten en el interior de la Catedral, el museo de la Torre y el funicular. Las plazas y la senda de subida a la colina son accesibles con correa."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Vilna?",
+          "a": "Plaza de la Catedral hasta la colina de Gediminas, bajada por el Bernardine Garden, subida a las Tres Cruces y después Užupis para un almuerzo tardío y café en una terraza dog-welcoming."
+        },
+        {
+          "q": "¿Se admiten perros en los cafés de Užupis?",
+          "a": "La mayoría son dog-friendly tanto dentro como fuera: Užupis es por lo general el barrio más acogedor con mascotas de la ciudad. Sun-Tea Café, Beigelių Krautuvėlė y Sweet Root admiten perros con correa."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Vilnius",
+      "titleFr": "Garde et promenade de chiens à Vilnius",
+      "titleEs": "Cuidado y paseo de perros en Vilna",
+      "introEn": "Vilnius pet-care is dominated by Pawshake (the European platform), with a smaller local marketplace at draugiskigyvunams.lt and Facebook expat groups filling the gap for last-minute walking. Prices are roughly half of Western European rates, and the network of sitters is dense in the Old Town and the new Šnipiškės business district.",
+      "introFr": "La garde d'animaux à Vilnius est dominée par Pawshake (plateforme européenne), avec une plus petite place de marché locale à draugiskigyvunams.lt et des groupes Facebook expatriés pour combler les besoins de promenade de dernière minute. Les tarifs sont environ la moitié de ceux d'Europe de l'Ouest, et le réseau de sitters est dense dans la vieille ville et le nouveau quartier d'affaires de Šnipiškės.",
+      "introEs": "El cuidado de mascotas en Vilna está dominado por Pawshake (plataforma europea), con un mercado local más pequeño en draugiskigyvunams.lt y los grupos de Facebook de expatriados cubriendo necesidades de paseo de última hora. Los precios son aproximadamente la mitad que en Europa Occidental, y la red de cuidadores es densa en el casco antiguo y en el nuevo distrito de negocios de Šnipiškės.",
+      "places": [
+        {
+          "name": "Pawshake Vilnius",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://en.pawshake.lt/petsitters/vilnius",
+          "description": "The Lithuanian arm of the European Pawshake network, with hundreds of verified sitters across Vilnius offering drop-in visits, full-day care, dog walks, and overnight boarding. Bookings are insured through the platform and the interface is fully translated into English. The most reliable option for visitors with no local contacts.",
+          "descriptionFr": "Filiale lituanienne du réseau européen Pawshake, avec des centaines de sitters vérifiés à Vilnius proposant visites à domicile, garde à la journée, promenades et hébergement de nuit. Les réservations sont assurées via la plateforme et l'interface est entièrement traduite en anglais. L'option la plus fiable pour les visiteurs sans contact local.",
+          "descriptionEs": "La filial lituana de la red europea Pawshake, con cientos de cuidadores verificados en Vilna que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
+          "tip": "Filter for 'Old Town' or 'Užupis' if you're staying central — most central Vilnius sitters live in apartments, which suits small dogs well.",
+          "tipFr": "Filtrez sur 'Old Town' ou 'Užupis' si vous logez en centre — la plupart des sitters du centre vivent en appartement, ce qui convient bien aux petits chiens.",
+          "tipEs": "Filtra por 'Old Town' o 'Užupis' si te alojas en el centro: la mayoría de los cuidadores del centro de Vilna viven en pisos, lo que va bien para perros pequeños."
+        }
+      ],
+      "tipsEn": [
+        "Average rates: drop-in visit €8–10, dog walk €7–10, full-day care €15–20, overnight €18–25 — significantly cheaper than Riga or Warsaw.",
+        "Most central Vilnius sitters live in apartments — confirm sleeping arrangements (crate, sofa, with the family) before booking for boarding.",
+        "Lithuanian sitters typically speak English and either Russian or Polish, especially in the Old Town."
+      ],
+      "tipsFr": [
+        "Tarifs moyens : visite 8-10 €, promenade 7-10 €, journée complète 15-20 €, nuit 18-25 € — nettement moins cher qu'à Riga ou Varsovie.",
+        "La plupart des sitters du centre de Vilnius vivent en appartement — vérifiez les conditions de couchage (caisse, canapé, en famille) avant de réserver pour la nuit.",
+        "Les sitters lituaniens parlent généralement anglais et soit russe, soit polonais, surtout dans la vieille ville."
+      ],
+      "tipsEs": [
+        "Tarifas medias: visita 8-10 €, paseo 7-10 €, día completo 15-20 €, noche 18-25 €: bastante más barato que Riga o Varsovia.",
+        "La mayoría de los cuidadores del centro de Vilna viven en piso: confirma cómo dormirá tu perro (jaula, sofá, con la familia) antes de reservar pernocta.",
+        "Los cuidadores lituanos suelen hablar inglés y ruso o polaco, sobre todo en el casco antiguo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Vilnius at short notice?",
+          "a": "Pawshake.lt is the fastest — most paid sitters confirm within hours. Filter for at least ten reviews and check the apartment-or-house preference."
+        },
+        {
+          "q": "Are dog walkers regulated in Lithuania?",
+          "a": "Lithuanian law does not require a licence for dog walkers, but Pawshake carers are insured through the platform — useful in the unlikely case of an incident."
+        },
+        {
+          "q": "Do hotels offer pet sitting in Vilnius?",
+          "a": "A few luxury hotels (Kempinski, Stikliai, Pacai) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter à Vilnius à court terme ?",
+          "a": "Pawshake.lt est le plus rapide — la plupart des sitters confirment en quelques heures. Filtrez sur au moins dix avis et vérifiez la préférence appartement-ou-maison."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Lituanie ?",
+          "a": "La loi lituanienne n'exige pas de licence pour les promeneurs, mais les sitters Pawshake sont assurés via la plateforme — utile dans le rare cas d'un incident."
+        },
+        {
+          "q": "Les hôtels proposent-ils une garde à Vilnius ?",
+          "a": "Quelques hôtels haut de gamme (Kempinski, Stikliai, Pacai) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Vilna sin mucha antelación?",
+          "a": "Pawshake.lt es lo más rápido: la mayoría de los cuidadores confirman en pocas horas. Filtra por al menos diez opiniones y comprueba la preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Están regulados los paseadores en Lituania?",
+          "a": "La ley lituana no exige licencia para los paseadores, pero los cuidadores de Pawshake están asegurados mediante la plataforma: útil en el raro caso de un incidente."
+        },
+        {
+          "q": "¿Los hoteles ofrecen servicio de cuidado en Vilna?",
+          "a": "Algunos hoteles de gama alta (Kempinski, Stikliai, Pacai) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ]
+    }
+  }
+}

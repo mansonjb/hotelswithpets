@@ -7897,6 +7897,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vilnius: {
+    history: {
+      fr: `Vilnius est la capitale de la Lituanie depuis 1323, fondée par le grand-duc Gediminas après un songe prophétique du loup de fer. Sa vieille ville baroque, l'une des plus vastes d'Europe orientale, est inscrite à l'UNESCO depuis 1994 et reste l'épine dorsale du tourisme local. La ville actuelle compte environ 580 000 habitants et l'État lituanien recense près de 60 000 chiens à Vilnius — densité élevée qui se traduit dans la rue : près de 500 cafés, restaurants et boutiques dog-friendly listés sur l'annuaire national draugiskigyvunams.lt, deux hôpitaux vétérinaires 24h/24, et une politique transports qui laisse les animaux voyager gratuitement. Vilnius est aussi la capitale la plus verte de l'UE par couvert arboré, ce qui se voit dans le réseau de parcs centraux : 160 hectares au Vingis, le jardin Bernardine au cœur de la ville, et les forêts de Verkiai à 15 minutes du centre.`,
+      en: `Vilnius has been Lithuania's capital since 1323, founded by Grand Duke Gediminas after his prophetic dream of the iron wolf. Its baroque Old Town, one of the largest in Eastern Europe, has been a UNESCO site since 1994 and remains the backbone of the local tourism scene. Today the city has about 580 000 inhabitants and the Lithuanian state registers nearly 60 000 dogs in Vilnius — a high density that shows on the street: nearly 500 dog-friendly cafés, restaurants and shops are listed on the national directory draugiskigyvunams.lt, two 24/7 veterinary hospitals serve the city, and the transport policy lets pets travel free. Vilnius is also the greenest EU capital by tree canopy, which shows in the central park network: 160 hectares at Vingis Park, the Bernardine Garden in the heart of the city, and the Verkiai forests fifteen minutes from the centre.`,
+      es: `Vilna es la capital de Lituania desde 1323, fundada por el gran duque Gediminas tras su sueño profético del lobo de hierro. Su casco antiguo barroco, uno de los más amplios de Europa Oriental, es Patrimonio UNESCO desde 1994 y sigue siendo el eje del turismo local. Hoy la ciudad tiene unos 580.000 habitantes y el Estado lituano registra cerca de 60.000 perros en Vilna: una densidad alta que se nota en la calle, con cerca de 500 cafés, restaurantes y tiendas dog-friendly listados en el directorio nacional draugiskigyvunams.lt, dos hospitales veterinarios 24/7 y una política de transporte que deja viajar gratis a las mascotas. Vilna es además la capital europea más verde por cobertura arbórea, y se nota en la red de parques céntricos: 160 hectáreas en Vingis Park, el Bernardine Garden en pleno centro y los bosques de Verkiai a quince minutos del centro.`,
+    },
+    sights: [
+      {
+        name: 'Gedimino pilis',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Tour rouge en brique du XIVe siècle au sommet de la colline de Gediminas, symbole national. L'intérieur abrite le musée et le funiculaire est interdit aux animaux non-assistance, mais le sentier en zigzag jusqu'au sommet est accessible en laisse et offre l'un des meilleurs panoramas gratuits d'Europe centrale.`,
+          en: `A 14th-century red-brick tower on Gediminas Hill, the national symbol. The interior museum and the funicular are closed to non-assistance pets, but the switchback path to the summit is leash-friendly and offers one of Central Europe's best free panoramas.`,
+          es: `Torre de ladrillo rojo del siglo XIV en la cima de la colina de Gediminas, símbolo nacional. El museo interior y el funicular están vetados a mascotas no de asistencia, pero el sendero en zigzag hasta la cima es accesible con correa y ofrece uno de los mejores panoramas gratuitos de Europa Central.`,
+        },
+      },
+      {
+        name: 'Bernardinai Garden',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin Renaissance historique sur la rive droite du ruisseau Vilnia, avec roseraie, allées de tilleuls et la célèbre statue en bronze des trois chiens lituaniens. Ouvert tous les jours, chiens en laisse les bienvenus.`,
+          en: `Historic Renaissance garden on the right bank of the Vilnia stream, with rose garden, lime tree alleys, and the famous bronze statue of three Lithuanian Hounds. Open daily, leashed dogs welcome.`,
+          es: `Jardín renacentista histórico en la orilla derecha del arroyo Vilnia, con roseda, avenidas de tilos y la famosa estatua de bronce de tres galgos lituanos. Abierto todos los días, perros con correa bienvenidos.`,
+        },
+      },
+      {
+        name: 'Vingis Park',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand parc de Vilnius (160 hectares) sur une boucle de la Neris, avec forêt de pins, amphithéâtre en plein air et plage canine signalée. Sans laisse toléré sur la plage et sur les sentiers boisés intérieurs ; trolleybus 7 depuis la Cathédrale.`,
+          en: `Vilnius's largest park (160 hectares) on a bend of the Neris, with pine forest, an open-air amphitheatre, and a marked dog beach. Off-leash tolerated on the beach and the wooded inner trails; trolleybus 7 from the Cathedral.`,
+          es: `El mayor parque de Vilna (160 hectáreas) en un meandro del Neris, con pinar, anfiteatro al aire libre y una playa canina señalizada. Sin correa tolerado en la playa y en los senderos boscosos interiores; trolebús 7 desde la Catedral.`,
+        },
+      },
+      {
+        name: 'Užupis',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier d'artistes bohème qui s'est autoproclamé république indépendante en 1997, séparé de la vieille ville par le ruisseau Vilnia. Mur de la constitution, statue de l'Ange d'Užupis et dizaines de cafés dog-friendly — le quartier le plus accueillant de la ville.`,
+          en: `Bohemian artists' quarter that declared itself an independent republic in 1997, separated from the Old Town by the Vilnia stream. Constitution wall, the Angel of Užupis statue, and dozens of dog-friendly cafés — the city's most pet-welcoming neighbourhood.`,
+          es: `Barrio bohemio de artistas que se autoproclamó república independiente en 1997, separado del casco antiguo por el arroyo Vilnia. Muro de la constitución, estatua del Ángel de Užupis y decenas de cafés dog-friendly: el barrio más acogedor con mascotas de la ciudad.`,
+        },
+      },
+      {
+        name: 'Trys kryžiai',
+        emoji: '✝️',
+        petFriendly: true,
+        desc: {
+          fr: `Monument emblématique des trois croix blanches au sommet d'une colline boisée à l'est de la vieille ville, dans le parc Kalnų. Sentier de montée accessible en laisse depuis le jardin Bernardine, environ 25 minutes — deuxième meilleur panorama gratuit de Vilnius.`,
+          en: `Iconic monument of three white crosses on a wooded hilltop east of the Old Town, in Kalnų Park. The climb from Bernardine Garden is leash-friendly, about 25 minutes — the second-best free panorama in Vilnius.`,
+          es: `Monumento icónico de tres cruces blancas en lo alto de una colina boscosa al este del casco antiguo, en el parque Kalnų. La subida desde el Bernardine Garden es accesible con correa, unos 25 minutos: el segundo mejor panorama gratuito de Vilna.`,
+        },
+      },
+      {
+        name: 'Trakai',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Château insulaire en brique rouge sur le lac Galvė, à 30 km de Vilnius en train. Les chiens sont les bienvenus en laisse sur le sentier riverain et les presqu'îles boisées ; le château lui-même est fermé aux animaux non-assistance.`,
+          en: `Red-brick island castle on Lake Galvė, 30 km from Vilnius by train. Leashed dogs are welcome on the lakeside path and the wooded peninsulas; the castle itself is closed to non-assistance pets.`,
+          es: `Castillo insular de ladrillo rojo sobre el lago Galvė, a 30 km de Vilna en tren. Los perros con correa son bienvenidos en la senda ribereña y las penínsulas boscosas; el castillo en sí está cerrado a mascotas no de asistencia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi lituanienne stricte dans les transports : laisse de 0,5 m maximum + muselière obligatoire pour les chiens moyens et grands sur tout JUDU et LTG. Inspecteurs actifs.`,
+        `Animaux gratuits dans les bus, trolleybus et trains domestiques — pas de ticket animal séparé ; le carnet de vaccination doit être sur soi.`,
+        `Urgence vétérinaire 24h/24 la plus centrale : Greitoji Žirafa, Naugarduko g. 102, +370 5 213 1130 — environ 10 minutes en taxi de la vieille ville.`,
+        `Annuaire national pet-friendly draugiskigyvunams.lt : près de 500 cafés, boutiques et services à travers toute la Lituanie.`,
+        `Les musées en intérieur (Cathédrale, tour de Gediminas, MO Museum, KGB Museum) sont fermés aux animaux non-assistance.`,
+      ],
+      en: [
+        `Strict Lithuanian transport law: 0.5 m maximum leash plus mandatory muzzle for medium and large dogs on all JUDU and LTG services. Inspectors actively check.`,
+        `Pets travel free on buses, trolleybuses and domestic trains — no separate pet ticket; the vaccination booklet must be carried.`,
+        `Most central 24/7 emergency vet: Greitoji Žirafa, Naugarduko g. 102, +370 5 213 1130 — about 10 minutes by taxi from the Old Town.`,
+        `National pet-friendly directory draugiskigyvunams.lt: nearly 500 cafés, shops and services across Lithuania.`,
+        `Indoor museums (Cathedral, Gediminas Tower, MO Museum, KGB Museum) are closed to non-assistance pets.`,
+      ],
+      es: [
+        `Ley lituana estricta en el transporte: correa de 0,5 m máximo más bozal obligatorio para perros medianos y grandes en todo JUDU y LTG. Los inspectores comprueban activamente.`,
+        `Las mascotas viajan gratis en autobuses, trolebuses y trenes nacionales: no hay billete de mascota aparte; la cartilla de vacunación debe llevarse encima.`,
+        `Veterinario de urgencias 24/7 más céntrico: Greitoji Žirafa, Naugarduko g. 102, +370 5 213 1130 — a unos 10 minutos en taxi del casco antiguo.`,
+        `Directorio nacional pet-friendly draugiskigyvunams.lt: cerca de 500 cafés, tiendas y servicios en toda Lituania.`,
+        `Los museos cerrados (Catedral, Torre de Gediminas, MO Museum, Museo del KGB) están vetados a mascotas no de asistencia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport de Vilnius (VNO) est à 7 km du centre, bus 88 jusqu'à la vieille ville en 25 minutes ; train Vilnius-Riga (4h) et Vilnius-Varsovie (8h) acceptent les chiens muselés.`,
+        `Tarifs hôtels dog-friendly : à partir de 70 € la nuit en 4*, supplément animal moyen 25-40 € par séjour.`,
+        `Climat continental : hivers froids et neigeux (-4 °C en janvier, -3 °C en février), étés doux (19 °C en juillet) ; manteau et coussinets indispensables de décembre à mars.`,
+        `Pawshake.lt est la plateforme de référence pour la garde et la promenade ; comptez 8-10 € la visite, 15-20 € la journée, 18-25 € la nuit.`,
+        `Vilnius est à 4h de Riga en train, 8h de Varsovie et 25 min de l'aéroport — combinaison idéale pour un circuit canin balte transfrontalier.`,
+      ],
+      en: [
+        `Vilnius Airport (VNO) is 7 km from the centre, bus 88 reaches the Old Town in 25 minutes; Vilnius-Riga (4h) and Vilnius-Warsaw (8h) trains accept muzzled dogs.`,
+        `Dog-friendly hotel rates: from €70 per night for 4*, average pet supplement €25-40 per stay.`,
+        `Continental climate: cold snowy winters (-4 °C in January, -3 °C in February), mild summers (19 °C in July); coat and paw balm essential December-March.`,
+        `Pawshake.lt is the dominant pet-care platform; budget €8-10 per drop-in visit, €15-20 for full-day care, €18-25 per night.`,
+        `Vilnius is 4 hours from Riga by train, 8 hours from Warsaw, and 25 minutes from the airport — ideal for a cross-border Baltic dog-travel circuit.`,
+      ],
+      es: [
+        `El aeropuerto de Vilna (VNO) está a 7 km del centro, el bus 88 llega al casco antiguo en 25 minutos; los trenes Vilna-Riga (4h) y Vilna-Varsovia (8h) admiten perros con bozal.`,
+        `Tarifas de hoteles dog-friendly: desde 70 € por noche en 4*, suplemento medio por mascota 25-40 € por estancia.`,
+        `Clima continental: inviernos fríos y nevados (-4 °C en enero, -3 °C en febrero), veranos suaves (19 °C en julio); abrigo y bálsamo de almohadillas imprescindibles de diciembre a marzo.`,
+        `Pawshake.lt es la plataforma dominante para cuidado y paseo; cuenta 8-10 € por visita, 15-20 € por día completo, 18-25 € por noche.`,
+        `Vilna está a 4 horas de Riga en tren, 8 horas de Varsovia y 25 minutos del aeropuerto: ideal para un circuito canino báltico transfronterizo.`,
+      ],
+    },
+  },
+
   warsaw: {
     history: {
       fr: `Varsovie est une ville qui s'est reconstruite brique après brique. Détruite à 85 % pendant la Seconde Guerre mondiale, sa Vieille Ville a été restaurée à partir de tableaux et dessins d'avant-guerre, lui valant une reconnaissance UNESCO comme symbole de résilience. Aujourd'hui, la capitale polonaise superpose le Palais de la Culture communiste et des gratte-ciel de verre, reliant résidences royales et nature fluviale par des avenues ombragées comme Nowy Świat et Krakowskie Przedmieście. Varsovie est devenue, discrètement, l'une des capitales les plus dog-friendly d'Europe : presque tous les parcs acceptent les chiens en laisse, beaucoup de cafés de Śródmieście et Saska Kępa arborent le sticker 'pies mile widziany' (chien bienvenu), et les berges de la Vistule sont devenues un vrai sanctuaire urbain. La culture canine polonaise mêle ici pragmatisme et chaleur, et chiens de travail comme bâtards adoptés sont traités en membres de la famille sur chaque tram et terrasse.`,

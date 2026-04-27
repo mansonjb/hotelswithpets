@@ -52,6 +52,7 @@ const TARGETS = [
   { slug: 'the-hague', query: 'Hofvijver Binnenhof The Hague reflection panorama' },
   { slug: 'brighton', query: 'Brighton seafront West Pier sunset i360 panorama' },
   { slug: 'bratislava', query: 'Bratislava Castle Danube sunset panorama Old Town' },
+  { slug: 'vilnius', query: 'Vilnius Old Town panorama Gediminas Tower Cathedral sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

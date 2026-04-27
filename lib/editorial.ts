@@ -372,6 +372,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Prater park, Donauinsel island, and the Lainzer Tiergarten',
       area: 'the 1st district, Naschmarkt, and Josefstadt',
     },
+    vilnius: {
+      personality: 'the EU\'s greenest capital and one of its most dog-welcoming, where pets travel free on every bus and nearly 500 pet-friendly venues sit inside the UNESCO Old Town',
+      highlight: 'Vingis Park forest, Bernardinai Garden, and the Three Crosses hill',
+      area: 'the Old Town, Užupis, and Šnipiškės',
+    },
     warsaw: {
       personality: 'a rapidly modernising European capital where pet-friendly hotels are increasingly the norm and riverside parks offer excellent walking',
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
@@ -734,6 +739,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc du Prater, l\'île du Danube et le Lainzer Tiergarten',
       area: 'le 1er arrondissement, le Naschmarkt et Josefstadt',
     },
+    vilnius: {
+      personality: 'la capitale la plus verte de l\'UE et l\'une des plus accueillantes pour les chiens, où les animaux voyagent gratuitement dans tous les bus et près de 500 adresses pet-friendly se concentrent dans la vieille ville UNESCO',
+      highlight: 'la forêt du Vingis, le jardin Bernardine et la colline des Trois Croix',
+      area: 'la vieille ville, Užupis et Šnipiškės',
+    },
     warsaw: {
       personality: 'une capitale européenne en pleine modernisation où les hôtels pet-friendly sont de plus en plus la norme et les parcs riverains offrent d\'excellentes promenades',
       highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
@@ -1095,6 +1105,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad que se toma en serio la tenencia de mascotas. Los perros viajan en el U-Bahn, entran en museos y son atendidos en cientos de cafés vieneses',
       highlight: 'el parque del Prater, la isla del Danubio y el Lainzer Tiergarten',
       area: 'el 1er distrito, el Naschmarkt y Josefstadt',
+    },
+    vilnius: {
+      personality: 'la capital más verde de la UE y una de las más acogedoras con perros, donde las mascotas viajan gratis en todos los autobuses y casi 500 direcciones pet-friendly se concentran en el casco antiguo UNESCO',
+      highlight: 'el bosque de Vingis, el Bernardine Garden y la colina de las Tres Cruces',
+      area: 'el casco antiguo, Užupis y Šnipiškės',
     },
     warsaw: {
       personality: 'una capital europea en rápida modernización donde los hoteles pet-friendly son cada vez más la norma y los parques ribereños ofrecen excelentes paseos',

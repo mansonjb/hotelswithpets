@@ -5123,6 +5123,80 @@
     }
   },
   {
+    "slug": "vilnius",
+    "name": "Vilnius",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "flag": "🇱🇹",
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vilnius.jpg",
+    "intro": "Vilnius is the EU's greenest capital and one of its most affordable: a UNESCO Old Town walkable in a day, free pets on every bus, two 24/7 emergency vets, and nearly 500 dog-friendly venues listed on the national pet directory.",
+    "weather": {
+      "jan": {
+        "temp": -4,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 2,
+        "desc": "Cool & overcast",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 8,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "warsaw",
     "name": "Warsaw",
     "country": "Poland",

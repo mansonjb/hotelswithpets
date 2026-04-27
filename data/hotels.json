@@ -11900,6 +11900,125 @@
     "slug": "hyatt-regency-vienna"
   },
   {
+    "id": "vilnius-1",
+    "name": "Grand Hotel Kempinski Vilnius",
+    "destinationSlug": "vilnius",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 3800,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/grand-hotel-kempinski-vilnius.html",
+    "petFee": 40,
+    "petPolicy": "Grand Hotel Kempinski Vilnius welcomes up to two dogs of any size for a one-time fee of €40 per stay. Cats are not accepted. Pets are not allowed in the spa, pool or restaurants.",
+    "highlights": [
+      "Steps from Cathedral Square",
+      "Indoor pool & spa",
+      "Lower Castle Museum next door"
+    ],
+    "slug": "grand-hotel-kempinski-vilnius-vilnius"
+  },
+  {
+    "id": "vilnius-2",
+    "name": "Stikliai Hotel - Relais & Châteaux",
+    "destinationSlug": "vilnius",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1500,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/stikliai.html",
+    "petFee": 0,
+    "petPolicy": "Stikliai Hotel welcomes one pet of any size at no extra charge. Both dogs and cats are accepted. The hotel is part of the Relais & Châteaux network and offers tailored pet amenities on request.",
+    "highlights": [
+      "Relais & Châteaux member",
+      "Old Town heritage building",
+      "Free pet stays"
+    ],
+    "slug": "stikliai-hotel-vilnius"
+  },
+  {
+    "id": "vilnius-3",
+    "name": "Hotel Pacai, a Member of Design Hotels",
+    "destinationSlug": "vilnius",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2300,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/pacai.html",
+    "petFee": 40,
+    "petPolicy": "Hotel Pacai accepts small pets only (under 10 kg) for €40 per night. Both dogs and small cats are welcome with prior arrangement. Service dogs stay free.",
+    "highlights": [
+      "17th-century baroque palace",
+      "Member of Design Hotels",
+      "Heart of the Old Town"
+    ],
+    "slug": "hotel-pacai-vilnius"
+  },
+  {
+    "id": "vilnius-4",
+    "name": "Radisson Hotel Vilnius Old Town",
+    "destinationSlug": "vilnius",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4200,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/radisson-vilnius-old-town.html",
+    "petFee": 25,
+    "petPolicy": "Radisson Hotel Vilnius Old Town welcomes pets up to 25 kg for €25 per pet per night. Both dogs and cats are accepted. Pets are not allowed in the restaurant or spa.",
+    "highlights": [
+      "On the edge of the Old Town",
+      "Indoor pool & gym",
+      "Walk to Gediminas Avenue"
+    ],
+    "slug": "radisson-hotel-vilnius-old-town-vilnius"
+  },
+  {
+    "id": "vilnius-5",
+    "name": "Hilton Garden Inn Vilnius City Centre",
+    "destinationSlug": "vilnius",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3600,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lt/hilton-garden-inn-vilnius-city-centre.html",
+    "petFee": 25,
+    "petPolicy": "Hilton Garden Inn Vilnius City Centre allows up to two pets per room for €25 per stay (not per night). Both dogs and cats are accepted. Service dogs stay free.",
+    "highlights": [
+      "10-minute walk to the Old Town",
+      "Free 24-hour fitness centre",
+      "Best value for pet stays"
+    ],
+    "slug": "hilton-garden-inn-vilnius-city-centre-vilnius"
+  },
+  {
     "id": "warsaw-1",
     "name": "Raffles Europejski Warsaw",
     "destinationSlug": "warsaw",

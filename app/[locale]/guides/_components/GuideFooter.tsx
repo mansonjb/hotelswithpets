@@ -37,6 +37,24 @@ const ALL_GUIDES = [
     label: { fr: 'City trip en Europe avec son chien', en: 'European city trip with your dog', es: 'City trip por Europa con tu perro' },
     desc:  { fr: 'Paris → Bruxelles → Amsterdam → Berlin (10 j)', en: 'Paris → Brussels → Amsterdam → Berlin (10 days)', es: 'París → Bruselas → Ámsterdam → Berlín (10 días)' },
   },
+  {
+    slug: 'cote-mediterraneenne-chien',
+    emoji: '🌊',
+    label: { fr: 'Côte méditerranéenne avec son chien', en: 'Mediterranean coast with your dog', es: 'Costa mediterránea con tu perro' },
+    desc:  { fr: 'Nice → Gênes → Florence → Rome (10 j)', en: 'Nice → Genoa → Florence → Rome (10 days)', es: 'Niza → Génova → Florencia → Roma (10 días)' },
+  },
+  {
+    slug: 'iberique-chien',
+    emoji: '🌅',
+    label: { fr: 'Péninsule ibérique avec son chien', en: 'Iberian peninsula with your dog', es: 'Península ibérica con tu perro' },
+    desc:  { fr: 'Lisbonne → Porto → Madrid → Barcelone (12 j)', en: 'Lisbon → Porto → Madrid → Barcelona (12 days)', es: 'Lisboa → Oporto → Madrid → Barcelona (12 días)' },
+  },
+  {
+    slug: 'alpes-chien',
+    emoji: '🏔️',
+    label: { fr: 'Villes alpines avec son chien', en: 'Alpine cities with your dog', es: 'Ciudades alpinas con tu perro' },
+    desc:  { fr: 'Genève → Zurich → Munich → Salzbourg (10 j)', en: 'Geneva → Zurich → Munich → Salzburg (10 days)', es: 'Ginebra → Zúrich → Múnich → Salzburgo (10 días)' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

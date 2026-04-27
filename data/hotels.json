@@ -6856,6 +6856,122 @@
     "slug": "santa-cruz-suite-jardin-con-vistas-mijas-costa"
   },
   {
+    "id": "manchester-1",
+    "name": "The Lowry Hotel",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4032,
+    "priceFrom": 195,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-lowry.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "The Lowry Hotel welcomes up to 2 dogs of any size for £30 per pet per stay. A dedicated pet walking area sits on the property. Dogs are not permitted on sofas; cats are not accepted. Pets may be left unattended in rooms with a Do Not Disturb sign.",
+    "highlights": [
+      "Riverside Salford Quays location",
+      "Dedicated pet walking area",
+      "5-star spa & restaurant"
+    ],
+    "slug": "the-lowry-hotel-manchester"
+  },
+  {
+    "id": "manchester-2",
+    "name": "Malmaison Manchester",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3700,
+    "priceFrom": 140,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/malmaison-manchester.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Malmaison Manchester accepts dogs of any size for £20 per pet per night. Call ahead to verify availability of pet-friendly rooms. Dogs may be left unattended with DND on the door if reception is notified. Cats are not accepted.",
+    "highlights": [
+      "Piccadilly Gardens location",
+      "Dog welcome kit on arrival",
+      "Boutique-design pet rooms"
+    ],
+    "slug": "malmaison-manchester-manchester"
+  },
+  {
+    "id": "manchester-3",
+    "name": "Hotel Indigo Manchester - Victoria Station",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2900,
+    "priceFrom": 125,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hotel-indigo-manchester-victoria-station.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Hotel Indigo Manchester accepts up to two dogs up to 36 kg per room for £35 per pet per stay. Pets are restricted to designated rooms (book in advance) and not allowed in restaurants. Cats are not accepted.",
+    "highlights": [
+      "Steps from Victoria Station",
+      "Walk to the Northern Quarter",
+      "Boutique IHG design hotel"
+    ],
+    "slug": "hotel-indigo-manchester-victoria-station-manchester"
+  },
+  {
+    "id": "manchester-4",
+    "name": "Holiday Inn Express Manchester Airport by IHG",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 5800,
+    "priceFrom": 95,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/holiday-inn-express-manchester-airport.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Holiday Inn Express Manchester Airport accepts up to two pets up to 34 kg for £50 per pet per night. Both dogs and cats are welcome. Pets may be left in rooms unattended with reception notified.",
+    "highlights": [
+      "At Manchester Airport",
+      "Free 24-hour shuttle",
+      "Best-value pet stays near city"
+    ],
+    "slug": "holiday-inn-express-manchester-airport-manchester"
+  },
+  {
+    "id": "manchester-5",
+    "name": "Native Manchester",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1700,
+    "priceFrom": 130,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/native-manchester.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Native Manchester aparthotel accepts dogs up to 18 kg for £25 per pet per night. Cats are not accepted. The fully equipped apartments include a kitchenette, ideal for longer stays with a dog.",
+    "highlights": [
+      "Aparthotel kitchenette suites",
+      "Northern Quarter location",
+      "Industrial-chic design"
+    ],
+    "slug": "native-manchester-manchester"
+  },
+  {
     "id": "marseille-1",
     "name": "InterContinental Marseille - Hotel Dieu",
     "destinationSlug": "marseille",

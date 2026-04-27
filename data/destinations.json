@@ -3002,6 +3002,80 @@
     }
   },
   {
+    "slug": "manchester",
+    "name": "Manchester",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "lat": 53.4808,
+    "lng": -2.2426,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/manchester.jpg",
+    "intro": "Manchester is among the UK's most dog-friendly cities: free pets on the Metrolink and Bee Network, dog-welcoming pubs on every Northern Quarter street, the 240-hectare Heaton Park a tram ride from the centre, and Vets Now's 24-hour hospital in Whitefield.",
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "marseille",
     "name": "Marseille",
     "country": "France",

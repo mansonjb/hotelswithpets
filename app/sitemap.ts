@@ -95,6 +95,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'road-trip-chien',
     'hotel-pet-friendly',
     'city-trip-chien',
+    'cote-mediterraneenne-chien',
+    'iberique-chien',
+    'alpes-chien',
   ]
   for (const locale of LOCALES) {
     entries.push({

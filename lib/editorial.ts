@@ -226,6 +226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque de Málaga seafront, the Montes de Málaga natural park, and the Pedregalejo beach dog zone',
       area: 'the Historic Centre, Soho, and Pedregalejo',
     },
+    manchester: {
+      personality: 'one of the UK\'s most reliably dog-friendly cities, with free pets on every Metrolink tram and Bee Network bus, dog-welcoming pubs on every Northern Quarter street, and 240-hectare Heaton Park a tram ride away',
+      highlight: 'Heaton Park, Fletcher Moss Botanical Gardens, and the Bridgewater Canal towpath',
+      area: 'Northern Quarter, Ancoats, and Castlefield',
+    },
     marseille: {
       personality: 'a sun-drenched Mediterranean city where outdoor life, terraces and coastal nature shape an unmistakably dog-friendly rhythm',
       highlight: 'the Calanques National Park trails, the Frioul islands accessible by ferry, and the 5-kilometre Corniche Kennedy promenade',
@@ -614,6 +619,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parque de Málaga en bord de mer, le parc naturel des Montes de Málaga et la zone chiens de la plage de Pedregalejo',
       area: 'le Centre Historique, Soho et Pedregalejo',
     },
+    manchester: {
+      personality: 'l\'une des villes britanniques les plus fiables côté chiens, avec animaux gratuits dans chaque tram Metrolink et bus Bee Network, pubs dog-friendly à chaque rue du Northern Quarter, et les 240 hectares de Heaton Park à un tram du centre',
+      highlight: 'Heaton Park, les jardins botaniques de Fletcher Moss et le chemin de halage du Bridgewater Canal',
+      area: 'le Northern Quarter, Ancoats et Castlefield',
+    },
     marseille: {
       personality: 'une ville méditerranéenne baignée de soleil où la vie en extérieur, les terrasses et la nature côtière imposent un rythme résolument dog-friendly',
       highlight: 'les sentiers du Parc National des Calanques, les îles du Frioul accessibles en ferry et les 5 kilomètres de la Corniche Kennedy',
@@ -1000,6 +1010,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una relajada ciudad portuaria andaluza donde los perros acompañan a sus dueños en las terrazas de museos, en hoteles frente al mar y a través del histórico barrio de la Alcazaba',
       highlight: 'el Parque de Málaga en el paseo marítimo, el parque natural de los Montes de Málaga y la zona para perros de la playa de Pedregalejo',
       area: 'el Centro Histórico, Soho y Pedregalejo',
+    },
+    manchester: {
+      personality: 'una de las ciudades del Reino Unido más fiables con perros, con mascotas gratis en cada tranvía Metrolink y autobús Bee Network, pubs dog-friendly en cada calle del Northern Quarter, y las 240 hectáreas de Heaton Park a un tranvía del centro',
+      highlight: 'Heaton Park, los jardines botánicos de Fletcher Moss y la senda del Bridgewater Canal',
+      area: 'el Northern Quarter, Ancoats y Castlefield',
     },
     marseille: {
       personality: 'una ciudad mediterránea bañada por el sol donde la vida al aire libre, las terrazas y la naturaleza costera imponen un ritmo claramente dog-friendly',

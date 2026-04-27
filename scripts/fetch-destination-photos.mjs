@@ -57,6 +57,7 @@ const TARGETS = [
   { slug: 'sofia', query: 'Sofia Alexander Nevsky Cathedral Vitosha mountain panorama sunset' },
   { slug: 'bucharest', query: 'Bucharest Romanian Athenaeum Calea Victoriei panorama sunset' },
   { slug: 'belgrade', query: 'Belgrade Kalemegdan fortress Sava Danube confluence sunset panorama' },
+  { slug: 'manchester', query: 'Manchester Castlefield basin canal Beetham Tower skyline' },
 ]
 
 async function searchPhoto(query, apiKey) {

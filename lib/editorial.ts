@@ -41,6 +41,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
       area: 'El Born, Gràcia, and Eixample',
     },
+    belgrade: {
+      personality: 'one of Europe\'s most affordable capitals, with the year-round Ada Ciganlija dog beach, free public transport since 2025, and Serbia\'s only 24-hour vet hospital',
+      highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
+      area: 'Stari Grad, Skadarlija, and Dorćol',
+    },
     berlin: {
       personality: 'arguably Europe\'s most dog-friendly capital. Dogs ride public transport and enter many shops freely',
       highlight: 'the Tiergarten, Tempelhof field, and Grunewald forest',
@@ -424,6 +429,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de la Ciutadella, la plage de Poblenou et les collines du Collserola',
       area: 'El Born, Gràcia et l\'Eixample',
     },
+    belgrade: {
+      personality: 'l\'une des capitales européennes les plus abordables, avec la plage canine d\'Ada Ciganlija toute l\'année, les transports publics gratuits depuis 2025 et le seul hôpital vétérinaire 24h/24 de Serbie',
+      highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
+      area: 'Stari Grad, Skadarlija et Dorćol',
+    },
     berlin: {
       personality: 'sans doute la capitale la plus amie des chiens d\'Europe. Les chiens prennent les transports en commun et entrent librement dans de nombreux commerces',
       highlight: 'le Tiergarten, le champ de Tempelhof et la forêt de Grunewald',
@@ -805,6 +815,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad mediterránea donde la tenencia de mascotas es alta y los hoteles se están adaptando',
       highlight: 'el Parque de la Ciutadella, la playa de Poblenou y las colinas del Collserola',
       area: 'El Born, Gràcia y el Eixample',
+    },
+    belgrade: {
+      personality: 'una de las capitales europeas más asequibles, con la playa canina de Ada Ciganlija todo el año, transporte público gratuito desde 2025 y el único hospital veterinario 24/7 de Serbia',
+      highlight: 'la fortaleza de Kalemegdan, la península de Ada Ciganlija y el parque Tašmajdan',
+      area: 'Stari Grad, Skadarlija y Dorćol',
     },
     berlin: {
       personality: 'posiblemente la capital más dog-friendly de Europa. Los perros viajan en transporte público y entran libremente en muchos comercios',

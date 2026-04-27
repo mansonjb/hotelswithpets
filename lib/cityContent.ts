@@ -478,6 +478,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  belgrade: {
+    history: {
+      fr: `Belgrade s'est dressée pour la première fois au confluent de la Sava et du Danube il y a 7 000 ans, et elle a été détruite et reconstruite environ 40 fois — record de Slaves, Romains, Byzantins, Ottomans, Habsbourgeois et Yougoslaves. Capitale de la Serbie depuis 1841, c'est aujourd'hui une métropole d'environ 1,4 million d'habitants où la vieille ville baroque, les blocs brutalistes de Nouvelle Belgrade et les terrasses bohèmes de Skadarlija coexistent. La culture canine serbe est ouverte mais réglementée : laisse en ville et muselière panier pour les races dangereuses, mais Belgrade compte des dizaines de parcs canins clôturés, une plage canine balisée à Ada Ciganlija ouverte toute l'année, et le seul hôpital vétérinaire 24h/24 enregistré du pays (Vet Planet à Novi Beograd). Particularité : les bus de ville interdisent les chiens non-assistance, mais les trams, trolleybus et le rail national ŽS les acceptent — et le transport public est gratuit depuis janvier 2025.`,
+      en: `Belgrade first rose at the confluence of the Sava and Danube 7 000 years ago, and it has been destroyed and rebuilt some 40 times — a record courtesy of Slavs, Romans, Byzantines, Ottomans, Habsburgs, and Yugoslavs. Capital of Serbia since 1841, it is today a metropolis of about 1.4 million inhabitants where the baroque old town, the brutalist blocks of New Belgrade, and the bohemian terraces of Skadarlija coexist. Serbian dog culture is open but regulated: leashes in town and basket muzzles for dangerous breeds, but Belgrade has dozens of fenced dog parks, a year-round marked dog beach at Ada Ciganlija, and the country's only registered 24-hour veterinary hospital (Vet Planet in Novi Beograd). Local quirk: city buses ban non-service dogs, but trams, trolleybuses, and ŽS national rail all accept them — and public transport has been free since January 2025.`,
+      es: `Belgrado se levantó por primera vez en la confluencia del Sava y el Danubio hace 7.000 años, y ha sido destruida y reconstruida unas 40 veces, cortesía de eslavos, romanos, bizantinos, otomanos, Habsburgo y yugoslavos. Capital de Serbia desde 1841, hoy es una metrópolis de unos 1,4 millones de habitantes donde el casco antiguo barroco, los bloques brutalistas de Nueva Belgrado y las terrazas bohemias de Skadarlija coexisten. La cultura canina serbia es abierta pero está regulada: correa en la ciudad y bozal tipo cesta para razas peligrosas, pero Belgrado tiene decenas de parques caninos vallados, una playa canina señalizada todo el año en Ada Ciganlija y el único hospital veterinario 24 horas registrado del país (Vet Planet en Novi Beograd). Peculiaridad local: los autobuses urbanos prohíben perros no de asistencia, pero los tranvías, trolebuses y el ferrocarril nacional ŽS los admiten, y el transporte público es gratuito desde enero de 2025.`,
+    },
+    sights: [
+      {
+        name: 'Kalemegdan',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse de 60 hectares sur le promontoire où la Sava rejoint le Danube — murs romains, byzantins, ottomans et habsbourgeois superposés. Chiens en laisse acceptés sur tous les remparts ouverts ; le célèbre belvédère du coucher de soleil est dog-friendly.`,
+          en: `60-hectare fortress on the headland where the Sava meets the Danube — Roman, Byzantine, Ottoman, and Habsburg walls layered together. Leashed dogs welcome on all open ramparts; the famous sunset viewpoint is dog-friendly.`,
+          es: `Fortaleza de 60 hectáreas en el promontorio donde el Sava se une al Danubio: murallas romanas, bizantinas, otomanas y de los Habsburgo superpuestas. Perros con correa admitidos en todas las murallas abiertas; el famoso mirador del atardecer es dog-friendly.`,
+        },
+      },
+      {
+        name: 'Skadarlija',
+        emoji: '🎶',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier bohème — une seule rue pavée de 400 mètres bordée de tavernes serbes traditionnelles (kafane), musique live et hôtels particuliers du XIXe. Chiens en laisse les bienvenus sur toute la longueur ; presque toutes les terrasses acceptent les animaux.`,
+          en: `Bohemian quarter — a single 400-metre cobbled street lined with traditional Serbian kafane taverns, live music, and 19th-century townhouses. Leashed dogs welcome the entire length; nearly all terraces accept pets.`,
+          es: `Barrio bohemio: una sola calle adoquinada de 400 metros flanqueada por tabernas serbias tradicionales (kafane), música en vivo y casas señoriales del siglo XIX. Perros con correa bienvenidos en todo su recorrido; casi todas las terrazas admiten mascotas.`,
+        },
+      },
+      {
+        name: 'Ada Ciganlija',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Presqu'île artificielle de 800 hectares sur la Sava, surnommée 'la mer de Belgrade', avec une plage canine balisée à l'extrémité est ouverte toute l'année. Forêt, lacs et beer gardens estivaux ; bus 53/56 depuis le centre.`,
+          en: `800-hectare artificial peninsula on the Sava, nicknamed 'Belgrade's sea', with a marked dog beach on the eastern end open year-round. Forest, lakes, and summer beer gardens; bus 53/56 from the centre.`,
+          es: `Península artificial de 800 hectáreas sobre el Sava, apodada 'el mar de Belgrado', con una playa canina señalizada en el extremo este abierta todo el año. Bosque, lagos y beer gardens estivales; bus 53/56 desde el centro.`,
+        },
+      },
+      {
+        name: 'Knez Mihailova',
+        emoji: '🛍️',
+        petFriendly: true,
+        desc: {
+          fr: `Colonne vertébrale piétonne de Belgrade, 1 km de Trg Republike aux portes de Kalemegdan, bordée de façades Belle Époque, ambassades, librairies et terrasses dog-friendly.`,
+          en: `Belgrade's pedestrian spine, 1 km from Trg Republike to the Kalemegdan gates, lined with Belle Époque facades, embassies, bookstores, and dog-friendly café terraces.`,
+          es: `El eje peatonal de Belgrado, 1 km desde Trg Republike hasta las puertas de Kalemegdan, flanqueado por fachadas Belle Époque, embajadas, librerías y terrazas dog-friendly.`,
+        },
+      },
+      {
+        name: 'Tašmajdan Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc central de 9 hectares autour de l'église Saint-Marc, avec un parc canin municipal clôturé du côté sud (ouvert en 2018). Platanes anciens, allées de gravier et plusieurs kiosques-cafés ; trois pâtés de maisons à l'est de Skadarlija.`,
+          en: `9-hectare central park around St Mark's Church, with a fenced municipal dog park on the south side (opened in 2018). Mature plane trees, gravel paths, and several café-kiosks; three blocks east of Skadarlija.`,
+          es: `Parque central de 9 hectáreas en torno a la iglesia de San Marcos, con un parque canino municipal vallado en el lado sur (inaugurado en 2018). Plátanos maduros, paseos de grava y varios kioskos-café; a tres manzanas al este de Skadarlija.`,
+        },
+      },
+      {
+        name: 'Saint Sava Temple',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `L'une des plus grandes églises orthodoxes au monde, à 79 m de hauteur, dominant le skyline. L'intérieur n'admet que les chiens d'assistance, mais la grande place extérieure et le parc de Vračar alentour sont accessibles en laisse et gratuits.`,
+          en: `One of the world's largest Orthodox churches, 79 m tall, dominating the city skyline. The interior admits only assistance dogs, but the wide square outside and the surrounding Vračar park are leash-friendly and free.`,
+          es: `Una de las mayores iglesias ortodoxas del mundo, de 79 m de altura, que domina el horizonte. El interior solo admite perros de asistencia, pero la amplia plaza exterior y el parque circundante de Vračar son accesibles con correa y gratuitos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Bus GSP : interdits aux chiens non-assistance — utilisez trams et trolleybus à la place, gratuits depuis janvier 2025.`,
+        `Trains ŽS : demi-tarif seconde classe pour les grands chiens muselés ; petits chiens en panier gratuits.`,
+        `Urgence vétérinaire 24h/24 unique en Serbie : Vet Planet, Tošin Bunar 128, +381 11 411 4222 — 15 minutes en Bolt depuis la vieille ville.`,
+        `La Serbie est hors UE — apportez le passeport européen et le carnet de vaccination ; les frontières hongroise et croate vérifient parfois.`,
+        `Étés très chauds (35 °C en juillet-août) : promenez le chien au lever du soleil ou après 19h, et évitez les pavés sombres de Skadarlija qui rayonnent la chaleur.`,
+      ],
+      en: [
+        `GSP city buses: ban non-service dogs — use trams and trolleybuses instead, both free since January 2025.`,
+        `ŽS national trains: half second-class fare for muzzled large dogs; small dogs in carriers travel free.`,
+        `Serbia's only 24/7 emergency vet: Vet Planet, Tošin Bunar 128, +381 11 411 4222 — 15 minutes by Bolt from the Old Town.`,
+        `Serbia is outside the EU — bring the EU pet passport and vaccination booklet; the Hungarian and Croatian crossings sometimes verify.`,
+        `Very hot summers (35 °C in July-August): walk dogs at sunrise or after 19:00, and avoid the dark cobbles of Skadarlija that radiate heat.`,
+      ],
+      es: [
+        `Autobuses GSP: prohíben perros no de asistencia — usa tranvías y trolebuses, gratuitos desde enero de 2025.`,
+        `Trenes ŽS: medio billete de segunda clase para perros grandes con bozal; perros pequeños en transportín gratis.`,
+        `Único veterinario 24/7 de Serbia: Vet Planet, Tošin Bunar 128, +381 11 411 4222 — 15 minutos en Bolt desde el casco antiguo.`,
+        `Serbia está fuera de la UE: lleva el pasaporte europeo y la cartilla de vacunación; los pasos con Hungría y Croacia a veces verifican.`,
+        `Veranos muy calurosos (35 °C en julio-agosto): pasea al perro al amanecer o después de las 19:00 y evita los adoquines oscuros de Skadarlija que irradian calor.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport Nikola Tesla (BEG) est à 18 km du centre, navette A1 jusqu'à Slavija en 30 minutes (chien en panier OK ; grand chien : tram/trolleybus depuis Slavija).`,
+        `Tarifs hôtels dog-friendly : à partir de 60 € la nuit en 4*, supplément animal moyen 0-50 € par séjour ; certaines limites de poids strictes (Athénée Crowne Plaza : 10 kg).`,
+        `Climat continental : hivers froids (1 °C en janvier), étés très chauds (24 °C en juillet, pics à 35 °C) ; transition de saison brève en avril et octobre.`,
+        `Pawshake.com et PetBacker dominent la garde et la promenade ; comptez 4-7 € la promenade, 10-15 € la journée, 12-18 € la nuit — parmi les tarifs les plus bas d'Europe.`,
+        `Belgrade est à 8h de Sofia en train, 4h de Sarajevo en bus et 6h de Budapest en train direct — point de départ idéal pour un circuit canin balkanique.`,
+      ],
+      en: [
+        `Nikola Tesla Airport (BEG) is 18 km from the centre, A1 shuttle to Slavija in 30 minutes (dog in carrier OK; large dog: tram/trolleybus from Slavija).`,
+        `Dog-friendly hotel rates: from €60 per night for 4*, average pet supplement €0-50 per stay; some strict weight limits (Crowne Plaza: 10 kg).`,
+        `Continental climate: cold winters (1 °C in January), very hot summers (24 °C in July, peaks at 35 °C); short shoulder seasons in April and October.`,
+        `Pawshake.com and PetBacker dominate sitting and walking; budget €4-7 per walk, €10-15 for full-day care, €12-18 per night — among the cheapest pet-care rates in Europe.`,
+        `Belgrade is 8 hours from Sofia by train, 4 hours from Sarajevo by bus, and 6 hours from Budapest by direct train — an ideal starting point for a Balkan dog-travel circuit.`,
+      ],
+      es: [
+        `El aeropuerto Nikola Tesla (BEG) está a 18 km del centro, shuttle A1 hasta Slavija en 30 minutos (perro en transportín OK; perro grande: tranvía/trolebús desde Slavija).`,
+        `Tarifas de hoteles dog-friendly: desde 60 € por noche en 4*, suplemento medio por mascota 0-50 € por estancia; algunos límites de peso estrictos (Crowne Plaza: 10 kg).`,
+        `Clima continental: inviernos fríos (1 °C en enero), veranos muy calurosos (24 °C en julio, picos de 35 °C); cortas estaciones intermedias en abril y octubre.`,
+        `Pawshake.com y PetBacker dominan el cuidado y paseo; cuenta 4-7 € por paseo, 10-15 € por día completo, 12-18 € por noche: entre las tarifas más bajas de Europa.`,
+        `Belgrado está a 8 horas de Sofía en tren, 4 horas de Sarajevo en autobús y 6 horas de Budapest en tren directo: punto de partida ideal para un circuito canino balcánico.`,
+      ],
+    },
+  },
+
   berlin: {
     history: {
       fr: `Berlin est la capitale du dog-friendly en Europe — et ce n'est pas un mythe. On estime à 100 000 le nombre de chiens enregistrés dans la ville, avec une « taxe chien » (Hundesteuer) qui finance leur coexistence avec les humains. Berlin est une ville jeune : détruite à 70% pendant la Seconde Guerre mondiale, elle a été reconstruite et réinventée. La réunification de 1989 lui a redonné un élan unique. Aujourd'hui, avec ses 2 500 espaces verts représentant 30% de la surface totale de la ville, ses chiens qui montent librement dans le métro et entrent dans les magasins et les cafés, Berlin offre une qualité de vie canine sans équivalent en Europe.`,

@@ -1,0 +1,885 @@
+{
+  "slug": "belgrade",
+  "name": "Belgrade",
+  "country": "Serbia",
+  "flag": "🇷🇸",
+  "lastUpdated": "2026-04-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Belgrade",
+      "titleFr": "Restaurants acceptant les chiens à Belgrade",
+      "titleEs": "Restaurantes para perros en Belgrado",
+      "introEn": "Belgrade's restaurant scene runs heavily on terraces and Serbian café culture is broadly dog-welcoming outdoors. The Skadarlija bohemian quarter, the Knez Mihailova pedestrian street, and the Dorćol embankment concentrate the densest dog-friendly addresses, with several gastrobars that explicitly welcome dogs indoors year-round. Below are three reliable, verified addresses with confirmed pet policies.",
+      "introFr": "La scène restauration de Belgrade mise beaucoup sur la terrasse et la culture café serbe est largement dog-friendly en extérieur. Le quartier bohème de Skadarlija, la rue piétonne Knez Mihailova et le quai de Dorćol concentrent les adresses dog-friendly les plus denses, avec plusieurs gastrobars qui acceptent explicitement les chiens en intérieur toute l'année. Ci-dessous, trois adresses fiables et vérifiées avec une politique animaux confirmée.",
+      "introEs": "La oferta gastronómica de Belgrado se apoya mucho en la terraza, y la cultura cafetera serbia es ampliamente dog-friendly al aire libre. El barrio bohemio de Skadarlija, la calle peatonal Knez Mihailova y la ribera de Dorćol concentran las direcciones dog-friendly más densas, con varios gastrobares que admiten explícitamente perros en interior todo el año. A continuación, tres direcciones fiables y verificadas con política de mascotas confirmada.",
+      "places": [
+        {
+          "name": "Toro Latin Gastro Bar",
+          "address": "Karadjordjeva 2-4, 11000 Beograd",
+          "neighborhood": "Beton Hala (riverside)",
+          "photo": "/images/city-places/belgrade-restaurants-toro-latin-gastro-bar.jpg",
+          "website": "https://www.torolatingastrobar.com/",
+          "description": "A Latin-American small-plates gastrobar on the Beton Hala riverside, regularly cited as one of Belgrade's most reliably dog-friendly addresses. Dogs join guests on the wraparound terrace overlooking the Sava and inside the front section. Strong steak programme, cocktail bar, and a year-round Sava-river view.",
+          "descriptionFr": "Gastrobar latino-américain à petites assiettes sur le quai de Beton Hala, régulièrement cité parmi les adresses les plus fiables côté chiens à Belgrade. Les chiens accompagnent leurs maîtres sur la terrasse panoramique donnant sur la Sava et dans la partie avant de la salle. Solide programme viandes, bar à cocktails et vue sur la Sava toute l'année.",
+          "descriptionEs": "Gastrobar latinoamericano de raciones pequeñas en la ribera de Beton Hala, citado a menudo entre las direcciones más fiables con perros de Belgrado. Los perros acompañan a sus dueños en la terraza envolvente sobre el Sava y en la parte delantera del interior. Buen programa de carnes, coctelería y vista al Sava todo el año.",
+          "petPolicy": "Dogs welcome on terrace and front indoor section",
+          "petPolicyFr": "Chiens acceptés en terrasse et dans la partie avant de la salle",
+          "petPolicyEs": "Perros admitidos en terraza y en la parte delantera del interior",
+          "priceRange": "€€€",
+          "mustTry": "Argentinian rib-eye, ceviche, signature cocktails",
+          "mustTryFr": "Rib-eye argentin, ceviche, cocktails signature",
+          "mustTryEs": "Rib-eye argentino, ceviche, cócteles de la casa",
+          "openingHours": "Mon–Sun 12:00–01:00",
+          "tip": "Sunset on the terrace is the highlight — book the riverside corner table 48 hours ahead for July and August.",
+          "tipFr": "Le coucher de soleil en terrasse est le moment fort — réservez la table d'angle riveraine 48 heures à l'avance en juillet-août.",
+          "tipEs": "El atardecer en la terraza es lo más destacado: reserva la mesa esquinera junto al río con 48 horas de antelación en julio y agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Toro+Latin+Gastro+Bar+Belgrade"
+        },
+        {
+          "name": "Mama Shelter Restaurant",
+          "address": "Kneza Mihaila 54a, 11000 Beograd",
+          "neighborhood": "Knez Mihailova",
+          "photo": "/images/city-places/belgrade-restaurants-mama-shelter-restaurant.jpg",
+          "website": "https://mamashelter.com/belgrade/",
+          "description": "The flagship rooftop restaurant of Mama Shelter Belgrade, on the central Knez Mihailova pedestrian street. Both the rooftop terrace and the ground-floor brasserie welcome dogs without restriction; dogs are also admitted to the breakfast room. The kitchen runs French-Serbian crossovers and the rooftop view sweeps from Kalemegdan to the New Belgrade skyline.",
+          "descriptionFr": "Restaurant phare en rooftop du Mama Shelter Belgrade, sur la rue piétonne centrale Knez Mihailova. La terrasse rooftop et la brasserie en rez-de-chaussée acceptent les chiens sans restriction ; les chiens sont aussi admis au petit-déjeuner. La cuisine joue les croisements franco-serbes et la vue rooftop balaie de Kalemegdan au skyline de Nouvelle Belgrade.",
+          "descriptionEs": "Restaurante estrella en azotea de Mama Shelter Belgrado, en la calle peatonal central Knez Mihailova. La terraza de azotea y la brasserie de planta baja admiten perros sin restricción; los perros también se admiten en la sala de desayuno. La cocina cruza Francia y Serbia y la vista desde la azotea barre desde Kalemegdan hasta el horizonte de Nueva Belgrado.",
+          "petPolicy": "Dogs welcome on rooftop and ground floor; treats on request",
+          "petPolicyFr": "Chiens acceptés en rooftop et au rez-de-chaussée ; friandises sur demande",
+          "petPolicyEs": "Perros admitidos en la azotea y en planta baja; premios bajo petición",
+          "priceRange": "€€",
+          "mustTry": "Rooftop signature board, weekend brunch, Serbian rakija flight",
+          "mustTryFr": "Planche signature rooftop, brunch du week-end, dégustation de rakija serbe",
+          "mustTryEs": "Tabla estrella de azotea, brunch de fin de semana, cata de rakija serbia",
+          "openingHours": "Mon–Sun 07:00–24:00",
+          "tip": "Take the rooftop just before sunset — staff arrange a corner sofa for a dog and the temperature drops fast after the boom of the church bells at 19:00.",
+          "tipFr": "Privilégiez le rooftop juste avant le coucher du soleil — l'équipe installe un canapé d'angle pour un chien et la température chute vite après les cloches de 19h.",
+          "tipEs": "Sube a la azotea justo antes del atardecer: el equipo coloca un sofá esquinero para el perro y la temperatura baja rápido después de las campanas de las 19:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mama+Shelter+Belgrade"
+        },
+        {
+          "name": "Iguana",
+          "address": "Karadjordjeva 2-4, 11000 Beograd",
+          "neighborhood": "Beton Hala",
+          "photo": "/images/city-places/belgrade-restaurants-iguana.jpg",
+          "website": "https://iguana.rs/",
+          "description": "A Mediterranean-Serbian gastrobar on the Beton Hala strip, popular with the local creative crowd. Dogs are welcome on the riverside terrace and the front lounge area; staff bring out water bowls without being asked. The kitchen leans toward seafood and Mediterranean grills, with a strong Adriatic wine list.",
+          "descriptionFr": "Gastrobar méditerranéo-serbe sur la bande de Beton Hala, fréquenté par les créatifs locaux. Les chiens sont les bienvenus sur la terrasse riveraine et dans la partie lounge avant ; le personnel apporte spontanément des gamelles d'eau. La cuisine privilégie produits de la mer et grillades méditerranéennes, avec une solide carte des vins adriatiques.",
+          "descriptionEs": "Gastrobar mediterráneo-serbio en la franja de Beton Hala, popular entre el público creativo local. Los perros son bienvenidos en la terraza ribereña y en la zona de lounge delantera; el personal trae cuencos de agua sin pedirlo. La cocina apuesta por mariscos y parrilla mediterránea, con una sólida carta de vinos adriáticos.",
+          "petPolicy": "Dogs welcome on terrace and front lounge; water bowls provided",
+          "petPolicyFr": "Chiens acceptés en terrasse et dans le lounge avant ; gamelles d'eau fournies",
+          "petPolicyEs": "Perros admitidos en terraza y lounge delantero; cuencos de agua disponibles",
+          "priceRange": "€€",
+          "mustTry": "Adriatic seafood platter, grilled octopus, Croatian Pošip wine",
+          "mustTryFr": "Plateau de fruits de mer adriatiques, poulpe grillé, vin croate Pošip",
+          "mustTryEs": "Tabla de mariscos adriáticos, pulpo a la parrilla, vino croata Pošip",
+          "openingHours": "Mon–Sun 11:00–24:00",
+          "tip": "Friday and Saturday evenings get loud — Sunday lunch is the calmest moment with a dog at your feet.",
+          "tipFr": "Les vendredis et samedis soirs sont bruyants — le déjeuner du dimanche est le moment le plus calme avec un chien aux pieds.",
+          "tipEs": "Los viernes y sábados por la noche son ruidosos: el almuerzo del domingo es el momento más tranquilo con un perro a los pies.",
+          "googleMapsUrl": "https://maps.google.com/?q=Iguana+Belgrade"
+        }
+      ],
+      "tipsEn": [
+        "Outdoor terraces in Belgrade are universally dog-welcoming; indoor seating is the venue's call. Independent cafés say yes most of the time, chains less so.",
+        "Skadarlija (the bohemian quarter), Knez Mihailova, and the Beton Hala riverside concentrate the densest dog-friendly food strips.",
+        "Serbian restaurants don't tip-include — leave 10% in cash for the waiter, especially if they brought a water bowl unprompted."
+      ],
+      "tipsFr": [
+        "Les terrasses extérieures à Belgrade sont universellement dog-friendly ; en salle, c'est à la discrétion de l'établissement. Les cafés indépendants disent oui la plupart du temps, les chaînes moins.",
+        "Skadarlija (le quartier bohème), Knez Mihailova et le quai de Beton Hala concentrent les rues les plus dog-friendly.",
+        "Les restaurants serbes n'incluent pas le service — laissez 10 % en liquide au serveur, surtout s'il a apporté une gamelle d'eau spontanément."
+      ],
+      "tipsEs": [
+        "Las terrazas exteriores en Belgrado son universalmente dog-friendly; en interior depende del local. Los cafés independientes dicen sí la mayor parte del tiempo, las cadenas menos.",
+        "Skadarlija (el barrio bohemio), Knez Mihailova y la ribera de Beton Hala concentran las calles más dog-friendly.",
+        "Los restaurantes serbios no incluyen servicio: deja un 10 % en efectivo al camarero, sobre todo si trajo el cuenco de agua sin pedirlo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Belgrade restaurants?",
+          "a": "Outdoor terraces are universally dog-welcoming; indoor admittance is venue-specific. Independent cafés say yes most of the time, but high-end restaurants and chains often restrict pets to the terrace."
+        },
+        {
+          "q": "Do Belgrade cafés provide water bowls?",
+          "a": "Most dog-friendly venues do, including Toro, Iguana, and Mama Shelter. A collapsible bowl is still useful for hopping between addresses."
+        },
+        {
+          "q": "Where are the most pet-friendly food strips in Belgrade?",
+          "a": "Skadarlija, Knez Mihailova, and Beton Hala riverside. The Dorćol embankment also has a long row of dog-tolerant terrace cafés that catch the morning sun."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les restaurants de Belgrade ?",
+          "a": "Les terrasses extérieures sont universellement dog-friendly ; en salle, ça dépend de l'établissement. Les cafés indépendants disent oui la plupart du temps, mais les restaurants haut de gamme et les chaînes limitent souvent les animaux à la terrasse."
+        },
+        {
+          "q": "Les cafés de Belgrade fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des adresses dog-friendly oui, y compris Toro, Iguana et Mama Shelter. Une gamelle pliable reste utile entre deux adresses."
+        },
+        {
+          "q": "Où trouver les rues les plus pet-friendly à Belgrade ?",
+          "a": "Skadarlija, Knez Mihailova et le quai de Beton Hala. Le quai de Dorćol aligne aussi une longue rangée de cafés-terrasses dog-tolerants qui captent le soleil du matin."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Belgrado?",
+          "a": "Las terrazas exteriores son universalmente dog-friendly; en interior depende del local. Los cafés independientes dicen sí la mayor parte del tiempo, pero los restaurantes de alta gama y las cadenas suelen limitar las mascotas a la terraza."
+        },
+        {
+          "q": "¿Los cafés de Belgrado ofrecen cuencos de agua?",
+          "a": "La mayoría de los locales dog-friendly sí, incluidos Toro, Iguana y Mama Shelter. Un cuenco plegable sigue siendo útil entre direcciones."
+        },
+        {
+          "q": "¿Dónde están las calles más pet-friendly de Belgrado?",
+          "a": "Skadarlija, Knez Mihailova y la ribera de Beton Hala. La ribera de Dorćol también alinea una larga hilera de cafés-terraza dog-tolerantes que atrapan el sol de la mañana."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Belgrade",
+      "titleFr": "Meilleurs parcs pour chiens à Belgrade",
+      "titleEs": "Mejores parques para perros en Belgrado",
+      "introEn": "Belgrade sits at the confluence of the Sava and Danube rivers, and the city's parks reflect that geography: Kalemegdan fortress on the headland, Ada Ciganlija on a Sava-island peninsula, and Topčider in the southern hills. Several fenced municipal dog parks have opened in the last five years, and the standard rule on city streets is leash plus a basket muzzle for dangerous breeds. Always carry bags — the city enforces fines for fouling.",
+      "introFr": "Belgrade s'étend à la confluence de la Sava et du Danube, et les parcs de la ville reflètent cette géographie : la forteresse de Kalemegdan sur le promontoire, Ada Ciganlija sur une presqu'île de la Sava, et Topčider dans les collines sud. Plusieurs parcs canins municipaux clôturés ont ouvert ces cinq dernières années, et la règle dans les rues est laisse plus muselière panier pour les races dangereuses. Emportez toujours des sachets — la ville verbalise.",
+      "introEs": "Belgrado se asienta en la confluencia del Sava y el Danubio, y sus parques reflejan esa geografía: la fortaleza de Kalemegdan en el promontorio, Ada Ciganlija en una península del Sava y Topčider en las colinas del sur. En los últimos cinco años han abierto varios parques caninos municipales vallados, y la regla en las calles es correa más bozal tipo cesta para las razas peligrosas. Lleva siempre bolsas: la ciudad sanciona.",
+      "places": [
+        {
+          "name": "Kalemegdan Fortress Park",
+          "address": "Kalemegdan, 11000 Beograd",
+          "neighborhood": "Stari Grad (city centre headland)",
+          "photo": "/images/city-places/belgrade-parks-kalemegdan-fortress-park.jpg",
+          "website": "https://beogradskatvrdjava.co.rs/en/",
+          "description": "Belgrade's flagship green space — 60 hectares of park and Roman / medieval / Ottoman fortifications on the headland where the Sava meets the Danube. Dogs on leash are welcome throughout the open ramparts, the Lower Town, and the surrounding alleys; the museum interiors admit only assistance dogs. The headland is the city's classic sunset photo spot.",
+          "descriptionFr": "Espace vert phare de Belgrade — 60 hectares de parc et de fortifications romaines / médiévales / ottomanes sur le promontoire où la Sava rejoint le Danube. Les chiens en laisse sont les bienvenus sur les remparts ouverts, la Ville Basse et les ruelles alentour ; les intérieurs des musées n'admettent que les chiens d'assistance. Le promontoire est le spot photo classique du coucher de soleil.",
+          "descriptionEs": "El espacio verde estrella de Belgrado: 60 hectáreas de parque y fortificaciones romanas / medievales / otomanas en el promontorio donde el Sava se une al Danubio. Los perros con correa son bienvenidos en las murallas abiertas, la Ciudad Baja y los callejones alrededor; los interiores de los museos solo admiten perros de asistencia. El promontorio es el punto clásico de foto al atardecer.",
+          "size": "60 hectares",
+          "fenced": false,
+          "amenities": [
+            "Sunset viewpoint",
+            "Drinking fountains",
+            "Mature shade",
+            "Adjacent to Knez Mihailova"
+          ],
+          "amenitiesFr": [
+            "Belvédère du coucher de soleil",
+            "Fontaines d'eau",
+            "Ombre des arbres anciens",
+            "Adjacent à Knez Mihailova"
+          ],
+          "amenitiesEs": [
+            "Mirador del atardecer",
+            "Fuentes de agua",
+            "Sombra de árboles maduros",
+            "Adyacente a Knez Mihailova"
+          ],
+          "openingHours": "24/7",
+          "tip": "Walk in from the Knez Mihailova end at dusk — the lit ramparts open up onto the Danube confluence panorama within five minutes.",
+          "tipFr": "Entrez depuis le bout de Knez Mihailova au crépuscule — les remparts éclairés s'ouvrent sur le panorama de la confluence du Danube en cinq minutes.",
+          "tipEs": "Entra por el extremo de Knez Mihailova al atardecer: las murallas iluminadas se abren sobre el panorama de la confluencia del Danubio en cinco minutos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kalemegdan+Belgrade"
+        },
+        {
+          "name": "Ada Ciganlija",
+          "address": "Ada Ciganlija, 11030 Beograd",
+          "neighborhood": "Čukarica (Sava peninsula)",
+          "photo": "/images/city-places/belgrade-parks-ada-ciganlija.jpg",
+          "website": "https://www.adaciganlija.rs/",
+          "description": "An artificial peninsula on the Sava river, 800 hectares of forest, lakes, and beaches that locals call 'Belgrade's sea'. The eastern end has a designated dog beach where pets swim freely all year; the wider park is dog-tolerant, with leash technically required but widely relaxed in practice. A summer beer-garden tradition draws dog owners every weekend.",
+          "descriptionFr": "Presqu'île artificielle sur la Sava, 800 hectares de forêt, lacs et plages que les habitants surnomment 'la mer de Belgrade'. L'extrémité est abrite une plage canine désignée où les animaux nagent librement toute l'année ; le reste du parc est dog-tolerant, laisse techniquement requise mais largement souple en pratique. Une tradition de beer-garden estival attire les propriétaires de chiens chaque week-end.",
+          "descriptionEs": "Península artificial en el Sava, 800 hectáreas de bosque, lagos y playas que los locales llaman 'el mar de Belgrado'. El extremo este tiene una playa canina designada donde las mascotas se bañan libremente todo el año; el resto del parque es dog-tolerante, correa técnicamente obligatoria pero ampliamente flexible en la práctica. Una tradición de beer-garden estival atrae a dueños de perros cada fin de semana.",
+          "size": "800 hectares",
+          "fenced": false,
+          "amenities": [
+            "Year-round dog beach",
+            "Cycling paths",
+            "Beer gardens (summer)",
+            "Bus 53/56 access"
+          ],
+          "amenitiesFr": [
+            "Plage canine toute l'année",
+            "Pistes cyclables",
+            "Beer gardens (été)",
+            "Accès bus 53/56"
+          ],
+          "amenitiesEs": [
+            "Playa canina todo el año",
+            "Carriles bici",
+            "Beer gardens (verano)",
+            "Acceso con bus 53/56"
+          ],
+          "openingHours": "24/7",
+          "tip": "Combine the dog beach with a 6 km cycling loop around the peninsula — bike rentals are at the main entrance.",
+          "tipFr": "Combinez la plage canine avec une boucle cyclable de 6 km autour de la presqu'île — la location de vélos est à l'entrée principale.",
+          "tipEs": "Combina la playa canina con un circuito ciclista de 6 km por la península: el alquiler de bicis está en la entrada principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ada+Ciganlija+Belgrade"
+        },
+        {
+          "name": "Tašmajdan Park",
+          "address": "Beogradska, 11000 Beograd",
+          "neighborhood": "Stari Grad",
+          "photo": "/images/city-places/belgrade-parks-tasmajdan-park.jpg",
+          "website": "https://www.beograd.rs/en/",
+          "description": "A 9-hectare central park around the St Mark's Church, with a fenced municipal dog park on the south side that opened in 2018. Mature plane trees, gravel paths, and several café-kiosks; the dog enclosure has agility equipment and water taps. Three blocks east of the Skadarlija bohemian quarter.",
+          "descriptionFr": "Parc central de 9 hectares autour de l'église Saint-Marc, avec un parc canin municipal clôturé du côté sud, ouvert en 2018. Platanes anciens, allées de gravier et plusieurs kiosques-cafés ; l'enclos canin dispose d'agility et de robinets. À trois pâtés de maisons à l'est de Skadarlija.",
+          "descriptionEs": "Parque central de 9 hectáreas en torno a la iglesia de San Marcos, con un parque canino municipal vallado en el lado sur, inaugurado en 2018. Plátanos maduros, paseos de grava y varios kioskos-café; el recinto canino tiene agility y fuentes. A tres manzanas al este de Skadarlija.",
+          "size": "9 hectares",
+          "fenced": true,
+          "amenities": [
+            "Fenced dog enclosure",
+            "Agility equipment",
+            "Water taps",
+            "Café-kiosks"
+          ],
+          "amenitiesFr": [
+            "Enclos canin clôturé",
+            "Agility",
+            "Robinets d'eau",
+            "Kiosques-cafés"
+          ],
+          "amenitiesEs": [
+            "Recinto canino vallado",
+            "Equipo de agility",
+            "Fuentes",
+            "Kioskos-café"
+          ],
+          "openingHours": "24/7",
+          "tip": "Sundays at 09:00 see informal dog meet-ups in the fenced enclosure — a friendly way to chat with local owners.",
+          "tipFr": "Les dimanches à 9h, des rencontres canines informelles ont lieu dans l'enclos — un moyen sympathique de discuter avec les propriétaires locaux.",
+          "tipEs": "Los domingos a las 09:00 se organizan encuentros caninos informales en el recinto: una forma amable de charlar con dueños locales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tasmajdan+Park+Belgrade"
+        }
+      ],
+      "tipsEn": [
+        "Serbian law requires a leash on city streets and a basket muzzle for breeds classified as dangerous; off-leash use is tolerated only inside marked enclosures and on Ada Ciganlija's dog beach.",
+        "The Belgrade municipality has built dozens of fenced dog parks since 2018 — every district has at least one. Tašmajdan, Topčider, and Zvezdara are the central trio.",
+        "Carry a foldable water bowl in summer — fountains exist but are sparse, and Belgrade gets very hot from June to August."
+      ],
+      "tipsFr": [
+        "La loi serbe impose la laisse dans les rues et la muselière panier pour les races classées dangereuses ; le sans laisse n'est toléré que dans les enclos balisés et sur la plage canine d'Ada Ciganlija.",
+        "La mairie de Belgrade a construit des dizaines de parcs canins clôturés depuis 2018 — chaque arrondissement en a au moins un. Tašmajdan, Topčider et Zvezdara forment le trio central.",
+        "Emportez une gamelle pliable l'été — les fontaines existent mais sont rares, et Belgrade devient très chaude de juin à août."
+      ],
+      "tipsEs": [
+        "La ley serbia exige correa en las calles y bozal tipo cesta para las razas clasificadas como peligrosas; soltarlos solo se tolera dentro de recintos marcados y en la playa canina de Ada Ciganlija.",
+        "El ayuntamiento de Belgrado ha construido decenas de parques caninos vallados desde 2018: cada distrito tiene al menos uno. Tašmajdan, Topčider y Zvezdara forman el trío central.",
+        "Lleva un cuenco plegable en verano: hay fuentes pero son escasas, y Belgrado se pone muy calurosa de junio a agosto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run completely off-leash in Belgrade?",
+          "a": "The Tašmajdan fenced enclosure, Topčider Park, and Ada Ciganlija's dog beach. Dozens of smaller fenced municipal dog parks have opened since 2018 across the districts."
+        },
+        {
+          "q": "Are dogs allowed inside Kalemegdan?",
+          "a": "Yes, on a leash, throughout the open ramparts, the Lower Town, and the parkland. Only the museum interiors and the indoor exhibitions admit assistance dogs only."
+        },
+        {
+          "q": "Is Ada Ciganlija a real dog beach?",
+          "a": "Yes — the eastern end of the peninsula has a marked dog-only beach that operates year-round, with calm Sava-river water and direct shade from the surrounding forest."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Belgrade ?",
+          "a": "L'enclos clôturé de Tašmajdan, le parc Topčider et la plage canine d'Ada Ciganlija. Des dizaines de petits parcs canins municipaux clôturés ont ouvert depuis 2018 à travers les arrondissements."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés à l'intérieur de Kalemegdan ?",
+          "a": "Oui, en laisse, sur les remparts ouverts, la Ville Basse et le parc. Seuls les intérieurs des musées et les expositions n'admettent que les chiens d'assistance."
+        },
+        {
+          "q": "Ada Ciganlija est-elle une vraie plage canine ?",
+          "a": "Oui — l'extrémité est de la presqu'île dispose d'une plage exclusivement canine balisée, ouverte toute l'année, avec une eau calme de la Sava et l'ombre directe de la forêt environnante."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Belgrado?",
+          "a": "El recinto vallado de Tašmajdan, el parque Topčider y la playa canina de Ada Ciganlija. Desde 2018 han abierto decenas de parques caninos municipales vallados más pequeños por los distritos."
+        },
+        {
+          "q": "¿Se admiten perros dentro de Kalemegdan?",
+          "a": "Sí, con correa, en las murallas abiertas, la Ciudad Baja y el parque. Solo los interiores de los museos y las exposiciones admiten únicamente perros de asistencia."
+        },
+        {
+          "q": "¿Es Ada Ciganlija una playa canina de verdad?",
+          "a": "Sí: el extremo este de la península tiene una playa canina señalizada que opera todo el año, con agua tranquila del Sava y sombra directa del bosque circundante."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Belgrade",
+      "titleFr": "Transports acceptant les animaux à Belgrade",
+      "titleEs": "Transporte para mascotas en Belgrado",
+      "introEn": "Belgrade public transport works on an unusual rule: the city's GSP buses do not accept pet dogs at all (only service dogs), but trams and trolleybuses do, and ŽS national rail accepts dogs with a half-fare ticket. Public transport in Belgrade has been free since January 2025, which simplifies the visitor experience. Bolt and CarGo are the dominant ride-hailing apps and accept dogs at the driver's discretion.",
+      "introFr": "Le transport public de Belgrade fonctionne sur une règle inhabituelle : les bus GSP de la ville n'acceptent pas les chiens (sauf chiens d'assistance), mais les trams et trolleybus oui, et le rail national ŽS accepte les chiens avec un ticket demi-tarif. Le transport public à Belgrade est gratuit depuis janvier 2025, ce qui simplifie l'expérience visiteur. Bolt et CarGo sont les applis VTC dominantes et acceptent les chiens à la discrétion du chauffeur.",
+      "introEs": "El transporte público de Belgrado funciona con una regla inusual: los autobuses GSP de la ciudad no admiten perros (solo perros de asistencia), pero los tranvías y trolebuses sí, y el ferrocarril nacional ŽS admite perros con billete a mitad de precio. El transporte público en Belgrado es gratuito desde enero de 2025, lo que simplifica la experiencia del visitante. Bolt y CarGo son las apps de VTC dominantes y aceptan perros a discreción del conductor.",
+      "places": [
+        {
+          "name": "GSP trams & trolleybuses",
+          "address": "Citywide; main hub at Slavija and Trg Republike",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/belgrade-transport-gsp-trams-trolleybuses.jpg",
+          "website": "https://www.gsp.rs/",
+          "description": "Belgrade's tram and trolleybus network is the most useful pet-friendly option in the city. Pets in carriers ride free; large dogs need a leash and a basket muzzle if they are a regulated breed. Buses are off-limits to non-service dogs by city ordinance, so plan around them. Tram 2 (Pančevački most loop) and trolleybus 19 reach most central tourist spots.",
+          "descriptionFr": "Le réseau de trams et trolleybus de Belgrade est l'option la plus utile et dog-friendly de la ville. Les animaux en panier voyagent gratuitement ; les grands chiens ont besoin d'une laisse et d'une muselière panier s'ils sont d'une race réglementée. Les bus sont interdits aux chiens non-assistance par règlement municipal, à anticiper. Le tram 2 (boucle Pančevački most) et le trolleybus 19 desservent la plupart des points touristiques centraux.",
+          "descriptionEs": "La red de tranvías y trolebuses de Belgrado es la opción dog-friendly más útil de la ciudad. Las mascotas en transportín viajan gratis; los perros grandes necesitan correa y bozal tipo cesta si son de una raza regulada. Los autobuses están prohibidos a los perros no de asistencia por ordenanza municipal: planifícalo. El tranvía 2 (vuelta Pančevački most) y el trolebús 19 llegan a la mayoría de los puntos turísticos del centro.",
+          "petPolicy": "Pets in carrier free; leashed dogs welcome on trams and trolleybuses; buses ban non-service dogs",
+          "petPolicyFr": "Animaux en panier gratuits ; chiens en laisse acceptés en trams et trolleybus ; bus interdits aux chiens non-assistance",
+          "petPolicyEs": "Mascotas en transportín gratis; perros con correa admitidos en tranvías y trolebuses; los autobuses prohíben perros no de asistencia",
+          "openingHours": "First service ~04:30, last ~24:00",
+          "tip": "Trams 2 and 13 form a 30-minute loop covering Kalemegdan, Beton Hala, Skadarlija, and the train station — the city's most useful dog-friendly transit ride.",
+          "tipFr": "Les trams 2 et 13 forment une boucle de 30 minutes qui couvre Kalemegdan, Beton Hala, Skadarlija et la gare — le trajet dog-friendly le plus utile de la ville.",
+          "tipEs": "Los tranvías 2 y 13 forman un circuito de 30 minutos que cubre Kalemegdan, Beton Hala, Skadarlija y la estación de tren: el trayecto dog-friendly más útil de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trg+Republike+Belgrade"
+        }
+      ],
+      "tipsEn": [
+        "Belgrade is the unusual European capital where city buses ban non-service pet dogs — use trams and trolleybuses instead.",
+        "ŽS national trains accept dogs at half second-class fare with a leash, basket muzzle, and a vaccination booklet. Small dogs in a carrier travel free.",
+        "Bolt is the dominant ride-hailing app; mention 'pas' (dog) when booking — most drivers accept and tipping 50 dinars (~€0.40) is standard."
+      ],
+      "tipsFr": [
+        "Belgrade est la capitale européenne inhabituelle où les bus de ville interdisent les chiens non-assistance — utilisez trams et trolleybus à la place.",
+        "Les trains nationaux ŽS acceptent les chiens au demi-tarif seconde classe avec laisse, muselière panier et carnet de vaccination. Les petits chiens en panier voyagent gratuitement.",
+        "Bolt est l'appli VTC dominante ; mentionnez 'pas' (chien) à la réservation — la plupart des chauffeurs acceptent et un pourboire de 50 dinars (~0,40 €) est la norme."
+      ],
+      "tipsEs": [
+        "Belgrado es la inusual capital europea donde los autobuses urbanos prohíben perros no de asistencia: usa tranvías y trolebuses en su lugar.",
+        "Los trenes nacionales ŽS admiten perros a mitad de precio en segunda clase con correa, bozal tipo cesta y cartilla de vacunación. Los perros pequeños en transportín viajan gratis.",
+        "Bolt es la app de VTC dominante; menciona 'pas' (perro) al reservar: la mayoría de los conductores aceptan y dejar 50 dinares (~0,40 €) de propina es la norma."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on a Belgrade bus?",
+          "a": "Only service dogs are allowed on GSP city buses. Use trams or trolleybuses for citywide travel with a leashed pet."
+        },
+        {
+          "q": "Is Belgrade public transport really free?",
+          "a": "Yes — since 1 January 2025, Belgrade is the largest European capital with a free public-transport network. The free policy applies to trams, trolleybuses, and city buses."
+        },
+        {
+          "q": "Can I take my dog on a train from Belgrade to Novi Sad?",
+          "a": "Yes — ŽS national rail accepts leashed and muzzled dogs at half second-class fare. Bring the EU pet passport. Small dogs in a carrier travel free."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre mon chien dans un bus de Belgrade ?",
+          "a": "Seuls les chiens d'assistance sont autorisés dans les bus GSP. Utilisez trams ou trolleybus pour vos déplacements en ville avec un chien en laisse."
+        },
+        {
+          "q": "Le transport public de Belgrade est-il vraiment gratuit ?",
+          "a": "Oui — depuis le 1er janvier 2025, Belgrade est la plus grande capitale européenne avec un réseau public gratuit. La gratuité s'applique aux trams, trolleybus et bus de ville."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un train de Belgrade à Novi Sad ?",
+          "a": "Oui — le rail national ŽS accepte les chiens en laisse et muselés au demi-tarif seconde classe. Apportez le passeport européen. Les petits chiens en panier voyagent gratuitement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en un autobús de Belgrado?",
+          "a": "Solo los perros de asistencia se admiten en los autobuses GSP. Usa tranvías o trolebuses para moverte por la ciudad con un perro con correa."
+        },
+        {
+          "q": "¿Es realmente gratis el transporte público de Belgrado?",
+          "a": "Sí: desde el 1 de enero de 2025, Belgrado es la mayor capital europea con red pública gratuita. La gratuidad se aplica a tranvías, trolebuses y autobuses urbanos."
+        },
+        {
+          "q": "¿Puedo llevar al perro en tren de Belgrado a Novi Sad?",
+          "a": "Sí: el ferrocarril nacional ŽS admite perros con correa y bozal a mitad de precio en segunda clase. Lleva el pasaporte europeo. Los perros pequeños en transportín viajan gratis."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches & Riverfronts in Belgrade",
+      "titleFr": "Plages et bords de l'eau dog-friendly à Belgrade",
+      "titleEs": "Playas y riberas dog-friendly en Belgrado",
+      "introEn": "Belgrade sits 600 km from the Adriatic, but its position at the Sava–Danube confluence gives it a string of urban beaches and lake-shore options. Ada Ciganlija is the headline dog beach (year-round, central); the Danube embankment in Zemun adds a secondary leashed walk; and Lake Sava 30 km south offers a forest-and-water day trip. Most Belgrade water access is free and dog-tolerant — the regulated commercial lidos are the main exception.",
+      "introFr": "Belgrade est à 600 km de l'Adriatique, mais sa position à la confluence Sava-Danube lui donne une succession de plages urbaines et d'options en bord de lac. Ada Ciganlija est la plage canine phare (toute l'année, centrale) ; le quai du Danube à Zemun ajoute une promenade secondaire en laisse ; et le lac de la Sava à 30 km au sud offre une excursion forêt-et-eau à la journée. La plupart des accès à l'eau de Belgrade sont gratuits et dog-tolerants — les lidos commerciaux réglementés sont la principale exception.",
+      "introEs": "Belgrado está a 600 km del Adriático, pero su posición en la confluencia del Sava y el Danubio le da una sucesión de playas urbanas y opciones junto a lagos. Ada Ciganlija es la playa canina principal (todo el año, céntrica); el muelle del Danubio en Zemun añade un paseo secundario con correa; y el lago Sava, a 30 km al sur, ofrece una excursión de bosque y agua de día completo. La mayoría de los accesos al agua de Belgrado son gratuitos y dog-tolerantes; los lidos comerciales regulados son la principal excepción.",
+      "places": [
+        {
+          "name": "Ada Ciganlija Dog Beach",
+          "address": "Ada Ciganlija eastern peninsula, 11030 Beograd",
+          "neighborhood": "Čukarica",
+          "photo": "/images/city-places/belgrade-beaches-ada-ciganlija-dog-beach.jpg",
+          "website": "https://www.adaciganlija.rs/",
+          "description": "The dedicated dog beach on the eastern end of the Ada Ciganlija peninsula — a marked stretch of Sava-river shore where dogs can swim off-leash year-round. Calm water, gravel mixed with sand underfoot, and direct shade from the surrounding pine forest. The peninsula's wider 6 km lakeside cycling loop is leash-friendly.",
+          "descriptionFr": "Plage canine dédiée à l'extrémité est de la presqu'île d'Ada Ciganlija — portion balisée de la rive de la Sava où les chiens nagent sans laisse toute l'année. Eau calme, gravier mêlé de sable, ombre directe de la pinède environnante. La boucle cyclable de 6 km autour de la presqu'île est accessible en laisse.",
+          "descriptionEs": "Playa canina dedicada en el extremo este de la península de Ada Ciganlija: tramo señalizado de la orilla del Sava donde los perros se bañan sin correa todo el año. Agua tranquila, grava mezclada con arena en el suelo, sombra directa del pinar circundante. El circuito ciclista de 6 km alrededor de la península es accesible con correa.",
+          "petPolicy": "Off-leash year-round on the marked dog beach",
+          "petPolicyFr": "Sans laisse toute l'année sur la plage canine balisée",
+          "petPolicyEs": "Sin correa todo el año en la playa canina marcada",
+          "openingHours": "24/7",
+          "tip": "Best between 17:00 and 19:00 in summer — locals drift in after work and the water temperature peaks before sunset.",
+          "tipFr": "Idéal entre 17h et 19h l'été — les habitants arrivent après le bureau et la température de l'eau culmine avant le coucher du soleil.",
+          "tipEs": "Mejor entre las 17:00 y las 19:00 en verano: los locales llegan después del trabajo y la temperatura del agua alcanza su pico antes del atardecer.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ada+Ciganlija+dog+beach"
+        },
+        {
+          "name": "Zemun Quay (Zemunski kej)",
+          "address": "Zemunski kej, 11080 Zemun",
+          "neighborhood": "Zemun (Danube embankment)",
+          "photo": "/images/city-places/belgrade-beaches-zemun-quay-zemunski-kej.jpg",
+          "website": "https://www.beograd.rs/en/",
+          "description": "A 5 km Danube riverfront promenade in the historic Zemun district, ten minutes by tram from the centre. The full length is leash-friendly; informal dog swim points exist where the path drops directly to gravel beaches. Pedestrians, runners, and cyclists share the path, but dogs are part of the daily local scenery.",
+          "descriptionFr": "Promenade du Danube de 5 km dans le quartier historique de Zemun, à dix minutes en tram du centre. Toute la longueur est accessible en laisse ; des points de baignade canins informels existent là où le sentier descend directement sur des plages de graviers. Piétons, joggeurs et cyclistes partagent le chemin, mais les chiens font partie du quotidien.",
+          "descriptionEs": "Paseo del Danubio de 5 km en el histórico distrito de Zemun, a diez minutos en tranvía del centro. Toda su longitud es accesible con correa; hay puntos informales de baño canino donde el sendero baja directamente a playas de grava. Peatones, corredores y ciclistas comparten el camino, pero los perros forman parte del día a día.",
+          "petPolicy": "Dogs welcome on leash; informal swim points along the path",
+          "petPolicyFr": "Chiens acceptés en laisse ; points de baignade informels le long du sentier",
+          "petPolicyEs": "Perros admitidos con correa; puntos informales de baño junto al sendero",
+          "openingHours": "24/7",
+          "tip": "Take tram 7 or 11 to Gardoš and walk down to the quay — the Gardoš tower view is one of Belgrade's photo classics.",
+          "tipFr": "Prenez le tram 7 ou 11 jusqu'à Gardoš et descendez au quai — la vue depuis la tour de Gardoš est l'une des photos classiques de Belgrade.",
+          "tipEs": "Toma el tranvía 7 u 11 hasta Gardoš y baja al muelle: la vista desde la torre de Gardoš es una de las fotos clásicas de Belgrado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Zemunski+kej+Belgrade"
+        },
+        {
+          "name": "Lake Sava (Avala foothills)",
+          "address": "Lake Sava, Avala, 11226 Beograd",
+          "neighborhood": "Avala (30 km south)",
+          "photo": "/images/city-places/belgrade-beaches-lake-sava-avala-foothills.jpg",
+          "website": "https://www.beograd.rs/en/",
+          "description": "A natural forest lake in the Avala foothills, about 30 km south of central Belgrade, with sand-and-gravel shores and dense beech and oak forest. Dogs are welcome on a leash on all marked paths, and on the public shores year-round; off-leash use is tolerated when the lake is quiet (October to May, weekday mornings).",
+          "descriptionFr": "Lac forestier naturel dans les contreforts de l'Avala, à environ 30 km au sud du centre de Belgrade, avec rives de sable et gravier et dense forêt de hêtres et chênes. Chiens acceptés en laisse sur tous les sentiers balisés et les rives publiques toute l'année ; le sans laisse est toléré quand le lac est calme (octobre à mai, matins en semaine).",
+          "descriptionEs": "Lago natural forestal en las estribaciones de Avala, a unos 30 km al sur del centro de Belgrado, con orillas de arena y grava y denso bosque de hayas y robles. Perros admitidos con correa en todos los senderos señalizados y en las orillas públicas todo el año; soltarlos se tolera cuando el lago está tranquilo (octubre a mayo, mañanas entre semana).",
+          "petPolicy": "Dogs welcome on leash year-round; off-leash tolerated when quiet",
+          "petPolicyFr": "Chiens acceptés en laisse toute l'année ; sans laisse toléré quand c'est calme",
+          "petPolicyEs": "Perros admitidos con correa todo el año; sin correa tolerado cuando hay poca gente",
+          "openingHours": "24/7",
+          "tip": "Combine with the Avala Tower hike — a 4 km uphill loop with the tower viewpoint (no pets inside) at the summit.",
+          "tipFr": "Combinez avec la randonnée de la tour Avala — boucle de 4 km en montée avec le belvédère de la tour (sans animaux à l'intérieur) au sommet.",
+          "tipEs": "Combínalo con la subida a la torre Avala: circuito de 4 km en ascenso con el mirador de la torre (sin mascotas en el interior) en la cima.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lake+Sava+Avala"
+        }
+      ],
+      "tipsEn": [
+        "Belgrade has no sea-coast access — the closest dog beaches are on Ada Ciganlija and Lake Sava. The Adriatic is six hours by car or train (Croatia or Montenegro).",
+        "Mountain reservoir water at Lake Sava can stay cold even in August; check temperature before letting a small or short-haired dog swim.",
+        "The Danube and Sava rivers have strong currents in central Belgrade — only let dogs swim at marked spots like the Ada Ciganlija dog beach."
+      ],
+      "tipsFr": [
+        "Belgrade n'a pas d'accès direct à la mer — les plages canines les plus proches sont à Ada Ciganlija et au lac de la Sava. L'Adriatique est à six heures en voiture ou en train (Croatie ou Monténégro).",
+        "L'eau du lac de la Sava peut rester froide même en août ; vérifiez la température avant de laisser un petit chien ou un chien à poil court se baigner.",
+        "Le Danube et la Sava ont de forts courants en plein Belgrade — ne laissez les chiens se baigner qu'aux spots balisés comme la plage canine d'Ada Ciganlija."
+      ],
+      "tipsEs": [
+        "Belgrado no tiene acceso directo al mar: las playas caninas más cercanas son Ada Ciganlija y el lago Sava. El Adriático está a seis horas en coche o tren (Croacia o Montenegro).",
+        "El agua del lago Sava puede mantenerse fría incluso en agosto; comprueba la temperatura antes de dejar bañarse a un perro pequeño o de pelo corto.",
+        "El Danubio y el Sava tienen fuertes corrientes en pleno Belgrado: deja bañarse al perro solo en los puntos señalizados, como la playa canina de Ada Ciganlija."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog swim in the Sava in Belgrade?",
+          "a": "Only at the marked Ada Ciganlija dog beach. The wider river current is too strong elsewhere — head to Lake Sava (Avala) for safer forest-lake swimming."
+        },
+        {
+          "q": "Is there a real dog beach near Belgrade?",
+          "a": "Yes — the Ada Ciganlija dog beach on the eastern peninsula is a designated, marked dog-only beach that operates year-round. It is the city's standard answer for a swim with a dog."
+        },
+        {
+          "q": "Are dogs allowed at Belgrade's commercial lidos?",
+          "a": "Most commercial lidos restrict pets in summer (mid-June to mid-September). Use the free public sections of Ada Ciganlija and Lake Sava instead — they accept dogs year-round."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il se baigner dans la Sava à Belgrade ?",
+          "a": "Uniquement sur la plage canine balisée d'Ada Ciganlija. Le courant principal du fleuve est trop fort ailleurs — allez au lac de la Sava (Avala) pour une baignade forestière plus sûre."
+        },
+        {
+          "q": "Y a-t-il une vraie plage canine près de Belgrade ?",
+          "a": "Oui — la plage canine d'Ada Ciganlija sur la presqu'île est est une plage exclusivement canine balisée, ouverte toute l'année. C'est la réponse standard de la ville pour une baignade avec un chien."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur les lidos commerciaux de Belgrade ?",
+          "a": "La plupart des lidos commerciaux limitent les animaux l'été (mi-juin à mi-septembre). Utilisez plutôt les sections publiques gratuites d'Ada Ciganlija et du lac de la Sava — elles acceptent les chiens toute l'année."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro bañarse en el Sava en Belgrado?",
+          "a": "Solo en la playa canina señalizada de Ada Ciganlija. La corriente principal del río es demasiado fuerte en otros tramos: ve al lago Sava (Avala) para un baño forestal más seguro."
+        },
+        {
+          "q": "¿Hay una playa canina real cerca de Belgrado?",
+          "a": "Sí: la playa canina de Ada Ciganlija en la península este es una playa exclusivamente canina señalizada, abierta todo el año. Es la respuesta estándar de la ciudad para un baño con perro."
+        },
+        {
+          "q": "¿Se admiten perros en los lidos comerciales de Belgrado?",
+          "a": "La mayoría de los lidos comerciales restringen mascotas en verano (mediados de junio a mediados de septiembre). Usa las secciones públicas gratuitas de Ada Ciganlija y el lago Sava: admiten perros todo el año."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Belgrade",
+      "titleFr": "Cliniques vétérinaires et urgences à Belgrade",
+      "titleEs": "Clínicas veterinarias y urgencias en Belgrado",
+      "introEn": "Belgrade has Serbia's only registered 24-hour veterinary clinic — Vet Planet on Tošin Bunar — supported by a dense network of daytime practices and several private clinics with after-hours emergency lines. English service is widely available in clinics serving the expat community. Costs are about a third of Western European rates, and the Belgrade vet scene routinely handles cases referred from across the region.",
+      "introFr": "Belgrade dispose de la seule clinique vétérinaire 24h/24 enregistrée de Serbie — Vet Planet sur Tošin Bunar — soutenue par un réseau dense de cabinets de jour et plusieurs cliniques privées avec lignes d'urgence hors horaires. L'anglais est largement disponible dans les cliniques tournées vers la communauté expatriée. Les coûts sont environ un tiers des tarifs ouest-européens, et la scène vétérinaire de Belgrade traite régulièrement des cas référés de toute la région.",
+      "introEs": "Belgrado cuenta con la única clínica veterinaria 24 horas registrada de Serbia — Vet Planet en Tošin Bunar — respaldada por una densa red de consultas diurnas y varias clínicas privadas con líneas de urgencias fuera de horario. El inglés está ampliamente disponible en clínicas orientadas a la comunidad expatriada. Los costes son aproximadamente un tercio de los de Europa Occidental, y la escena veterinaria de Belgrado atiende con frecuencia casos derivados de toda la región.",
+      "places": [
+        {
+          "name": "Vet Planet (24h)",
+          "address": "Tošin Bunar 128, 11070 Novi Beograd",
+          "neighborhood": "Novi Beograd",
+          "photo": "/images/city-places/belgrade-vets-vet-planet-24h.jpg",
+          "website": "https://vetplanet.rs/",
+          "description": "The only registered 24-hour veterinary clinic in Serbia, with an on-call vet available at any time of day or night. Equipped for surgery, intensive care, advanced imaging, and referral specialties. The clinic is located in Novi Beograd, about 15 minutes by Bolt from the central Old Town and Skadarlija.",
+          "descriptionFr": "Seule clinique vétérinaire 24h/24 enregistrée de Serbie, avec un vétérinaire de garde disponible à toute heure du jour comme de la nuit. Équipée pour la chirurgie, les soins intensifs, l'imagerie avancée et les spécialités référées. La clinique est à Novi Beograd, à environ 15 minutes en Bolt depuis la vieille ville centrale et Skadarlija.",
+          "descriptionEs": "La única clínica veterinaria 24 horas registrada de Serbia, con un veterinario de guardia disponible a cualquier hora del día o la noche. Equipada para cirugía, cuidados intensivos, diagnóstico por imagen avanzado y especialidades de referencia. La clínica está en Novi Beograd, a unos 15 minutos en Bolt del casco antiguo central y Skadarlija.",
+          "phone": "+381 11 411 4222",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "Call before driving over at night — the on-call vet may need a few minutes to come in. The website has an English contact form.",
+          "tipFr": "Appelez avant de venir la nuit — le vétérinaire de garde peut avoir besoin de quelques minutes pour arriver. Le site a un formulaire de contact en anglais.",
+          "tipEs": "Llama antes de ir por la noche: el veterinario de guardia puede necesitar unos minutos para llegar. La web tiene formulario de contacto en inglés.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+Planet+Belgrade"
+        },
+        {
+          "name": "VDC Veterinarska Ambulanta",
+          "address": "Topličin venac 11, 11000 Beograd",
+          "neighborhood": "Vračar",
+          "photo": "/images/city-places/belgrade-vets-vdc-veterinarska-ambulanta.jpg",
+          "website": "https://www.vdcvet.rs/",
+          "description": "A central veterinary practice in Vračar with an after-hours emergency line, useful as the closest professional option to the Old Town. Strong general medicine, dental, ultrasound, neurology, and surgical departments. English-speaking staff routinely handle expat clients.",
+          "descriptionFr": "Cabinet vétérinaire central à Vračar avec ligne d'urgence hors horaires, utile comme option professionnelle la plus proche de la vieille ville. Solide médecine générale, dentaire, échographie, neurologie et chirurgie. Personnel anglophone qui traite régulièrement les clients expatriés.",
+          "descriptionEs": "Consulta veterinaria céntrica en Vračar con línea de urgencias fuera de horario, útil como la opción profesional más cercana al casco antiguo. Buena medicina general, odontología, ecografía, neurología y cirugía. Personal angloparlante que atiende con regularidad a clientes expatriados.",
+          "phone": "+381 60 4243 132",
+          "openingHours": "Mon–Fri 09:00–21:00; Sat 09:00–17:00; emergency line 24/7",
+          "tip": "Five minutes by Bolt from Trg Republike — fastest professional option for daytime urgent care close to the Old Town.",
+          "tipFr": "Cinq minutes en Bolt depuis Trg Republike — l'option pro la plus rapide pour les soins urgents en journée près de la vieille ville.",
+          "tipEs": "Cinco minutos en Bolt desde Trg Republike: la opción profesional más rápida para urgencias diurnas cerca del casco antiguo.",
+          "googleMapsUrl": "https://maps.google.com/?q=VDC+Veterinarska+Ambulanta+Belgrade"
+        }
+      ],
+      "tipsEn": [
+        "Serbia is outside the EU — bring an EU pet passport for entry, plus a valid rabies vaccination at least 21 days old. Border checks on the Hungarian and Croatian crossings sometimes verify the booklet.",
+        "Card payment is the norm at all main 24/7 clinics; emergency consultations typically start at €30-50 plus medication, among the lowest rates in Europe.",
+        "Serbian veterinary medicine is high-quality and notably cheaper than Hungary, Romania, or Croatia."
+      ],
+      "tipsFr": [
+        "La Serbie est hors UE — apportez un passeport européen pour l'entrée, plus une vaccination antirabique valide datant d'au moins 21 jours. Les contrôles aux frontières hongroise et croate vérifient parfois le carnet.",
+        "Le paiement par carte est la norme dans toutes les principales cliniques 24/7 ; les consultations d'urgence démarrent généralement à 30-50 € plus médicaments, parmi les tarifs les plus bas d'Europe.",
+        "La médecine vétérinaire serbe est de qualité et nettement moins chère qu'en Hongrie, Roumanie ou Croatie."
+      ],
+      "tipsEs": [
+        "Serbia está fuera de la UE: lleva el pasaporte europeo para la entrada, además de una vacunación antirrábica válida con al menos 21 días. Los controles fronterizos con Hungría y Croacia a veces verifican la cartilla.",
+        "El pago con tarjeta es la norma en todas las clínicas 24/7 principales; las consultas de urgencia suelen empezar en 30-50 € más medicación, entre las tarifas más bajas de Europa.",
+        "La medicina veterinaria serbia es de calidad y notablemente más barata que la de Hungría, Rumanía o Croacia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour vet to Belgrade Old Town?",
+          "a": "Vet Planet on Tošin Bunar 128 in Novi Beograd (about 15 minutes by Bolt) is Serbia's only registered 24-hour clinic. For daytime urgent care closer to the Old Town, VDC in Vračar is the standard answer."
+        },
+        {
+          "q": "Do Belgrade vets speak English?",
+          "a": "Yes, in clinics serving the international community — both Vet Planet and VDC have English-fluent staff."
+        },
+        {
+          "q": "Is Serbia in the EU pet passport scheme?",
+          "a": "Serbia is outside the EU but accepts the EU pet passport at entry. Bring it together with proof of rabies vaccination at least 21 days old; the same documents allow re-entry into the EU on departure."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire 24h/24 le plus proche de la vieille ville de Belgrade ?",
+          "a": "Vet Planet sur Tošin Bunar 128 à Novi Beograd (environ 15 minutes en Bolt) est la seule clinique 24h/24 enregistrée de Serbie. Pour les soins urgents en journée plus près de la vieille ville, VDC à Vračar est la réponse standard."
+        },
+        {
+          "q": "Les vétérinaires de Belgrade parlent-ils anglais ?",
+          "a": "Oui, dans les cliniques tournées vers la communauté internationale — Vet Planet comme VDC ont du personnel anglophone."
+        },
+        {
+          "q": "La Serbie est-elle dans le système du passeport européen ?",
+          "a": "La Serbie est hors UE mais accepte le passeport européen à l'entrée. Apportez-le avec la preuve de vaccination antirabique d'au moins 21 jours ; les mêmes documents permettent la rentrée dans l'UE au départ."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario 24 horas más cercano al casco antiguo de Belgrado?",
+          "a": "Vet Planet en Tošin Bunar 128 en Novi Beograd (a unos 15 minutos en Bolt) es la única clínica 24 horas registrada de Serbia. Para urgencias diurnas más cerca del casco antiguo, VDC en Vračar es la respuesta estándar."
+        },
+        {
+          "q": "¿Los veterinarios de Belgrado hablan inglés?",
+          "a": "Sí, en las clínicas orientadas a la comunidad internacional: tanto Vet Planet como VDC cuentan con personal angloparlante."
+        },
+        {
+          "q": "¿Está Serbia en el sistema del pasaporte europeo de mascotas?",
+          "a": "Serbia está fuera de la UE pero acepta el pasaporte europeo a la entrada. Llévalo junto con la prueba de vacunación antirrábica de al menos 21 días; los mismos documentos permiten reentrar en la UE a la salida."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Belgrade",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Belgrade",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Belgrado",
+      "introEn": "Belgrade is one of Europe's most affordable capitals for travelling with a dog: a compact Old Town walkable in a day, the year-round Ada Ciganlija dog beach, free public transport (since 2025), and Serbia's only 24-hour vet hospital. The two things to plan around are the city-bus pet ban and the very hot summers from June to August. Below are the rules visitors actually run into.",
+      "introFr": "Belgrade est l'une des capitales européennes les plus abordables pour voyager avec un chien : vieille ville compacte qui se visite en une journée, plage canine d'Ada Ciganlija toute l'année, transports publics gratuits (depuis 2025), et seul hôpital vétérinaire 24h/24 de Serbie. Les deux points à anticiper sont l'interdiction des chiens dans les bus de ville et les étés très chauds de juin à août. Ci-dessous, les règles que les visiteurs rencontrent vraiment.",
+      "introEs": "Belgrado es una de las capitales europeas más asequibles para viajar con perro: casco antiguo compacto que se recorre en un día, playa canina de Ada Ciganlija todo el año, transporte público gratuito (desde 2025) y el único hospital veterinario 24/7 de Serbia. Los dos puntos a anticipar son la prohibición de perros en los autobuses urbanos y los veranos muy calurosos de junio a agosto. A continuación, las reglas que los visitantes encuentran de verdad.",
+      "places": [],
+      "tipsEn": [
+        "GSP city buses do not accept non-service pet dogs — use trams and trolleybuses instead, both free since January 2025.",
+        "Save Vet Planet 24/7: +381 11 411 4222 (Tošin Bunar 128, Novi Beograd) — Serbia's only 24-hour clinic, 15 minutes by Bolt from the Old Town.",
+        "Belgrade summers can hit 35 °C — walk dogs at sunrise or after 19:00 in July and August, and avoid the dark cobbles of Skadarlija that radiate heat."
+      ],
+      "tipsFr": [
+        "Les bus GSP de la ville n'acceptent pas les chiens non-assistance — utilisez trams et trolleybus à la place, gratuits depuis janvier 2025.",
+        "Enregistrez Vet Planet 24h/24 : +381 11 411 4222 (Tošin Bunar 128, Novi Beograd) — la seule clinique 24h/24 de Serbie, à 15 minutes en Bolt de la vieille ville.",
+        "Les étés de Belgrade peuvent atteindre 35 °C — promenez le chien au lever du soleil ou après 19h en juillet-août, et évitez les pavés sombres de Skadarlija qui rayonnent la chaleur."
+      ],
+      "tipsEs": [
+        "Los autobuses urbanos GSP no admiten perros no de asistencia: usa tranvías y trolebuses, gratuitos desde enero de 2025.",
+        "Guarda Vet Planet 24/7: +381 11 411 4222 (Tošin Bunar 128, Novi Beograd): la única clínica 24/7 de Serbia, a 15 minutos en Bolt del casco antiguo.",
+        "Los veranos de Belgrado pueden alcanzar 35 °C: pasea al perro al amanecer o después de las 19:00 en julio y agosto, y evita los adoquines oscuros de Skadarlija que irradian calor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Belgrade a good city for travelling with a dog?",
+          "a": "Yes — among the most affordable European capitals, with the year-round Ada Ciganlija dog beach, dozens of fenced municipal dog parks, and pet-friendly hotels from €60. The main quirks are the city-bus ban and the hot summer."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Serbia?",
+          "a": "An EU pet passport (or third-country equivalent), a valid rabies vaccination at least 21 days old, and a microchip. Border checks on the Hungarian and Croatian crossings are stricter than within the EU but routine."
+        },
+        {
+          "q": "Can my dog visit Saint Sava Temple?",
+          "a": "Only assistance dogs are admitted to the temple interior. The wide square outside and the surrounding Vračar park are leash-friendly and free."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Belgrade est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — parmi les capitales européennes les plus abordables, avec la plage canine d'Ada Ciganlija toute l'année, des dizaines de parcs canins municipaux clôturés, et des hôtels dog-friendly à partir de 60 €. Les principales subtilités sont l'interdiction des bus et l'été chaud."
+        },
+        {
+          "q": "Quels documents pour emmener son chien en Serbie ?",
+          "a": "Un passeport européen (ou équivalent hors UE), une vaccination antirabique valide datant d'au moins 21 jours, et une puce électronique. Les contrôles aux frontières hongroise et croate sont plus stricts qu'au sein de l'UE mais routiniers."
+        },
+        {
+          "q": "Mon chien peut-il visiter le temple Saint-Sava ?",
+          "a": "Seuls les chiens d'assistance sont admis à l'intérieur du temple. La grande place extérieure et le parc de Vračar alentour sont accessibles en laisse et gratuits."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Belgrado una buena ciudad para viajar con perro?",
+          "a": "Sí: entre las capitales europeas más asequibles, con la playa canina de Ada Ciganlija todo el año, decenas de parques caninos municipales vallados, y hoteles dog-friendly desde 60 €. Las principales pegas son la prohibición en los autobuses y el verano caluroso."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Serbia?",
+          "a": "Un pasaporte europeo (o equivalente fuera de la UE), una vacunación antirrábica válida con al menos 21 días, y un microchip. Los controles fronterizos en los pasos con Hungría y Croacia son más estrictos que dentro de la UE pero rutinarios."
+        },
+        {
+          "q": "¿Puede mi perro visitar el templo de San Sava?",
+          "a": "Solo perros de asistencia se admiten en el interior del templo. La amplia plaza exterior y el parque de Vračar circundante son accesibles con correa y gratuitos."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Belgrade",
+      "titleFr": "Attractions dog-friendly à Belgrade",
+      "titleEs": "Atracciones para mascotas en Belgrado",
+      "introEn": "Belgrade's signature attractions — the Saint Sava Temple, the National Museum, and the Royal Palace tour — admit only assistance dogs, but the city's outdoor heritage is generous. Kalemegdan, Skadarlija, and Knez Mihailova form a leash-friendly walking tour that fills a full morning, and the riverside terraces of Beton Hala extend it through lunch and into the night. Three of the best below.",
+      "introFr": "Les attractions emblématiques de Belgrade — le temple Saint-Sava, le Musée national et la visite du Palais royal — n'admettent que les chiens d'assistance, mais le patrimoine extérieur de la ville est généreux. Kalemegdan, Skadarlija et Knez Mihailova forment un parcours pédestre dog-friendly qui remplit une matinée, et les terrasses riveraines de Beton Hala le prolongent jusque dans la nuit. Trois des meilleurs ci-dessous.",
+      "introEs": "Las atracciones emblemáticas de Belgrado — el templo de San Sava, el Museo Nacional y la visita al Palacio Real — solo admiten perros de asistencia, pero el patrimonio exterior de la ciudad es generoso. Kalemegdan, Skadarlija y Knez Mihailova forman un recorrido a pie dog-friendly que llena una mañana, y las terrazas ribereñas de Beton Hala lo prolongan hasta la noche. A continuación, tres de los mejores.",
+      "places": [
+        {
+          "name": "Kalemegdan Fortress",
+          "address": "Kalemegdan, 11000 Beograd",
+          "neighborhood": "Stari Grad",
+          "photo": "/images/city-places/belgrade-attractions-kalemegdan-fortress.jpg",
+          "website": "https://beogradskatvrdjava.co.rs/en/",
+          "description": "The 60-hectare fortress complex on the headland where the Sava meets the Danube — Roman, Byzantine, Ottoman, and Habsburg walls layered into one site. Dogs on leash are welcome on all open walls and the surrounding park, including the famous sunset viewpoint above the rivers. The military museum and the indoor exhibitions admit only assistance dogs.",
+          "descriptionFr": "Complexe fortifié de 60 hectares sur le promontoire où la Sava rejoint le Danube — murs romains, byzantins, ottomans et habsbourgeois superposés sur un même site. Les chiens en laisse sont les bienvenus sur tous les remparts ouverts et le parc alentour, y compris le célèbre belvédère du coucher de soleil au-dessus des fleuves. Le musée militaire et les expositions intérieures n'admettent que les chiens d'assistance.",
+          "descriptionEs": "Complejo fortificado de 60 hectáreas en el promontorio donde el Sava se une al Danubio: murallas romanas, bizantinas, otomanas y de los Habsburgo superpuestas en un mismo lugar. Los perros con correa son bienvenidos en todas las murallas abiertas y el parque circundante, incluido el famoso mirador del atardecer sobre los ríos. El museo militar y las exposiciones interiores solo admiten perros de asistencia.",
+          "petPolicy": "Outdoor walls and park leash-friendly; assistance dogs only inside museums",
+          "petPolicyFr": "Remparts extérieurs et parc accessibles en laisse ; chiens d'assistance uniquement à l'intérieur des musées",
+          "petPolicyEs": "Murallas exteriores y parque accesibles con correa; solo perros de asistencia dentro de los museos",
+          "openingHours": "24/7 (outdoor); museums 10:00–17:00",
+          "tip": "Walk in from the Knez Mihailova end at sunset — the lit ramparts open up onto the Danube confluence panorama within five minutes.",
+          "tipFr": "Entrez depuis le bout de Knez Mihailova au coucher du soleil — les remparts éclairés s'ouvrent sur le panorama de la confluence du Danube en cinq minutes.",
+          "tipEs": "Entra por el extremo de Knez Mihailova al atardecer: las murallas iluminadas se abren sobre el panorama de la confluencia del Danubio en cinco minutos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kalemegdan+fortress+Belgrade"
+        },
+        {
+          "name": "Skadarlija",
+          "address": "Skadarska, 11000 Beograd",
+          "neighborhood": "Stari Grad",
+          "photo": "/images/city-places/belgrade-attractions-skadarlija.jpg",
+          "website": "https://www.beograd.rs/en/",
+          "description": "Belgrade's bohemian quarter — a single 400-metre cobbled street lined with traditional Serbian taverns (kafane), live music, and 19th-century townhouses. Dogs on leash are welcome the entire length, and most kafane terraces accept pets without question. The street is pedestrianised in the evening and is the city's classic dinner-with-a-dog destination.",
+          "descriptionFr": "Quartier bohème de Belgrade — une seule rue pavée de 400 mètres bordée de tavernes serbes traditionnelles (kafane), de musique live et d'hôtels particuliers du XIXe siècle. Les chiens en laisse sont les bienvenus sur toute la longueur, et la plupart des terrasses de kafane acceptent les animaux sans question. La rue est piétonnisée le soir et constitue la destination classique du dîner avec chien.",
+          "descriptionEs": "Barrio bohemio de Belgrado: una sola calle adoquinada de 400 metros flanqueada por tabernas serbias tradicionales (kafane), música en vivo y casas señoriales del siglo XIX. Los perros con correa son bienvenidos en todo su recorrido, y la mayoría de las terrazas de kafane admiten mascotas sin problema. La calle es peatonal por la noche y es el destino clásico de cena con perro de la ciudad.",
+          "petPolicy": "Dogs welcome on leash; nearly all terraces accept pets",
+          "petPolicyFr": "Chiens acceptés en laisse ; presque toutes les terrasses acceptent les animaux",
+          "petPolicyEs": "Perros admitidos con correa; casi todas las terrazas aceptan mascotas",
+          "openingHours": "24/7 (street); kafane 11:00–01:00",
+          "tip": "Visit at 19:00 on a weekday evening — early enough for a calm dog table, late enough for the live music to start drifting up the street.",
+          "tipFr": "Venez à 19h en semaine — assez tôt pour une table calme avec un chien, assez tard pour que la musique live commence à monter dans la rue.",
+          "tipEs": "Ve a las 19:00 entre semana: lo bastante pronto para una mesa tranquila con perro, lo bastante tarde para que la música en vivo empiece a subir por la calle.",
+          "googleMapsUrl": "https://maps.google.com/?q=Skadarlija+Belgrade"
+        },
+        {
+          "name": "Knez Mihailova",
+          "address": "Kneza Mihaila, 11000 Beograd",
+          "neighborhood": "Stari Grad",
+          "photo": "/images/city-places/belgrade-attractions-knez-mihailova.jpg",
+          "website": "https://www.beograd.rs/en/",
+          "description": "Belgrade's main pedestrian shopping spine, 1 km from Trg Republike to the Kalemegdan gates, lined with Belle Époque facades, embassies, bookstores, and dog-friendly café terraces. The street is leash-friendly day and night and is the simplest dog-walking route in the city centre.",
+          "descriptionFr": "Colonne vertébrale piétonne et commerçante de Belgrade, 1 km de Trg Republike aux portes de Kalemegdan, bordée de façades Belle Époque, d'ambassades, de librairies et de terrasses de cafés dog-friendly. La rue est accessible en laisse jour et nuit et est l'itinéraire de balade canine le plus simple du centre.",
+          "descriptionEs": "El eje peatonal y comercial principal de Belgrado, 1 km desde Trg Republike hasta las puertas de Kalemegdan, flanqueado por fachadas Belle Époque, embajadas, librerías y terrazas dog-friendly. La calle es accesible con correa de día y de noche y es la ruta de paseo canino más sencilla del centro.",
+          "petPolicy": "Dogs welcome on leash; many sidewalk café terraces accept pets",
+          "petPolicyFr": "Chiens acceptés en laisse ; nombreuses terrasses de café acceptent les animaux",
+          "petPolicyEs": "Perros admitidos con correa; muchas terrazas de café aceptan mascotas",
+          "openingHours": "24/7 (street); shops 10:00–22:00",
+          "tip": "Walk south to north — the avenue funnels you straight onto the Kalemegdan ramparts and the sunset viewpoint at the end.",
+          "tipFr": "Marchez du sud au nord — l'avenue vous emmène directement sur les remparts de Kalemegdan et le belvédère du coucher de soleil au bout.",
+          "tipEs": "Camina de sur a norte: la avenida te lleva directamente a las murallas de Kalemegdan y al mirador del atardecer al final.",
+          "googleMapsUrl": "https://maps.google.com/?q=Knez+Mihailova+Belgrade"
+        }
+      ],
+      "tipsEn": [
+        "Most major museums (National Museum, Nikola Tesla Museum, Yugoslav History Museum) admit only assistance dogs — plan a sitter or split visits with travel companions.",
+        "The Old Town and Kalemegdan are walkable in 90 minutes as a single dog-friendly loop, so a sitter is rarely needed for a short city break.",
+        "Belgrade's free walking tour (twice daily from Trg Republike) accepts leashed dogs — useful for adding context to a centre stroll."
+      ],
+      "tipsFr": [
+        "La plupart des grands musées (Musée national, Musée Nikola Tesla, Musée d'histoire yougoslave) n'admettent que les chiens d'assistance — prévoyez un sitter ou répartissez la visite entre compagnons.",
+        "La vieille ville et Kalemegdan se parcourent en 1h30 en une seule boucle dog-friendly, donc un sitter est rarement nécessaire pour un court séjour.",
+        "La visite gratuite à pied de Belgrade (deux fois par jour depuis Trg Republike) accepte les chiens en laisse — utile pour ajouter du contexte à une balade dans le centre."
+      ],
+      "tipsEs": [
+        "La mayoría de los grandes museos (Museo Nacional, Museo Nikola Tesla, Museo de Historia Yugoslava) solo admiten perros de asistencia: planifica un cuidador o reparte la visita entre acompañantes.",
+        "El casco antiguo y Kalemegdan se recorren en 1h30 como un único circuito dog-friendly, así que un cuidador rara vez es necesario para una escapada corta.",
+        "La visita guiada gratuita a pie de Belgrado (dos veces al día desde Trg Republike) admite perros con correa: útil para añadir contexto a un paseo por el centro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog enter Saint Sava Temple?",
+          "a": "Only assistance dogs are admitted to the temple interior. The square outside and the surrounding Vračar park are leash-friendly and free."
+        },
+        {
+          "q": "What's the best dog-friendly day in Belgrade?",
+          "a": "Walk Kalemegdan at sunrise, breakfast on Knez Mihailova, lunch at Beton Hala riverside, swim at the Ada Ciganlija dog beach, and finish with dinner on a Skadarlija kafana terrace."
+        },
+        {
+          "q": "Are dogs allowed on the Belgrade boat tours?",
+          "a": "Most Sava-Danube boat operators accept leashed dogs at the captain's discretion — book a smaller, midweek tour and ask at booking. Dogs are not admitted on the dinner-cruise boats."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer au temple Saint-Sava ?",
+          "a": "Seuls les chiens d'assistance sont admis à l'intérieur du temple. La place extérieure et le parc de Vračar alentour sont accessibles en laisse et gratuits."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Belgrade ?",
+          "a": "Promenade à Kalemegdan au lever du soleil, petit-déjeuner sur Knez Mihailova, déjeuner à Beton Hala en bord de fleuve, baignade à la plage canine d'Ada Ciganlija, et dîner sur une terrasse de kafana à Skadarlija."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur les bateaux-promenade de Belgrade ?",
+          "a": "La plupart des opérateurs Sava-Danube acceptent les chiens en laisse à la discrétion du capitaine — réservez un petit bateau en semaine et demandez à la réservation. Les chiens ne sont pas admis sur les bateaux dîner-croisière."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro entrar al templo de San Sava?",
+          "a": "Solo perros de asistencia se admiten en el interior del templo. La plaza exterior y el parque de Vračar alrededor son accesibles con correa y gratuitos."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Belgrado?",
+          "a": "Paseo por Kalemegdan al amanecer, desayuno en Knez Mihailova, almuerzo en Beton Hala junto al río, baño en la playa canina de Ada Ciganlija y cena en una terraza de kafana de Skadarlija."
+        },
+        {
+          "q": "¿Se admiten perros en los barcos turísticos de Belgrado?",
+          "a": "La mayoría de los operadores del Sava-Danubio aceptan perros con correa a discreción del capitán: reserva un barco pequeño entre semana y pregunta al reservar. Los perros no se admiten en los barcos de cena-crucero."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Belgrade",
+      "titleFr": "Garde et promenade de chiens à Belgrade",
+      "titleEs": "Cuidado y paseo de perros en Belgrado",
+      "introEn": "Belgrade pet-care relies on Pawshake (the European platform), PetBacker, and a strong network of Serbian Facebook groups for the city's expat owners. Prices are about a quarter of Western European rates — €4-7 per walk is typical — and the network is dense enough that next-day bookings are reliable. Useful given the museum and cathedral pet bans.",
+      "introFr": "La garde d'animaux à Belgrade repose sur Pawshake (plateforme européenne), PetBacker et un solide réseau de groupes Facebook serbes pour les propriétaires expatriés de la ville. Les tarifs sont environ un quart des tarifs ouest-européens — 4-7 € la promenade est courant — et le réseau est suffisamment dense pour que les réservations du lendemain soient fiables. Utile vu les interdictions des animaux dans les musées et la cathédrale.",
+      "introEs": "El cuidado de mascotas en Belgrado se apoya en Pawshake (plataforma europea), PetBacker y una sólida red de grupos de Facebook serbios para los dueños expatriados de la ciudad. Los precios son aproximadamente un cuarto de los de Europa Occidental — 4-7 € por paseo es habitual — y la red es lo bastante densa para que las reservas del día siguiente sean fiables. Útil dadas las prohibiciones de mascotas en museos y la catedral.",
+      "places": [
+        {
+          "name": "Pawshake Belgrade",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.com/petsitters/belgrade",
+          "description": "The Serbian arm of the European Pawshake network, with verified sitters across Belgrade offering drop-in visits, full-day care, dog walks, and overnight boarding. Bookings are insured through the platform and the interface is fully translated into English. The most reliable option for visitors with no local contacts.",
+          "descriptionFr": "Filiale serbe du réseau européen Pawshake, avec des sitters vérifiés à Belgrade proposant visites à domicile, garde à la journée, promenades et hébergement de nuit. Les réservations sont assurées via la plateforme et l'interface est entièrement traduite en anglais. L'option la plus fiable pour les visiteurs sans contact local.",
+          "descriptionEs": "La filial serbia de la red europea Pawshake, con cuidadores verificados en Belgrado que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
+          "tip": "Filter for Vračar, Stari Grad, or Dorćol — the three central districts with the highest concentration of English-speaking sitters used to short-notice expat bookings.",
+          "tipFr": "Filtrez sur Vračar, Stari Grad ou Dorćol — les trois quartiers centraux avec la plus forte concentration de sitters anglophones habitués aux réservations expatriées de dernière minute.",
+          "tipEs": "Filtra por Vračar, Stari Grad o Dorćol: los tres barrios centrales con la mayor concentración de cuidadores angloparlantes acostumbrados a reservas expatriadas de última hora."
+        }
+      ],
+      "tipsEn": [
+        "Average rates: drop-in visit €5-7, dog walk €4-7, full-day care €10-15, overnight €12-18 — among the cheapest pet-care rates in Europe.",
+        "Most central Belgrade sitters live in apartments — confirm sleeping arrangements (crate, sofa, with the family) before booking for boarding.",
+        "Serbian sitters typically speak English and either Russian or German, especially in the central Stari Grad and Dorćol districts."
+      ],
+      "tipsFr": [
+        "Tarifs moyens : visite 5-7 €, promenade 4-7 €, journée complète 10-15 €, nuit 12-18 € — parmi les tarifs les plus bas d'Europe.",
+        "La plupart des sitters du centre de Belgrade vivent en appartement — vérifiez les conditions de couchage (caisse, canapé, en famille) avant de réserver pour la nuit.",
+        "Les sitters serbes parlent généralement anglais et soit russe, soit allemand, surtout dans les quartiers centraux de Stari Grad et Dorćol."
+      ],
+      "tipsEs": [
+        "Tarifas medias: visita 5-7 €, paseo 4-7 €, día completo 10-15 €, noche 12-18 €: entre las tarifas más bajas de Europa.",
+        "La mayoría de los cuidadores del centro de Belgrado viven en piso: confirma cómo dormirá tu perro (jaula, sofá, con la familia) antes de reservar pernocta.",
+        "Los cuidadores serbios suelen hablar inglés y ruso o alemán, sobre todo en los barrios centrales de Stari Grad y Dorćol."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Belgrade at short notice?",
+          "a": "Pawshake.com is the fastest — most paid sitters confirm within hours. Filter for at least ten reviews and check the apartment-or-house preference."
+        },
+        {
+          "q": "Are dog walkers regulated in Serbia?",
+          "a": "Serbian law does not require a licence for dog walkers, but Pawshake and PetBacker carers are insured through the platforms — useful in the unlikely case of an incident."
+        },
+        {
+          "q": "Do hotels offer pet sitting in Belgrade?",
+          "a": "A few luxury hotels (Hyatt Regency, Mama Shelter, Crowne Plaza) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter à Belgrade à court terme ?",
+          "a": "Pawshake.com est le plus rapide — la plupart des sitters confirment en quelques heures. Filtrez sur au moins dix avis et vérifiez la préférence appartement-ou-maison."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Serbie ?",
+          "a": "La loi serbe n'exige pas de licence pour les promeneurs, mais les sitters Pawshake et PetBacker sont assurés via les plateformes — utile dans le rare cas d'un incident."
+        },
+        {
+          "q": "Les hôtels proposent-ils une garde à Belgrade ?",
+          "a": "Quelques hôtels haut de gamme (Hyatt Regency, Mama Shelter, Crowne Plaza) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Belgrado sin mucha antelación?",
+          "a": "Pawshake.com es lo más rápido: la mayoría de los cuidadores confirman en pocas horas. Filtra por al menos diez opiniones y comprueba la preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Están regulados los paseadores en Serbia?",
+          "a": "La ley serbia no exige licencia para los paseadores, pero los cuidadores de Pawshake y PetBacker están asegurados mediante las plataformas: útil en el raro caso de un incidente."
+        },
+        {
+          "q": "¿Los hoteles ofrecen servicio de cuidado en Belgrado?",
+          "a": "Algunos hoteles de gama alta (Hyatt Regency, Mama Shelter, Crowne Plaza) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ]
+    }
+  }
+}

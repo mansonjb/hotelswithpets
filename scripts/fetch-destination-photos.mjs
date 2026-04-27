@@ -56,6 +56,7 @@ const TARGETS = [
   { slug: 'pisa', query: 'Pisa Leaning Tower Cathedral Piazza dei Miracoli sunset' },
   { slug: 'sofia', query: 'Sofia Alexander Nevsky Cathedral Vitosha mountain panorama sunset' },
   { slug: 'bucharest', query: 'Bucharest Romanian Athenaeum Calea Victoriei panorama sunset' },
+  { slug: 'belgrade', query: 'Belgrade Kalemegdan fortress Sava Danube confluence sunset panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

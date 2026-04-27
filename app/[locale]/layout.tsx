@@ -27,18 +27,40 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     es: 'Encuentra los mejores hoteles pet-friendly en Europa. Estancias con perros, acceso a la playa, hoteles de lujo. Reserva en Booking.com.',
   }
   const l = hasLocale(locale) ? locale : 'en'
+
+  // Bing pondère encore les keywords meta (contrairement à Google) — locale-aware
+  // top-of-funnel terms qui correspondent au search intent où on apparait déjà.
+  const keywords: Record<Locale, string[]> = {
+    en: ['pet-friendly hotels', 'dog-friendly hotels', 'cat-friendly hotels', 'travel with dog europe', 'pet travel', 'hotels for dogs', 'hotels for cats', 'pet hotels europe', 'dog friendly travel', 'european dog travel'],
+    fr: ['hôtels pet-friendly', 'hôtels acceptant les chiens', 'voyager avec son chien', 'hôtels pour animaux', 'séjour avec chien europe', 'hôtels acceptant les animaux', 'voyage chien europe', 'hôtels chats acceptés'],
+    es: ['hoteles pet-friendly', 'hoteles que admiten perros', 'viajar con perro europa', 'hoteles para mascotas', 'hoteles con perros europa', 'hoteles que admiten gatos', 'viajar con mascota'],
+  }
+
   return {
     // template '%s' is identity — pages include their own '| HotelsWithPets.com' suffix
     // to avoid double-suffix (e.g. "Title | HotelsWithPets.com | HotelsWithPets")
     title: { default: titles[l], template: `%s` },
     description: descriptions[l],
+    keywords: keywords[l],
+    authors: [{ name: 'HotelsWithPets', url: 'https://www.hotelswithpets.com' }],
+    creator: 'HotelsWithPets',
+    publisher: 'HotelsWithPets',
+    applicationName: 'HotelsWithPets',
+    category: 'travel',
     openGraph: {
       siteName: 'HotelsWithPets',
       type: 'website',
+      locale: l === 'fr' ? 'fr_FR' : l === 'es' ? 'es_ES' : 'en_GB',
     },
     twitter: {
       card: 'summary_large_image',
       site: '@hotelswithpets',
+      creator: '@hotelswithpets',
+    },
+    other: {
+      // Bing-specific: encourage rapid recrawl when content changes.
+      // Bing reads this hint, Google ignores it (uses sitemap lastmod instead).
+      'revisit-after': '7 days',
     },
   }
 }
@@ -58,6 +80,8 @@ export default async function LocaleLayout({
         <link rel="preconnect" href="https://www.booking.com" />
         <link rel="preconnect" href="https://www.stay22.com" />
         <link rel="dns-prefetch" href="https://scripts.stay22.com" />
+        {/* RSS auto-discovery — picked up by Bing, feed readers, AI crawlers */}
+        <link rel="alternate" type="application/rss+xml" title="HotelsWithPets — latest destinations" href="https://www.hotelswithpets.com/rss.xml" />
       </head>
       <body className="bg-white text-gray-900 antialiased">
         <Header locale={locale as Locale} dict={dict} />

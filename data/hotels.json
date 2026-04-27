@@ -821,6 +821,123 @@
     "slug": "grand-hyatt-barcelona"
   },
   {
+    "id": "belgrade-1",
+    "name": "Hyatt Regency Belgrade",
+    "destinationSlug": "belgrade",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4500,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/rs/hyatt-regency-belgrade.html",
+    "petFee": 40,
+    "petPolicy": "Hyatt Regency Belgrade welcomes one pet up to 40 kg per room for €40 per pet per night. Dogs are welcome at the Tea House and supervised in all common areas including the gardens. Cats are not accepted.",
+    "highlights": [
+      "Indoor pool & spa",
+      "Garden Tea House welcomes dogs",
+      "Walk to Sava riverside"
+    ],
+    "slug": "hyatt-regency-belgrade-belgrade"
+  },
+  {
+    "id": "belgrade-2",
+    "name": "Mama Shelter Belgrade",
+    "destinationSlug": "belgrade",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 3200,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/rs/mama-shelter-belgrade.html",
+    "petFee": 0,
+    "petPolicy": "Mama Shelter Belgrade welcomes pets of any size at no extra charge. Both dogs and cats are accepted. Dogs are welcome at the rooftop restaurant and the ground-floor brasserie. Service animals stay free.",
+    "highlights": [
+      "Rooftop restaurant with dog access",
+      "On Knez Mihailova",
+      "Free pet stays"
+    ],
+    "slug": "mama-shelter-belgrade-belgrade"
+  },
+  {
+    "id": "belgrade-3",
+    "name": "Crowne Plaza Belgrade by IHG",
+    "destinationSlug": "belgrade",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 4900,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/rs/crowne-plaza-belgrade.html",
+    "petFee": 80,
+    "petPolicy": "Crowne Plaza Belgrade accepts dogs up to 10 kg only for an €80 deposit per stay (refundable if no damages). Cats are not accepted. Pets are not allowed in restaurants and bars.",
+    "highlights": [
+      "Indoor pool & gym",
+      "Walk to Saint Sava Temple",
+      "Quiet Vračar setting"
+    ],
+    "slug": "crowne-plaza-belgrade-belgrade"
+  },
+  {
+    "id": "belgrade-4",
+    "name": "Mercure Belgrade Excelsior",
+    "destinationSlug": "belgrade",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3700,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/rs/excelsior.html",
+    "petFee": 20,
+    "petPolicy": "Mercure Belgrade Excelsior welcomes pets up to 15 kg for €20 per pet per night. Both dogs and cats are accepted. Service animals stay free without a fee.",
+    "highlights": [
+      "Behind the Parliament building",
+      "Walk to Skadarlija",
+      "Standard Mercure pet kit on request"
+    ],
+    "slug": "mercure-belgrade-excelsior-belgrade"
+  },
+  {
+    "id": "belgrade-5",
+    "name": "Courtyard by Marriott Belgrade City Center",
+    "destinationSlug": "belgrade",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3100,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/rs/courtyard-belgrade-city-center.html",
+    "petFee": 25,
+    "petPolicy": "Courtyard Belgrade City Center accepts up to two pets up to 18 kg per room for €25 per pet per stay. Both dogs and cats are accepted. Pets are not allowed in restaurants.",
+    "highlights": [
+      "Walk to Trg Republike",
+      "Steps from Skadarlija",
+      "Best-value central pet rates"
+    ],
+    "slug": "courtyard-marriott-belgrade-city-center-belgrade"
+  },
+  {
     "id": "berlin-1",
     "name": "The Ritz-Carlton, Berlin",
     "destinationSlug": "berlin",

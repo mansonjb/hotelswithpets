@@ -293,6 +293,80 @@
     }
   },
   {
+    "slug": "belgrade",
+    "name": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "flag": "🇷🇸",
+    "lat": 44.7866,
+    "lng": 20.4489,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/belgrade.jpg",
+    "intro": "Belgrade is one of Europe's most affordable capitals, with the year-round Ada Ciganlija dog beach, dozens of fenced municipal dog parks, free public transport since 2025, and Serbia's only 24-hour vet hospital.",
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      }
+    }
+  },
+  {
     "slug": "berlin",
     "name": "Berlin",
     "country": "Germany",

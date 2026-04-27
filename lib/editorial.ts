@@ -71,6 +71,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
+    bratislava: {
+      personality: 'a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests, and the Danube embankments — all on foot from the centre',
+      highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
+      area: 'the Old Town, Petržalka, and Devín',
+    },
     brighton: {
       personality: 'the UK\'s most reliably dog-friendly seaside city, where pets ride free on the buses and Hove Lawns Beach stays open year-round',
       highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
@@ -429,6 +434,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
+    bratislava: {
+      personality: 'une capitale d\'Europe centrale compacte et abordable où les chiens arpentent les places pavées de la vieille ville, les forêts des Carpates et les berges du Danube — tout à pied depuis le centre',
+      highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
+      area: 'la vieille ville, Petržalka et Devín',
+    },
     brighton: {
       personality: 'la ville balnéaire britannique la plus fiable côté chiens, où les bus sont gratuits pour les animaux et où Hove Lawns Beach reste ouverte toute l\'année',
       highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
@@ -785,6 +795,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad donde los perros pasean por las terrazas de los bares de vino del barrio de Chartrons, exploran los muelles del Garona y son bienvenidos en la mayoría de los hoteles boutique',
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
       area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
+    },
+    bratislava: {
+      personality: 'una capital centroeuropea compacta y asequible donde los perros recorren las plazas adoquinadas del casco antiguo, los bosques de los Cárpatos y las riberas del Danubio, todo a pie desde el centro',
+      highlight: 'el bosque de Železná Studnička, Sad Janka Kráľa y la ribera de Devín',
+      area: 'el casco antiguo, Petržalka y Devín',
     },
     brighton: {
       personality: 'la ciudad costera más dog-friendly del Reino Unido, donde los autobuses son gratis para mascotas y la playa de Hove Lawns abre todo el año',

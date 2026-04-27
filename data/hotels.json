@@ -1792,6 +1792,122 @@
     "slug": "yndo-hotel"
   },
   {
+    "id": "bratislava-1",
+    "name": "Sheraton Bratislava Hotel",
+    "destinationSlug": "bratislava",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4200,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/sk/sheraton-bratislava.html",
+    "petFee": 20,
+    "petPolicy": "Sheraton Bratislava welcomes one dog up to 20 kg per room for €20 per night, capped at €150 per stay. Cats and exotic pets are not accepted. Service dogs stay free.",
+    "highlights": [
+      "Eurovea waterfront location",
+      "Indoor pool, spa & sauna",
+      "10-minute walk to the Old Town"
+    ],
+    "slug": "sheraton-bratislava-hotel-bratislava"
+  },
+  {
+    "id": "bratislava-2",
+    "name": "Radisson Blu Carlton Hotel, Bratislava",
+    "destinationSlug": "bratislava",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3700,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/sk/radisson-sas-carlton.html",
+    "petFee": 25,
+    "petPolicy": "Radisson Blu Carlton welcomes up to two pets per room for €25 per night. Both dogs and cats are accepted; a veterinary certificate is required at check-in. A small welcome treat is provided for the pet.",
+    "highlights": [
+      "On Hviezdoslav Square in the Old Town",
+      "Pet welcome amenity",
+      "Walk to St. Martin's Cathedral"
+    ],
+    "slug": "radisson-blu-carlton-hotel-bratislava"
+  },
+  {
+    "id": "bratislava-3",
+    "name": "Falkensteiner Hotel Bratislava",
+    "destinationSlug": "bratislava",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4800,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/sk/falkensteiner-bratislava-besitz-s-r-o.html",
+    "petFee": 25,
+    "petPolicy": "Falkensteiner Bratislava accepts dogs and cats for €25 per night. Pets are welcome in the room, lobby and bar but not allowed in the restaurant, pool or spa. Service dogs stay free.",
+    "highlights": [
+      "Pillar-less rooftop bar",
+      "Indoor pool & sauna",
+      "Steps from Eurovea promenade"
+    ],
+    "slug": "falkensteiner-hotel-bratislava-bratislava"
+  },
+  {
+    "id": "bratislava-4",
+    "name": "Crowne Plaza Bratislava by IHG",
+    "destinationSlug": "bratislava",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 3200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/sk/hotelforem.html",
+    "petFee": 20,
+    "petPolicy": "Crowne Plaza Bratislava accepts dogs and cats for €20 per day, capped at €100 per stay. Pets are not allowed in food and beverage areas. Service animals stay free.",
+    "highlights": [
+      "Beside Hodžovo Square",
+      "Indoor pool & gym",
+      "Tram to airport at the door"
+    ],
+    "slug": "crowne-plaza-bratislava-bratislava"
+  },
+  {
+    "id": "bratislava-5",
+    "name": "Botel Marina",
+    "destinationSlug": "bratislava",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.8,
+    "reviewCount": 2900,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/sk/botel-marina.html",
+    "petFee": 0,
+    "petPolicy": "Botel Marina, a converted boat-hotel on the Danube, accepts dogs on request at no extra charge. Cats are not accepted. Confirm at booking — only a few cabins are pet-friendly.",
+    "highlights": [
+      "Boat-hotel moored on the Danube",
+      "Walk across SNP Bridge to Old Town",
+      "Free pet stays"
+    ],
+    "slug": "botel-marina-bratislava"
+  },
+  {
     "id": "brighton-1",
     "name": "The Grand Brighton",
     "destinationSlug": "brighton",

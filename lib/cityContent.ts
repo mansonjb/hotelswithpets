@@ -1148,6 +1148,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bratislava: {
+    history: {
+      fr: `Bratislava est la capitale de la Slovaquie depuis 1993, mais son histoire en tant que ville couronnée hongroise (Pozsony, Pressburg) remonte au XIIIe siècle, quand le château et la vieille ville se forment au pied des Petites Carpates et au bord du Danube. La ville actuelle compte environ 430 000 habitants et le ministère slovaque enregistre près de 35 000 chiens dans le grand Bratislava — une densité élevée pour une capitale d'Europe centrale, et qui se voit dans le tissu urbain : terrasses largement dog-friendly, parcs forestiers (Horský Park, Železná Studnička, Sad Janka Kráľa) à pied du centre, et quatre cliniques d'urgence 24h/24. La ville reste compacte, abordable et facilement combinable avec Vienne, Budapest ou Brno pour un circuit canin sur le Danube.`,
+      en: `Bratislava has been Slovakia's capital since 1993, but its history as the Hungarian coronation city (Pozsony, Pressburg) goes back to the 13th century, when the castle and the old town took shape at the foot of the Little Carpathians and on the Danube. Today the city has about 430 000 inhabitants and the Slovak ministry registers nearly 35 000 dogs across greater Bratislava — a high density for a Central European capital, and one that shows in the urban fabric: terraces are widely dog-friendly, forest parks (Horský Park, Železná Studnička, Sad Janka Kráľa) are walkable from the centre, and four 24/7 emergency clinics serve the city. Bratislava stays compact, affordable, and easy to combine with Vienna, Budapest, or Brno for a Danube dog-travel itinerary.`,
+      es: `Bratislava es la capital de Eslovaquia desde 1993, pero su historia como ciudad coronaria húngara (Pozsony, Pressburg) se remonta al siglo XIII, cuando el castillo y el casco antiguo tomaron forma al pie de los Pequeños Cárpatos y a orillas del Danubio. Hoy la ciudad tiene unos 430.000 habitantes y el ministerio eslovaco registra cerca de 35.000 perros en el área metropolitana, una densidad alta para una capital centroeuropea, y se nota en el tejido urbano: terrazas mayoritariamente dog-friendly, parques forestales (Horský Park, Železná Studnička, Sad Janka Kráľa) accesibles a pie desde el centro, y cuatro clínicas de urgencia 24/7. Bratislava sigue siendo compacta, asequible y fácil de combinar con Viena, Budapest o Brno para un itinerario canino por el Danubio.`,
+    },
+    sights: [
+      {
+        name: 'Bratislavský hrad',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Château blanc à quatre tours d'angle perché à 85 mètres au-dessus du Danube, symbole national. L'intérieur et les terrasses internes sont fermés aux animaux non-assistance, mais le glacis extérieur et la pente sous le château sont accessibles en laisse.`,
+          en: `The white four-towered castle perched 85 metres above the Danube, a national symbol. The interior and inner terraces are closed to non-assistance pets, but the outer glacis and the slope below remain leash-friendly.`,
+          es: `El castillo blanco de cuatro torres encaramado a 85 metros sobre el Danubio, símbolo nacional. El interior y las terrazas interiores están vetados a mascotas no de asistencia, pero el glacis exterior y la ladera de abajo siguen siendo accesibles con correa.`,
+        },
+      },
+      {
+        name: 'Hlavné námestie',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Place principale pavée de la vieille ville avec sa fontaine de Roland du XVIe siècle et l'ancien hôtel de ville. Les chiens en laisse y sont les bienvenus toute l'année, et les terrasses environnantes accueillent les animaux par défaut.`,
+          en: `The cobbled main square of the Old Town with its 16th-century Roland fountain and the historic Town Hall. Leashed dogs are welcome year-round, and the surrounding terraces accept pets by default.`,
+          es: `La plaza principal adoquinada del casco antiguo con su fuente de Roldán del siglo XVI y el antiguo Ayuntamiento. Los perros con correa son bienvenidos todo el año, y las terrazas del entorno aceptan mascotas por defecto.`,
+        },
+      },
+      {
+        name: 'Sad Janka Kráľa',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus vieux parc public d'Europe centrale (1776), sur la rive sud du Danube. Allées de gravier, platanes anciens, vues sur la vieille ville depuis l'entrée nord du pont SNP — chiens en laisse partout, accessible 24h/24.`,
+          en: `Central Europe's oldest public park (1776), on the south bank of the Danube. Gravel paths, mature plane trees, views of the Old Town from the SNP Bridge end — leashed dogs welcome throughout, open 24/7.`,
+          es: `El parque público más antiguo de Europa Central (1776), en la orilla sur del Danubio. Paseos de grava, plátanos maduros, vistas al casco antiguo desde el extremo del puente SNP — perros con correa por todas partes, abierto 24/7.`,
+        },
+      },
+      {
+        name: 'Železná Studnička',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Vallée boisée à la lisière sud des Petites Carpates, destination traditionnelle de promenade canine sauvage. Sentiers supérieurs balisés sans laisse vers la tour TV de Kamzík, accessible en bus 213 depuis Patrónka.`,
+          en: `A forested valley on the southern edge of the Little Carpathians, the city's traditional wild dog-walking destination. Marked off-leash upper trails climb to the Kamzík TV tower; bus 213 from Patrónka serves the lower entry.`,
+          es: `Un valle boscoso en el extremo sur de los Pequeños Cárpatos, el destino tradicional de paseo canino salvaje de la ciudad. Senderos superiores marcados sin correa suben hasta la torre de TV de Kamzík; el autobús 213 desde Patrónka lleva a la entrada baja.`,
+        },
+      },
+      {
+        name: 'Devínsky hrad',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Ruines du château perché sur une falaise de 212 mètres à la confluence Danube-Morava. Les chiens en laisse sont admis sur le sentier riverain, la prairie au pied de la falaise et la piste cyclable depuis Bratislava ; les ruines elles-mêmes sont fermées aux animaux.`,
+          en: `Ruined castle on a 212-metre cliff at the confluence of the Danube and Morava rivers. Leashed dogs are welcome on the riverside path, the meadow below the cliff, and the cycle path from Bratislava; the ruins themselves are closed to pets.`,
+          es: `Castillo en ruinas sobre un acantilado de 212 metros en la confluencia del Danubio y el Morava. Los perros con correa son bienvenidos en la senda ribereña, la pradera al pie del acantilado y el carril bici desde Bratislava; las ruinas en sí están cerradas a las mascotas.`,
+        },
+      },
+      {
+        name: 'Slavín Memorial',
+        emoji: '🕊️',
+        petFriendly: true,
+        desc: {
+          fr: `Mémorial soviétique de 39 mètres sur une colline au-dessus de la vieille ville, libre d'accès. Vue panoramique sur Bratislava, idéale au coucher du soleil ; chiens en laisse acceptés sur les pelouses et la promenade du périmètre.`,
+          en: `A 39-metre Soviet war memorial on a hill above the Old Town, free to enter. Panoramic city view, ideal at sunset; leashed dogs welcome on the lawns and the perimeter walk.`,
+          es: `Memorial soviético de 39 metros sobre una colina por encima del casco antiguo, de acceso libre. Vista panorámica de la ciudad, ideal al atardecer; perros con correa admitidos en el césped y el paseo perimetral.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La muselière est obligatoire pour les chiens moyens et grands dans tous les transports DPB et ZSSK — emportez-en une, même si votre chien n'en porte pas à la maison.`,
+        `Achetez le ticket chien en même temps que le vôtre dans les trams ; l'amende imprévue pour un chien non déclaré est de 5 €.`,
+        `Urgence vétérinaire 24h/24 la plus centrale : VETLINE, Staromestská 6/D, +421 911 122 122 — quelques minutes à pied du château.`,
+        `Le château de Bratislava et la plupart des musées sont fermés aux animaux non-assistance ; planifiez une garde via Pawshake.sk pour les visites en intérieur.`,
+        `La Slovaquie applique le passeport européen pour animaux ; vaccination antirabique d'au moins 21 jours et puce électronique exigées à l'entrée.`,
+      ],
+      en: [
+        `A muzzle is mandatory for medium and large dogs on all DPB and ZSSK transport — pack one even if your dog never wears one at home.`,
+        `Buy the dog ticket along with your own on trams; the unannounced fine for an undeclared dog is €5.`,
+        `Most central 24/7 emergency vet: VETLINE, Staromestská 6/D, +421 911 122 122 — minutes on foot from the castle.`,
+        `Bratislava Castle and most museums are closed to non-assistance pets; plan a sitter via Pawshake.sk for indoor visits.`,
+        `Slovakia uses the EU pet passport; rabies vaccination at least 21 days old and microchip are required at the border.`,
+      ],
+      es: [
+        `El bozal es obligatorio para perros medianos y grandes en todo el transporte DPB y ZSSK: lleva uno aunque tu perro no lo use nunca en casa.`,
+        `Compra el billete del perro junto con el tuyo en los tranvías; la multa imprevista por un perro no declarado es de 5 €.`,
+        `Veterinario de urgencias 24/7 más céntrico: VETLINE, Staromestská 6/D, +421 911 122 122, a minutos a pie del castillo.`,
+        `El Castillo de Bratislava y la mayoría de los museos están vetados a mascotas no de asistencia; planifica un cuidador vía Pawshake.sk para las visitas en interior.`,
+        `Eslovaquia aplica el pasaporte europeo para mascotas; vacunación antirrábica de al menos 21 días y microchip son obligatorios en la frontera.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport de Bratislava (BTS) est à 9 km du centre, bus 61 jusqu'à la gare principale ; Vienne-Schwechat (VIE) à 50 km offre plus de connexions, navette directe d'1 heure.`,
+        `Tarifs hôtels dog-friendly : à partir de 60 € la nuit en hôtel 3*, supplément animal moyen 15–25 € par séjour.`,
+        `Climat continental : hivers froids et neigeux (-3 °C en janvier), étés chauds (23 °C en juillet) ; pavés glissants en hiver, prévoyez un manteau pour petits chiens.`,
+        `Pawshake.sk est la plateforme dominante pour la garde et la promenade ; comptez 10–12 € la visite, 18–25 € la journée, 20–30 € la nuit.`,
+        `Bratislava est à 1 heure de Vienne en train direct, 2h30 de Budapest et 3h de Brno — combinaisons idéales pour un circuit canin transfrontalier.`,
+      ],
+      en: [
+        `Bratislava Airport (BTS) is 9 km from the centre, bus 61 to the main station; Vienna-Schwechat (VIE) at 50 km offers more connections, with a direct 1-hour shuttle.`,
+        `Dog-friendly hotel rates: from €60 per night for 3*, average pet supplement €15–25 per stay.`,
+        `Continental climate: cold snowy winters (-3 °C in January), warm summers (23 °C in July); icy cobbles in winter, pack a coat for small dogs.`,
+        `Pawshake.sk is the dominant pet-care platform; budget €10–12 per drop-in visit, €18–25 for full-day care, €20–30 per night.`,
+        `Bratislava is 1 hour from Vienna by direct train, 2h30 from Budapest, and 3 hours from Brno — ideal for a cross-border dog-travel circuit.`,
+      ],
+      es: [
+        `El aeropuerto de Bratislava (BTS) está a 9 km del centro, bus 61 hasta la estación principal; Viena-Schwechat (VIE) a 50 km ofrece más conexiones, con una lanzadera directa de 1 hora.`,
+        `Tarifas de hoteles dog-friendly: desde 60 € por noche en 3*, suplemento medio por mascota 15–25 € por estancia.`,
+        `Clima continental: inviernos fríos y nevados (-3 °C en enero), veranos cálidos (23 °C en julio); adoquines resbaladizos en invierno, lleva abrigo para perros pequeños.`,
+        `Pawshake.sk es la plataforma dominante de cuidado y paseo; cuenta 10–12 € por visita puntual, 18–25 € por día completo, 20–30 € por noche.`,
+        `Bratislava está a 1 hora de Viena en tren directo, 2h30 de Budapest y 3 horas de Brno: ideal para un circuito canino transfronterizo.`,
+      ],
+    },
+  },
+
   brighton: {
     history: {
       fr: `Brighton est devenue station balnéaire à la fin du XVIIIe siècle quand le futur George IV en a fait son terrain de jeu personnel et y a fait construire le Royal Pavilion en 1815, palais indo-sarrasin sans équivalent en Europe. La ville a ensuite absorbé Hove voisine, et l'autorité unitaire de Brighton & Hove créée en 1997 compte aujourd'hui environ 277 000 habitants pour une trentaine de milliers de chiens enregistrés. C'est, de l'avis général des guides britanniques, la ville la plus dog-friendly de la côte sud : 17 plages canines, des bus gratuits pour les animaux, une majorité de pubs et de cafés ouverts, et le parc national des South Downs qui démarre à 5 km au nord. Le rythme de plage est strictement saisonnier — interdiction sur le front de mer central du 1er mai au 30 septembre — mais Hove Lawns, Saltdean et Rottingdean restent ouvertes toute l'année.`,

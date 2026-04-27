@@ -51,6 +51,7 @@ const TARGETS = [
   { slug: 'genoa', query: 'Genoa Italy Porto Antico harbour Lanterna lighthouse panorama' },
   { slug: 'the-hague', query: 'Hofvijver Binnenhof The Hague reflection panorama' },
   { slug: 'brighton', query: 'Brighton seafront West Pier sunset i360 panorama' },
+  { slug: 'bratislava', query: 'Bratislava Castle Danube sunset panorama Old Town' },
 ]
 
 async function searchPhoto(query, apiKey) {

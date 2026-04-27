@@ -732,6 +732,80 @@
     }
   },
   {
+    "slug": "bratislava",
+    "name": "Bratislava",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "flag": "🇸🇰",
+    "lat": 48.1486,
+    "lng": 17.1077,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bratislava.jpg",
+    "intro": "Bratislava is a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests of Železná Studnička, and the Danube embankments — all reachable on foot or one tram ride from the centre.",
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "brighton",
     "name": "Brighton",
     "country": "United Kingdom",

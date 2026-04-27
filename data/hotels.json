@@ -1792,6 +1792,123 @@
     "slug": "yndo-hotel"
   },
   {
+    "id": "brighton-1",
+    "name": "The Grand Brighton",
+    "destinationSlug": "brighton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4500,
+    "priceFrom": 240,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-grand-brighton.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "The Grand Brighton allows up to two dogs of any size for £30 per pet per night. Both dogs and cats are welcome. The hotel offers a private garden area for morning walks and water bowls in the lounge.",
+    "highlights": [
+      "Iconic Victorian seafront landmark",
+      "Private garden for dog walks",
+      "Two-minute walk to dog beach"
+    ],
+    "slug": "the-grand-brighton-brighton"
+  },
+  {
+    "id": "brighton-2",
+    "name": "Drakes Hotel",
+    "destinationSlug": "brighton",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1900,
+    "priceFrom": 215,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/drakes-of-brighton.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Drakes welcomes dogs in selected rooms for £25 per stay. The hotel provides custom pet beds, water bowls, and treats; dogs join guests in the breakfast room. Cats are not accepted.",
+    "highlights": [
+      "Pet concierge service",
+      "Steps from year-round dog beach",
+      "Sea-view rooms with freestanding baths"
+    ],
+    "slug": "drakes-hotel-brighton"
+  },
+  {
+    "id": "brighton-3",
+    "name": "DoubleTree by Hilton Brighton Metropole",
+    "destinationSlug": "brighton",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 5200,
+    "priceFrom": 145,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hilton-brighton-metropole-brighton.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "DoubleTree Brighton Metropole accepts up to two pets up to 34 kg for £35 per stay. Both dogs and cats are welcome. Pets are not allowed in food and beverage areas.",
+    "highlights": [
+      "Direct seafront 1890s building",
+      "Beside Brighton Centre",
+      "Indoor pool"
+    ],
+    "slug": "doubletree-hilton-brighton-metropole-brighton"
+  },
+  {
+    "id": "brighton-4",
+    "name": "The Old Ship Hotel",
+    "destinationSlug": "brighton",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 3800,
+    "priceFrom": 125,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/old-ship-brighton.en-gb.html",
+    "petFee": 13,
+    "petPolicy": "The Old Ship welcomes up to two dogs for £13 per pet per night. Dogs receive a bed, food and water bowls, and treats at check-in. Pets are allowed everywhere except the gym and main restaurant.",
+    "highlights": [
+      "Brighton's oldest hotel (since 1559)",
+      "On the seafront beside the Lanes",
+      "Welcome dog kit at check-in"
+    ],
+    "slug": "the-old-ship-hotel-brighton"
+  },
+  {
+    "id": "brighton-5",
+    "name": "Holiday Inn Brighton Seafront",
+    "destinationSlug": "brighton",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.9,
+    "reviewCount": 4100,
+    "priceFrom": 110,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/express-by-holiday-inn-brighton.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Holiday Inn Brighton Seafront welcomes dogs for £15 per night plus a £40 refundable deposit per stay. Dogs only — cats are not accepted. Pets are restricted to designated dog-friendly rooms.",
+    "highlights": [
+      "Direct seafront opposite the beach",
+      "Walk to Brighton Pier and station",
+      "Designated pet rooms"
+    ],
+    "slug": "holiday-inn-brighton-seafront-brighton"
+  },
+  {
     "id": "bruges-1",
     "name": "Dukes' Palace Brugge - by Dukes' Hotel Collection",
     "destinationSlug": "bruges",

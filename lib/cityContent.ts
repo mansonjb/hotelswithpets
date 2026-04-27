@@ -1148,6 +1148,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  brighton: {
+    history: {
+      fr: `Brighton est devenue station balnéaire à la fin du XVIIIe siècle quand le futur George IV en a fait son terrain de jeu personnel et y a fait construire le Royal Pavilion en 1815, palais indo-sarrasin sans équivalent en Europe. La ville a ensuite absorbé Hove voisine, et l'autorité unitaire de Brighton & Hove créée en 1997 compte aujourd'hui environ 277 000 habitants pour une trentaine de milliers de chiens enregistrés. C'est, de l'avis général des guides britanniques, la ville la plus dog-friendly de la côte sud : 17 plages canines, des bus gratuits pour les animaux, une majorité de pubs et de cafés ouverts, et le parc national des South Downs qui démarre à 5 km au nord. Le rythme de plage est strictement saisonnier — interdiction sur le front de mer central du 1er mai au 30 septembre — mais Hove Lawns, Saltdean et Rottingdean restent ouvertes toute l'année.`,
+      en: `Brighton became a seaside resort in the late 18th century when the future George IV made it his personal playground and commissioned the Indo-Saracenic Royal Pavilion in 1815, a palace without parallel in Europe. The town later absorbed neighbouring Hove, and the unitary authority of Brighton & Hove created in 1997 counts about 277 000 inhabitants for roughly 30 000 registered dogs. It is, in the consensus of British travel guides, the most dog-friendly city on the south coast: 17 dog-friendly beaches, free buses for pets, most pubs and cafés open to leashed dogs, and the South Downs National Park starting 5 km north. The beach rhythm is strictly seasonal — the central seafront is closed to dogs from 1 May to 30 September — but Hove Lawns, Saltdean and Rottingdean stay open all year.`,
+      es: `Brighton se convirtió en estación balnearia a finales del siglo XVIII, cuando el futuro Jorge IV la convirtió en su zona de recreo personal y mandó construir en 1815 el Royal Pavilion, palacio indo-sarraceno sin parangón en Europa. La ciudad acabó absorbiendo a la vecina Hove, y la autoridad unitaria de Brighton & Hove, creada en 1997, suma hoy unos 277.000 habitantes y unos 30.000 perros registrados. Es, según la opinión generalizada de las guías británicas, la ciudad más dog-friendly de la costa sur: 17 playas para perros, autobuses gratuitos para mascotas, la mayoría de los pubs y cafés abiertos a perros con correa y el parque nacional South Downs empezando 5 km al norte. El calendario de playa es estrictamente estacional —el paseo marítimo central está cerrado a perros del 1 de mayo al 30 de septiembre— pero Hove Lawns, Saltdean y Rottingdean abren todo el año.`,
+    },
+    sights: [
+      {
+        name: 'Hove Lawns',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Bande de pelouse de 1,2 km en bord de mer, sans laisse toute l'année, doublée d'une plage canine elle aussi accessible 365 jours par an. Le point de rendez-vous social des propriétaires de chiens à Brighton, surtout entre 17h et 19h.`,
+          en: `A 1.2 km strip of seafront grass, off-leash year-round, paired with a dog beach equally open 365 days a year. The social hub for Brighton dog owners, especially between 17:00 and 19:00.`,
+          es: `Franja de césped marítimo de 1,2 km, sin correa todo el año, junto a una playa para perros también abierta 365 días al año. El punto social de los dueños de perros en Brighton, sobre todo entre las 17:00 y las 19:00.`,
+        },
+      },
+      {
+        name: 'Royal Pavilion Garden',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin public gratuit qui entoure le palais indo-sarrasin de George IV. Les chiens en laisse y sont les bienvenus toute l'année — l'intérieur du Pavilion reste fermé aux animaux non-assistance.`,
+          en: `Free public garden ringing George IV's Indo-Saracenic palace. Dogs on leash are welcome year-round — the Pavilion interior remains off-limits to non-assistance pets.`,
+          es: `Jardín público y gratuito que rodea el palacio indo-sarraceno de Jorge IV. Los perros con correa son bienvenidos todo el año; el interior del Pavilion sigue vetado a las mascotas no de asistencia.`,
+        },
+      },
+      {
+        name: 'Volk\'s Electric Railway',
+        emoji: '🚂',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien chemin de fer électrique au monde encore en activité (1883), qui longe le front de mer de l'Aquarium à Black Rock. Les chiens en laisse sont admis sans supplément, de mars à octobre.`,
+          en: `The world's oldest operating electric railway (1883), running along the seafront from the Aquarium to Black Rock. Leashed dogs are admitted at no extra fare, March to October.`,
+          es: `El ferrocarril eléctrico más antiguo del mundo aún operativo (1883), que recorre el paseo marítimo desde el Aquarium hasta Black Rock. Los perros con correa se admiten sin coste adicional, de marzo a octubre.`,
+        },
+      },
+      {
+        name: 'Stanmer Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Domaine de 200 hectares aux portes du parc national des South Downs, majoritairement sans laisse, avec ferme en activité, bois et hameau de Stanmer. La balade canine la plus ambitieuse du réseau brightonien.`,
+          en: `A 200-hectare estate at the gateway to the South Downs National Park, mostly off-leash, with a working farm, woodland and Stanmer village. The most ambitious dog walk in Brighton's park network.`,
+          es: `Finca de 200 hectáreas a las puertas del parque nacional South Downs, mayoritariamente sin correa, con granja en activo, bosque y la aldea de Stanmer. El paseo canino más ambicioso de la red de parques de Brighton.`,
+        },
+      },
+      {
+        name: 'The Lanes & North Laine',
+        emoji: '🛍️',
+        petFriendly: true,
+        desc: {
+          fr: `Les deux quartiers commerçants emblématiques de Brighton — les Lanes historiques (bijoux, antiquités) et le North Laine bohème (vintage, indépendants). La plupart des boutiques acceptent les chiens en laisse, beaucoup gardent une gamelle d'eau à la porte.`,
+          en: `Brighton's two emblematic shopping districts — the historic Lanes (jewellery, antiques) and the bohemian North Laine (vintage, independents). Most shops welcome leashed dogs, many keep a water bowl at the door.`,
+          es: `Los dos distritos comerciales emblemáticos de Brighton — el histórico The Lanes (joyería, antigüedades) y el bohemio North Laine (vintage, independientes). La mayoría de las tiendas admiten perros con correa, muchas tienen un cuenco de agua en la puerta.`,
+        },
+      },
+      {
+        name: 'Saltdean Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Vaste anse de galets à l'est de Brighton, encadrée par des falaises de craie, ouverte aux chiens toute l'année. À marée basse, longue bande de sable plat, et l'Undercliff Walk ramène à la Marina en 90 minutes.`,
+          en: `A wide pebble cove east of Brighton, framed by chalk cliffs, dog-friendly year-round. At low tide a long flat sand strip emerges, and the Undercliff Walk leads back to the Marina in 90 minutes.`,
+          es: `Amplia cala de guijarros al este de Brighton, enmarcada por acantilados de creta, dog-friendly todo el año. Con bajamar aparece una larga franja de arena plana, y el Undercliff Walk vuelve a la Marina en hora y media.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale (1er mai-30 septembre) sur la majeure partie du front de mer central — repliez-vous sur Hove Lawns, Saltdean ou Rottingdean, ouvertes toute l'année.`,
+        `Bus gratuits pour jusqu'à 2 chiens par voyageur sur tout le réseau Brighton & Hove ; les animaux doivent être au sol ou sur les genoux, jamais sur les sièges.`,
+        `Urgence vétérinaire 24h/24 : Coastway Veterinary Group, Freshfield Way, BN2 0DF, +44 1273 692 257 — couvre la plupart des petites cliniques de la ville la nuit.`,
+        `Brexit : depuis 2021 les passeports européens pour animaux ne sont plus valides à l'entrée du Royaume-Uni — un Animal Health Certificate est indispensable.`,
+        `Le Brighton Palace Pier n'admet que les chiens d'assistance ; le Volk's Electric Railway juste à côté est en revanche entièrement dog-friendly.`,
+      ],
+      en: [
+        `Summer ban (1 May–30 September) covers most of the central seafront — fall back on Hove Lawns, Saltdean, or Rottingdean, all open year-round.`,
+        `Up to 2 dogs ride free per passenger on the entire Brighton & Hove bus network; pets must sit on the floor or on a lap, never on a seat.`,
+        `24/7 emergency vet: Coastway Veterinary Group, Freshfield Way, BN2 0DF, +44 1273 692 257 — covers most of the city's smaller clinics overnight.`,
+        `Post-Brexit: since 2021 EU pet passports are no longer valid for entry into the UK — an Animal Health Certificate is required.`,
+        `Brighton Palace Pier admits only assistance dogs; the Volk's Electric Railway alongside it is fully dog-friendly.`,
+      ],
+      es: [
+        `Prohibición estival (1 may–30 sep) en la mayor parte del paseo marítimo central: usa Hove Lawns, Saltdean o Rottingdean, abiertas todo el año.`,
+        `Hasta 2 perros viajan gratis por viajero en toda la red de autobuses de Brighton & Hove; las mascotas deben ir en el suelo o en el regazo, nunca en los asientos.`,
+        `Urgencia veterinaria 24h: Coastway Veterinary Group, Freshfield Way, BN2 0DF, +44 1273 692 257 — cubre la mayoría de las clínicas pequeñas de la ciudad por la noche.`,
+        `Tras el Brexit: desde 2021 los pasaportes europeos de mascotas ya no sirven para entrar al Reino Unido; hace falta un Animal Health Certificate.`,
+        `El Brighton Palace Pier solo admite perros de asistencia; el Volk's Electric Railway, justo al lado, sí es totalmente dog-friendly.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Eurostar : impossible avec animaux non-assistance ; le mieux est l'Eurotunnel Le Shuttle (Calais-Folkestone) puis voiture, ou un trajet ferry-train via Newhaven-Dieppe.`,
+        `Trains depuis Londres Victoria/St Pancras (Southern, Thameslink) : trajet 1h, jusqu'à 2 chiens gratuits par billet adulte.`,
+        `Climat océanique tempéré : étés doux (20 °C en juillet), hivers humides ; le vent de la Manche peut être fort, prévoyez un manteau pour petits chiens d'octobre à mars.`,
+        `Tailster.com et BorrowMyDoggy.com sont les deux plateformes de référence pour la garde et la promenade ; comptez 12-15 £ la promenade, 30-40 £ la journée complète.`,
+        `Amende forfaitaire de 100 £ pour les déjections non ramassées sur la voie publique ; appliquée par les agents de la mairie.`,
+      ],
+      en: [
+        `Eurostar: not possible with non-assistance pets; the best route is Eurotunnel Le Shuttle (Calais-Folkestone) plus car, or a ferry-and-train route via Newhaven-Dieppe.`,
+        `Trains from London Victoria/St Pancras (Southern, Thameslink): 1 hour, up to 2 dogs free per adult ticket.`,
+        `Mild oceanic climate: gentle summers (20 °C in July), wet winters; Channel winds can be strong, so pack a coat for small dogs October-March.`,
+        `Tailster.com and BorrowMyDoggy.com are the two reference platforms for sitting and walking; budget £12-15 per walk, £30-40 per full day.`,
+        `£100 fixed penalty for not picking up dog mess in public spaces, enforced by council officers.`,
+      ],
+      es: [
+        `Eurostar: imposible con mascotas que no sean de asistencia; la mejor opción es Eurotunnel Le Shuttle (Calais-Folkestone) más coche, o una ruta ferry+tren vía Newhaven-Dieppe.`,
+        `Trenes desde London Victoria/St Pancras (Southern, Thameslink): 1 hora, hasta 2 perros gratis por billete adulto.`,
+        `Clima oceánico templado: veranos suaves (20 °C en julio), inviernos húmedos; el viento del Canal puede ser fuerte, lleva abrigo para perros pequeños de octubre a marzo.`,
+        `Tailster.com y BorrowMyDoggy.com son las dos plataformas de referencia para cuidado y paseo; cuenta 12-15 £ por paseo, 30-40 £ por día completo.`,
+        `Multa fija de 100 £ por no recoger las deposiciones en la vía pública, aplicada por los agentes municipales.`,
+      ],
+    },
+  },
+
   bruges: {
     history: {
       en: 'Medieval Bruges — the "Venice of the North" — is one of Europe\'s best-preserved historic city centres, and one of its most dog-friendly. Belgians take dogs everywhere: into shops, cafés, restaurants and even some museums. The city\'s compact size (easily walkable in a day), its canal-side paths and its relaxed attitude to dogs in public spaces make it an ideal short-break destination for pet owners.',

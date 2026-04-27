@@ -71,6 +71,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
+    brighton: {
+      personality: 'the UK\'s most reliably dog-friendly seaside city, where pets ride free on the buses and Hove Lawns Beach stays open year-round',
+      highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
+      area: 'The Lanes, Kemptown, and the Hove seafront',
+    },
     bruges: {
       personality: 'a beautifully preserved medieval city where dogs trot alongside their owners on cobbled streets, canal towpaths, and through the quiet surrounding countryside',
       highlight: 'the Minnewater park, the canal network towpaths, and the Koningin Astridpark',
@@ -424,6 +429,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
+    brighton: {
+      personality: 'la ville balnéaire britannique la plus fiable côté chiens, où les bus sont gratuits pour les animaux et où Hove Lawns Beach reste ouverte toute l\'année',
+      highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
+      area: 'The Lanes, Kemptown et le front de mer de Hove',
+    },
     bruges: {
       personality: 'une magnifique ville médiévale préservée où les chiens trottent aux côtés de leurs propriétaires sur des rues pavées, des chemins de halage et à travers la tranquille campagne environnante',
       highlight: 'le parc de Minnewater, les chemins de halage du réseau de canaux et le Koningin Astridpark',
@@ -775,6 +785,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad donde los perros pasean por las terrazas de los bares de vino del barrio de Chartrons, exploran los muelles del Garona y son bienvenidos en la mayoría de los hoteles boutique',
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
       area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
+    },
+    brighton: {
+      personality: 'la ciudad costera más dog-friendly del Reino Unido, donde los autobuses son gratis para mascotas y la playa de Hove Lawns abre todo el año',
+      highlight: 'Hove Lawns, Preston Park y Stanmer Park a las puertas de los South Downs',
+      area: 'The Lanes, Kemptown y el paseo marítimo de Hove',
     },
     bruges: {
       personality: 'una hermosa ciudad medieval conservada donde los perros trotean junto a sus dueños por calles empedradas, caminos de sirga y a través del tranquilo campo circundante',

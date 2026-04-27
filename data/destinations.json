@@ -732,6 +732,80 @@
     }
   },
   {
+    "slug": "brighton",
+    "name": "Brighton",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "lat": 50.8225,
+    "lng": -0.1372,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brighton.jpg",
+    "intro": "Brighton is the UK's most reliable seaside city for travelling with a dog: free buses, year-round dog beaches at Hove Lawns and Saltdean, dog-friendly cafés on every corner of The Lanes and Hove, and the South Downs National Park five kilometres from the centre.",
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "bruges",
     "name": "Bruges",
     "country": "Belgium",

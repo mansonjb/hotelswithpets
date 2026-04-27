@@ -1,0 +1,885 @@
+{
+  "slug": "sofia",
+  "name": "Sofia",
+  "country": "Bulgaria",
+  "flag": "🇧🇬",
+  "lastUpdated": "2026-04-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Sofia",
+      "titleFr": "Restaurants acceptant les chiens à Sofia",
+      "titleEs": "Restaurantes para perros en Sofía",
+      "introEn": "Sofia's dining scene leans heavily on outdoor seating, and Bulgarian café culture is broadly dog-welcoming on terraces — Vitosha Boulevard, Graf Ignatiev, and the cluster around Sveta Nedelya square are the densest. Indoor seating with a dog is more variable than in Vienna or Paris, but well-behaved dogs are accepted in the majority of independent cafés and many gastropubs. Below are three reliable, verified addresses with year-round pet policies.",
+      "introFr": "La scène gastronomique de Sofia mise beaucoup sur la terrasse, et la culture café bulgare est largement dog-friendly en extérieur — Vitosha Boulevard, Graf Ignatiev et le pôle autour de la place Sveta Nedelya concentrent les meilleures adresses. L'accueil en salle est plus variable qu'à Vienne ou Paris, mais les chiens sages sont acceptés dans la majorité des cafés indépendants et de nombreux gastropubs. Ci-dessous, trois adresses fiables et vérifiées avec une politique animaux à l'année.",
+      "introEs": "La oferta gastronómica de Sofía se apoya mucho en la terraza, y la cultura de cafetería búlgara es ampliamente dog-friendly al aire libre: Vitosha Boulevard, Graf Ignatiev y el polo alrededor de la plaza Sveta Nedelya concentran las mejores direcciones. La admisión en interior es más variable que en Viena o París, pero los perros tranquilos se aceptan en la mayoría de cafés independientes y muchos gastropubs. A continuación, tres direcciones fiables y verificadas con política de mascotas todo el año.",
+      "places": [
+        {
+          "name": "Shtastliveca Vitosha",
+          "address": "27 Vitosha Boulevard, 1000 Sofia",
+          "neighborhood": "Vitosha Boulevard (city centre)",
+          "photo": "/images/city-places/sofia-restaurants-shtastliveca-vitosha.jpg",
+          "website": "https://www.shtastliveca.com/en/restaurants/shtastliveca-vitosha-sofia.html",
+          "description": "A landmark Bulgarian restaurant on the central pedestrian stretch of Vitosha Boulevard, with a wide terrace facing the Vitosha mountain skyline. Dogs are welcome on the entire outside section and the front part of the indoor room. The kitchen runs classic Bulgarian dishes — banitsa, shopska salad, kavarma — alongside a strong Bulgarian wine list.",
+          "descriptionFr": "Restaurant bulgare emblématique sur la portion piétonne centrale du Vitosha Boulevard, avec une vaste terrasse face au massif du Vitosha. Les chiens sont les bienvenus sur toute la section extérieure et la partie avant de la salle. La cuisine décline les classiques bulgares — banitsa, shopska salad, kavarma — avec une solide carte des vins bulgares.",
+          "descriptionEs": "Restaurante búlgaro emblemático en el tramo peatonal central del Vitosha Boulevard, con una amplia terraza frente al monte Vitosha. Los perros son bienvenidos en toda la sección exterior y la parte delantera de la sala. La cocina ofrece los clásicos búlgaros — banitsa, shopska, kavarma — junto a una sólida carta de vinos búlgaros.",
+          "petPolicy": "Dogs welcome on terrace and front indoor room",
+          "petPolicyFr": "Chiens acceptés en terrasse et dans la salle avant",
+          "petPolicyEs": "Perros admitidos en terraza y en la sala delantera del interior",
+          "priceRange": "€€",
+          "mustTry": "Banitsa, shopska salad, Bulgarian Mavrud wine",
+          "mustTryFr": "Banitsa, shopska salad, vin bulgare Mavrud",
+          "mustTryEs": "Banitsa, ensalada shopska, vino búlgaro Mavrud",
+          "openingHours": "Mon–Sun 11:00–24:00",
+          "tip": "Reserve the corner terrace table at 19:00 — the sun lights up the Vitosha mountain peaks behind the boulevard.",
+          "tipFr": "Réservez la table d'angle en terrasse à 19h — le soleil éclaire les sommets du Vitosha derrière le boulevard.",
+          "tipEs": "Reserva la mesa esquinera de la terraza a las 19:00: el sol ilumina las cumbres del Vitosha detrás del bulevar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Shtastliveca+Vitosha+Sofia"
+        },
+        {
+          "name": "Raffy Bar & Gelato",
+          "address": "33 Vitosha Boulevard, 1000 Sofia",
+          "neighborhood": "Vitosha Boulevard",
+          "photo": "/images/city-places/sofia-restaurants-raffy-bar-gelato.jpg",
+          "website": "https://www.raffy.bg/",
+          "description": "A long-running Bulgarian gelato and bar chain with its flagship on Vitosha Boulevard, where the wide terrace is famously dog-welcoming. Water bowls appear without asking and treats are sometimes offered to friendly dogs by staff. The summer ice-cream menu and the year-round gelato counter both run from morning until late.",
+          "descriptionFr": "Chaîne bulgare historique de gelato et bar dont l'adresse phare est sur le Vitosha Boulevard, et dont la grande terrasse est connue pour son accueil des chiens. Les gamelles d'eau arrivent sans qu'on les demande, et le personnel offre parfois des friandises aux chiens sociables. La carte de glaces estivale et le comptoir gelato à l'année fonctionnent du matin jusque tard.",
+          "descriptionEs": "Cadena búlgara histórica de gelato y bar cuya dirección principal está en el Vitosha Boulevard, con una amplia terraza conocida por su acogida a los perros. Los cuencos de agua llegan sin pedirlos y el personal a veces ofrece premios a los perros sociables. La carta veraniega de helados y la barra de gelato todo el año funcionan desde la mañana hasta tarde.",
+          "petPolicy": "Dogs welcome on terrace; water bowls and treats provided",
+          "petPolicyFr": "Chiens acceptés en terrasse ; gamelles d'eau et friandises fournies",
+          "petPolicyEs": "Perros admitidos en terraza; cuencos de agua y premios disponibles",
+          "priceRange": "€",
+          "mustTry": "Pistachio gelato, Bulgarian rakia tasting board",
+          "mustTryFr": "Gelato à la pistache, planche dégustation rakia bulgare",
+          "mustTryEs": "Gelato de pistacho, tabla de cata de rakia búlgara",
+          "openingHours": "Mon–Sun 09:00–24:00",
+          "tip": "Best in the late afternoon — the boulevard is fully shaded and you'll catch the post-work dog-walking crowd.",
+          "tipFr": "À privilégier en fin d'après-midi — le boulevard est entièrement à l'ombre et vous croiserez les Sofiotes qui sortent du bureau avec leur chien.",
+          "tipEs": "Mejor a última hora de la tarde: el bulevar queda totalmente sombreado y coincides con los sofiotas que salen del trabajo con su perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Raffy+Bar+Gelato+Vitosha+Sofia"
+        },
+        {
+          "name": "Social Cafe Bar & Kitchen",
+          "address": "37 Knyaz Aleksandar I Battenberg, 1000 Sofia",
+          "neighborhood": "Vitosha Boulevard / city centre",
+          "photo": "/images/city-places/sofia-restaurants-social-cafe-bar-kitchen.jpg",
+          "website": "https://socialcafe.bg/",
+          "description": "A daytime café with a generous covered terrace just off Vitosha Boulevard, popular with Sofia's freelance crowd. Dogs are explicitly welcomed on the terrace and the front section of the indoor lounge, with bowls and a small bag of treats kept behind the bar. Strong coffee programme and a long all-day brunch menu.",
+          "descriptionFr": "Café de journée avec une généreuse terrasse couverte juste à côté du Vitosha Boulevard, fréquenté par les freelances de Sofia. Les chiens sont explicitement acceptés en terrasse et dans la partie avant du salon intérieur, avec gamelles et petit sachet de friandises gardés derrière le bar. Solide programme café et longue carte brunch toute la journée.",
+          "descriptionEs": "Cafetería diurna con una generosa terraza cubierta justo al lado del Vitosha Boulevard, muy frecuentada por los freelance de Sofía. Los perros son explícitamente bienvenidos en la terraza y en la parte delantera del salón interior, con cuencos y una pequeña bolsa de premios detrás de la barra. Buena oferta cafetera y una larga carta de brunch todo el día.",
+          "petPolicy": "Dogs welcome on terrace and front indoor lounge",
+          "petPolicyFr": "Chiens acceptés en terrasse et dans la partie avant de la salle",
+          "petPolicyEs": "Perros admitidos en terraza y en la parte delantera de la sala",
+          "priceRange": "€€",
+          "mustTry": "Bulgarian breakfast plate, flat white, sourdough toasts",
+          "mustTryFr": "Petit-déjeuner bulgare, flat white, toasts au levain",
+          "mustTryEs": "Desayuno búlgaro, flat white, tostadas de masa madre",
+          "openingHours": "Mon–Sun 08:00–22:00",
+          "tip": "Weekday mornings are the calmest with a dog; weekends fill up by 11:00 and the sidewalk gets tight.",
+          "tipFr": "Les matinées en semaine sont les plus calmes avec un chien ; les week-ends, c'est plein dès 11h et le trottoir devient étroit.",
+          "tipEs": "Las mañanas entre semana son las más tranquilas con perro; los fines de semana se llena hacia las 11:00 y la acera se estrecha.",
+          "googleMapsUrl": "https://maps.google.com/?q=Social+Cafe+Sofia"
+        }
+      ],
+      "tipsEn": [
+        "Outdoor terraces in Sofia are universally dog-welcoming; indoor seating is the venue's call. A door-sticker with a dog icon flags the genuinely indoor-friendly cafés.",
+        "Vitosha Boulevard, Graf Ignatiev and the Sveta Nedelya square area concentrate the densest dog-welcoming food strips.",
+        "Bulgarian restaurants don't tip-include — leave 10% in cash for the waiter, especially if they brought a water bowl unprompted."
+      ],
+      "tipsFr": [
+        "Les terrasses extérieures à Sofia sont universellement dog-friendly ; en salle, c'est à la discrétion de l'établissement. Un autocollant avec pictogramme canin à la porte signale les vraies adresses dog-friendly en intérieur.",
+        "Vitosha Boulevard, Graf Ignatiev et la zone autour de la place Sveta Nedelya concentrent les rues les plus dog-friendly.",
+        "Les restaurants bulgares n'incluent pas le service — laissez 10 % en liquide au serveur, surtout s'il a apporté une gamelle d'eau spontanément."
+      ],
+      "tipsEs": [
+        "Las terrazas exteriores en Sofía son universalmente dog-friendly; en interior depende del local. Una pegatina con icono de perro en la puerta señala los cafés realmente dog-friendly en interior.",
+        "Vitosha Boulevard, Graf Ignatiev y la zona de la plaza Sveta Nedelya concentran las calles más dog-friendly.",
+        "Los restaurantes búlgaros no incluyen servicio: deja un 10 % en efectivo al camarero, sobre todo si trajo el cuenco de agua sin pedirlo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Sofia restaurants?",
+          "a": "Outdoor terraces are universally dog-welcoming; indoor admittance is venue-specific. Independent cafés say yes most of the time, but high-end restaurants and chains often restrict pets to the terrace."
+        },
+        {
+          "q": "Do Sofia cafés provide water bowls?",
+          "a": "Most dog-friendly venues do, including Raffy and Social Cafe. A collapsible bowl is still useful for hopping between addresses."
+        },
+        {
+          "q": "Where are the most pet-friendly food strips in Sofia?",
+          "a": "Vitosha Boulevard, Graf Ignatiev, and the streets immediately around Sveta Nedelya square. The Lozenets and Manastirski Livadi neighbourhoods also have a high concentration of dog-friendly addresses."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les restaurants de Sofia ?",
+          "a": "Les terrasses extérieures sont universellement dog-friendly ; en salle, ça dépend de l'établissement. Les cafés indépendants disent oui la plupart du temps, mais les restaurants haut de gamme et les chaînes limitent souvent les animaux à la terrasse."
+        },
+        {
+          "q": "Les cafés de Sofia fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des adresses dog-friendly oui, y compris Raffy et Social Cafe. Une gamelle pliable reste utile entre deux adresses."
+        },
+        {
+          "q": "Où trouver les rues les plus pet-friendly à Sofia ?",
+          "a": "Vitosha Boulevard, Graf Ignatiev et les rues juste autour de la place Sveta Nedelya. Les quartiers de Lozenets et Manastirski Livadi concentrent aussi de nombreuses adresses dog-friendly."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Sofía?",
+          "a": "Las terrazas exteriores son universalmente dog-friendly; en interior depende del local. Los cafés independientes dicen sí la mayor parte del tiempo, pero los restaurantes de alta gama y las cadenas suelen limitar las mascotas a la terraza."
+        },
+        {
+          "q": "¿Los cafés de Sofía ofrecen cuencos de agua?",
+          "a": "La mayoría de los locales dog-friendly sí, incluidos Raffy y Social Cafe. Un cuenco plegable sigue siendo útil entre direcciones."
+        },
+        {
+          "q": "¿Dónde están las calles más pet-friendly de Sofía?",
+          "a": "Vitosha Boulevard, Graf Ignatiev y las calles justo alrededor de la plaza Sveta Nedelya. Los barrios de Lozenets y Manastirski Livadi también concentran muchas direcciones dog-friendly."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Sofia",
+      "titleFr": "Meilleurs parcs pour chiens à Sofia",
+      "titleEs": "Mejores parques para perros en Sofía",
+      "introEn": "Sofia sits at the foot of the 2 290-metre Vitosha mountain, so the city has both serious urban parks and immediate access to a national-park-grade massif. Borisova Gradina is the historic central park; Yuzhen (South) Park has the largest off-leash culture; and the Vitosha forest tracks reach proper hiking quickly. Bulgarian municipal rules require a leash and registered-dog ticket in central streets but tolerate off-leash inside marked park sections.",
+      "introFr": "Sofia est aux pieds du Vitosha à 2 290 m, ce qui donne à la ville à la fois des parcs urbains sérieux et un accès immédiat à un massif de niveau parc national. Borisova Gradina est le parc central historique ; Yuzhen (South) Park concentre la plus grande culture sans laisse ; et les pistes forestières du Vitosha mènent à de la vraie randonnée en peu de temps. La réglementation municipale bulgare impose la laisse et un ticket chien déclaré dans les rues centrales, mais tolère le sans laisse dans les sections balisées des parcs.",
+      "introEs": "Sofía está a los pies del Vitosha de 2.290 m, así que la ciudad combina parques urbanos importantes y acceso inmediato a un macizo de nivel parque nacional. Borisova Gradina es el parque central histórico; Yuzhen (South) Park concentra la mayor cultura sin correa; y las pistas forestales del Vitosha llevan rápidamente a senderismo de verdad. La normativa municipal búlgara exige correa y un ticket de perro registrado en las calles del centro, pero tolera soltarlos dentro de las secciones marcadas de los parques.",
+      "places": [
+        {
+          "name": "Borisova Gradina",
+          "address": "Borisova Gradina, 1164 Sofia",
+          "neighborhood": "Centre / east of Vitosha Boulevard",
+          "photo": "/images/city-places/sofia-parks-borisova-gradina.jpg",
+          "website": "https://visitsofia.bg/en/places/parks-and-gardens/borisova-gradina/",
+          "description": "Sofia's oldest and most loved park, established in 1884 and stretching across about 90 hectares to the south-east of the centre. Wide tree-lined avenues, the Ariana Lake (pedalos in summer), three stadiums, and quiet rose gardens — locals walk dogs throughout. A leash is the technical default, but off-leash use is widely tolerated on the inner woodland tracks.",
+          "descriptionFr": "Plus ancien et plus aimé parc de Sofia, créé en 1884 et s'étendant sur environ 90 hectares au sud-est du centre. Larges allées arborées, lac Ariana (pédalos l'été), trois stades et roseraies tranquilles — les habitants y promènent leur chien partout. La laisse est techniquement obligatoire, mais le sans laisse est largement toléré sur les sentiers boisés intérieurs.",
+          "descriptionEs": "El parque más antiguo y querido de Sofía, creado en 1884 y con unas 90 hectáreas al sureste del centro. Amplias avenidas arboladas, el lago Ariana (con pedaletas en verano), tres estadios y jardines de rosas tranquilos: los locales pasean perros por todas partes. La correa es técnicamente la norma, pero soltarlos se tolera ampliamente en los senderos boscosos interiores.",
+          "size": "About 90 hectares",
+          "fenced": false,
+          "amenities": [
+            "Ariana Lake",
+            "Rose garden",
+            "Drinking fountains",
+            "Multiple cafés inside the park"
+          ],
+          "amenitiesFr": [
+            "Lac Ariana",
+            "Roseraie",
+            "Fontaines d'eau",
+            "Plusieurs cafés dans le parc"
+          ],
+          "amenitiesEs": [
+            "Lago Ariana",
+            "Roseda",
+            "Fuentes de agua",
+            "Varios cafés dentro del parque"
+          ],
+          "openingHours": "24/7",
+          "tip": "The eastern entrance from Tsarigradsko Shose tram stop drops you straight onto the woodland tracks where off-leash use is most common.",
+          "tipFr": "L'entrée est depuis l'arrêt de tram Tsarigradsko Shose vous amène directement aux sentiers boisés, où le sans laisse est le plus courant.",
+          "tipEs": "La entrada este desde la parada de tranvía Tsarigradsko Shose te deja directamente en los senderos boscosos, donde soltarlos es lo más habitual.",
+          "googleMapsUrl": "https://maps.google.com/?q=Borisova+Gradina+Sofia"
+        },
+        {
+          "name": "Yuzhen Park (South Park)",
+          "address": "Yuzhen Park, 1421 Sofia",
+          "neighborhood": "Lozenets / Hladilnika",
+          "photo": "/images/city-places/sofia-parks-yuzhen-park-south-park.jpg",
+          "website": "https://visitsofia.bg/en/places/parks-and-gardens/south-park/",
+          "description": "A 70-hectare park south of the centre, famous as the city's most permissive off-leash dog space. Long winding paths, open lawns, two fenced enclosures dedicated to dogs (around Emil Berzinski and Petko Y. Todorov), and a route up to the Vitosha foothills. Trams 4 and 6 stop on the western edge.",
+          "descriptionFr": "Parc de 70 hectares au sud du centre, célèbre comme l'espace canin le plus souple sans laisse de la ville. Longs sentiers sinueux, pelouses ouvertes, deux enclos clôturés dédiés aux chiens (rues Emil Berzinski et Petko Y. Todorov) et un itinéraire qui rejoint les contreforts du Vitosha. Les trams 4 et 6 desservent la lisière ouest.",
+          "descriptionEs": "Parque de 70 hectáreas al sur del centro, famoso como el espacio canino más permisivo sin correa de la ciudad. Largos senderos sinuosos, praderas abiertas, dos recintos vallados dedicados a perros (calles Emil Berzinski y Petko Y. Todorov) y una ruta que llega a las estribaciones del Vitosha. Los tranvías 4 y 6 paran en el linde oeste.",
+          "size": "70 hectares",
+          "fenced": false,
+          "amenities": [
+            "Two fenced dog enclosures",
+            "Off-leash tolerated on lawns",
+            "Cycling paths",
+            "Tram 4/6 access"
+          ],
+          "amenitiesFr": [
+            "Deux enclos canins clôturés",
+            "Sans laisse toléré sur les pelouses",
+            "Pistes cyclables",
+            "Accès trams 4/6"
+          ],
+          "amenitiesEs": [
+            "Dos recintos caninos vallados",
+            "Sin correa tolerado en el césped",
+            "Carriles bici",
+            "Acceso con tranvías 4/6"
+          ],
+          "openingHours": "24/7",
+          "tip": "Sundays at 10:00 see informal dog meet-ups around the central lawn — a friendly way to chat to local owners.",
+          "tipFr": "Les dimanches à 10h, des rencontres canines informelles ont lieu autour de la pelouse centrale — un moyen sympathique de discuter avec les propriétaires locaux.",
+          "tipEs": "Los domingos a las 10:00 se organizan encuentros caninos informales en torno al césped central: una forma amable de charlar con dueños locales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Yuzhen+Park+Sofia"
+        },
+        {
+          "name": "Vitosha Nature Park (Boyana entry)",
+          "address": "Boyana, 1616 Sofia",
+          "neighborhood": "Vitosha foothills, Boyana district",
+          "photo": "/images/city-places/sofia-parks-vitosha-nature-park-boyana-entry.jpg",
+          "website": "https://www.parkvitosha.org/en",
+          "description": "Bulgaria's first nature park, founded in 1934, covers the entire Vitosha massif rising directly from the city. The Boyana entry (5 km south of the centre, accessible by bus 64) gives access to the forested lower slopes, the famous Boyana Waterfall trail, and an extensive network of hiking paths. Dogs on leash are welcome on all marked routes; off-leash is tolerated on the upper alpine sections.",
+          "descriptionFr": "Premier parc naturel de Bulgarie, créé en 1934, couvrant tout le massif du Vitosha qui s'élève directement de la ville. L'entrée Boyana (5 km au sud du centre, accessible par le bus 64) donne accès aux pentes basses forestières, au sentier célèbre de la cascade de Boyana et à un vaste réseau de randonnées. Les chiens en laisse sont les bienvenus sur tous les itinéraires balisés ; le sans laisse est toléré dans les sections alpines supérieures.",
+          "descriptionEs": "El primer parque natural de Bulgaria, creado en 1934, cubre todo el macizo del Vitosha que se eleva directamente desde la ciudad. La entrada de Boyana (5 km al sur del centro, accesible con el autobús 64) da acceso a las laderas bajas boscosas, al famoso sendero de la Cascada de Boyana y a una extensa red de senderos. Los perros con correa son bienvenidos en todas las rutas marcadas; soltarlos se tolera en las secciones alpinas superiores.",
+          "size": "27 000 hectares (whole park)",
+          "fenced": false,
+          "amenities": [
+            "Forest trails",
+            "Boyana Waterfall",
+            "Mountain huts",
+            "Bus 64 access"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Cascade de Boyana",
+            "Refuges de montagne",
+            "Accès bus 64"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Cascada de Boyana",
+            "Refugios de montaña",
+            "Acceso con autobús 64"
+          ],
+          "openingHours": "24/7",
+          "tip": "Avoid weekends 10:00–14:00 — bus 64 fills with hikers. Weekday early starts give you the trails alone.",
+          "tipFr": "Évitez les week-ends 10h-14h — le bus 64 se remplit de randonneurs. Les départs en semaine au petit matin offrent les sentiers en solitaire.",
+          "tipEs": "Evita los fines de semana 10:00–14:00: el bus 64 se llena de senderistas. Las salidas tempranas entre semana dan los senderos para ti solo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vitosha+Nature+Park+Boyana"
+        }
+      ],
+      "tipsEn": [
+        "Bulgarian municipalities require dogs to be leashed in city centre streets; off-leash use is tolerated only inside marked park sections and the fenced Yuzhen enclosures.",
+        "All registered Sofia dogs must wear a municipality-issued ID tag — visitors are not subject to this but should keep the EU pet passport on hand.",
+        "Vitosha mountain trails climb fast (2 290 m peak) — bring water and snacks for the dog, especially in summer when shade is patchy."
+      ],
+      "tipsFr": [
+        "Les municipalités bulgares imposent la laisse aux chiens dans les rues du centre ; le sans laisse n'est toléré que dans les sections balisées des parcs et les enclos clôturés du Yuzhen.",
+        "Tous les chiens enregistrés à Sofia doivent porter une médaille municipale — les visiteurs n'y sont pas soumis mais doivent garder le passeport européen à portée.",
+        "Les sentiers du Vitosha grimpent vite (sommet à 2 290 m) — emportez eau et collations pour le chien, surtout l'été quand l'ombre se raréfie."
+      ],
+      "tipsEs": [
+        "Los municipios búlgaros exigen correa en las calles del centro; soltarlos solo se tolera dentro de las secciones marcadas de los parques y los recintos vallados de Yuzhen.",
+        "Todos los perros registrados en Sofía deben llevar la medalla municipal: los visitantes no están sujetos a ello, pero conviene tener a mano el pasaporte europeo.",
+        "Los senderos del Vitosha suben rápido (cima a 2.290 m): lleva agua y comida para el perro, sobre todo en verano cuando la sombra escasea."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run completely off-leash in Sofia?",
+          "a": "Yuzhen Park has two fenced dog enclosures plus tolerated off-leash on the lawns. Borisova Gradina tolerates off-leash on the inner woodland tracks. Vitosha Nature Park accepts off-leash on the upper alpine sections."
+        },
+        {
+          "q": "Are dogs allowed in Borisova Gradina year-round?",
+          "a": "Yes, on a leash, 24/7. Off-leash is tolerated in quieter inner sections but not officially permitted."
+        },
+        {
+          "q": "Can I take my dog up Vitosha mountain by lift?",
+          "a": "The Simeonovo lift accepts leashed dogs in carriers; large dogs must use the Aleko gondola, which has more space and tolerates leash + muzzle."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Sofia ?",
+          "a": "Yuzhen Park dispose de deux enclos canins clôturés et tolère le sans laisse sur les pelouses. Borisova Gradina tolère le sans laisse sur les sentiers boisés intérieurs. Le parc naturel du Vitosha accepte le sans laisse sur les sections alpines supérieures."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés à Borisova Gradina toute l'année ?",
+          "a": "Oui, en laisse, 24h/24. Le sans laisse est toléré dans les sections intérieures plus calmes mais non officiellement autorisé."
+        },
+        {
+          "q": "Puis-je monter au Vitosha avec mon chien en télécabine ?",
+          "a": "Le télésiège de Simeonovo accepte les chiens en laisse, en panier ; les grands chiens doivent utiliser la gondole Aleko, qui offre plus d'espace et tolère laisse + muselière."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Sofía?",
+          "a": "Yuzhen Park tiene dos recintos caninos vallados y tolera soltarlos en el césped. Borisova Gradina tolera soltarlos en los senderos boscosos interiores. El Parque Natural del Vitosha acepta soltarlos en las secciones alpinas superiores."
+        },
+        {
+          "q": "¿Se admiten perros en Borisova Gradina todo el año?",
+          "a": "Sí, con correa, 24/7. Soltarlos se tolera en las secciones interiores más tranquilas, pero no está oficialmente permitido."
+        },
+        {
+          "q": "¿Puedo subir al Vitosha con el perro en telecabina?",
+          "a": "El telesilla de Simeonovo admite perros con correa en transportín; los perros grandes deben usar la góndola Aleko, que tiene más espacio y tolera correa más bozal."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Sofia",
+      "titleFr": "Transports acceptant les animaux à Sofia",
+      "titleEs": "Transporte para mascotas en Sofía",
+      "introEn": "Sofia's metro, tram, trolleybus, and bus network all accept dogs. Small pets in a closed carrier travel free everywhere; large dogs need a registered Sofia dog ID and a transport ticket on the metro and trams. BDZ national rail accepts dogs at half-fare with muzzle and veterinary certificate. The rules look fussy on paper but are flexible in practice — visitors with the EU pet passport are routinely waved through.",
+      "introFr": "Le métro, le tram, le trolleybus et le bus de Sofia acceptent tous les chiens. Les petits animaux en panier fermé voyagent gratuitement ; les grands chiens ont besoin d'une médaille de Sofia et d'un ticket transport dans le métro et les trams. Le rail national BDZ accepte les chiens au demi-tarif avec muselière et certificat vétérinaire. Les règles paraissent tatillonnes sur le papier mais sont souples en pratique — les visiteurs munis du passeport européen passent généralement sans difficulté.",
+      "introEs": "El metro, el tranvía, el trolebús y los autobuses de Sofía admiten todos a los perros. Las mascotas pequeñas en transportín cerrado viajan gratis; los perros grandes necesitan una medalla de Sofía y un billete de transporte en metro y tranvías. La red nacional BDZ admite perros a mitad de precio con bozal y certificado veterinario. Las reglas parecen quisquillosas sobre el papel, pero son flexibles en la práctica: a los visitantes con pasaporte europeo se les suele dejar pasar sin problemas.",
+      "places": [
+        {
+          "name": "Sofia metro, tram & bus network",
+          "address": "Citywide; main hub at Serdika metro station",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/sofia-transport-sofia-metro-tram-bus-network.jpg",
+          "website": "https://www.metropolitan.bg/en",
+          "description": "The Sofia public transport network includes a four-line metro and a dense tram and bus grid. Small pets in a carrier ride free; medium and large dogs require a transport ticket plus leash and muzzle. The metro is the dog-friendliest option for visitors — modern, air-conditioned, and rarely overcrowded outside rush hour.",
+          "descriptionFr": "Le réseau de transport de Sofia comprend un métro de quatre lignes et un dense réseau tram-bus. Les petits animaux en panier voyagent gratuitement ; les chiens moyens et grands ont besoin d'un ticket plus laisse et muselière. Le métro est l'option la plus dog-friendly pour les visiteurs — moderne, climatisé et rarement bondé hors heures de pointe.",
+          "descriptionEs": "La red de transporte de Sofía incluye un metro de cuatro líneas y una densa malla de tranvías y autobuses. Las mascotas pequeñas en transportín viajan gratis; los perros medianos y grandes necesitan un billete de transporte más correa y bozal. El metro es la opción más dog-friendly para visitantes: moderno, climatizado y rara vez abarrotado fuera de horas punta.",
+          "petPolicy": "Small pets in carrier free; large dogs need ticket, leash, and muzzle",
+          "petPolicyFr": "Petits animaux en panier gratuits ; grands chiens : ticket, laisse et muselière obligatoires",
+          "petPolicyEs": "Mascotas pequeñas en transportín gratis; perros grandes necesitan billete, correa y bozal",
+          "openingHours": "First metro 05:00, last 24:00; trams/buses similar",
+          "tip": "The metro from Serdika to Vitosha is the cleanest, fastest dog-walk lead-in for the mountain — twenty minutes door-to-door.",
+          "tipFr": "Le métro de Serdika à Vitosha est l'accès dog-walk le plus propre et rapide pour la montagne — vingt minutes porte à porte.",
+          "tipEs": "El metro desde Serdika hasta Vitosha es la entrada dog-walk más limpia y rápida hacia la montaña: veinte minutos puerta a puerta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Serdika+metro+Sofia"
+        }
+      ],
+      "tipsEn": [
+        "On BDZ trains, dogs travel at half the second-class fare with a muzzle and veterinary certificate. Guide dogs travel free.",
+        "Large dogs cannot ride in BDZ sleeping or couchette cars — use Plovdiv-Sofia daytime intercity services if you're crossing the country.",
+        "Bolt is the dominant ride-hailing app in Sofia; mention 'kuche' (dog) when booking — most drivers accept, tip generously."
+      ],
+      "tipsFr": [
+        "Sur les trains BDZ, les chiens voyagent au demi-tarif seconde classe avec muselière et certificat vétérinaire. Les chiens guides voyagent gratuitement.",
+        "Les grands chiens ne peuvent pas voyager dans les wagons-lits ou couchettes BDZ — utilisez les intercités de jour Plovdiv-Sofia si vous traversez le pays.",
+        "Bolt est l'appli VTC dominante à Sofia ; mentionnez 'kuche' (chien) à la réservation — la plupart des chauffeurs acceptent, laissez un bon pourboire."
+      ],
+      "tipsEs": [
+        "En los trenes BDZ, los perros viajan a mitad de la tarifa de segunda clase con bozal y certificado veterinario. Los perros guía viajan gratis.",
+        "Los perros grandes no pueden viajar en coches cama o literas de BDZ: usa los intercity de día Plovdiv-Sofía si cruzas el país.",
+        "Bolt es la app de VTC dominante en Sofía; indica 'kuche' (perro) al reservar: la mayoría de los conductores aceptan, deja una buena propina."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a separate ticket for my dog on Sofia metro?",
+          "a": "Small pets in a closed carrier travel free. Medium and large dogs need a single transport ticket plus a leash and muzzle. Service dogs ride free without paperwork."
+        },
+        {
+          "q": "Can I take my dog on a train from Sofia to Plovdiv?",
+          "a": "Yes — buy a half-fare second-class ticket for medium and large dogs. Bring the EU pet passport and a basket muzzle; the controller may ask to see both."
+        },
+        {
+          "q": "Is the Sofia airport accessible with a dog?",
+          "a": "Yes — bus 84/184 from the airport accepts pets in carriers free of charge, leashed dogs with a transport ticket. Check with your airline before flying for cabin or hold rules."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket séparé pour mon chien dans le métro de Sofia ?",
+          "a": "Les petits animaux en panier fermé voyagent gratuitement. Les chiens moyens et grands ont besoin d'un ticket simple plus laisse et muselière. Les chiens d'assistance voyagent gratuitement sans formalité."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un train de Sofia à Plovdiv ?",
+          "a": "Oui — achetez un ticket demi-tarif seconde classe pour les chiens moyens et grands. Apportez le passeport européen et une muselière panier ; le contrôleur peut demander à les voir."
+        },
+        {
+          "q": "L'aéroport de Sofia est-il accessible avec un chien ?",
+          "a": "Oui — les bus 84/184 depuis l'aéroport acceptent les animaux en panier gratuitement, et les chiens en laisse avec un ticket transport. Vérifiez les règles cabine ou soute avec votre compagnie avant le vol."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta billete aparte para el perro en el metro de Sofía?",
+          "a": "Las mascotas pequeñas en transportín cerrado viajan gratis. Los perros medianos y grandes necesitan un billete simple más correa y bozal. Los perros de asistencia viajan gratis sin trámites."
+        },
+        {
+          "q": "¿Puedo llevar al perro en tren de Sofía a Plovdiv?",
+          "a": "Sí: compra un billete a mitad de precio en segunda clase para perros medianos y grandes. Lleva el pasaporte europeo y un bozal tipo cesta; el revisor puede pedir verlos."
+        },
+        {
+          "q": "¿Es accesible el aeropuerto de Sofía con perro?",
+          "a": "Sí: los autobuses 84/184 desde el aeropuerto admiten mascotas en transportín gratis, y perros con correa con billete. Verifica las reglas de cabina o bodega con tu aerolínea antes de volar."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Waterfronts & Lakes near Sofia",
+      "titleFr": "Bords de l'eau et lacs dog-friendly près de Sofia",
+      "titleEs": "Riberas y lagos dog-friendly cerca de Sofía",
+      "introEn": "Sofia is 350 km from the Black Sea, so 'beach' here means mountain reservoirs and forest lakes. Pancharevo Lake, just south-east of the city, is the largest swimming option for dogs; Boyana Waterfall on the Vitosha lower slopes gives a cool-water summer alternative; and Lake Iskar (40 km out) is the weekend day-trip when locals head to a sandy lake-shore. Bulgarian lakes generally allow dogs all year — only the rare paid 'lido' on Pancharevo restricts pets in summer.",
+      "introFr": "Sofia est à 350 km de la mer Noire, donc 'plage' désigne ici des barrages de montagne et des lacs forestiers. Le lac de Pancharevo, juste au sud-est de la ville, est la plus grande option de baignade pour chien ; la cascade de Boyana sur les pentes basses du Vitosha offre une alternative d'eau fraîche estivale ; et le lac d'Iskar (à 40 km) est l'excursion du week-end quand les habitants partent vers une rive sableuse. Les lacs bulgares acceptent généralement les chiens toute l'année — seuls les rares 'lido' payants de Pancharevo limitent les animaux l'été.",
+      "introEs": "Sofía está a 350 km del Mar Negro, así que 'playa' aquí significa embalses de montaña y lagos forestales. El lago de Pancharevo, justo al sureste de la ciudad, es la mayor opción de baño para perros; la cascada de Boyana en las laderas bajas del Vitosha ofrece una alternativa de agua fría en verano; y el lago Iskar (a 40 km) es la excursión de fin de semana cuando los locales se acercan a una orilla arenosa. Los lagos búlgaros suelen admitir perros todo el año; solo los raros 'lido' de pago en Pancharevo restringen mascotas en verano.",
+      "places": [
+        {
+          "name": "Pancharevo Lake",
+          "address": "Pancharevo, 1137 Sofia",
+          "neighborhood": "Pancharevo (15 km south-east)",
+          "photo": "/images/city-places/sofia-beaches-pancharevo-lake.jpg",
+          "website": "https://visitsofia.bg/en/places/parks-and-gardens/pancharevo-lake/",
+          "description": "A 4 km mountain reservoir on the eastern edge of Sofia, the closest open swimming spot for dogs. The free public sections of the south shore allow leashed (and informally off-leash) dogs all year; in summer, the lake's busier paid lido restricts pets but the surrounding forest tracks remain open. Bus 1/3 from the city centre runs to the south entry every 20 minutes.",
+          "descriptionFr": "Réservoir de montagne de 4 km à la lisière est de Sofia, le spot de baignade canin le plus proche. Les sections publiques gratuites de la rive sud acceptent les chiens en laisse (et de fait sans laisse) toute l'année ; l'été, le lido payant plus animé restreint les animaux, mais les sentiers forestiers alentour restent ouverts. Les bus 1/3 depuis le centre desservent l'entrée sud toutes les 20 minutes.",
+          "descriptionEs": "Embalse de montaña de 4 km en el extremo este de Sofía, el punto de baño canino más cercano. Las secciones públicas gratuitas de la orilla sur admiten perros con correa (y de hecho sueltos) todo el año; en verano, el lido de pago más concurrido restringe mascotas, pero los senderos forestales del entorno siguen abiertos. Los autobuses 1/3 desde el centro llegan a la entrada sur cada 20 minutos.",
+          "petPolicy": "Dogs welcome year-round on free public shore; off-leash tolerated when quiet",
+          "petPolicyFr": "Chiens acceptés toute l'année sur la rive publique gratuite ; sans laisse toléré quand c'est calme",
+          "petPolicyEs": "Perros admitidos todo el año en la orilla pública gratuita; sin correa tolerado cuando hay poca gente",
+          "openingHours": "24/7",
+          "tip": "Aim for the south shore between Pancharevo village and the Iskar river inflow — it's calmer, dog-friendly, and free.",
+          "tipFr": "Visez la rive sud entre le village de Pancharevo et l'arrivée de l'Iskar — plus calme, dog-friendly et gratuit.",
+          "tipEs": "Busca la orilla sur entre el pueblo de Pancharevo y la entrada del río Iskar: más tranquila, dog-friendly y gratuita.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pancharevo+Lake+Sofia"
+        },
+        {
+          "name": "Boyana Waterfall",
+          "address": "Vitosha Nature Park, Boyana, 1616 Sofia",
+          "neighborhood": "Vitosha foothills",
+          "photo": "/images/city-places/sofia-beaches-boyana-waterfall.jpg",
+          "website": "https://www.parkvitosha.org/en",
+          "description": "A 20-metre waterfall reached by a 2 km marked forest trail starting at the Boyana church. The water is cold even in August, the shaded canyon a relief for dogs in summer. Dogs on leash are welcome on the trail and in the splash pool at the base; the church itself is closed to non-assistance pets.",
+          "descriptionFr": "Cascade de 20 mètres au bout d'un sentier forestier balisé de 2 km partant de l'église de Boyana. L'eau reste froide même en août, le canyon ombragé soulage les chiens l'été. Chiens en laisse acceptés sur le sentier et dans la vasque à la base ; l'église elle-même est fermée aux animaux non-assistance.",
+          "descriptionEs": "Cascada de 20 metros al final de un sendero forestal señalizado de 2 km que parte de la iglesia de Boyana. El agua sigue siendo fría incluso en agosto, el cañón sombreado alivia a los perros en verano. Perros con correa admitidos en el sendero y en la poza de la base; la iglesia en sí está cerrada a mascotas no de asistencia.",
+          "petPolicy": "Dogs welcome on leash; off-leash tolerated by the splash pool",
+          "petPolicyFr": "Chiens acceptés en laisse ; sans laisse toléré au niveau de la vasque",
+          "petPolicyEs": "Perros admitidos con correa; sin correa tolerado junto a la poza",
+          "openingHours": "Daylight only",
+          "tip": "Pack water for the 4 km round trip — the trail is shaded but climbing, and most dogs need a stop on the way back.",
+          "tipFr": "Emportez de l'eau pour les 4 km aller-retour — le sentier est ombragé mais montant, et la plupart des chiens ont besoin d'une pause au retour.",
+          "tipEs": "Lleva agua para los 4 km ida y vuelta: el sendero está sombreado pero en subida, y la mayoría de los perros necesita un descanso en la vuelta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boyana+Waterfall"
+        },
+        {
+          "name": "Lake Iskar",
+          "address": "Iskar Reservoir, 2050 Pasarel",
+          "neighborhood": "Iskar valley (40 km east)",
+          "photo": "/images/city-places/sofia-beaches-lake-iskar.jpg",
+          "website": "https://visitsofia.bg/en/",
+          "description": "Bulgaria's largest reservoir, 40 km east of Sofia in the Iskar river valley, with several sandy informal beaches that locals use for full-day excursions. Dogs are welcome year-round on the south and west shores; the most accessible point is at Pasarel, reachable by car or weekend shuttle bus. Open swimming, but check water-temperature warnings in early summer.",
+          "descriptionFr": "Plus grand réservoir de Bulgarie, à 40 km à l'est de Sofia dans la vallée de l'Iskar, avec plusieurs plages sableuses informelles que les locaux utilisent pour des excursions à la journée. Les chiens sont les bienvenus toute l'année sur les rives sud et ouest ; le point le plus accessible est à Pasarel, atteignable en voiture ou par navette du week-end. Baignade libre, mais surveillez les avis de température en début d'été.",
+          "descriptionEs": "El mayor embalse de Bulgaria, a 40 km al este de Sofía en el valle del Iskar, con varias playas arenosas informales que los locales usan para excursiones de día completo. Los perros son bienvenidos todo el año en las orillas sur y oeste; el punto más accesible es Pasarel, al que se llega en coche o lanzadera de fin de semana. Baño libre, pero comprueba los avisos de temperatura del agua a principios de verano.",
+          "petPolicy": "Dogs welcome year-round on south and west shores",
+          "petPolicyFr": "Chiens acceptés toute l'année sur les rives sud et ouest",
+          "petPolicyEs": "Perros admitidos todo el año en las orillas sur y oeste",
+          "openingHours": "24/7",
+          "tip": "Best in May, June, and September — shoulder seasons keep the lake quieter and avoid the August algae blooms.",
+          "tipFr": "Idéal en mai, juin et septembre — les ailes de saison gardent le lac plus calme et évitent les efflorescences algales d'août.",
+          "tipEs": "Mejor en mayo, junio y septiembre: las temporadas intermedias mantienen el lago más tranquilo y evitan los blooms de algas de agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Iskar+Reservoir+Bulgaria"
+        }
+      ],
+      "tipsEn": [
+        "Sofia has no sea-coast access — the closest dog beaches are on Pancharevo and Iskar lakes. The Black Sea coast (Burgas, Varna) is six hours by car or train.",
+        "Mountain reservoir water can stay cold even in August; check water temperature before letting a small or short-haired dog swim.",
+        "Pack a towel — Pancharevo's south shore has gravel rather than sand, and dogs need a quick rinse and dry after swimming."
+      ],
+      "tipsFr": [
+        "Sofia n'a pas d'accès direct à la mer — les plages canines les plus proches sont sur les lacs de Pancharevo et d'Iskar. La côte de la mer Noire (Bourgas, Varna) est à six heures en voiture ou en train.",
+        "L'eau des réservoirs de montagne peut rester froide même en août ; vérifiez la température avant de laisser un petit chien ou un chien à poil court se baigner.",
+        "Emportez une serviette — la rive sud de Pancharevo est en galets plutôt qu'en sable, et les chiens ont besoin d'un rinçage et séchage rapide après la baignade."
+      ],
+      "tipsEs": [
+        "Sofía no tiene acceso directo al mar: las playas caninas más cercanas son los lagos de Pancharevo e Iskar. La costa del Mar Negro (Burgas, Varna) está a seis horas en coche o tren.",
+        "El agua de los embalses de montaña puede mantenerse fría incluso en agosto; comprueba la temperatura antes de dejar bañarse a un perro pequeño o de pelo corto.",
+        "Lleva una toalla: la orilla sur de Pancharevo es de grava más que de arena, y los perros necesitan un enjuague y secado rápido tras el baño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog swim in a lake near Sofia?",
+          "a": "Yes — Pancharevo Lake is the closest at 15 km from the centre; Lake Iskar (40 km) has sandier informal beaches. Both are dog-welcoming year-round on the public shores."
+        },
+        {
+          "q": "Is there a real dog beach near Sofia?",
+          "a": "No designated dog-only beach exists, but the south shore of Pancharevo Lake works as the de facto dog spot — locals use it as such and bus access is direct."
+        },
+        {
+          "q": "Are dogs allowed on Vitosha mountain trails?",
+          "a": "Yes — leashed dogs welcome on all marked trails. The Boyana Waterfall and the Aleko area (top of the gondola) are the two most popular full-day routes for dog walks."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il se baigner dans un lac près de Sofia ?",
+          "a": "Oui — le lac de Pancharevo est le plus proche, à 15 km du centre ; le lac d'Iskar (40 km) a des plages informelles plus sableuses. Les deux sont dog-friendly toute l'année sur les rives publiques."
+        },
+        {
+          "q": "Y a-t-il une vraie plage canine près de Sofia ?",
+          "a": "Aucune plage exclusivement canine n'est aménagée, mais la rive sud du lac de Pancharevo fait office de spot canin de fait — les habitants l'utilisent ainsi et l'accès en bus est direct."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur les sentiers du Vitosha ?",
+          "a": "Oui — les chiens en laisse sont les bienvenus sur tous les sentiers balisés. La cascade de Boyana et la zone d'Aleko (haut de la gondole) sont les deux itinéraires de journée les plus populaires pour les balades canines."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro bañarse en un lago cerca de Sofía?",
+          "a": "Sí: el lago de Pancharevo es el más cercano, a 15 km del centro; el lago Iskar (40 km) tiene playas informales más arenosas. Ambos son dog-friendly todo el año en las orillas públicas."
+        },
+        {
+          "q": "¿Hay una playa canina real cerca de Sofía?",
+          "a": "No hay una playa exclusivamente canina, pero la orilla sur del lago de Pancharevo funciona como punto canino de hecho: los locales la usan así y el acceso en autobús es directo."
+        },
+        {
+          "q": "¿Se admiten perros en los senderos del Vitosha?",
+          "a": "Sí: los perros con correa son bienvenidos en todos los senderos marcados. La cascada de Boyana y la zona de Aleko (arriba de la góndola) son las dos rutas de día completo más populares para paseos caninos."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Sofia",
+      "titleFr": "Cliniques vétérinaires et urgences à Sofia",
+      "titleEs": "Clínicas veterinarias y urgencias en Sofía",
+      "introEn": "Sofia hosts two large 24-hour veterinary hospitals plus a dense network of daytime clinics. Blue Cross Animal Hospital in Pancharevo is the regional reference for emergencies; Central Vet Clinic, near the Sofia Zoo, is the modern downtown alternative. English-language service is widely available. Costs are about half of Western European rates, and the city's expat community has well-tested recommendations.",
+      "introFr": "Sofia accueille deux grands hôpitaux vétérinaires 24h/24, plus un réseau dense de cabinets de jour. Blue Cross Animal Hospital à Pancharevo est la référence régionale pour les urgences ; Central Vet Clinic, près du zoo de Sofia, est l'alternative moderne du centre-ville. Le service en anglais est largement disponible. Les coûts sont environ la moitié des tarifs ouest-européens, et la communauté expatriée a des recommandations bien éprouvées.",
+      "introEs": "Sofía alberga dos grandes hospitales veterinarios 24 horas, más una densa red de consultas diurnas. Blue Cross Animal Hospital en Pancharevo es la referencia regional para urgencias; Central Vet Clinic, cerca del zoo de Sofía, es la alternativa moderna del centro. El servicio en inglés está ampliamente disponible. Los costes son aproximadamente la mitad que en Europa Occidental, y la comunidad expatriada tiene recomendaciones bien probadas.",
+      "places": [
+        {
+          "name": "Blue Cross Animal Hospital (24h)",
+          "address": "1 Chereshova gradina, Pancharevo, 1137 Sofia",
+          "neighborhood": "Pancharevo (15 km south-east)",
+          "photo": "/images/city-places/sofia-vets-blue-cross-animal-hospital-24h.jpg",
+          "website": "https://bluecrossbg.com/en",
+          "description": "A 24-hour small-animal hospital and boarding kennel just before Pancharevo village on the road to Samokov. Equipped for surgery, intensive care, advanced imaging, and trauma response. Especially popular with the Sofia expat community thanks to its English-fluent vets and its long opening hours.",
+          "descriptionFr": "Hôpital pour petits animaux 24h/24 et chenil juste avant le village de Pancharevo, sur la route de Samokov. Équipé pour la chirurgie, les soins intensifs, l'imagerie avancée et la traumatologie. Particulièrement apprécié de la communauté expatriée de Sofia pour ses vétérinaires anglophones et ses horaires étendus.",
+          "descriptionEs": "Hospital de animales de compañía 24 horas y residencia justo antes del pueblo de Pancharevo, en la carretera a Samokov. Equipado para cirugía, cuidados intensivos, diagnóstico por imagen avanzado y traumatología. Especialmente popular en la comunidad expatriada de Sofía por sus veterinarios angloparlantes y su amplio horario.",
+          "phone": "+359 2 979 09 35",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "About 25 minutes by taxi from the Old Town — Bolt rates are typically €8-10. Save the number before any late-night need.",
+          "tipFr": "Environ 25 minutes en taxi depuis la vieille ville — les courses Bolt tournent à 8-10 €. Enregistrez le numéro avant tout besoin nocturne.",
+          "tipEs": "A unos 25 minutos en taxi desde el casco antiguo: las carreras de Bolt suelen costar 8-10 €. Guarda el número antes de cualquier necesidad nocturna.",
+          "googleMapsUrl": "https://maps.google.com/?q=Blue+Cross+Animal+Hospital+Pancharevo"
+        },
+        {
+          "name": "Central Vet Clinic (24h)",
+          "address": "Tsar Boris III Boulevard 130, 1612 Sofia",
+          "neighborhood": "Krasno Selo (near Sofia Zoo)",
+          "photo": "/images/city-places/sofia-vets-central-vet-clinic-24h.jpg",
+          "website": "https://centralvetclinic.com/",
+          "description": "A modern 1 200 m² veterinary hospital in central Sofia, founded in 2010 and one of the largest projects of its kind in the Balkans. Open 24 hours, with a strong specialist team across surgery, dermatology, internal medicine, and orthopaedics. The closest 24-hour option to the Old Town.",
+          "descriptionFr": "Hôpital vétérinaire moderne de 1 200 m² au centre de Sofia, fondé en 2010 et l'un des plus grands projets du genre dans les Balkans. Ouvert 24h/24, avec une solide équipe spécialisée en chirurgie, dermatologie, médecine interne et orthopédie. L'option 24h/24 la plus proche de la vieille ville.",
+          "descriptionEs": "Hospital veterinario moderno de 1.200 m² en el centro de Sofía, fundado en 2010 y uno de los mayores proyectos de este tipo en los Balcanes. Abierto 24 horas, con un sólido equipo especializado en cirugía, dermatología, medicina interna y ortopedia. La opción 24/7 más cercana al casco antiguo.",
+          "phone": "+359 2 952 0001",
+          "openingHours": "24/7",
+          "tip": "Tram 5 from the centre stops two blocks away, but in an emergency take a Bolt — the surgery wing is at the back of the building.",
+          "tipFr": "Le tram 5 du centre s'arrête à deux pâtés de maisons, mais en urgence prenez un Bolt — le bloc chirurgical est à l'arrière du bâtiment.",
+          "tipEs": "El tranvía 5 desde el centro para a dos manzanas, pero en urgencia toma un Bolt: el bloque quirúrgico está en la parte trasera del edificio.",
+          "googleMapsUrl": "https://maps.google.com/?q=Central+Vet+Clinic+Sofia"
+        }
+      ],
+      "tipsEn": [
+        "Bulgaria uses the EU pet passport — bring it; clinics record vaccinations directly into the booklet, simplifying any onward Schengen travel.",
+        "Card payment is the norm at both 24/7 hospitals; emergency consultations typically start at €40-60 plus medication.",
+        "Bulgarian veterinary medicine is high-quality and significantly cheaper than Greece, Romania, or Western Europe."
+      ],
+      "tipsFr": [
+        "La Bulgarie applique le passeport européen — apportez-le ; les cliniques y inscrivent les vaccinations, ce qui simplifie tout déplacement ultérieur dans l'espace Schengen.",
+        "Le paiement par carte est la norme dans les deux hôpitaux 24h/24 ; les consultations d'urgence démarrent généralement à 40-60 € plus médicaments.",
+        "La médecine vétérinaire bulgare est de qualité et nettement moins chère qu'en Grèce, Roumanie ou Europe de l'Ouest."
+      ],
+      "tipsEs": [
+        "Bulgaria aplica el pasaporte europeo: tráelo; las clínicas anotan las vacunaciones directamente en él, lo que simplifica cualquier viaje posterior por Schengen.",
+        "El pago con tarjeta es la norma en ambos hospitales 24/7; las consultas de urgencia suelen empezar en 40-60 € más medicación.",
+        "La medicina veterinaria búlgara es de calidad y bastante más barata que la griega, rumana o de Europa Occidental."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour vet to Sofia city centre?",
+          "a": "Central Vet Clinic on Tsar Boris III Boulevard, near the Sofia Zoo (about 15 minutes by taxi). For complex cases or out-of-town accommodation, Blue Cross in Pancharevo is the regional reference."
+        },
+        {
+          "q": "Do Sofia vets speak English?",
+          "a": "Yes, in clinics serving the international community — both Blue Cross and Central Vet Clinic have English-fluent staff."
+        },
+        {
+          "q": "Are veterinary services in Sofia expensive?",
+          "a": "No — significantly cheaper than Western Europe. A standard consultation is around €25-30, and emergency consultations start at €40-60."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire 24h/24 le plus proche du centre de Sofia ?",
+          "a": "Central Vet Clinic sur le boulevard Tsar Boris III, près du zoo de Sofia (environ 15 minutes en taxi). Pour les cas complexes ou un hébergement hors centre, Blue Cross à Pancharevo est la référence régionale."
+        },
+        {
+          "q": "Les vétérinaires de Sofia parlent-ils anglais ?",
+          "a": "Oui, dans les cliniques tournées vers la communauté internationale — Blue Cross comme Central Vet Clinic ont du personnel anglophone."
+        },
+        {
+          "q": "Les soins vétérinaires sont-ils chers à Sofia ?",
+          "a": "Non — nettement moins chers qu'en Europe de l'Ouest. Une consultation standard tourne autour de 25-30 €, les consultations d'urgence démarrent à 40-60 €."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario 24 horas más cercano al centro de Sofía?",
+          "a": "Central Vet Clinic en el bulevar Tsar Boris III, cerca del zoo de Sofía (a unos 15 minutos en taxi). Para casos complejos o alojamiento fuera del centro, Blue Cross en Pancharevo es la referencia regional."
+        },
+        {
+          "q": "¿Los veterinarios de Sofía hablan inglés?",
+          "a": "Sí, en las clínicas orientadas a la comunidad internacional: tanto Blue Cross como Central Vet Clinic cuentan con personal angloparlante."
+        },
+        {
+          "q": "¿Son caros los servicios veterinarios en Sofía?",
+          "a": "No: bastante más baratos que en Europa Occidental. Una consulta estándar ronda los 25-30 €, y las de urgencia empiezan en 40-60 €."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Sofia",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Sofia",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Sofía",
+      "introEn": "Sofia is one of the most affordable EU capitals for travelling with a dog: a compact centre walkable in a day, free pets in carriers on every metro, two 24/7 emergency hospitals, and the Vitosha massif at the city's edge. The two things to plan around are the strict leash-and-muzzle rule on transport for large dogs, and the very cold winters from December to February. The tips below cover the rules visitors actually run into.",
+      "introFr": "Sofia est l'une des capitales européennes les plus abordables pour voyager avec un chien : centre compact qui se visite en une journée, animaux gratuits en panier dans tout le métro, deux hôpitaux d'urgence 24h/24 et le massif du Vitosha aux portes de la ville. Les deux points à anticiper sont la règle stricte de laisse + muselière dans les transports pour les grands chiens, et les hivers très froids de décembre à février. Les conseils ci-dessous couvrent les règles que les visiteurs rencontrent vraiment.",
+      "introEs": "Sofía es una de las capitales europeas más asequibles para viajar con perro: un centro compacto que se recorre en un día, mascotas gratis en transportín en todo el metro, dos hospitales de urgencias 24/7 y el macizo del Vitosha a las puertas de la ciudad. Los dos puntos a anticipar son la norma estricta de correa más bozal en el transporte para perros grandes, y los inviernos muy fríos de diciembre a febrero. Los consejos siguientes cubren las normas que los visitantes encuentran de verdad.",
+      "places": [],
+      "tipsEn": [
+        "Pack a basket muzzle for any metro, tram, or train trip with a medium or large dog — the rule is leash plus muzzle on Sofia public transport.",
+        "Save Central Vet Clinic 24/7: +359 2 952 0001 (Tsar Boris III Boulevard 130) — the closest 24-hour option to the Old Town.",
+        "Sofia winters can hit -15 °C — bring a coat and paw balm for small dogs from December to February."
+      ],
+      "tipsFr": [
+        "Emportez une muselière panier pour tout trajet en métro, tram ou train avec un chien moyen ou grand — la règle est laisse + muselière dans les transports publics de Sofia.",
+        "Enregistrez Central Vet Clinic 24h/24 : +359 2 952 0001 (Tsar Boris III Boulevard 130) — l'option 24h/24 la plus proche de la vieille ville.",
+        "Les hivers de Sofia peuvent descendre à -15 °C — emportez un manteau et un baume pour les coussinets des petits chiens de décembre à février."
+      ],
+      "tipsEs": [
+        "Lleva un bozal tipo cesta para cualquier viaje en metro, tranvía o tren con un perro mediano o grande: la norma es correa más bozal en el transporte público de Sofía.",
+        "Guarda Central Vet Clinic 24/7: +359 2 952 0001 (Tsar Boris III Boulevard 130): la opción 24/7 más cercana al casco antiguo.",
+        "Los inviernos de Sofía pueden bajar a -15 °C: lleva abrigo y bálsamo de almohadillas para perros pequeños de diciembre a febrero."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Sofia a good city for travelling with a dog?",
+          "a": "Yes — affordable, compact, and pet-friendly hotels start at €60. The Old Town pairs with the Vitosha mountain and Pancharevo Lake for full-day excursions. The main quirk is the strict transport equipment rule for large dogs."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Bulgaria?",
+          "a": "An EU pet passport (or third-country equivalent), a valid rabies vaccination at least 21 days old, and a microchip. Border checks are minimal but the pet passport must accompany the dog at all times."
+        },
+        {
+          "q": "Can my dog visit Alexander Nevsky Cathedral?",
+          "a": "Only assistance dogs are admitted to the Cathedral interior. The square outside is leash-friendly and free, and the Saturday flea market on the back side is dog-welcoming."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Sofia est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — abordable, compacte, hôtels dog-friendly à partir de 60 €. La vieille ville se combine au Vitosha et au lac de Pancharevo pour des excursions à la journée. La principale subtilité est la règle stricte d'équipement dans les transports pour les grands chiens."
+        },
+        {
+          "q": "Quels documents pour emmener son chien en Bulgarie ?",
+          "a": "Un passeport européen (ou équivalent hors UE), une vaccination antirabique valide datant d'au moins 21 jours, et une puce électronique. Les contrôles aux frontières sont minimes mais le passeport doit accompagner le chien en permanence."
+        },
+        {
+          "q": "Mon chien peut-il visiter la cathédrale Alexandre-Nevski ?",
+          "a": "Seuls les chiens d'assistance sont admis à l'intérieur de la cathédrale. La place extérieure est accessible en laisse et gratuite, et le marché aux puces du samedi à l'arrière accepte les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Sofía una buena ciudad para viajar con perro?",
+          "a": "Sí: asequible, compacta, con hoteles dog-friendly desde 60 €. El casco antiguo se combina con el Vitosha y el lago de Pancharevo para excursiones de día completo. La principal pega es la norma estricta de equipamiento en el transporte para perros grandes."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Bulgaria?",
+          "a": "Un pasaporte europeo (o equivalente fuera de la UE), una vacunación antirrábica válida con al menos 21 días, y un microchip. Los controles fronterizos son mínimos, pero el pasaporte debe acompañar al perro en todo momento."
+        },
+        {
+          "q": "¿Puede mi perro visitar la Catedral de Alexander Nevsky?",
+          "a": "Solo perros de asistencia se admiten en el interior de la Catedral. La plaza exterior es accesible con correa y gratuita, y el mercadillo de los sábados en la parte trasera admite perros."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Sofia",
+      "titleFr": "Attractions dog-friendly à Sofia",
+      "titleEs": "Atracciones para mascotas en Sofía",
+      "introEn": "Sofia's main sights split between religious-heritage interiors (Cathedral, churches) and broad outdoor squares and parks that are leash-friendly and free. The historic centre is compact: Alexander Nevsky Cathedral, the National Theatre, and the Sveta Nedelya square form a 90-minute walking loop with multiple dog-friendly café stops. The Boyana–Vitosha excursion adds half a day of forest walking. Three of the best below.",
+      "introFr": "Les sites principaux de Sofia se partagent entre les intérieurs religieux (cathédrale, églises) et les vastes places et parcs extérieurs accessibles en laisse et gratuits. Le centre historique est compact : la cathédrale Alexandre-Nevski, le Théâtre national et la place Sveta Nedelya forment une boucle d'1h30 à pied avec plusieurs arrêts cafés dog-friendly. L'excursion Boyana-Vitosha ajoute une demi-journée de marche en forêt. Trois des meilleurs ci-dessous.",
+      "introEs": "Las principales atracciones de Sofía se reparten entre interiores de patrimonio religioso (Catedral, iglesias) y amplias plazas y parques exteriores accesibles con correa y gratuitos. El centro histórico es compacto: la Catedral de Alexander Nevsky, el Teatro Nacional y la plaza Sveta Nedelya forman un circuito a pie de 1h30 con varias paradas en cafés dog-friendly. La excursión a Boyana-Vitosha añade media jornada de caminata por el bosque. A continuación, tres de los mejores.",
+      "places": [
+        {
+          "name": "Alexander Nevsky Cathedral square",
+          "address": "ploshtad Sveti Aleksandar Nevski, 1000 Sofia",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/sofia-attractions-alexander-nevsky-cathedral-square.jpg",
+          "website": "https://visitsofia.bg/en/places/places-of-worship/st-aleksandar-nevski-cathedral/",
+          "description": "Sofia's signature landmark, a vast neo-Byzantine cathedral with golden domes that dominate the city skyline. Pets are not admitted inside (assistance dogs only), but the wide stone-paved square outside is leash-friendly and free, with the Saturday flea market spread along the back side. The space stays cool in summer thanks to the surrounding trees.",
+          "descriptionFr": "Monument emblématique de Sofia, vaste cathédrale néo-byzantine aux dômes dorés qui dominent le skyline. Les animaux ne sont pas admis à l'intérieur (chiens d'assistance uniquement), mais la grande place pavée extérieure est accessible en laisse et gratuite, avec le marché aux puces du samedi à l'arrière. L'espace reste frais l'été grâce aux arbres environnants.",
+          "descriptionEs": "Monumento emblemático de Sofía, vasta catedral neo-bizantina con cúpulas doradas que dominan el horizonte. Las mascotas no se admiten en el interior (solo perros de asistencia), pero la amplia plaza adoquinada exterior es accesible con correa y gratuita, con el mercadillo de los sábados a lo largo de la parte trasera. El espacio se mantiene fresco en verano gracias a los árboles del entorno.",
+          "petPolicy": "Square leash-friendly; assistance dogs only inside the cathedral",
+          "petPolicyFr": "Place accessible en laisse ; chiens d'assistance uniquement à l'intérieur",
+          "petPolicyEs": "Plaza accesible con correa; solo perros de asistencia en el interior",
+          "openingHours": "24/7 (square); cathedral 07:00–19:00",
+          "tip": "Saturday morning at 09:00 for the flea-market loop with a dog — the square is busiest from 11:00 onward.",
+          "tipFr": "Samedi matin à 9h pour la boucle du marché aux puces avec un chien — la place se remplit dès 11h.",
+          "tipEs": "Sábado por la mañana a las 09:00 para el circuito del mercadillo con perro: la plaza se llena a partir de las 11:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Alexander+Nevsky+Cathedral+Sofia"
+        },
+        {
+          "name": "Vitosha Boulevard",
+          "address": "Vitosha Boulevard, 1000 Sofia",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/sofia-attractions-vitosha-boulevard.jpg",
+          "website": "https://visitsofia.bg/en/",
+          "description": "The pedestrian shopping spine of Sofia, running south from Sveta Nedelya square towards the Vitosha mountain. Lined with cafés, gelato shops, and bookstores, the entire 1.2 km is leash-friendly and the most concentrated dog-watching spot in the city. The view of the Vitosha peaks at the south end is the city's signature photograph.",
+          "descriptionFr": "Colonne vertébrale piétonne et commerçante de Sofia, du sud de la place Sveta Nedelya jusqu'au massif du Vitosha. Bordés de cafés, glaciers et librairies, les 1,2 km sont accessibles en laisse et constituent le spot d'observation canine le plus dense de la ville. La vue sur les sommets du Vitosha à l'extrémité sud est la photo signature de Sofia.",
+          "descriptionEs": "El eje peatonal y comercial de Sofía, que va desde el sur de la plaza Sveta Nedelya hasta el macizo del Vitosha. Flanqueado por cafés, heladerías y librerías, los 1,2 km son accesibles con correa y son el punto de observación canino más denso de la ciudad. La vista de las cumbres del Vitosha en el extremo sur es la foto emblemática de Sofía.",
+          "petPolicy": "Dogs welcome on leash; nearly all terraces accept pets",
+          "petPolicyFr": "Chiens acceptés en laisse ; presque toutes les terrasses acceptent les animaux",
+          "petPolicyEs": "Perros admitidos con correa; casi todas las terrazas aceptan mascotas",
+          "openingHours": "24/7 (boulevard); shops 10:00–22:00",
+          "tip": "Walk from north to south — the boulevard slopes downhill that way and the Vitosha view opens up like a stage curtain.",
+          "tipFr": "Marchez du nord au sud — le boulevard descend et la vue du Vitosha s'ouvre comme un rideau de théâtre.",
+          "tipEs": "Camina de norte a sur: el bulevar baja en esa dirección y la vista del Vitosha se abre como un telón de teatro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vitosha+Boulevard+Sofia"
+        },
+        {
+          "name": "Boyana Church & Waterfall trail",
+          "address": "Boyansko Ezero 1, 1616 Sofia",
+          "neighborhood": "Boyana foothills",
+          "photo": "/images/city-places/sofia-attractions-boyana-church-waterfall-trail.jpg",
+          "website": "https://visitsofia.bg/en/places/historical-monuments/boyana-church/",
+          "description": "A 13th-century UNESCO church on the south edge of the city, famous for its 90 medieval murals. The interior admits only assistance dogs, but the Boyana neighbourhood and the marked waterfall trail (2 km up from the church) are leash-friendly. The full walk pairs the cultural landmark with a forest dog walk.",
+          "descriptionFr": "Église UNESCO du XIIIe siècle à la lisière sud de la ville, célèbre pour ses 90 fresques médiévales. L'intérieur n'admet que les chiens d'assistance, mais le quartier de Boyana et le sentier balisé de la cascade (2 km au-dessus de l'église) sont accessibles en laisse. La balade complète combine le site culturel et une promenade canine en forêt.",
+          "descriptionEs": "Iglesia UNESCO del siglo XIII en el extremo sur de la ciudad, famosa por sus 90 frescos medievales. El interior solo admite perros de asistencia, pero el barrio de Boyana y el sendero señalizado de la cascada (2 km por encima de la iglesia) son accesibles con correa. El paseo completo combina el lugar cultural con un paseo canino por el bosque.",
+          "petPolicy": "Surrounding district leash-friendly; assistance dogs only inside the church",
+          "petPolicyFr": "Quartier environnant accessible en laisse ; chiens d'assistance uniquement dans l'église",
+          "petPolicyEs": "Barrio circundante accesible con correa; solo perros de asistencia en la iglesia",
+          "openingHours": "Church 09:30–17:30; trail 24/7",
+          "tip": "Bus 64 from Hladilnika tram terminus stops 200 m from the church — the simplest dog-friendly access without a car.",
+          "tipFr": "Le bus 64 depuis le terminus tram Hladilnika s'arrête à 200 m de l'église — l'accès dog-friendly le plus simple sans voiture.",
+          "tipEs": "El bus 64 desde la terminal del tranvía Hladilnika para a 200 m de la iglesia: el acceso dog-friendly más sencillo sin coche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boyana+Church+Sofia"
+        }
+      ],
+      "tipsEn": [
+        "Indoor museums (National History Museum, Archaeological Museum) admit only assistance dogs — plan a sitter or split visits with travel companions.",
+        "The Old Town and Vitosha Boulevard are walkable in 90 minutes as a single dog-friendly loop, so a sitter is rarely needed for a short city break.",
+        "Sofia's free walking tour (twice daily from the Palace of Justice) accepts leashed dogs — a useful way to add context to a centre stroll."
+      ],
+      "tipsFr": [
+        "Les musées en intérieur (Musée national d'histoire, Musée archéologique) n'admettent que les chiens d'assistance — prévoyez un sitter ou répartissez la visite entre compagnons.",
+        "La vieille ville et le Vitosha Boulevard se parcourent en 1h30 en une seule boucle dog-friendly, donc un sitter est rarement nécessaire pour un court séjour.",
+        "La visite gratuite à pied de Sofia (deux fois par jour depuis le Palais de Justice) accepte les chiens en laisse — utile pour ajouter du contexte à une balade dans le centre."
+      ],
+      "tipsEs": [
+        "Los museos cerrados (Museo Nacional de Historia, Museo Arqueológico) solo admiten perros de asistencia: planifica un cuidador o reparte la visita entre acompañantes.",
+        "El casco antiguo y el Vitosha Boulevard se recorren en 1h30 como un único circuito dog-friendly, así que un cuidador rara vez es necesario para una escapada corta.",
+        "La visita guiada gratuita a pie de Sofía (dos veces al día desde el Palacio de Justicia) admite perros con correa: útil para añadir contexto a un paseo por el centro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog enter Alexander Nevsky Cathedral?",
+          "a": "No — only assistance dogs are admitted to the cathedral interior. The wide square outside is leash-friendly and free; the Saturday flea market on the back side accepts dogs."
+        },
+        {
+          "q": "What's the best dog-friendly day in Sofia?",
+          "a": "Walk from Alexander Nevsky Cathedral down through Vitosha Boulevard to the National Palace of Culture, take the metro to Vitosha station, then bus 64 to the Boyana Waterfall trail for a forest finish."
+        },
+        {
+          "q": "Are dogs allowed inside the Sofia metro stations?",
+          "a": "Yes, with the same rules as on the trains — small pets in carrier free, large dogs leashed and muzzled with a transport ticket. Stations are dog-friendly throughout the network."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer dans la cathédrale Alexandre-Nevski ?",
+          "a": "Non — seuls les chiens d'assistance sont admis à l'intérieur de la cathédrale. La grande place extérieure est accessible en laisse et gratuite ; le marché aux puces du samedi à l'arrière accepte les chiens."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Sofia ?",
+          "a": "De la cathédrale Alexandre-Nevski au Vitosha Boulevard et au Palais national de la Culture, métro jusqu'à la station Vitosha puis bus 64 pour le sentier de la cascade de Boyana, finale en forêt."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés dans les stations du métro de Sofia ?",
+          "a": "Oui, avec les mêmes règles que dans les trains — petits animaux en panier gratuits, grands chiens en laisse et muselés avec un ticket transport. Les stations sont dog-friendly sur l'ensemble du réseau."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro entrar a la Catedral de Alexander Nevsky?",
+          "a": "No: solo perros de asistencia se admiten en el interior de la catedral. La amplia plaza exterior es accesible con correa y gratuita; el mercadillo de los sábados en la parte trasera admite perros."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Sofía?",
+          "a": "De la Catedral de Alexander Nevsky bajando por el Vitosha Boulevard hasta el Palacio Nacional de la Cultura, metro hasta la estación Vitosha y luego bus 64 para el sendero de la cascada de Boyana, final en el bosque."
+        },
+        {
+          "q": "¿Se admiten perros dentro de las estaciones de metro de Sofía?",
+          "a": "Sí, con las mismas reglas que en los trenes: mascotas pequeñas en transportín gratis, perros grandes con correa y bozal con billete de transporte. Las estaciones son dog-friendly en toda la red."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Sofia",
+      "titleFr": "Garde et promenade de chiens à Sofia",
+      "titleEs": "Cuidado y paseo de perros en Sofía",
+      "introEn": "Sofia pet-care is split between Pawshake (the European platform), PetBacker, and a network of Bulgarian Facebook groups for expat owners. Prices are about a third of Western European rates — €5-8 per walk is typical — and the network is dense enough that next-day bookings are usually possible. Useful given the strict pet bans inside Bulgarian museums and cathedrals.",
+      "introFr": "La garde d'animaux à Sofia se partage entre Pawshake (plateforme européenne), PetBacker et un réseau de groupes Facebook bulgares pour propriétaires expatriés. Les tarifs sont environ un tiers des tarifs ouest-européens — 5-8 € la promenade est courant — et le réseau est suffisamment dense pour que les réservations du lendemain soient généralement possibles. Utile vu les interdictions strictes des animaux dans les musées et cathédrales bulgares.",
+      "introEs": "El cuidado de mascotas en Sofía se reparte entre Pawshake (plataforma europea), PetBacker y una red de grupos de Facebook búlgaros para dueños expatriados. Los precios son aproximadamente un tercio de los de Europa Occidental — 5-8 € por paseo es habitual — y la red es lo bastante densa para que las reservas del día siguiente sean habitualmente posibles. Útil dadas las prohibiciones estrictas de mascotas dentro de los museos y catedrales búlgaros.",
+      "places": [
+        {
+          "name": "Pawshake Sofia",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://en.pawshake.com/petsitters/sofia",
+          "description": "The Bulgarian arm of the European Pawshake network, with verified sitters across Sofia offering drop-in visits, full-day care, dog walks, and overnight boarding. Bookings are insured through the platform and the interface is fully translated into English. The most reliable option for visitors with no local contacts.",
+          "descriptionFr": "Filiale bulgare du réseau européen Pawshake, avec des sitters vérifiés à Sofia proposant visites à domicile, garde à la journée, promenades et hébergement de nuit. Les réservations sont assurées via la plateforme et l'interface est entièrement traduite en anglais. L'option la plus fiable pour les visiteurs sans contact local.",
+          "descriptionEs": "La filial búlgara de la red europea Pawshake, con cuidadores verificados en Sofía que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
+          "tip": "Filter for Lozenets, Center, or Krasno Selo — the three districts with the highest concentration of English-speaking sitters used to short-notice expat bookings.",
+          "tipFr": "Filtrez sur Lozenets, Centre ou Krasno Selo — les trois quartiers avec la plus forte concentration de sitters anglophones habitués aux réservations expatriées de dernière minute.",
+          "tipEs": "Filtra por Lozenets, Centro o Krasno Selo: los tres barrios con la mayor concentración de cuidadores angloparlantes acostumbrados a reservas expatriadas de última hora."
+        }
+      ],
+      "tipsEn": [
+        "Average rates: drop-in visit €6-8, dog walk €5-8, full-day care €12-18, overnight €15-22 — among the cheapest pet-care rates in any EU capital.",
+        "Most central Sofia sitters live in apartments — confirm sleeping arrangements (crate, sofa, with the family) before booking for boarding.",
+        "Bulgarian sitters typically speak English, especially in central Sofia and the Lozenets / Krasno Selo expat districts."
+      ],
+      "tipsFr": [
+        "Tarifs moyens : visite 6-8 €, promenade 5-8 €, journée complète 12-18 €, nuit 15-22 € — parmi les tarifs les plus bas de toutes les capitales européennes.",
+        "La plupart des sitters du centre de Sofia vivent en appartement — vérifiez les conditions de couchage (caisse, canapé, en famille) avant de réserver pour la nuit.",
+        "Les sitters bulgares parlent généralement anglais, surtout au centre de Sofia et dans les quartiers expatriés de Lozenets / Krasno Selo."
+      ],
+      "tipsEs": [
+        "Tarifas medias: visita 6-8 €, paseo 5-8 €, día completo 12-18 €, noche 15-22 €: entre las más bajas de cualquier capital de la UE.",
+        "La mayoría de los cuidadores del centro de Sofía viven en piso: confirma cómo dormirá tu perro (jaula, sofá, con la familia) antes de reservar pernocta.",
+        "Los cuidadores búlgaros suelen hablar inglés, sobre todo en el centro de Sofía y en los barrios expatriados de Lozenets / Krasno Selo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Sofia at short notice?",
+          "a": "Pawshake.com is the fastest — most paid sitters confirm within hours. Filter for at least ten reviews and check the apartment-or-house preference."
+        },
+        {
+          "q": "Are dog walkers regulated in Bulgaria?",
+          "a": "Bulgarian law does not require a licence for dog walkers, but Pawshake and PetBacker carers are insured through the platforms — useful in the unlikely case of an incident."
+        },
+        {
+          "q": "Do hotels offer pet sitting in Sofia?",
+          "a": "A few luxury hotels (Hyatt Regency, Grand Hotel Sofia) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter à Sofia à court terme ?",
+          "a": "Pawshake.com est le plus rapide — la plupart des sitters confirment en quelques heures. Filtrez sur au moins dix avis et vérifiez la préférence appartement-ou-maison."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Bulgarie ?",
+          "a": "La loi bulgare n'exige pas de licence pour les promeneurs, mais les sitters Pawshake et PetBacker sont assurés via les plateformes — utile dans le rare cas d'un incident."
+        },
+        {
+          "q": "Les hôtels proposent-ils une garde à Sofia ?",
+          "a": "Quelques hôtels haut de gamme (Hyatt Regency, Grand Hotel Sofia) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Sofía sin mucha antelación?",
+          "a": "Pawshake.com es lo más rápido: la mayoría de los cuidadores confirman en pocas horas. Filtra por al menos diez opiniones y comprueba la preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Están regulados los paseadores en Bulgaria?",
+          "a": "La ley búlgara no exige licencia para los paseadores, pero los cuidadores de Pawshake y PetBacker están asegurados mediante las plataformas: útil en el raro caso de un incidente."
+        },
+        {
+          "q": "¿Los hoteles ofrecen servicio de cuidado en Sofía?",
+          "a": "Algunos hoteles de gama alta (Hyatt Regency, Grand Hotel Sofia) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ]
+    }
+  }
+}

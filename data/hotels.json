@@ -10070,6 +10070,122 @@
     "slug": "hotel-colon-gran-melia"
   },
   {
+    "id": "sofia-1",
+    "name": "Hyatt Regency Sofia",
+    "destinationSlug": "sofia",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2700,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/hyatt-regency-sofia.html",
+    "petFee": 50,
+    "petPolicy": "Hyatt Regency Sofia welcomes one pet per room for €50 per stay (up to 7 nights) or €90 (8-30 nights). Both dogs and cats are accepted on advance request. The hotel sits beside Sveta Nedelya square, two minutes from the Cathedral.",
+    "highlights": [
+      "Beside Sveta Nedelya square",
+      "Pet welcome amenities",
+      "Indoor pool & spa"
+    ],
+    "slug": "hyatt-regency-sofia-sofia"
+  },
+  {
+    "id": "sofia-2",
+    "name": "Sense Hotel Sofia",
+    "destinationSlug": "sofia",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2400,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/sense.html",
+    "petFee": 35,
+    "petPolicy": "Sense Hotel Sofia accepts dogs up to 20 kg for €35 per pet per stay. The hotel sits opposite the Alexander Nevsky Cathedral and offers a rooftop bar with city panoramas. Cats are not accepted.",
+    "highlights": [
+      "Opposite Alexander Nevsky Cathedral",
+      "Rooftop bar & restaurant",
+      "Boutique design hotel"
+    ],
+    "slug": "sense-hotel-sofia-sofia"
+  },
+  {
+    "id": "sofia-3",
+    "name": "Grand Hotel Sofia",
+    "destinationSlug": "sofia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 3100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/grand-hotel-sofia.html",
+    "petFee": 30,
+    "petPolicy": "Grand Hotel Sofia accepts up to two pets up to 20 kg per room for €30 per pet per night. Both dogs and cats are accepted. Pets are not allowed in the spa or restaurant.",
+    "highlights": [
+      "Steps from Vitosha Boulevard",
+      "Indoor pool & spa",
+      "Walk to City Garden park"
+    ],
+    "slug": "grand-hotel-sofia-sofia"
+  },
+  {
+    "id": "sofia-4",
+    "name": "Novotel Sofia",
+    "destinationSlug": "sofia",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4200,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/novotel-sofia.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Sofia welcomes pets of any size for €15 per pet per night. Both dogs and cats are accepted. Service animals stay free without a fee.",
+    "highlights": [
+      "Riverside location",
+      "Indoor pool",
+      "Best-value 4-star pet rates"
+    ],
+    "slug": "novotel-sofia-sofia"
+  },
+  {
+    "id": "sofia-5",
+    "name": "Best Western Plus Bristol Hotel",
+    "destinationSlug": "sofia",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3500,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/bg/best-western-bristol.html",
+    "petFee": 20,
+    "petPolicy": "Best Western Plus Bristol welcomes dogs up to 15 kg for €20 per pet per night. Cats are not accepted. Pets are restricted to designated rooms (book in advance).",
+    "highlights": [
+      "Old Town location",
+      "Walk to Vitosha Boulevard",
+      "Best-value pet stays"
+    ],
+    "slug": "best-western-plus-bristol-hotel-sofia"
+  },
+  {
     "id": "split-1",
     "name": "Hotel Marjan Split",
     "destinationSlug": "split",

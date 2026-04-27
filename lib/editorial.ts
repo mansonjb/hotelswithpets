@@ -317,6 +317,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
       area: 'Triana, Santa Cruz, and El Arenal',
     },
+    sofia: {
+      personality: 'one of the EU\'s most affordable capitals, with nearly 500 dog-friendly venues, two 24/7 emergency hospitals, and the 2 290-metre Vitosha mountain rising directly from the city',
+      highlight: 'Borisova Gradina, Yuzhen Park, and the Vitosha Nature Park trails',
+      area: 'Vitosha Boulevard, Lozenets, and Boyana',
+    },
     split: {
       personality: 'a relaxed Croatian coastal city where the Adriatic waterfront, ancient Diocletian\'s Palace, and a laid-back local culture make it a standout destination for pet owners',
       highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
@@ -689,6 +694,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parque de María Luisa, le parc Alamillo et la promenade riveraine du Guadalquivir',
       area: 'Triana, Santa Cruz et El Arenal',
     },
+    sofia: {
+      personality: 'l\'une des capitales européennes les plus abordables, avec près de 500 adresses dog-friendly, deux hôpitaux d\'urgence 24h/24 et le Vitosha à 2 290 mètres qui s\'élève directement depuis la ville',
+      highlight: 'Borisova Gradina, le Yuzhen Park et les sentiers du parc naturel du Vitosha',
+      area: 'le Vitosha Boulevard, Lozenets et Boyana',
+    },
     split: {
       personality: 'une ville côtière croate décontractée où le front de mer adriatique, l\'ancien Palais de Dioclétien et une culture locale relax en font une destination remarquable pour les propriétaires d\'animaux',
       highlight: 'le parc forestier de la colline Marjan, la zone chiens de la plage de Bačvice et le sentier côtier vers Stobreč',
@@ -1060,6 +1070,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades más dog-friendly de Andalucía. Donde los perros pasean bajo los naranjos, acompañan a sus dueños en las terrazas de bares de tapas y exploran los parques ribereños',
       highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
       area: 'Triana, Santa Cruz y El Arenal',
+    },
+    sofia: {
+      personality: 'una de las capitales europeas más asequibles, con cerca de 500 direcciones dog-friendly, dos hospitales de urgencias 24/7 y el monte Vitosha de 2.290 metros elevándose directamente desde la ciudad',
+      highlight: 'Borisova Gradina, el Yuzhen Park y los senderos del Parque Natural del Vitosha',
+      area: 'el Vitosha Boulevard, Lozenets y Boyana',
     },
     split: {
       personality: 'una relajada ciudad costera croata donde el paseo marítimo adriático, el antiguo Palacio de Diocleciano y una actitud local distendida la convierten en un destino destacado para los dueños de mascotas',

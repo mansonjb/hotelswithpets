@@ -4319,6 +4319,80 @@
     }
   },
   {
+    "slug": "sofia",
+    "name": "Sofia",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "flag": "🇧🇬",
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sofia.jpg",
+    "intro": "Sofia is one of the EU's most affordable capitals: nearly 500 dog-friendly venues, two 24/7 emergency vet hospitals, and the 2,290 m Vitosha mountain rising directly from the city, all reachable on foot or one metro ride.",
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "split",
     "name": "Split",
     "country": "Croatia",

@@ -1,0 +1,885 @@
+{
+  "slug": "bucharest",
+  "name": "Bucharest",
+  "country": "Romania",
+  "flag": "🇷🇴",
+  "lastUpdated": "2026-04-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Bucharest",
+      "titleFr": "Restaurants acceptant les chiens à Bucarest",
+      "titleEs": "Restaurantes para perros en Bucarest",
+      "introEn": "Bucharest's restaurant scene is heavily terrace-driven, and Romanian café culture is broadly dog-welcoming on outdoor seating. The Old Town (Lipscani), the Floreasca residential district, and the Calea Victoriei spine concentrate the best dog-friendly addresses, with several venues that explicitly welcome dogs indoors year-round. Below are three reliable, verified addresses with confirmed pet policies.",
+      "introFr": "La scène restauration de Bucarest mise beaucoup sur la terrasse, et la culture café roumaine est largement dog-friendly en extérieur. La vieille ville (Lipscani), le quartier résidentiel de Floreasca et l'axe de Calea Victoriei concentrent les meilleures adresses dog-friendly, avec plusieurs lieux qui acceptent explicitement les chiens en intérieur toute l'année. Ci-dessous, trois adresses fiables et vérifiées avec une politique animaux confirmée.",
+      "introEs": "La oferta gastronómica de Bucarest se apoya mucho en la terraza, y la cultura cafetera rumana es ampliamente dog-friendly al aire libre. El casco antiguo (Lipscani), el barrio residencial de Floreasca y el eje de Calea Victoriei concentran las mejores direcciones dog-friendly, con varios locales que admiten explícitamente perros en interior todo el año. A continuación, tres direcciones fiables y verificadas con política de mascotas confirmada.",
+      "places": [
+        {
+          "name": "Energiea",
+          "address": "Strada Vasile Lascăr 24, București 020491",
+          "neighborhood": "Armenească (Old Town fringe)",
+          "photo": "/images/city-places/bucharest-restaurants-energiea.jpg",
+          "website": "https://www.energiea.ro/",
+          "description": "A casual all-day venue housed in a former printing house just off the Old Town, regularly cited as one of the city's most reliably dog-welcoming addresses. Dogs join guests indoors and on the courtyard terrace; staff routinely bring out fresh water without being asked. The kitchen runs from breakfast through late dinner with a strong cocktail and craft-beer programme.",
+          "descriptionFr": "Adresse décontractée toute la journée installée dans une ancienne imprimerie aux portes de la vieille ville, régulièrement citée parmi les plus fiables côté chiens. Les chiens accompagnent leurs maîtres en salle et sur la terrasse de cour ; le personnel apporte spontanément de l'eau fraîche. La cuisine fonctionne du petit-déjeuner au dîner tardif avec une solide carte cocktails et bière artisanale.",
+          "descriptionEs": "Local desenfadado de día completo en una antigua imprenta a las puertas del casco antiguo, citado a menudo entre las direcciones más fiables con perros. Los perros acompañan a sus dueños en interior y en la terraza del patio; el personal saca agua fresca sin pedirla. La cocina funciona del desayuno hasta la cena tardía con una sólida carta de cócteles y cerveza artesana.",
+          "petPolicy": "Dogs welcome inside and on courtyard terrace; water provided",
+          "petPolicyFr": "Chiens acceptés en salle et sur la terrasse de cour ; eau fournie",
+          "petPolicyEs": "Perros admitidos en interior y en la terraza del patio; agua disponible",
+          "priceRange": "€€",
+          "mustTry": "Burger, weekend brunch, Romanian craft beer",
+          "mustTryFr": "Burger, brunch du week-end, bière artisanale roumaine",
+          "mustTryEs": "Hamburguesa, brunch de fin de semana, cerveza artesana rumana",
+          "openingHours": "Mon–Sun 09:00–02:00",
+          "tip": "Friday evenings fill the courtyard fast — book a corner table by the bar for quieter dog access.",
+          "tipFr": "Le vendredi soir, la cour se remplit vite — réservez une table d'angle près du bar pour un accès plus calme avec un chien.",
+          "tipEs": "Los viernes por la noche el patio se llena rápido: reserva una mesa esquinera junto a la barra para un acceso más tranquilo con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Energiea+Bucharest"
+        },
+        {
+          "name": "J'ai Bistrot",
+          "address": "Strada Visarion 6, București 010541",
+          "neighborhood": "Romană / Calea Victoriei",
+          "photo": "/images/city-places/bucharest-restaurants-j-ai-bistrot.jpg",
+          "website": "https://www.jaibistrot.ro/",
+          "description": "A French-Romanian bistrot with a leafy summer terrace and a cosy townhouse interior, on a quiet residential street near Calea Victoriei. Dogs are explicitly welcome both indoors and outdoors, and the team will bring a water bowl and a treat to the table on request. The tasting menu pairs Romanian seasonal produce with French technique.",
+          "descriptionFr": "Bistrot franco-roumain avec terrasse estivale verdoyante et intérieur cosy d'hôtel particulier, sur une rue résidentielle calme près de Calea Victoriei. Les chiens sont explicitement acceptés en salle comme en terrasse, et l'équipe apporte gamelle d'eau et friandise à table sur demande. La carte dégustation marie les produits roumains de saison avec la technique française.",
+          "descriptionEs": "Bistrot franco-rumano con terraza estival frondosa e interior acogedor de casa señorial, en una calle residencial tranquila cerca de Calea Victoriei. Los perros son explícitamente bienvenidos en interior y en terraza, y el equipo trae cuenco de agua y un premio a la mesa bajo petición. La carta de degustación marida producto rumano de temporada con técnica francesa.",
+          "petPolicy": "Dogs welcome inside and on terrace; treats and water on request",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse ; friandises et eau sur demande",
+          "petPolicyEs": "Perros admitidos en interior y terraza; premios y agua bajo petición",
+          "priceRange": "€€€",
+          "mustTry": "Tasting menu, Romanian wine pairing, weekend brunch",
+          "mustTryFr": "Menu dégustation, accord mets-vins roumains, brunch du week-end",
+          "mustTryEs": "Menú de degustación, maridaje de vinos rumanos, brunch de fin de semana",
+          "openingHours": "Tue–Sun 12:00–23:00",
+          "tip": "The leafy terrace is the priority booking — May to September is the best window for an evening with a dog.",
+          "tipFr": "La terrasse verdoyante est à réserver en priorité — de mai à septembre c'est la meilleure fenêtre pour une soirée avec un chien.",
+          "tipEs": "La terraza frondosa es la prioridad de reserva: de mayo a septiembre es la mejor ventana para una velada con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Jai+Bistrot+Bucharest"
+        },
+        {
+          "name": "Artichoke Coffee Shop",
+          "address": "Bulevardul Pache Protopopescu 44, București 021413",
+          "neighborhood": "Foișorul de Foc",
+          "photo": "/images/city-places/bucharest-restaurants-artichoke-coffee-shop.jpg",
+          "website": "https://www.artichoke.ro/",
+          "description": "A specialty-coffee shop with an outdoor terrace popular with the local dog-walking crowd. Dogs are welcomed indoors at the front tables and unconditionally on the terrace, with treats and water bowls kept behind the bar. Strong third-wave coffee programme, a focused all-day breakfast menu, and one of the most consistent Wi-Fi connections for remote workers.",
+          "descriptionFr": "Coffee shop de spécialité avec terrasse extérieure prisée par les promeneurs de chiens du quartier. Les chiens sont accueillis en salle aux tables avant et sans condition en terrasse, avec friandises et gamelles d'eau gardées derrière le bar. Solide programme café troisième vague, carte petit-déjeuner concise toute la journée et l'un des Wi-Fi les plus stables pour le télétravail.",
+          "descriptionEs": "Coffee shop de especialidad con terraza exterior popular entre los paseadores de perros del barrio. Los perros son bienvenidos en las mesas delanteras del interior y sin condiciones en la terraza, con premios y cuencos de agua detrás de la barra. Buen programa de café de tercera ola, breve carta de desayunos todo el día y uno de los WiFi más estables para teletrabajo.",
+          "petPolicy": "Dogs welcome on terrace and front indoor tables; treats provided",
+          "petPolicyFr": "Chiens acceptés en terrasse et aux tables avant en salle ; friandises fournies",
+          "petPolicyEs": "Perros admitidos en terraza y en las mesas delanteras del interior; premios disponibles",
+          "priceRange": "€",
+          "mustTry": "Specialty flat white, avocado toast, cinnamon roll",
+          "mustTryFr": "Flat white spécialité, toast à l'avocat, roulé à la cannelle",
+          "mustTryEs": "Flat white de especialidad, tostada de aguacate, rollo de canela",
+          "openingHours": "Mon–Sun 08:00–20:00",
+          "tip": "Saturdays before 11:00 are the calmest moment — the dog-walking scene shifts here from Cismigiu Park around 10:30.",
+          "tipFr": "Les samedis avant 11h sont les plus calmes — la scène des promeneurs migre depuis le parc Cismigiu vers 10h30.",
+          "tipEs": "Los sábados antes de las 11:00 es el momento más tranquilo: la escena de paseadores se traslada desde el parque Cismigiu hacia las 10:30.",
+          "googleMapsUrl": "https://maps.google.com/?q=Artichoke+Coffee+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "Outdoor terraces in Bucharest are universally dog-welcoming; indoor seating is the venue's call. Independent cafés say yes most of the time, chains less so.",
+        "Old Town (Lipscani), Floreasca, and the streets around Calea Victoriei concentrate the densest dog-friendly food strips.",
+        "Romanian restaurants don't tip-include — leave 10% in cash or card for the waiter, especially if they brought a water bowl unprompted."
+      ],
+      "tipsFr": [
+        "Les terrasses extérieures à Bucarest sont universellement dog-friendly ; en salle, c'est à la discrétion de l'établissement. Les cafés indépendants disent oui la plupart du temps, les chaînes moins.",
+        "La vieille ville (Lipscani), Floreasca et les rues autour de Calea Victoriei concentrent les rues les plus dog-friendly.",
+        "Les restaurants roumains n'incluent pas le service — laissez 10 % en liquide ou par carte au serveur, surtout s'il a apporté une gamelle d'eau spontanément."
+      ],
+      "tipsEs": [
+        "Las terrazas exteriores en Bucarest son universalmente dog-friendly; en interior depende del local. Los cafés independientes dicen sí la mayor parte del tiempo, las cadenas menos.",
+        "El casco antiguo (Lipscani), Floreasca y las calles alrededor de Calea Victoriei concentran las calles más dog-friendly.",
+        "Los restaurantes rumanos no incluyen servicio: deja un 10 % en efectivo o tarjeta al camarero, sobre todo si trajo el cuenco de agua sin pedirlo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Bucharest restaurants?",
+          "a": "Outdoor terraces are universally dog-welcoming; indoor admittance is venue-specific. Independent cafés say yes most of the time, but high-end restaurants and chains often restrict pets to the terrace."
+        },
+        {
+          "q": "Do Bucharest cafés provide water bowls?",
+          "a": "Most dog-friendly venues do, including Energiea, Artichoke, and J'ai Bistrot. A collapsible bowl is still useful for hopping between addresses."
+        },
+        {
+          "q": "Where are the most pet-friendly food strips in Bucharest?",
+          "a": "Lipscani (Old Town), Floreasca, and the streets immediately around Calea Victoriei. Strada Vasile Lascăr and the Foișorul de Foc area also concentrate dog-welcoming addresses."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les restaurants de Bucarest ?",
+          "a": "Les terrasses extérieures sont universellement dog-friendly ; en salle, ça dépend de l'établissement. Les cafés indépendants disent oui la plupart du temps, mais les restaurants haut de gamme et les chaînes limitent souvent les animaux à la terrasse."
+        },
+        {
+          "q": "Les cafés de Bucarest fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des adresses dog-friendly oui, y compris Energiea, Artichoke et J'ai Bistrot. Une gamelle pliable reste utile entre deux adresses."
+        },
+        {
+          "q": "Où trouver les rues les plus pet-friendly à Bucarest ?",
+          "a": "Lipscani (vieille ville), Floreasca et les rues juste autour de Calea Victoriei. La rue Vasile Lascăr et la zone du Foișorul de Foc concentrent aussi des adresses dog-welcoming."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Bucarest?",
+          "a": "Las terrazas exteriores son universalmente dog-friendly; en interior depende del local. Los cafés independientes dicen sí la mayor parte del tiempo, pero los restaurantes de alta gama y las cadenas suelen limitar las mascotas a la terraza."
+        },
+        {
+          "q": "¿Los cafés de Bucarest ofrecen cuencos de agua?",
+          "a": "La mayoría de los locales dog-friendly sí, incluidos Energiea, Artichoke y J'ai Bistrot. Un cuenco plegable sigue siendo útil entre direcciones."
+        },
+        {
+          "q": "¿Dónde están las calles más pet-friendly de Bucarest?",
+          "a": "Lipscani (casco antiguo), Floreasca y las calles justo alrededor de Calea Victoriei. La calle Vasile Lascăr y la zona de Foișorul de Foc también concentran direcciones dog-welcoming."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Bucharest",
+      "titleFr": "Meilleurs parcs pour chiens à Bucarest",
+      "titleEs": "Mejores parques para perros en Bucarest",
+      "introEn": "Bucharest has unusually generous green space for an Eastern European capital — the King Mihai I (Herastrau) Park alone covers 187 hectares around a 1 km lake. Two fenced municipal dog parks operate inside Herastrau, plus dog-tolerant lawns at Cismigiu and Tineretului. Romanian municipal rules require a leash on city streets but tolerate off-leash inside the marked dog enclosures and the wider park trails when calm.",
+      "introFr": "Bucarest dispose d'un espace vert étonnamment généreux pour une capitale d'Europe de l'Est — le seul parc du Roi Mihai Ier (Herastrau) couvre 187 hectares autour d'un lac d'1 km. Deux parcs canins municipaux clôturés opèrent dans le Herastrau, plus des pelouses tolérantes aux chiens à Cismigiu et Tineretului. La réglementation municipale roumaine impose la laisse dans les rues mais tolère le sans laisse dans les enclos canins balisés et sur les sentiers du parc quand c'est calme.",
+      "introEs": "Bucarest cuenta con un espacio verde inusualmente generoso para una capital de Europa del Este: solo el parque Rey Mihai I (Herastrau) cubre 187 hectáreas alrededor de un lago de 1 km. Dos parques caninos municipales vallados funcionan dentro de Herastrau, además de céspedes tolerantes con perros en Cismigiu y Tineretului. La normativa municipal rumana exige correa en las calles pero tolera soltarlos dentro de los recintos caninos marcados y en los senderos del parque cuando hay poca gente.",
+      "places": [
+        {
+          "name": "King Mihai I Park (Herastrau)",
+          "address": "Șoseaua Kiseleff 32, București 011347",
+          "neighborhood": "Aviatorilor / Floreasca (north of centre)",
+          "photo": "/images/city-places/bucharest-parks-king-mihai-i-park-herastrau.jpg",
+          "website": "https://www.bucuresti.ro/",
+          "description": "Bucharest's largest park, 187 hectares around the central Herastrau Lake, with two fully fenced municipal dog parks (the larger near the Aviator entrance, a medium-sized one near the Mioriță fountain). Beyond the enclosures, the park's footpaths are leash-friendly and the lakeside loop is a favourite local dog walk.",
+          "descriptionFr": "Plus grand parc de Bucarest, 187 hectares autour du lac central de Herastrau, avec deux parcs canins municipaux entièrement clôturés (le plus grand près de l'entrée Aviator, un de taille moyenne près de la fontaine Mioriță). Au-delà des enclos, les sentiers du parc sont accessibles en laisse et la boucle au bord du lac est une promenade canine très prisée.",
+          "descriptionEs": "El mayor parque de Bucarest, 187 hectáreas alrededor del lago central de Herastrau, con dos parques caninos municipales totalmente vallados (el mayor cerca de la entrada Aviator, otro mediano junto a la fuente Mioriță). Más allá de los recintos, los caminos del parque son accesibles con correa y la vuelta al lago es uno de los paseos caninos favoritos de los locales.",
+          "size": "187 hectares",
+          "fenced": true,
+          "amenities": [
+            "Two fenced dog parks",
+            "Lakeside path 6 km loop",
+            "Drinking fountains",
+            "Metro Aviatorilor station at the door"
+          ],
+          "amenitiesFr": [
+            "Deux parcs canins clôturés",
+            "Boucle de 6 km au bord du lac",
+            "Fontaines d'eau",
+            "Métro Aviatorilor à la porte"
+          ],
+          "amenitiesEs": [
+            "Dos parques caninos vallados",
+            "Vuelta de 6 km junto al lago",
+            "Fuentes de agua",
+            "Metro Aviatorilor en la puerta"
+          ],
+          "openingHours": "24/7",
+          "tip": "Avoid the Mioriță fountain dog park on Saturday and Sunday mornings — the local dog clubs train there and it can feel crowded.",
+          "tipFr": "Évitez le parc canin de la fontaine Mioriță les samedis et dimanches matin — les clubs canins locaux y entraînent leurs chiens et ça peut être bondé.",
+          "tipEs": "Evita el parque canino de la fuente Mioriță los sábados y domingos por la mañana: los clubes caninos locales entrenan ahí y puede estar abarrotado.",
+          "googleMapsUrl": "https://maps.google.com/?q=Herastrau+Park+Bucharest"
+        },
+        {
+          "name": "Cișmigiu Gardens",
+          "address": "Bulevardul Regina Elisabeta, București 010181",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/bucharest-parks-cismigiu-gardens.jpg",
+          "website": "https://www.bucuresti.ro/",
+          "description": "The oldest public garden in Bucharest, opened in 1854 and stretching across 17 hectares in the dead centre of the city. A small lake, mature plane trees, and curving gravel paths make it the everyday dog-walk park for residents of the Old Town. Leash-friendly throughout; off-leash is not officially permitted but tolerated on the inner lawns when quiet.",
+          "descriptionFr": "Plus ancien jardin public de Bucarest, ouvert en 1854 et s'étendant sur 17 hectares en plein centre de la ville. Petit lac, platanes anciens et allées de gravier sinueuses en font le parc quotidien des promeneurs de chiens du centre historique. Laisse partout ; le sans laisse n'est pas officiellement permis mais toléré sur les pelouses intérieures quand c'est calme.",
+          "descriptionEs": "El jardín público más antiguo de Bucarest, abierto en 1854 y con 17 hectáreas en pleno centro de la ciudad. Pequeño lago, plátanos maduros y senderos curvos de grava lo convierten en el parque cotidiano para paseos caninos de los residentes del casco antiguo. Correa en todas partes; soltarlos no está oficialmente permitido pero se tolera en los céspedes interiores cuando hay poca gente.",
+          "size": "17 hectares",
+          "fenced": false,
+          "amenities": [
+            "Central lake",
+            "Drinking fountains",
+            "Bandstand café",
+            "Mature shade"
+          ],
+          "amenitiesFr": [
+            "Lac central",
+            "Fontaines d'eau",
+            "Café-kiosque",
+            "Ombre des arbres anciens"
+          ],
+          "amenitiesEs": [
+            "Lago central",
+            "Fuentes de agua",
+            "Café-quiosco",
+            "Sombra de árboles maduros"
+          ],
+          "openingHours": "Daily 06:00–22:00",
+          "tip": "Walk in from the south-west corner — it's the calmest entrance and the lakeside path opens up immediately.",
+          "tipFr": "Entrez par l'angle sud-ouest — c'est l'entrée la plus calme et le sentier du lac s'ouvre immédiatement.",
+          "tipEs": "Entra por la esquina suroeste: es la entrada más tranquila y el sendero del lago se abre de inmediato.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cismigiu+Gardens+Bucharest"
+        },
+        {
+          "name": "Tineretului Park",
+          "address": "Bulevardul Tineretului, București 040282",
+          "neighborhood": "Tineretului (south of centre)",
+          "photo": "/images/city-places/bucharest-parks-tineretului-park.jpg",
+          "website": "https://www.bucuresti.ro/",
+          "description": "An 86-hectare park around the Tineretului Lake, less crowded than Herastrau or Cismigiu. The wide open lawns are popular with dog owners for ball-throwing; a fenced municipal dog park sits on the eastern edge. Metro M2 stops at Tineretului station, two minutes from the park gate.",
+          "descriptionFr": "Parc de 86 hectares autour du lac de Tineretului, moins fréquenté que Herastrau ou Cismigiu. Les vastes pelouses ouvertes sont prisées des propriétaires pour le lancer de balle ; un parc canin municipal clôturé se trouve sur la rive est. Le métro M2 s'arrête à la station Tineretului, deux minutes de la porte du parc.",
+          "descriptionEs": "Parque de 86 hectáreas alrededor del lago Tineretului, menos concurrido que Herastrau o Cismigiu. Las amplias praderas abiertas son favoritas para lanzar pelotas; hay un parque canino municipal vallado en el extremo este. El metro M2 para en la estación Tineretului, a dos minutos de la entrada del parque.",
+          "size": "86 hectares",
+          "fenced": true,
+          "amenities": [
+            "Fenced municipal dog park",
+            "Lakeside path",
+            "Metro M2 access",
+            "Adventure playground"
+          ],
+          "amenitiesFr": [
+            "Parc canin municipal clôturé",
+            "Sentier du lac",
+            "Accès métro M2",
+            "Parc d'aventure"
+          ],
+          "amenitiesEs": [
+            "Parque canino municipal vallado",
+            "Sendero del lago",
+            "Acceso con metro M2",
+            "Parque de aventura"
+          ],
+          "openingHours": "24/7",
+          "tip": "Combine with the nearby Văcărești Nature Park for a half-day excursion — Bucharest's only urban-wilderness reserve, 5 km south.",
+          "tipFr": "Combinez avec le parc naturel de Văcărești tout proche pour une demi-journée — la seule réserve urbaine sauvage de Bucarest, à 5 km au sud.",
+          "tipEs": "Combínalo con el cercano Parque Natural de Văcărești para media jornada: la única reserva urbana salvaje de Bucarest, a 5 km al sur.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tineretului+Park+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "Romanian municipalities require dogs to be leashed on city streets; off-leash is tolerated only inside marked dog enclosures and on quiet inner park lawns.",
+        "Bucharest has Romania's largest network of fenced municipal dog parks — Herastrau alone has two, with smaller ones in Tineretului, Drumul Taberei, and Pantelimon parks.",
+        "All three flagship parks (Herastrau, Cismigiu, Tineretului) have direct metro access — no need for a car or taxi."
+      ],
+      "tipsFr": [
+        "Les municipalités roumaines imposent la laisse aux chiens dans les rues ; le sans laisse n'est toléré que dans les enclos canins balisés et sur les pelouses intérieures calmes des parcs.",
+        "Bucarest possède le plus grand réseau de parcs canins municipaux clôturés de Roumanie — le Herastrau en a deux, et il y en a aussi à Tineretului, Drumul Taberei et Pantelimon.",
+        "Les trois parcs phares (Herastrau, Cismigiu, Tineretului) sont directement desservis par le métro — pas besoin de voiture ni de taxi."
+      ],
+      "tipsEs": [
+        "Los municipios rumanos exigen correa en las calles; soltarlos solo se tolera dentro de los recintos caninos marcados y en los céspedes interiores tranquilos de los parques.",
+        "Bucarest tiene la mayor red de parques caninos municipales vallados de Rumanía: solo Herastrau tiene dos, y también los hay en Tineretului, Drumul Taberei y Pantelimon.",
+        "Los tres parques principales (Herastrau, Cismigiu, Tineretului) tienen acceso directo en metro: no hace falta coche ni taxi."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run completely off-leash in Bucharest?",
+          "a": "The two fenced municipal dog parks inside Herastrau, plus the smaller fenced enclosures in Tineretului and Drumul Taberei parks. Outside these zones a leash is the rule."
+        },
+        {
+          "q": "Are dogs allowed in Cișmigiu Gardens?",
+          "a": "Yes, on a leash. Cișmigiu is the everyday central dog walk, with shaded paths and a lake. Off-leash is not officially permitted."
+        },
+        {
+          "q": "Is Văcărești Nature Park dog-friendly?",
+          "a": "Yes — Bucharest's 'urban delta' is open to leashed dogs on the marked boardwalks. The wetland is a protected site, so off-leash use is not allowed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Bucarest ?",
+          "a": "Les deux parcs canins municipaux clôturés à l'intérieur du Herastrau, plus les petits enclos clôturés des parcs Tineretului et Drumul Taberei. Hors de ces zones, la laisse est obligatoire."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au jardin Cișmigiu ?",
+          "a": "Oui, en laisse. Cișmigiu est la promenade canine quotidienne du centre, avec sentiers ombragés et lac. Le sans laisse n'est pas officiellement permis."
+        },
+        {
+          "q": "Le parc naturel de Văcărești est-il dog-friendly ?",
+          "a": "Oui — le 'delta urbain' de Bucarest est ouvert aux chiens en laisse sur les pontons balisés. La zone humide est protégée, donc le sans laisse n'est pas autorisé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Bucarest?",
+          "a": "Los dos parques caninos municipales vallados dentro de Herastrau, además de los recintos vallados más pequeños en los parques Tineretului y Drumul Taberei. Fuera de esas zonas la correa es obligatoria."
+        },
+        {
+          "q": "¿Se admiten perros en los jardines Cișmigiu?",
+          "a": "Sí, con correa. Cișmigiu es el paseo canino cotidiano del centro, con senderos sombreados y un lago. Soltarlos no está oficialmente permitido."
+        },
+        {
+          "q": "¿Es el Parque Natural de Văcărești dog-friendly?",
+          "a": "Sí: el 'delta urbano' de Bucarest está abierto a perros con correa en las pasarelas marcadas. El humedal es zona protegida, así que no se permite soltarlos."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Bucharest",
+      "titleFr": "Transports acceptant les animaux à Bucarest",
+      "titleEs": "Transporte para mascotas en Bucarest",
+      "introEn": "Bucharest's transport network is run by Metrorex (metro) and STB (buses, trams, trolleybuses), with national rail by CFR Călători. Small dogs and cats in a closed carrier travel free everywhere; large dogs need a leash and muzzle on the metro and a half-fare ticket on CFR trains. Service dogs travel free across the entire network. The rules look strict on paper but are loosely enforced on the metro outside rush hour.",
+      "introFr": "Le réseau de transport de Bucarest est exploité par Metrorex (métro) et STB (bus, trams, trolleybus), avec le rail national par CFR Călători. Les petits chiens et chats en panier fermé voyagent gratuitement partout ; les grands chiens doivent porter laisse et muselière dans le métro et un ticket demi-tarif dans les trains CFR. Les chiens d'assistance voyagent gratuitement sur tout le réseau. Les règles paraissent strictes sur le papier mais sont peu appliquées dans le métro hors heures de pointe.",
+      "introEs": "La red de transporte de Bucarest la operan Metrorex (metro) y STB (autobuses, tranvías, trolebuses), con el ferrocarril nacional gestionado por CFR Călători. Los perros y gatos pequeños en transportín cerrado viajan gratis en todas partes; los perros grandes necesitan correa y bozal en el metro y un billete a mitad de precio en los trenes CFR. Los perros de asistencia viajan gratis en toda la red. Las reglas parecen estrictas sobre el papel, pero se aplican con flexibilidad en el metro fuera de horas punta.",
+      "places": [
+        {
+          "name": "Bucharest metro & STB network",
+          "address": "Citywide; main hub at Piata Unirii station",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/bucharest-transport-bucharest-metro-stb-network.jpg",
+          "website": "https://www.metrorex.ro/en/",
+          "description": "The Metrorex metro network covers four lines and 64 stations, paired with STB's dense tram, bus, and trolleybus grid. Small pets in a carrier ride free; medium and large dogs require a leash plus muzzle on the metro. Trams and buses are usually permissive at the driver's discretion. Buy a 24-hour STB pass for €2 — the cheapest big-city dog access in the EU.",
+          "descriptionFr": "Le réseau Metrorex compte quatre lignes et 64 stations, complété par le dense réseau STB de trams, bus et trolleybus. Les petits animaux en panier voyagent gratuitement ; les chiens moyens et grands ont besoin d'une laisse plus muselière dans le métro. Les trams et bus sont généralement souples à la discrétion du chauffeur. Achetez un pass STB 24h pour 2 € — l'accès canin le moins cher d'une grande ville UE.",
+          "descriptionEs": "La red de Metrorex cuenta con cuatro líneas y 64 estaciones, complementada con la densa red de STB de tranvías, autobuses y trolebuses. Las mascotas pequeñas en transportín viajan gratis; los perros medianos y grandes necesitan correa más bozal en el metro. Los tranvías y autobuses suelen ser flexibles a discreción del conductor. Compra un abono STB de 24h por 2 €: el acceso canino más barato en una gran ciudad de la UE.",
+          "petPolicy": "Small pets in carrier free; large dogs need leash and muzzle on the metro",
+          "petPolicyFr": "Petits animaux en panier gratuits ; grands chiens : laisse et muselière obligatoires dans le métro",
+          "petPolicyEs": "Mascotas pequeñas en transportín gratis; perros grandes necesitan correa y bozal en el metro",
+          "openingHours": "Metro 05:00–23:00; STB trams 04:30–24:00",
+          "tip": "Metro M2 yellow line is the dog-friendliest — it links Aviatorilor (Herastrau) to Tineretului park and runs through Piața Unirii in the Old Town.",
+          "tipFr": "La ligne jaune M2 du métro est la plus dog-friendly — elle relie Aviatorilor (Herastrau) au parc Tineretului et traverse la Piața Unirii dans la vieille ville.",
+          "tipEs": "La línea amarilla M2 del metro es la más dog-friendly: enlaza Aviatorilor (Herastrau) con el parque Tineretului y atraviesa la Piața Unirii en el casco antiguo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piata+Unirii+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "On CFR Călători trains, large dogs need a half-fare second-class ticket plus a muzzle and veterinary booklet. Dangerous-breed dogs (Pit Bull, Boerbull and crossbreeds) are explicitly banned from the network.",
+        "Small pets in arms or in a carrier travel free on every CFR train, with no ticket required.",
+        "Bolt is the dominant ride-hailing app in Bucharest; mention 'with a dog' when booking — most drivers accept, tip generously."
+      ],
+      "tipsFr": [
+        "Sur les trains CFR Călători, les grands chiens ont besoin d'un ticket demi-tarif seconde classe plus muselière et carnet vétérinaire. Les chiens de races dangereuses (Pit Bull, Boerbull et croisés) sont explicitement interdits sur le réseau.",
+        "Les petits animaux dans les bras ou en panier voyagent gratuitement sur tous les trains CFR, sans ticket requis.",
+        "Bolt est l'appli VTC dominante à Bucarest ; mentionnez 'avec chien' à la réservation — la plupart des chauffeurs acceptent, laissez un bon pourboire."
+      ],
+      "tipsEs": [
+        "En los trenes de CFR Călători, los perros grandes necesitan un billete a mitad de precio en segunda clase más bozal y cartilla veterinaria. Los perros de razas peligrosas (Pit Bull, Boerbull y mestizos) están explícitamente prohibidos en la red.",
+        "Las mascotas pequeñas en brazos o transportín viajan gratis en todos los trenes CFR, sin necesidad de billete.",
+        "Bolt es la app de VTC dominante en Bucarest; indica 'con perro' al reservar: la mayoría de los conductores aceptan, deja una buena propina."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a separate ticket for my dog on Bucharest metro?",
+          "a": "Small pets in a closed carrier travel free. Medium and large dogs need a leash plus muzzle but no separate metro ticket. Service dogs ride free without paperwork."
+        },
+        {
+          "q": "Can I take my dog on a train from Bucharest to Brașov?",
+          "a": "Yes — buy a half-fare second-class ticket for medium and large dogs. Small dogs in arms or in a carrier travel free. Bring the EU pet passport and a basket muzzle."
+        },
+        {
+          "q": "Is the Henri Coandă airport accessible with a dog?",
+          "a": "Yes — Henri Coandă (OTP) bus 783 from Piața Unirii accepts pets in carriers free of charge, leashed dogs with a transport ticket. Check airline rules for cabin or hold travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket séparé pour mon chien dans le métro de Bucarest ?",
+          "a": "Les petits animaux en panier fermé voyagent gratuitement. Les chiens moyens et grands ont besoin d'une laisse plus muselière mais pas de ticket métro séparé. Les chiens d'assistance voyagent gratuitement sans formalité."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un train de Bucarest à Brașov ?",
+          "a": "Oui — achetez un ticket demi-tarif seconde classe pour les chiens moyens et grands. Les petits chiens dans les bras ou en panier voyagent gratuitement. Apportez le passeport européen et une muselière panier."
+        },
+        {
+          "q": "L'aéroport Henri Coandă est-il accessible avec un chien ?",
+          "a": "Oui — le bus 783 depuis Piața Unirii accepte les animaux en panier gratuitement, et les chiens en laisse avec un ticket transport. Vérifiez les règles cabine ou soute avec votre compagnie aérienne."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta billete aparte para el perro en el metro de Bucarest?",
+          "a": "Las mascotas pequeñas en transportín cerrado viajan gratis. Los perros medianos y grandes necesitan correa más bozal pero no billete de metro aparte. Los perros de asistencia viajan gratis sin trámites."
+        },
+        {
+          "q": "¿Puedo llevar al perro en tren de Bucarest a Brașov?",
+          "a": "Sí: compra un billete a mitad de precio en segunda clase para perros medianos y grandes. Los perros pequeños en brazos o transportín viajan gratis. Lleva el pasaporte europeo y un bozal tipo cesta."
+        },
+        {
+          "q": "¿Es el aeropuerto Henri Coandă accesible con perro?",
+          "a": "Sí: el autobús 783 desde Piața Unirii admite mascotas en transportín gratis, y perros con correa con billete. Comprueba las reglas de cabina o bodega con tu aerolínea."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Waterfronts & Lakes near Bucharest",
+      "titleFr": "Bords de l'eau et lacs dog-friendly près de Bucarest",
+      "titleEs": "Riberas y lagos dog-friendly cerca de Bucarest",
+      "introEn": "Bucharest is 230 km from the Black Sea, so 'beach' here means city lakes and the wetland reserves that ring the capital. Herastrau and Tineretului lakes are the closest urban swim spots; Snagov Forest and lake (40 km north) offer a real lake-shore day trip; and Văcărești, the city's 'urban delta', adds an unusual wildlife wetland. Romanian lakes generally allow leashed dogs all year — only Snagov restricts pets in summer at its commercial bathing area.",
+      "introFr": "Bucarest est à 230 km de la mer Noire, donc 'plage' désigne ici les lacs urbains et les réserves humides qui ceinturent la capitale. Les lacs de Herastrau et de Tineretului sont les spots de baignade urbains les plus proches ; la forêt et le lac de Snagov (40 km au nord) offrent une vraie excursion à la journée ; et Văcărești, le 'delta urbain' de la ville, ajoute une zone humide sauvage inhabituelle. Les lacs roumains acceptent généralement les chiens en laisse toute l'année — seul Snagov limite les animaux l'été dans sa zone de baignade commerciale.",
+      "introEs": "Bucarest está a 230 km del Mar Negro, así que 'playa' aquí significa lagos urbanos y las reservas húmedas que rodean la capital. Los lagos de Herastrau y Tineretului son los puntos de baño urbanos más cercanos; el bosque y lago de Snagov (40 km al norte) ofrecen una verdadera excursión de día completo; y Văcărești, el 'delta urbano' de la ciudad, añade un humedal salvaje inusual. Los lagos rumanos suelen admitir perros con correa todo el año; solo Snagov restringe mascotas en verano en su zona comercial de baño.",
+      "places": [
+        {
+          "name": "Lake Herastrau",
+          "address": "Herastrau Park, București 011347",
+          "neighborhood": "Aviatorilor / Floreasca",
+          "photo": "/images/city-places/bucharest-beaches-lake-herastrau.jpg",
+          "website": "https://www.bucuresti.ro/",
+          "description": "The 1 km central lake inside Herastrau Park, with a 6 km perimeter path and several cove inlets that locals use as informal dog swim spots in summer. The eastern shore around the Aviator entrance is the calmest. Pedalo and rowboat hire on the south side does not accept dogs, but the path itself is leash-friendly throughout.",
+          "descriptionFr": "Lac central d'un kilomètre dans le parc Herastrau, avec sentier périmétrique de 6 km et plusieurs criques que les habitants utilisent comme spots informels de baignade canine l'été. La rive est, autour de l'entrée Aviator, est la plus calme. La location de pédalos et barques au sud n'accepte pas les chiens, mais le sentier est accessible en laisse partout.",
+          "descriptionEs": "El lago central de 1 km dentro del parque Herastrau, con un sendero perimetral de 6 km y varias calas que los locales usan como puntos informales de baño canino en verano. La orilla este, alrededor de la entrada Aviator, es la más tranquila. El alquiler de pedaletas y barcas al sur no admite perros, pero el sendero es accesible con correa por todas partes.",
+          "petPolicy": "Path leash-friendly year-round; informal dog swim spots on the east shore",
+          "petPolicyFr": "Sentier accessible en laisse toute l'année ; spots informels de baignade canine sur la rive est",
+          "petPolicyEs": "Sendero accesible con correa todo el año; puntos informales de baño canino en la orilla este",
+          "openingHours": "24/7",
+          "tip": "Cross to the Aviator entrance via metro Aviatorilor — the eastern shore is shaded and quieter than the south side.",
+          "tipFr": "Rejoignez l'entrée Aviator via le métro Aviatorilor — la rive est est ombragée et plus calme que le côté sud.",
+          "tipEs": "Llega a la entrada Aviator por el metro Aviatorilor: la orilla este es sombreada y más tranquila que el lado sur.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lake+Herastrau"
+        },
+        {
+          "name": "Lake Snagov",
+          "address": "Lake Snagov, 077167 Snagov",
+          "neighborhood": "Snagov (40 km north)",
+          "photo": "/images/city-places/bucharest-beaches-lake-snagov.jpg",
+          "website": "https://www.parcul-naturalsnagov.ro/",
+          "description": "A 17 km natural lake inside the Snagov Natural Park, 40 km north of Bucharest. Pine and oak forest reaches the water on the south shore, where dogs can swim freely outside the commercial lido zones. The free public sections accept leashed dogs all year; in July and August, the busiest beaches close to dogs but the wider forest trails remain open.",
+          "descriptionFr": "Lac naturel de 17 km à l'intérieur du parc naturel de Snagov, à 40 km au nord de Bucarest. Pins et chênes atteignent l'eau sur la rive sud, où les chiens peuvent nager librement hors des lidos commerciaux. Les sections publiques gratuites acceptent les chiens en laisse toute l'année ; en juillet-août, les plages les plus fréquentées ferment aux chiens mais les sentiers forestiers restent ouverts.",
+          "descriptionEs": "Lago natural de 17 km dentro del Parque Natural de Snagov, a 40 km al norte de Bucarest. Pinares y robledales llegan al agua en la orilla sur, donde los perros pueden bañarse libremente fuera de las zonas comerciales de lido. Las secciones públicas gratuitas admiten perros con correa todo el año; en julio y agosto, las playas más concurridas cierran a perros pero los senderos forestales siguen abiertos.",
+          "petPolicy": "Free public sections leash-friendly year-round; commercial lidos restrict pets in July–August",
+          "petPolicyFr": "Sections publiques gratuites accessibles en laisse toute l'année ; les lidos commerciaux limitent les animaux en juillet-août",
+          "petPolicyEs": "Secciones públicas gratuitas accesibles con correa todo el año; los lidos comerciales restringen mascotas en julio y agosto",
+          "openingHours": "24/7",
+          "tip": "Drive 40 minutes from the centre or take CFR train to Snagov-Plajă station — the south-shore forest paths are the dog-friendliest entry.",
+          "tipFr": "À 40 minutes en voiture du centre ou en train CFR jusqu'à la station Snagov-Plajă — les sentiers forestiers de la rive sud sont l'entrée la plus dog-friendly.",
+          "tipEs": "A 40 minutos en coche del centro o en tren CFR hasta la estación Snagov-Plajă: los senderos forestales de la orilla sur son la entrada más dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lake+Snagov"
+        },
+        {
+          "name": "Văcărești Nature Park",
+          "address": "Bulevardul Energeticienilor, București 032086",
+          "neighborhood": "Tineretului / Văcărești (south of centre)",
+          "photo": "/images/city-places/bucharest-beaches-vacaresti-nature-park.jpg",
+          "website": "https://parcnaturalvacaresti.ro/",
+          "description": "A 183-hectare protected wetland inside the city — Bucharest's 'urban delta' — created when an unfinished communist-era reservoir was reclaimed by reeds, frogs, and migratory birds. Marked boardwalks loop through the park, dogs welcome on a leash. Swimming is not allowed (it is a protected wildlife reserve), but it is the city's most unusual dog walk.",
+          "descriptionFr": "Zone humide protégée de 183 hectares à l'intérieur de la ville — le 'delta urbain' de Bucarest — créée quand un réservoir inachevé de l'ère communiste a été reconquis par les roseaux, grenouilles et oiseaux migrateurs. Pontons balisés en boucle dans le parc, chiens acceptés en laisse. La baignade n'est pas autorisée (réserve faunique protégée), mais c'est la balade canine la plus insolite de la ville.",
+          "descriptionEs": "Humedal protegido de 183 hectáreas dentro de la ciudad — el 'delta urbano' de Bucarest — creado cuando un embalse inacabado de la era comunista fue reconquistado por cañas, ranas y aves migratorias. Pasarelas marcadas en bucle por el parque, perros admitidos con correa. No se permite el baño (reserva de fauna protegida), pero es el paseo canino más insólito de la ciudad.",
+          "petPolicy": "Dogs welcome on leash on marked boardwalks; swimming and off-leash not permitted",
+          "petPolicyFr": "Chiens acceptés en laisse sur les pontons balisés ; baignade et sans laisse non autorisés",
+          "petPolicyEs": "Perros admitidos con correa en las pasarelas señalizadas; baño y sin correa no permitidos",
+          "openingHours": "Daily 08:00–20:00 (winter); 07:00–22:00 (summer)",
+          "tip": "Best at sunrise — the bird population is most active and the city skyline catches the first golden light over the reeds.",
+          "tipFr": "Au mieux au lever du soleil — la population aviaire est la plus active et le skyline urbain capte la première lumière dorée sur les roseaux.",
+          "tipEs": "Mejor al amanecer: la población de aves está más activa y el horizonte urbano capta la primera luz dorada sobre las cañas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vacaresti+Nature+Park+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "Bucharest has no sea-coast access — the closest dog beaches are on Lake Herastrau and Lake Snagov. The Black Sea coast (Constanța, Mamaia) is three hours by car or train.",
+        "Snagov Lake's commercial lidos restrict pets in July and August; head to the south-shore forest sections instead.",
+        "Văcărești is a wildlife reserve — keep your dog leashed at all times to avoid disturbing the birds and frogs."
+      ],
+      "tipsFr": [
+        "Bucarest n'a pas d'accès direct à la mer — les plages canines les plus proches sont les lacs de Herastrau et de Snagov. La côte de la mer Noire (Constanța, Mamaia) est à trois heures en voiture ou en train.",
+        "Les lidos commerciaux du lac de Snagov limitent les animaux en juillet-août ; rabattez-vous sur les sections forestières de la rive sud.",
+        "Văcărești est une réserve faunique — gardez votre chien en laisse en permanence pour ne pas déranger oiseaux et grenouilles."
+      ],
+      "tipsEs": [
+        "Bucarest no tiene acceso directo al mar: las playas caninas más cercanas son los lagos de Herastrau y Snagov. La costa del Mar Negro (Constanța, Mamaia) está a tres horas en coche o tren.",
+        "Los lidos comerciales del lago Snagov restringen mascotas en julio y agosto; usa las secciones forestales de la orilla sur.",
+        "Văcărești es una reserva de fauna: mantén al perro con correa en todo momento para no molestar a aves y ranas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog swim in a lake near Bucharest?",
+          "a": "Yes — Lake Herastrau inside the city has informal dog swim coves, and Lake Snagov (40 km north) has free public shores that accept dogs year-round."
+        },
+        {
+          "q": "Is there a real dog beach near Bucharest?",
+          "a": "No designated dog-only beach exists, but the south shore of Lake Snagov works as the de facto dog spot — locals use it as such and forest paths back the lake."
+        },
+        {
+          "q": "Can I take my dog into Văcărești Nature Park?",
+          "a": "Yes, on a leash, on the marked boardwalks. Off-leash and swimming are not allowed since it is a protected wildlife reserve."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il se baigner dans un lac près de Bucarest ?",
+          "a": "Oui — le lac de Herastrau en ville a des criques informelles de baignade canine, et le lac de Snagov (40 km au nord) a des rives publiques gratuites qui acceptent les chiens toute l'année."
+        },
+        {
+          "q": "Y a-t-il une vraie plage canine près de Bucarest ?",
+          "a": "Aucune plage exclusivement canine n'est aménagée, mais la rive sud du lac de Snagov fait office de spot canin de fait — les habitants l'utilisent ainsi et les sentiers forestiers bordent le lac."
+        },
+        {
+          "q": "Puis-je entrer au parc naturel de Văcărești avec mon chien ?",
+          "a": "Oui, en laisse, sur les pontons balisés. Le sans laisse et la baignade ne sont pas autorisés puisque c'est une réserve faunique protégée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro bañarse en un lago cerca de Bucarest?",
+          "a": "Sí: el lago Herastrau dentro de la ciudad tiene calas informales de baño canino, y el lago Snagov (40 km al norte) tiene orillas públicas gratuitas que admiten perros todo el año."
+        },
+        {
+          "q": "¿Hay una playa canina real cerca de Bucarest?",
+          "a": "No hay una playa exclusivamente canina, pero la orilla sur del lago Snagov funciona como punto canino de hecho: los locales la usan así y senderos forestales bordean el lago."
+        },
+        {
+          "q": "¿Puedo entrar al Parque Natural de Văcărești con mi perro?",
+          "a": "Sí, con correa, en las pasarelas marcadas. Soltarlos y bañarse no están permitidos al ser una reserva de fauna protegida."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Bucharest",
+      "titleFr": "Cliniques vétérinaires et urgences à Bucarest",
+      "titleEs": "Clínicas veterinarias y urgencias en Bucarest",
+      "introEn": "Bucharest has Romania's deepest 24-hour veterinary network, anchored by Pet Stuff (now part of the LuxVet Group), the country's largest non-stop animal hospital. SpeedVet and the University Veterinary Emergency Hospital provide secondary 24/7 coverage. Costs are about a third of Western European rates. English-language service is widely available in clinics oriented toward the city's expat and embassy population.",
+      "introFr": "Bucarest dispose du réseau vétérinaire 24h/24 le plus dense de Roumanie, ancré sur Pet Stuff (désormais filiale du groupe LuxVet), le plus grand hôpital pour animaux non-stop du pays. SpeedVet et l'hôpital d'urgence universitaire vétérinaire complètent la couverture. Les coûts sont environ un tiers des tarifs ouest-européens. L'anglais est largement disponible dans les cliniques tournées vers la communauté expatriée et le quartier des ambassades.",
+      "introEs": "Bucarest cuenta con la red veterinaria 24 horas más amplia de Rumanía, anclada en Pet Stuff (ahora filial del Grupo LuxVet), el mayor hospital animal sin parar del país. SpeedVet y el Hospital Universitario Veterinario de Urgencias completan la cobertura. Los costes son aproximadamente un tercio de los de Europa Occidental. El inglés está ampliamente disponible en clínicas orientadas a la comunidad expatriada y al barrio de las embajadas.",
+      "places": [
+        {
+          "name": "Pet Stuff Veterinary Hospital (24h)",
+          "address": "Bulevardul Iuliu Maniu 6, București 061101",
+          "neighborhood": "Sector 6 (Militari)",
+          "photo": "/images/city-places/bucharest-vets-pet-stuff-veterinary-hospital-24h.jpg",
+          "website": "https://pet-stuff.ro/",
+          "description": "Romania's largest 24-hour veterinary hospital, founded in 2007 and now part of the regional LuxVet group. Around 53 veterinary professionals across four operating rooms, an in-house lab, and state-of-the-art imaging. Especially popular with the Bucharest expat community thanks to English-fluent vets and a well-organised triage.",
+          "descriptionFr": "Plus grand hôpital vétérinaire 24h/24 de Roumanie, fondé en 2007 et désormais membre du groupe régional LuxVet. Environ 53 professionnels vétérinaires sur quatre blocs opératoires, un laboratoire interne et de l'imagerie de pointe. Particulièrement apprécié de la communauté expatriée de Bucarest pour ses vétérinaires anglophones et un tri bien organisé.",
+          "descriptionEs": "El mayor hospital veterinario 24 horas de Rumanía, fundado en 2007 y ahora parte del grupo regional LuxVet. Cerca de 53 profesionales veterinarios en cuatro quirófanos, laboratorio propio y diagnóstico por imagen de última generación. Especialmente popular en la comunidad expatriada de Bucarest por sus veterinarios angloparlantes y un triaje bien organizado.",
+          "phone": "+40 21 314 8888",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "About 20 minutes by Bolt from the Old Town — costs around €5-7. Pre-call ahead of arrival; the receptionist will triage so the right team meets you at the door.",
+          "tipFr": "Environ 20 minutes en Bolt depuis la vieille ville — environ 5-7 €. Appelez avant de venir ; la réceptionniste effectue un tri pour que la bonne équipe vous accueille à la porte.",
+          "tipEs": "A unos 20 minutos en Bolt desde el casco antiguo: cuesta unos 5-7 €. Llama antes de llegar; la recepcionista hace un triaje para que el equipo adecuado te reciba en la puerta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pet+Stuff+veterinary+Bucharest"
+        },
+        {
+          "name": "SpeedVet (24h)",
+          "address": "Bulevardul Lacul Tei 56, București 020373",
+          "neighborhood": "Tei (north-east)",
+          "photo": "/images/city-places/bucharest-vets-speedvet-24h.jpg",
+          "website": "https://www.speedvet.ro/",
+          "description": "A non-stop emergency veterinary clinic with an on-site pharmacy and a pet ambulance service that can collect animals in distress from across the city. Strong in emergency medicine and intensive care. The closer 24-hour option to the Old Town than Pet Stuff.",
+          "descriptionFr": "Clinique vétérinaire d'urgence non-stop avec pharmacie sur place et service d'ambulance animalière capable de prendre en charge des animaux en détresse partout en ville. Solide en médecine d'urgence et soins intensifs. Option 24h/24 plus proche de la vieille ville que Pet Stuff.",
+          "descriptionEs": "Clínica veterinaria de urgencias sin parar con farmacia in situ y servicio de ambulancia animal que puede recoger mascotas en apuros por toda la ciudad. Fuerte en medicina de urgencias y cuidados intensivos. La opción 24/7 más cercana al casco antiguo que Pet Stuff.",
+          "phone": "+40 372 783 783",
+          "openingHours": "24/7",
+          "tip": "Their pet ambulance is the fastest answer for non-mobile emergencies — call rather than try to drive a sick dog yourself.",
+          "tipFr": "Leur ambulance animalière est la réponse la plus rapide pour les urgences immobiles — appelez plutôt que d'essayer de conduire un chien malade vous-même.",
+          "tipEs": "Su ambulancia animal es la respuesta más rápida para urgencias inmóviles: llama en lugar de intentar conducir tú mismo a un perro enfermo.",
+          "googleMapsUrl": "https://maps.google.com/?q=SpeedVet+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "Romania uses the EU pet passport — bring it; clinics record vaccinations directly into the booklet, simplifying any onward Schengen travel.",
+        "Card payment is the norm at all 24/7 clinics; emergency consultations typically start at €30-50 plus medication, among the lowest rates in the EU.",
+        "Romanian veterinary medicine is high-quality and significantly cheaper than Hungary, Greece, or Western Europe."
+      ],
+      "tipsFr": [
+        "La Roumanie applique le passeport européen — apportez-le ; les cliniques y inscrivent les vaccinations, ce qui simplifie tout déplacement ultérieur dans l'espace Schengen.",
+        "Le paiement par carte est la norme dans toutes les cliniques 24/7 ; les consultations d'urgence démarrent généralement à 30-50 € plus médicaments, parmi les tarifs les plus bas de l'UE.",
+        "La médecine vétérinaire roumaine est de qualité et nettement moins chère qu'en Hongrie, en Grèce ou en Europe de l'Ouest."
+      ],
+      "tipsEs": [
+        "Rumanía aplica el pasaporte europeo: tráelo; las clínicas anotan las vacunaciones directamente en él, lo que simplifica cualquier viaje posterior por Schengen.",
+        "El pago con tarjeta es la norma en todas las clínicas 24/7; las consultas de urgencia suelen empezar en 30-50 € más medicación, entre las tarifas más bajas de la UE.",
+        "La medicina veterinaria rumana es de calidad y bastante más barata que la húngara, griega o de Europa Occidental."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour vet to Bucharest city centre?",
+          "a": "SpeedVet on Bulevardul Lacul Tei 56 (about 15 minutes by Bolt from the Old Town). For complex cases, Pet Stuff in Sector 6 is Romania's largest 24-hour hospital."
+        },
+        {
+          "q": "Do Bucharest vets speak English?",
+          "a": "Yes, in clinics serving the international community — both Pet Stuff and SpeedVet have English-fluent staff and routinely treat expat patients."
+        },
+        {
+          "q": "Are veterinary services in Bucharest expensive?",
+          "a": "No — among the cheapest in the EU. A standard consultation is around €15-25, and emergency consultations start at €30-50."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire 24h/24 le plus proche du centre de Bucarest ?",
+          "a": "SpeedVet sur le Bulevardul Lacul Tei 56 (environ 15 minutes en Bolt depuis la vieille ville). Pour les cas complexes, Pet Stuff en Sector 6 est le plus grand hôpital 24h/24 de Roumanie."
+        },
+        {
+          "q": "Les vétérinaires de Bucarest parlent-ils anglais ?",
+          "a": "Oui, dans les cliniques tournées vers la communauté internationale — Pet Stuff comme SpeedVet ont du personnel anglophone et traitent régulièrement des patients expatriés."
+        },
+        {
+          "q": "Les soins vétérinaires sont-ils chers à Bucarest ?",
+          "a": "Non — parmi les moins chers de l'UE. Une consultation standard tourne autour de 15-25 €, les consultations d'urgence démarrent à 30-50 €."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario 24 horas más cercano al centro de Bucarest?",
+          "a": "SpeedVet en el Bulevardul Lacul Tei 56 (a unos 15 minutos en Bolt desde el casco antiguo). Para casos complejos, Pet Stuff en el Sector 6 es el mayor hospital 24/7 de Rumanía."
+        },
+        {
+          "q": "¿Los veterinarios de Bucarest hablan inglés?",
+          "a": "Sí, en las clínicas orientadas a la comunidad internacional: tanto Pet Stuff como SpeedVet cuentan con personal angloparlante y atienden con frecuencia a pacientes expatriados."
+        },
+        {
+          "q": "¿Son caros los servicios veterinarios en Bucarest?",
+          "a": "No: entre los más baratos de la UE. Una consulta estándar ronda los 15-25 €, y las de urgencia empiezan en 30-50 €."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Bucharest",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Bucarest",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Bucarest",
+      "introEn": "Bucharest is one of the EU's most affordable capitals for travelling with a dog: a compact Old Town walkable in a day, multiple fenced municipal dog parks, Romania's largest 24-hour vet hospital, and pet-friendly hotels starting at €60. The two things to plan around are the strict dangerous-breed ban on CFR trains, and the very hot summers from June to August. The tips below cover the rules visitors actually run into.",
+      "introFr": "Bucarest est l'une des capitales européennes les plus abordables pour voyager avec un chien : vieille ville compacte qui se visite en une journée, plusieurs parcs canins municipaux clôturés, le plus grand hôpital vétérinaire 24h/24 de Roumanie et hôtels pet-friendly à partir de 60 €. Les deux points à anticiper sont l'interdiction stricte des races dangereuses sur les trains CFR et les étés très chauds de juin à août. Les conseils ci-dessous couvrent les règles que les visiteurs rencontrent vraiment.",
+      "introEs": "Bucarest es una de las capitales europeas más asequibles para viajar con perro: casco antiguo compacto que se recorre en un día, varios parques caninos municipales vallados, el mayor hospital veterinario 24/7 de Rumanía y hoteles pet-friendly desde 60 €. Los dos puntos a anticipar son la prohibición estricta de razas peligrosas en los trenes CFR y los veranos muy calurosos de junio a agosto. Los consejos siguientes cubren las normas que los visitantes encuentran de verdad.",
+      "places": [],
+      "tipsEn": [
+        "On CFR trains, dangerous breeds (Pit Bull, Boerbull and crossbreeds) are explicitly banned — check the breed list before booking long-distance travel.",
+        "Save SpeedVet 24/7: +40 372 783 783 (Bulevardul Lacul Tei 56) — the closest 24-hour option to the Old Town.",
+        "Bucharest summers can hit 35 °C — walk dogs at sunrise or after 19:00 in July and August, and avoid the dark concrete pavements that radiate heat."
+      ],
+      "tipsFr": [
+        "Sur les trains CFR, les races dangereuses (Pit Bull, Boerbull et croisés) sont explicitement interdites — vérifiez la liste avant de réserver un trajet longue distance.",
+        "Enregistrez SpeedVet 24h/24 : +40 372 783 783 (Bulevardul Lacul Tei 56) — l'option 24h/24 la plus proche de la vieille ville.",
+        "Les étés de Bucarest peuvent atteindre 35 °C — promenez le chien au lever du soleil ou après 19h en juillet-août, et évitez les trottoirs en béton sombre qui rayonnent la chaleur."
+      ],
+      "tipsEs": [
+        "En los trenes CFR, las razas peligrosas (Pit Bull, Boerbull y mestizos) están explícitamente prohibidas: comprueba la lista antes de reservar un trayecto de larga distancia.",
+        "Guarda SpeedVet 24/7: +40 372 783 783 (Bulevardul Lacul Tei 56): la opción 24/7 más cercana al casco antiguo.",
+        "Los veranos de Bucarest pueden alcanzar 35 °C: pasea al perro al amanecer o después de las 19:00 en julio y agosto, y evita las aceras de hormigón oscuro que irradian calor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Bucharest a good city for travelling with a dog?",
+          "a": "Yes — affordable, compact, and pet-friendly hotels start at €60. The Old Town pairs with Herastrau Park and Snagov Lake for full-day excursions. The main quirks are the dangerous-breed transport ban and the hot summer."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Romania?",
+          "a": "An EU pet passport (or third-country equivalent), a valid rabies vaccination at least 21 days old, and a microchip. Border checks are minimal but the pet passport must accompany the dog at all times."
+        },
+        {
+          "q": "Can my dog visit the Palace of Parliament?",
+          "a": "No — pets are not admitted inside the Palace of Parliament. The surrounding Constitution Square is leash-friendly, but the building interior tour is closed to non-assistance pets."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Bucarest est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — abordable, compacte, hôtels dog-friendly à partir de 60 €. La vieille ville se combine au parc Herastrau et au lac de Snagov pour des excursions à la journée. Les principales subtilités sont l'interdiction des races dangereuses dans les transports et l'été chaud."
+        },
+        {
+          "q": "Quels documents pour emmener son chien en Roumanie ?",
+          "a": "Un passeport européen (ou équivalent hors UE), une vaccination antirabique valide datant d'au moins 21 jours, et une puce électronique. Les contrôles aux frontières sont minimes mais le passeport doit accompagner le chien en permanence."
+        },
+        {
+          "q": "Mon chien peut-il visiter le Palais du Parlement ?",
+          "a": "Non — les animaux ne sont pas admis à l'intérieur du Palais du Parlement. La place de la Constitution alentour est accessible en laisse, mais la visite intérieure est fermée aux animaux non-assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Bucarest una buena ciudad para viajar con perro?",
+          "a": "Sí: asequible, compacta, con hoteles dog-friendly desde 60 €. El casco antiguo se combina con el parque Herastrau y el lago Snagov para excursiones de día completo. Las principales pegas son la prohibición de razas peligrosas en el transporte y el verano caluroso."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Rumanía?",
+          "a": "Un pasaporte europeo (o equivalente fuera de la UE), una vacunación antirrábica válida con al menos 21 días, y un microchip. Los controles fronterizos son mínimos, pero el pasaporte debe acompañar al perro en todo momento."
+        },
+        {
+          "q": "¿Puede mi perro visitar el Palacio del Parlamento?",
+          "a": "No: las mascotas no se admiten en el interior del Palacio del Parlamento. La Plaza de la Constitución de alrededor es accesible con correa, pero la visita interior está cerrada a mascotas no de asistencia."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Bucharest",
+      "titleFr": "Attractions dog-friendly à Bucarest",
+      "titleEs": "Atracciones para mascotas en Bucarest",
+      "introEn": "Bucharest's signature attractions — the Palace of Parliament, the National Museum, the Romanian Athenaeum — admit only assistance dogs, but the city's outdoor heritage is unusually generous. The Old Town (Lipscani), Calea Victoriei, and the lakeside loops at Herastrau form a leash-friendly walking tour that fills a full day. Three of the best below.",
+      "introFr": "Les attractions emblématiques de Bucarest — le Palais du Parlement, le Musée national, l'Athénée roumain — n'admettent que les chiens d'assistance, mais le patrimoine extérieur de la ville est étonnamment généreux. La vieille ville (Lipscani), Calea Victoriei et les boucles du lac Herastrau forment un parcours pédestre dog-friendly qui remplit une journée. Trois des meilleurs ci-dessous.",
+      "introEs": "Las atracciones emblemáticas de Bucarest — el Palacio del Parlamento, el Museo Nacional, el Ateneo Rumano — solo admiten perros de asistencia, pero el patrimonio exterior de la ciudad es inusualmente generoso. El casco antiguo (Lipscani), Calea Victoriei y las vueltas al lago Herastrau forman un recorrido a pie dog-friendly que llena una jornada completa. A continuación, tres de los mejores.",
+      "places": [
+        {
+          "name": "Lipscani Old Town",
+          "address": "Strada Lipscani, București 030035",
+          "neighborhood": "Centru Vechi",
+          "photo": "/images/city-places/bucharest-attractions-lipscani-old-town.jpg",
+          "website": "https://visitbucharest.today/",
+          "description": "The historic core of the city — cobbled streets lined with neo-Brâncovenesc townhouses, ruined churches, and dozens of dog-friendly café terraces. The 15th-century Curtea Veche (Old Princely Court), once Vlad the Impaler's residence, sits on the southern edge. The whole district is leash-friendly and pedestrianised in the evenings.",
+          "descriptionFr": "Cœur historique de la ville — rues pavées bordées d'hôtels particuliers néo-brâncovenesc, églises ruinées et dizaines de terrasses de cafés dog-friendly. La Curtea Veche du XVe siècle (Vieille Cour Princière), ancienne résidence de Vlad l'Empaleur, occupe la lisière sud. Tout le quartier est accessible en laisse et piétonnisé en soirée.",
+          "descriptionEs": "El corazón histórico de la ciudad: calles adoquinadas flanqueadas por casas señoriales neo-brâncovenesc, iglesias en ruinas y decenas de terrazas de café dog-friendly. La Curtea Veche del siglo XV (Antigua Corte Principesca), antigua residencia de Vlad el Empalador, ocupa el extremo sur. Todo el barrio es accesible con correa y peatonal por la noche.",
+          "petPolicy": "Dogs welcome on leash; nearly all terraces accept pets",
+          "petPolicyFr": "Chiens acceptés en laisse ; presque toutes les terrasses acceptent les animaux",
+          "petPolicyEs": "Perros admitidos con correa; casi todas las terrazas aceptan mascotas",
+          "openingHours": "24/7 (district); shops 10:00–22:00",
+          "tip": "Friday and Saturday evenings get crowded with bar-goers — Sunday morning is the calmest dog-walk window in Lipscani.",
+          "tipFr": "Les vendredis et samedis soirs se remplissent — le dimanche matin est la fenêtre la plus calme pour une balade canine à Lipscani.",
+          "tipEs": "Los viernes y sábados por la noche se llenan de gente saliendo: el domingo por la mañana es la ventana más tranquila para un paseo canino por Lipscani.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lipscani+Bucharest"
+        },
+        {
+          "name": "Calea Victoriei",
+          "address": "Calea Victoriei, București 030167",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/bucharest-attractions-calea-victoriei.jpg",
+          "website": "https://visitbucharest.today/",
+          "description": "The historic spine of Bucharest, running 2.7 km from the Splaiul Independenței up to the Piața Victoriei. Lined with 19th-century palaces, embassies, the Romanian Athenaeum, and the Royal Palace (now the National Art Museum). Leashed dogs are welcome the entire length, day or night, and many sidewalk café terraces along the way.",
+          "descriptionFr": "Colonne vertébrale historique de Bucarest, 2,7 km du Splaiul Independenței jusqu'à la Piața Victoriei. Bordée de palais du XIXe siècle, d'ambassades, de l'Athénée roumain et du Palais Royal (aujourd'hui Musée national d'art). Les chiens en laisse sont les bienvenus sur toute la longueur, jour comme nuit, ainsi que sur de nombreuses terrasses de cafés en chemin.",
+          "descriptionEs": "El eje histórico de Bucarest, 2,7 km desde el Splaiul Independenței hasta la Piața Victoriei. Flanqueado por palacios del siglo XIX, embajadas, el Ateneo Rumano y el Palacio Real (hoy Museo Nacional de Arte). Los perros con correa son bienvenidos a lo largo de todo el recorrido, de día y de noche, así como en numerosas terrazas de café por el camino.",
+          "petPolicy": "Dogs welcome on leash on the entire avenue",
+          "petPolicyFr": "Chiens acceptés en laisse sur toute l'avenue",
+          "petPolicyEs": "Perros admitidos con correa en toda la avenida",
+          "openingHours": "24/7",
+          "tip": "Walk south to north — the Athenaeum sits at the visual climax of the avenue, with Revolution Square just before it.",
+          "tipFr": "Marchez du sud au nord — l'Athénée est le point culminant visuel de l'avenue, avec la place de la Révolution juste avant.",
+          "tipEs": "Camina de sur a norte: el Ateneo es el punto visual culminante de la avenida, con la Plaza de la Revolución justo antes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Calea+Victoriei+Bucharest"
+        },
+        {
+          "name": "Village Museum (Muzeul Satului)",
+          "address": "Șoseaua Kiseleff 28-30, București 011347",
+          "neighborhood": "Aviatorilor (inside Herastrau Park)",
+          "photo": "/images/city-places/bucharest-attractions-village-museum-muzeul-satului.jpg",
+          "website": "https://muzeul-satului.ro/",
+          "description": "An outdoor ethnographic museum on the Herastrau lakefront, with 270 historic Romanian houses, churches, and farms relocated here from across the country. Dogs on leash are welcome throughout the open-air park; the houses' interiors admit only assistance dogs, but most visiting happens outside.",
+          "descriptionFr": "Musée ethnographique en plein air sur la rive du lac Herastrau, avec 270 maisons, églises et fermes roumaines historiques déplacées ici depuis tout le pays. Les chiens en laisse sont les bienvenus dans tout le parc en plein air ; les intérieurs des maisons n'admettent que les chiens d'assistance, mais la majorité de la visite se fait dehors.",
+          "descriptionEs": "Museo etnográfico al aire libre en la orilla del lago Herastrau, con 270 casas, iglesias y granjas rumanas históricas trasladadas aquí desde todo el país. Los perros con correa son bienvenidos en todo el parque al aire libre; los interiores de las casas solo admiten perros de asistencia, pero la mayor parte de la visita se hace fuera.",
+          "petPolicy": "Dogs welcome on leash in the open-air park; assistance dogs only inside houses",
+          "petPolicyFr": "Chiens acceptés en laisse dans le parc en plein air ; chiens d'assistance uniquement dans les maisons",
+          "petPolicyEs": "Perros admitidos con correa en el parque al aire libre; solo perros de asistencia dentro de las casas",
+          "openingHours": "Tue–Sun 09:00–17:00 (winter); 09:00–19:00 (summer)",
+          "tip": "Combine with a Herastrau Park walk — the museum gate opens directly onto the lakeside path.",
+          "tipFr": "Combinez avec une promenade au parc Herastrau — la porte du musée donne directement sur le sentier du lac.",
+          "tipEs": "Combínalo con un paseo por el parque Herastrau: la puerta del museo da directamente al sendero del lago.",
+          "googleMapsUrl": "https://maps.google.com/?q=Village+Museum+Bucharest"
+        }
+      ],
+      "tipsEn": [
+        "Most major museums (National History Museum, Art Museum, Antipa Natural History Museum) admit only assistance dogs — plan a sitter or split visits with travel companions.",
+        "The Old Town and Calea Victoriei are walkable in 90 minutes as a single dog-friendly loop, so a sitter is rarely needed for a short city break.",
+        "Bucharest's free walking tour (twice daily from the Old Town) accepts leashed dogs — a useful way to add context to a centre stroll."
+      ],
+      "tipsFr": [
+        "La plupart des grands musées (Musée national d'histoire, Musée d'art, Muséum Antipa) n'admettent que les chiens d'assistance — prévoyez un sitter ou répartissez la visite entre compagnons.",
+        "La vieille ville et Calea Victoriei se parcourent en 1h30 en une seule boucle dog-friendly, donc un sitter est rarement nécessaire pour un court séjour.",
+        "La visite gratuite à pied de Bucarest (deux fois par jour depuis la vieille ville) accepte les chiens en laisse — utile pour ajouter du contexte à une balade dans le centre."
+      ],
+      "tipsEs": [
+        "La mayoría de los grandes museos (Museo Nacional de Historia, Museo de Arte, Museo Antipa de Historia Natural) solo admiten perros de asistencia: planifica un cuidador o reparte la visita entre acompañantes.",
+        "El casco antiguo y Calea Victoriei se recorren en 1h30 como un único circuito dog-friendly, así que un cuidador rara vez es necesario para una escapada corta.",
+        "La visita guiada gratuita a pie de Bucarest (dos veces al día desde el casco antiguo) admite perros con correa: útil para añadir contexto a un paseo por el centro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog enter the Palace of Parliament?",
+          "a": "No — only assistance dogs are admitted to the Palace interior tour. The surrounding Constitution Square is leash-friendly."
+        },
+        {
+          "q": "What's the best dog-friendly day in Bucharest?",
+          "a": "Walk Lipscani Old Town to the Romanian Athenaeum, take the metro M2 to Aviatorilor, walk Herastrau lakeside to the Village Museum, and finish with dinner on a Floreasca terrace."
+        },
+        {
+          "q": "Are dogs allowed in the Romanian Athenaeum?",
+          "a": "Only assistance dogs are admitted to the concert hall interior. The exterior square and the Calea Victoriei pavement are leash-friendly and free."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer au Palais du Parlement ?",
+          "a": "Non — seuls les chiens d'assistance sont admis à la visite intérieure. La place de la Constitution alentour est accessible en laisse."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Bucarest ?",
+          "a": "De Lipscani à l'Athénée roumain, métro M2 jusqu'à Aviatorilor, promenade au bord du lac Herastrau jusqu'au Musée du Village, et dîner sur une terrasse de Floreasca."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés à l'Athénée roumain ?",
+          "a": "Seuls les chiens d'assistance sont admis dans la salle de concert. La place extérieure et le trottoir de Calea Victoriei sont accessibles en laisse et gratuits."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro entrar al Palacio del Parlamento?",
+          "a": "No: solo perros de asistencia se admiten en la visita interior. La Plaza de la Constitución de alrededor es accesible con correa."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Bucarest?",
+          "a": "Recorre Lipscani hasta el Ateneo Rumano, toma el metro M2 hasta Aviatorilor, pasea junto al lago Herastrau hasta el Museo de la Aldea y termina con cena en una terraza de Floreasca."
+        },
+        {
+          "q": "¿Se admiten perros en el Ateneo Rumano?",
+          "a": "Solo perros de asistencia se admiten en la sala de conciertos. La plaza exterior y la acera de Calea Victoriei son accesibles con correa y gratuitas."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Bucharest",
+      "titleFr": "Garde et promenade de chiens à Bucarest",
+      "titleEs": "Cuidado y paseo de perros en Bucarest",
+      "introEn": "Bucharest pet-care is dominated by Pawshake (the European platform), with PetBacker and a strong network of Romanian Facebook groups for the expat owners around the embassies. Prices are about a third of Western European rates — €5-8 per walk is typical — and the network is dense enough that next-day bookings are reliable. Useful given the strict pet bans inside Romanian museums and ministries.",
+      "introFr": "La garde d'animaux à Bucarest est dominée par Pawshake (plateforme européenne), avec PetBacker et un solide réseau de groupes Facebook roumains pour les propriétaires expatriés autour des ambassades. Les tarifs sont environ un tiers des tarifs ouest-européens — 5-8 € la promenade est courant — et le réseau est suffisamment dense pour que les réservations du lendemain soient fiables. Utile vu les interdictions strictes des animaux dans les musées et ministères roumains.",
+      "introEs": "El cuidado de mascotas en Bucarest está dominado por Pawshake (plataforma europea), con PetBacker y una sólida red de grupos de Facebook rumanos para dueños expatriados alrededor de las embajadas. Los precios son aproximadamente un tercio de los de Europa Occidental — 5-8 € por paseo es habitual — y la red es lo bastante densa para que las reservas del día siguiente sean fiables. Útil dadas las prohibiciones estrictas de mascotas dentro de los museos y ministerios rumanos.",
+      "places": [
+        {
+          "name": "Pawshake Bucharest",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.ro/petsitters/bucharest",
+          "description": "The Romanian arm of the European Pawshake network, with hundreds of verified sitters across Bucharest offering drop-in visits, full-day care, dog walks, and overnight boarding. Bookings are insured through the platform and the interface is fully translated into English. The most reliable option for visitors with no local contacts.",
+          "descriptionFr": "Filiale roumaine du réseau européen Pawshake, avec des centaines de sitters vérifiés à Bucarest proposant visites à domicile, garde à la journée, promenades et hébergement de nuit. Les réservations sont assurées via la plateforme et l'interface est entièrement traduite en anglais. L'option la plus fiable pour les visiteurs sans contact local.",
+          "descriptionEs": "La filial rumana de la red europea Pawshake, con cientos de cuidadores verificados en Bucarest que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
+          "tip": "Filter for Floreasca, Cotroceni, or Aviatorilor — the three districts with the highest concentration of English-speaking sitters used to short-notice expat bookings.",
+          "tipFr": "Filtrez sur Floreasca, Cotroceni ou Aviatorilor — les trois quartiers avec la plus forte concentration de sitters anglophones habitués aux réservations expatriées de dernière minute.",
+          "tipEs": "Filtra por Floreasca, Cotroceni o Aviatorilor: los tres barrios con la mayor concentración de cuidadores angloparlantes acostumbrados a reservas expatriadas de última hora."
+        }
+      ],
+      "tipsEn": [
+        "Average rates: drop-in visit €6-8, dog walk €5-8, full-day care €12-18, overnight €15-22 — among the cheapest pet-care rates in any EU capital.",
+        "Most central Bucharest sitters live in apartments — confirm sleeping arrangements (crate, sofa, with the family) before booking for boarding.",
+        "Romanian sitters typically speak English and either French or Italian, especially in the Floreasca and Aviatorilor expat districts."
+      ],
+      "tipsFr": [
+        "Tarifs moyens : visite 6-8 €, promenade 5-8 €, journée complète 12-18 €, nuit 15-22 € — parmi les tarifs les plus bas de toutes les capitales européennes.",
+        "La plupart des sitters du centre de Bucarest vivent en appartement — vérifiez les conditions de couchage (caisse, canapé, en famille) avant de réserver pour la nuit.",
+        "Les sitters roumains parlent généralement anglais et soit français, soit italien, surtout dans les quartiers expatriés de Floreasca et Aviatorilor."
+      ],
+      "tipsEs": [
+        "Tarifas medias: visita 6-8 €, paseo 5-8 €, día completo 12-18 €, noche 15-22 €: entre las más bajas de cualquier capital de la UE.",
+        "La mayoría de los cuidadores del centro de Bucarest viven en piso: confirma cómo dormirá tu perro (jaula, sofá, con la familia) antes de reservar pernocta.",
+        "Los cuidadores rumanos suelen hablar inglés y francés o italiano, sobre todo en los barrios expatriados de Floreasca y Aviatorilor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Bucharest at short notice?",
+          "a": "Pawshake.ro is the fastest — most paid sitters confirm within hours. Filter for at least ten reviews and check the apartment-or-house preference."
+        },
+        {
+          "q": "Are dog walkers regulated in Romania?",
+          "a": "Romanian law does not require a licence for dog walkers, but Pawshake and PetBacker carers are insured through the platforms — useful in the unlikely case of an incident."
+        },
+        {
+          "q": "Do hotels offer pet sitting in Bucharest?",
+          "a": "A few luxury hotels (InterContinental Athénée Palace, JW Marriott) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter à Bucarest à court terme ?",
+          "a": "Pawshake.ro est le plus rapide — la plupart des sitters confirment en quelques heures. Filtrez sur au moins dix avis et vérifiez la préférence appartement-ou-maison."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Roumanie ?",
+          "a": "La loi roumaine n'exige pas de licence pour les promeneurs, mais les sitters Pawshake et PetBacker sont assurés via les plateformes — utile dans le rare cas d'un incident."
+        },
+        {
+          "q": "Les hôtels proposent-ils une garde à Bucarest ?",
+          "a": "Quelques hôtels haut de gamme (InterContinental Athénée Palace, JW Marriott) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Bucarest sin mucha antelación?",
+          "a": "Pawshake.ro es lo más rápido: la mayoría de los cuidadores confirman en pocas horas. Filtra por al menos diez opiniones y comprueba la preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Están regulados los paseadores en Rumanía?",
+          "a": "La ley rumana no exige licencia para los paseadores, pero los cuidadores de Pawshake y PetBacker están asegurados mediante las plataformas: útil en el raro caso de un incidente."
+        },
+        {
+          "q": "¿Los hoteles ofrecen servicio de cuidado en Bucarest?",
+          "a": "Algunos hoteles de gama alta (InterContinental Athénée Palace, JW Marriott) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ]
+    }
+  }
+}

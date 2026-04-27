@@ -2438,6 +2438,125 @@
     "slug": "hotel-le-berger"
   },
   {
+    "id": "bucharest-1",
+    "name": "InterContinental Athénée Palace Bucharest, an IHG Hotel",
+    "destinationSlug": "bucharest",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4200,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/intercontinental-athenee-palace-bucharest.html",
+    "petFee": 50,
+    "petPolicy": "InterContinental Athénée Palace welcomes one small dog up to 5 kg per room for €50 per stay. Cats are not accepted. The 1914 hotel sits on Revolution Square overlooking the Royal Palace and the Romanian Athenaeum.",
+    "highlights": [
+      "1914 Belle Époque landmark",
+      "Faces Romanian Athenaeum",
+      "Pet welcome amenities"
+    ],
+    "slug": "intercontinental-athenee-palace-bucharest"
+  },
+  {
+    "id": "bucharest-2",
+    "name": "JW Marriott Bucharest Grand Hotel",
+    "destinationSlug": "bucharest",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 5300,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/jw-marriott-bucharest-grand.html",
+    "petFee": 35,
+    "petPolicy": "JW Marriott Bucharest welcomes up to two pets up to 18 kg per room for €35 per pet per stay. Both dogs and cats are accepted. Pets are not allowed in restaurants or the spa.",
+    "highlights": [
+      "Beside the Palace of Parliament",
+      "Indoor pool & full spa",
+      "Pet-friendly concierge"
+    ],
+    "slug": "jw-marriott-bucharest-grand-hotel-bucharest"
+  },
+  {
+    "id": "bucharest-3",
+    "name": "Radisson Blu Hotel Bucharest",
+    "destinationSlug": "bucharest",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4900,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/radissonblubucharest.html",
+    "petFee": 25,
+    "petPolicy": "Radisson Blu Bucharest welcomes pets of any size for €25 per pet per night. Dog beds and food/water bowls are provided on arrival. Both dogs and cats are accepted.",
+    "highlights": [
+      "On Calea Victoriei",
+      "Outdoor pool & garden terrace",
+      "Walk to the Old Town"
+    ],
+    "slug": "radisson-blu-hotel-bucharest"
+  },
+  {
+    "id": "bucharest-4",
+    "name": "Mercure Bucharest Unirii",
+    "destinationSlug": "bucharest",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3600,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/mercure-bucharest-unirii.html",
+    "petFee": 0,
+    "petPolicy": "Mercure Bucharest Unirii welcomes pets of any size at no extra charge. Both dogs and cats are accepted. Service animals stay free; the hotel is steps from the Palace of Parliament and Piața Unirii metro.",
+    "highlights": [
+      "Free pet stays",
+      "Steps from Piața Unirii metro",
+      "Walk to Palace of Parliament"
+    ],
+    "slug": "mercure-bucharest-unirii-bucharest"
+  },
+  {
+    "id": "bucharest-5",
+    "name": "Novotel Bucharest City Centre",
+    "destinationSlug": "bucharest",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 5100,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/novotel-bucharest-city-centre.html",
+    "petFee": 15,
+    "petPolicy": "Novotel Bucharest City Centre welcomes pets of any size for €15 per pet per night. Both dogs and cats are accepted. Service animals stay free without a fee.",
+    "highlights": [
+      "On Calea Victoriei",
+      "Indoor pool & gym",
+      "Best-value pet rates in the centre"
+    ],
+    "slug": "novotel-bucharest-city-centre-bucharest"
+  },
+  {
     "id": "budapest-1",
     "name": "Anantara New York Palace Budapest - A Leading Hotel of the World",
     "destinationSlug": "budapest",

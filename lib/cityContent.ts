@@ -1599,6 +1599,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bucharest: {
+    history: {
+      fr: `Bucarest est devenue la capitale de la Roumanie en 1862, après l'union des principautés de Valachie et de Moldavie. Surnommée le « Petit Paris » dans les années 1920 pour ses palais Belle Époque le long de Calea Victoriei, la ville a traversé la dictature de Ceaușescu — qui rasa un sixième de la cité historique pour bâtir le Palais du Parlement — et est aujourd'hui la sixième plus grande capitale de l'UE avec environ 1,8 million d'habitants. La culture canine roumaine est ouverte mais réglementée : les municipalités exigent la laisse en ville, mais Bucarest possède le plus grand réseau de parcs canins clôturés du pays — deux dans le seul Herastrau (187 hectares au nord du centre). Les soins vétérinaires sont parmi les moins chers de l'UE, les hôtels dog-friendly démarrent à 60 €, et le plus grand hôpital vétérinaire 24h/24 de Roumanie (Pet Stuff, désormais filiale du groupe LuxVet) est à 20 minutes en taxi de la vieille ville.`,
+      en: `Bucharest became Romania's capital in 1862, after the union of the Wallachian and Moldavian principalities. Nicknamed "Little Paris" in the 1920s for its Belle Époque palaces along Calea Victoriei, the city lived through Ceaușescu's dictatorship — which razed a sixth of the historic core to build the Palace of the Parliament — and is today the EU's sixth-largest capital with about 1.8 million inhabitants. Romanian dog culture is open but regulated: municipalities require leashes in town, but Bucharest has the country's largest network of fenced dog parks — two inside Herastrau Park alone (187 hectares north of the centre). Veterinary care is among the cheapest in the EU, dog-friendly hotels start at €60, and Romania's largest 24-hour vet hospital (Pet Stuff, now part of the LuxVet group) is 20 minutes by taxi from the Old Town.`,
+      es: `Bucarest se convirtió en capital de Rumanía en 1862, tras la unión de los principados de Valaquia y Moldavia. Apodada el "Pequeño París" en los años 20 por sus palacios Belle Époque a lo largo de Calea Victoriei, la ciudad atravesó la dictadura de Ceaușescu — que arrasó una sexta parte del núcleo histórico para construir el Palacio del Parlamento — y hoy es la sexta capital más poblada de la UE, con unos 1,8 millones de habitantes. La cultura canina rumana es abierta pero está regulada: los municipios exigen correa en la ciudad, pero Bucarest tiene la mayor red de parques caninos vallados del país — dos solo dentro del parque Herastrau (187 hectáreas al norte del centro). La atención veterinaria está entre las más baratas de la UE, los hoteles dog-friendly empiezan en 60 € y el mayor hospital veterinario 24/7 de Rumanía (Pet Stuff, ahora filial del grupo LuxVet) está a 20 minutos en taxi del casco antiguo.`,
+    },
+    sights: [
+      {
+        name: 'Lipscani Old Town',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Cœur historique de Bucarest, rues pavées bordées d'hôtels particuliers néo-brâncovenesc et d'églises ruinées, avec la Curtea Veche du XVe siècle (ancienne résidence de Vlad l'Empaleur). Tout le quartier est accessible en laisse et piétonnisé en soirée.`,
+          en: `Bucharest's historic core, cobbled streets lined with neo-Brâncovenesc townhouses and ruined churches, with the 15th-century Curtea Veche (Vlad the Impaler's former residence). The whole district is leash-friendly and pedestrianised in the evenings.`,
+          es: `El corazón histórico de Bucarest, calles adoquinadas flanqueadas por casas señoriales neo-brâncovenesc e iglesias en ruinas, con la Curtea Veche del siglo XV (antigua residencia de Vlad el Empalador). Todo el barrio es accesible con correa y peatonal por la noche.`,
+        },
+      },
+      {
+        name: 'Calea Victoriei',
+        emoji: '🛍️',
+        petFriendly: true,
+        desc: {
+          fr: `Colonne vertébrale historique, 2,7 km du Splaiul Independenței à la Piața Victoriei, bordée de palais du XIXe, de l'Athénée roumain et du Palais Royal (Musée national d'art). Chiens en laisse les bienvenus toute la longueur.`,
+          en: `The city's historic spine, 2.7 km from Splaiul Independenței up to Piața Victoriei, lined with 19th-century palaces, the Romanian Athenaeum and the Royal Palace (National Art Museum). Leashed dogs welcome the entire length.`,
+          es: `El eje histórico de la ciudad, 2,7 km desde el Splaiul Independenței hasta la Piața Victoriei, flanqueado por palacios del siglo XIX, el Ateneo Rumano y el Palacio Real (Museo Nacional de Arte). Perros con correa bienvenidos en todo el recorrido.`,
+        },
+      },
+      {
+        name: 'King Mihai I Park (Herastrau)',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand parc de Bucarest (187 ha) autour du lac de Herastrau, avec deux parcs canins municipaux clôturés et une boucle pédestre de 6 km le long du lac. Métro Aviatorilor à la porte.`,
+          en: `Bucharest's largest park (187 ha) around Herastrau Lake, with two fenced municipal dog parks and a 6 km lakeside loop. Metro Aviatorilor station at the gate.`,
+          es: `El mayor parque de Bucarest (187 ha) alrededor del lago Herastrau, con dos parques caninos municipales vallados y una vuelta de 6 km junto al lago. Metro Aviatorilor en la puerta.`,
+        },
+      },
+      {
+        name: 'Cișmigiu Gardens',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Plus ancien jardin public de Bucarest (1854), 17 hectares au cœur de la ville avec petit lac, platanes anciens et café-kiosque. Chiens en laisse les bienvenus de jour comme de nuit.`,
+          en: `Bucharest's oldest public garden (1854), 17 hectares in the heart of the city with a small lake, mature plane trees, and a bandstand café. Leashed dogs welcome day and night.`,
+          es: `El jardín público más antiguo de Bucarest (1854), 17 hectáreas en pleno centro con un pequeño lago, plátanos maduros y un café-quiosco. Perros con correa bienvenidos de día y de noche.`,
+        },
+      },
+      {
+        name: 'Village Museum',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Musée ethnographique en plein air sur la rive du lac Herastrau, avec 270 maisons, églises et fermes roumaines historiques relocalisées de tout le pays. Chiens en laisse acceptés dans tout le parc en plein air.`,
+          en: `Outdoor ethnographic museum on the Herastrau lakefront, with 270 historic Romanian houses, churches, and farms relocated from across the country. Leashed dogs welcome throughout the open-air park.`,
+          es: `Museo etnográfico al aire libre en la orilla del lago Herastrau, con 270 casas, iglesias y granjas rumanas históricas trasladadas desde todo el país. Perros con correa admitidos en todo el parque al aire libre.`,
+        },
+      },
+      {
+        name: 'Lake Snagov',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Lac naturel de 17 km à 40 km au nord de Bucarest, dans le parc naturel de Snagov. Pinèdes et chênaies sur la rive sud où les chiens en laisse peuvent nager toute l'année hors des lidos commerciaux.`,
+          en: `17 km natural lake 40 km north of Bucharest, inside the Snagov Natural Park. Pine and oak forest on the south shore where leashed dogs can swim year-round outside the commercial lido zones.`,
+          es: `Lago natural de 17 km a 40 km al norte de Bucarest, dentro del Parque Natural de Snagov. Pinares y robledales en la orilla sur donde los perros con correa pueden bañarse todo el año fuera de las zonas comerciales de lido.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Métro et STB : petits chiens en panier gratuits, grands chiens en laisse + muselière sans ticket séparé. Service souple hors heures de pointe.`,
+        `Trains CFR Călători : demi-tarif seconde classe pour les grands chiens muselés ; les races dangereuses (Pit Bull, Boerbull et croisés) sont explicitement interdites.`,
+        `Urgence vétérinaire 24h/24 la plus centrale : SpeedVet, Bulevardul Lacul Tei 56, +40 372 783 783 — environ 15 minutes en Bolt depuis la vieille ville.`,
+        `Le Palais du Parlement, l'Athénée roumain et la plupart des musées n'admettent que les chiens d'assistance — planifiez une garde Pawshake si nécessaire.`,
+        `Étés très chauds : températures jusqu'à 35 °C en juillet-août, promenez le chien au lever du soleil ou après 19h, et évitez les trottoirs en béton sombre.`,
+      ],
+      en: [
+        `Metro and STB: small dogs in carriers free, large dogs need leash + muzzle but no separate ticket. Loose enforcement outside rush hour.`,
+        `CFR Călători trains: half second-class fare for muzzled large dogs; dangerous breeds (Pit Bull, Boerbull and crossbreeds) are explicitly banned.`,
+        `Most central 24/7 emergency vet: SpeedVet, Bulevardul Lacul Tei 56, +40 372 783 783 — about 15 minutes by Bolt from the Old Town.`,
+        `The Palace of Parliament, Romanian Athenaeum, and most museums admit only assistance dogs — plan a Pawshake sitter if needed.`,
+        `Very hot summers: temperatures up to 35 °C in July-August, walk dogs at sunrise or after 19:00, and avoid dark-concrete pavements.`,
+      ],
+      es: [
+        `Metro y STB: perros pequeños en transportín gratis, perros grandes necesitan correa + bozal pero no billete aparte. Aplicación flexible fuera de horas punta.`,
+        `Trenes CFR Călători: medio billete de segunda clase para perros grandes con bozal; las razas peligrosas (Pit Bull, Boerbull y mestizos) están explícitamente prohibidas.`,
+        `Veterinario de urgencias 24/7 más céntrico: SpeedVet, Bulevardul Lacul Tei 56, +40 372 783 783 — a unos 15 minutos en Bolt desde el casco antiguo.`,
+        `El Palacio del Parlamento, el Ateneo Rumano y la mayoría de los museos solo admiten perros de asistencia: planifica un cuidador Pawshake si hace falta.`,
+        `Veranos muy calurosos: temperaturas de hasta 35 °C en julio y agosto, pasea al perro al amanecer o después de las 19:00 y evita las aceras de hormigón oscuro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport Henri Coandă (OTP) est à 17 km du centre, bus 783 jusqu'à Piața Unirii en 45 minutes (chien en panier gratuit, grand chien : ticket + muselière).`,
+        `Tarifs hôtels dog-friendly : à partir de 60 € la nuit en 4*, supplément animal moyen 0-50 € par séjour ; certaines limites de poids strictes (Athénée Palace : 5 kg).`,
+        `Climat continental : hivers froids et givrés (-1 °C en janvier), étés très chauds (24 °C en juillet, pics à 35 °C) ; transition de saison brève en avril et octobre.`,
+        `Pawshake.ro et PetBacker dominent la garde et la promenade ; comptez 6-8 € la visite, 12-18 € la journée, 15-22 € la nuit — parmi les tarifs les plus bas de l'UE.`,
+        `Bucarest est à 8h de Sofia en train direct, 4h30 de Sibiu et 2h30 de Brașov — point de départ idéal pour un circuit canin Carpates / Transylvanie.`,
+      ],
+      en: [
+        `Henri Coandă Airport (OTP) is 17 km from the centre, bus 783 to Piața Unirii in 45 minutes (small dog in carrier free, large dog: ticket + muzzle).`,
+        `Dog-friendly hotel rates: from €60 per night for 4*, average pet supplement €0-50 per stay; some strict weight limits (Athénée Palace: 5 kg).`,
+        `Continental climate: cold frosty winters (-1 °C in January), very hot summers (24 °C in July, peaks at 35 °C); short shoulder seasons in April and October.`,
+        `Pawshake.ro and PetBacker dominate sitting and walking; budget €6-8 per drop-in visit, €12-18 for full-day care, €15-22 per night — among the cheapest pet-care rates in the EU.`,
+        `Bucharest is 8 hours from Sofia by direct train, 4h30 from Sibiu, and 2h30 from Brașov — an ideal starting point for a Carpathian / Transylvanian dog circuit.`,
+      ],
+      es: [
+        `El aeropuerto Henri Coandă (OTP) está a 17 km del centro, bus 783 hasta Piața Unirii en 45 minutos (perro pequeño en transportín gratis, perro grande: billete + bozal).`,
+        `Tarifas de hoteles dog-friendly: desde 60 € por noche en 4*, suplemento medio por mascota 0-50 € por estancia; algunos límites de peso estrictos (Athénée Palace: 5 kg).`,
+        `Clima continental: inviernos fríos y con escarcha (-1 °C en enero), veranos muy calurosos (24 °C en julio, picos de 35 °C); cortas estaciones intermedias en abril y octubre.`,
+        `Pawshake.ro y PetBacker dominan el cuidado y paseo; cuenta 6-8 € por visita, 12-18 € por día completo, 15-22 € por noche: entre las tarifas más bajas de la UE.`,
+        `Bucarest está a 8 horas de Sofía en tren directo, 4h30 de Sibiu y 2h30 de Brașov: punto de partida ideal para un circuito canino por los Cárpatos / Transilvania.`,
+      ],
+    },
+  },
+
   budapest: {
     history: {
       en: 'Budapest — formed from the merger of Buda, Óbuda and Pest in 1873 — is one of Central Europe\'s most dog-populated capitals, with an estimated 300,000 dogs registered in the metro area. Hungarians are deeply attached to their dogs and the city\'s infrastructure reflects this: dedicated off-leash zones (kutyafuttató) exist in almost every district, tram and metro rules allow dogs with muzzles, and thermal bath culture — while not dog-inclusive — is balanced by a network of parks and riverside promenades that make Budapest genuinely walker-friendly.',

@@ -91,6 +91,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bois de la Cambre, the Parc du Cinquantenaire, and the Forêt de Soignes',
       area: 'Ixelles, Saint-Gilles, and the European Quarter',
     },
+    bucharest: {
+      personality: 'one of the EU\'s most affordable capitals, with a 187-hectare central park, two fenced municipal dog enclosures inside it, and Romania\'s largest 24-hour vet hospital',
+      highlight: 'Herastrau Park, Cișmigiu Gardens, and Lake Snagov',
+      area: 'Lipscani Old Town, Floreasca, and Calea Victoriei',
+    },
     budapest: {
       personality: 'a city of grand architecture and a growing dog-friendly scene. Dogs ride the metro, access most parks, and are welcomed in Budapest\'s famous ruin bars',
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
@@ -469,6 +474,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Bois de la Cambre, le Parc du Cinquantenaire et la Forêt de Soignes',
       area: 'Ixelles, Saint-Gilles et le Quartier Européen',
     },
+    bucharest: {
+      personality: 'l\'une des capitales européennes les plus abordables, avec un parc central de 187 hectares, deux enclos canins municipaux clôturés à l\'intérieur et le plus grand hôpital vétérinaire 24h/24 de Roumanie',
+      highlight: 'le parc Herastrau, les jardins Cișmigiu et le lac de Snagov',
+      area: 'la vieille ville Lipscani, Floreasca et Calea Victoriei',
+    },
     budapest: {
       personality: 'une ville de grande architecture et d\'une scène dog-friendly en plein essor. Les chiens prennent le métro, accèdent à la plupart des parcs et sont accueillis dans les célèbres bars en ruine de Budapest',
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
@@ -845,6 +855,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'un destino de viaje con mascotas subestimado, con amplios parques, un centro compacto y transitable y una cultura hotelera que da una auténtica bienvenida a los animales',
       highlight: 'el Bosque de la Cambre, el Parque del Cincuentenario y el Bosque de Soignes',
       area: 'Ixelles, Saint-Gilles y el Barrio Europeo',
+    },
+    bucharest: {
+      personality: 'una de las capitales europeas más asequibles, con un parque central de 187 hectáreas, dos recintos caninos municipales vallados en su interior y el mayor hospital veterinario 24/7 de Rumanía',
+      highlight: 'el parque Herastrau, los jardines Cișmigiu y el lago de Snagov',
+      area: 'el casco antiguo Lipscani, Floreasca y Calea Victoriei',
     },
     budapest: {
       personality: 'una ciudad de gran arquitectura y una escena dog-friendly en auge. Los perros viajan en metro, acceden a la mayoría de los parques y son bienvenidos en los famosos bares en ruinas de Budapest',

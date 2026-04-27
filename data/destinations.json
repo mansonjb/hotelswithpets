@@ -1026,6 +1026,80 @@
     }
   },
   {
+    "slug": "bucharest",
+    "name": "Bucharest",
+    "country": "Romania",
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "lat": 44.4268,
+    "lng": 26.1025,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bucharest.jpg",
+    "intro": "Bucharest is one of the EU's most affordable capitals: 187-hectare Herastrau Park with two fenced municipal dog enclosures, Romania's largest 24/7 vet hospital, and Lake Snagov 40 km north for full-day forest swims.",
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & frosty",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "budapest",
     "name": "Budapest",
     "country": "Hungary",

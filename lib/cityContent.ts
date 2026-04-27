@@ -5539,6 +5539,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  pisa: {
+    history: {
+      fr: `Pise est l'une des plus anciennes républiques maritimes d'Italie : ville étrusque dès le VIIe siècle av. J.-C., elle bâtit aux XIe-XIIe siècles le complexe roman de la Piazza dei Miracoli — Cathédrale, Baptistère, Tour penchée et Camposanto — qui lui vaudra son inscription à l'UNESCO en 1987. Avec environ 90 000 habitants, c'est une petite ville à forte composante universitaire (l'Université de Pise est l'une des plus anciennes d'Europe), traversée par l'Arno et adossée au parc régional de Migliarino San Rossore Massaciuccoli, 23 000 hectares de pinèdes, dunes et zones humides qui s'étendent jusqu'à la mer. La culture toscane est ouvertement dog-friendly : la grande majorité des cafés, trattorias et terrasses acceptent les chiens, et la côte tyrrhénienne à 10 km offre des plages canines balisées toute l'année à Marina di Pisa. Le seul vrai écueil, c'est l'interdiction des animaux dans les quatre monuments de la Piazza dei Miracoli.`,
+      en: `Pisa is one of Italy's oldest maritime republics: an Etruscan settlement from the 7th century BC, in the 11th-12th centuries it built the Romanesque ensemble of Piazza dei Miracoli — Cathedral, Baptistery, Leaning Tower and Camposanto — earning UNESCO listing in 1987. With about 90 000 inhabitants, it is a small but heavily academic city (the University of Pisa is one of Europe's oldest), threaded by the Arno and backed by the Migliarino San Rossore Massaciuccoli regional park, 23 000 hectares of pine forest, dunes and wetlands stretching to the sea. Tuscan culture is openly dog-friendly: the vast majority of cafés, trattorias and terraces accept dogs, and the Tyrrhenian coast 10 km away has marked dog beaches open year-round at Marina di Pisa. The only real catch is the pet ban inside the four Piazza dei Miracoli monuments.`,
+      es: `Pisa es una de las repúblicas marítimas más antiguas de Italia: asentamiento etrusco desde el siglo VII a. C., en los siglos XI y XII levantó el conjunto románico de la Piazza dei Miracoli — Catedral, Baptisterio, Torre Inclinada y Camposanto —, declarado Patrimonio UNESCO en 1987. Con unos 90.000 habitantes, es una ciudad pequeña pero muy universitaria (la Universidad de Pisa es una de las más antiguas de Europa), atravesada por el Arno y respaldada por el Parque Regional de Migliarino San Rossore Massaciuccoli, 23.000 hectáreas de pinares, dunas y humedales que llegan hasta el mar. La cultura toscana es abiertamente dog-friendly: la gran mayoría de cafés, trattorias y terrazas admiten perros, y la costa tirrena a 10 km tiene playas caninas señalizadas abiertas todo el año en Marina di Pisa. El único inconveniente real es la prohibición de mascotas dentro de los cuatro monumentos de la Piazza dei Miracoli.`,
+    },
+    sights: [
+      {
+        name: 'Piazza dei Miracoli',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le Champ des Miracles UNESCO : Cathédrale, Baptistère, Tour penchée et Camposanto, alignés sur une vaste pelouse. La pelouse extérieure est gratuite et accessible en laisse, mais l'intérieur des quatre monuments n'admet que les chiens d'assistance.`,
+          en: `The UNESCO Field of Miracles: Cathedral, Baptistery, Leaning Tower and Camposanto, aligned on a wide lawn. The exterior lawn is free and leash-friendly, but the interior of the four monuments admits only assistance dogs.`,
+          es: `El Campo de los Milagros UNESCO: Catedral, Baptisterio, Torre Inclinada y Camposanto, alineados en un amplio césped. El césped exterior es gratuito y accesible con correa, pero el interior de los cuatro monumentos solo admite perros de asistencia.`,
+        },
+      },
+      {
+        name: 'Lungarni',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Les quais jumeaux de l'Arno qui traversent le cœur de Pise, bordés d'hôtels particuliers pastel et de terrasses de cafés dog-friendly. Le Ponte di Mezzo offre la photo classique du skyline, accessible en laisse à toute heure.`,
+          en: `The paired Arno embankments running through the heart of Pisa, lined with pastel townhouses and dog-friendly café terraces. The Ponte di Mezzo gives the classic Pisa skyline shot, leash-friendly at any hour.`,
+          es: `Los muelles gemelos del Arno que atraviesan el corazón de Pisa, flanqueados por casas señoriales en pastel y terrazas de café dog-friendly. El Ponte di Mezzo ofrece la foto clásica del skyline de Pisa, accesible con correa a cualquier hora.`,
+        },
+      },
+      {
+        name: 'Parco San Rossore',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Ancien domaine royal devenu parc régional toscan, 23 000 hectares de pinèdes et dunes à 8 km du centre. Sentiers en laisse et sections sans laisse balisées ; bus 010 depuis Pisa Centrale ou vélo loué à Cascine Vecchie.`,
+          en: `A former royal estate, now a Tuscan regional park of 23 000 hectares of pine forests and dunes 8 km from the centre. Leash-friendly paths and signposted off-leash sections; bus 010 from Pisa Centrale or rental bikes at Cascine Vecchie.`,
+          es: `Antigua finca real, hoy parque regional toscano de 23.000 hectáreas de pinares y dunas a 8 km del centro. Senderos con correa y tramos sin correa señalizados; bus 010 desde Pisa Centrale o bicicletas de alquiler en Cascine Vecchie.`,
+        },
+      },
+      {
+        name: 'Marina di Pisa',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage tyrrhénienne à 10 km à l'ouest, avec sections 'spiaggia per cani' balisées ouvertes toute l'année. La portion sud vers Calambrone offre les meilleurs accès libres et lidos canins payants.`,
+          en: `Tyrrhenian beach 10 km west, with year-round 'spiaggia per cani' marked sections. The southern stretch toward Calambrone offers the best free public access and paid dog-lidos.`,
+          es: `Playa tirrena a 10 km al oeste, con secciones 'spiaggia per cani' señalizadas abiertas todo el año. El tramo sur hacia Calambrone ofrece los mejores accesos libres y lidos caninos de pago.`,
+        },
+      },
+      {
+        name: 'Piazza dei Cavalieri',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place Renaissance entre les Lungarni et le Champ des Miracles, dominée par la façade en sgraffito du Palazzo della Carovana et la Scuola Normale Superiore. Espace public, chiens en laisse les bienvenus à toute heure.`,
+          en: `Renaissance square between the Lungarni and the Field of Miracles, fronted by the sgraffito façade of Palazzo della Carovana and the Scuola Normale Superiore. Public space, leashed dogs welcome at any hour.`,
+          es: `Plaza renacentista entre los Lungarni y el Campo de los Milagros, presidida por la fachada en esgrafiado del Palazzo della Carovana y la Scuola Normale Superiore. Espacio público, perros con correa bienvenidos a cualquier hora.`,
+        },
+      },
+      {
+        name: 'Giardino Scotto',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Principal jardin de ville, aménagé dans les bastions de la Cittadella Nuova du XVIe siècle sur le Lungarno Fibonacci. Platanes anciens, fontaines, théâtre en plein air ; chiens en laisse les bienvenus.`,
+          en: `The city's main garden, set inside the bastions of the 16th-century Cittadella Nuova on Lungarno Fibonacci. Mature plane trees, fountains, an open-air theatre; leashed dogs welcome.`,
+          es: `El jardín municipal principal, dentro de los baluartes de la Cittadella Nuova del siglo XVI sobre el Lungarno Fibonacci. Plátanos maduros, fuentes, teatro al aire libre; perros con correa bienvenidos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les quatre monuments de la Piazza dei Miracoli (Tour, Cathédrale, Baptistère, Camposanto) n'admettent que les chiens d'assistance — la pelouse extérieure reste accessible en laisse et gratuite.`,
+        `Plages tyrrhéniennes : sections 'spiaggia per cani' balisées toute l'année à Marina di Pisa ; ailleurs, les chiens sont interdits du 1er juin au 15 septembre par défaut.`,
+        `Urgence vétérinaire 24h/24 : Ospedale Didattico Veterinario UNIPI, Via Livornese, San Piero a Grado, +39 050 221 0177.`,
+        `Trains régionaux Trenitalia : grand chien = ticket demi-tarif (~5 €), petit chien en panier = gratuit ; muselière obligatoire pour les races moyennes et grandes.`,
+        `Bus CTT Nord LAM Rossa : aéroport-Tour-Pisa Centrale toutes les 10 minutes, ticket chien obligatoire pour les races moyennes et grandes.`,
+      ],
+      en: [
+        `The four Piazza dei Miracoli monuments (Tower, Cathedral, Baptistery, Camposanto) admit only assistance dogs — the surrounding lawn stays leash-friendly and free.`,
+        `Tyrrhenian beaches: 'spiaggia per cani' marked sections open year-round at Marina di Pisa; elsewhere dogs are banned 1 June–15 September by default.`,
+        `24/7 emergency vet: Ospedale Didattico Veterinario UNIPI, Via Livornese, San Piero a Grado, +39 050 221 0177.`,
+        `Trenitalia regional trains: large dog = half-fare ticket (~€5), small dog in carrier = free; muzzle required for medium and large breeds.`,
+        `CTT Nord LAM Rossa bus: airport-Tower-Pisa Centrale every 10 minutes, dog ticket required for medium and large breeds.`,
+      ],
+      es: [
+        `Los cuatro monumentos de la Piazza dei Miracoli (Torre, Catedral, Baptisterio, Camposanto) solo admiten perros de asistencia: el césped exterior sigue siendo accesible con correa y gratuito.`,
+        `Playas tirrenas: secciones 'spiaggia per cani' marcadas abiertas todo el año en Marina di Pisa; en el resto, los perros están prohibidos del 1 de junio al 15 de septiembre por defecto.`,
+        `Veterinario de urgencias 24h: Ospedale Didattico Veterinario UNIPI, Via Livornese, San Piero a Grado, +39 050 221 0177.`,
+        `Trenes regionales de Trenitalia: perro grande = billete a mitad de precio (~5 €), perro pequeño en transportín = gratis; bozal obligatorio para razas medianas y grandes.`,
+        `Bus CTT Nord LAM Rossa: aeropuerto-Torre-Pisa Centrale cada 10 minutos, billete de perro obligatorio para razas medianas y grandes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport de Pise (PSA) est à 2 km du centre, relié par le Pisa-Mover en 5 minutes (chiens admis en panier sans condition de taille).`,
+        `Tarifs hôtels dog-friendly : à partir de 75 € la nuit en 3*, supplément animal moyen 0-25 € par séjour.`,
+        `Climat méditerranéen : étés chauds (25 °C en juillet, 25 °C en août), hivers doux (7-8 °C en janvier-décembre) ; canicules dépassant 30 °C en été — privilégiez les sorties matinales et nocturnes.`,
+        `Pawshake.it est la plateforme de référence pour la garde et la promenade ; comptez 10-12 € la visite, 18-25 € la journée, 22-30 € la nuit.`,
+        `Pise est à 1h de Florence en train, 30 min de Lucques et 4h de Rome — point de départ idéal pour un circuit canin en Toscane.`,
+      ],
+      en: [
+        `Pisa Airport (PSA) is 2 km from the centre, linked by the Pisa-Mover in 5 minutes (dogs admitted in carriers regardless of size).`,
+        `Dog-friendly hotel rates: from €75 per night for 3*, average pet supplement €0-25 per stay.`,
+        `Mediterranean climate: warm summers (25 °C in July, 25 °C in August), mild winters (7-8 °C in January-December); heat waves above 30 °C in summer — prefer morning and evening outings.`,
+        `Pawshake.it is the dominant pet-care platform; budget €10-12 per drop-in visit, €18-25 for full-day care, €22-30 per night.`,
+        `Pisa is 1 hour from Florence by train, 30 min from Lucca, and 4 hours from Rome — an ideal starting point for a Tuscan dog-travel circuit.`,
+      ],
+      es: [
+        `El aeropuerto de Pisa (PSA) está a 2 km del centro, conectado por el Pisa-Mover en 5 minutos (perros admitidos en transportín sin importar el tamaño).`,
+        `Tarifas de hoteles dog-friendly: desde 75 € por noche en 3*, suplemento medio por mascota 0-25 € por estancia.`,
+        `Clima mediterráneo: veranos cálidos (25 °C en julio, 25 °C en agosto), inviernos suaves (7-8 °C en enero-diciembre); olas de calor por encima de 30 °C en verano: prioriza las salidas matutinas y nocturnas.`,
+        `Pawshake.it es la plataforma dominante para cuidado y paseo; cuenta 10-12 € por visita, 18-25 € por día completo, 22-30 € por noche.`,
+        `Pisa está a 1 hora de Florencia en tren, 30 min de Lucca y 4 horas de Roma: punto de partida ideal para un circuito canino por la Toscana.`,
+      ],
+    },
+  },
+
   porto: {
     history: {
       en: 'Porto — Portugal\'s second city and the origin of port wine — sits on the dramatic granite gorge of the Douro river. With around 240,000 inhabitants, it has the warmth of a neighbourhood city and a dog culture that mirrors Lisbon\'s openness. Portuenses (Porto residents) are matter-of-fact about dogs in public spaces: café terraces, riverside promenades and tram cars all see dogs as a normal part of daily life. The Atlantic coast is minutes away, and the Douro Valley wine country — an extraordinary day trip — is one of the most scenic walking environments in Europe.',

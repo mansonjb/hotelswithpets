@@ -8273,6 +8273,126 @@
     "slug": "mandarin-oriental-paris"
   },
   {
+    "id": "pisa-1",
+    "name": "Bagni di Pisa Palace & Thermal Spa",
+    "destinationSlug": "pisa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1800,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bagni-di-pisa-palace-amp-thermal-spa.html",
+    "petFee": 0,
+    "petPolicy": "Bagni di Pisa welcomes pets of any size at no extra charge. Both dogs and cats are accepted, with a complete welcome kit including bowl and mat. Pets are not allowed in the spa, restaurants or pool area.",
+    "highlights": [
+      "Historic Tuscan thermal palace",
+      "Free pet welcome kit",
+      "10 km from Pisa centre"
+    ],
+    "slug": "bagni-di-pisa-palace-thermal-spa-pisa"
+  },
+  {
+    "id": "pisa-2",
+    "name": "Royal Victoria Hotel",
+    "destinationSlug": "pisa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/royal-victoria-pisa.html",
+    "petFee": 0,
+    "petPolicy": "Royal Victoria welcomes up to two pets of any size at no extra charge. Both dogs and cats are accepted; dog beds are provided for animals up to 20 kg. Family-run since 1837.",
+    "highlights": [
+      "Only riverside hotel in the historic centre",
+      "Family-run since 1837",
+      "Free pet stays"
+    ],
+    "slug": "royal-victoria-hotel-pisa"
+  },
+  {
+    "id": "pisa-3",
+    "name": "NH Pisa",
+    "destinationSlug": "pisa",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3500,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nh-pisa.html",
+    "petFee": 25,
+    "petPolicy": "NH Pisa welcomes up to two pets up to 25 kg per room for €25 per pet per stay. Both dogs and cats are accepted. Service animals stay free without a fee.",
+    "highlights": [
+      "Walk to the Tower in 10 minutes",
+      "Free fitness centre",
+      "Standard NH pet amenities"
+    ],
+    "slug": "nh-pisa-pisa"
+  },
+  {
+    "id": "pisa-4",
+    "name": "Grand Hotel Bonanno",
+    "destinationSlug": "pisa",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 2900,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-bonanno.html",
+    "petFee": 15,
+    "petPolicy": "Grand Hotel Bonanno welcomes small dogs (under 10 kg) for €15 per night. Cats are not accepted. Pets are restricted to designated rooms.",
+    "highlights": [
+      "5 minutes from the Tower",
+      "Free private parking",
+      "Quiet residential setting"
+    ],
+    "slug": "grand-hotel-bonanno-pisa"
+  },
+  {
+    "id": "pisa-5",
+    "name": "Hotel Bologna",
+    "destinationSlug": "pisa",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2400,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bologna-pisa.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Bologna welcomes one dog up to 15 kg per room for €15 per night. Cats are not accepted. The hotel sits on the south bank of the Arno close to Sant'Antonio.",
+    "highlights": [
+      "Sant'Antonio neighbourhood",
+      "Walk across Ponte di Mezzo to the Tower",
+      "Best-value pet rooms"
+    ],
+    "slug": "hotel-bologna-pisa"
+  },
+  {
     "id": "porto-1",
     "name": "InterContinental Porto - Palacio das Cardosas by IHG",
     "destinationSlug": "porto",

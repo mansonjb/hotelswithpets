@@ -53,6 +53,7 @@ const TARGETS = [
   { slug: 'brighton', query: 'Brighton seafront West Pier sunset i360 panorama' },
   { slug: 'bratislava', query: 'Bratislava Castle Danube sunset panorama Old Town' },
   { slug: 'vilnius', query: 'Vilnius Old Town panorama Gediminas Tower Cathedral sunset' },
+  { slug: 'pisa', query: 'Pisa Leaning Tower Cathedral Piazza dei Miracoli sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

@@ -1,0 +1,885 @@
+{
+  "slug": "pisa",
+  "name": "Pisa",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-04-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Pisa",
+      "titleFr": "Restaurants acceptant les chiens à Pise",
+      "titleEs": "Restaurantes para perros en Pisa",
+      "introEn": "Tuscan hospitality is universally pet-friendly: dogs are welcome on terraces almost everywhere in Pisa, and many trattorias accept them indoors as long as a sign isn't posted to the contrary. The cluster of dog-friendly addresses runs along the Lungarni (the Arno embankments) and around the Borgo Stretto pedestrian street, with a second hub south of the river around Sant'Antonio. Three reliable choices below.",
+      "introFr": "L'hospitalité toscane est universellement pet-friendly : les chiens sont les bienvenus en terrasse presque partout à Pise, et beaucoup de trattorias les acceptent en salle tant qu'aucun panneau ne précise le contraire. Les bonnes adresses se concentrent le long des Lungarni (les quais de l'Arno) et autour de la rue piétonne du Borgo Stretto, avec un second pôle au sud du fleuve à Sant'Antonio. Trois choix fiables ci-dessous.",
+      "introEs": "La hospitalidad toscana es universalmente pet-friendly: los perros son bienvenidos en terrazas casi en todas partes en Pisa, y muchas trattorias los aceptan en interior salvo cartel en contra. Las direcciones se concentran en los Lungarni (los muelles del Arno) y alrededor de la calle peatonal de Borgo Stretto, con un segundo polo al sur del río en Sant'Antonio. Tres opciones fiables a continuación.",
+      "places": [
+        {
+          "name": "Anita Osteria",
+          "address": "Via San Lorenzo 16, 56127 Pisa",
+          "neighborhood": "San Francesco (Old Town)",
+          "photo": "/images/city-places/pisa-restaurants-anita-osteria.jpg",
+          "website": "https://www.anitaosteria.it/",
+          "description": "A small Tuscan osteria a few minutes' walk from Borgo Stretto, consistently rated above 9 by local guides for its dog-welcoming policy. The interior is intimate but always keeps a water bowl by the door, and the short outdoor terrace on Via San Lorenzo accepts dogs without question. Seasonal Tuscan cooking with a strong handmade-pasta game.",
+          "descriptionFr": "Petite osteria toscane à quelques minutes à pied du Borgo Stretto, régulièrement notée au-dessus de 9 par les guides locaux pour son accueil des chiens. La salle est intime mais une gamelle d'eau reste à la porte, et la courte terrasse sur la Via San Lorenzo accepte les chiens sans question. Cuisine toscane de saison avec un solide travail des pâtes faites maison.",
+          "descriptionEs": "Pequeña osteria toscana a pocos minutos a pie de Borgo Stretto, valorada de forma sostenida por encima de 9 en las guías locales por su política de admisión de perros. El interior es íntimo pero siempre tiene un cuenco de agua junto a la puerta, y la pequeña terraza de Via San Lorenzo acepta perros sin problema. Cocina toscana de temporada con buen trabajo de pasta casera.",
+          "petPolicy": "Dogs welcome inside and on terrace; water bowl provided",
+          "petPolicyFr": "Chiens acceptés en salle et en terrasse ; gamelle d'eau fournie",
+          "petPolicyEs": "Perros admitidos en interior y terraza; cuenco de agua disponible",
+          "priceRange": "€€",
+          "mustTry": "Pici al cinghiale, ribollita, Chianti by the glass",
+          "mustTryFr": "Pici al cinghiale, ribollita, Chianti au verre",
+          "mustTryEs": "Pici al cinghiale, ribollita, Chianti por copas",
+          "openingHours": "Tue–Sun 12:30–14:30, 19:30–22:30",
+          "tip": "Reserve the terrace at 19:30 for the warmest light; the short street is shaded and pleasant for a dog at your feet.",
+          "tipFr": "Réservez la terrasse à 19h30 pour la plus belle lumière ; la rue courte est ombragée et agréable pour un chien aux pieds.",
+          "tipEs": "Reserva la terraza a las 19:30 para la luz más cálida; la calle corta está sombreada y es agradable con un perro a los pies.",
+          "googleMapsUrl": "https://maps.google.com/?q=Anita+Osteria+Pisa"
+        },
+        {
+          "name": "Ginger Lab La Cucina",
+          "address": "Via Nunziatina 6, 56125 Pisa",
+          "neighborhood": "Centro Storico (south of Arno)",
+          "photo": "/images/city-places/pisa-restaurants-ginger-lab-la-cucina.jpg",
+          "website": "https://www.gingerpisa.it/",
+          "description": "A bright vegetarian-leaning bistro south of the Arno, regularly cited among Pisa's most dog-friendly addresses. Both rooms welcome dogs, and the small inner courtyard becomes the prime summer spot. The kitchen runs from breakfast through late lunch, with the highest concentration of plant-based options in central Pisa.",
+          "descriptionFr": "Bistro lumineux à dominante végétarienne au sud de l'Arno, régulièrement cité parmi les adresses les plus dog-friendly de Pise. Les deux salles accueillent les chiens, et la petite cour intérieure devient le spot estival par excellence. La cuisine fonctionne du petit-déjeuner au déjeuner tardif, avec la plus forte concentration d'options végétales du centre.",
+          "descriptionEs": "Bistró luminoso de tendencia vegetariana al sur del Arno, citado a menudo entre las direcciones más dog-friendly de Pisa. Ambas salas admiten perros, y el pequeño patio interior se convierte en el rincón estrella en verano. La cocina abre del desayuno hasta el almuerzo tardío, con la mayor concentración de opciones vegetales del centro.",
+          "petPolicy": "Dogs welcome inside and on courtyard terrace",
+          "petPolicyFr": "Chiens acceptés en salle et sur la terrasse de la cour",
+          "petPolicyEs": "Perros admitidos en interior y en la terraza del patio",
+          "priceRange": "€€",
+          "mustTry": "Vegan brunch board, sourdough sandwiches, Tuscan natural wine",
+          "mustTryFr": "Planche brunch végane, sandwichs au levain, vin nature toscan",
+          "mustTryEs": "Tabla brunch vegana, sándwiches de masa madre, vino natural toscano",
+          "openingHours": "Tue–Sun 09:00–17:00",
+          "tip": "Walk down from Royal Victoria across the Ponte di Mezzo — five minutes and you're at the door.",
+          "tipFr": "Descendez du Royal Victoria par le Ponte di Mezzo — cinq minutes et vous êtes à la porte.",
+          "tipEs": "Baja desde el Royal Victoria cruzando el Ponte di Mezzo: cinco minutos y estás en la puerta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ginger+Lab+Pisa"
+        },
+        {
+          "name": "ArtBurger",
+          "address": "Via San Martino 4, 56125 Pisa",
+          "neighborhood": "Sant'Antonio (south of Arno)",
+          "photo": "/images/city-places/pisa-restaurants-artburger.jpg",
+          "website": "https://www.artburger.it/",
+          "description": "A casual gourmet burger joint on Via San Martino with a notably broad dog-welcome policy: dogs join guests indoors at all tables, and the kitchen sometimes sends out a small house-made dog biscuit. Tuscan-meat burgers with local sourdough buns and a short list of craft beers from the wider region.",
+          "descriptionFr": "Burger gourmet décontracté sur la Via San Martino, avec une politique d'accueil des chiens particulièrement large : les chiens accompagnent leurs maîtres en salle à toutes les tables, et la cuisine envoie parfois un petit biscuit canin fait maison. Burgers de viande toscane sur pain au levain local et courte sélection de bières artisanales régionales.",
+          "descriptionEs": "Hamburguesería gourmet desenfadada en Via San Martino con una política de admisión de perros notablemente amplia: los perros acompañan a sus dueños en todas las mesas y la cocina a veces saca una pequeña galleta canina casera. Hamburguesas de carne toscana con pan de masa madre local y breve carta de cervezas artesanas regionales.",
+          "petPolicy": "Dogs welcome inside at all tables; occasional house dog biscuit",
+          "petPolicyFr": "Chiens acceptés en salle à toutes les tables ; biscuit canin maison occasionnel",
+          "petPolicyEs": "Perros admitidos en todas las mesas del interior; galleta canina casera ocasional",
+          "priceRange": "€€",
+          "mustTry": "Chianina-beef burger, truffle fries, Tuscan craft beer",
+          "mustTryFr": "Burger de bœuf Chianina, frites à la truffe, bière artisanale toscane",
+          "mustTryEs": "Hamburguesa de buey de Chianina, patatas a la trufa, cerveza artesana toscana",
+          "openingHours": "Mon–Sat 19:00–23:00",
+          "tip": "Tuesday is the calmest evening; the place fills early on weekends so reserve the front table for easy dog access.",
+          "tipFr": "Le mardi soir est le plus calme ; ça se remplit tôt le week-end, réservez la table de devant pour un accès facile avec un chien.",
+          "tipEs": "El martes por la noche es el más tranquilo; los fines de semana se llena pronto, reserva la mesa de delante para un acceso fácil con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=ArtBurger+Pisa"
+        }
+      ],
+      "tipsEn": [
+        "Italian law leaves it to the proprietor — most Tuscan restaurants accept dogs by default. A 'no dogs' sign at the door is rare and clearly posted.",
+        "The Lungarni in summer concentrate the city's best dog-friendly aperitivo terraces; locals start gathering around 18:00 with their dogs.",
+        "Avoid the strip directly around the Tower at lunchtime — restaurants there cater to bus tourists and turn dogs away more often than the rest of the city."
+      ],
+      "tipsFr": [
+        "La loi italienne laisse le choix au propriétaire — la plupart des restaurants toscans acceptent les chiens par défaut. Un panneau 'pas de chiens' à la porte est rare et clairement affiché.",
+        "Les Lungarni en été concentrent les meilleures terrasses dog-friendly pour l'apéritif ; les habitants s'y retrouvent vers 18h avec leur chien.",
+        "Évitez la zone juste autour de la Tour à midi — les restaurants y ciblent les touristes en bus et refusent les chiens plus souvent qu'ailleurs."
+      ],
+      "tipsEs": [
+        "La ley italiana lo deja a discreción del local: la mayoría de los restaurantes toscanos admiten perros por defecto. Un cartel 'no se admiten perros' es raro y se muestra claramente.",
+        "Los Lungarni en verano concentran las mejores terrazas dog-friendly para el aperitivo; los locales empiezan a reunirse hacia las 18:00 con sus perros.",
+        "Evita la franja justo alrededor de la Torre a la hora del almuerzo: los restaurantes ahí están orientados al turismo de autobús y rechazan perros más a menudo que en el resto de la ciudad."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Pisa restaurants?",
+          "a": "In most cafés, trattorias, and gastropubs, yes — Tuscany is broadly dog-friendly indoors. Fine-dining is more variable. Always check for a 'no dogs' sticker at the door before sitting down."
+        },
+        {
+          "q": "Do Italian restaurants charge for water bowls?",
+          "a": "Never. A water bowl is a standard courtesy in dog-friendly venues, and most cafés will refill on request without asking."
+        },
+        {
+          "q": "Is the Pisa restaurant scene more pet-friendly than Florence's?",
+          "a": "Comparable — Pisa is a smaller city so the density is higher, but Florence has more variety. Both follow the standard Italian default of dog-welcoming on terraces."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les restaurants de Pise ?",
+          "a": "Dans la plupart des cafés, trattorias et gastropubs, oui — la Toscane est globalement dog-friendly en intérieur. Les restaurants gastronomiques sont plus variables. Vérifiez toujours qu'aucun autocollant 'pas de chiens' n'est à la porte avant de vous asseoir."
+        },
+        {
+          "q": "Les restaurants italiens facturent-ils la gamelle d'eau ?",
+          "a": "Jamais. La gamelle d'eau est une politesse de base dans les adresses dog-friendly, et la plupart des cafés la rechargent à la demande sans broncher."
+        },
+        {
+          "q": "La scène restauration de Pise est-elle plus pet-friendly que celle de Florence ?",
+          "a": "Comparable — Pise est une plus petite ville donc la densité est plus élevée, mais Florence offre plus de variété. Toutes deux suivent le standard italien d'accueil des chiens en terrasse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Pisa?",
+          "a": "En la mayoría de cafés, trattorias y gastropubs, sí: la Toscana es ampliamente dog-friendly en interior. La alta cocina es más variable. Comprueba siempre que no haya pegatina 'no se admiten perros' en la puerta antes de sentarte."
+        },
+        {
+          "q": "¿Cobran los restaurantes italianos por el cuenco de agua?",
+          "a": "Nunca. El cuenco de agua es una cortesía estándar en los locales dog-friendly, y la mayoría de los cafés lo rellenan bajo petición sin protestar."
+        },
+        {
+          "q": "¿Es la oferta gastronómica de Pisa más pet-friendly que la de Florencia?",
+          "a": "Comparable: Pisa es una ciudad más pequeña así que la densidad es mayor, pero Florencia tiene más variedad. Ambas siguen el estándar italiano de admisión de perros en terraza."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Pisa",
+      "titleFr": "Meilleurs parcs pour chiens à Pise",
+      "titleEs": "Mejores parques para perros en Pisa",
+      "introEn": "Pisa is a small city with disproportionate green-space riches: the 23 000-hectare Parco Migliarino San Rossore Massaciuccoli wraps the city to the north and west, and the central Giardino Scotto fills the eastern Lungarno. Inside the medieval walls, dogs must be leashed throughout, but the surrounding regional park has miles of off-leash forest and pine grove walking. Carry water and a poop bag — Italian park-fines are rare but possible.",
+      "introFr": "Pise est une petite ville aux ressources naturelles disproportionnées : les 23 000 hectares du Parc régional Migliarino San Rossore Massaciuccoli enveloppent la ville au nord et à l'ouest, et le Giardino Scotto central occupe le Lungarno est. Dans les murs médiévaux, la laisse est obligatoire partout, mais le parc régional offre des kilomètres de forêt et de pinède en sans laisse. Emportez de l'eau et un sac — les amendes dans les parcs italiens sont rares mais possibles.",
+      "introEs": "Pisa es una ciudad pequeña con una riqueza de espacios verdes desproporcionada: las 23.000 hectáreas del Parque Regional Migliarino San Rossore Massaciuccoli envuelven la ciudad por el norte y el oeste, y el Giardino Scotto central ocupa el Lungarno este. Dentro de las murallas medievales, la correa es obligatoria en todas partes, pero el parque regional ofrece kilómetros de bosque y pinar para soltarlos. Lleva agua y bolsa: las multas en los parques italianos son raras pero posibles.",
+      "places": [
+        {
+          "name": "Parco Naturale di San Rossore",
+          "address": "Loc. Cascine Vecchie, 56122 Pisa",
+          "neighborhood": "North-west of the city",
+          "photo": "/images/city-places/pisa-parks-parco-naturale-di-san-rossore.jpg",
+          "website": "https://www.parcosanrossore.org/",
+          "description": "The historic royal estate of San Rossore, now an open Tuscan regional park of pine forests, wetlands, and Arno-mouth dunes — over 23 000 hectares within the wider Migliarino park. Dogs are welcome on a leash on most marked paths and off-leash on signposted forest tracks. The Cascine Vecchie visitor centre rents bikes and runs guided pet-friendly walks in summer.",
+          "descriptionFr": "Ancien domaine royal de San Rossore, devenu parc régional toscan ouvert, fait de pinèdes, zones humides et dunes à l'embouchure de l'Arno — plus de 23 000 hectares dans le grand parc Migliarino. Les chiens sont les bienvenus en laisse sur la majorité des sentiers balisés et sans laisse sur des pistes forestières signalées. Le centre visiteur de Cascine Vecchie loue des vélos et organise des balades guidées dog-friendly l'été.",
+          "descriptionEs": "Antigua finca real de San Rossore, hoy parque regional toscano abierto, con pinares, humedales y dunas en la desembocadura del Arno: más de 23.000 hectáreas dentro del gran parque Migliarino. Los perros son bienvenidos con correa en la mayoría de los senderos señalizados y sin correa en pistas forestales marcadas. El centro de visitantes de Cascine Vecchie alquila bicicletas y organiza paseos guiados dog-friendly en verano.",
+          "size": "23 000 hectares (whole park)",
+          "fenced": false,
+          "amenities": [
+            "Marked off-leash forest tracks",
+            "Bike rentals",
+            "Visitor centre at Cascine Vecchie",
+            "Direct beach access at Bocca di Serchio"
+          ],
+          "amenitiesFr": [
+            "Pistes forestières sans laisse balisées",
+            "Location de vélos",
+            "Centre visiteur à Cascine Vecchie",
+            "Accès direct à la plage à Bocca di Serchio"
+          ],
+          "amenitiesEs": [
+            "Pistas forestales sin correa señalizadas",
+            "Alquiler de bicicletas",
+            "Centro de visitantes en Cascine Vecchie",
+            "Acceso directo a la playa en Bocca di Serchio"
+          ],
+          "openingHours": "Daily, daylight only (07:30–sunset)",
+          "tip": "Bus 010 from Pisa Centrale stops near Cascine Vecchie — twenty minutes door-to-door, dog ticket required.",
+          "tipFr": "Le bus 010 de Pisa Centrale dessert Cascine Vecchie — vingt minutes porte à porte, ticket chien obligatoire.",
+          "tipEs": "El bus 010 desde Pisa Centrale para cerca de Cascine Vecchie: veinte minutos puerta a puerta, billete de perro obligatorio.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+San+Rossore+Pisa"
+        },
+        {
+          "name": "Giardino Scotto",
+          "address": "Lungarno Fibonacci, 56125 Pisa",
+          "neighborhood": "South of Arno (city centre)",
+          "photo": "/images/city-places/pisa-parks-giardino-scotto.jpg",
+          "website": "https://www.turismo.pisa.it/en/culture/detail/Giardino-Scotto-00002",
+          "description": "Pisa's principal city garden, set inside the bastions of the 16th-century Cittadella Nuova on the Lungarno Fibonacci. Mature plane trees, gravel paths, fountains, and an open-air theatre. Dogs are welcome on a leash throughout; the lawns are tolerated for a brief sit but not for off-leash running.",
+          "descriptionFr": "Principal jardin de ville de Pise, aménagé dans les bastions de la Cittadella Nuova du XVIe siècle sur le Lungarno Fibonacci. Platanes anciens, allées de gravier, fontaines et théâtre en plein air. Les chiens y sont les bienvenus en laisse partout ; on tolère qu'ils s'installent un moment sur la pelouse mais pas qu'ils courent sans laisse.",
+          "descriptionEs": "El principal jardín municipal de Pisa, dentro de los baluartes de la Cittadella Nuova del siglo XVI sobre el Lungarno Fibonacci. Plátanos maduros, paseos de grava, fuentes y un teatro al aire libre. Los perros son bienvenidos con correa en todo el recinto; se tolera que descansen un rato en el césped, pero no que corran sin correa.",
+          "size": "About 4 hectares",
+          "fenced": true,
+          "amenities": [
+            "Mature shade",
+            "Drinking fountains",
+            "Playground",
+            "Open-air theatre"
+          ],
+          "amenitiesFr": [
+            "Ombre des arbres anciens",
+            "Fontaines d'eau",
+            "Aire de jeux",
+            "Théâtre en plein air"
+          ],
+          "amenitiesEs": [
+            "Sombra de árboles maduros",
+            "Fuentes de agua",
+            "Zona de juegos",
+            "Teatro al aire libre"
+          ],
+          "openingHours": "Daily 07:30–20:30 (winter); 07:30–22:30 (summer)",
+          "tip": "Walk in from the Lungarno entrance — five minutes from Royal Victoria, with dog-friendly café terraces along the riverside.",
+          "tipFr": "Entrez par le côté Lungarno — cinq minutes du Royal Victoria, avec des terrasses de café dog-friendly le long de la rive.",
+          "tipEs": "Entra por el lado del Lungarno: cinco minutos desde el Royal Victoria, con terrazas de café dog-friendly junto al río.",
+          "googleMapsUrl": "https://maps.google.com/?q=Giardino+Scotto+Pisa"
+        },
+        {
+          "name": "Parco Pinerolo Stazione",
+          "address": "Via Cesare Battisti, 56125 Pisa",
+          "neighborhood": "Behind Pisa Centrale station",
+          "photo": "/images/city-places/pisa-parks-parco-pinerolo-stazione.jpg",
+          "website": "https://www.turismo.pisa.it/",
+          "description": "A small but useful neighbourhood park behind Pisa Centrale, the city's only fully fenced municipal area dedicated to dogs. Off-leash inside the enclosure with benches and water taps; the wider park around it requires a leash. The location is ideal for a dog stretch between trains.",
+          "descriptionFr": "Petit parc de quartier mais utile derrière la gare Centrale, seul espace municipal entièrement clôturé dédié aux chiens à Pise. Sans laisse à l'intérieur de l'enclos, avec bancs et robinets ; le parc autour exige la laisse. Emplacement idéal pour dégourdir un chien entre deux trains.",
+          "descriptionEs": "Pequeño parque de barrio pero útil detrás de la estación Centrale, el único espacio municipal totalmente vallado dedicado a perros en Pisa. Sin correa dentro del recinto, con bancos y fuentes; el parque alrededor exige correa. Ubicación ideal para que el perro estire las patas entre trenes.",
+          "size": "Small fenced enclosure (~0.2 hectare)",
+          "fenced": true,
+          "amenities": [
+            "Fenced off-leash zone",
+            "Water taps",
+            "Shaded benches",
+            "5 min from train station"
+          ],
+          "amenitiesFr": [
+            "Zone clôturée sans laisse",
+            "Robinets d'eau",
+            "Bancs ombragés",
+            "5 min de la gare"
+          ],
+          "amenitiesEs": [
+            "Zona vallada sin correa",
+            "Fuentes de agua",
+            "Bancos con sombra",
+            "5 min de la estación"
+          ],
+          "openingHours": "24/7",
+          "tip": "Pop here for a 30-minute off-leash break before catching the regional train to Lucca or Florence — saves you negotiating the rules elsewhere in the city.",
+          "tipFr": "Faites un saut ici pour 30 minutes sans laisse avant de prendre le train régional vers Lucques ou Florence — vous évitez de négocier les règles ailleurs en ville.",
+          "tipEs": "Pásate aquí 30 minutos sin correa antes de tomar el tren regional a Lucca o Florencia: te ahorras negociar las normas en el resto de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pinerolo+Pisa"
+        }
+      ],
+      "tipsEn": [
+        "Italian municipal parks default to leashed dogs only — the off-leash exception is the fenced Pinerolo enclosure and signposted sections of San Rossore.",
+        "San Rossore's main entrance closes at sunset; plan beach-and-park combos to finish the dog walk before then.",
+        "Pisa city centre enforces a 'pulizia' rule: not picking up after a dog can earn a €50–150 fine, though enforcement is light."
+      ],
+      "tipsFr": [
+        "Les parcs municipaux italiens imposent la laisse par défaut — l'exception sans laisse est l'enclos clôturé du Pinerolo et les sections balisées de San Rossore.",
+        "L'entrée principale de San Rossore ferme au coucher du soleil ; prévoyez les combos plage-parc pour terminer la balade canine avant.",
+        "Le centre de Pise applique la règle 'pulizia' : ne pas ramasser peut entraîner une amende de 50 à 150 €, même si l'application reste souple."
+      ],
+      "tipsEs": [
+        "Los parques municipales italianos exigen correa por defecto: la excepción sin correa es el recinto vallado de Pinerolo y los tramos señalizados de San Rossore.",
+        "La entrada principal de San Rossore cierra al atardecer; planifica los combos playa+parque para terminar el paseo canino antes.",
+        "El centro de Pisa aplica la norma 'pulizia': no recoger las deposiciones puede acarrear una multa de 50 a 150 €, aunque la aplicación es flexible."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run completely off-leash in Pisa?",
+          "a": "The fenced Pinerolo enclosure behind the train station and the signposted forest tracks of San Rossore are the only confirmed off-leash zones."
+        },
+        {
+          "q": "Are dogs allowed in Giardino Scotto?",
+          "a": "Yes, on a leash. The garden has shade, water fountains, and a playground; off-leash use is not permitted."
+        },
+        {
+          "q": "Is San Rossore reachable without a car?",
+          "a": "Yes — bus 010 from Pisa Centrale stops near the Cascine Vecchie visitor centre. The journey takes about 20 minutes; you'll need a dog ticket for medium and large breeds."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Pise ?",
+          "a": "L'enclos clôturé du Pinerolo derrière la gare et les pistes forestières balisées de San Rossore sont les seules zones sans laisse confirmées."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au Giardino Scotto ?",
+          "a": "Oui, en laisse. Le jardin offre de l'ombre, des fontaines et une aire de jeux ; le sans laisse n'est pas autorisé."
+        },
+        {
+          "q": "San Rossore est-il accessible sans voiture ?",
+          "a": "Oui — le bus 010 de Pisa Centrale dessert le centre visiteur de Cascine Vecchie. Le trajet dure environ 20 minutes ; un ticket chien est nécessaire pour les races moyennes et grandes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Pisa?",
+          "a": "El recinto vallado de Pinerolo detrás de la estación y las pistas forestales señalizadas de San Rossore son las únicas zonas sin correa confirmadas."
+        },
+        {
+          "q": "¿Se admiten perros en el Giardino Scotto?",
+          "a": "Sí, con correa. El jardín tiene sombra, fuentes y zona de juegos; soltarlos no está permitido."
+        },
+        {
+          "q": "¿Es San Rossore accesible sin coche?",
+          "a": "Sí: el bus 010 desde Pisa Centrale llega al centro de visitantes de Cascine Vecchie. El trayecto dura unos 20 minutos; hace falta billete de perro para razas medianas y grandes."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Pisa",
+      "titleFr": "Transports acceptant les animaux à Pise",
+      "titleEs": "Transporte para mascotas en Pisa",
+      "introEn": "Pisa's local transport runs on the CTT Nord bus network, with national rail by Trenitalia from Pisa Centrale. The standard Italian rules apply: small dogs in a closed carrier (max 70 × 30 × 50 cm) travel free; medium and large dogs need a half-fare ticket on regional trains and a leash plus muzzle on buses. From summer 2024, Trenitalia has experimented with free dog tickets on some routes — always check the booking page before travel.",
+      "introFr": "Le transport local à Pise est exploité par le réseau CTT Nord, avec le rail national assuré par Trenitalia depuis Pisa Centrale. Les règles italiennes standard s'appliquent : petits chiens en panier fermé (max 70 × 30 × 50 cm) gratuits ; chiens moyens et grands doivent acheter un ticket demi-tarif sur les trains régionaux et porter laisse + muselière sur les bus. Depuis l'été 2024, Trenitalia teste la gratuité sur certaines lignes — vérifiez toujours la page de réservation avant le départ.",
+      "introEs": "El transporte local de Pisa se gestiona con la red CTT Nord, con el ferrocarril nacional operado por Trenitalia desde Pisa Centrale. Se aplican las reglas italianas estándar: perros pequeños en transportín cerrado (máx. 70 × 30 × 50 cm) viajan gratis; los perros medianos y grandes necesitan un billete a mitad de precio en trenes regionales y correa más bozal en autobuses. Desde el verano de 2024, Trenitalia ha probado tickets gratuitos para perros en algunas rutas: comprueba siempre la página de reserva antes de viajar.",
+      "places": [
+        {
+          "name": "CTT Nord buses & Pisa Centrale trains",
+          "address": "Citywide; main hubs at Pisa Centrale and Piazza Sant'Antonio",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/pisa-transport-ctt-nord-buses-pisa-centrale-trains.jpg",
+          "website": "https://pisa.cttnord.it/",
+          "description": "CTT Nord runs the buses connecting central Pisa, the Tower, the airport (LAM Rossa line), and Marina di Pisa beach. Small pets travel free in carriers; large dogs require a leash, muzzle, and an extra ticket. Trenitalia regional trains from Pisa Centrale handle the connections to Lucca (30 minutes), Florence (60 minutes), and Livorno (15 minutes).",
+          "descriptionFr": "CTT Nord exploite les bus qui relient le centre de Pise, la Tour, l'aéroport (ligne LAM Rossa) et la plage de Marina di Pisa. Les petits animaux voyagent gratuitement en panier ; les grands chiens ont besoin d'une laisse, d'une muselière et d'un ticket supplémentaire. Les trains régionaux Trenitalia depuis Pisa Centrale assurent les liaisons vers Lucques (30 min), Florence (60 min) et Livourne (15 min).",
+          "descriptionEs": "CTT Nord opera los autobuses que conectan el centro de Pisa, la Torre, el aeropuerto (línea LAM Rossa) y la playa de Marina di Pisa. Las mascotas pequeñas viajan gratis en transportín; los perros grandes necesitan correa, bozal y un billete adicional. Los trenes regionales de Trenitalia desde Pisa Centrale enlazan con Lucca (30 min), Florencia (60 min) y Livorno (15 min).",
+          "petPolicy": "Small pets in carrier free; large dogs need ticket, leash, and muzzle on buses",
+          "petPolicyFr": "Petits animaux en panier gratuits ; grands chiens : ticket, laisse et muselière obligatoires en bus",
+          "petPolicyEs": "Mascotas pequeñas en transportín gratis; perros grandes necesitan billete, correa y bozal en autobuses",
+          "openingHours": "First service ~05:30, last ~24:00",
+          "tip": "The LAM Rossa airport bus runs every 10 minutes from Pisa Centrale via the Tower — buy your dog ticket onboard with contactless payment.",
+          "tipFr": "Le bus LAM Rossa pour l'aéroport part toutes les 10 minutes de Pisa Centrale via la Tour — achetez le ticket chien à bord en sans contact.",
+          "tipEs": "El bus LAM Rossa al aeropuerto sale cada 10 minutos desde Pisa Centrale pasando por la Torre: compra el billete del perro a bordo con pago contactless.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pisa+Centrale+station"
+        }
+      ],
+      "tipsEn": [
+        "On Trenitalia regional trains, dogs over the carrier-size limit need a ticket at half the standard fare. Frecciarossa and Frecciargento charge full second-class fare instead.",
+        "The Pisa-Mover funicular linking Pisa Centrale to Pisa Airport accepts dogs of any size in a carrier; large leashed dogs travel free.",
+        "Most Pisa taxi drivers accept pets but it's at their discretion — mention 'cane' (dog) at booking."
+      ],
+      "tipsFr": [
+        "Sur les trains régionaux Trenitalia, les chiens dépassant la taille du panier ont besoin d'un ticket à demi-tarif. Frecciarossa et Frecciargento appliquent le plein tarif seconde classe.",
+        "Le Pisa-Mover qui relie Pisa Centrale à l'aéroport accepte les chiens en panier sans condition de taille ; les grands chiens en laisse voyagent gratuitement.",
+        "La plupart des chauffeurs de taxi à Pise acceptent les animaux à leur discrétion — précisez 'cane' (chien) à la réservation."
+      ],
+      "tipsEs": [
+        "En los trenes regionales de Trenitalia, los perros que superan el tamaño del transportín necesitan un billete a mitad de la tarifa estándar. Frecciarossa y Frecciargento aplican la tarifa completa de segunda clase.",
+        "El Pisa-Mover que conecta Pisa Centrale con el aeropuerto admite perros de cualquier tamaño en transportín; los perros grandes con correa viajan gratis.",
+        "La mayoría de los taxistas de Pisa aceptan mascotas a su discreción: indica 'cane' (perro) al reservar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a ticket for my dog on Pisa buses?",
+          "a": "Small pets in a closed carrier travel free. Medium and large dogs need a single CTT Nord ticket plus a leash and muzzle. Service dogs ride free without paperwork."
+        },
+        {
+          "q": "Can I take my dog from Pisa to Florence by train?",
+          "a": "Yes — buy a regional half-fare ticket for medium and large dogs (around €5 in 2026). Small dogs in a carrier travel free. The Frecciarossa high-speed alternative charges full fare instead."
+        },
+        {
+          "q": "Is the Pisa airport accessible with a dog?",
+          "a": "Yes — the Pisa-Mover funicular accepts pets, and check-in for outbound flights follows airline rules. Always confirm carrier size and travel-cabin limits with your airline before flying."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket pour mon chien dans les bus de Pise ?",
+          "a": "Les petits animaux en panier fermé voyagent gratuitement. Les chiens moyens et grands ont besoin d'un ticket simple CTT Nord plus laisse et muselière. Les chiens d'assistance voyagent gratuitement sans formalité."
+        },
+        {
+          "q": "Puis-je emmener mon chien de Pise à Florence en train ?",
+          "a": "Oui — achetez un ticket régional demi-tarif pour les chiens moyens et grands (environ 5 € en 2026). Les petits chiens en panier voyagent gratuitement. Le Frecciarossa haute vitesse facture le plein tarif."
+        },
+        {
+          "q": "L'aéroport de Pise est-il accessible avec un chien ?",
+          "a": "Oui — le Pisa-Mover accepte les animaux, et l'enregistrement des vols suit les règles de la compagnie. Vérifiez toujours la taille du panier et les limites en cabine avec votre compagnie avant de voler."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta billete para el perro en los autobuses de Pisa?",
+          "a": "Las mascotas pequeñas en transportín cerrado viajan gratis. Los perros medianos y grandes necesitan un billete simple de CTT Nord más correa y bozal. Los perros de asistencia viajan gratis sin trámites."
+        },
+        {
+          "q": "¿Puedo llevar al perro de Pisa a Florencia en tren?",
+          "a": "Sí: compra un billete regional a mitad de precio para perros medianos y grandes (unos 5 € en 2026). Los perros pequeños en transportín viajan gratis. El Frecciarossa de alta velocidad cobra la tarifa completa."
+        },
+        {
+          "q": "¿Es accesible el aeropuerto de Pisa con perro?",
+          "a": "Sí: el Pisa-Mover admite mascotas, y la facturación para vuelos sigue las reglas de la aerolínea. Confirma siempre el tamaño del transportín y los límites en cabina con tu aerolínea antes de volar."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Pisa",
+      "titleFr": "Plages dog-friendly près de Pise",
+      "titleEs": "Playas dog-friendly cerca de Pisa",
+      "introEn": "Pisa is 10 km inland but Marina di Pisa, Tirrenia, and the Bocca di Serchio sit on the Tyrrhenian coast at the edge of the Migliarino San Rossore park, all reachable by city bus. Italian beaches enforce a strict seasonal split: from June to mid-September, dogs are restricted to designated 'spiaggia per cani' sections; the rest of the year the whole coast opens up. Carry water and a towel — Tuscan sand can hit 50 °C in July.",
+      "introFr": "Pise est à 10 km de la mer, mais Marina di Pisa, Tirrenia et la Bocca di Serchio se trouvent sur la côte tyrrhénienne à la lisière du parc Migliarino San Rossore, tous accessibles en bus urbain. Les plages italiennes appliquent une stricte distinction saisonnière : de juin à mi-septembre, les chiens sont restreints aux sections 'spiaggia per cani' désignées ; le reste de l'année, toute la côte s'ouvre. Emportez eau et serviette — le sable toscan peut atteindre 50 °C en juillet.",
+      "introEs": "Pisa está a 10 km del mar, pero Marina di Pisa, Tirrenia y la Bocca di Serchio están en la costa tirrena en el linde del parque Migliarino San Rossore, todas accesibles en autobús urbano. Las playas italianas aplican una estricta separación estacional: de junio a mediados de septiembre, los perros se restringen a las secciones 'spiaggia per cani' designadas; el resto del año se abre toda la costa. Lleva agua y toalla: la arena toscana puede alcanzar 50 °C en julio.",
+      "places": [
+        {
+          "name": "Marina di Pisa Dog Beach",
+          "address": "Via Litoranea, 56128 Marina di Pisa",
+          "neighborhood": "Marina di Pisa (10 km west of centre)",
+          "photo": "/images/city-places/pisa-beaches-marina-di-pisa-dog-beach.jpg",
+          "website": "https://www.parcosanrossore.org/spiagge/",
+          "description": "The closest sea beach to the city, with several signposted 'spiaggia per cani' sections that operate year-round. The southern stretch toward Calambrone has the highest concentration of dog-tolerant lidos and free beach access. CTT Nord bus 010 from Pisa Centrale runs hourly in summer.",
+          "descriptionFr": "Plage la plus proche de la ville, avec plusieurs sections 'spiaggia per cani' balisées ouvertes toute l'année. La portion sud vers Calambrone concentre les lidos les plus tolérants aux chiens et les accès libres à la plage. Le bus CTT Nord 010 depuis Pisa Centrale circule toutes les heures l'été.",
+          "descriptionEs": "La playa más cercana a la ciudad, con varias secciones 'spiaggia per cani' señalizadas abiertas todo el año. El tramo sur hacia Calambrone concentra los lidos más tolerantes con perros y los accesos libres a la playa. El bus CTT Nord 010 desde Pisa Centrale pasa cada hora en verano.",
+          "petPolicy": "Year-round dog beach in marked sections; off-leash tolerated outside July–August",
+          "petPolicyFr": "Plage canine toute l'année dans les sections balisées ; sans laisse toléré hors juillet-août",
+          "petPolicyEs": "Playa canina todo el año en secciones marcadas; sin correa tolerado fuera de julio y agosto",
+          "openingHours": "24/7 (free beach); lidos seasonal",
+          "tip": "Aim for the section between bagno Lido degli Animali and bagno Tirreno — the dog signage is clearest there.",
+          "tipFr": "Visez la section entre bagno Lido degli Animali et bagno Tirreno — la signalétique canine y est la plus claire.",
+          "tipEs": "Apunta al tramo entre bagno Lido degli Animali y bagno Tirreno: la señalización canina es la más clara ahí.",
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+di+Pisa+spiaggia+cani"
+        },
+        {
+          "name": "Bocca di Serchio (Migliarino park)",
+          "address": "Bocca di Serchio, 56122 Pisa",
+          "neighborhood": "Within Migliarino San Rossore Massaciuccoli park",
+          "photo": "/images/city-places/pisa-beaches-bocca-di-serchio-migliarino-park.jpg",
+          "website": "https://www.parcosanrossore.org/",
+          "description": "A wild beach where the river Serchio meets the Tyrrhenian Sea, inside the Migliarino regional park. Reached on foot or by bike from the Cascine Vecchie visitor centre, this is the city's most natural seafront experience: pine groves, dunes, almost no commercial development. Dogs are welcome on the marked dog stretch year-round.",
+          "descriptionFr": "Plage sauvage à l'embouchure du Serchio sur la mer Tyrrhénienne, à l'intérieur du parc régional de Migliarino. Accessible à pied ou à vélo depuis le centre visiteur de Cascine Vecchie, c'est l'expérience littorale la plus naturelle de la ville : pinèdes, dunes, presque aucun aménagement commercial. Les chiens sont les bienvenus sur la section canine balisée toute l'année.",
+          "descriptionEs": "Playa salvaje donde el río Serchio se encuentra con el mar Tirreno, dentro del parque regional de Migliarino. Se llega a pie o en bici desde el centro de visitantes de Cascine Vecchie; es la experiencia costera más natural de la ciudad: pinares, dunas, casi sin desarrollo comercial. Los perros son bienvenidos en el tramo canino señalizado todo el año.",
+          "petPolicy": "Year-round access on marked dog section; off-leash tolerated when quiet",
+          "petPolicyFr": "Accès toute l'année sur la section canine balisée ; sans laisse toléré quand c'est calme",
+          "petPolicyEs": "Acceso todo el año en el tramo canino marcado; sin correa tolerado cuando hay poca gente",
+          "openingHours": "Daily, daylight only",
+          "tip": "Hire a bike at Cascine Vecchie for the 4 km flat ride to Bocca di Serchio — the route is fully shaded and dog-friendly.",
+          "tipFr": "Louez un vélo à Cascine Vecchie pour les 4 km plats jusqu'à Bocca di Serchio — l'itinéraire est entièrement ombragé et dog-friendly.",
+          "tipEs": "Alquila una bici en Cascine Vecchie para los 4 km llanos hasta Bocca di Serchio: la ruta está totalmente sombreada y es dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bocca+di+Serchio+San+Rossore"
+        },
+        {
+          "name": "Calambrone (off-season)",
+          "address": "Viale del Tirreno, 56128 Calambrone",
+          "neighborhood": "Calambrone (15 km south-west)",
+          "photo": "/images/city-places/pisa-beaches-calambrone-off-season.jpg",
+          "website": "https://www.turismo.pisa.it/",
+          "description": "A long stretch of free public beach south of Marina di Pisa, with pine forests behind. From October to May, the entire shoreline opens to off-leash dogs; in summer, only the marked dog sections remain accessible. The flat sand and shallow surf make it well-suited for older or less athletic dogs.",
+          "descriptionFr": "Longue portion de plage publique gratuite au sud de Marina di Pisa, adossée à des pinèdes. D'octobre à mai, tout le littoral s'ouvre au sans laisse ; en été, seules les sections canines balisées restent accessibles. Le sable plat et la faible houle conviennent aux chiens âgés ou peu sportifs.",
+          "descriptionEs": "Largo tramo de playa pública gratuita al sur de Marina di Pisa, con pinares detrás. De octubre a mayo, toda la orilla se abre a perros sueltos; en verano, solo quedan accesibles las secciones caninas marcadas. La arena plana y el oleaje suave la hacen muy adecuada para perros mayores o poco atléticos.",
+          "petPolicy": "Off-leash 1 Oct–31 May; marked dog sections only 1 Jun–30 Sep",
+          "petPolicyFr": "Sans laisse du 1er oct au 31 mai ; sections canines balisées uniquement du 1er juin au 30 sept",
+          "petPolicyEs": "Sin correa del 1 oct al 31 may; solo secciones caninas marcadas del 1 jun al 30 sep",
+          "openingHours": "24/7",
+          "tip": "October and April are the best months — empty beaches, mild water, no seasonal restrictions.",
+          "tipFr": "Octobre et avril sont les meilleurs mois — plages vides, eau douce, pas de restriction saisonnière.",
+          "tipEs": "Octubre y abril son los mejores meses: playas vacías, agua templada, sin restricciones estacionales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Calambrone+Pisa"
+        }
+      ],
+      "tipsEn": [
+        "Italian 'spiaggia per cani' beaches are explicitly signposted with a green dog icon — these stay open year-round, including peak summer.",
+        "From 1 June to mid-September, most other beach sections ban dogs by default. Verify the dog-status of any free beach (spiaggia libera) before assuming.",
+        "Pisa beaches are open public access (spiaggia libera) with no entry fee outside the lidos; bring your own umbrella and water for the dog."
+      ],
+      "tipsFr": [
+        "Les plages 'spiaggia per cani' italiennes sont explicitement signalées par un pictogramme vert — elles restent ouvertes toute l'année, y compris en plein été.",
+        "Du 1er juin à mi-septembre, la plupart des autres sections de plage interdisent les chiens par défaut. Vérifiez le statut canin de toute spiaggia libera avant de vous installer.",
+        "Les plages de Pise sont en accès libre (spiaggia libera) hors lidos ; emportez votre parasol et de l'eau pour le chien."
+      ],
+      "tipsEs": [
+        "Las playas italianas 'spiaggia per cani' están explícitamente señalizadas con un icono verde de perro: permanecen abiertas todo el año, incluido el pleno verano.",
+        "Del 1 de junio a mediados de septiembre, la mayoría de los demás tramos de playa prohíben perros por defecto. Verifica el estatus canino de cualquier spiaggia libera antes de instalarte.",
+        "Las playas de Pisa son de acceso libre (spiaggia libera) fuera de los lidos: lleva tu sombrilla y agua para el perro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed on Marina di Pisa beach in summer?",
+          "a": "Only in marked 'spiaggia per cani' sections — the rest of the beach bans dogs from 1 June to mid-September. The dog sections south toward Calambrone stay open."
+        },
+        {
+          "q": "Can my dog swim in the Tyrrhenian Sea here?",
+          "a": "Yes — the surf is gentle along Marina di Pisa and Calambrone. Rinse the dog with fresh water afterwards (showers are at most lidos) to remove salt and sand."
+        },
+        {
+          "q": "Is there a paid 'lido' for dogs in Marina di Pisa?",
+          "a": "Yes — Lido degli Animali (Marina di Pisa) is a paid beach club with sun-loungers, dog amenities, and a dog menu. Pre-booking online is advisable for July and August weekends."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés à Marina di Pisa en été ?",
+          "a": "Uniquement dans les sections 'spiaggia per cani' balisées — le reste de la plage les interdit du 1er juin à mi-septembre. Les sections canines au sud vers Calambrone restent ouvertes."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans la mer Tyrrhénienne ici ?",
+          "a": "Oui — la houle est douce le long de Marina di Pisa et Calambrone. Rincez le chien à l'eau douce ensuite (douches dans la plupart des lidos) pour retirer sel et sable."
+        },
+        {
+          "q": "Y a-t-il un 'lido' payant pour chiens à Marina di Pisa ?",
+          "a": "Oui — le Lido degli Animali (Marina di Pisa) est un club de plage payant avec transats, équipements canins et menu chien. Réservation en ligne conseillée pour les week-ends de juillet-août."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en la playa de Marina di Pisa en verano?",
+          "a": "Solo en las secciones 'spiaggia per cani' marcadas: el resto de la playa los prohíbe del 1 de junio a mediados de septiembre. Las secciones caninas al sur hacia Calambrone se mantienen abiertas."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en el mar Tirreno aquí?",
+          "a": "Sí: el oleaje es suave a lo largo de Marina di Pisa y Calambrone. Enjuaga al perro con agua dulce después (hay duchas en la mayoría de los lidos) para retirar sal y arena."
+        },
+        {
+          "q": "¿Hay un 'lido' de pago para perros en Marina di Pisa?",
+          "a": "Sí: el Lido degli Animali (Marina di Pisa) es un club de playa de pago con tumbonas, servicios caninos y carta para perros. Conviene reservar online para los fines de semana de julio y agosto."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Pisa",
+      "titleFr": "Cliniques vétérinaires et urgences à Pise",
+      "titleEs": "Clínicas veterinarias y urgencias en Pisa",
+      "introEn": "Pisa hosts the University of Pisa's veterinary teaching hospital, one of the most respected in Italy, with a 24-hour pronto soccorso. Several private clinics also offer 24/7 service in the wider city. Costs are about 30% lower than Florence; English service is available in clinics linked to the university and the international community. Always carry the EU pet passport.",
+      "introFr": "Pise accueille l'hôpital didactique vétérinaire de l'Université de Pise, l'un des plus respectés d'Italie, avec un pronto soccorso 24h/24. Plusieurs cliniques privées offrent aussi un service 24h/24 dans le grand Pise. Les coûts sont environ 30 % inférieurs à Florence ; l'anglais est disponible dans les cliniques liées à l'université et à la communauté internationale. Emportez toujours le passeport européen.",
+      "introEs": "Pisa alberga el hospital didáctico veterinario de la Universidad de Pisa, uno de los más respetados de Italia, con un pronto soccorso 24 horas. Varias clínicas privadas también ofrecen servicio 24/7 en la zona metropolitana. Los costes son aproximadamente un 30 % inferiores a los de Florencia; el inglés está disponible en clínicas vinculadas a la universidad y a la comunidad internacional. Lleva siempre el pasaporte europeo.",
+      "places": [
+        {
+          "name": "Ospedale Didattico Veterinario UNIPI (24h)",
+          "address": "Via Livornese, San Piero a Grado, 56122 Pisa",
+          "neighborhood": "San Piero a Grado (8 km west of centre)",
+          "photo": "/images/city-places/pisa-vets-ospedale-didattico-veterinario-unipi-24h.jpg",
+          "website": "https://ospedale.vet.unipi.it/",
+          "description": "The University of Pisa's veterinary teaching hospital, with a 24-hour emergency room (pronto soccorso) operating 365 days a year. Equipped for surgery, intensive care, advanced imaging, and specialised referral departments. The teaching context means you may be seen by both senior staff and supervised residents — service quality is uniformly high.",
+          "descriptionFr": "Hôpital universitaire vétérinaire de Pise, avec urgence 24h/24 (pronto soccorso) ouverte 365 jours par an. Équipé pour la chirurgie, les soins intensifs, l'imagerie avancée et les services de référence spécialisés. Le contexte universitaire fait que vous pouvez être vu par des seniors comme par des résidents supervisés — la qualité de service reste élevée et constante.",
+          "descriptionEs": "Hospital universitario veterinario de Pisa, con urgencia 24 horas (pronto soccorso) abierta 365 días al año. Equipado para cirugía, cuidados intensivos, diagnóstico por imagen avanzado y servicios de referencia especializados. El contexto universitario implica que puedes ser atendido por personal sénior y por residentes supervisados: la calidad del servicio es uniformemente alta.",
+          "phone": "+39 050 221 0177",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "About 15 minutes by taxi from the Old Town — the bus 010 also stops nearby during the day.",
+          "tipFr": "Environ 15 minutes en taxi depuis la vieille ville — le bus 010 s'y arrête aussi en journée.",
+          "tipEs": "A unos 15 minutos en taxi desde el casco antiguo: el autobús 010 también para cerca durante el día.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+didattico+veterinario+Pisa"
+        },
+        {
+          "name": "Ambulatorio Veterinario Loni Marcucci Lami",
+          "address": "Via Cisanello 96, 56124 Pisa",
+          "neighborhood": "Cisanello (east of centre)",
+          "photo": "/images/city-places/pisa-vets-ambulatorio-veterinario-loni-marcucci-lami.jpg",
+          "website": "https://www.ambulatorioveterinariopisa.it/",
+          "description": "A long-running private veterinary practice in Cisanello with a 24-hour emergency line. Strong general medicine and dermatology, with English-speaking vets on staff. Useful as a first-line option closer to the centre than the university hospital.",
+          "descriptionFr": "Cabinet vétérinaire privé établi de longue date à Cisanello, avec ligne d'urgence 24h/24. Solide médecine générale et dermatologie, avec des vétérinaires anglophones. Utile comme option de première ligne, plus proche du centre que l'hôpital universitaire.",
+          "descriptionEs": "Consulta veterinaria privada veterana en Cisanello, con línea de urgencias 24/7. Buena medicina general y dermatología, con veterinarios angloparlantes en plantilla. Útil como opción de primera línea, más cercana al centro que el hospital universitario.",
+          "phone": "+39 329 759 0210",
+          "openingHours": "Mon–Sat 08:30–20:00; emergency line 24/7",
+          "tip": "Call the emergency number at night before driving — the on-call vet may direct you straight to the university hospital instead.",
+          "tipFr": "Appelez le numéro d'urgence la nuit avant de venir — le vétérinaire de garde peut vous orienter directement vers l'hôpital universitaire.",
+          "tipEs": "Llama al número de urgencias por la noche antes de ir: el veterinario de guardia puede derivarte directamente al hospital universitario.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Loni+Marcucci+Lami+Pisa"
+        }
+      ],
+      "tipsEn": [
+        "Italy uses the EU pet passport — bring it; clinics record vaccinations directly into the booklet, simplifying any onward Schengen travel.",
+        "Card payment is the norm at all 24/7 clinics; emergency consultations typically start at €60–80 plus medication.",
+        "Italian veterinary medicine is high-quality and significantly cheaper than France or Germany; the Pisa university hospital handles complex cases referred from across Tuscany."
+      ],
+      "tipsFr": [
+        "L'Italie applique le passeport européen — apportez-le ; les cliniques y inscrivent les vaccinations, ce qui simplifie tout déplacement ultérieur dans l'espace Schengen.",
+        "Le paiement par carte est la norme dans toutes les cliniques 24/7 ; les consultations d'urgence démarrent généralement à 60-80 € plus médicaments.",
+        "La médecine vétérinaire italienne est de qualité et nettement moins chère qu'en France ou en Allemagne ; l'hôpital universitaire de Pise traite des cas complexes référés depuis toute la Toscane."
+      ],
+      "tipsEs": [
+        "Italia aplica el pasaporte europeo: tráelo; las clínicas anotan las vacunaciones directamente en él, lo que simplifica cualquier viaje posterior por Schengen.",
+        "El pago con tarjeta es la norma en todas las clínicas 24/7; las consultas de urgencia suelen empezar en 60-80 € más medicación.",
+        "La medicina veterinaria italiana es de calidad y bastante más barata que la de Francia o Alemania; el hospital universitario de Pisa atiende casos complejos derivados desde toda la Toscana."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour vet to Pisa Old Town?",
+          "a": "The Ambulatorio Veterinario Loni Marcucci Lami in Cisanello (about 10 minutes by taxi) handles most urgent cases. The University Veterinary Hospital in San Piero a Grado is fifteen minutes by taxi but better-equipped for major surgery."
+        },
+        {
+          "q": "Do Pisa vets speak English?",
+          "a": "Yes, in clinics linked to the university and the international community. The teaching hospital staff are uniformly English-fluent."
+        },
+        {
+          "q": "Are veterinary services in Pisa expensive?",
+          "a": "No — significantly cheaper than France or Germany. A standard consultation is around €40-50, and emergency consultations start at €60-80."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire 24h/24 le plus proche de la vieille ville de Pise ?",
+          "a": "L'Ambulatorio Veterinario Loni Marcucci Lami à Cisanello (environ 10 minutes en taxi) gère la plupart des urgences. L'hôpital universitaire de San Piero a Grado est à quinze minutes en taxi mais mieux équipé pour la grosse chirurgie."
+        },
+        {
+          "q": "Les vétérinaires de Pise parlent-ils anglais ?",
+          "a": "Oui, dans les cliniques liées à l'université et à la communauté internationale. Le personnel de l'hôpital universitaire parle anglais couramment."
+        },
+        {
+          "q": "Les soins vétérinaires sont-ils chers à Pise ?",
+          "a": "Non — nettement moins chers qu'en France ou en Allemagne. Une consultation standard tourne autour de 40-50 €, les consultations d'urgence démarrent à 60-80 €."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario 24 horas más cercano al casco antiguo de Pisa?",
+          "a": "El Ambulatorio Veterinario Loni Marcucci Lami en Cisanello (a unos 10 minutos en taxi) gestiona la mayoría de las urgencias. El Hospital Veterinario Universitario en San Piero a Grado está a quince minutos en taxi y está mejor equipado para cirugía mayor."
+        },
+        {
+          "q": "¿Los veterinarios de Pisa hablan inglés?",
+          "a": "Sí, en las clínicas vinculadas a la universidad y a la comunidad internacional. El personal del hospital universitario habla inglés con fluidez."
+        },
+        {
+          "q": "¿Son caros los servicios veterinarios en Pisa?",
+          "a": "No: bastante más baratos que en Francia o Alemania. Una consulta estándar ronda los 40-50 €, y las de urgencia empiezan en 60-80 €."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Pisa",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Pise",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Pisa",
+      "introEn": "Pisa is one of the easiest Tuscan cities to visit with a dog: a compact UNESCO core, the Tyrrhenian coast 10 km away, the San Rossore regional park on the doorstep, and the university veterinary hospital nearby. The two things to plan around are the strict Piazza dei Miracoli pet ban (assistance dogs only) and the summer beach calendar at Marina di Pisa. The tips below capture the rules visitors actually run into.",
+      "introFr": "Pise est l'une des villes toscanes les plus simples à visiter avec un chien : centre UNESCO compact, côte tyrrhénienne à 10 km, parc régional de San Rossore aux portes de la ville, et hôpital universitaire vétérinaire à proximité. Les deux points à anticiper sont l'interdiction stricte des animaux sur la Piazza dei Miracoli (chiens d'assistance uniquement) et le calendrier estival des plages à Marina di Pisa. Les conseils ci-dessous couvrent les règles que les visiteurs rencontrent vraiment.",
+      "introEs": "Pisa es una de las ciudades toscanas más sencillas para visitar con perro: un núcleo UNESCO compacto, la costa tirrena a 10 km, el parque regional de San Rossore a las puertas y el hospital universitario veterinario cerca. Los dos puntos a anticipar son la prohibición estricta de mascotas en la Piazza dei Miracoli (solo perros de asistencia) y el calendario estival de las playas en Marina di Pisa. Los consejos siguientes cubren las normas que los visitantes encuentran de verdad.",
+      "places": [],
+      "tipsEn": [
+        "The Piazza dei Miracoli monuments (Tower, Cathedral, Baptistery, Camposanto) admit only assistance dogs — the surrounding Field of Miracles lawn is leash-friendly and free.",
+        "Save the University Veterinary Hospital 24/7 number: +39 050 221 0177 (Via Livornese, San Piero a Grado).",
+        "Marina di Pisa has marked year-round dog beaches; in summer (1 June–15 September) keep to the 'spiaggia per cani' sections only."
+      ],
+      "tipsFr": [
+        "Les monuments de la Piazza dei Miracoli (Tour, Cathédrale, Baptistère, Camposanto) n'admettent que les chiens d'assistance — la pelouse environnante est accessible en laisse et gratuite.",
+        "Enregistrez le numéro de l'hôpital universitaire vétérinaire 24h/24 : +39 050 221 0177 (Via Livornese, San Piero a Grado).",
+        "Marina di Pisa a des plages canines balisées toute l'année ; en été (1er juin-15 septembre), restez sur les sections 'spiaggia per cani' uniquement."
+      ],
+      "tipsEs": [
+        "Los monumentos de la Piazza dei Miracoli (Torre, Catedral, Baptisterio, Camposanto) solo admiten perros de asistencia: el césped circundante del Campo de los Milagros es accesible con correa y gratuito.",
+        "Guarda el número del Hospital Veterinario Universitario 24/7: +39 050 221 0177 (Via Livornese, San Piero a Grado).",
+        "Marina di Pisa tiene playas caninas señalizadas todo el año; en verano (1 junio–15 septiembre) quédate solo en las secciones 'spiaggia per cani'."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Pisa a good city for travelling with a dog?",
+          "a": "Yes — affordable, walkable, and well-connected. The compact Old Town pairs with San Rossore and the Tyrrhenian coast for full-day excursions. The main quirk is the Piazza dei Miracoli pet ban inside the monuments."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Italy?",
+          "a": "An EU pet passport (or third-country equivalent), a valid rabies vaccination at least 21 days old, and a microchip. Border checks are minimal but the pet passport must accompany the dog at all times."
+        },
+        {
+          "q": "Can my dog visit the Leaning Tower?",
+          "a": "Only assistance dogs may climb the Tower or enter the Cathedral, Baptistery, or Camposanto. The grass and surrounding paths of the Field of Miracles are leash-friendly and free."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Pise est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — abordable, à taille humaine, bien connectée. Le centre historique compact se combine à San Rossore et à la côte tyrrhénienne pour des excursions à la journée. Le principal frein est l'interdiction des animaux dans les monuments de la Piazza dei Miracoli."
+        },
+        {
+          "q": "Quels documents pour emmener son chien en Italie ?",
+          "a": "Un passeport européen (ou équivalent hors UE), une vaccination antirabique valide datant d'au moins 21 jours, et une puce électronique. Les contrôles aux frontières sont minimes mais le passeport doit accompagner le chien en permanence."
+        },
+        {
+          "q": "Mon chien peut-il visiter la Tour de Pise ?",
+          "a": "Seuls les chiens d'assistance peuvent monter à la Tour ou entrer à la Cathédrale, au Baptistère ou au Camposanto. La pelouse et les allées environnantes du Champ des Miracles sont accessibles en laisse et gratuites."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Pisa una buena ciudad para viajar con perro?",
+          "a": "Sí: asequible, a escala humana y bien conectada. El compacto casco antiguo se combina con San Rossore y la costa tirrena para excursiones de día completo. La principal pega es la prohibición de mascotas en los monumentos de la Piazza dei Miracoli."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Italia?",
+          "a": "Un pasaporte europeo (o equivalente fuera de la UE), una vacunación antirrábica válida con al menos 21 días, y un microchip. Los controles fronterizos son mínimos, pero el pasaporte debe acompañar al perro en todo momento."
+        },
+        {
+          "q": "¿Puede visitar mi perro la Torre Inclinada?",
+          "a": "Solo los perros de asistencia pueden subir a la Torre o entrar a la Catedral, el Baptisterio o el Camposanto. El césped y los paseos circundantes del Campo de los Milagros son accesibles con correa y gratuitos."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Pisa",
+      "titleFr": "Attractions dog-friendly à Pise",
+      "titleEs": "Atracciones para mascotas en Pisa",
+      "introEn": "Pisa's headline draw — the Field of Miracles — is strict on pets indoors but open and free outside. The wider city is unusually well-suited to dog visits: the Lungarno embankments, the Borgo Stretto pedestrian street, and the Piazza dei Cavalieri all welcome leashed dogs, and the city's small footprint means any dog-friendly itinerary fits in half a day. Three of the best below.",
+      "introFr": "L'attraction phare de Pise — le Champ des Miracles — reste strict sur les animaux en intérieur mais ouvert et gratuit à l'extérieur. La ville en général se prête remarquablement bien aux visites avec un chien : les Lungarni, la rue piétonne du Borgo Stretto et la Piazza dei Cavalieri accueillent tous les chiens en laisse, et la petite taille de la ville permet un itinéraire dog-friendly en une demi-journée. Trois des meilleurs ci-dessous.",
+      "introEs": "El reclamo principal de Pisa — el Campo de los Milagros — es estricto con las mascotas en interiores pero abierto y gratuito fuera. La ciudad en general es especialmente apta para visitas con perro: los Lungarni, la calle peatonal de Borgo Stretto y la Piazza dei Cavalieri admiten todos perros con correa, y la pequeña escala de la ciudad permite un itinerario dog-friendly en media jornada. A continuación, tres de los mejores.",
+      "places": [
+        {
+          "name": "Piazza dei Miracoli (exterior)",
+          "address": "Piazza del Duomo, 56126 Pisa",
+          "neighborhood": "North-west corner of the Old Town",
+          "photo": "/images/city-places/pisa-attractions-piazza-dei-miracoli-exterior.jpg",
+          "website": "https://www.opapisa.it/en/",
+          "description": "The Field of Miracles itself — Cathedral, Baptistery, Leaning Tower, Camposanto — is one of the great UNESCO ensembles of Europe. Pets are not admitted to any of the four monuments (only assistance dogs), but the broad lawn that links them is open, free, and leash-friendly. The classic 'holding-up-the-tower' photo is taken from the lawn, dogs welcome.",
+          "descriptionFr": "Le Champ des Miracles — Cathédrale, Baptistère, Tour penchée, Camposanto — l'un des grands ensembles UNESCO d'Europe. Les animaux ne sont admis dans aucun des quatre monuments (chiens d'assistance uniquement), mais la vaste pelouse qui les relie est ouverte, gratuite et accessible en laisse. La photo classique 'qui retient la tour' se prend depuis la pelouse, chiens acceptés.",
+          "descriptionEs": "El Campo de los Milagros — Catedral, Baptisterio, Torre Inclinada, Camposanto — es uno de los grandes conjuntos UNESCO de Europa. Las mascotas no se admiten en ninguno de los cuatro monumentos (solo perros de asistencia), pero el amplio césped que los une está abierto, es gratuito y es accesible con correa. La foto clásica 'sosteniendo la Torre' se toma desde el césped, perros admitidos.",
+          "petPolicy": "Lawn and exterior leash-friendly; assistance dogs only inside the monuments",
+          "petPolicyFr": "Pelouse et extérieur accessibles en laisse ; chiens d'assistance uniquement à l'intérieur des monuments",
+          "petPolicyEs": "Césped y exterior accesibles con correa; solo perros de asistencia dentro de los monumentos",
+          "openingHours": "Lawn 24/7; monuments seasonal (08:00–20:00)",
+          "tip": "Visit at sunrise or after 19:00 — the lawn is calmer, the light is gold, and dogs handle the heat better.",
+          "tipFr": "Venez au lever du soleil ou après 19h — la pelouse est plus calme, la lumière est dorée, et les chiens supportent mieux la chaleur.",
+          "tipEs": "Ve al amanecer o después de las 19:00: el césped está más tranquilo, la luz es dorada y los perros llevan mejor el calor.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+dei+Miracoli+Pisa"
+        },
+        {
+          "name": "Lungarno Mediceo & Lungarno Pacinotti",
+          "address": "Lungarno Mediceo, 56127 Pisa",
+          "neighborhood": "Both banks of the Arno",
+          "photo": "/images/city-places/pisa-attractions-lungarno-mediceo-lungarno-pacinotti.jpg",
+          "website": "https://www.turismo.pisa.it/",
+          "description": "The two paired river embankments running through the heart of Pisa, lined with pastel townhouses, the Royal Victoria hotel, and a chain of dog-friendly café terraces. Cross via the Ponte di Mezzo for the classic Pisa skyline shot. Leashed dogs are welcome the entire length, day or night.",
+          "descriptionFr": "Les deux quais jumeaux qui traversent le cœur de Pise, bordés d'hôtels particuliers pastel, du Royal Victoria et d'une enfilade de terrasses de cafés dog-friendly. Traversez par le Ponte di Mezzo pour la photo classique du skyline de Pise. Les chiens en laisse sont les bienvenus sur toute la longueur, jour comme nuit.",
+          "descriptionEs": "Los dos muelles gemelos que atraviesan el corazón de Pisa, flanqueados por casas señoriales en pastel, el Royal Victoria y una sucesión de terrazas de café dog-friendly. Cruza por el Ponte di Mezzo para la foto clásica del skyline de Pisa. Los perros con correa son bienvenidos a lo largo de todo el recorrido, de día y de noche.",
+          "petPolicy": "Dogs welcome on leash on the embankments and the Ponte di Mezzo",
+          "petPolicyFr": "Chiens acceptés en laisse sur les quais et le Ponte di Mezzo",
+          "petPolicyEs": "Perros admitidos con correa en los muelles y el Ponte di Mezzo",
+          "openingHours": "24/7",
+          "tip": "Walk both banks from Ponte Solferino to Ponte della Fortezza — the loop covers all the best dog-friendly cafés in 90 minutes.",
+          "tipFr": "Faites les deux rives du Ponte Solferino au Ponte della Fortezza — la boucle couvre les meilleurs cafés dog-friendly en 1h30.",
+          "tipEs": "Recorre ambas orillas desde el Ponte Solferino hasta el Ponte della Fortezza: el circuito cubre los mejores cafés dog-friendly en 1h30.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lungarno+Mediceo+Pisa"
+        },
+        {
+          "name": "Piazza dei Cavalieri",
+          "address": "Piazza dei Cavalieri, 56126 Pisa",
+          "neighborhood": "Centro Storico",
+          "photo": "/images/city-places/pisa-attractions-piazza-dei-cavalieri.jpg",
+          "website": "https://www.turismo.pisa.it/en/place/piazza-dei-cavalieri",
+          "description": "The handsome Renaissance square between the Lungarno and the Field of Miracles, fronted by the sgraffito façade of Palazzo della Carovana and the Scuola Normale Superiore. Open public space, leashed dogs welcome at any hour. The square's quiet evenings are the city's best free people-and-dog-watching spot.",
+          "descriptionFr": "Belle place Renaissance entre les Lungarni et le Champ des Miracles, dominée par la façade en sgraffito du Palazzo della Carovana et la Scuola Normale Superiore. Espace public ouvert, chiens en laisse les bienvenus à toute heure. Les soirées calmes de la place sont le meilleur poste d'observation des passants et des chiens à Pise.",
+          "descriptionEs": "Hermosa plaza renacentista entre los Lungarni y el Campo de los Milagros, presidida por la fachada en esgrafiado del Palazzo della Carovana y la Scuola Normale Superiore. Espacio público abierto, perros con correa bienvenidos a cualquier hora. Las noches tranquilas de la plaza son el mejor lugar gratuito para observar a vecinos y a sus perros en Pisa.",
+          "petPolicy": "Dogs welcome on leash; public square 24/7",
+          "petPolicyFr": "Chiens acceptés en laisse ; place publique 24h/24",
+          "petPolicyEs": "Perros admitidos con correa; plaza pública 24/7",
+          "openingHours": "24/7",
+          "tip": "Pause here on the way back from the Field of Miracles — the closing-time exit crowds skip this square, leaving it pleasantly empty by 19:00.",
+          "tipFr": "Faites une pause ici en revenant du Champ des Miracles — la foule qui sort à la fermeture évite cette place, qui se vide agréablement à 19h.",
+          "tipEs": "Haz una pausa aquí al volver del Campo de los Milagros: la multitud que sale al cierre evita esta plaza, que se queda agradablemente vacía hacia las 19:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+dei+Cavalieri+Pisa"
+        }
+      ],
+      "tipsEn": [
+        "Pisa's main museums (Museo Nazionale di San Matteo, Palazzo Blu) admit only assistance dogs — plan a sitter or split visits with travel companions.",
+        "The Field of Miracles is heavily visited 10:00–17:00; for the best dog-friendly atmosphere, go before 09:00 or after 18:00.",
+        "Pisa is small enough that the Tower, the Lungarno, the Cavalieri square, and Giardino Scotto are all walkable in a single 90-minute loop with a leashed dog."
+      ],
+      "tipsFr": [
+        "Les principaux musées de Pise (Museo Nazionale di San Matteo, Palazzo Blu) n'admettent que les chiens d'assistance — prévoyez un sitter ou répartissez la visite entre compagnons.",
+        "La Piazza dei Miracoli est très fréquentée de 10h à 17h ; pour la meilleure ambiance dog-friendly, visez avant 9h ou après 18h.",
+        "Pise est assez compacte pour faire la Tour, le Lungarno, la place des Cavalieri et le Giardino Scotto en une seule boucle de 1h30 avec un chien en laisse."
+      ],
+      "tipsEs": [
+        "Los museos principales de Pisa (Museo Nazionale di San Matteo, Palazzo Blu) solo admiten perros de asistencia: planifica un cuidador o reparte la visita entre acompañantes.",
+        "La Piazza dei Miracoli está muy concurrida de 10:00 a 17:00; para el mejor ambiente dog-friendly, ve antes de las 09:00 o después de las 18:00.",
+        "Pisa es lo bastante compacta para hacer la Torre, el Lungarno, la plaza de los Cavalieri y el Giardino Scotto en un único circuito de 1h30 con un perro con correa."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog enter the Leaning Tower?",
+          "a": "No — only assistance dogs are admitted to the Tower, the Cathedral, the Baptistery, and the Camposanto. The grass and the surrounding squares are leash-friendly and free."
+        },
+        {
+          "q": "What's the best dog-friendly day in Pisa?",
+          "a": "Field of Miracles photo at sunrise, walk down to Piazza dei Cavalieri and the Lungarno for breakfast, then take bus 010 to San Rossore for a forest walk and an afternoon at Marina di Pisa beach."
+        },
+        {
+          "q": "Are dogs allowed in Pisa cathedral square?",
+          "a": "Yes, on the lawn. The Cathedral interior, the Baptistery, the Tower climb, and the Camposanto cemetery are all closed to non-assistance pets."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer dans la Tour de Pise ?",
+          "a": "Non — seuls les chiens d'assistance sont admis à la Tour, à la Cathédrale, au Baptistère et au Camposanto. La pelouse et les places environnantes sont accessibles en laisse et gratuites."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Pise ?",
+          "a": "Photo de la Piazza dei Miracoli au lever du soleil, descente vers la Piazza dei Cavalieri et le Lungarno pour le petit-déjeuner, puis bus 010 vers San Rossore pour une balade en forêt et un après-midi à Marina di Pisa."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur la place de la Cathédrale de Pise ?",
+          "a": "Oui, sur la pelouse. L'intérieur de la cathédrale, le baptistère, la montée à la tour et le Camposanto sont fermés aux animaux non-assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede mi perro entrar a la Torre Inclinada?",
+          "a": "No: solo perros de asistencia se admiten en la Torre, la Catedral, el Baptisterio y el Camposanto. El césped y las plazas circundantes son accesibles con correa y gratuitos."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Pisa?",
+          "a": "Foto del Campo de los Milagros al amanecer, bajada a la Piazza dei Cavalieri y el Lungarno para desayunar, después autobús 010 a San Rossore para un paseo por el bosque y una tarde en la playa de Marina di Pisa."
+        },
+        {
+          "q": "¿Se admiten perros en la plaza de la Catedral de Pisa?",
+          "a": "Sí, en el césped. El interior de la Catedral, el Baptisterio, la subida a la Torre y el Camposanto están cerrados a mascotas no de asistencia."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Pisa",
+      "titleFr": "Garde et promenade de chiens à Pise",
+      "titleEs": "Cuidado y paseo de perros en Pisa",
+      "introEn": "Pisa pet-care is dominated by Pawshake (the European platform), with PetBacker filling the gap for short-notice walks and a small Italian network of specialised dog-sitters around the university. Prices are about half of Florence rates, and the network is dense enough that next-day bookings are usually possible — useful given the city's strict museum and monument pet bans.",
+      "introFr": "La garde d'animaux à Pise est dominée par Pawshake (plateforme européenne), avec PetBacker pour les promenades de dernière minute et un petit réseau italien de sitters spécialisés autour de l'université. Les tarifs sont environ la moitié de ceux de Florence, et le réseau est suffisamment dense pour que les réservations du lendemain soient généralement possibles — utile vu les interdictions strictes des musées et monuments.",
+      "introEs": "El cuidado de mascotas en Pisa está dominado por Pawshake (plataforma europea), con PetBacker cubriendo paseos de última hora y una pequeña red italiana de cuidadores especializados en torno a la universidad. Los precios son aproximadamente la mitad que en Florencia, y la red es lo bastante densa para que las reservas para el día siguiente sean habitualmente posibles, útil dada la prohibición estricta de mascotas en museos y monumentos.",
+      "places": [
+        {
+          "name": "Pawshake Pisa",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.it/petsitters/pisa",
+          "description": "The Italian arm of the European Pawshake network, with hundreds of verified sitters across Pisa offering drop-in visits, full-day care, dog walks, and overnight boarding. Bookings are insured through the platform and the interface is fully translated into English. The most reliable option for visitors with no local contacts.",
+          "descriptionFr": "Filiale italienne du réseau européen Pawshake, avec des centaines de sitters vérifiés à Pise proposant visites à domicile, garde à la journée, promenades et hébergement de nuit. Les réservations sont assurées via la plateforme et l'interface est entièrement traduite en anglais. L'option la plus fiable pour les visiteurs sans contact local.",
+          "descriptionEs": "La filial italiana de la red europea Pawshake, con cientos de cuidadores verificados en Pisa que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
+          "tip": "Filter for 'Lungarni' or 'Sant'Antonio' if you're staying central — most sitters living near the river accept short-notice drop-in visits.",
+          "tipFr": "Filtrez sur 'Lungarni' ou 'Sant'Antonio' si vous logez en centre — la plupart des sitters près du fleuve acceptent les visites de dernière minute.",
+          "tipEs": "Filtra por 'Lungarni' o 'Sant'Antonio' si te alojas en el centro: la mayoría de los cuidadores cerca del río aceptan visitas de última hora."
+        }
+      ],
+      "tipsEn": [
+        "Average rates: drop-in visit €10–12, dog walk €8–12, full-day care €18–25, overnight €22–30 — significantly cheaper than Florence or Bologna.",
+        "Most central Pisa sitters live in apartments — confirm sleeping arrangements before booking for boarding.",
+        "Italian sitters typically speak English, especially in cities with universities like Pisa, where the international community is large."
+      ],
+      "tipsFr": [
+        "Tarifs moyens : visite 10-12 €, promenade 8-12 €, journée complète 18-25 €, nuit 22-30 € — nettement moins cher qu'à Florence ou Bologne.",
+        "La plupart des sitters du centre de Pise vivent en appartement — vérifiez les conditions de couchage avant de réserver pour la nuit.",
+        "Les sitters italiens parlent généralement anglais, surtout dans les villes universitaires comme Pise, où la communauté internationale est importante."
+      ],
+      "tipsEs": [
+        "Tarifas medias: visita 10-12 €, paseo 8-12 €, día completo 18-25 €, noche 22-30 €: bastante más barato que Florencia o Bolonia.",
+        "La mayoría de los cuidadores del centro de Pisa viven en piso: confirma cómo dormirá tu perro antes de reservar pernocta.",
+        "Los cuidadores italianos suelen hablar inglés, sobre todo en ciudades universitarias como Pisa, donde la comunidad internacional es amplia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Pisa at short notice?",
+          "a": "Pawshake.it is the fastest — most paid sitters confirm within hours. Filter for at least ten reviews and check the apartment-or-house preference."
+        },
+        {
+          "q": "Are dog walkers regulated in Italy?",
+          "a": "Italian law does not require a licence for dog walkers, but Pawshake and PetBacker carers are insured through the platforms."
+        },
+        {
+          "q": "Do hotels offer pet sitting in Pisa?",
+          "a": "A few hotels (Royal Victoria, Bagni di Pisa) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter à Pise à court terme ?",
+          "a": "Pawshake.it est le plus rapide — la plupart des sitters confirment en quelques heures. Filtrez sur au moins dix avis et vérifiez la préférence appartement-ou-maison."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Italie ?",
+          "a": "La loi italienne n'exige pas de licence pour les promeneurs, mais les sitters Pawshake et PetBacker sont assurés via les plateformes."
+        },
+        {
+          "q": "Les hôtels proposent-ils une garde à Pise ?",
+          "a": "Quelques hôtels (Royal Victoria, Bagni di Pisa) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Pisa sin mucha antelación?",
+          "a": "Pawshake.it es lo más rápido: la mayoría de los cuidadores confirman en pocas horas. Filtra por al menos diez opiniones y comprueba la preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Están regulados los paseadores en Italia?",
+          "a": "La ley italiana no exige licencia para los paseadores, pero los cuidadores de Pawshake y PetBacker están asegurados mediante las plataformas."
+        },
+        {
+          "q": "¿Los hoteles ofrecen servicio de cuidado en Pisa?",
+          "a": "Algunos hoteles (Royal Victoria, Bagni di Pisa) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ]
+    }
+  }
+}

@@ -3587,6 +3587,80 @@
     }
   },
   {
+    "slug": "pisa",
+    "name": "Pisa",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "lat": 43.7228,
+    "lng": 10.4017,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/pisa.jpg",
+    "intro": "Pisa pairs a compact UNESCO Old Town with the 23,000-hectare Migliarino San Rossore park and the dog-friendly Tyrrhenian coast at Marina di Pisa, all reachable by city bus. The University Veterinary Hospital adds a 24-hour safety net.",
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "porto",
     "name": "Porto",
     "country": "Portugal",

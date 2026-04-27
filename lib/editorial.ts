@@ -266,6 +266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bois de Boulogne, Bois de Vincennes, and hundreds of smaller squares',
       area: 'Le Marais, Saint-Germain-des-Prés, and Montmartre',
     },
+    pisa: {
+      personality: 'a compact Tuscan UNESCO city paired with the 23 000-hectare San Rossore park and a year-round dog beach at Marina di Pisa, all within twenty minutes of the centre',
+      highlight: 'the Field of Miracles lawn, San Rossore pine forest, and the Marina di Pisa dog beach',
+      area: 'Sant\'Antonio, the Lungarni, and Borgo Stretto',
+    },
     porto: {
       personality: 'a hilly, atmospheric city where dogs are part of the daily rhythm. On trams, in wine-bar gardens, and along the Douro river esplanade',
       highlight: 'the Jardins do Palácio de Cristal, the Douro riverside (Ribeira), and the Serralves park',
@@ -634,6 +639,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Bois de Boulogne, le Bois de Vincennes et des centaines de squares',
       area: 'le Marais, Saint-Germain-des-Prés et Montmartre',
     },
+    pisa: {
+      personality: 'une ville UNESCO toscane compacte associée aux 23 000 hectares du parc de San Rossore et à une plage canine ouverte toute l\'année à Marina di Pisa, le tout à vingt minutes du centre',
+      highlight: 'la pelouse du Champ des Miracles, la pinède de San Rossore et la plage canine de Marina di Pisa',
+      area: 'Sant\'Antonio, les Lungarni et le Borgo Stretto',
+    },
     porto: {
       personality: 'une ville vallonnée et atmosphérique où les chiens font partie du rythme quotidien. Dans les tramways, dans les jardins des bars à vins et le long de l\'esplanade du fleuve Douro',
       highlight: 'les Jardins du Palácio de Cristal, les berges du Douro (Ribeira) et le parc de Serralves',
@@ -1000,6 +1010,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad donde los perros son famosos por ser bienvenidos en cafés, tiendas y muchos restaurantes',
       highlight: 'el Bosque de Boulogne, el Bosque de Vincennes y cientos de plazas pequeñas',
       area: 'Le Marais, Saint-Germain-des-Prés y Montmartre',
+    },
+    pisa: {
+      personality: 'una ciudad UNESCO toscana compacta unida a las 23.000 hectáreas del parque de San Rossore y a una playa canina abierta todo el año en Marina di Pisa, todo a veinte minutos del centro',
+      highlight: 'el césped del Campo de los Milagros, el pinar de San Rossore y la playa canina de Marina di Pisa',
+      area: 'Sant\'Antonio, los Lungarni y Borgo Stretto',
     },
     porto: {
       personality: 'una ciudad montañosa y atmosférica donde los perros forman parte del ritmo diario. En tranvías, en jardines de bares de vino y a lo largo del paseo fluvial del Duero',

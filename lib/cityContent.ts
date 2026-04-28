@@ -3145,6 +3145,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  glasgow: {
+    history: {
+      fr: `Glasgow tient son nom du gaélique 'Glas Cu' (le cher lieu vert) et la ville en a fait sa devise — plus de 90 parcs municipaux dans ses limites, dont les 146 hectares du Pollok Country Park, seul parc national à l'intérieur d'une ville britannique. Capitale écossaise du commerce maritime au XIXe siècle, Glasgow a fait fortune grâce au Clyde et au tabac américain, puis s'est réinventée après le déclin industriel des années 1980 en capitale culturelle européenne (1990) et hub design international. Aujourd'hui ville de ~600 000 habitants au cœur du Strathclyde, elle compte certains des pubs et cafés les plus dog-friendly du Royaume-Uni — culture pub écossaise oblige. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée. Le métro (3e plus vieux au monde) est strict sur les chiens, mais ScotRail accepte gratuitement jusqu'à 2 chiens par billet adulte.`,
+      en: `Glasgow takes its name from the Gaelic 'Glas Cu' (the dear green place) and the city has made it a motto — over 90 municipal parks within its limits, including the 146-hectare Pollok Country Park, the only country park inside any UK city. Scotland's commercial maritime capital in the 19th century, Glasgow made its fortune from the Clyde and American tobacco, then reinvented itself after the 1980s industrial decline as European Capital of Culture (1990) and international design hub. Today a city of ~600,000 inhabitants at the heart of the Strathclyde region, it has some of the UK's most dog-friendly pubs and cafés — Scottish pub culture being what it is. Post-Brexit quirk: visitors from the EU need an Animal Health Certificate (AHC) before arrival. The Subway (the world's third-oldest underground) is strict on dogs, but ScotRail accepts up to 2 dogs free per adult ticket.`,
+      es: `Glasgow toma su nombre del gaélico 'Glas Cu' (el querido lugar verde) y la ciudad lo ha hecho lema: más de 90 parques municipales en sus límites, incluido el Pollok Country Park de 146 hectáreas, único parque nacional dentro de una ciudad del Reino Unido. Capital comercial marítima de Escocia en el siglo XIX, Glasgow hizo fortuna gracias al Clyde y al tabaco americano, y se reinventó tras el declive industrial de los años 80 como Capital Europea de la Cultura (1990) y hub internacional de diseño. Hoy ciudad de ~600.000 habitantes en el corazón de la región de Strathclyde, tiene algunos de los pubs y cafés más dog-friendly del Reino Unido, fiel a la cultura del pub escocés. Peculiaridad post-Brexit: los visitantes de la UE necesitan un Animal Health Certificate (AHC) antes de llegar. El Subway (el tercer metro más antiguo del mundo) es estricto con los perros, pero ScotRail admite hasta 2 perros gratis por billete adulto.`,
+    },
+    sights: [
+      {
+        name: 'Pollok Country Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Seul parc national à l'intérieur d'une ville du Royaume-Uni — 146 hectares de forêt, sentiers riverains, jardins formels, Burrell Collection (chiens d'assistance uniquement). Sans laisse sur les sentiers boisés ; ScotRail Pollokshaws West à 10 minutes de Glasgow Central.`,
+          en: `The UK's only country park inside a city — 146 hectares of woodland, riverside trails, formal gardens, and the Burrell Collection (assistance dogs only). Off-leash on the woodland trails; ScotRail Pollokshaws West 10 minutes from Glasgow Central.`,
+          es: `El único parque nacional dentro de una ciudad del Reino Unido: 146 hectáreas de bosque, senderos ribereños, jardines formales y la Burrell Collection (solo perros de asistencia). Sin correa en los senderos boscosos; ScotRail Pollokshaws West a 10 minutos de Glasgow Central.`,
+        },
+      },
+      {
+        name: 'Kelvingrove Park',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: `Parc victorien phare (34 hectares) le long de la rivière Kelvin dans le West End, avec la Kelvingrove Art Gallery and Museum. Sans laisse sur les pelouses ouvertes ; station de métro Hillhead à cinq minutes à pied.`,
+          en: `Flagship Victorian park (34 hectares) along the River Kelvin in the West End, with the Kelvingrove Art Gallery and Museum. Off-leash on the open lawns; Subway Hillhead station a five-minute walk away.`,
+          es: `El parque victoriano emblemático (34 hectáreas) a lo largo del río Kelvin en el West End, con la Kelvingrove Art Gallery and Museum. Sin correa en las praderas abiertas; estación de metro Hillhead a cinco minutos a pie.`,
+        },
+      },
+      {
+        name: 'Glasgow Necropolis',
+        emoji: '🪦',
+        petFriendly: true,
+        desc: {
+          fr: `Cimetière-jardin victorien sur une colline à l'est de la cathédrale, avec 50 000 tombes monumentales et l'un des skylines les plus photogéniques d'Europe. Chiens en laisse acceptés sur tout le réseau de sentiers ; gratuit, ouvert 24h/24.`,
+          en: `Victorian garden cemetery on a hill east of Glasgow Cathedral, with 50,000 monumental graves and one of Europe's most photogenic skylines. Leashed dogs welcome along the entire path network; free, open 24/7.`,
+          es: `Cementerio-jardín victoriano sobre una colina al este de la Catedral, con 50.000 tumbas monumentales y uno de los horizontes más fotogénicos de Europa. Perros con correa admitidos en toda la red de senderos; gratuito, abierto 24/7.`,
+        },
+      },
+      {
+        name: 'Glasgow Cathedral',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Seule cathédrale médiévale du continent écossais à avoir survécu intacte à la Réforme (XIIe siècle). L'intérieur n'admet que les chiens d'assistance, mais les jardins extérieurs et la colline de la Necropolis derrière sont accessibles en laisse et gratuits.`,
+          en: `Scotland's only medieval mainland cathedral to survive the Reformation intact (12th century). The interior admits only assistance dogs, but the exterior gardens and the Necropolis hill behind are leash-friendly and free.`,
+          es: `Única catedral medieval del continente escocés que sobrevivió intacta a la Reforma (siglo XII). El interior solo admite perros de asistencia, pero los jardines exteriores y la colina de la Necropolis detrás son accesibles con correa y gratuitos.`,
+        },
+      },
+      {
+        name: 'Loch Lomond',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand loch d'eau douce de Grande-Bretagne, à 30 km au nord-ouest. La rive de Balloch offre pelouses ouvertes, plage de sable et parc boisé ; sans laisse toute l'année. ScotRail Balloch en 50 minutes depuis Glasgow Queen Street.`,
+          en: `Britain's largest freshwater loch, 30 km north-west. The Balloch shore offers open lawns, a sandy beach pocket, and a wooded park; off-leash year-round. ScotRail Balloch 50 minutes from Glasgow Queen Street.`,
+          es: `El mayor lago de agua dulce de Gran Bretaña, a 30 km al noroeste. La orilla de Balloch ofrece praderas abiertas, una pequeña playa de arena y un parque boscoso; sin correa todo el año. ScotRail Balloch en 50 minutos desde Glasgow Queen Street.`,
+        },
+      },
+      {
+        name: 'West End Cobbles',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier universitaire au charme victorien — Ashton Lane pavée, Byres Road, Gibson Street face à Kelvingrove. Pubs et cafés dog-friendly à chaque rue : The Left Bank, Brel, The Drake, Inn Deep. Métro Hillhead au cœur du quartier.`,
+          en: `University quarter with Victorian charm — cobbled Ashton Lane, Byres Road, Gibson Street facing Kelvingrove. Dog-friendly pubs and cafés on every street: The Left Bank, Brel, The Drake, Inn Deep. Subway Hillhead at the heart of the district.`,
+          es: `Barrio universitario con encanto victoriano: la adoquinada Ashton Lane, Byres Road, Gibson Street frente a Kelvingrove. Pubs y cafés dog-friendly en cada calle: The Left Bank, Brel, The Drake, Inn Deep. Metro Hillhead en pleno corazón del barrio.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Post-Brexit : les passeports européens ne sont plus valides pour entrer au Royaume-Uni — il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, plus la vaccination antirabique et le traitement contre l'échinocoque.`,
+        `ScotRail : jusqu'à 2 chiens en laisse gratuits par billet adulte ; au-delà, demi-tarif (max 5 £ aller, 10 £ aller-retour).`,
+        `Glasgow Subway : seuls les petits animaux en panier fermé sont admis (chiens d'assistance mis à part) — utilisez ScotRail ou les bus pour les chiens moyens et grands.`,
+        `Urgence vétérinaire 24h/24 : Vets Now Glasgow, 123-145 North Street, +44 141 237 7676 — premier hôpital d'urgence 24h/24 d'Écosse, à pied du West End.`,
+        `Glasgow pleut souvent (1370 mm/an, plus que toute autre grande ville UK) — emportez un manteau imperméable pour chien et une serviette microfibre.`,
+      ],
+      en: [
+        `Post-Brexit: EU pet passports are no longer valid for entry into the UK — you need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus rabies vaccination and tapeworm treatment.`,
+        `ScotRail: up to 2 leashed dogs free per adult ticket; over the limit, half fare each (max £5 single, £10 return).`,
+        `Glasgow Subway: only small pets in closed carriers are allowed (assistance dogs aside) — use ScotRail or buses for medium and large dogs.`,
+        `24/7 emergency vet: Vets Now Glasgow, 123-145 North Street, +44 141 237 7676 — Scotland's first 24-hour pet emergency hospital, walking distance from the West End.`,
+        `Glasgow rains often (1370 mm/year, more than any other major UK city) — pack a waterproof dog coat and a microfibre towel.`,
+      ],
+      es: [
+        `Tras el Brexit: los pasaportes europeos ya no sirven para entrar al Reino Unido: hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos.`,
+        `ScotRail: hasta 2 perros con correa gratis por billete adulto; por encima, medio billete cada uno (máx. 5 £ ida, 10 £ ida y vuelta).`,
+        `Glasgow Subway: solo se admiten mascotas pequeñas en transportín cerrado (aparte de los perros de asistencia): usa ScotRail o autobuses para perros medianos y grandes.`,
+        `Veterinario de urgencias 24h: Vets Now Glasgow, 123-145 North Street, +44 141 237 7676 — el primer hospital de urgencias 24h del país, a pie del West End.`,
+        `Llueve a menudo en Glasgow (1370 mm/año, más que cualquier otra gran ciudad del Reino Unido): lleva impermeable para el perro y toalla de microfibra.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport de Glasgow (GLA) est à 13 km du centre, bus 500 jusqu'à Buchanan Bus Station en 25 minutes (chien à la discrétion du chauffeur). ScotRail depuis Paisley Gilmour Street à 10 min de l'aéroport en taxi accepte 2 chiens gratuits.`,
+        `Tarifs hôtels dog-friendly : à partir de 80 £ la nuit en 4*, supplément animal moyen 0-30 £ par séjour ou par nuit ; le Kimpton Blythswood Square accepte les chiens gratuitement.`,
+        `Climat océanique pluvieux : étés frais (15-16 °C en juillet), hivers humides mais doux (4 °C en janvier) ; la pluie est plus marquée que les températures et le vent renforce la sensation de froid.`,
+        `Tailster.com et BorrowMyDoggy.com sont les deux plateformes de référence pour la garde et la promenade ; comptez 10-15 £ la promenade, 25-40 £ la journée complète — parmi les tarifs UK les plus bas.`,
+        `Glasgow est à 50 min de train d'Édimbourg, 4h de Londres (Avanti West Coast) et 50 min de Loch Lomond — point de départ idéal pour un circuit canin Highlands / Lake District.`,
+      ],
+      en: [
+        `Glasgow Airport (GLA) is 13 km from the centre, bus 500 to Buchanan Bus Station in 25 minutes (dog at driver's discretion). ScotRail from Paisley Gilmour Street, 10 minutes by taxi from the airport, accepts 2 dogs free.`,
+        `Dog-friendly hotel rates: from £80 per night for 4*, average pet supplement £0-30 per stay or per night; Kimpton Blythswood Square accepts dogs free of charge.`,
+        `Oceanic, rainy climate: cool summers (15-16 °C in July), wet but mild winters (4 °C in January); rain is more pronounced than temperatures suggest, and wind reinforces the chill.`,
+        `Tailster.com and BorrowMyDoggy.com are the two reference platforms for sitting and walking; budget £10-15 per walk, £25-40 per full day — among the lowest UK rates.`,
+        `Glasgow is 50 min by train from Edinburgh, 4h from London (Avanti West Coast), and 50 min from Loch Lomond — an ideal starting point for a Highlands / Lake District dog circuit.`,
+      ],
+      es: [
+        `El aeropuerto de Glasgow (GLA) está a 13 km del centro, bus 500 hasta Buchanan Bus Station en 25 minutos (perro a discreción del conductor). ScotRail desde Paisley Gilmour Street, a 10 min en taxi del aeropuerto, admite 2 perros gratis.`,
+        `Tarifas de hoteles dog-friendly: desde 80 £ por noche en 4*, suplemento medio por mascota 0-30 £ por estancia o por noche; el Kimpton Blythswood Square admite perros gratis.`,
+        `Clima oceánico lluvioso: veranos frescos (15-16 °C en julio), inviernos húmedos pero suaves (4 °C en enero); la lluvia es más marcada que las temperaturas y el viento refuerza la sensación de frío.`,
+        `Tailster.com y BorrowMyDoggy.com son las dos plataformas de referencia para cuidado y paseo; cuenta 10-15 £ por paseo, 25-40 £ por día completo: entre las tarifas más bajas del Reino Unido.`,
+        `Glasgow está a 50 min en tren de Edimburgo, 4h de Londres (Avanti West Coast) y 50 min del Loch Lomond: punto de partida ideal para un circuito canino por las Highlands / Lake District.`,
+      ],
+    },
+  },
+
   gothenburg: {
     history: {
       fr: `Göteborg, fondée en 1621 par le roi Gustave II Adolphe comme porte de sortie de la Suède vers la mer du Nord, est devenue la deuxième ville du pays et son principal port. La ville a longtemps été dominée par les marchands écossais, néerlandais et allemands qui ont façonné son architecture et sa culture commerçante. Au XIXe siècle, le chantier naval Eriksberg et les usines Volvo et SKF ont fait de Göteborg le cœur industriel de la Suède. La ville a su se réinventer après le déclin de l'industrie lourde : aujourd'hui, c\'est une métropole universitaire de 600 000 habitants, réputée pour sa gastronomie de crustacés, son architecture Art Nouveau et, surtout, sa qualité de vie. En matière animale, la Suède figure parmi les législations les plus progressistes d\'Europe : les chiens sont admis dans les transports en commun, dans la majorité des cafés et restaurants, et dans les espaces naturels avec une laisse. Göteborg applique cela avec pragmatisme — le réseau Västtrafik, le Slottsskogen et la culture fika forment ensemble un paradis quotidien pour les propriétaires de chiens.`,

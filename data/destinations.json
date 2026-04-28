@@ -2051,6 +2051,80 @@
     }
   },
   {
+    "slug": "glasgow",
+    "name": "Glasgow",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/glasgow.jpg",
+    "intro": "Glasgow is among the UK's most reliably dog-friendly cities: free pets on every ScotRail train, dog-welcoming pubs in every neighbourhood, the 146-hectare Pollok Country Park inside the city, and Loch Lomond a 50-minute train ride away.",
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "gothenburg",
     "name": "Gothenburg",
     "country": "Sweden",

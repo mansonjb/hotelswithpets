@@ -58,6 +58,7 @@ const TARGETS = [
   { slug: 'bucharest', query: 'Bucharest Romanian Athenaeum Calea Victoriei panorama sunset' },
   { slug: 'belgrade', query: 'Belgrade Kalemegdan fortress Sava Danube confluence sunset panorama' },
   { slug: 'manchester', query: 'Manchester Castlefield basin canal Beetham Tower skyline' },
+  { slug: 'glasgow', query: 'Glasgow Cathedral Necropolis skyline River Clyde panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

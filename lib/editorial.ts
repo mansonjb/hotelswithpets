@@ -161,6 +161,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Citadelpark, the Bourgoyen-Ossemeersen nature reserve, and the Leie riverside towpaths',
       area: 'the Patershol, Sint-Pieters, and Portus Ganda',
     },
+    glasgow: {
+      personality: 'one of the UK\'s most reliably dog-friendly cities, with free pets on every ScotRail train, dog-welcoming pubs in every neighbourhood, and the 146-hectare Pollok Country Park inside the city',
+      highlight: 'Pollok Country Park, Kelvingrove Park, and Loch Lomond a 50-minute train ride away',
+      area: 'the West End, Merchant City, and Finnieston',
+    },
     gothenburg: {
       personality: 'Sweden\'s most dog-friendly city — a lively port and university city where dogs ride trams for free, run off-leash in the 137-hectare Slottsskogen, and are welcomed inside almost every café',
       highlight: 'the Slottsskogen urban forest, the Haga wooden district cafés, and the dog-friendly Gothenburg Archipelago islands',
@@ -554,6 +559,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Citadelpark, la réserve naturelle de Bourgoyen-Ossemeersen et les chemins de halage riverains de la Leie',
       area: 'le Patershol, Sint-Pieters et Portus Ganda',
     },
+    glasgow: {
+      personality: 'l\'une des villes britanniques les plus fiables côté chiens, avec animaux gratuits dans chaque train ScotRail, pubs dog-friendly dans chaque quartier et les 146 hectares de Pollok Country Park dans la ville',
+      highlight: 'Pollok Country Park, Kelvingrove Park et le Loch Lomond à 50 minutes de train',
+      area: 'le West End, Merchant City et Finnieston',
+    },
     gothenburg: {
       personality: 'la ville la plus dog-friendly de Suède — une ville portuaire et universitaire animée où les chiens prennent le tramway gratuitement, courent sans laisse dans le Slottsskogen de 137 hectares et sont accueillis dans presque tous les cafés',
       highlight: 'la forêt urbaine de Slottsskogen, les cafés du quartier en bois de Haga et les îles dog-friendly de l\'archipel de Göteborg',
@@ -945,6 +955,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una progresista ciudad belga orientada a la bicicleta donde los perros forman parte de la vida cotidiana. En tranvías, en cafeterías y a lo largo de los bellos ríos Leie y Schelde',
       highlight: 'el Citadelpark, la reserva natural de Bourgoyen-Ossemeersen y los caminos de sirga ribereños del Leie',
       area: 'el Patershol, Sint-Pieters y Portus Ganda',
+    },
+    glasgow: {
+      personality: 'una de las ciudades del Reino Unido más fiables con perros, con mascotas gratis en cada tren ScotRail, pubs dog-friendly en cada barrio y las 146 hectáreas de Pollok Country Park dentro de la ciudad',
+      highlight: 'Pollok Country Park, Kelvingrove Park y el Loch Lomond a 50 minutos en tren',
+      area: 'el West End, Merchant City y Finnieston',
     },
     gothenburg: {
       personality: 'la ciudad más acogedora para perros de Suecia — una animada ciudad portuaria y universitaria donde los perros viajan en tranvía gratis, corren sin correa en el Slottsskogen de 137 hectáreas y son bienvenidos en casi todos los cafés',

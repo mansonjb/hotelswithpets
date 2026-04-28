@@ -4692,6 +4692,123 @@
     "slug": "yalo-urban-boutique-hotel-gent"
   },
   {
+    "id": "glasgow-1",
+    "name": "Kimpton Blythswood Square Hotel & Spa",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1573,
+    "priceFrom": 215,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/blythswood-square.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Blythswood Square welcomes dogs up to 35 kg at no extra charge. Dog beds and water bowls provided on arrival. Pets are accommodated in Deluxe rooms with advance arrangement; cats are not accepted.",
+    "highlights": [
+      "Free pet stays",
+      "Boutique 5-star with full spa",
+      "Walk to Sauchiehall Street"
+    ],
+    "slug": "kimpton-blythswood-square-glasgow"
+  },
+  {
+    "id": "glasgow-2",
+    "name": "Malmaison Glasgow",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 2404,
+    "priceFrom": 110,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/malmaison-glasgow.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Malmaison Glasgow welcomes up to 2 medium-sized dogs per room: £25 service fee for 1 dog, £40 for 2. Dog bed, mat, bowls, and treat bag provided. Dogs welcome in the bar and communal areas; cats are not accepted.",
+    "highlights": [
+      "Walk to Buchanan Street",
+      "Dog-welcome kit included",
+      "Bar and lounge admit dogs"
+    ],
+    "slug": "malmaison-glasgow-glasgow"
+  },
+  {
+    "id": "glasgow-3",
+    "name": "voco Grand Central Glasgow by IHG",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 6200,
+    "priceFrom": 130,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/voco-grand-central-glasgow.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "voco Grand Central Glasgow welcomes pets of any size in designated rooms for £30 per pet per night. Dogs are not allowed in the restaurant but are welcome in the Champagne Central bar area. Pet package includes treats, bed, and bowl.",
+    "highlights": [
+      "Connected to Glasgow Central station",
+      "Champagne Central bar admits dogs",
+      "1883 heritage building"
+    ],
+    "slug": "voco-grand-central-glasgow"
+  },
+  {
+    "id": "glasgow-4",
+    "name": "Native Glasgow",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1900,
+    "priceFrom": 115,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/native-glasgow.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Native Glasgow aparthotel accepts pets of any size for £15 per pet per night. Both dogs and cats are welcome. The fully equipped studios include a kitchenette, ideal for longer stays with a dog.",
+    "highlights": [
+      "Aparthotel kitchenette suites",
+      "Steps from Buchanan Street",
+      "Best-value pet stays in centre"
+    ],
+    "slug": "native-glasgow-glasgow"
+  },
+  {
+    "id": "glasgow-5",
+    "name": "Hilton Glasgow",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4800,
+    "priceFrom": 125,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hilton-glasgow.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Hilton Glasgow welcomes up to two pets up to 34 kg per stay for a £50 fee. Both dogs and cats are accepted. Pets are not allowed in food and beverage areas; service dogs stay free.",
+    "highlights": [
+      "Five-minute walk to Charing Cross station",
+      "Indoor pool and gym",
+      "Walk to Vets Now Glasgow"
+    ],
+    "slug": "hilton-glasgow-glasgow"
+  },
+  {
     "id": "gothenburg-1",
     "name": "Clarion Hotel Post",
     "destinationSlug": "gothenburg",

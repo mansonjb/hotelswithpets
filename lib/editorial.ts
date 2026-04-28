@@ -216,6 +216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
       area: 'Islington, Notting Hill, and Bermondsey',
     },
+    luxembourg: {
+      personality: 'the only European capital with free public transport for everyone (including dogs) since 2020, with nine fenced municipal dog enclosures inside the city and a UNESCO Old Town that wraps around the dramatic Pétrusse and Alzette river valleys',
+      highlight: 'the Chemin de la Corniche, the Parc de la Pétrusse with its two dog enclosures, and the 600-hectare Bambësch forest',
+      area: 'Ville-Haute, the Grund, and Belair',
+    },
     lyon: {
       personality: 'France\'s gastronomic capital, where dogs are as common as bouchon restaurants. Welcomed in cafés, along the riverbanks, and throughout the Presqu\'île',
       highlight: 'the Parc de la Tête d\'Or, the Saône and Rhône riverbanks, and the Fourvière hillside trails',
@@ -614,6 +619,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
       area: 'Islington, Notting Hill et Bermondsey',
     },
+    luxembourg: {
+      personality: 'la seule capitale européenne avec transports publics gratuits pour tous (chiens compris) depuis 2020, avec neuf enclos canins municipaux clôturés dans la ville et une Vieille Ville UNESCO qui épouse les spectaculaires vallées du Pétrusse et de l\'Alzette',
+      highlight: 'le Chemin de la Corniche, le Parc de la Pétrusse avec ses deux enclos canins, et la forêt du Bambësch de 600 hectares',
+      area: 'la Ville-Haute, le Grund et Belair',
+    },
     lyon: {
       personality: 'la capitale gastronomique de la France, où les chiens sont aussi courants que les bouchons. Accueillis dans les cafés, le long des berges et dans toute la Presqu\'île',
       highlight: 'le Parc de la Tête d\'Or, les berges de la Saône et du Rhône, et les sentiers de la colline de Fourvière',
@@ -1010,6 +1020,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales más naturalmente acogedoras con mascotas de Europa, donde los perros acompañan a sus dueños en pubs, cafés y a través de vastos parques reales durante todo el año',
       highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
       area: 'Islington, Notting Hill y Bermondsey',
+    },
+    luxembourg: {
+      personality: 'la única capital europea con transporte público gratuito para todos (perros incluidos) desde 2020, con nueve recintos caninos municipales vallados dentro de la ciudad y un casco antiguo UNESCO que rodea los espectaculares valles del Pétrusse y el Alzette',
+      highlight: 'el Chemin de la Corniche, el Parc de la Pétrusse con sus dos recintos caninos, y el bosque del Bambësch de 600 hectáreas',
+      area: 'Ville-Haute, el Grund y Belair',
     },
     lyon: {
       personality: 'la capital gastronómica de Francia, donde los perros son tan comunes como los restaurantes bouchon. Bienvenidos en cafés, a lo largo de las orillas del río y en toda la Presqu\'île',

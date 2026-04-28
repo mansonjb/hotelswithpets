@@ -59,6 +59,7 @@ const TARGETS = [
   { slug: 'belgrade', query: 'Belgrade Kalemegdan fortress Sava Danube confluence sunset panorama' },
   { slug: 'manchester', query: 'Manchester Castlefield basin canal Beetham Tower skyline' },
   { slug: 'glasgow', query: 'Glasgow Cathedral Necropolis skyline River Clyde panorama' },
+  { slug: 'luxembourg', query: 'Luxembourg City Bock fortifications Alzette valley sunset panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

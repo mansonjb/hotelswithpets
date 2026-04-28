@@ -6361,6 +6361,125 @@
     "slug": "the-columbia-hotel-london"
   },
   {
+    "id": "luxembourg-1",
+    "name": "Hotel Le Place d'Armes - Relais & Châteaux",
+    "destinationSlug": "luxembourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1800,
+    "priceFrom": 295,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lu/le-place-darmes.html",
+    "petFee": 30,
+    "petPolicy": "Hotel Le Place d'Armes welcomes dogs and cats of any size for €30 per pet per night. Food and water bowls are provided in the room. The hotel sits on the Place d'Armes pedestrian square in the Old Town.",
+    "highlights": [
+      "Relais & Châteaux 5-star",
+      "On Place d'Armes",
+      "Welcome bowls in room"
+    ],
+    "slug": "hotel-le-place-darmes-luxembourg"
+  },
+  {
+    "id": "luxembourg-2",
+    "name": "Le Royal Hotels & Resorts Luxembourg",
+    "destinationSlug": "luxembourg",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1101,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lu/le-royal-luxembourg.html",
+    "petFee": 30,
+    "petPolicy": "Le Royal Luxembourg welcomes dogs of any size for €30 per pet per night. Food and water bowls are provided. Cats are not accepted. The hotel is in the financial district, walking distance from the Old Town.",
+    "highlights": [
+      "Indoor pool & spa",
+      "Walking distance to Old Town",
+      "Pet bowls included"
+    ],
+    "slug": "le-royal-hotels-luxembourg"
+  },
+  {
+    "id": "luxembourg-3",
+    "name": "Sofitel Luxembourg Le Grand Ducal",
+    "destinationSlug": "luxembourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 2200,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lu/sofitel-luxembourg-le-grand-ducal.html",
+    "petFee": 20,
+    "petPolicy": "Sofitel Le Grand Ducal welcomes pets of any size for €20 per pet per night. Both dogs and cats accepted. Food and water bowls provided in the room.",
+    "highlights": [
+      "Panoramic Pétrusse valley views",
+      "8th-floor restaurant",
+      "Welcome amenities for pets"
+    ],
+    "slug": "sofitel-luxembourg-le-grand-ducal"
+  },
+  {
+    "id": "luxembourg-4",
+    "name": "Hotel Parc Belair",
+    "destinationSlug": "luxembourg",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lu/parc-belair.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Parc Belair welcomes 1 pet of any size for €25 per night. Pets are not allowed in the sauna and spa areas. Cats are not accepted.",
+    "highlights": [
+      "Adjacent to Parc de Merl-Belair",
+      "Free parking",
+      "Quiet residential setting"
+    ],
+    "slug": "hotel-parc-belair-luxembourg"
+  },
+  {
+    "id": "luxembourg-5",
+    "name": "Hotel Parc Plaza",
+    "destinationSlug": "luxembourg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2900,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/lu/parcplaza.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Parc Plaza welcomes pets up to 15 kg for €20 per pet per night. Both dogs and cats accepted. Pets are not allowed in the restaurant.",
+    "highlights": [
+      "Walk to Limpertsberg parks",
+      "Indoor pool & spa",
+      "Best-value pet rates near centre"
+    ],
+    "slug": "hotel-parc-plaza-luxembourg"
+  },
+  {
     "id": "lyon-1",
     "name": "InterContinental Lyon - Hotel Dieu by IHG",
     "destinationSlug": "lyon",

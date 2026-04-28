@@ -2857,6 +2857,80 @@
     }
   },
   {
+    "slug": "luxembourg",
+    "name": "Luxembourg",
+    "country": "Luxembourg",
+    "countryCode": "LU",
+    "flag": "🇱🇺",
+    "lat": 49.6116,
+    "lng": 6.1319,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/luxembourg.jpg",
+    "intro": "Luxembourg has free public transport for everyone (including dogs) since 2020, nine fenced municipal dog enclosures inside the city, two 24-hour vet clinics, and a UNESCO Old Town with leash-friendly fortification walks above the Pétrusse and Alzette river valleys.",
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      }
+    }
+  },
+  {
     "slug": "lyon",
     "name": "Lyon",
     "country": "France",

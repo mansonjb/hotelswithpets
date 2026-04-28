@@ -4408,6 +4408,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  luxembourg: {
+    history: {
+      fr: `Luxembourg-Ville est la capitale du Grand-Duché du Luxembourg, État souverain depuis 1815 et l'un des fondateurs de l'Union européenne. Construite sur un promontoire rocheux à la confluence de l'Alzette et de la Pétrusse, la ville-citadelle a été surnommée la 'Gibraltar du Nord' et ses fortifications sont classées UNESCO depuis 1994. Avec environ 130 000 habitants intra-muros (50 % de la population non-luxembourgeoise — l'une des proportions les plus internationales d'Europe), c'est aussi un hub financier majeur. Côté chiens, le Luxembourg combine la rigueur allemande (passeport européen, vaccination antirabique) avec la souplesse française (chiens souvent acceptés en salle de restaurant). Particularité unique au monde : depuis le 1er mars 2020, tout le transport public est gratuit pour tous, animaux compris — bus, tram, trains CFL, sans ticket. La ville compte neuf enclos canins clôturés, deux cliniques vétérinaires 24h/24, et la législation de protection animale la plus stricte d'Europe.`,
+      en: `Luxembourg City is the capital of the Grand Duchy of Luxembourg, a sovereign state since 1815 and one of the founders of the European Union. Built on a rocky promontory at the confluence of the Alzette and Pétrusse rivers, the citadel-city was nicknamed the 'Gibraltar of the North' and its fortifications have been UNESCO-listed since 1994. With about 130,000 inhabitants within the city limits (50% of the population non-Luxembourgish — one of Europe's most international proportions), it is also a major financial hub. On the dog front, Luxembourg combines German rigour (EU pet passport, rabies vaccination) with French laxness (dogs often welcome inside restaurants). Unique to the world: since 1 March 2020, all public transport is free for everyone, pets included — buses, trams, CFL trains, no ticket. The city has nine fenced dog enclosures, two 24-hour vet clinics, and Europe's strictest animal-welfare laws.`,
+      es: `Luxemburgo capital es la capital del Gran Ducado de Luxemburgo, Estado soberano desde 1815 y uno de los fundadores de la Unión Europea. Construida sobre un promontorio rocoso en la confluencia del Alzette y el Pétrusse, la ciudad-ciudadela fue apodada el 'Gibraltar del Norte' y sus fortificaciones son Patrimonio UNESCO desde 1994. Con unos 130.000 habitantes dentro de los límites de la ciudad (50 % de la población no luxemburguesa — una de las proporciones más internacionales de Europa), es también un importante hub financiero. En cuanto a los perros, Luxemburgo combina el rigor alemán (pasaporte europeo, vacunación antirrábica) con la flexibilidad francesa (los perros suelen admitirse dentro de los restaurantes). Peculiaridad única en el mundo: desde el 1 de marzo de 2020, todo el transporte público es gratuito para todos, mascotas incluidas — autobuses, tranvías, trenes CFL, sin billete. La ciudad cuenta con nueve recintos caninos vallados, dos clínicas veterinarias 24 horas y la legislación de protección animal más estricta de Europa.`,
+    },
+    sights: [
+      {
+        name: 'Chemin de la Corniche',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade de 600 m au sommet de la falaise au-dessus de la vallée de l'Alzette, surnommée 'le plus beau balcon d'Europe'. Vues panoramiques sur le Grund, Clausen et les fortifications du Bock ; chiens en laisse acceptés toute l'année, jour et nuit.`,
+          en: `600-metre cliff-top promenade above the Alzette valley, nicknamed 'Europe's most beautiful balcony'. Panoramic views of Grund, Clausen, and the Bock fortifications; leashed dogs welcome year-round, day and night.`,
+          es: `Paseo cumbre de 600 metros sobre el valle del Alzette, apodado 'el balcón más bello de Europa'. Vistas panorámicas sobre Grund, Clausen y las fortificaciones del Bock; perros con correa admitidos todo el año, de día y de noche.`,
+        },
+      },
+      {
+        name: 'Parc de la Pétrusse',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc en vallée fluviale de 30 hectares qui traverse le cœur de la ville sous les fortifications UNESCO, avec deux enclos canins municipaux clôturés. Les chiens en laisse sont les bienvenus sur tout le parcours ; ouvert 24h/24, gratuit.`,
+          en: `30-hectare river-valley park slicing through the heart of the city beneath the UNESCO fortifications, with two fenced municipal dog enclosures. Leashed dogs welcome the full length; open 24/7, free.`,
+          es: `Parque en valle fluvial de 30 hectáreas que atraviesa el corazón de la ciudad bajo las fortificaciones UNESCO, con dos recintos caninos municipales vallados. Perros con correa admitidos en toda su longitud; abierto 24/7, gratis.`,
+        },
+      },
+      {
+        name: 'Grund Quarter',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Ville basse aux allures de carte postale, quartier pavé du XVIIIe siècle le long de l'Alzette sous les fortifications, avec cafés riverains, le centre culturel Neumünster et l'église Saint-Jean-du-Grund. Chiens en laisse les bienvenus partout.`,
+          en: `Picture-perfect lower town, an 18th-century cobbled quarter along the Alzette beneath the fortifications, with riverside cafés, the Neumünster cultural centre, and the Saint-Jean-du-Grund church. Leashed dogs welcome throughout.`,
+          es: `Ciudad baja de postal, barrio adoquinado del siglo XVIII a lo largo del Alzette bajo las fortificaciones, con cafés ribereños, el centro cultural Neumünster y la iglesia de Saint-Jean-du-Grund. Perros con correa bienvenidos en todo el barrio.`,
+        },
+      },
+      {
+        name: 'Bambësch Forest',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Forêt de hêtres de 600 hectares à l'extrémité nord-ouest de la ville, plus grande forêt urbaine du Luxembourg. Sentiers balisés où le sans laisse est toléré sur les sentiers intérieurs ; bus 14 gratuit depuis Hamilius.`,
+          en: `600-hectare beech forest at the city's north-western edge, the largest urban forest in Luxembourg. Marked walking trails where off-leash is tolerated on the inner paths; free bus 14 from Hamilius.`,
+          es: `Bosque de hayas de 600 hectáreas en el extremo noroeste de la ciudad, el mayor bosque urbano de Luxemburgo. Senderos señalizados donde se tolera soltarlos en los caminos interiores; autobús 14 gratuito desde Hamilius.`,
+        },
+      },
+      {
+        name: 'Place d\'Armes',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place piétonne arborée au cœur de la Vieille Ville, bordée de terrasses de café dog-friendly, à deux minutes du Palais Grand-Ducal et de la cathédrale Notre-Dame. Centre civique animé, accessible en laisse.`,
+          en: `Tree-lined pedestrian square at the heart of the Old Town, ringed with dog-friendly café terraces, two minutes from the Grand Ducal Palace and the Notre-Dame Cathedral. A lively civic centre, leash-friendly.`,
+          es: `Plaza peatonal arbolada en el corazón del casco antiguo, flanqueada por terrazas de café dog-friendly, a dos minutos del Palacio Gran Ducal y la catedral de Notre-Dame. Animado centro cívico, accesible con correa.`,
+        },
+      },
+      {
+        name: 'Lac de la Haute-Sûre',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Lac-réservoir de 380 hectares dans les Ardennes, à 45 minutes en voiture, plus grand plan d'eau du pays et seul endroit du Luxembourg où les chiens peuvent nager librement sans laisse sur les rives boisées toute l'année.`,
+          en: `380-hectare reservoir lake in the Ardennes, 45 minutes by car, the country's largest body of water and the only place in Luxembourg where dogs can swim freely off-leash on the wooded shores year-round.`,
+          es: `Lago-embalse de 380 hectáreas en las Ardenas, a 45 minutos en coche, la mayor masa de agua del país y el único lugar de Luxemburgo donde los perros pueden bañarse libremente sin correa en las orillas boscosas todo el año.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Transports publics gratuits depuis 2020 — chiens gratuits sur tous les bus, trams et trains CFL nationaux, sans ticket.`,
+        `9 enclos canins municipaux clôturés cartographiés sur vdl.lu sous 'Vivre en ville → Enclos réservé aux chiens' ; les deux du Parc de la Pétrusse sont les plus centraux.`,
+        `Urgence vétérinaire 24h/24 : Clinique Vétérinaire Bereldange, 73 rue de Bridel, +352 33 99 28 ; appelez le 112 si la rotation de garde nationale est plus proche.`,
+        `Hors enclos et sentiers forestiers, la laisse est obligatoire en ville — amende de 49 € pour un chien sans laisse dans la rue.`,
+        `Ascenseur du Pfaffenthal gratuit depuis la Ville-Haute jusqu'à la vallée — bien plus facile que les escaliers raides des fortifications pour les petits chiens ou les chiens âgés.`,
+      ],
+      en: [
+        `Free public transport since 2020 — dogs ride free on all buses, trams, and CFL national trains, no ticket needed.`,
+        `9 fenced municipal dog enclosures mapped on vdl.lu under 'Vivre en ville → Enclos réservé aux chiens'; the two in Parc de la Pétrusse are the most central.`,
+        `24/7 emergency vet: Clinique Vétérinaire Bereldange, 73 rue de Bridel, +352 33 99 28; dial 112 if the national rota's duty clinic is closer.`,
+        `Outside enclosures and forest paths, leashes are required throughout the city — €49 fine for an off-leash dog in the streets.`,
+        `Free Pfaffenthal Lift from the Ville-Haute down to the valley — much easier than the steep fortification staircases for small or older dogs.`,
+      ],
+      es: [
+        `Transporte público gratuito desde 2020: los perros viajan gratis en todos los autobuses, tranvías y trenes nacionales CFL, sin necesidad de billete.`,
+        `9 recintos caninos municipales vallados cartografiados en vdl.lu bajo 'Vivre en ville → Enclos réservé aux chiens'; los dos del Parc de la Pétrusse son los más céntricos.`,
+        `Veterinario de urgencias 24/7: Clinique Vétérinaire Bereldange, 73 rue de Bridel, +352 33 99 28; marca 112 si la clínica de guardia de la rotación nacional está más cerca.`,
+        `Fuera de los recintos y senderos forestales, la correa es obligatoria en toda la ciudad: multa de 49 € por un perro suelto en la calle.`,
+        `Ascensor de Pfaffenthal gratuito desde la Ville-Haute hasta el valle: mucho más fácil que las empinadas escaleras de las fortificaciones para perros pequeños o mayores.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport Findel (LUX) est à 6 km du centre, bus 16 gratuit jusqu'à Hamilius en 25 minutes ; le tram puis CFL desservent ensuite tout le pays.`,
+        `Tarifs hôtels dog-friendly : à partir de 130 € la nuit en 4*, supplément animal moyen 20-30 € par nuit ; le coût hôtelier est plus élevé qu'à Bruxelles ou Trèves voisines.`,
+        `Climat continental modéré : étés frais (19 °C en juillet), hivers humides mais doux (1.5 °C en janvier) ; les vallées du Pétrusse et de l'Alzette sont 2-3 °C plus fraîches que la Ville-Haute en été.`,
+        `Pawshake.com et PetBacker dominent la garde et la promenade ; comptez 15-20 € la promenade, 30-45 € la journée complète, 40-55 € la nuit — tarifs au-dessus de Bruxelles, similaires à Genève.`,
+        `Luxembourg est à 2h30 de Bruxelles en train, 1h45 de Trèves et 1h30 de Metz — point de départ idéal pour un circuit canin Belgique / Allemagne / France.`,
+      ],
+      en: [
+        `Findel Airport (LUX) is 6 km from the centre, free bus 16 to Hamilius in 25 minutes; tram and then CFL reach the rest of the country.`,
+        `Dog-friendly hotel rates: from €130 per night for 4*, average pet supplement €20-30 per night; hotel cost is higher than in nearby Brussels or Trier.`,
+        `Moderate continental climate: cool summers (19 °C in July), wet but mild winters (1.5 °C in January); the Pétrusse and Alzette valleys are 2-3 °C cooler than the Ville-Haute in summer.`,
+        `Pawshake.com and PetBacker dominate sitting and walking; budget €15-20 per walk, €30-45 per full day, €40-55 per night — rates above Brussels, similar to Geneva.`,
+        `Luxembourg is 2h30 from Brussels by train, 1h45 from Trier, and 1h30 from Metz — an ideal starting point for a Belgium / Germany / France dog circuit.`,
+      ],
+      es: [
+        `El aeropuerto Findel (LUX) está a 6 km del centro, autobús 16 gratuito hasta Hamilius en 25 minutos; el tranvía y luego CFL llegan al resto del país.`,
+        `Tarifas de hoteles dog-friendly: desde 130 € por noche en 4*, suplemento medio por mascota 20-30 € por noche; el coste hotelero es mayor que en Bruselas o Tréveris cercanas.`,
+        `Clima continental moderado: veranos frescos (19 °C en julio), inviernos húmedos pero suaves (1.5 °C en enero); los valles del Pétrusse y el Alzette están 2-3 °C más frescos que la Ville-Haute en verano.`,
+        `Pawshake.com y PetBacker dominan el cuidado y paseo; cuenta 15-20 € por paseo, 30-45 € por día completo, 40-55 € por noche: tarifas por encima de Bruselas, similares a Ginebra.`,
+        `Luxemburgo está a 2h30 de Bruselas en tren, 1h45 de Tréveris y 1h30 de Metz: punto de partida ideal para un circuito canino Bélgica / Alemania / Francia.`,
+      ],
+    },
+  },
+
   lyon: {
     history: {
       en: 'Lyon — France\'s second city by economic weight, often called the gastronomic capital of the world — sits at the confluence of the Rhône and Saône rivers. With 500,000 inhabitants and a dense network of traboules (covered passageways), hillside parks and riverside quays, Lyon is as good for dog owners as it is for food lovers. The city\'s UNESCO-listed Vieux Lyon and the Fourvière hill offer contrasting dog walk environments: tight medieval lanes below, open gardens and Roman ruins above. Lyonnais take their dogs to the bouchons (traditional bistros) as a matter of course.',

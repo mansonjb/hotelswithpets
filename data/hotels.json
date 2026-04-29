@@ -13168,6 +13168,125 @@
     "slug": "hotel-metropol"
   },
   {
+    "id": "zagreb-1",
+    "name": "Esplanade Zagreb Hotel",
+    "destinationSlug": "zagreb",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 4127,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/esplanade-zagreb.html",
+    "petFee": 45,
+    "petPolicy": "Esplanade Zagreb welcomes dogs and cats of any size for €45 per stay through its 'VIP Dog Service' (food and water bowls, dog bed, welcome treat). Pets are not allowed unattended in rooms or in the restaurant.",
+    "highlights": [
+      "1925 Art Nouveau landmark next to the main railway station",
+      "VIP Dog Service amenity package",
+      "Walk to Ban Jelačić Square and Tkalčićeva"
+    ],
+    "slug": "esplanade-zagreb-hotel-zagreb"
+  },
+  {
+    "id": "zagreb-2",
+    "name": "Sheraton Zagreb Hotel",
+    "destinationSlug": "zagreb",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 3614,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/sheraton-zagreb.html",
+    "petFee": 0,
+    "petPolicy": "Sheraton Zagreb accepts up to 2 pets up to 20 kg combined at no extra charge in designated rooms; larger pets €30 per stay. Dogs and cats welcome. Pets are not allowed in the restaurant or pool area.",
+    "highlights": [
+      "Free pet stay for small dogs and cats under 20 kg",
+      "Heated indoor pool, full spa",
+      "10-min walk to Ban Jelačić Square"
+    ],
+    "slug": "sheraton-zagreb-hotel-zagreb"
+  },
+  {
+    "id": "zagreb-3",
+    "name": "The Westin Zagreb",
+    "destinationSlug": "zagreb",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2910,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/the-westin-zagreb.html",
+    "petFee": 25,
+    "petPolicy": "The Westin Zagreb accepts dogs and cats up to 18 kg for €25 per pet per stay. Pets are not permitted in the restaurant or pool area; service animals stay free without restriction.",
+    "highlights": [
+      "Walking distance to Mimara Museum and Botanical Garden",
+      "Heated indoor pool and full-service spa",
+      "Heavenly Bed bedding for guests"
+    ],
+    "slug": "the-westin-zagreb-zagreb"
+  },
+  {
+    "id": "zagreb-4",
+    "name": "DoubleTree by Hilton Zagreb",
+    "destinationSlug": "zagreb",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4856,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/double-tree-by-hilton-zagreb.html",
+    "petFee": 25,
+    "petPolicy": "DoubleTree by Hilton Zagreb accepts up to 2 dogs or cats per room (max 34 kg combined) for €25 per pet per stay. Pets are not allowed in the restaurant; signature warm chocolate-chip cookie at check-in.",
+    "highlights": [
+      "Quiet residential location near Maksimir Park",
+      "Tram 4 and 7 to centre in 12 minutes",
+      "Indoor pool and gym"
+    ],
+    "slug": "doubletree-by-hilton-zagreb-zagreb"
+  },
+  {
+    "id": "zagreb-5",
+    "name": "Hotel Dubrovnik Zagreb",
+    "destinationSlug": "zagreb",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 5723,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/dubrovnik.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Dubrovnik accepts dogs and cats up to 20 kg for €15 per pet per night. Pets are welcome in rooms and in the lobby; not permitted in the restaurant. 2-minute walk to Ban Jelačić Square and Zrinjevac Park.",
+    "highlights": [
+      "Historic 1929 hotel on Ban Jelačić main square",
+      "Walk to Tkalčićeva and Zrinjevac Park",
+      "Tram and funicular at the door"
+    ],
+    "slug": "hotel-dubrovnik-zagreb-zagreb"
+  },
+  {
     "id": "zurich-1",
     "name": "Park Hyatt Zurich – City Center Luxury",
     "destinationSlug": "zurich",

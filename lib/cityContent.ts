@@ -9057,6 +9057,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  zagreb: {
+    history: {
+      fr: `Zagreb est née de la fusion en 1850 de deux bourgs médiévaux distincts perchés sur des collines voisines : Kaptol, le siège ecclésiastique fortifié autour de la cathédrale, et Gradec (ou Gornji Grad), le bourg royal libre dont les remparts abritaient marchands et artisans. La frontière entre les deux passait par l'actuelle rue Tkalčićeva, jadis un torrent et aujourd'hui le couloir piéton et café le plus animé de la ville. Capitale de la Croatie depuis l'indépendance de 1991, Zagreb a conservé son urbanisme habsbourgeois — la « Lenuci horseshoe » de la Ville Basse aligne sept squares verts en fer à cheval — tout en se réinventant comme métropole détendue, marchable et étonnamment dog-friendly. Les chiens sont une présence quotidienne sur les terrasses, dans les transports publics et dans les quatre grands parcs urbains qui encerclent le centre.`,
+      en: `Zagreb was created in 1850 by merging two distinct medieval towns perched on neighbouring hills: Kaptol, the fortified ecclesiastical seat around the cathedral, and Gradec (or Gornji Grad), the free royal town whose ramparts sheltered merchants and craftsmen. The boundary between them ran along today's Tkalčićeva Street, once a stream and now the city's liveliest pedestrian café strip. Capital of Croatia since independence in 1991, Zagreb has kept its Habsburg-era urbanism — the Lower Town's Lenuci horseshoe lines up seven green squares in a U-shape — while reinventing itself as a relaxed, walkable, and unexpectedly dog-friendly metropolis. Dogs are an everyday presence on terraces, in public transport, and in the four large urban parks that ring the centre.`,
+      es: `Zagreb nació en 1850 de la fusión de dos villas medievales separadas, encaramadas en colinas vecinas: Kaptol, sede eclesiástica fortificada en torno a la catedral, y Gradec (o Gornji Grad), villa real libre cuyas murallas acogían a mercaderes y artesanos. El límite entre ambas seguía la actual calle Tkalčićeva, antes un torrente y hoy el corredor peatonal y de cafés más animado de la ciudad. Capital de Croacia desde la independencia de 1991, Zagreb ha conservado su urbanismo de época habsbúrgica — la herradura de Lenuci en la Ciudad Baja alinea siete plazas verdes en U — al tiempo que se ha reinventado como una metrópoli relajada, caminable y sorprendentemente dog-friendly. Los perros son una presencia cotidiana en las terrazas, en el transporte público y en los cuatro grandes parques urbanos que rodean el centro.`,
+    },
+    sights: [
+      {
+        name: 'Maksimir Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc emblématique de Zagreb (316 ha) avec cinq lacs et la principale zone canine clôturée sans laisse de la ville. Trams 4, 7, 11, 12.`,
+          en: `Zagreb's flagship 316-hectare park with five lakes and the city's main fenced off-leash dog zone. Tram lines 4, 7, 11, 12.`,
+          es: `Parque emblemático de Zagreb (316 ha) con cinco lagos y la principal zona canina vallada sin correa de la ciudad. Tranvías 4, 7, 11, 12.`,
+        },
+      },
+      {
+        name: 'Gornji Grad',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Ville Haute médiévale aux ruelles pavées : église Saint-Marc au toit en tuiles colorées, Porte de Pierre, tour Lotrščak et son canon de midi. Atteinte par le funiculaire.`,
+          en: `Medieval Upper Town of cobbled lanes: St. Mark's Church with its colourfully tiled roof, the Stone Gate, Lotrščak Tower and its noon cannon. Reached by funicular.`,
+          es: `Ciudad Alta medieval de calles adoquinadas: iglesia de San Marcos con tejado de azulejos de colores, Puerta de Piedra, torre Lotrščak con cañonazo del mediodía. Se sube en funicular.`,
+        },
+      },
+      {
+        name: 'Tkalčićeva Street',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: `Rue piétonne bordée de cafés à terrasse et bars, ancien torrent qui séparait Kaptol de Gradec. La plus forte concentration de terrasses dog-friendly de la ville.`,
+          en: `Pedestrian street lined with terrace cafés and bars, once a stream that separated Kaptol from Gradec. The densest cluster of dog-friendly terraces in the city.`,
+          es: `Calle peatonal bordeada de terrazas de café y bares, antiguo torrente que separaba Kaptol de Gradec. La mayor densidad de terrazas dog-friendly de la ciudad.`,
+        },
+      },
+      {
+        name: 'Mirogoj Cemetery',
+        emoji: '🕊️',
+        petFriendly: true,
+        desc: {
+          fr: `Cimetière monumental d'Hermann Bollé (XIXe), classé parmi les plus beaux d'Europe : arcades couvertes de lierre et allées de cyprès. Chiens en laisse bienvenus sur les allées principales.`,
+          en: `Hermann Bollé's monumental 19th-century cemetery, ranked among Europe's most beautiful: ivy-clad arcades and cypress avenues. Leashed dogs welcome on the main avenues.`,
+          es: `Cementerio monumental de Hermann Bollé del siglo XIX, considerado uno de los más hermosos de Europa: arcadas cubiertas de hiedra y avenidas de cipreses. Perros con correa bienvenidos en las avenidas principales.`,
+        },
+      },
+      {
+        name: 'Jarun Lake',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: `Parc de loisirs lacustre de 240 ha à l'ouest avec un sentier périmétrique de 7 km et deux sections de plage canine sur la rive sud (baignade libre en été).`,
+          en: `240-hectare lakeside recreation park to the west with a 7 km perimeter path and two dog-beach sections on the southern shore (off-leash swimming in summer).`,
+          es: `Parque recreativo lacustre de 240 ha al oeste con un sendero perimetral de 7 km y dos secciones de playa canina en la orilla sur (baño sin correa en verano).`,
+        },
+      },
+      {
+        name: 'Zagreb Funicular',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Plus court funiculaire public au monde (66 m, 30 secondes), construit en 1890. Les chiens en laisse y voyagent sans muselière obligatoire à la montée.`,
+          en: `World's shortest public funicular (66 m, 30 seconds), built in 1890. Leashed dogs ride without a muzzle requirement on the way up.`,
+          es: `El funicular público más corto del mundo (66 m, 30 segundos), construido en 1890. Los perros con correa suben sin bozal obligatorio.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens de plus de 30 cm au garrot doivent porter une muselière dans les trams, bus et le funiculaire ZET — billet animal demi-tarif (≈ 0,85 €) à acheter au kiosque avant de monter.`,
+        `Les zones sans laisse sont strictement délimitées et clôturées : Maksimir (entre les 2e et 3e lacs), Bundek (zone ouest), Jarun (deux plages canines au sud). Hors de ces zones, la laisse est obligatoire.`,
+        `Les terrasses de Tkalčićeva acceptent universellement les chiens et apportent un bol d'eau sans demande ; en hiver, beaucoup de cafés tolèrent l'intérieur près de la porte.`,
+        `En été, programmez les promenades tôt le matin (avant 9 h) et après 19 h — les après-midi atteignent 30-32 °C en juillet-août. Les pavés du Vieux Lille brûlent les coussinets.`,
+        `Vétérinaires d'urgence 24h/24 : Buba Klinika (Riječka 10) au sud-ouest et l'Hôpital Vétérinaire Universitaire (Heinzelova 55) en centre-est — appelez le +385 60 600 100 pour le médecin de garde.`,
+      ],
+      en: [
+        `Dogs over 30 cm at the withers must wear a muzzle on ZET trams, buses, and the funicular — a half-fare pet ticket (≈ €0.85) is sold at kiosks before boarding.`,
+        `Off-leash zones are strictly fenced and signposted: Maksimir (between the 2nd and 3rd lakes), Bundek (western zone), Jarun (two dog beaches on the southern shore). Leashes are mandatory outside these zones.`,
+        `Tkalčićeva Street terraces universally accept dogs and bring a water bowl unprompted; in winter, many cafés tolerate dogs indoors near the entrance.`,
+        `In summer, plan walks before 9 am and after 7 pm — afternoons reach 30-32 °C in July-August. Old Town cobbles burn paw pads in direct sun.`,
+        `24/7 emergency vets: Buba Klinika (Riječka 10) in the southwest and the Veterinary Teaching Hospital (Heinzelova 55) in the centre-east — call +385 60 600 100 for the on-duty vet.`,
+      ],
+      es: [
+        `Los perros de más de 30 cm a la cruz deben llevar bozal en tranvías, autobuses y funicular ZET — billete de mascota a mitad de precio (≈ 0,85 €) en quiosco antes de subir.`,
+        `Las zonas sin correa están estrictamente valladas y señalizadas: Maksimir (entre el 2.º y 3.er lago), Bundek (zona oeste), Jarun (dos playas caninas en la orilla sur). Fuera de ellas, correa obligatoria.`,
+        `Las terrazas de Tkalčićeva admiten universalmente perros y traen un cuenco de agua sin que se les pida; en invierno, muchos cafés toleran al perro dentro cerca de la entrada.`,
+        `En verano, planifica los paseos antes de las 9 h y después de las 19 h — las tardes alcanzan 30-32 °C en julio-agosto. Los adoquines del casco viejo queman las almohadillas al sol.`,
+        `Veterinarios de urgencias 24/7: Buba Klinika (Riječka 10) al suroeste y el Hospital Veterinario Universitario (Heinzelova 55) en el centro-este — llama al +385 60 600 100 para el veterinario de guardia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `La Croatie est dans l'UE — passeport européen pour animaux, vaccination antirabique valide et puce ISO 11784/11785 obligatoires. Les contrôles à l'entrée par voie terrestre sont systématiques.`,
+        `L'aéroport de Zagreb (ZAG) est à 17 km au sud-est ; Bolt est l'option taxi pet-friendly la moins chère vers le centre (18-22 €, 25 min). Indiquez « animal » dans les notes.`,
+        `Climat continental : étés chauds (24-32 °C, juillet-août), hivers froids (-2 à 5 °C, neige de décembre à février) — équipez votre chien d'un manteau pour les races à poil court.`,
+        `L'euro est la monnaie depuis 2023 ; les prix sont nettement inférieurs à l'Europe de l'Ouest — comptez environ 60-70 % d'un budget Paris pour un même standing d'hôtel.`,
+        `Konzum, Spar et Lidl sont les supermarchés courants ; tous les trois proposent croquettes et sachets de qualité. Maxi Zoo (animalerie) a deux magasins en périphérie pour les marques premium.`,
+      ],
+      en: [
+        `Croatia is in the EU — EU pet passport, valid rabies vaccination and an ISO 11784/11785 microchip are mandatory. Land-border checks on entry are systematic.`,
+        `Zagreb Airport (ZAG) is 17 km southeast of the centre; Bolt is the cheapest pet-friendly taxi option to town (€18-22, 25 minutes). Add 'pet' in the booking notes.`,
+        `Continental climate: hot summers (24-32 °C in July-August), cold winters (-2 to 5 °C, snow from December to February) — pack a coat for short-haired breeds.`,
+        `The euro has been Croatia's currency since 2023; prices are markedly lower than Western Europe — expect roughly 60-70% of a Paris budget for the same hotel standard.`,
+        `Konzum, Spar, and Lidl are the everyday supermarkets; all three carry kibble and pouches at decent quality. Maxi Zoo (pet store) has two suburban branches for premium brands.`,
+      ],
+      es: [
+        `Croacia está en la UE — pasaporte europeo para mascotas, vacuna antirrábica vigente y microchip ISO 11784/11785 son obligatorios. Los controles fronterizos terrestres a la entrada son sistemáticos.`,
+        `El aeropuerto de Zagreb (ZAG) está 17 km al sureste del centro; Bolt es la opción de taxi pet-friendly más barata al centro (18-22 €, 25 min). Añade «mascota» en las notas.`,
+        `Clima continental: veranos calurosos (24-32 °C en julio-agosto), inviernos fríos (-2 a 5 °C, nieve de diciembre a febrero) — lleva un abrigo para razas de pelo corto.`,
+        `El euro es la moneda desde 2023; los precios son claramente más bajos que en Europa Occidental — calcula alrededor del 60-70 % de un presupuesto de París para la misma categoría hotelera.`,
+        `Konzum, Spar y Lidl son los supermercados habituales; los tres llevan pienso y sobres de calidad decente. Maxi Zoo (tienda de animales) tiene dos sucursales periféricas para marcas premium.`,
+      ],
+    },
+  },
+
   zurich: {
     history: {
       fr: `Zurich, fondée par les Romains sous le nom de Turicum au bord de la Limmat, est passée du bourg marchand médiéval au centre financier de la Suisse, référence mondiale de qualité de vie. Huldrych Zwingli y lança la Réforme suisse depuis le Grossmünster en 1519, façonnant une éthique civique encore attachée à l'ordre et à la précision. Le canton prend les chiens au sérieux : chaque maître paie une Hundesteuer cantonale (env. 170 CHF pour le premier chien en 2026), l'animal doit être pucé dans la base AMICUS et l'assurance responsabilité civile est obligatoire. Le Hundeführerschein fédéral a été supprimé en 2017, mais Zurich a réintroduit un cours pratique pour les primo-propriétaires. En échange, la ville est taillée pour les chiens : baignades propres dans le lac, compartiments de tram dédiés, crêtes boisées de l'Uetliberg et accueil exceptionnellement généreux dans les restaurants et boutiques.`,

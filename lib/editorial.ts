@@ -422,6 +422,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
       area: 'Śródmieście, Praga, and the Powiśle riverside district',
     },
+    zagreb: {
+      personality: 'a relaxed Habsburg-era capital where dogs ride the world\'s shortest funicular, café terraces line pedestrian Tkalčićeva, and 316-hectare Maksimir Park has the city\'s main fenced off-leash zone',
+      highlight: 'Maksimir Park, the medieval Upper Town, and the Jarun lake dog-beach sections',
+      area: 'Donji Grad, Gornji Grad, and the Maksimir lakes district',
+    },
     zurich: {
       personality: 'a city that ranks among Europe\'s most dog-friendly. With dedicated dog zones on lake beaches, dog-friendly trams, and pet passports accepted everywhere',
       highlight: 'the Zürichsee lakefront, Uetliberg hill, and the Sihl river trails',
@@ -829,6 +834,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
       area: 'Śródmieście, Praga et le quartier riverain de Powiśle',
     },
+    zagreb: {
+      personality: `une capitale d'époque habsbourgeoise détendue où les chiens prennent le plus court funiculaire public au monde, où les terrasses bordent la rue piétonne Tkalčićeva, et où le parc Maksimir (316 ha) abrite la principale zone clôturée sans laisse de la ville`,
+      highlight: `le parc Maksimir, la Ville Haute médiévale et les sections plage canine du lac Jarun`,
+      area: `Donji Grad, Gornji Grad et le quartier des lacs de Maksimir`,
+    },
     zurich: {
       personality: 'une ville qui figure parmi les plus dog-friendly d\'Europe. Avec des zones dédiées aux chiens sur les plages, des tramways dog-friendly et les passeports pour animaux acceptés partout',
       highlight: 'le front de lac du Zürichsee, la colline de l\'Uetliberg et les sentiers de la rivière Sihl',
@@ -1235,6 +1245,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital europea en rápida modernización donde los hoteles pet-friendly son cada vez más la norma y los parques ribereños ofrecen excelentes paseos',
       highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
       area: 'Śródmieście, Praga y el barrio ribereño de Powiśle',
+    },
+    zagreb: {
+      personality: `una capital relajada de época habsbúrgica donde los perros suben en el funicular público más corto del mundo, las terrazas bordean la calle peatonal Tkalčićeva y el parque Maksimir (316 ha) alberga la principal zona vallada sin correa de la ciudad`,
+      highlight: `el parque Maksimir, la Ciudad Alta medieval y las secciones de playa canina del lago Jarun`,
+      area: `Donji Grad, Gornji Grad y el barrio de los lagos de Maksimir`,
     },
     zurich: {
       personality: 'una ciudad que figura entre las más dog-friendly de Europa. Con zonas dedicadas a perros en las playas, tranvías pet-friendly y pasaportes de mascotas aceptados en todas partes',

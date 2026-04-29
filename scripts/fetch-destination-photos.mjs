@@ -61,6 +61,7 @@ const TARGETS = [
   { slug: 'glasgow', query: 'Glasgow Cathedral Necropolis skyline River Clyde panorama' },
   { slug: 'luxembourg', query: 'Luxembourg City Bock fortifications Alzette valley sunset panorama' },
   { slug: 'lille', query: 'Lille Grand Place Vieille Bourse flemish gabled architecture sunset' },
+  { slug: 'zagreb', query: 'Zagreb Croatia St Marks Church colourful tiled roof Upper Town panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

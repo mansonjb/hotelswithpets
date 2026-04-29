@@ -5862,6 +5862,80 @@
     }
   },
   {
+    "slug": "zagreb",
+    "name": "Zagreb",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "flag": "🇭🇷",
+    "lat": 45.815,
+    "lng": 15.9819,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/zagreb.jpg",
+    "intro": "Zagreb is one of central Europe's most relaxed capitals for travelling with a dog — a flat, walkable city of Habsburg-era squares, a 316-hectare lakeside park, dog-friendly café terraces on Tkalčićeva, and the world's shortest public funicular linking the medieval Upper Town.",
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & frosty",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & dry",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "zurich",
     "name": "Zurich",
     "country": "Switzerland",

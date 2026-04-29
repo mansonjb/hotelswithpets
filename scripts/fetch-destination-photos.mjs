@@ -60,6 +60,7 @@ const TARGETS = [
   { slug: 'manchester', query: 'Manchester Castlefield basin canal Beetham Tower skyline' },
   { slug: 'glasgow', query: 'Glasgow Cathedral Necropolis skyline River Clyde panorama' },
   { slug: 'luxembourg', query: 'Luxembourg City Bock fortifications Alzette valley sunset panorama' },
+  { slug: 'lille', query: 'Lille Grand Place Vieille Bourse flemish gabled architecture sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

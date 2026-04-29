@@ -2638,6 +2638,80 @@
     }
   },
   {
+    "slug": "lille",
+    "name": "Lille",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "lat": 50.6292,
+    "lng": 3.0573,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lille.jpg",
+    "intro": "Lille is northern France's flemish-influenced capital — a flat, walkable city of cobbled lanes and brick gabled houses where dogs join their owners on café terraces, ride the métro free, and explore Europe's first dedicated dog café.",
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "lisbon",
     "name": "Lisbon",
     "country": "Portugal",

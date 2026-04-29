@@ -4073,6 +4073,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lille: {
+    history: {
+      fr: `Lille est la capitale historique des Flandres françaises, ancien comptoir drapier médiéval qui changea plusieurs fois de mains entre la France, la Bourgogne et les Pays-Bas espagnols avant d'être rattachée définitivement à la France par Louis XIV en 1668. Vauban y construisit alors la Citadelle pentagonale, encore l'un des plus beaux ensembles fortifiés d'Europe. Au XIXe siècle, Lille devint un cœur de la révolution industrielle textile française ; aujourd'hui, la ville s'est réinventée autour des services, du commerce et d'un campus universitaire de plus de 110 000 étudiants. Le centre piéton du Vieux Lille, soigneusement restauré, et la Grand Place encadrée par la Vieille Bourse en font l'une des destinations urbaines les plus marchables et photogéniques du nord de la France — particulièrement adaptée aux voyageurs accompagnés de leur animal.`,
+      en: `Lille is the historic capital of French Flanders, a medieval cloth-trading town that changed hands several times between France, Burgundy, and the Spanish Netherlands before Louis XIV definitively annexed it to France in 1668. Vauban then built the pentagonal Citadelle, still one of Europe's finest fortified ensembles. In the 19th century Lille became a heartland of French textile industry; today, the city has reinvented itself around services, retail, and a university campus of more than 110,000 students. The carefully restored pedestrian centre of Vieux Lille, with its Grand Place framed by the Vieille Bourse, makes it one of the most walkable and photogenic urban destinations in northern France — particularly suited to travellers with a pet.`,
+      es: `Lille es la capital histórica de Flandes francés, antiguo enclave pañero medieval que cambió varias veces de manos entre Francia, Borgoña y los Países Bajos españoles antes de ser anexionado definitivamente a Francia por Luis XIV en 1668. Vauban construyó entonces la Citadelle pentagonal, todavía uno de los conjuntos fortificados más bellos de Europa. En el siglo XIX, Lille se convirtió en un corazón de la revolución industrial textil francesa; hoy, la ciudad se ha reinventado en torno a los servicios, el comercio y un campus universitario de más de 110.000 estudiantes. El centro peatonal del Vieux Lille, cuidadosamente restaurado, y la Grand Place enmarcada por la Vieille Bourse la convierten en uno de los destinos urbanos más caminables y fotogénicos del norte de Francia — particularmente apto para viajeros con mascota.`,
+    },
+    sights: [
+      {
+        name: 'Vieux Lille',
+        emoji: '🧱',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier ancien aux ruelles pavées et façades de brique flamandes — entièrement piéton, idéal pour la promenade quotidienne et concentrant les terrasses de cafés acceptant les chiens.`,
+          en: `The old quarter of cobbled lanes and flemish brick façades — entirely pedestrianised, ideal for daily walks and home to the densest cluster of dog-friendly café terraces.`,
+          es: `El barrio antiguo de calles adoquinadas y fachadas flamencas de ladrillo — totalmente peatonal, ideal para el paseo diario y con la mayor densidad de terrazas de café que aceptan perros.`,
+        },
+      },
+      {
+        name: 'Grand Place',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place principale de Lille, dominée par la Vieille Bourse du XVIIe siècle et entourée de cafés à terrasse. Espace public ouvert où les chiens en laisse sont les bienvenus toute l'année.`,
+          en: `Lille's main square, dominated by the 17th-century Vieille Bourse and ringed by café terraces. An open public space where leashed dogs are welcome year-round.`,
+          es: `La plaza principal de Lille, dominada por la Vieille Bourse del siglo XVII y rodeada de terrazas de café. Un espacio público abierto donde se admiten perros con correa todo el año.`,
+        },
+      },
+      {
+        name: 'Citadelle de Lille',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse pentagonale de Vauban (1668) entourée d'un parc public de 110 hectares avec remparts, douves et bois — itinéraire classique pour la promenade longue avec un chien.`,
+          en: `Vauban's pentagonal fortress (1668) surrounded by a 110-hectare public park with ramparts, moats, and woodland — the classic long-walk route with a dog.`,
+          es: `Fortaleza pentagonal de Vauban (1668) rodeada por un parque público de 110 hectáreas con murallas, fosos y arbolado — la ruta clásica para el paseo largo con perro.`,
+        },
+      },
+      {
+        name: 'Bois de Boulogne',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Bois urbain de 60 hectares attenant à la Citadelle, traversé d'allées et de prairies. Les chiens en laisse sont autorisés sur tous les sentiers principaux.`,
+          en: `60-hectare urban woodland adjoining the Citadelle, threaded with paths and meadows. Leashed dogs are permitted on all main trails.`,
+          es: `Bosque urbano de 60 hectáreas anexo a la Citadelle, atravesado por caminos y praderas. Los perros con correa se admiten en todos los senderos principales.`,
+        },
+      },
+      {
+        name: 'Parc de la Deûle',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Parc fluvial le long du canal de la Deûle au sud-ouest du centre, avec pistes cyclables et chemins de halage — espace dégagé idéal pour les longues marches.`,
+          en: `Riverside park along the Deûle canal southwest of the centre, with cycle paths and tow-paths — open space ideal for long walks.`,
+          es: `Parque fluvial junto al canal de la Deûle al suroeste del centro, con carriles bici y caminos de sirga — espacio abierto ideal para largas caminatas.`,
+        },
+      },
+      {
+        name: 'Le Waf',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: `Premier café à chiens d'Europe, ouvert à Lille en 2018. Droit d'entrée fixe couvrant boissons à volonté et 90 minutes avec la meute résidente — une attraction unique.`,
+          en: `Europe's first dedicated dog café, opened in Lille in 2018. Flat entry fee covers unlimited drinks and 90 minutes with the resident dog pack — a one-of-a-kind venue.`,
+          es: `El primer café canino de Europa, abierto en Lille en 2018. Tarifa fija de entrada que cubre bebidas ilimitadas y 90 minutos con la jauría residente — un local único.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens voyagent gratuitement dans le métro, le tramway et les bus Ilévia — laisse obligatoire en permanence, muselière obligatoire pour les chiens classés (catégories 1 et 2).`,
+        `Le parc de la Citadelle (110 ha) est le grand espace de promenade quotidienne — les chiens doivent rester en laisse mais les sentiers font le tour complet des remparts (≈ 4 km).`,
+        `Les terrasses du Vieux Lille acceptent quasi-systématiquement les chiens — demandez à l'accueil ; en hiver, beaucoup de cafés tolèrent aussi le chien à l'intérieur près de la porte.`,
+        `Réservez Le Waf (26 rue Léon Gambetta) au moins 48 h à l'avance le week-end — l'endroit est minuscule et les créneaux partent vite.`,
+        `Les vétérinaires d'urgence 24 h sont en périphérie : VET24 Marcq-en-Barœul (8 km) et la clinique de Lesquin près de l'aéroport (10 km) — gardez les coordonnées en arrivant.`,
+      ],
+      en: [
+        `Dogs travel free on the Ilévia métro, tram, and bus network — lead required at all times, muzzle compulsory for category-1 and category-2 listed dogs.`,
+        `The 110-hectare Citadelle park is the main daily-walk space — dogs must stay leashed but a full ramparts loop is around 4 km.`,
+        `Vieux Lille terrace cafés almost universally accept dogs — just ask on arrival; in winter, many also tolerate dogs indoors near the entrance.`,
+        `Book Le Waf (26 rue Léon Gambetta) at least 48 hours ahead at weekends — the venue is small and slots fill fast.`,
+        `24/7 emergency vets sit on the outskirts: VET24 Marcq-en-Barœul (8 km out) and the Lesquin airport clinic (10 km) — save the contacts on arrival.`,
+      ],
+      es: [
+        `Los perros viajan gratis en metro, tranvía y autobús Ilévia — correa obligatoria en todo momento, bozal obligatorio para perros clasificados (categorías 1 y 2).`,
+        `El parque de la Citadelle (110 ha) es el gran espacio de paseo diario — los perros deben ir con correa pero el bucle completo de las murallas mide unos 4 km.`,
+        `Las terrazas del Vieux Lille admiten casi universalmente a los perros — basta con preguntar al llegar; en invierno, muchos cafés también toleran al perro dentro cerca de la entrada.`,
+        `Reserva Le Waf (26 rue Léon Gambetta) con al menos 48 h de antelación los fines de semana — el local es pequeño y las plazas se agotan rápido.`,
+        `Los veterinarios de urgencia 24 h están en las afueras: VET24 Marcq-en-Barœul (8 km) y la clínica de Lesquin junto al aeropuerto (10 km) — guarda los contactos al llegar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Lille est dans l'UE — passeport européen pour animaux avec vaccination antirabique valide ; entrée depuis le Royaume-Uni soumise au régime UE depuis le Brexit.`,
+        `Lille-Europe (Eurostar et TGV) place les voyageurs à 1 h de Bruxelles, 1 h de Paris et 1 h 20 de Londres — les chiens sont acceptés en cabine sur Eurostar (max 5 par train, billet additionnel 30 £/€).`,
+        `Climat océanique tempéré : étés doux (18-22 °C), hivers frais et humides (3-7 °C) — prévoir l'imperméable même en été et un manteau pour les petits chiens entre novembre et mars.`,
+        `L'aéroport de Lille-Lesquin (LIL) est à 10 km au sud — petit, peu de vols intercontinentaux ; la plupart des voyageurs internationaux atterrissent à Bruxelles ou Paris-CDG et prennent le TGV.`,
+        `Les supermarchés Carrefour Market et Monoprix du centre proposent croquettes et accessoires de base ; pour les marques premium, l'animalerie Maxi Zoo de Lomme (10 min en métro) reste l'option la plus fournie.`,
+      ],
+      en: [
+        `Lille is in the EU — EU pet passport with valid rabies vaccination; entry from the UK falls under EU rules since Brexit.`,
+        `Lille-Europe station (Eurostar and TGV) puts travellers 1 h from Brussels, 1 h from Paris, and 1 h 20 from London — dogs are accepted on Eurostar (max 5 per train, extra ticket £30/€30).`,
+        `Temperate oceanic climate: mild summers (18-22 °C), cool damp winters (3-7 °C) — pack waterproofs even in summer and a small-dog coat from November to March.`,
+        `Lille-Lesquin Airport (LIL) is 10 km south — small, few intercontinental flights; most international travellers fly into Brussels or Paris-CDG and take the TGV.`,
+        `Central Carrefour Market and Monoprix supermarkets stock basic kibble and accessories; for premium brands, the Maxi Zoo pet store in Lomme (10 min by métro) is the best-stocked option.`,
+      ],
+      es: [
+        `Lille está en la UE — pasaporte europeo para mascotas con vacuna antirrábica vigente; la entrada desde Reino Unido se rige por las normas de la UE desde el Brexit.`,
+        `La estación Lille-Europe (Eurostar y TGV) sitúa al viajero a 1 h de Bruselas, 1 h de París y 1 h 20 de Londres — se admiten perros en Eurostar (máx. 5 por tren, billete adicional 30 £/€).`,
+        `Clima oceánico templado: veranos suaves (18-22 °C), inviernos frescos y húmedos (3-7 °C) — lleva impermeable incluso en verano y un abriguito para perros pequeños de noviembre a marzo.`,
+        `El aeropuerto Lille-Lesquin (LIL) está 10 km al sur — pequeño, pocos vuelos intercontinentales; la mayoría de viajeros internacionales aterrizan en Bruselas o París-CDG y toman el TGV.`,
+        `Los supermercados Carrefour Market y Monoprix del centro ofrecen pienso básico y accesorios; para marcas premium, la tienda Maxi Zoo de Lomme (10 min en metro) es la mejor surtida.`,
+      ],
+    },
+  },
+
   lisbon: {
     history: {
       fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises — d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa en damier — la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses — idéale pour voyager avec un animal toute l'année.`,

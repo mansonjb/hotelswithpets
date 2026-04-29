@@ -201,6 +201,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
       area: 'Ouchy (lakeside), the Flon creative district, and the medieval Cité',
     },
+    lille: {
+      personality: 'a flemish-influenced northern French city of cobbled lanes and brick gabled houses, home to Europe\'s first dedicated dog café and a flat, walkable centre where dogs ride the métro free of charge',
+      highlight: 'the Citadelle ramparts walk, the Bois de Boulogne urban forest, and the Vieux Lille terrace cafés',
+      area: 'Vieux Lille, Wazemmes, and the Vauban student quarter',
+    },
     lisbon: {
       personality: 'a sunlit, hilly city whose mild climate makes it ideal for travelling with pets year-round',
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
@@ -604,6 +609,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
       area: 'Ouchy (bord du lac), le quartier créatif du Flon et la Cité médiévale',
     },
+    lille: {
+      personality: `une ville du nord de la France d'influence flamande, faite de ruelles pavées et de maisons à pignons en brique, qui abrite le premier café à chiens d'Europe et un centre plat et marchable où les chiens voyagent gratuitement en métro`,
+      highlight: `la promenade des remparts de la Citadelle, le Bois de Boulogne urbain et les terrasses du Vieux Lille`,
+      area: `le Vieux Lille, Wazemmes et le quartier étudiant de Vauban`,
+    },
     lisbon: {
       personality: 'une ville ensoleillée et vallonnée dont le climat doux la rend idéale pour voyager avec des animaux toute l\'année',
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
@@ -1005,6 +1015,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la Capital Olímpica suiza en el lago Lemán — una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
       area: 'Ouchy (a orillas del lago), el barrio creativo del Flon y la Cité medieval',
+    },
+    lille: {
+      personality: `una ciudad del norte de Francia de influencia flamenca, de calles adoquinadas y casas de ladrillo con frontones, sede del primer café canino de Europa y con un centro plano y caminable donde los perros viajan gratis en metro`,
+      highlight: `el paseo por las murallas de la Citadelle, el Bois de Boulogne urbano y las terrazas del Vieux Lille`,
+      area: `el Vieux Lille, Wazemmes y el barrio estudiantil de Vauban`,
     },
     lisbon: {
       personality: 'una ciudad soleada y con colinas cuyo clima suave la hace ideal para viajar con mascotas durante todo el año',

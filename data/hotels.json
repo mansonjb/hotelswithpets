@@ -5839,6 +5839,123 @@
     "slug": "alpha-palmiers-hotel-lausanne"
   },
   {
+    "id": "lille-1",
+    "name": "L'Hermitage Gantois, Autograph Collection",
+    "destinationSlug": "lille",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1872,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hermitagegantois.html",
+    "petFee": 30,
+    "petPolicy": "L'Hermitage Gantois accepts up to 2 dogs per room for €30 per stay (non-refundable). Cats are not accepted. Dogs are welcome in the courtyard but not in the restaurant or spa areas.",
+    "highlights": [
+      "15th-century almshouse converted to luxury hotel",
+      "Vieux Lille edge, walk to Grand Place",
+      "Inner courtyard for short on-leash breaks"
+    ],
+    "slug": "lhermitage-gantois-autograph-collection-lille"
+  },
+  {
+    "id": "lille-2",
+    "name": "Mama Shelter Lille",
+    "destinationSlug": "lille",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2814,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mama-shelter-lille.html",
+    "petFee": 25,
+    "petPolicy": "Mama Shelter Lille welcomes dogs and cats for €25 per pet per night. Pets are accepted in rooms and in the restaurant; the bar area is pet-free. No size or breed restrictions stated.",
+    "highlights": [
+      "Designer-led boutique near Lille-Flandres station",
+      "Pet-friendly restaurant on site",
+      "Walk to Vieux Lille and Grand Place"
+    ],
+    "slug": "mama-shelter-lille-lille"
+  },
+  {
+    "id": "lille-3",
+    "name": "Hilton Lille",
+    "destinationSlug": "lille",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3210,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-lille-euralille-hilton-affiliate.html",
+    "petFee": 10,
+    "petPolicy": "Hilton Lille (formerly Crowne Plaza Lille - Euralille) allows one large dog or two small dogs/cats per room for €10 per pet per night. Pets are not permitted in restaurant or fitness areas; service animals stay free.",
+    "highlights": [
+      "Opposite Lille-Europe Eurostar/TGV station",
+      "Walk to Euralille shopping centre",
+      "Panoramic city-view rooms"
+    ],
+    "slug": "hilton-lille-lille"
+  },
+  {
+    "id": "lille-4",
+    "name": "ibis Styles Lille Centre Gare Beffroi",
+    "destinationSlug": "lille",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 4521,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-lille-centre-gare-beffroi.html",
+    "petFee": 10,
+    "petPolicy": "ibis Styles Lille Centre Gare Beffroi accepts dogs and cats for €10 per pet per night. Size limitations may apply — check at booking. Pets are not allowed in the buffet breakfast area.",
+    "highlights": [
+      "5 minutes' walk from Lille-Flandres station",
+      "Budget-friendly Accor brand, modern decor",
+      "Walk to Hôtel de Ville Beffroi (UNESCO)"
+    ],
+    "slug": "ibis-styles-lille-centre-gare-beffroi-lille"
+  },
+  {
+    "id": "lille-5",
+    "name": "Holiday Inn Express Lille Centre by IHG",
+    "destinationSlug": "lille",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3680,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/expressbyholidayinnlille.html",
+    "petFee": 10,
+    "petPolicy": "Holiday Inn Express Lille Centre allows small dogs up to 10 kg for €10 per pet per night. Cats are not permitted. Pets are accepted in rooms only, not in breakfast or lobby seating areas.",
+    "highlights": [
+      "75 bis rue Léon Gambetta, central Lille",
+      "Walk to Wazemmes market and Le Waf dog café",
+      "Free breakfast included in rate"
+    ],
+    "slug": "holiday-inn-express-lille-centre-by-ihg-lille"
+  },
+  {
     "id": "lisbon-1",
     "name": "EPIC SANA Marquês Hotel",
     "destinationSlug": "lisbon",

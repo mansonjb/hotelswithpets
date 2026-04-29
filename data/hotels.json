@@ -11435,6 +11435,124 @@
     "slug": "sejours-affaires-strasbourg-kleber"
   },
   {
+    "id": "stuttgart-1",
+    "name": "Steigenberger Graf Zeppelin",
+    "destinationSlug": "stuttgart",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4316,
+    "priceFrom": 200,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/steigenberger-graf-zeppelin.html",
+    "petFee": 25,
+    "petPolicy": "Steigenberger Graf Zeppelin accepts dogs and cats (size limitations may apply) for €25 per pet per night, on request at booking. Pets are not allowed in restaurants or in the spa; service dogs stay free.",
+    "highlights": [
+      "Directly opposite Hauptbahnhof and Schlossgarten",
+      "Walk to Schlossplatz and Königsbau",
+      "Indoor pool and spa for guests"
+    ],
+    "slug": "steigenberger-graf-zeppelin-stuttgart"
+  },
+  {
+    "id": "stuttgart-2",
+    "name": "Le Méridien Stuttgart",
+    "destinationSlug": "stuttgart",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3201,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/le-meridien-stuttgart.html",
+    "petFee": 15,
+    "petPolicy": "Le Méridien Stuttgart allows up to 2 dogs of any size for €15 per pet per night. Cats are accepted on the same terms. Pets are not permitted in the restaurant or the indoor pool area; service dogs stay free.",
+    "highlights": [
+      "Directly on the Schlossgarten ribbon park",
+      "Walk to Hauptbahnhof and Königsbau",
+      "Heated indoor pool and full spa"
+    ],
+    "slug": "le-meridien-stuttgart-stuttgart"
+  },
+  {
+    "id": "stuttgart-3",
+    "name": "Maritim Hotel Stuttgart",
+    "destinationSlug": "stuttgart",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 5612,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/maritim-stuttgart.html",
+    "petFee": 20,
+    "petPolicy": "Maritim Hotel Stuttgart accepts pets of any size for €20 per pet per night. Both dogs and cats are welcome. Pets are not permitted in restaurants or the swimming pool; portable bowls available on request.",
+    "highlights": [
+      "Walk to the Schlossplatz and Liederhalle concert venue",
+      "Indoor pool and gym",
+      "Large rooms suitable for pets and luggage"
+    ],
+    "slug": "maritim-hotel-stuttgart-stuttgart"
+  },
+  {
+    "id": "stuttgart-4",
+    "name": "Mövenpick Hotel Stuttgart Airport",
+    "destinationSlug": "stuttgart",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 6174,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/movenpick-stuttgart-airport.html",
+    "petFee": 25,
+    "petPolicy": "Mövenpick Hotel Stuttgart Airport accepts dogs and cats up to 20 kg for €25 per pet per night. Pets are welcome in the lobby café terrace; not permitted in the breakfast restaurant or wellness area.",
+    "highlights": [
+      "Walking distance from STR airport terminals",
+      "U-Bahn U6 to city centre in 27 minutes",
+      "Sauna and fitness studio"
+    ],
+    "slug": "movenpick-hotel-stuttgart-airport-stuttgart"
+  },
+  {
+    "id": "stuttgart-5",
+    "name": "ibis Styles Stuttgart",
+    "destinationSlug": "stuttgart",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 4823,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/ibis-styles-stuttgart.html",
+    "petFee": 10,
+    "petPolicy": "ibis Styles Stuttgart accepts dogs and cats up to 10 kg for €10 per pet per night. Larger pets accepted upon request. Pets are not allowed in the buffet breakfast area; service animals stay free.",
+    "highlights": [
+      "Stuttgart-Vaihingen, near U-Bahn to centre",
+      "Budget-friendly Accor brand, modern decor",
+      "Free breakfast for some rates"
+    ],
+    "slug": "ibis-styles-stuttgart-stuttgart"
+  },
+  {
     "id": "tallinn-1",
     "name": "Radisson Collection Hotel, Tallinn",
     "destinationSlug": "tallinn",

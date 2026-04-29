@@ -5056,6 +5056,80 @@
     }
   },
   {
+    "slug": "stuttgart",
+    "name": "Stuttgart",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/stuttgart.jpg",
+    "intro": "Stuttgart sits in a green basin ringed by vineyards and beech forests — a southern German capital where Biergärten and Wirtschaften universally welcome dogs, the Schlossgarten ribbon links the centre to the Neckar, and the Bärensee forest reservoirs offer cool summer walks twenty minutes from the centre.",
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & frosty",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & dry",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "tallinn",
     "name": "Tallinn",
     "country": "Estonia",

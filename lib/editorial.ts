@@ -367,6 +367,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parc de l\'Orangerie, the Petite France canals, and the Jardins des Deux Rives on the Rhine',
       area: 'Petite France, the Krutenau, and the European Quarter',
     },
+    stuttgart: {
+      personality: 'a southern German capital nestled in a green basin of vineyards and beech forests, where Biergärten and Wirtschaften universally welcome dogs and three fenced off-leash zones ring the centre',
+      highlight: 'the Schlossgarten ribbon, the Bärensee forest reservoirs, and the Killesberg hilltop park',
+      area: 'Mitte, Süd, and Bad Cannstatt',
+    },
     tallinn: {
       personality: 'a fairy-tale medieval city with a progressive Estonian attitude toward pets. Dogs enter most shops, visit the old town, and explore the coastal paths freely',
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
@@ -779,6 +784,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de l\'Orangerie, les canaux de la Petite France et les Jardins des Deux Rives sur le Rhin',
       area: 'la Petite France, le Krutenau et le Quartier Européen',
     },
+    stuttgart: {
+      personality: `une capitale du sud de l'Allemagne nichée dans une cuvette verte de vignes et de forêts de hêtres, où Biergärten et Wirtschaften accueillent universellement les chiens et trois zones clôturées sans laisse encerclent le centre`,
+      highlight: `le ruban du Schlossgarten, les lacs forestiers du Bärensee et le parc en hauteur du Killesberg`,
+      area: `Mitte, Süd et Bad Cannstatt`,
+    },
     tallinn: {
       personality: 'une ville médiévale de conte de fées avec une attitude estonienne progressiste envers les animaux. Les chiens entrent dans la plupart des commerces, visitent la vieille ville et explorent librement les chemins côtiers',
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
@@ -1190,6 +1200,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades UNESCO más atmosféricas de Europa — donde la cultura alsaciana, los mercados de Navidad y una actitud relajada hacia los perros la convierten en un destino pet-travel durante todo el año',
       highlight: 'el Parc de l\'Orangerie, los canales de Petite France y los Jardins des Deux Rives en el Rin',
       area: 'Petite France, el Krutenau y el Barrio Europeo',
+    },
+    stuttgart: {
+      personality: `una capital del sur de Alemania asentada en una cuenca verde de viñedos y hayedos, donde Biergärten y Wirtschaften acogen universalmente a los perros y tres zonas valladas sin correa rodean el centro`,
+      highlight: `el cinturón del Schlossgarten, los embalses forestales del Bärensee y el parque en altura del Killesberg`,
+      area: `Mitte, Süd y Bad Cannstatt`,
     },
     tallinn: {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas. Los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',

@@ -7807,6 +7807,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  stuttgart: {
+    history: {
+      fr: `Stuttgart est née au Xe siècle comme un Stuotgarten — un haras royal — dans la cuvette du Nesenbach, et reste l'une des rares capitales européennes encore cernée de vignes en activité jusque dans son centre-ville. Capitale du Bade-Wurtemberg et siège historique des dynasties Mercedes-Benz, Porsche et Bosch, la ville a marié l'ingénierie de précision à une culture de plein air souabe — Biergärten, Stäffele de vignes, sentiers forestiers — qui en fait un terrain particulièrement favorable aux propriétaires de chiens. Largement reconstruite après les bombardements de 1944, Stuttgart a remplacé son ancien centre médiéval par un urbanisme d'après-guerre fonctionnel, mais a conservé le ruban du Schlossgarten reliant le centre au Neckar et les vastes parcs en hauteur — Killesberg et Rosensteinpark — qui structurent encore la promenade canine quotidienne.`,
+      en: `Stuttgart began life in the 10th century as a Stuotgarten — a royal stud farm — in the basin of the Nesenbach stream, and remains one of the few European capitals still ringed by working vineyards that climb right into its city centre. Capital of Baden-Württemberg and historic home of the Mercedes-Benz, Porsche, and Bosch dynasties, the city pairs precision engineering with a Swabian outdoor culture — Biergärten, Stäffele vineyard staircases, forest trails — that makes it particularly good ground for dog owners. Largely rebuilt after the 1944 bombing raids, Stuttgart replaced its medieval core with functional post-war urbanism but preserved the Schlossgarten ribbon linking centre to Neckar, and the large hilltop parks — Killesberg and Rosensteinpark — that still structure the daily dog walk.`,
+      es: `Stuttgart nació en el siglo X como un Stuotgarten — una yeguada real — en la cuenca del arroyo Nesenbach, y sigue siendo una de las pocas capitales europeas todavía rodeada por viñedos en activo que trepan hasta el propio centro. Capital de Baden-Württemberg y sede histórica de las dinastías Mercedes-Benz, Porsche y Bosch, la ciudad combina la ingeniería de precisión con una cultura suaba al aire libre — Biergärten, escaleras de viñedo Stäffele, senderos forestales — que la hace un terreno especialmente propicio para los dueños de perros. Reconstruida en gran parte tras los bombardeos de 1944, Stuttgart sustituyó su núcleo medieval por un urbanismo funcional de posguerra pero conservó el cinturón del Schlossgarten que une el centro con el Neckar, y los grandes parques en altura — Killesberg y Rosensteinpark — que siguen articulando el paseo canino diario.`,
+    },
+    sights: [
+      {
+        name: 'Schlossplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place centrale de Stuttgart, dominée par le Neues Schloss du XVIIIe siècle, avec pelouses, fontaines et terrasses. Tram U5/U6/U7.`,
+          en: `Stuttgart's central square, fronted by the 18th-century Neues Schloss, with lawns, fountains, and terraces. Tram lines U5/U6/U7.`,
+          es: `Plaza central de Stuttgart, presidida por el Neues Schloss del siglo XVIII, con céspedes, fuentes y terrazas. Tranvías U5/U6/U7.`,
+        },
+      },
+      {
+        name: 'Schlossgarten',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Ruban vert de 61 ha reliant le centre au Neckar, avec une zone canine clôturée sans laisse dans la section centrale entre l'Eckensee et le Mineralbad Berg.`,
+          en: `61-hectare green ribbon linking the centre to the Neckar, with a fenced off-leash dog zone in the middle section between Eckensee and the Mineralbad Berg.`,
+          es: `Cinturón verde de 61 ha que une el centro con el Neckar, con una zona canina vallada sin correa en la sección central entre el Eckensee y el Mineralbad Berg.`,
+        },
+      },
+      {
+        name: 'Höhenpark Killesberg',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Parc en hauteur de 50 ha au nord du centre, avec terrasses fleuries, tour de bois Killesbergturm (40 m) et petite zone sans laisse au sud. U-Bahn U5.`,
+          en: `50-hectare hilltop park north of the centre with manicured flower terraces, the 40 m Killesbergturm wooden lookout, and a small off-leash zone at the south end. U-Bahn U5.`,
+          es: `Parque en altura de 50 ha al norte del centro, con terrazas floridas, torre de madera Killesbergturm (40 m) y pequeña zona sin correa al sur. U-Bahn U5.`,
+        },
+      },
+      {
+        name: 'Bärensee',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand des trois lacs forestiers à l'ouest, dans une forêt de hêtres bicentenaires. Boucle de 6 km autour de trois lacs, baignade canine tolérée hors période de nidification.`,
+          en: `The largest of three forest reservoirs west of the centre, set in 200-year-old beech woodland. 6 km loop around three lakes, dog swimming tolerated outside the swan-nesting season.`,
+          es: `El mayor de los tres lagos forestales al oeste, en un hayedo de 200 años. Bucle de 6 km alrededor de tres lagos, baño canino tolerado fuera de la temporada de nidificación de cisnes.`,
+        },
+      },
+      {
+        name: 'Stäffele Vineyard Staircases',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `Escaliers de vignes emblématiques (Württembergstaffel, Eugensplatzstaffel, Karlshöhestaffel) gravissant les coteaux plein sud avec panoramas classiques sur la ville.`,
+          en: `Stuttgart's signature vineyard staircases (Württembergstaffel, Eugensplatzstaffel, Karlshöhestaffel) climbing south-facing slopes with classic city panoramas.`,
+          es: `Escaleras de viñedo emblemáticas (Württembergstaffel, Eugensplatzstaffel, Karlshöhestaffel) que suben las laderas orientadas al sur con panorámicas clásicas de la ciudad.`,
+        },
+      },
+      {
+        name: 'Rosensteinpark',
+        emoji: '🍂',
+        petFriendly: true,
+        desc: {
+          fr: `Parc paysager de 65 ha autour du Schloss Rosenstein, le plus grand espace vert urbain de Stuttgart. Forêts de hêtres, prairies et chemins reliant les berges du Neckar.`,
+          en: `65-hectare landscape park around Schloss Rosenstein, Stuttgart's largest urban green space. Beech woodland, meadows, and connecting paths to the Neckar embankment.`,
+          es: `Parque paisajístico de 65 ha en torno al Schloss Rosenstein, el mayor espacio verde urbano de Stuttgart. Hayedos, praderas y caminos que enlazan con la ribera del Neckar.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Stuttgart applique strictement une Leinenpflicht (laisse obligatoire) dans toute la ville en dehors des trois Hundeauslaufgebiete clôturées : Mittelschlossgarten, Rosensteinpark et Killesberg.`,
+        `Avec un Deutschland-Ticket ou tout abonnement mensuel/hebdomadaire VVS, votre chien voyage gratuitement dans les S-Bahn, U-Bahn et bus ; pour un trajet à l'unité, achetez un Kind-Einzelticket (≈ 1,50 €).`,
+        `Les Biergärten et Wirtschaften souabes accueillent universellement les chiens — bols d'eau gratuits sur demande dans pratiquement tous les établissements traditionnels.`,
+        `En été, programmez les promenades avant 10 h et après 19 h — la cuvette de Stuttgart retient la chaleur et atteint 30 °C en juillet-août. Évitez les Stäffele plein sud à midi.`,
+        `Vétérinaire d'urgence 24h/24 : AniCura Tierklinik Stuttgart-Plieningen (Mittlere Filderstraße 31), tél. +49 711 637 380. Appelez avant 22 h pour ouvrir le portail.`,
+      ],
+      en: [
+        `Stuttgart enforces a strict city-wide Leinenpflicht (leash ordinance) outside the three fenced Hundeauslaufgebiete: middle Schlossgarten, Rosensteinpark, and Killesberg.`,
+        `With a Deutschland-Ticket or any monthly/weekly VVS subscription, your dog rides free on the S-Bahn, U-Bahn, and buses; for single tickets, buy a Kind-Einzelticket (≈ €1.50).`,
+        `Swabian Biergärten and Wirtschaften universally welcome dogs — free water bowls on request in virtually every traditional establishment.`,
+        `In summer, plan walks before 10 am and after 7 pm — Stuttgart's basin holds heat and afternoon temperatures reach 30 °C in July-August. Avoid south-facing Stäffele staircases at midday.`,
+        `24/7 emergency vet: AniCura Tierklinik Stuttgart-Plieningen (Mittlere Filderstraße 31), tel. +49 711 637 380. Call before 10 pm to have the gate unlocked.`,
+      ],
+      es: [
+        `Stuttgart aplica con rigor una Leinenpflicht (correa obligatoria) en toda la ciudad fuera de las tres Hundeauslaufgebiete valladas: Schlossgarten medio, Rosensteinpark y Killesberg.`,
+        `Con un Deutschland-Ticket o cualquier abono mensual/semanal VVS, tu perro viaja gratis en S-Bahn, U-Bahn y autobuses; para billetes sencillos, compra un Kind-Einzelticket (≈ 1,50 €).`,
+        `Los Biergärten y Wirtschaften suabos acogen universalmente a los perros — cuencos de agua gratuitos bajo petición en prácticamente todos los establecimientos tradicionales.`,
+        `En verano, planifica los paseos antes de las 10 h y después de las 19 h — la cuenca de Stuttgart retiene el calor y las tardes alcanzan 30 °C en julio-agosto. Evita las Stäffele orientadas al sur al mediodía.`,
+        `Veterinario de urgencias 24/7: AniCura Tierklinik Stuttgart-Plieningen (Mittlere Filderstraße 31), tel. +49 711 637 380. Llama antes de las 22:00 para que abran la puerta.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'Allemagne est dans l'UE — passeport européen pour animaux, vaccination antirabique valide et puce ISO 11784/11785 obligatoires.`,
+        `L'aéroport de Stuttgart (STR) est à 13 km au sud du centre ; le U-Bahn U6 relie l'aéroport à la gare centrale en 27 minutes et accepte les chiens (ticket enfant ≈ 1,50 €).`,
+        `Climat continental tempéré : étés chauds (20-30 °C en juillet-août), hivers frais (-2 à 5 °C, neige occasionnelle de décembre à février) — équipez un chien à poil court d'un manteau.`,
+        `Les propriétaires de chiens stuttgartois paient une Hundesteuer annuelle (108 € en 2026), mais les voyageurs séjournant moins de 21 jours en sont exemptés.`,
+        `Edeka, Rewe et dm-Drogerie sont les enseignes courantes pour croquettes et accessoires ; pour les marques premium, Fressnapf a plusieurs magasins dans la périphérie.`,
+      ],
+      en: [
+        `Germany is in the EU — EU pet passport, valid rabies vaccination and an ISO 11784/11785 microchip are mandatory.`,
+        `Stuttgart Airport (STR) is 13 km south of the centre; U-Bahn U6 connects airport to the central station in 27 minutes and accepts dogs (child ticket ≈ €1.50).`,
+        `Temperate continental climate: hot summers (20-30 °C in July-August), cool winters (-2 to 5 °C, occasional snow December to February) — pack a coat for short-haired breeds.`,
+        `Stuttgart dog owners pay an annual Hundesteuer (€108 in 2026), but travellers staying under 21 days are exempt.`,
+        `Edeka, Rewe and dm-Drogerie are the everyday chains for kibble and accessories; for premium brands, Fressnapf has several suburban stores.`,
+      ],
+      es: [
+        `Alemania está en la UE — pasaporte europeo para mascotas, vacuna antirrábica vigente y microchip ISO 11784/11785 obligatorios.`,
+        `El aeropuerto de Stuttgart (STR) está a 13 km al sur del centro; el U-Bahn U6 conecta aeropuerto y estación central en 27 minutos y admite perros (billete infantil ≈ 1,50 €).`,
+        `Clima continental templado: veranos calurosos (20-30 °C en julio-agosto), inviernos frescos (-2 a 5 °C, nieve ocasional de diciembre a febrero) — lleva un abrigo para razas de pelo corto.`,
+        `Los dueños de perros de Stuttgart pagan una Hundesteuer anual (108 € en 2026), pero los viajeros con estancia inferior a 21 días están exentos.`,
+        `Edeka, Rewe y dm-Drogerie son las cadenas habituales para pienso y accesorios; para marcas premium, Fressnapf tiene varias tiendas en las afueras.`,
+      ],
+    },
+  },
+
   tallinn: {
     history: {
       fr: `Tallinn apparaît dès 1154 sur une carte arabe et rejoint la Hanse en 1285, donnant naissance à l'un des ensembles médiévaux les mieux préservés d'Europe, classé à l'UNESCO en 1997. La capitale estonienne, peuplée d'environ 460 000 habitants, enregistre près de 30 000 chiens, chiffre en forte hausse depuis la suppression de la taxe canine locale en 2014. C'est sans doute la ville balte la plus accommodante pour les chiens : transports en commun gratuits pour les résidents (chiens inclus, muselés si grands), koerte jalutusväljak clôturés dans chaque quartier, et la tradition matinale de faire le tour des bastions de Toompea avec son chien. La loi estonienne exige la laisse en zone urbaine et la muselière pour les grandes races dans les transports, mais les contrôles sont plus souples que chez les voisins nordiques, à condition de ramasser.`,

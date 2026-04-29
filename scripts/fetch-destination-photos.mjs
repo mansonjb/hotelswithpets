@@ -62,6 +62,7 @@ const TARGETS = [
   { slug: 'luxembourg', query: 'Luxembourg City Bock fortifications Alzette valley sunset panorama' },
   { slug: 'lille', query: 'Lille Grand Place Vieille Bourse flemish gabled architecture sunset' },
   { slug: 'zagreb', query: 'Zagreb Croatia St Marks Church colourful tiled roof Upper Town panorama sunset' },
+  { slug: 'stuttgart', query: 'Stuttgart Germany Schlossplatz Neues Schloss panorama sunset vineyard hills' },
 ]
 
 async function searchPhoto(query, apiKey) {

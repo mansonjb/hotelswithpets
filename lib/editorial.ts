@@ -41,6 +41,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
       area: 'El Born, Gràcia, and Eixample',
     },
+    bath: {
+      personality: 'England\'s UNESCO Georgian spa town, compact and walkable, with strong dog-tolerant pub culture and the 9.6 km Bath Skyline trail right above the honey-stone Royal Crescent',
+      highlight: 'the Royal Crescent lawn, the Bath Skyline National Trust trail, and the Kennet & Avon canal towpath',
+      area: 'the Royal Crescent area, the riverside near Pulteney Bridge, and Bathwick',
+    },
     belgrade: {
       personality: 'one of Europe\'s most affordable capitals, with the year-round Ada Ciganlija dog beach, free public transport since 2025, and Serbia\'s only 24-hour vet hospital',
       highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
@@ -459,6 +464,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de la Ciutadella, la plage de Poblenou et les collines du Collserola',
       area: 'El Born, Gràcia et l\'Eixample',
     },
+    bath: {
+      personality: 'la ville thermale géorgienne UNESCO d\'Angleterre, compacte et piétonne, avec une forte culture pub tolérante aux chiens et le sentier Bath Skyline de 9,6 km juste au-dessus du Royal Crescent en pierre couleur miel',
+      highlight: 'la pelouse du Royal Crescent, le sentier National Trust Bath Skyline et le chemin de halage Kennet & Avon',
+      area: 'le quartier du Royal Crescent, les berges près du Pulteney Bridge et Bathwick',
+    },
     belgrade: {
       personality: 'l\'une des capitales européennes les plus abordables, avec la plage canine d\'Ada Ciganlija toute l\'année, les transports publics gratuits depuis 2025 et le seul hôpital vétérinaire 24h/24 de Serbie',
       highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
@@ -875,6 +885,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad mediterránea donde la tenencia de mascotas es alta y los hoteles se están adaptando',
       highlight: 'el Parque de la Ciutadella, la playa de Poblenou y las colinas del Collserola',
       area: 'El Born, Gràcia y el Eixample',
+    },
+    bath: {
+      personality: 'la ciudad balneario georgiana UNESCO de Inglaterra, compacta y peatonal, con una fuerte cultura de pubs tolerante con los perros y el sendero Bath Skyline de 9,6 km justo encima del Royal Crescent de piedra color miel',
+      highlight: 'el césped del Royal Crescent, el sendero de la National Trust Bath Skyline y el camino de sirga Kennet & Avon',
+      area: 'el barrio del Royal Crescent, la ribera junto al Pulteney Bridge y Bathwick',
     },
     belgrade: {
       personality: 'una de las capitales europeas más asequibles, con la playa canina de Ada Ciganlija todo el año, transporte público gratuito desde 2025 y el único hospital veterinario 24/7 de Serbia',

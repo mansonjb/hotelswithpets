@@ -821,6 +821,125 @@
     "slug": "grand-hyatt-barcelona"
   },
   {
+    "id": "bath-1",
+    "name": "The Royal Crescent Hotel & Spa",
+    "destinationSlug": "bath",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1700,
+    "priceFrom": 295,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-royal-crescent.html",
+    "petFee": 30,
+    "petPolicy": "Pets allowed (dogs and cats) for £30 per stay. Pet bed, bowls and welcome treats provided. All sizes accepted with prior confirmation.",
+    "highlights": [
+      "5-star Georgian hotel on Royal Crescent",
+      "Pet welcome kit (bed, bowl, treats)",
+      "Private 1-acre walled garden"
+    ],
+    "slug": "the-royal-crescent-hotel-spa"
+  },
+  {
+    "id": "bath-2",
+    "name": "Apex City of Bath Hotel",
+    "destinationSlug": "bath",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3000,
+    "priceFrom": 135,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/apex-city-of-bath.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for £20 per stay. Apex chain-wide pet-friendly. Dogs of any size accepted; cats on request.",
+    "highlights": [
+      "5-min walk from Bath Spa station",
+      "Indoor pool",
+      "Apex pet-friendly chain"
+    ],
+    "slug": "apex-city-of-bath-hotel"
+  },
+  {
+    "id": "bath-3",
+    "name": "The Gainsborough Bath Spa",
+    "destinationSlug": "bath",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1100,
+    "priceFrom": 325,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-gainsborough-bath-spa.html",
+    "petFee": 35,
+    "petPolicy": "Pets welcome for £35 per night. Dog welcome amenities provided; max 2 pets per room.",
+    "highlights": [
+      "Direct thermal spring access",
+      "Spa Village",
+      "Dog welcome amenities"
+    ],
+    "slug": "the-gainsborough-bath-spa"
+  },
+  {
+    "id": "bath-4",
+    "name": "Hilton Bath City",
+    "destinationSlug": "bath",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4200,
+    "priceFrom": 119,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hilton-bath-city.html",
+    "petFee": 50,
+    "petPolicy": "Pets welcome for £50 per stay (max 2 pets, weight limits). Hilton Honors pet-friendly chain.",
+    "highlights": [
+      "Riverside location near Pulteney Bridge",
+      "Hilton chain pet-friendly",
+      "Walking distance to Roman Baths"
+    ],
+    "slug": "hilton-bath-city"
+  },
+  {
+    "id": "bath-5",
+    "name": "Travelodge Bath Central",
+    "destinationSlug": "bath",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3800,
+    "priceFrom": 75,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/travelodge-bath-central.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed for £25 per stay (max 2 pets per room). Travelodge chain-wide pet policy.",
+    "highlights": [
+      "Budget chain near city centre",
+      "Travelodge pet-friendly policy",
+      "5-min walk to Bath Spa station"
+    ],
+    "slug": "travelodge-bath-central"
+  },
+  {
     "id": "belgrade-1",
     "name": "Hyatt Regency Belgrade",
     "destinationSlug": "belgrade",

@@ -293,6 +293,80 @@
     }
   },
   {
+    "slug": "bath",
+    "name": "Bath",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bath.jpg",
+    "intro": "England's UNESCO Georgian spa town — honey-stone Royal Crescent, Roman baths, the 9.6 km Bath Skyline trail and the Kennet & Avon canal towpath. Compact, walkable, with a strong dog-tolerant pub culture and 24/7 emergency vet cover.",
+    "lat": 51.3811,
+    "lng": -2.359,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, occasional snow",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, blooming",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm, long days",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm, occasional rain",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "belgrade",
     "name": "Belgrade",
     "country": "Serbia",

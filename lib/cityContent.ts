@@ -478,6 +478,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bath: {
+    history: {
+      fr: `Bath, fondée par les Romains en 60 après J.-C. comme Aquae Sulis autour des seules sources thermales chaudes naturelles de Grande-Bretagne, est devenue au XVIIIe siècle la ville thermale la plus mondaine d'Angleterre — une cité géorgienne entièrement reconstruite dans la pierre calcaire couleur miel des collines voisines, classée UNESCO depuis 1987. Les 90 000 habitants partagent aujourd'hui leur ville avec le tourisme international (6 millions de visiteurs/an) et une forte tradition canine british : les pubs accueillent les chiens par défaut, le chemin de halage du canal Kennet & Avon offre 140 km de promenade au départ de la ville, et le sentier Bath Skyline National Trust de 9,6 km est l'une des promenades canines urbaines les plus prisées du Royaume-Uni. La géographie est compacte (1,5 km de large), ce qui rend Bath parfaitement marchable avec un chien — du Royal Crescent géorgien aux Roman Baths en passant par le Pulteney Bridge bordé de boutiques (l'un des quatre seuls au monde de ce type). Côté pratique : le UK a quitté le système de passeport européen post-Brexit, donc une Animal Health Certificate (AHC) émise dans les 10 jours précédant le voyage est exigée pour les chiens venant de l'UE, plus un traitement contre l'échinococcose obligatoire.`,
+      en: `Bath, founded by the Romans in 60 CE as Aquae Sulis around Britain's only naturally hot thermal springs, became in the 18th century England's most fashionable spa town — a Georgian city rebuilt entirely in honey-coloured limestone from the neighbouring hills, UNESCO-listed since 1987. The 90,000 residents today share the city with international tourism (6 million visitors a year) and a strong British dog-walking tradition: pubs accept dogs by default, the Kennet & Avon canal towpath offers 140 km of car-free walks starting in town, and the 9.6 km Bath Skyline National Trust trail is one of the UK's most popular urban dog walks. The geography is compact (1.5 km across), which makes Bath perfectly walkable with a dog — from the Georgian Royal Crescent to the Roman Baths via the shop-lined Pulteney Bridge (one of only four bridges of its kind in the world). One practical note: the UK left the EU pet-passport scheme post-Brexit, so an Animal Health Certificate (AHC) issued within 10 days of travel is required for EU dogs, plus mandatory tapeworm treatment.`,
+      es: `Bath, fundada por los romanos en el año 60 d.C. como Aquae Sulis en torno a las únicas fuentes termales calientes naturales de Gran Bretaña, se convirtió en el siglo XVIII en la ciudad balneario más elegante de Inglaterra — una ciudad georgiana reconstruida por completo en piedra caliza color miel de las colinas vecinas, declarada Patrimonio de la UNESCO desde 1987. Los 90.000 habitantes comparten hoy la ciudad con el turismo internacional (6 millones de visitantes al año) y una fuerte tradición británica de paseo canino: los pubs admiten perros por defecto, el camino de sirga del canal Kennet & Avon ofrece 140 km de paseo sin coches desde la ciudad, y el sendero Bath Skyline de la National Trust de 9,6 km es uno de los paseos caninos urbanos más populares del Reino Unido. La geografía es compacta (1,5 km de ancho), lo que hace de Bath una ciudad perfectamente paseable con perro — del Royal Crescent georgiano a los Roman Baths pasando por el Pulteney Bridge bordeado de tiendas (uno de los cuatro únicos en el mundo de su tipo). Nota práctica: el UK abandonó el sistema de pasaporte europeo tras el Brexit, así que se exige un Animal Health Certificate (AHC) emitido en los 10 días previos al viaje para perros UE, más tratamiento obligatorio contra la equinococosis.`,
+    },
+    sights: [
+      {
+        name: 'Royal Crescent',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `30 maisons géorgiennes en pierre couleur miel arrangées en courbe de 150 m (1774). La pelouse devant est un parc public dog-friendly en laisse.`,
+          en: `30 Georgian honey-stone houses arranged in a 150 m sweeping curve (1774). The lawn in front is a public park, dog-friendly on leash.`,
+          es: `30 casas georgianas de piedra color miel dispuestas en una curva de 150 m (1774). El césped delante es un parque público dog-friendly con correa.`,
+        },
+      },
+      {
+        name: 'Bath Skyline',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier National Trust de 9,6 km à travers bois et prairies sur les collines de Bath. Sans laisse hors zones de pâturage. Une des plus belles promenades canines UK.`,
+          en: `9.6 km National Trust trail through woods and meadows on the hills above Bath. Off-leash outside livestock areas. One of the UK's finest dog walks.`,
+          es: `Sendero National Trust de 9,6 km por bosques y praderas sobre las colinas de Bath. Sin correa fuera de zonas de ganado. Uno de los mejores paseos caninos del UK.`,
+        },
+      },
+      {
+        name: 'Pulteney Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des quatre seuls ponts au monde avec des boutiques des deux côtés (avec le Ponte Vecchio). Boutiques, cafés et vue sur le barrage de l'Avon.`,
+          en: `One of only four bridges in the world with shops on both sides (alongside the Ponte Vecchio). Shops, cafés and a view of the Avon weir.`,
+          es: `Uno de solo cuatro puentes en el mundo con tiendas a ambos lados (junto al Ponte Vecchio). Tiendas, cafés y vista a la presa del Avon.`,
+        },
+      },
+      {
+        name: 'Royal Victoria Park',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand parc urbain de Bath (23 ha) directement sous le Royal Crescent. Zone sans laisse côté ouest, jardin botanique en laisse, café Pavilion.`,
+          en: `Bath's largest urban park (23 ha) right below the Royal Crescent. Off-leash western section, on-leash botanical garden, Pavilion café.`,
+          es: `El mayor parque urbano de Bath (23 ha) justo bajo el Royal Crescent. Zona sin correa al oeste, jardín botánico con correa, cafetería Pavilion.`,
+        },
+      },
+      {
+        name: 'Kennet & Avon Canal',
+        emoji: '🚣',
+        petFriendly: true,
+        desc: {
+          fr: `Chemin de halage de 140 km depuis Bath jusqu'à Reading. Plat, sans voitures, accès à l'eau partout — paradis canin britannique.`,
+          en: `140 km canal towpath from Bath to Reading. Flat, traffic-free, water access throughout — a British dog-walking paradise.`,
+          es: `Camino de sirga de 140 km desde Bath hasta Reading. Llano, sin coches, acceso al agua en todo el recorrido — paraíso canino británico.`,
+        },
+      },
+      {
+        name: 'Bath Abbey Churchyard',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Place médiévale au cœur de Bath, encadrée par la façade gothique tardive de l'Abbaye et la colonnade Pump Room. Chiens en laisse bienvenus sur la place.`,
+          en: `A medieval square at the heart of Bath, framed by the Abbey's late-Gothic west front and the Pump Room colonnade. Leashed dogs welcome on the square.`,
+          es: `Plaza medieval en el corazón de Bath, enmarcada por la fachada oeste gótica tardía de la Abadía y la columnata de la Pump Room. Perros con correa bienvenidos en la plaza.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Laisse obligatoire dans tout le centre-ville et les parcs formels (Public Spaces Protection Order) — amendes à partir de 100 £.',
+        'Trains GWR et South Western Railway acceptent jusqu\'à 2 chiens GRATUITS par passager — exceptionnellement généreux pour l\'Europe.',
+        'Bath Skyline National Trust : sans laisse sur prairies dégagées (octobre-avril), laisse près du bétail (mai-septembre, mise-bas).',
+        'Vétérinaire d\'urgence 24h/24 : Vets Now Bath au Rosemary Lodge (01225 832521), routes via le même numéro pour le service jour ou nuit.',
+        'Brexit : depuis 2021, les chiens UE ont besoin d\'un Animal Health Certificate (AHC) émis dans les 10 jours + traitement échinococcose obligatoire.',
+      ],
+      en: [
+        'Leash mandatory in the entire city centre and formal parks (Public Spaces Protection Order) — fines from £100.',
+        'GWR and South Western Railway trains accept up to 2 dogs FREE per passenger — exceptionally generous by European standards.',
+        'Bath Skyline National Trust: off-leash on open meadows (October–April), on-leash near livestock (May–September lambing season).',
+        '24/7 emergency vet: Vets Now Bath at Rosemary Lodge (01225 832521); the same number routes to either day or night service.',
+        'Brexit note: since 2021, EU dogs need an Animal Health Certificate (AHC) issued within 10 days + mandatory tapeworm treatment.',
+      ],
+      es: [
+        'Correa obligatoria en todo el centro y parques formales (Public Spaces Protection Order) — multas desde 100 £.',
+        'Los trenes GWR y South Western Railway admiten hasta 2 perros GRATIS por pasajero — excepcionalmente generosos para Europa.',
+        'Bath Skyline National Trust: sin correa en praderas abiertas (octubre-abril), con correa cerca del ganado (mayo-septiembre, época de cría).',
+        'Veterinario de urgencias 24/7: Vets Now Bath en Rosemary Lodge (01225 832521); el mismo número orienta al servicio diurno o nocturno.',
+        'Nota Brexit: desde 2021, los perros UE necesitan un Animal Health Certificate (AHC) emitido en los 10 días previos + tratamiento obligatorio contra la equinococosis.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Roman Baths, Pump Room, Thermae Bath Spa et tous les musées intérieurs interdisent les chiens — prévoyez un sitter Pawshake/Tailster local.',
+        'Animal Health Certificate (AHC) UE→UK : émis par votre vétérinaire dans les 10 jours, coût 100-200 €. Traitement échinococcose 24h-5 jours avant arrivée.',
+        'Listenhunde UK (Dangerous Dogs Act 1991) : Pit Bull, Tosa japonais, Dogue argentin, Fila brasileiro interdits — illégal d\'en importer un, même en transit.',
+        'Les pubs UK acceptent les chiens par défaut — plus de 80 % des pubs hors zone alimentaire stricte. Bath a la plus forte densité du pays.',
+        'Cinq plages canines toute l\'année à moins d\'1h : Berrow Beach (50 min) et Uphill end de Weston-super-Mare (45 min) sont les plus pratiques.',
+      ],
+      en: [
+        'Roman Baths, Pump Room, Thermae Bath Spa and all indoor museums prohibit dogs — book a local Pawshake / Tailster sitter.',
+        'EU→UK Animal Health Certificate (AHC): issued by your vet within 10 days, costs €100–200. Tapeworm treatment 24h–5 days before arrival.',
+        'UK breed restrictions (Dangerous Dogs Act 1991): Pit Bull, Japanese Tosa, Dogo Argentino, Fila Brasileiro are banned — illegal to bring one in, even in transit.',
+        'UK pubs accept dogs by default — over 80% of pubs outside strict food-prep zones. Bath has the country\'s highest density.',
+        'Five year-round dog beaches within 1h: Berrow Beach (50 min drive) and Uphill end of Weston-super-Mare (45 min) are the easiest.',
+      ],
+      es: [
+        'Roman Baths, Pump Room, Thermae Bath Spa y todos los museos interiores prohíben perros — reserva un cuidador Pawshake / Tailster local.',
+        'Animal Health Certificate (AHC) UE→UK: emitido por tu veterinario en los 10 días previos, cuesta 100-200 €. Tratamiento contra equinococosis 24h-5 días antes de la llegada.',
+        'Razas prohibidas UK (Dangerous Dogs Act 1991): Pit Bull, Tosa Japonés, Dogo Argentino, Fila Brasileiro — ilegal traer una incluso en tránsito.',
+        'Los pubs UK admiten perros por defecto — más del 80 % de los pubs fuera de zonas de preparación de alimentos estrictas. Bath tiene la mayor densidad del país.',
+        'Cinco playas caninas todo el año a menos de 1h: Berrow Beach (50 min en coche) y el extremo Uphill de Weston-super-Mare (45 min) son las más fáciles.',
+      ],
+    },
+  },
+
   belgrade: {
     history: {
       fr: `Belgrade s'est dressée pour la première fois au confluent de la Sava et du Danube il y a 7 000 ans, et elle a été détruite et reconstruite environ 40 fois — record de Slaves, Romains, Byzantins, Ottomans, Habsbourgeois et Yougoslaves. Capitale de la Serbie depuis 1841, c'est aujourd'hui une métropole d'environ 1,4 million d'habitants où la vieille ville baroque, les blocs brutalistes de Nouvelle Belgrade et les terrasses bohèmes de Skadarlija coexistent. La culture canine serbe est ouverte mais réglementée : laisse en ville et muselière panier pour les races dangereuses, mais Belgrade compte des dizaines de parcs canins clôturés, une plage canine balisée à Ada Ciganlija ouverte toute l'année, et le seul hôpital vétérinaire 24h/24 enregistré du pays (Vet Planet à Novi Beograd). Particularité : les bus de ville interdisent les chiens non-assistance, mais les trams, trolleybus et le rail national ŽS les acceptent — et le transport public est gratuit depuis janvier 2025.`,

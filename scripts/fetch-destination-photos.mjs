@@ -63,6 +63,8 @@ const TARGETS = [
   { slug: 'lille', query: 'Lille Grand Place Vieille Bourse flemish gabled architecture sunset' },
   { slug: 'zagreb', query: 'Zagreb Croatia St Marks Church colourful tiled roof Upper Town panorama sunset' },
   { slug: 'stuttgart', query: 'Stuttgart Germany Schlossplatz Neues Schloss panorama sunset vineyard hills' },
+  { slug: 'bath', query: 'Bath England Royal Crescent Georgian terrace honey stone panorama sunset' },
+  { slug: 'cordoba', query: 'Cordoba Spain Mezquita Cathedral Roman Bridge Guadalquivir sunset panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

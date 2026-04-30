@@ -98,6 +98,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'cote-mediterraneenne-chien',
     'iberique-chien',
     'alpes-chien',
+    'top-dog-friendly-cities-europe',
+    'pet-friendly-hotels-europe-guide',
+    'eurostar-with-dog',
   ]
   for (const locale of LOCALES) {
     entries.push({

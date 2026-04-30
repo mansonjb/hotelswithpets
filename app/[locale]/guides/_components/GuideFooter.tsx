@@ -55,6 +55,24 @@ const ALL_GUIDES = [
     label: { fr: 'Villes alpines avec son chien', en: 'Alpine cities with your dog', es: 'Ciudades alpinas con tu perro' },
     desc:  { fr: 'Genève → Zurich → Munich → Salzbourg (10 j)', en: 'Geneva → Zurich → Munich → Salzburg (10 days)', es: 'Ginebra → Zúrich → Múnich → Salzburgo (10 días)' },
   },
+  {
+    slug: 'top-dog-friendly-cities-europe',
+    emoji: '🏆',
+    label: { fr: 'Top 20 villes dog-friendly d\'Europe', en: 'Top 20 most dog-friendly cities in Europe', es: 'Top 20 ciudades más dog-friendly de Europa' },
+    desc:  { fr: 'Classement 2026 audité sur 5 critères', en: '2026 ranking audited against 5 criteria', es: 'Ranking 2026 auditado por 5 criterios' },
+  },
+  {
+    slug: 'pet-friendly-hotels-europe-guide',
+    emoji: '📘',
+    label: { fr: 'Hôtels pet-friendly en Europe : guide complet', en: 'Pet-friendly hotels in Europe: complete guide', es: 'Hoteles pet-friendly en Europa: guía completa' },
+    desc:  { fr: 'Chaînes, règles pays, astuces réservation', en: 'Chains, country rules, booking tips', es: 'Cadenas, normas país, consejos de reserva' },
+  },
+  {
+    slug: 'eurostar-with-dog',
+    emoji: '🚆',
+    label: { fr: 'Puis-je prendre mon chien dans l\'Eurostar ?', en: 'Can I take my dog on the Eurostar?', es: '¿Puedo llevar mi perro en el Eurostar?' },
+    desc:  { fr: 'Réponse + 3 alternatives transmanche', en: 'Answer + 3 cross-Channel alternatives', es: 'Respuesta + 3 alternativas transmancha' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

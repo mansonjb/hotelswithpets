@@ -1540,6 +1540,80 @@
     }
   },
   {
+    "slug": "cordoba",
+    "name": "Cordoba",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cordoba.jpg",
+    "intro": "Andalusia's UNESCO Mezquita-Catedral city, 45 min by AVE from Seville. Compact whitewashed historic centre, the famous Roman Bridge over the Guadalquivir, and the Sierra Morena foothills 15 min north for cool dog hikes. Spring and autumn are the dog-trip seasons; summer hits 40 C+.",
+    "lat": 37.8882,
+    "lng": -4.7794,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild, occasional rain",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, springlike",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Patio Festival, perfect",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Extreme heat",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Hot, easing",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool, ideal",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "dublin",
     "name": "Dublin",
     "country": "Ireland",

@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Frederiksberg Gardens, Fælledparken, and the harbour waterfront',
       area: 'Nørrebro, Frederiksberg, and Vesterbro',
     },
+    cordoba: {
+      personality: 'Andalusia\'s UNESCO Mezquita-Catedral city, 45 minutes by AVE from Seville — compact whitewashed historic centre, the Roman Bridge over the Guadalquivir, and the Sierra Morena foothills 15 minutes north for cool dog hikes',
+      highlight: 'the Roman Bridge sunset view, the Judería Jewish Quarter alleys, and the Sotos de la Albolafia riverside path',
+      area: 'the Judería, the Centro near the Plaza de la Corredera, and the modern San Fernando area',
+    },
     dublin: {
       personality: 'a warm, pub-centred city where dogs are welcomed in beer gardens, on coastal walks, and through Europe\'s largest urban park. The Phoenix Park',
       highlight: 'Phoenix Park (1,750 acres, largely off-leash), the Dodder river walk, and the Sandymount Strand beach',
@@ -549,6 +554,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les jardins de Frederiksberg, Fælledparken et le front de mer du port',
       area: 'Nørrebro, Frederiksberg et Vesterbro',
     },
+    cordoba: {
+      personality: 'la ville UNESCO de la Mezquita-Catedral en Andalousie, à 45 minutes en AVE de Séville — centre historique compact aux ruelles blanches, le Pont romain sur le Guadalquivir et les contreforts de la Sierra Morena à 15 minutes au nord pour des randonnées canines au frais',
+      highlight: 'la vue sur le Pont romain au coucher du soleil, les ruelles de la Judería juive et le sentier riverain des Sotos de la Albolafia',
+      area: 'la Judería, le Centro près de la Plaza de la Corredera et le quartier moderne de San Fernando',
+    },
     dublin: {
       personality: 'une ville chaleureuse et centrée sur les pubs où les chiens sont accueillis dans les jardins de bière, sur les promenades côtières et à travers le plus grand parc urbain d\'Europe. Le Phoenix Park',
       highlight: 'le Phoenix Park (700 hectares, largement sans laisse), le sentier de la rivière Dodder et la plage de Sandymount Strand',
@@ -970,6 +980,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad líder en Europa en bienestar animal. Los perros viajan gratis en transporte público, entran en la mayoría de los comercios y son bienvenidos con cuencos de agua en casi todas las terrazas',
       highlight: 'los Jardines de Frederiksberg, Fælledparken y el paseo marítimo del puerto',
       area: 'Nørrebro, Frederiksberg y Vesterbro',
+    },
+    cordoba: {
+      personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla — compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
+      highlight: 'la vista al Puente Romano al atardecer, los callejones de la Judería judía y el sendero ribereño de los Sotos de la Albolafia',
+      area: 'la Judería, el Centro junto a la Plaza de la Corredera y la zona moderna de San Fernando',
     },
     dublin: {
       personality: 'una cálida ciudad centrada en los pubs donde los perros son bienvenidos en los jardines de cerveza, en los paseos costeros y a través del parque urbano más grande de Europa. El Phoenix Park',

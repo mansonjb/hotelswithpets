@@ -3439,6 +3439,126 @@
     "slug": "manon-les-suites-guldsmeden"
   },
   {
+    "id": "cordoba-1",
+    "name": "Hospes Palacio del Bailío",
+    "destinationSlug": "cordoba",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1300,
+    "priceFrom": 225,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hospes-palacio-del-bailio.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed (dogs and cats) for 25 EUR per stay. Hospes chain pet-friendly. All sizes accepted with prior confirmation.",
+    "highlights": [
+      "16th-century palace with Roman ruins",
+      "UNESCO patio courtyards",
+      "5-star Hospes pet welcome"
+    ],
+    "slug": "hospes-palacio-del-bail-o"
+  },
+  {
+    "id": "cordoba-2",
+    "name": "NH Collection Amistad Cordoba",
+    "destinationSlug": "cordoba",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2200,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-amistad-cordoba.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome (dogs and cats) for 20 EUR per night. NH Hotels chain-wide pet policy. Two patios with shaded outdoor seating.",
+    "highlights": [
+      "Two restored Andalusian patios",
+      "NH Collection chain",
+      "Walking distance to Juderia"
+    ],
+    "slug": "nh-collection-amistad-cordoba"
+  },
+  {
+    "id": "cordoba-3",
+    "name": "Eurostars Palace",
+    "destinationSlug": "cordoba",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1800,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/eurostars-palace-cordoba.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for 15 EUR per night. Eurostars chain accepts dogs up to 25 kg.",
+    "highlights": [
+      "5-star contemporary",
+      "Spa and rooftop pool",
+      "10-min walk to Mezquita"
+    ],
+    "slug": "eurostars-palace"
+  },
+  {
+    "id": "cordoba-4",
+    "name": "Hotel Boutique Caireles",
+    "destinationSlug": "cordoba",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/boutique-caireles-cordoba.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for 15 EUR per night. Boutique property; small to medium dogs welcome, cats on request.",
+    "highlights": [
+      "Boutique 4-star in Juderia",
+      "Rooftop terrace with Mezquita view",
+      "Steps from Calleja de las Flores"
+    ],
+    "slug": "hotel-boutique-caireles"
+  },
+  {
+    "id": "cordoba-5",
+    "name": "Hotel Maestre",
+    "destinationSlug": "cordoba",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.4,
+    "reviewCount": 1900,
+    "priceFrom": 59,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/maestre.html",
+    "petFee": 8,
+    "petPolicy": "Pets allowed for 8 EUR per night. Family-run, max 2 pets per room. All sizes welcome.",
+    "highlights": [
+      "Budget option in San Pedro",
+      "Family-run since 1958",
+      "8-min walk to Plaza de la Corredera"
+    ],
+    "slug": "hotel-maestre"
+  },
+  {
     "id": "dublin-1",
     "name": "The Fitzwilliam Hotel",
     "destinationSlug": "dublin",

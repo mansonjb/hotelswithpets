@@ -2385,6 +2385,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cordoba: {
+    history: {
+      fr: `Cordoue, fondée par les Romains au IIe siècle avant notre ère, fut au Xe siècle la plus grande ville d'Europe — capitale du Califat omeyyade d'Al-Andalus, avec environ 500 000 habitants, 700 mosquées, 600 hammams et l'une des plus grandes bibliothèques du monde. Cet héritage triple — romain, arabo-musulman puis chrétien — façonne la ville moderne : la Mezquita-Catedral classée UNESCO, le Pont romain qui traverse le Guadalquivir, la Judería médiévale aux ruelles blanches, et la tradition andalouse des patios fleuris (fête en mai). Aujourd'hui une ville de 325 000 habitants, Cordoue est l'arrêt incontournable d'un itinéraire andalou en train à grande vitesse — 45 minutes en AVE de Séville, 1h45 de Madrid. Pour les propriétaires de chiens, Cordoue est délicieusement praticable d'octobre à mai (centre historique compact, terrasses dog-friendly, deux Áreas de Esparcimiento Canino municipales) mais difficile en juillet-août : les températures dépassent régulièrement les 40 °C et l'asphalte atteint 60 °C.`,
+      en: `Cordoba, founded by the Romans in the 2nd century BCE, was in the 10th century the largest city in Europe — capital of the Umayyad Caliphate of Al-Andalus, with around 500,000 inhabitants, 700 mosques, 600 hammams, and one of the world's largest libraries. This threefold heritage — Roman, Moorish, then Christian — shapes the modern city: the UNESCO-listed Mezquita-Catedral, the Roman Bridge across the Guadalquivir, the medieval Judería with its white-washed alleys, and the Andalusian patio tradition (festival in May). Today a city of 325,000, Cordoba is the essential stop on any Andalusian high-speed-rail itinerary — 45 minutes by AVE from Seville, 1h45 from Madrid. For dog owners, Cordoba is delightfully walkable from October to May (compact historic centre, dog-friendly terraces, two municipal Áreas de Esparcimiento Canino) but punishing in July–August: temperatures regularly exceed 40 °C and pavement reaches 60 °C.`,
+      es: `Córdoba, fundada por los romanos en el siglo II a.C., fue en el siglo X la mayor ciudad de Europa — capital del Califato Omeya de Al-Ándalus, con unos 500.000 habitantes, 700 mezquitas, 600 hammams y una de las mayores bibliotecas del mundo. Esta herencia triple — romana, andalusí y luego cristiana — moldea la ciudad moderna: la Mezquita-Catedral, Patrimonio de la UNESCO, el Puente Romano sobre el Guadalquivir, la Judería medieval de calles blancas, y la tradición andaluza de los patios floridos (fiesta en mayo). Hoy una ciudad de 325.000 habitantes, Córdoba es la parada imprescindible de cualquier itinerario andaluz en alta velocidad — 45 minutos en AVE desde Sevilla, 1h45 desde Madrid. Para los dueños de perros, Córdoba es deliciosamente paseable de octubre a mayo (centro histórico compacto, terrazas dog-friendly, dos Áreas de Esparcimiento Canino municipales) pero durísima en julio-agosto: las temperaturas superan habitualmente los 40 °C y el asfalto alcanza 60 °C.`,
+    },
+    sights: [
+      {
+        name: 'Mezquita-Catedral',
+        emoji: '🕌',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale-mosquée UNESCO du Xe siècle, ancienne grande mosquée du Califat. L'intérieur est interdit aux chiens — visitez l'extérieur et le pont romain en face.`,
+          en: `10th-century UNESCO cathedral-mosque, the former Great Mosque of the Caliphate. Interior bans dogs — visit the exterior and the Roman Bridge across.`,
+          es: `Catedral-mezquita UNESCO del siglo X, antigua Gran Mezquita del Califato. El interior prohíbe perros — visita el exterior y el Puente Romano enfrente.`,
+        },
+      },
+      {
+        name: 'Roman Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Pont romain à 16 arches sur le Guadalquivir (Ier siècle av. J.-C.). Entièrement piéton depuis 2008, vue iconique sur la Mezquita au coucher du soleil.`,
+          en: `16-arch Roman bridge across the Guadalquivir (1st century BCE). Fully pedestrianised since 2008, iconic Mezquita view at sunset.`,
+          es: `Puente Romano de 16 arcos sobre el Guadalquivir (siglo I a.C.). Totalmente peatonal desde 2008, vista icónica de la Mezquita al atardecer.`,
+        },
+      },
+      {
+        name: 'Judería',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier juif médiéval aux ruelles blanches étroites. La célèbre Calleja de las Flores encadre la tour de la Mezquita. Dog-friendly en laisse, hors monuments.`,
+          en: `Medieval Jewish Quarter of narrow whitewashed alleys. The famous Calleja de las Flores frames the Mezquita tower. Dog-friendly on leash, except inside monuments.`,
+          es: `Barrio judío medieval de callejones blancos estrechos. La famosa Calleja de las Flores enmarca la torre de la Mezquita. Dog-friendly con correa, excepto dentro de los monumentos.`,
+        },
+      },
+      {
+        name: 'Plaza de la Corredera',
+        emoji: '🟥',
+        petFriendly: true,
+        desc: {
+          fr: `Seule grande place rectangulaire de Cordoue (1683), avec immeubles baroque castillan rouges. Marché alimentaire le samedi, terrasses dog-friendly.`,
+          en: `Cordoba's only large rectangular plaza (1683), with red Castilian-baroque buildings. Saturday food market, dog-friendly café terraces.`,
+          es: `La única gran plaza rectangular de Córdoba (1683), con edificios barroco castellano rojos. Mercado alimentario los sábados, terrazas dog-friendly.`,
+        },
+      },
+      {
+        name: 'Sotos de la Albolafia',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: `Espace naturel protégé sur les berges du Guadalquivir sous le Pont romain. Sentier de 2 km en laisse, faune protégée. Vue exceptionnelle sur la Mezquita.`,
+          en: `Protected riverbank natural area along the Guadalquivir below the Roman Bridge. 2 km leashed path, protected wildlife. Exceptional Mezquita view.`,
+          es: `Espacio natural protegido en la ribera del Guadalquivir bajo el Puente Romano. Sendero de 2 km con correa, fauna protegida. Vista excepcional a la Mezquita.`,
+        },
+      },
+      {
+        name: 'Sierra de Córdoba',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Contreforts de la Sierra Morena à 15 min au nord. Forêt de pins et chênes, sentiers balisés sans laisse, réservoirs pour la baignade canine. Échappatoire estivale.`,
+          en: `Sierra Morena foothills 15 min north. Pine and oak forest, off-leash marked trails, reservoirs for dog swimming. Essential summer escape.`,
+          es: `Estribaciones de Sierra Morena a 15 min al norte. Bosque de pinos y robles, senderos balizados sin correa, embalses para baño canino. Escapada estival esencial.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Été extrême : 40 °C+ régulièrement en juillet-août, asphalte à 60 °C — ne promenez QUE entre 6h-8h ou après 21h. Plages caninas inexistantes (200 km mer).',
+        'Renfe AVE accepte les petits chiens en cage gratuitement ; pilote Mascotas Grandes (15 €) sur AVE pour chiens jusqu\'à 40 kg — Cordoue est au cœur du réseau.',
+        'Loi PPP espagnole (Ley 50/1999) : 8 races nécessitent permis, laisse + muselière en public et assurance civile.',
+        'Hospital Veterinario Córdoba (957 281 940) au cœur de la ville est le seul vétérinaire 24h/24 — enregistrez avant arrivée.',
+        'Fête des Patios (début mai) : 60+ patios ouverts gratuitement, la plupart dog-friendly. La meilleure période culturelle.',
+      ],
+      en: [
+        'Extreme summer: 40 °C+ regular in July–August, pavement at 60 °C — walk ONLY 6–8 AM or after 21:00. No nearby dog beaches (200 km to the sea).',
+        'Renfe AVE accepts small dogs in carriers free; Mascotas Grandes pilot (€15) on AVE for dogs up to 40 kg — Cordoba is at the heart of the network.',
+        'Spanish PPP law (Ley 50/1999): 8 breeds require a permit, leash + muzzle in public, and civil insurance.',
+        'Hospital Veterinario Córdoba (957 281 940) in the city centre is the only 24/7 vet — save before arrival.',
+        'Patio Festival (early May): 60+ patios open free of charge, most dog-friendly. The best cultural window.',
+      ],
+      es: [
+        'Verano extremo: 40 °C+ habituales en julio-agosto, asfalto a 60 °C — pasea SOLO entre 6:00-8:00 o después de las 21:00. Sin playas caninas cercanas (200 km al mar).',
+        'Renfe AVE admite perros pequeños en transportín gratis; piloto Mascotas Grandes (15 €) en AVE para perros hasta 40 kg — Córdoba está en el corazón de la red.',
+        'Ley PPP española (Ley 50/1999): 8 razas requieren licencia, correa + bozal en público y seguro civil.',
+        'Hospital Veterinario Córdoba (957 281 940) en el centro de la ciudad es el único veterinario 24/7 — guarda antes de llegar.',
+        'Fiesta de los Patios (principios de mayo): 60+ patios abiertos gratis, la mayoría dog-friendly. La mejor ventana cultural.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Mezquita-Catedral, Alcázar et Synagogue interdits aux chiens — prévoyez un sitter Pawshake/Gudog local.',
+        'Centre historique compact (1,5 km de large) — entièrement praticable à pied avec un chien hors heures de pointe estivales.',
+        'Aéroport de Cordoue petit — utilisez Séville-San Pablo (1h45 en AVE) ou Málaga-Costa del Sol (2h en voiture). Iberia/Vueling acceptent les chiens en cabine sous 8 kg.',
+        'Excursion AVE depuis Cordoue : Séville (45 min), Madrid (1h45), Málaga (1h), Grenade (1h30 AVE+Avant) — toutes dog-friendly.',
+        'Brexit, Suisse hors UE : règles standard UE pour entrer en Espagne. Passeport européen + vaccin antirabique valide.',
+      ],
+      en: [
+        'Mezquita-Catedral, Alcázar and Synagogue all ban pets — book a local Pawshake/Gudog sitter for these visits.',
+        'Compact historic centre (1.5 km wide) — fully walkable with a dog outside summer heat hours.',
+        'Cordoba airport is small — use Seville-San Pablo (1h45 by AVE) or Málaga-Costa del Sol (2h by car). Iberia/Vueling accept dogs in cabin under 8 kg.',
+        'AVE day trips from Cordoba: Seville (45 min), Madrid (1h45), Málaga (1h), Granada (1h30 AVE+Avant) — all dog-friendly.',
+        'Brexit, Switzerland outside EU: standard EU rules for entering Spain. EU pet passport + valid rabies vaccine.',
+      ],
+      es: [
+        'Mezquita-Catedral, Alcázar y Sinagoga prohíben mascotas — reserva un cuidador Pawshake/Gudog local para estas visitas.',
+        'Centro histórico compacto (1,5 km de ancho) — totalmente paseable con perro fuera de las horas de calor estival.',
+        'Aeropuerto de Córdoba pequeño — usa Sevilla-San Pablo (1h45 en AVE) o Málaga-Costa del Sol (2h en coche). Iberia/Vueling admiten perros en cabina bajo 8 kg.',
+        'Excursiones AVE desde Córdoba: Sevilla (45 min), Madrid (1h45), Málaga (1h), Granada (1h30 AVE+Avant) — todas dog-friendly.',
+        'Brexit, Suiza fuera UE: normas estándar UE para entrar en España. Pasaporte europeo + vacuna antirrábica vigente.',
+      ],
+    },
+  },
+
   dublin: {
     history: {
       fr: `Dublin — Baile Átha Cliath en irlandais, "la ville du gué aux claies" — a été fondée par les Vikings au IXe siècle sur les rives de la Liffey. Capitale de l'Irlande depuis la domination normande du XIIe siècle, elle a été le centre administratif de la présence britannique en Irlande pendant sept siècles avant de devenir la capitale de l'État libre d'Irlande en 1922. Aujourd'hui, Dublin est une ville chaleureuse et vivante, connue pour ses pubs, sa culture littéraire (Joyce, Beckett, Wilde) et son accueil légendaire. Les chiens y sont les bienvenus dans les beer gardens, sur les sentiers côtiers et dans le Phoenix Park — l'un des plus grands parcs urbains d'Europe, avec 1 750 hectares à explorer.`,

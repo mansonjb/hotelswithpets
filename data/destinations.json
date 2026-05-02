@@ -6084,6 +6084,79 @@
     }
   },
   {
+    "slug": "wroclaw",
+    "name": "Wroclaw",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/wroclaw.jpg",
+    "intro": "Wroclaw is one of Poland's most genuinely dog-loving cities. The Rynek (one of the largest medieval market squares in Europe) is ringed by café terraces that welcome dogs without fuss, while the Odra river and its many islands offer kilometres of riverside paths that connect Park Szczytnicki and the Cathedral Island into one giant urban dog walk. Public transport is free for animals, around forty fenced off-leash zones are scattered across the city, and the famously friendly local bronze dwarfs add a daily scavenger hunt your dog will happily share.",
+    "lat": 51.1079,
+    "lng": 17.0385,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "zagreb",
     "name": "Zagreb",
     "country": "Croatia",

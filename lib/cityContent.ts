@@ -9405,6 +9405,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  wroclaw: {
+    history: {
+      fr: `Wrocław, fondée vers l'an 1000 par la dynastie Piast et longtemps capitale de la Silésie, a traversé une histoire vertigineuse : tour à tour bohémienne, hongroise, autrichienne, prussienne, allemande sous le nom de Breslau, puis polonaise depuis 1945 après le déplacement frontalier d'après-guerre. Cette stratification se lit partout dans le tissu urbain : la place du marché médiévale (Rynek), l'une des plus vastes d'Europe, est encadrée d'hôtels particuliers gothiques, baroques et Art nouveau. La ville compte plus de 100 ponts qui enjambent l'Oder et ses affluents — d'où le surnom de « Venise polonaise ». Pour les propriétaires de chiens, Wrocław est une découverte : 12 km de berges piétonnes le long de l'Odra, le grand parc Szczytnicki (100 ha), un réseau dense de tramways acceptant les chiens gratuitement, et une culture café qui inclut l'animal sans hésiter. Les célèbres nains de bronze (krasnale) parsèment la vieille ville et sont devenus une chasse au trésor familiale — chiens compris.`,
+      en: `Wrocław, founded around the year 1000 by the Piast dynasty and long the capital of Silesia, has a dizzying history: at various times Bohemian, Hungarian, Austrian, Prussian, German (as Breslau), and Polish since 1945 after the post-war border shift. This layering is visible everywhere in the urban fabric: the medieval market square (Rynek), one of the largest in Europe, is framed by Gothic, Baroque and Art Nouveau townhouses. The city has more than 100 bridges crossing the Oder and its tributaries — hence the nickname "Polish Venice". For dog owners, Wrocław is a real discovery: 12 km of pedestrian riverbanks along the Odra, the vast 100-hectare Szczytnicki Park, a dense tram network that accepts dogs free of charge, and a café culture that welcomes pets without question. The famous bronze dwarfs (krasnale) scattered across the Old Town have become a family scavenger hunt — dogs included.`,
+      es: `Wrocław, fundada hacia el año 1000 por la dinastía Piast y durante mucho tiempo capital de Silesia, tiene una historia vertiginosa: sucesivamente bohemia, húngara, austríaca, prusiana, alemana con el nombre de Breslau y polaca desde 1945 tras el desplazamiento fronterizo de posguerra. Esta estratificación se lee por todas partes en el tejido urbano: la plaza del mercado medieval (Rynek), una de las más vastas de Europa, está enmarcada por casonas góticas, barrocas y modernistas. La ciudad tiene más de 100 puentes que cruzan el Óder y sus afluentes — de ahí el apodo de "Venecia polaca". Para los dueños de perros, Wrocław es un verdadero descubrimiento: 12 km de orillas peatonales a lo largo del Odra, el vasto Parque Szczytnicki (100 ha), una densa red de tranvías que admite perros gratis, y una cultura de café que admite al animal sin dudar. Los famosos enanitos de bronce (krasnale) repartidos por el casco antiguo se han convertido en una búsqueda del tesoro familiar — perros incluidos.`,
+    },
+    sights: [
+      { name: 'Rynek (Market Square)', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `L'une des plus grandes places de marché médiévales d'Europe (3,75 ha). Hôtel de ville gothique au centre, cafés en terrasse tout autour, chiens en laisse bienvenus partout en extérieur.`,
+        en: `One of Europe's largest medieval market squares (3.75 ha). Gothic Town Hall at its centre, café terraces all around, leashed dogs welcome everywhere outdoors.`,
+        es: `Una de las mayores plazas de mercado medievales de Europa (3,75 ha). Ayuntamiento gótico en el centro, terrazas de café alrededor, perros con correa bienvenidos en todo el exterior.`,
+      }},
+      { name: 'Park Szczytnicki', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus grand parc de Wrocław (100 hectares) avec un jardin japonais, des étangs et un grand espace sans laisse à l'est. Tram 1, 2 ou 4 depuis le centre.`,
+        en: `Wrocław's largest park (100 hectares) with a Japanese garden, ponds and a large off-leash area in the east. Trams 1, 2 or 4 from the centre.`,
+        es: `El mayor parque de Wrocław (100 hectáreas) con un jardín japonés, estanques y una gran zona sin correa al este. Tranvías 1, 2 o 4 desde el centro.`,
+      }},
+      { name: 'Ostrów Tumski', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Île de la Cathédrale, partie la plus ancienne de la ville, accessible par un pont piéton. Ruelles pavées, allumeur de réverbères au gaz le soir, chiens en laisse partout.`,
+        en: `Cathedral Island, the oldest part of the city, accessed via a pedestrian bridge. Cobblestone alleys, a gas-lamp lighter in the evenings, leashed dogs everywhere.`,
+        es: `Isla Catedral, la parte más antigua de la ciudad, accesible por un puente peatonal. Callejuelas adoquinadas, encendedor de farolas de gas al anochecer, perros con correa por todas partes.`,
+      }},
+      { name: 'Bulwary nad Odrą', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenades piétonnes sur les deux rives de l'Oder, soit 12 km de balade canine sans voitures avec vue sur les ponts historiques.`,
+        en: `Pedestrian promenades along both banks of the Oder — 12 km of car-free dog walking with views of the historic bridges.`,
+        es: `Paseos peatonales en ambas orillas del Óder — 12 km de paseo canino sin coches con vistas a los puentes históricos.`,
+      }},
+      { name: 'Hala Stulecia', emoji: '🏟️', petFriendly: true, desc: {
+        fr: `Halle du Centenaire (UNESCO 2006), immense dôme en béton armé de 1913 entouré de jardins paysagés. Chiens en laisse bienvenus dans le parc Pergola.`,
+        en: `Centennial Hall (UNESCO 2006), a massive 1913 reinforced-concrete dome surrounded by landscaped gardens. Leashed dogs welcome in the Pergola park.`,
+        es: `Hala Stulecia (UNESCO 2006), una enorme cúpula de hormigón armado de 1913 rodeada de jardines paisajísticos. Perros con correa bienvenidos en el parque Pergola.`,
+      }},
+      { name: 'Park Południowy', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Parc paysagé de 23 hectares au sud du centre, avec étang, allées romantiques et zone sans laisse clôturée. Calme et fréquenté par les habitués canins.`,
+        en: `A 23-hectare landscaped park south of the centre, with a pond, romantic alleys and a fenced off-leash zone. Calm, frequented by canine regulars.`,
+        es: `Parque paisajístico de 23 hectáreas al sur del centro, con estanque, paseos románticos y zona sin correa vallada. Tranquilo, frecuentado por habituales caninos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        'Tramways MPK Wrocław : chiens gratuits avec laisse + muselière sur tout le réseau, 24h/24.',
+        'La culture café polonaise accueille largement les chiens en terrasse — demandez « miska wody, proszę » pour une gamelle d\'eau.',
+        'Les hivers tournent autour de -5 °C avec neige : bottines + manteau pour chiens à poil court ; le sel des trottoirs irrite fortement les coussinets.',
+        'Cliniques vétérinaires d\'urgence 24h/24 : Centrum Zdrowia Małych Zwierząt (+48 71 322 33 33), Gabinet Weterynaryjny Vetnemo (+48 71 348 60 60).',
+        'La chasse aux 600 nains de bronze (krasnale) est une activité parfaite avec un chien — la carte officielle est gratuite à l\'office de tourisme.',
+      ],
+      en: [
+        'MPK Wrocław trams: dogs free with leash + muzzle on the entire network, 24/7.',
+        'Polish café culture broadly welcomes dogs on terraces — ask for "miska wody, proszę" for a water bowl.',
+        'Winters average -5 °C with snow: boots + coat for short-coated dogs; pavement salt heavily irritates paws.',
+        '24/7 emergency vet clinics: Centrum Zdrowia Małych Zwierząt (+48 71 322 33 33), Gabinet Weterynaryjny Vetnemo (+48 71 348 60 60).',
+        'Hunting the 600 bronze dwarfs (krasnale) is a perfect activity with a dog — free official map at the tourist office.',
+      ],
+      es: [
+        'Tranvías MPK Wrocław: perros gratis con correa + bozal en toda la red, 24/7.',
+        'La cultura del café polaca admite ampliamente perros en terrazas — pide "miska wody, proszę" para un bol de agua.',
+        'Los inviernos promedian -5 °C con nieve: botines + abrigo para perros de pelo corto; la sal de las aceras irrita mucho las almohadillas.',
+        'Clínicas veterinarias de urgencias 24/7: Centrum Zdrowia Małych Zwierząt (+48 71 322 33 33), Gabinet Weterynaryjny Vetnemo (+48 71 348 60 60).',
+        'La búsqueda de los 600 enanitos de bronce (krasnale) es una actividad perfecta con perro — mapa oficial gratis en la oficina de turismo.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen + vaccination antirabique exigés à chaque check-in pet-friendly. Pas de paperasse douanière dans Schengen.',
+        'L\'aéroport Wrocław Copernicus (WRO) est à 25 min en bus du centre — il dispose d\'une aire d\'attente extérieure pour animaux à côté du Terminal 2.',
+        'Un train PKP InterCity relie Wrocław à Berlin (4h30, billet chien gratuit en cage ou demi-tarif), à Cracovie (3h) et à Varsovie (3h30).',
+        'L\'application Wroclove fonctionne comme guide pet-friendly local — listings de cafés, parcs, vétérinaires en polonais et anglais.',
+        'Le festival du film Nowe Horyzonty (juillet) crée des semaines très bondées au centre — réservez l\'hôtel pet-friendly 2 mois à l\'avance.',
+      ],
+      en: [
+        'EU pet passport + rabies vaccination required at every pet-friendly check-in. No customs paperwork inside Schengen.',
+        'Wrocław Copernicus airport (WRO) is 25 min from the centre by bus — it has an outdoor pet waiting area next to Terminal 2.',
+        'PKP InterCity trains link Wrocław to Berlin (4h30, dog ticket free in carrier or half-price), Kraków (3h) and Warsaw (3h30).',
+        'The Wroclove app works as a local pet-friendly guide — café, park and vet listings in Polish and English.',
+        'Nowe Horyzonty film festival (July) creates very crowded weeks downtown — book pet-friendly hotels 2 months ahead.',
+      ],
+      es: [
+        'Pasaporte europeo + vacunación antirrábica exigidos en cada check-in pet-friendly. Sin papeleo aduanero dentro de Schengen.',
+        'El aeropuerto de Wrocław Copernicus (WRO) está a 25 min en bus del centro — dispone de zona exterior de espera para animales junto a la Terminal 2.',
+        'Los trenes PKP InterCity conectan Wrocław con Berlín (4h30, billete de perro gratis en transportín o media tarifa), Cracovia (3h) y Varsovia (3h30).',
+        'La app Wroclove funciona como guía pet-friendly local — listado de cafés, parques y veterinarios en polaco e inglés.',
+        'El festival de cine Nowe Horyzonty (julio) genera semanas muy llenas en el centro — reserva el hotel pet-friendly con 2 meses de antelación.',
+      ],
+    },
+  },
+
   zagreb: {
     history: {
       fr: `Zagreb est née de la fusion en 1850 de deux bourgs médiévaux distincts perchés sur des collines voisines : Kaptol, le siège ecclésiastique fortifié autour de la cathédrale, et Gradec (ou Gornji Grad), le bourg royal libre dont les remparts abritaient marchands et artisans. La frontière entre les deux passait par l'actuelle rue Tkalčićeva, jadis un torrent et aujourd'hui le couloir piéton et café le plus animé de la ville. Capitale de la Croatie depuis l'indépendance de 1991, Zagreb a conservé son urbanisme habsbourgeois — la « Lenuci horseshoe » de la Ville Basse aligne sept squares verts en fer à cheval — tout en se réinventant comme métropole détendue, marchable et étonnamment dog-friendly. Les chiens sont une présence quotidienne sur les terrasses, dans les transports publics et dans les quatre grands parcs urbains qui encerclent le centre.`,

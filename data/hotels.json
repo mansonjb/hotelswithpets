@@ -13525,6 +13525,126 @@
     "slug": "hotel-metropol"
   },
   {
+    "id": "wroclaw-1",
+    "name": "PURO Wrocław Stare Miasto",
+    "destinationSlug": "wroclaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 3500,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/puro-wroclaw-stare-miasto.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for €15 per night. Bowls and treats provided on request. Dogs and cats welcome.",
+    "highlights": [
+      "Design boutique 4-star",
+      "Stare Miasto location",
+      "Bowls and treats included"
+    ],
+    "slug": "puro-wroc-aw-stare-miasto"
+  },
+  {
+    "id": "wroclaw-2",
+    "name": "The Bridge Wrocław MGallery",
+    "destinationSlug": "wroclaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1700,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/thebridgewrocaw.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome for €25 per stay. Dogs and cats accepted, all sizes.",
+    "highlights": [
+      "5-star MGallery (Accor) collection",
+      "Tumski Bridge views",
+      "Spa and indoor pool"
+    ],
+    "slug": "the-bridge-wroc-aw-mgallery"
+  },
+  {
+    "id": "wroclaw-3",
+    "name": "Mercure Wrocław Centrum",
+    "destinationSlug": "wroclaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4200,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/mercure-wroclaw.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for €15 per night. Mercure-Accor chain pet-friendly. Dogs and cats welcome.",
+    "highlights": [
+      "Central Plac Dominikański",
+      "Accor pet-friendly chain",
+      "Indoor pool"
+    ],
+    "slug": "mercure-wroc-aw-centrum"
+  },
+  {
+    "id": "wroclaw-4",
+    "name": "Grape Hotel",
+    "destinationSlug": "wroclaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 900,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/grape-wroclaw.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for €20 per stay. Boutique 4-star focused on wine and design. Small/medium dogs preferred.",
+    "highlights": [
+      "Wine-themed boutique",
+      "Tenement house architecture",
+      "Top-rated 9.4/10"
+    ],
+    "slug": "grape-hotel"
+  },
+  {
+    "id": "wroclaw-5",
+    "name": "Hotel Granary - La Suite",
+    "destinationSlug": "wroclaw",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2300,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pl/granary.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for €10 per night. Restored 19th-century granary. All sizes welcome.",
+    "highlights": [
+      "Historic 19th-century granary",
+      "Affordable 4-star",
+      "Free guest bikes"
+    ],
+    "slug": "hotel-granary-la-suite"
+  },
+  {
     "id": "zagreb-1",
     "name": "Esplanade Zagreb Hotel",
     "destinationSlug": "zagreb",

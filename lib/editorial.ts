@@ -437,6 +437,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
       area: 'Śródmieście, Praga, and the Powiśle riverside district',
     },
+    wroclaw: {
+      personality: `one of Poland's most genuinely dog-loving cities, where the colourful Rynek square is ringed by café terraces that welcome dogs without fuss, public transport is free for all pets, and around forty fenced off-leash zones are scattered across the city`,
+      highlight: `Park Szczytnicki and the Centennial Hall, the islands of the Odra river, and the lamplit cobbles of Cathedral Island at dusk`,
+      area: `the Old Town around the Rynek, the bohemian Nadodrze district, and the Four Denominations Quarter`,
+    },
     zagreb: {
       personality: 'a relaxed Habsburg-era capital where dogs ride the world\'s shortest funicular, café terraces line pedestrian Tkalčićeva, and 316-hectare Maksimir Park has the city\'s main fenced off-leash zone',
       highlight: 'Maksimir Park, the medieval Upper Town, and the Jarun lake dog-beach sections',
@@ -864,6 +869,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
       area: 'Śródmieście, Praga et le quartier riverain de Powiśle',
     },
+    wroclaw: {
+      personality: `l'une des villes de Pologne les plus réellement amoureuses des chiens, où les terrasses du Rynek coloré accueillent les chiens sans façon, où les transports publics sont gratuits pour tous les animaux et où une quarantaine de zones clôturées sans laisse sont disséminées dans la ville`,
+      highlight: `le Park Szczytnicki et la Halle du Centenaire, les îles de l'Odra et les pavés éclairés à la lampe à gaz de l'île de la Cathédrale au crépuscule`,
+      area: `la Vieille Ville autour du Rynek, le quartier bohème de Nadodrze et le Quartier des Quatre Confessions`,
+    },
     zagreb: {
       personality: `une capitale d'époque habsbourgeoise détendue où les chiens prennent le plus court funiculaire public au monde, où les terrasses bordent la rue piétonne Tkalčićeva, et où le parc Maksimir (316 ha) abrite la principale zone clôturée sans laisse de la ville`,
       highlight: `le parc Maksimir, la Ville Haute médiévale et les sections plage canine du lac Jarun`,
@@ -1290,6 +1300,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital europea en rápida modernización donde los hoteles pet-friendly son cada vez más la norma y los parques ribereños ofrecen excelentes paseos',
       highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
       area: 'Śródmieście, Praga y el barrio ribereño de Powiśle',
+    },
+    wroclaw: {
+      personality: `una de las ciudades de Polonia más genuinamente amantes de los perros, donde las terrazas del colorido Rynek acogen a los perros sin problemas, el transporte público es gratis para todas las mascotas y unas cuarenta zonas valladas sin correa están repartidas por la ciudad`,
+      highlight: `el Park Szczytnicki y el Pabellón del Centenario, las islas del río Odra y los adoquines iluminados por farolas de gas de la Isla de la Catedral al atardecer`,
+      area: `el Casco Antiguo alrededor del Rynek, el bohemio barrio de Nadodrze y el Barrio de las Cuatro Confesiones`,
     },
     zagreb: {
       personality: `una capital relajada de época habsbúrgica donde los perros suben en el funicular público más corto del mundo, las terrazas bordean la calle peatonal Tkalčićeva y el parque Maksimir (316 ha) alberga la principal zona vallada sin correa de la ciudad`,

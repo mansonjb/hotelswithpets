@@ -51,6 +51,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
       area: 'Stari Grad, Skadarlija, and Dorćol',
     },
+    bergen: {
+      personality: 'Norway\'s gateway to the fjords, wedged between seven mountains and the sea — free public transport for dogs, off-leash mountains 7 minutes from the city centre, and a UNESCO Hanseatic wharf at the harbour',
+      highlight: 'Mount Fløyen via the Fløibanen funicular, the Vidden ridge to Mount Ulriken, and the colourful Bryggen wharf',
+      area: 'Bryggen, Sandviken, and Marken',
+    },
     berlin: {
       personality: 'arguably Europe\'s most dog-friendly capital. Dogs ride public transport and enter many shops freely',
       highlight: 'the Tiergarten, Tempelhof field, and Grunewald forest',
@@ -489,6 +494,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
       area: 'Stari Grad, Skadarlija et Dorćol',
     },
+    bergen: {
+      personality: 'la porte d\'entrée norvégienne des fjords, encastrée entre sept montagnes et la mer — transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre, et un quai hanséatique UNESCO sur le port',
+      highlight: 'le Mont Fløyen via le funiculaire Fløibanen, la crête Vidden vers le Mont Ulriken et le quai coloré de Bryggen',
+      area: 'Bryggen, Sandviken et Marken',
+    },
     berlin: {
       personality: 'sans doute la capitale la plus amie des chiens d\'Europe. Les chiens prennent les transports en commun et entrent librement dans de nombreux commerces',
       highlight: 'le Tiergarten, le champ de Tempelhof et la forêt de Grunewald',
@@ -925,6 +935,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales europeas más asequibles, con la playa canina de Ada Ciganlija todo el año, transporte público gratuito desde 2025 y el único hospital veterinario 24/7 de Serbia',
       highlight: 'la fortaleza de Kalemegdan, la península de Ada Ciganlija y el parque Tašmajdan',
       area: 'Stari Grad, Skadarlija y Dorćol',
+    },
+    bergen: {
+      personality: 'la puerta noruega a los fiordos, encajada entre siete montañas y el mar — transporte público gratis para perros, montañas sin correa a 7 minutos del centro, y un muelle hanseático UNESCO en el puerto',
+      highlight: 'el Monte Fløyen vía el funicular Fløibanen, la cresta Vidden hasta el Monte Ulriken y el colorido muelle Bryggen',
+      area: 'Bryggen, Sandviken y Marken',
     },
     berlin: {
       personality: 'posiblemente la capital más dog-friendly de Europa. Los perros viajan en transporte público y entran libremente en muchos comercios',

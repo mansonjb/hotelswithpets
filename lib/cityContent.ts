@@ -710,6 +710,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bergen: {
+    history: {
+      fr: `Bergen, fondée en 1070 par le roi Olav Kyrre, fut pendant cinq siècles la capitale officieuse de la Norvège et le port hanséatique le plus important de Scandinavie. Le quai de Bryggen, classé UNESCO depuis 1979, témoigne de cet âge d'or marchand : maisons de bois colorées, ruelles labyrinthiques, entrepôts à poisson séché. Aujourd'hui Bergen compte 285 000 habitants et est la « porte des fjords » norvégiens — entrée pour le Sognefjord et le Hardangerfjord. Encastrée entre sept montagnes et la mer, c'est l'une des villes les plus dog-friendly de Scandinavie : transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre par funiculaire, climat océanique tempéré (240+ jours pluvieux), et culture café qui accueille les chiens en intérieur dès octobre. La saison laisse norvégienne (1er avril-20 août) protège les oiseaux nicheurs ; le reste de l'année, les chiens courent librement en montagne avec un bon rappel.`,
+      en: `Bergen, founded in 1070 by King Olav Kyrre, was for five centuries the unofficial capital of Norway and Scandinavia's most important Hanseatic port. The Bryggen wharf, UNESCO-listed since 1979, bears witness to that mercantile golden age: colourful wooden houses, labyrinthine alleys, dried-fish warehouses. Today Bergen counts 285,000 inhabitants and is the Norwegian "gateway to the fjords" — entry point for the Sognefjord and Hardangerfjord. Wedged between seven mountains and the sea, it is one of Scandinavia's most dog-friendly cities: free public transport for dogs, off-leash mountains 7 minutes from the centre by funicular, a temperate oceanic climate (240+ rainy days a year), and a café culture that welcomes dogs indoors from October onwards. The Norwegian leash season (1 April-20 August) protects ground-nesting birds; the rest of the year, dogs run free on mountains with proper recall.`,
+      es: `Bergen, fundada en 1070 por el rey Olav Kyrre, fue durante cinco siglos la capital no oficial de Noruega y el puerto hanseático más importante de Escandinavia. El muelle de Bryggen, declarado UNESCO desde 1979, atestigua esa edad de oro mercantil: casas de madera de colores, callejones laberínticos, almacenes de pescado seco. Hoy Bergen cuenta con 285.000 habitantes y es la "puerta noruega de los fiordos" — punto de entrada para el Sognefjord y el Hardangerfjord. Encajada entre siete montañas y el mar, es una de las ciudades más dog-friendly de Escandinavia: transporte público gratis para perros, montañas sin correa a 7 minutos del centro por funicular, clima oceánico templado (240+ días lluviosos al año), y una cultura del café que admite perros dentro desde octubre. La temporada de correa noruega (1 abril-20 agosto) protege aves que anidan en el suelo; el resto del año, los perros corren libres en las montañas con buena llamada.`,
+    },
+    sights: [
+      { name: 'Bryggen', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Quai hanséatique UNESCO depuis 1979, alignement de maisons de bois colorées du XIVe siècle. Ruelles labyrinthiques accessibles aux chiens en laisse.`,
+        en: `UNESCO-listed Hanseatic wharf since 1979, an alignment of colourful 14th-century wooden houses. Labyrinthine alleys accessible to leashed dogs.`,
+        es: `Muelle hanseático UNESCO desde 1979, alineación de coloridas casas de madera del siglo XIV. Callejones laberínticos accesibles a perros con correa.`,
+      }},
+      { name: 'Mount Fløyen', emoji: '🏔️', petFriendly: true, desc: {
+        fr: `320 m d'altitude atteignable en 7 min par le funiculaire Fløibanen (chiens gratuits). 50 km de sentiers forestiers et plateau sans laisse hors saison nidification.`,
+        en: `320 m altitude reachable in 7 min by the Fløibanen funicular (dogs free). 50 km of forest trails and an off-leash plateau outside nesting season.`,
+        es: `320 m de altitud accesibles en 7 min por el funicular Fløibanen (perros gratis). 50 km de senderos forestales y meseta sin correa fuera de temporada de nidificación.`,
+      }},
+      { name: 'Mount Ulriken', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `643 m, plus haute montagne de Bergen. Téléphérique Ulriken643 (chiens en laisse + cage). Sentier Vidden de 14 km vers Fløyen, sans laisse hors nidification.`,
+        en: `643 m, Bergen's highest mountain. Ulriken643 cable car (leash + carrier). Vidden 14 km ridge trail to Fløyen, off-leash outside nesting season.`,
+        es: `643 m, la montaña más alta de Bergen. Teleférico Ulriken643 (correa + transportín). Sendero Vidden de 14 km hasta Fløyen, sin correa fuera de nidificación.`,
+      }},
+      { name: 'Nygårdsparken', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Plus grand parc urbain de Bergen, 8 hectares de jardins romantiques avec étang. Sans laisse sur la pelouse sud hors nidification.`,
+        en: `Bergen's largest urban park, 8 hectares of romantic gardens with a pond. Off-leash on the southern lawn outside nesting season.`,
+        es: `El mayor parque urbano de Bergen, 8 hectáreas de jardines románticos con estanque. Sin correa en el césped sur fuera de nidificación.`,
+      }},
+      { name: 'Fish Market (Fisketorget)', emoji: '🐟', petFriendly: true, desc: {
+        fr: `Marché aux poissons emblématique sur le port intérieur, depuis 1276. Stands extérieurs (juin-septembre) et Mathallen intérieur (toute l'année) acceptent les chiens.`,
+        en: `Iconic fish market on the inner harbour, since 1276. Outdoor stalls (June-September) and indoor Mathallen (year-round) accept leashed dogs.`,
+        es: `Mercado de pescado emblemático en el puerto interior, desde 1276. Puestos exteriores (junio-septiembre) y Mathallen interior (todo el año) admiten perros con correa.`,
+      }},
+      { name: 'Sandviken Coast', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Front de mer nord avec criques rocheuses et vues sur le Byfjorden. Plage Helleneset accessible en 15 min en bus, dog-tolerant toute l'année.`,
+        en: `Northern waterfront with rocky coves and Byfjorden views. Helleneset beach reachable in 15 min by bus, dog-tolerant year-round.`,
+        es: `Paseo marítimo norte con calas rocosas y vistas al Byfjorden. Playa Helleneset accesible en 15 min en bus, dog-tolerant todo el año.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Réseau Skyss (bus + tram Bybanen) et funiculaire Fløibanen : chiens gratuits avec laisse, sans limite de taille.`,
+        `Saison laisse norvégienne : 1er avril-20 août obligatoire partout hors parcs canins. Hors saison, sans laisse en montagne avec rappel.`,
+        `Norvège accepte le passeport européen + traitement contre l'échinococcose 24-120h avant arrivée (enregistré dans le passeport).`,
+        `Vétérinaires d'urgence 24h/24 : AniCura Bergen Sør (+47 55 70 33 30) et AniCura Eidsvågneset (+47 55 25 18 00).`,
+        `240+ jours pluvieux par an — apportez impermable canin et serviettes ; les cafés gardent souvent une serviette à la porte pour les chiens mouillés.`,
+      ],
+      en: [
+        `Skyss network (buses + Bybanen tram) and Fløibanen funicular: dogs free with leash, no size limit.`,
+        `Norwegian leash season: 1 April-20 August mandatory everywhere outside dog parks. Outside that period, off-leash in the mountains with proper recall.`,
+        `Norway accepts the EU pet passport + tapeworm treatment 24-120h before arrival (recorded in the passport).`,
+        `24/7 emergency vets: AniCura Bergen Sør (+47 55 70 33 30) and AniCura Eidsvågneset (+47 55 25 18 00).`,
+        `240+ rainy days a year — bring a dog raincoat and towels; cafés often keep a towel by the door for wet dogs.`,
+      ],
+      es: [
+        `Red Skyss (buses + tranvía Bybanen) y funicular Fløibanen: perros gratis con correa, sin límite de tamaño.`,
+        `Temporada de correa noruega: 1 abril-20 agosto obligatoria en todas partes fuera de parques caninos. Fuera de ese periodo, sin correa en las montañas con buena llamada.`,
+        `Noruega acepta el pasaporte europeo + tratamiento contra equinococosis 24-120h antes de la llegada (registrado en el pasaporte).`,
+        `Veterinarios de urgencias 24/7: AniCura Bergen Sør (+47 55 70 33 30) y AniCura Eidsvågneset (+47 55 25 18 00).`,
+        `240+ días lluviosos al año — lleva impermeable canino y toallas; los cafés suelen tener una toalla en la puerta para perros mojados.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Bergen (BGO) à 45 min en tram Bybanen Ligne 1 du centre. Chiens gratuits dans le tram. Aire animale à l'extérieur du Terminal 1.`,
+        `Train Bergensbanen Bergen-Oslo : 6h30 spectaculaires à travers le plateau de montagne. Chiens en cage gratuits, grands chiens en wagon dédié à demi-tarif (200 NOK).`,
+        `Croisières fjord Norled et Fjord Tours acceptent les chiens en laisse sur les ponts extérieurs — Sognefjord et Hardangerfjord excursions journée.`,
+        `Tarifs vétérinaires norvégiens parmi les plus chers d'Europe : urgence de base 1 800-2 500 NOK (150-210 €). Assurance européenne (Petplan, Agila) acceptée.`,
+        `Races interdites : American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, chien-loup tchécoslovaque. Ne peuvent pas entrer en Norvège.`,
+      ],
+      en: [
+        `Bergen Airport (BGO) is 45 min by Bybanen tram Line 1 from the centre. Dogs free on the tram. Pet relief area outside Terminal 1.`,
+        `Bergensbanen Bergen-Oslo train: 6h30 spectacular ride across the mountain plateau. Small dogs in carriers free, larger dogs in dedicated dog cars at half-price (NOK 200).`,
+        `Norled and Fjord Tours fjord cruises accept leashed dogs on outer decks — Sognefjord and Hardangerfjord day trips.`,
+        `Norwegian vet fees are among Europe's highest: basic emergency NOK 1,800-2,500 (€150-210). EU pet insurance (Petplan, Agila) accepted.`,
+        `Banned breeds: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, Czechoslovakian Wolfdog. Cannot enter Norway.`,
+      ],
+      es: [
+        `Aeropuerto de Bergen (BGO) a 45 min en tranvía Bybanen Línea 1 del centro. Perros gratis en el tranvía. Área animal fuera del Terminal 1.`,
+        `Tren Bergensbanen Bergen-Oslo: 6h30 espectacular a través de la meseta montañosa. Perros pequeños en transportín gratis, grandes en vagones dedicados a media tarifa (200 NOK).`,
+        `Cruceros fiordo Norled y Fjord Tours admiten perros con correa en cubiertas exteriores — excursiones de día Sognefjord y Hardangerfjord.`,
+        `Tarifas veterinarias noruegas entre las más caras de Europa: urgencia base 1.800-2.500 NOK (150-210 €). Seguro europeo (Petplan, Agila) aceptado.`,
+        `Razas prohibidas: American Staffordshire Terrier, Pit Bull, Tosa Inu, Dogo Argentino, Fila Brasileiro, perro lobo checoslovaco. No pueden entrar a Noruega.`,
+      ],
+    },
+  },
+
   berlin: {
     history: {
       fr: `Berlin est la capitale du dog-friendly en Europe — et ce n'est pas un mythe. On estime à 100 000 le nombre de chiens enregistrés dans la ville, avec une « taxe chien » (Hundesteuer) qui finance leur coexistence avec les humains. Berlin est une ville jeune : détruite à 70% pendant la Seconde Guerre mondiale, elle a été reconstruite et réinventée. La réunification de 1989 lui a redonné un élan unique. Aujourd'hui, avec ses 2 500 espaces verts représentant 30% de la surface totale de la ville, ses chiens qui montent librement dans le métro et entrent dans les magasins et les cafés, Berlin offre une qualité de vie canine sans équivalent en Europe.`,

@@ -67,6 +67,7 @@ const TARGETS = [
   { slug: 'cordoba', query: 'Cordoba Spain Mezquita Cathedral Roman Bridge Guadalquivir sunset panorama' },
   { slug: 'wroclaw', query: 'Wroclaw Poland Rynek market square colourful gabled townhouses Town Hall sunset panorama' },
   { slug: 'bristol', query: 'Bristol England Clifton Suspension Bridge Avon Gorge sunset panorama' },
+  { slug: 'bergen', query: 'Bergen Norway Bryggen colourful wooden Hanseatic wharf Fløyen panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

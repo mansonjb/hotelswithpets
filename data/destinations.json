@@ -441,6 +441,80 @@
     }
   },
   {
+    "slug": "bergen",
+    "name": "Bergen",
+    "country": "Norway",
+    "countryCode": "NO",
+    "flag": "🇳🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bergen.jpg",
+    "intro": "Norway's gateway to the fjords — wedged between seven mountains and the sea. Free public transport for dogs, off-leash mountains 7 minutes from the city centre, the UNESCO Bryggen wharf, and dog-tolerant café culture.",
+    "lat": 60.3913,
+    "lng": 5.3221,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool, wet",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 7,
+        "desc": "Spring rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Mild, brighter",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 14,
+        "desc": "Long days",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 15,
+        "desc": "Warm, occasional sun",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 15,
+        "desc": "Mild, breezy",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 12,
+        "desc": "Cool autumn",
+        "icon": "🌧️"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cold, very wet",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold, dark",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "berlin",
     "name": "Berlin",
     "country": "Germany",

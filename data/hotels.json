@@ -1057,6 +1057,126 @@
     "slug": "courtyard-marriott-belgrade-city-center-belgrade"
   },
   {
+    "id": "bergen-1",
+    "name": "Bergen Borsen Hotel",
+    "destinationSlug": "bergen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1900,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/bergen-borsen.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed for EUR 25 per stay. Bowls and beds provided. All sizes welcome.",
+    "highlights": [
+      "Boutique 4-star",
+      "Bowls and beds provided",
+      "Bryggen-side location"
+    ],
+    "slug": "bergen-borsen-hotel"
+  },
+  {
+    "id": "bergen-2",
+    "name": "Hotel Norge by Scandic",
+    "destinationSlug": "bergen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 3500,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/norge.html",
+    "petFee": 20,
+    "petPolicy": "Pets welcome for EUR 20 per stay. Scandic chain pet-friendly. Dogs and cats welcome.",
+    "highlights": [
+      "5-star Scandic flagship",
+      "Indoor pool and spa",
+      "Central Ole Bulls plass"
+    ],
+    "slug": "hotel-norge-by-scandic"
+  },
+  {
+    "id": "bergen-3",
+    "name": "Scandic Bergen City",
+    "destinationSlug": "bergen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4200,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/scandicbergencity.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for EUR 20 per stay. Scandic chain pet-friendly. All sizes welcome.",
+    "highlights": [
+      "Central location",
+      "Scandic chain pet-friendly",
+      "Indoor pool"
+    ],
+    "slug": "scandic-bergen-city"
+  },
+  {
+    "id": "bergen-4",
+    "name": "Magic Hotel Solheimsviken",
+    "destinationSlug": "bergen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1300,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/magic-solheimsviken.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. Modern boutique design. Small/medium dogs preferred.",
+    "highlights": [
+      "Modern boutique design",
+      "Solheimsviken waterfront",
+      "Free guest bikes"
+    ],
+    "slug": "magic-hotel-solheimsviken"
+  },
+  {
+    "id": "bergen-5",
+    "name": "Citybox Bergen",
+    "destinationSlug": "bergen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 3100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/no/citybox-bergen.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for EUR 10 per night. Self-check-in budget chain. All sizes welcome.",
+    "highlights": [
+      "Budget self-check-in",
+      "Central location",
+      "24h access"
+    ],
+    "slug": "citybox-bergen"
+  },
+  {
     "id": "berlin-1",
     "name": "The Ritz-Carlton, Berlin",
     "destinationSlug": "berlin",

@@ -1612,6 +1612,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bristol: {
+    history: {
+      fr: `Bristol, fondée à la fin du IXe siècle au confluent de l'Avon et de la Frome, fut pendant cinq siècles le deuxième port d'Angleterre après Londres — capitale du commerce vers les Amériques, le café et (jusqu'à son abolition) la traite atlantique, dont la ville porte aujourd'hui le mémoire critique. L'âge d'or industriel du XIXe siècle a légué deux chefs-d'œuvre : le SS Great Britain de Brunel (premier navire à coque de fer au monde, 1843) et le Clifton Suspension Bridge, l'image emblématique de la ville. Aujourd'hui Bristol compte 470 000 habitants, une scène culturelle bouillonnante (Banksy y est né), et la culture pet-friendly la plus aboutie du sud-ouest anglais. Plus de 70 % des pubs accueillent les chiens à l'intérieur, les transports publics sont gratuits pour les animaux, et la ville est encerclée de 450 parcs et communs où les chiens courent sans laisse — d'Ashton Court Estate (162 ha) aux Downs au sommet de l'Avon Gorge.`,
+      en: `Bristol, founded in the late 9th century at the confluence of the Avon and Frome rivers, was for five centuries England\'s second port after London — capital of trade with the Americas, of coffee and (until abolition) of the Atlantic slave trade, whose critical memory the city now carries. The 19th-century industrial golden age left two masterpieces: Brunel\'s SS Great Britain (the world\'s first iron-hulled ocean steamer, 1843) and the Clifton Suspension Bridge, the city\'s defining image. Today Bristol counts 470,000 inhabitants, a thriving cultural scene (Banksy was born here), and the most developed pet-friendly culture in the English South West. Over 70% of pubs welcome dogs inside, public transport is free for pets, and the city is ringed by 450 parks and commons where dogs run off-leash — from the 162-hectare Ashton Court Estate to the Downs at the top of the Avon Gorge.`,
+      es: `Bristol, fundada a finales del siglo IX en la confluencia de los ríos Avon y Frome, fue durante cinco siglos el segundo puerto de Inglaterra tras Londres — capital del comercio con las Américas, del café y (hasta su abolición) de la trata atlántica, cuya memoria crítica la ciudad lleva hoy. La edad de oro industrial del siglo XIX dejó dos obras maestras: el SS Great Britain de Brunel (el primer navío oceánico con casco de hierro del mundo, 1843) y el Clifton Suspension Bridge, la imagen icónica de la ciudad. Hoy Bristol cuenta con 470.000 habitantes, una escena cultural en ebullición (Banksy nació aquí) y la cultura pet-friendly más desarrollada del suroeste inglés. Más del 70 % de los pubs admite perros dentro, el transporte público es gratis para mascotas, y la ciudad está rodeada de 450 parques y comunes donde los perros corren sin correa — desde las 162 hectáreas del Ashton Court Estate hasta los Downs en lo alto de la Garganta del Avon.`,
+    },
+    sights: [
+      { name: 'Clifton Suspension Bridge', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont suspendu en fer de Brunel (1864) sur l'Avon Gorge, 412 m au-dessus de la rivière. Traversée gratuite pour piétons et chiens, vues spectaculaires.`,
+        en: `Brunel's iron suspension bridge (1864) over the Avon Gorge, 412 m above the river. Free crossing for pedestrians and dogs, spectacular views.`,
+        es: `Puente colgante de hierro de Brunel (1864) sobre la Garganta del Avon, 412 m sobre el río. Cruce gratuito para peatones y perros, vistas espectaculares.`,
+      }},
+      { name: 'The Downs (Clifton & Durdham)', emoji: '🌳', petFriendly: true, desc: {
+        fr: `157 hectares de communs ouverts au sommet de l'Avon Gorge. Sans laisse par défaut, vues panoramiques au Sea Walls, le rendez-vous canin du dimanche matin.`,
+        en: `157 hectares of open common land at the top of the Avon Gorge. Off-leash by default, panoramic Sea Walls viewpoint, the Sunday-morning dog hub.`,
+        es: `157 hectáreas de terreno común abierto en lo alto de la Garganta del Avon. Sin correa por defecto, vistas panorámicas en Sea Walls, el punto canino del domingo por la mañana.`,
+      }},
+      { name: 'Ashton Court Estate', emoji: '🦌', petFriendly: true, desc: {
+        fr: `162 hectares de domaine paysagé avec deux hardes de daims. Parking gratuit, sans laisse par défaut, accès direct aux sentiers VTT et à Leigh Woods.`,
+        en: `162 hectares of landscaped estate with two deer herds. Free parking, off-leash by default, direct access to mountain-bike trails and Leigh Woods.`,
+        es: `162 hectáreas de finca paisajística con dos manadas de ciervos. Aparcamiento gratis, sin correa por defecto, acceso directo a pistas BTT y Leigh Woods.`,
+      }},
+      { name: 'Floating Harbour', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Bassin fermé de 4 km au cœur de la ville, sans courants. Sentiers piétons sur les deux rives, ferries acceptant les chiens, le coeur visible de la ville.`,
+        en: `4 km enclosed harbour basin in the heart of the city, no currents. Pedestrian paths on both sides, ferries accept dogs — the visible heart of Bristol.`,
+        es: `Dársena cerrada de 4 km en el corazón de la ciudad, sin corrientes. Senderos peatonales en ambos lados, los ferris admiten perros — el corazón visible de Bristol.`,
+      }},
+      { name: 'SS Great Britain (quayside)', emoji: '🚢', petFriendly: true, desc: {
+        fr: `Le navire à coque de fer de Brunel (1843) en cale sèche. L'intérieur n'admet pas les chiens mais le quai et le Brunel Dockyard sont accessibles en laisse.`,
+        en: `Brunel\'s iron-hulled steamship (1843) in dry dock. Interior bars dogs but the quayside and the Brunel Dockyard are leash-accessible.`,
+        es: `El barco con casco de hierro de Brunel (1843) en dique seco. El interior veta perros pero el muelle y el Brunel Dockyard son accesibles con correa.`,
+      }},
+      { name: 'Wapping Wharf', emoji: '🍔', petFriendly: true, desc: {
+        fr: `Quartier gastronomique en conteneurs sur la rive sud du Floating Harbour. 30+ restaurants, terrasses dog-friendly, place centrale animée.`,
+        en: `Container-food district on the south side of the Floating Harbour. 30+ restaurants, dog-friendly terraces, lively central plaza.`,
+        es: `Distrito gastronómico de contenedores al sur del Floating Harbour. 30+ restaurantes, terrazas dog-friendly, plaza central animada.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Transports First Bus, MetroBus, ferries Bristol et trains GWR : chiens gratuits avec laisse, sans limite de taille.`,
+        `Post-Brexit : entrée UK depuis l'UE = Animal Health Certificate (10 jours) + traitement échinococcose 24-120h avant arrivée. Pas de passeport européen.`,
+        `Vétérinaires d'urgence : Vets Now Bristol (0117 950 1112, 18h-8h + week-ends) et Langford Vet Hospital (0117 928 9420, 24h/24).`,
+        `Parcs = sans laisse par défaut sauf zones PSPO marquées (terrains de sport, aires de jeux). Amende 150 £ pour non-ramassage des déjections.`,
+        `Le Clifton Suspension Bridge est gratuit pour piétons et chiens — la traversée à pied entre Sion Hill et Leigh Woods reste l'expérience signature.`,
+      ],
+      en: [
+        `First Bus, MetroBus, Bristol Ferry Boats and GWR trains all accept leashed dogs free of charge, no size limit.`,
+        `Post-Brexit: entering the UK from the EU requires an Animal Health Certificate (10 days) + tapeworm treatment 24-120h before arrival. No EU pet passport.`,
+        `Emergency vets: Vets Now Bristol (0117 950 1112, 18:00-08:00 + weekends) and Langford Veterinary Hospital (0117 928 9420, 24/7).`,
+        `Parks default to off-leash, except marked PSPO zones (sports pitches, playgrounds). 150 GBP fine for not picking up waste.`,
+        `Clifton Suspension Bridge is free for pedestrians and dogs — the walk between Sion Hill and Leigh Woods is the city's signature experience.`,
+      ],
+      es: [
+        `First Bus, MetroBus, Bristol Ferry Boats y trenes GWR admiten perros con correa gratis, sin límite de tamaño.`,
+        `Post-Brexit: entrar al UK desde la UE requiere Animal Health Certificate (10 días) + tratamiento contra equinococosis 24-120h antes. Sin pasaporte europeo.`,
+        `Veterinarios de urgencias: Vets Now Bristol (0117 950 1112, 18:00-08:00 + fines de semana) y Langford Veterinary Hospital (0117 928 9420, 24/7).`,
+        `Parques = sin correa por defecto, salvo zonas PSPO señaladas (campos deportivos, áreas de juegos). Multa de 150 GBP por no recoger.`,
+        `El Clifton Suspension Bridge es gratis para peatones y perros — el paseo entre Sion Hill y Leigh Woods es la experiencia emblemática de la ciudad.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'aéroport de Bristol (BRS) est à 30 min en bus du centre. Hub low-cost (EasyJet, Ryanair) — les races brachycéphales sont interdites en cabine sur EasyJet.`,
+        `Trains GWR depuis Bristol Temple Meads : Bath (15 min), Cardiff (45 min), Londres Paddington (1h45). Chiens en laisse gratuits.`,
+        `Le Bristol International Balloon Fiesta (août) saturé en hôtels — réservez 3 mois à l'avance ou évitez le second week-end d'août.`,
+        `Banksy est natif de Bristol — la chasse aux œuvres murales (carte gratuite à l'office de tourisme) est parfaite avec un chien en laisse.`,
+        `Le Sunday roast britannique (12h-17h) est l'institution locale — la plupart des gastropubs acceptent les chiens en laisse à l'intérieur ce jour-là.`,
+      ],
+      en: [
+        `Bristol Airport (BRS) is 30 min from the centre by bus. Low-cost hub (EasyJet, Ryanair) — brachycephalic breeds are banned in cabin on EasyJet.`,
+        `GWR trains from Bristol Temple Meads: Bath (15 min), Cardiff (45 min), London Paddington (1h45). Leashed dogs free.`,
+        `The Bristol International Balloon Fiesta (August) packs hotels — book 3 months ahead or avoid the second weekend of August.`,
+        `Banksy is a Bristol native — the street-art mural hunt (free map at the tourist office) is perfect with a leashed dog.`,
+        `The British Sunday roast (12:00-17:00) is the local institution — most gastropubs accept leashed dogs indoors that day.`,
+      ],
+      es: [
+        `El aeropuerto de Bristol (BRS) está a 30 min en bus del centro. Hub low-cost (EasyJet, Ryanair) — las razas braquicéfalas están prohibidas en cabina en EasyJet.`,
+        `Trenes GWR desde Bristol Temple Meads: Bath (15 min), Cardiff (45 min), Londres Paddington (1h45). Perros con correa gratis.`,
+        `El Bristol International Balloon Fiesta (agosto) llena los hoteles — reserva con 3 meses de antelación o evita el segundo fin de semana de agosto.`,
+        `Banksy es bristoliano de origen — la caza de murales callejeros (mapa gratis en la oficina de turismo) es perfecta con perro con correa.`,
+        `El Sunday roast británico (12:00-17:00) es la institución local — la mayoría de los gastropubs admite perros con correa dentro ese día.`,
+      ],
+    },
+  },
+
   bruges: {
     history: {
       en: 'Medieval Bruges — the "Venice of the North" — is one of Europe\'s best-preserved historic city centres, and one of its most dog-friendly. Belgians take dogs everywhere: into shops, cafés, restaurants and even some museums. The city\'s compact size (easily walkable in a day), its canal-side paths and its relaxed attitude to dogs in public spaces make it an ideal short-break destination for pet owners.',

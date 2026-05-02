@@ -2261,6 +2261,126 @@
     "slug": "holiday-inn-brighton-seafront-brighton"
   },
   {
+    "id": "bristol-1",
+    "name": "Hotel du Vin Bristol",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2100,
+    "priceFrom": 135,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/duvinbristol.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome for GBP 15 per night. Hotel du Vin chain-wide pet-friendly. Bowls and beds provided.",
+    "highlights": [
+      "Restored sugar refinery",
+      "Bowls and beds provided",
+      "City centre + harbour views"
+    ],
+    "slug": "hotel-du-vin-bristol"
+  },
+  {
+    "id": "bristol-2",
+    "name": "The Bristol Hotel",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 3200,
+    "priceFrom": 120,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bristol.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for GBP 20 per stay. Harbourside location.",
+    "highlights": [
+      "Harbourside location",
+      "Marriott Doyle pet-friendly",
+      "Walking to Clifton"
+    ],
+    "slug": "the-bristol-hotel"
+  },
+  {
+    "id": "bristol-3",
+    "name": "Mercure Bristol Grand Hotel",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4500,
+    "priceFrom": 99,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/mercure-bristol-grand.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for GBP 15 per night. Mercure-Accor chain pet-friendly. All sizes welcome.",
+    "highlights": [
+      "Victorian Grade II listed",
+      "Spa and indoor pool",
+      "Central Broadmead"
+    ],
+    "slug": "mercure-bristol-grand-hotel"
+  },
+  {
+    "id": "bristol-4",
+    "name": "Number Thirty Eight Clifton",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 600,
+    "priceFrom": 175,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/number-thirty-eight-clifton.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome for GBP 25 per stay. Boutique B&B in Clifton.",
+    "highlights": [
+      "Award-winning boutique",
+      "Clifton location",
+      "Direct walk to Downs and Bridge"
+    ],
+    "slug": "number-thirty-eight-clifton"
+  },
+  {
+    "id": "bristol-5",
+    "name": "Premier Inn Bristol City Centre (Haymarket)",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 3800,
+    "priceFrom": 75,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-bristol-city-centre-haymarket.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed for GBP 25 per stay. Premier Inn chain-wide pet-friendly since 2024.",
+    "highlights": [
+      "Premier Inn pet-friendly",
+      "Central Haymarket",
+      "24h reception"
+    ],
+    "slug": "premier-inn-bristol-city-centre-haymarket"
+  },
+  {
     "id": "bruges-1",
     "name": "Dukes' Palace Brugge - by Dukes' Hotel Collection",
     "destinationSlug": "bruges",

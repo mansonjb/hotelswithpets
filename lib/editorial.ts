@@ -91,6 +91,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
       area: 'The Lanes, Kemptown, and the Hove seafront',
     },
+    bristol: {
+      personality: 'one of England\'s greenest cities — 70% of pubs welcome dogs, free public transport for pets, the iconic Clifton Suspension Bridge and 162-hectare Ashton Court Estate at the gates',
+      highlight: 'Ashton Court Estate, the Downs at the top of the Avon Gorge, and the floating Bristol Ferry to the Wapping Wharf',
+      area: 'Clifton, the Harbourside, and Stokes Croft',
+    },
     bruges: {
       personality: 'a beautifully preserved medieval city where dogs trot alongside their owners on cobbled streets, canal towpaths, and through the quiet surrounding countryside',
       highlight: 'the Minnewater park, the canal network towpaths, and the Koningin Astridpark',
@@ -524,6 +529,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
       area: 'The Lanes, Kemptown et le front de mer de Hove',
     },
+    bristol: {
+      personality: 'l\'une des villes les plus vertes d\'Angleterre — 70 % des pubs accueillent les chiens, transports publics gratuits pour animaux, l\'iconique Clifton Suspension Bridge et les 162 hectares d\'Ashton Court Estate aux portes',
+      highlight: 'Ashton Court Estate, les Downs au sommet de l\'Avon Gorge et le ferry flottant Bristol Ferry vers Wapping Wharf',
+      area: 'Clifton, le Harbourside et Stokes Croft',
+    },
     bruges: {
       personality: 'une magnifique ville médiévale préservée où les chiens trottent aux côtés de leurs propriétaires sur des rues pavées, des chemins de halage et à travers la tranquille campagne environnante',
       highlight: 'le parc de Minnewater, les chemins de halage du réseau de canaux et le Koningin Astridpark',
@@ -955,6 +965,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad costera más dog-friendly del Reino Unido, donde los autobuses son gratis para mascotas y la playa de Hove Lawns abre todo el año',
       highlight: 'Hove Lawns, Preston Park y Stanmer Park a las puertas de los South Downs',
       area: 'The Lanes, Kemptown y el paseo marítimo de Hove',
+    },
+    bristol: {
+      personality: 'una de las ciudades más verdes de Inglaterra — el 70 % de los pubs admite perros, transporte público gratis para mascotas, el icónico Clifton Suspension Bridge y las 162 hectáreas del Ashton Court Estate a las puertas',
+      highlight: 'Ashton Court Estate, los Downs en lo alto de la Garganta del Avon y el ferri flotante Bristol Ferry hasta Wapping Wharf',
+      area: 'Clifton, el Harbourside y Stokes Croft',
     },
     bruges: {
       personality: 'una hermosa ciudad medieval conservada donde los perros trotean junto a sus dueños por calles empedradas, caminos de sirga y a través del tranquilo campo circundante',

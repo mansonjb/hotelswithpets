@@ -1762,6 +1762,79 @@
     }
   },
   {
+    "slug": "dresden",
+    "name": "Dresden",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/dresden.jpg",
+    "intro": "Dresden combines a compact baroque centre with kilometres of off-leash Elbe meadows and a 5,800-hectare municipal forest, making it one of eastern Germany's easiest cities for travellers with a dog.",
+    "lat": 51.0504,
+    "lng": 13.7373,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & frosty",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "dublin",
     "name": "Dublin",
     "country": "Ireland",

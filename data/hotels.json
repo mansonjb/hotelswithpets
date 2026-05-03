@@ -3799,6 +3799,123 @@
     "slug": "hotel-maestre"
   },
   {
+    "id": "dresden-1",
+    "name": "Hotel Suitess - An der Frauenkirche",
+    "destinationSlug": "dresden",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1500,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/suitess.html",
+    "petFee": 30,
+    "petPolicy": "Hotel Suitess welcomes well-behaved dogs in designated rooms for an additional fee, payable per night. Please notify the property in advance — pet rooms are limited and subject to availability.",
+    "highlights": [
+      "Five-star Baroque hotel directly on the Neumarkt next to the Frauenkirche",
+      "Spa, sun terrace, and English-speaking concierge",
+      "Limited dog-allowed rooms — book early"
+    ],
+    "slug": "hotel-suitess-dresden"
+  },
+  {
+    "id": "dresden-2",
+    "name": "Hilton Dresden",
+    "destinationSlug": "dresden",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 4500,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/hilton-dresden.html",
+    "petFee": 50,
+    "petPolicy": "Hilton Dresden allows one dog of any size for €50 per room per stay. Cats are not accepted. Service dogs stay free of charge. Pets are not permitted in the food and beverage areas.",
+    "highlights": [
+      "Direct view of the Frauenkirche from select rooms",
+      "Steps from Brühlsche Terrasse and the Elbe paddle steamer pier",
+      "Concierge can arrange pet sitting"
+    ],
+    "slug": "hilton-dresden"
+  },
+  {
+    "id": "dresden-3",
+    "name": "Maritim Hotel Dresden",
+    "destinationSlug": "dresden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 7500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/maritim-internationales-congress-center-dresden.html",
+    "petFee": 25,
+    "petPolicy": "Maritim Hotel Dresden welcomes pets for €25 per pet per night. Both dogs and cats are accepted. Please contact the property in advance to arrange pet stays. Pets are not allowed in the breakfast room or pool area.",
+    "highlights": [
+      "Riverside location at the Erlweinspeicher with Elbe-facing rooms",
+      "Indoor pool, spa, and large breakfast buffet",
+      "5-minute walk to the Zwinger and Semperoper"
+    ],
+    "slug": "maritim-hotel-dresden"
+  },
+  {
+    "id": "dresden-4",
+    "name": "Aparthotel Münzgasse An der Frauenkirche",
+    "destinationSlug": "dresden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 3000,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/apartmentsanderfrauenkirche.html",
+    "petFee": 25,
+    "petPolicy": "Aparthotel Münzgasse welcomes dogs and cats in apartments for €25 per pet per night. Size limitations may apply, so confirm with the property at booking. Pet bowls provided on request.",
+    "highlights": [
+      "Apartments directly on the Münzgasse beside the Frauenkirche",
+      "Self-catering kitchens — easy with anxious or older dogs",
+      "Brühlsche Terrasse and Elbwiesen at the doorstep"
+    ],
+    "slug": "aparthotel-munzgasse-dresden"
+  },
+  {
+    "id": "dresden-5",
+    "name": "ibis Dresden Zentrum",
+    "destinationSlug": "dresden",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 6500,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/ibisdresdenzentrum.html",
+    "petFee": 16,
+    "petPolicy": "ibis Dresden Zentrum accepts pets of any size for €16 per pet per night. Both dogs and cats are welcome. Pets must not be left unattended in the room.",
+    "highlights": [
+      "Central location near Postplatz, 5 min walk to the Zwinger",
+      "Lowest pet fee of any central Dresden hotel (€16/night)",
+      "Welcomes both dogs and cats"
+    ],
+    "slug": "ibis-dresden-zentrum"
+  },
+  {
     "id": "dublin-1",
     "name": "The Fitzwilliam Hotel",
     "destinationSlug": "dublin",

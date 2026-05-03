@@ -2673,6 +2673,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  dresden: {
+    history: {
+      fr: `Fondée vers 1206 sur les rives de l'Elbe, Dresde devint au XVIIIᵉ siècle la "Florence du Nord" sous l'électeur Auguste le Fort, qui fit du Zwinger, du Schloss et de la Frauenkirche les emblèmes d'une cour baroque parmi les plus brillantes d'Europe. Le bombardement allié de février 1945 anéantit le centre ; la reconstruction patiente de la Frauenkirche, achevée en 2005, symbolise la résurrection de la ville. Capitale de la Saxe et bordée par les Elbwiesen — prairies fluviales où les chiens courent sans laisse par usage —, Dresde combine patrimoine baroque, forêt urbaine de 5 800 hectares et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément.`,
+      en: `Founded around 1206 on the banks of the Elbe, Dresden became "Florence on the Elbe" in the 18th century under Elector Augustus the Strong, whose Zwinger, Schloss, and Frauenkirche made the city one of Europe's most brilliant baroque courts. The Allied bombing of February 1945 destroyed the centre; the patient reconstruction of the Frauenkirche, completed in 2005, has come to symbolise the city's rebirth. Capital of Saxony and lined by the Elbwiesen — river meadows where dogs run off-leash by long-standing custom — Dresden combines baroque heritage, a 5,800-hectare municipal forest, and a historic paddle-steamer fleet that welcomes dogs at no extra charge.`,
+      es: `Fundada hacia 1206 a orillas del Elba, Dresde se convirtió en la "Florencia del Elba" en el siglo XVIII bajo el elector Augusto el Fuerte, cuyos Zwinger, Schloss y Frauenkirche hicieron de la ciudad una de las cortes barrocas más brillantes de Europa. El bombardeo aliado de febrero de 1945 destruyó el centro; la paciente reconstrucción de la Frauenkirche, terminada en 2005, simboliza el renacer de la ciudad. Capital de Sajonia y flanqueada por las Elbwiesen — praderas fluviales donde los perros corren sin correa por costumbre arraigada —, Dresde combina patrimonio barroco, un bosque urbano de 5.800 hectáreas y una flota histórica de vapores de paletas que admite perros sin coste extra.`,
+    },
+    sights: [
+      {
+        name: 'Frauenkirche',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale baroque protestante reconstruite de 1994 à 2005 sur les ruines du bombardement de 1945 — symbole le plus puissant de la résurrection de Dresde. L'intérieur n'admet que les chiens d'assistance, mais la place et la vue depuis la Brühlsche Terrasse sont accessibles en laisse à toute heure.`,
+          en: `The Baroque Protestant cathedral rebuilt from 1994 to 2005 on the ruins of the 1945 bombing — Dresden's most powerful symbol of resurrection. The interior admits only assistance dogs, but the square and the view from the Brühlsche Terrasse are accessible on leash at any time.`,
+          es: `Catedral barroca protestante reconstruida de 1994 a 2005 sobre las ruinas del bombardeo de 1945, el símbolo más potente del renacer de Dresde. El interior solo admite perros de asistencia, pero la plaza y la vista desde la Brühlsche Terrasse son accesibles con correa a cualquier hora.`,
+        },
+      },
+      {
+        name: 'Zwinger',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Palais baroque du XVIIIᵉ siècle, ancienne cour royale aujourd'hui musée. Les cours intérieures et les jardins sont accessibles aux chiens en laisse à toute heure ; les musées (Gemäldegalerie, Porzellansammlung, Mathematisch-Physikalischer Salon) n'admettent que les chiens d'assistance.`,
+          en: `An 18th-century Baroque palace, the former royal court and now a museum complex. The inner courtyards and gardens are accessible to leashed dogs at any time; the museums (Old Masters Gallery, Porcelain Collection, Mathematics-Physics Salon) admit only assistance dogs.`,
+          es: `Palacio barroco del siglo XVIII, antigua corte real y hoy complejo museístico. Los patios interiores y los jardines son accesibles a perros con correa a cualquier hora; los museos (Galería de los Maestros Antiguos, Colección de Porcelana, Salón Matemático-Físico) solo admiten perros de asistencia.`,
+        },
+      },
+      {
+        name: 'Brühlsche Terrasse',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade surélevée surnommée "balcon de l'Europe", entre l'Augustusbrücke et le Carolabrücke. Ouverte jour et nuit, avec escaliers descendant aux Elbwiesen — couvre l'essentiel de la silhouette dite de Canaletto en une boucle de 20 minutes en laisse.`,
+          en: `An elevated riverside promenade nicknamed the "Balcony of Europe", running between the Augustusbrücke and the Carolabrücke. Open day and night, with stairs down to the Elbwiesen — covers most of the famous Canaletto-view skyline in a leashed 20-minute loop.`,
+          es: `Paseo elevado a orillas del río apodado "Balcón de Europa", entre el Augustusbrücke y el Carolabrücke. Abierto día y noche, con escaleras hasta las Elbwiesen: cubre casi todo el perfil canalettiano en una vuelta de 20 minutos con correa.`,
+        },
+      },
+      {
+        name: 'Großer Garten',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc baroque central de 147 hectares, dessiné en 1676. Chiens en laisse autorisés dans tout le parc (sauf le Jardin botanique). Idéal pour une promenade régulière en plein centre, avec terrasse de café accueillante au Carolasee.`,
+          en: `A 147-hectare central Baroque park laid out in 1676. Leashed dogs welcome throughout the park (except the Botanical Garden). Ideal for a regular walk right in the centre, with a dog-welcoming café terrace at the Carolasee lake.`,
+          es: `Parque barroco central de 147 hectáreas, trazado en 1676. Perros con correa permitidos en todo el parque (salvo el Jardín Botánico). Ideal para un paseo habitual en pleno centro, con terraza de café que admite perros junto al Carolasee.`,
+        },
+      },
+      {
+        name: 'Elbwiesen',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Larges prairies herbeuses bordant les deux rives de l'Elbe à travers le centre de Dresde. Les chiens y courent sans laisse par usage local sur la bande herbeuse, entre la rivière et la piste cyclable. Le tronçon Carolabrücke–Albertbrücke est le plus large.`,
+          en: `Wide grass meadows lining both banks of the Elbe through central Dresden. Dogs run off-leash by local custom on the grass strip between the river and the cycle path. The Carolabrücke–Albertbrücke stretch is the widest.`,
+          es: `Amplias praderas herbosas que flanquean ambas orillas del Elba a su paso por el centro de Dresde. Los perros corren sin correa por costumbre local en la franja entre el río y el carril bici. El tramo Carolabrücke–Albertbrücke es el más ancho.`,
+        },
+      },
+      {
+        name: 'Schlosspark Pillnitz',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: `Parc du château romantique sur la rive est de l'Elbe, accessible en bateau à aubes ou en bus 63. Tout le parc est ouvert aux chiens en laisse ; les bâtiments (musée, palmeraie, serre aux camélias) restent réservés aux chiens d'assistance.`,
+          en: `Romantic palace park on the eastern bank of the Elbe, reachable by paddle steamer or bus 63. The entire park is open to leashed dogs; the buildings (museum, palm house, camellia house) remain assistance-dog-only.`,
+          es: `Parque del palacio romántico en la orilla este del Elba, accesible en vapor de paletas o en autobús 63. Todo el parque está abierto a perros con correa; los edificios (museo, palmeral, casa de las camelias) solo admiten perros de asistencia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Dans les trams et bus DVB, les chiens hors cage doivent porter une muselière et être tenus en laisse courte — amende de 20 € si la muselière manque.`,
+        `Sur les Elbwiesen, les chiens courent sans laisse par usage local — restez sur la bande herbeuse entre rivière et piste cyclable, et hors des Wasserschutzbereiche balisés.`,
+        `La Dresdner Heide est en laisse obligatoire du 1er mars au 30 juin (saison de nidification) ; le reste de l'année, sentiers Hundeauslauf balisés.`,
+        `Les bateaux à aubes de la Sächsische Dampfschifffahrt acceptent les chiens en laisse courte sans supplément — la ligne Pillnitz monte à travers les vignobles.`,
+        `Numéro central d'urgence vétérinaire : 01805 843736 (rotation Tierärztlicher Notdienst Dresden) ; supplément urgence de 50 € HT en plus des honoraires.`,
+      ],
+      en: [
+        `On DVB trams and buses, dogs outside a carrier must wear a muzzle and be on a short leash — €20 fine for a missing muzzle.`,
+        `On the Elbwiesen, dogs run off-leash by local custom — stay on the grass strip between the river and the cycle path, and clear of marked Wasserschutzbereiche.`,
+        `The Dresdner Heide is leash-only from 1 March to 30 June (forest breeding season); the rest of the year, marked Hundeauslauf trails.`,
+        `Sächsische Dampfschifffahrt paddle steamers accept dogs on a short leash at no extra charge — the upstream Pillnitz line runs through the vineyards.`,
+        `Central emergency vet number: 01805 843736 (Tierärztlicher Notdienst Dresden rotation); €50 net emergency surcharge added to standard fees.`,
+      ],
+      es: [
+        `En los tranvías y autobuses DVB, los perros fuera de transportín deben llevar bozal y correa corta: multa de 20 € si falta el bozal.`,
+        `En las Elbwiesen, los perros corren sin correa por costumbre local: mantente en la franja de hierba entre el río y el carril bici y fuera de los Wasserschutzbereiche señalizados.`,
+        `La Dresdner Heide es de correa obligatoria del 1 de marzo al 30 de junio (temporada de cría); el resto del año, senderos Hundeauslauf señalizados.`,
+        `Los vapores de paletas de Sächsische Dampfschifffahrt admiten perros con correa corta sin coste extra: la línea aguas arriba a Pillnitz pasa por los viñedos.`,
+        `Número central de urgencias veterinarias: 01805 843736 (rotación Tierärztlicher Notdienst Dresden); recargo de urgencia de 50 € netos sobre honorarios estándar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animaux et vaccin antirabique en cours requis dans tous les hôtels pet-friendly au check-in.`,
+        `Laisse obligatoire dans tout l'espace public hors Hundeauslauf et Elbwiesen ; déjections à ramasser obligatoirement, amendes à partir de 20 €.`,
+        `Zwinger, Albertinum, Residenzschloss et Frauenkirche n'admettent que les chiens d'assistance — réservez un Pawshake ou un Rover si besoin de visiter.`,
+        `Notdienst hors horaires (Tierärztlicher Notdienst Dresden) : appelez le 01805 843736 — la rotation des cabinets de garde est mise à jour chaque semaine.`,
+        `Aéroport le plus proche : Dresden International (DRS) — 9 km du centre ; sinon, Berlin BER en train ICE direct (2h15).`,
+      ],
+      en: [
+        `EU pet passport and current rabies vaccination required at check-in in every pet-friendly hotel.`,
+        `Leashed in all public space outside Hundeauslauf zones and the Elbwiesen — waste must be cleaned up, fines start at €20.`,
+        `Zwinger, Albertinum, Residenzschloss and Frauenkirche only admit assistance dogs — book a Pawshake or Rover sitter if you need to visit.`,
+        `After-hours emergency (Tierärztlicher Notdienst Dresden): call 01805 843736 — the duty practice rotation is updated weekly.`,
+        `Closest airport: Dresden International (DRS) — 9 km from the centre; otherwise Berlin BER on a direct ICE train (2 h 15).`,
+      ],
+      es: [
+        `Pasaporte europeo de mascota y vacuna antirrábica vigente requeridos en el check-in de todos los hoteles pet-friendly.`,
+        `Correa obligatoria en todo el espacio público fuera de las zonas Hundeauslauf y de las Elbwiesen: hay que recoger las heces, multas desde 20 €.`,
+        `Zwinger, Albertinum, Residenzschloss y Frauenkirche solo admiten perros de asistencia: reserva un cuidador Pawshake o Rover si necesitas visitar.`,
+        `Urgencia fuera de horario (Tierärztlicher Notdienst Dresden): llama al 01805 843736 — la rotación de la clínica de guardia se actualiza semanalmente.`,
+        `Aeropuerto más cercano: Dresden International (DRS) — 9 km del centro; alternativa, Berlín BER en tren ICE directo (2 h 15).`,
+      ],
+    },
+  },
+
   dublin: {
     history: {
       fr: `Dublin — Baile Átha Cliath en irlandais, "la ville du gué aux claies" — a été fondée par les Vikings au IXe siècle sur les rives de la Liffey. Capitale de l'Irlande depuis la domination normande du XIIe siècle, elle a été le centre administratif de la présence britannique en Irlande pendant sept siècles avant de devenir la capitale de l'État libre d'Irlande en 1922. Aujourd'hui, Dublin est une ville chaleureuse et vivante, connue pour ses pubs, sa culture littéraire (Joyce, Beckett, Wilde) et son accueil légendaire. Les chiens y sont les bienvenus dans les beer gardens, sur les sentiers côtiers et dans le Phoenix Park — l'un des plus grands parcs urbains d'Europe, avec 1 750 hectares à explorer.`,

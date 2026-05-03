@@ -141,6 +141,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Roman Bridge sunset view, the Judería Jewish Quarter alleys, and the Sotos de la Albolafia riverside path',
       area: 'the Judería, the Centro near the Plaza de la Corredera, and the modern San Fernando area',
     },
+    dresden: {
+      personality: 'a compact baroque capital on the Elbe with kilometres of off-leash river meadows, a 5,800-hectare municipal forest on the northern edge, and a historic paddle-steamer fleet that welcomes dogs at no extra charge',
+      highlight: 'the Elbwiesen river meadows through the centre, the Dresdner Heide forest, and the Schlosspark Pillnitz palace gardens',
+      area: 'the Altstadt around the Frauenkirche, the Äußere Neustadt, and the Striesen / Blasewitz residential neighbourhoods',
+    },
     dublin: {
       personality: 'a warm, pub-centred city where dogs are welcomed in beer gardens, on coastal walks, and through Europe\'s largest urban park. The Phoenix Park',
       highlight: 'Phoenix Park (1,750 acres, largely off-leash), the Dodder river walk, and the Sandymount Strand beach',
@@ -589,6 +594,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la vue sur le Pont romain au coucher du soleil, les ruelles de la Judería juive et le sentier riverain des Sotos de la Albolafia',
       area: 'la Judería, le Centro près de la Plaza de la Corredera et le quartier moderne de San Fernando',
     },
+    dresden: {
+      personality: 'capitale baroque compacte sur l\'Elbe, avec des kilomètres de prairies fluviales sans laisse, une forêt urbaine de 5 800 hectares à la lisière nord et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément',
+      highlight: 'les Elbwiesen qui traversent le centre, la forêt de la Dresdner Heide et les jardins du château de Pillnitz',
+      area: 'l\'Altstadt autour de la Frauenkirche, l\'Äußere Neustadt et les quartiers résidentiels de Striesen / Blasewitz',
+    },
     dublin: {
       personality: 'une ville chaleureuse et centrée sur les pubs où les chiens sont accueillis dans les jardins de bière, sur les promenades côtières et à travers le plus grand parc urbain d\'Europe. Le Phoenix Park',
       highlight: 'le Phoenix Park (700 hectares, largement sans laisse), le sentier de la rivière Dodder et la plage de Sandymount Strand',
@@ -1035,6 +1045,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla — compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
       highlight: 'la vista al Puente Romano al atardecer, los callejones de la Judería judía y el sendero ribereño de los Sotos de la Albolafia',
       area: 'la Judería, el Centro junto a la Plaza de la Corredera y la zona moderna de San Fernando',
+    },
+    dresden: {
+      personality: 'capital barroca compacta sobre el Elba, con kilómetros de praderas fluviales sin correa, un bosque urbano de 5.800 hectáreas en el borde norte y una flota histórica de vapores de paletas que admite perros sin coste extra',
+      highlight: 'las Elbwiesen que atraviesan el centro, el bosque de la Dresdner Heide y los jardines del palacio de Pillnitz',
+      area: 'el Altstadt en torno a la Frauenkirche, el Äußere Neustadt y los barrios residenciales de Striesen / Blasewitz',
     },
     dublin: {
       personality: 'una cálida ciudad centrada en los pubs donde los perros son bienvenidos en los jardines de cerveza, en los paseos costeros y a través del parque urbano más grande de Europa. El Phoenix Park',

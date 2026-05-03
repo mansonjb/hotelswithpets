@@ -69,6 +69,7 @@ const TARGETS = [
   { slug: 'bristol', query: 'Bristol England Clifton Suspension Bridge Avon Gorge sunset panorama' },
   { slug: 'bergen', query: 'Bergen Norway Bryggen colourful wooden Hanseatic wharf Fløyen panorama sunset' },
   { slug: 'utrecht', query: 'Utrecht Netherlands Domtoren cathedral tower Oudegracht canal werven sunset panorama' },
+  { slug: 'dresden', query: 'Dresden Germany Frauenkirche Brühlsche Terrasse Elbe river Canaletto skyline sunset panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

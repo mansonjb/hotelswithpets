@@ -417,6 +417,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the 84-hectare Parco del Valentino, the 10 km Po riverside, and the Basilica di Superga reached by vintage rack railway',
       area: 'San Salvario, the Quadrilatero Romano, and the Piazza Castello historic core',
     },
+    utrecht: {
+      personality: 'a compact Dutch university city where dogs ride city buses and trams free, the canal-cruise operator welcomes dogs at no charge, and three off-leash zones — the 300-hectare Máximapark, the central Griftpark, and the Amelisweerd estates — are all reachable from the historic core',
+      highlight: 'Máximapark in Leidsche Rijn, the central Griftpark, and the Amelisweerd & Rhijnauwen estates 5 km southeast',
+      area: 'Binnenstad and the Oudegracht, Vogelenbuurt, and Wittevrouwen',
+    },
     valencia: {
       personality: 'a sunny Mediterranean city with 19 km of park running through its centre. The former Turia riverbed. Making it one of Europe\'s most walkable cities for dog owners',
       highlight: 'the Turia Garden (9 km off-leash friendly), the Malvarrosa beach dog zone, and the Albufera nature park',
@@ -859,6 +864,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les 84 hectares du Parco del Valentino, les 10 km de berges du Pô et la Basilique de Superga atteinte par train à crémaillère',
       area: 'San Salvario, le Quadrilatero Romano et le cœur historique autour de la Piazza Castello',
     },
+    utrecht: {
+      personality: 'une ville universitaire néerlandaise compacte où les chiens montent gratuitement dans les bus et trams urbains, où l\'opérateur de croisière canalière accepte les chiens sans supplément, et où trois zones sans laisse — le Máximapark de 300 hectares, le Griftpark central et les domaines d\'Amelisweerd — sont toutes accessibles depuis le cœur historique',
+      highlight: 'le Máximapark à Leidsche Rijn, le Griftpark central et les domaines d\'Amelisweerd & Rhijnauwen à 5 km au sud-est',
+      area: 'la Binnenstad et l\'Oudegracht, Vogelenbuurt et Wittevrouwen',
+    },
     valencia: {
       personality: 'une ville méditerranéenne ensoleillée avec 19 km de parc traversant son centre. L\'ancien lit de la Turia. Ce qui en fait l\'une des villes les plus praticables d\'Europe pour les propriétaires de chiens',
       highlight: 'le Jardin du Turia (9 km largement sans laisse), la zone chiens de la plage de Malvarrosa et le parc naturel de l\'Albufera',
@@ -1300,6 +1310,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capital barroca del norte de Italia, con 18 km de pórticos cubiertos que resguardan a perros y dueños de la lluvia y del sol estival, más de 35 zonas caninas valladas, y los Alpes a una hora para escapadas de fin de semana',
       highlight: 'las 84 hectáreas del Parco del Valentino, los 10 km de orillas del Po y la Basílica de Superga a la que se accede por tren de cremallera',
       area: 'San Salvario, el Quadrilatero Romano y el núcleo histórico en torno a Piazza Castello',
+    },
+    utrecht: {
+      personality: 'una compacta ciudad universitaria neerlandesa donde los perros viajan gratis en autobuses y tranvías urbanos, el operador de cruceros por los canales admite perros sin coste, y tres zonas sin correa — el Máximapark de 300 hectáreas, el Griftpark central y las fincas de Amelisweerd — son accesibles desde el casco histórico',
+      highlight: 'el Máximapark en Leidsche Rijn, el Griftpark central y las fincas Amelisweerd & Rhijnauwen a 5 km al sureste',
+      area: 'la Binnenstad y la Oudegracht, Vogelenbuurt y Wittevrouwen',
     },
     valencia: {
       personality: 'una ciudad mediterránea soleada con 19 km de parque atravesando su centro. El antiguo cauce del Turia. Que la convierte en una de las ciudades más transitables de Europa para los dueños de perros',

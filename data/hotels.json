@@ -12708,6 +12708,124 @@
     "slug": "b-b-hotel-torino"
   },
   {
+    "id": "utrecht-1",
+    "name": "Grand Hotel Karel V",
+    "destinationSlug": "utrecht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 705,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/ghkarelv.html",
+    "petFee": 50,
+    "petPolicy": "Grand Hotel Karel V welcomes pets in a limited number of rooms for an additional fee of €50 per pet per night, subject to advance request. Both dogs and cats are accepted. Pets are not allowed in the restaurants or wellness area.",
+    "highlights": [
+      "Five-star monastery setting at the foot of the Domtoren",
+      "Two acclaimed restaurants, wellness centre, and walled gardens",
+      "10-minute walk from the Oudegracht and Centraal Station"
+    ],
+    "slug": "grand-hotel-karel-v-utrecht"
+  },
+  {
+    "id": "utrecht-2",
+    "name": "Park Plaza Utrecht",
+    "destinationSlug": "utrecht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 4200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/pputrecht.html",
+    "petFee": 25,
+    "petPolicy": "Park Plaza Utrecht accepts pets of any size for €25 per pet per night. Both dogs and cats are welcome. Food and water bowls and a dog bed are provided on request; please notify the property in advance.",
+    "highlights": [
+      "Five-minute walk from Utrecht Centraal Station",
+      "Air-conditioned rooms with Smart TV and Nespresso",
+      "Pet bed and bowls provided on request"
+    ],
+    "slug": "park-plaza-utrecht-utrecht"
+  },
+  {
+    "id": "utrecht-3",
+    "name": "Hotel Mitland",
+    "destinationSlug": "utrecht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3800,
+    "priceFrom": 138,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/mitland.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Mitland welcomes pets for €25 per pet per night, including a food and water bowl, a treat, and a cushion. Both dogs and cats are accepted. Pets are not allowed on beds or furniture.",
+    "highlights": [
+      "Backed by the Voorveldse Polder green walking route",
+      "Indoor pool, wellness, and on-site bowling",
+      "3 km from Wilhelminapark, 10 min by bus to the centre"
+    ],
+    "slug": "hotel-mitland-utrecht"
+  },
+  {
+    "id": "utrecht-4",
+    "name": "NH Utrecht",
+    "destinationSlug": "utrecht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nhutrecht.html",
+    "petFee": 25,
+    "petPolicy": "NH Utrecht accepts up to two pets under 25 kg combined for €25 per pet per night, subject to availability. Both dogs and cats are welcome — please contact the hotel to confirm the booking.",
+    "highlights": [
+      "21-storey tower with panoramic city views",
+      "Direct from Utrecht Centraal across the Jaarbeursplein",
+      "Welcomes both dogs and cats"
+    ],
+    "slug": "nh-utrecht-utrecht"
+  },
+  {
+    "id": "utrecht-5",
+    "name": "Moxy Utrecht",
+    "destinationSlug": "utrecht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1900,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/moxy-utrecht.html",
+    "petFee": 15,
+    "petPolicy": "Moxy Utrecht accepts one pet up to 35 kg for €15 per pet per night. Both dogs and cats are welcome. Pets must not be left unattended in the room.",
+    "highlights": [
+      "Tram, train, and bus connections at the door",
+      "Compact design rooms at a budget-friendly nightly rate",
+      "Welcomes both dogs and cats"
+    ],
+    "slug": "moxy-utrecht-utrecht"
+  },
+  {
     "id": "valencia-1",
     "name": "The Westin Valencia",
     "destinationSlug": "valencia",

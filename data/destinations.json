@@ -5793,6 +5793,79 @@
     }
   },
   {
+    "slug": "utrecht",
+    "name": "Utrecht",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/utrecht.jpg",
+    "intro": "Utrecht is one of the Netherlands' most reliably dog-friendly cities — compact medieval centre, free dogs on city buses and trams, multiple off-leash parks, and a canal-cruise operator that welcomes dogs at no charge.",
+    "lat": 52.0907,
+    "lng": 5.1214,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "valencia",
     "name": "Valencia",
     "country": "Spain",

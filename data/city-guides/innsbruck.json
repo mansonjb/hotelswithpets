@@ -1,0 +1,773 @@
+{
+  "slug": "innsbruck",
+  "name": "Innsbruck",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-05-03",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Innsbruck",
+      "titleFr": "Restaurants dog-friendly à Innsbruck",
+      "titleEs": "Restaurantes dog-friendly en Innsbruck",
+      "introEn": "Austrian café tradition is naturally dog-tolerant — Innsbruck's Altstadt cafés, Wilten beer halls, and Maria-Theresien-Strasse bistros all welcome leashed dogs. Many keep a water bowl at the door. The Tyrolean mountain-village dining culture extends to dogs without question.",
+      "introFr": "La tradition café autrichienne est naturellement dog-tolérante — les cafés du Altstadt d'Innsbruck, les brasseries de Wilten et les bistrots de la Maria-Theresien-Strasse accueillent tous les chiens en laisse. Beaucoup gardent une gamelle d'eau à l'entrée. La culture de restauration des villages de montagne tyroliens s'étend aux chiens sans question.",
+      "introEs": "La tradición del café austríaco es naturalmente dog-tolerante — los cafés del Altstadt de Innsbruck, las cervecerías de Wilten y los bistrós de la Maria-Theresien-Strasse admiten todos perros con correa. Muchos guardan un bol de agua en la puerta. La cultura gastronómica de los pueblos de montaña tiroleses se extiende a los perros sin objeción.",
+      "places": [
+        {
+          "name": "Stiftskeller Innsbruck",
+          "address": "Stiftgasse 1, 6020 Innsbruck",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/innsbruck-restaurants-stiftskeller-innsbruck.jpg",
+          "website": "https://www.stiftskeller.eu/",
+          "description": "A 600-year-old wine cellar tavern in the Altstadt, vaulted ceilings, traditional Tyrolean cuisine and dog-tolerant inside the cellar. Outdoor courtyard accepts leashed dogs in summer. Schnitzel, Tafelspitz, regional Austrian wines.",
+          "descriptionFr": "Cave-taverne vieille de 600 ans dans l'Altstadt, plafonds voûtés, cuisine tyrolienne traditionnelle et dog-tolérant dans la cave. Cour extérieure accepte les chiens en laisse en été. Schnitzel, Tafelspitz, vins autrichiens régionaux.",
+          "descriptionEs": "Bodega-taberna de 600 años en el Altstadt, techos abovedados, cocina tirolesa tradicional y dog-tolerant en la bodega. Patio exterior admite perros con correa en verano. Schnitzel, Tafelspitz, vinos austríacos regionales.",
+          "petPolicy": "Dogs welcome inside cellar and courtyard",
+          "petPolicyFr": "Chiens bienvenus dans la cave et la cour",
+          "petPolicyEs": "Perros bienvenidos en bodega y patio",
+          "priceRange": "EUR EUR EUR",
+          "mustTry": "Wiener Schnitzel, Käsespätzle, Tyrolean Gröstl",
+          "mustTryFr": "Wiener Schnitzel, Käsespätzle, Gröstl tyrolien",
+          "mustTryEs": "Wiener Schnitzel, Käsespätzle, Gröstl tirolés",
+          "openingHours": "Daily 11:00-24:00",
+          "tip": "The corner table near the entrance has the best dog spot — quiet, away from kitchen traffic, and the waitstaff brings water immediately.",
+          "tipFr": "La table d'angle près de l'entrée est le meilleur spot canin — calme, loin du passage cuisine, et le personnel apporte de l'eau immédiatement.",
+          "tipEs": "La mesa de esquina junto a la entrada es el mejor lugar canino — tranquila, lejos del paso de cocina, y el personal trae agua inmediatamente.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stiftskeller+Innsbruck"
+        },
+        {
+          "name": "Café Munding",
+          "address": "Kiebachgasse 16, 6020 Innsbruck",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/innsbruck-restaurants-cafe-munding.jpg",
+          "website": "https://www.munding.at/",
+          "description": "Innsbruck's oldest pastry shop and café (1803), in a Baroque building in the Altstadt. Dog-tolerant on the ground-floor café tables and outdoor terrace. Famous Mozartkugel, Sachertorte, fresh Tyrolean apple strudel.",
+          "descriptionFr": "Pâtisserie et café le plus ancien d'Innsbruck (1803), dans un bâtiment baroque de l'Altstadt. Dog-tolérant aux tables du rez-de-chaussée et en terrasse. Célèbres Mozartkugel, Sachertorte, strudel aux pommes tyrolien frais.",
+          "descriptionEs": "Pastelería y café más antiguo de Innsbruck (1803), en un edificio barroco del Altstadt. Dog-tolerant en las mesas de la planta baja y en la terraza. Famosos Mozartkugel, Sachertorte, strudel de manzana tirolés fresco.",
+          "petPolicy": "Dogs welcome on ground floor + terrace",
+          "petPolicyFr": "Chiens bienvenus au rez-de-chaussée + terrasse",
+          "petPolicyEs": "Perros bienvenidos en planta baja + terraza",
+          "priceRange": "EUR EUR",
+          "mustTry": "Mozartkugel, Sachertorte, Apfelstrudel",
+          "mustTryFr": "Mozartkugel, Sachertorte, Apfelstrudel",
+          "mustTryEs": "Mozartkugel, Sachertorte, Apfelstrudel",
+          "openingHours": "Mon-Sat 08:00-19:00, Sun 09:00-19:00",
+          "tip": "Order the Wienermelange (traditional Viennese coffee) with apple strudel — the locals' breakfast since 1803, and the dog gets a piece of bread.",
+          "tipFr": "Commandez le Wienermelange (café viennois traditionnel) avec strudel — le petit-déjeuner local depuis 1803, et le chien a un morceau de pain.",
+          "tipEs": "Pide el Wienermelange (café vienés tradicional) con strudel — el desayuno local desde 1803, y el perro recibe un trozo de pan.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Munding+Innsbruck"
+        },
+        {
+          "name": "Lichtblick",
+          "address": "Maria-Theresien-Strasse 18, 6020 Innsbruck",
+          "neighborhood": "Innenstadt",
+          "photo": "/images/city-places/innsbruck-restaurants-lichtblick.jpg",
+          "website": "https://www.restaurant-lichtblick.at/",
+          "description": "A 7th-floor rooftop restaurant with panoramic Alps views, on top of the Rathaus Galerien shopping centre. Dog-friendly outdoor terrace year-round (heated lamps in winter), modern Austrian cuisine.",
+          "descriptionFr": "Restaurant rooftop au 7e étage avec vues panoramiques sur les Alpes, au sommet du centre commercial Rathaus Galerien. Terrasse extérieure dog-friendly toute l'année (lampes chauffantes en hiver), cuisine autrichienne moderne.",
+          "descriptionEs": "Restaurante rooftop en la 7ª planta con vistas panorámicas a los Alpes, encima del centro comercial Rathaus Galerien. Terraza exterior dog-friendly todo el año (lámparas calefactoras en invierno), cocina austríaca moderna.",
+          "petPolicy": "Outdoor terrace dog-friendly year-round",
+          "petPolicyFr": "Terrasse extérieure dog-friendly toute l'année",
+          "petPolicyEs": "Terraza exterior dog-friendly todo el año",
+          "priceRange": "EUR EUR EUR",
+          "mustTry": "Rooftop sunset cocktail, modern Tyrolean tasting menu",
+          "mustTryFr": "Cocktail rooftop coucher de soleil, menu dégustation tyrolien moderne",
+          "mustTryEs": "Cóctel rooftop al atardecer, menú degustación tirolés moderno",
+          "openingHours": "Daily 11:00-23:00",
+          "tip": "Reserve a sunset terrace table 1-2 weeks ahead — the Alps lit by the setting sun is the signature Innsbruck dining moment.",
+          "tipFr": "Réservez une table en terrasse coucher de soleil 1-2 semaines avant — les Alpes éclairées par le coucher du soleil est le moment signature d'Innsbruck.",
+          "tipEs": "Reserva mesa en terraza al atardecer 1-2 semanas antes — los Alpes iluminados por la puesta de sol es el momento gastronómico signature de Innsbruck.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lichtblick+Innsbruck"
+        }
+      ],
+      "tipsEn": [
+        "Austrian café and Gasthaus tradition is broadly dog-friendly — most independent venues say yes when asked. Look for a 'Hund willkommen' sticker.",
+        "Tyrolean mountain huts (Almhütten) on hiking trails universally welcome dogs — typical lunch stop on a Nordkette or Patscherkofel hike.",
+        "Ask for 'Wasser für den Hund, bitte' — staff bring a bowl within seconds; many cafés keep treats behind the bar."
+      ],
+      "tipsFr": [
+        "La tradition café et Gasthaus autrichienne est largement dog-friendly — la plupart des établissements indépendants disent oui sur demande. Cherchez l'autocollant « Hund willkommen ».",
+        "Les huttes de montagne tyroliennes (Almhütten) sur les sentiers de randonnée accueillent universellement les chiens — pause déjeuner typique sur une rando Nordkette ou Patscherkofel.",
+        "Demandez « Wasser für den Hund, bitte » — le personnel apporte une gamelle en quelques secondes ; beaucoup de cafés gardent des friandises derrière le bar."
+      ],
+      "tipsEs": [
+        "La tradición del café y Gasthaus austríaca es ampliamente dog-friendly — la mayoría de los establecimientos independientes dicen sí al preguntar. Busca el adhesivo « Hund willkommen ».",
+        "Las cabañas de montaña tirolesas (Almhütten) en los senderos de senderismo admiten universalmente perros — parada de comida típica en una ruta Nordkette o Patscherkofel.",
+        "Pide « Wasser für den Hund, bitte » — el personal trae un bol en segundos; muchos cafés guardan golosinas detrás de la barra."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Innsbruck restaurants?",
+          "a": "Most independent cafés, Gasthäuser and bistros welcome leashed dogs, both indoors and on terraces. Higher-end restaurants vary; always ask before booking."
+        },
+        {
+          "q": "Do Innsbruck cafés provide water bowls?",
+          "a": "The vast majority do, especially in the Altstadt and Wilten. Ask for 'Wasser für den Hund' if not visible."
+        },
+        {
+          "q": "Are mountain hut restaurants dog-friendly?",
+          "a": "Yes — Tyrolean Almhütten universally welcome dogs. Most have outdoor benches and water sources for hiking dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants d'Innsbruck ?",
+          "a": "La plupart des cafés, Gasthäuser et bistrots indépendants accueillent les chiens en laisse, à l'intérieur comme en terrasse. Les restaurants haut de gamme varient ; demandez toujours avant de réserver."
+        },
+        {
+          "q": "Les cafés d'Innsbruck fournissent-ils des gamelles d'eau ?",
+          "a": "La grande majorité oui, surtout dans l'Altstadt et à Wilten. Demandez « Wasser für den Hund » si non visible."
+        },
+        {
+          "q": "Les restaurants des huttes de montagne sont-ils dog-friendly ?",
+          "a": "Oui — les Almhütten tyroliennes accueillent universellement les chiens. La plupart ont des bancs extérieurs et des sources d'eau pour les chiens de randonnée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Innsbruck?",
+          "a": "La mayoría de los cafés, Gasthäuser y bistrós independientes admiten perros con correa, tanto dentro como en terrazas. Los restaurantes de gama alta varían; pregunta siempre antes de reservar."
+        },
+        {
+          "q": "¿Ofrecen bol de agua los cafés de Innsbruck?",
+          "a": "La gran mayoría sí, sobre todo en el Altstadt y Wilten. Pide « Wasser für den Hund » si no es visible."
+        },
+        {
+          "q": "¿Los restaurantes de las cabañas de montaña son dog-friendly?",
+          "a": "Sí — los Almhütten tiroleses admiten universalmente perros. La mayoría tiene bancos exteriores y fuentes de agua para perros de senderismo."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Mountain Trails in Innsbruck",
+      "titleFr": "Parcs canins et sentiers de montagne à Innsbruck",
+      "titleEs": "Parques caninos y senderos de montaña en Innsbruck",
+      "introEn": "Innsbruck is encircled by the Tyrolean Alps — Nordkette range to the north (peaks at 2,300 m, reachable by cable car from the city centre), Patscherkofel to the south. The Innsbruck Hofgarten city park is dog-friendly on leash; off-leash starts the moment you leave urban roads on hiking trails (1 March-31 July leash for ground-nesting birds).",
+      "introFr": "Innsbruck est entourée des Alpes tyroliennes — chaîne du Nordkette au nord (sommets à 2 300 m, accessibles en téléphérique depuis le centre), Patscherkofel au sud. Le parc urbain Hofgarten d'Innsbruck est dog-friendly en laisse ; sans laisse dès que vous quittez les routes urbaines sur les sentiers (1er mars-31 juillet : laisse pour oiseaux nicheurs).",
+      "introEs": "Innsbruck está rodeada por los Alpes tiroleses — cordillera del Nordkette al norte (picos a 2.300 m, accesibles en teleférico desde el centro), Patscherkofel al sur. El parque urbano Hofgarten de Innsbruck es dog-friendly con correa; sin correa desde que sales de las carreteras urbanas en los senderos (1 marzo-31 julio: correa por aves que anidan).",
+      "places": [
+        {
+          "name": "Nordkette",
+          "address": "Höhenstrasse 145, 6020 Innsbruck",
+          "neighborhood": "North of the city",
+          "photo": "/images/city-places/innsbruck-parks-nordkette.jpg",
+          "website": "https://www.nordkette.com/",
+          "description": "The 2,300 m Nordkette ridge directly above Innsbruck, reachable by Hungerburgbahn funicular + 2 cable cars (dogs free, 25 min from city centre). Endless trails from Seegrube (1,905 m) to Hafelekar (2,256 m), off-leash territory in summer. The Hungerburgbahn funicular runs every 15 min from Congress station.",
+          "descriptionFr": "Crête du Nordkette à 2 300 m juste au-dessus d'Innsbruck, accessible par funiculaire Hungerburgbahn + 2 téléphériques (chiens gratuits, 25 min du centre). Sentiers infinis de Seegrube (1 905 m) au Hafelekar (2 256 m), territoire sans laisse en été. Le funiculaire Hungerburgbahn passe toutes les 15 min depuis la station Congress.",
+          "descriptionEs": "Cresta del Nordkette a 2.300 m justo sobre Innsbruck, accesible por funicular Hungerburgbahn + 2 teleféricos (perros gratis, 25 min del centro). Senderos infinitos desde Seegrube (1.905 m) hasta Hafelekar (2.256 m), territorio sin correa en verano. El funicular Hungerburgbahn pasa cada 15 min desde la estación Congress.",
+          "petPolicy": "Off-leash on trails (Aug-Feb); leash 1 Mar-31 Jul",
+          "petPolicyFr": "Sans laisse sur sentiers (août-février) ; laisse 1er mars-31 juillet",
+          "petPolicyEs": "Sin correa en senderos (ago-feb); correa 1 mar-31 jul",
+          "size": "Endless mountain trails",
+          "facilities": "Cable cars, Seegrube restaurant (dog-friendly), Hafelekar peak observation",
+          "facilitiesFr": "Téléphériques, restaurant Seegrube (dog-friendly), observation pic Hafelekar",
+          "facilitiesEs": "Teleféricos, restaurante Seegrube (dog-friendly), observación pico Hafelekar",
+          "openingHours": "Cable cars 08:30-17:30 daily",
+          "tip": "Take the first cable car at 08:30 — Seegrube to Hafelekar 1.5 km loop with sunrise views, dog-friendly, returning by 11:00 for lunch in the Altstadt.",
+          "tipFr": "Prenez le premier téléphérique à 8h30 — boucle Seegrube-Hafelekar de 1,5 km avec vues lever du soleil, dog-friendly, retour à 11h pour déjeuner dans l'Altstadt.",
+          "tipEs": "Coge el primer teleférico a las 8:30 — circuito Seegrube-Hafelekar de 1,5 km con vistas al amanecer, dog-friendly, vuelta a las 11:00 para comer en el Altstadt.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nordkette+Innsbruck"
+        },
+        {
+          "name": "Hofgarten",
+          "address": "Rennweg 8, 6020 Innsbruck",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/innsbruck-parks-hofgarten.jpg",
+          "website": "https://www.innsbruck.info/",
+          "description": "Innsbruck's central royal garden, 10 hectares of landscaped park with a glasshouse pavilion, mature trees and shaded paths. Leashed dogs welcome year-round. The southern lawn is the locals' Sunday afternoon dog gathering.",
+          "descriptionFr": "Jardin royal central d'Innsbruck, 10 hectares de parc paysagé avec pavillon serre, arbres centenaires et allées ombragées. Chiens en laisse bienvenus toute l'année. La pelouse sud est le rassemblement canin du dimanche après-midi des locaux.",
+          "descriptionEs": "Jardín real central de Innsbruck, 10 hectáreas de parque paisajístico con pabellón invernadero, árboles centenarios y paseos sombreados. Perros con correa bienvenidos todo el año. El césped sur es la reunión canina dominical de los locales.",
+          "petPolicy": "Leashed dogs welcome year-round",
+          "petPolicyFr": "Chiens en laisse bienvenus toute l'année",
+          "petPolicyEs": "Perros con correa bienvenidos todo el año",
+          "size": "10 ha / 25 acres",
+          "facilities": "Café, public toilets, walking paths, glasshouse, playground",
+          "facilitiesFr": "Café, toilettes publiques, sentiers, serre, aire de jeux",
+          "facilitiesEs": "Cafetería, aseos públicos, senderos, invernadero, zona de juegos",
+          "openingHours": "06:00-22:00 daily",
+          "tip": "Enter from the Burggraben gate for the most beautiful approach — the Hofgartencafé serves Tyrolean breakfast year-round with dog tolerance.",
+          "tipFr": "Entrez par la porte Burggraben pour l'approche la plus belle — le Hofgartencafé sert un petit-déjeuner tyrolien toute l'année avec tolérance canine.",
+          "tipEs": "Entra por la puerta de Burggraben para el acceso más bonito — el Hofgartencafé sirve desayuno tirolés todo el año con tolerancia canina.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hofgarten+Innsbruck"
+        },
+        {
+          "name": "Patscherkofel",
+          "address": "Patscherkofelbahn, 6080 Igls",
+          "neighborhood": "South of the city",
+          "photo": "/images/city-places/innsbruck-parks-patscherkofel.jpg",
+          "website": "https://www.patscherkofelbahn.at/",
+          "description": "The 2,247 m peak south of Innsbruck — the locals' Hausberg. Modern cable car from Igls (15 min by tram from city centre, then 8 min cable car). Summer hiking trails dog-friendly off-leash; winter ski-touring possible with dog (1986 Olympics descent route).",
+          "descriptionFr": "Pic de 2 247 m au sud d'Innsbruck — le Hausberg des locaux. Téléphérique moderne depuis Igls (15 min en tram du centre, puis 8 min téléphérique). Sentiers d'été dog-friendly sans laisse ; ski de randonnée hivernal possible avec chien (descente olympique 1986).",
+          "descriptionEs": "Pico de 2.247 m al sur de Innsbruck — el Hausberg de los locales. Teleférico moderno desde Igls (15 min en tranvía del centro, luego 8 min teleférico). Senderos de verano dog-friendly sin correa; esquí de travesía invernal posible con perro (descenso olímpico 1986).",
+          "petPolicy": "Cable car: leash + carrier required",
+          "petPolicyFr": "Téléphérique : laisse + cage requis",
+          "petPolicyEs": "Teleférico: correa + transportín obligatorio",
+          "size": "2,247 m altitude",
+          "facilities": "Cable car, summit Almhütte, marked trails, ski runs in winter",
+          "facilitiesFr": "Téléphérique, Almhütte du sommet, sentiers balisés, pistes ski en hiver",
+          "facilitiesEs": "Teleférico, Almhütte de cima, senderos balizados, pistas de esquí en invierno",
+          "openingHours": "Cable car: summer 09:00-16:30, winter 08:30-16:00",
+          "tip": "Take the first cable car at 09:00 in summer to avoid the 11:00 hiker rush. The 4 km loop trail to Boscheben hut is the easiest dog-friendly outing.",
+          "tipFr": "Prenez le premier téléphérique à 9h en été pour éviter le rush randonneurs de 11h. La boucle de 4 km vers la hutte Boscheben est la sortie dog-friendly la plus facile.",
+          "tipEs": "Coge el primer teleférico a las 9:00 en verano para evitar el rush de senderistas de las 11:00. El circuito de 4 km hasta la cabaña Boscheben es la salida dog-friendly más fácil.",
+          "googleMapsUrl": "https://maps.google.com/?q=Patscherkofelbahn+Innsbruck"
+        }
+      ],
+      "tipsEn": [
+        "Austrian leash law: dogs must be on leash in city parks and during 1 March-31 July (ground-nesting bird season). Off-leash in mountain trails outside that period with proper recall.",
+        "Cable cars (Nordkettenbahnen, Patscherkofelbahn) accept leashed dogs free with a muzzle in the cabin during peak hours (10:00-12:00).",
+        "Pick up dog waste — €100 fine in Innsbruck. Free black bag dispensers in every park."
+      ],
+      "tipsFr": [
+        "Loi autrichienne : chiens en laisse dans les parcs urbains et du 1er mars au 31 juillet (saison nidification). Sans laisse sur sentiers de montagne hors période avec rappel.",
+        "Téléphériques (Nordkettenbahnen, Patscherkofelbahn) acceptent les chiens en laisse gratuitement avec muselière en cabine en heures de pointe (10h-12h).",
+        "Ramassez les déjections — amende 100 € à Innsbruck. Distributeurs de sacs noirs gratuits dans chaque parc."
+      ],
+      "tipsEs": [
+        "Ley austríaca: perros con correa en parques urbanos y del 1 marzo al 31 julio (temporada nidificación). Sin correa en senderos de montaña fuera de ese periodo con buena llamada.",
+        "Teleféricos (Nordkettenbahnen, Patscherkofelbahn) admiten perros con correa gratis con bozal en cabina en horas punta (10:00-12:00).",
+        "Recoge las deposiciones — multa de 100 € en Innsbruck. Dispensadores de bolsas negras gratis en cada parque."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs go off-leash in Innsbruck?",
+          "a": "On mountain trails (Nordkette, Patscherkofel, Mieming) outside the 1 March-31 July leash season, with proper recall. City parks (Hofgarten, Rapoldipark) require leash year-round."
+        },
+        {
+          "q": "Are cable cars dog-friendly?",
+          "a": "Yes — Nordkettenbahnen and Patscherkofelbahn accept leashed dogs with a muzzle in the cabin (free with a child ticket for larger dogs)."
+        },
+        {
+          "q": "What's the leash season in Austria?",
+          "a": "1 March to 31 July — leash mandatory on hiking trails to protect ground-nesting birds (capercaillie, black grouse, ptarmigan). Outside that, off-leash with recall is the norm in Tyrol."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils aller sans laisse à Innsbruck ?",
+          "a": "Sur les sentiers de montagne (Nordkette, Patscherkofel, Mieming) hors saison laisse du 1er mars au 31 juillet, avec rappel. Les parcs urbains (Hofgarten, Rapoldipark) exigent la laisse toute l'année."
+        },
+        {
+          "q": "Les téléphériques sont-ils dog-friendly ?",
+          "a": "Oui — Nordkettenbahnen et Patscherkofelbahn acceptent les chiens en laisse avec muselière en cabine (gratuit avec billet enfant pour les grands chiens)."
+        },
+        {
+          "q": "Quelle est la saison laisse en Autriche ?",
+          "a": "Du 1er mars au 31 juillet — laisse obligatoire sur les sentiers de randonnée pour protéger les oiseaux nicheurs (grand tétras, tétras-lyre, lagopède). Hors période, sans laisse avec rappel est la norme au Tyrol."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden ir los perros sin correa en Innsbruck?",
+          "a": "En senderos de montaña (Nordkette, Patscherkofel, Mieming) fuera de la temporada de correa del 1 marzo al 31 julio, con buena llamada. Los parques urbanos (Hofgarten, Rapoldipark) exigen correa todo el año."
+        },
+        {
+          "q": "¿Los teleféricos son dog-friendly?",
+          "a": "Sí — Nordkettenbahnen y Patscherkofelbahn admiten perros con correa con bozal en cabina (gratis con billete infantil para perros grandes)."
+        },
+        {
+          "q": "¿Cuál es la temporada de correa en Austria?",
+          "a": "Del 1 marzo al 31 julio — correa obligatoria en senderos de senderismo para proteger aves que anidan en el suelo (urogallo, gallo lira, lagópodo). Fuera de ese periodo, sin correa con llamada es la norma en Tirol."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Transport with Dogs in Innsbruck",
+      "titleFr": "Transports avec chien à Innsbruck",
+      "titleEs": "Transporte con perro en Innsbruck",
+      "introEn": "Innsbruck's transport network (IVB trams + buses + Hungerburgbahn funicular) accepts leashed dogs free of charge — even very large dogs. Cable cars (Nordkettenbahnen, Patscherkofelbahn) accept leashed dogs with a muzzle. The ÖBB Railjet train accepts dogs on a half-price ticket.",
+      "introFr": "Le réseau de transport d'Innsbruck (trams IVB + bus + funiculaire Hungerburgbahn) accepte les chiens en laisse gratuitement — même les très grands chiens. Les téléphériques (Nordkettenbahnen, Patscherkofelbahn) acceptent les chiens en laisse avec muselière. Le train ÖBB Railjet accepte les chiens avec un billet demi-tarif.",
+      "introEs": "La red de transporte de Innsbruck (tranvías IVB + buses + funicular Hungerburgbahn) admite perros con correa gratis — incluso los muy grandes. Los teleféricos (Nordkettenbahnen, Patscherkofelbahn) admiten perros con correa con bozal. El tren ÖBB Railjet admite perros con un billete a media tarifa.",
+      "places": [
+        {
+          "name": "IVB Trams & Buses",
+          "address": "Citywide network",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/innsbruck-transport-ivb-trams-buses.jpg",
+          "website": "https://www.ivb.at/",
+          "description": "Innsbruck Verkehrsbetriebe operates 4 tram lines + city buses. Leashed dogs travel free across the entire network — no size limit. Trams and buses are typically uncrowded outside peak hours, ideal for anxious dogs.",
+          "descriptionFr": "Innsbruck Verkehrsbetriebe exploite 4 lignes de tram + bus urbains. Les chiens en laisse voyagent gratuitement sur tout le réseau — pas de limite de taille. Les trams et bus sont typiquement peu chargés hors heures de pointe, idéal pour chiens anxieux.",
+          "descriptionEs": "Innsbruck Verkehrsbetriebe opera 4 líneas de tranvía + buses urbanos. Los perros con correa viajan gratis en toda la red — sin límite de tamaño. Los tranvías y buses suelen ir poco llenos fuera de horas punta, ideal para perros ansiosos.",
+          "petPolicy": "Leashed dogs free, all sizes",
+          "petPolicyFr": "Chiens en laisse gratuits, toutes tailles",
+          "petPolicyEs": "Perros con correa gratis, todos los tamaños",
+          "googleMapsUrl": "https://maps.google.com/?q=Innsbruck+Hauptbahnhof"
+        },
+        {
+          "name": "ÖBB Railjet (Innsbruck Hauptbahnhof)",
+          "address": "Südtiroler Platz 7, 6020 Innsbruck",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/innsbruck-transport-obb-railjet-innsbruck-hauptbahnhof.jpg",
+          "website": "https://www.oebb.at/",
+          "description": "ÖBB Railjet trains connect Innsbruck to Munich (1h45), Vienna (4h30), Salzburg (1h45), Zurich (3h30), and Verona (4h via Brenner). Small dogs in carriers travel free; larger dogs on a half-price Hundeticket plus muzzle and leash required.",
+          "descriptionFr": "Les trains ÖBB Railjet relient Innsbruck à Munich (1h45), Vienne (4h30), Salzbourg (1h45), Zurich (3h30) et Vérone (4h via le Brenner). Petits chiens en cage gratuits ; grands chiens avec Hundeticket demi-tarif plus muselière et laisse obligatoires.",
+          "descriptionEs": "Los trenes ÖBB Railjet conectan Innsbruck con Múnich (1h45), Viena (4h30), Salzburgo (1h45), Zúrich (3h30) y Verona (4h vía el Brénero). Perros pequeños en transportín gratis; grandes con Hundeticket a media tarifa más bozal y correa obligatorios.",
+          "petPolicy": "Small dogs free in carrier; larger dogs half-price + muzzle",
+          "petPolicyFr": "Petits chiens gratuits en cage ; grands chiens demi-tarif + muselière",
+          "petPolicyEs": "Perros pequeños gratis en transportín; grandes a media tarifa + bozal",
+          "googleMapsUrl": "https://maps.google.com/?q=Innsbruck+Hauptbahnhof"
+        }
+      ],
+      "tipsEn": [
+        "Innsbruck Airport (INN) is 4 km from the centre — IVB bus F runs every 15 min to the centre (15 min, dogs free). Direct walking from airport on dog-friendly path is also possible (45 min).",
+        "Cable cars accept dogs free with leash + muzzle in cabin. Hungerburgbahn (city centre to 850 m) every 15 min from Congress station — Innsbruck's signature dog elevator.",
+        "Local taxis (Taxi Innsbruck +43 512 5311) accept dogs at booking — flag the dog when calling, dog-friendly drivers are dispatched."
+      ],
+      "tipsFr": [
+        "L'aéroport d'Innsbruck (INN) est à 4 km du centre — le bus IVB F passe toutes les 15 min vers le centre (15 min, chiens gratuits). La marche directe depuis l'aéroport sur sentier dog-friendly est aussi possible (45 min).",
+        "Les téléphériques acceptent les chiens gratuitement avec laisse + muselière en cabine. Hungerburgbahn (centre-ville à 850 m) toutes les 15 min depuis la station Congress — l'ascenseur canin signature d'Innsbruck.",
+        "Les taxis locaux (Taxi Innsbruck +43 512 5311) acceptent les chiens à la réservation — signalez le chien à l'appel, un conducteur dog-friendly est envoyé."
+      ],
+      "tipsEs": [
+        "El aeropuerto de Innsbruck (INN) está a 4 km del centro — el bus IVB F pasa cada 15 min al centro (15 min, perros gratis). El paseo directo desde el aeropuerto por sendero dog-friendly también es posible (45 min).",
+        "Los teleféricos admiten perros gratis con correa + bozal en cabina. Hungerburgbahn (centro a 850 m) cada 15 min desde la estación Congress — el ascensor canino signature de Innsbruck.",
+        "Los taxis locales (Taxi Innsbruck +43 512 5311) admiten perros al reservar — indica el perro al llamar, se envía un conductor dog-friendly."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs free on Innsbruck public transport?",
+          "a": "Yes — leashed dogs travel free on IVB trams, buses, and the Hungerburgbahn funicular. No size limit."
+        },
+        {
+          "q": "Can I take my dog on a cable car to the Nordkette?",
+          "a": "Yes — leashed dogs free with a muzzle in the cabin. Hungerburgbahn (city to Hungerburg) + 2 cable cars to Hafelekar (2,256 m), 25 min from city centre."
+        },
+        {
+          "q": "Can my dog ride ÖBB trains?",
+          "a": "Yes — small dogs in carriers free, larger dogs with a half-price Hundeticket plus muzzle and leash. Dedicated dog-friendly cars on Railjet international trains."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils gratuits dans les transports d'Innsbruck ?",
+          "a": "Oui — les chiens en laisse voyagent gratuitement dans les trams IVB, bus et funiculaire Hungerburgbahn. Pas de limite de taille."
+        },
+        {
+          "q": "Puis-je emmener mon chien en téléphérique au Nordkette ?",
+          "a": "Oui — chiens en laisse gratuits avec muselière en cabine. Hungerburgbahn (centre-Hungerburg) + 2 téléphériques jusqu'au Hafelekar (2 256 m), 25 min du centre."
+        },
+        {
+          "q": "Mon chien peut-il prendre un train ÖBB ?",
+          "a": "Oui — petits chiens en cage gratuits, grands chiens avec Hundeticket demi-tarif plus muselière et laisse. Wagons dog-friendly dédiés sur les trains internationaux Railjet."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Los perros viajan gratis en transporte público en Innsbruck?",
+          "a": "Sí — los perros con correa viajan gratis en tranvías IVB, buses y funicular Hungerburgbahn. Sin límite de tamaño."
+        },
+        {
+          "q": "¿Puedo llevar mi perro en teleférico al Nordkette?",
+          "a": "Sí — perros con correa gratis con bozal en cabina. Hungerburgbahn (centro-Hungerburg) + 2 teleféricos hasta Hafelekar (2.256 m), 25 min del centro."
+        },
+        {
+          "q": "¿Puede mi perro viajar en trenes ÖBB?",
+          "a": "Sí — perros pequeños en transportín gratis, grandes con Hundeticket a media tarifa más bozal y correa. Vagones dog-friendly dedicados en los trenes internacionales Railjet."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Lakes & Swim Spots near Innsbruck",
+      "titleFr": "Lacs et points de baignade près d'Innsbruck",
+      "titleEs": "Lagos y zonas de baño cerca de Innsbruck",
+      "introEn": "Content coming soon. Innsbruck is inland in the Tyrolean Alps — no sea, but the surrounding region has Alpine lakes (Achensee 30 km, Lake Zell 80 km, Plansee 60 km) and the Inn river runs through the city. Most Tyrolean lakes accept leashed dogs year-round, with off-leash swim spots outside the marked summer bathing zones (15 May–30 September).",
+      "introFr": "Contenu à venir. Innsbruck est à l'intérieur des Alpes tyroliennes — pas de mer, mais la région environnante a des lacs alpins (Achensee à 30 km, lac de Zell à 80 km, Plansee à 60 km) et la rivière Inn traverse la ville. La plupart des lacs tyroliens acceptent les chiens en laisse toute l'année, avec zones de baignade sans laisse hors zones balisées estivales (15 mai-30 septembre).",
+      "introEs": "Contenido próximamente. Innsbruck está tierra adentro en los Alpes tiroleses — sin mar, pero la región circundante tiene lagos alpinos (Achensee a 30 km, Lago de Zell a 80 km, Plansee a 60 km) y el río Inn atraviesa la ciudad. La mayoría de los lagos tiroleses admiten perros con correa todo el año, con zonas de baño sin correa fuera de las zonas balizadas estivales (15 mayo-30 septiembre).",
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "faqsEn": [],
+      "faqsFr": [],
+      "faqsEs": []
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Innsbruck",
+      "titleFr": "Vétérinaires d'urgence à Innsbruck",
+      "titleEs": "Veterinarios de urgencias en Innsbruck",
+      "introEn": "Innsbruck has the Tierärztlicher Notdienst (rotating on-call service) and the AniCura Innsbruck Tierklinik. Standard daytime practices are abundant; out-of-hours is centralised at the Notdienst rotation, contactable by a single phone number.",
+      "introFr": "Innsbruck dispose du Tierärztlicher Notdienst (service de garde rotatif) et de l'AniCura Innsbruck Tierklinik. Les cabinets de jour standard sont abondants ; les urgences hors horaires sont centralisées sur la rotation Notdienst, contactable par un numéro unique.",
+      "introEs": "Innsbruck cuenta con el Tierärztlicher Notdienst (servicio de guardia rotativo) y la AniCura Innsbruck Tierklinik. Las consultas de día estándar son abundantes; las urgencias fuera de horario están centralizadas en la rotación Notdienst, contactable por un único número de teléfono.",
+      "places": [
+        {
+          "name": "AniCura Innsbruck Tierklinik",
+          "address": "Innstrasse 28, 6020 Innsbruck",
+          "neighborhood": "Mariahilf",
+          "phone": "+43 512 23 23 32",
+          "photo": "/images/city-places/innsbruck-vets-anicura-innsbruck-tierklinik.jpg",
+          "website": "https://www.anicura.at/tierklinik/innsbruck/",
+          "description": "Innsbruck's flagship 24/7 emergency veterinary hospital, central Mariahilf. Full diagnostic suite (CT, ultrasound, X-ray), surgery theatre, intensive care, oncology and dermatology specialists.",
+          "descriptionFr": "Hôpital vétérinaire d'urgence 24h/24 phare d'Innsbruck, central à Mariahilf. Plateau diagnostic complet (scanner, échographie, radiographie), bloc opératoire, soins intensifs, oncologie et dermatologie spécialisées.",
+          "descriptionEs": "Hospital veterinario de urgencias 24/7 estrella de Innsbruck, céntrico en Mariahilf. Diagnóstico completo (TAC, ecografía, RX), quirófano, cuidados intensivos, oncología y dermatología especializadas.",
+          "petPolicy": "24/7 emergency walk-ins accepted",
+          "petPolicyFr": "Urgences 24h/24 sans rendez-vous",
+          "petPolicyEs": "Urgencias 24/7 con visita sin cita",
+          "services": "Emergency, surgery, imaging, oncology, dermatology",
+          "servicesFr": "Urgences, chirurgie, imagerie, oncologie, dermatologie",
+          "servicesEs": "Urgencias, cirugía, imagen, oncología, dermatología",
+          "openingHours": "24/7",
+          "tip": "Always call first (+43 512 23 23 32) — the triage will save you time. Free parking on site.",
+          "tipFr": "Appelez toujours avant (+43 512 23 23 32) — le triage vous fait gagner du temps. Parking gratuit.",
+          "tipEs": "Llama siempre antes (+43 512 23 23 32) — el triaje te ahorra tiempo. Aparcamiento gratis.",
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Innsbruck+Tierklinik"
+        },
+        {
+          "name": "Tierärztlicher Notdienst Tirol",
+          "address": "Rotating veterinary on-call",
+          "neighborhood": "Tirol-wide",
+          "phone": "+43 512 56 79 87",
+          "photo": "/images/city-places/innsbruck-vets-notdienst.jpg",
+          "website": "https://www.tieraerzte-tirol.at/notdienst/",
+          "description": "The Tirol veterinary association's official rotating on-call service for nights, weekends and holidays. Single phone number connects you to the on-call vet, who directs you to the correct location.",
+          "descriptionFr": "Le service de garde rotatif officiel de l'association vétérinaire du Tyrol pour nuits, week-ends et jours fériés. Un numéro unique vous met en relation avec le vétérinaire de garde, qui vous oriente vers le bon emplacement.",
+          "descriptionEs": "El servicio de guardia rotativo oficial de la asociación veterinaria del Tirol para noches, fines de semana y festivos. Un único número te conecta con el veterinario de guardia, que te dirige a la ubicación correcta.",
+          "petPolicy": "By phone — the vet directs you to a clinic",
+          "petPolicyFr": "Par téléphone — le vétérinaire vous oriente vers une clinique",
+          "petPolicyEs": "Por teléfono — el veterinario te dirige a una clínica",
+          "services": "Phone triage + emergency on-call",
+          "servicesFr": "Triage téléphonique + garde d'urgence",
+          "servicesEs": "Triaje telefónico + guardia de urgencias",
+          "openingHours": "24/7 (out-of-hours rotation)",
+          "tip": "Save the number (+43 512 56 79 87) before arrival — works in all Tirol, including villages where AniCura has no branch.",
+          "tipFr": "Enregistrez le numéro (+43 512 56 79 87) avant d'arriver — fonctionne dans tout le Tyrol, y compris les villages où AniCura n'a pas de branche.",
+          "tipEs": "Guarda el número (+43 512 56 79 87) antes de llegar — funciona en todo el Tirol, incluidos los pueblos donde AniCura no tiene sucursal.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tieraerzte+Tirol"
+        }
+      ],
+      "tipsEn": [
+        "Save AniCura Innsbruck (+43 512 23 23 32) and Tierärztlicher Notdienst Tirol (+43 512 56 79 87) before arriving — Austria has no national pet emergency hotline.",
+        "Austrian vet fees are similar to Germany: out-of-hours base consultation €100-180, plus diagnostics. EU pet insurance accepted.",
+        "Animal poison control runs through the VIZ (Vergiftungsinformationszentrale, +43 1 406 43 43), which advises on pet poisoning emergencies 24/7."
+      ],
+      "tipsFr": [
+        "Enregistrez AniCura Innsbruck (+43 512 23 23 32) et Tierärztlicher Notdienst Tirol (+43 512 56 79 87) avant d'arriver — l'Autriche n'a pas de hotline nationale.",
+        "Les tarifs vétérinaires autrichiens sont similaires à l'Allemagne : consultation hors horaires de base 100-180 €, hors examens. Assurance européenne acceptée.",
+        "Le centre antipoison animal passe par le VIZ (Vergiftungsinformationszentrale, +43 1 406 43 43), qui conseille sur les urgences empoisonnement 24h/24."
+      ],
+      "tipsEs": [
+        "Guarda AniCura Innsbruck (+43 512 23 23 32) y Tierärztlicher Notdienst Tirol (+43 512 56 79 87) antes de llegar — Austria no tiene línea nacional.",
+        "Las tarifas veterinarias austríacas son similares a las alemanas: consulta fuera de horario base 100-180 €, sin pruebas. Seguro europeo aceptado.",
+        "El centro de toxicología animal pasa por el VIZ (Vergiftungsinformationszentrale, +43 1 406 43 43), que asesora sobre urgencias de envenenamiento las 24 horas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Which Innsbruck vet is open 24/7?",
+          "a": "AniCura Innsbruck Tierklinik (+43 512 23 23 32) is the only dedicated 24/7 hospital. The Tierärztlicher Notdienst Tirol (+43 512 56 79 87) handles out-of-hours rotation across the entire Tirol region."
+        },
+        {
+          "q": "How much does an emergency vet visit cost in Innsbruck?",
+          "a": "Out-of-hours base consultation €100-180, plus diagnostics. Standard daytime practice consultation €40-60. EU pet insurance accepted."
+        },
+        {
+          "q": "Are vets in Innsbruck English-speaking?",
+          "a": "Yes — most Tirolean vets speak fluent English given the international tourism flow. AniCura clinics have explicit international policies."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quel vétérinaire est ouvert 24h/24 à Innsbruck ?",
+          "a": "L'AniCura Innsbruck Tierklinik (+43 512 23 23 32) est le seul hôpital dédié 24h/24. Le Tierärztlicher Notdienst Tirol (+43 512 56 79 87) gère la rotation hors horaires sur tout le Tyrol."
+        },
+        {
+          "q": "Combien coûte une urgence vétérinaire à Innsbruck ?",
+          "a": "Consultation hors horaires de base 100-180 €, hors examens. Consultation cabinet jour standard 40-60 €. Assurance européenne acceptée."
+        },
+        {
+          "q": "Les vétérinaires d'Innsbruck parlent-ils anglais ?",
+          "a": "Oui — la plupart des vétérinaires tyroliens parlent un anglais courant grâce au flux touristique international. Les cliniques AniCura ont des politiques internationales explicites."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué veterinario abre 24/7 en Innsbruck?",
+          "a": "AniCura Innsbruck Tierklinik (+43 512 23 23 32) es el único hospital dedicado 24/7. El Tierärztlicher Notdienst Tirol (+43 512 56 79 87) gestiona la rotación fuera de horario en todo el Tirol."
+        },
+        {
+          "q": "¿Cuánto cuesta una urgencia veterinaria en Innsbruck?",
+          "a": "Consulta fuera de horario base 100-180 €, sin pruebas. Consulta de día en gabinete estándar 40-60 €. Seguro europeo aceptado."
+        },
+        {
+          "q": "¿Hablan inglés los veterinarios de Innsbruck?",
+          "a": "Sí — la mayoría de los veterinarios tiroleses hablan inglés fluido gracias al flujo turístico internacional. Las clínicas AniCura tienen políticas internacionales explícitas."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Pet Travel Tips for Innsbruck",
+      "titleFr": "Conseils essentiels pour voyager avec son animal à Innsbruck",
+      "titleEs": "Consejos esenciales para viajar con mascota a Innsbruck",
+      "introEn": "Innsbruck is one of the most pet-tolerant Alpine cities — free public transport, dog-friendly cable cars to 2,300 m, café and Gasthaus tradition that welcomes leashed dogs. Austrian leash law during nesting season (1 March-31 July) and the standard EU pet passport apply.",
+      "introFr": "Innsbruck est l'une des villes alpines les plus tolérantes envers les animaux — transports publics gratuits, téléphériques dog-friendly jusqu'à 2 300 m, tradition café et Gasthaus qui accueille les chiens en laisse. La loi autrichienne sur la laisse pendant la nidification (1er mars-31 juillet) et le passeport européen standard s'appliquent.",
+      "introEs": "Innsbruck es una de las ciudades alpinas más tolerantes con mascotas — transporte público gratis, teleféricos dog-friendly hasta 2.300 m, tradición de café y Gasthaus que admite perros con correa. Se aplica la ley austríaca de correa durante la nidificación (1 marzo-31 julio) y el pasaporte europeo estándar.",
+      "places": [],
+      "tipsEn": [
+        "Austrian EU pet passport — same vaccination + microchip rules as the rest of the EU. No tapeworm treatment required (only UK/Ireland/Finland/Norway/Malta).",
+        "Austrian leash season: 1 March to 31 July dogs must be on leash on hiking trails (ground-nesting bird protection). Outside that, off-leash with recall is the Tyrolean norm.",
+        "Innsbruck weather is highly variable — pack a dog jacket year-round for evening Alpine cool. Most cafés keep towels at the door for wet dogs.",
+        "Banned breeds in Austria: 13 'category 1' listed breeds (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) require muzzle in public + special permit for residents. Visitors with these breeds should call ahead to hotels.",
+        "Innsbruck Airport (INN) has a pet relief area outside the terminal. IVB bus F to centre runs every 15 min, dogs free."
+      ],
+      "tipsFr": [
+        "Passeport européen autrichien — mêmes règles vaccin + puce que le reste de l'UE. Pas de traitement échinococcose requis (seulement UK/Irlande/Finlande/Norvège/Malte).",
+        "Saison laisse autrichienne : du 1er mars au 31 juillet les chiens doivent être en laisse sur les sentiers (protection des oiseaux nicheurs). Hors période, sans laisse avec rappel est la norme tyrolienne.",
+        "Le temps d'Innsbruck est très variable — emportez une veste pour chien toute l'année pour le frais alpin du soir. La plupart des cafés gardent des serviettes à la porte pour chiens mouillés.",
+        "Races interdites en Autriche : 13 races « catégorie 1 » (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) exigent muselière en public + permis spécial pour les résidents. Les visiteurs avec ces races devraient appeler les hôtels avant.",
+        "L'aéroport d'Innsbruck (INN) a une aire de détente animale à l'extérieur du terminal. Le bus IVB F vers le centre passe toutes les 15 min, chiens gratuits."
+      ],
+      "tipsEs": [
+        "Pasaporte europeo austríaco — mismas reglas de vacuna + microchip que el resto de la UE. No se requiere tratamiento contra equinococosis (solo UK/Irlanda/Finlandia/Noruega/Malta).",
+        "Temporada de correa austríaca: del 1 marzo al 31 julio los perros deben ir con correa en senderos (protección de aves que anidan). Fuera de ese periodo, sin correa con llamada es la norma tirolesa.",
+        "El tiempo de Innsbruck es muy variable — lleva chaqueta para perro todo el año para el fresco alpino de la tarde. La mayoría de los cafés guarda toallas en la puerta para perros mojados.",
+        "Razas prohibidas en Austria: 13 razas « categoría 1 » (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) requieren bozal en público + permiso especial para residentes. Los visitantes con estas razas deberían llamar a los hoteles antes.",
+        "El aeropuerto de Innsbruck (INN) tiene un área de descanso animal fuera de la terminal. El bus IVB F al centro pasa cada 15 min, perros gratis."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Innsbruck a good city to visit with a dog?",
+          "a": "Yes — among the top Alpine pet-friendly cities. Free public transport, dog-friendly cable cars to 2,300 m, café and Gasthaus culture, 24/7 emergency vet, and surrounding Tirol mountain hiking. Ideal for active dogs."
+        },
+        {
+          "q": "Do I need special documentation for Austria?",
+          "a": "EU pet passport with valid rabies vaccination. No tapeworm treatment required (unlike UK/Ireland). Microchip ISO 11784/11785 mandatory."
+        },
+        {
+          "q": "Are there breed restrictions in Austria?",
+          "a": "Yes — 13 'category 1' breeds (Pit Bull, Bullterrier, Tosa, Rottweiler, Am. Staff, etc.) require muzzle in public and special permit for residents. Visitors with these breeds should email hotels before booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Innsbruck est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui — parmi les meilleures villes alpines dog-friendly. Transports publics gratuits, téléphériques dog-friendly jusqu'à 2 300 m, culture café et Gasthaus, urgences vétérinaires 24h/24 et randonnées dans tout le Tyrol. Idéal pour chiens actifs."
+        },
+        {
+          "q": "Ai-je besoin de documentation spécifique pour l'Autriche ?",
+          "a": "Passeport européen avec vaccin antirabique valide. Pas de traitement échinococcose requis (contrairement à UK/Irlande). Puce ISO 11784/11785 obligatoire."
+        },
+        {
+          "q": "Y a-t-il des restrictions de race en Autriche ?",
+          "a": "Oui — 13 races « catégorie 1 » (Pit Bull, Bullterrier, Tosa, Rottweiler, Am. Staff, etc.) exigent muselière en public et permis spécial pour les résidents. Les visiteurs avec ces races devraient envoyer un email aux hôtels avant la réservation."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Innsbruck una buena ciudad para visitar con perro?",
+          "a": "Sí — entre las mejores ciudades alpinas dog-friendly. Transporte público gratis, teleféricos dog-friendly hasta 2.300 m, cultura del café y Gasthaus, urgencias veterinarias 24/7 y senderismo en todo el Tirol. Ideal para perros activos."
+        },
+        {
+          "q": "¿Necesito documentación específica para Austria?",
+          "a": "Pasaporte europeo con vacuna antirrábica vigente. No se requiere tratamiento contra equinococosis (a diferencia de UK/Irlanda). Microchip ISO 11784/11785 obligatorio."
+        },
+        {
+          "q": "¿Hay restricciones de raza en Austria?",
+          "a": "Sí — 13 razas « categoría 1 » (Pit Bull, Bullterrier, Tosa, Rottweiler, Am. Staff, etc.) requieren bozal en público y permiso especial para residentes. Los visitantes con estas razas deberían enviar un email a los hoteles antes de reservar."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Innsbruck",
+      "titleFr": "Attractions dog-friendly à Innsbruck",
+      "titleEs": "Atracciones dog-friendly en Innsbruck",
+      "introEn": "Innsbruck's signature attractions — the Goldenes Dachl, the Altstadt cobbled streets, the Hofburg Imperial Palace gardens, and the Bergisel ski jump — all welcome leashed dogs outdoors. Most museums (Tirol Folk Art, Ferdinandeum) prohibit pets indoors, but the cable cars and mountain attractions are dog-friendly.",
+      "introFr": "Les attractions emblématiques d'Innsbruck — le Goldenes Dachl, les ruelles pavées de l'Altstadt, les jardins du palais impérial Hofburg et le tremplin de saut à ski Bergisel — accueillent toutes les chiens en laisse en extérieur. La plupart des musées (Tirol Folk Art, Ferdinandeum) interdisent les animaux en intérieur, mais les téléphériques et attractions de montagne sont dog-friendly.",
+      "introEs": "Las atracciones emblemáticas de Innsbruck — el Goldenes Dachl, las calles empedradas del Altstadt, los jardines del palacio imperial Hofburg y el trampolín de saltos de esquí Bergisel — admiten todas perros con correa al aire libre. La mayoría de los museos (Tirol Folk Art, Ferdinandeum) prohíben mascotas en interior, pero los teleféricos y atracciones de montaña son dog-friendly.",
+      "places": [
+        {
+          "name": "Goldenes Dachl + Altstadt",
+          "address": "Herzog-Friedrich-Strasse 15, 6020 Innsbruck",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/innsbruck-attractions-goldenes-dachl-altstadt.jpg",
+          "website": "https://www.innsbruck.info/",
+          "description": "Innsbruck's iconic landmark — a 1500 oriel with 2,657 fire-gilded copper tiles, in the heart of the cobbled Altstadt. The square and surrounding alleys (Hofgasse, Pfarrgasse) are leashed-dog accessible. The Goldenes Dachl Museum interior does not admit pets.",
+          "descriptionFr": "Symbole d'Innsbruck — oriel de 1500 avec 2 657 tuiles de cuivre dorées au feu, au cœur du Altstadt pavé. La place et les ruelles environnantes (Hofgasse, Pfarrgasse) sont accessibles aux chiens en laisse. L'intérieur du musée du Goldenes Dachl n'admet pas les animaux.",
+          "descriptionEs": "Símbolo de Innsbruck — un mirador de 1500 con 2.657 tejas de cobre doradas al fuego, en el corazón del Altstadt empedrado. La plaza y los callejones circundantes (Hofgasse, Pfarrgasse) son accesibles a perros con correa. El interior del museo del Goldenes Dachl no admite animales.",
+          "petPolicy": "Outdoors leashed dog-friendly",
+          "petPolicyFr": "Extérieur dog-friendly en laisse",
+          "petPolicyEs": "Exterior dog-friendly con correa",
+          "openingHours": "24/7 (museum 10:00-17:00)",
+          "tip": "Walk the cobbled Altstadt at golden hour (1h before sunset) — the buildings glow and the dog gets a calm, photo-perfect outing without crowds.",
+          "tipFr": "Parcourez le Altstadt pavé à l'heure dorée (1h avant le coucher du soleil) — les bâtiments brillent et le chien a une sortie calme et parfaite pour photos sans foule.",
+          "tipEs": "Recorre el Altstadt empedrado en la hora dorada (1h antes del atardecer) — los edificios brillan y el perro tiene una salida tranquila y perfecta para fotos sin multitudes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Goldenes+Dachl+Innsbruck"
+        },
+        {
+          "name": "Bergisel Ski Jump",
+          "address": "Bergiselweg 3, 6020 Innsbruck",
+          "neighborhood": "Bergisel (south)",
+          "photo": "/images/city-places/innsbruck-attractions-bergisel-ski-jump.jpg",
+          "website": "https://www.bergisel.info/",
+          "description": "The Zaha-Hadid-designed 1964 Olympic ski jump (rebuilt 2002), now a tourist attraction with panoramic city views. Outdoor area and the platform at the top accept leashed dogs (free entry to the platform). The ski-jump museum interior does not admit pets.",
+          "descriptionFr": "Le tremplin olympique de 1964 (reconstruit 2002 par Zaha Hadid), maintenant attraction touristique avec vues panoramiques. Zone extérieure et plateforme du sommet acceptent les chiens en laisse (entrée gratuite à la plateforme). L'intérieur du musée du tremplin n'admet pas les animaux.",
+          "descriptionEs": "El trampolín olímpico de 1964 (reconstruido 2002 por Zaha Hadid), ahora atracción turística con vistas panorámicas. Zona exterior y plataforma de la cima admiten perros con correa (entrada gratuita a la plataforma). El interior del museo del trampolín no admite animales.",
+          "petPolicy": "Outdoor platform dog-friendly; museum off-limits",
+          "petPolicyFr": "Plateforme extérieure dog-friendly ; musée interdit",
+          "petPolicyEs": "Plataforma exterior dog-friendly; museo vetado",
+          "openingHours": "Daily 09:00-17:00",
+          "tip": "Combine with a Patscherkofel cable car day — the ski jump is on the way south and the panoramic platform views are best at sunset.",
+          "tipFr": "Combinez avec une journée téléphérique Patscherkofel — le tremplin est sur la route sud et les vues panoramiques sont meilleures au coucher du soleil.",
+          "tipEs": "Combínalo con un día de teleférico Patscherkofel — el trampolín está de camino al sur y las vistas panorámicas son mejores al atardecer.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bergisel+Innsbruck"
+        },
+        {
+          "name": "Hofburg Imperial Palace Gardens",
+          "address": "Rennweg 1, 6020 Innsbruck",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/innsbruck-attractions-hofburg-imperial-palace-gardens.jpg",
+          "website": "https://www.hofburg-innsbruck.at/",
+          "description": "The Habsburg Imperial Palace gardens, 4 hectares of formal landscaping in the centre, free entry. The palace itself does not admit pets, but the gardens and surrounding Hofgarten park accept leashed dogs year-round.",
+          "descriptionFr": "Jardins du palais impérial Habsbourg, 4 hectares de jardins paysagés en plein centre, entrée libre. Le palais lui-même n'admet pas les animaux, mais les jardins et le parc Hofgarten environnant acceptent les chiens en laisse toute l'année.",
+          "descriptionEs": "Jardines del palacio imperial Habsburgo, 4 hectáreas de jardín paisajístico en pleno centro, entrada libre. El palacio en sí no admite animales, pero los jardines y el parque Hofgarten circundante admiten perros con correa todo el año.",
+          "petPolicy": "Gardens leashed dog-friendly; palace off-limits",
+          "petPolicyFr": "Jardins dog-friendly en laisse ; palais interdit",
+          "petPolicyEs": "Jardines dog-friendly con correa; palacio vetado",
+          "openingHours": "24/7 (gardens)",
+          "tip": "The southern gate connects directly to the Hofgarten park — combine for a 1h dog-friendly walk in the historic centre.",
+          "tipFr": "La porte sud connecte directement au parc Hofgarten — combinez pour une promenade dog-friendly d'1h dans le centre historique.",
+          "tipEs": "La puerta sur conecta directamente con el parque Hofgarten — combínalo para un paseo dog-friendly de 1h en el centro histórico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hofburg+Innsbruck"
+        }
+      ],
+      "tipsEn": [
+        "Tirol Panorama Museum, Ferdinandeum, and the Goldenes Dachl Museum prohibit pets indoors. Plan to leave the dog at the hotel for those.",
+        "Innsbruck Card (€44 for 24h) covers cable cars + public transport — dog rides included free on transport, separate dog ticket required for some cable cars.",
+        "Christmas markets (Maria-Theresien-Strasse, late November-31 December) are dog-tolerant — wide pedestrian streets, mulled-wine stalls accept leashed dogs."
+      ],
+      "tipsFr": [
+        "Le Tirol Panorama Museum, le Ferdinandeum et le musée du Goldenes Dachl interdisent les animaux en intérieur. Prévoyez de laisser le chien à l'hôtel.",
+        "L'Innsbruck Card (44 € pour 24h) couvre téléphériques + transports publics — chiens gratuits dans les transports inclus, billet chien séparé pour certains téléphériques.",
+        "Marchés de Noël (Maria-Theresien-Strasse, fin novembre-31 décembre) sont dog-tolérants — larges rues piétonnes, stands de vin chaud acceptent les chiens en laisse."
+      ],
+      "tipsEs": [
+        "El Tirol Panorama Museum, el Ferdinandeum y el museo del Goldenes Dachl prohíben animales en interior. Planea dejar al perro en el hotel.",
+        "La Innsbruck Card (44 € por 24h) cubre teleféricos + transporte público — perros gratis en transporte incluidos, billete canino separado para algunos teleféricos.",
+        "Los mercados navideños (Maria-Theresien-Strasse, finales noviembre-31 diciembre) son dog-tolerant — amplias calles peatonales, puestos de vino caliente admiten perros con correa."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the Goldenes Dachl?",
+          "a": "Yes — the outdoor square and the surrounding Altstadt are leashed-dog-friendly. The Goldenes Dachl Museum interior does not admit pets."
+        },
+        {
+          "q": "Are dogs allowed at the Bergisel Ski Jump?",
+          "a": "Yes — the outdoor area and the upper platform are dog-friendly on leash (free entry to platform). The ski-jump museum interior is off-limits."
+        },
+        {
+          "q": "Can I take my dog up the Nordkette by cable car?",
+          "a": "Yes — Hungerburgbahn + 2 cable cars to Hafelekar (2,256 m), 25 min from city centre. Leashed dogs free with a muzzle in the cabin."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au Goldenes Dachl ?",
+          "a": "Oui — la place extérieure et le Altstadt environnant sont dog-friendly en laisse. L'intérieur du musée du Goldenes Dachl n'admet pas les animaux."
+        },
+        {
+          "q": "Les chiens sont-ils admis au tremplin de Bergisel ?",
+          "a": "Oui — la zone extérieure et la plateforme supérieure sont dog-friendly en laisse (entrée gratuite plateforme). L'intérieur du musée du tremplin est interdit."
+        },
+        {
+          "q": "Puis-je monter mon chien au Nordkette en téléphérique ?",
+          "a": "Oui — Hungerburgbahn + 2 téléphériques jusqu'au Hafelekar (2 256 m), 25 min du centre. Chiens en laisse gratuits avec muselière en cabine."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro al Goldenes Dachl?",
+          "a": "Sí — la plaza exterior y el Altstadt circundante son dog-friendly con correa. El interior del museo del Goldenes Dachl no admite animales."
+        },
+        {
+          "q": "¿Se admiten perros en el trampolín de Bergisel?",
+          "a": "Sí — la zona exterior y la plataforma superior son dog-friendly con correa (entrada gratuita a plataforma). El interior del museo del trampolín está vetado."
+        },
+        {
+          "q": "¿Puedo subir mi perro al Nordkette en teleférico?",
+          "a": "Sí — Hungerburgbahn + 2 teleféricos hasta Hafelekar (2.256 m), 25 min del centro. Perros con correa gratis con bozal en cabina."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Innsbruck",
+      "titleFr": "Pet sitting et promenade de chiens à Innsbruck",
+      "titleEs": "Cuidadores y paseadores de perros en Innsbruck",
+      "introEn": "Innsbruck's pet-care market is dominated by Pawshake and the Austrian platform Hundeauslauf.at. Day-cares cluster in Wilten and Höttinger Au. Rates are similar to Vienna but slightly cheaper.",
+      "introFr": "Le marché du pet-care à Innsbruck est dominé par Pawshake et la plateforme autrichienne Hundeauslauf.at. Les garderies se concentrent à Wilten et Höttinger Au. Tarifs similaires à Vienne mais légèrement moins chers.",
+      "introEs": "El mercado de pet-care en Innsbruck está dominado por Pawshake y la plataforma austríaca Hundeauslauf.at. Las guarderías se concentran en Wilten y Höttinger Au. Tarifas similares a Viena pero ligeramente más baratas.",
+      "places": [
+        {
+          "name": "Pawshake Innsbruck",
+          "address": "Citywide — online booking",
+          "neighborhood": "Entire city",
+          "website": "https://www.pawshake.at/dog-sitter/innsbruck",
+          "description": "European pet-sitting marketplace with verified Innsbruck sitters for walks, day care and home boarding. All bookings include insurance and daily photo updates. Average rates: €20-30/day boarding, €12-18/walk.",
+          "descriptionFr": "Plateforme européenne de pet-sitting avec sitters vérifiés à Innsbruck pour promenades, garderie et pension à domicile. Toutes les réservations incluent assurance et photos quotidiennes. Tarifs moyens : 20-30 €/jour pension, 12-18 €/promenade.",
+          "descriptionEs": "Plataforma europea de pet-sitting con cuidadores verificados en Innsbruck para paseos, guardería y alojamiento a domicilio. Todas las reservas incluyen seguro y fotos diarias. Tarifas medias: 20-30 €/día alojamiento, 12-18 €/paseo.",
+          "petPolicy": "Verified sitters, insurance included",
+          "petPolicyFr": "Sitters vérifiés, assurance incluse",
+          "petPolicyEs": "Cuidadores verificados, seguro incluido",
+          "services": "Dog walking, day care, home boarding",
+          "servicesFr": "Promenade, garderie, pension",
+          "servicesEs": "Paseo, guardería, alojamiento",
+          "openingHours": "Online 24/7",
+          "tip": "Innsbruck sitters in Wilten tend to be cheaper and more flexible than those in the central Altstadt. Filter by German or English speaker."
+        }
+      ],
+      "tipsEn": [
+        "Book Innsbruck sitters at least 1 week ahead during the ski season (December-March) and the Erleuchtung Festival (June).",
+        "Hundeauslauf.at is the local Austrian platform — verified sitters with insurance, slightly cheaper than Pawshake.",
+        "Most Innsbruck pet-friendly hotels do NOT permit unattended dogs. Use a Pawshake sitter for the few hours of mountain hikes (some Almhütten don't admit dogs)."
+      ],
+      "tipsFr": [
+        "Réservez les sitters d'Innsbruck au moins 1 semaine à l'avance pendant la saison de ski (décembre-mars) et le festival Erleuchtung (juin).",
+        "Hundeauslauf.at est la plateforme autrichienne locale — sitters vérifiés avec assurance, légèrement moins chers que Pawshake.",
+        "La plupart des hôtels pet-friendly d'Innsbruck N'AUTORISENT PAS les chiens seuls. Utilisez un sitter Pawshake pour les quelques heures de rando montagne (certaines Almhütten n'admettent pas les chiens)."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores en Innsbruck con al menos 1 semana de antelación durante la temporada de esquí (diciembre-marzo) y el festival Erleuchtung (junio).",
+        "Hundeauslauf.at es la plataforma austríaca local — cuidadores verificados con seguro, ligeramente más baratos que Pawshake.",
+        "La mayoría de los hoteles pet-friendly de Innsbruck NO permite perros sin vigilancia. Usa un cuidador Pawshake para las pocas horas de senderismo de montaña (algunas Almhütten no admiten perros)."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does pet sitting cost in Innsbruck?",
+          "a": "Typical Pawshake rates: €20-30/day boarding, €12-18 for a 1h walk. Slightly higher in winter ski season."
+        },
+        {
+          "q": "Are Innsbruck sitters insured?",
+          "a": "Pawshake includes liability + vet emergency cover. Hundeauslauf.at requires sitter insurance verification before booking."
+        },
+        {
+          "q": "Can I find an English-speaking sitter in Innsbruck?",
+          "a": "Yes — given the ski-tourism flow, virtually every Innsbruck sitter speaks fluent English. Most Pawshake profiles indicate languages."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte le pet sitting à Innsbruck ?",
+          "a": "Tarifs Pawshake typiques : 20-30 €/jour pension, 12-18 € pour 1h de promenade. Légèrement plus chers en saison ski hivernale."
+        },
+        {
+          "q": "Les sitters d'Innsbruck sont-ils assurés ?",
+          "a": "Pawshake inclut responsabilité civile + couverture vétérinaire d'urgence. Hundeauslauf.at exige une vérification d'assurance avant la réservation."
+        },
+        {
+          "q": "Puis-je trouver un sitter anglophone à Innsbruck ?",
+          "a": "Oui — grâce au flux ski-touristique, pratiquement tous les sitters d'Innsbruck parlent un anglais courant. La plupart des profils Pawshake indiquent les langues."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta el pet sitting en Innsbruck?",
+          "a": "Tarifas Pawshake típicas: 20-30 €/día alojamiento, 12-18 € por 1h de paseo. Ligeramente más caras en temporada de esquí invernal."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores en Innsbruck?",
+          "a": "Pawshake incluye responsabilidad civil + cobertura veterinaria de urgencias. Hundeauslauf.at exige verificación del seguro antes de reservar."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador anglófono en Innsbruck?",
+          "a": "Sí — gracias al flujo turístico del esquí, prácticamente todos los cuidadores de Innsbruck hablan inglés fluido. La mayoría de los perfiles Pawshake indican idiomas."
+        }
+      ]
+    }
+  }
+}

@@ -101,6 +101,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'top-dog-friendly-cities-europe',
     'pet-friendly-hotels-europe-guide',
     'eurostar-with-dog',
+    'animal-health-certificate-vs-pet-passport-2026',
   ]
   for (const locale of LOCALES) {
     entries.push({

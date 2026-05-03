@@ -1,5 +1,125 @@
 [
   {
+    "id": "aarhus-1",
+    "name": "Comwell Aarhus",
+    "destinationSlug": "aarhus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/dk/comwell-aarhus.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. Comwell chain pet-friendly. Bowls and beds provided.",
+    "highlights": [
+      "Comwell chain pet-friendly",
+      "Bowls and beds included",
+      "Spa and indoor pool"
+    ],
+    "slug": "comwell-aarhus"
+  },
+  {
+    "id": "aarhus-2",
+    "name": "Hotel Royal Aarhus",
+    "destinationSlug": "aarhus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1800,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/dk/royal-aarhus.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome for EUR 25 per stay. Historic 1838 hotel. Dogs and cats accepted.",
+    "highlights": [
+      "Historic 1838 luxury hotel",
+      "Central Aarhus Cathedral location",
+      "Walking distance to Latin Quarter"
+    ],
+    "slug": "hotel-royal-aarhus"
+  },
+  {
+    "id": "aarhus-3",
+    "name": "Scandic Aarhus City",
+    "destinationSlug": "aarhus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/dk/scandic-aarhus-city.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for EUR 20 per stay. Scandic chain pet-friendly. All sizes welcome.",
+    "highlights": [
+      "Scandic chain pet-friendly",
+      "Central station-side",
+      "Indoor pool"
+    ],
+    "slug": "scandic-aarhus-city"
+  },
+  {
+    "id": "aarhus-4",
+    "name": "Helnan Marselis Hotel",
+    "destinationSlug": "aarhus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1600,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/dk/helnan-marselis.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. Direct bay views. All sizes welcome.",
+    "highlights": [
+      "Direct Aarhus Bay views",
+      "On Marselisborg Forest edge",
+      "Walking to Hundeskov"
+    ],
+    "slug": "helnan-marselis-hotel"
+  },
+  {
+    "id": "aarhus-5",
+    "name": "CABINN Aarhus",
+    "destinationSlug": "aarhus",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2900,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/dk/cabinn-aarhus.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for EUR 10 per night. Budget chain. Max 1 pet per room.",
+    "highlights": [
+      "Budget Danish chain",
+      "Central station-side",
+      "24h reception"
+    ],
+    "slug": "cabinn-aarhus"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",
@@ -6097,6 +6217,126 @@
       "Restaurant"
     ],
     "slug": "clarion-hotel-helsinki"
+  },
+  {
+    "id": "innsbruck-1",
+    "name": "Hotel Innsbruck",
+    "destinationSlug": "innsbruck",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/innsbruck.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. Bowls and beds provided on request. Dogs and cats welcome.",
+    "highlights": [
+      "River Inn views",
+      "Bowls and beds provided",
+      "Walking to Altstadt"
+    ],
+    "slug": "hotel-innsbruck"
+  },
+  {
+    "id": "innsbruck-2",
+    "name": "AC Hotel by Marriott Innsbruck",
+    "destinationSlug": "innsbruck",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1700,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/ac-innsbruck.html",
+    "petFee": 25,
+    "petPolicy": "Pets welcome for EUR 25 per stay. Marriott chain pet-friendly. All sizes accepted.",
+    "highlights": [
+      "Marriott chain pet-friendly",
+      "Modern design",
+      "Walking to Altstadt"
+    ],
+    "slug": "ac-hotel-by-marriott-innsbruck"
+  },
+  {
+    "id": "innsbruck-3",
+    "name": "Hilton Innsbruck",
+    "destinationSlug": "innsbruck",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/hilton-innsbruck.html",
+    "petFee": 30,
+    "petPolicy": "Pets allowed for EUR 30 per stay. Hilton Pet Welcome programme. All sizes welcome.",
+    "highlights": [
+      "Hilton Pet Welcome",
+      "Indoor pool",
+      "Central station-side"
+    ],
+    "slug": "hilton-innsbruck"
+  },
+  {
+    "id": "innsbruck-4",
+    "name": "Hotel Goldener Adler",
+    "destinationSlug": "innsbruck",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1900,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/goldeneradler.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night. Historic 1390 hotel. Small/medium dogs preferred.",
+    "highlights": [
+      "Historic 1390 inn",
+      "Heart of Altstadt",
+      "Goldenes Dachl 50m"
+    ],
+    "slug": "hotel-goldener-adler"
+  },
+  {
+    "id": "innsbruck-5",
+    "name": "Basic Hotel Innsbruck",
+    "destinationSlug": "innsbruck",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/basic-innsbruck.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for EUR 10 per night. Budget-friendly chain. Max 1 pet per room.",
+    "highlights": [
+      "Budget-friendly",
+      "Central location",
+      "24h reception"
+    ],
+    "slug": "basic-hotel-innsbruck"
   },
   {
     "id": "krakow-1",

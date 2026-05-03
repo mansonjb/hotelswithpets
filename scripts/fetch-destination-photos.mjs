@@ -70,6 +70,8 @@ const TARGETS = [
   { slug: 'bergen', query: 'Bergen Norway Bryggen colourful wooden Hanseatic wharf Fløyen panorama sunset' },
   { slug: 'utrecht', query: 'Utrecht Netherlands Domtoren cathedral tower Oudegracht canal werven sunset panorama' },
   { slug: 'dresden', query: 'Dresden Germany Frauenkirche Brühlsche Terrasse Elbe river Canaletto skyline sunset panorama' },
+  { slug: 'aarhus', query: 'Aarhus Denmark ARoS rainbow rooftop Den Gamle By harbour panorama sunset' },
+  { slug: 'innsbruck', query: 'Innsbruck Austria Goldenes Dachl Nordkette Alps skyline panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

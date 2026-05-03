@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    aarhus: {
+      personality: 'Denmark\'s second city — Scandinavia\'s most pet-tolerant café culture after Copenhagen, with free public transport for dogs and 8 official off-leash forests',
+      highlight: 'Marselisborg Hundeskov, Bellevue Strand year-round dog beach, and the Den Gamle By open-air museum',
+      area: 'Latin Quarter, Frederiksbjerg, and the harbour Dokk1 area',
+    },
     amsterdam: {
       personality: 'one of Europe\'s most relaxed and pet-welcoming capitals',
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
@@ -215,6 +220,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
       area: 'Kallio, Töölö, and the Design District',
+    },
+    innsbruck: {
+      personality: 'Tyrol\'s capital encircled by 2,300m Alpine peaks — free public transport for dogs, dog-friendly cable cars to mountain summits, café and Gasthaus tradition that welcomes dogs, and 24/7 emergency vet',
+      highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
+      area: 'Altstadt, Wilten, and the Maria-Theresien-Strasse axis',
     },
     krakow: {
       personality: 'a historic Polish city where the ring of Planty gardens encircling the old town makes it one of Central Europe\'s most walkable destinations for dogs',
@@ -474,6 +484,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    aarhus: {
+      personality: 'la deuxième ville du Danemark — culture café la plus tolérante de Scandinavie après Copenhague, transports publics gratuits pour chiens et 8 forêts sans laisse officielles',
+      highlight: 'le Marselisborg Hundeskov, la plage canine toute l\'année de Bellevue Strand, et le musée en plein air Den Gamle By',
+      area: 'Latin Quarter, Frederiksbjerg et la zone portuaire Dokk1',
+    },
     amsterdam: {
       personality: 'l\'une des capitales les plus décontractées et accueillantes pour les animaux d\'Europe',
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
@@ -668,6 +683,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
       area: 'Kallio, Töölö et le Quartier du Design',
+    },
+    innsbruck: {
+      personality: 'la capitale du Tyrol entourée de pics alpins à 2 300 m — transports publics gratuits pour chiens, téléphériques dog-friendly jusqu\'aux sommets, tradition café et Gasthaus qui accueille les chiens, et urgences vétérinaires 24h/24',
+      highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
+      area: 'Altstadt, Wilten et l\'axe de la Maria-Theresien-Strasse',
     },
     krakow: {
       personality: 'une ville historique polonaise dont la ceinture de jardins Planty entourant la vieille ville en fait l\'une des destinations les plus praticables d\'Europe centrale pour les chiens',
@@ -926,6 +946,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    aarhus: {
+      personality: 'la segunda ciudad de Dinamarca — la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
+      highlight: 'el Marselisborg Hundeskov, la playa canina todo el año de Bellevue Strand y el museo al aire libre Den Gamle By',
+      area: 'Latin Quarter, Frederiksbjerg y la zona portuaria Dokk1',
+    },
     amsterdam: {
       personality: 'una de las capitales más relajadas y acogedoras con mascotas de Europa',
       highlight: 'el Vondelpark y las orillas sin correa del río Amstel',
@@ -1120,6 +1145,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö y el Barrio del Diseño',
+    },
+    innsbruck: {
+      personality: 'la capital del Tirol rodeada de picos alpinos a 2.300 m — transporte público gratis para perros, teleféricos dog-friendly hasta las cimas, tradición de café y Gasthaus que admite perros, y urgencias veterinarias 24/7',
+      highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
+      area: 'Altstadt, Wilten y el eje de la Maria-Theresien-Strasse',
     },
     krakow: {
       personality: 'una ciudad histórica polaca donde el anillo de jardines Planty que rodea el casco antiguo la convierte en uno de los destinos más transitables de Europa Central para los perros',

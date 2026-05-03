@@ -73,6 +73,12 @@ const ALL_GUIDES = [
     label: { fr: 'Puis-je prendre mon chien dans l\'Eurostar ?', en: 'Can I take my dog on the Eurostar?', es: '¿Puedo llevar mi perro en el Eurostar?' },
     desc:  { fr: 'Réponse + 3 alternatives transmanche', en: 'Answer + 3 cross-Channel alternatives', es: 'Respuesta + 3 alternativas transmancha' },
   },
+  {
+    slug: 'animal-health-certificate-vs-pet-passport-2026',
+    emoji: '🛂',
+    label: { fr: 'Passeport européen vs AHC : règles 2026', en: 'EU Pet Passport vs AHC: 2026 rules', es: 'Pasaporte europeo vs AHC: normas 2026' },
+    desc:  { fr: 'L\'erreur à 100 € que font 78 % des voyageurs', en: 'The €100+ mistake 78% of travellers make', es: 'El error de 100 € que comete el 78 %' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

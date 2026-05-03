@@ -20,6 +20,92 @@ export interface CityContent {
 
 const cityContent: Record<string, CityContent> = {
 
+  aarhus: {
+    history: {
+      fr: `Aarhus, fondée par les Vikings vers 770, fut un port commercial majeur du Kattegat pendant un millénaire. C'est la deuxième ville du Danemark avec 360 000 habitants, capitale culturelle européenne en 2017, et une ville étudiante (50 000 étudiants) qui lui donne une énergie jeune. Le port a été transformé en quartier d'innovation : Dokk1, l'Iceberg, Aarhus Ø — autant d'icônes architecturales contemporaines qui complètent les ruelles pavées du Latin Quarter et la cathédrale du XIIIe siècle. Pour les propriétaires de chiens, Aarhus est une découverte exceptionnelle : transports publics gratuits sur tout le réseau Letbanen + Midttrafik, 8 forêts sans laisse officielles dont Marselisborg Hundeskov (25 ha) accessible en 15 min en bus, plages canines toute l'année à Bellevue Strand, et culture café danoise hygge qui inclut naturellement les chiens en intérieur dès octobre. La ville compte aussi deux cliniques vétérinaires d'urgence 24h/24 (AniCura et Evidensia) — rare pour une ville de cette taille.`,
+      en: `Aarhus, founded by the Vikings around 770, was a major Kattegat trading port for a thousand years. It is Denmark's second city with 360,000 inhabitants, European Capital of Culture in 2017, and a student city (50,000 students) that gives it a young energy. The harbour has been transformed into an innovation district: Dokk1, the Iceberg, Aarhus Ø — contemporary architectural icons that complement the cobbled alleys of the Latin Quarter and the 13th-century cathedral. For dog owners, Aarhus is an exceptional discovery: free public transport across the entire Letbanen + Midttrafik network, 8 official off-leash forests including Marselisborg Hundeskov (25 ha) reachable in 15 min by bus, year-round dog beaches at Bellevue Strand, and a Danish hygge café culture that naturally welcomes dogs indoors from October. The city also has two 24/7 emergency veterinary clinics (AniCura and Evidensia) — rare for a city this size.`,
+      es: `Aarhus, fundada por los vikingos hacia 770, fue un importante puerto comercial del Kattegat durante un milenio. Es la segunda ciudad de Dinamarca con 360.000 habitantes, Capital Europea de la Cultura en 2017 y una ciudad estudiantil (50.000 estudiantes) que le da energía joven. El puerto se ha transformado en barrio de innovación: Dokk1, el Iceberg, Aarhus Ø — iconos arquitectónicos contemporáneos que complementan los callejones empedrados del Latin Quarter y la catedral del siglo XIII. Para los dueños de perros, Aarhus es un descubrimiento excepcional: transporte público gratuito en toda la red Letbanen + Midttrafik, 8 bosques sin correa oficiales incluyendo Marselisborg Hundeskov (25 ha) accesible en 15 min en bus, playas caninas todo el año en Bellevue Strand, y una cultura del café danesa hygge que admite naturalmente perros dentro desde octubre. La ciudad cuenta también con dos clínicas veterinarias de urgencias 24/7 (AniCura y Evidensia) — raro para una ciudad de este tamaño.`,
+    },
+    sights: [
+      { name: 'Marselisborg Hundeskov', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Plus grande forêt sans laisse officielle d'Aarhus (25 ha), à l'intérieur de la grande forêt de Marselisborg (1 400 ha). Sentiers, clairière à balle, accès direct au reste de la forêt en laisse.`,
+        en: `Aarhus's largest official off-leash dog forest (25 ha), inside the larger Marselisborg Forest (1,400 ha). Trails, ball-game clearing, direct on-leash access to the rest of the forest.`,
+        es: `El mayor bosque sin correa oficial de Aarhus (25 ha), dentro del mayor bosque de Marselisborg (1.400 ha). Senderos, claro para juegos de pelota, acceso directo con correa al resto del bosque.`,
+      }},
+      { name: 'Bellevue Strand', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage urbaine la plus prisée d'Aarhus, baie nord à 15 min en Letbanen. Section canine toute l'année avec baignade sans laisse, sable, pente douce.`,
+        en: `Aarhus's most popular city beach, northern bay 15 min by Letbanen. Year-round dog section with off-leash swimming, sandy, gentle slope.`,
+        es: `La playa urbana más popular de Aarhus, bahía norte a 15 min en Letbanen. Sección canina todo el año con baño sin correa, arena, pendiente suave.`,
+      }},
+      { name: 'Den Gamle By', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Musée en plein air avec 75 bâtiments historiques danois relocalisés. Rues, jardins et zones extérieures acceptent les chiens en laisse (entrée payante).`,
+        en: `Open-air museum with 75 historic Danish buildings relocated from across the country. Streets, gardens and outdoor areas accept leashed dogs (paid entry).`,
+        es: `Museo al aire libre con 75 edificios históricos daneses reubicados de todo el país. Calles, jardines y zonas exteriores admiten perros con correa (entrada de pago).`,
+      }},
+      { name: 'Dokk1 Harbour Plaza', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Bibliothèque et place publique front de mer primées en architecture. Place extérieure dog-friendly en laisse, vues sur le port et Aarhus Ø.`,
+        en: `Award-winning waterfront library and public plaza. Outdoor plaza dog-friendly on leash, views of the harbour and Aarhus Ø.`,
+        es: `Biblioteca y plaza pública junto al mar premiadas de arquitectura. Plaza exterior dog-friendly con correa, vistas al puerto y Aarhus Ø.`,
+      }},
+      { name: 'Riis Skov', emoji: '🌲', petFriendly: true, desc: {
+        fr: `100 hectares de hêtraie le long de la baie nord, avec section hundeskov dédiée et accès direct à la plage canine Bellevue Strand.`,
+        en: `100 hectares of beech forest along the northern bay, with a dedicated hundeskov section and direct access to the dog beach Bellevue Strand.`,
+        es: `100 hectáreas de hayedo a lo largo de la bahía norte, con sección hundeskov dedicada y acceso directo a la playa canina Bellevue Strand.`,
+      }},
+      { name: 'Marselisborg Royal Park', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Résidence d'été de la famille royale danoise, 13 hectares de jardins paysagés publics ouverts toute l'année. Chiens en laisse bienvenus.`,
+        en: `Summer residence of the Danish royal family, 13 hectares of public landscaped gardens open year-round. Leashed dogs welcome.`,
+        es: `Residencia de verano de la familia real danesa, 13 hectáreas de jardines paisajísticos públicos abiertos todo el año. Perros con correa bienvenidos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Letbanen (tram) + bus Midttrafik : chiens en laisse gratuits sur tout le réseau, sans limite de taille.`,
+        `Loi danoise : chiens en laisse partout hors des 8 Hundeskove désignés. Amende 1 000 DKK pour infraction.`,
+        `Plages : zones sans laisse fonctionnent du 1er octobre au 14 mai ; laisse obligatoire 15 mai-30 septembre même sur plages dog-friendly.`,
+        `Vétérinaires d'urgence 24h/24 : AniCura Aarhus (+45 86 14 28 00) et Evidensia Aarhus Højbjerg (+45 87 32 03 00).`,
+        `Le Danemark accepte le passeport européen sans traitement échinococcose supplémentaire (contrairement à UK/Irlande/Finlande/Norvège/Malte).`,
+      ],
+      en: [
+        `Letbanen (tram) + Midttrafik buses: leashed dogs free across the entire network, no size limit.`,
+        `Danish leash law: dogs must be on leash everywhere outside the 8 designated Hundeskove. DKK 1,000 fine for violation.`,
+        `Beaches: off-leash zones operate 1 October to 14 May; leash mandatory 15 May to 30 September even on dog-permitted beaches.`,
+        `24/7 emergency vets: AniCura Aarhus (+45 86 14 28 00) and Evidensia Aarhus Højbjerg (+45 87 32 03 00).`,
+        `Denmark accepts the EU pet passport with no additional tapeworm treatment (unlike UK/Ireland/Finland/Norway/Malta).`,
+      ],
+      es: [
+        `Letbanen (tranvía) + buses Midttrafik: perros con correa gratis en toda la red, sin límite de tamaño.`,
+        `Ley danesa: perros con correa en todas partes fuera de los 8 Hundeskove designados. Multa de 1.000 DKK por infracción.`,
+        `Playas: zonas sin correa funcionan del 1 octubre al 14 mayo; correa obligatoria 15 mayo-30 septiembre incluso en playas dog-friendly.`,
+        `Veterinarios de urgencias 24/7: AniCura Aarhus (+45 86 14 28 00) y Evidensia Aarhus Højbjerg (+45 87 32 03 00).`,
+        `Dinamarca acepta el pasaporte europeo sin tratamiento contra equinococosis adicional (a diferencia de UK/Irlanda/Finlandia/Noruega/Malta).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Aarhus (AAR) à 36 km — bus Midttrafik 925X toutes les heures, 45 min, chiens gratuits.`,
+        `Train DSB intercity Aarhus-Copenhague : 3h, petits chiens en cage gratuits, grands avec hund-billet (50 DKK / 7 €).`,
+        `13 races interdites au Danemark depuis 2010 (Pit Bull, Tosa, American Bulldog, Boerboel, Kangal, etc.) — ne peuvent pas entrer au pays.`,
+        `Tarifs vétérinaires danois parmi les plus chers d'Europe : urgence de base 1 800-2 400 DKK (240-320 €). Assurance européenne acceptée.`,
+        `Le festival d'Aarhus (fin août) sature les hôtels — réservez 3 mois à l'avance ou évitez la dernière semaine d'août.`,
+      ],
+      en: [
+        `Aarhus Airport (AAR) is 36 km away — Midttrafik bus 925X runs every hour, 45 min, dogs free.`,
+        `DSB intercity train Aarhus-Copenhagen: 3h, small dogs in carriers free, larger dogs with hund-billet (DKK 50 / €7).`,
+        `13 breeds banned in Denmark since 2010 (Pit Bull, Tosa, American Bulldog, Boerboel, Kangal, etc.) — cannot enter the country.`,
+        `Danish vet fees among Europe's highest: basic emergency DKK 1,800-2,400 (€240-320). EU pet insurance accepted.`,
+        `Aarhus Festival (late August) saturates hotels — book 3 months ahead or avoid the last week of August.`,
+      ],
+      es: [
+        `Aeropuerto de Aarhus (AAR) a 36 km — bus Midttrafik 925X cada hora, 45 min, perros gratis.`,
+        `Tren DSB intercity Aarhus-Copenhague: 3h, perros pequeños en transportín gratis, grandes con hund-billet (50 DKK / 7 €).`,
+        `13 razas prohibidas en Dinamarca desde 2010 (Pit Bull, Tosa, American Bulldog, Boerboel, Kangal, etc.) — no pueden entrar al país.`,
+        `Tarifas veterinarias danesas entre las más caras de Europa: urgencia base 1.800-2.400 DKK (240-320 €). Seguro europeo aceptado.`,
+        `El Festival de Aarhus (finales de agosto) satura los hoteles — reserva con 3 meses de antelación o evita la última semana de agosto.`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel — d'où son nom — Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture — et cela vaut aussi pour les chiens, bienvenus dans les cafés, les terrasses et même les transports en commun.`,
@@ -4357,6 +4443,92 @@ const cityContent: Record<string, CityContent> = {
         'Urgencia veterinaria 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki — +358 2 941 57373.',
         'La Estación Central conecta con Tallin en ferry Tallink (2 h, perros solo en camarote); la línea a San Petersburgo está suspendida desde 2022.',
         'El agua del grifo es de las más puras del mundo — en casi todos los cafés rellenan el cuenco sin pedirlo.',
+      ],
+    },
+  },
+
+  innsbruck: {
+    history: {
+      fr: `Innsbruck, fondée vers 1187 au confluent de l'Inn et de la Sill, fut pendant trois siècles capitale du Tyrol et résidence préférée de l'empereur Maximilien Ier (qui y commanda le Goldenes Dachl, l'oriel doré de 1500). Aujourd'hui ville universitaire de 130 000 habitants, capitale culturelle du Tyrol et deux fois ville olympique d'hiver (1964, 1976), Innsbruck combine un cœur historique pavé Renaissance avec un environnement alpin spectaculaire — la chaîne du Nordkette à 2 300 m est accessible en téléphérique depuis la place du Congrès en 25 minutes. Pour les propriétaires de chiens, Innsbruck est l'une des villes alpines les plus pratiques : transports publics gratuits sur tout le réseau IVB (trams + bus + funiculaire Hungerburgbahn), 8 forêts urbaines accessibles à pied, téléphériques dog-friendly jusqu'à 2 256 m (Hafelekar), tradition café et Gasthaus tyrolienne qui accueille naturellement les chiens, et clinique vétérinaire 24h/24 (AniCura) en plein centre. La saison laisse autrichienne (1er mars-31 juillet) protège les oiseaux nicheurs sur les sentiers de montagne ; le reste de l'année, les chiens courent sans laisse en montagne avec un bon rappel.`,
+      en: `Innsbruck, founded around 1187 at the confluence of the Inn and Sill rivers, was for three centuries the capital of Tyrol and Emperor Maximilian I's favourite residence (he commissioned the Goldenes Dachl, the gilded oriel of 1500). Today a university city of 130,000 inhabitants, the cultural capital of Tyrol and a two-time winter Olympic city (1964, 1976), Innsbruck combines a Renaissance cobbled historic core with a spectacular Alpine setting — the Nordkette range at 2,300 m is reachable by cable car from Congress Square in 25 minutes. For dog owners, Innsbruck is one of the most practical Alpine cities: free public transport across the entire IVB network (trams + buses + Hungerburgbahn funicular), 8 urban forests within walking distance, dog-friendly cable cars up to 2,256 m (Hafelekar), Tyrolean café and Gasthaus tradition that naturally welcomes dogs, and a 24/7 veterinary clinic (AniCura) right in the centre. The Austrian leash season (1 March-31 July) protects ground-nesting birds on hiking trails; the rest of the year, dogs run off-leash on mountains with proper recall.`,
+      es: `Innsbruck, fundada hacia 1187 en la confluencia de los ríos Inn y Sill, fue durante tres siglos capital del Tirol y residencia favorita del emperador Maximiliano I (que encargó el Goldenes Dachl, el mirador dorado de 1500). Hoy ciudad universitaria de 130.000 habitantes, capital cultural del Tirol y dos veces ciudad olímpica de invierno (1964, 1976), Innsbruck combina un núcleo histórico empedrado renacentista con un entorno alpino espectacular — la cordillera del Nordkette a 2.300 m es accesible en teleférico desde la plaza del Congreso en 25 minutos. Para los dueños de perros, Innsbruck es una de las ciudades alpinas más prácticas: transporte público gratuito en toda la red IVB (tranvías + buses + funicular Hungerburgbahn), 8 bosques urbanos accesibles a pie, teleféricos dog-friendly hasta 2.256 m (Hafelekar), tradición de café y Gasthaus tirolesa que admite naturalmente perros, y clínica veterinaria 24/7 (AniCura) en pleno centro. La temporada de correa austríaca (1 marzo-31 julio) protege aves que anidan en el suelo en los senderos de montaña; el resto del año, los perros corren sin correa en las montañas con buena llamada.`,
+    },
+    sights: [
+      { name: 'Nordkette', emoji: '🏔️', petFriendly: true, desc: {
+        fr: `Crête à 2 300 m juste au-dessus d'Innsbruck, accessible en 25 min depuis le centre par funiculaire Hungerburgbahn + 2 téléphériques (chiens gratuits avec muselière). Sentiers infinis sans laisse en été.`,
+        en: `2,300 m ridge directly above Innsbruck, reachable in 25 min from the centre by Hungerburgbahn funicular + 2 cable cars (dogs free with muzzle). Endless off-leash trails in summer.`,
+        es: `Cresta a 2.300 m justo sobre Innsbruck, accesible en 25 min desde el centro por funicular Hungerburgbahn + 2 teleféricos (perros gratis con bozal). Senderos infinitos sin correa en verano.`,
+      }},
+      { name: 'Goldenes Dachl', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Symbole d'Innsbruck — oriel de 1500 avec 2 657 tuiles de cuivre dorées au feu, au cœur du Altstadt pavé. Place et ruelles environnantes accessibles aux chiens en laisse.`,
+        en: `Innsbruck's icon — a 1500 oriel with 2,657 fire-gilded copper tiles, in the heart of the cobbled Altstadt. The square and surrounding alleys are leashed-dog accessible.`,
+        es: `Símbolo de Innsbruck — un mirador de 1500 con 2.657 tejas de cobre doradas al fuego, en el corazón del Altstadt empedrado. La plaza y los callejones circundantes son accesibles a perros con correa.`,
+      }},
+      { name: 'Hofgarten', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin royal central, 10 hectares de parc paysagé avec serre, café et aire de jeux. Chiens en laisse bienvenus toute l'année.`,
+        en: `Central royal garden, 10 hectares of landscaped park with glasshouse, café and playground. Leashed dogs welcome year-round.`,
+        es: `Jardín real central, 10 hectáreas de parque paisajístico con invernadero, café y zona de juegos. Perros con correa bienvenidos todo el año.`,
+      }},
+      { name: 'Patscherkofel', emoji: '⛷️', petFriendly: true, desc: {
+        fr: `Pic de 2 247 m au sud, le Hausberg local. Téléphérique moderne depuis Igls (15 min en tram). Sentiers d'été dog-friendly sans laisse.`,
+        en: `2,247 m peak to the south, the local Hausberg. Modern cable car from Igls (15 min by tram). Summer trails dog-friendly off-leash.`,
+        es: `Pico de 2.247 m al sur, el Hausberg local. Teleférico moderno desde Igls (15 min en tranvía). Senderos de verano dog-friendly sin correa.`,
+      }},
+      { name: 'Bergisel Ski Jump', emoji: '🎿', petFriendly: true, desc: {
+        fr: `Tremplin olympique de 1964 reconstruit par Zaha Hadid en 2002. Plateforme extérieure dog-friendly avec vues panoramiques sur la ville.`,
+        en: `1964 Olympic ski jump rebuilt by Zaha Hadid in 2002. Outdoor platform dog-friendly with panoramic city views.`,
+        es: `Trampolín olímpico de 1964 reconstruido por Zaha Hadid en 2002. Plataforma exterior dog-friendly con vistas panorámicas a la ciudad.`,
+      }},
+      { name: 'Hofburg Imperial Palace Gardens', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Jardins du palais impérial Habsbourg, 4 hectares en plein centre, entrée libre. Chiens en laisse bienvenus dans les jardins.`,
+        en: `Habsburg Imperial Palace gardens, 4 hectares in the centre, free entry. Leashed dogs welcome in the gardens.`,
+        es: `Jardines del palacio imperial Habsburgo, 4 hectáreas en pleno centro, entrada libre. Perros con correa bienvenidos en los jardines.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `IVB (tram + bus) + funiculaire Hungerburgbahn : chiens en laisse gratuits, sans limite de taille.`,
+        `Saison laisse autrichienne : du 1er mars au 31 juillet sur sentiers de montagne (oiseaux nicheurs). Hors période, sans laisse avec rappel sur sentiers.`,
+        `Téléphériques (Nordkettenbahnen, Patscherkofelbahn) : chiens gratuits avec laisse + muselière en cabine.`,
+        `Vétérinaires d'urgence 24h/24 : AniCura Innsbruck Tierklinik (+43 512 23 23 32) et Tierärztlicher Notdienst Tirol (+43 512 56 79 87).`,
+        `Passeport européen accepté sans traitement échinococcose supplémentaire (contrairement à UK/Irlande/Finlande/Norvège/Malte).`,
+      ],
+      en: [
+        `IVB (tram + bus) + Hungerburgbahn funicular: leashed dogs free, no size limit.`,
+        `Austrian leash season: 1 March-31 July on mountain trails (ground-nesting bird protection). Outside that period, off-leash with recall on trails.`,
+        `Cable cars (Nordkettenbahnen, Patscherkofelbahn): dogs free with leash + muzzle in cabin.`,
+        `24/7 emergency vets: AniCura Innsbruck Tierklinik (+43 512 23 23 32) and Tierärztlicher Notdienst Tirol (+43 512 56 79 87).`,
+        `EU pet passport accepted with no additional tapeworm treatment (unlike UK/Ireland/Finland/Norway/Malta).`,
+      ],
+      es: [
+        `IVB (tranvía + bus) + funicular Hungerburgbahn: perros con correa gratis, sin límite de tamaño.`,
+        `Temporada de correa austríaca: del 1 marzo al 31 julio en senderos de montaña (protección aves que anidan). Fuera de ese periodo, sin correa con llamada en senderos.`,
+        `Teleféricos (Nordkettenbahnen, Patscherkofelbahn): perros gratis con correa + bozal en cabina.`,
+        `Veterinarios de urgencias 24/7: AniCura Innsbruck Tierklinik (+43 512 23 23 32) y Tierärztlicher Notdienst Tirol (+43 512 56 79 87).`,
+        `Pasaporte europeo aceptado sin tratamiento contra equinococosis adicional (a diferencia de UK/Irlanda/Finlandia/Noruega/Malta).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Innsbruck (INN) à 4 km du centre — bus IVB F toutes les 15 min, 15 min, chiens gratuits.`,
+        `Train ÖBB Railjet : Munich (1h45), Vienne (4h30), Salzbourg (1h45), Zurich (3h30), Vérone (4h via Brenner). Petits chiens en cage gratuits, grands avec Hundeticket demi-tarif.`,
+        `13 races « catégorie 1 » exigent muselière en public en Autriche (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) — visiteurs avec ces races doivent appeler hôtels avant.`,
+        `Tarifs vétérinaires autrichiens similaires à l'Allemagne : urgence de base 100-180 €. Assurance européenne acceptée.`,
+        `Marchés de Noël (Maria-Theresien-Strasse, fin novembre-31 décembre) sont dog-tolérants — larges rues piétonnes, vin chaud, chiens en laisse bienvenus.`,
+      ],
+      en: [
+        `Innsbruck Airport (INN) is 4 km from the centre — IVB bus F runs every 15 min, 15 min, dogs free.`,
+        `ÖBB Railjet train: Munich (1h45), Vienna (4h30), Salzburg (1h45), Zurich (3h30), Verona (4h via Brenner). Small dogs in carriers free, larger dogs with half-price Hundeticket.`,
+        `13 'category 1' breeds require muzzle in public in Austria (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) — visitors with these breeds should call hotels in advance.`,
+        `Austrian vet fees similar to Germany: basic emergency €100-180. EU pet insurance accepted.`,
+        `Christmas markets (Maria-Theresien-Strasse, late November-31 December) are dog-tolerant — wide pedestrian streets, mulled wine, leashed dogs welcome.`,
+      ],
+      es: [
+        `Aeropuerto de Innsbruck (INN) a 4 km del centro — bus IVB F cada 15 min, 15 min, perros gratis.`,
+        `Tren ÖBB Railjet: Múnich (1h45), Viena (4h30), Salzburgo (1h45), Zúrich (3h30), Verona (4h vía Brénero). Perros pequeños en transportín gratis, grandes con Hundeticket a media tarifa.`,
+        `13 razas « categoría 1 » exigen bozal en público en Austria (Pit Bull, Bullterrier, Tosa, Rottweiler, etc.) — visitantes con estas razas deben llamar a hoteles antes.`,
+        `Tarifas veterinarias austríacas similares a Alemania: urgencia base 100-180 €. Seguro europeo aceptado.`,
+        `Mercados navideños (Maria-Theresien-Strasse, finales noviembre-31 diciembre) son dog-tolerant — amplias calles peatonales, vino caliente, perros con correa bienvenidos.`,
       ],
     },
   },

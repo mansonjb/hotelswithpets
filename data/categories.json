@@ -70,5 +70,29 @@
     "description": "Hotels with no pet fee. Your dog stays at no extra charge.",
     "descriptionFr": "Hôtels sans supplément animaux. Votre chien séjourne sans frais supplémentaires.",
     "descriptionEs": "Hoteles sin cargo adicional por mascotas. Tu perro se queda sin coste extra."
+  },
+  {
+    "slug": "boutique-pet-friendly",
+    "name": "Boutique",
+    "nameFr": "Boutique",
+    "nameEs": "Boutique",
+    "emoji": "💎",
+    "gradient": "from-fuchsia-400 to-purple-500",
+    "cityCount": 30,
+    "description": "Independent boutique hotels with character that genuinely welcome pets — design-led properties, often in historic buildings.",
+    "descriptionFr": "Hôtels-boutiques indépendants au caractère affirmé qui accueillent réellement les animaux — propriétés design, souvent dans des bâtiments historiques.",
+    "descriptionEs": "Hoteles boutique independientes con carácter que admiten realmente mascotas — propiedades de diseño, a menudo en edificios históricos."
+  },
+  {
+    "slug": "budget-pet-friendly",
+    "name": "Budget",
+    "nameFr": "Petit budget",
+    "nameEs": "Económicos",
+    "emoji": "💶",
+    "gradient": "from-lime-400 to-green-500",
+    "cityCount": 26,
+    "description": "Affordable hotels under €100 per night that still accept pets — chains and independent properties verified for genuine pet-welcome policies.",
+    "descriptionFr": "Hôtels abordables sous 100 € la nuit qui acceptent quand même les animaux — chaînes et indépendants vérifiés pour de vraies politiques pet-welcome.",
+    "descriptionEs": "Hoteles asequibles por debajo de 100 € la noche que admiten mascotas — cadenas e independientes verificados por políticas pet-welcome genuinas."
   }
 ]

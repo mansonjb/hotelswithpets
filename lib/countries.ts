@@ -32,6 +32,12 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Greece: '🇬🇷',
   Norway: '🇳🇴',
   Finland: '🇫🇮',
+  Bulgaria: '🇧🇬',
+  Romania: '🇷🇴',
+  Serbia: '🇷🇸',
+  Slovakia: '🇸🇰',
+  Lithuania: '🇱🇹',
+  Luxembourg: '🇱🇺',
 }
 
 /**
@@ -63,6 +69,12 @@ const COUNTRIES_FR: Record<string, string> = {
   Greece: 'Grèce',
   Norway: 'Norvège',
   Finland: 'Finlande',
+  Bulgaria: 'Bulgarie',
+  Romania: 'Roumanie',
+  Serbia: 'Serbie',
+  Slovakia: 'Slovaquie',
+  Lithuania: 'Lituanie',
+  Luxembourg: 'Luxembourg',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -90,6 +102,12 @@ const COUNTRIES_ES: Record<string, string> = {
   Greece: 'Grecia',
   Norway: 'Noruega',
   Finland: 'Finlandia',
+  Bulgaria: 'Bulgaria',
+  Romania: 'Rumanía',
+  Serbia: 'Serbia',
+  Slovakia: 'Eslovaquia',
+  Lithuania: 'Lituania',
+  Luxembourg: 'Luxemburgo',
 }
 
 export function getLocalizedCountryName(englishName: string, locale: string): string {

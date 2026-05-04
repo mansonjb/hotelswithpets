@@ -2308,6 +2308,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cambridge: {
+    history: {
+      fr: `Cambridge, fondée vers le IXe siècle au gué (cam-bridge) sur la rivière Cam, doit sa célébrité mondiale à son université, fondée en 1209 par des clercs ayant fui Oxford. Au fil des siècles, 31 colleges se sont édifiés sur les Backs — les pelouses riveraines qui forment la vue signature de la ville — entre King's College Chapel (achevée en 1547, gothique perpendiculaire), Trinity College (où enseigna Newton) et St John's. Plus que sa rivale Oxford, Cambridge a conservé un cœur médiéval compact entouré de communaux ouverts (Jesus Green, Midsummer Common, Coe Fen, Sheep's Green) où le bétail pâture encore l'été. Pour les voyageurs avec un chien, c'est l'un des city-breaks britanniques les plus accessibles : centre marchable en 25 min, vastes prés sans laisse à 5 min des colleges, pubs et terrasses tolérants par défaut, et trains Greater Anglia directs depuis London King's Cross en 50 min.`,
+      en: `Cambridge, founded around the 9th century at the ford (cam-bridge) on the River Cam, owes its global fame to its university — established in 1209 by clerics who fled Oxford. Over the centuries, 31 colleges rose along the Backs — the riverside lawns that form the city's signature view — including King's College Chapel (completed 1547, perpendicular Gothic), Trinity College (where Newton taught) and St John's. More than its rival Oxford, Cambridge has kept a compact medieval core ringed by open commons (Jesus Green, Midsummer Common, Coe Fen, Sheep's Green) where cattle still graze in summer. For travellers with a dog, this is one of the most accessible British city-breaks: a walkable centre crossable in 25 min, vast off-leash meadows 5 min from the colleges, pubs and terraces tolerant by default, and direct Greater Anglia trains from London King's Cross in 50 min.`,
+      es: `Cambridge, fundada hacia el siglo IX en el vado (cam-bridge) sobre el río Cam, debe su fama mundial a su universidad — establecida en 1209 por clérigos que huyeron de Oxford. A lo largo de los siglos, 31 colleges se alzaron junto a los Backs — los céspedes ribereños que forman la vista emblemática de la ciudad — entre ellos la capilla de King's College (terminada en 1547, gótico perpendicular), Trinity College (donde enseñó Newton) y St John's. Más que su rival Oxford, Cambridge ha conservado un núcleo medieval compacto rodeado de comunales abiertos (Jesus Green, Midsummer Common, Coe Fen, Sheep's Green) donde el ganado aún pasta en verano. Para los viajeros con perro, es uno de los city-breaks británicos más accesibles: centro caminable en 25 min, vastas praderas sin correa a 5 min de los colleges, pubs y terrazas tolerantes por defecto, y trenes directos Greater Anglia desde London King's Cross en 50 min.`,
+    },
+    sights: [
+      { name: 'The Backs', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Pelouses et prairies riveraines derrière les plus anciens colleges (King's, Clare, Trinity, St John's) — la vue signature de la ville. Sentier public, chiens en laisse.`,
+        en: `Riverside lawns and meadows behind the oldest colleges (King's, Clare, Trinity, St John's) — the city's signature view. Public path, leashed dogs.`,
+        es: `Céspedes y praderas ribereñas detrás de los colleges más antiguos (King's, Clare, Trinity, St John's) — la vista emblemática de la ciudad. Sendero público, perros con correa.`,
+      }},
+      { name: 'Jesus Green', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Commun de 11 ha bordant la Cam derrière Jesus College — sans laisse toute l'année, piscine extérieure, le spot favori du centre.`,
+        en: `An 11-hectare common alongside the Cam behind Jesus College — off-leash year-round, outdoor lido, the city-centre favourite.`,
+        es: `Comunal de 11 ha junto al Cam detrás de Jesus College — sin correa todo el año, piscina al aire libre, el favorito del centro.`,
+      }},
+      { name: 'Midsummer Common', emoji: '🐄', petFriendly: true, desc: {
+        fr: `Commun historique de 16 ha entre la Cam et Maids Causeway — sans laisse toute l'année, bétail en pâturage de mai à octobre.`,
+        en: `A 16-hectare historic common between the Cam and Maids Causeway — off-leash year-round, cattle grazing May-October.`,
+        es: `Comunal histórico de 16 ha entre el Cam y Maids Causeway — sin correa todo el año, ganado pastando de mayo a octubre.`,
+      }},
+      { name: 'Grantchester Meadows', emoji: '🌾', petFriendly: true, desc: {
+        fr: `Promenade riveraine de 4 km de Cambridge au village de Grantchester — sans laisse, terminez au tea garden de The Orchard.`,
+        en: `A 4 km riverside walk from Cambridge to the village of Grantchester — off-leash, end at The Orchard tea garden.`,
+        es: `Paseo ribereño de 4 km de Cambridge al pueblo de Grantchester — sin correa, termina en el tea garden de The Orchard.`,
+      }},
+      { name: 'Wandlebury Country Park', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Fort de l'âge du fer et country park de 45 ha à 6 km au sud-est — sentiers boisés, sans laisse, le plus populaire chez les locaux.`,
+        en: `A 45-hectare Iron Age hillfort and country park 6 km south-east — woodland trails, off-leash, the local favourite.`,
+        es: `Fuerte de la Edad del Hierro y parque rural de 45 ha a 6 km al sureste — senderos boscosos, sin correa, el favorito local.`,
+      }},
+      { name: 'Coe Fen & Sheep\'s Green', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Deux prés riverains au sud-ouest du centre — sans laisse, méandre populaire pour la baignade canine, bétail en pâturage.`,
+        en: `Two riverside meadows south-west of the centre — off-leash, a popular bend for dog swimming, grazing cattle.`,
+        es: `Dos praderas ribereñas al suroeste del centro — sin correa, meandro popular para el baño canino, ganado pastando.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Les colleges (King's, Trinity, St John's, etc.) n'admettent QUE les chiens d'assistance — limitez votre chien aux rues publiques et aux Backs.`,
+        `Communaux du centre (Jesus Green, Midsummer, Coe Fen) sans laisse par défaut — bétail en pâturage de mai à octobre, attention aux chiens réactifs.`,
+        `Les bus Stagecoach et trains Greater Anglia acceptent gratuitement jusqu'à 2 chiens par passager — utile pour les excursions à Ely, Bury St Edmunds ou la côte du Norfolk.`,
+        `Vétérinaire d'urgence 24h/24 : Vets Now Cambridge, 33 Cherry Hinton Road (+44 1223 459711) — appelez avant de venir.`,
+        `Les May Balls des colleges (mi-juin) et la semaine de remise des diplômes créent une foule très dense — préférez avant ou après cette période avec un chien.`,
+      ],
+      en: [
+        `Cambridge colleges (King's, Trinity, St John's, etc.) admit ONLY assistance dogs — confine pets to the public streets and the Backs.`,
+        `City-centre commons (Jesus Green, Midsummer, Coe Fen) are off-leash by default — cattle graze May-October, be careful with reactive dogs.`,
+        `Stagecoach buses and Greater Anglia trains accept up to 2 dogs free per passenger — useful for day trips to Ely, Bury St Edmunds or the Norfolk coast.`,
+        `24/7 emergency vet: Vets Now Cambridge, 33 Cherry Hinton Road (+44 1223 459711) — call before driving in.`,
+        `College May Balls (mid-June) and graduation week create very dense crowds — go before or after this period with a dog.`,
+      ],
+      es: [
+        `Los colleges de Cambridge (King's, Trinity, St John's, etc.) admiten SOLO perros de asistencia — limita tu perro a las calles públicas y los Backs.`,
+        `Los comunales del centro (Jesus Green, Midsummer, Coe Fen) son sin correa por defecto — ganado pasta de mayo a octubre, cuidado con perros reactivos.`,
+        `Los buses Stagecoach y los trenes Greater Anglia admiten hasta 2 perros gratis por pasajero — útil para excursiones a Ely, Bury St Edmunds o la costa de Norfolk.`,
+        `Veterinario de urgencias 24/7: Vets Now Cambridge, 33 Cherry Hinton Road (+44 1223 459711) — llama antes de ir.`,
+        `Los May Balls de los colleges (mediados de junio) y la semana de graduación crean multitudes muy densas — ve antes o después de este periodo con perro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : puce ISO + vaccin antirabique en cours + GB Animal Health Certificate (AHC) délivré par un OV de l'UE dans les 10 jours précédant l'arrivée. Pas besoin de passeport européen pour entrer au UK.`,
+        `Pour le retour vers l'UE : traitement contre l'echinococcose (ténia) administré par un vétérinaire 24h-120h avant l'arrivée — obligatoire pour Irlande, Finlande, Malte et Norvège.`,
+        `Trains Greater Anglia : London King's Cross 50 min, London Liverpool Street 1h17, Stansted Airport 35 min — chiens gratuits jusqu'à 2 par passager.`,
+        `Stansted Airport (STN) est à 35 min en train ; Luton (LTN) à 50 min en voiture ; Heathrow (LHR) à 1h45 — tous acceptent les chiens en cabine sur certaines compagnies.`,
+        `Le festival de Cambridge Folk (juillet) et les May Balls des colleges (mi-juin) créent des week-ends très chargés — réservez l'hôtel pet-friendly 6 semaines à l'avance.`,
+      ],
+      en: [
+        `From the EU: ISO microchip + valid rabies vaccination + GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of arrival. No EU pet passport required to enter the UK.`,
+        `For return to the EU: tapeworm treatment (echinococcosis) administered by a vet 24h-120h before arrival — mandatory for Ireland, Finland, Malta and Norway.`,
+        `Direct Greater Anglia trains: London King's Cross 50 min, London Liverpool Street 1h17, Stansted Airport 35 min — dogs free up to 2 per passenger.`,
+        `Stansted Airport (STN) is 35 min by train; Luton (LTN) is 50 min by car; Heathrow (LHR) is 1h45 — all accept in-cabin dogs on selected carriers.`,
+        `Cambridge Folk Festival (July) and college May Balls (mid-June) create very busy weekends — book pet-friendly hotels 6 weeks ahead.`,
+      ],
+      es: [
+        `Desde la UE: microchip ISO + vacunación antirrábica vigente + GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 días previos a la llegada. No se exige pasaporte europeo para entrar al UK.`,
+        `Para volver a la UE: tratamiento de tenia (equinococosis) administrado por un veterinario 24h-120h antes de la llegada — obligatorio para Irlanda, Finlandia, Malta y Noruega.`,
+        `Trenes Greater Anglia directos: London King's Cross 50 min, London Liverpool Street 1h17, Stansted Airport 35 min — perros gratis hasta 2 por pasajero.`,
+        `Stansted Airport (STN) está a 35 min en tren; Luton (LTN) a 50 min en coche; Heathrow (LHR) a 1h45 — todos admiten perros en cabina en algunas compañías.`,
+        `El festival Cambridge Folk (julio) y los May Balls de los colleges (mediados de junio) generan fines de semana muy llenos — reserva el hotel pet-friendly con 6 semanas de antelación.`,
+      ],
+    },
+  },
+
   cannes: {
     history: {
       fr: `Cannes, petite ville de pêcheurs jusqu\'au milieu du XIXe siècle, doit sa métamorphose en capitale du glamour à lord Henry Brougham, qui s\'y arrêta en 1834 et décida d\'y construire une villa. L\'aristocratie britannique suivit, puis la Belle Époque transforma la Croisette en vitrine du luxe mondial. Le Festival international du film, créé en 1946, ancra définitivement Cannes sur la carte culturelle mondiale. Derrière ce vernis, la ville garde son âme provençale : le marché Forville, les ruelles du Suquet et la flotte de pêcheurs du vieux port rappellent que Cannes est d\'abord une ville méditerranéenne. Côté animal, la France impose un passeport européen pour animaux, une puce électronique et la vaccination antirabique pour les chiens et chats de l\'Union. À Cannes, les chiens en laisse sont admis sur les promenades, dans les parcs et sur la plupart des terrasses. Les plages de la Croisette sont interdites aux chiens de juin à septembre, mais la Plage de la Bocca et l\'Île Sainte-Marguerite restent accessibles toute l\'année.`,

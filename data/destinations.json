@@ -1543,6 +1543,79 @@
     }
   },
   {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cambridge.jpg",
+    "intro": "Cambridge — England's iconic university city on the Cam — combines vast urban commons (Jesus Green, Midsummer, Coe Fen), riverside punting, and dog-tolerant historic pubs with direct 50-min train access from London King's Cross.",
+    "lat": 52.2053,
+    "lng": 0.1218,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "cannes",
     "name": "Cannes",
     "country": "France",

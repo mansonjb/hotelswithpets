@@ -3354,6 +3354,128 @@
     "slug": "aria-hotel-budapest-by-library-hotel-collection"
   },
   {
+    "id": "cambridge-1",
+    "name": "University Arms Cambridge",
+    "destinationSlug": "cambridge",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2120,
+    "priceFrom": 295,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/university-arms.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "University Arms Cambridge — a five-star Regency hotel facing Parker's Piece — welcomes pets in selected room categories. A pet fee of £35 per night applies, charged at check-in. Up to two pets per room are accepted, with a recommended maximum of 25 kg per pet. Parker's Piece common is at the doorstep and Jesus Green is 10 min on foot. Pets must be on a lead in lobbies; not allowed in the restaurant. Declare your pet when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Parker's Library",
+      "Restaurant"
+    ],
+    "slug": "university-arms-cambridge"
+  },
+  {
+    "id": "cambridge-2",
+    "name": "Hotel du Vin Cambridge",
+    "destinationSlug": "cambridge",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2480,
+    "priceFrom": 210,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hotel-du-vin-cambridge.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel du Vin Cambridge — a Georgian boutique hotel on Trumpington Street, 5 minutes from King's College — welcomes pets in selected ground-floor rooms. A pet fee of £25 per night applies. Up to two pets per room. Coe Fen and Sheep's Green commons are 6 min on foot. Pets on a lead in common areas; not allowed in the bistro. Declare your pet when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Bistro",
+      "Wine cellar"
+    ],
+    "slug": "hotel-du-vin-cambridge"
+  },
+  {
+    "id": "cambridge-3",
+    "name": "Gonville Hotel",
+    "destinationSlug": "cambridge",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3120,
+    "priceFrom": 175,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/gonville.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Gonville Hotel — a family-owned hotel facing Parker's Piece common — welcomes dogs in selected rooms at £20 per night. Up to two dogs per room with a recommended max 20 kg per dog. Parker's Piece is across the road; Jesus Green is 12 min on foot. Cats accepted on prior request. Declare your pet at booking.",
+    "highlights": [
+      "Free WiFi",
+      "On-site parking",
+      "Restaurant"
+    ],
+    "slug": "gonville-hotel"
+  },
+  {
+    "id": "cambridge-4",
+    "name": "Premier Inn Cambridge City Centre (Mill Road)",
+    "destinationSlug": "cambridge",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 4220,
+    "priceFrom": 85,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-cambridge-city-centre-mill-road.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Premier Inn Cambridge City Centre (Mill Road) — a budget chain hotel on Mill Road — welcomes dogs in designated pet rooms. A flat pet fee of £10 per stay applies (not per night). One dog per room is the standard policy; a second dog can be accepted on prior request. Cats are not accepted under standard Premier Inn pet policy.",
+    "highlights": [
+      "Free WiFi",
+      "On-site parking",
+      "Restaurant adjacent"
+    ],
+    "slug": "premier-inn-cambridge-mill-road"
+  },
+  {
+    "id": "cambridge-5",
+    "name": "Holiday Inn Cambridge",
+    "destinationSlug": "cambridge",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3580,
+    "priceFrom": 110,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/holiday-inn-cambridge.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Holiday Inn Cambridge (Impington) — a 3-star hotel 5 km north of the city centre with free parking — welcomes pets at £15 per pet per night. Up to two pets per room are accepted up to 25 kg combined. Histon village green is 8 min on foot. Direct Citi 8 bus to the city centre stops at the door. Declare your pet at booking.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "holiday-inn-cambridge"
+  },
+  {
     "id": "cannes-1",
     "name": "Grand Hyatt Cannes Hôtel Martinez",
     "destinationSlug": "cannes",

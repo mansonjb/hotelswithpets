@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
+    cambridge: {
+      personality: `one of England's most reliably dog-friendly small cities — vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
+      highlight: `the Backs riverside path, Grantchester Meadows and The Orchard tea garden, and the Iron Age hillfort trails of Wandlebury Country Park`,
+      area: `the historic centre around King's Parade, the Mill Road quarter, and the riverside Newnham district`,
+    },
     cannes: {
       personality: 'a glamorous French Riviera city with a surprisingly relaxed dog culture — terraces in Le Suquet, the Marché Forville, and the western beaches all welcome dogs year-round',
       highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
@@ -604,6 +609,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
+    cambridge: {
+      personality: `l'une des petites villes anglaises les plus fiablement dog-friendly — vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
+      highlight: `le sentier riverain des Backs, les prés de Grantchester et le tea garden de The Orchard, et les sentiers du fort de l'âge du fer de Wandlebury Country Park`,
+      area: `le centre historique autour de King's Parade, le quartier de Mill Road et le secteur riverain de Newnham`,
+    },
     cannes: {
       personality: 'une ville glamour de la Côte d\'Azur avec une culture canine étonnamment détendue — les terrasses du Suquet, le quartier du Marché Forville et les plages de l\'ouest accueillent les chiens toute l\'année',
       highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
@@ -1080,6 +1090,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad de gran arquitectura y una escena dog-friendly en auge. Los perros viajan en metro, acceden a la mayoría de los parques y son bienvenidos en los famosos bares en ruinas de Budapest',
       highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
+    },
+    cambridge: {
+      personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly — vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
+      highlight: `el sendero ribereño de los Backs, las praderas de Grantchester y el tea garden de The Orchard, y los senderos del fuerte de la Edad del Hierro de Wandlebury Country Park`,
+      area: `el centro histórico alrededor de King's Parade, el barrio de Mill Road y la zona ribereña de Newnham`,
     },
     cannes: {
       personality: 'una glamurosa ciudad de la Costa Azul con una cultura canina sorprendentemente relajada — las terrazas de Le Suquet, el barrio del Marché Forville y las playas occidentales acogen perros durante todo el año',

@@ -75,6 +75,7 @@ const TARGETS = [
   { slug: 'galway', query: 'Galway Ireland Spanish Arch Long Walk Claddagh harbour colourful houses panorama sunset' },
   { slug: 'cork', query: 'Cork Ireland Saint Fin Barre Cathedral River Lee Georgian skyline panorama sunset' },
   { slug: 'york', query: 'York England city walls York Minster Shambles medieval cobbled street panorama sunset' },
+  { slug: 'cambridge', query: 'Cambridge England Kings College Chapel Backs River Cam punting bridge panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

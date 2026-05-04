@@ -14609,6 +14609,129 @@
     "slug": "hotel-granary-la-suite"
   },
   {
+    "id": "york-1",
+    "name": "The Grand, York",
+    "destinationSlug": "york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2450,
+    "priceFrom": 280,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-grand-york.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "The Grand, York — a five-star Edwardian railway hotel beside the city walls — welcomes pets in selected ground-floor rooms. A pet fee of £35 per night applies, charged at check-in. Up to two pets per room are accepted with no strict weight limit. The city walls are at the doorstep and Museum Gardens are 6 minutes on foot. Pets must be kept on a lead in common areas and are not allowed in the spa or restaurant. Declare your pet when booking to secure a pet-friendly allocation.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Pet welcome treats"
+    ],
+    "slug": "the-grand-york"
+  },
+  {
+    "id": "york-2",
+    "name": "Hotel Indigo York",
+    "destinationSlug": "york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1820,
+    "priceFrom": 165,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hotel-indigo-york.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Indigo York — a design-led IHG boutique on Walmgate just inside the city walls — welcomes pets in selected room categories. A pet fee of £25 per night applies, charged at check-in. Up to two pets per room are accepted, with a recommended maximum of 25 kg per pet. The city walls walk and Rowntree Park are within 10 minutes' stroll. Pets must remain on a lead in lobbies and corridors and are not allowed in the restaurant. Mention your pet at the time of booking.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bicycle hire"
+    ],
+    "slug": "hotel-indigo-york"
+  },
+  {
+    "id": "york-3",
+    "name": "The Principal York",
+    "destinationSlug": "york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 3210,
+    "priceFrom": 210,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-principal-york.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "The Principal York (formerly The Royal York) — a grand Victorian railway hotel facing York Railway Station — welcomes pets in selected ground-floor and garden-wing rooms. A pet fee of £30 per night applies, charged at check-in. The hotel's two-acre garden is dog-friendly and the city walls are 5 minutes on foot. One pet per room with a recommended maximum of 25 kg. Declare your pet when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Two-acre garden",
+      "Restaurant"
+    ],
+    "slug": "the-principal-york"
+  },
+  {
+    "id": "york-4",
+    "name": "Park Inn by Radisson York City Centre",
+    "destinationSlug": "york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 4150,
+    "priceFrom": 85,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/park-inn-york.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Park Inn by Radisson York City Centre — a riverside hotel on the south bank of the Ouse — welcomes pets at a nightly fee of £15 per pet, charged at check-in. Up to two pets per room are accepted up to 25 kg combined. The Ouse riverside walk runs directly past the hotel terrace and Rowntree Park is 8 minutes' walk south. Pets must be kept on a lead in lobbies; not allowed in the restaurant area. Please declare your pet at booking.",
+    "highlights": [
+      "Free WiFi",
+      "Riverside terrace",
+      "Restaurant"
+    ],
+    "slug": "park-inn-by-radisson-york-city-centre"
+  },
+  {
+    "id": "york-5",
+    "name": "Premier Inn York City (Blossom St North)",
+    "destinationSlug": "york",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 3680,
+    "priceFrom": 75,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-york-blossom-street-north.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Premier Inn York City (Blossom St North) — a budget chain hotel just outside Micklegate Bar at the southern entrance to the city walls — welcomes dogs in designated pet rooms. A flat pet fee of £10 per stay (not per night) applies. One dog per room is the standard policy; a second dog can be accepted on prior request. Knavesmire common is 12 minutes south on foot. Cats are not accepted under standard Premier Inn pet policy.",
+    "highlights": [
+      "Free WiFi",
+      "On-site parking (paid)",
+      "Restaurant adjacent"
+    ],
+    "slug": "premier-inn-york-city-blossom-st-north"
+  },
+  {
     "id": "zagreb-1",
     "name": "Esplanade Zagreb Hotel",
     "destinationSlug": "zagreb",

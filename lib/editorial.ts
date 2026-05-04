@@ -482,6 +482,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Park Szczytnicki and the Centennial Hall, the islands of the Odra river, and the lamplit cobbles of Cathedral Island at dusk`,
       area: `the Old Town around the Rynek, the bohemian Nadodrze district, and the Four Denominations Quarter`,
     },
+    york: {
+      personality: `one of England's most reliably dog-friendly cities — a compact medieval core where 80% of pubs welcome leashed dogs, the 5 km city walls walk is free of charge with pets, and direct LNER trains link day-trip dog beaches at Filey, Sandsend and Bridlington`,
+      highlight: `the dog-friendly city walls circuit, the riverside Museum Gardens, and the year-round dog beach at Filey one hour east on the LNER line`,
+      area: `the historic centre inside the walls, the Fossgate quarter, and the Bishopthorpe Road / Knavesmire neighbourhood`,
+    },
     zagreb: {
       personality: 'a relaxed Habsburg-era capital where dogs ride the world\'s shortest funicular, café terraces line pedestrian Tkalčićeva, and 316-hectare Maksimir Park has the city\'s main fenced off-leash zone',
       highlight: 'Maksimir Park, the medieval Upper Town, and the Jarun lake dog-beach sections',
@@ -954,6 +959,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Park Szczytnicki et la Halle du Centenaire, les îles de l'Odra et les pavés éclairés à la lampe à gaz de l'île de la Cathédrale au crépuscule`,
       area: `la Vieille Ville autour du Rynek, le quartier bohème de Nadodrze et le Quartier des Quatre Confessions`,
     },
+    york: {
+      personality: `l'une des villes anglaises les plus fiablement dog-friendly — un cœur médiéval compact où 80 % des pubs accueillent les chiens en laisse, le circuit de 5 km des remparts est gratuit avec un animal, et les trains LNER directs desservent les plages canines de Filey, Sandsend et Bridlington pour la journée`,
+      highlight: `le circuit dog-friendly des remparts, les Museum Gardens en bord de rivière, et la plage canine ouverte toute l'année à Filey, à une heure à l'est sur la ligne LNER`,
+      area: `le centre historique à l'intérieur des remparts, le quartier de Fossgate et le secteur de Bishopthorpe Road / Knavesmire`,
+    },
     zagreb: {
       personality: `une capitale d'époque habsbourgeoise détendue où les chiens prennent le plus court funiculaire public au monde, où les terrasses bordent la rue piétonne Tkalčićeva, et où le parc Maksimir (316 ha) abrite la principale zone clôturée sans laisse de la ville`,
       highlight: `le parc Maksimir, la Ville Haute médiévale et les sections plage canine du lac Jarun`,
@@ -1425,6 +1435,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `una de las ciudades de Polonia más genuinamente amantes de los perros, donde las terrazas del colorido Rynek acogen a los perros sin problemas, el transporte público es gratis para todas las mascotas y unas cuarenta zonas valladas sin correa están repartidas por la ciudad`,
       highlight: `el Park Szczytnicki y el Pabellón del Centenario, las islas del río Odra y los adoquines iluminados por farolas de gas de la Isla de la Catedral al atardecer`,
       area: `el Casco Antiguo alrededor del Rynek, el bohemio barrio de Nadodrze y el Barrio de las Cuatro Confesiones`,
+    },
+    york: {
+      personality: `una de las ciudades inglesas más fiablemente dog-friendly — un núcleo medieval compacto donde el 80 % de los pubs admite perros con correa, el circuito de 5 km de las murallas es gratis con mascota, y los trenes directos LNER conectan con las playas caninas de Filey, Sandsend y Bridlington para excursiones de un día`,
+      highlight: `el circuito dog-friendly de las murallas, los Museum Gardens junto al río, y la playa canina abierta todo el año en Filey, a una hora al este por la línea LNER`,
+      area: `el centro histórico dentro de las murallas, el barrio de Fossgate y la zona de Bishopthorpe Road / Knavesmire`,
     },
     zagreb: {
       personality: `una capital relajada de época habsbúrgica donde los perros suben en el funicular público más corto del mundo, las terrazas bordean la calle peatonal Tkalčićeva y el parque Maksimir (316 ha) alberga la principal zona vallada sin correa de la ciudad`,

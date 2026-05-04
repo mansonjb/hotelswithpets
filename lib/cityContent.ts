@@ -10299,6 +10299,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  york: {
+    history: {
+      fr: `York, fondée par les Romains en 71 ap. J.-C. sous le nom d'Eboracum, fut tour à tour capitale de la Bretagne romaine, ville viking de Jorvik au IXe siècle, siège ecclésiastique normand puis cité médiévale prospère grâce à la laine et au commerce fluvial. Les remparts médiévaux longs de 5 km — les plus complets d'Angleterre — encerclent un cœur compact où coexistent la cathédrale gothique (York Minster, plus grande nef médiévale d'Europe du Nord), les ruelles de bouchers des Shambles, et les colombages héritiers de Jorvik. Pour les voyageurs avec chien, York est l'un des city-breaks britanniques les plus accessibles : centre marchable de bout en bout en 25 min, culture pub où environ 80 % des établissements accueillent le chien en laisse, parcs urbains à moins d'1 km des remparts, et trains LNER directs depuis Londres (1h50) ou Édimbourg (2h30).`,
+      en: `York, founded by the Romans in 71 AD as Eboracum, was successively capital of Roman Britain, the Viking city of Jorvik in the 9th century, a Norman ecclesiastical seat, and a prosperous medieval town built on wool and river trade. The 5 km medieval walls — the most complete circuit in England — enclose a compact core where the Gothic cathedral (York Minster, northern Europe's largest medieval nave), the butchers' alleys of The Shambles, and the timber-framed houses inherited from Jorvik all coexist. For travellers with a dog, York is one of the most accessible British city-breaks: a walkable centre crossable end-to-end in 25 min, a pub culture where about 80% of venues accept leashed dogs, urban parks within 1 km of the walls, and direct LNER trains from London (1h50) or Edinburgh (2h30).`,
+      es: `York, fundada por los romanos en el 71 d. C. con el nombre de Eboracum, fue sucesivamente capital de la Britania romana, la ciudad vikinga de Jorvik en el siglo IX, sede eclesiástica normanda y próspera ciudad medieval gracias a la lana y al comercio fluvial. Las murallas medievales de 5 km — el circuito más completo de Inglaterra — encierran un núcleo compacto donde conviven la catedral gótica (York Minster, la mayor nave medieval del norte de Europa), los callejones de carniceros de The Shambles y las casas de entramado heredadas de Jorvik. Para los viajeros con perro, York es uno de los city-breaks británicos más accesibles: centro caminable de extremo a extremo en 25 min, cultura del pub donde alrededor del 80 % de los locales admite perros con correa, parques urbanos a menos de 1 km de las murallas, y trenes LNER directos desde Londres (1h50) o Edimburgo (2h30).`,
+    },
+    sights: [
+      { name: 'York City Walls', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Le circuit médiéval le plus complet d'Angleterre — 5 km de chemins de ronde et quatre portes (bars), gratuit, en laisse, ouvert de l'aube à la tombée du jour.`,
+        en: `England's most complete medieval circuit — 5 km of ramparts and four bars (gates), free, leashed, open dawn to dusk.`,
+        es: `El circuito medieval más completo de Inglaterra — 5 km de adarves y cuatro puertas (bars), gratis, con correa, abierto del amanecer al anochecer.`,
+      }},
+      { name: 'The Shambles', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Rue médiévale de bouchers, la plus photographiée de Grande-Bretagne, inspirante pour Diagon Alley. Ouverte 24h/24, dog-friendly partout.`,
+        en: `Medieval butchers' street — Britain's most-photographed street and an inspiration for Diagon Alley. Open 24/7, dog-friendly throughout.`,
+        es: `Calle medieval de carniceros — la más fotografiada de Gran Bretaña e inspiración para Diagon Alley. Abierta 24/7, dog-friendly en toda su longitud.`,
+      }},
+      { name: 'Museum Gardens', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin botanique de 4 ha au cœur de York, sur le terrain de l'abbaye Saint Mary en ruine. Paons en liberté, entrée gratuite, chiens en laisse.`,
+        en: `A 4-hectare botanical garden in the heart of York, on the grounds of the ruined St Mary's Abbey. Free-roaming peacocks, free entry, leashed dogs.`,
+        es: `Jardín botánico de 4 ha en el corazón de York, en el terreno de la arruinada abadía de Saint Mary. Pavos reales en libertad, entrada gratis, perros con correa.`,
+      }},
+      { name: 'Knavesmire', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Vaste commune de 100 ha entourant l'hippodrome — pâturage ancestral, chiens sans laisse toute l'année hors jours de course.`,
+        en: `A vast 100-hectare common encircling the racecourse — ancient pasture, off-leash year-round outside race days.`,
+        es: `Vasto comunal de 100 ha que rodea el hipódromo — pastizal ancestral, sin correa todo el año fuera de los días de carrera.`,
+      }},
+      { name: 'Rowntree Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc mémorial de 8 ha de 1921 offert par la famille Rowntree — pelouses formelles, étang, café associatif et bord de rivière dog-friendly.`,
+        en: `An 8-hectare 1921 memorial park gifted by the Rowntree family — formal lawns, duck pond, community café and a dog-friendly riverside section.`,
+        es: `Parque conmemorativo de 8 ha de 1921 donado por la familia Rowntree — céspedes formales, estanque de patos, café asociativo y sección ribereña dog-friendly.`,
+      }},
+      { name: 'York Minster Precinct', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Le pourtour extérieur de la cathédrale (Dean's Park, Minster Yard) est dog-friendly avec chiens en laisse — parfait pour la photo signature de la ville. Intérieur réservé aux chiens d'assistance.`,
+        en: `The outdoor precinct of the cathedral (Dean's Park, Minster Yard) is dog-friendly with leashed dogs — perfect for the city's signature photograph. Interior is for assistance dogs only.`,
+        es: `El recinto exterior de la catedral (Dean's Park, Minster Yard) es dog-friendly con perros con correa — perfecto para la foto emblemática de la ciudad. El interior es solo para perros de asistencia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Environ 80 % des pubs de York accueillent les chiens en laisse au moins en salle de bar — The Blue Bell, The Hop, The Maltings et The Golden Ball sont dog-friendly sans condition.`,
+        `Les remparts forment un circuit de 5 km gratuit avec chiens en laisse — la balade complète prend 1h45 à un rythme tranquille.`,
+        `Les bus First York et les trains LNER acceptent gratuitement jusqu'à 2 chiens par passager — utile pour les excursions à Filey, Whitby ou Castle Howard.`,
+        `Vétérinaire d'urgence 24h/24 : Vets Now York, 3 Audax Close (+44 1904 222400) — appelez avant de venir.`,
+        `Le marché de Noël de York (fin novembre - 23 décembre) crée une foule très dense dans Les Shambles — préférez avant 10h ou après 20h avec un chien.`,
+      ],
+      en: [
+        `Around 80% of York pubs welcome leashed dogs at least in the bar area — The Blue Bell, The Hop, The Maltings and The Golden Ball are unconditionally dog-friendly.`,
+        `The city walls form a free 5 km circuit with leashed dogs — a full loop takes about 1h45 at a leisurely pace.`,
+        `First York buses and LNER trains accept up to 2 dogs free per passenger — useful for day trips to Filey, Whitby or Castle Howard.`,
+        `24/7 emergency vet: Vets Now York, 3 Audax Close (+44 1904 222400) — call before driving in.`,
+        `York Christmas Market (late November - 23 December) creates very dense crowds in The Shambles — go before 10:00 or after 20:00 with a dog.`,
+      ],
+      es: [
+        `Alrededor del 80 % de los pubs de York admite perros con correa al menos en la zona de barra — The Blue Bell, The Hop, The Maltings y The Golden Ball son dog-friendly sin condiciones.`,
+        `Las murallas forman un circuito gratuito de 5 km con perros con correa — el bucle completo lleva unas 1h45 a paso tranquilo.`,
+        `Los buses First York y los trenes LNER admiten hasta 2 perros gratis por pasajero — útil para excursiones a Filey, Whitby o Castle Howard.`,
+        `Veterinario de urgencias 24/7: Vets Now York, 3 Audax Close (+44 1904 222400) — llama antes de ir.`,
+        `El mercado navideño de York (finales de noviembre - 23 diciembre) crea multitudes muy densas en The Shambles — ve antes de las 10:00 o después de las 20:00 con perro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : puce ISO + vaccin antirabique en cours + GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant l'arrivée. Pas besoin de passeport européen pour entrer au UK.`,
+        `Pour le retour vers l'UE : traitement contre l'echinococcose (ténia) administré par un vétérinaire 24h-120h avant l'arrivée — obligatoire pour Irlande, Finlande, Malte et Norvège.`,
+        `Trains LNER directs : London King's Cross 1h50, Édimbourg 2h30, Newcastle 1h, Durham 45 min — chiens gratuits jusqu'à 2 par passager.`,
+        `L'aéroport de Leeds Bradford (LBA) est à 1h en voiture ; Manchester Airport (MAN) à 1h30 — tous deux acceptent les chiens en cabine sur certaines compagnies.`,
+        `Le festival JORVIK Viking (février) et la York Races (mai-octobre) créent des week-ends très chargés — réservez l'hôtel pet-friendly 6 semaines à l'avance.`,
+      ],
+      en: [
+        `From the EU: ISO microchip + valid rabies vaccination + GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of arrival. No EU pet passport required to enter the UK.`,
+        `For return to the EU: tapeworm treatment (echinococcosis) administered by a vet 24h-120h before arrival — mandatory for Ireland, Finland, Malta and Norway.`,
+        `Direct LNER trains: London King's Cross 1h50, Edinburgh 2h30, Newcastle 1h, Durham 45 min — dogs free up to 2 per passenger.`,
+        `Leeds Bradford Airport (LBA) is 1h by car; Manchester Airport (MAN) is 1h30 — both accept in-cabin dogs on selected carriers.`,
+        `JORVIK Viking Festival (February) and York Races (May-October) create very busy weekends — book pet-friendly hotels 6 weeks ahead.`,
+      ],
+      es: [
+        `Desde la UE: microchip ISO + vacunación antirrábica vigente + GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos a la llegada. No se exige pasaporte europeo para entrar al UK.`,
+        `Para volver a la UE: tratamiento de tenia (equinococosis) administrado por un veterinario 24h-120h antes de la llegada — obligatorio para Irlanda, Finlandia, Malta y Noruega.`,
+        `Trenes LNER directos: London King's Cross 1h50, Edimburgo 2h30, Newcastle 1h, Durham 45 min — perros gratis hasta 2 por pasajero.`,
+        `El aeropuerto de Leeds Bradford (LBA) está a 1h en coche; Manchester Airport (MAN) a 1h30 — ambos admiten perros en cabina en algunas compañías.`,
+        `El festival JORVIK Viking (febrero) y las York Races (mayo-octubre) generan fines de semana muy llenos — reserva el hotel pet-friendly con 6 semanas de antelación.`,
+      ],
+    },
+  },
+
   zagreb: {
     history: {
       fr: `Zagreb est née de la fusion en 1850 de deux bourgs médiévaux distincts perchés sur des collines voisines : Kaptol, le siège ecclésiastique fortifié autour de la cathédrale, et Gradec (ou Gornji Grad), le bourg royal libre dont les remparts abritaient marchands et artisans. La frontière entre les deux passait par l'actuelle rue Tkalčićeva, jadis un torrent et aujourd'hui le couloir piéton et café le plus animé de la ville. Capitale de la Croatie depuis l'indépendance de 1991, Zagreb a conservé son urbanisme habsbourgeois — la « Lenuci horseshoe » de la Ville Basse aligne sept squares verts en fer à cheval — tout en se réinventant comme métropole détendue, marchable et étonnamment dog-friendly. Les chiens sont une présence quotidienne sur les terrasses, dans les transports publics et dans les quatre grands parcs urbains qui encerclent le centre.`,

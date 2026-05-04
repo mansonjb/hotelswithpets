@@ -72,6 +72,7 @@ const TARGETS = [
   { slug: 'dresden', query: 'Dresden Germany Frauenkirche Brühlsche Terrasse Elbe river Canaletto skyline sunset panorama' },
   { slug: 'aarhus', query: 'Aarhus Denmark ARoS rainbow rooftop Den Gamle By harbour panorama sunset' },
   { slug: 'innsbruck', query: 'Innsbruck Austria Goldenes Dachl Nordkette Alps skyline panorama sunset' },
+  { slug: 'galway', query: 'Galway Ireland Spanish Arch Long Walk Claddagh harbour colourful houses panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

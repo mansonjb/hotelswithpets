@@ -176,6 +176,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
+    galway: {
+      personality: `the bohemian capital of Ireland's Wild Atlantic Way, where pubs welcome dogs in their snugs, the Salthill promenade fills with leashed pets at sunset, and Connemara's beaches and bogs lie 30 minutes west`,
+      highlight: `the 2 km Salthill Promenade, Silver Strand off-leash beach, and the Spanish Arch + Long Walk waterfront`,
+      area: `the Latin Quarter, the West End, and Salthill on the bay`,
+    },
     geneva: {
       personality: 'one of Europe\'s most pet-welcoming international capitals — Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
       highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
@@ -639,6 +644,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
+    galway: {
+      personality: `la capitale bohème du Wild Atlantic Way irlandais, où les pubs accueillent les chiens dans leurs snugs, la promenade de Salthill se remplit de chiens en laisse au coucher du soleil, et les plages et tourbières du Connemara sont à 30 minutes à l'ouest`,
+      highlight: `la promenade de Salthill (2 km), la plage sans laisse de Silver Strand et le front de mer Spanish Arch + Long Walk`,
+      area: `le Latin Quarter, le West End et Salthill au bord de la baie`,
+    },
     geneva: {
       personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe — la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
       highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
@@ -1100,6 +1110,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capital financiera más verde de Alemania — el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
+    },
+    galway: {
+      personality: `la capital bohemia del Wild Atlantic Way irlandés, donde los pubs admiten perros en sus snugs, el paseo de Salthill se llena de perros con correa al atardecer, y las playas y turberas de Connemara están a 30 minutos al oeste`,
+      highlight: `el paseo de Salthill (2 km), la playa sin correa de Silver Strand y el frente marítimo Spanish Arch + Long Walk`,
+      area: `el Latin Quarter, el West End y Salthill junto a la bahía`,
     },
     geneva: {
       personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa — la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',

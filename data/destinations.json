@@ -2275,6 +2275,79 @@
     }
   },
   {
+    "slug": "galway",
+    "name": "Galway",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/galway.jpg",
+    "intro": "Galway's bohemian Latin Quarter, Atlantic beaches, and pub-centred culture extend a famously warm welcome to dogs along the Wild Atlantic Way.",
+    "lat": 53.2707,
+    "lng": -9.0568,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "geneva",
     "name": "Geneva",
     "country": "Switzerland",

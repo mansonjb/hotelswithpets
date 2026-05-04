@@ -4970,6 +4970,131 @@
     "slug": "25hours-hotel-frankfurt-the-trip"
   },
   {
+    "id": "galway-1",
+    "name": "The Galmont Hotel & Spa",
+    "destinationSlug": "galway",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4218,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/radissonblugalway.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "The Galmont Hotel & Spa welcomes pets in selected ground-floor rooms. A pet fee of €25 per night applies, charged at check-in. Pets are accepted up to 25 kg; one pet per room maximum. Eyre Square (1 hectare of central lawns) and South Park Claddagh are within 10 minutes' walk. Pets must be kept on a lead in common areas and are not allowed unattended in rooms for extended periods. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ],
+    "slug": "the-galmont-hotel-spa"
+  },
+  {
+    "id": "galway-2",
+    "name": "Glenlo Abbey Hotel & Estate",
+    "destinationSlug": "galway",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1872,
+    "priceFrom": 295,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/glenlo-abbey.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Glenlo Abbey Hotel welcomes well-behaved pets in the estate's lodge accommodations on its 138-acre golf-and-woodland grounds. A pet fee of €30 per night applies, charged at check-in. Pets are accepted up to 30 kg; up to two pets per room maximum. The estate's woodland trails and the Lough Corrib lakeshore are accessible directly from the property — leashed dogs welcome throughout the grounds. Pets are not allowed in the main dining rooms or spa. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "glenlo-abbey-hotel-estate"
+  },
+  {
+    "id": "galway-3",
+    "name": "The Hardiman",
+    "destinationSlug": "galway",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1054,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/great-southern-hotel-galway.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "The Hardiman, a landmark Victorian property on Eyre Square in central Galway, welcomes pets in selected room categories. A pet fee of €25 per night applies, charged at check-in. Pets are accepted up to 20 kg; one pet per room maximum. Eyre Square sits directly outside the hotel; the Latin Quarter and Spanish Arch are within 10 minutes' walk. Pets must be kept on a lead in common areas and are not allowed in the dining rooms. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "the-hardiman"
+  },
+  {
+    "id": "galway-4",
+    "name": "Salthill Hotel",
+    "destinationSlug": "galway",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2965,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/salthill.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Salthill Hotel, directly on the Salthill Promenade overlooking Galway Bay, welcomes pets in selected sea-view rooms. A pet fee of €20 per night applies, charged at check-in. Pets are accepted up to 25 kg; one pet per room maximum. The 2 km Salthill Promenade and Grattan Beach (leashed dogs year-round) are right outside the hotel; Silver Strand off-leash beach is 10 minutes by car. Pets must be kept on a lead in common areas and are not allowed in the leisure centre. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Indoor pool"
+    ],
+    "slug": "salthill-hotel"
+  },
+  {
+    "id": "galway-5",
+    "name": "The Connacht Hotel",
+    "destinationSlug": "galway",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "no-pet-fee"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3741,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-connacht.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Connacht Hotel welcomes pets at no extra charge in selected ground-floor rooms with garden access. Pets stay completely free of charge. No extra fee applies. Pets are accepted up to 25 kg; one pet per room maximum. The hotel grounds open onto a quiet residential walking area; Ballyloughane Beach (leashed dogs) is 10 minutes by car. Pets must be kept on a lead in common areas and are not allowed in the leisure club or restaurants. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Indoor pool"
+    ],
+    "slug": "the-connacht-hotel"
+  },
+  {
     "id": "geneva-1",
     "name": "Hotel d'Angleterre Geneva",
     "destinationSlug": "geneva",

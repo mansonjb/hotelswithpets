@@ -3403,6 +3403,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  galway: {
+    history: {
+      fr: `Galway, fondée par les Anglo-Normands au XIIIe siècle au point de rencontre du fleuve Corrib et de la baie atlantique, fut pendant cinq siècles le port maritime le plus prospère de la côte ouest irlandaise — surnommée la « Ville des Tribus » d'après les quatorze familles marchandes qui la dirigeaient. Aujourd'hui capitale de la province du Connacht avec 85 000 habitants, c'est avant tout une ville étudiante (25 000 étudiants à l'University of Galway) et le cœur bohème de l'Irlande gaélophone : la rue piétonne du Latin Quarter — Shop Street, Quay Street, High Street — résonne en permanence de musique trad live, et 30 % des habitants du Gaeltacht voisin parlent encore l'irlandais au quotidien. Pour les voyageurs avec chien, Galway est un des hubs les plus accueillants d'Europe : la promenade de Salthill (2 km le long de la baie) accepte les chiens en laisse toute l'année, la plage de Silver Strand à 10 minutes en voiture est sans laisse hors saison, et le Connemara — 2 000 km² de tourbières, montagnes et lochs sans clôtures — commence à 30 minutes à l'ouest. Les pubs traditionnels (Tigh Neachtain, Crane Bar) accueillent les chiens dans leurs snugs en bois, et Bus Éireann + Iarnród Éireann transportent gratuitement les chiens en laisse muselés. Seule contrainte : l'Irlande exige le traitement contre le ténia (échinococcose) entre 24h et 120h avant l'arrivée pour les chiens venant d'un pays UE non insulaire.`,
+      en: `Galway — founded by the Anglo-Normans in the 13th century where the River Corrib meets the Atlantic bay — was for five centuries the most prosperous seaport on Ireland's west coast, nicknamed the "City of the Tribes" after the fourteen merchant families who ran it. Today the capital of Connacht province with 85,000 inhabitants, it is above all a student city (25,000 at the University of Galway) and the bohemian heart of Gaelic-speaking Ireland: the Latin Quarter pedestrian street — Shop Street, Quay Street, High Street — rings constantly with live trad music, and 30% of the residents of the neighbouring Gaeltacht still speak Irish daily. For travellers with a dog, Galway is one of Europe's most welcoming hubs: the 2 km Salthill Promenade along the bay accepts leashed dogs year-round, Silver Strand beach 10 minutes' drive away is off-leash out of season, and Connemara — 2,000 km² of bog, mountain and unfenced lochs — starts 30 minutes to the west. Traditional pubs (Tigh Neachtain, Crane Bar) welcome dogs in their wooden snugs, and Bus Éireann + Iarnród Éireann carry leashed and muzzled dogs free of charge. The only constraint: Ireland requires tapeworm (echinococcus) treatment between 24h and 120h before arrival for dogs coming from a non-island EU country.`,
+      es: `Galway — fundada por los anglo-normandos en el siglo XIII donde el río Corrib se encuentra con la bahía atlántica — fue durante cinco siglos el puerto marítimo más próspero de la costa oeste irlandesa, apodada la «Ciudad de las Tribus» por las catorce familias mercantes que la dirigían. Hoy capital de la provincia de Connacht con 85.000 habitantes, es ante todo una ciudad estudiantil (25.000 alumnos en la University of Galway) y el corazón bohemio de la Irlanda gaelófona: la calle peatonal del Latin Quarter — Shop Street, Quay Street, High Street — resuena permanentemente con música trad en vivo, y el 30% de los habitantes del Gaeltacht vecino aún habla irlandés a diario. Para los viajeros con perro, Galway es uno de los hubs más acogedores de Europa: el paseo de Salthill (2 km a lo largo de la bahía) admite perros con correa todo el año, la playa de Silver Strand a 10 minutos en coche es sin correa fuera de temporada, y Connemara — 2.000 km² de turberas, montañas y lochs sin vallar — comienza a 30 minutos al oeste. Los pubs tradicionales (Tigh Neachtain, Crane Bar) admiten perros en sus snugs de madera, y Bus Éireann + Iarnród Éireann transportan gratis perros con correa y bozal. Única restricción: Irlanda exige tratamiento contra la tenia (equinococosis) entre 24h y 120h antes de la llegada para perros que vengan de un país UE no insular.`,
+    },
+    sights: [
+      {
+        name: 'Salthill Promenade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade emblématique de 2 km le long de la baie de Galway, du Claddagh au plongeoir Blackrock. Tradition locale : « kicking the wall » au bout. Chiens en laisse toute l'année, bancs et fontaines.`,
+          en: `Iconic 2 km seafront promenade along Galway Bay, from the Claddagh to the Blackrock diving boards. Local tradition: "kicking the wall" at the far end. Leashed dogs year-round, benches and water fountains.`,
+          es: `Paseo emblemático de 2 km a lo largo de la bahía de Galway, desde el Claddagh hasta el trampolín de Blackrock. Tradición local: «kicking the wall» al final. Perros con correa todo el año, bancos y fuentes.`,
+        },
+      },
+      {
+        name: 'Silver Strand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage de sable blanc Blue Flag à 10 min en voiture à Barna. Chiens autorisés sans laisse hors période 1er juin–15 septembre (où la laisse est obligatoire). Eaux peu profondes pour la baignade canine.`,
+          en: `Blue Flag white-sand beach 10 min by car in Barna. Dogs allowed off-leash outside the 1 June–15 September period (when leashes are mandatory). Shallow waters for dog swimming.`,
+          es: `Playa de arena blanca Blue Flag a 10 min en coche en Barna. Perros permitidos sin correa fuera del periodo 1 jun–15 sep (cuando la correa es obligatoria). Aguas poco profundas para baño canino.`,
+        },
+      },
+      {
+        name: 'Spanish Arch + Long Walk',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Vestige des fortifications de 1584 à l'embouchure du Corrib, prolongé par la rangée de maisons colorées de Long Walk. Espace public ouvert, chiens en laisse bienvenus, point de départ de la promenade fluviale.`,
+          en: `Surviving fragment of the 1584 city walls at the mouth of the Corrib, extended by the colourful Long Walk row of houses. Open public space, leashed dogs welcome, starting point of the riverside walk.`,
+          es: `Vestigio de las murallas de 1584 en la desembocadura del Corrib, prolongado por la fila de casas coloridas de Long Walk. Espacio público abierto, perros con correa bienvenidos, inicio del paseo fluvial.`,
+        },
+      },
+      {
+        name: 'South Park Claddagh',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Grand parc côtier de 12 hectares dans le quartier historique du Claddagh, face à la baie. Chiens en laisse, terrains de sport, sentier qui rejoint la promenade de Salthill.`,
+          en: `Large 12-hectare coastal park in the historic Claddagh district, facing the bay. Leashed dogs, sports pitches, footpath linking up to the Salthill Promenade.`,
+          es: `Gran parque costero de 12 hectáreas en el histórico barrio del Claddagh, frente a la bahía. Perros con correa, campos deportivos, senda que enlaza con el paseo de Salthill.`,
+        },
+      },
+      {
+        name: 'Connemara National Park',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `2 957 hectares de tourbières, prairies et montagnes (Diamond Hill 442 m) à 75 km à l'ouest. Chiens en laisse obligatoire — moutons en pâture libre. Centre des visiteurs à Letterfrack.`,
+          en: `2,957 hectares of bogland, grassland and mountains (Diamond Hill 442 m) 75 km to the west. Dogs on leash mandatory — free-grazing sheep. Visitor centre at Letterfrack.`,
+          es: `2.957 hectáreas de turberas, praderas y montañas (Diamond Hill 442 m) a 75 km al oeste. Perros con correa obligatoria — ovejas en pastoreo libre. Centro de visitantes en Letterfrack.`,
+        },
+      },
+      {
+        name: 'Eyre Square',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Place centrale de Galway (John F. Kennedy Memorial Park), 1 hectare de pelouses et fontaines au cœur de la ville. Chiens en laisse, point de départ idéal pour explorer le Latin Quarter.`,
+          en: `Galway's central square (John F. Kennedy Memorial Park), 1 hectare of lawns and fountains at the heart of the city. Leashed dogs, ideal starting point to explore the Latin Quarter.`,
+          es: `Plaza central de Galway (John F. Kennedy Memorial Park), 1 hectárea de céspedes y fuentes en el corazón de la ciudad. Perros con correa, punto de partida ideal para explorar el Latin Quarter.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Bus Éireann et trains Iarnród Éireann acceptent les chiens en laisse et muselés gratuitement, à la discrétion du chauffeur/contrôleur.`,
+        `Plages de Galway (Silver Strand, Grattan, Salthill) : laisse obligatoire 1er juin–15 septembre 11h-18h, sans laisse le reste du temps.`,
+        `Pubs traditionnels du Latin Quarter (Tigh Neachtain, Crane Bar, The Quays) accueillent les chiens dans leurs snugs en bois — appelez avant pour confirmer.`,
+        `Cliniques d'urgence : Galway Veterinary Specialists (091 765 555, 24h/24 sur rdv) et Anicare Galway Veterinary Hospital (091 752 022).`,
+        `Vent atlantique constant à Salthill (rafales 50-70 km/h en hiver) : harnais préférable au collier pour les petits chiens sur la promenade exposée.`,
+      ],
+      en: [
+        `Bus Éireann and Iarnród Éireann trains accept leashed and muzzled dogs free of charge, at the driver/conductor's discretion.`,
+        `Galway beaches (Silver Strand, Grattan, Salthill): leash mandatory 1 June–15 September 11am-6pm, off-leash the rest of the time.`,
+        `Traditional Latin Quarter pubs (Tigh Neachtain, Crane Bar, The Quays) welcome dogs in their wooden snugs — call ahead to confirm.`,
+        `Emergency clinics: Galway Veterinary Specialists (091 765 555, 24/7 by appointment) and Anicare Galway Veterinary Hospital (091 752 022).`,
+        `Constant Atlantic wind on Salthill (50-70 km/h gusts in winter): a harness is preferable to a collar for small dogs on the exposed promenade.`,
+      ],
+      es: [
+        `Bus Éireann y trenes Iarnród Éireann admiten perros con correa y bozal gratis, a discreción del conductor/revisor.`,
+        `Playas de Galway (Silver Strand, Grattan, Salthill): correa obligatoria 1 jun–15 sep 11h-18h, sin correa el resto del tiempo.`,
+        `Pubs tradicionales del Latin Quarter (Tigh Neachtain, Crane Bar, The Quays) admiten perros en sus snugs de madera — llama antes para confirmar.`,
+        `Clínicas de urgencias: Galway Veterinary Specialists (091 765 555, 24/7 con cita) y Anicare Galway Veterinary Hospital (091 752 022).`,
+        `Viento atlántico constante en Salthill (rachas 50-70 km/h en invierno): arnés preferible al collar para perros pequeños en el paseo expuesto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée en Irlande : passeport européen + traitement antiténiacide (échinococcose) administré entre 24h et 120h avant l'arrivée par un vétérinaire UE, consigné dans le passeport.`,
+        `Aéroport de Shannon (SNN) à 90 km au sud (1h en voiture) ; Dublin (DUB) à 200 km à l'est (2h30 train Iarnród Éireann avec chien gratuit en laisse).`,
+        `4 races interdites en Irlande sans muselière + laisse courte (≤2m) en public : Pit Bull Terrier, Bull Mastiff, Dobermann, Rottweiler — applicable dans tous les espaces publics y compris la promenade de Salthill.`,
+        `Festival de Galway International Arts (mi-juillet) sature les hôtels — réservez 4 mois à l'avance ou évitez la dernière semaine de juillet.`,
+        `Climat océanique : prévoyez serviette absorbante et imperméable pour chien — il pleut en moyenne 225 jours/an sur la côte ouest irlandaise.`,
+      ],
+      en: [
+        `Entry to Ireland: EU pet passport + tapeworm (echinococcus) treatment administered between 24h and 120h before arrival by an EU vet, recorded in the passport.`,
+        `Shannon Airport (SNN) 90 km south (1h drive); Dublin (DUB) 200 km east (2h30 by Iarnród Éireann train with leashed dog free).`,
+        `4 breeds restricted in Ireland — must wear muzzle + short leash (≤2m) in public: Pit Bull Terrier, Bull Mastiff, Dobermann, Rottweiler — applies in all public spaces including the Salthill Promenade.`,
+        `Galway International Arts Festival (mid-July) saturates hotels — book 4 months ahead or avoid the last week of July.`,
+        `Oceanic climate: pack an absorbent towel and a dog raincoat — it rains on average 225 days/year on Ireland's west coast.`,
+      ],
+      es: [
+        `Entrada a Irlanda: pasaporte europeo + tratamiento antitenia (equinococosis) administrado entre 24h y 120h antes de la llegada por un veterinario UE, registrado en el pasaporte.`,
+        `Aeropuerto de Shannon (SNN) a 90 km al sur (1h en coche); Dublín (DUB) a 200 km al este (2h30 en tren Iarnród Éireann con perro con correa gratis).`,
+        `4 razas restringidas en Irlanda — deben llevar bozal + correa corta (≤2m) en público: Pit Bull Terrier, Bull Mastiff, Dóberman, Rottweiler — se aplica en todos los espacios públicos incluido el paseo de Salthill.`,
+        `Festival Internacional de las Artes de Galway (mediados de julio) satura los hoteles — reserva con 4 meses de antelación o evita la última semana de julio.`,
+        `Clima oceánico: lleva una toalla absorbente y un impermeable para perro — llueve una media de 225 días/año en la costa oeste irlandesa.`,
+      ],
+    },
+  },
+
   geneva: {
     history: {
       fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe — siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande en français qu'en anglais, italien ou portugais — y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade — le bassin lacustre coiffé du Jet d'Eau de 140 mètres — relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports — la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, en plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,

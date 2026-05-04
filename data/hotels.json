@@ -3919,6 +3919,130 @@
     "slug": "hotel-maestre"
   },
   {
+    "id": "cork-1",
+    "name": "The Imperial Hotel Cork",
+    "destinationSlug": "cork",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3892,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/imperialcork.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "The Imperial Hotel Cork — a landmark Georgian property on South Mall — welcomes pets in selected room categories. A pet fee of €25 per night applies, charged at check-in. Pets are accepted up to 20 kg; one pet per room maximum. Fitzgerald's Park and the Mardyke walkway are within 15 minutes' walk; the Marina riverside walk starts at the back of the hotel. Pets must be kept on a lead in common areas and are not allowed in the dining rooms or spa. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free WiFi",
+      "Spa and wellness centre",
+      "Restaurant"
+    ],
+    "slug": "the-imperial-hotel-cork"
+  },
+  {
+    "id": "cork-2",
+    "name": "Hayfield Manor Hotel",
+    "destinationSlug": "cork",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1456,
+    "priceFrom": 365,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/hayfield-manor.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Hayfield Manor — Cork's only 5-star country house hotel, on a 2-acre walled garden adjacent to University College Cork — welcomes pets in selected garden-view rooms. A pet fee of €35 per night applies, charged at check-in. Pets are accepted up to 25 kg; one pet per room maximum. The hotel's private walled garden is open to leashed dogs; Fitzgerald's Park and the Mardyke walkway are 5 minutes' walk away. Pets are not allowed in the spa or main restaurants. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ],
+    "slug": "hayfield-manor-hotel"
+  },
+  {
+    "id": "cork-3",
+    "name": "The Montenotte Hotel",
+    "destinationSlug": "cork",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2731,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-montenotte.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "The Montenotte Hotel, perched on the slopes north of Cork city with panoramic Lee valley views, welcomes pets in selected garden-suite rooms. A pet fee of €30 per night applies, charged at check-in. Pets are accepted up to 25 kg; up to two pets per room maximum. The hotel's private Victorian gardens (1.5 acres) are open to leashed dogs throughout; Bellevue Park is 10 minutes' walk down the hill. Pets are not allowed in the cinema, spa or restaurants. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ],
+    "slug": "the-montenotte-hotel"
+  },
+  {
+    "id": "cork-4",
+    "name": "Maryborough Hotel & Spa",
+    "destinationSlug": "cork",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 4127,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/maryborough-house.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Maryborough Hotel & Spa — an 18th-century mansion on 14 acres of woodland gardens in Douglas, 6 km south of Cork city — welcomes pets in selected courtyard-view rooms. A pet fee of €25 per night applies, charged at check-in. Pets are accepted up to 25 kg; one pet per room maximum. The 14-acre estate is open to leashed dogs throughout, with marked walking trails through the woodland and herb gardens. Pets are not allowed in the spa, leisure centre or restaurants. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Free private parking",
+      "Free WiFi",
+      "Spa and wellness centre"
+    ],
+    "slug": "maryborough-hotel-spa"
+  },
+  {
+    "id": "cork-5",
+    "name": "The River Lee Hotel",
+    "destinationSlug": "cork",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 5263,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ie/dooleyriverlee.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "The River Lee Hotel — directly on the south channel of the River Lee at the western edge of Cork city centre — welcomes pets in selected ground-floor rooms. A pet fee of €25 per night applies, charged at check-in. Pets are accepted up to 20 kg; one pet per room maximum. Fitzgerald's Park is across the river (5 minutes by footbridge); the Mardyke walkway runs alongside the hotel. Pets must be kept on a lead in common areas and are not allowed in the leisure centre or restaurants. Please declare your pet at the time of booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Indoor pool"
+    ],
+    "slug": "the-river-lee-hotel"
+  },
+  {
     "id": "dresden-1",
     "name": "Hotel Suitess - An der Frauenkirche",
     "destinationSlug": "dresden",

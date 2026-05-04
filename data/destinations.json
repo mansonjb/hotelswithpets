@@ -1836,6 +1836,79 @@
     }
   },
   {
+    "slug": "cork",
+    "name": "Cork",
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cork.jpg",
+    "intro": "Cork — Ireland's foodie capital and rebel city — wraps the River Lee with Georgian streets, snug-friendly pubs and the 200-hectare Ballincollig off-leash park, with Cork Harbour beaches a 25-minute drive away.",
+    "lat": 51.8985,
+    "lng": -8.4756,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "dresden",
     "name": "Dresden",
     "country": "Germany",

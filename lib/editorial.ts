@@ -146,6 +146,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Roman Bridge sunset view, the Judería Jewish Quarter alleys, and the Sotos de la Albolafia riverside path',
       area: 'the Judería, the Centro near the Plaza de la Corredera, and the modern San Fernando area',
     },
+    cork: {
+      personality: `Ireland's foodie rebel city on the River Lee — Georgian streets, snug-friendly traditional pubs, the iconic English Market, and the 200-hectare Ballincollig off-leash park 8 km west, with West Cork's beaches a short drive south`,
+      highlight: `Fitzgerald's Park and the Mardyke walkway, Ballincollig Regional Park's off-leash zone, and the 25-min train to dog-friendly Cobh waterfront`,
+      area: `the Latin Quarter, the Marina riverside, and Blackrock`,
+    },
     dresden: {
       personality: 'a compact baroque capital on the Elbe with kilometres of off-leash river meadows, a 5,800-hectare municipal forest on the northern edge, and a historic paddle-steamer fleet that welcomes dogs at no extra charge',
       highlight: 'the Elbwiesen river meadows through the centre, the Dresdner Heide forest, and the Schlosspark Pillnitz palace gardens',
@@ -614,6 +619,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la vue sur le Pont romain au coucher du soleil, les ruelles de la Judería juive et le sentier riverain des Sotos de la Albolafia',
       area: 'la Judería, le Centro près de la Plaza de la Corredera et le quartier moderne de San Fernando',
     },
+    cork: {
+      personality: `la rebel city irlandaise des gourmets sur le Lee — rues georgiennes, pubs traditionnels à snugs, l'emblématique English Market et le Ballincollig Regional Park sans laisse de 200 hectares à 8 km à l'ouest, avec les plages du West Cork à courte distance au sud`,
+      highlight: `Fitzgerald's Park et la promenade Mardyke, la zone sans laisse du Ballincollig Regional Park et le train de 25 min vers le front de mer dog-friendly de Cobh`,
+      area: `le Latin Quarter, la Marina fluviale et Blackrock`,
+    },
     dresden: {
       personality: 'capitale baroque compacte sur l\'Elbe, avec des kilomètres de prairies fluviales sans laisse, une forêt urbaine de 5 800 hectares à la lisière nord et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément',
       highlight: 'les Elbwiesen qui traversent le centre, la forêt de la Dresdner Heide et les jardins du château de Pillnitz',
@@ -1080,6 +1090,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla — compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
       highlight: 'la vista al Puente Romano al atardecer, los callejones de la Judería judía y el sendero ribereño de los Sotos de la Albolafia',
       area: 'la Judería, el Centro junto a la Plaza de la Corredera y la zona moderna de San Fernando',
+    },
+    cork: {
+      personality: `la rebel city irlandesa de los gourmets sobre el Lee — calles georgianas, pubs tradicionales con snugs, el emblemático English Market y el Ballincollig Regional Park sin correa de 200 hectáreas a 8 km al oeste, con las playas del West Cork a corta distancia al sur`,
+      highlight: `Fitzgerald's Park y el paseo Mardyke, la zona sin correa del Ballincollig Regional Park y el tren de 25 min al frente marítimo dog-friendly de Cobh`,
+      area: `el Latin Quarter, la Marina fluvial y Blackrock`,
     },
     dresden: {
       personality: 'capital barroca compacta sobre el Elba, con kilómetros de praderas fluviales sin correa, un bosque urbano de 5.800 hectáreas en el borde norte y una flota histórica de vapores de paletas que admite perros sin coste extra',

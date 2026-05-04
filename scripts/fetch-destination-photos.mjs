@@ -73,6 +73,7 @@ const TARGETS = [
   { slug: 'aarhus', query: 'Aarhus Denmark ARoS rainbow rooftop Den Gamle By harbour panorama sunset' },
   { slug: 'innsbruck', query: 'Innsbruck Austria Goldenes Dachl Nordkette Alps skyline panorama sunset' },
   { slug: 'galway', query: 'Galway Ireland Spanish Arch Long Walk Claddagh harbour colourful houses panorama sunset' },
+  { slug: 'cork', query: 'Cork Ireland Saint Fin Barre Cathedral River Lee Georgian skyline panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

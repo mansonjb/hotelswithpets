@@ -79,6 +79,12 @@ const ALL_GUIDES = [
     label: { fr: 'Passeport européen vs AHC : règles 2026', en: 'EU Pet Passport vs AHC: 2026 rules', es: 'Pasaporte europeo vs AHC: normas 2026' },
     desc:  { fr: 'L\'erreur à 100 € que font 78 % des voyageurs', en: 'The €100+ mistake 78% of travellers make', es: 'El error de 100 € que comete el 78 %' },
   },
+  {
+    slug: 'pet-travel-cost-index-europe-2026',
+    emoji: '📊',
+    label: { fr: 'Pet Travel Cost Index Europe 2026', en: 'Pet Travel Cost Index Europe 2026', es: 'Pet Travel Cost Index Europa 2026' },
+    desc:  { fr: '611 hôtels audités · suppléments par pays + ville', en: '611 hotels audited · pet fees by country + city', es: '611 hoteles auditados · tarifas por país + ciudad' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

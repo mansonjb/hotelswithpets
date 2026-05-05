@@ -78,6 +78,7 @@ const TARGETS = [
   { slug: 'cambridge', query: 'Cambridge England Kings College Chapel Backs River Cam punting bridge panorama sunset' },
   { slug: 'brno', query: 'Brno Czech Republic Spilberk Castle namesti Svobody Petrov Cathedral old town panorama sunset' },
   { slug: 'leipzig', query: 'Leipzig Germany Markt square Augustusplatz Volkerschlachtdenkmal panorama sunset' },
+  { slug: 'maastricht', query: 'Maastricht Netherlands Vrijthof square Sint Servaasbasiliek Maas river panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

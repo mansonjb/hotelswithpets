@@ -3960,6 +3960,79 @@
     }
   },
   {
+    "slug": "maastricht",
+    "name": "Maastricht",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/maastricht.jpg",
+    "intro": "Maastricht — the Netherlands' oldest city and Limburg's Burgundian capital — combines a compact medieval centre, the Sint-Pietersberg forest hill, 22 fenced losloopgebieden, and walkable triple-frontier access to Belgium and Germany.",
+    "lat": 50.8514,
+    "lng": 5.6909,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "madrid",
     "name": "Madrid",
     "country": "Spain",

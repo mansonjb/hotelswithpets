@@ -291,6 +291,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc de la Tête d\'Or, the Saône and Rhône riverbanks, and the Fourvière hillside trails',
       area: 'the Presqu\'île, Croix-Rousse, and Confluence',
     },
+    maastricht: {
+      personality: `the Netherlands' oldest city and Limburg's Burgundian capital — Burgundian café culture welcomes leashed dogs by default, the Sint-Pietersberg forest hill rises directly south of the centre, and 22 fenced losloopgebieden ring the medieval core`,
+      highlight: `the Sint-Pietersberg forest hill, the Maas riverside towpath to Belgium, and the Pietersplas dog-swim bay 5 km south`,
+      area: `the medieval centre around the Vrijthof, the Wyck quarter on the right Maas bank, and the Sint Pieter village neighbourhood`,
+    },
     madrid: {
       personality: 'one of Europe\'s most dog-obsessed capitals: Madrid has more dogs per capita than almost any other European city',
       highlight: 'the Retiro Park, Casa de Campo, and the off-leash Parque del Oeste',
@@ -784,6 +789,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de la Tête d\'Or, les berges de la Saône et du Rhône, et les sentiers de la colline de Fourvière',
       area: 'la Presqu\'île, la Croix-Rousse et Confluence',
     },
+    maastricht: {
+      personality: `la plus ancienne ville des Pays-Bas et capitale bourguignonne du Limbourg — la culture café bourguignonne accueille les chiens en laisse par défaut, la colline forestière du Sint-Pietersberg s'élève directement au sud du centre, et 22 losloopgebieden clôturés entourent le cœur médiéval`,
+      highlight: `la colline forestière du Sint-Pietersberg, le chemin de halage de la Meuse vers la Belgique et la baie de baignade canine du Pietersplas à 5 km au sud`,
+      area: `le centre médiéval autour du Vrijthof, le quartier de Wyck sur la rive droite de la Meuse et le village de Sint Pieter`,
+    },
     madrid: {
       personality: 'l\'une des capitales les plus dog-friendly d\'Europe: Madrid compte plus de chiens par habitant que presque toute autre ville européenne',
       highlight: 'le Parc du Retiro, la Casa de Campo et le Parque del Oeste sans laisse',
@@ -1275,6 +1285,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capital gastronómica de Francia, donde los perros son tan comunes como los restaurantes bouchon. Bienvenidos en cafés, a lo largo de las orillas del río y en toda la Presqu\'île',
       highlight: 'el Parque de la Tête d\'Or, las orillas del Saona y el Ródano, y los senderos de la colina de Fourvière',
       area: 'la Presqu\'île, Croix-Rousse y Confluence',
+    },
+    maastricht: {
+      personality: `la ciudad más antigua de Países Bajos y capital borgoñona de Limburgo — la cultura del café borgoñón admite perros con correa por defecto, la colina forestal del Sint-Pietersberg se eleva directamente al sur del centro, y 22 losloopgebieden valladas rodean el núcleo medieval`,
+      highlight: `la colina forestal del Sint-Pietersberg, el camino de sirga del Mosa hacia Bélgica y la bahía de baño canino del Pietersplas a 5 km al sur`,
+      area: `el centro medieval alrededor del Vrijthof, el barrio de Wyck en la orilla derecha del Mosa y el pueblo de Sint Pieter`,
     },
     madrid: {
       personality: 'una de las capitales más dog-friendly de Europa: Madrid tiene más perros per cápita que casi cualquier otra ciudad europea',

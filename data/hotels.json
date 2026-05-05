@@ -8247,6 +8247,129 @@
     "slug": "cour-des-loges-lyon-a-radisson-collection-hotel"
   },
   {
+    "id": "maastricht-1",
+    "name": "Kruisherenhotel Maastricht",
+    "destinationSlug": "maastricht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2620,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/kruisherenhotelmaastricht.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Kruisherenhotel Maastricht — a five-star design hotel inside a 15th-century Crosiers monastery and church — welcomes pets in selected room categories. A pet fee of 25 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Vrijthof and Stadspark within 5 min on foot. Pets on lead in lobbies; not allowed in the restaurant. Declare your pet when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant in the church",
+      "Spa"
+    ],
+    "slug": "kruisherenhotel-maastricht"
+  },
+  {
+    "id": "maastricht-2",
+    "name": "Hotel Derlon",
+    "destinationSlug": "maastricht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1980,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/derlon.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Derlon — a 4-star boutique hotel on Onze-Lieve-Vrouweplein with Roman ruins displayed in the basement — welcomes pets at 20 € per night. Up to two pets per room. Stadspark and Helpoort 5 min on foot. Pets on lead in common areas; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Roman cellar"
+    ],
+    "slug": "hotel-derlon"
+  },
+  {
+    "id": "maastricht-3",
+    "name": "NH Maastricht",
+    "destinationSlug": "maastricht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3210,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/nh-maastricht.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "NH Maastricht — a 4-star hotel on the Maas riverside in Wyck — welcomes pets at 20 € per night. Up to two pets per room. Maas towpath and Stationsplein at the doorstep. Pets on lead in common areas; restaurant only with prior agreement.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Riverside terrace"
+    ],
+    "slug": "nh-maastricht"
+  },
+  {
+    "id": "maastricht-4",
+    "name": "Townhouse Hotel Maastricht",
+    "destinationSlug": "maastricht",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 2840,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/townhouse-maastricht.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Townhouse Hotel Maastricht — a design boutique hotel on Sint Maartenslaan in Wyck — welcomes pets at 15 € per night. Up to two pets per room. Maas towpath and Stationsplein 3 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Quiet location"
+    ],
+    "slug": "townhouse-hotel-maastricht"
+  },
+  {
+    "id": "maastricht-5",
+    "name": "Bastion Hotel Maastricht Centrum",
+    "destinationSlug": "maastricht",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3460,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/bastion-maastricht-centrum.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Bastion Hotel Maastricht Centrum — a 3-star hotel north of the centre with on-site free parking — welcomes dogs at 12 € per night. One dog per room standard, second on prior request. Maas towpath 8 min on foot. Cats accepted on prior request.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "bastion-hotel-maastricht-centrum"
+  },
+  {
     "id": "madrid-1",
     "name": "Four Seasons Hotel Madrid",
     "destinationSlug": "madrid",

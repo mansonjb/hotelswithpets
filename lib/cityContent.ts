@@ -5925,6 +5925,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  maastricht: {
+    history: {
+      fr: `Maastricht est la plus ancienne ville des Pays-Bas, fondée par les Romains au Ier siècle ap. J.-C. comme « Mosae Trajectum » (le passage sur la Meuse). Cité libre d'empire au Moyen Âge, ville fortifiée par Vauban au XVIIe siècle, base de signature du traité de Maastricht de 1992 qui a créé l'Union européenne — c'est aussi la capitale culturelle bourguignonne du Limbourg. Le centre médiéval compact, ceinturé de remparts encore largement intacts (Helpoort, Hoge Fronten), s'organise autour du Vrijthof et de la basilique Saint-Servais. Pour les voyageurs avec un chien, Maastricht est l'une des villes européennes les plus accessibles : centre marchable de bout en bout en 20 min, culture café bourguignonne qui accueille les chiens en laisse par défaut, la colline forestière du Sint-Pietersberg directement au sud du centre avec 8 km de sentiers sans laisse, 22 losloopgebieden municipaux clôturés, et un accès triple-frontière unique en Europe (Belgique 5 km, Allemagne 25 km).`,
+      en: `Maastricht is the oldest city in the Netherlands, founded by the Romans in the 1st century AD as 'Mosae Trajectum' (the crossing on the Meuse). A free imperial city in the Middle Ages, fortified by Vauban in the 17th century, and the signature site of the 1992 Maastricht Treaty that created the European Union — it's also the Burgundian cultural capital of Limburg. The compact medieval centre, ringed by largely intact walls (Helpoort, Hoge Fronten), centres on the Vrijthof and the Sint-Servaasbasiliek. For travellers with a dog, Maastricht is one of Europe's most accessible cities: walkable centre crossable end-to-end in 20 min, Burgundian café culture welcoming leashed dogs by default, the Sint-Pietersberg forest hill directly south of the centre with 8 km of off-leash trails, 22 fenced municipal losloopgebieden, and a triple-frontier access unique in Europe (Belgium 5 km, Germany 25 km).`,
+      es: `Maastricht es la ciudad más antigua de los Países Bajos, fundada por los romanos en el siglo I d. C. como « Mosae Trajectum » (el cruce del Mosa). Ciudad libre imperial en la Edad Media, fortificada por Vauban en el siglo XVII, y sede de la firma del Tratado de Maastricht de 1992 que creó la Unión Europea — es también la capital cultural borgoñona de Limburgo. El compacto centro medieval, rodeado de murallas en gran parte intactas (Helpoort, Hoge Fronten), gira en torno al Vrijthof y a la Sint-Servaasbasiliek. Para los viajeros con perro, Maastricht es una de las ciudades europeas más accesibles: centro caminable de extremo a extremo en 20 min, cultura del café borgoñón que admite perros con correa por defecto, la colina forestal del Sint-Pietersberg directamente al sur del centro con 8 km de senderos sin correa, 22 losloopgebieden valladas municipales, y un acceso triple frontera único en Europa (Bélgica 5 km, Alemania 25 km).`,
+    },
+    sights: [
+      { name: 'Vrijthof', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La grande place principale de Maastricht — flanquée des églises Saint-Servais et Saint-Jean. Ouverte 24h/24, dog-friendly, terrasses tout autour.`,
+        en: `Maastricht's grand main square — flanked by the Sint-Servaasbasiliek and Sint-Janskerk. Open 24/7, dog-friendly, terraces all around.`,
+        es: `La gran plaza principal de Maastricht — flanqueada por las iglesias Sint-Servaasbasiliek y Sint-Janskerk. Abierta 24/7, dog-friendly, terrazas alrededor.`,
+      }},
+      { name: 'Sint-Pietersberg', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Colline calcaire boisée de 250 ha au sud du centre — 8 km de sentiers sans laisse, panoramas sur Maastricht et la vallée belge du Voer.`,
+        en: `A 250-ha forested limestone hill south of the centre — 8 km of off-leash trails, panoramas over Maastricht and the Belgian Voer valley.`,
+        es: `Colina calcárea boscosa de 250 ha al sur del centro — 8 km de senderos sin correa, panoramas de Maastricht y el valle belga del Voer.`,
+      }},
+      { name: 'Helpoort', emoji: '🏰', petFriendly: true, desc: {
+        fr: `La plus ancienne porte de ville encore debout aux Pays-Bas (vers 1229) — promenade des remparts dog-friendly avec chiens en laisse gratuits.`,
+        en: `The oldest surviving city gate in the Netherlands (c. 1229) — dog-friendly walls walk with leashed dogs free of charge.`,
+        es: `La puerta de ciudad más antigua que se conserva en los Países Bajos (c. 1229) — paseo por las murallas dog-friendly con perros con correa gratis.`,
+      }},
+      { name: 'Maas Riverside', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Chemin de halage de la Meuse — 14 km sans voiture jusqu'à la frontière belge, baie de baignade canine du Pietersplas à 5 km au sud.`,
+        en: `The Maas towpath — 14 km car-free to the Belgian border, Pietersplas dog-swim bay 5 km south.`,
+        es: `Camino de sirga del Mosa — 14 km sin coches hasta la frontera belga, bahía de baño canino del Pietersplas a 5 km al sur.`,
+      }},
+      { name: 'Stadspark', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc paysagé du XIXe siècle qui longe les remparts ouest — 9 ha avec un losloopgebied clôturé au coin sud.`,
+        en: `A 19th-century landscaped park hugging the western city walls — 9 ha with a fenced losloopgebied in the south corner.`,
+        es: `Parque paisajístico del siglo XIX que bordea las murallas del oeste — 9 ha con un losloopgebied vallado en la esquina sur.`,
+      }},
+      { name: 'Onze-Lieve-Vrouweplein', emoji: '⛪', petFriendly: true, desc: {
+        fr: `La place la plus calme et la plus pittoresque de Maastricht — terrasses de café dog-friendly autour de la basilique Notre-Dame du XIe siècle.`,
+        en: `Maastricht's quietest and most picturesque square — dog-friendly café terraces around the 11th-century Onze-Lieve-Vrouwebasiliek.`,
+        es: `La plaza más tranquila y pintoresca de Maastricht — terrazas de café dog-friendly alrededor de la Onze-Lieve-Vrouwebasiliek del siglo XI.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café bourguignonne accueille les chiens par défaut — environ 80 % des cafés et bistros de Maastricht acceptent les chiens en laisse en salle principale.`,
+        `Bus Arriva et trains NS : petits chiens en cage gratuits ; moyens et grands avec un Hond Dagkaart à 3,10 € (sans muselière, contrairement à l'Allemagne).`,
+        `22 losloopgebieden municipaux clôturés — carte officielle sur gemeentemaastricht.nl.`,
+        `Vétérinaire d'urgence 24h/24 le plus proche : Dierenkliniek Heerlen (+31 45 571 0001), 25 min en voiture sur l'A2.`,
+        `Position triple-frontière unique : Liège (BE) 33 min en train, Aix-la-Chapelle (DE) 50 min en train — multipliez les excursions canines sans changer de base.`,
+      ],
+      en: [
+        `Burgundian café culture welcomes dogs by default — about 80% of Maastricht cafés and bistros accept leashed dogs in the main room.`,
+        `Arriva buses and NS trains: small dogs in carrier free; medium and large dogs with a Hond Dagkaart at 3.10 € (no muzzle required, unlike in Germany).`,
+        `22 fenced municipal losloopgebieden — official map on gemeentemaastricht.nl.`,
+        `Closest 24/7 emergency vet: Dierenkliniek Heerlen (+31 45 571 0001), 25 min drive on the A2.`,
+        `Unique triple-frontier position: Liège (BE) 33 min by train, Aachen (DE) 50 min by train — multiply dog day trips without changing base.`,
+      ],
+      es: [
+        `La cultura del café borgoñón admite perros por defecto — alrededor del 80 % de los cafés y bistros de Maastricht acepta perros con correa en la sala principal.`,
+        `Buses Arriva y trenes NS: perros pequeños en transportín gratis; medianos y grandes con Hond Dagkaart a 3,10 € (sin bozal, a diferencia de Alemania).`,
+        `22 losloopgebieden valladas municipales — mapa oficial en gemeentemaastricht.nl.`,
+        `Veterinario de urgencias 24/7 más cercano: Dierenkliniek Heerlen (+31 45 571 0001), 25 min en coche por la A2.`,
+        `Posición triple frontera única: Lieja (BE) 33 min en tren, Aquisgrán (DE) 50 min en tren — multiplica las excursiones caninas sin cambiar de base.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Pays-Bas dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains NS directs : Liège 33 min, Aix-la-Chapelle 50 min, Eindhoven 1h, Amsterdam 2h30, Bruxelles 1h45 (via Liège).`,
+        `Aéroport Maastricht-Aachen (MST) à 12 km au nord-est ; aéroport de Liège (LGG) à 35 min en voiture pour les vols low-cost.`,
+        `Devise : euro. Budget journalier dog-friendly : 60-90 €/jour hors hébergement, alignés sur la médiane UE.`,
+        `Grands événements à éviter avec un chien anxieux : Carnaval (mi-février), TEFAF (mars, foire d'art international), André Rieu Vrijthof (juillet).`,
+      ],
+      en: [
+        `Netherlands is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct NS trains: Liège 33 min, Aachen 50 min, Eindhoven 1h, Amsterdam 2h30, Brussels 1h45 (via Liège).`,
+        `Maastricht-Aachen Airport (MST) 12 km north-east; Liège Airport (LGG) 35 min by car for low-cost flights.`,
+        `Currency: euro. Daily dog-friendly budget: 60-90 €/day excluding accommodation, in line with the EU median.`,
+        `Major events to avoid with an anxious dog: Carnaval (mid-February), TEFAF (March, international art fair), André Rieu Vrijthof concerts (July).`,
+      ],
+      es: [
+        `Países Bajos está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes NS directos: Lieja 33 min, Aquisgrán 50 min, Eindhoven 1h, Ámsterdam 2h30, Bruselas 1h45 (vía Lieja).`,
+        `Aeropuerto Maastricht-Aachen (MST) a 12 km al noreste; aeropuerto de Lieja (LGG) a 35 min en coche para vuelos low-cost.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 60-90 €/día sin alojamiento, en línea con la mediana UE.`,
+        `Grandes eventos a evitar con perro ansioso: Carnaval (mediados de febrero), TEFAF (marzo, feria de arte internacional), conciertos de André Rieu en el Vrijthof (julio).`,
+      ],
+    },
+  },
+
   madrid: {
     history: {
       fr: `Madrid est née d'une forteresse maure du IXe siècle appelée Mayrit avant de devenir la capitale de l'Espagne sous Philippe II en 1561, passant d'une modeste bourgade médiévale au cœur politique et culturel de l'empire des Habsbourg. La ville marie aujourd'hui la grandeur Bourbon à une énergie urbaine noctambule et frénétique. Madrid est une capitale remarquablement attentive aux chiens : la mairie recense plus de 300 000 chiens enregistrés et a multiplié les zones canines (zonas de esparcimiento canino) dans chaque quartier. Les matins de week-end, les allées du Retiro se remplissent de Galgos, Podencos et chiens adoptés via les vastes réseaux de sauvetage espagnols. Les cafés de Malasaña, Chueca et La Latina accueillent les chiens en terrasse, et l'immense Casa de Campo — cinq fois le Central Park — offre un vrai terrain de jeu aux toutous urbains.`,

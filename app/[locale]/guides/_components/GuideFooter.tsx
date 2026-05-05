@@ -85,6 +85,12 @@ const ALL_GUIDES = [
     label: { fr: 'Pet Travel Cost Index Europe 2026', en: 'Pet Travel Cost Index Europe 2026', es: 'Pet Travel Cost Index Europa 2026' },
     desc:  { fr: '611 hôtels audités · suppléments par pays + ville', en: '611 hotels audited · pet fees by country + city', es: '611 hoteles auditados · tarifas por país + ciudad' },
   },
+  {
+    slug: 'dog-friendly-europe-by-month/may',
+    emoji: '🗓️',
+    label: { fr: 'Où voyager avec son chien, mois par mois', en: 'Best dog-friendly cities, month by month', es: 'Mejores ciudades dog-friendly, mes a mes' },
+    desc:  { fr: '12 sélections saisonnières basées sur la météo réelle des 100 destinations', en: '12 seasonal picks based on the real weather of all 100 destinations', es: '12 selecciones estacionales basadas en el tiempo real de los 100 destinos' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

@@ -1,0 +1,920 @@
+{
+  "slug": "leipzig",
+  "name": "Leipzig",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-05-05",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Leipzig",
+      "titleFr": "Restaurants dog-friendly à Leipzig",
+      "titleEs": "Restaurantes dog-friendly en Leipzig",
+      "introEn": "Leipzig's beer-garden and Kaffeehaus culture is reliably dog-friendly — leashed dogs are accepted in Gaststätten by default, water bowls appear without asking, and the Karli (Karl-Liebknecht-Straße) and Plagwitz neighbourhoods concentrate the best independent venues.",
+      "introFr": "La culture des biergartens et Kaffeehaus de Leipzig est fiablement dog-friendly — les chiens en laisse sont admis dans les Gaststätten par défaut, les gamelles d'eau apparaissent sans demander, et les quartiers Karli (Karl-Liebknecht-Straße) et Plagwitz concentrent les meilleures adresses indépendantes.",
+      "introEs": "La cultura de los biergartens y Kaffeehaus de Leipzig es fiablemente dog-friendly — los perros con correa se admiten en Gaststätten por defecto, los boles aparecen sin pedirlos, y los barrios Karli (Karl-Liebknecht-Straße) y Plagwitz concentran las mejores direcciones independientes.",
+      "places": [
+        {
+          "name": "Auerbachs Keller",
+          "address": "Mädler-Passage, Grimmaische Straße 2-4, 04109 Leipzig",
+          "neighborhood": "City centre",
+          "photo": "/images/city-places/leipzig-restaurants-auerbachs-keller.jpg",
+          "website": "https://www.auerbachs-keller-leipzig.de/",
+          "description": "The 16th-century cellar restaurant immortalised in Goethe's Faust — vaulted brick rooms, traditional Saxon cuisine. Dogs welcome on leash in the Großer Keller and Mephisto Bar; a water bowl appears at every table.",
+          "descriptionFr": "Restaurant en cave du XVIe siècle immortalisé dans le Faust de Goethe — salles voûtées en brique, cuisine traditionnelle saxonne. Chiens en laisse bienvenus dans le Großer Keller et le Mephisto Bar ; gamelle à chaque table.",
+          "descriptionEs": "Restaurante en sótano del siglo XVI inmortalizado en el Fausto de Goethe — salas abovedadas de ladrillo, cocina tradicional sajona. Perros con correa bienvenidos en el Großer Keller y el Mephisto Bar; bol en cada mesa.",
+          "petPolicy": "Dogs welcome inside on leash",
+          "petPolicyFr": "Chiens en laisse bienvenus à l'intérieur",
+          "petPolicyEs": "Perros con correa bienvenidos dentro",
+          "priceRange": "EUR EUR EUR",
+          "mustTry": "Sauerbraten, Leipziger Allerlei, Gose beer",
+          "mustTryFr": "Sauerbraten, Leipziger Allerlei, bière Gose",
+          "mustTryEs": "Sauerbraten, Leipziger Allerlei, cerveza Gose",
+          "openingHours": "Daily 12:00-23:00",
+          "tip": "Reserve the Großer Keller side — Mephisto Bar gets noisy after 20:00 with tour groups.",
+          "tipFr": "Réservez côté Großer Keller — le Mephisto Bar devient bruyant après 20h avec les groupes de touristes.",
+          "tipEs": "Reserva el lado Großer Keller — el Mephisto Bar se llena de ruido después de las 20:00 con grupos turísticos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Auerbachs+Keller+Leipzig"
+        },
+        {
+          "name": "Kaffeehaus Riquet",
+          "address": "Schuhmachergäßchen 1-3, 04109 Leipzig",
+          "neighborhood": "City centre",
+          "photo": "/images/city-places/leipzig-restaurants-kaffeehaus-riquet.jpg",
+          "website": "https://www.riquethaus.de/",
+          "description": "An Art Nouveau coffeehouse from 1908 with the famous bronze elephant heads above the door. Dogs welcome on the front terrace and in the ground-floor lower hall, with water bowls at the entrance.",
+          "descriptionFr": "Café Art Nouveau de 1908 avec les fameuses têtes d'éléphants en bronze au-dessus de la porte. Chiens bienvenus sur la terrasse avant et dans la salle basse du rez-de-chaussée, avec gamelles à l'entrée.",
+          "descriptionEs": "Café modernista de 1908 con las famosas cabezas de elefante de bronce sobre la puerta. Perros bienvenidos en la terraza delantera y en la sala baja de la planta baja, con boles en la entrada.",
+          "petPolicy": "Dogs on terrace + ground-floor hall",
+          "petPolicyFr": "Chiens en terrasse + salle basse",
+          "petPolicyEs": "Perros en terraza + sala baja",
+          "priceRange": "EUR EUR",
+          "mustTry": "Riquet hot chocolate, Apfelstrudel",
+          "mustTryFr": "Chocolat chaud Riquet, Apfelstrudel",
+          "mustTryEs": "Chocolate caliente Riquet, Apfelstrudel",
+          "openingHours": "Daily 09:00-19:00",
+          "tip": "The ground-floor hall has the historical 1908 mosaic floors — quietest spot before 11:00 with a dog.",
+          "tipFr": "La salle basse a les sols mosaïques d'origine 1908 — le coin le plus calme avant 11h avec un chien.",
+          "tipEs": "La sala baja tiene los suelos mosaico originales de 1908 — el rincón más tranquilo antes de las 11:00 con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kaffeehaus+Riquet+Leipzig"
+        },
+        {
+          "name": "Telegraph Café",
+          "address": "Dittrichring 18-20, 04109 Leipzig",
+          "neighborhood": "Innenstadt",
+          "photo": "/images/city-places/leipzig-restaurants-telegraph-cafe.jpg",
+          "website": "https://www.cafe-telegraph.de/",
+          "description": "A literary-style café opposite the Leipzig opera, day-long brunch and seasonal Saxon dishes. Dogs welcomed throughout — front terrace year-round, indoor armchairs accepted with a polite nod from the hosts.",
+          "descriptionFr": "Café d'inspiration littéraire en face de l'opéra de Leipzig, brunch toute la journée et plats saxons saisonniers. Chiens bienvenus partout — terrasse avant toute l'année, fauteuils intérieurs acceptés avec un signe poli des hôtes.",
+          "descriptionEs": "Café de estilo literario frente a la ópera de Leipzig, brunch durante todo el día y platos sajones de temporada. Perros bienvenidos en todas partes — terraza delantera todo el año, sillones interiores aceptados con un asentimiento educado de los anfitriones.",
+          "petPolicy": "Dogs welcome everywhere",
+          "petPolicyFr": "Chiens bienvenus partout",
+          "petPolicyEs": "Perros bienvenidos en todas partes",
+          "priceRange": "EUR EUR",
+          "mustTry": "All-day brunch plate, Saxon Eierschecke cake",
+          "mustTryFr": "Brunch toute la journée, gâteau saxon Eierschecke",
+          "mustTryEs": "Brunch todo el día, pastel sajón Eierschecke",
+          "openingHours": "Mon-Fri 08:30-23:00, Sat-Sun 09:00-23:00",
+          "tip": "Sunday brunch books out — reserve online by Friday and ask for the rear corner if the dog is anxious.",
+          "tipFr": "Le brunch dominical est complet — réservez en ligne avant vendredi et demandez le coin du fond si le chien est anxieux.",
+          "tipEs": "El brunch dominical se llena — reserva online antes del viernes y pide el rincón del fondo si el perro está ansioso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Telegraph+Cafe+Leipzig"
+        }
+      ],
+      "tipsEn": [
+        "German Gaststätten culture is broadly dog-friendly — at least 75% of Leipzig pubs accept leashed dogs in the main room, often with water bowls without asking.",
+        "The Karli (Karl-Liebknecht-Straße) and Plagwitz neighbourhoods have the highest density of dog-tolerant cafés outside the central Innenstadt.",
+        "Tip 5-10% rounded up; 'Trinkgeld' is in cash, even on card payments."
+      ],
+      "tipsFr": [
+        "La culture Gaststätten allemande est largement dog-friendly — au moins 75 % des pubs de Leipzig acceptent les chiens en laisse en salle principale, souvent avec gamelles sans demander.",
+        "Les quartiers Karli (Karl-Liebknecht-Straße) et Plagwitz ont la plus haute densité de cafés dog-friendly en dehors de l'Innenstadt centrale.",
+        "Pourboire 5-10 % arrondi ; le « Trinkgeld » se donne en espèces, même en paiement carte."
+      ],
+      "tipsEs": [
+        "La cultura de Gaststätten alemana es ampliamente dog-friendly — al menos el 75 % de los pubs de Leipzig admite perros con correa en la sala principal, a menudo con boles sin pedirlos.",
+        "Los barrios Karli (Karl-Liebknecht-Straße) y Plagwitz tienen la mayor densidad de cafés dog-friendly fuera de la Innenstadt central.",
+        "Propina 5-10 % redondeada; el 'Trinkgeld' se deja en efectivo, incluso pagando con tarjeta."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Leipzig restaurants?",
+          "a": "Yes in most. Around 75% of Leipzig Gaststätten and cafés accept leashed dogs in the main room. The traditional cellars (Auerbachs Keller, Thüringer Hof) are reliably dog-friendly."
+        },
+        {
+          "q": "Can I take my dog into a Leipzig beer garden?",
+          "a": "Yes. Leipzig's biergartens (especially around the Clara-Zetkin-Park and the Karli district) are dog-tolerant by default, with water bowls and shaded dog spots common."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Leipzig ?",
+          "a": "Oui dans la plupart. Environ 75 % des Gaststätten et cafés de Leipzig acceptent les chiens en laisse en salle principale. Les caves traditionnelles (Auerbachs Keller, Thüringer Hof) sont fiablement dog-friendly."
+        },
+        {
+          "q": "Puis-je amener mon chien dans un biergarten de Leipzig ?",
+          "a": "Oui. Les biergartens de Leipzig (surtout autour du Clara-Zetkin-Park et du quartier Karli) tolèrent les chiens par défaut, gamelles d'eau et coins ombragés courants."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Leipzig?",
+          "a": "Sí en la mayoría. Cerca del 75 % de las Gaststätten y cafés de Leipzig admite perros con correa en la sala principal. Los sótanos tradicionales (Auerbachs Keller, Thüringer Hof) son fiablemente dog-friendly."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a un biergarten de Leipzig?",
+          "a": "Sí. Los biergartens de Leipzig (sobre todo alrededor del Clara-Zetkin-Park y el barrio Karli) admiten perros por defecto, con boles y zonas a la sombra comunes."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Leipzig",
+      "titleFr": "Parcs canins et espaces verts à Leipzig",
+      "titleEs": "Parques caninos y espacios verdes en Leipzig",
+      "introEn": "Leipzig is one of Germany's greenest cities — the Auenwald floodplain forest cuts through the centre, the Karl-Heine-Kanal links Plagwitz to the Karli, and the Stadt-Leipzig manages 11 official Hundeauslaufzonen plus 14 km of off-leash river paths.",
+      "introFr": "Leipzig est l'une des villes les plus vertes d'Allemagne — la forêt alluviale Auenwald traverse le centre, le Karl-Heine-Kanal relie Plagwitz au Karli, et la ville gère 11 Hundeauslaufzonen officielles plus 14 km de sentiers riverains sans laisse.",
+      "introEs": "Leipzig es una de las ciudades más verdes de Alemania — el bosque aluvial Auenwald atraviesa el centro, el Karl-Heine-Kanal conecta Plagwitz con el Karli, y la ciudad gestiona 11 Hundeauslaufzonen oficiales más 14 km de senderos ribereños sin correa.",
+      "places": [
+        {
+          "name": "Clara-Zetkin-Park",
+          "address": "Anton-Bruckner-Allee, 04107 Leipzig",
+          "neighborhood": "Zentrum-Süd",
+          "photo": "/images/city-places/leipzig-parks-clara-zetkin-park.jpg",
+          "size": "Approx. 124 hectares",
+          "leashRule": "On-leash on main paths; large fenced Hundeauslaufzone in the south-west corner",
+          "leashRuleFr": "En laisse sur les allées principales ; grande Hundeauslaufzone clôturée au coin sud-ouest",
+          "leashRuleEs": "Con correa en los paseos principales; gran Hundeauslaufzone vallada en la esquina suroeste",
+          "description": "Leipzig's largest central park — 124 hectares of meadows, ponds and the Auenwald forest tributaries. The fenced south-west off-leash zone (Hundeauslaufzone Clara-Zetkin-Park) is one of the largest in Saxony, with dog-agility equipment.",
+          "descriptionFr": "Le plus grand parc central de Leipzig — 124 hectares de prairies, étangs et bras de l'Auenwald. La Hundeauslaufzone clôturée du sud-ouest est l'une des plus grandes de Saxe, avec équipements d'agility.",
+          "descriptionEs": "El mayor parque central de Leipzig — 124 hectáreas de praderas, estanques y brazos del Auenwald. La Hundeauslaufzone vallada del suroeste es una de las mayores de Sajonia, con equipo de agility.",
+          "amenities": [
+            "Public toilets",
+            "Cafés",
+            "Open lawns",
+            "Fenced off-leash zone with agility"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Cafés",
+            "Pelouses ouvertes",
+            "Zone clôturée avec agility"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Cafés",
+            "Céspedes abiertos",
+            "Zona vallada con agility"
+          ],
+          "tip": "The ponds at the Sachsenbrücke crossing are a Sunday afternoon favourite — busker scene + dogs everywhere.",
+          "tipFr": "Les étangs au pont Sachsenbrücke sont le favori du dimanche après-midi — scène de musiciens + chiens partout.",
+          "tipEs": "Los estanques en el puente Sachsenbrücke son el favorito del domingo por la tarde — escena de músicos + perros por todas partes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clara+Zetkin+Park+Leipzig"
+        },
+        {
+          "name": "Auenwald Floodplain Forest",
+          "address": "Auwald, 04157 Leipzig",
+          "neighborhood": "Lindenau / Plagwitz",
+          "photo": "/images/city-places/leipzig-parks-auenwald-floodplain-forest.jpg",
+          "size": "Approx. 5 500 hectares",
+          "leashRule": "Off-leash on most forest trails (April-July leashed in nesting zones)",
+          "leashRuleFr": "Sans laisse sur la plupart des sentiers forestiers (avril-juillet en laisse dans les zones de nidification)",
+          "leashRuleEs": "Sin correa en la mayoría de senderos forestales (abril-julio con correa en zonas de nidificación)",
+          "description": "Europe's largest urban floodplain forest — 5 500 hectares of oak and ash woodland flanking the Weiße Elster, Pleiße and Karl-Heine-Kanal. Crossed by 14 km of dog-friendly waterway towpaths reachable directly from the city centre.",
+          "descriptionFr": "La plus grande forêt alluviale urbaine d'Europe — 5 500 hectares de chênes et frênes qui bordent la Weiße Elster, la Pleiße et le Karl-Heine-Kanal. Traversée par 14 km de chemins de halage dog-friendly accessibles directement depuis le centre.",
+          "descriptionEs": "El mayor bosque aluvial urbano de Europa — 5 500 hectáreas de robles y fresnos que bordean el Weiße Elster, el Pleiße y el Karl-Heine-Kanal. Atravesada por 14 km de caminos de sirga dog-friendly accesibles directamente desde el centro.",
+          "amenities": [
+            "Forest trails",
+            "Riverside paths",
+            "Multiple access points"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Chemins de rive",
+            "Multiples points d'accès"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Caminos ribereños",
+            "Múltiples accesos"
+          ],
+          "tip": "Enter via Plagwitz (Karl-Heine-Kanal) — flat 8 km loop along the canal back to the centre, all off-leash.",
+          "tipFr": "Entrez via Plagwitz (Karl-Heine-Kanal) — boucle plate de 8 km le long du canal jusqu'au centre, sans laisse partout.",
+          "tipEs": "Entra por Plagwitz (Karl-Heine-Kanal) — bucle plano de 8 km a lo largo del canal de vuelta al centro, todo sin correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Auenwald+Leipzig"
+        },
+        {
+          "name": "Cospudener See (Cossi)",
+          "address": "Hafenstraße 1, 04416 Markkleeberg",
+          "neighborhood": "South Leipzig",
+          "photo": "/images/city-places/leipzig-parks-cospudener-see-cossi.jpg",
+          "size": "Approx. 4.4 km²",
+          "leashRule": "Off-leash on most of the lakeshore; dedicated dog beach in the north-west corner",
+          "leashRuleFr": "Sans laisse sur la plupart de la rive ; plage canine dédiée au coin nord-ouest",
+          "leashRuleEs": "Sin correa en la mayor parte de la orilla; playa canina dedicada en la esquina noroeste",
+          "description": "A 1990s-flooded former lignite mine 8 km south of the centre — 11 km of beach-fringed shoreline, an official Hundestrand at the north-west corner, and the Bistumshöhe lookout. Tram 11 from the centre to Markkleeberg-West.",
+          "descriptionFr": "Ancienne mine de lignite inondée dans les années 1990, à 8 km au sud du centre — 11 km de rives plagées, Hundestrand officiel au coin nord-ouest et belvédère Bistumshöhe. Tram 11 depuis le centre jusqu'à Markkleeberg-West.",
+          "descriptionEs": "Antigua mina de lignito inundada en los años 1990, a 8 km al sur del centro — 11 km de orilla con playas, Hundestrand oficial en la esquina noroeste y mirador Bistumshöhe. Tranvía 11 desde el centro a Markkleeberg-West.",
+          "amenities": [
+            "Public toilets",
+            "Beach café",
+            "Free parking",
+            "Dog beach"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Café de plage",
+            "Parking gratuit",
+            "Plage canine"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Café de playa",
+            "Parking gratis",
+            "Playa canina"
+          ],
+          "tip": "The official Hundestrand is the only summer-season swimming spot for dogs — main beaches exclude dogs from May-September.",
+          "tipFr": "Le Hundestrand officiel est le seul spot de baignade canine en été — les plages principales excluent les chiens de mai à septembre.",
+          "tipEs": "El Hundestrand oficial es el único spot de baño canino en verano — las playas principales excluyen perros de mayo a septiembre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cospudener+See+Hundestrand"
+        }
+      ],
+      "tipsEn": [
+        "Leipzig manages 11 fenced Hundeauslaufzonen — full map at leipzig.de/hundeauslaufgebiete.",
+        "The Karl-Heine-Kanal towpath in Plagwitz is car-free, off-leash and continuous for 7 km — favourite Leipzig dog walk.",
+        "Always carry poo bags: city fine for fouling is 35 € (Bußgeld), enforced by Stadtordnungsdienst."
+      ],
+      "tipsFr": [
+        "Leipzig gère 11 Hundeauslaufzonen clôturées — carte complète sur leipzig.de/hundeauslaufgebiete.",
+        "Le chemin de halage du Karl-Heine-Kanal à Plagwitz est sans voiture, sans laisse et continu sur 7 km — la promenade canine favorite de Leipzig.",
+        "Ayez toujours des sacs : amende municipale pour déjections de 35 € (Bußgeld), contrôlée par le Stadtordnungsdienst."
+      ],
+      "tipsEs": [
+        "Leipzig gestiona 11 Hundeauslaufzonen valladas — mapa completo en leipzig.de/hundeauslaufgebiete.",
+        "El camino de sirga del Karl-Heine-Kanal en Plagwitz es sin coches, sin correa y continuo durante 7 km — el paseo canino favorito de Leipzig.",
+        "Lleva siempre bolsas: multa municipal por excrementos de 35 € (Bußgeld), controlada por el Stadtordnungsdienst."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash in Leipzig parks?",
+          "a": "Off-leash is permitted in 11 fenced municipal Hundeauslaufzonen and on most Auenwald forest trails outside April-July nesting season. Formal central parks require dogs on lead outside the marked zones."
+        },
+        {
+          "q": "Can dogs swim at the Leipzig lakes?",
+          "a": "Yes, at designated Hundestrand zones. Cospudener See has the closest official dog beach (8 km south); Markkleeberger See and Kulkwitzer See also have year-round dog-swimming sections."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse dans les parcs de Leipzig ?",
+          "a": "Sans laisse autorisé dans les 11 Hundeauslaufzonen municipales clôturées et sur la plupart des sentiers de l'Auenwald hors saison de nidification (avril-juillet). Les parcs formels du centre exigent la laisse hors zones marquées."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans les lacs de Leipzig ?",
+          "a": "Oui, dans les zones Hundestrand désignées. Le Cospudener See a la plage canine officielle la plus proche (8 km au sud) ; le Markkleeberger See et le Kulkwitzer See ont aussi des sections de baignade canine toute l'année."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en los parques de Leipzig?",
+          "a": "Sin correa permitido en las 11 Hundeauslaufzonen municipales valladas y en la mayoría de senderos del Auenwald fuera de la temporada de nidificación (abril-julio). Los parques formales del centro exigen correa fuera de las zonas marcadas."
+        },
+        {
+          "q": "¿Pueden los perros nadar en los lagos de Leipzig?",
+          "a": "Sí, en las zonas Hundestrand designadas. El Cospudener See tiene la playa canina oficial más cercana (8 km al sur); el Markkleeberger See y el Kulkwitzer See también tienen secciones de baño canino todo el año."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Leipzig",
+      "titleFr": "Transports pet-friendly à Leipzig",
+      "titleEs": "Transporte pet-friendly en Leipzig",
+      "introEn": "Leipzig's tram and bus network (LVB) accepts dogs on every line. Mainline DB ICE trains reach Berlin in 1h15, Munich in 3h, Frankfurt in 3h. The S-Bahn Mitteldeutschland runs into the surrounding lakes region.",
+      "introFr": "Le réseau tram et bus de Leipzig (LVB) accepte les chiens sur chaque ligne. Les trains DB ICE relient Berlin en 1h15, Munich en 3h, Francfort en 3h. La S-Bahn Mitteldeutschland dessert la région des lacs environnante.",
+      "introEs": "La red de tranvía y autobús de Leipzig (LVB) admite perros en cada línea. Los trenes DB ICE llegan a Berlín en 1h15, Múnich en 3h, Fráncfort en 3h. El S-Bahn Mitteldeutschland llega hasta la región de los lagos circundante.",
+      "places": [
+        {
+          "name": "LVB Trams & Buses",
+          "type": "City transport",
+          "photo": "/images/city-places/leipzig-transport-lvb-trams-buses.jpg",
+          "website": "https://www.l.de/verkehrsbetriebe",
+          "description": "Leipziger Verkehrsbetriebe (LVB) operates 13 tram and 60 bus lines. Small dogs in carriers travel free; medium and large dogs require a child-fare ticket (around 1.40 €) and must wear a muzzle on board.",
+          "descriptionFr": "Leipziger Verkehrsbetriebe (LVB) exploite 13 lignes de tram et 60 lignes de bus. Les petits chiens en cage voyagent gratis ; les chiens moyens et grands exigent un billet enfant (environ 1,40 €) et doivent porter une muselière à bord.",
+          "descriptionEs": "Leipziger Verkehrsbetriebe (LVB) opera 13 líneas de tranvía y 60 líneas de autobús. Perros pequeños en transportín viajan gratis; medianos y grandes requieren billete infantil (unos 1,40 €) y deben llevar bozal a bordo.",
+          "petPolicy": "Child-fare ticket + muzzle for medium/large dogs",
+          "petPolicyFr": "Billet enfant + muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete infantil + bozal para perros medianos/grandes",
+          "tip": "Buy the ticket via LVB.de app or at the platform machines — drivers don't sell tickets at peak hours.",
+          "tipFr": "Achetez le billet via l'app LVB.de ou aux distributeurs — les chauffeurs ne vendent pas en heure de pointe.",
+          "tipEs": "Compra el billete vía app LVB.de o en máquinas — los conductores no venden en hora punta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leipzig+Hauptbahnhof"
+        },
+        {
+          "name": "Deutsche Bahn ICE",
+          "type": "Mainline rail",
+          "photo": "/images/city-places/leipzig-transport-deutsche-bahn-ice.jpg",
+          "website": "https://www.bahn.de/info/personen-mitnehmen-hund",
+          "description": "Deutsche Bahn ICE and IC trains link Leipzig Hbf to Berlin (1h15), Munich (3h), Frankfurt (3h), Vienna (5h30). Small dogs in carriers travel free; larger dogs need a child-fare ticket (€) and a muzzle on board.",
+          "descriptionFr": "Les trains DB ICE et IC relient Leipzig Hbf à Berlin (1h15), Munich (3h), Francfort (3h), Vienne (5h30). Les petits chiens en cage voyagent gratis ; les plus grands exigent un billet enfant et une muselière à bord.",
+          "descriptionEs": "Los trenes DB ICE e IC conectan Leipzig Hbf con Berlín (1h15), Múnich (3h), Fráncfort (3h), Viena (5h30). Perros pequeños en transportín viajan gratis; los más grandes requieren billete infantil y bozal a bordo.",
+          "petPolicy": "Child-fare + muzzle for medium/large dogs",
+          "petPolicyFr": "Billet enfant + muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete infantil + bozal para perros medianos/grandes",
+          "tip": "Reserve a seat in advance — the Berlin-Leipzig ICE can be standing-only on Friday evenings.",
+          "tipFr": "Réservez votre siège — l'ICE Berlin-Leipzig peut être debout uniquement le vendredi soir.",
+          "tipEs": "Reserva asiento — el ICE Berlín-Leipzig puede ir solo de pie los viernes por la tarde.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leipzig+Hauptbahnhof"
+        },
+        {
+          "name": "S-Bahn Mitteldeutschland",
+          "type": "Suburban rail",
+          "photo": "/images/city-places/leipzig-transport-s-bahn-mitteldeutschland.jpg",
+          "website": "https://www.l.de/verkehrsbetriebe/fahrkarten/mit-tier-fahren",
+          "description": "The Saxon S-Bahn network runs from Leipzig Hbf through the underground City-Tunnel out to Halle, Markkleeberg (for Cospudener See) and the surrounding lakes. Dogs accepted on the same rules as the trams.",
+          "descriptionFr": "Le réseau S-Bahn saxon part de Leipzig Hbf via le tunnel City-Tunnel jusqu'à Halle, Markkleeberg (pour le Cospudener See) et les lacs environnants. Mêmes règles canines que pour les trams.",
+          "descriptionEs": "La red S-Bahn sajona parte de Leipzig Hbf por el túnel subterráneo City-Tunnel hasta Halle, Markkleeberg (para el Cospudener See) y los lagos circundantes. Mismas normas caninas que los tranvías.",
+          "petPolicy": "Child-fare + muzzle for medium/large dogs",
+          "petPolicyFr": "Billet enfant + muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete infantil + bozal para perros medianos/grandes",
+          "tip": "S-Bahn S2 to Markkleeberg-West for the Cospudener See dog beach — 12 min from Leipzig Hbf.",
+          "tipFr": "S-Bahn S2 jusqu'à Markkleeberg-West pour la plage canine du Cospudener See — 12 min depuis Leipzig Hbf.",
+          "tipEs": "S-Bahn S2 hasta Markkleeberg-West para la playa canina del Cospudener See — 12 min desde Leipzig Hbf.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leipzig+City-Tunnel"
+        }
+      ],
+      "tipsEn": [
+        "German law requires a muzzle for medium and large dogs on all public transport — fines for non-compliance start at 60 €.",
+        "Leipzig/Halle Airport (LEJ) is 14 km north of the centre, served by S-Bahn S5/S5X every 30 min — leashed dogs accepted with child-fare.",
+        "Berlin is closer than Munich: 1h15 by ICE — useful if you're combining Leipzig with Berlin's larger pet-travel scene."
+      ],
+      "tipsFr": [
+        "La loi allemande exige une muselière pour les chiens moyens et grands dans tous les transports publics — amendes à partir de 60 € en cas de non-respect.",
+        "L'aéroport Leipzig/Halle (LEJ) est à 14 km au nord du centre, desservi par les S-Bahn S5/S5X toutes les 30 min — chiens en laisse acceptés au tarif enfant.",
+        "Berlin est plus proche que Munich : 1h15 en ICE — utile si vous combinez Leipzig avec la scène canine plus large de Berlin."
+      ],
+      "tipsEs": [
+        "La ley alemana exige bozal para perros medianos y grandes en todo el transporte público — multas desde 60 € si no se cumple.",
+        "El aeropuerto Leipzig/Halle (LEJ) está a 14 km al norte del centro, servido por S-Bahn S5/S5X cada 30 min — perros con correa admitidos a tarifa infantil.",
+        "Berlín está más cerca que Múnich: 1h15 en ICE — útil si combinas Leipzig con la escena canina más amplia de Berlín."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need to muzzle my dog on Leipzig trams?",
+          "a": "Yes for medium and large dogs — Saxon transport regulations require a muzzle and a child-fare ticket. Small dogs in a carrier travel free without a muzzle."
+        },
+        {
+          "q": "Can I take my dog on a Deutsche Bahn ICE?",
+          "a": "Yes. Small dogs in a carrier travel free; medium and large dogs need a child-fare ticket and a muzzle on board. Reserve a seat for trips longer than 2 hours."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il museler mon chien dans les trams de Leipzig ?",
+          "a": "Oui pour les chiens moyens et grands — la réglementation saxonne exige muselière et billet enfant. Les petits chiens en cage voyagent gratuitement sans muselière."
+        },
+        {
+          "q": "Puis-je amener mon chien dans un ICE Deutsche Bahn ?",
+          "a": "Oui. Les petits chiens en cage voyagent gratuitement ; les chiens moyens et grands exigent un billet enfant et une muselière à bord. Réservez un siège pour les trajets de plus de 2h."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay que ponerle bozal a mi perro en los tranvías de Leipzig?",
+          "a": "Sí para perros medianos y grandes — la normativa de transporte sajona exige bozal y billete infantil. Los perros pequeños en transportín viajan gratis sin bozal."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en un ICE de Deutsche Bahn?",
+          "a": "Sí. Los perros pequeños en transportín viajan gratis; los medianos y grandes requieren billete infantil y bozal a bordo. Reserva asiento para trayectos de más de 2h."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes Near Leipzig",
+      "titleFr": "Lacs dog-friendly près de Leipzig",
+      "titleEs": "Lagos dog-friendly cerca de Leipzig",
+      "introEn": "Leipzig is land-locked but the surrounding 'Neuseenland' — over 20 lakes created by flooding former lignite mines after 1990 — has multiple year-round dog-swimming sections, all reachable by S-Bahn or short drive.",
+      "introFr": "Leipzig est à l'intérieur des terres mais le « Neuseenland » environnant — plus de 20 lacs créés par l'inondation d'anciennes mines de lignite après 1990 — propose plusieurs sections de baignade canine toute l'année, toutes accessibles en S-Bahn ou en voiture rapidement.",
+      "introEs": "Leipzig no tiene acceso al mar pero el « Neuseenland » circundante — más de 20 lagos creados al inundar antiguas minas de lignito tras 1990 — ofrece múltiples secciones de baño canino todo el año, todas accesibles en S-Bahn o coche cercano.",
+      "places": [
+        {
+          "name": "Cospudener See (Hundestrand)",
+          "address": "Hafenstraße 1, 04416 Markkleeberg",
+          "photo": "/images/city-places/leipzig-beaches-cospudener-see-hundestrand.jpg",
+          "leashRule": "Off-leash on most of the lakeshore; dedicated Hundestrand year-round",
+          "leashRuleFr": "Sans laisse sur la plupart de la rive ; Hundestrand dédiée toute l'année",
+          "leashRuleEs": "Sin correa en la mayor parte de la orilla; Hundestrand dedicada todo el año",
+          "description": "4.4 km² lake 8 km south of the centre — 11 km of beach-fringed shoreline with one official Hundestrand at the north-west corner. The most accessible dog-swimming option from Leipzig, S-Bahn S2 12 min.",
+          "descriptionFr": "Lac de 4,4 km² à 8 km au sud du centre — 11 km de rives plagées avec un Hundestrand officiel au coin nord-ouest. L'option de baignade canine la plus accessible depuis Leipzig, S-Bahn S2 12 min.",
+          "descriptionEs": "Lago de 4,4 km² a 8 km al sur del centro — 11 km de orilla con playas y un Hundestrand oficial en la esquina noroeste. La opción de baño canino más accesible desde Leipzig, S-Bahn S2 12 min.",
+          "amenities": [
+            "Public toilets",
+            "Beach café",
+            "S-Bahn access",
+            "Dedicated dog beach"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Café de plage",
+            "S-Bahn",
+            "Plage canine dédiée"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Café de playa",
+            "S-Bahn",
+            "Playa canina dedicada"
+          ],
+          "tip": "The Hundestrand is on the Markkleeberger side — exit S-Bahn at Markkleeberg-West, walk 8 min along the shoreline.",
+          "tipFr": "La Hundestrand est côté Markkleeberger — sortez à Markkleeberg-West, 8 min à pied le long de la rive.",
+          "tipEs": "La Hundestrand está en el lado Markkleeberger — sal en Markkleeberg-West, 8 min andando por la orilla.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cospudener+See+Hundestrand"
+        },
+        {
+          "name": "Markkleeberger See",
+          "address": "Wolfgang-Heinze-Straße 56, 04279 Leipzig",
+          "photo": "/images/city-places/leipzig-beaches-markkleeberger-see.jpg",
+          "leashRule": "Off-leash; dog beach in the south-east corner year-round",
+          "leashRuleFr": "Sans laisse ; plage canine au coin sud-est toute l'année",
+          "leashRuleEs": "Sin correa; playa canina en la esquina sureste todo el año",
+          "description": "A quieter sister lake to Cospudener — 2.5 km², connected by a short canal. Quieter than Cossi, with fewer summer crowds. The south-east Hundestrand is reachable by bus 70 from the centre.",
+          "descriptionFr": "Lac jumeau plus calme du Cospudener — 2,5 km², relié par un court canal. Plus calme que Cossi, moins de foule estivale. La Hundestrand sud-est est accessible par le bus 70 depuis le centre.",
+          "descriptionEs": "Lago hermano más tranquilo del Cospudener — 2,5 km², conectado por un corto canal. Más tranquilo que Cossi, menos multitudes en verano. La Hundestrand sureste es accesible en autobús 70 desde el centro.",
+          "amenities": [
+            "Public toilets",
+            "Restaurant",
+            "Free parking",
+            "Dog beach"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Restaurant",
+            "Parking gratuit",
+            "Plage canine"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Restaurante",
+            "Parking gratis",
+            "Playa canina"
+          ],
+          "tip": "Combine with the Auenhain canoe rental and a 4 km canal kayak loop — the rental accepts well-behaved leashed dogs in stable kayaks.",
+          "tipFr": "Combinez avec la location de canoë Auenhain et une boucle kayak de 4 km — la location accepte les chiens calmes en laisse dans les kayaks stables.",
+          "tipEs": "Combina con el alquiler de canoa Auenhain y un bucle de kayak de 4 km — el alquiler admite perros tranquilos con correa en kayaks estables.",
+          "googleMapsUrl": "https://maps.google.com/?q=Markkleeberger+See"
+        },
+        {
+          "name": "Kulkwitzer See",
+          "address": "Seestraße, 04420 Markranstädt",
+          "photo": "/images/city-places/leipzig-beaches-kulkwitzer-see.jpg",
+          "leashRule": "Off-leash; west-bank dog zone year-round",
+          "leashRuleFr": "Sans laisse ; zone canine rive ouest toute l'année",
+          "leashRuleEs": "Sin correa; zona canina orilla oeste todo el año",
+          "description": "A 1.5 km² lake 12 km west of the centre — quieter and less developed than Cossi, with the cleanest water in the Leipzig Neuseenland. The west bank has a year-round dog zone with sand entry. Tram 15 + 5 min walk.",
+          "descriptionFr": "Lac de 1,5 km² à 12 km à l'ouest du centre — plus calme et moins développé que Cossi, avec l'eau la plus propre du Neuseenland de Leipzig. La rive ouest a une zone canine toute l'année avec entrée sablonneuse. Tram 15 + 5 min à pied.",
+          "descriptionEs": "Lago de 1,5 km² a 12 km al oeste del centro — más tranquilo y menos desarrollado que Cossi, con el agua más limpia del Neuseenland de Leipzig. La orilla oeste tiene una zona canina todo el año con entrada arenosa. Tranvía 15 + 5 min a pie.",
+          "amenities": [
+            "Free parking",
+            "Sandy dog entry",
+            "Quiet shoreline"
+          ],
+          "amenitiesFr": [
+            "Parking gratuit",
+            "Entrée canine sablonneuse",
+            "Rive calme"
+          ],
+          "amenitiesEs": [
+            "Parking gratis",
+            "Entrada canina arenosa",
+            "Orilla tranquila"
+          ],
+          "tip": "Visit on weekday mornings — Saturday afternoons get busy with diving clubs (it's the Leipzig area's main dive lake).",
+          "tipFr": "Visitez en matinée de semaine — les samedis après-midi se remplissent de clubs de plongée (c'est le lac de plongée principal de la région).",
+          "tipEs": "Visita por la mañana entre semana — los sábados por la tarde se llenan de clubes de buceo (es el lago de buceo principal de la región).",
+          "googleMapsUrl": "https://maps.google.com/?q=Kulkwitzer+See"
+        }
+      ],
+      "tipsEn": [
+        "The Leipzig Neuseenland has 11 lakes with year-round Hundestrand zones — full map at neuseenland.de.",
+        "German municipal swimming beaches usually exclude dogs from May to September except in marked Hundestrand zones — always check the signposted area.",
+        "All three lakes above are reachable by S-Bahn or tram from the city centre — leashed medium/large dogs need a child-fare ticket + muzzle on board."
+      ],
+      "tipsFr": [
+        "Le Leipzig Neuseenland a 11 lacs avec zones Hundestrand toute l'année — carte complète sur neuseenland.de.",
+        "Les plages municipales allemandes excluent généralement les chiens de mai à septembre sauf dans les zones Hundestrand marquées — vérifiez toujours la zone signalée.",
+        "Les trois lacs ci-dessus sont accessibles en S-Bahn ou tram depuis le centre — chiens moyens/grands en laisse exigent billet enfant + muselière à bord."
+      ],
+      "tipsEs": [
+        "El Leipzig Neuseenland tiene 11 lagos con zonas Hundestrand todo el año — mapa completo en neuseenland.de.",
+        "Las playas municipales alemanas suelen excluir perros de mayo a septiembre salvo en zonas Hundestrand marcadas — comprueba siempre la zona señalizada.",
+        "Los tres lagos de arriba son accesibles en S-Bahn o tranvía desde el centro — perros medianos/grandes con correa requieren billete infantil + bozal a bordo."
+      ],
+      "faqsEn": [
+        {
+          "q": "How far is the nearest dog beach from Leipzig?",
+          "a": "About 12 min by S-Bahn S2 — Cospudener See (Hundestrand at Markkleeberg-West) is the closest official dog beach to the centre, open year-round."
+        },
+        {
+          "q": "Are dogs allowed on Leipzig area lakes in summer?",
+          "a": "Yes in designated Hundestrand zones at Cospudener, Markkleeberger and Kulkwitzer Seen. Main public swimming beaches exclude dogs from May to September."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "À quelle distance la plage canine la plus proche de Leipzig ?",
+          "a": "Environ 12 min en S-Bahn S2 — le Cospudener See (Hundestrand à Markkleeberg-West) est la plage canine officielle la plus proche du centre, ouverte toute l'année."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur les lacs de Leipzig en été ?",
+          "a": "Oui dans les zones Hundestrand désignées du Cospudener, Markkleeberger et Kulkwitzer Seen. Les plages publiques principales excluent les chiens de mai à septembre."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿A qué distancia está la playa canina más cercana de Leipzig?",
+          "a": "Unos 12 min en S-Bahn S2 — el Cospudener See (Hundestrand en Markkleeberg-West) es la playa canina oficial más cercana al centro, abierta todo el año."
+        },
+        {
+          "q": "¿Se admiten perros en los lagos de Leipzig en verano?",
+          "a": "Sí en las zonas Hundestrand designadas del Cospudener, Markkleeberger y Kulkwitzer Seen. Las playas públicas principales excluyen perros de mayo a septiembre."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Leipzig",
+      "titleFr": "Soins vétérinaires à Leipzig",
+      "titleEs": "Atención veterinaria en Leipzig",
+      "introEn": "Leipzig hosts the Faculty of Veterinary Medicine of Leipzig University — one of Germany's leading vet schools, with a 24h teaching hospital that handles complex referrals and weekend emergencies.",
+      "introFr": "Leipzig abrite la Faculté de médecine vétérinaire de l'Université de Leipzig — l'une des principales écoles vétérinaires d'Allemagne, dont l'hôpital d'enseignement 24h/24 gère les cas complexes et les urgences week-end.",
+      "introEs": "Leipzig alberga la Facultad de Medicina Veterinaria de la Universidad de Leipzig — una de las principales escuelas veterinarias de Alemania, cuyo hospital universitario 24h gestiona casos complejos y urgencias de fin de semana.",
+      "places": [
+        {
+          "name": "Veterinärmedizinische Fakultät Leipzig (24h)",
+          "address": "An den Tierkliniken 11, 04103 Leipzig",
+          "photo": "/images/city-places/leipzig-vets-veterinarmedizinische-fakultat-leipzig-24h.jpg",
+          "phone": "+49 341 9738 700",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.vmf.uni-leipzig.de/",
+          "description": "Leipzig University's veterinary teaching hospital — fully staffed 24/7 emergency room and Saxony's deepest specialist coverage (oncology, cardiology, neurology, orthopaedics, exotic species).",
+          "descriptionFr": "L'hôpital d'enseignement vétérinaire de l'Université de Leipzig — service d'urgences 24h/24 entièrement doté et la couverture spécialiste la plus profonde de Saxe (oncologie, cardiologie, neurologie, orthopédie, espèces exotiques).",
+          "descriptionEs": "El hospital universitario veterinario de la Universidad de Leipzig — urgencias 24h con plantilla completa y la cobertura especialista más profunda de Sajonia (oncología, cardiología, neurología, ortopedia, especies exóticas).",
+          "openingHours": "24/7 emergency; specialist clinics Mon-Fri 08:00-15:00",
+          "tip": "Call the emergency hotline before driving in — they triage by phone and may redirect for non-urgent cases.",
+          "tipFr": "Appelez le numéro d'urgence avant de venir — triage par téléphone et possible redirection pour cas non urgents.",
+          "tipEs": "Llama a urgencias antes de ir — hacen triaje por teléfono y pueden redirigir casos no urgentes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinaermedizinische+Fakultaet+Leipzig"
+        },
+        {
+          "name": "Tierarztpraxis Plagwitz",
+          "address": "Karl-Heine-Straße 27b, 04229 Leipzig",
+          "photo": "/images/city-places/leipzig-vets-tierarztpraxis-plagwitz.jpg",
+          "phone": "+49 341 4791 660",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierarzt-plagwitz.de/",
+          "description": "Modern day-time small-animal clinic in the Plagwitz district — general medicine, vaccinations, surgery, dentistry. After-hours calls divert to the Veterinärmedizinische Fakultät.",
+          "descriptionFr": "Clinique moderne pour petits animaux dans le quartier Plagwitz — médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers la Veterinärmedizinische Fakultät.",
+          "descriptionEs": "Clínica moderna para pequeños animales en el barrio Plagwitz — medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas a la Veterinärmedizinische Fakultät.",
+          "openingHours": "Mon-Fri 08:00-19:00, Sat 09:00-13:00",
+          "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
+          "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+        },
+        {
+          "name": "Tierklinik Leipzig (Lindenthaler)",
+          "address": "Schillerweg 30, 04425 Taucha",
+          "photo": "/images/city-places/leipzig-vets-tierklinik-leipzig-lindenthaler.jpg",
+          "phone": "+49 34298 700 70",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierklinik-leipzig.de/",
+          "description": "Private 24h emergency clinic 12 km north-east of the centre — full surgery, ICU, cardiology, ultrasound. Often less crowded than the university hospital for non-academic emergencies.",
+          "descriptionFr": "Clinique privée d'urgence 24h/24 à 12 km au nord-est du centre — chirurgie complète, USI, cardiologie, échographie. Souvent moins fréquentée que l'hôpital universitaire pour les urgences non académiques.",
+          "descriptionEs": "Clínica privada de urgencias 24h a 12 km al noreste del centro — cirugía completa, UCI, cardiología, ecografía. A menudo menos concurrida que el hospital universitario para urgencias no académicas.",
+          "openingHours": "24/7 emergency",
+          "tip": "Faster wait times than the university hospital but more expensive — useful for non-life-threatening overnight emergencies.",
+          "tipFr": "Temps d'attente plus rapides que l'hôpital universitaire mais plus cher — utile pour urgences nocturnes non vitales.",
+          "tipEs": "Tiempos de espera más rápidos que el hospital universitario pero más caro — útil para urgencias nocturnas no vitales.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Lindenthaler+Leipzig"
+        }
+      ],
+      "tipsEn": [
+        "Germany is in the EU and Schengen — standard EU pet passport with valid rabies vaccination and ISO microchip is sufficient for entry.",
+        "Two 24/7 emergency vets in the Leipzig area: the Veterinärmedizinische Fakultät (Innenstadt) and Tierklinik Lindenthaler (north-east) — call ahead for triage.",
+        "Always carry the original EU pet passport: photocopies are not accepted by German vet offices for export certificates."
+      ],
+      "tipsFr": [
+        "L'Allemagne est dans l'UE et l'espace Schengen — un passeport européen standard avec vaccin antirabique en cours et puce ISO suffit pour l'entrée.",
+        "Deux urgences vétérinaires 24h/24 dans la région : la Veterinärmedizinische Fakultät (Innenstadt) et la Tierklinik Lindenthaler (nord-est) — appelez avant pour triage.",
+        "Portez toujours le passeport européen original : les photocopies ne sont pas acceptées par les cabinets allemands pour les certificats d'export."
+      ],
+      "tipsEs": [
+        "Alemania está en la UE y Schengen — un pasaporte europeo estándar con vacuna antirrábica vigente y microchip ISO basta para entrar.",
+        "Dos urgencias veterinarias 24h en la zona: la Veterinärmedizinische Fakultät (Innenstadt) y la Tierklinik Lindenthaler (noreste) — llama antes para triaje.",
+        "Lleva siempre el pasaporte europeo original: las clínicas alemanas no aceptan fotocopias para certificados de exportación."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the 24h emergency vet in Leipzig?",
+          "a": "Two options: Veterinärmedizinische Fakultät of Leipzig University (An den Tierkliniken 11, +49 341 9738 700) and Tierklinik Lindenthaler (Schillerweg 30, +49 34298 700 70). Call ahead for triage."
+        },
+        {
+          "q": "Do I need a pet passport for Leipzig?",
+          "a": "Yes for entry from outside Germany. EU pet passport with rabies vaccination (≥21 days, not expired) and ISO microchip — standard EU rules."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire d'urgence 24h/24 à Leipzig ?",
+          "a": "Deux options : Veterinärmedizinische Fakultät de l'Université de Leipzig (An den Tierkliniken 11, +49 341 9738 700) et Tierklinik Lindenthaler (Schillerweg 30, +49 34298 700 70). Appelez avant pour triage."
+        },
+        {
+          "q": "Faut-il un passeport européen pour Leipzig ?",
+          "a": "Oui pour entrer depuis hors-Allemagne. Passeport européen avec vaccin antirabique (≥21 jours, non périmé) et puce ISO — règles UE standard."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h en Leipzig?",
+          "a": "Dos opciones: Veterinärmedizinische Fakultät de la Universidad de Leipzig (An den Tierkliniken 11, +49 341 9738 700) y Tierklinik Lindenthaler (Schillerweg 30, +49 34298 700 70). Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito pasaporte europeo para Leipzig?",
+          "a": "Sí para entrar desde fuera de Alemania. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travelling to Leipzig with a Dog: Practical Tips",
+      "titleFr": "Voyager à Leipzig avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Leipzig con perro: consejos prácticos",
+      "introEn": "Leipzig is one of the most underrated dog-travel destinations in Germany — compact medieval centre, the Auenwald floodplain forest at the gates, dense pub culture, fast ICE trains to Berlin, and prices well below Munich or Hamburg.",
+      "introFr": "Leipzig est l'une des destinations canines les plus sous-estimées d'Allemagne — centre médiéval compact, forêt alluviale Auenwald aux portes, culture pub dense, ICE rapides vers Berlin et prix bien en-dessous de Munich ou Hambourg.",
+      "introEs": "Leipzig es uno de los destinos caninos más infravalorados de Alemania — centro medieval compacto, bosque aluvial Auenwald a las puertas, densa cultura del pub, ICE rápidos a Berlín y precios muy por debajo de Múnich o Hamburgo.",
+      "places": [
+        {
+          "name": "Best season for visiting Leipzig with a dog",
+          "photo": "/images/city-places/leipzig-tips-best-season-for-visiting-leipzig-with-a-dog.jpg",
+          "description": "May-June and September are ideal — average highs 20-23 °C, the Auenwald is at its leafy best, and the Cospudener See water is warm enough for dog swimming. Avoid August (Leipziger Buchmesse and Wave-Gotik-Treffen festivals create dense crowds).",
+          "descriptionFr": "Mai-juin et septembre sont idéaux — maxima moyens 20-23 °C, l'Auenwald au mieux de sa frondaison, et l'eau du Cospudener See assez chaude pour la baignade canine. Évitez août (Leipziger Buchmesse et Wave-Gotik-Treffen créent des foules denses).",
+          "descriptionEs": "Mayo-junio y septiembre son ideales — máximas medias 20-23 °C, el Auenwald en lo mejor de su follaje, y el agua del Cospudener See suficientemente caliente para baño canino. Evita agosto (Leipziger Buchmesse y Wave-Gotik-Treffen crean multitudes densas)."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/leipzig-tips-currency-cost.jpg",
+          "description": "Germany uses the euro. Most hotels and restaurants accept Visa/Mastercard, but small Gaststätten often want cash. Pet supplements at Leipzig hotels average 12-15 €/night — significantly below Munich or Hamburg, in line with the EU median.",
+          "descriptionFr": "L'Allemagne utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites Gaststätten préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Leipzig tournent autour de 12-15 €/nuit — significativement en-dessous de Munich ou Hambourg, alignés sur la médiane UE.",
+          "descriptionEs": "Alemania usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las Gaststätten pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Leipzig rondan 12-15 €/noche — significativamente por debajo de Múnich o Hamburgo, en línea con la mediana UE."
+        },
+        {
+          "name": "Languages",
+          "photo": "/images/city-places/leipzig-tips-languages.jpg",
+          "description": "German is the official language. English is widely spoken in tourism (hotels, central restaurants, vets) and especially among under-40s. Useful German phrase: 'Ich habe einen Hund' = 'I have a dog'.",
+          "descriptionFr": "L'allemand est la langue officielle. L'anglais est largement parlé dans le tourisme (hôtels, restaurants centraux, vétérinaires) et surtout chez les moins de 40 ans. Phrase allemande utile : « Ich habe einen Hund » = « J'ai un chien ».",
+          "descriptionEs": "El alemán es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y sobre todo entre menores de 40. Frase alemana útil: « Ich habe einen Hund » = « Tengo un perro »."
+        }
+      ],
+      "tipsEn": [
+        "Leipzig is a dog-friendly bargain in Germany — average pet supplement 12-15 €/night, half the Munich average and on par with Berlin.",
+        "Pair Leipzig with a Berlin day trip — ICE 1h15 each way, dogs accepted both sides at child fare with muzzle.",
+        "The Neuseenland of Leipzig (lakes south of the city) is dog-friendly across most shores year-round — perfect for a half-day swim outing."
+      ],
+      "tipsFr": [
+        "Leipzig est une aubaine dog-friendly en Allemagne — supplément animaux moyen 12-15 €/nuit, moitié de Munich et au niveau de Berlin.",
+        "Combinez Leipzig avec une journée à Berlin — ICE 1h15 dans chaque sens, chiens acceptés des deux côtés au tarif enfant avec muselière.",
+        "Le Neuseenland de Leipzig (lacs au sud de la ville) est dog-friendly sur la plupart des rives toute l'année — parfait pour une demi-journée de baignade."
+      ],
+      "tipsEs": [
+        "Leipzig es una ganga dog-friendly en Alemania — suplemento medio para mascotas 12-15 €/noche, la mitad que Múnich y al nivel de Berlín.",
+        "Combina Leipzig con una excursión a Berlín — ICE 1h15 en cada sentido, perros admitidos en ambos lados a tarifa infantil con bozal.",
+        "El Neuseenland de Leipzig (lagos al sur de la ciudad) es dog-friendly en la mayoría de orillas todo el año — perfecto para una media jornada de baño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Leipzig good for a dog-friendly weekend?",
+          "a": "Yes — Leipzig combines a compact medieval centre, dense pub culture welcoming dogs, the 5 500-hectare Auenwald floodplain forest at the gates, and direct dog-swimming lakes 12 min by S-Bahn. Prices are well below Munich or Hamburg."
+        },
+        {
+          "q": "How does Leipzig compare to Berlin for dog travel?",
+          "a": "Leipzig is smaller and quieter, with arguably better off-leash forest access (the Auenwald is bigger than the Tiergarten). Berlin has more pet-friendly hotel options and direct international flights. Leipzig wins for a calmer, cheaper trip."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Leipzig est-elle bien pour un week-end dog-friendly ?",
+          "a": "Oui — Leipzig combine un centre médiéval compact, une culture pub dense qui accueille les chiens, la forêt alluviale Auenwald de 5 500 hectares aux portes et des lacs de baignade canine directe à 12 min en S-Bahn. Les prix sont bien en-dessous de Munich ou Hambourg."
+        },
+        {
+          "q": "Comment Leipzig se compare-t-elle à Berlin pour le voyage canin ?",
+          "a": "Leipzig est plus petite et plus calme, avec sans doute un meilleur accès forestier sans laisse (l'Auenwald est plus grande que le Tiergarten). Berlin a plus d'options hôtelières pet-friendly et des vols internationaux directs. Leipzig gagne pour un voyage plus calme et moins cher."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Leipzig es buena para un fin de semana dog-friendly?",
+          "a": "Sí — Leipzig combina un centro medieval compacto, densa cultura del pub que admite perros, el bosque aluvial Auenwald de 5 500 hectáreas a las puertas y lagos de baño canino directo a 12 min en S-Bahn. Los precios están muy por debajo de Múnich o Hamburgo."
+        },
+        {
+          "q": "¿Cómo se compara Leipzig con Berlín para viajes caninos?",
+          "a": "Leipzig es más pequeña y tranquila, con probablemente mejor acceso forestal sin correa (el Auenwald es mayor que el Tiergarten). Berlín tiene más opciones hoteleras pet-friendly y vuelos internacionales directos. Leipzig gana para un viaje más tranquilo y barato."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Leipzig",
+      "titleFr": "Attractions pet-friendly à Leipzig",
+      "titleEs": "Atracciones pet-friendly en Leipzig",
+      "introEn": "Most of Leipzig's signature outdoor sights are dog-friendly — Augustusplatz, the Markt, the Völkerschlachtdenkmal grounds, the Karl-Heine-Kanal towpath and the Mädler-Passage all welcome leashed dogs.",
+      "introFr": "La plupart des sites extérieurs signatures de Leipzig sont dog-friendly — Augustusplatz, le Markt, les terrains du Völkerschlachtdenkmal, le chemin de halage du Karl-Heine-Kanal et la Mädler-Passage accueillent tous les chiens en laisse.",
+      "introEs": "La mayoría de los lugares exteriores emblemáticos de Leipzig son dog-friendly — Augustusplatz, el Markt, los jardines del Völkerschlachtdenkmal, el camino de sirga del Karl-Heine-Kanal y la Mädler-Passage admiten todos perros con correa.",
+      "places": [
+        {
+          "name": "Markt & Old Town Hall",
+          "address": "Markt 1, 04109 Leipzig",
+          "photo": "/images/city-places/leipzig-attractions-markt-old-town-hall.jpg",
+          "petFriendly": true,
+          "description": "Leipzig's main square dominated by the Renaissance Old Town Hall (Altes Rathaus) — open 24/7, dog-friendly with leashed dogs throughout. The Tuesday-Saturday market and Christmas market are dog-tolerant.",
+          "descriptionFr": "La place principale de Leipzig dominée par l'ancien hôtel de ville Renaissance — ouverte 24h/24, dog-friendly avec chiens en laisse partout. Le marché du mardi au samedi et le marché de Noël tolèrent les chiens.",
+          "descriptionEs": "La plaza principal de Leipzig dominada por el antiguo ayuntamiento renacentista — abierta 24/7, dog-friendly con perros con correa en todas partes. El mercado de martes a sábado y el mercado navideño admiten perros.",
+          "petPolicy": "Public square, leashed dogs free",
+          "petPolicyFr": "Place publique, chiens en laisse gratuits",
+          "petPolicyEs": "Plaza pública, perros con correa gratis",
+          "openingHours": "24/7",
+          "tip": "Visit at sunset for the best photographs of the Altes Rathaus façade and the surrounding gabled houses.",
+          "tipFr": "Visitez au coucher du soleil pour les meilleures photos de la façade de l'Altes Rathaus et des maisons à pignons environnantes.",
+          "tipEs": "Visita al atardecer para las mejores fotos de la fachada del Altes Rathaus y las casas con frontones circundantes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Markt+Leipzig"
+        },
+        {
+          "name": "Völkerschlachtdenkmal Grounds",
+          "address": "Straße des 18. Oktober 100, 04299 Leipzig",
+          "photo": "/images/city-places/leipzig-attractions-volkerschlachtdenkmal-grounds.jpg",
+          "petFriendly": true,
+          "description": "The 91 m Battle of the Nations monument from 1913 — Europe's largest monument by mass. The lake-mirrored grounds and external terraces are dog-friendly with leashed dogs free of charge. The interior crypt and observation platform admit assistance dogs only.",
+          "descriptionFr": "Monument de la Bataille des Nations de 91 m datant de 1913 — le plus grand monument d'Europe en masse. Les terrains avec lac miroir et les terrasses extérieures sont dog-friendly avec chiens en laisse gratuits. La crypte intérieure et la plateforme d'observation n'admettent que les chiens d'assistance.",
+          "descriptionEs": "Monumento de la Batalla de las Naciones de 91 m de 1913 — el mayor monumento de Europa por masa. Los jardines con lago espejo y las terrazas exteriores son dog-friendly con perros con correa gratis. La cripta interior y la plataforma de observación solo admiten perros de asistencia.",
+          "petPolicy": "Dogs free on grounds; assistance only inside",
+          "petPolicyFr": "Chiens gratuits dans le parc ; chiens d'assistance uniquement à l'intérieur",
+          "petPolicyEs": "Perros gratis en jardines; solo de asistencia dentro",
+          "openingHours": "Grounds 24/7; interior 10:00-18:00",
+          "tip": "The reflecting pool at sunrise creates a spectacular mirror image — popular with dog photographers.",
+          "tipFr": "Le bassin réfléchissant au lever du soleil crée une image miroir spectaculaire — populaire chez les photographes canins.",
+          "tipEs": "El estanque reflectante al amanecer crea una imagen espejo espectacular — popular entre fotógrafos caninos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Voelkerschlachtdenkmal+Leipzig"
+        },
+        {
+          "name": "Karl-Heine-Kanal",
+          "address": "Karl-Heine-Straße, 04229 Leipzig",
+          "photo": "/images/city-places/leipzig-attractions-karl-heine-kanal.jpg",
+          "petFriendly": true,
+          "description": "A 7 km navigable canal that links Plagwitz to the Auenwald floodplain — towpaths off-leash and car-free along the entire length, dog-friendly Karli district cafés at the eastern end. Free.",
+          "descriptionFr": "Canal navigable de 7 km qui relie Plagwitz à l'Auenwald — chemins de halage sans laisse et sans voiture sur toute la longueur, cafés dog-friendly du quartier Karli à l'extrémité est. Gratuit.",
+          "descriptionEs": "Canal navegable de 7 km que conecta Plagwitz con el Auenwald — caminos de sirga sin correa y sin coches en toda la longitud, cafés dog-friendly del barrio Karli en el extremo este. Gratis.",
+          "petPolicy": "Off-leash on towpaths; free",
+          "petPolicyFr": "Sans laisse sur les chemins de halage ; gratuit",
+          "petPolicyEs": "Sin correa en caminos de sirga; gratis",
+          "openingHours": "24/7",
+          "tip": "Start at the König-Albert-Brücke in Plagwitz and walk east — you reach the Karli district in 25 min, perfect for a dog-friendly lunch stop.",
+          "tipFr": "Commencez au König-Albert-Brücke à Plagwitz et marchez vers l'est — vous atteignez le quartier Karli en 25 min, parfait pour un déjeuner dog-friendly.",
+          "tipEs": "Empieza en el König-Albert-Brücke en Plagwitz y camina al este — llegas al barrio Karli en 25 min, perfecto para una comida dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Karl-Heine-Kanal+Leipzig"
+        }
+      ],
+      "tipsEn": [
+        "Leipzig's outdoor attractions accept leashed dogs free of charge; museum interiors (Bach-Museum, Stasi-Museum, Bildermuseum) admit assistance dogs only.",
+        "The Bach-Museum's external Thomaskirche square is dog-friendly with leashed dogs — and the Bach grave inside the church admits assistance dogs only on guided tours.",
+        "Day trips by direct ICE: Berlin (1h15), Dresden (1h10), Halle (15 min) — leashed medium/large dogs accepted on DB at child fare with muzzle."
+      ],
+      "tipsFr": [
+        "Les attractions extérieures de Leipzig acceptent les chiens en laisse gratuitement ; les musées intérieurs (Bach-Museum, Stasi-Museum, Bildermuseum) n'admettent que les chiens d'assistance.",
+        "La place Thomaskirche extérieure du Bach-Museum est dog-friendly avec chiens en laisse — la tombe de Bach à l'intérieur de l'église n'admet que les chiens d'assistance lors des visites guidées.",
+        "Excursions en ICE direct : Berlin (1h15), Dresde (1h10), Halle (15 min) — chiens moyens/grands en laisse acceptés sur DB au tarif enfant avec muselière."
+      ],
+      "tipsEs": [
+        "Las atracciones al aire libre de Leipzig admiten perros con correa gratis; los museos interiores (Bach-Museum, Stasi-Museum, Bildermuseum) solo admiten perros de asistencia.",
+        "La plaza Thomaskirche exterior del Bach-Museum es dog-friendly con perros con correa — la tumba de Bach en el interior de la iglesia solo admite perros de asistencia en visitas guiadas.",
+        "Excursiones en ICE directo: Berlín (1h15), Dresde (1h10), Halle (15 min) — perros medianos/grandes con correa admitidos en DB a tarifa infantil con bozal."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the Völkerschlachtdenkmal?",
+          "a": "To the surrounding park and external terraces yes, with a leash, free of charge. The interior crypt and observation platform admit assistance dogs only."
+        },
+        {
+          "q": "Are dogs allowed in the Karli district?",
+          "a": "Yes — the Karl-Liebknecht-Straße neighbourhood is one of Leipzig's most dog-friendly areas, with cafés, beer gardens and the Karl-Heine-Kanal towpath all welcoming leashed dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien au Völkerschlachtdenkmal ?",
+          "a": "Dans le parc autour et sur les terrasses extérieures oui, en laisse, gratuit. La crypte intérieure et la plateforme d'observation n'admettent que les chiens d'assistance."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans le quartier Karli ?",
+          "a": "Oui — le quartier Karl-Liebknecht-Straße est l'un des plus dog-friendly de Leipzig, avec cafés, biergartens et chemin de halage Karl-Heine-Kanal qui accueillent tous les chiens en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al Völkerschlachtdenkmal?",
+          "a": "Al parque circundante y a las terrazas exteriores sí, con correa, gratis. La cripta interior y la plataforma de observación solo admiten perros de asistencia."
+        },
+        {
+          "q": "¿Se admiten perros en el barrio Karli?",
+          "a": "Sí — el barrio Karl-Liebknecht-Straße es uno de los más dog-friendly de Leipzig, con cafés, biergartens y el camino de sirga Karl-Heine-Kanal admitiendo todos perros con correa."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Walking in Leipzig",
+      "titleFr": "Pet-sitting et promenade canine à Leipzig",
+      "titleEs": "Pet-sitting y paseo canino en Leipzig",
+      "introEn": "For day trips where the dog cannot come (Bach-Museum interior, Völkerschlachtdenkmal crypt, Bildermuseum) Leipzig has reliable verified pet-sitting through international and German platforms.",
+      "introFr": "Pour les excursions où le chien ne peut pas venir (intérieur du Bach-Museum, crypte du Völkerschlachtdenkmal, Bildermuseum), Leipzig propose un pet-sitting fiable et vérifié via plateformes internationales et allemandes.",
+      "introEs": "Para las excursiones donde el perro no puede ir (interior del Bach-Museum, cripta del Völkerschlachtdenkmal, Bildermuseum), Leipzig tiene pet-sitting fiable y verificado a través de plataformas internacionales y alemanas.",
+      "places": [
+        {
+          "name": "Pawshake Leipzig",
+          "languages": [
+            "English",
+            "German"
+          ],
+          "description": "International pet-sitting platform with about 40 verified Leipzig-based sitters within 5 km of the centre — drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
+          "descriptionFr": "Plateforme internationale avec environ 40 sitters vérifiés basés à Leipzig dans un rayon de 5 km du centre — visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
+          "descriptionEs": "Plataforma internacional con unos 40 cuidadores verificados con base en Leipzig en un radio de 5 km del centro — visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
+          "website": "https://www.pawshake.de/dog-sitting/leipzig",
+          "tip": "Filter for English-speaking sitters in the platform settings — about 70% of Leipzig sitters speak fluent English.",
+          "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 70 % des sitters de Leipzig parlent anglais couramment.",
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 70 % de los cuidadores de Leipzig habla inglés con fluidez."
+        },
+        {
+          "name": "DogBuddy / Rover.com Leipzig",
+          "languages": [
+            "English",
+            "German"
+          ],
+          "description": "Rover.com (formerly DogBuddy) operates in Leipzig with around 30 verified sitters. Average rate 25-35 €/day for boarding; insurance and 24/7 support included with each booking.",
+          "descriptionFr": "Rover.com (anciennement DogBuddy) opère à Leipzig avec environ 30 sitters vérifiés. Tarif moyen 25-35 €/jour pour l'hébergement ; assurance et support 24h/24 inclus à chaque réservation.",
+          "descriptionEs": "Rover.com (antes DogBuddy) opera en Leipzig con unos 30 cuidadores verificados. Tarifa media 25-35 €/día para alojamiento; seguro y soporte 24/7 incluidos en cada reserva.",
+          "website": "https://www.rover.com/de/search/?location=Leipzig",
+          "tip": "Book at least 48h ahead in summer — most popular sitters have a 3-week waiting list in August.",
+          "tipFr": "Réservez au moins 48h à l'avance en été — les sitters les plus populaires ont 3 semaines de liste d'attente en août.",
+          "tipEs": "Reserva al menos 48h antes en verano — los cuidadores más populares tienen 3 semanas de lista de espera en agosto."
+        }
+      ],
+      "tipsEn": [
+        "Leipzig pet-sitter rates average 25-35 €/day — about 30% below Munich or Hamburg, on par with Berlin.",
+        "Always confirm the sitter's English fluency before booking if you don't speak German — instructions about medication or feeding can be misread.",
+        "Several boutique hotels in central Leipzig offer in-house dog-sitting for guests during sightseeing — ask at check-in."
+      ],
+      "tipsFr": [
+        "Les tarifs des sitters de Leipzig tournent autour de 25-35 €/jour — environ 30 % en-dessous de Munich ou Hambourg, au niveau de Berlin.",
+        "Confirmez toujours le niveau d'anglais du sitter avant de réserver si vous ne parlez pas allemand — les instructions médicaments ou repas peuvent être mal lues.",
+        "Plusieurs hôtels boutiques du centre proposent une garde canine maison pour leurs clients pendant les visites — demandez au check-in."
+      ],
+      "tipsEs": [
+        "Las tarifas de los cuidadores de Leipzig rondan 25-35 €/día — alrededor del 30 % por debajo de Múnich o Hamburgo, al nivel de Berlín.",
+        "Confirma siempre el nivel de inglés del cuidador antes de reservar si no hablas alemán — las instrucciones de medicación o comida pueden malinterpretarse.",
+        "Varios hoteles boutique del centro ofrecen cuidado canino interno para sus clientes durante las visitas — pregunta en el check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog day-care cost in Leipzig?",
+          "a": "25-35 € per day depending on sitter and dog size, via Pawshake or Rover. Drop-in visits run 12-15 € for 30 minutes."
+        },
+        {
+          "q": "Can I find an English-speaking sitter in Leipzig?",
+          "a": "Yes — about 70% of Leipzig sitters on Pawshake speak fluent English. Filter the platform by language and read recent reviews to confirm fluency."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garderie canine à Leipzig ?",
+          "a": "25-35 € par jour selon le sitter et la taille du chien, via Pawshake ou Rover. Visites à domicile 12-15 € pour 30 min."
+        },
+        {
+          "q": "Puis-je trouver un sitter anglophone à Leipzig ?",
+          "a": "Oui — environ 70 % des sitters de Leipzig sur Pawshake parlent anglais couramment. Filtrez par langue et lisez les avis récents pour confirmer."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta la guardería canina en Leipzig?",
+          "a": "25-35 € por día según cuidador y tamaño del perro, vía Pawshake o Rover. Visitas a domicilio 12-15 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador anglohablante en Leipzig?",
+          "a": "Sí — alrededor del 70 % de los cuidadores de Leipzig en Pawshake habla inglés con fluidez. Filtra por idioma y lee reseñas recientes para confirmar."
+        }
+      ]
+    }
+  }
+}

@@ -1250,6 +1250,79 @@
     }
   },
   {
+    "slug": "brno",
+    "name": "Brno",
+    "country": "Czech Republic",
+    "flag": "🇨🇿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brno.jpg",
+    "intro": "Brno — Moravia's vibrant capital — combines a compact UNESCO-flanked old town, the Špilberk hilltop park, 14 fenced off-leash zones and a year-round dog-swimming reservoir 25 min away by tram.",
+    "lat": 49.1951,
+    "lng": 16.6068,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & cloudy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & cloudy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & cloudy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "bruges",
     "name": "Bruges",
     "country": "Belgium",
@@ -3370,6 +3443,79 @@
         "temp": 3,
         "desc": "Cold & grey",
         "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "leipzig",
+    "name": "Leipzig",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/leipzig.jpg",
+    "intro": "Leipzig — Saxony's musical capital and the city of Bach — combines the 5,500-hectare Auenwald floodplain forest, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen, and a year-round Hundestrand at Cospudener See 12 minutes by S-Bahn.",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
       }
     }
   },

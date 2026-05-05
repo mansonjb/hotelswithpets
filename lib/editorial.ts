@@ -106,6 +106,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Ashton Court Estate, the Downs at the top of the Avon Gorge, and the floating Bristol Ferry to the Wapping Wharf',
       area: 'Clifton, the Harbourside, and Stokes Croft',
     },
+    brno: {
+      personality: `Moravia's compact and remarkably affordable capital — 14 fenced municipal off-leash zones, dog-tolerant pivnice culture across the centre, and a year-round dog-swimming reservoir 25 minutes by tram`,
+      highlight: `the Špilberk hilltop park, the Brno Dam reservoir at Bystrc, and the South Moravian wine region day trips to Pavlov and Mikulov`,
+      area: `the medieval centre around náměstí Svobody, Lužánky, and the Bystrc lakeside district`,
+    },
     bruges: {
       personality: 'a beautifully preserved medieval city where dogs trot alongside their owners on cobbled streets, canal towpaths, and through the quiet surrounding countryside',
       highlight: 'the Minnewater park, the canal network towpaths, and the Koningin Astridpark',
@@ -250,6 +255,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'Switzerland\'s Olympic Capital on Lake Geneva — one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
       area: 'Ouchy (lakeside), the Flon creative district, and the medieval Cité',
+    },
+    leipzig: {
+      personality: `Saxony's musical capital and the city of Bach — 5,500-hectare Auenwald floodplain forest in the centre, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen and a year-round Hundestrand at Cospudener See 12 min by S-Bahn`,
+      highlight: `the Auenwald floodplain forest, the Cospudener See dog beach, and the Karl-Heine-Kanal towpath linking Plagwitz to the Karli district`,
+      area: `the Innenstadt around the Markt, the Karli (Karl-Liebknecht-Straße), and the Plagwitz creative district`,
     },
     lille: {
       personality: 'a flemish-influenced northern French city of cobbled lanes and brick gabled houses, home to Europe\'s first dedicated dog café and a flat, walkable centre where dogs ride the métro free of charge',
@@ -589,6 +599,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Ashton Court Estate, les Downs au sommet de l\'Avon Gorge et le ferry flottant Bristol Ferry vers Wapping Wharf',
       area: 'Clifton, le Harbourside et Stokes Croft',
     },
+    brno: {
+      personality: `la capitale compacte et étonnamment abordable de Moravie — 14 zones sans laisse municipales clôturées, une culture pivnice qui tolère les chiens dans tout le centre, et un réservoir de baignade canine toute l'année à 25 minutes en tram`,
+      highlight: `le parc au sommet du Špilberk, la Brněnská přehrada à Bystrc et les excursions dans la région viticole de Moravie du Sud à Pavlov et Mikulov`,
+      area: `le centre médiéval autour de náměstí Svobody, Lužánky et le quartier lacustre de Bystrc`,
+    },
     bruges: {
       personality: 'une magnifique ville médiévale préservée où les chiens trottent aux côtés de leurs propriétaires sur des rues pavées, des chemins de halage et à travers la tranquille campagne environnante',
       highlight: 'le parc de Minnewater, les chemins de halage du réseau de canaux et le Koningin Astridpark',
@@ -733,6 +748,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la Capitale Olympique suisse sur le lac Léman — l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
       area: 'Ouchy (bord du lac), le quartier créatif du Flon et la Cité médiévale',
+    },
+    leipzig: {
+      personality: `la capitale musicale de la Saxe et la ville de Bach — forêt alluviale Auenwald de 5 500 hectares au centre, chemin de halage dog-friendly du Karl-Heine-Kanal, 11 Hundeauslaufzonen clôturées et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn`,
+      highlight: `la forêt alluviale Auenwald, la plage canine du Cospudener See et le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz au quartier Karli`,
+      area: `l'Innenstadt autour du Markt, le Karli (Karl-Liebknecht-Straße) et le quartier créatif de Plagwitz`,
     },
     lille: {
       personality: `une ville du nord de la France d'influence flamande, faite de ruelles pavées et de maisons à pignons en brique, qui abrite le premier café à chiens d'Europe et un centre plat et marchable où les chiens voyagent gratuitement en métro`,
@@ -1071,6 +1091,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Ashton Court Estate, los Downs en lo alto de la Garganta del Avon y el ferri flotante Bristol Ferry hasta Wapping Wharf',
       area: 'Clifton, el Harbourside y Stokes Croft',
     },
+    brno: {
+      personality: `la capital compacta y sorprendentemente asequible de Moravia — 14 zonas valladas sin correa municipales, una cultura de pivnice que admite perros en todo el centro, y un embalse de baño canino todo el año a 25 minutos en tranvía`,
+      highlight: `el parque en lo alto del Špilberk, la Brněnská přehrada en Bystrc y las excursiones a la región vinícola de Moravia del Sur en Pavlov y Mikulov`,
+      area: `el centro medieval alrededor de náměstí Svobody, Lužánky y el barrio lacustre de Bystrc`,
+    },
     bruges: {
       personality: 'una hermosa ciudad medieval conservada donde los perros trotean junto a sus dueños por calles empedradas, caminos de sirga y a través del tranquilo campo circundante',
       highlight: 'el parque Minnewater, los caminos de sirga de la red de canales y el Koningin Astridpark',
@@ -1215,6 +1240,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la Capital Olímpica suiza en el lago Lemán — una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
       area: 'Ouchy (a orillas del lago), el barrio creativo del Flon y la Cité medieval',
+    },
+    leipzig: {
+      personality: `la capital musical de Sajonia y la ciudad de Bach — bosque aluvial Auenwald de 5 500 hectáreas en el centro, camino de sirga dog-friendly del Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn`,
+      highlight: `el bosque aluvial Auenwald, la playa canina del Cospudener See y el camino de sirga del Karl-Heine-Kanal que conecta Plagwitz con el barrio Karli`,
+      area: `la Innenstadt alrededor del Markt, el Karli (Karl-Liebknecht-Straße) y el barrio creativo de Plagwitz`,
     },
     lille: {
       personality: `una ciudad del norte de Francia de influencia flamenca, de calles adoquinadas y casas de ladrillo con frontones, sede del primer café canino de Europa y con un centro plano y caminable donde los perros viajan gratis en metro`,

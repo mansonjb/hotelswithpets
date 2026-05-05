@@ -1870,6 +1870,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  brno: {
+    history: {
+      fr: `Brno, deuxième ville de République tchèque et capitale historique de la Moravie, fut fondée au XIIIe siècle au confluent des rivières Svratka et Svitava. Cité libre royale dès 1243, elle a connu sa plus grande heure de gloire sous les Habsbourg, avec le château de Špilberk transformé en forteresse et la cathédrale Pierre-et-Paul édifiée sur la colline de Petrov. Au XXe siècle, Brno devient un laboratoire architectural mondial : la Villa Tugendhat de Mies van der Rohe (1930, UNESCO 2001) et plusieurs dizaines de villas fonctionnalistes sont nées ici. Pour les voyageurs avec un chien, c'est une révélation centrale-européenne : centre médiéval marchable de bout en bout en 20 min, culture pivnice (brasseries) qui accueille les chiens par défaut, 14 zones sans laisse municipales clôturées, et un réservoir de baignade canine toute l'année à 25 min en tram. Vienne est à 1h35 en train, Prague à 2h30 — Brno est la base idéale pour explorer l'Europe centrale en mode économique avec un chien.`,
+      en: `Brno, the Czech Republic's second city and Moravia's historic capital, was founded in the 13th century at the confluence of the Svratka and Svitava rivers. A free royal city from 1243, it reached its peak under the Habsburgs, with Špilberk Castle turned into a fortress and the cathedral of St Peter and St Paul rising on the hill of Petrov. In the 20th century, Brno became a world architectural laboratory: Mies van der Rohe's Villa Tugendhat (1930, UNESCO 2001) and several dozen Functionalist villas were born here. For travellers with a dog, it's a Central European revelation: a medieval centre walkable end-to-end in 20 minutes, a pivnice (beer-hall) culture that welcomes dogs by default, 14 fenced municipal off-leash zones, and a year-round dog-swimming reservoir 25 min away by tram. Vienna is 1h35 by train, Prague 2h30 — Brno is the ideal base for exploring Central Europe on a budget with a dog.`,
+      es: `Brno, la segunda ciudad de la República Checa y capital histórica de Moravia, fue fundada en el siglo XIII en la confluencia de los ríos Svratka y Svitava. Ciudad libre real desde 1243, alcanzó su mayor esplendor bajo los Habsburgo, con el castillo de Špilberk convertido en fortaleza y la catedral de San Pedro y San Pablo levantándose sobre la colina de Petrov. En el siglo XX, Brno se convirtió en un laboratorio arquitectónico mundial: la Villa Tugendhat de Mies van der Rohe (1930, UNESCO 2001) y varias docenas de villas funcionalistas nacieron aquí. Para los viajeros con perro, es una revelación de Europa central: centro medieval caminable de extremo a extremo en 20 minutos, cultura de pivnice (cervecerías) que admite perros por defecto, 14 zonas valladas sin correa municipales, y un embalse de baño canino todo el año a 25 min en tranvía. Viena está a 1h35 en tren, Praga a 2h30 — Brno es la base ideal para explorar Europa central con presupuesto ajustado y un perro.`,
+    },
+    sights: [
+      { name: 'Špilberk', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Château et parc au sommet de la colline qui dominent Brno — terrains et bois extérieurs ouverts aux chiens en laisse, gratuit. Le musée intérieur n'admet que les chiens d'assistance.`,
+        en: `Hilltop castle and park dominating Brno — outdoor grounds and woods open to leashed dogs, free. The interior museum admits assistance dogs only.`,
+        es: `Castillo y parque en lo alto de la colina que domina Brno — jardines exteriores y bosques abiertos a perros con correa, gratis. El museo interior solo admite perros de asistencia.`,
+      }},
+      { name: 'Lužánky', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus ancien parc public de Brno (1786) — 23 hectares, allées formelles, étang, deux zones sans laisse clôturées (psí louka).`,
+        en: `Brno's oldest public park (1786) — 23 hectares, formal allées, a pond, two fenced off-leash zones (psí louka).`,
+        es: `El parque público más antiguo de Brno (1786) — 23 hectáreas, paseos formales, un estanque, dos zonas valladas sin correa (psí louka).`,
+      }},
+      { name: 'Brněnská přehrada', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Réservoir de 2,6 km² à 25 min en tram du centre — 8 km de rives boisées, baignade canine toute l'année, vapeur à roue à aubes qui accepte les chiens gratuitement.`,
+        en: `A 2.6 km² reservoir 25 min by tram from the centre — 8 km of wooded shoreline, year-round dog-swimming, paddle-steamer that accepts dogs free.`,
+        es: `Embalse de 2,6 km² a 25 min en tranvía del centro — 8 km de orilla boscosa, baño canino todo el año, barco de vapor de paletas que admite perros gratis.`,
+      }},
+      { name: 'Náměstí Svobody', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La place principale de Brno — terrasses pet-friendly tout autour, marchés saisonniers, le célèbre obélisque astronomique noir.`,
+        en: `Brno's main square — pet-friendly terraces all around, seasonal markets, the famous black astronomical obelisk.`,
+        es: `La plaza principal de Brno — terrazas pet-friendly alrededor, mercados estacionales, el famoso obelisco astronómico negro.`,
+      }},
+      { name: 'Wilson Forest', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Forêt urbaine de 60 hectares au nord du centre — sentiers sans laisse, accès depuis le quartier de Černá Pole, à 10 min à pied de Lužánky.`,
+        en: `A 60-hectare urban forest north of the centre — off-leash trails, access from the Černá Pole district, 10 min on foot from Lužánky.`,
+        es: `Bosque urbano de 60 hectáreas al norte del centro — senderos sin correa, acceso desde el barrio de Černá Pole, a 10 min a pie de Lužánky.`,
+      }},
+      { name: 'Petrov Cathedral Hill', emoji: '⛪', petFriendly: true, desc: {
+        fr: `La colline et le jardin Denisovy sady au pied de la cathédrale Pierre-et-Paul — chiens en laisse bienvenus à l'extérieur, vue panoramique sur la vieille ville.`,
+        en: `The hill and Denisovy sady garden at the foot of St Peter and St Paul Cathedral — leashed dogs welcome outside, panoramic old-town view.`,
+        es: `La colina y el jardín Denisovy sady al pie de la catedral de San Pedro y San Pablo — perros con correa bienvenidos fuera, vista panorámica del casco antiguo.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture pivnice tchèque accueille les chiens par défaut — environ 70 % des brasseries de Brno acceptent les chiens en laisse en salle principale.`,
+        `Tram et bus DPMB : chiens moyens/grands avec muselière + billet « jízdenka pro psa » (15 CZK) ; petits chiens en cage gratuits.`,
+        `14 zones sans laisse municipales clôturées (psí louka) — carte officielle sur brno.cz.`,
+        `Vétérinaire d'urgence 24h/24 : VFU Veterinary Teaching Hospital, Palackého třída 1946/1 (+420 541 562 111).`,
+        `Brno est l'une des villes les moins chères d'Europe pour le voyage canin — supplément animaux moyen 250 CZK/nuit (~10 €), moitié de la moyenne UE.`,
+      ],
+      en: [
+        `Czech pivnice culture welcomes dogs by default — about 70% of Brno beer halls accept leashed dogs in the main room.`,
+        `DPMB trams and buses: medium/large dogs with muzzle + 'jízdenka pro psa' ticket (15 CZK); small dogs in carrier free.`,
+        `14 fenced municipal off-leash zones (psí louka) — official map on brno.cz.`,
+        `24/7 emergency vet: VFU Veterinary Teaching Hospital, Palackého třída 1946/1 (+420 541 562 111).`,
+        `Brno is one of Europe's cheapest cities for dog travel — average pet supplement 250 CZK/night (~10 €), half the EU average.`,
+      ],
+      es: [
+        `La cultura pivnice checa admite perros por defecto — alrededor del 70 % de las cervecerías de Brno acepta perros con correa en la sala principal.`,
+        `Tranvía y bus DPMB: perros medianos/grandes con bozal + billete 'jízdenka pro psa' (15 CZK); perros pequeños en transportín gratis.`,
+        `14 zonas valladas sin correa municipales (psí louka) — mapa oficial en brno.cz.`,
+        `Veterinario de urgencias 24/7: VFU Veterinary Teaching Hospital, Palackého třída 1946/1 (+420 541 562 111).`,
+        `Brno es una de las ciudades más baratas de Europa para viajar con perro — suplemento medio 250 CZK/noche (~10 €), la mitad de la media UE.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `République tchèque dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Pas de passeport européen ? Émission possible chez Avetum (Lesná) ou Lentilka (Vídeňská) ; ~800 CZK.`,
+        `Trains ČD directs : Vienne 1h35, Bratislava 1h25, Prague 2h30, Budapest 4h, Berlin 5h — chiens à demi-tarif avec muselière.`,
+        `Aéroport Brno-Tuřany (BRQ) à 8 km du centre — bus 76 ou Bolt « Pets » (+30 CZK) ; pas de quarantaine pour les vols UE.`,
+        `Devise : couronne tchèque (CZK), 1 € ≈ 25 CZK. Budget journalier dog-friendly : 1 200-1 800 CZK (50-75 €) hors hébergement.`,
+      ],
+      en: [
+        `Czechia is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `No EU pet passport? Issuance possible at Avetum (Lesná) or Lentilka (Vídeňská); ~800 CZK.`,
+        `Direct ČD trains: Vienna 1h35, Bratislava 1h25, Prague 2h30, Budapest 4h, Berlin 5h — dogs at half-fare with muzzle.`,
+        `Brno-Tuřany Airport (BRQ) 8 km from the centre — bus 76 or Bolt 'Pets' (+30 CZK); no quarantine for EU flights.`,
+        `Currency: Czech koruna (CZK), 1 € ≈ 25 CZK. Daily dog-friendly budget: 1 200-1 800 CZK (50-75 €) excluding accommodation.`,
+      ],
+      es: [
+        `Chequia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `¿Sin pasaporte europeo? Emisión posible en Avetum (Lesná) o Lentilka (Vídeňská); ~800 CZK.`,
+        `Trenes ČD directos: Viena 1h35, Bratislava 1h25, Praga 2h30, Budapest 4h, Berlín 5h — perros a media tarifa con bozal.`,
+        `Aeropuerto Brno-Tuřany (BRQ) a 8 km del centro — autobús 76 o Bolt 'Pets' (+30 CZK); sin cuarentena para vuelos UE.`,
+        `Moneda: corona checa (CZK), 1 € ≈ 25 CZK. Presupuesto diario dog-friendly: 1 200-1 800 CZK (50-75 €) sin alojamiento.`,
+      ],
+    },
+  },
+
   bruges: {
     history: {
       en: 'Medieval Bruges — the "Venice of the North" — is one of Europe\'s best-preserved historic city centres, and one of its most dog-friendly. Belgians take dogs everywhere: into shops, cafés, restaurants and even some museums. The city\'s compact size (easily walkable in a day), its canal-side paths and its relaxed attitude to dogs in public spaces make it an ideal short-break destination for pet owners.',
@@ -5079,6 +5165,92 @@ const cityContent: Record<string, CityContent> = {
         'Lausana disfruta de un clima lacustre templado: veranos cálidos (25-30 °C), inviernos suaves con nieve ocasional (0-5 °C) — un destino practicable todo el año.',
         'El franco suizo (CHF) es la moneda; los precios son elevados pero los hoteles de esta guía tienen políticas de mascotas claramente establecidas y sin sorpresas.',
         'Los supermercados Migros y Coop ofrecen alimentos para mascotas de buena calidad — las grandes tiendas abren 7 días a la semana incluido el domingo en la estación central.',
+      ],
+    },
+  },
+
+  leipzig: {
+    history: {
+      fr: `Leipzig, capitale historique de la Saxe et carrefour commercial européen depuis le XIIe siècle, est mondialement célèbre pour sa scène musicale (Bach y dirigea le chœur Saint-Thomas pendant 27 ans) et pour avoir été le berceau de la Révolution pacifique de 1989 qui mit fin à l'Allemagne de l'Est. Aujourd'hui, c'est l'une des villes les plus dynamiques et abordables d'Allemagne — quartier créatif Plagwitz dans d'anciennes filatures, scène café dense sur le Karli, et un centre médiéval compact dominé par la Renaissance Altes Rathaus. Pour les voyageurs avec un chien, Leipzig est une révélation : 5 500 hectares de forêt alluviale Auenwald qui pénètrent jusqu'au centre, 11 Hundeauslaufzonen municipales clôturées, le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz à la Karli sur 7 km sans laisse, et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn. ICE direct vers Berlin en 1h15 et vers Dresde en 1h10 — Leipzig est la base idéale pour explorer l'est allemand avec un chien à un coût bien inférieur à Munich ou Hambourg.`,
+      en: `Leipzig, Saxony's historic capital and a European trade hub since the 12th century, is world-famous for its musical scene (Bach directed the Thomanerchor for 27 years) and for being the cradle of the 1989 Peaceful Revolution that ended East Germany. Today, it's one of Germany's most dynamic and affordable cities — the Plagwitz creative district in former cotton mills, a dense café scene on the Karli, and a compact medieval centre dominated by the Renaissance Altes Rathaus. For travellers with a dog, Leipzig is a revelation: 5,500 hectares of Auenwald floodplain forest reaching into the centre, 11 fenced municipal Hundeauslaufzonen, the Karl-Heine-Kanal towpath linking Plagwitz to the Karli on 7 km off-leash, and a year-round Hundestrand at Cospudener See 12 min by S-Bahn. Direct ICE to Berlin in 1h15 and to Dresden in 1h10 — Leipzig is the ideal base for exploring eastern Germany with a dog at a cost well below Munich or Hamburg.`,
+      es: `Leipzig, capital histórica de Sajonia y centro comercial europeo desde el siglo XII, es mundialmente famosa por su escena musical (Bach dirigió el Thomanerchor durante 27 años) y por haber sido la cuna de la Revolución Pacífica de 1989 que puso fin a Alemania del Este. Hoy es una de las ciudades más dinámicas y asequibles de Alemania — barrio creativo Plagwitz en antiguas hilaturas de algodón, densa escena café en el Karli, y un centro medieval compacto dominado por el renacentista Altes Rathaus. Para los viajeros con perro, Leipzig es una revelación: 5 500 hectáreas de bosque aluvial Auenwald que llegan hasta el centro, 11 Hundeauslaufzonen municipales valladas, el camino de sirga del Karl-Heine-Kanal que conecta Plagwitz con el Karli en 7 km sin correa, y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn. ICE directo a Berlín en 1h15 y a Dresde en 1h10 — Leipzig es la base ideal para explorar el este alemán con un perro a un coste muy por debajo de Múnich o Hamburgo.`,
+    },
+    sights: [
+      { name: 'Auenwald', emoji: '🌲', petFriendly: true, desc: {
+        fr: `La plus grande forêt alluviale urbaine d'Europe — 5 500 ha de chênes et frênes, sentiers sans laisse hors saison de nidification (avril-juillet en laisse).`,
+        en: `Europe's largest urban floodplain forest — 5,500 ha of oak and ash, off-leash trails outside the April-July nesting season.`,
+        es: `El mayor bosque aluvial urbano de Europa — 5 500 ha de robles y fresnos, senderos sin correa fuera de la temporada de nidificación (abril-julio).`,
+      }},
+      { name: 'Karl-Heine-Kanal', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Canal navigable de 7 km qui relie Plagwitz à la Karli — chemins de halage sans voiture et sans laisse sur toute la longueur.`,
+        en: `A 7 km navigable canal linking Plagwitz to the Karli — towpaths car-free and off-leash along the entire length.`,
+        es: `Canal navegable de 7 km que conecta Plagwitz con el Karli — caminos de sirga sin coches y sin correa en toda la longitud.`,
+      }},
+      { name: 'Clara-Zetkin-Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus grand parc central de Leipzig — 124 hectares avec une grande Hundeauslaufzone clôturée au sud-ouest et équipements d'agility.`,
+        en: `Leipzig's largest central park — 124 hectares with a large fenced Hundeauslaufzone in the south-west and agility equipment.`,
+        es: `El mayor parque central de Leipzig — 124 hectáreas con una gran Hundeauslaufzone vallada al suroeste y equipo de agility.`,
+      }},
+      { name: 'Cospudener See', emoji: '🏊', petFriendly: true, desc: {
+        fr: `Lac de 4,4 km² à 12 min en S-Bahn — Hundestrand officielle au coin nord-ouest, baignade canine toute l'année.`,
+        en: `A 4.4 km² lake 12 min by S-Bahn — official Hundestrand at the north-west corner, year-round dog swimming.`,
+        es: `Lago de 4,4 km² a 12 min en S-Bahn — Hundestrand oficial en la esquina noroeste, baño canino todo el año.`,
+      }},
+      { name: 'Markt & Altes Rathaus', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La place principale dominée par l'ancien hôtel de ville Renaissance — ouverte 24h/24, dog-friendly, marchés saisonniers.`,
+        en: `The main square dominated by the Renaissance Old Town Hall — open 24/7, dog-friendly, seasonal markets.`,
+        es: `La plaza principal dominada por el antiguo ayuntamiento renacentista — abierta 24/7, dog-friendly, mercados estacionales.`,
+      }},
+      { name: 'Völkerschlachtdenkmal', emoji: '🗿', petFriendly: true, desc: {
+        fr: `Monument de la Bataille des Nations de 91 m (1913) — terrains et bassin réfléchissant dog-friendly, intérieur réservé aux chiens d'assistance.`,
+        en: `The 91 m Battle of the Nations monument (1913) — grounds and reflecting pool dog-friendly, interior assistance dogs only.`,
+        es: `Monumento de la Batalla de las Naciones de 91 m (1913) — jardines y estanque reflectante dog-friendly, interior solo perros de asistencia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture Gaststätten allemande accueille les chiens par défaut — environ 75 % des pubs de Leipzig acceptent les chiens en laisse en salle principale.`,
+        `Trams et bus LVB : chiens moyens/grands avec muselière + billet enfant (environ 1,40 €) ; petits chiens en cage gratuits.`,
+        `11 Hundeauslaufzonen municipales clôturées + 14 km de chemins riverains sans laisse — carte officielle sur leipzig.de.`,
+        `Vétérinaire d'urgence 24h/24 : Veterinärmedizinische Fakultät, An den Tierkliniken 11 (+49 341 9738 700).`,
+        `Leipzig est l'une des villes les plus abordables d'Allemagne pour le voyage canin — supplément animaux moyen 12-15 €/nuit, moitié de Munich.`,
+      ],
+      en: [
+        `German Gaststätten culture welcomes dogs by default — about 75% of Leipzig pubs accept leashed dogs in the main room.`,
+        `LVB trams and buses: medium/large dogs with muzzle + child-fare ticket (about 1.40 €); small dogs in carrier free.`,
+        `11 fenced municipal Hundeauslaufzonen + 14 km of off-leash riverside paths — official map on leipzig.de.`,
+        `24/7 emergency vet: Veterinärmedizinische Fakultät, An den Tierkliniken 11 (+49 341 9738 700).`,
+        `Leipzig is one of Germany's most affordable cities for dog travel — average pet supplement 12-15 €/night, half of Munich.`,
+      ],
+      es: [
+        `La cultura Gaststätten alemana admite perros por defecto — alrededor del 75 % de los pubs de Leipzig acepta perros con correa en la sala principal.`,
+        `Tranvías y buses LVB: perros medianos/grandes con bozal + billete infantil (unos 1,40 €); perros pequeños en transportín gratis.`,
+        `11 Hundeauslaufzonen valladas municipales + 14 km de caminos ribereños sin correa — mapa oficial en leipzig.de.`,
+        `Veterinario de urgencias 24/7: Veterinärmedizinische Fakultät, An den Tierkliniken 11 (+49 341 9738 700).`,
+        `Leipzig es una de las ciudades más asequibles de Alemania para viajar con perro — suplemento medio 12-15 €/noche, la mitad que Múnich.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Allemagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains DB ICE directs : Berlin 1h15, Dresde 1h10, Munich 3h, Francfort 3h, Vienne 5h30 — petits chiens en cage gratuits, grands au tarif enfant + muselière.`,
+        `Aéroport Leipzig/Halle (LEJ) à 14 km au nord — S-Bahn S5/S5X toutes les 30 min ; chiens en laisse acceptés au tarif enfant.`,
+        `Devise : euro. Budget journalier dog-friendly : 65-90 € hors hébergement, soit 30 % en-dessous de Munich.`,
+        `Festivals à éviter avec un chien anxieux : Wave-Gotik-Treffen (Pentecôte), Leipziger Buchmesse (mars), Bachfest (juin) — foule très dense en centre.`,
+      ],
+      en: [
+        `Germany is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct DB ICE trains: Berlin 1h15, Dresden 1h10, Munich 3h, Frankfurt 3h, Vienna 5h30 — small dogs in carrier free, larger at child fare + muzzle.`,
+        `Leipzig/Halle Airport (LEJ) 14 km north — S-Bahn S5/S5X every 30 min; leashed dogs at child fare.`,
+        `Currency: euro. Daily dog-friendly budget: 65-90 € excluding accommodation, about 30% below Munich.`,
+        `Festivals to avoid with an anxious dog: Wave-Gotik-Treffen (Whitsun), Leipziger Buchmesse (March), Bachfest (June) — very dense crowds downtown.`,
+      ],
+      es: [
+        `Alemania está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes DB ICE directos: Berlín 1h15, Dresde 1h10, Múnich 3h, Fráncfort 3h, Viena 5h30 — perros pequeños en transportín gratis, mayores a tarifa infantil + bozal.`,
+        `Aeropuerto Leipzig/Halle (LEJ) a 14 km al norte — S-Bahn S5/S5X cada 30 min; perros con correa a tarifa infantil.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 65-90 € sin alojamiento, alrededor del 30 % por debajo de Múnich.`,
+        `Festivales a evitar con perro ansioso: Wave-Gotik-Treffen (Pentecostés), Leipziger Buchmesse (marzo), Bachfest (junio) — multitudes muy densas en el centro.`,
       ],
     },
   },

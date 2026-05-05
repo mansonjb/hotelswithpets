@@ -2621,6 +2621,127 @@
     "slug": "premier-inn-bristol-city-centre-haymarket"
   },
   {
+    "id": "brno-1",
+    "name": "Grandezza Hotel Luxury Palace",
+    "destinationSlug": "brno",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2240,
+    "priceFrom": 3800,
+    "currency": "CZK",
+    "bookingUrl": "https://www.booking.com/hotel/cz/grandezza-luxury-palace.en-gb.html",
+    "petFee": 350,
+    "petPolicy": "Grandezza Hotel Luxury Palace — a five-star Belle Époque palace on Zelný trh — welcomes pets in selected room categories. A pet fee of 350 CZK per night applies. Up to two pets per room with a recommended max 25 kg per pet. Špilberk park is 8 min on foot. Pets on a lead in lobbies; not allowed in the restaurant. Declare your pet when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Spa"
+    ],
+    "slug": "grandezza-hotel-luxury-palace"
+  },
+  {
+    "id": "brno-2",
+    "name": "Hotel International Brno",
+    "destinationSlug": "brno",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3420,
+    "priceFrom": 2950,
+    "currency": "CZK",
+    "bookingUrl": "https://www.booking.com/hotel/cz/internationalbrno.en-gb.html",
+    "petFee": 300,
+    "petPolicy": "Hotel International Brno — a 4-star hotel facing Husovy sady park — welcomes pets at 300 CZK per night. Up to two pets per room. Špilberk and Husovy sady are at the doorstep. Pets on lead in common areas; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Indoor pool",
+      "Restaurant"
+    ],
+    "slug": "hotel-international-brno"
+  },
+  {
+    "id": "brno-3",
+    "name": "Cosmopolitan Bobycentrum",
+    "destinationSlug": "brno",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4180,
+    "priceFrom": 2200,
+    "currency": "CZK",
+    "bookingUrl": "https://www.booking.com/hotel/cz/cosmopolitan-bobycentrum.en-gb.html",
+    "petFee": 250,
+    "petPolicy": "Cosmopolitan Bobycentrum — a 4-star hotel north-east of the centre with on-site free parking — welcomes pets at 250 CZK per night. Up to two pets per room. Wilson Forest is 10 min on foot. Tram 5 from the door direct to centre in 10 min.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "cosmopolitan-bobycentrum"
+  },
+  {
+    "id": "brno-4",
+    "name": "Hotel Pegas",
+    "destinationSlug": "brno",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 2890,
+    "priceFrom": 1850,
+    "currency": "CZK",
+    "bookingUrl": "https://www.booking.com/hotel/cz/pegas-brno.en-gb.html",
+    "petFee": 200,
+    "petPolicy": "Hotel Pegas — a 3-star family-run hotel on Jakubská just 200 m from náměstí Svobody — welcomes dogs at 200 CZK per night. One dog per room standard, second on prior request. Špilberk park 7 min on foot. Cats accepted on prior request.",
+    "highlights": [
+      "Free WiFi",
+      "On-site pivnice",
+      "Family-run"
+    ],
+    "slug": "hotel-pegas"
+  },
+  {
+    "id": "brno-5",
+    "name": "OREA Hotel Voroněž Brno",
+    "destinationSlug": "brno",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3640,
+    "priceFrom": 1650,
+    "currency": "CZK",
+    "bookingUrl": "https://www.booking.com/hotel/cz/voronez-i.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "OREA Hotel Voroněž Brno — a large 3-star hotel near the BVV exhibition grounds — welcomes pets free of charge. Up to two pets per room. Tram 1 to centre in 8 min. The Brno Dam is 15 min by tram further on the same line.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "orea-hotel-voronez-brno"
+  },
+  {
     "id": "bruges-1",
     "name": "Dukes' Palace Brugge - by Dukes' Hotel Collection",
     "destinationSlug": "bruges",
@@ -7044,6 +7165,127 @@
       "Near Parc de Montbenon"
     ],
     "slug": "alpha-palmiers-hotel-lausanne"
+  },
+  {
+    "id": "leipzig-1",
+    "name": "Steigenberger Grandhotel Handelshof",
+    "destinationSlug": "leipzig",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 3450,
+    "priceFrom": 225,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/steigenberger-grandhotel-handelshof.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Steigenberger Grandhotel Handelshof — a five-star landmark hotel facing the Markt — welcomes pets in selected room categories. A pet fee of 25 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Markt and Augustusplatz are at the doorstep. Pets on lead in lobbies; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "steigenberger-grandhotel-handelshof"
+  },
+  {
+    "id": "leipzig-2",
+    "name": "INNSiDE by Meliá Leipzig",
+    "destinationSlug": "leipzig",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2890,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/innside-leipzig.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "INNSiDE by Meliá Leipzig — a 4-star design hotel near Augustusplatz — welcomes pets at 20 € per night. Up to two pets per room. Clara-Zetkin-Park is 10 min on foot. Pets on lead in common areas; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar"
+    ],
+    "slug": "innside-leipzig"
+  },
+  {
+    "id": "leipzig-3",
+    "name": "pentahotel Leipzig",
+    "destinationSlug": "leipzig",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3680,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/pentahotel-leipzig.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "pentahotel Leipzig — a 4-star hotel north-east of the centre near the BMW plant — welcomes pets at 15 € per night. Up to two pets per room. Free parking. Tram to Markt 12 min.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "pentahotel-leipzig"
+  },
+  {
+    "id": "leipzig-4",
+    "name": "Motel One Leipzig-Augustusplatz",
+    "destinationSlug": "leipzig",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 4220,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/motel-one-leipzig-augustusplatz.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Motel One Leipzig-Augustusplatz — a 3-star design budget hotel on Augustusplatz — welcomes dogs at 10 € per night. One dog per room standard. Cats accepted on prior request. Markt 5 min on foot. Direct tram from the door to S-Bahn station.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Central location"
+    ],
+    "slug": "motel-one-leipzig-augustusplatz"
+  },
+  {
+    "id": "leipzig-5",
+    "name": "NH Collection Leipzig",
+    "destinationSlug": "leipzig",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2960,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/nh-collection-leipzig.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "NH Collection Leipzig — a 4-star hotel facing Augustusplatz — welcomes pets at 15 € per night. Up to two pets per room. Auenwald and Clara-Zetkin-Park 12 min on foot. Pets on lead in common areas; restaurant only with prior agreement.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Fitness"
+    ],
+    "slug": "nh-collection-leipzig"
   },
   {
     "id": "lille-1",

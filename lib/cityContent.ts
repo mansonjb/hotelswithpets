@@ -5169,6 +5169,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lecce: {
+    history: {
+      fr: `Lecce, capitale du Salento et surnommée la « Florence du Sud », est une cité grecque puis romaine devenue l'un des plus grands centres baroques d'Europe au XVIIe siècle. La pietra leccese — un calcaire local doré et tendre — a permis aux sculpteurs locaux de couvrir façades, balcons et portails de motifs floraux et de figures grimaçantes d'une virtuosité inégalée, créant un style appelé « barocco leccese » qui culmine sur la façade de la Basilica di Santa Croce. Sous la place principale Sant'Oronzo se cache un amphithéâtre romain du IIe siècle (capacité 25 000) ; à 600 mètres au sud, la Piazza del Duomo forme l'une des places fermées les plus spectaculaires d'Italie. Pour les voyageurs avec un chien, Lecce est une révélation : centro storico piéton de bout en bout en 15 min, culture café/trattoria tolérante du Salento, plages canines toute l'année à Punta Prosciutto et Frassanito à 30-45 min, et un coût de vie bien en-dessous de l'Italie centrale ou du Nord.`,
+      en: `Lecce, the capital of Salento and nicknamed the 'Florence of the South', began as a Greek and then Roman city before becoming one of Europe's greatest 17th-century baroque centres. Pietra leccese — a soft, golden local limestone — allowed local sculptors to cover façades, balconies and doorways with floral motifs and grimacing figures of unmatched virtuosity, creating a style known as 'barocco leccese' that culminates on the façade of the Basilica di Santa Croce. Under the main Piazza Sant'Oronzo lies a 2nd-century Roman amphitheatre (capacity 25,000); 600 metres south, Piazza del Duomo forms one of Italy's most spectacular enclosed squares. For travellers with a dog, Lecce is a revelation: a centro storico walkable end-to-end in 15 min, dog-tolerant Salento café/trattoria culture, year-round dog beaches at Punta Prosciutto and Frassanito 30-45 min away, and a cost of living well below central or northern Italy.`,
+      es: `Lecce, capital del Salento y apodada la « Florencia del Sur », empezó como ciudad griega y luego romana antes de convertirse en uno de los grandes centros barrocos europeos del siglo XVII. La pietra leccese — una piedra caliza local suave y dorada — permitió a los escultores locales cubrir fachadas, balcones y portales de motivos florales y figuras gesticulantes de una virtuosidad inigualada, creando un estilo llamado « barocco leccese » que culmina en la fachada de la Basilica di Santa Croce. Bajo la principal Piazza Sant'Oronzo se esconde un anfiteatro romano del siglo II (aforo 25 000); 600 metros al sur, la Piazza del Duomo forma una de las plazas cerradas más espectaculares de Italia. Para los viajeros con perro, Lecce es una revelación: centro storico caminable de extremo a extremo en 15 min, cultura del café/trattoria tolerante del Salento, playas caninas todo el año en Punta Prosciutto y Frassanito a 30-45 min, y un coste de vida muy por debajo de Italia central o norte.`,
+    },
+    sights: [
+      { name: 'Piazza del Duomo', emoji: '⛪', petFriendly: true, desc: {
+        fr: `L'une des places baroques les plus spectaculaires d'Italie — cathédrale, palais épiscopal, séminaire et campanile dans une piazza fermée. Ouverte 24h/24, dog-friendly.`,
+        en: `One of Italy's most spectacular baroque squares — cathedral, bishop's palace, seminary and bell tower in an enclosed piazza. Open 24/7, dog-friendly.`,
+        es: `Una de las plazas barrocas más espectaculares de Italia — catedral, palacio episcopal, seminario y campanario en una piazza cerrada. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Anfiteatro Romano', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Amphithéâtre romain du IIe siècle sur la Piazza Sant'Oronzo — visible 24h/24 depuis le pavement, dog-friendly avec chiens en laisse gratuits.`,
+        en: `2nd-century Roman amphitheatre on Piazza Sant'Oronzo — visible 24/7 from the pavement, dog-friendly with leashed dogs free of charge.`,
+        es: `Anfiteatro romano del siglo II en la Piazza Sant'Oronzo — visible 24/7 desde el pavimento, dog-friendly con perros con correa gratis.`,
+      }},
+      { name: 'Basilica di Santa Croce', emoji: '✨', petFriendly: true, desc: {
+        fr: `Chef-d'œuvre du baroque salentin — façade du XVIIe siècle sculptée en pietra leccese. Vue extérieure dog-friendly ; intérieur réservé aux chiens d'assistance.`,
+        en: `Salento baroque masterpiece — 17th-century façade carved in pietra leccese. Outdoor view dog-friendly; interior assistance dogs only.`,
+        es: `Obra maestra del barroco salentino — fachada del siglo XVII tallada en pietra leccese. Vista exterior dog-friendly; interior solo perros de asistencia.`,
+      }},
+      { name: 'Villa Comunale Garibaldi', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le jardin central principal — 4 ha sous les pins, kiosque à musique, ornements. À 4 min à pied de la Piazza Duomo. Chiens en laisse.`,
+        en: `The main central garden — 4 ha under tall pines, bandstand, ornaments. 4 min on foot from Piazza Duomo. Leashed dogs.`,
+        es: `El principal jardín central — 4 ha bajo grandes pinos, quiosco de música, ornamentos. A 4 min a pie de Piazza Duomo. Perros con correa.`,
+      }},
+      { name: 'Porta Napoli', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Arche triomphale Renaissance de 1548 marquant l'entrée nord de la ville — point de départ de la promenade vers la Villa Comunale et les remparts.`,
+        en: `Renaissance triumphal arch from 1548 marking the city's northern entrance — start of the walk toward Villa Comunale and the walls.`,
+        es: `Arco triunfal renacentista de 1548 que marca la entrada norte de la ciudad — inicio del paseo hacia Villa Comunale y las murallas.`,
+      }},
+      { name: 'Castello Carlo V (exterior)', emoji: '🏯', petFriendly: true, desc: {
+        fr: `Forteresse Renaissance du XVIe siècle — cour intérieure et douves dog-friendly avec chiens en laisse, intérieur réservé aux chiens d'assistance.`,
+        en: `16th-century Renaissance fortress — inner courtyard and moat dog-friendly with leashed dogs, interior assistance dogs only.`,
+        es: `Fortaleza renacentista del siglo XVI — patio interior y foso dog-friendly con perros con correa, interior solo perros de asistencia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café/trattoria du Salento est largement dog-friendly — environ 75 % des établissements de Lecce acceptent les chiens en laisse en terrasse.`,
+        `Trains FSE et Trenitalia : chiens moyens/grands avec muselière + billet demi-tarif ; petits chiens en cage gratuits.`,
+        `Centro storico entièrement piéton — attention à la pietra leccese l'été, plus de 50 °C en surface, bottines ou baume essentiels.`,
+        `Vétérinaire d'urgence 24h/24 : Clinica Veterinaria San Francesco, San Cesario di Lecce (+39 0832 205 600), 12 min en voiture.`,
+        `Plages canines officielles : Punta Prosciutto (Bau Beach, 45 min), Frassanito (Alimini, 50 min), Torre Chianca (15 min) — toutes accessibles toute l'année.`,
+      ],
+      en: [
+        `Salento café/trattoria culture is broadly dog-friendly — about 75% of Lecce venues accept leashed dogs on the front terrace.`,
+        `FSE and Trenitalia trains: medium/large dogs with muzzle + half-fare ticket; small dogs in carrier free.`,
+        `Centro storico is fully pedestrian — watch the pietra leccese in summer, surface 50 °C+, boots or paw balm essential.`,
+        `24/7 emergency vet: Clinica Veterinaria San Francesco, San Cesario di Lecce (+39 0832 205 600), 12 min by car.`,
+        `Official dog beaches: Punta Prosciutto (Bau Beach, 45 min), Frassanito (Alimini, 50 min), Torre Chianca (15 min) — all year-round access.`,
+      ],
+      es: [
+        `La cultura del café/trattoria del Salento es ampliamente dog-friendly — alrededor del 75 % de los locales de Lecce admite perros con correa en la terraza delantera.`,
+        `Trenes FSE y Trenitalia: perros medianos/grandes con bozal + billete a media tarifa; perros pequeños en transportín gratis.`,
+        `Centro storico totalmente peatonal — cuidado con la pietra leccese en verano, superficie 50 °C+, botines o bálsamo esenciales.`,
+        `Veterinario de urgencias 24/7: Clinica Veterinaria San Francesco, San Cesario di Lecce (+39 0832 205 600), 12 min en coche.`,
+        `Playas caninas oficiales: Punta Prosciutto (Bau Beach, 45 min), Frassanito (Alimini, 50 min), Torre Chianca (15 min) — todas con acceso todo el año.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Italie dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains directs Frecciargento Trenitalia : Bari 1h30, Rome 5h30, Milan 8h — petits chiens en cage gratuits, grands à demi-tarif + muselière.`,
+        `Aéroport Brindisi (BDS) à 30 min en voiture ; Bari (BRI) à 2h en voiture ou 1h30 en Frecciargento — vols directs vers Rome, Milan, Munich, Berlin.`,
+        `Devise : euro. Budget journalier dog-friendly : 50-80 € hors hébergement, l'un des plus bas d'Italie.`,
+        `Festivals à éviter avec un chien : Notte della Taranta (août, à Melpignano 30 km), Festa di Sant'Oronzo (24-26 août, centro storico bondé).`,
+      ],
+      en: [
+        `Italy is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct Frecciargento Trenitalia trains: Bari 1h30, Rome 5h30, Milan 8h — small dogs in carrier free, larger at half-fare + muzzle.`,
+        `Brindisi Airport (BDS) 30 min by car; Bari (BRI) 2h by car or 1h30 by Frecciargento — direct flights to Rome, Milan, Munich, Berlin.`,
+        `Currency: euro. Daily dog-friendly budget: 50-80 € excluding accommodation, one of Italy's lowest.`,
+        `Festivals to avoid with a dog: Notte della Taranta (August, in Melpignano 30 km away), Festa di Sant'Oronzo (24-26 August, centro storico packed).`,
+      ],
+      es: [
+        `Italia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes directos Frecciargento Trenitalia: Bari 1h30, Roma 5h30, Milán 8h — perros pequeños en transportín gratis, grandes a media tarifa + bozal.`,
+        `Aeropuerto de Brindisi (BDS) a 30 min en coche; Bari (BRI) a 2h en coche o 1h30 en Frecciargento — vuelos directos a Roma, Milán, Múnich, Berlín.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 50-80 € sin alojamiento, uno de los más bajos de Italia.`,
+        `Festivales a evitar con perro: Notte della Taranta (agosto, en Melpignano a 30 km), Festa di Sant'Oronzo (24-26 agosto, centro storico abarrotado).`,
+      ],
+    },
+  },
+
   leipzig: {
     history: {
       fr: `Leipzig, capitale historique de la Saxe et carrefour commercial européen depuis le XIIe siècle, est mondialement célèbre pour sa scène musicale (Bach y dirigea le chœur Saint-Thomas pendant 27 ans) et pour avoir été le berceau de la Révolution pacifique de 1989 qui mit fin à l'Allemagne de l'Est. Aujourd'hui, c'est l'une des villes les plus dynamiques et abordables d'Allemagne — quartier créatif Plagwitz dans d'anciennes filatures, scène café dense sur le Karli, et un centre médiéval compact dominé par la Renaissance Altes Rathaus. Pour les voyageurs avec un chien, Leipzig est une révélation : 5 500 hectares de forêt alluviale Auenwald qui pénètrent jusqu'au centre, 11 Hundeauslaufzonen municipales clôturées, le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz à la Karli sur 7 km sans laisse, et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn. ICE direct vers Berlin en 1h15 et vers Dresde en 1h10 — Leipzig est la base idéale pour explorer l'est allemand avec un chien à un coût bien inférieur à Munich ou Hambourg.`,

@@ -7167,6 +7167,129 @@
     "slug": "alpha-palmiers-hotel-lausanne"
   },
   {
+    "id": "lecce-1",
+    "name": "Patria Palace Lecce",
+    "destinationSlug": "lecce",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2240,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/patria-palace.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Patria Palace Lecce — a five-star palazzo facing the Basilica di Santa Croce — welcomes pets in selected room categories. A pet fee of 20 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Piazza Sant'Oronzo and Piazza Duomo within 3 min on foot. Pets on lead in lobbies; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Restaurant"
+    ],
+    "slug": "patria-palace-lecce"
+  },
+  {
+    "id": "lecce-2",
+    "name": "Risorgimento Resort",
+    "destinationSlug": "lecce",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1980,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/risorgimento-resort.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Risorgimento Resort — a 5-star palazzo on Via Augusto Imperatore — welcomes pets at 20 € per night. Up to two pets per room. Villa Comunale 5 min on foot. Pets on lead in common areas; rooftop spa not pet-accessible.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop spa",
+      "Restaurant"
+    ],
+    "slug": "risorgimento-resort-lecce"
+  },
+  {
+    "id": "lecce-3",
+    "name": "Mantatelurè Dimora Esclusiva",
+    "destinationSlug": "lecce",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1340,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/mantatelure.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Mantatelurè Dimora Esclusiva — a boutique design hotel in a 16th-century palazzo on Via Vito Carlo Greco — welcomes pets at 15 € per night. Up to two pets per room. Piazza Duomo and Basilica di Santa Croce 5 min on foot. Pets on lead in common courtyard.",
+    "highlights": [
+      "Free WiFi",
+      "Patio garden",
+      "Boutique design"
+    ],
+    "slug": "mantatelure-dimora-esclusiva"
+  },
+  {
+    "id": "lecce-4",
+    "name": "Hotel President Lecce",
+    "destinationSlug": "lecce",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3120,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/president-lecce.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hotel President Lecce — a 4-star hotel near the train station — welcomes pets at 10 € per night. Up to two pets per room. Free parking. Centro storico 12 min on foot.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "hotel-president-lecce"
+  },
+  {
+    "id": "lecce-5",
+    "name": "B&B Centro Storico Lecce",
+    "destinationSlug": "lecce",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 1850,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/b-b-centro-storico-lecce.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "B&B Centro Storico Lecce — a family-run B&B inside a restored Salento palazzo on Via Federico d'Aragona — welcomes pets free of charge. One pet per room standard, second on prior request. Piazza Sant'Oronzo 4 min on foot. Cats accepted on prior request.",
+    "highlights": [
+      "Free WiFi",
+      "Family-run",
+      "Central location"
+    ],
+    "slug": "bb-centro-storico-lecce"
+  },
+  {
     "id": "leipzig-1",
     "name": "Steigenberger Grandhotel Handelshof",
     "destinationSlug": "leipzig",

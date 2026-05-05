@@ -3447,6 +3447,79 @@
     }
   },
   {
+    "slug": "lecce",
+    "name": "Lecce",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lecce.jpg",
+    "intro": "Lecce — the 'Florence of the South' — combines a UNESCO baroque centro storico, dog-tolerant Salento café culture, year-round dog beaches at Punta Prosciutto and Frassanito 30-45 minutes away, and prices well below central Italy.",
+    "lat": 40.3515,
+    "lng": 18.175,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "leipzig",
     "name": "Leipzig",
     "country": "Germany",

@@ -256,6 +256,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
       area: 'Ouchy (lakeside), the Flon creative district, and the medieval Cité',
     },
+    lecce: {
+      personality: `the 'Florence of the South' — UNESCO baroque centro storico carved entirely in honey-coloured pietra leccese, dog-tolerant Salento café culture, and year-round dog beaches at Punta Prosciutto and Frassanito 30-45 min by car`,
+      highlight: `Piazza del Duomo and the Basilica di Santa Croce, the Roman amphitheatre on Piazza Sant'Oronzo, and the Salento dog beaches at Punta Prosciutto and Frassanito`,
+      area: `the centro storico around Piazza Sant'Oronzo, the Mazzini quarter near the station, and the residential Borgo Piave`,
+    },
     leipzig: {
       personality: `Saxony's musical capital and the city of Bach — 5,500-hectare Auenwald floodplain forest in the centre, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen and a year-round Hundestrand at Cospudener See 12 min by S-Bahn`,
       highlight: `the Auenwald floodplain forest, the Cospudener See dog beach, and the Karl-Heine-Kanal towpath linking Plagwitz to the Karli district`,
@@ -754,6 +759,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
       area: 'Ouchy (bord du lac), le quartier créatif du Flon et la Cité médiévale',
     },
+    lecce: {
+      personality: `la « Florence du Sud » — centro storico baroque UNESCO sculpté entièrement en pietra leccese couleur miel, culture café tolérante du Salento et plages canines toute l'année à Punta Prosciutto et Frassanito à 30-45 min en voiture`,
+      highlight: `la Piazza del Duomo et la Basilica di Santa Croce, l'amphithéâtre romain de la Piazza Sant'Oronzo, et les plages canines du Salento à Punta Prosciutto et Frassanito`,
+      area: `le centro storico autour de la Piazza Sant'Oronzo, le quartier Mazzini près de la gare et le résidentiel Borgo Piave`,
+    },
     leipzig: {
       personality: `la capitale musicale de la Saxe et la ville de Bach — forêt alluviale Auenwald de 5 500 hectares au centre, chemin de halage dog-friendly du Karl-Heine-Kanal, 11 Hundeauslaufzonen clôturées et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn`,
       highlight: `la forêt alluviale Auenwald, la plage canine du Cospudener See et le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz au quartier Karli`,
@@ -1250,6 +1260,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la Capital Olímpica suiza en el lago Lemán — una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
       area: 'Ouchy (a orillas del lago), el barrio creativo del Flon y la Cité medieval',
+    },
+    lecce: {
+      personality: `la « Florencia del Sur » — centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura del café tolerante del Salento y playas caninas todo el año en Punta Prosciutto y Frassanito a 30-45 min en coche`,
+      highlight: `la Piazza del Duomo y la Basilica di Santa Croce, el anfiteatro romano de la Piazza Sant'Oronzo, y las playas caninas del Salento en Punta Prosciutto y Frassanito`,
+      area: `el centro storico alrededor de la Piazza Sant'Oronzo, el barrio Mazzini cerca de la estación y el residencial Borgo Piave`,
     },
     leipzig: {
       personality: `la capital musical de Sajonia y la ciudad de Bach — bosque aluvial Auenwald de 5 500 hectáreas en el centro, camino de sirga dog-friendly del Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn`,

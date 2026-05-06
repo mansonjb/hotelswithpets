@@ -4,5 +4,920 @@
   "country": "Germany",
   "flag": "🇩🇪",
   "lastUpdated": "2026-05-06",
-  "guides": {}
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Heidelberg",
+      "titleFr": "Restaurants dog-friendly à Heidelberg",
+      "titleEs": "Restaurantes dog-friendly en Heidelberg",
+      "introEn": "Heidelberg's beer-garden and Weinstube culture is reliably dog-friendly — leashed dogs are welcomed in Gaststätten by default, water bowls appear without asking, and the Hauptstraße and Neckar-riverside Weinstuben concentrate the best independent venues.",
+      "introFr": "La culture biergarten et Weinstube de Heidelberg est fiablement dog-friendly — les chiens en laisse sont admis dans les Gaststätten par défaut, les gamelles apparaissent sans demander, et la Hauptstraße et les Weinstuben en bord de Neckar concentrent les meilleures adresses.",
+      "introEs": "La cultura del biergarten y la Weinstube de Heidelberg es fiablemente dog-friendly — los perros con correa se admiten en Gaststätten por defecto, los boles aparecen sin pedirlos, y la Hauptstraße y las Weinstuben junto al Neckar concentran las mejores direcciones.",
+      "places": [
+        {
+          "name": "Zum Roten Ochsen",
+          "address": "Hauptstraße 217, 69117 Heidelberg",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/heidelberg-restaurants-zum-roten-ochsen.jpg",
+          "website": "https://www.roterochsen.de/",
+          "description": "A 1703 student tavern famed for centuries of carved wood-panelled walls, songbooks chained to the tables, and Schnitzel served by the same family since 1839. Dogs welcome on leash inside; water bowls behind the bar.",
+          "descriptionFr": "Taverne étudiante de 1703 célèbre pour ses murs en bois sculpté, ses cahiers de chants enchaînés aux tables et son Schnitzel servi par la même famille depuis 1839. Chiens en laisse bienvenus à l'intérieur ; gamelles derrière le bar.",
+          "descriptionEs": "Taberna estudiantil de 1703 famosa por sus paredes de madera tallada, sus cancioneros encadenados a las mesas y su Schnitzel servido por la misma familia desde 1839. Perros con correa bienvenidos dentro; boles detrás de la barra.",
+          "petPolicy": "Dogs welcome inside on leash",
+          "petPolicyFr": "Chiens en laisse bienvenus à l'intérieur",
+          "petPolicyEs": "Perros con correa bienvenidos dentro",
+          "priceRange": "EUR EUR",
+          "mustTry": "Schnitzel Heidelberger Art, Spätzle, Pfälzer Saumagen",
+          "mustTryFr": "Schnitzel Heidelberger Art, Spätzle, Pfälzer Saumagen",
+          "mustTryEs": "Schnitzel Heidelberger Art, Spätzle, Pfälzer Saumagen",
+          "openingHours": "Mon-Sat 17:00-23:30, Sun 11:30-23:00",
+          "tip": "The carved wooden booths along the right wall are the quietest — ideal for an anxious dog before the 19:30 student crowd arrives.",
+          "tipFr": "Les banquettes en bois sculpté contre le mur droit sont les plus calmes — idéal pour un chien anxieux avant l'arrivée de la foule étudiante à 19h30.",
+          "tipEs": "Los reservados de madera tallada del muro derecho son los más tranquilos — ideal para un perro ansioso antes de la llegada del público estudiantil a las 19:30.",
+          "googleMapsUrl": "https://maps.google.com/?q=Zum+Roten+Ochsen+Heidelberg"
+        },
+        {
+          "name": "Schnitzelbank",
+          "address": "Bauamtsgasse 7, 69117 Heidelberg",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/heidelberg-restaurants-schnitzelbank.jpg",
+          "website": "https://www.schnitzelbank-heidelberg.de/",
+          "description": "A tiny 1751 cellar Weinstube hidden in an Altstadt alley — wooden benches once used by the carpenter's guild, regional Pfalz wines, hearty Kurpfalz cuisine. Dogs welcomed throughout the small main room with prior nod.",
+          "descriptionFr": "Minuscule Weinstube en cave de 1751 cachée dans une ruelle de l'Altstadt — bancs en bois jadis utilisés par la guilde des charpentiers, vins régionaux du Palatinat, cuisine roborative du Kurpfalz. Chiens bienvenus partout dans la petite salle principale sur signe préalable.",
+          "descriptionEs": "Pequeñísima Weinstube en sótano de 1751 escondida en un callejón de la Altstadt — bancos de madera antaño usados por el gremio de carpinteros, vinos regionales del Palatinado, cocina contundente del Kurpfalz. Perros bienvenidos en toda la pequeña sala principal con asentimiento previo.",
+          "petPolicy": "Dogs welcome inside on leash",
+          "petPolicyFr": "Chiens en laisse bienvenus à l'intérieur",
+          "petPolicyEs": "Perros con correa bienvenidos dentro",
+          "priceRange": "EUR EUR",
+          "mustTry": "Pfälzer Saumagen, Riesling Spätlese, Kurpfälzer Sauerbraten",
+          "mustTryFr": "Pfälzer Saumagen, Riesling Spätlese, Kurpfälzer Sauerbraten",
+          "mustTryEs": "Pfälzer Saumagen, Riesling Spätlese, Kurpfälzer Sauerbraten",
+          "openingHours": "Mon-Sat 17:00-23:00; closed Sunday",
+          "tip": "Reserve by phone — the Weinstube has only 30 seats; tables turn fast after 20:00.",
+          "tipFr": "Réservez par téléphone — la Weinstube n'a que 30 places ; les tables tournent vite après 20h.",
+          "tipEs": "Reserva por teléfono — la Weinstube solo tiene 30 plazas; las mesas rotan rápido después de las 20:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schnitzelbank+Heidelberg"
+        },
+        {
+          "name": "Café Knösel",
+          "address": "Haspelgasse 20, 69117 Heidelberg",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/heidelberg-restaurants-cafe-knosel.jpg",
+          "website": "https://www.cafeknoesel.de/",
+          "description": "Heidelberg's oldest café (since 1863) — birthplace of the city's signature Studentenkuss chocolate. Dogs welcome on the cobbled front terrace year-round and inside the wood-panelled back room outside peak service hours.",
+          "descriptionFr": "Le plus ancien café de Heidelberg (depuis 1863) — lieu de naissance du chocolat signature Studentenkuss. Chiens bienvenus sur la terrasse pavée avant toute l'année et dans la salle arrière lambrissée hors heures de service.",
+          "descriptionEs": "El café más antiguo de Heidelberg (desde 1863) — cuna del chocolate emblemático Studentenkuss. Perros bienvenidos en la terraza adoquinada delantera todo el año y en la sala trasera de madera fuera de horas punta.",
+          "petPolicy": "Dogs on terrace + back room off-peak",
+          "petPolicyFr": "Chiens en terrasse + salle arrière hors heures de pointe",
+          "petPolicyEs": "Perros en terraza + sala trasera fuera de horas punta",
+          "priceRange": "EUR EUR",
+          "mustTry": "Studentenkuss chocolates, Apfelstrudel, Kurpfälzer Kaffee",
+          "mustTryFr": "Chocolats Studentenkuss, Apfelstrudel, Kurpfälzer Kaffee",
+          "mustTryEs": "Bombones Studentenkuss, Apfelstrudel, Kurpfälzer Kaffee",
+          "openingHours": "Mon-Sat 09:00-19:00, Sun 10:00-18:00",
+          "tip": "Buy the boxed Studentenkuss to take away if the four terrace tables are full — they pack in tin boxes ideal for a Philosophenweg picnic.",
+          "tipFr": "Achetez les Studentenkuss en boîte à emporter si les quatre tables de la terrasse sont prises — emballés en boîtes métal idéales pour un pique-nique sur le Philosophenweg.",
+          "tipEs": "Compra los Studentenkuss en caja para llevar si las cuatro mesas de la terraza están llenas — se empaquetan en cajas metálicas ideales para un picnic en el Philosophenweg.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Knoesel+Heidelberg"
+        }
+      ],
+      "tipsEn": [
+        "German Gaststätten culture is broadly dog-friendly — at least 80% of Heidelberg pubs and Weinstuben accept leashed dogs in the main room.",
+        "The Untere Straße alley running parallel to the Hauptstraße is Heidelberg's pub strip — a dozen dog-friendly student bars in 200 m.",
+        "Tip 5-10% rounded up; 'Trinkgeld' is in cash, even on card payments."
+      ],
+      "tipsFr": [
+        "La culture Gaststätten allemande est largement dog-friendly — au moins 80 % des pubs et Weinstuben de Heidelberg acceptent les chiens en laisse en salle principale.",
+        "La ruelle Untere Straße parallèle à la Hauptstraße est la rue à pubs de Heidelberg — une douzaine de bars étudiants dog-friendly sur 200 m.",
+        "Pourboire 5-10 % arrondi ; le « Trinkgeld » se donne en espèces, même en paiement carte."
+      ],
+      "tipsEs": [
+        "La cultura Gaststätten alemana es ampliamente dog-friendly — al menos el 80 % de los pubs y Weinstuben de Heidelberg admite perros con correa en la sala principal.",
+        "El callejón Untere Straße paralelo a la Hauptstraße es la calle de pubs de Heidelberg — una docena de bares estudiantiles dog-friendly en 200 m.",
+        "Propina 5-10 % redondeada; el 'Trinkgeld' se deja en efectivo, incluso pagando con tarjeta."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Heidelberg restaurants?",
+          "a": "Yes in most. Around 80% of Heidelberg Weinstuben and Gaststätten accept leashed dogs in the main room. The historic student taverns (Roter Ochsen, Sepp'l, Schnookeloch) are reliably dog-friendly."
+        },
+        {
+          "q": "Can I take my dog into a German Weinstube?",
+          "a": "Yes. Pfalz-region Weinstuben in Heidelberg are dog-tolerant by default — leashed dogs welcome on the floor near your table. Most regulars bring their dogs without question."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Heidelberg ?",
+          "a": "Oui dans la plupart. Environ 80 % des Weinstuben et Gaststätten de Heidelberg acceptent les chiens en laisse en salle principale. Les tavernes étudiantes historiques (Roter Ochsen, Sepp'l, Schnookeloch) sont fiablement dog-friendly."
+        },
+        {
+          "q": "Puis-je amener mon chien dans une Weinstube allemande ?",
+          "a": "Oui. Les Weinstuben du Palatinat à Heidelberg tolèrent les chiens par défaut — chiens en laisse bienvenus au sol près de votre table. La plupart des habitués viennent avec leur chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Heidelberg?",
+          "a": "Sí en la mayoría. Cerca del 80 % de las Weinstuben y Gaststätten de Heidelberg admite perros con correa en la sala principal. Las tabernas estudiantiles históricas (Roter Ochsen, Sepp'l, Schnookeloch) son fiablemente dog-friendly."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a una Weinstube alemana?",
+          "a": "Sí. Las Weinstuben del Palatinado en Heidelberg admiten perros por defecto — perros con correa bienvenidos en el suelo junto a tu mesa. La mayoría de habituales lleva perro."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Heidelberg",
+      "titleFr": "Parcs canins et espaces verts à Heidelberg",
+      "titleEs": "Parques caninos y espacios verdes en Heidelberg",
+      "introEn": "Heidelberg is wrapped in forest — the Königstuhl rises directly south of the Altstadt with 70 km of off-leash trails, the Heiligenberg flanks the Philosophenweg, and the Neckar towpaths run uninterrupted to Neckargemünd 12 km east.",
+      "introFr": "Heidelberg est ceinturée de forêts — le Königstuhl s'élève directement au sud de l'Altstadt avec 70 km de sentiers sans laisse, le Heiligenberg flanque le Philosophenweg, et les chemins de halage du Neckar courent sans interruption jusqu'à Neckargemünd à 12 km à l'est.",
+      "introEs": "Heidelberg está rodeada de bosques — el Königstuhl se eleva directamente al sur de la Altstadt con 70 km de senderos sin correa, el Heiligenberg flanquea el Philosophenweg, y los caminos de sirga del Neckar corren sin interrupción hasta Neckargemünd a 12 km al este.",
+      "places": [
+        {
+          "name": "Philosophenweg",
+          "address": "Philosophenweg, 69120 Heidelberg",
+          "neighborhood": "Heiligenberg",
+          "photo": "/images/city-places/heidelberg-parks-philosophenweg.jpg",
+          "size": "Approx. 2 km path + 50 ha forest",
+          "leashRule": "On-leash on the path; off-leash in the Heiligenberg forest above",
+          "leashRuleFr": "En laisse sur le sentier ; sans laisse dans la forêt du Heiligenberg au-dessus",
+          "leashRuleEs": "Con correa en el sendero; sin correa en el bosque del Heiligenberg encima",
+          "description": "Heidelberg's iconic 2 km hillside path on the Heiligenberg, with the postcard panorama of the castle and the Neckar bend. The connecting Heiligenberg forest above has 8 km of dog-friendly off-leash trails.",
+          "descriptionFr": "Le sentier emblématique de 2 km à flanc de colline sur le Heiligenberg, avec le panorama carte-postale du château et du méandre du Neckar. La forêt du Heiligenberg au-dessus offre 8 km de sentiers sans laisse dog-friendly.",
+          "descriptionEs": "El icónico sendero de 2 km en la ladera del Heiligenberg, con el panorama postal del castillo y el meandro del Neckar. El bosque del Heiligenberg encima ofrece 8 km de senderos sin correa dog-friendly.",
+          "amenities": [
+            "Castle viewpoint",
+            "Forest trails above",
+            "Free access",
+            "Bin stations"
+          ],
+          "amenitiesFr": [
+            "Belvédère sur le château",
+            "Sentiers forestiers au-dessus",
+            "Accès libre",
+            "Poubelles"
+          ],
+          "amenitiesEs": [
+            "Mirador del castillo",
+            "Senderos forestales arriba",
+            "Acceso libre",
+            "Papeleras"
+          ],
+          "tip": "Climb up via the Schlangenweg from the Alte Brücke for the gentlest gradient — the direct Philosophengang from Hirschgasse is steep cobbles.",
+          "tipFr": "Montez par le Schlangenweg depuis le Alte Brücke pour la pente la plus douce — le Philosophengang direct depuis Hirschgasse est pavé et raide.",
+          "tipEs": "Sube por el Schlangenweg desde el Alte Brücke para la pendiente más suave — el Philosophengang directo desde Hirschgasse es de adoquines empinados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Philosophenweg+Heidelberg"
+        },
+        {
+          "name": "Neckarwiese",
+          "address": "Uferstraße, 69120 Heidelberg",
+          "neighborhood": "Neuenheim",
+          "photo": "/images/city-places/heidelberg-parks-neckarwiese.jpg",
+          "size": "Approx. 5 hectares",
+          "leashRule": "Off-leash year-round on the meadow",
+          "leashRuleFr": "Sans laisse toute l'année sur la prairie",
+          "leashRuleEs": "Sin correa todo el año en la pradera",
+          "description": "A long flat riverside meadow on the Neuenheim bank — 5 ha of off-leash green space with the castle panorama, ice-cream kiosks, and the Neckar towpath leading east to Neckargemünd. Heidelberg's favourite city-centre dog field.",
+          "descriptionFr": "Longue prairie riveraine plate sur la rive de Neuenheim — 5 ha sans laisse avec panorama sur le château, kiosques à glaces, et chemin de halage du Neckar vers Neckargemünd à l'est. Le terrain canin favori du centre.",
+          "descriptionEs": "Larga pradera ribereña plana en la orilla de Neuenheim — 5 ha sin correa con panorama del castillo, quioscos de helados, y camino de sirga del Neckar hacia Neckargemünd al este. El campo canino favorito del centro.",
+          "amenities": [
+            "Public toilets",
+            "Ice-cream kiosks",
+            "Towpath access",
+            "River swimming spots"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Kiosques à glaces",
+            "Chemin de halage",
+            "Spots de baignade"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Quioscos de helados",
+            "Camino de sirga",
+            "Spots de baño"
+          ],
+          "tip": "Evening golden hour (19:00-21:00 in summer) is the most photogenic time — students play volleyball, dogs run free, the castle glows opposite.",
+          "tipFr": "L'heure dorée du soir (19h-21h en été) est la plus photogénique — étudiants au volley, chiens en liberté, château illuminé en face.",
+          "tipEs": "La hora dorada de la tarde (19:00-21:00 en verano) es la más fotogénica — estudiantes jugando voley, perros sueltos, castillo iluminado enfrente.",
+          "googleMapsUrl": "https://maps.google.com/?q=Neckarwiese+Heidelberg"
+        },
+        {
+          "name": "Königstuhl Forest",
+          "address": "Königstuhl, 69117 Heidelberg",
+          "neighborhood": "South of the Altstadt",
+          "photo": "/images/city-places/heidelberg-parks-konigstuhl-forest.jpg",
+          "size": "Approx. 700 hectares",
+          "leashRule": "Off-leash on most forest trails (April-July leashed in nesting zones)",
+          "leashRuleFr": "Sans laisse sur la plupart des sentiers (avril-juillet en laisse en zones de nidification)",
+          "leashRuleEs": "Sin correa en la mayoría de senderos (abril-julio con correa en zonas de nidificación)",
+          "description": "The 568 m wooded hill rising directly behind the castle — 70 km of marked forest trails, the Königstuhl funicular (dogs accepted free of charge with muzzle), the Märchenparadies family park, and panoramic platforms over the Rhine valley.",
+          "descriptionFr": "La colline boisée de 568 m qui s'élève directement derrière le château — 70 km de sentiers forestiers balisés, le funiculaire du Königstuhl (chiens gratuits avec muselière), le parc familial Märchenparadies et plateformes panoramiques sur la vallée du Rhin.",
+          "descriptionEs": "La colina boscosa de 568 m que se eleva directamente detrás del castillo — 70 km de senderos forestales señalizados, el funicular del Königstuhl (perros gratis con bozal), el parque familiar Märchenparadies y plataformas panorámicas sobre el valle del Rin.",
+          "amenities": [
+            "Funicular access",
+            "Marked trails",
+            "Restaurant",
+            "Free parking on top"
+          ],
+          "amenitiesFr": [
+            "Funiculaire",
+            "Sentiers balisés",
+            "Restaurant",
+            "Parking gratuit au sommet"
+          ],
+          "amenitiesEs": [
+            "Funicular",
+            "Senderos señalizados",
+            "Restaurante",
+            "Parking gratis arriba"
+          ],
+          "tip": "Take the funicular up (4.50 € + dog muzzle) and walk down via the Schloss-Wolfsbrunnenweg trail — 5 km gentle descent to the Altstadt.",
+          "tipFr": "Montez par le funiculaire (4,50 € + muselière chien) et descendez par le sentier Schloss-Wolfsbrunnenweg — 5 km de descente douce jusqu'à l'Altstadt.",
+          "tipEs": "Sube por el funicular (4,50 € + bozal canino) y baja por el sendero Schloss-Wolfsbrunnenweg — 5 km de descenso suave hasta la Altstadt.",
+          "googleMapsUrl": "https://maps.google.com/?q=Koenigstuhl+Heidelberg"
+        }
+      ],
+      "tipsEn": [
+        "Heidelberg has 6 official fenced Hundeauslaufzonen — full map at heidelberg.de/hundeauslaufgebiete.",
+        "The Neckar towpath from the Alte Brücke to Neckargemünd is 12 km of car-free, mostly off-leash riverside walking — the locals' favourite Sunday route.",
+        "Always carry poo bags: city fine for fouling is 35 € (Bußgeld), enforced by Stadtordnungsdienst."
+      ],
+      "tipsFr": [
+        "Heidelberg a 6 Hundeauslaufzonen clôturées officielles — carte complète sur heidelberg.de/hundeauslaufgebiete.",
+        "Le chemin de halage du Neckar de l'Alte Brücke à Neckargemünd fait 12 km sans voiture, sans laisse pour l'essentiel — l'itinéraire dominical favori des locaux.",
+        "Ayez toujours des sacs : amende municipale pour déjections de 35 € (Bußgeld), contrôlée par le Stadtordnungsdienst."
+      ],
+      "tipsEs": [
+        "Heidelberg tiene 6 Hundeauslaufzonen valladas oficiales — mapa completo en heidelberg.de/hundeauslaufgebiete.",
+        "El camino de sirga del Neckar desde el Alte Brücke a Neckargemünd son 12 km sin coches, sin correa en su mayoría — la ruta dominical favorita de los locales.",
+        "Lleva siempre bolsas: multa municipal por excrementos de 35 € (Bußgeld), controlada por el Stadtordnungsdienst."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash on the Philosophenweg?",
+          "a": "The Philosophenweg path itself requires dogs on a lead. The Heiligenberg forest above (accessed via the upper trails from the Bismarcksäule) is off-leash year-round outside the April-July nesting season."
+        },
+        {
+          "q": "Can dogs swim in the Neckar?",
+          "a": "Yes, at designated bends like the Neuenheim Wehrsteg and Schlierbach. Avoid the central reach between the Old Bridge and Theodor-Heuss-Brücke — boat traffic and the lock at Hirschgasse make it unsafe."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse sur le Philosophenweg ?",
+          "a": "Le sentier du Philosophenweg lui-même exige la laisse. La forêt du Heiligenberg au-dessus (accessible via les sentiers supérieurs depuis la Bismarcksäule) est sans laisse toute l'année hors saison de nidification (avril-juillet)."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans le Neckar ?",
+          "a": "Oui, sur des méandres désignés comme Neuenheim Wehrsteg et Schlierbach. Évitez le tronçon central entre l'Alte Brücke et le Theodor-Heuss-Brücke — trafic de péniches et écluse à Hirschgasse rendent cela dangereux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en el Philosophenweg?",
+          "a": "El sendero del Philosophenweg en sí exige correa. El bosque del Heiligenberg encima (accesible por los senderos superiores desde la Bismarcksäule) es sin correa todo el año fuera de la temporada de nidificación (abril-julio)."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Neckar?",
+          "a": "Sí, en meandros designados como Neuenheim Wehrsteg y Schlierbach. Evita el tramo central entre el Alte Brücke y el Theodor-Heuss-Brücke — el tráfico de barcazas y la esclusa de Hirschgasse lo hacen inseguro."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Heidelberg",
+      "titleFr": "Transports pet-friendly à Heidelberg",
+      "titleEs": "Transporte pet-friendly en Heidelberg",
+      "introEn": "Heidelberg's compact Altstadt is walkable end-to-end in 25 minutes. For day trips, the RNV trams, S-Bahn RheinNeckar and DB ICE trains all accept leashed dogs.",
+      "introFr": "L'Altstadt compacte de Heidelberg se traverse à pied en 25 minutes. Pour les excursions, les trams RNV, la S-Bahn RheinNeckar et les trains DB ICE acceptent tous les chiens en laisse.",
+      "introEs": "La compacta Altstadt de Heidelberg se cruza a pie en 25 minutos. Para excursiones, los tranvías RNV, el S-Bahn RheinNeckar y los trenes DB ICE admiten todos perros con correa.",
+      "places": [
+        {
+          "name": "RNV Trams & Buses",
+          "type": "City transport",
+          "photo": "/images/city-places/heidelberg-transport-rnv-trams-buses.jpg",
+          "website": "https://www.rnv-online.de/",
+          "description": "Rhein-Neckar-Verkehr (RNV) operates Heidelberg's tram and bus network. Small dogs in carriers travel free; medium and large dogs need a child-fare ticket (1.90 €) and must wear a muzzle on board.",
+          "descriptionFr": "Rhein-Neckar-Verkehr (RNV) exploite le réseau tram et bus de Heidelberg. Les petits chiens en cage voyagent gratis ; les chiens moyens et grands exigent un billet enfant (1,90 €) et doivent porter une muselière à bord.",
+          "descriptionEs": "Rhein-Neckar-Verkehr (RNV) opera la red de tranvía y autobús de Heidelberg. Perros pequeños en transportín viajan gratis; medianos y grandes requieren billete infantil (1,90 €) y deben llevar bozal a bordo.",
+          "petPolicy": "Child-fare ticket + muzzle for medium/large dogs",
+          "petPolicyFr": "Billet enfant + muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete infantil + bozal para perros medianos/grandes",
+          "tip": "Buy via the RNV app — drivers don't sell tickets at peak hours and the Bismarckplatz tram interchange is busy.",
+          "tipFr": "Achetez via l'app RNV — les chauffeurs ne vendent pas en heure de pointe et le carrefour de Bismarckplatz est chargé.",
+          "tipEs": "Compra vía app RNV — los conductores no venden en hora punta y el intercambiador de Bismarckplatz está concurrido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heidelberg+Hauptbahnhof"
+        },
+        {
+          "name": "Deutsche Bahn ICE",
+          "type": "Mainline rail",
+          "photo": "/images/city-places/heidelberg-transport-deutsche-bahn-ice.jpg",
+          "website": "https://www.bahn.de/info/personen-mitnehmen-hund",
+          "description": "Deutsche Bahn ICE and IC trains link Heidelberg Hbf to Frankfurt (50 min), Stuttgart (40 min), Munich (3h), Berlin (5h30). Small dogs in carriers travel free; larger dogs need a child-fare ticket and a muzzle on board.",
+          "descriptionFr": "Les trains DB ICE et IC relient Heidelberg Hbf à Francfort (50 min), Stuttgart (40 min), Munich (3h), Berlin (5h30). Les petits chiens en cage voyagent gratis ; les plus grands exigent un billet enfant et une muselière à bord.",
+          "descriptionEs": "Los trenes DB ICE e IC conectan Heidelberg Hbf con Fráncfort (50 min), Stuttgart (40 min), Múnich (3h), Berlín (5h30). Perros pequeños en transportín viajan gratis; los más grandes requieren billete infantil y bozal a bordo.",
+          "petPolicy": "Child-fare + muzzle for medium/large dogs",
+          "petPolicyFr": "Billet enfant + muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete infantil + bozal para perros medianos/grandes",
+          "tip": "Frankfurt Airport (FRA) is reachable in 50 min by direct ICE — useful for international flights with a dog.",
+          "tipFr": "L'aéroport de Francfort (FRA) est à 50 min en ICE direct — utile pour les vols internationaux avec un chien.",
+          "tipEs": "El aeropuerto de Fráncfort (FRA) está a 50 min en ICE directo — útil para vuelos internacionales con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heidelberg+Hauptbahnhof"
+        },
+        {
+          "name": "Königstuhl Funicular",
+          "type": "Mountain funicular",
+          "photo": "/images/city-places/heidelberg-transport-konigstuhl-funicular.jpg",
+          "website": "https://www.bergbahn-heidelberg.de/",
+          "description": "The historic 1885 Bergbahn climbs from the Kornmarkt up to the castle, Molkenkur and Königstuhl summit (568 m). Leashed dogs accepted free of charge with a muzzle on the upper section (1907 wooden cars).",
+          "descriptionFr": "Le Bergbahn historique de 1885 monte du Kornmarkt jusqu'au château, Molkenkur et au sommet du Königstuhl (568 m). Chiens en laisse acceptés gratuitement avec muselière sur la section haute (voitures en bois de 1907).",
+          "descriptionEs": "El histórico Bergbahn de 1885 sube desde el Kornmarkt hasta el castillo, Molkenkur y la cima del Königstuhl (568 m). Perros con correa admitidos gratis con bozal en la sección alta (vagones de madera de 1907).",
+          "petPolicy": "Free with muzzle on upper section",
+          "petPolicyFr": "Gratuit avec muselière sur la section haute",
+          "petPolicyEs": "Gratis con bozal en la sección alta",
+          "tip": "The lower section to the castle (1.50 €) accepts dogs without a muzzle; the historic upper wooden funicular requires it.",
+          "tipFr": "La section basse jusqu'au château (1,50 €) accepte les chiens sans muselière ; la section haute historique en bois l'exige.",
+          "tipEs": "La sección baja hasta el castillo (1,50 €) admite perros sin bozal; la sección alta histórica de madera lo exige.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heidelberger+Bergbahn"
+        }
+      ],
+      "tipsEn": [
+        "German law requires a muzzle for medium and large dogs on all public transport — fines for non-compliance start at 60 €.",
+        "Frankfurt Airport (FRA) is 50 min by direct ICE; the airport is dog-friendly with in-cabin pet acceptance on Lufthansa, KLM, Air France.",
+        "Heidelberg-Schwetzingen-Mannheim S-Bahn S5 runs every 20 min for the Schwetzingen palace gardens and the Mannheim wider city — dog rules same as RNV."
+      ],
+      "tipsFr": [
+        "La loi allemande exige une muselière pour les chiens moyens et grands dans tous les transports publics — amendes à partir de 60 € en cas de non-respect.",
+        "L'aéroport de Francfort (FRA) est à 50 min en ICE direct ; l'aéroport est dog-friendly avec acceptation cabine sur Lufthansa, KLM, Air France.",
+        "La S-Bahn S5 Heidelberg-Schwetzingen-Mannheim circule toutes les 20 min pour les jardins du château de Schwetzingen et la ville de Mannheim — mêmes règles canines que RNV."
+      ],
+      "tipsEs": [
+        "La ley alemana exige bozal para perros medianos y grandes en todo el transporte público — multas desde 60 € si no se cumple.",
+        "El aeropuerto de Fráncfort (FRA) está a 50 min en ICE directo; el aeropuerto es dog-friendly con admisión en cabina en Lufthansa, KLM, Air France.",
+        "El S-Bahn S5 Heidelberg-Schwetzingen-Mannheim circula cada 20 min para los jardines del palacio de Schwetzingen y la ciudad de Mannheim — mismas normas caninas que RNV."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need to muzzle my dog on Heidelberg trams?",
+          "a": "Yes for medium and large dogs — Baden-Württemberg transport regulations require a muzzle and a child-fare ticket. Small dogs in a carrier travel free without a muzzle."
+        },
+        {
+          "q": "Can I take my dog up the Königstuhl funicular?",
+          "a": "Yes. The lower section (Kornmarkt-Schloss) accepts leashed dogs without a muzzle; the historic upper section (Molkenkur-Königstuhl, 1907 wooden cars) requires a muzzle for medium/large dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il museler mon chien dans les trams de Heidelberg ?",
+          "a": "Oui pour les chiens moyens et grands — la réglementation du Bade-Wurtemberg exige muselière et billet enfant. Les petits chiens en cage voyagent gratuitement sans muselière."
+        },
+        {
+          "q": "Puis-je monter avec mon chien dans le funiculaire du Königstuhl ?",
+          "a": "Oui. La section basse (Kornmarkt-Schloss) accepte les chiens en laisse sans muselière ; la section haute historique (Molkenkur-Königstuhl, voitures en bois de 1907) exige une muselière pour chiens moyens/grands."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay que ponerle bozal a mi perro en los tranvías de Heidelberg?",
+          "a": "Sí para perros medianos y grandes — la normativa de Baden-Württemberg exige bozal y billete infantil. Los perros pequeños en transportín viajan gratis sin bozal."
+        },
+        {
+          "q": "¿Puedo subir con mi perro al funicular del Königstuhl?",
+          "a": "Sí. La sección baja (Kornmarkt-Schloss) admite perros con correa sin bozal; la sección alta histórica (Molkenkur-Königstuhl, vagones de madera de 1907) exige bozal para perros medianos/grandes."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Rivers Near Heidelberg",
+      "titleFr": "Lacs et rivières dog-friendly près de Heidelberg",
+      "titleEs": "Lagos y ríos dog-friendly cerca de Heidelberg",
+      "introEn": "Heidelberg is land-locked but the Neckar and Rhine valleys have multiple year-round dog-swimming spots within 30 minutes by car or S-Bahn.",
+      "introFr": "Heidelberg est à l'intérieur des terres mais les vallées du Neckar et du Rhin offrent plusieurs spots de baignade canine toute l'année à moins de 30 min en voiture ou S-Bahn.",
+      "introEs": "Heidelberg no tiene acceso al mar pero los valles del Neckar y del Rin ofrecen múltiples spots de baño canino todo el año a menos de 30 min en coche o S-Bahn.",
+      "places": [
+        {
+          "name": "Neckarwiese River Beach",
+          "address": "Uferstraße, 69120 Heidelberg",
+          "photo": "/images/city-places/heidelberg-beaches-neckarwiese-river-beach.jpg",
+          "leashRule": "Off-leash on the meadow; leashed at the water's edge during summer boat traffic",
+          "leashRuleFr": "Sans laisse sur la prairie ; en laisse au bord de l'eau pendant le trafic de bateaux estival",
+          "leashRuleEs": "Sin correa en la pradera; con correa al borde del agua durante el tráfico de barcos estival",
+          "description": "The Neckar bend at the Neuenheim Wehrsteg has a sandy entry where dogs can swim safely outside the central boat-traffic reach. The closest swim option from the Altstadt — 10 min walk over the Old Bridge.",
+          "descriptionFr": "Le méandre du Neckar au Wehrsteg de Neuenheim a une entrée sablonneuse où les chiens peuvent nager en sécurité hors du trafic central de bateaux. L'option de baignade la plus proche depuis l'Altstadt — 10 min à pied par l'Alte Brücke.",
+          "descriptionEs": "El meandro del Neckar en el Wehrsteg de Neuenheim tiene una entrada arenosa donde los perros pueden bañarse con seguridad fuera del tráfico central de barcos. La opción de baño más cercana desde la Altstadt — 10 min andando por el Alte Brücke.",
+          "amenities": [
+            "Sandy entry",
+            "Adjacent meadow",
+            "Public toilets",
+            "Ice-cream kiosks"
+          ],
+          "amenitiesFr": [
+            "Entrée sablonneuse",
+            "Prairie adjacente",
+            "Toilettes publiques",
+            "Kiosques à glaces"
+          ],
+          "amenitiesEs": [
+            "Entrada arenosa",
+            "Pradera adyacente",
+            "Aseos públicos",
+            "Quioscos de helados"
+          ],
+          "tip": "Best for dog swimming on weekday mornings — Saturday afternoons in summer get crowded with families.",
+          "tipFr": "Idéal pour la baignade canine en matinée de semaine — les samedis après-midi en été se remplissent de familles.",
+          "tipEs": "Ideal para baño canino por la mañana entre semana — los sábados por la tarde en verano se llenan de familias.",
+          "googleMapsUrl": "https://maps.google.com/?q=Neckarwiese+Heidelberg"
+        },
+        {
+          "name": "Reilinger See",
+          "address": "Reilinger See, 68799 Reilingen",
+          "photo": "/images/city-places/heidelberg-beaches-reilinger-see.jpg",
+          "leashRule": "Off-leash; dedicated dog beach in the south-east corner",
+          "leashRuleFr": "Sans laisse ; plage canine dédiée au coin sud-est",
+          "leashRuleEs": "Sin correa; playa canina dedicada en la esquina sureste",
+          "description": "A 50-hectare quarry lake 25 km west of Heidelberg with a dedicated Hundestrand at the south-east corner — the closest 'real' beach with sand and shaded picnic areas. Free parking, café open in summer.",
+          "descriptionFr": "Lac de carrière de 50 hectares à 25 km à l'ouest de Heidelberg avec un Hundestrand dédié au coin sud-est — la plage de sable la plus proche avec aires de pique-nique ombragées. Parking gratuit, café ouvert en été.",
+          "descriptionEs": "Lago de cantera de 50 hectáreas a 25 km al oeste de Heidelberg con un Hundestrand dedicado en la esquina sureste — la playa de arena más cercana con áreas de picnic sombreadas. Parking gratis, café abierto en verano.",
+          "amenities": [
+            "Sand beach",
+            "Free parking",
+            "Summer café",
+            "Picnic shade"
+          ],
+          "amenitiesFr": [
+            "Plage de sable",
+            "Parking gratuit",
+            "Café d'été",
+            "Ombre pique-nique"
+          ],
+          "amenitiesEs": [
+            "Playa de arena",
+            "Parking gratis",
+            "Café estival",
+            "Sombra picnic"
+          ],
+          "tip": "Visit on weekday mornings — Saturday afternoons in July-August can have a 30-min queue at the parking entrance.",
+          "tipFr": "Visitez en matinée de semaine — les samedis après-midi en juillet-août peuvent avoir 30 min d'attente à l'entrée du parking.",
+          "tipEs": "Visita por la mañana entre semana — los sábados por la tarde en julio-agosto puede haber 30 min de cola en la entrada del parking.",
+          "googleMapsUrl": "https://maps.google.com/?q=Reilinger+See"
+        },
+        {
+          "name": "Baggersee Wiesloch",
+          "address": "Wieslocher See, 69168 Wiesloch",
+          "photo": "/images/city-places/heidelberg-beaches-baggersee-wiesloch.jpg",
+          "leashRule": "Off-leash; dog zone on the northern shore",
+          "leashRuleFr": "Sans laisse ; zone canine sur la rive nord",
+          "leashRuleEs": "Sin correa; zona canina en la orilla norte",
+          "description": "A quieter sister lake to Reilinger 18 km south of Heidelberg — 25 ha, the dog zone on the northern shore separated from the family beach. S-Bahn S5 to Wiesloch-Walldorf + 15 min walk.",
+          "descriptionFr": "Lac jumeau plus calme du Reilinger, à 18 km au sud de Heidelberg — 25 ha, zone canine sur la rive nord séparée de la plage familiale. S-Bahn S5 jusqu'à Wiesloch-Walldorf + 15 min à pied.",
+          "descriptionEs": "Lago hermano más tranquilo del Reilinger, a 18 km al sur de Heidelberg — 25 ha, zona canina en la orilla norte separada de la playa familiar. S-Bahn S5 hasta Wiesloch-Walldorf + 15 min a pie.",
+          "amenities": [
+            "Free parking",
+            "Forest paths",
+            "No facilities at dog zone"
+          ],
+          "amenitiesFr": [
+            "Parking gratuit",
+            "Sentiers forestiers",
+            "Pas d'aménités côté canin"
+          ],
+          "amenitiesEs": [
+            "Parking gratis",
+            "Senderos forestales",
+            "Sin instalaciones zona canina"
+          ],
+          "tip": "Bring water and a towel — the dog zone is undeveloped and the nearest fresh-water tap is at the family beach 400 m away.",
+          "tipFr": "Apportez eau et serviette — la zone canine n'est pas équipée et le point d'eau le plus proche est à la plage familiale, à 400 m.",
+          "tipEs": "Lleva agua y toalla — la zona canina no está equipada y el punto de agua más cercano está en la playa familiar, a 400 m.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wieslocher+Baggersee"
+        }
+      ],
+      "tipsEn": [
+        "Baden-Württemberg lakes are dog-friendly year-round in designated zones — main municipal swimming beaches usually exclude dogs from May to September.",
+        "The Neckar river itself is unsafe for swimming inside the city centre due to barge traffic — only the Neuenheim and Schlierbach side bends are recommended.",
+        "All three options above are reachable by S-Bahn or short drive from Heidelberg — leashed medium/large dogs need a child-fare ticket + muzzle on board."
+      ],
+      "tipsFr": [
+        "Les lacs du Bade-Wurtemberg sont dog-friendly toute l'année dans les zones désignées — les plages municipales principales excluent généralement les chiens de mai à septembre.",
+        "La Neckar elle-même n'est pas sûre pour la baignade en plein centre en raison du trafic de péniches — seuls les méandres latéraux de Neuenheim et Schlierbach sont recommandés.",
+        "Les trois options ci-dessus sont accessibles en S-Bahn ou voiture rapide depuis Heidelberg — chiens moyens/grands en laisse exigent billet enfant + muselière à bord."
+      ],
+      "tipsEs": [
+        "Los lagos de Baden-Württemberg son dog-friendly todo el año en zonas designadas — las playas municipales principales suelen excluir perros de mayo a septiembre.",
+        "El propio Neckar no es seguro para el baño en pleno centro por el tráfico de barcazas — solo los meandros laterales de Neuenheim y Schlierbach se recomiendan.",
+        "Las tres opciones de arriba son accesibles en S-Bahn o coche cercano desde Heidelberg — perros medianos/grandes con correa requieren billete infantil + bozal a bordo."
+      ],
+      "faqsEn": [
+        {
+          "q": "How far is the nearest dog beach from Heidelberg?",
+          "a": "10 min walk to the Neckarwiese for river swimming. For sand and proper recreation, Reilinger See (25 km west) and Wiesloch (18 km south) both have dedicated dog zones."
+        },
+        {
+          "q": "Are dogs allowed at municipal swimming beaches in Baden-Württemberg?",
+          "a": "Most municipal Strandbäder exclude dogs from 1 May to 30 September. Designated Hundestrand zones at Reilinger and Wiesloch lakes remain dog-friendly year-round."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "À quelle distance la plage canine la plus proche de Heidelberg ?",
+          "a": "10 min à pied jusqu'à la Neckarwiese pour la baignade en rivière. Pour le sable et la vraie récréation, Reilinger See (25 km à l'ouest) et Wiesloch (18 km au sud) ont tous deux des zones canines dédiées."
+        },
+        {
+          "q": "Les chiens sont-ils admis aux plages municipales du Bade-Wurtemberg ?",
+          "a": "La plupart des Strandbäder municipaux excluent les chiens du 1er mai au 30 septembre. Les zones Hundestrand désignées des lacs Reilinger et Wiesloch restent dog-friendly toute l'année."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿A qué distancia está la playa canina más cercana de Heidelberg?",
+          "a": "10 min andando hasta la Neckarwiese para baño en río. Para arena y recreación de verdad, Reilinger See (25 km al oeste) y Wiesloch (18 km al sur) ambos tienen zonas caninas dedicadas."
+        },
+        {
+          "q": "¿Se admiten perros en las playas municipales de Baden-Württemberg?",
+          "a": "La mayoría de Strandbäder municipales excluye perros del 1 mayo al 30 septiembre. Las zonas Hundestrand designadas de los lagos Reilinger y Wiesloch siguen dog-friendly todo el año."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Heidelberg",
+      "titleFr": "Soins vétérinaires à Heidelberg",
+      "titleEs": "Atención veterinaria en Heidelberg",
+      "introEn": "Heidelberg has solid day-time vet coverage and one regional 24h emergency clinic in Mannheim 20 min away. The University of Hohenheim Veterinary Faculty in Stuttgart is the major referral centre 40 min south.",
+      "introFr": "Heidelberg dispose d'une bonne couverture vétérinaire en journée et d'une clinique d'urgences régionale 24h/24 à Mannheim, à 20 min. La Faculté vétérinaire de Hohenheim à Stuttgart est le grand centre de référence à 40 min au sud.",
+      "introEs": "Heidelberg tiene buena cobertura veterinaria diurna y una clínica regional de urgencias 24h en Mannheim, a 20 min. La Facultad Veterinaria de Hohenheim en Stuttgart es el gran centro de referencia a 40 min al sur.",
+      "places": [
+        {
+          "name": "Tierklinik Mannheim Aubuckel (24h)",
+          "address": "Im Aubuckel 18, 68259 Mannheim",
+          "photo": "/images/city-places/heidelberg-vets-tierklinik-mannheim-aubuckel-24h.jpg",
+          "phone": "+49 621 791 030",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierklinik-mannheim.de/",
+          "description": "24h emergency veterinary clinic in north Mannheim, 20 min by car from Heidelberg — full surgery, ICU, ultrasound, X-ray. The closest 24/7 vet for the Heidelberg-Mannheim-Ludwigshafen metro region.",
+          "descriptionFr": "Clinique vétérinaire d'urgences 24h/24 au nord de Mannheim, à 20 min en voiture de Heidelberg — chirurgie complète, USI, échographie, radio. Le vétérinaire 24h/24 le plus proche pour la région métropolitaine Heidelberg-Mannheim-Ludwigshafen.",
+          "descriptionEs": "Clínica veterinaria de urgencias 24h en el norte de Mannheim, a 20 min en coche de Heidelberg — cirugía completa, UCI, ecografía, rayos X. El veterinario 24/7 más cercano para la región metropolitana Heidelberg-Mannheim-Ludwigshafen.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
+          "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
+          "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Aubuckel+Mannheim"
+        },
+        {
+          "name": "Tierarztpraxis Bergheim",
+          "address": "Bergheimer Straße 110, 69115 Heidelberg",
+          "photo": "/images/city-places/heidelberg-vets-bergheim.jpg",
+          "phone": "+49 6221 161 161",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierarzt-bergheim.de/",
+          "description": "Modern day-time small-animal practice in the Bergheim district, 5 min from the train station — general medicine, vaccinations, surgery, dentistry. After-hours calls divert to Tierklinik Mannheim Aubuckel 24h.",
+          "descriptionFr": "Cabinet moderne pour petits animaux dans le quartier Bergheim, à 5 min de la gare — médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers Tierklinik Mannheim Aubuckel 24h.",
+          "descriptionEs": "Clínica moderna para pequeños animales en el barrio Bergheim, a 5 min de la estación — medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas a Tierklinik Mannheim Aubuckel 24h.",
+          "openingHours": "Mon-Fri 08:00-19:00, Sat 09:00-13:00",
+          "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
+          "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+        },
+        {
+          "name": "Tierarzt Altstadt Heidelberg",
+          "address": "Plöck 73, 69117 Heidelberg",
+          "photo": "/images/city-places/heidelberg-vets-tierarzt-altstadt-heidelberg.jpg",
+          "phone": "+49 6221 25 200",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierarzt-altstadt-heidelberg.de/",
+          "description": "Day-time veterinary practice in the Altstadt on Plöck — general medicine, EU pet passport issuance, microchipping, behavioural consultations.",
+          "descriptionFr": "Cabinet vétérinaire de jour dans l'Altstadt sur Plöck — médecine générale, délivrance de passeport européen, puce, consultations comportementales.",
+          "descriptionEs": "Consulta veterinaria diurna en la Altstadt en Plöck — medicina general, expedición de pasaporte europeo, microchip, consultas conductuales.",
+          "openingHours": "Mon-Fri 08:30-18:00, Sat 09:00-12:00",
+          "tip": "Useful for issuing/updating an EU pet passport mid-trip — Altstadt charges around 30 € for a passport, 35 € for a microchip.",
+          "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Altstadt facture environ 30 € pour un passeport, 35 € pour une puce.",
+          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Altstadt cobra unos 30 € por pasaporte, 35 € por microchip.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Altstadt+Heidelberg"
+        }
+      ],
+      "tipsEn": [
+        "Germany is in the EU and Schengen — standard EU pet passport with valid rabies vaccination and ISO microchip is sufficient for entry.",
+        "Heidelberg city-centre vets do NOT do 24h emergency — for nights and weekends go directly to Tierklinik Mannheim Aubuckel.",
+        "Always carry the original EU pet passport: photocopies are not accepted by German vet offices for export certificates."
+      ],
+      "tipsFr": [
+        "L'Allemagne est dans l'UE et l'espace Schengen — un passeport européen standard avec vaccin antirabique en cours et puce ISO suffit pour l'entrée.",
+        "Les vétérinaires du centre de Heidelberg ne font PAS l'urgence 24h/24 — la nuit et le week-end, allez directement à la Tierklinik Mannheim Aubuckel.",
+        "Portez toujours le passeport européen original : les photocopies ne sont pas acceptées par les cabinets allemands pour les certificats d'export."
+      ],
+      "tipsEs": [
+        "Alemania está en la UE y Schengen — un pasaporte europeo estándar con vacuna antirrábica vigente y microchip ISO basta para entrar.",
+        "Los veterinarios del centro de Heidelberg NO hacen urgencias 24h — por las noches y fines de semana ve directamente a la Tierklinik Mannheim Aubuckel.",
+        "Lleva siempre el pasaporte europeo original: las clínicas alemanas no aceptan fotocopias para certificados de exportación."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the 24h emergency vet near Heidelberg?",
+          "a": "Tierklinik Mannheim Aubuckel at Im Aubuckel 18, +49 621 791 030 — 20 min by car north on the A656. Call ahead for triage."
+        },
+        {
+          "q": "Do I need a pet passport for Heidelberg?",
+          "a": "Yes for entry from outside Germany. EU pet passport with rabies vaccination (≥21 days, not expired) and ISO microchip — standard EU rules. No additional German-specific paperwork."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire d'urgence 24h/24 près de Heidelberg ?",
+          "a": "Tierklinik Mannheim Aubuckel, Im Aubuckel 18, +49 621 791 030 — 20 min en voiture au nord par l'A656. Appelez avant pour triage."
+        },
+        {
+          "q": "Faut-il un passeport européen pour Heidelberg ?",
+          "a": "Oui pour entrer depuis hors-Allemagne. Passeport européen avec vaccin antirabique (≥21 jours, non périmé) et puce ISO — règles UE standard. Pas de paperasse spécifique allemande."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h cerca de Heidelberg?",
+          "a": "Tierklinik Mannheim Aubuckel, Im Aubuckel 18, +49 621 791 030 — 20 min en coche al norte por la A656. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito pasaporte europeo para Heidelberg?",
+          "a": "Sí para entrar desde fuera de Alemania. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico alemán adicional."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travelling to Heidelberg with a Dog: Practical Tips",
+      "titleFr": "Voyager à Heidelberg avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Heidelberg con perro: consejos prácticos",
+      "introEn": "Heidelberg is one of Germany's most romantic cities and one of the easiest to do with a dog — compact Altstadt, dog-tolerant Weinstube culture, the Königstuhl forest at the gates, and direct ICE trains from Frankfurt Airport in 50 minutes.",
+      "introFr": "Heidelberg est l'une des villes les plus romantiques d'Allemagne et l'une des plus faciles à faire avec un chien — Altstadt compacte, culture Weinstube tolérante aux chiens, forêt du Königstuhl aux portes, et trains ICE directs depuis l'aéroport de Francfort en 50 min.",
+      "introEs": "Heidelberg es una de las ciudades más románticas de Alemania y una de las más fáciles de hacer con perro — Altstadt compacta, cultura Weinstube tolerante con perros, bosque del Königstuhl a las puertas, y trenes ICE directos desde el aeropuerto de Fráncfort en 50 min.",
+      "places": [
+        {
+          "name": "Best season for visiting Heidelberg with a dog",
+          "photo": "/images/city-places/heidelberg-tips-best-season-for-visiting-heidelberg-with-a-dog.jpg",
+          "description": "April-June and September-October are ideal — average highs 16-22 °C, the Philosophenweg in full leafy bloom, and the Neckar warm enough for the Neckarwiese swim. Avoid the Christmas market peak (Dec 24 close) when the Hauptstraße is gridlocked.",
+          "descriptionFr": "Avril-juin et septembre-octobre sont idéaux — maxima moyens 16-22 °C, le Philosophenweg en pleine frondaison, et le Neckar assez chaud pour la baignade à la Neckarwiese. Évitez le pic du marché de Noël (jusqu'au 24 décembre) quand la Hauptstraße est bloquée.",
+          "descriptionEs": "Abril-junio y septiembre-octubre son ideales — máximas medias 16-22 °C, el Philosophenweg en pleno follaje, y el Neckar lo suficientemente templado para el baño en la Neckarwiese. Evita el pico del mercado navideño (hasta el 24 de diciembre) cuando la Hauptstraße está colapsada."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/heidelberg-tips-currency-cost.jpg",
+          "description": "Germany uses the euro. Most hotels and restaurants accept Visa/Mastercard, but small Weinstuben often want cash. Pet supplements at Heidelberg hotels average 12-18 €/night — slightly above Leipzig but well below Munich or Hamburg.",
+          "descriptionFr": "L'Allemagne utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites Weinstuben préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Heidelberg tournent autour de 12-18 €/nuit — légèrement au-dessus de Leipzig mais bien en-dessous de Munich ou Hambourg.",
+          "descriptionEs": "Alemania usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las Weinstuben pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Heidelberg rondan 12-18 €/noche — ligeramente por encima de Leipzig pero muy por debajo de Múnich o Hamburgo."
+        },
+        {
+          "name": "Languages",
+          "photo": "/images/city-places/heidelberg-tips-languages.jpg",
+          "description": "German is the official language. English is widely spoken in tourism (hotels, central restaurants, vets) and especially among the 30,000 students. Useful German phrase: 'Ich habe einen Hund' = 'I have a dog'.",
+          "descriptionFr": "L'allemand est la langue officielle. L'anglais est largement parlé dans le tourisme (hôtels, restaurants centraux, vétérinaires) et surtout chez les 30 000 étudiants. Phrase utile : « Ich habe einen Hund » = « J'ai un chien ».",
+          "descriptionEs": "El alemán es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y sobre todo entre los 30.000 estudiantes. Frase útil: « Ich habe einen Hund » = « Tengo un perro »."
+        }
+      ],
+      "tipsEn": [
+        "Heidelberg is a dog-friendly bargain in southern Germany — average pet supplement 12-18 €/night, hotel rates 30% below Munich.",
+        "Pair Heidelberg with day trips to Strasbourg (1h10 by train), Frankfurt (50 min by ICE), or the Pfälzer wine region (40 min by car).",
+        "The Königstuhl funicular accepts dogs free of charge — combine with a 5 km off-leash forest descent for the perfect Heidelberg day."
+      ],
+      "tipsFr": [
+        "Heidelberg est une aubaine dog-friendly dans le sud de l'Allemagne — supplément animaux moyen 12-18 €/nuit, tarifs hôteliers 30 % en-dessous de Munich.",
+        "Combinez Heidelberg avec des excursions à Strasbourg (1h10 en train), Francfort (50 min en ICE) ou la région viticole du Palatinat (40 min en voiture).",
+        "Le funiculaire du Königstuhl accepte les chiens gratuitement — combinez avec une descente forestière sans laisse de 5 km pour la journée parfaite à Heidelberg."
+      ],
+      "tipsEs": [
+        "Heidelberg es una ganga dog-friendly en el sur de Alemania — suplemento medio para mascotas 12-18 €/noche, tarifas hoteleras un 30 % por debajo de Múnich.",
+        "Combina Heidelberg con excursiones a Estrasburgo (1h10 en tren), Fráncfort (50 min en ICE) o la región vinícola del Palatinado (40 min en coche).",
+        "El funicular del Königstuhl admite perros gratis — combínalo con un descenso forestal sin correa de 5 km para el día perfecto en Heidelberg."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Heidelberg good for a dog-friendly weekend?",
+          "a": "Yes — Heidelberg combines a compact baroque Altstadt, dog-tolerant Weinstube culture, the Königstuhl forest with 70 km of off-leash trails, the iconic Philosophenweg, and direct ICE trains from Frankfurt Airport. Hotel rates are 30% below Munich."
+        },
+        {
+          "q": "How does Heidelberg compare to Frankfurt for dog travel?",
+          "a": "Heidelberg is smaller, more romantic, with vastly more accessible off-leash forest (Königstuhl) and a more compact pedestrian centre. Frankfurt has more pet-friendly hotel options and the international airport. Heidelberg wins for a dog-quiet baroque weekend."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Heidelberg est-elle bien pour un week-end dog-friendly ?",
+          "a": "Oui — Heidelberg combine une Altstadt baroque compacte, une culture Weinstube tolérante aux chiens, la forêt du Königstuhl avec 70 km de sentiers sans laisse, l'iconique Philosophenweg, et des trains ICE directs depuis l'aéroport de Francfort. Les tarifs hôteliers sont 30 % en-dessous de Munich."
+        },
+        {
+          "q": "Comment Heidelberg se compare-t-elle à Francfort pour le voyage canin ?",
+          "a": "Heidelberg est plus petite, plus romantique, avec une forêt sans laisse bien plus accessible (Königstuhl) et un centre piéton plus compact. Francfort a plus d'options hôtelières pet-friendly et l'aéroport international. Heidelberg gagne pour un week-end baroque tranquille."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Heidelberg es buena para un fin de semana dog-friendly?",
+          "a": "Sí — Heidelberg combina una Altstadt barroca compacta, cultura Weinstube tolerante con perros, el bosque del Königstuhl con 70 km de senderos sin correa, el icónico Philosophenweg, y trenes ICE directos desde el aeropuerto de Fráncfort. Las tarifas hoteleras están un 30 % por debajo de Múnich."
+        },
+        {
+          "q": "¿Cómo se compara Heidelberg con Fráncfort para viajes caninos?",
+          "a": "Heidelberg es más pequeña, más romántica, con un bosque sin correa mucho más accesible (Königstuhl) y un centro peatonal más compacto. Fráncfort tiene más opciones hoteleras pet-friendly y el aeropuerto internacional. Heidelberg gana para un fin de semana barroco tranquilo."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Heidelberg",
+      "titleFr": "Attractions pet-friendly à Heidelberg",
+      "titleEs": "Atracciones pet-friendly en Heidelberg",
+      "introEn": "Most of Heidelberg's signature outdoor sights are dog-friendly — the Schloss terraces, the Alte Brücke, the Marktplatz, the Philosophenweg and the Königstuhl all welcome leashed dogs free of charge.",
+      "introFr": "La plupart des sites extérieurs signatures de Heidelberg sont dog-friendly — les terrasses du Schloss, l'Alte Brücke, le Marktplatz, le Philosophenweg et le Königstuhl accueillent tous les chiens en laisse gratuitement.",
+      "introEs": "La mayoría de los lugares exteriores emblemáticos de Heidelberg son dog-friendly — las terrazas del Schloss, el Alte Brücke, el Marktplatz, el Philosophenweg y el Königstuhl admiten todos perros con correa gratis.",
+      "places": [
+        {
+          "name": "Heidelberger Schloss (Castle Grounds)",
+          "address": "Schlosshof 1, 69117 Heidelberg",
+          "photo": "/images/city-places/heidelberg-attractions-heidelberger-schloss-castle-grounds.jpg",
+          "petFriendly": true,
+          "description": "The romantic ruined Renaissance castle dominating Heidelberg — the outer terraces, courtyard and Schlossgarten gardens are dog-friendly with leashed dogs at the standard 9 € entry fee. The Heidelberg Tun (giant wine barrel) and the interior tour admit assistance dogs only.",
+          "descriptionFr": "Le château Renaissance romantique en ruines qui domine Heidelberg — les terrasses extérieures, la cour et les jardins du Schlossgarten sont dog-friendly avec chiens en laisse au tarif standard de 9 €. Le Heidelberger Tun (tonneau géant) et la visite intérieure n'admettent que les chiens d'assistance.",
+          "descriptionEs": "El romántico castillo renacentista en ruinas que domina Heidelberg — las terrazas exteriores, el patio y los jardines del Schlossgarten son dog-friendly con perros con correa a la tarifa estándar de 9 €. El Heidelberger Tun (tonel gigante) y la visita interior solo admiten perros de asistencia.",
+          "petPolicy": "Dogs on grounds at standard fee; assistance only inside",
+          "petPolicyFr": "Chiens dans le parc au tarif standard ; chiens d'assistance uniquement à l'intérieur",
+          "petPolicyEs": "Perros en jardines a tarifa estándar; solo de asistencia dentro",
+          "openingHours": "Daily 08:00-18:00",
+          "tip": "The Großer Altan terrace at sunset offers the iconic Heidelberg panorama — dogs welcome but bring water, the stones radiate heat in summer.",
+          "tipFr": "La terrasse du Großer Altan au coucher du soleil offre le panorama iconique de Heidelberg — chiens bienvenus mais apportez de l'eau, les pierres rayonnent la chaleur en été.",
+          "tipEs": "La terraza del Großer Altan al atardecer ofrece el panorama icónico de Heidelberg — perros bienvenidos pero lleva agua, las piedras irradian calor en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heidelberger+Schloss"
+        },
+        {
+          "name": "Alte Brücke (Karl-Theodor-Brücke)",
+          "address": "Alte Brücke, 69117 Heidelberg",
+          "photo": "/images/city-places/heidelberg-attractions-alte-brucke-karl-theodor-brucke.jpg",
+          "petFriendly": true,
+          "description": "The 1788 stone arch bridge crossing the Neckar — the city's signature view, with the Brückenaffe (bronze monkey statue) at the south gate. Open 24/7, dog-friendly with leashed dogs throughout.",
+          "descriptionFr": "Le pont de pierre à arches de 1788 qui traverse le Neckar — la vue signature de la ville, avec le Brückenaffe (statue du singe en bronze) à la porte sud. Ouvert 24h/24, dog-friendly avec chiens en laisse partout.",
+          "descriptionEs": "El puente de arcos de piedra de 1788 que cruza el Neckar — la vista emblemática de la ciudad, con el Brückenaffe (estatua del mono de bronce) en la puerta sur. Abierto 24/7, dog-friendly con perros con correa en todas partes.",
+          "petPolicy": "Public bridge, leashed dogs free",
+          "petPolicyFr": "Pont public, chiens en laisse gratuits",
+          "petPolicyEs": "Puente público, perros con correa gratis",
+          "openingHours": "24/7",
+          "tip": "Touch the Brückenaffe's mouth or mirror for a Heidelberg superstition — return guaranteed. Best photographed at golden hour from the Neckarwiese opposite.",
+          "tipFr": "Touchez la bouche ou le miroir du Brückenaffe pour la superstition de Heidelberg — retour garanti. Au mieux photographié à l'heure dorée depuis la Neckarwiese opposée.",
+          "tipEs": "Toca la boca o el espejo del Brückenaffe para la superstición de Heidelberg — retorno garantizado. Mejor fotografiado a la hora dorada desde la Neckarwiese opuesta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Alte+Bruecke+Heidelberg"
+        },
+        {
+          "name": "Marktplatz",
+          "address": "Marktplatz, 69117 Heidelberg",
+          "photo": "/images/city-places/heidelberg-attractions-marktplatz.jpg",
+          "petFriendly": true,
+          "description": "The Altstadt's main square dominated by the Heiliggeistkirche church and ringed by 17th-century gabled houses. Open 24/7, dog-friendly with leashed dogs throughout. The Wednesday-Saturday market and Christmas market are dog-tolerant.",
+          "descriptionFr": "La place principale de l'Altstadt dominée par la Heiliggeistkirche et entourée de maisons à pignons du XVIIe siècle. Ouverte 24h/24, dog-friendly avec chiens en laisse partout. Le marché du mercredi au samedi et le marché de Noël tolèrent les chiens.",
+          "descriptionEs": "La plaza principal de la Altstadt dominada por la iglesia Heiliggeistkirche y rodeada de casas con frontones del siglo XVII. Abierta 24/7, dog-friendly con perros con correa en todas partes. El mercado de miércoles a sábado y el mercado navideño admiten perros.",
+          "petPolicy": "Public square, leashed dogs free",
+          "petPolicyFr": "Place publique, chiens en laisse gratuits",
+          "petPolicyEs": "Plaza pública, perros con correa gratis",
+          "openingHours": "24/7",
+          "tip": "The Heiliggeistkirche interior admits assistance dogs only — but the surrounding café terraces (Goldener Hecht, Kulturbrauerei) all welcome leashed dogs.",
+          "tipFr": "L'intérieur de la Heiliggeistkirche n'admet que les chiens d'assistance — mais les terrasses de café environnantes (Goldener Hecht, Kulturbrauerei) accueillent toutes les chiens en laisse.",
+          "tipEs": "El interior de la Heiliggeistkirche solo admite perros de asistencia — pero las terrazas de café circundantes (Goldener Hecht, Kulturbrauerei) admiten todas perros con correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Marktplatz+Heidelberg"
+        }
+      ],
+      "tipsEn": [
+        "Heidelberg's outdoor attractions accept leashed dogs free of charge or at the standard fee; museum interiors (Kurpfälzisches Museum, Studentenkarzer) admit assistance dogs only.",
+        "The Königstuhl funicular accepts dogs and is the easiest way to reach the 70 km of off-leash forest trails behind the castle.",
+        "Day trips by direct DB ICE: Frankfurt (50 min), Stuttgart (40 min), Strasbourg (1h10), Munich (3h) — leashed medium/large dogs accepted at child-fare with muzzle."
+      ],
+      "tipsFr": [
+        "Les attractions extérieures de Heidelberg acceptent les chiens en laisse gratuitement ou au tarif standard ; les musées intérieurs (Kurpfälzisches Museum, Studentenkarzer) n'admettent que les chiens d'assistance.",
+        "Le funiculaire du Königstuhl accepte les chiens et c'est le moyen le plus simple d'atteindre les 70 km de sentiers forestiers sans laisse derrière le château.",
+        "Excursions en ICE direct : Francfort (50 min), Stuttgart (40 min), Strasbourg (1h10), Munich (3h) — chiens moyens/grands en laisse acceptés au tarif enfant avec muselière."
+      ],
+      "tipsEs": [
+        "Las atracciones al aire libre de Heidelberg admiten perros con correa gratis o a tarifa estándar; los museos interiores (Kurpfälzisches Museum, Studentenkarzer) solo admiten perros de asistencia.",
+        "El funicular del Königstuhl admite perros y es la forma más fácil de llegar a los 70 km de senderos forestales sin correa detrás del castillo.",
+        "Excursiones en ICE directo: Fráncfort (50 min), Stuttgart (40 min), Estrasburgo (1h10), Múnich (3h) — perros medianos/grandes con correa admitidos a tarifa infantil con bozal."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Heidelberg Castle?",
+          "a": "To the outer terraces, courtyard and Schlossgarten gardens yes, with a leash, at the standard 9 € entry fee. The Heidelberger Tun and the interior tour admit assistance dogs only."
+        },
+        {
+          "q": "Are dogs allowed on the Philosophenweg?",
+          "a": "Yes. The Philosophenweg path is dog-friendly with leashed dogs free of charge. The Heiligenberg forest above is off-leash year-round outside the April-July nesting season."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien au château de Heidelberg ?",
+          "a": "Sur les terrasses extérieures, la cour et les jardins du Schlossgarten oui, en laisse, au tarif standard de 9 €. Le Heidelberger Tun et la visite intérieure n'admettent que les chiens d'assistance."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur le Philosophenweg ?",
+          "a": "Oui. Le sentier du Philosophenweg est dog-friendly avec chiens en laisse gratuits. La forêt du Heiligenberg au-dessus est sans laisse toute l'année hors saison de nidification (avril-juillet)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al castillo de Heidelberg?",
+          "a": "A las terrazas exteriores, patio y jardines del Schlossgarten sí, con correa, a la tarifa estándar de 9 €. El Heidelberger Tun y la visita interior solo admiten perros de asistencia."
+        },
+        {
+          "q": "¿Se admiten perros en el Philosophenweg?",
+          "a": "Sí. El sendero del Philosophenweg es dog-friendly con perros con correa gratis. El bosque del Heiligenberg encima es sin correa todo el año fuera de la temporada de nidificación (abril-julio)."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Walking in Heidelberg",
+      "titleFr": "Pet-sitting et promenade canine à Heidelberg",
+      "titleEs": "Pet-sitting y paseo canino en Heidelberg",
+      "introEn": "For day trips where the dog cannot come (Heidelberger Tun interior, Kurpfälzisches Museum, Studentenkarzer) Heidelberg has reliable verified pet-sitting through international and German platforms.",
+      "introFr": "Pour les excursions où le chien ne peut pas venir (intérieur du Heidelberger Tun, Kurpfälzisches Museum, Studentenkarzer), Heidelberg propose un pet-sitting fiable et vérifié via plateformes internationales et allemandes.",
+      "introEs": "Para las excursiones donde el perro no puede ir (interior del Heidelberger Tun, Kurpfälzisches Museum, Studentenkarzer), Heidelberg tiene pet-sitting fiable y verificado a través de plataformas internacionales y alemanas.",
+      "places": [
+        {
+          "name": "Pawshake Heidelberg",
+          "languages": [
+            "English",
+            "German"
+          ],
+          "description": "International pet-sitting platform with about 35 verified Heidelberg-based sitters within 5 km of the centre — drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
+          "descriptionFr": "Plateforme internationale avec environ 35 sitters vérifiés basés à Heidelberg dans un rayon de 5 km du centre — visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
+          "descriptionEs": "Plataforma internacional con unos 35 cuidadores verificados con base en Heidelberg en un radio de 5 km del centro — visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
+          "website": "https://www.pawshake.de/dog-sitting/heidelberg",
+          "tip": "Filter for English-speaking sitters in the platform settings — about 75% of Heidelberg sitters speak fluent English thanks to the international student community.",
+          "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 75 % des sitters de Heidelberg parlent anglais couramment grâce à la communauté étudiante internationale.",
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 75 % de los cuidadores de Heidelberg habla inglés con fluidez gracias a la comunidad estudiantil internacional."
+        },
+        {
+          "name": "Rover.com Heidelberg",
+          "languages": [
+            "English",
+            "German"
+          ],
+          "description": "Rover.com operates in Heidelberg with around 25 verified sitters. Average rate 25-35 €/day for boarding; insurance and 24/7 support included with each booking.",
+          "descriptionFr": "Rover.com opère à Heidelberg avec environ 25 sitters vérifiés. Tarif moyen 25-35 €/jour pour l'hébergement ; assurance et support 24h/24 inclus à chaque réservation.",
+          "descriptionEs": "Rover.com opera en Heidelberg con unos 25 cuidadores verificados. Tarifa media 25-35 €/día para alojamiento; seguro y soporte 24/7 incluidos en cada reserva.",
+          "website": "https://www.rover.com/de/search/?location=Heidelberg",
+          "tip": "Book at least 48h ahead in summer — sitters fill up fast during the Heidelberger Schlossfestspiele (June-August).",
+          "tipFr": "Réservez au moins 48h à l'avance en été — les sitters se remplissent vite pendant les Heidelberger Schlossfestspiele (juin-août).",
+          "tipEs": "Reserva al menos 48h antes en verano — los cuidadores se llenan rápido durante los Heidelberger Schlossfestspiele (junio-agosto)."
+        }
+      ],
+      "tipsEn": [
+        "Heidelberg pet-sitter rates average 25-35 €/day — about 30% below Munich, on par with Leipzig.",
+        "Always confirm the sitter's English fluency before booking if you don't speak German — most are bilingual due to the university community.",
+        "Several boutique hotels in central Heidelberg offer in-house dog-sitting for guests during sightseeing — ask at check-in."
+      ],
+      "tipsFr": [
+        "Les tarifs des sitters de Heidelberg tournent autour de 25-35 €/jour — environ 30 % en-dessous de Munich, au niveau de Leipzig.",
+        "Confirmez toujours le niveau d'anglais du sitter avant de réserver si vous ne parlez pas allemand — la plupart sont bilingues en raison de la communauté universitaire.",
+        "Plusieurs hôtels boutiques du centre proposent une garde canine maison pour leurs clients pendant les visites — demandez au check-in."
+      ],
+      "tipsEs": [
+        "Las tarifas de los cuidadores de Heidelberg rondan 25-35 €/día — alrededor del 30 % por debajo de Múnich, al nivel de Leipzig.",
+        "Confirma siempre el nivel de inglés del cuidador antes de reservar si no hablas alemán — la mayoría es bilingüe por la comunidad universitaria.",
+        "Varios hoteles boutique del centro ofrecen cuidado canino interno para sus clientes durante las visitas — pregunta en el check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog day-care cost in Heidelberg?",
+          "a": "25-35 € per day depending on sitter and dog size, via Pawshake or Rover. Drop-in visits run 12-15 € for 30 minutes."
+        },
+        {
+          "q": "Can I find an English-speaking sitter in Heidelberg?",
+          "a": "Yes — about 75% of Heidelberg sitters on Pawshake speak fluent English thanks to the international university community. Filter the platform by language."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garderie canine à Heidelberg ?",
+          "a": "25-35 € par jour selon le sitter et la taille du chien, via Pawshake ou Rover. Visites à domicile 12-15 € pour 30 min."
+        },
+        {
+          "q": "Puis-je trouver un sitter anglophone à Heidelberg ?",
+          "a": "Oui — environ 75 % des sitters de Heidelberg sur Pawshake parlent anglais couramment grâce à la communauté universitaire internationale. Filtrez par langue."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta la guardería canina en Heidelberg?",
+          "a": "25-35 € por día según cuidador y tamaño del perro, vía Pawshake o Rover. Visitas a domicilio 12-15 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador anglohablante en Heidelberg?",
+          "a": "Sí — alrededor del 75 % de los cuidadores de Heidelberg en Pawshake habla inglés con fluidez gracias a la comunidad universitaria internacional. Filtra por idioma."
+        }
+      ]
+    }
+  }
 }

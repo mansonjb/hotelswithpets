@@ -6500,6 +6500,129 @@
     "slug": "h4-hotel-hannover-messe"
   },
   {
+    "id": "heidelberg-1",
+    "name": "Hotel Europäischer Hof Heidelberg",
+    "destinationSlug": "heidelberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2680,
+    "priceFrom": 270,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/europaischer-hof.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Europäischer Hof Heidelberg — a five-star family-owned grand hotel facing the Anlage park — welcomes pets in selected room categories. A pet fee of 25 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Bismarckplatz tram interchange and Altstadt 5 min on foot. Pets on lead in lobbies; not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "hotel-europaeischer-hof-heidelberg"
+  },
+  {
+    "id": "heidelberg-2",
+    "name": "Boutique Hotel Heidelberg Suites",
+    "destinationSlug": "heidelberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1820,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/heidelberg-suites.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Heidelberg Suites — a 5-star boutique hotel in a 19th-century palace on the Neckar — welcomes pets at 20 € per night. Up to two pets per room. Neckarwiese and Philosophenweg 5 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "River views",
+      "Spa"
+    ],
+    "slug": "heidelberg-suites"
+  },
+  {
+    "id": "heidelberg-3",
+    "name": "Hotel Zum Ritter St. Georg",
+    "destinationSlug": "heidelberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2340,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/zum-ritter-st-georg.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Zum Ritter St. Georg — a 4-star hotel inside Heidelberg's only Renaissance house (1592) on the Marktplatz — welcomes pets at 15 € per night. Up to two pets per room. Marktplatz at the doorstep, Schloss 8 min uphill walk.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Renaissance facade"
+    ],
+    "slug": "hotel-zum-ritter-st-georg"
+  },
+  {
+    "id": "heidelberg-4",
+    "name": "NH Heidelberg",
+    "destinationSlug": "heidelberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3120,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/nh-heidelberg.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "NH Heidelberg — a 4-star hotel near the train station with on-site free parking — welcomes pets at 15 € per night. Up to two pets per room. Bismarckplatz tram interchange 5 min on foot, Altstadt 12 min by tram.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "nh-heidelberg"
+  },
+  {
+    "id": "heidelberg-5",
+    "name": "Premier Inn Heidelberg City Hauptbahnhof",
+    "destinationSlug": "heidelberg",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 3680,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/premier-inn-heidelberg-city-hauptbahnhof.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Premier Inn Heidelberg City Hauptbahnhof — a 3-star budget hotel facing the train station — welcomes dogs at 10 € per night. One dog per room standard, second on prior request. Bismarckplatz tram 5 min on foot, Altstadt 12 min by tram.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Family rooms"
+    ],
+    "slug": "premier-inn-heidelberg-hauptbahnhof"
+  },
+  {
     "id": "helsinki-1",
     "name": "Klaus K Hotel Helsinki",
     "destinationSlug": "helsinki",

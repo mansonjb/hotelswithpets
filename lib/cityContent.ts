@@ -4735,6 +4735,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  heidelberg: {
+    history: {
+      fr: `Heidelberg, fondée vers 1196 et siège du plus ancien collège électoral du Saint-Empire, est la ville universitaire la plus romantique d'Allemagne. Son université Ruprecht-Karls (1386) est la plus ancienne du pays ; son château Renaissance, partiellement détruit par les troupes de Louis XIV en 1689, domine l'Altstadt depuis le Königstuhl. Au XIXe siècle, Heidelberg devint le berceau du romantisme allemand : Goethe, Hölderlin, Brentano y séjournèrent, et le Philosophenweg sur la rive opposée du Neckar reste l'un des sentiers panoramiques les plus célèbres d'Europe. Pour les voyageurs avec un chien, Heidelberg est l'une des villes allemandes les plus accessibles : Altstadt piétonne sur 2 km, culture Weinstube tolérante aux chiens par défaut, forêt du Königstuhl avec 70 km de sentiers sans laisse accessibles depuis le centre par funiculaire, et Neckarwiese pour la baignade canine et la course libre à 10 min à pied. Trains ICE directs vers Francfort en 50 min, Stuttgart 40 min, Strasbourg 1h10.`,
+      en: `Heidelberg, founded around 1196 and seat of the oldest electoral palace of the Holy Roman Empire, is Germany's most romantic university city. Its Ruprecht-Karls University (1386) is the country's oldest; its Renaissance castle, partly destroyed by Louis XIV's troops in 1689, dominates the Altstadt from the Königstuhl. In the 19th century, Heidelberg became the cradle of German Romanticism: Goethe, Hölderlin, Brentano all stayed here, and the Philosophenweg on the opposite Neckar bank remains one of Europe's most famous panoramic paths. For travellers with a dog, Heidelberg is one of Germany's most accessible cities: a 2 km pedestrian Altstadt, dog-tolerant Weinstube culture, the Königstuhl forest with 70 km of off-leash trails reachable directly from the centre by funicular, and the Neckarwiese for dog swimming and off-leash running 10 min on foot. Direct ICE trains to Frankfurt 50 min, Stuttgart 40 min, Strasbourg 1h10.`,
+      es: `Heidelberg, fundada hacia 1196 y sede del palacio electoral más antiguo del Sacro Imperio, es la ciudad universitaria más romántica de Alemania. Su Universidad Ruprecht-Karls (1386) es la más antigua del país; su castillo renacentista, parcialmente destruido por las tropas de Luis XIV en 1689, domina la Altstadt desde el Königstuhl. En el siglo XIX, Heidelberg se convirtió en la cuna del romanticismo alemán: Goethe, Hölderlin, Brentano residieron ahí, y el Philosophenweg en la orilla opuesta del Neckar sigue siendo uno de los senderos panorámicos más famosos de Europa. Para los viajeros con perro, Heidelberg es una de las ciudades alemanas más accesibles: Altstadt peatonal de 2 km, cultura Weinstube tolerante con perros por defecto, bosque del Königstuhl con 70 km de senderos sin correa accesibles desde el centro por funicular, y Neckarwiese para baño canino y carrera libre a 10 min a pie. Trenes ICE directos a Fráncfort 50 min, Stuttgart 40 min, Estrasburgo 1h10.`,
+    },
+    sights: [
+      { name: 'Heidelberger Schloss', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Château Renaissance en ruines romantiques au-dessus de l'Altstadt — terrasses extérieures, cour et jardins du Schlossgarten dog-friendly avec chiens en laisse au tarif standard.`,
+        en: `Romantically ruined Renaissance castle above the Altstadt — outer terraces, courtyard and Schlossgarten gardens dog-friendly with leashed dogs at the standard fee.`,
+        es: `Castillo renacentista en ruinas románticas sobre la Altstadt — terrazas exteriores, patio y jardines del Schlossgarten dog-friendly con perros con correa a tarifa estándar.`,
+      }},
+      { name: 'Philosophenweg', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le sentier emblématique de 2 km à flanc de Heiligenberg avec le panorama carte-postale du château et du Neckar.`,
+        en: `The iconic 2 km path on the side of the Heiligenberg with the postcard panorama of the castle and the Neckar.`,
+        es: `El icónico sendero de 2 km en la ladera del Heiligenberg con el panorama postal del castillo y el Neckar.`,
+      }},
+      { name: 'Alte Brücke', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont de pierre à arches de 1788 sur le Neckar — la vue signature de la ville, avec le Brückenaffe au sud.`,
+        en: `1788 stone arch bridge over the Neckar — the city's signature view, with the Brückenaffe (bronze monkey) at the south gate.`,
+        es: `Puente de arcos de piedra de 1788 sobre el Neckar — la vista emblemática de la ciudad, con el Brückenaffe en la puerta sur.`,
+      }},
+      { name: 'Königstuhl', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Colline boisée de 568 m derrière le château — funiculaire dog-friendly et 70 km de sentiers sans laisse hors saison de nidification.`,
+        en: `568 m wooded hill behind the castle — dog-friendly funicular and 70 km of off-leash trails outside the nesting season.`,
+        es: `Colina boscosa de 568 m detrás del castillo — funicular dog-friendly y 70 km de senderos sin correa fuera de la temporada de nidificación.`,
+      }},
+      { name: 'Neckarwiese', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Longue prairie riveraine sur la rive de Neuenheim — 5 ha sans laisse toute l'année, baignade canine au Wehrsteg.`,
+        en: `Long riverside meadow on the Neuenheim bank — 5 ha off-leash year-round, dog swimming at the Wehrsteg.`,
+        es: `Larga pradera ribereña en la orilla de Neuenheim — 5 ha sin correa todo el año, baño canino en el Wehrsteg.`,
+      }},
+      { name: 'Marktplatz', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La place principale de l'Altstadt dominée par la Heiliggeistkirche, ouverte 24h/24, dog-friendly avec terrasses tout autour.`,
+        en: `The Altstadt's main square dominated by the Heiliggeistkirche, open 24/7, dog-friendly with terraces all around.`,
+        es: `La plaza principal de la Altstadt dominada por la Heiliggeistkirche, abierta 24/7, dog-friendly con terrazas alrededor.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture Weinstube/Gaststätten allemande accueille les chiens par défaut — environ 80 % des établissements de Heidelberg acceptent les chiens en laisse en salle principale.`,
+        `Trams et bus RNV : chiens moyens/grands avec muselière + billet enfant (1,90 €) ; petits chiens en cage gratuits.`,
+        `6 Hundeauslaufzonen municipales clôturées, 70 km de sentiers sans laisse au Königstuhl — carte officielle sur heidelberg.de.`,
+        `Vétérinaire d'urgence 24h/24 le plus proche : Tierklinik Mannheim Aubuckel (+49 621 791 030), 20 min en voiture.`,
+        `Le funiculaire historique du Königstuhl (1885) accepte les chiens gratuitement — section haute en bois exige une muselière.`,
+      ],
+      en: [
+        `German Weinstube/Gaststätten culture welcomes dogs by default — about 80% of Heidelberg venues accept leashed dogs in the main room.`,
+        `RNV trams and buses: medium/large dogs with muzzle + child-fare ticket (1.90 €); small dogs in carrier free.`,
+        `6 fenced municipal Hundeauslaufzonen, 70 km of off-leash trails on the Königstuhl — official map on heidelberg.de.`,
+        `Closest 24/7 emergency vet: Tierklinik Mannheim Aubuckel (+49 621 791 030), 20 min by car.`,
+        `The historic 1885 Königstuhl funicular accepts dogs free of charge — upper wooden section requires a muzzle.`,
+      ],
+      es: [
+        `La cultura Weinstube/Gaststätten alemana admite perros por defecto — alrededor del 80 % de los locales de Heidelberg acepta perros con correa en la sala principal.`,
+        `Tranvías y buses RNV: perros medianos/grandes con bozal + billete infantil (1,90 €); perros pequeños en transportín gratis.`,
+        `6 Hundeauslaufzonen valladas municipales, 70 km de senderos sin correa en el Königstuhl — mapa oficial en heidelberg.de.`,
+        `Veterinario de urgencias 24/7 más cercano: Tierklinik Mannheim Aubuckel (+49 621 791 030), 20 min en coche.`,
+        `El histórico funicular del Königstuhl de 1885 admite perros gratis — la sección alta de madera exige bozal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Allemagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains DB ICE directs : Francfort 50 min, Stuttgart 40 min, Strasbourg 1h10, Munich 3h, Berlin 5h30 — petits chiens en cage gratuits, grands au tarif enfant + muselière.`,
+        `Aéroport de Francfort (FRA) à 50 min en ICE direct ; Karlsruhe-Baden Baden (FKB) à 50 min en voiture pour les vols low-cost.`,
+        `Devise : euro. Budget journalier dog-friendly : 70-100 €/jour hors hébergement, environ 30 % en-dessous de Munich.`,
+        `Festivals à éviter avec un chien anxieux : Heidelberger Frühling (avril, classique), Schlossbeleuchtung (juin/juillet/septembre, foule + feux d'artifice), Heidelberger Herbst (fin septembre).`,
+      ],
+      en: [
+        `Germany is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct DB ICE trains: Frankfurt 50 min, Stuttgart 40 min, Strasbourg 1h10, Munich 3h, Berlin 5h30 — small dogs in carrier free, larger at child-fare + muzzle.`,
+        `Frankfurt Airport (FRA) 50 min by direct ICE; Karlsruhe-Baden Baden (FKB) 50 min by car for low-cost flights.`,
+        `Currency: euro. Daily dog-friendly budget: 70-100 €/day excluding accommodation, about 30% below Munich.`,
+        `Festivals to avoid with an anxious dog: Heidelberger Frühling (April, classical), Schlossbeleuchtung (June/July/September, crowds + fireworks), Heidelberger Herbst (late September).`,
+      ],
+      es: [
+        `Alemania está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes DB ICE directos: Fráncfort 50 min, Stuttgart 40 min, Estrasburgo 1h10, Múnich 3h, Berlín 5h30 — perros pequeños en transportín gratis, grandes a tarifa infantil + bozal.`,
+        `Aeropuerto de Fráncfort (FRA) a 50 min en ICE directo; Karlsruhe-Baden Baden (FKB) a 50 min en coche para vuelos low-cost.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 70-100 €/día sin alojamiento, alrededor del 30 % por debajo de Múnich.`,
+        `Festivales a evitar con perro ansioso: Heidelberger Frühling (abril, clásica), Schlossbeleuchtung (junio/julio/septiembre, multitudes + fuegos), Heidelberger Herbst (finales de septiembre).`,
+      ],
+    },
+  },
+
   helsinki: {
     history: {
       fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,

@@ -3154,6 +3154,79 @@
     }
   },
   {
+    "slug": "heidelberg",
+    "name": "Heidelberg",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/heidelberg.jpg",
+    "intro": "Heidelberg — Germany's most romantic university city — combines a baroque Altstadt under the ruined Renaissance castle, the iconic Philosophenweg view path, the Königstuhl forest with 70 km of off-leash trails, and direct ICE trains from Frankfurt Airport in 50 minutes.",
+    "lat": 49.3988,
+    "lng": 8.6724,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "helsinki",
     "name": "Helsinki",
     "country": "Finland",

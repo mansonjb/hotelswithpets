@@ -236,6 +236,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the 640-hectare Eilenriede forest, the Maschsee 6 km loop and Hundebadestelle, and the baroque Georgengarten avenue',
       area: 'List, the Maschsee shores, and the Altstadt around the Marktkirche',
     },
+    heidelberg: {
+      personality: `Germany's most romantic university city — a baroque Altstadt under the ruined Renaissance castle, the iconic Philosophenweg view path, the Königstuhl forest with 70 km of off-leash trails, and direct ICE trains from Frankfurt Airport in 50 min`,
+      highlight: `the Schloss terraces, the Philosophenweg with its Heiligenberg forest, and the Königstuhl funicular up to 70 km of off-leash forest trails`,
+      area: `the Altstadt around the Hauptstraße, Bergheim near the train station, and the leafy Neuenheim across the Neckar`,
+    },
     helsinki: {
       personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
@@ -739,6 +744,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les 640 hectares de la forêt de l\'Eilenriede, la boucle de 6 km du Maschsee et sa Hundebadestelle, et l\'allée baroque du Georgengarten',
       area: 'List, les rives du Maschsee et l\'Altstadt autour de la Marktkirche',
     },
+    heidelberg: {
+      personality: `la ville universitaire la plus romantique d'Allemagne — Altstadt baroque sous le château Renaissance en ruines, l'iconique sentier panoramique du Philosophenweg, la forêt du Königstuhl avec 70 km de sentiers sans laisse, et des trains ICE directs depuis l'aéroport de Francfort en 50 min`,
+      highlight: `les terrasses du Schloss, le Philosophenweg avec sa forêt du Heiligenberg, et le funiculaire du Königstuhl vers 70 km de sentiers forestiers sans laisse`,
+      area: `l'Altstadt autour de la Hauptstraße, Bergheim près de la gare et le verdoyant Neuenheim de l'autre côté du Neckar`,
+    },
     helsinki: {
       personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
@@ -1240,6 +1250,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'tranquila capital de Baja Sajonia — el mayor bosque urbano de Alemania (Eilenriede, 640 ha, más grande que Central Park), el lago Maschsee con su zona de baño canino, y un hospital universitario veterinario de primer nivel mundial',
       highlight: 'las 640 hectáreas del bosque Eilenriede, el circuito de 6 km del Maschsee y su Hundebadestelle, y la avenida barroca del Georgengarten',
       area: 'List, las orillas del Maschsee y la Altstadt alrededor de la Marktkirche',
+    },
+    heidelberg: {
+      personality: `la ciudad universitaria más romántica de Alemania — Altstadt barroca bajo el castillo renacentista en ruinas, el icónico sendero panorámico del Philosophenweg, el bosque del Königstuhl con 70 km de senderos sin correa, y trenes ICE directos desde el aeropuerto de Fráncfort en 50 min`,
+      highlight: `las terrazas del Schloss, el Philosophenweg con su bosque del Heiligenberg, y el funicular del Königstuhl hacia 70 km de senderos forestales sin correa`,
+      area: `la Altstadt alrededor de la Hauptstraße, Bergheim cerca de la estación, y el frondoso Neuenheim al otro lado del Neckar`,
     },
     helsinki: {
       personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',

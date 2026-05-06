@@ -320,6 +320,131 @@
     "slug": "pulitzer-amsterdam"
   },
   {
+    "id": "annecy-1",
+    "name": "Hôtel Impérial Palace Annecy",
+    "destinationSlug": "annecy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2120,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/imperial-palace-annecy.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Hôtel Impérial Palace Annecy — a five-star Belle Époque palace on the lakeshore — welcomes pets in selected room categories. A pet fee of 35 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Pâquier and lake at the doorstep. Pets on lead in lobbies; not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Lake views",
+      "Spa",
+      "Casino"
+    ],
+    "slug": "imperial-palace-annecy"
+  },
+  {
+    "id": "annecy-2",
+    "name": "Black Bass Hotel",
+    "destinationSlug": "annecy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1840,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/black-bass.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Black Bass Hotel — a 4-star design boutique hotel on the lake at Sevrier — welcomes pets at 25 € per night. Up to two pets per room. Direct lakeside dog-swim access; cycle path passes the door. Pets on lead in common areas; restaurant only with prior agreement.",
+    "highlights": [
+      "Free WiFi",
+      "Lake views",
+      "Restaurant",
+      "Spa"
+    ],
+    "slug": "black-bass-hotel"
+  },
+  {
+    "id": "annecy-3",
+    "name": "Le Pré Carré Hôtel & Spa",
+    "destinationSlug": "annecy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2380,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-pre-carre.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Le Pré Carré Hôtel & Spa — a 4-star hotel near the Pâquier on Avenue d'Albigny — welcomes pets at 20 € per night. Up to two pets per room. Pâquier and lake 3 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "le-pre-carre-annecy"
+  },
+  {
+    "id": "annecy-4",
+    "name": "Hôtel Carlton Annecy",
+    "destinationSlug": "annecy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2940,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/carlton-annecy.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hôtel Carlton Annecy — a 3-star hotel on Rue des Glières near the train station — welcomes pets at 15 € per night. Up to two pets per room. Vieille Ville 6 min on foot, lake 10 min. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Family rooms"
+    ],
+    "slug": "hotel-carlton-annecy"
+  },
+  {
+    "id": "annecy-5",
+    "name": "Best Western Hôtel International",
+    "destinationSlug": "annecy",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3220,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/bestwestern-hotel-international-annecy.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Hôtel International Annecy — a 3-star hotel near the train station with on-site free parking — welcomes pets at 12 € per night. One pet per room standard, second on prior request. Vieille Ville 8 min on foot, lake 12 min.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "best-western-international-annecy"
+  },
+  {
     "id": "antwerp-1",
     "name": "Botanic Sanctuary Antwerp - The Leading Hotels of the World",
     "destinationSlug": "antwerp",

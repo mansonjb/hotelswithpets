@@ -219,6 +219,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  annecy: {
+    history: {
+      fr: `Annecy, fondée comme bourg gallo-romain au pied du château des comtes de Genève au XIIe siècle, est devenue capitale de la Savoie au XVIe siècle quand le duc François de Sales y fixa son siège. Le rachat de la Savoie par Napoléon III en 1860 attacha la ville à la France ; le tourisme romantique du XIXe siècle (Lamartine y séjourna) en fit la « Venise des Alpes ». Les canaux du Thiou et du Vassé qui traversent la Vieille Ville, le Palais de l'Île triangulaire et le Pont des Amours forment l'image carte-postale la plus reproduite de France après le Mont-Saint-Michel. Pour les voyageurs avec un chien, Annecy est l'une des destinations canines les plus complètes de France : Vieille Ville piétonne en 15 min, culture brasserie savoyarde tolérante par défaut, lac avec eau cristalline (Classe A) où les chiens peuvent boire, piste cyclable plate de 42 km tout autour, et la forêt du Semnoz à 1 699 m juste au sud avec 50 km de sentiers sans laisse. Genève est à 40 min en TER direct.`,
+      en: `Annecy, founded as a Gallo-Roman village below the castle of the Counts of Geneva in the 12th century, became the capital of Savoy in the 16th century when Duke François de Sales established his seat here. The 1860 sale of Savoy by Napoleon III tied the city to France; 19th-century romantic tourism (Lamartine stayed here) earned it the nickname 'Venice of the Alps'. The Thiou and Vassé canals threading through the Vieille Ville, the triangular Palais de l'Île, and the Pont des Amours form the most-reproduced postcard image in France after Mont-Saint-Michel. For travellers with a dog, Annecy is one of France's most complete dog destinations: a 15-min walkable Vieille Ville, dog-tolerant Savoyard brasserie culture by default, a lake with crystal-clear water (Class A) safe for dogs to drink, a flat 42 km cycle path right around it, and the Semnoz forest at 1 699 m directly south with 50 km of off-leash trails. Geneva is 40 min by direct TER.`,
+      es: `Annecy, fundada como bourg galorromano al pie del castillo de los condes de Ginebra en el siglo XII, se convirtió en capital de Saboya en el siglo XVI cuando el duque François de Sales estableció su sede aquí. La venta de Saboya por Napoleón III en 1860 ligó la ciudad a Francia; el turismo romántico del siglo XIX (Lamartine residió aquí) le valió el apodo de « Venecia de los Alpes ». Los canales del Thiou y del Vassé que atraviesan el Casco Antiguo, el Palais de l'Île triangular y el Pont des Amours forman la imagen postal más reproducida de Francia después del Mont-Saint-Michel. Para los viajeros con perro, Annecy es uno de los destinos caninos más completos de Francia: Casco Antiguo peatonal en 15 min, cultura de la brasserie saboyana tolerante por defecto, lago con agua cristalina (Clase A) segura para que los perros beban, sendero ciclista plano de 42 km alrededor, y el bosque del Semnoz a 1 699 m directamente al sur con 50 km de senderos sin correa. Ginebra a 40 min en TER directo.`,
+    },
+    sights: [
+      { name: 'Palais de l\'Île', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse triangulaire du XIIe siècle sur une île dans le canal du Thiou — l'image carte-postale d'Annecy. Vue extérieure 24h/24 dog-friendly ; musée intérieur réservé aux chiens d'assistance.`,
+        en: `12th-century triangular fortress on an island in the canal du Thiou — Annecy's postcard image. Outdoor view 24/7 dog-friendly; interior museum assistance dogs only.`,
+        es: `Fortaleza triangular del siglo XII en una isla en el canal del Thiou — la imagen postal de Annecy. Vista exterior 24/7 dog-friendly; museo interior solo perros de asistencia.`,
+      }},
+      { name: 'Pont des Amours', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Passerelle en fonte de 1907 sur le canal du Vassé reliant le Pâquier aux Jardins de l'Europe — coin le plus romantique d'Annecy. Ouvert 24h/24, dog-friendly.`,
+        en: `1907 cast-iron footbridge over the canal du Vassé linking the Pâquier to the Jardins de l'Europe — Annecy's most romantic spot. Open 24/7, dog-friendly.`,
+        es: `Pasarela de hierro fundido de 1907 sobre el canal del Vassé conectando el Pâquier con los Jardins de l'Europe — el rincón más romántico de Annecy. Abierto 24/7, dog-friendly.`,
+      }},
+      { name: 'Le Pâquier', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Pelouse centrale de 7 ha entre le lac et la place du Pâquier — vue sur le lac, kiosques à glaces, connexion à l'avenue d'Albigny. Chiens en laisse.`,
+        en: `7-hectare central lawn between the lake and the Pâquier square — lake views, ice-cream kiosks, connects to Avenue d'Albigny. Leashed dogs.`,
+        es: `Césped central de 7 ha entre el lago y la plaza del Pâquier — vistas al lago, quioscos de helados, conecta con la Avenue d'Albigny. Perros con correa.`,
+      }},
+      { name: 'Lake Annecy Cycle Path', emoji: '🚴', petFriendly: true, desc: {
+        fr: `Piste cyclable plate de 42 km autour du lac — sans voiture, dog-friendly, vues directes sur le lac toute la longueur.`,
+        en: `Flat 42 km cycle path around the lake — car-free, dog-friendly, direct lake views the whole way.`,
+        es: `Sendero ciclista plano de 42 km alrededor del lago — sin coches, dog-friendly, vistas directas al lago todo el camino.`,
+      }},
+      { name: 'Forêt du Semnoz', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Montagne forestière de 1 699 m au sud du centre — 50 km de sentiers sans laisse hors saison de nidification, vues sur le lac et le Mont Blanc.`,
+        en: `1 699 m forested mountain south of the centre — 50 km of off-leash trails outside the nesting season, views over the lake and Mont Blanc.`,
+        es: `Montaña forestal de 1 699 m al sur del centro — 50 km de senderos sin correa fuera de la temporada de nidificación, vistas al lago y al Mont Blanc.`,
+      }},
+      { name: 'Château d\'Annecy', emoji: '🏯', petFriendly: true, desc: {
+        fr: `Château des XIIe-XVe siècles sur la colline au-dessus de la Vieille Ville — terrasses extérieures dog-friendly avec chiens en laisse, musée intérieur pour chiens d'assistance.`,
+        en: `12th-15th century castle on the hill above the Vieille Ville — outer terraces dog-friendly with leashed dogs, interior museum assistance dogs only.`,
+        es: `Castillo de los siglos XII-XV en la colina sobre el Casco Antiguo — terrazas exteriores dog-friendly con perros con correa, museo interior solo perros de asistencia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café/brasserie savoyarde accueille les chiens par défaut — environ 80 % des établissements d'Annecy acceptent les chiens en laisse en terrasse.`,
+        `Bus SIBRA et trains TER : chiens moyens/grands à demi-tarif (1 € sur SIBRA) avec laisse + muselière sur TER ; petits chiens en cage gratuits.`,
+        `Plage canine officielle aux Marquisats à 10 min à pied du centre, ouverte toute l'année.`,
+        `Vétérinaire d'urgence 24h/24 : Vétérys à Argonay (+33 4 50 63 22 22), 12 min en voiture par la D14.`,
+        `Le festival d'animation d'Annecy (juin), la Fête du Lac (1er samedi d'août, 200 000 visiteurs + feux d'artifice) et le Tournoi des 6 Nations rugby (mars-avril) créent des foules denses — évitez avec un chien anxieux.`,
+      ],
+      en: [
+        `Savoyard café/brasserie culture welcomes dogs by default — about 80% of Annecy venues accept leashed dogs on the terrace.`,
+        `SIBRA buses and TER trains: medium/large dogs at half-fare (1 € on SIBRA) with leash + muzzle on TER; small dogs in carrier free.`,
+        `Official dog beach at Les Marquisats 10 min on foot from the centre, open year-round.`,
+        `24/7 emergency vet: Vétérys in Argonay (+33 4 50 63 22 22), 12 min by car on the D14.`,
+        `Annecy Animation Festival (June), Fête du Lac (first Saturday of August, 200,000 visitors + fireworks) and Six Nations rugby (March-April) create dense crowds — avoid with an anxious dog.`,
+      ],
+      es: [
+        `La cultura del café/brasserie saboyana admite perros por defecto — alrededor del 80 % de los locales de Annecy acepta perros con correa en terraza.`,
+        `Buses SIBRA y trenes TER: perros medianos/grandes a media tarifa (1 € en SIBRA) con correa + bozal en TER; perros pequeños en transportín gratis.`,
+        `Playa canina oficial en Les Marquisats a 10 min andando del centro, abierta todo el año.`,
+        `Veterinario de urgencias 24/7: Vétérys en Argonay (+33 4 50 63 22 22), 12 min en coche por la D14.`,
+        `El Festival de animación de Annecy (junio), la Fête du Lac (primer sábado de agosto, 200 000 visitantes + fuegos) y el Torneo Seis Naciones de rugby (marzo-abril) crean multitudes densas — evita con perro ansioso.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `France dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains TER directs : Genève 40 min, Aix-les-Bains 35 min, Lyon 1h45, Chamonix 2h (changement à La-Roche-sur-Foron), Paris 4h (TGV via Bellegarde).`,
+        `Aéroport de Genève (GVA) à 40 min en TER + 8 min navette aéroport — bien plus dog-pratique que Lyon Saint-Exupéry (1h45) pour les vols internationaux.`,
+        `Devise : euro. Budget journalier dog-friendly : 80-110 €/jour hors hébergement, alpine resort pricing mais plus bas que Genève.`,
+        `Stationnement : la Vieille Ville est zone piétonne payante ; utilisez les parkings souterrains (Bonlieu, Hôtel de Ville) à 2-3 €/h.`,
+      ],
+      en: [
+        `France is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct TER trains: Geneva 40 min, Aix-les-Bains 35 min, Lyon 1h45, Chamonix 2h (change at La-Roche-sur-Foron), Paris 4h (TGV via Bellegarde).`,
+        `Geneva Airport (GVA) 40 min by TER + 8 min airport shuttle — far more dog-convenient than Lyon Saint-Exupéry (1h45) for international flights.`,
+        `Currency: euro. Daily dog-friendly budget: 80-110 €/day excluding accommodation, alpine resort pricing but lower than Geneva.`,
+        `Parking: Vieille Ville is a paid pedestrian zone; use underground car parks (Bonlieu, Hôtel de Ville) at 2-3 €/hour.`,
+      ],
+      es: [
+        `Francia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes TER directos: Ginebra 40 min, Aix-les-Bains 35 min, Lyon 1h45, Chamonix 2h (cambio en La-Roche-sur-Foron), París 4h (TGV vía Bellegarde).`,
+        `Aeropuerto de Ginebra (GVA) a 40 min en TER + 8 min en lanzadera aeropuerto — mucho más dog-cómodo que Lyon Saint-Exupéry (1h45) para vuelos internacionales.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 80-110 €/día sin alojamiento, pricing de estación alpina pero más bajo que Ginebra.`,
+        `Aparcamiento: el Casco Antiguo es zona peatonal de pago; usa los aparcamientos subterráneos (Bonlieu, Hôtel de Ville) a 2-3 €/h.`,
+      ],
+    },
+  },
+
   antwerp: {
     history: {
       fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle — la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,

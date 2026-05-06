@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
       area: 'the Jordaan neighbourhood and the canal belt',
     },
+    annecy: {
+      personality: `the 'Venice of the Alps' — a UNESCO-rated medieval Vieille Ville on canals, the cleanest large lake in Europe with year-round dog-swim spots, and the 4 000-hectare Semnoz forest with 50 km of off-leash trails directly south of the centre`,
+      highlight: `the Pont des Amours and the Vieille Ville canals, the 42 km flat lake-circuit cycle path, and the Semnoz forest summit at 1 699 m`,
+      area: `the Vieille Ville around the Palais de l'Île, the Pâquier and Albigny lakefront, and the residential Annecy-le-Vieux`,
+    },
     antwerp: {
       personality: 'Belgium\'s fashion capital and one of its most dog-forward cities. With vast riverside parks, dog-welcoming terraces, and a thriving boutique hotel scene',
       highlight: 'the Rivierenhof park, the Schelde riverside promenade, and the Nachtegalenpark',
@@ -539,6 +544,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
       area: 'le quartier du Jordaan et la ceinture des canaux',
     },
+    annecy: {
+      personality: `la « Venise des Alpes » — Vieille Ville médiévale classée le long des canaux, le grand lac le plus propre d'Europe avec spots de baignade canine toute l'année, et la forêt du Semnoz de 4 000 ha avec 50 km de sentiers sans laisse directement au sud du centre`,
+      highlight: `le Pont des Amours et les canaux de la Vieille Ville, la piste cyclable plate de 42 km du tour du lac, et le sommet du Semnoz à 1 699 m`,
+      area: `la Vieille Ville autour du Palais de l'Île, le Pâquier et le bord de lac d'Albigny, et le résidentiel Annecy-le-Vieux`,
+    },
     antwerp: {
       personality: 'la capitale de la mode belge et l\'une de ses villes les plus dog-friendly. Avec de vastes parcs riverains, des terrasses accueillantes pour les chiens et un secteur hôtelier boutique florissant',
       highlight: 'le parc Rivierenhof, la promenade riveraine de l\'Escaut et le Nachtegalenpark',
@@ -1045,6 +1055,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales más relajadas y acogedoras con mascotas de Europa',
       highlight: 'el Vondelpark y las orillas sin correa del río Amstel',
       area: 'el barrio del Jordaan y el cinturón de canales',
+    },
+    annecy: {
+      personality: `la « Venecia de los Alpes » — Casco Antiguo medieval clasificado a lo largo de los canales, el lago grande más limpio de Europa con spots de baño canino todo el año, y el bosque del Semnoz de 4 000 ha con 50 km de senderos sin correa directamente al sur del centro`,
+      highlight: `el Pont des Amours y los canales del Casco Antiguo, el sendero ciclista plano de 42 km de la vuelta al lago, y la cima del Semnoz a 1 699 m`,
+      area: `el Casco Antiguo alrededor del Palais de l'Île, el Pâquier y el frente lacustre de Albigny, y el residencial Annecy-le-Vieux`,
     },
     antwerp: {
       personality: 'la capital de la moda de Bélgica y una de sus ciudades más dog-friendly. Con amplios parques ribereños, terrazas acogedoras para perros y un floreciente sector de hoteles boutique',

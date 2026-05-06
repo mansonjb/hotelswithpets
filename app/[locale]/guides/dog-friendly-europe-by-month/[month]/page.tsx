@@ -9,6 +9,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import Stay22Map from '@/components/Stay22Map'
 
 type MonthKey = 'january' | 'february' | 'march' | 'april' | 'may' | 'june' | 'july' | 'august' | 'september' | 'october' | 'november' | 'december'
 
@@ -191,6 +192,8 @@ const COPY = {
     weatherLabel: 'Avg high',
     hotelsLabel: 'pet-friendly hotels',
     guideLink: 'Full city guide →',
+    mapLabel: (city: string) => `Pet-friendly hotels in ${city}`,
+    mapHint: 'Live availability and prices, dogs/cats accepted. Bookable via Booking.com & partners.',
     methodologyTitle: 'How we ranked',
     methodologyParas: [
       'We start with the actual monthly weather data from each of our 100 destinations (EU climate normals, updated annually). Cities scoring 14-22 °C average daytime high get the highest comfort score; >26 °C drops sharply (heat-stress risk for dogs); <10 °C drops moderately.',
@@ -217,6 +220,8 @@ const COPY = {
     weatherLabel: 'Max moyen',
     hotelsLabel: 'hôtels pet-friendly',
     guideLink: 'Guide complet →',
+    mapLabel: (city: string) => `Hôtels pet-friendly à ${city}`,
+    mapHint: 'Disponibilités et prix en direct, chiens/chats acceptés. Réservable via Booking.com et partenaires.',
     methodologyTitle: 'Méthodologie',
     methodologyParas: [
       'Nous partons des données météo mensuelles réelles de chacune de nos 100 destinations (normales climatiques UE, mises à jour annuellement). Les villes notées 14-22 °C de maximum moyen diurne reçoivent le score de confort le plus élevé ; >26 °C chute brusquement (risque de stress thermique pour les chiens) ; <10 °C chute modérément.',
@@ -243,6 +248,8 @@ const COPY = {
     weatherLabel: 'Máx media',
     hotelsLabel: 'hoteles pet-friendly',
     guideLink: 'Guía completa →',
+    mapLabel: (city: string) => `Hoteles pet-friendly en ${city}`,
+    mapHint: 'Disponibilidad y precios en vivo, perros/gatos admitidos. Reservable vía Booking.com y socios.',
     methodologyTitle: 'Metodología',
     methodologyParas: [
       'Partimos de los datos meteorológicos mensuales reales de cada uno de nuestros 100 destinos (normales climáticas UE, actualizadas anualmente). Las ciudades con 14-22 °C de máxima media diurna reciben la mejor puntuación de confort; >26 °C cae bruscamente (riesgo de estrés térmico para perros); <10 °C cae moderadamente.',
@@ -368,6 +375,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         </Link>
                       </div>
                     </div>
+                  </div>
+                  <div className="px-6 lg:px-8 pt-2 pb-6 lg:pb-8 border-t border-gray-100 bg-gray-50">
+                    <div className="flex items-baseline justify-between gap-4 my-4">
+                      <h4 className="text-lg font-bold text-gray-900">📍 {c.mapLabel(localName)}</h4>
+                      <span className="text-xs text-gray-500 hidden sm:inline">{c.mapHint}</span>
+                    </div>
+                    <Stay22Map lat={p.dest.lat} lng={p.dest.lng} destName={localName} height={360} />
                   </div>
                 </article>
               )

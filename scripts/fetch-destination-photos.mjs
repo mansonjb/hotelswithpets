@@ -83,6 +83,8 @@ const TARGETS = [
   { slug: 'heidelberg', query: 'Heidelberg Germany Schloss castle Alte Brucke Neckar Philosophenweg Altstadt panorama sunset' },
   { slug: 'annecy', query: 'Annecy France Palais de l Isle Vieille Ville canals lake Alps panorama sunset' },
   { slug: 'tampere', query: 'Tampere Finland Tammerkoski rapids Pyynikki ridge tower lake panorama sunset' },
+  { slug: 'basel', query: 'Basel Switzerland Munster cathedral red sandstone Rhine river Mittlere Brucke Altstadt panorama sunset' },
+  { slug: 'faro', query: 'Faro Portugal Arco da Vila Cidade Velha Cathedral Ria Formosa Algarve panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

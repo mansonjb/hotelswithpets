@@ -650,6 +650,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  basel: {
+    history: {
+      fr: `Bâle, fondée comme camp romain (Basilia) au 1er siècle puis bourg épiscopal médiéval, est devenue en 1501 la onzième ville à rejoindre la Confédération suisse — et une capitale de l'humanisme européen avec son université (1460), Érasme et Holbein. Aujourd'hui troisième ville de Suisse (180 000 habitants ; 830 000 dans l'agglomération tri-frontalière France-Allemagne-Suisse), Bâle conjugue ordre helvétique et culture rhénane décontractée : on s'y baigne dans le Rhin de juin à septembre en flottant avec ses affaires dans un sac étanche Wickelfisch, on traverse en bac à câble silencieux d'une rive à l'autre, et on déjeune sur des terrasses où les chiens reçoivent un Wassernapf sans qu'on ait à le demander. Avec ses 40 musées (le Kunstmuseum, le plus ancien musée d'art accessible au public au monde ; la Fondation Beyeler ; le Tinguely), Art Basel chaque mois de juin et l'architecture signée Herzog & de Meuron, Mario Botta ou Renzo Piano, Bâle revendique le statut de capitale culturelle suisse. Côté chien : la Suisse fait partie du système européen de passeport, deux Hundebadi officielles bordent le Rhin, et le canton applique strictement la laisse en parc public, mais les forêts alluviales de la Wiese offrent des kilomètres de course libre.`,
+      en: `Basel, founded as the Roman camp Basilia in the 1st century and later a medieval episcopal town, joined the Swiss Confederation in 1501 as the eleventh canton — and became a capital of European humanism with its university (1460), Erasmus and Holbein. Today Switzerland's third city (180,000 residents; 830,000 in the tri-border France-Germany-Switzerland metropolitan area), Basel combines Swiss orderliness with a relaxed Rhine culture: from June to September locals swim in the river floating with their belongings in waterproof Wickelfisch bags, cross from bank to bank on silent cable-driven ferries, and lunch on terraces where dogs are brought a Wassernapf without asking. With 40 museums (the Kunstmuseum, the oldest public art museum in the world; the Fondation Beyeler; the Tinguely), Art Basel every June and architecture signed by Herzog & de Meuron, Mario Botta and Renzo Piano, Basel claims the title of Switzerland's cultural capital. For dogs: Switzerland is part of the EU pet-passport system, two official Hundebadi swim spots line the Rhine, and the canton enforces leash laws strictly in city parks — but the floodplain forests along the Wiese offer kilometres of off-leash freedom.`,
+      es: `Basilea, fundada como campamento romano (Basilia) en el siglo I y luego ciudad episcopal medieval, se sumó a la Confederación Suiza en 1501 como undécimo cantón — y se convirtió en una capital del humanismo europeo con su universidad (1460), Erasmo y Holbein. Hoy es la tercera ciudad de Suiza (180.000 habitantes; 830.000 en el área metropolitana trifronteriza Francia-Alemania-Suiza), y combina el orden suizo con una cultura renana relajada: de junio a septiembre los locales se bañan en el río flotando con sus pertenencias en bolsas estancas Wickelfisch, cruzan de orilla a orilla en silenciosos ferris movidos por cable y almuerzan en terrazas donde a los perros se les trae un Wassernapf sin pedirlo. Con 40 museos (el Kunstmuseum, el museo de arte público más antiguo del mundo; la Fondation Beyeler; el Tinguely), Art Basel cada junio y arquitectura firmada por Herzog & de Meuron, Mario Botta y Renzo Piano, Basilea reivindica el título de capital cultural de Suiza. Para los perros: Suiza forma parte del sistema europeo de pasaporte, dos Hundebadi oficiales bordean el Rin, y el cantón aplica con rigor la correa en los parques urbanos, pero los bosques aluviales del Wiese ofrecen kilómetros de libertad sin correa.`,
+    },
+    sights: [
+      {
+        name: 'Basel Münster',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `La cathédrale en grès rouge perchée au-dessus du Rhin (XIIe-XVe s.). La terrasse Pfalz à l'arrière offre l'une des plus belles vues fluviales gratuites d'Europe, dog-friendly en laisse.`,
+          en: `The red-sandstone cathedral perched above the Rhine (12th-15th c.). The Pfalz terrace behind offers one of Europe's great free river views, dog-friendly on leash.`,
+          es: `La catedral de arenisca roja asomada al Rin (s. XII-XV). La terraza Pfalz detrás ofrece una de las mejores vistas fluviales gratuitas de Europa, dog-friendly con correa.`,
+        },
+      },
+      {
+        name: 'Marktplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place centrale dominée par le spectaculaire Rathaus rouge (XVIe s.) couvert de fresques. Marché matinal quotidien (sauf dimanche), chiens en laisse acceptés sur les pavés.`,
+          en: `Central square dominated by the spectacular red Rathaus (16th c.) covered with frescoes. Daily morning market (except Sunday), leashed dogs welcome on the cobbles.`,
+          es: `Plaza central dominada por el espectacular Rathaus rojo (s. XVI) cubierto de frescos. Mercado matutino diario (salvo domingo), perros con correa admitidos sobre los adoquines.`,
+        },
+      },
+      {
+        name: 'Mittlere Brücke',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Le pont médiéval reliant Grossbasel et Kleinbasel depuis 1226 — l'un des plus anciens du Rhin. Vue iconique sur le Münster, dog-friendly en laisse à toute heure.`,
+          en: `The medieval bridge connecting Grossbasel and Kleinbasel since 1226 — one of the oldest crossings on the Rhine. Iconic view of the Münster, dog-friendly on leash at any hour.`,
+          es: `El puente medieval que conecta Grossbasel y Kleinbasel desde 1226 — uno de los más antiguos del Rin. Vista icónica del Münster, dog-friendly con correa a cualquier hora.`,
+        },
+      },
+      {
+        name: 'Birsköpfli',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: `Presqu'île à la confluence Birs-Rhin, l'une des deux Hundebadi (zones de baignade canine) officielles du canton. Courant doux, plage sablonneuse, sans laisse.`,
+          en: `Peninsula at the Birs-Rhine confluence, one of the canton's two official Hundebadi (dog bathing zones). Gentle current, sandy beach, off-leash.`,
+          es: `Península en la confluencia Birs-Rin, una de las dos Hundebadi (zonas de baño canino) oficiales del cantón. Corriente suave, playa arenosa, sin correa.`,
+        },
+      },
+      {
+        name: 'Landschaftspark Wiese',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc fluvial de 3 km le long de la Wiese, du nord du Kleinbasel à la frontière allemande. Sections sans laisse, plages de galets, accès rivière pour les chiens nageurs.`,
+          en: `3 km riparian park along the Wiese river, from northern Kleinbasel to the German border. Off-leash sections, gravel beaches, river access for swimming dogs.`,
+          es: `Parque fluvial de 3 km a lo largo del Wiese, desde el norte de Kleinbasel hasta la frontera alemana. Tramos sin correa, playas de grava, acceso al río para perros nadadores.`,
+        },
+      },
+      {
+        name: 'Tinguely Fountain',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `La fontaine cinétique de Jean Tinguely (1977) sur la Theaterplatz, dix sculptures métalliques crachant et tournant en continu. Place ouverte, dog-friendly en laisse.`,
+          en: `Jean Tinguely's kinetic fountain (1977) on Theaterplatz, ten metal sculptures spitting and rotating continuously. Open square, dog-friendly on leash.`,
+          es: `La fuente cinética de Jean Tinguely (1977) en la Theaterplatz, diez esculturas metálicas escupiendo y girando sin parar. Plaza abierta, dog-friendly con correa.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Suisse fait partie du système passeport européen : puce + vaccination antirabique valide + passeport européen exigés à la frontière.`,
+        `Deux Hundebadi officielles dans le Rhin : Birsköpfli (crique calme, pour tous les chiens) et St. Alban-Rheinweg près du musée Tinguely (courant fort, nageurs confirmés).`,
+        `Trams BVB/BLT : chiens >30 cm au garrot tarif 2e classe réduit ; petits formats en panier fermé gratuits. Achetez au distributeur vert TNW avant de monter.`,
+        `Les bacs en bois du Rhin (Münsterfähre, Klingentalfähre) acceptent les chiens contre un petit forfait — beaucoup moins stressant qu'un tram pour un animal anxieux.`,
+        `Numéro vétérinaire d'urgence cantonal : 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik à Münchenstein ouverte 24h/24.`,
+      ],
+      en: [
+        `Switzerland is in the EU pet-passport zone: microchip + valid rabies vaccination + EU pet passport mandatory at the border.`,
+        `Two official Hundebadi swim spots on the Rhine: Birsköpfli (calm inlet, all dogs) and St. Alban-Rheinweg by the Tinguely Museum (strong current, confident swimmers only).`,
+        `BVB/BLT trams: dogs over 30 cm shoulder height pay a reduced 2nd-class fare; smaller dogs in closed carriers ride free. Buy at the green TNW machine before boarding.`,
+        `The wooden Rhine ferries (Münsterfähre, Klingentalfähre) take dogs for a small flat fare — far less stressful than a tram for nervous animals.`,
+        `Cantonal emergency vet line: 0900 515 114 (CHF 1.90/min). VetTrust Tierklinik in Münchenstein is open 24/7.`,
+      ],
+      es: [
+        `Suiza está en la zona del pasaporte europeo: microchip + vacuna antirrábica vigente + pasaporte europeo obligatorios en la frontera.`,
+        `Dos Hundebadi oficiales en el Rin: Birsköpfli (ensenada tranquila, para todos los perros) y St. Alban-Rheinweg junto al Museo Tinguely (corriente fuerte, solo nadadores confirmados).`,
+        `Tranvías BVB/BLT: perros de más de 30 cm a la cruz pagan billete reducido de 2ª clase; los pequeños en transportín cerrado viajan gratis. Compra en la máquina verde TNW antes de subir.`,
+        `Los ferris de madera del Rin (Münsterfähre, Klingentalfähre) admiten perros con una pequeña tarifa fija — mucho menos estresante que un tranvía para un animal nervioso.`,
+        `Número cantonal de urgencias veterinarias: 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik en Münchenstein abierta 24/7.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
+        `Numéro de garde cantonal hors heures : 0900 515 114 (1,90 CHF/min).`,
+        `Trains : SBB-CFF accepte les chiens en laisse muselée >30 cm (billet 2e classe réduit) ; les chats et petits chiens en panier voyagent gratuitement.`,
+        `EuroAirport Bâle-Mulhouse-Fribourg : passeport européen exigé. Sortie suisse pour rejoindre Bâle par le bus 50 (20 min jusqu'à Bâle SBB).`,
+        `Pendant les pics touristiques (Art Basel mi-juin, Herbstmesse fin octobre), réservez hôtels et pet-sitters au moins une semaine à l'avance.`,
+      ],
+      en: [
+        `24h emergency vet: VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
+        `Out-of-hours cantonal duty number: 0900 515 114 (CHF 1.90/min).`,
+        `Trains: SBB-CFF accepts leashed and muzzled dogs over 30 cm (reduced 2nd-class ticket); cats and small dogs in carriers travel free.`,
+        `EuroAirport Basel-Mulhouse-Freiburg: EU pet passport required. Use the Swiss exit for the bus 50 link to Basel (20 min to Basel SBB station).`,
+        `During tourist peaks (Art Basel mid-June, Herbstmesse late October), book hotels and pet-sitters at least a week ahead.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
+        `Número cantonal de guardia fuera de horario: 0900 515 114 (1,90 CHF/min).`,
+        `Trenes: SBB-CFF admite perros con correa y bozal de más de 30 cm (billete reducido de 2ª clase); gatos y perros pequeños en transportín viajan gratis.`,
+        `EuroAirport Basilea-Mulhouse-Friburgo: pasaporte europeo obligatorio. Usa la salida suiza para conectar con Basilea por el autobús 50 (20 min hasta Basilea SBB).`,
+        `Durante los picos turísticos (Art Basel a mediados de junio, Herbstmesse a finales de octubre), reserva hoteles y pet-sitters al menos con una semana de antelación.`,
+      ],
+    },
+  },
+
   bath: {
     history: {
       fr: `Bath, fondée par les Romains en 60 après J.-C. comme Aquae Sulis autour des seules sources thermales chaudes naturelles de Grande-Bretagne, est devenue au XVIIIe siècle la ville thermale la plus mondaine d'Angleterre — une cité géorgienne entièrement reconstruite dans la pierre calcaire couleur miel des collines voisines, classée UNESCO depuis 1987. Les 90 000 habitants partagent aujourd'hui leur ville avec le tourisme international (6 millions de visiteurs/an) et une forte tradition canine british : les pubs accueillent les chiens par défaut, le chemin de halage du canal Kennet & Avon offre 140 km de promenade au départ de la ville, et le sentier Bath Skyline National Trust de 9,6 km est l'une des promenades canines urbaines les plus prisées du Royaume-Uni. La géographie est compacte (1,5 km de large), ce qui rend Bath parfaitement marchable avec un chien — du Royal Crescent géorgien aux Roman Baths en passant par le Pulteney Bridge bordé de boutiques (l'un des quatre seuls au monde de ce type). Côté pratique : le UK a quitté le système de passeport européen post-Brexit, donc une Animal Health Certificate (AHC) émise dans les 10 jours précédant le voyage est exigée pour les chiens venant de l'UE, plus un traitement contre l'échinococcose obligatoire.`,
@@ -3554,6 +3670,92 @@ const cityContent: Record<string, CityContent> = {
         'Clínica central: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
         '⚠️ El pasaporte UE para mascotas no es válido en el Reino Unido — se requiere Certificado Sanitario Animal (AHC) expedido por un veterinario acreditado.',
         'Ferry recomendado: DFDS Dover-Calais o Stena Line Fishguard-Rosslare (Irlanda) — animales admitidos a bordo.',
+      ],
+    },
+  },
+
+  faro: {
+    history: {
+      fr: `Faro, fondée à l'époque romaine sous le nom d'Ossonoba, fut occupée par les Wisigoths puis par les Maures (qui lui donnèrent son nom moderne, dérivé du fondateur Harun ibn Habib) jusqu'à la reconquête chrétienne d'Alphonse III du Portugal en 1249. Le tremblement de terre de Lisbonne de 1755 dévasta la ville, qui fut reconstruite dans son style néoclassique actuel autour de la Cidade Velha médiévale toujours debout. Aujourd'hui capitale administrative et universitaire de l'Algarve (66 000 habitants), Faro est aussi la porte d'entrée touristique du sud du Portugal grâce à son aéroport international (FAO) avec vols directs depuis 30+ villes européennes. Pour les voyageurs avec un chien, Faro est l'une des destinations atlantiques dog-friendly les plus complètes : Cidade Velha piétonne en 15 min, parc naturel de la Ria Formosa de 18 000 hectares à l'orée de la ville, plages canines toute l'année sur les îles barrières via ferries, hôpital vétérinaire 24h/24 dans le centre, et suppléments animaux 8-12 €/nuit — parmi les plus bas du sud de l'Europe.`,
+      en: `Faro, founded in Roman times as Ossonoba, was occupied by the Visigoths and then the Moors (who gave it its modern name, derived from the founder Harun ibn Habib) until the Christian reconquest by Alfonso III of Portugal in 1249. The 1755 Lisbon earthquake devastated the city, which was rebuilt in its current neoclassical style around the still-standing medieval Cidade Velha. Now the administrative and university capital of the Algarve (66,000 people), Faro is also the tourist gateway to southern Portugal thanks to its international airport (FAO) with direct flights from 30+ European cities. For travellers with a dog, Faro is one of the most complete Atlantic dog-friendly destinations: a 15-min walkable Cidade Velha, the 18,000-hectare Ria Formosa Natural Park at the city edge, year-round dog beaches on the barrier islands via ferry, a 24/7 veterinary hospital in the centre, and pet supplements 8-12 €/night — among the lowest in southern Europe.`,
+      es: `Faro, fundada en época romana como Ossonoba, fue ocupada por los visigodos y luego por los moros (que le dieron su nombre moderno, derivado del fundador Harun ibn Habib) hasta la reconquista cristiana de Alfonso III de Portugal en 1249. El terremoto de Lisboa de 1755 devastó la ciudad, que fue reconstruida en su estilo neoclásico actual alrededor de la Cidade Velha medieval aún en pie. Hoy capital administrativa y universitaria del Algarve (66 000 habitantes), Faro es también la puerta de entrada turística al sur de Portugal gracias a su aeropuerto internacional (FAO) con vuelos directos desde 30+ ciudades europeas. Para los viajeros con perro, Faro es uno de los destinos atlánticos dog-friendly más completos: Cidade Velha peatonal en 15 min, parque natural de la Ria Formosa de 18 000 hectáreas al borde de la ciudad, playas caninas todo el año en islas barrera por ferry, hospital veterinario 24/7 en el centro, y suplementos para mascotas 8-12 €/noche — de los más bajos del sur de Europa.`,
+    },
+    sights: [
+      { name: 'Cidade Velha', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La vieille ville fortifiée médiévale — ruelles pavées, place de la cathédrale, palais épiscopal, fondations romano-mauresques. Ouverte 24h/24, dog-friendly.`,
+        en: `Medieval walled Old Town — cobbled lanes, cathedral square, bishop's palace, Roman-Moorish foundations. Open 24/7, dog-friendly.`,
+        es: `Casco antiguo amurallado medieval — callejones adoquinados, plaza de la catedral, palacio episcopal, fundaciones romano-moriscas. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Arco da Vila', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Porte néoclassique de 1812 vers la Cidade Velha — marbre de Carrare, nids de cigognes au sommet au printemps-été. Ouverte 24h/24, dog-friendly.`,
+        en: `1812 neoclassical gate to the Cidade Velha — Carrara marble, stork nests on top in spring-summer. Open 24/7, dog-friendly.`,
+        es: `Puerta neoclásica de 1812 a la Cidade Velha — mármol de Carrara, nidos de cigüeñas en la cima en primavera-verano. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Faro Marina', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Marina de plaisance avec esplanade d'1 km le long de la Ria Formosa — terrasses, embarcadère ferry, vues sur les marais salants. Ouverte 24h/24, dog-friendly.`,
+        en: `Pleasure-port marina with 1 km esplanade alongside the Ria Formosa — terraces, ferry pier, salt-marsh views. Open 24/7, dog-friendly.`,
+        es: `Marina de recreo con esplanada de 1 km a lo largo de la Ria Formosa — terrazas, embarcadero de ferry, vistas a las marismas. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Ria Formosa Boardwalk', emoji: '🦩', petFriendly: true, desc: {
+        fr: `Boardwalk en bois plat de 2 km depuis la marina jusqu'à Ludo — marais salants riches en flamants, accès canin toute l'année.`,
+        en: `Flat 2 km wooden boardwalk from the marina to Ludo — flamingo-rich salt marsh, year-round dog access.`,
+        es: `Boardwalk de madera plano de 2 km desde la marina hasta Ludo — marisma rica en flamencos, acceso canino todo el año.`,
+      }},
+      { name: 'Ilha Deserta', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Île barrière atlantique de 10 km sans voiture — plages canines sauvages, accès par ferry de la marina (35 min).`,
+        en: `10 km car-free Atlantic barrier island — wild dog beaches, ferry from the marina (35 min).`,
+        es: `Isla barrera atlántica de 10 km sin coches — playas caninas salvajes, ferry desde la marina (35 min).`,
+      }},
+      { name: 'Jardim Manuel Bivar', emoji: '🌴', petFriendly: true, desc: {
+        fr: `Le jardin central principal — allées palmiers, fontaine, kiosque à musique, bancs côté marina. Dog-friendly avec chiens en laisse.`,
+        en: `The main central garden — palm-lined paths, fountain, bandstand, marina-side benches. Dog-friendly with leashed dogs.`,
+        es: `El principal jardín central — paseos de palmeras, fuente, quiosco de música, bancos junto a la marina. Dog-friendly con perros con correa.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café/tasca de l'Algarve accueille les chiens par défaut — environ 80 % des restaurants de Faro acceptent les chiens en laisse en terrasse toute l'année.`,
+        `Bus EVA et trains CP : chiens moyens/grands à demi-tarif + muselière ; petits chiens en cage gratuits.`,
+        `Plages canines officielles : Praia de Faro (section ouest), Ilha Deserta (ferry 35 min), Praia do Barril (35 km est) — toutes ouvertes toute l'année.`,
+        `Vétérinaire d'urgence 24h/24 : Hospital Veterinário do Algarve sur Estrada de São Brás (+351 289 880 100), centre de Faro.`,
+        `Communauté britannique expatriée importante en Algarve — environ 70 % des sitters et vétérinaires de Faro parlent anglais couramment.`,
+      ],
+      en: [
+        `Algarve café/tasca culture welcomes dogs by default — about 80% of Faro restaurants accept leashed dogs on the terrace year-round.`,
+        `EVA buses and CP trains: medium/large dogs at half-fare + muzzle; small dogs in carrier free.`,
+        `Official dog beaches: Praia de Faro (west section), Ilha Deserta (35 min ferry), Praia do Barril (35 km east) — all year-round access.`,
+        `24/7 emergency vet: Hospital Veterinário do Algarve on Estrada de São Brás (+351 289 880 100), central Faro.`,
+        `Large UK expat community in the Algarve — about 70% of Faro sitters and vets speak fluent English.`,
+      ],
+      es: [
+        `La cultura del café/tasca del Algarve admite perros por defecto — alrededor del 80 % de los restaurantes de Faro acepta perros con correa en terraza todo el año.`,
+        `Buses EVA y trenes CP: perros medianos/grandes a media tarifa + bozal; perros pequeños en transportín gratis.`,
+        `Playas caninas oficiales: Praia de Faro (sección oeste), Ilha Deserta (ferry 35 min), Praia do Barril (35 km al este) — todas con acceso todo el año.`,
+        `Veterinario de urgencias 24/7: Hospital Veterinário do Algarve en Estrada de São Brás (+351 289 880 100), centro de Faro.`,
+        `Gran comunidad expatriada británica en el Algarve — alrededor del 70 % de los cuidadores y veterinarios de Faro habla inglés con fluidez.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Portugal dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains CP directs : Tavira 40 min, Olhão 10 min, Lagos 1h30, Lisbonne 3h (Alfa Pendular) — petits chiens en cage gratuits, grands à demi-tarif + muselière.`,
+        `Aéroport de Faro (FAO) à 7 km à l'ouest — bus EVA 14/16 (20 min) ou taxi (15 min). Vols directs depuis Londres, Manchester, Dublin, Amsterdam, Berlin, Paris.`,
+        `Devise : euro. Budget journalier dog-friendly : 50-75 €/jour hors hébergement, parmi les plus bas d'Europe de l'Ouest.`,
+        `Festivals à éviter avec un chien anxieux : Festival F (août, musique), Algarve Bike Challenge (février), Faro Carnival (février-mars).`,
+      ],
+      en: [
+        `Portugal is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct CP trains: Tavira 40 min, Olhão 10 min, Lagos 1h30, Lisbon 3h (Alfa Pendular) — small dogs in carrier free, larger at half-fare + muzzle.`,
+        `Faro Airport (FAO) 7 km west — EVA bus 14/16 (20 min) or taxi (15 min). Direct flights from London, Manchester, Dublin, Amsterdam, Berlin, Paris.`,
+        `Currency: euro. Daily dog-friendly budget: 50-75 €/day excluding accommodation, among the lowest in Western Europe.`,
+        `Festivals to avoid with an anxious dog: Festival F (August, music), Algarve Bike Challenge (February), Faro Carnival (February-March).`,
+      ],
+      es: [
+        `Portugal está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes CP directos: Tavira 40 min, Olhão 10 min, Lagos 1h30, Lisboa 3h (Alfa Pendular) — perros pequeños en transportín gratis, grandes a media tarifa + bozal.`,
+        `Aeropuerto de Faro (FAO) a 7 km al oeste — bus EVA 14/16 (20 min) o taxi (15 min). Vuelos directos desde Londres, Manchester, Dublín, Ámsterdam, Berlín, París.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos de Europa Occidental.`,
+        `Festivales a evitar con perro ansioso: Festival F (agosto, música), Algarve Bike Challenge (febrero), Carnaval de Faro (febrero-marzo).`,
       ],
     },
   },

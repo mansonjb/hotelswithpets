@@ -1066,6 +1066,127 @@
     "slug": "grand-hyatt-barcelona"
   },
   {
+    "id": "basel-1",
+    "name": "Grand Hotel Les Trois Rois",
+    "destinationSlug": "basel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1450,
+    "priceFrom": 580,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/grandhotel-les-trois-rois.html",
+    "petFee": 55,
+    "petPolicy": "Grand Hotel Les Trois Rois welcomes dogs and cats of any size, and well-behaved pets may be left in the room unattended for short periods. Each four-legged guest receives a blanket, food bowls and treats on arrival. The pet fee is CHF 55 per pet, per night. Pets must be on a lead in public areas and are not allowed in the Cheval Blanc fine-dining restaurant.",
+    "highlights": [
+      "Direct Rhine views",
+      "Three Michelin stars (Cheval Blanc)",
+      "Free BaselCard with public transport"
+    ],
+    "slug": "grand-hotel-les-trois-rois"
+  },
+  {
+    "id": "basel-2",
+    "name": "Krafft Basel",
+    "destinationSlug": "basel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2080,
+    "priceFrom": 220,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/krafft-basel.html",
+    "petFee": 0,
+    "petPolicy": "Krafft Basel warmly welcomes dogs of any size at no extra charge, plus cats and small animals. Multiple pets per room are accepted. The Rhine-front terrace and the in-house brasserie are dog-friendly, and the upstairs reading room is a calm spot for shy animals. Please declare your pet at booking so the team can pre-place water bowls in the room.",
+    "highlights": [
+      "Rhine-front terrace",
+      "Heritage 19th-century building",
+      "Free BaselCard with public transport"
+    ],
+    "slug": "krafft-basel"
+  },
+  {
+    "id": "basel-3",
+    "name": "Boutique & Design Hotel Volkshaus Basel",
+    "destinationSlug": "basel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1797,
+    "priceFrom": 240,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/volkshaus-basel.html",
+    "petFee": 20,
+    "petPolicy": "The Volkshaus Basel allows dogs and cats of any size for CHF 20 per pet per night. Food and water bowls are placed in the room and the team often leaves a small bed for canine guests. Pets are welcome in the brasserie and the inner courtyard but not at the bar after 19:00. Exotic pets are not accepted.",
+    "highlights": [
+      "Herzog & de Meuron interior",
+      "Inner courtyard garden",
+      "Free BaselCard with public transport"
+    ],
+    "slug": "boutique-design-hotel-volkshaus-basel"
+  },
+  {
+    "id": "basel-4",
+    "name": "Nomad Design & Lifestyle Hotel",
+    "destinationSlug": "basel",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2310,
+    "priceFrom": 175,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/nomad-bar-eatery.html",
+    "petFee": 20,
+    "petPolicy": "Nomad welcomes dogs of any size for CHF 20 per pet, per night. Each canine guest receives a dog bed, food bowls and a small welcome snack on arrival. The 24-hour snack bar is dog-friendly. The hotel does not accept cats. Multiple dogs per room are permitted on request.",
+    "highlights": [
+      "Two-minute walk to Kunstmuseum",
+      "Sauna and fitness centre",
+      "Free BaselCard with public transport"
+    ],
+    "slug": "nomad-design-lifestyle-hotel"
+  },
+  {
+    "id": "basel-5",
+    "name": "ibis Styles Basel City",
+    "destinationSlug": "basel",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 3260,
+    "priceFrom": 110,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/ibis-styles-basel-city.html",
+    "petFee": 20,
+    "petPolicy": "ibis Styles Basel City welcomes dogs and cats of any size for CHF 20 per pet, per night. Pets are allowed in the room and on the way through public areas, but not in the breakfast room. Please declare your pet at booking to receive a ground-floor or pet-suitable room allocation.",
+    "highlights": [
+      "5-minute walk to Basel SBB station",
+      "Breakfast and Wi-Fi included",
+      "Free BaselCard with public transport"
+    ],
+    "slug": "ibis-styles-basel-city"
+  },
+  {
     "id": "bath-1",
     "name": "The Royal Crescent Hotel & Spa",
     "destinationSlug": "bath",
@@ -5139,6 +5260,127 @@
       "Spa and wellness centre"
     ],
     "slug": "w-edinburgh"
+  },
+  {
+    "id": "faro-1",
+    "name": "Eva Senses Hotel",
+    "destinationSlug": "faro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 3120,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/eva-senses.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Eva Senses Hotel — a 4-star marina-front hotel facing the Ria Formosa — welcomes pets in selected room categories. A pet fee of 15 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Marina at the doorstep, Cidade Velha 5 min on foot. Pets on lead in lobbies; not allowed in the rooftop pool area.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Marina views"
+    ],
+    "slug": "eva-senses-hotel"
+  },
+  {
+    "id": "faro-2",
+    "name": "3HB Faro Hotel",
+    "destinationSlug": "faro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2340,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/3hb-faro.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "3HB Faro Hotel — a 4-star design boutique hotel near the train station — welcomes pets at 12 € per night. Up to two pets per room. Cidade Velha 8 min on foot, marina 5 min. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Spa"
+    ],
+    "slug": "3hb-faro-hotel"
+  },
+  {
+    "id": "faro-3",
+    "name": "Hotel Faro & Beach Club",
+    "destinationSlug": "faro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3340,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/faroplaza.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Faro & Beach Club — a 4-star hotel on the Praça D. Francisco Gomes square — welcomes pets at 12 € per night. Up to two pets per room. Arco da Vila and Cidade Velha 2 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Restaurant"
+    ],
+    "slug": "hotel-faro-beach-club"
+  },
+  {
+    "id": "faro-4",
+    "name": "Stay Hotel Faro Centro",
+    "destinationSlug": "faro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2940,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/stay-hotel-faro-centro.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Stay Hotel Faro Centro — a 3-star hotel on Rua de Santo António near the train station — welcomes pets at 10 € per night. Up to two pets per room. Cidade Velha 6 min on foot, marina 4 min. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Bar",
+      "Family rooms"
+    ],
+    "slug": "stay-hotel-faro-centro"
+  },
+  {
+    "id": "faro-5",
+    "name": "Hotel Sol Algarve",
+    "destinationSlug": "faro",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 3220,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/hotel-sol-algarve.en-gb.html",
+    "petFee": 8,
+    "petPolicy": "Hotel Sol Algarve — a 3-star family-run hotel near the train station — welcomes pets at 8 € per night. One pet per room standard, second on prior request. Cidade Velha 8 min on foot, marina 6 min.",
+    "highlights": [
+      "Free WiFi",
+      "Family-run",
+      "Restaurant"
+    ],
+    "slug": "hotel-sol-algarve"
   },
   {
     "id": "florence-1",

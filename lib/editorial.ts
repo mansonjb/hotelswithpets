@@ -51,6 +51,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
       area: 'El Born, Gràcia, and Eixample',
     },
+    basel: {
+      personality: 'one of Europe\'s most underrated dog-friendly cities — Switzerland\'s tri-border art capital, with two designated Rhine swim spots, an off-leash floodplain park along the Wiese river, and a 24/7 emergency vet clinic',
+      highlight: 'the Birsköpfli dog swim spot, Landschaftspark Wiese, and the Pfalz terrace at the Münster',
+      area: 'the medieval Altstadt around Marktplatz, the creative Kleinbasel quarter, and the leafy St. Alban district',
+    },
     bath: {
       personality: 'England\'s UNESCO Georgian spa town, compact and walkable, with strong dog-tolerant pub culture and the 9.6 km Bath Skyline trail right above the honey-stone Royal Crescent',
       highlight: 'the Royal Crescent lawn, the Bath Skyline National Trust trail, and the Kennet & Avon canal towpath',
@@ -185,6 +190,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'one of Britain\'s most dog-welcoming cities. With off-leash hills, dog-friendly pubs on every street, and a culture that treats dogs as full members of the family',
       highlight: 'Arthur\'s Seat (off-leash), Holyrood Park, and the Water of Leith walkway',
       area: 'Stockbridge, Leith, and the New Town',
+    },
+    faro: {
+      personality: `the Algarve capital and gateway to Portugal's southern coast — a UNESCO-rated Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and the lowest pet supplements in southern Europe`,
+      highlight: `the Cidade Velha and Arco da Vila stork gate, the Ria Formosa boardwalk to the salt pans, and the Ilha Deserta wild Atlantic dog beach by ferry`,
+      area: `the Cidade Velha around the cathedral square, the marina-front esplanade, and the residential Bom João near the train station`,
     },
     florence: {
       personality: 'a Renaissance city where dogs trot over cobblestones to morning markets, sit under café parasols, and walk the Arno riverbanks with their owners each evening',
@@ -569,6 +579,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de la Ciutadella, la plage de Poblenou et les collines du Collserola',
       area: 'El Born, Gràcia et l\'Eixample',
     },
+    basel: {
+      personality: `l'une des villes dog-friendly les plus sous-estimées d'Europe — capitale artistique tri-frontalière de la Suisse, avec deux zones de baignade canine officielles dans le Rhin, un parc alluvial sans laisse le long de la Wiese et une clinique vétérinaire d'urgence ouverte 24h/24`,
+      highlight: 'la baignade canine du Birsköpfli, le Landschaftspark Wiese et la terrasse Pfalz au Münster',
+      area: `l'Altstadt médiévale autour de la Marktplatz, le quartier créatif du Kleinbasel et le secteur arboré de St. Alban`,
+    },
     bath: {
       personality: 'la ville thermale géorgienne UNESCO d\'Angleterre, compacte et piétonne, avec une forte culture pub tolérante aux chiens et le sentier Bath Skyline de 9,6 km juste au-dessus du Royal Crescent en pierre couleur miel',
       highlight: 'la pelouse du Royal Crescent, le sentier National Trust Bath Skyline et le chemin de halage Kennet & Avon',
@@ -703,6 +718,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des villes les plus dog-friendly de Grande-Bretagne. Avec des collines sans laisse, des pubs accueillant les chiens dans chaque rue et une culture qui traite les chiens comme de véritables membres de la famille',
       highlight: 'Arthur\'s Seat (sans laisse), le Holyrood Park et le sentier riverain Water of Leith',
       area: 'Stockbridge, Leith et le New Town',
+    },
+    faro: {
+      personality: `la capitale de l'Algarve et la porte d'entrée de la côte sud du Portugal — Cidade Velha classée UNESCO, parc naturel de la Ria Formosa de 18 000 ha avec ses boardwalks aux flamants toute l'année, plages canines atlantiques sur îles barrières en ferry, et les suppléments animaux les plus bas du sud de l'Europe`,
+      highlight: `la Cidade Velha et l'Arco da Vila avec ses cigognes, le boardwalk de la Ria Formosa vers les marais salants, et la plage canine sauvage atlantique de l'Ilha Deserta en ferry`,
+      area: `la Cidade Velha autour de la place de la cathédrale, l'esplanade côté marina et le résidentiel Bom João près de la gare`,
     },
     florence: {
       personality: 'une ville de la Renaissance où les chiens trottent sur les pavés vers les marchés matinaux, s\'installent sous les parasols des cafés et font la promenade des berges de l\'Arno chaque soir avec leurs propriétaires',
@@ -1086,6 +1106,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque de la Ciutadella, la playa de Poblenou y las colinas del Collserola',
       area: 'El Born, Gràcia y el Eixample',
     },
+    basel: {
+      personality: `una de las ciudades dog-friendly más infravaloradas de Europa — la capital artística trifronteriza de Suiza, con dos zonas oficiales de baño canino en el Rin, un parque aluvial sin correa a lo largo del Wiese y una clínica veterinaria de urgencias 24/7`,
+      highlight: 'la zona de baño canino de Birsköpfli, el Landschaftspark Wiese y la terraza Pfalz junto al Münster',
+      area: `la Altstadt medieval alrededor de la Marktplatz, el creativo barrio de Kleinbasel y el frondoso distrito de St. Alban`,
+    },
     bath: {
       personality: 'la ciudad balneario georgiana UNESCO de Inglaterra, compacta y peatonal, con una fuerte cultura de pubs tolerante con los perros y el sendero Bath Skyline de 9,6 km justo encima del Royal Crescent de piedra color miel',
       highlight: 'el césped del Royal Crescent, el sendero de la National Trust Bath Skyline y el camino de sirga Kennet & Avon',
@@ -1220,6 +1245,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades más dog-friendly de Gran Bretaña. Con colinas sin correa, pubs que admiten perros en cada calle y una cultura que trata a los perros como miembros plenos de la familia',
       highlight: 'Arthur\'s Seat (sin correa), el Holyrood Park y el sendero ribereño Water of Leith',
       area: 'Stockbridge, Leith y el New Town',
+    },
+    faro: {
+      personality: `la capital del Algarve y la puerta de entrada a la costa sur de Portugal — Cidade Velha clasificada UNESCO, parque natural de la Ria Formosa de 18 000 ha con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera en ferry, y los suplementos para mascotas más bajos del sur de Europa`,
+      highlight: `la Cidade Velha y el Arco da Vila con sus cigüeñas, el boardwalk de la Ria Formosa hacia las salinas, y la playa canina salvaje atlántica de la Ilha Deserta en ferry`,
+      area: `la Cidade Velha alrededor de la plaza de la catedral, la esplanada del lado de la marina y el residencial Bom João cerca de la estación`,
     },
     florence: {
       personality: 'una ciudad renacentista donde los perros trotean sobre adoquines hacia los mercados matutinos, descansan bajo los parasoles de los cafés y pasean por las orillas del Arno cada tarde con sus dueños',

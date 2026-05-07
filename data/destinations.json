@@ -440,6 +440,79 @@
     }
   },
   {
+    "slug": "basel",
+    "name": "Basel",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/basel.jpg",
+    "intro": "Basel sits at the corner of three countries, blending Swiss precision with a relaxed café culture and the Rhine running through its heart. Pet-friendly trams, two designated dog swim spots in the Rhine, off-leash forest walks along the Wiese river, and a 24/7 emergency vet clinic make it one of Europe's most underrated cities for travel with a dog.",
+    "lat": 47.5596,
+    "lng": 7.5886,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold, frequent fog",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, brightening",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool, blossoms",
+        "icon": "🌸"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild spring rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm and green",
+        "icon": "🌿"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, river swims",
+        "icon": "🏊"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Hot, busy Rhine",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Hot, often humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Warm autumn light",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool, golden trees",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold, foggy mornings",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold, festive markets",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "bath",
     "name": "Bath",
     "country": "United Kingdom",
@@ -2416,6 +2489,79 @@
         "temp": 5,
         "desc": "Cool & overcast",
         "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "faro",
+    "name": "Faro",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/faro.jpg",
+    "intro": "Faro — the Algarve capital and gateway to Portugal's southern coast — combines a UNESCO-rated medieval Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and direct international flights from across northern Europe.",
+    "lat": 37.0194,
+    "lng": -7.9322,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
       }
     }
   },

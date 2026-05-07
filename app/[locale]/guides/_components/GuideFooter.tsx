@@ -91,6 +91,12 @@ const ALL_GUIDES = [
     label: { fr: 'Où voyager avec son chien, mois par mois', en: 'Best dog-friendly cities, month by month', es: 'Mejores ciudades dog-friendly, mes a mes' },
     desc:  { fr: '12 sélections saisonnières basées sur la météo réelle des 100 destinations', en: '12 seasonal picks based on the real weather of all 100 destinations', es: '12 selecciones estacionales basadas en el tiempo real de los 100 destinos' },
   },
+  {
+    slug: 'best-dog-beaches-europe-2026',
+    emoji: '🏖️',
+    label: { fr: 'Les 25 meilleures plages dog-friendly d\'Europe 2026', en: 'The 25 Best Dog Beaches in Europe 2026', es: 'Las 25 mejores playas dog-friendly de Europa 2026' },
+    desc:  { fr: 'Sélection vérifiée · accès toute l\'année · Atlantique, Méditerranée, mer du Nord, Baltique, lacs', en: 'Verified picks · year-round access · Atlantic, Mediterranean, North Sea, Baltic, lakes', es: 'Selección verificada · acceso todo el año · Atlántico, Mediterráneo, Mar del Norte, Báltico, lagos' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

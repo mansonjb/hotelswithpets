@@ -9565,6 +9565,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tampere: {
+    history: {
+      fr: `Tampere, fondée en 1779 sur les rapides du Tammerkoski qui relient les lacs Näsijärvi et Pyhäjärvi, devint au XIXe siècle le « Manchester de Finlande » grâce à la filature de coton Finlayson (1820), l'une des plus grandes d'Europe du Nord. La ville fut le théâtre de moments décisifs de l'histoire finlandaise — guerre civile de 1918, déclaration officielle d'indépendance vis-à-vis de la Russie en 1917 dans la salle du conseil de Finlayson, première rencontre publique entre Lénine et Staline. Aujourd'hui troisième ville du pays (240 000 habitants) et capitale officieuse du sauna, Tampere est l'une des villes les plus dog-friendly d'Europe : trams Nysse et trains VR gratuits pour les chiens en laisse (sans muselière, sans billet), 22 koira-aitaus municipaux clôturés, deux plages canines en bord de lac à 15 min à pied du centre, et la crête de Pyynikki — l'esker de gravier le plus haut du monde — avec son café-tour d'observation iconique.`,
+      en: `Tampere, founded in 1779 on the Tammerkoski rapids linking Lakes Näsijärvi and Pyhäjärvi, became the 'Manchester of Finland' in the 19th century thanks to the Finlayson cotton mill (1820), one of the largest in northern Europe. The city was the site of decisive moments in Finnish history — the 1918 civil war, the official declaration of independence from Russia in 1917 inside the Finlayson council room, the first public meeting between Lenin and Stalin. Now the country's third city (240,000 people) and unofficial sauna capital, Tampere is one of Europe's most dog-friendly cities: Nysse trams and VR trains free for leashed dogs (no muzzle, no ticket), 22 fenced municipal koira-aitaus, two lake-front dog beaches 15 min on foot from the centre, and the Pyynikki ridge — the world's highest gravel esker — with its iconic observation tower café.`,
+      es: `Tampere, fundada en 1779 sobre los rápidos del Tammerkoski que conectan los lagos Näsijärvi y Pyhäjärvi, se convirtió en el siglo XIX en el « Manchester de Finlandia » gracias a la fábrica de algodón Finlayson (1820), una de las mayores del norte de Europa. La ciudad fue escenario de momentos decisivos de la historia finlandesa — guerra civil de 1918, declaración oficial de independencia de Rusia en 1917 en la sala del consejo de Finlayson, primer encuentro público entre Lenin y Stalin. Hoy tercera ciudad del país (240 000 habitantes) y capital oficiosa del sauna, Tampere es una de las ciudades más dog-friendly de Europa: tranvías Nysse y trenes VR gratis para perros con correa (sin bozal, sin billete), 22 koira-aitaus municipales valladas, dos playas caninas junto al lago a 15 min a pie del centro, y la cresta de Pyynikki — el esker de grava más alto del mundo — con su icónico café-torre de observación.`,
+    },
+    sights: [
+      { name: 'Tammerkoski Rapids', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Les rapides spectaculaires entre les deux lacs — promenade riveraine UNESCO ouverte 24h/24, dog-friendly avec chiens en laisse.`,
+        en: `Dramatic rapids between the two lakes — UNESCO riverside walkway open 24/7, dog-friendly with leashed dogs.`,
+        es: `Espectaculares rápidos entre los dos lagos — paseo ribereño UNESCO abierto 24/7, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Pyynikki Ridge & Tower', emoji: '🌲', petFriendly: true, desc: {
+        fr: `L'esker de gravier le plus haut du monde — café-tour d'observation iconique de 1929, terrasse panoramique sur les deux lacs, sentiers forestiers dog-friendly.`,
+        en: `The world's highest gravel esker — iconic 1929 observation tower café, panoramic terrace over both lakes, dog-friendly forest trails.`,
+        es: `El esker de grava más alto del mundo — icónico café-torre de observación de 1929, terraza panorámica sobre los dos lagos, senderos forestales dog-friendly.`,
+      }},
+      { name: 'Finlayson Quarter', emoji: '🏭', petFriendly: true, desc: {
+        fr: `Filature de coton de 1820 transformée en quartier créatif — cours, allées et terrasses dog-friendly avec chiens en laisse toute l'année.`,
+        en: `1820 cotton mill turned creative quarter — courtyards, walkways and terraces dog-friendly with leashed dogs year-round.`,
+        es: `Fábrica de algodón de 1820 convertida en barrio creativo — patios, paseos y terrazas dog-friendly con perros con correa todo el año.`,
+      }},
+      { name: 'Pyynikki Dog Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage canine officielle sur le lac Pyhäjärvi à 15 min à pied du centre — entrée sablonneuse, accès toute l'année.`,
+        en: `Official dog beach on Lake Pyhäjärvi 15 min on foot from the centre — sandy entry, year-round access.`,
+        es: `Playa canina oficial en el lago Pyhäjärvi a 15 min a pie del centro — entrada arenosa, acceso todo el año.`,
+      }},
+      { name: 'Hatanpää Arboretum', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin de manoir de 7 ha sur la rive sud du Pyhäjärvi — 6 000 espèces, roseraie, café du manoir, chiens en laisse.`,
+        en: `7-hectare manor garden on the Pyhäjärvi south shore — 6,000 species, rose garden, manor café, leashed dogs.`,
+        es: `Jardín de mansión de 7 ha en la orilla sur del Pyhäjärvi — 6 000 especies, rosaleda, café del manoir, perros con correa.`,
+      }},
+      { name: 'Kauppi Forest', emoji: '🌿', petFriendly: true, desc: {
+        fr: `La plus grande forêt urbaine de Tampere — 700 ha, 30 km de sentiers, 4 koira-aitaus clôturés, accès direct au lac Näsijärvi.`,
+        en: `Tampere's largest urban forest — 700 ha, 30 km of trails, 4 fenced koira-aitaus, direct access to Lake Näsijärvi.`,
+        es: `El mayor bosque urbano de Tampere — 700 ha, 30 km de senderos, 4 koira-aitaus vallados, acceso directo al lago Näsijärvi.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café finlandaise accueille les chiens par défaut — environ 75 % des kahvilat de Tampere acceptent les chiens en laisse en salle principale toute l'année.`,
+        `Trams Nysse et trains VR : chiens en laisse GRATUITS, sans muselière, sans billet — parmi les règles les plus généreuses d'Europe.`,
+        `22 koira-aitaus municipaux clôturés — carte officielle sur tampere.fi/koirat ; loi laisse 1er mars - 19 août en zones non clôturées.`,
+        `Vétérinaire d'urgence 24h/24 : Evidensia Eläinsairaala à Hervanta (+358 200 60080), 12 min en voiture ou tram 1.`,
+        `La Finlande exige un traitement contre le ténia (echinococcose) administré 24-120h avant l'arrivée — documenté dans le passeport européen.`,
+      ],
+      en: [
+        `Finnish café culture welcomes dogs by default — about 75% of Tampere kahvilat accept leashed dogs in the main room year-round.`,
+        `Nysse trams and VR trains: leashed dogs FREE, no muzzle, no ticket required — among the most generous rules in Europe.`,
+        `22 fenced municipal koira-aitaus — official map on tampere.fi/koirat; leash law March 1 - August 19 in non-fenced zones.`,
+        `24/7 emergency vet: Evidensia Eläinsairaala in Hervanta (+358 200 60080), 12 min by car or tram 1.`,
+        `Finland requires a tapeworm (echinococcosis) treatment administered 24-120h before arrival — documented in the EU pet passport.`,
+      ],
+      es: [
+        `La cultura del café finlandesa admite perros por defecto — alrededor del 75 % de los kahvilat de Tampere acepta perros con correa en la sala principal todo el año.`,
+        `Tranvías Nysse y trenes VR: perros con correa GRATIS, sin bozal, sin billete — de las normas más generosas de Europa.`,
+        `22 koira-aitaus municipales valladas — mapa oficial en tampere.fi/koirat; ley de correa 1 marzo - 19 agosto en zonas no valladas.`,
+        `Veterinario de urgencias 24/7: Evidensia Eläinsairaala en Hervanta (+358 200 60080), 12 min en coche o tranvía 1.`,
+        `Finlandia exige tratamiento contra la tenia (equinococosis) administrado 24-120h antes de la llegada — documentado en el pasaporte europeo.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Finlande dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO + traitement ténia 24-120h avant l'arrivée.`,
+        `Trains VR directs : Helsinki 1h30, Turku 2h, Jyväskylä 1h30, Oulu 4h, Rovaniemi 8h — chiens en laisse gratuits en voitures pet-allowed.`,
+        `Aéroport Tampere-Pirkkala (TMP) à 35 min en tram 1 ; Helsinki-Vantaa (HEL) à 1h45 en train direct — vols dog-friendly Finnair, KLM, Lufthansa.`,
+        `Devise : euro. Budget journalier dog-friendly : 70-95 €/jour hors hébergement, parmi les plus bas du Nord.`,
+        `Festivals à éviter avec un chien anxieux : Tampere Floral Festival (juin), Tampere Film Festival (mars), Eurovision Song Contest 2026 (mai, si Finlande accueille).`,
+      ],
+      en: [
+        `Finland is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip + tapeworm treatment 24-120h before arrival.`,
+        `Direct VR trains: Helsinki 1h30, Turku 2h, Jyväskylä 1h30, Oulu 4h, Rovaniemi 8h — leashed dogs free in pet-allowed carriages.`,
+        `Tampere-Pirkkala Airport (TMP) 35 min by tram 1; Helsinki-Vantaa (HEL) 1h45 by direct train — dog-friendly flights on Finnair, KLM, Lufthansa.`,
+        `Currency: euro. Daily dog-friendly budget: 70-95 €/day excluding accommodation, among the lowest in the Nordics.`,
+        `Festivals to avoid with an anxious dog: Tampere Floral Festival (June), Tampere Film Festival (March), Eurovision Song Contest 2026 (May, if Finland hosts).`,
+      ],
+      es: [
+        `Finlandia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO + tratamiento contra la tenia 24-120h antes de la llegada.`,
+        `Trenes VR directos: Helsinki 1h30, Turku 2h, Jyväskylä 1h30, Oulu 4h, Rovaniemi 8h — perros con correa gratis en vagones pet-allowed.`,
+        `Aeropuerto Tampere-Pirkkala (TMP) a 35 min en tranvía 1; Helsinki-Vantaa (HEL) a 1h45 en tren directo — vuelos dog-friendly en Finnair, KLM, Lufthansa.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 70-95 €/día sin alojamiento, de los más bajos del Norte.`,
+        `Festivales a evitar con perro ansioso: Tampere Floral Festival (junio), Tampere Film Festival (marzo), Festival de Eurovisión 2026 (mayo, si Finlandia organiza).`,
+      ],
+    },
+  },
+
   'the-hague': {
     history: {
       fr: `La Haye n'est pas la capitale officielle des Pays-Bas mais elle en concentre la fonction — siège du gouvernement, du Parlement, des ambassades et de la Cour internationale de Justice depuis 1913. Fondée au XIIIe siècle autour d'un pavillon de chasse comtal sur l'étang du Hofvijver, la ville est restée une « Résidence » royale jusqu'à aujourd'hui, conservant un urbanisme aéré et arboré qui la distingue d'Amsterdam ou Rotterdam. Sur ses 560 000 habitants, plus de 50 000 chiens sont enregistrés à la commune, et la culture locale leur fait largement de la place : 11 km de littoral à Scheveningen et Kijkduin, des dunes Natura 2000 sans laisse, des forêts en plein centre comme le Haagse Bos, et une politique de transports gratuits pour les petits chiens en sac. La Haye est l'une des capitales européennes les mieux équipées pour vivre — et voyager — avec un chien.`,

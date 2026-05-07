@@ -82,6 +82,7 @@ const TARGETS = [
   { slug: 'lecce', query: 'Lecce Italy Piazza Duomo Basilica Santa Croce baroque pietra leccese centro storico panorama sunset' },
   { slug: 'heidelberg', query: 'Heidelberg Germany Schloss castle Alte Brucke Neckar Philosophenweg Altstadt panorama sunset' },
   { slug: 'annecy', query: 'Annecy France Palais de l Isle Vieille Ville canals lake Alps panorama sunset' },
+  { slug: 'tampere', query: 'Tampere Finland Tammerkoski rapids Pyynikki ridge tower lake panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

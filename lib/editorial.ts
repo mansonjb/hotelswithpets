@@ -457,6 +457,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kadriorg Park, the Pirita coastal trail, and Pääsküla bog nature walks',
       area: 'Kalamaja, Telliskivi, and the Old Town',
     },
+    tampere: {
+      personality: `Finland's third city and the unofficial sauna capital — exceptionally dog-friendly transport (free trams, free trains), 22 fenced koira-aitaus, two lake dog beaches walking distance from the centre, and the iconic Pyynikki ridge with year-round dog walking`,
+      highlight: `the Pyynikki ridge and observation tower café, the Pyynikki and Niihama dog beaches on the two lakes, and the Tammerkoski rapids walkway through the centre`,
+      area: `the centre between the Tammerkoski rapids and Hämeenkatu, the Finlayson creative quarter, and the lakeside Pyynikki ridge`,
+    },
     'the-hague': {
       personality: 'a stately Dutch capital where 11 km of North Sea coast, off-leash dunes, and dog-friendly cafés sit a tram ride from the centre',
       highlight: 'Westduinpark and Bosjes van Poot, the Haagse Bos forest, and Landgoed Clingendael',
@@ -969,6 +974,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Kadriorg, le sentier côtier de Pirita et les balades en tourbière de Pääsküla',
       area: 'Kalamaja, Telliskivi et la Vieille Ville',
     },
+    tampere: {
+      personality: `la troisième ville de Finlande et la capitale officieuse du sauna — transports exceptionnellement dog-friendly (trams et trains gratuits), 22 koira-aitaus clôturés, deux plages canines en bord de lac à distance de marche du centre, et l'iconique crête de Pyynikki avec promenade canine toute l'année`,
+      highlight: `la crête de Pyynikki et son café-tour d'observation, les plages canines de Pyynikki et Niihama sur les deux lacs, et la promenade des rapides du Tammerkoski à travers le centre`,
+      area: `le centre entre les rapides du Tammerkoski et Hämeenkatu, le quartier créatif Finlayson et la crête lacustre de Pyynikki`,
+    },
     'the-hague': {
       personality: 'une capitale néerlandaise élégante où 11 km de côte de la mer du Nord, des dunes sans laisse et des cafés dog-friendly sont à un tram du centre',
       highlight: 'le Westduinpark et les Bosjes van Poot, la forêt du Haagse Bos et le domaine de Clingendael',
@@ -1480,6 +1490,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad medieval de cuento de hadas con una actitud estonia progresista hacia las mascotas. Los perros entran en la mayoría de los comercios, visitan el casco antiguo y exploran libremente los senderos costeros',
       highlight: 'el Parque Kadriorg, el sendero costero de Pirita y los paseos por la turbera de Pääsküla',
       area: 'Kalamaja, Telliskivi y el Casco Antiguo',
+    },
+    tampere: {
+      personality: `la tercera ciudad de Finlandia y capital oficiosa del sauna — transporte excepcionalmente dog-friendly (tranvías y trenes gratis), 22 koira-aitaus valladas, dos playas caninas junto al lago a distancia caminable del centro, y la icónica cresta de Pyynikki con paseo canino todo el año`,
+      highlight: `la cresta de Pyynikki y su café-torre de observación, las playas caninas de Pyynikki y Niihama en los dos lagos, y el paseo de los rápidos del Tammerkoski a través del centro`,
+      area: `el centro entre los rápidos del Tammerkoski y Hämeenkatu, el barrio creativo Finlayson y la cresta lacustre de Pyynikki`,
     },
     'the-hague': {
       personality: 'una capital neerlandesa elegante donde 11 km de costa del Mar del Norte, dunas sin correa y cafés dog-friendly están a un tranvía del centro',

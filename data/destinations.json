@@ -6377,6 +6377,79 @@
     }
   },
   {
+    "slug": "tampere",
+    "name": "Tampere",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tampere.jpg",
+    "intro": "Tampere — Finland's third city and the unofficial sauna capital — combines a compact lake-bordered centre, exceptionally dog-friendly transport (free trams, free trains), 22 fenced koira-aitaus, two lake dog beaches and direct rail access from Helsinki in 1h30.",
+    "lat": 61.4978,
+    "lng": 23.761,
+    "weather": {
+      "jan": {
+        "temp": -6,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -6,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "apr": {
+        "temp": 5,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 12,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 6,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "the-hague",
     "name": "The Hague",
     "country": "Netherlands",

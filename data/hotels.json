@@ -13697,6 +13697,129 @@
     "slug": "hilton-tallinn-park"
   },
   {
+    "id": "tampere-1",
+    "name": "Solo Sokos Hotel Torni Tampere",
+    "destinationSlug": "tampere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 3120,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/solo-sokos-torni-tampere.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Solo Sokos Hotel Torni Tampere — a five-star hotel in Tampere's tallest building (88 m, 25 floors) — welcomes pets in selected room categories. A pet fee of 15 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Pyynikki ridge 5 min on foot, Tammerkoski rapids 3 min. Pets on lead in lobbies; not allowed in the rooftop bar.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Spa",
+      "Lake views"
+    ],
+    "slug": "solo-sokos-torni-tampere"
+  },
+  {
+    "id": "tampere-2",
+    "name": "Lapland Hotels Tampere",
+    "destinationSlug": "tampere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2180,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/lapland-hotels-tampere.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Lapland Hotels Tampere — a 4-star hotel with a Lappish-design lobby — welcomes pets at 15 € per night. Up to two pets per room. Tammerkoski rapids 2 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Sauna"
+    ],
+    "slug": "lapland-hotels-tampere"
+  },
+  {
+    "id": "tampere-3",
+    "name": "Scandic Tampere City",
+    "destinationSlug": "tampere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3340,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/scandic-tampere-city.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Scandic Tampere City — a 4-star hotel facing the train station — welcomes pets at 15 € per night. Up to two pets per room. Centre at the doorstep, Pyynikki ridge 12 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Sauna"
+    ],
+    "slug": "scandic-tampere-city"
+  },
+  {
+    "id": "tampere-4",
+    "name": "Original Sokos Hotel Ilves",
+    "destinationSlug": "tampere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2960,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/sokos-ilves.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Original Sokos Hotel Ilves — a 4-star hotel inside the Koskikeskus shopping centre on the Tammerkoski rapids — welcomes pets at 15 € per night. Up to two pets per room. Lake Pyhäjärvi 4 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Top-floor sauna"
+    ],
+    "slug": "sokos-ilves-tampere"
+  },
+  {
+    "id": "tampere-5",
+    "name": "Omena Hotel Tampere",
+    "destinationSlug": "tampere",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 2840,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fi/omena-hotel-tampere.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Omena Hotel Tampere — a 3-star self-service budget hotel on Hämeenkatu — welcomes dogs at 10 € per night. One dog per room standard, second on prior request. Tammerkoski rapids and Hämeenkatu tram at the doorstep.",
+    "highlights": [
+      "Free WiFi",
+      "Self-service check-in",
+      "Central location"
+    ],
+    "slug": "omena-hotel-tampere"
+  },
+  {
     "id": "the-hague-1",
     "name": "Hilton The Hague",
     "destinationSlug": "the-hague",

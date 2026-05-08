@@ -1636,6 +1636,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el parque Maksimir, la Ciudad Alta medieval y las secciones de playa canina del lago Jarun`,
       area: `Donji Grad, Gornji Grad y el barrio de los lagos de Maksimir`,
     },
+    zaragoza: {
+      personality: `la capital de Aragón y quinta ciudad de España — anclada por la Basílica del Pilar a orillas del Ebro y articulada alrededor de 126 zonas sin correa designadas, una de las redes de parques pet-friendly más densas de España, además del hospital de referencia AniCura Emvet 24/7`,
+      highlight: `el Parque Grande Labordeta de 27 hectáreas, la zona canina vallada del Parque del Tío Jorge y los paseos junto al río en las Riberas del Ebro`,
+      area: `el Casco Histórico alrededor del Pilar, el frondoso Centro en el Paseo de Sagasta y el barrio de tapas de La Magdalena`,
+    },
     zurich: {
       personality: 'una ciudad que figura entre las más dog-friendly de Europa. Con zonas dedicadas a perros en las playas, tranvías pet-friendly y pasaportes de mascotas aceptados en todas partes',
       highlight: 'el paseo lacustre del Zürichsee, la colina del Uetliberg y los senderos del río Sihl',

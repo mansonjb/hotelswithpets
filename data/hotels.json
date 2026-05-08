@@ -16323,6 +16323,129 @@
     "slug": "hotel-dubrovnik-zagreb-zagreb"
   },
   {
+    "id": "zaragoza-1",
+    "name": "Hotel Palafox",
+    "destinationSlug": "zaragoza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2640,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/palafox-zaragoza.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Palafox — a five-star hotel near the Casco Histórico — welcomes pets in selected room categories. A pet fee of 20 € per night applies. Up to two pets per room with a recommended max 25 kg per pet. Basílica del Pilar 8 min on foot, Parque Grande Labordeta 10 min. Pets on lead in lobbies; not allowed in the rooftop pool area.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Restaurant"
+    ],
+    "slug": "hotel-palafox-zaragoza"
+  },
+  {
+    "id": "zaragoza-2",
+    "name": "Hotel Catalonia El Pilar",
+    "destinationSlug": "zaragoza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2840,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/catalonia-el-pilar.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Catalonia El Pilar — a 4-star hotel facing the Basílica del Pilar — welcomes pets at 15 € per night. Up to two pets per room. Plaza del Pilar at the doorstep, Riberas del Ebro 2 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Plaza del Pilar views"
+    ],
+    "slug": "hotel-catalonia-el-pilar-zaragoza"
+  },
+  {
+    "id": "zaragoza-3",
+    "name": "NH Collection Gran Hotel de Zaragoza",
+    "destinationSlug": "zaragoza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 3140,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-gran-hotel-zaragoza.en-gb.html",
+    "petFee": 18,
+    "petPolicy": "NH Collection Gran Hotel de Zaragoza — a 5-star Belle Époque hotel from 1929 in the Centro on Calle Costa — welcomes pets at 18 € per night. Up to two pets per room. Plaza de España 3 min on foot, Casco Histórico 8 min. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Belle Époque interior",
+      "Restaurant"
+    ],
+    "slug": "nh-collection-gran-hotel-zaragoza"
+  },
+  {
+    "id": "zaragoza-4",
+    "name": "Hotel Sauce Zaragoza",
+    "destinationSlug": "zaragoza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2420,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sauce.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Sauce Zaragoza — a 3-star hotel near the Plaza de España — welcomes pets at 10 € per night. Up to two pets per room. Casco Histórico 5 min on foot, Parque Grande 12 min. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Family rooms"
+    ],
+    "slug": "hotel-sauce-zaragoza"
+  },
+  {
+    "id": "zaragoza-5",
+    "name": "Ibis Zaragoza Centro",
+    "destinationSlug": "zaragoza",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 3340,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ibis-zaragoza-centro.en-gb.html",
+    "petFee": 8,
+    "petPolicy": "Ibis Zaragoza Centro — a 3-star hotel near the Aljafería Palace and the train station — welcomes dogs at 8 € per night. One pet per room standard, second on prior request. Aljafería 5 min on foot, Plaza del Pilar 15 min by tram.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "24h reception"
+    ],
+    "slug": "ibis-zaragoza-centro"
+  },
+  {
     "id": "zurich-1",
     "name": "Park Hyatt Zurich – City Center Luxury",
     "destinationSlug": "zurich",

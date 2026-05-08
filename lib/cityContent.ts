@@ -11563,6 +11563,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  zaragoza: {
+    history: {
+      fr: `Zaragoza, fondée par les Romains en 14 av. J.-C. sous le nom de Caesaraugusta (d'où le nom moderne « Zaragoza »), traversa successivement les dominations wisigothique, omeyyade (Saraqusta) et chrétienne (reconquête en 1118 par Alphonse Ier d'Aragon). Capitale du royaume d'Aragon pendant cinq siècles, elle est aujourd'hui la cinquième ville d'Espagne (700 000 habitants) et un carrefour ferroviaire majeur entre Madrid et Barcelone. La Basílica del Pilar, double cathédrale baroque sur l'Èbre dédiée à la Vierge du Pilier, attire 5 millions de pèlerins par an et domine le Casco Histórico médiéval. Pour les voyageurs avec un chien, Zaragoza est l'une des destinations espagnoles les plus dog-friendly : 126 zones sans laisse municipales (l'une des densités les plus élevées d'Espagne), Parque Grande Labordeta de 27 hectares, longue promenade sans laisse le long des Riberas del Ebro, et l'hôpital vétérinaire de référence AniCura Emvet 24h/24.`,
+      en: `Zaragoza, founded by the Romans in 14 BC as Caesaraugusta (from which the modern name 'Zaragoza' derives), passed through Visigothic, Umayyad (Saraqusta) and Christian rule (reconquered in 1118 by Alfonso I of Aragon). Capital of the Kingdom of Aragon for five centuries, it's now Spain's fifth city (700,000 people) and a major rail hub between Madrid and Barcelona. The Basílica del Pilar — a double baroque cathedral on the Ebro dedicated to the Virgin of the Pillar — draws 5 million pilgrims a year and dominates the medieval Casco Histórico. For travellers with a dog, Zaragoza is one of Spain's most dog-friendly destinations: 126 municipal off-leash zones (among Spain's highest densities), the 27-hectare Parque Grande Labordeta, long off-leash walking along the Riberas del Ebro, and the 24/7 AniCura Emvet veterinary referral hospital.`,
+      es: `Zaragoza, fundada por los romanos en el 14 a. C. como Caesaraugusta (de donde deriva el nombre moderno « Zaragoza »), pasó por dominios visigodo, omeya (Saraqusta) y cristiano (reconquistada en 1118 por Alfonso I de Aragón). Capital del Reino de Aragón durante cinco siglos, hoy es la quinta ciudad de España (700 000 habitantes) y un nudo ferroviario importante entre Madrid y Barcelona. La Basílica del Pilar — doble catedral barroca a orillas del Ebro dedicada a la Virgen del Pilar — atrae a 5 millones de peregrinos al año y domina el Casco Histórico medieval. Para los viajeros con perro, Zaragoza es uno de los destinos españoles más dog-friendly: 126 zonas municipales sin correa (una de las densidades más altas de España), el Parque Grande Labordeta de 27 hectáreas, largo paseo sin correa por las Riberas del Ebro, y el hospital veterinario de referencia AniCura Emvet 24/7.`,
+    },
+    sights: [
+      { name: 'Basílica del Pilar', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Double cathédrale baroque sur l'Èbre dédiée à la Vierge du Pilier — 5 millions de pèlerins/an. Plaza et extérieurs dog-friendly avec chiens en laisse ; intérieur réservé aux chiens d'assistance.`,
+        en: `Double baroque cathedral on the Ebro dedicated to the Virgin of the Pillar — 5 million pilgrims a year. Plaza and exteriors dog-friendly with leashed dogs; interior assistance dogs only.`,
+        es: `Doble catedral barroca a orillas del Ebro dedicada a la Virgen del Pilar — 5 millones de peregrinos al año. Plaza y exteriores dog-friendly con perros con correa; interior solo perros de asistencia.`,
+      }},
+      { name: 'Parque Grande Labordeta', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le plus grand parc urbain de Zaragoza — 27 hectares avec zones sans laisse, fontaines, étang, arbres centenaires. Chiens en laisse sur les allées principales, sans laisse dans les zones canines marquées.`,
+        en: `Zaragoza's largest urban park — 27 hectares with off-leash zones, fountains, pond, century-old trees. Leashed dogs on main paths, off-leash in marked dog zones.`,
+        es: `El mayor parque urbano de Zaragoza — 27 hectáreas con zonas sin correa, fuentes, estanque, árboles centenarios. Perros con correa en los paseos principales, sin correa en las zonas caninas marcadas.`,
+      }},
+      { name: 'Riberas del Ebro', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenade riveraine de 14 km le long du fleuve Èbre — sentier pavé/terre, vues sur la Basílica del Pilar et le Puente de Piedra. Chiens en laisse, accès libre 24h/24.`,
+        en: `14 km riverside walk along the Ebro — paved/dirt path, views over the Basílica del Pilar and the Puente de Piedra. Leashed dogs, free access 24/7.`,
+        es: `Paseo ribereño de 14 km a lo largo del Ebro — sendero pavimentado/tierra, vistas a la Basílica del Pilar y el Puente de Piedra. Perros con correa, acceso libre 24/7.`,
+      }},
+      { name: 'Aljafería Palace (Exterior)', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Palais omeyyade du XIe siècle, l'un des trois grands palais hispano-musulmans (avec l'Alhambra et la Mezquita). Cour intérieure et jardins extérieurs dog-friendly avec chiens en laisse ; intérieur du palais réservé aux chiens d'assistance.`,
+        en: `11th-century Umayyad palace, one of the three great Hispano-Islamic palaces (with the Alhambra and Mezquita). Inner courtyard and exterior gardens dog-friendly with leashed dogs; palace interior assistance dogs only.`,
+        es: `Palacio omeya del siglo XI, uno de los tres grandes palacios hispano-musulmanes (con la Alhambra y la Mezquita). Patio interior y jardines exteriores dog-friendly con perros con correa; interior del palacio solo perros de asistencia.`,
+      }},
+      { name: 'Parque del Tío Jorge', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Le parc avec la plus grande zone canine clôturée de Zaragoza — sans laisse toute l'année, accès libre 24h/24. Sur la rive nord de l'Èbre, à 10 min à pied du Pilar.`,
+        en: `The park with Zaragoza's largest fenced dog zone — off-leash year-round, free 24/7 access. On the north bank of the Ebro, 10 min on foot from El Pilar.`,
+        es: `El parque con la mayor zona canina vallada de Zaragoza — sin correa todo el año, acceso libre 24/7. En la orilla norte del Ebro, a 10 min a pie del Pilar.`,
+      }},
+      { name: 'La Magdalena Quarter', emoji: '🍷', petFriendly: true, desc: {
+        fr: `Quartier de tapas médiéval — ruelles pavées, plus de 30 bars à tapas dog-friendly, ambiance bohème. Ouvert 24h/24, dog-friendly partout en extérieur.`,
+        en: `Medieval tapas quarter — cobbled lanes, 30+ dog-friendly tapas bars, bohemian atmosphere. Open 24/7, dog-friendly throughout outdoors.`,
+        es: `Barrio medieval de tapas — callejones adoquinados, más de 30 bares de tapas dog-friendly, ambiente bohemio. Abierto 24/7, dog-friendly en todo el exterior.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Zaragoza compte 126 zones sans laisse municipales — l'une des densités pet-friendly les plus élevées d'Espagne. Carte officielle sur zaragoza.es/animales.`,
+        `Bus urbains AUZSA et tram Línea 1 : chiens en laisse + muselière exigée pour chiens moyens/grands ; petits chiens en cage gratuits.`,
+        `Trains AVE/Avant Renfe : chiens petits en cage gratuits jusqu'à 10 kg ; les grands chiens nécessitent un billet supplémentaire et une muselière.`,
+        `Vétérinaire d'urgence 24h/24 : AniCura Emvet à Zaragoza centre (+34 976 22 36 25), hôpital de référence pour toute la région d'Aragon.`,
+        `Chaleur estivale élevée (35-40 °C juillet-août) — limitez les promenades canines avant 9h et après 20h ; le sol urbain peut atteindre 50 °C.`,
+      ],
+      en: [
+        `Zaragoza has 126 municipal off-leash zones — among Spain's highest pet-friendly densities. Official map at zaragoza.es/animales.`,
+        `AUZSA city buses and Línea 1 tram: leash + muzzle required for medium/large dogs; small dogs in carrier free.`,
+        `Renfe AVE/Avant trains: small dogs in carrier free up to 10 kg; larger dogs need an extra ticket and a muzzle.`,
+        `24/7 emergency vet: AniCura Emvet in central Zaragoza (+34 976 22 36 25), referral hospital for the entire Aragon region.`,
+        `High summer heat (35-40 °C July-August) — limit dog walks to before 9 AM and after 8 PM; urban ground can hit 50 °C.`,
+      ],
+      es: [
+        `Zaragoza tiene 126 zonas sin correa municipales — una de las densidades pet-friendly más altas de España. Mapa oficial en zaragoza.es/animales.`,
+        `Buses urbanos AUZSA y tranvía Línea 1: correa + bozal exigido para perros medianos/grandes; perros pequeños en transportín gratis.`,
+        `Trenes Renfe AVE/Avant: perros pequeños en transportín gratis hasta 10 kg; los grandes necesitan un billete extra y bozal.`,
+        `Veterinario de urgencias 24/7: AniCura Emvet en el centro de Zaragoza (+34 976 22 36 25), hospital de referencia para toda la región de Aragón.`,
+        `Calor estival alto (35-40 °C julio-agosto) — limita los paseos caninos antes de las 9 y después de las 20; el suelo urbano puede alcanzar 50 °C.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains AVE Renfe directs : Madrid 1h15, Barcelone 1h30, Valencia 4h, Séville 3h30 — petits chiens en cage gratuits, grands avec billet supplémentaire + muselière.`,
+        `Aéroport de Zaragoza (ZAZ) à 9 km à l'ouest, accessible en bus 501 (25 min). Liaisons low-cost Ryanair, Volotea vers Londres, Paris, Milan, Bruxelles.`,
+        `Devise : euro. Budget journalier dog-friendly : 50-75 €/jour hors hébergement, parmi les plus bas d'Espagne après Cordoue et Grenade.`,
+        `Festivals à éviter avec un chien anxieux : Fiestas del Pilar (semaine du 12 octobre, 2 millions de visiteurs), Cincomarzada (5 mars), Semaine Sainte.`,
+      ],
+      en: [
+        `Spain is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct AVE Renfe trains: Madrid 1h15, Barcelona 1h30, Valencia 4h, Seville 3h30 — small dogs in carrier free, larger with extra ticket + muzzle.`,
+        `Zaragoza Airport (ZAZ) 9 km west, accessible by bus 501 (25 min). Low-cost Ryanair, Volotea connections to London, Paris, Milan, Brussels.`,
+        `Currency: euro. Daily dog-friendly budget: 50-75 €/day excluding accommodation, among Spain's lowest after Córdoba and Granada.`,
+        `Festivals to avoid with an anxious dog: Fiestas del Pilar (week of October 12, 2 million visitors), Cincomarzada (March 5), Semana Santa.`,
+      ],
+      es: [
+        `España está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes AVE Renfe directos: Madrid 1h15, Barcelona 1h30, Valencia 4h, Sevilla 3h30 — perros pequeños en transportín gratis, grandes con billete extra + bozal.`,
+        `Aeropuerto de Zaragoza (ZAZ) a 9 km al oeste, accesible en bus 501 (25 min). Conexiones low-cost Ryanair, Volotea a Londres, París, Milán, Bruselas.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos de España tras Córdoba y Granada.`,
+        `Festivales a evitar con perro ansioso: Fiestas del Pilar (semana del 12 de octubre, 2 millones de visitantes), Cincomarzada (5 de marzo), Semana Santa.`,
+      ],
+    },
+  },
+
   zurich: {
     history: {
       fr: `Zurich, fondée par les Romains sous le nom de Turicum au bord de la Limmat, est passée du bourg marchand médiéval au centre financier de la Suisse, référence mondiale de qualité de vie. Huldrych Zwingli y lança la Réforme suisse depuis le Grossmünster en 1519, façonnant une éthique civique encore attachée à l'ordre et à la précision. Le canton prend les chiens au sérieux : chaque maître paie une Hundesteuer cantonale (env. 170 CHF pour le premier chien en 2026), l'animal doit être pucé dans la base AMICUS et l'assurance responsabilité civile est obligatoire. Le Hundeführerschein fédéral a été supprimé en 2017, mais Zurich a réintroduit un cours pratique pour les primo-propriétaires. En échange, la ville est taillée pour les chiens : baignades propres dans le lac, compartiments de tram dédiés, crêtes boisées de l'Uetliberg et accueil exceptionnellement généreux dans les restaurants et boutiques.`,

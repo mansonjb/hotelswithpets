@@ -83,7 +83,7 @@
           "name": "Justicia Café y Pasteles",
           "address": "Plaza San Pedro Nolasco 2, Zaragoza",
           "neighborhood": "Magdalena",
-          "photo": "/images/city-places/zaragoza-restaurants-justicia-cafe.jpg",
+          "photo": "/images/city-places/zaragoza-restaurants-justicia-cafe-y-pasteles.jpg",
           "website": "https://justiciacafe.com/",
           "description": "A quietly beloved speciality coffee and homemade pastry spot on a small pedestrianised plaza in the Magdalena quarter, just east of El Tubo. Compact terrace under stone arcades, completely shaded by mid-morning. Dogs are explicitly welcomed both on terrace and at the bar inside — the owner usually has her own dog asleep behind the counter. The carrot cake and the cinnamon roll are the must-orders.",
           "descriptionFr": "Une adresse café de spécialité et pâtisserie maison discrètement adorée, sur une petite place piétonne du quartier Magdalena, juste à l'est d'El Tubo. Terrasse compacte sous des arcades en pierre, totalement à l'ombre dès la mi-matinée. Les chiens sont explicitement les bienvenus en terrasse et au bar à l'intérieur — la propriétaire a généralement son propre chien endormi derrière le comptoir. Le carrot cake et le cinnamon roll sont à commander absolument.",
@@ -140,19 +140,46 @@
         "Lleva siempre un cuenco plegable en verano — la mayoría de terrazas lo rellenarán gratis, pero los locales no lo proporcionan sistemáticamente."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside Zaragoza restaurants or only on terraces?", "a": "By default, dogs are allowed on outdoor terraces. Indoor admission is at the establishment's discretion. Café Botánico, Palmaria, Justicia and Burukuca explicitly admit dogs inside year-round, which is invaluable when summer afternoons exceed 38°C."},
-        {"q": "Do I need to bring my own water bowl?", "a": "Yes, a foldable bowl is highly recommended. Most terraces will fill it on request but rarely supply one upfront. The exception is Palmaria and Café Botánico, which routinely bring water and treats."},
-        {"q": "What is El Tubo and is it dog-friendly?", "a": "El Tubo is the warren of medieval streets behind Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) packed with classic tapas bars. Most have small pavement tables that admit dogs, but the alleys are very narrow and crowded after 21:00 — better visited 13:00–15:00 with a small to medium dog."}
+        {
+          "q": "Are dogs allowed inside Zaragoza restaurants or only on terraces?",
+          "a": "By default, dogs are allowed on outdoor terraces. Indoor admission is at the establishment's discretion. Café Botánico, Palmaria, Justicia and Burukuca explicitly admit dogs inside year-round, which is invaluable when summer afternoons exceed 38°C."
+        },
+        {
+          "q": "Do I need to bring my own water bowl?",
+          "a": "Yes, a foldable bowl is highly recommended. Most terraces will fill it on request but rarely supply one upfront. The exception is Palmaria and Café Botánico, which routinely bring water and treats."
+        },
+        {
+          "q": "What is El Tubo and is it dog-friendly?",
+          "a": "El Tubo is the warren of medieval streets behind Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) packed with classic tapas bars. Most have small pavement tables that admit dogs, but the alleys are very narrow and crowded after 21:00 — better visited 13:00–15:00 with a small to medium dog."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis en salle dans les restaurants de Saragosse ou seulement en terrasse ?", "a": "Par défaut, les chiens sont admis en terrasse extérieure. L'admission en salle est laissée à la discrétion de l'établissement. Café Botánico, Palmaria, Justicia et Burukuca admettent explicitement les chiens en salle toute l'année, ce qui est précieux lorsque les après-midis d'été dépassent 38°C."},
-        {"q": "Dois-je apporter ma propre gamelle d'eau ?", "a": "Oui, une gamelle pliable est fortement recommandée. La plupart des terrasses la rempliront sur demande mais en fournissent rarement une d'office. L'exception : Palmaria et Café Botánico, qui apportent systématiquement eau et friandises."},
-        {"q": "Qu'est-ce qu'El Tubo et est-ce dog-friendly ?", "a": "El Tubo est le dédale de ruelles médiévales derrière la Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) bourré de bars à tapas classiques. La plupart ont de petites tables sur trottoir qui acceptent les chiens, mais les ruelles sont très étroites et bondées après 21h — préférer 13h–15h avec un petit ou moyen chien."}
+        {
+          "q": "Les chiens sont-ils admis en salle dans les restaurants de Saragosse ou seulement en terrasse ?",
+          "a": "Par défaut, les chiens sont admis en terrasse extérieure. L'admission en salle est laissée à la discrétion de l'établissement. Café Botánico, Palmaria, Justicia et Burukuca admettent explicitement les chiens en salle toute l'année, ce qui est précieux lorsque les après-midis d'été dépassent 38°C."
+        },
+        {
+          "q": "Dois-je apporter ma propre gamelle d'eau ?",
+          "a": "Oui, une gamelle pliable est fortement recommandée. La plupart des terrasses la rempliront sur demande mais en fournissent rarement une d'office. L'exception : Palmaria et Café Botánico, qui apportent systématiquement eau et friandises."
+        },
+        {
+          "q": "Qu'est-ce qu'El Tubo et est-ce dog-friendly ?",
+          "a": "El Tubo est le dédale de ruelles médiévales derrière la Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) bourré de bars à tapas classiques. La plupart ont de petites tables sur trottoir qui acceptent les chiens, mais les ruelles sont très étroites et bondées après 21h — préférer 13h–15h avec un petit ou moyen chien."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros dentro de los restaurantes de Zaragoza o solo en terrazas?", "a": "Por defecto, se admiten perros en terrazas exteriores. La admisión en interior queda a discreción del establecimiento. Café Botánico, Palmaria, Justicia y Burukuca admiten explícitamente perros en interior todo el año, algo invaluable cuando las tardes de verano superan los 38°C."},
-        {"q": "¿Tengo que llevar mi propio cuenco de agua?", "a": "Sí, un cuenco plegable es muy recomendable. La mayoría de terrazas lo rellenarán a petición pero rara vez lo aportan de entrada. La excepción: Palmaria y Café Botánico, que traen sistemáticamente agua y chuches."},
-        {"q": "¿Qué es El Tubo y es dog-friendly?", "a": "El Tubo es el dédalo de calles medievales detrás de la Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) lleno de bares de tapas clásicos. La mayoría tiene pequeñas mesas en la acera que admiten perros, pero los callejones son muy estrechos y abarrotados después de las 21:00 — mejor visitarlo 13:00–15:00 con un perro pequeño o mediano."}
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Zaragoza o solo en terrazas?",
+          "a": "Por defecto, se admiten perros en terrazas exteriores. La admisión en interior queda a discreción del establecimiento. Café Botánico, Palmaria, Justicia y Burukuca admiten explícitamente perros en interior todo el año, algo invaluable cuando las tardes de verano superan los 38°C."
+        },
+        {
+          "q": "¿Tengo que llevar mi propio cuenco de agua?",
+          "a": "Sí, un cuenco plegable es muy recomendable. La mayoría de terrazas lo rellenarán a petición pero rara vez lo aportan de entrada. La excepción: Palmaria y Café Botánico, que traen sistemáticamente agua y chuches."
+        },
+        {
+          "q": "¿Qué es El Tubo y es dog-friendly?",
+          "a": "El Tubo es el dédalo de calles medievales detrás de la Plaza de España (Calle Estébanes, Calle Libertad, Calle Cinegio) lleno de bares de tapas clásicos. La mayoría tiene pequeñas mesas en la acera que admiten perros, pero los callejones son muy estrechos y abarrotados después de las 21:00 — mejor visitarlo 13:00–15:00 con un perro pequeño o mediano."
+        }
       ]
     },
     "parks": {
@@ -166,7 +193,7 @@
         {
           "name": "Parque Grande José Antonio Labordeta",
           "type": "Major urban park, 27 hectares",
-          "photo": "/images/city-places/zaragoza-parks-parque-grande-labordeta.jpg",
+          "photo": "/images/city-places/zaragoza-parks-parque-grande-jose-antonio-labordeta.jpg",
           "website": "https://www.zaragoza.es/sede/portal/turismo/post/parque-grande-jose-antonio-labordeta",
           "description": "Zaragoza's flagship park: 27 hectares of mature pine, formal avenues, fountains and gardens, opened in 1929 and renamed in 2010 after the Aragonese singer-poet José Antonio Labordeta. Two specific zones allow dogs off-leash during permitted hours: Paseo de los Bearneses (from El Batallador fountain down to the Huerva river) and Cabezo Buenavista. Outside those zones — Rosaleda, Botanical Garden, Rincón de Goya, Winter Garden, French Garden — leashes are mandatory at all times.",
           "descriptionFr": "Le parc phare de Saragosse : 27 hectares de pinède mature, d'avenues formelles, de fontaines et de jardins, inauguré en 1929 et rebaptisé en 2010 du nom du poète-chanteur aragonais José Antonio Labordeta. Deux zones spécifiques autorisent les chiens sans laisse aux heures permises : Paseo de los Bearneses (de la fontaine d'El Batallador jusqu'à la rivière Huerva) et Cabezo Buenavista. En dehors de ces zones — Roseraie, Jardin botanique, Rincón de Goya, Jardin d'hiver, Jardin français — la laisse est obligatoire à toute heure.",
@@ -183,7 +210,7 @@
         {
           "name": "Parque del Tío Jorge",
           "type": "Riverside park with fenced canine zone, 4,725 m² enclosure",
-          "photo": "/images/city-places/zaragoza-parks-parque-tio-jorge.jpg",
+          "photo": "/images/city-places/zaragoza-parks-parque-del-tio-jorge.jpg",
           "website": "https://www.zaragoza.es/sede/servicio/equipamiento/4051",
           "description": "On the north bank of the Ebro, opposite the Casco Histórico across the Pilar Bridge. Hosts one of the city's largest fenced canine recreation zones: 4,725 m² split into two perimeter-fenced areas — 2,050 m² for calm dogs and 2,675 m² for active dogs — with double security gates, drinking fountains and benches. No time restrictions inside the enclosure: dogs can be off-leash any hour of the day. Outside the enclosure, the wider 21-hectare park follows the standard seasonal off-leash schedule.",
           "descriptionFr": "Sur la rive nord de l'Ebre, face au Casco Histórico via le Pont du Pilar. Abrite l'une des plus grandes zones canines clôturées de la ville : 4 725 m² divisés en deux espaces — 2 050 m² pour chiens calmes et 2 675 m² pour chiens actifs — avec doubles portails de sécurité, fontaines à boire et bancs. Aucune restriction horaire à l'intérieur de l'enclos : les chiens peuvent être sans laisse à toute heure du jour. À l'extérieur, le parc de 21 hectares suit l'horaire saisonnier standard.",
@@ -200,7 +227,7 @@
         {
           "name": "Pinares de Venecia",
           "type": "Pine forest, 350+ hectares",
-          "photo": "/images/city-places/zaragoza-parks-pinares-venecia.jpg",
+          "photo": "/images/city-places/zaragoza-parks-pinares-de-venecia.jpg",
           "website": "https://www.zaragoza.es/sede/servicio/equipamiento/2018",
           "description": "Zaragoza's largest forested area: a vast Mediterranean pine forest on the right bank of the Imperial Canal, between the canal and Monte de Torrero, just south of Parque Grande. Wide forest tracks, undulating terrain, and almost no built infrastructure — this is where locals come for a real countryside walk without leaving the city. Off-leash permitted during seasonal hours; the size of the forest means you can walk for an hour without crossing a road.",
           "descriptionFr": "La plus grande zone forestière de Saragosse : une vaste pinède méditerranéenne sur la rive droite du Canal Impérial, entre le canal et le Monte de Torrero, juste au sud du Parque Grande. Larges pistes forestières, terrain vallonné et quasiment aucune infrastructure construite — c'est là que les locaux viennent pour une vraie balade campagnarde sans quitter la ville. Sans laisse autorisé aux heures saisonnières ; la taille de la forêt permet de marcher une heure sans croiser une route.",
@@ -217,7 +244,7 @@
         {
           "name": "Riberas del Ebro",
           "type": "Riverside promenade, 8 km",
-          "photo": "/images/city-places/zaragoza-parks-riberas-ebro.jpg",
+          "photo": "/images/city-places/zaragoza-parks-riberas-del-ebro.jpg",
           "website": "https://www.zaragoza.es/sede/servicio/equipamiento/3915",
           "description": "The redesigned riverside paths along both banks of the Ebro between the Almozara, Pilar and Hierro bridges. Combines wide paved promenades, sculpted gardens and reed-bed wetlands, with views back to El Pilar and the historic skyline. Leash mandatory along the central paseo; off-leash permitted in adjacent grassy zones during seasonal hours. Excellent for early-morning and sunset walks — the Ebro stays cool when the city centre overheats.",
           "descriptionFr": "Les berges réaménagées le long des deux rives de l'Ebre entre les ponts d'Almozara, du Pilar et de Hierro. Combine larges promenades pavées, jardins sculptés et zones humides de roseaux, avec vue sur El Pilar et la skyline historique. Laisse obligatoire sur le paseo central ; sans laisse autorisé dans les zones herbeuses adjacentes aux heures saisonnières. Excellent pour les balades à l'aube et au coucher du soleil — l'Ebre reste frais quand le centre-ville surchauffe.",
@@ -234,7 +261,7 @@
         {
           "name": "Parque de los Poetas",
           "type": "Neighbourhood park with fenced canine zone",
-          "photo": "/images/city-places/zaragoza-parks-parque-poetas.jpg",
+          "photo": "/images/city-places/zaragoza-parks-parque-de-los-poetas.jpg",
           "website": "https://www.zaragoza.es/sede/servicio/equipamiento/3993",
           "description": "A 4-hectare neighbourhood park in the Almozara district with one of Zaragoza's most popular fenced dog enclosures — a flat, fully gated grass and gravel zone with two entrances, water fountains for dogs, and shade from mature pines. The enclosure is unrestricted by hour; the surrounding park follows the seasonal off-leash schedule. The park is a 10-minute tram ride from the city centre on Line 1.",
           "descriptionFr": "Un parc de quartier de 4 hectares dans le district de l'Almozara, avec l'un des enclos à chiens clôturés les plus populaires de Saragosse — une zone plate, entièrement fermée, mêlant herbe et gravier, avec deux entrées, fontaines à eau pour chiens et ombrage de pins matures. L'enclos est sans restriction horaire ; le parc autour suit l'horaire saisonnier sans laisse. Le parc est à 10 minutes en tram du centre-ville sur la Ligne 1.",
@@ -265,19 +292,46 @@
         "Los PPP (razas potencialmente peligrosas) deben permanecer con correa y bozal en todo momento en todos los espacios públicos, incluidas las zonas sin correa."
       ],
       "faqsEn": [
-        {"q": "When can dogs be off-leash in Zaragoza parks?", "a": "May–October: 21:00–10:00 the next morning. November–April: 20:00–10:00 the next morning. Outside these hours, leashes are mandatory in all 126 designated parks. The fenced 'esparcimiento canino' zones have no time restrictions and can be used 24/7."},
-        {"q": "Are there any fenced dog parks in Zaragoza?", "a": "Yes — at least a dozen, with more being added each year. The largest are in Parque del Tío Jorge (4,725 m², split for calm and active dogs), Parque de los Poetas (Almozara), Plaza de los Sitios (city centre), and Parque Castillo Palomar. All are fully gated with water fountains."},
-        {"q": "What is the fine for breaking off-leash rules?", "a": "Standard infractions (off-leash outside permitted hours, no waste pickup) carry fines of €100–€500. PPP-related infractions (potentially dangerous breeds off-leash or unmuzzled) start at €300 and can reach €15,000 for serious cases."}
+        {
+          "q": "When can dogs be off-leash in Zaragoza parks?",
+          "a": "May–October: 21:00–10:00 the next morning. November–April: 20:00–10:00 the next morning. Outside these hours, leashes are mandatory in all 126 designated parks. The fenced 'esparcimiento canino' zones have no time restrictions and can be used 24/7."
+        },
+        {
+          "q": "Are there any fenced dog parks in Zaragoza?",
+          "a": "Yes — at least a dozen, with more being added each year. The largest are in Parque del Tío Jorge (4,725 m², split for calm and active dogs), Parque de los Poetas (Almozara), Plaza de los Sitios (city centre), and Parque Castillo Palomar. All are fully gated with water fountains."
+        },
+        {
+          "q": "What is the fine for breaking off-leash rules?",
+          "a": "Standard infractions (off-leash outside permitted hours, no waste pickup) carry fines of €100–€500. PPP-related infractions (potentially dangerous breeds off-leash or unmuzzled) start at €300 and can reach €15,000 for serious cases."
+        }
       ],
       "faqsFr": [
-        {"q": "Quand les chiens peuvent-ils être sans laisse dans les parcs de Saragosse ?", "a": "Mai-octobre : 21h-10h le lendemain matin. Novembre-avril : 20h-10h le lendemain matin. En dehors de ces horaires, la laisse est obligatoire dans les 126 parcs désignés. Les enclos 'esparcimiento canino' clôturés n'ont pas de restriction horaire et sont utilisables 24h/24."},
-        {"q": "Y a-t-il des parcs canins clôturés à Saragosse ?", "a": "Oui — au moins une douzaine, et le réseau s'étend chaque année. Les plus grands sont dans le Parque del Tío Jorge (4 725 m², zones séparées pour chiens calmes et actifs), Parque de los Poetas (Almozara), Plaza de los Sitios (centre-ville) et Parque Castillo Palomar. Tous entièrement fermés avec fontaines à eau."},
-        {"q": "Quelle est l'amende pour non-respect des règles sans laisse ?", "a": "Infractions standards (sans laisse hors heures permises, déjections non ramassées) : amendes de 100 à 500 €. Infractions liées aux PPP (races potentiellement dangereuses sans laisse ou non muselées) : à partir de 300 €, jusqu'à 15 000 € pour les cas graves."}
+        {
+          "q": "Quand les chiens peuvent-ils être sans laisse dans les parcs de Saragosse ?",
+          "a": "Mai-octobre : 21h-10h le lendemain matin. Novembre-avril : 20h-10h le lendemain matin. En dehors de ces horaires, la laisse est obligatoire dans les 126 parcs désignés. Les enclos 'esparcimiento canino' clôturés n'ont pas de restriction horaire et sont utilisables 24h/24."
+        },
+        {
+          "q": "Y a-t-il des parcs canins clôturés à Saragosse ?",
+          "a": "Oui — au moins une douzaine, et le réseau s'étend chaque année. Les plus grands sont dans le Parque del Tío Jorge (4 725 m², zones séparées pour chiens calmes et actifs), Parque de los Poetas (Almozara), Plaza de los Sitios (centre-ville) et Parque Castillo Palomar. Tous entièrement fermés avec fontaines à eau."
+        },
+        {
+          "q": "Quelle est l'amende pour non-respect des règles sans laisse ?",
+          "a": "Infractions standards (sans laisse hors heures permises, déjections non ramassées) : amendes de 100 à 500 €. Infractions liées aux PPP (races potentiellement dangereuses sans laisse ou non muselées) : à partir de 300 €, jusqu'à 15 000 € pour les cas graves."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuándo pueden los perros estar sin correa en los parques de Zaragoza?", "a": "Mayo-octubre: 21:00-10:00 de la mañana siguiente. Noviembre-abril: 20:00-10:00 de la mañana siguiente. Fuera de estos horarios, la correa es obligatoria en los 126 parques designados. Los recintos vallados de 'esparcimiento canino' no tienen restricción horaria y se pueden usar 24h."},
-        {"q": "¿Hay parques caninos vallados en Zaragoza?", "a": "Sí — al menos una docena, y la red se amplía cada año. Los mayores están en el Parque del Tío Jorge (4.725 m², zonas separadas para perros tranquilos y activos), Parque de los Poetas (Almozara), Plaza de los Sitios (centro) y Parque Castillo Palomar. Todos totalmente cerrados con fuentes de agua."},
-        {"q": "¿Cuál es la multa por incumplir las normas sin correa?", "a": "Infracciones estándar (sin correa fuera de horario permitido, no recoger excrementos): multas de 100-500 €. Infracciones de PPP (razas potencialmente peligrosas sin correa o sin bozal): desde 300 €, hasta 15.000 € para casos graves."}
+        {
+          "q": "¿Cuándo pueden los perros estar sin correa en los parques de Zaragoza?",
+          "a": "Mayo-octubre: 21:00-10:00 de la mañana siguiente. Noviembre-abril: 20:00-10:00 de la mañana siguiente. Fuera de estos horarios, la correa es obligatoria en los 126 parques designados. Los recintos vallados de 'esparcimiento canino' no tienen restricción horaria y se pueden usar 24h."
+        },
+        {
+          "q": "¿Hay parques caninos vallados en Zaragoza?",
+          "a": "Sí — al menos una docena, y la red se amplía cada año. Los mayores están en el Parque del Tío Jorge (4.725 m², zonas separadas para perros tranquilos y activos), Parque de los Poetas (Almozara), Plaza de los Sitios (centro) y Parque Castillo Palomar. Todos totalmente cerrados con fuentes de agua."
+        },
+        {
+          "q": "¿Cuál es la multa por incumplir las normas sin correa?",
+          "a": "Infracciones estándar (sin correa fuera de horario permitido, no recoger excrementos): multas de 100-500 €. Infracciones de PPP (razas potencialmente peligrosas sin correa o sin bozal): desde 300 €, hasta 15.000 € para casos graves."
+        }
       ]
     },
     "transport": {
@@ -321,19 +375,46 @@
         }
       ],
       "faqsEn": [
-        {"q": "Are large dogs allowed on Zaragoza public transport?", "a": "On the tram (Línea 1) yes, leashed and muzzled, only outside peak hours (off-peak after 09:30 weekdays, all weekend, outside 17:00-19:00). On urban buses no — only dogs in a carrier smaller than 60×35×35 cm. Taxi or private car are the practical alternatives for routes the tram doesn't serve."},
-        {"q": "Do dogs need a ticket on the Zaragoza tram?", "a": "No additional ticket — the dog rides free with a passenger holding a valid ticket. The carrier rule (under 60×35×35 cm) only matters for unleashed/unmuzzled small dogs in carriers, who can ride any time."},
-        {"q": "Can I take my dog from Zaragoza to Madrid by train?", "a": "Yes, by AVE high-speed train. Dogs under 10 kg in a carrier travel free; dogs up to 40 kg on leash and muzzled need a paid pet ticket (€10–€20 one-way) and are accepted in specific carriages only. Book the pet ticket in advance through the Renfe app or website."}
+        {
+          "q": "Are large dogs allowed on Zaragoza public transport?",
+          "a": "On the tram (Línea 1) yes, leashed and muzzled, only outside peak hours (off-peak after 09:30 weekdays, all weekend, outside 17:00-19:00). On urban buses no — only dogs in a carrier smaller than 60×35×35 cm. Taxi or private car are the practical alternatives for routes the tram doesn't serve."
+        },
+        {
+          "q": "Do dogs need a ticket on the Zaragoza tram?",
+          "a": "No additional ticket — the dog rides free with a passenger holding a valid ticket. The carrier rule (under 60×35×35 cm) only matters for unleashed/unmuzzled small dogs in carriers, who can ride any time."
+        },
+        {
+          "q": "Can I take my dog from Zaragoza to Madrid by train?",
+          "a": "Yes, by AVE high-speed train. Dogs under 10 kg in a carrier travel free; dogs up to 40 kg on leash and muzzled need a paid pet ticket (€10–€20 one-way) and are accepted in specific carriages only. Book the pet ticket in advance through the Renfe app or website."
+        }
       ],
       "faqsFr": [
-        {"q": "Les grands chiens sont-ils autorisés dans les transports publics de Saragosse ?", "a": "Sur le tram (Ligne 1) oui, en laisse et muselés, uniquement hors heures de pointe (hors pointe après 9h30 en semaine, tout le week-end, hors 17h-19h). Sur les bus urbains non — seulement les chiens en cage de moins de 60×35×35 cm. Le taxi ou la voiture sont les alternatives pratiques pour les trajets non desservis par le tram."},
-        {"q": "Faut-il un ticket pour le chien dans le tram de Saragosse ?", "a": "Pas de ticket supplémentaire — le chien voyage gratuitement avec un passager muni d'un billet valide. La règle de la cage (moins de 60×35×35 cm) ne concerne que les petits chiens non tenus en laisse / non muselés en cage, qui peuvent voyager à toute heure."},
-        {"q": "Puis-je emmener mon chien de Saragosse à Madrid en train ?", "a": "Oui, par l'AVE haute vitesse. Les chiens de moins de 10 kg en cage voyagent gratuitement ; les chiens jusqu'à 40 kg en laisse et muselés nécessitent un billet payant (10-20 € l'aller) et sont acceptés dans des voitures spécifiques uniquement. Réservez le billet animal à l'avance via l'app ou le site Renfe."}
+        {
+          "q": "Les grands chiens sont-ils autorisés dans les transports publics de Saragosse ?",
+          "a": "Sur le tram (Ligne 1) oui, en laisse et muselés, uniquement hors heures de pointe (hors pointe après 9h30 en semaine, tout le week-end, hors 17h-19h). Sur les bus urbains non — seulement les chiens en cage de moins de 60×35×35 cm. Le taxi ou la voiture sont les alternatives pratiques pour les trajets non desservis par le tram."
+        },
+        {
+          "q": "Faut-il un ticket pour le chien dans le tram de Saragosse ?",
+          "a": "Pas de ticket supplémentaire — le chien voyage gratuitement avec un passager muni d'un billet valide. La règle de la cage (moins de 60×35×35 cm) ne concerne que les petits chiens non tenus en laisse / non muselés en cage, qui peuvent voyager à toute heure."
+        },
+        {
+          "q": "Puis-je emmener mon chien de Saragosse à Madrid en train ?",
+          "a": "Oui, par l'AVE haute vitesse. Les chiens de moins de 10 kg en cage voyagent gratuitement ; les chiens jusqu'à 40 kg en laisse et muselés nécessitent un billet payant (10-20 € l'aller) et sont acceptés dans des voitures spécifiques uniquement. Réservez le billet animal à l'avance via l'app ou le site Renfe."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se permiten perros grandes en el transporte público de Zaragoza?", "a": "En el tranvía (Línea 1) sí, con correa y bozal, solo fuera de horas pico (off-peak después de las 09:30 entre semana, todo el fin de semana, fuera de 17:00-19:00). En autobuses urbanos no — solo perros en transportín de menos de 60×35×35 cm. El taxi o el coche privado son las alternativas prácticas para rutas que el tranvía no cubre."},
-        {"q": "¿Necesita el perro un billete en el tranvía de Zaragoza?", "a": "Sin billete adicional — el perro viaja gratis con un pasajero con billete válido. La regla del transportín (menos de 60×35×35 cm) solo se aplica a perros pequeños sin correa/sin bozal en transportín, que pueden viajar a cualquier hora."},
-        {"q": "¿Puedo llevar mi perro de Zaragoza a Madrid en tren?", "a": "Sí, en AVE alta velocidad. Los perros de menos de 10 kg en transportín viajan gratis; los perros de hasta 40 kg con correa y bozal necesitan billete de pago (10-20 € por trayecto) y se aceptan solo en vagones específicos. Reserva el billete animal con antelación a través de la app o web de Renfe."}
+        {
+          "q": "¿Se permiten perros grandes en el transporte público de Zaragoza?",
+          "a": "En el tranvía (Línea 1) sí, con correa y bozal, solo fuera de horas pico (off-peak después de las 09:30 entre semana, todo el fin de semana, fuera de 17:00-19:00). En autobuses urbanos no — solo perros en transportín de menos de 60×35×35 cm. El taxi o el coche privado son las alternativas prácticas para rutas que el tranvía no cubre."
+        },
+        {
+          "q": "¿Necesita el perro un billete en el tranvía de Zaragoza?",
+          "a": "Sin billete adicional — el perro viaja gratis con un pasajero con billete válido. La regla del transportín (menos de 60×35×35 cm) solo se aplica a perros pequeños sin correa/sin bozal en transportín, que pueden viajar a cualquier hora."
+        },
+        {
+          "q": "¿Puedo llevar mi perro de Zaragoza a Madrid en tren?",
+          "a": "Sí, en AVE alta velocidad. Los perros de menos de 10 kg en transportín viajan gratis; los perros de hasta 40 kg con correa y bozal necesitan billete de pago (10-20 € por trayecto) y se aceptan solo en vagones específicos. Reserva el billete animal con antelación a través de la app o web de Renfe."
+        }
       ]
     },
     "vets": {
@@ -366,7 +447,8 @@
           "tip": "Call ahead — emergencies are triaged by phone and you'll be told whether to come in or whether your case can wait for opening hours",
           "tipFr": "Appelez avant — les urgences sont triées par téléphone et on vous dira si venir ou attendre l'ouverture",
           "tipEs": "Llama antes — las urgencias se triajean por teléfono y te dirán si acudir o esperar al horario de apertura",
-          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Emvet+Zaragoza"
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Emvet+Zaragoza",
+          "photo": "/images/city-places/zaragoza-vets-anicura-emvet-referencia-veterinaria.jpg"
         },
         {
           "name": "Urgencias Veterinarias Zaragoza",
@@ -384,7 +466,8 @@
           "tip": "Best option for non-critical out-of-hours visits — they don't run a hospital, but they fix what can be fixed and refer to AniCura if intensive care is needed",
           "tipFr": "Meilleure option pour les visites non critiques hors horaires — ils ne tiennent pas d'hôpital, mais traitent ce qui peut l'être et orientent vers AniCura si soins intensifs nécessaires",
           "tipEs": "La mejor opción para visitas no críticas fuera de horario — no tienen hospital, pero arreglan lo que se puede y derivan a AniCura si se necesitan cuidados intensivos",
-          "googleMapsUrl": "https://maps.google.com/?q=Urgencias+Veterinarias+Zaragoza"
+          "googleMapsUrl": "https://maps.google.com/?q=Urgencias+Veterinarias+Zaragoza",
+          "photo": "/images/city-places/zaragoza-vets-urgencias-veterinarias-zaragoza.jpg"
         },
         {
           "name": "Clínica Veterinaria Zaragoza Centro",
@@ -402,23 +485,51 @@
           "tip": "Useful for pet passport stamps and routine vaccinations during a longer stay — book a slot online 2–3 days ahead",
           "tipFr": "Utile pour les tampons passeport et vaccinations routine lors d'un séjour prolongé — réservez un créneau en ligne 2-3 jours avant",
           "tipEs": "Útil para sellos de pasaporte y vacunaciones rutinarias en una estancia prolongada — reserva cita online 2-3 días antes",
-          "googleMapsUrl": "https://maps.google.com/?q=Cl%C3%ADnica+Veterinaria+Zaragoza+Centro"
+          "googleMapsUrl": "https://maps.google.com/?q=Cl%C3%ADnica+Veterinaria+Zaragoza+Centro",
+          "photo": "/images/city-places/zaragoza-vets-clinica-veterinaria-zaragoza-centro.jpg"
         }
       ],
       "faqsEn": [
-        {"q": "Where do I go for a 24/7 vet emergency in Zaragoza?", "a": "Call AniCura Emvet (+34 976 47 76 78) for serious cases needing intensive care or imaging, or Urgencias Veterinarias Zaragoza (+34 976 40 97 24) for non-critical out-of-hours visits. Both triage by phone first."},
-        {"q": "Are vet fees in Spain expensive?", "a": "Spanish vet fees are mid-range for Western Europe — significantly cheaper than France, Germany or the Nordics. Standard consultation €40–€60, emergency callout €80–€150, X-ray €60–€90, full blood panel €70–€110. EU pet insurance is widely accepted."},
-        {"q": "Do I need a special document to bring my dog into Spain?", "a": "From an EU country: an EU pet passport with valid rabies vaccination (administered ≥ 21 days before travel) and an ISO microchip. No tapeworm treatment required. From the UK or other non-EU countries: an Animal Health Certificate (AHC) and an entry through a designated travellers' point of entry."}
+        {
+          "q": "Where do I go for a 24/7 vet emergency in Zaragoza?",
+          "a": "Call AniCura Emvet (+34 976 47 76 78) for serious cases needing intensive care or imaging, or Urgencias Veterinarias Zaragoza (+34 976 40 97 24) for non-critical out-of-hours visits. Both triage by phone first."
+        },
+        {
+          "q": "Are vet fees in Spain expensive?",
+          "a": "Spanish vet fees are mid-range for Western Europe — significantly cheaper than France, Germany or the Nordics. Standard consultation €40–€60, emergency callout €80–€150, X-ray €60–€90, full blood panel €70–€110. EU pet insurance is widely accepted."
+        },
+        {
+          "q": "Do I need a special document to bring my dog into Spain?",
+          "a": "From an EU country: an EU pet passport with valid rabies vaccination (administered ≥ 21 days before travel) and an ISO microchip. No tapeworm treatment required. From the UK or other non-EU countries: an Animal Health Certificate (AHC) and an entry through a designated travellers' point of entry."
+        }
       ],
       "faqsFr": [
-        {"q": "Où aller pour une urgence vétérinaire 24h/24 à Saragosse ?", "a": "Appelez AniCura Emvet (+34 976 47 76 78) pour les cas graves nécessitant soins intensifs ou imagerie, ou Urgencias Veterinarias Zaragoza (+34 976 40 97 24) pour les visites non critiques hors horaires. Les deux trient par téléphone."},
-        {"q": "Les tarifs vétérinaires en Espagne sont-ils chers ?", "a": "Les tarifs vétérinaires espagnols sont moyens en Europe de l'Ouest — nettement moins chers qu'en France, Allemagne ou pays nordiques. Consultation standard 40-60 €, déplacement urgence 80-150 €, radio 60-90 €, bilan sanguin complet 70-110 €. Les assurances européennes sont largement acceptées."},
-        {"q": "Faut-il un document spécial pour faire entrer mon chien en Espagne ?", "a": "Depuis un pays UE : passeport européen avec vaccin antirabique valide (administré ≥ 21 jours avant le voyage) et puce ISO. Pas de traitement échinococcose requis. Depuis le Royaume-Uni ou autres pays hors UE : un certificat sanitaire (AHC) et une entrée par un point d'entrée voyageurs désigné."}
+        {
+          "q": "Où aller pour une urgence vétérinaire 24h/24 à Saragosse ?",
+          "a": "Appelez AniCura Emvet (+34 976 47 76 78) pour les cas graves nécessitant soins intensifs ou imagerie, ou Urgencias Veterinarias Zaragoza (+34 976 40 97 24) pour les visites non critiques hors horaires. Les deux trient par téléphone."
+        },
+        {
+          "q": "Les tarifs vétérinaires en Espagne sont-ils chers ?",
+          "a": "Les tarifs vétérinaires espagnols sont moyens en Europe de l'Ouest — nettement moins chers qu'en France, Allemagne ou pays nordiques. Consultation standard 40-60 €, déplacement urgence 80-150 €, radio 60-90 €, bilan sanguin complet 70-110 €. Les assurances européennes sont largement acceptées."
+        },
+        {
+          "q": "Faut-il un document spécial pour faire entrer mon chien en Espagne ?",
+          "a": "Depuis un pays UE : passeport européen avec vaccin antirabique valide (administré ≥ 21 jours avant le voyage) et puce ISO. Pas de traitement échinococcose requis. Depuis le Royaume-Uni ou autres pays hors UE : un certificat sanitaire (AHC) et une entrée par un point d'entrée voyageurs désigné."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde acudir para una urgencia veterinaria 24h en Zaragoza?", "a": "Llama a AniCura Emvet (+34 976 47 76 78) para casos graves que requieran cuidados intensivos o imagen, o a Urgencias Veterinarias Zaragoza (+34 976 40 97 24) para visitas no críticas fuera de horario. Ambas triajean por teléfono primero."},
-        {"q": "¿Son caras las tarifas veterinarias en España?", "a": "Las tarifas veterinarias españolas son medias en Europa Occidental — significativamente más baratas que Francia, Alemania o los países nórdicos. Consulta estándar 40-60 €, aviso de urgencia 80-150 €, radiografía 60-90 €, analítica completa 70-110 €. Los seguros europeos para mascotas se aceptan ampliamente."},
-        {"q": "¿Necesito un documento especial para traer mi perro a España?", "a": "Desde un país UE: pasaporte europeo con vacuna antirrábica válida (administrada ≥ 21 días antes del viaje) y microchip ISO. Sin tratamiento contra equinococosis requerido. Desde Reino Unido u otros países terceros: certificado sanitario (AHC) y entrada por un punto de entrada de viajeros designado."}
+        {
+          "q": "¿Dónde acudir para una urgencia veterinaria 24h en Zaragoza?",
+          "a": "Llama a AniCura Emvet (+34 976 47 76 78) para casos graves que requieran cuidados intensivos o imagen, o a Urgencias Veterinarias Zaragoza (+34 976 40 97 24) para visitas no críticas fuera de horario. Ambas triajean por teléfono primero."
+        },
+        {
+          "q": "¿Son caras las tarifas veterinarias en España?",
+          "a": "Las tarifas veterinarias españolas son medias en Europa Occidental — significativamente más baratas que Francia, Alemania o los países nórdicos. Consulta estándar 40-60 €, aviso de urgencia 80-150 €, radiografía 60-90 €, analítica completa 70-110 €. Los seguros europeos para mascotas se aceptan ampliamente."
+        },
+        {
+          "q": "¿Necesito un documento especial para traer mi perro a España?",
+          "a": "Desde un país UE: pasaporte europeo con vacuna antirrábica válida (administrada ≥ 21 días antes del viaje) y microchip ISO. Sin tratamiento contra equinococosis requerido. Desde Reino Unido u otros países terceros: certificado sanitario (AHC) y entrada por un punto de entrada de viajeros designado."
+        }
       ]
     },
     "attractions": {
@@ -432,7 +543,7 @@
         {
           "name": "Plaza del Pilar y Basílica del Pilar",
           "neighborhood": "Casco Histórico",
-          "photo": "/images/city-places/zaragoza-attractions-plaza-del-pilar.jpg",
+          "photo": "/images/city-places/zaragoza-attractions-plaza-del-pilar-y-basilica-del-pilar.jpg",
           "website": "https://www.basilicadelpilar.es/",
           "description": "Spain's largest baroque cathedral and Zaragoza's spiritual heart, with eleven coloured-tile domes and four corner towers rising over the Ebro. The basilica interior does not admit pet dogs, but the vast surrounding plaza — one of Europe's largest pedestrian squares — is fully dog-walkable and arguably the city's best photo backdrop. Combine with the adjacent Plaza de las Catedrales and a stroll across the Stone Bridge to Parque del Tío Jorge.",
           "descriptionFr": "La plus grande cathédrale baroque d'Espagne et le cœur spirituel de Saragosse, avec ses onze dômes en céramique colorée et ses quatre tours d'angle qui dominent l'Ebre. L'intérieur de la basilique n'admet pas les chiens de compagnie, mais l'immense place qui l'entoure — l'une des plus vastes places piétonnes d'Europe — est entièrement praticable avec un chien et constitue probablement le meilleur arrière-plan photo de la ville. À combiner avec la Plaza de las Catedrales adjacente et une traversée du Pont de Pierre vers le Parque del Tío Jorge.",
@@ -451,7 +562,7 @@
         {
           "name": "Palacio de la Aljafería",
           "neighborhood": "Almozara",
-          "photo": "/images/city-places/zaragoza-attractions-palacio-aljaferia.jpg",
+          "photo": "/images/city-places/zaragoza-attractions-palacio-de-la-aljaferia.jpg",
           "website": "https://www.cortesaragon.es/aljaferia/",
           "description": "The 11th-century Hudid-era Islamic palace, later expanded by Christian kings, today seat of the Aragonese parliament and a UNESCO-listed Mudéjar monument. Leashed dogs are admitted in the outdoor moat and surrounding gardens, which run all the way around the fortified perimeter. Interior tours of the palace itself are not dog-friendly, but the exterior loop is one of the city's loveliest 30-minute walks, with mature poplar shade.",
           "descriptionFr": "Le palais islamique de l'époque hudid du XIe siècle, agrandi ensuite par les rois chrétiens, aujourd'hui siège du parlement d'Aragon et monument mudéjar inscrit à l'UNESCO. Les chiens en laisse sont admis dans les fossés extérieurs et les jardins qui contournent l'ensemble du périmètre fortifié. Les visites intérieures du palais ne sont pas dog-friendly, mais la boucle extérieure constitue l'une des plus jolies promenades de 30 min de la ville, avec ombrage de peupliers matures.",
@@ -470,7 +581,7 @@
         {
           "name": "Puente de Piedra y Riberas del Ebro",
           "neighborhood": "Casco Histórico / Arrabal",
-          "photo": "/images/city-places/zaragoza-attractions-puente-de-piedra.jpg",
+          "photo": "/images/city-places/zaragoza-attractions-puente-de-piedra-y-riberas-del-ebro.jpg",
           "website": "https://www.zaragoza.es/sede/portal/turismo/post/puente-de-piedra",
           "description": "The 15th-century stone bridge linking the Casco Histórico to the Arrabal, with the iconic postcard view of El Pilar's domes reflected in the Ebro at sunset. The bridge is fully pedestrianised in its central span and connects directly into the redesigned Riberas del Ebro promenade — a 8 km landscaped riverside walk with shaded paths, sculpted gardens and several access ramps. One of the city's most rewarding evening walks with a dog.",
           "descriptionFr": "Le pont de pierre du XVe siècle qui relie le Casco Histórico à l'Arrabal, avec la vue carte postale iconique des dômes d'El Pilar reflétés dans l'Ebre au coucher du soleil. Le pont est entièrement piéton dans sa travée centrale et se connecte directement à la promenade réaménagée des Riberas del Ebro — une balade de 8 km au bord de la rivière avec chemins ombragés, jardins sculptés et plusieurs rampes d'accès. L'une des plus belles promenades du soir de la ville avec un chien.",
@@ -489,7 +600,7 @@
         {
           "name": "Murallas Romanas y Mercado Central",
           "neighborhood": "Casco Histórico",
-          "photo": "/images/city-places/zaragoza-attractions-mercado-central.jpg",
+          "photo": "/images/city-places/zaragoza-attractions-murallas-romanas-y-mercado-central.jpg",
           "website": "https://mercadocentralzaragoza.com/",
           "description": "A short walk west of El Pilar brings you to the surviving stretch of the Roman walls of Caesaraugusta, founded by Augustus in 14 BC. The walls are open-air and dog-walkable. Adjacent is the Mercado Central, a 1903 cast-iron market hall reopened after a 2020 restoration — leashed dogs are not admitted inside the market itself, but the surrounding plaza (Plaza de Lanuza / César Augusto) is fully accessible and a popular morning stop for locals walking dogs.",
           "descriptionFr": "Une courte marche à l'ouest d'El Pilar vous amène au tronçon survivant des remparts romains de Caesaraugusta, fondée par Auguste en 14 av. J.-C. Les remparts sont en plein air et accessibles avec un chien. À côté se trouve le Mercado Central, halle de marché en fonte de 1903 rouverte après une restauration en 2020 — les chiens en laisse ne sont pas admis dans le marché même, mais la place qui l'entoure (Plaza de Lanuza / César Augusto) est entièrement accessible et un arrêt matinal populaire pour les locaux promenant leurs chiens.",
@@ -508,7 +619,7 @@
         {
           "name": "Parque del Agua Luis Buñuel",
           "neighborhood": "Ranillas",
-          "photo": "/images/city-places/zaragoza-attractions-parque-del-agua.jpg",
+          "photo": "/images/city-places/zaragoza-attractions-parque-del-agua-luis-bunuel.jpg",
           "website": "https://www.zaragoza.es/sede/servicio/equipamiento/4054",
           "description": "A 120-hectare riverside park created on the meander of the Ebro for the 2008 World's Fair, with cycle paths, water gardens, a ronda fluvial, and views back to the city skyline. Leashed dogs are welcome throughout; off-leash permitted in designated zones during seasonal hours. The park is the largest single green space within Zaragoza city limits and one of the favourite weekend dog-walking destinations for residents of the Actur and Ranillas districts.",
           "descriptionFr": "Un parc en bord de fleuve de 120 hectares créé sur un méandre de l'Ebre pour l'Exposition universelle de 2008, avec pistes cyclables, jardins d'eau, une ronda fluvial et des vues sur la skyline de la ville. Les chiens en laisse sont les bienvenus partout ; sans laisse autorisé dans les zones désignées aux heures saisonnières. Le parc est le plus grand espace vert d'un seul tenant dans les limites de la ville de Saragosse et l'une des destinations préférées du week-end pour les habitants des quartiers Actur et Ranillas.",
@@ -541,19 +652,46 @@
         "Evitar el calor es el factor de planificación número uno de junio a septiembre: visita los sitios al aire libre antes de las 11:00 o después de las 19:00."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog inside the Basílica del Pilar?", "a": "No, only assistance dogs are admitted inside the basilica. Pet dogs are very welcome on the surrounding Plaza del Pilar and on the adjacent Plaza de las Catedrales — both are dog-walking hubs at sunset."},
-        {"q": "Are there any dog-friendly indoor attractions in Zaragoza?", "a": "Indoor attractions that admit pet dogs are rare in Spain — assistance dogs only is the standard. Café Botánico, Palmaria and Burukuca admit dogs inside year-round and are excellent indoor refuges in extreme heat or rain."},
-        {"q": "What's the best dog-friendly day in Zaragoza?", "a": "08:30 walk in Parque Grande Labordeta or Pinares de Venecia (off-leash window), brunch at Palmaria on Sagasta, riverside walk along Riberas del Ebro at 18:00, sunset on Puente de Piedra, dinner on a terrace in Magdalena."}
+        {
+          "q": "Can I take my dog inside the Basílica del Pilar?",
+          "a": "No, only assistance dogs are admitted inside the basilica. Pet dogs are very welcome on the surrounding Plaza del Pilar and on the adjacent Plaza de las Catedrales — both are dog-walking hubs at sunset."
+        },
+        {
+          "q": "Are there any dog-friendly indoor attractions in Zaragoza?",
+          "a": "Indoor attractions that admit pet dogs are rare in Spain — assistance dogs only is the standard. Café Botánico, Palmaria and Burukuca admit dogs inside year-round and are excellent indoor refuges in extreme heat or rain."
+        },
+        {
+          "q": "What's the best dog-friendly day in Zaragoza?",
+          "a": "08:30 walk in Parque Grande Labordeta or Pinares de Venecia (off-leash window), brunch at Palmaria on Sagasta, riverside walk along Riberas del Ebro at 18:00, sunset on Puente de Piedra, dinner on a terrace in Magdalena."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je entrer dans la Basílica del Pilar avec mon chien ?", "a": "Non, seuls les chiens d'assistance sont admis dans la basilique. Les chiens de compagnie sont très bienvenus sur la Plaza del Pilar adjacente et sur la Plaza de las Catedrales voisine — toutes deux deviennent des hubs de promeneurs au coucher du soleil."},
-        {"q": "Y a-t-il des attractions intérieures dog-friendly à Saragosse ?", "a": "Les attractions intérieures qui admettent les chiens de compagnie sont rares en Espagne — la règle standard est chiens d'assistance uniquement. Café Botánico, Palmaria et Burukuca admettent les chiens en salle toute l'année et sont d'excellents refuges intérieurs en cas de chaleur extrême ou de pluie."},
-        {"q": "Quelle est la meilleure journée dog-friendly à Saragosse ?", "a": "Promenade à 8h30 au Parque Grande Labordeta ou aux Pinares de Venecia (fenêtre sans laisse), brunch au Palmaria sur Sagasta, balade au bord du fleuve sur les Riberas del Ebro à 18h, coucher du soleil sur le Puente de Piedra, dîner en terrasse à Magdalena."}
+        {
+          "q": "Puis-je entrer dans la Basílica del Pilar avec mon chien ?",
+          "a": "Non, seuls les chiens d'assistance sont admis dans la basilique. Les chiens de compagnie sont très bienvenus sur la Plaza del Pilar adjacente et sur la Plaza de las Catedrales voisine — toutes deux deviennent des hubs de promeneurs au coucher du soleil."
+        },
+        {
+          "q": "Y a-t-il des attractions intérieures dog-friendly à Saragosse ?",
+          "a": "Les attractions intérieures qui admettent les chiens de compagnie sont rares en Espagne — la règle standard est chiens d'assistance uniquement. Café Botánico, Palmaria et Burukuca admettent les chiens en salle toute l'année et sont d'excellents refuges intérieurs en cas de chaleur extrême ou de pluie."
+        },
+        {
+          "q": "Quelle est la meilleure journée dog-friendly à Saragosse ?",
+          "a": "Promenade à 8h30 au Parque Grande Labordeta ou aux Pinares de Venecia (fenêtre sans laisse), brunch au Palmaria sur Sagasta, balade au bord du fleuve sur les Riberas del Ebro à 18h, coucher du soleil sur le Puente de Piedra, dîner en terrasse à Magdalena."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar en la Basílica del Pilar con mi perro?", "a": "No, solo se admiten perros de asistencia dentro de la basílica. Los perros de compañía son muy bienvenidos en la Plaza del Pilar adyacente y en la Plaza de las Catedrales contigua — ambas son hubs de paseadores al atardecer."},
-        {"q": "¿Hay atracciones interiores dog-friendly en Zaragoza?", "a": "Las atracciones interiores que admiten perros de compañía son raras en España — la regla estándar es solo perros de asistencia. Café Botánico, Palmaria y Burukuca admiten perros dentro todo el año y son excelentes refugios interiores en caso de calor extremo o lluvia."},
-        {"q": "¿Cuál es el mejor día dog-friendly en Zaragoza?", "a": "Paseo a las 08:30 en el Parque Grande Labordeta o los Pinares de Venecia (ventana sin correa), brunch en Palmaria en Sagasta, paseo ribereño por las Riberas del Ebro a las 18:00, atardecer en el Puente de Piedra, cena en una terraza de la Magdalena."}
+        {
+          "q": "¿Puedo entrar en la Basílica del Pilar con mi perro?",
+          "a": "No, solo se admiten perros de asistencia dentro de la basílica. Los perros de compañía son muy bienvenidos en la Plaza del Pilar adyacente y en la Plaza de las Catedrales contigua — ambas son hubs de paseadores al atardecer."
+        },
+        {
+          "q": "¿Hay atracciones interiores dog-friendly en Zaragoza?",
+          "a": "Las atracciones interiores que admiten perros de compañía son raras en España — la regla estándar es solo perros de asistencia. Café Botánico, Palmaria y Burukuca admiten perros dentro todo el año y son excelentes refugios interiores en caso de calor extremo o lluvia."
+        },
+        {
+          "q": "¿Cuál es el mejor día dog-friendly en Zaragoza?",
+          "a": "Paseo a las 08:30 en el Parque Grande Labordeta o los Pinares de Venecia (ventana sin correa), brunch en Palmaria en Sagasta, paseo ribereño por las Riberas del Ebro a las 18:00, atardecer en el Puente de Piedra, cena en una terraza de la Magdalena."
+        }
       ]
     },
     "beaches": {
@@ -585,7 +723,7 @@
           "rules": "Leash on the towpath, swimming not officially encouraged but tolerated for dogs in the calm sections. Avoid lock chambers.",
           "facilities": "Tram access, several adjacent cafés on the Pignatelli side with terraces",
           "googleMapsUrl": "https://maps.google.com/?q=Canal+Imperial+de+Arag%C3%B3n+Pignatelli+Zaragoza",
-          "photo": "/images/city-places/zaragoza-beaches-canal-imperial-pignatelli.jpg"
+          "photo": "/images/city-places/zaragoza-beaches-canal-imperial-de-aragon-pignatelli-stretch.jpg"
         },
         {
           "name": "Galacho de Juslibol",
@@ -595,23 +733,50 @@
           "rules": "Leash mandatory on the protected reserve trails. Off-leash and water access only on the side paths along the main Ebro channel.",
           "facilities": "Visitor centre (Wed–Sun), free parking, no café — pack water and snacks",
           "googleMapsUrl": "https://maps.google.com/?q=Galacho+de+Juslibol+Zaragoza",
-          "photo": "/images/city-places/zaragoza-beaches-galacho-juslibol.jpg"
+          "photo": "/images/city-places/zaragoza-beaches-galacho-de-juslibol.jpg"
         }
       ],
       "faqsEn": [
-        {"q": "Are there any sea beaches near Zaragoza?", "a": "No — Zaragoza is 250 km from the coast. The nearest sea is Salou or Cambrils on the Costa Daurada (Catalonia), about 3 hours by car or 1h45 by AVE high-speed train to Tarragona. For a true dog-beach day trip, a weekend in Salou is more realistic than a same-day return."},
-        {"q": "Can dogs swim in the Ebro river inside the city?", "a": "Officially the Ebro central channel through the city is not a designated bathing area, and the current is strong. The protected soto (riparian forest) areas east and north-west of the centre — Soto de Cantalobos and Galacho de Juslibol — have shallow side pools with weak current that work well for dogs."},
-        {"q": "Is the Imperial Canal safe for dogs to swim in?", "a": "The calmer non-lock stretches are tolerated for dogs to wade and swim in summer. Avoid the lock chambers and the navigation-active sections, and keep your dog away from any visible algae blooms — Aragonese summers occasionally bring blue-green algae warnings."}
+        {
+          "q": "Are there any sea beaches near Zaragoza?",
+          "a": "No — Zaragoza is 250 km from the coast. The nearest sea is Salou or Cambrils on the Costa Daurada (Catalonia), about 3 hours by car or 1h45 by AVE high-speed train to Tarragona. For a true dog-beach day trip, a weekend in Salou is more realistic than a same-day return."
+        },
+        {
+          "q": "Can dogs swim in the Ebro river inside the city?",
+          "a": "Officially the Ebro central channel through the city is not a designated bathing area, and the current is strong. The protected soto (riparian forest) areas east and north-west of the centre — Soto de Cantalobos and Galacho de Juslibol — have shallow side pools with weak current that work well for dogs."
+        },
+        {
+          "q": "Is the Imperial Canal safe for dogs to swim in?",
+          "a": "The calmer non-lock stretches are tolerated for dogs to wade and swim in summer. Avoid the lock chambers and the navigation-active sections, and keep your dog away from any visible algae blooms — Aragonese summers occasionally bring blue-green algae warnings."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des plages de mer près de Saragosse ?", "a": "Non — Saragosse est à 250 km de la côte. La mer la plus proche est Salou ou Cambrils sur la Costa Daurada (Catalogne), à environ 3h en voiture ou 1h45 en AVE jusqu'à Tarragone. Pour une vraie journée plage avec chien, un week-end à Salou est plus réaliste qu'un aller-retour dans la journée."},
-        {"q": "Les chiens peuvent-ils nager dans l'Ebre à l'intérieur de la ville ?", "a": "Officiellement le chenal central de l'Ebre dans la ville n'est pas une zone de baignade désignée et le courant est fort. Les zones protégées de soto (forêt riveraine) à l'est et au nord-ouest du centre — Soto de Cantalobos et Galacho de Juslibol — ont des bassins latéraux peu profonds à courant faible, qui conviennent bien aux chiens."},
-        {"q": "Le Canal Impérial est-il sûr pour la baignade des chiens ?", "a": "Les tronçons calmes hors écluses sont tolérés pour la baignade et le rafraîchissement des chiens en été. Évitez les chambres d'écluse et les sections de navigation active, et gardez votre chien à l'écart de toute prolifération d'algues visible — les étés aragonais apportent occasionnellement des alertes aux cyanobactéries."}
+        {
+          "q": "Y a-t-il des plages de mer près de Saragosse ?",
+          "a": "Non — Saragosse est à 250 km de la côte. La mer la plus proche est Salou ou Cambrils sur la Costa Daurada (Catalogne), à environ 3h en voiture ou 1h45 en AVE jusqu'à Tarragone. Pour une vraie journée plage avec chien, un week-end à Salou est plus réaliste qu'un aller-retour dans la journée."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans l'Ebre à l'intérieur de la ville ?",
+          "a": "Officiellement le chenal central de l'Ebre dans la ville n'est pas une zone de baignade désignée et le courant est fort. Les zones protégées de soto (forêt riveraine) à l'est et au nord-ouest du centre — Soto de Cantalobos et Galacho de Juslibol — ont des bassins latéraux peu profonds à courant faible, qui conviennent bien aux chiens."
+        },
+        {
+          "q": "Le Canal Impérial est-il sûr pour la baignade des chiens ?",
+          "a": "Les tronçons calmes hors écluses sont tolérés pour la baignade et le rafraîchissement des chiens en été. Évitez les chambres d'écluse et les sections de navigation active, et gardez votre chien à l'écart de toute prolifération d'algues visible — les étés aragonais apportent occasionnellement des alertes aux cyanobactéries."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay playas de mar cerca de Zaragoza?", "a": "No — Zaragoza está a 250 km de la costa. El mar más cercano es Salou o Cambrils en la Costa Daurada (Cataluña), a unas 3 horas en coche o 1h45 en AVE hasta Tarragona. Para un verdadero día de playa con perro, un fin de semana en Salou es más realista que una ida y vuelta en el día."},
-        {"q": "¿Pueden los perros nadar en el Ebro dentro de la ciudad?", "a": "Oficialmente el canal central del Ebro a su paso por la ciudad no es zona de baño designada y la corriente es fuerte. Las zonas protegidas de soto (bosque ribereño) al este y noroeste del centro — Soto de Cantalobos y Galacho de Juslibol — tienen pozas laterales poco profundas y de corriente débil, que funcionan bien para perros."},
-        {"q": "¿Es seguro el Canal Imperial para que naden los perros?", "a": "Los tramos tranquilos fuera de las esclusas se toleran para que los perros se mojen y naden en verano. Evita las cámaras de esclusa y los tramos de navegación activa, y mantén a tu perro alejado de cualquier proliferación de algas visible — los veranos aragoneses traen ocasionalmente avisos por cianobacterias."}
+        {
+          "q": "¿Hay playas de mar cerca de Zaragoza?",
+          "a": "No — Zaragoza está a 250 km de la costa. El mar más cercano es Salou o Cambrils en la Costa Daurada (Cataluña), a unas 3 horas en coche o 1h45 en AVE hasta Tarragona. Para un verdadero día de playa con perro, un fin de semana en Salou es más realista que una ida y vuelta en el día."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Ebro dentro de la ciudad?",
+          "a": "Oficialmente el canal central del Ebro a su paso por la ciudad no es zona de baño designada y la corriente es fuerte. Las zonas protegidas de soto (bosque ribereño) al este y noroeste del centro — Soto de Cantalobos y Galacho de Juslibol — tienen pozas laterales poco profundas y de corriente débil, que funcionan bien para perros."
+        },
+        {
+          "q": "¿Es seguro el Canal Imperial para que naden los perros?",
+          "a": "Los tramos tranquilos fuera de las esclusas se toleran para que los perros se mojen y naden en verano. Evita las cámaras de esclusa y los tramos de navegación activa, y mantén a tu perro alejado de cualquier proliferación de algas visible — los veranos aragoneses traen ocasionalmente avisos por cianobacterias."
+        }
       ]
     },
     "tips": {
@@ -648,19 +813,46 @@
         }
       ],
       "faqsEn": [
-        {"q": "What's the best time of year to visit Zaragoza with a dog?", "a": "Late September to mid-November and mid-March to early June — mild temperatures (15–25°C), low rainfall, all parks fully accessible. July and August are punishing for dogs due to extreme heat; December–February is mild but foggy and cierzo-prone."},
-        {"q": "Are there public dog water fountains in the city?", "a": "Yes, but mainly in the major parks (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) and in the fenced canine zones. Most regular city streets do not have them — carry your own foldable bowl."},
-        {"q": "What's the etiquette for greeting other dogs in Zaragoza?", "a": "Spanish dog-walking culture is informal and friendly — most owners will let dogs sniff each other on the leash if both seem keen. Always ask 'es bueno?' (is yours friendly?) before letting your dog approach. PPP-breed owners are required to muzzle in public, so a muzzled dog isn't necessarily an aggressive one."}
+        {
+          "q": "What's the best time of year to visit Zaragoza with a dog?",
+          "a": "Late September to mid-November and mid-March to early June — mild temperatures (15–25°C), low rainfall, all parks fully accessible. July and August are punishing for dogs due to extreme heat; December–February is mild but foggy and cierzo-prone."
+        },
+        {
+          "q": "Are there public dog water fountains in the city?",
+          "a": "Yes, but mainly in the major parks (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) and in the fenced canine zones. Most regular city streets do not have them — carry your own foldable bowl."
+        },
+        {
+          "q": "What's the etiquette for greeting other dogs in Zaragoza?",
+          "a": "Spanish dog-walking culture is informal and friendly — most owners will let dogs sniff each other on the leash if both seem keen. Always ask 'es bueno?' (is yours friendly?) before letting your dog approach. PPP-breed owners are required to muzzle in public, so a muzzled dog isn't necessarily an aggressive one."
+        }
       ],
       "faqsFr": [
-        {"q": "Quelle est la meilleure période pour visiter Saragosse avec un chien ?", "a": "Fin septembre à mi-novembre et mi-mars à début juin — températures douces (15-25°C), peu de pluie, tous les parcs pleinement accessibles. Juillet-août sont punitifs pour les chiens en raison de la chaleur extrême ; décembre-février est doux mais brumeux et sujet au cierzo."},
-        {"q": "Y a-t-il des fontaines à eau publiques pour chiens en ville ?", "a": "Oui, mais principalement dans les grands parcs (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) et dans les zones canines clôturées. La plupart des rues n'en ont pas — emportez votre propre gamelle pliable."},
-        {"q": "Quelle est l'étiquette pour saluer les autres chiens à Saragosse ?", "a": "La culture canine espagnole est informelle et amicale — la plupart des propriétaires laissent les chiens se renifler en laisse si les deux sont enthousiastes. Demandez toujours 'es bueno ?' (le vôtre est sympa ?) avant de laisser votre chien approcher. Les propriétaires de PPP sont tenus de museler en public, donc un chien muselé n'est pas nécessairement agressif."}
+        {
+          "q": "Quelle est la meilleure période pour visiter Saragosse avec un chien ?",
+          "a": "Fin septembre à mi-novembre et mi-mars à début juin — températures douces (15-25°C), peu de pluie, tous les parcs pleinement accessibles. Juillet-août sont punitifs pour les chiens en raison de la chaleur extrême ; décembre-février est doux mais brumeux et sujet au cierzo."
+        },
+        {
+          "q": "Y a-t-il des fontaines à eau publiques pour chiens en ville ?",
+          "a": "Oui, mais principalement dans les grands parcs (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) et dans les zones canines clôturées. La plupart des rues n'en ont pas — emportez votre propre gamelle pliable."
+        },
+        {
+          "q": "Quelle est l'étiquette pour saluer les autres chiens à Saragosse ?",
+          "a": "La culture canine espagnole est informelle et amicale — la plupart des propriétaires laissent les chiens se renifler en laisse si les deux sont enthousiastes. Demandez toujours 'es bueno ?' (le vôtre est sympa ?) avant de laisser votre chien approcher. Les propriétaires de PPP sont tenus de museler en public, donc un chien muselé n'est pas nécessairement agressif."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuál es la mejor época del año para visitar Zaragoza con perro?", "a": "Fines de septiembre a mediados de noviembre y mediados de marzo a principios de junio — temperaturas suaves (15-25°C), poca lluvia, todos los parques plenamente accesibles. Julio-agosto son castigadores para los perros por el calor extremo; diciembre-febrero es suave pero con niebla y propenso al cierzo."},
-        {"q": "¿Hay fuentes de agua públicas para perros en la ciudad?", "a": "Sí, pero principalmente en los grandes parques (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) y en las zonas caninas valladas. La mayoría de las calles regulares no las tienen — lleva tu propio cuenco plegable."},
-        {"q": "¿Cuál es la etiqueta para saludar a otros perros en Zaragoza?", "a": "La cultura paseadora española es informal y amigable — la mayoría de propietarios deja que los perros se huelan con correa si ambos parecen dispuestos. Pregunta siempre '¿es bueno?' antes de dejar que tu perro se acerque. Los dueños de razas PPP están obligados a poner bozal en público, así que un perro con bozal no es necesariamente agresivo."}
+        {
+          "q": "¿Cuál es la mejor época del año para visitar Zaragoza con perro?",
+          "a": "Fines de septiembre a mediados de noviembre y mediados de marzo a principios de junio — temperaturas suaves (15-25°C), poca lluvia, todos los parques plenamente accesibles. Julio-agosto son castigadores para los perros por el calor extremo; diciembre-febrero es suave pero con niebla y propenso al cierzo."
+        },
+        {
+          "q": "¿Hay fuentes de agua públicas para perros en la ciudad?",
+          "a": "Sí, pero principalmente en los grandes parques (Parque Grande Labordeta, Parque del Tío Jorge, Pignatelli, Parque del Agua) y en las zonas caninas valladas. La mayoría de las calles regulares no las tienen — lleva tu propio cuenco plegable."
+        },
+        {
+          "q": "¿Cuál es la etiqueta para saludar a otros perros en Zaragoza?",
+          "a": "La cultura paseadora española es informal y amigable — la mayoría de propietarios deja que los perros se huelan con correa si ambos parecen dispuestos. Pregunta siempre '¿es bueno?' antes de dejar que tu perro se acerque. Los dueños de razas PPP están obligados a poner bozal en público, así que un perro con bozal no es necesariamente agresivo."
+        }
       ],
       "places": [],
       "tipsEn": [],
@@ -685,7 +877,11 @@
           "serviceTypeFr": "Pension, garderie de jour, visites à domicile, promenade, garde à domicile",
           "serviceTypeEs": "Alojamiento, guardería de día, visitas a domicilio, paseo, cuidado en casa",
           "pricePerDay": "€18–€30",
-          "languages": ["Spanish", "English", "French"],
+          "languages": [
+            "Spanish",
+            "English",
+            "French"
+          ],
           "tip": "Filter by 'Verified by Rover' for sitters who have completed background checks — this gives a faster booking and the highest insurance tier",
           "tipFr": "Filtrez par 'Verified by Rover' pour des sitters ayant passé une vérification — réservation plus rapide et meilleur niveau d'assurance",
           "tipEs": "Filtra por 'Verified by Rover' para sitters que han pasado verificación — reserva más rápida y nivel de seguro más alto"
@@ -700,7 +896,10 @@
           "serviceTypeFr": "Pension, garderie de jour, visites à domicile, promenade",
           "serviceTypeEs": "Alojamiento, guardería de día, visitas a domicilio, paseo",
           "pricePerDay": "€16–€28",
-          "languages": ["Spanish", "English"],
+          "languages": [
+            "Spanish",
+            "English"
+          ],
           "tip": "Use the map filter to find sitters within 1 km of your hotel — saves a lot of cross-city tram rides at handover",
           "tipFr": "Utilisez le filtre carte pour trouver un sitter à moins d'1 km de votre hôtel — évite de longs trajets de tram à la remise",
           "tipEs": "Usa el filtro mapa para encontrar sitters a menos de 1 km de tu hotel — evita largos viajes de tranvía en la entrega"
@@ -715,7 +914,10 @@
           "serviceTypeFr": "Pension, garderie de jour, visites à domicile, promenade",
           "serviceTypeEs": "Alojamiento, guardería de día, visitas a domicilio, paseo",
           "pricePerDay": "€15–€25",
-          "languages": ["Spanish", "English"],
+          "languages": [
+            "Spanish",
+            "English"
+          ],
           "tip": "Best fallback for last-minute weekend bookings when Rover and Pawshake are full — try Friday afternoon for a Saturday handover",
           "tipFr": "Meilleur recours pour les réservations de week-end de dernière minute quand Rover et Pawshake sont complets — essayez vendredi après-midi pour une remise samedi",
           "tipEs": "Mejor recurso para reservas de fin de semana de última hora cuando Rover y Pawshake están llenos — prueba el viernes por la tarde para una entrega el sábado"
@@ -737,19 +939,46 @@
         "Activa la opción de seguimiento GPS integrada (Rover, Pawshake) para los paseos — da tranquilidad y un registro del recorrido."
       ],
       "faqsEn": [
-        {"q": "How much does dog boarding cost in Zaragoza?", "a": "Typical home boarding rates run €15–€30 per night, with most sitters around €20. Day care is €12–€20 per day, drop-in visits €10–€15, and dog walks €10–€15 for 30–60 minutes. Prices are roughly 30–40% below Barcelona and Madrid."},
-        {"q": "Are there professional dog hotels in Zaragoza?", "a": "Yes — several professional kennels operate in the outskirts (Casablanca, La Cartuja). The international platforms (Rover, Pawshake) almost exclusively list private sitters who host dogs in their own homes, which most travellers prefer for socialised dogs over kennels."},
-        {"q": "Can a sitter take my dog to the vet if needed?", "a": "Yes — every reputable platform contractually requires sitters to seek veterinary care for any health issue and refunds the cost via the platform's insurance up to €15,000–€25,000. Always leave the EU pet passport and your contact details with the sitter."}
+        {
+          "q": "How much does dog boarding cost in Zaragoza?",
+          "a": "Typical home boarding rates run €15–€30 per night, with most sitters around €20. Day care is €12–€20 per day, drop-in visits €10–€15, and dog walks €10–€15 for 30–60 minutes. Prices are roughly 30–40% below Barcelona and Madrid."
+        },
+        {
+          "q": "Are there professional dog hotels in Zaragoza?",
+          "a": "Yes — several professional kennels operate in the outskirts (Casablanca, La Cartuja). The international platforms (Rover, Pawshake) almost exclusively list private sitters who host dogs in their own homes, which most travellers prefer for socialised dogs over kennels."
+        },
+        {
+          "q": "Can a sitter take my dog to the vet if needed?",
+          "a": "Yes — every reputable platform contractually requires sitters to seek veterinary care for any health issue and refunds the cost via the platform's insurance up to €15,000–€25,000. Always leave the EU pet passport and your contact details with the sitter."
+        }
       ],
       "faqsFr": [
-        {"q": "Combien coûte la pension canine à Saragosse ?", "a": "Les tarifs typiques de pension à domicile vont de 15 à 30 € la nuit, avec la plupart des sitters autour de 20 €. La garderie de jour : 12-20 € la journée, les visites à domicile 10-15 €, et les promenades 10-15 € pour 30-60 minutes. Les prix sont 30-40 % plus bas qu'à Barcelone et Madrid."},
-        {"q": "Y a-t-il des hôtels professionnels pour chiens à Saragosse ?", "a": "Oui — plusieurs pensions professionnelles opèrent en banlieue (Casablanca, La Cartuja). Les plateformes internationales (Rover, Pawshake) listent quasi exclusivement des sitters privés qui accueillent les chiens chez eux, ce que la plupart des voyageurs préfèrent aux pensions pour les chiens socialisés."},
-        {"q": "Un sitter peut-il emmener mon chien chez le vétérinaire si besoin ?", "a": "Oui — toute plateforme sérieuse oblige contractuellement les sitters à consulter un vétérinaire pour tout problème de santé et rembourse le coût via l'assurance de la plateforme jusqu'à 15 000-25 000 €. Laissez toujours le passeport européen et vos coordonnées au sitter."}
+        {
+          "q": "Combien coûte la pension canine à Saragosse ?",
+          "a": "Les tarifs typiques de pension à domicile vont de 15 à 30 € la nuit, avec la plupart des sitters autour de 20 €. La garderie de jour : 12-20 € la journée, les visites à domicile 10-15 €, et les promenades 10-15 € pour 30-60 minutes. Les prix sont 30-40 % plus bas qu'à Barcelone et Madrid."
+        },
+        {
+          "q": "Y a-t-il des hôtels professionnels pour chiens à Saragosse ?",
+          "a": "Oui — plusieurs pensions professionnelles opèrent en banlieue (Casablanca, La Cartuja). Les plateformes internationales (Rover, Pawshake) listent quasi exclusivement des sitters privés qui accueillent les chiens chez eux, ce que la plupart des voyageurs préfèrent aux pensions pour les chiens socialisés."
+        },
+        {
+          "q": "Un sitter peut-il emmener mon chien chez le vétérinaire si besoin ?",
+          "a": "Oui — toute plateforme sérieuse oblige contractuellement les sitters à consulter un vétérinaire pour tout problème de santé et rembourse le coût via l'assurance de la plateforme jusqu'à 15 000-25 000 €. Laissez toujours le passeport européen et vos coordonnées au sitter."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuánto cuesta el alojamiento canino en Zaragoza?", "a": "Las tarifas típicas de alojamiento a domicilio van de 15 a 30 € por noche, con la mayoría de sitters en torno a 20 €. La guardería de día: 12-20 € al día, las visitas a domicilio 10-15 €, y los paseos 10-15 € por 30-60 minutos. Los precios son 30-40 % más bajos que Barcelona y Madrid."},
-        {"q": "¿Hay hoteles profesionales para perros en Zaragoza?", "a": "Sí — varias residencias profesionales operan en las afueras (Casablanca, La Cartuja). Las plataformas internacionales (Rover, Pawshake) listan casi exclusivamente sitters privados que acogen perros en su propia casa, lo que la mayoría de viajeros prefiere a las residencias para perros socializados."},
-        {"q": "¿Puede un sitter llevar a mi perro al veterinario si es necesario?", "a": "Sí — toda plataforma seria obliga contractualmente a los sitters a buscar atención veterinaria para cualquier problema de salud y reembolsa el coste vía el seguro de la plataforma hasta 15.000-25.000 €. Deja siempre el pasaporte europeo y tus datos de contacto al sitter."}
+        {
+          "q": "¿Cuánto cuesta el alojamiento canino en Zaragoza?",
+          "a": "Las tarifas típicas de alojamiento a domicilio van de 15 a 30 € por noche, con la mayoría de sitters en torno a 20 €. La guardería de día: 12-20 € al día, las visitas a domicilio 10-15 €, y los paseos 10-15 € por 30-60 minutos. Los precios son 30-40 % más bajos que Barcelona y Madrid."
+        },
+        {
+          "q": "¿Hay hoteles profesionales para perros en Zaragoza?",
+          "a": "Sí — varias residencias profesionales operan en las afueras (Casablanca, La Cartuja). Las plataformas internacionales (Rover, Pawshake) listan casi exclusivamente sitters privados que acogen perros en su propia casa, lo que la mayoría de viajeros prefiere a las residencias para perros socializados."
+        },
+        {
+          "q": "¿Puede un sitter llevar a mi perro al veterinario si es necesario?",
+          "a": "Sí — toda plataforma seria obliga contractualmente a los sitters a buscar atención veterinaria para cualquier problema de salud y reembolsa el coste vía el seguro de la plataforma hasta 15.000-25.000 €. Deja siempre el pasaporte europeo y tus datos de contacto al sitter."
+        }
       ]
     }
   }

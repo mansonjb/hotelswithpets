@@ -9402,6 +9402,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  stavanger: {
+    history: {
+      fr: `Stavanger, fondée comme bourg viking au VIIIe siècle puis bourg ecclésiastique en 1125 quand l'évêque Reinald y fit construire la cathédrale de pierre romane qui domine encore le centre-ville, est devenue au XXe siècle la « capitale du pétrole » norvégienne après la découverte des champs de la mer du Nord en 1969. Aujourd'hui troisième ville du pays (140 000 habitants), Stavanger combine un héritage industriel pétrolier (musée du pétrole sur le port) avec la plus grande vieille ville en bois préservée du nord de l'Europe (Gamle Stavanger, 173 maisons des XVIIIe-XIXe siècles) et l'iconique Preikestolen à 50 min à l'est. Pour les voyageurs avec un chien, c'est l'une des destinations européennes les plus dog-friendly : transports gratuits sans muselière sans billet (Kolumbus bus + ferries Lysefjord, Vy trains), randonnée du Preikestolen accessible aux chiens en laisse toute l'année, 35 km de sable atlantique dog-friendly à 15 min au sud (Solastranden, Borestranden), et un hôpital vétérinaire 24h/24 en périphérie.`,
+      en: `Stavanger, founded as a Viking village in the 8th century and an ecclesiastical town in 1125 when Bishop Reinald built the Romanesque stone cathedral that still dominates the city centre, became in the 20th century Norway's 'oil capital' after the 1969 North Sea oil discoveries. Now the country's third city (140,000 people), Stavanger combines an oil-industrial heritage (Petroleum Museum on the harbour) with the largest preserved wooden Old Town in northern Europe (Gamle Stavanger, 173 houses from the 18th-19th centuries) and the iconic Pulpit Rock 50 min east. For travellers with a dog, it's one of Europe's most dog-friendly destinations: free transport with no muzzle and no ticket required (Kolumbus buses + Lysefjord ferries, Vy trains), the Pulpit Rock hike accessible to leashed dogs year-round, 35 km of dog-friendly Atlantic sand 15 min south (Solastranden, Borestranden), and a 24/7 veterinary hospital on the city outskirts.`,
+      es: `Stavanger, fundada como bourg vikingo en el siglo VIII y como bourg eclesiástico en 1125 cuando el obispo Reinald hizo construir la catedral de piedra románica que aún domina el centro de la ciudad, se convirtió en el siglo XX en la « capital del petróleo » noruega tras los descubrimientos petrolíferos del Mar del Norte en 1969. Hoy tercera ciudad del país (140 000 habitantes), Stavanger combina un patrimonio industrial petrolero (Museo del Petróleo en el puerto) con el mayor casco antiguo de madera preservado del norte de Europa (Gamle Stavanger, 173 casas de los siglos XVIII-XIX) y el icónico Preikestolen a 50 min al este. Para los viajeros con perro, es uno de los destinos europeos más dog-friendly: transporte gratuito sin bozal y sin billete (buses Kolumbus + ferries Lysefjord, trenes Vy), caminata del Preikestolen accesible a perros con correa todo el año, 35 km de arena atlántica dog-friendly a 15 min al sur (Solastranden, Borestranden), y un hospital veterinario 24/7 en las afueras de la ciudad.`,
+    },
+    sights: [
+      { name: 'Gamle Stavanger', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `La plus grande vieille ville en bois préservée du nord de l'Europe — 173 maisons en bois blanches des XVIIIe-XIXe siècles. Ouverte 24h/24, dog-friendly partout.`,
+        en: `The largest preserved wooden Old Town in northern Europe — 173 white wooden houses from the 18th-19th centuries. Open 24/7, dog-friendly throughout.`,
+        es: `El mayor casco antiguo de madera preservado del norte de Europa — 173 casas de madera blancas de los siglos XVIII-XIX. Abierta 24/7, dog-friendly en todas partes.`,
+      }},
+      { name: 'Preikestolen (Pulpit Rock)', emoji: '🏔️', petFriendly: true, desc: {
+        fr: `L'iconique falaise verticale de 604 m au-dessus du Lysefjord — randonnée de 8 km aller-retour dog-friendly avec chien en laisse toute l'année. 50 min en voiture à l'est.`,
+        en: `The iconic 604 m vertical cliff above the Lysefjord — 8 km round-trip dog-friendly hike with leashed dog year-round. 50 min by car east.`,
+        es: `El icónico acantilado vertical de 604 m sobre el Lysefjord — caminata de 8 km ida y vuelta dog-friendly con perro con correa todo el año. 50 min en coche al este.`,
+      }},
+      { name: 'Vågen Harbour', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Port médiéval — abris à bateaux en bois, marché aux poissons, ferries Lysefjord, plus de 30 terrasses de café. Ouvert 24h/24, dog-friendly partout.`,
+        en: `Medieval harbour — wooden boathouses, fish market, Lysefjord ferries, 30+ café terraces. Open 24/7, dog-friendly throughout.`,
+        es: `Puerto medieval — almacenes de madera, lonja de pescado, ferries Lysefjord, más de 30 terrazas de café. Abierto 24/7, dog-friendly en todas partes.`,
+      }},
+      { name: 'Fargegata', emoji: '🌈', petFriendly: true, desc: {
+        fr: `La rue piétonne la plus colorée de Norvège — chaque devanture peinte d'une couleur différente. Ouverte 24h/24, dog-friendly partout.`,
+        en: `Norway's most colourful pedestrian street — every shopfront painted a different vibrant colour. Open 24/7, dog-friendly throughout.`,
+        es: `La calle peatonal más colorida de Noruega — cada escaparate pintado de un color diferente. Abierta 24/7, dog-friendly en todas partes.`,
+      }},
+      { name: 'Mosvatnet', emoji: '🦆', petFriendly: true, desc: {
+        fr: `Lac central de la ville avec circuit plat de 3 km — chemin pavé, canards, le circuit canin le plus populaire. Chiens en laisse (avril-août) ou sans laisse (sept-mars).`,
+        en: `Central city lake with a flat 3 km circuit — paved path, ducks, the city's most popular dog circuit. Leashed dogs (April-August) or off-leash (Sep-Mar).`,
+        es: `Lago central de la ciudad con circuito plano de 3 km — sendero pavimentado, patos, el circuito canino más popular. Perros con correa (abril-agosto) o sin correa (sep-mar).`,
+      }},
+      { name: 'Solastranden', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage de sable atlantique large de 2,3 km à 15 min au sud — l'une des meilleures plages canines de Norvège, accès toute l'année.`,
+        en: `2.3 km wide Atlantic sand beach 15 min south — one of Norway's best dog beaches, year-round access.`,
+        es: `Playa de arena atlántica amplia de 2,3 km a 15 min al sur — una de las mejores playas caninas de Noruega, acceso todo el año.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café norvégienne accueille les chiens par défaut — environ 75 % des cafés de Stavanger acceptent les chiens en laisse en salle principale toute l'année.`,
+        `Bus Kolumbus, trains Vy et ferries Lysefjord : chiens en laisse GRATUITS, sans muselière, sans billet — parmi les règles les plus généreuses d'Europe.`,
+        `8 hundepark municipaux clôturés ; loi laisse 1er avril - 19 août en zones non clôturées.`,
+        `Vétérinaire d'urgence 24h/24 : AniCura Stavanger Smådyrklinikk à Hillevåg (+47 51 56 03 00), 8 min en voiture ou bus 9.`,
+        `La Norvège exige un traitement contre le ténia (echinococcose) administré 24-120h avant l'arrivée — comme la Finlande, l'Irlande et Malte.`,
+      ],
+      en: [
+        `Norwegian café culture welcomes dogs by default — about 75% of Stavanger cafés accept leashed dogs in the main room year-round.`,
+        `Kolumbus buses, Vy trains and Lysefjord ferries: leashed dogs FREE, no muzzle, no ticket required — among the most generous rules in Europe.`,
+        `8 fenced municipal hundepark; leash law April 1 - August 19 in non-fenced zones.`,
+        `24/7 emergency vet: AniCura Stavanger Smådyrklinikk in Hillevåg (+47 51 56 03 00), 8 min by car or bus 9.`,
+        `Norway requires a tapeworm (echinococcosis) treatment administered 24-120h before arrival — same as Finland, Ireland and Malta.`,
+      ],
+      es: [
+        `La cultura del café noruega admite perros por defecto — alrededor del 75 % de los cafés de Stavanger acepta perros con correa en la sala principal todo el año.`,
+        `Buses Kolumbus, trenes Vy y ferries Lysefjord: perros con correa GRATIS, sin bozal, sin billete — de las normas más generosas de Europa.`,
+        `8 hundepark municipales valladas; ley de correa 1 abril - 19 agosto en zonas no valladas.`,
+        `Veterinario de urgencias 24/7: AniCura Stavanger Smådyrklinikk en Hillevåg (+47 51 56 03 00), 8 min en coche o bus 9.`,
+        `Noruega exige tratamiento contra la tenia (equinococosis) administrado 24-120h antes de la llegada — igual que Finlandia, Irlanda y Malta.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Norvège dans Schengen mais PAS dans l'UE : passeport européen + vaccin antirabique en cours + puce ISO + traitement ténia 24-120h avant l'arrivée.`,
+        `Trains Vy directs : Kristiansand 3h30, Oslo 8h — chiens en laisse gratuits en voitures pet-allowed.`,
+        `Aéroport Stavanger Sola (SVG) à 14 km au sud, accessible en bus 9 (40 min) ou Flybussen express (25 min) — tous deux dog-friendly. SAS, Norwegian, Wizz Air acceptent les petits chiens en cabine.`,
+        `Devise : couronne norvégienne (NOK), pas l'euro. Budget journalier dog-friendly : 1 000-1 500 NOK/jour (100-150 €) hors hébergement, parmi les plus élevés d'Europe.`,
+        `Excursions dog-friendly : Preikestolen (50 min en voiture, 8 km randonnée), croisière Lysefjord (3h depuis Vågen), Sandnes (14 km au sud, 25 min en train Vy).`,
+      ],
+      en: [
+        `Norway is in Schengen but NOT in the EU: EU pet passport + valid rabies vaccination + ISO microchip + tapeworm treatment 24-120h before arrival.`,
+        `Direct Vy trains: Kristiansand 3h30, Oslo 8h — leashed dogs free in pet-allowed carriages.`,
+        `Stavanger Sola Airport (SVG) 14 km south, accessible by bus 9 (40 min) or Flybussen express (25 min) — both dog-friendly. SAS, Norwegian, Wizz Air all accept in-cabin small dogs.`,
+        `Currency: Norwegian krone (NOK), not euro. Daily dog-friendly budget: 1,000-1,500 NOK/day (100-150 €) excluding accommodation, among the highest in Europe.`,
+        `Dog-friendly day trips: Pulpit Rock (50 min by car, 8 km hike), Lysefjord cruise (3h from Vågen), Sandnes (14 km south, 25 min by Vy train).`,
+      ],
+      es: [
+        `Noruega está en Schengen pero NO en la UE: pasaporte europeo + vacunación antirrábica vigente + microchip ISO + tratamiento contra la tenia 24-120h antes de la llegada.`,
+        `Trenes Vy directos: Kristiansand 3h30, Oslo 8h — perros con correa gratis en vagones pet-allowed.`,
+        `Aeropuerto Stavanger Sola (SVG) a 14 km al sur, accesible en bus 9 (40 min) o Flybussen express (25 min) — ambos dog-friendly. SAS, Norwegian, Wizz Air admiten todos perros pequeños en cabina.`,
+        `Moneda: corona noruega (NOK), no euro. Presupuesto diario dog-friendly: 1 000-1 500 NOK/día (100-150 €) sin alojamiento, de los más altos de Europa.`,
+        `Excursiones dog-friendly: Preikestolen (50 min en coche, 8 km caminata), crucero Lysefjord (3h desde Vågen), Sandnes (14 km al sur, 25 min en tren Vy).`,
+      ],
+    },
+  },
+
   stockholm: {
     history: {
       en: 'Stockholm — spread across 14 islands at the point where Lake Mälaren meets the Baltic — is a city that takes its relationship with nature seriously. Swedes are prolific dog owners (over 900,000 dogs nationwide, roughly one per ten people) and Stockholm\'s infrastructure reflects this: Djurgården island, the archipelago day trips and the city\'s extensive cycle and walking paths make it one of Europe\'s most naturally dog-friendly cities. The Gamla Stan (Old Town) island, with its 13th-century cobblestone alleys, is navigable with a calm dog; the surrounding water-city gives an almost unique sense of space for a European capital of 975,000 people.',

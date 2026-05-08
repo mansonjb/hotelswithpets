@@ -6303,6 +6303,79 @@
     }
   },
   {
+    "slug": "stavanger",
+    "name": "Stavanger",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/stavanger.jpg",
+    "intro": "Stavanger — Norway's third city and the gateway to the Lysefjord — combines a UNESCO-rated wooden Old Town (Gamle Stavanger), exceptionally dog-friendly transport (free buses, free trains, free fjord ferries), the iconic Pulpit Rock 50 min east, and 35 km of dog-friendly Atlantic sand 15 min south.",
+    "lat": 58.97,
+    "lng": 5.7331,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "stockholm",
     "name": "Stockholm",
     "country": "Sweden",

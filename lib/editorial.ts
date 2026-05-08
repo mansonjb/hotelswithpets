@@ -452,6 +452,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
       area: 'Meje, the Old Town surroundings, and the Manuš neighbourhood',
     },
+    stavanger: {
+      personality: `Norway's third city and the gateway to the Lysefjord — a UNESCO-rated wooden Old Town (Gamle Stavanger), exceptionally dog-friendly transport (free buses, free trains, free fjord ferries), the iconic Pulpit Rock 50 min east, and 35 km of dog-friendly Atlantic sand 15 min south`,
+      highlight: `Pulpit Rock (Preikestolen) hike with leashed dog, the Lysefjord cruise, and Solastranden Atlantic dog beach 15 min from the centre`,
+      area: `the Vågen harbour and Gamle Stavanger wooden Old Town, the colourful Fargegata street, and the Mosvatnet lake quarter`,
+    },
     stockholm: {
       personality: 'a city where dogs are part of the fabric of daily life. On ferries, in cafés, and across the archipelago islands',
       highlight: 'Djurgården island, Hagaparken, and the archipelago trail network',
@@ -989,6 +994,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc forestier de la colline Marjan, la zone chiens de la plage de Bačvice et le sentier côtier vers Stobreč',
       area: 'Meje, les environs de la Vieille Ville et le quartier de Manuš',
     },
+    stavanger: {
+      personality: `la troisième ville de Norvège et porte d'entrée du Lysefjord — vieille ville en bois classée UNESCO (Gamle Stavanger), transports exceptionnellement dog-friendly (bus, trains, ferries de fjord gratuits), l'iconique Preikestolen à 50 min à l'est, et 35 km de sable atlantique dog-friendly à 15 min au sud`,
+      highlight: `la randonnée du Preikestolen avec chien en laisse, la croisière du Lysefjord et la plage atlantique de Solastranden à 15 min du centre`,
+      area: `le port du Vågen et la vieille ville en bois Gamle Stavanger, la rue colorée Fargegata et le quartier du lac Mosvatnet`,
+    },
     stockholm: {
       personality: 'une ville où les chiens font partie du tissu de la vie quotidienne. Sur les ferries, dans les cafés et à travers les îles de l\'archipel',
       highlight: 'l\'île de Djurgården, Hagaparken et le réseau de sentiers de l\'archipel',
@@ -1525,6 +1535,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una relajada ciudad costera croata donde el paseo marítimo adriático, el antiguo Palacio de Diocleciano y una actitud local distendida la convierten en un destino destacado para los dueños de mascotas',
       highlight: 'el parque forestal de la colina Marjan, la zona para perros de la playa de Bačvice y el sendero costero hacia Stobreč',
       area: 'Meje, los alrededores del Casco Antiguo y el barrio de Manuš',
+    },
+    stavanger: {
+      personality: `la tercera ciudad de Noruega y puerta de entrada al Lysefjord — casco antiguo de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente dog-friendly (buses, trenes, ferries de fiordo gratis), el icónico Preikestolen a 50 min al este, y 35 km de arena atlántica dog-friendly a 15 min al sur`,
+      highlight: `la caminata del Preikestolen con perro con correa, el crucero del Lysefjord y la playa atlántica de Solastranden a 15 min del centro`,
+      area: `el puerto del Vågen y el casco antiguo de madera Gamle Stavanger, la colorida calle Fargegata y el barrio del lago Mosvatnet`,
     },
     stockholm: {
       personality: 'una ciudad donde los perros forman parte del tejido de la vida cotidiana. En ferries, en cafés y a través de las islas del archipiélago',

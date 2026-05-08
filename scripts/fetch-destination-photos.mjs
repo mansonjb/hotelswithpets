@@ -86,6 +86,7 @@ const TARGETS = [
   { slug: 'basel', query: 'Basel Switzerland Munster cathedral red sandstone Rhine river Mittlere Brucke Altstadt panorama sunset' },
   { slug: 'faro', query: 'Faro Portugal Arco da Vila Cidade Velha Cathedral Ria Formosa Algarve panorama sunset' },
   { slug: 'avignon', query: 'Avignon France Palais des Papes Pont Saint Benezet Rocher des Doms Provence panorama sunset' },
+  { slug: 'stavanger', query: 'Stavanger Norway Gamle Stavanger wooden Old Town Vågen harbour Lysefjord panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

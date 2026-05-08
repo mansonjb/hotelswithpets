@@ -13420,6 +13420,131 @@
     "slug": "diocletian-palace-hotel"
   },
   {
+    "id": "stavanger-1",
+    "name": "Radisson Blu Atlantic Hotel Stavanger",
+    "destinationSlug": "stavanger",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3240,
+    "priceFrom": 230,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/radisson-blu-atlantic-stavanger.en-gb.html",
+    "petFee": 300,
+    "petPolicy": "Radisson Blu Atlantic Hotel Stavanger — a 4-star hotel facing the Mosvatnet lake — welcomes pets at 300 NOK per night. Up to two pets per room with a recommended max 25 kg per pet. Mosvatnet circuit at the doorstep, Vågen harbour 8 min on foot. Pets on lead in lobbies; not allowed in the rooftop bar.",
+    "highlights": [
+      "Free WiFi",
+      "Lake views",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "radisson-blu-atlantic-stavanger"
+  },
+  {
+    "id": "stavanger-2",
+    "name": "Clarion Collection Hotel Skagen Brygge",
+    "destinationSlug": "stavanger",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2640,
+    "priceFrom": 2100,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/skagen-brygge.en-gb.html",
+    "petFee": 250,
+    "petPolicy": "Clarion Collection Hotel Skagen Brygge — a 4-star boutique hotel in restored 19th-century wooden warehouses on the Vågen harbour — welcomes pets at 250 NOK per night. Up to two pets per room. Vågen ferry pier and Gamle Stavanger 3 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Harbour views",
+      "Free dinner",
+      "Sauna"
+    ],
+    "slug": "clarion-collection-skagen-brygge"
+  },
+  {
+    "id": "stavanger-3",
+    "name": "Thon Hotel Stavanger",
+    "destinationSlug": "stavanger",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 3120,
+    "priceFrom": 1450,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/thon-stavanger.en-gb.html",
+    "petFee": 200,
+    "petPolicy": "Thon Hotel Stavanger — a 3-star hotel near the train station — welcomes pets at 200 NOK per night. Up to two pets per room. Vågen harbour 5 min on foot, Mosvatnet 6 min. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Free breakfast",
+      "Restaurant"
+    ],
+    "slug": "thon-hotel-stavanger"
+  },
+  {
+    "id": "stavanger-4",
+    "name": "Comfort Hotel Square",
+    "destinationSlug": "stavanger",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2840,
+    "priceFrom": 1320,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/comfort-square-stavanger.en-gb.html",
+    "petFee": 200,
+    "petPolicy": "Comfort Hotel Square — a 3-star hotel between the train station and the Vågen — welcomes pets at 200 NOK per night. Up to two pets per room. Vågen and Stavanger Cathedral 4 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "24h gym",
+      "Free coffee"
+    ],
+    "slug": "comfort-hotel-square-stavanger"
+  },
+  {
+    "id": "stavanger-5",
+    "name": "Scandic Stavanger City",
+    "destinationSlug": "stavanger",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3520,
+    "priceFrom": 1580,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/scandic-stavanger-city.en-gb.html",
+    "petFee": 250,
+    "petPolicy": "Scandic Stavanger City — a 4-star hotel near the Stavanger Cathedral — welcomes dogs at 250 NOK per night. One dog per room standard, second on prior request. Vågen 5 min on foot, Mosvatnet 8 min.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Sauna"
+    ],
+    "slug": "scandic-stavanger-city"
+  },
+  {
     "id": "stockholm-1",
     "name": "Lydmar Hotel",
     "destinationSlug": "stockholm",

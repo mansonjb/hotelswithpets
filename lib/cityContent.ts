@@ -3760,6 +3760,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  evora: {
+    history: {
+      fr: `Évora, fondée à l'époque romaine sous le nom d'Ebora Liberalitas Iulia (1er siècle av. J.-C.), garde un Temple romain dédié à l'empereur Auguste — le mieux préservé de la péninsule ibérique. Successivement wisigothique, mauresque (Yābora, 715-1166) puis chrétienne, Évora fut résidence royale aux XVe-XVIe siècles et accueillit la deuxième université du Portugal en 1559. Aujourd'hui capitale de l'Alentejo (54 000 habitants) et inscrite au patrimoine mondial UNESCO depuis 1986, c'est un musée à ciel ouvert où Temple romain, cathédrale gothique, palais Renaissance et l'inquiétante Capela dos Ossos (5 000 squelettes ornant les murs) se côtoient sur 1,1 km² de Centro Histórico. Pour les voyageurs avec un chien, Évora est l'une des destinations UNESCO les plus accessibles d'Europe : Centro Histórico piéton en 20 min, culture tasca alentejane tolérante par défaut, sentiers du montado de chênes-lièges juste aux portes, et accès CP direct depuis Lisbonne en 1h30.`,
+      en: `Évora, founded in Roman times as Ebora Liberalitas Iulia (1st century BC), preserves a Roman Temple dedicated to Emperor Augustus — the best-preserved on the Iberian peninsula. Successively Visigothic, Moorish (Yābora, 715-1166) and Christian, Évora was a royal residence in the 15th-16th centuries and hosted Portugal's second university in 1559. Now the capital of the Alentejo (54,000 people) and a UNESCO World Heritage site since 1986, it's an open-air museum where the Roman Temple, Gothic cathedral, Renaissance palaces and the eerie Capela dos Ossos (5,000 skeletons lining the walls) coexist on 1.1 km² of Centro Histórico. For travellers with a dog, Évora is one of Europe's most accessible UNESCO destinations: walkable Centro Histórico in 20 min, dog-tolerant Alentejano tasca culture by default, cork-oak montado trails just outside the walls, and direct CP rail link from Lisbon in 1h30.`,
+      es: `Évora, fundada en época romana como Ebora Liberalitas Iulia (siglo I a. C.), conserva un Templo romano dedicado al emperador Augusto — el mejor conservado de la península ibérica. Sucesivamente visigoda, morisca (Yābora, 715-1166) y cristiana, Évora fue residencia real en los siglos XV-XVI y acogió la segunda universidad de Portugal en 1559. Hoy capital del Alentejo (54 000 habitantes) e inscrita en el patrimonio mundial UNESCO desde 1986, es un museo al aire libre donde el Templo romano, la catedral gótica, palacios renacentistas y la inquietante Capela dos Ossos (5 000 esqueletos cubriendo las paredes) coexisten en 1,1 km² de Centro Histórico. Para los viajeros con perro, Évora es uno de los destinos UNESCO más accesibles de Europa: Centro Histórico peatonal en 20 min, cultura de tasca alentejana tolerante por defecto, senderos del montado de alcornoques justo fuera de las murallas, y enlace directo CP desde Lisboa en 1h30.`,
+    },
+    sights: [
+      { name: 'Templo Romano de Évora', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Temple romain de 2 000 ans dédié à Auguste — le mieux préservé d'Ibérie. Vue extérieure 24h/24, dog-friendly avec chiens en laisse.`,
+        en: `2,000-year-old Roman Temple dedicated to Augustus — best-preserved on the Iberian peninsula. Outdoor view 24/7, dog-friendly with leashed dogs.`,
+        es: `Templo romano de 2 000 años dedicado a Augusto — el mejor conservado de Iberia. Vista exterior 24/7, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Praça do Giraldo', emoji: '⛲', petFriendly: true, desc: {
+        fr: `Place centrale principale — fontaine, arcades du XVIe siècle, terrasses de café tout autour. Ouverte 24h/24, dog-friendly.`,
+        en: `Main central square — fountain, 16th-century arcades, café terraces all around. Open 24/7, dog-friendly.`,
+        es: `Plaza central principal — fuente, arcadas del siglo XVI, terrazas de café alrededor. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Cromeleque dos Almendres', emoji: '🪨', petFriendly: true, desc: {
+        fr: `Plus grand cromlech d'Ibérie (95 menhirs, 6 000 av. J.-C.) — 7 000 ans plus ancien que Stonehenge. 15 km à l'ouest, dog-friendly avec chiens en laisse.`,
+        en: `Largest megalithic stone circle in Iberia (95 standing stones, c. 6,000 BC) — 7,000 years older than Stonehenge. 15 km west, dog-friendly with leashed dogs.`,
+        es: `Mayor crómlech de Iberia (95 menhires, c. 6 000 a. C.) — 7 000 años más antiguo que Stonehenge. 15 km al oeste, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Évora City Walls', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Remparts médiévaux du XIVe-XVIIe siècles ceinturant le Centro Histórico — promenade de 4 km dog-friendly avec chiens en laisse.`,
+        en: `14th-17th century medieval walls encircling the Centro Histórico — 4 km dog-friendly walk with leashed dogs.`,
+        es: `Murallas medievales de los siglos XIV-XVII que rodean el Centro Histórico — paseo de 4 km dog-friendly con perros con correa.`,
+      }},
+      { name: 'Jardim Público', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin central principal de 3 ha — allées sous les pins, palais ruiné de Dom Manuel, étangs ornementaux. Dog-friendly avec chiens en laisse.`,
+        en: `3-hectare main central garden — pine-shaded allées, ruined Palace of Dom Manuel, ornamental ponds. Dog-friendly with leashed dogs.`,
+        es: `Jardín central principal de 3 ha — paseos sombreados por pinos, palacio en ruinas de Dom Manuel, estanques ornamentales. Dog-friendly con perros con correa.`,
+      }},
+      { name: 'Lago Alqueva', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Le plus grand lac artificiel d'Europe (250 km²) à 50 min à l'est — eau Classe A, plages canines toute l'année à Monsaraz et Mourão.`,
+        en: `Europe's largest artificial lake (250 km²) 50 min east — Class A water, year-round dog beaches at Monsaraz and Mourão.`,
+        es: `El mayor lago artificial de Europa (250 km²) a 50 min al este — agua Clase A, playas caninas todo el año en Monsaraz y Mourão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture tasca alentejane accueille les chiens par défaut — environ 80 % des cafés et tabernas d'Évora acceptent les chiens en laisse en terrasse toute l'année.`,
+        `Bus Trevo + petits parcours intra-muros : navette gratuite du Centro Histórico (chiens en laisse OK) ; chiens moyens/grands en bus régulier exigent muselière + billet demi-tarif.`,
+        `Trains CP Intercidades Lisbonne-Évora en 1h30 : petits chiens en cage gratuits, grands à demi-tarif + muselière.`,
+        `Vétérinaire d'urgence 24h/24 : Hospital Veterinário Évora, Estrada da Circunvalação 25 (+351 266 745 050), 10 min en voiture du centre.`,
+        `Forte chaleur estivale (35-40 °C juillet-août) — limitez les promenades canines avant 9h et après 19h ; les remparts en pierre rayonnent jusqu'à 22h.`,
+      ],
+      en: [
+        `Alentejano tasca culture welcomes dogs by default — about 80% of Évora cafés and tabernas accept leashed dogs on the terrace year-round.`,
+        `Trevo buses + intra-muros free shuttle: leashed dogs OK on the Centro Histórico shuttle; medium/large dogs on regular buses need muzzle + half-fare ticket.`,
+        `CP Intercidades trains Lisbon-Évora in 1h30: small dogs in carrier free, larger at half-fare + muzzle.`,
+        `24/7 emergency vet: Hospital Veterinário Évora, Estrada da Circunvalação 25 (+351 266 745 050), 10 min by car from the centre.`,
+        `High summer heat (35-40 °C July-August) — limit dog walks to before 9 AM and after 7 PM; stone city walls radiate heat until 10 PM.`,
+      ],
+      es: [
+        `La cultura tasca alentejana admite perros por defecto — alrededor del 80 % de los cafés y tabernas de Évora acepta perros con correa en terraza todo el año.`,
+        `Buses Trevo + lanzadera gratuita intra-muros: perros con correa OK en la lanzadera del Centro Histórico; perros medianos/grandes en buses regulares requieren bozal + billete a media tarifa.`,
+        `Trenes CP Intercidades Lisboa-Évora en 1h30: perros pequeños en transportín gratis, grandes a media tarifa + bozal.`,
+        `Veterinario de urgencias 24/7: Hospital Veterinário Évora, Estrada da Circunvalação 25 (+351 266 745 050), 10 min en coche del centro.`,
+        `Calor estival alto (35-40 °C julio-agosto) — limita los paseos caninos antes de las 9 y después de las 19; las murallas de piedra irradian calor hasta las 22.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Portugal dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains CP directs : Lisbonne Oriente 1h30 (Intercidades), Beja 45 min, Faro 3h30 — petits chiens en cage gratuits, grands à demi-tarif + muselière.`,
+        `Aéroport de Lisbonne (LIS) à 1h30 en train CP direct + 30 min en navette Aerobus — le hub international dog-friendly le plus proche.`,
+        `Devise : euro. Budget journalier dog-friendly : 50-75 €/jour hors hébergement, parmi les plus bas du sud de l'Europe (au niveau de Faro).`,
+        `Festivals à éviter avec un chien anxieux : Feira de São João (juin, foire annuelle), Festas de São Pedro (juin), Holy Week processions (avril).`,
+      ],
+      en: [
+        `Portugal is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct CP trains: Lisbon Oriente 1h30 (Intercidades), Beja 45 min, Faro 3h30 — small dogs in carrier free, larger at half-fare + muzzle.`,
+        `Lisbon Airport (LIS) 1h30 by direct CP train + 30 min Aerobus shuttle — the closest dog-friendly international hub.`,
+        `Currency: euro. Daily dog-friendly budget: 50-75 €/day excluding accommodation, among southern Europe's lowest (on par with Faro).`,
+        `Festivals to avoid with an anxious dog: Feira de São João (June, annual fair), Festas de São Pedro (June), Holy Week processions (April).`,
+      ],
+      es: [
+        `Portugal está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes CP directos: Lisboa Oriente 1h30 (Intercidades), Beja 45 min, Faro 3h30 — perros pequeños en transportín gratis, grandes a media tarifa + bozal.`,
+        `Aeropuerto de Lisboa (LIS) a 1h30 en tren CP directo + 30 min en lanzadera Aerobus — el hub internacional dog-friendly más cercano.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos del sur de Europa (al nivel de Faro).`,
+        `Festivales a evitar con perro ansioso: Feira de São João (junio, feria anual), Festas de São Pedro (junio), procesiones de Semana Santa (abril).`,
+      ],
+    },
+  },
+
   faro: {
     history: {
       fr: `Faro, fondée à l'époque romaine sous le nom d'Ossonoba, fut occupée par les Wisigoths puis par les Maures (qui lui donnèrent son nom moderne, dérivé du fondateur Harun ibn Habib) jusqu'à la reconquête chrétienne d'Alphonse III du Portugal en 1249. Le tremblement de terre de Lisbonne de 1755 dévasta la ville, qui fut reconstruite dans son style néoclassique actuel autour de la Cidade Velha médiévale toujours debout. Aujourd'hui capitale administrative et universitaire de l'Algarve (66 000 habitants), Faro est aussi la porte d'entrée touristique du sud du Portugal grâce à son aéroport international (FAO) avec vols directs depuis 30+ villes européennes. Pour les voyageurs avec un chien, Faro est l'une des destinations atlantiques dog-friendly les plus complètes : Cidade Velha piétonne en 15 min, parc naturel de la Ria Formosa de 18 000 hectares à l'orée de la ville, plages canines toute l'année sur les îles barrières via ferries, hôpital vétérinaire 24h/24 dans le centre, et suppléments animaux 8-12 €/nuit — parmi les plus bas du sud de l'Europe.`,

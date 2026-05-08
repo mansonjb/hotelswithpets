@@ -5386,6 +5386,133 @@
     "slug": "w-edinburgh"
   },
   {
+    "id": "evora-1",
+    "name": "Convento do Espinheiro",
+    "destinationSlug": "evora",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2240,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/conventodoespinheiro.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Convento do Espinheiro — a five-star Marriott Luxury Collection hotel in a 15th-century Hieronymite monastery 4 km from the centre — welcomes pets in selected room categories. Pet fee 20 € per night. Up to two pets per room with a recommended max 25 kg per pet. Centro Histórico 8 min by car. Pets on lead in lobbies; not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Outdoor pool",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "convento-do-espinheiro"
+  },
+  {
+    "id": "evora-2",
+    "name": "Pousada Convento de Évora",
+    "destinationSlug": "evora",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2640,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-convento-de-evora.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Pousada Convento de Évora — a 4-star Pousada in the 15th-century Convent of Lóios facing the Roman Temple — welcomes pets at 15 € per night. Up to two pets per room. Roman Temple at the doorstep, Praça do Giraldo 5 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Outdoor pool",
+      "Restaurant",
+      "Cloister courtyard"
+    ],
+    "slug": "pousada-convento-evora"
+  },
+  {
+    "id": "evora-3",
+    "name": "Vitoria Stone Hotel",
+    "destinationSlug": "evora",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2140,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vitoria-stone.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Vitoria Stone Hotel — a 4-star design hotel near the Centro Histórico — welcomes pets at 12 € per night. Up to two pets per room. Praça do Giraldo 8 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Outdoor pool",
+      "Restaurant",
+      "Wine cellar"
+    ],
+    "slug": "vitoria-stone-hotel"
+  },
+  {
+    "id": "evora-4",
+    "name": "Hotel Évora Inn Chiado Design",
+    "destinationSlug": "evora",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 2840,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/hotel-evora-inn-chiado-design.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Évora Inn Chiado Design — a 3-star design hotel on Rua da República — welcomes pets at 10 € per night. Up to two pets per room. Praça do Giraldo 3 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Design rooms",
+      "Family rooms"
+    ],
+    "slug": "hotel-evora-inn-chiado-design"
+  },
+  {
+    "id": "evora-5",
+    "name": "Casa do Foral",
+    "destinationSlug": "evora",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 2420,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-do-foral.en-gb.html",
+    "petFee": 8,
+    "petPolicy": "Casa do Foral — a 3-star family-run guesthouse in a 16th-century townhouse — welcomes dogs at 8 € per night. One pet per room standard, second on prior request. Praça do Giraldo 2 min on foot.",
+    "highlights": [
+      "Free WiFi",
+      "Family-run",
+      "Heritage building"
+    ],
+    "slug": "casa-do-foral"
+  },
+  {
     "id": "faro-1",
     "name": "Eva Senses Hotel",
     "destinationSlug": "faro",

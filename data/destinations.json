@@ -2566,6 +2566,79 @@
     }
   },
   {
+    "slug": "evora",
+    "name": "Évora",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/evora.jpg",
+    "intro": "Évora — the Alentejano UNESCO capital and former Roman, Visigoth and Moorish town — combines a 2,000-year-old Roman Temple, the eerie Capela dos Ossos (Bone Chapel), one of Iberia's largest medieval city wall circuits, and direct CP rail access from Lisbon in 1h30.",
+    "lat": 38.5667,
+    "lng": -7.9,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "faro",
     "name": "Faro",
     "country": "Portugal",

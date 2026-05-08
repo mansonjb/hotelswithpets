@@ -89,6 +89,7 @@ const TARGETS = [
   { slug: 'stavanger', query: 'Stavanger Norway Gamle Stavanger wooden Old Town Vågen harbour Lysefjord panorama sunset' },
   { slug: 'zaragoza', query: 'Zaragoza Spain Basilica del Pilar Ebro river Puente de Piedra panorama sunset' },
   { slug: 'toledo', query: 'Toledo Spain Mirador del Valle Casco Historico Cathedral Alcazar Tagus gorge panorama sunset' },
+  { slug: 'evora', query: 'Evora Portugal Roman Temple Praca do Giraldo Cathedral Alentejo cork oak panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

@@ -196,6 +196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Arthur\'s Seat (off-leash), Holyrood Park, and the Water of Leith walkway',
       area: 'Stockbridge, Leith, and the New Town',
     },
+    evora: {
+      personality: `the Alentejano UNESCO capital and former Roman, Visigoth and Moorish town — a 2,000-year-old Roman Temple, the eerie Capela dos Ossos, one of Iberia's largest medieval city wall circuits, and direct CP rail access from Lisbon in 1h30`,
+      highlight: `the Roman Temple of Évora, the Cromeleque dos Almendres megalithic site (7,000 years older than Stonehenge), and the Lago Alqueva dog beaches at Monsaraz`,
+      area: `the Centro Histórico around Praça do Giraldo, the Roman Temple area on Largo do Conde de Vila Flor, and the Alentejo wine route just outside the walls`,
+    },
     faro: {
       personality: `the Algarve capital and gateway to Portugal's southern coast — a UNESCO-rated Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and the lowest pet supplements in southern Europe`,
       highlight: `the Cidade Velha and Arco da Vila stork gate, the Ria Formosa boardwalk to the salt pans, and the Ilha Deserta wild Atlantic dog beach by ferry`,
@@ -744,6 +749,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Arthur\'s Seat (sans laisse), le Holyrood Park et le sentier riverain Water of Leith',
       area: 'Stockbridge, Leith et le New Town',
     },
+    evora: {
+      personality: `la capitale UNESCO alentejane et ancienne ville romaine, wisigothique et mauresque — Temple romain de 2 000 ans, l'inquiétante Capela dos Ossos, l'un des plus grands circuits de remparts médiévaux d'Ibérie, et un accès direct CP depuis Lisbonne en 1h30`,
+      highlight: `le Temple romain d'Évora, le site mégalithique du Cromeleque dos Almendres (7 000 ans plus ancien que Stonehenge), et les plages canines du lac Alqueva à Monsaraz`,
+      area: `le Centro Histórico autour de la Praça do Giraldo, le quartier du Temple romain sur le Largo do Conde de Vila Flor, et la route des vins de l'Alentejo juste en dehors des murs`,
+    },
     faro: {
       personality: `la capitale de l'Algarve et la porte d'entrée de la côte sud du Portugal — Cidade Velha classée UNESCO, parc naturel de la Ria Formosa de 18 000 ha avec ses boardwalks aux flamants toute l'année, plages canines atlantiques sur îles barrières en ferry, et les suppléments animaux les plus bas du sud de l'Europe`,
       highlight: `la Cidade Velha et l'Arco da Vila avec ses cigognes, le boardwalk de la Ria Formosa vers les marais salants, et la plage canine sauvage atlantique de l'Ilha Deserta en ferry`,
@@ -1290,6 +1300,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades más dog-friendly de Gran Bretaña. Con colinas sin correa, pubs que admiten perros en cada calle y una cultura que trata a los perros como miembros plenos de la familia',
       highlight: 'Arthur\'s Seat (sin correa), el Holyrood Park y el sendero ribereño Water of Leith',
       area: 'Stockbridge, Leith y el New Town',
+    },
+    evora: {
+      personality: `la capital UNESCO alentejana y antigua ciudad romana, visigoda y morisca — Templo romano de 2 000 años, la inquietante Capela dos Ossos, uno de los mayores circuitos de murallas medievales de Iberia, y acceso directo CP desde Lisboa en 1h30`,
+      highlight: `el Templo romano de Évora, el sitio megalítico del Cromeleque dos Almendres (7 000 años más antiguo que Stonehenge), y las playas caninas del lago Alqueva en Monsaraz`,
+      area: `el Centro Histórico alrededor de la Praça do Giraldo, la zona del Templo romano en el Largo do Conde de Vila Flor, y la ruta del vino del Alentejo justo fuera de las murallas`,
     },
     faro: {
       personality: `la capital del Algarve y la puerta de entrada a la costa sur de Portugal — Cidade Velha clasificada UNESCO, parque natural de la Ria Formosa de 18 000 ha con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera en ferry, y los suplementos para mascotas más bajos del sur de Europa`,

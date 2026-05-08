@@ -46,6 +46,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
       area: 'Koukaki, Monastiraki, and Pangrati',
     },
+    avignon: {
+      personality: `the Provençal capital and former seat of seven popes — a UNESCO-rated walled centro storico, the towering Palais des Papes (Europe's largest Gothic palace), the legendary Pont Saint-Bénézet on the Rhône, and direct TGV access from Paris in 2h40`,
+      highlight: `the Place du Palais des Papes, the Rocher des Doms gardens with the iconic city panorama, and the île de la Barthelasse with 4 km of Rhône-bank dog walking`,
+      area: `the intra-muros around the Palais des Papes, the Rue des Teinturiers and Place de l'Horloge bistrot quarter, and the île de la Barthelasse across the river`,
+    },
     barcelona: {
       personality: 'a Mediterranean city where pet ownership is high and hotels are catching up',
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
@@ -542,6 +547,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Maksimir Park, the medieval Upper Town, and the Jarun lake dog-beach sections',
       area: 'Donji Grad, Gornji Grad, and the Maksimir lakes district',
     },
+    zaragoza: {
+      personality: `Aragon's capital and Spain's fifth-largest city — anchored by the Basílica del Pilar on the Ebro and built around 126 designated off-leash zones, one of the densest pet-friendly park networks in Spain, plus AniCura Emvet 24/7 referral hospital`,
+      highlight: `the 27-hectare Parque Grande Labordeta, the fenced canine zone in Parque del Tío Jorge, and the riverside walks along the Riberas del Ebro`,
+      area: `the Casco Histórico around El Pilar, the leafy Centro on Paseo de Sagasta, and the Magdalena tapas quarter`,
+    },
     zurich: {
       personality: 'a city that ranks among Europe\'s most dog-friendly. With dedicated dog zones on lake beaches, dog-friendly trams, and pet passports accepted everywhere',
       highlight: 'the Zürichsee lakefront, Uetliberg hill, and the Sihl river trails',
@@ -573,6 +583,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une capitale méditerranéenne ensoleillée qui surprend les voyageurs avec animaux par ses quartiers praticables et une scène hôtelière boutique accueillant les chiens toute l\'année',
       highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
       area: 'Koukaki, Monastiraki et Pangrati',
+    },
+    avignon: {
+      personality: `la capitale de la Provence et siège de sept papes — centro storico fortifié classé UNESCO, l'imposant Palais des Papes (le plus grand palais gothique d'Europe), le légendaire Pont Saint-Bénézet sur le Rhône, et un accès TGV direct depuis Paris en 2h40`,
+      highlight: `la Place du Palais des Papes, les jardins du Rocher des Doms avec le panorama iconique, et l'île de la Barthelasse avec 4 km de promenade canine au bord du Rhône`,
+      area: `l'intra-muros autour du Palais des Papes, le quartier bistrot de la Rue des Teinturiers et de la Place de l'Horloge, et l'île de la Barthelasse de l'autre côté du fleuve`,
     },
     barcelona: {
       personality: 'une ville méditerranéenne où la possession d\'animaux est élevée et les hôtels s\'y adaptent',
@@ -1069,6 +1084,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le parc Maksimir, la Ville Haute médiévale et les sections plage canine du lac Jarun`,
       area: `Donji Grad, Gornji Grad et le quartier des lacs de Maksimir`,
     },
+    zaragoza: {
+      personality: `la capitale de l'Aragon et cinquième ville d'Espagne — ancrée par la Basílica del Pilar sur l'Ebre et bâtie autour de 126 zones sans laisse désignées, l'un des réseaux dog-friendly les plus denses d'Espagne, plus l'hôpital de référence AniCura Emvet 24h/24`,
+      highlight: `le Parque Grande Labordeta de 27 hectares, l'enclos canin du Parque del Tío Jorge et les promenades fluviales des Riberas del Ebro`,
+      area: `le Casco Histórico autour d'El Pilar, le Centro arboré sur Paseo de Sagasta et le quartier à tapas Magdalena`,
+    },
     zurich: {
       personality: 'une ville qui figure parmi les plus dog-friendly d\'Europe. Avec des zones dédiées aux chiens sur les plages, des tramways dog-friendly et les passeports pour animaux acceptés partout',
       highlight: 'le front de lac du Zürichsee, la colline de l\'Uetliberg et les sentiers de la rivière Sihl',
@@ -1100,6 +1120,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital mediterránea bañada por el sol que sorprende a los viajeros con mascotas con sus barrios transitables y una creciente escena de hoteles boutique que acogen perros todo el año',
       highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
       area: 'Koukaki, Monastiraki y Pangrati',
+    },
+    avignon: {
+      personality: `la capital de Provenza y antigua sede de siete papas — centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas (el mayor palacio gótico de Europa), el legendario Pont Saint-Bénézet sobre el Ródano, y acceso TGV directo desde París en 2h40`,
+      highlight: `la Place du Palais des Papes, los jardines del Rocher des Doms con el panorama icónico, y la île de la Barthelasse con 4 km de paseo canino junto al Ródano`,
+      area: `el intra-muros alrededor del Palacio de los Papas, el barrio bistró de la Rue des Teinturiers y la Place de l'Horloge, y la île de la Barthelasse al otro lado del río`,
     },
     barcelona: {
       personality: 'una ciudad mediterránea donde la tenencia de mascotas es alta y los hoteles se están adaptando',

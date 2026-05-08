@@ -367,6 +367,79 @@
     }
   },
   {
+    "slug": "avignon",
+    "name": "Avignon",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/avignon.jpg",
+    "intro": "Avignon — the Provençal capital and former seat of seven popes — combines a UNESCO-rated walled centro storico, the towering Palais des Papes, the legendary Pont Saint-Bénézet, and direct TGV access from Paris in 2h40.",
+    "lat": 43.9493,
+    "lng": 4.8055,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "barcelona",
     "name": "Barcelona",
     "country": "Spain",
@@ -7618,6 +7691,79 @@
         "temp": 2,
         "desc": "Cold & grey",
         "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "zaragoza",
+    "name": "Zaragoza",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/zaragoza.jpg",
+    "intro": "Aragon's capital — Spain's fifth-largest city (675,000 people) anchored by the Basílica del Pilar on the Ebro river, with 126 designated off-leash zones (one of the largest networks of any Spanish city), the 27-hectare Parque Grande Labordeta, and AniCura Emvet 24/7 referral hospital.",
+    "lat": 41.6488,
+    "lng": -0.8891,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cold, dry, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool, often sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild, breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild, occasional rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot, sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Very hot, dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Very hot, dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild, sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold, dry, foggy",
+        "icon": "🌫️"
       }
     }
   },

@@ -856,6 +856,130 @@
     "slug": "attalos-hotel"
   },
   {
+    "id": "avignon-1",
+    "name": "La Mirande",
+    "destinationSlug": "avignon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1240,
+    "priceFrom": 420,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/lamirande.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "La Mirande — a five-star Relais & Châteaux property in a 14th-century cardinal's palace at the foot of the Palais des Papes — welcomes pets in selected room categories. A pet fee of 30 € per night applies. Up to two pets per room. Palais des Papes 50 m on foot. Pets on lead in lobbies; not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Cardinal's palace",
+      "Michelin restaurant"
+    ],
+    "slug": "la-mirande-avignon"
+  },
+  {
+    "id": "avignon-2",
+    "name": "Hôtel d'Europe",
+    "destinationSlug": "avignon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2340,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/d-europe.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hôtel d'Europe — a 4-star Relais & Châteaux property in a 16th-century palace where Napoleon stayed — welcomes pets at 25 € per night. Up to two pets per room. Place Crillon at the doorstep, Palais des Papes 5 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Patio garden"
+    ],
+    "slug": "hotel-d-europe-avignon"
+  },
+  {
+    "id": "avignon-3",
+    "name": "Hôtel Cloître Saint Louis",
+    "destinationSlug": "avignon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2640,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/cloitre-saint-louis.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Hôtel Cloître Saint Louis — a 4-star hotel inside a 16th-century Jesuit cloister near the Festival d'Avignon hub — welcomes pets at 20 € per night. Up to two pets per room. Cloister courtyard with rooftop pool. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Cloister courtyard"
+    ],
+    "slug": "cloitre-saint-louis-avignon"
+  },
+  {
+    "id": "avignon-4",
+    "name": "Mercure Avignon Centre Palais des Papes",
+    "destinationSlug": "avignon",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3140,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-avignon-centre-palais-des-papes.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Mercure Avignon Centre Palais des Papes — a 4-star hotel facing the Palais des Papes — welcomes pets at 15 € per night. Up to two pets per room. Palais des Papes at the doorstep. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Central location"
+    ],
+    "slug": "mercure-avignon-centre-palais-des-papes"
+  },
+  {
+    "id": "avignon-5",
+    "name": "Best Western Plus Hôtel du Parc",
+    "destinationSlug": "avignon",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 3420,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/bestwestern-du-parc-avignon.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Plus Hôtel du Parc — a 3-star hotel near the train station with on-site free parking — welcomes pets at 12 € per night. One pet per room standard, second on prior request. Avignon Centre station 5 min on foot, intra-muros 10 min.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant"
+    ],
+    "slug": "best-western-plus-hotel-du-parc-avignon"
+  },
+  {
     "id": "barcelona-1",
     "name": "The One Barcelona GL",
     "destinationSlug": "barcelona",

@@ -537,6 +537,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  avignon: {
+    history: {
+      fr: `Avignon, fondée à l'époque romaine sous le nom d'Avenio, devint au XIVe siècle l'un des centres politiques les plus importants d'Europe quand sept papes s'y installèrent (1309-1377), faisant construire le plus grand palais gothique du monde (15 000 m², 250 mètres de rempart). Le légendaire Pont Saint-Bénézet, dont la comptine « Sur le Pont d'Avignon » a fait le tour du monde, traversait le Rhône avant qu'une crue de 1668 n'emporte 18 de ses 22 arches. Aujourd'hui capitale de la Provence (95 000 habitants intra-muros) et siège du plus grand festival de théâtre du monde (le Festival d'Avignon, début juillet), Avignon est l'une des villes culturelles les plus visitées de France. Pour les voyageurs avec un chien, c'est l'une des destinations provençales les plus complètes : intra-muros piéton en 20 min, culture café/bistrot tolérante par défaut, île de la Barthelasse face au Palais des Papes (la plus grande île fluviale d'Europe) avec 4 km de promenade riveraine, et accès TGV direct depuis Paris en 2h40.`,
+      en: `Avignon, founded in Roman times as Avenio, became in the 14th century one of Europe's most important political centres when seven popes established themselves here (1309-1377), commissioning the world's largest Gothic palace (15,000 m², 250 metres of ramparts). The legendary Pont Saint-Bénézet, immortalised by the children's song 'Sur le Pont d'Avignon', once crossed the Rhône before a 1668 flood swept away 18 of its 22 arches. Now the capital of Provence (95,000 intra-muros residents) and host to the world's largest theatre festival (the Festival d'Avignon, early July), Avignon is one of France's most-visited cultural cities. For travellers with a dog, it's one of the most complete Provençal destinations: walkable intra-muros in 20 min, dog-tolerant café/bistrot culture by default, the île de la Barthelasse facing the Palais des Papes (Europe's largest river island) with 4 km of riverside walking, and direct TGV access from Paris in 2h40.`,
+      es: `Aviñón, fundada en época romana como Avenio, se convirtió en el siglo XIV en uno de los centros políticos más importantes de Europa cuando siete papas se establecieron aquí (1309-1377), haciendo construir el mayor palacio gótico del mundo (15 000 m², 250 metros de muralla). El legendario Pont Saint-Bénézet, inmortalizado por la canción « Sur le Pont d'Avignon », cruzaba el Ródano antes de que una crecida de 1668 arrastrara 18 de sus 22 arcos. Hoy capital de Provenza (95 000 habitantes intra-muros) y sede del mayor festival de teatro del mundo (el Festival de Aviñón, principios de julio), Aviñón es una de las ciudades culturales más visitadas de Francia. Para los viajeros con perro, es uno de los destinos provenzales más completos: intra-muros peatonal en 20 min, cultura del café/bistró tolerante por defecto, île de la Barthelasse frente al Palacio de los Papas (la mayor isla fluvial de Europa) con 4 km de paseo ribereño, y acceso TGV directo desde París en 2h40.`,
+    },
+    sights: [
+      { name: 'Palais des Papes', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Le plus grand palais gothique d'Europe (UNESCO 1995), siège de sept papes (1309-1377). Place et remparts dog-friendly avec chiens en laisse ; intérieur réservé aux chiens d'assistance.`,
+        en: `Europe's largest Gothic palace (UNESCO 1995), seat of seven popes (1309-1377). Square and outer ramparts dog-friendly with leashed dogs; interior assistance dogs only.`,
+        es: `El mayor palacio gótico de Europa (UNESCO 1995), sede de siete papas (1309-1377). Plaza y murallas exteriores dog-friendly con perros con correa; interior solo perros de asistencia.`,
+      }},
+      { name: 'Pont Saint-Bénézet', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Légendaire pont médiéval du XIIe siècle — vue extérieure dog-friendly depuis le Rocher des Doms ou la Barthelasse, marche sur le pont (billet payant) chiens d'assistance uniquement.`,
+        en: `Legendary 12th-century medieval bridge — exterior view dog-friendly from the Rocher des Doms or Barthelasse, bridge walk (paid ticket) assistance dogs only.`,
+        es: `Legendario puente medieval del siglo XII — vista exterior dog-friendly desde el Rocher des Doms o la Barthelasse, paseo sobre el puente (billete de pago) solo perros de asistencia.`,
+      }},
+      { name: 'Rocher des Doms', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin paysagé de 3 ha couronnant l'éperon rocheux au-dessus du Palais des Papes — étang, panorama sur le Rhône, le Pont et le Mont Ventoux. Chiens en laisse.`,
+        en: `3-hectare landscaped garden crowning the rocky outcrop above the Palais des Papes — pond, panorama over the Rhône, the Pont and Mont Ventoux. Leashed dogs.`,
+        es: `Jardín paisajístico de 3 ha que corona el promontorio rocoso sobre el Palacio de los Papas — estanque, panorama sobre el Ródano, el Puente y el Mont Ventoux. Perros con correa.`,
+      }},
+      { name: 'Place de l\'Horloge', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La place café-théâtre principale — Hôtel de Ville, Opéra, plus de 30 terrasses tout autour. Ouverte 24h/24, dog-friendly partout.`,
+        en: `The main café-theatre square — Hôtel de Ville, Opéra, 30+ café terraces ringing the perimeter. Open 24/7, dog-friendly throughout.`,
+        es: `La plaza café-teatro principal — Hôtel de Ville, Ópera, más de 30 terrazas alrededor del perímetro. Abierta 24/7, dog-friendly en todas partes.`,
+      }},
+      { name: 'Île de la Barthelasse', emoji: '🌿', petFriendly: true, desc: {
+        fr: `La plus grande île fluviale d'Europe (700 ha) face au Palais des Papes — 4 km de sentier riverain, navette gratuite avril-octobre.`,
+        en: `Europe's largest river island (700 ha) facing the Palais des Papes — 4 km of riverside path, free shuttle ferry April-October.`,
+        es: `La mayor isla fluvial de Europa (700 ha) frente al Palacio de los Papas — 4 km de sendero ribereño, lanzadera gratuita abril-octubre.`,
+      }},
+      { name: 'Remparts médiévaux', emoji: '🏰', petFriendly: true, desc: {
+        fr: `4,3 km de remparts médiévaux du XIVe siècle ceinturant l'intra-muros — promenade dog-friendly avec chiens en laisse, accès libre 24h/24.`,
+        en: `4.3 km of 14th-century medieval walls encircling the intra-muros — dog-friendly walk with leashed dogs, free access 24/7.`,
+        es: `4,3 km de murallas medievales del siglo XIV que rodean el intra-muros — paseo dog-friendly con perros con correa, acceso libre 24/7.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café/bistrot provençale accueille les chiens par défaut — environ 80 % des établissements d'Avignon acceptent les chiens en laisse en terrasse toute l'année.`,
+        `Bus Orizo : chiens moyens/grands à demi-tarif (1 €) avec laisse ; navette gratuite Baladine intra-muros toutes les 8 min, dog-friendly.`,
+        `Trains TGV/TER SNCF : chiens à demi-tarif + muselière pour moyens/grands ; petits chiens en cage gratuits.`,
+        `Vétérinaire d'urgence 24h/24 : Clinique VetSud au Pontet (+33 4 90 32 28 28), 5 km au nord par la N7.`,
+        `Le Festival d'Avignon (début juillet) rend l'intra-muros impraticable — évitez avec un chien anxieux ou restreignez les sorties à avant 11h / après 21h.`,
+      ],
+      en: [
+        `Provençal café/bistrot culture welcomes dogs by default — about 80% of Avignon venues accept leashed dogs on the terrace year-round.`,
+        `Orizo buses: medium/large dogs at half-fare (1 €) with leash; the free Baladine intra-muros shuttle every 8 min, dog-friendly.`,
+        `SNCF TGV/TER trains: half-fare ticket + muzzle for medium/large dogs; small dogs in carrier free.`,
+        `24/7 emergency vet: Clinique VetSud in Le Pontet (+33 4 90 32 28 28), 5 km north on the N7.`,
+        `The Festival d'Avignon (early July) makes the intra-muros impassable — avoid with an anxious dog or restrict outings to before 11:00 / after 21:00.`,
+      ],
+      es: [
+        `La cultura del café/bistró provenzal admite perros por defecto — alrededor del 80 % de los locales de Aviñón acepta perros con correa en terraza todo el año.`,
+        `Buses Orizo: perros medianos/grandes a media tarifa (1 €) con correa; la lanzadera gratuita Baladine intra-muros cada 8 min, dog-friendly.`,
+        `Trenes SNCF TGV/TER: billete a media tarifa + bozal para medianos/grandes; perros pequeños en transportín gratis.`,
+        `Veterinario de urgencias 24/7: Clinique VetSud en Le Pontet (+33 4 90 32 28 28), 5 km al norte por la N7.`,
+        `El Festival de Aviñón (principios de julio) hace el intra-muros impracticable — evita con perro ansioso o restringe las salidas a antes de las 11:00 / después de las 21:00.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `France dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains TGV directs : Paris 2h40, Marseille 35 min, Lyon 1h10, Nîmes 30 min, Montpellier 1h, Barcelone 4h (TGV inOui).`,
+        `Aéroport Avignon-Provence (AVN) à 8 km, ou Marseille-Provence (MRS) à 1h en voiture / Aéroport de Nîmes (FNI) à 45 min.`,
+        `Devise : euro. Budget journalier dog-friendly : 75-100 €/jour hors hébergement, alignés sur la médiane française.`,
+        `Excursions dog-friendly : Pont du Gard (30 min), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer Camargue (1h15).`,
+      ],
+      en: [
+        `France is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct TGV trains: Paris 2h40, Marseille 35 min, Lyon 1h10, Nîmes 30 min, Montpellier 1h, Barcelona 4h (TGV inOui).`,
+        `Avignon-Provence Airport (AVN) 8 km, or Marseille-Provence (MRS) 1h by car / Nîmes Airport (FNI) 45 min.`,
+        `Currency: euro. Daily dog-friendly budget: 75-100 €/day excluding accommodation, in line with the French median.`,
+        `Dog-friendly day trips: Pont du Gard (30 min), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer Camargue (1h15).`,
+      ],
+      es: [
+        `Francia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes TGV directos: París 2h40, Marsella 35 min, Lyon 1h10, Nimes 30 min, Montpellier 1h, Barcelona 4h (TGV inOui).`,
+        `Aeropuerto Aviñón-Provence (AVN) a 8 km, o Marsella-Provence (MRS) a 1h en coche / aeropuerto de Nimes (FNI) a 45 min.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 75-100 €/día sin alojamiento, en línea con la mediana francesa.`,
+        `Excursiones dog-friendly: Pont du Gard (30 min), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer Camarga (1h15).`,
+      ],
+    },
+  },
+
   barcelona: {
     history: {
       fr: `Barcelone, fondée par les Romains sous le nom de Barcino vers 15 av. J.-C., est devenue au Moyen Âge la capitale de la Couronne d'Aragon, l'une des puissances maritimes majeures de la Méditerranée. La ville doit son visage actuel au visionnnaire Ildefons Cerdà, dont le plan d'extension de 1860 — l'Eixample — a créé ce quadrillage orthogonal caractéristique avec ses blocs arrondis et ses rues larges de 20 mètres. Gaudí a ensuite sculpté l'âme de la ville avec la Sagrada Família, le Parc Güell et la Casa Batlló. Aujourd'hui, Barcelone est l'une des villes d'Europe où le nombre d'animaux de compagnie croît le plus vite — et ses espaces verts et plages s'adaptent progressivement à cette réalité.`,

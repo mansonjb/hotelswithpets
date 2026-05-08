@@ -1,0 +1,926 @@
+{
+  "slug": "avignon",
+  "name": "Avignon",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-05-06",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Avignon",
+      "titleFr": "Restaurants dog-friendly à Avignon",
+      "titleEs": "Restaurantes dog-friendly en Avignon",
+      "introEn": "Provençal café and bistrot culture in Avignon is reliably dog-friendly — leashed dogs are welcomed on terraces by default, water bowls appear without asking, and the Place de l'Horloge and Rue des Teinturiers concentrate the best independent venues.",
+      "introFr": "La culture café et bistrot provençale à Avignon est fiablement dog-friendly — les chiens en laisse sont accueillis en terrasse par défaut, les gamelles apparaissent sans demander, et la Place de l'Horloge et la Rue des Teinturiers concentrent les meilleures adresses.",
+      "introEs": "La cultura del café y bistró provenzal en Aviñón es fiablemente dog-friendly — los perros con correa son admitidos en terraza por defecto, los boles aparecen sin pedirlos, y la Place de l'Horloge y la Rue des Teinturiers concentran las mejores direcciones.",
+      "places": [
+        {
+          "name": "L'Essentiel",
+          "address": "2 Rue Petite Fusterie, 84000 Avignon",
+          "neighborhood": "Centre historique",
+          "photo": "/images/city-places/avignon-restaurants-l-essentiel.jpg",
+          "website": "https://www.restaurantlessentiel.com/",
+          "description": "A creative Provençal bistrot in a 17th-century private hôtel particulier with a leafy interior courtyard — modern takes on local classics, regional Côtes du Rhône wines. Dogs welcome on the courtyard terrace year-round.",
+          "descriptionFr": "Bistrot provençal créatif dans un hôtel particulier du XVIIe siècle avec une cour intérieure verdoyante — versions modernes des classiques locaux, vins des Côtes du Rhône régionaux. Chiens bienvenus sur la terrasse de la cour toute l'année.",
+          "descriptionEs": "Bistró provenzal creativo en un hotel particular del siglo XVII con un patio interior frondoso — versiones modernas de los clásicos locales, vinos regionales de las Côtes du Rhône. Perros bienvenidos en la terraza del patio todo el año.",
+          "petPolicy": "Dogs on courtyard terrace",
+          "petPolicyFr": "Chiens en terrasse de la cour",
+          "petPolicyEs": "Perros en terraza del patio",
+          "priceRange": "EUR EUR EUR",
+          "mustTry": "Pieds-paquets, daube provençale, Châteauneuf-du-Pape",
+          "mustTryFr": "Pieds-paquets, daube provençale, Châteauneuf-du-Pape",
+          "mustTryEs": "Pieds-paquets, daube provençale, Châteauneuf-du-Pape",
+          "openingHours": "Tue-Sat 12:00-14:00, 19:30-22:00; closed Sunday-Monday",
+          "tip": "Reserve the courtyard for dinner — only 8 dog-friendly tables and the Avignon Festival period (July) books out 4 weeks ahead.",
+          "tipFr": "Réservez la cour pour le dîner — seulement 8 tables dog-friendly et la période du Festival d'Avignon (juillet) se réserve 4 semaines à l'avance.",
+          "tipEs": "Reserva el patio para la cena — solo 8 mesas dog-friendly y el periodo del Festival de Aviñón (julio) se reserva con 4 semanas de antelación.",
+          "googleMapsUrl": "https://maps.google.com/?q=L+Essentiel+restaurant+Avignon"
+        },
+        {
+          "name": "La Mirande",
+          "address": "4 Place de la Mirande, 84000 Avignon",
+          "neighborhood": "Palais des Papes",
+          "photo": "/images/city-places/avignon-restaurants-la-mirande.jpg",
+          "website": "https://www.la-mirande.fr/",
+          "description": "A Michelin-rated restaurant in a 14th-century cardinal's palace at the foot of the Palais des Papes — refined Provençal cuisine, exceptional wine cellar. Dogs welcome on the cobbled front terrace year-round; main dining room with prior agreement.",
+          "descriptionFr": "Restaurant étoilé Michelin dans un palais cardinalice du XIVe siècle au pied du Palais des Papes — cuisine provençale raffinée, cave exceptionnelle. Chiens bienvenus sur la terrasse pavée avant toute l'année ; salle principale sur accord préalable.",
+          "descriptionEs": "Restaurante con estrella Michelin en un palacio cardenalicio del siglo XIV al pie del Palacio de los Papas — cocina provenzal refinada, bodega excepcional. Perros bienvenidos en la terraza adoquinada delantera todo el año; sala principal con acuerdo previo.",
+          "petPolicy": "Dogs on terrace; main room on agreement",
+          "petPolicyFr": "Chiens en terrasse ; salle principale sur accord",
+          "petPolicyEs": "Perros en terraza; sala principal bajo acuerdo",
+          "priceRange": "EUR EUR EUR EUR",
+          "mustTry": "Truffle menu (winter), tasting Provençal lunch, Tavel rosé",
+          "mustTryFr": "Menu truffes (hiver), déjeuner dégustation provençal, rosé de Tavel",
+          "mustTryEs": "Menú trufa (invierno), almuerzo degustación provenzal, rosado de Tavel",
+          "openingHours": "Wed-Sun 12:30-14:00, 19:30-22:00; closed Monday-Tuesday",
+          "tip": "The truffle menu (December-February) is the regional gastronomic highlight — book 6 weeks ahead and confirm the dog-friendly terrace at booking.",
+          "tipFr": "Le menu truffes (décembre-février) est le point fort gastronomique régional — réservez 6 semaines à l'avance et confirmez la terrasse dog-friendly à la réservation.",
+          "tipEs": "El menú trufa (diciembre-febrero) es el punto fuerte gastronómico regional — reserva con 6 semanas de antelación y confirma la terraza dog-friendly al reservar.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Mirande+Avignon"
+        },
+        {
+          "name": "L'Épice et Love",
+          "address": "30 Rue des Lices, 84000 Avignon",
+          "neighborhood": "Rue des Teinturiers area",
+          "photo": "/images/city-places/avignon-restaurants-l-epice-et-love.jpg",
+          "website": "https://lepiceetlove.fr/",
+          "description": "A small lively bistrot near the Rue des Teinturiers — daily-changing market menu, Provençal-Mediterranean cuisine, regional natural wines. Dogs welcomed throughout the small interior; water bowls at the door year-round.",
+          "descriptionFr": "Petit bistrot animé près de la Rue des Teinturiers — menu marché qui change chaque jour, cuisine provençale-méditerranéenne, vins natures régionaux. Chiens bienvenus partout dans la petite salle ; gamelles à la porte toute l'année.",
+          "descriptionEs": "Pequeño bistró animado cerca de la Rue des Teinturiers — menú de mercado que cambia cada día, cocina provenzal-mediterránea, vinos naturales regionales. Perros bienvenidos en toda la pequeña sala; boles en la puerta todo el año.",
+          "petPolicy": "Dogs welcome everywhere",
+          "petPolicyFr": "Chiens bienvenus partout",
+          "petPolicyEs": "Perros bienvenidos en todas partes",
+          "priceRange": "EUR EUR",
+          "mustTry": "Daily market menu, mezze platter, natural rosé",
+          "mustTryFr": "Menu marché du jour, plateau mezze, rosé nature",
+          "mustTryEs": "Menú del mercado del día, tabla mezze, rosado natural",
+          "openingHours": "Tue-Sat 12:00-14:00, 19:00-22:30; closed Sunday-Monday",
+          "tip": "Lunch (12:00-13:30) is calmer than dinner — the bistrot has only 24 seats and the lunch menu turns over fast.",
+          "tipFr": "Le déjeuner (12h-13h30) est plus calme que le dîner — le bistrot n'a que 24 places et la carte déjeuner tourne vite.",
+          "tipEs": "El almuerzo (12:00-13:30) es más tranquilo que la cena — el bistró solo tiene 24 plazas y la carta del almuerzo rota rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=L+Epice+et+Love+Avignon"
+        }
+      ],
+      "tipsEn": [
+        "Provençal café culture is broadly dog-friendly — at least 80% of Avignon bistrots accept leashed dogs on the terrace year-round.",
+        "Avoid Avignon Festival weekends (mid-July) — restaurants book out 4-6 weeks ahead and central streets become impassable with crowds.",
+        "Service is included in France ('service compris'); a 5-10% cash tip is appreciated for great service."
+      ],
+      "tipsFr": [
+        "La culture café provençale est largement dog-friendly — au moins 80 % des bistrots d'Avignon acceptent les chiens en laisse en terrasse toute l'année.",
+        "Évitez les week-ends du Festival d'Avignon (mi-juillet) — les restaurants se réservent 4-6 semaines à l'avance et les rues centrales deviennent impraticables.",
+        "Le service est inclus en France (« service compris ») ; un pourboire de 5-10 % en espèces est apprécié pour un excellent service."
+      ],
+      "tipsEs": [
+        "La cultura del café provenzal es ampliamente dog-friendly — al menos el 80 % de los bistrós de Aviñón admite perros con correa en terraza todo el año.",
+        "Evita los fines de semana del Festival de Aviñón (mediados de julio) — los restaurantes se reservan con 4-6 semanas de antelación y las calles centrales se vuelven impracticables.",
+        "El servicio está incluido en Francia (« service compris »); una propina del 5-10 % en efectivo se aprecia por un servicio excelente."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Avignon restaurants?",
+          "a": "Yes in most. Around 80% of Avignon bistrots and brasseries accept leashed dogs on the terrace, and many also welcome them inside outside peak service hours. Higher-end Michelin venues vary — call ahead."
+        },
+        {
+          "q": "Can I bring my dog to a Provençal lunch?",
+          "a": "Yes. Provençal lunch culture is dog-tolerant by default — leashed dogs welcome on terraces by default, often on the floor near your table inside outside peak service. Most regulars bring their dogs without question."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants d'Avignon ?",
+          "a": "Oui dans la plupart. Environ 80 % des bistrots et brasseries d'Avignon acceptent les chiens en laisse en terrasse, et beaucoup les autorisent aussi à l'intérieur hors heures de pointe. Les Michelin haut de gamme varient — appelez avant."
+        },
+        {
+          "q": "Puis-je amener mon chien à un déjeuner provençal ?",
+          "a": "Oui. La culture du déjeuner provençal tolère les chiens par défaut — chiens en laisse bienvenus en terrasse, souvent au sol près de votre table à l'intérieur hors heures de pointe. La plupart des habitués viennent avec leur chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Aviñón?",
+          "a": "Sí en la mayoría. Cerca del 80 % de los bistrós y brasseries de Aviñón admite perros con correa en terraza, y muchos los aceptan también dentro fuera de horas punta. Los Michelin de alta gama varían — llama antes."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a un almuerzo provenzal?",
+          "a": "Sí. La cultura del almuerzo provenzal admite perros por defecto — perros con correa bienvenidos en terraza, a menudo en el suelo junto a tu mesa dentro fuera de horas punta. La mayoría de habituales lleva perro sin problema."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Avignon",
+      "titleFr": "Parcs canins et espaces verts à Avignon",
+      "titleEs": "Parques caninos y espacios verdes en Aviñón",
+      "introEn": "Avignon's centro storico is short on green space, but the Rocher des Doms gardens crown the Palais des Papes hill, the île de la Barthelasse offers 4 km of walkable Rhône riverbank, and the rural Vaucluse countryside opens to lavender fields and oak woods 15 minutes by car.",
+      "introFr": "Le centre historique d'Avignon est court en espaces verts, mais les jardins du Rocher des Doms couronnent la colline du Palais des Papes, l'île de la Barthelasse offre 4 km de berges du Rhône promenables, et la campagne vauclusienne s'ouvre sur les champs de lavande et les chênaies à 15 min en voiture.",
+      "introEs": "El centro histórico de Aviñón es corto en espacios verdes, pero los jardines del Rocher des Doms coronan la colina del Palacio de los Papas, la île de la Barthelasse ofrece 4 km de orillas del Ródano transitables, y el campo del Vaucluse se abre a campos de lavanda y robledales a 15 min en coche.",
+      "places": [
+        {
+          "name": "Jardin du Rocher des Doms",
+          "address": "Place du Rocher des Doms, 84000 Avignon",
+          "neighborhood": "Palais des Papes",
+          "photo": "/images/city-places/avignon-parks-jardin-du-rocher-des-doms.jpg",
+          "size": "Approx. 3 hectares",
+          "leashRule": "On-leash year-round",
+          "leashRuleFr": "En laisse toute l'année",
+          "leashRuleEs": "Con correa todo el año",
+          "description": "The 3-hectare landscaped garden crowning the rocky outcrop above the Palais des Papes — pine trees, ornamental pond with ducks, and the iconic panorama over the Rhône, the Pont Saint-Bénézet and the Mont Ventoux beyond. Free, dog-friendly with leashed dogs.",
+          "descriptionFr": "Jardin paysagé de 3 hectares couronnant l'éperon rocheux au-dessus du Palais des Papes — pins, étang ornemental aux canards, et panorama iconique sur le Rhône, le Pont Saint-Bénézet et le Mont Ventoux au-delà. Gratuit, dog-friendly avec chiens en laisse.",
+          "descriptionEs": "Jardín paisajístico de 3 hectáreas que corona el promontorio rocoso sobre el Palacio de los Papas — pinos, estanque ornamental con patos, y panorama icónico sobre el Ródano, el Pont Saint-Bénézet y el Mont Ventoux más allá. Gratis, dog-friendly con perros con correa.",
+          "amenities": [
+            "Public toilets",
+            "Café",
+            "Children's playground",
+            "Panoramic views"
+          ],
+          "amenitiesFr": [
+            "Toilettes publiques",
+            "Café",
+            "Aire de jeux",
+            "Vues panoramiques"
+          ],
+          "amenitiesEs": [
+            "Aseos públicos",
+            "Café",
+            "Parque infantil",
+            "Vistas panorámicas"
+          ],
+          "tip": "Sunrise (07:00-09:00) is the most photogenic time and the calmest — by 11:00 the cruise-ship tour groups arrive at the Palais des Papes below.",
+          "tipFr": "Le lever du soleil (7h-9h) est le moment le plus photogénique et le plus calme — dès 11h les groupes de croisiéristes arrivent au Palais des Papes en contrebas.",
+          "tipEs": "El amanecer (07:00-09:00) es el momento más fotogénico y tranquilo — hacia las 11:00 llegan los grupos de cruceristas al Palacio de los Papas debajo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rocher+des+Doms+Avignon"
+        },
+        {
+          "name": "Île de la Barthelasse",
+          "address": "Île de la Barthelasse, 84000 Avignon",
+          "neighborhood": "Rhône",
+          "photo": "/images/city-places/avignon-parks-ile-de-la-barthelasse.jpg",
+          "size": "Approx. 700 hectares",
+          "leashRule": "On-leash on the riverside path; off-leash on rural sections outside nesting season",
+          "leashRuleFr": "En laisse sur le sentier riverain ; sans laisse sur sections rurales hors saison de nidification",
+          "leashRuleEs": "Con correa en el sendero ribereño; sin correa en secciones rurales fuera de la temporada de nidificación",
+          "description": "The largest river island in Europe (700 hectares of orchards, market gardens and Rhône floodplain) directly across from the Palais des Papes — flat 4 km riverside path with the iconic city skyline view, accessible by free shuttle ferry from the foot of the Pont Saint-Bénézet.",
+          "descriptionFr": "La plus grande île fluviale d'Europe (700 hectares de vergers, maraîchages et plaine du Rhône) directement face au Palais des Papes — sentier riverain plat de 4 km avec la vue iconique sur le skyline de la ville, accessible par navette gratuite depuis le pied du Pont Saint-Bénézet.",
+          "descriptionEs": "La mayor isla fluvial de Europa (700 hectáreas de huertas, cultivos y llanura aluvial del Ródano) directamente frente al Palacio de los Papas — sendero ribereño plano de 4 km con la vista icónica del skyline de la ciudad, accesible por lanzadera gratuita desde el pie del Pont Saint-Bénézet.",
+          "amenities": [
+            "Free shuttle ferry",
+            "Riverside path",
+            "Picnic spots",
+            "Free parking"
+          ],
+          "amenitiesFr": [
+            "Navette gratuite",
+            "Sentier riverain",
+            "Spots pique-nique",
+            "Parking gratuit"
+          ],
+          "amenitiesEs": [
+            "Lanzadera gratis",
+            "Sendero ribereño",
+            "Spots de picnic",
+            "Parking gratis"
+          ],
+          "tip": "The free shuttle ferry runs daily April-October — check schedule at the Pont Saint-Bénézet quay. In winter, walk via the Pont Daladier bridge in 15 min.",
+          "tipFr": "La navette gratuite circule chaque jour d'avril à octobre — vérifiez les horaires au quai du Pont Saint-Bénézet. En hiver, passez par le Pont Daladier en 15 min.",
+          "tipEs": "La lanzadera gratis circula a diario de abril a octubre — verifica los horarios en el muelle del Pont Saint-Bénézet. En invierno, cruza por el Pont Daladier en 15 min.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ile+de+la+Barthelasse+Avignon"
+        },
+        {
+          "name": "Bois des Rempart-Italiens",
+          "address": "Avenue Saint-Roch, 84000 Avignon",
+          "neighborhood": "South of walls",
+          "photo": "/images/city-places/avignon-parks-bois-des-rempart-italiens.jpg",
+          "size": "Approx. 4 hectares",
+          "leashRule": "On-leash year-round",
+          "leashRuleFr": "En laisse toute l'année",
+          "leashRuleEs": "Con correa todo el año",
+          "description": "A landscaped wooded park immediately south of the medieval city walls — pine grove, paths, picnic benches, the only sizeable green space south of the centre. Direct access from the Avenue Saint-Roch, free.",
+          "descriptionFr": "Parc boisé paysagé immédiatement au sud des remparts médiévaux — pinède, sentiers, bancs de pique-nique, le seul espace vert d'une certaine taille au sud du centre. Accès direct depuis l'Avenue Saint-Roch, gratuit.",
+          "descriptionEs": "Parque arbolado paisajístico inmediatamente al sur de las murallas medievales — pinar, senderos, bancos de picnic, el único espacio verde de cierto tamaño al sur del centro. Acceso directo desde la Avenue Saint-Roch, gratis.",
+          "amenities": [
+            "Pine shade",
+            "Picnic benches",
+            "Free parking nearby",
+            "Walking trails"
+          ],
+          "amenitiesFr": [
+            "Ombre des pins",
+            "Bancs pique-nique",
+            "Parking gratuit à proximité",
+            "Sentiers"
+          ],
+          "amenitiesEs": [
+            "Sombra de pinos",
+            "Bancos de picnic",
+            "Parking gratis cerca",
+            "Senderos"
+          ],
+          "tip": "Best in mid-day summer heat — the dense pine cover keeps ground temperature 8-10 °C below the limestone city centre.",
+          "tipFr": "Idéal en pleine chaleur de midi en été — la pinède dense maintient la température au sol 8-10 °C en-dessous du centre-ville en pierre.",
+          "tipEs": "Ideal en pleno calor del mediodía en verano — la pinar densa mantiene la temperatura del suelo 8-10 °C por debajo del centro de piedra.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bois+des+Remparts+Italiens+Avignon"
+        }
+      ],
+      "tipsEn": [
+        "Avignon municipal law requires dogs on a leash on all paved city paths and the Rocher des Doms; off-leash is permitted on the rural sections of the île de la Barthelasse outside formal park areas.",
+        "Provençal summer heat (32-38 °C July-August) — limit dog walks to before 09:00 and after 19:00; the limestone city walls radiate heat well into the night.",
+        "Always carry poo bags: Avignon fixed penalty for fouling is 68 € (contravention), enforced by Police Municipale."
+      ],
+      "tipsFr": [
+        "L'arrêté municipal d'Avignon exige la laisse sur toutes les voies pavées de la ville et le Rocher des Doms ; sans laisse autorisé sur les sections rurales de l'île de la Barthelasse hors parcs formels.",
+        "Chaleur estivale provençale (32-38 °C juillet-août) — limitez les promenades canines avant 9h et après 19h ; les remparts en pierre rayonnent la chaleur jusque dans la nuit.",
+        "Ayez toujours des sacs : amende forfaitaire d'Avignon pour déjections de 68 €, contrôlée par la Police Municipale."
+      ],
+      "tipsEs": [
+        "La ordenanza municipal de Aviñón exige correa en todas las vías pavimentadas de la ciudad y el Rocher des Doms; sin correa permitido en las secciones rurales de la île de la Barthelasse fuera de parques formales.",
+        "Calor estival provenzal (32-38 °C julio-agosto) — limita los paseos caninos antes de las 09:00 y después de las 19:00; las murallas de piedra irradian calor hasta entrada la noche.",
+        "Lleva siempre bolsas: multa fija de Aviñón por excrementos de 68 €, controlada por la Police Municipale."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash in Avignon parks?",
+          "a": "Off-leash is permitted only on the rural sections of the île de la Barthelasse outside formal park areas (April-July leash law applies for bird nesting). The Rocher des Doms, Bois des Rempart-Italiens and city-centre cobbled streets require dogs on a lead year-round."
+        },
+        {
+          "q": "Can dogs visit the Pont Saint-Bénézet?",
+          "a": "The exterior view of the Pont Saint-Bénézet from the Rocher des Doms or the île de la Barthelasse is fully dog-friendly with leashed dogs free of charge. Walking on the bridge itself (paid ticket) admits assistance dogs only."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse dans les parcs d'Avignon ?",
+          "a": "Sans laisse autorisé uniquement sur les sections rurales de l'île de la Barthelasse hors parcs formels (loi laisse avril-juillet pour la nidification). Le Rocher des Doms, le Bois des Rempart-Italiens et les rues pavées du centre exigent la laisse toute l'année."
+        },
+        {
+          "q": "Les chiens peuvent-ils visiter le Pont Saint-Bénézet ?",
+          "a": "La vue extérieure du Pont Saint-Bénézet depuis le Rocher des Doms ou l'île de la Barthelasse est entièrement dog-friendly avec chiens en laisse gratuits. La marche sur le pont lui-même (billet payant) n'admet que les chiens d'assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en los parques de Aviñón?",
+          "a": "Sin correa permitido solo en las secciones rurales de la île de la Barthelasse fuera de parques formales (ley de correa abril-julio por nidificación). El Rocher des Doms, el Bois des Rempart-Italiens y las calles adoquinadas del centro exigen correa todo el año."
+        },
+        {
+          "q": "¿Pueden los perros visitar el Pont Saint-Bénézet?",
+          "a": "La vista exterior del Pont Saint-Bénézet desde el Rocher des Doms o la île de la Barthelasse es totalmente dog-friendly con perros con correa gratis. Caminar sobre el puente (billete de pago) solo admite perros de asistencia."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Avignon",
+      "titleFr": "Transports pet-friendly à Avignon",
+      "titleEs": "Transporte pet-friendly en Aviñón",
+      "introEn": "Avignon's compact intra-muros centre is walkable end-to-end in 20 minutes. For day trips, the Orizo city buses, SNCF TGV/TER trains and the Provence Excursion buses to Provençal villages all accept leashed dogs.",
+      "introFr": "Le centre intra-muros compact d'Avignon se traverse à pied en 20 minutes. Pour les excursions, les bus urbains Orizo, les trains SNCF TGV/TER et les bus Provence Excursion vers les villages provençaux acceptent tous les chiens en laisse.",
+      "introEs": "El centro intra-muros compacto de Aviñón se cruza a pie en 20 minutos. Para excursiones, los autobuses urbanos Orizo, los trenes SNCF TGV/TER y los autobuses Provence Excursion a los pueblos provenzales admiten todos perros con correa.",
+      "places": [
+        {
+          "name": "Orizo City Buses",
+          "type": "City buses",
+          "photo": "/images/city-places/avignon-transport-orizo-city-buses.jpg",
+          "website": "https://www.orizo.fr/",
+          "description": "Orizo operates Avignon's bus network including the free intra-muros shuttle Baladine. Small dogs in carriers travel free; medium and large dogs need a half-fare ticket (1 €) and a short leash.",
+          "descriptionFr": "Orizo exploite le réseau de bus d'Avignon dont la navette gratuite intra-muros Baladine. Les petits chiens en cage voyagent gratis ; les chiens moyens et grands exigent un billet demi-tarif (1 €) et une laisse courte.",
+          "descriptionEs": "Orizo opera la red de autobuses de Aviñón incluyendo la lanzadera gratuita intra-muros Baladine. Perros pequeños en transportín viajan gratis; medianos y grandes requieren billete a media tarifa (1 €) y correa corta.",
+          "petPolicy": "Half-fare ticket + leash for medium/large dogs",
+          "petPolicyFr": "Billet demi-tarif + laisse pour chiens moyens/grands",
+          "petPolicyEs": "Billete a media tarifa + correa para perros medianos/grandes",
+          "tip": "The Baladine free shuttle loops the intra-muros centre every 8 min — useful as a shortcut from the gare with luggage and a dog.",
+          "tipFr": "La navette gratuite Baladine fait le tour de l'intra-muros toutes les 8 min — utile en raccourci depuis la gare avec bagages et chien.",
+          "tipEs": "La lanzadera gratuita Baladine recorre el intra-muros cada 8 min — útil como atajo desde la estación con equipaje y perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avignon+gare+SNCF"
+        },
+        {
+          "name": "SNCF TGV & TER",
+          "type": "Mainline rail",
+          "photo": "/images/city-places/avignon-transport-sncf-tgv-ter.jpg",
+          "website": "https://www.ter.sncf.com/sud-provence-alpes-cote-azur/services/animaux-de-compagnie",
+          "description": "SNCF operates direct TGV and TER trains from Avignon TGV (5 km south of centre) to Paris (2h40), Marseille (35 min), Lyon (1h10), Nîmes (30 min) and Montpellier (1h). Dogs travel for half the second-class fare; assistance dogs free.",
+          "descriptionFr": "SNCF exploite des TGV et TER directs depuis Avignon TGV (5 km au sud du centre) vers Paris (2h40), Marseille (35 min), Lyon (1h10), Nîmes (30 min) et Montpellier (1h). Les chiens voyagent à demi-tarif seconde classe ; les chiens d'assistance gratuits.",
+          "descriptionEs": "SNCF opera TGV y TER directos desde Aviñón TGV (5 km al sur del centro) a París (2h40), Marsella (35 min), Lyon (1h10), Nimes (30 min) y Montpellier (1h). Los perros viajan a media tarifa de segunda; los perros de asistencia gratis.",
+          "petPolicy": "Half-fare ticket; muzzle for medium/large dogs",
+          "petPolicyFr": "Billet demi-tarif ; muselière pour chiens moyens/grands",
+          "petPolicyEs": "Billete a media tarifa; bozal para perros medianos/grandes",
+          "tip": "Avignon TGV is 5 km south — take the free Virtuo shuttle (every 15 min, dog-friendly) to Avignon Centre station. The TGV Avignon-Paris in 2h40 is the fastest dog link to the capital.",
+          "tipFr": "Avignon TGV est à 5 km au sud — prenez la navette gratuite Virtuo (toutes les 15 min, dog-friendly) jusqu'à Avignon Centre. Le TGV Avignon-Paris en 2h40 est la liaison canine la plus rapide vers la capitale.",
+          "tipEs": "Aviñón TGV está a 5 km al sur — toma la lanzadera gratuita Virtuo (cada 15 min, dog-friendly) a Aviñón Centre. El TGV Aviñón-París en 2h40 es el enlace canino más rápido a la capital.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avignon+TGV+station"
+        },
+        {
+          "name": "Provence Excursion Coaches",
+          "type": "Regional coach",
+          "photo": "/images/city-places/avignon-transport-provence-excursion-coaches.jpg",
+          "website": "https://www.provence-reservation.com/",
+          "description": "Day-trip coach services from Avignon to Provençal villages — Pont du Gard, Châteauneuf-du-Pape, Les Baux-de-Provence, Gordes, Roussillon. Leashed dogs accepted with prior arrangement, free of charge on most routes.",
+          "descriptionFr": "Services d'excursions en car depuis Avignon vers les villages provençaux — Pont du Gard, Châteauneuf-du-Pape, Les Baux-de-Provence, Gordes, Roussillon. Chiens en laisse acceptés sur arrangement préalable, gratuitement sur la plupart des trajets.",
+          "descriptionEs": "Servicios de excursiones en autocar desde Aviñón a los pueblos provenzales — Pont du Gard, Châteauneuf-du-Pape, Les Baux-de-Provence, Gordes, Roussillon. Perros con correa admitidos con acuerdo previo, gratis en la mayoría de rutas.",
+          "petPolicy": "Free with prior arrangement",
+          "petPolicyFr": "Gratuit sur arrangement préalable",
+          "petPolicyEs": "Gratis con acuerdo previo",
+          "tip": "Call 24h ahead to confirm dog acceptance — peak summer Pont du Gard tours can be full and drivers may refuse last-minute dogs.",
+          "tipFr": "Appelez 24h à l'avance pour confirmer l'acceptation canine — les tours Pont du Gard en pleine saison peuvent être complets et les chauffeurs peuvent refuser à la dernière minute.",
+          "tipEs": "Llama con 24h de antelación para confirmar la admisión canina — los tours del Pont du Gard en plena temporada pueden ir llenos y los conductores pueden rechazar a última hora.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avignon+gare+routiere"
+        }
+      ],
+      "tipsEn": [
+        "French rail regulations require a half-fare ticket for medium/large dogs and a muzzle on board (TER and TGV) — applies to SNCF.",
+        "Avignon TGV station is 5 km south of the centre — the free Virtuo shuttle covers it dog-friendly every 15 min in 8 min.",
+        "Renting a car is highly recommended for the Luberon and Camargue villages — the Provence Excursion coaches don't reach all the smaller hill villages."
+      ],
+      "tipsFr": [
+        "La réglementation ferroviaire française exige un billet demi-tarif pour les chiens moyens/grands et une muselière à bord (TER et TGV) — s'applique à la SNCF.",
+        "La gare Avignon TGV est à 5 km au sud du centre — la navette gratuite Virtuo la dessert dog-friendly toutes les 15 min en 8 min.",
+        "Louer une voiture est fortement recommandé pour les villages du Luberon et de la Camargue — les cars Provence Excursion ne desservent pas tous les villages perchés."
+      ],
+      "tipsEs": [
+        "La normativa ferroviaria francesa exige un billete a media tarifa para perros medianos/grandes y bozal a bordo (TER y TGV) — aplica a SNCF.",
+        "La estación Aviñón TGV está a 5 km al sur del centro — la lanzadera gratuita Virtuo la cubre dog-friendly cada 15 min en 8 min.",
+        "Alquilar coche es muy recomendable para los pueblos del Luberon y la Camarga — los autocares Provence Excursion no llegan a todos los pueblos colgados."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a ticket for my dog on Avignon buses?",
+          "a": "Small dogs in a carrier travel free. Medium and large dogs need a half-fare 1 € ticket on the Orizo app. The same ticket is valid for the day across the network."
+        },
+        {
+          "q": "Is the Pont du Gard reachable by dog-friendly transport?",
+          "a": "Yes. The Provence Excursion seasonal coach (April-October) accepts leashed dogs with prior arrangement, free of charge. SNCF TER trains to Remoulins (15 min) plus 25 min walk also work."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet pour mon chien dans les bus d'Avignon ?",
+          "a": "Les petits chiens en cage voyagent gratuitement. Les chiens moyens et grands exigent un billet demi-tarif à 1 € sur l'app Orizo. Le même ticket est valable la journée sur tout le réseau."
+        },
+        {
+          "q": "Le Pont du Gard est-il accessible en transport dog-friendly ?",
+          "a": "Oui. Le car saisonnier Provence Excursion (avril-octobre) accepte les chiens en laisse sur arrangement préalable, gratuitement. Les TER SNCF jusqu'à Remoulins (15 min) plus 25 min à pied fonctionnent aussi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito billete para mi perro en los buses de Aviñón?",
+          "a": "Los perros pequeños en transportín viajan gratis. Los medianos y grandes requieren billete a media tarifa de 1 € en la app Orizo. El mismo billete es válido durante el día en toda la red."
+        },
+        {
+          "q": "¿Es accesible el Pont du Gard en transporte dog-friendly?",
+          "a": "Sí. El autocar estacional Provence Excursion (abril-octubre) admite perros con correa con acuerdo previo, gratis. Los TER SNCF a Remoulins (15 min) más 25 min andando también funcionan."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakes & Rivers Near Avignon",
+      "titleFr": "Lacs et rivières dog-friendly près d'Avignon",
+      "titleEs": "Lagos y ríos dog-friendly cerca de Aviñón",
+      "introEn": "Avignon is inland but the Rhône itself, the Sorgue river at Fontaine-de-Vaucluse and the Mediterranean coast at Saintes-Maries-de-la-Mer are all reachable as dog-friendly day trips within an hour.",
+      "introFr": "Avignon est à l'intérieur des terres mais le Rhône lui-même, la Sorgue à Fontaine-de-Vaucluse et la côte méditerranéenne aux Saintes-Maries-de-la-Mer sont tous accessibles en excursions dog-friendly à la journée à moins d'une heure.",
+      "introEs": "Aviñón está en el interior pero el Ródano mismo, el Sorgue en Fontaine-de-Vaucluse y la costa mediterránea en Saintes-Maries-de-la-Mer son todos accesibles como excursiones dog-friendly de un día a menos de una hora.",
+      "places": [
+        {
+          "name": "Île de la Barthelasse Riverbank",
+          "address": "Île de la Barthelasse, 84000 Avignon",
+          "photo": "/images/city-places/avignon-beaches-ile-de-la-barthelasse-riverbank.jpg",
+          "leashRule": "On-leash on the path; off-leash on rural pebble sections outside nesting season",
+          "leashRuleFr": "En laisse sur le sentier ; sans laisse sur sections de galets rurales hors saison de nidification",
+          "leashRuleEs": "Con correa en el sendero; sin correa en secciones rurales de guijarros fuera de la temporada de nidificación",
+          "description": "The Rhône bank facing the Palais des Papes — gravel-and-grass riverbank with the iconic city skyline panorama. Free shuttle ferry from the foot of the Pont Saint-Bénézet (April-October). The most-loved riverside walk in Avignon.",
+          "descriptionFr": "La rive du Rhône face au Palais des Papes — berge de gravier et d'herbe avec le panorama iconique sur le skyline de la ville. Navette gratuite depuis le pied du Pont Saint-Bénézet (avril-octobre). La promenade riveraine préférée d'Avignon.",
+          "descriptionEs": "La orilla del Ródano frente al Palacio de los Papas — orilla de grava y hierba con el panorama icónico del skyline de la ciudad. Lanzadera gratuita desde el pie del Pont Saint-Bénézet (abril-octubre). El paseo ribereño favorito de Aviñón.",
+          "amenities": [
+            "Free shuttle ferry",
+            "Picnic spots",
+            "No facilities mid-island",
+            "Free parking via Pont Daladier"
+          ],
+          "amenitiesFr": [
+            "Navette gratuite",
+            "Spots pique-nique",
+            "Pas d'aménités au milieu",
+            "Parking gratuit via Pont Daladier"
+          ],
+          "amenitiesEs": [
+            "Lanzadera gratis",
+            "Spots de picnic",
+            "Sin instalaciones al medio",
+            "Parking gratis vía Pont Daladier"
+          ],
+          "tip": "Best at sunset for the iconic photo of the Palais des Papes and the Pont Saint-Bénézet — bring a thick towel, the Rhône bank is rocky.",
+          "tipFr": "Au mieux au coucher du soleil pour la photo iconique du Palais des Papes et du Pont Saint-Bénézet — apportez une serviette épaisse, la berge est caillouteuse.",
+          "tipEs": "Mejor al atardecer para la foto icónica del Palacio de los Papas y el Pont Saint-Bénézet — lleva una toalla gruesa, la orilla es rocosa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ile+de+la+Barthelasse+riverbank"
+        },
+        {
+          "name": "Fontaine-de-Vaucluse Sorgue Source",
+          "address": "Chemin de la Fontaine, 84800 Fontaine-de-Vaucluse",
+          "photo": "/images/city-places/avignon-beaches-fontaine-de-vaucluse-sorgue-source.jpg",
+          "leashRule": "On-leash on the path; off-leash on rural sections outside nesting season",
+          "leashRuleFr": "En laisse sur le sentier ; sans laisse sur sections rurales hors saison de nidification",
+          "leashRuleEs": "Con correa en el sendero; sin correa en secciones rurales fuera de la temporada de nidificación",
+          "description": "The 5th-largest karst spring in the world — the source of the river Sorgue at the foot of a 230 m cliff, surrounded by oak woodland and Class A drinking-water river. 30 min by car east of Avignon, year-round dog-friendly.",
+          "descriptionFr": "La 5e plus grande source karstique du monde — la source de la Sorgue au pied d'une falaise de 230 m, entourée de chênaie et rivière en eau potable Classe A. 30 min en voiture à l'est d'Avignon, dog-friendly toute l'année.",
+          "descriptionEs": "La 5ª fuente kárstica más grande del mundo — la fuente del Sorgue al pie de un acantilado de 230 m, rodeada de robledal y río con agua potable Clase A. 30 min en coche al este de Aviñón, dog-friendly todo el año.",
+          "amenities": [
+            "Pay parking",
+            "Café terrace",
+            "Marked trail",
+            "No swimming"
+          ],
+          "amenitiesFr": [
+            "Parking payant",
+            "Terrasse café",
+            "Sentier balisé",
+            "Pas de baignade"
+          ],
+          "amenitiesEs": [
+            "Parking de pago",
+            "Terraza café",
+            "Sendero balizado",
+            "Sin baño"
+          ],
+          "tip": "The water is icy (12 °C year-round) and rapid — dogs can drink from the rapids but swimming is unsafe. The 1.5 km uphill walk to the spring takes 30 min round trip.",
+          "tipFr": "L'eau est glacée (12 °C toute l'année) et rapide — les chiens peuvent boire aux rapides mais la baignade est dangereuse. La marche de 1,5 km en montée jusqu'à la source prend 30 min aller-retour.",
+          "tipEs": "El agua está helada (12 °C todo el año) y rápida — los perros pueden beber de los rápidos pero el baño es peligroso. La caminata de 1,5 km en subida hasta la fuente lleva 30 min ida y vuelta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Fontaine+de+Vaucluse"
+        },
+        {
+          "name": "Saintes-Maries-de-la-Mer Beach (East)",
+          "address": "Plage Est, 13460 Saintes-Maries-de-la-Mer",
+          "photo": "/images/city-places/avignon-beaches-saintes-maries-de-la-mer-beach-east.jpg",
+          "leashRule": "Off-leash on the eastern dog beach year-round",
+          "leashRuleFr": "Sans laisse sur la plage canine est toute l'année",
+          "leashRuleEs": "Sin correa en la playa canina del este todo el año",
+          "description": "The Camargue's main pilgrimage town and Mediterranean dog-friendly beach — wide flat sand on the eastern dog zone, year-round access. 1h15 by car south-west of Avignon. The closest dog-friendly Mediterranean beach.",
+          "descriptionFr": "La principale ville de pèlerinage de la Camargue et plage méditerranéenne dog-friendly — large sable plat sur la zone canine est, accès toute l'année. 1h15 en voiture au sud-ouest d'Avignon. La plus proche plage méditerranéenne dog-friendly.",
+          "descriptionEs": "La principal ciudad de peregrinación de la Camarga y playa mediterránea dog-friendly — amplia arena plana en la zona canina del este, acceso todo el año. 1h15 en coche al suroeste de Aviñón. La playa mediterránea dog-friendly más cercana.",
+          "amenities": [
+            "Free parking",
+            "Beach bars (May-Oct)",
+            "Public toilets",
+            "Camargue nature reserve nearby"
+          ],
+          "amenitiesFr": [
+            "Parking gratuit",
+            "Bars de plage (mai-oct)",
+            "Toilettes publiques",
+            "Réserve naturelle de Camargue à proximité"
+          ],
+          "amenitiesEs": [
+            "Parking gratis",
+            "Bares de playa (may-oct)",
+            "Aseos públicos",
+            "Reserva natural de Camarga cerca"
+          ],
+          "tip": "Combine with a Camargue safari (free-roaming pink flamingos, white horses, black bulls) — most operators accept leashed dogs with prior arrangement.",
+          "tipFr": "Combinez avec un safari Camargue (flamants roses en liberté, chevaux blancs, taureaux noirs) — la plupart des opérateurs acceptent les chiens en laisse sur arrangement préalable.",
+          "tipEs": "Combina con un safari por la Camarga (flamencos rosas en libertad, caballos blancos, toros negros) — la mayoría de operadores admite perros con correa con acuerdo previo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Saintes+Maries+de+la+Mer+plage+est"
+        }
+      ],
+      "tipsEn": [
+        "French municipal beaches typically exclude dogs from June 1 to September 15-30 except in marked dog zones — always verify before driving.",
+        "The Rhône is unsafe for swimming inside Avignon city centre due to barge traffic and currents — only the Barthelasse rural section is recommended.",
+        "Always carry water in summer — the limestone Provençal hills reflect intense heat and rural sections have no shade or fountains."
+      ],
+      "tipsFr": [
+        "Les plages municipales françaises excluent généralement les chiens du 1er juin au 15-30 septembre sauf dans les zones canines marquées — vérifiez toujours avant de partir.",
+        "Le Rhône n'est pas sûr pour la baignade en plein centre d'Avignon en raison du trafic de péniches et des courants — seule la section rurale de la Barthelasse est recommandée.",
+        "Emportez toujours de l'eau en été — les collines calcaires provençales reflètent une chaleur intense et les sections rurales n'ont ni ombre ni fontaine."
+      ],
+      "tipsEs": [
+        "Las playas municipales francesas suelen excluir perros del 1 de junio al 15-30 de septiembre salvo en zonas caninas marcadas — verifica siempre antes de ir.",
+        "El Ródano no es seguro para el baño en pleno centro de Aviñón por el tráfico de barcazas y corrientes — solo la sección rural de la Barthelasse se recomienda.",
+        "Lleva siempre agua en verano — las colinas calcáreas provenzales reflejan un calor intenso y las secciones rurales no tienen sombra ni fuentes."
+      ],
+      "faqsEn": [
+        {
+          "q": "How far is the nearest dog beach from Avignon?",
+          "a": "1h15 by car to Saintes-Maries-de-la-Mer in the Camargue — year-round eastern dog beach. The Sorgue at Fontaine-de-Vaucluse (30 min east) offers Class A drinking-water river walking but no swimming."
+        },
+        {
+          "q": "Can dogs swim in the Rhône at Avignon?",
+          "a": "Not in the city centre — barge traffic and currents make it unsafe. The Barthelasse rural section north of the city is the only safe Rhône swim spot, with calm shallows and gravel entries."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "À quelle distance la plage canine la plus proche d'Avignon ?",
+          "a": "1h15 en voiture jusqu'aux Saintes-Maries-de-la-Mer en Camargue — plage canine est toute l'année. La Sorgue à Fontaine-de-Vaucluse (30 min à l'est) offre la marche en bord de rivière en eau potable Classe A mais pas la baignade."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans le Rhône à Avignon ?",
+          "a": "Pas en plein centre — le trafic de péniches et les courants rendent cela dangereux. La section rurale de la Barthelasse au nord de la ville est le seul spot sûr, avec eaux peu profondes calmes et entrées de gravier."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿A qué distancia está la playa canina más cercana de Aviñón?",
+          "a": "1h15 en coche hasta Saintes-Maries-de-la-Mer en la Camarga — playa canina del este todo el año. El Sorgue en Fontaine-de-Vaucluse (30 min al este) ofrece paseo junto al río con agua potable Clase A pero sin baño."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Ródano en Aviñón?",
+          "a": "No en el pleno centro — el tráfico de barcazas y corrientes lo hacen peligroso. La sección rural de la Barthelasse al norte de la ciudad es el único spot seguro, con aguas poco profundas tranquilas y entradas de grava."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Avignon",
+      "titleFr": "Soins vétérinaires à Avignon",
+      "titleEs": "Atención veterinaria en Aviñón",
+      "introEn": "Avignon has solid day-time vet coverage and one regional 24h emergency clinic in Le Pontet 5 km north. The Marseille Veterinary Faculty 1h south is the major referral centre.",
+      "introFr": "Avignon dispose d'une bonne couverture vétérinaire en journée et d'une clinique d'urgences régionale 24h/24 au Pontet, à 5 km au nord. L'École vétérinaire de Marseille à 1h au sud est le grand centre de référence.",
+      "introEs": "Aviñón tiene buena cobertura veterinaria diurna y una clínica regional de urgencias 24h en Le Pontet, a 5 km al norte. La Escuela Veterinaria de Marsella a 1h al sur es el gran centro de referencia.",
+      "places": [
+        {
+          "name": "Clinique Vétérinaire VetSud (24h)",
+          "address": "50 Avenue Jean Boccace, 84130 Le Pontet",
+          "photo": "/images/city-places/avignon-vets-clinique-veterinaire-vetsud-24h.jpg",
+          "phone": "+33 4 90 32 28 28",
+          "emergency24h": true,
+          "languages": [
+            "French",
+            "English"
+          ],
+          "website": "https://www.vetsud.fr/",
+          "description": "24h emergency veterinary clinic in Le Pontet, 5 km north of Avignon — full surgery, ICU, ultrasound, X-ray, MRI. The closest 24/7 vet for the Avignon-Vaucluse-Gard region.",
+          "descriptionFr": "Clinique vétérinaire d'urgences 24h/24 au Pontet, à 5 km au nord d'Avignon — chirurgie complète, USI, échographie, radio, IRM. Le vétérinaire 24h/24 le plus proche pour la région Avignon-Vaucluse-Gard.",
+          "descriptionEs": "Clínica veterinaria de urgencias 24h en Le Pontet, a 5 km al norte de Aviñón — cirugía completa, UCI, ecografía, rayos X, RM. El veterinario 24/7 más cercano para la región Aviñón-Vaucluse-Gard.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
+          "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
+          "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
+          "googleMapsUrl": "https://maps.google.com/?q=VetSud+Le+Pontet"
+        },
+        {
+          "name": "Cabinet Vétérinaire des Remparts",
+          "address": "15 Avenue Saint-Roch, 84000 Avignon",
+          "photo": "/images/city-places/avignon-vets-cabinet-veterinaire-des-remparts.jpg",
+          "phone": "+33 4 90 86 17 17",
+          "emergency24h": false,
+          "languages": [
+            "French",
+            "English"
+          ],
+          "website": "https://www.veterinaireavignon.fr/",
+          "description": "Modern day-time small-animal practice immediately south of the medieval walls — general medicine, vaccinations, surgery, dentistry. After-hours calls divert to VetSud 24h.",
+          "descriptionFr": "Cabinet moderne pour petits animaux immédiatement au sud des remparts médiévaux — médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers VetSud 24h.",
+          "descriptionEs": "Clínica moderna para pequeños animales inmediatamente al sur de las murallas medievales — medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas a VetSud 24h.",
+          "openingHours": "Mon-Fri 08:30-19:00, Sat 09:00-12:00",
+          "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
+          "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+        },
+        {
+          "name": "Cabinet Vétérinaire de la Barthelasse",
+          "address": "285 Chemin de la Barthelasse, 84000 Avignon",
+          "photo": "/images/city-places/avignon-vets-cabinet-veterinaire-de-la-barthelasse.jpg",
+          "phone": "+33 4 90 82 30 30",
+          "emergency24h": false,
+          "languages": [
+            "French",
+            "English"
+          ],
+          "website": "https://www.veterinaire-barthelasse.fr/",
+          "description": "Day-time veterinary practice on the île de la Barthelasse — general medicine, EU pet passport issuance, microchipping, behavioural consultations.",
+          "descriptionFr": "Cabinet vétérinaire de jour sur l'île de la Barthelasse — médecine générale, délivrance de passeport européen, puce, consultations comportementales.",
+          "descriptionEs": "Consulta veterinaria diurna en la île de la Barthelasse — medicina general, expedición de pasaporte europeo, microchip, consultas conductuales.",
+          "openingHours": "Mon-Fri 08:30-18:30, Sat 09:00-12:00",
+          "tip": "Useful for issuing/updating an EU pet passport mid-trip — Barthelasse charges around 30 € for a passport, 35 € for a microchip.",
+          "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Barthelasse facture environ 30 € pour un passeport, 35 € pour une puce.",
+          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Barthelasse cobra unos 30 € por pasaporte, 35 € por microchip.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinaire+Barthelasse+Avignon"
+        }
+      ],
+      "tipsEn": [
+        "France is in the EU and Schengen — standard EU pet passport with valid rabies vaccination and ISO microchip is sufficient for entry.",
+        "Avignon city-centre vets do NOT do 24h emergency — for nights and weekends go directly to VetSud in Le Pontet (5 km north).",
+        "Always carry the original EU pet passport: photocopies are not accepted by French vet offices for export certificates."
+      ],
+      "tipsFr": [
+        "La France est dans l'UE et l'espace Schengen — un passeport européen standard avec vaccin antirabique en cours et puce ISO suffit pour l'entrée.",
+        "Les vétérinaires du centre d'Avignon ne font PAS l'urgence 24h/24 — la nuit et le week-end, allez directement chez VetSud au Pontet (5 km au nord).",
+        "Portez toujours le passeport européen original : les photocopies ne sont pas acceptées par les cabinets français pour les certificats d'export."
+      ],
+      "tipsEs": [
+        "Francia está en la UE y Schengen — un pasaporte europeo estándar con vacuna antirrábica vigente y microchip ISO basta para entrar.",
+        "Los veterinarios del centro de Aviñón NO hacen urgencias 24h — por las noches y fines de semana ve directamente a VetSud en Le Pontet (5 km al norte).",
+        "Lleva siempre el pasaporte europeo original: las clínicas francesas no aceptan fotocopias para certificados de exportación."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the 24h emergency vet near Avignon?",
+          "a": "Clinique Vétérinaire VetSud at 50 Avenue Jean Boccace in Le Pontet, +33 4 90 32 28 28 — 5 km north on the N7. Call ahead for triage."
+        },
+        {
+          "q": "Do I need a pet passport for Avignon?",
+          "a": "Yes for entry from outside France. EU pet passport with rabies vaccination (≥21 days, not expired) and ISO microchip — standard EU rules. No additional French-specific paperwork."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire d'urgence 24h/24 près d'Avignon ?",
+          "a": "Clinique Vétérinaire VetSud, 50 Avenue Jean Boccace au Pontet, +33 4 90 32 28 28 — 5 km au nord par la N7. Appelez avant pour triage."
+        },
+        {
+          "q": "Faut-il un passeport européen pour Avignon ?",
+          "a": "Oui pour entrer depuis hors-France. Passeport européen avec vaccin antirabique (≥21 jours, non périmé) et puce ISO — règles UE standard. Pas de paperasse spécifique française."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h cerca de Aviñón?",
+          "a": "Clinique Vétérinaire VetSud, 50 Avenue Jean Boccace en Le Pontet, +33 4 90 32 28 28 — 5 km al norte por la N7. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito pasaporte europeo para Aviñón?",
+          "a": "Sí para entrar desde fuera de Francia. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico francés adicional."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travelling to Avignon with a Dog: Practical Tips",
+      "titleFr": "Voyager à Avignon avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Aviñón con perro: consejos prácticos",
+      "introEn": "Avignon — the Provençal capital and former seat of seven popes — combines a UNESCO-rated walled centro storico, the towering Palais des Papes, the legendary Pont Saint-Bénézet, and direct TGV access from Paris in 2h40.",
+      "introFr": "Avignon — capitale de la Provence et siège de sept papes — combine un centro storico fortifié classé UNESCO, l'imposant Palais des Papes, le légendaire Pont Saint-Bénézet, et un accès TGV direct depuis Paris en 2h40.",
+      "introEs": "Aviñón — capital de Provenza y antigua sede de siete papas — combina un centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas, el legendario Pont Saint-Bénézet, y acceso TGV directo desde París en 2h40.",
+      "places": [
+        {
+          "name": "Best season for visiting Avignon with a dog",
+          "photo": "/images/city-places/avignon-tips-best-season-for-visiting-avignon-with-a-dog.jpg",
+          "description": "April-May and September-October are ideal — average highs 18-25 °C, manageable for dogs, the lavender bloom (mid-June to mid-July) and the autumn harvest light at peak. Avoid the Avignon Festival weekends (mid-July) and the August heatwaves (35-38 °C).",
+          "descriptionFr": "Avril-mai et septembre-octobre sont idéaux — maxima moyens 18-25 °C, gérables pour un chien, la floraison de la lavande (mi-juin à mi-juillet) et la lumière de vendanges automnales au pic. Évitez les week-ends du Festival d'Avignon (mi-juillet) et les canicules d'août (35-38 °C).",
+          "descriptionEs": "Abril-mayo y septiembre-octubre son ideales — máximas medias 18-25 °C, manejables para un perro, la floración de la lavanda (mediados de junio a mediados de julio) y la luz de vendimia otoñal en su pico. Evita los fines de semana del Festival de Aviñón (mediados de julio) y las olas de calor de agosto (35-38 °C)."
+        },
+        {
+          "name": "Avignon Festival impact",
+          "photo": "/images/city-places/avignon-tips-avignon-festival-impact.jpg",
+          "description": "The Festival d'Avignon (early-late July) brings 150,000 theatre fans into the intra-muros — restaurants book out 6 weeks ahead, hotels triple in price, the Place de l'Horloge becomes impassable. With an anxious dog, avoid this fortnight entirely; with a calm dog, book hotel + dog-walks before 11:00 and after 21:00 only.",
+          "descriptionFr": "Le Festival d'Avignon (début-fin juillet) attire 150 000 amateurs de théâtre dans l'intra-muros — les restaurants se réservent 6 semaines à l'avance, les hôtels triplent leurs tarifs, la Place de l'Horloge devient impraticable. Avec un chien anxieux, évitez complètement cette quinzaine ; avec un chien calme, réservez hôtel + promenades canines avant 11h et après 21h uniquement.",
+          "descriptionEs": "El Festival de Aviñón (principios-finales de julio) trae 150 000 aficionados al teatro al intra-muros — los restaurantes se reservan con 6 semanas de antelación, los hoteles triplican sus tarifas, la Place de l'Horloge se vuelve impracticable. Con perro ansioso, evita por completo esta quincena; con perro tranquilo, reserva hotel + paseos caninos antes de las 11:00 y después de las 21:00 solamente."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/avignon-tips-currency-cost.jpg",
+          "description": "France uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Avignon hotels average 12-18 €/night — slightly above the EU median due to Provençal tourist pricing, but well below Paris or Nice.",
+          "descriptionFr": "La France utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels d'Avignon tournent autour de 12-18 €/nuit — légèrement au-dessus de la médiane UE en raison du tarif touristique provençal, mais bien en-dessous de Paris ou Nice.",
+          "descriptionEs": "Francia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Aviñón rondan 12-18 €/noche — ligeramente por encima de la mediana UE por el pricing turístico provenzal, pero muy por debajo de París o Niza."
+        }
+      ],
+      "tipsEn": [
+        "Avignon is one of France's most dog-tolerant cultural-tourism cities — at least 80% of bistrots accept leashed dogs on the terrace year-round.",
+        "Pair Avignon with day trips: Pont du Gard (30 min by car), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer (1h15).",
+        "The TGV Avignon-Paris in 2h40 is the fastest dog-friendly link between Provence and the capital."
+      ],
+      "tipsFr": [
+        "Avignon est l'une des villes de tourisme culturel les plus tolérantes aux chiens de France — au moins 80 % des bistrots acceptent les chiens en laisse en terrasse toute l'année.",
+        "Combinez Avignon avec des excursions : Pont du Gard (30 min en voiture), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer (1h15).",
+        "Le TGV Avignon-Paris en 2h40 est la liaison dog-friendly la plus rapide entre la Provence et la capitale."
+      ],
+      "tipsEs": [
+        "Aviñón es una de las ciudades de turismo cultural más tolerantes con perros de Francia — al menos el 80 % de los bistrós admite perros con correa en terraza todo el año.",
+        "Combina Aviñón con excursiones: Pont du Gard (30 min en coche), Châteauneuf-du-Pape (15 min), Les Baux-de-Provence (45 min), Saintes-Maries-de-la-Mer (1h15).",
+        "El TGV Aviñón-París en 2h40 es el enlace dog-friendly más rápido entre Provenza y la capital."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Avignon good for a dog-friendly weekend?",
+          "a": "Yes — Avignon combines a UNESCO-rated walled centro storico, the iconic Palais des Papes outdoor terraces, the île de la Barthelasse with 4 km of riverside walking, the Rocher des Doms gardens with the iconic city panorama, and day-trip access to lavender fields, the Camargue, and Pont du Gard. Avoid mid-July (Festival) and August (heatwaves)."
+        },
+        {
+          "q": "How does Avignon compare to Aix-en-Provence for dog travel?",
+          "a": "Avignon is bigger, more central (TGV in 2h40 from Paris), with vastly more accessible nature (île de la Barthelasse, Rhône, Camargue, Luberon all within 1h). Aix-en-Provence is more upscale and quieter. Avignon wins for variety and rail access; Aix for an intimate Provençal weekend."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Avignon est-elle bien pour un week-end dog-friendly ?",
+          "a": "Oui — Avignon combine un centro storico fortifié UNESCO, les terrasses extérieures iconiques du Palais des Papes, l'île de la Barthelasse avec 4 km de promenade au bord du Rhône, les jardins du Rocher des Doms avec le panorama iconique, et un accès en excursion aux champs de lavande, à la Camargue, au Pont du Gard. Évitez mi-juillet (Festival) et août (canicules)."
+        },
+        {
+          "q": "Comment Avignon se compare-t-elle à Aix-en-Provence pour le voyage canin ?",
+          "a": "Avignon est plus grande, plus centrale (TGV en 2h40 depuis Paris), avec une nature bien plus accessible (île de la Barthelasse, Rhône, Camargue, Luberon tous à moins d'1h). Aix-en-Provence est plus chic et plus calme. Avignon gagne pour la variété et l'accès ferroviaire ; Aix pour un week-end provençal intime."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Aviñón es buena para un fin de semana dog-friendly?",
+          "a": "Sí — Aviñón combina un centro storico amurallado UNESCO, las terrazas exteriores icónicas del Palacio de los Papas, la île de la Barthelasse con 4 km de paseo junto al Ródano, los jardines del Rocher des Doms con el panorama icónico, y acceso de excursión a los campos de lavanda, la Camarga, el Pont du Gard. Evita mediados de julio (Festival) y agosto (olas de calor)."
+        },
+        {
+          "q": "¿Cómo se compara Aviñón con Aix-en-Provence para viajes caninos?",
+          "a": "Aviñón es más grande, más central (TGV en 2h40 desde París), con naturaleza mucho más accesible (île de la Barthelasse, Ródano, Camarga, Luberon todos a menos de 1h). Aix-en-Provence es más exclusivo y tranquilo. Aviñón gana para variedad y acceso ferroviario; Aix para un fin de semana provenzal íntimo."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Avignon",
+      "titleFr": "Attractions pet-friendly à Avignon",
+      "titleEs": "Atracciones pet-friendly en Aviñón",
+      "introEn": "Most of Avignon's signature outdoor sights are dog-friendly — the Place du Palais des Papes, the Place de l'Horloge, the medieval walls, the Rocher des Doms gardens and the Pont Saint-Bénézet exterior view all welcome leashed dogs free of charge.",
+      "introFr": "La plupart des sites extérieurs signatures d'Avignon sont dog-friendly — la Place du Palais des Papes, la Place de l'Horloge, les remparts médiévaux, les jardins du Rocher des Doms et la vue extérieure du Pont Saint-Bénézet accueillent tous les chiens en laisse gratuitement.",
+      "introEs": "La mayoría de los lugares exteriores emblemáticos de Aviñón son dog-friendly — la Place du Palais des Papes, la Place de l'Horloge, las murallas medievales, los jardines del Rocher des Doms y la vista exterior del Pont Saint-Bénézet admiten todos perros con correa gratis.",
+      "places": [
+        {
+          "name": "Palais des Papes (Square)",
+          "address": "Place du Palais, 84000 Avignon",
+          "photo": "/images/city-places/avignon-attractions-palais-des-papes-square.jpg",
+          "petFriendly": true,
+          "description": "The largest Gothic palace in Europe — UNESCO since 1995, former seat of seven popes (1309-1377). The Place du Palais and the outer ramparts walk are open 24/7 and dog-friendly with leashed dogs free of charge. Interior tour admits assistance dogs only.",
+          "descriptionFr": "Le plus grand palais gothique d'Europe — UNESCO depuis 1995, ancien siège de sept papes (1309-1377). La Place du Palais et la promenade des remparts extérieurs sont ouvertes 24h/24 et dog-friendly avec chiens en laisse gratuits. La visite intérieure n'admet que les chiens d'assistance.",
+          "descriptionEs": "El mayor palacio gótico de Europa — UNESCO desde 1995, antigua sede de siete papas (1309-1377). La Place du Palais y el paseo de las murallas exteriores están abiertos 24/7 y son dog-friendly con perros con correa gratis. La visita interior solo admite perros de asistencia.",
+          "petPolicy": "Square free; interior tour assistance only",
+          "petPolicyFr": "Place gratuite ; visite intérieure chiens d'assistance uniquement",
+          "petPolicyEs": "Plaza gratis; visita interior solo perros de asistencia",
+          "openingHours": "Square 24/7; interior 09:00-19:00",
+          "tip": "Sunset view from the Place du Palais looking up at the floodlit façade is the iconic Avignon photograph — quietest before 11:00 and after 19:00.",
+          "tipFr": "La vue au coucher du soleil depuis la Place du Palais sur la façade illuminée est la photo iconique d'Avignon — plus calme avant 11h et après 19h.",
+          "tipEs": "La vista al atardecer desde la Place du Palais hacia la fachada iluminada es la foto icónica de Aviñón — más tranquila antes de las 11:00 y después de las 19:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Palais+des+Papes+Avignon"
+        },
+        {
+          "name": "Pont Saint-Bénézet (Exterior View)",
+          "address": "Rue Ferruce, 84000 Avignon",
+          "photo": "/images/city-places/avignon-attractions-pont-saint-benezet-exterior-view.jpg",
+          "petFriendly": true,
+          "description": "The legendary 12th-century medieval bridge — only 4 of 22 original arches remain, the subject of the children's song 'Sur le Pont d'Avignon'. The exterior view from the Rocher des Doms or the île de la Barthelasse is dog-friendly with leashed dogs free of charge. Walking on the bridge (paid ticket) admits assistance dogs only.",
+          "descriptionFr": "Le légendaire pont médiéval du XIIe siècle — seulement 4 des 22 arches originales subsistent, sujet de la comptine « Sur le Pont d'Avignon ». La vue extérieure depuis le Rocher des Doms ou l'île de la Barthelasse est dog-friendly avec chiens en laisse gratuits. La marche sur le pont (billet payant) n'admet que les chiens d'assistance.",
+          "descriptionEs": "El legendario puente medieval del siglo XII — solo quedan 4 de los 22 arcos originales, sujeto de la canción infantil « Sur le Pont d'Avignon ». La vista exterior desde el Rocher des Doms o la île de la Barthelasse es dog-friendly con perros con correa gratis. Caminar sobre el puente (billete de pago) solo admite perros de asistencia.",
+          "petPolicy": "Exterior view free; bridge walk assistance only",
+          "petPolicyFr": "Vue extérieure gratuite ; marche sur le pont chiens d'assistance uniquement",
+          "petPolicyEs": "Vista exterior gratis; paseo sobre el puente solo perros de asistencia",
+          "openingHours": "Exterior 24/7; bridge 09:00-19:00",
+          "tip": "The Rocher des Doms upper terrace is the best free dog-friendly viewpoint — combines the Pont, the Rhône and the Mont Ventoux beyond.",
+          "tipFr": "La terrasse haute du Rocher des Doms est le meilleur belvédère dog-friendly gratuit — combine le Pont, le Rhône et le Mont Ventoux au-delà.",
+          "tipEs": "La terraza alta del Rocher des Doms es el mejor mirador dog-friendly gratis — combina el Puente, el Ródano y el Mont Ventoux más allá.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pont+Saint+Benezet+Avignon"
+        },
+        {
+          "name": "Place de l'Horloge",
+          "address": "Place de l'Horloge, 84000 Avignon",
+          "photo": "/images/city-places/avignon-attractions-place-de-l-horloge.jpg",
+          "petFriendly": true,
+          "description": "Avignon's main café-and-theatre square — the Hôtel de Ville, the 19th-century Opéra, and 30+ café terraces ringing the entire perimeter. Open 24/7, dog-friendly with leashed dogs throughout. The most iconic dog-people-watching spot in Avignon.",
+          "descriptionFr": "La place café-et-théâtre principale d'Avignon — l'Hôtel de Ville, l'Opéra du XIXe siècle et plus de 30 terrasses de café autour de tout le périmètre. Ouverte 24h/24, dog-friendly avec chiens en laisse partout. Le coin canin-people-watching le plus iconique d'Avignon.",
+          "descriptionEs": "La principal plaza-café-y-teatro de Aviñón — el Hôtel de Ville, la Ópera del siglo XIX y más de 30 terrazas de café alrededor de todo el perímetro. Abierta 24/7, dog-friendly con perros con correa en todas partes. El sitio canino-people-watching más icónico de Aviñón.",
+          "petPolicy": "Public square, leashed dogs free",
+          "petPolicyFr": "Place publique, chiens en laisse gratuits",
+          "petPolicyEs": "Plaza pública, perros con correa gratis",
+          "openingHours": "24/7",
+          "tip": "Mornings (08:00-10:00) are calmest; evenings (18:00-23:00) are the local meet-up time. During the Festival d'Avignon (mid-July) the square is impassable — avoid with an anxious dog.",
+          "tipFr": "Les matinées (8h-10h) sont les plus calmes ; les soirées (18h-23h) sont l'heure de rencontre locale. Pendant le Festival d'Avignon (mi-juillet) la place est impraticable — évitez avec un chien anxieux.",
+          "tipEs": "Las mañanas (08:00-10:00) son las más tranquilas; las tardes (18:00-23:00) son la hora de encuentro local. Durante el Festival de Aviñón (mediados de julio) la plaza es impracticable — evita con perro ansioso.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+de+l+Horloge+Avignon"
+        }
+      ],
+      "tipsEn": [
+        "Avignon's outdoor attractions accept leashed dogs free of charge; museum interiors (Palais des Papes, Petit Palais, Musée Calvet) admit assistance dogs only.",
+        "The Festival d'Avignon (early-late July) makes the centro storico impassable — avoid with an anxious dog or restrict to before 11:00 / after 21:00.",
+        "Day trips by direct TGV: Paris (2h40), Marseille (35 min), Lyon (1h10) — leashed medium/large dogs at half-fare with muzzle."
+      ],
+      "tipsFr": [
+        "Les attractions extérieures d'Avignon acceptent les chiens en laisse gratuitement ; les musées intérieurs (Palais des Papes, Petit Palais, Musée Calvet) n'admettent que les chiens d'assistance.",
+        "Le Festival d'Avignon (début-fin juillet) rend le centro storico impraticable — évitez avec un chien anxieux ou restreignez à avant 11h / après 21h.",
+        "Excursions en TGV direct : Paris (2h40), Marseille (35 min), Lyon (1h10) — chiens moyens/grands en laisse à demi-tarif avec muselière."
+      ],
+      "tipsEs": [
+        "Las atracciones al aire libre de Aviñón admiten perros con correa gratis; los museos interiores (Palacio de los Papas, Petit Palais, Musée Calvet) solo admiten perros de asistencia.",
+        "El Festival de Aviñón (principios-finales de julio) hace el centro storico impracticable — evita con perro ansioso o restringe a antes de las 11:00 / después de las 21:00.",
+        "Excursiones en TGV directo: París (2h40), Marsella (35 min), Lyon (1h10) — perros medianos/grandes con correa a media tarifa con bozal."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to the Palais des Papes?",
+          "a": "To the Place du Palais, the outer ramparts walk and the Rocher des Doms gardens yes, with a leash, free of charge. The interior palace tour admits assistance dogs only."
+        },
+        {
+          "q": "Are dogs allowed on the Pont d'Avignon?",
+          "a": "Walking onto the actual bridge with a paid ticket admits assistance dogs only. The exterior view from the Rocher des Doms upper terrace or the île de la Barthelasse riverbank is fully dog-friendly with leashed dogs free of charge — the Mont Ventoux as backdrop."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien au Palais des Papes ?",
+          "a": "Sur la Place du Palais, la promenade des remparts extérieurs et les jardins du Rocher des Doms oui, en laisse, gratuit. La visite intérieure du palais n'admet que les chiens d'assistance."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur le Pont d'Avignon ?",
+          "a": "La marche sur le pont lui-même avec un billet payant n'admet que les chiens d'assistance. La vue extérieure depuis la terrasse haute du Rocher des Doms ou la rive de la Barthelasse est entièrement dog-friendly avec chiens en laisse gratuits — le Mont Ventoux en arrière-plan."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al Palacio de los Papas?",
+          "a": "A la Place du Palais, al paseo de las murallas exteriores y a los jardines del Rocher des Doms sí, con correa, gratis. La visita interior del palacio solo admite perros de asistencia."
+        },
+        {
+          "q": "¿Se admiten perros en el Pont d'Avignon?",
+          "a": "Caminar sobre el puente con un billete de pago solo admite perros de asistencia. La vista exterior desde la terraza alta del Rocher des Doms o la orilla de la Barthelasse es totalmente dog-friendly con perros con correa gratis — el Mont Ventoux de fondo."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Walking in Avignon",
+      "titleFr": "Pet-sitting et promenade canine à Avignon",
+      "titleEs": "Pet-sitting y paseo canino en Aviñón",
+      "introEn": "For day trips where the dog cannot come (Palais des Papes interior, Petit Palais, Pont Saint-Bénézet walk) Avignon has reliable verified pet-sitting through international and French platforms.",
+      "introFr": "Pour les excursions où le chien ne peut pas venir (intérieur du Palais des Papes, Petit Palais, marche sur le Pont Saint-Bénézet), Avignon propose un pet-sitting fiable et vérifié via plateformes internationales et françaises.",
+      "introEs": "Para las excursiones donde el perro no puede ir (interior del Palacio de los Papas, Petit Palais, paseo sobre el Pont Saint-Bénézet), Aviñón tiene pet-sitting fiable y verificado a través de plataformas internacionales y francesas.",
+      "places": [
+        {
+          "name": "Pawshake Avignon",
+          "languages": [
+            "French",
+            "English"
+          ],
+          "description": "International pet-sitting platform with about 30 verified Avignon-based sitters within 5 km of the centre — drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
+          "descriptionFr": "Plateforme internationale avec environ 30 sitters vérifiés basés à Avignon dans un rayon de 5 km du centre — visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
+          "descriptionEs": "Plataforma internacional con unos 30 cuidadores verificados con base en Aviñón en un radio de 5 km del centro — visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
+          "website": "https://www.pawshake.fr/dog-sitting/avignon",
+          "tip": "Filter for English-speaking sitters in the platform settings — about 55% of Avignon sitters speak fluent English thanks to the international Festival visitor base.",
+          "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 55 % des sitters d'Avignon parlent anglais couramment grâce à la base de visiteurs internationaux du Festival.",
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 55 % de los cuidadores de Aviñón habla inglés con fluidez gracias a la base de visitantes internacionales del Festival."
+        },
+        {
+          "name": "Holidog Avignon",
+          "languages": [
+            "French",
+            "English"
+          ],
+          "description": "French-focused pet-sitting platform with around 20 verified Avignon sitters and a 24/7 vet phone line included with every booking. Average rate 22-30 €/day for boarding, 12-15 € for a 30-min drop-in walk.",
+          "descriptionFr": "Plateforme française avec environ 20 sitters d'Avignon vérifiés et ligne vétérinaire 24h/24 incluse à chaque réservation. Tarif moyen 22-30 €/jour pour l'hébergement, 12-15 € pour une visite de 30 min.",
+          "descriptionEs": "Plataforma francesa con unos 20 cuidadores verificados de Aviñón y línea veterinaria 24/7 incluida en cada reserva. Tarifa media 22-30 €/día para alojamiento, 12-15 € por una visita de 30 min.",
+          "website": "https://www.holidog.com/fr/garde-d-animaux/avignon",
+          "tip": "Book at least 4 weeks ahead during the Festival d'Avignon (early July) — every Avignon sitter is fully booked for the festival fortnight.",
+          "tipFr": "Réservez au moins 4 semaines à l'avance pendant le Festival d'Avignon (début juillet) — chaque sitter d'Avignon est complet pour la quinzaine du festival.",
+          "tipEs": "Reserva al menos 4 semanas antes durante el Festival de Aviñón (principios de julio) — cada cuidador de Aviñón está completo durante la quincena del festival."
+        }
+      ],
+      "tipsEn": [
+        "Avignon pet-sitter rates average 22-30 €/day on Pawshake, 25-35 €/day during the Festival d'Avignon — among the lowest rates in major French tourism cities.",
+        "Always confirm the sitter's English fluency before booking if you don't speak French — about 55% are bilingual due to the international Festival audience.",
+        "Several boutique hotels in central Avignon offer in-house dog-sitting for guests during sightseeing — ask at check-in."
+      ],
+      "tipsFr": [
+        "Les tarifs des sitters d'Avignon tournent autour de 22-30 €/jour sur Pawshake, 25-35 €/jour pendant le Festival d'Avignon — parmi les plus bas tarifs des grandes villes touristiques françaises.",
+        "Confirmez toujours le niveau d'anglais du sitter avant de réserver si vous ne parlez pas français — environ 55 % sont bilingues en raison du public international du Festival.",
+        "Plusieurs hôtels boutiques du centre proposent une garde canine maison pour leurs clients pendant les visites — demandez au check-in."
+      ],
+      "tipsEs": [
+        "Las tarifas de los cuidadores de Aviñón rondan 22-30 €/día en Pawshake, 25-35 €/día durante el Festival de Aviñón — de las tarifas más bajas de las grandes ciudades turísticas francesas.",
+        "Confirma siempre el nivel de inglés del cuidador antes de reservar si no hablas francés — alrededor del 55 % es bilingüe por el público internacional del Festival.",
+        "Varios hoteles boutique del centro ofrecen cuidado canino interno para sus clientes durante las visitas — pregunta en el check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog day-care cost in Avignon?",
+          "a": "22-30 € per day depending on platform and dog size, via Pawshake or Holidog. Drop-in visits run 12-15 € for 30 minutes. Festival d'Avignon period (early July) prices rise 30-50%."
+        },
+        {
+          "q": "Can I find an English-speaking sitter in Avignon?",
+          "a": "Yes — about 55% of Avignon sitters on Pawshake speak fluent English thanks to the international Festival audience. Filter the platform by language."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garderie canine à Avignon ?",
+          "a": "22-30 € par jour selon la plateforme et la taille du chien, via Pawshake ou Holidog. Visites à domicile 12-15 € pour 30 min. La période du Festival d'Avignon (début juillet) voit les tarifs grimper de 30-50 %."
+        },
+        {
+          "q": "Puis-je trouver un sitter anglophone à Avignon ?",
+          "a": "Oui — environ 55 % des sitters d'Avignon sur Pawshake parlent anglais couramment grâce au public international du Festival. Filtrez par langue."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta la guardería canina en Aviñón?",
+          "a": "22-30 € por día según plataforma y tamaño del perro, vía Pawshake o Holidog. Visitas a domicilio 12-15 € por 30 min. El periodo del Festival de Aviñón (principios de julio) ve subir las tarifas un 30-50 %."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador anglohablante en Aviñón?",
+          "a": "Sí — alrededor del 55 % de los cuidadores de Aviñón en Pawshake habla inglés con fluidez gracias al público internacional del Festival. Filtra por idioma."
+        }
+      ]
+    }
+  }
+}

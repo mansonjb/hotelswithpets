@@ -88,6 +88,7 @@ const TARGETS = [
   { slug: 'avignon', query: 'Avignon France Palais des Papes Pont Saint Benezet Rocher des Doms Provence panorama sunset' },
   { slug: 'stavanger', query: 'Stavanger Norway Gamle Stavanger wooden Old Town Vågen harbour Lysefjord panorama sunset' },
   { slug: 'zaragoza', query: 'Zaragoza Spain Basilica del Pilar Ebro river Puente de Piedra panorama sunset' },
+  { slug: 'toledo', query: 'Toledo Spain Mirador del Valle Casco Historico Cathedral Alcazar Tagus gorge panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

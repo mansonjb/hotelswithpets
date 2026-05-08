@@ -492,6 +492,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Nea Paralia waterfront park (with a dedicated dog area), the Seich Sou urban forest, and the Ano Poli Byzantine wall walks',
       area: 'Ano Poli (Upper Town), Ladadika, and the Waterfront',
     },
+    toledo: {
+      personality: `the medieval Imperial City and former Visigoth, Moorish and Christian capital — a UNESCO-rated open-air museum on a granite outcrop above the Tagus, with Madrid 33 minutes away by Avant high-speed rail`,
+      highlight: `the Mirador del Valle viewpoint with the iconic skyline panorama, the Senda Ecológica circular path along the Tagus, and the Puente de San Martín medieval bridge`,
+      area: `the Casco Histórico around Plaza de Zocodover, the Judería with the El Greco Museum, and La Vega across the Puente de San Martín`,
+    },
     toulouse: {
       personality: 'a laid-back southwestern city of pink brick and outdoor terraces where dogs blend into everyday life along the Garonne',
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
@@ -1034,6 +1039,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc du front de mer Nea Paralia (avec une zone canine dédiée), la forêt urbaine de Seich Sou et les promenades byzantines d\'Ano Poli',
       area: 'Ano Poli (Haute Ville), Ladadika et le Front de Mer',
     },
+    toledo: {
+      personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne — un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
+      highlight: `le belvédère du Mirador del Valle avec le panorama iconique sur la skyline, la Senda Ecológica circulaire le long du Tage, et le Puente de San Martín médiéval`,
+      area: `le Casco Histórico autour de la Plaza de Zocodover, la Judería avec le musée El Greco, et La Vega de l'autre côté du Puente de San Martín`,
+    },
     toulouse: {
       personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
@@ -1575,6 +1585,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la segunda ciudad de Grecia y una de las más dog-friendly — una ciudad portuaria de 2.300 años donde los perros son bienvenidos en terrazas, en el barrio antiguo y a lo largo de los 3,5 km del paseo marítimo Nea Paralia',
       highlight: 'el parque frente al mar Nea Paralia (con zona canina dedicada), el bosque urbano de Seich Sou y los paseos por las murallas bizantinas de Ano Poli',
       area: 'Ano Poli (Ciudad Alta), Ladadika y el Frente Marítimo',
+    },
+    toledo: {
+      personality: `la ciudad imperial medieval y antigua capital visigoda, morisca y cristiana — un museo al aire libre clasificado UNESCO en un promontorio de granito sobre el Tajo, con Madrid a 33 minutos en tren Avant de alta velocidad`,
+      highlight: `el mirador del Mirador del Valle con el panorama icónico del skyline, la Senda Ecológica circular a lo largo del Tajo, y el Puente de San Martín medieval`,
+      area: `el Casco Histórico alrededor de la Plaza de Zocodover, la Judería con el museo del Greco, y La Vega al otro lado del Puente de San Martín`,
     },
     toulouse: {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',

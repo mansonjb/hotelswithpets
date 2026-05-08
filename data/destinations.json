@@ -6889,6 +6889,79 @@
     }
   },
   {
+    "slug": "toledo",
+    "name": "Toledo",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/toledo.jpg",
+    "intro": "Toledo — the medieval Imperial City and former Visigoth, Moorish and Christian capital — is a UNESCO-rated open-air museum where Christian, Jewish and Islamic heritage meet on a single granite outcrop above the Tagus, with Madrid 33 minutes away by Avant high-speed rail.",
+    "lat": 39.8628,
+    "lng": -4.0273,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cold & dry",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 32,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cold & dry",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "toulouse",
     "name": "Toulouse",
     "country": "France",

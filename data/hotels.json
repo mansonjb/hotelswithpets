@@ -14552,6 +14552,131 @@
     "slug": "abc-hotel-thessaloniki"
   },
   {
+    "id": "toledo-1",
+    "name": "Parador de Toledo",
+    "destinationSlug": "toledo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 3120,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/parador-de-toledo.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Parador de Toledo — a 4-star Parador on the Cigarrales hillside facing the Casco Histórico — welcomes pets in selected room categories. Pet fee 15 € per night. Up to two pets per room. The Mirador del Valle viewpoint is at the doorstep. Pets on lead in lobbies; not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Iconic city panorama",
+      "Outdoor pool",
+      "Restaurant"
+    ],
+    "slug": "parador-de-toledo"
+  },
+  {
+    "id": "toledo-2",
+    "name": "Hotel Eurostars Palacio Buenavista",
+    "destinationSlug": "toledo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2340,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/eurostars-palacio-buenavista.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Eurostars Palacio Buenavista — a 5-star hotel in a 16th-century palace on Concilios de Toledo street — welcomes pets at 15 € per night. Up to two pets per room. Casco Histórico 5 min on foot via Puente de San Martín. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant",
+      "Renaissance interiors"
+    ],
+    "slug": "eurostars-palacio-buenavista"
+  },
+  {
+    "id": "toledo-3",
+    "name": "Hotel Pintor El Greco",
+    "destinationSlug": "toledo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2640,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/pintor-el-greco.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Pintor El Greco — a 4-star boutique hotel in a 17th-century mansion in the Judería — welcomes pets at 12 € per night. Up to two pets per room. El Greco Museum at the doorstep, Plaza de Zocodover 8 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Tagus gorge views",
+      "Restaurant",
+      "Heritage interiors"
+    ],
+    "slug": "hotel-pintor-el-greco"
+  },
+  {
+    "id": "toledo-4",
+    "name": "Hotel Sercotel Alfonso VI",
+    "destinationSlug": "toledo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2940,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sercotel-alfonso-vi.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Sercotel Alfonso VI — a 3-star hotel near the Alcázar — welcomes pets at 10 € per night. Up to two pets per room. Plaza de Zocodover 4 min on foot, Alcázar at the doorstep. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Family rooms"
+    ],
+    "slug": "hotel-sercotel-alfonso-vi"
+  },
+  {
+    "id": "toledo-5",
+    "name": "Hostal Centro",
+    "destinationSlug": "toledo",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.5,
+    "reviewCount": 2820,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-centro-toledo.en-gb.html",
+    "petFee": 8,
+    "petPolicy": "Hostal Centro — a 2-star family-run guesthouse on Calle Nueva 13 in the Casco Histórico — welcomes dogs at 8 € per night. One pet per room standard, second on prior request. Plaza de Zocodover 2 min on foot.",
+    "highlights": [
+      "Free WiFi",
+      "Family-run",
+      "Central location"
+    ],
+    "slug": "hostal-centro-toledo"
+  },
+  {
     "id": "toulouse-1",
     "name": "La Cour Des Consuls Hotel & Spa Toulouse",
     "destinationSlug": "toulouse",

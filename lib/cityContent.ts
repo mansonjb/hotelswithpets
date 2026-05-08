@@ -10257,6 +10257,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  toledo: {
+    history: {
+      fr: `Toledo, fondée comme Toletum à l'époque romaine, fut successivement capitale du royaume wisigothique (VIe-VIIIe siècles), centre culturel mauresque (Tulaytula, 711-1085) puis capitale de la Castille jusqu'au transfert de la cour à Madrid en 1561. La ville est un musée à ciel ouvert classé UNESCO depuis 1986 où se rencontrent l'héritage chrétien (cathédrale gothique, Alcázar), juif (synagogues du Tránsito et de Santa María la Blanca) et islamique (mosquée Cristo de la Luz, Puerta de Bisagra). Perchée sur un éperon de granit ceinturé sur trois côtés par les gorges du Tage, Toledo doit son surnom de « cité impériale » à Charles Quint qui en fit sa capitale au XVIe siècle. Pour les voyageurs avec un chien, Toledo est l'une des destinations UNESCO les plus accessibles d'Espagne : Casco Histórico piéton en 25 min, culture tasca tolérante par défaut, Senda Ecológica de 7 km le long du Tage, Mirador del Valle dog-friendly, et liaison Avant directe depuis Madrid en 33 min.`,
+      en: `Toledo, founded as Toletum in Roman times, was successively the capital of the Visigothic kingdom (6th-8th centuries), a Moorish cultural centre (Tulaytula, 711-1085), and the capital of Castile until the court moved to Madrid in 1561. The city has been a UNESCO open-air museum since 1986 where Christian (Gothic cathedral, Alcázar), Jewish (Tránsito and Santa María la Blanca synagogues) and Islamic (Cristo de la Luz mosque, Puerta de Bisagra gate) heritage meet. Perched on a granite outcrop encircled on three sides by the Tagus gorge, Toledo earned its 'Imperial City' nickname from Charles V who made it his capital in the 16th century. For travellers with a dog, Toledo is one of Spain's most accessible UNESCO destinations: walkable Casco Histórico in 25 min, dog-tolerant tasca culture by default, the 7 km Senda Ecológica along the Tagus, dog-friendly Mirador del Valle, and direct Avant rail link from Madrid in 33 min.`,
+      es: `Toledo, fundada como Toletum en época romana, fue sucesivamente capital del reino visigodo (siglos VI-VIII), centro cultural morisco (Tulaytula, 711-1085) y capital de Castilla hasta el traslado de la corte a Madrid en 1561. La ciudad es un museo al aire libre clasificado UNESCO desde 1986 donde se encuentran el patrimonio cristiano (catedral gótica, Alcázar), judío (sinagogas del Tránsito y de Santa María la Blanca) e islámico (mezquita del Cristo de la Luz, Puerta de Bisagra). Encaramada sobre un promontorio de granito rodeado en tres lados por el desfiladero del Tajo, Toledo debe su apodo de « ciudad imperial » a Carlos V que la hizo su capital en el siglo XVI. Para los viajeros con perro, Toledo es uno de los destinos UNESCO más accesibles de España: Casco Histórico peatonal en 25 min, cultura de tascas tolerante por defecto, Senda Ecológica de 7 km a lo largo del Tajo, Mirador del Valle dog-friendly, y enlace directo Avant desde Madrid en 33 min.`,
+    },
+    sights: [
+      { name: 'Mirador del Valle', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Belvédère iconique face au Casco Histórico — l'angle le plus photographié de la skyline tolédane. Gratuit 24h/24, dog-friendly avec chiens en laisse.`,
+        en: `Iconic viewpoint facing the Casco Histórico — the most-photographed angle of the Toledo skyline. Free 24/7, dog-friendly with leashed dogs.`,
+        es: `Mirador icónico frente al Casco Histórico — el ángulo más fotografiado del skyline toledano. Gratis 24/7, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Puente de San Martín', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont médiéval du XIVe siècle à cinq arches gothiques sur le Tage — le pont le plus photogénique de Toledo. Ouvert 24h/24, dog-friendly partout.`,
+        en: `14th-century medieval bridge with five Gothic arches over the Tagus — Toledo's most photogenic bridge. Open 24/7, dog-friendly throughout.`,
+        es: `Puente medieval del siglo XIV con cinco arcos góticos sobre el Tajo — el puente más fotogénico de Toledo. Abierto 24/7, dog-friendly en todas partes.`,
+      }},
+      { name: 'Plaza de Zocodover', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Place principale au cœur du Casco Histórico — point de rencontre de toutes les rues médiévales, cafés et tabernas. Ouverte 24h/24, dog-friendly.`,
+        en: `Main square at the heart of the Casco Histórico — meeting point of all medieval streets, cafés and tabernas. Open 24/7, dog-friendly.`,
+        es: `Plaza principal en el corazón del Casco Histórico — punto de encuentro de todas las calles medievales, cafés y tabernas. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Senda Ecológica del Tajo', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Sentier circulaire de 7 km le long du Tage autour du Casco Histórico — vue iconique sur la ville depuis l'autre côté des gorges. Chiens en laisse.`,
+        en: `7 km circular path along the Tagus around the Casco Histórico — iconic city view from across the gorge. Leashed dogs.`,
+        es: `Sendero circular de 7 km a lo largo del Tajo alrededor del Casco Histórico — vista icónica de la ciudad desde el otro lado del desfiladero. Perros con correa.`,
+      }},
+      { name: 'Puerta de Bisagra', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Porte mauresque-Renaissance du IXe siècle, l'entrée principale du Casco Histórico depuis Madrid. Ouverte 24h/24, dog-friendly avec chiens en laisse.`,
+        en: `Moorish-Renaissance gate from the 9th century, the main entrance to the Casco Histórico from Madrid. Open 24/7, dog-friendly with leashed dogs.`,
+        es: `Puerta morisca-renacentista del siglo IX, la entrada principal al Casco Histórico desde Madrid. Abierta 24/7, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Judería', emoji: '✡️', petFriendly: true, desc: {
+        fr: `Le quartier juif médiéval avec deux synagogues classées (Tránsito et Santa María la Blanca) — ruelles pavées, vues sur les gorges du Tage. Dog-friendly en extérieur ; intérieurs des synagogues réservés aux chiens d'assistance.`,
+        en: `Medieval Jewish Quarter with two listed synagogues (Tránsito and Santa María la Blanca) — cobbled lanes, Tagus gorge views. Dog-friendly outdoors; synagogue interiors assistance dogs only.`,
+        es: `Barrio judío medieval con dos sinagogas catalogadas (Tránsito y Santa María la Blanca) — callejones adoquinados, vistas al desfiladero del Tajo. Dog-friendly en exterior; interiores de sinagogas solo perros de asistencia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture tasca castillane accueille les chiens par défaut — environ 75 % des cafés de Toledo acceptent les chiens en laisse en terrasse toute l'année.`,
+        `Bus Unauto + petit train touristique (Trenecito) : chiens en laisse gratuits sur les wagons ouverts du train ; chiens moyens/grands en bus exigent muselière + billet demi-tarif.`,
+        `Trains Renfe Avant Madrid-Toledo en 33 min : petits chiens en cage gratuits jusqu'à 10 kg, grands avec billet supplémentaire + muselière.`,
+        `Vétérinaire d'urgence 24h/24 : Hospital Veterinario Toledo, Calle Río Bullaque 11 (+34 925 22 22 33), centre-ville.`,
+        `Casco Histórico majoritairement pavé et raide (jusqu'à 15 °) — bottines essentielles l'été (50 °C en surface) ; petits chiens et chiens âgés gérables uniquement avec pauses fréquentes.`,
+      ],
+      en: [
+        `Castilian tasca culture welcomes dogs by default — about 75% of Toledo cafés accept leashed dogs on the terrace year-round.`,
+        `Unauto buses + Tourist Train (Trenecito): leashed dogs free on the train's open carriages; medium/large dogs on buses need muzzle + half-fare ticket.`,
+        `Renfe Avant Madrid-Toledo trains in 33 min: small dogs in carrier free up to 10 kg, larger with extra ticket + muzzle.`,
+        `24/7 emergency vet: Hospital Veterinario Toledo, Calle Río Bullaque 11 (+34 925 22 22 33), city centre.`,
+        `Casco Histórico mostly cobbled and steep (up to 15° gradient) — boots essential in summer (50 °C surface); small and older dogs manageable only with frequent breaks.`,
+      ],
+      es: [
+        `La cultura tasca castellana admite perros por defecto — alrededor del 75 % de los cafés de Toledo acepta perros con correa en terraza todo el año.`,
+        `Buses Unauto + trenecito turístico: perros con correa gratis en los vagones abiertos del trenecito; perros medianos/grandes en buses requieren bozal + billete a media tarifa.`,
+        `Trenes Renfe Avant Madrid-Toledo en 33 min: perros pequeños en transportín gratis hasta 10 kg, grandes con billete extra + bozal.`,
+        `Veterinario de urgencias 24/7: Hospital Veterinario Toledo, Calle Río Bullaque 11 (+34 925 22 22 33), centro de la ciudad.`,
+        `Casco Histórico mayormente adoquinado y empinado (hasta 15 ° de pendiente) — botines esenciales en verano (50 °C en superficie); perros pequeños y mayores manejables solo con pausas frecuentes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains AVE Renfe directs : Madrid 33 min (Avant), Sevilla 1h45, Cordoue 2h, Barcelone 3h — petits chiens en cage gratuits, grands avec billet supplémentaire + muselière.`,
+        `Aéroport de Madrid Barajas (MAD) à 1h10 en Cercanías + Avant — le hub international dog-friendly le plus proche pour Toledo.`,
+        `Devise : euro. Budget journalier dog-friendly : 50-75 €/jour hors hébergement, parmi les plus bas d'Espagne après Cordoue et Grenade.`,
+        `Festivals à éviter avec un chien anxieux : Corpus Christi (juin), Procesiones de Semana Santa (mars-avril), Festival de Música El Greco (juillet).`,
+      ],
+      en: [
+        `Spain is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct AVE Renfe trains: Madrid 33 min (Avant), Seville 1h45, Córdoba 2h, Barcelona 3h — small dogs in carrier free, larger with extra ticket + muzzle.`,
+        `Madrid Barajas Airport (MAD) 1h10 by Cercanías + Avant — the closest dog-friendly international hub for Toledo.`,
+        `Currency: euro. Daily dog-friendly budget: 50-75 €/day excluding accommodation, among Spain's lowest after Córdoba and Granada.`,
+        `Festivals to avoid with an anxious dog: Corpus Christi (June), Holy Week Processions (March-April), El Greco Music Festival (July).`,
+      ],
+      es: [
+        `España está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes AVE Renfe directos: Madrid 33 min (Avant), Sevilla 1h45, Córdoba 2h, Barcelona 3h — perros pequeños en transportín gratis, grandes con billete extra + bozal.`,
+        `Aeropuerto de Madrid Barajas (MAD) a 1h10 en Cercanías + Avant — el hub internacional dog-friendly más cercano para Toledo.`,
+        `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos de España tras Córdoba y Granada.`,
+        `Festivales a evitar con perro ansioso: Corpus Christi (junio), Procesiones de Semana Santa (marzo-abril), Festival de Música El Greco (julio).`,
+      ],
+    },
+  },
+
   toulouse: {
     history: {
       fr: `Toulouse, 'La Ville Rose' sur la Garonne, doit sa chaude teinte rose à la brique de terre cuite fabriquée avec l'argile du fleuve depuis l'époque romaine, où elle s'appelait Tolosa. Capitale des comtes médiévaux de Toulouse et berceau de la poésie des troubadours, elle s'enrichit au XVIe siècle grâce au commerce du pastel qui paya ses hôtels particuliers Renaissance. C'est aujourd'hui la quatrième ville de France et la capitale européenne de l'aérospatiale, siège d'Airbus et de la Cité de l'Espace. Les quais de la Garonne et le Canal du Midi du XVIIe siècle — classé UNESCO et œuvre de Pierre-Paul Riquet — forment une promenade fluviale presque ininterrompue, largement ombragée de platanes et dog-friendly. Avec la Prairie des Filtres et ses prairies sans laisse en plein centre, Toulouse figure parmi les villes françaises les plus accueillantes pour les chiens.`,

@@ -91,6 +91,7 @@ const TARGETS = [
   { slug: 'toledo', query: 'Toledo Spain Mirador del Valle Casco Historico Cathedral Alcazar Tagus gorge panorama sunset' },
   { slug: 'evora', query: 'Evora Portugal Roman Temple Praca do Giraldo Cathedral Alentejo cork oak panorama sunset' },
   { slug: 'liverpool', query: 'Liverpool Royal Albert Dock Three Graces Pier Head waterfront Mersey panorama sunset' },
+  { slug: 'dusseldorf', query: 'Dusseldorf Medienhafen Gehry buildings Rheinturm Rhine waterfront panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

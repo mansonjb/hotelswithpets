@@ -191,6 +191,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the coastal path to Sveti Jakov beach, the Lokrum island day trip ferry (dogs allowed), and the Lapad peninsula',
       area: 'Lapad, Gruž, and the Old Town surroundings',
     },
+    dusseldorf: {
+      personality: `a Rhineland fashion and brewpub capital with 21 official fenced Hundewiesen, a 2 km Rheinuferpromenade through the centre, and Frank Gehry's Medienhafen waterfront a tram ride from the Altstadt's Altbier brewery cluster`,
+      highlight: `the Hofgarten (Germany's first public park), the Medienhafen with the Gehry buildings and Rheinturm, and Unterbacher See's official dog-bathing zones 20 minutes south`,
+      area: `the Altstadt around Ratinger Straße, the Medienhafen waterfront, and the leafy Oberkassel left bank`,
+    },
     edinburgh: {
       personality: 'one of Britain\'s most dog-welcoming cities. With off-leash hills, dog-friendly pubs on every street, and a culture that treats dogs as full members of the family',
       highlight: 'Arthur\'s Seat (off-leash), Holyrood Park, and the Water of Leith walkway',
@@ -749,6 +754,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le sentier côtier vers la plage de Sveti Jakov, le ferry de l\'île de Lokrum (chiens acceptés) et la péninsule de Lapad',
       area: 'Lapad, Gruž et les environs de la Vieille Ville',
     },
+    dusseldorf: {
+      personality: `capitale rhénane de la mode et des brasseries, avec 21 Hundewiesen officielles clôturées, une Rheinuferpromenade de 2 km à travers le centre et le Medienhafen de Frank Gehry à un tram de distance du cluster d'Altbier de la Altstadt`,
+      highlight: `le Hofgarten (premier parc public d'Allemagne), le Medienhafen avec les bâtiments de Gehry et la Rheinturm, et les zones de baignade canine officielles de l'Unterbacher See à 20 minutes au sud`,
+      area: `la Altstadt autour de la Ratinger Straße, le front de mer du Medienhafen et la rive gauche verdoyante d'Oberkassel`,
+    },
     edinburgh: {
       personality: 'l\'une des villes les plus dog-friendly de Grande-Bretagne. Avec des collines sans laisse, des pubs accueillant les chiens dans chaque rue et une culture qui traite les chiens comme de véritables membres de la famille',
       highlight: 'Arthur\'s Seat (sans laisse), le Holyrood Park et le sentier riverain Water of Leith',
@@ -1305,6 +1315,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad amurallada dramática donde los perros acompañan a sus dueños en senderos costeros, playas tranquilas en islas y terrazas sombreadas por pinos fuera del Casco Antiguo',
       highlight: 'el sendero costero hacia la playa de Sveti Jakov, el ferry a la isla de Lokrum (perros permitidos) y la península de Lapad',
       area: 'Lapad, Gruž y los alrededores del Casco Antiguo',
+    },
+    dusseldorf: {
+      personality: `capital renana de la moda y la cerveza tradicional, con 21 Hundewiesen oficiales valladas, una Rheinuferpromenade de 2 km por el centro y el Medienhafen de Frank Gehry a un tranvía del cluster de Altbier de la Altstadt`,
+      highlight: `el Hofgarten (primer parque público de Alemania), el Medienhafen con los edificios de Gehry y la Rheinturm, y las zonas de baño canino oficiales del Unterbacher See a 20 minutos al sur`,
+      area: `la Altstadt en torno a la Ratinger Straße, el paseo marítimo del Medienhafen y la frondosa orilla izquierda de Oberkassel`,
     },
     edinburgh: {
       personality: 'una de las ciudades más dog-friendly de Gran Bretaña. Con colinas sin correa, pubs que admiten perros en cada calle y una cultura que trata a los perros como miembros plenos de la familia',

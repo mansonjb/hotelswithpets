@@ -5184,6 +5184,126 @@
     "slug": "royal-ariston-hotel"
   },
   {
+    "id": "dusseldorf-1",
+    "name": "Breidenbacher Hof, a Capella Hotel",
+    "destinationSlug": "dusseldorf",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1850,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/breidenbacher-hof.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Breidenbacher Hof, a Capella Hotel welcomes up to 2 pets per room for €50 per pet per stay in its Königsallee setting. Both dogs and cats are accepted, with a personalised welcome amenity and dog-walking service via the concierge. Service dogs stay free.",
+    "highlights": [
+      "Königsallee 5-star location",
+      "Concierge dog-walking service",
+      "Personalised pet welcome amenity"
+    ],
+    "slug": "breidenbacher-hof-dusseldorf"
+  },
+  {
+    "id": "dusseldorf-2",
+    "name": "Steigenberger Parkhotel Düsseldorf",
+    "destinationSlug": "dusseldorf",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 3400,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/steigenbergerparkdsseldorf.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Steigenberger Parkhotel Düsseldorf accepts pets in selected rooms for €35 per pet per night, directly facing the Hofgarten and the Königsallee. Both dogs and cats are welcome on request. Pets are not permitted in the restaurant; service dogs stay free.",
+    "highlights": [
+      "Direct Hofgarten frontage",
+      "Steps from the Königsallee",
+      "Walk to U-Bahn and Altstadt"
+    ],
+    "slug": "steigenberger-parkhotel-dusseldorf"
+  },
+  {
+    "id": "dusseldorf-3",
+    "name": "Hyatt Regency Düsseldorf",
+    "destinationSlug": "dusseldorf",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4100,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/hyatt-regency-duesseldorf.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Hyatt Regency Düsseldorf welcomes pets in the Medienhafen for €50 per pet per stay (max 2 pets per room) under the Hyatt 'Pet Welcome' programme. Dogs and cats are accepted; pets must be supervised in public areas. Service animals stay free.",
+    "highlights": [
+      "Medienhafen waterfront location",
+      "Walk to Gehry buildings",
+      "Hyatt Pet Welcome programme"
+    ],
+    "slug": "hyatt-regency-dusseldorf"
+  },
+  {
+    "id": "dusseldorf-4",
+    "name": "Mercure Hotel Düsseldorf City Center",
+    "destinationSlug": "dusseldorf",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2800,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/mercure-duesseldorf-city-center.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Mercure Düsseldorf City Center accepts pets up to 10 kg for €15 per pet per night under Accor's chain-wide pet policy. Both dogs and cats are welcome on request; pets are not permitted in the breakfast area. Service dogs stay free.",
+    "highlights": [
+      "Walk to Hauptbahnhof",
+      "5 minutes to Königsallee",
+      "Accor chain pet policy"
+    ],
+    "slug": "mercure-hotel-dusseldorf-city-center"
+  },
+  {
+    "id": "dusseldorf-5",
+    "name": "Motel One Düsseldorf-Hauptbahnhof",
+    "destinationSlug": "dusseldorf",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 6800,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/motel-one-duesseldorf-hauptbahnhof.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Motel One Düsseldorf-Hauptbahnhof accepts up to 2 dogs per room for €15 per pet per night under Motel One's chain-wide pet policy. Cats are not accepted. Pets are not permitted in the breakfast lounge; service dogs stay free.",
+    "highlights": [
+      "Steps from Hauptbahnhof",
+      "Best budget pet-friendly option in centre",
+      "Motel One chain pet policy"
+    ],
+    "slug": "motel-one-dusseldorf-hauptbahnhof"
+  },
+  {
     "id": "edinburgh-1",
     "name": "Gleneagles Townhouse",
     "destinationSlug": "edinburgh",

@@ -1,0 +1,885 @@
+{
+  "slug": "dusseldorf",
+  "name": "Düsseldorf",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-05-09",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Düsseldorf",
+      "titleFr": "Restaurants acceptant les chiens à Düsseldorf",
+      "titleEs": "Restaurantes para perros en Düsseldorf",
+      "introEn": "Düsseldorf shares the wider German tradition of welcoming dogs in restaurants, especially in the Altstadt brewpubs, the Carlsplatz market quarter, and the leafy terraces of the Medienhafen. Most independent gaststätten and traditional Hausbrauereien (brewery pubs) keep water bowls on hand without being asked. The three places below are reliably and openly dog-friendly year-round.",
+      "introFr": "Düsseldorf partage la tradition allemande d'accueil des chiens dans les restaurants, particulièrement dans les brasseries de la Altstadt, le quartier du marché de Carlsplatz et les terrasses verdoyantes du Medienhafen. La plupart des Gaststätten indépendantes et des Hausbrauereien (brasseries traditionnelles) gardent une gamelle d'eau sans qu'on la demande. Les trois adresses ci-dessous accueillent les chiens à l'année, ouvertement et de façon fiable.",
+      "introEs": "Düsseldorf comparte la tradición alemana de admitir perros en restaurantes, especialmente en las cervecerías de la Altstadt, el barrio del mercado de Carlsplatz y las terrazas frondosas del Medienhafen. La mayoría de los Gaststätten independientes y las Hausbrauereien (cervecerías tradicionales) tienen cuencos de agua sin necesidad de pedirlos. Los tres lugares siguientes admiten perros todo el año de forma abierta y fiable.",
+      "places": [
+        {
+          "name": "Brauerei Schumacher Stammhaus",
+          "address": "Oststraße 123, 40210 Düsseldorf",
+          "neighborhood": "Stadtmitte",
+          "photo": "/images/city-places/dusseldorf-restaurants-brauerei-schumacher-stammhaus.jpg",
+          "website": "https://www.schumacher-alt.de/",
+          "description": "Düsseldorf's oldest still-active Altbier brewery (founded 1838), a few minutes' walk from the central station. Dogs are welcome in the wood-panelled main room and on the terrace; the kitchen serves classic Rhenish dishes (Sauerbraten, Himmel un Ääd) alongside the in-house Schumacher Alt.",
+          "descriptionFr": "Plus ancienne brasserie d'Altbier encore en activité de Düsseldorf (fondée en 1838), à quelques minutes à pied de la gare centrale. Les chiens sont les bienvenus dans la grande salle aux boiseries et sur la terrasse ; la cuisine sert des classiques rhénans (Sauerbraten, Himmel un Ääd) accompagnés de la Schumacher Alt brassée sur place.",
+          "descriptionEs": "La cervecería de Altbier más antigua aún en activo de Düsseldorf (fundada en 1838), a pocos minutos a pie de la estación central. Los perros son bienvenidos en la gran sala con paneles de madera y en la terraza; la cocina sirve clásicos renanos (Sauerbraten, Himmel un Ääd) acompañados de la Schumacher Alt elaborada en el local.",
+          "petPolicy": "Dogs welcome inside the Stammhaus and on the terrace",
+          "petPolicyFr": "Chiens acceptés dans le Stammhaus et sur la terrasse",
+          "petPolicyEs": "Perros admitidos en el Stammhaus y en la terraza",
+          "priceRange": "€€",
+          "mustTry": "Schumacher Alt on tap, Sauerbraten, Himmel un Ääd",
+          "mustTryFr": "Schumacher Alt à la pression, Sauerbraten, Himmel un Ääd",
+          "mustTryEs": "Schumacher Alt de barril, Sauerbraten, Himmel un Ääd",
+          "openingHours": "Mon–Sat 11:00–24:00; closed Sun",
+          "tip": "Sit in the main wood-panelled room rather than the rear extension — the staff bring water bowls without asking and the bench seating leaves space for a dog underneath.",
+          "tipFr": "Installez-vous dans la grande salle aux boiseries plutôt que dans l'extension arrière — le personnel apporte des gamelles sans qu'on les demande et les banquettes laissent de la place pour un chien dessous.",
+          "tipEs": "Siéntate en la gran sala con paneles de madera, no en la ampliación trasera: el personal trae cuencos sin pedirlos y los bancos dejan sitio para un perro debajo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brauerei+Schumacher+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Brauerei Im Füchschen",
+          "address": "Ratinger Straße 28, 40213 Düsseldorf",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/dusseldorf-restaurants-brauerei-im-fuechschen.jpg",
+          "website": "https://www.fuechschen.de/",
+          "description": "An institution of the Altstadt's 'longest bar in the world', brewing its own Altbier since 1848. Dogs are welcome inside the main pub area and on the small front terrace; the kitchen serves typical Rhenish brewery dishes including the famous house Schweinshaxe.",
+          "descriptionFr": "Institution de la 'plus longue bar du monde' de la Altstadt, brasse sa propre Altbier depuis 1848. Les chiens sont les bienvenus dans la grande salle du pub et sur la petite terrasse en façade ; la cuisine sert les plats typiques des brasseries rhénanes, dont la célèbre Schweinshaxe maison.",
+          "descriptionEs": "Institución del 'bar más largo del mundo' de la Altstadt, elabora su propia Altbier desde 1848. Los perros son bienvenidos en la sala principal del pub y en la pequeña terraza delantera; la cocina sirve platos típicos de cervecería renana, incluida la famosa Schweinshaxe de la casa.",
+          "petPolicy": "Dogs welcome in the main pub room and on the front terrace",
+          "petPolicyFr": "Chiens acceptés dans la grande salle et sur la terrasse avant",
+          "petPolicyEs": "Perros admitidos en la sala principal y en la terraza delantera",
+          "priceRange": "€€",
+          "mustTry": "Füchschen Alt, Schweinshaxe, Reibekuchen with apple sauce",
+          "mustTryFr": "Füchschen Alt, Schweinshaxe, Reibekuchen avec compote de pommes",
+          "mustTryEs": "Füchschen Alt, Schweinshaxe, Reibekuchen con compota de manzana",
+          "openingHours": "Mon–Sun 09:00–01:00",
+          "tip": "Avoid Friday and Saturday evenings between 19:00 and 23:00 — the Altstadt fills up and the front terrace turns into a standing crowd. Lunchtimes are calm and dog-friendly.",
+          "tipFr": "Évitez les vendredis et samedis soir entre 19h et 23h — la Altstadt se remplit et la terrasse avant se transforme en foule debout. Les déjeuners sont calmes et adaptés aux chiens.",
+          "tipEs": "Evita viernes y sábados por la noche entre las 19:00 y las 23:00: la Altstadt se llena y la terraza delantera se transforma en multitud de pie. Los almuerzos son tranquilos y adecuados para perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brauerei+Im+F%C3%BCchschen"
+        },
+        {
+          "name": "Café Hüftgold",
+          "address": "Ratinger Straße 16-18, 40213 Düsseldorf",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/dusseldorf-restaurants-cafe-huftgold.jpg",
+          "website": "https://www.cafe-hueftgold.de/",
+          "description": "A small, vintage-furnished coffee and cake café on Ratinger Straße, well-known to local dog owners for relaxed weekend brunch with a pet under the table. Dogs are welcome inside the cosy main room and on the pavement seating, and the staff keep water bowls available on request.",
+          "descriptionFr": "Petit café-pâtisserie au mobilier vintage sur la Ratinger Straße, bien connu des propriétaires de chiens locaux pour un brunch décontracté le week-end avec un compagnon sous la table. Les chiens sont acceptés dans la salle principale chaleureuse et sur le banc de la rue, et le personnel garde des gamelles d'eau sur demande.",
+          "descriptionEs": "Pequeño café-pastelería con mobiliario vintage en la Ratinger Straße, muy conocido entre los dueños de perros locales para un brunch relajado los fines de semana con la mascota bajo la mesa. Los perros son bienvenidos en la cálida sala principal y en el banco de la calle, y el personal mantiene cuencos de agua a petición.",
+          "petPolicy": "Dogs welcome inside the café and on pavement seats",
+          "petPolicyFr": "Chiens acceptés dans le café et sur les bancs en rue",
+          "petPolicyEs": "Perros admitidos dentro del café y en los bancos de la calle",
+          "priceRange": "€",
+          "mustTry": "Homemade cakes, weekend brunch, fair-trade espresso",
+          "mustTryFr": "Pâtisseries maison, brunch du week-end, espresso commerce équitable",
+          "mustTryEs": "Pasteles caseros, brunch de fin de semana, espresso de comercio justo",
+          "openingHours": "Tue–Fri 09:00–18:00; Sat–Sun 10:00–18:00",
+          "tip": "Saturday brunch from 10:00 to 12:00 is the busiest, but the dog-friendly tables in the back niche are easier to grab if you arrive before 11:00.",
+          "tipFr": "Le brunch du samedi entre 10h et 12h est le plus chargé, mais les tables dog-friendly dans la niche arrière sont plus faciles à obtenir si vous arrivez avant 11h.",
+          "tipEs": "El brunch del sábado entre las 10:00 y las 12:00 es el más concurrido, pero las mesas dog-friendly del nicho del fondo son más fáciles de conseguir si llegas antes de las 11:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+H%C3%BCftgold+D%C3%BCsseldorf"
+        }
+      ],
+      "tipsEn": [
+        "The Altstadt's 'longest bar in the world' (260 traditional pubs in 0.5 km²) is the most reliably dog-welcoming dining cluster — Schumacher, Füchschen, Uerige, and Schlüssel all admit dogs.",
+        "German restaurants almost never charge for water bowls — the standard request 'Eine Wasserschale für meinen Hund, bitte' will be honoured automatically in any traditional pub.",
+        "Indoor dining with dogs is easier in the Hausbrauereien (Altbier breweries) than in fine-dining restaurants in the Königsallee area, which more often restrict pets to the terrace."
+      ],
+      "tipsFr": [
+        "Le 'plus long bar du monde' de la Altstadt (260 pubs traditionnels sur 0,5 km²) est le cluster le plus fiable pour les chiens — Schumacher, Füchschen, Uerige et Schlüssel acceptent tous les chiens.",
+        "Les restaurants allemands ne facturent quasiment jamais la gamelle d'eau — la formule 'Eine Wasserschale für meinen Hund, bitte' est honorée automatiquement dans n'importe quelle brasserie traditionnelle.",
+        "Manger en salle avec son chien est plus facile dans les Hausbrauereien (brasseries d'Altbier) que dans les restaurants gastronomiques du quartier de la Königsallee, qui limitent plus souvent les animaux à la terrasse."
+      ],
+      "tipsEs": [
+        "El 'bar más largo del mundo' de la Altstadt (260 pubs tradicionales en 0,5 km²) es el cluster más fiable para perros: Schumacher, Füchschen, Uerige y Schlüssel admiten todos a perros.",
+        "Los restaurantes alemanes casi nunca cobran por el cuenco de agua: la fórmula 'Eine Wasserschale für meinen Hund, bitte' se atiende automáticamente en cualquier cervecería tradicional.",
+        "Comer dentro con perro es más fácil en las Hausbrauereien (cervecerías de Altbier) que en los restaurantes de alta cocina de la zona de la Königsallee, que más a menudo limitan las mascotas a la terraza."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Altbier breweries in Düsseldorf?",
+          "a": "Yes, in all four big traditional houses (Schumacher, Füchschen, Uerige, Schlüssel) leashed dogs are welcome inside year-round. The Altstadt brewpub culture is built around long communal benches that suit dogs underneath."
+        },
+        {
+          "q": "Do Düsseldorf restaurants charge for water bowls?",
+          "a": "Almost never. Most independents keep bowls behind the bar. The polite German request is 'Eine Wasserschale für meinen Hund, bitte' — it works in any pub or café in town."
+        },
+        {
+          "q": "Where is the densest dog-friendly dining cluster in Düsseldorf?",
+          "a": "The Altstadt around Ratinger Straße, Bolkerstraße, and Berger Straße has the highest concentration. The Carlsplatz market quarter and the Unterbilk side streets are good alternatives outside peak Altstadt hours."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés dans les brasseries Altbier de Düsseldorf ?",
+          "a": "Oui, dans les quatre grandes brasseries traditionnelles (Schumacher, Füchschen, Uerige, Schlüssel) les chiens en laisse sont les bienvenus en salle toute l'année. La culture des Hausbrauereien de la Altstadt s'organise autour de longues banquettes communes qui laissent de la place aux chiens dessous."
+        },
+        {
+          "q": "Les restaurants de Düsseldorf facturent-ils la gamelle d'eau ?",
+          "a": "Quasiment jamais. La plupart des indépendants gardent des gamelles derrière le bar. La formule allemande polie est 'Eine Wasserschale für meinen Hund, bitte' — elle fonctionne dans n'importe quel pub ou café de la ville."
+        },
+        {
+          "q": "Où trouve-t-on le cluster dog-friendly le plus dense de Düsseldorf ?",
+          "a": "La Altstadt autour de Ratinger Straße, Bolkerstraße et Berger Straße a la concentration la plus élevée. Le marché de Carlsplatz et les rues d'Unterbilk sont de bonnes alternatives hors des heures de pointe de la Altstadt."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de las cervecerías de Altbier en Düsseldorf?",
+          "a": "Sí, en las cuatro grandes cervecerías tradicionales (Schumacher, Füchschen, Uerige, Schlüssel) los perros con correa son bienvenidos dentro todo el año. La cultura de las Hausbrauereien de la Altstadt se construye alrededor de largos bancos comunes que dejan sitio para un perro debajo."
+        },
+        {
+          "q": "¿Cobran los restaurantes de Düsseldorf por el cuenco de agua?",
+          "a": "Casi nunca. La mayoría de los locales independientes guardan cuencos detrás de la barra. La fórmula educada en alemán es 'Eine Wasserschale für meinen Hund, bitte': funciona en cualquier pub o café de la ciudad."
+        },
+        {
+          "q": "¿Dónde está el cluster dog-friendly más denso de Düsseldorf?",
+          "a": "La Altstadt en torno a Ratinger Straße, Bolkerstraße y Berger Straße tiene la mayor concentración. El mercado de Carlsplatz y las calles laterales de Unterbilk son buenas alternativas fuera de las horas punta de la Altstadt."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Düsseldorf",
+      "titleFr": "Meilleurs parcs pour chiens à Düsseldorf",
+      "titleEs": "Mejores parques para perros en Düsseldorf",
+      "introEn": "Düsseldorf has some of Germany's most famous English-style landscape parks, with three major green spaces — the Hofgarten, the Volksgarten, and the Nordpark — all reachable by U-Bahn or tram from the centre. The city operates 21 official Hundewiesen (fenced dog meadows) where dogs can run off-leash; everywhere else inside the Stadtgebiet a leash is mandatory under the local Ordnungsbehördliche Verordnung. The three parks below combine the largest off-leash zones with the easiest urban access.",
+      "introFr": "Düsseldorf abrite quelques-uns des plus célèbres parcs paysagers à l'anglaise d'Allemagne, avec trois grands espaces verts — le Hofgarten, le Volksgarten et le Nordpark — tous accessibles en U-Bahn ou en tram depuis le centre. La ville exploite 21 Hundewiesen officielles (prairies à chiens clôturées) où les chiens peuvent courir sans laisse ; partout ailleurs à l'intérieur du Stadtgebiet, la laisse est obligatoire au titre de la Ordnungsbehördliche Verordnung locale. Les trois parcs ci-dessous combinent les plus grandes zones sans laisse et l'accès urbain le plus facile.",
+      "introEs": "Düsseldorf alberga algunos de los parques paisajísticos al estilo inglés más famosos de Alemania, con tres grandes espacios verdes — el Hofgarten, el Volksgarten y el Nordpark — todos accesibles en U-Bahn o tranvía desde el centro. La ciudad gestiona 21 Hundewiesen oficiales (praderas caninas valladas) donde los perros pueden correr sin correa; en cualquier otro lugar dentro del Stadtgebiet la correa es obligatoria por la Ordnungsbehördliche Verordnung local. Los tres parques siguientes combinan las mayores zonas sin correa y el acceso urbano más fácil.",
+      "places": [
+        {
+          "name": "Hofgarten",
+          "address": "Hofgarten, 40213 Düsseldorf",
+          "neighborhood": "Stadtmitte",
+          "photo": "/images/city-places/dusseldorf-parks-hofgarten.jpg",
+          "website": "https://www.duesseldorf.de/stadtgruen/parkanlagen/hofgarten.html",
+          "description": "Germany's first public park (1769), 28 hectares of English-landscape lawns and ponds in the very centre of Düsseldorf, between the Königsallee and the Rhine. Dogs must be leashed throughout the park; an off-leash Hundewiese borders the eastern edge along the Inselstraße for free running.",
+          "descriptionFr": "Premier parc public d'Allemagne (1769), 28 hectares de pelouses paysagères à l'anglaise et d'étangs au cœur même de Düsseldorf, entre la Königsallee et le Rhin. Les chiens doivent être tenus en laisse dans tout le parc ; une Hundewiese sans laisse longe le côté est, le long de la Inselstraße, pour courir librement.",
+          "descriptionEs": "Primer parque público de Alemania (1769), 28 hectáreas de praderas paisajísticas al estilo inglés y estanques en el mismo centro de Düsseldorf, entre la Königsallee y el Rin. Los perros deben ir con correa en todo el parque; una Hundewiese sin correa bordea el lado este a lo largo de la Inselstraße para que corran libres.",
+          "size": "28 hectares",
+          "fenced": false,
+          "amenities": [
+            "Adjacent off-leash Hundewiese",
+            "Drinking water fountains in summer",
+            "Connecting Rhine promenade",
+            "Bin and bag dispensers throughout"
+          ],
+          "amenitiesFr": [
+            "Hundewiese sans laisse adjacente",
+            "Fontaines d'eau potable l'été",
+            "Connexion à la promenade du Rhin",
+            "Poubelles et distributeurs de sacs partout"
+          ],
+          "amenitiesEs": [
+            "Hundewiese sin correa adyacente",
+            "Fuentes de agua potable en verano",
+            "Conexión con el paseo del Rin",
+            "Papeleras y dispensadores de bolsas por todo el parque"
+          ],
+          "openingHours": "24/7",
+          "tip": "Combine the Hofgarten with the Rhine promenade — exit at Maximilian-Weyhe-Allee, walk west to the Rheinuferpromenade, and follow the river south to the Altstadt for a 90-minute leashed loop.",
+          "tipFr": "Combinez le Hofgarten avec la promenade du Rhin — sortez par Maximilian-Weyhe-Allee, marchez vers l'ouest jusqu'à la Rheinuferpromenade, et suivez le fleuve au sud jusqu'à la Altstadt pour une boucle de 90 minutes en laisse.",
+          "tipEs": "Combina el Hofgarten con el paseo del Rin: sal por Maximilian-Weyhe-Allee, camina hacia el oeste hasta la Rheinuferpromenade y sigue el río al sur hasta la Altstadt para un circuito de 90 minutos con correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hofgarten+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Volksgarten",
+          "address": "Auf'm Hennekamp, 40225 Düsseldorf",
+          "neighborhood": "Oberbilk / Bilk",
+          "photo": "/images/city-places/dusseldorf-parks-volksgarten.jpg",
+          "website": "https://www.duesseldorf.de/stadtgruen/parkanlagen/volksgarten.html",
+          "description": "A 70-hectare landscape park south of the centre, designed in the late 19th century around two ponds and a wooded ridge. Dogs must be leashed on paths, but a large fenced Hundewiese near the Auf'm Hennekamp entrance gives off-leash space; the southern wood section connects to the Südfriedhof for longer leashed walks.",
+          "descriptionFr": "Parc paysager de 70 hectares au sud du centre, conçu à la fin du XIXe siècle autour de deux étangs et d'une crête boisée. Les chiens doivent être tenus en laisse sur les sentiers, mais une grande Hundewiese clôturée près de l'entrée Auf'm Hennekamp offre un espace sans laisse ; le secteur boisé sud se connecte au Südfriedhof pour des balades en laisse plus longues.",
+          "descriptionEs": "Parque paisajístico de 70 hectáreas al sur del centro, diseñado a finales del siglo XIX en torno a dos estanques y una cresta boscosa. Los perros deben ir con correa en los senderos, pero una gran Hundewiese vallada cerca de la entrada de Auf'm Hennekamp ofrece espacio sin correa; la zona boscosa del sur conecta con el Südfriedhof para paseos más largos con correa.",
+          "size": "70 hectares",
+          "fenced": false,
+          "amenities": [
+            "Fenced Hundewiese",
+            "Two ponds (no dog swimming)",
+            "Café and beer garden",
+            "Bag dispensers at main entrances"
+          ],
+          "amenitiesFr": [
+            "Hundewiese clôturée",
+            "Deux étangs (baignade interdite aux chiens)",
+            "Café et Biergarten",
+            "Distributeurs de sacs aux entrées principales"
+          ],
+          "amenitiesEs": [
+            "Hundewiese vallada",
+            "Dos estanques (no se admite baño de perros)",
+            "Cafetería y Biergarten",
+            "Dispensadores de bolsas en las entradas principales"
+          ],
+          "openingHours": "24/7",
+          "tip": "The Auf'm Hennekamp side has the largest Hundewiese; combine with the Bilk Südfriedhof historic cemetery (leashed dogs welcome) for a quiet 2-hour loop south of the centre.",
+          "tipFr": "Le côté Auf'm Hennekamp a la plus grande Hundewiese ; combinez avec le Südfriedhof historique de Bilk (chiens en laisse acceptés) pour une boucle calme de 2 heures au sud du centre.",
+          "tipEs": "El lado de Auf'm Hennekamp tiene la mayor Hundewiese; combínalo con el cementerio histórico de Bilk Südfriedhof (perros con correa admitidos) para un circuito tranquilo de 2 horas al sur del centro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Volksgarten+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Nordpark",
+          "address": "Kaiserswerther Straße 380, 40474 Düsseldorf",
+          "neighborhood": "Stockum (north)",
+          "photo": "/images/city-places/dusseldorf-parks-nordpark.jpg",
+          "website": "https://www.duesseldorf.de/stadtgruen/parkanlagen/nordpark.html",
+          "description": "A 36-hectare formal park laid out in 1937, near the Messe trade fair grounds and the EKŌ-Haus Japanese centre. The park's main lawns and rose garden require dogs on leash, but the wooded northern section near the Kaiserswerther Straße has an off-leash Hundewiese. The aquazoo Löbbecke Museum (assistance dogs only) sits at the eastern edge.",
+          "descriptionFr": "Parc à la française de 36 hectares aménagé en 1937, près du parc des expositions Messe et du centre japonais EKŌ-Haus. Les pelouses principales et la roseraie imposent la laisse, mais la section boisée nord près de la Kaiserswerther Straße abrite une Hundewiese sans laisse. L'aquazoo Löbbecke Museum (chiens d'assistance uniquement) borde le côté est.",
+          "descriptionEs": "Parque formal de 36 hectáreas trazado en 1937, cerca del recinto ferial Messe y del centro japonés EKŌ-Haus. Las praderas principales y la rosaleda exigen correa, pero la sección boscosa del norte, cerca de la Kaiserswerther Straße, alberga una Hundewiese sin correa. El aquazoo Löbbecke Museum (solo perros de asistencia) se sitúa en el lado este.",
+          "size": "36 hectares",
+          "fenced": false,
+          "amenities": [
+            "Fenced Hundewiese in north section",
+            "Japanese garden (leash mandatory)",
+            "Café in the park",
+            "U-Bahn 78/79 access (Kaiserswerther Straße)"
+          ],
+          "amenitiesFr": [
+            "Hundewiese clôturée dans la section nord",
+            "Jardin japonais (laisse obligatoire)",
+            "Café dans le parc",
+            "Accès U-Bahn 78/79 (Kaiserswerther Straße)"
+          ],
+          "amenitiesEs": [
+            "Hundewiese vallada en la sección norte",
+            "Jardín japonés (correa obligatoria)",
+            "Cafetería en el parque",
+            "Acceso U-Bahn 78/79 (Kaiserswerther Straße)"
+          ],
+          "openingHours": "24/7",
+          "tip": "Take U78 or U79 to the Nordpark/Aquazoo stop and head west to the Hundewiese — the northern wood is much quieter than the southern formal lawns at the weekend.",
+          "tipFr": "Prenez les U78 ou U79 jusqu'à l'arrêt Nordpark/Aquazoo et marchez vers l'ouest jusqu'à la Hundewiese — le bois nord est bien plus calme que les pelouses à la française du sud le week-end.",
+          "tipEs": "Toma U78 o U79 hasta la parada Nordpark/Aquazoo y dirígete al oeste hasta la Hundewiese: el bosque norte es mucho más tranquilo que las praderas formales del sur los fines de semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nordpark+D%C3%BCsseldorf"
+        }
+      ],
+      "tipsEn": [
+        "Düsseldorf operates 21 official Hundewiesen (fenced dog meadows) — these are the only places inside the Stadtgebiet where off-leash running is legal. Everywhere else, a leash is mandatory.",
+        "The Ordnungsbehördliche Verordnung also requires owners to carry waste bags and clean up — fines for non-compliance start at €35 and double on busy weekends.",
+        "Public Hundewiesen all have water fountains and bins; signposted entries on the city map at duesseldorf.de/stadtgruen show all 21 locations."
+      ],
+      "tipsFr": [
+        "Düsseldorf exploite 21 Hundewiesen officielles (prairies à chiens clôturées) — ce sont les seuls endroits du Stadtgebiet où courir sans laisse est légal. Ailleurs, la laisse est obligatoire.",
+        "La Ordnungsbehördliche Verordnung impose aussi de transporter des sacs à déjections et de nettoyer — l'amende démarre à 35 € et double les week-ends de forte affluence.",
+        "Les Hundewiesen publiques ont toutes une fontaine et des poubelles ; la carte municipale sur duesseldorf.de/stadtgruen indique les 21 emplacements."
+      ],
+      "tipsEs": [
+        "Düsseldorf gestiona 21 Hundewiesen oficiales (praderas caninas valladas): son los únicos lugares dentro del Stadtgebiet donde correr sin correa es legal. En todos los demás sitios la correa es obligatoria.",
+        "La Ordnungsbehördliche Verordnung exige también llevar bolsas para excrementos y limpiar: la multa empieza en 35 € y se duplica los fines de semana concurridos.",
+        "Las Hundewiesen públicas tienen todas fuente y papeleras; el mapa municipal en duesseldorf.de/stadtgruen muestra las 21 ubicaciones."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run off-leash in Düsseldorf?",
+          "a": "Only inside the 21 official fenced Hundewiesen, the largest of which sit in the Volksgarten, Nordpark, and the Hofgarten's eastern edge. Anywhere else within the Stadtgebiet, a leash is mandatory."
+        },
+        {
+          "q": "Are dogs allowed in the EKŌ-Haus Japanese garden inside Nordpark?",
+          "a": "Only on a leash. The formal Japanese garden requires dogs to remain on a short leash on its gravel paths. The Nordpark Hundewiese to the north is unfenced for free running."
+        },
+        {
+          "q": "Are there bag dispensers at park entrances?",
+          "a": "All 21 official Hundewiesen and most main park entrances have bins and bag dispensers. Smaller pocket parks may not — bring your own waste bags as a fallback."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Düsseldorf ?",
+          "a": "Uniquement à l'intérieur des 21 Hundewiesen officielles clôturées, dont les plus grandes se trouvent au Volksgarten, au Nordpark et à la lisière est du Hofgarten. Partout ailleurs dans le Stadtgebiet, la laisse est obligatoire."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au jardin japonais EKŌ-Haus du Nordpark ?",
+          "a": "Uniquement en laisse. Le jardin japonais à la française impose une laisse courte sur ses allées de gravier. La Hundewiese du Nordpark au nord est en revanche ouverte pour courir librement."
+        },
+        {
+          "q": "Y a-t-il des distributeurs de sacs aux entrées des parcs ?",
+          "a": "Toutes les 21 Hundewiesen officielles et la plupart des entrées principales de parc ont poubelles et distributeurs. Les petits parcs de poche n'en ont pas toujours — emportez vos propres sacs en secours."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Düsseldorf?",
+          "a": "Solo dentro de las 21 Hundewiesen oficiales valladas, las mayores en el Volksgarten, el Nordpark y el borde este del Hofgarten. En cualquier otro sitio dentro del Stadtgebiet la correa es obligatoria."
+        },
+        {
+          "q": "¿Se admiten perros en el jardín japonés EKŌ-Haus del Nordpark?",
+          "a": "Solo con correa. El jardín japonés formal exige correa corta en sus caminos de grava. La Hundewiese del Nordpark al norte está, en cambio, abierta para correr libremente."
+        },
+        {
+          "q": "¿Hay dispensadores de bolsas en las entradas de los parques?",
+          "a": "Las 21 Hundewiesen oficiales y la mayoría de las entradas principales tienen papeleras y dispensadores. Los parques pequeños de barrio no siempre los tienen: lleva tus propias bolsas como respaldo."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Düsseldorf",
+      "titleFr": "Transports acceptant les animaux à Düsseldorf",
+      "titleEs": "Transporte para mascotas en Düsseldorf",
+      "introEn": "Düsseldorf's transport network is run by Rheinbahn (U-Bahn, trams, and buses) within the wider VRR fare zone, with national rail provided by Deutsche Bahn. Small pets in a carrier travel free everywhere; larger dogs need a child-rate Kindertarif ticket on Rheinbahn and a half-fare ticket on Deutsche Bahn long-distance services. Service dogs travel free on every line.",
+      "introFr": "Le réseau de transport de Düsseldorf est exploité par Rheinbahn (U-Bahn, trams, bus) dans la zone tarifaire VRR, avec les trains nationaux assurés par la Deutsche Bahn. Les petits animaux en sac voyagent gratuitement partout ; les grands chiens ont besoin d'un ticket Kindertarif (tarif enfant) sur Rheinbahn et d'un ticket demi-tarif sur les longues distances Deutsche Bahn. Les chiens d'assistance voyagent gratuitement sur toutes les lignes.",
+      "introEs": "La red de transporte de Düsseldorf la gestiona Rheinbahn (U-Bahn, tranvías y autobuses) dentro de la zona tarifaria VRR, con trenes nacionales operados por Deutsche Bahn. Las mascotas pequeñas en transportín viajan gratis en todas partes; los perros grandes necesitan un billete con tarifa Kindertarif (tarifa infantil) en Rheinbahn y medio billete en los servicios de larga distancia de Deutsche Bahn. Los perros de asistencia viajan gratis en todas las líneas.",
+      "places": [
+        {
+          "name": "Rheinbahn U-Bahn, Trams & Buses",
+          "address": "City-wide; main hub at Düsseldorf Hauptbahnhof",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/dusseldorf-transport-rheinbahn-u-bahn-trams-buses.jpg",
+          "website": "https://www.rheinbahn.de/",
+          "description": "Rheinbahn runs the U-Bahn, tram, and bus network across Düsseldorf and the wider Rhine-Ruhr region. Small pets in a carrier travel free; larger dogs need a Kindertarif (child-rate) ticket and must be on a leash and muzzled if requested by staff. The U70/U74/U76/U77/U78/U79 tram lines link the Altstadt, Messe, and the airport.",
+          "descriptionFr": "Rheinbahn exploite le réseau U-Bahn, tram et bus de Düsseldorf et de la grande région Rhin-Ruhr. Les petits animaux en sac voyagent gratuitement ; les grands chiens ont besoin d'un ticket Kindertarif (tarif enfant) et doivent être en laisse, muselés à la demande du personnel. Les lignes U70/U74/U76/U77/U78/U79 relient la Altstadt, la Messe et l'aéroport.",
+          "descriptionEs": "Rheinbahn gestiona la red de U-Bahn, tranvía y autobús de Düsseldorf y la gran región Rin-Ruhr. Las mascotas pequeñas en transportín viajan gratis; los perros grandes necesitan un billete con tarifa Kindertarif (tarifa infantil) y deben ir con correa y bozal si lo pide el personal. Las líneas U70/U74/U76/U77/U78/U79 conectan la Altstadt, el Messe y el aeropuerto.",
+          "petPolicy": "Small pets in carrier free; large dogs Kindertarif ticket, leashed and muzzled if requested",
+          "petPolicyFr": "Petits animaux en sac gratuits ; grands chiens ticket Kindertarif, en laisse et muselés sur demande",
+          "petPolicyEs": "Mascotas pequeñas en transportín gratis; perros grandes con billete Kindertarif, con correa y bozal si se pide",
+          "openingHours": "First U-Bahn ~04:30, last ~01:00; reduced night service",
+          "tip": "Avoid rush hour 07:30–09:00 and 16:30–18:30 with a large dog — Düsseldorf's U-Bahn fills up and there is little floor space in carriages.",
+          "tipFr": "Évitez les heures de pointe 7h30–9h00 et 16h30–18h30 avec un grand chien — le U-Bahn de Düsseldorf se remplit et il reste peu de place au sol dans les rames.",
+          "tipEs": "Evita las horas punta 07:30–09:00 y 16:30–18:30 con un perro grande: el U-Bahn de Düsseldorf se llena y queda poco espacio en el suelo de los vagones.",
+          "googleMapsUrl": "https://maps.google.com/?q=D%C3%BCsseldorf+Hauptbahnhof"
+        }
+      ],
+      "tipsEn": [
+        "On Deutsche Bahn long-distance trains (ICE, IC), large dogs travel at 50% of the adult fare; small dogs in a closed carrier travel free. Always book the dog ticket in advance via the DB Navigator app.",
+        "Düsseldorf Airport (DUS) S-Bahn (S11) and the SkyTrain shuttle accept leashed dogs at Rheinbahn fares — useful for direct dog-friendly arrivals from Cologne, Frankfurt, or the Ruhr.",
+        "Rheinbahn requires a muzzle for any dog that staff judge a public risk; in practice this is rare, but carry a muzzle in your bag if you have a large breed."
+      ],
+      "tipsFr": [
+        "Sur les trains longue distance Deutsche Bahn (ICE, IC), les grands chiens voyagent à 50 % du plein tarif adulte ; les petits chiens en cage fermée sont gratuits. Réservez toujours le ticket chien à l'avance via l'application DB Navigator.",
+        "L'aéroport de Düsseldorf (DUS) S-Bahn (S11) et la navette SkyTrain acceptent les chiens en laisse au tarif Rheinbahn — utile pour des arrivées directes dog-friendly depuis Cologne, Francfort ou la Ruhr.",
+        "Rheinbahn exige une muselière pour tout chien jugé à risque par le personnel ; en pratique c'est rare, mais gardez une muselière dans votre sac si vous avez une grande race."
+      ],
+      "tipsEs": [
+        "En los trenes de larga distancia de Deutsche Bahn (ICE, IC), los perros grandes viajan al 50 % de la tarifa adulta; los perros pequeños en transportín cerrado viajan gratis. Reserva siempre el billete de perro con antelación en la app DB Navigator.",
+        "El S-Bahn (S11) y la lanzadera SkyTrain del aeropuerto de Düsseldorf (DUS) admiten perros con correa con tarifa Rheinbahn: útil para llegadas dog-friendly directas desde Colonia, Fráncfort o el Ruhr.",
+        "Rheinbahn exige bozal para cualquier perro que el personal considere de riesgo; en la práctica es raro, pero lleva un bozal en la mochila si tienes una raza grande."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a separate ticket for my dog on Rheinbahn?",
+          "a": "Small dogs in a carrier travel free. Larger dogs need a Kindertarif (child-rate) ticket — the same ticket as a child between 6 and 14. Service dogs travel free with documentation."
+        },
+        {
+          "q": "Can I take my dog on the ICE train from Düsseldorf to Cologne or Frankfurt?",
+          "a": "Yes — large dogs travel at 50% of the adult fare on ICE/IC. Small dogs in a closed carrier travel free. Reserve the dog ticket in the DB Navigator app at the same time as your seat."
+        },
+        {
+          "q": "Are taxis pet-friendly in Düsseldorf?",
+          "a": "Most are, but it's at the driver's discretion. Pre-booking via Taxi Düsseldorf or Uber Pet is the most reliable approach for large dogs; for street taxis, ask at the window before getting in."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket séparé pour mon chien sur Rheinbahn ?",
+          "a": "Les petits chiens en sac voyagent gratuitement. Les grands chiens ont besoin d'un ticket Kindertarif (tarif enfant) — le même que celui d'un enfant entre 6 et 14 ans. Les chiens d'assistance voyagent gratuitement avec documentation."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans un ICE de Düsseldorf à Cologne ou Francfort ?",
+          "a": "Oui — les grands chiens voyagent à 50 % du tarif adulte sur ICE/IC. Les petits chiens en cage fermée voyagent gratuitement. Réservez le ticket chien dans l'application DB Navigator en même temps que votre siège."
+        },
+        {
+          "q": "Les taxis acceptent-ils les animaux à Düsseldorf ?",
+          "a": "La plupart oui, mais c'est à l'appréciation du chauffeur. Réserver à l'avance via Taxi Düsseldorf ou Uber Pet est l'option la plus fiable pour les grands chiens ; pour les taxis de rue, demandez au chauffeur avant de monter."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta billete aparte para el perro en Rheinbahn?",
+          "a": "Los perros pequeños en transportín viajan gratis. Los perros grandes necesitan billete Kindertarif (tarifa infantil): el mismo que un niño entre 6 y 14 años. Los perros de asistencia viajan gratis con documentación."
+        },
+        {
+          "q": "¿Puedo llevar al perro en el ICE de Düsseldorf a Colonia o Fráncfort?",
+          "a": "Sí: los perros grandes viajan al 50 % de la tarifa adulta en ICE/IC. Los perros pequeños en transportín cerrado viajan gratis. Reserva el billete de perro en la app DB Navigator junto con el asiento."
+        },
+        {
+          "q": "¿Aceptan mascotas los taxis en Düsseldorf?",
+          "a": "La mayoría sí, pero queda a discreción del conductor. Reservar por adelantado vía Taxi Düsseldorf o Uber Pet es lo más fiable para perros grandes; en los taxis de calle, pregunta antes de subir."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Riverside Spots near Düsseldorf",
+      "titleFr": "Sites au bord de l'eau dog-friendly près de Düsseldorf",
+      "titleEs": "Lugares ribereños dog-friendly cerca de Düsseldorf",
+      "introEn": "Düsseldorf is an inland Rhine city with no sea coast, but the wider Rhineland offers several Rhine beaches and lake-bathing spots that welcome dogs. The Paradiesstrand (within the city) and the Rheinwiesen of Oberkassel offer riverside open space for leashed dogs; the lakes at Unterbacher See, 20 minutes south of the centre, have official dog-bathing zones and are the closest substitute for a sea beach.",
+      "introFr": "Düsseldorf est une ville rhénane sans façade maritime, mais la Rhénanie élargie offre plusieurs plages du Rhin et zones de baignade en lac qui acceptent les chiens. Le Paradiesstrand (en ville) et les Rheinwiesen d'Oberkassel offrent des espaces ouverts au bord du fleuve pour chiens en laisse ; les lacs de l'Unterbacher See, à 20 minutes au sud du centre, disposent de zones de baignade canine officielles et constituent le plus proche équivalent d'une plage de mer.",
+      "introEs": "Düsseldorf es una ciudad ribereña sin costa marítima, pero la Renania más amplia ofrece varias playas del Rin y zonas de baño en lagos que admiten perros. El Paradiesstrand (en la ciudad) y los Rheinwiesen de Oberkassel ofrecen amplios espacios junto al río para perros con correa; los lagos del Unterbacher See, a 20 minutos al sur del centro, tienen zonas oficiales de baño canino y son el sustituto más cercano de una playa marítima.",
+      "places": [
+        {
+          "name": "Paradiesstrand (Rhine beach)",
+          "address": "Paradiesstrand, 40545 Düsseldorf",
+          "neighborhood": "Oberkassel (left bank)",
+          "photo": "/images/city-places/dusseldorf-beaches-paradiesstrand-rhine-beach.jpg",
+          "website": "https://www.duesseldorf.de/stadtgruen/parkanlagen/rheinwiesen.html",
+          "description": "A small sand-and-pebble Rhine beach below the Rheinkniebrücke, on the left bank in Oberkassel. Dogs are welcome on the open Rheinwiesen lawns adjacent to the beach (leashed by city ordinance), and the river itself is unfenced — but Rhine currents are strong, so dog swimming is at the owner's risk only.",
+          "descriptionFr": "Petite plage de sable et galets du Rhin en contrebas du Rheinkniebrücke, sur la rive gauche à Oberkassel. Les chiens sont les bienvenus sur les pelouses ouvertes des Rheinwiesen adjacentes (en laisse par arrêté municipal), et le fleuve lui-même n'est pas clôturé — mais les courants du Rhin sont forts, la baignade des chiens reste sous la seule responsabilité du propriétaire.",
+          "descriptionEs": "Pequeña playa de arena y guijarros del Rin bajo el Rheinkniebrücke, en la orilla izquierda en Oberkassel. Los perros son bienvenidos en las praderas abiertas de los Rheinwiesen contiguas (con correa por ordenanza municipal), y el propio río no está vallado, pero las corrientes del Rin son fuertes y el baño del perro queda bajo responsabilidad exclusiva del dueño.",
+          "petPolicy": "Dogs welcome on the Rheinwiesen lawns; leashed; swimming at owner's risk",
+          "petPolicyFr": "Chiens acceptés sur les pelouses des Rheinwiesen ; en laisse ; baignade aux risques du propriétaire",
+          "petPolicyEs": "Perros admitidos en las praderas de los Rheinwiesen; con correa; baño bajo responsabilidad del dueño",
+          "openingHours": "24/7",
+          "tip": "Walk in from the Oberkassel U-Bahn (U70/U74/U76/U77) to the Belsenplatz, then 8 minutes to the Rhine — the strand is most photogenic at sunset against the Düsseldorf skyline.",
+          "tipFr": "Venez à pied depuis l'U-Bahn d'Oberkassel (U70/U74/U76/U77) jusqu'à Belsenplatz, puis 8 minutes jusqu'au Rhin — la plage est la plus photogénique au coucher du soleil avec la skyline de Düsseldorf.",
+          "tipEs": "Acércate a pie desde el U-Bahn de Oberkassel (U70/U74/U76/U77) hasta Belsenplatz y luego 8 minutos al Rin: la playa es la más fotogénica al atardecer con el horizonte de Düsseldorf.",
+          "googleMapsUrl": "https://maps.google.com/?q=Paradiesstrand+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Unterbacher See — Hundebadestelle",
+          "address": "Kleiner Torfbruch, 40627 Düsseldorf",
+          "neighborhood": "Unterbach (south-east)",
+          "photo": "/images/city-places/dusseldorf-beaches-unterbacher-see-hundebadestelle.jpg",
+          "website": "https://www.unterbachersee.de/",
+          "description": "An 83-hectare lake 20 minutes south-east of the centre, with two official Hundebadestellen (designated dog-bathing spots) on the western and northern shores. Dogs may swim and run off-leash inside these zones; the rest of the lake's circular path requires a leash. The lake's main beach (Strandbad Nord) admits only assistance dogs.",
+          "descriptionFr": "Lac de 83 hectares à 20 minutes au sud-est du centre, avec deux Hundebadestellen officielles (zones de baignade canine) sur les rives ouest et nord. Les chiens peuvent se baigner et courir sans laisse dans ces zones ; le reste du sentier circulaire du lac impose la laisse. La plage principale (Strandbad Nord) n'admet que les chiens d'assistance.",
+          "descriptionEs": "Lago de 83 hectáreas a 20 minutos al sureste del centro, con dos Hundebadestellen oficiales (zonas de baño canino) en las orillas oeste y norte. Los perros pueden bañarse y correr sin correa dentro de esas zonas; el resto del sendero circular del lago exige correa. La playa principal (Strandbad Nord) solo admite perros de asistencia.",
+          "petPolicy": "Off-leash and swimming inside the two official Hundebadestellen; leashed elsewhere",
+          "petPolicyFr": "Sans laisse et baignade dans les deux Hundebadestellen officielles ; en laisse ailleurs",
+          "petPolicyEs": "Sin correa y baño en las dos Hundebadestellen oficiales; con correa en el resto",
+          "openingHours": "24/7 (paid parking 09:00–20:00 in summer)",
+          "tip": "Take bus 781 from Bilk S-Bahn or drive 25 minutes from the centre. Use the Kleiner Torfbruch entrance for the larger of the two dog-bathing zones — the western shore is shallower and grassy.",
+          "tipFr": "Prenez le bus 781 depuis le S-Bahn de Bilk ou conduisez 25 minutes depuis le centre. Empruntez l'entrée Kleiner Torfbruch pour la plus grande des deux zones canines — la rive ouest est moins profonde et plus herbeuse.",
+          "tipEs": "Toma el bus 781 desde el S-Bahn de Bilk o conduce 25 minutos desde el centro. Entra por Kleiner Torfbruch para la mayor de las dos zonas caninas: la orilla oeste es más somera y con hierba.",
+          "googleMapsUrl": "https://maps.google.com/?q=Unterbacher+See+Hundebadestelle"
+        },
+        {
+          "name": "Elbsee — Hundebadestelle",
+          "address": "Niederfeldsee, 40764 Langenfeld (south of Düsseldorf)",
+          "neighborhood": "Langenfeld (~25 min south)",
+          "photo": "/images/city-places/dusseldorf-beaches-elbsee-hundebadestelle.jpg",
+          "website": "https://www.langenfeld.de/freizeit-tourismus/elbsee/",
+          "description": "A reclaimed gravel-pit lake on the southern edge of the Düsseldorf metropolitan area, with one of the largest dog-bathing zones in North Rhine-Westphalia. Dogs may run off-leash and swim freely inside the marked Hundebadestelle on the eastern shore; the rest of the lake's path requires a leash.",
+          "descriptionFr": "Lac d'ancienne gravière à la limite sud de l'agglomération de Düsseldorf, abritant l'une des plus grandes zones de baignade canine de Rhénanie-du-Nord-Westphalie. Les chiens peuvent courir sans laisse et se baigner librement dans la Hundebadestelle balisée de la rive est ; le reste du sentier du lac impose la laisse.",
+          "descriptionEs": "Lago de antigua grava en el extremo sur del área metropolitana de Düsseldorf, sede de una de las mayores zonas de baño canino de Renania del Norte-Westfalia. Los perros pueden correr sin correa y bañarse libremente dentro de la Hundebadestelle señalizada de la orilla este; el resto del sendero del lago exige correa.",
+          "petPolicy": "Off-leash and swimming inside the eastern Hundebadestelle; leashed elsewhere",
+          "petPolicyFr": "Sans laisse et baignade dans la Hundebadestelle de la rive est ; en laisse ailleurs",
+          "petPolicyEs": "Sin correa y baño en la Hundebadestelle de la orilla este; con correa en el resto",
+          "openingHours": "24/7",
+          "tip": "Drive south on the A59 (exit Langenfeld), 25 minutes from the Düsseldorf Altstadt. Park at the eastern car park to land closest to the Hundebadestelle and avoid the family beach.",
+          "tipFr": "Roulez vers le sud sur l'A59 (sortie Langenfeld), 25 minutes depuis la Altstadt de Düsseldorf. Garez-vous au parking est pour atterrir au plus près de la Hundebadestelle et éviter la plage familiale.",
+          "tipEs": "Conduce al sur por la A59 (salida Langenfeld), 25 minutos desde la Altstadt de Düsseldorf. Aparca en el aparcamiento este para quedar lo más cerca posible de la Hundebadestelle y evitar la playa familiar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Elbsee+Langenfeld"
+        }
+      ],
+      "tipsEn": [
+        "The Rhine in Düsseldorf has strong currents and commercial barge traffic — never let a dog swim freely in the river main channel; use the side beaches like Paradiesstrand only for short paddles in calm flow.",
+        "Official lake Hundebadestellen are the safer summer swim option — water quality is monitored by the city's health authority and the zones are signposted with a green dog icon.",
+        "Always rinse paws after swimming: Rhine and lake water can leave silty deposits that irritate paws on warm days."
+      ],
+      "tipsFr": [
+        "Le Rhin à Düsseldorf a de forts courants et un trafic de péniches commerciales — ne laissez jamais un chien se baigner librement dans le chenal principal ; utilisez les plages latérales comme Paradiesstrand uniquement pour de courtes pataugées en eau calme.",
+        "Les Hundebadestellen officielles des lacs sont l'option la plus sûre pour la baignade estivale — la qualité de l'eau est suivie par l'autorité sanitaire municipale et les zones sont signalées par un pictogramme de chien vert.",
+        "Rincez toujours les pattes après la baignade : l'eau du Rhin et des lacs laisse des dépôts limoneux qui peuvent irriter les coussinets par temps chaud."
+      ],
+      "tipsEs": [
+        "El Rin en Düsseldorf tiene corrientes fuertes y tráfico de barcazas comerciales: nunca dejes que un perro nade libremente en el cauce principal; usa las playas laterales como Paradiesstrand solo para chapuzones cortos con corriente tranquila.",
+        "Las Hundebadestellen oficiales de los lagos son la opción más segura para el baño estival: la calidad del agua la controla la autoridad sanitaria municipal y las zonas están señalizadas con un icono verde de perro.",
+        "Aclara siempre las patas después del baño: el agua del Rin y de los lagos deja sedimentos limosos que pueden irritar las almohadillas en días cálidos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest dog-friendly swimming spot to Düsseldorf city centre?",
+          "a": "Unterbacher See's western Hundebadestelle, 20 minutes south-east by car or bus 781. The lake has two official dog-bathing zones with off-leash running and shallow grassy entry."
+        },
+        {
+          "q": "Can dogs swim in the Rhine inside Düsseldorf?",
+          "a": "Technically allowed at the Paradiesstrand and the Rheinwiesen on the Oberkassel side, but the river currents and barge wake are dangerous. Use Unterbacher See or Elbsee for actual swimming."
+        },
+        {
+          "q": "Are dogs allowed at the Strandbad Nord public beach on Unterbacher See?",
+          "a": "No — only assistance dogs. The Strandbad Nord is the lake's family-bathing beach. Dogs are restricted to the two designated Hundebadestellen on the western and northern shores."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouve-t-on la baignade dog-friendly la plus proche du centre de Düsseldorf ?",
+          "a": "La Hundebadestelle ouest de l'Unterbacher See, à 20 minutes au sud-est en voiture ou en bus 781. Le lac dispose de deux zones de baignade canine officielles avec course sans laisse et entrée peu profonde sur l'herbe."
+        },
+        {
+          "q": "Mon chien peut-il se baigner dans le Rhin à Düsseldorf ?",
+          "a": "Techniquement autorisé au Paradiesstrand et sur les Rheinwiesen du côté Oberkassel, mais les courants et le sillage des péniches sont dangereux. Utilisez l'Unterbacher See ou l'Elbsee pour une vraie baignade."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au Strandbad Nord, la plage publique de l'Unterbacher See ?",
+          "a": "Non — seulement les chiens d'assistance. Le Strandbad Nord est la plage familiale du lac. Les chiens sont cantonnés aux deux Hundebadestellen sur les rives ouest et nord."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es el lugar de baño dog-friendly más cercano al centro de Düsseldorf?",
+          "a": "La Hundebadestelle oeste del Unterbacher See, a 20 minutos al sureste en coche o bus 781. El lago tiene dos zonas oficiales de baño canino con carrera sin correa y entrada baja en hierba."
+        },
+        {
+          "q": "¿Puede mi perro nadar en el Rin en Düsseldorf?",
+          "a": "Técnicamente está permitido en el Paradiesstrand y en los Rheinwiesen del lado de Oberkassel, pero las corrientes y la estela de las barcazas son peligrosas. Usa el Unterbacher See o el Elbsee para un baño real."
+        },
+        {
+          "q": "¿Se admiten perros en el Strandbad Nord, la playa pública del Unterbacher See?",
+          "a": "No: solo perros de asistencia. El Strandbad Nord es la playa familiar del lago. Los perros se limitan a las dos Hundebadestellen de las orillas oeste y norte."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Düsseldorf",
+      "titleFr": "Cliniques vétérinaires et urgences à Düsseldorf",
+      "titleEs": "Clínicas veterinarias y urgencias en Düsseldorf",
+      "introEn": "Düsseldorf has one of the densest veterinary networks in Germany, with several extended-hours general practices and a large 24/7 emergency referral hospital, the Tierärztliche Klinik Düsseldorf in Stockum (north). After hours, the regional Tierärztlicher Notdienst Düsseldorf operates a rotating-clinic system reachable through any city vet's voicemail. Always call ahead — German clinics use appointment-based consultations even for urgent care during the day.",
+      "introFr": "Düsseldorf dispose de l'un des réseaux vétérinaires les plus denses d'Allemagne, avec plusieurs cabinets généralistes aux horaires élargis et un grand hôpital de référence 24h/24, la Tierärztliche Klinik Düsseldorf à Stockum (nord). Hors horaires, le Tierärztlicher Notdienst Düsseldorf régional fonctionne via un système de cliniques de garde, joignable depuis le répondeur de n'importe quel vétérinaire de la ville. Appelez toujours avant — les cliniques allemandes consultent sur rendez-vous, même pour les urgences en journée.",
+      "introEs": "Düsseldorf cuenta con una de las redes veterinarias más densas de Alemania, con varias consultas generales con horario ampliado y un gran hospital de referencia 24/7, la Tierärztliche Klinik Düsseldorf en Stockum (norte). Fuera de horario, el Tierärztlicher Notdienst Düsseldorf regional funciona con un sistema de clínicas de guardia rotativas, accesible a través del contestador de cualquier veterinario de la ciudad. Llama siempre antes: las clínicas alemanas trabajan con cita previa incluso para urgencias durante el día.",
+      "places": [
+        {
+          "name": "Tierärztliche Klinik Düsseldorf-Stockum (24h Emergency)",
+          "address": "Niederrheinstraße 312, 40474 Düsseldorf",
+          "neighborhood": "Stockum (north)",
+          "photo": "/images/city-places/dusseldorf-vets-tierarztliche-klinik-dusseldorf-stockum-24h-emergency.jpg",
+          "website": "https://www.tieraerztlicheklinik-duesseldorf.de/",
+          "description": "A large 24-hour referral hospital in north Düsseldorf, near the Messe and the Nordpark, equipped for surgery, intensive care, imaging (CT, MRI), and emergency triage. Open 365 days a year, around the clock; this is the address Düsseldorf vets refer to for any night, weekend, or critical case.",
+          "descriptionFr": "Grand hôpital de référence 24h/24 dans le nord de Düsseldorf, près de la Messe et du Nordpark, équipé pour la chirurgie, les soins intensifs, l'imagerie (scanner, IRM) et le triage d'urgence. Ouvert 365 jours par an, jour et nuit ; c'est l'adresse vers laquelle les vétérinaires de Düsseldorf orientent les nuits, week-ends ou cas critiques.",
+          "descriptionEs": "Gran hospital de referencia 24 horas en el norte de Düsseldorf, cerca del Messe y el Nordpark, equipado para cirugía, cuidados intensivos, diagnóstico por imagen (TAC, RM) y triaje de urgencias. Abierto 365 días al año, las 24 horas; es la dirección a la que los veterinarios de Düsseldorf derivan noches, fines de semana o casos críticos.",
+          "phone": "+49 211 4 35 14 0",
+          "openingHours": "24/7, 365 days/year",
+          "tip": "Call before driving over — the receptionist will triage and tell you whether to come in directly or whether the case can wait for morning. Free patient parking on site.",
+          "tipFr": "Appelez avant de venir — la réceptionniste effectue un tri et vous dira s'il faut venir directement ou si le cas peut attendre le matin. Parking patient gratuit sur place.",
+          "tipEs": "Llama antes de ir: la recepcionista hace un triaje y te indicará si conviene ir directamente o si el caso puede esperar a la mañana. Aparcamiento gratuito para pacientes in situ.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tier%C3%A4rztliche+Klinik+D%C3%BCsseldorf+Stockum"
+        },
+        {
+          "name": "Tierarztpraxis am Kö",
+          "address": "Königsallee 60, 40212 Düsseldorf",
+          "neighborhood": "Stadtmitte (Königsallee)",
+          "photo": "/images/city-places/dusseldorf-vets-tierarztpraxis-am-ko.jpg",
+          "website": "https://www.tierarztpraxis-am-koe.de/",
+          "description": "A small-animal practice on the Königsallee, the most central general vet for visitors staying around the Altstadt or the Hauptbahnhof. Standard consultations, vaccinations, and EU pet passport endorsements with English-speaking staff. Out-of-hours calls are routed to the Tierärztliche Klinik Stockum.",
+          "descriptionFr": "Cabinet pour petits animaux sur la Königsallee, le vétérinaire généraliste le plus central pour les visiteurs séjournant autour de la Altstadt ou de la Hauptbahnhof. Consultations standards, vaccinations et endossement du passeport européen pour animal, avec un personnel anglophone. Les appels hors horaires sont redirigés vers la Tierärztliche Klinik Stockum.",
+          "descriptionEs": "Consulta de pequeños animales en la Königsallee, el veterinario generalista más céntrico para visitantes alojados en la Altstadt o la Hauptbahnhof. Consultas estándar, vacunaciones y validación del pasaporte europeo para mascotas, con personal angloparlante. Las llamadas fuera de horario se desvían a la Tierärztliche Klinik Stockum.",
+          "phone": "+49 211 13 88 91",
+          "openingHours": "Mon–Fri 09:00–13:00 & 15:00–19:00; Sat 10:00–13:00",
+          "tip": "Same-day appointments are easiest if you call before 10:00 — the practice is small and the morning slots fill fastest.",
+          "tipFr": "Les rendez-vous le jour même sont plus faciles si vous appelez avant 10h — le cabinet est petit et les créneaux du matin se remplissent vite.",
+          "tipEs": "Las citas el mismo día son más fáciles si llamas antes de las 10:00: la consulta es pequeña y las franjas de la mañana se llenan rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+am+K%C3%B6+D%C3%BCsseldorf"
+        }
+      ],
+      "tipsEn": [
+        "The regional out-of-hours number for Düsseldorf is reachable through any local vet's voicemail or directly via the Tierärztliche Klinik Düsseldorf (+49 211 4 35 14 0) — save it before you arrive.",
+        "German vets prescribe in metric units; most clinics accept EC-Karte (debit) and credit cards, but small practices may still ask for a cash deposit on first visit.",
+        "Bring your pet's EU pet passport — German clinics record vaccinations directly into the booklet, which simplifies any later cross-border travel."
+      ],
+      "tipsFr": [
+        "Le numéro régional hors horaires pour Düsseldorf est accessible via le répondeur de n'importe quel vétérinaire local ou directement à la Tierärztliche Klinik Düsseldorf (+49 211 4 35 14 0) — enregistrez-le avant votre arrivée.",
+        "Les vétérinaires allemands prescrivent en unités métriques ; la plupart des cliniques acceptent l'EC-Karte (carte de débit) et les cartes de crédit, mais les petits cabinets peuvent demander un dépôt en espèces lors de la première visite.",
+        "Apportez le passeport européen de votre animal — les cliniques allemandes y inscrivent les vaccinations, ce qui simplifie tout déplacement transfrontalier ultérieur."
+      ],
+      "tipsEs": [
+        "El número regional fuera de horario para Düsseldorf es accesible a través del contestador de cualquier veterinario local o directamente en la Tierärztliche Klinik Düsseldorf (+49 211 4 35 14 0): guárdalo antes de llegar.",
+        "Los veterinarios alemanes prescriben en unidades métricas; la mayoría de las clínicas aceptan EC-Karte (tarjeta de débito) y tarjetas de crédito, pero las consultas pequeñas pueden pedir un depósito en efectivo en la primera visita.",
+        "Lleva el pasaporte europeo de mascota: las clínicas alemanas registran las vacunas directamente en él, lo que simplifica cualquier viaje transfronterizo posterior."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour emergency vet to Düsseldorf?",
+          "a": "Tierärztliche Klinik Düsseldorf in Stockum, 15 minutes north of the centre. Open 365 days a year, around the clock; phone +49 211 4 35 14 0 before driving."
+        },
+        {
+          "q": "Do Düsseldorf vets speak English?",
+          "a": "Yes in most central practices — Düsseldorf has a large international community (especially Japanese expats around Niederkassel) and most clinics in the centre handle English consultations easily."
+        },
+        {
+          "q": "Will my European pet insurance cover treatment in Düsseldorf?",
+          "a": "EU pet insurance policies almost always cover treatment elsewhere in the EU — check your policy for direct billing. German vets will provide an itemised English-language invoice on request."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve la clinique vétérinaire d'urgence 24h/24 la plus proche de Düsseldorf ?",
+          "a": "La Tierärztliche Klinik Düsseldorf à Stockum, à 15 minutes au nord du centre. Ouverte 365 jours par an, jour et nuit ; téléphone +49 211 4 35 14 0 avant de partir."
+        },
+        {
+          "q": "Les vétérinaires de Düsseldorf parlent-ils anglais ?",
+          "a": "Oui dans la plupart des cabinets centraux — Düsseldorf a une grosse communauté internationale (notamment japonaise autour de Niederkassel) et la plupart des cliniques du centre prennent en charge les consultations en anglais facilement."
+        },
+        {
+          "q": "Mon assurance animale européenne couvre-t-elle les soins à Düsseldorf ?",
+          "a": "Les contrats d'assurance européens couvrent quasiment toujours les soins ailleurs dans l'UE — vérifiez la facturation directe sur votre contrat. Les vétérinaires allemands fournissent une facture détaillée en anglais sur demande."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h más cercano a Düsseldorf?",
+          "a": "La Tierärztliche Klinik Düsseldorf en Stockum, a 15 minutos al norte del centro. Abierta 365 días al año, las 24 horas; teléfono +49 211 4 35 14 0 antes de ir."
+        },
+        {
+          "q": "¿Los veterinarios de Düsseldorf hablan inglés?",
+          "a": "Sí en la mayoría de las consultas céntricas: Düsseldorf tiene una gran comunidad internacional (sobre todo japonesa en torno a Niederkassel) y la mayoría de las clínicas del centro atienden consultas en inglés sin problema."
+        },
+        {
+          "q": "¿Mi seguro europeo para mascotas cubrirá el tratamiento en Düsseldorf?",
+          "a": "Los seguros europeos casi siempre cubren tratamientos en cualquier otro país de la UE: revisa tu póliza para facturación directa. Los veterinarios alemanes entregan una factura detallada en inglés bajo petición."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Düsseldorf",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Düsseldorf",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Düsseldorf",
+      "introEn": "Düsseldorf is among the most practical large German cities for travelling with a dog: a compact walkable centre, three major parks reachable by U-Bahn, two lake-bathing options for summer swimming, and a 24-hour emergency hospital in Stockum. The main thing to plan around is the city's strict leash ordinance and the boundary of the 21 official Hundewiesen. The tips below capture the rules that actually matter for a stay of a few days.",
+      "introFr": "Düsseldorf est l'une des plus grandes villes allemandes les plus pratiques pour voyager avec un chien : centre compact et marchable, trois grands parcs accessibles en U-Bahn, deux lacs de baignade pour l'été et un hôpital d'urgence 24h/24 à Stockum. Le principal point à anticiper est l'arrêté municipal strict sur la laisse et la délimitation des 21 Hundewiesen officielles. Les conseils ci-dessous résument les règles qui comptent vraiment pour un séjour de quelques jours.",
+      "introEs": "Düsseldorf es una de las grandes ciudades alemanas más prácticas para viajar con perro: centro compacto y caminable, tres grandes parques accesibles en U-Bahn, dos lagos de baño para el verano y un hospital de urgencias 24 horas en Stockum. Lo principal a planificar es la estricta ordenanza municipal sobre la correa y la delimitación de las 21 Hundewiesen oficiales. Los consejos siguientes resumen las reglas que de verdad importan para una estancia de pocos días.",
+      "places": [],
+      "tipsEn": [
+        "Düsseldorf's Ordnungsbehördliche Verordnung requires dogs to be on a leash everywhere within the Stadtgebiet except inside the 21 official fenced Hundewiesen. Fines for non-compliance start at €35.",
+        "Save the Tierärztliche Klinik Düsseldorf emergency number +49 211 4 35 14 0 in your phone before arrival — it routes to the 24/7 hospital in Stockum.",
+        "Buy a Rheinbahn child-rate ticket (Kindertarif) for a large dog at the U-Bahn vending machine before boarding — small dogs in carriers travel free."
+      ],
+      "tipsFr": [
+        "L'Ordnungsbehördliche Verordnung de Düsseldorf impose la laisse partout dans le Stadtgebiet sauf à l'intérieur des 21 Hundewiesen officielles clôturées. L'amende démarre à 35 €.",
+        "Enregistrez le numéro d'urgence de la Tierärztliche Klinik Düsseldorf +49 211 4 35 14 0 dans votre téléphone avant l'arrivée — il redirige vers l'hôpital 24h/24 de Stockum.",
+        "Achetez un ticket Rheinbahn tarif enfant (Kindertarif) pour un grand chien à la borne du U-Bahn avant de monter — les petits chiens en cage sont gratuits."
+      ],
+      "tipsEs": [
+        "La Ordnungsbehördliche Verordnung de Düsseldorf exige correa en todo el Stadtgebiet salvo dentro de las 21 Hundewiesen oficiales valladas. La multa empieza en 35 €.",
+        "Guarda el número de urgencias de la Tierärztliche Klinik Düsseldorf +49 211 4 35 14 0 en el móvil antes de llegar: deriva al hospital 24/7 de Stockum.",
+        "Compra un billete Rheinbahn con tarifa infantil (Kindertarif) para un perro grande en la máquina del U-Bahn antes de subir: los perros pequeños en transportín viajan gratis."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Düsseldorf a good city for travelling with a dog?",
+          "a": "Yes — among the best in the Rhine-Ruhr region. The Hofgarten and Volksgarten are walking-distance from the centre, the Altstadt brewpubs welcome dogs indoors, and Unterbacher See is 20 minutes south for a summer swim."
+        },
+        {
+          "q": "What documents do I need to bring my dog to Germany?",
+          "a": "An EU pet passport (or non-EU equivalent), proof of rabies vaccination, and a microchip. Some breeds (so-called Listenhunde) face local restrictions in North Rhine-Westphalia — check the NRW Landeshundegesetz before travel."
+        },
+        {
+          "q": "Can my dog visit the K20/K21 Kunstsammlung museums?",
+          "a": "No — only assistance dogs are admitted. The dog-friendly outdoor alternatives are the Hofgarten, the Rheinuferpromenade, and the Medienhafen waterfront."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Düsseldorf est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — parmi les meilleures de la région Rhin-Ruhr. Le Hofgarten et le Volksgarten sont à pied du centre, les brasseries de la Altstadt accueillent les chiens en salle, et l'Unterbacher See est à 20 minutes au sud pour une baignade estivale."
+        },
+        {
+          "q": "Quels documents faut-il pour emmener son chien en Allemagne ?",
+          "a": "Un passeport européen pour animal (ou son équivalent hors UE), un certificat de vaccination antirabique, et une puce électronique. Certaines races (les Listenhunde) sont soumises à des restrictions locales en Rhénanie-du-Nord-Westphalie — consultez le Landeshundegesetz NRW avant le voyage."
+        },
+        {
+          "q": "Mon chien peut-il visiter les musées K20/K21 Kunstsammlung ?",
+          "a": "Non — seuls les chiens d'assistance sont admis. Les alternatives dog-friendly en plein air sont le Hofgarten, la Rheinuferpromenade et le front de mer du Medienhafen."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Düsseldorf una buena ciudad para viajar con perro?",
+          "a": "Sí: entre las mejores de la región Rin-Ruhr. El Hofgarten y el Volksgarten están a pie del centro, las cervecerías de la Altstadt admiten perros dentro, y el Unterbacher See está a 20 minutos al sur para un baño estival."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro a Alemania?",
+          "a": "Un pasaporte europeo para mascotas (o equivalente fuera de la UE), prueba de vacunación antirrábica y microchip. Algunas razas (los Listenhunde) tienen restricciones locales en Renania del Norte-Westfalia: consulta el Landeshundegesetz NRW antes del viaje."
+        },
+        {
+          "q": "¿Puede visitar mi perro los museos K20/K21 Kunstsammlung?",
+          "a": "No: solo perros de asistencia. Las alternativas dog-friendly al aire libre son el Hofgarten, la Rheinuferpromenade y el paseo marítimo del Medienhafen."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Düsseldorf",
+      "titleFr": "Attractions dog-friendly à Düsseldorf",
+      "titleEs": "Atracciones para mascotas en Düsseldorf",
+      "introEn": "Düsseldorf's headline museums (K20/K21 Kunstsammlung, NRW-Forum, Aquazoo) admit only assistance dogs, but the city's signature open-air attractions are very walkable on a leash. The Rheinuferpromenade, the Medienhafen with its Gehry buildings, and the Königsallee form a half-day loop that captures the best urban photography in the city. Below are three open-air highlights where pets are welcome.",
+      "introFr": "Les grands musées de Düsseldorf (K20/K21 Kunstsammlung, NRW-Forum, Aquazoo) n'admettent que les chiens d'assistance, mais les principaux sites en plein air de la ville se visitent très bien en laisse. La Rheinuferpromenade, le Medienhafen avec ses bâtiments de Gehry et la Königsallee forment une boucle d'une demi-journée qui couvre la plus belle photographie urbaine de la ville. Ci-dessous, trois sites en plein air où les animaux sont les bienvenus.",
+      "introEs": "Los grandes museos de Düsseldorf (K20/K21 Kunstsammlung, NRW-Forum, Aquazoo) solo admiten perros de asistencia, pero los principales lugares al aire libre de la ciudad se recorren muy bien con correa. La Rheinuferpromenade, el Medienhafen con sus edificios de Gehry y la Königsallee forman un circuito de media jornada que cubre la mejor fotografía urbana de la ciudad. A continuación, tres puntos al aire libre donde las mascotas son bienvenidas.",
+      "places": [
+        {
+          "name": "Rheinuferpromenade",
+          "address": "Rheinuferpromenade, 40213 Düsseldorf",
+          "neighborhood": "Altstadt riverfront",
+          "photo": "/images/city-places/dusseldorf-attractions-rheinuferpromenade.jpg",
+          "website": "https://www.duesseldorf.de/stadtgruen/parkanlagen/rheinuferpromenade.html",
+          "description": "A 2-kilometre car-free promenade along the right bank of the Rhine, transforming the post-war motorway into a continuous riverside park between the Oberkasseler Brücke and the Landtag. Dogs are welcome on leash the entire length, and the route passes the Old Town, the Schlossturm, and the Rheinturm.",
+          "descriptionFr": "Promenade piétonne de 2 km le long de la rive droite du Rhin, ayant transformé l'ancienne autoroute d'après-guerre en un parc riverain continu entre l'Oberkasseler Brücke et le Landtag. Les chiens sont les bienvenus en laisse sur toute la longueur, et l'itinéraire passe par la Vieille Ville, la Schlossturm et la Rheinturm.",
+          "descriptionEs": "Paseo peatonal de 2 km a lo largo de la orilla derecha del Rin, que transformó la antigua autopista de posguerra en un parque ribereño continuo entre el Oberkasseler Brücke y el Landtag. Los perros son bienvenidos con correa en toda la longitud, y el recorrido pasa por la Ciudad Vieja, la Schlossturm y la Rheinturm.",
+          "petPolicy": "Dogs welcome on leash on the full promenade",
+          "petPolicyFr": "Chiens acceptés en laisse sur toute la promenade",
+          "petPolicyEs": "Perros admitidos con correa en todo el paseo",
+          "openingHours": "24/7",
+          "tip": "Walk the promenade at sunset from the Oberkasseler Brücke south to the Landtag — the Rheinturm lights come on around dusk and the riverside cafés have outdoor terraces that admit leashed dogs.",
+          "tipFr": "Faites la promenade au coucher du soleil depuis l'Oberkasseler Brücke vers le sud jusqu'au Landtag — les lumières de la Rheinturm s'allument au crépuscule et les cafés du quai ont des terrasses extérieures qui acceptent les chiens en laisse.",
+          "tipEs": "Recorre el paseo al atardecer desde el Oberkasseler Brücke hacia el sur hasta el Landtag: las luces de la Rheinturm se encienden al anochecer y las cafeterías del muelle tienen terrazas que admiten perros con correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rheinuferpromenade+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Medienhafen",
+          "address": "Medienhafen, 40221 Düsseldorf",
+          "neighborhood": "Hafen",
+          "photo": "/images/city-places/dusseldorf-attractions-medienhafen.jpg",
+          "website": "https://www.duesseldorf-tourismus.de/medienhafen",
+          "description": "A regenerated former cargo harbour at the southern end of the city, world-known for Frank Gehry's three Neuer Zollhof buildings and the Rheinturm. The pedestrian quayside is fully open to dogs on leash; the surrounding restaurants and cafés have dog-friendly terraces and the modern footbridges link the harbour to the Altstadt promenade.",
+          "descriptionFr": "Ancien port de fret reconverti à l'extrémité sud de la ville, mondialement connu pour les trois bâtiments du Neuer Zollhof signés Frank Gehry et la Rheinturm. Les quais piétons sont entièrement ouverts aux chiens en laisse ; les restaurants et cafés alentour ont des terrasses dog-friendly et des passerelles modernes relient le port à la promenade de la Altstadt.",
+          "descriptionEs": "Antiguo puerto de carga regenerado en el extremo sur de la ciudad, conocido mundialmente por los tres edificios del Neuer Zollhof firmados por Frank Gehry y la Rheinturm. Los muelles peatonales están totalmente abiertos a perros con correa; los restaurantes y cafés cercanos tienen terrazas dog-friendly y las pasarelas modernas conectan el puerto con el paseo de la Altstadt.",
+          "petPolicy": "Dogs welcome on leash throughout the harbour quayside",
+          "petPolicyFr": "Chiens acceptés en laisse sur tout le quai du port",
+          "petPolicyEs": "Perros admitidos con correa en todo el muelle del puerto",
+          "openingHours": "24/7",
+          "tip": "Photograph the Gehry buildings from the floating walkway between the Hyatt Regency and the Mövenpick — the angle catches all three façades at once.",
+          "tipFr": "Photographiez les bâtiments de Gehry depuis la passerelle flottante entre le Hyatt Regency et le Mövenpick — l'angle attrape les trois façades en même temps.",
+          "tipEs": "Fotografía los edificios de Gehry desde la pasarela flotante entre el Hyatt Regency y el Mövenpick: el ángulo capta las tres fachadas a la vez.",
+          "googleMapsUrl": "https://maps.google.com/?q=Medienhafen+D%C3%BCsseldorf"
+        },
+        {
+          "name": "Königsallee",
+          "address": "Königsallee, 40212 Düsseldorf",
+          "neighborhood": "Stadtmitte",
+          "photo": "/images/city-places/dusseldorf-attractions-konigsallee.jpg",
+          "website": "https://www.duesseldorf-tourismus.de/koenigsallee",
+          "description": "Düsseldorf's tree-lined luxury boulevard, with a central canal (Stadtgraben) running between two rows of horse-chestnuts. Dogs are welcome on leash the entire length, and the canal-side benches are a popular rest spot between the Hofgarten and the Schadowplatz shopping district.",
+          "descriptionFr": "Boulevard arboré luxueux de Düsseldorf, avec un canal central (Stadtgraben) coulant entre deux rangées de marronniers. Les chiens sont les bienvenus en laisse sur toute la longueur, et les bancs au bord du canal sont un point de pause apprécié entre le Hofgarten et le quartier commerçant de la Schadowplatz.",
+          "descriptionEs": "Bulevar arbolado de lujo de Düsseldorf, con un canal central (Stadtgraben) que corre entre dos hileras de castaños de Indias. Los perros son bienvenidos con correa en toda su extensión, y los bancos junto al canal son un punto de descanso apreciado entre el Hofgarten y la zona comercial de Schadowplatz.",
+          "petPolicy": "Dogs welcome on leash on the canal-side promenade and benches",
+          "petPolicyFr": "Chiens acceptés en laisse sur la promenade du canal et les bancs",
+          "petPolicyEs": "Perros admitidos con correa en el paseo del canal y los bancos",
+          "openingHours": "24/7",
+          "tip": "The luxury boutiques on the eastern side mostly admit only assistance dogs; cafés on the western side around the Schadowplatz end are more reliably dog-friendly.",
+          "tipFr": "Les boutiques de luxe du côté est n'admettent généralement que les chiens d'assistance ; les cafés du côté ouest, vers la Schadowplatz, sont plus fiablement dog-friendly.",
+          "tipEs": "Las boutiques de lujo del lado este suelen admitir solo perros de asistencia; los cafés del lado oeste, hacia Schadowplatz, son más fiablemente dog-friendly.",
+          "googleMapsUrl": "https://maps.google.com/?q=K%C3%B6nigsallee+D%C3%BCsseldorf"
+        }
+      ],
+      "tipsEn": [
+        "Most major Düsseldorf museums (K20/K21 Kunstsammlung, NRW-Forum, Schifffahrt Museum, Aquazoo) admit only assistance dogs — plan museum stops around an arrangement for your pet.",
+        "The KD Rhine cruises (Düsseldorf to Cologne or upriver to Königswinter) accept leashed dogs free of charge on every sailing — a relaxed way to see the Rhine valley with your dog at your side.",
+        "Düsseldorf's annual Karneval (the days before Lent) is loud and crowded — sensitive dogs should avoid the Altstadt during Rosenmontag and Altweiber Donnerstag."
+      ],
+      "tipsFr": [
+        "La plupart des grands musées de Düsseldorf (K20/K21 Kunstsammlung, NRW-Forum, Schifffahrt Museum, Aquazoo) n'admettent que les chiens d'assistance — prévoyez les arrêts musée en organisant la garde de votre animal.",
+        "Les croisières KD sur le Rhin (Düsseldorf vers Cologne ou en amont jusqu'à Königswinter) acceptent les chiens en laisse gratuitement sur toutes les traversées — une manière paisible de découvrir la vallée du Rhin avec son chien.",
+        "Le Karneval annuel de Düsseldorf (les jours avant le Carême) est bruyant et bondé — les chiens sensibles devraient éviter la Altstadt pendant le Rosenmontag et le Altweiber Donnerstag."
+      ],
+      "tipsEs": [
+        "La mayoría de los grandes museos de Düsseldorf (K20/K21 Kunstsammlung, NRW-Forum, Schifffahrt Museum, Aquazoo) solo admiten perros de asistencia: planifica las paradas en museos organizando con quién dejas a tu mascota.",
+        "Los cruceros KD por el Rin (Düsseldorf a Colonia o aguas arriba hasta Königswinter) admiten perros con correa gratis en todas las travesías: una forma tranquila de ver el valle del Rin con tu perro al lado.",
+        "El Karneval anual de Düsseldorf (los días antes de la Cuaresma) es ruidoso y multitudinario: los perros sensibles deberían evitar la Altstadt durante el Rosenmontag y el Altweiber Donnerstag."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go inside the K20/K21 Kunstsammlung museums?",
+          "a": "No — only assistance dogs are admitted. The Hofgarten next to K20 and the Ständehauspark around K21 are dog-friendly outdoor alternatives."
+        },
+        {
+          "q": "What's the best dog-friendly outdoor itinerary for one day in Düsseldorf?",
+          "a": "Start at the Hofgarten and walk south along the Königsallee, cross to the Rheinuferpromenade at the Schlossturm, follow the river south to the Medienhafen for lunch on a quayside terrace, then ride U70 back to the Altstadt for an evening Altbier."
+        },
+        {
+          "q": "Are dogs allowed at the Düsseldorf Christmas markets?",
+          "a": "Yes, on a leash, but the Marktplatz and the Stadtbrückchen markets get extremely crowded after dark. Visit during weekday afternoons rather than evenings if travelling with a sensitive dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils entrer aux musées K20/K21 Kunstsammlung ?",
+          "a": "Non — seuls les chiens d'assistance sont admis. Le Hofgarten à côté du K20 et le Ständehauspark autour du K21 sont des alternatives dog-friendly en plein air."
+        },
+        {
+          "q": "Quel est le meilleur itinéraire dog-friendly en plein air pour une journée à Düsseldorf ?",
+          "a": "Commencez par le Hofgarten et descendez la Königsallee, traversez vers la Rheinuferpromenade à la Schlossturm, suivez le fleuve au sud jusqu'au Medienhafen pour un déjeuner sur une terrasse de quai, puis prenez l'U70 pour rentrer à la Altstadt boire une Altbier le soir."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés aux marchés de Noël de Düsseldorf ?",
+          "a": "Oui, en laisse, mais les marchés de la Marktplatz et du Stadtbrückchen deviennent extrêmement bondés à la nuit tombée. Visitez en après-midi de semaine plutôt qu'en soirée si vous voyagez avec un chien sensible."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se puede entrar con perro a los museos K20/K21 Kunstsammlung?",
+          "a": "No: solo perros de asistencia. El Hofgarten junto al K20 y el Ständehauspark alrededor del K21 son alternativas dog-friendly al aire libre."
+        },
+        {
+          "q": "¿Cuál es el mejor itinerario dog-friendly al aire libre para un día en Düsseldorf?",
+          "a": "Empieza en el Hofgarten y baja por la Königsallee, cruza a la Rheinuferpromenade en la Schlossturm, sigue el río al sur hasta el Medienhafen para almorzar en una terraza junto al muelle, después toma U70 de vuelta a la Altstadt para una Altbier por la tarde."
+        },
+        {
+          "q": "¿Se admiten perros en los mercados navideños de Düsseldorf?",
+          "a": "Sí, con correa, pero los mercados de la Marktplatz y del Stadtbrückchen se llenan muchísimo al caer la noche. Visítalos en tarde entre semana en lugar de por la noche si viajas con un perro sensible."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Düsseldorf",
+      "titleFr": "Garde et promenade de chiens à Düsseldorf",
+      "titleEs": "Cuidado y paseo de perros en Düsseldorf",
+      "introEn": "Düsseldorf has a well-developed pet-care economy thanks to its expat population (German, Japanese, and a strong Anglophone business community), with both international platforms and local dog-walking services. PetBacker.com and Pawshake.de are the dominant booking platforms with hundreds of verified sitters across the city, and Holidog is a strong alternative for overnight boarding. Local independent dog-walkers concentrate in Bilk, Pempelfort, and Oberkassel.",
+      "introFr": "Düsseldorf dispose d'une offre mature de services pour animaux grâce à sa population expatriée (allemande, japonaise et une forte communauté d'affaires anglophone), avec à la fois des plateformes internationales et des services locaux de promenade. PetBacker.com et Pawshake.de sont les plateformes de réservation dominantes avec des centaines de sitters vérifiés en ville, et Holidog reste une bonne alternative pour la garde de nuit. Les promeneurs indépendants se concentrent à Bilk, Pempelfort et Oberkassel.",
+      "introEs": "Düsseldorf cuenta con una oferta madura de servicios para mascotas gracias a su población expatriada (alemana, japonesa y una fuerte comunidad de negocios anglófona), con plataformas internacionales y servicios locales de paseo. PetBacker.com y Pawshake.de son las plataformas de reservas dominantes, con cientos de cuidadores verificados en la ciudad, y Holidog es una buena alternativa para alojamiento nocturno. Los paseadores independientes se concentran en Bilk, Pempelfort y Oberkassel.",
+      "places": [
+        {
+          "name": "Pawshake Düsseldorf",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.de/dogsitting/duesseldorf",
+          "description": "The largest verified pet-sitting marketplace in Germany, with several hundred bookings in Düsseldorf and average ratings above 4.9 out of 5. Offers drop-in visits, full-day daycare, dog walking, and overnight boarding, all bookable in English and German and insured through the platform.",
+          "descriptionFr": "Plus grande place de marché vérifiée pour la garde d'animaux en Allemagne, avec plusieurs centaines de réservations à Düsseldorf et des notes moyennes au-dessus de 4,9 sur 5. Propose visites à domicile, garderie à la journée, promenade et hébergement de nuit, le tout réservable en anglais et en allemand et assuré via la plateforme.",
+          "descriptionEs": "El mayor mercado verificado de cuidado de mascotas de Alemania, con varios cientos de reservas en Düsseldorf y valoraciones medias por encima de 4,9 sobre 5. Ofrece visitas puntuales, guardería de día completo, paseos y alojamiento nocturno, todo reservable en inglés y alemán y asegurado a través de la plataforma.",
+          "tip": "Book at least 48 hours ahead during the Boot Düsseldorf or Drupa trade fairs — sitters near the Messe and in Oberkassel fill up fastest in those weeks.",
+          "tipFr": "Réservez au moins 48 heures à l'avance pendant les salons Boot Düsseldorf ou Drupa — les sitters proches de la Messe et à Oberkassel sont les premiers complets ces semaines-là.",
+          "tipEs": "Reserva al menos 48 horas antes durante las ferias Boot Düsseldorf o Drupa: los cuidadores cerca del Messe y en Oberkassel son los primeros en llenarse esas semanas."
+        }
+      ],
+      "tipsEn": [
+        "Most Pawshake sitters in Düsseldorf accept dogs and cats; some specify size limits, so filter on the booking screen.",
+        "Drop-in visits cost around €15–20; full-day daycare in Düsseldorf runs roughly €25–35 depending on neighbourhood and dog size.",
+        "Always ask the sitter for their walk routes — preferred routes through the Hofgarten, Volksgarten, or the Rheinwiesen are a sign of an experienced local."
+      ],
+      "tipsFr": [
+        "La plupart des sitters Pawshake à Düsseldorf acceptent chiens et chats ; certains précisent une limite de taille, à filtrer à la réservation.",
+        "Les visites à domicile coûtent environ 15–20 € ; la garderie à la journée à Düsseldorf tourne entre 25–35 € selon le quartier et la taille du chien.",
+        "Demandez toujours au sitter ses itinéraires de promenade — un parcours par le Hofgarten, le Volksgarten ou les Rheinwiesen est un signe de bon connaisseur local."
+      ],
+      "tipsEs": [
+        "La mayoría de los cuidadores de Pawshake en Düsseldorf aceptan perros y gatos; algunos especifican límite de tamaño, así que filtra al reservar.",
+        "Las visitas puntuales cuestan unos 15–20 €; la guardería de día completo en Düsseldorf ronda entre 25–35 € según el barrio y el tamaño del perro.",
+        "Pregunta siempre al cuidador por sus rutas de paseo: un itinerario por el Hofgarten, el Volksgarten o los Rheinwiesen es señal de un buen conocedor local."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Düsseldorf for a few hours?",
+          "a": "Pawshake.de or PetBacker.com are the standard platforms. Filter for 'drop-in visits' or 'dog walking' and pick a sitter with at least 20 reviews — average ratings above 4.9 are common in this city."
+        },
+        {
+          "q": "Do hotels in Düsseldorf offer pet-sitting on request?",
+          "a": "A few luxury hotels (notably Breidenbacher Hof and Steigenberger Parkhotel) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        },
+        {
+          "q": "Are dog walkers regulated in Germany?",
+          "a": "Professional dog walkers in Germany must register a small business with the local Veterinäramt and carry liability insurance if they walk other people's dogs commercially. Pawshake and PetBacker sitters are insured through their respective platforms."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter pour quelques heures à Düsseldorf ?",
+          "a": "Pawshake.de ou PetBacker.com sont les plateformes de référence. Filtrez sur 'drop-in visits' ou 'dog walking' et choisissez un sitter ayant au moins 20 avis — les notes au-dessus de 4,9 sont courantes dans cette ville."
+        },
+        {
+          "q": "Les hôtels de Düsseldorf proposent-ils une garde sur demande ?",
+          "a": "Quelques hôtels haut de gamme (notamment le Breidenbacher Hof et le Steigenberger Parkhotel) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés en Allemagne ?",
+          "a": "Les promeneurs professionnels en Allemagne doivent déclarer une petite entreprise auprès du Veterinäramt local et souscrire une assurance responsabilité civile pour promener des chiens d'autrui à titre commercial. Les sitters Pawshake et PetBacker sont assurés via leur plateforme respective."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Düsseldorf para unas horas?",
+          "a": "Pawshake.de o PetBacker.com son las plataformas de referencia. Filtra por 'drop-in visits' o 'dog walking' y elige un cuidador con al menos 20 opiniones: las valoraciones por encima de 4,9 son habituales en esta ciudad."
+        },
+        {
+          "q": "¿Los hoteles de Düsseldorf ofrecen servicio de cuidado bajo petición?",
+          "a": "Algunos hoteles de gama alta (sobre todo Breidenbacher Hof y Steigenberger Parkhotel) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        },
+        {
+          "q": "¿Están regulados los paseadores de perros en Alemania?",
+          "a": "Los paseadores profesionales en Alemania deben darse de alta como pequeña empresa ante el Veterinäramt local y tener un seguro de responsabilidad civil si pasean perros ajenos con fines comerciales. Los cuidadores de Pawshake y PetBacker están asegurados a través de sus respectivas plataformas."
+        }
+      ]
+    }
+  }
+}

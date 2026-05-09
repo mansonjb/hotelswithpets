@@ -3657,6 +3657,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  dusseldorf: {
+    history: {
+      fr: `Düsseldorf, capitale de la Rhénanie-du-Nord-Westphalie depuis 1946, s'est imposée comme l'un des principaux centres financiers et commerciaux d'Allemagne (siège de l'Eurex Clearing, du holding E.ON, et lieu de la foire mondiale du nautisme Boot Düsseldorf). La ville-village médiévale du XIIIe siècle est devenue à partir du XIXe siècle l'un des centres artistiques majeurs d'Europe — l'Académie des Beaux-Arts a formé Joseph Beuys, Anselm Kiefer et Andreas Gursky. La Königsallee, percée en 1804, est aujourd'hui l'avenue de luxe la plus chère d'Europe continentale. La ville abrite aussi la plus grande communauté japonaise d'Europe continentale (8 000 résidents permanents, le Petit Tokyo concentré autour d'Immermannstraße). Pour les voyageurs avec chien, Düsseldorf est l'une des villes allemandes les plus pratiques : 21 Hundewiesen officielles clôturées, U-Bahn et trams Rheinbahn dog-friendly, deux lacs de baignade canine officiels (Unterbacher See et Elbsee), une culture de Hausbrauereien (Schumacher, Füchschen, Uerige, Schlüssel) qui accepte les chiens en salle à l'année, et la grande Tierärztliche Klinik 24h/24 à Stockum.`,
+      en: `Düsseldorf, capital of North Rhine-Westphalia since 1946, has established itself as one of Germany's leading financial and trade-fair centres (headquarters of Eurex Clearing, the E.ON utility group, and host of the world's largest yachting fair, Boot Düsseldorf). The 13th-century medieval town village became from the 19th century onwards one of Europe's major art centres — the Kunstakademie trained Joseph Beuys, Anselm Kiefer, and Andreas Gursky. The Königsallee, opened in 1804, is today the most expensive luxury avenue in continental Europe. The city is also home to the largest Japanese community in continental Europe (8,000 permanent residents, the 'Little Tokyo' clustered around Immermannstraße). For travellers with a dog, Düsseldorf is one of Germany's most practical cities: 21 official fenced Hundewiesen, dog-friendly Rheinbahn U-Bahn and trams, two official lake-bathing zones (Unterbacher See and Elbsee), a Hausbrauerei culture (Schumacher, Füchschen, Uerige, Schlüssel) that accepts dogs indoors year-round, and the large 24/7 Tierärztliche Klinik in Stockum.`,
+      es: `Düsseldorf, capital de Renania del Norte-Westfalia desde 1946, se ha consolidado como uno de los principales centros financieros y feriales de Alemania (sede de Eurex Clearing, del grupo E.ON y anfitriona de la mayor feria náutica del mundo, Boot Düsseldorf). El pueblo-villa medieval del siglo XIII se convirtió desde el siglo XIX en uno de los grandes centros artísticos de Europa: la Kunstakademie formó a Joseph Beuys, Anselm Kiefer y Andreas Gursky. La Königsallee, abierta en 1804, es hoy la avenida de lujo más cara de Europa continental. La ciudad alberga también la mayor comunidad japonesa de Europa continental (8.000 residentes permanentes, el 'Pequeño Tokio' concentrado en torno a Immermannstraße). Para los viajeros con perro, Düsseldorf es una de las ciudades alemanas más prácticas: 21 Hundewiesen oficiales valladas, U-Bahn y tranvías Rheinbahn dog-friendly, dos zonas oficiales de baño canino (Unterbacher See y Elbsee), una cultura de Hausbrauereien (Schumacher, Füchschen, Uerige, Schlüssel) que admite perros dentro todo el año y la gran Tierärztliche Klinik 24/7 en Stockum.`,
+    },
+    sights: [
+      { name: 'Hofgarten', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Premier parc public d'Allemagne (1769), 28 hectares de pelouses à l'anglaise au cœur de Düsseldorf entre la Königsallee et le Rhin. Hundewiese sans laisse adjacente côté est.`,
+        en: `Germany's first public park (1769), 28 hectares of English-landscape lawns in the heart of Düsseldorf between the Königsallee and the Rhine. Adjacent off-leash Hundewiese on the eastern edge.`,
+        es: `Primer parque público de Alemania (1769), 28 hectáreas de praderas paisajísticas inglesas en el corazón de Düsseldorf entre la Königsallee y el Rin. Hundewiese sin correa contigua en el lado este.`,
+      }},
+      { name: 'Medienhafen', emoji: '🏗️', petFriendly: true, desc: {
+        fr: `Ancien port de fret reconverti, mondialement connu pour les trois bâtiments du Neuer Zollhof signés Frank Gehry. Quais piétons entièrement ouverts aux chiens en laisse.`,
+        en: `A regenerated former cargo harbour, world-known for Frank Gehry's three Neuer Zollhof buildings. Pedestrian quayside fully open to dogs on leash.`,
+        es: `Antiguo puerto de carga regenerado, conocido mundialmente por los tres edificios del Neuer Zollhof firmados por Frank Gehry. Muelle peatonal totalmente abierto a perros con correa.`,
+      }},
+      { name: 'Rheinuferpromenade', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenade piétonne de 2 km le long de la rive droite du Rhin, entre l'Oberkasseler Brücke et le Landtag, passant par la Vieille Ville et la Schlossturm. Chiens en laisse bienvenus.`,
+        en: `2 km car-free promenade along the right bank of the Rhine, between the Oberkasseler Brücke and the Landtag, passing the Old Town and Schlossturm. Leashed dogs welcome.`,
+        es: `Paseo peatonal de 2 km a lo largo de la orilla derecha del Rin, entre el Oberkasseler Brücke y el Landtag, que pasa por la Ciudad Vieja y la Schlossturm. Perros con correa bienvenidos.`,
+      }},
+      { name: 'Königsallee', emoji: '🛍️', petFriendly: true, desc: {
+        fr: `Boulevard arboré luxueux avec un canal central. Chiens en laisse bienvenus sur toute la longueur ; les boutiques de luxe limitent l'entrée aux chiens d'assistance, mais les cafés du côté ouest sont dog-friendly.`,
+        en: `Tree-lined luxury boulevard with a central canal. Leashed dogs welcome the entire length; luxury boutiques admit only assistance dogs, but the west-side cafés are dog-friendly.`,
+        es: `Bulevar arbolado de lujo con canal central. Perros con correa bienvenidos en toda su extensión; las boutiques de lujo solo admiten perros de asistencia, pero los cafés del lado oeste son dog-friendly.`,
+      }},
+      { name: 'Unterbacher See', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Lac de 83 hectares au sud-est, avec deux Hundebadestellen officielles. Chiens sans laisse et baignade autorisées dans les zones balisées (rives ouest et nord).`,
+        en: `83-hectare lake to the south-east, with two official Hundebadestellen. Off-leash and swimming allowed inside the marked zones (western and northern shores).`,
+        es: `Lago de 83 hectáreas al sureste, con dos Hundebadestellen oficiales. Perros sin correa y baño permitidos dentro de las zonas señalizadas (orillas oeste y norte).`,
+      }},
+      { name: 'Volksgarten', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Parc paysager de 70 hectares au sud du centre, avec deux étangs et une grande Hundewiese clôturée près de l'entrée Auf'm Hennekamp.`,
+        en: `70-hectare landscape park south of the centre, with two ponds and a large fenced Hundewiese near the Auf'm Hennekamp entrance.`,
+        es: `Parque paisajístico de 70 hectáreas al sur del centro, con dos estanques y una gran Hundewiese vallada cerca de la entrada de Auf'm Hennekamp.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Düsseldorf exploite 21 Hundewiesen officielles clôturées : ce sont les seuls endroits du Stadtgebiet où courir sans laisse est légal. Partout ailleurs, la laisse est obligatoire (amende dès 35 €).`,
+        `Rheinbahn (U-Bahn et trams) : petits chiens en sac gratuits ; grands chiens avec un ticket Kindertarif (tarif enfant), en laisse, muselés à la demande du personnel.`,
+        `Unterbacher See : deux Hundebadestellen officielles avec baignade et course sans laisse. La plage principale Strandbad Nord n'admet que les chiens d'assistance.`,
+        `Vétérinaire d'urgence 24h/24 : Tierärztliche Klinik Düsseldorf, Niederrheinstraße 312, Stockum — +49 211 4 35 14 0. Saisissez le numéro avant l'arrivée.`,
+        `Listenhunde : la NRW Landeshundegesetz impose des restrictions à certaines races (Pit Bull, American Staffordshire, Bullterrier, etc.) — vérifiez avant le voyage si vous voyagez avec une de ces races.`,
+      ],
+      en: [
+        `Düsseldorf operates 21 official fenced Hundewiesen: these are the only places inside the Stadtgebiet where off-leash running is legal. Everywhere else a leash is mandatory (€35+ fine).`,
+        `Rheinbahn (U-Bahn and trams): small dogs in carriers free; large dogs need a Kindertarif (child-rate) ticket, leashed and muzzled if requested by staff.`,
+        `Unterbacher See: two official Hundebadestellen with swimming and off-leash running. The main Strandbad Nord beach admits only assistance dogs.`,
+        `24/7 emergency vet: Tierärztliche Klinik Düsseldorf, Niederrheinstraße 312, Stockum — +49 211 4 35 14 0. Save the number before arrival.`,
+        `Listenhunde: the NRW Landeshundegesetz restricts certain breeds (Pit Bull, American Staffordshire, Bull Terrier, etc.) — check before travel if you have one of these breeds.`,
+      ],
+      es: [
+        `Düsseldorf gestiona 21 Hundewiesen oficiales valladas: son los únicos lugares dentro del Stadtgebiet donde correr sin correa es legal. En el resto la correa es obligatoria (multa desde 35 €).`,
+        `Rheinbahn (U-Bahn y tranvías): perros pequeños en transportín gratis; los perros grandes necesitan un billete Kindertarif (tarifa infantil), con correa y bozal si lo pide el personal.`,
+        `Unterbacher See: dos Hundebadestellen oficiales con baño y carrera sin correa. La playa principal Strandbad Nord solo admite perros de asistencia.`,
+        `Veterinario de urgencias 24/7: Tierärztliche Klinik Düsseldorf, Niederrheinstraße 312, Stockum — +49 211 4 35 14 0. Guarda el número antes de llegar.`,
+        `Listenhunde: la NRW Landeshundegesetz restringe ciertas razas (Pit Bull, American Staffordshire, Bull Terrier, etc.): comprueba antes de viajar si llevas una de esas razas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Düsseldorf (DUS) à 8 km du centre — S-Bahn S11 toutes les 20 min, 13 minutes, ou SkyTrain + U70/U78/U79 pour le centre. Chiens en laisse au tarif Rheinbahn.`,
+        `Deutsche Bahn ICE Düsseldorf–Cologne 25 min, ICE Düsseldorf–Frankfurt 1h25, ICE Düsseldorf–Munich 4h30. Grands chiens à 50 % du tarif adulte ; petits chiens en cage gratuits.`,
+        `Boot Düsseldorf (foire mondiale du nautisme, fin janvier) et Drupa (foire de l'imprimerie, tous les 4 ans) saturent les hôtels — réservez 2 mois à l'avance ou évitez ces semaines avec un chien.`,
+        `Tarifs vétérinaires allemands : consultation de routine environ 50–70 € ; urgence 24h/24 à Stockum 150–250 €. Assurance européenne acceptée, facture détaillée en anglais sur demande.`,
+        `Karneval (jours avant le Carême, février-mars) : les chiens sensibles devraient éviter la Altstadt pendant le Rosenmontag, l'Altweiber Donnerstag et le Veilchendienstag — bruit et foule extrêmes.`,
+      ],
+      en: [
+        `Düsseldorf Airport (DUS) is 8 km from the centre — S-Bahn S11 every 20 min, 13 minutes, or SkyTrain + U70/U78/U79 to the centre. Leashed dogs at Rheinbahn fares.`,
+        `Deutsche Bahn ICE Düsseldorf–Cologne 25 min, ICE Düsseldorf–Frankfurt 1h25, ICE Düsseldorf–Munich 4h30. Large dogs at 50% of adult fare; small dogs in carriers free.`,
+        `Boot Düsseldorf (world's largest yachting fair, late January) and Drupa (printing trade fair, every 4 years) saturate hotels — book 2 months ahead or avoid those weeks with a dog.`,
+        `German vet fees: routine consultation around €50–70; 24/7 emergency at Stockum €150–250. EU pet insurance accepted, itemised English-language invoice on request.`,
+        `Karneval (the days before Lent, February-March): sensitive dogs should avoid the Altstadt during Rosenmontag, Altweiber Donnerstag, and Veilchendienstag — extreme noise and crowds.`,
+      ],
+      es: [
+        `Aeropuerto de Düsseldorf (DUS) a 8 km del centro — S-Bahn S11 cada 20 min, 13 minutos, o SkyTrain + U70/U78/U79 al centro. Perros con correa con tarifa Rheinbahn.`,
+        `Deutsche Bahn ICE Düsseldorf–Colonia 25 min, ICE Düsseldorf–Fráncfort 1h25, ICE Düsseldorf–Múnich 4h30. Perros grandes al 50 % de la tarifa adulta; perros pequeños en transportín gratis.`,
+        `Boot Düsseldorf (mayor feria náutica del mundo, finales de enero) y Drupa (feria de la imprenta, cada 4 años) saturan los hoteles: reserva con 2 meses de antelación o evita esas semanas con perro.`,
+        `Tarifas veterinarias alemanas: consulta de rutina unos 50–70 €; urgencia 24/7 en Stockum 150–250 €. Seguro europeo aceptado, factura detallada en inglés bajo petición.`,
+        `Karneval (días antes de la Cuaresma, febrero-marzo): los perros sensibles deberían evitar la Altstadt durante el Rosenmontag, el Altweiber Donnerstag y el Veilchendienstag: ruido y multitudes extremos.`,
+      ],
+    },
+  },
+
   edinburgh: {
     history: {
       fr: `Édimbourg est une ville qui respire l'histoire. Construite sur des roches volcaniques au sommet desquelles trône le château (XIe siècle), elle fut la capitale du Royaume d'Écosse et le lieu de naissance de la Renaissance écossaise. Sa vieille ville médiévale et son New Town géorgien du XVIIIe siècle sont inscrits ensemble au patrimoine mondial de l'UNESCO. Mais Édimbourg est aussi une ville profondément dog-friendly : les chiens sont admis dans la plupart des pubs, sur les collines d'Arthur's Seat, dans les jardins publics et dans une majorité de cafés. La tradition britannique du chien au pub est ici une réalité quotidienne — et l'Écosse est, avec l'Allemagne, le pays d'Europe le plus accueillant pour les animaux de compagnie.`,

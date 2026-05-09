@@ -2493,6 +2493,80 @@
     }
   },
   {
+    "slug": "dusseldorf",
+    "name": "Düsseldorf",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "lat": 51.2277,
+    "lng": 6.7735,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/dusseldorf.jpg",
+    "intro": "Düsseldorf pairs Rhineland brewpub culture with one of Germany's most extensive park networks — 21 official off-leash Hundewiesen, Frank Gehry's Medienhafen waterfront, and Unterbacher See's lake-bathing zones 20 minutes south of the centre.",
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm summer days",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm summer days",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild with showers",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "edinburgh",
     "name": "Edinburgh",
     "country": "United Kingdom",

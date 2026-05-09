@@ -1,0 +1,894 @@
+{
+  "slug": "liverpool",
+  "name": "Liverpool",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-05-09",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Liverpool",
+      "titleFr": "Restaurants acceptant les chiens à Liverpool",
+      "titleEs": "Restaurantes para perros en Liverpool",
+      "introEn": "Liverpool's pub and café culture is reliably dog-welcoming, especially around the Baltic Triangle, the Royal Albert Dock, and the residential suburbs of Aigburth and the Georgian Quarter. Most independents keep water bowls behind the bar and welcome leashed dogs in the bar area year-round; chain restaurants are more variable but the Albert Dock waterfront concentrates several confirmed pet-friendly venues. The three places below are well-known to local dog owners and accept pets indoors.",
+      "introFr": "La culture des pubs et cafés de Liverpool accueille volontiers les chiens, en particulier autour du Baltic Triangle, du Royal Albert Dock et des quartiers résidentiels d'Aigburth et du Georgian Quarter. La plupart des indépendants gardent des gamelles d'eau derrière le bar et acceptent les chiens en laisse dans la zone bar à l'année ; les chaînes sont plus variables mais le front de mer de l'Albert Dock concentre plusieurs adresses dog-friendly confirmées. Les trois lieux ci-dessous sont bien connus des propriétaires de chiens locaux et acceptent les animaux en salle.",
+      "introEs": "La cultura de pubs y cafés de Liverpool es fiablemente acogedora con los perros, sobre todo en torno al Baltic Triangle, el Royal Albert Dock y los barrios residenciales de Aigburth y el Georgian Quarter. La mayoría de los locales independientes guardan cuencos de agua detrás de la barra y admiten perros con correa en la zona de bar todo el año; las cadenas son más variables, pero el paseo marítimo del Albert Dock concentra varias direcciones dog-friendly confirmadas. Los tres lugares siguientes son bien conocidos por los dueños de perros locales y aceptan mascotas dentro.",
+      "places": [
+        {
+          "name": "The Baltic Fleet",
+          "address": "33A Wapping, Liverpool L1 8DQ",
+          "neighborhood": "Baltic Triangle / Waterfront",
+          "photo": "/images/city-places/liverpool-restaurants-the-baltic-fleet.jpg",
+          "website": "https://www.balticfleetpubliverpool.com/",
+          "description": "A Grade II-listed Georgian flatiron pub a short walk from the Albert Dock, often cited as one of the most reliably dog-friendly venues in central Liverpool. Dogs are welcome in the bar and on the small front pavement terrace, and the kitchen serves traditional pub food alongside on-site brewed beers from the in-house brewery.",
+          "descriptionFr": "Pub géorgien classé Grade II en forme de fer à repasser, à quelques pas de l'Albert Dock, régulièrement cité comme l'une des adresses les plus fiables pour les chiens dans le centre de Liverpool. Les chiens sont les bienvenus au bar et sur la petite terrasse en façade, et la cuisine propose des plats de pub traditionnels accompagnés de bières brassées sur place.",
+          "descriptionEs": "Pub georgiano catalogado Grade II con forma de plancha, a pocos pasos del Albert Dock, citado a menudo como una de las direcciones más fiables para perros del centro de Liverpool. Los perros son bienvenidos en la barra y en la pequeña terraza delantera, y la cocina ofrece comida de pub tradicional acompañada de cervezas elaboradas en la propia fábrica del local.",
+          "petPolicy": "Dogs welcome in the bar area and on the front terrace",
+          "petPolicyFr": "Chiens acceptés au bar et sur la terrasse avant",
+          "petPolicyEs": "Perros admitidos en la zona de bar y en la terraza delantera",
+          "priceRange": "££",
+          "mustTry": "Wapping Beers brewery samples, scouse stew, Sunday roast",
+          "mustTryFr": "Dégustation des bières maison Wapping, ragoût scouse, Sunday roast",
+          "mustTryEs": "Cata de cervezas Wapping, estofado scouse, Sunday roast",
+          "openingHours": "Mon–Sun 12:00–23:00",
+          "tip": "Walk over from the Albert Dock along Wapping for a 10-minute leashed riverside approach — it ends right at the door.",
+          "tipFr": "Venez à pied depuis l'Albert Dock le long de Wapping pour 10 minutes de marche en laisse au bord de l'eau — l'arrivée est juste devant la porte.",
+          "tipEs": "Acércate a pie desde el Albert Dock por Wapping: 10 minutos con correa junto al agua hasta la puerta del local.",
+          "googleMapsUrl": "https://maps.google.com/?q=The+Baltic+Fleet+Liverpool"
+        },
+        {
+          "name": "Bold Street Coffee",
+          "address": "89 Bold Street, Liverpool L1 4HF",
+          "neighborhood": "Ropewalks",
+          "photo": "/images/city-places/liverpool-restaurants-bold-street-coffee.jpg",
+          "website": "https://www.boldstreetcoffee.co.uk/",
+          "description": "A small independent on Liverpool's most pedestrian-friendly retail street, well loved by local dog owners for breakfast and brunch. Dogs are welcome inside the bright ground-floor café and the kitchen runs a daily-changing menu built around a single-origin coffee roastery.",
+          "descriptionFr": "Petit indépendant sur la rue commerçante la plus piétonne de Liverpool, très apprécié des propriétaires de chiens locaux pour le petit-déjeuner et le brunch. Les chiens sont acceptés dans le café lumineux du rez-de-chaussée, et la cuisine propose un menu changeant chaque jour autour d'une torréfaction de café d'origine.",
+          "descriptionEs": "Pequeño café independiente en la calle comercial más peatonal de Liverpool, muy querido por los dueños de perros locales para desayunos y brunch. Los perros son bienvenidos dentro del luminoso local de planta baja, y la cocina ofrece una carta que cambia a diario en torno a una tostadora de café de origen único.",
+          "petPolicy": "Dogs welcome inside the ground-floor café",
+          "petPolicyFr": "Chiens acceptés dans le café au rez-de-chaussée",
+          "petPolicyEs": "Perros admitidos dentro del café de planta baja",
+          "priceRange": "£",
+          "mustTry": "Single-origin filter coffee, full English breakfast, daily brunch special",
+          "mustTryFr": "Café filtre origine unique, full English breakfast, plat brunch du jour",
+          "mustTryEs": "Café de filtro de origen único, full English breakfast, brunch del día",
+          "openingHours": "Mon–Sun 08:00–17:00",
+          "tip": "Bold Street is fully pedestrianised at lunchtime — easy leashed approach without traffic from either Central station or the Liverpool One side.",
+          "tipFr": "Bold Street est entièrement piétonne au déjeuner — approche en laisse facile sans circulation depuis la gare de Central ou le côté Liverpool One.",
+          "tipEs": "Bold Street está totalmente peatonalizada al mediodía: acceso con correa fácil sin tráfico desde Central station o desde Liverpool One.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bold+Street+Coffee+Liverpool"
+        },
+        {
+          "name": "The Belvedere Arms",
+          "address": "5 Sugnall Street, Liverpool L7 7EB",
+          "neighborhood": "Georgian Quarter",
+          "photo": "/images/city-places/liverpool-restaurants-the-belvedere-arms.jpg",
+          "website": "https://www.thebelvederearms.co.uk/",
+          "description": "A small Victorian corner pub tucked behind the Anglican Cathedral, almost entirely run for the surrounding Georgian Quarter community. Dogs are welcome throughout the bar and the small lounge, and the pub keeps water bowls and treats at the door.",
+          "descriptionFr": "Petit pub victorien d'angle blotti derrière la cathédrale anglicane, presque entièrement tourné vers la communauté du Georgian Quarter alentour. Les chiens sont les bienvenus dans tout le bar et le petit salon, et le pub garde gamelles d'eau et friandises près de la porte.",
+          "descriptionEs": "Pequeño pub victoriano en esquina escondido detrás de la Catedral Anglicana, orientado casi exclusivamente a la comunidad del Georgian Quarter circundante. Los perros son bienvenidos en toda la barra y el pequeño salón, y el pub guarda cuencos de agua y golosinas junto a la puerta.",
+          "petPolicy": "Dogs welcome throughout the pub",
+          "petPolicyFr": "Chiens acceptés dans tout le pub",
+          "petPolicyEs": "Perros admitidos en todo el pub",
+          "priceRange": "££",
+          "mustTry": "Cask ale of the day, simple Sunday roast",
+          "mustTryFr": "Bière à la pompe du jour, Sunday roast simple",
+          "mustTryEs": "Cerveza cask del día, Sunday roast sencillo",
+          "openingHours": "Mon–Sun 14:00–23:00",
+          "tip": "Combine with a walk through the Anglican Cathedral grounds and St James's Cemetery — both are leashed-dog friendly and 5 minutes away.",
+          "tipFr": "Combinez avec une balade dans le parc de la cathédrale anglicane et le cimetière St James — les deux acceptent les chiens en laisse et sont à 5 minutes.",
+          "tipEs": "Combínalo con un paseo por el recinto de la Catedral Anglicana y el cementerio de St James: ambos admiten perros con correa y están a 5 minutos.",
+          "googleMapsUrl": "https://maps.google.com/?q=The+Belvedere+Arms+Liverpool"
+        }
+      ],
+      "tipsEn": [
+        "Liverpool's most reliably dog-friendly cluster is the Baltic Triangle / Royal Albert Dock corridor — at least a dozen pubs and cafés along the wharf welcome dogs.",
+        "Independent pubs almost always say yes; chain restaurants and most fine-dining rooms restrict dogs to outdoor terraces only.",
+        "If unsure, look for the chalkboard 'Dogs Welcome' sign at the door — common across Liverpool independents."
+      ],
+      "tipsFr": [
+        "Le cluster le plus fiable pour les chiens à Liverpool est le couloir Baltic Triangle / Royal Albert Dock — au moins une dizaine de pubs et cafés sur le quai accueillent les chiens.",
+        "Les pubs indépendants disent presque toujours oui ; les chaînes et la plupart des restaurants gastronomiques limitent les chiens aux terrasses extérieures.",
+        "En cas de doute, repérez l'ardoise 'Dogs Welcome' à la porte — courante chez les indépendants de Liverpool."
+      ],
+      "tipsEs": [
+        "El cluster más fiable para perros en Liverpool es el corredor Baltic Triangle / Royal Albert Dock: al menos una docena de pubs y cafés del muelle admiten perros.",
+        "Los pubs independientes casi siempre los aceptan; las cadenas y la mayoría de los restaurantes de alta cocina limitan los perros a las terrazas exteriores.",
+        "Si tienes dudas, busca la pizarra 'Dogs Welcome' en la puerta: habitual en los locales independientes de Liverpool."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside pubs in Liverpool?",
+          "a": "In most independent pubs yes — Liverpool has a strong dog-welcoming pub culture. Chain pubs (Wetherspoon, Greene King) usually restrict dogs to outdoor seating. Always check at the door."
+        },
+        {
+          "q": "Do Liverpool restaurants charge for water bowls?",
+          "a": "Almost never. Independents in the Baltic Triangle, Bold Street, and the Georgian Quarter keep bowls behind the bar and bring them out on request."
+        },
+        {
+          "q": "Where is the densest dog-friendly dining cluster in Liverpool?",
+          "a": "The Baltic Triangle and the Royal Albert Dock have the highest concentration, followed by Bold Street in Ropewalks and the Lark Lane strip in Aigburth."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle dans les pubs de Liverpool ?",
+          "a": "Dans la plupart des pubs indépendants, oui — Liverpool a une forte culture du pub dog-friendly. Les pubs de chaîne (Wetherspoon, Greene King) limitent généralement les chiens aux terrasses. Vérifiez toujours à la porte."
+        },
+        {
+          "q": "Les restaurants de Liverpool facturent-ils la gamelle d'eau ?",
+          "a": "Quasiment jamais. Les indépendants du Baltic Triangle, de Bold Street et du Georgian Quarter gardent des gamelles derrière le bar et les sortent sur demande."
+        },
+        {
+          "q": "Où trouve-t-on le cluster dog-friendly le plus dense de Liverpool ?",
+          "a": "Le Baltic Triangle et le Royal Albert Dock ont la concentration la plus élevée, suivis par Bold Street à Ropewalks et la rue Lark Lane à Aigburth."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permite a los perros dentro de los pubs en Liverpool?",
+          "a": "En la mayoría de los pubs independientes sí: Liverpool tiene una fuerte cultura de pub dog-friendly. Los pubs de cadena (Wetherspoon, Greene King) suelen limitar los perros al exterior. Comprueba siempre en la puerta."
+        },
+        {
+          "q": "¿Cobran los restaurantes de Liverpool por el cuenco de agua?",
+          "a": "Casi nunca. Los locales independientes del Baltic Triangle, Bold Street y el Georgian Quarter guardan cuencos detrás de la barra y los sacan a petición."
+        },
+        {
+          "q": "¿Dónde está el cluster dog-friendly más denso de Liverpool?",
+          "a": "El Baltic Triangle y el Royal Albert Dock tienen la mayor concentración, seguidos por Bold Street en Ropewalks y la calle Lark Lane en Aigburth."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks in Liverpool",
+      "titleFr": "Meilleurs parcs pour chiens à Liverpool",
+      "titleEs": "Mejores parques para perros en Liverpool",
+      "introEn": "Liverpool has one of the largest urban park networks in north-west England, with 2,500 acres of green space and several Victorian-era heritage parks within walking distance of the centre. Most parks allow dogs off-leash on the open grassland away from sports pitches and children's playgrounds. The three parks below cover the main types: Victorian heritage, large country park, and waterfront promenade.",
+      "introFr": "Liverpool dispose de l'un des plus grands réseaux de parcs urbains du nord-ouest de l'Angleterre, avec 2 500 acres d'espaces verts et plusieurs parcs victoriens classés à distance de marche du centre. La plupart des parcs autorisent les chiens sans laisse sur les pelouses ouvertes, loin des terrains de sport et des aires de jeux pour enfants. Les trois parcs ci-dessous couvrent les principaux types : héritage victorien, grand parc de campagne et promenade au bord de l'eau.",
+      "introEs": "Liverpool tiene una de las mayores redes de parques urbanos del noroeste de Inglaterra, con 2.500 acres de espacios verdes y varios parques victorianos catalogados a poca distancia a pie del centro. La mayoría de los parques permiten perros sin correa en las praderas abiertas, lejos de los campos deportivos y de las zonas infantiles. Los tres parques siguientes cubren los tipos principales: parque victoriano, gran parque de campo y paseo marítimo.",
+      "places": [
+        {
+          "name": "Sefton Park",
+          "address": "Sefton Park, Liverpool L17 1AP",
+          "neighborhood": "Aigburth / Toxteth",
+          "photo": "/images/city-places/liverpool-parks-sefton-park.jpg",
+          "website": "https://liverpool.gov.uk/leisure-parks-and-events/parks-and-greenspaces/sefton-park/",
+          "description": "Liverpool's largest Victorian park (235 acres / 95 hectares), Grade I-listed and modelled on Birkenhead Park. Dogs are allowed off-leash on the wide open meadows around the boating lake and the Old English Garden, with leashed-only zones near the Palm House and the children's play area.",
+          "descriptionFr": "Plus grand parc victorien de Liverpool (235 acres / 95 hectares), classé Grade I et inspiré de Birkenhead Park. Les chiens sont autorisés sans laisse sur les vastes prairies autour du lac de canotage et du Old English Garden, avec des zones obligatoires en laisse près de la Palm House et de l'aire de jeux pour enfants.",
+          "descriptionEs": "El mayor parque victoriano de Liverpool (235 acres / 95 hectáreas), catalogado Grade I y modelado sobre Birkenhead Park. Los perros se admiten sin correa en las amplias praderas alrededor del lago de remo y del Old English Garden, con zonas con correa obligatoria cerca de la Palm House y la zona infantil.",
+          "size": "95 hectares",
+          "fenced": false,
+          "amenities": [
+            "Off-leash open meadows",
+            "Boating lake circuit",
+            "Drinking water fountains",
+            "Café (Palm House)",
+            "Bin and bag dispensers throughout"
+          ],
+          "amenitiesFr": [
+            "Prairies ouvertes sans laisse",
+            "Tour du lac de canotage",
+            "Fontaines d'eau potable",
+            "Café (Palm House)",
+            "Poubelles et distributeurs de sacs partout"
+          ],
+          "amenitiesEs": [
+            "Praderas abiertas sin correa",
+            "Vuelta al lago de remo",
+            "Fuentes de agua potable",
+            "Cafetería (Palm House)",
+            "Papeleras y dispensadores de bolsas por todo el parque"
+          ],
+          "openingHours": "07:00–dusk",
+          "tip": "Park near the Aigburth Drive entrance for the easiest access to the largest off-leash meadow — the lake loop is about 30 minutes leashed, longer if your dog swims.",
+          "tipFr": "Garez-vous près de l'entrée Aigburth Drive pour l'accès le plus simple à la plus grande prairie sans laisse — la boucle du lac fait environ 30 minutes en laisse, plus si votre chien se baigne.",
+          "tipEs": "Aparca cerca de la entrada de Aigburth Drive para el acceso más fácil a la mayor pradera sin correa: la vuelta al lago es de unos 30 minutos con correa, más si el perro se baña.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sefton+Park+Liverpool"
+        },
+        {
+          "name": "Croxteth Country Park",
+          "address": "Muirhead Avenue East, Liverpool L11 1EH",
+          "neighborhood": "West Derby (north Liverpool)",
+          "photo": "/images/city-places/liverpool-parks-croxteth-country-park.jpg",
+          "website": "https://liverpool.gov.uk/leisure-parks-and-events/parks-and-greenspaces/croxteth-hall-and-country-park/",
+          "description": "A 500-acre (200 hectares) country park around the historic Croxteth Hall, the city's largest single green space. The park combines woodland, meadow, and a working farm; dogs are allowed off-leash on most paths and meadows, with leash-only sections near the farm animals and the formal walled garden.",
+          "descriptionFr": "Parc de campagne de 500 acres (200 hectares) autour du domaine historique de Croxteth Hall, le plus grand espace vert d'un seul tenant de la ville. Le parc combine bois, prairies et ferme en activité ; les chiens sont autorisés sans laisse sur la plupart des sentiers et prairies, avec des sections en laisse obligatoire près des animaux de la ferme et du jardin clos à la française.",
+          "descriptionEs": "Parque de campo de 500 acres (200 hectáreas) en torno a la histórica Croxteth Hall, el mayor espacio verde individual de la ciudad. El parque combina bosque, prado y una granja en funcionamiento; los perros se admiten sin correa en la mayoría de los senderos y praderas, con tramos con correa obligatoria cerca de los animales de la granja y el jardín amurallado.",
+          "size": "200 hectares",
+          "fenced": false,
+          "amenities": [
+            "Off-leash woodland trails",
+            "Working farm (leash required)",
+            "Café and visitor centre",
+            "Free parking",
+            "Bag dispensers at main entrances"
+          ],
+          "amenitiesFr": [
+            "Sentiers boisés sans laisse",
+            "Ferme en activité (laisse obligatoire)",
+            "Café et centre d'accueil",
+            "Parking gratuit",
+            "Distributeurs de sacs aux entrées principales"
+          ],
+          "amenitiesEs": [
+            "Senderos boscosos sin correa",
+            "Granja en funcionamiento (correa obligatoria)",
+            "Cafetería y centro de visitantes",
+            "Aparcamiento gratuito",
+            "Dispensadores de bolsas en las entradas principales"
+          ],
+          "openingHours": "08:00–dusk",
+          "tip": "The eastern woodland circuit is the quietest off-leash route — start from the Muirhead Avenue car park and head east to avoid the hall and farm crowds.",
+          "tipFr": "Le circuit boisé oriental est l'itinéraire sans laisse le plus calme — partez du parking Muirhead Avenue et allez vers l'est pour éviter la foule autour du hall et de la ferme.",
+          "tipEs": "El circuito boscoso oriental es la ruta sin correa más tranquila: arranca desde el aparcamiento de Muirhead Avenue y dirígete al este para evitar la gente del hall y la granja.",
+          "googleMapsUrl": "https://maps.google.com/?q=Croxteth+Country+Park+Liverpool"
+        },
+        {
+          "name": "Otterspool Promenade",
+          "address": "Otterspool Promenade, Liverpool L17 5AJ",
+          "neighborhood": "Aigburth (riverside)",
+          "photo": "/images/city-places/liverpool-parks-otterspool-promenade.jpg",
+          "website": "https://liverpool.gov.uk/leisure-parks-and-events/parks-and-greenspaces/otterspool-park/",
+          "description": "A 2.5-mile (4 km) waterfront promenade along the Mersey estuary linking Otterspool to the Festival Gardens, popular with local dog walkers. Dogs are allowed off-leash on the open grassland between the promenade and the riverside path, with leash zones at the children's play area and around the Britannia Inn.",
+          "descriptionFr": "Promenade au bord de l'eau de 4 km le long de l'estuaire de la Mersey reliant Otterspool aux Festival Gardens, populaire auprès des promeneurs de chiens locaux. Les chiens sont autorisés sans laisse sur les espaces enherbés entre la promenade et le sentier riverain, avec des zones en laisse à l'aire de jeux pour enfants et autour du pub Britannia Inn.",
+          "descriptionEs": "Paseo marítimo de 4 km a lo largo del estuario del Mersey que une Otterspool con los Festival Gardens, muy frecuentado por los paseadores de perros locales. Los perros se admiten sin correa en la pradera abierta entre el paseo y la senda ribereña, con zonas con correa en la zona infantil y alrededor del pub Britannia Inn.",
+          "size": "4 km linear",
+          "fenced": false,
+          "amenities": [
+            "Off-leash riverside grassland",
+            "Mersey estuary views",
+            "Café (Britannia Inn)",
+            "Free parking at Otterspool",
+            "Bag dispensers along the route"
+          ],
+          "amenitiesFr": [
+            "Pelouses riveraines sans laisse",
+            "Vues sur l'estuaire de la Mersey",
+            "Café (Britannia Inn)",
+            "Parking gratuit à Otterspool",
+            "Distributeurs de sacs le long du parcours"
+          ],
+          "amenitiesEs": [
+            "Praderas ribereñas sin correa",
+            "Vistas al estuario del Mersey",
+            "Cafetería (Britannia Inn)",
+            "Aparcamiento gratuito en Otterspool",
+            "Dispensadores de bolsas a lo largo del recorrido"
+          ],
+          "openingHours": "24/7",
+          "tip": "Walk south from Otterspool car park towards the Festival Gardens for the widest off-leash grassland — the views of the Mersey and Welsh hills are the best in the city.",
+          "tipFr": "Marchez vers le sud depuis le parking d'Otterspool en direction des Festival Gardens pour la plus grande pelouse sans laisse — les vues sur la Mersey et les collines galloises sont les plus belles de la ville.",
+          "tipEs": "Camina hacia el sur desde el aparcamiento de Otterspool hacia los Festival Gardens para encontrar la pradera sin correa más amplia: las vistas al Mersey y las colinas galesas son las mejores de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Otterspool+Promenade+Liverpool"
+        }
+      ],
+      "tipsEn": [
+        "Liverpool City Council requires dogs to be on a lead within 5 metres of any roadway or playground inside parks; off-leash is allowed on the open grassland away from those zones.",
+        "Public Space Protection Orders (PSPO) ban dogs from fenced sports pitches and signposted nature reserves — look for the small green council signs at park entrances.",
+        "Bag dispensers are common in Sefton, Princes, and Stanley parks; bring your own at smaller suburban parks."
+      ],
+      "tipsFr": [
+        "La municipalité de Liverpool impose la laisse à moins de 5 mètres de toute voie de circulation ou aire de jeux à l'intérieur des parcs ; les chiens peuvent être lâchés sur les pelouses ouvertes en dehors de ces zones.",
+        "Les Public Space Protection Orders (PSPO) interdisent les chiens dans les terrains de sport clôturés et les réserves naturelles signalées — repérez les petits panneaux verts municipaux aux entrées.",
+        "Les distributeurs de sacs sont courants à Sefton, Princes et Stanley Park ; emportez les vôtres dans les petits parcs de banlieue."
+      ],
+      "tipsEs": [
+        "El ayuntamiento de Liverpool exige correa a menos de 5 metros de cualquier carretera o zona infantil dentro de los parques; los perros pueden ir sueltos en las praderas abiertas alejadas de esas zonas.",
+        "Las Public Space Protection Orders (PSPO) prohíben los perros en los campos deportivos vallados y en las reservas naturales señalizadas: busca los pequeños carteles verdes municipales en las entradas.",
+        "Los dispensadores de bolsas son habituales en Sefton, Princes y Stanley Park; lleva las tuyas en los pequeños parques de barrio."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run completely off-leash in Liverpool?",
+          "a": "Sefton Park's open meadows, Croxteth Country Park's woodland trails, Otterspool Promenade's grassland, and most of Stanley Park and Calderstones Park outside the playgrounds and sports pitches."
+        },
+        {
+          "q": "Are dogs allowed in Liverpool's Botanic Garden inside Calderstones Park?",
+          "a": "Yes — leashed dogs are welcome in Calderstones Park including the Japanese Garden lawns. Only assistance dogs are admitted to the Reader / Mansion House café indoors."
+        },
+        {
+          "q": "Are there bag dispensers at park entrances?",
+          "a": "Most major Liverpool parks have bins at every entrance and bag dispensers at main gates. Sefton, Stanley, and Princes parks are the best supplied; smaller parks often have bins only — bring your own bags."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir totalement sans laisse à Liverpool ?",
+          "a": "Les prairies ouvertes de Sefton Park, les sentiers boisés de Croxteth Country Park, les pelouses d'Otterspool Promenade, et la majeure partie de Stanley Park et Calderstones Park hors des aires de jeux et terrains de sport."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au Botanic Garden de Calderstones Park ?",
+          "a": "Oui — les chiens en laisse sont les bienvenus à Calderstones Park, y compris sur les pelouses du Japanese Garden. Seuls les chiens d'assistance sont admis dans le café Reader / Mansion House en intérieur."
+        },
+        {
+          "q": "Y a-t-il des distributeurs de sacs aux entrées des parcs ?",
+          "a": "La plupart des grands parcs de Liverpool ont des poubelles à chaque entrée et des distributeurs de sacs aux portails principaux. Sefton, Stanley et Princes Park sont les mieux équipés ; les petits parcs n'ont souvent que des poubelles — emportez vos sacs."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Liverpool?",
+          "a": "Las praderas abiertas de Sefton Park, los senderos boscosos de Croxteth Country Park, las praderas de Otterspool Promenade y la mayor parte de Stanley Park y Calderstones Park fuera de zonas infantiles y campos deportivos."
+        },
+        {
+          "q": "¿Se admiten perros en el Botanic Garden dentro de Calderstones Park?",
+          "a": "Sí: los perros con correa son bienvenidos en Calderstones Park, incluidas las praderas del Japanese Garden. Solo los perros de asistencia entran a la cafetería Reader / Mansion House."
+        },
+        {
+          "q": "¿Hay dispensadores de bolsas en las entradas de los parques?",
+          "a": "La mayoría de los grandes parques de Liverpool tienen papeleras en cada entrada y dispensadores de bolsas en las puertas principales. Sefton, Stanley y Princes son los mejor surtidos; los parques pequeños suelen tener solo papeleras: lleva tus propias bolsas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Liverpool",
+      "titleFr": "Transports acceptant les animaux à Liverpool",
+      "titleEs": "Transporte para mascotas en Liverpool",
+      "introEn": "Liverpool's transport mix is run by Merseytravel (buses, the Mersey ferries, and the Merseyrail commuter network), with national rail provided by Avanti West Coast, TransPennine, and Northern. Dogs travel free on Merseyrail and the Mersey ferry, on most Liverpool buses, and on national trains. Up to two dogs per passenger are allowed on national services without a ticket; service dogs travel free everywhere.",
+      "introFr": "Les transports de Liverpool sont opérés par Merseytravel (bus, ferries de la Mersey, réseau de banlieue Merseyrail), avec les trains nationaux assurés par Avanti West Coast, TransPennine et Northern. Les chiens voyagent gratuitement sur Merseyrail et le ferry de la Mersey, sur la plupart des bus de Liverpool et sur les trains nationaux. Jusqu'à deux chiens par voyageur sont admis gratuitement sur les services nationaux ; les chiens d'assistance voyagent gratuitement partout.",
+      "introEs": "El transporte de Liverpool lo gestiona Merseytravel (autobuses, ferries del Mersey, red de cercanías Merseyrail), con trenes nacionales operados por Avanti West Coast, TransPennine y Northern. Los perros viajan gratis en Merseyrail y en el ferry del Mersey, en la mayoría de los autobuses de Liverpool y en los trenes nacionales. Se admiten hasta dos perros por pasajero gratis en los servicios nacionales; los perros de asistencia viajan gratis en todas partes.",
+      "places": [
+        {
+          "name": "Merseyrail Network",
+          "address": "City-wide; main hub at Liverpool Lime Street and Liverpool Central",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/liverpool-transport-merseyrail-network.jpg",
+          "website": "https://www.merseyrail.org/",
+          "description": "Merseyrail runs the Wirral and Northern lines linking the city centre to Southport, West Kirby, Chester, and the Wirral peninsula. Up to two dogs per passenger travel free at the conductor's discretion, leashed and well-behaved. The new Class 777 trains have wide vestibules that suit larger dogs.",
+          "descriptionFr": "Merseyrail exploite les Wirral et Northern Lines reliant le centre-ville à Southport, West Kirby, Chester et la péninsule du Wirral. Jusqu'à deux chiens par voyageur sont admis gratuitement à l'appréciation du contrôleur, en laisse et bien tenus. Les nouveaux trains Class 777 ont de larges plateformes adaptées aux grands chiens.",
+          "descriptionEs": "Merseyrail explota las líneas Wirral y Northern, que conectan el centro con Southport, West Kirby, Chester y la península de Wirral. Hasta dos perros por pasajero viajan gratis a discreción del revisor, con correa y bien educados. Los nuevos trenes Class 777 tienen vestíbulos amplios adecuados para perros grandes.",
+          "petPolicy": "Up to 2 dogs per passenger free, leashed; conductor discretion",
+          "petPolicyFr": "Jusqu'à 2 chiens par voyageur gratuits, en laisse ; à l'appréciation du contrôleur",
+          "petPolicyEs": "Hasta 2 perros por pasajero gratis, con correa; a discreción del revisor",
+          "openingHours": "First train ~05:30, last ~00:30; reduced Sunday service",
+          "tip": "The Wirral Line runs through the under-river tunnel — well-behaved dogs cope fine, but anxious dogs may struggle. Try the slower Northern Line first.",
+          "tipFr": "La Wirral Line passe dans le tunnel sous la rivière — les chiens calmes le tolèrent bien, mais les chiens anxieux peuvent avoir du mal. Essayez d'abord la Northern Line plus lente.",
+          "tipEs": "La Wirral Line cruza el túnel bajo el río: los perros tranquilos lo toleran bien, pero los nerviosos pueden sufrir. Prueba antes con la Northern Line más lenta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Lime+Street+Station"
+        }
+      ],
+      "tipsEn": [
+        "Mersey Ferries (Liverpool to Seacombe / Woodside / Birkenhead) carry leashed dogs free of charge on every sailing — popular with locals for a Wirral park day out.",
+        "Stagecoach and Arriva buses across Liverpool accept leashed dogs at the driver's discretion; in practice this is almost always yes outside rush hour.",
+        "Avanti West Coast (Liverpool–London Euston) and TransPennine (Liverpool–Manchester–Leeds) take up to 2 dogs per passenger free; book a vestibule space in advance for large dogs."
+      ],
+      "tipsFr": [
+        "Les Mersey Ferries (Liverpool vers Seacombe / Woodside / Birkenhead) acceptent les chiens en laisse gratuitement sur toutes les traversées — appréciés des locaux pour une journée dans les parcs du Wirral.",
+        "Les bus Stagecoach et Arriva à Liverpool acceptent les chiens en laisse à l'appréciation du chauffeur ; en pratique, c'est presque toujours oui hors heures de pointe.",
+        "Avanti West Coast (Liverpool–London Euston) et TransPennine (Liverpool–Manchester–Leeds) acceptent jusqu'à 2 chiens par voyageur gratuitement ; réservez un emplacement vestibule à l'avance pour les grands chiens."
+      ],
+      "tipsEs": [
+        "Los Mersey Ferries (Liverpool a Seacombe / Woodside / Birkenhead) llevan perros con correa gratis en todas las travesías: muy populares entre los locales para un día de parques en el Wirral.",
+        "Los autobuses Stagecoach y Arriva por Liverpool admiten perros con correa a discreción del conductor; en la práctica casi siempre es que sí fuera de horas punta.",
+        "Avanti West Coast (Liverpool–London Euston) y TransPennine (Liverpool–Manchester–Leeds) admiten hasta 2 perros por pasajero gratis; reserva sitio en el vestíbulo con antelación para perros grandes."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a ticket for my dog on Merseyrail?",
+          "a": "No. Up to two dogs per passenger travel free on Merseyrail, leashed and at the conductor's discretion. Larger dogs are easier in the new Class 777 trains thanks to wider vestibules."
+        },
+        {
+          "q": "Can I take my dog on the Mersey Ferry?",
+          "a": "Yes — leashed dogs travel free on every Mersey Ferries sailing, including the commuter and the River Explorer Cruise. Owners must clean up on board."
+        },
+        {
+          "q": "Are taxis pet-friendly in Liverpool?",
+          "a": "Most are, but it's at the driver's discretion under the city's hackney carriage rules. Pre-booking via Delta Taxis or Uber Pet is the most reliable approach for larger dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un ticket séparé pour mon chien dans Merseyrail ?",
+          "a": "Non. Jusqu'à deux chiens par voyageur voyagent gratuitement sur Merseyrail, en laisse et à l'appréciation du contrôleur. Les grands chiens sont plus à l'aise dans les nouveaux trains Class 777 grâce à des plateformes plus larges."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur le ferry de la Mersey ?",
+          "a": "Oui — les chiens en laisse voyagent gratuitement sur toutes les traversées des Mersey Ferries, y compris le service commuter et le River Explorer Cruise. Les propriétaires doivent nettoyer à bord."
+        },
+        {
+          "q": "Les taxis acceptent-ils les animaux à Liverpool ?",
+          "a": "La plupart oui, mais c'est à l'appréciation du chauffeur selon les règles des hackney carriages de la ville. Réserver à l'avance via Delta Taxis ou Uber Pet est l'option la plus fiable pour les grands chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hace falta ticket aparte para el perro en Merseyrail?",
+          "a": "No. Hasta dos perros por pasajero viajan gratis en Merseyrail, con correa y a discreción del revisor. Los perros grandes están más cómodos en los nuevos trenes Class 777 gracias a vestíbulos más amplios."
+        },
+        {
+          "q": "¿Puedo llevar al perro en el ferry del Mersey?",
+          "a": "Sí: los perros con correa viajan gratis en todas las travesías de los Mersey Ferries, incluido el servicio commuter y el River Explorer Cruise. Los dueños deben limpiar a bordo."
+        },
+        {
+          "q": "¿Aceptan mascotas los taxis en Liverpool?",
+          "a": "La mayoría sí, pero queda a discreción del conductor según las normas de los hackney carriages de la ciudad. Reservar por adelantado vía Delta Taxis o Uber Pet es lo más fiable para perros grandes."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Liverpool",
+      "titleFr": "Plages dog-friendly près de Liverpool",
+      "titleEs": "Playas dog-friendly cerca de Liverpool",
+      "introEn": "The Mersey estuary itself is not swimmable for dogs, but the wider Merseyside coast offers some of north-west England's best dog beaches within 20 minutes by Merseyrail. Crosby and Formby (north shore) and New Brighton (Wirral) all allow dogs year-round, with seasonal restrictions only on the most central tourist sections. Always check tide times before walking on Liverpool Bay sand — some flats cover quickly.",
+      "introFr": "L'estuaire de la Mersey lui-même n'est pas baignable pour les chiens, mais la côte plus large du Merseyside offre quelques-unes des meilleures plages canines du nord-ouest de l'Angleterre à 20 minutes en Merseyrail. Crosby et Formby (rive nord) et New Brighton (Wirral) acceptent les chiens toute l'année, avec des restrictions saisonnières seulement sur les sections touristiques les plus centrales. Vérifiez toujours les horaires de marée avant de marcher sur le sable de la baie de Liverpool — certaines plages se recouvrent vite.",
+      "introEs": "El estuario del Mersey en sí no es bañable para perros, pero la costa más amplia de Merseyside ofrece algunas de las mejores playas caninas del noroeste de Inglaterra a 20 minutos en Merseyrail. Crosby y Formby (orilla norte) y New Brighton (Wirral) admiten perros todo el año, con restricciones estacionales solo en las secciones turísticas más céntricas. Comprueba siempre las mareas antes de pisar la arena de la bahía de Liverpool: algunas marismas se cubren rápido.",
+      "places": [
+        {
+          "name": "Crosby Beach",
+          "address": "Crosby Beach, Mariners Road, Crosby L23 6SX",
+          "neighborhood": "Crosby (Sefton, north of Liverpool)",
+          "photo": "/images/city-places/liverpool-beaches-crosby-beach.jpg",
+          "website": "https://www.visitliverpool.com/things-to-do/crosby-beach-and-another-place-p10891",
+          "description": "Crosby's wide flat sand beach, home to Antony Gormley's 'Another Place' sculpture installation of 100 cast-iron figures, allows dogs off-leash year-round on the entire stretch from the marine lake to Hightown. The beach is reachable in 20 minutes from Liverpool Central by Merseyrail (Northern Line to Waterloo or Blundellsands).",
+          "descriptionFr": "Vaste plage de sable plat de Crosby, qui abrite l'installation sculpturale 'Another Place' d'Antony Gormley (100 silhouettes en fonte) ; les chiens y sont autorisés sans laisse toute l'année sur toute la longueur, du lac marin à Hightown. La plage est accessible en 20 minutes depuis Liverpool Central par Merseyrail (Northern Line vers Waterloo ou Blundellsands).",
+          "descriptionEs": "La amplia playa de arena llana de Crosby, sede de la instalación escultórica 'Another Place' de Antony Gormley (100 figuras de hierro fundido), admite perros sin correa todo el año en toda su extensión, desde el lago marino hasta Hightown. La playa se alcanza en 20 minutos desde Liverpool Central en Merseyrail (Northern Line hacia Waterloo o Blundellsands).",
+          "petPolicy": "Off-leash year-round on the full beach length",
+          "petPolicyFr": "Sans laisse toute l'année sur toute la plage",
+          "petPolicyEs": "Sin correa todo el año en toda la playa",
+          "openingHours": "24/7",
+          "tip": "Always check tide tables — Crosby has a famously fast incoming tide and the Iron Men sculptures stand in deep water at high tide. Aim for the two hours before low water.",
+          "tipFr": "Consultez toujours les horaires de marée — Crosby a une marée montante notoirement rapide et les sculptures Iron Men se retrouvent en eau profonde à marée haute. Visez les deux heures avant la marée basse.",
+          "tipEs": "Consulta siempre las mareas: Crosby tiene una marea entrante notoriamente rápida y las esculturas Iron Men quedan bajo agua a marea alta. Apunta a las dos horas previas a la bajamar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Crosby+Beach+Another+Place"
+        },
+        {
+          "name": "Formby Beach (National Trust)",
+          "address": "Victoria Road, Formby L37 1LJ",
+          "neighborhood": "Formby (Sefton, ~25 min by Merseyrail)",
+          "photo": "/images/city-places/liverpool-beaches-formby-beach-national-trust.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/north-west/formby",
+          "description": "Operated by the National Trust, Formby is a long stretch of dune-backed sand inside a 470-acre coastal nature reserve, 25 minutes north of Liverpool by Merseyrail. Dogs are welcome off-leash on the beach itself; in the pinewoods red squirrels are a protected species so dogs must stay leashed on the inland trails.",
+          "descriptionFr": "Géré par le National Trust, Formby est une longue plage de sable adossée aux dunes à l'intérieur d'une réserve naturelle côtière de 470 acres, à 25 minutes au nord de Liverpool en Merseyrail. Les chiens sont autorisés sans laisse sur la plage elle-même ; dans les pinèdes, les écureuils roux sont une espèce protégée et les chiens doivent rester en laisse sur les sentiers intérieurs.",
+          "descriptionEs": "Gestionada por el National Trust, Formby es una larga playa de arena con dunas dentro de una reserva natural costera de 470 acres, 25 minutos al norte de Liverpool en Merseyrail. Los perros son bienvenidos sin correa en la propia playa; en los pinares la ardilla roja es una especie protegida, así que los perros deben ir con correa en los senderos del interior.",
+          "petPolicy": "Off-leash on the beach; leash mandatory in the pinewoods (red squirrel reserve)",
+          "petPolicyFr": "Sans laisse sur la plage ; laisse obligatoire dans les pinèdes (réserve d'écureuils roux)",
+          "petPolicyEs": "Sin correa en la playa; correa obligatoria en los pinares (reserva de ardilla roja)",
+          "openingHours": "24/7 (car park 08:30–dusk)",
+          "tip": "The Lifeboat Road car park is the closer entry from the train station; the Victoria Road National Trust car park is larger but charges a parking fee for non-members.",
+          "tipFr": "Le parking de Lifeboat Road est l'entrée la plus proche depuis la gare ; le parking National Trust de Victoria Road est plus grand mais facturé pour les non-membres.",
+          "tipEs": "El aparcamiento de Lifeboat Road es la entrada más cercana desde la estación; el aparcamiento del National Trust de Victoria Road es mayor pero de pago para no socios.",
+          "googleMapsUrl": "https://maps.google.com/?q=Formby+Beach+National+Trust"
+        },
+        {
+          "name": "New Brighton Beach",
+          "address": "Marine Promenade, New Brighton, Wallasey CH45 2JX",
+          "neighborhood": "Wirral (across the Mersey)",
+          "photo": "/images/city-places/liverpool-beaches-new-brighton-beach.jpg",
+          "website": "https://www.visitwirral.com/things-to-do/new-brighton-beach-p114471",
+          "description": "A long sandy beach on the Wirral side of the Mersey estuary, 20 minutes from Liverpool by Merseyrail (Wirral Line to New Brighton). Dogs are allowed year-round on the western stretch from the Tower Grounds towards Wallasey; a seasonal ban applies on the central tourist beach between 1 May and 30 September.",
+          "descriptionFr": "Longue plage de sable du côté du Wirral de l'estuaire de la Mersey, à 20 minutes de Liverpool en Merseyrail (Wirral Line vers New Brighton). Les chiens sont admis toute l'année sur la portion ouest, des Tower Grounds vers Wallasey ; une interdiction saisonnière s'applique à la plage touristique centrale entre le 1er mai et le 30 septembre.",
+          "descriptionEs": "Larga playa de arena en el lado de Wirral del estuario del Mersey, a 20 minutos de Liverpool en Merseyrail (Wirral Line a New Brighton). Los perros se admiten todo el año en el tramo oeste, desde los Tower Grounds hacia Wallasey; hay prohibición estacional en la playa turística central entre el 1 de mayo y el 30 de septiembre.",
+          "petPolicy": "Year-round on western stretch; seasonal ban on central beach 1 May–30 Sep",
+          "petPolicyFr": "Toute l'année sur la portion ouest ; interdiction saisonnière sur la plage centrale du 1er mai au 30 sept.",
+          "petPolicyEs": "Todo el año en el tramo oeste; prohibición estacional en la playa central del 1 may al 30 sep",
+          "openingHours": "24/7",
+          "tip": "Combine the New Brighton Beach walk with a coffee at the Light Cinema's outdoor terrace — both are dog-friendly and 5 minutes apart on the seafront.",
+          "tipFr": "Combinez la balade à New Brighton Beach avec un café à la terrasse extérieure du Light Cinema — les deux acceptent les chiens et sont à 5 minutes l'un de l'autre sur le front de mer.",
+          "tipEs": "Combina el paseo por New Brighton Beach con un café en la terraza exterior del Light Cinema: ambos admiten perros y están a 5 minutos en el paseo marítimo.",
+          "googleMapsUrl": "https://maps.google.com/?q=New+Brighton+Beach+Wirral"
+        }
+      ],
+      "tipsEn": [
+        "Always check tide tables before walking — Liverpool Bay tides come in fast and Crosby's mudflats can isolate dogs that wander too far.",
+        "Sefton Council operates seasonal beach orders (1 May–30 Sep) on the central tourist sections of Crosby, Formby, and Southport — dogs are still welcome on the wider beach beyond the marked zone.",
+        "Rinse paws after the beach: Liverpool Bay sand contains shell fragments and the estuary tides leave fine silt that can irritate paws."
+      ],
+      "tipsFr": [
+        "Vérifiez toujours les horaires de marée avant de marcher — les marées de la baie de Liverpool montent vite et les vasières de Crosby peuvent isoler des chiens trop éloignés.",
+        "Le conseil municipal de Sefton applique des arrêtés saisonniers (1er mai–30 sept.) sur les sections touristiques centrales de Crosby, Formby et Southport — les chiens restent admis sur le reste de la plage au-delà de la zone signalée.",
+        "Rincez les pattes après la plage : le sable de la baie de Liverpool contient des fragments de coquillage et les marées d'estuaire laissent un limon fin qui peut irriter les coussinets."
+      ],
+      "tipsEs": [
+        "Comprueba siempre las mareas antes de pasear: las mareas de la bahía de Liverpool suben rápido y las marismas de Crosby pueden aislar a perros que se alejen demasiado.",
+        "El ayuntamiento de Sefton aplica órdenes estacionales (1 may–30 sep) en los tramos turísticos centrales de Crosby, Formby y Southport: los perros siguen admitidos en el resto de la playa, más allá de la zona señalizada.",
+        "Aclara las patas después de la playa: la arena de la bahía de Liverpool contiene fragmentos de concha y las mareas del estuario dejan un limo fino que puede irritar las almohadillas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest dog-friendly beach to Liverpool city centre?",
+          "a": "Crosby Beach, 20 minutes north by Merseyrail Northern Line. Off-leash year-round on the full beach, with the famous Antony Gormley iron sculptures."
+        },
+        {
+          "q": "Can I take my dog on Formby's red squirrel trails?",
+          "a": "Only on a leash. The pinewoods are a protected red squirrel reserve managed by the National Trust — dogs must stay leashed on the inland trails. The beach itself is off-leash."
+        },
+        {
+          "q": "Are dogs allowed at the Liverpool Albert Dock waterfront?",
+          "a": "Yes — leashed dogs are welcome on the waterfront promenade and around the Albert Dock basin. Dogs are not allowed inside the museums (Tate, Beatles Story) except assistance dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la plage dog-friendly la plus proche du centre de Liverpool ?",
+          "a": "Crosby Beach, 20 minutes au nord en Merseyrail Northern Line. Sans laisse toute l'année sur toute la plage, avec les célèbres sculptures en fonte d'Antony Gormley."
+        },
+        {
+          "q": "Mon chien peut-il emprunter les sentiers aux écureuils roux de Formby ?",
+          "a": "Uniquement en laisse. Les pinèdes sont une réserve protégée d'écureuils roux gérée par le National Trust — les chiens doivent rester en laisse sur les sentiers intérieurs. La plage, elle, est sans laisse."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur le front de mer de l'Albert Dock à Liverpool ?",
+          "a": "Oui — les chiens en laisse sont les bienvenus sur la promenade et autour du bassin de l'Albert Dock. Les chiens ne sont pas autorisés à l'intérieur des musées (Tate, Beatles Story), sauf les chiens d'assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la playa dog-friendly más cercana al centro de Liverpool?",
+          "a": "Crosby Beach, a 20 minutos al norte en Merseyrail Northern Line. Sin correa todo el año en toda la playa, con las famosas esculturas de hierro de Antony Gormley."
+        },
+        {
+          "q": "¿Puede mi perro entrar en los senderos de la ardilla roja de Formby?",
+          "a": "Solo con correa. Los pinares son una reserva protegida de ardilla roja gestionada por el National Trust: los perros deben llevar correa en los senderos del interior. La playa en sí es sin correa."
+        },
+        {
+          "q": "¿Se admiten perros en el paseo marítimo del Albert Dock de Liverpool?",
+          "a": "Sí: los perros con correa son bienvenidos en el paseo y alrededor del muelle del Albert Dock. Los perros no entran en los museos (Tate, Beatles Story) salvo los de asistencia."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics & Emergency Vets in Liverpool",
+      "titleFr": "Cliniques vétérinaires et urgences à Liverpool",
+      "titleEs": "Clínicas veterinarias y urgencias en Liverpool",
+      "introEn": "Liverpool has a dense network of general veterinary practices, several open extended hours, and a regional 24-hour emergency service operated by Vets Now in Aintree. Most local vets divert to Vets Now after hours via their reception phones. The University of Liverpool's Small Animal Teaching Hospital in Neston is the regional referral hospital for complex cases.",
+      "introFr": "Liverpool dispose d'un réseau dense de cabinets vétérinaires généralistes, dont plusieurs aux horaires élargis, et d'un service régional d'urgences 24h/24 opéré par Vets Now à Aintree. La plupart des vétérinaires locaux redirigent vers Vets Now en dehors des heures d'ouverture via leur standard. Le Small Animal Teaching Hospital de l'Université de Liverpool, à Neston, est l'hôpital régional de référence pour les cas complexes.",
+      "introEs": "Liverpool cuenta con una densa red de consultas veterinarias generales, varias con horario ampliado, y un servicio regional de urgencias 24 horas operado por Vets Now en Aintree. La mayoría de los veterinarios locales derivan a Vets Now fuera de horario a través de su centralita. El Small Animal Teaching Hospital de la Universidad de Liverpool, en Neston, es el hospital regional de referencia para casos complejos.",
+      "places": [
+        {
+          "name": "Vets Now Liverpool (24h Emergency)",
+          "address": "Vets Now Liverpool, Park Lane, Netherton, Liverpool L30 1RD",
+          "neighborhood": "Netherton (north Liverpool)",
+          "photo": "/images/city-places/liverpool-vets-vets-now-liverpool-24h-emergency.jpg",
+          "website": "https://www.vets-now.com/find-an-emergency-vet/liverpool/",
+          "description": "The dedicated out-of-hours emergency veterinary clinic for Merseyside, part of the national Vets Now network. Open evenings, overnight, weekends, and bank holidays — when most local clinics are closed. Walk-ins accepted, but call ahead for triage and to confirm directions.",
+          "descriptionFr": "Clinique vétérinaire d'urgence dédiée hors horaires pour le Merseyside, intégrée au réseau national Vets Now. Ouverte le soir, la nuit, les week-ends et jours fériés — quand la plupart des cliniques locales sont fermées. Sans rendez-vous accepté, mais appelez avant pour le tri et confirmer l'accès.",
+          "descriptionEs": "Clínica veterinaria de urgencias dedicada fuera de horario para Merseyside, parte de la red nacional Vets Now. Abierta tardes, noches, fines de semana y festivos: cuando la mayoría de las clínicas locales están cerradas. Se aceptan visitas sin cita, pero llama antes para hacer triaje y confirmar la dirección.",
+          "phone": "+44 151 525 0707",
+          "openingHours": "Mon–Fri 19:00–08:00; Sat–Sun and bank holidays 24h",
+          "tip": "If your dog is unwell during weekday daytime hours, call your hotel's preferred vet first — Vets Now is reserved for nights, weekends, and out-of-hours.",
+          "tipFr": "Si votre chien est malade en journée en semaine, appelez d'abord le vétérinaire conseillé par votre hôtel — Vets Now est réservé aux nuits, week-ends et hors horaires.",
+          "tipEs": "Si tu perro se pone enfermo en horario laboral entre semana, llama primero al veterinario recomendado por tu hotel: Vets Now se reserva para noches, fines de semana y fuera de horario.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Liverpool+Netherton"
+        },
+        {
+          "name": "Mayfair Veterinary Clinic",
+          "address": "207 Smithdown Road, Liverpool L15 3JR",
+          "neighborhood": "Wavertree / Smithdown",
+          "photo": "/images/city-places/liverpool-vets-mayfair-veterinary-clinic.jpg",
+          "website": "https://www.mayfairvets.co.uk/",
+          "description": "An independent general practice in Wavertree, well-known to dog owners in the Georgian Quarter, Sefton Park, and Lark Lane areas. Standard small-animal services with same-day appointments often available, and out-of-hours calls divert directly to the Vets Now emergency line.",
+          "descriptionFr": "Cabinet généraliste indépendant à Wavertree, bien connu des propriétaires de chiens du Georgian Quarter, de Sefton Park et de Lark Lane. Services standards pour petits animaux, rendez-vous le jour même souvent disponibles, et redirection automatique vers la ligne d'urgence Vets Now hors horaires.",
+          "descriptionEs": "Consulta generalista independiente en Wavertree, muy conocida entre los dueños de perros del Georgian Quarter, Sefton Park y Lark Lane. Servicios estándar para pequeños animales, citas el mismo día a menudo disponibles y derivación automática a la línea de urgencias Vets Now fuera de horario.",
+          "phone": "+44 151 733 6125",
+          "openingHours": "Mon–Fri 08:30–18:30; Sat 09:00–13:00",
+          "tip": "Walk-in slots are most reliable mid-morning Tue–Thu — Mondays after the weekend tend to be the busiest day.",
+          "tipFr": "Les créneaux sans rendez-vous sont les plus fiables en milieu de matinée du mardi au jeudi — les lundis après le week-end sont les jours les plus chargés.",
+          "tipEs": "Los huecos sin cita más fiables son a media mañana de martes a jueves: los lunes tras el fin de semana son los días más cargados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mayfair+Veterinary+Clinic+Liverpool"
+        }
+      ],
+      "tipsEn": [
+        "The national Vets Now out-of-hours number for Liverpool is +44 151 525 0707 (Netherton clinic) — save it before you arrive.",
+        "UK pet insurance is the norm; visitors with EU pet insurance should ask for an itemised invoice in English at the time of payment for later reimbursement.",
+        "Bring your pet's EU pet passport or animal health certificate — Liverpool clinics regularly handle international tourists' pets and will record any treatment given."
+      ],
+      "tipsFr": [
+        "Le numéro Vets Now pour Liverpool hors horaires est le +44 151 525 0707 (clinique de Netherton) — enregistrez-le avant votre arrivée.",
+        "L'assurance animale britannique est la norme ; les visiteurs avec une assurance européenne doivent demander une facture détaillée en anglais au paiement pour remboursement ultérieur.",
+        "Apportez le passeport européen pour animal ou le certificat sanitaire — les cliniques de Liverpool prennent régulièrement en charge les animaux de touristes internationaux et y consignent les soins prodigués."
+      ],
+      "tipsEs": [
+        "El número de Vets Now para Liverpool fuera de horario es el +44 151 525 0707 (clínica de Netherton): guárdalo antes de llegar.",
+        "El seguro británico para mascotas es la norma; los visitantes con seguro europeo deben pedir una factura detallada en inglés al pagar para el reembolso posterior.",
+        "Lleva el pasaporte europeo de mascotas o el certificado sanitario: las clínicas de Liverpool atienden con frecuencia a mascotas de turistas internacionales y dejan constancia de cualquier tratamiento."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the closest 24-hour emergency vet to Liverpool city centre?",
+          "a": "Vets Now Liverpool in Netherton, about 20 minutes by car north of the city centre, open every evening, overnight, weekend, and bank holiday. Phone +44 151 525 0707."
+        },
+        {
+          "q": "Do Liverpool vets accept walk-ins?",
+          "a": "Most do for emergencies, but routine appointments require booking. Mayfair Veterinary Clinic and the larger CVS Group practices generally have same-day slots if you call before 10:00."
+        },
+        {
+          "q": "Will my European pet insurance cover treatment in Liverpool?",
+          "a": "Many EU policies cover travel to the UK — check your insurer's terms for post-Brexit cover. UK vets will issue itemised English-language invoices for reimbursement."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve la clinique vétérinaire d'urgence 24h/24 la plus proche du centre de Liverpool ?",
+          "a": "Vets Now Liverpool à Netherton, à environ 20 minutes en voiture au nord du centre-ville, ouvert chaque soir, nuit, week-end et jour férié. Téléphone +44 151 525 0707."
+        },
+        {
+          "q": "Les vétérinaires de Liverpool acceptent-ils sans rendez-vous ?",
+          "a": "La plupart le font pour les urgences, mais les consultations de routine nécessitent un rendez-vous. Mayfair Veterinary Clinic et les grandes cliniques du groupe CVS ont généralement des créneaux le jour même si vous appelez avant 10h."
+        },
+        {
+          "q": "Mon assurance animale européenne couvre-t-elle les soins à Liverpool ?",
+          "a": "Beaucoup de polices européennes couvrent les voyages au Royaume-Uni — vérifiez les conditions post-Brexit auprès de votre assureur. Les vétérinaires britanniques délivrent des factures détaillées en anglais pour le remboursement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h más cercano al centro de Liverpool?",
+          "a": "Vets Now Liverpool en Netherton, a unos 20 minutos en coche al norte del centro, abierto todas las tardes, noches, fines de semana y festivos. Teléfono +44 151 525 0707."
+        },
+        {
+          "q": "¿Los veterinarios de Liverpool aceptan sin cita?",
+          "a": "La mayoría sí en urgencias, pero las consultas de rutina requieren cita. Mayfair Veterinary Clinic y las clínicas grandes del grupo CVS suelen tener huecos el mismo día si llamas antes de las 10:00."
+        },
+        {
+          "q": "¿Mi seguro europeo para mascotas cubrirá el tratamiento en Liverpool?",
+          "a": "Muchas pólizas europeas cubren viajes al Reino Unido: revisa con tu aseguradora las condiciones post-Brexit. Los veterinarios británicos emiten facturas detalladas en inglés para el reembolso."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Pet Travel Tips for Liverpool",
+      "titleFr": "Conseils pratiques pour voyager avec son animal à Liverpool",
+      "titleEs": "Consejos prácticos para viajar con tu mascota a Liverpool",
+      "introEn": "Liverpool is among the most practical northern English cities for travelling with a dog: a compact walkable centre, a city park network within tram and train distance, three usable dog beaches, and dog-friendly Mersey Ferries to the Wirral. The main thing to plan around is the post-Brexit border paperwork if you are arriving from the EU. The tips below capture the rules that actually matter for a stay of a few days.",
+      "introFr": "Liverpool est l'une des villes du nord de l'Angleterre les plus pratiques pour voyager avec un chien : centre-ville compact et marchable, réseau de parcs urbains à portée de tram et de train, trois plages canines exploitables et ferries de la Mersey dog-friendly vers le Wirral. Le principal point à anticiper est la paperasse post-Brexit si vous arrivez depuis l'UE. Les conseils ci-dessous résument les règles qui comptent vraiment pour un séjour de quelques jours.",
+      "introEs": "Liverpool es una de las ciudades del norte de Inglaterra más prácticas para viajar con perro: centro compacto y caminable, red de parques urbanos a poca distancia en tren o tranvía, tres playas caninas utilizables y los Mersey Ferries dog-friendly hacia Wirral. Lo principal a planificar es el papeleo fronterizo post-Brexit si llegas desde la UE. Los consejos siguientes resumen las reglas que de verdad importan para una estancia de pocos días.",
+      "places": [],
+      "tipsEn": [
+        "Post-Brexit, EU pet passports are no longer accepted on entry to the UK — you need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus a microchip and rabies vaccination.",
+        "Save the Vets Now emergency number +44 151 525 0707 in your phone before arrival — it routes to the 24/7 Netherton emergency clinic.",
+        "Use the Mersey Ferries (free for leashed dogs) for a Wirral day trip — combine with New Brighton Beach and a walk in Birkenhead Park, the model for Central Park in New York."
+      ],
+      "tipsFr": [
+        "Depuis le Brexit, les passeports européens pour animaux ne sont plus acceptés à l'entrée du Royaume-Uni — il faut un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, ainsi que la puce électronique et la vaccination antirabique.",
+        "Enregistrez le numéro d'urgence Vets Now +44 151 525 0707 dans votre téléphone avant votre arrivée — il redirige vers la clinique d'urgence 24h/24 de Netherton.",
+        "Profitez des Mersey Ferries (gratuits pour les chiens en laisse) pour une excursion d'une journée au Wirral — combinez avec New Brighton Beach et une balade à Birkenhead Park, modèle de Central Park à New York."
+      ],
+      "tipsEs": [
+        "Tras el Brexit, los pasaportes europeos para mascotas ya no se aceptan a la entrada del Reino Unido: necesitas un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, además de microchip y vacunación antirrábica.",
+        "Guarda el número de urgencias Vets Now +44 151 525 0707 en el móvil antes de llegar: deriva a la clínica de urgencias 24/7 de Netherton.",
+        "Aprovecha los Mersey Ferries (gratis para perros con correa) para una excursión de un día al Wirral: combina con New Brighton Beach y un paseo por Birkenhead Park, modelo del Central Park de Nueva York."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Liverpool a good city for travelling with a dog?",
+          "a": "Yes — among the best in north-west England. Public transport accepts pets free, three dog beaches sit within 25 minutes by Merseyrail, and the Baltic Triangle / Albert Dock pub corridor is reliably dog-welcoming year-round."
+        },
+        {
+          "q": "What documents do I need to bring my dog to the UK?",
+          "a": "An Animal Health Certificate (AHC) from an EU vet, issued within 10 days of travel, plus proof of rabies vaccination and a microchip. UK customs also requires tapeworm treatment for dogs entering from the EU."
+        },
+        {
+          "q": "Can my dog visit the Beatles Story or Tate Liverpool?",
+          "a": "No — most Liverpool museums admit only assistance dogs. Albert Dock outdoor areas, the Pier Head waterfront, and the Liverpool Cathedral grounds are all leashed-dog friendly."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Liverpool est-elle une bonne ville pour voyager avec un chien ?",
+          "a": "Oui — parmi les meilleures du nord-ouest de l'Angleterre. Les transports publics acceptent les animaux gratuitement, trois plages canines sont à 25 minutes en Merseyrail, et le couloir de pubs Baltic Triangle / Albert Dock accueille les chiens à l'année."
+        },
+        {
+          "q": "Quels documents faut-il pour emmener son chien au Royaume-Uni ?",
+          "a": "Un Animal Health Certificate (AHC) délivré par un vétérinaire européen dans les 10 jours précédant le voyage, ainsi que la preuve de vaccination antirabique et la puce électronique. Les douanes britanniques exigent aussi un traitement contre les ténias pour les chiens en provenance de l'UE."
+        },
+        {
+          "q": "Mon chien peut-il visiter le Beatles Story ou la Tate Liverpool ?",
+          "a": "Non — la plupart des musées de Liverpool n'admettent que les chiens d'assistance. Les espaces extérieurs de l'Albert Dock, le front de mer du Pier Head et les abords de la Liverpool Cathedral acceptent tous les chiens en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Liverpool una buena ciudad para viajar con perro?",
+          "a": "Sí: entre las mejores del noroeste de Inglaterra. El transporte público admite mascotas gratis, tres playas caninas están a 25 minutos en Merseyrail y el corredor de pubs Baltic Triangle / Albert Dock acoge perros todo el año."
+        },
+        {
+          "q": "¿Qué documentos necesito para llevar a mi perro al Reino Unido?",
+          "a": "Un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, prueba de vacunación antirrábica y microchip. La aduana británica exige también tratamiento antiparasitario para perros que entran desde la UE."
+        },
+        {
+          "q": "¿Puede visitar mi perro el Beatles Story o el Tate Liverpool?",
+          "a": "No: la mayoría de los museos de Liverpool solo admiten perros de asistencia. Las zonas exteriores del Albert Dock, el paseo del Pier Head y los alrededores de la Liverpool Cathedral admiten perros con correa."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Liverpool",
+      "titleFr": "Attractions dog-friendly à Liverpool",
+      "titleEs": "Atracciones para mascotas en Liverpool",
+      "introEn": "Liverpool's headline museums (Tate Liverpool, the Beatles Story, the Museum of Liverpool) admit only assistance dogs, but the city's UNESCO-listed waterfront and Georgian Quarter are very walkable on a leash. The Albert Dock, Pier Head, and the Liverpool Cathedral grounds form a half-day loop that captures the city's main visual landmarks. Below are three open-air highlights where pets are welcome.",
+      "introFr": "Les grands musées de Liverpool (Tate Liverpool, Beatles Story, Museum of Liverpool) n'admettent que les chiens d'assistance, mais le front de mer classé UNESCO et le Georgian Quarter se visitent très bien en laisse. L'Albert Dock, le Pier Head et les abords de la Liverpool Cathedral forment une boucle d'une demi-journée qui couvre les principaux repères visuels de la ville. Ci-dessous, trois sites en plein air où les animaux sont les bienvenus.",
+      "introEs": "Los grandes museos de Liverpool (Tate Liverpool, Beatles Story, Museum of Liverpool) solo admiten perros de asistencia, pero el paseo marítimo Patrimonio de la UNESCO y el Georgian Quarter se recorren muy bien con correa. El Albert Dock, el Pier Head y los alrededores de la Liverpool Cathedral forman un circuito de media jornada que cubre los principales hitos visuales de la ciudad. A continuación, tres puntos al aire libre donde las mascotas son bienvenidas.",
+      "places": [
+        {
+          "name": "Royal Albert Dock & Pier Head",
+          "address": "Albert Dock, Liverpool L3 4AF",
+          "neighborhood": "Waterfront",
+          "photo": "/images/city-places/liverpool-attractions-royal-albert-dock-pier-head.jpg",
+          "website": "https://www.albertdock.com/",
+          "description": "The UK's largest single collection of Grade I-listed buildings, the Royal Albert Dock combines a working dock with restaurants, shops, and three national museums. The waterfront promenade and the dock basin are entirely outdoor and welcome leashed dogs; museums are restricted to assistance dogs only.",
+          "descriptionFr": "Le plus grand ensemble de bâtiments classés Grade I du Royaume-Uni, le Royal Albert Dock combine un bassin en activité avec restaurants, boutiques et trois musées nationaux. La promenade au bord de l'eau et le bassin sont entièrement en plein air et accueillent les chiens en laisse ; les musées sont réservés aux chiens d'assistance.",
+          "descriptionEs": "El mayor conjunto de edificios catalogados Grade I del Reino Unido, el Royal Albert Dock combina un muelle en activo con restaurantes, tiendas y tres museos nacionales. El paseo junto al agua y el muelle son totalmente al aire libre y admiten perros con correa; los museos se limitan a perros de asistencia.",
+          "petPolicy": "Dogs welcome on leash on the dock promenade and basin; not in museums",
+          "petPolicyFr": "Chiens acceptés en laisse sur la promenade et autour du bassin ; non admis dans les musées",
+          "petPolicyEs": "Perros admitidos con correa en el paseo y alrededor del muelle; no en los museos",
+          "openingHours": "24/7 (outdoor areas)",
+          "tip": "Walk the dock loop at sunset, then continue north along the Pier Head to the Three Graces — the panorama from the ferry terminal is the city's signature view.",
+          "tipFr": "Faites le tour du dock au coucher du soleil, puis continuez vers le nord le long du Pier Head jusqu'aux Three Graces — le panorama depuis le terminal des ferries est la vue emblématique de la ville.",
+          "tipEs": "Da la vuelta al muelle al atardecer y continúa hacia el norte por el Pier Head hasta las Three Graces: el panorama desde la terminal de ferries es la vista emblemática de la ciudad.",
+          "googleMapsUrl": "https://maps.google.com/?q=Royal+Albert+Dock+Liverpool"
+        },
+        {
+          "name": "Liverpool Cathedral grounds & St James's Cemetery",
+          "address": "St James's Mount, Liverpool L1 7AZ",
+          "neighborhood": "Georgian Quarter",
+          "photo": "/images/city-places/liverpool-attractions-liverpool-cathedral-grounds-st-james-s-cemetery.jpg",
+          "website": "https://www.liverpoolcathedral.org.uk/",
+          "description": "The 5th largest cathedral in the world, looming over the Georgian Quarter with its Gothic Revival sandstone tower. The cathedral interior admits only assistance dogs, but the grounds, the sunken St James's Cemetery park behind it, and the Hope Street approach are all leashed-dog friendly and free to enter.",
+          "descriptionFr": "5e plus grande cathédrale du monde, dominant le Georgian Quarter de sa tour de grès néogothique. L'intérieur de la cathédrale n'admet que les chiens d'assistance, mais les abords, le parc en contrebas du cimetière St James derrière elle, et l'approche par Hope Street accueillent tous les chiens en laisse, gratuitement.",
+          "descriptionEs": "La 5.ª catedral más grande del mundo, que domina el Georgian Quarter con su torre de arenisca de estilo neogótico. El interior solo admite perros de asistencia, pero el recinto, el parque hundido del cementerio de St James detrás y el acceso desde Hope Street admiten perros con correa y son gratuitos.",
+          "petPolicy": "Dogs welcome on leash in the grounds and St James's Cemetery park; cathedral interior assistance dogs only",
+          "petPolicyFr": "Chiens acceptés en laisse aux abords et dans le parc du cimetière St James ; intérieur de la cathédrale réservé aux chiens d'assistance",
+          "petPolicyEs": "Perros admitidos con correa en el recinto y en el parque del cementerio de St James; interior de la catedral solo perros de asistencia",
+          "openingHours": "24/7 (grounds)",
+          "tip": "Approach the cathedral via Hope Street from Bold Street to walk the full Georgian terrace skyline, then descend into St James's Cemetery for the most photogenic angle of the tower.",
+          "tipFr": "Approchez-vous de la cathédrale par Hope Street depuis Bold Street pour parcourir toute la perspective des terrasses géorgiennes, puis descendez dans le cimetière St James pour l'angle le plus photogénique sur la tour.",
+          "tipEs": "Acércate a la catedral por Hope Street desde Bold Street para recorrer toda la perspectiva de terrazas georgianas, después baja al cementerio de St James para el ángulo más fotogénico de la torre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Cathedral+St+James+Cemetery"
+        },
+        {
+          "name": "Crosby Beach Iron Men trail",
+          "address": "Crosby Beach, Mariners Road, Crosby L23 6SX",
+          "neighborhood": "Crosby (Sefton)",
+          "photo": "/images/city-places/liverpool-attractions-crosby-beach-iron-men-trail.jpg",
+          "website": "https://www.visitliverpool.com/things-to-do/crosby-beach-and-another-place-p10891",
+          "description": "Antony Gormley's 'Another Place' installation puts 100 cast-iron figures across two miles of Crosby Beach, all facing the sea. Dogs are welcome off-leash on the entire stretch and the figures are reachable on foot at low tide; the walk between them takes about an hour from end to end.",
+          "descriptionFr": "L'installation 'Another Place' d'Antony Gormley dispose 100 silhouettes en fonte sur trois kilomètres de Crosby Beach, toutes tournées vers la mer. Les chiens sont les bienvenus sans laisse sur tout le tronçon et les figures sont accessibles à pied à marée basse ; la balade entre les deux extrémités prend environ une heure.",
+          "descriptionEs": "La instalación 'Another Place' de Antony Gormley reparte 100 figuras de hierro fundido a lo largo de tres kilómetros de Crosby Beach, todas mirando al mar. Los perros son bienvenidos sin correa en todo el tramo y las figuras son accesibles a pie con marea baja; el paseo entre los extremos lleva aproximadamente una hora.",
+          "petPolicy": "Dogs welcome off-leash year-round on the full beach length",
+          "petPolicyFr": "Chiens acceptés sans laisse toute l'année sur toute la plage",
+          "petPolicyEs": "Perros admitidos sin correa todo el año en toda la playa",
+          "openingHours": "24/7 (subject to tide)",
+          "tip": "Plan the visit for the two hours before low water — the figures stand fully exposed and the walk is dry sand. At high tide, only the first row near the dunes is visible.",
+          "tipFr": "Planifiez la visite pour les deux heures avant la marée basse — les figures sont entièrement exposées et la marche se fait sur sable sec. À marée haute, seule la première rangée près des dunes est visible.",
+          "tipEs": "Planifica la visita en las dos horas previas a la bajamar: las figuras están totalmente expuestas y se camina por arena seca. Con marea alta, solo se ve la primera fila junto a las dunas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Crosby+Beach+Another+Place"
+        }
+      ],
+      "tipsEn": [
+        "Most major Liverpool museums (Tate Liverpool, the Beatles Story, the Museum of Liverpool, Walker Art Gallery) admit only assistance dogs — plan museum stops around an arrangement for your pet.",
+        "The Mersey Ferries 'River Explorer Cruise' (50 min, dogs free) circles past the Three Graces and the Wirral docks — a rare way to see the UNESCO waterfront with your dog at your side.",
+        "Liverpool Football Club Anfield Stadium tours admit assistance dogs only; outside match days, the surrounding Stanley Park is leashed-dog friendly and free to walk."
+      ],
+      "tipsFr": [
+        "La plupart des grands musées de Liverpool (Tate, Beatles Story, Museum of Liverpool, Walker Art Gallery) n'admettent que les chiens d'assistance — prévoyez les arrêts musée en organisant la garde de votre animal.",
+        "La Mersey Ferries 'River Explorer Cruise' (50 min, chiens gratuits) tourne devant les Three Graces et les docks du Wirral — un moyen rare de voir le front de mer UNESCO avec son chien.",
+        "Les visites du stade d'Anfield (Liverpool FC) n'admettent que les chiens d'assistance ; en dehors des jours de match, le Stanley Park voisin accueille les chiens en laisse, gratuitement."
+      ],
+      "tipsEs": [
+        "La mayoría de los grandes museos de Liverpool (Tate, Beatles Story, Museum of Liverpool, Walker Art Gallery) solo admiten perros de asistencia: planifica las paradas en museos organizando con quién dejas a tu mascota.",
+        "El 'River Explorer Cruise' de Mersey Ferries (50 min, perros gratis) bordea las Three Graces y los docks de Wirral: una forma poco común de ver el paseo marítimo UNESCO con tu perro al lado.",
+        "Las visitas al estadio de Anfield (Liverpool FC) solo admiten perros de asistencia; fuera de los días de partido, el vecino Stanley Park admite perros con correa y es gratuito."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go inside Tate Liverpool or the Beatles Story?",
+          "a": "No — only assistance dogs are admitted. Plan a sitter or split the visit between travel companions; both museums sit on the dog-friendly Albert Dock waterfront for an outdoor wait."
+        },
+        {
+          "q": "What's the best dog-friendly outdoor itinerary for one day in Liverpool?",
+          "a": "Start at the Royal Albert Dock and Pier Head, walk south along the Mersey to the Baltic Triangle for a pub lunch, then take the Mersey Ferry across to New Brighton for an afternoon beach walk."
+        },
+        {
+          "q": "Are dogs allowed at Liverpool One outdoor shopping?",
+          "a": "Yes — leashed dogs are welcome in the outdoor walkways of Liverpool One. Individual stores set their own rule; many independents allow dogs inside, most national chains restrict to assistance dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils entrer à la Tate Liverpool ou au Beatles Story ?",
+          "a": "Non — seuls les chiens d'assistance sont admis. Prévoyez un sitter ou répartissez la visite entre compagnons de voyage ; les deux musées se trouvent sur le front de mer dog-friendly de l'Albert Dock pour une attente en extérieur."
+        },
+        {
+          "q": "Quel est le meilleur itinéraire dog-friendly en plein air pour une journée à Liverpool ?",
+          "a": "Commencez par le Royal Albert Dock et le Pier Head, marchez vers le sud le long de la Mersey jusqu'au Baltic Triangle pour un déjeuner au pub, puis prenez le Mersey Ferry pour traverser vers New Brighton pour une promenade sur la plage l'après-midi."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés au centre commercial extérieur Liverpool One ?",
+          "a": "Oui — les chiens en laisse sont les bienvenus sur les allées extérieures de Liverpool One. Chaque boutique fixe sa propre règle ; beaucoup d'indépendants acceptent les chiens en intérieur, la plupart des chaînes nationales se limitent aux chiens d'assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se puede entrar con perro al Tate Liverpool o al Beatles Story?",
+          "a": "No: solo perros de asistencia. Busca un cuidador o reparte la visita entre acompañantes; ambos museos están en el paseo marítimo dog-friendly del Albert Dock para esperar al aire libre."
+        },
+        {
+          "q": "¿Cuál es el mejor itinerario dog-friendly al aire libre para un día en Liverpool?",
+          "a": "Empieza en el Royal Albert Dock y el Pier Head, camina hacia el sur por el Mersey hasta el Baltic Triangle para almorzar en un pub y luego cruza con el Mersey Ferry a New Brighton para un paseo por la playa por la tarde."
+        },
+        {
+          "q": "¿Se admiten perros en la zona comercial al aire libre Liverpool One?",
+          "a": "Sí: los perros con correa son bienvenidos en los paseos exteriores de Liverpool One. Cada tienda fija su propia norma; muchos locales independientes admiten perros dentro, la mayoría de las cadenas nacionales se limitan a los perros de asistencia."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Liverpool",
+      "titleFr": "Garde et promenade de chiens à Liverpool",
+      "titleEs": "Cuidado y paseo de perros en Liverpool",
+      "introEn": "Liverpool has a well-developed pet-care economy, with both UK-wide platforms and local dog-walking businesses well represented. Rover.co.uk is the dominant booking platform with hundreds of verified sitters across Merseyside, and Tailster is a strong alternative for overnight boarding. Local independent dog-walkers cluster in Aigburth, Wavertree, and the Georgian Quarter near Sefton Park.",
+      "introFr": "Liverpool dispose d'une offre mature de services pour animaux, avec à la fois des plateformes britanniques et des entreprises locales de promenade bien représentées. Rover.co.uk est la plateforme de réservation dominante, avec des centaines de sitters vérifiés à travers Merseyside, et Tailster reste une bonne alternative pour la garde de nuit. Les promeneurs indépendants se concentrent à Aigburth, Wavertree et dans le Georgian Quarter près de Sefton Park.",
+      "introEs": "Liverpool cuenta con una oferta madura de servicios para mascotas, con plataformas británicas y empresas locales de paseo bien representadas. Rover.co.uk es la plataforma de reservas dominante, con cientos de cuidadores verificados en Merseyside, y Tailster es una buena alternativa para alojamiento nocturno. Los paseadores independientes se concentran en Aigburth, Wavertree y el Georgian Quarter, cerca de Sefton Park.",
+      "places": [
+        {
+          "name": "Rover Liverpool",
+          "address": "Online platform; sitters citywide",
+          "neighborhood": "Citywide",
+          "website": "https://www.rover.com/uk/dog-sitting/liverpool/",
+          "description": "The largest verified pet-sitting marketplace in the UK, with several hundred bookings in Liverpool and average ratings above 4.9 out of 5. Offers drop-in visits, full-day daycare, dog walking, and overnight boarding, all bookable in English and insured through the platform.",
+          "descriptionFr": "Plus grande place de marché vérifiée pour la garde d'animaux au Royaume-Uni, avec plusieurs centaines de réservations à Liverpool et des notes moyennes au-dessus de 4,9 sur 5. Propose visites à domicile, garderie à la journée, promenade et hébergement de nuit, le tout réservable en anglais et assuré via la plateforme.",
+          "descriptionEs": "El mayor mercado verificado de cuidado de mascotas del Reino Unido, con varios cientos de reservas en Liverpool y valoraciones medias por encima de 4,9 sobre 5. Ofrece visitas puntuales, guardería de día completo, paseos y alojamiento nocturno, todo reservable en inglés y asegurado a través de la plataforma.",
+          "tip": "Book at least 48 hours ahead in summer — sitters in the Georgian Quarter and around Sefton Park are the first to fill up in July and August.",
+          "tipFr": "Réservez au moins 48 heures à l'avance l'été — les sitters du Georgian Quarter et autour de Sefton Park sont les premiers complets en juillet-août.",
+          "tipEs": "Reserva al menos 48 horas antes en verano: los cuidadores del Georgian Quarter y alrededor de Sefton Park son los primeros en llenarse en julio y agosto."
+        }
+      ],
+      "tipsEn": [
+        "Most Rover sitters in Liverpool accept dogs and cats; some specify size limits, so filter on the booking screen.",
+        "Drop-in visits cost around £15–22; full-day daycare in Liverpool runs roughly £25–35 depending on neighbourhood and dog size.",
+        "Always ask the sitter for their walk routes — preferred routes through Sefton Park, Princes Park, or Otterspool are a sign of an experienced local."
+      ],
+      "tipsFr": [
+        "La plupart des sitters Rover à Liverpool acceptent chiens et chats ; certains précisent une limite de taille, à filtrer à la réservation.",
+        "Les visites à domicile coûtent environ 15–22 £ ; la garderie à la journée à Liverpool tourne entre 25–35 £ selon le quartier et la taille du chien.",
+        "Demandez toujours au sitter ses itinéraires de promenade — un parcours par Sefton Park, Princes Park ou Otterspool est un signe de bon connaisseur local."
+      ],
+      "tipsEs": [
+        "La mayoría de los cuidadores de Rover en Liverpool aceptan perros y gatos; algunos especifican límite de tamaño, así que filtra al reservar.",
+        "Las visitas puntuales cuestan unos 15–22 £; la guardería de día completo en Liverpool ronda entre 25–35 £ según el barrio y el tamaño del perro.",
+        "Pregunta siempre al cuidador por sus rutas de paseo: un itinerario por Sefton Park, Princes Park u Otterspool es señal de un buen conocedor local."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I find a dog sitter in Liverpool for a few hours?",
+          "a": "Rover.co.uk is the standard. Filter for 'drop-in visits' or 'dog walking' and pick a sitter with at least 20 reviews — average ratings above 4.9 are common in this city."
+        },
+        {
+          "q": "Do hotels in Liverpool offer pet-sitting on request?",
+          "a": "A few luxury hotels (notably Titanic Hotel Liverpool and 30 James Street) can arrange a sitter via the concierge for an extra fee. Always confirm at booking."
+        },
+        {
+          "q": "Are dog walkers regulated in Liverpool?",
+          "a": "Liverpool City Council requires professional dog walkers to be insured and to limit walks to a maximum of 4 dogs per person in city parks. Rover and Tailster sitters are insured through their respective platforms."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où trouver un sitter pour quelques heures à Liverpool ?",
+          "a": "Rover.co.uk est la référence. Filtrez sur 'drop-in visits' ou 'dog walking' et choisissez un sitter ayant au moins 20 avis — les notes au-dessus de 4,9 sont courantes dans cette ville."
+        },
+        {
+          "q": "Les hôtels de Liverpool proposent-ils une garde sur demande ?",
+          "a": "Quelques hôtels haut de gamme (notamment Titanic Hotel Liverpool et 30 James Street) peuvent organiser une garde via la conciergerie moyennant un supplément. Confirmez toujours à la réservation."
+        },
+        {
+          "q": "Les promeneurs de chiens sont-ils réglementés à Liverpool ?",
+          "a": "La municipalité de Liverpool impose aux promeneurs professionnels d'être assurés et limite les sorties à 4 chiens maximum par personne dans les parcs urbains. Les sitters Rover et Tailster sont assurés via leur plateforme respective."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo encontrar un cuidador de perros en Liverpool para unas horas?",
+          "a": "Rover.co.uk es la referencia. Filtra por 'drop-in visits' o 'dog walking' y elige un cuidador con al menos 20 opiniones: las valoraciones por encima de 4,9 son habituales en esta ciudad."
+        },
+        {
+          "q": "¿Los hoteles de Liverpool ofrecen servicio de cuidado bajo petición?",
+          "a": "Algunos hoteles de gama alta (sobre todo Titanic Hotel Liverpool y 30 James Street) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        },
+        {
+          "q": "¿Están regulados los paseadores de perros en Liverpool?",
+          "a": "El ayuntamiento de Liverpool exige que los paseadores profesionales estén asegurados y limita los paseos a un máximo de 4 perros por persona en los parques urbanos. Los cuidadores de Rover y Tailster están asegurados a través de sus respectivas plataformas."
+        }
+      ]
+    }
+  }
+}

@@ -8470,6 +8470,127 @@
     "slug": "intercontinental-lisbon-by-ihg"
   },
   {
+    "id": "liverpool-1",
+    "name": "Titanic Hotel Liverpool",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 5800,
+    "priceFrom": 175,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/titanic-hotel-liverpool.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Titanic Hotel Liverpool welcomes pets in selected rooms within its historic Stanley Dock setting for £25 per pet per stay (subject to availability). Dogs and cats are accepted. The 'Bones & Biscuits' welcome pack includes treats and a bowl on arrival; service dogs stay free.",
+    "highlights": [
+      "Historic Stanley Dock conversion",
+      "Maya Blue Wellness spa",
+      "Welcome pet pack on arrival"
+    ],
+    "slug": "titanic-hotel-liverpool"
+  },
+  {
+    "id": "liverpool-2",
+    "name": "Hope Street Hotel",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 160,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hope-street.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Hope Street Hotel accepts up to 2 pets per room for £30 per pet per stay in its Georgian Quarter boutique setting. Both dogs and cats are welcome on request. Pets are not permitted in the restaurant; service dogs stay free.",
+    "highlights": [
+      "Georgian Quarter location",
+      "Walk to St James's Cemetery park",
+      "London Carriage Works restaurant on site"
+    ],
+    "slug": "hope-street-hotel-liverpool"
+  },
+  {
+    "id": "liverpool-3",
+    "name": "Hotel Indigo Liverpool",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3100,
+    "priceFrom": 110,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/indigoliverpool.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Hotel Indigo Liverpool welcomes pets in selected rooms across its IHG chain pet programme for £30 per pet per stay (max 2 pets per room). Dogs and cats are accepted; pets must be supervised in public areas. Service animals stay free.",
+    "highlights": [
+      "Central Chapel Street location",
+      "Walk to Pier Head and Albert Dock",
+      "IHG chain pet programme"
+    ],
+    "slug": "hotel-indigo-liverpool"
+  },
+  {
+    "id": "liverpool-4",
+    "name": "Crowne Plaza Liverpool City Centre",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4600,
+    "priceFrom": 105,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/crowne-plaza-liverpool-city-centre.en-gb.html",
+    "petFee": 35,
+    "petPolicy": "Crowne Plaza Liverpool City Centre accepts up to 2 pets per room for £35 per pet per stay under the IHG pet programme. Dogs and cats are welcome on request and must be on a leash in public areas. Service animals stay free.",
+    "highlights": [
+      "Pier Head waterfront location",
+      "Indoor pool and gym",
+      "Walk to Mersey Ferries terminal"
+    ],
+    "slug": "crowne-plaza-liverpool-city-centre"
+  },
+  {
+    "id": "liverpool-5",
+    "name": "Travelodge Liverpool Central The Strand",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 4900,
+    "priceFrom": 55,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/travelodge-liverpool-central-the-strand.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Travelodge Liverpool Central The Strand accepts up to 2 dogs per room for £25 per pet per night under the chain-wide Travelodge pet policy. Cats are not accepted. Pets are not permitted in the restaurant or breakfast area; service dogs stay free.",
+    "highlights": [
+      "Steps from Liverpool ONE and Albert Dock",
+      "Chain-wide pet policy",
+      "Best budget pet-friendly option in the centre"
+    ],
+    "slug": "travelodge-liverpool-central-the-strand"
+  },
+  {
     "id": "ljubljana-1",
     "name": "InterContinental - Ljubljana by IHG",
     "destinationSlug": "ljubljana",

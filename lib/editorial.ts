@@ -306,6 +306,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
       area: 'Chiado, Príncipe Real, and Bairro Alto',
     },
+    liverpool: {
+      personality: `a UNESCO-listed maritime city with one of north-west England's largest urban park networks, three off-leash dog beaches within 25 minutes by Merseyrail, and a Baltic Triangle pub corridor that welcomes leashed dogs year-round`,
+      highlight: `Sefton Park's 95-hectare Victorian meadows, Crosby Beach with the Antony Gormley Iron Men, and the Royal Albert Dock waterfront`,
+      area: `the Royal Albert Dock waterfront, the Baltic Triangle, and the Georgian Quarter around the Cathedral`,
+    },
     ljubljana: {
       personality: 'Europe\'s green capital. A compact, traffic-free centre where dogs walk alongside their owners on riverside terraces, through castle grounds, and across medieval bridges',
       highlight: 'Tivoli Park (off-leash), the Ljubljana Castle hill, and the Sava river greenway',
@@ -859,6 +864,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
       area: 'Chiado, Príncipe Real et Bairro Alto',
     },
+    liverpool: {
+      personality: `une ville maritime classée UNESCO, avec l'un des plus grands réseaux de parcs urbains du nord-ouest de l'Angleterre, trois plages canines sans laisse à 25 minutes en Merseyrail et un couloir de pubs au Baltic Triangle qui accueille les chiens en laisse à l'année`,
+      highlight: `les prairies victoriennes de Sefton Park (95 hectares), Crosby Beach avec les Iron Men d'Antony Gormley, et le front de mer du Royal Albert Dock`,
+      area: `le front de mer du Royal Albert Dock, le Baltic Triangle et le Georgian Quarter autour de la cathédrale`,
+    },
     ljubljana: {
       personality: 'la capitale verte d\'Europe. Un centre compact et sans circulation où les chiens se promènent avec leurs propriétaires sur les terrasses riveraines, à travers les jardins du château et sur les ponts médiévaux',
       highlight: 'le Parc Tivoli (sans laisse), la colline du château de Ljubljana et la voie verte de la rivière Sava',
@@ -1410,6 +1420,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad soleada y con colinas cuyo clima suave la hace ideal para viajar con mascotas durante todo el año',
       highlight: 'el parque forestal de Monsanto, el paseo marítimo de Belém y las explanadas de Alfama',
       area: 'Chiado, Príncipe Real y Bairro Alto',
+    },
+    liverpool: {
+      personality: `una ciudad marítima Patrimonio de la UNESCO, con una de las mayores redes de parques urbanos del noroeste de Inglaterra, tres playas caninas sin correa a 25 minutos en Merseyrail y un corredor de pubs en el Baltic Triangle que admite perros con correa todo el año`,
+      highlight: `las praderas victorianas de Sefton Park (95 hectáreas), Crosby Beach con los Iron Men de Antony Gormley y el paseo marítimo del Royal Albert Dock`,
+      area: `el paseo marítimo del Royal Albert Dock, el Baltic Triangle y el Georgian Quarter alrededor de la catedral`,
     },
     ljubljana: {
       personality: 'la capital verde de Europa. Un centro compacto y sin tráfico donde los perros pasean junto a sus dueños en terrazas ribereñas, por los jardines del castillo y sobre puentes medievales',

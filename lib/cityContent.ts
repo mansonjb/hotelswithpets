@@ -6106,6 +6106,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  liverpool: {
+    history: {
+      fr: `Liverpool, fondée en 1207 par le roi Jean d'Angleterre, est devenue à partir du XVIIIe siècle l'un des grands ports atlantiques européens. Au XIXe siècle, 40 % du commerce mondial transitait par ses docks, et sa flotte transportait quelque 9 millions d'émigrants vers l'Amérique. Le front de mer Pier Head et l'Albert Dock, classés au patrimoine mondial de l'UNESCO de 2004 à 2021, témoignent encore de cette puissance commerciale. La ville est aussi celle des Beatles, qui ont émergé du Cavern Club sur Mathew Street, et abrite deux des cinq plus grandes cathédrales d'Europe (anglicane et catholique). Pour les voyageurs avec chien, Liverpool offre un mix rare : un centre UNESCO compact et marchable, l'un des plus grands réseaux de parcs urbains du nord-ouest de l'Angleterre (2 500 acres dont les 95 hectares de Sefton Park), trois plages canines à 25 minutes en Merseyrail (Crosby et ses Iron Men, Formby et Wirral), des Mersey Ferries gratuits pour les chiens en laisse, et un couloir de pubs au Baltic Triangle / Albert Dock qui accueille les chiens à l'année. Une clinique d'urgence Vets Now 24h/24 à Netherton complète le tableau.`,
+      en: `Liverpool, founded by King John in 1207, grew into one of Europe's great Atlantic ports from the 18th century onwards. By the 19th century 40% of world trade flowed through its docks, and its passenger fleet carried roughly 9 million emigrants to the Americas. The Pier Head waterfront and Albert Dock, UNESCO World Heritage from 2004 to 2021, still bear witness to that commercial power. The city is also the home of the Beatles, who emerged from the Cavern Club on Mathew Street, and houses two of Europe's five largest cathedrals (Anglican and Catholic). For travellers with a dog, Liverpool offers a rare mix: a compact, walkable UNESCO centre, one of north-west England's largest urban park networks (2,500 acres including Sefton Park's 95 hectares), three dog beaches within 25 minutes by Merseyrail (Crosby with its Iron Men, Formby, and Wirral), Mersey Ferries that carry leashed dogs free, and a Baltic Triangle / Albert Dock pub corridor that welcomes dogs year-round. A 24/7 Vets Now emergency clinic in Netherton completes the picture.`,
+      es: `Liverpool, fundada por el rey Juan en 1207, se convirtió desde el siglo XVIII en uno de los grandes puertos atlánticos europeos. En el siglo XIX el 40 % del comercio mundial pasaba por sus muelles, y su flota de pasaje llevó cerca de 9 millones de emigrantes a las Américas. El paseo marítimo del Pier Head y el Albert Dock, Patrimonio de la Humanidad de la UNESCO de 2004 a 2021, siguen siendo testimonio de ese poder comercial. La ciudad es también la cuna de los Beatles, que emergieron del Cavern Club en Mathew Street, y alberga dos de las cinco mayores catedrales de Europa (anglicana y católica). Para los viajeros con perro, Liverpool ofrece una mezcla poco común: un centro UNESCO compacto y caminable, una de las mayores redes de parques urbanos del noroeste de Inglaterra (2.500 acres, incluidas las 95 hectáreas de Sefton Park), tres playas caninas a 25 minutos en Merseyrail (Crosby con sus Iron Men, Formby y Wirral), los Mersey Ferries gratis para perros con correa y un corredor de pubs en el Baltic Triangle / Albert Dock que admite perros todo el año. Una clínica de urgencias Vets Now 24/7 en Netherton completa el cuadro.`,
+    },
+    sights: [
+      { name: 'Sefton Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Plus grand parc victorien de Liverpool (95 hectares), classé Grade I. Vastes prairies sans laisse, lac de canotage et Palm House, à 20 minutes au sud du centre.`,
+        en: `Liverpool's largest Victorian park (95 hectares), Grade I-listed. Wide off-leash meadows, boating lake and Palm House, 20 minutes south of the centre.`,
+        es: `El mayor parque victoriano de Liverpool (95 hectáreas), catalogado Grade I. Amplias praderas sin correa, lago de remo y Palm House, a 20 minutos al sur del centro.`,
+      }},
+      { name: 'Royal Albert Dock', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Plus grand ensemble de bâtiments classés Grade I du Royaume-Uni. Promenade extérieure et bassin du dock dog-friendly en laisse ; musées intérieurs réservés aux chiens d'assistance.`,
+        en: `The UK's largest single collection of Grade I-listed buildings. Outdoor promenade and dock basin dog-friendly on leash; indoor museums assistance dogs only.`,
+        es: `El mayor conjunto de edificios catalogados Grade I del Reino Unido. Paseo exterior y muelle dog-friendly con correa; museos interiores solo para perros de asistencia.`,
+      }},
+      { name: 'Crosby Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage sans laisse toute l'année à 20 minutes en Merseyrail, avec l'installation des 100 silhouettes en fonte 'Another Place' d'Antony Gormley face à la mer.`,
+        en: `Off-leash year-round beach 20 minutes north by Merseyrail, with Antony Gormley's 'Another Place' installation of 100 cast-iron figures facing the sea.`,
+        es: `Playa sin correa todo el año a 20 minutos al norte en Merseyrail, con la instalación 'Another Place' de Antony Gormley (100 figuras de hierro fundido frente al mar).`,
+      }},
+      { name: 'Liverpool Cathedral grounds', emoji: '⛪', petFriendly: true, desc: {
+        fr: `5e plus grande cathédrale du monde, dans le Georgian Quarter. Abords et parc du cimetière St James en contrebas accueillent les chiens en laisse, gratuitement.`,
+        en: `The world's 5th largest cathedral, in the Georgian Quarter. Grounds and the sunken St James's Cemetery park behind it welcome leashed dogs, free of charge.`,
+        es: `La 5.ª catedral más grande del mundo, en el Georgian Quarter. El recinto y el parque hundido del cementerio de St James detrás admiten perros con correa, gratis.`,
+      }},
+      { name: 'Otterspool Promenade', emoji: '🌊', petFriendly: true, desc: {
+        fr: `4 km de promenade au bord de l'estuaire de la Mersey reliant Otterspool aux Festival Gardens. Chiens sans laisse sur les pelouses riveraines, vues sur les collines galloises.`,
+        en: `4 km waterfront promenade along the Mersey estuary linking Otterspool to the Festival Gardens. Off-leash on the riverside grassland, views of the Welsh hills.`,
+        es: `4 km de paseo marítimo a lo largo del estuario del Mersey que une Otterspool con los Festival Gardens. Perros sin correa en las praderas ribereñas, vistas a las colinas galesas.`,
+      }},
+      { name: 'Croxteth Country Park', emoji: '🏰', petFriendly: true, desc: {
+        fr: `200 hectares autour du domaine historique de Croxteth Hall — le plus grand espace vert de la ville, avec sentiers boisés sans laisse et ferme en activité.`,
+        en: `200 hectares around the historic Croxteth Hall — the city's largest single green space, with off-leash woodland trails and a working farm.`,
+        es: `200 hectáreas alrededor de la histórica Croxteth Hall: el mayor espacio verde individual de la ciudad, con senderos boscosos sin correa y una granja en funcionamiento.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Merseyrail (Wirral et Northern Lines) : jusqu'à 2 chiens par voyageur gratuits, en laisse, à l'appréciation du contrôleur. Les nouveaux trains Class 777 ont des plateformes plus larges pour les grands chiens.`,
+        `Mersey Ferries : chiens en laisse gratuits sur toutes les traversées, y compris la River Explorer Cruise de 50 minutes devant les Three Graces.`,
+        `Plages : Crosby et Formby sans laisse toute l'année ; New Brighton soumet la plage centrale à une interdiction saisonnière du 1er mai au 30 septembre (ouest accessible toute l'année).`,
+        `Vétérinaire d'urgence 24h/24 : Vets Now Liverpool, Park Lane, Netherton — +44 151 525 0707. Saisissez le numéro avant l'arrivée.`,
+        `Public Space Protection Orders (PSPO) : laisse obligatoire à moins de 5 m d'une voie ou d'une aire de jeux dans les parcs urbains ; chiens interdits dans les terrains de sport clôturés et les réserves naturelles signalées.`,
+      ],
+      en: [
+        `Merseyrail (Wirral and Northern Lines): up to 2 dogs per passenger free, leashed, at the conductor's discretion. The new Class 777 trains have wider vestibules for larger dogs.`,
+        `Mersey Ferries: leashed dogs free on every sailing, including the 50-minute River Explorer Cruise past the Three Graces.`,
+        `Beaches: Crosby and Formby off-leash year-round; New Brighton has a seasonal ban on the central beach 1 May–30 Sep (the western stretch is open year-round).`,
+        `24/7 emergency vet: Vets Now Liverpool, Park Lane, Netherton — +44 151 525 0707. Save the number before arrival.`,
+        `Public Space Protection Orders (PSPO): leash required within 5 m of any roadway or playground inside city parks; dogs banned from fenced sports pitches and signposted nature reserves.`,
+      ],
+      es: [
+        `Merseyrail (líneas Wirral y Northern): hasta 2 perros por pasajero gratis, con correa, a discreción del revisor. Los nuevos trenes Class 777 tienen vestíbulos más amplios para perros grandes.`,
+        `Mersey Ferries: perros con correa gratis en todas las travesías, incluido el River Explorer Cruise de 50 minutos por delante de las Three Graces.`,
+        `Playas: Crosby y Formby sin correa todo el año; New Brighton tiene prohibición estacional en la playa central del 1 may al 30 sep (el tramo oeste está abierto todo el año).`,
+        `Veterinario de urgencias 24/7: Vets Now Liverpool, Park Lane, Netherton — +44 151 525 0707. Guarda el número antes de llegar.`,
+        `Public Space Protection Orders (PSPO): correa obligatoria a menos de 5 m de cualquier carretera o zona infantil dentro de los parques urbanos; perros prohibidos en campos deportivos vallados y reservas naturales señalizadas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport John Lennon (LPL) à 11 km du centre — bus Arriva 86A toutes les 20 min, 25 minutes, chiens en laisse gratuits à l'appréciation du chauffeur.`,
+        `Avanti West Coast Liverpool–London Euston : 2h15 environ, jusqu'à 2 chiens par voyageur gratuits ; réservez un emplacement vestibule à l'avance pour les grands chiens.`,
+        `Post-Brexit : les passeports européens pour animaux ne sont plus valables à l'entrée du Royaume-Uni — il faut un Animal Health Certificate (AHC) délivré par un vétérinaire UE dans les 10 jours précédant le voyage, plus puce et vaccination antirabique.`,
+        `Tarifs vétérinaires britanniques : consultation de routine environ 50–80 £, urgence Vets Now hors horaires 200–300 £ sans assurance. Conservez la facture détaillée pour remboursement par votre assurance européenne.`,
+        `Nuits Liverpool FC à domicile à Anfield (août–mai) : les hôtels du centre saturent et les transports vers Anfield Road sont chargés. Évitez les jours de match si vous voyagez avec un chien anxieux.`,
+      ],
+      en: [
+        `Liverpool John Lennon Airport (LPL) is 11 km from the centre — Arriva bus 86A runs every 20 min, 25 minutes, leashed dogs free at the driver's discretion.`,
+        `Avanti West Coast Liverpool–London Euston: about 2h15, up to 2 dogs per passenger free; book a vestibule space in advance for large dogs.`,
+        `Post-Brexit: EU pet passports are no longer accepted on entry to the UK — you need an Animal Health Certificate (AHC) from an EU vet within 10 days of travel, plus a microchip and rabies vaccination.`,
+        `UK vet fees: routine consultation around £50–80, out-of-hours Vets Now emergency £200–300 without insurance. Keep the itemised invoice for EU insurance reimbursement.`,
+        `Liverpool FC home matches at Anfield (Aug–May): central hotels fill up and transport to Anfield Road is busy. Avoid match days if you travel with an anxious dog.`,
+      ],
+      es: [
+        `Aeropuerto Liverpool John Lennon (LPL) a 11 km del centro — bus Arriva 86A cada 20 min, 25 minutos, perros con correa gratis a discreción del conductor.`,
+        `Avanti West Coast Liverpool–London Euston: unas 2h15, hasta 2 perros por pasajero gratis; reserva sitio en el vestíbulo con antelación para perros grandes.`,
+        `Tras el Brexit: los pasaportes europeos para mascotas ya no se aceptan a la entrada del Reino Unido: necesitas un Animal Health Certificate (AHC) emitido por un veterinario de la UE en los 10 días previos al viaje, además de microchip y vacuna antirrábica.`,
+        `Tarifas veterinarias británicas: consulta de rutina unas 50–80 £, urgencia Vets Now fuera de horario 200–300 £ sin seguro. Guarda la factura detallada para el reembolso de tu seguro europeo.`,
+        `Partidos del Liverpool FC en Anfield (ago–may): los hoteles del centro se llenan y el transporte hacia Anfield Road está saturado. Evita los días de partido si viajas con un perro nervioso.`,
+      ],
+    },
+  },
+
   ljubljana: {
     history: {
       fr: `Ljubljana, capitale-carte-postale de la Slovénie, s'enroule le long de la Ljubljanica émeraude au pied d'un château médiéval. L'Emona romaine se trouvait ici, et les vestiges de ses murs apparaissent encore entre les façades Art nouveau et les ponts gardés par des dragons de l'architecte Jože Plečnik. Avec moins de 300 000 habitants, la ville ressemble plus à un village, piétonnisée depuis 2007 et entourée de forêts de tous côtés. Les Slovènes sont férocement amoureux du plein air et réputés pour leur attachement aux chiens : on les voit sur les sentiers de montagne, dans les cafés du bord de rivière et lovés sous les tables de restaurants étoilés. Au-delà de la ville, les Alpes Juliennes et le Karst sont un vrai territoire d'ours et de loups, ajoutant une touche sauvage à tout rêve sans laisse.`,

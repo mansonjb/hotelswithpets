@@ -95,6 +95,7 @@ const TARGETS = [
   { slug: 'gdansk', query: 'Gdansk Poland Dlugi Targ Neptune Fountain Mariacka colourful gabled houses Hanseatic panorama sunset' },
   { slug: 'trondheim', query: 'Trondheim Norway Nidaros Cathedral Bakklandet Gamle Bybro wooden quarter Nidelva panorama sunset' },
   { slug: 'reims', query: 'Reims France Notre-Dame Cathedral Palais du Tau Place Drouet d Erlon Champagne UNESCO panorama sunset' },
+  { slug: 'salamanca', query: 'Salamanca Spain Plaza Mayor golden sandstone Catedral Nueva Vieja Casa de las Conchas UNESCO panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

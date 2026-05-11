@@ -9279,6 +9279,119 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  salamanca: {
+    history: {
+      fr: `Salamanque, surnommée « la ville dorée » pour le grès doré qui pare ses monuments, doit sa renommée à son université, fondée en 1218 par Alphonse IX de León — l'une des plus anciennes d'Europe, encore en activité. Inscrite au patrimoine mondial de l'UNESCO en 1988, la ville concentre dans un centre historique compact certains des plus beaux exemples d'architecture plateresque et baroque d'Espagne : la façade ornée de l'université (1529), les deux cathédrales accolées (XIIe et XVIe siècles), la Casa de las Conchas et la majestueuse Plaza Mayor (1729) considérée comme la plus belle d'Espagne. Capitale culturelle de la Castille-et-León, Salamanque accueille environ 30 000 étudiants pour 144 000 habitants — une démographie jeune qui anime ses ruelles pavées et ses bars à tapas. À 1h35 de Madrid en train Avant, la ville se découvre à pied avec un chien en laisse : aucune cathédrale ni musée n'admet les animaux, mais l'espace public — plazas, arcades, berges du Tormes — est l'un des plus dog-friendly d'Espagne.`,
+      en: `Salamanca, nicknamed 'the golden city' for the golden sandstone that adorns its monuments, owes its fame to its university — founded in 1218 by Alfonso IX of León, one of Europe's oldest still in operation. A UNESCO World Heritage Site since 1988, the city packs into a compact historic centre some of Spain's finest examples of Plateresque and Baroque architecture: the ornate university façade (1529), the twin cathedrals (12th and 16th centuries), the Casa de las Conchas, and the majestic Plaza Mayor (1729), widely considered Spain's most beautiful square. Cultural capital of Castile and León, Salamanca welcomes about 30,000 students for 144,000 inhabitants — a young demographic that animates the cobbled streets and tapas bars. Just 1h35 from Madrid by Avant train, the city is best explored on foot with a leashed dog: no cathedral or museum admits pets, but the public realm — plazas, arcades, and the Tormes riverbanks — is among the most dog-friendly in Spain.`,
+      es: `Salamanca, apodada «la ciudad dorada» por la arenisca dorada que reviste sus monumentos, debe su fama a la universidad fundada en 1218 por Alfonso IX de León: una de las más antiguas de Europa aún en activo. Declarada Patrimonio de la Humanidad por la UNESCO en 1988, la ciudad concentra en un casco histórico compacto algunos de los mejores ejemplos de arquitectura plateresca y barroca de España: la fachada ornamentada de la universidad (1529), las dos catedrales adosadas (siglos XII y XVI), la Casa de las Conchas y la majestuosa Plaza Mayor (1729), considerada la más bella de España. Capital cultural de Castilla y León, Salamanca acoge unos 30.000 estudiantes para 144.000 habitantes: una demografía joven que anima las calles empedradas y los bares de tapas. A 1h35 de Madrid en tren Avant, la ciudad se descubre a pie con un perro con correa: ninguna catedral ni museo admite mascotas, pero el espacio público — plazas, soportales y orillas del Tormes — es de los más pet-friendly de España.`,
+    },
+    sights: [
+      {
+        name: 'Plaza Mayor',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Considérée comme la plus belle place d'Espagne, construite entre 1729 et 1755 par Andrés García de Quiñones. Place publique ouverte 24h/24, entièrement accessible aux chiens en laisse. Les arcades nord offrent de l'ombre en été.`,
+          en: `Widely considered Spain's most beautiful square, built between 1729 and 1755 by Andrés García de Quiñones. An open public square 24/7, fully accessible to leashed dogs. The northern arcades offer summer shade.`,
+          es: `Considerada la plaza más bella de España, construida entre 1729 y 1755 por Andrés García de Quiñones. Plaza pública abierta 24h, totalmente accesible para perros con correa. Los soportales del norte ofrecen sombra en verano.`,
+        },
+      },
+      {
+        name: 'Universidad de Salamanca',
+        emoji: '🎓',
+        petFriendly: true,
+        desc: {
+          fr: `L'une des plus anciennes universités d'Europe (fondée en 1218). Sa façade plateresque (1529) abrite la fameuse grenouille porte-bonheur sur un crâne. Le Patio de Escuelas extérieur est ouvert aux chiens en laisse, mais l'intérieur ne l'est pas.`,
+          en: `One of Europe's oldest universities (founded 1218). Its Plateresque façade (1529) hides the famous good-luck frog on a skull. The outer Patio de Escuelas welcomes leashed dogs, but the interior does not.`,
+          es: `Una de las universidades más antiguas de Europa (fundada en 1218). Su fachada plateresca (1529) esconde la famosa rana de la buena suerte sobre una calavera. El Patio de Escuelas exterior admite perros con correa, pero el interior no.`,
+        },
+      },
+      {
+        name: 'Catedrales Nueva y Vieja',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Les deux cathédrales jumelles — la Vieja romane (XIIe s.) et la Nueva gothique tardive (XVIe s.) — communiquent en intérieur. Les chiens ne sont pas admis à l'intérieur (sauf chiens d'assistance), mais la Plaza de Anaya devant les façades est ouverte à tous.`,
+          en: `The twin cathedrals — the Romanesque Vieja (12th c.) and the late-Gothic Nueva (16th c.) — connect inside. Dogs are not allowed in (except assistance dogs), but the Plaza de Anaya in front is open to all.`,
+          es: `Las dos catedrales gemelas — la Vieja románica (s. XII) y la Nueva del gótico tardío (s. XVI) — se comunican por dentro. No se admiten perros en el interior (salvo perros de asistencia), pero la Plaza de Anaya frente a las fachadas es accesible para todos.`,
+        },
+      },
+      {
+        name: 'Puente Romano',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Pont romain du Ier siècle qui enjambe le Tormes au sud du centre. Piétonnier, dégage la plus belle vue sur la silhouette des cathédrales. Promenade canine incontournable au coucher du soleil.`,
+          en: `1st-century Roman bridge crossing the Tormes south of the centre. Pedestrian only, offering the best view of the cathedral skyline. A must for dog walks at sunset.`,
+          es: `Puente romano del siglo I sobre el Tormes al sur del centro. Solo peatonal, ofrece la mejor vista de la silueta de las catedrales. Paseo canino imprescindible al atardecer.`,
+        },
+      },
+      {
+        name: 'Casa de las Conchas',
+        emoji: '🐚',
+        petFriendly: true,
+        desc: {
+          fr: `Palais du XVe siècle dont la façade est ornée de plus de 300 coquilles Saint-Jacques sculptées. Sa cour intérieure est aujourd'hui une bibliothèque publique : les chiens y sont admis dans la cour mais pas dans la salle de lecture.`,
+          en: `15th-century palace whose façade is studded with over 300 carved scallop shells. Its inner courtyard now houses a public library: dogs are welcome in the courtyard but not in the reading room.`,
+          es: `Palacio del siglo XV cuya fachada luce más de 300 conchas de vieira esculpidas. Su patio interior alberga hoy una biblioteca pública: se admiten perros en el patio pero no en la sala de lectura.`,
+        },
+      },
+      {
+        name: 'Parque de los Jesuitas',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc du centre (13 ha), avec une zone clôturée sans laisse dans le coin sud-est. Rendez-vous quotidien des propriétaires de chiens salmantins en fin d'après-midi.`,
+          en: `The largest park in the centre (13 ha), with a fenced off-leash area in the south-east corner. Daily meeting point for Salamanca dog owners in the late afternoon.`,
+          es: `El parque más grande del centro (13 ha), con una zona vallada sin correa en el extremo sureste. Punto de encuentro diario de dueños de perros salmantinos a última hora de la tarde.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le grès doré pavant les rues chauffe vite : entre fin juin et début septembre, promenez le chien avant 10h ou après 19h.`,
+        `Les bars à tapas autour de la Plaza Mayor et sur la Calle Van Dyck acceptent presque tous les chiens en terrasse — souvent avec une tapa offerte à la commande d'une boisson.`,
+        `Les bus urbains Avanza acceptent les petits chiens en sac gratuitement ; les grands chiens sont à la discrétion du chauffeur.`,
+        `Aucune cathédrale, musée ou couvent n'admet les animaux (hors chiens d'assistance) — prévoir un sitter Gudog ou Pawshake pour les visites longues.`,
+        `Le Tormes au sud du Pont Romain est l'option baignade urbaine : eau peu profonde et lente de mai à juillet, attention aux algues en août.`,
+      ],
+      en: [
+        `Golden sandstone paving heats up fast: between late June and early September, walk the dog before 10:00 or after 19:00.`,
+        `Tapas bars around the Plaza Mayor and along Calle Van Dyck almost all welcome dogs on the terrace — often with a free tapa included when you order a drink.`,
+        `Avanza city buses accept small dogs in a carrier free of charge; larger dogs at the driver's discretion.`,
+        `No cathedral, museum or convent admits pets (except assistance dogs) — book a Gudog or Pawshake sitter for longer visits.`,
+        `The Tormes south of the Roman Bridge is the urban swim option: shallow and slow May–July, watch for algae in August.`,
+      ],
+      es: [
+        `La arenisca dorada del pavimento se calienta rápido: entre finales de junio y principios de septiembre, pasea al perro antes de las 10:00 o después de las 19:00.`,
+        `Los bares de tapas alrededor de la Plaza Mayor y en la Calle Van Dyck admiten casi todos perros en terraza — a menudo con una tapa gratis al pedir una bebida.`,
+        `Los autobuses urbanos Avanza admiten perros pequeños en transportín gratis; los perros grandes quedan a discreción del conductor.`,
+        `Ninguna catedral, museo o convento admite mascotas (salvo perros de asistencia) — reserva un cuidador Gudog o Pawshake para visitas largas.`,
+        `El Tormes al sur del Puente Romano es la opción de baño urbano: aguas poco profundas y lentas de mayo a julio, ojo con las algas en agosto.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Hospital Veterinario Salamanca, Avenida de los Cipreses 60, +34 923 22 56 80`,
+        `Clinique de jour centrale : Clínica Veterinaria San Marcos, Calle San Marcos 14, +34 923 27 27 60`,
+        `Train Renfe Avant depuis Madrid Chamartín : 1h35 directs ; depuis 2024 chiens jusqu'à 40 kg admis avec billet animal (~25% tarif adulte).`,
+        `Aéroport le plus proche : Madrid-Barajas (210 km, 2h30 en taxi pet-friendly).`,
+      ],
+      en: [
+        `24/7 emergency vet: Hospital Veterinario Salamanca, Avenida de los Cipreses 60, +34 923 22 56 80`,
+        `Central daytime clinic: Clínica Veterinaria San Marcos, Calle San Marcos 14, +34 923 27 27 60`,
+        `Renfe Avant train from Madrid Chamartín: 1h35 direct; since 2024 dogs up to 40 kg accepted with a pet ticket (~25% of the adult fare).`,
+        `Closest airport: Madrid-Barajas (210 km, 2h30 by pet-friendly taxi).`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Hospital Veterinario Salamanca, Avenida de los Cipreses 60, +34 923 22 56 80`,
+        `Clínica diurna céntrica: Clínica Veterinaria San Marcos, Calle San Marcos 14, +34 923 27 27 60`,
+        `Tren Renfe Avant desde Madrid Chamartín: 1h35 directos; desde 2024 perros hasta 40 kg admitidos con billete mascota (~25% de la tarifa adulta).`,
+        `Aeropuerto más cercano: Madrid-Barajas (210 km, 2h30 en taxi pet-friendly).`,
+      ],
+    },
+  },
+
   salzburg: {
     history: {
       fr: `Salzbourg, la « Rome du Nord » classée UNESCO, doit sa richesse à l'or blanc — le sel — extrait du Dürrnberg depuis les Celtes. Les princes-archevêques la gouvernèrent en État indépendant jusqu'en 1803, laissant la forteresse du Hohensalzburg, la vieille ville baroque et une tradition musicale couronnée par Mozart, l'enfant du pays. L'Autriche fixe les règles canines au niveau fédéral : puce, passeport européen et assurance responsabilité civile sont obligatoires, et la ville de Salzbourg perçoit une Hundeabgabe de 72 euros par an. Le Land exige un Hundeführerschein pour tout maître n'en ayant jamais détenu, à obtenir dans les quatre mois suivant l'enregistrement. La proximité des Alpes apporte hivers froids et étés de Föhn ; la ville compense par les berges vertes de la Salzach, les sentiers ombragés du Kapuzinerberg et une densité rare de Konditoreien dog-friendly.`,

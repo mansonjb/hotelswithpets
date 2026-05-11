@@ -452,6 +452,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Het Park\'s 28 hectares of off-leash space beside the Euromast, Kralingse Bos forest and lake, and the Maasvlakte beach',
       area: 'Middelland along Nieuwe Binnenweg, the Witte de With arts district, and the waterfront around Veerhaven',
     },
+    salamanca: {
+      personality: `a golden sandstone university city in Castile, UNESCO-listed since 1988, where leashed dogs glide through baroque arcades and the Tormes riverside is the heart of evening walks`,
+      highlight: 'the Plaza Mayor and Rúa Mayor, the Tormes riverside (Salas Bajas), and the Parque de los Jesuitas with its fenced off-leash area',
+      area: `the old town around the Plaza Mayor, the riverside south of the Roman Bridge, and the leafy area near the Universidad de Salamanca`,
+    },
     salzburg: {
       personality: 'a compact Alpine city where Mozart-era architecture, rolling meadows, and the surrounding Salzkammergut mountains create a magical backdrop for pet travel',
       highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
@@ -1029,6 +1034,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les 28 hectares d\'espace sans laisse d\'Het Park à côté de l\'Euromast, le Kralingse Bos et la plage de Maasvlakte',
       area: 'Middelland le long de la Nieuwe Binnenweg, le quartier artistique de Witte de With et les quais de Veerhaven',
     },
+    salamanca: {
+      personality: `une ville universitaire castillane en grès doré, inscrite à l'UNESCO depuis 1988, où les chiens en laisse glissent sous les arcades baroques et où la berge du Tormes est le cœur des promenades du soir`,
+      highlight: `la Plaza Mayor et la Rúa Mayor, la berge du Tormes (Salas Bajas) et le Parque de los Jesuitas avec sa zone clôturée sans laisse`,
+      area: `le centre historique autour de la Plaza Mayor, le bord du fleuve au sud du Pont Romain et le quartier verdoyant près de l'Université de Salamanque`,
+    },
     salzburg: {
       personality: 'une ville alpine compacte où l\'architecture de l\'époque Mozart, les prairies vallonnées et les montagnes du Salzkammergut environnantes créent un cadre magique pour les voyages avec animaux',
       highlight: 'le parc de Hellbrunn, le chemin riverain de la Salzach et les sentiers de la colline du Kapuzinerberg',
@@ -1605,6 +1615,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las ciudades más dog-friendly de los Países Bajos, donde las mascotas viajan gratis en el transporte público y la mayoría de las terrazas las aceptan por defecto',
       highlight: 'las 28 hectáreas sin correa de Het Park junto al Euromast, el bosque y lago de Kralingse Bos, y la playa de Maasvlakte',
       area: 'Middelland a lo largo de Nieuwe Binnenweg, el barrio artístico de Witte de With y los muelles de Veerhaven',
+    },
+    salamanca: {
+      personality: 'una ciudad universitaria castellana de arenisca dorada, declarada Patrimonio UNESCO desde 1988, donde los perros con correa se deslizan bajo los soportales barrocos y la orilla del Tormes es el corazón de los paseos vespertinos',
+      highlight: 'la Plaza Mayor y la Rúa Mayor, la orilla del Tormes (Salas Bajas) y el Parque de los Jesuitas con su zona vallada sin correa',
+      area: 'el casco antiguo en torno a la Plaza Mayor, la ribera al sur del Puente Romano y el barrio frondoso junto a la Universidad de Salamanca',
     },
     salzburg: {
       personality: 'una compacta ciudad alpina donde la arquitectura de la época de Mozart, los prados ondulados y las montañas del Salzkammergut circundante crean un escenario mágico para viajar con mascotas',

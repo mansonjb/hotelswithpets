@@ -13179,6 +13179,134 @@
     "slug": "ibis-rotterdam-city-centre-rotterdam"
   },
   {
+    "id": "salamanca-1",
+    "name": "Hospes Palacio de San Esteban",
+    "destinationSlug": "salamanca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1450,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hospes-palacio-de-san-esteban.html",
+    "petFee": 25,
+    "petPolicy": "Hospes Palacio de San Esteban — 5-star restored 16th-century Dominican monastery in the historic centre. Pet fee 25 EUR per night. Up to 2 pets (max 10 kg). Pet bed and bowls provided. Not allowed in the restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "16th-c. monastery",
+      "Cloister courtyard"
+    ],
+    "slug": "hospes-palacio-de-san-esteban"
+  },
+  {
+    "id": "salamanca-2",
+    "name": "NH Collection Salamanca Palacio de Castellanos",
+    "destinationSlug": "salamanca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2100,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-palacio-de-castellanos.html",
+    "petFee": 20,
+    "petPolicy": "NH Collection Palacio de Castellanos — 5-star 15th-century palace with glass-roofed Renaissance courtyard, 5 min from Plaza Mayor. Pet fee 20 EUR per night. Max 2 pets (up to 8 kg). Notify in advance.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Historic palace",
+      "Concierge"
+    ],
+    "slug": "nh-collection-salamanca-palacio-de-castellanos"
+  },
+  {
+    "id": "salamanca-3",
+    "name": "Hotel Rector",
+    "destinationSlug": "salamanca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 950,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/rector.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Rector — Family-run 4-star boutique in an early 20th-century palace with Villaplana stained-glass windows, next to the Roman Bridge. Small pets welcome on request; owner's discretion based on size and temperament.",
+    "highlights": [
+      "Free WiFi",
+      "Boutique 14 rooms",
+      "Stained-glass façade",
+      "Garden"
+    ],
+    "slug": "hotel-rector-salamanca"
+  },
+  {
+    "id": "salamanca-4",
+    "name": "Catalonia Plaza Mayor Salamanca",
+    "destinationSlug": "salamanca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1800,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/catalonia-plaza-mayor.html",
+    "petFee": 15,
+    "petPolicy": "Catalonia Plaza Mayor — Contemporary 4-star steps from the Plaza Mayor. Pet fee ~15 EUR per night. Dogs up to 10 kg accepted. Notify at booking.",
+    "highlights": [
+      "Free WiFi",
+      "Fitness centre",
+      "Plaza Mayor 100m",
+      "Restaurant"
+    ],
+    "slug": "catalonia-plaza-mayor-salamanca"
+  },
+  {
+    "id": "salamanca-5",
+    "name": "Eurostars Las Claras",
+    "destinationSlug": "salamanca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1620,
+    "priceFrom": 90,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/eurostars-las-claras.html",
+    "petFee": 15,
+    "petPolicy": "Eurostars Las Claras — Modern 4-star with sandstone façade, 200 m from the Plaza Mayor. Pet fee ~15 EUR per night. Pets up to 10 kg welcome. Reserve in advance.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Parking",
+      "Plaza Mayor 200m"
+    ],
+    "slug": "eurostars-las-claras-salamanca"
+  },
+  {
     "id": "salzburg-1",
     "name": "Hotel Sacher Salzburg",
     "destinationSlug": "salzburg",

@@ -6304,6 +6304,80 @@
     }
   },
   {
+    "slug": "salamanca",
+    "name": "Salamanca",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/salamanca.jpg",
+    "intro": "Castile's golden sandstone university city, a UNESCO World Heritage Site since 1988. Compact and walkable: the Plaza Mayor (one of Spain's finest), the twin cathedrals, and the Roman Bridge over the Tormes river. 1.5h by AVE from Madrid. Dogs roam easily through arcaded streets and the Salas Bajas riverside parks. Spring and autumn are ideal; summer hits 35°C, winter brings cold dry nights.",
+    "lat": 40.9701,
+    "lng": -5.6635,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, sunny",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool, sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "salzburg",
     "name": "Salzburg",
     "country": "Austria",

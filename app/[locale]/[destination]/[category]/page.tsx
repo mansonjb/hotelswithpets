@@ -26,18 +26,15 @@ type DestWithWeather = typeof destinations[number] & {
 // "Excluded by noindex" reports. Filtering at the source removes them entirely.
 const OFFICIAL_CATEGORY_SLUGS = new Set(categories.map((c) => c.slug))
 
+// Pre-rendered on-demand (ISR) rather than at build time:
+// 1755 combo routes × 3 locales × ~5 files = ~26 000 files = ~30% of total deploy
+// file count which was tripping Vercel's silent "Deploying outputs" timeout.
+// Pages still get statically cached after first request, still in sitemap, still
+// indexable by Google — just lazy-built instead of eager.
+export const dynamicParams = true
+export const revalidate = 86400 // 1 day ISR cache
 export async function generateStaticParams() {
-  const combos = new Set(
-    hotels.flatMap((h) =>
-      h.categories
-        .filter((cat) => OFFICIAL_CATEGORY_SLUGS.has(cat))
-        .map((cat) => `${h.destinationSlug}|${cat}`)
-    )
-  )
-  return [...combos].map((combo) => {
-    const [destination, category] = combo.split('|')
-    return { destination, category }
-  })
+  return []
 }
 
 // ─── Metadata ─────────────────────────────────────────────────────────────────

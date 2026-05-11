@@ -11,8 +11,13 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 
 type HotelData = typeof hotels[number] & { slug: string }
 
+// On-demand ISR rendering to reduce build output file count.
+// 706 hotels × 3 locales × ~5 files = ~10 000 fewer files at build time, lazy-
+// cached after first visit. Same SEO outcome (pages still in sitemap + crawled).
+export const dynamicParams = true
+export const revalidate = 86400 // 1 day ISR cache
 export async function generateStaticParams() {
-  return (hotels as HotelData[]).map((h) => ({ slug: h.slug }))
+  return []
 }
 
 export async function generateMetadata({

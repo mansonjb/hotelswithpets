@@ -427,6 +427,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Stromovka and Letná parks, and the riverside Nusle Valley trails',
       area: 'Vinohrady, Žižkov, and Malá Strana',
     },
+    reims: {
+      personality: 'the elegant capital of Champagne, a UNESCO city where Gothic cathedrals, art deco facades, and vine-lined avenues invite slow walks with a leashed dog',
+      highlight: 'the Promenades around Place de la République, the wooded Parc de Champagne, and the canal towpaths toward Cernay',
+      area: 'the historic center near the Cathédrale Notre-Dame, Place Drouet d\'Erlon, and the leafy Parc de Champagne quarter',
+    },
     reykjavik: {
       personality: 'the world\'s northernmost capital and one of its most dog-friendly. With vast lava fields, geothermal beaches, and a culture that brings dogs everywhere',
       highlight: 'Elliðaárdalur valley, the Öskjuhlíð hill, and the Grótta lighthouse coastal walk',
@@ -999,6 +1004,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les parcs Stromovka et Letná, et les sentiers de la vallée de Nusle au bord de la rivière',
       area: 'Vinohrady, Žižkov et Malá Strana',
     },
+    reims: {
+      personality: `l'élégante capitale de la Champagne, ville UNESCO où cathédrales gothiques, façades art déco et avenues plantées de vignes invitent à de longues promenades avec son chien en laisse`,
+      highlight: 'les Promenades autour de la Place de la République, le boisé Parc de Champagne et les chemins de halage le long du canal vers Cernay',
+      area: `le centre historique près de la Cathédrale Notre-Dame, la Place Drouet d'Erlon et le quartier verdoyant du Parc de Champagne`,
+    },
     reykjavik: {
       personality: 'la capitale la plus septentrionale du monde et l\'une des plus dog-friendly. Avec de vastes champs de lave, des plages géothermiques et une culture qui emmène les chiens partout',
       highlight: 'la vallée d\'Elliðaárdalur, la colline d\'Öskjuhlíð et la promenade côtière du phare de Grótta',
@@ -1570,6 +1580,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad compacta y transitable donde los perros son bienvenidos en la mayoría de los pubs, bares de vinos e incluso algunos mercados cubiertos',
       highlight: 'los parques Stromovka y Letná, y los senderos del Valle de Nusle junto al río',
       area: 'Vinohrady, Žižkov y Malá Strana',
+    },
+    reims: {
+      personality: 'la elegante capital de la Champaña, ciudad UNESCO donde catedrales góticas, fachadas art déco y avenidas bordeadas de viñas invitan a largos paseos con tu perro con correa',
+      highlight: 'las Promenades alrededor de la Place de la République, el boscoso Parc de Champagne y los caminos del canal hacia Cernay',
+      area: `el centro histórico junto a la Catedral Notre-Dame, la Place Drouet d'Erlon y el frondoso barrio del Parc de Champagne`,
     },
     reykjavik: {
       personality: 'la capital más septentrional del mundo y una de las más dog-friendly. Con vastos campos de lava, playas geotérmicas y una cultura que lleva a los perros a todas partes',

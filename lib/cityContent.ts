@@ -8715,6 +8715,119 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  reims: {
+    history: {
+      fr: `Reims, surnommée « la cité des sacres », a vu couronner trente-trois rois de France entre 816 et 1825 dans sa cathédrale Notre-Dame, chef-d'œuvre gothique inscrit au patrimoine mondial de l'UNESCO depuis 1991 avec le Palais du Tau et la basilique Saint-Remi. Située à 45 minutes de Paris en TGV, la capitale historique de la Champagne combine héritage royal et terroir viticole d'exception : les caves de Pommery, Taittinger, Veuve Clicquot et Ruinart s'étendent sous la ville dans d'anciennes crayères gallo-romaines. Largement détruite lors de la Première Guerre mondiale, Reims fut reconstruite dans le style Art déco caractéristique des années 1920, visible Place Drouet d'Erlon et le long de la rue de Vesle. Aujourd'hui, ville d'environ 180 000 habitants entourée de vignes classées UNESCO depuis 2015, Reims propose un cadre élégant et facile à parcourir avec un chien : avenues larges, nombreux parcs et chemins de halage le long du canal de l'Aisne à la Marne.`,
+      en: `Reims, nicknamed 'the city of coronations', was the site where thirty-three kings of France were crowned between 816 and 1825 in its Gothic Notre-Dame cathedral — a UNESCO World Heritage Site since 1991, together with the Palais du Tau and the Basilica of Saint-Remi. Just 45 minutes from Paris by TGV, the historic capital of Champagne combines royal heritage with an exceptional wine terroir: the cellars of Pommery, Taittinger, Veuve Clicquot and Ruinart stretch beneath the city in former Gallo-Roman chalk pits. Largely destroyed in the First World War, Reims was rebuilt in the Art Deco style of the 1920s that defines Place Drouet d'Erlon and rue de Vesle. Today, a city of around 180,000 surrounded by Champagne vineyards (UNESCO-listed since 2015), Reims offers an elegant, walkable setting for travellers with a dog: wide avenues, generous parks, and canal towpaths along the Aisne-Marne waterway.`,
+      es: `Reims, apodada «la ciudad de las coronaciones», fue el lugar donde treinta y tres reyes de Francia fueron coronados entre 816 y 1825 en su catedral gótica de Notre-Dame, declarada Patrimonio Mundial de la UNESCO en 1991 junto con el Palais du Tau y la basílica de Saint-Remi. A solo 45 minutos de París en TGV, la capital histórica de la Champaña combina herencia real y un terroir vinícola excepcional: las cavas de Pommery, Taittinger, Veuve Clicquot y Ruinart se extienden bajo la ciudad en antiguas canteras de creta galorromanas. Muy destruida durante la Primera Guerra Mundial, Reims fue reconstruida en el estilo art déco característico de los años 1920, visible en la Place Drouet d'Erlon y en la rue de Vesle. Hoy, ciudad de unos 180.000 habitantes rodeada de viñedos de Champaña (Patrimonio UNESCO desde 2015), Reims ofrece un marco elegante y cómodo para recorrer con un perro: amplias avenidas, numerosos parques y caminos de sirga a lo largo del canal del Aisne al Marne.`,
+    },
+    sights: [
+      {
+        name: 'Cathédrale Notre-Dame de Reims',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Chef-d'œuvre gothique du XIIIe siècle, lieu du sacre de trente-trois rois de France. Les chiens ne sont pas admis à l'intérieur (sauf chiens d'assistance), mais le parvis est un excellent point de photo et de pause avec son animal en laisse.`,
+          en: `13th-century Gothic masterpiece and site of the coronation of thirty-three French kings. Dogs are not allowed inside (except assistance dogs), but the square in front is a great spot to pause and take photos with a leashed pet.`,
+          es: `Obra maestra gótica del siglo XIII, lugar de coronación de treinta y tres reyes de Francia. Los perros no pueden entrar (salvo perros de asistencia), pero la plaza frente a la fachada es un excelente lugar para hacer fotos y descansar con tu mascota con correa.`,
+        },
+      },
+      {
+        name: 'Parc de Champagne',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Vaste parc paysager de 22 hectares aménagé par la maison Pommery en 1909 dans le sud de la ville. Pelouses, allées arborées, terrains de pétanque : les chiens sont admis en laisse, idéal pour une promenade prolongée ou une pause pique-nique.`,
+          en: `A 22-hectare landscaped park laid out by Champagne Pommery in 1909 in the south of the city. Lawns, tree-lined paths and pétanque courts: dogs are welcome on lead, ideal for a longer walk or picnic break.`,
+          es: `Amplio parque paisajístico de 22 hectáreas creado por la maison Pommery en 1909 al sur de la ciudad. Praderas, paseos arbolados y canchas de petanca: los perros son admitidos con correa, ideal para un paseo prolongado o un picnic.`,
+        },
+      },
+      {
+        name: `Place Drouet d'Erlon`,
+        emoji: '🍷',
+        petFriendly: true,
+        desc: {
+          fr: `L'artère piétonne centrale de Reims, bordée de terrasses Art déco et de bars à champagne. La plupart des terrasses acceptent les chiens calmes en laisse, surtout en milieu de matinée et en début de soirée.`,
+          en: `The pedestrian heart of Reims, lined with Art Deco terraces and champagne bars. Most outdoor terraces welcome calm leashed dogs, especially mid-morning and early evening.`,
+          es: `La arteria peatonal central de Reims, jalonada de terrazas art déco y bares de champaña. La mayoría de terrazas aceptan perros tranquilos con correa, sobre todo a media mañana y al inicio de la tarde.`,
+        },
+      },
+      {
+        name: 'Basilique Saint-Remi',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Église romane du XIe siècle inscrite à l'UNESCO, tombe de saint Remi qui baptisa Clovis. Les chiens ne sont pas admis à l'intérieur, mais le jardin attenant et le quartier Saint-Remi se prêtent à une belle balade.`,
+          en: `11th-century Romanesque church listed by UNESCO, burial place of Saint Remi who baptised Clovis. Dogs are not allowed inside, but the adjoining gardens and Saint-Remi quarter make for a lovely stroll.`,
+          es: `Iglesia románica del siglo XI declarada Patrimonio UNESCO, tumba de san Remi que bautizó a Clodoveo. No se admiten perros en el interior, pero el jardín contiguo y el barrio Saint-Remi son perfectos para un paseo.`,
+        },
+      },
+      {
+        name: 'Canal de l\'Aisne à la Marne',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Les chemins de halage du canal traversent Reims et s'étendent sur plusieurs dizaines de kilomètres vers Cernay et Sillery. Plats, ombragés et peu fréquentés, ils offrent l'itinéraire de promenade canine le plus paisible de la ville.`,
+          en: `The towpaths along the canal cross Reims and stretch for many kilometres towards Cernay and Sillery. Flat, shaded and quiet, they offer the most peaceful dog-walking route in the city.`,
+          es: `Los caminos de sirga del canal atraviesan Reims y se extienden decenas de kilómetros hacia Cernay y Sillery. Llanos, sombreados y poco transitados, ofrecen el itinerario más tranquilo para pasear con perro en la ciudad.`,
+        },
+      },
+      {
+        name: 'Caves de Champagne',
+        emoji: '🍾',
+        petFriendly: false,
+        desc: {
+          fr: `Les grandes maisons (Pommery, Taittinger, Veuve Clicquot, Ruinart, Mumm) refusent les chiens dans leurs caves classées UNESCO pour des raisons de sécurité et d'hygiène. Prévoir un dog-sitter ou un hôtel acceptant les animaux pendant la visite.`,
+          en: `The major houses (Pommery, Taittinger, Veuve Clicquot, Ruinart, Mumm) do not allow dogs in their UNESCO-listed cellars for safety and hygiene reasons. Plan for a dog-sitter or a pet-friendly hotel during the visit.`,
+          es: `Las grandes maisons (Pommery, Taittinger, Veuve Clicquot, Ruinart, Mumm) no admiten perros en sus cavas declaradas Patrimonio UNESCO por motivos de seguridad e higiene. Conviene reservar un dog-sitter o un hotel pet-friendly para la visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens sont admis dans les transports en commun Citura (bus et tramway) en laisse et muselés s'ils sont de grande taille — les petits chiens en sac voyagent gratuitement.`,
+        `Reims est très étendue mais le centre historique se parcourt facilement à pied avec un chien : comptez 25 minutes entre la cathédrale et le Parc de Champagne.`,
+        `La plupart des bars à champagne de la Place Drouet d'Erlon acceptent les chiens en terrasse — moins systématiquement à l'intérieur.`,
+        `Les caves de champagne refusent toutes les animaux : si vous souhaitez en visiter une, prévoir un service de dog-sitting ou un hôtel acceptant la garde en chambre.`,
+        `En été, l'asphalte des grandes avenues (rue de Vesle, boulevards) chauffe fort — promenez votre chien tôt le matin ou après 19 h.`,
+      ],
+      en: [
+        `Dogs are allowed on Citura public transport (bus and tram) on lead and muzzled if large — small dogs in a carrier travel free.`,
+        `Reims is spread out but the historic centre is easy to walk with a dog: about 25 minutes from the cathedral to the Parc de Champagne.`,
+        `Most champagne bars on Place Drouet d'Erlon accept dogs on the terrace — less consistently indoors.`,
+        `Champagne cellars do not allow animals: if you plan to visit one, arrange dog-sitting or a hotel that allows pets to stay in the room.`,
+        `In summer, asphalt on main avenues (rue de Vesle, boulevards) heats up quickly — walk your dog early in the morning or after 7 pm.`,
+      ],
+      es: [
+        `Los perros están admitidos en el transporte público Citura (autobús y tranvía) con correa y bozal si son grandes; los perros pequeños en transportín viajan gratis.`,
+        `Reims es extensa, pero el centro histórico se recorre fácilmente a pie con un perro: unos 25 minutos entre la catedral y el Parc de Champagne.`,
+        `La mayoría de los bares de champaña de la Place Drouet d'Erlon aceptan perros en la terraza, menos sistemáticamente en el interior.`,
+        `Las cavas de champaña no admiten animales: si quieres visitar alguna, organiza un servicio de dog-sitting o un hotel que permita dejar al perro en la habitación.`,
+        `En verano, el asfalto de las grandes avenidas (rue de Vesle, bulevares) se calienta mucho — pasea a tu perro temprano o después de las 19 h.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Clinique vétérinaire de Reims Cathédrale, 8 rue de la Magdeleine, Reims, +33 3 26 47 12 39`,
+        `Clinique vétérinaire Saint-Remi : 19 rue Simon, Reims, +33 3 26 85 22 87`,
+        `TGV depuis Paris Gare de l'Est : 45 minutes, chiens en laisse muselés et billet à 7 € (petits chiens en sac gratuits).`,
+        `Aéroport Paris-Vatry à 70 km au sud-est : alternative régionale pour vols low-cost européens.`,
+      ],
+      en: [
+        `24/7 emergency vet: Clinique vétérinaire de Reims Cathédrale, 8 rue de la Magdeleine, Reims, +33 3 26 47 12 39`,
+        `Clinique vétérinaire Saint-Remi: 19 rue Simon, Reims, +33 3 26 85 22 87`,
+        `TGV from Paris Gare de l'Est: 45 minutes, dogs leashed and muzzled with a €7 ticket (small dogs in a carrier travel free).`,
+        `Paris-Vatry Airport 70 km south-east: regional alternative for European low-cost flights.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Clinique vétérinaire de Reims Cathédrale, 8 rue de la Magdeleine, Reims, +33 3 26 47 12 39`,
+        `Clinique vétérinaire Saint-Remi: 19 rue Simon, Reims, +33 3 26 85 22 87`,
+        `TGV desde París Gare de l'Est: 45 minutos, perros con correa y bozal con billete de 7 € (perros pequeños en transportín gratis).`,
+        `Aeropuerto Paris-Vatry a 70 km al sureste: alternativa regional para vuelos low-cost europeos.`,
+      ],
+    },
+  },
+
   reykjavik: {
     history: {
       fr: `Reykjavik — la « baie fumante » — remonte à Ingólfur Arnarson vers 874, mais n'obtint sa charte commerciale qu'en 1786 et ne devint capitale nationale qu'en 1944. L'Islande entretient un rapport unique avec les chiens : de 1924 à 1984, leur possession fut purement interdite en ville pour lutter contre l'échinococcose. Aujourd'hui, environ 4 000 chiens vivent dans l'agglomération de 240 000 habitants, chacun devant détenir une licence municipale et un vermifuge annuel. Les règles restent plus strictes qu'ailleurs en Scandinavie : laisse obligatoire dans tout l'espace public, et plusieurs quartiers interdisent encore leur entrée dans commerces et restaurants. En compensation, la ville a aménagé quatre excellents hundasvæði clôturés, le plus grand à Geirsnefstangi, une presqu'île entière où les chiens nagent dans l'Atlantique et courent libres toute l'année.`,

@@ -12307,6 +12307,131 @@
     "slug": "hilton-prague-atrium"
   },
   {
+    "id": "reims-1",
+    "name": "Domaine Les Crayeres",
+    "destinationSlug": "reims",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1240,
+    "priceFrom": 495,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/lescrayeres.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Domaine Les Crayeres - Relais & Chateaux 5-star Belle Epoque chateau in 7-hectare park. Pet fee 30 EUR per night. Up to two pets, recommended max 25 kg. Pets on lead in lobbies; not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "7-ha park",
+      "Michelin 2-star restaurant",
+      "Spa"
+    ],
+    "slug": "domaine-les-crayeres"
+  },
+  {
+    "id": "reims-2",
+    "name": "L'Assiette Champenoise",
+    "destinationSlug": "reims",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 980,
+    "priceFrom": 420,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/assiette-champenoise.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "L'Assiette Champenoise - 5-star Relais & Chateaux in Tinqueux with a 3-star Michelin restaurant. Pets at 25 EUR per night. Cathedral 10 min by car. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Michelin 3-star",
+      "Spa",
+      "Outdoor pool"
+    ],
+    "slug": "l-assiette-champenoise"
+  },
+  {
+    "id": "reims-3",
+    "name": "Hotel de la Paix Reims",
+    "destinationSlug": "reims",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2640,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-de-la-paix-reims.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Hotel de la Paix Reims - 4-star Belle Epoque hotel on Boulevard Foch facing the cathedral. Pets at 15 EUR per night. Place Drouet d'Erlon 2 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Indoor pool"
+    ],
+    "slug": "hotel-de-la-paix-reims"
+  },
+  {
+    "id": "reims-4",
+    "name": "Best Western Premier Hotel de la Paix",
+    "destinationSlug": "reims",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3140,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/bestwestern-premier-de-la-paix-reims.en-gb.html",
+    "petFee": 12,
+    "petPolicy": "Best Western Premier Hotel de la Paix - 4-star hotel near Boulingrin market. Pets at 12 EUR per night. Cathedral 8 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Free breakfast",
+      "Restaurant"
+    ],
+    "slug": "best-western-premier-de-la-paix-reims"
+  },
+  {
+    "id": "reims-5",
+    "name": "Hotel Continental Reims",
+    "destinationSlug": "reims",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 2820,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/continental-reims.en-gb.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Continental Reims - 3-star hotel on Place Drouet d'Erlon. Pets at 10 EUR per night. One pet per room standard. Cathedral 5 min on foot.",
+    "highlights": [
+      "Free WiFi",
+      "Central location",
+      "Family rooms"
+    ],
+    "slug": "hotel-continental-reims"
+  },
+  {
     "id": "reykjavik-1",
     "name": "The Reykjavik EDITION",
     "destinationSlug": "reykjavik",

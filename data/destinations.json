@@ -5938,6 +5938,79 @@
     }
   },
   {
+    "slug": "reims",
+    "name": "Reims",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/reims.jpg",
+    "intro": "Reims — the coronation city of French kings and the capital of Champagne — combines the UNESCO Notre-Dame Cathedral (33 kings crowned), the Palais du Tau, the Pommery cellar gardens, and direct TGV access from Paris Gare de l'Est in 45 minutes.",
+    "lat": 49.2583,
+    "lng": 4.0317,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "reykjavik",
     "name": "Reykjavik",
     "country": "Iceland",

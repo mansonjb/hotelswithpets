@@ -1,0 +1,925 @@
+{
+  "slug": "trondheim",
+  "name": "Trondheim",
+  "country": "Norway",
+  "flag": "🇳🇴",
+  "lastUpdated": "2026-05-09",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Trondheim",
+      "titleFr": "Restaurants dog-friendly à Trondheim",
+      "titleEs": "Restaurantes dog-friendly en Trondheim",
+      "introEn": "Norwegian café culture in Trondheim is reliably dog-friendly — leashed dogs are welcomed on terraces by default and many cafés accept them inside outside peak service. The Bakklandet wooden quarter and the Solsiden harbour concentrate the best independent venues.",
+      "introFr": "La culture café norvégienne à Trondheim est fiablement dog-friendly — les chiens en laisse sont accueillis en terrasse par défaut et beaucoup de cafés les acceptent à l'intérieur hors heures de pointe. Le quartier en bois de Bakklandet et le port de Solsiden concentrent les meilleures adresses.",
+      "introEs": "La cultura del café noruega en Trondheim es fiablemente dog-friendly — los perros con correa son admitidos en terrazas por defecto y muchos cafés los aceptan dentro fuera de horas punta. El barrio de madera de Bakklandet y el puerto de Solsiden concentran las mejores direcciones.",
+      "places": [
+        {
+          "name": "Baklandet Skydsstation",
+          "address": "Øvre Bakklandet 33, 7014 Trondheim",
+          "neighborhood": "Bakklandet",
+          "photo": "/images/city-places/trondheim-restaurants-baklandet-skydsstation.jpg",
+          "website": "https://www.skydsstation.no/",
+          "description": "A 18th-century wooden coaching inn turned café-restaurant — traditional Norwegian dishes (rakfisk, fårikål), home-made waffles, regional craft beer. Dogs welcomed throughout the cosy wooden interior and on the front terrace year-round.",
+          "descriptionFr": "Auberge de poste en bois du XVIIIe siècle convertie en café-restaurant — plats norvégiens traditionnels (rakfisk, fårikål), gaufres maison, bière craft régionale. Chiens bienvenus partout dans le cosy intérieur en bois et sur la terrasse avant toute l'année.",
+          "descriptionEs": "Posada de postillón de madera del siglo XVIII convertida en café-restaurante — platos noruegos tradicionales (rakfisk, fårikål), gofres caseros, cerveza artesanal regional. Perros bienvenidos en todo el acogedor interior de madera y en la terraza delantera todo el año.",
+          "petPolicy": "Dogs welcome inside and on terrace",
+          "petPolicyFr": "Chiens bienvenus à l'intérieur et en terrasse",
+          "petPolicyEs": "Perros bienvenidos dentro y en terraza",
+          "priceRange": "NOK NOK",
+          "mustTry": "Norwegian waffle with brown cheese, fårikål, EC Dahls craft beer",
+          "mustTryFr": "Gaufre norvégienne au fromage brun, fårikål, bière craft EC Dahls",
+          "mustTryEs": "Gofre noruego con queso marrón, fårikål, cerveza artesanal EC Dahls",
+          "openingHours": "Mon-Sat 11:00-23:00, Sun 12:00-22:00",
+          "tip": "Most photogenic waffle-and-dog spot in Trondheim — the Bakklandet wooden facades catch the Norwegian midsummer light at 22:00.",
+          "tipFr": "Le spot gaufres-et-chien le plus photogénique de Trondheim — les façades en bois de Bakklandet captent la lumière du solstice norvégien à 22h.",
+          "tipEs": "El spot de gofre-y-perro más fotogénico de Trondheim — las fachadas de madera de Bakklandet captan la luz del solsticio noruego a las 22:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Baklandet+Skydsstation"
+        },
+        {
+          "name": "Sushi & Wok Solsiden",
+          "address": "Solsiden 12, 7042 Trondheim",
+          "neighborhood": "Solsiden",
+          "photo": "/images/city-places/trondheim-restaurants-sushi-wok-solsiden.jpg",
+          "website": "https://www.sushiwok.no/solsiden",
+          "description": "A modern sushi-wok restaurant on the Solsiden harbourfront — Norwegian-sourced salmon, riverside terrace with marina views. Dogs welcome on the outdoor terrace year-round (heated lamps in winter).",
+          "descriptionFr": "Restaurant sushi-wok moderne sur le front de mer de Solsiden — saumon norvégien, terrasse riveraine avec vue sur la marina. Chiens bienvenus sur la terrasse extérieure toute l'année (lampes chauffantes en hiver).",
+          "descriptionEs": "Restaurante moderno sushi-wok en el frente marítimo de Solsiden — salmón de origen noruego, terraza ribereña con vistas a la marina. Perros bienvenidos en la terraza exterior todo el año (lámparas calefactoras en invierno).",
+          "petPolicy": "Dogs on outdoor terrace year-round",
+          "petPolicyFr": "Chiens en terrasse extérieure toute l'année",
+          "petPolicyEs": "Perros en terraza exterior todo el año",
+          "priceRange": "NOK NOK NOK",
+          "mustTry": "Norwegian salmon sashimi, salmon poke bowl, Borg craft IPA",
+          "mustTryFr": "Sashimi de saumon norvégien, poke bowl saumon, IPA craft Borg",
+          "mustTryEs": "Sashimi de salmón noruego, poke bowl de salmón, IPA artesanal Borg",
+          "openingHours": "Daily 11:30-22:30",
+          "tip": "The west-facing terrace catches the Solsiden sunset over the Nidelva river — best dog-watching with sushi at 21:00 in summer.",
+          "tipFr": "La terrasse exposée ouest capte le coucher de soleil de Solsiden sur la Nidelva — meilleur moment chien-et-sushi à 21h en été.",
+          "tipEs": "La terraza orientada al oeste capta el atardecer de Solsiden sobre el Nidelva — mejor momento perro-y-sushi a las 21:00 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sushi+Wok+Solsiden+Trondheim"
+        },
+        {
+          "name": "Folk og Røvere",
+          "address": "Mellomveita 7, 7012 Trondheim",
+          "neighborhood": "Midtbyen",
+          "photo": "/images/city-places/trondheim-restaurants-folk-og-r-vere.jpg",
+          "website": "https://www.folkogrovere.no/",
+          "description": "A bohemian bar-restaurant in central Trondheim — vinyl music, vegetarian-friendly menu, regional craft beer rotation. Dogs welcomed throughout the small interior year-round, water bowls at the door.",
+          "descriptionFr": "Bar-restaurant bohème dans le centre de Trondheim — musique vinyles, menu végétarien-friendly, rotation de bières craft régionales. Chiens bienvenus partout dans la petite salle toute l'année, gamelles à la porte.",
+          "descriptionEs": "Bar-restaurante bohemio en el centro de Trondheim — música de vinilo, menú vegetariano, rotación de cervezas artesanas regionales. Perros bienvenidos en toda la pequeña sala todo el año, boles en la puerta.",
+          "petPolicy": "Dogs welcome everywhere",
+          "petPolicyFr": "Chiens bienvenus partout",
+          "petPolicyEs": "Perros bienvenidos en todas partes",
+          "priceRange": "NOK NOK",
+          "mustTry": "Vegetarian burger, EC Dahls Pilsner, vinyl listening with a coffee",
+          "mustTryFr": "Burger végétarien, Pilsner EC Dahls, écoute vinyle avec un café",
+          "mustTryEs": "Hamburguesa vegetariana, Pilsner EC Dahls, escucha de vinilos con un café",
+          "openingHours": "Mon-Thu 14:00-01:00, Fri-Sat 12:00-02:30, Sun 13:00-23:00",
+          "tip": "Afternoons (14:00-17:00) are calmest with a coffee and the dog at your feet — Friday evenings get loud after 22:00.",
+          "tipFr": "Les après-midis (14h-17h) sont les plus calmes avec un café et le chien aux pieds — les vendredis soir deviennent bruyants après 22h.",
+          "tipEs": "Las tardes (14:00-17:00) son las más tranquilas con un café y el perro a los pies — los viernes por la noche se vuelven ruidosos después de las 22:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Folk+og+Rovere+Trondheim"
+        }
+      ],
+      "tipsEn": [
+        "Norwegian café culture is broadly dog-friendly — at least 80% of Trondheim cafés accept leashed dogs in the main room year-round.",
+        "Norwegian prices are high — expect 200-300 NOK for a brunch (20-30 €), 600-1200 NOK (60-120 €) for a dinner.",
+        "Tipping is not expected in Norway; service is included. Round up cash if you wish."
+      ],
+      "tipsFr": [
+        "La culture café norvégienne est largement dog-friendly — au moins 80 % des cafés de Trondheim acceptent les chiens en laisse en salle principale toute l'année.",
+        "Les prix norvégiens sont élevés — comptez 200-300 NOK pour un brunch (20-30 €), 600-1200 NOK (60-120 €) pour un dîner.",
+        "Le pourboire n'est pas attendu en Norvège ; le service est inclus. Arrondissez en espèces si vous le souhaitez."
+      ],
+      "tipsEs": [
+        "La cultura del café noruega es ampliamente dog-friendly — al menos el 80 % de los cafés de Trondheim admite perros con correa en la sala principal todo el año.",
+        "Los precios noruegos son altos — calcula 200-300 NOK para un brunch (20-30 €), 600-1200 NOK (60-120 €) para una cena.",
+        "La propina no se espera en Noruega; el servicio está incluido. Redondea en efectivo si lo deseas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Trondheim restaurants?",
+          "a": "Yes in most. Around 80% of Trondheim cafés and casual restaurants accept leashed dogs in the main room year-round. Higher-end fine-dining venues admit dogs only on terraces."
+        },
+        {
+          "q": "What is the regional Norwegian speciality in Trondheim?",
+          "a": "Trøndelag specialities: rakfisk (fermented fish, polarising), fårikål (Norway's national dish, lamb-and-cabbage stew), and the iconic brown cheese (brunost). All best paired with the local EC Dahls craft beers."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Trondheim ?",
+          "a": "Oui dans la plupart. Environ 80 % des cafés et restaurants décontractés de Trondheim acceptent les chiens en laisse en salle principale toute l'année. Les établissements gastronomiques n'admettent les chiens qu'en terrasse."
+        },
+        {
+          "q": "Quelle est la spécialité norvégienne régionale à Trondheim ?",
+          "a": "Spécialités du Trøndelag : rakfisk (poisson fermenté, clivant), fårikål (plat national norvégien, ragoût mouton-chou) et l'iconique fromage brun (brunost). Tous à accorder avec les bières craft locales EC Dahls."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Trondheim?",
+          "a": "Sí en la mayoría. Cerca del 80 % de los cafés y restaurantes informales de Trondheim admite perros con correa en la sala principal todo el año. Los locales de alta cocina admiten perros solo en terrazas."
+        },
+        {
+          "q": "¿Cuál es la especialidad noruega regional en Trondheim?",
+          "a": "Especialidades de Trøndelag: rakfisk (pescado fermentado, divisivo), fårikål (plato nacional noruego, estofado cordero-col) y el icónico queso marrón (brunost). Todos para combinar con las cervezas artesanales locales EC Dahls."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Green Spaces in Trondheim",
+      "titleFr": "Parcs canins et espaces verts à Trondheim",
+      "titleEs": "Parques caninos y espacios verdes en Trondheim",
+      "introEn": "Trondheim is wrapped in forest and fjord — the Bymarka urban forest covers 80 km² west of the city, the Estenstadmarka forest spans the east, and the Nidelva river path winds through the centre. Norway's strict leash law (April 1 - August 19) applies in all rural areas.",
+      "introFr": "Trondheim est ceinturée de forêts et de fjord — la forêt urbaine de Bymarka couvre 80 km² à l'ouest de la ville, la forêt d'Estenstadmarka s'étend à l'est, et le chemin de la Nidelva traverse le centre. La loi laisse stricte norvégienne (1er avril - 19 août) s'applique à toutes les zones rurales.",
+      "introEs": "Trondheim está rodeada de bosques y fiordo — el bosque urbano de Bymarka cubre 80 km² al oeste de la ciudad, el bosque de Estenstadmarka se extiende al este, y el camino del Nidelva serpentea por el centro. La ley estricta noruega de correa (1 abril - 19 agosto) aplica a todas las zonas rurales.",
+      "places": [
+        {
+          "name": "Bymarka Urban Forest",
+          "address": "Skistua, 7050 Trondheim",
+          "neighborhood": "West",
+          "photo": "/images/city-places/trondheim-parks-bymarka-urban-forest.jpg",
+          "size": "Approx. 80 km²",
+          "leashRule": "On-leash April 1 - August 19; off-leash rest of year",
+          "leashRuleFr": "En laisse 1er avril - 19 août ; sans laisse le reste de l'année",
+          "leashRuleEs": "Con correa 1 abril - 19 agosto; sin correa el resto del año",
+          "description": "Trondheim's largest urban forest — 80 km² of pine, spruce and lakes west of the city, 200 km of marked summer hiking and winter cross-country ski trails. Free public access, the Skistua and Lianvatnet ski lodges open year-round.",
+          "descriptionFr": "La plus grande forêt urbaine de Trondheim — 80 km² de pins, épicéas et lacs à l'ouest de la ville, 200 km de sentiers de randonnée estivale et de ski de fond hivernal balisés. Accès public libre, les chalets de ski Skistua et Lianvatnet ouverts toute l'année.",
+          "descriptionEs": "El mayor bosque urbano de Trondheim — 80 km² de pinos, abetos y lagos al oeste de la ciudad, 200 km de senderos balizados de senderismo estival y esquí de fondo invernal. Acceso público libre, los chalés de esquí Skistua y Lianvatnet abiertos todo el año.",
+          "amenities": [
+            "Marked trails",
+            "Cross-country ski tracks",
+            "Free parking at trailheads",
+            "Mountain restaurants"
+          ],
+          "amenitiesFr": [
+            "Sentiers balisés",
+            "Pistes de ski de fond",
+            "Parking gratuit aux départs",
+            "Restaurants de montagne"
+          ],
+          "amenitiesEs": [
+            "Senderos señalizados",
+            "Pistas de esquí de fondo",
+            "Parking gratis en inicios",
+            "Restaurantes de montaña"
+          ],
+          "tip": "Bus 10 from central Trondheim to Skistua (25 min) — dogs in muzzle travel free. The Skistua-Lianvatnet 5 km loop is the iconic Trondheim dog walk.",
+          "tipFr": "Bus 10 depuis le centre de Trondheim jusqu'à Skistua (25 min) — chiens en muselière gratuits. La boucle Skistua-Lianvatnet de 5 km est la promenade canine iconique de Trondheim.",
+          "tipEs": "Bus 10 desde el centro de Trondheim hasta Skistua (25 min) — perros con bozal gratis. El bucle Skistua-Lianvatnet de 5 km es el paseo canino icónico de Trondheim.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bymarka+Trondheim"
+        },
+        {
+          "name": "Nidelva Riverside Path",
+          "address": "Nidelva path, 7012 Trondheim",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/trondheim-parks-nidelva-riverside-path.jpg",
+          "size": "Approx. 5 km path one way",
+          "leashRule": "On-leash year-round",
+          "leashRuleFr": "En laisse toute l'année",
+          "leashRuleEs": "Con correa todo el año",
+          "description": "The flat 5 km path along the Nidelva river — paved/gravel, runs from the Old Town Bridge past Bakklandet, Solsiden harbour, and into the Estenstadmarka forest gateway. The most-loved central dog walk in Trondheim.",
+          "descriptionFr": "Le chemin plat de 5 km le long de la Nidelva — pavé/gravier, court depuis le Vieux Pont en passant par Bakklandet, le port de Solsiden, jusqu'à l'entrée de la forêt d'Estenstadmarka. La promenade canine centrale préférée de Trondheim.",
+          "descriptionEs": "El sendero plano de 5 km a lo largo del Nidelva — pavimentado/grava, recorre desde el Puente Viejo pasando por Bakklandet, el puerto de Solsiden, hasta la entrada del bosque de Estenstadmarka. El paseo canino central favorito de Trondheim.",
+          "amenities": [
+            "Paved path",
+            "Public toilets",
+            "Benches",
+            "Multiple café access points"
+          ],
+          "amenitiesFr": [
+            "Chemin pavé",
+            "Toilettes publiques",
+            "Bancs",
+            "Multiples accès café"
+          ],
+          "amenitiesEs": [
+            "Sendero pavimentado",
+            "Aseos públicos",
+            "Bancos",
+            "Múltiples accesos a cafés"
+          ],
+          "tip": "Best at Norwegian midsummer (June 21) when the sun barely sets — full path at 23:00 in evening light is a Trondheim ritual.",
+          "tipFr": "Au mieux au solstice norvégien (21 juin) quand le soleil ne se couche presque pas — sentier complet à 23h dans la lumière du soir est un rituel trondhémois.",
+          "tipEs": "Mejor en el solsticio noruego (21 junio) cuando el sol apenas se pone — sendero completo a las 23:00 con luz vespertina es un ritual de Trondheim.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nidelva+riverside+Trondheim"
+        },
+        {
+          "name": "Estenstadmarka",
+          "address": "Estenstadmarka, 7045 Trondheim",
+          "neighborhood": "East",
+          "photo": "/images/city-places/trondheim-parks-estenstadmarka.jpg",
+          "size": "Approx. 32 km²",
+          "leashRule": "On-leash April 1 - August 19; off-leash rest of year",
+          "leashRuleFr": "En laisse 1er avril - 19 août ; sans laisse le reste de l'année",
+          "leashRuleEs": "Con correa 1 abril - 19 agosto; sin correa el resto del año",
+          "description": "The eastern counterpart to Bymarka — 32 km² of pine forest with multiple small lakes, 80 km of marked hiking and ski trails, the Jonsvatnet drinking-water lake. Direct walk-in from central Trondheim via the Nidelva path.",
+          "descriptionFr": "Le pendant oriental de Bymarka — 32 km² de forêt de pins avec plusieurs petits lacs, 80 km de sentiers de randonnée et de ski balisés, le lac d'eau potable Jonsvatnet. Accès à pied direct depuis le centre de Trondheim par le chemin de la Nidelva.",
+          "descriptionEs": "La contraparte oriental de Bymarka — 32 km² de bosque de pinos con varios lagos pequeños, 80 km de senderos balizados de senderismo y esquí, el lago de agua potable Jonsvatnet. Acceso a pie directo desde el centro de Trondheim por el camino del Nidelva.",
+          "amenities": [
+            "Marked trails",
+            "Free parking",
+            "Picnic spots",
+            "Class A drinking water lake"
+          ],
+          "amenitiesFr": [
+            "Sentiers balisés",
+            "Parking gratuit",
+            "Spots pique-nique",
+            "Lac en eau potable Classe A"
+          ],
+          "amenitiesEs": [
+            "Senderos señalizados",
+            "Parking gratis",
+            "Spots de picnic",
+            "Lago con agua potable Clase A"
+          ],
+          "tip": "Jonsvatnet lake is the city's drinking water source — dogs must stay 50 m from the water (signposted). For dog-swimming, head to Lianvatnet in Bymarka instead.",
+          "tipFr": "Le lac Jonsvatnet est la source d'eau potable de la ville — les chiens doivent rester à 50 m de l'eau (signalé). Pour la baignade canine, allez plutôt à Lianvatnet dans Bymarka.",
+          "tipEs": "El lago Jonsvatnet es la fuente de agua potable de la ciudad — los perros deben quedarse a 50 m del agua (señalizado). Para baño canino, ve mejor a Lianvatnet en Bymarka.",
+          "googleMapsUrl": "https://maps.google.com/?q=Estenstadmarka+Trondheim"
+        }
+      ],
+      "tipsEn": [
+        "Norwegian law requires dogs on a leash from April 1 to August 19 to protect ground-nesting birds and wildlife — applies to all forests, parks and public areas including Bymarka and Estenstadmarka.",
+        "Trondheim has 6 fenced municipal hundepark (off-leash zones) — full map at trondheim.kommune.no/hund.",
+        "Always carry poo bags: city fine for fouling is 1 500 NOK (135 €), strictly enforced by municipal wardens."
+      ],
+      "tipsFr": [
+        "La loi norvégienne exige la laisse du 1er avril au 19 août pour protéger les oiseaux nicheurs au sol et la faune — s'applique à toutes les forêts, parcs et zones publiques dont Bymarka et Estenstadmarka.",
+        "Trondheim a 6 hundepark municipaux clôturés (zones sans laisse) — carte complète sur trondheim.kommune.no/hund.",
+        "Ayez toujours des sacs : amende municipale pour déjections de 1 500 NOK (135 €), strictement contrôlée par les agents municipaux."
+      ],
+      "tipsEs": [
+        "La ley noruega exige correa del 1 de abril al 19 de agosto para proteger las aves nidificantes y la fauna — aplica a todos los bosques, parques y zonas públicas incluyendo Bymarka y Estenstadmarka.",
+        "Trondheim tiene 6 hundepark municipales vallados (zonas sin correa) — mapa completo en trondheim.kommune.no/hund.",
+        "Lleva siempre bolsas: multa municipal por excrementos de 1 500 NOK (135 €), estrictamente controlada por los agentes municipales."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed off-leash in Trondheim?",
+          "a": "Off-leash is permitted year-round only in the 6 fenced municipal hundepark. Outside these, Norwegian law requires dogs on a leash from April 1 to August 19; September to March allows off-leash on most Bymarka and Estenstadmarka rural forest trails."
+        },
+        {
+          "q": "Can dogs swim in Trondheim lakes?",
+          "a": "Yes at the Lianvatnet lake in Bymarka and most small forest lakes (off-leash season September-March). Jonsvatnet is the city's drinking water source — dogs must stay 50 m from the water there."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse à Trondheim ?",
+          "a": "Sans laisse autorisé toute l'année uniquement dans les 6 hundepark municipaux clôturés. En dehors, la loi norvégienne exige la laisse du 1er avril au 19 août ; de septembre à mars, sans laisse autorisé sur la plupart des sentiers forestiers de Bymarka et Estenstadmarka."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans les lacs de Trondheim ?",
+          "a": "Oui au lac Lianvatnet dans Bymarka et la plupart des petits lacs forestiers (saison sans laisse septembre-mars). Jonsvatnet est la source d'eau potable de la ville — les chiens doivent y rester à 50 m de l'eau."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir sin correa en Trondheim?",
+          "a": "Sin correa permitido todo el año solo en los 6 hundepark municipales vallados. Fuera de ellos, la ley noruega exige correa del 1 de abril al 19 de agosto; de septiembre a marzo permite sin correa en la mayoría de senderos forestales de Bymarka y Estenstadmarka."
+        },
+        {
+          "q": "¿Pueden los perros nadar en los lagos de Trondheim?",
+          "a": "Sí en el lago Lianvatnet en Bymarka y la mayoría de pequeños lagos forestales (temporada sin correa septiembre-marzo). Jonsvatnet es la fuente de agua potable de la ciudad — los perros deben quedarse a 50 m del agua allí."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Trondheim",
+      "titleFr": "Transports pet-friendly à Trondheim",
+      "titleEs": "Transporte pet-friendly en Trondheim",
+      "introEn": "Trondheim's compact Midtbyen (city centre) is walkable end-to-end in 20 minutes. For day trips, the AtB city buses, Vy regional trains and the iconic Trondheim Tramway (Gråkallbanen) to Bymarka all accept leashed dogs.",
+      "introFr": "Le Midtbyen compact de Trondheim se traverse à pied en 20 minutes. Pour les excursions, les bus urbains AtB, les trains régionaux Vy et l'iconique tramway de Trondheim (Gråkallbanen) vers Bymarka acceptent tous les chiens en laisse.",
+      "introEs": "El compacto Midtbyen de Trondheim se cruza a pie en 20 minutos. Para excursiones, los autobuses urbanos AtB, los trenes regionales Vy y el icónico tranvía de Trondheim (Gråkallbanen) hacia Bymarka admiten todos perros con correa.",
+      "places": [
+        {
+          "name": "AtB City Buses",
+          "type": "City buses",
+          "photo": "/images/city-places/trondheim-transport-atb-city-buses.jpg",
+          "website": "https://www.atb.no/en/travelling-with-pets",
+          "description": "AtB operates Trondheim's bus network including bus 10 to Bymarka (Skistua) and bus 3 to the Munkholmen ferry. Leashed dogs with muzzle travel free; no ticket needed for the dog. Among the most generous rules in Europe.",
+          "descriptionFr": "AtB exploite le réseau de bus de Trondheim dont le bus 10 vers Bymarka (Skistua) et le bus 3 vers le ferry de Munkholmen. Les chiens en laisse avec muselière voyagent gratuitement, sans billet pour le chien. Parmi les règles les plus généreuses d'Europe.",
+          "descriptionEs": "AtB opera la red de buses de Trondheim incluyendo el bus 10 a Bymarka (Skistua) y el bus 3 al ferry de Munkholmen. Los perros con correa y bozal viajan gratis, sin billete para el perro. De las normas más generosas de Europa.",
+          "petPolicy": "Free with leash + muzzle",
+          "petPolicyFr": "Gratuit avec laisse + muselière",
+          "petPolicyEs": "Gratis con correa + bozal",
+          "tip": "Norwegian buses require a muzzle for medium and large dogs (small dogs in carrier exempt) — carry a soft muzzle, sold in any Norwegian pet shop for 200-300 NOK.",
+          "tipFr": "Les bus norvégiens exigent une muselière pour chiens moyens et grands (petits chiens en cage dispensés) — gardez une muselière souple, vendue dans toute animalerie norvégienne à 200-300 NOK.",
+          "tipEs": "Los buses noruegos exigen bozal para perros medianos y grandes (perros pequeños en transportín exentos) — lleva un bozal blando, vendido en cualquier tienda de mascotas noruega a 200-300 NOK.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trondheim+Sentralstasjon"
+        },
+        {
+          "name": "Gråkallbanen Tram",
+          "type": "Heritage tramway",
+          "photo": "/images/city-places/trondheim-transport-grakallbanen-tram.jpg",
+          "website": "https://www.boreal.no/grakallbanen",
+          "description": "The world's northernmost tramway and Norway's only surviving tram line — Gråkallbanen runs from the centre to Lian in Bymarka (8.8 km, 22 min). Leashed dogs accepted free of charge in vintage 1955 wooden carriages, muzzle required for medium/large dogs.",
+          "descriptionFr": "Le tramway le plus septentrional du monde et la seule ligne de tram norvégienne survivante — Gråkallbanen circule depuis le centre jusqu'à Lian dans Bymarka (8,8 km, 22 min). Chiens en laisse acceptés gratuitement dans les voitures vintage en bois de 1955, muselière exigée pour chiens moyens/grands.",
+          "descriptionEs": "El tranvía más septentrional del mundo y la única línea de tranvía noruega superviviente — Gråkallbanen circula desde el centro hasta Lian en Bymarka (8,8 km, 22 min). Perros con correa admitidos gratis en vagones vintage de madera de 1955, bozal exigido para perros medianos/grandes.",
+          "petPolicy": "Free with muzzle for medium/large dogs",
+          "petPolicyFr": "Gratuit avec muselière pour chiens moyens/grands",
+          "petPolicyEs": "Gratis con bozal para perros medianos/grandes",
+          "tip": "The Gråkallbanen is one of the most photogenic dog-and-tram experiences in Europe — the 1955 wooden carriages and Bymarka views make it iconic.",
+          "tipFr": "Le Gråkallbanen est l'une des expériences chien-et-tram les plus photogéniques d'Europe — les voitures en bois de 1955 et les vues de Bymarka en font une icône.",
+          "tipEs": "El Gråkallbanen es una de las experiencias perro-y-tranvía más fotogénicas de Europa — los vagones de madera de 1955 y las vistas de Bymarka lo hacen icónico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Grakallbanen+Trondheim"
+        },
+        {
+          "name": "Vy Regional Trains",
+          "type": "Mainline rail",
+          "photo": "/images/city-places/trondheim-transport-vy-regional-trains.jpg",
+          "website": "https://www.vy.no/en/at-the-station/luggage-and-pets",
+          "description": "Vy operates direct trains from Trondheim to Oslo (6h30 on the iconic Dovrebanen line through the mountains), Bodø (10h Nordlandsbanen) and Stockholm (12h with one change). Leashed dogs travel free in dedicated dog-friendly carriages; no muzzle required.",
+          "descriptionFr": "Vy exploite des trains directs depuis Trondheim vers Oslo (6h30 sur l'iconique ligne Dovrebanen à travers les montagnes), Bodø (10h Nordlandsbanen) et Stockholm (12h avec une correspondance). Les chiens en laisse voyagent gratuitement dans des voitures dog-friendly dédiées ; sans muselière exigée.",
+          "descriptionEs": "Vy opera trenes directos desde Trondheim a Oslo (6h30 en la icónica línea Dovrebanen a través de las montañas), Bodø (10h Nordlandsbanen) y Estocolmo (12h con un transbordo). Los perros con correa viajan gratis en vagones dog-friendly dedicados; sin bozal exigido.",
+          "petPolicy": "Free in dog-carriage; no muzzle",
+          "petPolicyFr": "Gratuit en voiture canine ; sans muselière",
+          "petPolicyEs": "Gratis en vagón canino; sin bozal",
+          "tip": "The Trondheim-Oslo Dovrebanen at 6h30 is among the world's most scenic rail journeys — book a window seat in a pet-allowed carriage for the Dovre mountain crossing.",
+          "tipFr": "Le Trondheim-Oslo Dovrebanen en 6h30 fait partie des plus beaux trajets ferroviaires au monde — réservez un siège fenêtre en voiture pet-allowed pour la traversée des montagnes du Dovre.",
+          "tipEs": "El Trondheim-Oslo Dovrebanen en 6h30 es uno de los recorridos ferroviarios más escénicos del mundo — reserva asiento de ventana en vagón pet-allowed para el cruce de las montañas de Dovre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trondheim+stasjon"
+        }
+      ],
+      "tipsEn": [
+        "Norway is one of the most dog-friendly transport markets in Europe — AtB buses/Gråkallbanen tram and Vy trains accept leashed dogs free, with muzzle for medium/large dogs.",
+        "Trondheim Værnes Airport (TRD) is 30 km north-east, accessible by Værnes Ekspressen bus (45 min) or train (35 min) — both dog-friendly. SAS, Norwegian and Wizz Air all accept in-cabin small dogs.",
+        "Renting a car is recommended for the Trondheimsfjord (1h drives) and Tautra island (50 min) — public transport doesn't reach all the smaller fjord communities."
+      ],
+      "tipsFr": [
+        "La Norvège est l'un des marchés de transport les plus dog-friendly d'Europe — les bus AtB / tram Gråkallbanen et les trains Vy acceptent les chiens en laisse gratuitement, avec muselière pour chiens moyens/grands.",
+        "L'aéroport de Trondheim Værnes (TRD) est à 30 km au nord-est, accessible en bus Værnes Ekspressen (45 min) ou train (35 min) — tous deux dog-friendly. SAS, Norwegian et Wizz Air acceptent tous les petits chiens en cabine.",
+        "Louer une voiture est recommandé pour le Trondheimsfjord (1h de route) et l'île de Tautra (50 min) — les transports publics ne desservent pas toutes les petites communautés du fjord."
+      ],
+      "tipsEs": [
+        "Noruega es uno de los mercados de transporte más dog-friendly de Europa — los buses AtB/tranvía Gråkallbanen y los trenes Vy admiten perros con correa gratis, con bozal para perros medianos/grandes.",
+        "El aeropuerto de Trondheim Værnes (TRD) está a 30 km al noreste, accesible en bus Værnes Ekspressen (45 min) o tren (35 min) — ambos dog-friendly. SAS, Norwegian y Wizz Air admiten todos perros pequeños en cabina.",
+        "Alquilar coche es recomendable para el Trondheimsfjord (1h de carretera) y la isla de Tautra (50 min) — el transporte público no llega a todas las pequeñas comunidades del fiordo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a ticket for my dog on Trondheim buses?",
+          "a": "No. Leashed dogs travel free on AtB buses and the Gråkallbanen tram, no ticket required. Medium and large dogs need a muzzle on board (small dogs in carrier exempt)."
+        },
+        {
+          "q": "Is the Trondheim-Oslo train dog-friendly?",
+          "a": "Yes — Vy operates the iconic 6h30 Dovrebanen with dedicated pet-allowed carriages where leashed dogs travel free, no muzzle required. One of Europe's most scenic dog-friendly rail journeys, through the Dovre mountains."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet pour mon chien dans les bus de Trondheim ?",
+          "a": "Non. Les chiens en laisse voyagent gratuitement sur les bus AtB et le tram Gråkallbanen, sans billet. Les chiens moyens et grands exigent une muselière à bord (petits chiens en cage dispensés)."
+        },
+        {
+          "q": "Le train Trondheim-Oslo est-il dog-friendly ?",
+          "a": "Oui — Vy exploite l'iconique Dovrebanen de 6h30 avec des voitures pet-allowed dédiées où les chiens en laisse voyagent gratuitement, sans muselière exigée. L'un des plus beaux trajets ferroviaires dog-friendly d'Europe, à travers les montagnes du Dovre."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito billete para mi perro en los buses de Trondheim?",
+          "a": "No. Los perros con correa viajan gratis en los buses AtB y el tranvía Gråkallbanen, sin billete. Los perros medianos y grandes requieren bozal a bordo (perros pequeños en transportín exentos)."
+        },
+        {
+          "q": "¿Es dog-friendly el tren Trondheim-Oslo?",
+          "a": "Sí — Vy opera el icónico Dovrebanen de 6h30 con vagones pet-allowed dedicados donde los perros con correa viajan gratis, sin bozal exigido. Uno de los recorridos ferroviarios dog-friendly más escénicos de Europa, a través de las montañas de Dovre."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches & Fjord Spots Near Trondheim",
+      "titleFr": "Plages et spots de fjord dog-friendly près de Trondheim",
+      "titleEs": "Playas y spots de fiordo dog-friendly cerca de Trondheim",
+      "introEn": "Trondheim sits on the Trondheimsfjord — the third-longest fjord in Norway. Several rural beach spots offer dog-friendly access year-round; Munkholmen island ferry from the city centre is a unique summer day trip.",
+      "introFr": "Trondheim est sur le Trondheimsfjord — le troisième plus long fjord de Norvège. Plusieurs spots de plage rurale offrent un accès canin toute l'année ; le ferry pour l'île Munkholmen depuis le centre est une excursion estivale unique.",
+      "introEs": "Trondheim está en el Trondheimsfjord — el tercer fiordo más largo de Noruega. Varios spots de playa rural ofrecen acceso canino todo el año; el ferry a la isla Munkholmen desde el centro es una excursión estival única.",
+      "places": [
+        {
+          "name": "Munkholmen Island",
+          "address": "Munkholmen, Trondheimsfjord",
+          "photo": "/images/city-places/trondheim-beaches-munkholmen-island.jpg",
+          "leashRule": "On-leash April 1 - August 19; off-leash rest of year",
+          "leashRuleFr": "En laisse 1er avril - 19 août ; sans laisse le reste de l'année",
+          "leashRuleEs": "Con correa 1 abril - 19 agosto; sin correa el resto del año",
+          "description": "A small fjord island 1.5 km from the Trondheim quays — former 11th-century Benedictine monastery and 17th-century prison-fortress. Reachable by Munken ferry (10 min, May-September) from Ravnkloa quay. Dog-friendly outdoor with leashed dogs.",
+          "descriptionFr": "Petite île de fjord à 1,5 km des quais de Trondheim — ancien monastère bénédictin du XIe siècle et forteresse-prison du XVIIe. Accessible par ferry Munken (10 min, mai-septembre) depuis le quai de Ravnkloa. Dog-friendly en extérieur avec chiens en laisse.",
+          "descriptionEs": "Pequeña isla de fiordo a 1,5 km de los muelles de Trondheim — antiguo monasterio benedictino del siglo XI y fortaleza-prisión del siglo XVII. Accesible por ferry Munken (10 min, mayo-septiembre) desde el muelle de Ravnkloa. Dog-friendly en exterior con perros con correa.",
+          "amenities": [
+            "Ferry access (May-Sep)",
+            "Summer café",
+            "Picnic spots",
+            "No facilities mid-island"
+          ],
+          "amenitiesFr": [
+            "Accès ferry (mai-sept)",
+            "Café d'été",
+            "Spots pique-nique",
+            "Pas d'aménités au milieu"
+          ],
+          "amenitiesEs": [
+            "Acceso por ferry (may-sep)",
+            "Café estival",
+            "Spots de picnic",
+            "Sin instalaciones al medio"
+          ],
+          "tip": "Last return ferry at 18:00 in summer — bring water and a picnic. Fjord water is cold (10-14 °C even in August), most dogs prefer the grassy meadow to swimming.",
+          "tipFr": "Dernier ferry retour à 18h en été — apportez eau et pique-nique. L'eau du fjord est froide (10-14 °C même en août), la plupart des chiens préfèrent la prairie à la baignade.",
+          "tipEs": "Último ferry de vuelta a las 18:00 en verano — lleva agua y picnic. El agua del fiordo está fría (10-14 °C incluso en agosto), la mayoría de los perros prefiere la pradera al baño.",
+          "googleMapsUrl": "https://maps.google.com/?q=Munkholmen+Trondheim"
+        },
+        {
+          "name": "Korsvika Beach",
+          "address": "Korsvika, 7053 Trondheim",
+          "photo": "/images/city-places/trondheim-beaches-korsvika-beach.jpg",
+          "leashRule": "On-leash April 1 - August 19; off-leash rest of year",
+          "leashRuleFr": "En laisse 1er avril - 19 août ; sans laisse le reste de l'année",
+          "leashRuleEs": "Con correa 1 abril - 19 agosto; sin correa el resto del año",
+          "description": "The closest sand beach to central Trondheim — a 300 m pebbly-sand cove north-east of the city, accessible by bus 5 in 15 min. Calm fjord shallows, popular with locals on summer evenings.",
+          "descriptionFr": "La plage de sable la plus proche du centre de Trondheim — crique de galets-sable de 300 m au nord-est de la ville, accessible en bus 5 en 15 min. Eaux calmes peu profondes du fjord, populaire chez les locaux les soirées d'été.",
+          "descriptionEs": "La playa de arena más cercana al centro de Trondheim — cala de guijarros-arena de 300 m al noreste de la ciudad, accesible en bus 5 en 15 min. Aguas tranquilas y poco profundas del fiordo, popular entre los locales las tardes de verano.",
+          "amenities": [
+            "Free parking",
+            "Public toilets (May-Sep)",
+            "Pebbly entry",
+            "Bus 5 access"
+          ],
+          "amenitiesFr": [
+            "Parking gratuit",
+            "Toilettes publiques (mai-sept)",
+            "Entrée galets",
+            "Accès bus 5"
+          ],
+          "amenitiesEs": [
+            "Parking gratis",
+            "Aseos públicos (may-sep)",
+            "Entrada guijarros",
+            "Acceso bus 5"
+          ],
+          "tip": "Walk south from Korsvika 1 km to Ladestien — the 14 km coastal cliff path with the iconic Trondheimsfjord views. Off-leash September-March.",
+          "tipFr": "Marchez sud depuis Korsvika sur 1 km jusqu'à Ladestien — le sentier côtier de 14 km avec les vues iconiques sur le Trondheimsfjord. Sans laisse septembre-mars.",
+          "tipEs": "Camina al sur desde Korsvika 1 km hasta Ladestien — el sendero costero de 14 km con vistas icónicas al Trondheimsfjord. Sin correa septiembre-marzo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Korsvika+Trondheim"
+        },
+        {
+          "name": "Lade Coastal Path (Ladestien)",
+          "address": "Ladestien, 7042 Trondheim",
+          "photo": "/images/city-places/trondheim-beaches-lade-coastal-path-ladestien.jpg",
+          "leashRule": "On-leash April 1 - August 19; off-leash rest of year",
+          "leashRuleFr": "En laisse 1er avril - 19 août ; sans laisse le reste de l'année",
+          "leashRuleEs": "Con correa 1 abril - 19 agosto; sin correa el resto del año",
+          "description": "The 14 km coastal cliff path around the Lade peninsula north of Trondheim — gravel-and-grass path along the Trondheimsfjord, several small pebbly beaches with rural access, the iconic dog-walk around the city. Bus 5 to Korsvika or Ringve at either end.",
+          "descriptionFr": "Le sentier côtier de 14 km autour de la péninsule de Lade au nord de Trondheim — chemin gravier-herbe le long du Trondheimsfjord, plusieurs petites plages de galets avec accès rural, la promenade canine iconique de la ville. Bus 5 jusqu'à Korsvika ou Ringve aux extrémités.",
+          "descriptionEs": "El sendero costero de 14 km alrededor de la península de Lade al norte de Trondheim — sendero grava-hierba a lo largo del Trondheimsfjord, varias pequeñas playas de guijarros con acceso rural, el paseo canino icónico de la ciudad. Bus 5 hasta Korsvika o Ringve en los extremos.",
+          "amenities": [
+            "Multiple bus access points",
+            "Picnic spots",
+            "Cliff viewpoints",
+            "No mid-path facilities"
+          ],
+          "amenitiesFr": [
+            "Multiples accès bus",
+            "Spots pique-nique",
+            "Belvédères falaises",
+            "Pas d'aménités à mi-chemin"
+          ],
+          "amenitiesEs": [
+            "Múltiples accesos en bus",
+            "Spots de picnic",
+            "Miradores de acantilados",
+            "Sin instalaciones a mitad de camino"
+          ],
+          "tip": "The full 14 km takes 4-5h with a dog at a leisurely pace — split into two segments using bus 5 at multiple stops along the path.",
+          "tipFr": "Les 14 km complets prennent 4-5h avec un chien à un rythme tranquille — divisez en deux segments en utilisant le bus 5 aux multiples arrêts le long du chemin.",
+          "tipEs": "Los 14 km completos llevan 4-5h con perro a paso tranquilo — divide en dos segmentos usando el bus 5 en las múltiples paradas a lo largo del camino.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ladestien+Trondheim"
+        }
+      ],
+      "tipsEn": [
+        "Norwegian beaches are dog-friendly year-round outside the April 1 - August 19 leash law — even in winter, dogs run free on most coastal pebble outside formal swim zones.",
+        "Trondheimsfjord water stays cold (10-14 °C even in peak summer) — most dogs prefer running on the pebble to swimming. The fjord is calmer than ocean, no waves to worry about.",
+        "Always carry water for the dog — Norwegian rural fjord paths have very few facilities and the salt air dehydrates fast."
+      ],
+      "tipsFr": [
+        "Les plages norvégiennes sont dog-friendly toute l'année hors loi laisse du 1er avril au 19 août — même en hiver, les chiens courent libres sur la plupart des galets côtiers hors zones de baignade formelles.",
+        "L'eau du Trondheimsfjord reste froide (10-14 °C même en plein été) — la plupart des chiens préfèrent courir sur les galets que nager. Le fjord est plus calme que l'océan, pas de vagues à craindre.",
+        "Emportez toujours de l'eau pour le chien — les sentiers ruraux du fjord ont très peu d'aménités et l'air salin déshydrate vite."
+      ],
+      "tipsEs": [
+        "Las playas noruegas son dog-friendly todo el año fuera de la ley de correa del 1 de abril al 19 de agosto — incluso en invierno, los perros corren libres en la mayoría de los guijarros costeros fuera de zonas de baño formales.",
+        "El agua del Trondheimsfjord se mantiene fría (10-14 °C incluso en pleno verano) — la mayoría de los perros prefiere correr en los guijarros que nadar. El fiordo es más tranquilo que el océano, sin olas que temer.",
+        "Lleva siempre agua para el perro — los senderos rurales del fiordo tienen muy pocas instalaciones y el aire salino deshidrata rápido."
+      ],
+      "faqsEn": [
+        {
+          "q": "How far is the nearest dog beach from Trondheim?",
+          "a": "15 min by bus 5 to Korsvika — the closest sand-pebble cove. The 14 km Ladestien coastal path starts here and winds along the Trondheimsfjord cliff. For a fjord-island experience, Munkholmen ferry (10 min from city centre, May-September)."
+        },
+        {
+          "q": "Can dogs swim in the Trondheimsfjord?",
+          "a": "Yes — fjord swimming at Korsvika, Ladestien beaches and Munkholmen is dog-friendly with leashed dogs (April-August leash law). Water reaches 10-14 °C in peak summer; most dogs prefer running on the pebble to swimming."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "À quelle distance la plage canine la plus proche de Trondheim ?",
+          "a": "15 min en bus 5 jusqu'à Korsvika — la crique sable-galets la plus proche. Le sentier côtier de 14 km Ladestien commence ici et longe la falaise du Trondheimsfjord. Pour une expérience d'île de fjord, ferry pour Munkholmen (10 min depuis le centre, mai-septembre)."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager dans le Trondheimsfjord ?",
+          "a": "Oui — la baignade dans le fjord à Korsvika, sur les plages de Ladestien et à Munkholmen est dog-friendly avec chiens en laisse (loi laisse avril-août). L'eau atteint 10-14 °C en plein été ; la plupart des chiens préfèrent courir sur les galets que nager."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿A qué distancia está la playa canina más cercana de Trondheim?",
+          "a": "15 min en bus 5 hasta Korsvika — la cala arena-guijarros más cercana. El sendero costero de 14 km Ladestien empieza aquí y bordea el acantilado del Trondheimsfjord. Para experiencia de isla de fiordo, ferry a Munkholmen (10 min desde el centro, mayo-septiembre)."
+        },
+        {
+          "q": "¿Pueden los perros nadar en el Trondheimsfjord?",
+          "a": "Sí — el baño en fiordo en Korsvika, las playas de Ladestien y Munkholmen es dog-friendly con perros con correa (ley de correa abril-agosto). El agua alcanza 10-14 °C en pleno verano; la mayoría de los perros prefiere correr en los guijarros que nadar."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Trondheim",
+      "titleFr": "Soins vétérinaires à Trondheim",
+      "titleEs": "Atención veterinaria en Trondheim",
+      "introEn": "Trondheim has solid day-time vet coverage and one regional 24h emergency clinic on the south outskirts. The Norwegian University of Life Sciences vet faculty in Oslo is the major referral centre 6h30 south.",
+      "introFr": "Trondheim dispose d'une bonne couverture vétérinaire en journée et d'une clinique d'urgences régionale 24h/24 en périphérie sud. La Faculté vétérinaire de la Norwegian University of Life Sciences à Oslo est le grand centre de référence à 6h30 au sud.",
+      "introEs": "Trondheim tiene buena cobertura veterinaria diurna y una clínica regional de urgencias 24h en las afueras del sur. La Facultad Veterinaria de la Norwegian University of Life Sciences en Oslo es el gran centro de referencia a 6h30 al sur.",
+      "places": [
+        {
+          "name": "Empet Trondheim Smådyrklinikk (24h)",
+          "address": "Heimdalsvegen 56, 7032 Trondheim",
+          "photo": "/images/city-places/trondheim-vets-empet-trondheim-smadyrklinikk-24h.jpg",
+          "phone": "+47 73 84 02 00",
+          "emergency24h": true,
+          "languages": [
+            "Norwegian",
+            "English"
+          ],
+          "website": "https://www.empet.no/trondheim/",
+          "description": "24h emergency veterinary clinic in Heimdal (south Trondheim), 8 km from the centre — full surgery, ICU, ultrasound, X-ray. The closest 24/7 vet for the central Norway region.",
+          "descriptionFr": "Clinique vétérinaire d'urgences 24h/24 à Heimdal (sud de Trondheim), à 8 km du centre — chirurgie complète, USI, échographie, radio. Le vétérinaire 24h/24 le plus proche pour la région du centre de la Norvège.",
+          "descriptionEs": "Clínica veterinaria de urgencias 24h en Heimdal (sur de Trondheim), a 8 km del centro — cirugía completa, UCI, ecografía, rayos X. El veterinario 24/7 más cercano para la región del centro de Noruega.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
+          "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
+          "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Empet+Trondheim+Heimdal"
+        },
+        {
+          "name": "AniCura Trondheim Smådyrklinikk",
+          "address": "Industriveien 13, 7080 Heimdal",
+          "photo": "/images/city-places/trondheim-vets-anicura-trondheim-smadyrklinikk.jpg",
+          "phone": "+47 73 96 13 00",
+          "emergency24h": false,
+          "languages": [
+            "Norwegian",
+            "English"
+          ],
+          "website": "https://www.anicura.no/dyreklinikker/trondheim/",
+          "description": "Modern day-time small-animal practice in Heimdal — general medicine, vaccinations, surgery, dentistry. After-hours calls divert to Empet 24h.",
+          "descriptionFr": "Cabinet moderne pour petits animaux à Heimdal — médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers Empet 24h.",
+          "descriptionEs": "Clínica moderna para pequeños animales en Heimdal — medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas a Empet 24h.",
+          "openingHours": "Mon-Fri 08:00-18:00, Sat 09:00-13:00",
+          "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
+          "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+        },
+        {
+          "name": "Trondheim Dyrehospital",
+          "address": "Tungasletta 2, 7047 Trondheim",
+          "photo": "/images/city-places/trondheim-vets-trondheim-dyrehospital.jpg",
+          "phone": "+47 73 51 32 22",
+          "emergency24h": false,
+          "languages": [
+            "Norwegian",
+            "English"
+          ],
+          "website": "https://www.trondheimdyrehospital.no/",
+          "description": "Day-time veterinary practice on Tungasletta near the Lade peninsula — general medicine, EU pet passport issuance, microchipping, behavioural consultations.",
+          "descriptionFr": "Cabinet vétérinaire de jour sur Tungasletta près de la péninsule de Lade — médecine générale, délivrance de passeport européen, puce, consultations comportementales.",
+          "descriptionEs": "Consulta veterinaria diurna en Tungasletta cerca de la península de Lade — medicina general, expedición de pasaporte europeo, microchip, consultas conductuales.",
+          "openingHours": "Mon-Fri 08:30-18:00, Sat 09:00-12:00",
+          "tip": "Useful for issuing/updating an EU pet passport mid-trip — Dyrehospital charges around 600 NOK (55 €) for a passport, 700 NOK (65 €) for a microchip.",
+          "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Dyrehospital facture environ 600 NOK (55 €) pour un passeport, 700 NOK (65 €) pour une puce.",
+          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Dyrehospital cobra unos 600 NOK (55 €) por pasaporte, 700 NOK (65 €) por microchip."
+        }
+      ],
+      "tipsEn": [
+        "Norway is in the Schengen but NOT in the EU — entering Norway from the EU requires a tapeworm (echinococcosis) treatment administered 24-120h before arrival, plus the standard EU pet passport rules.",
+        "Trondheim central vets do NOT do 24h emergency — for nights and weekends go directly to Empet in Heimdal (8 km south, 15 min by car).",
+        "Norwegian vet costs are 30-50% higher than EU average — a basic consultation runs 800-1200 NOK (70-110 €)."
+      ],
+      "tipsFr": [
+        "La Norvège est dans Schengen mais PAS dans l'UE — entrer en Norvège depuis l'UE exige un traitement contre le ténia (echinococcose) administré 24-120h avant l'arrivée, plus les règles passeport européen standard.",
+        "Les vétérinaires du centre de Trondheim ne font PAS l'urgence 24h/24 — la nuit et le week-end, allez directement chez Empet à Heimdal (8 km au sud, 15 min en voiture).",
+        "Les frais vétérinaires norvégiens sont 30-50 % au-dessus de la moyenne UE — une consultation basique coûte 800-1200 NOK (70-110 €)."
+      ],
+      "tipsEs": [
+        "Noruega está en Schengen pero NO en la UE — entrar en Noruega desde la UE exige tratamiento contra la tenia (equinococosis) administrado 24-120h antes de la llegada, más las normas estándar del pasaporte europeo.",
+        "Los veterinarios del centro de Trondheim NO hacen urgencias 24h — por las noches y fines de semana ve directamente a Empet en Heimdal (8 km al sur, 15 min en coche).",
+        "Los costes veterinarios noruegos son un 30-50 % superiores a la media UE — una consulta básica cuesta 800-1200 NOK (70-110 €)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the 24h emergency vet near Trondheim?",
+          "a": "Empet Trondheim Smådyrklinikk at Heimdalsvegen 56 in Heimdal, +47 73 84 02 00 — 8 km south, 15 min by car. Call ahead for triage."
+        },
+        {
+          "q": "Do I need extra paperwork to enter Norway with a dog?",
+          "a": "Yes — beyond the standard EU pet passport (rabies vaccination + ISO microchip), Norway requires a tapeworm (echinococcosis) treatment administered by a vet 24-120h before arrival. Same as Finland, Ireland and Malta."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire d'urgence 24h/24 près de Trondheim ?",
+          "a": "Empet Trondheim Smådyrklinikk, Heimdalsvegen 56 à Heimdal, +47 73 84 02 00 — 8 km au sud, 15 min en voiture. Appelez avant pour triage."
+        },
+        {
+          "q": "Faut-il une paperasse supplémentaire pour entrer en Norvège avec un chien ?",
+          "a": "Oui — au-delà du passeport européen standard (vaccin antirabique + puce ISO), la Norvège exige un traitement contre le ténia (echinococcose) administré par un vétérinaire 24-120h avant l'arrivée. Comme la Finlande, l'Irlande et Malte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24h cerca de Trondheim?",
+          "a": "Empet Trondheim Smådyrklinikk, Heimdalsvegen 56 en Heimdal, +47 73 84 02 00 — 8 km al sur, 15 min en coche. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito papeleo extra para entrar a Noruega con un perro?",
+          "a": "Sí — además del pasaporte europeo estándar (vacuna antirrábica + microchip ISO), Noruega exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada. Igual que Finlandia, Irlanda y Malta."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travelling to Trondheim with a Dog: Practical Tips",
+      "titleFr": "Voyager à Trondheim avec un chien : conseils pratiques",
+      "titleEs": "Viajar a Trondheim con perro: consejos prácticos",
+      "introEn": "Trondheim — Norway's third city and the medieval capital — combines the UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, dog-friendly transport (free buses, free trains, the world's northernmost tramway), and 80 km² of Bymarka urban forest.",
+      "introFr": "Trondheim — la troisième ville de Norvège et capitale médiévale — combine la cathédrale Nidaros classée UNESCO (la cathédrale gothique la plus septentrionale du monde), le quartier en bois coloré de Bakklandet, des transports dog-friendly (bus, trains et le tramway le plus septentrional du monde gratuits), et 80 km² de forêt urbaine de Bymarka.",
+      "introEs": "Trondheim — la tercera ciudad de Noruega y capital medieval — combina la catedral de Nidaros clasificada UNESCO (la catedral gótica más septentrional del mundo), el colorido barrio de madera de Bakklandet, transporte dog-friendly (buses, trenes y el tranvía más septentrional del mundo gratis), y 80 km² de bosque urbano de Bymarka.",
+      "places": [
+        {
+          "name": "Best season for visiting Trondheim with a dog",
+          "photo": "/images/city-places/trondheim-tips-best-season-for-visiting-trondheim-with-a-dog.jpg",
+          "description": "May-September are ideal for outdoor activity — average highs 13-18 °C, the Bymarka trails are dry, the Munkholmen ferry runs, and the Norwegian midsummer light extends usable daylight to 23:00. October-April are colder (-5 to +8 °C) but Trondheim has remarkable midwinter snow conditions for skijoring with a dog (December-March).",
+          "descriptionFr": "Mai-septembre sont idéaux pour l'activité extérieure — maxima moyens 13-18 °C, les sentiers de Bymarka sont secs, le ferry pour Munkholmen circule, et la lumière estivale norvégienne prolonge le jour utile jusqu'à 23h. Octobre-avril sont plus froids (-5 à +8 °C) mais Trondheim offre des conditions de neige remarquables pour le skijoring avec un chien (décembre-mars).",
+          "descriptionEs": "Mayo-septiembre son ideales para la actividad al aire libre — máximas medias 13-18 °C, los senderos de Bymarka están secos, el ferry a Munkholmen opera, y la luz estival noruega extiende el día útil hasta las 23:00. Octubre-abril son más fríos (-5 a +8 °C) pero Trondheim ofrece condiciones de nieve notables para el skijoring con perro (diciembre-marzo)."
+        },
+        {
+          "name": "Norwegian entry & tapeworm rules",
+          "photo": "/images/city-places/trondheim-tips-paperwork.jpg",
+          "description": "Norway is in Schengen but NOT in the EU. Beyond the EU pet passport, Norway requires a tapeworm (echinococcosis) treatment administered by a vet 24-120h before arrival — same as Finland, Ireland and Malta. Documented in the pet passport. Skip this and entry will be refused at Trondheim Værnes Airport (TRD) or by ferry/road.",
+          "descriptionFr": "La Norvège est dans Schengen mais PAS dans l'UE. Au-delà du passeport européen, la Norvège exige un traitement contre le ténia (echinococcose) administré par un vétérinaire 24-120h avant l'arrivée — comme la Finlande, l'Irlande et Malte. Documenté dans le passeport. Si vous l'oubliez, l'entrée sera refusée à l'aéroport de Trondheim Værnes (TRD) ou par ferry/route.",
+          "descriptionEs": "Noruega está en Schengen pero NO en la UE. Además del pasaporte europeo, Noruega exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada — igual que Finlandia, Irlanda y Malta. Documentado en el pasaporte. Si lo omites, la entrada será rechazada en el aeropuerto de Trondheim Værnes (TRD) o por ferry/carretera."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/trondheim-tips-currency-cost.jpg",
+          "description": "Norway uses the Norwegian krone (NOK) — not the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal, cash is rare. Pet supplements at Trondheim hotels average 200-400 NOK/night (18-36 €) — among the highest in Europe but offset by the no-extra-cost dog transport on buses, trams and trains.",
+          "descriptionFr": "La Norvège utilise la couronne norvégienne (NOK) — pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel, les espèces sont rares. Les suppléments animaux dans les hôtels de Trondheim tournent autour de 200-400 NOK/nuit (18-36 €) — parmi les plus hauts d'Europe mais compensés par le transport canin sans frais supplémentaires sur bus, trams et trains.",
+          "descriptionEs": "Noruega usa la corona noruega (NOK) — no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, el efectivo es raro. Los suplementos para mascotas en hoteles de Trondheim rondan 200-400 NOK/noche (18-36 €) — de los más altos de Europa pero compensados por el transporte canino sin coste extra en buses, tranvías y trenes."
+        }
+      ],
+      "tipsEn": [
+        "Trondheim is one of Europe's most dog-friendly cities for transport — free buses, free trains, free heritage tram (Gråkallbanen), no muzzle for small dogs, no ticket required for the dog.",
+        "Pair Trondheim with day trips: Munkholmen island ferry (10 min in summer), Bymarka forest (25 min by tram), the iconic Atlantic Road (3h drive west).",
+        "The Gråkallbanen heritage tram to Bymarka is one of Europe's most photogenic dog-and-transport experiences — 1955 wooden carriages, fjord-and-forest views."
+      ],
+      "tipsFr": [
+        "Trondheim est l'une des villes les plus dog-friendly d'Europe pour les transports — bus, trains et tramway historique (Gråkallbanen) gratuits, sans muselière pour petits chiens, sans billet pour le chien.",
+        "Combinez Trondheim avec des excursions : ferry pour l'île Munkholmen (10 min en été), forêt de Bymarka (25 min en tram), iconique Route de l'Atlantique (3h en voiture à l'ouest).",
+        "Le tramway historique Gråkallbanen vers Bymarka est l'une des expériences chien-et-transport les plus photogéniques d'Europe — voitures en bois de 1955, vues fjord-et-forêt."
+      ],
+      "tipsEs": [
+        "Trondheim es una de las ciudades más dog-friendly de Europa para el transporte — buses, trenes y tranvía histórico (Gråkallbanen) gratis, sin bozal para perros pequeños, sin billete para el perro.",
+        "Combina Trondheim con excursiones: ferry a la isla Munkholmen (10 min en verano), bosque de Bymarka (25 min en tranvía), icónica Carretera del Atlántico (3h en coche al oeste).",
+        "El tranvía histórico Gråkallbanen hacia Bymarka es una de las experiencias perro-y-transporte más fotogénicas de Europa — vagones de madera de 1955, vistas de fiordo-y-bosque."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Trondheim good for a dog-friendly weekend?",
+          "a": "Yes — Trondheim combines the UNESCO Nidaros Cathedral (world's northernmost Gothic cathedral), Bakklandet wooden quarter, free dog transport on buses/trams/trains, the iconic Gråkallbanen tram to Bymarka with 80 km² of off-leash forest, and the Trondheimsfjord. One of Europe's most dog-tolerant cities."
+        },
+        {
+          "q": "How does Trondheim compare to Bergen for dog travel?",
+          "a": "Trondheim is smaller, calmer, with vastly more accessible off-leash forest (Bymarka 80 km² + Estenstadmarka 32 km² right at the city edge). Bergen has the UNESCO Bryggen district and direct ferries to the western fjords. Trondheim wins for forest + medieval history; Bergen for variety and Atlantic fjord access."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Trondheim est-elle bien pour un week-end dog-friendly ?",
+          "a": "Oui — Trondheim combine la cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), le quartier en bois de Bakklandet, le transport canin gratuit (bus/trams/trains), l'iconique tram Gråkallbanen vers Bymarka avec 80 km² de forêt sans laisse, et le Trondheimsfjord. L'une des villes les plus dog-tolérantes d'Europe."
+        },
+        {
+          "q": "Comment Trondheim se compare-t-elle à Bergen pour le voyage canin ?",
+          "a": "Trondheim est plus petite, plus calme, avec une forêt sans laisse bien plus accessible (Bymarka 80 km² + Estenstadmarka 32 km² aux portes de la ville). Bergen a le quartier UNESCO de Bryggen et des ferries directs vers les fjords occidentaux. Trondheim gagne pour la forêt + histoire médiévale ; Bergen pour la variété et l'accès aux fjords atlantiques."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Trondheim es buena para un fin de semana dog-friendly?",
+          "a": "Sí — Trondheim combina la catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), el barrio de madera de Bakklandet, transporte canino gratis (buses/tranvías/trenes), el icónico tranvía Gråkallbanen hacia Bymarka con 80 km² de bosque sin correa, y el Trondheimsfjord. Una de las ciudades más dog-tolerantes de Europa."
+        },
+        {
+          "q": "¿Cómo se compara Trondheim con Bergen para viajes caninos?",
+          "a": "Trondheim es más pequeña, más tranquila, con un bosque sin correa mucho más accesible (Bymarka 80 km² + Estenstadmarka 32 km² a las puertas de la ciudad). Bergen tiene el barrio UNESCO de Bryggen y ferries directos a los fiordos occidentales. Trondheim gana por bosque + historia medieval; Bergen por variedad y acceso a fiordos atlánticos."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Trondheim",
+      "titleFr": "Attractions pet-friendly à Trondheim",
+      "titleEs": "Atracciones pet-friendly en Trondheim",
+      "introEn": "Most of Trondheim's signature outdoor sights are dog-friendly — the Nidaros Cathedral exterior and gardens, the Old Town Bridge (Gamle Bybro), Bakklandet wooden quarter, Kristiansten Fortress and Munkholmen island all welcome leashed dogs free of charge.",
+      "introFr": "La plupart des sites extérieurs signatures de Trondheim sont dog-friendly — l'extérieur et les jardins de la cathédrale Nidaros, le Vieux Pont (Gamle Bybro), le quartier en bois de Bakklandet, la forteresse de Kristiansten et l'île Munkholmen accueillent tous les chiens en laisse gratuitement.",
+      "introEs": "La mayoría de los lugares exteriores emblemáticos de Trondheim son dog-friendly — el exterior y los jardines de la catedral de Nidaros, el Puente Viejo (Gamle Bybro), el barrio de madera de Bakklandet, la fortaleza de Kristiansten y la isla Munkholmen admiten todos perros con correa gratis.",
+      "places": [
+        {
+          "name": "Nidaros Cathedral (Exterior & Gardens)",
+          "address": "Bispegata 11, 7012 Trondheim",
+          "photo": "/images/city-places/trondheim-attractions-nidaros-cathedral-exterior-gardens.jpg",
+          "petFriendly": true,
+          "description": "The world's northernmost Gothic cathedral and Norway's national shrine — built from 1070 over the tomb of St Olav, UNESCO-protected. The exterior, surrounding cemetery gardens and the Erkebispegården palace square are dog-friendly with leashed dogs free of charge. Interior admits assistance dogs only.",
+          "descriptionFr": "La cathédrale gothique la plus septentrionale du monde et le sanctuaire national norvégien — construite depuis 1070 sur la tombe de Saint Olav, protégée UNESCO. L'extérieur, les jardins du cimetière environnant et la place du palais Erkebispegården sont dog-friendly avec chiens en laisse gratuits. L'intérieur n'admet que les chiens d'assistance.",
+          "descriptionEs": "La catedral gótica más septentrional del mundo y el santuario nacional noruego — construida desde 1070 sobre la tumba de San Olav, protegida UNESCO. El exterior, los jardines del cementerio circundante y la plaza del palacio Erkebispegården son dog-friendly con perros con correa gratis. El interior solo admite perros de asistencia.",
+          "petPolicy": "Exterior gardens free; interior assistance only",
+          "petPolicyFr": "Jardins extérieurs gratuits ; intérieur chiens d'assistance uniquement",
+          "petPolicyEs": "Jardines exteriores gratis; interior solo perros de asistencia",
+          "openingHours": "Exterior 24/7; interior 09:00-16:00",
+          "tip": "Sunset views of the cathedral's west facade from across the Nidelva (Gamle Bybro) are the iconic Trondheim dog-photo angle — best 21:00-22:00 in summer.",
+          "tipFr": "La vue au coucher de soleil sur la façade ouest de la cathédrale depuis l'autre rive de la Nidelva (Gamle Bybro) est l'angle photo canin iconique de Trondheim — au mieux 21h-22h en été.",
+          "tipEs": "La vista al atardecer de la fachada oeste de la catedral desde la otra orilla del Nidelva (Gamle Bybro) es el ángulo de foto canino icónico de Trondheim — mejor 21:00-22:00 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nidaros+Cathedral"
+        },
+        {
+          "name": "Gamle Bybro (Old Town Bridge)",
+          "address": "Gamle Bybro, 7014 Trondheim",
+          "photo": "/images/city-places/trondheim-attractions-gamle-bybro-old-town-bridge.jpg",
+          "petFriendly": true,
+          "description": "The 1681 wooden Old Town Bridge connecting the Midtbyen to Bakklandet — the iconic 'Gate of Happiness' (Lykkens Portal) at the east end. Open 24/7, dog-friendly with leashed dogs throughout. The most-photographed view in Trondheim.",
+          "descriptionFr": "Le Vieux Pont en bois de 1681 reliant le Midtbyen à Bakklandet — l'iconique « Porte du Bonheur » (Lykkens Portal) à l'extrémité est. Ouvert 24h/24, dog-friendly avec chiens en laisse partout. La vue la plus photographiée de Trondheim.",
+          "descriptionEs": "El Puente Viejo de madera de 1681 conectando el Midtbyen con Bakklandet — la icónica « Puerta de la Felicidad » (Lykkens Portal) en el extremo este. Abierto 24/7, dog-friendly con perros con correa en todas partes. La vista más fotografiada de Trondheim.",
+          "petPolicy": "Public bridge, leashed dogs free",
+          "petPolicyFr": "Pont public, chiens en laisse gratuits",
+          "petPolicyEs": "Puente público, perros con correa gratis",
+          "openingHours": "24/7",
+          "tip": "Stand at the east-end Lykkens Portal for the postcard view of the wooden warehouses lining the Nidelva — the iconic Trondheim Instagram angle.",
+          "tipFr": "Tenez-vous à la Lykkens Portal côté est pour la vue carte-postale des entrepôts en bois bordant la Nidelva — l'angle Instagram iconique de Trondheim.",
+          "tipEs": "Sitúate en la Lykkens Portal del lado este para la vista postal de los almacenes de madera que bordean el Nidelva — el ángulo Instagram icónico de Trondheim.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gamle+Bybro+Trondheim"
+        },
+        {
+          "name": "Kristiansten Fortress",
+          "address": "Kristianstensbakken, 7014 Trondheim",
+          "photo": "/images/city-places/trondheim-attractions-kristiansten-fortress.jpg",
+          "petFriendly": true,
+          "description": "The 1681 star-shaped fortress on the hill above Bakklandet — outer ramparts and panoramic terraces over the Nidelva, the cathedral and the Trondheimsfjord. Open 24/7, dog-friendly with leashed dogs free of charge. The interior tour admits assistance dogs only.",
+          "descriptionFr": "La forteresse en étoile de 1681 sur la colline au-dessus de Bakklandet — remparts extérieurs et terrasses panoramiques sur la Nidelva, la cathédrale et le Trondheimsfjord. Ouverte 24h/24, dog-friendly avec chiens en laisse gratuits. La visite intérieure n'admet que les chiens d'assistance.",
+          "descriptionEs": "La fortaleza en estrella de 1681 en la colina sobre Bakklandet — murallas exteriores y terrazas panorámicas sobre el Nidelva, la catedral y el Trondheimsfjord. Abierta 24/7, dog-friendly con perros con correa gratis. La visita interior solo admite perros de asistencia.",
+          "petPolicy": "Outer ramparts free; interior assistance only",
+          "petPolicyFr": "Remparts extérieurs gratuits ; intérieur chiens d'assistance uniquement",
+          "petPolicyEs": "Murallas exteriores gratis; interior solo perros de asistencia",
+          "openingHours": "Outdoor 24/7; interior summer only 10:00-18:00",
+          "tip": "The 10 min uphill walk from Bakklandet rewards with the best free panoramic view of Trondheim — bring water in summer, the climb is exposed.",
+          "tipFr": "La montée de 10 min depuis Bakklandet récompense avec la meilleure vue panoramique gratuite sur Trondheim — apportez de l'eau en été, la montée est exposée.",
+          "tipEs": "La subida de 10 min desde Bakklandet recompensa con la mejor vista panorámica gratis de Trondheim — lleva agua en verano, la subida está expuesta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kristiansten+Festning"
+        }
+      ],
+      "tipsEn": [
+        "Trondheim's outdoor attractions accept leashed dogs free of charge; museum interiors (Nidaros Cathedral interior, Archbishop's Palace Museum, Rockheim) admit assistance dogs only.",
+        "Pulpit Rock for the Trondheim region: the Trolla viewpoint (20 min by bus 8 + 15 min walk) offers the iconic dog-friendly fjord panorama without the Stavanger crowds.",
+        "Day trips by Vy train: Hell (15 min, the village called Hell), Oppdal (2h, ski resort with dog-friendly trails), Bodø (10h, Arctic Circle crossing on the iconic Nordlandsbanen)."
+      ],
+      "tipsFr": [
+        "Les attractions extérieures de Trondheim acceptent les chiens en laisse gratuitement ; les musées intérieurs (intérieur de la cathédrale Nidaros, Musée du Palais de l'Archevêque, Rockheim) n'admettent que les chiens d'assistance.",
+        "Le « Preikestolen » de la région de Trondheim : le belvédère de Trolla (20 min en bus 8 + 15 min à pied) offre le panorama iconique sur le fjord dog-friendly sans les foules de Stavanger.",
+        "Excursions en train Vy : Hell (15 min, le village nommé Hell), Oppdal (2h, station de ski avec sentiers dog-friendly), Bodø (10h, passage du cercle polaire arctique sur l'iconique Nordlandsbanen)."
+      ],
+      "tipsEs": [
+        "Las atracciones al aire libre de Trondheim admiten perros con correa gratis; los museos interiores (interior de la catedral de Nidaros, Museo del Palacio del Arzobispo, Rockheim) solo admiten perros de asistencia.",
+        "El « Preikestolen » de la región de Trondheim: el mirador de Trolla (20 min en bus 8 + 15 min andando) ofrece el panorama icónico de fiordo dog-friendly sin las multitudes de Stavanger.",
+        "Excursiones en tren Vy: Hell (15 min, el pueblo llamado Hell), Oppdal (2h, estación de esquí con senderos dog-friendly), Bodø (10h, cruce del Círculo Polar Ártico en el icónico Nordlandsbanen)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Nidaros Cathedral?",
+          "a": "To the surrounding gardens, cemetery and Erkebispegården palace square yes, with a leash, free of charge. The cathedral interior admits assistance dogs only."
+        },
+        {
+          "q": "Are dogs allowed on Munkholmen island?",
+          "a": "Yes — the Munken ferry (10 min from Ravnkloa quay, May-September) accepts leashed dogs with muzzle for medium/large dogs. The island outdoor grounds and former monastery ruins are dog-friendly free of charge."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien à la cathédrale Nidaros ?",
+          "a": "Dans les jardins environnants, le cimetière et la place du palais Erkebispegården oui, en laisse, gratuit. L'intérieur de la cathédrale n'admet que les chiens d'assistance."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur l'île Munkholmen ?",
+          "a": "Oui — le ferry Munken (10 min depuis le quai de Ravnkloa, mai-septembre) accepte les chiens en laisse avec muselière pour chiens moyens/grands. Le terrain extérieur de l'île et les ruines de l'ancien monastère sont dog-friendly gratuits."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la catedral de Nidaros?",
+          "a": "A los jardines circundantes, al cementerio y a la plaza del palacio Erkebispegården sí, con correa, gratis. El interior de la catedral solo admite perros de asistencia."
+        },
+        {
+          "q": "¿Se admiten perros en la isla Munkholmen?",
+          "a": "Sí — el ferry Munken (10 min desde el muelle de Ravnkloa, mayo-septiembre) admite perros con correa y bozal para perros medianos/grandes. El terreno exterior de la isla y las ruinas del antiguo monasterio son dog-friendly gratis."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Walking in Trondheim",
+      "titleFr": "Pet-sitting et promenade canine à Trondheim",
+      "titleEs": "Pet-sitting y paseo canino en Trondheim",
+      "introEn": "For day trips where the dog cannot come (Nidaros Cathedral interior, Archbishop's Palace Museum, Rockheim) Trondheim has reliable verified pet-sitting through international and Norwegian platforms.",
+      "introFr": "Pour les excursions où le chien ne peut pas venir (intérieur de la cathédrale Nidaros, Musée du Palais de l'Archevêque, Rockheim), Trondheim propose un pet-sitting fiable et vérifié via plateformes internationales et norvégiennes.",
+      "introEs": "Para las excursiones donde el perro no puede ir (interior de la catedral de Nidaros, Museo del Palacio del Arzobispo, Rockheim), Trondheim tiene pet-sitting fiable y verificado a través de plataformas internacionales y noruegas.",
+      "places": [
+        {
+          "name": "Pawshake Trondheim",
+          "languages": [
+            "English",
+            "Norwegian"
+          ],
+          "description": "International pet-sitting platform with about 18 verified Trondheim-based sitters within 5 km of the centre — drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
+          "descriptionFr": "Plateforme internationale avec environ 18 sitters vérifiés basés à Trondheim dans un rayon de 5 km du centre — visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
+          "descriptionEs": "Plataforma internacional con unos 18 cuidadores verificados con base en Trondheim en un radio de 5 km del centro — visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
+          "website": "https://www.pawshake.no/dog-sitting/trondheim",
+          "tip": "Almost all Norwegian sitters speak fluent English — Norway has the highest English proficiency in the EU/EEA outside Ireland and Malta. Filter by experience type rather than language.",
+          "tipFr": "Presque tous les sitters norvégiens parlent anglais couramment — la Norvège a le plus haut niveau d'anglais d'UE/EEE après l'Irlande et Malte. Filtrez par type d'expérience plutôt que par langue.",
+          "tipEs": "Casi todos los cuidadores noruegos hablan inglés con fluidez — Noruega tiene el mejor nivel de inglés de UE/EEE después de Irlanda y Malta. Filtra por tipo de experiencia más que por idioma."
+        },
+        {
+          "name": "Hundepensjonat Trøndelag",
+          "languages": [
+            "Norwegian",
+            "English"
+          ],
+          "description": "Trondheim regional pet hotel chain — supervised day-care, overnight boarding, dog walking. Insurance and 24/7 vet phone line included; rate 400-600 NOK/day (35-55 €) — among Europe's highest but reflective of Norwegian wage standards.",
+          "descriptionFr": "Chaîne régionale d'hôtels canins de Trondheim — garderie surveillée, hébergement de nuit, promenades. Assurance et ligne vétérinaire 24h/24 incluses ; tarif 400-600 NOK/jour (35-55 €) — parmi les plus élevés d'Europe mais reflétant les normes salariales norvégiennes.",
+          "descriptionEs": "Cadena regional de hoteles caninos de Trondheim — guardería supervisada, alojamiento nocturno, paseos. Seguro y línea veterinaria 24/7 incluidos; tarifa 400-600 NOK/día (35-55 €) — de los más altos de Europa pero reflejando los estándares salariales noruegos.",
+          "website": "https://www.hundepensjonat-trondelag.no/",
+          "tip": "Book at least 1 week ahead in summer — popular with Norwegian families on holiday from June to mid-August.",
+          "tipFr": "Réservez au moins 1 semaine à l'avance en été — populaire chez les familles norvégiennes en vacances de juin à mi-août.",
+          "tipEs": "Reserva al menos 1 semana antes en verano — popular entre las familias noruegas de vacaciones de junio a mediados de agosto."
+        }
+      ],
+      "tipsEn": [
+        "Trondheim pet-sitter rates average 350-500 NOK/day (30-45 €) on Pawshake, 400-600 NOK/day (35-55 €) at the regional pet hotel — among the highest rates in Europe but offset by Norway's free dog transport.",
+        "Almost all Norwegian sitters speak fluent English (Norway has the highest English proficiency in EU/EEA outside Ireland and Malta) — language is rarely a barrier.",
+        "Several boutique hotels in central Trondheim offer in-house dog-sitting for guests during sightseeing — ask at check-in."
+      ],
+      "tipsFr": [
+        "Les tarifs des sitters de Trondheim tournent autour de 350-500 NOK/jour (30-45 €) sur Pawshake, 400-600 NOK/jour (35-55 €) à l'hôtel canin régional — parmi les plus élevés d'Europe mais compensés par le transport canin gratuit norvégien.",
+        "Presque tous les sitters norvégiens parlent anglais couramment (Norvège au plus haut niveau d'anglais d'UE/EEE après l'Irlande et Malte) — la langue est rarement une barrière.",
+        "Plusieurs hôtels boutiques du centre proposent une garde canine maison pour leurs clients pendant les visites — demandez au check-in."
+      ],
+      "tipsEs": [
+        "Las tarifas de los cuidadores de Trondheim rondan 350-500 NOK/día (30-45 €) en Pawshake, 400-600 NOK/día (35-55 €) en el hotel canino regional — de las más altas de Europa pero compensadas por el transporte canino gratuito noruego.",
+        "Casi todos los cuidadores noruegos hablan inglés con fluidez (Noruega tiene el mejor nivel de inglés de UE/EEE después de Irlanda y Malta) — el idioma rara vez es barrera.",
+        "Varios hoteles boutique del centro ofrecen cuidado canino interno para sus clientes durante las visitas — pregunta en el check-in."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does dog day-care cost in Trondheim?",
+          "a": "350-600 NOK per day (30-55 €) depending on platform and dog size, via Pawshake or Hundepensjonat Trøndelag. Drop-in visits run 200-300 NOK (18-28 €) for 30 minutes."
+        },
+        {
+          "q": "Can I find an English-speaking sitter in Trondheim?",
+          "a": "Yes — almost all Norwegian sitters speak fluent English. Norway has the highest English proficiency in EU/EEA outside Ireland and Malta, so language is rarely a barrier."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte la garderie canine à Trondheim ?",
+          "a": "350-600 NOK par jour (30-55 €) selon la plateforme et la taille du chien, via Pawshake ou Hundepensjonat Trøndelag. Visites à domicile 200-300 NOK (18-28 €) pour 30 min."
+        },
+        {
+          "q": "Puis-je trouver un sitter anglophone à Trondheim ?",
+          "a": "Oui — presque tous les sitters norvégiens parlent anglais couramment. La Norvège a le plus haut niveau d'anglais d'UE/EEE après l'Irlande et Malte, la langue est rarement une barrière."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta la guardería canina en Trondheim?",
+          "a": "350-600 NOK por día (30-55 €) según plataforma y tamaño del perro, vía Pawshake o Hundepensjonat Trøndelag. Visitas a domicilio 200-300 NOK (18-28 €) por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador anglohablante en Trondheim?",
+          "a": "Sí — casi todos los cuidadores noruegos hablan inglés con fluidez. Noruega tiene el mejor nivel de inglés de UE/EEE después de Irlanda y Malta, el idioma rara vez es barrera."
+        }
+      ]
+    }
+  }
+}

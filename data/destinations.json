@@ -7329,6 +7329,79 @@
     }
   },
   {
+    "slug": "trondheim",
+    "name": "Trondheim",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/trondheim.jpg",
+    "intro": "Trondheim — Norway's third city and the medieval capital — combines the UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, dog-friendly transport (free buses, free trains, the world's northernmost tramway), and 80 km² of Bymarka urban forest.",
+    "lat": 63.4305,
+    "lng": 10.3951,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 1,
+        "desc": "Cool & snowy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 5,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 11,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 12,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 7,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "turin",
     "name": "Turin",
     "country": "Italy",

@@ -15291,6 +15291,134 @@
     "slug": "ibis-toulouse-ponts-jumeaux"
   },
   {
+    "id": "trondheim-1",
+    "name": "Britannia Hotel",
+    "destinationSlug": "trondheim",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 3240,
+    "priceFrom": 2400,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/britannia.en-gb.html",
+    "petFee": 350,
+    "petPolicy": "Britannia Hotel — a 5-star 1897 grand hotel on Dronningens gate near Nidaros Cathedral — welcomes pets in selected room categories. Pet fee 350 NOK (~32 €) per night. Up to two pets per room with a recommended max 25 kg per pet. Pets on lead in lobbies; not allowed in the gastronomic restaurant or rooftop bar.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant",
+      "Belle Époque interior"
+    ],
+    "slug": "britannia-hotel-trondheim"
+  },
+  {
+    "id": "trondheim-2",
+    "name": "Clarion Hotel Trondheim",
+    "destinationSlug": "trondheim",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2840,
+    "priceFrom": 1850,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/clarion-trondheim.en-gb.html",
+    "petFee": 300,
+    "petPolicy": "Clarion Hotel Trondheim — a 4-star design hotel on the Solsiden harbour — welcomes pets at 300 NOK (~28 €) per night. Up to two pets per room. Marina and Nidelva path at the doorstep. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Harbour views",
+      "Free dinner",
+      "Sauna"
+    ],
+    "slug": "clarion-hotel-trondheim"
+  },
+  {
+    "id": "trondheim-3",
+    "name": "Scandic Bakklandet",
+    "destinationSlug": "trondheim",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3140,
+    "priceFrom": 1450,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/scandic-bakklandet.en-gb.html",
+    "petFee": 250,
+    "petPolicy": "Scandic Bakklandet — a 4-star hotel in the historic Bakklandet wooden quarter — welcomes pets at 250 NOK (~23 €) per night. Up to two pets per room. Gamle Bybro and Nidaros Cathedral 5 min on foot. Pets on lead in common areas.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Sauna",
+      "Bakklandet location"
+    ],
+    "slug": "scandic-bakklandet"
+  },
+  {
+    "id": "trondheim-4",
+    "name": "Thon Hotel Nidaros",
+    "destinationSlug": "trondheim",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2920,
+    "priceFrom": 1280,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/thon-nidaros.en-gb.html",
+    "petFee": 200,
+    "petPolicy": "Thon Hotel Nidaros — a 3-star hotel on Søndre gate near the central station — welcomes pets at 200 NOK (~18 €) per night. Up to two pets per room. Nidaros Cathedral 8 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Free breakfast",
+      "Restaurant"
+    ],
+    "slug": "thon-hotel-nidaros"
+  },
+  {
+    "id": "trondheim-5",
+    "name": "Radisson Blu Royal Garden Hotel",
+    "destinationSlug": "trondheim",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3640,
+    "priceFrom": 1620,
+    "currency": "NOK",
+    "bookingUrl": "https://www.booking.com/hotel/no/radisson-blu-royal-garden.en-gb.html",
+    "petFee": 275,
+    "petPolicy": "Radisson Blu Royal Garden Hotel — a 4-star hotel on the Nidelva river opposite the Old Town — welcomes pets at 275 NOK (~25 €) per night. Up to two pets per room. Nidaros Cathedral 3 min on foot via Gamle Bybro. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "River views",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "radisson-blu-royal-garden-trondheim"
+  },
+  {
     "id": "turin-1",
     "name": "NH Collection Torino Piazza Carlina",
     "destinationSlug": "turin",

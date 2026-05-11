@@ -10803,6 +10803,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  trondheim: {
+    history: {
+      fr: `Trondheim, fondée en 997 par le roi viking Olaf Tryggvason sous le nom de Kaupangen, fut la première capitale de la Norvège médiévale et le siège du puissant archevêché de Nidaros pendant tout le Moyen Âge. La cathédrale Nidaros, construite à partir de 1070 sur la tombe de saint Olaf (martyrisé en 1030), est la cathédrale gothique la plus septentrionale du monde et reste le lieu où sont couronnés les rois de Norvège. Détruite plusieurs fois par les feux et reconstruite à l'identique, la ville est aujourd'hui le quatrième centre universitaire de Scandinavie (NTNU, 40 000 étudiants) et la troisième ville de Norvège (210 000 habitants). Pour les voyageurs avec un chien, Trondheim combine héritage médiéval et nature accessible : Centre médiéval piéton en 20 min, 80 km² de forêt urbaine Bymarka aux portes, tramway Gråkallbanen historique de 1955 (le plus septentrional du monde), et fjord avec sentier côtier de 14 km le long de la péninsule de Lade.`,
+      en: `Trondheim, founded in 997 AD by Viking king Olaf Tryggvason as Kaupangen, was the first capital of medieval Norway and the seat of the powerful Nidaros archbishopric throughout the Middle Ages. The Nidaros Cathedral, built from 1070 over the tomb of Saint Olaf (martyred in 1030), is the world's northernmost Gothic cathedral and remains the coronation site of Norwegian kings. Burned and rebuilt identically multiple times, the city is now Scandinavia's fourth university centre (NTNU, 40,000 students) and Norway's third city (210,000 people). For travellers with a dog, Trondheim combines medieval heritage and accessible nature: walkable medieval centre in 20 min, 80 km² of Bymarka urban forest at the city edge, the historic 1955 Gråkallbanen tram (world's northernmost), and a 14 km coastal path along the Lade peninsula on the Trondheimsfjord.`,
+      es: `Trondheim, fundada en 997 d. C. por el rey vikingo Olaf Tryggvason como Kaupangen, fue la primera capital de la Noruega medieval y la sede del poderoso arzobispado de Nidaros durante toda la Edad Media. La catedral de Nidaros, construida desde 1070 sobre la tumba de san Olaf (martirizado en 1030), es la catedral gótica más septentrional del mundo y sigue siendo el lugar de coronación de los reyes noruegos. Quemada y reconstruida idénticamente varias veces, la ciudad es hoy el cuarto centro universitario de Escandinavia (NTNU, 40 000 estudiantes) y la tercera ciudad de Noruega (210 000 habitantes). Para los viajeros con perro, Trondheim combina patrimonio medieval y naturaleza accesible: centro medieval peatonal en 20 min, 80 km² de bosque urbano Bymarka a las puertas, el histórico tranvía Gråkallbanen de 1955 (el más septentrional del mundo), y un sendero costero de 14 km a lo largo de la península de Lade en el Trondheimsfjord.`,
+    },
+    sights: [
+      { name: 'Nidaros Cathedral', emoji: '⛪', petFriendly: true, desc: {
+        fr: `La cathédrale gothique la plus septentrionale du monde (UNESCO) — sanctuaire national norvégien sur la tombe de saint Olaf. Extérieur et jardins dog-friendly ; intérieur chiens d'assistance uniquement.`,
+        en: `The world's northernmost Gothic cathedral (UNESCO) — Norwegian national shrine over the tomb of Saint Olaf. Exterior and gardens dog-friendly; interior assistance dogs only.`,
+        es: `La catedral gótica más septentrional del mundo (UNESCO) — santuario nacional noruego sobre la tumba de san Olaf. Exterior y jardines dog-friendly; interior solo perros de asistencia.`,
+      }},
+      { name: 'Gamle Bybro', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Le Vieux Pont en bois de 1681 reliant Midtbyen à Bakklandet — l'iconique Porte du Bonheur à l'extrémité est. Ouvert 24h/24, dog-friendly.`,
+        en: `The 1681 wooden Old Town Bridge connecting Midtbyen to Bakklandet — the iconic Gate of Happiness at the east end. Open 24/7, dog-friendly.`,
+        es: `El Puente Viejo de madera de 1681 conectando Midtbyen con Bakklandet — la icónica Puerta de la Felicidad en el extremo este. Abierto 24/7, dog-friendly.`,
+      }},
+      { name: 'Bakklandet Quarter', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Quartier en bois coloré du XVIIIe siècle — ruelles pavées, cafés bohèmes (Baklandet Skydsstation), vue sur la Nidelva. Dog-friendly partout.`,
+        en: `Colourful 18th-century wooden quarter — cobbled lanes, bohemian cafés (Baklandet Skydsstation), Nidelva river views. Dog-friendly throughout.`,
+        es: `Colorido barrio de madera del siglo XVIII — callejones adoquinados, cafés bohemios (Baklandet Skydsstation), vistas al Nidelva. Dog-friendly en todas partes.`,
+      }},
+      { name: 'Bymarka Urban Forest', emoji: '🌲', petFriendly: true, desc: {
+        fr: `80 km² de forêt urbaine — 200 km de sentiers, accessible par le tram historique Gråkallbanen. Sans laisse hors saison de nidification (avril-août).`,
+        en: `80 km² urban forest — 200 km of trails, accessible by the historic Gråkallbanen tram. Off-leash outside nesting season (April-August).`,
+        es: `80 km² de bosque urbano — 200 km de senderos, accesible por el histórico tranvía Gråkallbanen. Sin correa fuera de la temporada de nidificación (abril-agosto).`,
+      }},
+      { name: 'Kristiansten Fortress', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse en étoile de 1681 sur la colline au-dessus de Bakklandet — remparts extérieurs panoramiques, dog-friendly avec chiens en laisse.`,
+        en: `1681 star-shaped fortress on the hill above Bakklandet — panoramic outer ramparts, dog-friendly with leashed dogs.`,
+        es: `Fortaleza en estrella de 1681 en la colina sobre Bakklandet — murallas exteriores panorámicas, dog-friendly con perros con correa.`,
+      }},
+      { name: 'Munkholmen Island', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Petite île dans le Trondheimsfjord — ancien monastère et forteresse. Ferry Munken depuis Ravnkloa (mai-septembre), dog-friendly en extérieur.`,
+        en: `Small fjord island in the Trondheimsfjord — former monastery and fortress. Munken ferry from Ravnkloa (May-September), dog-friendly outdoor.`,
+        es: `Pequeña isla en el Trondheimsfjord — antiguo monasterio y fortaleza. Ferry Munken desde Ravnkloa (mayo-septiembre), dog-friendly en exterior.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café norvégienne accueille les chiens par défaut — environ 80 % des cafés de Trondheim acceptent les chiens en laisse en salle principale toute l'année.`,
+        `Bus AtB, tram Gråkallbanen et trains Vy : chiens en laisse GRATUITS, muselière exigée pour chiens moyens/grands (petits chiens en cage dispensés).`,
+        `6 hundepark municipaux clôturés ; loi laisse 1er avril - 19 août en zones non clôturées.`,
+        `Vétérinaire d'urgence 24h/24 : Empet Trondheim à Heimdal (+47 73 84 02 00), 15 min en voiture du centre.`,
+        `La Norvège exige un traitement contre le ténia (echinococcose) administré 24-120h avant l'arrivée — comme la Finlande, l'Irlande et Malte.`,
+      ],
+      en: [
+        `Norwegian café culture welcomes dogs by default — about 80% of Trondheim cafés accept leashed dogs in the main room year-round.`,
+        `AtB buses, Gråkallbanen tram and Vy trains: leashed dogs FREE, muzzle required for medium/large dogs (small dogs in carrier exempt).`,
+        `6 fenced municipal hundepark; leash law April 1 - August 19 in non-fenced zones.`,
+        `24/7 emergency vet: Empet Trondheim in Heimdal (+47 73 84 02 00), 15 min by car from the centre.`,
+        `Norway requires a tapeworm (echinococcosis) treatment administered 24-120h before arrival — same as Finland, Ireland and Malta.`,
+      ],
+      es: [
+        `La cultura del café noruega admite perros por defecto — alrededor del 80 % de los cafés de Trondheim acepta perros con correa en la sala principal todo el año.`,
+        `Buses AtB, tranvía Gråkallbanen y trenes Vy: perros con correa GRATIS, bozal exigido para perros medianos/grandes (perros pequeños en transportín exentos).`,
+        `6 hundepark municipales valladas; ley de correa 1 abril - 19 agosto en zonas no valladas.`,
+        `Veterinario de urgencias 24/7: Empet Trondheim en Heimdal (+47 73 84 02 00), 15 min en coche del centro.`,
+        `Noruega exige tratamiento contra la tenia (equinococosis) administrado 24-120h antes de la llegada — igual que Finlandia, Irlanda y Malta.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Norvège dans Schengen mais PAS dans l'UE : passeport européen + vaccin antirabique en cours + puce ISO + traitement ténia 24-120h avant l'arrivée.`,
+        `Trains Vy directs : Oslo 6h30 (iconique Dovrebanen à travers les montagnes), Bodø 10h (Nordlandsbanen), Stockholm 12h (avec une correspondance) — chiens en laisse gratuits en voitures pet-allowed.`,
+        `Aéroport Trondheim Værnes (TRD) à 30 km au nord-est, accessible en bus Værnes Ekspressen (45 min) ou train (35 min) — tous deux dog-friendly. SAS, Norwegian, Wizz Air acceptent les petits chiens en cabine.`,
+        `Devise : couronne norvégienne (NOK), pas l'euro. Budget journalier dog-friendly : 1 000-1 500 NOK/jour (90-135 €) hors hébergement, parmi les plus élevés d'Europe.`,
+        `Excursions dog-friendly : île Munkholmen (10 min en ferry été), Bymarka en tram Gråkallbanen (22 min), Atlantic Road (3h en voiture à l'ouest).`,
+      ],
+      en: [
+        `Norway is in Schengen but NOT in the EU: EU pet passport + valid rabies vaccination + ISO microchip + tapeworm treatment 24-120h before arrival.`,
+        `Direct Vy trains: Oslo 6h30 (iconic Dovrebanen across the mountains), Bodø 10h (Nordlandsbanen), Stockholm 12h (one connection) — leashed dogs free in pet-allowed carriages.`,
+        `Trondheim Værnes Airport (TRD) 30 km north-east, accessible by Værnes Ekspressen bus (45 min) or train (35 min) — both dog-friendly. SAS, Norwegian, Wizz Air all accept in-cabin small dogs.`,
+        `Currency: Norwegian krone (NOK), not euro. Daily dog-friendly budget: 1,000-1,500 NOK/day (90-135 €) excluding accommodation, among Europe's highest.`,
+        `Dog-friendly day trips: Munkholmen island (10 min ferry in summer), Bymarka by Gråkallbanen tram (22 min), Atlantic Road (3h by car west).`,
+      ],
+      es: [
+        `Noruega está en Schengen pero NO en la UE: pasaporte europeo + vacunación antirrábica vigente + microchip ISO + tratamiento contra la tenia 24-120h antes de la llegada.`,
+        `Trenes Vy directos: Oslo 6h30 (icónica Dovrebanen a través de las montañas), Bodø 10h (Nordlandsbanen), Estocolmo 12h (un transbordo) — perros con correa gratis en vagones pet-allowed.`,
+        `Aeropuerto Trondheim Værnes (TRD) a 30 km al noreste, accesible en bus Værnes Ekspressen (45 min) o tren (35 min) — ambos dog-friendly. SAS, Norwegian, Wizz Air admiten todos perros pequeños en cabina.`,
+        `Moneda: corona noruega (NOK), no euro. Presupuesto diario dog-friendly: 1 000-1 500 NOK/día (90-135 €) sin alojamiento, de los más altos de Europa.`,
+        `Excursiones dog-friendly: isla Munkholmen (10 min en ferry en verano), Bymarka en tranvía Gråkallbanen (22 min), Carretera del Atlántico (3h en coche al oeste).`,
+      ],
+    },
+  },
+
   turin: {
     history: {
       fr: `Turin, fondée par les Romains au Ier siècle avant notre ère sous le nom de Iulia Augusta Taurinorum, fut capitale du duché de Savoie dès 1563 puis première capitale de l'Italie unifiée de 1861 à 1865. L'héritage de la dynastie savoyarde marque la ville : 18 km d'arcades baroques (les plus longues d'Europe), des places monumentales et des palais royaux reliés par des promenades piétonnes. Aujourd'hui quatrième ville d'Italie avec 850 000 habitants, Turin combine cette élégance historique avec un esprit industriel — Fiat, le cinéma, la technologie — et un attachement particulier au Pô, qui traverse la ville sur 10 km. Pour les propriétaires de chiens, Turin est l'une des villes italiennes les plus praticables : ses arcades protègent de la pluie et du soleil estival, ses 35+ Aree Cani clôturées sont réparties dans tous les quartiers, et les Alpes à une heure offrent des escapades dog-friendly toute l'année.`,

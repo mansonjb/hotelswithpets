@@ -93,6 +93,7 @@ const TARGETS = [
   { slug: 'liverpool', query: 'Liverpool Royal Albert Dock Three Graces Pier Head waterfront Mersey panorama sunset' },
   { slug: 'dusseldorf', query: 'Dusseldorf Medienhafen Gehry buildings Rheinturm Rhine waterfront panorama sunset' },
   { slug: 'gdansk', query: 'Gdansk Poland Dlugi Targ Neptune Fountain Mariacka colourful gabled houses Hanseatic panorama sunset' },
+  { slug: 'trondheim', query: 'Trondheim Norway Nidaros Cathedral Bakklandet Gamle Bybro wooden quarter Nidelva panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

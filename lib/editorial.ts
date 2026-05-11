@@ -522,6 +522,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
+    trondheim: {
+      personality: `Norway's third city and medieval capital — UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, free dog transport on buses, trams and trains, and 80 km² of Bymarka urban forest at the city edge`,
+      highlight: `the Nidaros Cathedral and Gamle Bybro bridge, the iconic Gråkallbanen heritage tram to Bymarka forest, and Munkholmen island ferry`,
+      area: `the Midtbyen around Nidaros Cathedral, the wooden Bakklandet quarter, and the Solsiden harbour district`,
+    },
     turin: {
       personality: 'Italy\'s northern baroque capital with 18 km of covered porticoes that shelter dogs and owners from rain and summer sun, 35+ fenced dog areas, and the Alps an hour away for weekend escapes',
       highlight: 'the 84-hectare Parco del Valentino, the 10 km Po riverside, and the Basilica di Superga reached by vintage rack railway',
@@ -1089,6 +1094,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
     },
+    trondheim: {
+      personality: `la troisième ville de Norvège et capitale médiévale — cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), quartier en bois coloré de Bakklandet, transport canin gratuit (bus, trams, trains), et 80 km² de forêt urbaine de Bymarka aux portes de la ville`,
+      highlight: `la cathédrale Nidaros et le Vieux Pont (Gamle Bybro), l'iconique tram historique Gråkallbanen vers la forêt de Bymarka, et le ferry pour l'île Munkholmen`,
+      area: `le Midtbyen autour de la cathédrale Nidaros, le quartier en bois de Bakklandet, et le port de Solsiden`,
+    },
     turin: {
       personality: 'la capitale baroque du nord de l\'Italie, avec 18 km d\'arcades couvertes qui abritent chiens et propriétaires de la pluie et du soleil estival, 35+ zones canines clôturées, et les Alpes à une heure pour les escapades du week-end',
       highlight: 'les 84 hectares du Parco del Valentino, les 10 km de berges du Pô et la Basilique de Superga atteinte par train à crémaillère',
@@ -1655,6 +1665,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad relajada del suroeste de ladrillo rosa y terrazas donde los perros se integran en la vida diaria junto al Garona',
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
+    },
+    trondheim: {
+      personality: `la tercera ciudad de Noruega y capital medieval — catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), barrio de madera colorido de Bakklandet, transporte canino gratis (buses, tranvías, trenes), y 80 km² de bosque urbano de Bymarka a las puertas de la ciudad`,
+      highlight: `la catedral de Nidaros y el Puente Viejo (Gamle Bybro), el icónico tranvía histórico Gråkallbanen hacia el bosque de Bymarka, y el ferry a la isla Munkholmen`,
+      area: `el Midtbyen alrededor de la catedral de Nidaros, el barrio de madera de Bakklandet, y el puerto de Solsiden`,
     },
     turin: {
       personality: 'la capital barroca del norte de Italia, con 18 km de pórticos cubiertos que resguardan a perros y dueños de la lluvia y del sol estival, más de 35 zonas caninas valladas, y los Alpes a una hora para escapadas de fin de semana',

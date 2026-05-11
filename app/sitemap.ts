@@ -102,6 +102,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'pet-friendly-hotels-europe-guide',
     'eurostar-with-dog',
     'animal-health-certificate-vs-pet-passport-2026',
+    'pet-travel-cost-index-europe-2026',
+    'best-dog-beaches-europe-2026',
+  ]
+  const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
+  const ES_CITY_LANDINGS = [
+    'madrid','barcelona','cordoba','sevilla','granada','valencia',
+    'palma-de-mallorca','malaga','bilbao','san-sebastian','zaragoza','toledo',
   ]
   for (const locale of LOCALES) {
     entries.push({
@@ -118,6 +125,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.85,
       })
     }
+    for (const month of MONTHS) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/guides/dog-friendly-europe-by-month/${month}`,
+        lastModified: BUILD_DATE,
+        changeFrequency: 'monthly',
+        priority: 0.7,
+      })
+    }
+  }
+
+  // Spanish-only programmatic landing pages targeting GSC near-miss clusters
+  for (const ciudad of ES_CITY_LANDINGS) {
+    entries.push({
+      url: `${BASE_URL}/es/hoteles-pet-friendly/${ciudad}`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'monthly',
+      priority: 0.85,
+    })
   }
 
   // Country hub pages

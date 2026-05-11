@@ -226,6 +226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 2 km Salthill Promenade, Silver Strand off-leash beach, and the Spanish Arch + Long Walk waterfront`,
       area: `the Latin Quarter, the West End, and Salthill on the bay`,
     },
+    gdansk: {
+      personality: `the Hanseatic Pearl of the Baltic and former Free City of Danzig — a UNESCO Długi Targ, the Solidarity birthplace at Stocznia Gdańska, and direct SKM rail access to Sopot Dog Beach (Poland's most famous) in 15 minutes`,
+      highlight: `the Długi Targ and Mariacka Street, the Sopot Dog Beach 15 min by SKM, and the Tri-City Landscape Park with 200 km of off-leash trails`,
+      area: `the Główne Miasto around Długi Targ, the Wyspa Spichrzów island on the Motława, and Wrzeszcz to the north`,
+    },
     geneva: {
       personality: 'one of Europe\'s most pet-welcoming international capitals — Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
       highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
@@ -789,6 +794,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade de Salthill (2 km), la plage sans laisse de Silver Strand et le front de mer Spanish Arch + Long Walk`,
       area: `le Latin Quarter, le West End et Salthill au bord de la baie`,
     },
+    gdansk: {
+      personality: `la Perle hanséatique de la Baltique et ancienne ville libre de Danzig — Długi Targ classé UNESCO, le berceau de Solidarité à Stocznia Gdańska, et un accès SKM direct vers la plage canine de Sopot (la plus célèbre de Pologne) en 15 minutes`,
+      highlight: `le Długi Targ et la rue Mariacka, la plage canine de Sopot à 15 min en SKM, et le parc paysager de la tri-cité avec 200 km de sentiers sans laisse`,
+      area: `le Główne Miasto autour du Długi Targ, l'île Wyspa Spichrzów sur la Motława, et Wrzeszcz au nord`,
+    },
     geneva: {
       personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe — la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
       highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
@@ -1350,6 +1360,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capital bohemia del Wild Atlantic Way irlandés, donde los pubs admiten perros en sus snugs, el paseo de Salthill se llena de perros con correa al atardecer, y las playas y turberas de Connemara están a 30 minutos al oeste`,
       highlight: `el paseo de Salthill (2 km), la playa sin correa de Silver Strand y el frente marítimo Spanish Arch + Long Walk`,
       area: `el Latin Quarter, el West End y Salthill junto a la bahía`,
+    },
+    gdansk: {
+      personality: `la Perla hanseática del Báltico y antigua ciudad libre de Danzig — Długi Targ clasificado UNESCO, el lugar de nacimiento de Solidaridad en Stocznia Gdańska, y acceso directo SKM a la playa canina de Sopot (la más famosa de Polonia) en 15 minutos`,
+      highlight: `el Długi Targ y la calle Mariacka, la playa canina de Sopot a 15 min en SKM, y el parque paisajístico de la tri-ciudad con 200 km de senderos sin correa`,
+      area: `el Główne Miasto alrededor del Długi Targ, la isla Wyspa Spichrzów en el Motława, y Wrzeszcz al norte`,
     },
     geneva: {
       personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa — la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',

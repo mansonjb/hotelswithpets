@@ -3006,6 +3006,79 @@
     }
   },
   {
+    "slug": "gdansk",
+    "name": "Gdansk",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/gdansk.jpg",
+    "intro": "Gdansk — the Hanseatic Pearl of the Baltic and former Free City of Danzig — combines a UNESCO-rated Długi Targ, the Solidarity birthplace at Stocznia Gdańska, and direct SKM rail access to Sopot Dog Beach (the most famous in Poland) in 15 minutes.",
+    "lat": 54.352,
+    "lng": 18.6466,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "geneva",
     "name": "Geneva",
     "country": "Switzerland",

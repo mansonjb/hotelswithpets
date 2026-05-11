@@ -4353,6 +4353,92 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  gdansk: {
+    history: {
+      fr: `Gdansk, fondée comme bourg slave au Xe siècle puis colonie hanséatique allemande au XIIIe (Danzig), a longtemps été l'une des villes portuaires les plus prospères d'Europe — entrepôt de l'ambre, du grain et du bois. Devenue Ville libre de Danzig entre les deux guerres mondiales, c'est ici que la Seconde Guerre mondiale a commencé le 1er septembre 1939 à Westerplatte. Détruite à 90 % en 1945, la Vieille Ville a été reconstruite à l'identique. Aujourd'hui sixième ville de Pologne (470 000 habitants) avec Sopot et Gdynia, Gdansk forme la Trójmiasto (« Tri-Cité ») de la côte baltique. Pour les voyageurs avec un chien, Gdansk est l'une des destinations baltiques les plus complètes : Vieille Ville hanséatique piétonne, plages canines toute l'année (Sopot, Brzeźno, Stogi), parc paysager de la tri-cité avec 200 km de sentiers, et suppléments hôteliers parmi les plus bas d'Europe (10-18 €/nuit).`,
+      en: `Gdansk, founded as a Slavic settlement in the 10th century and a German Hanseatic colony from the 13th (Danzig), was for centuries one of Europe's most prosperous port cities — a warehouse for amber, grain and timber. As the Free City of Danzig between the World Wars, this is where WWII began on September 1, 1939 at Westerplatte. Destroyed 90% in 1945, the Old Town was rebuilt identically. Now Poland's sixth city (470,000 people) with Sopot and Gdynia, Gdansk forms the Trójmiasto (Tri-City) of the Baltic coast. For travellers with a dog, Gdansk is one of the most complete Baltic destinations: a pedestrian Hanseatic Old Town, year-round dog beaches (Sopot, Brzeźno, Stogi), the Tri-City Landscape Park with 200 km of trails, and among Europe's lowest hotel pet supplements (10-18 €/night).`,
+      es: `Gdansk, fundada como asentamiento eslavo en el siglo X y luego colonia hanseática alemana desde el XIII (Danzig), fue durante siglos una de las ciudades portuarias más prósperas de Europa — almacén de ámbar, grano y madera. Como Ciudad Libre de Danzig entre las guerras mundiales, aquí comenzó la Segunda Guerra Mundial el 1 de septiembre de 1939 en Westerplatte. Destruida en un 90 % en 1945, el Casco Antiguo fue reconstruido de forma idéntica. Hoy sexta ciudad de Polonia (470 000 habitantes) con Sopot y Gdynia, Gdansk forma la Trójmiasto (« Tri-Ciudad ») de la costa báltica. Para los viajeros con perro, Gdansk es uno de los destinos bálticos más completos: Casco Antiguo hanseático peatonal, playas caninas todo el año (Sopot, Brzeźno, Stogi), parque paisajístico de la tri-ciudad con 200 km de senderos, y suplementos hoteleros entre los más bajos de Europa (10-18 €/noche).`,
+    },
+    sights: [
+      { name: 'Długi Targ', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `La place principale iconique — Fontaine de Neptune, Cour d'Artus, Porte Dorée, maisons à pignons colorées reconstruites après 1945. Ouverte 24h/24, dog-friendly.`,
+        en: `The iconic main square — Neptune Fountain, Artus Court, Golden Gate, colourful gabled houses rebuilt after 1945. Open 24/7, dog-friendly.`,
+        es: `La icónica plaza principal — Fuente de Neptuno, Corte de Artus, Puerta Dorada, casas coloridas con frontones reconstruidas tras 1945. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Sopot Dog Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage canine officielle de Sopot — sable blanc fin, sans laisse toute l'année, 15 min en SKM. La plage canine la plus célèbre de Pologne.`,
+        en: `Official Sopot Dog Beach — fine white sand, off-leash year-round, 15 min by SKM. The most famous dog beach in Poland.`,
+        es: `Playa canina oficial de Sopot — arena blanca fina, sin correa todo el año, 15 min en SKM. La playa canina más famosa de Polonia.`,
+      }},
+      { name: 'Mariacka Street', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `La plus belle rue de Gdansk — terrasses de pierre voûtées devant chaque maison, vers la basilique Sainte-Marie. Ouverte 24h/24, dog-friendly.`,
+        en: `Gdansk's most beautiful street — stone-arched terraces in front of every house, leading to St Mary's Basilica. Open 24/7, dog-friendly.`,
+        es: `La calle más hermosa de Gdansk — terrazas con arcos de piedra delante de cada casa, hacia la basílica de Santa María. Abierta 24/7, dog-friendly.`,
+      }},
+      { name: 'Park Oliwski', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin paysager du XVIIe siècle (11 ha) attenant à la cathédrale d'Oliwa — palmeraie, étangs, concerts d'orgue gratuits. Zone canine clôturée au sud-est.`,
+        en: `17th-century landscaped garden (11 ha) adjoining the Oliwa Cathedral — palm house, ponds, free organ concerts. Fenced dog zone in the south-east.`,
+        es: `Jardín paisajístico del siglo XVII (11 ha) contiguo a la catedral de Oliwa — palmera, estanques, conciertos de órgano gratis. Zona canina vallada al sureste.`,
+      }},
+      { name: 'Westerplatte Memorial', emoji: '🕊️', petFriendly: true, desc: {
+        fr: `Péninsule où la Seconde Guerre mondiale a commencé le 1er septembre 1939 — monument imposant, ruines de la garnison polonaise, sentier extérieur dog-friendly d'1 km.`,
+        en: `Peninsula where WWII began on September 1, 1939 — towering memorial monument, Polish garrison ruins, 1 km dog-friendly outdoor path.`,
+        es: `Península donde comenzó la Segunda Guerra Mundial el 1 de septiembre de 1939 — imponente monumento, ruinas de la guarnición polaca, sendero exterior dog-friendly de 1 km.`,
+      }},
+      { name: 'TPK Trójmiejski Park', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Parc paysager de la tri-cité — 200 km² de hêtres et de pins, 200 km de sentiers, la plus grande forêt urbaine de Pologne. Sans laisse hors saison de nidification.`,
+        en: `Tri-City Landscape Park — 200 km² of beech and pine, 200 km of trails, Poland's largest urban forest. Off-leash outside nesting season.`,
+        es: `Parque paisajístico de la tri-ciudad — 200 km² de hayas y pinos, 200 km de senderos, el mayor bosque urbano de Polonia. Sin correa fuera de la temporada de nidificación.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture café polonaise accueille les chiens par défaut — environ 80 % des cafés et bars de Gdansk acceptent les chiens en laisse en terrasse toute l'année.`,
+        `Trams ZTM, SKM tri-cité et trains PKP Intercity : muselière exigée pour TOUS les chiens (petits, moyens, grands) — la Pologne est parmi les plus strictes d'Europe. Gardez une muselière souple (30-50 PLN en animalerie).`,
+        `18 wybiegi dla psów municipaux clôturés ; loi laisse 1er avril - 31 août en zones non clôturées.`,
+        `Vétérinaire d'urgence 24h/24 : Vetmedica à Wrzeszcz (+48 58 763 75 00), 10 min en tram 6 ou 12 depuis la Vieille Ville.`,
+        `Plage canine de Sopot à 15 min en SKM depuis Gdansk Główny — la plus célèbre de Pologne, sans laisse toute l'année.`,
+      ],
+      en: [
+        `Polish café culture welcomes dogs by default — about 80% of Gdansk cafés and bars accept leashed dogs on the terrace year-round.`,
+        `ZTM trams, SKM Tri-City and PKP Intercity trains: muzzle required for ALL dogs (small, medium, large) — Poland is among Europe's strictest. Carry a soft muzzle (30-50 PLN at any pet shop).`,
+        `18 fenced municipal wybiegi dla psów; leash law April 1 - August 31 in non-fenced zones.`,
+        `24/7 emergency vet: Vetmedica in Wrzeszcz (+48 58 763 75 00), 10 min by tram 6 or 12 from the Old Town.`,
+        `Sopot Dog Beach 15 min by SKM from Gdansk Główny — the most famous dog beach in Poland, off-leash year-round.`,
+      ],
+      es: [
+        `La cultura del café polaca admite perros por defecto — alrededor del 80 % de los cafés y bares de Gdansk acepta perros con correa en terraza todo el año.`,
+        `Tranvías ZTM, SKM tri-ciudad y trenes PKP Intercity: bozal exigido para TODOS los perros (pequeños, medianos, grandes) — Polonia es de los más estrictos de Europa. Lleva un bozal blando (30-50 PLN en cualquier tienda de mascotas).`,
+        `18 wybiegi dla psów municipales valladas; ley de correa 1 abril - 31 agosto en zonas no valladas.`,
+        `Veterinario de urgencias 24/7: Vetmedica en Wrzeszcz (+48 58 763 75 00), 10 min en tranvía 6 o 12 desde el Casco Antiguo.`,
+        `Playa canina de Sopot a 15 min en SKM desde Gdansk Główny — la más famosa de Polonia, sin correa todo el año.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Pologne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains PKP Intercity directs : Varsovie 2h45, Cracovie 5h30, Berlin 5h (avec correspondance à Poznań) — chiens en laisse à demi-tarif + muselière, petits chiens en cage gratuits.`,
+        `Aéroport Gdansk Lech Wałęsa (GDN) à 12 km à l'ouest — SKM Pomorska + bus 210 (40 min) ou taxi (20 min). Vols low-cost Ryanair, Wizz Air vers Londres, Paris, Amsterdam, Stockholm.`,
+        `Devise : złoty polonais (PLN), pas l'euro. Budget journalier dog-friendly : 200-300 PLN (45-70 €)/jour hors hébergement, parmi les plus bas d'Europe.`,
+        `Festivals à éviter avec un chien anxieux : Jarmark św. Dominika (août, plus grand marché historique d'Europe), Sopot Molo Music Festival (juillet).`,
+      ],
+      en: [
+        `Poland is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Direct PKP Intercity trains: Warsaw 2h45, Krakow 5h30, Berlin 5h (with connection at Poznań) — leashed dogs at half-fare + muzzle, small dogs in carrier free.`,
+        `Gdansk Lech Wałęsa Airport (GDN) 12 km west — SKM Pomorska + bus 210 (40 min) or taxi (20 min). Low-cost Ryanair, Wizz Air flights to London, Paris, Amsterdam, Stockholm.`,
+        `Currency: Polish złoty (PLN), not euro. Daily dog-friendly budget: 200-300 PLN (45-70 €)/day excluding accommodation, among Europe's lowest.`,
+        `Festivals to avoid with an anxious dog: Jarmark św. Dominika (August, Europe's largest historic market), Sopot Molo Music Festival (July).`,
+      ],
+      es: [
+        `Polonia está en la UE y Schengen: pasaporte europeo + vacunación antirrábica vigente + microchip ISO basta desde cualquier país UE.`,
+        `Trenes directos PKP Intercity: Varsovia 2h45, Cracovia 5h30, Berlín 5h (con transbordo en Poznań) — perros con correa a media tarifa + bozal, perros pequeños en transportín gratis.`,
+        `Aeropuerto Gdansk Lech Wałęsa (GDN) a 12 km al oeste — SKM Pomorska + bus 210 (40 min) o taxi (20 min). Vuelos low-cost Ryanair, Wizz Air a Londres, París, Ámsterdam, Estocolmo.`,
+        `Moneda: zloty polaco (PLN), no euro. Presupuesto diario dog-friendly: 200-300 PLN (45-70 €)/día sin alojamiento, de los más bajos de Europa.`,
+        `Festivales a evitar con perro ansioso: Jarmark św. Dominika (agosto, el mayor mercado histórico de Europa), Sopot Molo Music Festival (julio).`,
+      ],
+    },
+  },
+
   geneva: {
     history: {
       fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe — siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande en français qu'en anglais, italien ou portugais — y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade — le bassin lacustre coiffé du Jet d'Eau de 140 mètres — relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports — la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, en plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,

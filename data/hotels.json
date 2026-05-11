@@ -6200,6 +6200,135 @@
     "slug": "the-connacht-hotel"
   },
   {
+    "id": "gdansk-1",
+    "name": "Hotel Gdańsk Boutique",
+    "destinationSlug": "gdansk",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2640,
+    "priceFrom": 680,
+    "currency": "PLN",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hotel-gdansk.en-gb.html",
+    "petFee": 80,
+    "petPolicy": "Hotel Gdańsk Boutique — a 5-star design hotel on the Wyspa Spichrzów island facing the Old Town — welcomes pets in selected room categories. Pet fee 80 PLN (~18 €) per night. Up to two pets per room with a recommended max 25 kg per pet. Brovarnia brewery on-site, Motława river views. Pets on lead in lobbies; not allowed in the spa.",
+    "highlights": [
+      "Free WiFi",
+      "Motława river views",
+      "Brewery",
+      "Spa"
+    ],
+    "slug": "hotel-gdansk-boutique"
+  },
+  {
+    "id": "gdansk-2",
+    "name": "PURO Gdańsk Stare Miasto",
+    "destinationSlug": "gdansk",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 3140,
+    "priceFrom": 420,
+    "currency": "PLN",
+    "bookingUrl": "https://www.booking.com/hotel/pl/puro-gdansk-stare-miasto.en-gb.html",
+    "petFee": 60,
+    "petPolicy": "PURO Gdańsk Stare Miasto — a 4-star design hotel on Stągiewna street near the Old Town — welcomes pets at 60 PLN (~14 €) per night. Up to two pets per room. Długi Targ 8 min on foot. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Design rooms",
+      "Bar"
+    ],
+    "slug": "puro-gdansk-stare-miasto"
+  },
+  {
+    "id": "gdansk-3",
+    "name": "Hilton Gdańsk",
+    "destinationSlug": "gdansk",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3640,
+    "priceFrom": 520,
+    "currency": "PLN",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hilton-gdansk.en-gb.html",
+    "petFee": 75,
+    "petPolicy": "Hilton Gdańsk — a 5-star hotel on the Motława river facing the Crane (Żuraw) — welcomes pets at 75 PLN (~17 €) per night. Up to two pets per room. Długi Targ 5 min on foot, Old Town at the doorstep. Pets on lead in common areas; not allowed in the executive lounge.",
+    "highlights": [
+      "Free WiFi",
+      "River views",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "hilton-gdansk"
+  },
+  {
+    "id": "gdansk-4",
+    "name": "Mercure Gdańsk Stare Miasto",
+    "destinationSlug": "gdansk",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2840,
+    "priceFrom": 320,
+    "currency": "PLN",
+    "bookingUrl": "https://www.booking.com/hotel/pl/mercure-gdansk-stare-miasto.en-gb.html",
+    "petFee": 50,
+    "petPolicy": "Mercure Gdańsk Stare Miasto — a 4-star hotel near the Old Town on Heveliusza street — welcomes pets at 50 PLN (~11 €) per night. Up to two pets per room. Długi Targ 10 min on foot, Gdansk Główny station 5 min. Pets on lead in lobbies.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar",
+      "Family rooms"
+    ],
+    "slug": "mercure-gdansk-stare-miasto"
+  },
+  {
+    "id": "gdansk-5",
+    "name": "Hotel Almond",
+    "destinationSlug": "gdansk",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 3420,
+    "priceFrom": 220,
+    "currency": "PLN",
+    "bookingUrl": "https://www.booking.com/hotel/pl/almond.en-gb.html",
+    "petFee": 40,
+    "petPolicy": "Hotel Almond — a 3-star design hotel on Toruńska street in the Old Town — welcomes dogs at 40 PLN (~9 €) per night. One dog per room standard, second on prior request. Długi Targ 6 min on foot.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "24h reception",
+      "Design rooms"
+    ],
+    "slug": "hotel-almond-gdansk"
+  },
+  {
     "id": "geneva-1",
     "name": "Hotel d'Angleterre Geneva",
     "destinationSlug": "geneva",

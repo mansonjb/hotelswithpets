@@ -434,9 +434,9 @@
       ]
     },
     "vets": {
-      "titleEn": "Veterinarians and emergency care in Cork",
-      "titleFr": "Vétérinaires et urgences à Cork",
-      "titleEs": "Veterinarios y urgencias en Cork",
+      "titleEn": "Emergency Vets in Cork — Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence à Cork — Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Cork — Hospitales y clínicas veterinarias",
       "introEn": "Cork has two 24/7 emergency veterinary hospitals serving the city and Munster region. Routine clinics are widely distributed across the suburbs; the Veterinary Council of Ireland register (VCI) confirms English-speaking practice for all licensed vets.",
       "introFr": "Cork compte deux hôpitaux vétérinaires d'urgence 24h/24 desservant la ville et la région du Munster. Les cliniques de routine sont largement réparties dans les faubourgs ; le registre du Veterinary Council of Ireland (VCI) confirme la pratique en anglais pour tous les vétérinaires agréés.",
       "introEs": "Cork cuenta con dos hospitales veterinarios de urgencias 24/7 que atienden la ciudad y la región del Munster. Las clínicas de rutina están ampliamente distribuidas por los suburbios; el registro del Veterinary Council of Ireland (VCI) confirma la práctica en inglés para todos los veterinarios colegiados.",
@@ -749,7 +749,12 @@
           "serviceTypeFr": "Garde, day care, promenade, visites à domicile",
           "serviceTypeEs": "Alojamiento, day care, paseo, visitas a domicilio",
           "pricePerDay": "€20-35 (varies by sitter)",
-          "languages": ["English", "French", "Spanish", "German"],
+          "languages": [
+            "English",
+            "French",
+            "Spanish",
+            "German"
+          ],
           "tip": "Filter for sitters with garden access for medium and large dogs — Cork's central apartments rarely have outdoor space.",
           "tipFr": "Filtrez les sitters avec jardin pour chiens moyens et grands — les appartements centraux de Cork ont rarement d'espace extérieur.",
           "tipEs": "Filtra cuidadores con jardín para perros medianos y grandes — los apartamentos centrales de Cork rara vez tienen espacio exterior."

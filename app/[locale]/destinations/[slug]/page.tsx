@@ -39,15 +39,19 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
   const countryFr = getLocalizedCountryName(dest.country, 'fr')
   const countryEs = getLocalizedCountryName(dest.country, 'es')
+  // SERP titles optimised for real query patterns (GSC May 2026 data):
+  // ES: "hoteles madrid mascotas", "hoteles pet friendly madrid", "hotel con mascotas madrid", "hoteles que admiten mascotas"
+  // FR: "hôtel accepte chiens X", "hôtels animaux acceptés à X", "hôtels pet-friendly X"
+  // EN: "dog friendly hotel X", "pet friendly hotel X", "cat friendly hotel X"
   const titleTemplates: Record<string, string> = {
-    en: `Pet-Friendly Hotels in ${dest.name} (${year}): Verified Policies | HotelsWithPets.com`,
-    fr: `Hôtels pet-friendly à ${cityFr} (${year}) — Politiques vérifiées | HotelsWithPets.com`,
-    es: `Hoteles pet-friendly en ${cityEs} (${year}) — Políticas verificadas | HotelsWithPets.com`,
+    en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}) — Dog & Cat Friendly Stays Verified | HotelsWithPets.com`,
+    fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}) — Chiens et chats bienvenus | HotelsWithPets.com`,
+    es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}) — Hoteles pet-friendly verificados | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
-    en: `Find ${hotelCount} pet-friendly hotels in ${dest.name}, ${dest.country}. Verified policies, from €${minPrice}/night. Compare and book on Booking.com.`,
-    fr: `Découvrez ${hotelCount} hôtels acceptant les animaux à ${cityFr}, ${countryFr}. Politiques vérifiées, dès ${minPrice} €/nuit. Réservez sur Booking.com.`,
-    es: `Descubre ${hotelCount} hoteles que admiten mascotas en ${cityEs}, ${countryEs}. Políticas verificadas, desde ${minPrice} €/noche. Reserva en Booking.com.`,
+    en: `${hotelCount} verified dog- and cat-friendly hotels in ${dest.name}, ${dest.country} from €${minPrice}/night. Pet fees, weight limits and policies clearly listed. Book on Booking.com.`,
+    fr: `${hotelCount} hôtels pet-friendly vérifiés à ${cityFr}, ${countryFr} dès ${minPrice} €/nuit. Supplément animaux, poids maximum et conditions clairement détaillés. Réservez sur Booking.com.`,
+    es: `${hotelCount} hoteles que admiten perros y gatos en ${cityEs}, ${countryEs} desde ${minPrice} €/noche. Suplemento mascotas, peso máximo y condiciones detalladas. Reserva en Booking.com.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en

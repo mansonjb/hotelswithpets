@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "check-i18n": "node scripts/check-i18n.mjs",
-    "build": "node scripts/check-i18n.mjs && next build",
+    "build": "node scripts/check-i18n.mjs && NODE_OPTIONS=\"--max-old-space-size=7168\" next build",
     "start": "next start",
     "lint": "eslint",
     "scrape": "node scripts/scrape-booking.mjs",

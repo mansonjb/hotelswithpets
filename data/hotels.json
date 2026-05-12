@@ -10727,6 +10727,130 @@
     "slug": "nhow-milano"
   },
   {
+    "id": "modena-1",
+    "name": "Phi Hotel Canalgrande",
+    "destinationSlug": "modena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1450,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/canalgrande.html",
+    "petFee": 25,
+    "petPolicy": "Phi Hotel Canalgrande — Historic 17th-century palazzo in the heart of the centre, 5 min walk from Piazza Grande. Pet fee 25 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "17th-c. palazzo",
+      "Garden",
+      "Restaurant"
+    ],
+    "slug": "phi-hotel-canalgrande-modena"
+  },
+  {
+    "id": "modena-2",
+    "name": "Hotel Cervetta 5",
+    "destinationSlug": "modena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 980,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/cervetta5.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Cervetta 5 — Stylish design 4-star directly opposite the Duomo and Piazza Grande. Pet fee 15 EUR/night. Small/medium dogs welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Piazza Grande view",
+      "Boutique design",
+      "Breakfast"
+    ],
+    "slug": "hotel-cervetta-5-modena"
+  },
+  {
+    "id": "modena-3",
+    "name": "Best Western Premier Milano Palace Hotel",
+    "destinationSlug": "modena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/milanopalace.html",
+    "petFee": 15,
+    "petPolicy": "Best Western Premier Milano Palace — Modern 4-star, 5 min walk from the train station and 10 from the historic centre. Pet fee 15 EUR/night. Dogs up to 10 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar",
+      "Parking"
+    ],
+    "slug": "best-western-premier-milano-palace-modena"
+  },
+  {
+    "id": "modena-4",
+    "name": "Hotel RMH Modena Raffaello",
+    "destinationSlug": "modena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1820,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/rmh-modena-raffaello.html",
+    "petFee": 12,
+    "petPolicy": "RMH Modena Raffaello — Contemporary 4-star with garden, 15 min walk to centre. Pet fee 12 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Garden",
+      "Restaurant",
+      "Free Parking"
+    ],
+    "slug": "rmh-modena-raffaello"
+  },
+  {
+    "id": "modena-5",
+    "name": "Hotel Estense",
+    "destinationSlug": "modena",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1320,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/estense-modena.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Estense — Family-run 3-star near the Duomo. Pet fee 10 EUR/night. Small dogs welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Central",
+      "Breakfast",
+      "Family-run"
+    ],
+    "slug": "hotel-estense-modena"
+  },
+  {
     "id": "montpellier-1",
     "name": "Hôtel Oceania Le Métropole",
     "destinationSlug": "montpellier",

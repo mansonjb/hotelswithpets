@@ -99,6 +99,7 @@ const TARGETS = [
   { slug: 'oxford', query: 'Oxford England Radcliffe Camera All Souls dreaming spires honey limestone university panorama sunset' },
   { slug: 'aix-en-provence', query: 'Aix en Provence France Cours Mirabeau plane trees fountain hotels particuliers Provence panorama sunset' },
   { slug: 'coimbra', query: 'Coimbra Portugal University hilltop Se Velha Mondego river Pedro Ines bridge UNESCO panorama sunset' },
+  { slug: 'modena', query: 'Modena Italy Piazza Grande Duomo Ghirlandina tower UNESCO Emilia Romagna Romanesque panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

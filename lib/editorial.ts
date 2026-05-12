@@ -381,6 +381,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parco Sempione, the Navigli canal district, and the spacious Villa Reale gardens',
       area: 'Brera, Navigli, and the Porta Venezia design district',
     },
+    modena: {
+      personality: `a flat, compact Emilian city where the UNESCO Piazza Grande, four fenced off-leash dog parks, and the Lambrusco wine hills create one of Italy's easiest cities to walk a dog`,
+      highlight: 'the Parco Ducale Estense with its sgambamento area, the Parco Novi Sad off-leash zone (>2 ha), and the porticoed walk from Piazza Grande to the Mercato Albinelli',
+      area: 'the historic centre around the Duomo and Ghirlandina, the Parco Ducale north of centre, and Parco Novi Sad north of the train station',
+    },
     montpellier: {
       personality: 'a sun-drenched university city in the south of France where dogs join their owners on shaded café terraces, in tram carriages, and along the Lez riverside walks',
       highlight: 'the Parc Méric off-leash enclosure, the Berges du Lez riverside trail, and the Grand Travers dog-friendly beach just 20 km away',
@@ -979,6 +984,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parco Sempione, le quartier des canaux Navigli et les spacieux jardins de la Villa Reale',
       area: 'Brera, les Navigli et le quartier du design de la Porta Venezia',
     },
+    modena: {
+      personality: `une ville émilienne plate et compacte où la Piazza Grande UNESCO, quatre parcs canins clôturés et les collines viticoles du Lambrusco en font l'une des villes italiennes les plus faciles avec un chien`,
+      highlight: 'le Parco Ducale Estense et sa zone sgambamento, la grande aire sans laisse du Parco Novi Sad (>2 ha), et la promenade sous arcades de la Piazza Grande au Mercato Albinelli',
+      area: 'le centre historique autour du Duomo et de la Ghirlandina, le Parco Ducale au nord du centre, et le Parco Novi Sad au nord de la gare',
+    },
     montpellier: {
       personality: 'une ville universitaire ensoleillée du sud de la France où les chiens accompagnent leurs maîtres en terrasse, dans le tram et le long des promenades au bord du Lez',
       highlight: 'l\'enclos hors laisse du Parc Méric, la promenade des Berges du Lez et la plage dog-friendly du Grand Travers à 20 km',
@@ -1575,6 +1585,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capital del diseño de Italia, donde un número creciente de hoteles de lujo y boutique acogen cálidamente a las mascotas',
       highlight: 'el Parco Sempione, el distrito de los canales Navigli y los espaciosos jardines de la Villa Reale',
       area: 'Brera, los Navigli y el barrio de diseño de la Porta Venezia',
+    },
+    modena: {
+      personality: 'una ciudad emiliana llana y compacta donde la Piazza Grande UNESCO, cuatro parques caninos vallados y las colinas vinícolas del Lambrusco la convierten en una de las ciudades italianas más fáciles con perro',
+      highlight: 'el Parco Ducale Estense y su zona sgambamento, la gran área sin correa del Parco Novi Sad (>2 ha) y el paseo bajo soportales desde la Piazza Grande hasta el Mercato Albinelli',
+      area: 'el casco histórico en torno al Duomo y la Ghirlandina, el Parco Ducale al norte del centro y el Parco Novi Sad al norte de la estación',
     },
     montpellier: {
       personality: 'una soleada ciudad universitaria del sur de Francia donde los perros acompañan a sus dueños en terrazas de cafés, en el tranvía y por los paseos a orillas del Lez',

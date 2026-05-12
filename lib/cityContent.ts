@@ -7710,6 +7710,119 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  modena: {
+    history: {
+      fr: `Modène, ville d'environ 185 000 habitants en Émilie-Romagne, est mondialement connue comme la capitale gastronomique du vinaigre balsamique traditionnel (DOP depuis 2000) et comme berceau de Ferrari, Maserati, Pagani et Pavarotti. La Cathédrale romane (1099–1184), la tour Ghirlandina (1169–1319) et la Piazza Grande forment un trio inscrit au patrimoine mondial de l'UNESCO depuis 1997. La ville fut un duché indépendant gouverné par les Este de 1452 à 1859 et conserve aujourd'hui son centre historique compact et plat — l'un des plus marchables d'Italie avec un chien. À 30 minutes de Bologne et 1h45 de Milan en train, Modène combine une scène culinaire d'exception (Osteria Francescana, 3 étoiles Michelin), un patrimoine UNESCO unique et l'une des meilleures infrastructures canines d'Émilie-Romagne avec quatre parcs sgambamento clôturés.`,
+      en: `Modena, a city of about 185,000 in Emilia-Romagna, is world-famous as the capital of traditional balsamic vinegar (PDO since 2000) and as the birthplace of Ferrari, Maserati, Pagani and Pavarotti. The Romanesque Cathedral (1099–1184), the Ghirlandina tower (1169–1319) and the Piazza Grande form a UNESCO World Heritage trio listed in 1997. The city was an independent duchy ruled by the Este family from 1452 to 1859 and retains a compact, flat historic centre — one of Italy's most walkable with a dog. Just 30 minutes from Bologna and 1h45 from Milan by train, Modena combines an exceptional culinary scene (Osteria Francescana, 3 Michelin stars), unique UNESCO heritage, and one of Emilia-Romagna's best dog infrastructures, with four fenced sgambamento dog parks.`,
+      es: `Módena, ciudad de unos 185.000 habitantes en Emilia-Romaña, es mundialmente conocida como capital gastronómica del vinagre balsámico tradicional (DOP desde 2000) y cuna de Ferrari, Maserati, Pagani y Pavarotti. La Catedral románica (1099–1184), la torre Ghirlandina (1169–1319) y la Piazza Grande forman un trío declarado Patrimonio Mundial UNESCO en 1997. La ciudad fue un ducado independiente gobernado por los Este de 1452 a 1859 y conserva un casco histórico compacto y llano — uno de los más caminables de Italia con un perro. A 30 minutos de Bolonia y 1h45 de Milán en tren, Módena combina una escena culinaria excepcional (Osteria Francescana, 3 estrellas Michelin), patrimonio UNESCO único y una de las mejores infraestructuras caninas de Emilia-Romaña con cuatro parques sgambamento vallados.`,
+    },
+    sights: [
+      {
+        name: 'Piazza Grande & Duomo',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Inscrits à l'UNESCO depuis 1997. La place centrale est entièrement ouverte aux chiens en laisse ; l'intérieur de la cathédrale romane (1099–1184) ne l'est pas (sauf chiens d'assistance).`,
+          en: `UNESCO-listed since 1997. The central square is fully open to leashed dogs; the Romanesque cathedral interior (1099–1184) is not (except assistance dogs).`,
+          es: `Declarados Patrimonio UNESCO desde 1997. La plaza central es totalmente accesible a perros con correa; el interior de la catedral románica (1099–1184) no (salvo perros de asistencia).`,
+        },
+      },
+      {
+        name: 'Torre della Ghirlandina',
+        emoji: '🗼',
+        petFriendly: false,
+        desc: {
+          fr: `Tour-clocher de 87 m bâtie entre 1169 et 1319, symbole de Modène. 200 marches pour la meilleure vue de la ville. Chiens interdits à l'intérieur ; place autour accessible.`,
+          en: `87-metre bell tower built between 1169 and 1319, symbol of Modena. 200 steps for the best city view. Dogs not allowed inside; surrounding piazza accessible.`,
+          es: `Campanario de 87 m construido entre 1169 y 1319, símbolo de Módena. 200 escalones para la mejor vista. No se admiten perros en el interior; plaza alrededor accesible.`,
+        },
+      },
+      {
+        name: 'Parco Ducale Estense',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc principal de la ville (13 ha), dessiné pour les ducs d'Este au XVIIe s. derrière le Palazzo Ducale. Platanes, étangs, zone canine clôturée sans laisse dans le coin nord-ouest.`,
+          en: `The city's main park (13 ha), designed for the Este dukes in the 17th century behind the Palazzo Ducale. Plane trees, ponds, fenced off-leash dog area in the north-west corner.`,
+          es: `El parque principal de la ciudad (13 ha), diseñado para los duques de Este en el s. XVII tras el Palazzo Ducale. Plátanos, estanques, área canina vallada sin correa en el extremo noroeste.`,
+        },
+      },
+      {
+        name: 'Parco Novi Sad',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Parc moderne de 23 ha au nord de la gare (2009). Pelouses dégagées, boucle de jogging, grande zone sgambamento clôturée de plus de 2 hectares — la meilleure zone sans laisse de Modène.`,
+          en: `Modern park of 23 ha north of the station (2009). Open lawns, jogging loop, large fenced sgambamento area over 2 hectares — Modena's best off-leash run.`,
+          es: `Parque moderno de 23 ha al norte de la estación (2009). Praderas abiertas, circuito jogging, gran zona sgambamento vallada de más de 2 hectáreas — el mejor sin correa de Módena.`,
+        },
+      },
+      {
+        name: 'Mercato Albinelli',
+        emoji: '🛍️',
+        petFriendly: true,
+        desc: {
+          fr: `Marché couvert historique de 1931 — Art déco, fer forgé, fontaine centrale en bronze. Les chiens en laisse sont admis dans les allées extérieures ; pour les étals alimentaires intérieurs, ça varie selon les vendeurs.`,
+          en: `Historic covered market from 1931 — Art Deco, wrought iron, bronze central fountain. Leashed dogs welcome in the outer aisles; for the indoor food stalls, it varies by vendor.`,
+          es: `Mercado cubierto histórico de 1931 — art déco, hierro forjado, fuente central de bronce. Perros con correa admitidos en los pasillos exteriores; en los puestos interiores varía por vendedor.`,
+        },
+      },
+      {
+        name: 'Casa Enzo Ferrari Museum',
+        emoji: '🏎️',
+        petFriendly: false,
+        desc: {
+          fr: `Musée Ferrari construit autour de la maison natale d'Enzo Ferrari (1898). Pavillon à toit jaune signé Jan Kaplický (2012). Chiens interdits à l'intérieur ; jardin extérieur accessible.`,
+          en: `Ferrari museum built around the house where Enzo Ferrari was born (1898). Yellow-roofed pavilion by Jan Kaplický (2012). Dogs not allowed inside; outdoor garden accessible.`,
+          es: `Museo Ferrari construido en torno a la casa natal de Enzo Ferrari (1898). Pabellón de cubierta amarilla de Jan Kaplický (2012). No se admiten perros en el interior; jardín exterior accesible.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Modène est plate et compacte — l'idéal pour les chiens âgés ou aux pattes courtes : tout le centre tient dans un rayon de 600 m.`,
+        `L'humidité estivale de la plaine du Pô est brutale : indice de chaleur >38°C en juillet–août. Promenez avant 9h ou après 20h.`,
+        `Les bus SETA acceptent les petits chiens en sac gratuitement ; pour les grands chiens, billet normal + muselière obligatoire.`,
+        `Le musée Ferrari, la Galleria Ferrari de Maranello et les acetaie de balsamique traditionnel n'admettent pas les animaux — réservez un sitter DogBuddy ou Pawshake.`,
+        `Quatre parcs sgambamento clôturés en ville — le plus grand est au Parco Novi Sad (>2 ha), idéal pour les chiens qui ont besoin de courir.`,
+      ],
+      en: [
+        `Modena is flat and compact — ideal for older or short-legged dogs: the whole centre fits in a 600-metre radius.`,
+        `Po Valley summer humidity is brutal: heat index >38°C in July–August. Walk before 09:00 or after 20:00.`,
+        `SETA buses accept small dogs in carriers free; larger dogs need a regular ticket plus muzzle.`,
+        `The Ferrari Museum, the Galleria Ferrari in Maranello, and traditional balsamic acetaie do not admit pets — book a DogBuddy or Pawshake sitter.`,
+        `Four fenced sgambamento dog parks in town — the largest is at Parco Novi Sad (>2 ha), ideal for dogs that need to run.`,
+      ],
+      es: [
+        `Módena es llana y compacta — ideal para perros mayores o de patas cortas: todo el centro cabe en un radio de 600 m.`,
+        `La humedad estival del valle del Po es brutal: índice de calor >38°C en julio–agosto. Pasea antes de las 09:00 o después de las 20:00.`,
+        `Los autobuses SETA admiten perros pequeños en transportín gratis; los perros más grandes necesitan billete normal y bozal.`,
+        `El Museo Ferrari, la Galleria Ferrari de Maranello y las acetaie tradicionales de balsámico no admiten mascotas — reserva un cuidador DogBuddy o Pawshake.`,
+        `Cuatro parques sgambamento vallados en la ciudad — el mayor está en el Parco Novi Sad (>2 ha), ideal para perros que necesitan correr.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Ospedale Veterinario Modena, Via Emilia Ovest 1190, +39 059 84 79 11`,
+        `Clinique de jour centrale : Ambulatorio Veterinario Centro Storico, Via Emilia Centro 137, +39 059 23 31 32`,
+        `Frecciarossa depuis Bologne : 30 min ; depuis Milan : 1h45. Petits chiens en sac (jusqu'à 10 kg) gratuits ; au-delà, billet animal 50% du tarif adulte + muselière.`,
+        `Aéroport le plus proche : Bologne BLQ (50 min en voiture) — Ryanair et vols UE directs.`,
+      ],
+      en: [
+        `24/7 emergency vet: Ospedale Veterinario Modena, Via Emilia Ovest 1190, +39 059 84 79 11`,
+        `Central daytime clinic: Ambulatorio Veterinario Centro Storico, Via Emilia Centro 137, +39 059 23 31 32`,
+        `Frecciarossa from Bologna: 30 min; from Milan: 1h45. Small dogs in a carrier (up to 10 kg) free; beyond, pet ticket 50% of adult fare plus muzzle.`,
+        `Closest airport: Bologna BLQ (50 min by car) — Ryanair and direct EU flights.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Ospedale Veterinario Modena, Via Emilia Ovest 1190, +39 059 84 79 11`,
+        `Clínica diurna céntrica: Ambulatorio Veterinario Centro Storico, Via Emilia Centro 137, +39 059 23 31 32`,
+        `Frecciarossa desde Bolonia: 30 min; desde Milán: 1h45. Perros pequeños en transportín (hasta 10 kg) gratis; más allá, billete mascota 50% de la tarifa adulta y bozal.`,
+        `Aeropuerto más cercano: Bolonia BLQ (50 min en coche) — Ryanair y vuelos UE directos.`,
+      ],
+    },
+  },
+
   montpellier: {
     history: {
       fr: `Montpellier est l'une des villes les plus jeunes de France par son histoire médiévale — fondée au Xe siècle autour d'un marché, elle devint rapidement un carrefour commercial entre l'Italie, l'Espagne et le nord de la France. Son université de médecine, fondée en 1220, est l'une des plus anciennes encore en activité en Europe et donna à la ville son caractère intellectuel durable. Ville universitaire et dynamique, Montpellier accueille aujourd'hui plus de 70 000 étudiants, ce qui explique son ambiance détendue et progressiste. La ville est connue pour ses cafés accueillant les chiens, ses marchés en plein air et ses parcs ombragés — une combinaison qui en fait l'une des villes du sud de la France les plus agréables à visiter avec un animal de compagnie.`,

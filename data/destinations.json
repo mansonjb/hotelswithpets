@@ -5280,6 +5280,80 @@
     }
   },
   {
+    "slug": "modena",
+    "name": "Modena",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/modena.jpg",
+    "intro": "Emilia-Romagna's gastronomic heart and home of balsamic vinegar, Ferrari, Maserati, Pavarotti. The Cathedral, Ghirlandina tower and Piazza Grande form a UNESCO World Heritage trio (1997). Compact and flat — easy walking with a dog. 35 min from Bologna and 1h45 from Milan by train. Spring and autumn are ideal; summers are humid (32°C), winters foggy.",
+    "lat": 44.6471,
+    "lng": 10.9252,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, humid",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "montpellier",
     "name": "Montpellier",
     "country": "France",

@@ -166,6 +166,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
       area: 'the Altstadt around the cathedral, Ehrenfeld, and the Severinsviertel',
     },
+    coimbra: {
+      personality: 'a UNESCO university city tumbling from its hilltop down to the Mondego, where leashed dogs glide through medieval lanes and the Choupal riparian forest is the daily walking magnet',
+      highlight: `the Mata Nacional do Choupal riverside forest, the Parque Verde do Mondego with its Pedro & Inês pedestrian bridge, and the outdoor courtyards of Europe's oldest university`,
+      area: 'the Baixa (lower town) along the Mondego, the Alta (upper town) around the university, and the south bank near the Pedro & Inês bridge',
+    },
     copenhagen: {
       personality: 'a city that leads Europe on pet welfare. Dogs travel free on public transport, enter most shops, and are welcomed with water bowls on nearly every terrace',
       highlight: 'the Frederiksberg Gardens, Fælledparken, and the harbour waterfront',
@@ -759,6 +764,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
       area: 'l\'Altstadt autour de la cathédrale, Ehrenfeld et le Severinsviertel',
     },
+    coimbra: {
+      personality: `une ville universitaire UNESCO qui dévale de sa colline jusqu'au Mondego, où les chiens en laisse glissent dans les ruelles médiévales et où la forêt riveraine du Choupal est l'aimant quotidien des promenades`,
+      highlight: `la forêt riveraine de la Mata Nacional do Choupal, le Parque Verde do Mondego et sa passerelle piétonne Pedro & Inês, ainsi que les cours extérieures de la plus ancienne université d'Europe`,
+      area: 'la Baixa (basse ville) le long du Mondego, l\'Alta (haute ville) autour de l\'université et la rive sud près de la passerelle Pedro & Inês',
+    },
     copenhagen: {
       personality: 'une ville en tête de l\'Europe pour le bien-être animal. Les chiens voyagent gratuitement dans les transports en commun, entrent dans la plupart des commerces et sont accueillis avec des bols d\'eau sur presque toutes les terrasses',
       highlight: 'les jardins de Frederiksberg, Fælledparken et le front de mer du port',
@@ -1350,6 +1360,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
       area: 'la Altstadt en torno a la catedral, Ehrenfeld y el Severinsviertel',
+    },
+    coimbra: {
+      personality: 'una ciudad universitaria UNESCO que desciende desde su colina hasta el Mondego, donde los perros con correa se deslizan por las callejuelas medievales y el bosque ripario del Choupal es el imán diario de los paseos',
+      highlight: 'el bosque ribereño de la Mata Nacional do Choupal, el Parque Verde do Mondego con su pasarela peatonal Pedro & Inês, y los patios exteriores de la universidad más antigua de Europa',
+      area: 'la Baixa (ciudad baja) junto al Mondego, la Alta (ciudad alta) en torno a la universidad y la orilla sur cerca de la pasarela Pedro & Inês',
     },
     copenhagen: {
       personality: 'una ciudad líder en Europa en bienestar animal. Los perros viajan gratis en transporte público, entran en la mayoría de los comercios y son bienvenidos con cuencos de agua en casi todas las terrazas',

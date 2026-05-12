@@ -4214,6 +4214,131 @@
     "slug": "le-cavendish-boutique-hotel-cannes"
   },
   {
+    "id": "coimbra-1",
+    "name": "Quinta das Lágrimas",
+    "destinationSlug": "coimbra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1430,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/quinta-das-lagrimas.html",
+    "petFee": 25,
+    "petPolicy": "Quinta das Lágrimas — 5-star historic estate set in 14th-century gardens linked to the Inês de Castro legend, 10 min walk from the old town. Pet fee 25 EUR/night. Up to 2 pets (max 15 kg). Pets welcome in gardens; not in restaurant.",
+    "highlights": [
+      "Free WiFi",
+      "Historic gardens",
+      "Spa",
+      "Outdoor pool"
+    ],
+    "slug": "quinta-das-lagrimas-coimbra"
+  },
+  {
+    "id": "coimbra-2",
+    "name": "Sapientia Boutique Hotel",
+    "destinationSlug": "coimbra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1180,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/sapientia-boutique.html",
+    "petFee": 15,
+    "petPolicy": "Sapientia Boutique Hotel — Contemporary 4-star design hotel in the old town, with panoramic terrace over the Mondego. Pet fee 15 EUR/night. Small/medium pets welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop terrace",
+      "Old town location",
+      "River view"
+    ],
+    "slug": "sapientia-boutique-hotel-coimbra"
+  },
+  {
+    "id": "coimbra-3",
+    "name": "Hotel Oslo Coimbra",
+    "destinationSlug": "coimbra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2400,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/oslo-coimbra.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Oslo Coimbra — Central 3-star opposite the train station, 5 min walk from the old town. Pet fee 12 EUR/night. Small dogs (max 8 kg) welcome. Notify at booking.",
+    "highlights": [
+      "Free WiFi",
+      "Central location",
+      "Rooftop bar",
+      "Breakfast"
+    ],
+    "slug": "hotel-oslo-coimbra"
+  },
+  {
+    "id": "coimbra-4",
+    "name": "Vila Galé Coimbra",
+    "destinationSlug": "coimbra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vila-gale-coimbra.html",
+    "petFee": 18,
+    "petPolicy": "Vila Galé Coimbra — Modern 4-star on the Mondego south bank with garden, 15 min walk to old town. Pet fee 18 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Outdoor pool",
+      "Riverside"
+    ],
+    "slug": "vila-gale-coimbra"
+  },
+  {
+    "id": "coimbra-5",
+    "name": "Hotel Astória",
+    "destinationSlug": "coimbra",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1820,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/astoria-coimbra.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Astória — Iconic Art Nouveau 3-star (1926) on the Mondego riverside, 5 min from the old town. Pet fee 10 EUR/night. Small dogs welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Art Nouveau heritage",
+      "River view",
+      "Central"
+    ],
+    "slug": "hotel-astoria-coimbra"
+  },
+  {
     "id": "cologne-1",
     "name": "Hotel Lyskirchen",
     "destinationSlug": "cologne",

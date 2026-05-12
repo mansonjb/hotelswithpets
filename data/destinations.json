@@ -2055,6 +2055,80 @@
     }
   },
   {
+    "slug": "coimbra",
+    "name": "Coimbra",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/coimbra.jpg",
+    "intro": "Portugal's third city and its medieval capital (1131–1255), home to the UNESCO-listed University of Coimbra (founded 1290, one of Europe's oldest). The hilltop old town tumbles down to the Mondego river in narrow lanes and stairways. 1h45 from Lisbon and 1h15 from Porto by Alfa Pendular train. Spring and autumn are ideal; summers are warm (28–30°C) but breezy.",
+    "lat": 40.2033,
+    "lng": -8.4103,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild, showers",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "cologne",
     "name": "Cologne",
     "country": "Germany",

@@ -401,6 +401,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
       area: 'Frogner, Grünerløkka, and Tjuvholmen',
     },
+    oxford: {
+      personality: 'a medieval university city where the honey-coloured college quadrangles are off-limits but the surrounding meadows, riverside pubs, and the off-lead Port Meadow make it one of England\'s easiest small-city dog breaks',
+      highlight: 'Port Meadow off-lead common, Christ Church Meadow, and the University Parks',
+      area: 'the City Centre, Jericho, and North Oxford',
+    },
     palma: {
       personality: 'a sun-soaked Mediterranean island capital where terraces, beaches, and a year-round warm climate make it one of Spain\'s most dog-friendly cities',
       highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
@@ -984,6 +989,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
       area: 'Frogner, Grünerløkka et Tjuvholmen',
     },
+    oxford: {
+      personality: 'une ville universitaire médiévale où les cours des collèges couleur miel sont interdites aux chiens mais où les prairies environnantes, les pubs riverains et le Port Meadow sans laisse en font l\'une des escapades urbaines les plus faciles d\'Angleterre',
+      highlight: 'le common sans laisse de Port Meadow, Christ Church Meadow et les University Parks',
+      area: 'le centre-ville, Jericho et North Oxford',
+    },
     palma: {
       personality: 'une capitale insulaire méditerranéenne ensoleillée où les terrasses, les plages et un climat chaud toute l\'année en font l\'une des villes les plus dog-friendly d\'Espagne',
       highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
@@ -1565,6 +1575,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
       area: 'Frogner, Grünerløkka y Tjuvholmen',
+    },
+    oxford: {
+      personality: 'una ciudad universitaria medieval donde los patios color miel de los colleges están vetados a los perros pero los prados circundantes, los pubs ribereños y el Port Meadow sin correa la convierten en una de las escapadas urbanas más fáciles de Inglaterra',
+      highlight: 'el common sin correa de Port Meadow, Christ Church Meadow y los University Parks',
+      area: 'el centro, Jericho y North Oxford',
     },
     palma: {
       personality: 'una capital insular mediterránea bañada por el sol donde las terrazas, las playas y el clima cálido durante todo el año la convierten en una de las ciudades más dog-friendly de España',

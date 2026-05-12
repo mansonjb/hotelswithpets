@@ -5572,6 +5572,80 @@
     }
   },
   {
+    "slug": "oxford",
+    "name": "Oxford",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/oxford.jpg",
+    "intro": "England's medieval university city — honey-coloured college quadrangles, the 162-hectare off-lead Port Meadow, the Christ Church Meadow loop and the Thames towpath. Compact, walkable, with one of the country's highest pub dog-welcome rates and 24/7 emergency vet cover at Medivet Woodstock.",
+    "lat": 51.752,
+    "lng": -1.2577,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, occasional frost",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, blooming",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm, long days",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm, occasional rain",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "palma",
     "name": "Palma de Mallorca",
     "country": "Spain",

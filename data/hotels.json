@@ -11457,6 +11457,122 @@
     "slug": "clarion-hotel-the-hub"
   },
   {
+    "id": "oxford-1",
+    "name": "The Randolph Hotel by Graduate Hotels",
+    "destinationSlug": "oxford",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 2200,
+    "priceFrom": 295,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/macdonald-randolph.html",
+    "petFee": 40,
+    "petPolicy": "Up to 2 dogs of any size welcome for £40 per dog per night. Pets cannot be left unattended in rooms. Cats are not accepted.",
+    "highlights": [
+      "Iconic 5-star Gothic Revival hotel opposite the Ashmolean",
+      "Dogs of any size welcome (no weight limit)",
+      "Concierge keeps a vetted list of local dog walkers"
+    ],
+    "slug": "the-randolph-hotel-by-graduate-hotels"
+  },
+  {
+    "id": "oxford-2",
+    "name": "Malmaison Oxford",
+    "destinationSlug": "oxford",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2900,
+    "priceFrom": 175,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/malmaison-oxford.html",
+    "petFee": 25,
+    "petPolicy": "Up to 2 dogs (max 25 kg each) accepted at £25 per night for the first dog and £15 for the second. Cats are not allowed.",
+    "highlights": [
+      "Boutique hotel in the converted Victorian Oxford Prison",
+      "Up to 2 dogs accepted (max 25 kg)",
+      "Walking distance from Oxford Castle courtyard and Westgate"
+    ],
+    "slug": "malmaison-oxford"
+  },
+  {
+    "id": "oxford-3",
+    "name": "voco Oxford Thames by IHG",
+    "destinationSlug": "oxford",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 145,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/de-vere-oxford-thames.html",
+    "petFee": 50,
+    "petPolicy": "Well-behaved dogs welcome at £50 per night via the Pet Getaway package (treats on arrival, dog bed in room). One pet per room; pets must not be left unattended.",
+    "highlights": [
+      "Riverside hotel on 30 acres of Thames gardens",
+      "Pet Getaway package (dog bed, treats, breakfast included)",
+      "Direct Thames towpath dog walking from the property"
+    ],
+    "slug": "voco-oxford-thames-by-ihg"
+  },
+  {
+    "id": "oxford-4",
+    "name": "Mercure Oxford Hawkwell House Hotel",
+    "destinationSlug": "oxford",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 1800,
+    "priceFrom": 99,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hawkwellhouse.html",
+    "petFee": 20,
+    "petPolicy": "One dog of any size welcome at £20 per night. Water bowls, blankets and treats provided on request. Well-behaved pets may be left in the room unattended. Cats are not allowed.",
+    "highlights": [
+      "4-star hotel in Iffley village with 3 acres of private gardens",
+      "Dogs of any size accepted (no weight limit)",
+      "Walking distance from Iffley Lock and the Thames towpath"
+    ],
+    "slug": "mercure-oxford-hawkwell-house-hotel"
+  },
+  {
+    "id": "oxford-5",
+    "name": "Royal Oxford Hotel",
+    "destinationSlug": "oxford",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 2300,
+    "priceFrom": 89,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/royaloxford.html",
+    "petFee": 35,
+    "petPolicy": "Dogs of any size welcome for £35 per pet per stay (not per night). Food and water bowls provided. Pets allowed in-room with prior notification at booking.",
+    "highlights": [
+      "3-star hotel 2 minutes from Oxford railway station",
+      "Per-stay (not per-night) pet fee — best value for longer trips",
+      "5-minute walk to the Westgate and city centre"
+    ],
+    "slug": "royal-oxford-hotel"
+  },
+  {
     "id": "palma-1",
     "name": "Hotel Cappuccino - Palma",
     "destinationSlug": "palma",

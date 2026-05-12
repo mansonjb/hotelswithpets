@@ -120,6 +120,126 @@
     "slug": "cabinn-aarhus"
   },
   {
+    "id": "aix-en-provence-1",
+    "name": "Le Pigonnet — Esprit de France",
+    "destinationSlug": "aix-en-provence",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1600,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-pigonnet.html",
+    "petFee": 40,
+    "petPolicy": "Dogs welcome at €40 per pet per night. Pet bed and bowls provided on request. Dogs cannot be fitted in Single rooms and cannot be left alone in the room.",
+    "highlights": [
+      "5-star Provençal manor with 1.5 hectares of formal gardens",
+      "Direct view of the Sainte-Victoire from the garden",
+      "10-minute walk from Cours Mirabeau"
+    ],
+    "slug": "le-pigonnet-esprit-de-france"
+  },
+  {
+    "id": "aix-en-provence-2",
+    "name": "Renaissance Aix-en-Provence Hotel",
+    "destinationSlug": "aix-en-provence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1900,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/renaissance-aix-en-provence.html",
+    "petFee": 35,
+    "petPolicy": "Pets of any size welcome with a refundable deposit of €35 per night. Dogs and cats accepted. Pets cannot be left unattended.",
+    "highlights": [
+      "5-star Marriott hotel with rooftop pool and Sainte-Victoire view",
+      "Refundable pet deposit (not charged on departure if no damage)",
+      "10-minute walk from the historic centre via the Parc Saint-Mitre"
+    ],
+    "slug": "renaissance-aix-en-provence-hotel"
+  },
+  {
+    "id": "aix-en-provence-3",
+    "name": "Grand Hôtel Roi René Aix-en-Provence Centre — MGallery",
+    "destinationSlug": "aix-en-provence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2400,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/grand-hotel-roi-rene.html",
+    "petFee": 15,
+    "petPolicy": "Dogs of any size welcome at €15 per pet per night. Multiple pets accepted. Cats also welcomed. Outdoor pool and gardens accessible with pets.",
+    "highlights": [
+      "4-star MGallery hotel directly opposite Cours Mirabeau",
+      "Multiple pets accepted (€15 each per night)",
+      "Walk to Parc Jourdan in 5 minutes"
+    ],
+    "slug": "grand-hotel-roi-rene-mgallery"
+  },
+  {
+    "id": "aix-en-provence-4",
+    "name": "Hôtel Cézanne Boutique",
+    "destinationSlug": "aix-en-provence",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/cezanne-aix-en-provence.html",
+    "petFee": 0,
+    "petPolicy": "One dog of any size welcome at no extra charge. Pet bed-pillow provided in the room on request. Notify the hotel at booking.",
+    "highlights": [
+      "Boutique hotel with NO pet fee — free dog stays",
+      "200 m from Aix-en-Provence railway station",
+      "Pet bed-pillow provided on request"
+    ],
+    "slug": "hotel-cezanne-boutique"
+  },
+  {
+    "id": "aix-en-provence-5",
+    "name": "Hôtel Cardinal",
+    "destinationSlug": "aix-en-provence",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1300,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/cardinal-aix-en-provence.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats of any size welcome at no extra charge. Each guestroom can host one pet. Notify at booking and bring a vaccination record.",
+    "highlights": [
+      "Historic 3-star hotel in the Quartier Mazarin",
+      "No pet fee — dogs and cats stay free",
+      "1-minute walk from the Granet Museum and Quatre Dauphins fountain"
+    ],
+    "slug": "hotel-cardinal-aix"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",

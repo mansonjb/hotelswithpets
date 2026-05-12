@@ -74,6 +74,80 @@
     }
   },
   {
+    "slug": "aix-en-provence",
+    "name": "Aix-en-Provence",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/aix-en-provence.jpg",
+    "intro": "Provence's elegant 17th-century university city — plane-tree-canopied Cours Mirabeau, baroque mansions, fountain-filled squares and the looming Sainte-Victoire painted by Cézanne. Compact, walkable, exceptionally dog-tolerant terraces and a 24/7 emergency vet on the Pont de l'Arc.",
+    "lat": 43.5297,
+    "lng": 5.4474,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool, mistral wind",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool, occasional rain",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild, blooming",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Pleasant, flowers",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, vibrant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, mistral days",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot, dry, fire-risk",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm, golden",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild, autumn light",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",

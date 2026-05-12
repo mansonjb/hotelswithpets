@@ -26,6 +26,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Marselisborg Hundeskov, Bellevue Strand year-round dog beach, and the Den Gamle By open-air museum',
       area: 'Latin Quarter, Frederiksbjerg, and the harbour Dokk1 area',
     },
+    'aix-en-provence': {
+      personality: 'Provence\'s elegant 17th-century university city where shaded café terraces, fountained squares and the looming Sainte-Victoire massif make it one of the most genuinely dog-tolerant cities in southern France',
+      highlight: 'the Cours Mirabeau plane-tree canopy, Parc Jourdan, and the Bibémus and Bimont trails on the Sainte-Victoire',
+      area: 'the historic centre, the Quartier Mazarin, and the Lauves hill around Cézanne\'s atelier',
+    },
     amsterdam: {
       personality: 'one of Europe\'s most relaxed and pet-welcoming capitals',
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
@@ -614,6 +619,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Marselisborg Hundeskov, la plage canine toute l\'année de Bellevue Strand, et le musée en plein air Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg et la zone portuaire Dokk1',
     },
+    'aix-en-provence': {
+      personality: 'la ville universitaire provençale du XVIIe siècle où les terrasses ombragées, les places à fontaines et le massif de la Sainte-Victoire en font l\'une des villes les plus authentiquement tolérantes aux chiens du sud de la France',
+      highlight: 'la canopée de platanes du Cours Mirabeau, le Parc Jourdan, et les sentiers de Bibémus et Bimont sur la Sainte-Victoire',
+      area: 'le centre historique, le Quartier Mazarin et la colline des Lauves autour de l\'atelier de Cézanne',
+    },
     amsterdam: {
       personality: 'l\'une des capitales les plus décontractées et accueillantes pour les animaux d\'Europe',
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
@@ -1200,6 +1210,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la segunda ciudad de Dinamarca — la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
       highlight: 'el Marselisborg Hundeskov, la playa canina todo el año de Bellevue Strand y el museo al aire libre Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg y la zona portuaria Dokk1',
+    },
+    'aix-en-provence': {
+      personality: 'la ciudad universitaria provenzal del siglo XVII donde las terrazas sombreadas, las plazas con fuentes y el macizo de la Sainte-Victoire la convierten en una de las ciudades más auténticamente tolerantes con los perros del sur de Francia',
+      highlight: 'la bóveda de plátanos del Cours Mirabeau, el Parc Jourdan, y los senderos de Bibémus y Bimont en la Sainte-Victoire',
+      area: 'el centro histórico, el Quartier Mazarin y la colina de Lauves alrededor del atelier de Cézanne',
     },
     amsterdam: {
       personality: 'una de las capitales más relajadas y acogedoras con mascotas de Europa',

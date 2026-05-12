@@ -106,6 +106,122 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'aix-en-provence': {
+    history: {
+      fr: `Fondée en 122 av. J.-C. par le consul romain Sextius Calvinus autour des sources thermales qui ont donné son nom à la ville — Aquae Sextiae — Aix a longtemps été la capitale du comté de Provence avant d'être rattachée à la France en 1481. Le XVIIe siècle est son âge d'or : la noblesse provençale y bâtit plus de 160 hôtels particuliers, le Cours Mirabeau est tracé en 1651 et les fontaines monumentales qui ponctuent la ville datent de cette époque. Aix est aussi la ville de Paul Cézanne, qui y est né en 1839 et y a peint inlassablement la Montagne Sainte-Victoire à l'est. La tradition provençale du café-terrasse et de la cour intérieure ombragée a toujours intégré les chiens : on les croise sur le Cours Mirabeau, dans le marché de la Place Richelme et sur les sentiers de la Sainte-Victoire. La ville applique strictement les amendes contre les déjections et la fermeture du massif pour risque incendie en été — deux contraintes locales à anticiper.`,
+      en: `Founded in 122 BC by the Roman consul Sextius Calvinus around the thermal springs that gave the city its name — Aquae Sextiae — Aix was long the capital of the County of Provence before its 1481 annexation to France. The 17th century was its golden age: the Provençal nobility built more than 160 hôtels particuliers, the Cours Mirabeau was laid out in 1651, and the monumental fountains punctuating the city date from this period. Aix is also Paul Cézanne's city, born here in 1839 and painting the Sainte-Victoire mountain to the east endlessly. The Provençal tradition of café terraces and shaded inner courtyards has always included dogs: you encounter them on Cours Mirabeau, at the Place Richelme market, and on the Sainte-Victoire trails. The city strictly enforces dog-fouling fines and the summer fire-risk closure of the massif — two local constraints to plan for.`,
+      es: `Fundada en 122 a.C. por el cónsul romano Sextius Calvinus alrededor de las fuentes termales que dieron su nombre a la ciudad — Aquae Sextiae — Aix fue durante mucho tiempo la capital del condado de Provenza antes de su anexión a Francia en 1481. El siglo XVII es su edad de oro: la nobleza provenzal construyó más de 160 mansiones, el Cours Mirabeau se trazó en 1651, y las fuentes monumentales que jalonan la ciudad datan de este periodo. Aix es también la ciudad de Paul Cézanne, nacido aquí en 1839 y pintor incansable de la Montagne Sainte-Victoire al este. La tradición provenzal de las terrazas de café y los patios interiores sombreados siempre ha integrado a los perros: se encuentran en el Cours Mirabeau, en el mercado de la Place Richelme y en los senderos de la Sainte-Victoire. La ciudad aplica estrictamente las multas por excrementos y el cierre del macizo por riesgo de incendio en verano — dos limitaciones locales a anticipar.`,
+    },
+    sights: [
+      {
+        name: `Cours Mirabeau`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Avenue centrale de 440 m bordée de quatre rangées de platanes, fontaines et terrasses ; promenade dog-friendly emblématique d'Aix.`,
+          en: `440 m central avenue bordered by four rows of plane trees, fountains and terraces; the emblematic dog-friendly promenade of Aix.`,
+          es: `Avenida central de 440 m bordeada por cuatro filas de plátanos, fuentes y terrazas; el paseo dog-friendly emblemático de Aix.`,
+        },
+      },
+      {
+        name: `Sainte-Victoire`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `Crête calcaire de 1 011 m peinte par Cézanne, accessible à pied depuis Bibémus et Bimont en laisse ; fermée les jours rouges 21 juin-24 sept.`,
+          en: `1,011 m limestone ridge painted by Cézanne, walkable on lead from Bibémus and Bimont; closed on red fire-risk days 21 June–24 Sept.`,
+          es: `Cresta caliza de 1.011 m pintada por Cézanne, accesible a pie con correa desde Bibémus y Bimont; cerrada los días rojos 21 jun-24 sep.`,
+        },
+      },
+      {
+        name: `Parc Jourdan`,
+        emoji: `🌿`,
+        petFriendly: true,
+        desc: {
+          fr: `Parc public de 3 hectares au sud du Quartier Mazarin, pelouses ombragées et terrains de boules ; chiens en laisse, point de rendez-vous des maîtres locaux.`,
+          en: `3-hectare public park south of Quartier Mazarin, shaded lawns and boules courts; dogs on lead, a local-owner meeting point.`,
+          es: `Parque público de 3 hectáreas al sur del Quartier Mazarin, céspedes sombreados y pistas de petanca; perros con correa, punto de encuentro de dueños locales.`,
+        },
+      },
+      {
+        name: `Atelier de Cézanne`,
+        emoji: `🎨`,
+        petFriendly: true,
+        desc: {
+          fr: `Dernier atelier de Cézanne (1902) sur la colline des Lauves ; jardin gratuit ouvert aux chiens en laisse, atelier intérieur fermé.`,
+          en: `Cézanne's last studio (1902) on the Lauves hill; garden free and open to leashed dogs, studio interior closed.`,
+          es: `Último atelier de Cézanne (1902) en la colina de Lauves; jardín gratis y abierto a perros con correa, interior del atelier cerrado.`,
+        },
+      },
+      {
+        name: `Pavillon de Vendôme`,
+        emoji: `⛲`,
+        petFriendly: true,
+        desc: {
+          fr: `Pavillon classique du XVIIe siècle avec jardin à la française de 6 000 m² ; entrée gratuite au jardin pour les chiens en laisse.`,
+          en: `17th-century classical pavilion with a 6,000 m² formal French garden; free garden entry for leashed dogs.`,
+          es: `Pabellón clásico del siglo XVII con jardín francés de 6.000 m²; entrada gratis al jardín para perros con correa.`,
+        },
+      },
+      {
+        name: `Marché de la Place Richelme`,
+        emoji: `🍅`,
+        petFriendly: true,
+        desc: {
+          fr: `Marché alimentaire quotidien (8h-13h) sous une placette ombragée du centre historique ; chiens en laisse bienvenus.`,
+          en: `Daily food market (08:00–13:00) under a shaded small square in the historic centre; leashed dogs welcome.`,
+          es: `Mercado de alimentación diario (8:00-13:00) bajo una placita sombreada del centro histórico; perros con correa bienvenidos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Fermetures été : du 21 juin au 24 septembre, le Massif Sainte-Victoire (Bibémus, Bimont) ferme aux jours rouges et noirs de risque incendie — consultez risque-prevention-incendies.fr la veille à 19h.`,
+        `Amendes déjections : la police municipale du centre historique applique des amendes forfaitaires de 68 à 135 € ; distributeurs de sacs au Parc Jourdan, Place des Cardeurs et le long du Cours Mirabeau.`,
+        `Chaleur provençale : asphalte >50 °C de 11h à 18h en juillet-août ; promenez avant 9h ou après 19h.`,
+        `Urgence vétérinaire : Vétérinaires 2 Toute Urgence, 35 rue Émilien Gautier, +33 4 42 82 13 13 — la seule clinique d'urgence dédiée de la ville, nuits et week-ends.`,
+        `ZFE : depuis 2025, véhicules Crit'Air 4 et moins interdits dans le périphérique central en journée ; P+R Krypton + navette gratuite pour les camping-cars anciens.`,
+      ],
+      en: [
+        `Summer closures: from 21 June to 24 September, the Sainte-Victoire massif (Bibémus, Bimont) closes on red and black fire-risk days — check risque-prevention-incendies.fr at 19:00 the previous evening.`,
+        `Dog-fouling fines: the historic-centre municipal police issue fixed penalties of €68–€135; bag dispensers at Parc Jourdan, Place des Cardeurs and along Cours Mirabeau.`,
+        `Provençal heat: asphalt >50 °C from 11:00 to 18:00 in July–August; walk before 09:00 or after 19:00.`,
+        `Veterinary emergencies: Vétérinaires 2 Toute Urgence, 35 rue Émilien Gautier, +33 4 42 82 13 13 — the city's only dedicated emergency clinic, nights and weekends.`,
+        `Low-emission zone: since 2025, Crit'Air 4+ vehicles banned from the central périphérique during daytime; park at P+R Krypton + free shuttle for older campervans.`,
+      ],
+      es: [
+        `Cierres de verano: del 21 de junio al 24 de septiembre, el macizo de la Sainte-Victoire (Bibémus, Bimont) cierra los días rojos y negros de riesgo de incendio — consulta risque-prevention-incendies.fr a las 19:00 de la víspera.`,
+        `Multas por excrementos: la policía municipal del centro histórico aplica multas fijas de 68-135 €; dispensadores de bolsas en el Parc Jourdan, Place des Cardeurs y a lo largo del Cours Mirabeau.`,
+        `Calor provenzal: asfalto >50 °C de 11:00 a 18:00 en julio-agosto; pasea antes de las 9:00 o después de las 19:00.`,
+        `Urgencias veterinarias: Vétérinaires 2 Toute Urgence, 35 rue Émilien Gautier, +33 4 42 82 13 13 — única clínica de urgencias dedicada de la ciudad, noches y fines de semana.`,
+        `ZBE: desde 2025, vehículos Crit'Air 4 e inferiores prohibidos en el perímetro central de día; aparca en P+R Krypton + lanzadera gratis para autocaravanas antiguas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aix se traverse à pied en 25 minutes ; pas de métro ni tramway, le Diabolo (minibus électrique) fait le tour du centre pour 1,20 €.`,
+        `Plus de 70 % des restaurants avec terrasse acceptent les chiens sans signalement ; seules les salles intérieures étoilées les refusent généralement.`,
+        `Les chiens voyagent gratuitement sur Aix en Bus (petits chiens en sac, moyens/grands muselés à la discrétion du chauffeur) ; le TGV pratique un forfait chien de 7 €.`,
+        `Les 39 musées municipaux n'admettent que les chiens d'assistance ; la place extérieure de la Cathédrale Saint-Sauveur accepte les chiens en laisse, l'intérieur et le cloître non.`,
+        `Le passeport européen pour animaux reste valable en France ; vaccination antirabique ≥21 jours obligatoire, à jour de rappel.`,
+      ],
+      en: [
+        `Aix is a 25-minute walk corner to corner; no metro or tram, the Diabolo electric minibus circles the centre for €1.20.`,
+        `Over 70% of terrace restaurants accept dogs without notice; only indoor Michelin-starred dining rooms typically refuse them.`,
+        `Dogs travel free on Aix en Bus (small in a carrier, medium/large muzzled at driver discretion); the TGV charges a flat €7 dog ticket.`,
+        `All 39 municipal museums admit only assistance dogs; the Cathédrale Saint-Sauveur outdoor square accepts leashed dogs, the interior and cloister do not.`,
+        `The EU pet passport remains valid in France; rabies vaccination ≥21 days old and up to date is mandatory.`,
+      ],
+      es: [
+        `Aix se cruza a pie en 25 minutos; no hay metro ni tranvía, el Diabolo (minibús eléctrico) rodea el centro por 1,20 €.`,
+        `Más del 70 % de los restaurantes con terraza admiten perros sin previo aviso; solo los comedores interiores con estrella Michelin suelen rechazarlos.`,
+        `Los perros viajan gratis en Aix en Bus (pequeños en transportín, medianos/grandes con bozal a discreción del conductor); el TGV aplica un billete fijo de 7 € por perro.`,
+        `Los 39 museos municipales solo admiten perros de asistencia; la plaza exterior de la Cathédrale Saint-Sauveur admite perros con correa, el interior y el claustro no.`,
+        `El pasaporte europeo para mascotas sigue siendo válido en Francia; vacunación antirrábica ≥21 días vigente y al día obligatoria.`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel — d'où son nom — Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture — et cela vaut aussi pour les chiens, bienvenus dans les cafés, les terrasses et même les transports en commun.`,

@@ -5721,6 +5721,80 @@
     }
   },
   {
+    "slug": "nuremberg",
+    "name": "Nuremberg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/nuremberg.jpg",
+    "intro": "Bavaria's second city and one of medieval Europe's great free imperial centres. The Kaiserburg castle, half-timbered Altstadt, and Albrecht Dürer's house anchor a compact UNESCO Tentative-listed core. Famous for its Christkindlesmarkt (Christmas market, since 1628), Lebkuchen gingerbread and Rostbratwurst. 1h05 from Munich and 4h from Berlin by ICE. Spring and autumn are ideal; winters cold but festive.",
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, often snow",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm, showers",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, Christmas market",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "oslo",
     "name": "Oslo",
     "country": "Norway",

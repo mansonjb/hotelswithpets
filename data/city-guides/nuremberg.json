@@ -1,0 +1,927 @@
+{
+  "slug": "nuremberg",
+  "name": "Nuremberg",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-05-13",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Nuremberg — Bratwurst & Beer Gardens",
+      "titleFr": "Restaurants dog-friendly à Nuremberg — Bratwurst et brasseries",
+      "titleEs": "Restaurantes pet-friendly en Núremberg — Bratwurst y cervecerías",
+      "introEn": "Nuremberg's Wirtshaus and beer-garden culture is overwhelmingly dog-tolerant. The Hauptmarkt, the streets around the Kaiserburg, and the Pegnitz riverside concentrate dozens of dog-friendly terraces year-round.",
+      "introFr": "La culture Wirtshaus et brasseries de Nuremberg tolère massivement les chiens. Le Hauptmarkt, les ruelles autour du Kaiserburg et les berges de la Pegnitz concentrent des dizaines de terrasses dog-friendly toute l'année.",
+      "introEs": "La cultura Wirtshaus y de cervecerías de Núremberg tolera ampliamente a los perros. El Hauptmarkt, las callejuelas en torno al Kaiserburg y las orillas del Pegnitz concentran decenas de terrazas dog-friendly todo el año.",
+      "places": [
+        {
+          "name": "Bratwursthäusle bei St. Sebald",
+          "address": "Rathausplatz 1, 90403 Nürnberg",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/nuremberg-restaurants-bratwursthausle-bei-st-sebald.jpg",
+          "website": "https://www.die-nuernberger-bratwurst.de/",
+          "description": "The most famous Bratwurst restaurant in Nuremberg, grilling over beechwood embers since 1419. Original Nürnberger Rostbratwurst on pewter plates with sauerkraut and potato salad.",
+          "descriptionFr": "Le restaurant de Bratwurst le plus célèbre de Nuremberg, grillant sur braises de hêtre depuis 1419. Saucisses authentiques de Nuremberg sur assiettes en étain, choucroute et salade de pommes de terre.",
+          "descriptionEs": "El restaurante de Bratwurst más famoso de Núremberg, asando sobre brasas de haya desde 1419. Auténticas Nürnberger Rostbratwurst en platos de peltre con chucrut y ensalada de patatas.",
+          "petPolicy": "Dogs welcome on outdoor terrace, water bowl provided",
+          "petPolicyFr": "Chiens admis en terrasse, gamelle d'eau fournie",
+          "petPolicyEs": "Perros admitidos en terraza, cuenco de agua disponible",
+          "priceRange": "€€",
+          "mustTry": "6er or 12er Bratwurst, Sauerkraut, Schäufele",
+          "mustTryFr": "Plateau de 6 ou 12 Bratwurst, choucroute, Schäufele",
+          "mustTryEs": "Plato de 6 o 12 Bratwurst, chucrut, Schäufele",
+          "openingHours": "Daily 11:00–22:00",
+          "tip": "Order in multiples of 6 — the traditional way. The outdoor terrace under chestnut trees is the prime dog seat.",
+          "tipFr": "Commandez par 6 — méthode traditionnelle. La terrasse extérieure sous les châtaigniers est le meilleur spot canin.",
+          "tipEs": "Pide en múltiplos de 6 — la forma tradicional. La terraza exterior bajo los castaños es el mejor sitio para el perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bratwursthaeusle+St+Sebald+Nuremberg"
+        },
+        {
+          "name": "Gasthaus Behringer",
+          "address": "Untere Krämersgasse 2, 90403 Nürnberg",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/nuremberg-restaurants-gasthaus-behringer.jpg",
+          "website": "",
+          "description": "Cosy traditional Wirtshaus 5 min from the Hauptmarkt. Franconian cuisine — Schäufele, Sauerbraten, Karpfen blau — in a wood-panelled interior. Local crowd, slow service, fair prices.",
+          "descriptionFr": "Wirtshaus traditionnel chaleureux à 5 min du Hauptmarkt. Cuisine franconienne — Schäufele, Sauerbraten, carpe — dans un intérieur boisé. Clientèle locale, service tranquille, prix corrects.",
+          "descriptionEs": "Acogedora Wirtshaus tradicional a 5 min del Hauptmarkt. Cocina franconia — Schäufele, Sauerbraten, carpa — en un interior con paneles de madera. Clientela local, servicio tranquilo, precios correctos.",
+          "petPolicy": "Calm leashed dogs welcome indoors and outside",
+          "petPolicyFr": "Chiens calmes en laisse admis à l'intérieur et en extérieur",
+          "petPolicyEs": "Perros tranquilos con correa admitidos dentro y fuera",
+          "priceRange": "€€",
+          "mustTry": "Schäufele mit Klößen, Franconian beer",
+          "mustTryFr": "Schäufele avec Klöße, bière de Franconie",
+          "mustTryEs": "Schäufele con Klöße, cerveza franconia",
+          "openingHours": "Mon–Sat 11:30–23:00",
+          "tip": "Closed Sundays. Reservations recommended for dinner — only 40 seats inside.",
+          "tipFr": "Fermé le dimanche. Réservation recommandée pour le dîner — seulement 40 places à l'intérieur.",
+          "tipEs": "Cerrado los domingos. Reserva recomendada para cenar — solo 40 plazas dentro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gasthaus+Behringer+Nuremberg"
+        },
+        {
+          "name": "Wanderer Café & Restaurant",
+          "address": "Beim Tiergärtnertor 2-6, 90403 Nürnberg",
+          "neighborhood": "Tiergärtnertor",
+          "photo": "/images/city-places/nuremberg-restaurants-wanderer-cafe-restaurant.jpg",
+          "website": "",
+          "description": "Café-restaurant on the cobbled Tiergärtnertor square at the foot of the Kaiserburg, with one of the city's prettiest terraces. International menu, brunch, good coffee.",
+          "descriptionFr": "Café-restaurant sur la place pavée du Tiergärtnertor au pied du Kaiserburg, avec l'une des plus belles terrasses de la ville. Carte internationale, brunch, bon café.",
+          "descriptionEs": "Café-restaurante en la plaza empedrada de Tiergärtnertor a los pies del Kaiserburg, con una de las terrazas más bonitas de la ciudad. Carta internacional, brunch, buen café.",
+          "petPolicy": "Dogs welcome on the cobbled outdoor square",
+          "petPolicyFr": "Chiens admis sur la place pavée extérieure",
+          "petPolicyEs": "Perros admitidos en la plaza empedrada exterior",
+          "priceRange": "€€",
+          "mustTry": "Weekend brunch, Bavarian breakfast platter",
+          "mustTryFr": "Brunch du week-end, plateau petit-déjeuner bavarois",
+          "mustTryEs": "Brunch de fin de semana, plato de desayuno bávaro",
+          "openingHours": "Daily 09:00–22:00",
+          "tip": "Sunset light on the Kaiserburg façade from this terrace is the best in Nuremberg — book a table outside between 19:30 and 20:30 in summer.",
+          "tipFr": "La lumière du couchant sur la façade du Kaiserburg depuis cette terrasse est la meilleure de Nuremberg — réservez en extérieur entre 19h30 et 20h30 en été.",
+          "tipEs": "La luz del atardecer sobre la fachada del Kaiserburg desde esta terraza es la mejor de Núremberg — reserva fuera entre 19:30 y 20:30 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wanderer+Cafe+Tiergaertnertor+Nuremberg"
+        }
+      ],
+      "tipsEn": [
+        "German Wirtshäuser overwhelmingly accept calm leashed dogs both indoors and outdoors — a long-standing cultural norm.",
+        "Most beer gardens (Biergärten) bring a water bowl on request — just ask for 'Wasser für den Hund'.",
+        "Tip is included in service in Germany but rounding up the bill (5–10%) is standard."
+      ],
+      "tipsFr": [
+        "Les Wirtshäuser allemands acceptent massivement les chiens calmes en laisse à l'intérieur comme en terrasse — norme culturelle bien établie.",
+        "La plupart des biergärten apportent un bol d'eau sur demande — il suffit de demander « Wasser für den Hund ».",
+        "Le service est inclus en Allemagne mais arrondir la note (5–10%) est la norme."
+      ],
+      "tipsEs": [
+        "Las Wirtshäuser alemanas admiten masivamente perros tranquilos con correa dentro y fuera — norma cultural bien establecida.",
+        "La mayoría de los biergärten traen un cuenco de agua si lo pides — basta con decir «Wasser für den Hund».",
+        "El servicio está incluido en Alemania pero redondear la cuenta (5–10%) es lo habitual."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Nuremberg restaurants?",
+          "a": "Yes, generally. German Wirtshaus culture welcomes calm leashed dogs indoors — far more openly than southern European countries. Roughly 80–90% of Nuremberg restaurants accept dogs both inside and on terraces."
+        },
+        {
+          "q": "Do Nuremberg restaurants charge extra for dogs?",
+          "a": "No. There is no surcharge for bringing a dog. Water bowls are almost always offered on request, free of charge."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants de Nuremberg ?",
+          "a": "Oui, généralement. La culture Wirtshaus allemande accueille les chiens calmes en laisse à l'intérieur — bien plus ouvertement qu'en Europe du Sud. Environ 80–90% des restaurants de Nuremberg acceptent les chiens à l'intérieur et en terrasse."
+        },
+        {
+          "q": "Les restaurants de Nuremberg facturent-ils un supplément pour les chiens ?",
+          "a": "Non. Pas de supplément pour amener un chien. Les bols d'eau sont presque toujours offerts sur demande, gratuitement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Núremberg?",
+          "a": "Sí, por lo general. La cultura Wirtshaus alemana acoge perros tranquilos con correa en el interior — mucho más abiertamente que en el sur de Europa. Cerca del 80–90% de los restaurantes de Núremberg admiten perros dentro y en terraza."
+        },
+        {
+          "q": "¿Cobran extra los restaurantes de Núremberg por llevar perro?",
+          "a": "No. No hay suplemento por llevar perro. Los cuencos de agua se ofrecen casi siempre si los pides, gratis."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks & Walks in Nuremberg — Stadtpark & Reichswald",
+      "titleFr": "Meilleurs parcs et promenades pour chiens à Nuremberg — Stadtpark et Reichswald",
+      "titleEs": "Mejores parques y paseos para perros en Núremberg — Stadtpark y Reichswald",
+      "introEn": "Nuremberg is ringed by the Reichswald — a 25,000 ha imperial forest with off-leash walking trails right on the city edge. Within the city, the Stadtpark and the Wöhrder See lakeside offer flat, shaded walks for dogs.",
+      "introFr": "Nuremberg est entourée par le Reichswald — une forêt impériale de 25 000 ha avec sentiers sans laisse à l'orée de la ville. Au cœur de la ville, le Stadtpark et le lac Wöhrder See offrent des promenades plates et ombragées pour chiens.",
+      "introEs": "Núremberg está rodeada por el Reichswald — un bosque imperial de 25.000 ha con senderos sin correa al borde de la ciudad. Dentro de la ciudad, el Stadtpark y el lago Wöhrder See ofrecen paseos llanos y sombreados para perros.",
+      "places": [
+        {
+          "name": "Stadtpark Nürnberg",
+          "address": "Wielandstraße, 90419 Nürnberg",
+          "neighborhood": "North of Altstadt",
+          "photo": "/images/city-places/nuremberg-parks-stadtpark-nurnberg.jpg",
+          "size": "35 ha",
+          "leashRule": "Leash required; small designated off-leash area",
+          "leashRuleFr": "Laisse obligatoire ; petite zone sans laisse désignée",
+          "leashRuleEs": "Correa obligatoria; pequeña zona sin correa designada",
+          "description": "Nuremberg's main central park, laid out 1903–1905 on the site of old defensive ditches. Plane trees, rose garden, ponds, and a small fenced dog meadow in the western corner. 10 min walk north of the Altstadt.",
+          "descriptionFr": "Le parc central principal de Nuremberg, aménagé entre 1903 et 1905 sur d'anciens fossés défensifs. Platanes, roseraie, étangs et petite prairie canine clôturée dans le coin ouest. 10 min à pied au nord de l'Altstadt.",
+          "descriptionEs": "El parque central principal de Núremberg, trazado entre 1903 y 1905 sobre antiguos fosos defensivos. Plátanos, rosaleda, estanques y pequeña pradera canina vallada en el rincón oeste. 10 min a pie al norte de la Altstadt.",
+          "amenities": [
+            "Fenced dog meadow",
+            "Benches",
+            "Water fountains",
+            "Trash bins"
+          ],
+          "amenitiesFr": [
+            "Prairie canine clôturée",
+            "Bancs",
+            "Fontaines à eau",
+            "Poubelles"
+          ],
+          "amenitiesEs": [
+            "Pradera canina vallada",
+            "Bancos",
+            "Fuentes de agua",
+            "Papeleras"
+          ],
+          "tip": "The rose garden peaks in June; the fenced Hundewiese fills with locals between 18:00 and 20:00 every evening.",
+          "tipFr": "La roseraie atteint son apogée en juin ; la Hundewiese clôturée se remplit de locaux entre 18h et 20h chaque soir.",
+          "tipEs": "El rosal alcanza su esplendor en junio; la Hundewiese vallada se llena de locales entre 18:00 y 20:00 cada noche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Nuernberg"
+        },
+        {
+          "name": "Wöhrder See",
+          "address": "Wöhrder See, 90489 Nürnberg",
+          "neighborhood": "East of Altstadt",
+          "photo": "/images/city-places/nuremberg-parks-wohrder-see.jpg",
+          "size": "44 ha lake + paths",
+          "leashRule": "Leash required on paths; off-leash dog beach on north shore",
+          "leashRuleFr": "Laisse obligatoire sur les chemins ; plage canine sans laisse rive nord",
+          "leashRuleEs": "Correa obligatoria en senderos; playa canina sin correa orilla norte",
+          "description": "Artificial lake on the Pegnitz, 10 min walk east of the Altstadt. 4 km loop path, sandy beaches, and a designated dog swimming beach on the north shore. The city's prime summer water spot for dogs.",
+          "descriptionFr": "Lac artificiel sur la Pegnitz, à 10 min à pied à l'est de l'Altstadt. Sentier en boucle de 4 km, plages de sable et plage canine désignée sur la rive nord. Le principal spot estival pour chiens.",
+          "descriptionEs": "Lago artificial sobre el Pegnitz, a 10 min a pie al este de la Altstadt. Sendero circular de 4 km, playas de arena y playa canina designada en la orilla norte. El principal sitio de baño estival para perros.",
+          "amenities": [
+            "Designated dog beach",
+            "Loop path",
+            "Cafés",
+            "Playground"
+          ],
+          "amenitiesFr": [
+            "Plage canine désignée",
+            "Sentier en boucle",
+            "Cafés",
+            "Aire de jeux"
+          ],
+          "amenitiesEs": [
+            "Playa canina designada",
+            "Sendero circular",
+            "Cafés",
+            "Zona infantil"
+          ],
+          "tip": "The Hundebadestelle is signposted on the north shore — water is clean and shallow, perfect for nervous swimmers.",
+          "tipFr": "La Hundebadestelle est signalée sur la rive nord — eau propre et peu profonde, parfaite pour les chiens timides.",
+          "tipEs": "La Hundebadestelle está señalizada en la orilla norte — agua limpia y poco profunda, perfecta para nadadores tímidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Woehrder+See+Nuremberg"
+        },
+        {
+          "name": "Reichswald (Sebalder Reichswald)",
+          "address": "Sebalder Reichswald, north of Nuremberg",
+          "neighborhood": "Northern city edge",
+          "photo": "/images/city-places/nuremberg-parks-reichswald-sebalder-reichswald.jpg",
+          "size": "25,000 ha",
+          "leashRule": "Off-leash allowed on forest paths year-round",
+          "leashRuleFr": "Sans laisse autorisé sur les sentiers forestiers toute l'année",
+          "leashRuleEs": "Sin correa permitido en senderos forestales todo el año",
+          "description": "The vast imperial forest ringing Nuremberg — pine and beech, sandy paths, ponds. Bavarian forest law allows dogs off-leash on marked paths year-round outside hunting hours (dawn/dusk April–July).",
+          "descriptionFr": "La vaste forêt impériale qui entoure Nuremberg — pins et hêtres, sentiers sablonneux, étangs. La loi forestière bavaroise autorise les chiens sans laisse sur sentiers balisés toute l'année hors heures de chasse (aube/crépuscule avril–juillet).",
+          "descriptionEs": "El vasto bosque imperial que rodea Núremberg — pinos y hayas, senderos arenosos, estanques. La ley forestal bávara permite perros sin correa en senderos marcados todo el año fuera de horas de caza (amanecer/atardecer abril–julio).",
+          "amenities": [
+            "Forest paths",
+            "Ponds",
+            "Shade",
+            "Wildlife"
+          ],
+          "amenitiesFr": [
+            "Sentiers forestiers",
+            "Étangs",
+            "Ombre",
+            "Faune"
+          ],
+          "amenitiesEs": [
+            "Senderos forestales",
+            "Estanques",
+            "Sombra",
+            "Fauna"
+          ],
+          "tip": "Take tram 4 to the terminus (Thon) — 5 min walk and you're in the forest. Carry water in summer; sandy soil is hot in August.",
+          "tipFr": "Tram 4 jusqu'au terminus (Thon) — 5 min à pied et vous êtes en forêt. Apportez de l'eau en été ; le sable chauffe en août.",
+          "tipEs": "Tranvía 4 hasta el final (Thon) — 5 min a pie y estás en el bosque. Lleva agua en verano; el suelo arenoso se calienta en agosto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sebalder+Reichswald+Nuremberg"
+        }
+      ],
+      "tipsEn": [
+        "Bavarian municipal rules: dogs must be leashed in urban public spaces; off-leash allowed only in marked dog zones or on forest paths.",
+        "Dog waste bags are mandatory — fines up to 100 EUR for non-removal, frequently enforced.",
+        "Listenhunde restrictions: certain breeds (Pit Bull, Bull Terrier, Staffordshire variants) require permits in Bavaria."
+      ],
+      "tipsFr": [
+        "Règles municipales bavaroises : laisse obligatoire dans les espaces publics urbains ; sans laisse uniquement dans les zones canines marquées ou sur sentiers forestiers.",
+        "Sacs à déjections obligatoires — amendes jusqu'à 100 €, souvent appliquées.",
+        "Restrictions Listenhunde : certaines races (Pit Bull, Bull Terrier, variantes Staffordshire) nécessitent un permis en Bavière."
+      ],
+      "tipsEs": [
+        "Normas municipales bávaras: correa obligatoria en espacios públicos urbanos; sin correa solo en zonas caninas señalizadas o en senderos forestales.",
+        "Bolsas para residuos caninos obligatorias — multas hasta 100 €, frecuentemente aplicadas.",
+        "Restricciones Listenhunde: ciertas razas (Pit Bull, Bull Terrier, variantes Staffordshire) requieren permiso en Baviera."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run off-leash in Nuremberg?",
+          "a": "Three options: the fenced Hundewiese inside the Stadtpark, the Hundebadestelle (dog beach) on the north shore of the Wöhrder See, and the marked paths of the Sebalder Reichswald forest north of the city — the latter is the most generous space."
+        },
+        {
+          "q": "Can my dog swim in Nuremberg?",
+          "a": "Yes, the Hundebadestelle on the Wöhrder See is the city's designated dog swimming beach, with shallow water and easy access. Locals also let dogs swim in marked sections of the Pegnitz river outside the historic centre."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Nuremberg ?",
+          "a": "Trois options : la Hundewiese clôturée du Stadtpark, la Hundebadestelle (plage canine) sur la rive nord du Wöhrder See, et les sentiers balisés du Sebalder Reichswald au nord de la ville — ce dernier offre l'espace le plus généreux."
+        },
+        {
+          "q": "Mon chien peut-il nager à Nuremberg ?",
+          "a": "Oui, la Hundebadestelle du Wöhrder See est la plage canine désignée de la ville, eau peu profonde et accès facile. Les locaux laissent aussi les chiens se baigner dans certaines sections balisées de la Pegnitz hors centre historique."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Núremberg?",
+          "a": "Tres opciones: la Hundewiese vallada del Stadtpark, la Hundebadestelle (playa canina) en la orilla norte del Wöhrder See, y los senderos señalizados del Sebalder Reichswald al norte de la ciudad — este último ofrece el espacio más generoso."
+        },
+        {
+          "q": "¿Puede mi perro nadar en Núremberg?",
+          "a": "Sí, la Hundebadestelle del Wöhrder See es la playa canina designada de la ciudad, aguas poco profundas y acceso fácil. Los locales también dejan a los perros bañarse en secciones marcadas del Pegnitz fuera del casco histórico."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Nuremberg — U-Bahn, Tram & ICE",
+      "titleFr": "Transport pet-friendly à Nuremberg — U-Bahn, tram et ICE",
+      "titleEs": "Transporte pet-friendly en Núremberg — U-Bahn, tranvía e ICE",
+      "introEn": "Nuremberg's compact Altstadt walks in 25 minutes end to end. The VGN network (U-Bahn, tram, bus) is dog-friendly with simple rules. Deutsche Bahn ICE connects Munich (1h05), Frankfurt (2h15) and Berlin (4h).",
+      "introFr": "L'Altstadt compacte de Nuremberg se traverse en 25 minutes. Le réseau VGN (U-Bahn, tram, bus) est dog-friendly avec des règles simples. Les ICE de la Deutsche Bahn relient Munich (1h05), Francfort (2h15) et Berlin (4h).",
+      "introEs": "El compacto Altstadt de Núremberg se cruza en 25 minutos. La red VGN (U-Bahn, tranvía, autobús) es dog-friendly con normas sencillas. Los ICE de Deutsche Bahn conectan con Múnich (1h05), Fráncfort (2h15) y Berlín (4h).",
+      "places": [
+        {
+          "name": "Deutsche Bahn ICE",
+          "type": "High-speed train",
+          "photo": "/images/city-places/nuremberg-transport-deutsche-bahn-ice.jpg",
+          "website": "https://www.bahn.de/",
+          "description": "Nuremberg Hbf is a major ICE hub. Direct ICE to Munich (1h05), Frankfurt (2h15), Berlin (4h), Hamburg (5h). Regional Bayern-Ticket covers all of Bavaria for groups.",
+          "descriptionFr": "Nuremberg Hbf est un grand hub ICE. ICE directs pour Munich (1h05), Francfort (2h15), Berlin (4h), Hambourg (5h). Le Bayern-Ticket régional couvre toute la Bavière en groupe.",
+          "descriptionEs": "Núremberg Hbf es un gran hub ICE. ICE directos a Múnich (1h05), Fráncfort (2h15), Berlín (4h), Hamburgo (5h). El Bayern-Ticket regional cubre toda Baviera en grupo.",
+          "petPolicy": "Small dogs (up to ~25 cm shoulder) in a carrier travel free. Larger dogs require a child's ticket (50%) and must be leashed and muzzled.",
+          "petPolicyFr": "Petits chiens (jusqu'à ~25 cm au garrot) en sac voyagent gratis. Chiens plus grands : billet enfant (50%), laisse et muselière obligatoires.",
+          "petPolicyEs": "Perros pequeños (hasta ~25 cm hasta la cruz) en transportín gratis. Perros más grandes: billete infantil (50%), correa y bozal obligatorios.",
+          "tip": "Book ICE tickets via DB Navigator app — add the dog as a Reisende (traveller) when booking to get the 50% pet ticket.",
+          "tipFr": "Réservez les billets ICE via l'app DB Navigator — ajoutez le chien comme Reisende (voyageur) lors de la réservation pour avoir le billet animal à 50%.",
+          "tipEs": "Reserva los billetes ICE en la app DB Navigator — añade el perro como Reisende (viajero) al reservar para tener el billete mascota al 50%.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nuernberg+Hauptbahnhof"
+        },
+        {
+          "name": "VGN U-Bahn, Tram & Bus",
+          "type": "City transit",
+          "photo": "/images/city-places/nuremberg-transport-vgn-u-bahn-tram-bus.jpg",
+          "website": "https://www.vgn.de/",
+          "description": "Verkehrsverbund Großraum Nürnberg — 3 U-Bahn lines, 5 tram lines, 60+ bus lines covering the metro area. U2 connects the Hbf to the airport in 12 min.",
+          "descriptionFr": "Verkehrsverbund Großraum Nürnberg — 3 lignes de U-Bahn, 5 lignes de tram, 60+ lignes de bus couvrant l'aire métropolitaine. La U2 relie la Hbf à l'aéroport en 12 min.",
+          "descriptionEs": "Verkehrsverbund Großraum Nürnberg — 3 líneas de U-Bahn, 5 de tranvía y más de 60 de autobús cubren el área metropolitana. La U2 conecta la Hbf con el aeropuerto en 12 min.",
+          "petPolicy": "Small dogs in carriers and assistance dogs free. Larger dogs require a child's ticket and must be leashed.",
+          "petPolicyFr": "Petits chiens en sac et chiens d'assistance gratuits. Chiens plus grands : billet enfant + laisse obligatoires.",
+          "petPolicyEs": "Perros pequeños en transportín y de asistencia gratis. Perros más grandes: billete infantil y correa obligatoria.",
+          "tip": "TagesTicket Solo (1 day, all zones, 1 adult + 1 dog) covers a full day's exploration for ~9 EUR. Buy at any station machine.",
+          "tipFr": "Le TagesTicket Solo (1 jour, toutes zones, 1 adulte + 1 chien) couvre une journée pour ~9 €. Achetez aux distributeurs en station.",
+          "tipEs": "El TagesTicket Solo (1 día, todas las zonas, 1 adulto + 1 perro) cubre un día completo por ~9 €. Cómpralo en las máquinas de las estaciones.",
+          "googleMapsUrl": "https://maps.google.com/?q=VGN+Nuremberg"
+        },
+        {
+          "name": "Taxi Nürnberg",
+          "type": "Taxi",
+          "photo": "/images/city-places/nuremberg-transport-taxi-nurnberg.jpg",
+          "website": "",
+          "description": "Local taxi cooperative serving the city and the Nuremberg airport (NUE, 7 km north). Pet-friendly drivers identifiable on request when booking by phone or app.",
+          "descriptionFr": "Coopérative locale de taxis desservant la ville et l'aéroport de Nuremberg (NUE, 7 km au nord). Chauffeurs pet-friendly identifiables sur demande téléphonique ou app.",
+          "descriptionEs": "Cooperativa local de taxis que cubre la ciudad y el aeropuerto de Núremberg (NUE, 7 km al norte). Conductores pet-friendly identificables al pedirlo por teléfono o app.",
+          "petPolicy": "Small dogs in carriers almost always accepted; larger dogs require advance request.",
+          "petPolicyFr": "Petits chiens en sac presque toujours acceptés ; grands chiens à demander à l'avance.",
+          "petPolicyEs": "Perros pequeños en transportín casi siempre admitidos; perros grandes pedirlos con antelación.",
+          "tip": "Call +49 911 19 410 to book. FreeNow operates in Nuremberg — most drivers accept small dogs in carriers.",
+          "tipFr": "Appelez +49 911 19 410. FreeNow opère à Nuremberg — la plupart des chauffeurs acceptent les petits chiens en sac.",
+          "tipEs": "Llama al +49 911 19 410. FreeNow opera en Núremberg — la mayoría de los conductores admite perros pequeños en transportín.",
+          "googleMapsUrl": "https://maps.google.com/?q=Taxi+Nuernberg"
+        }
+      ],
+      "tipsEn": [
+        "Nuremberg's U-Bahn is one of the world's first fully automated metros — clean, fast, and dog-friendly.",
+        "ICE trains are the easiest way to reach Munich, Frankfurt and Berlin — far better than Flixbus or driving with a dog.",
+        "Nuremberg NUE airport is tiny but well-connected (Lufthansa, KLM, Eurowings); only 12 min by U2 from the Altstadt."
+      ],
+      "tipsFr": [
+        "L'U-Bahn de Nuremberg est l'un des premiers métros entièrement automatisés au monde — propre, rapide et dog-friendly.",
+        "Les ICE sont le moyen le plus simple de rejoindre Munich, Francfort et Berlin — bien mieux que Flixbus ou la voiture avec un chien.",
+        "L'aéroport NUE est petit mais bien connecté (Lufthansa, KLM, Eurowings) ; seulement 12 min en U2 depuis l'Altstadt."
+      ],
+      "tipsEs": [
+        "El U-Bahn de Núremberg es uno de los primeros metros totalmente automatizados del mundo — limpio, rápido y dog-friendly.",
+        "Los ICE son la forma más fácil de llegar a Múnich, Fráncfort y Berlín — mucho mejor que Flixbus o el coche con perro.",
+        "El aeropuerto NUE es pequeño pero bien conectado (Lufthansa, KLM, Eurowings); solo 12 min en U2 desde la Altstadt."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog on the U-Bahn in Nuremberg?",
+          "a": "Yes. Small dogs in a carrier travel free; larger dogs need a child's ticket (~1.80 EUR) and must be on a leash. Muzzles are not required on VGN unless the dog is on the Listenhunde list."
+        },
+        {
+          "q": "How do I get from Munich to Nuremberg with a dog?",
+          "a": "Direct ICE in 1h05 from Munich Hbf to Nuremberg Hbf. Small dogs in a carrier are free; larger dogs need a child's pet ticket (~50% adult fare) and a muzzle. Book in DB Navigator."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le U-Bahn de Nuremberg ?",
+          "a": "Oui. Petits chiens en sac : gratuits ; chiens plus grands : billet enfant (~1,80 €) et laisse obligatoire. Muselière non requise sur le VGN sauf race Listenhunde."
+        },
+        {
+          "q": "Comment aller de Munich à Nuremberg avec un chien ?",
+          "a": "ICE direct en 1h05 de Munich Hbf à Nuremberg Hbf. Petits chiens en sac : gratuits ; chiens plus grands : billet animal enfant (~50% tarif adulte) + muselière. Réservation DB Navigator."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el U-Bahn de Núremberg?",
+          "a": "Sí. Perros pequeños en transportín gratis; perros más grandes necesitan billete infantil (~1,80 €) y correa obligatoria. Bozal no requerido en el VGN salvo razas Listenhunde."
+        },
+        {
+          "q": "¿Cómo voy de Múnich a Núremberg con perro?",
+          "a": "ICE directo en 1h05 desde Múnich Hbf a Núremberg Hbf. Perros pequeños en transportín gratis; perros más grandes necesitan billete mascota infantil (~50% tarifa adulta) y bozal. Reserva en DB Navigator."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Water Spots near Nuremberg — Lakes & Rivers",
+      "titleFr": "Spots aquatiques dog-friendly près de Nuremberg — Lacs et rivières",
+      "titleEs": "Zonas de baño pet-friendly cerca de Núremberg — Lagos y ríos",
+      "introEn": "Nuremberg is fully inland (~500 km from the nearest coast), but the Franconian Lakelands south-west of the city offer excellent summer swimming for dogs. The Wöhrder See in town has a designated dog beach, and the Brombachsee 40 km south has dedicated dog zones.",
+      "introFr": "Nuremberg est continentale (~500 km de la mer la plus proche), mais les Lacs francs au sud-ouest offrent d'excellentes baignades estivales. Le Wöhrder See en ville a une plage canine désignée, et le Brombachsee à 40 km au sud a des zones canines dédiées.",
+      "introEs": "Núremberg es totalmente interior (~500 km del mar más cercano), pero la región de los lagos francos al suroeste ofrece excelente baño estival. El Wöhrder See en la ciudad tiene una playa canina designada, y el Brombachsee a 40 km al sur dispone de zonas caninas dedicadas.",
+      "places": [
+        {
+          "name": "Wöhrder See — Hundebadestelle",
+          "address": "Norikerstraße, 90489 Nürnberg",
+          "photo": "/images/city-places/nuremberg-beaches-wohrder-see-hundebadestelle.jpg",
+          "leashRule": "Off-leash inside the designated dog beach zone",
+          "leashRuleFr": "Sans laisse dans la zone plage canine désignée",
+          "leashRuleEs": "Sin correa dentro de la zona de playa canina designada",
+          "description": "The city's official dog beach on the north shore of the artificial lake. Sandy/grassy entry, shallow water, signed perimeter. Open year-round; busiest June–August.",
+          "descriptionFr": "La plage canine officielle de la ville sur la rive nord du lac artificiel. Accès sable/herbe, eau peu profonde, périmètre signalé. Ouverte toute l'année ; plus fréquentée de juin à août.",
+          "descriptionEs": "La playa canina oficial de la ciudad en la orilla norte del lago artificial. Acceso de arena/hierba, agua poco profunda, perímetro señalizado. Abierta todo el año; más concurrida de junio a agosto.",
+          "amenities": [
+            "Designated dog zone",
+            "Shallow water",
+            "Trash bins",
+            "Grass entry"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Eau peu profonde",
+            "Poubelles",
+            "Accès herbe"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Agua poco profunda",
+            "Papeleras",
+            "Entrada con hierba"
+          ],
+          "tip": "Best mid-morning when the locals' work commute clears. Bring towels — the path back into town gets your dog dirty.",
+          "tipFr": "Idéal en milieu de matinée quand les locaux sont partis travailler. Apportez des serviettes — le chemin du retour salit le chien.",
+          "tipEs": "Mejor a media mañana cuando los locales ya están en el trabajo. Lleva toallas — el camino de vuelta ensucia al perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadestelle+Woehrder+See"
+        },
+        {
+          "name": "Großer Brombachsee",
+          "address": "Brombachsee, 91785 Pleinfeld",
+          "photo": "/images/city-places/nuremberg-beaches-gro-er-brombachsee.jpg",
+          "leashRule": "Dedicated Hundestrand zones; leash elsewhere",
+          "leashRuleFr": "Zones Hundestrand dédiées ; laisse ailleurs",
+          "leashRuleEs": "Zonas Hundestrand dedicadas; correa en el resto",
+          "description": "The largest lake in the Franconian Lakelands, 40 km south of Nuremberg. Three signed dog beaches (Hundestrand) on the south shore offer 200–400 m of sand for swimming and running.",
+          "descriptionFr": "Le plus grand lac des Lacs francs, à 40 km au sud de Nuremberg. Trois plages canines (Hundestrand) signalées sur la rive sud offrent 200 à 400 m de sable pour nager et courir.",
+          "descriptionEs": "El mayor lago de la región lacustre franca, a 40 km al sur de Núremberg. Tres playas caninas (Hundestrand) señalizadas en la orilla sur ofrecen 200–400 m de arena para nadar y correr.",
+          "amenities": [
+            "Three Hundestrand zones",
+            "Sand beaches",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesFr": [
+            "Trois zones Hundestrand",
+            "Plages de sable",
+            "Parking",
+            "Café"
+          ],
+          "amenitiesEs": [
+            "Tres zonas Hundestrand",
+            "Playas de arena",
+            "Aparcamiento",
+            "Café"
+          ],
+          "tip": "Take the train to Pleinfeld then 10-min taxi (~15 EUR) to the southern Hundestrand at Allmannsdorf.",
+          "tipFr": "Train jusqu'à Pleinfeld puis taxi 10 min (~15 €) jusqu'à la Hundestrand sud d'Allmannsdorf.",
+          "tipEs": "Tren hasta Pleinfeld y luego taxi 10 min (~15 €) hasta la Hundestrand sur de Allmannsdorf.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Brombachsee"
+        },
+        {
+          "name": "Rothsee",
+          "address": "Rothsee, 91161 Hilpoltstein",
+          "photo": "/images/city-places/nuremberg-beaches-rothsee.jpg",
+          "leashRule": "Hundestrand on western shore; leash elsewhere",
+          "leashRuleFr": "Hundestrand sur la rive ouest ; laisse ailleurs",
+          "leashRuleEs": "Hundestrand en la orilla oeste; correa en el resto",
+          "description": "Smaller and quieter than the Brombachsee, 30 km south of Nuremberg. The west-shore Hundestrand at Birkach offers grass banks and shallow water — favoured by locals avoiding crowds.",
+          "descriptionFr": "Plus petit et plus calme que le Brombachsee, à 30 km au sud de Nuremberg. La Hundestrand ouest de Birkach offre des berges herbeuses et de l'eau peu profonde — apprécié des locaux qui fuient la foule.",
+          "descriptionEs": "Más pequeño y tranquilo que el Brombachsee, a 30 km al sur de Núremberg. La Hundestrand del oeste en Birkach ofrece orillas con hierba y aguas poco profundas — preferida por los locales que evitan multitudes.",
+          "amenities": [
+            "Hundestrand zone",
+            "Grass banks",
+            "Parking",
+            "Picnic"
+          ],
+          "amenitiesFr": [
+            "Zone Hundestrand",
+            "Berges herbeuses",
+            "Parking",
+            "Pique-nique"
+          ],
+          "amenitiesEs": [
+            "Zona Hundestrand",
+            "Orillas con hierba",
+            "Aparcamiento",
+            "Picnic"
+          ],
+          "tip": "S-Bahn S2 Allersberg + 30 min walk, or 25 min by car. Avoid hot July afternoons; the lake heats fast.",
+          "tipFr": "S-Bahn S2 Allersberg + 30 min à pied, ou 25 min en voiture. Évitez les après-midis chauds de juillet ; le lac chauffe vite.",
+          "tipEs": "S-Bahn S2 Allersberg + 30 min a pie, o 25 min en coche. Evita las tardes calurosas de julio; el lago se calienta rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Rothsee"
+        }
+      ],
+      "tipsEn": [
+        "German lake rules: dogs allowed only in marked Hundestrand zones in summer to protect bathers and waterfowl.",
+        "Water temperatures in Franconian lakes reach 22–24°C in July–August — warm and safe for dogs.",
+        "Always carry fresh drinking water — lake water is not for drinking."
+      ],
+      "tipsFr": [
+        "Règles allemandes : chiens admis uniquement dans les zones Hundestrand marquées en été pour protéger baigneurs et oiseaux d'eau.",
+        "Les températures des lacs francs atteignent 22–24°C en juillet–août — tièdes et sûres pour les chiens.",
+        "Apportez toujours de l'eau potable — l'eau du lac n'est pas à boire."
+      ],
+      "tipsEs": [
+        "Normas alemanas: perros admitidos solo en zonas Hundestrand señalizadas en verano para proteger bañistas y aves acuáticas.",
+        "Las temperaturas de los lagos francos alcanzan 22–24°C en julio–agosto — templadas y seguras para perros.",
+        "Lleva siempre agua potable — el agua del lago no es para beber."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs swim in or near Nuremberg?",
+          "a": "The Wöhrder See Hundebadestelle within the city is the easiest option (10 min walk from the Altstadt). For a day trip, the Brombachsee (40 km south) and Rothsee (30 km south) both offer designated Hundestrand zones with sand beaches and shallow water."
+        },
+        {
+          "q": "Is the Wöhrder See clean enough for dogs?",
+          "a": "Yes. The city tests water quality regularly and the Hundebadestelle has consistently passed bathing-water standards. Avoid swimming if blue-green algae warnings are posted (rare, mainly in August)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils nager à Nuremberg ou aux alentours ?",
+          "a": "La Hundebadestelle du Wöhrder See en ville est l'option la plus simple (10 min à pied de l'Altstadt). Pour la journée, le Brombachsee (40 km au sud) et le Rothsee (30 km au sud) offrent des zones Hundestrand avec plages de sable et eau peu profonde."
+        },
+        {
+          "q": "Le Wöhrder See est-il assez propre pour les chiens ?",
+          "a": "Oui. La ville teste régulièrement la qualité de l'eau et la Hundebadestelle respecte systématiquement les normes de baignade. Évitez la baignade si des alertes algues bleues sont affichées (rare, surtout en août)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden bañarse los perros en Núremberg o cerca?",
+          "a": "La Hundebadestelle del Wöhrder See en la ciudad es la opción más fácil (10 min a pie de la Altstadt). Para un día, el Brombachsee (40 km al sur) y el Rothsee (30 km al sur) ofrecen zonas Hundestrand con playas de arena y aguas poco profundas."
+        },
+        {
+          "q": "¿Es el Wöhrder See suficientemente limpio para perros?",
+          "a": "Sí. La ciudad analiza la calidad del agua con regularidad y la Hundebadestelle cumple sistemáticamente las normas de baño. Evita el baño si hay avisos de algas verdiazules (raro, sobre todo en agosto)."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets [24h] in Nuremberg — Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence [24h/24] à Nuremberg — Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias [24h] en Núremberg — Hospitales y clínicas veterinarias",
+      "introEn": "Nuremberg has strong veterinary coverage with two 24/7 emergency hospitals plus many daytime practices. Standards are high — German vet medicine ranks among Europe's best.",
+      "introFr": "Nuremberg dispose d'une excellente couverture vétérinaire avec deux hôpitaux d'urgences 24h/24 et de nombreux cabinets de jour. Les standards sont élevés — la médecine vétérinaire allemande est parmi les meilleures d'Europe.",
+      "introEs": "Núremberg cuenta con excelente cobertura veterinaria, con dos hospitales de urgencias 24h y muchas consultas diurnas. Los estándares son altos — la medicina veterinaria alemana figura entre las mejores de Europa.",
+      "places": [
+        {
+          "name": "Tierklinik Nürnberg-Hafen (24h)",
+          "address": "Hafenstraße 5, 90451 Nürnberg",
+          "photo": "/images/city-places/nuremberg-vets-tierklinik-nurnberg-hafen-24h.jpg",
+          "phone": "+49 911 64 87 60",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.tierklinik-nuernberg.de/",
+          "description": "Full-service 24/7 emergency hospital in the south-west port district. Surgery, ICU, CT, MRI, ultrasound, endoscopy. The reference clinic for serious emergencies in Middle Franconia.",
+          "descriptionFr": "Hôpital d'urgences 24h/24 complet dans le quartier portuaire au sud-ouest. Chirurgie, USI, scanner, IRM, écho, endoscopie. Clinique de référence pour les urgences graves en Moyenne-Franconie.",
+          "descriptionEs": "Hospital de urgencias 24h completo en el barrio portuario al suroeste. Cirugía, UCI, TAC, RMN, ecografía, endoscopia. Clínica de referencia para emergencias graves en Franconia Media.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call ahead — the receptionist speaks English. They'll prep the right team for your case before you arrive.",
+          "tipFr": "Appelez avant — la réceptionniste parle anglais. Ils prépareront l'équipe adaptée avant votre arrivée.",
+          "tipEs": "Llama antes — la recepcionista habla inglés. Prepararán el equipo adecuado antes de tu llegada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Nuernberg+Hafen"
+        },
+        {
+          "name": "Anicura Tierklinik Nürnberg",
+          "address": "Stresemannplatz 5, 90489 Nürnberg",
+          "photo": "/images/city-places/nuremberg-vets-anicura-tierklinik-nurnberg.jpg",
+          "phone": "+49 911 58 78 50",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "https://www.anicura.de/kliniken/nuernberg/",
+          "description": "Second 24/7 emergency hospital, part of the Anicura European network. Specialists in cardiology, neurology, oncology. 10 min east of the Altstadt.",
+          "descriptionFr": "Deuxième hôpital d'urgences 24h/24, du réseau européen Anicura. Spécialistes en cardiologie, neurologie, oncologie. À 10 min à l'est de l'Altstadt.",
+          "descriptionEs": "Segundo hospital de urgencias 24h, parte de la red europea Anicura. Especialistas en cardiología, neurología, oncología. A 10 min al este de la Altstadt.",
+          "openingHours": "24/7 emergency",
+          "tip": "More accessible from the Altstadt than the Hafen clinic. Useful for cardiology emergencies in particular.",
+          "tipFr": "Plus accessible depuis l'Altstadt que la clinique du Hafen. Particulièrement utile pour les urgences cardiologiques.",
+          "tipEs": "Más accesible desde la Altstadt que la clínica del Hafen. Particularmente útil para emergencias cardiológicas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Anicura+Tierklinik+Nuernberg"
+        },
+        {
+          "name": "Tierarztpraxis Altstadt",
+          "address": "Ludwigsplatz 8, 90402 Nürnberg",
+          "photo": "/images/city-places/nuremberg-vets-tierarztpraxis-altstadt.jpg",
+          "phone": "+49 911 22 47 73",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "",
+          "description": "Centrally located daytime practice 5 min walk from the Hauptmarkt. Vaccinations, microchipping, routine care, pre-travel checks. The convenient option for tourists.",
+          "descriptionFr": "Cabinet de jour central à 5 min à pied du Hauptmarkt. Vaccins, puçage, soins courants, contrôles avant voyage. L'option pratique pour les touristes.",
+          "descriptionEs": "Consulta diurna céntrica a 5 min a pie del Hauptmarkt. Vacunas, microchip, atención rutinaria, revisiones previas al viaje. La opción cómoda para turistas.",
+          "openingHours": "Mon–Fri 09:00–13:00, 15:00–19:00; Sat 09:00–12:00",
+          "tip": "Walk-ins accepted for vaccinations and routine matters; book ahead for full check-ups.",
+          "tipFr": "Sans rdv accepté pour vaccinations et soins courants ; rdv pour bilan complet.",
+          "tipEs": "Aceptan sin cita para vacunaciones y atenciones rutinarias; con cita para revisión completa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Altstadt+Nuremberg"
+        }
+      ],
+      "tipsEn": [
+        "Germany requires an EU pet passport (or AHC) plus microchip and rabies vaccination ≥21 days old for cross-border travel.",
+        "Tick prevention is essential April–October — TBE (tick-borne encephalitis) is present in Bavaria.",
+        "German vets generally speak excellent English in cities; medical records can usually be issued in English on request."
+      ],
+      "tipsFr": [
+        "L'Allemagne exige un passeport européen (ou AHC) + puce + vaccin rage ≥21 jours pour les voyages transfrontaliers.",
+        "Prévention anti-tiques essentielle d'avril à octobre — la TBE (méningo-encéphalite) est présente en Bavière.",
+        "Les vétérinaires allemands parlent généralement très bien anglais en ville ; les dossiers médicaux peuvent souvent être émis en anglais sur demande."
+      ],
+      "tipsEs": [
+        "Alemania exige pasaporte europeo (o AHC) + microchip + vacuna rabia ≥21 días para viajes transfronterizos.",
+        "La prevención frente a garrapatas es esencial de abril a octubre — la TBE (encefalitis transmitida) está presente en Baviera.",
+        "Los veterinarios alemanes suelen hablar muy bien inglés en ciudad; los historiales médicos pueden emitirse en inglés si se pide."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Nuremberg?",
+          "a": "Yes — two 24/7 emergency hospitals: Tierklinik Nürnberg-Hafen in the south-west and Anicura Tierklinik on Stresemannplatz east of the Altstadt. Both offer full surgical and intensive care. Call ahead for triage."
+        },
+        {
+          "q": "How much does a vet visit cost in Nuremberg?",
+          "a": "Standard fees follow the German GOT (vet fee schedule): routine consultation 30–60 EUR, emergency visit 80–150 EUR plus diagnostics. Major surgeries 600–2500 EUR. EU pet insurance often reimburses."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Nuremberg ?",
+          "a": "Oui — deux hôpitaux d'urgences 24h/24 : Tierklinik Nürnberg-Hafen au sud-ouest et Anicura Tierklinik sur la Stresemannplatz à l'est de l'Altstadt. Tous deux offrent chirurgie complète et soins intensifs. Appelez avant pour le triage."
+        },
+        {
+          "q": "Combien coûte une visite vétérinaire à Nuremberg ?",
+          "a": "Les tarifs suivent le GOT allemand (barème vétérinaire) : consultation classique 30–60 €, urgence 80–150 € + diagnostic. Chirurgies majeures 600–2500 €. Les assurances animales européennes remboursent souvent."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Núremberg?",
+          "a": "Sí — dos hospitales de urgencias 24h: Tierklinik Nürnberg-Hafen al suroeste y Anicura Tierklinik en Stresemannplatz al este de la Altstadt. Ambos ofrecen cirugía completa y cuidados intensivos. Llama antes para triaje."
+        },
+        {
+          "q": "¿Cuánto cuesta una visita veterinaria en Núremberg?",
+          "a": "Las tarifas siguen el GOT alemán (baremo veterinario): consulta rutinaria 30–60 €, urgencia 80–150 € + diagnóstico. Cirugías mayores 600–2500 €. Los seguros de mascotas de la UE suelen reembolsar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travel Tips for Nuremberg with Your Dog",
+      "titleFr": "Conseils de voyage à Nuremberg avec votre chien",
+      "titleEs": "Consejos de viaje a Núremberg con tu perro",
+      "introEn": "Nuremberg is one of Bavaria's easiest cities for dog travel: compact Altstadt, strong Wirtshaus culture welcoming dogs indoors, two 24/7 emergency vets, and the vast Reichswald forest at the city edge.",
+      "introFr": "Nuremberg est l'une des villes bavaroises les plus faciles avec un chien : Altstadt compact, forte culture Wirtshaus accueillant les chiens à l'intérieur, deux vétérinaires d'urgences 24h/24 et la vaste forêt du Reichswald en lisière.",
+      "introEs": "Núremberg es una de las ciudades bávaras más fáciles para viajar con perro: Altstadt compacta, fuerte cultura Wirtshaus que admite perros dentro, dos veterinarios de urgencias 24h y el vasto bosque del Reichswald en el borde.",
+      "places": [
+        {
+          "name": "Best season",
+          "photo": "/images/city-places/nuremberg-tips-best-season.jpg",
+          "description": "May–June and September are ideal: 14–22°C, dry, terraces in full swing. Late November–December for the Christkindlesmarkt (busy but magical). Avoid January–February (cold, often snow) and July–August (warm, school holidays crowds).",
+          "descriptionFr": "Mai–juin et septembre sont idéaux : 14–22°C, sec, terrasses à plein régime. Fin novembre–décembre pour le Christkindlesmarkt (bondé mais magique). Évitez janvier–février (froid, souvent neige) et juillet–août (chaud, foules de vacances scolaires).",
+          "descriptionEs": "Mayo–junio y septiembre son ideales: 14–22°C, seco, terrazas a tope. Finales de noviembre–diciembre por el Christkindlesmarkt (lleno pero mágico). Evita enero–febrero (frío, a menudo nieve) y julio–agosto (cálido, masas de vacaciones escolares)."
+        },
+        {
+          "name": "Christkindlesmarkt with a dog",
+          "photo": "/images/city-places/nuremberg-tips-christkindlesmarkt-with-a-dog.jpg",
+          "description": "The 4-week Christmas market (28 Nov–24 Dec) draws 2 million visitors. Dogs are allowed but the Hauptmarkt is crushingly busy — visit weekday afternoons (14:00–16:00) or after 21:00. Cobblestones stay cold; protect paws from anti-icing salt.",
+          "descriptionFr": "Le marché de Noël de 4 semaines (28 nov–24 déc) attire 2 millions de visiteurs. Les chiens sont admis mais le Hauptmarkt est noir de monde — visitez en semaine l'après-midi (14h–16h) ou après 21h. Les pavés restent froids ; protégez les pattes du sel antigel.",
+          "descriptionEs": "El mercado navideño de 4 semanas (28 nov–24 dic) atrae a 2 millones de visitantes. Los perros son admitidos pero el Hauptmarkt está abarrotado — visita entre semana por la tarde (14:00–16:00) o después de las 21:00. Los adoquines siguen fríos; protege las patas de la sal anticongelante."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/nuremberg-tips-currency-cost.jpg",
+          "description": "Germany uses the euro. Nuremberg is cheaper than Munich: meal 14–24 EUR, Bratwurst plate 9–12 EUR, mid-range pet-friendly hotel 95–160 EUR/night, taxi Hbf-to-Altstadt 8–10 EUR.",
+          "descriptionFr": "L'Allemagne utilise l'euro. Nuremberg est moins chère que Munich : repas 14–24 €, assiette de Bratwurst 9–12 €, hôtel pet-friendly milieu de gamme 95–160 €/nuit, taxi Hbf–Altstadt 8–10 €.",
+          "descriptionEs": "Alemania usa el euro. Núremberg es más barata que Múnich: comida 14–24 €, plato de Bratwurst 9–12 €, hotel pet-friendly de gama media 95–160 €/noche, taxi Hbf–Altstadt 8–10 €."
+        }
+      ],
+      "tipsEn": [
+        "The Hauptmarkt is the navigational centre — most pet-friendly hotels are within 10 min walk.",
+        "German shops open Mon–Sat only; Sundays everything except cafés and restaurants is closed.",
+        "Bavarian Listenhunde law restricts certain breeds (Pit Bull, Bull Terrier, Staffordshire) — bring papers if you own one of these."
+      ],
+      "tipsFr": [
+        "Le Hauptmarkt est le repère central — la plupart des hôtels pet-friendly sont à moins de 10 min à pied.",
+        "Les commerces allemands ouvrent du lundi au samedi seulement ; le dimanche, tout est fermé sauf cafés et restaurants.",
+        "La loi Listenhunde bavaroise restreint certaines races (Pit Bull, Bull Terrier, Staffordshire) — emportez les papiers si vous en avez un."
+      ],
+      "tipsEs": [
+        "El Hauptmarkt es la referencia central — la mayoría de hoteles pet-friendly están a menos de 10 min a pie.",
+        "Las tiendas alemanas abren solo de lunes a sábado; los domingos todo está cerrado salvo cafés y restaurantes.",
+        "La ley bávara Listenhunde restringe ciertas razas (Pit Bull, Bull Terrier, Staffordshire) — lleva los papeles si tienes una de ellas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Nuremberg dog-friendly overall?",
+          "a": "Yes, very. Bavarian Wirtshaus culture welcomes dogs indoors, the U-Bahn and trams are pet-friendly, two 24/7 emergency vets are available, and the Reichswald forest gives off-leash space 15 min from the Altstadt."
+        },
+        {
+          "q": "Can I visit the Christkindlesmarkt with my dog?",
+          "a": "Yes, dogs are allowed everywhere at the market. But the Hauptmarkt gets crushingly busy (2 million visitors over 4 weeks); reactive or anxious dogs may struggle. Aim for weekday afternoons or evenings after 21:00."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Nuremberg est-elle dog-friendly globalement ?",
+          "a": "Oui, très. La culture Wirtshaus bavaroise accueille les chiens à l'intérieur, le U-Bahn et les trams sont pet-friendly, deux vétérinaires d'urgences 24h/24 sont disponibles, et le Reichswald offre de l'espace sans laisse à 15 min de l'Altstadt."
+        },
+        {
+          "q": "Puis-je visiter le Christkindlesmarkt avec mon chien ?",
+          "a": "Oui, les chiens sont admis partout sur le marché. Mais le Hauptmarkt est extrêmement bondé (2 millions de visiteurs sur 4 semaines) ; les chiens réactifs ou anxieux peuvent peiner. Visez les après-midis en semaine ou les soirées après 21h."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Núremberg pet-friendly en general?",
+          "a": "Sí, mucho. La cultura Wirtshaus bávara admite perros dentro, el U-Bahn y los tranvías son pet-friendly, hay dos veterinarios de urgencias 24h disponibles, y el Reichswald ofrece espacio sin correa a 15 min de la Altstadt."
+        },
+        {
+          "q": "¿Puedo visitar el Christkindlesmarkt con mi perro?",
+          "a": "Sí, los perros son admitidos en todas partes del mercado. Pero el Hauptmarkt está abarrotadísimo (2 millones de visitantes en 4 semanas); los perros reactivos o ansiosos pueden sufrir. Apunta a tardes entre semana o noches después de las 21:00."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Pet-Friendly Attractions in Nuremberg — Kaiserburg & Altstadt",
+      "titleFr": "Meilleures attractions pet-friendly à Nuremberg — Kaiserburg et Altstadt",
+      "titleEs": "Mejores atracciones pet-friendly en Núremberg — Kaiserburg y Altstadt",
+      "introEn": "Nuremberg's medieval Altstadt is best experienced as an outdoor architectural walk — perfect with a leashed dog. Most major outdoor sights are dog-accessible; only museums, the Kaiserburg interior and the Nazi documentation centre prohibit dogs.",
+      "introFr": "L'Altstadt médiévale de Nuremberg se découvre en promenade architecturale extérieure — parfait avec un chien en laisse. La plupart des sites extérieurs sont accessibles aux chiens ; seuls les musées, l'intérieur du Kaiserburg et le centre de documentation nazi interdisent les animaux.",
+      "introEs": "La Altstadt medieval de Núremberg se disfruta como paseo arquitectónico al aire libre — perfecto con perro con correa. La mayoría de los monumentos exteriores son accesibles a perros; solo los museos, el interior del Kaiserburg y el centro de documentación nazi prohíben mascotas.",
+      "places": [
+        {
+          "name": "Kaiserburg (Imperial Castle)",
+          "address": "Auf der Burg 13, 90403 Nürnberg",
+          "photo": "/images/city-places/nuremberg-attractions-kaiserburg-imperial-castle.jpg",
+          "petFriendly": true,
+          "description": "Medieval imperial castle perched on the sandstone ridge above the Altstadt, residence of Holy Roman Emperors. The outdoor castle courtyards and gardens (Burggarten) are open to leashed dogs; museum interiors are not.",
+          "descriptionFr": "Château impérial médiéval perché sur la crête de grès au-dessus de l'Altstadt, résidence des empereurs du Saint-Empire. Les cours extérieures et les jardins du château (Burggarten) sont ouverts aux chiens en laisse ; les intérieurs des musées ne le sont pas.",
+          "descriptionEs": "Castillo imperial medieval encaramado en la cresta de arenisca sobre la Altstadt, residencia de los emperadores del Sacro Imperio. Los patios exteriores y los jardines del castillo (Burggarten) admiten perros con correa; los interiores de los museos no.",
+          "petPolicy": "Outdoor courtyards and gardens open to leashed dogs; museum interiors prohibit pets",
+          "petPolicyFr": "Cours et jardins extérieurs ouverts aux chiens en laisse ; intérieurs des musées interdits aux animaux",
+          "petPolicyEs": "Patios y jardines exteriores admiten perros con correa; interiores de museos prohíben mascotas",
+          "openingHours": "Burggarten open Apr–Oct daily; courtyards 24/7",
+          "tip": "The Sinwellturm viewing platform isn't dog-accessible, but the Freiung courtyard views over the Altstadt rooftops are unbeatable.",
+          "tipFr": "La plateforme du Sinwellturm n'est pas accessible aux chiens, mais les vues depuis la cour de la Freiung sur les toits de l'Altstadt sont imbattables.",
+          "tipEs": "La plataforma del Sinwellturm no es accesible para perros, pero las vistas desde el patio de la Freiung sobre los tejados de la Altstadt son inmejorables.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kaiserburg+Nuremberg"
+        },
+        {
+          "name": "Hauptmarkt & Schöner Brunnen",
+          "address": "Hauptmarkt, 90403 Nürnberg",
+          "photo": "/images/city-places/nuremberg-attractions-hauptmarkt-schoner-brunnen.jpg",
+          "petFriendly": true,
+          "description": "The central market square, anchored by the Gothic Schöner Brunnen (Beautiful Fountain, 1385–96) and the Frauenkirche church. Daily market 09:00–18:00; site of the Christkindlesmarkt in December.",
+          "descriptionFr": "La place centrale du marché, ancrée par le gothique Schöner Brunnen (Belle Fontaine, 1385–96) et la Frauenkirche. Marché quotidien 9h–18h ; site du Christkindlesmarkt en décembre.",
+          "descriptionEs": "La plaza central del mercado, anclada por el gótico Schöner Brunnen (Hermosa Fuente, 1385–96) y la Frauenkirche. Mercado diario 09:00–18:00; sede del Christkindlesmarkt en diciembre.",
+          "petPolicy": "Open public square; dogs welcome on lead",
+          "petPolicyFr": "Place publique ouverte ; chiens admis en laisse",
+          "petPolicyEs": "Plaza pública abierta; perros admitidos con correa",
+          "openingHours": "Open 24/7; market 09:00–18:00",
+          "tip": "Find the golden ring on the Schöner Brunnen — locally believed to grant a wish if you turn it three times.",
+          "tipFr": "Trouvez l'anneau d'or sur le Schöner Brunnen — la croyance locale dit qu'il exauce un vœu si on le tourne trois fois.",
+          "tipEs": "Encuentra el anillo dorado en el Schöner Brunnen — la creencia local dice que concede un deseo si lo giras tres veces.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptmarkt+Nuremberg"
+        },
+        {
+          "name": "Albrecht Dürer's House",
+          "address": "Albrecht-Dürer-Straße 39, 90403 Nürnberg",
+          "photo": "/images/city-places/nuremberg-attractions-albrecht-durer-s-house.jpg",
+          "petFriendly": false,
+          "description": "The half-timbered Gothic house where Renaissance master Albrecht Dürer lived from 1509 to 1528. Dogs not allowed inside the museum, but the cobbled Tiergärtnertorplatz outside is one of the city's most photogenic squares.",
+          "descriptionFr": "La maison à colombages gothique où le maître Renaissance Albrecht Dürer vécut de 1509 à 1528. Chiens interdits dans le musée, mais la Tiergärtnertorplatz pavée à l'extérieur est l'une des places les plus photogéniques de la ville.",
+          "descriptionEs": "La casa con entramado gótico donde el maestro renacentista Albrecht Dürer vivió de 1509 a 1528. No se admiten perros en el museo, pero la Tiergärtnertorplatz empedrada exterior es una de las plazas más fotogénicas de la ciudad.",
+          "petPolicy": "No dogs inside; outdoor square fully accessible",
+          "petPolicyFr": "Chiens interdits à l'intérieur ; place extérieure entièrement accessible",
+          "petPolicyEs": "Sin perros en el interior; plaza exterior totalmente accesible",
+          "openingHours": "Museum: Tue–Sun 10:00–17:00; closed Mondays",
+          "tip": "Pose your dog on the cobbles in front of the Dürer Hare statue — Nuremberg's most photographed dog-portrait spot.",
+          "tipFr": "Posez votre chien sur les pavés devant la statue du Lièvre de Dürer — le spot portrait canin le plus photographié de Nuremberg.",
+          "tipEs": "Posa a tu perro en los adoquines frente a la estatua de la Liebre de Dürer — el spot de retrato canino más fotografiado de Núremberg.",
+          "googleMapsUrl": "https://maps.google.com/?q=Albrecht+Duerer+Haus+Nuremberg"
+        }
+      ],
+      "tipsEn": [
+        "All major Altstadt sights cluster within a 15-min walking radius — feasible on a single 3h walk with a dog.",
+        "Germanisches Nationalmuseum, Toy Museum, and Documentation Centre Nazi Party Rally Grounds all prohibit dogs.",
+        "Outdoor squares, the Pegnitz riverside, and the Kaiserburg gardens are universally dog-accessible."
+      ],
+      "tipsFr": [
+        "Tous les grands sites de l'Altstadt sont à moins de 15 min à pied — faisables en une promenade de 3h avec un chien.",
+        "Le Germanisches Nationalmuseum, le musée du Jouet et le centre de documentation des rassemblements nazis interdisent tous les chiens.",
+        "Places extérieures, berges de la Pegnitz et jardins du Kaiserburg sont universellement accessibles."
+      ],
+      "tipsEs": [
+        "Todos los grandes monumentos de la Altstadt están a menos de 15 min a pie — factibles en un paseo de 3h con perro.",
+        "El Germanisches Nationalmuseum, el Museo del Juguete y el Centro de Documentación del Partido Nazi prohíben todos los perros.",
+        "Plazas exteriores, orillas del Pegnitz y jardines del Kaiserburg son universalmente accesibles."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to the Kaiserburg?",
+          "a": "Yes, to the outdoor courtyards and the Burggarten gardens (open April–October). The museum interior, the Sinwellturm climb and the Tiefer Brunnen tour do not admit dogs (except assistance dogs)."
+        },
+        {
+          "q": "Are dogs allowed in the Christkindlesmarkt?",
+          "a": "Yes. The market is held on the open Hauptmarkt and dogs on lead are welcome. Be aware of the crowds — at peak times the square holds 50,000+ visitors and reactive dogs may struggle."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au Kaiserburg ?",
+          "a": "Oui, dans les cours extérieures et les jardins du Burggarten (ouverts d'avril à octobre). L'intérieur du musée, l'ascension du Sinwellturm et la visite du Tiefer Brunnen n'admettent pas les chiens (sauf chiens d'assistance)."
+        },
+        {
+          "q": "Les chiens sont-ils admis au Christkindlesmarkt ?",
+          "a": "Oui. Le marché se tient sur le Hauptmarkt à ciel ouvert et les chiens en laisse sont bienvenus. Attention aux foules — aux heures de pointe, la place accueille plus de 50 000 visiteurs et les chiens réactifs peuvent peiner."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro al Kaiserburg?",
+          "a": "Sí, a los patios exteriores y los jardines del Burggarten (abiertos de abril a octubre). El interior del museo, la subida al Sinwellturm y la visita al Tiefer Brunnen no admiten perros (salvo perros de asistencia)."
+        },
+        {
+          "q": "¿Se admiten perros en el Christkindlesmarkt?",
+          "a": "Sí. El mercado se celebra en el Hauptmarkt al aire libre y los perros con correa son bienvenidos. Cuidado con las multitudes — en horas punta la plaza recibe más de 50.000 visitantes y los perros reactivos pueden sufrir."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog-Sitting & Daycare in Nuremberg — Verified Platforms",
+      "titleFr": "Garde de chiens et crèche canine à Nuremberg — Plateformes vérifiées",
+      "titleEs": "Cuidado de perros y guardería canina en Núremberg — Plataformas verificadas",
+      "introEn": "Museum visits, long Kaiserburg tours, and the Documentation Centre sometimes require leaving your dog. Two international platforms (DogBuddy/Rover, Pawshake) operate in Nuremberg with around 30 verified local sitters.",
+      "introFr": "Visites de musées, longs tours du Kaiserburg et centre de documentation imposent parfois de laisser son chien. Deux plateformes internationales (DogBuddy/Rover, Pawshake) opèrent à Nuremberg avec environ 30 sitters locaux vérifiés.",
+      "introEs": "Visitas a museos, largos recorridos por el Kaiserburg y el centro de documentación obligan a veces a dejar al perro. Dos plataformas internacionales (DogBuddy/Rover, Pawshake) operan en Núremberg con unos 30 cuidadores locales verificados.",
+      "places": [
+        {
+          "name": "DogBuddy / Rover Nuremberg",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "description": "Germany's largest pet-sitting platform (Rover-owned). ~20 verified sitters in Nuremberg. Drop-in visits, daycare, overnight boarding. Insurance included, reviewed sitters.",
+          "descriptionFr": "Première plateforme de garde d'animaux d'Allemagne (groupe Rover). ~20 sitters vérifiés à Nuremberg. Visites à domicile, crèche, hébergement de nuit. Assurance incluse, sitters notés.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas de Alemania (grupo Rover). ~20 cuidadores verificados en Núremberg. Visitas a domicilio, guardería, alojamiento. Seguro incluido, cuidadores con reseñas.",
+          "website": "https://www.rover.com/de/dog-sitting/nuremberg",
+          "tip": "Most sitters speak English; many work from home, ideal for daycare during museum visits.",
+          "tipFr": "La plupart des sitters parlent anglais ; beaucoup télétravaillent, idéal pour la crèche pendant les visites de musée.",
+          "tipEs": "La mayoría de los cuidadores habla inglés; muchos teletrabajan, ideal para guardería durante visitas a museos."
+        },
+        {
+          "name": "Pawshake Nürnberg",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "description": "International platform with ~12 verified sitters in Nuremberg. Useful for travellers who prefer an English-language interface and global account portability.",
+          "descriptionFr": "Plateforme internationale avec ~12 sitters vérifiés à Nuremberg. Utile pour les voyageurs qui préfèrent une interface en anglais et la portabilité de compte mondiale.",
+          "descriptionEs": "Plataforma internacional con ~12 cuidadores verificados en Núremberg. Útil para viajeros que prefieren una interfaz en inglés y portabilidad de cuenta mundial.",
+          "website": "https://www.pawshake.de/dog-sitting/nuernberg",
+          "tip": "Book 72h ahead during the Christkindlesmarkt (28 Nov–24 Dec) and trade fair weeks (mid-Sept and mid-Feb) — availability tightens.",
+          "tipFr": "Réservez 72h à l'avance pendant le Christkindlesmarkt (28 nov–24 déc) et les semaines de foires (mi-sept et mi-fév) — disponibilités réduites.",
+          "tipEs": "Reserva con 72h durante el Christkindlesmarkt (28 nov–24 dic) y semanas de ferias (mediados sept y feb) — disponibilidad reducida."
+        }
+      ],
+      "tipsEn": [
+        "Nuremberg rates: drop-in visit 15–22 EUR, day-care 22–32 EUR, overnight boarding 30–45 EUR.",
+        "Most sitters live in central Altstadt-adjacent neighbourhoods (Gostenhof, Maxfeld, St. Johannis).",
+        "Pet hotels (Hundepensionen) exist outside the city — useful only for multi-day absences."
+      ],
+      "tipsFr": [
+        "Tarifs Nuremberg : visite à domicile 15–22 €, crèche journée 22–32 €, hébergement nuit 30–45 €.",
+        "La plupart des sitters habitent les quartiers proches de l'Altstadt (Gostenhof, Maxfeld, St. Johannis).",
+        "Des pensions canines (Hundepensionen) existent hors ville — utiles seulement pour les absences de plusieurs jours."
+      ],
+      "tipsEs": [
+        "Tarifas en Núremberg: visita a domicilio 15–22 €, guardería de día 22–32 €, alojamiento de noche 30–45 €.",
+        "La mayoría de los cuidadores vive en barrios cercanos a la Altstadt (Gostenhof, Maxfeld, St. Johannis).",
+        "Existen residencias caninas (Hundepensionen) fuera de la ciudad — útiles solo para ausencias de varios días."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog-sitter for half a day in Nuremberg?",
+          "a": "Rover (DogBuddy) and Pawshake both let you book drop-in visits or daycare with verified local sitters. Filter by language, accepted dog size, and walking distance from your hotel. Most Nuremberg sitters are flexible on 24h notice."
+        },
+        {
+          "q": "Can I leave my dog at my Nuremberg hotel during the day?",
+          "a": "Most pet-friendly Nuremberg hotels (Drei Raben, Elch Boutique, Le Méridien Grand) allow dogs in the room during your absence if they're calm and don't bark. Confirm at check-in — some require a 'do-not-disturb' card on the door."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un dog-sitter pour une demi-journée à Nuremberg ?",
+          "a": "Rover (DogBuddy) et Pawshake permettent tous deux de réserver des visites à domicile ou de la crèche avec des sitters locaux vérifiés. Filtrez par langue, taille de chien acceptée et distance à pied de votre hôtel. La plupart des sitters de Nuremberg sont flexibles sur 24h."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel pendant la journée à Nuremberg ?",
+          "a": "La plupart des hôtels pet-friendly de Nuremberg (Drei Raben, Elch Boutique, Le Méridien Grand) autorisent les chiens en chambre pendant vos sorties s'ils sont calmes et ne aboient pas. Confirmez au check-in — certains exigent un panneau « ne pas déranger »."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador para medio día en Núremberg?",
+          "a": "Rover (DogBuddy) y Pawshake permiten reservar visitas a domicilio o guardería con cuidadores locales verificados. Filtra por idioma, tamaño admitido y distancia caminando desde tu hotel. La mayoría de cuidadores de Núremberg son flexibles con 24h de antelación."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro en el hotel durante el día en Núremberg?",
+          "a": "La mayoría de hoteles pet-friendly de Núremberg (Drei Raben, Elch Boutique, Le Méridien Grand) admiten perros en la habitación durante tus salidas si son tranquilos y no ladran. Confírmalo al check-in — algunos exigen el cartel «no molestar»."
+        }
+      ]
+    }
+  }
+}

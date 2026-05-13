@@ -11617,6 +11617,131 @@
     "slug": "splendide-appartement-nice-blue-pearl-tout-confort-vue-mer-p"
   },
   {
+    "id": "nuremberg-1",
+    "name": "Hotel Drei Raben",
+    "destinationSlug": "nuremberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1380,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/drei-raben.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Drei Raben — Boutique 4-star storytelling hotel in the Altstadt, 5 min from the main square. Pet fee 20 EUR/night. Dogs welcome on request (max 15 kg).",
+    "highlights": [
+      "Free WiFi",
+      "Themed rooms",
+      "Bar",
+      "Altstadt location"
+    ],
+    "slug": "hotel-drei-raben-nuremberg"
+  },
+  {
+    "id": "nuremberg-2",
+    "name": "Le Méridien Grand Hotel Nürnberg",
+    "destinationSlug": "nuremberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 3200,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/le-meridien-grand-nuernberg.html",
+    "petFee": 30,
+    "petPolicy": "Le Méridien Grand — Iconic 1896 Art Nouveau 5-star opposite the main station, 10 min walk from the Altstadt. Pet fee 30 EUR/night. Dogs up to 20 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Spa",
+      "Restaurant",
+      "Historic 1896"
+    ],
+    "slug": "le-meridien-grand-hotel-nuernberg"
+  },
+  {
+    "id": "nuremberg-3",
+    "name": "Hotel Elch Boutique",
+    "destinationSlug": "nuremberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 920,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/elch-boutique.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Elch Boutique — Family-run 4-star in a 14th-century half-timbered building near the Kaiserburg. Pet fee 15 EUR/night. Small/medium dogs welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "14th-c. building",
+      "Breakfast",
+      "Kaiserburg view"
+    ],
+    "slug": "hotel-elch-boutique-nuremberg"
+  },
+  {
+    "id": "nuremberg-4",
+    "name": "Maritim Hotel Nürnberg",
+    "destinationSlug": "nuremberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 4200,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/maritim-nuernberg.html",
+    "petFee": 15,
+    "petPolicy": "Maritim Hotel — Large 4-star adjacent to the trade fair grounds and Stadtpark, 10 min by tram to the Altstadt. Pet fee 15 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Indoor pool",
+      "Restaurant",
+      "Stadtpark access"
+    ],
+    "slug": "maritim-hotel-nuernberg"
+  },
+  {
+    "id": "nuremberg-5",
+    "name": "Hotel Victoria",
+    "destinationSlug": "nuremberg",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1840,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/victoria-nuernberg.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Victoria — Family-run 3-star on the edge of the Altstadt near the Königstor. Pet fee 10 EUR/night. Small/medium dogs welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Central",
+      "Breakfast",
+      "Family-run"
+    ],
+    "slug": "hotel-victoria-nuremberg"
+  },
+  {
     "id": "oslo-1",
     "name": "Grand Hotel Oslo",
     "destinationSlug": "oslo",

@@ -100,6 +100,7 @@ const TARGETS = [
   { slug: 'aix-en-provence', query: 'Aix en Provence France Cours Mirabeau plane trees fountain hotels particuliers Provence panorama sunset' },
   { slug: 'coimbra', query: 'Coimbra Portugal University hilltop Se Velha Mondego river Pedro Ines bridge UNESCO panorama sunset' },
   { slug: 'modena', query: 'Modena Italy Piazza Grande Duomo Ghirlandina tower UNESCO Emilia Romagna Romanesque panorama sunset' },
+  { slug: 'nuremberg', query: 'Nuremberg Germany Kaiserburg Imperial Castle Altstadt half-timbered Pegnitz river Bavaria panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

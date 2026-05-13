@@ -8390,6 +8390,119 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  nuremberg: {
+    history: {
+      fr: `Nuremberg (Nürnberg en allemand), capitale officieuse de la Franconie, fut l'une des grandes villes libres impériales du Saint-Empire romain germanique du XIIIe au XVIIIe siècle — siège fréquent des Diètes impériales et résidence préférée de plusieurs empereurs. Le Kaiserburg, perché sur sa crête de grès, et l'Altstadt à colombages classée au patrimoine bavarois témoignent de cet âge d'or. Berceau d'Albrecht Dürer et du Lebkuchen (pain d'épices), Nuremberg accueille depuis 1628 le plus célèbre marché de Noël d'Allemagne, le Christkindlesmarkt, qui attire chaque année 2 millions de visiteurs. La ville fut presque entièrement détruite en 1945 puis reconstruite à l'identique. Aujourd'hui, deuxième ville de Bavière avec 520 000 habitants, Nuremberg combine héritage médiéval, culture Wirtshaus accueillant les chiens à l'intérieur et accès direct à 25 000 hectares de forêt impériale (Reichswald). À 1h05 de Munich et 4h de Berlin en ICE, c'est l'une des villes allemandes les plus faciles avec un chien.`,
+      en: `Nuremberg (Nürnberg in German), the unofficial capital of Franconia, was one of the great Free Imperial Cities of the Holy Roman Empire from the 13th to the 18th century — frequent site of Imperial Diets and a favourite residence of several emperors. The Kaiserburg, perched on its sandstone ridge, and the half-timbered Altstadt (listed as a Bavarian heritage ensemble) testify to that golden age. Birthplace of Albrecht Dürer and of Lebkuchen (gingerbread), Nuremberg has hosted since 1628 Germany's most famous Christmas market, the Christkindlesmarkt, which now draws 2 million visitors each year. The city was almost entirely destroyed in 1945 and faithfully rebuilt. Today, Bavaria's second city with 520,000 inhabitants, Nuremberg combines medieval heritage, a Wirtshaus culture that welcomes dogs indoors, and direct access to 25,000 hectares of imperial forest (Reichswald). Just 1h05 from Munich and 4h from Berlin by ICE, it is one of Germany's easiest cities for travel with a dog.`,
+      es: `Núremberg (Nürnberg en alemán), capital extraoficial de Franconia, fue una de las grandes Ciudades Imperiales Libres del Sacro Imperio Romano Germánico del s. XIII al XVIII — sede frecuente de las Dietas Imperiales y residencia preferida de varios emperadores. El Kaiserburg, encaramado en su cresta de arenisca, y la Altstadt con entramado de madera (conjunto patrimonial bávaro) atestiguan esa edad de oro. Cuna de Albrecht Dürer y del Lebkuchen (pan de jengibre), Núremberg acoge desde 1628 el mercado navideño más famoso de Alemania, el Christkindlesmarkt, que atrae cada año a 2 millones de visitantes. La ciudad fue casi completamente destruida en 1945 y reconstruida fielmente. Hoy, segunda ciudad de Baviera con 520.000 habitantes, Núremberg combina herencia medieval, cultura Wirtshaus que admite perros dentro y acceso directo a 25.000 hectáreas de bosque imperial (Reichswald). A 1h05 de Múnich y 4h de Berlín en ICE, es una de las ciudades alemanas más fáciles para viajar con perro.`,
+    },
+    sights: [
+      {
+        name: 'Kaiserburg',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Château impérial médiéval perché sur la crête de grès. Les cours extérieures et les jardins du Burggarten (avril–octobre) sont ouverts aux chiens en laisse ; les intérieurs des musées ne le sont pas.`,
+          en: `Medieval imperial castle perched on the sandstone ridge. The outdoor courtyards and Burggarten gardens (April–October) are open to leashed dogs; museum interiors are not.`,
+          es: `Castillo imperial medieval encaramado en la cresta de arenisca. Los patios exteriores y los jardines del Burggarten (abril–octubre) admiten perros con correa; los interiores de los museos no.`,
+        },
+      },
+      {
+        name: 'Hauptmarkt & Schöner Brunnen',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Place centrale du marché, dominée par la Belle Fontaine gothique (Schöner Brunnen, 1385–96) et la Frauenkirche. Marché quotidien 9h–18h ; site du Christkindlesmarkt en décembre.`,
+          en: `Central market square, dominated by the Gothic Beautiful Fountain (Schöner Brunnen, 1385–96) and the Frauenkirche. Daily market 09:00–18:00; site of the Christkindlesmarkt in December.`,
+          es: `Plaza central del mercado, dominada por la gótica Hermosa Fuente (Schöner Brunnen, 1385–96) y la Frauenkirche. Mercado diario 09:00–18:00; sede del Christkindlesmarkt en diciembre.`,
+        },
+      },
+      {
+        name: 'Tiergärtnertorplatz & Albrecht Dürer Haus',
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          fr: `La place pavée la plus photogénique de Nuremberg, au pied du Kaiserburg. La maison à colombages où vécut Dürer (1509–1528) est un musée — chiens interdits ; la place extérieure leur est ouverte.`,
+          en: `Nuremberg's most photogenic cobbled square, at the foot of the Kaiserburg. The half-timbered house where Dürer lived (1509–1528) is a museum — dogs not allowed; the outdoor square is open to them.`,
+          es: `La plaza empedrada más fotogénica de Núremberg, a los pies del Kaiserburg. La casa con entramado donde vivió Dürer (1509–1528) es un museo — perros no admitidos; la plaza exterior sí.`,
+        },
+      },
+      {
+        name: 'Wöhrder See',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Lac artificiel de 44 ha avec plage canine désignée (Hundebadestelle) sur la rive nord. Sentier en boucle de 4 km, eau peu profonde, idéal pour la baignade canine en été.`,
+          en: `44-hectare artificial lake with designated dog beach (Hundebadestelle) on the north shore. 4 km loop trail, shallow water, ideal for dog swimming in summer.`,
+          es: `Lago artificial de 44 ha con playa canina designada (Hundebadestelle) en la orilla norte. Sendero circular de 4 km, agua poco profunda, ideal para baño canino en verano.`,
+        },
+      },
+      {
+        name: 'Sebalder Reichswald',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Forêt impériale de 25 000 ha en lisière de ville. La loi forestière bavaroise autorise les chiens sans laisse sur les sentiers balisés hors heures de chasse (aube/crépuscule avril–juillet).`,
+          en: `25,000-hectare imperial forest at the city edge. Bavarian forest law allows dogs off-leash on marked paths outside hunting hours (dawn/dusk April–July).`,
+          es: `Bosque imperial de 25.000 ha al borde de la ciudad. La ley forestal bávara permite perros sin correa en senderos señalizados fuera de horas de caza (amanecer/atardecer abril–julio).`,
+        },
+      },
+      {
+        name: 'Christkindlesmarkt',
+        emoji: '🎄',
+        petFriendly: true,
+        desc: {
+          fr: `Marché de Noël depuis 1628, 28 novembre au 24 décembre. Les chiens en laisse sont admis partout sur le Hauptmarkt, mais la foule est dense (2 M de visiteurs sur 4 semaines) — préférez les après-midis en semaine ou après 21h.`,
+          en: `Christmas market since 1628, 28 November to 24 December. Leashed dogs welcome throughout the Hauptmarkt, but crowds are thick (2 M visitors over 4 weeks) — prefer weekday afternoons or after 21:00.`,
+          es: `Mercado navideño desde 1628, del 28 de noviembre al 24 de diciembre. Perros con correa admitidos en todo el Hauptmarkt, pero las multitudes son densas (2 M de visitantes en 4 semanas) — prefiere tardes entre semana o después de las 21:00.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les Wirtshaus allemands accueillent massivement les chiens en laisse à l'intérieur — bien plus qu'en Europe du Sud.`,
+        `Le réseau VGN (U-Bahn, tram, bus) accepte les petits chiens en sac gratuitement ; chiens plus grands : billet enfant + laisse.`,
+        `Le Reichswald en lisière de ville offre 25 000 ha de forêt avec sentiers sans laisse — accessible en tram 4 jusqu'au terminus.`,
+        `La loi Listenhunde bavaroise restreint Pit Bull, Bull Terrier et variantes Staffordshire — emportez les papiers si vous en avez un.`,
+        `Le sel antigel sur les pavés de l'Altstadt en décembre peut blesser les coussinets — bottines protectrices ou Vaseline avant la sortie.`,
+      ],
+      en: [
+        `German Wirtshäuser welcome leashed dogs indoors on a massive scale — far more than in southern Europe.`,
+        `The VGN network (U-Bahn, tram, bus) accepts small dogs in carriers free; larger dogs need a child's ticket and a lead.`,
+        `The Reichswald at the city edge offers 25,000 ha of forest with off-leash trails — accessible by tram 4 to the terminus.`,
+        `Bavarian Listenhunde law restricts Pit Bull, Bull Terrier and Staffordshire variants — bring papers if you own one.`,
+        `Anti-icing salt on Altstadt cobbles in December can hurt paw pads — protective booties or Vaseline before going out.`,
+      ],
+      es: [
+        `Las Wirtshäuser alemanas admiten masivamente perros con correa en el interior — mucho más que en el sur de Europa.`,
+        `La red VGN (U-Bahn, tranvía, autobús) admite perros pequeños en transportín gratis; perros más grandes necesitan billete infantil y correa.`,
+        `El Reichswald al borde de la ciudad ofrece 25.000 ha de bosque con senderos sin correa — accesible en tranvía 4 hasta el final.`,
+        `La ley Listenhunde bávara restringe Pit Bull, Bull Terrier y variantes Staffordshire — lleva los papeles si tienes uno.`,
+        `La sal anticongelante sobre los adoquines de la Altstadt en diciembre puede dañar las almohadillas — botitas protectoras o vaselina antes de salir.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaires d'urgence 24h/24 : Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60 ; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
+        `Cabinet de jour central : Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
+        `ICE depuis Munich : 1h05 ; depuis Francfort : 2h15 ; depuis Berlin : 4h. Petits chiens en sac gratuits ; chiens plus grands : billet enfant (50%) + muselière.`,
+        `Aéroport Nuremberg NUE à 7 km au nord — 12 min en U-Bahn U2 depuis la gare centrale.`,
+      ],
+      en: [
+        `24/7 emergency vets: Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
+        `Central daytime clinic: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
+        `ICE from Munich: 1h05; from Frankfurt: 2h15; from Berlin: 4h. Small dogs in a carrier free; larger dogs need a child's ticket (50%) and a muzzle.`,
+        `Nuremberg NUE airport 7 km north — 12 min by U-Bahn U2 from the main station.`,
+      ],
+      es: [
+        `Veterinarios de urgencias 24h: Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
+        `Clínica diurna céntrica: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
+        `ICE desde Múnich: 1h05; desde Fráncfort: 2h15; desde Berlín: 4h. Perros pequeños en transportín gratis; perros más grandes necesitan billete infantil (50%) y bozal.`,
+        `Aeropuerto Núremberg NUE a 7 km al norte — 12 min en U-Bahn U2 desde la estación central.`,
+      ],
+    },
+  },
+
   oslo: {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés — Torshovdalen, Sofienbergparken, St. Hanshaugen — et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,

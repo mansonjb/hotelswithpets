@@ -411,6 +411,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
       area: 'the Old Town (Vieux-Nice), Cimiez, and the Port',
     },
+    nuremberg: {
+      personality: 'a medieval Franconian city where Wirtshaus culture welcomes dogs indoors, two 24/7 emergency vets stand ready, and the 25,000-hectare Reichswald forest offers off-leash space at the city edge',
+      highlight: 'the Kaiserburg castle gardens, the Wöhrder See dog beach, and the Sebalder Reichswald forest paths',
+      area: 'the Altstadt around the Hauptmarkt and Kaiserburg, the Stadtpark north of centre, and the Wöhrder See east of the Altstadt',
+    },
     oslo: {
       personality: 'a Scandinavian capital where the proximity of fjords, forests, and the vast Oslomarka trail network makes it one of the continent\'s best destinations for active dog owners',
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
@@ -1014,6 +1019,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
       area: 'le Vieux-Nice, Cimiez et le Port',
     },
+    nuremberg: {
+      personality: `une ville franconienne médiévale où la culture Wirtshaus accueille les chiens à l'intérieur, deux vétérinaires d'urgences 24h/24 sont disponibles, et la forêt du Reichswald (25 000 ha) offre de l'espace sans laisse en lisière de ville`,
+      highlight: 'les jardins du château Kaiserburg, la plage canine du Wöhrder See, et les sentiers forestiers du Sebalder Reichswald',
+      area: `l'Altstadt autour du Hauptmarkt et du Kaiserburg, le Stadtpark au nord du centre, et le Wöhrder See à l'est de l'Altstadt`,
+    },
     oslo: {
       personality: 'une capitale scandinave où la proximité des fjords, des forêts et du vaste réseau de sentiers de l\'Oslomarka en fait l\'une des meilleures destinations du continent pour les propriétaires de chiens actifs',
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
@@ -1615,6 +1625,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
       area: 'el Casco Antiguo (Vieux-Nice), Cimiez y el Puerto',
+    },
+    nuremberg: {
+      personality: 'una ciudad franconia medieval donde la cultura Wirtshaus admite perros dentro, dos veterinarios de urgencias 24h están disponibles y el bosque del Reichswald (25.000 ha) ofrece espacio sin correa al borde de la ciudad',
+      highlight: 'los jardines del castillo Kaiserburg, la playa canina del Wöhrder See y los senderos forestales del Sebalder Reichswald',
+      area: 'la Altstadt en torno al Hauptmarkt y al Kaiserburg, el Stadtpark al norte del centro y el Wöhrder See al este de la Altstadt',
     },
     oslo: {
       personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',

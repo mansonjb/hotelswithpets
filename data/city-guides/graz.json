@@ -1,0 +1,927 @@
+{
+  "slug": "graz",
+  "name": "Graz",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-05-13",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Graz — Buschenschank & Beislkultur",
+      "titleFr": "Restaurants dog-friendly à Graz — Buschenschank et Beislkultur",
+      "titleEs": "Restaurantes pet-friendly en Graz — Buschenschank y Beislkultur",
+      "introEn": "Graz's Beisl (Austrian neighbourhood pub) and Buschenschank (Styrian wine tavern) culture is overwhelmingly dog-tolerant indoors and out. The Hauptplatz, the Lend district, and the Mur riverside concentrate dozens of dog-friendly venues.",
+      "introFr": "La culture Beisl (pub de quartier autrichien) et Buschenschank (taverne viticole styrienne) de Graz tolère massivement les chiens à l'intérieur et en terrasse. Le Hauptplatz, le quartier Lend et les berges de la Mur concentrent des dizaines d'adresses dog-friendly.",
+      "introEs": "La cultura Beisl (taberna de barrio austriaca) y Buschenschank (taberna vinícola estiria) de Graz tolera ampliamente perros dentro y fuera. El Hauptplatz, el barrio Lend y las orillas del Mur concentran decenas de locales dog-friendly.",
+      "places": [
+        {
+          "name": "Glöckl Bräu",
+          "address": "Glockenspielplatz 2-3, 8010 Graz",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/graz-restaurants-glockl-brau.jpg",
+          "website": "https://www.gloecklbraeu.at/",
+          "description": "Classic Austrian Bräuhaus near the Glockenspielplatz. Traditional Styrian cuisine — Backhendl, Käsekrainer, Wiener Schnitzel — and the city's largest selection of regional craft beers.",
+          "descriptionFr": "Bräuhaus autrichien classique près du Glockenspielplatz. Cuisine styrienne traditionnelle — Backhendl, Käsekrainer, Wiener Schnitzel — et la plus grande sélection de bières artisanales régionales de la ville.",
+          "descriptionEs": "Bräuhaus austriaco clásico junto al Glockenspielplatz. Cocina estiria tradicional — Backhendl, Käsekrainer, Wiener Schnitzel — y la mayor selección de cervezas artesanas regionales de la ciudad.",
+          "petPolicy": "Calm leashed dogs welcome indoors and on terrace",
+          "petPolicyFr": "Chiens calmes en laisse admis à l'intérieur et en terrasse",
+          "petPolicyEs": "Perros tranquilos con correa admitidos dentro y fuera",
+          "priceRange": "€€",
+          "mustTry": "Backhendl, Steirisches Schöpsernes, regional craft beer",
+          "mustTryFr": "Backhendl, Steirisches Schöpsernes, bière artisanale locale",
+          "mustTryEs": "Backhendl, Steirisches Schöpsernes, cerveza artesana local",
+          "openingHours": "Daily 11:00–24:00",
+          "tip": "Time your visit for the 11:00 or 15:00 Glockenspiel chimes on the square outside — magical 3-min performance with carved wooden figures.",
+          "tipFr": "Calez votre visite sur le Glockenspiel de 11h ou 15h sur la place — performance magique de 3 min avec figurines en bois sculpté.",
+          "tipEs": "Coincide tu visita con el Glockenspiel de las 11:00 o 15:00 en la plaza exterior — actuación mágica de 3 min con figuras de madera tallada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Gloeckl+Braeu+Graz"
+        },
+        {
+          "name": "Aiola Upstairs",
+          "address": "Schlossberg 2, 8010 Graz",
+          "neighborhood": "Schlossberg",
+          "photo": "/images/city-places/graz-restaurants-aiola-upstairs.jpg",
+          "website": "https://www.aiola.at/",
+          "description": "Elegant café-restaurant atop the Schlossberg with the most panoramic terrace in Graz. Mediterranean-Austrian cuisine, all-day brunch, sunset cocktails.",
+          "descriptionFr": "Élégant café-restaurant au sommet du Schlossberg avec la terrasse la plus panoramique de Graz. Cuisine austro-méditerranéenne, brunch toute la journée, cocktails au coucher du soleil.",
+          "descriptionEs": "Elegante café-restaurante en lo alto del Schlossberg con la terraza más panorámica de Graz. Cocina austro-mediterránea, brunch todo el día, cócteles al atardecer.",
+          "petPolicy": "Dogs welcome on terrace and in some indoor areas",
+          "petPolicyFr": "Chiens admis en terrasse et dans certaines zones intérieures",
+          "petPolicyEs": "Perros admitidos en terraza y algunas zonas interiores",
+          "priceRange": "€€€",
+          "mustTry": "Sunset aperitivo, Austrian breakfast platter",
+          "mustTryFr": "Apéritif au coucher du soleil, plateau petit-déjeuner autrichien",
+          "mustTryEs": "Aperitivo al atardecer, plato de desayuno austriaco",
+          "openingHours": "Daily 09:00–24:00",
+          "tip": "Take the Schlossbergbahn funicular up — dogs ride free with you. Arrive at 19:30 for sunset over the entire UNESCO Altstadt.",
+          "tipFr": "Prenez le funiculaire Schlossbergbahn — les chiens y voyagent gratuitement. Arrivez à 19h30 pour le coucher de soleil sur l'Altstadt UNESCO.",
+          "tipEs": "Toma el funicular Schlossbergbahn — los perros viajan gratis. Llega a las 19:30 para la puesta de sol sobre toda la Altstadt UNESCO.",
+          "googleMapsUrl": "https://maps.google.com/?q=Aiola+Upstairs+Graz"
+        },
+        {
+          "name": "Der Steirer",
+          "address": "Belgiergasse 1, 8020 Graz",
+          "neighborhood": "Lend",
+          "photo": "/images/city-places/graz-restaurants-der-steirer.jpg",
+          "website": "https://www.der-steirer.at/",
+          "description": "Modern Styrian gastro-tavern in the trendy Lend district. Pumpkin-seed oil specialities, regional wine list, generous terrace. Beloved by locals and dogs alike.",
+          "descriptionFr": "Gastro-taverne styrienne moderne dans le quartier branché de Lend. Spécialités à l'huile de pépins de courge, carte des vins régionale, généreuse terrasse. Adoré des locaux et des chiens.",
+          "descriptionEs": "Gastro-taberna estiria moderna en el barrio de moda Lend. Especialidades con aceite de pepita de calabaza, carta de vinos regional, amplia terraza. Adorado por locales y perros.",
+          "petPolicy": "Dogs welcome indoors and on terrace, water bowl provided",
+          "petPolicyFr": "Chiens admis à l'intérieur et en terrasse, gamelle d'eau fournie",
+          "petPolicyEs": "Perros admitidos dentro y fuera, cuenco de agua disponible",
+          "priceRange": "€€",
+          "mustTry": "Backhendl, Kürbiskernöl pumpkin-seed oil tasting, Schilcher rosé",
+          "mustTryFr": "Backhendl, dégustation huile de pépins de courge, rosé Schilcher",
+          "mustTryEs": "Backhendl, cata de aceite de pepita de calabaza, rosado Schilcher",
+          "openingHours": "Mon–Sat 10:00–24:00; Sun 11:00–18:00",
+          "tip": "Order the pumpkin-seed oil tasting flight (5 oils) — Styria's most famous product. Save half for ice cream at dessert.",
+          "tipFr": "Commandez la dégustation d'huile de courge (5 huiles) — produit le plus emblématique de Styrie. Gardez-en pour la glace en dessert.",
+          "tipEs": "Pide la cata de aceite de pepita de calabaza (5 aceites) — el producto más emblemático de Estiria. Guarda algo para el helado de postre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Der+Steirer+Graz"
+        }
+      ],
+      "tipsEn": [
+        "Austrian Beisl and Wirtshaus culture welcomes calm leashed dogs indoors — the norm, not the exception.",
+        "Most cafés bring a water bowl on request — just ask for 'Wasser für den Hund'.",
+        "Tip is included in service in Austria but rounding up the bill (5–10%) is standard."
+      ],
+      "tipsFr": [
+        "La culture Beisl et Wirtshaus autrichienne accueille les chiens calmes en laisse à l'intérieur — la norme, pas l'exception.",
+        "La plupart des cafés apportent un bol d'eau sur demande — demandez « Wasser für den Hund ».",
+        "Le service est inclus en Autriche mais arrondir la note (5–10%) est la norme."
+      ],
+      "tipsEs": [
+        "La cultura Beisl y Wirtshaus austriaca admite perros tranquilos con correa en el interior — la norma, no la excepción.",
+        "La mayoría de los cafés traen un cuenco de agua si lo pides — di «Wasser für den Hund».",
+        "El servicio está incluido en Austria pero redondear la cuenta (5–10%) es lo habitual."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Graz restaurants?",
+          "a": "Yes, generally. Austrian Wirtshaus culture welcomes calm leashed dogs indoors — even more so than in southern Europe. Roughly 85% of Graz restaurants accept dogs both inside and on terraces."
+        },
+        {
+          "q": "Do Graz restaurants charge extra for dogs?",
+          "a": "No. There is no surcharge for bringing a dog. Water bowls are almost always offered on request, free of charge."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants de Graz ?",
+          "a": "Oui, généralement. La culture Wirtshaus autrichienne accueille les chiens calmes en laisse à l'intérieur — encore plus qu'en Europe du Sud. Environ 85% des restaurants de Graz acceptent les chiens à l'intérieur et en terrasse."
+        },
+        {
+          "q": "Les restaurants de Graz facturent-ils un supplément pour les chiens ?",
+          "a": "Non. Pas de supplément pour amener un chien. Les bols d'eau sont presque toujours offerts sur demande, gratuitement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Graz?",
+          "a": "Sí, por lo general. La cultura Wirtshaus austriaca admite perros tranquilos con correa en el interior — incluso más que en el sur de Europa. Cerca del 85% de los restaurantes de Graz admiten perros dentro y en terraza."
+        },
+        {
+          "q": "¿Cobran extra los restaurantes de Graz por llevar perro?",
+          "a": "No. No hay suplemento por llevar perro. Los cuencos de agua se ofrecen casi siempre si los pides, gratis."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks & Walks in Graz — Schlossberg, Stadtpark & Mur Riverside",
+      "titleFr": "Meilleurs parcs et promenades pour chiens à Graz — Schlossberg, Stadtpark et berges de la Mur",
+      "titleEs": "Mejores parques y paseos para perros en Graz — Schlossberg, Stadtpark y orillas del Mur",
+      "introEn": "Graz wraps its UNESCO Altstadt in green space: the Schlossberg hill rises 123 m above the centre, the Stadtpark to the east is the city's lung, and the Mur river offers a 7 km dog-friendly cycle/walking trail through town.",
+      "introFr": "Graz entoure son Altstadt UNESCO d'espaces verts : le Schlossberg s'élève à 123 m au-dessus du centre, le Stadtpark à l'est est le poumon de la ville, et la Mur offre un sentier vélo/marche dog-friendly de 7 km en pleine ville.",
+      "introEs": "Graz rodea su Altstadt UNESCO con espacios verdes: el Schlossberg se eleva 123 m sobre el centro, el Stadtpark al este es el pulmón de la ciudad y el Mur ofrece un sendero ciclista/peatonal dog-friendly de 7 km por la ciudad.",
+      "places": [
+        {
+          "name": "Schlossberg",
+          "address": "Schlossberg, 8010 Graz",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/graz-parks-schlossberg.jpg",
+          "size": "12 ha",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "The forested 123 m hill at the heart of the UNESCO old town, crowned by the iconic Uhrturm clock tower (1265). Zigzag stairs, the funicular and the cliff lift give access; 12 ha of paths and meadows on top.",
+          "descriptionFr": "La colline boisée de 123 m au cœur du centre historique UNESCO, couronnée par l'iconique Uhrturm (1265). Escaliers en zigzag, funiculaire et ascenseur dans la falaise donnent accès ; 12 ha de sentiers et prairies au sommet.",
+          "descriptionEs": "La colina boscosa de 123 m en el corazón del casco antiguo UNESCO, coronada por la icónica Uhrturm (1265). Escaleras en zigzag, funicular y ascensor en el acantilado dan acceso; 12 ha de senderos y praderas en lo alto.",
+          "amenities": [
+            "Cafés",
+            "Viewing platforms",
+            "Funicular access",
+            "Shade"
+          ],
+          "amenitiesFr": [
+            "Cafés",
+            "Belvédères",
+            "Funiculaire",
+            "Ombre"
+          ],
+          "amenitiesEs": [
+            "Cafés",
+            "Miradores",
+            "Funicular",
+            "Sombra"
+          ],
+          "tip": "Dogs ride the Schlossbergbahn funicular free of charge (1.30 EUR human ticket). Best at sunset for the panorama over the orange-tiled Altstadt rooftops.",
+          "tipFr": "Les chiens prennent le funiculaire Schlossbergbahn gratuitement (1,30 € pour l'humain). Idéal au coucher du soleil pour le panorama sur les toits orangés de l'Altstadt.",
+          "tipEs": "Los perros suben en el funicular Schlossbergbahn gratis (1,30 € el billete humano). Mejor al atardecer para el panorama sobre los tejados anaranjados de la Altstadt.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schlossberg+Graz"
+        },
+        {
+          "name": "Stadtpark Graz",
+          "address": "Stadtpark, 8010 Graz",
+          "neighborhood": "East of Altstadt",
+          "photo": "/images/city-places/graz-parks-stadtpark-graz.jpg",
+          "size": "23 ha",
+          "leashRule": "Leash required; designated off-leash zone",
+          "leashRuleFr": "Laisse obligatoire ; zone sans laisse désignée",
+          "leashRuleEs": "Correa obligatoria; zona sin correa designada",
+          "description": "Graz's main central park (23 ha), laid out in 1869 on the site of the old defensive walls. Mature trees, a pond, the Forum Stadtpark cultural centre, and a signed fenced Hundezone in the eastern corner.",
+          "descriptionFr": "Le parc central principal de Graz (23 ha), aménagé en 1869 sur les anciennes murailles. Arbres matures, étang, centre culturel Forum Stadtpark et zone canine clôturée signalée dans le coin est.",
+          "descriptionEs": "El parque central principal de Graz (23 ha), trazado en 1869 sobre las antiguas murallas. Árboles maduros, estanque, centro cultural Forum Stadtpark y zona canina vallada señalizada en el extremo este.",
+          "amenities": [
+            "Fenced Hundezone",
+            "Benches",
+            "Café",
+            "Playground"
+          ],
+          "amenitiesFr": [
+            "Hundezone clôturée",
+            "Bancs",
+            "Café",
+            "Aire de jeux"
+          ],
+          "amenitiesEs": [
+            "Hundezone vallada",
+            "Bancos",
+            "Café",
+            "Zona infantil"
+          ],
+          "tip": "The fenced Hundezone in the south-east corner is the best off-leash run in central Graz — locals meet there 17:30–20:00 daily.",
+          "tipFr": "La Hundezone clôturée du coin sud-est est la meilleure zone sans laisse du centre de Graz — les locaux s'y retrouvent 17h30–20h chaque jour.",
+          "tipEs": "La Hundezone vallada del rincón sureste es la mejor zona sin correa del centro de Graz — los locales se reúnen allí 17:30–20:00 a diario.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Graz"
+        },
+        {
+          "name": "Mur Riverside Trail",
+          "address": "Murradweg, 8010 Graz",
+          "neighborhood": "Both banks of the Mur",
+          "photo": "/images/city-places/graz-parks-mur-riverside-trail.jpg",
+          "size": "Linear, 7 km through city",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "The Mur cycle and walking trail crosses Graz from north to south on both banks, with the Murinsel (Mur Island, a steel installation by Vito Acconci, 2003) at its centre. 7 km of mostly traffic-free, flat path inside the city.",
+          "descriptionFr": "Le sentier cycle/marche de la Mur traverse Graz du nord au sud sur les deux rives, avec la Murinsel (île sur la Mur, installation de Vito Acconci, 2003) au centre. 7 km de chemin presque sans voitures, plat, à travers la ville.",
+          "descriptionEs": "El sendero ciclista y peatonal del Mur cruza Graz de norte a sur por ambas orillas, con la Murinsel (isla del Mur, instalación de Vito Acconci, 2003) en el centro. 7 km de camino casi sin tráfico, llano, a través de la ciudad.",
+          "amenities": [
+            "Flat path",
+            "Murinsel viewpoint",
+            "Benches",
+            "Cafés along route"
+          ],
+          "amenitiesFr": [
+            "Chemin plat",
+            "Murinsel",
+            "Bancs",
+            "Cafés sur le parcours"
+          ],
+          "amenitiesEs": [
+            "Camino llano",
+            "Murinsel",
+            "Bancos",
+            "Cafés en el recorrido"
+          ],
+          "tip": "Walk south from Hauptbrücke for 30 min to reach the Augarten — a riverside park with a generous off-leash dog meadow.",
+          "tipFr": "Marchez 30 min au sud depuis Hauptbrücke pour atteindre l'Augarten — parc riverain avec généreuse prairie canine sans laisse.",
+          "tipEs": "Camina 30 min al sur desde Hauptbrücke para llegar al Augarten — parque ribereño con generosa pradera canina sin correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mur+Radweg+Graz"
+        }
+      ],
+      "tipsEn": [
+        "Styrian municipal rules: dogs must be leashed in all public spaces except designated Hundezonen.",
+        "Dog waste bags are mandatory; the city provides dispensers in all parks and along the Mur.",
+        "Austrian federal law: all dogs must be microchipped, registered, and owners must hold third-party liability insurance."
+      ],
+      "tipsFr": [
+        "Règles municipales styriennes : laisse obligatoire dans tous les espaces publics sauf Hundezonen désignées.",
+        "Sacs à déjections obligatoires ; la ville fournit des distributeurs dans tous les parcs et le long de la Mur.",
+        "Loi fédérale autrichienne : tous les chiens doivent être pucés, enregistrés et le maître doit avoir une assurance responsabilité civile."
+      ],
+      "tipsEs": [
+        "Normas municipales estirias: correa obligatoria en todo espacio público salvo Hundezonen designadas.",
+        "Bolsas para residuos caninos obligatorias; la ciudad provee dispensadores en todos los parques y a lo largo del Mur.",
+        "Ley federal austriaca: todos los perros deben llevar microchip, estar registrados y el dueño debe tener seguro de responsabilidad civil."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run off-leash in Graz?",
+          "a": "Three options: the fenced Hundezone in the south-east corner of the Stadtpark, the Augarten meadow 30 min south on the Mur trail, and the various Hundezonen across town (Liebenauer Hundezone, Andritz Hundezone). Outside these, leash is mandatory."
+        },
+        {
+          "q": "Can my dog swim in the Mur in Graz?",
+          "a": "The Mur in central Graz is regulated and swimming is not encouraged; current is moderate. The Augarten lake to the south and the Schwarzlsee 8 km south of the city are the local dog swimming options."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Graz ?",
+          "a": "Trois options : la Hundezone clôturée du sud-est du Stadtpark, la prairie de l'Augarten à 30 min au sud sur le sentier de la Mur, et les diverses Hundezonen en ville (Liebenauer, Andritz). Hors de ces zones, la laisse est obligatoire."
+        },
+        {
+          "q": "Mon chien peut-il nager dans la Mur à Graz ?",
+          "a": "La Mur au centre est régulée et la baignade n'est pas encouragée ; le courant est modéré. Le lac de l'Augarten au sud et le Schwarzlsee à 8 km au sud de la ville sont les options de baignade canine locales."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Graz?",
+          "a": "Tres opciones: la Hundezone vallada del sureste del Stadtpark, la pradera del Augarten a 30 min al sur por el sendero del Mur, y las varias Hundezonen por la ciudad (Liebenauer, Andritz). Fuera de estas zonas, correa obligatoria."
+        },
+        {
+          "q": "¿Puede mi perro nadar en el Mur en Graz?",
+          "a": "El Mur en el centro está regulado y no se fomenta el baño; corriente moderada. El lago del Augarten al sur y el Schwarzlsee a 8 km al sur son las opciones locales de baño canino."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Graz — Tram, Bus & Railjet",
+      "titleFr": "Transport pet-friendly à Graz — Tram, bus et Railjet",
+      "titleEs": "Transporte pet-friendly en Graz — Tranvía, autobús y Railjet",
+      "introEn": "Graz's compact Altstadt walks in 20 minutes end to end. Trams and buses cover the wider city; ÖBB Railjet trains connect Vienna (2h30) and Salzburg (4h). Austrian rail rules are dog-friendly and clear.",
+      "introFr": "L'Altstadt compacte de Graz se traverse en 20 minutes. Trams et bus couvrent la ville élargie ; les Railjet de l'ÖBB relient Vienne (2h30) et Salzbourg (4h). Les règles ferroviaires autrichiennes sont dog-friendly et claires.",
+      "introEs": "El compacto Altstadt de Graz se cruza en 20 minutos. Tranvías y autobuses cubren la ciudad ampliada; los Railjet de ÖBB conectan con Viena (2h30) y Salzburgo (4h). Las normas ferroviarias austriacas son dog-friendly y claras.",
+      "places": [
+        {
+          "name": "ÖBB Railjet",
+          "type": "High-speed train",
+          "photo": "/images/city-places/graz-transport-obb-railjet.jpg",
+          "website": "https://www.oebb.at/",
+          "description": "Direct Railjet from Vienna (2h30, hourly), Salzburg (4h via Vienna), Klagenfurt (3h), Munich (5h). Graz Hauptbahnhof is 10 min walk from the Altstadt.",
+          "descriptionFr": "Railjet directs depuis Vienne (2h30, horaire), Salzbourg (4h via Vienne), Klagenfurt (3h), Munich (5h). Graz Hauptbahnhof à 10 min à pied de l'Altstadt.",
+          "descriptionEs": "Railjet directos desde Viena (2h30, horarios), Salzburgo (4h vía Viena), Klagenfurt (3h), Múnich (5h). Graz Hauptbahnhof a 10 min a pie de la Altstadt.",
+          "petPolicy": "Small dogs (up to ~30 cm shoulder) in a carrier travel free. Larger dogs require a half-fare ticket (~50%) and must be leashed and muzzled.",
+          "petPolicyFr": "Petits chiens (jusqu'à ~30 cm au garrot) en sac voyagent gratis. Chiens plus grands : billet demi-tarif (~50%), laisse et muselière obligatoires.",
+          "petPolicyEs": "Perros pequeños (hasta ~30 cm hasta la cruz) en transportín gratis. Perros más grandes: billete medio precio (~50%), correa y bozal obligatorios.",
+          "tip": "Book through the ÖBB Scotty app — pet tickets are added as 'Hund' option at checkout.",
+          "tipFr": "Réservez via l'app ÖBB Scotty — les billets animaux sont ajoutés comme option « Hund » au paiement.",
+          "tipEs": "Reserva con la app ÖBB Scotty — los billetes mascota se añaden como opción «Hund» al pagar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Graz+Hauptbahnhof"
+        },
+        {
+          "name": "Graz Linien Tram & Bus",
+          "type": "City transit",
+          "photo": "/images/city-places/graz-transport-graz-linien-tram-bus.jpg",
+          "website": "https://www.holding-graz.at/linien.html",
+          "description": "6 tram lines and 40+ bus lines covering the metro area. Tram 1, 3, 6, 7 all converge on Jakominiplatz, the city's central transit hub.",
+          "descriptionFr": "6 lignes de tram et 40+ lignes de bus couvrent l'aire métropolitaine. Les trams 1, 3, 6, 7 convergent tous sur Jakominiplatz, le hub central de la ville.",
+          "descriptionEs": "6 líneas de tranvía y más de 40 de autobús cubren el área metropolitana. Los tranvías 1, 3, 6, 7 convergen en Jakominiplatz, el hub central de la ciudad.",
+          "petPolicy": "Small dogs in carriers and assistance dogs travel free. Larger dogs require a half-fare ticket and must be leashed and muzzled.",
+          "petPolicyFr": "Petits chiens en sac et chiens d'assistance gratuits. Chiens plus grands : billet demi-tarif, laisse et muselière obligatoires.",
+          "petPolicyEs": "Perros pequeños en transportín y de asistencia gratis. Perros más grandes: billete medio precio, correa y bozal obligatorios.",
+          "tip": "24h ticket covering 1 adult + 1 dog costs ~6 EUR and is the easiest option for sightseeing.",
+          "tipFr": "Le billet 24h couvrant 1 adulte + 1 chien coûte ~6 € et c'est l'option la plus simple pour visiter.",
+          "tipEs": "El billete de 24h cubriendo 1 adulto + 1 perro cuesta ~6 € y es la opción más fácil para visitar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Graz+Linien+Jakominiplatz"
+        },
+        {
+          "name": "Taxi Graz",
+          "type": "Taxi",
+          "photo": "/images/city-places/graz-transport-taxi-graz.jpg",
+          "website": "",
+          "description": "Local taxi cooperatives serving the city and Graz airport (GRZ, 9 km south). Pet-friendly drivers identifiable on request when booking by phone or app.",
+          "descriptionFr": "Coopératives locales desservant la ville et l'aéroport de Graz (GRZ, 9 km au sud). Chauffeurs pet-friendly identifiables sur demande téléphonique ou app.",
+          "descriptionEs": "Cooperativas locales que cubren la ciudad y el aeropuerto de Graz (GRZ, 9 km al sur). Conductores pet-friendly identificables al pedirlo por teléfono o app.",
+          "petPolicy": "Small dogs in carriers almost always accepted; larger dogs require advance request.",
+          "petPolicyFr": "Petits chiens en sac presque toujours acceptés ; grands chiens à demander à l'avance.",
+          "petPolicyEs": "Perros pequeños en transportín casi siempre admitidos; perros grandes pedirlos con antelación.",
+          "tip": "Call +43 316 878 to book. Bolt and FreeNow operate in Graz — small dogs in carriers generally OK.",
+          "tipFr": "Appelez +43 316 878. Bolt et FreeNow opèrent à Graz — petits chiens en sac généralement OK.",
+          "tipEs": "Llama al +43 316 878. Bolt y FreeNow operan en Graz — perros pequeños en transportín generalmente OK.",
+          "googleMapsUrl": "https://maps.google.com/?q=Taxi+Graz"
+        }
+      ],
+      "tipsEn": [
+        "Graz has no metro — trams and buses cover urban transit, but the centre is so compact most visitors walk.",
+        "Railjet trains are the easiest way to reach Vienna and Salzburg — far better than driving with a dog.",
+        "Graz GRZ airport is small but well-connected (Lufthansa, KLM, Eurowings); only 25 min by S-Bahn S5 from the Hauptbahnhof."
+      ],
+      "tipsFr": [
+        "Graz n'a pas de métro — trams et bus couvrent les déplacements urbains, mais le centre est si compact que la plupart des visiteurs marchent.",
+        "Les Railjet sont le moyen le plus simple de rejoindre Vienne et Salzbourg — bien mieux que la voiture avec un chien.",
+        "L'aéroport GRZ est petit mais bien connecté (Lufthansa, KLM, Eurowings) ; seulement 25 min en S-Bahn S5 depuis la Hauptbahnhof."
+      ],
+      "tipsEs": [
+        "Graz no tiene metro — tranvías y autobuses cubren el transporte urbano, pero el centro es tan compacto que la mayoría camina.",
+        "Los Railjet son la forma más fácil de llegar a Viena y Salzburgo — mucho mejor que el coche con perro.",
+        "El aeropuerto GRZ es pequeño pero bien conectado (Lufthansa, KLM, Eurowings); solo 25 min en S-Bahn S5 desde la Hauptbahnhof."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog on the tram in Graz?",
+          "a": "Yes. Small dogs in a carrier travel free; larger dogs need a half-fare ticket (~1.40 EUR) and must be leashed and muzzled. Trams are clean, modern, and pet-friendly."
+        },
+        {
+          "q": "How do I get from Vienna to Graz with a dog?",
+          "a": "Direct Railjet in 2h30 from Vienna Hauptbahnhof to Graz Hauptbahnhof, hourly. Small dogs in a carrier are free; larger dogs need a half-fare pet ticket and a muzzle. Book in ÖBB Scotty."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le tram de Graz ?",
+          "a": "Oui. Petits chiens en sac : gratuits ; chiens plus grands : billet demi-tarif (~1,40 €), laisse et muselière obligatoires. Trams propres, modernes et pet-friendly."
+        },
+        {
+          "q": "Comment aller de Vienne à Graz avec un chien ?",
+          "a": "Railjet direct en 2h30 de Vienne Hauptbahnhof à Graz Hauptbahnhof, horaire. Petits chiens en sac : gratuits ; chiens plus grands : billet animal demi-tarif + muselière. Réservation ÖBB Scotty."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el tranvía de Graz?",
+          "a": "Sí. Perros pequeños en transportín viajan gratis; perros más grandes necesitan billete medio precio (~1,40 €), correa y bozal obligatorios. Tranvías limpios, modernos y pet-friendly."
+        },
+        {
+          "q": "¿Cómo voy de Viena a Graz con perro?",
+          "a": "Railjet directo en 2h30 desde Viena Hauptbahnhof a Graz Hauptbahnhof, cada hora. Perros pequeños en transportín gratis; perros más grandes necesitan billete mascota medio precio y bozal. Reserva en ÖBB Scotty."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Water Spots near Graz — Lakes & Rivers",
+      "titleFr": "Spots aquatiques dog-friendly près de Graz — Lacs et rivières",
+      "titleEs": "Zonas de baño pet-friendly cerca de Graz — Lagos y ríos",
+      "introEn": "Graz is inland (about 350 km from the Adriatic), but the Styrian lakes south and east of the city, plus the Mur, offer summer swimming for dogs. The Schwarzlsee 8 km south has a designated dog beach.",
+      "introFr": "Graz est continentale (environ 350 km de l'Adriatique), mais les lacs styriens au sud et à l'est, plus la Mur, offrent des baignades estivales pour chiens. Le Schwarzlsee à 8 km au sud a une plage canine désignée.",
+      "introEs": "Graz es interior (a unos 350 km del Adriático), pero los lagos estirios al sur y al este, más el Mur, ofrecen baños estivales para perros. El Schwarzlsee a 8 km al sur tiene una playa canina designada.",
+      "places": [
+        {
+          "name": "Schwarzlsee — Hundebadestelle",
+          "address": "Schwarzlsee, 8141 Premstätten",
+          "photo": "/images/city-places/graz-beaches-schwarzlsee-hundebadestelle.jpg",
+          "leashRule": "Off-leash inside the designated dog beach zone",
+          "leashRuleFr": "Sans laisse dans la zone plage canine désignée",
+          "leashRuleEs": "Sin correa dentro de la zona de playa canina designada",
+          "description": "The largest swimming lake south of Graz (8 km), with a designated Hundestrand on the western shore. Grass entry, shallow water, signed perimeter. Free entry to the dog zone.",
+          "descriptionFr": "Le plus grand lac de baignade au sud de Graz (8 km), avec une Hundestrand désignée sur la rive ouest. Accès herbe, eau peu profonde, périmètre signalé. Entrée libre dans la zone canine.",
+          "descriptionEs": "El mayor lago de baño al sur de Graz (8 km), con una Hundestrand designada en la orilla oeste. Acceso de hierba, agua poco profunda, perímetro señalizado. Entrada libre a la zona canina.",
+          "amenities": [
+            "Designated dog zone",
+            "Grass entry",
+            "Shallow water",
+            "Parking"
+          ],
+          "amenitiesFr": [
+            "Zone canine désignée",
+            "Accès herbe",
+            "Eau peu profonde",
+            "Parking"
+          ],
+          "amenitiesEs": [
+            "Zona canina designada",
+            "Entrada con hierba",
+            "Agua poco profunda",
+            "Aparcamiento"
+          ],
+          "tip": "Reachable by bike on the Mur trail (40 min) or bus 631 from Jakominiplatz. Busy on summer weekends — go weekday mornings.",
+          "tipFr": "Accessible à vélo par le sentier de la Mur (40 min) ou en bus 631 depuis Jakominiplatz. Bondé l'été le week-end — préférez les matins en semaine.",
+          "tipEs": "Accesible en bici por el sendero del Mur (40 min) o en autobús 631 desde Jakominiplatz. Lleno los fines de semana de verano — ve entre semana por la mañana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadestelle+Schwarzlsee"
+        },
+        {
+          "name": "Augarten Lake",
+          "address": "Augarten, 8020 Graz",
+          "photo": "/images/city-places/graz-beaches-augarten-lake.jpg",
+          "leashRule": "Off-leash in designated meadow; no swimming for dogs in lake",
+          "leashRuleFr": "Sans laisse dans la prairie désignée ; pas de baignade canine dans le lac",
+          "leashRuleEs": "Sin correa en la pradera designada; sin baño canino en el lago",
+          "description": "Riverside park 30 min south of the Altstadt along the Mur trail, with a generous off-leash dog meadow and shaded picnic spots. The lake itself is for ducks, but the meadow is the local dog social hub.",
+          "descriptionFr": "Parc riverain à 30 min au sud de l'Altstadt par le sentier de la Mur, avec une généreuse prairie canine sans laisse et coins ombragés. Le lac est pour les canards, mais la prairie est le hub social canin local.",
+          "descriptionEs": "Parque ribereño a 30 min al sur de la Altstadt por el sendero del Mur, con una amplia pradera canina sin correa y rincones a la sombra. El lago es para los patos, pero la pradera es el hub social canino local.",
+          "amenities": [
+            "Off-leash meadow",
+            "Shade",
+            "Picnic",
+            "Café"
+          ],
+          "amenitiesFr": [
+            "Prairie sans laisse",
+            "Ombre",
+            "Pique-nique",
+            "Café"
+          ],
+          "amenitiesEs": [
+            "Pradera sin correa",
+            "Sombra",
+            "Picnic",
+            "Café"
+          ],
+          "tip": "Cycle hire on the Mur trail near the centre — €5/half-day — makes this an easy outing without a car.",
+          "tipFr": "Location de vélos sur le sentier de la Mur près du centre — 5 €/demi-journée — rend la sortie facile sans voiture.",
+          "tipEs": "Alquiler de bicis en el sendero del Mur cerca del centro — 5 €/medio día — hace fácil la salida sin coche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Augarten+Graz"
+        },
+        {
+          "name": "Stubenbergsee",
+          "address": "Stubenbergsee, 8223 Stubenberg",
+          "photo": "/images/city-places/graz-beaches-stubenbergsee.jpg",
+          "leashRule": "Dedicated Hundestrand zones",
+          "leashRuleFr": "Zones Hundestrand dédiées",
+          "leashRuleEs": "Zonas Hundestrand dedicadas",
+          "description": "Beautiful east-Styrian lake 50 km north-east of Graz, with two designated dog beaches and crystal-clear water. The most scenic dog swimming option in the region.",
+          "descriptionFr": "Beau lac de Styrie orientale à 50 km au nord-est de Graz, avec deux plages canines désignées et eau cristalline. L'option de baignade canine la plus pittoresque de la région.",
+          "descriptionEs": "Bonito lago de la Estiria oriental a 50 km al noreste de Graz, con dos playas caninas designadas y aguas cristalinas. La opción de baño canino más pintoresca de la región.",
+          "amenities": [
+            "Two Hundestrand zones",
+            "Clear water",
+            "Café",
+            "Pedalos"
+          ],
+          "amenitiesFr": [
+            "Deux zones Hundestrand",
+            "Eau claire",
+            "Café",
+            "Pédalos"
+          ],
+          "amenitiesEs": [
+            "Dos zonas Hundestrand",
+            "Aguas claras",
+            "Café",
+            "Hidropedales"
+          ],
+          "tip": "1h drive from Graz — best as a full-day excursion, combining with a visit to Schloss Herberstein nearby.",
+          "tipFr": "1h de route depuis Graz — idéal pour une journée complète, à combiner avec une visite du Schloss Herberstein voisin.",
+          "tipEs": "1h en coche desde Graz — ideal para un día completo, combinando con una visita al cercano Schloss Herberstein.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stubenbergsee"
+        }
+      ],
+      "tipsEn": [
+        "Austrian lake rules: dogs allowed only in marked Hundestrand zones in summer to protect bathers and wildlife.",
+        "Water temperatures in Styrian lakes reach 22–25°C in July–August — warm and safe for dogs.",
+        "Always carry fresh drinking water; carry a towel — Styrian summer storms can break out fast."
+      ],
+      "tipsFr": [
+        "Règles autrichiennes : chiens admis uniquement dans les zones Hundestrand marquées en été pour protéger baigneurs et faune.",
+        "Les températures des lacs styriens atteignent 22–25°C en juillet–août — tièdes et sûres pour les chiens.",
+        "Apportez toujours de l'eau potable ; emportez une serviette — les orages d'été styriens peuvent éclater vite."
+      ],
+      "tipsEs": [
+        "Normas austriacas: perros admitidos solo en zonas Hundestrand señalizadas en verano para proteger bañistas y fauna.",
+        "Las temperaturas de los lagos estirios alcanzan 22–25°C en julio–agosto — templadas y seguras para perros.",
+        "Lleva siempre agua potable; lleva toalla — las tormentas estivales estirias pueden estallar rápido."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs swim in or near Graz?",
+          "a": "The Schwarzlsee Hundebadestelle 8 km south is the easiest option (reachable by bike or bus). For a full day, the Stubenbergsee (50 km north-east) offers two Hundestrand zones with cleaner water and scenic mountain views."
+        },
+        {
+          "q": "Is the Mur clean enough for dogs to swim?",
+          "a": "In the central Graz section, swimming isn't encouraged (regulated water levels, occasional turbulence). Use the designated lake beaches instead for safety and water quality."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils nager à Graz ou aux alentours ?",
+          "a": "La Hundebadestelle du Schwarzlsee à 8 km au sud est l'option la plus simple (vélo ou bus). Pour une journée, le Stubenbergsee (50 km au nord-est) offre deux zones Hundestrand avec eau plus propre et vues montagne."
+        },
+        {
+          "q": "La Mur est-elle assez propre pour les chiens ?",
+          "a": "Dans la section centrale de Graz, la baignade n'est pas encouragée (niveaux d'eau régulés, turbulences occasionnelles). Utilisez plutôt les plages de lac désignées pour sécurité et qualité de l'eau."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden bañarse los perros en Graz o cerca?",
+          "a": "La Hundebadestelle del Schwarzlsee a 8 km al sur es la opción más fácil (bici o autobús). Para un día completo, el Stubenbergsee (50 km al noreste) ofrece dos zonas Hundestrand con aguas más limpias y vistas de montaña."
+        },
+        {
+          "q": "¿Es el Mur lo bastante limpio para los perros?",
+          "a": "En el tramo central de Graz no se fomenta el baño (niveles de agua regulados, turbulencias ocasionales). Mejor las playas de lago designadas para seguridad y calidad de agua."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets [24h] in Graz — Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence [24h/24] à Graz — Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias [24h] en Graz — Hospitales y clínicas veterinarias",
+      "introEn": "Graz has solid veterinary coverage including the Vetmeduni Vienna outreach hospital plus several daytime clinics. Austrian veterinary standards are among Europe's highest.",
+      "introFr": "Graz dispose d'une bonne couverture vétérinaire incluant l'hôpital relais de la Vetmeduni Vienne et plusieurs cliniques de jour. Les standards vétérinaires autrichiens sont parmi les plus élevés d'Europe.",
+      "introEs": "Graz cuenta con buena cobertura veterinaria que incluye el hospital satélite de la Vetmeduni Viena y varias clínicas diurnas. Los estándares veterinarios austriacos están entre los más altos de Europa.",
+      "places": [
+        {
+          "name": "Tierklinik Graz Lend (24h)",
+          "address": "Schmiedgasse 23, 8020 Graz",
+          "photo": "/images/city-places/graz-vets-tierklinik-graz-lend-24h.jpg",
+          "phone": "+43 316 71 02 80",
+          "emergency24h": true,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "",
+          "description": "Full-service emergency hospital with 24/7 coverage in the Lend district, 10 min walk from the Altstadt. Surgery, ICU, imaging (X-ray, ultrasound, CT), inpatient wards.",
+          "descriptionFr": "Hôpital d'urgences complet avec couverture 24h/24 dans le quartier Lend, à 10 min à pied de l'Altstadt. Chirurgie, USI, imagerie (radio, écho, scanner), hospitalisation.",
+          "descriptionEs": "Hospital de urgencias completo con cobertura 24h en el barrio Lend, a 10 min a pie de la Altstadt. Cirugía, UCI, imagen (rayos X, ecografía, TAC), hospitalización.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call ahead — the team prepares for triage. English-speaking staff on the night shift.",
+          "tipFr": "Appelez avant — l'équipe prépare le triage. Personnel anglophone de garde la nuit.",
+          "tipEs": "Llama antes — el equipo prepara el triaje. Personal anglohablante en la guardia nocturna.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Graz+Lend"
+        },
+        {
+          "name": "Tierarztpraxis Geidorf",
+          "address": "Heinrichstraße 119, 8010 Graz",
+          "photo": "/images/city-places/graz-vets-tierarztpraxis-geidorf.jpg",
+          "phone": "+43 316 32 23 80",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "",
+          "description": "Centrally located daytime clinic in the Geidorf student district, 10 min walk north of the Altstadt. Vaccinations, microchipping, internal medicine, pre-travel checks.",
+          "descriptionFr": "Cabinet de jour central dans le quartier étudiant de Geidorf, à 10 min à pied au nord de l'Altstadt. Vaccins, puçage, médecine interne, contrôles avant voyage.",
+          "descriptionEs": "Clínica diurna céntrica en el barrio estudiantil de Geidorf, a 10 min a pie al norte de la Altstadt. Vacunas, microchip, medicina interna, revisiones previas al viaje.",
+          "openingHours": "Mon–Fri 09:00–13:00, 16:00–19:30; Sat 09:00–12:00",
+          "tip": "Walk-ins for vaccinations and routine matters; book ahead for full check-ups.",
+          "tipFr": "Sans rdv pour vaccinations et soins courants ; rdv pour bilan complet.",
+          "tipEs": "Sin cita para vacunaciones y atención rutinaria; con cita para revisión completa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Geidorf+Graz"
+        },
+        {
+          "name": "Kleintierpraxis Murpark",
+          "address": "Ostbahnstraße 6, 8041 Graz",
+          "photo": "/images/city-places/graz-vets-kleintierpraxis-murpark.jpg",
+          "phone": "+43 316 47 30 30",
+          "emergency24h": false,
+          "languages": [
+            "German",
+            "English"
+          ],
+          "website": "",
+          "description": "Modern small-animal practice in the eastern Murpark district. Extended hours (08:00–20:00) with emergency capacity until late evening. Surgery, dental, dermatology.",
+          "descriptionFr": "Cabinet pour petits animaux moderne dans le quartier Murpark à l'est. Horaires étendus (8h–20h) avec capacité d'urgence en soirée. Chirurgie, dentaire, dermatologie.",
+          "descriptionEs": "Consulta moderna de pequeños animales en el barrio Murpark al este. Horario ampliado (08:00–20:00) con capacidad de urgencia hasta la noche. Cirugía, dental, dermatología.",
+          "openingHours": "Mon–Fri 08:00–20:00; Sat 09:00–13:00",
+          "tip": "Useful evening alternative when the daytime clinics are closed but you don't yet need the 24h hospital.",
+          "tipFr": "Alternative utile en soirée quand les cabinets de jour ferment mais que vous n'avez pas encore besoin de l'hôpital 24h.",
+          "tipEs": "Alternativa útil al anochecer cuando las clínicas diurnas cierran pero aún no necesitas el hospital 24h.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Murpark+Graz"
+        }
+      ],
+      "tipsEn": [
+        "Austria requires an EU pet passport (or AHC) plus microchip and rabies vaccination ≥21 days old for cross-border travel.",
+        "Tick prevention is essential April–October — TBE (tick-borne encephalitis) is present in Styria.",
+        "Austrian vets generally speak excellent English in cities; medical records can usually be issued in English on request."
+      ],
+      "tipsFr": [
+        "L'Autriche exige un passeport européen (ou AHC) + puce + vaccin rage ≥21 jours pour les voyages transfrontaliers.",
+        "Prévention anti-tiques essentielle d'avril à octobre — la TBE (méningo-encéphalite) est présente en Styrie.",
+        "Les vétérinaires autrichiens parlent généralement très bien anglais en ville ; les dossiers médicaux peuvent souvent être émis en anglais sur demande."
+      ],
+      "tipsEs": [
+        "Austria exige pasaporte europeo (o AHC) + microchip + vacuna rabia ≥21 días para viajes transfronterizos.",
+        "La prevención frente a garrapatas es esencial de abril a octubre — la TBE (encefalitis transmitida) está presente en Estiria.",
+        "Los veterinarios austriacos suelen hablar muy bien inglés en ciudad; los historiales médicos pueden emitirse en inglés si se pide."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Graz?",
+          "a": "Yes — Tierklinik Graz Lend on Schmiedgasse offers 24/7 emergency capability with surgery, ICU and imaging. Call ahead for triage. English-speaking staff on the night shift."
+        },
+        {
+          "q": "How much does a vet visit cost in Graz?",
+          "a": "Austrian Tierarzt fees follow GOT-style guidelines: routine consultation 35–60 EUR, emergency visit 90–160 EUR plus diagnostics. Major surgeries 700–2500 EUR. EU pet insurance often reimburses."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Graz ?",
+          "a": "Oui — Tierklinik Graz Lend, Schmiedgasse, offre une capacité d'urgence 24h/24 avec chirurgie, USI et imagerie. Appelez avant pour le triage. Personnel anglophone de garde la nuit."
+        },
+        {
+          "q": "Combien coûte une visite vétérinaire à Graz ?",
+          "a": "Les tarifs autrichiens suivent un barème type GOT : consultation classique 35–60 €, urgence 90–160 € + diagnostic. Chirurgies majeures 700–2500 €. Les assurances animales européennes remboursent souvent."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Graz?",
+          "a": "Sí — Tierklinik Graz Lend, en Schmiedgasse, ofrece capacidad de urgencia 24h con cirugía, UCI e imagen. Llama antes para triaje. Personal anglohablante en la guardia nocturna."
+        },
+        {
+          "q": "¿Cuánto cuesta una visita veterinaria en Graz?",
+          "a": "Las tarifas austriacas siguen directrices tipo GOT: consulta rutinaria 35–60 €, urgencia 90–160 € + diagnóstico. Cirugías mayores 700–2500 €. Los seguros de mascotas de la UE suelen reembolsar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travel Tips for Graz with Your Dog",
+      "titleFr": "Conseils de voyage à Graz avec votre chien",
+      "titleEs": "Consejos de viaje a Graz con tu perro",
+      "introEn": "Graz is one of Austria's most dog-friendly cities: small UNESCO Altstadt, strong Wirtshaus culture welcoming dogs indoors, generous off-leash zones, and one 24/7 emergency vet. The student population (~50,000 of 290,000) keeps the city young, relaxed and pet-positive.",
+      "introFr": "Graz est l'une des villes les plus dog-friendly d'Autriche : petite Altstadt UNESCO, forte culture Wirtshaus accueillant les chiens à l'intérieur, généreuses zones sans laisse et un vétérinaire d'urgence 24h/24. La population étudiante (~50 000 sur 290 000) maintient la ville jeune, détendue et pet-positive.",
+      "introEs": "Graz es una de las ciudades más pet-friendly de Austria: pequeña Altstadt UNESCO, fuerte cultura Wirtshaus que admite perros dentro, generosas zonas sin correa y un veterinario de urgencias 24h. La población estudiantil (~50.000 de 290.000) mantiene la ciudad joven, relajada y pet-positive.",
+      "places": [
+        {
+          "name": "Best season",
+          "photo": "/images/city-places/graz-tips-best-season.jpg",
+          "description": "May–June and September–early October are ideal: 16–22°C, dry, terraces in full swing. Late November to mid-December for the Christmas markets (Christkindlmarkt am Hauptplatz). Avoid January–February (cold, often snow).",
+          "descriptionFr": "Mai–juin et septembre–début octobre sont idéaux : 16–22°C, sec, terrasses à plein régime. Fin novembre à mi-décembre pour les marchés de Noël (Christkindlmarkt am Hauptplatz). Évitez janvier–février (froid, souvent neige).",
+          "descriptionEs": "Mayo–junio y septiembre–principios de octubre son ideales: 16–22°C, seco, terrazas a tope. Finales de noviembre a mediados de diciembre por los mercados navideños (Christkindlmarkt am Hauptplatz). Evita enero–febrero (frío, a menudo nieve)."
+        },
+        {
+          "name": "Schlossberg climb",
+          "photo": "/images/city-places/graz-tips-schlossberg-climb.jpg",
+          "description": "The Schlossberg rises 123 m from the centre. The zigzag stairway is steep but shaded; the Schlossbergbahn funicular (dogs ride free) is the easy alternative. Reaching the top in summer afternoon heat with a heavy-coated dog is rough — go early or late.",
+          "descriptionFr": "Le Schlossberg s'élève à 123 m depuis le centre. L'escalier en zigzag est raide mais ombragé ; le funiculaire Schlossbergbahn (chiens gratuits) est l'alternative facile. Atteindre le sommet l'après-midi d'été avec un chien à poil long est éprouvant — montez tôt ou tard.",
+          "descriptionEs": "El Schlossberg se eleva 123 m desde el centro. La escalera en zigzag es empinada pero sombreada; el funicular Schlossbergbahn (perros gratis) es la alternativa fácil. Llegar a la cima en la tarde estival con un perro de pelo largo es duro — sube temprano o tarde."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/graz-tips-currency-cost.jpg",
+          "description": "Austria uses the euro. Graz is cheaper than Vienna or Salzburg: meal 15–28 EUR, Schnitzel platter 12–18 EUR, mid-range pet-friendly hotel 100–170 EUR/night, taxi Hbf to Hauptplatz 8–12 EUR.",
+          "descriptionFr": "L'Autriche utilise l'euro. Graz est moins chère que Vienne ou Salzbourg : repas 15–28 €, plateau Schnitzel 12–18 €, hôtel pet-friendly milieu de gamme 100–170 €/nuit, taxi Hbf–Hauptplatz 8–12 €.",
+          "descriptionEs": "Austria usa el euro. Graz es más barata que Viena o Salzburgo: comida 15–28 €, plato de Schnitzel 12–18 €, hotel pet-friendly de gama media 100–170 €/noche, taxi Hbf–Hauptplatz 8–12 €."
+        }
+      ],
+      "tipsEn": [
+        "The Hauptplatz is the navigational centre — most pet-friendly hotels are within 10 min walk.",
+        "Austrian shops open Mon–Sat only; Sundays everything except cafés and restaurants is closed.",
+        "Graz claims the title 'Genusshauptstadt' (capital of pleasure) for its food scene — pumpkin-seed oil, Schilcher wine, Käferbohnen (scarlet runner beans) are the regional specialities."
+      ],
+      "tipsFr": [
+        "Le Hauptplatz est le repère central — la plupart des hôtels pet-friendly sont à moins de 10 min à pied.",
+        "Les commerces autrichiens ouvrent du lundi au samedi seulement ; le dimanche, tout est fermé sauf cafés et restaurants.",
+        "Graz revendique le titre de « Genusshauptstadt » (capitale du plaisir) pour sa gastronomie — huile de pépins de courge, vin Schilcher, Käferbohnen sont les spécialités régionales."
+      ],
+      "tipsEs": [
+        "El Hauptplatz es la referencia central — la mayoría de hoteles pet-friendly están a menos de 10 min a pie.",
+        "Las tiendas austriacas abren solo de lunes a sábado; los domingos todo cerrado salvo cafés y restaurantes.",
+        "Graz reivindica el título de «Genusshauptstadt» (capital del placer) por su gastronomía — aceite de pepita de calabaza, vino Schilcher, Käferbohnen son las especialidades regionales."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Graz dog-friendly overall?",
+          "a": "Yes, very. Austrian Wirtshaus culture welcomes dogs indoors, trams and buses are pet-friendly, one 24/7 emergency vet is available, and the Stadtpark Hundezone plus Schlossberg paths give plenty of central walking space. UNESCO old town easily explored in a single day with a dog."
+        },
+        {
+          "q": "Can I take the funicular up the Schlossberg with my dog?",
+          "a": "Yes, dogs ride the Schlossbergbahn funicular free of charge. The cliff lift (Schlossberglift) also accepts dogs. Both are wheelchair-accessible — useful with older or short-legged dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Graz est-elle dog-friendly globalement ?",
+          "a": "Oui, très. La culture Wirtshaus autrichienne accueille les chiens à l'intérieur, trams et bus sont pet-friendly, un vétérinaire d'urgences 24h/24 est disponible, et la Hundezone du Stadtpark plus les sentiers du Schlossberg offrent de l'espace central. L'Altstadt UNESCO se parcourt en une journée avec un chien."
+        },
+        {
+          "q": "Puis-je prendre le funiculaire du Schlossberg avec mon chien ?",
+          "a": "Oui, les chiens prennent le Schlossbergbahn gratuitement. L'ascenseur dans la falaise (Schlossberglift) accepte aussi les chiens. Les deux sont accessibles en fauteuil roulant — pratique avec un chien âgé ou aux pattes courtes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Graz pet-friendly en general?",
+          "a": "Sí, mucho. La cultura Wirtshaus austriaca admite perros dentro, tranvías y autobuses son pet-friendly, hay un veterinario de urgencias 24h disponible, y la Hundezone del Stadtpark más los senderos del Schlossberg ofrecen espacio céntrico. La Altstadt UNESCO se recorre en un día con perro."
+        },
+        {
+          "q": "¿Puedo subir al Schlossberg en funicular con mi perro?",
+          "a": "Sí, los perros suben en el Schlossbergbahn gratis. El ascensor en el acantilado (Schlossberglift) también admite perros. Ambos accesibles en silla de ruedas — práctico con perros mayores o de patas cortas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Pet-Friendly Attractions in Graz — Schlossberg, Murinsel & UNESCO Altstadt",
+      "titleFr": "Meilleures attractions pet-friendly à Graz — Schlossberg, Murinsel et Altstadt UNESCO",
+      "titleEs": "Mejores atracciones pet-friendly en Graz — Schlossberg, Murinsel y Altstadt UNESCO",
+      "introEn": "Graz's UNESCO Altstadt is best experienced as an outdoor architectural walk — perfect with a leashed dog. Most major outdoor sights are dog-accessible; only museum interiors and the cathedral nave prohibit dogs.",
+      "introFr": "L'Altstadt UNESCO de Graz se découvre en promenade architecturale extérieure — parfait avec un chien en laisse. La plupart des sites extérieurs sont accessibles aux chiens ; seuls les intérieurs des musées et la nef de la cathédrale interdisent les animaux.",
+      "introEs": "La Altstadt UNESCO de Graz se disfruta como paseo arquitectónico al aire libre — perfecto con perro con correa. La mayoría de los monumentos exteriores son accesibles a perros; solo los interiores de museos y la nave de la catedral prohíben mascotas.",
+      "places": [
+        {
+          "name": "Schlossberg & Uhrturm",
+          "address": "Schlossberg, 8010 Graz",
+          "photo": "/images/city-places/graz-attractions-schlossberg-uhrturm.jpg",
+          "petFriendly": true,
+          "description": "The Schlossberg (123 m) is the symbol of Graz, crowned by the iconic Uhrturm clock tower (1265, surviving from the Napoleon-destroyed fortress). The wooded slopes and viewing terraces are entirely open to leashed dogs.",
+          "descriptionFr": "Le Schlossberg (123 m) est le symbole de Graz, couronné par l'iconique tour d'horloge Uhrturm (1265, vestige de la forteresse détruite par Napoléon). Les pentes boisées et belvédères sont entièrement ouverts aux chiens en laisse.",
+          "descriptionEs": "El Schlossberg (123 m) es el símbolo de Graz, coronado por la icónica torre del reloj Uhrturm (1265, vestigio de la fortaleza destruida por Napoleón). Las laderas boscosas y miradores son totalmente accesibles a perros con correa.",
+          "petPolicy": "Outdoor paths and terraces fully open to leashed dogs; funicular accepts dogs free",
+          "petPolicyFr": "Sentiers et terrasses extérieurs entièrement ouverts aux chiens en laisse ; funiculaire accepte les chiens gratis",
+          "petPolicyEs": "Senderos y terrazas exteriores totalmente accesibles a perros con correa; funicular admite perros gratis",
+          "openingHours": "Open 24/7; funicular 09:00–24:00",
+          "tip": "Walk up via the zigzag stairs in the cool morning, take the funicular down. The clock-tower viewpoint at sunset is unbeatable.",
+          "tipFr": "Montez par l'escalier en zigzag au frais le matin, redescendez en funiculaire. Le belvédère de l'Uhrturm au coucher du soleil est imbattable.",
+          "tipEs": "Sube por la escalera en zigzag al fresco de la mañana, baja en funicular. El mirador de la torre del reloj al atardecer es inmejorable.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schlossberg+Uhrturm+Graz"
+        },
+        {
+          "name": "Hauptplatz & Rathaus",
+          "address": "Hauptplatz, 8010 Graz",
+          "photo": "/images/city-places/graz-attractions-hauptplatz-rathaus.jpg",
+          "petFriendly": true,
+          "description": "Graz's main square at the foot of the Schlossberg, dominated by the neo-Renaissance Rathaus (1893). Surrounded by 17th-century burgher houses with painted façades; the central Erzherzog-Johann fountain (1878) honours the prince who modernised Styria.",
+          "descriptionFr": "La place principale de Graz au pied du Schlossberg, dominée par le Rathaus néo-Renaissance (1893). Entourée de maisons bourgeoises du XVIIe s. aux façades peintes ; la fontaine centrale Erzherzog-Johann (1878) honore le prince qui modernisa la Styrie.",
+          "descriptionEs": "La plaza principal de Graz al pie del Schlossberg, dominada por el Rathaus neorrenacentista (1893). Rodeada de casas burguesas del s. XVII con fachadas pintadas; la fuente central Erzherzog-Johann (1878) honra al príncipe que modernizó Estiria.",
+          "petPolicy": "Open public square; dogs welcome on lead",
+          "petPolicyFr": "Place publique ouverte ; chiens admis en laisse",
+          "petPolicyEs": "Plaza pública abierta; perros admitidos con correa",
+          "openingHours": "Open 24/7; market 06:00–13:00",
+          "tip": "Saturday morning market (06:00–13:00) is the best people-watching with a dog — local farmers, Styrian honey and apple wines.",
+          "tipFr": "Le marché du samedi matin (6h–13h) offre le meilleur people-watching avec un chien — fermiers locaux, miel et vins de pomme styriens.",
+          "tipEs": "El mercado del sábado por la mañana (06:00–13:00) es el mejor people-watching con perro — granjeros locales, miel y vinos de manzana estirios.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptplatz+Graz"
+        },
+        {
+          "name": "Murinsel",
+          "address": "Lendkai 19, 8020 Graz",
+          "photo": "/images/city-places/graz-attractions-murinsel.jpg",
+          "petFriendly": true,
+          "description": "Floating steel-and-glass artificial island on the Mur, designed by Vito Acconci for Graz's 2003 Capital of Culture year. Contains a small amphitheatre, café and pedestrian bridge. Open 24/7 to leashed dogs.",
+          "descriptionFr": "Île artificielle en acier et verre flottant sur la Mur, dessinée par Vito Acconci pour l'année Capitale de la culture 2003. Contient un petit amphithéâtre, un café et une passerelle piétonne. Ouverte 24h/24 aux chiens en laisse.",
+          "descriptionEs": "Isla artificial de acero y vidrio flotando sobre el Mur, diseñada por Vito Acconci para el año Capital de la Cultura 2003. Contiene un pequeño anfiteatro, café y pasarela peatonal. Abierta 24h a perros con correa.",
+          "petPolicy": "Open to leashed dogs; café terrace accepts dogs",
+          "petPolicyFr": "Ouverte aux chiens en laisse ; terrasse du café accepte les chiens",
+          "petPolicyEs": "Abierta a perros con correa; la terraza del café admite perros",
+          "openingHours": "Open 24/7; café 10:00–24:00",
+          "tip": "Nighttime LED lighting transforms the island — best dog-portrait spot after dark, from the riverbank.",
+          "tipFr": "L'éclairage LED nocturne transforme l'île — meilleur spot portrait canin après la tombée de la nuit, depuis la berge.",
+          "tipEs": "La iluminación LED nocturna transforma la isla — mejor spot de retrato canino después del anochecer, desde la orilla.",
+          "googleMapsUrl": "https://maps.google.com/?q=Murinsel+Graz"
+        }
+      ],
+      "tipsEn": [
+        "All major Altstadt sights cluster within a 10-min walking radius from the Hauptplatz.",
+        "Grazer Dom (cathedral) interior prohibits dogs except assistance dogs; Mausoleum Ferdinand II next door also off-limits.",
+        "Outdoor squares, the Mur riverside, the Schlossberg paths and the Stadtpark are universally dog-accessible on lead."
+      ],
+      "tipsFr": [
+        "Tous les grands sites de l'Altstadt sont à moins de 10 min à pied du Hauptplatz.",
+        "L'intérieur du Grazer Dom (cathédrale) interdit les chiens sauf chiens d'assistance ; le Mausolée Ferdinand II voisin également.",
+        "Places extérieures, berges de la Mur, sentiers du Schlossberg et Stadtpark sont universellement accessibles en laisse."
+      ],
+      "tipsEs": [
+        "Todos los grandes monumentos de la Altstadt están a menos de 10 min a pie del Hauptplatz.",
+        "El interior del Grazer Dom (catedral) prohíbe perros salvo de asistencia; el Mausoleo de Fernando II al lado también.",
+        "Plazas exteriores, orillas del Mur, senderos del Schlossberg y Stadtpark son universalmente accesibles con correa."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to the Schlossberg viewing platforms?",
+          "a": "Yes, fully. The Schlossberg paths, terraces and viewpoints are all open to leashed dogs 24/7. The Schlossbergbahn funicular and cliff lift (Schlossberglift) both accept dogs free of charge."
+        },
+        {
+          "q": "What indoor sights in Graz allow dogs?",
+          "a": "Very few. Most museums and the cathedral prohibit dogs. The shopping arcades along Sporgasse and Herrengasse, and the Landhaushof Renaissance courtyard, are open-air and welcome dogs on lead."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien aux belvédères du Schlossberg ?",
+          "a": "Oui, totalement. Les sentiers, terrasses et belvédères du Schlossberg sont ouverts aux chiens en laisse 24h/24. Le funiculaire Schlossbergbahn et l'ascenseur dans la falaise (Schlossberglift) acceptent les chiens gratuitement."
+        },
+        {
+          "q": "Quels sites intérieurs de Graz acceptent les chiens ?",
+          "a": "Très peu. La plupart des musées et la cathédrale interdisent les chiens. Les galeries marchandes le long de la Sporgasse et de la Herrengasse, ainsi que la cour Renaissance du Landhaushof, sont à ciel ouvert et accueillent les chiens en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a los miradores del Schlossberg?",
+          "a": "Sí, totalmente. Los senderos, terrazas y miradores del Schlossberg admiten perros con correa 24h. El funicular Schlossbergbahn y el ascensor en el acantilado (Schlossberglift) admiten perros gratis."
+        },
+        {
+          "q": "¿Qué sitios interiores de Graz admiten perros?",
+          "a": "Muy pocos. La mayoría de museos y la catedral prohíben perros. Las galerías comerciales de Sporgasse y Herrengasse, y el patio renacentista del Landhaushof, son al aire libre y admiten perros con correa."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog-Sitting & Daycare in Graz — Verified Platforms",
+      "titleFr": "Garde de chiens et crèche canine à Graz — Plateformes vérifiées",
+      "titleEs": "Cuidado de perros y guardería canina en Graz — Plataformas verificadas",
+      "introEn": "Museum visits, the Grazer Dom interior, and the Mausoleum Ferdinand II sometimes require leaving your dog. Two international platforms (Rover, Pawshake) operate in Graz with around 20 verified local sitters.",
+      "introFr": "Visites de musées, intérieur du Grazer Dom et Mausolée Ferdinand II imposent parfois de laisser son chien. Deux plateformes internationales (Rover, Pawshake) opèrent à Graz avec environ 20 sitters locaux vérifiés.",
+      "introEs": "Visitas a museos, interior del Grazer Dom y Mausoleo de Fernando II obligan a veces a dejar al perro. Dos plataformas internacionales (Rover, Pawshake) operan en Graz con unos 20 cuidadores locales verificados.",
+      "places": [
+        {
+          "name": "Rover Graz",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "description": "Austria's leading pet-sitting platform (Rover-owned). ~12 verified sitters in Graz. Drop-in visits, daycare, overnight boarding. Insurance included, reviewed sitters.",
+          "descriptionFr": "Première plateforme de garde d'animaux d'Autriche (groupe Rover). ~12 sitters vérifiés à Graz. Visites à domicile, crèche, hébergement de nuit. Assurance incluse, sitters notés.",
+          "descriptionEs": "La principal plataforma de cuidado de mascotas de Austria (grupo Rover). ~12 cuidadores verificados en Graz. Visitas a domicilio, guardería, alojamiento. Seguro incluido, cuidadores con reseñas.",
+          "website": "https://www.rover.com/de/dog-sitting/graz",
+          "tip": "Most Graz sitters are students or young professionals — bilingual DE/EN almost guaranteed.",
+          "tipFr": "La plupart des sitters de Graz sont étudiants ou jeunes pros — bilingues DE/EN quasi garanti.",
+          "tipEs": "La mayoría de cuidadores de Graz son estudiantes o jóvenes profesionales — bilingüe DE/EN casi garantizado."
+        },
+        {
+          "name": "Pawshake Graz",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "description": "International platform with ~8 verified sitters in Graz. Useful for travellers who prefer an English-language interface and global account portability.",
+          "descriptionFr": "Plateforme internationale avec ~8 sitters vérifiés à Graz. Utile pour les voyageurs qui préfèrent une interface en anglais et la portabilité de compte mondiale.",
+          "descriptionEs": "Plataforma internacional con ~8 cuidadores verificados en Graz. Útil para viajeros que prefieren una interfaz en inglés y portabilidad de cuenta mundial.",
+          "website": "https://www.pawshake.at/dog-sitting/graz",
+          "tip": "Book 48–72h ahead during the Aufsteirern folk festival (mid-September) and Christmas markets (early Dec) — availability tightens.",
+          "tipFr": "Réservez 48–72h à l'avance pendant l'Aufsteirern (festival folklorique, mi-septembre) et les marchés de Noël (début déc) — disponibilités réduites.",
+          "tipEs": "Reserva con 48–72h durante el Aufsteirern (festival folclórico, mediados sept) y los mercados navideños (principios dic) — disponibilidad reducida."
+        }
+      ],
+      "tipsEn": [
+        "Graz rates: drop-in visit 14–22 EUR, day-care 22–32 EUR, overnight boarding 28–42 EUR.",
+        "Most sitters live in central Altstadt-adjacent districts (Lend, Geidorf, St. Leonhard) within 2 km of the Hauptplatz.",
+        "Pet hotels (Hundepensionen) exist on the city outskirts — useful only for multi-day absences."
+      ],
+      "tipsFr": [
+        "Tarifs Graz : visite à domicile 14–22 €, crèche journée 22–32 €, hébergement nuit 28–42 €.",
+        "La plupart des sitters habitent les quartiers proches de l'Altstadt (Lend, Geidorf, St. Leonhard) à moins de 2 km du Hauptplatz.",
+        "Des pensions canines (Hundepensionen) existent en périphérie — utiles seulement pour les absences de plusieurs jours."
+      ],
+      "tipsEs": [
+        "Tarifas en Graz: visita a domicilio 14–22 €, guardería de día 22–32 €, alojamiento de noche 28–42 €.",
+        "La mayoría de los cuidadores vive en barrios cercanos a la Altstadt (Lend, Geidorf, St. Leonhard) a menos de 2 km del Hauptplatz.",
+        "Existen residencias caninas (Hundepensionen) en las afueras — útiles solo para ausencias de varios días."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog-sitter for a few hours in Graz?",
+          "a": "Rover and Pawshake both let you book drop-in visits or daycare with verified local sitters. Filter by language and home type. Most Graz sitters are students and respond fast — 24h booking lead time is usually enough."
+        },
+        {
+          "q": "Can I leave my dog at my Graz hotel during the day?",
+          "a": "Most pet-friendly Graz hotels (Daniel, Schlossberghotel, Wiesler, Weitzer) allow dogs in the room during your absence if they're calm and don't bark. Confirm at check-in — some require a 'do-not-disturb' card on the door."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un dog-sitter pour quelques heures à Graz ?",
+          "a": "Rover et Pawshake permettent tous deux de réserver des visites à domicile ou de la crèche avec des sitters locaux vérifiés. Filtrez par langue et type de logement. La plupart des sitters de Graz sont étudiants et réactifs — 24h de préavis suffisent."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel pendant la journée à Graz ?",
+          "a": "La plupart des hôtels pet-friendly de Graz (Daniel, Schlossberghotel, Wiesler, Weitzer) autorisent les chiens en chambre pendant vos sorties s'ils sont calmes et ne aboient pas. Confirmez au check-in — certains exigent un panneau « ne pas déranger »."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador para unas horas en Graz?",
+          "a": "Rover y Pawshake permiten reservar visitas a domicilio o guardería con cuidadores locales verificados. Filtra por idioma y tipo de vivienda. La mayoría de cuidadores de Graz son estudiantes y responden rápido — 24h de antelación suelen bastar."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro en el hotel durante el día en Graz?",
+          "a": "La mayoría de hoteles pet-friendly de Graz (Daniel, Schlossberghotel, Wiesler, Weitzer) admiten perros en la habitación durante tus salidas si son tranquilos y no ladran. Confírmalo al check-in — algunos exigen el cartel «no molestar»."
+        }
+      ]
+    }
+  }
+}

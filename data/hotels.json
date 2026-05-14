@@ -7377,6 +7377,132 @@
     "slug": "bb-hotel-granada"
   },
   {
+    "id": "graz-1",
+    "name": "Hotel Daniel Graz",
+    "destinationSlug": "graz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2700,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/daniel-graz.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Daniel Graz — Stylish 4-star design hotel opposite the main station, 10 min walk from the Hauptplatz. Pets stay free of charge. Welcome basket with bowls and bed.",
+    "highlights": [
+      "Free WiFi",
+      "Pets stay free",
+      "Bike rental",
+      "Design hotel"
+    ],
+    "slug": "hotel-daniel-graz"
+  },
+  {
+    "id": "graz-2",
+    "name": "Schlossberghotel — Das Kunsthotel",
+    "destinationSlug": "graz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1620,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/schlossberghotel.html",
+    "petFee": 20,
+    "petPolicy": "Schlossberghotel — Boutique 4-star at the foot of the Schlossberg, 5 min from the Hauptplatz. Pet fee 20 EUR/night. Dogs up to 15 kg welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Schlossberg view",
+      "Art hotel",
+      "Rooftop terrace"
+    ],
+    "slug": "schlossberghotel-graz"
+  },
+  {
+    "id": "graz-3",
+    "name": "Grand Hotel Wiesler",
+    "destinationSlug": "graz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/grand-wiesler.html",
+    "petFee": 15,
+    "petPolicy": "Grand Hotel Wiesler — Iconic 1909 Art Nouveau 4-star on the Mur riverbank, opposite the Murinsel. Pet fee 15 EUR/night. Small/medium dogs welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Art Nouveau heritage",
+      "River view",
+      "Restaurant"
+    ],
+    "slug": "grand-hotel-wiesler-graz"
+  },
+  {
+    "id": "graz-4",
+    "name": "Hotel Weitzer Graz",
+    "destinationSlug": "graz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3400,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/weitzer-graz.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Weitzer — Large 4-star on the right bank of the Mur, 5 min to the Hauptplatz. Pet fee 10 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Restaurant",
+      "Bar",
+      "Mur riverside"
+    ],
+    "slug": "hotel-weitzer-graz"
+  },
+  {
+    "id": "graz-5",
+    "name": "Hotel zum Dom",
+    "destinationSlug": "graz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1480,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/zum-dom-graz.html",
+    "petFee": 15,
+    "petPolicy": "Hotel zum Dom — Family-run boutique 4-star next to the cathedral. Pet fee 15 EUR/night. Small dogs welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Old town location",
+      "Boutique",
+      "Breakfast"
+    ],
+    "slug": "hotel-zum-dom-graz"
+  },
+  {
     "id": "hamburg-1",
     "name": "Fairmont Hotel Vier Jahreszeiten",
     "destinationSlug": "hamburg",

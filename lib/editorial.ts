@@ -266,6 +266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Slottsskogen urban forest, the Haga wooden district cafés, and the dog-friendly Gothenburg Archipelago islands',
       area: 'Haga, the Linné neighbourhood, and the Vasastan district',
     },
+    graz: {
+      personality: `Austria's UNESCO-listed Styrian capital, where the Schlossberg's Uhrturm crowns a perfectly preserved Renaissance Altstadt and Wirtshaus culture welcomes dogs indoors even in winter`,
+      highlight: 'the wooded Schlossberg paths up to the Uhrturm, the Stadtpark Hundezone, and the 7 km Mur riverside trail through the centre',
+      area: 'the UNESCO Altstadt around the Hauptplatz, the trendy Lend district west of the Mur, and the leafy Geidorf student quarter',
+    },
     granada: {
       personality: 'the most atmospheric Moorish city in Europe — where the Alhambra watches over cobbled Albaicín lanes, Andalusian terrace culture makes dogs genuinely welcome, and the Sierra Nevada is an hour away',
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
@@ -874,6 +879,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt urbaine de Slottsskogen, les cafés du quartier en bois de Haga et les îles dog-friendly de l\'archipel de Göteborg',
       area: 'Haga, le quartier Linné et le quartier Vasastan',
     },
+    graz: {
+      personality: `la capitale UNESCO de la Styrie, où l'Uhrturm du Schlossberg domine une Altstadt Renaissance parfaitement préservée et où la culture Wirtshaus accueille les chiens à l'intérieur même en hiver`,
+      highlight: `les sentiers boisés du Schlossberg jusqu'à l'Uhrturm, la Hundezone du Stadtpark et le sentier de 7 km le long de la Mur traversant le centre`,
+      area: `l'Altstadt UNESCO autour du Hauptplatz, le quartier branché Lend à l'ouest de la Mur et le quartier étudiant verdoyant Geidorf`,
+    },
     granada: {
       personality: 'la ville mauresque la plus atmosphérique d\'Europe — où l\'Alhambra surveille les ruelles pavées de l\'Albaicín, la culture de la terrasse andalouse réserve un accueil sincère aux chiens, et la Sierra Nevada est à une heure',
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
@@ -1480,6 +1490,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la ciudad más acogedora para perros de Suecia — una animada ciudad portuaria y universitaria donde los perros viajan en tranvía gratis, corren sin correa en el Slottsskogen de 137 hectáreas y son bienvenidos en casi todos los cafés',
       highlight: 'el bosque urbano de Slottsskogen, los cafés del barrio de madera de Haga y las islas aptas para perros del archipiélago de Gotemburgo',
       area: 'Haga, el barrio de Linné y el distrito de Vasastan',
+    },
+    graz: {
+      personality: 'la capital UNESCO de Estiria, donde la Uhrturm del Schlossberg corona una Altstadt renacentista perfectamente conservada y la cultura Wirtshaus admite perros en el interior incluso en invierno',
+      highlight: 'los senderos boscosos del Schlossberg hasta la Uhrturm, la Hundezone del Stadtpark y el sendero de 7 km a lo largo del Mur por el centro',
+      area: 'la Altstadt UNESCO en torno al Hauptplatz, el barrio de moda Lend al oeste del Mur y el frondoso barrio estudiantil Geidorf',
     },
     granada: {
       personality: 'la ciudad árabe más atmosférica de Europa — donde la Alhambra vigila las callejuelas empedradas del Albaicín, la cultura de la terraza andaluza hace que los perros sean genuinamente bienvenidos y Sierra Nevada está a una hora',

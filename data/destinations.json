@@ -3666,6 +3666,80 @@
     }
   },
   {
+    "slug": "graz",
+    "name": "Graz",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/graz.jpg",
+    "intro": "Austria's second city and capital of Styria, with the largest preserved Renaissance and Baroque old town in Central Europe — UNESCO-listed since 1999. The Schlossberg hill with its iconic Uhrturm clock tower dominates a compact, walkable centre crossed by the Mur river. 2h30 from Vienna by Railjet. A young, green university city with strong pet culture and easy access to Styrian forests and lakes.",
+    "lat": 47.0707,
+    "lng": 15.4395,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold, dry",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, showers",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cool, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "hamburg",
     "name": "Hamburg",
     "country": "Germany",

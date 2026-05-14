@@ -97,6 +97,12 @@ const ALL_GUIDES = [
     label: { fr: 'Les 25 meilleures plages dog-friendly d\'Europe 2026', en: 'The 25 Best Dog Beaches in Europe 2026', es: 'Las 25 mejores playas dog-friendly de Europa 2026' },
     desc:  { fr: 'Sélection vérifiée · accès toute l\'année · Atlantique, Méditerranée, mer du Nord, Baltique, lacs', en: 'Verified picks · year-round access · Atlantic, Mediterranean, North Sea, Baltic, lakes', es: 'Selección verificada · acceso todo el año · Atlántico, Mediterráneo, Mar del Norte, Báltico, lagos' },
   },
+  {
+    slug: 'fenced-dog-parks-europe',
+    emoji: '🔒',
+    label: { fr: 'Parcs canins clôturés en Europe', en: 'Fenced Dog Parks in Europe', es: 'Parques caninos vallados en Europa' },
+    desc:  { fr: 'Inventaire vérifié · 70+ Hundezone / sgambamento / caniparc dans 50+ villes', en: 'Verified inventory · 70+ Hundezone / sgambamento / caniparc across 50+ cities', es: 'Inventario verificado · 70+ Hundezone / sgambamento / caniparc en 50+ ciudades' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

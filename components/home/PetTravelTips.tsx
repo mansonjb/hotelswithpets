@@ -73,12 +73,35 @@ const tips: Record<Locale, Tip[]> = {
       text: 'Cada hotel de HotelsWithPets.com tiene una puntuación mínima de 8,0 en Booking.com. Admitir mascotas no debería implicar comprometer la calidad.',
     },
   ],
+  pt: [
+    {
+      icon: '📋',
+      title: 'Verifique antes de reservar',
+      text: `Confirme sempre a política de animais diretamente com o hotel. As tarifas e restrições podem mudar. Atualizamos os nossos dados regularmente, mas uma chamada rápida evita surpresas.`,
+    },
+    {
+      icon: '🛂',
+      title: 'Passaporte europeu para animais',
+      text: `A viajar entre países da UE? O seu animal precisa de um passaporte europeu válido com vacinação antirrábica em dia. Trate-o com o seu veterinário pelo menos 21 dias antes da viagem.`,
+    },
+    {
+      icon: '🐕',
+      title: 'Reserve o quarto certo',
+      text: `Nem todos os quartos de um hotel pet-friendly aceitam animais. Peça um quarto designado para animais ao reservar e confirme o piso. Idealmente com acesso fácil ao exterior.`,
+    },
+    {
+      icon: '⭐',
+      title: 'Todos os hotéis com 8,0+',
+      text: `Cada hotel da HotelsWithPets.com tem uma nota mínima de 8,0 no Booking.com. Aceitar animais não deve significar abrir mão da qualidade.`,
+    },
+  ],
 }
 
 const headings: Record<Locale, string> = {
   en: 'Tips for travelling with pets',
   fr: 'Conseils pour voyager avec votre animal',
   es: 'Consejos para viajar con mascotas',
+  pt: 'Dicas para viajar com animais',
 }
 
 export default function PetTravelTips({ locale }: PetTravelTipsProps) {

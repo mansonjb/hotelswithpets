@@ -110,9 +110,43 @@ const COUNTRIES_ES: Record<string, string> = {
   Luxembourg: 'Luxemburgo',
 }
 
+const COUNTRIES_PT: Record<string, string> = {
+  France: 'França',
+  Spain: 'Espanha',
+  Italy: 'Itália',
+  Belgium: 'Bélgica',
+  Germany: 'Alemanha',
+  Portugal: 'Portugal',
+  Netherlands: 'Países Baixos',
+  'Czech Republic': 'República Checa',
+  Austria: 'Áustria',
+  Denmark: 'Dinamarca',
+  Sweden: 'Suécia',
+  Switzerland: 'Suíça',
+  Hungary: 'Hungria',
+  Croatia: 'Croácia',
+  'United Kingdom': 'Reino Unido',
+  Ireland: 'Irlanda',
+  Iceland: 'Islândia',
+  Slovenia: 'Eslovénia',
+  Latvia: 'Letónia',
+  Estonia: 'Estónia',
+  Poland: 'Polónia',
+  Greece: 'Grécia',
+  Norway: 'Noruega',
+  Finland: 'Finlândia',
+  Bulgaria: 'Bulgária',
+  Romania: 'Roménia',
+  Serbia: 'Sérvia',
+  Slovakia: 'Eslováquia',
+  Lithuania: 'Lituânia',
+  Luxembourg: 'Luxemburgo',
+}
+
 export function getLocalizedCountryName(englishName: string, locale: string): string {
   if (locale === 'fr') return COUNTRIES_FR[englishName] ?? englishName
   if (locale === 'es') return COUNTRIES_ES[englishName] ?? englishName
+  if (locale === 'pt') return COUNTRIES_PT[englishName] ?? englishName
   return englishName
 }
 

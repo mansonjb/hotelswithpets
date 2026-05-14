@@ -30,6 +30,7 @@ const headings: Record<Locale, string> = {
   en: 'Popular searches',
   fr: 'Recherches populaires',
   es: 'Búsquedas populares',
+  pt: 'Pesquisas populares',
 }
 
 export default function PopularSearches({ locale }: PopularSearchesProps) {

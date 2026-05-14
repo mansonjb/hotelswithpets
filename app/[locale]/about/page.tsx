@@ -144,7 +144,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
       description: 'A trip-planning platform for travellers with pets. We curate verified pet-friendly hotels and city guides across 66 European destinations.',
       foundingDate: '2026',
       areaServed: { '@type': 'Continent', name: 'Europe' },
-      knowsLanguage: ['en', 'fr', 'es'],
+      knowsLanguage: ['en', 'fr', 'es', 'pt'],
       knowsAbout: [
         'Pet-friendly hotels',
         'Travelling with dogs',

@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "categories": "Categories",
+    "about": "About",
+    "countries": "Countries"
+  },
+  "hero": {
+    "badge": "Verified pet-friendly hotels across Europe",
+    "title": "Hotels that genuinely welcome your pet",
+    "subtitle": "Find the perfect stay for you and your dog. Browse by destination, filter by pet policy, and book directly on Booking.com.",
+    "searchDestination": "Where are you going?",
+    "searchCategory": "Pet type or amenity",
+    "cta": "Find hotels",
+    "stat1Value": "43",
+    "stat1Label": "Destinations",
+    "stat2Value": "340+",
+    "stat2Label": "Pet-friendly hotels",
+    "stat3Value": "100%",
+    "stat3Label": "Free to use"
+  },
+  "categories": {
+    "browseBy": "Browse by",
+    "browseTitle": "Category",
+    "subtitle": "Find hotels filtered by what matters most to you and your pet.",
+    "explore": "Explore →"
+  },
+  "howItWorks": {
+    "title": "Book in 3 simple steps",
+    "step1Title": "Choose your destination",
+    "step1Desc": "Browse our curated list of pet-friendly cities across Europe and pick your next trip.",
+    "step2Title": "Find your hotel",
+    "step2Desc": "Filter by pet policy, size limits, pet fees, or beach access.",
+    "step3Title": "Book your stay",
+    "step3Desc": "Click through to Booking.com and complete your reservation directly."
+  },
+  "destinations": {
+    "title": "Popular destinations",
+    "cta": "Discover hotels",
+    "viewAll": "View all destinations →"
+  },
+  "combos": {
+    "title": "100+ curated pet-friendly guides",
+    "featuredLabel": "Featured guide",
+    "viewGuide": "View guide →",
+    "items": [
+      {
+        "emoji": "🐕",
+        "label": "Amsterdam with your dog — the complete guide",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Biarritz: the best beaches for your dog",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Luxury Paris with your pet: exclusive picks",
+        "href": "paris/luxury"
+      },
+      {
+        "emoji": "🎉",
+        "label": "Barcelona: no pet fee — our handpicked hotels",
+        "href": "barcelona/dogs-stay-free"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Rome with your dog: where to sleep and roam",
+        "href": "rome/dog-friendly"
+      },
+      {
+        "emoji": "🌳",
+        "label": "Dog-friendly Berlin: parks and hand-picked hotels",
+        "href": "berlin/near-parks"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Lisbon with your dog: the practical guide",
+        "href": "lisbon/dog-friendly"
+      }
+    ]
+  },
+  "footer": {
+    "explore": "Explore",
+    "destinations": "Destinations",
+    "categories": "Categories",
+    "company": "Company",
+    "about": "About Us",
+    "disclosure": "Affiliate Disclosure",
+    "disclosureText": "This site contains affiliate links. We may earn a commission when you book through our links, at no extra cost to you.",
+    "copyright": "© 2026 HotelsWithPets.com. All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "pages": {
+    "destinations": {
+      "title": "All pet-friendly destinations",
+      "subtitle": "From Amsterdam to Lisbon, discover where to stay with your pet across Europe's best cities.",
+      "explore": "Explore"
+    },
+    "destination": {
+      "back": "← Destinations",
+      "categoriesTitle": "Browse by hotel type",
+      "hotelsTitle": "Top pet-friendly hotels",
+      "book": "Book on Booking.com",
+      "from": "From",
+      "perNight": "/ night",
+      "free": "No pet fee",
+      "petFee": "Pet fee",
+      "petPolicy": "Pet policy",
+      "stars": "stars",
+      "reviews": "reviews",
+      "viewCombo": "See hotels →"
+    },
+    "categories": {
+      "title": "All pet categories",
+      "subtitle": "Dog-friendly, luxury, beach access, no pet fee — find exactly what your trip needs.",
+      "destinations": "destinations"
+    },
+    "category": {
+      "back": "← Categories",
+      "destinationsTitle": "Best destinations for this category",
+      "explore": "See hotels →"
+    },
+    "combo": {
+      "rankLabel": "Best for",
+      "heroTitle": "Hotels in {dest} — {cat}",
+      "hotelsTitle": "Our top picks in {dest} — {cat} ({n} hotels)",
+      "inCity": "in {dest}",
+      "tipsTitle": "How to pick the right hotel in {dest} — {cat}",
+      "tipsSubtitle": "Five things savvy pet-owning travellers check before every booking.",
+      "faqTitle": "Frequently asked questions",
+      "moreInDest": "More guides in {dest}",
+      "catElsewhere": "{cat} — other cities",
+      "relatedTitle": "Related guides",
+      "updatedLabel": "Updated",
+      "handpicked": "handpicked properties",
+      "fromPerNight": "from / night",
+      "avgRating": "avg rating",
+      "noPetFee": "no pet fee",
+      "book": "Book on Booking.com",
+      "from": "From",
+      "perNight": "/ night",
+      "free": "No pet fee",
+      "petFee": "Pet fee",
+      "petPolicy": "Pet policy",
+      "stars": "stars",
+      "reviews": "reviews",
+      "ctaTitle": "Ready to book?",
+      "ctaDesc": "Compare even more options on Booking.com — filter by pet policy, price, and amenities.",
+      "ctaButton": "See all pet-friendly hotels",
+      "noHotels": "No hotels listed yet for this combination. Check back soon or browse Booking.com directly.",
+      "whyTitle": "Why pick {dest} with your pet?",
+      "testimonialLabel": "🐾 A pet owner's verdict",
+      "mapSectionTitle": "Find these hotels on the map",
+      "seasonBadge": "Best season: {season}"
+    }
+  }
+}

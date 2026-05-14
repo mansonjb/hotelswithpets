@@ -20,7 +20,7 @@ interface HeaderProps {
   }
 }
 
-const localeLabels: Record<Locale, string> = { en: 'EN', fr: 'FR', es: 'ES' }
+const localeLabels: Record<Locale, string> = { en: 'EN', fr: 'FR', es: 'ES', pt: 'PT' }
 
 const destinations = destinationsData as Destination[]
 

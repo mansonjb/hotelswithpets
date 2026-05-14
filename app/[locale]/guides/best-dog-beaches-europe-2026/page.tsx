@@ -400,7 +400,7 @@ const COPY: Record<Locale, {
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
-  const l = locale as Locale
+  const l = (locale === 'pt' ? 'en' : locale) as Locale
   const t = COPY[l]
 
   // Schema.org Article + ItemList + FAQPage

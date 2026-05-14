@@ -20,11 +20,13 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     en: 'HotelsWithPets: Pet-Friendly Hotels in Europe',
     fr: 'HotelsWithPets: Hôtels Pet-Friendly en Europe',
     es: 'HotelsWithPets: Hoteles Pet-Friendly en Europa',
+    pt: 'HotelsWithPets: Hotéis Pet-Friendly na Europa',
   }
   const descriptions: Record<Locale, string> = {
     en: 'Find the best pet-friendly hotels in Europe. Dog-friendly stays, beach access, luxury hotels and more. Book via Booking.com.',
     fr: 'Trouvez les meilleurs hôtels pet-friendly en Europe. Séjours avec chiens, accès plage, hôtels de luxe. Réservez sur Booking.com.',
     es: 'Encuentra los mejores hoteles pet-friendly en Europa. Estancias con perros, acceso a la playa, hoteles de lujo. Reserva en Booking.com.',
+    pt: 'Encontre os melhores hotéis pet-friendly na Europa. Estadias com cães, acesso à praia, hotéis de luxo. Reserve via Booking.com.',
   }
   const l = hasLocale(locale) ? locale : 'en'
 
@@ -34,6 +36,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     en: ['pet-friendly hotels', 'dog-friendly hotels', 'cat-friendly hotels', 'travel with dog europe', 'pet travel', 'hotels for dogs', 'hotels for cats', 'pet hotels europe', 'dog friendly travel', 'european dog travel'],
     fr: ['hôtels pet-friendly', 'hôtels acceptant les chiens', 'voyager avec son chien', 'hôtels pour animaux', 'séjour avec chien europe', 'hôtels acceptant les animaux', 'voyage chien europe', 'hôtels chats acceptés'],
     es: ['hoteles pet-friendly', 'hoteles que admiten perros', 'viajar con perro europa', 'hoteles para mascotas', 'hoteles con perros europa', 'hoteles que admiten gatos', 'viajar con mascota'],
+    pt: ['hotéis pet-friendly', 'hotéis que aceitam cães', 'viajar com cão europa', 'hotéis para animais', 'estadia com cão europa', 'hotéis que aceitam animais', 'viagem cão europa', 'hotéis gatos aceites'],
   }
 
   return {
@@ -50,7 +53,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     openGraph: {
       siteName: 'HotelsWithPets',
       type: 'website',
-      locale: l === 'fr' ? 'fr_FR' : l === 'es' ? 'es_ES' : 'en_GB',
+      locale: l === 'fr' ? 'fr_FR' : l === 'es' ? 'es_ES' : l === 'pt' ? 'pt_PT' : 'en_GB',
     },
     twitter: {
       card: 'summary_large_image',

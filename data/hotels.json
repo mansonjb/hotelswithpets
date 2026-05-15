@@ -8525,6 +8525,131 @@
     "petPolicyPt": "Animais aceites; forest walking maps disponível."
   },
   {
+    "id": "heraklion-1",
+    "name": "GDM Megaron Historical Monument Hotel",
+    "destinationSlug": "heraklion",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2400,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/gdm-megaron.html",
+    "petFee": 30,
+    "petPolicy": "GDM Megaron — 5-star Historical Monument hotel in a 1920s neoclassical building on the harbour, opposite the Koules fortress. Pet fee 30 EUR/night. Dogs up to 15 kg welcome on request, advance notice required.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Harbour view",
+      "Restaurant"
+    ],
+    "slug": "gdm-megaron-heraklion"
+  },
+  {
+    "id": "heraklion-2",
+    "name": "Aquila Atlantis Hotel",
+    "destinationSlug": "heraklion",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 3100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/aquila-atlantis.html",
+    "petFee": 20,
+    "petPolicy": "Aquila Atlantis — Central 4-star, 5 min walk from the harbour and Plateia Eleftherias. Pet fee 20 EUR/night. Small/medium dogs welcome (max 10 kg).",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Spa",
+      "Restaurant"
+    ],
+    "slug": "aquila-atlantis-heraklion"
+  },
+  {
+    "id": "heraklion-3",
+    "name": "Lato Boutique Hotel",
+    "destinationSlug": "heraklion",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1450,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/lato-boutique.html",
+    "petFee": 15,
+    "petPolicy": "Lato Boutique — Design-led 4-star on Epimenidou street, 200 m from the harbour. Pet fee 15 EUR/night. Small dogs (up to 8 kg) welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Sea view",
+      "Breakfast"
+    ],
+    "slug": "lato-boutique-hotel-heraklion"
+  },
+  {
+    "id": "heraklion-4",
+    "name": "Capsis Astoria Heraklion",
+    "destinationSlug": "heraklion",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2100,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/capsis-astoria.html",
+    "petFee": 12,
+    "petPolicy": "Capsis Astoria — Mid-century 4-star on Plateia Eleftherias, the main square. Pet fee 12 EUR/night. Dogs up to 10 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop pool",
+      "Central square",
+      "Bar"
+    ],
+    "slug": "capsis-astoria-heraklion"
+  },
+  {
+    "id": "heraklion-5",
+    "name": "Marin Dream Hotel",
+    "destinationSlug": "heraklion",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1820,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gr/marin-dream.html",
+    "petFee": 10,
+    "petPolicy": "Marin Dream — Family-run 3-star opposite the old harbour. Pet fee 10 EUR/night. Small dogs welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Harbour view",
+      "Breakfast",
+      "Rooftop terrace"
+    ],
+    "slug": "marin-dream-hotel-heraklion"
+  },
+  {
     "id": "innsbruck-1",
     "name": "Hotel Innsbruck",
     "destinationSlug": "innsbruck",
@@ -10042,6 +10167,133 @@
     ],
     "slug": "the-columbia-hotel-london",
     "petPolicyPt": "O Columbia allows animais de any size em sem additional taxa. Victorian hotel overlooking Hyde Parque — one de Europe's finest off-trela cão walks."
+  },
+  {
+    "id": "lucca-1",
+    "name": "Palazzo Dipinto",
+    "destinationSlug": "lucca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1240,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-dipinto.html",
+    "petFee": 30,
+    "petPolicy": "Palazzo Dipinto — Restored 14th-century palazzo with frescoed ceilings inside the walls, 2 min walk from the Cathedral. Pet fee 30 EUR/night. Dogs up to 15 kg welcome with advance notice. Welcome basket provided.",
+    "highlights": [
+      "Free WiFi",
+      "14th-c. palazzo",
+      "Frescoed ceilings",
+      "Concierge"
+    ],
+    "slug": "palazzo-dipinto-lucca"
+  },
+  {
+    "id": "lucca-2",
+    "name": "Hotel Ilaria & Residenza dell'Alba",
+    "destinationSlug": "lucca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2400,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/ilaria.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Ilaria — 4-star boutique built around a private garden inside the walls. Pet fee 20 EUR/night. Dogs up to 10 kg welcome. Wellness suites available with garden access.",
+    "highlights": [
+      "Free WiFi",
+      "Private garden",
+      "Spa",
+      "Free bikes"
+    ],
+    "slug": "hotel-ilaria-lucca"
+  },
+  {
+    "id": "lucca-3",
+    "name": "Hotel San Luca Palace",
+    "destinationSlug": "lucca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1850,
+    "priceFrom": 155,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/sanlucapalace.html",
+    "petFee": 15,
+    "petPolicy": "Hotel San Luca Palace — Stylish 4-star in a 16th-century palazzo next to the walls. Pet fee 15 EUR/night. Small/medium dogs (up to 10 kg) welcome with advance notice.",
+    "highlights": [
+      "Free WiFi",
+      "16th-c. palazzo",
+      "Garage parking",
+      "Breakfast"
+    ],
+    "slug": "hotel-san-luca-palace-lucca"
+  },
+  {
+    "id": "lucca-4",
+    "name": "Albergo Celide",
+    "destinationSlug": "lucca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2680,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/celide.html",
+    "petFee": 12,
+    "petPolicy": "Albergo Celide — 4-star opposite the walls' east side, 5 min walk to the centre. Pet fee 12 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Restaurant",
+      "Wall views"
+    ],
+    "slug": "albergo-celide-lucca"
+  },
+  {
+    "id": "lucca-5",
+    "name": "Locanda Vigna Ilaria",
+    "destinationSlug": "lucca",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 920,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/locanda-vigna-ilaria.html",
+    "petFee": 10,
+    "petPolicy": "Locanda Vigna Ilaria — Family-run countryside locanda 3 km north of Lucca, with garden and views of the hills. Pet fee 10 EUR/night. Dogs of any size welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Garden",
+      "Free parking",
+      "Family-run"
+    ],
+    "slug": "locanda-vigna-ilaria-lucca"
   },
   {
     "id": "lucerne-1",

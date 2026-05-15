@@ -1,0 +1,921 @@
+{
+  "slug": "heraklion",
+  "name": "Heraklion",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-05-15",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Heraklion — Cretan Tavernas & Mezedopolio",
+      "titleFr": "Restaurants dog-friendly à Héraklion — Tavernes crétoises et mezedopolio",
+      "titleEs": "Restaurantes pet-friendly en Heraklion — Tabernas cretenses y mezedopolio",
+      "introEn": "Heraklion's taverna and mezedopolio (small-plates) culture is overwhelmingly dog-tolerant on outdoor terraces. The harbour promenade, the alleys around Korai street, and the Lions Square concentrate dozens of dog-friendly venues year-round.",
+      "introFr": "La culture taverne et mezedopolio (petites assiettes) d'Héraklion tolère massivement les chiens en terrasse. La promenade du port, les ruelles autour de Korai et la Place des Lions concentrent des dizaines d'adresses dog-friendly toute l'année.",
+      "introEs": "La cultura de tabernas y mezedopolio (platitos) de Heraklion tolera ampliamente perros en terraza. El paseo del puerto, las callejuelas en torno a Korai y la Plaza de los Leones concentran decenas de locales dog-friendly todo el año.",
+      "places": [
+        {
+          "name": "Peskesi",
+          "address": "Kapetan Charalampi 6, 71202 Heraklion",
+          "neighborhood": "Old town",
+          "photo": "/images/city-places/heraklion-restaurants-peskesi.jpg",
+          "website": "https://peskesicrete.gr/",
+          "description": "Award-winning Cretan slow-food restaurant inside a restored neoclassical mansion with a leafy courtyard. Sources every ingredient from its own organic farm in Pirgou. Mezedes, dakos, slow-cooked goat.",
+          "descriptionFr": "Restaurant Slow Food crétois primé dans un manoir néoclassique restauré avec une cour ombragée. Tous les ingrédients viennent de leur ferme bio à Pirgou. Mezedes, dakos, chèvre confite.",
+          "descriptionEs": "Restaurante Slow Food cretense premiado en una mansión neoclásica restaurada con patio frondoso. Cada ingrediente viene de su granja ecológica en Pirgou. Mezedes, dakos, cabra a fuego lento.",
+          "petPolicy": "Calm leashed dogs welcome in the courtyard",
+          "petPolicyFr": "Chiens calmes en laisse admis dans la cour",
+          "petPolicyEs": "Perros tranquilos con correa admitidos en el patio",
+          "priceRange": "€€€",
+          "mustTry": "Dakos, gemista, slow-cooked goat with stamnagathi greens",
+          "mustTryFr": "Dakos, gemista, chèvre confite aux herbes stamnagathi",
+          "mustTryEs": "Dakos, gemista, cabra a fuego lento con stamnagathi",
+          "openingHours": "Daily 13:00–24:00",
+          "tip": "Book the courtyard table 24h ahead in summer — only 10 outdoor seats. Cretan raki is offered free at the end of the meal.",
+          "tipFr": "Réservez la cour 24h à l'avance en été — seulement 10 places extérieures. Le raki crétois est offert en fin de repas.",
+          "tipEs": "Reserva la mesa del patio con 24h en verano — solo 10 plazas exteriores. El raki cretense se ofrece gratis al final de la comida.",
+          "googleMapsUrl": "https://maps.google.com/?q=Peskesi+Heraklion"
+        },
+        {
+          "name": "Karavitis",
+          "address": "Sof. Venizelou 13, 71202 Heraklion",
+          "neighborhood": "Lions Square",
+          "photo": "/images/city-places/heraklion-restaurants-karavitis.jpg",
+          "website": "",
+          "description": "Old-school workers' taverna 50 m from the Morosini Fountain, in the same family since 1960. Cretan staples — wild greens, lamb stew, dakos — on paper tablecloths.",
+          "descriptionFr": "Taverne ouvrière à l'ancienne à 50 m de la fontaine Morosini, dans la même famille depuis 1960. Classiques crétois — herbes sauvages, ragoût d'agneau, dakos — sur nappes en papier.",
+          "descriptionEs": "Taberna obrera a la antigua a 50 m de la fuente Morosini, en la misma familia desde 1960. Clásicos cretenses — hierbas silvestres, estofado de cordero, dakos — sobre manteles de papel.",
+          "petPolicy": "Dogs welcome on the outdoor terrace",
+          "petPolicyFr": "Chiens admis en terrasse extérieure",
+          "petPolicyEs": "Perros admitidos en terraza exterior",
+          "priceRange": "€€",
+          "mustTry": "Apaki (smoked pork), wild greens, dakos",
+          "mustTryFr": "Apaki (porc fumé), herbes sauvages, dakos",
+          "mustTryEs": "Apaki (cerdo ahumado), hierbas silvestres, dakos",
+          "openingHours": "Mon–Sat 12:00–24:00",
+          "tip": "Cash only. Closed Sundays. House wine in copper jugs is the local way to order.",
+          "tipFr": "Espèces uniquement. Fermé dimanche. Vin maison en pichet de cuivre, comme les locaux.",
+          "tipEs": "Solo efectivo. Cerrado domingos. El vino de la casa en jarra de cobre es la forma local de pedir.",
+          "googleMapsUrl": "https://maps.google.com/?q=Karavitis+Heraklion"
+        },
+        {
+          "name": "Erganos Tavern",
+          "address": "Georgiadou 5, 71202 Heraklion",
+          "neighborhood": "Old town",
+          "photo": "/images/city-places/heraklion-restaurants-erganos-tavern.jpg",
+          "website": "https://erganos.gr/",
+          "description": "Folk taverna in a 1920s house with a cosy vine-shaded courtyard. Live Cretan lyra music Fri/Sat evenings. Traditional menu — apaki, gamopilafo, antikristo.",
+          "descriptionFr": "Taverne folk dans une maison de 1920 avec une cour douillette ombragée de vigne. Musique crétoise au lyra ven/sam soir. Carte traditionnelle — apaki, gamopilafo, antikristo.",
+          "descriptionEs": "Taberna folclórica en una casa de 1920 con un acogedor patio sombreado por una parra. Música cretense de lyra los vie/sáb por la noche. Carta tradicional — apaki, gamopilafo, antikristo.",
+          "petPolicy": "Dogs welcome in the courtyard",
+          "petPolicyFr": "Chiens admis dans la cour",
+          "petPolicyEs": "Perros admitidos en el patio",
+          "priceRange": "€€",
+          "mustTry": "Antikristo lamb, gamopilafo (wedding pilaf)",
+          "mustTryFr": "Agneau antikristo, gamopilafo (pilaf de mariage)",
+          "mustTryEs": "Cordero antikristo, gamopilafo (arroz de boda)",
+          "openingHours": "Daily 18:30–24:00",
+          "tip": "Reserve the courtyard for live-music nights. Bring sensitive dogs only outside music hours — the lyra can be loud.",
+          "tipFr": "Réservez la cour les soirs de musique. N'amenez les chiens sensibles que hors heures de musique — le lyra est fort.",
+          "tipEs": "Reserva el patio las noches con música en vivo. Lleva perros sensibles solo fuera de horas de música — el lyra suena fuerte.",
+          "googleMapsUrl": "https://maps.google.com/?q=Erganos+Heraklion"
+        }
+      ],
+      "tipsEn": [
+        "Cretan tavernas almost universally accept leashed dogs on terraces — a long-standing local norm.",
+        "House wine in copper or ceramic jugs is the cheapest way to drink local; ask for 'krasi tou spitiou'.",
+        "Free raki at the end of the meal is a Cretan tradition — your dog is not invited to share."
+      ],
+      "tipsFr": [
+        "Les tavernes crétoises acceptent quasi universellement les chiens en laisse en terrasse — norme locale ancienne.",
+        "Le vin maison en pichet cuivre/céramique est la boisson locale la moins chère ; demandez « krasi tou spitiou ».",
+        "Le raki offert en fin de repas est une tradition crétoise — votre chien n'est pas invité à partager."
+      ],
+      "tipsEs": [
+        "Las tabernas cretenses admiten casi universalmente perros con correa en terraza — norma local de larga data.",
+        "El vino de la casa en jarra de cobre o cerámica es la forma más barata de beber local; pide «krasi tou spitiou».",
+        "El raki gratis al final de la comida es tradición cretense — tu perro no está invitado a compartir."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Heraklion tavernas?",
+          "a": "Yes on most outdoor terraces. Cretan taverna culture is relaxed about leashed dogs outside. Indoor seating is rare in Heraklion summers — everyone eats outside, and dogs are welcomed by default."
+        },
+        {
+          "q": "Is service charge included in Greek restaurants?",
+          "a": "Service is included by law but locals leave a small cash tip (5–10%, rounded to the nearest euro). The free raki at the end is a goodwill gesture, not paid."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les tavernes d'Héraklion ?",
+          "a": "Oui sur la plupart des terrasses extérieures. La culture taverne crétoise est détendue avec les chiens en laisse en extérieur. L'intérieur est rare en été à Héraklion — tout le monde mange dehors, et les chiens y sont accueillis par défaut."
+        },
+        {
+          "q": "Le service est-il inclus dans les restaurants grecs ?",
+          "a": "Le service est inclus par la loi mais les locaux laissent un petit pourboire en espèces (5–10%, arrondi à l'euro le plus proche). Le raki offert en fin de repas est un geste de courtoisie, non payant."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en las tabernas de Heraklion?",
+          "a": "Sí en la mayoría de terrazas exteriores. La cultura de tabernas cretenses es relajada con perros con correa fuera. El interior es raro en verano en Heraklion — todo el mundo come fuera, y los perros son bienvenidos por defecto."
+        },
+        {
+          "q": "¿Está incluido el servicio en los restaurantes griegos?",
+          "a": "El servicio está incluido por ley pero los locales dejan una pequeña propina en efectivo (5–10%, redondeado al euro más cercano). El raki gratis al final de la comida es un gesto, no se paga."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Dog Parks & Walks in Heraklion — Venetian Walls & Coastal Path",
+      "titleFr": "Meilleurs parcs et promenades pour chiens à Héraklion — Murailles vénitiennes et front de mer",
+      "titleEs": "Mejores parques y paseos para perros en Heraklion — Murallas venecianas y paseo marítimo",
+      "introEn": "Heraklion has no major urban green space, but its 4 km Venetian wall walkway, the coastal promenade west toward Amoudara, and a small handful of fenced dog zones make daily walks pleasant year-round.",
+      "introFr": "Héraklion n'a pas de grand parc urbain, mais son chemin de ronde de 4 km sur les murailles vénitiennes, la promenade côtière vers Amoudara à l'ouest, et quelques zones canines clôturées rendent les promenades quotidiennes agréables toute l'année.",
+      "introEs": "Heraklion no tiene un gran parque urbano, pero su camino de ronda de 4 km sobre las murallas venecianas, el paseo costero hacia Amoudara al oeste y unas pocas zonas caninas valladas hacen los paseos diarios agradables todo el año.",
+      "places": [
+        {
+          "name": "Venetian Walls Walkway",
+          "address": "Periferiakou, 71202 Heraklion",
+          "neighborhood": "Around the old town",
+          "photo": "/images/city-places/heraklion-parks-venetian-walls-walkway.jpg",
+          "size": "Linear, 4 km loop",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "The largest preserved Venetian fortification in the Mediterranean (1462–1669), ringing the old town with seven bastions. The wide grassy ramparts form a 4 km elevated walking loop — the locals' favourite dog walk.",
+          "descriptionFr": "La plus grande fortification vénitienne préservée de Méditerranée (1462–1669), encerclant le centre historique de sept bastions. Les larges remparts herbeux forment une boucle marchable surélevée de 4 km — la promenade canine préférée des locaux.",
+          "descriptionEs": "La mayor fortificación veneciana conservada del Mediterráneo (1462–1669), rodeando el casco antiguo con siete baluartes. Las amplias murallas con hierba forman un circuito elevado de 4 km — el paseo canino favorito de los locales.",
+          "amenities": [
+            "Grass surface",
+            "Views of city + sea",
+            "Benches",
+            "Shaded sections"
+          ],
+          "amenitiesFr": [
+            "Surface herbeuse",
+            "Vues ville + mer",
+            "Bancs",
+            "Sections ombragées"
+          ],
+          "amenitiesEs": [
+            "Superficie de hierba",
+            "Vistas ciudad + mar",
+            "Bancos",
+            "Tramos sombreados"
+          ],
+          "tip": "Best at sunset for sea views over Koules fortress. The Martinengo Bastion is where Nikos Kazantzakis is buried — the inscription 'I hope for nothing, I fear nothing, I am free' makes a quiet pause.",
+          "tipFr": "Idéal au coucher du soleil pour les vues mer sur la forteresse Koules. Le Bastion Martinengo abrite la tombe de Nikos Kazantzakis — l'inscription « Je n'espère rien, je ne crains rien, je suis libre » offre une pause méditative.",
+          "tipEs": "Mejor al atardecer por las vistas al mar sobre la fortaleza Koules. El Baluarte Martinengo alberga la tumba de Nikos Kazantzakis — la inscripción «No espero nada, no temo nada, soy libre» invita a una pausa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Venetian+Walls+Heraklion"
+        },
+        {
+          "name": "Georgiadis Park (Pyle Chanion area)",
+          "address": "Plateia Eleftherias, 71202 Heraklion",
+          "neighborhood": "Centre",
+          "photo": "/images/city-places/heraklion-parks-georgiadis-park-pyle-chanion-area.jpg",
+          "size": "2 ha",
+          "leashRule": "Leash required",
+          "leashRuleFr": "Laisse obligatoire",
+          "leashRuleEs": "Correa obligatoria",
+          "description": "Small central park between Plateia Eleftherias and the Chanioporta gate. Mature plane trees, benches, a small playground. The closest green space inside the walls — a quick pee stop on the way to dinner.",
+          "descriptionFr": "Petit parc central entre la Plateia Eleftherias et la porte de Chania. Platanes matures, bancs, petite aire de jeux. Le plus proche espace vert intra-muros — pause rapide sur le chemin du dîner.",
+          "descriptionEs": "Pequeño parque central entre la Plateia Eleftherias y la puerta de Chania. Plátanos maduros, bancos, pequeña zona infantil. El espacio verde más cercano intra-muros — pausa rápida camino a la cena.",
+          "amenities": [
+            "Plane tree shade",
+            "Benches",
+            "Drinking fountain"
+          ],
+          "amenitiesFr": [
+            "Ombre des platanes",
+            "Bancs",
+            "Fontaine à eau"
+          ],
+          "amenitiesEs": [
+            "Sombra de plátanos",
+            "Bancos",
+            "Fuente de agua"
+          ],
+          "tip": "Useful afternoon shade in July–August when the rest of the city is baking. Drinking fountain works for dogs too.",
+          "tipFr": "Ombre utile l'après-midi en juillet–août quand le reste de la ville cuit. La fontaine fonctionne aussi pour les chiens.",
+          "tipEs": "Sombra útil por la tarde en julio–agosto cuando el resto de la ciudad se asa. La fuente sirve también para perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Georgiadis+Park+Heraklion"
+        },
+        {
+          "name": "Amoudara Coastal Path",
+          "address": "Amoudara, 71414 Heraklion",
+          "neighborhood": "West coastal suburb",
+          "photo": "/images/city-places/heraklion-parks-amoudara-coastal-path.jpg",
+          "size": "Linear, 5 km",
+          "leashRule": "Leash required on path; off-leash on signed dog beach zones",
+          "leashRuleFr": "Laisse sur le chemin ; sans laisse dans zones plage canine",
+          "leashRuleEs": "Correa en el sendero; sin correa en zonas de playa canina",
+          "description": "5 km coastal promenade from Heraklion's western edge to Amoudara — flat, breezy, with two signed Bau-Beach zones along the way. The dog social hub of the city.",
+          "descriptionFr": "Promenade côtière de 5 km depuis l'extrémité ouest d'Héraklion jusqu'à Amoudara — plate, ventée, avec deux zones Bau-Beach signalées en route. Le hub social canin de la ville.",
+          "descriptionEs": "Paseo costero de 5 km desde el extremo oeste de Heraklion hasta Amoudara — llano, ventoso, con dos zonas Bau-Beach señalizadas en el camino. El hub social canino de la ciudad.",
+          "amenities": [
+            "Flat path",
+            "Sea breeze",
+            "Two dog beach zones",
+            "Cafés along route"
+          ],
+          "amenitiesFr": [
+            "Chemin plat",
+            "Brise marine",
+            "Deux plages canines",
+            "Cafés sur le parcours"
+          ],
+          "amenitiesEs": [
+            "Camino llano",
+            "Brisa marina",
+            "Dos playas caninas",
+            "Cafés en el recorrido"
+          ],
+          "tip": "Bus 6 or 26 from the centre runs to Amoudara in 12 min — small dogs in carriers travel free.",
+          "tipFr": "Bus 6 ou 26 depuis le centre relie Amoudara en 12 min — petits chiens en sac gratuits.",
+          "tipEs": "Bus 6 o 26 desde el centro va a Amoudara en 12 min — perros pequeños en transportín gratis.",
+          "googleMapsUrl": "https://maps.google.com/?q=Amoudara+coastal+path"
+        }
+      ],
+      "tipsEn": [
+        "Greek municipal rules: dogs must be leashed in all urban public spaces; muzzle required for breeds on the dangerous-dogs list.",
+        "Dog waste bags are mandatory; fines up to 200 EUR for non-removal, increasingly enforced in tourist areas.",
+        "Summer heat is brutal — walk dogs before 09:00 or after 19:00 from June to early October."
+      ],
+      "tipsFr": [
+        "Règles municipales grecques : laisse obligatoire dans tous les espaces publics urbains ; muselière pour races sur la liste des chiens dangereux.",
+        "Sacs à déjections obligatoires ; amendes jusqu'à 200 € pour non-ramassage, de plus en plus appliquées en zones touristiques.",
+        "Chaleur estivale brutale — promenez les chiens avant 9h ou après 19h de juin à début octobre."
+      ],
+      "tipsEs": [
+        "Normas municipales griegas: correa obligatoria en todos los espacios públicos urbanos; bozal para razas en la lista de perros peligrosos.",
+        "Bolsas para residuos caninos obligatorias; multas hasta 200 € por no recogerlas, cada vez más aplicadas en zonas turísticas.",
+        "Calor estival brutal — pasea a los perros antes de las 09:00 o después de las 19:00 de junio a principios de octubre."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can my dog run off-leash in Heraklion?",
+          "a": "The Bau-Beach zones on the Amoudara coast are the main off-leash option — two signed sections allow swimming and running. There are no fenced urban dog parks inside the walls."
+        },
+        {
+          "q": "Can my dog walk on the Venetian walls?",
+          "a": "Yes, the wide grassy ramparts are a fully accessible 4 km loop open to leashed dogs. The Martinengo and Vitturi bastions are the most photogenic stops."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où mon chien peut-il courir sans laisse à Héraklion ?",
+          "a": "Les zones Bau-Beach sur la côte d'Amoudara sont l'option principale sans laisse — deux sections signalées autorisent baignade et course. Il n'y a pas de parcs canins clôturés intra-muros."
+        },
+        {
+          "q": "Mon chien peut-il marcher sur les murailles vénitiennes ?",
+          "a": "Oui, les larges remparts herbeux sont une boucle marchable de 4 km entièrement accessible aux chiens en laisse. Les bastions Martinengo et Vitturi sont les arrêts les plus photogéniques."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puede correr mi perro sin correa en Heraklion?",
+          "a": "Las zonas Bau-Beach en la costa de Amoudara son la opción principal sin correa — dos tramos señalizados permiten baño y carrera. No hay parques caninos vallados intra-muros."
+        },
+        {
+          "q": "¿Puede mi perro caminar por las murallas venecianas?",
+          "a": "Sí, las amplias murallas con hierba son un circuito de 4 km totalmente accesible para perros con correa. Los baluartes Martinengo y Vitturi son las paradas más fotogénicas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Pet-Friendly Transport in Heraklion — Bus, Ferry & KTEL",
+      "titleFr": "Transport pet-friendly à Héraklion — Bus, ferry et KTEL",
+      "titleEs": "Transporte pet-friendly en Heraklion — Autobús, ferry y KTEL",
+      "introEn": "Heraklion's compact walled centre walks in 20 minutes. Beyond, the KTEL bus network reaches every Crete village, ANEK/Minoan ferries connect Athens (Piraeus) overnight, and the airport (HER) is 6 km east.",
+      "introFr": "Le centre fortifié compact d'Héraklion se parcourt en 20 minutes. Au-delà, le réseau KTEL dessert chaque village de Crète, les ferries ANEK/Minoan relient Athènes (Le Pirée) de nuit, et l'aéroport (HER) est à 6 km à l'est.",
+      "introEs": "El compacto centro amurallado de Heraklion se cruza a pie en 20 minutos. Más allá, la red KTEL llega a cada pueblo de Creta, los ferries ANEK/Minoan conectan con Atenas (El Pireo) por la noche, y el aeropuerto (HER) está a 6 km al este.",
+      "places": [
+        {
+          "name": "Minoan / ANEK Lines Ferry",
+          "type": "Ferry",
+          "photo": "/images/city-places/heraklion-transport-minoan-anek-lines-ferry.jpg",
+          "website": "https://www.minoan.gr/",
+          "description": "Overnight ferry Piraeus (Athens) — Heraklion, departing 21:00, arriving 06:00. Pet-friendly cabins available on request. The most relaxed way to bring a dog from mainland Greece.",
+          "descriptionFr": "Ferry de nuit Le Pirée (Athènes) — Héraklion, départ 21h, arrivée 6h. Cabines pet-friendly sur demande. Le moyen le plus détendu d'amener un chien depuis la Grèce continentale.",
+          "descriptionEs": "Ferry nocturno El Pireo (Atenas) — Heraklion, salida 21:00, llegada 06:00. Camarotes pet-friendly bajo petición. La forma más relajada de llevar un perro desde Grecia continental.",
+          "petPolicy": "Pet-friendly cabins ~30 EUR supplement. Dogs must be leashed in public areas, kennel cage available on deck (free) for those without cabin.",
+          "petPolicyFr": "Cabines pet-friendly ~30 € de supplément. Chiens en laisse dans les espaces publics, cage chenil disponible sur le pont (gratuite) sans cabine.",
+          "petPolicyEs": "Camarotes pet-friendly ~30 € de suplemento. Perros con correa en zonas comunes, jaula disponible en cubierta (gratis) sin camarote.",
+          "tip": "Book the pet-cabin at the same time as your ticket — only 8 per ship, sell out in summer. Bring familiar bedding for the dog.",
+          "tipFr": "Réservez la cabine animaux en même temps que le billet — seulement 8 par bateau, complètes en été. Apportez une couverture familière au chien.",
+          "tipEs": "Reserva el camarote mascota a la vez que el billete — solo 8 por barco, se llenan en verano. Lleva una manta familiar para el perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heraklion+Port"
+        },
+        {
+          "name": "KTEL Crete Buses",
+          "type": "Regional bus",
+          "photo": "/images/city-places/heraklion-transport-ktel-crete-buses.jpg",
+          "website": "https://www.ktelherlas.gr/",
+          "description": "Cretan inter-city and village bus network. Direct lines to Chania (3h), Rethymno (1h30), Agios Nikolaos (1h15), and Knossos (20 min). Departures from the main Heraklion bus station near the harbour.",
+          "descriptionFr": "Réseau inter-cités et villages crétois. Lignes directes pour La Canée (3h), Rethymnon (1h30), Agios Nikolaos (1h15), Knossos (20 min). Départs depuis la gare routière principale près du port.",
+          "descriptionEs": "Red de autobuses inter-ciudades y pueblos cretenses. Líneas directas a Chania (3h), Rethymno (1h30), Agios Nikolaos (1h15), Knosos (20 min). Salidas desde la estación principal junto al puerto.",
+          "petPolicy": "Small dogs in carriers travel free. Larger dogs at driver's discretion (rare; some refuse).",
+          "petPolicyFr": "Petits chiens en sac gratuits. Chiens plus grands à la discrétion du chauffeur (rare ; certains refusent).",
+          "petPolicyEs": "Perros pequeños en transportín gratis. Perros más grandes a discreción del conductor (raro; algunos rechazan).",
+          "tip": "Bus 2 from Heraklion centre to Knossos every 15 min — the easiest day trip with a dog, but Knossos archaeological site doesn't admit pets.",
+          "tipFr": "Bus 2 centre Héraklion–Knossos toutes les 15 min — sortie la plus simple avec un chien, mais le site archéologique n'admet pas les animaux.",
+          "tipEs": "Bus 2 centro Heraklion–Knosos cada 15 min — la excursión más fácil con perro, pero el sitio arqueológico no admite mascotas.",
+          "googleMapsUrl": "https://maps.google.com/?q=KTEL+Heraklion"
+        },
+        {
+          "name": "Taxi Heraklion",
+          "type": "Taxi",
+          "photo": "/images/city-places/heraklion-transport-taxi-heraklion.jpg",
+          "website": "",
+          "description": "Local taxi cooperatives serving the city, airport (12 EUR fixed fare), and Knossos. FreeNow operates here; private transfer companies handle Cretan day trips.",
+          "descriptionFr": "Coopératives de taxis locales desservant la ville, l'aéroport (tarif fixe 12 €) et Knossos. FreeNow opère ici ; sociétés privées pour les excursions crétoises.",
+          "descriptionEs": "Cooperativas locales de taxis que cubren la ciudad, aeropuerto (tarifa fija 12 €) y Knosos. FreeNow opera aquí; empresas privadas para excursiones cretenses.",
+          "petPolicy": "Small dogs in carriers almost always accepted; larger dogs require advance request when booking by phone.",
+          "petPolicyFr": "Petits chiens en sac presque toujours acceptés ; grands chiens à demander à l'avance par téléphone.",
+          "petPolicyEs": "Perros pequeños en transportín casi siempre admitidos; perros grandes pedirlos por teléfono.",
+          "tip": "Call +30 2810 210 102 to book in advance. Heraklion taxis are metered but airport/port fixed fares are clearly posted.",
+          "tipFr": "Appelez +30 2810 210 102 pour réserver à l'avance. Taxis au compteur, mais tarifs fixes aéroport/port clairement affichés.",
+          "tipEs": "Llama al +30 2810 210 102 para reservar con antelación. Los taxis tienen contador, pero las tarifas fijas aeropuerto/puerto están claras.",
+          "googleMapsUrl": "https://maps.google.com/?q=Taxi+Heraklion"
+        }
+      ],
+      "tipsEn": [
+        "Heraklion has no metro or tram — buses and taxis cover urban transit. The walled centre is fully walkable.",
+        "Heraklion HER airport is 6 km east — bus 1 every 15 min (1.80 EUR), taxi 12 EUR fixed.",
+        "Athens (Piraeus) overnight ferry is far easier than flying with a medium/large dog — cabin + sleep + arrive rested."
+      ],
+      "tipsFr": [
+        "Héraklion n'a ni métro ni tram — bus et taxis couvrent les déplacements urbains. Le centre fortifié se parcourt entièrement à pied.",
+        "L'aéroport HER est à 6 km à l'est — bus 1 toutes les 15 min (1,80 €), taxi 12 € forfaitaire.",
+        "Le ferry de nuit Athènes (Pirée) est bien plus simple que l'avion avec un chien moyen/grand — cabine + sommeil + arrivée reposé."
+      ],
+      "tipsEs": [
+        "Heraklion no tiene metro ni tranvía — autobuses y taxis cubren el transporte urbano. El centro amurallado se cruza entero a pie.",
+        "El aeropuerto HER está a 6 km al este — bus 1 cada 15 min (1,80 €), taxi 12 € fijo.",
+        "El ferry nocturno desde Atenas (Pireo) es mucho más fácil que volar con perro mediano/grande — camarote + sueño + llegada descansados."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog on the Athens–Heraklion ferry?",
+          "a": "Yes. Minoan Lines and ANEK Lines both offer pet-friendly cabins for ~30 EUR supplement, with 8 per ship. Outside cabin, dogs travel in deck kennel cages (free). Book early in summer."
+        },
+        {
+          "q": "How do I get from Heraklion airport to the centre with a dog?",
+          "a": "Bus 1 runs every 15 min from outside the terminal to Plateia Eleftherias (1.80 EUR, small dogs in carrier free). Taxi is 12 EUR fixed fare — call ahead for a large dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur le ferry Athènes–Héraklion ?",
+          "a": "Oui. Minoan Lines et ANEK Lines proposent des cabines pet-friendly pour ~30 € de supplément, 8 par bateau. Hors cabine, les chiens voyagent en cage sur le pont (gratuit). Réservez tôt en été."
+        },
+        {
+          "q": "Comment aller de l'aéroport d'Héraklion au centre avec un chien ?",
+          "a": "Bus 1 toutes les 15 min depuis devant le terminal jusqu'à Plateia Eleftherias (1,80 €, petits chiens en sac gratuits). Taxi à tarif fixe 12 € — appelez avant pour un grand chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry Atenas–Heraklion?",
+          "a": "Sí. Minoan Lines y ANEK Lines ofrecen camarotes pet-friendly por ~30 € de suplemento, 8 por barco. Fuera del camarote, los perros viajan en jaula en cubierta (gratis). Reserva pronto en verano."
+        },
+        {
+          "q": "¿Cómo voy del aeropuerto de Heraklion al centro con perro?",
+          "a": "Bus 1 cada 15 min desde la terminal hasta Plateia Eleftherias (1,80 €, perros pequeños en transportín gratis). Taxi a tarifa fija 12 € — llama antes para perro grande."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Heraklion — Bau-Beaches & Quiet Coves",
+      "titleFr": "Plages dog-friendly près d'Héraklion — Bau-Beaches et criques calmes",
+      "titleEs": "Playas pet-friendly cerca de Heraklion — Bau-Beaches y calas tranquilas",
+      "introEn": "Heraklion has signed Bau-Beach (dog beach) zones at Amoudara west and Karteros east of town — both year-round. For untouched coves, drive 30 min east to Agia Pelagia or 45 min south-west to Matala.",
+      "introFr": "Héraklion dispose de zones Bau-Beach (plage canine) signalées à Amoudara à l'ouest et Karteros à l'est — toutes deux ouvertes toute l'année. Pour des criques préservées, comptez 30 min vers l'est jusqu'à Agia Pelagia ou 45 min vers le sud-ouest jusqu'à Matala.",
+      "introEs": "Heraklion tiene zonas Bau-Beach (playa canina) señalizadas en Amoudara al oeste y Karteros al este de la ciudad — ambas todo el año. Para calas vírgenes, 30 min en coche al este hasta Agia Pelagia o 45 min al suroeste hasta Matala.",
+      "places": [
+        {
+          "name": "Amoudara Bau-Beach",
+          "address": "Amoudara, 71414 Heraklion",
+          "photo": "/images/city-places/heraklion-beaches-amoudara-bau-beach.jpg",
+          "leashRule": "Off-leash inside the signed dog zone",
+          "leashRuleFr": "Sans laisse dans la zone canine signalée",
+          "leashRuleEs": "Sin correa en la zona canina señalizada",
+          "description": "The closest official dog beach to the centre, 5 km west. Sandy with a gentle slope, signed Bau-Beach zone of about 300 m. Open year-round, busiest May–September.",
+          "descriptionFr": "La plage canine officielle la plus proche du centre, à 5 km à l'ouest. Sable à pente douce, zone Bau-Beach signalée d'environ 300 m. Ouverte toute l'année, plus fréquentée de mai à septembre.",
+          "descriptionEs": "La playa canina oficial más cercana al centro, a 5 km al oeste. Arena con pendiente suave, zona Bau-Beach señalizada de unos 300 m. Abierta todo el año, más concurrida de mayo a septiembre.",
+          "amenities": [
+            "Signed dog zone",
+            "Sandy entry",
+            "Showers nearby",
+            "Cafés"
+          ],
+          "amenitiesFr": [
+            "Zone canine signalée",
+            "Accès sable",
+            "Douches à proximité",
+            "Cafés"
+          ],
+          "amenitiesEs": [
+            "Zona canina señalizada",
+            "Acceso de arena",
+            "Duchas cerca",
+            "Cafés"
+          ],
+          "tip": "Bus 6 or 26 from Plateia Eleftherias every 20 min. The Bau-Beach is at the western end — walk 10 min along the promenade from the bus stop.",
+          "tipFr": "Bus 6 ou 26 depuis Plateia Eleftherias toutes les 20 min. La Bau-Beach est à l'extrémité ouest — 10 min de marche depuis l'arrêt.",
+          "tipEs": "Bus 6 o 26 desde Plateia Eleftherias cada 20 min. La Bau-Beach está en el extremo oeste — 10 min andando desde la parada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Amoudara+Bau+Beach"
+        },
+        {
+          "name": "Karteros Beach",
+          "address": "Karteros, 71500 Heraklion",
+          "photo": "/images/city-places/heraklion-beaches-karteros-beach.jpg",
+          "leashRule": "Off-leash on the eastern half year-round",
+          "leashRuleFr": "Sans laisse moitié est toute l'année",
+          "leashRuleEs": "Sin correa mitad este todo el año",
+          "description": "Long, less-developed beach 7 km east of Heraklion. The eastern half functions as the de facto dog beach — locals walk dogs off-leash here daily. Sandy, with cedar trees as backdrop.",
+          "descriptionFr": "Longue plage moins aménagée à 7 km à l'est d'Héraklion. La moitié est fait office de plage canine — les locaux y promènent les chiens sans laisse au quotidien. Sable, fond de cèdres.",
+          "descriptionEs": "Larga playa menos urbanizada a 7 km al este de Heraklion. La mitad este funciona como playa canina de facto — los locales pasean perros sin correa aquí a diario. Arena, cedros de fondo.",
+          "amenities": [
+            "Sand",
+            "Cedar shade",
+            "Parking",
+            "Quiet"
+          ],
+          "amenitiesFr": [
+            "Sable",
+            "Ombre des cèdres",
+            "Parking",
+            "Calme"
+          ],
+          "amenitiesEs": [
+            "Arena",
+            "Sombra de cedros",
+            "Aparcamiento",
+            "Tranquilo"
+          ],
+          "tip": "Park at the eastern lot (Karteros II). Less busy than Amoudara, perfect for shy dogs.",
+          "tipFr": "Garez-vous au parking est (Karteros II). Moins fréquentée qu'Amoudara, parfaite pour les chiens timides.",
+          "tipEs": "Aparca en el aparcamiento este (Karteros II). Menos concurrida que Amoudara, perfecta para perros tímidos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Karteros+Beach+Heraklion"
+        },
+        {
+          "name": "Agia Pelagia (Mononaftis cove)",
+          "address": "Agia Pelagia, 71500 Heraklion",
+          "photo": "/images/city-places/heraklion-beaches-agia-pelagia-mononaftis-cove.jpg",
+          "leashRule": "No specific dog rule; common sense",
+          "leashRuleFr": "Pas de règle canine spécifique ; bon sens",
+          "leashRuleEs": "Sin norma canina específica; sentido común",
+          "description": "Resort village 25 km north-west, with the small Mononaftis cove 1 km north of the main beach — pebble shore, crystal water, no umbrellas. Dogs welcome by default in this quieter cove.",
+          "descriptionFr": "Village balnéaire à 25 km au nord-ouest, avec la petite crique de Mononaftis à 1 km au nord de la plage principale — galets, eau cristalline, sans parasols. Chiens admis par défaut dans cette crique calme.",
+          "descriptionEs": "Pueblo costero a 25 km al noroeste, con la pequeña cala Mononaftis a 1 km al norte de la playa principal — guijarros, agua cristalina, sin sombrillas. Perros admitidos por defecto en esta cala tranquila.",
+          "amenities": [
+            "Pebble shore",
+            "Crystal water",
+            "Tavernas nearby"
+          ],
+          "amenitiesFr": [
+            "Galets",
+            "Eau cristalline",
+            "Tavernes à proximité"
+          ],
+          "amenitiesEs": [
+            "Guijarros",
+            "Aguas cristalinas",
+            "Tabernas cerca"
+          ],
+          "tip": "30 min by car (rental needed; no direct bus). Bring water shoes for the pebbles. Avoid Mononaftis in July weekends — locals discover it too.",
+          "tipFr": "30 min en voiture (location requise ; pas de bus direct). Prévoyez des chaussures aquatiques. Évitez Mononaftis le week-end en juillet — les locaux la connaissent aussi.",
+          "tipEs": "30 min en coche (alquiler necesario; sin bus directo). Lleva escarpines. Evita Mononaftis fines de semana de julio — los locales también la conocen.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mononaftis+Beach+Crete"
+        }
+      ],
+      "tipsEn": [
+        "Greek law (since 2020): municipalities must designate Bau-Beach zones; Heraklion has two — Amoudara west and Karteros east.",
+        "Outside designated zones, dogs are banned from lifeguarded beaches June–September, but allowed on quiet unmonitored coves year-round.",
+        "Mediterranean sun is fierce — paw burns are real. Walk on wet sand, not dry, between 11:00 and 17:00 in summer."
+      ],
+      "tipsFr": [
+        "Loi grecque (depuis 2020) : les communes doivent désigner des zones Bau-Beach ; Héraklion en compte deux — Amoudara ouest et Karteros est.",
+        "Hors zones désignées, chiens interdits sur plages surveillées de juin à septembre, mais admis sur criques calmes non surveillées toute l'année.",
+        "Le soleil méditerranéen est féroce — les brûlures de coussinets sont réelles. Marchez sur sable mouillé, pas sec, entre 11h et 17h en été."
+      ],
+      "tipsEs": [
+        "Ley griega (desde 2020): los municipios deben designar zonas Bau-Beach; Heraklion tiene dos — Amoudara oeste y Karteros este.",
+        "Fuera de zonas designadas, los perros están prohibidos en playas vigiladas de junio a septiembre, pero admitidos en calas tranquilas no vigiladas todo el año.",
+        "El sol mediterráneo es feroz — las quemaduras de almohadillas son reales. Camina sobre arena mojada, no seca, entre 11:00 y 17:00 en verano."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs swim in Heraklion?",
+          "a": "The official Bau-Beach zones at Amoudara (5 km west) and Karteros (7 km east) are the safest year-round options. For quieter swims, Mononaftis cove near Agia Pelagia (25 km north-west) and any small unmonitored cove on the south coast also work."
+        },
+        {
+          "q": "Is the Aegean clean enough for dogs?",
+          "a": "Yes. Cretan coastal waters consistently meet EU bathing-water standards. Heraklion's main bay can show some algae after long calms — check visually before letting your dog in."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils nager à Héraklion ?",
+          "a": "Les zones Bau-Beach officielles d'Amoudara (5 km à l'ouest) et Karteros (7 km à l'est) sont les options les plus sûres toute l'année. Pour des baignades plus calmes, la crique de Mononaftis près d'Agia Pelagia (25 km au nord-ouest) ou n'importe quelle petite crique non surveillée de la côte sud."
+        },
+        {
+          "q": "L'Égée est-elle assez propre pour les chiens ?",
+          "a": "Oui. Les eaux côtières crétoises respectent systématiquement les normes UE de baignade. La baie principale d'Héraklion peut présenter des algues après de longs calmes — vérifiez visuellement avant."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden bañarse los perros en Heraklion?",
+          "a": "Las zonas Bau-Beach oficiales de Amoudara (5 km al oeste) y Karteros (7 km al este) son las opciones más seguras todo el año. Para baños más tranquilos, la cala Mononaftis cerca de Agia Pelagia (25 km al noroeste) o cualquier cala pequeña no vigilada de la costa sur."
+        },
+        {
+          "q": "¿Es el Egeo lo bastante limpio para los perros?",
+          "a": "Sí. Las aguas costeras cretenses cumplen sistemáticamente las normas UE de baño. La bahía principal de Heraklion puede mostrar algas tras largas calmas — comprueba visualmente antes."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets [24h] in Heraklion — Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence [24h/24] à Héraklion — Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias [24h] en Heraklion — Hospitales y clínicas veterinarias",
+      "introEn": "Heraklion has the strongest veterinary coverage in Crete thanks to the regional veterinary association. One 24/7 emergency clinic and several daytime practices serve the city and Cretan visitors.",
+      "introFr": "Héraklion dispose de la meilleure couverture vétérinaire de Crète grâce à l'association vétérinaire régionale. Une clinique d'urgences 24h/24 et plusieurs cabinets de jour desservent la ville et les visiteurs de Crète.",
+      "introEs": "Heraklion cuenta con la mejor cobertura veterinaria de Creta gracias a la asociación veterinaria regional. Una clínica de urgencias 24h y varias consultas diurnas atienden a la ciudad y a los visitantes cretenses.",
+      "places": [
+        {
+          "name": "Heraklion Veterinary Hospital (24h)",
+          "address": "Leoforos Knossou 285, 71409 Heraklion",
+          "photo": "/images/city-places/heraklion-vets-heraklion-veterinary-hospital-24h.jpg",
+          "phone": "+30 2810 230 100",
+          "emergency24h": true,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "Largest 24/7 emergency hospital in Crete, on the Knossos road 3 km south of the centre. Surgery, ICU, imaging (X-ray, ultrasound), inpatient wards. Serves all Crete.",
+          "descriptionFr": "Plus grand hôpital d'urgences 24h/24 de Crète, sur la route de Knossos à 3 km au sud du centre. Chirurgie, USI, imagerie (radio, écho), hospitalisation. Dessert toute la Crète.",
+          "descriptionEs": "El mayor hospital de urgencias 24h de Creta, en la carretera de Knosos a 3 km al sur del centro. Cirugía, UCI, imagen (rayos X, ecografía), hospitalización. Atiende toda Creta.",
+          "openingHours": "24/7 emergency",
+          "tip": "Call ahead — the reception staff speaks English. Triage prepped before you arrive.",
+          "tipFr": "Appelez avant — l'accueil parle anglais. Triage préparé avant votre arrivée.",
+          "tipEs": "Llama antes — recepción habla inglés. Triaje preparado antes de tu llegada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Heraklion+Veterinary+Hospital"
+        },
+        {
+          "name": "Vet Clinic Heraklion Centre",
+          "address": "Leoforos Dimokratias 87, 71306 Heraklion",
+          "photo": "/images/city-places/heraklion-vets-vet-clinic-heraklion-centre.jpg",
+          "phone": "+30 2810 250 400",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "Centrally located daytime clinic 10 min walk south of Plateia Eleftherias. Vaccinations, microchipping, routine care, pre-travel checks. Convenient for tourists.",
+          "descriptionFr": "Cabinet de jour central à 10 min à pied au sud de Plateia Eleftherias. Vaccins, puçage, soins courants, contrôles avant voyage. Pratique pour touristes.",
+          "descriptionEs": "Clínica diurna céntrica a 10 min a pie al sur de Plateia Eleftherias. Vacunas, microchip, atención rutinaria, revisiones previas al viaje. Cómoda para turistas.",
+          "openingHours": "Mon–Fri 09:00–13:00, 17:00–20:30; Sat 09:00–13:00",
+          "tip": "Greek vets close 13:00–17:00 — plan ahead. Walk-ins accepted for vaccinations.",
+          "tipFr": "Les vétérinaires grecs ferment de 13h à 17h — anticipez. Sans rdv accepté pour vaccinations.",
+          "tipEs": "Los veterinarios griegos cierran 13:00–17:00 — anticípate. Sin cita para vacunaciones.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+Clinic+Heraklion+Centre"
+        },
+        {
+          "name": "Cretan Animal Welfare Centre",
+          "address": "Knossos road, 71500 Heraklion",
+          "photo": "/images/city-places/heraklion-vets-cretan-animal-welfare-centre.jpg",
+          "phone": "+30 2810 380 220",
+          "emergency24h": false,
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "website": "",
+          "description": "NGO veterinary clinic near Knossos, focused on stray care but accepts pet emergencies on a fee basis. Useful overflow option when the main hospital is full.",
+          "descriptionFr": "Clinique vétérinaire ONG près de Knossos, axée sur les errants mais accepte les urgences animaux contre paiement. Option utile quand l'hôpital principal est plein.",
+          "descriptionEs": "Clínica veterinaria ONG cerca de Knosos, centrada en callejeros pero acepta urgencias de mascotas por pago. Opción útil cuando el hospital principal está lleno.",
+          "openingHours": "Mon–Fri 10:00–14:00",
+          "tip": "Cash donations welcome — they punch above their weight in Cretan animal welfare.",
+          "tipFr": "Dons en espèces bienvenus — l'association joue un grand rôle dans le bien-être animal crétois.",
+          "tipEs": "Donaciones en efectivo bienvenidas — la asociación tiene gran peso en el bienestar animal cretense.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cretan+Animal+Welfare+Centre"
+        }
+      ],
+      "tipsEn": [
+        "Greece requires an EU pet passport (or AHC) plus microchip and rabies vaccination ≥21 days old for cross-border travel.",
+        "Leishmaniasis is endemic in Crete — annual blood test recommended for visiting dogs from non-endemic areas.",
+        "Greek vets close 13:00–17:00 daily (siesta) — schedule consultations accordingly."
+      ],
+      "tipsFr": [
+        "La Grèce exige un passeport européen (ou AHC) + puce + vaccin rage ≥21 jours pour les voyages transfrontaliers.",
+        "La leishmaniose est endémique en Crète — test sanguin annuel recommandé pour les chiens visiteurs venant de zones non endémiques.",
+        "Les vétérinaires grecs ferment 13h–17h quotidiennement (sieste) — planifiez les consultations en conséquence."
+      ],
+      "tipsEs": [
+        "Grecia exige pasaporte europeo (o AHC) + microchip + vacuna rabia ≥21 días para viajes transfronterizos.",
+        "La leishmaniosis es endémica en Creta — análisis de sangre anual recomendado para perros visitantes de zonas no endémicas.",
+        "Los veterinarios griegos cierran 13:00–17:00 a diario (siesta) — planifica las consultas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Heraklion?",
+          "a": "Yes — Heraklion Veterinary Hospital on Knossos road, 3 km south of the centre, operates 24/7 with full emergency capability. Largest facility in Crete; call ahead for triage when possible."
+        },
+        {
+          "q": "How much does a vet visit cost in Heraklion?",
+          "a": "Greek vet fees are among Europe's most affordable: routine consultation 25–40 EUR, emergency visit 60–110 EUR plus diagnostics. Major surgeries 400–1500 EUR. EU pet insurance accepted."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 à Héraklion ?",
+          "a": "Oui — Heraklion Veterinary Hospital sur la route de Knossos, à 3 km au sud du centre, ouvre 24h/24 avec capacité d'urgence complète. Plus grande structure de Crète ; appelez avant pour le triage si possible."
+        },
+        {
+          "q": "Combien coûte une visite vétérinaire à Héraklion ?",
+          "a": "Les tarifs vétérinaires grecs sont parmi les plus abordables d'Europe : consultation classique 25–40 €, urgence 60–110 € + diagnostic. Chirurgies majeures 400–1500 €. Assurances animales européennes acceptées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario 24h en Heraklion?",
+          "a": "Sí — Heraklion Veterinary Hospital en la carretera de Knosos, a 3 km al sur del centro, abre 24h con capacidad de urgencia completa. La mayor instalación de Creta; llama antes para triaje cuando puedas."
+        },
+        {
+          "q": "¿Cuánto cuesta una visita veterinaria en Heraklion?",
+          "a": "Las tarifas veterinarias griegas están entre las más asequibles de Europa: consulta rutinaria 25–40 €, urgencia 60–110 € + diagnósticos. Cirugías mayores 400–1500 €. Seguros de mascotas de la UE aceptados."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Travel Tips for Heraklion with Your Dog",
+      "titleFr": "Conseils de voyage à Héraklion avec votre chien",
+      "titleEs": "Consejos de viaje a Heraklion con tu perro",
+      "introEn": "Heraklion is one of the easiest Greek cities for dogs: compact walled centre, year-round mild climate, two signed Bau-Beach zones, and a relaxed taverna culture. The main constraints are summer heat (28–32 °C in July–August) and Knossos archaeological site access.",
+      "introFr": "Héraklion est l'une des villes grecques les plus faciles avec un chien : centre fortifié compact, climat doux toute l'année, deux zones Bau-Beach signalées et culture taverne détendue. Les seules contraintes sont la chaleur estivale (28–32 °C en juillet–août) et l'accès au site archéologique de Knossos.",
+      "introEs": "Heraklion es una de las ciudades griegas más fáciles para perros: centro amurallado compacto, clima suave todo el año, dos zonas Bau-Beach señalizadas y cultura de taberna relajada. Las únicas limitaciones son el calor estival (28–32 °C en julio–agosto) y el acceso al sitio arqueológico de Knosos.",
+      "places": [
+        {
+          "name": "Best season",
+          "photo": "/images/city-places/heraklion-tips-best-season.jpg",
+          "description": "April–June and September–October are ideal: 18–26 °C, dry, sea at swimmable temperature. Avoid July–August (28–32 °C with intense sun, tourist crowds) and December–January (rainy, some tavernas seasonally closed).",
+          "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 18–26 °C, sec, mer à température de baignade. Évitez juillet–août (28–32 °C avec soleil intense, foule touristique) et décembre–janvier (pluvieux, certaines tavernes fermées saisonnièrement).",
+          "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 18–26 °C, seco, mar a temperatura de baño. Evita julio–agosto (28–32 °C con sol intenso, multitudes turísticas) y diciembre–enero (lluvioso, algunas tabernas cerradas por temporada)."
+        },
+        {
+          "name": "Knossos with a dog",
+          "photo": "/images/city-places/heraklion-tips-knossos-with-a-dog.jpg",
+          "description": "The Minoan palace of Knossos (4 km south) is Crete's flagship site — and the Greek Ministry of Culture bans dogs from all archaeological sites except assistance dogs. Book a Pawshake sitter for 2–3 hours during the visit, or take turns if you travel as a couple.",
+          "descriptionFr": "Le palais minoen de Knossos (4 km au sud) est le site phare de Crète — et le ministère grec de la Culture interdit les chiens dans tous les sites archéologiques sauf chiens d'assistance. Réservez un sitter Pawshake pendant 2–3h, ou alternez avec votre conjoint·e si vous voyagez en couple.",
+          "descriptionEs": "El palacio minoico de Knosos (4 km al sur) es el sitio estrella de Creta — y el ministerio griego de Cultura prohíbe perros en todos los sitios arqueológicos salvo perros de asistencia. Reserva un cuidador Pawshake durante 2–3h, o turnaos con tu pareja si viajáis en pareja."
+        },
+        {
+          "name": "Currency & cost",
+          "photo": "/images/city-places/heraklion-tips-currency-cost.jpg",
+          "description": "Greece uses the euro. Heraklion is among Greece's cheapest cities: meal 14–24 EUR, taverna mezedes 4–8 EUR/plate, mid-range pet-friendly hotel 80–145 EUR/night, taxi airport to centre 12 EUR fixed fare.",
+          "descriptionFr": "La Grèce utilise l'euro. Héraklion est parmi les villes les moins chères de Grèce : repas 14–24 €, mezedes 4–8 €/plat, hôtel pet-friendly milieu de gamme 80–145 €/nuit, taxi aéroport-centre 12 € tarif fixe.",
+          "descriptionEs": "Grecia usa el euro. Heraklion está entre las ciudades más baratas de Grecia: comida 14–24 €, mezedes 4–8 €/plato, hotel pet-friendly de gama media 80–145 €/noche, taxi aeropuerto–centro 12 € tarifa fija."
+        }
+      ],
+      "tipsEn": [
+        "Plateia Eleftherias is the navigational centre — most pet-friendly hotels are within 5 min walk.",
+        "Greek dinner times are late (21:00–23:00); aperitivo-style meze at 19:00 is the dog-friendly alternative.",
+        "Always carry water — Cretan summer heat kills dogs every year; refill at any taverna for free."
+      ],
+      "tipsFr": [
+        "Plateia Eleftherias est le repère central — la plupart des hôtels pet-friendly sont à moins de 5 min à pied.",
+        "Les horaires de dîner grecs sont tardifs (21h–23h) ; meze à 19h est l'alternative dog-friendly.",
+        "Apportez toujours de l'eau — la chaleur estivale crétoise tue des chiens chaque année ; remplissez gratuitement à toute taverne."
+      ],
+      "tipsEs": [
+        "Plateia Eleftherias es la referencia central — la mayoría de hoteles pet-friendly están a menos de 5 min a pie.",
+        "Los horarios de cena griegos son tardíos (21:00–23:00); meze a las 19:00 es la alternativa dog-friendly.",
+        "Lleva siempre agua — el calor estival cretense mata perros cada año; rellena gratis en cualquier taberna."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Heraklion dog-friendly overall?",
+          "a": "Yes. Cretan taverna culture welcomes dogs on terraces, two signed Bau-Beach zones offer year-round swimming, and a 24/7 emergency vet covers the island. The walled centre is compact and walkable. Heat in July–August is the only real constraint."
+        },
+        {
+          "q": "Can I visit Knossos with my dog?",
+          "a": "No. All Greek archaeological sites (Knossos, Acropolis, Delphi etc.) prohibit pets except assistance dogs. The flat archaeological park around Knossos village is open with dogs, but the actual palace site is fenced and ticketed without pet access."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Héraklion est-elle dog-friendly globalement ?",
+          "a": "Oui. La culture taverne crétoise accueille les chiens en terrasse, deux zones Bau-Beach signalées offrent une baignade toute l'année, et un vétérinaire d'urgences 24h/24 couvre l'île. Le centre fortifié est compact et marchable. La chaleur en juillet–août est la seule vraie contrainte."
+        },
+        {
+          "q": "Puis-je visiter Knossos avec mon chien ?",
+          "a": "Non. Tous les sites archéologiques grecs (Knossos, Acropole, Delphes etc.) interdisent les animaux sauf chiens d'assistance. Le parc archéologique plat autour du village de Knossos est accessible aux chiens, mais le site du palais est clôturé et payant sans accès animaux."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Heraklion pet-friendly en general?",
+          "a": "Sí. La cultura de tabernas cretense admite perros en terrazas, dos zonas Bau-Beach señalizadas ofrecen baño todo el año, y un veterinario de urgencias 24h cubre la isla. El centro amurallado es compacto y caminable. El calor de julio–agosto es la única limitación real."
+        },
+        {
+          "q": "¿Puedo visitar Knosos con mi perro?",
+          "a": "No. Todos los sitios arqueológicos griegos (Knosos, Acrópolis, Delfos, etc.) prohíben mascotas salvo perros de asistencia. El parque arqueológico llano alrededor del pueblo de Knosos admite perros, pero el sitio del palacio está vallado y de pago sin acceso a mascotas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Top Pet-Friendly Attractions in Heraklion — Walls, Harbour & Old Town",
+      "titleFr": "Meilleures attractions pet-friendly à Héraklion — Murailles, port et vieille ville",
+      "titleEs": "Mejores atracciones pet-friendly en Heraklion — Murallas, puerto y casco antiguo",
+      "introEn": "Heraklion's old town is best experienced as an outdoor architectural walk — perfect with a leashed dog. The Venetian walls, the harbour fortress and the alleys are all dog-accessible; only the Archaeological Museum and Knossos site prohibit pets.",
+      "introFr": "Le centre historique d'Héraklion se découvre en promenade architecturale extérieure — parfait avec un chien en laisse. Les murailles vénitiennes, la forteresse du port et les ruelles sont accessibles aux chiens ; seuls le Musée Archéologique et le site de Knossos interdisent les animaux.",
+      "introEs": "El casco antiguo de Heraklion se disfruta como paseo arquitectónico al aire libre — perfecto con perro con correa. Las murallas venecianas, la fortaleza del puerto y las callejuelas son accesibles a perros; solo el Museo Arqueológico y el sitio de Knosos prohíben mascotas.",
+      "places": [
+        {
+          "name": "Koules Fortress",
+          "address": "Old Harbour, 71202 Heraklion",
+          "photo": "/images/city-places/heraklion-attractions-koules-fortress.jpg",
+          "petFriendly": false,
+          "description": "Iconic 16th-century Venetian harbour fortress, symbol of the city. Dogs not allowed inside the interior tour, but the surrounding pier and harbour promenade are fully accessible.",
+          "descriptionFr": "Iconique forteresse vénitienne du port (XVIe siècle), symbole de la ville. Chiens interdits à l'intérieur, mais la jetée et la promenade portuaire alentour sont entièrement accessibles.",
+          "descriptionEs": "Icónica fortaleza veneciana del puerto (s. XVI), símbolo de la ciudad. No se admiten perros en el interior, pero el muelle y el paseo portuario alrededor son totalmente accesibles.",
+          "petPolicy": "No dogs inside; harbour pier accessible",
+          "petPolicyFr": "Chiens interdits à l'intérieur ; jetée accessible",
+          "petPolicyEs": "Sin perros en el interior; muelle accesible",
+          "openingHours": "Interior: Tue–Sun 08:00–18:00 summer, 08:30–15:30 winter",
+          "tip": "The 500 m pier walk out to the fortress with sea views on both sides is the city's most photogenic dog walk. Sunset light hits the fortress walls golden around 19:30 in summer.",
+          "tipFr": "Le chemin de 500 m vers la forteresse avec vues mer des deux côtés est la promenade canine la plus photogénique. La lumière du couchant dore les murs vers 19h30 en été.",
+          "tipEs": "El paseo de 500 m hasta la fortaleza con vistas al mar a ambos lados es el paseo canino más fotogénico. La luz del atardecer dora las murallas hacia las 19:30 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Koules+Fortress+Heraklion"
+        },
+        {
+          "name": "Lions Square & Morosini Fountain",
+          "address": "Plateia Eleftheriou Venizelou, 71202 Heraklion",
+          "photo": "/images/city-places/heraklion-attractions-lions-square-morosini-fountain.jpg",
+          "petFriendly": true,
+          "description": "The city's social heart — central pedestrian square with the 1628 Morosini Fountain (four lions, Venetian-era). Surrounded by cafés that all accept dogs on terraces.",
+          "descriptionFr": "Le cœur social de la ville — place piétonne centrale avec la Fontaine Morosini de 1628 (quatre lions, époque vénitienne). Entourée de cafés qui acceptent tous les chiens en terrasse.",
+          "descriptionEs": "El corazón social de la ciudad — plaza peatonal central con la Fuente Morosini de 1628 (cuatro leones, época veneciana). Rodeada de cafés que admiten todos perros en terraza.",
+          "petPolicy": "Open public square; dogs welcome on lead",
+          "petPolicyFr": "Place publique ouverte ; chiens admis en laisse",
+          "petPolicyEs": "Plaza pública abierta; perros admitidos con correa",
+          "openingHours": "Open 24/7",
+          "tip": "Best in the morning (08:00–10:00) before the heat builds. Bougatsa pastry from Phyllosophies takes 2 min — perfect breakfast walking food.",
+          "tipFr": "Idéal le matin (8h–10h) avant la chaleur. Pâtisserie bougatsa de Phyllosophies prête en 2 min — petit-déjeuner parfait à emporter.",
+          "tipEs": "Mejor por la mañana (08:00–10:00) antes del calor. Pastel bougatsa en Phyllosophies listo en 2 min — desayuno perfecto para llevar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lions+Square+Heraklion"
+        },
+        {
+          "name": "Cathedral of Saint Minas",
+          "address": "Agiou Mina, 71202 Heraklion",
+          "photo": "/images/city-places/heraklion-attractions-cathedral-of-saint-minas.jpg",
+          "petFriendly": false,
+          "description": "19th-century Orthodox cathedral, the largest in Greece outside Athens. Dogs not allowed inside (except assistance dogs), but the square around with its plane trees offers welcome shade.",
+          "descriptionFr": "Cathédrale orthodoxe du XIXe siècle, la plus grande de Grèce hors Athènes. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais la place autour avec ses platanes offre une ombre bienvenue.",
+          "descriptionEs": "Catedral ortodoxa del s. XIX, la mayor de Grecia fuera de Atenas. No se admiten perros en el interior (salvo perros de asistencia), pero la plaza alrededor con sus plátanos ofrece sombra agradable.",
+          "petPolicy": "No dogs inside; outdoor square accessible",
+          "petPolicyFr": "Chiens interdits à l'intérieur ; place extérieure accessible",
+          "petPolicyEs": "Sin perros en el interior; plaza exterior accesible",
+          "openingHours": "Interior: daily 06:30–12:00, 17:00–20:00",
+          "tip": "The smaller original Agios Minas chapel (16th c.) next to the cathedral is the local favourite — visit the courtyard with your dog without entering.",
+          "tipFr": "La petite chapelle Agios Minas d'origine (XVIe s.) à côté est la préférée des locaux — visitez la cour avec votre chien sans entrer.",
+          "tipEs": "La pequeña capilla Agios Minas original (s. XVI) al lado es la preferida local — visita el patio con tu perro sin entrar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cathedral+Saint+Minas+Heraklion"
+        }
+      ],
+      "tipsEn": [
+        "All major outdoor sights in Heraklion are within a 15-min walking radius from Plateia Eleftherias.",
+        "Archaeological Museum, Koules interior, and Knossos archaeological site all prohibit dogs — book a sitter.",
+        "The 4 km Venetian walls loop is the city's flagship walk — flat, grassy, with views over old town + sea."
+      ],
+      "tipsFr": [
+        "Tous les grands sites extérieurs d'Héraklion sont à moins de 15 min à pied de Plateia Eleftherias.",
+        "Musée Archéologique, intérieur du Koules et site de Knossos interdisent tous les chiens — réservez un sitter.",
+        "La boucle de 4 km des murailles vénitiennes est la promenade phare — plate, herbeuse, vues sur la vieille ville + mer."
+      ],
+      "tipsEs": [
+        "Todos los grandes monumentos exteriores de Heraklion están a menos de 15 min a pie de Plateia Eleftherias.",
+        "Museo Arqueológico, interior del Koules y sitio de Knosos prohíben todos los perros — reserva un cuidador.",
+        "El circuito de 4 km de las murallas venecianas es el paseo estrella — llano, con hierba, vistas al casco antiguo + mar."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to the Koules fortress?",
+          "a": "Yes to the harbour pier and surrounding promenade — these are open public spaces. No to the interior fortress tour, which prohibits pets (except assistance dogs)."
+        },
+        {
+          "q": "Can I bring my dog to Knossos?",
+          "a": "No. Greek archaeological sites prohibit pets. The flat green area around the Knossos village is accessible, but the palace ruins themselves are fenced and ticketed without pet access. Book a Heraklion sitter for the 2-3h visit."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la forteresse du Koules ?",
+          "a": "Oui pour la jetée et la promenade alentour — espaces publics ouverts. Non pour la visite intérieure de la forteresse, qui interdit les animaux (sauf chiens d'assistance)."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Knossos ?",
+          "a": "Non. Les sites archéologiques grecs interdisent les animaux. Le terrain plat vert autour du village de Knossos est accessible, mais les ruines du palais sont clôturées et payantes sans accès animaux. Réservez un sitter à Héraklion pour la visite de 2-3h."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la fortaleza Koules?",
+          "a": "Sí al muelle y al paseo alrededor — espacios públicos abiertos. No a la visita interior de la fortaleza, que prohíbe mascotas (salvo perros de asistencia)."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a Knosos?",
+          "a": "No. Los sitios arqueológicos griegos prohíben mascotas. El terreno llano y verde alrededor del pueblo de Knosos es accesible, pero las ruinas del palacio están valladas y de pago sin acceso a mascotas. Reserva un cuidador en Heraklion para la visita de 2-3h."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog-Sitting & Daycare in Heraklion — Verified Platforms",
+      "titleFr": "Garde de chiens et crèche canine à Héraklion — Plateformes vérifiées",
+      "titleEs": "Cuidado de perros y guardería canina en Heraklion — Plataformas verificadas",
+      "introEn": "Knossos archaeological site, the Archaeological Museum and long restaurant lunches sometimes require leaving your dog. Two international platforms (Pawshake, DogBuddy/Rover) operate in Heraklion with around 12 verified local sitters.",
+      "introFr": "Le site de Knossos, le Musée Archéologique et les longs déjeuners au restaurant imposent parfois de laisser son chien. Deux plateformes internationales (Pawshake, DogBuddy/Rover) opèrent à Héraklion avec environ 12 sitters locaux vérifiés.",
+      "introEs": "El sitio de Knosos, el Museo Arqueológico y las comidas largas obligan a veces a dejar al perro. Dos plataformas internacionales (Pawshake, DogBuddy/Rover) operan en Heraklion con unos 12 cuidadores locales verificados.",
+      "places": [
+        {
+          "name": "Pawshake Heraklion",
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "description": "International platform with ~8 verified sitters in Heraklion and Crete. Drop-in visits, daycare, overnight boarding. Insurance included, reviewed sitters.",
+          "descriptionFr": "Plateforme internationale avec ~8 sitters vérifiés à Héraklion et Crète. Visites à domicile, crèche, hébergement de nuit. Assurance incluse, sitters notés.",
+          "descriptionEs": "Plataforma internacional con ~8 cuidadores verificados en Heraklion y Creta. Visitas a domicilio, guardería, alojamiento. Seguro incluido, cuidadores con reseñas.",
+          "website": "https://www.pawshake.gr/dog-sitting/heraklion",
+          "tip": "~70% of Heraklion sitters are bilingual EL/EN thanks to the tourism economy.",
+          "tipFr": "~70% des sitters d'Héraklion sont bilingues EL/EN grâce à l'économie touristique.",
+          "tipEs": "~70% de los cuidadores de Heraklion son bilingües EL/EN gracias a la economía turística."
+        },
+        {
+          "name": "Cretan Dogwalkers Network",
+          "languages": [
+            "Greek",
+            "English"
+          ],
+          "description": "Informal local network of dog-walkers and sitters coordinated via the Crete Animal Welfare Centre. Lower prices than international platforms, more local feel.",
+          "descriptionFr": "Réseau informel local de promeneurs et sitters coordonné via le Cretan Animal Welfare Centre. Prix plus bas que les plateformes internationales, ambiance plus locale.",
+          "descriptionEs": "Red informal local de paseadores y cuidadores coordinada por el Cretan Animal Welfare Centre. Precios más bajos que las plataformas internacionales, ambiente más local.",
+          "website": "",
+          "tip": "Call the Animal Welfare Centre (+30 2810 380 220) to ask for a recommended dog-walker — they know who's reliable.",
+          "tipFr": "Appelez l'Animal Welfare Centre (+30 2810 380 220) pour qu'on vous recommande un dog-walker — ils savent qui est fiable.",
+          "tipEs": "Llama al Animal Welfare Centre (+30 2810 380 220) para que te recomienden un paseador — saben quién es de fiar."
+        }
+      ],
+      "tipsEn": [
+        "Heraklion rates: drop-in visit 12–18 EUR, day-care 18–28 EUR (lower than mainland Greece), overnight boarding 22–35 EUR.",
+        "Most sitters live in central neighbourhoods (centre, Pateles, Therissos) within 2 km of Plateia Eleftherias.",
+        "Pet hotels exist on the Knossos road outskirts — useful for multi-day Cretan road trips."
+      ],
+      "tipsFr": [
+        "Tarifs Héraklion : visite à domicile 12–18 €, crèche journée 18–28 € (moins cher que la Grèce continentale), hébergement nuit 22–35 €.",
+        "La plupart des sitters habitent les quartiers centraux (centre, Pateles, Therissos) à moins de 2 km de Plateia Eleftherias.",
+        "Des pensions canines existent en périphérie sur la route de Knossos — utiles pour les road trips crétois de plusieurs jours."
+      ],
+      "tipsEs": [
+        "Tarifas en Heraklion: visita a domicilio 12–18 €, guardería de día 18–28 € (más bajo que la Grecia continental), alojamiento de noche 22–35 €.",
+        "La mayoría de los cuidadores vive en barrios céntricos (centro, Pateles, Therissos) a menos de 2 km de Plateia Eleftherias.",
+        "Existen residencias caninas en las afueras hacia Knosos — útiles para road trips cretenses de varios días."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog-sitter for the Knossos visit in Heraklion?",
+          "a": "Pawshake.gr lets you book a 2–3 hour drop-in visit with a verified local sitter, exactly the time needed to visit Knossos (4 km south). Most sitters in Heraklion offer this 'Knossos-while-you-visit' service specifically."
+        },
+        {
+          "q": "Can I leave my dog at my Heraklion hotel during the day?",
+          "a": "Most pet-friendly Heraklion hotels (GDM Megaron, Aquila Atlantis, Lato) allow dogs in the room during your absence if they're calm and don't bark. Confirm at check-in. AC running is essential in summer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un dog-sitter pour la visite de Knossos à Héraklion ?",
+          "a": "Pawshake.gr permet de réserver une visite à domicile de 2–3h avec un sitter local vérifié, exactement le temps nécessaire pour Knossos (4 km au sud). La plupart des sitters d'Héraklion proposent ce service « Knossos pendant que vous visitez »."
+        },
+        {
+          "q": "Puis-je laisser mon chien à l'hôtel pendant la journée à Héraklion ?",
+          "a": "La plupart des hôtels pet-friendly d'Héraklion (GDM Megaron, Aquila Atlantis, Lato) autorisent les chiens en chambre pendant vos sorties s'ils sont calmes et ne aboient pas. Confirmez au check-in. Climatisation indispensable en été."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo encuentro un cuidador para la visita a Knosos en Heraklion?",
+          "a": "Pawshake.gr permite reservar una visita a domicilio de 2–3h con un cuidador local verificado, exactamente el tiempo necesario para Knosos (4 km al sur). La mayoría de cuidadores de Heraklion ofrecen este servicio «Knosos mientras visitas» específicamente."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro en el hotel durante el día en Heraklion?",
+          "a": "La mayoría de hoteles pet-friendly de Heraklion (GDM Megaron, Aquila Atlantis, Lato) admiten perros en la habitación durante tus salidas si son tranquilos y no ladran. Confírmalo al check-in. AC esencial en verano."
+        }
+      ]
+    }
+  }
+}

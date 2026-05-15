@@ -4107,6 +4107,80 @@
     }
   },
   {
+    "slug": "heraklion",
+    "name": "Heraklion",
+    "country": "Greece",
+    "countryCode": "GR",
+    "flag": "🇬🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/heraklion.jpg",
+    "intro": "Crete's capital and largest city (~145k), gateway to the Minoan palace of Knossos (4 km south) and ferry hub for the eastern Mediterranean. Massive 16th-century Venetian walls ring a lively centre of tavernas, the harbour fortress Koules, and the Heraklion Archaeological Museum. The dog-friendliest of Greek major cities thanks to the year-round mild climate, several signed Bau-Beach zones east of town, and a relaxed Cretan attitude toward pets on terraces. 1h flight from Athens; direct from most EU hubs.",
+    "lat": 35.3387,
+    "lng": 25.1442,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, occasional rain",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "innsbruck",
     "name": "Innsbruck",
     "country": "Austria",
@@ -4836,6 +4910,80 @@
         "temp": 6,
         "desc": "Cold & festive",
         "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "lucca",
+    "name": "Lucca",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lucca.jpg",
+    "intro": "Tuscany's perfectly preserved walled city — 4.2 km of Renaissance ramparts (1545-1650) ring an intact medieval centre with the oval Piazza dell'Anfiteatro, the Guinigi Tower with oak trees growing on its roof, and the Romanesque-Pisan Duomo. ~89k inhabitants, 30 min by train from Pisa and 80 min from Florence. The walls are a paved 4 km dog-walking loop on grass — Italy's flagship Renaissance walking promenade.",
+    "lat": 43.843,
+    "lng": 10.5079,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool, occasional rain",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool, mild",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, humid",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot, humid",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Mild autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cool, festive",
+        "icon": "🎄"
       }
     }
   },

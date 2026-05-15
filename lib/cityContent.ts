@@ -7044,6 +7044,128 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  heraklion: {
+    history: {
+      fr: `Capitale de la Crète et plus grande ville de l'île (environ 145 000 habitants), Héraklion fut fondée comme port romain puis arabe (Rabdh-el-Khandak, IXe siècle), avant de devenir le grand emporium vénitien de Candie de 1204 à 1669 — siège de plus de 450 ans de domination latine qui légua à la ville sa ceinture de murailles de 4 km, la forteresse Koules et la Fontaine Morosini. La domination ottomane (1669-1898) ajouta minarets et bains turcs avant que la Crète ne rejoigne la Grèce em 1913. Aujourd'hui, Héraklion est la porte d'entrée du palais minoen de Knossos (4 km au sud, fondé vers 2000 av. J.-C.) et le hub des ferries vers Athènes. Pour les voyageurs avec chien, c'est l'une des villes grecques les plus faciles : climat doux toute l'année (12-28°C), deux Bau-Beach signalées à l'est et à l'ouest, culture taverne détendue qui accueille les chiens en terrasse, et un hôpital vétérinaire 24h/24 qui dessert toute la Crète.`,
+      en: `Capital of Crete and the island's largest city (about 145,000 inhabitants), Heraklion was founded as a Roman then Arab port (Rabdh-el-Khandak, 9th century), before becoming the great Venetian emporium of Candia from 1204 to 1669 — over 450 years of Latin rule that left the city its 4 km ring of walls, the Koules harbour fortress and the Morosini Fountain. Ottoman rule (1669-1898) added minarets and Turkish baths before Crete joined Greece in 1913. Today Heraklion is the gateway to the Minoan palace of Knossos (4 km south, founded c. 2000 BC) and the ferry hub for Athens. For travellers with a dog, it is one of Greece's easiest cities: mild climate year-round (12-28°C), two signed Bau-Beach zones east and west, relaxed taverna culture welcoming dogs on terraces, and a 24/7 veterinary hospital serving all of Crete.`,
+      es: `Capital de Creta y la ciudad más grande de la isla (unos 145.000 habitantes), Heraklion fue fundada como puerto romano y luego árabe (Rabdh-el-Khandak, s. IX), antes de convertirse en el gran emporio veneciano de Candia entre 1204 y 1669 — más de 450 años de dominio latino que legaron a la ciudad su anillo de murallas de 4 km, la fortaleza portuaria Koules y la Fuente Morosini. El dominio otomano (1669-1898) añadió minaretes y baños turcos antes de que Creta se uniera a Grecia en 1913. Hoy Heraklion es la puerta de entrada al palacio minoico de Knosos (4 km al sur, fundado hacia 2000 a.C.) y el hub de ferries con Atenas. Para los viajeros con perro, es una de las ciudades griegas más fáciles: clima suave todo el año (12-28°C), dos zonas Bau-Beach señalizadas al este y al oeste, cultura de tabernas relajada que admite perros en terraza, y un hospital veterinario 24h que atiende toda Creta.`,
+      pt: `Capital de Creta e a maior cidade da ilha (cerca de 145.000 habitantes), Heraklion foi fundada como porto romano e depois árabe (Rabdh-el-Khandak, séc. IX), antes de se tornar o grande empório veneziano de Candia entre 1204 e 1669 — mais de 450 anos de domínio latino que legaram à cidade o seu anel de muralhas de 4 km, a fortaleza portuária Koules e a Fonte Morosini. O domínio otomano (1669-1898) acrescentou minaretes e banhos turcos antes de Creta se juntar à Grécia em 1913. Hoje Heraklion é a porta de entrada para o palácio minoico de Knossos (4 km a sul, fundado por volta de 2000 a.C.) e o hub de ferries para Atenas. Para os viajantes com cão, é uma das cidades gregas mais fáceis: clima suave o ano inteiro (12-28°C), duas zonas Bau-Beach sinalizadas a leste e oeste, cultura de tabernas descontraída que aceita cães em esplanada, e um hospital veterinário 24h que serve toda Creta.`,
+    },
+    sights: [
+      {
+        name: 'Venetian Walls',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grande fortification vénitienne préservée de Méditerranée (1462-1669), boucle de 4 km sur les remparts herbeux entourant le centre historique. La promenade canine emblématique d'Héraklion.`,
+          en: `The Mediterranean's largest preserved Venetian fortification (1462-1669), a 4 km loop on the grassy ramparts ringing the old town. Heraklion's flagship dog walk.`,
+          es: `La mayor fortificación veneciana preservada del Mediterráneo (1462-1669), un circuito de 4 km sobre las murallas con hierba que rodean el casco antiguo. El paseo canino emblemático de Heraklion.`,
+          pt: `A maior fortificação veneziana preservada do Mediterrâneo (1462-1669), um circuito de 4 km sobre as muralhas com relva à volta do centro histórico. O passeio canino emblemático de Heraklion.`,
+        },
+      },
+      {
+        name: 'Koules Fortress',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Forteresse vénitienne du XVIe siècle protégeant le vieux port. Chiens interdits à l'intérieur, mais la jetée de 500 m vers la forteresse offre la plus belle promenade canine de la ville au coucher du soleil.`,
+          en: `16th-century Venetian fortress guarding the old harbour. Dogs not allowed inside, but the 500 m pier walk out to the fortress is the city's most beautiful dog walk at sunset.`,
+          es: `Fortaleza veneciana del s. XVI que protege el puerto viejo. Sin perros dentro, pero el muelle de 500 m hasta la fortaleza es el paseo canino más bonito de la ciudad al atardecer.`,
+          pt: `Fortaleza veneziana do séc. XVI que protege o porto velho. Sem cães no interior, mas o molhe de 500 m até à fortaleza é o passeio canino mais bonito da cidade ao pôr do sol.`,
+        },
+      },
+      {
+        name: 'Lions Square (Morosini Fountain)',
+        emoji: '🦁',
+        petFriendly: true,
+        desc: {
+          fr: `Place piétonne centrale avec la Fontaine Morosini de 1628 ornée de quatre lions vénitiens. Entourée de cafés acceptant tous les chiens en terrasse.`,
+          en: `Central pedestrian square with the 1628 Morosini Fountain adorned with four Venetian lions. Surrounded by cafés that all accept dogs on terraces.`,
+          es: `Plaza peatonal central con la Fuente Morosini de 1628 adornada con cuatro leones venecianos. Rodeada de cafés que admiten todos perros en terraza.`,
+          pt: `Praça pedonal central com a Fonte Morosini de 1628 adornada com quatro leões venezianos. Rodeada de cafés que aceitam todos cães em esplanada.`,
+        },
+      },
+      {
+        name: 'Amoudara Bau-Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage canine officielle à 5 km à l'ouest. Sable à pente douce, zone Bau-Beach signalée d'environ 300 m, ouverte toute l'année. Bus 6 ou 26 depuis le centre en 12 min.`,
+          en: `Official dog beach 5 km west. Sandy gentle slope, signed Bau-Beach zone of about 300 m, open year-round. Bus 6 or 26 from the centre in 12 min.`,
+          es: `Playa canina oficial a 5 km al oeste. Arena con pendiente suave, zona Bau-Beach señalizada de unos 300 m, abierta todo el año. Bus 6 o 26 desde el centro en 12 min.`,
+          pt: `Praia canina oficial a 5 km a oeste. Areia com declive suave, zona Bau-Beach sinalizada de cerca de 300 m, aberta o ano inteiro. Autocarro 6 ou 26 a partir do centro em 12 min.`,
+        },
+      },
+      {
+        name: 'Knossos Archaeological Park (surrounds)',
+        emoji: '🏺',
+        petFriendly: false,
+        desc: {
+          fr: `Le palais minoen de 2000 av. J.-C. à 4 km au sud — interdit aux animaux comme tous les sites archéologiques grecs. Le parc plat alentour est cependant accessible aux chiens en laisse.`,
+          en: `The Minoan palace from 2000 BC, 4 km south — closed to pets like all Greek archaeological sites. The flat surrounding park is however open to leashed dogs.`,
+          es: `El palacio minoico de 2000 a.C. a 4 km al sur — vetado a mascotas como todos los sitios arqueológicos griegos. El parque llano alrededor sí admite perros con correa.`,
+          pt: `O palácio minoico de 2000 a.C. a 4 km a sul — vetado a animais como todos os sítios arqueológicos gregos. O parque plano em redor admite cães com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La culture taverne crétoise est massivement dog-friendly en terrasse — norme locale ancienne.`,
+        `Loi grecque (depuis 2020) : zones Bau-Beach signalées à Amoudara (ouest) et Karteros (est) ouvertes toute l'année.`,
+        `Les sites archéologiques grecs (Knossos, etc.) interdisent les animaux — réservez un sitter Pawshake pour les 2-3h de visite.`,
+        `La chaleur estivale (28-32°C juillet-août) est brutale pour les chiens — promenades avant 9h ou après 19h, et le sable peut atteindre 60°C en milieu de journée.`,
+        `Ferry de nuit ANEK/Minoan depuis Le Pirée : cabines pet-friendly à ~30 € de supplément, à réserver tôt en été (8 par bateau).`,
+      ],
+      en: [
+        `Cretan taverna culture is massively dog-friendly on terraces — a long-standing local norm.`,
+        `Greek law (since 2020): signed Bau-Beach zones at Amoudara (west) and Karteros (east), open year-round.`,
+        `Greek archaeological sites (Knossos, etc.) prohibit pets — book a Pawshake sitter for the 2-3 hour visit.`,
+        `Summer heat (28-32°C July-August) is brutal for dogs — walk before 09:00 or after 19:00, and sand can reach 60°C midday.`,
+        `Overnight ANEK/Minoan ferry from Piraeus: pet-friendly cabins ~30 EUR supplement, book early in summer (8 per ship).`,
+      ],
+      es: [
+        `La cultura de tabernas cretense es masivamente dog-friendly en terraza — norma local de larga data.`,
+        `Ley griega (desde 2020): zonas Bau-Beach señalizadas en Amoudara (oeste) y Karteros (este), abiertas todo el año.`,
+        `Los sitios arqueológicos griegos (Knosos, etc.) prohíben mascotas — reserva un cuidador Pawshake para la visita de 2-3h.`,
+        `El calor estival (28-32°C julio-agosto) es brutal para los perros — pasea antes de las 09:00 o después de las 19:00, y la arena puede alcanzar 60°C al mediodía.`,
+        `Ferry nocturno ANEK/Minoan desde el Pireo: camarotes pet-friendly ~30 € de suplemento, reserva pronto en verano (8 por barco).`,
+      ],
+      pt: [
+        `A cultura de tabernas cretense é massivamente pet-friendly em esplanada — norma local de longa data.`,
+        `Lei grega (desde 2020): zonas Bau-Beach sinalizadas em Amoudara (oeste) e Karteros (este), abertas o ano inteiro.`,
+        `Os sítios arqueológicos gregos (Knossos, etc.) proíbem animais — reserve um cuidador Pawshake para a visita de 2-3h.`,
+        `O calor estival (28-32°C julho-agosto) é brutal para os cães — passeios antes das 09:00 ou após as 19:00, e a areia pode atingir 60°C ao meio-dia.`,
+        `Ferry noturno ANEK/Minoan a partir do Pireu: camarotes pet-friendly ~30 € de suplemento, reserve cedo no verão (8 por navio).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Heraklion Veterinary Hospital, Leoforos Knossou 285, +30 2810 230 100`,
+        `Cabinet de jour central : Vet Clinic Heraklion Centre, Leoforos Dimokratias 87, +30 2810 250 400`,
+        `Aéroport Héraklion HER à 6 km à l'est — bus 1 toutes les 15 min (1,80 €), taxi 12 € forfaitaire.`,
+        `Ferry de nuit Athènes (Le Pirée) — Héraklion : 9h, départ 21h. Cabines pet-friendly ~30 € de supplément.`,
+      ],
+      en: [
+        `24/7 emergency vet: Heraklion Veterinary Hospital, Leoforos Knossou 285, +30 2810 230 100`,
+        `Central daytime clinic: Vet Clinic Heraklion Centre, Leoforos Dimokratias 87, +30 2810 250 400`,
+        `Heraklion HER airport 6 km east — bus 1 every 15 min (1.80 EUR), taxi 12 EUR fixed fare.`,
+        `Overnight ferry Athens (Piraeus) — Heraklion: 9h, departure 21:00. Pet-friendly cabins ~30 EUR supplement.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Heraklion Veterinary Hospital, Leoforos Knossou 285, +30 2810 230 100`,
+        `Clínica diurna céntrica: Vet Clinic Heraklion Centre, Leoforos Dimokratias 87, +30 2810 250 400`,
+        `Aeropuerto Heraklion HER a 6 km al este — bus 1 cada 15 min (1,80 €), taxi 12 € tarifa fija.`,
+        `Ferry nocturno Atenas (El Pireo) — Heraklion: 9h, salida 21:00. Camarotes pet-friendly ~30 € de suplemento.`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h: Heraklion Veterinary Hospital, Leoforos Knossou 285, +30 2810 230 100`,
+        `Clínica diurna central: Vet Clinic Heraklion Centre, Leoforos Dimokratias 87, +30 2810 250 400`,
+        `Aeroporto Heraklion HER a 6 km a leste — autocarro 1 a cada 15 min (1,80 €), táxi 12 € tarifa fixa.`,
+        `Ferry noturno Atenas (Pireu) — Heraklion: 9h, partida 21:00. Camarotes pet-friendly ~30 € de suplemento.`,
+      ],
+    },
+  },
+
   helsinki: {
     history: {
       fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie em fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre em contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,
@@ -8412,6 +8534,139 @@ const cityContent: Record<string, CityContent> = {
         'Melhores temporadas: abril-junho e setembro-outubro ofrecen temperaturas suaves e pouca chuva; evita agosto pelas multitudes e julho por olas de calor ocasionales superiores a 30°C.',
         'Urgência veterinária 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic em Belgravia para o centro.',
         'As multas por excrementos caninos em Londres alcanzan 150 £ (sanción fija) e câmaras municipais como Westminster a aplican con rigor; as bolsas são obrigatórias em todo momento.',
+      ],
+    },
+  },
+
+  lucca: {
+    history: {
+      fr: `Lucca, ville toscane d'environ 89 000 habitants, fut fondée comme colonie romaine en 180 av. J.-C. (Luca) sur la Via Cassia. Elle devint un puissant centre marchand médiéval grâce à son monopole de la soie au XIIIe siècle, et se distingua surtout par sa singulière trajectoire politique : république indépendante de 1119 à 1799, elle ne fut jamais absorbée par la Toscane médicéenne — fait unique pour une ville toscane. Cette indépendance lui valut sa parure exceptionnelle : 4,2 km de murailles Renaissance bastionnées (1545-1650), parmi les mieux préservées d'Italie, transformées au XIXe siècle em promenade publique surmontée d'arbres. L'ovale de la Piazza dell'Anfiteatro épouse les fondations de l'amphithéâtre romain du IIe siècle, la Cathédrale San Martino romano-pisane abrite le Volto Santo, et la Tour Guinigi (XIVe s.) porte des chênes verts sur son toit — l'image emblématique de la ville. Lucca est aussi la ville natale de Giacomo Puccini. Pour les voyageurs avec chien, c'est sans doute la ville italienne la plus facile : centre fortifié sans voitures (ZTL), 4,2 km de remparts plats comme promenade quotidienne, culture trattoria détendue, et les plages canines de Versilia à 30 min em train.`,
+      en: `Lucca, a Tuscan city of about 89,000 inhabitants, was founded as a Roman colony in 180 BC (Luca) on the Via Cassia. It became a powerful medieval trading centre thanks to its 13th-century silk monopoly, and stood out above all for its singular political trajectory: an independent republic from 1119 to 1799, never absorbed by Medici Tuscany — unique among Tuscan cities. That independence earned it an exceptional crown: 4.2 km of bastioned Renaissance walls (1545-1650), among Italy's best-preserved, transformed in the 19th century into a tree-lined public promenade. The oval of the Piazza dell'Anfiteatro hugs the foundations of the 2nd-century Roman amphitheatre, the Romanesque-Pisan Cathedral of San Martino houses the Volto Santo, and the Guinigi Tower (14th c.) bears holm oaks on its roof — the city's iconic image. Lucca is also the birthplace of Giacomo Puccini. For travellers with a dog, it is arguably Italy's easiest city: car-free walled centre (ZTL), 4.2 km of flat ramparts as the daily walk, relaxed trattoria culture, and the Versilia dog beaches 30 min away by train.`,
+      es: `Lucca, ciudad toscana de unos 89.000 habitantes, fue fundada como colonia romana en 180 a.C. (Luca) sobre la Via Cassia. Se convirtió en un poderoso centro comercial medieval gracias a su monopolio sedero del s. XIII, y destacó sobre todo por su singular trayectoria política: república independiente de 1119 a 1799, jamás absorbida por la Toscana de los Médici — caso único entre las ciudades toscanas. Esa independencia le valió un ornamento excepcional: 4,2 km de murallas renacentistas abaluartadas (1545-1650), de las mejor conservadas de Italia, transformadas en el s. XIX en paseo público arbolado. El óvalo de la Piazza dell'Anfiteatro abraza los cimientos del anfiteatro romano del s. II, la Catedral románico-pisana de San Martino guarda el Volto Santo, y la Torre Guinigi (s. XIV) lleva encinas en su tejado — la imagen icónica de la ciudad. Lucca es también la cuna de Giacomo Puccini. Para los viajeros con perro, es sin duda la ciudad italiana más fácil: centro amurallado sin coches (ZTL), 4,2 km de murallas llanas como paseo diario, cultura de trattorie relajada, y las playas caninas de Versilia a 30 min en tren.`,
+      pt: `Lucca, cidade toscana de cerca de 89.000 habitantes, foi fundada como colónia romana em 180 a.C. (Luca) sobre a Via Cassia. Tornou-se um poderoso centro comercial medieval graças ao seu monopólio da seda no séc. XIII, e destacou-se sobretudo pela sua singular trajetória política: república independente de 1119 a 1799, nunca absorvida pela Toscana dos Médici — caso único entre as cidades toscanas. Essa independência valeu-lhe um adorno excecional: 4,2 km de muralhas renascentistas abaluartadas (1545-1650), entre as mais bem preservadas de Itália, transformadas no séc. XIX em passeio público arborizado. O oval da Piazza dell'Anfiteatro abraça os alicerces do anfiteatro romano do séc. II, a Catedral românico-pisana de San Martino guarda o Volto Santo, e a Torre Guinigi (séc. XIV) traz azinheiras no seu telhado — a imagem icónica da cidade. Lucca é também o berço de Giacomo Puccini. Para os viajantes com cão, é sem dúvida a cidade italiana mais fácil: centro amuralhado sem carros (ZTL), 4,2 km de muralhas planas como passeio diário, cultura de trattoria descontraída, e as praias caninas da Versilia a 30 min de comboio.`,
+    },
+    sights: [
+      {
+        name: 'Le Mura (Renaissance Walls)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `4,2 km de remparts Renaissance (1545-1650) parfaitement préservés transformés em promenade arborée. Plate, herbeuse, sans circulation — la promenade canine italienne la plus emblématique.`,
+          en: `4.2 km of perfectly preserved Renaissance walls (1545-1650) turned into a tree-lined promenade. Flat, grassy, traffic-free — Italy's most emblematic dog walking promenade.`,
+          es: `4,2 km de murallas renacentistas (1545-1650) perfectamente conservadas convertidas en paseo arbolado. Llano, con hierba, sin tráfico — el paseo canino italiano más emblemático.`,
+          pt: `4,2 km de muralhas renascentistas (1545-1650) perfeitamente preservadas transformadas em passeio arborizado. Plano, com relva, sem trânsito — o passeio canino italiano mais emblemático.`,
+        },
+      },
+      {
+        name: 'Piazza dell\'Anfiteatro',
+        emoji: '⭕',
+        petFriendly: true,
+        desc: {
+          fr: `Place ovale épousant les fondations de l'amphithéâtre romain du IIe siècle. Quatre passages étroits comme seules entrées. Chiens en laisse admis 24h/24, cafés sur le pourtour.`,
+          en: `Oval piazza tracing the foundations of the 2nd-century Roman amphitheatre. Four narrow archways as the only entries. Leashed dogs welcome 24/7, cafés around the perimeter.`,
+          es: `Plaza oval que sigue los cimientos del anfiteatro romano del s. II. Cuatro arcos estrechos como únicas entradas. Perros con correa admitidos 24h, cafés en el perímetro.`,
+          pt: `Praça oval que segue os alicerces do anfiteatro romano do séc. II. Quatro arcos estreitos como únicas entradas. Cães com trela admitidos 24h, cafés no perímetro.`,
+        },
+      },
+      {
+        name: 'Guinigi Tower',
+        emoji: '🌳',
+        petFriendly: false,
+        desc: {
+          fr: `Tour en brique du XIVe siècle avec chênes verts dans un jardin suspendu sur son toit. L'ascension (230 marches) n'admet pas les chiens ; la rue et la place de base sont accessibles.`,
+          en: `14th-century brick tower with holm oaks in a hanging garden on its roof. The climb (230 steps) doesn't admit dogs; the street and base square are accessible.`,
+          es: `Torre de ladrillo del s. XIV con encinas en jardín colgante en su tejado. La subida (230 escalones) no admite perros; la calle y la plaza de base sí.`,
+          pt: `Torre de tijolo do séc. XIV com azinheiras em jardim suspenso no telhado. A subida (230 degraus) não admite cães; a rua e a praça de base são acessíveis.`,
+        },
+      },
+      {
+        name: 'Cattedrale di San Martino',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale romano-pisane commencée em 1063 avec sa fameuse façade asymétrique. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais le portail droit avec son labyrinthe sculpté du XIIIe siècle est un beau spot photo extérieur.`,
+          en: `Romanesque-Pisan cathedral started in 1063 with its famous asymmetric façade. Dogs not allowed inside (except assistance dogs), but the right portal with its 13th-century carved labyrinth is a beautiful outdoor photo spot.`,
+          es: `Catedral románico-pisana iniciada en 1063 con su famosa fachada asimétrica. No se admiten perros en el interior (salvo perros de asistencia), pero el portal derecho con su laberinto tallado del s. XIII es un bonito punto fotográfico exterior.`,
+          pt: `Catedral românico-pisana iniciada em 1063 com a sua famosa fachada assimétrica. Cães proibidos no interior (exceto cães de assistência), mas o portal direito com o seu labirinto esculpido do séc. XIII é um belo ponto fotográfico exterior.`,
+        },
+      },
+      {
+        name: 'Orto Botanico',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin botanique de 2 ha fondé em 1820 par Marie-Louise de Bourbon. Chiens en laisse admis — rare pour un jardin botanique italien. Le cèdre du Liban de 1822 est la pièce maîtresse.`,
+          en: `2 ha botanical garden founded in 1820 by Maria Luisa di Borbone. Leashed dogs welcome — rare for an Italian botanical garden. The 1822 cedar of Lebanon is the showpiece.`,
+          es: `Jardín botánico de 2 ha fundado en 1820 por María Luisa de Borbón. Perros con correa admitidos — raro en un jardín botánico italiano. El cedro del Líbano de 1822 es la pieza estrella.`,
+          pt: `Jardim botânico de 2 ha fundado em 1820 por Maria Luísa de Bourbon. Cães com trela admitidos — raro num jardim botânico italiano. O cedro do Líbano de 1822 é a peça-mestra.`,
+        },
+      },
+      {
+        name: 'Versilia Bau-Beaches',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plages canines de la côte toscane à 25-30 km à l'ouest. Lido di Camaiore et Viareggio ont chacune des zones Bau-Beach signalées ouvertes toute l'année, accessibles em 20-30 min em train.`,
+          en: `Tuscan coast dog beaches 25-30 km west. Lido di Camaiore and Viareggio each have signed year-round Bau-Beach zones, reachable in 20-30 min by train.`,
+          es: `Playas caninas de la costa toscana a 25-30 km al oeste. Lido di Camaiore y Viareggio tienen zonas Bau-Beach señalizadas todo el año, alcanzables en 20-30 min en tren.`,
+          pt: `Praias caninas da costa toscana a 25-30 km a oeste. Lido di Camaiore e Viareggio têm zonas Bau-Beach sinalizadas o ano inteiro, alcançáveis em 20-30 min de comboio.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le centre fortifié est ZTL (zone à trafic limité) — circulation quasi nulle, idéal pour chiens nerveux en ville.`,
+        `La boucle de 4,2 km sur les murailles est l'incontournable promenade canine — plate, herbeuse, ombragée. Attention aux cyclistes.`,
+        `Trenitalia régional pour Pise (30 min) ou Florence (1h20) : petits chiens en sac gratuits, grands chiens billet enfant + muselière.`,
+        `Plages canines de Versilia à 20-30 min em train direct — Lido di Camaiore et Viareggio signalées toute l'année.`,
+        `Lucca Comics & Games (dernière semaine d'octobre) sature la ville em 250 000 visiteurs — réservez l'hôtel des mois à l'avance ou évitez.`,
+      ],
+      en: [
+        `The walled centre is ZTL (limited traffic zone) — virtually no cars, ideal for city-nervous dogs.`,
+        `The 4.2 km wall loop is the essential dog walk — flat, grassy, shaded. Watch for cyclists.`,
+        `Trenitalia regional to Pisa (30 min) or Florence (1h20): small dogs in carriers free, larger dogs child ticket + muzzle.`,
+        `Versilia dog beaches 20-30 min by direct train — Lido di Camaiore and Viareggio signed year-round.`,
+        `Lucca Comics & Games (last week of October) saturates the city with 250,000 visitors — book hotels months ahead or avoid.`,
+      ],
+      es: [
+        `El centro amurallado es ZTL (zona de tráfico limitado) — prácticamente sin coches, ideal para perros nerviosos en la ciudad.`,
+        `El circuito de 4,2 km sobre las murallas es el paseo canino imprescindible — llano, con hierba, sombreado. Atención a los ciclistas.`,
+        `Trenitalia regional a Pisa (30 min) o Florencia (1h20): perros pequeños en transportín gratis, perros más grandes billete infantil + bozal.`,
+        `Playas caninas de Versilia a 20-30 min en tren directo — Lido di Camaiore y Viareggio señalizadas todo el año.`,
+        `Lucca Comics & Games (última semana de octubre) llena la ciudad con 250.000 visitantes — reserva hoteles con meses o evita.`,
+      ],
+      pt: [
+        `O centro amuralhado é ZTL (zona de trânsito limitado) — praticamente sem carros, ideal para cães nervosos na cidade.`,
+        `O circuito de 4,2 km sobre as muralhas é o passeio canino imprescindível — plano, com relva, sombreado. Atenção aos ciclistas.`,
+        `Trenitalia regional para Pisa (30 min) ou Florença (1h20): cães pequenos em transportadora grátis, cães maiores bilhete infantil + açaime.`,
+        `Praias caninas da Versilia a 20-30 min de comboio direto — Lido di Camaiore e Viareggio sinalizadas o ano inteiro.`,
+        `Lucca Comics & Games (última semana de outubro) enche a cidade com 250.000 visitantes — reserve hotéis com meses de antecedência ou evite.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 le plus proche : Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min em voiture).`,
+        `Cabinet de jour central : Clinica Veterinaria Lucca Centro, Via dei Macelli 60, +39 0583 491 030`,
+        `Trenitalia régional depuis Pise Centrale : 30 min ; depuis Florence SMN : 1h20.`,
+        `Aéroport le plus proche : Pise PSA (30 min em train ou taxi, 50 € forfait) ; Florence FLR (1h em voiture).`,
+      ],
+      en: [
+        `Closest 24/7 emergency vet: Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min by car).`,
+        `Central daytime clinic: Clinica Veterinaria Lucca Centro, Via dei Macelli 60, +39 0583 491 030`,
+        `Trenitalia regional from Pisa Centrale: 30 min; from Florence SMN: 1h20.`,
+        `Closest airport: Pisa PSA (30 min by train or taxi, 50 EUR fixed); Florence FLR (1h by car).`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h más cercano: Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min en coche).`,
+        `Clínica diurna céntrica: Clinica Veterinaria Lucca Centro, Via dei Macelli 60, +39 0583 491 030`,
+        `Trenitalia regional desde Pisa Centrale: 30 min; desde Florencia SMN: 1h20.`,
+        `Aeropuerto más cercano: Pisa PSA (30 min en tren o taxi, 50 € fijo); Florencia FLR (1h en coche).`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h mais próximo: Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min de carro).`,
+        `Clínica diurna central: Clinica Veterinaria Lucca Centro, Via dei Macelli 60, +39 0583 491 030`,
+        `Trenitalia regional a partir de Pisa Centrale: 30 min; a partir de Florença SMN: 1h20.`,
+        `Aeroporto mais próximo: Pisa PSA (30 min de comboio ou táxi, 50 € fixo); Florença FLR (1h de carro).`,
       ],
     },
   },

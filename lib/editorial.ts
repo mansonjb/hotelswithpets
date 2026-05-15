@@ -296,6 +296,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Schloss terraces, the Philosophenweg with its Heiligenberg forest, and the Königstuhl funicular up to 70 km of off-leash forest trails`,
       area: `the Altstadt around the Hauptstraße, Bergheim near the train station, and the leafy Neuenheim across the Neckar`,
     },
+    heraklion: {
+      personality: `Crete's capital, where 4 km of Venetian walls ringing the old town, year-round mild climate, and two official Bau-Beach zones make it one of Greece's easiest cities for travel with a dog`,
+      highlight: 'the 4 km Venetian Walls walkway, the Koules harbour fortress pier, and the Amoudara Bau-Beach 5 km west',
+      area: 'the walled old town around Plateia Eleftherias and Lions Square, the harbour promenade, and the western coast toward Amoudara',
+    },
     helsinki: {
       personality: 'a Nordic capital where the island archipelago, pine forests, and a deeply outdoors-oriented culture make it exceptionally welcoming for dogs and their owners',
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
@@ -350,6 +355,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'one of Europe\'s most naturally pet-friendly capitals, where dogs accompany their owners into pubs, cafés, and across vast royal parks year-round',
       highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
       area: 'Islington, Notting Hill, and Bermondsey',
+    },
+    lucca: {
+      personality: `Tuscany's perfectly preserved walled city, where 4.2 km of Renaissance ramparts (1545-1650) form a flat grassy dog-walking loop on top of the walls — arguably Italy's most dog-friendly major town`,
+      highlight: 'the 4.2 km wall walk, the Piazza dell\'Anfiteatro oval and the Serchio riverside dog-bathing zone',
+      area: `the walled centro storico around Piazza San Michele, the Anfiteatro, and the area near the Cathedral and Guinigi Tower`,
     },
     lucerne: {
       personality: 'a fairy-tale Swiss city wrapped around a deep alpine lake, where covered wooden bridges, dog-tolerant terraces and dog-friendly cogwheel railways up to Pilatus and Rigi make multi-mountain dog days exceptionally easy',
@@ -919,6 +929,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les terrasses du Schloss, le Philosophenweg avec sa forêt du Heiligenberg, et le funiculaire du Königstuhl vers 70 km de sentiers forestiers sans laisse`,
       area: `l'Altstadt autour de la Hauptstraße, Bergheim près de la gare et le verdoyant Neuenheim de l'autre côté du Neckar`,
     },
+    heraklion: {
+      personality: `la capitale crétoise, où 4 km de murailles vénitiennes ceignent le centre historique, le climat doux toute l'année et deux zones Bau-Beach officielles en font l'une des villes grecques les plus faciles à parcourir avec un chien`,
+      highlight: `la boucle de 4 km sur les murailles vénitiennes, la jetée de la forteresse portuaire Koules et la Bau-Beach d'Amoudara à 5 km à l'ouest`,
+      area: `le centre fortifié autour de Plateia Eleftherias et de la Place des Lions, la promenade du port et la côte ouest vers Amoudara`,
+    },
     helsinki: {
       personality: 'une capitale nordique où l\'archipel insulaire, les forêts de pins et une culture profondément orientée vers le plein air la rendent exceptionnellement accueillante pour les chiens et leurs propriétaires',
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
@@ -973,6 +988,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'l\'une des capitales les plus naturellement accueillantes pour les animaux d\'Europe, où les chiens accompagnent leurs propriétaires dans les pubs, cafés et à travers de vastes parcs royaux toute l\'année',
       highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
       area: 'Islington, Notting Hill et Bermondsey',
+    },
+    lucca: {
+      personality: `la ville fortifiée toscane parfaitement préservée, où 4,2 km de remparts Renaissance (1545-1650) forment une boucle de promenade canine plate et herbeuse au sommet des murailles — sans doute la grande ville italienne la plus dog-friendly`,
+      highlight: 'la boucle de 4,2 km sur les murailles, l\'ovale de la Piazza dell\'Anfiteatro et la zone canine du Serchio',
+      area: 'le centro storico fortifié autour de la Piazza San Michele, l\'Anfiteatro et les abords de la Cathédrale et de la Tour Guinigi',
     },
     lucerne: {
       personality: `une ville suisse de conte de fées lovée autour d'un lac alpin profond, où ponts couverts en bois, terrasses dog-friendly et crémaillères pet-friendly vers le Pilatus et le Rigi rendent les journées multi-sommets avec chien étonnamment faciles`,
@@ -1541,6 +1561,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las terrazas del Schloss, el Philosophenweg con su bosque del Heiligenberg, y el funicular del Königstuhl hacia 70 km de senderos forestales sin correa`,
       area: `la Altstadt alrededor de la Hauptstraße, Bergheim cerca de la estación, y el frondoso Neuenheim al otro lado del Neckar`,
     },
+    heraklion: {
+      personality: 'la capital cretense, donde 4 km de murallas venecianas rodean el casco antiguo, el clima suave todo el año y dos zonas Bau-Beach oficiales la convierten en una de las ciudades griegas más fáciles para viajar con perro',
+      highlight: 'el circuito de 4 km sobre las murallas venecianas, el muelle de la fortaleza portuaria Koules y la Bau-Beach de Amoudara a 5 km al oeste',
+      area: 'el centro amurallado en torno a Plateia Eleftherias y la Plaza de los Leones, el paseo del puerto y la costa oeste hacia Amoudara',
+    },
     helsinki: {
       personality: 'una capital nórdica donde el archipiélago isleño, los bosques de pinos y una cultura profundamente orientada al aire libre la hacen excepcionalmente acogedora para los perros y sus dueños',
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
@@ -1595,6 +1620,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales más naturalmente acogedoras con mascotas de Europa, donde los perros acompañan a sus dueños en pubs, cafés y a través de vastos parques reales durante todo el año',
       highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
       area: 'Islington, Notting Hill y Bermondsey',
+    },
+    lucca: {
+      personality: 'la ciudad amurallada toscana perfectamente conservada, donde 4,2 km de murallas renacentistas (1545-1650) forman un circuito de paseo canino llano y con hierba sobre las murallas — sin duda la gran ciudad italiana más pet-friendly',
+      highlight: 'el circuito de 4,2 km sobre las murallas, el óvalo de la Piazza dell\'Anfiteatro y la zona canina del Serchio',
+      area: 'el centro storico amurallado en torno a la Piazza San Michele, el Anfiteatro y la zona de la Catedral y la Torre Guinigi',
     },
     lucerne: {
       personality: `una ciudad suiza de cuento de hadas abrazada a un profundo lago alpino, donde puentes cubiertos de madera, terrazas dog-friendly y cremalleras pet-friendly al Pilatus y al Rigi hacen que las jornadas multi-cima con perro sean sorprendentemente fáciles`,

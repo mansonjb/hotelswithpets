@@ -8,6 +8,7 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import { localizedPetPolicy } from '@/lib/petPolicy'
 
 type HotelData = typeof hotels[number] & { slug: string }
 
@@ -34,20 +35,23 @@ export async function generateMetadata({
   const dest = destinations.find((d) => d.slug === hotel.destinationSlug)
   if (!dest) return {}
 
-  const cleanPetPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
+  const cleanPetPolicy = locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)
   const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : locale === 'pt' ? 'grátis' : 'free') : `€${hotel.petFee}`
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
+  const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
 
   const titles: Record<string, string> = {
     en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`,
     fr: `${hotel.name} — Hôtel pet-friendly à ${cityFr} | HotelsWithPets.com`,
     es: `${hotel.name} — Hotel pet-friendly en ${cityEs} | HotelsWithPets.com`,
+    pt: `${hotel.name} — Hotel pet-friendly em ${cityPt} | HotelsWithPets.com`,
   }
   const descriptions: Record<string, string> = {
     en: `${hotel.name} in ${dest.name}: pet policy: ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,
     fr: `${hotel.name} à ${cityFr} — politique animaux : ${cleanPetPolicy.slice(0, 100)}. Dès ${hotel.priceFrom} €/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
     es: `${hotel.name} en ${cityEs} — política de mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noche. Puntuación: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo por mascota: ${petFeeStr}.`,
+    pt: `${hotel.name} em ${cityPt} — política animal: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noite. Nota: ${hotel.rating}/10 (${hotel.reviewCount} avaliações). Taxa de animal: ${petFeeStr}.`,
   }
   const title = titles[locale] ?? titles.en
   const description = descriptions[locale] ?? descriptions.en
@@ -66,14 +70,30 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/hotels/${slug}`,
         fr: `${SITE_URL}/fr/hotels/${slug}`,
         es: `${SITE_URL}/es/hotels/${slug}`,
+        pt: `${SITE_URL}/pt/hotels/${slug}`,
         'x-default': `${SITE_URL}/en/hotels/${slug}`,
       },
     },
   }
 }
 
-function sanitizePetPolicy(raw: string, petFee?: number): string {
+function sanitizePetPolicy(raw: string, petFee?: number, locale: string = 'en'): string {
   const fallback = (): string => {
+    if (locale === 'fr') {
+      if (petFee === 0) return 'Les animaux séjournent gratuitement. Chiens et chats sont les bienvenus dans tout l\'hôtel.'
+      if (petFee !== undefined && petFee > 0) return `Animaux acceptés. Un supplément de ${petFee} € par nuit s'applique. À confirmer à la réservation.`
+      return 'Les animaux sont les bienvenus. Confirmez la politique exacte au moment de la réservation.'
+    }
+    if (locale === 'es') {
+      if (petFee === 0) return 'Las mascotas se alojan gratis. Perros y gatos son bienvenidos en todo el hotel.'
+      if (petFee !== undefined && petFee > 0) return `Mascotas admitidas. Se aplica un cargo de ${petFee} € por noche. Confirmar al reservar.`
+      return 'Las mascotas son bienvenidas. Confirma la política exacta al reservar.'
+    }
+    if (locale === 'pt') {
+      if (petFee === 0) return 'Os animais ficam gratuitamente. Cães e gatos são bem-vindos em todo o hotel.'
+      if (petFee !== undefined && petFee > 0) return `Animais admitidos. Aplica-se um suplemento de ${petFee} € por noite. A confirmar na reserva.`
+      return 'Os animais são bem-vindos. Confirme a política exata no momento da reserva.'
+    }
     if (petFee === 0) return 'Pets stay free of charge. Dogs and cats are welcome throughout the property.'
     if (petFee !== undefined && petFee > 0) return `Pets accepted. A pet fee of €${petFee} per night applies. Please confirm on booking.`
     return 'Pets are welcome. Please confirm specific pet policy when booking.'
@@ -140,7 +160,7 @@ export default async function HotelPage({
     ],
   }
 
-  const cleanPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
+  const cleanPolicy = locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)
   const hotelImage = `https://www.hotelswithpets.com/images/hotels/${hotel.id}.jpg`
   const destHasCoords = 'lat' in dest && 'lng' in dest
 
@@ -269,7 +289,7 @@ export default async function HotelPage({
                   <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">Pet Policy</p>
                   <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
                 </div>
-                <p className="text-gray-700 text-sm leading-relaxed">{sanitizePetPolicy(hotel.petPolicy, hotel.petFee)}</p>
+                <p className="text-gray-700 text-sm leading-relaxed">{locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)}</p>
               </div>
 
               {/* Highlights */}

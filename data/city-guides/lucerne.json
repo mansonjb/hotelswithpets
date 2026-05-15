@@ -1,0 +1,823 @@
+{
+  "slug": "lucerne",
+  "name": "Lucerne",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "lastUpdated": "2026-05-15",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Lucerne — Lakeside Terraces & Altstadt Bistros",
+      "titleFr": "Restaurants dog-friendly à Lucerne — Terrasses au bord du lac et bistros de la Vieille Ville",
+      "titleEs": "Restaurantes pet-friendly en Lucerna — Terrazas junto al lago y bistrós del casco antiguo",
+      "introEn": "Lucerne is unusually relaxed about dogs in restaurants for a Swiss city: most lakeside terraces, Altstadt brasseries and traditional Stube serve water bowls without being asked. Falstaff lists 17 venues that explicitly welcome dogs, and a handful seat them indoors all year round.",
+      "introFr": "Lucerne est étonnamment détendue avec les chiens en restaurant pour une ville suisse : la plupart des terrasses du lac, brasseries de la Vieille Ville et Stube traditionnelles servent des gamelles d'eau sans qu'on le demande. Falstaff répertorie 17 adresses explicitement dog-friendly, et quelques-unes les acceptent en salle toute l'année.",
+      "introEs": "Lucerna es sorprendentemente relajada con perros en restaurantes para una ciudad suiza: la mayoría de las terrazas junto al lago, brasseries del casco antiguo y Stube tradicionales sirven cuencos de agua sin pedirlo. Falstaff lista 17 locales explícitamente dog-friendly, y algunos los aceptan en sala todo el año.",
+      "places": [
+        {
+          "name": "Brasserie Bodu",
+          "address": "Kornmarkt 5, 6004 Luzern",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/lucerne-restaurants-brasserie-bodu.jpg",
+          "website": "https://www.brasseriebodu.ch/",
+          "description": "Parisian brasserie tucked behind the Kornmarkt with red leather banquettes, oysters, steak frites and one of Lucerne's most serious wine lists. A long-time fixture among the city's francophone diners.",
+          "descriptionFr": "Brasserie parisienne nichée derrière le Kornmarkt avec banquettes en cuir rouge, huîtres, entrecôte-frites et l'une des cartes de vin les plus sérieuses de Lucerne. Un classique pour les francophones de la ville.",
+          "descriptionEs": "Brasserie parisina escondida tras el Kornmarkt con banquetas de cuero rojo, ostras, entrecôte con patatas fritas y una de las cartas de vinos más serias de Lucerna. Un clásico para los francófonos locales.",
+          "petPolicy": "Leashed dogs welcome on the terrace and in the dining room",
+          "petPolicyFr": "Chiens en laisse admis en terrasse et en salle",
+          "petPolicyEs": "Perros con correa admitidos en terraza y en sala",
+          "priceRange": "€€€",
+          "mustTry": "Plateau d'huîtres, entrecôte café de Paris, tarte tatin",
+          "mustTryFr": "Plateau d'huîtres, entrecôte café de Paris, tarte tatin",
+          "mustTryEs": "Plato de ostras, entrecôte café de Paris, tarte tatin",
+          "openingHours": "Mon–Sat 11:30–14:00, 18:00–24:00",
+          "tip": "Reserve a corner banquette for two — narrow space means medium-to-large dogs are easier to seat between the back wall and the bar.",
+          "tipFr": "Réservez une banquette d'angle pour deux — l'espace est étroit, les moyens et grands chiens passent mieux entre le mur du fond et le bar.",
+          "tipEs": "Reserva una banqueta de esquina para dos — el espacio es estrecho, los perros medianos o grandes encajan mejor entre la pared del fondo y la barra.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+Bodu+Luzern"
+        },
+        {
+          "name": "Restaurant Bündnerland",
+          "address": "Pilatusstrasse 49, 6003 Luzern",
+          "neighborhood": "Hirschmatt",
+          "photo": "/images/city-places/lucerne-restaurants-restaurant-bundnerland.jpg",
+          "website": "https://www.buendnerland-luzern.ch/",
+          "description": "Small Graubünden inn three blocks south of the station serving capuns, pizokel, Bündnerfleisch and rustic alpine specialities in a wood-panelled Stube. Family-run and openly proud of being one of the most dog-welcoming addresses in town.",
+          "descriptionFr": "Petite auberge des Grisons à trois rues au sud de la gare proposant capuns, pizokel, Bündnerfleisch et spécialités alpines rustiques dans une Stube boisée. Familiale et fière d'être l'une des adresses les plus dog-friendly de la ville.",
+          "descriptionEs": "Pequeña posada de los Grisones a tres manzanas al sur de la estación con capuns, pizokel, Bündnerfleisch y especialidades alpinas rústicas en una Stube de madera. Familiar y orgullosa de ser una de las direcciones más dog-friendly de la ciudad.",
+          "petPolicy": "Dogs welcome inside year-round; water bowl served on arrival",
+          "petPolicyFr": "Chiens admis en salle toute l'année ; gamelle d'eau dès l'arrivée",
+          "petPolicyEs": "Perros admitidos en sala todo el año; cuenco de agua a la llegada",
+          "priceRange": "€€",
+          "mustTry": "Capuns, Bündner Pizokel, Bündnerfleisch platter",
+          "mustTryFr": "Capuns, pizokel grisons, planchette de Bündnerfleisch",
+          "mustTryEs": "Capuns, pizokel de los Grisones, tabla de Bündnerfleisch",
+          "openingHours": "Tue–Sat 11:30–14:00, 17:30–23:00",
+          "tip": "Closed Sunday and Monday — and capuns sell out by 13:00 on Saturday lunch. Arrive at noon sharp.",
+          "tipFr": "Fermé dimanche et lundi — et les capuns s'épuisent vers 13h le samedi midi. Arrivez à midi pile.",
+          "tipEs": "Cerrado domingo y lunes — y los capuns se agotan hacia las 13:00 el sábado al mediodía. Llega a las 12:00 en punto.",
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Bundnerland+Luzern"
+        },
+        {
+          "name": "Restaurant Wirtshaus Galliker",
+          "address": "Schützenstrasse 1, 6003 Luzern",
+          "neighborhood": "Hirschmatt-Neustadt",
+          "photo": "/images/city-places/lucerne-restaurants-restaurant-wirtshaus-galliker.jpg",
+          "website": "https://www.wirtshaus-galliker.ch/",
+          "description": "Family-run Lucerne institution since 1856, famous for chügelipastetli, kuttelsuppe and wood-aged Hopfenperle on tap. The dining room has not changed in fifty years — checked tablecloths, dark wood, copper pans on the wall.",
+          "descriptionFr": "Institution familiale lucernoise depuis 1856, célèbre pour son chügelipastetli, sa soupe de tripes et la Hopfenperle au fût vieillie en bois. La salle à manger n'a pas changé en cinquante ans — nappes à carreaux, bois sombre, casseroles en cuivre au mur.",
+          "descriptionEs": "Institución familiar lucernesa desde 1856, famosa por su chügelipastetli, sopa de callos y Hopfenperle de barril madurada en madera. El comedor no ha cambiado en cincuenta años — manteles de cuadros, madera oscura, sartenes de cobre en la pared.",
+          "petPolicy": "Well-behaved leashed dogs welcome inside the Stube and outside",
+          "petPolicyFr": "Chiens calmes en laisse admis en Stube et en extérieur",
+          "petPolicyEs": "Perros tranquilos con correa admitidos en la Stube y fuera",
+          "priceRange": "€€€",
+          "mustTry": "Chügelipastetli, Lucerne kuttelsuppe, Galliker apple tart",
+          "mustTryFr": "Chügelipastetli, soupe de tripes lucernoise, tarte aux pommes Galliker",
+          "mustTryEs": "Chügelipastetli, sopa de callos lucernesa, tarta de manzana Galliker",
+          "openingHours": "Tue–Sat 11:30–14:00, 18:00–24:00",
+          "tip": "Cash preferred and reservations essential after 19:30; small dogs slot under the corner tables, large dogs better in the back room.",
+          "tipFr": "Espèces préférées et réservation indispensable après 19h30 ; petits chiens sous les tables d'angle, grands chiens plutôt dans la salle du fond.",
+          "tipEs": "Prefieren efectivo y la reserva es imprescindible tras las 19:30; perros pequeños bajo las mesas de esquina, grandes mejor en la sala del fondo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wirtshaus+Galliker+Luzern"
+        }
+      ],
+      "tipsEn": [
+        "Most Lucerne restaurants have no formal pet policy — staff simply allow leashed, calm dogs. Phrase to use at the door: \"Hund OK?\".",
+        "Lakeside venues along Schweizerhofquai and Nationalquai are almost universally dog-friendly on the terrace from May to October.",
+        "Swiss tap water is excellent and free; ask for a \"Schälchen Wasser\" (water bowl) — it is rarely refused."
+      ],
+      "tipsFr": [
+        "La plupart des restaurants lucernois n'ont pas de politique formelle — le personnel accepte simplement les chiens calmes en laisse. Phrase à utiliser à l'entrée : « Hund OK ? ».",
+        "Les adresses du bord du lac le long du Schweizerhofquai et du Nationalquai acceptent quasi toutes les chiens en terrasse de mai à octobre.",
+        "L'eau du robinet suisse est excellente et gratuite ; demandez une « Schälchen Wasser » (gamelle d'eau) — c'est rarement refusé."
+      ],
+      "tipsEs": [
+        "La mayoría de los restaurantes lucerneses no tienen política formal — el personal admite simplemente perros tranquilos con correa. Frase a usar en la puerta: «Hund OK?».",
+        "Los locales a orillas del lago en Schweizerhofquai y Nationalquai admiten casi todos perros en terraza de mayo a octubre.",
+        "El agua del grifo suiza es excelente y gratuita; pide un «Schälchen Wasser» (cuenco de agua) — rara vez te lo niegan."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Lucerne restaurants?",
+          "a": "Yes in most cases. Lucerne is more dog-tolerant than Zurich or Geneva: terraces are universally open and many Stube allow indoor seating year-round. Always ask at the door — refusals are rare and usually limited to fine-dining tasting menus."
+        },
+        {
+          "q": "Do I need to pay extra for my dog in a restaurant?",
+          "a": "No. Swiss restaurants do not charge for pets, and a complimentary water bowl is standard. Tipping the waiter the usual 5-10% is appreciated if your dog received attention."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Lucerne ?",
+          "a": "Oui dans la plupart des cas. Lucerne est plus tolérante envers les chiens que Zurich ou Genève : les terrasses sont universellement ouvertes et beaucoup de Stube acceptent les chiens en salle toute l'année. Demandez toujours à l'entrée — les refus sont rares et généralement limités aux menus dégustation gastronomiques."
+        },
+        {
+          "q": "Faut-il payer un supplément pour son chien au restaurant ?",
+          "a": "Non. Les restaurants suisses ne facturent pas les animaux, et la gamelle d'eau gratuite est la norme. Un pourboire habituel de 5 à 10 % est apprécié si votre chien a été choyé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Lucerna?",
+          "a": "Sí en la mayoría de casos. Lucerna es más tolerante con los perros que Zúrich o Ginebra: las terrazas son universalmente abiertas y muchas Stube admiten perros en sala todo el año. Pregunta siempre en la puerta — las negativas son raras y suelen limitarse a menús degustación gastronómicos."
+        },
+        {
+          "q": "¿Hay que pagar suplemento por el perro en el restaurante?",
+          "a": "No. Los restaurantes suizos no cobran por las mascotas, y el cuenco de agua gratuito es estándar. Una propina habitual del 5-10% es apreciada si tu perro ha sido mimado."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Off-Leash Areas in Lucerne",
+      "titleFr": "Meilleurs parcs et zones sans laisse à Lucerne",
+      "titleEs": "Mejores parques y zonas sin correa en Lucerna",
+      "introEn": "Lucerne sits between Lake Lucerne and the wooded ridge of Sonnenberg, so green space is closer than in most Swiss cities. The city manages a handful of fenced or signed off-leash areas, and the surrounding forests of Allmend, Sonnenberg and Eichwäldli are pet-friendly with a leash from 1 April to 31 July (ground-nesting bird season).",
+      "introFr": "Lucerne est nichée entre le lac et la crête boisée du Sonnenberg : les espaces verts sont plus proches que dans la plupart des villes suisses. La ville gère quelques zones sans laisse clôturées ou signalées, et les forêts environnantes (Allmend, Sonnenberg, Eichwäldli) sont accessibles aux chiens en laisse du 1er avril au 31 juillet (saison de nidification au sol).",
+      "introEs": "Lucerna se ubica entre el lago y la cresta boscosa del Sonnenberg, así que el espacio verde está más cerca que en la mayoría de las ciudades suizas. La ciudad gestiona algunas zonas sin correa valladas o señalizadas, y los bosques circundantes (Allmend, Sonnenberg, Eichwäldli) son accesibles para perros con correa del 1 de abril al 31 de julio (temporada de nidificación en el suelo).",
+      "places": [
+        {
+          "name": "Allmend Lucerne",
+          "address": "Allmendstrasse, 6005 Luzern",
+          "neighborhood": "Allmend / Eichhof",
+          "photo": "/images/city-places/lucerne-parks-allmend-lucerne.jpg",
+          "website": "https://www.stadtluzern.ch/",
+          "description": "A vast 30-hectare municipal commons south of the train station, mixing sports fields, the Swissporarena and a large dog-walking area along the wooded fringe. Locals walk their dogs here at dawn before the football crowds arrive.",
+          "descriptionFr": "Vaste pré communal de 30 hectares au sud de la gare, mêlant terrains de sport, Swissporarena et une grande zone de promenade canine en lisière boisée. Les locaux y promènent leurs chiens à l'aube avant l'arrivée des supporters.",
+          "descriptionEs": "Amplia explanada municipal de 30 hectáreas al sur de la estación, que combina campos deportivos, el Swissporarena y una gran zona de paseo canino en la linde boscosa. Los lugareños pasean a sus perros al amanecer antes de la llegada de los aficionados al fútbol.",
+          "petPolicy": "Leashed dogs welcome year-round; off-leash tolerated on the wooded eastern fringe outside event days",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; sans laisse toléré en lisière boisée à l'est hors jours d'événement",
+          "petPolicyEs": "Perros con correa admitidos todo el año; sin correa tolerado en la linde boscosa este fuera de días de evento",
+          "tip": "Avoid match days at Swissporarena — the area swarms with people and noise. Check the FCL fixture list before walking here on a Saturday afternoon.",
+          "tipFr": "Évitez les jours de match au Swissporarena — la zone est noire de monde et bruyante. Vérifiez le calendrier du FCL avant de venir un samedi après-midi.",
+          "tipEs": "Evita días de partido en el Swissporarena — la zona se llena de gente y ruido. Consulta el calendario del FCL antes de venir un sábado por la tarde.",
+          "googleMapsUrl": "https://maps.google.com/?q=Allmend+Luzern"
+        },
+        {
+          "name": "Inseli Park",
+          "address": "Inseliquai, 6005 Luzern",
+          "neighborhood": "Inseli / Bahnhof",
+          "photo": "/images/city-places/lucerne-parks-inseli-park.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "Small lakeside park directly behind the train station, anchored by a Niki de Saint Phalle sculpture and waterfront benches. Five minutes from any Bahnhof hotel, perfect for a quick lake-edge sniff before catching a train.",
+          "descriptionFr": "Petit parc lacustre juste derrière la gare, ponctué d'une sculpture de Niki de Saint Phalle et de bancs au bord de l'eau. À cinq minutes de tout hôtel Bahnhof, parfait pour une pause olfactive avant de prendre un train.",
+          "descriptionEs": "Pequeño parque lacustre justo detrás de la estación, marcado por una escultura de Niki de Saint Phalle y bancos junto al agua. A cinco minutos de cualquier hotel del Bahnhof, perfecto para una pausa olfativa antes de coger un tren.",
+          "petPolicy": "Leash required; lake water access along the seawall is allowed",
+          "petPolicyFr": "Laisse obligatoire ; accès à l'eau du lac autorisé le long du quai",
+          "petPolicyEs": "Correa obligatoria; acceso al agua del lago permitido a lo largo del malecón",
+          "tip": "The pier hosts the SGV lake-cruise boats — most accept dogs free of charge, an excellent way to combine a park visit with a quick scenic ride.",
+          "tipFr": "Le ponton accueille les bateaux SGV de croisière sur le lac — la plupart acceptent les chiens gratuitement, parfait pour combiner parc et balade panoramique.",
+          "tipEs": "El embarcadero acoge los barcos SGV de crucero por el lago — la mayoría admite perros gratis, ideal para combinar parque y un paseo panorámico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Inseli+Park+Luzern"
+        },
+        {
+          "name": "Sonnenberg Forest",
+          "address": "Sonnenbergstrasse, 6010 Kriens",
+          "neighborhood": "Sonnenberg / Kriens",
+          "photo": "/images/city-places/lucerne-parks-sonnenberg-forest.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "Wooded ridge rising directly above the city to 745 m, criss-crossed by 15 km of forestry tracks and panoramic ridge paths. The Sonnenbergbahn funicular from Kriens hauls people and leashed dogs to the top in five minutes for a long downhill walk back into Lucerne.",
+          "descriptionFr": "Crête boisée qui surplombe la ville à 745 m, sillonnée de 15 km de chemins forestiers et de sentiers panoramiques. La Sonnenbergbahn (funiculaire) depuis Kriens hisse personnes et chiens en laisse au sommet en cinq minutes pour une longue descente jusqu'à Lucerne.",
+          "descriptionEs": "Cresta boscosa que se alza sobre la ciudad a 745 m, surcada por 15 km de pistas forestales y senderos panorámicos. La Sonnenbergbahn (funicular) desde Kriens sube personas y perros con correa a la cima en cinco minutos para un largo descenso hasta Lucerna.",
+          "petPolicy": "Leash required from 1 April to 31 July (nesting season); off-leash on tracks the rest of the year if dog has reliable recall",
+          "petPolicyFr": "Laisse obligatoire du 1er avril au 31 juillet (nidification) ; sans laisse sur les chemins le reste de l'année si rappel fiable",
+          "petPolicyEs": "Correa obligatoria del 1 de abril al 31 de julio (nidificación); sin correa en pistas el resto del año si el perro tiene buena llamada",
+          "tip": "Take the funicular up, walk down via the WWII bunker trail — 90 minutes of forest, exits next to a tram stop back to the centre.",
+          "tipFr": "Montez en funiculaire, descendez par le sentier des bunkers de la Seconde Guerre — 90 minutes de forêt, sortie à côté d'un arrêt de tram vers le centre.",
+          "tipEs": "Sube en funicular y baja por el sendero de los búnkeres de la Segunda Guerra — 90 minutos de bosque, salida junto a una parada de tranvía hacia el centro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sonnenberg+Kriens"
+        }
+      ],
+      "tipsEn": [
+        "Switzerland enforces a federal leash duty in protected areas and a Lucerne canton-wide leash duty in forests from 1 April to 31 July to protect ground-nesting wildlife.",
+        "Always carry waste bags — Lucerne canton fines start at CHF 100 for unbagged droppings, and uniformed wardens patrol Allmend and the lake quays.",
+        "Off-leash fenced parks are scarce — for sustained recall practice, use the wooded north slope of Allmend before 09:00 or the Eichwäldli forestry tracks west of the city."
+      ],
+      "tipsFr": [
+        "La Suisse applique une obligation fédérale de laisse en zone protégée et une obligation cantonale lucernoise de laisse en forêt du 1er avril au 31 juillet pour protéger la faune nichant au sol.",
+        "Ramenez toujours des sacs — les amendes lucernoises commencent à 100 CHF pour des déjections non ramassées, et des agents en uniforme patrouillent l'Allmend et les quais du lac.",
+        "Les parcs clôturés sans laisse sont rares — pour du rappel soutenu, utilisez le versant nord boisé de l'Allmend avant 9h ou les chemins forestiers d'Eichwäldli à l'ouest de la ville."
+      ],
+      "tipsEs": [
+        "Suiza aplica una obligación federal de correa en zonas protegidas y una obligación cantonal lucernesa de correa en bosques del 1 de abril al 31 de julio para proteger la fauna que nidifica en el suelo.",
+        "Lleva siempre bolsas — las multas lucernesas empiezan en 100 CHF por excrementos no recogidos, y agentes uniformados patrullan el Allmend y los muelles del lago.",
+        "Los parques vallados sin correa son escasos — para practicar la llamada, usa la ladera boscosa norte del Allmend antes de las 9:00 o las pistas forestales de Eichwäldli al oeste de la ciudad."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run off-leash in Lucerne?",
+          "a": "There is no enclosed off-leash dog park inside the city. Dogs can run off-leash on the wooded fringe of Allmend, on Sonnenberg forest tracks (outside 1 April to 31 July) and in the Eichwäldli woods if recall is reliable. Otherwise leash duty applies in all public spaces."
+        },
+        {
+          "q": "Are Lucerne lakefront promenades dog-friendly?",
+          "a": "Yes — the Schweizerhofquai, Nationalquai and Inseli waterfront welcome leashed dogs year-round. Lake water access is allowed off the seawall outside designated swim areas, but check Lido and Ufschötti rules in summer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils courir sans laisse à Lucerne ?",
+          "a": "Il n'y a pas de parc canin clôturé en ville. Les chiens peuvent courir sans laisse en lisière boisée de l'Allmend, sur les chemins forestiers du Sonnenberg (hors 1er avril–31 juillet) et dans les bois d'Eichwäldli si le rappel est fiable. Ailleurs, la laisse est obligatoire dans tout espace public."
+        },
+        {
+          "q": "Les promenades du bord de lac à Lucerne sont-elles dog-friendly ?",
+          "a": "Oui — le Schweizerhofquai, le Nationalquai et l'Inseli accueillent les chiens en laisse toute l'année. L'accès à l'eau depuis le quai est autorisé hors zones de baignade balisées, mais vérifiez les règles du Lido et de l'Ufschötti en été."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden correr los perros sin correa en Lucerna?",
+          "a": "No hay parque canino vallado dentro de la ciudad. Los perros pueden correr sin correa en la linde boscosa del Allmend, en pistas forestales del Sonnenberg (fuera del 1 de abril–31 de julio) y en los bosques de Eichwäldli si la llamada es fiable. Fuera de esto, la correa es obligatoria en todo espacio público."
+        },
+        {
+          "q": "¿Son dog-friendly los paseos a orillas del lago en Lucerna?",
+          "a": "Sí — el Schweizerhofquai, el Nationalquai y el Inseli admiten perros con correa todo el año. El acceso al agua desde el malecón está permitido fuera de zonas de baño balizadas, pero comprueba las normas del Lido y del Ufschötti en verano."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Your Dog in Lucerne — Transport & Mobility",
+      "titleFr": "Voyager avec son chien à Lucerne — Transport et mobilité",
+      "titleEs": "Viajar con tu perro en Lucerna — Transporte y movilidad",
+      "introEn": "Switzerland has clear, country-wide pet rules on public transport, and Lucerne sits inside the Passepartout fare network for trains, buses, boats and the Pilatus and Rigi cogwheel railways. The day pass for dogs (CHF 25) covers everything for one day, anywhere in Switzerland — the single best deal in Europe for a multi-mountain dog itinerary.",
+      "introFr": "La Suisse a des règles nationales claires pour les animaux dans les transports, et Lucerne est dans le réseau tarifaire Passepartout (trains, bus, bateaux, crémaillères du Pilatus et du Rigi). La carte journalière chien (25 CHF) couvre tout pour une journée, partout en Suisse — la meilleure affaire d'Europe pour un itinéraire multi-sommets avec chien.",
+      "introEs": "Suiza tiene normas nacionales claras para mascotas en transporte público, y Lucerna está en la red tarifaria Passepartout (trenes, autobuses, barcos, cremalleras del Pilatus y el Rigi). El billete diario para perros (25 CHF) cubre todo durante un día, en toda Suiza — la mejor oferta de Europa para un itinerario multi-cima con perro.",
+      "places": [
+        {
+          "name": "VBL City Buses & Trolleybuses",
+          "address": "Bahnhofplatz, 6003 Luzern",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/lucerne-transport-vbl-city-buses-trolleybuses.jpg",
+          "website": "https://www.vbl.ch/",
+          "description": "Verkehrsbetriebe Luzern runs 23 daytime bus and trolleybus lines covering the entire city and inner agglomeration. Small dogs in a carrier ride free; larger dogs need a half-fare ticket or a CHF 25 day pass.",
+          "descriptionFr": "Verkehrsbetriebe Luzern exploite 23 lignes diurnes de bus et trolleybus couvrant toute la ville et la première agglomération. Petits chiens en sac : gratuits ; grands chiens : billet demi-tarif ou carte journalière 25 CHF.",
+          "descriptionEs": "Verkehrsbetriebe Luzern opera 23 líneas diurnas de bus y trolebús cubriendo toda la ciudad y la primera aglomeración. Perros pequeños en bolso: gratis; perros grandes: billete a mitad de precio o billete diario 25 CHF.",
+          "petPolicy": "Small dogs in carrier: free. Larger dogs: half-fare ticket required or CHF 25 daily Hundespass",
+          "petPolicyFr": "Petits chiens en sac : gratuits. Grands chiens : billet demi-tarif ou Hundespass journalier à 25 CHF",
+          "petPolicyEs": "Perros pequeños en bolso: gratis. Perros grandes: billete a mitad de precio o Hundespass diario de 25 CHF",
+          "tip": "Buy the dog day pass at any SBB ticket machine (touch \"Hund\" — there is a button) — at CHF 25 it pays back instantly if you also plan to use SBB trains or SGV boats the same day.",
+          "tipFr": "Achetez la carte journalière chien à n'importe quel automate SBB (touche « Hund ») — à 25 CHF elle est rentabilisée immédiatement si vous prenez aussi un train CFF ou un bateau SGV le même jour.",
+          "tipEs": "Compra el billete diario para perros en cualquier máquina SBB (toque «Hund» — existe ese botón) — a 25 CHF se amortiza al instante si también usas un tren SBB o un barco SGV ese mismo día.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bahnhofplatz+Luzern"
+        },
+        {
+          "name": "SGV Lake Lucerne Boats",
+          "address": "Landungsbrücke 1, 6002 Luzern",
+          "neighborhood": "Schweizerhofquai pier",
+          "photo": "/images/city-places/lucerne-transport-sgv-lake-lucerne-boats.jpg",
+          "website": "https://www.lakelucerne.ch/",
+          "description": "Schifffahrtsgesellschaft des Vierwaldstättersees operates the historic paddle steamers and modern motor vessels that crisscross Lake Lucerne. Dogs are welcome on every vessel, on every deck, with a half-fare ticket or a Swiss Travel Pass.",
+          "descriptionFr": "La Schifffahrtsgesellschaft des Vierwaldstättersees exploite les vapeurs à roues à aubes historiques et les bateaux modernes qui sillonnent le lac. Les chiens sont admis sur tous les bateaux, sur tous les ponts, avec billet demi-tarif ou Swiss Travel Pass.",
+          "descriptionEs": "La Schifffahrtsgesellschaft des Vierwaldstättersees opera los históricos vapores de paletas y los barcos modernos que cruzan el lago. Los perros son bienvenidos en todos los barcos, en todas las cubiertas, con billete a mitad de precio o Swiss Travel Pass.",
+          "petPolicy": "Dogs welcome on all SGV vessels with half-fare ticket; small dogs in carrier travel free; muzzle requested only for nervous large dogs",
+          "petPolicyFr": "Chiens admis sur tous les bateaux SGV avec billet demi-tarif ; petits chiens en sac gratuits ; muselière demandée uniquement pour grands chiens nerveux",
+          "petPolicyEs": "Perros admitidos en todos los barcos SGV con billete a mitad de precio; perros pequeños en bolso gratis; bozal solo para perros grandes nerviosos",
+          "tip": "The 2-hour Lucerne–Vitznau round trip on a paddle steamer is the single most beautiful dog-friendly transport in Switzerland — book the open lower deck for shade.",
+          "tipFr": "L'aller-retour Lucerne–Vitznau en deux heures sur un vapeur à roues à aubes est sans doute le plus beau transport dog-friendly de Suisse — réservez le pont inférieur ouvert pour l'ombre.",
+          "tipEs": "La ida y vuelta Lucerna–Vitznau en dos horas en vapor de paletas es probablemente el transporte dog-friendly más bonito de Suiza — reserva la cubierta inferior abierta para sombra.",
+          "googleMapsUrl": "https://maps.google.com/?q=SGV+Schifffahrt+Luzern"
+        },
+        {
+          "name": "Pilatus & Rigi Mountain Railways",
+          "address": "Schlossweg 1, 6010 Kriens",
+          "neighborhood": "Pilatus / Rigi region",
+          "photo": "/images/city-places/lucerne-transport-pilatus-rigi-mountain-railways.jpg",
+          "website": "https://www.pilatus.ch/",
+          "description": "Two of Switzerland's flagship cogwheel mountain railways climb directly from Lucerne. Pilatus has the steepest cogwheel railway in the world (48% gradient); Rigi is the original Queen of the Mountains. Both accept leashed, well-behaved dogs.",
+          "descriptionFr": "Deux des crémaillères phares de Suisse partent depuis Lucerne. Le Pilatus possède la crémaillère la plus raide au monde (48%) ; le Rigi est l'originale « Reine des Montagnes ». Les deux acceptent les chiens en laisse bien éduqués.",
+          "descriptionEs": "Dos de las cremalleras estrella de Suiza salen desde Lucerna. El Pilatus tiene la cremallera más empinada del mundo (48%); el Rigi es la original «Reina de las Montañas». Ambas admiten perros con correa bien educados.",
+          "petPolicy": "Pilatus: dogs ride free in cabins, half-fare ticket on the cogwheel railway. Rigi: dogs free year-round on cogwheels, cable car and gondola; muzzle on busy days requested",
+          "petPolicyFr": "Pilatus : chiens gratuits en cabines, billet demi-tarif sur la crémaillère. Rigi : chiens gratuits toute l'année sur crémaillères, téléphérique et gondole ; muselière demandée jours d'affluence",
+          "petPolicyEs": "Pilatus: perros gratis en cabinas, billete a mitad de precio en la cremallera. Rigi: perros gratis todo el año en cremalleras, teleférico y góndola; bozal en días de afluencia solicitado",
+          "tip": "On Pilatus, the cogwheel railway only runs May–November; outside that window, take the cable car from Kriens. Pilatus Kulm summit has water bowls at the panorama terrace.",
+          "tipFr": "Sur le Pilatus, la crémaillère ne fonctionne que de mai à novembre ; hors saison, prenez le téléphérique depuis Kriens. Le sommet Pilatus Kulm propose des gamelles d'eau à la terrasse panoramique.",
+          "tipEs": "En el Pilatus, la cremallera solo funciona de mayo a noviembre; fuera de temporada, toma el teleférico desde Kriens. La cima Pilatus Kulm ofrece cuencos de agua en la terraza panorámica.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pilatus+Bahn+Kriens"
+        }
+      ],
+      "tipsEn": [
+        "The Swiss \"Tageskarte für Hunde\" (CHF 25) is valid all day on every train, bus, boat and most cogwheel railways nationwide — the cheapest way to combine Lucerne city, Pilatus, Rigi and a Lake Lucerne boat trip.",
+        "Small dogs (under 30 cm at withers) in a closed carrier ride free with no ticket on SBB, VBL and SGV.",
+        "Lucerne main station has SBB ticket counters open until 21:30 — staff sell dog day passes and answer pet-routing questions in English."
+      ],
+      "tipsFr": [
+        "La « Tageskarte für Hunde » suisse (25 CHF) est valable toute la journée dans tout train, bus, bateau et la plupart des crémaillères du pays — le moyen le moins cher de combiner Lucerne, Pilatus, Rigi et une croisière sur le lac.",
+        "Les petits chiens (moins de 30 cm au garrot) en sac fermé voyagent gratuitement sans billet sur SBB, VBL et SGV.",
+        "La gare principale de Lucerne dispose de guichets SBB ouverts jusqu'à 21h30 — le personnel vend les cartes journalières chien et répond aux questions de planification animale en anglais."
+      ],
+      "tipsEs": [
+        "El «Tageskarte für Hunde» suizo (25 CHF) es válido todo el día en cualquier tren, autobús, barco y la mayoría de cremalleras del país — la forma más barata de combinar Lucerna, Pilatus, Rigi y un crucero por el lago.",
+        "Los perros pequeños (menos de 30 cm a la cruz) en transportín cerrado viajan gratis sin billete en SBB, VBL y SGV.",
+        "La estación principal de Lucerna tiene mostradores SBB abiertos hasta las 21:30 — el personal vende billetes diarios para perros y responde preguntas de itinerarios con mascota en inglés."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do dogs need a ticket on Swiss public transport?",
+          "a": "Yes if larger than 30 cm at withers. Small dogs in a closed carrier travel free. Larger dogs need a 2nd-class half-fare ticket for each leg, or a CHF 25 day pass valid nationwide on SBB, regional buses, lake boats and most cogwheel railways."
+        },
+        {
+          "q": "Are dogs allowed on the Pilatus cogwheel railway?",
+          "a": "Yes. Leashed, well-behaved dogs ride on a half-fare ticket; the cable car from Kriens accepts dogs free of charge. The cogwheel railway operates only between May and November; outside that window use the cable car."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet pour son chien dans les transports suisses ?",
+          "a": "Oui si le chien dépasse 30 cm au garrot. Les petits chiens en sac fermé voyagent gratuitement. Les grands chiens ont besoin d'un billet 2e classe demi-tarif pour chaque trajet, ou d'une carte journalière à 25 CHF valable dans tout le pays sur CFF, bus régionaux, bateaux et la plupart des crémaillères."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans la crémaillère du Pilatus ?",
+          "a": "Oui. Les chiens en laisse bien éduqués voyagent avec un billet demi-tarif ; le téléphérique depuis Kriens accepte les chiens gratuitement. La crémaillère ne fonctionne qu'entre mai et novembre ; hors saison, utilisez le téléphérique."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesitan los perros billete en el transporte público suizo?",
+          "a": "Sí si miden más de 30 cm a la cruz. Los perros pequeños en transportín cerrado viajan gratis. Los perros grandes necesitan un billete de 2ª clase a mitad de precio por trayecto, o un billete diario de 25 CHF válido en todo el país en SBB, autobuses regionales, barcos y la mayoría de cremalleras."
+        },
+        {
+          "q": "¿Se admiten perros en la cremallera del Pilatus?",
+          "a": "Sí. Los perros con correa y bien educados viajan con billete a mitad de precio; el teleférico desde Kriens admite perros gratis. La cremallera solo funciona entre mayo y noviembre; fuera de temporada, usa el teleférico."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Lake Lucerne Beaches & Dog Swim Spots",
+      "titleFr": "Plages du lac et baignades canines à Lucerne",
+      "titleEs": "Playas del lago y zonas de baño canino en Lucerna",
+      "introEn": "Lake Lucerne is fjord-like, deep, clean and warm enough to swim in from June to early September. Dogs are excluded from the official Lido and Ufschötti swimming areas in summer, but the wider lakeshore offers several pebbly bays and discreet entry points where dogs can swim freely outside the bathing season.",
+      "introFr": "Le lac des Quatre-Cantons est de type fjord, profond, propre et assez chaud pour la baignade de juin à début septembre. Les chiens sont exclus des plages officielles Lido et Ufschötti en été, mais le pourtour du lac offre plusieurs criques de galets et accès discrets où les chiens peuvent nager librement hors saison de baignade.",
+      "introEs": "El lago de los Cuatro Cantones es tipo fiordo, profundo, limpio y cálido lo suficiente para nadar de junio a principios de septiembre. Los perros están excluidos de las playas oficiales Lido y Ufschötti en verano, pero la orilla más amplia del lago ofrece varias calas de guijarros y accesos discretos donde los perros pueden nadar libremente fuera de la temporada de baño.",
+      "places": [
+        {
+          "name": "Hundebadi Tribschen",
+          "address": "Tribschenstrasse, 6005 Luzern",
+          "neighborhood": "Tribschen",
+          "photo": "/images/city-places/lucerne-beaches-hundebadi-tribschen.jpg",
+          "website": "https://www.stadtluzern.ch/",
+          "description": "The closest dog swim bay to the city centre, on the southern lakeshore behind the Tribschen Wagner Museum. A short pebble beach with shallow entry into the clear lake, used year-round by city dog owners.",
+          "descriptionFr": "La crique de baignade canine la plus proche du centre, sur la rive sud derrière le musée Wagner de Tribschen. Petite plage de galets, entrée peu profonde dans l'eau claire, fréquentée par les Lucernois toute l'année.",
+          "descriptionEs": "La cala de baño canino más cercana al centro, en la orilla sur tras el museo Wagner de Tribschen. Pequeña playa de guijarros, entrada poco profunda al agua clara, frecuentada por dueños lucerneses todo el año.",
+          "petPolicy": "Off-leash swimming tolerated year-round; not an officially designated bathing area",
+          "petPolicyFr": "Baignade sans laisse tolérée toute l'année ; pas une zone de baignade officielle",
+          "petPolicyEs": "Baño sin correa tolerado todo el año; no es zona de baño oficial",
+          "tip": "Combine a Wagner Museum visit with a dog dip — the Wagner park grounds in front of the villa are open and dog-friendly on a leash.",
+          "tipFr": "Combinez la visite du musée Wagner et le bain de votre chien — le parc Wagner devant la villa est ouvert et accessible aux chiens en laisse.",
+          "tipEs": "Combina la visita al museo Wagner con el baño del perro — el parque Wagner frente a la villa está abierto y admite perros con correa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tribschen+Luzern"
+        },
+        {
+          "name": "Würzenbach Lakeshore",
+          "address": "Würzenbachstrasse, 6006 Luzern",
+          "neighborhood": "Würzenbach / Seeburg",
+          "photo": "/images/city-places/lucerne-beaches-wurzenbach-lakeshore.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "Quiet residential lakeshore east of the centre, where a public footpath traces a string of grassy banks and small pebble bays. A favourite of local dog owners away from the tourist crowds; bus 6/8 from the station drops at Würzenbach.",
+          "descriptionFr": "Rive lacustre résidentielle tranquille à l'est du centre, où un sentier public suit une succession de berges herbeuses et de petites criques de galets. Favori des propriétaires de chiens locaux loin des touristes ; bus 6/8 depuis la gare jusqu'à Würzenbach.",
+          "descriptionEs": "Orilla residencial tranquila al este del centro, con un sendero público que recorre una sucesión de orillas herbosas y pequeñas calas de guijarros. Favorito de los dueños de perros locales lejos del bullicio turístico; bus 6/8 desde la estación hasta Würzenbach.",
+          "petPolicy": "Leash on the path; off-leash swimming allowed off the rocky points outside summer bathing season",
+          "petPolicyFr": "Laisse sur le sentier ; baignade sans laisse autorisée depuis les pointes rocheuses hors saison estivale",
+          "petPolicyEs": "Correa en el sendero; baño sin correa permitido desde las puntas rocosas fuera de la temporada estival de baño",
+          "tip": "The water here drops off quickly — easy fetch swimming for water-confident dogs, but stay close to the bank with smaller breeds.",
+          "tipFr": "L'eau plonge rapidement — bon spot de rapport pour chiens à l'aise dans l'eau, mais restez près de la berge avec les petites races.",
+          "tipEs": "El agua desciende rápido — bueno para juegos de cobro con perros acuáticos, pero quédate cerca de la orilla con razas pequeñas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wurzenbach+Luzern"
+        },
+        {
+          "name": "Lido Lucerne (perimeter only)",
+          "address": "Lidostrasse 6a, 6006 Luzern",
+          "neighborhood": "Lido",
+          "photo": "/images/city-places/lucerne-beaches-lido-lucerne-perimeter-only.jpg",
+          "website": "https://www.lido-luzern.ch/",
+          "description": "Lucerne's flagship sandy beach with 300 m of shore, lawns, changing rooms and views of Pilatus and Bürgenstock. Dogs are not admitted inside the paid bathing perimeter, but the public Lido promenade alongside it is dog-friendly with shaded benches and a water fountain.",
+          "descriptionFr": "La plage de sable phare de Lucerne, 300 m de rive, pelouses, vestiaires et vues sur le Pilatus et le Bürgenstock. Les chiens ne sont pas admis à l'intérieur de la baignade payante, mais la promenade publique du Lido qui la longe est dog-friendly avec bancs ombragés et fontaine.",
+          "descriptionEs": "La playa de arena estrella de Lucerna, 300 m de orilla, céspedes, vestuarios y vistas al Pilatus y al Bürgenstock. Los perros no se admiten dentro del baño de pago, pero el paseo público del Lido que lo bordea es dog-friendly con bancos sombreados y fuente.",
+          "petPolicy": "Dogs prohibited inside the paid Lido bathing area year-round; allowed leashed on the adjacent public promenade",
+          "petPolicyFr": "Chiens interdits à l'intérieur du Lido payant toute l'année ; admis en laisse sur la promenade publique adjacente",
+          "petPolicyEs": "Perros prohibidos dentro del Lido de pago todo el año; admitidos con correa en el paseo público adyacente",
+          "tip": "Walk the lakefront from the Lido east to the Verkehrshaus pier — 1 km of dog-friendly path with two unmarked pebble entries to the water for a quick splash.",
+          "tipFr": "Longez le bord du lac depuis le Lido jusqu'au ponton du Verkehrshaus — 1 km de sentier dog-friendly avec deux entrées de galets non balisées pour un petit plongeon.",
+          "tipEs": "Recorre la orilla desde el Lido hasta el embarcadero del Verkehrshaus — 1 km de sendero dog-friendly con dos entradas de guijarros no señalizadas para un baño rápido.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lido+Luzern"
+        }
+      ],
+      "tipsEn": [
+        "Lake Lucerne is one of the cleanest large lakes in Europe — bathing-grade water from May to October. Avoid the first 24 hours after heavy rain (run-off raises bacterial counts).",
+        "Officially marked Badi (lidos) prohibit dogs in the bathing perimeter from 1 May to 30 September, with fines up to CHF 100. Use the public-shore alternatives instead.",
+        "Bring a quick-dry towel and rinse coats with fresh water — the lake leaves a fine mineral residue that can dull double coats."
+      ],
+      "tipsFr": [
+        "Le lac est l'un des plus propres d'Europe — qualité baignade de mai à octobre. Évitez les premières 24 h après une grosse pluie (le ruissellement augmente la charge bactérienne).",
+        "Les Badi (plages officielles) interdisent les chiens dans la zone de baignade du 1er mai au 30 septembre, avec amendes jusqu'à 100 CHF. Utilisez les alternatives sur rive publique.",
+        "Apportez une serviette absorbante et rincez le poil à l'eau claire — le lac laisse un fin résidu minéral qui peut ternir les poils doubles."
+      ],
+      "tipsEs": [
+        "El lago es uno de los más limpios de Europa — calidad de baño de mayo a octubre. Evita las primeras 24 h tras una lluvia fuerte (la escorrentía aumenta la carga bacteriana).",
+        "Las Badi (playas oficiales) prohíben perros en la zona de baño del 1 de mayo al 30 de septiembre, con multas de hasta 100 CHF. Usa las alternativas en orilla pública.",
+        "Lleva una toalla absorbente y aclara el pelaje con agua dulce — el lago deja un residuo mineral fino que puede apagar los pelos dobles."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in Lake Lucerne?",
+          "a": "Yes outside the official bathing perimeters. Dogs swim freely at Tribschen, Würzenbach lakeshore and several lakeside footpath bays year-round. Inside the paid Lido and free Ufschötti perimeters, dogs are banned 1 May to 30 September."
+        },
+        {
+          "q": "Is the lake water safe for dogs?",
+          "a": "Generally yes — Lake Lucerne is monitored weekly for E. coli and intestinal enterococci and consistently rates excellent. Avoid algal blooms (rare, late summer) and skip swimming for 24 h after intense rain."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils nager dans le lac des Quatre-Cantons ?",
+          "a": "Oui hors zones de baignade officielles. Les chiens nagent librement à Tribschen, sur la rive de Würzenbach et dans plusieurs criques publiques toute l'année. À l'intérieur du Lido payant et de l'Ufschötti gratuit, les chiens sont interdits du 1er mai au 30 septembre."
+        },
+        {
+          "q": "L'eau du lac est-elle sûre pour les chiens ?",
+          "a": "Globalement oui — le lac est analysé chaque semaine (E. coli, entérocoques intestinaux) et la qualité est constamment excellente. Évitez les efflorescences algales (rares, fin d'été) et ne nagez pas dans les 24 h suivant une pluie intense."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en el lago de Lucerna?",
+          "a": "Sí fuera de las zonas oficiales de baño. Los perros nadan libremente en Tribschen, en la orilla de Würzenbach y en varias calas públicas todo el año. Dentro del Lido de pago y del Ufschötti gratuito, los perros están prohibidos del 1 de mayo al 30 de septiembre."
+        },
+        {
+          "q": "¿Es segura el agua del lago para los perros?",
+          "a": "Generalmente sí — el lago se analiza semanalmente (E. coli, enterococos intestinales) y la calidad es constantemente excelente. Evita las floraciones de algas (raras, finales de verano) y no nades 24 h después de una lluvia intensa."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Veterinarians & 24h Animal Care in Lucerne",
+      "titleFr": "Vétérinaires d'urgence et soins animaliers 24h à Lucerne",
+      "titleEs": "Veterinarios de urgencia y atención animal 24h en Lucerna",
+      "introEn": "Lucerne does not have a dedicated 24-hour vet hospital inside the city, but two long-running clinics handle small-animal medicine and surgery during extended hours, and the Tierklinik Aarau and Universitäres Tierspital Zürich (60 km, accepts walk-in emergencies 24/7) cover the night shift. Save these numbers in your phone before you arrive.",
+      "introFr": "Lucerne n'a pas d'hôpital vétérinaire 24h en ville, mais deux cabinets historiques traitent la médecine et la chirurgie des petits animaux en horaires étendus, et la Tierklinik Aarau et le Tierspital universitaire de Zurich (60 km, urgences 24/7) couvrent la nuit. Enregistrez ces numéros dans votre téléphone dès l'arrivée.",
+      "introEs": "Lucerna no tiene un hospital veterinario 24h en la ciudad, pero dos clínicas históricas atienden medicina y cirugía de pequeños animales en horario ampliado, y la Tierklinik Aarau y el Tierspital universitario de Zúrich (60 km, urgencias 24/7) cubren la noche. Guarda estos números en tu móvil al llegar.",
+      "places": [
+        {
+          "name": "Tierklinik Obergrund AG",
+          "address": "Obergrundstrasse 110, 6005 Luzern",
+          "neighborhood": "Obergrund",
+          "photo": "/images/city-places/lucerne-vets-tierklinik-obergrund-ag.jpg",
+          "website": "https://www.tierklinik-obergrund.ch/",
+          "description": "Lucerne's largest small-animal clinic, family-run for over 40 years. Internal medicine, surgery, dentistry, ultrasound, in-house lab and own pharmacy. Extended weekday hours and Saturday morning consultations.",
+          "descriptionFr": "Plus grand cabinet pour petits animaux de Lucerne, familial depuis plus de 40 ans. Médecine interne, chirurgie, dentisterie, échographie, laboratoire interne et pharmacie. Horaires étendus en semaine et consultations le samedi matin.",
+          "descriptionEs": "Mayor clínica de pequeños animales de Lucerna, familiar desde hace más de 40 años. Medicina interna, cirugía, odontología, ecografía, laboratorio interno y farmacia. Horario ampliado entre semana y consultas los sábados por la mañana.",
+          "petPolicy": "Walk-ins accepted during opening hours; after-hours emergencies routed via answering machine to on-call vet",
+          "petPolicyFr": "Sans rendez-vous accepté aux horaires d'ouverture ; urgences hors horaires renvoyées par répondeur au vétérinaire de garde",
+          "petPolicyEs": "Sin cita aceptada en horario de apertura; urgencias fuera de horario derivadas por contestador al veterinario de guardia",
+          "tip": "Even after closing, dial the main number — the answering machine routes to the regional emergency vet rota covering Lucerne, Nidwalden and Obwalden cantons.",
+          "tipFr": "Même après fermeture, composez le numéro principal — le répondeur renvoie vers le tour de garde régional Lucerne / Nidwald / Obwald.",
+          "tipEs": "Incluso fuera de horario, marca el número principal — el contestador deriva al turno de guardia regional Lucerna / Nidwalden / Obwalden.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Obergrund+Luzern"
+        },
+        {
+          "name": "Tierarztpraxis Kneubühler",
+          "address": "Schwanenplatz 7, 6004 Luzern",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/lucerne-vets-tierarztpraxis-kneubuhler.jpg",
+          "website": "https://www.tierarztpraxis.ch/",
+          "description": "Long-established city-centre practice run by Dr Arthur Kneubühler, focused on cats and small dogs. Conveniently located right by the lake bridges and Schwanenplatz bus hub. Offers night and weekend emergency consultations with a surcharge.",
+          "descriptionFr": "Cabinet historique en centre-ville tenu par le Dr Arthur Kneubühler, axé chats et petits chiens. Idéalement situé près des ponts et du hub de bus Schwanenplatz. Consultations urgentes nuit et week-end avec supplément.",
+          "descriptionEs": "Consulta histórica en el centro a cargo del Dr. Arthur Kneubühler, especializada en gatos y perros pequeños. Excelente ubicación junto a los puentes del lago y el hub de buses Schwanenplatz. Consultas urgentes de noche y fin de semana con recargo.",
+          "petPolicy": "Appointment-based; walk-in emergencies accepted with surcharge during off-hours",
+          "petPolicyFr": "Sur rendez-vous ; urgences sans rendez-vous acceptées avec supplément hors horaires",
+          "petPolicyEs": "Con cita; urgencias sin cita admitidas con recargo fuera de horario",
+          "tip": "The most central vet within 5-minute walk of every Altstadt hotel — keep the practice card in your wallet from arrival day one.",
+          "tipFr": "Le vétérinaire le plus central, à 5 minutes à pied de tout hôtel de la Vieille Ville — gardez la carte dans votre portefeuille dès le premier jour.",
+          "tipEs": "El veterinario más céntrico, a 5 minutos a pie de cualquier hotel del casco antiguo — guarda la tarjeta en tu cartera desde el primer día.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Kneubuhler+Schwanenplatz+Luzern"
+        },
+        {
+          "name": "AniCura Tierspital Zürich (24h, 60 km)",
+          "address": "Winterthurerstrasse 260, 8057 Zürich",
+          "neighborhood": "Zürich Oerlikon",
+          "photo": "/images/city-places/lucerne-vets-anicura-tierspital-zurich-24h-60-km.jpg",
+          "website": "https://www.anicura.ch/",
+          "description": "Switzerland's largest 24-hour small-animal hospital, 50 minutes by car from Lucerne (A4-A3 motorway) and 65 minutes by SBB train + tram from Lucerne main station. Critical care, ICU, MRI and emergency surgery available around the clock.",
+          "descriptionFr": "Plus grand hôpital pour petits animaux 24h de Suisse, à 50 minutes en voiture de Lucerne (autoroutes A4-A3) et 65 minutes en train CFF + tram depuis la gare principale. Soins intensifs, USI, IRM et chirurgie d'urgence disponibles 24h/24.",
+          "descriptionEs": "Mayor hospital de pequeños animales 24h de Suiza, a 50 minutos en coche desde Lucerna (autopistas A4-A3) y 65 minutos en tren SBB + tranvía desde la estación principal. Cuidados intensivos, UCI, RM y cirugía de urgencia disponibles 24h.",
+          "petPolicy": "Walk-in 24/7; pre-call recommended to alert the on-call team and confirm capacity",
+          "petPolicyFr": "Sans rendez-vous 24/7 ; appel préalable recommandé pour prévenir l'équipe de garde et confirmer la capacité",
+          "petPolicyEs": "Sin cita 24/7; llamada previa recomendada para avisar al equipo de guardia y confirmar disponibilidad",
+          "tip": "Save +41 44 315 47 47 in your phone before any Switzerland trip — it is the closest 24/7 ICU vet to Lucerne, and the AniCura nationwide hotline can also redirect you to nearer partner clinics if Zurich is too far.",
+          "tipFr": "Enregistrez +41 44 315 47 47 dans votre téléphone avant tout voyage en Suisse — c'est l'USI vétérinaire 24/7 la plus proche de Lucerne, et le standard AniCura national peut aussi vous rediriger vers une clinique partenaire plus proche si Zurich est trop loin.",
+          "tipEs": "Guarda +41 44 315 47 47 en tu móvil antes de cualquier viaje a Suiza — es la UCI veterinaria 24/7 más cercana a Lucerna, y la centralita AniCura nacional también puede redirigirte a una clínica asociada más cercana si Zúrich queda lejos.",
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Tierspital+Zurich"
+        }
+      ],
+      "tipsEn": [
+        "Switzerland is not in the EU but is fully aligned on EU pet entry rules — EU pet passport, ISO microchip and rabies vaccine ≥21 days old are required and accepted both ways at the border.",
+        "Veterinary fees in Switzerland are among the highest in Europe — a basic consultation runs CHF 80-120, an out-of-hours emergency surcharge can add CHF 200-400. Travel insurance with vet cover is recommended.",
+        "Common Lucerne-region risks: tick-borne TBE (vaccinate or use Frontline-style topical), lake-side foxtail grass (June-August) and adder snakes above 1,000 m on Pilatus and Rigi (rare, leash dogs on rocky ridges)."
+      ],
+      "tipsFr": [
+        "La Suisse n'est pas dans l'UE mais alignée sur les règles UE d'entrée des animaux — passeport européen, puce ISO et vaccin antirabique ≥21 jours sont obligatoires et acceptés dans les deux sens à la frontière.",
+        "Les tarifs vétérinaires en Suisse sont parmi les plus élevés d'Europe — consultation de base 80-120 CHF, supplément urgence hors horaires 200-400 CHF. Assurance voyage avec couverture vétérinaire recommandée.",
+        "Risques régionaux : TBE par tiques (vaccin ou antiparasitaire topique), épillets en bord de lac (juin-août) et vipères au-delà de 1 000 m sur le Pilatus et le Rigi (rares, chien en laisse sur les crêtes rocheuses)."
+      ],
+      "tipsEs": [
+        "Suiza no está en la UE pero está alineada con las normas UE de entrada de mascotas — pasaporte europeo, microchip ISO y vacuna antirrábica ≥21 días son obligatorios y aceptados en ambos sentidos en la frontera.",
+        "Las tarifas veterinarias en Suiza están entre las más altas de Europa — consulta básica 80-120 CHF, recargo de urgencia fuera de horario 200-400 CHF. Recomendable seguro de viaje con cobertura veterinaria.",
+        "Riesgos regionales: TBE por garrapatas (vacuna o antiparasitario tópico), espigas a orillas del lago (junio-agosto) y víboras por encima de 1.000 m en Pilatus y Rigi (raras, perro con correa en crestas rocosas)."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Lucerne city?",
+          "a": "No dedicated 24-hour clinic operates inside Lucerne city. The regional emergency rota is reached via the answering machine of any local clinic (Tierklinik Obergrund or Tierarztpraxis Kneubühler). The closest 24/7 hospital is AniCura Tierspital Zürich, 50 minutes by car or 65 minutes by train."
+        },
+        {
+          "q": "Will my EU pet passport work in Switzerland?",
+          "a": "Yes. Switzerland accepts the EU pet passport at the border in both directions, with the standard requirements: ISO microchip, valid rabies vaccine at least 21 days old, and a tapeworm treatment is NOT required to enter or leave Switzerland (unlike the UK or Ireland)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h à Lucerne ?",
+          "a": "Aucun cabinet 24h à Lucerne intra-muros. Le tour de garde régional s'atteint via le répondeur de tout cabinet local (Tierklinik Obergrund ou Tierarztpraxis Kneubühler). L'hôpital 24/7 le plus proche est AniCura Tierspital Zürich, 50 minutes en voiture ou 65 minutes en train."
+        },
+        {
+          "q": "Mon passeport européen pour animal fonctionne-t-il en Suisse ?",
+          "a": "Oui. La Suisse accepte le passeport européen à la frontière dans les deux sens, avec les exigences standard : puce ISO, vaccin antirabique valide d'au moins 21 jours. Aucun traitement antiparasitaire ténia n'est requis pour entrer ou sortir de Suisse (contrairement au Royaume-Uni ou à l'Irlande)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24h en Lucerna?",
+          "a": "No hay clínica 24h dentro de la ciudad de Lucerna. El turno de guardia regional se alcanza por el contestador de cualquier clínica local (Tierklinik Obergrund o Tierarztpraxis Kneubühler). El hospital 24/7 más cercano es AniCura Tierspital Zürich, a 50 minutos en coche o 65 minutos en tren."
+        },
+        {
+          "q": "¿Funciona mi pasaporte UE para mascotas en Suiza?",
+          "a": "Sí. Suiza acepta el pasaporte UE en la frontera en ambos sentidos, con los requisitos estándar: microchip ISO, vacuna antirrábica válida de al menos 21 días. No se exige tratamiento antitenia para entrar o salir de Suiza (a diferencia del Reino Unido o Irlanda)."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Lucerne with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Lucerne avec un chien",
+      "titleEs": "Consejos prácticos para visitar Lucerna con un perro",
+      "introEn": "Switzerland is one of Europe's most pet-friendly countries on paper — and Lucerne lives up to it. Cleaner-than-average lake water, well-marked trails, dog-tolerant restaurants and outstanding public transport. The four practical hurdles to plan for: high vet costs, strict leash duty 1 April-31 July, brutally hot Altstadt cobbles in July-August, and the language switch from German to dialect Schwyzerdütsch.",
+      "introFr": "La Suisse est l'un des pays les plus pet-friendly d'Europe sur le papier — et Lucerne tient ses promesses. Eau du lac plus propre que la moyenne, sentiers bien balisés, restaurants tolérants et transports publics excellents. Quatre obstacles pratiques à anticiper : coûts vétérinaires élevés, laisse obligatoire 1er avril-31 juillet, pavés de la Vieille Ville brûlants en juillet-août, et bascule linguistique allemand → dialecte schwytzertütsch.",
+      "introEs": "Suiza es uno de los países más pet-friendly de Europa sobre el papel — y Lucerna cumple. Agua del lago más limpia que la media, senderos bien señalizados, restaurantes tolerantes y excelente transporte público. Cuatro obstáculos prácticos a anticipar: altos costes veterinarios, correa obligatoria del 1 de abril al 31 de julio, adoquines del casco antiguo abrasadores en julio-agosto, y cambio lingüístico alemán → dialecto schwyzerdütsch.",
+      "places": [],
+      "tipsEn": [
+        "Bring CHF in cash for small purchases and dog day passes — Switzerland is heavily card-based but smaller bus drivers and rural cafe terraces still prefer francs. ATMs are everywhere; the ones inside SBB stations have the best rates.",
+        "Lucerne's pedestrian Altstadt cobblestones reach 50 °C+ on August afternoons. Walk early before 10:00 or after 18:00, or stick to the wooded Sonnenberg trails on the hottest days.",
+        "Pack a tick remover and check coats every evening — the Lucerne foothills and Sonnenberg forest harbour ticks year-round, and the canton has confirmed cases of TBE (tick-borne encephalitis) in dogs.",
+        "Booking train + boat + cogwheel combinations? Use the official SBB Mobile app — pet day passes (CHF 25) can be added in two taps and synced to the same QR code as your own ticket."
+      ],
+      "tipsFr": [
+        "Apportez quelques CHF en liquide pour petits achats et cartes journalières chien — la Suisse est très carte mais les chauffeurs de petits bus et terrasses rurales préfèrent encore les francs. Les distributeurs sont partout ; ceux dans les gares CFF offrent les meilleurs taux.",
+        "Les pavés piétons de la Vieille Ville atteignent 50 °C+ par après-midi d'août. Promenez-vous tôt avant 10h ou après 18h, ou restez sur les sentiers boisés du Sonnenberg les jours les plus chauds.",
+        "Emportez une pince à tiques et vérifiez le poil chaque soir — les contreforts lucernois et la forêt du Sonnenberg abritent des tiques toute l'année, et le canton a confirmé des cas d'encéphalite à tiques (TBE) chez le chien.",
+        "Combinaisons train + bateau + crémaillère ? Utilisez l'application officielle SBB Mobile — les cartes journalières chien (25 CHF) s'ajoutent en deux taps et sont synchronisées avec le même QR code que votre billet."
+      ],
+      "tipsEs": [
+        "Lleva algunos CHF en efectivo para compras pequeñas y billetes diarios para perros — Suiza usa mucho la tarjeta pero los conductores de buses pequeños y terrazas rurales prefieren francos. Hay cajeros por todas partes; los de las estaciones SBB tienen los mejores tipos.",
+        "Los adoquines peatonales del casco antiguo alcanzan 50 °C+ las tardes de agosto. Pasea temprano antes de las 10:00 o después de las 18:00, o quédate en los senderos boscosos del Sonnenberg los días más calurosos.",
+        "Lleva un sacador de garrapatas y revisa el pelo cada noche — los pies de monte de Lucerna y el bosque del Sonnenberg albergan garrapatas todo el año, y el cantón tiene casos confirmados de encefalitis por garrapata (TBE) en perros.",
+        "¿Combinaciones tren + barco + cremallera? Usa la app oficial SBB Mobile — los billetes diarios para perros (25 CHF) se añaden en dos toques y se sincronizan con el mismo código QR que tu billete."
+      ],
+      "faqsEn": [
+        {
+          "q": "What documents does my dog need to enter Switzerland?",
+          "a": "An EU pet passport (or third-country equivalent), an ISO microchip, and a valid rabies vaccine at least 21 days old. Tapeworm treatment is NOT required for entering or leaving Switzerland. Dogs from non-rabies-free countries need additional serology — check FSVO requirements before travel."
+        },
+        {
+          "q": "Are dogs allowed in cable cars and cogwheel railways around Lucerne?",
+          "a": "Almost universally yes. Pilatus, Rigi, Stanserhorn, Bürgenstock and Klewenalp all accept leashed dogs. A muzzle is sometimes requested for nervous large dogs on busy days. Small dogs in carriers travel free; larger dogs need a half-fare ticket or the CHF 25 day pass."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quels documents pour entrer en Suisse avec son chien ?",
+          "a": "Un passeport européen pour animal (ou équivalent pays tiers), une puce ISO et un vaccin antirabique valide d'au moins 21 jours. Aucun traitement antitenia n'est requis pour entrer ou sortir de Suisse. Les chiens venus de pays non indemnes de la rage ont besoin d'une sérologie supplémentaire — vérifiez les exigences OSAV avant le voyage."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans les téléphériques et crémaillères autour de Lucerne ?",
+          "a": "Quasiment partout. Pilatus, Rigi, Stanserhorn, Bürgenstock et Klewenalp acceptent tous les chiens en laisse. La muselière est parfois demandée pour les grands chiens nerveux les jours chargés. Petits chiens en sac : gratuits ; grands chiens : billet demi-tarif ou carte journalière 25 CHF."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué documentos necesita mi perro para entrar en Suiza?",
+          "a": "Un pasaporte UE para mascotas (o equivalente de tercer país), un microchip ISO y una vacuna antirrábica válida de al menos 21 días. NO se exige tratamiento antitenia para entrar o salir de Suiza. Los perros procedentes de países no exentos de rabia necesitan serología adicional — consulta los requisitos del FSVO antes de viajar."
+        },
+        {
+          "q": "¿Se admiten perros en los teleféricos y cremalleras alrededor de Lucerna?",
+          "a": "Casi en todos. Pilatus, Rigi, Stanserhorn, Bürgenstock y Klewenalp admiten todos perros con correa. A veces se pide bozal para perros grandes nerviosos en días concurridos. Perros pequeños en bolso: gratis; perros grandes: billete a mitad de precio o billete diario 25 CHF."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Lucerne",
+      "titleFr": "Attractions pet-friendly à Lucerne",
+      "titleEs": "Atracciones pet-friendly en Lucerna",
+      "introEn": "Lucerne's headline sights — the Chapel Bridge, the Lion Monument, the Musegg ramparts and Mount Pilatus — are almost all open-air and dog-friendly with a leash. The two indoor museums dogs cannot enter (Verkehrshaus and Picasso Museum) sit next to dog-friendly lakeside walks; you can leave the dog with one travel companion on a shaded bench while the other tours the galleries.",
+      "introFr": "Les sites phares de Lucerne — Pont de la Chapelle, Lion de Lucerne, remparts de Musegg, Pilatus — sont quasiment tous en plein air et accessibles aux chiens en laisse. Les deux musées intérieurs interdits (Verkehrshaus et Musée Picasso) jouxtent des promenades lacustres dog-friendly ; vous pouvez confier le chien à un compagnon sur un banc ombragé pendant la visite.",
+      "introEs": "Los sitios estrella de Lucerna — Puente de la Capilla, León de Lucerna, murallas de Musegg, Pilatus — son casi todos al aire libre y accesibles para perros con correa. Los dos museos interiores prohibidos (Verkehrshaus y Museo Picasso) están junto a paseos lacustres dog-friendly; puedes dejar al perro con un acompañante en un banco sombreado durante la visita.",
+      "places": [
+        {
+          "name": "Chapel Bridge & Water Tower",
+          "address": "Kapellbrücke, 6004 Luzern",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/lucerne-attractions-chapel-bridge-water-tower.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "The 14th-century covered wooden bridge zigzagging across the Reuss is Europe's oldest surviving truss bridge and Lucerne's emblem. Triangular ceiling panels paint the city's history; the octagonal Wasserturm rises mid-span. Crossing is free, dog-friendly and takes three minutes.",
+          "descriptionFr": "Le pont couvert en bois du XIVe siècle qui zigzague sur la Reuss est le plus ancien pont à treillis encore debout d'Europe et l'emblème de Lucerne. Les panneaux triangulaires du plafond peignent l'histoire de la ville ; le Wasserturm octogonal s'élève au milieu. Traversée gratuite, dog-friendly, trois minutes.",
+          "descriptionEs": "El puente de madera cubierto del siglo XIV que zigzaguea sobre el Reuss es el puente de armadura más antiguo de Europa aún en pie y el emblema de Lucerna. Los paneles triangulares del techo pintan la historia de la ciudad; el Wasserturm octogonal se alza en medio. Cruce gratuito, dog-friendly, tres minutos.",
+          "petPolicy": "Leashed dogs welcome year-round; carry small dogs at peak summer crowds",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; portez les petits chiens en pleine affluence estivale",
+          "petPolicyEs": "Perros con correa admitidos todo el año; lleva en brazos a perros pequeños en máxima afluencia estival",
+          "tip": "Cross at 07:30 — the bridge is empty, the morning light catches the painted panels and your dog will not be jostled by tour groups. Coffee at the Reuss-side terraces opens at 08:00.",
+          "tipFr": "Traversez à 7h30 — le pont est vide, la lumière matinale capte les panneaux peints et votre chien ne sera pas bousculé par les groupes. Cafés du bord de Reuss ouverts à 8h.",
+          "tipEs": "Cruza a las 7:30 — el puente está vacío, la luz matinal capta los paneles pintados y tu perro no será empujado por grupos. Cafeterías a orillas del Reuss abiertas a las 8:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kapellbrucke+Luzern"
+        },
+        {
+          "name": "Lion Monument (Löwendenkmal)",
+          "address": "Denkmalstrasse 4, 6006 Luzern",
+          "neighborhood": "Wesemlin",
+          "photo": "/images/city-places/lucerne-attractions-lion-monument-lowendenkmal.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "Bertel Thorvaldsen's 1820 dying lion, carved straight into the cliff face, commemorates the Swiss Guards killed defending the Tuileries in 1792. Mark Twain called it \"the most mournful and moving piece of stone in the world\". Open-air, free, with a small reflecting pond.",
+          "descriptionFr": "Le lion mourant sculpté en 1820 par Bertel Thorvaldsen directement dans la falaise commémore les Gardes suisses tombés en défendant les Tuileries en 1792. Mark Twain l'a qualifié de « morceau de pierre le plus émouvant et triste au monde ». En plein air, gratuit, avec un petit bassin.",
+          "descriptionEs": "El león moribundo esculpido en 1820 por Bertel Thorvaldsen directamente en el acantilado conmemora a los Guardias suizos caídos defendiendo las Tullerías en 1792. Mark Twain lo llamó «el trozo de piedra más conmovedor y triste del mundo». Al aire libre, gratuito, con un pequeño estanque.",
+          "petPolicy": "Leashed dogs welcome in the small park around the monument",
+          "petPolicyFr": "Chiens en laisse admis dans le petit parc autour du monument",
+          "petPolicyEs": "Perros con correa admitidos en el pequeño parque que rodea el monumento",
+          "tip": "Combine with the adjacent Glacier Garden — its outdoor section (giant glacial potholes, paths) is dog-friendly; the indoor mirror maze is not.",
+          "tipFr": "Combinez avec le Jardin des Glaciers voisin — la partie extérieure (marmites glaciaires géantes, sentiers) est dog-friendly ; le labyrinthe de miroirs intérieur ne l'est pas.",
+          "tipEs": "Combina con el Jardín de los Glaciares contiguo — la parte exterior (marmitas glaciares gigantes, senderos) es dog-friendly; el laberinto de espejos interior no.",
+          "googleMapsUrl": "https://maps.google.com/?q=Lowendenkmal+Luzern"
+        },
+        {
+          "name": "Musegg Wall (Museggmauer)",
+          "address": "Museggstrasse, 6004 Luzern",
+          "neighborhood": "Musegg",
+          "photo": "/images/city-places/lucerne-attractions-musegg-wall-museggmauer.jpg",
+          "website": "https://www.luzern.com/",
+          "description": "The 870-metre medieval city wall north of the Altstadt, with nine towers including the Zytturm whose 1535 clock strikes one minute before all others in the city. Three of the towers are climbable, with rooftop panoramas over the lake and the snow-capped Alps.",
+          "descriptionFr": "Le rempart médiéval de 870 mètres au nord de la Vieille Ville, avec ses neuf tours dont le Zytturm dont l'horloge de 1535 sonne une minute avant toutes les autres en ville. Trois tours sont accessibles à la montée, avec panorama sur le lac et les Alpes enneigées.",
+          "descriptionEs": "La muralla medieval de 870 metros al norte del casco antiguo, con sus nueve torres incluida la Zytturm cuyo reloj de 1535 suena un minuto antes que todos los demás de la ciudad. Tres torres son escalables, con panorama sobre el lago y los Alpes nevados.",
+          "petPolicy": "Dogs welcome along the rampart walk; check tower-by-tower for stair access (some allow leashed small dogs, none allow large ones)",
+          "petPolicyFr": "Chiens admis le long du chemin de ronde ; vérifier tour par tour pour l'escalier (certaines acceptent les petits chiens en laisse, aucune les grands)",
+          "petPolicyEs": "Perros admitidos en el adarve; verificar torre por torre para la escalera (algunas admiten perros pequeños con correa, ninguna grandes)",
+          "tip": "The Männliturm is the easiest tower with a dog — wide stone stairs and a dog-friendly viewing platform. Open daily April-October only.",
+          "tipFr": "La Männliturm est la plus accessible avec un chien — escalier en pierre large et plateforme panoramique dog-friendly. Ouverte uniquement d'avril à octobre.",
+          "tipEs": "La Männliturm es la más accesible con perro — escalera de piedra ancha y mirador dog-friendly. Abierta solo de abril a octubre.",
+          "googleMapsUrl": "https://maps.google.com/?q=Museggmauer+Luzern"
+        }
+      ],
+      "tipsEn": [
+        "Most Lucerne open-air attractions are free and dog-friendly; the only paid sites are the museums (Verkehrshaus, Picasso, Rosengart, Glacier Garden indoor section) which exclude dogs.",
+        "The Lucerne Festival (mid-August to mid-September) brings classical-music crowds and elevated noise levels — sensitive dogs are better off doing morning walks before 09:00.",
+        "Photo etiquette: don't tie your dog to the Chapel Bridge railing for shots — the wooden bridge is a UNESCO Tentative monument and railings are fragile."
+      ],
+      "tipsFr": [
+        "La plupart des attractions plein air de Lucerne sont gratuites et dog-friendly ; seuls les musées (Verkehrshaus, Picasso, Rosengart, partie intérieure du Jardin des Glaciers) sont payants et excluent les chiens.",
+        "Le Lucerne Festival (mi-août à mi-septembre) amène des foules classiques et un niveau sonore élevé — les chiens sensibles préféreront les promenades matinales avant 9h.",
+        "Étiquette photo : n'attachez pas votre chien à la rambarde du Pont de la Chapelle pour les clichés — le pont de bois est sur la liste indicative UNESCO et les rambardes sont fragiles."
+      ],
+      "tipsEs": [
+        "La mayoría de atracciones al aire libre de Lucerna son gratuitas y dog-friendly; solo los museos (Verkehrshaus, Picasso, Rosengart, parte interior del Jardín de los Glaciares) son de pago y excluyen perros.",
+        "El Lucerne Festival (mediados de agosto a mediados de septiembre) trae multitudes de música clásica y nivel de ruido elevado — los perros sensibles prefieren paseos matinales antes de las 9:00.",
+        "Etiqueta foto: no ates a tu perro a la baranda del Puente de la Capilla para fotos — el puente de madera está en la lista indicativa UNESCO y las barandas son frágiles."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Chapel Bridge?",
+          "a": "Yes — leashed dogs are welcome year-round on the Kapellbrücke. The wooden boards are smooth and easy on paws. At peak summer afternoons (14:00-17:00) the bridge gets very crowded; carry small dogs and walk medium-to-large dogs slowly along the railing side."
+        },
+        {
+          "q": "Which Lucerne mountains can I visit with my dog?",
+          "a": "Pilatus (cable car or seasonal cogwheel), Rigi (cogwheel + cable car, dogs free year-round), Stanserhorn (open-deck CabriO cable car), Bürgenstock (Hammetschwand lift) and Klewenalp all welcome leashed dogs. Use the CHF 25 dog day pass to combine several in one day."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur le Pont de la Chapelle ?",
+          "a": "Oui — chiens en laisse admis toute l'année sur la Kapellbrücke. Les planches en bois sont lisses et faciles pour les pattes. En pleine après-midi estivale (14h-17h) le pont est bondé ; portez les petits chiens et tenez les moyens/grands près de la rambarde."
+        },
+        {
+          "q": "Quelles montagnes de Lucerne sont accessibles avec un chien ?",
+          "a": "Pilatus (téléphérique ou crémaillère saisonnière), Rigi (crémaillère + téléphérique, chiens gratuits toute l'année), Stanserhorn (téléphérique CabriO à pont ouvert), Bürgenstock (ascenseur Hammetschwand) et Klewenalp acceptent tous les chiens en laisse. Utilisez la carte journalière chien à 25 CHF pour combiner plusieurs sommets dans la journée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar mi perro al Puente de la Capilla?",
+          "a": "Sí — perros con correa admitidos todo el año en la Kapellbrücke. Las tablas de madera son lisas y cómodas para las patas. En máximas tardes estivales (14:00-17:00) el puente se llena; lleva en brazos a perros pequeños y guía a medianos/grandes despacio junto a la baranda."
+        },
+        {
+          "q": "¿Qué montañas de Lucerna son accesibles con perro?",
+          "a": "Pilatus (teleférico o cremallera estacional), Rigi (cremallera + teleférico, perros gratis todo el año), Stanserhorn (teleférico CabriO de cubierta abierta), Bürgenstock (ascensor Hammetschwand) y Klewenalp admiten todos perros con correa. Usa el billete diario para perros de 25 CHF para combinar varias cimas en un día."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitters & Dog Walkers in Lucerne",
+      "titleFr": "Pet sitters et promeneurs de chiens à Lucerne",
+      "titleEs": "Cuidadores y paseadores de perros en Lucerna",
+      "introEn": "Switzerland has a mature pet-care market and three main online platforms cover Lucerne with vetted sitters and walkers. Hourly rates are higher than the European average (CHF 25-40/hour for walks, CHF 60-90/day for boarding) but profiles are detailed, insurance is bundled and language barriers are easy to bridge: most Lucerne sitters list English in addition to German.",
+      "introFr": "La Suisse a un marché du pet-care mature et trois plateformes en ligne principales couvrent Lucerne avec sitters et promeneurs vérifiés. Tarifs supérieurs à la moyenne européenne (25-40 CHF/heure pour les promenades, 60-90 CHF/jour pour la pension) mais profils détaillés, assurance incluse, et barrière linguistique facile à franchir : la plupart des sitters lucernois parlent anglais en plus de l'allemand.",
+      "introEs": "Suiza tiene un mercado maduro de cuidado de mascotas y tres plataformas online principales cubren Lucerna con cuidadores y paseadores verificados. Tarifas superiores a la media europea (25-40 CHF/hora para paseos, 60-90 CHF/día para hospedaje) pero perfiles detallados, seguro incluido y barrera lingüística fácil de salvar: la mayoría de cuidadores lucerneses hablan inglés además de alemán.",
+      "places": [
+        {
+          "name": "Pawshake Switzerland",
+          "address": "Online platform — Lucerne coverage",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.ch/",
+          "description": "Largest community-driven pet-sitting platform in Switzerland. Lucerne lists 30+ active sitters offering daycare, boarding, walks and home visits. Background checks and vet-supported insurance included on every booking.",
+          "descriptionFr": "Plus grande plateforme communautaire de pet-sitting en Suisse. Lucerne compte plus de 30 sitters actifs proposant garderie, pension, promenades et visites à domicile. Vérifications d'antécédents et assurance avec soutien vétérinaire incluses à chaque réservation.",
+          "descriptionEs": "Mayor plataforma comunitaria de cuidado de mascotas en Suiza. Lucerna lista más de 30 cuidadores activos ofreciendo guardería, hospedaje, paseos y visitas a domicilio. Verificación de antecedentes y seguro con apoyo veterinario incluidos en cada reserva.",
+          "languages": [
+            "German",
+            "English",
+            "French"
+          ],
+          "tip": "Book at least 7 days ahead in summer — Lucerne sitters fill fast around the August 1 Swiss National Day weekend.",
+          "tipFr": "Réservez au moins 7 jours à l'avance en été — les sitters lucernois saturent vite autour du week-end de la Fête nationale du 1er août.",
+          "tipEs": "Reserva al menos 7 días antes en verano — los cuidadores lucerneses se llenan rápido en torno al fin de semana del 1 de agosto, Fiesta Nacional Suiza."
+        },
+        {
+          "name": "Petsitting24",
+          "address": "Online platform — Lucerne directory",
+          "neighborhood": "Citywide",
+          "website": "https://petsitting24.ch/en",
+          "description": "Swiss-founded pet-sitting marketplace with English/German/French/Italian interface and a full city directory for Lucerne. Hourly billing, integrated messaging, optional in-home overnight care.",
+          "descriptionFr": "Marketplace suisse de pet-sitting avec interface allemand/français/anglais/italien et annuaire complet pour Lucerne. Facturation horaire, messagerie intégrée, garde nocturne à domicile en option.",
+          "descriptionEs": "Marketplace suizo de cuidado de mascotas con interfaz alemán/francés/inglés/italiano y directorio completo para Lucerna. Facturación por hora, mensajería integrada, cuidado nocturno a domicilio opcional.",
+          "languages": [
+            "German",
+            "English",
+            "French",
+            "Italian"
+          ],
+          "tip": "Filter by \"Probelektion gratis\" for sitters who offer a free meet-and-greet — essential if your dog is reactive or anxious in new homes.",
+          "tipFr": "Filtrez par « Probelektion gratis » pour les sitters proposant une rencontre gratuite — essentiel si votre chien est réactif ou anxieux dans un nouvel environnement.",
+          "tipEs": "Filtra por «Probelektion gratis» para cuidadores que ofrecen una toma de contacto gratuita — esencial si tu perro es reactivo o ansioso en hogares nuevos."
+        },
+        {
+          "name": "PetBacker Lucerne",
+          "address": "Online platform — Luzern listings",
+          "neighborhood": "Citywide",
+          "website": "https://www.petbacker.com/",
+          "description": "International pet-care platform with active Lucerne presence. Especially strong for short-notice bookings and last-minute walks; insured every booking and reviewed publicly per sitter profile.",
+          "descriptionFr": "Plateforme internationale de pet-care avec présence active à Lucerne. Particulièrement adaptée aux réservations de dernière minute et promenades urgentes ; assurance à chaque réservation et avis publics par profil.",
+          "descriptionEs": "Plataforma internacional de cuidado de mascotas con presencia activa en Lucerna. Especialmente buena para reservas de última hora y paseos urgentes; seguro en cada reserva y reseñas públicas por perfil.",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Useful when you need a 1-hour walk while you visit a Lucerne museum that excludes dogs (Verkehrshaus, Picasso). Search for sitters listed within 1 km of your hotel for quick handovers.",
+          "tipFr": "Utile pour une promenade d'1 heure pendant la visite d'un musée qui refuse les chiens (Verkehrshaus, Picasso). Cherchez les sitters dans un rayon d'1 km de votre hôtel pour des passages rapides.",
+          "tipEs": "Útil para un paseo de 1 hora durante una visita a museos que excluyen perros (Verkehrshaus, Picasso). Busca cuidadores en un radio de 1 km de tu hotel para entregas rápidas."
+        }
+      ],
+      "tipsEn": [
+        "Always negotiate rates per visit upfront — Switzerland is strict on contractual clarity, and unpaid extras are routinely contested.",
+        "Most Lucerne hotels (Schweizerhof, Astoria, Continental, Renaissance) recommend trusted local sitters at the concierge desk — ask at check-in.",
+        "Have your sitter walk in the wooded Sonnenberg or Allmend rather than the cobbled Altstadt — your dog gets more recovery time and less paw-pad heat in summer."
+      ],
+      "tipsFr": [
+        "Négociez toujours les tarifs par visite à l'avance — la Suisse est stricte sur la clarté contractuelle et les extras non payés sont régulièrement contestés.",
+        "La plupart des hôtels de Lucerne (Schweizerhof, Astoria, Continental, Renaissance) recommandent des sitters locaux de confiance à la conciergerie — demandez à l'arrivée.",
+        "Demandez à votre sitter de promener votre chien sur le Sonnenberg boisé ou l'Allmend plutôt que sur les pavés de la Vieille Ville — moins de chaleur pour les coussinets en été."
+      ],
+      "tipsEs": [
+        "Negocia siempre las tarifas por visita por adelantado — Suiza es estricta con la claridad contractual y los extras no pagados se disputan habitualmente.",
+        "La mayoría de hoteles de Lucerna (Schweizerhof, Astoria, Continental, Renaissance) recomiendan cuidadores locales de confianza en conserjería — pregunta al llegar.",
+        "Pide a tu cuidador que pasee al perro por el Sonnenberg boscoso o el Allmend en lugar de los adoquines del casco antiguo — menos calor para las almohadillas en verano."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does a pet sitter cost in Lucerne?",
+          "a": "Hourly rates range CHF 25-40 for in-home walks or daycare visits, CHF 60-90 per night for full boarding, and CHF 35-50 per overnight in-home stay. Bookings are usually paid via the platform with a small service fee."
+        },
+        {
+          "q": "Are sitters insured?",
+          "a": "Yes on Pawshake, Petsitting24 and PetBacker — each booking includes a third-party liability and pet-medical insurance up to a platform-defined cap. Read the booking confirmation for exact coverage."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte un pet sitter à Lucerne ?",
+          "a": "Tarifs horaires : 25-40 CHF pour promenades à domicile ou garde de jour, 60-90 CHF par nuit pour la pension complète, 35-50 CHF par nuit pour la garde à domicile. Paiement via la plateforme, avec frais de service modestes."
+        },
+        {
+          "q": "Les sitters sont-ils assurés ?",
+          "a": "Oui sur Pawshake, Petsitting24 et PetBacker — chaque réservation inclut une assurance responsabilité civile et frais vétérinaires jusqu'à un plafond défini par plateforme. Vérifiez la confirmation de réservation pour la couverture exacte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de mascotas en Lucerna?",
+          "a": "Tarifas por hora: 25-40 CHF para paseos a domicilio o guardería, 60-90 CHF por noche para hospedaje completo, 35-50 CHF por noche de cuidado en casa. Pago vía plataforma, con pequeña tarifa de servicio."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores?",
+          "a": "Sí en Pawshake, Petsitting24 y PetBacker — cada reserva incluye seguro de responsabilidad civil y gastos veterinarios hasta un tope definido por la plataforma. Comprueba la confirmación de reserva para la cobertura exacta."
+        }
+      ]
+    }
+  }
+}

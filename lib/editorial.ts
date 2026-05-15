@@ -346,6 +346,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hyde Park\'s off-leash areas, Hampstead Heath, and the dog-friendly Thames riverside path',
       area: 'Islington, Notting Hill, and Bermondsey',
     },
+    lucerne: {
+      personality: 'a fairy-tale Swiss city wrapped around a deep alpine lake, where covered wooden bridges, dog-tolerant terraces and dog-friendly cogwheel railways up to Pilatus and Rigi make multi-mountain dog days exceptionally easy',
+      highlight: 'the lakeside Schweizerhofquai promenade, the Sonnenberg forest ridge above the city, and the 30-hectare Allmend commons',
+      area: 'the Altstadt, Tribschen, and Hirschmatt-Neustadt',
+    },
     luxembourg: {
       personality: 'the only European capital with free public transport for everyone (including dogs) since 2020, with nine fenced municipal dog enclosures inside the city and a UNESCO Old Town that wraps around the dramatic Pétrusse and Alzette river valleys',
       highlight: 'the Chemin de la Corniche, the Parc de la Pétrusse with its two dog enclosures, and the 600-hectare Bambësch forest',
@@ -959,6 +964,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les zones sans laisse de Hyde Park, Hampstead Heath et le sentier dog-friendly le long de la Tamise',
       area: 'Islington, Notting Hill et Bermondsey',
     },
+    lucerne: {
+      personality: `une ville suisse de conte de fées lovée autour d'un lac alpin profond, où ponts couverts en bois, terrasses dog-friendly et crémaillères pet-friendly vers le Pilatus et le Rigi rendent les journées multi-sommets avec chien étonnamment faciles`,
+      highlight: `la promenade lacustre du Schweizerhofquai, la crête boisée du Sonnenberg au-dessus de la ville et le pré communal de l'Allmend (30 hectares)`,
+      area: `la Vieille Ville (Altstadt), Tribschen et Hirschmatt-Neustadt`,
+    },
     luxembourg: {
       personality: 'la seule capitale européenne avec transports publics gratuits pour tous (chiens compris) depuis 2020, avec neuf enclos canins municipaux clôturés dans la ville et une Vieille Ville UNESCO qui épouse les spectaculaires vallées du Pétrusse et de l\'Alzette',
       highlight: 'le Chemin de la Corniche, le Parc de la Pétrusse avec ses deux enclos canins, et la forêt du Bambësch de 600 hectares',
@@ -1570,6 +1580,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una de las capitales más naturalmente acogedoras con mascotas de Europa, donde los perros acompañan a sus dueños en pubs, cafés y a través de vastos parques reales durante todo el año',
       highlight: 'las zonas sin correa de Hyde Park, Hampstead Heath y el sendero dog-friendly a orillas del Támesis',
       area: 'Islington, Notting Hill y Bermondsey',
+    },
+    lucerne: {
+      personality: `una ciudad suiza de cuento de hadas abrazada a un profundo lago alpino, donde puentes cubiertos de madera, terrazas dog-friendly y cremalleras pet-friendly al Pilatus y al Rigi hacen que las jornadas multi-cima con perro sean sorprendentemente fáciles`,
+      highlight: `el paseo lacustre del Schweizerhofquai, la cresta boscosa del Sonnenberg sobre la ciudad y la explanada comunal del Allmend (30 hectáreas)`,
+      area: `el casco antiguo (Altstadt), Tribschen y Hirschmatt-Neustadt`,
     },
     luxembourg: {
       personality: 'la única capital europea con transporte público gratuito para todos (perros incluidos) desde 2020, con nueve recintos caninos municipales vallados dentro de la ciudad y un casco antiguo UNESCO que rodea los espectaculares valles del Pétrusse y el Alzette',

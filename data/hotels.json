@@ -9532,6 +9532,127 @@
     "slug": "the-columbia-hotel-london"
   },
   {
+    "id": "lucerne-1",
+    "name": "Hotel Schweizerhof Luzern",
+    "destinationSlug": "lucerne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1554,
+    "priceFrom": 350,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/schweizerhof-luzern.html",
+    "petFee": 30,
+    "petPolicy": "Family-owned 5-star landmark on the Schweizerhofquai welcoming dogs and cats year-round in standard and superior rooms. Pet bed, water bowl and treats provided on request. Pets must be kept on a lead in all common areas and are not permitted in the spa or restaurant. CHF 30 cleaning fee per pet per night, payable at check-in.",
+    "highlights": [
+      "Lakefront Schweizerhofquai location",
+      "Spa with lake-view sauna",
+      "Two-time TripAdvisor Travelers' Choice"
+    ],
+    "slug": "hotel-schweizerhof-luzern"
+  },
+  {
+    "id": "lucerne-2",
+    "name": "AMERON Luzern Hotel Flora",
+    "destinationSlug": "lucerne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2107,
+    "priceFrom": 195,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/hotelflora.html",
+    "petFee": 25,
+    "petPolicy": "Pets are allowed at AMERON Luzern Hotel Flora for an extra fee of CHF 25 per pet per night. Both dogs and cats welcome on prior request; pets are not allowed in the breakfast room or wellness area. Two minutes from the train station and Lake Lucerne, with multiple lakeside walks and the Inseli Park within 5-minute walk.",
+    "highlights": [
+      "Two minutes from station",
+      "Asian fusion restaurant on site",
+      "Quiet inner courtyard rooms"
+    ],
+    "slug": "ameron-luzern-hotel-flora"
+  },
+  {
+    "id": "lucerne-3",
+    "name": "Hotel Astoria",
+    "destinationSlug": "lucerne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3215,
+    "priceFrom": 180,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/astoria-luzern.html",
+    "petFee": 40,
+    "petPolicy": "Hotel Astoria allows pets of any size on prior request for a fee of CHF 40 per pet per night. Both dogs and cats welcome. Pets are not allowed in the restaurants or rooftop pool area, but are welcome in the bedrooms and lobby. Located 5 minutes' walk from the Chapel Bridge and the lakeside promenade.",
+    "highlights": [
+      "Central Altstadt location",
+      "Three on-site restaurants",
+      "Rooftop bar with Pilatus view"
+    ],
+    "slug": "hotel-astoria-luzern"
+  },
+  {
+    "id": "lucerne-4",
+    "name": "Hotel Continental Park",
+    "destinationSlug": "lucerne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2658,
+    "priceFrom": 165,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/continental-park.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed at Hotel Continental Park for a fee of CHF 20 per pet per night. Dogs and cats accepted on prior request; size limits may apply (please confirm with the hotel for very large breeds). The hotel is 100 metres from Lucerne train station, with the lakeside Inseli Park 3 minutes' walk and Allmend dog area 10 minutes by bus.",
+    "highlights": [
+      "100 m from train station",
+      "Private garage with EV chargers",
+      "Free Wi-Fi throughout"
+    ],
+    "slug": "hotel-continental-park-lucerne"
+  },
+  {
+    "id": "lucerne-5",
+    "name": "Barabas Luzern",
+    "destinationSlug": "lucerne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 4126,
+    "priceFrom": 95,
+    "currency": "CHF",
+    "bookingUrl": "https://www.booking.com/hotel/ch/liberte-luzern.html",
+    "petFee": 10,
+    "petPolicy": "Pets are allowed at Barabas Luzern for a small fee of CHF 10 per pet per night. Both dogs and cats welcome on prior request; please confirm at the time of booking. The 2018-renovated property occupies a former prison building 3 minutes' walk from the Chapel Bridge — quirky, central, and one of Lucerne's most affordable pet-friendly options.",
+    "highlights": [
+      "Former prison concept",
+      "3 min walk to Chapel Bridge",
+      "Affordable central rates"
+    ],
+    "slug": "barabas-luzern"
+  },
+  {
     "id": "luxembourg-1",
     "name": "Hotel Le Place d'Armes - Relais & Châteaux",
     "destinationSlug": "luxembourg",

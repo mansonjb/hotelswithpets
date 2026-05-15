@@ -102,6 +102,7 @@ const TARGETS = [
   { slug: 'modena', query: 'Modena Italy Piazza Grande Duomo Ghirlandina tower UNESCO Emilia Romagna Romanesque panorama sunset' },
   { slug: 'nuremberg', query: 'Nuremberg Germany Kaiserburg Imperial Castle Altstadt half-timbered Pegnitz river Bavaria panorama sunset' },
   { slug: 'graz', query: 'Graz Austria Schlossberg Uhrturm clock tower Altstadt red rooftops Mur river Styria UNESCO panorama sunset' },
+  { slug: 'lucerne', query: 'Lucerne Switzerland Chapel Bridge Kapellbrucke Wasserturm Reuss river Mount Pilatus Vierwaldstattersee Altstadt panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

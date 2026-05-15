@@ -4767,6 +4767,79 @@
     }
   },
   {
+    "slug": "lucerne",
+    "name": "Lucerne",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lucerne.jpg",
+    "intro": "Lucerne combines a UNESCO-listed lake setting, dog-friendly cogwheel mountains and Switzerland's most relaxed terrace culture for a perfect Swiss city break with a dog.",
+    "lat": 47.0502,
+    "lng": 8.3093,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "luxembourg",
     "name": "Luxembourg",
     "country": "Luxembourg",

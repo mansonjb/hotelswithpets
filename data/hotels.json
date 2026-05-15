@@ -2874,6 +2874,128 @@
     "slug": "botel-marina-bratislava"
   },
   {
+    "id": "bremen-1",
+    "name": "ATLANTIC Grand Hotel Bremen",
+    "destinationSlug": "bremen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 2987,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/atlantic-grand-bremen.html",
+    "petFee": 25,
+    "petPolicy": "ATLANTIC Grand Hotel Bremen welcomes up to two dogs of any size in pet-friendly rooms (subject to availability) for an additional €25 per pet per night. Pets are not permitted in the breakfast room or wellness area; complimentary water bowl and treat upon arrival. Located steps from Böttcherstraße and the Marktplatz, with the Wallanlagen ramparts park 3 minutes' walk away.",
+    "highlights": [
+      "Steps from Böttcherstraße & Marktplatz",
+      "On-site sauna and gym",
+      "Highly rated breakfast"
+    ],
+    "slug": "atlantic-grand-hotel-bremen"
+  },
+  {
+    "id": "bremen-2",
+    "name": "Radisson Blu Hotel Bremen",
+    "destinationSlug": "bremen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4218,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/radisson-blu-hotel-bremen.html",
+    "petFee": 20,
+    "petPolicy": "Radisson Blu Hotel Bremen accepts pets of any size for an additional fee of €20 per room per night. Both dogs and cats welcome on prior request. Located beside the Bürgerpark — Bremen's 200-hectare central park is directly behind the hotel for easy walks. Pets are not allowed in the restaurants or pool area but welcome in the rooms and lobby.",
+    "highlights": [
+      "Beside the Bürgerpark",
+      "Indoor swimming pool",
+      "5 min walk to Hauptbahnhof"
+    ],
+    "slug": "radisson-blu-hotel-bremen"
+  },
+  {
+    "id": "bremen-3",
+    "name": "ATLANTIC Hotel Universum",
+    "destinationSlug": "bremen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1832,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/atlantic-universum.html",
+    "petFee": 20,
+    "petPolicy": "ATLANTIC Hotel Universum welcomes up to two dogs per room for €20 per pet per night. Both dogs and cats accepted on prior request. Located in the university quarter, 8 minutes by tram 6 from the Marktplatz, with extensive walking trails through the adjacent Universum park and woodland. Pets are not allowed in the spa.",
+    "highlights": [
+      "Distinctive whale-shaped Universum landmark",
+      "Trail-side park access",
+      "Tram 6 to centre"
+    ],
+    "slug": "atlantic-hotel-universum-bremen"
+  },
+  {
+    "id": "bremen-4",
+    "name": "Designhotel ÜberFluss",
+    "destinationSlug": "bremen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1458,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/designhotel-uberfluss-bremen.html",
+    "petFee": 20,
+    "petPolicy": "Designhotel ÜberFluss welcomes well-behaved dogs and cats for €20 per pet per night, on prior request only (subject to availability of pet-friendly rooms). Striking modernist building on the Schlachte promenade, 3 minutes' walk from the historic pedestrian centre and directly facing the Weser river — ideal for evening walks. Pets are not permitted in the restaurant.",
+    "highlights": [
+      "Schlachte riverside location",
+      "Modernist design rooms",
+      "3 min walk to Marktplatz"
+    ],
+    "slug": "designhotel-uberfluss-bremen"
+  },
+  {
+    "id": "bremen-5",
+    "name": "Hotel Munte am Stadtwald",
+    "destinationSlug": "bremen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2645,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/munte-am-stadtwald-bremen.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Munte am Stadtwald welcomes dogs for €15 per pet per night (one of the lowest pet fees in central Bremen). Pets are not permitted in the wellness area or restaurant but are welcome in rooms and the lobby. Directly facing the Stadtwald — Bremen's 200-hectare urban forest with several Hundeauslaufflächen — for the city's best dog-walking access.",
+    "highlights": [
+      "Facing the Stadtwald forest",
+      "Indoor pool & sauna",
+      "Lowest pet fee in central Bremen"
+    ],
+    "slug": "hotel-munte-am-stadtwald-bremen"
+  },
+  {
     "id": "brighton-1",
     "name": "The Grand Brighton",
     "destinationSlug": "brighton",

@@ -103,6 +103,7 @@ const TARGETS = [
   { slug: 'nuremberg', query: 'Nuremberg Germany Kaiserburg Imperial Castle Altstadt half-timbered Pegnitz river Bavaria panorama sunset' },
   { slug: 'graz', query: 'Graz Austria Schlossberg Uhrturm clock tower Altstadt red rooftops Mur river Styria UNESCO panorama sunset' },
   { slug: 'lucerne', query: 'Lucerne Switzerland Chapel Bridge Kapellbrucke Wasserturm Reuss river Mount Pilatus Vierwaldstattersee Altstadt panorama sunset' },
+  { slug: 'bremen', query: 'Bremen Germany Marktplatz Town Hall Roland Statue Stadtmusikanten Schnoor Hanseatic Weser river panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

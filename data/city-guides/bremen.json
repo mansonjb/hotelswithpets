@@ -1,0 +1,821 @@
+{
+  "slug": "bremen",
+  "name": "Bremen",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-05-15",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Bremen — Schnoor, Viertel & Schlachte",
+      "titleFr": "Restaurants dog-friendly à Brême — Schnoor, Viertel et Schlachte",
+      "titleEs": "Restaurantes pet-friendly en Bremen — Schnoor, Viertel y Schlachte",
+      "introEn": "Bremen has 49 verified dog-friendly restaurants, with the highest concentration in Das Viertel (the bohemian quarter east of the centre) and Findorff. Most Hanseatic Stuben and the Schlachte riverside terraces serve water bowls without being asked, and dogs on a leash are welcomed indoors at the majority of traditional venues.",
+      "introFr": "Brême compte 49 restaurants dog-friendly vérifiés, avec la plus forte concentration dans Das Viertel (quartier bohème à l'est du centre) et à Findorff. La plupart des Stuben hanséatiques et les terrasses de la Schlachte servent des gamelles d'eau sans qu'on le demande, et les chiens en laisse sont admis en salle dans la majorité des établissements traditionnels.",
+      "introEs": "Bremen tiene 49 restaurantes dog-friendly verificados, con la mayor concentración en Das Viertel (el barrio bohemio al este del centro) y Findorff. La mayoría de las Stuben hanseáticas y las terrazas ribereñas de la Schlachte sirven cuencos de agua sin pedirlo, y los perros con correa son admitidos en sala en la mayoría de los locales tradicionales.",
+      "places": [
+        {
+          "name": "Ratskeller Bremen",
+          "address": "Am Markt, 28195 Bremen",
+          "neighborhood": "Marktplatz",
+          "photo": "/images/city-places/bremen-restaurants-ratskeller-bremen.jpg",
+          "website": "https://www.ratskeller-bremen.de/",
+          "description": "Vaulted 600-year-old wine cellar beneath the UNESCO Town Hall, lined with 600 German wines and serving traditional Hanseatic dishes — Labskaus, Bremer Knipp, smoked North Sea fish. One of Germany's oldest restaurants in continuous operation.",
+          "descriptionFr": "Cave voûtée vieille de 600 ans sous l'Hôtel de Ville UNESCO, garnie de 600 vins allemands et servant la cuisine hanséatique — Labskaus, Bremer Knipp, poissons fumés de la mer du Nord. L'un des plus vieux restaurants en activité continue d'Allemagne.",
+          "descriptionEs": "Bodega abovedada de 600 años bajo el Ayuntamiento UNESCO, con 600 vinos alemanes y cocina hanseática — Labskaus, Bremer Knipp, pescado ahumado del Mar del Norte. Uno de los restaurantes en actividad continua más antiguos de Alemania.",
+          "petPolicy": "Leashed dogs welcome inside year-round in the back vaults; water bowl on request",
+          "petPolicyFr": "Chiens en laisse admis en salle toute l'année dans les caves du fond ; gamelle d'eau sur demande",
+          "petPolicyEs": "Perros con correa admitidos en sala todo el año en las bodegas del fondo; cuenco de agua bajo petición",
+          "priceRange": "€€€",
+          "mustTry": "Labskaus, Bremer Knipp, smoked Bückling herring with potatoes",
+          "mustTryFr": "Labskaus, Bremer Knipp, hareng fumé Bückling aux pommes de terre",
+          "mustTryEs": "Labskaus, Bremer Knipp, arenque ahumado Bückling con patatas",
+          "openingHours": "Daily 11:00–24:00",
+          "tip": "Ask for a table in the deeper back vaults — quieter, with stone alcoves perfect for medium-to-large dogs to settle.",
+          "tipFr": "Demandez une table dans les caves profondes du fond — plus calmes, avec des alcôves en pierre parfaites pour installer un moyen ou grand chien.",
+          "tipEs": "Pide una mesa en las bodegas profundas del fondo — más tranquilas, con alcobas de piedra perfectas para acomodar a un perro mediano o grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ratskeller+Bremen"
+        },
+        {
+          "name": "Beck's am Markt",
+          "address": "Am Markt 9, 28195 Bremen",
+          "neighborhood": "Marktplatz",
+          "photo": "/images/city-places/bremen-restaurants-beck-s-am-markt.jpg",
+          "website": "https://www.becksammarkt.de/",
+          "description": "The flagship restaurant of Bremen's iconic Beck's brewery, set right on the Marktplatz with a generous outdoor terrace facing the Town Hall. Hearty North German classics paired with the full Beck's range — pilsner, gold, alkoholfrei.",
+          "descriptionFr": "Restaurant phare de l'iconique brasserie Beck's de Brême, installé en plein Marktplatz avec une généreuse terrasse face à l'Hôtel de Ville. Classiques nord-allemands accompagnés de la gamme complète Beck's — pils, gold, sans alcool.",
+          "descriptionEs": "Restaurante insignia de la icónica cervecería Beck's de Bremen, en plena Marktplatz con amplia terraza frente al Ayuntamiento. Clásicos norte-alemanes acompañados de la gama completa Beck's — pils, gold, sin alcohol.",
+          "petPolicy": "Dogs welcome on the terrace and inside off-peak; water bowl provided",
+          "petPolicyFr": "Chiens admis en terrasse et en salle hors service de pointe ; gamelle d'eau fournie",
+          "petPolicyEs": "Perros admitidos en terraza y en sala fuera de horas punta; cuenco de agua suministrado",
+          "priceRange": "€€",
+          "mustTry": "Bratwurst, Bremer Pannfisch, Beck's pilsner",
+          "mustTryFr": "Bratwurst, Bremer Pannfisch, pils Beck's",
+          "mustTryEs": "Bratwurst, Bremer Pannfisch, pils Beck's",
+          "openingHours": "Daily 11:00–01:00",
+          "tip": "Front-row terrace tables face the Town Musicians statue — for photo shoots with your dog and the four-animal landmark, this is the prime spot.",
+          "tipFr": "Les tables de première rangée font face à la statue des Musiciens — pour photographier votre chien avec le quadruple monument, c'est l'emplacement de choix.",
+          "tipEs": "Las mesas de primera fila miran a la estatua de los Músicos — para fotografiar a tu perro con el monumento cuádruple, es el sitio de referencia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Becks+am+Markt+Bremen"
+        },
+        {
+          "name": "Engel Weincafé",
+          "address": "Ostertorsteinweg 31, 28203 Bremen",
+          "neighborhood": "Das Viertel",
+          "photo": "/images/city-places/bremen-restaurants-engel-weincafe.jpg",
+          "website": "https://www.engel-weincafe.de/",
+          "description": "Tiny historic wine bar and bistro on the spine of Das Viertel, with mismatched antique chairs, candles in the window and a chalkboard wine list. The bohemian heart of dog-friendly Bremen — locals bring their dogs here every evening.",
+          "descriptionFr": "Petit bar à vin et bistrot historique sur l'artère du Viertel, avec chaises chinées, bougies aux fenêtres et carte de vins à la craie. Cœur bohème du Brême dog-friendly — les locaux y viennent chaque soir avec leur chien.",
+          "descriptionEs": "Pequeño bar de vinos y bistró histórico en la columna del Viertel, con sillas antiguas desparejadas, velas en las ventanas y carta de vinos en pizarra. Corazón bohemio del Bremen dog-friendly — los lugareños vienen aquí cada tarde con su perro.",
+          "petPolicy": "Dogs explicitly welcome inside and outside year-round; treat jar at the bar",
+          "petPolicyFr": "Chiens explicitement admis en salle et en terrasse toute l'année ; bocal à friandises au comptoir",
+          "petPolicyEs": "Perros explícitamente admitidos en sala y terraza todo el año; tarro de premios en la barra",
+          "priceRange": "€€",
+          "mustTry": "Flammkuchen, North German cheese plate, Riesling by the glass",
+          "mustTryFr": "Flammkuchen, plateau de fromages nord-allemands, Riesling au verre",
+          "mustTryEs": "Flammkuchen, tabla de quesos norte-alemanes, Riesling por copa",
+          "openingHours": "Mon–Sat 17:00–01:00",
+          "tip": "The window seats fill by 18:30 — arrive early or settle for the back banquette where two large dogs can sprawl under the table.",
+          "tipFr": "Les places en fenêtre se remplissent à 18h30 — arrivez tôt ou contentez-vous de la banquette du fond où deux grands chiens peuvent s'étaler sous la table.",
+          "tipEs": "Los asientos de ventana se llenan a las 18:30 — llega temprano o quédate con la banqueta del fondo donde dos perros grandes pueden tumbarse bajo la mesa.",
+          "googleMapsUrl": "https://maps.google.com/?q=Engel+Weincafe+Bremen"
+        }
+      ],
+      "tipsEn": [
+        "Bremen is one of the most dog-tolerant German cities in restaurants — most Stuben in Das Viertel and on Schlachte explicitly welcome dogs indoors year-round.",
+        "Use \"Hund OK?\" or \"Sind Hunde willkommen?\" at the door — refusals are uncommon and almost always limited to fine-dining tasting menus.",
+        "German tap water is not free in restaurants but a Schälchen Wasser (water bowl) for dogs always is — staff will refuse to charge for it."
+      ],
+      "tipsFr": [
+        "Brême est l'une des villes allemandes les plus tolérantes envers les chiens en restaurant — la plupart des Stuben du Viertel et de la Schlachte acceptent explicitement les chiens en salle toute l'année.",
+        "Utilisez « Hund OK? » ou « Sind Hunde willkommen? » à l'entrée — les refus sont rares et presque toujours limités aux menus dégustation gastronomiques.",
+        "L'eau du robinet n'est pas gratuite en restaurant en Allemagne, mais une Schälchen Wasser (gamelle) pour le chien est toujours offerte — le personnel refusera de la facturer."
+      ],
+      "tipsEs": [
+        "Bremen es una de las ciudades alemanas más tolerantes con perros en restaurantes — la mayoría de las Stuben del Viertel y de la Schlachte admiten explícitamente perros en sala todo el año.",
+        "Usa «Hund OK?» o «Sind Hunde willkommen?» en la puerta — las negativas son raras y casi siempre limitadas a menús degustación gastronómicos.",
+        "El agua del grifo no es gratuita en los restaurantes alemanes, pero una Schälchen Wasser (cuenco) para el perro siempre lo es — el personal se negará a cobrarla."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Bremen restaurants?",
+          "a": "Yes in the vast majority. Bremen is one of the most pet-tolerant German cities in restaurants — Pawly Place lists 49 verified dog-friendly venues. Indoor seating year-round is standard for traditional Stuben in Das Viertel, on the Marktplatz and along the Schlachte. Always confirm at the door for fine-dining places."
+        },
+        {
+          "q": "Do I need to pay extra for my dog in a Bremen restaurant?",
+          "a": "No. German restaurants do not charge for pets and a complimentary water bowl is standard. A 5-10% tip is appreciated; staff often save dog treats behind the bar."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants de Brême ?",
+          "a": "Oui dans la grande majorité. Brême est l'une des villes allemandes les plus tolérantes — Pawly Place répertorie 49 adresses dog-friendly vérifiées. L'accès en salle toute l'année est la norme pour les Stuben traditionnelles du Viertel, du Marktplatz et de la Schlachte. Vérifiez toujours à l'entrée pour les restaurants gastronomiques."
+        },
+        {
+          "q": "Faut-il payer un supplément pour son chien au restaurant à Brême ?",
+          "a": "Non. Les restaurants allemands ne facturent pas les animaux et la gamelle d'eau gratuite est la norme. Un pourboire de 5-10 % est apprécié ; le personnel garde souvent des friandises derrière le comptoir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en los restaurantes de Bremen?",
+          "a": "Sí en la gran mayoría. Bremen es una de las ciudades alemanas más tolerantes — Pawly Place lista 49 locales dog-friendly verificados. El acceso en sala todo el año es lo habitual para las Stuben tradicionales del Viertel, del Marktplatz y de la Schlachte. Confirma siempre en la puerta para restaurantes gastronómicos."
+        },
+        {
+          "q": "¿Hay que pagar suplemento por el perro en un restaurante de Bremen?",
+          "a": "No. Los restaurantes alemanes no cobran por mascotas y el cuenco de agua gratuito es estándar. Una propina del 5-10% es apreciada; el personal suele guardar premios para perros tras la barra."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Off-Leash Areas in Bremen",
+      "titleFr": "Meilleurs parcs et zones sans laisse à Brême",
+      "titleEs": "Mejores parques y zonas sin correa en Bremen",
+      "introEn": "Bremen is one of Germany's greenest cities — the 200-hectare Bürgerpark and the adjacent Stadtwald form a single forested park belt right beside the centre, and since 2022 the city's environmental department (Umweltbetrieb Bremen) has opened 13 fenced off-leash dog areas across the city.",
+      "introFr": "Brême est l'une des villes les plus vertes d'Allemagne — le Bürgerpark de 200 hectares et le Stadtwald adjacent forment une seule ceinture de parcs boisés à côté du centre, et depuis 2022 la régie environnementale (Umweltbetrieb Bremen) a ouvert 13 zones canines clôturées sans laisse dans toute la ville.",
+      "introEs": "Bremen es una de las ciudades más verdes de Alemania — el Bürgerpark de 200 hectáreas y el Stadtwald adyacente forman un único cinturón de parques boscosos junto al centro, y desde 2022 la entidad medioambiental (Umweltbetrieb Bremen) ha abierto 13 zonas caninas valladas sin correa en toda la ciudad.",
+      "places": [
+        {
+          "name": "Bürgerpark",
+          "address": "Bürgerpark, 28209 Bremen",
+          "neighborhood": "Schwachhausen / Findorff",
+          "photo": "/images/city-places/bremen-parks-burgerpark.jpg",
+          "website": "https://www.buergerpark.de/",
+          "description": "Bremen's grand 200-hectare central park, opened in 1866 and entirely funded by citizen donations. English-landscape lakes, meadows, woodland and a small wildlife enclosure make it the city's living room. A fenced Hundeauslauffläche on the western edge lets dogs run off-leash year-round.",
+          "descriptionFr": "Le grand parc central de Brême (200 hectares), ouvert en 1866 et entièrement financé par les dons des citoyens. Lacs paysagers anglais, prairies, forêts et un petit enclos animalier en font le salon de la ville. Une Hundeauslauffläche clôturée à l'extrémité ouest permet aux chiens de courir sans laisse toute l'année.",
+          "descriptionEs": "El gran parque central de Bremen (200 hectáreas), inaugurado en 1866 y financiado íntegramente por donaciones ciudadanas. Lagos paisajísticos ingleses, praderas, bosque y un pequeño recinto faunístico lo convierten en el salón de la ciudad. Una Hundeauslauffläche vallada en el extremo oeste permite a los perros correr sin correa todo el año.",
+          "petPolicy": "Leashed everywhere except the signed Hundeauslauffläche on the western edge — fenced and open year-round",
+          "petPolicyFr": "En laisse partout sauf dans la Hundeauslauffläche signalée à l'extrémité ouest — clôturée et ouverte toute l'année",
+          "petPolicyEs": "Con correa en todo el parque salvo en la Hundeauslauffläche señalizada en el extremo oeste — vallada y abierta todo el año",
+          "tip": "Combine with the adjacent Stadtwald (no fence between them) — together they offer 5 km of dog-friendly forest tracks just 10 minutes' tram ride from the Marktplatz.",
+          "tipFr": "Combinez avec le Stadtwald adjacent (aucune clôture entre les deux) — ensemble ils offrent 5 km de pistes forestières dog-friendly à 10 minutes en tram du Marktplatz.",
+          "tipEs": "Combina con el Stadtwald adyacente (no hay valla entre ellos) — juntos ofrecen 5 km de pistas forestales dog-friendly a 10 minutos en tranvía del Marktplatz.",
+          "googleMapsUrl": "https://maps.google.com/?q=Burgerpark+Bremen"
+        },
+        {
+          "name": "Stadtwald",
+          "address": "Stadtwald, 28213 Bremen",
+          "neighborhood": "Horn-Lehe",
+          "photo": "/images/city-places/bremen-parks-stadtwald.jpg",
+          "website": "https://www.umweltbetrieb-bremen.de/",
+          "description": "The 200-hectare \"city forest\" extending north of the Bürgerpark, with mature beech and oak woodland, gravel forestry tracks and the Emmasee lake. Dogs can run off-leash on the marked Hundeauslaufflächen and on the wooded fringes outside the spring nesting period.",
+          "descriptionFr": "« Forêt urbaine » de 200 hectares prolongeant le Bürgerpark vers le nord, avec hêtraies et chênaies matures, pistes forestières en gravier et le lac Emmasee. Les chiens peuvent courir sans laisse sur les Hundeauslaufflächen balisées et en lisière boisée hors période de nidification printanière.",
+          "descriptionEs": "«Bosque urbano» de 200 hectáreas que prolonga el Bürgerpark hacia el norte, con hayas y robles maduros, pistas forestales de grava y el lago Emmasee. Los perros pueden correr sin correa en las Hundeauslaufflächen señalizadas y en la linde boscosa fuera del periodo de nidificación primaveral.",
+          "petPolicy": "Off-leash allowed in marked Hundeauslaufflächen and tolerated on woodland tracks; leash duty 1 March to 15 July",
+          "petPolicyFr": "Sans laisse autorisé dans les Hundeauslaufflächen balisées et toléré sur les pistes forestières ; laisse obligatoire 1er mars-15 juillet",
+          "petPolicyEs": "Sin correa permitido en las Hundeauslaufflächen señalizadas y tolerado en pistas forestales; correa obligatoria del 1 de marzo al 15 de julio",
+          "tip": "Park the bike at the Knoops Park entrance and walk the western fringe — quietest section, best dog-watching spot in Bremen on a Sunday morning.",
+          "tipFr": "Garez le vélo à l'entrée du Knoops Park et longez la lisière ouest — le tronçon le plus calme, meilleur spot de balades canines de Brême un dimanche matin.",
+          "tipEs": "Aparca la bici en la entrada del Knoops Park y camina por la linde oeste — el tramo más tranquilo, mejor punto de paseos caninos de Bremen un domingo por la mañana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtwald+Bremen"
+        },
+        {
+          "name": "Wallanlagen",
+          "address": "Am Wall, 28195 Bremen",
+          "neighborhood": "Altstadt fringe",
+          "photo": "/images/city-places/bremen-parks-wallanlagen.jpg",
+          "website": "https://www.bremen.de/",
+          "description": "The historic moat and ramparts converted into a 2 km green park belt that loops around the medieval centre. Mature trees, the old Herdentorswallmühle windmill, swan pond and curving paths make it the most central dog walk in Bremen.",
+          "descriptionFr": "Les anciens fossés et remparts transformés en ceinture verte de 2 km autour du centre médiéval. Arbres centenaires, vieux moulin Herdentorswallmühle, étang aux cygnes et sentiers sinueux en font la promenade canine la plus centrale de Brême.",
+          "descriptionEs": "Los antiguos fosos y murallas convertidos en cinturón verde de 2 km alrededor del centro medieval. Árboles centenarios, viejo molino Herdentorswallmühle, estanque de cisnes y senderos sinuosos hacen de él el paseo canino más céntrico de Bremen.",
+          "petPolicy": "Leash required (Anleinpflicht) year-round across all city centre green spaces",
+          "petPolicyFr": "Laisse obligatoire (Anleinpflicht) toute l'année dans tous les espaces verts du centre",
+          "petPolicyEs": "Correa obligatoria (Anleinpflicht) todo el año en todos los espacios verdes del centro",
+          "tip": "Walk the loop counter-clockwise from the Herdentor to the Bischofsnadel — 30 minutes, perfect for a morning before sightseeing, with two cafés along the route that serve dogs.",
+          "tipFr": "Parcourez la boucle dans le sens antihoraire de l'Herdentor à la Bischofsnadel — 30 minutes, parfait avant les visites, avec deux cafés en route qui acceptent les chiens.",
+          "tipEs": "Haz el bucle en sentido antihorario desde el Herdentor hasta la Bischofsnadel — 30 minutos, perfecto antes de las visitas, con dos cafés en ruta que admiten perros.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wallanlagen+Bremen"
+        }
+      ],
+      "tipsEn": [
+        "Bremen has a city-wide leash duty (Anleinpflicht) in all public green spaces; off-leash is only allowed in the 13 signed Hundeauslaufflächen managed by Umweltbetrieb Bremen.",
+        "Fines for unleashed dogs in Bremen start at €25 and can reach €5,000 for a Listenhund (restricted breed) without muzzle and double leash.",
+        "Bremen is in Bundesland Bremen — its dog law differs from neighbouring Niedersachsen. Always check the city map of Hundeauslaufflächen before letting your dog run."
+      ],
+      "tipsFr": [
+        "Brême applique une obligation de laisse (Anleinpflicht) dans tous les espaces verts publics ; le sans laisse n'est autorisé que dans les 13 Hundeauslaufflächen balisées par l'Umweltbetrieb Bremen.",
+        "Les amendes pour chien sans laisse à Brême commencent à 25 € et peuvent atteindre 5 000 € pour un Listenhund (race réglementée) sans muselière ni double laisse.",
+        "Brême est un Land à part — sa loi canine diffère de la Basse-Saxe voisine. Vérifiez toujours la carte municipale des Hundeauslaufflächen avant de lâcher votre chien."
+      ],
+      "tipsEs": [
+        "Bremen aplica una obligación municipal de correa (Anleinpflicht) en todos los espacios verdes públicos; sin correa solo está permitido en las 13 Hundeauslaufflächen señalizadas por la Umweltbetrieb Bremen.",
+        "Las multas por perros sin correa en Bremen empiezan en 25 € y pueden alcanzar 5.000 € para un Listenhund (raza regulada) sin bozal y doble correa.",
+        "Bremen es un Land aparte — su ley canina difiere de la vecina Baja Sajonia. Comprueba siempre el mapa municipal de Hundeauslaufflächen antes de soltar a tu perro."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can dogs run off-leash in Bremen?",
+          "a": "In any of the 13 city-managed fenced Hundeauslaufflächen — the largest are inside the Bürgerpark (western edge), the Stadtwald (eastern edge near Horn-Lehe), Hinter der Rennbahn behind the racetrack, and the Hundewiese in Vahr. Outside these zones, leash duty applies year-round."
+        },
+        {
+          "q": "Are Bremen city centre paths and Wallanlagen dog-friendly?",
+          "a": "Yes, the Wallanlagen, Marktplatz, Schnoor and Schlachte all welcome leashed dogs. Bremen has Anleinpflicht in all public spaces; the cobbled centre is fully accessible but watch for hot stones in summer afternoons."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où les chiens peuvent-ils courir sans laisse à Brême ?",
+          "a": "Dans l'une des 13 Hundeauslaufflächen clôturées gérées par la ville — les plus grandes sont au Bürgerpark (extrémité ouest), au Stadtwald (extrémité est près de Horn-Lehe), Hinter der Rennbahn derrière l'hippodrome et la Hundewiese de Vahr. Hors de ces zones, la laisse est obligatoire toute l'année."
+        },
+        {
+          "q": "Le centre-ville de Brême et les Wallanlagen sont-ils dog-friendly ?",
+          "a": "Oui, les Wallanlagen, le Marktplatz, le Schnoor et la Schlachte acceptent tous les chiens en laisse. Brême applique l'Anleinpflicht dans tous les espaces publics ; le centre pavé est accessible, mais attention aux pierres chaudes l'été en après-midi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde pueden correr los perros sin correa en Bremen?",
+          "a": "En cualquiera de las 13 Hundeauslaufflächen valladas gestionadas por la ciudad — las mayores están en el Bürgerpark (extremo oeste), el Stadtwald (extremo este cerca de Horn-Lehe), Hinter der Rennbahn tras el hipódromo, y la Hundewiese de Vahr. Fuera de estas zonas, la correa es obligatoria todo el año."
+        },
+        {
+          "q": "¿Son dog-friendly el centro de Bremen y los Wallanlagen?",
+          "a": "Sí, los Wallanlagen, el Marktplatz, el Schnoor y la Schlachte admiten todos perros con correa. Bremen aplica la Anleinpflicht en todos los espacios públicos; el centro adoquinado es accesible, pero cuidado con las piedras calientes en tardes de verano."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Your Dog in Bremen — Transport & Mobility",
+      "titleFr": "Voyager avec son chien à Brême — Transport et mobilité",
+      "titleEs": "Viajar con tu perro en Bremen — Transporte y movilidad",
+      "introEn": "Bremen's BSAG runs trams, buses and night services across the entire city, all of which welcome leashed dogs. Small dogs in carriers travel free; larger dogs need a child-fare ticket. The city is also exceptionally bike-friendly with 800 km of separated cycle paths — many locals tow their dogs in bike trailers.",
+      "introFr": "La BSAG de Brême exploite trams, bus et services de nuit dans toute la ville, tous accessibles aux chiens en laisse. Petits chiens en sac : gratuits ; grands chiens : billet enfant. La ville est aussi exceptionnellement cycliste avec 800 km de pistes séparées — beaucoup de locaux tirent leur chien dans une remorque vélo.",
+      "introEs": "La BSAG de Bremen opera tranvías, autobuses y servicios nocturnos por toda la ciudad, todos accesibles para perros con correa. Perros pequeños en transportín: gratis; perros grandes: billete infantil. La ciudad es también excepcionalmente ciclista con 800 km de carriles bici separados — muchos lugareños llevan a su perro en remolque.",
+      "places": [
+        {
+          "name": "BSAG Trams & Buses",
+          "address": "Hauptbahnhof, 28195 Bremen",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/bremen-transport-bsag-trams-buses.jpg",
+          "website": "https://www.bsag.de/",
+          "description": "Bremer Straßenbahn AG operates 8 tram lines and over 40 bus routes. Trams 1-10 cover the centre and connect every major district; buses fill in the gaps and run a 24-hour service on weekends. The flagship Tram 6 connects the Hauptbahnhof to the Universität via Bürgerpark.",
+          "descriptionFr": "Bremer Straßenbahn AG exploite 8 lignes de tram et plus de 40 lignes de bus. Les trams 1-10 couvrent le centre et relient chaque grand quartier ; les bus complètent et roulent 24h/24 le week-end. Le tram 6 phare relie la gare centrale à l'Université via le Bürgerpark.",
+          "descriptionEs": "Bremer Straßenbahn AG opera 8 líneas de tranvía y más de 40 líneas de autobús. Los tranvías 1-10 cubren el centro y conectan cada gran barrio; los autobuses los completan y circulan 24h los fines de semana. El emblemático tranvía 6 conecta la estación central con la Universidad vía Bürgerpark.",
+          "petPolicy": "Small dogs in carrier: free. Larger dogs: child-fare ticket required, leash mandatory, muzzle for Listenhunde",
+          "petPolicyFr": "Petits chiens en sac : gratuits. Grands chiens : billet enfant, laisse obligatoire, muselière pour Listenhunde",
+          "petPolicyEs": "Perros pequeños en bolso: gratis. Perros grandes: billete infantil, correa obligatoria, bozal para Listenhunde",
+          "tip": "Buy a Tageskarte (€10.10 single) at any vending machine — covers your dog automatically as a child fare for the whole day.",
+          "tipFr": "Achetez une Tageskarte (10,10 € individuelle) dans tout automate — couvre automatiquement votre chien en billet enfant toute la journée.",
+          "tipEs": "Compra una Tageskarte (10,10 € individual) en cualquier máquina expendedora — cubre automáticamente a tu perro como billete infantil todo el día.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Bremen"
+        },
+        {
+          "name": "Hauptbahnhof Bremen (Deutsche Bahn)",
+          "address": "Bahnhofsplatz, 28195 Bremen",
+          "neighborhood": "Hauptbahnhof",
+          "photo": "/images/city-places/bremen-transport-hauptbahnhof-bremen-deutsche-bahn.jpg",
+          "website": "https://www.bahn.de/",
+          "description": "The 1889 main station handles InterCity, ICE and regional rail. Direct hourly trains to Hamburg (60 min), Hannover (75 min) and Berlin (3 h). Dogs travel free in carriers; larger dogs require a half-fare ticket on long-distance and a regional supplement on local trains.",
+          "descriptionFr": "La gare principale de 1889 gère InterCity, ICE et trains régionaux. Trains directs horaires vers Hambourg (60 min), Hanovre (75 min), Berlin (3 h). Petits chiens gratuits en sac ; grands chiens : billet demi-tarif en longue distance et supplément régional sur le réseau local.",
+          "descriptionEs": "La estación principal de 1889 gestiona InterCity, ICE y regionales. Trenes directos cada hora a Hamburgo (60 min), Hannover (75 min), Berlín (3 h). Perros pequeños gratis en bolso; perros grandes: billete a mitad de precio en larga distancia y suplemento regional en cercanías.",
+          "petPolicy": "DB long-distance: small dogs free in carrier, larger dogs half-fare. ICE/IC quiet zones do not allow dogs",
+          "petPolicyFr": "DB longue distance : petits chiens gratuits en sac, grands chiens demi-tarif. Zones silencieuses ICE/IC interdites aux chiens",
+          "petPolicyEs": "DB larga distancia: perros pequeños gratis en bolso, grandes a mitad de precio. Zonas silenciosas ICE/IC prohibidas a perros",
+          "tip": "Use the DB Navigator app to book the dog ticket alongside yours — entered as \"Hund\" via the passenger picker, sent to the same QR code.",
+          "tipFr": "Utilisez l'app DB Navigator pour réserver le billet chien en même temps que le vôtre — entrez « Hund » via le sélecteur passager, envoyé sur le même QR code.",
+          "tipEs": "Usa la app DB Navigator para reservar el billete del perro junto al tuyo — introduce «Hund» en el selector de pasajeros, llega al mismo código QR.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bremen+Hauptbahnhof"
+        },
+        {
+          "name": "Bremen Airport (BRE)",
+          "address": "Flughafenallee 26, 28199 Bremen",
+          "neighborhood": "Neustadt",
+          "photo": "/images/city-places/bremen-transport-bremen-airport-bre.jpg",
+          "website": "https://www.bremen-airport.com/",
+          "description": "International airport 5 km south of the centre with direct flights across Europe. Tram 6 connects it to the Hauptbahnhof in 11 minutes. Pet-friendly relief area near Terminal 1 entrance and an animal-handling lounge for cargo arrivals.",
+          "descriptionFr": "Aéroport international à 5 km au sud du centre avec vols directs dans toute l'Europe. Le tram 6 le relie à la gare centrale en 11 minutes. Zone de soulagement animalier près de l'entrée du Terminal 1 et un salon dédié aux arrivées en cargo.",
+          "descriptionEs": "Aeropuerto internacional a 5 km al sur del centro con vuelos directos por toda Europa. El tranvía 6 lo conecta con la estación central en 11 minutos. Zona de alivio para mascotas junto a la entrada del Terminal 1 y un lounge para llegadas en carga.",
+          "petPolicy": "Pets in cabin (under 8 kg) accepted by most airlines; tram 6 to/from station free for dogs in carrier",
+          "petPolicyFr": "Animaux en cabine (moins de 8 kg) acceptés par la plupart des compagnies ; tram 6 vers/depuis la gare gratuit pour chiens en sac",
+          "petPolicyEs": "Mascotas en cabina (menos de 8 kg) aceptadas por la mayoría de aerolíneas; tranvía 6 hacia/desde la estación gratis para perros en bolso",
+          "tip": "Pre-call the airline 48 hours before departure to confirm your dog's cabin slot — Bremen's smaller terminals fill the limited per-flight pet quota fast in summer.",
+          "tipFr": "Appelez la compagnie 48 h avant le départ pour confirmer la place cabine de votre chien — les petits terminaux de Brême saturent vite le quota animal par vol en été.",
+          "tipEs": "Llama a la aerolínea 48 h antes de la salida para confirmar la plaza en cabina de tu perro — las terminales pequeñas de Bremen agotan rápido el cupo de mascotas por vuelo en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bremen+Airport"
+        }
+      ],
+      "tipsEn": [
+        "Bremen tram and bus tickets are integrated — one Tageskarte (€10.10) covers all city public transport for the day, plus your dog as a child fare.",
+        "DB long-distance: dogs under 30 cm in a closed carrier travel free, larger dogs need a 2nd-class child ticket. Reserve a window seat — quieter for nervous dogs.",
+        "Bremen tram drivers are usually flexible with stop announcements in English on the central lines (1, 2, 3, 6). Just ask before boarding."
+      ],
+      "tipsFr": [
+        "Les billets tram et bus de Brême sont intégrés — une Tageskarte (10,10 €) couvre tout le réseau urbain pour la journée, et votre chien en billet enfant.",
+        "DB longue distance : chiens de moins de 30 cm en sac fermé voyagent gratuitement, plus grands ont besoin d'un billet enfant 2e classe. Réservez une place fenêtre — plus calme pour chiens nerveux.",
+        "Les conducteurs de tram à Brême sont généralement flexibles avec les annonces d'arrêt en anglais sur les lignes centrales (1, 2, 3, 6). Demandez avant de monter."
+      ],
+      "tipsEs": [
+        "Los billetes de tranvía y bus de Bremen están integrados — una Tageskarte (10,10 €) cubre todo el transporte urbano del día, más tu perro como billete infantil.",
+        "DB larga distancia: perros de menos de 30 cm en transportín cerrado viajan gratis, más grandes necesitan un billete infantil 2ª clase. Reserva ventanilla — más tranquilo para perros nerviosos.",
+        "Los conductores de tranvía de Bremen suelen ser flexibles con los anuncios de parada en inglés en las líneas centrales (1, 2, 3, 6). Pregunta antes de subir."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do dogs need a ticket on Bremen's BSAG public transport?",
+          "a": "Small dogs in a closed carrier travel free. Larger dogs need a child fare (€1.85 single, €10.10 day pass) and must be on a leash. Listenhunde (restricted breeds: pit bull terrier, American Staffordshire, bull terrier and certain crosses) require a muzzle and a double leash."
+        },
+        {
+          "q": "Can I take my dog on the ICE to Berlin or Hamburg?",
+          "a": "Yes. Small dogs in carriers travel free; larger dogs need a 2nd-class child ticket (about €15-25 depending on distance). Avoid the silent zone (Ruhebereich) and book a regular seat. Direct Bremen–Hamburg trains run hourly and take 60 minutes."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet chien dans les transports BSAG de Brême ?",
+          "a": "Petits chiens en sac fermé : gratuits. Grands chiens : billet enfant (1,85 € unitaire, 10,10 € journée) et laisse obligatoire. Les Listenhunde (races réglementées : pitbull terrier, American Staffordshire, bull terrier et certains croisements) doivent porter une muselière et avoir une double laisse."
+        },
+        {
+          "q": "Puis-je prendre l'ICE pour Berlin ou Hambourg avec mon chien ?",
+          "a": "Oui. Petits chiens en sac : gratuits ; grands chiens : billet enfant 2e classe (environ 15-25 € selon distance). Évitez la zone silencieuse (Ruhebereich) et réservez un siège normal. Les trains directs Brême–Hambourg roulent à l'heure en 60 minutes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesitan los perros billete en el transporte BSAG de Bremen?",
+          "a": "Perros pequeños en transportín cerrado: gratis. Perros grandes: billete infantil (1,85 € unitario, 10,10 € diario) y correa obligatoria. Los Listenhunde (razas reguladas: pit bull terrier, American Staffordshire, bull terrier y ciertos cruces) deben llevar bozal y doble correa."
+        },
+        {
+          "q": "¿Puedo tomar el ICE a Berlín o Hamburgo con mi perro?",
+          "a": "Sí. Perros pequeños en transportín: gratis; perros grandes: billete infantil 2ª clase (unos 15-25 € según distancia). Evita la zona silenciosa (Ruhebereich) y reserva un asiento normal. Los trenes directos Bremen–Hamburgo salen cada hora y tardan 60 minutos."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Weser Riverside & Lake Beaches around Bremen",
+      "titleFr": "Bords de Weser et plages lacustres autour de Brême",
+      "titleEs": "Orillas del Weser y playas lacustres alrededor de Bremen",
+      "introEn": "Bremen has no sea beach but the Weser River and the man-made Werdersee form a 6 km loop of beaches, sand banks and tidal grass right next to the centre. Two bathing beaches officially welcome dogs (Werderseestrand and small sections near Weserstadion); the popular Café Sand beach on the Stadtwerder peninsula is dog-free in summer.",
+      "introFr": "Brême n'a pas de plage de mer mais la Weser et le lac artificiel Werdersee forment une boucle de 6 km de plages, bancs de sable et prairies humides juste à côté du centre. Deux plages de baignade accueillent officiellement les chiens (Werderseestrand et petites portions près du Weserstadion) ; la plage Café Sand prisée sur la presqu'île du Stadtwerder est interdite aux chiens en été.",
+      "introEs": "Bremen no tiene playa de mar pero el Weser y el lago artificial Werdersee forman un bucle de 6 km de playas, bancos de arena y praderas mareales junto al centro. Dos playas de baño admiten oficialmente perros (Werderseestrand y pequeños tramos junto al Weserstadion); la popular playa Café Sand en la península del Stadtwerder no admite perros en verano.",
+      "places": [
+        {
+          "name": "Werderseestrand",
+          "address": "Werdersee, 28201 Bremen",
+          "neighborhood": "Werder / Stadtwerder",
+          "photo": "/images/city-places/bremen-beaches-werderseestrand.jpg",
+          "website": "https://www.bremen.de/",
+          "description": "Sandy bathing beach on the Werdersee, a man-made lake formed by a Weser dam, with shallow swim entry, designated dog area on the eastern fringe and a kiosk in summer. The most family-friendly water spot in Bremen, and one of the few that explicitly allow dogs.",
+          "descriptionFr": "Plage de sable sur le Werdersee, lac artificiel formé par un barrage de la Weser, avec entrée peu profonde, zone canine désignée à l'extrémité est et kiosque en été. Le spot aquatique le plus familial de Brême, et l'un des rares à accepter explicitement les chiens.",
+          "descriptionEs": "Playa de arena en el Werdersee, lago artificial formado por una presa del Weser, con entrada poco profunda, zona canina designada en el extremo este y quiosco en verano. El sitio acuático más familiar de Bremen y uno de los pocos que admite perros explícitamente.",
+          "petPolicy": "Off-leash swimming allowed in the eastern dog zone year-round; main bathing beach is leashed only",
+          "petPolicyFr": "Baignade sans laisse autorisée dans la zone canine est toute l'année ; plage principale en laisse uniquement",
+          "petPolicyEs": "Baño sin correa permitido en la zona canina este todo el año; playa principal solo con correa",
+          "tip": "Get there via tram 1 to Theater am Leibnizplatz, then 10 minutes' walk south across the Stadtwerder peninsula — the eastern dog zone is signposted from the Werderpark entrance.",
+          "tipFr": "Accès via tram 1 jusqu'au Theater am Leibnizplatz, puis 10 minutes à pied vers le sud à travers la presqu'île du Stadtwerder — la zone canine est signalée depuis l'entrée du Werderpark.",
+          "tipEs": "Acceso vía tranvía 1 hasta el Theater am Leibnizplatz, luego 10 minutos a pie hacia el sur a través de la península del Stadtwerder — la zona canina está señalizada desde la entrada del Werderpark.",
+          "googleMapsUrl": "https://maps.google.com/?q=Werderseestrand+Bremen"
+        },
+        {
+          "name": "Weser Riverbank Pauliner Marsch",
+          "address": "Pauliner Marsch, 28205 Bremen",
+          "neighborhood": "Östliche Vorstadt",
+          "photo": "/images/city-places/bremen-beaches-weser-riverbank-pauliner-marsch.jpg",
+          "website": "https://www.bremen.de/",
+          "description": "Wide grassy floodplain on the eastern Weser bank just behind the Wohninvest Weserstadion, with informal sand banks where dogs can splash in the river. Used by locals for kite-flying and frisbee. Quietest part of central Bremen on a weekend morning.",
+          "descriptionFr": "Vaste plaine inondable herbeuse sur la rive est de la Weser juste derrière le Wohninvest Weserstadion, avec des bancs de sable informels où les chiens peuvent barboter dans le fleuve. Utilisée par les locaux pour cerf-volant et frisbee. Partie la plus calme du centre de Brême un samedi matin.",
+          "descriptionEs": "Amplia llanura aluvial herbosa en la orilla este del Weser justo detrás del Wohninvest Weserstadion, con bancos de arena informales donde los perros pueden chapotear en el río. Usada por los lugareños para cometas y frisbee. Parte más tranquila del centro de Bremen un sábado por la mañana.",
+          "petPolicy": "Leashed dogs welcome year-round; informal river entries with no swim ban",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; accès informel au fleuve sans interdiction de baignade",
+          "petPolicyEs": "Perros con correa admitidos todo el año; acceso informal al río sin prohibición de baño",
+          "tip": "Avoid match days at the Weserstadion (FCH Werder Bremen) — the area becomes a sea of football fans; check the Bundesliga calendar before planning a quiet walk here.",
+          "tipFr": "Évitez les jours de match au Weserstadion (FCH Werder Bremen) — la zone devient une marée de supporters ; consultez le calendrier de Bundesliga avant de planifier une balade calme.",
+          "tipEs": "Evita días de partido en el Weserstadion (FCH Werder Bremen) — la zona se convierte en un mar de aficionados; consulta el calendario de Bundesliga antes de planear un paseo tranquilo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pauliner+Marsch+Bremen"
+        },
+        {
+          "name": "Schlachte Promenade",
+          "address": "Schlachte, 28195 Bremen",
+          "neighborhood": "Altstadt",
+          "photo": "/images/city-places/bremen-beaches-schlachte-promenade.jpg",
+          "website": "https://www.bremen.de/",
+          "description": "The historic Hanseatic riverside promenade running the length of the medieval centre, with restored sailing ships moored alongside, beer-garden terraces and the dog-friendly Bürgermeister-Smidt-Brücke crossing. Not a beach in the swim sense, but the city's prime dog-and-coffee strip.",
+          "descriptionFr": "La promenade fluviale hanséatique historique le long du centre médiéval, avec voiliers restaurés amarrés, terrasses de Biergarten et le pont Bürgermeister-Smidt dog-friendly. Pas une plage au sens baignade, mais l'artère café-chien numéro un de la ville.",
+          "descriptionEs": "El paseo fluvial hanseático histórico a lo largo del centro medieval, con veleros restaurados amarrados, terrazas de Biergarten y el puente Bürgermeister-Smidt dog-friendly. No es una playa de baño, pero sí la arteria café-perro número uno de la ciudad.",
+          "petPolicy": "Leashed dogs welcome on the entire 1 km promenade; access to the river bank steps is allowed",
+          "petPolicyFr": "Chiens en laisse admis sur toute la promenade de 1 km ; accès aux marches d'accès à la berge autorisé",
+          "petPolicyEs": "Perros con correa admitidos en todo el paseo de 1 km; acceso a las escaleras de orilla permitido",
+          "tip": "The Schlachte Schauer beer garden has the longest dog-friendly outdoor seating row on the Weser — plus a treat jar at the bar.",
+          "tipFr": "Le Schlachte Schauer Biergarten possède la plus longue rangée d'assises extérieures dog-friendly sur la Weser — plus un bocal à friandises au comptoir.",
+          "tipEs": "El Schlachte Schauer Biergarten tiene la fila más larga de asientos exteriores dog-friendly del Weser — más un tarro de premios en la barra.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schlachte+Bremen"
+        }
+      ],
+      "tipsEn": [
+        "The Weser is a tidal river — the water level can rise 4 m at flood and the current is strong. Strong-swimming dogs only, and never let them swim in the navigation channel.",
+        "Bremen's Café Sand beach on the Stadtwerder is officially dog-free during the summer bathing season (1 May to 30 September). Use Werderseestrand instead.",
+        "Weser water quality is monitored weekly between May and September; check werra-werra.de or the city environmental site before letting dogs swim."
+      ],
+      "tipsFr": [
+        "La Weser est un fleuve à marée — le niveau peut monter de 4 m à la marée et le courant est fort. Chiens nageurs confirmés uniquement, jamais dans le chenal de navigation.",
+        "La plage Café Sand de Brême sur le Stadtwerder est officiellement interdite aux chiens pendant la saison de baignade (1er mai-30 septembre). Utilisez le Werderseestrand à la place.",
+        "La qualité de l'eau de la Weser est analysée chaque semaine entre mai et septembre ; vérifiez werra-werra.de ou le site environnemental municipal avant la baignade."
+      ],
+      "tipsEs": [
+        "El Weser es un río con marea — el nivel puede subir 4 m en pleamar y la corriente es fuerte. Solo perros nadadores expertos, jamás en el canal de navegación.",
+        "La playa Café Sand de Bremen en el Stadtwerder está oficialmente prohibida a perros en temporada de baño (1 de mayo-30 de septiembre). Usa el Werderseestrand en su lugar.",
+        "La calidad del agua del Weser se analiza semanalmente entre mayo y septiembre; consulta werra-werra.de o la web ambiental municipal antes del baño."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in the Weser?",
+          "a": "Yes informally on the eastern Pauliner Marsch bank and at Werderseestrand's eastern dog zone. Avoid the navigation channel and ferry routes; swim only at gentle slopes with low current. The Café Sand beach on Stadtwerder bans dogs from 1 May to 30 September."
+        },
+        {
+          "q": "Is the water safe for dogs to swim in?",
+          "a": "Generally yes — the Weser and Werdersee are monitored weekly during bathing season for E. coli, intestinal enterococci and blue-green algae. Skip swimming for 24 hours after heavy rain (run-off) and avoid algal blooms in late summer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils nager dans la Weser ?",
+          "a": "Oui de manière informelle sur la rive est Pauliner Marsch et dans la zone canine est du Werderseestrand. Évitez le chenal de navigation et les routes de ferry ; nagez uniquement sur des berges en pente douce à faible courant. La plage Café Sand sur le Stadtwerder interdit les chiens du 1er mai au 30 septembre."
+        },
+        {
+          "q": "L'eau est-elle sûre pour la baignade canine ?",
+          "a": "Globalement oui — la Weser et le Werdersee sont analysés chaque semaine en saison (E. coli, entérocoques, cyanobactéries). Pas de baignade dans les 24 h suivant une grosse pluie (ruissellement) et évitez les efflorescences algales en fin d'été."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en el Weser?",
+          "a": "Sí de manera informal en la orilla este Pauliner Marsch y en la zona canina este del Werderseestrand. Evita el canal de navegación y las rutas de ferry; nada solo en orillas suaves con poca corriente. La playa Café Sand en el Stadtwerder prohíbe perros del 1 de mayo al 30 de septiembre."
+        },
+        {
+          "q": "¿Es segura el agua para el baño canino?",
+          "a": "Generalmente sí — el Weser y el Werdersee se analizan semanalmente en temporada (E. coli, enterococos, cianobacterias). No nades 24 h después de una lluvia fuerte (escorrentía) y evita las floraciones de algas a finales de verano."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Veterinarians & Animal Care in Bremen",
+      "titleFr": "Vétérinaires d'urgence et soins animaliers à Brême",
+      "titleEs": "Veterinarios de urgencia y atención animal en Bremen",
+      "introEn": "Bremen has a co-ordinated regional emergency vet service (Notdienst der Bremer Tierärzte) operating Mon–Fri 18:00–22:00 and weekends/holidays 8:00–22:00, plus the 24/7 Tierärztliche Hochschule Hannover one hour south. The city's flagship Kleintierklinik Bremen handles surgery and internal medicine during extended hours.",
+      "introFr": "Brême dispose d'un service vétérinaire d'urgence régional coordonné (Notdienst der Bremer Tierärzte) ouvert lun-ven 18h-22h et week-ends/fériés 8h-22h, plus l'École vétérinaire de Hanovre 24/7 à une heure au sud. La Kleintierklinik Bremen, cabinet phare de la ville, gère chirurgie et médecine interne en horaires étendus.",
+      "introEs": "Bremen tiene un servicio veterinario de urgencia regional coordinado (Notdienst der Bremer Tierärzte) abierto lun-vie 18:00-22:00 y fines de semana/festivos 8:00-22:00, más la Escuela Veterinaria de Hannover 24/7 a una hora al sur. La Kleintierklinik Bremen, clínica insignia de la ciudad, gestiona cirugía y medicina interna en horario ampliado.",
+      "places": [
+        {
+          "name": "Kleintierklinik Bremen",
+          "address": "Tegeler Plate 28, 28219 Bremen",
+          "neighborhood": "Walle",
+          "photo": "/images/city-places/bremen-vets-kleintierklinik-bremen.jpg",
+          "website": "https://kleintierklinik-bremen.de/",
+          "description": "Bremen's largest small-animal clinic with a full surgical, dental and imaging suite. Founded in 1972 and run by 12 veterinarians. Internal medicine, soft-tissue and orthopaedic surgery, ultrasound and digital X-ray on site.",
+          "descriptionFr": "Plus grand cabinet pour petits animaux de Brême avec bloc chirurgical, dentaire et imagerie complets. Fondé en 1972, animé par 12 vétérinaires. Médecine interne, chirurgie des tissus mous et orthopédique, échographie et radiographie numérique sur place.",
+          "descriptionEs": "Mayor clínica de pequeños animales de Bremen con bloque quirúrgico, dental y de imagen completos. Fundada en 1972, llevada por 12 veterinarios. Medicina interna, cirugía de tejidos blandos y ortopédica, ecografía y rayos X digital en el sitio.",
+          "petPolicy": "Walk-ins accepted during opening hours; after-hours emergencies routed to the Bremer Notdienst",
+          "petPolicyFr": "Sans rendez-vous accepté aux horaires d'ouverture ; urgences hors horaires renvoyées au Bremer Notdienst",
+          "petPolicyEs": "Sin cita aceptada en horario de apertura; urgencias fuera de horario derivadas al Bremer Notdienst",
+          "tip": "Phone the clinic before arriving even during opening hours for non-routine cases — they triage by phone and can see urgent cases ahead of the queue.",
+          "tipFr": "Appelez le cabinet avant de venir même en horaires d'ouverture pour les cas non routiniers — ils trient par téléphone et peuvent voir les urgences avant la file.",
+          "tipEs": "Llama a la clínica antes de ir incluso en horario de apertura para casos no rutinarios — hacen triaje telefónico y pueden ver urgencias antes de la cola.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierklinik+Bremen"
+        },
+        {
+          "name": "Tiernotruf Bremen (Notdienst)",
+          "address": "Multiple rotating clinics across Bremen",
+          "neighborhood": "Citywide",
+          "photo": "/images/city-places/bremen-vets-tiernotruf.jpg",
+          "website": "https://www.tiernotruf-hb.de/",
+          "description": "Co-ordinated regional emergency vet service run by Tierärztekammer Bremen. Single hotline (+49 421 1 22 11) routes calls to the on-call vet of the day; service operates Mon–Fri 18:00–22:00 and Sat/Sun/holidays 08:00–22:00.",
+          "descriptionFr": "Service vétérinaire d'urgence régional coordonné par la Tierärztekammer Bremen. Numéro unique (+49 421 1 22 11) renvoyant vers le vétérinaire de garde du jour ; service ouvert lun-ven 18h-22h et sam/dim/fériés 08h-22h.",
+          "descriptionEs": "Servicio veterinario de urgencia regional coordinado por la Tierärztekammer Bremen. Número único (+49 421 1 22 11) que deriva al veterinario de guardia del día; servicio abierto lun-vie 18:00-22:00 y sáb/dom/festivos 08:00-22:00.",
+          "petPolicy": "Phone-only triage; in-person visit at the on-call clinic of the day with a registration fee",
+          "petPolicyFr": "Triage téléphonique uniquement ; visite en personne au cabinet de garde du jour avec frais d'enregistrement",
+          "petPolicyEs": "Triaje solo telefónico; visita presencial en la clínica de guardia del día con tasa de registro",
+          "tip": "Save +49 421 1 22 11 in your phone on arrival day — the on-call vet number is the same year-round; the operator switches the location based on the rota.",
+          "tipFr": "Enregistrez +49 421 1 22 11 dans votre téléphone dès l'arrivée — le numéro de garde est le même toute l'année ; l'opératrice change le lieu selon le tour.",
+          "tipEs": "Guarda +49 421 1 22 11 en tu móvil al llegar — el número de guardia es el mismo todo el año; la operadora cambia el lugar según el turno.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tieraerztekammer+Bremen"
+        },
+        {
+          "name": "Tierärztliche Hochschule Hannover (TiHo, 24/7, 130 km)",
+          "address": "Bünteweg 9, 30559 Hannover",
+          "neighborhood": "Hannover Misburg",
+          "photo": "/images/city-places/bremen-vets-tierarztliche-hochschule-hannover-tiho-24-7-130-km.jpg",
+          "website": "https://www.tiho-hannover.de/",
+          "description": "Germany's flagship veterinary teaching hospital with 24/7 emergency service for small animals, exotics and equines. One hour south of Bremen by car (A7 motorway) or 90 minutes by direct ICE train. Critical care unit, MRI, CT and emergency surgery available around the clock.",
+          "descriptionFr": "Hôpital vétérinaire universitaire phare d'Allemagne avec service d'urgence 24/7 pour petits animaux, exotiques et équidés. À une heure de Brême en voiture (A7) ou 90 minutes en train ICE direct. Soins intensifs, IRM, scanner et chirurgie d'urgence 24h/24.",
+          "descriptionEs": "Hospital veterinario universitario insignia de Alemania con servicio de urgencia 24/7 para pequeños animales, exóticos y équidos. A una hora de Bremen en coche (A7) o 90 minutos en tren ICE directo. Cuidados intensivos, RM, TAC y cirugía de urgencia 24h.",
+          "petPolicy": "24/7 walk-in for life-threatening emergencies; phone +49 511 953 6200 first to alert the on-call team",
+          "petPolicyFr": "Sans rendez-vous 24/7 pour urgences vitales ; appelez +49 511 953 6200 avant pour prévenir l'équipe de garde",
+          "petPolicyEs": "Sin cita 24/7 para urgencias vitales; llama antes a +49 511 953 6200 para avisar al equipo de guardia",
+          "tip": "If your case is critical and overnight care is needed, the TiHo is the best option in northern Germany — but call ahead to confirm capacity and bring all medical history with you.",
+          "tipFr": "Si votre cas est critique et nécessite des soins nocturnes, le TiHo est la meilleure option du nord de l'Allemagne — mais appelez avant pour confirmer la capacité et apportez tout l'historique médical.",
+          "tipEs": "Si tu caso es crítico y requiere cuidados nocturnos, el TiHo es la mejor opción del norte de Alemania — pero llama antes para confirmar disponibilidad y trae todo el historial médico.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tieraerztliche+Hochschule+Hannover"
+        }
+      ],
+      "tipsEn": [
+        "EU pet passport, ISO microchip and rabies vaccine ≥21 days old are required to enter Germany. Tapeworm treatment is NOT required.",
+        "Bremen is one of 16 German Bundesländer with its own dog law: certain breeds (\"Listenhunde\" — pit bull terrier, American Staffordshire, bull terrier, Tosa Inu and crosses) face restrictions including muzzle, double leash and special permits.",
+        "German vet fees are regulated by the GOT (Gebührenordnung für Tierärzte) — basic consultation is around €23-46, after-hours surcharge between 1.5x and 4x. Travel insurance with vet cover recommended."
+      ],
+      "tipsFr": [
+        "Passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours sont requis pour entrer en Allemagne. Aucun traitement antitenia obligatoire.",
+        "Brême est l'un des 16 Länder allemands avec sa propre loi canine : certaines races (« Listenhunde » — pitbull terrier, American Staffordshire, bull terrier, Tosa Inu et croisements) ont des restrictions (muselière, double laisse, permis spécial).",
+        "Les tarifs vétérinaires allemands sont régulés par le GOT (Gebührenordnung für Tierärzte) — consultation de base 23-46 €, supplément hors horaires entre 1,5x et 4x. Assurance voyage avec couverture vétérinaire recommandée."
+      ],
+      "tipsEs": [
+        "Pasaporte UE, microchip ISO y vacuna antirrábica ≥21 días son obligatorios para entrar en Alemania. NO se exige tratamiento antitenia.",
+        "Bremen es uno de los 16 Länder alemanes con su propia ley canina: ciertas razas («Listenhunde» — pit bull terrier, American Staffordshire, bull terrier, Tosa Inu y cruces) tienen restricciones (bozal, doble correa, permiso especial).",
+        "Las tarifas veterinarias alemanas están reguladas por el GOT (Gebührenordnung für Tierärzte) — consulta básica 23-46 €, recargo fuera de horario entre 1,5x y 4x. Recomendable seguro de viaje con cobertura veterinaria."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Bremen?",
+          "a": "No dedicated 24-hour clinic operates inside Bremen. The regional Notdienst (+49 421 1 22 11) covers Mon-Fri 18:00-22:00 and weekend/holiday daytime; outside these hours, the closest 24/7 facility is the Tierärztliche Hochschule Hannover (130 km, 1 hour by car or 90 minutes by direct ICE)."
+        },
+        {
+          "q": "Will my EU pet passport work in Germany?",
+          "a": "Yes. Germany applies the standard EU pet entry framework: ISO microchip, valid rabies vaccine at least 21 days old, EU pet passport. No tapeworm treatment is required to enter or leave Germany. Listenhunde (restricted breeds) require additional documentation."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h à Brême ?",
+          "a": "Aucun cabinet 24h à Brême intra-muros. Le Notdienst régional (+49 421 1 22 11) couvre lun-ven 18h-22h et journée du week-end/fériés ; hors de ces horaires, l'établissement 24/7 le plus proche est l'École vétérinaire de Hanovre (130 km, 1 h en voiture ou 90 min en ICE direct)."
+        },
+        {
+          "q": "Mon passeport européen fonctionne-t-il en Allemagne ?",
+          "a": "Oui. L'Allemagne applique le cadre standard d'entrée UE : puce ISO, vaccin antirabique valide ≥21 jours, passeport européen. Aucun traitement antitenia requis pour entrer ou sortir d'Allemagne. Les Listenhunde (races réglementées) nécessitent une documentation supplémentaire."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24h en Bremen?",
+          "a": "No hay clínica 24h dentro de Bremen. El Notdienst regional (+49 421 1 22 11) cubre lun-vie 18:00-22:00 y diurno fines de semana/festivos; fuera de estas horas, el centro 24/7 más cercano es la Escuela Veterinaria de Hannover (130 km, 1 h en coche o 90 min en ICE directo)."
+        },
+        {
+          "q": "¿Funciona mi pasaporte UE en Alemania?",
+          "a": "Sí. Alemania aplica el marco UE estándar: microchip ISO, vacuna antirrábica válida ≥21 días, pasaporte europeo. No se exige tratamiento antitenia para entrar o salir de Alemania. Los Listenhunde (razas reguladas) requieren documentación adicional."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Bremen with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Brême avec un chien",
+      "titleEs": "Consejos prácticos para visitar Bremen con un perro",
+      "introEn": "Bremen is one of Germany's friendliest cities for dogs day-to-day — Hanseatic restaurant culture, generous off-leash zones and excellent public transport. The four practical things to plan for: city-wide leash duty (Anleinpflicht) outside the 13 fenced zones, Listenhunde restrictions for restricted breeds, the unpredictable North German rain, and tide-driven Weser water levels at riverside walks.",
+      "introFr": "Brême est l'une des villes les plus accueillantes d'Allemagne au quotidien pour les chiens — culture hanséatique restaurant, zones sans laisse généreuses et excellents transports publics. Quatre points pratiques à anticiper : laisse obligatoire (Anleinpflicht) hors des 13 zones clôturées, restrictions Listenhunde pour les races réglementées, pluie nord-allemande imprévisible, et niveaux d'eau de la Weser pilotés par la marée pour les promenades riveraines.",
+      "introEs": "Bremen es una de las ciudades alemanas más amigables a diario para los perros — cultura hanseática de restauración, zonas sin correa generosas y excelente transporte público. Cuatro puntos prácticos a anticipar: correa obligatoria (Anleinpflicht) fuera de las 13 zonas valladas, restricciones Listenhunde para razas reguladas, lluvia norte-alemana imprevisible y niveles de agua del Weser dependientes de la marea para los paseos ribereños.",
+      "places": [],
+      "tipsEn": [
+        "Listenhunde restrictions in Bremen are strict: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu and crosses must wear a muzzle and be on a 1.5 m leash in all public spaces. Visitors should bring breed documentation.",
+        "Pack a waterproof coat for your dog — Bremen receives 220 rainy days a year, and even summer afternoons can flip from sun to drizzle within an hour.",
+        "Always carry waste bags — Bremen's Müllabfuhr fines for unbagged droppings start at €25, and waste bags are dispensed free at most park entrances.",
+        "Outside the 13 fenced Hundeauslaufflächen, leash duty is enforced city-wide; the Wallanlagen ramparts and the Bürgerpark main lawn are the easiest centre walks for keeping it short."
+      ],
+      "tipsFr": [
+        "Les restrictions Listenhunde à Brême sont strictes : pitbull terrier, American Staffordshire, bull terrier, Tosa Inu et croisements doivent porter une muselière et une laisse de 1,5 m dans tout l'espace public. Apportez la documentation de race.",
+        "Emportez un imperméable pour votre chien — Brême compte 220 jours de pluie par an, et même les après-midi d'été peuvent basculer du soleil à la bruine en une heure.",
+        "Ramenez toujours des sacs — les amendes pour déjections non ramassées commencent à 25 € et des sacs sont distribués gratuitement à la plupart des entrées de parcs.",
+        "Hors des 13 Hundeauslaufflächen clôturées, la laisse est obligatoire dans toute la ville ; les remparts Wallanlagen et la pelouse principale du Bürgerpark sont les promenades centrales les plus faciles pour rester en laisse."
+      ],
+      "tipsEs": [
+        "Las restricciones Listenhunde en Bremen son estrictas: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu y cruces deben llevar bozal y una correa de 1,5 m en todo espacio público. Lleva documentación de raza.",
+        "Lleva un impermeable para tu perro — Bremen tiene 220 días de lluvia al año, y hasta las tardes de verano pueden pasar del sol a la llovizna en una hora.",
+        "Lleva siempre bolsas — las multas por excrementos no recogidos empiezan en 25 € y se reparten bolsas gratis en la mayoría de entradas de parques.",
+        "Fuera de las 13 Hundeauslaufflächen valladas, la correa es obligatoria en toda la ciudad; las murallas Wallanlagen y la pradera principal del Bürgerpark son los paseos centrales más fáciles para mantenerla."
+      ],
+      "faqsEn": [
+        {
+          "q": "What documents does my dog need to enter Bremen?",
+          "a": "An EU pet passport (or third-country equivalent), an ISO microchip, and a valid rabies vaccine at least 21 days old. No tapeworm treatment required. Listenhunde (restricted breeds) need additional permits and proof of training; check Bremen's Hundegesetz before travel."
+        },
+        {
+          "q": "What's the best time of year to visit Bremen with a dog?",
+          "a": "May to September has the mildest weather (15-22 °C) and longest daylight, but rain is possible year-round. Avoid the Bremen Freimarkt funfair (mid October-November) — fireworks and crowds are stressful. Christmas markets (late November-23 December) are dog-friendly but the cobbles get slippery."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quels documents pour entrer à Brême avec son chien ?",
+          "a": "Un passeport européen pour animal (ou équivalent pays tiers), une puce ISO et un vaccin antirabique valide d'au moins 21 jours. Aucun traitement antitenia. Les Listenhunde (races réglementées) ont besoin de permis et de preuve de dressage supplémentaires ; consultez le Hundegesetz de Brême avant le voyage."
+        },
+        {
+          "q": "Quelle est la meilleure période pour visiter Brême avec un chien ?",
+          "a": "Mai-septembre offrent le climat le plus doux (15-22 °C) et la plus longue lumière, mais la pluie est possible toute l'année. Évitez le Bremen Freimarkt (mi-octobre à novembre) — feux d'artifice et foule. Les marchés de Noël (fin novembre-23 décembre) sont dog-friendly mais les pavés deviennent glissants."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué documentos necesita mi perro para entrar en Bremen?",
+          "a": "Un pasaporte UE para mascotas (o equivalente de tercer país), un microchip ISO y una vacuna antirrábica válida de al menos 21 días. Sin tratamiento antitenia. Los Listenhunde (razas reguladas) necesitan permisos y prueba de adiestramiento adicionales; consulta el Hundegesetz de Bremen antes de viajar."
+        },
+        {
+          "q": "¿Cuál es la mejor época para visitar Bremen con un perro?",
+          "a": "Mayo-septiembre ofrecen el clima más suave (15-22 °C) y la luz más larga, pero la lluvia es posible todo el año. Evita el Bremen Freimarkt (mediados de octubre a noviembre) — fuegos artificiales y multitudes. Los mercados de Navidad (finales de noviembre-23 de diciembre) son dog-friendly pero los adoquines se vuelven resbaladizos."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Bremen",
+      "titleFr": "Attractions pet-friendly à Brême",
+      "titleEs": "Atracciones pet-friendly en Bremen",
+      "introEn": "Bremen's headline sights — the UNESCO Marktplatz with the Town Hall and Roland statue, the Town Musicians, the Schnoor district and the Wallanlagen ramparts — are almost all open-air and dog-friendly with a leash. The Town Musicians fairy tale even places a dog at the heart of Bremen's identity.",
+      "introFr": "Les sites phares de Brême — le Marktplatz UNESCO avec l'Hôtel de Ville et la statue de Roland, les Musiciens de Brême, le quartier Schnoor et les remparts Wallanlagen — sont quasiment tous en plein air et dog-friendly en laisse. Le conte des Musiciens place même un chien au cœur de l'identité brêmoise.",
+      "introEs": "Los sitios estrella de Bremen — la Marktplatz UNESCO con el Ayuntamiento y la estatua de Roland, los Músicos de Bremen, el barrio Schnoor y las murallas Wallanlagen — son casi todos al aire libre y dog-friendly con correa. El cuento de los Músicos pone incluso a un perro en el corazón de la identidad bremense.",
+      "places": [
+        {
+          "name": "Bremen Town Musicians (Stadtmusikanten)",
+          "address": "Am Markt, 28195 Bremen",
+          "neighborhood": "Marktplatz",
+          "photo": "/images/city-places/bremen-attractions-bremen-town-musicians-stadtmusikanten.jpg",
+          "website": "https://www.bremen.eu/",
+          "description": "Gerhard Marcks's 1953 bronze of four animals — donkey, dog, cat and rooster — stacked atop one another on the western side of the Town Hall. Inspired by the Brothers Grimm tale; tradition holds that rubbing the donkey's front legs brings good luck. The most photographed dog statue in Germany.",
+          "descriptionFr": "Le bronze de Gerhard Marcks (1953) de quatre animaux — âne, chien, chat, coq — empilés sur le côté ouest de l'Hôtel de Ville. Inspiré du conte des frères Grimm ; la tradition veut que toucher les pattes de l'âne porte bonheur. La statue de chien la plus photographiée d'Allemagne.",
+          "descriptionEs": "Bronce de Gerhard Marcks (1953) de cuatro animales — burro, perro, gato, gallo — apilados en el lado oeste del Ayuntamiento. Inspirado en el cuento de los hermanos Grimm; la tradición dice que tocar las patas del burro trae suerte. La estatua canina más fotografiada de Alemania.",
+          "petPolicy": "Open-air, free, dog-friendly year-round; pose your dog beside the bronze for a photo",
+          "petPolicyFr": "En plein air, gratuit, dog-friendly toute l'année ; posez votre chien à côté du bronze pour une photo",
+          "petPolicyEs": "Al aire libre, gratuito, dog-friendly todo el año; pon a tu perro junto al bronce para una foto",
+          "tip": "Visit at 07:30 for the best photo light — by 09:00 the queue of selfie-takers makes it impossible to get a clear shot with your dog.",
+          "tipFr": "Visitez à 7h30 pour la meilleure lumière — à 9h la file des selfies rend impossible un cliché propre avec votre chien.",
+          "tipEs": "Visita a las 7:30 para la mejor luz — a las 9:00 la cola de selfies hace imposible una foto limpia con tu perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bremer+Stadtmusikanten"
+        },
+        {
+          "name": "Bremen Town Hall & Roland Statue",
+          "address": "Am Markt 21, 28195 Bremen",
+          "neighborhood": "Marktplatz",
+          "photo": "/images/city-places/bremen-attractions-bremen-town-hall-roland-statue.jpg",
+          "website": "https://www.bremen.eu/",
+          "description": "The Weser Renaissance Town Hall (built 1409, façade 1612) and the 5.5-metre Roland statue (1404) are jointly listed by UNESCO since 2004 as symbols of Hanseatic civic freedom. Roland is the largest free-standing medieval statue in Germany. The exterior plaza is open to dogs; the interior Ratskeller restaurant welcomes them indoors.",
+          "descriptionFr": "L'Hôtel de Ville de la Renaissance weser (1409, façade 1612) et la statue de Roland de 5,5 m (1404) sont conjointement classés UNESCO depuis 2004 comme symboles de liberté civique hanséatique. Roland est la plus grande statue médiévale autoportante d'Allemagne. La place extérieure est ouverte aux chiens ; le Ratskeller intérieur les accueille en salle.",
+          "descriptionEs": "El Ayuntamiento Renacimiento del Weser (1409, fachada 1612) y la estatua de Roland de 5,5 m (1404) están conjuntamente declarados UNESCO desde 2004 como símbolos de libertad cívica hanseática. Roland es la mayor estatua medieval autoportante de Alemania. La plaza exterior admite perros; el Ratskeller interior los acepta en sala.",
+          "petPolicy": "Marktplatz exterior open year-round to leashed dogs; interior Town Hall guided tours do not admit dogs",
+          "petPolicyFr": "Marktplatz extérieur ouvert toute l'année aux chiens en laisse ; visites guidées de l'Hôtel de Ville intérieures non admises",
+          "petPolicyEs": "Marktplatz exterior abierto todo el año a perros con correa; visitas guiadas interiores del Ayuntamiento no admitidas",
+          "tip": "Stand at the south-east corner near Roland to frame both monuments in one photo with your dog — best soft light at 17:00.",
+          "tipFr": "Placez-vous à l'angle sud-est près de Roland pour cadrer les deux monuments en une photo avec votre chien — meilleure lumière douce à 17h.",
+          "tipEs": "Sitúate en la esquina sureste junto a Roland para encuadrar ambos monumentos en una foto con tu perro — mejor luz suave a las 17:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bremen+Rathaus"
+        },
+        {
+          "name": "Schnoor Quarter",
+          "address": "Schnoor, 28195 Bremen",
+          "neighborhood": "Schnoor",
+          "photo": "/images/city-places/bremen-attractions-schnoor-quarter.jpg",
+          "website": "https://www.bremen.eu/",
+          "description": "Bremen's oldest quarter, a maze of narrow cobblestone alleys lined with 15th-17th century half-timbered houses now home to artisan workshops, galleries, cafés and small museums. Pedestrianised entirely; the most charming dog walk in central Bremen.",
+          "descriptionFr": "Le plus vieux quartier de Brême, dédale de ruelles pavées étroites bordées de maisons à colombages des XVe-XVIIe siècles abritant aujourd'hui des ateliers d'artisans, galeries, cafés et petits musées. Entièrement piéton ; la balade canine la plus charmante du centre de Brême.",
+          "descriptionEs": "El barrio más antiguo de Bremen, un laberinto de callejuelas adoquinadas estrechas bordeadas de casas con entramado de madera de los siglos XV-XVII, hoy con talleres de artesanos, galerías, cafés y pequeños museos. Totalmente peatonal; el paseo canino más encantador del centro de Bremen.",
+          "petPolicy": "Leashed dogs welcome year-round; many shops have water bowls outside the door",
+          "petPolicyFr": "Chiens en laisse admis toute l'année ; beaucoup de boutiques ont des gamelles d'eau devant la porte",
+          "petPolicyEs": "Perros con correa admitidos todo el año; muchas tiendas tienen cuencos de agua frente a la puerta",
+          "tip": "Walk in early evening (18:00-20:00) when shops are closing and tour groups have left — quiet alleys, golden light, and dog-tolerant café terraces still open.",
+          "tipFr": "Promenez-vous en début de soirée (18h-20h) quand les commerces ferment et les groupes sont partis — ruelles calmes, lumière dorée, terrasses dog-tolérantes encore ouvertes.",
+          "tipEs": "Pasea a primera hora de la noche (18:00-20:00) cuando las tiendas cierran y los grupos se han ido — callejuelas tranquilas, luz dorada, terrazas dog-friendly todavía abiertas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Schnoor+Bremen"
+        }
+      ],
+      "tipsEn": [
+        "Most Bremen attractions are open-air and free; the only paid sites are museums (Kunsthalle, Übersee-Museum, Universum) which exclude dogs. The Town Hall guided tour does not allow dogs but the exterior is fully accessible.",
+        "Bremer Freimarkt funfair (mid October-mid November) takes over the Bürgerweide near the station — fireworks and crowds make this a no-go for sensitive dogs.",
+        "Bremen's central cobblestones are mostly slip-resistant but the polished granite outside the Town Hall can be treacherous in rain — choose softer paths through the Wallanlagen on wet days."
+      ],
+      "tipsFr": [
+        "La plupart des attractions de Brême sont en plein air et gratuites ; seuls les musées (Kunsthalle, Übersee-Museum, Universum) sont payants et excluent les chiens. La visite guidée de l'Hôtel de Ville n'admet pas les chiens mais l'extérieur est entièrement accessible.",
+        "La fête foraine du Bremer Freimarkt (mi-octobre à mi-novembre) occupe le Bürgerweide près de la gare — feux d'artifice et foule à éviter avec des chiens sensibles.",
+        "Les pavés centraux de Brême sont majoritairement antidérapants mais le granit poli devant l'Hôtel de Ville peut être traître sous la pluie — préférez les sentiers plus tendres des Wallanlagen les jours humides."
+      ],
+      "tipsEs": [
+        "La mayoría de atracciones de Bremen son al aire libre y gratuitas; solo los museos (Kunsthalle, Übersee-Museum, Universum) son de pago y excluyen perros. La visita guiada del Ayuntamiento no admite perros pero el exterior es totalmente accesible.",
+        "La feria del Bremer Freimarkt (mediados de octubre a mediados de noviembre) ocupa el Bürgerweide junto a la estación — fuegos artificiales y multitudes a evitar con perros sensibles.",
+        "Los adoquines centrales de Bremen son mayoritariamente antideslizantes pero el granito pulido frente al Ayuntamiento puede ser traicionero bajo lluvia — elige senderos más blandos por los Wallanlagen en días húmedos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in the Schnoor and Marktplatz?",
+          "a": "Yes — both are pedestrianised public spaces fully open to leashed dogs. The cobblestones can be slippery when wet and very hot in August afternoons; carry small dogs across the polished granite if needed."
+        },
+        {
+          "q": "Can my dog pose with the Town Musicians statue?",
+          "a": "Absolutely. The Bremen Stadtmusikanten bronze on the western side of the Town Hall is one of the most popular dog-photo spots in Germany. Visit before 09:00 to avoid queues, and tradition says rubbing the donkey's front legs brings good luck — your dog can do the same."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans le Schnoor et au Marktplatz ?",
+          "a": "Oui — tous deux sont des espaces publics piétons entièrement ouverts aux chiens en laisse. Les pavés peuvent être glissants sous la pluie et très chauds en après-midi d'août ; portez les petits chiens sur le granit poli si besoin."
+        },
+        {
+          "q": "Mon chien peut-il poser avec la statue des Musiciens de Brême ?",
+          "a": "Absolument. Le bronze des Stadtmusikanten sur le côté ouest de l'Hôtel de Ville est l'un des spots photo canins les plus populaires d'Allemagne. Visitez avant 9h pour éviter les files, et la tradition veut que toucher les pattes de l'âne porte bonheur — votre chien peut faire de même."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en el Schnoor y la Marktplatz?",
+          "a": "Sí — ambos son espacios públicos peatonales totalmente abiertos a perros con correa. Los adoquines pueden ser resbaladizos con lluvia y muy calientes en tardes de agosto; lleva en brazos a perros pequeños sobre el granito pulido si hace falta."
+        },
+        {
+          "q": "¿Puede mi perro posar con la estatua de los Músicos de Bremen?",
+          "a": "Por supuesto. El bronce de los Stadtmusikanten en el lado oeste del Ayuntamiento es uno de los spots foto-canino más populares de Alemania. Visita antes de las 9:00 para evitar colas, y la tradición dice que tocar las patas del burro trae suerte — tu perro puede hacer lo mismo."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitters & Dog Walkers in Bremen",
+      "titleFr": "Pet sitters et promeneurs de chiens à Brême",
+      "titleEs": "Cuidadores y paseadores de perros en Bremen",
+      "introEn": "Bremen has an active pet-care market with three main online platforms covering the city, plus several local Hundeschule academies offering daycare. Hourly rates are reasonable by German standards (€10-20/hour for walks, €25-45/day for boarding) and English-speaking sitters are common given the city's expat and university population.",
+      "introFr": "Brême dispose d'un marché actif du pet-care avec trois plateformes en ligne principales, plus plusieurs Hundeschule locales proposant la garde de jour. Tarifs raisonnables aux standards allemands (10-20 €/heure pour les promenades, 25-45 €/jour pour la pension) et les sitters anglophones sont fréquents grâce à la population expatriée et universitaire.",
+      "introEs": "Bremen tiene un mercado activo de cuidado de mascotas con tres plataformas online principales, más varias Hundeschule locales que ofrecen guardería. Tarifas razonables para los estándares alemanes (10-20 €/hora para paseos, 25-45 €/día para hospedaje) y los cuidadores anglófonos son frecuentes gracias a la población expatriada y universitaria.",
+      "places": [
+        {
+          "name": "Pawshake Bremen",
+          "address": "Online platform — Bremen coverage",
+          "neighborhood": "Citywide",
+          "website": "https://www.pawshake.de/",
+          "description": "Largest community-driven pet-sitting platform in Germany. Bremen lists 50+ active sitters offering daycare, boarding, walks and home visits. Background checks and full insurance included on every booking; in-app messaging and meet-and-greet booking.",
+          "descriptionFr": "Plus grande plateforme communautaire de pet-sitting en Allemagne. Brême compte plus de 50 sitters actifs proposant garderie, pension, promenades et visites à domicile. Vérifications d'antécédents et assurance complète à chaque réservation ; messagerie intégrée et rencontre préalable.",
+          "descriptionEs": "Mayor plataforma comunitaria de cuidado de mascotas en Alemania. Bremen lista más de 50 cuidadores activos ofreciendo guardería, hospedaje, paseos y visitas a domicilio. Verificación de antecedentes y seguro completo en cada reserva; mensajería integrada y encuentro previo.",
+          "languages": [
+            "German",
+            "English",
+            "Turkish"
+          ],
+          "tip": "Filter by \"Probetag kostenlos\" for sitters who offer a free trial day — essential if your dog is reactive in new homes.",
+          "tipFr": "Filtrez par « Probetag kostenlos » pour les sitters proposant un jour d'essai gratuit — essentiel si votre chien est réactif dans un nouvel environnement.",
+          "tipEs": "Filtra por «Probetag kostenlos» para cuidadores que ofrecen un día de prueba gratis — esencial si tu perro es reactivo en hogares nuevos."
+        },
+        {
+          "name": "DogHero / Rover Germany",
+          "address": "Online platform — Bremen directory",
+          "neighborhood": "Citywide",
+          "website": "https://www.rover.com/de/",
+          "description": "International pet-care marketplace with strong German operations. Bremen has 30+ verified sitters offering boarding, daycare and dog walks; insurance included on every booking, English interface available, integrated messaging.",
+          "descriptionFr": "Marketplace international de pet-care avec forte présence allemande. Brême compte plus de 30 sitters vérifiés proposant pension, garderie et promenades ; assurance incluse à chaque réservation, interface anglaise disponible, messagerie intégrée.",
+          "descriptionEs": "Marketplace internacional de cuidado de mascotas con fuerte presencia alemana. Bremen tiene más de 30 cuidadores verificados ofreciendo hospedaje, guardería y paseos; seguro incluido en cada reserva, interfaz en inglés disponible, mensajería integrada.",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Useful when you need a specific time-window walk during a half-day Hamburg trip — Bremen sitters list visit windows in 30-minute slots.",
+          "tipFr": "Pratique pour une promenade à fenêtre horaire précise pendant une excursion d'une demi-journée à Hambourg — les sitters de Brême affichent leurs créneaux par tranches de 30 minutes.",
+          "tipEs": "Útil para un paseo en ventana horaria precisa durante una excursión de medio día a Hamburgo — los cuidadores de Bremen muestran sus huecos en tramos de 30 minutos."
+        },
+        {
+          "name": "TrustedHousesitters Bremen",
+          "address": "Online platform — Bremen sitters directory",
+          "neighborhood": "Citywide",
+          "website": "https://www.trustedhousesitters.com/",
+          "description": "Annual-membership platform that pairs travellers with verified sitters in exchange for free accommodation. The German market is mature and Bremen consistently has 5-15 sitters available in summer; works best for stays of 5+ nights.",
+          "descriptionFr": "Plateforme à abonnement annuel qui met en relation voyageurs et sitters vérifiés en échange du logement gratuit. Le marché allemand est mature et Brême compte régulièrement 5-15 sitters disponibles en été ; idéal pour les séjours de 5 nuits ou plus.",
+          "descriptionEs": "Plataforma con suscripción anual que empareja a viajeros con cuidadores verificados a cambio de alojamiento gratuito. El mercado alemán es maduro y Bremen tiene regularmente 5-15 cuidadores disponibles en verano; ideal para estancias de 5 noches o más.",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "If you're staying in a vacation rental for 5+ nights, posting your dog-care need 4-6 weeks ahead generally yields several Bremen-area applicants.",
+          "tipFr": "Pour un Airbnb de 5 nuits ou plus, publiez votre besoin de garde 4-6 semaines à l'avance — vous attirez généralement plusieurs candidats de la région de Brême.",
+          "tipEs": "Para un Airbnb de 5 noches o más, publica tu necesidad de cuidado 4-6 semanas antes — sueles atraer varios candidatos de la región de Bremen."
+        }
+      ],
+      "tipsEn": [
+        "Confirm pricing per visit upfront — German pet-sitting law requires written quotes for any service over €30, and unpaid extras can be contested.",
+        "Most Bremen 4-star hotels (Atlantic Grand, Radisson Blu, Universum, Munte) keep a list of trusted sitters at the concierge desk — useful for last-minute bookings.",
+        "Walking the Bürgerpark or Stadtwald with a sitter is preferable to the cobbled centre on hot summer days — softer ground for paws and shaded paths."
+      ],
+      "tipsFr": [
+        "Confirmez les tarifs par visite à l'avance — la loi allemande de pet-sitting impose un devis écrit pour tout service au-dessus de 30 €, et les extras non payés peuvent être contestés.",
+        "La plupart des hôtels 4 étoiles de Brême (Atlantic Grand, Radisson Blu, Universum, Munte) gardent une liste de sitters de confiance à la conciergerie — utile pour les réservations de dernière minute.",
+        "Promener le Bürgerpark ou le Stadtwald avec un sitter est préférable au centre pavé les jours d'été chauds — sol plus doux pour les coussinets et sentiers ombragés."
+      ],
+      "tipsEs": [
+        "Confirma las tarifas por visita por adelantado — la ley alemana de pet-sitting exige presupuesto escrito para cualquier servicio superior a 30 €, y los extras no pagados pueden ser disputados.",
+        "La mayoría de hoteles 4 estrellas de Bremen (Atlantic Grand, Radisson Blu, Universum, Munte) guardan una lista de cuidadores de confianza en conserjería — útil para reservas de última hora.",
+        "Pasear por el Bürgerpark o el Stadtwald con un cuidador es preferible al centro adoquinado en días calurosos de verano — suelo más blando para las almohadillas y senderos sombreados."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does a pet sitter cost in Bremen?",
+          "a": "Hourly rates range €10-20 for in-home walks, €25-45 per day for boarding, and €30-50 per overnight in-home stay. Bookings via platform usually include insurance and a small service fee."
+        },
+        {
+          "q": "Are pet sitters insured in Bremen?",
+          "a": "Yes via Pawshake, Rover and TrustedHousesitters — each booking includes third-party liability and pet-medical insurance up to a platform-defined cap. Read the booking confirmation for exact coverage limits."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte un pet sitter à Brême ?",
+          "a": "Tarifs horaires : 10-20 € pour promenades, 25-45 € par jour pour la pension, 30-50 € par nuit de garde à domicile. Réservations via plateforme avec assurance incluse et petits frais de service."
+        },
+        {
+          "q": "Les pet sitters sont-ils assurés à Brême ?",
+          "a": "Oui via Pawshake, Rover et TrustedHousesitters — chaque réservation inclut une assurance responsabilité civile et frais vétérinaires jusqu'à un plafond défini par plateforme. Vérifiez la confirmation pour les limites exactes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de mascotas en Bremen?",
+          "a": "Tarifas por hora: 10-20 € para paseos, 25-45 € por día para hospedaje, 30-50 € por noche de cuidado en casa. Reservas vía plataforma con seguro incluido y pequeñas tasas de servicio."
+        },
+        {
+          "q": "¿Están asegurados los cuidadores de mascotas en Bremen?",
+          "a": "Sí vía Pawshake, Rover y TrustedHousesitters — cada reserva incluye seguro de responsabilidad civil y gastos veterinarios hasta un tope definido por la plataforma. Comprueba la confirmación para los límites exactos."
+        }
+      ]
+    }
+  }
+}

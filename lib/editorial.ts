@@ -116,6 +116,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
       area: 'the Old Town, Petržalka, and Devín',
     },
+    bremen: {
+      personality: 'a Hanseatic North German city where the UNESCO Marktplatz statue of the Town Musicians places a dog at the heart of civic identity, the 200-hectare Bürgerpark sits beside the centre, and Stuben restaurants welcome dogs indoors year-round',
+      highlight: 'the Bürgerpark and adjacent Stadtwald, the Wallanlagen ramparts loop, and the Werderseestrand swim beach',
+      area: 'the Altstadt around the Marktplatz, Das Viertel, and the Schnoor',
+    },
     brighton: {
       personality: 'the UK\'s most reliably dog-friendly seaside city, where pets ride free on the buses and Hove Lawns Beach stays open year-round',
       highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
@@ -734,6 +739,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
       area: 'la vieille ville, Petržalka et Devín',
     },
+    bremen: {
+      personality: `une ville hanséatique nord-allemande où la statue UNESCO des Musiciens place un chien au cœur de l'identité civique, où le Bürgerpark de 200 hectares jouxte le centre et où les Stuben acceptent les chiens en salle toute l'année`,
+      highlight: `le Bürgerpark et le Stadtwald adjacent, la boucle des remparts Wallanlagen et la plage de baignade du Werderseestrand`,
+      area: `la Vieille Ville autour du Marktplatz, Das Viertel et le Schnoor`,
+    },
     brighton: {
       personality: 'la ville balnéaire britannique la plus fiable côté chiens, où les bus sont gratuits pour les animaux et où Hove Lawns Beach reste ouverte toute l\'année',
       highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
@@ -1350,6 +1360,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital centroeuropea compacta y asequible donde los perros recorren las plazas adoquinadas del casco antiguo, los bosques de los Cárpatos y las riberas del Danubio, todo a pie desde el centro',
       highlight: 'el bosque de Železná Studnička, Sad Janka Kráľa y la ribera de Devín',
       area: 'el casco antiguo, Petržalka y Devín',
+    },
+    bremen: {
+      personality: `una ciudad hanseática norte-alemana donde la estatua UNESCO de los Músicos pone a un perro en el corazón de la identidad cívica, donde el Bürgerpark de 200 hectáreas linda con el centro y donde las Stuben admiten perros en sala todo el año`,
+      highlight: `el Bürgerpark y el Stadtwald adyacente, el bucle de las murallas Wallanlagen y la playa de baño del Werderseestrand`,
+      area: `el casco antiguo alrededor de la Marktplatz, Das Viertel y el Schnoor`,
     },
     brighton: {
       personality: 'la ciudad costera más dog-friendly del Reino Unido, donde los autobuses son gratis para mascotas y la playa de Hove Lawns abre todo el año',

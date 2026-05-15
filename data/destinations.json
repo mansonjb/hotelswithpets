@@ -1395,6 +1395,79 @@
     }
   },
   {
+    "slug": "bremen",
+    "name": "Bremen",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bremen.jpg",
+    "intro": "Bremen blends Hanseatic Old Town charm, the UNESCO Marktplatz with its Town Musicians and Roland statue, and 200 hectares of forested Bürgerpark right next to the centre — a perfect dog-friendly North German escape.",
+    "lat": 53.0793,
+    "lng": 8.8017,
+    "weather": {
+      "jan": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & damp",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild with rain",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & overcast",
+        "icon": "🌨️"
+      }
+    }
+  },
+  {
     "slug": "brighton",
     "name": "Brighton",
     "country": "United Kingdom",

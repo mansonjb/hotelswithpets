@@ -33,7 +33,11 @@
           "tip": "The arcade terrace is shaded and dog-friendly all day; the indoor salon is more formal and pets are best left outside.",
           "tipFr": "La terrasse sous arcades est ombragée et dog-friendly toute la journée; le salon intérieur est plus formel, mieux vaut laisser le chien dehors.",
           "tipEs": "La terraza bajo los soportales está a la sombra y admite perros todo el día; el salón interior es más formal, mejor dejar el perro fuera.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Novelty+Plaza+Mayor+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Novelty+Plaza+Mayor+Salamanca",
+          "descriptionPt": "Fundado em 1905, o café mais antigo de Salamanca, sob os soportales da Praça Mayor. Refugio literário (Miguel de Unamuno era cliente habitual). Mesas de mármol, espejos dorados.",
+          "petPolicyPt": "Cães admitidos em esplanada sob os soportales",
+          "mustTryPt": "Chocolate com churros, vermut",
+          "tipPt": "A esplanada sob os soportales está a sombra e admite cães todo o dia; o salón interior é mais formal, melhor dejar o cão fuera."
         },
         {
           "name": "La Hoja 21",
@@ -55,7 +59,11 @@
           "tip": "Call ahead to confirm dog access at the bar — they're flexible if you arrive early.",
           "tipFr": "Appelez pour confirmer l'accès chien au bar — flexibles si vous arrivez tôt.",
           "tipEs": "Llama antes para confirmar acceso con perro en la barra — flexibles si llegas pronto.",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Hoja+21+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Hoja+21+Salamanca",
+          "descriptionPt": "Cozinha castellana premiada num entorno contemporáneo perto do Convento de San Esteban. Carta de temporada, fuerte em cerdo ibérico e quesos locales.",
+          "petPolicyPt": "Cães pequeños admitidos na barra; não não comedor principal",
+          "mustTryPt": "Cochinillo confitado, tabla de quesos castellanos",
+          "tipPt": "Llama antes para confirmar acceso com cão na barra — flexibles se llegas pronto."
         },
         {
           "name": "Mesón Las Conchas",
@@ -77,7 +85,11 @@
           "tip": "The terrace fills fast at lunchtime — arrive before 13:30 or after 15:30 for a relaxed table with your dog.",
           "tipFr": "La terrasse se remplit vite au déjeuner — arrivez avant 13h30 ou après 15h30 pour une table tranquille avec votre chien.",
           "tipEs": "La terraza se llena pronto al mediodía — llega antes de las 13:30 o después de las 15:30 para una mesa tranquila con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Meson+Las+Conchas+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Meson+Las+Conchas+Salamanca",
+          "descriptionPt": "Mesón castellano clásico frente a Casa das Conchas, com uma amplia esplanada na Rúa Mayor. Tapas, raciones e carnes a brasa.",
+          "petPolicyPt": "Cães admitidos em esplanada",
+          "mustTryPt": "Pulpo a gallega, chorizo ibérico, presa ibérica",
+          "tipPt": "A esplanada se cheia pronto al mediodía — llega antes das 13:30 o después das 15:30 para uma mesa tranquila com tu cão."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Cobran extra los restaurantes de Salamanca por llevar perro?",
           "a": "No. No hay suplemento por llevar perro en terraza. Suelen ofrecer un bol de agua si lo pides."
         }
+      ],
+      "titlePt": "Restaurantes que aceitam cães em Salamanca — Bares de tapas e esplanadas",
+      "introPt": "A cultura de tapas e cafés de Salamanca tolera bem aos cães em esplanada. Os soportales da Praça Mayor e a Rua Van Dyck (rua de tapas) concentran decenas de locales pet-friendly o ano inteiro.",
+      "tipsPt": [
+        "Os bares españoles admiten masivamente cães com trela em esplanada; dentro as reglas varían.",
+        "As tapas se sirven a menudo grátis com a bebida nos bares de Salamanca (tradição regional).",
+        "Rua Van Dyck al norte do centro = a rua de tapas com mais densidad pet-friendly."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Salamanca?",
+          "a": "Sí na maioria das esplanadas. Alrededor do 80–90% dos bares e cafés de Salamanca admiten cães com trela não exterior o ano inteiro. O acceso interior varía segundo o local."
+        },
+        {
+          "q": "¿Cobran extra os restaurantes de Salamanca por levar cão?",
+          "a": "Não. Não hay suplemento por levar cão em esplanada. Costumam ofrecer um bol de água se lo pides."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "Best between 18:00 and 20:00 in summer — locals socialise here, dogs play off-leash inside the fenced area.",
           "tipFr": "Idéal entre 18h et 20h en été — les locaux s'y retrouvent, les chiens jouent sans laisse dans la zone clôturée.",
           "tipEs": "Mejor entre 18:00 y 20:00 en verano — los locales se reúnen, los perros juegan sin correa en la zona vallada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+de+los+Jesuitas+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+de+los+Jesuitas+Salamanca",
+          "leashRulePt": "Trela obrigatória; zona sem trela designada",
+          "descriptionPt": "O parque mais grande do centro de Salamanca, 13 tem de relva, árvores maduros e zona canina vallada não extremo sureste. Popular entre os dueños locales manhã e tarde.",
+          "amenitiesPt": [
+            "Zona canina vallada",
+            "Bancos",
+            "Fuentes de água",
+            "Papeleras"
+          ],
+          "tipPt": "Melhor entre 18:00 e 20:00 em verão — os locales se reúnen, os cães juegan sem trela na zona vallada."
         },
         {
           "name": "Parque de la Aldehuela / Salas Bajas",
@@ -199,7 +237,15 @@
           "tip": "Sunset views of the cathedral from the south bank are spectacular — bring water in summer, no fountains along the path.",
           "tipFr": "Le coucher de soleil sur la cathédrale depuis la rive sud est spectaculaire — apportez de l'eau en été, pas de fontaine sur le chemin.",
           "tipEs": "La puesta de sol sobre la catedral desde la orilla sur es espectacular — lleva agua en verano, no hay fuentes en el camino.",
-          "googleMapsUrl": "https://maps.google.com/?q=Salas+Bajas+Tormes+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Salas+Bajas+Tormes+Salamanca",
+          "leashRulePt": "Trela obrigatória",
+          "descriptionPt": "Passeio ribereño junto ao Tormes a sul do casco histórico, com vista para o Ponte Romano e a silueta da catedral. Trilho ancho e llano, tramos sombreados, sem zona sem trela.",
+          "amenitiesPt": [
+            "Acceso al rio",
+            "Bancos",
+            "Áreas de picnic"
+          ],
+          "tipPt": "A puesta de sol sobre a catedral a partir da margem sur é espectacular — lleva água em verão, não hay fuentes não camino."
         },
         {
           "name": "Parque de San Francisco",
@@ -228,7 +274,14 @@
           "tip": "Useful for a quick walk between morning and afternoon sightseeing — not a destination park, more a green pause.",
           "tipFr": "Pratique pour une promenade rapide entre deux visites — pas une destination, plutôt une pause verte.",
           "tipEs": "Útil para un paseo rápido entre visitas — no es un destino, más bien una pausa verde.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+San+Francisco+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+San+Francisco+Salamanca",
+          "leashRulePt": "Trela obrigatória",
+          "descriptionPt": "Pequeño parque céntrico a 5 min a norte da Praça Mayor. Plátanos maduros, trilhos de gravilla e zona infantil num extremo. Paragem práctica para visitantes alojados cerca do centro.",
+          "amenitiesPt": [
+            "Bancos",
+            "Trilhos sombreados"
+          ],
+          "tipPt": "Útil para um passeio rápido entre visitas — não é um destino, mais bem uma pausa verde."
         }
       ],
       "tipsEn": [
@@ -275,6 +328,23 @@
           "q": "¿Pueden los perros nadar en el Tormes?",
           "a": "Sí, el acceso al río es libre al sur del Puente Romano. El Tormes es poco profundo y lento en verano — ideal para refrescar a los perros."
         }
+      ],
+      "titlePt": "Melhores parques e passeios para cães em Salamanca — Sem trela e junto ao rio",
+      "introPt": "O compacto centro histórico de Salamanca limita al sur com o rio Tormes. Os parques ribereños (Salas Bajas) e o arbolado Parque dos Jesuitas ofrecen os melhores passeios para cães. Hay zonas sem trela señalizadas em dos parques municipales.",
+      "tipsPt": [
+        "Ordenanza municipal de Salamanca: trela obrigatória em todo o espacio público salvo zonas sem trela designadas.",
+        "Bolsas para residuos caninos obrigatórias; multas até 750 € por não recogerlos (rara vez aplicado mas señalizado).",
+        "As tardes de verão alcanzan 35°C — pasea aos cães antes das 10:00 o después das 19:00."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay parques sem trela para cães em Salamanca?",
+          "a": "Sí. O Parque dos Jesuitas tem uma zona vallada sem trela, e existe outra no parque de Würzburg al oeste do centro. Fora de estas zonas, a trela é obrigatória."
+        },
+        {
+          "q": "¿Podem os cães nadar não Tormes?",
+          "a": "Sí, o acceso al rio é libre a sul do Ponte Romano. O Tormes é pouco profundo e lento em verão — ideal para refrescar aos cães."
+        }
       ]
     },
     "transport": {
@@ -299,7 +369,10 @@
           "tip": "Book the pet supplement at the same time as your own ticket — only 2 dog spots per coach, they sell out on weekends.",
           "tipFr": "Réservez le supplément animal en même temps que votre billet — seulement 2 places chien par voiture, complètes le week-end.",
           "tipEs": "Reserva el suplemento mascota a la vez que tu billete — solo 2 plazas para perros por vagón, se llenan los fines de semana.",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacion+Renfe+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacion+Renfe+Salamanca",
+          "descriptionPt": "Comboios Avant directos Madrid Chamartín–Salamanca em 1h35, varios diários. A partir de 2024, Renfe admite cães até 40 kg (uno por pasajero) em AVE e Avant.",
+          "petPolicyPt": "Cães até 10 kg em transportadora viajan grátis em tarifa normal; cães 10–40 kg necesitan bilhete animal (~25% tarifa adulta) e bozal em pasillos.",
+          "tipPt": "Reserva o suplemento animal a vez que tu bilhete — só 2 praças para cães por vagón, se llenan os fines de semana."
         },
         {
           "name": "Salamanca Urban Buses",
@@ -315,7 +388,10 @@
           "tip": "Buses run from 06:30 to 23:30. A single ticket is 1.05 EUR; 10-trip card 7.50 EUR (Bonobus).",
           "tipFr": "Bus de 6h30 à 23h30. Billet à 1,05 € ; carte 10 trajets 7,50 € (Bonobus).",
           "tipEs": "Autobuses de 6:30 a 23:30. Billete sencillo 1,05 €; bono 10 viajes 7,50 € (Bonobus).",
-          "googleMapsUrl": "https://maps.google.com/?q=Avanza+bus+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Avanza+bus+Salamanca",
+          "descriptionPt": "Operados por Avanza/Salmantina. 18 líneas cubren toda a cidade. Útil para chegar aos parques periféricos e al campus universitario a partir do centro.",
+          "petPolicyPt": "Cães pequeños em transportadora e cães de assistência grátis. Cães mais grandes a discreción do conductor (raro).",
+          "tipPt": "Autocarros de 6:30 a 23:30. Bilhete sencillo 1,05 €; bono 10 viajes 7,50 € (Bonobus)."
         },
         {
           "name": "Radio Taxi Salamanca",
@@ -331,7 +407,10 @@
           "tip": "Call +34 923 25 00 00 and specifically ask for a 'taxi que admite perro grande' if you have a medium/large dog.",
           "tipFr": "Appelez +34 923 25 00 00 et demandez précisément un « taxi que admite perro grande » pour un chien moyen/grand.",
           "tipEs": "Llama al +34 923 25 00 00 y pide específicamente un «taxi que admite perro grande» si tienes un perro mediano o grande.",
-          "googleMapsUrl": "https://maps.google.com/?q=Radio+Taxi+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Radio+Taxi+Salamanca",
+          "descriptionPt": "Cooperativa local de taxis que cubre a cidade e traslados al aeroporto Madrid-Barajas. Conductores pet-friendly identificables al pedi-lo por teléfono.",
+          "petPolicyPt": "Cães admitidos a discreción do conductor; cães pequeños em transportadora casi sempre OK, cães grandes pedirlos com antelación.",
+          "tipPt": "Llama al +34 923 25 00 00 e pide específicamente um «taxi que admite cão grande» se tienes um cão mediano o grande."
         }
       ],
       "tipsEn": [
@@ -378,6 +457,23 @@
           "q": "¿Cómo llego del aeropuerto de Madrid a Salamanca con perro?",
           "a": "Tres opciones: (1) Renfe Cercanías hasta Chamartín y luego Avant a Salamanca (~3h, pet-friendly); (2) autobús Avanza Estación Sur–Salamanca (~2h30, solo perros pequeños en transportín); (3) traslado privado con conductor pet-friendly (~250 €, 2h30 puerta a puerta)."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Salamanca — Autocarro, comboio e taxi",
+      "introPt": "O centro histórico de Salamanca se recorre entero a pé em 25 minutos. Para chegar, os comboios Renfe AVE/Avant a partir de Madrid (1h35) admiten animais segundo as normas 2024: até 40 kg por cão. Os autocarros urbanos também admiten cães pequeños com trela.",
+      "tipsPt": [
+        "Salamanca não tem metro ni elétrico — autocarros e taxis cubren o transporte urbano.",
+        "Os comboios AVE/Avant Madrid Chamartín–Salamanca são muito mais prácticos que o autocarro (1h35 vs 2h30+).",
+        "O aeroporto Madrid-Barajas é o hub internacional mais cercano; traslado de táxi ~210 km, 2h30, ~250 €."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão nos comboios Renfe Madrid–Salamanca?",
+          "a": "Sí. A partir de 2024 Renfe admite cães até 40 kg em AVE e Avant. Cães até 10 kg em transportadora: grátis; cães 10–40 kg: bilhete animal (~25% da tarifa adulta) e bozal fuera do transportadora."
+        },
+        {
+          "q": "¿Como llego do aeroporto de Madrid a Salamanca com cão?",
+          "a": "Três opciones: (1) Renfe Cercanías até Chamartín e luego Avant a Salamanca (~3h, pet-friendly); (2) autocarro Avanza Estação Sur–Salamanca (~2h30, só cães pequeños em transportadora); (3) traslado privado com conductor pet-friendly (~250 €, 2h30 puerta a puerta)."
+        }
       ]
     },
     "beaches": {
@@ -416,7 +512,15 @@
           "tip": "Water is cleanest May–July; algae blooms can appear in August — check the riverbank before letting your dog in.",
           "tipFr": "Eau la plus propre de mai à juillet ; algues possibles en août — vérifiez la berge avant de laisser votre chien entrer.",
           "tipEs": "Agua más limpia de mayo a julio; algas posibles en agosto — comprueba la orilla antes de meter al perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tormes+river+Salas+Bajas+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Tormes+river+Salas+Bajas+Salamanca",
+          "leashRulePt": "Sem trela tolerado na margem em verão",
+          "descriptionPt": "O Tormes a sul do Ponte Romano ofrece águas pouco profundas e lentas para o banho canino em verão. Margens com hierba, vista a catedral. Os cães locales se bañan a diário de junho a setembro.",
+          "amenitiesPt": [
+            "Margens com hierba",
+            "Sombra",
+            "Vista catedral"
+          ],
+          "tipPt": "Água mais limpia de maio a julho; algas posibles em agosto — comprueba a margem antes de meter al cão."
         },
         {
           "name": "Embalse de Santa Teresa",
@@ -446,7 +550,15 @@
           "tip": "Take exit 178 off the A-50 and follow signs to Guijuelo for the easiest pine-shaded access points.",
           "tipFr": "Sortez à la 178 de l'A-50 et suivez Guijuelo pour les accès les plus faciles à l'ombre des pins.",
           "tipEs": "Sal por la 178 de la A-50 y sigue las señales a Guijuelo para los accesos más fáciles a la sombra de los pinos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Embalse+de+Santa+Teresa+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Embalse+de+Santa+Teresa+Salamanca",
+          "leashRulePt": "Sem normativa específica para cães; sentido común",
+          "descriptionPt": "Gran embalse a 50 km al sureste de Salamanca, alimentado pelo Tormes. Calas com sombra de pinos, água fresca, sem praia urbana mas varios accesos públicos. Popular entre os locales os fines de semana de verão.",
+          "amenitiesPt": [
+            "Sombra de pinos",
+            "Água dulce",
+            "Áreas de picnic"
+          ],
+          "tipPt": "Sal pela 178 da A-50 e sigue as señales a Guijuelo para os accesos mais fáceis a sombra dos pinos."
         },
         {
           "name": "Embalse de Almendra",
@@ -476,7 +588,15 @@
           "tip": "1h drive each way; only worth it if you want a half-day reservoir excursion. Bring 4 L of water per dog and a sun shade.",
           "tipFr": "1h de route aller; n'en vaut la peine que pour une demi-journée d'excursion. Apportez 4 L d'eau par chien et un parasol.",
           "tipEs": "1h de coche por trayecto; solo merece la pena para una excursión de medio día. Lleva 4 L de agua por perro y una sombrilla.",
-          "googleMapsUrl": "https://maps.google.com/?q=Embalse+de+Almendra+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Embalse+de+Almendra+Salamanca",
+          "leashRulePt": "Sem normativa específica para cães",
+          "descriptionPt": "O segundo embalse mais grande de España, a 70 km al noroeste de Salamanca. Margens rocosas, afloramientos de granito, paisaje de dehesa de encinas. Realmente remoto — lleva todo lo necesario.",
+          "amenitiesPt": [
+            "Aislado",
+            "Margens de granito",
+            "Águas abertas"
+          ],
+          "tipPt": "1h de carro por trayecto; só merece a pena para uma excursión de medio dia. Lleva 4 L de água por cão e uma sombrilla."
         }
       ],
       "tipsEn": [
@@ -523,6 +643,23 @@
           "q": "¿Es seguro el Tormes para los perros?",
           "a": "Por lo general sí de mayo a julio. Evita agosto, cuando pueden aparecer algas. Comprueba siempre la orilla visualmente antes — busca espuma verde en la superficie."
         }
+      ],
+      "titlePt": "Zonas de banho pet-friendly perto de Salamanca — Praias fluviales e de embalse",
+      "introPt": "Salamanca é interior (210 km do Atlântico), mas o Tormes e os embalses cercanos ofrecen banhos estivales para cães. O embalse de Almendra e o lago Santa Teresa estão a 30–50 min de carro da cidade.",
+      "tipsPt": [
+        "Não hay praias atlánticas em excursión de dia a partir de Salamanca — a costa mais cercana está a 4h al oeste (Portugal).",
+        "A temperatura do água dos embalses se mantiene entre 16–22°C todo o verão — ideal para cães.",
+        "Evita o banho nas horas de calor de julho — temprano pela manhã o al atardecer é mais seguro para tu cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde podem banhar-se os cães em Salamanca o cerca?",
+          "a": "O Tormes a sul do Ponte Romano é a opción mais sencilla na cidade. Para excursión de dia, o embalse de Santa Teresa (50 km SE) e o embalse de Almendra (70 km Não) ofrecen banho em água dulce sem restricciones específicas para cães."
+        },
+        {
+          "q": "¿É seguro o Tormes para os cães?",
+          "a": "Por lo general sí de maio a julho. Evita agosto, quando podem aparecer algas. Comprueba sempre a margem visualmente antes — busca espuma verde na superficie."
+        }
       ]
     },
     "vets": {
@@ -551,7 +688,9 @@
           "tip": "Call ahead for triage — they'll prep an exam room and reduce your wait, especially after midnight.",
           "tipFr": "Appelez avant pour le triage — ils prépareront une salle et réduiront votre attente, surtout après minuit.",
           "tipEs": "Llama antes para triaje — prepararán una sala y reducirán tu espera, sobre todo después de medianoche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Salamanca",
+          "descriptionPt": "Hospital de urgências 24h completo: cirugía, UCI, imagen (rayos X, ecografía, TAC) e hospitalización. A mayor instalación para pequeños animales de Salamanca.",
+          "tipPt": "Llama antes para triaje — prepararán uma sala e reducirán tu espera, sobretudo después de medianoche."
         },
         {
           "name": "Clínica Veterinaria San Marcos",
@@ -571,7 +710,9 @@
           "tip": "Walk-ins accepted but call ahead — afternoon hours fill up fast with regulars.",
           "tipFr": "Sans rdv accepté mais appelez avant — les après-midis se remplissent vite avec les habitués.",
           "tipEs": "Aceptan sin cita pero llama antes — las tardes se llenan rápido con habituales.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Marcos+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Marcos+Salamanca",
+          "descriptionPt": "Clínica diurna consolidada não casco histórico, a 7 min a pé da Praça Mayor. Vacinas, microchip, dermatología, atención rutinaria para animais viajeras.",
+          "tipPt": "Aceitam sem cita mas llama antes — as tardes se llenan rápido com habituales."
         },
         {
           "name": "Hospital Clínico Veterinario USAL",
@@ -591,7 +732,9 @@
           "tip": "Most useful for complex cases — your primary vet must refer you. Daytime only.",
           "tipFr": "Surtout utile pour cas complexes — votre vétérinaire doit vous adresser. Jour uniquement.",
           "tipEs": "Útil sobre todo para casos complejos — tu veterinario debe derivarte. Solo de día.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Clinico+Veterinario+USAL+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Clinico+Veterinario+USAL+Salamanca",
+          "descriptionPt": "Hospital docente da facultad de veterinária da USAL. Consultas especializadas (oncología, cardiología, exóticos) por derivación.",
+          "tipPt": "Útil sobretudo para casos complejos — tu veterinário deve derivarte. Só de dia."
         }
       ],
       "tipsEn": [
@@ -638,6 +781,23 @@
           "q": "¿Cuánto cuesta una visita veterinaria de urgencia en Salamanca?",
           "a": "Entre 60 y 120 € por consulta básica de urgencia, más diagnósticos y tratamiento. Cirugías mayores pueden costar 500–2000 €. Los seguros de mascotas de la UE suelen reembolsar."
         }
+      ],
+      "titlePt": "Veterinário de urgências [24h] em Salamanca — Hospitales e clínicas veterinárias",
+      "introPt": "Salamanca cuenta com buena cobertura veterinária gracias a facultad de veterinária da universidade (fundada em 1852). Uma clínica de urgências 24h e varias consultas diurnas atienden o centro e os bairros periféricos.",
+      "tipsPt": [
+        "España exige passaporte europeu o AHC + microchip + vacina rabia ≥21 dias para viajes transfronterizos.",
+        "A prevención frente a garrapatas é esencial em Castilla e León — a leishmaniosis é endémica na dehesa.",
+        "Os veterinários españoles costumam manejar inglés básico; lleva o historial médico traducido."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay veterinário 24h em Salamanca?",
+          "a": "Sí — Hospital Veterinário Salamanca, Avenida dos Cipreses, abre 24h com capacidad de urgência completa (cirugía, UCI, imagen). Llama antes para triaje quando puedas."
+        },
+        {
+          "q": "¿Cuánto cuesta uma visita veterinária de urgência em Salamanca?",
+          "a": "Entre 60 e 120 € por consulta básica de urgência, mais diagnósticos e tratamento. Cirugías mayores podem costar 500–2000 €. Os seguros de animais da UE costumam reembolsar."
+        }
       ]
     },
     "tips": {
@@ -653,21 +813,24 @@
           "photo": "/images/city-places/salamanca-tips-best-season.jpg",
           "description": "April–June and September–October are ideal: warm days (16–22°C), cool nights, and outdoor terraces in full swing. Avoid July–August (35°C+ afternoons) and December–February (cold dry nights, occasional frost).",
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : journées tièdes (16–22°C), nuits fraîches et terrasses en pleine activité. Évitez juillet–août (après-midis à 35°C+) et décembre–février (nuits froides et sèches, gel occasionnel).",
-          "descriptionEs": "Abril–junio y septiembre–octubre son ideales: días templados (16–22°C), noches frescas y terrazas en plena actividad. Evita julio–agosto (tardes a 35°C+) y diciembre–febrero (noches frías y secas, escarcha ocasional)."
+          "descriptionEs": "Abril–junio y septiembre–octubre son ideales: días templados (16–22°C), noches frescas y terrazas en plena actividad. Evita julio–agosto (tardes a 35°C+) y diciembre–febrero (noches frías y secas, escarcha ocasional).",
+          "descriptionPt": "Abril–junho e setembro–outubro são ideales: dias templados (16–22°C), noites frescas e esplanadas em plena actividad. Evita julho–agosto (tardes a 35°C+) e dezembro–fevereiro (noites frías e secas, escarcha ocasional)."
         },
         {
           "name": "Heat & paw safety",
           "photo": "/images/city-places/salamanca-tips-heat-paw-safety.jpg",
           "description": "Salamanca's golden sandstone paving heats up fast. From late June to early September, walk dogs before 10:00 or after 19:00. The Plaza Mayor stones can reach 50°C in direct sun — keep dogs on the shaded north arcade side.",
           "descriptionFr": "Le pavage en grès doré de Salamanque chauffe vite. De fin juin à début septembre, promenez les chiens avant 10h ou après 19h. Les pierres de la Plaza Mayor peuvent atteindre 50°C en plein soleil — restez côté arcades nord à l'ombre.",
-          "descriptionEs": "El pavimento de arenisca dorada de Salamanca se calienta rápido. De finales de junio a principios de septiembre, pasea a los perros antes de las 10:00 o después de las 19:00. Las piedras de la Plaza Mayor pueden alcanzar 50°C al sol — mantén a los perros en el lado norte con soportales."
+          "descriptionEs": "El pavimento de arenisca dorada de Salamanca se calienta rápido. De finales de junio a principios de septiembre, pasea a los perros antes de las 10:00 o después de las 19:00. Las piedras de la Plaza Mayor pueden alcanzar 50°C al sol — mantén a los perros en el lado norte con soportales.",
+          "descriptionPt": "O pavimento de arenisca dorada de Salamanca se calienta rápido. De finales de junho a principios de setembro, pasea aos cães antes das 10:00 o después das 19:00. As pedras da Praça Mayor podem alcanzar 50°C al sol — mantén aos cães não lado norte com soportales."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/salamanca-tips-currency-cost.jpg",
           "description": "Spain uses the euro. Salamanca is cheaper than Madrid or Barcelona: tapas 2–4 EUR, full meal 18–30 EUR, mid-range pet-friendly hotel 90–140 EUR/night, taxi from train station to centre 5–7 EUR.",
           "descriptionFr": "L'Espagne utilise l'euro. Salamanque est moins chère que Madrid ou Barcelone : tapas 2–4 €, repas complet 18–30 €, hôtel pet-friendly milieu de gamme 90–140 €/nuit, taxi gare–centre 5–7 €.",
-          "descriptionEs": "España usa el euro. Salamanca es más barata que Madrid o Barcelona: tapas 2–4 €, comida completa 18–30 €, hotel pet-friendly de gama media 90–140 €/noche, taxi estación–centro 5–7 €."
+          "descriptionEs": "España usa el euro. Salamanca es más barata que Madrid o Barcelona: tapas 2–4 €, comida completa 18–30 €, hotel pet-friendly de gama media 90–140 €/noche, taxi estación–centro 5–7 €.",
+          "descriptionPt": "España usa o euro. Salamanca é mais barata que Madrid o Barcelona: tapas 2–4 €, comida completa 18–30 €, hotel pet-friendly de gama media 90–140 €/noite, taxi estação–centro 5–7 €."
         }
       ],
       "tipsEn": [
@@ -714,6 +877,23 @@
           "q": "¿Cuándo es peor visitar Salamanca con perro?",
           "a": "De mediados de julio a mediados de agosto. Máximas de 35–38°C hacen las visitas duras para el perro, y la arenisca sigue caliente hasta tarde. Mejor primavera u otoño."
         }
+      ],
+      "titlePt": "Consejos de viaje a Salamanca com tu cão",
+      "introPt": "Salamanca é uma das as cidades españolas mais fáceis para visitar com cão: pequeña, transitable, fuerte cultura de esplanadas de tapas e poucas escaleras. As únicas limitaciones são o calor estival e o acceso a as catedrais.",
+      "tipsPt": [
+        "A Praça Mayor é a referencia central — a maioria de hotéis pet-friendly estão a menos de 10 min a pé.",
+        "Os horarios de jantar em España são tardíos (21:00–23:00); muitas cozinhas cierran entre 16:00 e 20:30.",
+        "Os bares españoles ofrecen sem problema uma tigela de água aos cães em esplanada — basta com pedir «uma tigela de água»."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Salamanca pet-friendly em general?",
+          "a": "Sí. Cidade universitaria descontraída com excelente cultura de esplanada, distancias pedonais e atitude amable para os cães. Catedrais e museus quedan fora de límites, mas o espacio público é dos mais pet-friendly de España."
+        },
+        {
+          "q": "¿Cuándo é peor visitar Salamanca com cão?",
+          "a": "De mediados de julho a mediados de agosto. Máximas de 35–38°C hacen as visitas duras para o cão, e a arenisca sigue quente até tarde. Melhor primavera u outono."
+        }
       ]
     },
     "attractions": {
@@ -739,7 +919,10 @@
           "tip": "The square glows at sunset (the 'golden hour' is literal here) and again when lit up after dark — perfect for evening photos with your dog.",
           "tipFr": "La place s'embrase au coucher du soleil (l'« heure dorée » prend tout son sens) et de nouveau quand elle est illuminée le soir — parfait pour des photos avec votre chien.",
           "tipEs": "La plaza se enciende al atardecer (la «hora dorada» se hace literal) y de nuevo cuando se ilumina por la noche — perfecto para fotos con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Mayor+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Mayor+Salamanca",
+          "descriptionPt": "Considerada a praça mais bella de España (1729, Andrés García de Quiñones), um soportal barroco perfeitamente proporcionado em arenisca dorada. Corazón da vida salmantina. Totalmente acessível para cães com trela dia e noite.",
+          "petPolicyPt": "Espacio público aberto; cães admitidos com trela",
+          "tipPt": "A praça se enciende al atardecer (a «hora dorada» se hace literal) e de nuevo quando se ilumina pela noite — perfeito para fotos com tu cão."
         },
         {
           "name": "Catedral Nueva & Vieja",
@@ -756,7 +939,10 @@
           "tip": "Look for the astronaut carved into the new cathedral's Puerta de Ramos — added during 1992 restoration. The east façade is the best dog-photo spot.",
           "tipFr": "Cherchez l'astronaute sculpté sur la Puerta de Ramos de la nouvelle cathédrale — ajouté lors de la restauration de 1992. La façade est est le meilleur spot photo avec chien.",
           "tipEs": "Busca el astronauta esculpido en la Puerta de Ramos de la catedral nueva — añadido en la restauración de 1992. La fachada este es el mejor spot de foto con perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Catedral+Nueva+Salamanca"
+          "googleMapsUrl": "https://maps.google.com/?q=Catedral+Nueva+Salamanca",
+          "descriptionPt": "As catedrais gemelas de Salamanca: a Catedral Nueva do gótico tardío (s. XVI) e a Catedral Vieja românica (s. XII), conectadas no interior. Não se admiten cães no interior (salvo cães de assistência), mas os exteriores e a Praça de Anaya são acessíveis para todos.",
+          "petPolicyPt": "Sem cães no interior; exteriores totalmente acessíveis",
+          "tipPt": "Busca o astronauta esculpido na Puerta de Ramos da catedral nueva — añadido na restauración de 1992. A fachada este é o melhor spot de foto com cão."
         },
         {
           "name": "Universidad de Salamanca — Patio de Escuelas",
@@ -773,7 +959,10 @@
           "tip": "Best in the early morning (before 10:00) — the Patio fills with student tour groups by 11:00.",
           "tipFr": "Mieux tôt le matin (avant 10h) — le Patio se remplit de groupes étudiants dès 11h.",
           "tipEs": "Mejor a primera hora (antes de las 10:00) — el Patio se llena de grupos de estudiantes hacia las 11:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Universidad+Salamanca+Patio+Escuelas"
+          "googleMapsUrl": "https://maps.google.com/?q=Universidad+Salamanca+Patio+Escuelas",
+          "descriptionPt": "A fachada plateresca da universidade (1529) é um dos os muros mais fotografiados de España — encontra a rana escondida sobre a calavera para ter suerte. O Patio de Escuelas frente a ella é uma praça pública aberta acessível para cães com trela.",
+          "petPolicyPt": "Patio exterior aberto a cães; interior não acessível",
+          "tipPt": "Melhor a primera hora (antes das 10:00) — o Patio se cheia de grupos de estudantes para as 11:00."
         }
       ],
       "tipsEn": [
@@ -820,6 +1009,23 @@
           "q": "¿Puedo visitar las catedrales de Salamanca con mi perro?",
           "a": "Solo los exteriores. Los interiores no admiten mascotas (los perros de asistencia son la excepción). La Plaza de Anaya frente a las catedrales es totalmente accesible con un perro con correa."
         }
+      ],
+      "titlePt": "Melhores atracciones pet-friendly em Salamanca — Praça Mayor, catedrais e universidade",
+      "introPt": "O centro histórico UNESCO de Salamanca se disfruta como um passeio arquitectónico al aire libre — perfeito com cão com trela. A maioria dos grandes monumentos têm patios o exteriores acessíveis a cães; só os interiores de igrejas quedan estrictamente vetados.",
+      "tipsPt": [
+        "Todos os grandes monumentos de Salamanca estão a menos de 15 min a pé da Praça Mayor.",
+        "Os interiores das catedrais, a Casa Lis (museu modernista) e o Convento de San Esteban não admiten cães.",
+        "Patios, praças e soportales exteriores são universalmente acessíveis para cães com trela."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a Praça Mayor?",
+          "a": "Sí, totalmente. A Praça Mayor é uma praça pública aberta onde os cães com trela são bem-vindos dia e noite. A maioria das esplanadas de café no seu perímetro também admiten cães."
+        },
+        {
+          "q": "¿Puedo visitar as catedrais de Salamanca com mi cão?",
+          "a": "Só os exteriores. Os interiores não admiten animais (os cães de assistência são a excepción). A Praça de Anaya frente a as catedrais é totalmente acessível com um cão com trela."
+        }
       ]
     },
     "petsitting": {
@@ -842,7 +1048,9 @@
           "website": "https://gudog.es/dog-sitting/salamanca",
           "tip": "Spanish-only sitters dominate — filter for English-speaking ones if you want to communicate freely.",
           "tipFr": "Sitters hispanophones majoritaires — filtrez sur l'anglais si vous voulez communiquer librement.",
-          "tipEs": "Cuidadores hispanohablantes dominan — filtra por inglés si quieres comunicarte con soltura."
+          "tipEs": "Cuidadores hispanohablantes dominan — filtra por inglés si quieres comunicarte con soltura.",
+          "descriptionPt": "A mayor plataforma de cuidado de animais de España com ~20 cuidadores verificados em Salamanca. Visitas a domicilio, guardería diurna, alojamento. Seguro incluido, cuidadores com reseñas.",
+          "tipPt": "Cuidadores hispanohablantes dominan — filtra por inglés se quieres comunicarte com soltura."
         },
         {
           "name": "Pawshake Salamanca",
@@ -856,7 +1064,9 @@
           "website": "https://www.pawshake.es/dog-sitting/salamanca",
           "tip": "Book at least 48h ahead in summer and during university graduation week (mid-June) — sitter availability tightens.",
           "tipFr": "Réservez au moins 48h à l'avance en été et pendant la semaine de remise des diplômes (mi-juin) — les disponibilités se resserrent.",
-          "tipEs": "Reserva al menos 48h antes en verano y durante la semana de graduación universitaria (mediados de junio) — la disponibilidad se reduce."
+          "tipEs": "Reserva al menos 48h antes en verano y durante la semana de graduación universitaria (mediados de junio) — la disponibilidad se reduce.",
+          "descriptionPt": "Plataforma internacional com ~12 cuidadores verificados em Salamanca. Útil para viajeros que prefieren uma interfaz em inglés e portabilidad de cuenta mundial.",
+          "tipPt": "Reserva al menos 48h antes em verão e durante a semana de graduación universitaria (mediados de junho) — a disponibilidad se reduce."
         }
       ],
       "tipsEn": [
@@ -902,6 +1112,23 @@
         {
           "q": "¿Puedo dejar a mi perro en el hotel durante el día en Salamanca?",
           "a": "Muchos hoteles pet-friendly de Salamanca (Hospes, NH Collection, etc.) admiten perros en la habitación mientras estás fuera, siempre que sean tranquilos y no destructivos. Confírmalo antes — algunos exigen no dejar al perro solo."
+        }
+      ],
+      "titlePt": "Cuidado de cães e guardería canina em Salamanca — Plataformas verificadas",
+      "introPt": "As visitas a catedrais e museus, as rutas de bodegas e as comidas longas obligan a vezes a dejar al cão. Dos plataformas internacionais (Gudog, Pawshake) operan em Salamanca com uns 30 cuidadores locales verificados.",
+      "tipsPt": [
+        "Tarifas em Salamanca: visita a domicilio 12–18 €, guardería de dia 20–28 €, alojamento de noite 25–40 €.",
+        "A maioria dos cuidadores vive em bairros céntricos a menos de 1 km da Praça Mayor.",
+        "Existen residencias caninas nas afueras — útiles só para ausencias de varios dias."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Como encuentro um cuidador para um dia em Salamanca?",
+          "a": "Tanto Gudog como Pawshake permiten reservar um dia de guardería o visitas com um cuidador local verificado. Filtra por idioma, tamanho de cão admitido e tipo de vivienda (piso vs casa com jardim)."
+        },
+        {
+          "q": "¿Puedo dejar a mi cão no hotel durante o dia em Salamanca?",
+          "a": "Muitos hotéis pet-friendly de Salamanca (Hospes, NH Collection, etc.) admiten cães na habitación mientras estás fuera, sempre que sean tranquilos e não destructivos. Confírmalo antes — algunos exigen não dejar al cão só."
         }
       ]
     }

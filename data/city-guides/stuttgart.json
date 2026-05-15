@@ -33,7 +33,11 @@
           "tip": "Arrive before 18:00 on summer evenings — the panoramic benches fill up fast, and the shaded chestnut section is the coolest spot for dogs.",
           "tipFr": "Arrivez avant 18h les soirs d'été — les bancs panoramiques se remplissent vite, et la section ombragée sous les marronniers est la plus fraîche pour les chiens.",
           "tipEs": "Llega antes de las 18:00 las tardes de verano: los bancos panorámicos se llenan rápido y la zona de sombra bajo los castaños es la más fresca para los perros.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tschechen+S%C3%B6hne+Stuttgart"
+          "googleMapsUrl": "https://maps.google.com/?q=Tschechen+S%C3%B6hne+Stuttgart",
+          "descriptionPt": "Um Biergarten clásico de Stuttgart em lo alto da Karlshöhe, com uma das panorámicas mais espectaculares da cidade sobre o valle do Neckar, o Schurwald e os viñedos do entorno. Longos bancos de madera se alinean entre viejos castaños, e os cães se acomodan sob as mesas como algo natural. A carta é comida reconfortante suaba —bratwurst, Maultaschen, pretzels— acompañada de cervejas regionales e vinhos Trollinger do cercano Württemberg.",
+          "petPolicyPt": "Cães admitidos em todo o Biergarten",
+          "mustTryPt": "Maultaschen, bratwurst, Trollinger regional",
+          "tipPt": "Llega antes das 18:00 as tardes de verão: os bancos panorámicos se llenan rápido e a zona de sombra sob os castaños é a mais fresca para os cães."
         },
         {
           "name": "Carls Brauhaus",
@@ -55,7 +59,11 @@
           "tip": "Ask for a terrace seat at the back, away from the main fountain crowd — quieter, shaded, and easier for a dog to settle.",
           "tipFr": "Demandez une table en terrasse à l'arrière, à l'écart de la foule autour de la fontaine — plus calme, ombragé, plus facile pour un chien.",
           "tipEs": "Pide mesa en la parte trasera de la terraza, lejos del bullicio de la fuente: más tranquila, con sombra y más fácil para que el perro se acomode.",
-          "googleMapsUrl": "https://maps.google.com/?q=Carls+Brauhaus+Stuttgart"
+          "googleMapsUrl": "https://maps.google.com/?q=Carls+Brauhaus+Stuttgart",
+          "descriptionPt": "Situado não histórico Königin-Olga-Bau, em plena Schlossplatz, Carls Brauhaus é a Wirtschaft suaba pet-friendly mais céntrica da cidade. A esplanada mira a as fuentes da praça do Palácio e a gran rua peatonal Königstraße, e os cães são bem-vindos tanto fuera como no interior revestido de madera. Os clásicos suabos contundentes —Käsespätzle, Schnitzel, Linsen mit Spätzle— se acompañan com uma Pilsner e uma Dunkel da casa.",
+          "petPolicyPt": "Cães admitidos em interior e esplanada",
+          "mustTryPt": "Käsespätzle, Schnitzel, Pilsner da casa",
+          "tipPt": "Pide mesa na parte trasera da esplanada, lejos do bullicio da fuente: mais tranquila, com sombra e mais fácil para que o cão se acomode."
         },
         {
           "name": "Restaurant Luftbad",
@@ -77,7 +85,11 @@
           "tip": "Reserve a corner table inside in winter — the wood-panelled banquettes are large enough for a medium dog to lie alongside.",
           "tipFr": "Réservez une table d'angle en salle l'hiver — les banquettes lambrissées sont assez larges pour qu'un chien moyen s'allonge à côté.",
           "tipEs": "Reserva una mesa de esquina en el interior en invierno: los bancos de madera son suficientemente amplios para que un perro mediano se eche al lado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Luftbad+Stuttgart"
+          "googleMapsUrl": "https://maps.google.com/?q=Luftbad+Stuttgart",
+          "descriptionPt": "Uma taberna griega muito arraigada não Heusteigviertel, com uno dos recibimientos mais acolhedores para cães do sul de Stuttgart. A cozinha recorre todo o repertorio griego a parrilla —souvlaki, gyros, feta a plancha, mezze frios— e o pequeño Biergarten delantero, sob os tilos, mantiene tigelas de água não solo por defecto. O interior é de madera e tenue, na gran tradição das Wirtschaften de Stuttgart, e os cães são bem-vindos o ano inteiro.",
+          "petPolicyPt": "Cães admitidos em interior e não Biergarten delantero",
+          "mustTryPt": "Parrillada mixta, feta a plancha, retsina",
+          "tipPt": "Reserva uma mesa de esquina no interior em inverno: os bancos de madera são suficientemente amplios para que um cão mediano se eche al lado."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Puede mi perro entrar en el comedor de los restaurantes?",
           "a": "En la mayoría de las tabernas suabas y cervecerías, sí: un perro con correa es bienvenido dentro todo el año. Algunos restaurantes de diseño solo aceptan terraza; preguntar en la puerta lo aclara al instante."
         }
+      ],
+      "titlePt": "Restaurantes para cães em Stuttgart",
+      "introPt": "Stuttgart é uma das as cidades mais fiables do sul de Alemania para viajar com cão. A cultura dos Biergärten é a base: em cualquier Biergarten tradicional da Karlshöhe o do Schlossgarten, os cães echados sob as mesas de madera forman parte do paisaje habitual. Lo mesmo ocurre na maioria dos Wirtschaften (tabernas) suabos e nos cafés de tercera ola dos bairros Oeste e Sur. Os três lugares siguientes têm políticas explícitas e bem documentadas para animais.",
+      "tipsPt": [
+        "A cultura do Biergarten é a tradição pet-friendly mais sólida de Stuttgart: casi cualquier Biergarten tradicional admite por defecto a um cão com trela e bem educado.",
+        "A maioria das Wirtschaften suabas têm tigelas de água sem que haga falta pedirlos; se não os ves, basta com preguntar al pessoal.",
+        "As cadenas de café da Königstraße são mais estrictas que os cafés independientes dos bairros Oeste e Sur; sal da rua comercial principal para sentarte dentro com cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos Biergärten de Stuttgart?",
+          "a": "Sí: um cão tranquilo com trela é bem-vindo em casi todos os Biergärten tradicionales de Stuttgart. Os de Karlshöhe, Schlossgarten e Killesberg são especialmente descontraídos."
+        },
+        {
+          "q": "¿Os restaurantes de Stuttgart cobran pelo tigela de água?",
+          "a": "Não. Os tigelas de água são gratuitos em toda a cidade e a maioria das Wirtschaften suabas os têm preparados. Em cafés mais grandes basta com pedirlos."
+        },
+        {
+          "q": "¿Pode mi cão entrar não comedor dos restaurantes?",
+          "a": "Na maioria das tabernas suabas e cervecerías, sí: um cão com trela é bem-vindo dentro o ano inteiro. Algunos restaurantes de design só aceitam esplanada; preguntar na puerta lo aclara al instante."
+        }
       ]
     },
     "parks": {
@@ -154,7 +187,8 @@
           "website": "https://www.schloesser-und-gaerten.de/objekte/schlossgarten-stuttgart/",
           "description": "The 61-hectare ribbon of Schlossgarten links the city centre to the Neckar at Bad Cannstatt and is the most central walking option. A fenced off-leash meadow (Hundeauslauf) sits in the middle Schlossgarten section between the Eckensee and the Mineralbad Berg.",
           "descriptionFr": "Le ruban du Schlossgarten (61 ha) relie le centre-ville au Neckar à Bad Cannstatt et constitue la promenade la plus centrale. Une prairie clôturée sans laisse (Hundeauslauf) se trouve dans le Mittelschlossgarten, entre l'Eckensee et le Mineralbad Berg.",
-          "descriptionEs": "El cinturón del Schlossgarten (61 ha) une el centro con el Neckar en Bad Cannstatt y es la opción de paseo más céntrica. Una pradera vallada sin correa (Hundeauslauf) está en el Schlossgarten medio, entre el Eckensee y el Mineralbad Berg."
+          "descriptionEs": "El cinturón del Schlossgarten (61 ha) une el centro con el Neckar en Bad Cannstatt y es la opción de paseo más céntrica. Una pradera vallada sin correa (Hundeauslauf) está en el Schlossgarten medio, entre el Eckensee y el Mineralbad Berg.",
+          "descriptionPt": "O cinturón do Schlossgarten (61 tem) une o centro com o Neckar em Bad Cannstatt e é a opción de passeio mais céntrica. Uma pradaria vallada sem trela (Hundeauslauf) está não Schlossgarten medio, entre o Eckensee e o Mineralbad Berg."
         },
         {
           "name": "Rosensteinpark",
@@ -164,7 +198,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-rosensteinpark",
           "description": "The 65-hectare landscape park surrounding Schloss Rosenstein is Stuttgart's largest urban green space and the favourite weekend walk for dog owners in the north of the city. Mature beech and oak woodland, broad meadows, and connecting paths to the Neckar embankment.",
           "descriptionFr": "Parc paysager de 65 ha autour du Schloss Rosenstein, le plus grand espace vert urbain de Stuttgart et la promenade week-end préférée des propriétaires de chiens du nord. Forêts de hêtres et de chênes adultes, vastes prairies et chemins reliant les berges du Neckar.",
-          "descriptionEs": "Parque paisajístico de 65 ha en torno al Schloss Rosenstein, el mayor espacio verde urbano de Stuttgart y el paseo de fin de semana favorito de los dueños de perros del norte de la ciudad. Bosques maduros de hayas y robles, amplias praderas y caminos que enlazan con la ribera del Neckar."
+          "descriptionEs": "Parque paisajístico de 65 ha en torno al Schloss Rosenstein, el mayor espacio verde urbano de Stuttgart y el paseo de fin de semana favorito de los dueños de perros del norte de la ciudad. Bosques maduros de hayas y robles, amplias praderas y caminos que enlazan con la ribera del Neckar.",
+          "descriptionPt": "Parque paisajístico de 65 tem em torno al Schloss Rosenstein, o mayor espacio verde urbano de Stuttgart e o passeio de fin de semana favorito dos dueños de cães do norte da cidade. Florestas maduros de hayas e robles, amplias pradarias e caminos que enlazan com a ribera do Neckar."
         },
         {
           "name": "Bärensee Forest Trail",
@@ -174,7 +209,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-baerensee",
           "description": "A 6 km lake-and-forest loop around the Bärensee, Pfaffensee and Neuer See, west of the city in the Glemswald forest. The signposted Wanderweg accepts leashed dogs throughout; off-leash is permitted in the side woodland trails outside hunting season (September-January).",
           "descriptionFr": "Boucle lac-et-forêt de 6 km autour du Bärensee, Pfaffensee et Neuer See, à l'ouest de la ville dans la forêt de Glemswald. Le Wanderweg balisé accepte les chiens en laisse partout ; le « sans laisse » est autorisé sur les sentiers latéraux hors saison de chasse (septembre-janvier).",
-          "descriptionEs": "Bucle de lago y bosque de 6 km alrededor del Bärensee, Pfaffensee y Neuer See, al oeste de la ciudad en el bosque de Glemswald. El Wanderweg señalizado admite perros con correa en todo su recorrido; el «sin correa» se permite en senderos laterales fuera de la temporada de caza (septiembre-enero)."
+          "descriptionEs": "Bucle de lago y bosque de 6 km alrededor del Bärensee, Pfaffensee y Neuer See, al oeste de la ciudad en el bosque de Glemswald. El Wanderweg señalizado admite perros con correa en todo su recorrido; el «sin correa» se permite en senderos laterales fuera de la temporada de caza (septiembre-enero).",
+          "descriptionPt": "Bucle de lago e floresta de 6 km alrededor do Bärensee, Pfaffensee e Neuer See, a oeste da cidade não floresta de Glemswald. O Wanderweg señalizado admite cães com trela em todo o seu recorrido; o «sem trela» se permite em trilhos laterales fora da temporada de caça (setembro-janeiro)."
         }
       ],
       "tipsEn": [
@@ -232,6 +268,27 @@
         {
           "q": "¿Son transitables los viñedos de Stuttgart con perro?",
           "a": "Sí — las escaleras de viñedo Stäffele (p. ej., la ruta del Württembergstaffel) y las laderas del Killesberg son accesibles para perros con correa todo el año, con panorámicas clásicas de la ciudad."
+        }
+      ],
+      "titlePt": "Melhores parques e zonas sem trela para cães em Stuttgart",
+      "introPt": "Stuttgart se asienta numa cuenca verde rodeada de colinas boscosas e viñedos, com três grandes zonas caninas valladas dentro da cidade e extensos florestas acessíveis não elétrico. O cinturón do Schlossgarten une o centro com Bad Cannstatt; o Rosensteinpark e o Killesberg são opciones mais amplias para o fin de semana. Fora das zonas valladas, a trela é obrigatória por ordenanza municipal de Stuttgart.",
+      "tipsPt": [
+        "A ordenanza de trela de Stuttgart (Leinenpflicht) se aplica em toda a cidade fora das três zonas valladas sem trela; hay patrullas puntuales nos parques céntricos.",
+        "Os dueños de cães de Stuttgart pagan uma Hundesteuer anual (108 € por cão em 2026); os viajeros com estadia inferior a 21 dias não a pagan.",
+        "O Bärensee é o único floresta acessível sem trela a 20 minutos não elétrico; o bus 92 a partir de Westbahnhof deja não aparcamiento."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo soltar a mi cão em Stuttgart?",
+          "a": "Três Hundeauslaufgebiete valladas: o Schlossgarten medio, o Rosensteinpark e o Killesberg. Fora de estas zonas, a trela é obrigatória por ordenanza municipal."
+        },
+        {
+          "q": "¿Puedo passear a mi cão pelos jardins do zoo Wilhelma?",
+          "a": "Não — só se admiten cães de assistência na Wilhelma. O Rosensteinpark contiguo está totalmente aberto a cães com trela e ofrece as mesmas vistas da cidade."
+        },
+        {
+          "q": "¿São transitables os viñedos de Stuttgart com cão?",
+          "a": "Sí — as escaleras de viñedo Stäffele (p. ej., a ruta do Württembergstaffel) e as laderas do Killesberg são acessíveis para cães com trela o ano inteiro, com panorámicas clásicas da cidade."
         }
       ]
     },
@@ -308,6 +365,27 @@
           "q": "¿Se admiten perros en los taxis de Stuttgart?",
           "a": "Sí — los taxis de Stuttgart (y las apps Bolt/Free Now) admiten perros con correa a discreción del conductor. Añade «Hund» en las notas de la app; es habitual un suplemento de 5 €."
         }
+      ],
+      "titlePt": "Viajar com cão não transporte público de Stuttgart",
+      "introPt": "O transporte público de Stuttgart (VVS — S-Bahn, U-Bahn, autocarros, comboios regionales) admite cães com reglas sencillas: os cães pequeños em transportadora viajan grátis, e um cão grande viaja grátis com cualquier abono mensal, semanal o Deutschland-Ticket. Os pasajeros com bilhete sencillo compran um bilhete infantil para o cão. O bozal não é obrigatório em VVS para razas corrientes — só para cães clasificados como peligrosos segundo a lei de Baden-Württemberg.",
+      "tipsPt": [
+        "Se já tienes um Deutschland-Ticket o um abono mensal VVS, tu cão viaja grátis — sem compra adicional.",
+        "Para bilhetes sencillos, compra um Kind-Einzelticket na máquina para tu cão; os revisores hacen controles aleatorios em S-Bahn e U-Bahn.",
+        "A estação central de Stuttgart (Hauptbahnhof) é plenamente pet-friendly, e os ICE/IC de longa distancia de Deutsche Bahn admiten cães grandes a mitad de preço com o Hund-Ticket."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Tengo que poner bozal a mi cão nos elétricos de Stuttgart?",
+          "a": "Não — VVS não exige bozal para razas corrientes. O bozal só é obrigatório para cães clasificados como peligrosos segundo a PolGVO de Baden-Württemberg (p. ej., Pit Bull, Bullterrier e mestizos)."
+        },
+        {
+          "q": "¿Cuánto cuesta um bilhete infantil (Kind-Einzelticket) para um cão?",
+          "a": "Uns 1,50 € em 2026 para um trayecto urbano — exactamente a mitad do bilhete de adulto. Cómpralo em cualquier máquina VVS; os conductores não venden bilhetes para animais a bordo."
+        },
+        {
+          "q": "¿Se admiten cães nos taxis de Stuttgart?",
+          "a": "Sí — os taxis de Stuttgart (e as apps Bolt/Free Now) admiten cães com trela a discreción do conductor. Añade «Hund» nas notas da app; é habitual um suplemento de 5 €."
+        }
       ]
     },
     "beaches": {
@@ -326,7 +404,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-max-eyth-see",
           "description": "An 18-hectare lake in the Neckar floodplain north of the centre, with a 2 km perimeter path, beer garden, and a small unsupervised dog-swimming section on the eastern shore. U-Bahn U14 to Hofen station, then 5 minutes' walk.",
           "descriptionFr": "Lac de 18 ha dans la plaine d'inondation du Neckar, au nord du centre, avec un sentier périmétrique de 2 km, un Biergarten et une petite section de baignade canine non surveillée sur la rive est. U-Bahn U14 jusqu'à la station Hofen, puis 5 minutes à pied.",
-          "descriptionEs": "Lago de 18 ha en la llanura de inundación del Neckar, al norte del centro, con un sendero perimetral de 2 km, Biergarten y una pequeña sección de baño canino sin vigilancia en la orilla este. U-Bahn U14 hasta la estación Hofen, luego 5 minutos a pie."
+          "descriptionEs": "Lago de 18 ha en la llanura de inundación del Neckar, al norte del centro, con un sendero perimetral de 2 km, Biergarten y una pequeña sección de baño canino sin vigilancia en la orilla este. U-Bahn U14 hasta la estación Hofen, luego 5 minutos a pie.",
+          "descriptionPt": "Lago de 18 tem na llanura de inundación do Neckar, al norte do centro, com um trilho perimetral de 2 km, Biergarten e uma pequeña secção de banho canino sem vigilancia na margem este. U-Bahn U14 até a estação Hofen, luego 5 minutos a pé."
         },
         {
           "name": "Bärensee",
@@ -336,7 +415,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-baerensee",
           "description": "The largest of three forest reservoirs west of the centre, set in 200-year-old beech woodland. Quiet, shaded, and the most reliable summer cool-down spot for a dog within Stuttgart proper. Swimming officially tolerated outside the swan-nesting zone (April-July).",
           "descriptionFr": "Le plus grand des trois lacs forestiers à l'ouest du centre, dans une forêt de hêtres bicentenaires. Calme, ombragé et le spot estival le plus fiable pour rafraîchir un chien dans Stuttgart. Baignade officiellement tolérée hors de la zone de nidification des cygnes (avril-juillet).",
-          "descriptionEs": "El mayor de los tres lagos forestales al oeste del centro, en un hayedo de 200 años. Tranquilo, sombreado y el punto estival más fiable para refrescar a un perro dentro de Stuttgart. Baño oficialmente tolerado fuera de la zona de nidificación de cisnes (abril-julio)."
+          "descriptionEs": "El mayor de los tres lagos forestales al oeste del centro, en un hayedo de 200 años. Tranquilo, sombreado y el punto estival más fiable para refrescar a un perro dentro de Stuttgart. Baño oficialmente tolerado fuera de la zona de nidificación de cisnes (abril-julio).",
+          "descriptionPt": "O mayor dos três lagos forestales al oeste do centro, num hayedo de 200 anos. Tranquilo, sombreado e o punto estival mais fiable para refrescar a um cão dentro de Stuttgart. Banho oficialmente tolerado fora da zona de nidificación de cisnes (abril-julho)."
         },
         {
           "name": "Neckar Embankment Walk",
@@ -346,7 +426,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-neckar",
           "description": "The Neckartalradweg cycle and walking path follows the river for 12 km from Bad Cannstatt to Hofen — Stuttgart's longest flat dog-walking corridor. Mostly leashed (mandatory), with shaded riverside benches every 200 metres. Industrial water — no swimming.",
           "descriptionFr": "Le Neckartalradweg suit le fleuve sur 12 km de Bad Cannstatt à Hofen — le plus long couloir plat pour promener un chien à Stuttgart. Majoritairement en laisse (obligatoire), avec des bancs ombragés tous les 200 mètres. Eau industrielle — pas de baignade.",
-          "descriptionEs": "El Neckartalradweg sigue el río 12 km de Bad Cannstatt a Hofen — el corredor plano más largo de Stuttgart para pasear un perro. Principalmente con correa (obligatorio), con bancos sombreados cada 200 metros. Agua industrial — no apta para el baño."
+          "descriptionEs": "El Neckartalradweg sigue el río 12 km de Bad Cannstatt a Hofen — el corredor plano más largo de Stuttgart para pasear un perro. Principalmente con correa (obligatorio), con bancos sombreados cada 200 metros. Agua industrial — no apta para el baño.",
+          "descriptionPt": "O Neckartalradweg sigue o rio 12 km de Bad Cannstatt a Hofen — o corredor plano mais longo de Stuttgart para passear um cão. Principalmente com trela (obrigatório), com bancos sombreados cada 200 metros. Água industrial — não apta para o banho."
         }
       ],
       "tipsEn": [
@@ -404,6 +485,27 @@
         {
           "q": "¿A qué distancia está el mar más cercano de Stuttgart?",
           "a": "Unas 8 horas en coche al sur hasta la Costa Azul, o 4 horas al este hasta el lago de Garda. El agua dulce más cercana apta para baño fuera de Stuttgart es el lago Constanza (2 horas al sur)."
+        }
+      ],
+      "titlePt": "Lagos e passeios fluviales para cães em Stuttgart",
+      "introPt": "Stuttgart está no interior — o mar mais cercano é a Costa Azul, a oito horas de carro al sur — mas a ribera do Neckar, o parque lacustre do Max-Eyth-See e os embalses forestales do Bärensee ofrecen uma verdadera opción de passeio junto ao água em verão. O banho com cão está permitido em algunas margens sem vigilancia; o propio Neckar é industrial e não se aconseja.",
+      "tipsPt": [
+        "A secção de banho canino do Max-Eyth-See só está señalizada em alemán; ve a margem este, frente al club de remo.",
+        "Lleva água e toalla — ninguno dos lagos tem ducha para cães, e o malecón do Neckar só tem fuentes para personas.",
+        "Em julho-agosto, planifica os passeios al lago antes das 10 h; as tardes alcanzan regularmente 28-30 °C com pouca sombra na margem."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode mi cão banhar-se em Stuttgart em verão?",
+          "a": "Max-Eyth-See (margem este) e Bärensee (fora da zona de cisnes, abril-julho) são os dos puntos urbanos fiables. Ambos sem vigilancia, gratuitos e concurridos os fines de semana."
+        },
+        {
+          "q": "¿É seguro o Neckar para que se bañe um cão?",
+          "a": "Não — o rio é industrial e os caminos do malecón estão pensados só para caminhar e pedalear. As esclusas de Bad Cannstatt têm corrientes fuertes."
+        },
+        {
+          "q": "¿A qué distancia está o mar mais cercano de Stuttgart?",
+          "a": "Umas 8 horas de carro al sur até a Costa Azul, o 4 horas al este até o lago de Garda. O água dulce mais cercana apta para banho fora de Stuttgart é o lago Constanza (2 horas al sur)."
         }
       ]
     },
@@ -490,6 +592,27 @@
           "q": "¿Puedo conseguir medicamentos veterinarios con receta un domingo?",
           "a": "Sí — AniCura Plieningen dispensa los medicamentos habituales en el momento. Las farmacias veterinarias independientes cierran el domingo; la consulta de guardia puede emitir una Rezept de urgencia."
         }
+      ],
+      "titlePt": "Veterinário de urgências em Stuttgart — Hospitales e clínicas veterinárias",
+      "introPt": "Stuttgart cuenta com uma das infraestructuras veterinárias 24/7 mais sólidas do sul de Alemania, articulada em torno a AniCura Tierklinik Stuttgart-Plieningen — antes Tierklinik am Hasenberg — e um serviço de guardia regional que cubre os suburbios. O passaporte europeu é obrigatório a entrada. Os viajeros UE rara vez são controlados; os não UE devem esperar inspección nos puestos fronterizos terrestres.",
+      "tipsPt": [
+        "Alemania está na UE — passaporte europeu, vacina antirrábica vigente e microchip ISO 11784/11785 obrigatórios. Os controles rutinarios são raros dentro de Stuttgart.",
+        "AniCura Stuttgart-Plieningen aceita tarjeta e atiende em inglés; consulta de urgência a partir de 60-90 €, radiografía 40 €, cirugía a partir de 250 €.",
+        "Después das 22:00, llama a AniCura antes de ir de carro — a puerta está fechada fuera do horario, e o vigilante a abre tras a llamada."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde llevo a mi cão em Stuttgart a as 3:00 numa urgência?",
+          "a": "AniCura Tierklinik Stuttgart-Plieningen (Mittlere Filderstraße 31) funciona 24/7 para urgências vitales. Llama al +49 711 637 380 antes de ir, para confirmar e abrir a puerta."
+        },
+        {
+          "q": "¿Aceitam os veterinários de Stuttgart o passaporte europeu?",
+          "a": "Sí — Alemania usa o passaporte UE estándar. Vacina antirrábica, microchip e antiparasitario (quando se requiere a salida a Irlanda/Reino Unido) se sellan não passaporte."
+        },
+        {
+          "q": "¿Puedo conseguir medicamentos veterinários com receta um domingo?",
+          "a": "Sí — AniCura Plieningen dispensa os medicamentos habituales não momento. As farmacias veterinárias independientes cierran o domingo; a consulta de guardia pode emitir uma Rezept de urgência."
+        }
       ]
     },
     "tips": {
@@ -562,6 +685,29 @@
           "q": "¿Es Stuttgart buena base para excursiones con perro?",
           "a": "Sí — Tübingen (45 min), los viñedos de Esslingen (15 min) y la Selva Negra (1 h al oeste) son todos dog-friendly. El lago Constanza (2 h al sur) es el mejor destino acuático de un día."
         }
+      ],
+      "titlePt": "Consejos prácticos para visitar Stuttgart com cão",
+      "introPt": "Stuttgart é uma das as cidades alemanas mais fáceis para viajar com cão: os Biergärten e as Wirtschaften os aceitam universalmente, a red VVS é pet-friendly e três zonas valladas sem trela cubren o centro. Os dos puntos de fricción: uma ordenanza estricta de trela fora de esas zonas e uma temporada estival junto ao água relativamente corta.",
+      "tipsPt": [
+        "Stuttgart aplica com rigor uma Leinenpflicht (trela obrigatória) em toda a cidade fora das três zonas valladas; ocasionales patrullas da Ordnungsamt não Schlossgarten e o Killesberg.",
+        "O água do grifo é excelente e gratuita em todo o lado — Wirtschaften e Biergärten rellenan uma tigela portátil sem pedi-lo.",
+        "As papeleras públicas se vacían a diário e hay dispensadores de Hundekotbeutel (bolsas para excrementos) nas entradas dos parques; lleva um rollo de reserva para os florestas.",
+        "A cuenca de Stuttgart retiene o calor em verão; as tardes alcanzan 30 °C em julho-agosto. Planifica os passeios antes das 10 h e después das 19 h, e evita as escaleras Stäffele orientadas al sur al mediodía.",
+        "Se llegas al aeroporto (STR), o U-Bahn U6 entre o aeroporto e a estação central é pet-friendly; os cães pequeños viajan grátis, os grandes necesitan bilhete infantil (≈ 1,50 €)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuál é o melhor dia pet-friendly em Stuttgart?",
+          "a": "Passeio matinal não floresta do Bärensee, almoço suabo num Biergarten do Karlshöhe, descenso pelas escaleras de viñedo Stäffele pela tarde para a panorámica, e jantar numa Wirtschaft do centro histórico como Carls Brauhaus."
+        },
+        {
+          "q": "¿Se admiten cães não Mercado de Navidad de Stuttgart?",
+          "a": "Sí, com trela — os puestos al aire libre da Schlossplatz e o Marktplatz estão totalmente abertos a cães. A secção medieval cubierta (Mittelalter-Markt) tolera cães pequeños mas desaconseja os grandes não pico de tarde (18:00-21:00)."
+        },
+        {
+          "q": "¿É Stuttgart buena base para excursiones com cão?",
+          "a": "Sí — Tübingen (45 min), os viñedos de Esslingen (15 min) e a Selva Negra (1 h al oeste) são todos pet-friendly. O lago Constanza (2 h al sur) é o melhor destino acuático de um dia."
+        }
       ]
     },
     "attractions": {
@@ -580,7 +726,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-schlossplatz",
           "description": "Stuttgart's central square, fronted by the 18th-century Neues Schloss and ringed by lawns, fountains and the Königsbau colonnade. Entirely dog-friendly outdoor space, with the Mittelschlossgarten extending east to the Mineralbad Berg. Tram U5/U6/U7 to Schlossplatz.",
           "descriptionFr": "Place centrale de Stuttgart, dominée par le Neues Schloss du XVIIIe siècle et entourée de pelouses, fontaines et de la colonnade du Königsbau. Espace extérieur entièrement dog-friendly, avec le Mittelschlossgarten qui s'étend vers l'est jusqu'au Mineralbad Berg. Tram U5/U6/U7 jusqu'à Schlossplatz.",
-          "descriptionEs": "Plaza central de Stuttgart, dominada por el Neues Schloss del siglo XVIII y rodeada de céspedes, fuentes y la columnata del Königsbau. Espacio exterior totalmente dog-friendly, con el Mittelschlossgarten extendiéndose al este hasta el Mineralbad Berg. Tranvía U5/U6/U7 hasta Schlossplatz."
+          "descriptionEs": "Plaza central de Stuttgart, dominada por el Neues Schloss del siglo XVIII y rodeada de céspedes, fuentes y la columnata del Königsbau. Espacio exterior totalmente dog-friendly, con el Mittelschlossgarten extendiéndose al este hasta el Mineralbad Berg. Tranvía U5/U6/U7 hasta Schlossplatz.",
+          "descriptionPt": "Praça central de Stuttgart, dominada pelo Neues Schloss do século XVIII e rodeada de céspedes, fuentes e a columnata do Königsbau. Espacio exterior totalmente pet-friendly, com o Mittelschlossgarten extendiéndose al este até o Mineralbad Berg. Elétrico U5/U6/U7 até Schlossplatz."
         },
         {
           "name": "Höhenpark Killesberg",
@@ -590,7 +737,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-hoehenpark-killesberg",
           "description": "A 50-hectare hilltop park north of the centre with panoramic views, manicured flower terraces, and a 40 m wooden lookout tower (Killesbergturm). Dogs welcome on leash on all paths; the small Killesberg Hundeauslaufgebiet near the south entrance allows off-leash. U-Bahn U5 to Killesberg.",
           "descriptionFr": "Parc en hauteur de 50 ha au nord du centre, avec vues panoramiques, terrasses fleuries soignées et une tour de bois de 40 m (Killesbergturm). Chiens en laisse bienvenus sur tous les chemins ; le petit Killesberg Hundeauslaufgebiet près de l'entrée sud permet le sans laisse. U-Bahn U5 jusqu'à Killesberg.",
-          "descriptionEs": "Parque en altura de 50 ha al norte del centro, con vistas panorámicas, terrazas floridas cuidadas y una torre de madera de 40 m (Killesbergturm). Perros con correa bienvenidos en todos los caminos; la pequeña Killesberg Hundeauslaufgebiet junto a la entrada sur permite ir sin correa. U-Bahn U5 hasta Killesberg."
+          "descriptionEs": "Parque en altura de 50 ha al norte del centro, con vistas panorámicas, terrazas floridas cuidadas y una torre de madera de 40 m (Killesbergturm). Perros con correa bienvenidos en todos los caminos; la pequeña Killesberg Hundeauslaufgebiet junto a la entrada sur permite ir sin correa. U-Bahn U5 hasta Killesberg.",
+          "descriptionPt": "Parque em altura de 50 tem al norte do centro, com vistas panorámicas, esplanadas floridas cuidadas e uma torre de madera de 40 m (Killesbergturm). Cães com trela bem-vindos em todos os caminos; a pequeña Killesberg Hundeauslaufgebiet junto a entrada sur permite ir sem trela. U-Bahn U5 até Killesberg."
         },
         {
           "name": "Stäffele Vineyard Staircases",
@@ -600,7 +748,8 @@
           "website": "https://www.stuttgart-tourist.de/en/a-staeffele",
           "description": "Stuttgart's signature vineyard staircases, climbing the south-facing slopes between the city centre and the surrounding hills. The Württembergstaffel, Eugensplatzstaffel and Karlshöhestaffel are the most photogenic. Leashed dogs welcome year-round; midday sun is harsh in summer.",
           "descriptionFr": "Escaliers de vignes emblématiques de Stuttgart, gravissant les coteaux plein sud entre le centre et les collines. Le Württembergstaffel, l'Eugensplatzstaffel et le Karlshöhestaffel sont les plus photogéniques. Chiens en laisse bienvenus toute l'année ; le soleil de midi est dur en été.",
-          "descriptionEs": "Escaleras de viñedo emblemáticas de Stuttgart, que suben las laderas orientadas al sur entre el centro y las colinas. El Württembergstaffel, el Eugensplatzstaffel y el Karlshöhestaffel son las más fotogénicas. Perros con correa bienvenidos todo el año; el sol del mediodía es duro en verano."
+          "descriptionEs": "Escaleras de viñedo emblemáticas de Stuttgart, que suben las laderas orientadas al sur entre el centro y las colinas. El Württembergstaffel, el Eugensplatzstaffel y el Karlshöhestaffel son las más fotogénicas. Perros con correa bienvenidos todo el año; el sol del mediodía es duro en verano.",
+          "descriptionPt": "Escaleras de viñedo emblemáticas de Stuttgart, que suben as laderas orientadas al sur entre o centro e as colinas. O Württembergstaffel, o Eugensplatzstaffel e o Karlshöhestaffel são as mais fotogénicas. Cães com trela bem-vindos o ano inteiro; o sol do mediodía é duro em verão."
         }
       ],
       "tipsEn": [
@@ -659,6 +808,27 @@
           "q": "¿Son gratuitas las escaleras de viñedo Stäffele?",
           "a": "Sí — las Stäffele son caminos urbanos públicos y gratuitas todo el año. Las más accesibles desde el centro son la Eugensplatzstaffel (desde Eugensplatz) y la Württembergstaffel (desde Heslach)."
         }
+      ],
+      "titlePt": "Principales atracciones pet-friendly de Stuttgart",
+      "introPt": "O centro compacto de Stuttgart e as colinas que lo rodean estão hechos para uma exploración pausada com cão. A maioria das atracciones exteriores admiten animais com trela grátis — a Schlossplatz e a explanada do Nuevo Palácio, as escaleras de viñedo Stäffele, o parque do Killesberg e a panorámica do Biergarten do Karlshöhe. Os museus cubiertos (Mercedes-Benz Museum, Porsche Museum, Staatsgalerie) só admiten cães de assistência.",
+      "tipsPt": [
+        "As explanadas do Mercedes-Benz Museum e do Porsche Museum são paragens fotográficas pet-friendly, mas os museus só admiten cães de assistência — reserva um cuidador com antelación se quieres visitarlos por dentro.",
+        "O Killesbergturm permite cães com trela pela rampa; a plataforma do mirador tem solo de malla que pode asustar a algunos cães.",
+        "As escaleras Stäffele bordean viñedos privados — mantén al cão com trela corta para proteger as cepas, sobretudo na vendimia (agosto-setembro)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo entrar com mi cão al Mercedes-Benz Museum o al Porsche Museum?",
+          "a": "Não — só cães de assistência. As explanadas são paragens fotográficas libres; para visitar o interior, reserva um cuidador em Pawshake/Petbnb para 2-3 horas."
+        },
+        {
+          "q": "¿É pet-friendly a torre Killesbergturm?",
+          "a": "Sí — os cães com trela podem subir pela rampa em espiral até a plataforma, grátis. O solo de malla da plataforma pode asustar a algunos cães — pruébalo antes."
+        },
+        {
+          "q": "¿São gratuitas as escaleras de viñedo Stäffele?",
+          "a": "Sí — as Stäffele são caminos urbanos públicos e gratuitas o ano inteiro. As mais acessíveis a partir do centro são a Eugensplatzstaffel (a partir de Eugensplatz) e a Württembergstaffel (a partir de Heslach)."
+        }
       ]
     },
     "petsitting": {
@@ -677,7 +847,9 @@
           "descriptionEs": "La mayor plataforma verificada de cuidado de mascotas de Alemania, con varios cientos de reseñas en Stuttgart y una valoración media superior a 4,8/5. Ofrece visitas a domicilio, cuidado de día, paseos y alojamiento nocturno en casa del cuidador. Filtra por barrio (Mitte, Süd, West, Bad Cannstatt, Vaihingen) y tamaño del perro en la pantalla de reserva.",
           "tip": "A 30-minute drop-in visit costs around €13-16 in central Stuttgart; full-day sitting starts around €25-30.",
           "tipFr": "Une visite de 30 minutes coûte environ 13-16 € dans le centre de Stuttgart ; la garde journée démarre autour de 25-30 €.",
-          "tipEs": "Una visita de 30 minutos cuesta entre 13-16 € en el centro de Stuttgart; el cuidado de día empieza en torno a 25-30 €."
+          "tipEs": "Una visita de 30 minutos cuesta entre 13-16 € en el centro de Stuttgart; el cuidado de día empieza en torno a 25-30 €.",
+          "descriptionPt": "A mayor plataforma verificada de cuidado de animais de Alemania, com varios cientos de reseñas em Stuttgart e uma valoración media superior a 4,8/5. Ofrece visitas a domicilio, cuidado de dia, passeios e alojamento nocturno em casa do cuidador. Filtra por bairro (Mitte, Süd, West, Bad Cannstatt, Vaihingen) e tamanho do cão na pantalla de reserva.",
+          "tipPt": "Uma visita de 30 minutos cuesta entre 13-16 € no centro de Stuttgart; o cuidado de dia empieza em torno a 25-30 €."
         },
         {
           "name": "Holidog Germany",
@@ -687,7 +859,9 @@
           "descriptionEs": "Plataforma paneuropea de pet-sitting con buena cobertura en el sur de Alemania. Apta para estancias más largas (cuidado de varios días) cuando haces una escapada a la Selva Negra o al lago Constanza. Los cuidadores están verificados y la plataforma incluye seguro de responsabilidad civil hasta 3.000 € por reserva. Soporte bilingüe alemán/inglés.",
           "tip": "Holidog requires a free user account before browsing sitters; allow 15 minutes for the verification email.",
           "tipFr": "Holidog demande un compte gratuit avant de consulter les sitters ; comptez 15 minutes pour l'e-mail de validation.",
-          "tipEs": "Holidog exige una cuenta gratuita antes de ver los cuidadores; cuenta con unos 15 minutos para el correo de validación."
+          "tipEs": "Holidog exige una cuenta gratuita antes de ver los cuidadores; cuenta con unos 15 minutos para el correo de validación.",
+          "descriptionPt": "Plataforma paneuropea de pet-sitting com buena cobertura não sur de Alemania. Apta para estadias mais longas (cuidado de varios dias) quando haces uma escapada a Selva Negra o al lago Constanza. Os cuidadores estão verificados e a plataforma incluye seguro de responsabilidad civil até 3.000 € por reserva. Soporte bilingüe alemán/inglés.",
+          "tipPt": "Holidog exige uma cuenta gratuita antes de ver os cuidadores; cuenta com uns 15 minutos para o correo de validación."
         }
       ],
       "tipsEn": [
@@ -745,6 +919,27 @@
         {
           "q": "¿Es más caro el pet-sitting en Stuttgart que en otras ciudades alemanas?",
           "a": "Stuttgart está en la franja media-alta de tarifas alemanas — un 10-15 % por encima de Leipzig o Dresde, comparable a Frankfurt y ligeramente por debajo de Múnich. Las visitas arrancan a 13 €, el cuidado de día a 25 €, la noche a 30-40 €."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de cães em Stuttgart",
+      "introPt": "O mercado de cuidado de animais de Stuttgart está bem desarrollado gracias ao seu población expatriada e corporativa. Pawshake Alemania e Holidog cubren os bairros céntricos (Mitte, Süd, West, Bad Cannstatt) com cientos de perfiles verificados, e varias Hundetagesstätten (guarderías caninas) independientes operan nas afueras para estadias mais longas. A maioria dos cuidadores do centro hablan inglés.",
+      "tipsPt": [
+        "Reserva o cuidado com al menos 48 horas de antelación — a disponibilidad se reduce durante a Cannstatter Volksfest (finales de setembro-principios de outubro) e o mercado de Navidad.",
+        "A maioria dos cuidadores céntricos admiten cães e gatos; algunos indican límite de tamanho, filtra na pantalla de reserva.",
+        "As visitas a domicilio (13-16 €) são ideales para media jornada turística incluyendo a visita al Mercedes-Benz Museum; o cuidado de dia arranca em torno a 25-30 € em Mitte e Süd."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo encontrar um cuidador anglófono em Stuttgart?",
+          "a": "Sí — a población expatriada e corporativa de Stuttgart hace que a maioria dos cuidadores dos bairros céntricos (Mitte, Süd, West, Bad Cannstatt) hablen inglés com fluidez. Filtra por «habla inglés» em Pawshake."
+        },
+        {
+          "q": "¿Hay Hundetagesstätten (guarderías caninas) em Stuttgart?",
+          "a": "Sí — varias Hundetagesstätten independientes operan nas afueras (Vaihingen, Feuerbach, Bad Cannstatt). As tarifas diárias rondan os 25-35 € com praças semanais reservadas com semanas de antelación. Os cuidadores a domicilio de Pawshake são mais sencillos para estadias cortas."
+        },
+        {
+          "q": "¿É mais caro o pet-sitting em Stuttgart que em outras cidades alemanas?",
+          "a": "Stuttgart está na franja media-alta de tarifas alemanas — um 10-15 % por encima de Leipzig o Dresde, comparable a Frankfurt e ligeramente por debajo de Munique. As visitas arrancan a 13 €, o cuidado de dia a 25 €, a noite a 30-40 €."
         }
       ]
     }

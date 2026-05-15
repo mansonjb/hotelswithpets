@@ -33,7 +33,11 @@
           "tip": "Reserve the courtyard for dinner from late May onwards — the indoor salle is reserved for adults-only winter service and dogs are not accepted there.",
           "tipFr": "Réservez la cour pour le dîner à partir de fin mai — la salle intérieure est réservée au service d'hiver pour adultes et les chiens n'y sont pas acceptés.",
           "tipEs": "Reserva el patio para la cena desde finales de mayo — el comedor interior se reserva al servicio invernal para adultos y los perros no son admitidos allí.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cote+Cour+Cours+Mirabeau+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Cote+Cour+Cours+Mirabeau+Aix",
+          "descriptionPt": "Restaurante bistronómico provenzal-italiano instalado numa mansión do século XVIII não Cours Mirabeau, famoso por o seu patio interior sombreado por plátanos. Os cães são bem-vindos na esplanada do patio e a tigela de água llega sem necesidad de pedi-lo.",
+          "petPolicyPt": "Cães bem-vindos na esplanada do patio; não não comedor interior",
+          "mustTryPt": "Daube provençal, ravioles du Royans, tartar de dorada",
+          "tipPt": "Reserva o patio para a jantar a partir de finales de maio — o comedor interior se reserva al serviço invernal para adultos e os cães não são admitidos ali."
         },
         {
           "name": "Bistrot Rotonde",
@@ -55,7 +59,11 @@
           "tip": "Service is continuous all day, but the terrace fills 12:30–14:00 and 19:30–21:30 — between those windows you will always get a shaded table with your dog.",
           "tipFr": "Le service est continu, mais la terrasse se remplit 12h30-14h et 19h30-21h30 — en dehors de ces créneaux vous aurez toujours une table à l'ombre avec votre chien.",
           "tipEs": "El servicio es continuo, pero la terraza se llena 12:30-14:00 y 19:30-21:30 — fuera de esas franjas siempre conseguirás una mesa a la sombra con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bistrot+Rotonde+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Bistrot+Rotonde+Aix",
+          "descriptionPt": "Brasserie frente a emblemática fuente da Rotonde não extremo oeste do Cours Mirabeau, com serviço continuo todo o dia e uma amplia esplanada soleada. Os cães são bem-vindos na esplanada e nas mesas interiores junto a entrada; bol de água a petición.",
+          "petPolicyPt": "Cães bem-vindos na esplanada e nas mesas interiores junto a entrada",
+          "mustTryPt": "Ensalada aixoise, pieds-paquets, tarta de limón",
+          "tipPt": "O serviço é continuo, mas a esplanada se cheia 12:30-14:00 e 19:30-21:30 — fora de esas franjas sempre conseguirás uma mesa a sombra com tu cão."
         },
         {
           "name": "Le Petit Verdot",
@@ -77,7 +85,11 @@
           "tip": "Only 22 covers — book 48 hours ahead for dinner in summer or arrive at 12:00 sharp for a walk-in lunch with your dog.",
           "tipFr": "Seulement 22 couverts — réservez 48 h à l'avance pour le dîner en été ou arrivez à 12h pile pour un déjeuner sans réservation avec votre chien.",
           "tipEs": "Solo 22 cubiertos — reserva con 48 h de antelación para la cena en verano o llega a las 12:00 en punto para un almuerzo sin reserva con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Petit+Verdot+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Petit+Verdot+Aix",
+          "descriptionPt": "Bistró de vinhos veterano numa rua peatonal tranquila do Quartier Mazarin, com uma carta de 200 vinhos e um breve menú provenzal de mercado. Os cães são bem-vindos dentro da pequeña sala de madera e nas poucas mesas na acera.",
+          "petPolicyPt": "Cães bem-vindos dentro e fuera com trela",
+          "mustTryPt": "Pluma ibérica, estofado de carrillera de buey, rosado Coteaux d'Aix",
+          "tipPt": "Só 22 cubiertos — reserva com 48 h de antelación para a jantar em verão o llega a as 12:00 em punto para um almoço sem reserva com tu cão."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Dónde puedo cenar con mi perro dentro del local en invierno?",
           "a": "Bistrot Rotonde, Le Petit Verdot y Brasserie Léopold admiten todos perros en mesas interiores; el patio climatizado de Côté Cour funciona hasta finales de octubre. La mayoría de bistrós del Quartier Mazarin son dog-friendly en interior todo el año."
         }
+      ],
+      "titlePt": "Restaurantes e esplanadas pet-friendly em Aix-em-Provence",
+      "introPt": "Aix-em-Provence é uma cidade típica do sul de Francia acolhedora com os cães — os seus mansiones dos séculos XVII e XVIII se construyen alrededor de patios interiores sombreados e o Cours Mirabeau está bordeado de esplanadas onde os cães educados são a norma mais que a excepción. A maioria das esplanadas admiten cães sem previo aviso e muitos camareros traen uma tigela de água de oficio.",
+      "tipsPt": [
+        "As esplanadas provenzales toleran por defecto aos cães — mais do 70 % dos restaurantes aixois com esplanada admiten cães sem previo aviso; só os comedores interiores com estrella Michelin costumam rechazarlos.",
+        "O almoço em Aix é estrictamente 12:00-14:00; chegar antes das 12:30 com tu cão casi sempre te garantiza uma mesa em esplanada sombreada sem reserva.",
+        "O mercado matinal da Place Richelme (todos os dias 8:00-13:00) é pet-friendly — os cafés alrededor ponen boles de água extra durante as horas de mercado."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nas esplanadas do Cours Mirabeau?",
+          "a": "Sí — casi todos os restaurantes e cafés do Cours Mirabeau admiten cães no seu esplanada. A cuádruple fila de plátanos mantiene a avenida fresca, lo que a hace agradable para os cães mesmo em julho."
+        },
+        {
+          "q": "¿Cobran os restaurantes de Aix suplemento por cão?",
+          "a": "Não — ningún restaurante de Aix cobra suplemento por cão. Muitos ofrecen boles de água grátis e algunos guardan mesmo um tarro de galletas provenzales para cães tras a barra."
+        },
+        {
+          "q": "¿Dónde puedo cenar com mi cão dentro do local em inverno?",
+          "a": "Bistrot Rotonde, Le Petit Verdot e Brasserie Léopold admiten todos cães em mesas interiores; o patio climatizado de Côté Cour funciona até finales de outubro. A maioria de bistrós do Quartier Mazarin são pet-friendly em interior o ano inteiro."
+        }
       ]
     },
     "parks": {
@@ -181,7 +214,16 @@
           "tip": "Enter via avenue Anatole France, not the southern gate from Boulevard du Roi René — the Anatole-France lawns are quieter and shadier in afternoon heat.",
           "tipFr": "Entrez par l'avenue Anatole France, pas par la grille sud du Boulevard du Roi René — les pelouses Anatole-France sont plus calmes et ombragées dans la chaleur de l'après-midi.",
           "tipEs": "Entra por la avenida Anatole France, no por la verja sur del Boulevard du Roi René — los céspedes Anatole-France son más tranquilos y sombreados en el calor de la tarde.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+Jourdan+Aix+en+Provence"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Jourdan+Aix+en+Provence",
+          "descriptionPt": "O parque público mais grande e conocido do centro de Aix — 3 hectáreas de céspedes sombreados por plátanos, pistas de petanca de grava e uma fuente italianizante na avenida Anatole France a sul do Quartier Mazarin. Os cães devem levar trela mas os céspedes são um punto de encuentro extraoficial dos dueños locales.",
+          "petPolicyPt": "Com trela em todo momento; multas por excrementos aplicadas",
+          "featuresPt": [
+            "Céspedes com trela",
+            "Bancos sombreados",
+            "Entrada libre",
+            "Café"
+          ],
+          "tipPt": "Entra pela avenida Anatole France, não pela verja sur do Boulevard du Roi René — os céspedes Anatole-France são mais tranquilos e sombreados não calor da tarde."
         },
         {
           "name": "Carrières de Bibémus",
@@ -218,7 +260,16 @@
           "tip": "Check the daily fire-risk map (risque-prevention-incendies.fr) before driving — between 21 June and 24 September the entire massif closes to walkers on red days.",
           "tipFr": "Vérifiez la carte risque incendie quotidienne (risque-prevention-incendies.fr) avant de partir — entre le 21 juin et le 24 septembre, le massif entier ferme aux promeneurs les jours rouges.",
           "tipEs": "Consulta el mapa diario de riesgo de incendio (risque-prevention-incendies.fr) antes de salir — entre el 21 de junio y el 24 de septiembre, todo el macizo cierra a los paseantes los días rojos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Carrieres+de+Bibemus+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Carrieres+de+Bibemus+Aix",
+          "descriptionPt": "Canteras de arenisca que aportaron a pedra color miel do Cours Mirabeau e que Cézanne pintó obsesivamente a partir de 1895, hoy uma red de trilhos do Grand Site Sainte-Victoire. Os trilhos parten do aparcamiento grátis P1 e se estendem até 15 km; os cães devem levar trela pela reserva forestal antiincendios circundante.",
+          "petPolicyPt": "Com trela em todo momento; cierres por riesgo de incendio 1 jun-30 sep",
+          "featuresPt": [
+            "Trilhos señalizados",
+            "Com trela",
+            "Aparcamiento grátis",
+            "Vistas Cézanne"
+          ],
+          "tipPt": "Consulta o mapa diário de riesgo de incendio (risque-prevention-incendies.fr) antes de salir — entre o 21 de junho e o 24 de setembro, todo o macizo cierra aos paseantes os dias rojos."
         },
         {
           "name": "Barrage de Bimont",
@@ -255,7 +306,16 @@
           "tip": "Park P1 (Bimont) is signed from the D10 in Saint-Marc-Jaumegarde — arrive before 09:00 in July–August for shade on the western half of the loop.",
           "tipFr": "Le parking P1 (Bimont) est fléché depuis la D10 à Saint-Marc-Jaumegarde — arrivez avant 9h en juillet-août pour l'ombre sur la moitié ouest de la boucle.",
           "tipEs": "El aparcamiento P1 (Bimont) está señalizado desde la D10 en Saint-Marc-Jaumegarde — llega antes de las 9:00 en julio-agosto para la sombra en la mitad oeste del bucle.",
-          "googleMapsUrl": "https://maps.google.com/?q=Barrage+de+Bimont"
+          "googleMapsUrl": "https://maps.google.com/?q=Barrage+de+Bimont",
+          "descriptionPt": "Embalse al pie da Sainte-Victoire, com um bucle de 5 km a margens do lago num camino de grava compactada plano — o passeio canino mais popular da zona de Aix para dueños de cães mayores o de patas cortas. Aparcamiento grátis a entrada da presa; os cães devem levar trela pela reserva natural circundante.",
+          "petPolicyPt": "Com trela; prohibido banhar-se (água potable)",
+          "featuresPt": [
+            "Camino llano",
+            "Vistas al lago",
+            "Aparcamiento grátis",
+            "Zona de picnic"
+          ],
+          "tipPt": "O aparcamiento P1 (Bimont) está señalizado a partir da D10 em Saint-Marc-Jaumegarde — llega antes das 9:00 em julho-agosto para a sombra na mitad oeste do bucle."
         }
       ],
       "tipsEn": [
@@ -314,6 +374,27 @@
           "q": "¿Se cierran a veces los senderos de la Sainte-Victoire?",
           "a": "Sí, cada verano. La prefectura de Bouches-du-Rhône publica a diario un color de riesgo de incendio (amarillo, naranja, rojo, negro) del 21 de junio al 24 de septiembre; los días rojos y negros, todo el macizo incluyendo Bibémus y Bimont está cerrado al público."
         }
+      ],
+      "titlePt": "Melhores parques e passeios para cães em Aix-em-Provence",
+      "introPt": "Aix-em-Provence está aos pies da Montagne Sainte-Victoire, uma cresta caliza de 1.011 m que dio a Cézanne o seu tema mais pintado e que hoy sirve de vasto gimnasio al aire libre para paseadores de cães. Na cidade, o Parc Jourdan e o Parc Saint-Mitre são os dos principales parques urbanos com trela; fuera do perímetro, os sitios de Bibémus e Bimont ofrecen horas de trilhos señalizados pet-friendly.",
+      "tipsPt": [
+        "Do 21 de junho ao \\14 de setembro, a orden prefectoral clasifica diariamente o Massif Sainte-Victoire por color de riesgo de incendio — os dias rojos significan cierre total dos trilhos, incluidos Bibémus e Bimont. Comprueba sempre antes de salir.",
+        "Aix-em-Provence não tem um gran parque canino vallado sem trela dentro do perímetro — os mais cercanos estão não Domaine da Pioline (5 km al sur) e um pequeño recinto não Parc Saint-Mitre.",
+        "O atelier de Cézanne (9 av. Paul Cézanne) não admite cães dentro, mas o pequeño jardim delantero é acessível e a colina de Lauves circundante tem trilhos señalizados."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode correr sem trela mi cão em Aix?",
+          "a": "A cidade não tem um gran espacio sem trela em zona urbana; para correr sem trela, sal 5 km do perímetro para o floresta da Pioline o os caminos agrícolas alrededor do Tholonet — ambos toleran cães bem controlados sem trela."
+        },
+        {
+          "q": "¿Pode mi cão hacer senderismo em Sainte-Victoire?",
+          "a": "Sí — Bibémus e Bimont são os dos puntos de salida de trilhos mais populares para cães, com trela. A cima (Croix de Provence, 946 m) é acessível pelo trilho dos Venturiers a partir de Vauvenargues mas o tramo final de escalada não é apto para a maioria de cães."
+        },
+        {
+          "q": "¿Se cierran a vezes os trilhos da Sainte-Victoire?",
+          "a": "Sí, cada verão. A prefectura de Bouches-du-Rhône publica a diário um color de riesgo de incendio (amarillo, naranja, rojo, negro) do 21 de junho ao \\14 de setembro; os dias rojos e negros, todo o macizo incluyendo Bibémus e Bimont está fechado al público."
+        }
       ]
     },
     "transport": {
@@ -339,7 +420,11 @@
           "petPolicyEs": "Perros pequeños gratis en transportín; medianos/grandes con bozal a discreción del conductor",
           "tip": "The diabolo and minibus lines (Ligne A, Ligne B) serving the historic centre have low floors easy for dogs; ask the driver to lower the kneeling step at boarding.",
           "tipFr": "Les lignes Diabolo et Minibus (Ligne A, Ligne B) qui desservent le centre historique ont des planchers bas faciles pour les chiens ; demandez au chauffeur d'abaisser le plancher à l'embarquement.",
-          "tipEs": "Las líneas Diabolo y Minibús (Línea A, Línea B) que sirven al centro histórico tienen pisos bajos fáciles para los perros; pide al conductor que baje el escalón al embarcar."
+          "tipEs": "Las líneas Diabolo y Minibús (Línea A, Línea B) que sirven al centro histórico tienen pisos bajos fáciles para los perros; pide al conductor que baje el escalón al embarcar.",
+          "typePt": "Red de autocarros",
+          "descriptionPt": "A red de 40 líneas Aix em Bus cubre todos os bairros da cidade mais as comunas circundantes de Éguilles, Venelles, Le Tholonet e Saint-Marc-Jaumegarde. Os cães pequeños viajan grátis em cesta fechada o bolsa; os medianos/grandes devem levar bozal e trela corta a discreción do conductor.",
+          "petPolicyPt": "Cães pequeños grátis em transportadora; medianos/grandes com bozal a discreción do conductor",
+          "tipPt": "As líneas Diabolo e Minibús (Línea A, Línea B) que sirven al centro histórico têm pisos bajos fáceis para os cães; pide al conductor que baje o escalón al embarcar."
         },
         {
           "name": "Lecar Aix–Marseille coach",
@@ -356,7 +441,11 @@
           "petPolicyEs": "Perros pequeños gratis en bolsa; medianos/grandes con bozal, discreción del conductor",
           "tip": "Avoid peak commuter buses 07:30–09:00 and 17:30–19:00 with a large dog — the standing-room load is heavy and some drivers refuse boarding then.",
           "tipFr": "Évitez les bus de pointe domicile-travail 7h30-9h et 17h30-19h avec un grand chien — la charge debout est lourde et certains chauffeurs refusent l'embarquement à ces heures.",
-          "tipEs": "Evita los autobuses de hora punta domicilio-trabajo 7:30-9:00 y 17:30-19:00 con un perro grande — la carga de pie es elevada y algunos conductores rechazan el embarque en esas horas."
+          "tipEs": "Evita los autobuses de hora punta domicilio-trabajo 7:30-9:00 y 17:30-19:00 con un perro grande — la carga de pie es elevada y algunos conductores rechazan el embarque en esas horas.",
+          "typePt": "Autocar express",
+          "descriptionPt": "Serviço de autocar de alta frecuencia entre a estação de autocarros de Aix e Marselha Saint-Charles (cada 5-10 minutos em hora punta, 30 minutos de viaje). Os cães de companhia se admiten a discreción do conductor: cães pequeños grátis em bolsa fechada, medianos/grandes com bozal e trela corta.",
+          "petPolicyPt": "Cães pequeños grátis em bolsa; medianos/grandes com bozal, discreción do conductor",
+          "tipPt": "Evita os autocarros de hora punta domicilio-trabajo 7:30-9:00 e 17:30-19:00 com um cão grande — a carga de pie é elevada e algunos conductores rechazan o embarque em esas horas."
         },
         {
           "name": "Gare Aix-en-Provence TGV (SNCF)",
@@ -373,7 +462,11 @@
           "petPolicyEs": "Perro pequeño 7 € en transportín; mediano/grande 7 € con bozal y correa",
           "tip": "Book the dog ticket online when buying yours — at the station, the SNCF agents only issue dog tickets at the main desk, not the automatic machines.",
           "tipFr": "Réservez le billet chien en ligne en achetant le vôtre — en gare, les agents SNCF n'émettent les billets chien qu'au guichet principal, pas aux automates.",
-          "tipEs": "Reserva el billete del perro online al comprar el tuyo — en la estación, los agentes SNCF solo emiten billetes para perros en el mostrador principal, no en las máquinas automáticas."
+          "tipEs": "Reserva el billete del perro online al comprar el tuyo — en la estación, los agentes SNCF solo emiten billetes para perros en el mostrador principal, no en las máquinas automáticas.",
+          "typePt": "Estação TGV",
+          "descriptionPt": "A estação TGV está a 16 km al sur do centro (lanzadera a partir da estação de autocarros), com TGVs directos a París (3 h), Lyon (1 h 30) e Lille (4 h). Em TGV e Intercités, os cães pequeños de menos de 6 kg em transportadora fechado viajan por 7 €; os medianos/grandes viajan com trela e bozal por 7 €.",
+          "petPolicyPt": "Cão pequeño 7 € em transportadora; mediano/grande 7 € com bozal e trela",
+          "tipPt": "Reserva o bilhete do cão online al comprar o tuyo — na estação, os agentes SNCF só emiten bilhetes para cães não mostrador principal, não nas máquinas automáticas."
         }
       ],
       "tipsEn": [
@@ -432,6 +525,27 @@
           "q": "¿Se admiten mascotas en los taxis de Aix?",
           "a": "La mayoría de compañías de taxi aixoise admiten perros a discreción del conductor. Reserva por adelantado para un perro grande y ofrece un suplemento de 5 € — los servicios Uber se rechazan habitualmente con un perro fuera de transportín."
         }
+      ],
+      "titlePt": "Transporte público com animal em Aix-em-Provence",
+      "introPt": "Aix-em-Provence não tem metro ni elétrico — o centro histórico se cruza a pé em 25 minutos — e a oferta de transporte público consiste na red urbana Aix em Bus, os autocares regionales Lecar a Marselha e uma estação TGV a 16 km al sur, a terminal Aix-TGV. Os cães viajan grátis em cesta/transportadora; os cães medianos e grandes devem levar bozal na red Aix em Bus.",
+      "tipsPt": [
+        "Aix-em-Provence não tem metro — o centro histórico se cruza a pé em 25 minutos, e o Diabolo (minibús eléctrico) le da a vuelta por 1,20 €.",
+        "Os taxis (Aix Radio Taxi, +33 4 42 27 71 11) admiten cães a discreción do conductor; os pequeños em transportadora sempre são grátis, os medianos/grandes a vezes têm um suplemento de limpieza de 5 €.",
+        "Os patinetes e bicis Lime e Pony não permiten cães a bordo; um cão em cesta delantera infringe o Code da route."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Necesita bilhete mi cão nos autocarros de Aix?",
+          "a": "Não — os cães pequeños em transportadora fechado viajan grátis; os medianos e grandes viajan grátis com bozal e trela corta a discreción do conductor."
+        },
+        {
+          "q": "¿Puedo levar a mi cão não TGV a partir de Aix?",
+          "a": "Sí — um bilhete de cão de 7 € a tarifa fija está disponible em todos os TGV e Intercités a partir de Aix-em-Provence TGV. Os cães pequeños (<6 kg) viajan em transportadora fechado; os medianos/grandes viajan com bozal e trela corta."
+        },
+        {
+          "q": "¿Se admiten animais nos taxis de Aix?",
+          "a": "A maioria de companhias de taxi aixoise admiten cães a discreción do conductor. Reserva por adelantado para um cão grande e ofrece um suplemento de 5 € — os serviços Uber se rechazan habitualmente com um cão fora de transportadora."
+        }
       ]
     },
     "beaches": {
@@ -475,7 +589,16 @@
           "tip": "Bonneveine is busy with families from 11:00–18:00 in July–August — arrive before 10:00 for the dog-quietest swim and the easiest free parking.",
           "tipFr": "Bonneveine est animée par les familles de 11h à 18h en juillet-août — arrivez avant 10h pour la baignade canine la plus calme et le parking gratuit le plus facile.",
           "tipEs": "Bonneveine se llena de familias de 11:00-18:00 en julio-agosto — llega antes de las 10:00 para el baño canino más tranquilo y el aparcamiento gratis más fácil.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Bonneveine+Marseille"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Bonneveine+Marseille",
+          "descriptionPt": "Praia oficial de Marselha autorizada aos cães, a única da costa Bleue–Calanques oficialmente aberta aos cães o ano inteiro. Acceso de areia, água pouco profunda e 200 m de longo a tornam em uno dos sitios de banho canino mais fáceis do Mediterrâneo francés; a partir de Aix de carro (35 min) o combo metro M19 + autocarro M83.",
+          "petPolicyPt": "Cães admitidos o ano inteiro com trela; sem trela tolerado fora de horas punta",
+          "facilitiesPt": [
+            "Praia de areia",
+            "Plataforma pouco profunda",
+            "Aparcamiento grátis",
+            "Com trela"
+          ],
+          "tipPt": "Bonneveine se cheia de familias de 11:00-18:00 em julho-agosto — llega antes das 10:00 para o banho canino mais tranquilo e o aparcamiento grátis mais fácil."
         },
         {
           "name": "Lac de Peyrolles",
@@ -510,7 +633,16 @@
           "tip": "Off-season (October–May) the dog-allowed shore is the wooded eastern arm; in summer, stick to the perimeter path on the western side away from the supervised beach.",
           "tipFr": "Hors saison (octobre-mai), la rive autorisée aux chiens est le bras est boisé ; l'été, restez sur le chemin périmétrique côté ouest, à l'écart de la plage surveillée.",
           "tipEs": "Fuera de temporada (octubre-mayo), la orilla autorizada a perros es el brazo este boscoso; en verano, quédate en el sendero perimetral del lado oeste, lejos de la playa vigilada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lac+de+Peyrolles"
+          "googleMapsUrl": "https://maps.google.com/?q=Lac+de+Peyrolles",
+          "descriptionPt": "Lago municipal de banho de 8 hectáreas alimentado pelo Durance, com uma zona de banho de borde de areia aberta julho-agosto (grátis, vigilada). Os cães se admiten não trilho perimetral de 1,5 km o ano inteiro mas não na zona de banho vigilada em verão; fora de temporada, toda a margem é acessível aos cães.",
+          "petPolicyPt": "Trilho perimetral com trela o ano inteiro; cães prohibidos em zona de banho vigilada jul.-ago.",
+          "facilitiesPt": [
+            "Camino 1,5 km",
+            "Zona de banho (verão)",
+            "Aparcamiento grátis",
+            "Picnic"
+          ],
+          "tipPt": "Fora de temporada (outubro-maio), a margem autorizada a cães é o brazo este boscoso; em verão, quédate não trilho perimetral do lado oeste, longe da praia vigilada."
         },
         {
           "name": "Plage Sablettes (La Ciotat, dog-friendly afternoon)",
@@ -545,7 +677,16 @@
           "tip": "Arrive at 16:00 sharp in summer for the freshly-cleaned beach and the longest legal dog session before sunset.",
           "tipFr": "Arrivez à 16h pile en été pour la plage fraîchement nettoyée et la session canine légale la plus longue avant le coucher du soleil.",
           "tipEs": "Llega a las 16:00 en punto en verano para la playa recién limpiada y la sesión canina legal más larga antes del atardecer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Sablettes+La+Ciotat"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Sablettes+La+Ciotat",
+          "descriptionPt": "Praia familiar da Ciotat com horario cães 16:00-10:00 em verão — fora de esas horas os cães estão prohibidos do 1 de junho ao \\10 de setembro. Praia de areia, água tranquila protegida pelas Calanques; a zona de cães permitidos está señalizada não extremo oeste, perto do puesto de socorro.",
+          "petPolicyPt": "Fora de temporada acceso libre; jun.-sept. cães só 16:00-10:00 dia siguiente",
+          "facilitiesPt": [
+            "Praia de areia",
+            "Água tranquila",
+            "Franja horaria verão",
+            "Libre fora de temporada"
+          ],
+          "tipPt": "Llega a as 16:00 em punto em verão para a praia recién limpiada e a sesión canina legal mais longa antes do atardecer."
         }
       ],
       "tipsEn": [
@@ -604,6 +745,27 @@
           "q": "¿Puede mi perro entrar en el Parque Nacional de las Calanques?",
           "a": "Los perros están prohibidos en la zona terrestre del Parque Nacional de las Calanques (Marsella-Cassis) del 1 de junio al 30 de septiembre por el riesgo de incendio y la protección de la fauna. Fuera de esas fechas, los perros con correa están permitidos en los senderos principales."
         }
+      ],
+      "titlePt": "Zonas de banho pet-friendly perto de Aix-em-Provence",
+      "introPt": "Aix-em-Provence está a 30 km do interior — não hay costa dentro dos límites da cidade — mas a costa mediterrânea em Marselha e o estanque de Peyrolles al norte ofrecen refresco estival acessível para os cães. A praia canina oficial o ano inteiro mais cercana está em Bonneveine (Marselha), e o único embalse com banho permitido perto de Aix é o pequeño Lac de Peyrolles.",
+      "tipsPt": [
+        "A maioria de praias de Bouches-du-Rhône prohíben os cães do 1 de junho ao \\10 de setembro; só Bonneveine (Marselha) está oficialmente autorizada o ano inteiro. Comprueba sempre a orden municipal antes de salir.",
+        "As floraciones de cianobacterias (algas verde-azules) aparecen não Étang de Berre, o Durance e os embalses pequeños de julho a setembro — mortales para cães em horas tras ingestión. Evita águas estancadas e consulta as alertas ARS PACA.",
+        "As temperaturas provenzales de asfalto em verão superan regularmente os 55 °C de 11:00 a 18:00 — pasea os cães antes das 9:00 o después das 19:00 em julho-agosto, nunca pelo pavimento do Cours Mirabeau a mediodía."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode nadar mi cão perto de Aix em verão?",
+          "a": "A Plage de Bonneveine em Marselha (30 km al sur) é a única praia canina oficial o ano inteiro. A Plage des Sablettes da Ciotat admite cães de 16:00 a 10:00 em verão."
+        },
+        {
+          "q": "¿Hay zonas de banho em água dulce para cães?",
+          "a": "O Lac de Peyrolles (18 km al noreste) tem um trilho perimetral autorizado a cães o ano inteiro; o Lac de Sainte-Croix (90 km al norte) ofrece um banho sem trela mais amplio mas está a 1 h 30 de carro."
+        },
+        {
+          "q": "¿Pode mi cão entrar no parque Nacional das Calanques?",
+          "a": "Os cães estão prohibidos na zona terrestre do Parque Nacional das Calanques (Marselha-Cassis) do 1 de junho ao \\10 de setembro pelo riesgo de incendio e a protección da fauna. Fora de esas fechas, os cães com trela estão permitidos nos trilhos principales."
+        }
       ]
     },
     "vets": {
@@ -648,7 +810,16 @@
           "tip": "Phone before driving — the night vet may direct critical cases to a closer practice or ask you to stabilise the animal en route.",
           "tipFr": "Appelez avant de partir — le vétérinaire de nuit peut orienter les cas critiques vers une clinique plus proche ou demander de stabiliser l'animal en route.",
           "tipEs": "Llama antes de salir — el veterinario nocturno puede derivar casos críticos a una clínica más cercana o pedir estabilizar al animal en ruta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Veterinaires+2+Toute+Urgence+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinaires+2+Toute+Urgence+Aix",
+          "typePt": "Clínica de urgências fora de horas",
+          "descriptionPt": "Clínica de urgências fora de horas dedicada de Aix, aberta todas as noites 19:00-8:00 entre semana, fines de semana de sábado mediodía a segunda-feira 8:00, e 24/7 em festivos. Situada na rotonda do Pont de l'Arc, a 1,5 km a sul do Cours Mirabeau; atiende a pacientes registrados e de paso.",
+          "servicesPt": [
+            "Urgências fora de horas",
+            "UCI",
+            "Cirugía",
+            "Imagen"
+          ],
+          "tipPt": "Llama antes de salir — o veterinário nocturno pode derivar casos críticos a uma clínica mais cercana o pedir estabilizar al animal em ruta."
         },
         {
           "name": "Clinique Vétérinaire de la Pioline",
@@ -684,7 +855,16 @@
           "tip": "Ample free parking — the only Aix clinic within easy car-park reach if you arrive with a stressed dog who hates the city centre.",
           "tipFr": "Vaste parking gratuit — la seule clinique aixoise facilement accessible en voiture si vous arrivez avec un chien stressé qui n'aime pas le centre-ville.",
           "tipEs": "Amplio aparcamiento gratis — la única clínica aixoise de fácil acceso en coche si llegas con un perro estresado al que no le gusta el centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Pioline+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Pioline+Aix",
+          "typePt": "Clínica diurna integral",
+          "descriptionPt": "Gran clínica diurna a 5 km al sur do centro não polígono empresarial da Pioline, com imagen (rayos X, ecografía), cirugía, dental e sala de consulta só para felinos. Apertura o sábado pela manhã; derivaciones fora de horas a Vétérinaires 2 Toute Urgence não Pont de l'Arc.",
+          "servicesPt": [
+            "Consultas diurnas",
+            "Cirugía",
+            "Imagen",
+            "Sala só gatos"
+          ],
+          "tipPt": "Amplio aparcamiento grátis — a única clínica aixoise de fácil acceso de carro se llegas com um cão estresado al que não le gusta o centro."
         },
         {
           "name": "Cabinet Vétérinaire du Cours Sextius",
@@ -720,7 +900,16 @@
           "tip": "Walk-in consultations accepted in the 11:00 and 17:00 slots — useful for travellers needing a quick tapeworm treatment before returning to the UK.",
           "tipFr": "Consultations sans rendez-vous acceptées aux créneaux 11h et 17h — utile pour les voyageurs ayant besoin d'un traitement antiparasitaire rapide avant retour au Royaume-Uni.",
           "tipEs": "Consultas sin cita aceptadas en las franjas de las 11:00 y 17:00 — útil para viajeros que necesiten un tratamiento antiparasitario rápido antes de regresar al Reino Unido.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cabinet+veterinaire+cours+Sextius+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Cabinet+veterinaire+cours+Sextius+Aix",
+          "typePt": "Clínica no centro",
+          "descriptionPt": "Veterinário no centro a distancia pedonal de cualquier parte não Cours Sextius, a dos minutos da Rotonde. Pequeña clínica diurna para consultas rutinarias, vacinações, microchip; deriva cirugía e imagen a Pioline o Pont-de-l'Arc.",
+          "servicesPt": [
+            "Consultas diurnas",
+            "Vacinações",
+            "Microchip",
+            "Sem cita"
+          ],
+          "tipPt": "Consultas sem cita aceptadas nas franjas das 11:00 e 17:00 — útil para viajeros que necesiten um tratamento antiparasitario rápido antes de regresar al Reino Unido."
         }
       ],
       "tipsEn": [
@@ -778,6 +967,27 @@
         {
           "q": "¿Necesito una visita veterinaria antes de volver al Reino Unido desde Aix?",
           "a": "Sí — los perros con destino al Reino Unido necesitan un tratamiento contra tenia (prazicuantel) administrado por un veterinario entre 24 y 120 horas antes de entrar en Gran Bretaña. El veterinario debe registrarlo en el AHC o pasaporte; Cours Sextius y Pioline ofrecen ambos consultas antiparasitarias sin cita."
+        }
+      ],
+      "titlePt": "Veterinários e clínicas de urgência em Aix-em-Provence",
+      "introPt": "Aix-em-Provence cuenta com uma única clínica de urgências dedicada 24 horas justo fuera do perímetro, além disso de serviços veterinários móviles 24/7 que cubren o centro. Para cuidados diurnos, umas veinte clínicas para animales de companhia sirven a cidade, concentradas não bairro Saint-Mitre e a lo longo da route de Galice.",
+      "tipsPt": [
+        "Guarda Vétérinaires 2 Toute Urgence Aix (+33 4 42 82 13 13) em tu móvil antes de chegar — única clínica de urgências dedicada da cidade. A línea nacional gratuita 3115 também deriva aos veterinários de guardia locales 24/7.",
+        "Traz o passaporte europeu de tu animal, o número de microchip e uma copia do certificado antirrábico — exigidos por todas as clínicas francesas e para o viaje de vuelta.",
+        "Alerta de verão provenzal: o golpe de calor é a principal causa de consulta de urgência em Aix de junho a setembro. Os síntomas (jadeo excesivo, encías escuras, vómitos) empiezan nos 30 minutos siguientes a exposición a um asfalto >30 °C."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Adónde ir em Aix em urgência veterinária de noite?",
+          "a": "Vétérinaires 2 Toute Urgence, 35 rue Émilien Gautier, 13290 Aix-em-Provence (+33 4 42 82 13 13). Aberto todas as noites 19:00-8:00, todo o fin de semana e festivos. A línea nacional gratuita 3115 (24/7) também pode derivarte al veterinário de guardia do momento."
+        },
+        {
+          "q": "¿Puedo visitar a um veterinário em Aix como turista?",
+          "a": "Sí — todas as clínicas aixoises atienden animais de paso. Traz o passaporte europeu com a vacinação antirrábica vigente; a primera consulta cuesta habitualmente 45–55 €."
+        },
+        {
+          "q": "¿Necesito uma visita veterinária antes de volver al Reino Unido a partir de Aix?",
+          "a": "Sí — os cães com destino al Reino Unido necesitan um tratamento contra tenia (prazicuantel) administrado por um veterinário entre 24 e 120 horas antes de entrar em Gran Bretaña. O veterinário deve registrarlo não AHC o passaporte; Cours Sextius e Pioline ofrecen ambos consultas antiparasitarias sem cita."
         }
       ]
     },
@@ -851,6 +1061,29 @@
           "q": "¿Hay tiendas de accesorios para mascotas en el centro de Aix?",
           "a": "Sí — Maxi Zoo Aix-Pioline (5 km al sur, aparcamiento gratis), Animalis Cours Sextius (en el centro, alimentación + accesorios) y el mercado del martes/jueves/sábado de la Place Richelme tiene un carnicero que vende huesos frescos para llevar."
         }
+      ],
+      "titlePt": "Consejos prácticos para visitar Aix-em-Provence com cão",
+      "introPt": "Aix-em-Provence é uma das as cidades genuinamente mais tolerantes com os cães do sul de Francia — a bóveda de plátanos do século XVIII não Cours Mirabeau, os patios interiores dos bistrós e a proximidad de Sainte-Victoire a hacen casi diseñada para os dueños de cães. Os dos puntos específicos a anticipar são os cierres do macizo por riesgo de incendio (21 de junho-24 de setembro) e a estricta aplicación municipal contra os excrementos no centro histórico.",
+      "tipsPt": [
+        "Cierres de verão por riesgo de incendio: do 21 de junho ao \\14 de setembro, a prefectura de Bouches-du-Rhône publica um código de color diário (amarillo, naranja, rojo, negro) para o Massif Sainte-Victoire — os dias rojos e negros, todo o macizo incluyendo Bibémus e Bimont cierra a todos os paseantes. Consulta risque-prevention-incendies.fr a as 19:00 da víspera para o estado do dia siguiente.",
+        "Multas por excrementos: o centro histórico (dentro do perímetro) está patrullado pela policía municipal, que aplica multas fijas de 68 a 135 € por excrementos não recogidos. Lleva bolsas sempre — a cidade tem instalado dispensadores não Parc Jourdan, Place des Cardeurs e a lo longo do Cours Mirabeau.",
+        "O passaporte europeu para animais sigue siendo válido em Francia — tu cão deve ter microchip, vacinação antirrábica vigente (≥21 dias, válida 1 o 3 anos) e o passaporte sellado em cada refuerzo. Lo mesmo para os gatos.",
+        "Calor provenzal: de 11:00 a 18:00 em julho-agosto, a temperatura das losas calizas da cidade supera regularmente os 50 °C. Pasea os cães antes das 9:00 o después das 19:00; a bóveda de plátanos do Cours Mirabeau se mantiene fresca mas o Cours Gambetta expuesto al sol não.",
+        "ZFE zona de bajas emisiones: a partir de 2025, os vehículos clasificados Crit'Air 4 e inferior estão prohibidos não perímetro central de dia. Os viajeros com autocaravanas antigas devem aparcar não P+R Krypton e tomar a lanzadera grátis al centro com o seu cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Sigue siendo válido o passaporte europeu para animais em Francia?",
+          "a": "Sí — Francia sigue não sistema de passaporte europeu para animais. Tu cão deve ter microchip, vacinação antirrábica vigente (≥21 dias) e o passaporte sellado. Os passaportes emitidos não Reino Unido estão invalidados a partir do Brexit; os viajeros UK necesitan um AHC."
+        },
+        {
+          "q": "¿Qué acceso pet-friendly hay a catedral e al atelier de Cézanne?",
+          "a": "A praça exterior da Cathédrale Saint-Sauveur admite cães com trela; o interior e o claustro não. O atelier de Cézanne (9 av. Paul Cézanne) não admite cães não estudio mas o jardim delantero é acessível aos cães."
+        },
+        {
+          "q": "¿Hay lojas de accesorios para animais no centro de Aix?",
+          "a": "Sí — Maxi Zoo Aix-Pioline (5 km al sur, aparcamiento grátis), Animalis Cours Sextius (no centro, alimentación + accesorios) e o mercado do terça-feira/quinta-feira/sábado da Place Richelme tem um carnicero que vende huesos frescos para levar."
+        }
       ]
     },
     "attractions": {
@@ -877,7 +1110,10 @@
           "tip": "Best evening promenade is 19:00–21:00 — the heat of the day breaks, fountains are floodlit and the café terraces are full but not yet packed.",
           "tipFr": "La meilleure promenade du soir est 19h-21h — la chaleur retombe, les fontaines sont éclairées et les terrasses sont pleines mais pas encore bondées.",
           "tipEs": "El mejor paseo nocturno es 19:00-21:00 — el calor del día baja, las fuentes están iluminadas y las terrazas están llenas pero aún no abarrotadas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cours+Mirabeau+Aix+en+Provence"
+          "googleMapsUrl": "https://maps.google.com/?q=Cours+Mirabeau+Aix+en+Provence",
+          "descriptionPt": "Avenida central do século XVII de Aix (440 m de longo, 42 m de ancho) bordeada por quatro filas de plátanos, esplanadas, fuentes e librerías — espina dorsal social da cidade e o passeio canino mais sencillo no centro. Aberta 24/7; os cães com trela são a norma mais que a excepción.",
+          "petPolicyPt": "Avenida exterior, cães com trela sempre bem-vindos",
+          "tipPt": "O melhor passeio nocturno é 19:00-21:00 — o calor do dia baja, as fuentes estão iluminadas e as esplanadas estão cheias mas aún não abarrotadas."
         },
         {
           "name": "Atelier de Cézanne (outdoor garden)",
@@ -895,7 +1131,10 @@
           "tip": "Reach the atelier on foot from the centre via the Quartier des Lauves (25-minute walk uphill) — the route is shaded with mature plane trees and dog-friendly throughout.",
           "tipFr": "Rejoignez l'atelier à pied depuis le centre par le quartier des Lauves (25 minutes de marche en montée) — l'itinéraire est ombragé de platanes matures et dog-friendly tout du long.",
           "tipEs": "Llega al atelier a pie desde el centro por el barrio de Lauves (25 minutos a pie en subida) — la ruta es sombreada por plátanos maduros y dog-friendly todo el camino.",
-          "googleMapsUrl": "https://maps.google.com/?q=Atelier+de+Cezanne+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Atelier+de+Cezanne+Aix",
+          "descriptionPt": "O último atelier de Cézanne, construido em 1902 na colina de Lauves al norte do centro. O interior do atelier não admite cães, mas o jardim circundante de olivos e cerezos — onde Cézanne instalaba os seus caballetes — está aberto grátis a cães com trela e ofrece a mesma vista de pintor sobre a Sainte-Victoire.",
+          "petPolicyPt": "Jardim exterior grátis, cães com trela; interior do atelier sem cães",
+          "tipPt": "Llega al atelier a pé a partir do centro pelo bairro de Lauves (25 minutos a pé em subida) — a ruta é sombreada por plátanos maduros e pet-friendly todo o camino."
         },
         {
           "name": "Pavillon de Vendôme garden",
@@ -913,7 +1152,10 @@
           "tip": "The garden is a quiet shaded picnic spot 3 minutes from the Place des Cardeurs market — pick up cheese and rosé there and bring your dog for a centre-of-town picnic.",
           "tipFr": "Le jardin est un coin pique-nique calme et ombragé à 3 minutes du marché de la Place des Cardeurs — achetez fromage et rosé là-bas et venez avec votre chien pour un pique-nique en centre-ville.",
           "tipEs": "El jardín es un rincón tranquilo y sombreado para picnic a 3 minutos del mercado de la Place des Cardeurs — compra queso y rosado allí y trae a tu perro para un picnic en el centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pavillon+Vendome+Aix"
+          "googleMapsUrl": "https://maps.google.com/?q=Pavillon+Vendome+Aix",
+          "descriptionPt": "Pabellón clásico do século XVII construido para o Duque de Vendôme, com um jardim francés de 6.000 m² de bojes podados, parterres e uma pequeña fuente. O jardim está aberto grátis a cães com trela; o museu do pabellón (pinturas, mobiliario de época) não admite cães.",
+          "petPolicyPt": "Jardim grátis, cães com trela; museu sem cães",
+          "tipPt": "O jardim é um rincón tranquilo e sombreado para picnic a 3 minutos do mercado da Place des Cardeurs — compra queso e rosado ali e traz a tu cão para um picnic no centro."
         }
       ],
       "tipsEn": [
@@ -972,6 +1214,27 @@
           "q": "¿Cuál es la mejor excursión dog-friendly desde Aix?",
           "a": "El Domaine de Château La Coste (10 km al norte) es la bodega pet-friendly más espectacular — una finca de 200 hectáreas con esculturas exteriores de Tadao Ando, Frank Gehry y Louise Bourgeois, todas accesibles a pie con perro con correa. 15 € por persona para el recorrido artístico."
         }
+      ],
+      "titlePt": "Atracciones e actividades pet-friendly em Aix-em-Provence",
+      "introPt": "Aix se visita al aire libre — o Cours Mirabeau, a fuente da place d'Albertas, as praças de mercado, as mansiones do século XVII do Quartier Mazarin e o trilho Cézanne são todos acessíveis a cães com trela. Os dos museus principales (Granet e Caumont) rechazan cães, mas o jardim do atelier de Cézanne e o Pavillon Vendôme são acessíveis a cães.",
+      "tipsPt": [
+        "O Museu Granet (pinturas) e o Hôtel de Caumont (exposiciones Cézanne) rechazan ambos cães de companhia nos seus salas. A praça exterior da Cathédrale Saint-Sauveur admite cães com trela; o interior e o claustro do século XII não.",
+        "Catas de vinho com cão: a maioria de bodegas dos Coteaux d'Aix (Domaine d'Éguilles, Château A Coste, Château Calissanne) admiten cães nos seus salas de cata e patios exteriores. Llama por adelantado em verão.",
+        "O mercado da Place Richelme do terça-feira/quinta-feira/sábado é o mais dog-tolerante dos mercados aixois — os seus callejuelas estrechas e sombreadas mantienen aos cães mais frescos que a Place des Prêcheurs aberta o sábado pela manhã."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão visitar o atelier de Cézanne?",
+          "a": "Sí para o jardim exterior (grátis, cães com trela bem-vindos); não para o interior do atelier, que é um museu. O jardim ofrece a mesma vista sobre a Sainte-Victoire que tenían os caballetes de Cézanne."
+        },
+        {
+          "q": "¿Se admiten cães não Museu Granet o Hôtel de Caumont?",
+          "a": "Não — ambos rechazan cães de companhia em todas as salas. Só cães de assistência e guia. O Granet não tem jardim exterior; o Caumont tem um café-patio que admite cães com trela."
+        },
+        {
+          "q": "¿Cuál é a melhor excursión pet-friendly a partir de Aix?",
+          "a": "O Domaine de Château A Coste (10 km al norte) é a bodega pet-friendly mais espectacular — uma finca de 200 hectáreas com esculturas exteriores de Tadao Ando, Frank Gehry e Louise Bourgeois, todas acessíveis a pé com cão com trela. 15 € por persona para o recorrido artístico."
+        }
       ]
     },
     "petsitting": {
@@ -1015,7 +1278,16 @@
           ],
           "tip": "Filter for sitters with vet-confirmation badges — these have uploaded their vaccination records and most accept Booking-day bookings at no premium.",
           "tipFr": "Filtrez les gardiens avec badge vétérinaire-confirmé — ils ont téléversé leur carnet de vaccination et la plupart acceptent les réservations du jour même sans supplément.",
-          "tipEs": "Filtra cuidadores con insignia veterinario-confirmado — han subido su cartilla de vacunación y la mayoría acepta reservas del mismo día sin sobrecoste."
+          "tipEs": "Filtra cuidadores con insignia veterinario-confirmado — han subido su cartilla de vacunación y la mayoría acepta reservas del mismo día sin sobrecoste.",
+          "typePt": "Plataforma online",
+          "descriptionPt": "Plataforma francesa fundada por uma veterinária, com 70+ cuidadores e paseadores registrados para Aix e comunas circundantes. Os perfiles incluyen cuidado em casa do cuidador, cuidador a domicilio, visitas e passeios; seguro incluido e línea de urgências 24/7.",
+          "servicesPt": [
+            "Passeios",
+            "Visitas a domicilio",
+            "Cuidado em casa do cuidador",
+            "Cuidado a domicilio"
+          ],
+          "tipPt": "Filtra cuidadores com insignia veterinário-confirmado — têm subido o seu cartilla de vacinação e a mayoría aceita reservas do mesmo dia sem sobrecoste."
         },
         {
           "name": "Pawshake — Aix-en-Provence",
@@ -1051,7 +1323,16 @@
           ],
           "tip": "Pawshake's student sitters are usually cheaper than Animaute's professionals by 20-30 % for the same service — useful for week-long bookings during October–May term-time.",
           "tipFr": "Les étudiants gardiens de Pawshake sont généralement 20 à 30 % moins chers que les professionnels d'Animaute pour le même service — utile pour les réservations à la semaine en période universitaire octobre-mai.",
-          "tipEs": "Los cuidadores estudiantes de Pawshake suelen ser un 20-30 % más baratos que los profesionales de Animaute para el mismo servicio — útil para reservas semanales en periodo lectivo de octubre a mayo."
+          "tipEs": "Los cuidadores estudiantes de Pawshake suelen ser un 20-30 % más baratos que los profesionales de Animaute para el mismo servicio — útil para reservas semanales en periodo lectivo de octubre a mayo.",
+          "typePt": "Plataforma online",
+          "descriptionPt": "Plataforma europeia com 60+ cuidadores activos em Aix-em-Provence, incluyendo estudantes de Aix-Marseille Université durante o periodo lectivo. A Pawshake Guarantee incluye cobertura veterinária e línea directa 24/7; perfiles clasificados por reseñas verificadas estilo Trustpilot.",
+          "servicesPt": [
+            "Passeio",
+            "Cuidado de animais",
+            "Pensión",
+            "Cuidado em casa"
+          ],
+          "tipPt": "Os cuidadores estudantes de Pawshake costumam ser um 20-30 % mais baratos que os profesionales de Animaute para o mesmo serviço — útil para reservas semanais em periodo lectivo de outubro a maio."
         },
         {
           "name": "Holidog — Aix-en-Provence",
@@ -1086,7 +1367,16 @@
           ],
           "tip": "Holidog premium membership (€19/month) unlocks unlimited bookings and removes the per-booking 15 % fee — worth it for stays over 10 days.",
           "tipFr": "L'abonnement premium Holidog (19 €/mois) débloque les réservations illimitées et supprime la commission de 15 % par réservation — rentable pour les séjours de plus de 10 jours.",
-          "tipEs": "La membresía premium Holidog (19 €/mes) desbloquea las reservas ilimitadas y elimina la comisión del 15 % por reserva — rentable para estancias de más de 10 días."
+          "tipEs": "La membresía premium Holidog (19 €/mes) desbloquea las reservas ilimitadas y elimina la comisión del 15 % por reserva — rentable para estancias de más de 10 días.",
+          "typePt": "Plataforma online",
+          "descriptionPt": "Plataforma franco-belga com a mayor cobertura geográfica em Aix (1.800+ cuidadores registrados em todos os bairros e comunas periféricas). Especializada em cuidados longos (5+ dias) em casa do cuidador; tarifas mais acessíveis para viajeros com presupuesto ajustado.",
+          "servicesPt": [
+            "Cuidado longo",
+            "Passeio",
+            "Pensión",
+            "Taxi animalero"
+          ],
+          "tipPt": "A membresía premium Holidog (19 €/mês) desbloquea as reservas ilimitadas e elimina a comisión do 15 % por reserva — rentable para estadias de mais de 10 dias."
         }
       ],
       "tipsEn": [
@@ -1144,6 +1434,27 @@
         {
           "q": "¿Hay guarderías caninas de día en Aix?",
           "a": "Sí — Doggy Day Aix (Pioline, 5 km al sur) y Au Bonheur du Chien (Plan-de-Campagne) ofrecen ambos días sueltos a 25-35 € por día. Reserva con 24 h de antelación obligatoria en verano."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de cães em Aix-em-Provence",
+      "introPt": "Aix tem uma comunidad de pet-sitting especialmente activa gracias a población estudiantil universitaria local — mais de 200 cuidadores registrados nas principales plataformas (Animaute, Pawshake, Holidog, Rover). Tarifas: 10 € por um passeio individual de 30 minutos, 18 € por um passeio em grupo de uma hora; cuidado nocturno em casa do cuidador habitualmente 25–40 € por noite.",
+      "tipsPt": [
+        "As conserjerías dos hotéis Le Pigonnet, Grand Hôtel Roi René e Renaissance mantienen uma lista validada de paseadores locales — pregunta em recepción, não reserves só o melhor valorado online.",
+        "O verão (julho-agosto) é o periodo de mayor demanda de pet-sitting em Aix; reserva com 5-7 dias de antelación. As mañanas em periodo lectivo (outubro-junho) são as mais fáceis gracias a disponibilidad dos estudantes cuidadores.",
+        "Todos os cuidadores franceses exigen prueba de vacinação antirrábica vigente (≥21 dias, ≤1 ano) e o passaporte europeu — traz o passaporte para cualquier reserva mais allá de uma visita puntual."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo dejar a mi cão na habitación do hotel mientras visito os museus?",
+          "a": "A maioria de hotéis pet-friendly de Aix (Grand Hôtel Roi René, Cézanne, Cardinal) admiten cães educados dejados na habitación 2–3 horas durante o dia; Le Pigonnet exige que os cães não se queden solos. Comprueba sempre al reservar."
+        },
+        {
+          "q": "¿Cuánto cuesta um passeio de cão em Aix?",
+          "a": "10-15 € por um passeio individual de 30 minutos, 15-20 € por um passeio em grupo de uma hora em 2026. Cuidado nocturno 25-40 € por noite segundo a zona; o centro (dentro do perímetro) é o mais caro."
+        },
+        {
+          "q": "¿Hay guarderías caninas de dia em Aix?",
+          "a": "Sí — Doggy Day Aix (Pioline, 5 km al sur) e Au Bonheur du Chien (Plan-de-Campagne) ofrecen ambos dias sueltos a 25-35 € por dia. Reserva com 24 h de antelación obrigatória em verão."
         }
       ]
     }

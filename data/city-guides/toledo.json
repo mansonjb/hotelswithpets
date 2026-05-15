@@ -33,7 +33,11 @@
           "tip": "The marzipan dessert is a Toledan tradition since the Moorish era — pair with a regional Pedro Ximénez sherry on the terrace.",
           "tipFr": "Le dessert au massepain est une tradition tolédane depuis l'époque mauresque — accordez avec un Pedro Ximénez régional en terrasse.",
           "tipEs": "El postre de mazapán es tradición toledana desde la época morisca — combina con un Pedro Ximénez regional en la terraza.",
-          "googleMapsUrl": "https://maps.google.com/?q=Adolfo+Restaurante+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Adolfo+Restaurante+Toledo",
+          "descriptionPt": "Restaurante toledano destacado por Michelin num palácio do século XIV perto da Catedral — cozinha castellano-manchega, quesos Manchego regionales, estofados de perdiz. Cães bem-vindos na esplanada adoquinada delantera o ano inteiro.",
+          "petPolicyPt": "Cães em esplanada",
+          "mustTryPt": "Perdiz estofada, Manchego curado, mazapán",
+          "tipPt": "O postre de mazapán é tradição toledana a partir da época morisca — combina com um Pedro Ximénez regional na esplanada."
         },
         {
           "name": "La Abadía",
@@ -55,7 +59,11 @@
           "tip": "Tapas-only at the bar (de pie) is the cheapest way to eat well in Toledo — about 15 €/person with a glass of wine.",
           "tipFr": "Tapas debout au bar est la manière la moins chère de bien manger à Toledo — environ 15 €/personne avec un verre de vin.",
           "tipEs": "Tapeo de pie en la barra es la forma más barata de comer bien en Toledo — unos 15 €/persona con una copa de vino.",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Abadia+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Abadia+Toledo",
+          "descriptionPt": "Tasca castellana tradicional na bodega de um antigo palácio do século XVI — tapas locales, vinhos regionales, cochinillo. Cães bem-vindos em todo o patio delantero o ano inteiro; bodega com acuerdo previo.",
+          "petPolicyPt": "Cães em patio; bodega sob acuerdo",
+          "mustTryPt": "Cochinillo, croquetas de jamón, vinho da Mancha",
+          "tipPt": "Tapeo de pie na barra é a forma mais barata de comer bem em Toledo — uns 15 €/persona com uma copa de vinho."
         },
         {
           "name": "Café del Fin",
@@ -77,7 +85,11 @@
           "tip": "The terrace at sunset overlooks the Tagus gorge with the Castillo San Servando opposite — most photogenic dog-and-coffee spot in Toledo.",
           "tipFr": "La terrasse au coucher du soleil surplombe les gorges du Tage avec le Castillo San Servando en face — spot canin-café le plus photogénique de Toledo.",
           "tipEs": "La terraza al atardecer da al desfiladero del Tajo con el Castillo San Servando enfrente — spot canino-café más fotogénico de Toledo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+del+Fin+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+del+Fin+Toledo",
+          "descriptionPt": "Pequeño café bohemio na Judería com uma esplanada panorámica sobre o desfiladero do Tajo — café de especialidad, brunch, opciones vegetarianas. Cães bem-vindos o ano inteiro, boles na puerta.",
+          "petPolicyPt": "Cães bem-vindos em todo o lado",
+          "mustTryPt": "Brunch, flat white de especialidad, tapas vegetarianas",
+          "tipPt": "A esplanada al atardecer da al desfiladero do Tajo com o Castelo San Servando em frente — spot canino-café mais fotogénico de Toledo."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Puedo llevar a mi perro a tapear?",
           "a": "Sí. Las tabernas castellanas admiten perros por defecto — perros con correa bienvenidos al nivel de la barra. La mayoría de habituales lleva perro sin problema."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Toledo",
+      "introPt": "A cultura do café e tasca castellana é fiablemente pet-friendly — os cães com trela são admitidos em esplanada por defecto, os boles aparecen sem pedirlos, e o Casco Histórico alrededor da Praça de Zocodover concentra as melhores direções.",
+      "tipsPt": [
+        "A cultura tasca castellana é ampliamente pet-friendly — al menos o 75 % dos cafés e tabernas de Toledo admite cães com trela em esplanada o ano inteiro.",
+        "O tapeo de pie na barra é a forma mais barata de comer bem — uns 15 €/persona frente a 30-40 € sentados.",
+        "Calor estival alto (35-40 °C julho-agosto) — come temprano o tarde; o Casco Histórico de pedra se mantiene acolhedor até as 22:00."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Toledo?",
+          "a": "Sí na mayoría. Perto do 75 % dos cafés e tabernas de Toledo admite cães com trela em esplanada, e muitos os aceitam também dentro fora de horas punta."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a tapear?",
+          "a": "Sí. As tabernas castellanas admiten cães por defecto — cães com trela bem-vindos al nivel da barra. A maioria de habituales lleva cão sem problema."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "Best at sunset for the iconic Toledo skyline photo — the Mirador del Valle viewpoint is the postcard angle.",
           "tipFr": "Au mieux au coucher du soleil pour la photo iconique de la skyline tolédane — le Mirador del Valle est l'angle carte-postale.",
           "tipEs": "Mejor al atardecer para la foto icónica del skyline toledano — el Mirador del Valle es el ángulo postal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Senda+Ecologica+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Senda+Ecologica+Toledo",
+          "leashRulePt": "Com trela não trilho; sem trela em secciones rurales fora da temporada de nidificación",
+          "descriptionPt": "O trilho circular de 7 km a lo longo do Tajo alrededor do Casco Histórico — trilho pavimentado/tierra, vista icónica da cidade UNESCO a partir do outro lado do desfiladero, acceso libre 24/7. O passeio canino favorito de Toledo.",
+          "amenitiesPt": [
+            "Trilho pavimentado",
+            "Miradores",
+            "Parking grátis",
+            "Sem instalaciones a mitad de camino"
+          ],
+          "tipPt": "Melhor al atardecer para a foto icónica do skyline toledano — o Mirador do Valle é o ángulo postal."
         },
         {
           "name": "Parque de la Vega",
@@ -202,7 +240,16 @@
           "tip": "Visit in early evening (19:00-21:00 in summer) for the local dog-walking community — Toledo's main north-side meeting spot.",
           "tipFr": "Visitez en début de soirée (19h-21h en été) pour la communauté locale de promeneurs de chiens — point de rencontre nord principal de Toledo.",
           "tipEs": "Visita al inicio de la tarde (19:00-21:00 en verano) para la comunidad local de paseadores de perros — punto de encuentro principal del norte de Toledo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+de+la+Vega+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+de+la+Vega+Toledo",
+          "leashRulePt": "Com trela nos passeios principales; uma zona canina vallada",
+          "descriptionPt": "O mayor espacio verde urbano de Toledo — 13 hectáreas com fuentes, jardins ornamentales, secção ribereña do Tajo. Grátis, pet-friendly com cães com trela nos passeios principales e uma zona canina vallada na esquina norte.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Fuentes",
+            "Café",
+            "Parque infantil"
+          ],
+          "tipPt": "Visita al inicio da tarde (19:00-21:00 em verão) para a comunidad local de paseadores de cães — punto de encuentro principal do norte de Toledo."
         },
         {
           "name": "Cigarrales del Tajo",
@@ -234,7 +281,15 @@
           "tip": "Drive across the Puente de Alcántara to the Mirador del Valle — best free viewpoint of Toledo, parking available, dog-friendly.",
           "tipFr": "Traversez le Puente de Alcántara jusqu'au Mirador del Valle — meilleur belvédère gratuit sur Toledo, parking disponible, dog-friendly.",
           "tipEs": "Cruza el Puente de Alcántara hasta el Mirador del Valle — mejor mirador gratuito de Toledo, parking disponible, dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Valle+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Valle+Toledo",
+          "leashRulePt": "Com trela em carreteras; sem trela em trilhos rurales fora da temporada de nidificación",
+          "descriptionPt": "Região protegida das colinas frente a Toledo al outro lado do Tajo — fincas históricas (cigarrales), olivares, floresta de encinas e pinos, trilhos. O mirador do Cigarral do Ángel ofrece a vista icónica do skyline.",
+          "amenitiesPt": [
+            "Parking grátis em miradores",
+            "Trilhos",
+            "Sem instalaciones a mitad de camino"
+          ],
+          "tipPt": "Cruza o Ponte de Alcántara até o Mirador do Valle — melhor mirador gratuito de Toledo, parking disponible, pet-friendly."
         }
       ],
       "tipsEn": [
@@ -281,6 +336,23 @@
           "q": "¿Pueden los perros caminar por la Senda Ecológica?",
           "a": "Sí — el sendero circular de 7 km a lo largo del Tajo admite perros con correa gratis todo el año. El Mirador del Valle ofrece la foto icónica del skyline toledano."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Toledo",
+      "introPt": "Toledo está rodeada pelo desfiladero do Tajo — a Senda Ecológica circular sigue o rio alrededor do Casco Histórico, as colinas dos Cigarrales se elevan frente a cidade para correr em trilho sem trela, e os Montes de Toledo se abren al robledal a 20 min al sur.",
+      "tipsPt": [
+        "A ordenanza municipal de Toledo exige trela em todas as vías pavimentadas e os adoquines do Casco Histórico; sem trela permitido nas zonas rurales dos Cigarrales fora de zonas formales.",
+        "Calor estival castellano alto (35-40 °C julho-agosto) — limita os passeios caninos antes das 09:00 e después das 19:00; o Casco Histórico de pedra pode alcanzar 50 °C em superficie.",
+        "Lleva sempre bolsas: multa fija de Toledo por excrementos de 90 €, controlada pela Policía Local."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Toledo?",
+          "a": "Sem trela permitido na zona vallada do Parque da Vega e na maioria de trilhos rurales dos Cigarrales fora de parques formales. Os adoquines do Casco Histórico e a Senda Ecológica exigen trela o ano inteiro."
+        },
+        {
+          "q": "¿Podem os cães caminhar pela Senda Ecológica?",
+          "a": "Sí — o trilho circular de 7 km a lo longo do Tajo admite cães com trela grátis o ano inteiro. O Mirador do Valle ofrece a foto icónica do skyline toledano."
+        }
       ]
     },
     "transport": {
@@ -305,7 +377,10 @@
           "tip": "The 33 min Avant link makes Toledo perfect for a dog-friendly Madrid day trip — combine with Retiro Park (free for dogs) and Casa de Campo.",
           "tipFr": "La liaison Avant de 33 min rend Toledo parfaite pour une excursion canine depuis Madrid — combinez avec le parc du Retiro (gratuit pour les chiens) et la Casa de Campo.",
           "tipEs": "El enlace Avant de 33 min hace de Toledo el destino perfecto para una excursión canina desde Madrid — combina con el Retiro (gratis para perros) y la Casa de Campo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Toledo+train+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Toledo+train+station",
+          "descriptionPt": "Lanzadera de alta velocidad Renfe Avant a partir de Madrid Atocha a Toledo em 33 min (cada hora). Cães pequeños em transportadora viajan grátis até 10 kg; os mais grandes requieren um bilhete extra e bozal a bordo.",
+          "petPolicyPt": "Pequeños em transportadora grátis; grandes bilhete extra + bozal",
+          "tipPt": "O ligação Avant de 33 min hace de Toledo o destino perfeito para uma excursión canina a partir de Madrid — combina com o Retiro (grátis para cães) e a Casa de Campo."
         },
         {
           "name": "Unauto City Buses",
@@ -321,7 +396,10 @@
           "tip": "The free Casco Histórico shuttle saves the cobblestone climb from the train station — useful in summer heat with luggage and a dog.",
           "tipFr": "La navette gratuite du Casco Histórico évite la montée pavée depuis la gare — utile en chaleur estivale avec bagages et chien.",
           "tipEs": "La lanzadera gratuita del Casco Histórico evita la subida adoquinada desde la estación — útil en calor estival con equipaje y perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Toledo+Unauto+bus"
+          "googleMapsUrl": "https://maps.google.com/?q=Toledo+Unauto+bus",
+          "descriptionPt": "Unauto opera a red de autocarros de Toledo incluyendo a lanzadera gratuita do Casco Histórico. Cães pequeños em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço (1 €) e bozal.",
+          "petPolicyPt": "Pequeños grátis; grandes meio preço + bozal",
+          "tipPt": "A lanzadera gratuita do Casco Histórico evita a subida adoquinada a partir da estação — útil em calor estival com equipaje e cão."
         },
         {
           "name": "Toledo Tourist Train (Trenecito)",
@@ -337,7 +415,10 @@
           "tip": "Departures every 30 min from Plaza de Zocodover — the Mirador del Valle stop is the iconic Toledo skyline photo, dog-friendly with leashed dogs.",
           "tipFr": "Départs toutes les 30 min depuis la Plaza de Zocodover — l'arrêt Mirador del Valle est la photo iconique de Toledo, dog-friendly avec chiens en laisse.",
           "tipEs": "Salidas cada 30 min desde la Plaza de Zocodover — la parada Mirador del Valle es la foto icónica de Toledo, dog-friendly con perros con correa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Zocodover+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Zocodover+Toledo",
+          "descriptionPt": "O trenecito turístico de Toledo recorre o Casco Histórico vía o Mirador do Valle — circuito turístico de 50 min, cães com trela admitidos grátis nos vagones abertos.",
+          "petPolicyPt": "Grátis com trela em vagones abertos",
+          "tipPt": "Salidas cada 30 min a partir da Praça de Zocodover — a paragem Mirador do Valle é a foto icónica de Toledo, pet-friendly com cães com trela."
         }
       ],
       "tipsEn": [
@@ -384,6 +465,23 @@
           "q": "¿Es accesible el Mirador del Valle para perros?",
           "a": "Sí — tanto el trenecito turístico (gratis con correa) como caminar por la Senda Ecológica llegan al Mirador del Valle, que ofrece la foto icónica del skyline toledano dog-friendly con perros con correa."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Toledo",
+      "introPt": "O compacto Casco Histórico de Toledo se cruza a pé em 25 minutos (principalmente sobre adoquines). Para excursiones, os autocarros urbanos Unauto, os comboios Renfe Avant e o ligação AVE de alta velocidad a Madrid admiten todos cães com trela.",
+      "tipsPt": [
+        "A normativa ferroviaria española exige bilhete a meio preço para cães medianos/grandes e bozal a bordo (Renfe AVE/Avant) — aplica a todos os comboios nacionais.",
+        "O Casco Histórico de Toledo é mayormente adoquinado e empinado — os cães pequeños lo llevan melhor; as razas grandes podem sufrir em almohadillas e escaleras.",
+        "O aeroporto de Madrid Barajas (MAD) está a 1h10 em Avant + Cercanías combo — o hub internacional pet-friendly mais cercano para llegadas a Toledo."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Necesito bilhete para mi cão não Avant Madrid-Toledo?",
+          "a": "Os cães pequeños em transportadora (menos de 10 kg) viajan grátis. Os medianos e grandes requieren um bilhete extra (aproximadamente o 50 % da tarifa) e bozal a bordo."
+        },
+        {
+          "q": "¿É acessível o Mirador do Valle para cães?",
+          "a": "Sí — tanto o trenecito turístico (grátis com trela) como caminhar pela Senda Ecológica llegan al Mirador do Valle, que ofrece a foto icónica do skyline toledano pet-friendly com cães com trela."
+        }
       ]
     },
     "beaches": {
@@ -425,7 +523,16 @@
           "tip": "Best dog-swim conditions June-September (water 14-18 °C). The Tagus is heavily regulated — current is calm at Safont but verify before letting strong-current dogs swim.",
           "tipFr": "Meilleures conditions baignade canine juin-septembre (eau 14-18 °C). Le Tage est très régulé — courant calme à Safont mais vérifiez avant de laisser nager les chiens dans le courant.",
           "tipEs": "Mejores condiciones de baño canino junio-septiembre (agua 14-18 °C). El Tajo está muy regulado — corriente tranquila en Safont pero verifica antes de dejar nadar a perros en corriente.",
-          "googleMapsUrl": "https://maps.google.com/?q=Safont+Toledo+Tajo"
+          "googleMapsUrl": "https://maps.google.com/?q=Safont+Toledo+Tajo",
+          "leashRulePt": "Com trela não trilho; sem trela em secciones rurales",
+          "descriptionPt": "A margem do Tajo al este do Casco Histórico — entrada grava-hierba, águas pouco profundas tranquilas para banho canino em verão (água 14-18 °C), o icónico Ponte de Alcántara de fondo. 10 min andando da Praça de Zocodover.",
+          "amenitiesPt": [
+            "Acceso libre",
+            "Pradaria de picnic",
+            "Entrada de grava",
+            "Sem instalaciones"
+          ],
+          "tipPt": "Melhores condições de banho canino junho-setembro (água 14-18 °C). O Tajo está muito regulado — corriente tranquila em Safont mas verifica antes de dejar nadar a cães em corriente."
         },
         {
           "name": "Embalse de Castrejón",
@@ -458,7 +565,16 @@
           "tip": "Bring water, sunshade and food — no facilities at all. Best to combine with a Talavera de la Reina day trip (15 km further west).",
           "tipFr": "Apportez eau, ombrelle et nourriture — aucune aménité. Idéal à combiner avec une excursion à Talavera de la Reina (15 km plus à l'ouest).",
           "tipEs": "Lleva agua, sombrilla y comida — sin instalaciones. Ideal para combinar con una excursión a Talavera de la Reina (15 km más al oeste).",
-          "googleMapsUrl": "https://maps.google.com/?q=Embalse+Castrejon"
+          "googleMapsUrl": "https://maps.google.com/?q=Embalse+Castrejon",
+          "leashRulePt": "Com trela na margem; sem trela em secciones rurales",
+          "descriptionPt": "Embalse do Tajo a 35 km a oeste de Toledo — gran masa de água tranquila, margem de grava e guijarros, popular entre locales para banho canino estival. Parking grátis em varios puntos de acceso a lo longo da margem oeste.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Margem de guijarros",
+            "Sem instalaciones",
+            "Acceso libre"
+          ],
+          "tipPt": "Lleva água, sombrilla e comida — sem instalaciones. Ideal para combinar com uma excursión a Talavera da Reina (15 km mais al oeste)."
         },
         {
           "name": "Río Tajo at Puente de San Martín",
@@ -491,7 +607,16 @@
           "tip": "Sunset view from the river under the Puente de San Martín is the iconic Toledo dog-photo angle — leash always required at this central spot.",
           "tipFr": "La vue au coucher du soleil depuis la rivière sous le Puente de San Martín est l'angle photo canin iconique de Toledo — laisse toujours exigée à ce spot central.",
           "tipEs": "La vista al atardecer desde el río bajo el Puente de San Martín es el ángulo de foto canina icónico de Toledo — correa siempre exigida en este spot central.",
-          "googleMapsUrl": "https://maps.google.com/?q=Puente+San+Martin+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Puente+San+Martin+Toledo",
+          "leashRulePt": "Com trela o ano inteiro",
+          "descriptionPt": "O meandro do Tajo sob o Ponte de San Martín não límite oeste do Casco Histórico — entrada de guijarros sob o ponte medieval, águas tranquilas e pouco profundas. O spot de banho canino mais fotogénico do centro de Toledo.",
+          "amenitiesPt": [
+            "Acceso libre",
+            "Entrada guijarros",
+            "Ponte medieval de fondo",
+            "Sem instalaciones"
+          ],
+          "tipPt": "A vista al atardecer a partir do rio sob o Ponte de San Martín é o ángulo de foto canina icónico de Toledo — trela sempre exigida em este spot central."
         }
       ],
       "tipsEn": [
@@ -538,6 +663,23 @@
           "q": "¿Pueden los perros nadar en el Tajo?",
           "a": "Sí en meandros tranquilos — Safont (este), Puente de San Martín (oeste) y el Embalse de Castrejón. La corriente está regulada por las presas aguas arriba; verifica las condiciones del día antes de dejar nadar a perros en corriente."
         }
+      ],
+      "titlePt": "Rios pet-friendly perto de Toledo",
+      "introPt": "Toledo está no interior da meseta castellana, mas o propio Tajo mais varios embalses interiores ofrecen spots de banho canino estival a menos de uma hora de carro. As praias de mar mais cercanas estão na costa mediterrânea a 2h30 al este em Valencia.",
+      "tipsPt": [
+        "As praias fluviales municipales españolas costumam excluir cães do 1 de junho ao \\15 de setembro salvo em zonas caninas marcadas — as margens do Tajo em Toledo siguen pet-friendly o ano inteiro fora das zonas de banho formales.",
+        "Temperaturas do solo estivales altas (50 °C+ na pedra castellana) — botines o bálsamo imprescindibles; limita a praia antes das 10:00 o después das 18:00.",
+        "As praias de mar atlântico e mediterrâneo estão a 2h30 (Valencia) o 4h (Cádiz) de carro — para um verdadero banho marino com cão, prefiere volar a partir de Madrid Barajas a Faro o Málaga."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana de Toledo?",
+          "a": "As praias de mar estão a 2h30 de carro (costa mediterrânea de Valencia) o 4h (Cádiz Atlântico). Para banho canino em água dulce, o Tajo em Safont (10 min andando) e o embalse de Castrejón (35 min de carro) são as opciones mais cercanas."
+        },
+        {
+          "q": "¿Podem os cães nadar não Tajo?",
+          "a": "Sí em meandros tranquilos — Safont (este), Ponte de San Martín (oeste) e o Embalse de Castrejón. A corriente está regulada pelas presas águas arriba; verifica as condições do dia antes de dejar nadar a cães em corriente."
+        }
       ]
     },
     "vets": {
@@ -566,7 +708,9 @@
           "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
           "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
           "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Toledo",
+          "descriptionPt": "Hospital veterinário de urgências 24h em Toledo em Rua Rio Bullaque — cirugía completa, UCI, ecografía, rayos X. O veterinário 24/7 mais cercano para a região de Castilla-A Mancha.",
+          "tipPt": "Llama antes de ir — triaje por teléfono e posible redirección para casos não urgentes na noite."
         },
         {
           "name": "Centro Veterinario El Casco",
@@ -585,7 +729,9 @@
           "openingHours": "Mon-Fri 09:30-13:30, 17:00-20:30; Sat 10:00-13:00",
           "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
-          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
+          "descriptionPt": "Clínica moderna para pequeños animales no centro de Toledo perto do Casco Histórico — medicina general, vacinas, cirugía, odontología. Llamadas fora de horario derivadas al Hospital Veterinário Toledo 24h.",
+          "tipPt": "Hablan inglés com fluidez e aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Clínica Veterinaria Anicura Toledo",
@@ -605,7 +751,9 @@
           "tip": "Useful for issuing/updating an EU pet passport mid-trip — AniCura charges around 30 € for a passport, 35 € for a microchip.",
           "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — AniCura facture environ 30 € pour un passeport, 35 € pour une puce.",
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — AniCura cobra unos 30 € por pasaporte, 35 € por microchip.",
-          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Toledo",
+          "descriptionPt": "Sucursal diurna da cadena AniCura não oeste de Toledo — medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje — AniCura cobra uns 30 € por passaporte, 35 € por microchip."
         }
       ],
       "tipsEn": [
@@ -652,6 +800,23 @@
           "q": "¿Necesito pasaporte europeo para Toledo?",
           "a": "Sí para entrar desde fuera de España. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico español adicional."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Toledo — Hospitales e clínicas veterinárias",
+      "introPt": "Toledo tem buena cobertura veterinária diurna e uma clínica regional de urgências 24h no centro. A Facultad Veterinária da Complutense de Madrid a 1h al norte é o gran centro de referencia.",
+      "tipsPt": [
+        "España está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Os veterinários do Casco Histórico de Toledo Não hacen urgências 24h — pelas noites e fines de semana ve directamente al Hospital Veterinário Toledo em Rua Rio Bullaque.",
+        "Lleva sempre o passaporte europeu original: as clínicas españolas não aceitam fotocopias para certificados de exportación."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h perto de Toledo?",
+          "a": "Hospital Veterinário Toledo, Rua Rio Bullaque 11, +34 925 22 22 33 — centro de Toledo, a distancia pedonal da maioria dos hotéis. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito passaporte europeu para Toledo?",
+          "a": "Sí para entrar a partir de fora de España. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Sem papeleo específico español adicional."
+        }
       ]
     },
     "tips": {
@@ -667,21 +832,24 @@
           "photo": "/images/city-places/toledo-tips-best-season-for-visiting-toledo-with-a-dog.jpg",
           "description": "April-May and September-October are ideal — average highs 18-25 °C, manageable for dogs, the autumn vendimia (harvest) light is photogenic. Avoid mid-July to mid-August: 35-40 °C heat with cobblestones at 50 °C+, December-February are mild but can have surprising frosts.",
           "descriptionFr": "Avril-mai et septembre-octobre sont idéaux — maxima moyens 18-25 °C, gérables pour un chien, la lumière de vendimia automnale est photogénique. Évitez mi-juillet à mi-août : chaleur 35-40 °C avec pavés à 50 °C+, décembre-février sont doux mais peuvent avoir des gelées surprises.",
-          "descriptionEs": "Abril-mayo y septiembre-octubre son ideales — máximas medias 18-25 °C, manejables para un perro, la luz de la vendimia otoñal es fotogénica. Evita mediados de julio a mediados de agosto: calor 35-40 °C con adoquines a 50 °C+, diciembre-febrero son suaves pero pueden tener heladas sorpresa."
+          "descriptionEs": "Abril-mayo y septiembre-octubre son ideales — máximas medias 18-25 °C, manejables para un perro, la luz de la vendimia otoñal es fotogénica. Evita mediados de julio a mediados de agosto: calor 35-40 °C con adoquines a 50 °C+, diciembre-febrero son suaves pero pueden tener heladas sorpresa.",
+          "descriptionPt": "Abril-maio e setembro-outubro são ideales — máximas medias 18-25 °C, manejables para um cão, a luz da vendimia otoñal é fotogénica. Evita mediados de julho a mediados de agosto: calor 35-40 °C com adoquines a 50 °C+, dezembro-fevereiro são suaves mas podem ter heladas sorpresa."
         },
         {
           "name": "Cobblestone hazard",
           "photo": "/images/city-places/toledo-tips-cobblestones.jpg",
           "description": "Toledo's Casco Histórico is mostly steep cobblestones (some sections 15° gradient) — paw stress, slipping in rain, and 50 °C surface temperature in summer are real risks. Boots or paw balm essential year-round; for older or short-legged dogs, the Tourist Train is a kinder alternative.",
           "descriptionFr": "Le Casco Histórico de Toledo est majoritairement pavé et raide (certaines sections à 15° de pente) — stress des coussinets, glissades sous la pluie et température de 50 °C en surface l'été sont des risques réels. Bottines ou baume essentiels toute l'année ; pour les chiens âgés ou aux pattes courtes, le petit train touristique est une alternative plus douce.",
-          "descriptionEs": "El Casco Histórico de Toledo es mayormente adoquinado y empinado (algunas secciones al 15 % de pendiente) — estrés en almohadillas, resbalones con lluvia y temperatura de 50 °C en superficie en verano son riesgos reales. Botines o bálsamo esenciales todo el año; para perros mayores o de patas cortas, el trenecito turístico es una alternativa más suave."
+          "descriptionEs": "El Casco Histórico de Toledo es mayormente adoquinado y empinado (algunas secciones al 15 % de pendiente) — estrés en almohadillas, resbalones con lluvia y temperatura de 50 °C en superficie en verano son riesgos reales. Botines o bálsamo esenciales todo el año; para perros mayores o de patas cortas, el trenecito turístico es una alternativa más suave.",
+          "descriptionPt": "O Casco Histórico de Toledo é mayormente adoquinado e empinado (algunas secciones ao \\15 % de pendiente) — estrés em almohadillas, resbalones com chuva e temperatura de 50 °C em superficie em verão são riesgos reales. Botines o bálsamo esenciales o ano inteiro; para cães mayores o de patas cortas, o trenecito turístico é uma alternativa mais suave."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/toledo-tips-currency-cost.jpg",
           "description": "Spain uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Toledo hotels average 8-12 €/night — among the lowest in Spain after Córdoba and Granada.",
           "descriptionFr": "L'Espagne utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Toledo tournent autour de 8-12 €/nuit — parmi les plus bas d'Espagne après Cordoue et Grenade.",
-          "descriptionEs": "España usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Toledo rondan 8-12 €/noche — de los más bajos de España tras Córdoba y Granada."
+          "descriptionEs": "España usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Toledo rondan 8-12 €/noche — de los más bajos de España tras Córdoba y Granada.",
+          "descriptionPt": "España usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais em hotéis de Toledo rondan 8-12 €/noite — dos mais bajos de España tras Córdoba e Granada."
         }
       ],
       "tipsEn": [
@@ -728,6 +896,23 @@
           "q": "¿Cómo se compara Toledo con Segovia para viajes caninos?",
           "a": "Toledo es más grande, más diversa (patrimonio cristiano + judío + islámico en un solo sitio), más opciones hoteleras dog-friendly. Segovia tiene el icónico acueducto romano y el Alcázar castellano pero un núcleo peatonal más pequeño. Toledo gana para variedad y acceso ferroviario; Segovia para una visita íntima de un día."
         }
+      ],
+      "titlePt": "Viajar a Toledo com cão: consejos prácticos",
+      "introPt": "Toledo — a cidade imperial medieval e antiga capital visigoda, morisca e cristiana — é um museu al aire libre clasificado UNESCO onde o patrimonio cristiano, judío e islámico encontram-se num único promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad.",
+      "tipsPt": [
+        "Toledo é um dos os destinos UNESCO españoles mais asequibles para o viaje canino — suplementos para animais 8-12 €/noite, tarifas hoteleras um 30 % por debajo de Madrid.",
+        "Combina Toledo com excursiones: Madrid (33 min em Avant), Aranjuez (1h de carro), casas colgadas de Cuenca (1h30 de carro).",
+        "O ligação Avant hace de Toledo perfeito para llegada a partir do aeroporto de Madrid — aterriza em MAD, Cercanías a Atocha, cambio Avant, llegada Toledo em 1h10 total."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Toledo é buena para um fin de semana pet-friendly?",
+          "a": "Sí, fora das olas de calor estivales. Toledo combina um Casco Histórico UNESCO, o panorama icónico do desfiladero do Tajo, o Mirador do Valle pet-friendly, e um comboio Avant directo de 33 min a partir de Madrid. Evita julho-agosto (35-40 °C e adoquines a 50 °C); outubro-maio é ideal."
+        },
+        {
+          "q": "¿Como se compara Toledo com Segovia para viajes caninos?",
+          "a": "Toledo é mais grande, mais diversa (patrimonio cristiano + judío + islámico num só sitio), mais opciones hoteleras pet-friendly. Segovia tem o icónico acueducto romano e o Alcázar castellano mas um núcleo peatonal mais pequeño. Toledo gana para variedade e acceso ferroviario; Segovia para uma visita íntima de um dia."
+        }
       ]
     },
     "attractions": {
@@ -753,7 +938,10 @@
           "tip": "Sunset is the iconic Toledo photograph — busy 19:00-21:00 in summer; sunrise (07:00-09:00) is calmer and the dog can run on the surrounding paths.",
           "tipFr": "Le coucher du soleil est la photo iconique de Toledo — chargé de 19h à 21h en été ; le lever du soleil (7h-9h) est plus calme et le chien peut courir sur les sentiers environnants.",
           "tipEs": "El atardecer es la foto icónica de Toledo — concurrido de 19:00 a 21:00 en verano; el amanecer (07:00-09:00) es más tranquilo y el perro puede correr por los senderos cercanos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Valle+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Mirador+del+Valle+Toledo",
+          "descriptionPt": "O mirador icónico a partir do outro lado do desfiladero do Tajo frente al Casco Histórico — o ángulo mais fotografiado do skyline toledano. Grátis 24/7, pet-friendly com cães com trela, parking grátis não sitio.",
+          "petPolicyPt": "Mirador público, cães com trela grátis",
+          "tipPt": "O atardecer é a foto icónica de Toledo — concurrido de 19:00 a 21:00 em verão; o amanecer (07:00-09:00) é mais tranquilo e o cão pode correr pelos trilhos cercanos."
         },
         {
           "name": "Puente de San Martín",
@@ -770,7 +958,10 @@
           "tip": "Cross the bridge and walk the Senda Ecológica circular path back to Puente de Alcántara — 7 km full circuit, the iconic Toledo dog walk.",
           "tipFr": "Traversez le pont et marchez la Senda Ecológica circulaire jusqu'au Puente de Alcántara — boucle complète de 7 km, la promenade canine iconique de Toledo.",
           "tipEs": "Cruza el puente y camina la Senda Ecológica circular hasta el Puente de Alcántara — bucle completo de 7 km, el paseo canino icónico de Toledo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Puente+San+Martin+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Puente+San+Martin+Toledo",
+          "descriptionPt": "Ponte medieval do século XIV com cinco arcos góticos sobre o Tajo não límite oeste do Casco Histórico — o ponte mais fotogénico de Toledo. Aberto 24/7, pet-friendly com cães com trela em todo o lado.",
+          "petPolicyPt": "Ponte público, cães com trela grátis",
+          "tipPt": "Cruza o ponte e camina a Senda Ecológica circular até o Ponte de Alcántara — bucle completo de 7 km, o passeio canino icónico de Toledo."
         },
         {
           "name": "Plaza de Zocodover",
@@ -787,7 +978,10 @@
           "tip": "Mornings (08:00-10:00) are calmest; evenings (19:00-22:00) are the local meet-up time. The Tourist Train and Casco shuttle both depart from this square.",
           "tipFr": "Les matinées (8h-10h) sont les plus calmes ; les soirées (19h-22h) sont l'heure de rencontre locale. Le petit train touristique et la navette du Casco partent tous deux de cette place.",
           "tipEs": "Las mañanas (08:00-10:00) son las más tranquilas; las tardes (19:00-22:00) son la hora de encuentro local. El trenecito turístico y la lanzadera del Casco salen ambos de esta plaza.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Zocodover+Toledo"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Zocodover+Toledo",
+          "descriptionPt": "A praça principal de Toledo não corazón do Casco Histórico — punto de encuentro de todas as ruas medievais, cafés e tabernas alrededor do perímetro. Aberta 24/7, pet-friendly com cães com trela em todo o lado.",
+          "petPolicyPt": "Praça pública, cães com trela grátis",
+          "tipPt": "As mañanas (08:00-10:00) são as mais tranquilas; as tardes (19:00-22:00) são a hora de encuentro local. O trenecito turístico e a lanzadera do Casco salen ambos de esta praça."
         }
       ],
       "tipsEn": [
@@ -834,6 +1028,23 @@
           "q": "¿Se admiten perros en el Mirador del Valle?",
           "a": "Sí — el mirador público y el parking circundante admiten perros con correa gratis todo el año. El trenecito turístico llega allí desde la Plaza de Zocodover con perros con correa admitidos gratis en los vagones abiertos."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Toledo",
+      "introPt": "A maioria dos lugares exteriores emblemáticos de Toledo são pet-friendly — a Praça de Zocodover, o Ponte de Alcántara, o Ponte de San Martín, o Mirador do Valle e a praça da Catedral admiten todos cães com trela grátis.",
+      "tipsPt": [
+        "As atracciones al aire libre de Toledo admiten cães com trela grátis; os museus interiores (Catedral, Museu do Greco, museus das Sinagogas, Alcázar) só admiten cães de assistência.",
+        "O trenecito turístico admite cães grátis com trela nos vagones abertos — a forma mais fácil de chegar al Mirador do Valle sem subir adoquines.",
+        "Excursiones em Avant directo: Madrid (33 min) — cães medianos/grandes com trela requieren bilhete extra + bozal. Combinado com Madrid Cercanías → jardins do palácio real de Aranjuez (exterior pet-friendly)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a catedral de Toledo?",
+          "a": "A Praça Mayor e al exterior da catedral sí, com trela, grátis. O interior da catedral só admite cães de assistência."
+        },
+        {
+          "q": "¿Se admiten cães não Mirador do Valle?",
+          "a": "Sí — o mirador público e o parking circundante admiten cães com trela grátis o ano inteiro. O trenecito turístico llega ali a partir da Praça de Zocodover com cães com trela admitidos grátis nos vagones abertos."
+        }
       ]
     },
     "petsitting": {
@@ -856,7 +1067,9 @@
           "website": "https://www.pawshake.es/toledo",
           "tip": "Filter for English-speaking sitters in the platform settings — about 50% of Toledo sitters speak fluent English thanks to the international tourist base.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 50 % des sitters de Toledo parlent anglais couramment grâce à la base touristique internationale.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 50 % de los cuidadores de Toledo habla inglés con fluidez gracias a la base turística internacional."
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 50 % de los cuidadores de Toledo habla inglés con fluidez gracias a la base turística internacional.",
+          "descriptionPt": "Plataforma internacional com uns 25 cuidadores verificados com base em Toledo num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglés nos ajustes — alrededor do 50 % dos cuidadores de Toledo habla inglés com fluidez gracias a base turística internacional."
         },
         {
           "name": "Gudog Toledo",
@@ -870,7 +1083,9 @@
           "website": "https://gudog.es/toledo",
           "tip": "Book at least 48h ahead in summer (June-August) — Toledo is a major day-trip destination from Madrid, sitters fill up fast.",
           "tipFr": "Réservez au moins 48h à l'avance en été (juin-août) — Toledo est une destination d'excursion majeure depuis Madrid, les sitters se remplissent vite.",
-          "tipEs": "Reserva al menos 48h antes en verano (junio-agosto) — Toledo es un destino de excursión importante desde Madrid, los cuidadores se llenan rápido."
+          "tipEs": "Reserva al menos 48h antes en verano (junio-agosto) — Toledo es un destino de excursión importante desde Madrid, los cuidadores se llenan rápido.",
+          "descriptionPt": "Plataforma española com uns 20 cuidadores verificados de Toledo e línea veterinária 24/7 incluida em cada reserva. Tarifa media 18-25 €/dia para alojamento, 10-12 € por visita de 30 min.",
+          "tipPt": "Reserva al menos 48h antes em verão (junho-agosto) — Toledo é um destino de excursión importante a partir de Madrid, os cuidadores se llenan rápido."
         }
       ],
       "tipsEn": [
@@ -916,6 +1131,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Toledo?",
           "a": "Sí — alrededor del 50 % de los cuidadores de Toledo en Pawshake habla inglés con fluidez gracias al público turístico internacional. Filtra por idioma."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Toledo",
+      "introPt": "Para as excursiones onde o cão não pode ir (interior da catedral, museu do Greco, museus das Sinagogas, Alcázar), Toledo tem pet-sitting fiable e verificado a través de plataformas internacionais e españolas.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Toledo rondan 18-25 €/dia em Pawshake, 25-35 €/dia durante o pico da Semana Santa — das mais bajas de España tras Córdoba e Granada.",
+        "Confirma sempre o nivel de inglés do cuidador antes de reservar se não hablas español — alrededor do 50 % é bilingüe pelo público turístico internacional.",
+        "Varios hotéis boutique do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Toledo?",
+          "a": "18-25 € por dia segundo plataforma e tamanho do cão, vía Pawshake o Gudog. Visitas a domicilio 10-12 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Toledo?",
+          "a": "Sí — alrededor do 50 % dos cuidadores de Toledo em Pawshake habla inglés com fluidez gracias al público turístico internacional. Filtra por idioma."
         }
       ]
     }

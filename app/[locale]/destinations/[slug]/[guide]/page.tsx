@@ -26,37 +26,45 @@ interface GuidePlace {
   description: string
   descriptionFr?: string
   descriptionEs?: string
+  descriptionPt?: string
   // Multilingual pet policy
   petPolicy?: string
   petPolicyFr?: string
   petPolicyEs?: string
+  petPolicyPt?: string
   priceRange?: string
   // Multilingual mustTry
   mustTry?: string
   mustTryFr?: string
   mustTryEs?: string
+  mustTryPt?: string
   // Multilingual hours
   openingHours?: string
   openingHoursFr?: string
   openingHoursEs?: string
+  openingHoursPt?: string
   hours?: string
   hoursFr?: string
   hoursEs?: string
+  hoursPt?: string
   phone?: string
   offLeash?: boolean
   // Multilingual offLeashArea
   offLeashArea?: string
   offLeashAreaFr?: string
   offLeashAreaEs?: string
+  offLeashAreaPt?: string
   // Multilingual tip
   tip?: string
   tipFr?: string
   tipEs?: string
+  tipPt?: string
   season?: string
   // Multilingual rules
   rules?: string
   rulesFr?: string
   rulesEs?: string
+  rulesPt?: string
   facilities?: string
   englishSpeaking?: boolean
   googleMapsUrl?: string
@@ -64,13 +72,16 @@ interface GuidePlace {
   admissionFee?: string
   admissionFeeFr?: string
   admissionFeeEs?: string
+  admissionFeePt?: string
   dogPolicy?: string
   dogPolicyFr?: string
   dogPolicyEs?: string
+  dogPolicyPt?: string
   // New fields for petsitting
   serviceType?: string
   serviceTypeFr?: string
   serviceTypeEs?: string
+  serviceTypePt?: string
   pricePerDay?: string
   languages?: string[]
   rating?: number
@@ -85,34 +96,42 @@ interface GuideSection {
   titleEn: string
   titleFr?: string
   titleEs?: string
+  titlePt?: string
   contentEn: string
   contentFr?: string
   contentEs?: string
+  contentPt?: string
 }
 
 interface GuideData {
   titleEn: string
   titleFr?: string
   titleEs?: string
+  titlePt?: string
   introEn: string
   introFr?: string
   introEs?: string
+  introPt?: string
   places?: GuidePlace[]
-  rules?: Array<{ mode: string; modeFr?: string; modeEs?: string; policy: string; policyFr?: string; policyEs?: string; tip: string; tipFr?: string; tipEs?: string }>
+  rules?: Array<{ mode: string; modeFr?: string; modeEs?: string; modePt?: string; policy: string; policyFr?: string; policyEs?: string; policyPt?: string; tip: string; tipFr?: string; tipEs?: string; tipPt?: string }>
   sections?: GuideSection[]
   tipsEn?: string[]
   tipsFr?: string[]
   tipsEs?: string[]
+  tipsPt?: string[]
   faqsEn?: GuideFaq[]
   faqsFr?: GuideFaq[]
   faqsEs?: GuideFaq[]
+  faqsPt?: GuideFaq[]
   entryRequirements?: {
     euPets: string
     euPetsFr?: string
     euPetsEs?: string
+    euPetsPt?: string
     nonEuPets: string
     nonEuPetsFr?: string
     nonEuPetsEs?: string
+    nonEuPetsPt?: string
     emergencyContacts?: string[]
   }
 }
@@ -189,8 +208,8 @@ export async function generateMetadata({
   if (!dest || !cityGuide || !cityGuide.guides[guide]) return {}
 
   const guideData = cityGuide.guides[guide]
-  const title = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : guideData.titleEn
-  const intro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : guideData.introEn
+  const title = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : guideData.titleEn
+  const intro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : guideData.introEn
   const description = (intro ?? guideData.introEn ?? '').slice(0, 155)
 
   return {
@@ -214,9 +233,10 @@ export async function generateMetadata({
 // ─── Locale helpers ───────────────────────────────────────────────────────────
 
 /** Pick locale-aware value with English fallback */
-function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string): T {
+function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string, pt?: T | undefined): T {
   if (locale === 'fr' && fr) return fr
   if (locale === 'es' && es) return es
+  if (locale === 'pt' && pt) return pt
   return en
 }
 
@@ -225,7 +245,8 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
   const enVal = p[field]
   const frVal = p[`${field}Fr`]
   const esVal = p[`${field}Es`]
-  return loc(enVal ?? '', frVal, esVal, locale)
+  const ptVal = p[`${field}Pt`]
+  return loc(enVal ?? '', frVal, esVal, locale, ptVal)
 }
 
 // ─── UI label maps ────────────────────────────────────────────────────────────
@@ -341,10 +362,10 @@ export default async function GuideDetailPage({
   const dict = await getDictionary(locale as Locale)
   const ui = uiLabels(locale)
 
-  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : null) ?? guideData.titleEn
-  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : null) ?? guideData.introEn
-  const tips = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : null) ?? guideData.tipsEn ?? []
-  const faqs = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : null) ?? guideData.faqsEn ?? []
+  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : null) ?? guideData.titleEn
+  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : null) ?? guideData.introEn
+  const tips = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : null) ?? guideData.tipsEn ?? []
+  const faqs = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : null) ?? guideData.faqsEn ?? []
 
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])
@@ -670,7 +691,7 @@ export default async function GuideDetailPage({
                   {guideData.rules.map((rule, i) => {
                     const mode = loc(rule.mode, rule.modeFr, rule.modeEs, locale)
                     const policy = loc(rule.policy, rule.policyFr, rule.policyEs, locale)
-                    const tip = loc(rule.tip, rule.tipFr, rule.tipEs, locale)
+                    const tip = loc(rule.tip, rule.tipFr, rule.tipEs, locale, rule.tipPt)
                     return (
                       <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50/50'}>
                         <td className="px-4 py-3 font-medium text-gray-900 align-top">{mode}</td>
@@ -716,8 +737,8 @@ export default async function GuideDetailPage({
         {guideData.sections && guideData.sections.length > 0 && (
           <section className="mb-12 space-y-6">
             {guideData.sections.map((section, i) => {
-              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : null) ?? section.titleEn
-              const secContent = (locale === 'fr' ? section.contentFr : locale === 'es' ? section.contentEs : null) ?? section.contentEn
+              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : null) ?? section.titleEn
+              const secContent = (locale === 'fr' ? section.contentFr : locale === 'es' ? section.contentEs : locale === 'pt' ? section.contentPt : null) ?? section.contentEn
               return (
                 <div key={i} className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
                   <h3 className="font-bold text-gray-900 text-lg mb-3">{secTitle}</h3>

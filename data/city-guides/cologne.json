@@ -33,7 +33,11 @@
           "tip": "Köbes servers automatically bring a new Kölsch when yours is empty — place a coaster on top of your glass to signal you're done.",
           "tipFr": "Les serveurs Köbes apportent automatiquement une nouvelle Kölsch quand la vôtre est terminée — posez un sous-bock sur votre verre pour signaler que vous avez fini.",
           "tipEs": "Los camareros Köbes traen automáticamente una nueva Kölsch cuando terminas la tuya: pon un posavasos encima del vaso para indicar que has terminado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brauhaus+Sion+Unter+Taschenmacher+Köln"
+          "googleMapsUrl": "https://maps.google.com/?q=Brauhaus+Sion+Unter+Taschenmacher+Köln",
+          "descriptionPt": "Uma das Brauhäuser mais antigas de Colónia, com raíces que se remontan a 1318 na mesma rua. Brauhaus Sion sirve a tradicional Kölsch nos longos vasos característicos, traídos pelos camareros ambulantes llamados Köbes. Os cães são bem-vindos nas mesas da esplanada exterior adoquinada. A comida são os platos típicos de Renania: Himmel um Ääd (morcilla com puré e compota de manzana), Reibekuchen (tortitas de patata) e halve Hahn (pan de centeno com queso).",
+          "petPolicyPt": "Cães admitidos na esplanada exterior",
+          "mustTryPt": "Himmel um Ääd com um vaso de Kölsch",
+          "tipPt": "Os camareros Köbes traen automáticamente uma nueva Kölsch quando terminas a tuya: pon um posavasos encima do vaso para indicar que tens terminado."
         }
       ],
       "tipsEn": [
@@ -68,6 +72,19 @@
           "q": "¿Se permiten perros dentro de los restaurantes de Colonia?",
           "a": "Generalmente sí en las Brauhäuser tradicionales y en los restaurantes informales. La ley alemana deja la decisión a los propietarios, y la cultura canina de Colonia significa que la mayoría de los espacios interiores aceptan perros bien portados con correa. Los restaurantes de alto nivel pueden pedir que los perros permanezcan fuera."
         }
+      ],
+      "titlePt": "Restaurantes com animais em Colónia",
+      "introPt": "Colónia é uma das as cidades mais amigables para cães de Alemania, e a cultura gastronómica alemana acoge generalmente muito bem aos cães bem educados. As Brauhäuser —as cervecerías tradicionales que sirven Kölsch e comida local contundente— casi todas têm esplanadas exteriores onde os cães são bem-vindos. Muitas lo estendem al interior, especialmente nos meses mais frescos. O Altstadt (centro histórico) e as esplanadas a margens do Rin são as melhores zonas para cenar com tu cão.",
+      "tipsPt": [
+        "Pregunta '¿Darf mein Hund mit rein?' (¿Pode entrar mi cão?) — a maioria dos restaurantes de Colónia dirán que sí se o cão está tranquilo e com trela.",
+        "O passeio fluvial do Rin a partir do Altstadt até Deutz tem uma longa franja de esplanadas de cafés exteriores, casi todas aptas para cães, excelente para comer com vistas.",
+        "Os tigelas de água para cães se ofrecen habitualmente nas Brauhäuser tradicionales de Colónia: não é necesario levar uma tigela plegable se haces o circuito clásico do Altstadt."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se permiten cães dentro dos restaurantes de Colónia?",
+          "a": "Generalmente sí nas Brauhäuser tradicionales e nos restaurantes informales. A lei alemana deja a decisión aos propietarios, e a cultura canina de Colónia significa que a maioria dos espacios interiores aceitam cães bem portados com trela. Os restaurantes de alto nivel podem pedir que os cães permanezcan fuera."
+        }
       ]
     },
     "parks": {
@@ -93,7 +110,10 @@
           "tip": "Bring tick protection in spring and summer — the Stadtwald's dense undergrowth is high-risk tick territory in Cologne.",
           "tipFr": "Prévoyez une protection antiparasitaire contre les tiques au printemps et en été — la végétation dense du Stadtwald est une zone à fort risque de tiques à Cologne.",
           "tipEs": "Lleva protección antiparasitaria contra garrapatas en primavera y verano: la densa vegetación del Stadtwald es zona de alto riesgo de garrapatas en Colonia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stadtwald+Köln+Lindenthal"
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtwald+Köln+Lindenthal",
+          "descriptionPt": "O floresta urbano mais grande de Colónia, que abarca varios cientos de hectáreas não bairro de Lindenthal. O lado norte do Stadtwald tem uma gran zona de libertad designada (Hundeauslauf) onde os cães podem correr libremente. Os trilhos boscosos e as pradarias abertas lo tornam no melhor destino de passeio canino com cualquier tiempo. Acessível não elétrico (línea 1 até Dürener Straße/Gürtel).",
+          "offLeashAreaPt": "Zona de libertad designada não lado norte do floresta",
+          "tipPt": "Lleva protección antiparasitaria contra garrapatas em primavera e verão: a densa vegetación do Stadtwald é zona de alto riesgo de garrapatas em Colónia."
         },
         {
           "name": "Rheinpark",
@@ -110,7 +130,10 @@
           "tip": "The Rheinpark is the best place in Cologne to combine a dog walk with the classic cathedral-and-Rhine skyline photo — cross the Hohenzollernbrücke (covered in love padlocks) for the approach.",
           "tipFr": "Le Rheinpark est le meilleur endroit à Cologne pour combiner une balade avec chien et la photo emblématique cathédrale-Rhin — traversez le Hohenzollernbrücke (couvert de cadenas d'amour) pour l'approche.",
           "tipEs": "El Rheinpark es el mejor lugar en Colonia para combinar un paseo con perro con la foto clásica de la catedral y el Rin: cruza el Hohenzollernbrücke (cubierto de candados de amor) para la aproximación.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rheinpark+Köln+Deutz"
+          "googleMapsUrl": "https://maps.google.com/?q=Rheinpark+Köln+Deutz",
+          "descriptionPt": "Um parque ribereño pintoresco na margem este do Rin em Deutz, com vistas panorámicas da catedral de Colónia. As amplias pradarias junto ao rio permiten aos cães correr, e o parque se conecta com um trilho mais longo de ciclismo e senderismo a lo longo do Rin. Acessível pelo ponte Hohenzollernbrücke a partir do Altstadt o não elétrico até Köln Messe/Deutz.",
+          "offLeashAreaPt": "Pradarias abertas junto a margem do rio; sem trela é habitual nas zonas abertas",
+          "tipPt": "O Rheinpark é o melhor lugar em Colónia para combinar um passeio com cão com a foto clásica da catedral e o Rin: cruza o Hohenzollernbrücke (cubierto de candados de amor) para a aproximación."
         },
         {
           "name": "Nippeser Tälchen",
@@ -127,7 +150,10 @@
           "tip": "Weekend mornings from 8–10am draw a reliable crowd of local dog owners — a great way to meet Cologne's dog community.",
           "tipFr": "Les matins de week-end de 8h à 10h attirent un groupe régulier de propriétaires de chiens locaux — un excellent moyen de rencontrer la communauté canine de Cologne.",
           "tipEs": "Los fines de semana por la mañana de 8 a 10h atraen a un grupo habitual de dueños de perros locales: una excelente manera de conocer a la comunidad canina de Colonia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Nippeser+Tälchen+Köln"
+          "googleMapsUrl": "https://maps.google.com/?q=Nippeser+Tälchen+Köln",
+          "descriptionPt": "Um querido parque de bairro em Nippes com reputación de ser uno dos melhores lugares de Colónia para a socialización canina. O parque tem um terreno com forma de valle com trilhos naturais, um pequeño arroyo e reuniones regulares de propietarios de cães locales, especialmente os fines de semana pela manhã. Acceso sem trela na zona designada.",
+          "offLeashAreaPt": "Zona de libertad designada na secção do valle",
+          "tipPt": "Os fines de semana pela manhã de 8 a 10h atraen a um grupo habitual de dueños de cães locales: uma excelente manera de conocer a comunidad canina de Colónia."
         }
       ],
       "tipsEn": [
@@ -162,6 +188,19 @@
           "q": "¿Necesito mantener a mi perro con correa en los parques de Colonia?",
           "a": "En las zonas de libertad designadas (Hundeauslaufgebiete), los perros pueden ir sin correa. Fuera de estas zonas, la correa es obligatoria según las normas municipales de Colonia. Se aplican multas por infracciones. Los carteles en las entradas de los parques indican los requisitos de correa para cada zona."
         }
+      ],
+      "titlePt": "Parques com cães em Colónia",
+      "introPt": "Colónia tem mais de 111 parques onde os cães podem disfrutar do espacio verde, e a cidade mantiene uma red de zonas de libertad designadas (Hundeauslaufgebiete) em todos os distritos. As melhores zonas são o Stadtwald (um gran parque forestal com zonas de libertad), o Rheinpark (a margens do Rin, com vistas panorámicas) e o Nippeser Tälchen não bairro de Nippes.",
+      "tipsPt": [
+        "Descarga a aplicación DogPack antes de chegar: tem um mapa utilizable sem conexión dos 19 parques sem trela de Colónia com valoraciones de usuarios.",
+        "O parque Merheimer Heide tem dos zonas de libertad separadas em extremos opuestos: útil se tu cão não se lleva bem com os cães de uno dos lados.",
+        "Os parques de Colónia estão bem mantenidos durante o ano inteiro; os passeios invernales pelo Stadtwald podem ser especialmente atmosféricos quando a escarcha matutina permanece nos árvores."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Necesito mantener a mi cão com trela nos parques de Colónia?",
+          "a": "Nas zonas de libertad designadas (Hundeauslaufgebiete), os cães podem ir sem trela. Fora de estas zonas, a trela é obrigatória segundo as normas municipales de Colónia. Se aplican multas por infrações. Os cartazes nas entradas dos parques indican os requisitos de trela para cada zona."
+        }
       ]
     },
     "transport": {
@@ -178,7 +217,9 @@
           "modeEs": "Tranvía KVB, U-Bahn y autobús urbano",
           "policy": "Dogs must be on a lead at all times (per KVB Hausordnung at kvb.koeln/service/hausordnung.html). Small dogs in closed carriers: free. Larger dogs: child's single ticket required. Dogs may not occupy seats. Maximum 1 dog per passenger. Muzzle not required by KVB rules, but aggressive dogs may be refused.",
           "policyFr": "Les chiens doivent être tenus en laisse à tout moment (selon le Hausordnung KVB sur kvb.koeln/service/hausordnung.html). Petits chiens dans des sacs fermés : gratuit. Chiens plus grands : ticket enfant simple requis. Les chiens ne peuvent pas occuper les sièges. Maximum 1 chien par passager. La muselière n'est pas requise par le règlement KVB, mais les chiens agressifs peuvent être refusés.",
-          "policyEs": "Los perros deben mantenerse con correa en todo momento (según el Hausordnung de KVB en kvb.koeln/service/hausordnung.html). Perros pequeños en transportines cerrados: gratis. Perros más grandes: billete de niño requerido. Los perros no pueden ocupar asientos. Máximo 1 perro por pasajero. El bozal no es obligatorio según las normas KVB, pero los perros agresivos pueden ser rechazados."
+          "policyEs": "Los perros deben mantenerse con correa en todo momento (según el Hausordnung de KVB en kvb.koeln/service/hausordnung.html). Perros pequeños en transportines cerrados: gratis. Perros más grandes: billete de niño requerido. Los perros no pueden ocupar asientos. Máximo 1 perro por pasajero. El bozal no es obligatorio según las normas KVB, pero los perros agresivos pueden ser rechazados.",
+          "modePt": "Elétrico KVB, U-Bahn e autocarro urbano",
+          "policyPt": "Os cães devem mantenerse com trela em todo momento (segundo o Hausordnung de KVB em kvb.koeln/service/hausordnung.html). Cães pequeños em transportines fechados: grátis. Cães mais grandes: bilhete de criança requerido. Os cães não podem ocupar asientos. Máximo 1 cão por pasajero. O bozal não é obrigatório segundo as normas KVB, mas os cães agresivos podem ser rechazados."
         },
         {
           "mode": "Deutsche Bahn (National Rail)",
@@ -186,7 +227,9 @@
           "modeEs": "Deutsche Bahn (Tren nacional)",
           "policy": "Small dogs in a carrier (fitting under the seat): free. Dogs larger than carrier size: require a child's ticket at half the adult fare. Maximum 2 dogs per passenger. Dogs must be on a lead, must not occupy seats, and in some services a muzzle is required for large dogs. Book dog tickets online at bahn.de or at station machines.",
           "policyFr": "Petits chiens dans un sac de transport (tenant sous le siège) : gratuit. Les chiens plus grands que la taille du sac nécessitent un billet enfant à la moitié du tarif adulte. Maximum 2 chiens par passager. Les chiens doivent être en laisse, ne pas occuper les sièges, et dans certains services une muselière est requise pour les grands chiens.",
-          "policyEs": "Perros pequeños en transportín (que cabe bajo el asiento): gratis. Los perros más grandes que el transportín necesitan un billete de niño a mitad del precio adulto. Máximo 2 perros por pasajero. Los perros deben ir con correa, no pueden ocupar asientos y en algunos servicios se requiere bozal para perros grandes."
+          "policyEs": "Perros pequeños en transportín (que cabe bajo el asiento): gratis. Los perros más grandes que el transportín necesitan un billete de niño a mitad del precio adulto. Máximo 2 perros por pasajero. Los perros deben ir con correa, no pueden ocupar asientos y en algunos servicios se requiere bozal para perros grandes.",
+          "modePt": "Deutsche Bahn (Comboio nacional)",
+          "policyPt": "Cães pequeños em transportadora (que cabe sob o asiento): grátis. Os cães mais grandes que o transportadora necesitan um bilhete de criança a mitad do preço adulto. Máximo 2 cães por pasajero. Os cães devem ir com trela, não podem ocupar asientos e em algunos serviços se requiere bozal para cães grandes."
         }
       ],
       "sections": [
@@ -196,7 +239,9 @@
           "titleEs": "Enlaces de transporte útiles",
           "contentEn": "KVB journey planner and network maps: kvb.koeln/en. KVB house rules (Hausordnung) including animal policy: kvb.koeln/service/hausordnung.html. Deutsche Bahn journey planner with dog ticket: bahn.de/en. Dog ticket on DB can be added during booking under 'additional services'.",
           "contentFr": "Planificateur de trajet KVB et plans du réseau : kvb.koeln. Règlement intérieur KVB (Hausordnung) incluant la politique animaux : kvb.koeln/service/hausordnung.html. Planificateur de trajet Deutsche Bahn avec billet chien : bahn.de.",
-          "contentEs": "Planificador de viajes KVB y mapas de red: kvb.koeln/en. Reglamento interno de KVB (Hausordnung) incluyendo política de animales: kvb.koeln/service/hausordnung.html. Planificador de viajes de Deutsche Bahn con billete de perro: bahn.de/en."
+          "contentEs": "Planificador de viajes KVB y mapas de red: kvb.koeln/en. Reglamento interno de KVB (Hausordnung) incluyendo política de animales: kvb.koeln/service/hausordnung.html. Planificador de viajes de Deutsche Bahn con billete de perro: bahn.de/en.",
+          "titlePt": "Ligações de transporte útiles",
+          "contentPt": "Planificador de viajes KVB e mapas de red: kvb.koeln/em. Reglamento interno de KVB (Hausordnung) incluyendo política de animales: kvb.koeln/service/hausordnung.html. Planificador de viajes de Deutsche Bahn com bilhete de cão: bahn.de/em."
         }
       ],
       "faqsEn": [
@@ -216,6 +261,14 @@
           "q": "¿Mi perro puede viajar en los tranvías y trenes KVB de Colonia?",
           "a": "Sí. Los perros pequeños en transportines cerrados viajan gratis. Los perros más grandes necesitan un billete de niño. Los perros deben ir con correa y no pueden ocupar asientos. Esto se aplica a todos los tranvías, líneas de U-Bahn y autobuses urbanos de KVB."
         }
+      ],
+      "titlePt": "Moverse por Colónia com tu cão",
+      "introPt": "O Kölner Verkehrs-Betriebe (KVB) opera os elétricos, o U-Bahn (metro urbano) e a red de autocarros urbanos de Colónia. Os cães estão permitidos em todos os serviços KVB segundo o Hausordnung (reglamento) oficial, mas devem mantenerse com trela em todo momento e não podem sentarse nos asientos. Os cães pequeños em transportines viajan grátis. Os cães mais grandes necesitan um bilhete de criança.",
+      "faqsPt": [
+        {
+          "q": "¿Mi cão pode viajar nos elétricos e comboios KVB de Colónia?",
+          "a": "Sí. Os cães pequeños em transportines fechados viajan grátis. Os cães mais grandes necesitan um bilhete de criança. Os cães devem ir com trela e não podem ocupar asientos. Esto se aplica a todos os elétricos, líneas de U-Bahn e autocarros urbanos de KVB."
+        }
       ]
     },
     "beaches": {
@@ -228,7 +281,10 @@
       "places": [],
       "faqsEn": [],
       "faqsFr": [],
-      "faqsEs": []
+      "faqsEs": [],
+      "titlePt": "Praias perto de Colónia",
+      "introPt": "Contenido próximamente — estamos investigando as melhores opciones para usted.",
+      "faqsPt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Cologne — Veterinary Clinics & Pet Care",
@@ -248,7 +304,9 @@
         "euPetsFr": "Passeport européen valide + puce + vaccination antirabique à jour. Aucun test supplémentaire requis pour les voyages entre États membres de l'UE.",
         "nonEuPetsFr": "Certificat sanitaire du pays d'origine, puce ISO (11784/11785), vaccination antirabique valide. Les animaux américains nécessitent le formulaire APHIS 7001.",
         "euPetsEs": "Pasaporte europeo válido + microchip + vacuna antirrábica al día. No se requieren pruebas adicionales para viajes entre estados miembros de la UE.",
-        "nonEuPetsEs": "Certificado sanitario del país de origen, microchip ISO (11784/11785), vacuna antirrábica válida. Las mascotas estadounidenses necesitan el formulario APHIS 7001."
+        "nonEuPetsEs": "Certificado sanitario del país de origen, microchip ISO (11784/11785), vacuna antirrábica válida. Las mascotas estadounidenses necesitan el formulario APHIS 7001.",
+        "euPetsPt": "Passaporte europeu válido + microchip + vacina antirrábica ao dia. Não se requieren pruebas adicionales para viajes entre estados miembros da UE.",
+        "nonEuPetsPt": "Certificado sanitario do país de origen, microchip ISO (11784/11785), vacina antirrábica válida. As animais estadounidenses necesitan o formulario APHIS 7001."
       },
       "places": [
         {
@@ -268,7 +326,10 @@
           "tipFr": "Pour la ligne d'urgence, composez le +49 221 47 45 43 911 (le numéro principal de la clinique est le 0221 474543-0 pour les rendez-vous réguliers).",
           "tipEs": "Para la línea de urgencias, marca +49 221 47 45 43 911 (el número principal de la clínica es 0221 474543-0 para citas regulares).",
           "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Köln+Brühler+Straße+183+Köln",
-          "photo": "/images/city-places/cologne-vets-tierklinik-koln-sud-dr-kellerwessel.jpg"
+          "photo": "/images/city-places/cologne-vets-tierklinik-koln-sud-dr-kellerwessel.jpg",
+          "hoursPt": "24 horas, 7 dias a semana",
+          "descriptionPt": "Clínica veterinária moderna em Colónia-Sur com serviço de urgências 24/7. Unidad completa de medicina de urgências com resonancia magnética, TC e departamentos especializados. Situada em Rodenkirchen não sur da cidade, acessível de carro a partir do intercambiador A4/A555.",
+          "tipPt": "Para a línea de urgências, marca +49 221 47 45 43 911 (o número principal da clínica é 0221 474543-0 para citas regulares)."
         },
         {
           "name": "Vet Zentrum Köln",
@@ -287,7 +348,10 @@
           "tipFr": "Situé plus près du centre-ville que la Tierklinik Köln-Süd — plus rapide à atteindre depuis l'Altstadt ou les hôtels centraux.",
           "tipEs": "Ubicado más cerca del centro de la ciudad que la Tierklinik Köln-Süd: más rápido de alcanzar desde el Altstadt o los hoteles del centro.",
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Zentrum+Köln+Scheidtweilerstraße+19+Köln",
-          "photo": "/images/city-places/cologne-vets-vet-zentrum-koln.jpg"
+          "photo": "/images/city-places/cologne-vets-vet-zentrum-koln.jpg",
+          "hoursPt": "24 horas, 365 dias ao ano",
+          "descriptionPt": "Clínica veterinária para animales pequeños em Braunsfeld (oeste de Colónia) com serviço de urgências 24/7 o ano inteiro. Oito veterinários em rotación de urgências. Também ofrece consultas específicas para gatos. Ubicada perto do anillo interior, acessível por U-Bahn até Braunsfeld.",
+          "tipPt": "Ubicado mais cerca do centro da cidade que a Tierklinik Köln-Süd: mais rápido de alcanzar a partir do Altstadt o os hotéis do centro."
         }
       ],
       "faqsEn": [
@@ -307,6 +371,14 @@
           "q": "¿Cuál es el número de veterinario de urgencias en Colonia?",
           "a": "Para urgencias 24/7: Tierklinik Köln-Süd en +49 221 47 45 43 911, o Vet Zentrum Köln en +49 221 545764. Ambos están abiertos las 24 horas, durante todo el año."
         }
+      ],
+      "titlePt": "Veterinário de urgências em Cologne — Hospitales e clínicas veterinárias",
+      "introPt": "Colónia cuenta com uma cobertura veterinária de urgências 24/7 fiable. As dos opciones principales são a Tierklinik Köln-Süd (Dr. Kellerwessel) e o Vet Zentrum Köln, ambas ofreciendo atención de emergência continua durante o ano inteiro. O sistema veterinário alemán é de alta calidad e os costes são comparables o ligeramente inferiores aos de outras grandes cidades de Europa Occidental.",
+      "faqsPt": [
+        {
+          "q": "¿Cuál é o número de veterinário de urgências em Colónia?",
+          "a": "Para urgências 24/7: Tierklinik Köln-Süd em +49 221 47 45 43 911, o Vet Zentrum Köln em +49 221 545764. Ambos estão abertos as 24 horas, durante o ano inteiro."
+        }
       ]
     },
     "tips": {
@@ -323,7 +395,9 @@
           "titleEs": "Normas para perros en Colonia",
           "contentEn": "Dogs must be on a lead in all public areas outside designated off-leash zones. Fouling fines apply (typically €35). Dog tax (Hundesteuer) is required for dogs kept in Cologne — as a visitor this does not apply, but local owners must register their dogs and wear a tax disc (Hundemarke). No breed bans at federal level, but North Rhine-Westphalia requires a temperament test and special permit for some breeds — check current NRW rules if travelling with a breed on the restricted list.",
           "contentFr": "Les chiens doivent être tenus en laisse dans tous les lieux publics en dehors des zones de liberté désignées. Des amendes pour déjections sont appliquées (généralement 35 €). La taxe canine (Hundesteuer) est requise pour les chiens gardés à Cologne — en tant que visiteur, cela ne s'applique pas à vous, mais les propriétaires locaux doivent enregistrer leurs chiens. Pas d'interdiction de race au niveau fédéral, mais la Rhénanie-du-Nord-Westphalie exige un test de comportement et un permis spécial pour certaines races.",
-          "contentEs": "Los perros deben ir con correa en todos los espacios públicos fuera de las zonas de libertad designadas. Se aplican multas por excrementos (normalmente 35 €). El impuesto de perros (Hundesteuer) es obligatorio para los perros que viven en Colonia: como visitante no te afecta, pero los dueños locales deben registrar a sus perros. No hay prohibición de razas a nivel federal, pero Renania del Norte-Westfalia exige una prueba de temperamento y permiso especial para algunas razas."
+          "contentEs": "Los perros deben ir con correa en todos los espacios públicos fuera de las zonas de libertad designadas. Se aplican multas por excrementos (normalmente 35 €). El impuesto de perros (Hundesteuer) es obligatorio para los perros que viven en Colonia: como visitante no te afecta, pero los dueños locales deben registrar a sus perros. No hay prohibición de razas a nivel federal, pero Renania del Norte-Westfalia exige una prueba de temperamento y permiso especial para algunas razas.",
+          "titlePt": "Normas para cães em Colónia",
+          "contentPt": "Os cães devem ir com trela em todos os espacios públicos fora das zonas de libertad designadas. Se aplican multas por excrementos (normalmente 35 €). O impuesto de cães (Hundesteuer) é obrigatório para os cães que viven em Colónia: como visitante não te afecta, mas os dueños locales devem registrar aos seus cães. Não hay prohibición de razas a nivel federal, mas Renania do norte-Westfalia exige uma prueba de temperamento e permiso especial para algunas razas."
         }
       ],
       "places": [],
@@ -346,6 +420,15 @@
         {
           "q": "¿El Altstadt de Colonia es transitable con un perro?",
           "a": "Sí: las calles adoquinadas peatonalizadas del Altstadt son excelentes para caminar con un perro. La principal calle comercial Hohe Straße es solo para peatones. El paseo ribereño del Rin a lo largo del Altstadt es uno de los recorridos de paseo más aptos para perros de la ciudad."
+        }
+      ],
+      "titlePt": "Consejos para viajar a Colónia com tu cão",
+      "introPt": "Colónia é um destino excelente para os dueños de cães: a cultura da cidade é descontraída respecto aos cães em público, os parques estão bem mantenidos e o Altstadt é muito transitable por os seus ruas adoquinadas peatonales. Os principales desafíos prácticos são os veranos acolhedores (o Rin proporciona puntos de refrigeración) e a temporada de Carnaval (finales de fevereiro/principios de março), quando o Altstadt se vuelve extremadamente concurrido e estresante para os cães sensibles al ruido.",
+      "tipsPt": [],
+      "faqsPt": [
+        {
+          "q": "¿O Altstadt de Colónia é transitable com um cão?",
+          "a": "Sí: as ruas adoquinadas peatonalizadas do Altstadt são excelentes para caminhar com um cão. A principal rua comercial Hohe Straße é só para peatones. O passeio ribereño do Rin a lo longo do Altstadt é um dos os recorridos de passeio mais aptos para cães da cidade."
         }
       ]
     },
@@ -374,7 +457,11 @@
           "tip": "The Hohenzollernbrücke is free to walk and provides the best dog-and-cathedral photo opportunity. Cross to the Deutz side for the perfect symmetrical shot.",
           "tipFr": "Le Hohenzollernbrücke est gratuit à traverser et offre la meilleure opportunité photo chien-cathédrale. Traversez côté Deutz pour le cliché symétrique parfait.",
           "tipEs": "El Hohenzollernbrücke es gratuito y proporciona la mejor oportunidad de foto perro-catedral. Cruza al lado de Deutz para la foto simétrica perfecta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cologne+Cathedral+Köln"
+          "googleMapsUrl": "https://maps.google.com/?q=Cologne+Cathedral+Köln",
+          "descriptionPt": "A catedral do Patrimonio Mundial da UNESCO domina o horizonte da cidade. Os cães não estão admitidos no interior, mas a gran explanada (Domplatte) e as zonas peatonales circundantes são aptas para cães. A vista da catedral a partir do Hohenzollernbrücke (o ponte dos candados de amor) é um dos os lugares mais fotogénicos de Alemania, e os cães são bem-vindos não ponte.",
+          "dogPolicyPt": "Cães não admitidos no interior; exterior, explanada e alrededores completamente aptos para cães",
+          "admissionFeePt": "Exterior da catedral: grátis. Subida a torre: 6 € adultos; cães não admitidos na torre.",
+          "tipPt": "O Hohenzollernbrücke é gratuito e proporciona a melhor oportunidad de foto cão-catedral. Cruza al lado de Deutz para a foto simétrica perfeita."
         }
       ],
       "tipsEn": [
@@ -406,6 +493,18 @@
           "q": "¿Puedo visitar la Catedral de Colonia con mi perro?",
           "a": "No en el interior. Los perros no están permitidos dentro de la catedral. Sin embargo, la gran explanada Domplatte, el Hohenzollernbrücke y el paseo ribereño del Rin directamente debajo de la catedral son completamente aptos para perros y forman un circuito de paseo natural."
         }
+      ],
+      "titlePt": "Atracciones com cães em Colónia",
+      "introPt": "As principales atracciones de interior de Colónia —a Catedral de Colónia, o Museu Romano-Germánico, o Museu do Chocolate— não admiten cães. O exterior da Catedral de Colónia é de libre acceso e apto para cães, e o passeio ribereño do Rin ofrece a melhor experiencia urbana para cães em Colónia.",
+      "tipsPt": [
+        "O passeio ribereño do Rin a partir do Altstadt até o Rheinpark (cruzando o Hohenzollernbrücke) hace um recorrido de ida e vuelta de 4–5 km com vista para a catedral, o ponte e o parque ribereño.",
+        "O Museu do Chocolate de Colónia não admite cães, mas o seu esplanada do café junto ao Rin é acessível para cães e vale a pena parar a tomar um café."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo visitar a Catedral de Colónia com mi cão?",
+          "a": "Não no interior. Os cães não estão permitidos dentro da catedral. Não entanto, a gran explanada Domplatte, o Hohenzollernbrücke e o passeio ribereño do Rin directamente debajo da catedral são completamente aptos para cães e forman um circuito de passeio natural."
+        }
       ]
     },
     "petsitting": {
@@ -432,7 +531,10 @@
           ],
           "tip": "Filter for 'English-speaking sitters' in Rover's search if language is a concern — Cologne has a large expat community with bilingual sitters.",
           "tipFr": "Filtrez pour 'gardiens anglophones' dans la recherche Rover si la langue est une préoccupation — Cologne a une grande communauté expatriée avec des gardiens bilingues.",
-          "tipEs": "Filtra por 'cuidadores anglófonos' en la búsqueda de Rover si el idioma es una preocupación: Colonia tiene una gran comunidad de expatriados con cuidadores bilingües."
+          "tipEs": "Filtra por 'cuidadores anglófonos' en la búsqueda de Rover si el idioma es una preocupación: Colonia tiene una gran comunidad de expatriados con cuidadores bilingües.",
+          "descriptionPt": "A plataforma alemana de Rover com 453 paseadores de cães em Colónia (março de 2026). Todos os cuidadores pasan verificaciones de antecedentes. Serviços: passeios, alojamento em casa, visitas de control e guardería diurna. Coste medio: ~14 € por passeio de 30 min.",
+          "serviceTypePt": "Passeios, alojamento, visitas, guardería diurna",
+          "tipPt": "Filtra por 'cuidadores anglófonos' na búsqueda de Rover se o idioma é uma preocupación: Colónia tem uma gran comunidad de expatriados com cuidadores bilingües."
         }
       ],
       "tipsEn": [
@@ -463,6 +565,18 @@
         {
           "q": "¿Hay paseadores de perros que hablen inglés en Colonia?",
           "a": "Sí: Colonia tiene una gran comunidad internacional y de expatriados, y muchos cuidadores de mascotas en Rover.de y Pawshake.de indican el inglés como idioma. Filtra por preferencia de idioma al buscar."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães em Colónia",
+      "introPt": "Colónia tem um mercado de cuidado de animais bem establecido a través de Rover.de e Pawshake.de, com 453 paseadores de cães registrados em Rover em março de 2026. O coste medio de um passeio de 30 minutos é de aproximadamente 14 €. Alemania requiere que os paseadores de cães tenham conocimientos suficientes sobre o manejo canino.",
+      "tipsPt": [
+        "O mercado de cuidado de animais em Colónia se concentra nos bairros de Innenstadt, Ehrenfeld e Nippes: encontra um cuidador perto de tu hotel para passeios de recogida mais cortos.",
+        "O Hundesteuer alemán (impuesto de cães) requiere que os cães locales lleven uma etiqueta Hundemarke: não lo confundas com um requisito de identificação oficial para os cães visitantes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay paseadores de cães que hablen inglés em Colónia?",
+          "a": "Sí: Colónia tem uma gran comunidad internacional e de expatriados, e muitos cuidadores de animais em Rover.de e Pawshake.de indican o inglés como idioma. Filtra por preferencia de idioma al buscar."
         }
       ]
     }

@@ -33,7 +33,11 @@
           "tip": "Sunday between 13:00 and 16:00 is the city's classic dog-roast slot — book the back-courtyard table 48 hours ahead.",
           "tipFr": "Le dimanche entre 13h et 16h est le créneau classique du roast dominical avec chien — réservez la table de la cour arrière 48 heures à l'avance.",
           "tipEs": "El domingo entre las 13:00 y las 16:00 es la franja clásica del roast dominical con perro: reserva la mesa del patio trasero con 48 horas de antelación.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Bay+Horse+Tavern+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Bay+Horse+Tavern+Manchester",
+          "descriptionPt": "Pub veterano do Northern Quarter em Thomas Street, citado a menudo como o pub mais fiable de Manchester com cães. Os cães acompañan aos clientes em todas as plantas — barra, comedor e patio trasero — e junto a caja sempre hay um tarro de premios. Bottomless brunch os fines de semana, platos británicos clásicos (pies, fish and chips, Sunday roast) e buena carta de cerveja artesana local.",
+          "petPolicyPt": "Cães admitidos em todas as plantas; premios na barra",
+          "mustTryPt": "Sunday roast, pastel de carne e cerveja, cerveja artesana de Manchester",
+          "tipPt": "O domingo entre as 13:00 e as 16:00 é a franja clásica do roast dominical com cão: reserva a mesa do patio trasero com 48 horas de antelación."
         },
         {
           "name": "The Counter House",
@@ -55,7 +59,11 @@
           "tip": "Ask for the pup menu when ordering — it isn't always brought to the table unless you mention the dog.",
           "tipFr": "Demandez le menu canin au moment de commander — il n'arrive pas toujours sauf si vous mentionnez le chien.",
           "tipEs": "Pide la carta canina al pedir: no la traen siempre salvo que menciones al perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Counter+House+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Counter+House+Manchester",
+          "descriptionPt": "Local Ancoats aberto todo o dia em Halle Square, muito frecuentado pelos locales com cão e carrito. Os cães são bem-vindos na esplanada e na parte delantera do interior, e a cozinha ofrece uma pequeña carta canina (puddings, pup-cakes) junto ao menú humano. Cócteles cuidados, zumos frescos e um Sunday roast pelo que os locales hacen cola.",
+          "petPolicyPt": "Cães admitidos em esplanada e na parte delantera do interior; carta canina",
+          "mustTryPt": "Pup-cakes, brunch de fin de semana, gin-tonic de Manchester",
+          "tipPt": "Pide a carta canina al pedir: não a traen sempre salvo que menciones al cão."
         },
         {
           "name": "Cane & Grain",
@@ -77,7 +85,11 @@
           "tip": "The top-floor terrace fills first on summer Fridays — book the middle rooftop for a quieter sundowner with a dog.",
           "tipFr": "La terrasse du dernier étage se remplit d'abord les vendredis d'été — réservez le rooftop intermédiaire pour un apéritif plus calme avec un chien.",
           "tipEs": "La terraza del último piso se llena primero los viernes de verano: reserva la azotea intermedia para un aperitivo más tranquilo con perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cane+and+Grain+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Cane+and+Grain+Manchester",
+          "descriptionPt": "Local de três plantas do Northern Quarter com uma famosa propuesta de barbacoa e cócteles, articulado em torno a três esplanadas-azotea frondosas. Os cães são bem-vindos na planta baja e em todos os niveles de azotea. A cozinha sirve costillas, brisket e hamburguesas todo o dia; o bar de cócteles do último piso é o punto aperitivo pet-friendly da cidade em verão.",
+          "petPolicyPt": "Cães admitidos em planta baja e em todas as esplanadas-azotea",
+          "mustTryPt": "Brisket ahumado, cócteles da casa, aperitivo em azotea",
+          "tipPt": "A esplanada do último piso se cheia primero os sexta-feira de verão: reserva a azotea intermedia para um aperitivo mais tranquilo com cão."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Dónde están las calles más pet-friendly de Manchester?",
           "a": "Thomas Street y Tib Street en el Northern Quarter, Cutting Room Square en Ancoats y el canal de Castlefield. La tenencia de perros es alta en toda la ciudad, así que la mayoría de los locales independientes admiten perros por defecto."
         }
+      ],
+      "titlePt": "Restaurantes para cães em Manchester",
+      "introPt": "Manchester tem uma das escenas gastronómicas pet-friendly mais profundas do Reino Unido: uma tradição local ininterrumpida na que pubs independientes, bares e cafés admiten cães por defecto. O Northern Quarter, Ancoats e o eje Spinningfields-Castlefield concentran a mayor densidad de direções pet-friendly em interior, com varios menús caninos e tarros de premios na barra. A continuación, três direções fiables e verificadas.",
+      "tipsPt": [
+        "A cultura do pub británico admite cães por defecto: a pregunta não costuma ser '¿se admiten cães?' mas sim '¿se admiten cães na zona de comedor?' O lado da barra casi sempre dice sí.",
+        "O Northern Quarter, Ancoats e Castlefield concentran os polos pet-friendly mais densos; as cadenas do centro são mais estrictas que os locales independientes.",
+        "Os restaurantes británicos não incluyen serviço: deja um 10-12 % em efectivo o tarjeta al camarero, sobretudo se trajo a tigela de água sem pedi-lo."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães dentro dos restaurantes de Manchester?",
+          "a": "Os pubs e cafés independientes dicen sí por defecto. Os restaurantes de alta cozinha e as cadenas do centro costumam limitar as animais a esplanada; comprueba sempre na puerta."
+        },
+        {
+          "q": "¿Os pubs de Manchester cobran pelo tigela de água?",
+          "a": "Nunca. A tigela de água é uma cortesía estándar em cualquier pub británico. Muitos também guardan tarros de premios na barra: Bay Horse Tavern e The Counter House são ejemplos locales."
+        },
+        {
+          "q": "¿Dónde estão as ruas mais pet-friendly de Manchester?",
+          "a": "Thomas Street e Tib Street não Northern Quarter, Cutting Room Square em Ancoats e o canal de Castlefield. A tenencia de cães é alta em toda a cidade, así que a maioria dos locales independientes admiten cães por defecto."
+        }
       ]
     },
     "parks": {
@@ -179,7 +212,15 @@
           "tip": "Take Metrolink Bury line to Heaton Park station — 25 minutes from St Peter's Square. Dogs are free on every Metrolink tram.",
           "tipFr": "Prenez la Metrolink ligne Bury jusqu'à la station Heaton Park — 25 minutes depuis St Peter's Square. Les chiens sont gratuits dans chaque tram Metrolink.",
           "tipEs": "Toma la Metrolink línea Bury hasta la estación Heaton Park: 25 minutos desde St Peter's Square. Los perros son gratis en cada tranvía Metrolink.",
-          "googleMapsUrl": "https://maps.google.com/?q=Heaton+Park+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Heaton+Park+Manchester",
+          "descriptionPt": "O parque estrella de Manchester: 240 hectáreas de floresta, pradarias abertas, jardins ornamentales e o histórico Heaton Hall. Soltarlos é a norma nas pradarias abertas e os trilhos do fondo do parque; a trela é obrigatória alrededor dos cafés, a zona de juegos do lago e dentro do Animal Centre. O elétrico a partir do centro para na estação de Heaton Park, a cinco minutos a pé da entrada principal.",
+          "amenitiesPt": [
+            "Pradarias abertas sem trela",
+            "Lago de barcas",
+            "Café Heaton Hall",
+            "Estação Metrolink Heaton Park"
+          ],
+          "tipPt": "Toma a Metrolink línea Bury até a estação Heaton Park: 25 minutos a partir de St Peter's Square. Os cães são grátis em cada elétrico Metrolink."
         },
         {
           "name": "Fletcher Moss Botanical Gardens",
@@ -214,7 +255,15 @@
           "tip": "Walk the Mersey path east to Stenner Woods — adds 2 km of forest before turning back to the gardens.",
           "tipFr": "Suivez le sentier de la Mersey vers l'est jusqu'à Stenner Woods — ajoute 2 km de forêt avant de revenir aux jardins.",
           "tipEs": "Sigue el sendero del Mersey hacia el este hasta Stenner Woods: añade 2 km de bosque antes de volver a los jardines.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fletcher+Moss+Botanical+Gardens"
+          "googleMapsUrl": "https://maps.google.com/?q=Fletcher+Moss+Botanical+Gardens",
+          "descriptionPt": "Finca de 90 acres (36 hectáreas) de floresta, jardins acuáticos e pradarias a lo longo do Mersey não frondoso Didsbury. Os cães com trela são bem-vindos em todos os trilhos; soltarlos se tolera nas pradarias do fondo e não trilho ribereño do Mersey. O jardim alpino botánico tem o seu propia pequeña secção vallada que excluye a as animais, mas o resto da finca é totalmente dog-welcoming.",
+          "amenitiesPt": [
+            "Trilho ribereño do Mersey",
+            "Jardins acuáticos",
+            "Café-salón de té",
+            "Aparcamiento gratuito"
+          ],
+          "tipPt": "Sigue o trilho do Mersey para o este até Stenner Woods: añade 2 km de floresta antes de volver aos jardins."
         },
         {
           "name": "Wythenshawe Park",
@@ -249,7 +298,15 @@
           "tip": "The Wythenshawe Park dog-walking trail loop is signposted from the main gate — 3 km, mostly woodland, finished in 45 minutes.",
           "tipFr": "La boucle de promenade canine du Wythenshawe Park est balisée depuis l'entrée principale — 3 km, majoritairement boisée, faite en 45 minutes.",
           "tipEs": "El circuito de paseo canino de Wythenshawe Park está señalizado desde la entrada principal: 3 km, mayoritariamente boscoso, en 45 minutos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Wythenshawe+Park"
+          "googleMapsUrl": "https://maps.google.com/?q=Wythenshawe+Park",
+          "descriptionPt": "Parque de 109 hectáreas a sul da cidade, com zona sem trela señalizada, trilhos pet-friendly e aparcamiento gratuito. Dispensadores de bolsas nos trilhos principales, sem entrada de pago, e o café de Wythenshawe Hall no centro que admite cães no seu esplanada. Se llega com o autocarro 41 a partir de Piccadilly Gardens.",
+          "amenitiesPt": [
+            "zona sem trela señalizada",
+            "Dispensadores de bolsas",
+            "Esplanada de café pet-friendly",
+            "Aparcamiento gratuito"
+          ],
+          "tipPt": "O circuito de passeio canino de Wythenshawe Park está señalizado a partir da entrada principal: 3 km, mayoritariamente boscoso, em 45 minutos."
         }
       ],
       "tipsEn": [
@@ -308,6 +365,27 @@
           "q": "¿Hay un parque canino vallado en el centro de Manchester?",
           "a": "No hay un parque canino municipal totalmente vallado en el centro de Manchester. Los recintos vallados más cercanos están dentro de Heaton Park (norte) y Wythenshawe Park (sur)."
         }
+      ],
+      "titlePt": "Melhores parques para cães em Manchester",
+      "introPt": "O Gran Manchester ofrece mais espacio verde público que casi cualquier outra cidade do Reino Unido: só Heaton Park é um dos os mayores parques municipales de Europa com 240 hectáreas. A norma estándar do Manchester City Council é trela nas ruas e na maioria dos trilhos, com tolerancia de soltarlos nos céspedes abertos de cada gran parque fora das zonas PSPO marcadas (zonas infantiles, pistas deportivas, jardins formales).",
+      "tipsPt": [
+        "O Manchester City Council aplica órdenes PSPO: zonas com trela alrededor de zonas infantiles de juego, pistas deportivas e jardins formales de flores. Fora das zonas PSPO, soltarlos em céspedes abertos costuma tolerarse.",
+        "As multas por excrementos são sanciones fijas de 100 £, impuestas não acto por agentes municipales. Os dispensadores de bolsas são habituales nas entradas de parques mas irregulares nas ruas; lleva as tuyas.",
+        "Tanto Heaton Park como Wythenshawe Park albergan pequeñas granjas / centros de animales vallados; os cães não se admiten em esas zonas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode correr mi cão sem trela em Manchester?",
+          "a": "A mayor parte das pradarias abertas de Heaton Park e a zona sem trela señalizada de Wythenshawe Park. Fletcher Moss e Stenner Woods toleran soltarlos nas pradarias do fondo. As zonas PSPO alrededor de áreas infantiles sempre requieren trela."
+        },
+        {
+          "q": "¿São pet-friendly os parques do centro?",
+          "a": "Sí: Piccadilly Gardens, St John's Gardens e Castlefield Bowl admiten todos cães com trela. Os céspedes são mais pequeños que os parques das afueras mas útiles para passeios cortos entre cafés e pubs."
+        },
+        {
+          "q": "¿Hay um parque canino vallado no centro de Manchester?",
+          "a": "Não hay um parque canino municipal totalmente vallado no centro de Manchester. Os recintos vallados mais cercanos estão dentro de Heaton Park (norte) e Wythenshawe Park (sur)."
+        }
       ]
     },
     "transport": {
@@ -334,7 +412,10 @@
           "tip": "The Metrolink Bury line is the city's most useful dog-walk transit lead-in — direct from St Peter's Square to Heaton Park station in 25 minutes.",
           "tipFr": "La ligne Bury de Metrolink est l'accès dog-walk le plus utile de la ville — direct de St Peter's Square à la station Heaton Park en 25 minutes.",
           "tipEs": "La línea Bury de Metrolink es el acceso dog-walk más útil de la ciudad: directa desde St Peter's Square hasta la estación de Heaton Park en 25 minutos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Manchester+Piccadilly+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Manchester+Piccadilly+station",
+          "descriptionPt": "Transport for Greater Manchester (TfGM) opera os elétricos Metrolink e os autocarros Bee Network; Northern Trains gestiona o ferrocarril de cercanías. Até dos cães com trela por viajero viajan grátis nos três. A línea Bury de Metrolink llega a Heaton Park, a línea Altrincham llega a Wythenshawe vía o aeroporto, e Northern Rail conecta Manchester Piccadilly com Liverpool, o Lake District e York em menos de 2 horas.",
+          "petPolicyPt": "Até 2 cães com trela por viajero grátis em Metrolink, autocarros Bee Network e comboios Northern",
+          "tipPt": "A línea Bury de Metrolink é o acceso dog-walk mais útil da cidade: directa a partir de St Peter's Square até a estação de Heaton Park em 25 minutos."
         }
       ],
       "tipsEn": [
@@ -393,6 +474,27 @@
           "q": "¿Se admiten perros en el aeropuerto de Manchester?",
           "a": "Los perros de asistencia son bienvenidos en toda la terminal. Los perros que viajan en vuelo siguen las normas de la aerolínea (cabina o bodega) y deben registrarse en la zona de alivio dedicada antes del control. La línea Wythenshawe de Metrolink llega al aeropuerto con acceso canino completo."
         }
+      ],
+      "titlePt": "Transporte para animais em Manchester",
+      "introPt": "O transporte de Manchester é um dos os mais pet-friendly do Reino Unido: os cães viajan grátis nos elétricos Metrolink (a partir de 2023, de forma permanente), grátis nos autocarros Bee Network e grátis nos comboios Northern Rail (até dos animais por bilhete adulto). O bilhete unificado Bee Network cubre elétrico, autocarro e bici não Gran Manchester. Os cães devem ir com trela e não podem ir nos asientos. Os cães de assistência viajan grátis em toda a rede sem restricción.",
+      "tipsPt": [
+        "Até dos cães bem educados por viajero viajan grátis em cada serviço de TfGM (Metrolink, autocarros): a política é permanente a partir de 2023, sem restricciones estacionales.",
+        "Na red nacional británica mais amplia (TransPennine Express, Avanti West Coast), até dos cães viajan grátis por bilhete adulto; as animais pequeñas em transportadora também são grátis, sem limite de tamanho de transportadora.",
+        "As reglas dos taxis black-cab e Uber dependen do conductor; menciona 'com cão' al reservar e deja uma buena propina, sobretudo tras um passeio embarrado pelo parque."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Os cães viajan grátis nos elétricos Metrolink de Manchester?",
+          "a": "Sí: Transport for Greater Manchester admite até dos cães com trela por viajero, grátis em cada elétrico Metrolink, de forma permanente a partir de 2023. Os cães devem ir não solo, não nos asientos."
+        },
+        {
+          "q": "¿Puedo levar al cão de comboio de Manchester a Londres?",
+          "a": "Sí: Avanti West Coast admite até dos cães grátis por bilhete adulto na ruta de 2 horas Manchester Piccadilly-London Euston. Lleva água em viajes estivales; o Pendolino basculante pode calentarse em julho e agosto."
+        },
+        {
+          "q": "¿Se admiten cães não aeroporto de Manchester?",
+          "a": "Os cães de assistência são bem-vindos em toda a terminal. Os cães que viajan em voo siguen as normas da companhia aérea (cabina o bodega) e devem registrarse na zona de alivio dedicada antes do control. A línea Wythenshawe de Metrolink llega al aeroporto com acceso canino completo."
+        }
       ]
     },
     "beaches": {
@@ -419,7 +521,10 @@
           "tip": "Take Metrolink from St Peter's Square to Sale Water Park stop — 25 minutes, dog free. Avoid weekend mornings when the watersports centre fills the south shore.",
           "tipFr": "Prenez le Metrolink depuis St Peter's Square jusqu'à Sale Water Park — 25 minutes, chien gratuit. Évitez les matins de week-end quand le centre de sports nautiques sature la rive sud.",
           "tipEs": "Toma el Metrolink desde St Peter's Square hasta Sale Water Park: 25 minutos, perro gratis. Evita las mañanas de fin de semana, cuando el centro de deportes acuáticos llena la orilla sur.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sale+Water+Park+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Sale+Water+Park+Manchester",
+          "descriptionPt": "Parque de 60 hectáreas alrededor de um antigo lago de cantera, o punto de banho mais cercano para cães do Gran Manchester. Soltarlos se tolera nas pradarias e o trilho do lago; o lago está aberto a cães o ano inteiro, mas atento a as señales de prohibición de banho alrededor da zona de deportes acuáticos. Aparcamiento gratuito, café in situ e paragem de Metrolink Sale Water Park a pouca distancia.",
+          "petPolicyPt": "Cães admitidos o ano inteiro; sem trela tolerado nas pradarias e não trilho do lago",
+          "tipPt": "Toma o Metrolink a partir de St Peter's Square até Sale Water Park: 25 minutos, cão grátis. Evita as mañanas de fin de semana, quando o centro de deportes acuáticos cheia a margem sur."
         },
         {
           "name": "Formby Beach",
@@ -437,7 +542,10 @@
           "tip": "Train from Manchester Oxford Road to Liverpool Lime Street, then Merseyrail to Freshfield station — 90 minutes door-to-beach.",
           "tipFr": "Train de Manchester Oxford Road à Liverpool Lime Street, puis Merseyrail jusqu'à la station Freshfield — 90 minutes porte à plage.",
           "tipEs": "Tren desde Manchester Oxford Road hasta Liverpool Lime Street, luego Merseyrail hasta la estación Freshfield: 90 minutos puerta a playa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Formby+Beach+Liverpool"
+          "googleMapsUrl": "https://maps.google.com/?q=Formby+Beach+Liverpool",
+          "descriptionPt": "Costa de pinares e dunas do National Trust a 90 minutos de comboio de Manchester (Northern Rail Liverpool, luego Merseyrail). Os cães são bem-vindos sem trela o ano inteiro nos 4 km de praia, os trilhos traseros de dunas e a famosa reserva de ardillas rojas (os trilhos de ardillas requieren trela). Uma das praias caninas emblemáticas do Reino Unido.",
+          "petPolicyPt": "Sem trela o ano inteiro na praia e os trilhos de dunas; trela nos trilhos de ardillas",
+          "tipPt": "Comboio a partir de Manchester Oxford Road até Liverpool Lime Street, luego Merseyrail até a estação Freshfield: 90 minutos puerta a praia."
         },
         {
           "name": "Castlefield Basin & Bridgewater Canal",
@@ -455,7 +563,10 @@
           "tip": "Walk west along the Bridgewater Canal towpath from Castlefield basin — 9 km of leash-friendly walk leads all the way to Sale Water Park.",
           "tipFr": "Marchez vers l'ouest le long du chemin de halage du Bridgewater Canal depuis le bassin de Castlefield — 9 km de marche en laisse qui mènent jusqu'au Sale Water Park.",
           "tipEs": "Camina hacia el oeste por la senda del Bridgewater Canal desde el canal de Castlefield: 9 km con correa que llevan hasta el Sale Water Park.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castlefield+Basin+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Castlefield+Basin+Manchester",
+          "descriptionPt": "Histórico canal de Castlefield onde a red de canais industriales británicos encontra-se com o centro da cidade, com frondosas sendas a lo longo do Bridgewater Canal que llegan até Sale. Os cães com trela são bem-vindos em toda a senda; os pubs do canal (Knott Bar, Dukes 92) admiten todos cães nos seus esplanadas junto ao água.",
+          "petPolicyPt": "Cães admitidos com trela na senda; esplanadas de pub pet-friendly",
+          "tipPt": "Camina para o oeste pela senda do Bridgewater Canal a partir do canal de Castlefield: 9 km com trela que llevan até o Sale Water Park."
         }
       ],
       "tipsEn": [
@@ -514,6 +625,27 @@
           "q": "¿Son dog-friendly las playas del Lake District desde Manchester?",
           "a": "Sí: la mayoría de las orillas de lagos y tarns admiten perros sin correa todo el año. El tren directo de 1h45 desde Manchester Piccadilly hasta Windermere es gratis para hasta dos perros por billete."
         }
+      ],
+      "titlePt": "Riberas e excursiones pet-friendly a partir de Manchester",
+      "introPt": "Manchester está a 50 km do mar, mas o Lake District e a costa de Lancashire estão a menos de uma hora de comboio. O canal de Castlefield e a senda do Bridgewater Canal dan a cidade um frente acuático com trela; Sale Water Park é o punto de banho urbano mais cercano para cães; e Formby Beach (lado Liverpool, 90 minutos de comboio) é a praia canina emblemática da região, aberta o ano inteiro. A maioria das praias do Lake District admiten cães o ano inteiro: os cuellos de botella urbanos são as únicas restricciones reales.",
+      "tipsPt": [
+        "Manchester não tem acceso directo al mar: as praias caninas mais cercanas são Formby e Crosby (90 min de comboio). As excursiones al lago Windermere (1h45 de comboio) também são populares para passeios caninos.",
+        "As praias e tarns do Lake District costumam admitir cães sem trela o ano inteiro, mas comprueba a señalización perto dos pastos de ovejas: o parque nacional exige trela em zonas de ganado.",
+        "A senda do Bridgewater Canal conecta o centro de Manchester com Sale (9 km), Lymm (20 km) e finalmente Worsley: um corredor continuo de passeio com trela."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão banhar-se no centro de Manchester?",
+          "a": "Sale Water Park é o punto de banho urbano mais cercano, a 25 minutos em Metrolink. O Bridgewater Canal no centro de Castlefield é acessível com trela mas não apto para banho."
+        },
+        {
+          "q": "¿Cuál é a melhor praia canina perto de Manchester?",
+          "a": "Formby Beach (90 minutos de comboio vía Liverpool) é a referencia regional: 4 km de areia e dunas sem trela o ano inteiro. Crosby Beach al lado añade as esculturas de hombres de hierro de Antony Gormley."
+        },
+        {
+          "q": "¿São pet-friendly as praias do Lake District a partir de Manchester?",
+          "a": "Sí: a maioria das margens de lagos e tarns admiten cães sem trela o ano inteiro. O comboio directo de 1h45 a partir de Manchester Piccadilly até Windermere é grátis para até dos cães por bilhete."
+        }
       ]
     },
     "vets": {
@@ -538,7 +670,9 @@
           "tip": "Call before driving over at night — the on-call team will triage and may send you to a different specialist branch.",
           "tipFr": "Appelez avant de venir la nuit — l'équipe de garde effectue un tri et peut vous orienter vers une autre antenne spécialisée.",
           "tipEs": "Llama antes de ir por la noche: el equipo de guardia hace un triaje y puede derivarte a otra sede especializada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Manchester+Whitefield"
+          "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Manchester+Whitefield",
+          "descriptionPt": "Hospital de urgências e referencia 24 horas aberto a partir de 2016, equipado para cirugía, cuidados intensivos, diagnóstico por imagen avanzado e especialidades em cardiología, medicina interna, cirugía de tejidos blandos e ortopedia. Socio principal fora de horario para a maioria das clínicas do centro de Manchester. A uns 20 minutos em Bolt a partir do centro.",
+          "tipPt": "Llama antes de ir pela noite: o equipo de guardia hace um triaje e pode derivarte a outra sede especializada."
         },
         {
           "name": "Vets4Pets Manchester Trafford",
@@ -554,7 +688,9 @@
           "tip": "Park in the Trafford Centre underground car park (free for the first 90 minutes) and walk through the superstore to the practice.",
           "tipFr": "Garez-vous au parking souterrain du Trafford Centre (90 premières minutes gratuites) et traversez le superstore jusqu'à la clinique.",
           "tipEs": "Aparca en el parking subterráneo del Trafford Centre (los primeros 90 minutos gratis) y cruza el megacentro hasta la consulta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+Trafford+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+Trafford+Manchester",
+          "descriptionPt": "Sucursal da cadena nacional dentro do megacentro Pets at Home não Trafford Centre, útil para consultas rutinarias, vacinações e revisiones de documentos de viaje. Reserva online com citas o mesmo dia a menudo disponibles, e acceso directo a todos os productos estándar de Pets at Home tras a consulta.",
+          "tipPt": "Aparca não parking subterráneo do Trafford Centre (os primeros 90 minutos grátis) e cruza o megacentro até a consulta."
         }
       ],
       "tipsEn": [
@@ -612,6 +748,27 @@
         {
           "q": "¿Son caros los veterinarios de urgencia en Manchester?",
           "a": "Más caros que en la Europa continental pero más baratos que en Londres. Una consulta de urgencia suele empezar en 150-250 £; la cirugía y el ingreso nocturno suelen costar 500-1500 £ según la complejidad."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Manchester — Hospitales e clínicas veterinárias",
+      "introPt": "Manchester cuenta com uma sólida red veterinária anclada em Vets Now Manchester — hospital de urgências 24 horas em Whitefield que é a referencia regional para urgências fora de horario. A cidade também alberga as cadenas estándar (Vets4Pets, Medivet) para consultas diurnas. O serviço em inglés é universal; os visitantes com passaporte europeu são habitualmente atendidos, embora os Animal Health Certificates post-Brexit aplican para a entrada transfronteriza.",
+      "tipsPt": [
+        "Tras o Brexit, os passaportes europeus de animais já não são válidos para entrar al Reino Unido. Os visitantes necesitan um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacinação antirrábica e o tratamento contra equinococos em cães.",
+        "O pago com tarjeta é a norma em todas as clínicas 24/7; as consultas de urgência costumam empezar em 150-250 £ mais medicación, entre as tarifas mais altas da UE mas entre as mais baratas de Europa Occidental.",
+        "O hospital PDSA de Manchester está dirigido a clientes com bajos ingresos e animais preinscritas: não é uma opción de urgências para visitantes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário 24 horas mais cercano al centro de Manchester?",
+          "a": "Vets Now Manchester em Bury Old Road, Whitefield (a uns 20 minutos em Bolt a partir do centro). É o hospital principal regional fora de horario e a referencia para cualquier urgência nocturna."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a partir da UE a um veterinário de Manchester?",
+          "a": "Sí: as clínicas británicas atienden com normalidad a animais registradas na UE. Lleva o passaporte europeu / Animal Health Certificate; a maioria das clínicas emite factura em inglés para cualquier reclamación al seguro."
+        },
+        {
+          "q": "¿São caros os veterinários de urgência em Manchester?",
+          "a": "Mais caros que na Europa continental mas mais baratos que em Londres. Uma consulta de urgência costuma empezar em 150-250 £; a cirugía e o ingreso nocturno costumam costar 500-1500 £ segundo a complejidad."
         }
       ]
     },
@@ -679,6 +836,27 @@
           "q": "¿Puede mi perro entrar a los museos y estadios de Manchester?",
           "a": "Solo los perros de asistencia se admiten en el Science and Industry Museum, el Manchester Museum, el People's History Museum, Old Trafford y el Etihad Stadium. Las plazas exteriores de los cinco son accesibles con correa y gratuitas."
         }
+      ],
+      "titlePt": "Consejos prácticos para viajar com tu animal a Manchester",
+      "introPt": "Manchester é uma das as cidades do Reino Unido mais sencillas para viajar com cão: animais grátis nos elétricos Metrolink e nos autocarros Bee Network, animais grátis nos comboios Northern Rail, pubs pet-friendly em cada rua, e as 240 hectáreas sem trela de Heaton Park a um elétrico do centro. Os dos puntos a anticipar são o Animal Health Certificate post-Brexit (para entrada a partir da UE) e a abundante chuva: Manchester recibe em promedio 830 mm de chuva ao ano, mais que cualquier outra gran cidade británica.",
+      "tipsPt": [
+        "Tras o Brexit: os passaportes europeus de animais já não são válidos para entrar al Reino Unido. Hace falta um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacinação antirrábica e o tratamento contra equinococos em cães.",
+        "Guarda Vets Now Manchester 24/7: +44 161 222 6004 (98 Bury Old Road, Whitefield): o hospital regional principal fora de horario.",
+        "Llueve a menudo em Manchester: lleva impermeable para o cão e toalla de microfibra; muitas direções do centro têm um rincón para secar al cão junto a puerta."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Manchester uma buena cidade para viajar com cão?",
+          "a": "Sí: entre as cidades do Reino Unido mais pet-friendly. Animais grátis em Metrolink/autocarros/comboios, pubs dog-welcoming em cada rua, e o espacio sem trela de Heaton Park a um elétrico do centro. As principales pegas são o AHC post-Brexit para a entrada a partir da UE e a chuva."
+        },
+        {
+          "q": "¿Qué documentos necesito para levar a mi cão a Manchester a partir da UE?",
+          "a": "A partir do Brexit, o passaporte europeu de animais já não se aceita para entrar al Reino Unido. Hace falta um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacinação antirrábica e o tratamento contra equinococos em cães."
+        },
+        {
+          "q": "¿Pode mi cão entrar aos museus e estadios de Manchester?",
+          "a": "Só os cães de assistência se admiten não Science and Industry Museum, o Manchester Museum, o People's History Museum, Old Trafford e o Etihad Stadium. As praças exteriores dos cinco são acessíveis com trela e gratuitas."
+        }
       ]
     },
     "attractions": {
@@ -705,7 +883,10 @@
           "tip": "Saturday afternoons get crowded — Sunday morning is calmer for a quiet walk and brunch on Thomas Street.",
           "tipFr": "Les samedis après-midi sont bondés — le dimanche matin est plus calme pour une balade tranquille et un brunch sur Thomas Street.",
           "tipEs": "Los sábados por la tarde se llenan: el domingo por la mañana es más tranquilo para un paseo y brunch en Thomas Street.",
-          "googleMapsUrl": "https://maps.google.com/?q=Northern+Quarter+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Northern+Quarter+Manchester",
+          "descriptionPt": "O bairro creativo de Manchester: lojas independientes, vintage, pubs pet-friendly e o famoso Affleck's em Tib Street. Os cães com trela são bem-vindos em cada rua e em casi cada local independiente. O mercado de fin de semana de Stevenson Square admite cães e é o destino clásico de passeio canino de fin de semana.",
+          "petPolicyPt": "Cães admitidos com trela; casi todas as lojas e pubs independientes admiten animais",
+          "tipPt": "Os sábados pela tarde se llenan: o domingo pela manhã é mais tranquilo para um passeio e brunch em Thomas Street."
         },
         {
           "name": "Castlefield Basin",
@@ -723,7 +904,10 @@
           "tip": "Walk west along the Bridgewater Canal towpath from the basin — 9 km of leash-friendly walk leads all the way to Sale Water Park.",
           "tipFr": "Marchez vers l'ouest le long du chemin de halage du Bridgewater Canal depuis le bassin — 9 km de marche en laisse jusqu'au Sale Water Park.",
           "tipEs": "Camina hacia el oeste por la senda del Bridgewater Canal desde el canal: 9 km con correa hasta Sale Water Park.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castlefield+Basin+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Castlefield+Basin+Manchester",
+          "descriptionPt": "O histórico canal a partir do que a Revolución Industrial británica embarcó o seu primer algodón, ahora um bairro frondoso de bares junto ao canal, o escenario al aire libre Castlefield Bowl e os restos do fuerte romano. Os cães com trela são bem-vindos em toda a senda; os pubs junto ao canal (Knott Bar, Dukes 92, The Wharf) admiten todos cães nos seus esplanadas.",
+          "petPolicyPt": "Cães admitidos com trela; os pubs junto ao canal admiten cães nas esplanadas",
+          "tipPt": "Camina para o oeste pela senda do Bridgewater Canal a partir do canal: 9 km com trela até Sale Water Park."
         },
         {
           "name": "Heaton Hall & Park",
@@ -741,7 +925,10 @@
           "tip": "Take the Metrolink Bury line to Heaton Park station — 25 minutes from St Peter's Square. The Hall café terrace welcomes dogs on the outdoor seating.",
           "tipFr": "Prenez la Metrolink ligne Bury jusqu'à la station Heaton Park — 25 minutes depuis St Peter's Square. La terrasse du café du Hall accepte les chiens en extérieur.",
           "tipEs": "Toma la Metrolink línea Bury hasta la estación de Heaton Park: 25 minutos desde St Peter's Square. La terraza del café del Hall admite perros en el exterior.",
-          "googleMapsUrl": "https://maps.google.com/?q=Heaton+Hall+Park+Manchester"
+          "googleMapsUrl": "https://maps.google.com/?q=Heaton+Hall+Park+Manchester",
+          "descriptionPt": "O parque de 240 hectáreas Heaton Park, anclado em Heaton Hall (1772, Grado I protegido), com jardins formales, lago de barcas, centro de animales e uma das mayores huellas de parque municipal de Europa. Os cães corren sem trela pelas pradarias abertas e os trilhos do fondo; o exterior do Hall e o trilho do lago são o passeio canino clásico dos domingos pela tarde da cidade.",
+          "petPolicyPt": "Sem trela nas pradarias abertas; trela alrededor do café e o centro de animales",
+          "tipPt": "Toma a Metrolink línea Bury até a estação de Heaton Park: 25 minutos a partir de St Peter's Square. A esplanada do café do Hall admite cães não exterior."
         }
       ],
       "tipsEn": [
@@ -800,6 +987,27 @@
           "q": "¿Se admiten perros en los estadios de fútbol de Manchester?",
           "a": "Solo perros de asistencia se admiten dentro de Old Trafford y el Etihad Stadium. Las plazas exteriores de ambos campos son accesibles con correa."
         }
+      ],
+      "titlePt": "Atracciones para animais em Manchester",
+      "introPt": "As atracciones emblemáticas de Manchester se reparten entre museus só cães de assistência (Science and Industry, People's History) e o patrimonio exterior inusualmente generoso do Northern Quarter, Castlefield e Heaton Park. O centro compacto permite um único circuito a pé de 90 minutos que cubre a catedral, Albert Square, o canal de Castlefield e o Northern Quarter, todos acessíveis com trela. A continuación, três dos melhores.",
+      "tipsPt": [
+        "A maioria dos grandes museus (Science and Industry Museum, Manchester Museum, People's History Museum) e os estadios de fútbol (Old Trafford, Etihad) só admiten cães de assistência.",
+        "O Northern Quarter, Castlefield e Albert Square forman um único circuito a pé de 1h30 com trela a partir da catedral.",
+        "A visita guiada gratuita a pé de Manchester (dos vezes ao dia a partir de St Peter's Square) admite cães com trela: útil para añadir contexto a um passeio pelo centro."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão entrar aos museus de Manchester?",
+          "a": "Só cães de assistência se admiten nos grandes museus (Science and Industry Museum, Manchester Museum, People's History Museum). As praças exteriores são acessíveis com trela e gratuitas."
+        },
+        {
+          "q": "¿Cuál é o melhor dia pet-friendly em Manchester?",
+          "a": "Passeio pelo Northern Quarter, brunch em The Counter House em Ancoats, Metrolink até Heaton Park pela tarde e vuelta para cenar não Bay Horse Tavern de Thomas Street."
+        },
+        {
+          "q": "¿Se admiten cães nos estadios de fútbol de Manchester?",
+          "a": "Só cães de assistência se admiten dentro de Old Trafford e o Etihad Stadium. As praças exteriores de ambos campos são acessíveis com trela."
+        }
       ]
     },
     "petsitting": {
@@ -820,7 +1028,9 @@
           "descriptionEs": "Plataforma de pago de referencia en el Reino Unido para el cuidado de perros, con cientos de cuidadores verificados en Manchester que ofrecen paseos, visitas y alojamiento nocturno. Todas las reservas están aseguradas mediante la plataforma y los paseos incluyen seguimiento GPS. Útil para visitas cortas a museos o excursiones de día completo al Lake District sin perro.",
           "tip": "Filter for Northern Quarter, Ancoats, or Didsbury — the three districts with the highest concentration of sitters used to short-notice expat bookings.",
           "tipFr": "Filtrez sur Northern Quarter, Ancoats ou Didsbury — les trois quartiers avec la plus forte concentration de sitters habitués aux réservations expatriées de dernière minute.",
-          "tipEs": "Filtra por Northern Quarter, Ancoats o Didsbury: los tres barrios con la mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora."
+          "tipEs": "Filtra por Northern Quarter, Ancoats o Didsbury: los tres barrios con la mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora.",
+          "descriptionPt": "Plataforma de pago de referencia não Reino Unido para o cuidado de cães, com cientos de cuidadores verificados em Manchester que ofrecen passeios, visitas e alojamento nocturno. Todas as reservas estão aseguradas mediante a plataforma e os passeios incluyen seguimiento GPS. Útil para visitas cortas a museus o excursiones de dia completo al Lake District sem cão.",
+          "tipPt": "Filtra por Northern Quarter, Ancoats o Didsbury: os três bairros com a mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora."
         }
       ],
       "tipsEn": [
@@ -878,6 +1088,27 @@
         {
           "q": "¿Los hoteles ofrecen servicio de cuidado en Manchester?",
           "a": "Algunos hoteles de gama alta (The Lowry, Native Manchester) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de cães em Manchester",
+      "introPt": "O cuidado de animais em Manchester está dominado por Tailster (plataforma de pago británica) e BorrowMyDoggy (red comunitaria gratuita). Os paseadores independientes locales se concentran alrededor de Heaton Park, Wythenshawe e o Northern Quarter; o Greater Manchester Council exige licencia a quien pasee mais de quatro cães a vez em terrenos municipales. Os preços estão na franja media do Reino Unido: algo por debajo de Londres mas por encima de Leeds o Sheffield.",
+      "tipsPt": [
+        "Tarifas medias: visita 15-18 £, passeio 12-18 £, dia completo 30-45 £, noite 35-55 £: Manchester está por debajo dos preços de Londres mas por encima da media regional.",
+        "BorrowMyDoggy é gratuito e ideal para estadias longas: um voluntario local pasea a tu cão mientras estás numa visita. O emparejamiento tarda dos o três dias, así que planifícalo.",
+        "Os paseadores independientes locales se concentran alrededor de Heaton Park, Wythenshawe e o Northern Quarter; pregunta não Bay Horse Tavern o em cualquier cafetería do Northern Quarter: os habituales conocen nombres."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo encontrar um cuidador de cães em Manchester sem muita antelación?",
+          "a": "Tailster.com é lo mais rápido: a maioria dos cuidadores de pago confirman em poucas horas. Filtra por al menos 20 opiniones e comprueba a opción de passeio com GPS."
+        },
+        {
+          "q": "¿Estão regulados os paseadores em Manchester?",
+          "a": "O Greater Manchester Council exige licencia a quien pasee mais de quatro cães a vez em terrenos municipales. Os cuidadores de Tailster e BorrowMyDoggy estão asegurados mediante as plataformas."
+        },
+        {
+          "q": "¿Os hotéis ofrecen serviço de cuidado em Manchester?",
+          "a": "Algunos hotéis de gama alta (The Lowry, Native Manchester) podem organizar um cuidador vía conserjería com coste adicional. Confírmalo sempre al reservar."
         }
       ]
     }

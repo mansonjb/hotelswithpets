@@ -33,7 +33,11 @@
           "tip": "Arrive early on Sunday brunch — the terrace fills quickly and dogs love the morning quiet of Islington Green.",
           "tipFr": "Venez tôt le dimanche matin — la terrasse se remplit vite et les chiens apprécient la tranquillité matinale d'Islington Green.",
           "tipEs": "Llega temprano el domingo: la terraza se llena rápido y los perros disfrutan de la tranquilidad matutina de Islington Green.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bellanger+9+Islington+Green+London"
+          "googleMapsUrl": "https://maps.google.com/?q=Bellanger+9+Islington+Green+London",
+          "descriptionPt": "Uma gran brasserie parisina em Islington Green que trata aos cães como clientes de pleno derecho. Os cães são bem-vindos em toda a sala e na esplanada. A cozinha envía galletas artesanales da marca Bellanger a cada mesa com um cão. A carta incluye sopa de cebolla, steak tartare e croque-monsieur. Metro mais cercano: Angel (10 min andando).",
+          "petPolicyPt": "Cães admitidos em todo o local, interior e esplanada",
+          "mustTryPt": "Steak tartare com patatas fritas caseras",
+          "tipPt": "Llega temprano o domingo: a esplanada se cheia rápido e os cães disfrutan da tranquilidad matutina de Islington Green."
         },
         {
           "name": "Los Mochis Notting Hill",
@@ -55,7 +59,11 @@
           "tip": "The bar seats are the most dog-friendly spot — street-level, easier for a restless dog to settle.",
           "tipFr": "Les places au bar sont les plus adaptées aux chiens — de plain-pied, plus calmes pour un chien agité.",
           "tipEs": "Los asientos de la barra son los más cómodos para los perros: a nivel de calle y más tranquilos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Los+Mochis+2+Farmer+St+London+W8"
+          "googleMapsUrl": "https://maps.google.com/?q=Los+Mochis+2+Farmer+St+London+W8",
+          "descriptionPt": "O restaurante lleva literalmente o nombre de Mochi, o Yorkshire Terrier do fundador, cuyo retrato cuelga não comedor. Os cães são bem-vindos na barra e na esplanada exterior, com tigela de água. A carta fusiona sabores mexicanos e japoneses: ceviche com yuzu, tacos de cerdo al miso e uma excelente seleção de mezcal e sake. Metro: Notting Hill Gate (3 min andando).",
+          "petPolicyPt": "Cães admitidos na barra e esplanada exterior; tigela de água disponible",
+          "mustTryPt": "Tacos de Mochi — cerdo glaseado com miso e daikon encurtido",
+          "tipPt": "Os asientos da barra são os mais cómodos para os cães: a nivel de rua e mais tranquilos."
         }
       ],
       "tipsEn": [
@@ -102,6 +110,23 @@
           "q": "¿Se permiten perros dentro de los restaurantes de Londres o solo en terrazas?",
           "a": "Ambas cosas, según el local. Bellanger y los bares de tapas de José Pizarro en Bermondsey admiten perros en el interior. Muchos otros solo permiten perros en terrazas."
         }
+      ],
+      "titlePt": "Restaurantes com animais em Londres",
+      "introPt": "Londres está clasificada habitualmente entre as cidades mais amigables para cães do mundo, com casi a mitad dos hogares teniendo um cão. A cultura dos pubs estende-se de forma natural aos restaurantes. Os bairros de Islington, Notting Hill e Bermondsey concentran a mayor densidad de restaurantes que aceitam cães. Um aviso honesto: em horas punta de fin de semana, algunos locales limitan o número de cães no interior — llama antes de ir.",
+      "tipsPt": [
+        "Llama com antelación o sábado o domingo a mediodía: os restaurantes populares costumam limitar os cães por serviço.",
+        "Os cães devem estar sob a mesa o a tu lado, nunca nos asientos — a norma é tácita mas habitual.",
+        "Bermondsey Street merece o desvío: os dos bares de tapas de José Pizarro, uno al lado do outro, admiten cães no interior o ano inteiro."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Os restaurantes de Londres cobran um suplemento por trazer um cão?",
+          "a": "Não — não existe ningún cargo adicional estándar por levar cães. Algunos locales ofrecen água o galletas para cães de forma gratuita."
+        },
+        {
+          "q": "¿Se permiten cães dentro dos restaurantes de Londres o só em esplanadas?",
+          "a": "Ambas coisas, segundo o local. Bellanger e os bares de tapas de José Pizarro em Bermondsey admiten cães no interior. Muitos outros só permiten cães em esplanadas."
+        }
       ]
     },
     "parks": {
@@ -127,7 +152,10 @@
           "tip": "Enter from the Lancaster Gate tube side for direct access to the off-leash meadow without crossing roads.",
           "tipFr": "Entrez côté Lancaster Gate pour accéder directement à la prairie sans traverser de rue.",
           "tipEs": "Entra por el lado del metro Lancaster Gate para acceder directamente a la pradera sin cruzar calles.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hyde+Park+London+Dog+Bowl+Speakers+Corner"
+          "googleMapsUrl": "https://maps.google.com/?q=Hyde+Park+London+Dog+Bowl+Speakers+Corner",
+          "descriptionPt": "A zona de libertad dedicada de Hyde Park se llama 'The Dog Bowl': uma gran pradaria aberta perto de Speakers' Corner onde os cães podem correr libremente. O parque tem 350 acres e os cães devem ir com trela na secção de Kensington Gardens e perto do Serpentine.",
+          "offLeashAreaPt": "The Dog Bowl perto de Speakers' Corner; a mayor parte do parque central",
+          "tipPt": "Entra pelo lado do metro Lancaster Gate para acceder directamente a pradaria sem cruzar ruas."
         },
         {
           "name": "Hampstead Heath",
@@ -144,7 +172,10 @@
           "tip": "The dog pond on the Highgate side is open year-round for swimming — bring a towel, the water is cold even in July.",
           "tipFr": "Le bassin pour chiens côté Highgate est ouvert toute l'année — prenez une serviette, l'eau est froide même en juillet.",
           "tipEs": "El estanque para perros en el lado de Highgate está abierto todo el año para nadar: lleva una toalla, el agua está fría incluso en julio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hampstead+Heath+London"
+          "googleMapsUrl": "https://maps.google.com/?q=Hampstead+Heath+London",
+          "descriptionPt": "790 acres de florestas, pradarias e estanques de natação a norte de Londres. Os cães podem ir sem trela em casi toda a extensión do Heath, com um estanque especial para cães não lado de Highgate. O terreno é variado: caminos embarrados entre florestas, laderas abertas com vista para a cidade e estanques para refrescarse em verão.",
+          "offLeashAreaPt": "A mayor parte do Heath; estanque para cães perto dos estanques de Highgate",
+          "tipPt": "O estanque para cães não lado de Highgate está aberto o ano inteiro para nadar: lleva uma toalla, o água está fria mesmo em julho."
         },
         {
           "name": "Victoria Park",
@@ -161,7 +192,10 @@
           "tip": "The park has a large community of off-lead regulars — go on a Tuesday or Wednesday morning for the best socialization and least crowding.",
           "tipFr": "Le parc a une grande communauté de chiens habitués sans laisse — allez un mardi ou mercredi matin pour la meilleure sociabilisation et le moins d'affluence.",
           "tipEs": "El parque tiene una gran comunidad de perros habituales sin correa: ve un martes o miércoles por la mañana para la mejor socialización y menos concurrencia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Victoria+Park+London+East"
+          "googleMapsUrl": "https://maps.google.com/?q=Victoria+Park+London+East",
+          "descriptionPt": "Parque de 218 acres não East End londinense com múltiples zonas de libertad designadas e uma comunidad fiel de paseadores de cães. A mitad oeste do parque tem a mayor pradaria sem trela; a zona do lago requiere trela. Victoria Park está muito menos concurrido que os Royal Parks em dias laborables.",
+          "offLeashAreaPt": "Pradaria oeste; múltiples zonas de libertad designadas",
+          "tipPt": "O parque tem uma gran comunidad de cães habituales sem trela: ve um terça-feira o quarta-feira pela manhã para a melhor socialización e menos concurrencia."
         }
       ],
       "tipsEn": [
@@ -208,6 +242,23 @@
           "q": "¿Hay parques caninos vallados en Londres?",
           "a": "Sí: Londres tiene varios parques caninos completamente vallados. El sitio The Londog (thelondog.com/enclosed-dog-parks) mantiene un mapa actualizado de recintos seguros, útil para perros reactivos o en entrenamiento de vuelta."
         }
+      ],
+      "titlePt": "Parques com cães em Londres",
+      "introPt": "Os 8 millones de londinenses comparten a cidade com uma red extraordinaria de Royal Parks e zonas verdes de bairro, a maioria das cuales dan a bienvenida aos cães. Os Royal Parks —Hyde Park, Regent's Park, Hampstead Heath— são os destinos principales para passear com cão, cada uno com zonas de libertad delimitadas. Victoria Park não East End e Hampstead Heath a norte de Londres ofrecen a melhor combinación de libertad sem trela e terreno natural. Os cães devem ir com trela em todas as ruas públicas e na maioria das zonas dos parques fora das áreas designadas; as multas se aplican (140 £+).",
+      "tipsPt": [
+        "Os cães devem ir com trela durante o Cambio de Guardia em St. James's Park: evita a ventana das 10:45h.",
+        "Normas dos Royal Parks: os cães sem trela estão permitidos na maioria das zonas, mas devem ir com trela perto dos parques infantiles, pistas deportivas e jardins de flores.",
+        "Os espacios verdes da City of London Corporation (incluido Hampstead Heath) são generalmente mais permisivos em cuanto al acceso sem trela que as zonas dos Royal Parks."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo soltar a mi cão em Hyde Park?",
+          "a": "Sí, na mayor parte do parque aberto, incluido o Dog Bowl perto de Speakers' Corner. Os cães devem ir com trela na secção de Kensington Gardens, perto do Serpentine e nos jardins de flores formales."
+        },
+        {
+          "q": "¿Hay parques caninos vallados em Londres?",
+          "a": "Sí: Londres tem varios parques caninos completamente vallados. O sitio The Londog (thelondog.com/enclosed-dog-parks) mantiene um mapa actualizado de recintos seguros, útil para cães reactivos o em entrenamiento de vuelta."
+        }
       ]
     },
     "transport": {
@@ -224,7 +275,9 @@
           "modeEs": "Metro (Tube)",
           "policy": "Dogs travel free. Must be kept on a short lead or in a suitable carrier at all times. Not permitted on seats. Staff cannot take charge of animals. Dogs must be carried on moving escalators unless trained to walk them or a lift is available. Check TfL's step-free access map before travelling to avoid deep-line stations.",
           "policyFr": "Les chiens voyagent gratuitement. Doivent être tenus en laisse courte ou dans un sac de transport. Ne peuvent pas occuper les sièges. Le personnel ne peut pas prendre en charge les animaux. Les chiens doivent être portés dans les escalators sauf s'ils sont entraînés à les emprunter ou si un ascenseur est disponible.",
-          "policyEs": "Los perros viajan gratis. Deben mantenerse con correa corta o en transportín en todo momento. No pueden ocupar asientos. El personal no puede hacerse cargo de los animales. Los perros deben llevarse en brazos en las escaleras mecánicas salvo que estén entrenados o haya ascensor."
+          "policyEs": "Los perros viajan gratis. Deben mantenerse con correa corta o en transportín en todo momento. No pueden ocupar asientos. El personal no puede hacerse cargo de los animales. Los perros deben llevarse en brazos en las escaleras mecánicas salvo que estén entrenados o haya ascensor.",
+          "modePt": "Metro (Tube)",
+          "policyPt": "Os cães viajan grátis. Devem mantenerse com trela corta o em transportadora em todo momento. Não podem ocupar asientos. O pessoal não pode hacerse cargo dos animales. Os cães devem llevarse em brazos nas escaleras mecánicas salvo que estén entrenados o haya ascensor."
         },
         {
           "mode": "Bus & Tram",
@@ -232,7 +285,9 @@
           "modeEs": "Autobús y Tranvía",
           "policy": "Dogs travel free. Permitted at driver's discretion — a driver may refuse if the dog seems dangerous or uncontrolled. Dogs must be on a lead and not on seats. In practice, well-behaved dogs on leads are accepted without issue on the vast majority of London buses.",
           "policyFr": "Les chiens voyagent gratuitement. Admission à la discrétion du conducteur — qui peut refuser si le chien paraît dangereux ou incontrôlable. Les chiens doivent être en laisse et ne pas occuper les sièges. En pratique, les chiens bien tenus sont acceptés sans problème dans la grande majorité des bus londoniens.",
-          "policyEs": "Los perros viajan gratis. Admitidos a discreción del conductor, que puede rechazarlos si el perro parece peligroso o sin control. Los perros deben ir con correa y no pueden ocupar asientos. En la práctica, los perros bien portados con correa son aceptados sin problemas en la gran mayoría de los autobuses londinenses."
+          "policyEs": "Los perros viajan gratis. Admitidos a discreción del conductor, que puede rechazarlos si el perro parece peligroso o sin control. Los perros deben ir con correa y no pueden ocupar asientos. En la práctica, los perros bien portados con correa son aceptados sin problemas en la gran mayoría de los autobuses londinenses.",
+          "modePt": "Autocarro e Elétrico",
+          "policyPt": "Os cães viajan grátis. Admitidos a discreción do conductor, que pode rechazarlos se o cão parece peligroso o sem control. Os cães devem ir com trela e não podem ocupar asientos. Na práctica, os cães bem portados com trela são aceites sem problemas na gran mayoría dos autocarros londinenses."
         },
         {
           "mode": "National Rail & Elizabeth Line",
@@ -240,7 +295,9 @@
           "modeEs": "National Rail y Elizabeth Line",
           "policy": "Dogs travel free on most National Rail services within London and the Southeast. Well-behaved dogs are allowed on all Elizabeth Line (Crossrail) services. On longer National Rail journeys outside London, a maximum of two dogs per passenger applies. Dogs must be on leads.",
           "policyFr": "Les chiens voyagent gratuitement sur la plupart des services National Rail dans Londres et le Sud-Est. Les chiens bien tenus sont autorisés sur toute l'Elizabeth Line. Sur les trajets National Rail plus longs hors de Londres, deux chiens maximum par passager sont autorisés. Les chiens doivent être en laisse.",
-          "policyEs": "Los perros viajan gratis en la mayoría de los servicios de National Rail dentro de Londres y el sureste. Los perros bien portados están permitidos en todos los servicios de Elizabeth Line. En trayectos de National Rail más largos fuera de Londres, se admiten un máximo de dos perros por pasajero. Los perros deben ir con correa."
+          "policyEs": "Los perros viajan gratis en la mayoría de los servicios de National Rail dentro de Londres y el sureste. Los perros bien portados están permitidos en todos los servicios de Elizabeth Line. En trayectos de National Rail más largos fuera de Londres, se admiten un máximo de dos perros por pasajero. Los perros deben ir con correa.",
+          "modePt": "National Rail e Elizabeth Line",
+          "policyPt": "Os cães viajan grátis na maioria dos serviços de National Rail dentro de Londres e o sureste. Os cães bem portados estão permitidos em todos os serviços de Elizabeth Line. Em trayectos de National Rail mais longos fora de Londres, se admiten um máximo de dos cães por pasajero. Os cães devem ir com trela."
         }
       ],
       "sections": [
@@ -250,7 +307,9 @@
           "titleEs": "Enlaces de transporte útiles",
           "contentEn": "TfL journey planner with step-free access filter: tfl.gov.uk/plan-a-journey. Check 'Step-free access' to find tube stations with lifts — essential for large dogs who can't use escalators. TfL pets policy: tfl.gov.uk/travel-information/safety/pets-on-public-transport. National Rail dog policy and ticket purchase: nationalrail.co.uk.",
           "contentFr": "Planificateur de trajet TfL avec filtre accès sans marche : tfl.gov.uk/plan-a-journey. Cochez 'Step-free access' pour trouver les stations avec ascenseurs — essentiel pour les grands chiens qui ne peuvent pas emprunter les escalators. Politique animaux TfL : tfl.gov.uk/travel-information/safety/pets-on-public-transport.",
-          "contentEs": "Planificador de viajes TfL con filtro de acceso sin escalones: tfl.gov.uk/plan-a-journey. Marca 'Step-free access' para encontrar estaciones con ascensores, esencial para perros grandes que no pueden usar escaleras mecánicas. Política de mascotas TfL: tfl.gov.uk/travel-information/safety/pets-on-public-transport."
+          "contentEs": "Planificador de viajes TfL con filtro de acceso sin escalones: tfl.gov.uk/plan-a-journey. Marca 'Step-free access' para encontrar estaciones con ascensores, esencial para perros grandes que no pueden usar escaleras mecánicas. Política de mascotas TfL: tfl.gov.uk/travel-information/safety/pets-on-public-transport.",
+          "titlePt": "Ligações de transporte útiles",
+          "contentPt": "Planificador de viajes TfL com filtro de acceso sem escalones: tfl.gov.uk/plan-a-journey. Marca 'Step-free access' para encontrar estações com ascensores, esencial para cães grandes que não podem usar escaleras mecánicas. Política de animais TfL: tfl.gov.uk/travel-information/safety/pets-on-public-transport."
         }
       ],
       "faqsEn": [
@@ -281,6 +340,18 @@
         {
           "q": "Mi perro es demasiado grande para llevarlo en brazos en las escaleras mecánicas — ¿cómo navego por el metro?",
           "a": "Usa el planificador de viajes TfL con el filtro 'step-free access' para ir por estaciones con ascensor. Las principales estaciones accesibles son King's Cross St. Pancras, Paddington, Stratford y Canary Wharf."
+        }
+      ],
+      "titlePt": "Moverse por Londres com tu cão",
+      "introPt": "Transport for London (TfL) opera uma das redes de transporte urbano mais amigables para cães de Europa. Os cães viajan grátis em todos os serviços TfL —metro, autocarro, DLR, London Overground e elétrico— sem limite de tamanho, só requisitos de comportamiento. O mayor reto práctico são as escaleras mecánicas das líneas profundas do metro: debes levar a tu cão em brazos (salvo que esté entrenado para usarlas o haya ascensor). As estações com ascensor hacen que viajar com cães sea muito mais práctico.",
+      "faqsPt": [
+        {
+          "q": "¿Necesito comprar um bilhete para mi cão não metro de Londres?",
+          "a": "Não: os cães viajan grátis em todos os serviços TfL, incluidos o metro, autocarro, DLR e Overground. Não se necesita bilhete ni Oyster card."
+        },
+        {
+          "q": "Mi cão é demasiado grande para llevarlo em brazos nas escaleras mecánicas — ¿como navego pelo metro?",
+          "a": "Usa o planificador de viajes TfL com o filtro 'step-free access' para ir por estações com ascensor. As principales estações acessíveis são King's Cross St. Pancras, Paddington, Stratford e Canary Wharf."
         }
       ]
     },
@@ -342,6 +413,18 @@
           "q": "¿Hay playas aptas para perros más cerca de Londres que Whitstable?",
           "a": "Shoeburyness en Essex está a unos 75 minutos desde Fenchurch Street y tiene acceso todo el año para perros en sus tramos más tranquilos. No tiene la escena gastronómica de Whitstable pero está menos concurrida."
         }
+      ],
+      "titlePt": "Praias aptas para cães perto de Londres",
+      "introPt": "Londres não tem praias propias: a costa mais cercana acessível para cães está a 1-2 horas de comboio. As dos melhores opciones são Whitstable em Kent (acceso o ano inteiro numa clásica praia de guijarros) e Camber Sands em East Sussex (dunas de areia dorada, cães permitidos o ano inteiro com restricción estacional numa secção central). Ambas são escapadas fáceis de um dia a partir de London St. Pancras, Victoria o Cannon Street.",
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a Whitstable Beach em verão?",
+          "a": "Sí: Whitstable não tem restricciones estacionales para cães. Os cães são bem-vindos durante o ano inteiro em toda a praia, lo que a torna na escapada de praia mais fiable a partir de Londres."
+        },
+        {
+          "q": "¿Hay praias aptas para cães mais perto de Londres que Whitstable?",
+          "a": "Shoeburyness em Essex está a uns 75 minutos a partir de Fenchurch Street e tem acceso o ano inteiro para cães nos seus tramos mais tranquilos. Não tem a escena gastronómica de Whitstable mas está menos concurrida."
+        }
       ]
     },
     "vets": {
@@ -362,7 +445,9 @@
         "euPetsFr": "Les passeports animaux de l'UE ne sont pas acceptés au Royaume-Uni post-Brexit. Les animaux de l'UE nécessitent un certificat sanitaire (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, ainsi qu'une puce et une vaccination antirabique valides. Les chiens nécessitent également un traitement antiténia (Praziquantel) administré 1–5 jours avant l'arrivée.",
         "nonEuPetsFr": "Les animaux hors UE nécessitent un certificat sanitaire (APHIS 7001 pour les animaux américains), une puce ISO (11784/11785), une vaccination antirabique valide et un traitement antiténia 1–5 jours avant l'entrée. Vérifiez les règles en vigueur sur gov.uk/bring-pet-to-great-britain avant de voyager.",
         "euPetsEs": "Los pasaportes de mascotas de la UE NO son aceptados en el Reino Unido post-Brexit. Las mascotas de la UE necesitan un Certificado Sanitario Animal (AHC) emitido por un veterinario oficial en los 10 días previos al viaje, más microchip y vacuna antirrábica válida. Los perros también necesitan tratamiento contra la tenia (Praziquantel) administrado 1–5 días antes de la llegada.",
-        "nonEuPetsEs": "Las mascotas no comunitarias necesitan Certificado Sanitario Animal (APHIS 7001 para mascotas estadounidenses), microchip ISO (11784/11785), vacuna antirrábica válida y tratamiento contra la tenia 1–5 días antes de la entrada. Verifica las normas actuales en gov.uk/bring-pet-to-great-britain antes de viajar."
+        "nonEuPetsEs": "Las mascotas no comunitarias necesitan Certificado Sanitario Animal (APHIS 7001 para mascotas estadounidenses), microchip ISO (11784/11785), vacuna antirrábica válida y tratamiento contra la tenia 1–5 días antes de la entrada. Verifica las normas actuales en gov.uk/bring-pet-to-great-britain antes de viajar.",
+        "euPetsPt": "Os passaportes de animais da UE Não são aceites não Reino Unido post-Brexit. As animais da UE necesitan um Certificado Sanitario Animal (AHC) emitido por um veterinário oficial nos 10 dias previos al viaje, mais microchip e vacina antirrábica válida. Os cães também necesitan tratamento contra a tenia (Praziquantel) administrado 1–5 dias antes da llegada.",
+        "nonEuPetsPt": "As animais não comunitarias necesitan Certificado Sanitario Animal (APHIS 7001 para animais estadounidenses), microchip ISO (11784/11785), vacina antirrábica válida e tratamento contra a tenia 1–5 dias antes da entrada. Verifica as normas actuales em gov.uk/bring-pet-to-great-britain antes de viajar."
       },
       "places": [
         {
@@ -382,7 +467,10 @@
           "tipFr": "Appelez même en cas d'urgence — l'équipe utilise les appels d'arrivée pour faire le triage et préparer le matériel, réduisant significativement le temps d'attente.",
           "tipEs": "Llama antes incluso en emergencias: el equipo usa las llamadas previas para hacer el triaje y preparar el equipamiento, reduciendo significativamente el tiempo de espera.",
           "googleMapsUrl": "https://maps.google.com/?q=Goddard+Wanstead+Veterinary+Hospital+84+New+Wanstead+London",
-          "photo": "/images/city-places/london-vets-goddard-wanstead-veterinary-hospital.jpg"
+          "photo": "/images/city-places/london-vets-goddard-wanstead-veterinary-hospital.jpg",
+          "hoursPt": "Aberto 24 horas, 365 dias ao ano",
+          "descriptionPt": "Hospital veterinário de urgências e referencia 24/7, acreditado pelo RCVS, não East End de Londres. Veterinários não lugar em todo momento, asistidos por enfermeras cualificadas. Equipos completos de TC, ecografía e cirugía. Acessível por Central Line até Snaresbrook, luego 10 min andando.",
+          "tipPt": "Llama antes mesmo em emergências: o equipo usa as llamadas previas para hacer o triaje e preparar o equipamiento, reduciendo significativamente o tiempo de espera."
         },
         {
           "name": "Goddard Mandeville Veterinary Hospital",
@@ -401,7 +489,10 @@
           "tipFr": "Situé près de l'A40 Western Avenue — plus accessible en voiture depuis l'ouest ou le centre de Londres.",
           "tipEs": "Situado cerca de la A40 Western Avenue: más accesible en coche desde el oeste o el centro de Londres.",
           "googleMapsUrl": "https://maps.google.com/?q=Goddard+Mandeville+Veterinary+Hospital+15+Mandeville+Road+Northolt+London",
-          "photo": "/images/city-places/london-vets-goddard-mandeville-veterinary-hospital.jpg"
+          "photo": "/images/city-places/london-vets-goddard-mandeville-veterinary-hospital.jpg",
+          "hoursPt": "Aberto 24 horas, 365 dias ao ano",
+          "descriptionPt": "Hospital veterinário de urgências 24/7, acreditado pelo RCVS, não oeste de Londres (Northolt). Uno dos três hospitales insignia do grupo Goddard. Instalaciones quirúrgicas e de cuidados intensivos completos. Acessível pela A40 o não metro até Northolt (Central Line).",
+          "tipPt": "Situado perto da A40 Western Avenue: mais acessível de carro a partir do oeste o centro de Londres."
         }
       ],
       "faqsEn": [
@@ -433,6 +524,18 @@
           "q": "¿Qué debo hacer en una emergencia veterinaria en Londres?",
           "a": "Llama inmediatamente a Goddard Wanstead (020 8989 7744) o Goddard Mandeville (020 8845 5677), ambos abiertos 24/7. Ten a mano el número de microchip de tu mascota, los registros de vacunación y cualquier historial de medicación."
         }
+      ],
+      "titlePt": "Veterinário de urgências em London — Hospitales e clínicas veterinárias",
+      "introPt": "Londres cuenta com uma excelente cobertura veterinária de urgências, com o Goddard Veterinary Group operando três hospitales 24/7 em toda a cidade. Todos estão acreditados pelo RCVS com instalaciones quirúrgicas e de cuidados intensivos completos. Para cualquier emergência que ponga em peligro a vida, llama com antelación para que o equipo pueda prepararse.",
+      "faqsPt": [
+        {
+          "q": "¿Necesito trazer o passaporte europeu de mi cão al visitar Londres?",
+          "a": "O passaporte europeu para animais já não se aceita não Reino Unido. Necesitas um Certificado Sanitario Animal (AHC) válido não RU, emitido por um veterinário acreditado em tu país de origen nos 10 dias previos al viaje. Os cães também necesitan tratamento contra a tenia 1–5 dias antes da llegada."
+        },
+        {
+          "q": "¿Qué debo hacer numa emergência veterinária em Londres?",
+          "a": "Llama inmediatamente a Goddard Wanstead (020 8989 7744) o Goddard Mandeville (020 8845 5677), ambos abertos 24/7. Ten a mano o número de microchip de tu animal, os registros de vacinação e cualquier historial de medicación."
+        }
       ]
     },
     "tips": {
@@ -449,7 +552,9 @@
           "titleEs": "Requisitos de entrada post-Brexit",
           "contentEn": "EU pet passports are no longer valid for entry to the UK. You must obtain a UK Animal Health Certificate (AHC) from an accredited vet in your home country, issued within 10 days of travel. Dogs also require a tapeworm treatment (Praziquantel) administered by a vet 1–5 days before arrival in the UK. Your vet must enter the treatment date and product name in the AHC. Check the current requirements at gov.uk/bring-pet-to-great-britain — rules changed in 2024 and can update.",
           "contentFr": "Les passeports européens pour animaux ne sont plus valables pour entrer au Royaume-Uni. Vous devez obtenir un certificat sanitaire britannique (AHC) auprès d'un vétérinaire agréé dans votre pays d'origine, délivré dans les 10 jours précédant le voyage. Les chiens nécessitent également un traitement antiténia (Praziquantel) administré par un vétérinaire 1 à 5 jours avant l'arrivée au Royaume-Uni. Vérifiez les exigences actuelles sur gov.uk/bring-pet-to-great-britain.",
-          "contentEs": "Los pasaportes europeos para mascotas ya no son válidos para entrar al Reino Unido. Debes obtener un Certificado Sanitario Animal del RU (AHC) de un veterinario acreditado en tu país de origen, emitido en los 10 días previos al viaje. Los perros también necesitan un tratamiento antitenial (Praziquantel) administrado por un veterinario 1–5 días antes de la llegada al RU. Comprueba los requisitos actuales en gov.uk/bring-pet-to-great-britain."
+          "contentEs": "Los pasaportes europeos para mascotas ya no son válidos para entrar al Reino Unido. Debes obtener un Certificado Sanitario Animal del RU (AHC) de un veterinario acreditado en tu país de origen, emitido en los 10 días previos al viaje. Los perros también necesitan un tratamiento antitenial (Praziquantel) administrado por un veterinario 1–5 días antes de la llegada al RU. Comprueba los requisitos actuales en gov.uk/bring-pet-to-great-britain.",
+          "titlePt": "Requisitos de entrada post-Brexit",
+          "contentPt": "Os passaportes europeus para animais já não são válidos para entrar al Reino Unido. Debes obtener um Certificado Sanitario Animal do RU (AHC) de um veterinário acreditado em tu país de origen, emitido nos 10 dias previos al viaje. Os cães também necesitan um tratamento antitenial (Praziquantel) administrado por um veterinário 1–5 dias antes da llegada al RU. Comprueba os requisitos actuales em gov.uk/bring-pet-to-great-britain."
         },
         {
           "titleEn": "Dog Rules in London",
@@ -457,7 +562,9 @@
           "titleEs": "Normas para perros en Londres",
           "contentEn": "Dogs must be on a lead on all public streets and pavements. Off-lead is permitted in most Royal Parks and green spaces outside designated protected areas. Fouling fines are enforced (typically £100). Banned breeds under the Dangerous Dogs Act 1991: Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro. These breeds are prohibited in the UK even if microchipped and vaccinated — check breed rules before planning travel.",
           "contentFr": "Les chiens doivent être tenus en laisse sur toutes les voies et trottoirs publics. La liberté est autorisée dans la plupart des Royal Parks et espaces verts en dehors des zones protégées. Les amendes pour déjections sont appliquées (généralement 100 £). Races interdites en vertu du Dangerous Dogs Act 1991 : Pit Bull Terrier, Tosa Japonais, Dogo Argentino, Fila Brasileiro. Ces races sont interdites au Royaume-Uni même si elles sont micropucées et vaccinées.",
-          "contentEs": "Los perros deben ir con correa en todas las calles y aceras públicas. La libertad está permitida en la mayoría de los Royal Parks y espacios verdes fuera de las áreas protegidas designadas. Las multas por excrementos se aplican (normalmente 100 £). Razas prohibidas según la Dangerous Dogs Act 1991: Pit Bull Terrier, Tosa japonés, Dogo Argentino, Fila Brasileño. Estas razas están prohibidas en el Reino Unido aunque estén microchipadas y vacunadas."
+          "contentEs": "Los perros deben ir con correa en todas las calles y aceras públicas. La libertad está permitida en la mayoría de los Royal Parks y espacios verdes fuera de las áreas protegidas designadas. Las multas por excrementos se aplican (normalmente 100 £). Razas prohibidas según la Dangerous Dogs Act 1991: Pit Bull Terrier, Tosa japonés, Dogo Argentino, Fila Brasileño. Estas razas están prohibidas en el Reino Unido aunque estén microchipadas y vacunadas.",
+          "titlePt": "Normas para cães em Londres",
+          "contentPt": "Os cães devem ir com trela em todas as ruas e aceras públicas. A libertad está permitida na maioria dos Royal Parks e espacios verdes fora das áreas protegidas designadas. As multas por excrementos se aplican (normalmente 100 £). Razas prohibidas segundo a Dangerous Dogs Act 1991: Pit Bull Terrier, Tosa japonés, Dogo Argentino, Fila Brasileño. Estas razas estão prohibidas não Reino Unido embora estén microchipadas e vacunadas."
         }
       ],
       "places": [],
@@ -480,6 +587,15 @@
         {
           "q": "¿Es Londres apto para perros en verano?",
           "a": "Sí, con matices. Los Royal Parks son excelentes en verano y las playas como Whitstable son fácilmente accesibles en tren. Los vagones del metro profundo se vuelven muy calurosos en verano: las líneas Circle, District y Central superan regularmente los 30°C en días calurosos, lo cual es incómodo y potencialmente peligroso para razas braquicéfalas. Usa autobuses durante las olas de calor."
+        }
+      ],
+      "titlePt": "Consejos para viajar a Londres com tu cão",
+      "introPt": "Londres é inusualmente adecuada para viajar com cão: a cultura dos pubs, os espacios verdes per cápita e as reglas de transporte liberales a hacen mais fácil que muitas capitales europeias. Os principales puntos de fricción são os requisitos de entrada post-Brexit (não se aceita passaporte europeu), as escaleras mecánicas nas estações do metro profundo e o calor veraniego nos vagones fechados.",
+      "tipsPt": [],
+      "faqsPt": [
+        {
+          "q": "¿É Londres apto para cães em verão?",
+          "a": "Sí, com matices. Os Royal Parks são excelentes em verão e as praias como Whitstable são fácilmente acessíveis de comboio. Os vagones do metro profundo se vuelven muito calurosos em verão: as líneas Circle, District e Central superan regularmente os 30°C em dias calurosos, lo cual é incómodo e potencialmente peligroso para razas braquicéfalas. Usa autocarros durante as olas de calor."
         }
       ]
     },
@@ -508,7 +624,11 @@
           "tip": "Book a VIPooch Morning slot (listed on their events page) for a quieter experience with your dog on the glass walkways.",
           "tipFr": "Réservez un créneau VIPooch Morning (sur leur page événements) pour une expérience plus calme avec votre chien sur les passerelles vitrées.",
           "tipEs": "Reserva un horario VIPooch Morning (en su página de eventos) para una experiencia más tranquila con tu perro en las pasarelas de cristal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tower+Bridge+London"
+          "googleMapsUrl": "https://maps.google.com/?q=Tower+Bridge+London",
+          "descriptionPt": "O ponte mais icónico de Londres é também o seu atracción de pago mais amigable para cães, acogiendo a cientos de cães cada ano. Os cães com trela estão admitidos em todo o recinto, incluidas as pasarelas de cristal em altura e as Salas de Máquinas Victorianas. O ponte organiza VIPooch Morning: sesiones de apertura anticipada com prioridad para cães, reservables no seu web.",
+          "dogPolicyPt": "Cães com trela admitidos em todo o recinto, incluidas pasarelas de cristal e salas de máquinas",
+          "admissionFeePt": "Adultos 12,30 £, crianças 5,60 £ (preços 2026); cães grátis",
+          "tipPt": "Reserva um horario VIPooch Morning (no seu página de eventos) para uma experiencia mais tranquila com tu cão nas pasarelas de cristal."
         },
         {
           "name": "Brunel Museum",
@@ -527,7 +647,11 @@
           "tip": "Easily combined with a walk along the Rotherhithe riverside path — one of London's most underrated dog-walking routes.",
           "tipFr": "Se combine facilement avec une promenade le long du sentier riverside de Rotherhithe — l'un des itinéraires de balade avec chien les plus sous-estimés de Londres.",
           "tipEs": "Fácil de combinar con un paseo por el sendero ribereño de Rotherhithe: uno de los recorridos de paseo con perro más infravalorados de Londres.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brunel+Museum+Railway+Avenue+London+SE16"
+          "googleMapsUrl": "https://maps.google.com/?q=Brunel+Museum+Railway+Avenue+London+SE16",
+          "descriptionPt": "Um pequeño mas fascinante museu em Rotherhithe que cuenta a história de Isambard Kingdom Brunel e o Túnel do Támesis, o primer túnel submarino do mundo. Os cães são bem-vindos não espacio de exposición, lo que lo torna em uno dos poucos museus de Londres onde puedes explorar com tu cão.",
+          "dogPolicyPt": "Cães admitidos dentro do museu e no jardim junto ao rio",
+          "admissionFeePt": "Adultos 8 £, crianças grátis; cães grátis",
+          "tipPt": "Fácil de combinar com um passeio pelo trilho ribereño de Rotherhithe: uno dos recorridos de passeio com cão mais infravalorados de Londres."
         }
       ],
       "tipsEn": [
@@ -562,6 +686,19 @@
           "q": "¿Puedo llevar a mi perro al Borough Market?",
           "a": "Sí: los perros con correa son bienvenidos en Borough Market los días de mercado (jueves a sábado). El mercado es al aire libre y los vendedores son generalmente muy amigables con los perros."
         }
+      ],
+      "titlePt": "Atracciones com cães em Londres",
+      "introPt": "A maioria das grandes atracciones cubiertas de Londres —o Museu Británico, a Tate Modern, o V&A— não admiten cães. As excepciones são notables: Tower Bridge é o único gran monumento de pago que da a bienvenida formal aos cães, e o Brunel Museum em Rotherhithe é o único museu que permite cães não espacio de exposición. As experiencias culturais al aire libre são muito mais acessíveis: passear pela South Bank, as margens de Southwark o os puestos de Borough Market admite cães fácilmente.",
+      "tipsPt": [
+        "O passeio da South Bank a partir de Waterloo Bridge até Tower Bridge são 2,5 km de camino ribereño apto para cães, pasando pela esplanada da Tate Modern, Borough Market e Hay's Galleria.",
+        "Borough Market (quinta-feira–sábados) é um dos os mercados de comida mais amigables para cães de Londres: os cães com trela são bem-vindos entre os puestos.",
+        "O Horniman Museum em Forest Hill tem 16 acres de jardins onde os cães com trela são bem-vindos; o edifício principal do museu é só para humanos."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão al Borough Market?",
+          "a": "Sí: os cães com trela são bem-vindos em Borough Market os dias de mercado (quinta-feira a sábado). O mercado é al aire libre e os vendedores são generalmente muito amigables com os cães."
+        }
       ]
     },
     "petsitting": {
@@ -587,7 +724,10 @@
           ],
           "tip": "Filter by 'experienced with large dogs' and 'has own dog' in the Rover search to find sitters who will genuinely exercise your dog rather than just a garden drop-in.",
           "tipFr": "Filtrez par 'expérimenté avec les grands chiens' et 'possède un chien' dans la recherche Rover pour trouver des gardiens qui exerceront vraiment votre chien plutôt qu'une simple visite dans le jardin.",
-          "tipEs": "Filtra por 'experiencia con perros grandes' y 'tiene perro propio' en la búsqueda de Rover para encontrar cuidadores que realmente ejerciten a tu perro y no solo hagan una visita al jardín."
+          "tipEs": "Filtra por 'experiencia con perros grandes' y 'tiene perro propio' en la búsqueda de Rover para encontrar cuidadores que realmente ejerciten a tu perro y no solo hagan una visita al jardín.",
+          "descriptionPt": "A red mais grande de paseadores de cães e cuidadores de animais em Londres, com mais de 20.000 cuidadores locales. Todos os cuidadores pasan uma verificación de antecedentes. Serviços: visitas de control, passeios (30 e 60 min), alojamento em casa e guardería diurna. Coste medio: 14 £/passeio de 30 min, 30–45 £/noite em alojamento.",
+          "serviceTypePt": "Passeios, cuidado, alojamento em casa, guardería diurna",
+          "tipPt": "Filtra por 'experiencia com cães grandes' e 'tem cão propio' na búsqueda de Rover para encontrar cuidadores que realmente ejerciten a tu cão e não só hagan uma visita al jardim."
         },
         {
           "name": "Pawshake London",
@@ -604,7 +744,10 @@
           ],
           "tip": "Book boarding 2–3 weeks in advance for summer and bank holiday weekends — London sitters fill up quickly.",
           "tipFr": "Réservez la pension 2–3 semaines à l'avance pour les week-ends d'été et jours fériés — les gardiens londoniens se remplissent vite.",
-          "tipEs": "Reserva el alojamiento con 2–3 semanas de antelación para los fines de semana de verano y festivos: los cuidadores londinenses se llenan rápido."
+          "tipEs": "Reserva el alojamiento con 2–3 semanas de antelación para los fines de semana de verano y festivos: los cuidadores londinenses se llenan rápido.",
+          "descriptionPt": "Pawshake conecta aos dueños de cães londinenses com cuidadores e paseadores locales, todos cubiertos pela Garantía Pawshake. A plataforma cobra uma comisión do 19% aos cuidadores. Especialmente fuerte para o alojamento e estadias de cuidado mais longas.",
+          "serviceTypePt": "Passeios, cuidado, alojamento, cuidado em casa",
+          "tipPt": "Reserva o alojamento com 2–3 semanas de antelación para os fines de semana de verão e festivos: os cuidadores londinenses se llenan rápido."
         }
       ],
       "tipsEn": [
@@ -638,6 +781,19 @@
         {
           "q": "¿Cuánto cuesta un paseador de perros en Londres?",
           "a": "Espera pagar 14–18 £ por un paseo grupal de 30 minutos y 18–25 £ por un paseo individual de 60 minutos (medias Rover abril 2026). El alojamiento nocturno suele costar 30–45 £ por noche según el barrio y la experiencia del cuidador."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães em Londres",
+      "introPt": "Londres tem uno dos mercados de cuidado de animais mais grandes de Europa, com mais de 20.000 paseadores de cães registrados só em Rover em abril de 2026. Tanto Rover como Pawshake estão bem establecidos na cidade com cuidadores com antecedentes verificados e sistemas de valoraciones transparentes. Os costes medios são de aproximadamente 14–18 £ por passeio de 30 minutos.",
+      "tipsPt": [
+        "Reúnete sempre com o cuidador junto a tu cão antes de comprometerte com o alojamento nocturno: Londres é uma cidade grande e a calidad dos cuidadores varía significativamente mesmo em plataformas verificadas.",
+        "No centro de Londres, a guardería diurna costuma ser mais práctica que o alojamento nocturno para estadias cortas: tu cão va a algún lugar durante os dias de museus e vuelve contigo al hotel.",
+        "Comprueba que tu hotel aceita específicamente cães: os hotéis londinenses van a partir dos completamente bem-vindos (com cama e premios para cães) até um reticente 'só cães pequeños em habitaciones de planta baja'."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta um paseador de cães em Londres?",
+          "a": "Espera pagar 14–18 £ por um passeio grupal de 30 minutos e 18–25 £ por um passeio individual de 60 minutos (medias Rover abril 2026). O alojamento nocturno costuma costar 30–45 £ por noite segundo o bairro e a experiencia do cuidador."
         }
       ]
     }

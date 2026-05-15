@@ -33,7 +33,11 @@
           "tip": "Reserve the courtyard terrace in summer — it's quieter than the Laurinská-facing window seats.",
           "tipFr": "Réservez la terrasse de la cour en été — c'est plus calme que les places fenêtre côté Laurinská.",
           "tipEs": "Reserva la terraza del patio en verano: es más tranquila que las mesas junto a la ventana sobre Laurinská.",
-          "googleMapsUrl": "https://maps.google.com/?q=Urban+House+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Urban+House+Bratislava",
+          "descriptionPt": "Café-restaurante aberto todo o dia em pleno centro histórico, gestionado pelo equipo atrás de Gorila Urban Space. Os cães são explicitamente bem-vindos no interior e na esplanada do patio, com tigelas de água na puerta. A cozinha funciona a partir do pequeno-almoço até a jantar tardía com uma buena carta internacional, e o interior industrial descontraído deja sitio de sobra para acomodar a um cão sob a mesa.",
+          "petPolicyPt": "Cães admitidos em interior e esplanada; tigelas de água disponibles",
+          "mustTryPt": "Brunch todo o dia, cervejas artesanas eslovacas de barril",
+          "tipPt": "Reserva a esplanada do patio em verão: é mais tranquila que as mesas junto a ventana sobre Laurinská."
         },
         {
           "name": "LINOS Bistro & Coffee Shop",
@@ -55,7 +59,11 @@
           "tip": "Weekday mornings are quietest — by Saturday brunch the few indoor tables fill within 15 minutes of opening.",
           "tipFr": "Les matinées en semaine sont les plus calmes — dès le brunch du samedi, les rares tables en salle se remplissent en 15 minutes après l'ouverture.",
           "tipEs": "Las mañanas entre semana son las más tranquilas: en el brunch del sábado las pocas mesas interiores se llenan en 15 minutos tras la apertura.",
-          "googleMapsUrl": "https://maps.google.com/?q=LINOS+Bistro+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=LINOS+Bistro+Bratislava",
+          "descriptionPt": "Bistró acolhedor a poucos pasos da catedral de San Martín e na mesma rua que a famosa estatua de bronce do Man at Work. A pegatina do escaparate da explicitamente a bienvenida a cães com trela, e o pequeño interior tem um par de tigelas de água. Carta sencilla de brunch e almoço de inspiración mediterrânea, e o melhor café de este tramo do centro histórico.",
+          "petPolicyPt": "Cães admitidos com trela",
+          "mustTryPt": "Tostada de aguacate, flat white",
+          "tipPt": "As mañanas entre semana são as mais tranquilas: não brunch do sábado as poucas mesas interiores se llenan em 15 minutos tras a apertura."
         },
         {
           "name": "The Red Lion Pub",
@@ -77,7 +85,11 @@
           "tip": "Sit at the south end of the terrace — closest to the lawn where dogs can stretch between drinks.",
           "tipFr": "Installez-vous au sud de la terrasse — près de la pelouse où les chiens peuvent se dégourdir entre deux verres.",
           "tipEs": "Siéntate en el extremo sur de la terraza: el más cercano al césped donde los perros pueden estirar las patas entre rondas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Red+Lion+Pub+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Red+Lion+Pub+Bratislava",
+          "descriptionPt": "Pub de estilo británico na arbolada praça de Hviezdoslav, pet-friendly no interior e na amplia esplanada do lado da praça. Buena opción para uma pinta tranquila pela noite com o cão aos pies, com uma longa carta de cervejas eslovacas e checas de barril e platos de pub. Frecuentado pela comunidad expatriada do centro histórico, o pessoal habla bem inglés.",
+          "petPolicyPt": "Cães admitidos em interior e esplanada",
+          "mustTryPt": "Pilsner Urquell, fish & chips, halušky eslovacos",
+          "tipPt": "Siéntate não extremo sur da esplanada: o mais cercano al relva onde os cães podem estirar as patas entre rondas."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Los cafés de Bratislava ofrecen cuencos de agua?",
           "a": "Muchos sí, sobre todo los dog-friendly señalizados con una pegatina en el escaparate. Aun así, es educado pedirlos, y un cuenco plegable es buen plan B."
         }
+      ],
+      "titlePt": "Restaurantes para cães em Bratislava",
+      "introPt": "O compacto centro histórico de Bratislava é realmente acolhedor com os cães: a maioria de cafés e pubs admiten cães com trela sem problema, e a escritório de turismo local promueve activamente a cidade como pet-friendly. As esplanadas de maio a outubro estão abertas em todo o lado; o interior depende do local, mas a gran mayoría dos cafés independientes dicen sí. A continuación, três direções fiables no centro histórico.",
+      "tipsPt": [
+        "A maioria das esplanadas do centro histórico são pet-friendly por defecto: Hviezdoslav, Hlavné námestie e Laurinská concentran as melhores opciones.",
+        "Os pubs eslovacos (krčma) admiten casi sempre cães com trela na barra; a norma é preguntar al entrar.",
+        "Os tigelas de água são habituales mas não universales: uma tigela plegable é útil para ir saltando de café em café."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães dentro dos restaurantes de Bratislava?",
+          "a": "Na maioria de cafés, pubs e bistrós, sí: a hospitalidad eslovaca costuma ser aberta com cães com trela em interiores. Os restaurantes de alta cozinha são mais estrictos; pregunta antes de sentarte."
+        },
+        {
+          "q": "¿Dónde está a mayor concentración de cafés pet-friendly em Bratislava?",
+          "a": "Nas ruas Laurinská, Michalská e Panská do centro histórico, além disso de todo o arco da praça Hviezdoslav."
+        },
+        {
+          "q": "¿Os cafés de Bratislava ofrecen tigelas de água?",
+          "a": "Muitos sí, sobretudo os pet-friendly señalizados com uma pegatina não escaparate. Aun así, é educado pedirlos, e uma tigela plegable é buen plan B."
+        }
       ]
     },
     "parks": {
@@ -179,7 +212,15 @@
           "tip": "Walk up from the Castle area via Mudroňova street — twenty minutes uphill brings you straight to the central clearing.",
           "tipFr": "Montez depuis le quartier du Château par Mudroňova — vingt minutes de montée vous amènent directement à la clairière centrale.",
           "tipEs": "Sube desde la zona del Castillo por Mudroňova: veinte minutos de subida te llevan directos al claro central.",
-          "googleMapsUrl": "https://maps.google.com/?q=Horsky+Park+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Horsky+Park+Bratislava",
+          "descriptionPt": "Parque forestal histórico creado não século XIX numa colina por encima do centro histórico, justo detrás do Palácio Presidencial. Trilhos sombreados entre árvores maduros, um pequeño claro e a antiga casa forestal Horáreň reconvertida em café. Os cães devem ir com trela nos trilhos principales, mas os locales costumam soltarlos nas sendas superiores menos transitadas.",
+          "amenitiesPt": [
+            "Trilhos em floresta",
+            "Café (Horáreň)",
+            "Sombra em verão",
+            "Conecta com o memorial Slavín"
+          ],
+          "tipPt": "Sube a partir da zona do Castelo por Mudroňova: veinte minutos de subida te llevan directos al claro central."
         },
         {
           "name": "Sad Janka Kráľa",
@@ -214,7 +255,15 @@
           "tip": "Cross the SNP Bridge on foot from the Old Town — the panorama of the Castle on the way over is one of the city's best free views.",
           "tipFr": "Traversez le pont SNP à pied depuis la vieille ville — le panorama sur le château pendant la traversée est l'une des meilleures vues gratuites de la ville.",
           "tipEs": "Cruza a pie el puente SNP desde el casco antiguo: el panorama del Castillo durante el cruce es una de las mejores vistas gratuitas de la ciudad.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sad+Janka+Krala+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Sad+Janka+Krala+Bratislava",
+          "descriptionPt": "O parque público mais antigo de Europa Central, inaugurado em 1776 em estilo barroco na margem sur do Danubio, justo em frente do centro histórico e a cinco minutos cruzando o ponte SNP. Amplios passeios de grava, plátanos maduros e uma pequeña zona de juegos vallada no centro. Os cães são bem-vindos com trela por todo o parque, com uma tolerancia discreta para soltarlos nas margens a primera hora.",
+          "amenitiesPt": [
+            "Vistas al centro histórico a partir da margem",
+            "Amplios passeios de grava",
+            "Junto ao centro comercial Aupark",
+            "Terminal de elétrico"
+          ],
+          "tipPt": "Cruza a pé o ponte SNP a partir do centro histórico: o panorama do Castelo durante o cruce é uma das as melhores vistas gratuitas da cidade."
         },
         {
           "name": "Železná Studnička",
@@ -249,7 +298,15 @@
           "tip": "Take the chairlift up from Železná Studnička to Kamzík for a 7 km off-leash descent through forest back to the city.",
           "tipFr": "Prenez le télésiège depuis Železná Studnička jusqu'à Kamzík pour une descente sans laisse de 7 km à travers la forêt jusqu'à la ville.",
           "tipEs": "Toma el telesilla desde Železná Studnička hasta Kamzík para una bajada sin correa de 7 km a través del bosque hasta la ciudad.",
-          "googleMapsUrl": "https://maps.google.com/?q=Zelezna+Studnicka+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Zelezna+Studnicka+Bratislava",
+          "descriptionPt": "Longo valle boscoso não extremo sur dos Pequeños Cárpatos, destino tradicional de passeio canino salvaje. Hay tramos sem trela señalizados que siguen os trilhos superiores para a torre de televisión de Kamzík, com uma cadena de embalses junto ao camino principal. As zonas bajas são acessíveis com o autocarro 213 a partir de Patrónka.",
+          "amenitiesPt": [
+            "Trilhos sem trela señalizados",
+            "Arroyos forestales",
+            "Café/restaurante não trilho sob",
+            "Acceso com bus 213"
+          ],
+          "tipPt": "Toma o telesilla a partir de Železná Studnička até Kamzík para uma bajada sem trela de 7 km a través do floresta até a cidade."
         }
       ],
       "tipsEn": [
@@ -308,6 +365,27 @@
           "q": "¿Hay obligación de correa en el centro de Bratislava?",
           "a": "Sí: el centro y el casco antiguo exigen correa. Fuera del centro la norma es la misma en calles y la mayoría de parques; sin correa solo se permite en zonas marcadas."
         }
+      ],
+      "titlePt": "Melhores parques para cães em Bratislava",
+      "introPt": "Bratislava se sitúa não ángulo onde as estribaciones dos Cárpatos encontram-se com o Danubio, e por eso o espacio verde é excepcionalmente generoso para uma capital centroeuropea. O floresta do século XIX de Horský Park, os terrenos barrocos de Sad Janka Kráľa al outro lado do rio e o floresta salvaje de Železná Studnička cubren juntos todas as modalidades de passeio canino urbano. Fuera do centro a trela é obrigatória, mas Železná Studnička e varios tramos señalizados permiten correr sueltos. Lleva um bozal para o transporte: a lei eslovaca lo exige para cães medianos e grandes.",
+      "tipsPt": [
+        "As zonas sem trela na cidade são limitadas: os trilhos marcados de Železná Studnička são os principales. A maioria dos demás espacios verdes exigen trela.",
+        "Os dispensadores municipales de bolsas são habituales em Petržalka e a lo longo do Danubio; lleva as tuyas nas praças mais antigas do casco viejo.",
+        "A lei eslovaca obliga a levar bozal em transporte público aos cães medianos e grandes: lleva uno se piensas usar elétrico o autocarro para ir a um parque."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode correr mi cão sem trela em Bratislava?",
+          "a": "Os trilhos superiores marcados de Železná Studnička para Kamzík são a principal zona sem trela oficial. Em Sad Janka Kráľa e Horský Park se tolera soltarlos nos rincones mais tranquilos, mas não está señalizado formalmente."
+        },
+        {
+          "q": "¿Se admiten cães nos terrenos do Castelo de Bratislava?",
+          "a": "Não: as animais não se admiten no interior do castelo ni nos seus esplanadas. A ladera sob o castelo (lado de Mudroňova) é pet-friendly com trela."
+        },
+        {
+          "q": "¿Hay obligación de trela no centro de Bratislava?",
+          "a": "Sí: o centro e o centro histórico exigen trela. Fuera do centro a norma é a mesma em ruas e a maioria de parques; sem trela só se permite em zonas marcadas."
+        }
       ]
     },
     "transport": {
@@ -334,7 +412,10 @@
           "tip": "Travelling without a ticket for the dog incurs a €5 fine on the spot — buy the dog ticket along with yours from the start.",
           "tipFr": "Voyager sans ticket pour le chien entraîne une amende immédiate de 5 € — prenez le ticket chien en même temps que le vôtre dès le départ.",
           "tipEs": "Viajar sin billete para el perro implica multa inmediata de 5 €: compra el billete del perro con el tuyo desde el principio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hodzovo+namestie+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Hodzovo+namestie+Bratislava",
+          "descriptionPt": "DPB opera a densa red de elétricos, trolebuses e autocarros que cubre o centro histórico, Petržalka, Karlova Ves e o aeroporto. As animais pequeñas em transportadora fechado viajan grátis; os cães medianos e grandes necesitan um bilhete simple (mesma tarifa que um viajero), trela e bozal. Tickets a través da app IDS BK o contactless na puerta dos elétricos nuevos.",
+          "petPolicyPt": "Animais pequeñas em transportadora grátis; cães grandes necesitan bozal, trela e bilhete simple",
+          "tipPt": "Viajar sem bilhete para o cão implica multa inmediata de 5 €: compra o bilhete do cão com o tuyo a partir do principio."
         }
       ],
       "tipsEn": [
@@ -393,6 +474,27 @@
           "q": "¿Puedo llevar al perro de Bratislava a Viena en tren?",
           "a": "Sí: los trenes transfronterizos de ZSSK y ÖBB admiten perros al medio billete eslovaco más un suplemento EuroCity de 1 €. Correa y bozal siguen siendo obligatorios."
         }
+      ],
+      "titlePt": "Transporte para animais em Bratislava",
+      "introPt": "O transporte de Bratislava lo gestionan a red DPB (elétrico, trolebús, autocarro) e os ferrocarriles nacionais ZSSK. Ambos admiten cães mas com reglas estrictas de tamanho e equipamiento: as animais pequeñas em transportadora fechado viajan grátis, mientras que os cães medianos e grandes necesitan trela, bozal e um bilhete aparte não transporte urbano. ZSSK cobra medio bilhete por um cão com trela e bozal. As reglas parecen quisquillosas sobre o papel, mas se aplican de verdad: lleva um bozal embora tu cão não lo use nunca em casa.",
+      "tipsPt": [
+        "Nos comboios nacionais ZSSK, um cão com trela e bozal viaja a medio bilhete; uma animal pequeña em transportadora fechado viaja grátis sem bilhete.",
+        "Os comboios internacionais EuroCity añaden um suplemento de 1 € por cão al preço do medio bilhete.",
+        "Os taxis toleran animais em Bratislava mas queda a discreción do conductor: di 'pes' (cão) al reservar e deja uma buena propina."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hace falta um bilhete aparte para o cão nos elétricos de Bratislava?",
+          "a": "Sí: os cães medianos e grandes necesitan um bilhete simple al mesmo preço que um viajero. As animais pequeñas em transportadora fechado viajan grátis."
+        },
+        {
+          "q": "¿De verdad é obrigatório o bozal não transporte público?",
+          "a": "Sí, para razas medianas e grandes. Os inspectores aplican a norma: lleva um bozal tipo cesta embora tu cão só lo necesite para trayectos cortos."
+        },
+        {
+          "q": "¿Puedo levar al cão de Bratislava a Viena de comboio?",
+          "a": "Sí: os comboios transfronterizos de ZSSK e ÖBB admiten cães al medio bilhete eslovaco mais um suplemento EuroCity de 1 €. Trela e bozal siguen siendo obrigatórios."
+        }
       ]
     },
     "beaches": {
@@ -419,7 +521,10 @@
           "tip": "Take tram 4 to its terminus at Zlaté piesky — twenty minutes from the centre and you walk straight onto the path.",
           "tipFr": "Prenez le tram 4 jusqu'à son terminus à Zlaté piesky — vingt minutes depuis le centre et vous arrivez directement au sentier.",
           "tipEs": "Toma el tranvía 4 hasta su terminal en Zlaté piesky: veinte minutos desde el centro y entras directamente al sendero.",
-          "googleMapsUrl": "https://maps.google.com/?q=Zlate+piesky+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Zlate+piesky+Bratislava",
+          "descriptionPt": "O mayor complejo de lago estival de Bratislava, uma antiga gravera reconvertida com praias de areia, deportes acuáticos e restaurantes de temporada. Hay uma praia canina señalizada na margem este, com acceso sem trela em temporada. Fuera do verão, toda a margem se torna num passeio canino tranquilo sem trela.",
+          "petPolicyPt": "Sem trela na praia canina (margem este); com trela em outros puntos em verão",
+          "tipPt": "Toma o elétrico 4 até o seu terminal em Zlaté piesky: veinte minutos a partir do centro e entras directamente al trilho."
         },
         {
           "name": "Danube embankment at Sad Janka Kráľa",
@@ -437,7 +542,10 @@
           "tip": "Walk west toward Devín on the riverside cycle path — it links 14 km of continuous dog-friendly waterfront in one direction.",
           "tipFr": "Marchez vers l'ouest jusqu'à Devín par la piste cyclable rive — 14 km de front d'eau dog-friendly continu dans une seule direction.",
           "tipEs": "Camina hacia el oeste hasta Devín por el carril bici junto al río: 14 km de orilla dog-friendly continua en una sola dirección.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sad+Janka+Krala+Danube"
+          "googleMapsUrl": "https://maps.google.com/?q=Sad+Janka+Krala+Danube",
+          "descriptionPt": "Trilho llano de asfalto e adoquines que recorre a margem sur do Danubio, a partir do ponte SNP para o ponte Apollo al este. Cães com trela o ano inteiro; a franja se ensancha num amplio passeio de relva não linde de Sad Janka Kráľa. Frecuentado a partes iguales por corredores, ciclistas e dueños de cães.",
+          "petPolicyPt": "Cães com trela o ano inteiro",
+          "tipPt": "Camina para o oeste até Devín pelo carril bici junto ao rio: 14 km de margem pet-friendly continua numa sola direção."
         },
         {
           "name": "Devín Riverside (Morava confluence)",
@@ -455,7 +563,10 @@
           "tip": "Take bus 29 from Most SNP — 35 minutes door-to-door, every 30 minutes, dog ticket required.",
           "tipFr": "Prenez le bus 29 depuis Most SNP — 35 minutes porte à porte, toutes les 30 minutes, ticket chien obligatoire.",
           "tipEs": "Toma el autobús 29 desde Most SNP: 35 minutos puerta a puerta, cada 30 minutos, billete de perro obligatorio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Devin+Castle+riverside"
+          "googleMapsUrl": "https://maps.google.com/?q=Devin+Castle+riverside",
+          "descriptionPt": "Onde o Morava encontra-se com o Danubio justo sob as ruinas do castelo de Devín, símbolo eslovaco histórico encaramado num acantilado de 212 metros. Os cães são bem-vindos com trela na senda ribereña e os prados sob o castelo, embora não podem entrar não propio castelo. O carril bici de 14 km para o centro histórico sigue o Danubio: totalmente pet-friendly.",
+          "petPolicyPt": "Cães admitidos com trela na senda ribereña; não admitidos dentro do castelo",
+          "tipPt": "Toma o autocarro 29 a partir de Most SNP: 35 minutos puerta a puerta, cada 30 minutos, bilhete de cão obrigatório."
         }
       ],
       "tipsEn": [
@@ -514,6 +625,27 @@
           "q": "¿Se admiten perros en el carril bici hacia Viena?",
           "a": "Sí: los 60 km enteros de la ruta Eurovelo junto al Danubio son dog-friendly con correa. Los primeros 14 km del lado de Bratislava hasta Devín son el tramo más pintoresco."
         }
+      ],
+      "titlePt": "Riberas e lagos pet-friendly em Bratislava",
+      "introPt": "Bratislava está sobre o Danubio mas não tem mar, así que 'praia' aqui significa margens do rio, reservas de meandros e praias de lago alrededor da cidade. Zlaté piesky (Arenas Doradas) é a praia de lago veraniega mais cercana, com uma zona canina señalizada; o muelle do Danubio frente a Sad Janka Kráľa é o passeio canino do ano inteiro; e Devín, onde o Danubio se une al Morava, ofrece a caminhada mais escénica em cualquier temporada. Lleva sempre água: o Danubio tem corriente fuerte e não é apto para banho.",
+      "tipsPt": [
+        "A corriente do Danubio é rápida e fria: mesmo os cães buenos nadadores não devem entrar al canal principal, só nos brazos secundarios tranquilos.",
+        "Zlaté piesky é o único punto real de banho em areia para cães perto da cidade; Petržalka e Karlova Ves têm pequeños puntos de banho não oficiales nos brazos do Danubio.",
+        "O carril bici Bratislava-Viena é totalmente pet-friendly com trela e atraviesa reservas forestales ricas em aves acuáticas: lleva a trela corta."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão banhar-se não Danubio em Bratislava?",
+          "a": "Não não canal principal: a corriente é demasiado fuerte. Os brazos secundarios tranquilos em Karlova Ves e a praia canina do lago Zlaté piesky são opciones mais seguras."
+        },
+        {
+          "q": "¿Hay uma praia canina real perto de Bratislava?",
+          "a": "Sí: o lago Zlaté piesky, al noreste do centro e acessível com o elétrico 4, tem uma praia canina señalizada na margem este."
+        },
+        {
+          "q": "¿Se admiten cães não carril bici para Viena?",
+          "a": "Sí: os 60 km enteros da ruta Eurovelo junto ao Danubio são pet-friendly com trela. Os primeros 14 km do lado de Bratislava até Devín são o tramo mais pintoresco."
+        }
       ]
     },
     "vets": {
@@ -538,7 +670,9 @@
           "tip": "Save the number before arrival — VETLINE often has shorter waits than the suburban 24h clinics for after-hours emergencies in the Old Town.",
           "tipFr": "Enregistrez le numéro avant votre arrivée — VETLINE a souvent moins d'attente que les cliniques 24h de banlieue pour une urgence dans la vieille ville la nuit.",
           "tipEs": "Guarda el número antes de llegar: VETLINE suele tener menos espera que las clínicas 24h de las afueras para urgencias nocturnas en el casco antiguo.",
-          "googleMapsUrl": "https://maps.google.com/?q=VETLINE+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=VETLINE+Bratislava",
+          "descriptionPt": "Hospital veterinário 24 horas no centro histórico, a poucos minutos a pé do Castelo, a opción de urgência mais céntrica da cidade. Equipado para cirugía, cuidados intensivos e diagnóstico por imagen, com veterinários angloparlantes de guardia. A ubicación coincide com a mayor concentración de hotéis turísticos, así que é a opción por defecto para a maioria dos visitantes com animal.",
+          "tipPt": "Guarda o número antes de chegar: VETLINE costuma ter menos espera que as clínicas 24h das afueras para urgências nocturnas no centro histórico."
         },
         {
           "name": "SmallVet Plus",
@@ -554,7 +688,9 @@
           "tip": "Free off-street parking — useful if you arrive by car from Vienna or Budapest in an emergency.",
           "tipFr": "Parking gratuit hors voirie — utile si vous arrivez en voiture depuis Vienne ou Budapest en urgence.",
           "tipEs": "Aparcamiento gratuito fuera de la calle: útil si llegas en coche desde Viena o Budapest en una urgencia.",
-          "googleMapsUrl": "https://maps.google.com/?q=SmallVet+Plus+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=SmallVet+Plus+Bratislava",
+          "descriptionPt": "Hospital moderno para animales de companhia não distrito de negócios de Ružinov, com línea de urgências 24/7. Buena reputación em cirugía e dermatología, elegido por muitos criadores locales e dueños expatriados. A uns diez minutos de táxi a partir dos hotéis do centro histórico.",
+          "tipPt": "Aparcamiento gratuito fora da rua: útil se llegas de carro a partir de Viena o Budapest numa urgência."
         }
       ],
       "tipsEn": [
@@ -612,6 +748,27 @@
         {
           "q": "¿Son caros los servicios veterinarios en Bratislava?",
           "a": "No: bastante más baratos que en Europa Occidental. Una consulta estándar ronda los 25 €, y las consultas de urgencia empiezan en 60–80 €."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Bratislava — Hospitales e clínicas veterinárias",
+      "introPt": "Bratislava cuenta com al menos quatro clínicas de urgência 24 horas, uma cifra alta para uma cidade de este tamanho: herencia do seu condição de capital centroeuropea com uma sólida tradição veterinária. VETLINE no centro histórico e SmallVet Plus funcionam ininterrumpidamente; PrimaVet, em Rača, gestiona os avisos fora de horario. O serviço em inglés está muito estendido e a maioria das clínicas entregan facturas em inglés para as reclamaciones al seguro.",
+      "tipsPt": [
+        "Eslovaquia aplica o passaporte europeu: tráelo; as clínicas anotan as vacinações directamente em él, lo que simplifica cualquier viaje posterior por Schengen.",
+        "O pago com tarjeta é a norma nas quatro clínicas 24/7; as consultas de urgência costumam empezar em 60–80 € mais medicación.",
+        "A medicina veterinária eslovaca é de calidad e bastante mais barata que a de Austria o Alemania: a vezes visitantes de países vecinos vienen aqui para procedimientos não urgentes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário 24 horas mais cercano al centro histórico de Bratislava?",
+          "a": "VETLINE em Staromestská 6/D, a poucos minutos a pé sob o Castelo. Teléfono: +421 911 122 122."
+        },
+        {
+          "q": "¿Os veterinários de Bratislava hablan inglés?",
+          "a": "Sí, casi sempre: a formación veterinária eslovaca incluye inglés e a cidade cuenta com uma comunidad internacional considerable. Os documentos em inglés são rutina."
+        },
+        {
+          "q": "¿São caros os serviços veterinários em Bratislava?",
+          "a": "Não: bastante mais baratos que em Europa Occidental. Uma consulta estándar ronda os 25 €, e as consultas de urgência empiezan em 60–80 €."
         }
       ]
     },
@@ -679,6 +836,27 @@
           "q": "¿Puede visitar mi perro el Castillo de Bratislava o el Puente UFO?",
           "a": "No en el interior del Castillo: solo perros de asistencia. La ladera y las terrazas exteriores de abajo son accesibles con correa. La plataforma de observación del Puente UFO no admite mascotas."
         }
+      ],
+      "titlePt": "Consejos prácticos para viajar com tu animal a Bratislava",
+      "introPt": "Bratislava é uma capital centroeuropea práctica e económica para viajar com cão: um centro histórico compacto que se recorre numa tarde, parques alrededor gratuitos, quatro veterinários de urgência 24/7 e hotéis pet-friendly em todas as gamas de preço. As dos coisas a ter em cuenta são a obligación de bozal não transporte e a obligación de trela no centro. Os consejos siguientes cubren as normas que os visitantes encontram de verdad.",
+      "tipsPt": [
+        "Lleva um bozal tipo cesta para cualquier viaje não elétrico, autocarro o comboio com um cão mediano o grande: a lei eslovaca lo exige e os inspectores aplican a norma.",
+        "Compra o bilhete do cão al mesmo tiempo que o tuyo; a multa imprevista por um cão não declarado em transporte público é de 5 €.",
+        "Guarda a urgência VETLINE 24h: +421 911 122 122 (Staromestská 6/D, centro histórico)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Bratislava uma buena cidade para viajar com cão?",
+          "a": "Sí: práctica, asequible, com hotéis pet-friendly a partir de 60 €. O compacto centro histórico e as colinas verdes de alrededor facilitan combinar visitas com longos passeios. A principal peculiaridad é a norma estricta do bozal em transporte público."
+        },
+        {
+          "q": "¿Qué documentos necesito para levar a mi cão a Eslovaquia?",
+          "a": "Um passaporte europeu (o equivalente fora da UE), uma vacinação antirrábica válida com al menos 21 dias, e um microchip. Os controles fronterizos são mínimos mas os documentos devem estar em regla."
+        },
+        {
+          "q": "¿Pode visitar mi cão o Castelo de Bratislava o Ponte UFO?",
+          "a": "Não no interior do Castelo: só cães de assistência. A ladera e as esplanadas exteriores de abajo são acessíveis com trela. A plataforma de observación do Ponte UFO não admite animais."
+        }
       ]
     },
     "attractions": {
@@ -705,7 +883,10 @@
           "tip": "Walk the loop in the early evening — golden light on the pastel facades is the classic Bratislava photo.",
           "tipFr": "Faites la boucle en début de soirée — la lumière dorée sur les façades pastel est la photo classique de Bratislava.",
           "tipEs": "Recorre el circuito a primera hora de la tarde: la luz dorada sobre las fachadas pastel es la foto clásica de Bratislava.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hlavne+namestie+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Hlavne+namestie+Bratislava",
+          "descriptionPt": "O corazón peatonal de Bratislava: a praça adoquinada Hlavné námestie com o seu fuente de Roldán e o antigo Ayuntamiento, conectada pela puerta de San Miguel com a frondosa praça Hviezdoslav. Os cães com trela são bem-vindos por todo o recorrido, com esplanadas e tigelas de água repartidos. A famosa estatua de bronce Čumil (Hombre não trabajo) está em Panská, entre ambas praças.",
+          "petPolicyPt": "Cães admitidos com trela; as praças exteriores são públicas 24/7",
+          "tipPt": "Recorre o circuito a primera hora da tarde: a luz dorada sobre as fachadas pastel é a foto clásica de Bratislava."
         },
         {
           "name": "Slavín Memorial Hill",
@@ -723,7 +904,10 @@
           "tip": "Walk up via Mudroňova or take bus 207 — the climb takes about twenty minutes from the centre but the panorama justifies the effort.",
           "tipFr": "Montez par Mudroňova ou prenez le bus 207 — la grimpée dure environ vingt minutes depuis le centre mais le panorama vaut l'effort.",
           "tipEs": "Sube por Mudroňova o toma el autobús 207: la subida dura unos veinte minutos desde el centro, pero el panorama compensa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Slavin+Memorial+Bratislava"
+          "googleMapsUrl": "https://maps.google.com/?q=Slavin+Memorial+Bratislava",
+          "descriptionPt": "Memorial soviético de 39 metros sobre uma colina por encima do centro histórico, de acceso libre, uno dos melhores panoramas da cidade. Os cães com trela são bem-vindos nas pradarias circundantes e não passeio perimetral. O relva da cima é amplio e tranquilo: punto popular al atardecer para os locales que pasean al cão viendo a puesta de sol sobre o Castelo.",
+          "petPolicyPt": "Cães admitidos com trela; só cães de assistência em exposiciones interiores",
+          "tipPt": "Sube por Mudroňova o toma o autocarro 207: a subida dura uns veinte minutos a partir do centro, mas o panorama compensa."
         },
         {
           "name": "Devín Castle Approach",
@@ -741,7 +925,10 @@
           "tip": "Cycle the 14 km Eurovelo path from the SNP Bridge to Devín — flat, dog-friendly, and the only way to see the riverbank in full.",
           "tipFr": "Empruntez à vélo les 14 km de la piste Eurovelo depuis le pont SNP jusqu'à Devín — plat, dog-friendly, et la seule manière de voir la berge en entier.",
           "tipEs": "Recorre en bici los 14 km de la ruta Eurovelo desde el puente SNP hasta Devín: llano, dog-friendly y la única manera de ver la orilla por completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Devin+Castle"
+          "googleMapsUrl": "https://maps.google.com/?q=Devin+Castle",
+          "descriptionPt": "As ruinas do castelo de Devín se alzan sobre um acantilado de 212 metros onde o Morava se une al Danubio, uno dos lugares mais fotografiados de Eslovaquia. Os cães não se admiten nas ruinas, mas a senda ribereña, a amplia pradaria al pie do acantilado e o carril bici a partir de Bratislava sí são acessíveis com trela. Um picnic junto ao água sob o acantilado é a salida canina clásica do dia.",
+          "petPolicyPt": "Cães admitidos com trela na aproximación exterior; não admitidos nas ruinas",
+          "tipPt": "Recorre de bicicleta os 14 km da ruta Eurovelo a partir do ponte SNP até Devín: llano, pet-friendly e a única manera de ver a margem por completo."
         }
       ],
       "tipsEn": [
@@ -800,6 +987,27 @@
           "q": "¿Se admiten perros en la plataforma UFO?",
           "a": "No: la plataforma UFO sobre el puente SNP no admite mascotas. El puente en sí se puede cruzar a pie con un perro con correa."
         }
+      ],
+      "titlePt": "Atracciones para animais em Bratislava",
+      "introPt": "A maioria das grandes atracciones de Bratislava estão al aire libre, lo que encaja muito bem com a visita pet-friendly. As praças do centro histórico, o memorial Slavín por encima de Horský Park e os acantilados de Devín sobre o rio Morava são acessíveis com trela e gratuitos. Os museus fechados e os interiores dos castelos estão vetados a cães não de asistencia. A continuación, três dos melhores puntos al aire libre.",
+      "tipsPt": [
+        "Os museus fechados (Galería Nacional Eslovaca, Museu Nacional Eslovaco) só admiten cães de assistência: planifica um cuidador o reparte a visita entre acompañantes.",
+        "As ruas peatonales do centro histórico concentran os passeios pet-friendly mais densos: o circuito a partir da puerta de San Miguel até a praça Hviezdoslav cubre os puntos clave em 90 minutos.",
+        "Bratislava é lo bastante compacta para que casi cualquier atracción esté a 15 minutos a pé com trela das praças centrales."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão entrar al Castelo de Bratislava?",
+          "a": "Não: só cães de assistência podem entrar al interior do castelo o aos seus esplanadas internas. O passeio exterior e a ladera de abajo são acessíveis com trela."
+        },
+        {
+          "q": "¿Cuál é a melhor excursión pet-friendly de um dia a partir de Bratislava?",
+          "a": "De bicicleta o autocarro 29 até o castelo de Devín (35–45 minutos), picnic na pradaria ribereña e vuelta pela ruta Eurovelo a través do floresta de ribera."
+        },
+        {
+          "q": "¿Se admiten cães na plataforma UFO?",
+          "a": "Não: a plataforma UFO sobre o ponte SNP não admite animais. O ponte em sí se pode cruzar a pé com um cão com trela."
+        }
       ]
     },
     "petsitting": {
@@ -820,7 +1028,9 @@
           "descriptionEs": "La filial eslovaca de la red europea Pawshake, con cientos de cuidadores verificados en Bratislava que ofrecen visitas, cuidado de día completo, paseos y alojamiento nocturno. Las reservas están aseguradas mediante la plataforma y la interfaz está totalmente traducida al inglés. La opción más fiable para visitantes sin contactos locales.",
           "tip": "Filter for 'apartment friendly' if your dog is small — most central Bratislava sitters live in flats, not houses.",
           "tipFr": "Filtrez sur 'apartment friendly' si votre chien est petit — la plupart des sitters du centre vivent en appartement, pas en maison.",
-          "tipEs": "Filtra por 'apartment friendly' si tu perro es pequeño: la mayoría de los cuidadores del centro de Bratislava viven en pisos, no en casas."
+          "tipEs": "Filtra por 'apartment friendly' si tu perro es pequeño: la mayoría de los cuidadores del centro de Bratislava viven en pisos, no en casas.",
+          "descriptionPt": "A filial eslovaca da red europeia Pawshake, com cientos de cuidadores verificados em Bratislava que ofrecen visitas, cuidado de dia completo, passeios e alojamento nocturno. As reservas estão aseguradas mediante a plataforma e a interfaz está totalmente traducida al inglés. A opción mais fiable para visitantes sem contactos locales.",
+          "tipPt": "Filtra por 'apartment friendly' se tu cão é pequeño: a maioria dos cuidadores do centro de Bratislava viven em pisos, não em casas."
         }
       ],
       "tipsEn": [
@@ -878,6 +1088,27 @@
         {
           "q": "¿Los hoteles ofrecen servicio de cuidado en Bratislava?",
           "a": "Algunos hoteles de gama alta (Sheraton, Radisson Blu Carlton) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de cães em Bratislava",
+      "introPt": "O cuidado de animais em Bratislava se reparte entre plataformas internacionais e uma sólida red informal de cuidadores locales. Pawshake.sk (filial eslovaca de Pawshake Europa) é o mayor mercado verificado; PetBacker também cubre a cidade. Os independientes locales encontram-se fácilmente em grupos de Facebook de expatriados, e os preços são entre um 30 e um 40 % mais baratos que em Viena.",
+      "tipsPt": [
+        "Tarifas medias: visita 10–12 €, passeio 8–12 €, dia completo 18–25 €, noite 20–30 €: bastante mais barato que Viena o Praga.",
+        "A maioria dos cuidadores do centro de Bratislava viven em piso: confirma como dormirá tu cão (jaula, sofá, com a familia) antes de reservar pernocta.",
+        "Os cuidadores eslovacos costumam hablar inglés e alemán o ruso, sobretudo no centro histórico e em Petržalka."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo encontrar um cuidador de cães em Bratislava sem muita antelación?",
+          "a": "Pawshake.sk é lo mais rápido: a maioria dos cuidadores confirman em poucas horas. Filtra por al menos diez opiniones e comprueba a preferencia piso-o-casa."
+        },
+        {
+          "q": "¿Estão regulados os paseadores em Eslovaquia?",
+          "a": "A lei eslovaca não exige licencia para os paseadores, mas os cuidadores de Pawshake e PetBacker estão asegurados mediante as plataformas: útil não raro caso de um incidente."
+        },
+        {
+          "q": "¿Os hotéis ofrecen serviço de cuidado em Bratislava?",
+          "a": "Algunos hotéis de gama alta (Sheraton, Radisson Blu Carlton) podem organizar um cuidador vía conserjería com coste adicional. Confírmalo sempre al reservar."
         }
       ]
     }

@@ -33,7 +33,11 @@
           "tip": "The terrace tables facing the Roman amphitheatre are the most photogenic — quietest before 11:00 and after 17:00.",
           "tipFr": "Les tables de la terrasse face à l'amphithéâtre romain sont les plus photogéniques — plus calmes avant 11h et après 17h.",
           "tipEs": "Las mesas de la terraza frente al anfiteatro romano son las más fotogénicas — más tranquilas antes de las 11:00 y después de las 17:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Alvino+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Alvino+Lecce",
+          "descriptionPt": "O café histórico mais emblemático de Lecce na Piazza Sant'Oronzo, fundado em 1950 — famoso por o seu pasticciotto leccese (pastelillo relleno de crema) e o seu granita de almendra. Cães bem-vindos na esplanada delantera o ano inteiro, boles na entrada.",
+          "petPolicyPt": "Cães bem-vindos em esplanada",
+          "mustTryPt": "Pasticciotto leccese, granita de almendra",
+          "tipPt": "As mesas da esplanada frente al anfiteatro romano são as mais fotogénicas — mais tranquilas antes das 11:00 e después das 17:00."
         },
         {
           "name": "Trattoria Le Zie - Cucina Casereccia",
@@ -55,7 +59,11 @@
           "tip": "Reserve by phone for dinner — the trattoria has 14 tables and fills up. The corner pavement table is the calmest spot for an anxious dog.",
           "tipFr": "Réservez par téléphone pour le dîner — la trattoria a 14 tables et se remplit. La table d'angle sur le trottoir est la plus calme pour un chien anxieux.",
           "tipEs": "Reserva por teléfono para la cena — la trattoria tiene 14 mesas y se llena. La mesa de esquina en la acera es la más tranquila para un perro ansioso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Trattoria+Le+Zie+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Trattoria+Le+Zie+Lecce",
+          "descriptionPt": "Trattoria salentina familiar regentada por « as tías » a partir de hace 50 anos — pittule cocidas a fuego lento, ciceri e tria e o clásico pezzetti de carne de caballo. Cães bem-vindos na esplanada delantera o ano inteiro, interior com acuerdo previo.",
+          "petPolicyPt": "Cães em esplanada; interior sob petición",
+          "mustTryPt": "Ciceri e tria, pittule, pezzetti de caballo",
+          "tipPt": "Reserva por teléfono para a jantar — a trattoria tem 14 mesas e se cheia. A mesa de esquina na acera é a mais tranquila para um cão ansioso."
         },
         {
           "name": "Quanto Basta",
@@ -77,7 +85,11 @@
           "tip": "The mezzanine table by the back is the quietest at dinner — request when reserving via phone.",
           "tipFr": "La table de la mezzanine au fond est la plus calme au dîner — demandez-la à la réservation téléphonique.",
           "tipEs": "La mesa del entresuelo del fondo es la más tranquila a la hora de la cena — pídela al reservar por teléfono.",
-          "googleMapsUrl": "https://maps.google.com/?q=Quanto+Basta+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Quanto+Basta+Lecce",
+          "descriptionPt": "Bistró creativo da Apulia-Salento numa calleja tranquila perto da Piazza Duomo — pizzas de masa madre, primi vegetales, carta de vinhos naturais. Cães bem-vindos em todo o lado incluida a pequeña sala; boles na puerta.",
+          "petPolicyPt": "Cães bem-vindos em todo o lado",
+          "mustTryPt": "Pizza de masa madre, ciceri e tria, Negroamaro natural",
+          "tipPt": "A mesa do entresuelo do fondo é a mais tranquila a hora da jantar — pídela al reservar por teléfono."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Puedo entrar a una pasticceria con mi perro para desayunar?",
           "a": "Sí en terraza. Caffè Alvino, Natale y Bar Pasticceria Andrea Ascalone en Lecce admiten perros con correa en mesas exteriores para el ritual matutino del pasticciotto y el café."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Lecce",
+      "introPt": "A cultura do café e a trattoria do Salento é fiablemente pet-friendly — os cães com trela são admitidos em esplanada por defecto, os boles aparecen sem pedirlos, e o centro histórico entre Piazza Sant'Oronzo e o Duomo concentra as melhores direções.",
+      "tipsPt": [
+        "A cultura do café do Salento é ampliamente pet-friendly — al menos o 75 % das trattorie e pasticcerie de Lecce admite cães com trela na esplanada delantera.",
+        "O calor estival do sul de Italia (a menudo 35-40 °C julho-agosto) — come pela manhã o después das 19:30; as ruas centrales de pedra de Lecce arden a mediodía.",
+        "Em italiano « água para o cão por favor »: « uma ciotola d'acqua per il cane, per favore » — nunca lo niegan em esplanada."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Lecce?",
+          "a": "Sí na mayoría. Perto do 75 % das trattorie e cafés de Lecce admite cães com trela na esplanada delantera; muitos os aceitam também no interior climatizado entre os serviços de almoço e jantar."
+        },
+        {
+          "q": "¿Puedo entrar a uma pasticceria com mi cão para desayunar?",
+          "a": "Sí em esplanada. Caffè Alvino, Natale e Bar Pasticceria Andrea Ascalone em Lecce admiten cães com trela em mesas exteriores para o ritual matutino do pasticciotto e o café."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "The shaded northern allée is the coolest summer afternoon spot — bring water, the limestone radiates heat from 11:00.",
           "tipFr": "L'allée nord ombragée est le coin le plus frais l'après-midi en été — apportez de l'eau, la pierre rayonne dès 11h.",
           "tipEs": "El paseo norte sombreado es el rincón más fresco por la tarde en verano — lleva agua, la piedra irradia calor desde las 11:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Comunale+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Comunale+Lecce",
+          "leashRulePt": "Só com trela",
+          "descriptionPt": "O principal jardim central de Lecce — passeios formales sob grandes pinos, quiosco de música, estanques ornamentales e busto de Giuseppe Garibaldi. Junto a Porta Napoli e a 4 min a pé de Piazza Duomo. Grátis.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Café",
+            "WiFi grátis",
+            "Zona infantil"
+          ],
+          "tipPt": "O passeio norte sombreado é o rincón mais fresco pela tarde em verão — lleva água, a pedra irradia calor a partir das 11:00."
         },
         {
           "name": "Parco di Belloluogo",
@@ -199,7 +237,15 @@
           "tip": "Best at sunrise or sunset — the olive groves are heat-traps in the middle of the day.",
           "tipFr": "Au mieux à l'aube ou au coucher du soleil — les oliveraies sont des pièges à chaleur en milieu de journée.",
           "tipEs": "Mejor al amanecer o al atardecer — los olivares son trampas de calor a mediodía.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Belloluogo+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Belloluogo+Lecce",
+          "leashRulePt": "Sem trela na maioria de trilhos; uma zona canina vallada",
+          "descriptionPt": "Parque agrícola-natural protegido que rodea o noreste da cidade — olivares, torre medieval de Belloluogo, trilhos. O único gran espacio verde de Lecce; uma zona canina vallada estilo losloop está na esquina sur.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Trilhos",
+            "Zona canina vallada"
+          ],
+          "tipPt": "Melhor al amanecer o al atardecer — os olivares são trampas de calor a mediodía."
         },
         {
           "name": "Bosco di Rauccio",
@@ -231,7 +277,15 @@
           "tip": "Visit on weekday mornings — Sunday afternoons bring local families and the trail can get busy.",
           "tipFr": "Visitez en matinée de semaine — les dimanches après-midi attirent les familles locales et les sentiers se remplissent.",
           "tipEs": "Visita por la mañana entre semana — los domingos por la tarde se llenan de familias locales.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bosco+di+Rauccio"
+          "googleMapsUrl": "https://maps.google.com/?q=Bosco+di+Rauccio",
+          "leashRulePt": "Sem trela em trilhos (abril-julho com trela em zonas de nidificación)",
+          "descriptionPt": "Floresta protegido de robles e matorral mediterrâneo a 7 km a norte de Lecce camino de Casalabate — uno dos poucos florestas originales do Salento que sobreviven, com trilhos señalizados e parking grátis. O floresta real mais cercano a Lecce.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Trilhos señalizados",
+            "Spots de picnic"
+          ],
+          "tipPt": "Visita pela manhã entre semana — os domingos pela tarde se llenan de familias locales."
         }
       ],
       "tipsEn": [
@@ -278,6 +332,23 @@
           "q": "¿Pueden los perros pasear por el centro storico de Lecce?",
           "a": "Sí — el centro histórico es peatonal, dog-friendly en todas partes con perros con correa. Cuidado con el suelo de piedra en verano (más de 50 °C en superficie) — botines o bálsamo para almohadillas recomendados."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Lecce",
+      "introPt": "O plano centro barroco de Lecce é corto em espacios verdes, mas a Villa Comunale está junto ao Duomo, o Parco di Belloluogo de 100 hectáreas rodea o borde noreste, e o campo rural com robledales e pinares costeros está a 10 min de carro.",
+      "tipsPt": [
+        "O centro storico de Lecce é corto em espacios verdes — a Villa Comunale e o parque Belloluogo são os únicos pulmones urbanos.",
+        "Calor estival do Salento (35-40 °C julho-agosto) — limita os passeios caninos antes das 09:00 e después das 19:00; as ruas de pedra irradian calor até entrada a noite.",
+        "Lleva sempre bolsas: multa municipal por excrementos de 50 €, controlada pela Polizia Municipale."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Lecce?",
+          "a": "Sem trela permitido só na zona vallada do Parco di Belloluogo e na maioria dos trilhos do Bosco di Rauccio. A Villa Comunale e as ruas peatonales centrales exigen trela em todo momento."
+        },
+        {
+          "q": "¿Podem os cães passear pelo centro storico de Lecce?",
+          "a": "Sí — o centro histórico é peatonal, pet-friendly em todo o lado com cães com trela. Cuidado com o solo de pedra em verão (mais de 50 °C em superficie) — botines o bálsamo para almohadillas recomendados."
+        }
       ]
     },
     "transport": {
@@ -302,7 +373,10 @@
           "tip": "Reserve a window seat in advance — peak summer Lecce-Bari trains can be standing-only.",
           "tipFr": "Réservez un siège fenêtre — les trains Lecce-Bari aux pointes estivales peuvent être debout uniquement.",
           "tipEs": "Reserva asiento de ventana — los trenes Lecce-Bari en plena temporada pueden ir solo de pie.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lecce+stazione"
+          "googleMapsUrl": "https://maps.google.com/?q=Lecce+stazione",
+          "descriptionPt": "Trenitalia opera comboios directos Frecciargento a partir de Lecce a Bari (1h30), Roma (5h30) e Milão (8h). Os cães pequeños em transportadora viajan grátis; os mais grandes requieren um bilhete a meio preço e bozal a bordo.",
+          "petPolicyPt": "Bilhete a meio preço + bozal para cães medianos/grandes",
+          "tipPt": "Reserva asiento de ventana — os comboios Lecce-Bari em plena temporada podem ir só de pie."
         },
         {
           "name": "Ferrovie Sud Est (FSE)",
@@ -318,7 +392,10 @@
           "tip": "Lecce-Otranto takes 1h25 with one change at Maglie — bring water, FSE rolling stock has no air-con on older trains.",
           "tipFr": "Lecce-Otrante prend 1h25 avec un changement à Maglie — apportez de l'eau, certains trains FSE n'ont pas la climatisation.",
           "tipEs": "Lecce-Otranto lleva 1h25 con un cambio en Maglie — lleva agua, los trenes FSE más antiguos no tienen aire acondicionado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lecce+stazione+FSE"
+          "googleMapsUrl": "https://maps.google.com/?q=Lecce+stazione+FSE",
+          "descriptionPt": "FSE opera a red ferroviaria regional do Salento a partir de Lecce para Otranto, Gallipoli, Maglie e Casarano — a forma mais fácil de chegar aos pueblos costeros do Salento sem carro. Mesmas normas caninas que Trenitalia.",
+          "petPolicyPt": "Bilhete a meio preço + bozal para cães medianos/grandes",
+          "tipPt": "Lecce-Otranto lleva 1h25 com um cambio em Maglie — lleva água, os comboios FSE mais antigos não têm aire acondicionado."
         },
         {
           "name": "Salento in Bus",
@@ -334,7 +411,10 @@
           "tip": "Call Salento in Bus the day before for assured boarding — drivers can refuse on full coaches in August.",
           "tipFr": "Appelez Salento in Bus la veille pour assurer l'embarquement — les chauffeurs peuvent refuser quand le car est complet en août.",
           "tipEs": "Llama a Salento in Bus el día antes para asegurar el embarque — los conductores pueden rechazar con autocares llenos en agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Salento+in+Bus+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Salento+in+Bus+Lecce",
+          "descriptionPt": "Red estacional de autocares costeros (junho-setembro) que conecta Lecce com as praias adriáticas e jónicas — Otranto, Torre dell'Orso, San Foca, Porto Cesareo, Gallipoli. Cães com trela admitidos grátis com acuerdo previo.",
+          "petPolicyPt": "Grátis com acuerdo previo",
+          "tipPt": "Llama a Salento in Bus o dia antes para asegurar o embarque — os conductores podem rechazar com autocares cheios em agosto."
         }
       ],
       "tipsEn": [
@@ -381,6 +461,23 @@
           "q": "¿Puedo llevar a mi perro a las playas del Salento en tren?",
           "a": "Sí. Los trenes regionales FSE desde Lecce llegan a Otranto y Gallipoli con un cambio en Maglie. El autocar estacional Salento in Bus también admite perros con correa con acuerdo previo."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Lecce",
+      "introPt": "O compacto centro storico de Lecce se cruza a pé em 15 minutos. Para as praias do Salento e os pueblos cercanos, os comboios regionales Ferrovie Sud Est, os autocarros STP e o serviço estacional Salento in Bus admiten todos cães com trela.",
+      "tipsPt": [
+        "A normativa ferroviaria italiana exige bozal para cães medianos e grandes a bordo, mais um bilhete a meio preço — aplica a Trenitalia e FSE.",
+        "O aeroporto Bari-Karol Wojtyła (BRI) está a 2h de carro o 1h30 em Frecciargento; Brindisi (BDS) a 30 min de carro — ambos admiten cães em cabina em algunos voos ITA Airways.",
+        "Alquilar carro em Lecce é muito recomendable para as praias do Salento — o transporte público não llega a todas as calas mais pequeñas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay que ponerle bozal a mi cão nos comboios italianos?",
+          "a": "Sí para cães medianos e grandes em Trenitalia e FSE — as reglas italianas exigen bozal e bilhete a meio preço. Os cães pequeños em transportadora viajan grátis sem bozal."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a as praias do Salento de comboio?",
+          "a": "Sí. Os comboios regionales FSE a partir de Lecce llegan a Otranto e Gallipoli com um cambio em Maglie. O autocar estacional Salento in Bus também admite cães com trela com acuerdo previo."
+        }
       ]
     },
     "beaches": {
@@ -419,7 +516,15 @@
           "tip": "No facilities — bring water, sunshade and a thick towel; the pinewood shade is the only natural shelter.",
           "tipFr": "Pas d'aménités — apportez eau, ombrelle et serviette épaisse ; l'ombre de la pinède est le seul abri naturel.",
           "tipEs": "Sin instalaciones — lleva agua, sombrilla y toalla gruesa; la sombra del pinar es el único refugio natural.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+per+cani+Frassanito"
+          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+per+cani+Frassanito",
+          "leashRulePt": "Sem trela na zona canina oficial o ano inteiro",
+          "descriptionPt": "A praia canina oficial mais cercana — tramo arenoso dentro da reserva natural dos lagos Alimini, a 35 min de carro a norte de Otranto. Pet-friendly o ano inteiro, pinar detrás, parking grátis.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Sombra de pinar",
+            "Sem instalaciones"
+          ],
+          "tipPt": "Sem instalaciones — lleva água, sombrilla e toalla gruesa; a sombra do pinar é o único refugio natural."
         },
         {
           "name": "Torre Chianca / San Cataldo",
@@ -449,7 +554,15 @@
           "tip": "Park at the public lot near Torre Specchia and walk south along the dunes for the dog-friendly stretch (5 min).",
           "tipFr": "Garez-vous au parking public près de Torre Specchia et marchez sud le long des dunes pour la section canine (5 min).",
           "tipEs": "Aparca en el público cerca de Torre Specchia y camina al sur por las dunas para el tramo canino (5 min).",
-          "googleMapsUrl": "https://maps.google.com/?q=Torre+Chianca+San+Cataldo"
+          "googleMapsUrl": "https://maps.google.com/?q=Torre+Chianca+San+Cataldo",
+          "leashRulePt": "Sem trela em zonas caninas señalizadas o ano inteiro",
+          "descriptionPt": "A praia mais cercana a Lecce (só 15 min de carro) — longa areia adriática e dunas a norte de San Cataldo, com zona canina a lo longo do tramo Torre Chianca. As praias familiares do centro excluyen cães em verão; fora de temporada é pet-friendly em todo o lado.",
+          "amenitiesPt": [
+            "Parking de pago",
+            "Bar em verão",
+            "Sombra de pinar"
+          ],
+          "tipPt": "Aparca não público perto de Torre Specchia e camina al sur pelas dunas para o tramo canino (5 min)."
         },
         {
           "name": "Bau Beach Punta Prosciutto",
@@ -482,7 +595,16 @@
           "tip": "Visit on weekday mornings before 11:00 — Saturday afternoons in July-August get extremely crowded.",
           "tipFr": "Visitez en matinée de semaine avant 11h — les samedis après-midi en juillet-août deviennent extrêmement chargés.",
           "tipEs": "Visita por la mañana entre semana antes de las 11:00 — los sábados por la tarde en julio-agosto se llenan muchísimo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bau+Beach+Punta+Prosciutto"
+          "googleMapsUrl": "https://maps.google.com/?q=Bau+Beach+Punta+Prosciutto",
+          "leashRulePt": "Sem trela na zona Bau Beach dedicada",
+          "descriptionPt": "Bau Beach (praia canina) dedicada não lado jónico — areia blanca fina, água turquesa pouco profunda, praia emblemática do Salento. 45 min de carro a oeste de Lecce. Tumbonas e sombrillas para os dueños em alquiler em verão.",
+          "amenitiesPt": [
+            "Alquiler de tumbonas",
+            "Bar de praia",
+            "Aseos públicos",
+            "Parking de pago"
+          ],
+          "tipPt": "Visita pela manhã entre semana antes das 11:00 — os sábados pela tarde em julho-agosto se llenan muchísimo."
         }
       ],
       "tipsEn": [
@@ -529,6 +651,23 @@
           "q": "¿Se admiten perros en las playas del Salento en verano?",
           "a": "Sí en zonas « spiaggia per cani » / « Bau Beach » señalizadas. Fuera de ellas, los perros están excluidos de las playas públicas principales del 1 mayo al 30 septiembre. Fuera de temporada (octubre-abril) la mayoría de playas son dog-friendly."
         }
+      ],
+      "titlePt": "Praias pet-friendly perto de Lecce",
+      "introPt": "A península do Salento tem tanto costa adriática como jónica a 20-40 min de Lecce — varias « spiagge per cani » oficiales (praias caninas) e acceso o ano inteiro nas secciones mais salvajes bordeadas de pinares.",
+      "tipsPt": [
+        "As praias municipales italianas costumam excluir cães do 1 maio ao \\10 setembro salvo em zonas « spiaggia per cani » / « Bau Beach » señalizadas — verifica sempre antes de ir.",
+        "As temperaturas da areia em julho-agosto costumam superar 50 °C — botines o bálsamo imprescindibles; limita a praia antes das 10:00 o después das 18:00.",
+        "Lleva sempre água para o cão — a maioria das praias do Salento não têm instalaciones e o água dulce mais cercana está nos bares de carretera."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana de Lecce?",
+          "a": "15 min de carro — Torre Chianca (San Cataldo) não Adriático. A « Bau Beach » oficial Punta Prosciutto não Jónico está a 45 min al oeste; Frassanito nos lagos Alimini está a 50 min al sureste."
+        },
+        {
+          "q": "¿Se admiten cães nas praias do Salento em verão?",
+          "a": "Sí em zonas « spiaggia per cani » / « Bau Beach » señalizadas. Fora de ellas, os cães estão excluidos das praias públicas principales do 1 maio ao \\10 setembro. Fora de temporada (outubro-abril) a maioria de praias são pet-friendly."
+        }
       ]
     },
     "vets": {
@@ -557,7 +696,9 @@
           "tip": "Call before driving in — they triage by phone and may redirect for non-urgent cases.",
           "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents.",
           "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Francesco+San+Cesario"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Francesco+San+Cesario",
+          "descriptionPt": "Clínica veterinária de urgências 24h em San Cesario di Lecce, a 8 km al sur do centro — cirugía completa, UCI, ecografía, rayos X. O veterinário 24/7 mais cercano para a região do Salento.",
+          "tipPt": "Llama antes de ir — triaje por teléfono e posible redirección para casos não urgentes."
         },
         {
           "name": "Ambulatorio Veterinario Dr. Caputo",
@@ -576,7 +717,9 @@
           "openingHours": "Mon-Fri 09:00-13:00, 16:30-20:00; Sat 09:00-13:00",
           "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
-          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
+          "descriptionPt": "Consulta moderna para pequeños animales no centro de Lecce — medicina general, vacinas, cirugía, odontología. Llamadas fora de horario derivadas a Clinica Veterinária San Francesco 24h.",
+          "tipPt": "Hablan inglés com fluidez e aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Centro Veterinario Salento",
@@ -596,7 +739,9 @@
           "tip": "EU pet passport issuance: around 35 €; microchip insertion 25 €.",
           "tipFr": "Délivrance passeport européen : environ 35 € ; pose puce 25 €.",
           "tipEs": "Expedición pasaporte europeo: unos 35 €; inserción microchip 25 €.",
-          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Salento+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Salento+Lecce",
+          "descriptionPt": "Consulta diurna a norte de Lecce — medicina general, expedición de passaporte europeu, microchip. Útil para emitir/actualizar um passaporte europeu durante o viaje.",
+          "tipPt": "Expedición passaporte europeu: uns 35 €; inserción microchip 25 €."
         }
       ],
       "tipsEn": [
@@ -643,6 +788,23 @@
           "q": "¿Necesito pasaporte europeo para Lecce?",
           "a": "Sí para entrar desde fuera de Italia. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico italiano adicional."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Lecce — Hospitales e clínicas veterinárias",
+      "introPt": "Lecce tem buena cobertura veterinária diurna e uma clínica regional de urgências 24h na cercana San Cesario di Lecce. A Facultad Veterinária de Bari está a 1h30 al norte para casos complejos.",
+      "tipsPt": [
+        "Italia está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Os veterinários do centro de Lecce Não hacen urgências 24h — pelas noites e fines de semana ve directamente a Clinica Veterinária San Francesco em San Cesario.",
+        "Lleva sempre o passaporte europeu original: as clínicas italianas não aceitam fotocopias para certificados de exportación."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h perto de Lecce?",
+          "a": "Clinica Veterinária San Francesco, Via Lecce 41 em San Cesario di Lecce, +39 0832 205 600 — 8 km al sur do centro, 12 min de carro. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito passaporte europeu para Lecce?",
+          "a": "Sí para entrar a partir de fora de Italia. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Sem papeleo específico italiano adicional."
+        }
       ]
     },
     "tips": {
@@ -658,21 +820,24 @@
           "photo": "/images/city-places/lecce-tips-best-season-for-visiting-lecce-with-a-dog.jpg",
           "description": "April-June and September-October are ideal — average highs 20-26 °C, manageable for dogs, and the Salento beaches are still dog-accessible (off-season). July-August are punishing: 35-40 °C heat, no shade, family beaches close to dogs. December-March is mild, walkable, and very quiet.",
           "descriptionFr": "Avril-juin et septembre-octobre sont idéaux — maxima moyens 20-26 °C, gérables pour un chien, et les plages du Salento sont encore accessibles aux chiens (hors saison). Juillet-août sont éprouvants : 35-40 °C, pas d'ombre, plages familiales fermées aux chiens. Décembre-mars est doux, marchable et très calme.",
-          "descriptionEs": "Abril-junio y septiembre-octubre son ideales — máximas medias 20-26 °C, manejables para un perro, y las playas del Salento aún son accesibles a perros (fuera de temporada). Julio-agosto son agotadores: 35-40 °C, sin sombra, playas familiares cerradas a perros. Diciembre-marzo es suave, caminable y muy tranquilo."
+          "descriptionEs": "Abril-junio y septiembre-octubre son ideales — máximas medias 20-26 °C, manejables para un perro, y las playas del Salento aún son accesibles a perros (fuera de temporada). Julio-agosto son agotadores: 35-40 °C, sin sombra, playas familiares cerradas a perros. Diciembre-marzo es suave, caminable y muy tranquilo.",
+          "descriptionPt": "Abril-junho e setembro-outubro são ideales — máximas medias 20-26 °C, manejables para um cão, e as praias do Salento aún são acessíveis a cães (fora de temporada). Julho-agosto são agotadores: 35-40 °C, sem sombra, praias familiares fechadas a cães. Dezembro-março é suave, pedonal e muito tranquilo."
         },
         {
           "name": "Lecce limestone heat",
           "photo": "/images/city-places/lecce-tips-lecce-limestone-heat.jpg",
           "description": "The honey-coloured pietra leccese (Lecce limestone) that lines every street in the centro storico radiates intense heat from late morning to sunset in summer — ground temperature can exceed 50 °C in July-August. Boots, paw balm, walks before 09:00 and after 19:00 are essential.",
           "descriptionFr": "La pietra leccese couleur miel qui pave chaque rue du centro storico irradie une chaleur intense du milieu de matinée jusqu'au coucher du soleil en été — la température au sol peut dépasser 50 °C en juillet-août. Bottines, baume pour coussinets, promenades avant 9h et après 19h sont essentiels.",
-          "descriptionEs": "La pietra leccese de color miel que pavimenta cada calle del centro storico irradia un calor intenso desde media mañana hasta el atardecer en verano — la temperatura del suelo puede superar 50 °C en julio-agosto. Botines, bálsamo para almohadillas, paseos antes de las 09:00 y después de las 19:00 son esenciales."
+          "descriptionEs": "La pietra leccese de color miel que pavimenta cada calle del centro storico irradia un calor intenso desde media mañana hasta el atardecer en verano — la temperatura del suelo puede superar 50 °C en julio-agosto. Botines, bálsamo para almohadillas, paseos antes de las 09:00 y después de las 19:00 son esenciales.",
+          "descriptionPt": "A pietra leccese de color miel que pavimenta cada rua do centro storico irradia um calor intenso a partir de media manhã até o atardecer em verão — a temperatura do solo pode superar 50 °C em julho-agosto. Botines, bálsamo para almohadillas, passeios antes das 09:00 e después das 19:00 são esenciales."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/lecce-tips-currency-cost.jpg",
           "description": "Italy uses the euro. Most hotels and restaurants accept Visa/Mastercard, but small trattorie often want cash. Pet supplements at Lecce hotels average 10-15 €/night — well below central Italy and on par with the EU median.",
           "descriptionFr": "L'Italie utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites trattorie préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Lecce tournent autour de 10-15 €/nuit — bien en-dessous de l'Italie centrale et alignés sur la médiane UE.",
-          "descriptionEs": "Italia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las trattorie pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Lecce rondan 10-15 €/noche — muy por debajo de la Italia central y en línea con la mediana UE."
+          "descriptionEs": "Italia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las trattorie pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Lecce rondan 10-15 €/noche — muy por debajo de la Italia central y en línea con la mediana UE.",
+          "descriptionPt": "Italia usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, mas as trattorie pequeñas costumam preferir efectivo. Os suplementos para animais em hotéis de Lecce rondan 10-15 €/noite — muito por debajo da Italia central e em línea com a mediana UE."
         }
       ],
       "tipsEn": [
@@ -719,6 +884,23 @@
           "q": "¿Cómo se compara Lecce con Bari para viajes caninos?",
           "a": "Lecce es más pequeña, más tranquila, con un centro storico más compacto y acceso más fácil a las playas del Salento. Bari es más grande, con más vuelos internacionales y mejor infraestructura de parques caninos urbanos. Lecce gana para un viaje barroco tranquilo; Bari para variedad."
         }
+      ],
+      "titlePt": "Viajar a Lecce com cão: consejos prácticos",
+      "introPt": "Lecce — a « Florencia do sul » — combina um centro storico barroco inscrito na UNESCO, a cultura do café tolerante do Salento, praias caninas o ano inteiro em Punta Prosciutto e Frassanito, e preços muito por debajo da Italia central.",
+      "tipsPt": [
+        "Lecce é uma ganga pet-friendly em Italia — suplemento medio para animais 10-15 €/noite, tarifas hoteleras a mitad que Florencia o Venecia.",
+        "A temporada de praias do Salento para cães va de outubro a abril sem trela na maioria de praias, acceso o ano inteiro em zonas « Bau Beach » oficiales.",
+        "Combina Lecce com uma excursión a Otranto o Gallipoli — dos centros históricos pet-friendly acessíveis de comboio FSE + a pé."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Lecce é buena para um fin de semana pet-friendly?",
+          "a": "Sí fora de julho-agosto. Lecce combina um centro storico barroco UNESCO, cultura do café tolerante com cães, praias caninas o ano inteiro em Punta Prosciutto e Frassanito a 30-45 min, e preços muito bajos. Evita as olas de calor de agosto — as temperaturas do solo superan 50 °C."
+        },
+        {
+          "q": "¿Como se compara Lecce com Bari para viajes caninos?",
+          "a": "Lecce é mais pequeña, mais tranquila, com um centro storico mais compacto e acceso mais fácil a as praias do Salento. Bari é mais grande, com mais voos internacionais e melhor infraestructura de parques caninos urbanos. Lecce gana para um viaje barroco tranquilo; Bari para variedade."
+        }
       ]
     },
     "attractions": {
@@ -744,7 +926,10 @@
           "tip": "Visit at sunset (the 'magic hour' for limestone) for the most photogenic light on the baroque facades.",
           "tipFr": "Visitez au coucher du soleil (« heure magique » de la pierre) pour la lumière la plus photogénique sur les façades baroques.",
           "tipEs": "Visita al atardecer (« hora mágica » de la piedra) para la luz más fotogénica sobre las fachadas barrocas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Piazza+del+Duomo+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+del+Duomo+Lecce",
+          "descriptionPt": "Uma das praças barrocas mais espectaculares de Italia — a catedral, o palácio episcopal, o seminario e o campanario dispuestos alrededor de uma única piazza fechada. Aberta 24/7, pet-friendly com cães com trela em toda a praça; o interior da catedral só admite cães de assistência.",
+          "petPolicyPt": "Cães grátis na praça; só de asistencia dentro",
+          "tipPt": "Visita al atardecer (« hora mágica » da pedra) para a luz mais fotogénica sobre as fachadas barrocas."
         },
         {
           "name": "Anfiteatro Romano",
@@ -761,7 +946,10 @@
           "tip": "At sunset the column of Sant'Oronzo and the amphitheatre create the city's iconic photograph — water bowls available at Caffè Alvino on the square.",
           "tipFr": "Au coucher du soleil la colonne de Sant'Oronzo et l'amphithéâtre créent la photo iconique de la ville — gamelles disponibles au Caffè Alvino sur la place.",
           "tipEs": "Al atardecer la columna de Sant'Oronzo y el anfiteatro crean la foto icónica de la ciudad — boles disponibles en el Caffè Alvino de la plaza.",
-          "googleMapsUrl": "https://maps.google.com/?q=Anfiteatro+Romano+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Anfiteatro+Romano+Lecce",
+          "descriptionPt": "Anfiteatro romano do século II na Piazza Sant'Oronzo — medio excavado, medio enterrado sob a praça moderna, aforo de 25 000 no seu dia. Visible 24/7 a partir do pavimento circundante, pet-friendly com cães com trela grátis.",
+          "petPolicyPt": "Vista exterior grátis; bajada a areia só cães de assistência",
+          "tipPt": "Al atardecer a columna de Sant'Oronzo e o anfiteatro crean a foto icónica da cidade — boles disponibles não Caffè Alvino da praça."
         },
         {
           "name": "Basilica di Santa Croce (façade)",
@@ -778,7 +966,10 @@
           "tip": "Mornings (08:00-10:00) have the best façade light and the fewest tour groups.",
           "tipFr": "Les matinées (8h-10h) offrent la meilleure lumière sur la façade et le moins de groupes touristiques.",
           "tipEs": "Las mañanas (08:00-10:00) tienen la mejor luz sobre la fachada y los menores grupos turísticos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilica+Santa+Croce+Lecce"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilica+Santa+Croce+Lecce",
+          "descriptionPt": "A obra maestra do barroco salentino — fachada do século XVII tallada em pietra leccese com cientos de figuras, gárgolas e motivos florales. Visible a partir da rua pública o ano inteiro, pet-friendly com cães com trela grátis. O interior só admite cães de assistência.",
+          "petPolicyPt": "Vista fachada grátis; interior só cães de assistência",
+          "tipPt": "As mañanas (08:00-10:00) têm a melhor luz sobre a fachada e os menores grupos turísticos."
         }
       ],
       "tipsEn": [
@@ -825,6 +1016,23 @@
           "q": "¿Se admiten perros en el centro storico de Lecce?",
           "a": "Sí — todo el centro histórico es peatonal, dog-friendly en todas partes con perros con correa. Cuidado con las temperaturas de la piedra en verano (50 °C+ en superficie) — botines o bálsamo recomendados."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Lecce",
+      "introPt": "A maioria dos lugares exteriores emblemáticos de Lecce são pet-friendly — Piazza Sant'Oronzo, Piazza do Duomo, o anfiteatro romano, a fachada da Basilica di Santa Croce e a Porta Napoli admiten todos cães com trela grátis.",
+      "tipsPt": [
+        "As atracciones al aire libre de Lecce admiten cães com trela grátis; os interiores de igrejas e museus (Cattedrale, Santa Croce, MUST) só admiten cães de assistência.",
+        "Todo o centro storico é peatonal — pet-friendly em todo o lado, mas cuidado com a pietra leccese em verão (50 °C+ em superficie).",
+        "Excursiones de comboio directo FSE: Otranto (1h25 com cambio em Maglie), Gallipoli (1h35), Maglie (35 min) — cães com trela a meio preço com bozal para cães medianos/grandes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a catedral de Lecce?",
+          "a": "A Piazza do Duomo e al exterior sí, com trela, grátis. O interior da catedral só admite cães de assistência."
+        },
+        {
+          "q": "¿Se admiten cães no centro storico de Lecce?",
+          "a": "Sí — todo o centro histórico é peatonal, pet-friendly em todo o lado com cães com trela. Cuidado com as temperaturas da pedra em verão (50 °C+ em superficie) — botines o bálsamo recomendados."
+        }
       ]
     },
     "petsitting": {
@@ -847,7 +1055,9 @@
           "website": "https://www.pawshake.it/lecce",
           "tip": "Filter for English-speaking sitters in the platform settings — about 50% of Lecce sitters speak fluent English, lower than northern Italy.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 50 % des sitters de Lecce parlent anglais couramment, inférieur à l'Italie du Nord.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 50 % de los cuidadores de Lecce habla inglés con fluidez, inferior al norte de Italia."
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 50 % de los cuidadores de Lecce habla inglés con fluidez, inferior al norte de Italia.",
+          "descriptionPt": "Plataforma internacional com uns 25 cuidadores verificados com base não Salento num radio de 5 km do centro de Lecce — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglés nos ajustes — alrededor do 50 % dos cuidadores de Lecce habla inglés com fluidez, inferior a norte de Italia."
         },
         {
           "name": "DogBuddy Italy",
@@ -861,7 +1071,9 @@
           "website": "https://www.rover.com/it/search/?location=Lecce",
           "tip": "Book at least 72h ahead in summer (June-August) — most popular sitters have a 4-week waiting list at peak season.",
           "tipFr": "Réservez au moins 72h à l'avance en été (juin-août) — les sitters les plus populaires ont 4 semaines de liste d'attente en haute saison.",
-          "tipEs": "Reserva al menos 72h antes en verano (junio-agosto) — los cuidadores más populares tienen 4 semanas de lista de espera en alta temporada."
+          "tipEs": "Reserva al menos 72h antes en verano (junio-agosto) — los cuidadores más populares tienen 4 semanas de lista de espera en alta temporada.",
+          "descriptionPt": "Plataforma orientada a Italia (ahora parte de Rover.com) com uns 15 cuidadores verificados de Lecce. Tarifa media 20-30 €/dia para alojamento; seguro incluido em cada reserva.",
+          "tipPt": "Reserva al menos 72h antes em verão (junho-agosto) — os cuidadores mais populares têm 4 semanas de lista de espera em alta temporada."
         }
       ],
       "tipsEn": [
@@ -907,6 +1119,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Lecce?",
           "a": "Sí pero la oferta es más escasa que en el norte de Italia — alrededor del 50 % de los cuidadores de Lecce en Pawshake habla inglés con fluidez. Filtra por idioma y lee reseñas recientes para confirmar."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Lecce",
+      "introPt": "Para as excursiones onde o cão não pode ir (interior da catedral, museu MUST, Castello Carlo V), Lecce tem pet-sitting fiable e verificado a través de plataformas internacionais e italianas.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Lecce rondan 20-30 €/dia — alrededor do 30 % por debajo de Roma o Milão, em línea com o mercado do Salento em general.",
+        "Confirma sempre o nivel de inglés do cuidador antes de reservar se não hablas italiano — os cuidadores do sul de Italia costumam hablar menos inglés que os do norte.",
+        "Varios B&B boutique do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Lecce?",
+          "a": "20-30 € por dia segundo cuidador e tamanho do cão, vía Pawshake o Rover. Visitas a domicilio 10-15 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Lecce?",
+          "a": "Sí mas a oferta é mais escasa que não norte de Italia — alrededor do 50 % dos cuidadores de Lecce em Pawshake habla inglés com fluidez. Filtra por idioma e lee reseñas recientes para confirmar."
         }
       ]
     }

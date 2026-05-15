@@ -33,7 +33,11 @@
           "tip": "Ask for a table near the Kramerstraße side for the best photo of the half-timbered façade — quieter than the inner courtyard at lunch.",
           "tipFr": "Demandez une table côté Kramerstraße pour la meilleure photo de la façade à colombages — plus calme que la cour intérieure au déjeuner.",
           "tipEs": "Pide una mesa del lado de Kramerstraße para la mejor foto de la fachada entramada — más tranquila que el patio interior en el almuerzo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Broyhan-Haus+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Broyhan-Haus+Hannover",
+          "descriptionPt": "Taberna entramada da Altstadt que data de 1576, que sirve clásicos da Baja Sajonia num ruela empedrado peatonal. Os cães com trela são bem-vindos nas mesas exteriores; o interior admite cães pequeños a petición.",
+          "petPolicyPt": "Cães bem-vindos em esplanada; cães pequeños dentro a petición",
+          "mustTryPt": "Hannoversche Potthucke, Bratwurst com mostaza, cerveja local Gilde",
+          "tipPt": "Pide uma mesa do lado de Kramerstraße para a melhor foto da fachada entramada — mais tranquila que o patio interior não almoço."
         },
         {
           "name": "Pier 51",
@@ -55,7 +59,11 @@
           "tip": "Reserve a terrace table at least two days ahead for summer weekends — the sunset window (19:00–21:00) fills up first.",
           "tipFr": "Réservez une table en terrasse au moins deux jours à l'avance pour les week-ends d'été — le créneau du coucher du soleil (19h–21h) se remplit en premier.",
           "tipEs": "Reserva una mesa en terraza con al menos dos días de antelación para los fines de semana de verano — la franja del atardecer (19:00–21:00) se llena primero.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pier+51+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Pier+51+Hannover",
+          "descriptionPt": "Restaurante com paredes de cristal na margem norte do Maschsee, com vistas panorámicas completas e amplia esplanada pet-friendly. O relva frente al restaurante é um lugar muito frecuentado pelos dueños de cães al atardecer em verão.",
+          "petPolicyPt": "Cães bem-vindos em esplanada e relva",
+          "mustTryPt": "Trucha do lago, flammkuchen, Steinhäger local",
+          "tipPt": "Reserva uma mesa em esplanada com al menos dos dias de antelación para os fines de semana de verão — a franja do atardecer (19:00–21:00) se cheia primero."
         },
         {
           "name": "Mr. Phung Kitchen",
@@ -77,7 +85,11 @@
           "tip": "The terrace is heated in winter with canopies — a rare all-weather dog-friendly spot in Hannover's cold months.",
           "tipFr": "La terrasse est chauffée l'hiver et abritée — un rare spot dog-friendly en toute saison durant les mois froids de Hanovre.",
           "tipEs": "La terraza está climatizada en invierno con toldos — un raro lugar dog-friendly en todo tiempo durante los meses fríos de Hannover.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mr+Phung+Kitchen+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Mr+Phung+Kitchen+Hannover",
+          "descriptionPt": "Restaurante pan-asiático moderno não bairro hipster de List, popular entre um público joven e os seus cães. Os cães com trela são bem-vindos na amplia esplanada exterior o ano inteiro e não salón interior em horas tranquilas.",
+          "petPolicyPt": "Cães bem-vindos em esplanada o ano inteiro",
+          "mustTryPt": "Bao buns, bibimbap, cóctel de jengibre e citronela",
+          "tipPt": "A esplanada está climatizada em inverno com toldos — um raro lugar pet-friendly em todo tiempo durante os meses frios de Hannover."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Qué barrios son los más dog-friendly para comer?",
           "a": "La Lister Meile peatonal, la orilla norte del Maschsee y la Kramerstraße de la Altstadt concentran el mayor número de locales acogedores."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Hannover",
+      "introPt": "A escena gastronómica de Hannover é pragmática e acolhedora com cães — a rua peatonal Lister Meile, os cafés do lago Maschsee e as tabernas da Altstadt admiten cães bem educados com trela. A lei alemana permite cães em locales de restauración por defecto, e os bol de água a entrada são habituales.",
+      "tipsPt": [
+        "A lei alemana permite cães em restaurantes por defecto — um adhesivo 'Hund willkommen' o um bol de água na puerta é uma buena señal.",
+        "A Lister Meile e a margem norte do Maschsee concentran a mayor densidad de esplanadas pet-friendly de Hannover.",
+        "Pide 'ein Wassernapf, bitte' — o pessoal costuma trazer um bol, e muitos cafés de List também ofrecen golosinas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Hannover?",
+          "a": "Sí — a lei alemana permite cães em locales de restauración por defecto salvo cartaz 'kein Hund'. A maioria dos restaurantes de Hannover admiten cães com trela, especialmente na Altstadt, List e alrededor do Maschsee."
+        },
+        {
+          "q": "¿Ofrecen bol de água os cafés de Hannover?",
+          "a": "Os cafés tradicionales e restaurantes do Maschsee sí. Se não, pide 'einen Wassernapf' — o pessoal lo traz em poucos minutos."
+        },
+        {
+          "q": "¿Qué bairros são os mais pet-friendly para comer?",
+          "a": "A Lister Meile peatonal, a margem norte do Maschsee e a Kramerstraße da Altstadt concentran o mayor número de locales acolhedores."
+        }
       ]
     },
     "parks": {
@@ -166,7 +199,11 @@
           "tip": "The Steuerndieb off-leash zone is the largest and most wooded — combine with a visit to the adjacent forest café for a proper Sunday outing.",
           "tipFr": "La zone sans laisse de Steuerndieb est la plus grande et la plus boisée — combinez-la avec une visite au café forestier adjacent pour une vraie sortie dominicale.",
           "tipEs": "La zona sin correa de Steuerndieb es la más grande y arbolada — combínala con una visita al café forestal adyacente para una auténtica salida dominical.",
-          "googleMapsUrl": "https://maps.google.com/?q=Eilenriede+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Eilenriede+Hannover",
+          "descriptionPt": "O mayor floresta urbano de Alemania com 640 hectáreas — 2,5 vezes Central Park. Os cães devem ir com trela nos trilhos principales, mas três Hundefreilaufflächen designadas encontram-se não floresta (junto ao zoo, em Steuerndieb e em Lister Turm). Mais de 80 km de trilhos balizados.",
+          "petPolicyPt": "Trela em trilhos principales; três zonas sem trela designadas",
+          "facilitiesPt": "Três Hundefreilaufflächen, cafeterías em Lister Turm e Steuerndieb, pradarias de picnic",
+          "tipPt": "A zona sem trela de Steuerndieb é a maior e arbolada — combínala com uma visita al café forestal adyacente para uma auténtica salida dominical."
         },
         {
           "name": "Maschsee",
@@ -188,7 +225,11 @@
           "tip": "Walk the eastern shore at sunrise for the classic Hannover photo — the Neues Rathaus tower reflects perfectly in still morning water.",
           "tipFr": "Parcourez la rive est au lever du soleil pour la photo classique de Hanovre — la tour du Neues Rathaus se reflète parfaitement dans l'eau calme du matin.",
           "tipEs": "Recorre la orilla este al amanecer para la foto clásica de Hannover — la torre del Neues Rathaus se refleja a la perfección en el agua tranquila de la mañana.",
-          "googleMapsUrl": "https://maps.google.com/?q=Maschsee+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Maschsee+Hannover",
+          "descriptionPt": "Lago artificial de 78 hectáreas construido na década de 1930, com circuito de 6 km com trela em ambas margens. Clubes de remo e vela, varias cafeterías e uma Hundebadestelle (zona de banho canino) designada não sur, onde os cães podem banhar-se sem trela.",
+          "petPolicyPt": "Trela não circuito de 6 km; zona de banho canino sem trela al sur",
+          "facilitiesPt": "Cafeterías, Hundebadestelle, bancos, puntos de água em verão",
+          "tipPt": "Recorre a margem este al amanecer para a foto clásica de Hannover — a torre do Neues Rathaus se refleja a perfección não água tranquila da manhã."
         },
         {
           "name": "Herrenhäuser Gärten (Georgengarten)",
@@ -210,7 +251,11 @@
           "tip": "Enter from the Leine river side for the quieter approach — the Herrenhäuser Allee (2 km double row of lime trees) is one of Europe's finest avenues for a leashed walk.",
           "tipFr": "Entrez depuis la Leine pour une approche plus calme — l'Herrenhäuser Allee (2 km de doubles rangées de tilleuls) est l'une des plus belles avenues d'Europe pour une promenade en laisse.",
           "tipEs": "Entra por el lado del río Leine para un acceso más tranquilo — la Herrenhäuser Allee (2 km de doble fila de tilos) es una de las mejores avenidas de Europa para un paseo con correa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Georgengarten+Herrenhausen+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Georgengarten+Herrenhausen+Hannover",
+          "descriptionPt": "O famoso complejo barroco Herrenhäuser Gärten — o Gran Jardim principal (entrada de pago) prohíbe cães, mas o Georgengarten adyacente (gratuito, 47 hectáreas) é totalmente pet-friendly com trela, com a alameda Herrenhäuser Allee e os trilhos do rio Leine.",
+          "petPolicyPt": "Georgengarten: trela; Gran Jardim: sem animais",
+          "facilitiesPt": "Café Schloss Herrenhausen (esplanada), bancos, puntos de água",
+          "tipPt": "Entra pelo lado do rio Leine para um acceso mais tranquilo — a Herrenhäuser Allee (2 km de doble fila de tilos) é uma das as melhores avenidas de Europa para um passeio com trela."
         }
       ],
       "tipsEn": [
@@ -269,6 +314,27 @@
           "q": "¿Se admiten perros en los Herrenhäuser Gärten?",
           "a": "Solo en el Georgengarten, de acceso libre. El Gran Jardín de pago y el Berggarten botánico prohíben animales por completo."
         }
+      ],
+      "titlePt": "Parques para cães e espacios verdes em Hannover",
+      "introPt": "Hannover é uma das as cidades mais verdes de Alemania — o floresta urbano Eilenriede (640 hectáreas) é 2,5 vezes o tamanho de Central Park em Nueva York, e o lago Maschsee ofrece um circuito de 6 km junto a Altstadt. A cidade tem 26 Hundefreilaufflächen oficiales (zonas sem trela valladas) repartidas por todos os bairros.",
+      "tipsPt": [
+        "Hannover cuenta com 26 Hundefreilaufflächen oficiales em hannover.de/hundeauslaufflaechen — todas gratuitas e a mayoría abertas 24/7.",
+        "A Niedersächsisches Hundegesetz impone a trela em todos os espacios públicos fora das zonas designadas; multas a partir de 100 €.",
+        "Recoger as deposiciones é obrigatório — multas até 100 €, controladas activamente não Maschsee e o Eilenriede."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde podem os cães correr sem trela em Hannover?",
+          "a": "Nas 26 Hundefreilaufflächen oficiales — as mayores estão não Eilenriede (três zonas), a sul do Maschsee e não Ricklinger Klein Garten. Em todos os demás lugares a trela é obrigatória."
+        },
+        {
+          "q": "¿Pode mi cão banhar-se não Maschsee?",
+          "a": "Sí — uma Hundebadestelle designada al sur permite o banho sem trela o ano inteiro. O banho em outros puntos do lago está prohibido para cães e pode acarrear multas de 50 € em verão."
+        },
+        {
+          "q": "¿Se admiten cães nos Herrenhäuser Gärten?",
+          "a": "Só não Georgengarten, de acceso libre. O Gran Jardim de pago e o Berggarten botánico prohíben animales por completo."
+        }
       ]
     },
     "transport": {
@@ -291,7 +357,9 @@
           "petPolicy": "Small dogs free (carrier); large dogs child ticket + leash + possible muzzle",
           "petPolicyFr": "Petits chiens gratuits (cage) ; grands chiens billet enfant + laisse + muselière possible",
           "petPolicyEs": "Perros pequeños gratis (transportín); grandes, billete infantil + correa + posible bozal",
-          "googleMapsUrl": "https://maps.google.com/?q=Hannover+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Hannover+Hauptbahnhof",
+          "descriptionPt": "Üstra gestiona o Stadtbahn de Hannover (13 líneas), autocarros e serviços nocturnos. Cães pequeños em transportadora grátis; mais grandes com Kinderkarte (bilhete infantil). Trela corta obrigatória; bozal posible em caso de saturación.",
+          "petPolicyPt": "Cães pequeños grátis (transportadora); grandes, bilhete infantil + trela + posible bozal"
         }
       ],
       "tipsEn": [
@@ -350,6 +418,27 @@
           "q": "¿Puedo llevar mi perro en trenes ICE desde la Hauptbahnhof?",
           "a": "Sí — Deutsche Bahn admite perros en todos los ICE, IC y EC. Perros pequeños en transportín gratis; los más grandes necesitan un Hundeticket (media tarifa adulta) y correa."
         }
+      ],
+      "titlePt": "Viajar com cão em Hannover",
+      "introPt": "A red üstra de Hannover (Stadtbahn, autocarros) aplica as normas estándar de Baja Sajonia: cães pequeños em transportadora grátis, mais grandes com bilhete infantil, trela corta e — a petición do pessoal — bozal. O Stadtbahn é eficiente e acessível para cães; a maioria das líneas são subterráneas no centro e aéreas nos suburbios.",
+      "tipsPt": [
+        "Lleva um bozal flexible — os revisores podem multar com 25 a 200 € se o conductor lo exige e não lo llevas.",
+        "A Stadtbahn Línea 10 (em superficie) é mais cómoda para cães nerviosos que os túneles subterráneos centrales.",
+        "Os comboios ICE/IC de Deutsche Bahn a partir da Hauptbahnhof admiten cães com trela com um Hundeticket (meio preço adulta) — útil para excursiones a Hamburgo (1h30) o Berlim (1h40)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Debo pagar por mi cão não transporte público de Hannover?",
+          "a": "Só para cães demasiado grandes para caber num transportadora fechado. Os mais grandes necesitan uma Kinderkarte (bilhete infantil). Os cães pequeños em transportadora viajan grátis."
+        },
+        {
+          "q": "¿É obrigatório o bozal não Stadtbahn de Hannover?",
+          "a": "Não automáticamente, mas os conductores podem exigirlo se o vehículo va cheio o cão parece estresado. Lleva um bozal flexible."
+        },
+        {
+          "q": "¿Puedo levar mi cão em comboios ICE a partir da Hauptbahnhof?",
+          "a": "Sí — Deutsche Bahn admite cães em todos os ICE, IC e EC. Cães pequeños em transportadora grátis; os mais grandes necesitan um Hundeticket (meio preço adulta) e trela."
+        }
       ]
     },
     "beaches": {
@@ -376,7 +465,10 @@
           "tip": "Summer weekends can bring 20+ dogs to the small beach — arrive before 10:00 or after 18:00 for calmer swimming.",
           "tipFr": "Les week-ends d'été peuvent amener 20+ chiens sur la petite plage — venez avant 10h ou après 18h pour une baignade plus calme.",
           "tipEs": "Los fines de semana de verano pueden juntarse más de 20 perros en la pequeña playa — llega antes de las 10:00 o después de las 18:00 para un baño más tranquilo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundebadestelle+Maschsee+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadestelle+Maschsee+Hannover",
+          "descriptionPt": "Única zona de banho canino oficial em Hannover — uma margem vallada não extremo sur do Maschsee onde os cães podem nadar sem trela o ano inteiro. Acceso de relva e entrada pouco profunda adecuada para cachorros.",
+          "petPolicyPt": "Banho sem trela o ano inteiro",
+          "tipPt": "Os fines de semana de verão podem juntarse mais de 20 cães na pequeña praia — llega antes das 10:00 o después das 18:00 para um banho mais tranquilo."
         },
         {
           "name": "Steinhuder Meer Hundestrand",
@@ -394,7 +486,10 @@
           "tip": "Combine with the Weiße Düne hiking trail for a proper weekend outing — the forest shade makes summer walks much more comfortable.",
           "tipFr": "Combinez avec le sentier de la Weiße Düne pour une vraie sortie week-end — l'ombre forestière rend les promenades estivales plus agréables.",
           "tipEs": "Combínalo con la ruta de Weiße Düne para una auténtica salida de fin de semana — la sombra del bosque hace los paseos estivales más cómodos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Steinhuder+Meer+Hundestrand"
+          "googleMapsUrl": "https://maps.google.com/?q=Steinhuder+Meer+Hundestrand",
+          "descriptionPt": "O mayor lago de Baja Sajonia, a 30 km de Hannover. Uma Hundestrand designada na margem este perto de Wunstorf permite o banho sem trela o ano inteiro, com zonas de picnic sombreadas e uma cafetería. O carril bici de 32 km alrededor do lago é uma salida de dia completo.",
+          "petPolicyPt": "Zona de banho sem trela o ano inteiro",
+          "tipPt": "Combínalo com a ruta de Weiße Düne para uma auténtica salida de fin de semana — a sombra do floresta hace os passeios estivales mais cómodos."
         }
       ],
       "tipsEn": [
@@ -453,6 +548,27 @@
           "q": "¿A qué distancia está la playa de mar más cercana?",
           "a": "Cuxhaven en el Mar del Norte: 220 km (2h30 en coche); Timmendorfer Strand en el Báltico: 280 km (3 h)."
         }
+      ],
+      "titlePt": "Praias pet-friendly perto de Hannover",
+      "introPt": "Hannover está a 130 km do mar do norte. Na cidade, o Maschsee cuenta com uma Hundebadestelle al sur. Para uma verdadera jornada de praia, o Steinhuder Meer (30 km al norte) é o mayor lago de Baja Sajonia com uma Hundestrand no seu margem este.",
+      "tipsPt": [
+        "As zonas de banho do Maschsee fora da Hundebadestelle estão estrictamente prohibidas para cães em verão — multas de 50 € controladas activamente de maio a setembro.",
+        "Ve al Steinhuder Meer (35 min de carro) para uma jornada completa de lago — mais barato e menos concurrido que as escapadas al Mar do norte.",
+        "Para o Mar do norte, 2 h de carro até Cuxhaven-Duhnen, que cuenta com uma das mayores Hundestrände mareales de Alemania."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde pode nadar mi cão em Hannover?",
+          "a": "A Hundebadestelle oficial não extremo sur do Maschsee é a única opción dentro da cidade. O Steinhuder Meer está a 30 km e tem uma praia canina dedicada mais grande."
+        },
+        {
+          "q": "¿É totalmente pet-friendly o Maschsee?",
+          "a": "Os cães devem ir com trela em todo o circuito de 6 km e só podem nadar na Hundebadestelle designada não sur."
+        },
+        {
+          "q": "¿A qué distancia está a praia de mar mais cercana?",
+          "a": "Cuxhaven não Mar do norte: 220 km (2h30 de carro); Timmendorfer Strand não Báltico: 280 km (3 h)."
+        }
       ]
     },
     "vets": {
@@ -483,7 +599,11 @@
           "tip": "Call ahead — the triage nurse will tell you whether to come to TiHo (complex cases) or route to a private clinic (simpler emergencies). Free parking on-site.",
           "tipFr": "Appelez avant — l'infirmier de triage vous dira si venir à TiHo (cas complexes) ou vers une clinique privée (urgences simples). Parking gratuit sur place.",
           "tipEs": "Llama antes — el enfermero de triaje te dirá si ir a TiHo (casos complejos) o derivar a una clínica privada (urgencias sencillas). Aparcamiento gratuito in situ.",
-          "googleMapsUrl": "https://maps.google.com/?q=TiHo+Klinik+fuer+Kleintiere+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=TiHo+Klinik+fuer+Kleintiere+Hannover",
+          "descriptionPt": "Clínica de pequeños animales da Universidade Veterinária — principal hospital universitario de Alemania para cães e gatos com serviços especializados completos (urgências, cirugía, RM, oncología, cardiología, neurología). Urgências 24/7; a espera pode ser longa em horas punta, mas a experiencia clínica é incomparable.",
+          "petPolicyPt": "Urgências 24/7 com visita sem cita",
+          "servicesPt": "Urgências, cirugía, RM, oncología, cardiología, neurología",
+          "tipPt": "Llama antes — o enfermero de triaje te dirá se ir a TiHo (casos complejos) o derivar a uma clínica privada (urgências sencillas). Aparcamiento gratuito in situ."
         },
         {
           "name": "Tierklinik Hannover Dr. Walleser",
@@ -505,7 +625,11 @@
           "tip": "Street parking is scarce — consider a taxi if you're coming from Altstadt hotels. Use the side entrance for after-hours emergencies.",
           "tipFr": "Stationnement rare — privilégiez le taxi depuis les hôtels de l'Altstadt. Utilisez l'entrée latérale pour les urgences hors horaires.",
           "tipEs": "Aparcamiento escaso — considera el taxi desde los hoteles de la Altstadt. Usa la entrada lateral para urgencias fuera de horario.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Hannover+Bischofsholer+Damm"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Hannover+Bischofsholer+Damm",
+          "descriptionPt": "Clínica privada central com urgências 24/7, cirugía, imagen e cuidados intensivos. Mais pequeña que TiHo mas mais cómoda para os viajeros alojados perto do Maschsee o da Altstadt; triaje mais rápido para urgências estándar.",
+          "petPolicyPt": "Urgências 24/7 com visita sem cita",
+          "servicesPt": "Urgências, cirugía, imagen, cuidados intensivos",
+          "tipPt": "Aparcamiento escaso — considera o taxi a partir dos hotéis da Altstadt. Usa a entrada lateral para urgências fora de horario."
         }
       ],
       "tipsEn": [
@@ -563,6 +687,27 @@
         {
           "q": "¿Un veterinario de Hannover admite visitas sin cita?",
           "a": "Sí — ambas clínicas 24/7 atienden urgencias sin cita. Llama antes en casos graves para que el triaje pueda prepararse."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Hannover — Hospitales e clínicas veterinárias",
+      "introPt": "Hannover alberga a Tierärztliche Hochschule — uma das mayores universidades veterinárias de Alemania — que gestiona uma Klinik für Kleintiere aberta 24/7 com urgências. Dos clínicas privadas 24/7 adicionales (Tierklinik Hannover e Kleintierklinik Ahrens) completan a cobertura fora de horario.",
+      "tipsPt": [
+        "Guarda TiHo (0511 9536202) e Walleser (0511 282255) em tu móvil antes de chegar — Alemania não tem uma línea nacional de urgências veterinárias.",
+        "O centro de toxicología veterinária pasa pelo GIZ-Nord humano (0551 19240), que asesora sobre animais as 24 horas.",
+        "A maioria de clínicas de Hannover aceitam seguros europeus (Agila, Petplan, AXA Pet) mas o pago é al momento."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Qué clínica abre 24/7 em Hannover?",
+          "a": "O hospital universitario TiHo (Bünteweg 9, 0511 9536202) e a clínica privada Walleser (Bischofsholer Damm 15, 0511 282255). Ambas atienden urgências sem cita."
+        },
+        {
+          "q": "¿Cuánto cuesta uma urgência veterinária em Hannover?",
+          "a": "A consulta de urgências base é de 80 a 140 €, sem contar pruebas. TiHo costuma ser algo mais barata por o seu condição universitaria."
+        },
+        {
+          "q": "¿Um veterinário de Hannover admite visitas sem cita?",
+          "a": "Sí — ambas clínicas 24/7 atienden urgências sem cita. Llama antes em casos graves para que o triaje pueda prepararse."
         }
       ]
     },
@@ -636,6 +781,29 @@
           "q": "¿Hay restricciones de raza en Hannover?",
           "a": "Sí. Baja Sajonia clasifica al Am. Pit Bull, Am. Staff, Bullterrier y Rottweiler como Listenhunde — permiso especial requerido y bozal obligatorio en espacios públicos."
         }
+      ],
+      "titlePt": "Consejos esenciales para viajar com animais a Hannover",
+      "introPt": "Hannover é uma cidade tranquila e bem organizada, fácil de recorrer com cão. Normas locales clave: trela segundo a Niedersächsisches Hundegesetz, Hundeschein obrigatório para residentes e as restricciones habituales de raza para Listenhunde. A Tierärztliche Hochschule ofrece atención de urgências de primer nivel mundial.",
+      "tipsPt": [
+        "Hannover aplica uma Leinenpflicht estricta fora das 26 Hundefreilaufflächen designadas — multas a partir de 100 €.",
+        "Os residentes devem ter um Hundeschein (permiso canino) e um Hundehaftpflicht (seguro de responsabilidad) — os visitantes estão exentos mas devem levar prueba de vacinação antirrábica.",
+        "Os veranos de Hannover são suaves (23 °C de media em julho) mas podem alcanzar 30 °C em olas de calor — o floresta Eilenriede se mantiene sensiblemente mais fresco.",
+        "Todo hotel pet-friendly de Hannover exige o passaporte europeu e a vacinação antirrábica vigente não check-in.",
+        "O aeroporto de Hannover (HAJ) dispone de áreas de esparcimiento animal fora das Terminales A/B/C; a maioria de grandes aerolíneas admiten animais em cabina em voos europeus."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Hannover uma buena cidade para visitar com cão?",
+          "a": "Sí — Hannover é uma das as cidades alemanas mais tranquilas e verdes, com o floresta urbano Eilenriede, 26 Hundefreilaufflächen, o circuito do Maschsee e dos clínicas de urgências 24/7 incluido um hospital universitario."
+        },
+        {
+          "q": "¿Necesito papeles para levar mi cão a Hannover?",
+          "a": "Residentes UE: passaporte europeu com vacinação antirrábica vigente. Fora da UE: certificado sanitario UE emitido nos 10 dias anteriores mais prueba de título antirrábico para ciertos países."
+        },
+        {
+          "q": "¿Hay restricciones de raza em Hannover?",
+          "a": "Sí. Baja Sajonia clasifica al Am. Pit Bull, Am. Staff, Bullterrier e Rottweiler como Listenhunde — permiso especial requerido e bozal obrigatório em espacios públicos."
+        }
       ]
     },
     "attractions": {
@@ -662,7 +830,10 @@
           "tip": "Walk around the full Maschpark lake perimeter for the best Rathaus reflection shot — ideal at golden hour.",
           "tipFr": "Faites le tour complet du Maschpark pour la meilleure photo du reflet du Rathaus — idéal à l'heure dorée.",
           "tipEs": "Rodea todo el perímetro del Maschpark para la mejor foto del reflejo del Rathaus — ideal en la hora dorada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Neues+Rathaus+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Neues+Rathaus+Hannover",
+          "descriptionPt": "O ayuntamiento de cuento de hadas de Hannover (1913), sobre um pequeño lago com vistas panorámicas a partir do seu cúpula curva. O Maschpark circundante (com trela) e a esplanada exterior são totalmente acessíveis para cães; o ascensor acristalado inclinado a cúpula não admite animales.",
+          "petPolicyPt": "Parque e esplanada: trela; ascensor inclinado: sem animais",
+          "tipPt": "Rodea todo o perímetro do Maschpark para a melhor foto do reflejo do Rathaus — ideal na hora dorada."
         },
         {
           "name": "Altstadt and Marktkirche",
@@ -680,7 +851,10 @@
           "tip": "The Ballhofplatz hosts a small weekly market with dog-friendly bakery stalls — try the local Franzbrötchen from the corner bakery.",
           "tipFr": "La Ballhofplatz accueille un petit marché hebdomadaire avec des stands de boulangerie dog-friendly — essayez le Franzbrötchen local à la boulangerie d'angle.",
           "tipEs": "La Ballhofplatz acoge un pequeño mercado semanal con puestos de panadería dog-friendly — prueba el Franzbrötchen local en la panadería de la esquina.",
-          "googleMapsUrl": "https://maps.google.com/?q=Marktkirche+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Marktkirche+Hannover",
+          "descriptionPt": "O núcleo histórico reconstruido de Hannover em torno a Marktkirche, com casas entramadas, o famoso ruela empedrado Kramerstraße e a praça Ballhof — todo peatonal e totalmente acessível para cães com trela.",
+          "petPolicyPt": "Cães com trela bem-vindos",
+          "tipPt": "A Ballhofplatz acoge um pequeño mercado semanal com puestos de panadería pet-friendly — prueba o Franzbrötchen local na panadería da esquina."
         },
         {
           "name": "Leine Riverside and Leineinsel",
@@ -698,7 +872,10 @@
           "tip": "Start at the Maschsee north shore and walk upriver for the least-crowded stretch — the Linden side has the best Sunday brunch cafés with dog-friendly gardens.",
           "tipFr": "Partez de la rive nord du Maschsee et remontez le fleuve pour la portion la moins fréquentée — le côté Linden offre les meilleurs cafés de brunch dominical avec jardin dog-friendly.",
           "tipEs": "Empieza en la orilla norte del Maschsee y remonta el río para el tramo menos concurrido — el lado de Linden ofrece los mejores cafés de brunch dominical con jardín dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Leineufer+Hannover"
+          "googleMapsUrl": "https://maps.google.com/?q=Leineufer+Hannover",
+          "descriptionPt": "Passeio de 5 km com trela por ambas margens do Leine, cruzando o pequeño parque da Leineinsel até Linden por um lado e a Altstadt pelo outro. Sombreado, llano e com varios cafés pet-friendly pelo camino.",
+          "petPolicyPt": "Trela obrigatória",
+          "tipPt": "Empieza na margem norte do Maschsee e remonta o rio para o tramo menos concurrido — o lado de Linden ofrece os melhores cafés de brunch dominical com jardim pet-friendly."
         }
       ],
       "tipsEn": [
@@ -757,6 +934,27 @@
           "q": "¿Puedo llevar mi perro al palacio de los Herrenhäuser Gärten?",
           "a": "Los perros son admitidos en el Georgengarten gratuito pero no en el Gran Jardín de pago ni en la sección botánica del Berggarten."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Hannover",
+      "introPt": "As atracciones al aire libre de Hannover são ampliamente pet-friendly: a torre do Neues Rathaus (cães na esplanada exterior mas não não ascensor de cristal até a cima), a zona peatonal da Altstadt, a Herrenhäuser Allee e a margem do Leine são todas acessíveis com trela. A maioria de museus cubiertos prohíben cães, mas o Expo-Praça e o Zoo são excepciones clásicas.",
+      "tipsPt": [
+        "O Museu Sprengel, o Landesmuseum e o Museu Histórico prohíben os cães — o Expo-Praça e o Zoo (Erlebnis-Zoo Hannover) são as únicas grandes atracciones cubiertas que aceitam cães.",
+        "O ascensor acristalado do Neues Rathaus é uma experiencia icónica mas não admite cães — o trilho do Maschpark ofrece vistas igual de bonitas.",
+        "As visitas guiadas a Altstadt (Hannover Tourismus Service) admiten cães com trela em rutas exteriores — confirma al reservar."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar mi cão a cúpula do Neues Rathaus?",
+          "a": "Não — o famoso ascensor curvo não admite animales. O Maschpark em torno al Rathaus e a esplanada exterior sí são totalmente acessíveis."
+        },
+        {
+          "q": "¿Se admiten cães não Erlebnis-Zoo Hannover?",
+          "a": "Sí — é um dos os poucos grandes zoos europeus que admite cães com trela. Trela corta obrigatória, bozal posible a petición, e prohibición em algunas casas de animales fechadas."
+        },
+        {
+          "q": "¿Puedo levar mi cão al palácio dos Herrenhäuser Gärten?",
+          "a": "Os cães são admitidos não Georgengarten gratuito mas não não Gran Jardim de pago ni na secção botánica do Berggarten."
+        }
       ]
     },
     "petsitting": {
@@ -782,7 +980,10 @@
           "servicesFr": "Promenade, garderie, pension",
           "servicesEs": "Paseo, guardería, alojamiento",
           "openingHours": "Online 24/7",
-          "tip": "Filter by experience with Listenhunde breeds if you're travelling with a Staffordshire, Bullterrier or Rottweiler — Lower Saxony applies strict rules."
+          "tip": "Filter by experience with Listenhunde breeds if you're travelling with a Staffordshire, Bullterrier or Rottweiler — Lower Saxony applies strict rules.",
+          "descriptionPt": "Plataforma europeia de pet sitting com cuidadores verificados em Hannover para passeios, guardería e alojamento a domicilio. Todas as reservas incluyen seguro e fotos diárias. Tarifas típicas: 20 a 30 €/dia em alojamento, 10 a 16 € por passeio de uma hora.",
+          "petPolicyPt": "Cuidadores verificados, seguro incluido",
+          "servicesPt": "Passeio, guardería, alojamento"
         }
       ],
       "tipsEn": [
@@ -840,6 +1041,27 @@
         {
           "q": "¿Es seguro dejar al perro en una habitación de hotel en Hannover?",
           "a": "Muchos hoteles de Hannover admiten perros pero pocos permiten dejarlos sin vigilancia salvo en transportín. Recurre a un cuidador Pawshake local para jornadas de museos."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães em Hannover",
+      "introPt": "Hannover tem um mercado de cuidado de animales fiable mas mais pequeño que o de Hamburgo o Munique — Pawshake e Rover cubren a cidade, e umas poucas Hundetagesstätten independientes operan em List, Linden e Südstadt. Tarifas ~10 % inferiores a Hamburgo. Reserva pronto para Hannover Messe (abril) e Agritechnica (novembro).",
+      "tipsPt": [
+        "Reserva cuidadores em Hannover com al menos uma semana de antelación para Hannover Messe (abril) e Agritechnica (novembro) — a cidade se satura de viajeros de negócios.",
+        "Holidog.com opera uma red mais pequeña mas bem valorada em Hannover — buen plan B se Pawshake está cheio.",
+        "As Hundetagesstätten costumam exigir um dia de prueba mais prueba de vacinação vigente — prevé 48 h para a primera inscripción."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta o pet sitting em Hannover?",
+          "a": "Tarifas habituales Pawshake/Holidog: 20 a 30 €/noite em alojamento, 25 a 40 €/dia em guardería, 10 a 16 € por passeio de uma hora. Ligeramente mais altas durante as semanas de Messe."
+        },
+        {
+          "q": "¿Estão asegurados os cuidadores em Hannover?",
+          "a": "Pawshake e Holidog incluyen responsabilidad civil e cobertura veterinária de urgências em cada reserva."
+        },
+        {
+          "q": "¿É seguro dejar al cão numa habitación de hotel em Hannover?",
+          "a": "Muitos hotéis de Hannover admiten cães mas poucos permiten dejarlos sem vigilancia salvo em transportadora. Recurre a um cuidador Pawshake local para jornadas de museus."
         }
       ]
     }

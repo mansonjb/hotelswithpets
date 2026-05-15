@@ -33,7 +33,11 @@
           "tip": "Sunday roast (12:00–17:00) is the local institution — book by Wednesday or arrive at 12:00 sharp for a downstairs table with your dog.",
           "tipFr": "Le Sunday roast (12h-17h) est une institution locale — réservez avant le mercredi ou venez à 12h pile pour une table en bas avec votre chien.",
           "tipEs": "El Sunday roast (12:00–17:00) es una institución local — reserva antes del miércoles o llega a las 12:00 en punto para una mesa abajo con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Raven+of+Bath+Queen+Street"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Raven+of+Bath+Queen+Street",
+          "descriptionPt": "Pub de época georgiana galardonado num ruela empedrado do centro de Bath, famoso por os seus tartas saladas hechas a mano e os seus cervejas elaboradas localmente. Os cães são bem-vindos na planta baja e na pequeña esplanada exterior; o interior tem um ambiente descontraído de pub-com-cães onde os locales llevan aos seus retrievers casi todas as noites.",
+          "petPolicyPt": "Cães bem-vindos na planta baja e esplanada",
+          "mustTryPt": "Tarta de carne e cerveja, Sunday roast, cerveja local Pitchfork",
+          "tipPt": "O Sunday roast (12:00–17:00) é uma instituição local — reserva antes do quarta-feira o llega a as 12:00 em punto para uma mesa abajo com tu cão."
         },
         {
           "name": "Sally Lunn's Historic Eating House",
@@ -55,7 +59,11 @@
           "tip": "Walk-in only for outdoor seating; book ahead for the cellar room. The restaurant is on a tiny medieval lane (North Parade Passage) — easier to find via the Abbey Green entrance.",
           "tipFr": "Sans réservation pour la terrasse ; réservez la cave. Le restaurant est dans une minuscule ruelle médiévale (North Parade Passage) — plus simple via l'entrée Abbey Green.",
           "tipEs": "Sin reserva para la terraza; reserva la bodega. El restaurante está en un minúsculo callejón medieval (North Parade Passage) — más fácil por la entrada de Abbey Green.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sally+Lunns+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=Sally+Lunns+Bath",
+          "descriptionPt": "A casa mais antiga de Bath (1482), cuna do Sally Lunn bun original — um panecillo tipo brioche de época georgiana. A bodega-museu do sótano admite cães com trela bem educados; o pequeño jardim delantero tem mesas exteriores pet-friendly em verão. O bun em sí justifica a visita.",
+          "petPolicyPt": "Cães bem-vindos na bodega-museu e mesas exteriores",
+          "mustTryPt": "O Sally Lunn Bun original, cream tea",
+          "tipPt": "Sem reserva para a esplanada; reserva a bodega. O restaurante está num minúsculo ruela medieval (North Parade Passage) — mais fácil pela entrada de Abbey Green."
         },
         {
           "name": "The Boater",
@@ -77,7 +85,11 @@
           "tip": "Friday and Saturday after 18:00 the riverside terrace fills with after-work crowds — go for lunch (12:00–14:00) for a quieter table with your dog.",
           "tipFr": "Vendredi et samedi après 18h, la terrasse riveraine se remplit de l'after-work — déjeunez (12h-14h) pour une table plus calme avec votre chien.",
           "tipEs": "Viernes y sábado después de las 18:00 la terraza ribereña se llena de gente saliendo del trabajo — come al mediodía (12:00–14:00) para una mesa más tranquila con tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Boater+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Boater+Bath",
+          "descriptionPt": "Pub junto ao Avon com uma gran esplanada beer-garden sobre o água — uno dos lugares mais populares entre os locales com cães tras um passeio pelo Pulteney Bridge. O pub tem uma política descontraída de cão-em-cada-mesa e o pessoal traz os boles de água sem pedi-lo.",
+          "petPolicyPt": "Cães bem-vindos dentro e na esplanada ribereña",
+          "mustTryPt": "Cervejas Bath Ales, fish and chips, brunch de fin de semana",
+          "tipPt": "Sexta-feira e sábado después das 18:00 a esplanada ribereña se cheia de gente saliendo do trabajo — come al mediodía (12:00–14:00) para uma mesa mais tranquila com tu cão."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Cuáles son los barrios más dog-friendly para comer?",
           "a": "La ribera (de Pulteney Bridge a The Boater), la zona de Royal Crescent (grandes terrazas) y Walcot Street (pubs y cafés independientes) concentran la mayor densidad de locales acogedores."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Bath",
+      "introPt": "Bath é uma das as cidades pequeñas mais acolhedoras do Reino Unido — uma cidade balneario georgiana construida casi por completo em pedra Bath color miel, com ruelas empedrados, trilhos junto ao rio e uma fuerte tradição de country pubs que sirven como comedores pet-friendly. A maioria de pubs e cafés admiten explicitamente cães, e os boles de água na entrada são habituales.",
+      "tipsPt": [
+        "Os pubs británicos são pet-friendly por defecto — mais do 80 % dos pubs de UK admiten cães al menos na zona do bar, e Bath tem a mayor densidad do país de cartazes 'cães bem-vindos' nas entradas.",
+        "Os restaurantes sujetos a normativa alimentaria podem restringir cães em comedores interiores mas os admiten em beer gardens e conservatorios — pregunta sempre, a respuesta costuma ser sí.",
+        "Os salones de té de Bath (Sally Lunn's, The Pump Room) costumam admitir cães só em mesas exteriores — reserva em temporada media para a visita mais descontraída."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Bath?",
+          "a": "A maioria de pubs admite cães em todo o lado, incluida a zona de comedor. Algunos restaurantes de gama alta os restringen a esplanadas o beer gardens. A lei británica de higiene alimentaria exige separar aos cães das zonas de preparación — barra e comedor costumam estar bem."
+        },
+        {
+          "q": "¿Ofrecen bol de água os cafés de Bath?",
+          "a": "Sí — casi universalmente. A maioria de pubs e cafés têm um bol na entrada e traen uno a tu mesa a petición. Bath tem uma fuerte cultura canina local."
+        },
+        {
+          "q": "¿Cuáles são os bairros mais pet-friendly para comer?",
+          "a": "A ribera (de Pulteney Bridge a The Boater), a zona de Royal Crescent (grandes esplanadas) e Walcot Street (pubs e cafés independientes) concentran a mayor densidad de locales acolhedores."
+        }
       ]
     },
     "parks": {
@@ -166,7 +199,11 @@
           "tip": "The off-leash section is at the High Common end (west) — enter via Park Lane for direct access, away from the busy Royal Crescent tourist area.",
           "tipFr": "La section sans laisse est côté High Common (ouest) — entrez par Park Lane pour un accès direct, loin de la zone touristique du Royal Crescent.",
           "tipEs": "La sección sin correa está en el lado de High Common (oeste) — entra por Park Lane para acceso directo, lejos de la zona turística del Royal Crescent.",
-          "googleMapsUrl": "https://maps.google.com/?q=Royal+Victoria+Park+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=Royal+Victoria+Park+Bath",
+          "descriptionPt": "O mayor parque urbano de Bath (23 tem), que estende-se directamente sob o Royal Crescent. O parque tem uma zona sem trela designada no seu secção oeste, um jardim botánico (só com trela), boleras e vistas panorámicas a curva georgiana do Crescent. O Pavilion Café tem uma gran esplanada com boles de água.",
+          "petPolicyPt": "zona sem trela (secção oeste); trela não resto",
+          "facilitiesPt": "zona sem trela, cafetería, jardim botánico, boleras, zona de juegos",
+          "tipPt": "A secção sem trela está não lado de High Common (oeste) — entra por Park Lane para acceso directo, longe da zona turística do Royal Crescent."
         },
         {
           "name": "Bath Skyline (National Trust)",
@@ -188,7 +225,11 @@
           "tip": "Allow 3–4 hours including stops. The Bushey Norwood section has the best Bath panorama — perfect for a sunrise walk before the city wakes up.",
           "tipFr": "Comptez 3-4 heures avec pauses. La section Bushey Norwood offre le meilleur panorama de Bath — parfait pour une marche au lever du soleil avant que la ville ne s'éveille.",
           "tipEs": "Calcula 3-4 horas con paradas. La sección Bushey Norwood ofrece la mejor vista panorámica de Bath — perfecto para un paseo al amanecer antes de que la ciudad despierte.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bath+Skyline+Walk"
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+Skyline+Walk",
+          "descriptionPt": "Circuito senderista da National Trust de 9,6 km por florestas, pradarias e fuertes da Edad de Hierro nas colinas sobre Bath. Gratuito, aberto o ano inteiro, uno dos passeios caninos mais populares do Reino Unido. Sem trela nas secciones de pradaria aberta (sem ganado); com trela perto de animales e em tierras agrícolas da National Trust.",
+          "petPolicyPt": "Sem trela em pradarias; com trela perto do ganado",
+          "facilitiesPt": "Trilho balizado, portones, kissing gates, miradores sobre Bath",
+          "tipPt": "Calcula 3-4 horas com paragens. A secção Bushey Norwood ofrece a melhor vista panorámica de Bath — perfeito para um passeio al amanecer antes de que a cidade despierte."
         },
         {
           "name": "Sydney Gardens",
@@ -210,7 +251,11 @@
           "tip": "From Sydney Gardens, follow the Kennet & Avon canal towpath west to reach Bath city centre on a 2 km flat off-leash walk — quieter than the streets and very dog-friendly.",
           "tipFr": "Depuis Sydney Gardens, suivez le chemin de halage Kennet & Avon vers l'ouest pour rejoindre le centre de Bath en 2 km de marche plate sans laisse — plus calme que les rues et très dog-friendly.",
           "tipEs": "Desde Sydney Gardens, sigue el camino de sirga Kennet & Avon hacia el oeste para llegar al centro de Bath en 2 km de paseo llano sin correa — más tranquilo que las calles y muy dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sydney+Gardens+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=Sydney+Gardens+Bath",
+          "descriptionPt": "Único jardim de recreo do século XVIII de Bath aún em activo, onde Jane Austen solía passear. O parque é pequeño mas elegante, com o canal Kennet & Avon atravesándolo — um buen punto de partida para um passeio canino pelo camino de sirga até Bristol se tienes tiempo. Cães com trela bem-vindos em todo o lado.",
+          "petPolicyPt": "Trela obrigatória em todo o parque",
+          "facilitiesPt": "Cafetería, acceso al canal, ruta de esculturas, elementos victorianos restaurados",
+          "tipPt": "A partir de Sydney Gardens, sigue o camino de sirga Kennet & Avon para o oeste para chegar al centro de Bath em 2 km de passeio llano sem trela — mais tranquilo que as ruas e muito pet-friendly."
         }
       ],
       "tipsEn": [
@@ -269,6 +314,27 @@
           "q": "¿Puede mi perro nadar en el río Avon?",
           "a": "Sí, con precaución. El río tiene corrientes fuertes y presas cerca del centro. Los puntos de baño canino más seguros están río arriba en Warleigh Weir o Bathampton Meadows (5 km al este)."
         }
+      ],
+      "titlePt": "Parques para cães e espacios verdes em Bath",
+      "introPt": "Bath se asienta num valle boscoso empinado a lo longo do Avon, rodeada de colinas, parques e a protegida Bath Skyline (circuito de 9,6 km da National Trust). Na cidade, o Royal Victoria Park, Henrietta Park e Sydney Gardens admiten cães com trela, com zonas sem trela em Royal Victoria. A trela é obrigatória nas ruas e em jardins formales por ordenanza municipal.",
+      "tipsPt": [
+        "Bath aplica uma Public Spaces Protection Order: trela obrigatória em todos os parques formales e ruas do centro, multas a partir de 100 £. As zonas sem trela estão señalizadas.",
+        "O camino de sirga Kennet & Avon é um paraíso canino — 140 km a partir de Bath até Reading, com kissing gates e acceso al água em todo o recorrido. Os primeros 5 km a partir de Bath são os mais bonitos.",
+        "O pastoreo de ovejas é habitual nas rutas de Bath Skyline entre outubro e abril — cães com trela perto do ganado por lei (Countryside Code)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde podem os cães correr sem trela em Bath?",
+          "a": "A secção oeste do Royal Victoria Park (zona designada), as pradarias abertas do trilho Bath Skyline (sem ganado) e partes do camino de sirga Kennet & Avon. A mayoría do resto de espacios públicos exige trela."
+        },
+        {
+          "q": "¿Se admiten cães nos Roman Baths?",
+          "a": "Só cães de assistência registrados. As animais não estão admitidas nos Roman Baths ni na Pump Room. O patio exterior da Abadía é totalmente acessível com trela."
+        },
+        {
+          "q": "¿Pode mi cão nadar no rio Avon?",
+          "a": "Sí, com precaución. O rio tem corrientes fuertes e presas cerca do centro. Os puntos de banho canino mais seguros estão rio arriba em Warleigh Weir o Bathampton Meadows (5 km al este)."
+        }
       ]
     },
     "transport": {
@@ -291,7 +357,9 @@
           "petPolicy": "Up to 2 dogs free per passenger; leash; no seats",
           "petPolicyFr": "Jusqu'à 2 chiens gratuits par passager ; laisse ; pas sur les sièges",
           "petPolicyEs": "Hasta 2 perros gratis por pasajero; correa; sin sentarse",
-          "googleMapsUrl": "https://maps.google.com/?q=Bath+Spa+Station"
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+Spa+Station",
+          "descriptionPt": "Bath Spa é a estação principal da cidade, atendida por GWR (comboios directos a London Paddington em 1h25, bilhete canino grátis) e South Western Railway. Até 2 cães viajan grátis por pasajero não ferrocarril nacional UK; os grandes que ocupan asiento requerirían bilhete infantil mas na práctica casi nunca se exige. Cães com trela e não nos asientos.",
+          "petPolicyPt": "Até 2 cães grátis por pasajero; trela; sem sentarse"
         }
       ],
       "tipsEn": [
@@ -350,6 +418,27 @@
           "q": "¿Y taxis y Uber?",
           "a": "La mayoría de taxis de Bath admiten perros pero queda a discreción del conductor. Uber Pet (suplemento de 5 £) garantiza conductor pet-friendly. Confirma siempre al reservar."
         }
+      ],
+      "titlePt": "Viajar com cão em Bath",
+      "introPt": "Bath é lo bastante pequeña para recorrerse a pé com cão (1,5 km de ancho), mas para trayectos mais longos First Bus e South Western Railway admiten cães. As normas ferroviarias británicas são excepcionalmente generosas: até 2 cães por pasajero viajan grátis não ferrocarril nacional (sempre que não ocupen um asiento). Os autocarros admiten cães com trela a discreción do conductor — os conductores de Bath são reconocidamente acolhedores.",
+      "tipsPt": [
+        "First Bus (operador principal de Bath) admite cães a discreción do conductor. Os locales reportan um nivel de aceptación cercano ao \\100 %. Evita a hora punta (8:00–9:00 e 17:00–18:00).",
+        "Os comboios GWR Castle Class de Bath Spa a Londres admiten cães em cualquier clase — o Pullman de primera mesmo recibe cães (bol + chuche a petición). Reserva ventanilla.",
+        "Para excursiones a Bristol (12 min de comboio) o Salisbury / Stonehenge (1h), os comboios são muito mais fáceis que os autocarros com cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Debo pagar por mi cão nos comboios UK?",
+          "a": "Não — até 2 cães viajan grátis por pasajero não ferrocarril nacional. Com trela e sem ocupar asiento. Algunos operadores piden um bilhete infantil para cães muito grandes (rara vez se aplica)."
+        },
+        {
+          "q": "¿Puedo levar mi cão nos autocarros de Bath?",
+          "a": "Sí, a discreción do conductor. First Bus (operador principal) admite cães casi universalmente. Cães com trela; o bozal não é obrigatório."
+        },
+        {
+          "q": "¿E taxis e Uber?",
+          "a": "A maioria de taxis de Bath admiten cães mas queda a discreción do conductor. Uber Pet (suplemento de 5 £) garantiza conductor pet-friendly. Confirma sempre al reservar."
+        }
       ]
     },
     "beaches": {
@@ -376,7 +465,10 @@
           "tip": "The tide goes out exceptionally far at Berrow (over 1.5 km at low tide) — check tide tables before letting your dog run. The incoming tide can be fast.",
           "tipFr": "La marée descend exceptionnellement loin à Berrow (plus de 1,5 km à marée basse) — consultez les horaires avant de laisser courir votre chien. La marée montante est rapide.",
           "tipEs": "La marea baja excepcionalmente lejos en Berrow (más de 1,5 km en marea baja) — consulta las tablas de mareas antes de dejar correr al perro. La marea sube rápido.",
-          "googleMapsUrl": "https://maps.google.com/?q=Berrow+Beach+Burnham-on-Sea"
+          "googleMapsUrl": "https://maps.google.com/?q=Berrow+Beach+Burnham-on-Sea",
+          "descriptionPt": "Praia de areia de 8 km a sul de Burnham-on-Sea com dunas detrás (SSSI designada). Cães admitidos sem trela o ano inteiro em toda a praia — uma das poucas praias costeras británicas sem restricción estacional. Areia ancha e llana em marea baja para juegos de pelota.",
+          "petPolicyPt": "Sem trela o ano inteiro",
+          "tipPt": "A marea baja excepcionalmente lejos em Berrow (mais de 1,5 km em marea baja) — consulta as tablas de mareas antes de dejar correr al cão. A marea sube rápido."
         },
         {
           "name": "Weston-super-Mare (Uphill end)",
@@ -394,7 +486,10 @@
           "tip": "Park at the Royal Sands car park (free, 50 spaces). The walk from car to beach is 200 m through dunes — easier than the central Weston seafront with a dog.",
           "tipFr": "Garez-vous au parking Royal Sands (gratuit, 50 places). La marche jusqu'à la plage fait 200 m à travers les dunes — plus simple que le front de mer central de Weston avec un chien.",
           "tipEs": "Aparca en el parking Royal Sands (gratuito, 50 plazas). El paseo del coche a la playa son 200 m por dunas — más fácil que el paseo marítimo central de Weston con perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Uphill+Beach+Weston-super-Mare"
+          "googleMapsUrl": "https://maps.google.com/?q=Uphill+Beach+Weston-super-Mare",
+          "descriptionPt": "O extremo sur de Weston (Uphill / Royal Sands) admite cães o ano inteiro, mientras que a praia turística central os prohíbe do 1 maio ao \\10 setembro. A secção Uphill é mais ancha, mais tranquila e mais perto das marismas — apreciada por locales a passear cães e bañistas que escapan da multitud central.",
+          "petPolicyPt": "Sem trela o ano inteiro não extremo Uphill",
+          "tipPt": "Aparca não parking Royal Sands (gratuito, 50 praças). O passeio do carro a praia são 200 m por dunas — mais fácil que o passeio marítimo central de Weston com cão."
         }
       ],
       "tipsEn": [
@@ -453,6 +548,27 @@
           "q": "¿Hay puntos de baño en agua dulce más cerca de Bath?",
           "a": "Sí — Bathampton Meadows (5 km al este), Warleigh Weir (8 km al sureste, controvertido pero popular) y los afluentes del Box Brook ofrecen baños en agua dulce todo el año sin preocupaciones de marea."
         }
+      ],
+      "titlePt": "Praias pet-friendly perto de Bath",
+      "introPt": "Bath está a 30 km da costa do Bristol Channel. As praias pet-friendly mais cercanas estão na costa norte de Somerset (45-60 min de carro) — Weston-super-Mare e Berrow Beach são os dos destinos principales. As normas británicas varían segundo a temporada: a maioria de praias restringen cães de maio a setembro na secção central principal mas os admiten o ano inteiro nos laterales.",
+      "tipsPt": [
+        "As prohibiciones estacionales em UK van do 1 maio ao \\10 setembro na maioria de praias populares — consulta sempre a página do ayuntamiento local para a secção que vas a visitar.",
+        "Berrow Beach é a única praia sem trela o ano inteiro a menos de 1h de Bath — guárdala para excursiones estivales.",
+        "O Bristol Channel tem a segunda mayor amplitud de marea do mundo (15 m) — nunca dejes a tu cão vagar pelos llanos sem consultar a tabla de mareas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana?",
+          "a": "Berrow Beach (50 min de carro, sem trela o ano inteiro) e o extremo Uphill de Weston-super-Mare (45 min, sem trela o ano inteiro) são as dos mais cercanas. Ambas acessíveis de comboio + bus se não conduces."
+        },
+        {
+          "q": "¿Pode mi cão nadar não Bristol Channel?",
+          "a": "Sí, mas o água do canal é turbia e as mareas são extremas. A maioria de dueños dejan aos cães chapotear mas não nadar do todo. O Vobster Quay de água dulce (40 min de Bath, com cita previa) é uma alternativa popular para natação seria."
+        },
+        {
+          "q": "¿Hay puntos de banho em água dulce mais perto de Bath?",
+          "a": "Sí — Bathampton Meadows (5 km al este), Warleigh Weir (8 km al sureste, controvertido mas popular) e os afluentes do Box Brook ofrecen banhos em água dulce o ano inteiro sem preocupaciones de marea."
+        }
       ]
     },
     "vets": {
@@ -483,7 +599,11 @@
           "tip": "Call ahead to confirm — they sometimes triage to the Bristol Vets Now (20 min by car) for serious cases needing specialist equipment.",
           "tipFr": "Appelez avant pour confirmer — ils orientent parfois vers Vets Now Bristol (20 min en voiture) pour les cas graves nécessitant des équipements spécialisés.",
           "tipEs": "Llama antes para confirmar — a veces derivan a Vets Now Bristol (20 min en coche) para casos graves que requieren equipo especializado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Bath+Wellsway"
+          "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Bath+Wellsway",
+          "descriptionPt": "Veterinário de urgências 24/7 fora de horario oficial de Bath, operando a partir das instalaciones de Rosemary Lodge. Aberto todas as noites entre semana a partir das 19:00 e 24/7 fines de semana e festivos. Urgências admitidas sem cita; triaje telefónico disponible. Tarifas estándar publicadas online.",
+          "petPolicyPt": "Urgências 24/7 sem cita; triaje telefónico recomendado",
+          "servicesPt": "Urgências, cirugía, imagen, hospitalización",
+          "tipPt": "Llama antes para confirmar — a vezes derivan a Vets Now Bristol (20 min de carro) para casos graves que requieren equipo especializado."
         },
         {
           "name": "Bath Veterinary Group (Days Centre)",
@@ -505,7 +625,11 @@
           "tip": "Book online for routine appointments; phone for same-day urgent issues. They accept visiting pets without registration for emergencies.",
           "tipFr": "Réservez en ligne pour les rendez-vous ; appelez pour les urgences du jour. Ils acceptent les animaux de passage sans inscription pour les urgences.",
           "tipEs": "Reserva online para citas rutinarias; llama para urgencias del día. Admiten mascotas de paso sin registro para urgencias.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bath+Veterinary+Group+Lansdown"
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+Veterinary+Group+Lansdown",
+          "descriptionPt": "O mayor consultorio diurno para pequeños animales de Bath, com 6 cirugías na cidade. Aberto de segunda-feira a sexta-feira 8:30-19:00 e sábados pela manhã. As urgências fora de horario se derivan a Vets Now Bath (mesmo número).",
+          "petPolicyPt": "Citas diurnas; fora de horario por Vets Now",
+          "servicesPt": "Medicina general, cirugía, dental, imagen",
+          "tipPt": "Reserva online para citas rutinarias; llama para urgências do dia. Admiten animais de paso sem registro para urgências."
         }
       ],
       "tipsEn": [
@@ -563,6 +687,27 @@
         {
           "q": "¿Un veterinario de Bath admitirá a mi perro sin registro?",
           "a": "Sí — Vets Now y Bath Veterinary Group admiten mascotas de paso sin cita para urgencias. Lleva el pasaporte europeo para el historial de vacunación."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Bath — Hospitales e clínicas veterinárias",
+      "introPt": "Bath cuenta com dos grandes consultorios veterinários que ofrecen serviços de urgências fora de horario mediante a red Vets Now (noite e fin de semana). Bath Veterinary Group e Rosemary Lodge Veterinary Hospital são os dos principales proveedores diurnos; Vets Now Bath não edifício do Animal Health Trust gestiona as urgências 24/7.",
+      "tipsPt": [
+        "Guarda Vets Now Bath (01225 832521) em tu móvil antes de chegar — o mesmo número te orienta al serviço diurno o nocturno.",
+        "O Animal Poisons Helpline (UK) é +44 1202 509000 — serviço de pago (35 £) mas salvavidas para consejos sobre ingestión de uvas, chocolate o rodenticida.",
+        "Os médicos de cabecera UK não tratan animais — para cualquier herida, mesmo menor, se requiere visita veterinária."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Qué veterinário abre 24/7 em Bath?",
+          "a": "Vets Now Bath opera a partir de Rosemary Lodge Veterinary Hospital (Wellsway, BA2 4RZ, +44 1225 832521). Noites entre semana a partir das 19:00 e 24/7 fines de semana e festivos."
+        },
+        {
+          "q": "¿Cuánto cuesta uma urgência veterinária em Bath?",
+          "a": "Consulta fora de horario habitualmente 150-250 £ sem contar pruebas. Os veterinários UK devem publicar os seus tarifas a petición. Os seguros UE de animais costumam reembolsar com factura de direção UK — guarda o recibo."
+        },
+        {
+          "q": "¿Um veterinário de Bath admitirá a mi cão sem registro?",
+          "a": "Sí — Vets Now e Bath Veterinary Group admiten animais de paso sem cita para urgências. Lleva o passaporte europeu para o historial de vacinação."
         }
       ]
     },
@@ -636,6 +781,29 @@
           "q": "¿Hay restricciones de raza en el UK?",
           "a": "Sí. La Dangerous Dogs Act 1991 prohíbe cuatro razas: Pit Bull Terrier, Tosa Japonés, Dogo Argentino, Fila Brasileiro. Llevar una desde el extranjero, incluso en tránsito, es ilegal."
         }
+      ],
+      "titlePt": "Consejos esenciales para viajar com animais a Bath",
+      "introPt": "Bath é uma das as pequeñas cidades UK mais fáceis de visitar com cão: compacta, peatonal, com uma fuerte cultura de pubs e cafés tolerante com os cães. O punto principal é que o Reino Unido já não está não sistema de passaporte europeu — entrar com cão a partir da UE ahora requiere um Animal Health Certificate (AHC) emitido nos 10 dias anteriores al viaje.",
+      "tipsPt": [
+        "O UK exige um Animal Health Certificate (AHC) para cães residentes UE que entran — emitido por tu veterinário nos 10 dias anteriores al viaje. Cuesta 100-200 € segundo o país.",
+        "O tratamento contra a equinococose é obrigatório para cães que entran al UK — administrado por um veterinário entre 24 horas e 5 dias antes da llegada, registrado não AHC.",
+        "Bath aplica uma Public Spaces Protection Order estricta: trela obrigatória no centro e parques formales; multas de 100 £ aplicadas activamente. As zonas sem trela estão señalizadas.",
+        "A maioria de hotéis UK admiten cães mas o tamanho e número máximos por habitación varían — llama antes se tu cão supera 25 kg o tienes mais de uno.",
+        "O estatus antirrábico do UK é excepcional: os cães que regresan a UE a partir do UK actualmente não necesitan uma nueva vacina antirrábica se a existente sigue vigente."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Bath uma buena cidade para visitar com cão?",
+          "a": "Sí — Bath é uma das as cidades pequeñas mais compactas e acolhedoras do UK com cães, com fuerte cultura de pubs, o trilho Bath Skyline, o camino de sirga Kennet & Avon e cobertura veterinária de urgências 24/7."
+        },
+        {
+          "q": "¿Necesito papeles especiales para levar mi cão a Bath a partir da UE?",
+          "a": "Sí. O UK abandonó o sistema de passaporte europeu tras o Brexit. Os cães residentes UE necesitan um Animal Health Certificate (AHC) emitido nos 10 dias previos al viaje + tratamento contra a equinococose 24h-5 dias antes da llegada."
+        },
+        {
+          "q": "¿Hay restricciones de raza não UK?",
+          "a": "Sí. A Dangerous Dogs Act 1991 prohíbe quatro razas: Pit Bull Terrier, Tosa Japonés, Dogo Argentino, Fila Brasileiro. Levar uma a partir do extranjero, mesmo em tránsito, é ilegal."
+        }
       ]
     },
     "attractions": {
@@ -662,7 +830,10 @@
           "tip": "Photograph the Crescent from the Royal Avenue entrance for the classic full-curve view. The lawn is at its most peaceful at sunrise.",
           "tipFr": "Photographiez le Crescent depuis l'entrée Royal Avenue pour la vue classique en courbe complète. La pelouse est la plus paisible au lever du soleil.",
           "tipEs": "Fotografía el Crescent desde la entrada de Royal Avenue para la vista clásica de la curva completa. El césped está más tranquilo al amanecer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Royal+Crescent+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=Royal+Crescent+Bath",
+          "descriptionPt": "A esplanada georgiana mais icónica do UK — 30 casas em pedra color miel dispuestas numa curva barrida de 150 m, terminada em 1774. O relva delante é um parque público (extremo este do Royal Victoria Park) e os cães são bem-vindos com trela. O museu Não.1 Royal Crescent na esquina não admite animales mas merece um relevo.",
+          "petPolicyPt": "Relva: trela; museu: sem animales",
+          "tipPt": "Fotografía o Crescent a partir da entrada de Royal Avenue para a vista clásica da curva completa. O relva está mais tranquilo al amanecer."
         },
         {
           "name": "Pulteney Bridge",
@@ -680,7 +851,10 @@
           "tip": "View the bridge from the riverside path on Grand Parade for the postcard angle. Combine with a Boater pub stop on the other side of the river.",
           "tipFr": "Vue du pont depuis le sentier riverain sur Grand Parade pour l'angle carte postale. Combinez avec un arrêt au pub Boater de l'autre côté de la rivière.",
           "tipEs": "Vista del puente desde el sendero ribereño en Grand Parade para el ángulo postal. Combínalo con una parada en el pub Boater al otro lado del río.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pulteney+Bridge+Bath"
+          "googleMapsUrl": "https://maps.google.com/?q=Pulteney+Bridge+Bath",
+          "descriptionPt": "Uno de só quatro pontes não mundo com lojas a ambos lados (junto ao Ponte Vecchio de Florencia). Totalmente acessível com trela, com lojas, cafés e uma vista perfeita da presa do rio. O jardim ribereño debajo (Parade Gardens) é de pago mas o ponte e as vistas são gratuitos.",
+          "petPolicyPt": "Cães com trela bem-vindos",
+          "tipPt": "Vista do ponte a partir do trilho ribereño em Grand Parade para o ángulo postal. Combínalo com uma paragem não pub Boater al outro lado do rio."
         },
         {
           "name": "Bath Abbey Churchyard",
@@ -698,7 +872,10 @@
           "tip": "Free Abbey tower tours (booking required) admit no pets — combine with a Vaults Café visit on the south side of the Abbey, fully dog-friendly.",
           "tipFr": "Les visites gratuites de la tour de l'Abbaye (réservation requise) n'admettent pas les animaux — combinez avec une visite au Vaults Café côté sud, entièrement dog-friendly.",
           "tipEs": "Las visitas gratuitas a la torre de la Abadía (con reserva) no admiten animales — combínalo con una visita al Vaults Café en el lado sur, totalmente dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bath+Abbey+Churchyard"
+          "googleMapsUrl": "https://maps.google.com/?q=Bath+Abbey+Churchyard",
+          "descriptionPt": "O patio medieval da Abadía é uma praça pública não corazón de Bath, enmarcada pela fachada oeste gótica tardía da Abadía e a columnata da Pump Room. Cães com trela bem-vindos na praça; o interior da Abadía só admite cães de assistência registrados.",
+          "petPolicyPt": "Praça: trela bienvenida; interior Abadía: sem animales",
+          "tipPt": "As visitas gratuitas a torre da Abadía (com reserva) não admiten animales — combínalo com uma visita al Vaults Café não lado sur, totalmente pet-friendly."
         }
       ],
       "tipsEn": [
@@ -757,6 +934,27 @@
           "q": "¿Puedo llevar mi perro en una visita guiada a pie de Bath?",
           "a": "Las visitas gratuitas Mayor of Bath admiten perros con correa a discreción del guía — generalmente sí. El hop-on-hop-off de Bath Bus Company admite perros en la cubierta superior. Los barcos por el Avon también admiten perros."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Bath",
+      "introPt": "O núcleo georgiano de Bath, catalogado pela UNESCO, se recorre por completo com cão: o Royal Crescent, o Circus, o Pulteney Bridge, o Abbey Churchyard. As dos principales atracciones de pago (Roman Baths, Thermae Bath Spa) não admiten animales, mas as ruas, parques e o camino de sirga do canal adyacente ofrecen muito que hacer sem entrar em espacios cubiertos.",
+      "tipsPt": [
+        "Os Roman Baths e o Thermae Bath Spa não admiten animales salvo cães de assistência registrados — organiza um relevo.",
+        "O Holburne Museum, o Fashion Museum e o Não.1 Royal Crescent também são sitios cubiertos sem cães — mas os seus jardins e praças adyacentes os admiten todos.",
+        "Os tours hop-on-hop-off da Bath Bus Company admiten cães com trela a discreción do conductor (só na cubierta superior) — uma forma descontraída de ver a cidade com um cão cansado."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar mi cão aos Roman Baths?",
+          "a": "Só cães de assistência registrados. As animais não se admiten nos Roman Baths ni na Pump Room adyacente. O patio da Abadía exterior é totalmente acessível com trela."
+        },
+        {
+          "q": "¿Se admiten cães não Thermae Bath Spa?",
+          "a": "Não — as animais não se admiten em ninguna zona do spa. A piscina exterior Cross Bath tampoco admite cães. Passear com o cão pelas ruas alrededor mientras um acompañante usa o spa é a opción práctica."
+        },
+        {
+          "q": "¿Puedo levar mi cão numa visita guiada a pé de Bath?",
+          "a": "As visitas gratuitas Mayor of Bath admiten cães com trela a discreción do guia — generalmente sí. O hop-on-hop-off de Bath Bus Company admite cães na cubierta superior. Os barcos pelo Avon também admiten cães."
+        }
       ]
     },
     "petsitting": {
@@ -782,7 +980,10 @@
           "servicesFr": "Promenade, garderie, pension",
           "servicesEs": "Paseo, guardería, alojamiento",
           "openingHours": "Online 24/7",
-          "tip": "Book Bath sitters at least 1 week ahead during the Jane Austen Festival (September) and the Christmas Market (late Nov–mid Dec) — the city saturates."
+          "tip": "Book Bath sitters at least 1 week ahead during the Jane Austen Festival (September) and the Christmas Market (late Nov–mid Dec) — the city saturates.",
+          "descriptionPt": "Plataforma europeia de pet sitting com cuidadores verificados em Bath para passeios, guardería e alojamento a domicilio. Seguro e fotos incluidos. Tarifas típicas: 25-40 £/dia em alojamento, 12-18 £ por passeio de uma hora.",
+          "petPolicyPt": "Cuidadores verificados, seguro incluido",
+          "servicesPt": "Passeio, guardería, alojamento"
         }
       ],
       "tipsEn": [
@@ -840,6 +1041,27 @@
         {
           "q": "¿Puedo encontrar un cuidador por solo unas horas?",
           "a": "Sí — Pawshake y Tailster ofrecen visitas de 1 hora (12-18 £) y opciones de medio día para visitas spa/museo. Las reservas del mismo día suelen estar disponibles."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães em Bath",
+      "introPt": "Bath cuenta com um sólido mercado profesional de cuidado de animales, impulsado pela población de commuters e a economía turística. Pawshake, Tailster e Trusted House Sitters operan localmente, com a mayor densidad de cuidadores em Bathwick, Combe Down e Widcombe. Tarifas ligeramente superiores a media UK mas inferiores a Londres.",
+      "tipsPt": [
+        "Os paseadores de Bath costumam ofrecer 'Skyline walks' — aventura de 2-3 horas sem trela pelo trilho da National Trust, ideal se quieres aprovechar uma sesión de spa o visitar os Roman Baths.",
+        "Tailster.com é o competidor específico UK de Pawshake — a vezes com mais opciones em Bath específicamente.",
+        "A maioria de hotéis pet-friendly de Bath Não permiten dejar al cão só na habitación. Um cuidador local o serviço de guardería em habitación é esencial para atracciones interiores."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta o pet sitting em Bath?",
+          "a": "Tarifas habituales: 25-40 £/noite em alojamento, 30-50 £/dia em guardería, 12-18 £ por passeio de uma hora. Ligeramente superior a media UK pela demanda turística."
+        },
+        {
+          "q": "¿Estão asegurados os cuidadores em Bath?",
+          "a": "Pawshake e Tailster incluyen responsabilidad civil e cobertura veterinária de urgências em cada reserva. Verifica antes de reservar com cuidadores independientes."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador por só umas horas?",
+          "a": "Sí — Pawshake e Tailster ofrecen visitas de 1 hora (12-18 £) e opciones de medio dia para visitas spa/museu. As reservas do mesmo dia costumam estar disponibles."
         }
       ]
     }

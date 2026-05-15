@@ -33,7 +33,11 @@
           "tip": "Walk up the Pyynikki forest steps from Pirkankatu — dog-friendly trail year-round, panorama 50% better than the road approach.",
           "tipFr": "Montez les marches de la forêt de Pyynikki depuis Pirkankatu — sentier dog-friendly toute l'année, panorama 50 % meilleur que par la route.",
           "tipEs": "Sube las escaleras del bosque de Pyynikki desde Pirkankatu — sendero dog-friendly todo el año, panorama un 50 % mejor que por la carretera.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+observation+tower+cafe"
+          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+observation+tower+cafe",
+          "descriptionPt": "O café mais famoso de Finlândia — torre de observación de 1929 sobre a cresta de Pyynikki, com os donuts (munkki) mais queridos do país e uma vista de 360° sobre os dos lagos de Tampere. Cães bem-vindos na esplanada envolvente o ano inteiro e não café inferior fora de horas punta.",
+          "petPolicyPt": "Cães em esplanada + café fora de horas punta",
+          "mustTryPt": "Munkki (donut azucarado), pulla, café com leche",
+          "tipPt": "Sube as escaleras do floresta de Pyynikki a partir de Pirkankatu — trilho pet-friendly o ano inteiro, panorama um 50 % melhor que pela carretera."
         },
         {
           "name": "Kahvila Runo",
@@ -55,7 +59,11 @@
           "tip": "The window seat at the back has the calmest light for an anxious dog — ideal for working remotely with a coffee.",
           "tipFr": "La place près de la fenêtre au fond a la lumière la plus calme pour un chien anxieux — idéal pour télétravailler avec un café.",
           "tipEs": "El asiento junto a la ventana del fondo tiene la luz más tranquila para un perro ansioso — ideal para teletrabajar con un café.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kahvila+Runo+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Kahvila+Runo+Tampere",
+          "descriptionPt": "Acolhedor café com librería de segunda mano em Ojakatu com muebles vintage, pasteles caseros e poesía finlandesa nas paredes. Cães bem-vindos em toda a pequeña sala; boles na puerta.",
+          "petPolicyPt": "Cães bem-vindos dentro",
+          "mustTryPt": "Korvapuusti (rollo de canela), tarta de zanahoria casera",
+          "tipPt": "O asiento junto a ventana do fondo tem a luz mais tranquila para um cão ansioso — ideal para teletrabajar com um café."
         },
         {
           "name": "Plevna Brewery & Restaurant",
@@ -77,7 +85,11 @@
           "tip": "The river-side terrace at sunset is one of Tampere's best dog-watching spots — bring a blanket on cold days, the heat lamps don't reach the lower row.",
           "tipFr": "La terrasse côté rivière au coucher du soleil est l'un des meilleurs spots canins de Tampere — apportez une couverture les jours froids, les lampes chauffantes n'atteignent pas la rangée inférieure.",
           "tipEs": "La terraza junto al río al atardecer es uno de los mejores lugares caninos de Tampere — lleva una manta en días fríos, las lámparas calefactoras no llegan a la fila inferior.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plevna+brewery+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Plevna+brewery+Tampere",
+          "descriptionPt": "Cervecería artesanal e restaurante na histórica fábrica de algodón Finlayson do século XIX — a emblemática mustamakkara (salchicha negra) de Tampere na carta, além disso de 12 cervejas da casa. Cães bem-vindos na esplanada ribereña de verão o ano inteiro e na zona de barra fora de horas punta.",
+          "petPolicyPt": "Cães em esplanada + barra fora de horas punta",
+          "mustTryPt": "Mustamakkara, stout Plevna Siperia, salchicha de reno",
+          "tipPt": "A esplanada junto ao rio al atardecer é um dos os melhores lugares caninos de Tampere — lleva uma manta em dias frios, as lámparas calefactoras não llegan a fila inferior."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Puedo entrar con mi perro a un kahvila finlandés?",
           "a": "Sí. Los kahvilat finlandeses (cafés) admiten perros por defecto — perros con correa bienvenidos en el suelo junto a tu mesa. La mayoría de habituales lleva perro sin problema."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Tampere",
+      "introPt": "A cultura do café finlandesa é fiablemente pet-friendly — os cães com trela são admitidos na maioria dos cafés o ano inteiro, e o central Hämeenkatu e os rápidos do Tammerkoski concentran as melhores direções.",
+      "tipsPt": [
+        "A cultura do café finlandesa é ampliamente pet-friendly — al menos o 75 % dos cafés de Tampere admite cães com trela na sala principal o ano inteiro.",
+        "A mustamakkara (salchicha negra) é o plato de Tampere — aos cães les encanta mas o seu alto contenido em sal impone só um trozo pequeño.",
+        "A propina não se espera em Finlândia; o serviço está incluido. Redondea em efectivo se lo deseas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Tampere?",
+          "a": "Sí na mayoría. Perto do 75 % dos cafés e restaurantes informales de Tampere admite cães com trela na sala principal o ano inteiro. Os locales de alta cozinha varían — llama antes."
+        },
+        {
+          "q": "¿Puedo entrar com mi cão a um kahvila finlandés?",
+          "a": "Sí. Os kahvilat finlandeses (cafés) admiten cães por defecto — cães com trela bem-vindos não solo junto a tu mesa. A maioria de habituales lleva cão sem problema."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "Avoid the ridge in late June (white-night midges); winter is gloriously crisp and the lake views are clearest.",
           "tipFr": "Évitez la crête fin juin (moucherons des nuits blanches) ; l'hiver est glorieusement vif et les vues sur les lacs sont les plus claires.",
           "tipEs": "Evita la cresta a finales de junio (mosquitos de las noches blancas); el invierno es gloriosamente nítido y las vistas a los lagos son las más claras.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+ridge+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+ridge+Tampere",
+          "leashRulePt": "Com trela de março a agosto (nidificación); sem trela de setembro a fevereiro",
+          "descriptionPt": "O esker de grava mais alto do mundo (formado na última glaciación) — floresta de pinos, vistas aos lagos a ambos lados da cresta, 8 km de trilhos balizados, café-torre de observación icónico de Pyynikki na cima. O passeio canino preferido de Tampere.",
+          "amenitiesPt": [
+            "Trilhos señalizados",
+            "Café na cima",
+            "Parking grátis",
+            "Miradores aos lagos"
+          ],
+          "tipPt": "Evita a cresta a finales de junho (mosquitos das noites blancas); o inverno é gloriosamente nítido e as vistas aos lagos são as mais claras."
         },
         {
           "name": "Kauppi Forest",
@@ -202,7 +240,16 @@
           "tip": "In winter, the marked ski tracks are reserved for skiers — walk dogs on the parallel pedestrian trails to avoid conflict.",
           "tipFr": "En hiver, les pistes de ski balisées sont réservées aux skieurs — promenez les chiens sur les sentiers piétons parallèles pour éviter le conflit.",
           "tipEs": "En invierno, las pistas de esquí balizadas son para esquiadores — pasea perros por los senderos peatonales paralelos para evitar conflictos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kauppi+forest+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Kauppi+forest+Tampere",
+          "leashRulePt": "Com trela março-agosto; sem trela o ano inteiro em 4 zonas valladas",
+          "descriptionPt": "O mayor floresta urbano de Tampere — 700 tem de pinos e abetos al noreste do centro, 30 km de trilhos balizados de senderismo estival e esquí de fondo invernal, 4 koira-aitaus vallados, e acceso directo al lago Näsijärvi.",
+          "amenitiesPt": [
+            "Trilhos señalizados",
+            "Pistas de esquí de fondo",
+            "4 zonas caninas valladas",
+            "Parking grátis"
+          ],
+          "tipPt": "Em inverno, as pistas de esquí balizadas são para esquiadores — pasea cães pelos trilhos peatonales paralelos para evitar conflictos."
         },
         {
           "name": "Hatanpää Arboretum",
@@ -237,7 +284,16 @@
           "tip": "The rose-garden bloom peaks late June-July — bring poo bags, the formal lawn paths are closely monitored.",
           "tipFr": "La floraison de la roseraie culmine fin juin-juillet — apportez des sacs, les pelouses formelles sont étroitement surveillées.",
           "tipEs": "La floración de la rosaleda culmina a finales de junio-julio — lleva bolsas, los céspedes formales están muy vigilados.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hatanpaa+arboretum+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Hatanpaa+arboretum+Tampere",
+          "leashRulePt": "Com trela o ano inteiro",
+          "descriptionPt": "Jardim de mansión paisajístico do século XIX na margem sur do Pyhäjärvi — 6 000 especies de plantas, rosaleda, café do manoir Hatanpää, e trilhos junto ao lago. Conecta com o koira-aitaus de Hatanpää, a 600 m al sur.",
+          "amenitiesPt": [
+            "Café do manoir",
+            "Rosaleda",
+            "Aseos públicos",
+            "Parking grátis"
+          ],
+          "tipPt": "A floración da rosaleda culmina a finales de junho-julho — lleva bolsas, os céspedes formales estão muito vigilados."
         }
       ],
       "tipsEn": [
@@ -284,6 +340,23 @@
           "q": "¿Pueden los perros nadar en el lago Näsijärvi o Pyhäjärvi?",
           "a": "Sí, todo el año, en las zonas de baño canino dedicadas. La playa de Pyynikki (Pyhäjärvi) tiene una zona canina sin correa al sur de la zona de baño principal; la playa de Niihama (Näsijärvi) tiene una zona canina todo el año en la orilla este."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Tampere",
+      "introPt": "Tampere se asienta sobre uma estrecha cresta entre dos lagos (Näsijärvi al norte, Pyhäjärvi al sur) e está rodeada de floresta de pinos — a cresta de Pyynikki directamente al oeste do centro, o floresta de Kauppi al noreste, e 22 koira-aitaus (zonas sem trela) valladas pela cidade.",
+      "tipsPt": [
+        "A lei finlandesa exige trela do 1 de março ao \\19 de agosto para proteger as aves nidificantes não solo — aplica a florestas, parques e praias fora dos koira-aitaus vallados.",
+        "Tampere tem 22 koira-aitaus municipales vallados — mapa completo em tampere.fi/koirat.",
+        "Lleva sempre bolsas: multa municipal por excrementos de 70 € (rikesakko), controlada por agentes municipales."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Tampere?",
+          "a": "Sem trela permitido o ano inteiro só nos 22 koira-aitaus municipales vallados. Fora de ellos, a lei finlandesa exige trela do 1 de março ao \\19 de agosto (nidificación); de setembro a fevereiro permite sem trela na maioria de trilhos forestales rurales fora de parques formales."
+        },
+        {
+          "q": "¿Podem os cães nadar não lago Näsijärvi o Pyhäjärvi?",
+          "a": "Sí, o ano inteiro, nas zonas de banho canino dedicadas. A praia de Pyynikki (Pyhäjärvi) tem uma zona canina sem trela a sul da zona de banho principal; a praia de Niihama (Näsijärvi) tem uma zona canina o ano inteiro na margem este."
+        }
       ]
     },
     "transport": {
@@ -308,7 +381,10 @@
           "tip": "The new tram lines (1, 3) connect the centre to Hervanta and the airport — perfect dog-friendly arrival from Tampere-Pirkkala (TMP) in 35 min.",
           "tipFr": "Les nouvelles lignes de tram (1, 3) relient le centre à Hervanta et à l'aéroport — arrivée dog-friendly parfaite depuis Tampere-Pirkkala (TMP) en 35 min.",
           "tipEs": "Las nuevas líneas de tranvía (1, 3) conectan el centro con Hervanta y el aeropuerto — llegada dog-friendly perfecta desde Tampere-Pirkkala (TMP) en 35 min.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tampere+rautatieasema"
+          "googleMapsUrl": "https://maps.google.com/?q=Tampere+rautatieasema",
+          "descriptionPt": "Nysse opera o moderno sistema de elétrico de Tampere (inaugurado em 2021) e mais de 60 líneas de autocarro. Os cães com trela viajan grátis em todos os elétricos e buses, sem bozal exigido, sem bilhete para o cão.",
+          "petPolicyPt": "Grátis, sem bozal, sem bilhete",
+          "tipPt": "As nuevas líneas de elétrico (1, 3) conectan o centro com Hervanta e o aeroporto — llegada pet-friendly perfeita a partir de Tampere-Pirkkala (TMP) em 35 min."
         },
         {
           "name": "VR Pendolino & InterCity",
@@ -324,7 +400,10 @@
           "tip": "Always book a 'pet-allowed' carriage seat online — non-pet carriages strictly exclude dogs. Pendolino has the cleanest dog area on the route.",
           "tipFr": "Réservez toujours un siège « pet-allowed » en ligne — les voitures non-pets excluent strictement les chiens. Le Pendolino a la zone canine la plus propre du réseau.",
           "tipEs": "Reserva siempre un asiento « pet-allowed » online — los vagones no-pet excluyen estrictamente perros. El Pendolino tiene la zona canina más limpia de la red.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tampere+rautatieasema"
+          "googleMapsUrl": "https://maps.google.com/?q=Tampere+rautatieasema",
+          "descriptionPt": "Os comboios VR Pendolino e IC conectan Tampere com Helsínquia (1h30), Turku (2h), Oulu (4h) e Rovaniemi (8h). Os cães com trela viajan grátis em vagones pet-friendly dedicados (seleccionables online); sem bozal exigido.",
+          "petPolicyPt": "Grátis em vagón canino; sem bozal",
+          "tipPt": "Reserva sempre um asiento « pet-allowed » online — os vagones não-pet excluyen estrictamente cães. O Pendolino tem a zona canina mais limpia da red."
         },
         {
           "name": "Hopealinjat Lake Cruises",
@@ -340,7 +419,10 @@
           "tip": "The 1h Viikinsaari shuttle (June-August) is the perfect dog-friendly Tampere day — picnic on the island, off-leash forest trails, return at sunset.",
           "tipFr": "La navette Viikinsaari d'1h (juin-août) est la journée Tampere dog-friendly parfaite — pique-nique sur l'île, sentiers forestiers sans laisse, retour au coucher du soleil.",
           "tipEs": "La lanzadera de Viikinsaari de 1h (junio-agosto) es la jornada Tampere dog-friendly perfecta — picnic en la isla, senderos forestales sin correa, vuelta al atardecer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mustalahti+harbour+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Mustalahti+harbour+Tampere",
+          "descriptionPt": "Barcos de vapor só em verão a partir do puerto de Mustalahti — o SS Tarjanne histórico de 1908 a Virrat (crucero de 8h) e trayectos mais cortos a ilha de Viikinsaari. Cães com trela admitidos grátis em cubiertas exteriores.",
+          "petPolicyPt": "Grátis em cubiertas exteriores",
+          "tipPt": "A lanzadera de Viikinsaari de 1h (junho-agosto) é a jornada Tampere pet-friendly perfeita — picnic na ilha, trilhos forestales sem trela, vuelta al atardecer."
         }
       ],
       "tipsEn": [
@@ -387,6 +469,23 @@
           "q": "¿Puedo llevar a mi perro en un tren finlandés?",
           "a": "Sí — los trenes VR admiten perros con correa gratis, pero solo en vagones « pet-allowed » dedicados seleccionables online. Los vagones no-pet excluyen estrictamente perros."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Tampere",
+      "introPt": "O centro compacto de Tampere se cruza a pé em 20 minutos. Para excursiones, os elétricos e autocarros Nysse, os comboios VR Pendolino e os barcos de vapor estacionales do lago Näsijärvi admiten todos cães com trela.",
+      "tipsPt": [
+        "Finlândia é um dos os mercados de transporte mais pet-friendly de Europa — os elétricos/buses Nysse e os comboios VR admiten cães com trela grátis, sem bozal, sem bilhete.",
+        "Helsínquia-Vantaa (HEL) a 1h45 de comboio VR directo; Tampere-Pirkkala (TMP) a 35 min não elétrico 1 — ambos pet-friendly com admisión em cabina em Finnair, KLM, Lufthansa.",
+        "Alquilar carro é recomendable para o archipiélago lacustre e a região rural de Pirkanmaa — o transporte público cubre bem a cidade mas não as ilhas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Necesito bilhete para mi cão nos elétricos de Tampere?",
+          "a": "Não. Os cães com trela viajan grátis em elétricos e buses Nysse, sem bilhete e sem bozal. Das normas de transporte canino mais generosas de Europa."
+        },
+        {
+          "q": "¿Puedo levar a mi cão num comboio finlandés?",
+          "a": "Sí — os comboios VR admiten cães com trela grátis, mas só em vagones « pet-allowed » dedicados seleccionables online. Os vagones não-pet excluyen estrictamente cães."
+        }
       ]
     },
     "beaches": {
@@ -428,7 +527,16 @@
           "tip": "Best dog-swim conditions June-August (water 19-22 °C); January-February ice-bathers test their courage at -10 °C — bring a thick towel.",
           "tipFr": "Meilleures conditions baignade canine juin-août (eau 19-22 °C) ; janvier-février les baigneurs en glace testent leur courage à -10 °C — apportez une serviette épaisse.",
           "tipEs": "Mejores condiciones de baño canino junio-agosto (agua 19-22 °C); enero-febrero los bañistas en hielo prueban su valor a -10 °C — lleva una toalla gruesa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+beach+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+beach+Tampere",
+          "leashRulePt": "Sem trela na zona canina dedicada o ano inteiro",
+          "descriptionPt": "A praia canina oficial da cidade de Tampere não lago Pyhäjärvi — entrada arenosa, zona canina dedicada a sul da zona de banho humana principal, acceso o ano inteiro. A distancia pedonal do centro pela cresta de Pyynikki.",
+          "amenitiesPt": [
+            "Entrada arenosa",
+            "Aseos públicos",
+            "Floresta adyacente",
+            "Parking grátis"
+          ],
+          "tipPt": "Melhores condições de banho canino junho-agosto (água 19-22 °C); janeiro-fevereiro os bañistas em hielo prueban o seu valor a -10 °C — lleva uma toalla gruesa."
         },
         {
           "name": "Niihama Dog Beach",
@@ -461,7 +569,16 @@
           "tip": "Combine with a 5 km Kauppi forest hike from the dog beach northward — perfect 90-min loop with a swim in the middle.",
           "tipFr": "Combinez avec une randonnée de 5 km dans la forêt de Kauppi depuis la plage canine vers le nord — boucle parfaite de 90 min avec une baignade au milieu.",
           "tipEs": "Combina con una caminata de 5 km por el bosque de Kauppi desde la playa canina hacia el norte — bucle perfecto de 90 min con un baño en medio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Niihama+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Niihama+Tampere",
+          "leashRulePt": "Sem trela na zona canina o ano inteiro",
+          "descriptionPt": "Segunda praia canina oficial de Tampere, não lago Näsijärvi dentro do floresta de Kauppi — entrada de guijarros, zona canina o ano inteiro na margem este, parking grátis e acceso directo a red de 30 km de trilhos do floresta de Kauppi.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Trilhos forestales",
+            "Entrada de guijarros",
+            "Sem instalaciones"
+          ],
+          "tipPt": "Combina com uma caminhada de 5 km pelo floresta de Kauppi a partir da praia canina para o norte — bucle perfeito de 90 min com um banho em medio."
         },
         {
           "name": "Viikinsaari Island",
@@ -494,7 +611,16 @@
           "tip": "Take the first morning shuttle for the quietest island and the best wildlife (white-tailed eagles regularly) — return shuttle every 2h until 18:00.",
           "tipFr": "Prenez la première navette du matin pour l'île la plus calme et la meilleure faune (pygargues à queue blanche fréquents) — navette retour toutes les 2h jusqu'à 18h.",
           "tipEs": "Toma la primera lanzadera de la mañana para la isla más tranquila y la mejor fauna (pigargos europeos frecuentes) — lanzadera de vuelta cada 2h hasta las 18:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Viikinsaari"
+          "googleMapsUrl": "https://maps.google.com/?q=Viikinsaari",
+          "leashRulePt": "Sem trela na maioria de trilhos (março-agosto com trela em trilhos de nidificación)",
+          "descriptionPt": "Ilha cubierta de pinos sem carros não lago Pyhäjärvi — acessível por lanzadera Hopealinjat de 25 min a partir do puerto de Mustalahti (junho-agosto). Pet-friendly o ano inteiro com trilhos forestales sem trela fora de zonas de nidificación.",
+          "amenitiesPt": [
+            "Trilhos forestales",
+            "Spots de picnic",
+            "Café estival",
+            "Acceso a praia"
+          ],
+          "tipPt": "Toma a primera lanzadera da manhã para a ilha mais tranquila e a melhor fauna (pigargos europeus frecuentes) — lanzadera de vuelta cada 2h até as 18:00."
         }
       ],
       "tipsEn": [
@@ -541,6 +667,23 @@
           "q": "¿Se admiten perros en las playas municipales finlandesas?",
           "a": "La mayoría de las playas municipales finlandesas excluye perros del 1 de junio al 31 de agosto. Las zonas caninas designadas de Pyynikki, Niihama y la isla Viikinsaari siguen dog-friendly todo el año."
         }
+      ],
+      "titlePt": "Lagos e praias pet-friendly em Tampere",
+      "introPt": "Tampere tem dos grandes lagos (Näsijärvi al norte e Pyhäjärvi al sur) justo nos límites da cidade — varias zonas oficiales de banho canino operan o ano inteiro, com água estival a 18-22 °C e excelente banho em hielo para cães preparados em inverno.",
+      "tipsPt": [
+        "Os lagos finlandeses são pet-friendly o ano inteiro em zonas designadas — as praias municipales principales costumam excluir cães do 1 de junho ao \\11 de agosto salvo em zonas caninas marcadas.",
+        "A calidad do água dos lagos está entre as melhores do mundo — segura para que os cães beban directamente. A designación « Clase A » aplica a maioria de lagos de Pirkanmaa.",
+        "O banho em hielo invernal com cão é uma tradição de Tampere — mas só em sitios « avanto » (agujero não hielo) designados, com autorización e chaleco salvavidas; nunca em hielo não marcado."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana do centro de Tampere?",
+          "a": "15 min andando até a praia canina de Pyynikki não lago Pyhäjärvi — acceso oficial o ano inteiro. A praia canina de Niihama não lago Näsijärvi está a 10 min não elétrico + 5 min andando."
+        },
+        {
+          "q": "¿Se admiten cães nas praias municipales finlandesas?",
+          "a": "A maioria das praias municipales finlandesas excluye cães do 1 de junho ao \\11 de agosto. As zonas caninas designadas de Pyynikki, Niihama e a ilha Viikinsaari siguen pet-friendly o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -570,7 +713,9 @@
           "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
           "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
           "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Tampere+Hervanta"
+          "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Tampere+Hervanta",
+          "descriptionPt": "Hospital veterinário de urgências 24h em Hervanta, a 8 km al sureste do centro — cirugía completa, UCI, ecografía, rayos X, RM. O veterinário 24/7 mais cercano para a região de Pirkanmaa.",
+          "tipPt": "Llama antes de ir — triaje por teléfono e posible redirección para casos não urgentes na noite."
         },
         {
           "name": "Univet Tampere",
@@ -590,7 +735,9 @@
           "openingHours": "Mon-Fri 08:00-19:00, Sat 09:00-13:00",
           "tip": "They speak fluent English and Swedish, accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais et le suédois sont parlés couramment, accueil sans rdv possible pour vaccins et puces avant 11h.",
-          "tipEs": "Hablan inglés y sueco con fluidez, aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+          "tipEs": "Hablan inglés y sueco con fluidez, aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
+          "descriptionPt": "Clínica moderna para pequeños animales no centro de Tampere em Pirkankatu — medicina general, vacinas, cirugía, odontología. Llamadas fora de horario derivadas a Evidensia 24h.",
+          "tipPt": "Hablan inglés e sueco com fluidez, aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Pieneläinklinikka Hatanpää",
@@ -610,7 +757,9 @@
           "tip": "Useful for issuing/updating an EU pet passport mid-trip — Hatanpää charges around 35 € for a passport, 40 € for a microchip.",
           "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Hatanpää facture environ 35 € pour un passeport, 40 € pour une puce.",
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Hatanpää cobra unos 35 € por pasaporte, 40 € por microchip.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pielainklinikka+Hatanpaa+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Pielainklinikka+Hatanpaa+Tampere",
+          "descriptionPt": "Consulta veterinária diurna em Hatanpäänkatu perto do arboreto — medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje — Hatanpää cobra uns 35 € por passaporte, 40 € por microchip."
         }
       ],
       "tipsEn": [
@@ -657,6 +806,23 @@
           "q": "¿Necesito papeleo extra para entrar a Finlandia con un perro?",
           "a": "Sí — además del pasaporte europeo estándar (vacuna antirrábica + microchip ISO), Finlandia exige un tratamiento contra la equinococosis (tenia) administrado por un veterinario 24-120h antes de la llegada. Excepción: los perros que vienen de Noruega, Irlanda o Malta están exentos."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Tampere — Hospitales e clínicas veterinárias",
+      "introPt": "Tampere tem buena cobertura veterinária diurna e uma clínica regional de urgências 24h no centro de Hervanta. A Facultad Veterinária de Helsínquia a 1h30 al sur é o gran centro de referencia.",
+      "tipsPt": [
+        "Finlândia está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Se exige tratamento contra a equinococose (tenia) para cães que entren em Finlândia a partir de cualquier país excepto Noruega, Irlanda e Malta — administrado 24-120h antes da llegada.",
+        "Os veterinários do centro de Tampere Não hacen urgências 24h — pelas noites e fines de semana ve directamente a Evidensia em Hervanta (12 min de carro o elétrico 1)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h perto de Tampere?",
+          "a": "Evidensia Eläinsairaala Tampere, Insinöörinkatu 41 em Hervanta, +358 200 60080 — 12 min de carro al sureste o elétrico 1 + caminhada corta. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito papeleo extra para entrar a Finlândia com um cão?",
+          "a": "Sí — além disso do passaporte europeu estándar (vacina antirrábica + microchip ISO), Finlândia exige um tratamento contra a equinococose (tenia) administrado por um veterinário 24-120h antes da llegada. Excepción: os cães que vienen de Noruega, Irlanda o Malta estão exentos."
+        }
       ]
     },
     "tips": {
@@ -672,21 +838,24 @@
           "photo": "/images/city-places/tampere-tips-best-season-for-visiting-tampere-with-a-dog.jpg",
           "description": "June-August are ideal for outdoor activity — warm 18-22 °C days, lake water 18-22 °C swimmable, but the bird-nesting leash law is in effect. September-October has crisp clear days, off-leash freedom returns, leaf colours peak. Winter (December-March) offers ice swimming and cross-country skiing with dogs at -5 to -15 °C.",
           "descriptionFr": "Juin-août sont idéaux pour l'activité extérieure — journées chaudes 18-22 °C, eau du lac baignable à 18-22 °C, mais la loi laisse-nidification est en vigueur. Septembre-octobre offre des jours vifs et clairs, le sans-laisse revient, les couleurs des feuilles culminent. L'hiver (décembre-mars) offre la baignade en glace et le ski de fond avec chien à -5 à -15 °C.",
-          "descriptionEs": "Junio-agosto son ideales para la actividad al aire libre — días cálidos 18-22 °C, agua del lago bañable a 18-22 °C, pero la ley de correa por nidificación está en vigor. Septiembre-octubre ofrece días nítidos y claros, vuelve la libertad sin correa, los colores de las hojas culminan. El invierno (diciembre-marzo) ofrece baño en hielo y esquí de fondo con perro a -5 a -15 °C."
+          "descriptionEs": "Junio-agosto son ideales para la actividad al aire libre — días cálidos 18-22 °C, agua del lago bañable a 18-22 °C, pero la ley de correa por nidificación está en vigor. Septiembre-octubre ofrece días nítidos y claros, vuelve la libertad sin correa, los colores de las hojas culminan. El invierno (diciembre-marzo) ofrece baño en hielo y esquí de fondo con perro a -5 a -15 °C.",
+          "descriptionPt": "Junho-agosto são ideales para a actividad al aire libre — dias acolhedores 18-22 °C, água do lago bañable a 18-22 °C, mas a lei de trela por nidificación está em vigor. Setembro-outubro ofrece dias nítidos e claros, vuelve a libertad sem trela, os colores das hojas culminan. O inverno (dezembro-março) ofrece banho em hielo e esquí de fondo com cão a -5 a -15 °C."
         },
         {
           "name": "Finnish entry & tapeworm rules",
           "photo": "/images/city-places/tampere-tips-paperwork.jpg",
           "description": "Beyond the EU pet passport, Finland requires a tapeworm (echinococcosis) treatment administered by a vet 24-120h before arrival — same as Ireland, Malta, Norway. Documented in the pet passport. Skip this and entry will be refused at Helsinki-Vantaa or Tampere-Pirkkala customs.",
           "descriptionFr": "Au-delà du passeport européen, la Finlande exige un traitement contre le ténia (echinococcose) administré par un vétérinaire 24-120h avant l'arrivée — comme Irlande, Malte, Norvège. Documenté dans le passeport. Si vous l'oubliez, l'entrée sera refusée à la douane d'Helsinki-Vantaa ou de Tampere-Pirkkala.",
-          "descriptionEs": "Además del pasaporte europeo, Finlandia exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada — igual que Irlanda, Malta, Noruega. Documentado en el pasaporte. Si lo omites, la entrada será rechazada en la aduana de Helsinki-Vantaa o Tampere-Pirkkala."
+          "descriptionEs": "Además del pasaporte europeo, Finlandia exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada — igual que Irlanda, Malta, Noruega. Documentado en el pasaporte. Si lo omites, la entrada será rechazada en la aduana de Helsinki-Vantaa o Tampere-Pirkkala.",
+          "descriptionPt": "Além disso do passaporte europeu, Finlândia exige tratamento contra a tenia (equinococose) administrado por um veterinário 24-120h antes da llegada — igual que Irlanda, Malta, Noruega. Documentado não passaporte. Se lo omites, a entrada será rechazada na aduana de Helsínquia-Vantaa o Tampere-Pirkkala."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/tampere-tips-currency-cost.jpg",
           "description": "Finland uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Tampere hotels average 10-15 €/night — among the lowest in the Nordics, well below Helsinki and Stockholm.",
           "descriptionFr": "La Finlande utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Tampere tournent autour de 10-15 €/nuit — parmi les plus bas du Nord, bien en-dessous d'Helsinki et de Stockholm.",
-          "descriptionEs": "Finlandia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Tampere rondan 10-15 €/noche — de los más bajos del Norte, muy por debajo de Helsinki y Estocolmo."
+          "descriptionEs": "Finlandia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Tampere rondan 10-15 €/noche — de los más bajos del Norte, muy por debajo de Helsinki y Estocolmo.",
+          "descriptionPt": "Finlândia usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais em hotéis de Tampere rondan 10-15 €/noite — dos mais bajos do norte, muito por debajo de Helsínquia e Estocolmo."
         }
       ],
       "tipsEn": [
@@ -733,6 +902,23 @@
           "q": "¿Cómo se compara Tampere con Helsinki para viajes caninos?",
           "a": "Tampere es más pequeña, más tranquila, con naturaleza mucho más accesible (cresta de Pyynikki en 15 min vs Keskuspuisto en 30 min de metro desde el centro de Helsinki) y tarifas hoteleras más bajas. Helsinki tiene más hoteles pet-friendly y el aeropuerto internacional. Tampere gana para un fin de semana lacustre tranquilo; Helsinki para variedad."
         }
+      ],
+      "titlePt": "Viajar a Tampere com cão: consejos prácticos",
+      "introPt": "Tampere — a tercera cidade de Finlândia e capital oficiosa do sauna — combina um centro compacto bordeado de lagos, transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus vallados, e acceso ferroviario directo a partir de Helsínquia em 1h30.",
+      "tipsPt": [
+        "Tampere é uma das as cidades mais auténticamente pet-friendly de Europa — elétricos e comboios grátis, 22 zonas sem trela valladas, praias caninas a distancia pedonal.",
+        "Combina Tampere com excursiones a Helsínquia (1h30 de comboio directo), al lago Saimaa (2h de carro) o al archipiélago de Nokia (45 min de carro).",
+        "A lei finlandesa de trela por nidificación (1 março - 19 agosto) se aplica estrictamente — multa de 70 € por cães sem trela em florestas fora de zonas valladas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Tampere é buena para um fin de semana pet-friendly?",
+          "a": "Sí — Tampere é uma das as cidades mais auténticamente pet-friendly de Europa. Elétricos e comboios grátis, dos praias caninas junto ao lago a distancia pedonal, 22 koira-aitaus vallados, a cresta de Pyynikki com passeio o ano inteiro, e comboios directos a partir de Helsínquia em 1h30."
+        },
+        {
+          "q": "¿Como se compara Tampere com Helsínquia para viajes caninos?",
+          "a": "Tampere é mais pequeña, mais tranquila, com natureza muito mais acessível (cresta de Pyynikki em 15 min vs Keskuspuisto em 30 min de metro a partir do centro de Helsínquia) e tarifas hoteleras mais bajas. Helsínquia tem mais hotéis pet-friendly e o aeroporto internacional. Tampere gana para um fin de semana lacustre tranquilo; Helsínquia para variedade."
+        }
       ]
     },
     "attractions": {
@@ -758,7 +944,10 @@
           "tip": "Best photographed at sunset from the Hämeenkatu bridge — the rapids glow against the red-brick mill buildings.",
           "tipFr": "Au mieux photographiés au coucher du soleil depuis le pont Hämeenkatu — les rapides s'illuminent contre les bâtiments en brique rouge des filatures.",
           "tipEs": "Mejor fotografiados al atardecer desde el puente Hämeenkatu — los rápidos brillan contra los edificios de ladrillo rojo de la fábrica.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tammerkoski+rapids+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Tammerkoski+rapids+Tampere",
+          "descriptionPt": "Os espectaculares rápidos que cruzan o centro de Tampere a partir do lago Näsijärvi até o lago Pyhäjärvi — o corazón industrial da cidade, ahora um passeio ribereño protegido pela UNESCO. Abertos 24/7, pet-friendly com cães com trela em todo o lado.",
+          "petPolicyPt": "Passeio público, cães com trela grátis",
+          "tipPt": "Melhor fotografiados al atardecer a partir do ponte Hämeenkatu — os rápidos brillan contra os edifícios de ladrillo rojo da fábrica."
         },
         {
           "name": "Finlayson Quarter",
@@ -775,7 +964,10 @@
           "tip": "Combine with Plevna brewery on Itäinenkatu for the dog-friendly Finlayson dinner; the Vapriikki museum complex admits assistance dogs only.",
           "tipFr": "Combinez avec la brasserie Plevna sur Itäinenkatu pour le dîner Finlayson dog-friendly ; le complexe muséal Vapriikki n'admet que les chiens d'assistance.",
           "tipEs": "Combina con la cervecería Plevna en Itäinenkatu para la cena Finlayson dog-friendly; el complejo museístico Vapriikki solo admite perros de asistencia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Finlayson+Tampere"
+          "googleMapsUrl": "https://maps.google.com/?q=Finlayson+Tampere",
+          "descriptionPt": "A fábrica de algodón Finlayson de 1820 — complejo industrial do século XIX ahora restaurado como bairro creativo com restaurantes, lojas de design, museus e cines. Patios exteriores, passeios e esplanadas pet-friendly com cães com trela grátis o ano inteiro.",
+          "petPolicyPt": "Zonas exteriores grátis; interiores de museus só cães de assistência",
+          "tipPt": "Combina com a cervecería Plevna em Itäinenkatu para a jantar Finlayson pet-friendly; o complejo museístico Vapriikki só admite cães de assistência."
         },
         {
           "name": "Pyynikki Observation Tower (Terrace)",
@@ -792,7 +984,10 @@
           "tip": "The observation tower café is famous for the world's most-loved Finnish doughnuts (munkki) — buy them on the terrace and walk the ridge with the dog.",
           "tipFr": "Le café de la tour d'observation est célèbre pour les beignets finlandais (munkki) les plus aimés au monde — achetez-les sur la terrasse et marchez sur la crête avec le chien.",
           "tipEs": "El café de la torre de observación es famoso por los donuts finlandeses (munkki) más queridos del mundo — cómpralos en la terraza y camina por la cresta con el perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+observation+tower"
+          "googleMapsUrl": "https://maps.google.com/?q=Pyynikki+observation+tower",
+          "descriptionPt": "A torre de observación de pedra de 1929 na cima da cresta de Pyynikki — panorama de 360° sobre os dos lagos de Tampere (único lugar a partir do que se ven os lagos Näsijärvi e Pyhäjärvi simultáneamente). Esplanada exterior pet-friendly com cães com trela grátis; cima da torre só cães de assistência.",
+          "petPolicyPt": "Esplanada grátis; cima só cães de assistência",
+          "tipPt": "O café da torre de observación é famoso pelos donuts finlandeses (munkki) mais queridos do mundo — cómpralos na esplanada e camina pela cresta com o cão."
         }
       ],
       "tipsEn": [
@@ -839,6 +1034,23 @@
           "q": "¿Se admiten perros en Finlayson?",
           "a": "Sí — todo el barrio exterior de Finlayson (patios, paseos, terrazas) es dog-friendly con perros con correa. Los museos interiores (Vapriikki, Werstas) solo admiten perros de asistencia."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Tampere",
+      "introPt": "A maioria dos lugares exteriores emblemáticos de Tampere são pet-friendly — o passeio dos rápidos do Tammerkoski, os patios da fábrica Finlayson, a avenida Hämeenpuisto, a torre de Pyynikki (esplanada) e os puertos do lago admiten todos cães com trela grátis.",
+      "tipsPt": [
+        "As atracciones al aire libre de Tampere admiten cães com trela grátis; os museus interiores (Vapriikki, Museu Lenin, Museu Moominvalley) só admiten cães de assistência.",
+        "O parque de atracciones Särkänniemi tem um passeio exterior libre junto ao lago pet-friendly o ano inteiro; as atracciones exigen que os cães se queden fuera (perreras disponibles na entrada).",
+        "Excursiones de comboio VR directo: Helsínquia (1h30), Turku (2h), Jyväskylä (1h30) — cães com trela grátis em vagones pet-allowed."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a torre de Pyynikki?",
+          "a": "A esplanada exterior e al floresta da cresta sí, com trela, grátis. A plataforma de observación em lo alto da torre só admite cães de assistência — mas os panoramas da cresta são igual de espectaculares a partir do solo."
+        },
+        {
+          "q": "¿Se admiten cães em Finlayson?",
+          "a": "Sí — todo o bairro exterior de Finlayson (patios, passeios, esplanadas) é pet-friendly com cães com trela. Os museus interiores (Vapriikki, Werstas) só admiten cães de assistência."
+        }
       ]
     },
     "petsitting": {
@@ -862,7 +1074,9 @@
           "website": "https://www.pawshake.fi/dog-sitting/tampere",
           "tip": "Almost all Finnish sitters speak fluent English — Finland is the EU country with the highest English proficiency. Filter by experience type rather than language.",
           "tipFr": "Presque tous les sitters finlandais parlent anglais couramment — la Finlande a le niveau d'anglais le plus élevé d'Europe. Filtrez par type d'expérience plutôt que par langue.",
-          "tipEs": "Casi todos los cuidadores finlandeses hablan inglés con fluidez — Finlandia es el país de la UE con el mejor nivel de inglés. Filtra por tipo de experiencia más que por idioma."
+          "tipEs": "Casi todos los cuidadores finlandeses hablan inglés con fluidez — Finlandia es el país de la UE con el mejor nivel de inglés. Filtra por tipo de experiencia más que por idioma.",
+          "descriptionPt": "Plataforma internacional com uns 25 cuidadores verificados com base em Tampere num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Casi todos os cuidadores finlandeses hablan inglés com fluidez — Finlândia é o país da UE com o melhor nivel de inglés. Filtra por tipo de experiencia mais que por idioma."
         },
         {
           "name": "Lemmikkihotelli Tampere",
@@ -876,7 +1090,9 @@
           "website": "https://www.lemmikkihotelli-tampere.fi/",
           "tip": "Book at least 1 week ahead in summer — popular with Finnish families on holiday from June to mid-August.",
           "tipFr": "Réservez au moins 1 semaine à l'avance en été — populaire chez les familles finlandaises en vacances de juin à mi-août.",
-          "tipEs": "Reserva al menos 1 semana antes en verano — popular entre las familias finlandesas de vacaciones de junio a mediados de agosto."
+          "tipEs": "Reserva al menos 1 semana antes en verano — popular entre las familias finlandesas de vacaciones de junio a mediados de agosto.",
+          "descriptionPt": "Cadena local de hotéis para animais em Tampere com dos ubicaciones (centro e Hervanta) — guardería supervisada, alojamento nocturno, passeios. Seguro e línea veterinária 24/7 incluidos; tarifa 30-45 €/dia.",
+          "tipPt": "Reserva al menos 1 semana antes em verão — popular entre as familias finlandesas de vacaciones de junho a mediados de agosto."
         }
       ],
       "tipsEn": [
@@ -922,6 +1138,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Tampere?",
           "a": "Sí — casi todos los cuidadores finlandeses hablan inglés con fluidez. Finlandia tiene el mejor nivel de inglés de la UE después de Irlanda y Malta, el idioma rara vez es barrera."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Tampere",
+      "introPt": "Para as excursiones onde o cão não pode ir (museu Vapriikki, Moominvalley, atracciones do Särkänniemi), Tampere tem pet-sitting fiable e verificado a través de plataformas finlandesas e internacionais.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Tampere rondan 25-35 €/dia em Pawshake, 30-45 €/dia na cadena local de hotéis para animais — das tarifas mais bajas do norte.",
+        "Casi todos os cuidadores finlandeses hablan inglés com fluidez (Finlândia tem o melhor nivel de inglés da UE después de Irlanda e Malta) — o idioma rara vez é barrera.",
+        "Varios hotéis boutique do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Tampere?",
+          "a": "25-45 € por dia segundo plataforma e tamanho do cão, vía Pawshake o Lemmikkihotelli Tampere. Visitas a domicilio 12-15 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Tampere?",
+          "a": "Sí — casi todos os cuidadores finlandeses hablan inglés com fluidez. Finlândia tem o melhor nivel de inglés da UE después de Irlanda e Malta, o idioma rara vez é barrera."
         }
       ]
     }

@@ -33,7 +33,11 @@
           "tip": "Book for lunch on a weekday — evenings fill up fast and terrace spots are first-come, first-served",
           "tipFr": "Réservez pour le déjeuner en semaine — le soir ça se remplit vite et les places en terrasse sont sans réservation",
           "tipEs": "Reserva para el almuerzo entre semana — las noches se llenan rápido y los sitios en terraza son por orden de llegada",
-          "googleMapsUrl": "https://maps.google.com/?q=Les+F%C3%A9d%C3%A9rations+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Les+F%C3%A9d%C3%A9rations+Lyon",
+          "descriptionPt": "Uno dos bouchons lyonnais mais célebres da cidade, Les Fédérations lleva sirviendo cozinha lionesa clásica a partir de 1929. A esplanada da Rue Major Martin é sombreada e acolhedora, e os cães se aceitam sem preguntas. No interior, o ambiente é animado e convivial al mais puro estilo bouchon — manteles de cuadros rojos, camareros com delantal longo e o olor das quenelles de brochet saliendo da cozinha. Esto é lo auténtico, não uma aproximación turística, e tu cão é bem-vindo a formar parte de ello.",
+          "petPolicyPt": "Cães admitidos na esplanada",
+          "mustTryPt": "Quenelles de brochet, salade lyonnaise, pot de Beaujolais",
+          "tipPt": "Reserva para o almoço entre semana — as noites se llenan rápido e os sitios em esplanada são por orden de llegada"
         },
         {
           "name": "Le Bouchon des Filles",
@@ -55,7 +59,11 @@
           "tip": "The terrace fills up by 12:15 on sunny days — arrive right at opening or book ahead",
           "tipFr": "La terrasse est pleine dès 12h15 par beau temps — arrivez à l'ouverture ou réservez",
           "tipEs": "La terraza se llena a las 12:15 en días soleados — llega justo al abrir o reserva con antelación",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Bouchon+des+Filles+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Bouchon+des+Filles+Lyon",
+          "descriptionPt": "Um bouchon moderno dirigido por mujeres que têm actualizado os clásicos lioneses com um toque contemporáneo manteniendo o alma da tradição intacta. A esplanada adoquinada no centro histórico é ideal para cães — sem prisas, com suficiente espacio entre mesas. O pessoal é acolhedor e a menudo traz uma tigela de água. A cervelle de canuts (queso fresco com hierbas) e a tarte à a praline rose estão entre as melhores da cidade.",
+          "petPolicyPt": "Cães admitidos em esplanada, cães bem educados tolerados em interior",
+          "mustTryPt": "Cervelle de canuts, tarte à a praline rose, tablier de sapeur",
+          "tipPt": "A esplanada se cheia a as 12:15 em dias soleados — llega justo al abrir o reserva com antelación"
         },
         {
           "name": "Café du Gros Caillou",
@@ -77,7 +85,11 @@
           "tip": "Come Sunday morning after the Croix-Rousse market for the liveliest local atmosphere",
           "tipFr": "Venez le dimanche matin après le marché de la Croix-Rousse pour l'ambiance locale la plus vivante",
           "tipEs": "Ven el domingo por la mañana después del mercado de Croix-Rousse para el ambiente local más animado",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+du+Gros+Caillou+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+du+Gros+Caillou+Lyon",
+          "descriptionPt": "Encaramado não plateau de Croix-Rousse, este café de bairro se derrama para a pequeña praça alrededor do famoso peñasco Gros Caillou. O ambiente é auténticamente local — aqui é onde os habitantes de Croix-Rousse vienen después do mercado dominical. Os cães forman parte do lugar; a praça tem espacio suficiente para atar a trela a uma silla e o pessoal traz água por defecto. Café, croque-monsieurs e uma copa de Côtes du Rhône são lo que se pide.",
+          "petPolicyPt": "Cães sempre bem-vindos na esplanada da praça",
+          "mustTryPt": "Croque-monsieur, café noisette, copa de Côtes du Rhône",
+          "tipPt": "Ven o domingo pela manhã después do mercado de Croix-Rousse para o ambiente local mais animado"
         },
         {
           "name": "Le Zinc des Grands",
@@ -99,7 +111,11 @@
           "tip": "Ask for a table facing the river — the Fourvière view at sunset is worth it",
           "tipFr": "Demandez une table face à la rivière — la vue sur Fourvière au coucher de soleil vaut le détour",
           "tipEs": "Pide una mesa frente al río — la vista de Fourvière al atardecer merece la pena",
-          "googleMapsUrl": "https://maps.google.com/?q=Quai+Romain+Rolland+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Quai+Romain+Rolland+Lyon",
+          "descriptionPt": "Um bistró junto ao Saona com uma das esplanadas mais agradables para cães da cidade. O ancho passeio fluvial da espacio aos cães, a vista da colina de Fourvière é espectacular, e a comida é honesta cozinha lionesa de bistró — tablas de charcutería, entrecot com pommes sarladaises e uma seleção rotativa de vinhos naturais. A esplanada tem calefactores a partir de setembro e funciona durante os meses mais frios. Os cães não só são tolerados mas sim genuinamente bem-vindos.",
+          "petPolicyPt": "Cães admitidos na esplanada junto ao rio o ano inteiro",
+          "mustTryPt": "Tabla de charcutería, entrecot com pommes sarladaises, vinhos naturais",
+          "tipPt": "Pide uma mesa frente al rio — a vista de Fourvière al atardecer merece a pena"
         },
         {
           "name": "Café Mokxa",
@@ -121,9 +137,15 @@
           "tip": "Go early on weekends — the kouign-amann sells out by 11am",
           "tipFr": "Venez tôt le week-end — le kouign-amann est épuisé avant 11h",
           "tipEs": "Ve temprano los fines de semana — el kouign-amann se agota antes de las 11h",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Mokxa+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+Mokxa+Lyon",
+          "descriptionPt": "O melhor tostador de café de especialidad de Lyon, Mokxa tem seguidores devotos entre os amantes do café da cidade e é enfáticamente pet-friendly. A pequeña esplanada da Rue de l'Abbé Rozier da a bienvenida aos cães por defecto, e o pessoal tem llegado a saludar aos clientes caninos habituales por o seu nombre. O sourcing do café é serio — comercio directo, orígenes únicos rotativos — e a repostería é excepcional. Uma paragem perfeita antes o después de um passeio pelo Ródano.",
+          "petPolicyPt": "Cães admitidos em esplanada, cães pequeños admitidos em interior",
+          "mustTryPt": "Café de filtro mono-origen, kouign-amann, bollería de temporada",
+          "tipPt": "Ve temprano os fines de semana — o kouign-amann se agota antes das 11h"
         }
-      ]
+      ],
+      "titlePt": "Restaurantes com animais em Lyon",
+      "introPt": "Lyon tem uma cultura gastronómica profundamente arraigada — é, al fin e al cabo, a cidade que dio a Francia os seus bouchons, esos restaurantes íntimos e conviviables que llevan séculos alimentando a obreros e intelectuales lioneses. E em Lyon, os cães sempre têm formado parte de ese espíritu convivial. Cenar em esplanada não Vieux-Lyon, a lo longo dos muelles do Ródano e o Saona, o nas callejuelas com aire de pueblo de Croix-Rousse é genuinamente descontraído com cães bem educados. A tradição francesa de levar al cão a um café o esplanada de restaurante não é em ningún lugar mais natural que aqui. De primavera a outono, as esplanadas junto ao rio se llenan e os cães se estiran sob as mesas do bistró mientras os seus dueños disfrutan de um pot de Beaujolais e uma salade lyonnaise. Mesmo nos meses mais frios, muitos bouchons aceitam cães no interior — o ambiente é acolhedor, as mesas estão juntas e nadie se inmuta. Os cinco lugares a continuación representan lo melhor da cultura pet-friendly gastronómica de Lyon."
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Lyon",
@@ -167,7 +189,16 @@
           "tip": "Enter from the Avenue Verguin gate and head straight to the lake — it's the most open, dog-friendly section",
           "tipFr": "Entrez par la grille de l'avenue Verguin et allez directement vers le lac — c'est la zone la plus ouverte et dog-friendly",
           "tipEs": "Entra por la puerta de la Avenue Verguin y ve directo al lago — es la sección más abierta y apta para perros",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+de+la+T%C3%AAte+d%27Or+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+de+la+T%C3%AAte+d%27Or+Lyon",
+          "descriptionPt": "O mayor parque urbano de Francia com 117 hectáreas, Tête d'Or é a joya verde de Lyon. O vasto lago central está rodeado por um amplio camino de grava perfeito para que os cães caminen a buen ritmo, e o jardim de rosas (uno dos melhores de Europa, com mais de 16.000 rosales) é acessível para cães com trela. O parque também tem um zoo gratuito — os cães não estão permitidos não recinto do zoo, mas os caminos de alrededor são acessíveis. Os dias de semana pela manhã, o parque está tranquilo e é realmente extenso; os fines de semana de verão se cheia mas sigue siendo manejable. Os cães devem ir com trela em todo momento.",
+          "leashRulePt": "Com trela obrigatória em todo momento",
+          "facilitiesPt": [
+            "Fuentes de água",
+            "Papeleras",
+            "Caminos de grava",
+            "Zonas de relva"
+          ],
+          "tipPt": "Entra pela puerta da Avenue Verguin e ve directo al lago — é a secção mais aberta e apta para cães"
         },
         {
           "name": "Berges du Rhône",
@@ -203,7 +234,16 @@
           "tip": "Start at Pont de la Guillotière and walk south — the path gets quieter and greener as you go",
           "tipFr": "Commencez au pont de la Guillotière et marchez vers le sud — le chemin devient plus calme et plus verdoyant",
           "tipEs": "Empieza en el Pont de la Guillotière y camina hacia el sur — el camino se vuelve más tranquilo y verde conforme avanzas",
-          "googleMapsUrl": "https://maps.google.com/?q=Berges+du+Rh%C3%B4ne+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Berges+du+Rh%C3%B4ne+Lyon",
+          "descriptionPt": "As Berges du Rhône são um parque lineal de 5 kilómetros a lo longo da margem este do Ródano, transformado em 2007 a partir de uma autopista em uno dos melhores parques ribereños urbanos de Europa. Amplios passeios, carriles bici, esplanadas pet-friendly de cafés e restaurantes, e franjas de relva aberto lo tornam não destino diário dos dueños de cães de Lyon. O camino é lo suficientemente ancho para que ciclistas e peatones convivan sem fricciones. As tardes acolhedoras toda a cidade parece estar aqui — mas sempre hay sitio para um cão com trela longa.",
+          "leashRulePt": "Com trela, aplicación flexible em zonas de relva aberto",
+          "facilitiesPt": [
+            "Fuentes de água potable",
+            "Estações de recogida de excrementos",
+            "Amplios passeios",
+            "Esplanadas de cafés junto ao rio"
+          ],
+          "tipPt": "Empieza não Pont da Guillotière e camina para o sur — o camino se vuelve mais tranquilo e verde conforme avanzas"
         },
         {
           "name": "Parc des Hauteurs",
@@ -239,7 +279,16 @@
           "tip": "Take the Montée de la Boucle path up from Croix-Rousse metro — the views open up after 5 minutes of climbing",
           "tipFr": "Prenez la montée de la Boucle depuis le métro Croix-Rousse — les vues s'ouvrent après 5 minutes de montée",
           "tipEs": "Toma el camino Montée de la Boucle subiendo desde el metro Croix-Rousse — las vistas se abren tras 5 minutos de subida",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+des+Hauteurs+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+des+Hauteurs+Lyon",
+          "descriptionPt": "Extendiéndose a lo longo da cresta da colina de Croix-Rousse, o Parc des Hauteurs ofrece as vistas mais dramáticas de Lyon — os dos rios, a basílica de Fourvière e, em dias despejados, os Alpes. É um parque mais tranquilo e salvaje que Tête d'Or, com trilhos arbolados, pradarias de flores silvestres e uma genuina sensación de escape da cidade apesar de estar a minutos do plateau de Croix-Rousse. Os cães adoran o terreno variado. O parque conecta varios espacios verdes e miradores a lo longo da colina, lo que lo hace ideal para um passeio mais longo de uma hora o mais.",
+          "leashRulePt": "Com trela nos trilhos, sem trela permitido nas pradarias",
+          "facilitiesPt": [
+            "Trilhos arbolados",
+            "Miradores",
+            "Pradarias",
+            "Bancos"
+          ],
+          "tipPt": "Toma o camino Montée da Boucle subiendo a partir do metro Croix-Rousse — as vistas se abren tras 5 minutos de subida"
         },
         {
           "name": "Berges de Saône",
@@ -272,9 +321,19 @@
           "tip": "Walk from Saint-Paul station toward Île Barbe on a weekday morning for near-total solitude",
           "tipFr": "Marchez depuis la gare Saint-Paul vers l'île Barbe un matin en semaine pour une quasi-solitude totale",
           "tipEs": "Camina desde la estación de Saint-Paul hacia la Île Barbe un día de semana por la mañana para una soledad casi total",
-          "googleMapsUrl": "https://maps.google.com/?q=Quai+Pierre+Scize+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Quai+Pierre+Scize+Lyon",
+          "descriptionPt": "O contrapunto mais tranquilo e íntimo das Berges du Rhône, as margens do Saona serpentean a lo longo da base da colina de Fourvière a través dos antigos bairros de Vieux-Lyon e Saint-Paul. O ambiente é completamente diferente al do Ródano — caminos mais estrechos, árvores mais densos, menos ciclistas e um ritmo mais contemplativo. Os cães estão completamente em casa aqui. A combinación dos antigos muelles de pedra, a corriente tranquila do Saona e a basílica de Fourvière dominando a partir de arriba hace de este uno dos passeios mais atmosféricos de cualquier cidade francesa.",
+          "leashRulePt": "Com trela",
+          "facilitiesPt": [
+            "Caminos de muelle de pedra",
+            "Árvores que dan sombra",
+            "Cafés ocasionales"
+          ],
+          "tipPt": "Camina a partir da estação de Saint-Paul para a Île Barbe um dia de semana pela manhã para uma soledad casi total"
         }
-      ]
+      ],
+      "titlePt": "Parques para cães em Lyon",
+      "introPt": "Lyon está excepcionalmente bem equipada com espacios verdes para uma cidade francesa do seu tamanho, e a mayoría são acessíveis com cães com trela. O Parc da Tête d'Or é um dos os parques urbanos mais grandes de Francia — um recurso extraordinario no centro da cidade — e os parques ribereños a lo longo do Ródano e o Saona dan a Lyon uma calidad de vida al aire libre que poucas cidades europeias podem igualar. Os cães devem ir com trela em todos os parques públicos, mas os espacios são lo suficientemente grandes como para que esto rara vez resulte restrictivo. Os quatro parques a continuación cubren toda a cidade e são adecuados para cães de todos os tamanhos e temperamentos."
     },
     "transport": {
       "titleEn": "Getting Around Lyon with Your Pet",
@@ -291,7 +350,9 @@
           "rule": "Small pets in closed carrier ≤6kg: free. Large dogs: NOT permitted.",
           "ruleFr": "Petits animaux en sac fermé ≤6kg : gratuit. Grands chiens : NON admis.",
           "ruleEs": "Mascotas pequeñas en transportín cerrado ≤6kg: gratis. Perros grandes: NO permitidos.",
-          "icon": "🚇"
+          "icon": "🚇",
+          "modePt": "Metro",
+          "rulePt": "Animais pequeñas em transportadora fechado ≤6kg: grátis. Cães grandes: Não permitidos."
         },
         {
           "mode": "Tram",
@@ -300,7 +361,9 @@
           "rule": "Small pets in carrier ≤6kg: free. Large dogs: permitted with lead and muzzle, ticket required.",
           "ruleFr": "Petits animaux en sac ≤6kg : gratuit. Grands chiens : admis avec laisse et muselière, ticket requis.",
           "ruleEs": "Mascotas pequeñas en transportín ≤6kg: gratis. Perros grandes: permitidos con correa y bozal, se requiere billete.",
-          "icon": "🚃"
+          "icon": "🚃",
+          "modePt": "Elétrico",
+          "rulePt": "Animais pequeñas em transportadora ≤6kg: grátis. Cães grandes: permitidos com trela e bozal, se requiere bilhete."
         },
         {
           "mode": "Bus",
@@ -309,7 +372,9 @@
           "rule": "Small pets in carrier: free. Large dogs: permitted with lead and muzzle, ticket required.",
           "ruleFr": "Petits animaux en sac : gratuit. Grands chiens : admis avec laisse et muselière, ticket requis.",
           "ruleEs": "Mascotas pequeñas en transportín: gratis. Perros grandes: permitidos con correa y bozal, se requiere billete.",
-          "icon": "🚌"
+          "icon": "🚌",
+          "modePt": "Autocarro",
+          "rulePt": "Animais pequeñas em transportadora: grátis. Cães grandes: permitidos com trela e bozal, se requiere bilhete."
         },
         {
           "mode": "Vélo'v (Bike Share)",
@@ -318,21 +383,27 @@
           "rule": "Not suitable for dogs. Use private bicycle with purpose-built carrier or basket.",
           "ruleFr": "Non adapté aux chiens. Utilisez un vélo personnel avec panier ou remorque dédiée.",
           "ruleEs": "No apto para perros. Usa bicicleta privada con cesta o remolque específico.",
-          "icon": "🚲"
+          "icon": "🚲",
+          "modePt": "Vélo'v (bicicletas compartidas)",
+          "rulePt": "Não apto para cães. Usa bicicleta privada com cesta o remolque específico."
         }
       ],
       "tips": [
         {
           "tipEn": "The Funicular (Ficelle) from Vieux-Lyon to Fourvière and Saint-Just accepts pets in carriers — a useful shortcut to the hill.",
           "tipFr": "Le funiculaire (ficelle) depuis le Vieux-Lyon vers Fourvière et Saint-Just accepte les animaux en sac — un raccourci utile pour la colline.",
-          "tipEs": "El funicular (ficelle) desde Vieux-Lyon hasta Fourvière y Saint-Just acepta mascotas en transportín — un atajo útil hacia la colina."
+          "tipEs": "El funicular (ficelle) desde Vieux-Lyon hasta Fourvière y Saint-Just acepta mascotas en transportín — un atajo útil hacia la colina.",
+          "tipPt": "O funicular (ficelle) a partir de Vieux-Lyon até Fourvière e Saint-Just aceita animais em transportadora — um atajo útil para a colina."
         },
         {
           "tipEn": "For large dogs, Line 36 bus runs parallel to the Rhône and serves most of the quayside from Bellecour to Part-Dieu.",
           "tipFr": "Pour les grands chiens, le bus ligne 36 longe le Rhône et dessert la plupart des quais entre Bellecour et la Part-Dieu.",
-          "tipEs": "Para perros grandes, el autobús línea 36 corre paralelo al Ródano y sirve la mayoría del muelle desde Bellecour hasta Part-Dieu."
+          "tipEs": "Para perros grandes, el autobús línea 36 corre paralelo al Ródano y sirve la mayoría del muelle desde Bellecour hasta Part-Dieu.",
+          "tipPt": "Para cães grandes, o autocarro línea 36 corre paralelo al Ródano e sirve a mayoría do muelle a partir de Bellecour até Part-Dieu."
         }
-      ]
+      ],
+      "titlePt": "Moverse por Lyon com tu animal",
+      "introPt": "A red de transporte público de Lyon, TCL (Transports em Commun Lyonnais), cubre a cidade de forma completa com líneas de metro, elétrico e autocarro. As normas para animais se aplican estrictamente não metro mas são mais flexibles não transporte de superficie. A distinción clave é o tamanho: os cães pequeños e gatos em transportines fechados que não pesen mais de 6 kg viajan grátis em todas as líneas TCL. Os cães mais grandes se enfrentan a mais restricciones — não estão permitidos não metro em absoluto, mas são bem-vindos em autocarros e elétricos com trela e bozal. Esto significa que com um cão grande, pode que necesites planificar tus trayectos em torno a líneas de autocarro e elétrico em lugar do metro. Lyon é também uma cidade muito pedonal, e para a maioria das zonas turísticas centrales — Vieux-Lyon, Presqu'île, Croix-Rousse, as margens do Ródano e o Saona — caminhar o ir em bicicleta é genuinamente preferible."
     },
     "beaches": {
       "titleEn": "Beaches and Waterfront Areas Near Lyon",
@@ -359,7 +430,11 @@
           "tip": "The section between Pont de la Guillotière and Pont de l'Université has the most dog-friendly access to the river edge",
           "tipFr": "La section entre le pont de la Guillotière et le pont de l'Université offre l'accès le plus dog-friendly au bord du fleuve",
           "tipEs": "La sección entre el Pont de la Guillotière y el Pont de l'Université tiene el acceso más apto para perros al borde del río",
-          "googleMapsUrl": "https://maps.google.com/?q=Berges+du+Rh%C3%B4ne+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Berges+du+Rh%C3%B4ne+Lyon",
+          "descriptionPt": "As margens do Ródano são o principal destino fluvial da cidade. Os cães são bem-vindos com trela a lo longo de toda o seu extensión. Nos calurosos dias de verão, algunas secciones têm puntos de entrada pouco profundos al rio onde os cães podem vadear e refrescarse — os escalones de pedra perto do Pont da Guillotière são especialmente utilizados pelos locales para esto. Nadar não Ródano propiamente dicho não está oficialmente recomendado debido a as corrientes, mas vadear é común e as margens são anchas e com hierba.",
+          "dogPolicyPt": "Cães com trela, vadear permitido",
+          "distanceFromCenterPt": "Centro da cidade",
+          "tipPt": "A secção entre o Pont da Guillotière e o Pont de l'Université tem o acceso mais apto para cães al borde do rio"
         },
         {
           "name": "Berges de Saône",
@@ -378,7 +453,11 @@
           "tip": "Walk to Île Barbe (about 6km north) for a semi-wild riverine environment completely off the tourist map",
           "tipFr": "Marchez jusqu'à l'île Barbe (environ 6 km au nord) pour un environnement fluvial semi-sauvage totalement hors des sentiers touristiques",
           "tipEs": "Camina hasta la Île Barbe (unos 6km al norte) para un entorno fluvial semisalvaje completamente fuera del mapa turístico",
-          "googleMapsUrl": "https://maps.google.com/?q=Quai+Pierre+Scize+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Quai+Pierre+Scize+Lyon",
+          "descriptionPt": "As margens do Saona são mais tranquilas e resguardadas que as do Ródano, com uma corriente mais calmada e caminos mais sombreados e íntimos. Os cães pasean aqui sem restricciones com trela, e o rio é mais lento e pouco profundo em algunos puntos, lo que lo hace mais adecuado para cães nerviosos ante o água. As margens a norte da igreja Saint-Paul se vuelven cada vez mais rurales a medida que caminas para a Île Barbe — uma experiencia genuinamente bucólica dentro da cidade.",
+          "dogPolicyPt": "Cães com trela, tranquilo e apto para cães",
+          "distanceFromCenterPt": "Centro da cidade",
+          "tipPt": "Camina até a Île Barbe (uns 6km al norte) para um entorno fluvial semisalvaje completamente fuera do mapa turístico"
         },
         {
           "name": "Lac des Sapins",
@@ -397,9 +476,15 @@
           "tip": "Go on a weekday in July or August — weekends in summer can be busy with families from Lyon",
           "tipFr": "Allez en semaine en juillet ou août — les week-ends d'été peuvent être chargés avec les familles lyonnaises",
           "tipEs": "Ve entre semana en julio o agosto — los fines de semana en verano pueden estar concurridos con familias de Lyon",
-          "googleMapsUrl": "https://maps.google.com/?q=Lac+des+Sapins+Cublize"
+          "googleMapsUrl": "https://maps.google.com/?q=Lac+des+Sapins+Cublize",
+          "descriptionPt": "A 45 minutos de carro a norte de Lyon nas colinas do Beaujolais, o Lac des Sapins é um hermoso embalse bordeado de pinos onde os cães estão explicitamente permitidos em zonas de praia designadas. O água é clara, o lago é lo suficientemente grande como para que nunca parezca concurrido, e o floresta circundante tem trilhos que se estendem varios kilómetros. Ao contrário das riberas da cidade, os cães podem nadar libremente aqui — este é o destino de referencia para os dueños de cães de Lyon quando quieren uma experiencia de praia de verdad. Prepara um picnic e dedícale media jornada.",
+          "dogPolicyPt": "Cães permitidos em zonas de praia designadas, se permite nadar",
+          "distanceFromCenterPt": "45 min de carro (Cublize, Beaujolais)",
+          "tipPt": "Ve entre semana em julho o agosto — os fines de semana em verão podem estar concurridos com familias de Lyon"
         }
-      ]
+      ],
+      "titlePt": "Praias e zonas fluviales perto de Lyon",
+      "introPt": "Lyon é uma cidade interior, mas está situada na confluencia de dos grandes rios — o Ródano e o Saona — e está a distancia razonable de lagos e embalses onde os cães podem nadar libremente. Dentro da propia cidade, as riberas ofrecen abundantes passeios junto ao água com cães. A infraestructura ribereña da cidade foi cuidadosamente diseñada pensando tanto em personas como em cães. Para nadar de verdad, hay que aventurarse ligeramente fora dos límites da cidade, mas as opciones são genuinamente buenas e estão al alcance para uma excursión de medio dia."
     },
     "vets": {
       "titleEn": "Emergency Vets in Lyon — Veterinary Clinics & Pet Care",
@@ -424,7 +509,9 @@
           "emergencyNoteEs": "Servicio de urgencias 24h",
           "openingHours": "24 hours, 7 days a week",
           "googleMapsUrl": "https://maps.google.com/?q=45+Avenue+Lacassagne+Lyon",
-          "photo": "/images/city-places/lyon-vets-vetclin-lyon.jpg"
+          "photo": "/images/city-places/lyon-vets-vetclin-lyon.jpg",
+          "descriptionPt": "A principal clínica veterinária de emergências 24 horas que atiende Lyon e a região circundante. VetClin Lyon cuenta com veterinários cualificados em todo momento e equipamiento diagnóstico completo incluido rayos X digital e ecografía. É o primer recurso para cualquier emergência aguda em Lyon. A clínica está perto da estação Part-Dieu e é acessível a partir de todas as partes da cidade. Guarda o número em tu teléfono antes de necesitarlo.",
+          "emergencyNotePt": "Serviço de urgências 24h"
         },
         {
           "name": "Clinique Vétérinaire Part-Dieu",
@@ -438,9 +525,12 @@
           "emergency": false,
           "openingHours": "Mon–Fri 08:30–19:30, Sat 09:00–13:00",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+Part-Dieu+Lyon",
-          "photo": "/images/city-places/lyon-vets-clinique-veterinaire-part-dieu.jpg"
+          "photo": "/images/city-places/lyon-vets-clinique-veterinaire-part-dieu.jpg",
+          "descriptionPt": "Uma clínica veterinária de medicina general bem valorada não distrito Part-Dieu, perto da estação de comboio e com fácil acceso em transporte público. A clínica cubre medicina general, cirugía e atención dental e é uma buena opción para consultas não urgentes durante uma estadia em Lyon. Se recomienda cita previa mas se aceitam casos urgentes sem cita durante o horario de apertura. Pessoal de habla inglesa disponible a petición."
         }
-      ]
+      ],
+      "titlePt": "Veterinário de urgências em Lyon — Hospitales e clínicas veterinárias",
+      "introPt": "Lyon tem buena infraestructura veterinária. As dos clínicas a continuación representan as melhores opciones para atención de emergência e rutinaria. VetClin Lyon opera as 24 horas para emergências reales, mientras que a Clinique Vétérinaire Part-Dieu é céntrica, está bem equipada e cuenta com especialistas em múltiples disciplinas. Para visitas não urgentes, cualquier veterinário em Francia requiere o passaporte sanitario europeu de tu animal (carnet de santé) e os registros de vacinação — asegúrate de que estén ao dia antes de viajar."
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Lyon with a Dog",
@@ -455,7 +545,11 @@
       "places": [],
       "faqsEn": [],
       "faqsFr": [],
-      "faqsEs": []
+      "faqsEs": [],
+      "titlePt": "Consejos esenciales para visitar Lyon com um cão",
+      "introPt": "Lyon é uma das as cidades grandes mais amigas dos cães em Francia, mas as normas são específicas e a etiqueta importa. Estes cinco consejos harán tu visita mais fluida e agradable.",
+      "tipsPt": [],
+      "faqsPt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Lyon",
@@ -480,7 +574,10 @@
           "tip": "Go before 09:00 on weekdays. The light on the Renaissance façades is beautiful and the streets are nearly empty",
           "tipFr": "Allez-y avant 9h en semaine. La lumière sur les façades Renaissance est magnifique et les rues sont presque vides",
           "tipEs": "Ve antes de las 09:00 entre semana. La luz sobre las fachadas renacentistas es preciosa y las calles están casi vacías",
-          "googleMapsUrl": "https://maps.google.com/?q=Vieux-Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Vieux-Lyon",
+          "descriptionPt": "O bairro renascentista mais grande a norte dos Alpes e Patrimonio Mundial da UNESCO, Vieux-Lyon é a principal razón para visitar a cidade. Os seus estrechas ruas adoquinadas, palácios de influencia italiana, a catedral medieval Saint-Jean e as notables Traboules (pasajes cubiertos) são completamente acessíveis para cães com trela nos espacios públicos al aire libre. Se explora melhor a pé — permite um mínimo de 2 a 3 horas. As ruas estão tranquilas a primera hora da manhã antes de que empiece o flujo turístico, lo que lo torna não momento ideal para um passeio perruno pela história.",
+          "dogPolicyPt": "Cães com trela em todos os espacios públicos al aire libre. As Traboules são propiedad privada — se requiere permiso.",
+          "tipPt": "Ve antes das 09:00 entre semana. A luz sobre as fachadas renacentistas é preciosa e as ruas estão casi vacías"
         },
         {
           "name": "Basilique de Fourvière (Exterior)",
@@ -497,7 +594,10 @@
           "tip": "Take the funicular from Vieux-Lyon (Gare Saint-Jean) with your dog in a carrier if the climb is too much — the views from the top are worth it regardless of how you arrive",
           "tipFr": "Prenez le funiculaire depuis le Vieux-Lyon (gare Saint-Jean) avec votre chien dans un sac si la montée est trop difficile — les vues du sommet valent le détour quelle que soit la façon dont vous arrivez",
           "tipEs": "Toma el funicular desde Vieux-Lyon (Gare Saint-Jean) con tu perro en transportín si la subida es demasiado — las vistas desde arriba merecen la pena independientemente de cómo llegues",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilique+de+Fourvi%C3%A8re+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilique+de+Fourvi%C3%A8re+Lyon",
+          "descriptionPt": "A Basílica Notre-Dame de Fourvière domina o horizonte de Lyon a partir do seu emplazamiento na colina sobre Vieux-Lyon e é a imagen mais icónica da cidade. Os cães não estão permitidos no interior da basílica, mas a explanada e os jardins que rodean o edifício são completamente aptos para cães e ofrecen as vistas panorámicas mais espectaculares sobre Lyon — ambos rios, a Presqu'île, os Alpes num dia despejado. O camino subiendo a partir de Vieux-Lyon pela Montée des Chazeaux (escalera de pedra) é parte da experiencia. Os jardins de rosas junto a basílica também são acessíveis.",
+          "dogPolicyPt": "Cães com trela permitidos em todos os exteriores e a explanada. Não permitidos no interior.",
+          "tipPt": "Toma o funicular a partir de Vieux-Lyon (Gare Saint-Jean) com tu cão em transportadora se a subida é demasiado — as vistas a partir de arriba merecen a pena independientemente de como llegues"
         },
         {
           "name": "Amphithéâtre des Trois Gaules & Croix-Rousse Slopes",
@@ -514,9 +614,14 @@
           "tip": "Combine this with the Croix-Rousse plateau market on a Sunday morning — start at the amphitheatre and walk up to the market for a full morning circuit",
           "tipFr": "Combinez avec le marché du plateau de la Croix-Rousse le dimanche matin — commencez à l'amphithéâtre et montez jusqu'au marché pour un circuit matinal complet",
           "tipEs": "Combínalo con el mercado del plateau de Croix-Rousse el domingo por la mañana — empieza en el anfiteatro y sube al mercado para un circuito matutino completo",
-          "googleMapsUrl": "https://maps.google.com/?q=Amphith%C3%A9%C3%A2tre+des+Trois+Gaules+Lyon"
+          "googleMapsUrl": "https://maps.google.com/?q=Amphith%C3%A9%C3%A2tre+des+Trois+Gaules+Lyon",
+          "descriptionPt": "As laderas de Croix-Rousse que conectan a Presqu'île com o plateau de Croix-Rousse são uno dos entornos urbanos mais característicos de Lyon — ruas empinadas bordeadas de edifícios canuts (tejedores de seda) do século XIX, murales, jardins e pequeñas praças. Os cães com trela estão completamente em casa aqui. O Amphithéâtre des Trois Gaules, o anfiteatro romano mais antigo da Galia (que data do 19 a.C.), é um yacimiento al aire libre parcialmente excavado onde os cães são bem-vindos nos caminos circundantes. A combinación de história romana, patrimonio canuts e colorido arte callejero hace de esta uma zona única e genuinamente apta para cães para explorar.",
+          "dogPolicyPt": "Cães com trela bem-vindos em todo o bairro e não exterior do anfiteatro",
+          "tipPt": "Combínalo com o mercado do plateau de Croix-Rousse o domingo pela manhã — empieza não anfiteatro e sube al mercado para um circuito matutino completo"
         }
-      ]
+      ],
+      "titlePt": "Atracciones aptas para cães em Lyon",
+      "introPt": "A maioria das atracciones emblemáticas de Lyon são al aire libre o têm importantes componentes al aire libre, lo que funciona bem para os cães. Vieux-Lyon por sí só é uma das as experiencias urbanas mais completas de Francia — arquitectura renascentista, serpenteantes ruas adoquinadas, patios escondidos, a colina de Fourvière dominando a partir de arriba — e todo ello é recorrible a pé com um cão com trela. As três atracciones a continuación são os puntos destacados de cualquier visita a Lyon com um cão."
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Care in Lyon",
@@ -537,9 +642,14 @@
           "priceRangeEs": "15–35 € por hora según el servicio",
           "tip": "Book at least 48 hours in advance during high season. Filter by 'Repeat client reviews' for the most reliable sitters",
           "tipFr": "Réservez au moins 48 heures à l'avance en haute saison. Filtrez par 'Avis clients récurrents' pour les gardes les plus fiables",
-          "tipEs": "Reserva con al menos 48 horas de antelación en temporada alta. Filtra por 'Reseñas de clientes repetidos' para los cuidadores más fiables"
+          "tipEs": "Reserva con al menos 48 horas de antelación en temporada alta. Filtra por 'Reseñas de clientes repetidos' para los cuidadores más fiables",
+          "descriptionPt": "A principal plataforma de cuidado de animais em Francia, Rover.fr conecta aos dueños de cães com cuidadores locales verificados em Lyon para visitas puntuales, passeios, guardería diurna e estadias nocturnas. A plataforma tem um sólido sistema de reseñas, cobertura de seguro e seguimiento GPS durante os passeios. Todos os cuidadores pasan verificación de antecedentes. Para uma visita a cidade onde quieres a flexibilidad de entrar em lugares que não permiten cães, reservar um cuidador de Rover durante umas horas da uma auténtica tranquilidad. A maioria dos cuidadores de Lyon responden rápidamente e muitos hablan inglés.",
+          "priceRangePt": "15–35 € por hora segundo o serviço",
+          "tipPt": "Reserva com al menos 48 horas de antelación em temporada alta. Filtra por 'Reseñas de clientes repetidos' para os cuidadores mais fiables"
         }
-      ]
+      ],
+      "titlePt": "Cuidado de animais e cães em Lyon",
+      "introPt": "Para os momentos em que necesitas visitar um museu em interior, uma igreja o um restaurante que não aceita cães, Lyon tem uma red confiable de cuidadores de animais e paseadores de cães. Rover.fr é a principal plataforma que opera em Francia e tem uma sólida base de cuidadores registrados em Lyon. Se recomienda encarecidamente reservar com antelación para os períodos turísticos de mayor demanda (Fête des Lumières, verão)."
     }
   }
 }

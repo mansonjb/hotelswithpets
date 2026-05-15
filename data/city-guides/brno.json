@@ -33,7 +33,11 @@
           "tip": "The wood-panelled side room (vlevo) is the quietest table-zone for an anxious dog.",
           "tipFr": "La salle latérale lambrissée (vlevo) est la zone la plus calme pour un chien anxieux.",
           "tipEs": "La sala lateral de madera (vlevo) es la zona más tranquila para un perro ansioso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pivnice+U+Capa+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Pivnice+U+Capa+Brno",
+          "descriptionPt": "Pivnice checa tradicional com salas abovedadas não sótano, sirviendo Pilsner Urquell de tanque e os clásicos svíčková, guláš e cerdo asado. Cães com trela bem-vindos dentro o ano inteiro; boles tras a barra.",
+          "petPolicyPt": "Cães com trela bem-vindos dentro",
+          "mustTryPt": "Pilsner de tanque, svíčková, smažený sýr",
+          "tipPt": "A sala lateral de madera (vlevo) é a zona mais tranquila para um cão ansioso."
         },
         {
           "name": "Lokál U Caipla",
@@ -55,7 +59,11 @@
           "tip": "Reserve via the website — Lokál tables fill fast on weekends; the rear corner has the best dog spot.",
           "tipFr": "Réservez via le site — les tables de Lokál se remplissent vite le week-end ; le coin arrière est le meilleur spot canin.",
           "tipEs": "Reserva por web — las mesas de Lokál se llenan rápido el fin de semana; el rincón trasero es el mejor sitio canino.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lokal+U+Caipla+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Lokal+U+Caipla+Brno",
+          "descriptionPt": "Parte do grupo Ambiente — versión moderna do pub checo com Pilsner fresca de tanque e clásicos checos creativos. Os cães são explicitamente bem-vindos, com boles e golosinas caseras na barra.",
+          "petPolicyPt": "Cães explicitamente bem-vindos dentro",
+          "mustTryPt": "Pilsner šnyt, rillette de pato, utopenec fresco",
+          "tipPt": "Reserva por web — as mesas de Lokál se llenan rápido o fin de semana; o rincón trasero é o melhor sitio canino."
         },
         {
           "name": "SKØG Urban Hub",
@@ -77,7 +85,11 @@
           "tip": "The glass-roofed back garden is heated in winter — perfect rainy-day option with a wet dog.",
           "tipFr": "Le jardin arrière couvert d'une verrière est chauffé en hiver — option parfaite jour de pluie avec un chien mouillé.",
           "tipEs": "El jardín trasero con cubierta acristalada se calienta en invierno — opción perfecta para día de lluvia con perro mojado.",
-          "googleMapsUrl": "https://maps.google.com/?q=SKOG+Urban+Hub+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=SKOG+Urban+Hub+Brno",
+          "descriptionPt": "Café de especialidad e brunch em Dominikánská, com opciones veganas e vegetarianas. Os cães são bem-vindos em todo o lado — tanto na sala delantera como no jardim cubierto trasero — boles em cada entrada.",
+          "petPolicyPt": "Cães bem-vindos em todo o lado",
+          "mustTryPt": "Café de filtro, tostada de aguacate de masa madre",
+          "tipPt": "O jardim trasero com cubierta acristalada se calienta em inverno — opción perfeita para dia de chuva com cão mojado."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Puedo llevar a mi perro a una cervecería checa?",
           "a": "Sí. Las pivnice checas toleran perros por defecto — los perros con correa son bienvenidos en el suelo junto a tu mesa. La mayoría de habituales lleva perro sin problema."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Brno",
+      "introPt": "A cultura das cervecerías checas é fiablemente pet-friendly — os cães com trela se admiten em pivnice e restaurace por defecto, os boles de água aparecen sem pedirlos, e o centro medieval compacto de Brno concentra as melhores direções a menos de 600 m de náměstí Svobody.",
+      "tipsPt": [
+        "A cultura do pub checo é ampliamente pet-friendly — al menos o 70 % das pivnice de Brno admite cães com trela na sala principal, a menudo com boles sem pedirlos.",
+        "Em checo « água para o cão por favor » é « misku vody pro psa, prosím » — nunca lo niegan.",
+        "Propina do 10 % em efectivo sobre a mesa, mesmo pagando com tarjeta."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Brno?",
+          "a": "Sí na mayoría. Perto do 70 % das pivnice e restaurace de Brno admite cães com trela na sala principal. Os locales de alta cozinha e os do Špilberk varían — llama antes."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a uma cervecería checa?",
+          "a": "Sí. As pivnice checas toleran cães por defecto — os cães com trela são bem-vindos não solo junto a tu mesa. A maioria de habituales lleva cão sem problema."
+        }
       ]
     },
     "parks": {
@@ -164,7 +193,15 @@
           "tip": "Climb up via Pellicova Street for the gentlest gradient — direct stone steps from the centre are punishing for short-legged dogs.",
           "tipFr": "Montez par Pellicova Street pour la pente la plus douce — les marches de pierre directes depuis le centre sont rudes pour les chiens à pattes courtes.",
           "tipEs": "Sube por Pellicova Street para la pendiente más suave — los escalones de piedra directos desde el centro son duros para perros de patas cortas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spilberk+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Spilberk+Brno",
+          "leashRulePt": "Com trela nos caminos do castelo, sem trela nas laderas boscosas",
+          "descriptionPt": "Parque emblemático em lo alto de uma colina rodeando o castelo medieval-barroco de Špilberk. Laderas boscosas em três lados com trilhos sombreados e bancos — os locales pasean cães sem trela nas vertientes sur e oeste boscosas.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Café não patio",
+            "Água potable"
+          ],
+          "tipPt": "Sube por Pellicova Street para a pendiente mais suave — os escalones de pedra directos a partir do centro são duros para cães de patas cortas."
         },
         {
           "name": "Lužánky Park",
@@ -199,7 +236,16 @@
           "tip": "The east-side fenced zone has agility equipment maintained by the Brno dog-owners' association.",
           "tipFr": "La zone clôturée côté est a des équipements d'agility entretenus par l'association des propriétaires de chiens de Brno.",
           "tipEs": "La zona vallada del lado este tiene equipo de agility mantenido por la asociación de dueños de perros de Brno.",
-          "googleMapsUrl": "https://maps.google.com/?q=Luzanky+Park+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Luzanky+Park+Brno",
+          "leashRulePt": "Com trela com dos zonas valladas sem trela",
+          "descriptionPt": "O parque público mais antigo de Brno (aberto em 1786) — passeios formales, árvores maduros, estanque, fuentes ornamentales. Dos zonas psí louka valladas nas esquinas sur e este. WiFi público gratuito, café, conciertos de verão.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Café",
+            "WiFi grátis",
+            "2 zonas caninas valladas"
+          ],
+          "tipPt": "A zona vallada do lado este tem equipo de agility mantenido pela asociación de dueños de cães de Brno."
         },
         {
           "name": "Brno Dam (Brněnská přehrada)",
@@ -234,7 +280,16 @@
           "tip": "The west shore (Sokolské koupaliště side) has the cleanest water for dog swimming — east shore can have algae July-August.",
           "tipFr": "La rive ouest (côté Sokolské koupaliště) a l'eau la plus propre pour la baignade canine — la rive est peut avoir des algues en juillet-août.",
           "tipEs": "La orilla oeste (lado Sokolské koupaliště) tiene el agua más limpia para el baño canino — la orilla este puede tener algas en julio-agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brnenska+prehrada"
+          "googleMapsUrl": "https://maps.google.com/?q=Brnenska+prehrada",
+          "leashRulePt": "Sem trela na mayor parte da margem do lago",
+          "descriptionPt": "Embalse de 2,6 km² a 12 km al noroeste do centro — margens boscosas, zonas de banho canino, barco de vapor de paletas que admite cães grátis e as ruinas do castelo de Bítov acessíveis por água. Elétrico 1 a partir do centro a Bystrc.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Restaurantes",
+            "Embarcadero",
+            "Banho canino"
+          ],
+          "tipPt": "A margem oeste (lado Sokolské koupaliště) tem o água mais limpia para o banho canino — a margem este pode ter algas em julho-agosto."
         }
       ],
       "tipsEn": [
@@ -281,6 +336,23 @@
           "q": "¿Pueden los perros nadar en el embalse de Brno?",
           "a": "Sí. La Brněnská přehrada es dog-friendly para baño en la mayor parte de sus 8 km de orillas, sobre todo en la orilla oeste. Evita el baño en julio-agosto en la orilla este donde pueden aparecer algas verdiazules."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Brno",
+      "introPt": "Brno está rodeada de colinas boscosas — o centro está a 800 m das laderas boscosas do Špilberk e a 2 km do floresta Wilson. O ayuntamiento mantiene 14 zonas valladas sem trela (psí louka) e três embalses onde se permite o banho canino.",
+      "tipsPt": [
+        "O ayuntamiento de Brno gestiona 14 zonas valladas sem trela (psí louka) — mapa completo em brno.cz/psi-louky.",
+        "Colinas boscosas (Špilberk, floresta Wilson, Mahenova stráň) rodean o centro — 10 min andando a partir de cualquier punto do centro até um trilho forestal.",
+        "Lleva sempre bolsas: a multa municipal por excrementos é 1 000 CZK (≈40 €), controlada pela Městská policie."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Brno?",
+          "a": "Sem trela permitido nas 14 zonas psí louka valladas e na maioria de laderas boscosas (Špilberk, floresta Wilson). Os parques formales (Lužánky, Denisovy sady) exigen trela fora das zonas marcadas sem trela."
+        },
+        {
+          "q": "¿Podem os cães nadar não embalse de Brno?",
+          "a": "Sí. A Brněnská přehrada é pet-friendly para banho na mayor parte dos seus 8 km de margens, sobretudo na margem oeste. Evita o banho em julho-agosto na margem este onde podem aparecer algas verdiazules."
+        }
       ]
     },
     "transport": {
@@ -305,7 +377,10 @@
           "tip": "Buy the 'jízdenka pro psa' at the SMS gate or from the driver — drivers don't sell tickets at peak hours.",
           "tipFr": "Achetez la « jízdenka pro psa » au guichet SMS ou au chauffeur — les chauffeurs ne vendent pas de billets en heure de pointe.",
           "tipEs": "Compra la « jízdenka pro psa » en taquilla SMS o al conductor — los conductores no venden billetes en hora punta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brno+Hlavni+nadrazi"
+          "googleMapsUrl": "https://maps.google.com/?q=Brno+Hlavni+nadrazi",
+          "descriptionPt": "O transporte público de Brno (Dopravní podnik města Brna) admite cães nas 11 líneas de elétrico, 12 líneas de trolebús e buses nocturnos. Cães pequeños em transportadora viajan grátis; os mais grandes requieren um bilhete « pes » a meio preço (15 CZK) e bozal.",
+          "petPolicyPt": "Bilhete a meio preço + bozal para cães medianos/grandes",
+          "tipPt": "Compra a « jízdenka pro psa » em taquilla SMS o al conductor — os conductores não venden bilhetes em hora punta."
         },
         {
           "name": "České dráhy (Czech Railways)",
@@ -321,7 +396,10 @@
           "tip": "Reserve your seat in advance — Brno-Prague trains can be standing-only at peak hours, harder with a medium dog.",
           "tipFr": "Réservez votre siège — les trains Brno-Prague peuvent être debout uniquement en heure de pointe, plus dur avec un chien moyen.",
           "tipEs": "Reserva asiento — los trenes Brno-Praga pueden ir solo de pie en hora punta, más difícil con perro mediano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brno+hlavni+nadrazi"
+          "googleMapsUrl": "https://maps.google.com/?q=Brno+hlavni+nadrazi",
+          "descriptionPt": "České dráhy (ČD) opera comboios directos a partir de Brno a Praga (2h30), Viena (1h35), Bratislava (1h25), Budapest (4h) e Berlim (5h). Os cães viajan a meio preço de segunda; os cães de assistência grátis.",
+          "petPolicyPt": "Bilhete infantil a meio preço + bozal a bordo",
+          "tipPt": "Reserva asiento — os comboios Brno-Praga podem ir só de pie em hora punta, mais difícil com cão mediano."
         },
         {
           "name": "RegioJet Coach",
@@ -337,7 +415,10 @@
           "tip": "Book the 'pet seat' option at booking, not on the day — it's a separate bookable seat (paws on floor).",
           "tipFr": "Réservez l'option « pet seat » à la réservation, pas le jour J — c'est un siège dédié réservable (pattes au sol).",
           "tipEs": "Reserva la opción « pet seat » al reservar, no el día — es un asiento reservable dedicado (patas en el suelo).",
-          "googleMapsUrl": "https://maps.google.com/?q=Brno+ÚAN+Zvonarka"
+          "googleMapsUrl": "https://maps.google.com/?q=Brno+ÚAN+Zvonarka",
+          "descriptionPt": "RegioJet opera autocares amarillos a Praga (2h30), Viena (1h45) e Bratislava (1h45) a tarifas competitivas. Cães admitidos em « pet seat » (meio preço); bozal exigido para cães medianos/grandes.",
+          "petPolicyPt": "Pet seat a meio preço; bozal a bordo",
+          "tipPt": "Reserva a opción « pet seat » al reservar, não o dia — é um asiento reservable dedicado (patas não solo)."
         }
       ],
       "tipsEn": [
@@ -384,6 +465,23 @@
           "q": "¿Puedo llevar a mi perro en un tren intercity checo?",
           "a": "Sí. České dráhy admite perros a media tarifa de segunda con bozal para perros medianos/grandes. Reserva asiento — los trenes en hora punta a Praga pueden ir muy llenos."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Brno",
+      "introPt": "A red de elétrico e autocarro de Brno (DPMB) admite cães em cada línea, cada dia. Os comboios de longa distancia vía České dráhy llegan a Praga (2h30), Viena (1h35) e Bratislava (1h25), todos pet-friendly.",
+      "tipsPt": [
+        "A lei checa exige bozal para cães medianos e grandes em todo o transporte público — multas de 1 000 CZK (~40 €) se não se cumple.",
+        "Viena está mais cerca que Praga: 1h35 de comboio vs 2h30 — útil se combinas Brno com a fuerte cultura canina vienesa.",
+        "O aeroporto Brno-Tuřany (BRQ) está a 8 km do centro, servido pelo autocarro 76 e Uber/Bolt — ambos admiten cães (opción « Pets » de Bolt +30 CZK)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay que ponerle bozal a mi cão nos elétricos de Brno?",
+          "a": "Sí para cães medianos e grandes — a normativa de transporte checa exige bozal e bilhete a meio preço. Os cães pequeños em transportadora viajan grátis sem bozal."
+        },
+        {
+          "q": "¿Puedo levar a mi cão num comboio intercity checo?",
+          "a": "Sí. České dráhy admite cães a meio preço de segunda com bozal para cães medianos/grandes. Reserva asiento — os comboios em hora punta a Praga podem ir muito cheios."
+        }
       ]
     },
     "beaches": {
@@ -425,7 +523,16 @@
           "tip": "Sokolské koupaliště side has the cleanest water and a sandy entry — best for older or small dogs.",
           "tipFr": "Côté Sokolské koupaliště eau la plus propre et entrée sablonneuse — idéal pour chiens âgés ou petits.",
           "tipEs": "Lado Sokolské koupaliště agua más limpia y entrada arenosa — ideal para perros mayores o pequeños.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brnenska+prehrada"
+          "googleMapsUrl": "https://maps.google.com/?q=Brnenska+prehrada",
+          "leashRulePt": "Sem trela na mayor parte da margem",
+          "descriptionPt": "O spot de banho mais cercano — embalse de 2,6 km² com 8 km de margens mayoritariamente boscosas, o lado oeste o mais limpio. Elétrico 1 a partir do centro a Bystrc em 25 min.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Restaurantes",
+            "Elétrico",
+            "Embarcadero"
+          ],
+          "tipPt": "Lado Sokolské koupaliště água mais limpia e entrada arenosa — ideal para cães mayores o pequeños."
         },
         {
           "name": "Nové Mlýny Reservoirs",
@@ -458,7 +565,16 @@
           "tip": "Combine with a Mikulov wine-region day — the Pálava cellars in Pavlov are 5 km away and several have dog-friendly cellar doors.",
           "tipFr": "Combinez avec une journée vignoble de Mikulov — les caves Pálava à Pavlov sont à 5 km et plusieurs ont des portes de cave dog-friendly.",
           "tipEs": "Combina con un día por la región vinícola de Mikulov — las bodegas Pálava en Pavlov están a 5 km y varias tienen puertas de bodega dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Nove+Mlyny+reservoir"
+          "googleMapsUrl": "https://maps.google.com/?q=Nove+Mlyny+reservoir",
+          "leashRulePt": "Sem trela o ano inteiro fora de zonas de banho dedicadas",
+          "descriptionPt": "Cadena de três grandes embalses a 35 km a sul de Brno sobre o rio Dyje — viñedos detrás, as colinas calizas de Pálava encima. Pet-friendly o ano inteiro na maioria de margens; o embalse sur perto de Pasohlávky tem as melhores bahías de banho canino.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Restaurantes",
+            "Aparcamiento grátis",
+            "Camping"
+          ],
+          "tipPt": "Combina com um dia pela região vinícola de Mikulov — as bodegas Pálava em Pavlov estão a 5 km e varias têm puertas de bodega pet-friendly."
         },
         {
           "name": "Křetínka Reservoir",
@@ -488,7 +604,15 @@
           "tip": "Visit on a weekday — weekends bring local fishermen who can be territorial about the rocky east bank.",
           "tipFr": "Visitez en semaine — le week-end les pêcheurs locaux peuvent être territoriaux sur la rive est rocheuse.",
           "tipEs": "Visita entre semana — los fines de semana los pescadores locales pueden ser territoriales en la orilla este rocosa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kretinka+reservoir"
+          "googleMapsUrl": "https://maps.google.com/?q=Kretinka+reservoir",
+          "leashRulePt": "Sem trela o ano inteiro",
+          "descriptionPt": "Tranquilo embalse forestal de 2,5 km² a 50 km a norte de Brno perto de Letovice — muito menos concurrido que a Brněnská přehrada, água cristalina e circuito forestal de 10 km. Comboio ČD até Letovice (45 min) + 4 km a pé o bus local.",
+          "amenitiesPt": [
+            "Aparcamiento grátis",
+            "Trilhos forestales",
+            "Spots de picnic"
+          ],
+          "tipPt": "Visita entre semana — os fines de semana os pescadores locales podem ser territoriales na margem este rocosa."
         }
       ],
       "tipsEn": [
@@ -535,6 +659,23 @@
           "q": "¿Se admiten perros en las playas municipales en Chequia?",
           "a": "La mayoría de koupaliště municipales excluye perros del 1 mayo al 30 septiembre. Fuera de esa ventana la regla es local; muchos embalses aún admiten perros todo el año."
         }
+      ],
+      "titlePt": "Praias caninas e lagos perto de Brno",
+      "introPt": "Brno não tem acceso al mar mas a região de Moravia do sul tem múltiples embalses e estanques naturais com secciones de banho canino o ano inteiro, todos acessíveis em menos de 1h de carro o comboio.",
+      "tipsPt": [
+        "Os embalses de Moravia do sul estão abertos a cães o ano inteiro; as praias municipales (koupaliště) costumam excluir cães de maio a setembro.",
+        "O água interior checa pode ter floraciones de algas verdiazules em julho-agosto — consulta os informes de KHS antes de bañar al cão.",
+        "As três opciones de arriba são acessíveis em transporte público a partir de Brno — o ferrocarril checo admite cães com trela a meio preço."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana de Brno?",
+          "a": "Uns 25 min não elétrico até a Brněnská přehrada — 8 km de margem mayoritariamente pet-friendly. Para banho mais amplio e limpio, os embalses Nové Mlýny estão a 35 km al sur perto de Pavlov."
+        },
+        {
+          "q": "¿Se admiten cães nas praias municipales em Chequia?",
+          "a": "A maioria de koupaliště municipales excluye cães do 1 maio ao \\10 setembro. Fora de esa ventana a regla é local; muitos embalses aún admiten cães o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -564,7 +705,9 @@
           "tip": "Call the emergency hotline before driving in — they triage by phone and may redirect for non-urgent cases.",
           "tipFr": "Appelez le numéro d'urgence avant de venir — triage par téléphone et possible redirection pour cas non urgents.",
           "tipEs": "Llama a urgencias antes de ir — hacen triaje por teléfono y pueden redirigir casos no urgentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=VFU+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=VFU+Brno",
+          "descriptionPt": "O hospital universitario da Universidade de Ciencias Veterinárias a norte de Brno — urgências 24h com plantilla completa e a cobertura especialista mais profunda do país (oncología, cardiología, neurología, ortopedia).",
+          "tipPt": "Llama a urgências antes de ir — hacen triaje por teléfono e podem redirigir casos não urgentes."
         },
         {
           "name": "Veterinární klinika Lentilka",
@@ -584,7 +727,9 @@
           "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv est possible pour vaccins et puces avant 11h.",
           "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Veterinarni+klinika+Lentilka+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinarni+klinika+Lentilka+Brno",
+          "descriptionPt": "Clínica moderna para pequeños animales não sur de Brno — medicina general, vacinas, cirugía, odontología, ecografía. Llamadas fora de horario derivadas a urgências VFU.",
+          "tipPt": "Hablan inglés com fluidez e aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Veterina Avetum",
@@ -604,7 +749,9 @@
           "tip": "Useful for issuing/updating an EU pet passport on-trip — Avetum charges around 800 CZK for a passport, 600 CZK for a microchip.",
           "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Avetum facture environ 800 CZK pour un passeport, 600 CZK pour une puce.",
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo en viaje — Avetum cobra unos 800 CZK por pasaporte, 600 CZK por microchip.",
-          "googleMapsUrl": "https://maps.google.com/?q=Veterina+Avetum+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Veterina+Avetum+Brno",
+          "descriptionPt": "Clínica para pequeños animales a norte de Brno (bairro Lesná) — medicina general, microchip, expedición de passaporte europeu, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu em viaje — Avetum cobra uns 800 CZK por passaporte, 600 CZK por microchip."
         }
       ],
       "tipsEn": [
@@ -651,6 +798,23 @@
           "q": "¿Necesito pasaporte europeo para Brno?",
           "a": "Sí para entrar desde fuera de Chequia. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico checo adicional."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Brno — Hospitales e clínicas veterinárias",
+      "introPt": "Brno alberga a Universidade de Ciencias Veterinárias e Farmacéuticas — uma das principales escuelas veterinárias de Europa central, cuyo hospital universitario funciona também como centro de referencia de urgências 24h.",
+      "tipsPt": [
+        "Chequia está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar a partir de cualquier país UE.",
+        "O hospital veterinário da VFU é a única urgência veterinária 24h com plantilla completa do sul de Chequia — as clínicas do centro derivan ahí em noites e fines de semana.",
+        "Lleva sempre o passaporte europeu original: as clínicas checas não aceitam fotocopias para certificados de exportación."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h em Brno?",
+          "a": "VFU Veterinary Teaching Hospital, Palackého třída 1946/1, +420 541 562 111. Aberto 24/7 para urgências e com a cobertura especialista mais completa do país."
+        },
+        {
+          "q": "¿Necesito passaporte europeu para Brno?",
+          "a": "Sí para entrar a partir de fora de Chequia. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Sem papeleo específico checo adicional."
+        }
       ]
     },
     "tips": {
@@ -666,21 +830,24 @@
           "photo": "/images/city-places/brno-tips-best-season-for-visiting-brno-with-a-dog.jpg",
           "description": "May-June and September are ideal — average highs 20-24 °C, the South Moravian wine harvest in September, and the city centre is quieter than during the November-December Christmas market peak.",
           "descriptionFr": "Mai-juin et septembre sont idéaux — maxima moyens 20-24 °C, vendanges de Moravie du Sud en septembre, et le centre est plus calme que pendant le pic du marché de Noël de novembre-décembre.",
-          "descriptionEs": "Mayo-junio y septiembre son ideales — máximas medias 20-24 °C, vendimia de Moravia del Sur en septiembre, y el centro está más tranquilo que durante el pico del mercado navideño de noviembre-diciembre."
+          "descriptionEs": "Mayo-junio y septiembre son ideales — máximas medias 20-24 °C, vendimia de Moravia del Sur en septiembre, y el centro está más tranquilo que durante el pico del mercado navideño de noviembre-diciembre.",
+          "descriptionPt": "Maio-junho e setembro são ideales — máximas medias 20-24 °C, vendimia de Moravia do sul em setembro, e o centro está mais tranquilo que durante o pico do mercado navideño de novembro-dezembro."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/brno-tips-currency-cost.jpg",
           "description": "Czechia uses the Czech koruna (CZK), not the euro. Most hotels and restaurants accept Visa/Mastercard, but small pivnice often want cash. Pet supplements at Brno hotels average 9-15 €/night — half the EU average and one of the lowest in Europe.",
           "descriptionFr": "La République tchèque utilise la couronne tchèque (CZK), pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites pivnice préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Brno tournent autour de 9-15 €/nuit — moitié moins que la moyenne UE et l'un des plus bas d'Europe.",
-          "descriptionEs": "Chequia usa la corona checa (CZK), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las pivnice pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Brno rondan 9-15 €/noche — la mitad de la media UE y uno de los más bajos de Europa."
+          "descriptionEs": "Chequia usa la corona checa (CZK), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las pivnice pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Brno rondan 9-15 €/noche — la mitad de la media UE y uno de los más bajos de Europa.",
+          "descriptionPt": "Chequia usa a corona checa (CZK), não o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, mas as pivnice pequeñas costumam preferir efectivo. Os suplementos para animais em hotéis de Brno rondan 9-15 €/noite — a mitad da media UE e uno dos mais bajos de Europa."
         },
         {
           "name": "Languages",
           "photo": "/images/city-places/brno-tips-languages.jpg",
           "description": "Czech is the official language. English is widely spoken in tourism (hotels, central restaurants, vets) and German is common with older Czechs and on the Vienna-bordering wine region. Useful Czech phrase: 'Mám psa' = 'I have a dog'.",
           "descriptionFr": "Le tchèque est la langue officielle. L'anglais est largement parlé dans le tourisme (hôtels, restaurants centraux, vétérinaires) et l'allemand courant chez les Tchèques plus âgés et dans la région viticole frontalière de Vienne. Phrase tchèque utile : « Mám psa » = « J'ai un chien ».",
-          "descriptionEs": "El checo es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y el alemán es común entre checos mayores y en la región vinícola fronteriza con Viena. Frase checa útil: « Mám psa » = « Tengo un perro »."
+          "descriptionEs": "El checo es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y el alemán es común entre checos mayores y en la región vinícola fronteriza con Viena. Frase checa útil: « Mám psa » = « Tengo un perro ».",
+          "descriptionPt": "O checo é a lengua oficial. O inglés se habla ampliamente não turismo (hotéis, restaurantes céntricos, veterinários) e o alemán é común entre checos mayores e na região vinícola fronteriza com Viena. Frase checa útil: « Mám psa » = « Tengo um cão »."
         }
       ],
       "tipsEn": [
@@ -727,6 +894,23 @@
           "q": "¿Cómo se compara Brno con Praga para viajes caninos?",
           "a": "Brno es más barata, más pequeña, menos turística, con probablemente mejor infraestructura sin correa (14 zonas valladas vs selección más estrecha en Praga). Praga tiene más opciones hoteleras pet-friendly y vuelos internacionales directos. Brno gana para un viaje canino tranquilo; Praga para una estancia más larga y variada."
         }
+      ],
+      "titlePt": "Viajar a Brno com cão: consejos prácticos",
+      "introPt": "Brno é um dos os destinos caninos mais infravalorados de Europa central — centro medieval compacto, densa cultura do pub, 14 zonas valladas sem trela, comboios rápidos a Viena e Praga, e preços a mitad que em Europa occidental.",
+      "tipsPt": [
+        "Brno é uma ganga pet-friendly — suplemento medio para animais 250 CZK (~10 €), estadia pensión completa a mitad que em Viena, cerveja 50 CZK (~2 €).",
+        "Combina Brno com uma excursión a Viena — comboio 1h35 em cada sentido, cães admitidos em ambos lados, sem control fronterizo dentro de Schengen.",
+        "A região vinícola de Moravia do sul (Pálava, Mikulov) é pet-friendly na maioria de bodegas — combina com o embalse Nové Mlýny para um dia perfeito."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Brno é buena para um fin de semana pet-friendly?",
+          "a": "Sí — Brno é uma das as cidades pequeñas mais pet-friendly de Europa central. Centro pedonal compacto, densa cultura do pub que admite cães por defecto, 14 zonas valladas sem trela, embalse de banho canino o ano inteiro a 25 min não elétrico, e a mitad de preços que Viena o Praga."
+        },
+        {
+          "q": "¿Como se compara Brno com Praga para viajes caninos?",
+          "a": "Brno é mais barata, mais pequeña, menos turística, com probablemente melhor infraestructura sem trela (14 zonas valladas vs seleção mais estrecha em Praga). Praga tem mais opciones hoteleras pet-friendly e voos internacionais directos. Brno gana para um viaje canino tranquilo; Praga para uma estadia mais longa e variada."
+        }
       ]
     },
     "attractions": {
@@ -752,7 +936,10 @@
           "tip": "The terrace below the south rampart has the best Brno-old-town panorama at sunset.",
           "tipFr": "La terrasse sous le rempart sud offre le meilleur panorama de la vieille ville au coucher du soleil.",
           "tipEs": "La terraza bajo la muralla sur ofrece el mejor panorama del casco antiguo al atardecer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spilberk+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Spilberk+Brno",
+          "descriptionPt": "Castelo em lo alto da colina que domina Brno — muralhas exteriores, esplanadas e parque boscoso que rodea o castelo são pet-friendly com cães com trela grátis. O museu interior só admite cães de assistência.",
+          "petPolicyPt": "Cães grátis em jardins; só de asistencia dentro",
+          "tipPt": "A esplanada sob a muralha sur ofrece o melhor panorama do centro histórico al atardecer."
         },
         {
           "name": "Villa Tugendhat (exterior)",
@@ -769,7 +956,10 @@
           "tip": "Free 5-min walk from the Černopolní tram stop (line 5) — the view from the gate is the architectural money shot.",
           "tipFr": "Marche gratuite de 5 min depuis l'arrêt de tram Černopolní (ligne 5) — la vue depuis le portail est le money shot architectural.",
           "tipEs": "Paseo gratis de 5 min desde la parada de tranvía Černopolní (línea 5) — la vista desde la verja es la foto arquitectónica clave.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Tugendhat+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Tugendhat+Brno",
+          "descriptionPt": "Obra maestra modernista de Mies van der Rohe (1930) — UNESCO a partir de 2001. O jardim em pendiente e a vista a partir da rua são pet-friendly; a visita interior só admite cães de assistência. Melhor apreciada a partir da esplanada baja e a rua Černopolní.",
+          "petPolicyPt": "Cães em jardim; só de asistencia dentro",
+          "tipPt": "Passeio grátis de 5 min a partir da paragem de elétrico Černopolní (línea 5) — a vista a partir da verja é a foto arquitectónica clave."
         },
         {
           "name": "Mendel Monastery Garden",
@@ -786,7 +976,10 @@
           "tip": "Combine with Stará pekárna craft beer pub on the same square — dog-friendly inside.",
           "tipFr": "Combinez avec le pub à bières craft Stará pekárna sur la même place — dog-friendly à l'intérieur.",
           "tipEs": "Combina con el pub de cerveza artesana Stará pekárna en la misma plaza — dog-friendly dentro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mendel+Museum+Brno"
+          "googleMapsUrl": "https://maps.google.com/?q=Mendel+Museum+Brno",
+          "descriptionPt": "Monasterio agustino onde Gregor Mendel descubrió as leis da herencia com os seus guisantes — o jardim onde realizó os seus experimentos originales está aberto a cães com trela. O museu Mendel só admite cães de assistência.",
+          "petPolicyPt": "Cães em jardim; só de asistencia dentro",
+          "tipPt": "Combina com o pub de cerveja artesana Stará pekárna na mesma praça — pet-friendly dentro."
         }
       ],
       "tipsEn": [
@@ -833,6 +1026,23 @@
           "q": "¿Se admiten perros en la Villa Tugendhat?",
           "a": "En el jardín circundante y desde la calle sí, con correa. La visita arquitectónica interior solo admite perros de asistencia."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Brno",
+      "introPt": "A maioria das vistas emblemáticas de Brno são al aire libre e pet-friendly — terrenos do castelo de Špilberk, patio da catedral de Petrov, jardim do monasterio de Mendel e exterior da funcionalista Villa Tugendhat admiten cães com trela.",
+      "tipsPt": [
+        "As atracciones al aire libre de Brno admiten cães com trela grátis; os interiores de museus só admiten cães de assistência.",
+        "A região vinícola de Moravia do sul (Mikulov, Pavlov, Lednice) está a 35-50 km al sur e é pet-friendly na maioria de bodegas e jardins de castelos — excursión perfeita de carro.",
+        "Excursiones de comboio directo: Viena (1h35), Bratislava (1h25), Praga (2h30) — cães com trela admitidos em ČD a meio preço com bozal para cães medianos/grandes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão al castelo de Špilberk?",
+          "a": "Aos jardins e al parque circundante sí, com trela, grátis. O museu interior só admite cães de assistência."
+        },
+        {
+          "q": "¿Se admiten cães na Villa Tugendhat?",
+          "a": "No jardim circundante e a partir da rua sí, com trela. A visita arquitectónica interior só admite cães de assistência."
+        }
       ]
     },
     "petsitting": {
@@ -856,7 +1066,9 @@
           "website": "https://www.pawshake.cz/cs/dog-sitting/brno",
           "tip": "Filter for English-speaking sitters in the platform settings — about 60% of Brno sitters speak fluent English.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 60 % des sitters de Brno parlent anglais couramment.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Brno habla inglés con fluidez."
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Brno habla inglés con fluidez.",
+          "descriptionPt": "Plataforma internacional com uns 25 cuidadores verificados com base em Chequia num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglés nos ajustes — alrededor do 60 % dos cuidadores de Brno habla inglés com fluidez."
         },
         {
           "name": "Hlídání-psů.cz",
@@ -870,7 +1082,9 @@
           "website": "https://hlidani-psu.cz/",
           "tip": "Book at least 48h ahead in summer — most popular sitters have a 3-4 week waiting list in August.",
           "tipFr": "Réservez au moins 48h à l'avance en été — les sitters les plus populaires ont 3-4 semaines de liste d'attente en août.",
-          "tipEs": "Reserva al menos 48h antes en verano — los cuidadores más populares tienen 3-4 semanas de lista de espera en agosto."
+          "tipEs": "Reserva al menos 48h antes en verano — los cuidadores más populares tienen 3-4 semanas de lista de espera en agosto.",
+          "descriptionPt": "Plataforma exclusivamente checa com 15-20 cuidadores verificados de Brno e línea veterinária 24/7 incluida em cada reserva. Tarifa media 250-400 CZK/dia para alojamento (10-16 €), 150 CZK por visita de 30 min.",
+          "tipPt": "Reserva al menos 48h antes em verão — os cuidadores mais populares têm 3-4 semanas de lista de espera em agosto."
         }
       ],
       "tipsEn": [
@@ -916,6 +1130,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Brno?",
           "a": "Sí — alrededor del 60 % de los cuidadores de Brno en Pawshake habla inglés con fluidez. Filtra la plataforma por idioma y lee reseñas recientes para confirmar."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Brno",
+      "introPt": "Para as excursiones onde o cão não pode ir (interior da Villa Tugendhat, museu Mendel, casamatas de Špilberk), Brno tem pet-sitting fiable e verificado a través de plataformas internacionais e checas locales.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Brno são aproximadamente a mitad que as de Europa occidental — media 12 €/dia para alojamento vs 25 €/dia em Viena.",
+        "Confirma sempre o nivel de inglés/alemán do cuidador antes de reservar se não hablas checo — as instrucciones de medicación o comida podem malinterpretarse.",
+        "Varios hotéis boutique do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Brno?",
+          "a": "250-400 CZK (10-16 €) por dia segundo cuidador e tamanho do cão, vía Pawshake o Hlídání-psů.cz. Visitas a domicilio 150-200 CZK por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Brno?",
+          "a": "Sí — alrededor do 60 % dos cuidadores de Brno em Pawshake habla inglés com fluidez. Filtra a plataforma por idioma e lee reseñas recientes para confirmar."
         }
       ]
     }

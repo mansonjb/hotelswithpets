@@ -33,7 +33,11 @@
           "tip": "Walk the dog along Hove Lawns for an hour, then settle on the terrace — water bowls appear without asking.",
           "tipFr": "Promenez votre chien une heure sur Hove Lawns avant de vous installer en terrasse — les gamelles arrivent sans qu'on les demande.",
           "tipEs": "Pasea al perro una hora por Hove Lawns y siéntate después en la terraza: los cuencos de agua llegan sin pedirlos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rockwater+Hove"
+          "googleMapsUrl": "https://maps.google.com/?q=Rockwater+Hove",
+          "descriptionPt": "Local elegante de varios niveles frente a Hove Lawns, com cafetería pet-friendly em planta baja e uma gran esplanada envolvente sobre o Canal. Os cães são bem-vindos em todas as zonas informales e o equipo da cafetería tem um tarro de premios na puerta. O brunch é a propuesta estrella, mas a cozinha abre todo o dia e o local da directamente a uma das melhores praias para cães de Brighton, acessível o ano inteiro.",
+          "petPolicyPt": "Cães admitidos em planta baja e esplanada; tarro de premios na entrada",
+          "mustTryPt": "Brunch de fin de semana, tabla aperitivo com vista para o mar",
+          "tipPt": "Pasea al cão uma hora por Hove Lawns e siéntate después na esplanada: os tigelas de água llegan sem pedirlos."
         },
         {
           "name": "The New Club",
@@ -55,7 +59,11 @@
           "tip": "Book the upstairs window seats for sunset over the Channel — dogs are welcome there too.",
           "tipFr": "Réservez les places fenêtre à l'étage pour le coucher du soleil sur la Manche — les chiens y sont aussi acceptés.",
           "tipEs": "Reserva los asientos de ventana del piso de arriba para el atardecer sobre el Canal: los perros también pueden subir.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+New+Club+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=The+New+Club+Brighton",
+          "descriptionPt": "Diner de estilo americano em pleno passeio marítimo central de Brighton, com política explícita de admisión de cães e mesmo um carrito de premios que pasa pelas mesas. O interior é lo bastante amplio para que se acomoden cães medianos, e o bar de arriba da a as ruinas do West Pier. Brunch e hamburguesas são os puntos fuertes.",
+          "petPolicyPt": "Cães admitidos em interior e esplanada; premios e água disponibles",
+          "mustTryPt": "Brunch de fin de semana, hamburguesa da casa, margarita helada",
+          "tipPt": "Reserva os asientos de ventana do piso de arriba para o atardecer sobre o Canal: os cães também podem subir."
         },
         {
           "name": "Fatto a Mano Hove",
@@ -77,7 +85,11 @@
           "tip": "Walk in early evening — the upstairs section is adults-only and quieter, ideal for dogs sensitive to noise.",
           "tipFr": "Venez en début de soirée — l'étage est réservé aux adultes et plus calme, idéal pour les chiens sensibles au bruit.",
           "tipEs": "Acércate al principio de la noche: la planta de arriba es solo para adultos y más tranquila, ideal para perros sensibles al ruido.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fatto+a+Mano+Hove"
+          "googleMapsUrl": "https://maps.google.com/?q=Fatto+a+Mano+Hove",
+          "descriptionPt": "Cadena de pizza napolitana convertida em instituição de Brighton, com planta baja e esplanada pet-friendly no seu sede de Hove. As Margheritas e Marinaras a leña são as estrellas, junto a uma breve carta de vinhos italianos naturais. A dos minutos de Hove Lawns, é a paragem natural tras o passeio.",
+          "petPolicyPt": "Cães admitidos em planta baja e esplanada",
+          "mustTryPt": "Pizza Margherita, Marinara, vinhos italianos naturais",
+          "tipPt": "Acércate al principio da noite: a planta de arriba é só para adultos e mais tranquila, ideal para cães sensibles al ruido."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Dónde se concentran más las direcciones dog-friendly?",
           "a": "Church Road y Western Road en Hove para cafés, el paseo marítimo de Hove desde Rockwater hasta el Lawns Café, y la zona de New Road / Pavilion Gardens para terrazas."
         }
+      ],
+      "titlePt": "Restaurantes para cães em Brighton",
+      "introPt": "Brighton é uma das as cidades do Reino Unido mais fiables com cães: tigelas de água e tarros de premios são equipamiento estándar na maioria dos cafés, e basta uma rápida ojeada a cualquier carta do passeio marítimo para encontrar 'dogs welcome' antes que cualquier plato. North Laine, Kemptown e o passeio marítimo de Hove concentran a mayor parte das direções realmente pet-friendly. Os três lugares siguientes aparecen em varias guias locales e têm políticas de animais bem documentadas.",
+      "tipsPt": [
+        "A maioria dos pubs de Brighton aceitam cães por defecto: mesmo sem cartaz explícito, rara vez rechazan a um cão tranquilo numa mesa apartada da barra.",
+        "As lojas independientes de The Lanes também admiten cães com trela; a norma é preguntar, mas a respuesta casi sempre é sí.",
+        "Evita as grandes cadenas de café de Western Road se quieres sentarte dentro com cão: são mais estrictas que os cafés independientes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Os restaurantes de Brighton cobran pelo tigela de água?",
+          "a": "Não: a tigela de água é grátis em todo Brighton. Muitos cafés ofrecen também premios sem coste; sitios como Rockwater o The New Club têm tarros específicos."
+        },
+        {
+          "q": "¿Se admiten cães nos pubs de Brighton?",
+          "a": "Na gran mayoría, sí. Os pubs de Brighton siguen a convención británica: cães admitidos na zona de barra, a vezes restringidos não comedor. Um cartaz o pegatina na entrada lo aclara."
+        },
+        {
+          "q": "¿Dónde se concentran mais as direções pet-friendly?",
+          "a": "Church Road e Western Road em Hove para cafés, o passeio marítimo de Hove a partir de Rockwater até o Lawns Café, e a zona de New Road / Pavilion Gardens para esplanadas."
+        }
       ]
     },
     "parks": {
@@ -179,7 +212,15 @@
           "tip": "The lawn opposite Hove Lawns Café is the social hub — locals meet there with dogs every evening between 17:00 and 19:00.",
           "tipFr": "La pelouse face au Hove Lawns Café est le point social — les habitants y retrouvent leurs chiens chaque soir entre 17h et 19h.",
           "tipEs": "El césped frente al Hove Lawns Café es el punto social: los vecinos se reúnen ahí con sus perros cada tarde entre las 17:00 y las 19:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hove+Lawns"
+          "googleMapsUrl": "https://maps.google.com/?q=Hove+Lawns",
+          "descriptionPt": "Franja de relva marítimo de 1,2 km que va a partir da estatua do Ángel da Paz até a Fourth Avenue, o espacio sem trela mais popular da cidade. Os cães corren libres pelo relva: a trela só é obrigatória não passeio pavimentado adyacente. A praia justo a sul da cafetería também é pet-friendly o ano inteiro, lo que a torna não passeio combinado mais fiable de Brighton.",
+          "amenitiesPt": [
+            "Sem trela o ano inteiro",
+            "Praia pet-friendly contigua",
+            "Vistas al mar",
+            "Aseos públicos"
+          ],
+          "tipPt": "O relva frente al Hove Lawns Café é o punto social: os vecinos se reúnen ahí com os seus cães cada tarde entre as 17:00 e as 19:00."
         },
         {
           "name": "Preston Park",
@@ -214,7 +255,15 @@
           "tip": "Take the train to Preston Park station — it sits at the eastern entrance, so you skip the climb from the city centre.",
           "tipFr": "Prenez le train jusqu'à la gare de Preston Park — elle est à l'entrée est, ce qui évite la montée depuis le centre.",
           "tipEs": "Toma el tren hasta la estación de Preston Park: está en la entrada este, así te ahorras la subida desde el centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Preston+Park+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=Preston+Park+Brighton",
+          "descriptionPt": "O mayor parque urbano de Brighton, com 26 hectáreas, amplias pradarias, árvores maduros e a histórica Rockery al outro lado de London Road. Os cães podem ir sem trela na mayor parte do relva, com restricciones alrededor dos greens de bolos, as pistas de tenis e a zona infantil. O Rotunda Café tem tigelas de água e mesas exteriores para cães.",
+          "amenitiesPt": [
+            "Céspedes principales sem trela",
+            "Cafetería com tigelas de água",
+            "Estação de comboio al lado",
+            "Jardim de rocas amurallado"
+          ],
+          "tipPt": "Toma o comboio até a estação de Preston Park: está na entrada este, así te ahorras a subida a partir do centro."
         },
         {
           "name": "Stanmer Park",
@@ -249,7 +298,15 @@
           "tip": "Bus 25 from Old Steine runs straight to the park entrance every 10 minutes — easier than driving on weekends when parking fills.",
           "tipFr": "Le bus 25 d'Old Steine va directement à l'entrée du parc toutes les 10 minutes — plus simple que la voiture le week-end quand le parking sature.",
           "tipEs": "El autobús 25 desde Old Steine va directamente a la entrada del parque cada 10 minutos: más fácil que ir en coche los fines de semana, cuando el aparcamiento se llena.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stanmer+Park+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=Stanmer+Park+Brighton",
+          "descriptionPt": "Finca señorial de 200 hectáreas a as puertas do parque nacional South Downs, com floresta, pradarias e a aldea de Stanmer. Os cães são bem-vindos em todo o recinto, sem trela na mayor parte do parque, mas a trela é obrigatória alrededor da granja em activo e as zonas de pastoreo, claramente señalizadas. O passeio mais ambicioso da red de parques pet-friendly de Brighton.",
+          "amenitiesPt": [
+            "Mayoritariamente sem trela",
+            "Trilhos dos South Downs",
+            "Granja em activo (zonas com trela)",
+            "Aparcamiento gratuito"
+          ],
+          "tipPt": "O autocarro 25 a partir de Old Steine va directamente a entrada do parque cada 10 minutos: mais fácil que ir de carro os fines de semana, quando o aparcamiento se cheia."
         }
       ],
       "tipsEn": [
@@ -308,6 +365,27 @@
           "q": "¿Puede mi perro caminar por los senderos de los South Downs desde Brighton?",
           "a": "Sí: Stanmer Park conecta directamente con el sendero de larga distancia South Downs Way. Mantén al perro con correa cerca del ganado; sin correa va bien en las llanuras abiertas."
         }
+      ],
+      "titlePt": "Melhores parques para cães em Brighton",
+      "introPt": "Brighton & Hove tem nove grandes parques abertos a cães e varios espacios abertos amplios, a partir do cuidado Preston Park até as laderas boscosas de Stanmer. A política sem trela costuma ser flexible nos espacios verdes (sempre que o cão esté controlado), com restricciones só perto de zonas infantiles de juego, campos deportivos e zonas de pastoreo. Lleva sempre bolsas: o ayuntamiento impone multas fijas pelas deposiciones.",
+      "tipsPt": [
+        "Sem trela é a regla por defecto na maioria dos parques de Brighton; as excepciones são as zonas infantiles, os campos deportivos e os jardins formales de Pavilion, onde a trela é obrigatória.",
+        "Stanmer Park tem vacas e ovejas o ano inteiro: lleva al cão com trela perto da granja e os lindes dos pastos.",
+        "O ayuntamiento de Brighton & Hove aplica uma multa fija de 100 £ por não recoger as deposiciones; hay papeleras em cada entrada de parque."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo soltar al cão no centro de Brighton?",
+          "a": "Hove Lawns é a opción central principal (sem trela o ano inteiro), Queen's Park tem zonas específicas sem trela, e as pradarias principales de Preston Park admiten cães sueltos."
+        },
+        {
+          "q": "¿Hay parques caninos vallados em Brighton?",
+          "a": "Brighton não tem parques caninos municipales totalmente fechados. Sem trela está permitido por defecto nos espacios verdes abertos, sempre que o dueño mantenga o control."
+        },
+        {
+          "q": "¿Pode mi cão caminhar pelos trilhos dos South Downs a partir de Brighton?",
+          "a": "Sí: Stanmer Park conecta directamente com o trilho de longa distancia South Downs Way. Mantén al cão com trela perto do ganado; sem trela va bem nas llanuras abertas."
+        }
       ]
     },
     "transport": {
@@ -334,7 +412,10 @@
           "tip": "Avoid peak hours 08:00–09:30 and 16:30–18:30 with a large dog — buses fill up and the driver may refuse boarding.",
           "tipFr": "Évitez les heures de pointe 08h–09h30 et 16h30–18h30 avec un grand chien — les bus se remplissent et le conducteur peut refuser l'embarquement.",
           "tipEs": "Evita las horas punta 08:00–09:30 y 16:30–18:30 con un perro grande: los autobuses se llenan y el conductor puede rechazar la subida.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brighton+North+Street+bus+stop"
+          "googleMapsUrl": "https://maps.google.com/?q=Brighton+North+Street+bus+stop",
+          "descriptionPt": "A premiada red local de autocarros cubre o centro de Brighton, Hove e os pueblos cercanos. Os cães viajan grátis, sem necesidad de bilhete. O límite estándar é de dos cães por viajero; para mais se necesita autorización do conductor. Os cães devem ir não solo o não regazo do dueño, nunca nos asientos.",
+          "petPolicyPt": "Até 2 cães grátis; só não solo o regazo; criterio do conductor se va cheio",
+          "tipPt": "Evita as horas punta 08:00–09:30 e 16:30–18:30 com um cão grande: os autocarros se llenan e o conductor pode rechazar a subida."
         }
       ],
       "tipsEn": [
@@ -393,6 +474,27 @@
           "q": "¿Se admiten perros en el Brighton Palace Pier?",
           "a": "No: solo perros de asistencia pueden subir al muelle. Los cafés del extremo de tierra, la playa y el Volk's Electric Railway al lado siguen siendo dog-friendly."
         }
+      ],
+      "titlePt": "Transporte para animais em Brighton",
+      "introPt": "A infraestructura de transporte de Brighton é uma das as mais pet-friendly do Reino Unido. Brighton & Hove Buses admite cães grátis em todas as líneas, os comboios Southern Railway e Thameslink aceitam até dos animais por viajero sem coste, e o Volk's Electric Railway — o trenecito do passeio marítimo — admite explicitamente cães com trela. A única excepción é o Brighton Palace Pier, onde só se admiten cães de assistência sobre as tablas.",
+      "tipsPt": [
+        "Nos comboios Southern e Thameslink, até dos cães viajan grátis por bilhete adulto; as animais pequeñas devem ir em transportadora de menos de 85 x 60 x 60 cm.",
+        "O Volk's Electric Railway (passeio marítimo de Brighton, março–outubro) admite cães com trela em cada vagón: muito popular entre terriers e razas toy.",
+        "As reglas dos taxis black-cab e Uber dependen do conductor; menciona al cão al reservar e deja uma buena propina, sobretudo com patas com areia tras a praia."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Os cães viajan grátis nos autocarros de Brighton?",
+          "a": "Sí: Brighton & Hove Buses não cobra pelos cães. Até dos por viajero; para mais se necesita autorización do conductor."
+        },
+        {
+          "q": "¿Puedo levar a mi cão não comboio de London Victoria a Brighton?",
+          "a": "Sí: Southern e Thameslink admiten até dos cães grátis por bilhete adulto. O trayecto dura perto de uma hora."
+        },
+        {
+          "q": "¿Se admiten cães não Brighton Palace Pier?",
+          "a": "Não: só cães de assistência podem subir al muelle. Os cafés do extremo de tierra, a praia e o Volk's Electric Railway al lado siguen siendo pet-friendly."
+        }
       ]
     },
     "beaches": {
@@ -419,7 +521,10 @@
           "tip": "Walk west toward the lagoon — fewer people and the pebbles get smaller and easier on paws.",
           "tipFr": "Marchez vers l'ouest jusqu'au lagon — moins de monde et les galets deviennent plus petits, plus doux pour les pattes.",
           "tipEs": "Camina hacia el oeste hasta la laguna: menos gente y los guijarros son más pequeños, más amables con las patas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hove+Lawns+Cafe+beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Hove+Lawns+Cafe+beach",
+          "descriptionPt": "A praia para cães mais fiable da cidade, delante e justo al este do Hove Lawns Café. Os cães se admiten o ano inteiro, mesmo durante a prohibición estival que afecta a mayor parte do passeio marítimo central. Guijarros em lugar de areia, com uma pendiente suave para o mar; tigelas de água disponibles fora da cafetería.",
+          "petPolicyPt": "Sem trela o ano inteiro, incluido do 1 may ao \\10 sep",
+          "tipPt": "Camina para o oeste até a laguna: menos gente e os guijarros são mais pequeños, mais amables com as patas."
         },
         {
           "name": "Saltdean Beach",
@@ -437,7 +542,10 @@
           "tip": "Check the tide table — at low tide you can walk all the way back to the Marina along the Undercliff Walk in 90 minutes.",
           "tipFr": "Consultez l'horaire des marées — à marée basse, on peut rentrer à pied jusqu'à la Marina par l'Undercliff Walk en 1h30.",
           "tipEs": "Consulta la tabla de mareas: con bajamar se puede volver a pie hasta la Marina por el Undercliff Walk en hora y media.",
-          "googleMapsUrl": "https://maps.google.com/?q=Saltdean+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Saltdean+Beach",
+          "descriptionPt": "Amplia cala de guijarros não extremo este do término de Brighton & Hove, enmarcada por acantilados de creta. Os cães se admiten o ano inteiro, com tolerancia para soltarlos quando a praia está tranquila. Mareas importantes: com bajamar aparece uma franja longa de areia plana. O Undercliff Walk lleva de vuelta para Brighton Marina, totalmente pet-friendly com trela.",
+          "petPolicyPt": "Cães admitidos o ano inteiro; sem trela tolerado quando hay pouca gente",
+          "tipPt": "Consulta a tabla de mareas: com bajamar se pode volver a pé até a Marina pelo Undercliff Walk em hora e media."
         },
         {
           "name": "Brighton Central Beach (winter only)",
@@ -455,7 +563,10 @@
           "tip": "October and April are the sweet spots — beach access without summer crowds, no ban.",
           "tipFr": "Octobre et avril sont les meilleurs mois — accès plage sans foule estivale, sans interdiction.",
           "tipEs": "Octubre y abril son los mejores meses: acceso a la playa sin la masa veraniega y sin prohibición.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brighton+seafront+beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Brighton+seafront+beach",
+          "descriptionPt": "Do 1 de outubro ao \\10 de abril, toda a praia central de Brighton — guijarros, casetas de praia e arcadas — abre aos cães sem trela. Do 1 de maio ao \\10 de setembro, os cães não estão admitidos em este tramo a ninguna hora. O passeio invernal entre ambos muelles é uma das as grandes experiencias costeras do Reino Unido com cão, com olas que rompen e casi nadie alrededor.",
+          "petPolicyPt": "Sem trela do 1 oct ao \\10 abr; prohibido do 1 may ao \\10 sep",
+          "tipPt": "Outubro e abril são os melhores meses: acceso a praia sem a masa veraniega e sem prohibición."
         }
       ],
       "tipsEn": [
@@ -514,6 +625,27 @@
           "q": "¿Es la playa de Brighton dog-friendly en invierno?",
           "a": "Sí: todas las playas de Brighton & Hove admiten perros del 1 de octubre al 30 de abril, incluido el paseo marítimo central. El invierno es la mejor temporada para unas vacaciones costeras con perro en Brighton."
         }
+      ],
+      "titlePt": "Praias pet-friendly em Brighton",
+      "introPt": "Brighton & Hove aplica um calendario estricto de praias: os cães são bem-vindos em todas as praias do 1 de outubro ao \\10 de abril, e numa lista de praias designadas o resto do ano. Lleva sempre bolsas e mantén al cão bem controlado: não hay prohibición de soltarlos em ningún momento, mas hay agentes de control que patrullan em verão. Os cães devem ir com trela não passeio pavimentado.",
+      "tipsPt": [
+        "O mapa municipal de praias para cães de Brighton & Hove lista cada praia permanente e estacional com os seus límites exactos: imprime o haz captura antes de ir.",
+        "As praias de Brighton são de guijarros, não de areia: não costuma hacer falta protección de patas, mas os cães sensibles preferirán os tramos de areia com bajamar.",
+        "Cuidado com os acantilados de Saltdean e Rottingdean: a creta cae com frecuencia e o cerco superior é limitado em algunos puntos."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo levar al cão na praia de Brighton em verão?",
+          "a": "Hove Lawns Beach (delante e al este do café), Saltdean Beach, Rottingdean Beach e a zona específica de Carats Café. A praia central entre os dos muelles está fechada a cães do 1 de maio ao \\10 de setembro."
+        },
+        {
+          "q": "¿Podem ir os cães sem trela nas praias de Brighton?",
+          "a": "Não hay prohibición de soltarlos: os cães podem correr libres nas praias pet-friendly o ano inteiro. A obligación de trela só se aplica al passeio pavimentado."
+        },
+        {
+          "q": "¿É a praia de Brighton pet-friendly em inverno?",
+          "a": "Sí: todas as praias de Brighton & Hove admiten cães do 1 de outubro ao \\10 de abril, incluido o passeio marítimo central. O inverno é a melhor temporada para umas vacaciones costeras com cão em Brighton."
+        }
       ]
     },
     "vets": {
@@ -538,7 +670,9 @@
           "tip": "Save the number before you arrive — the same line covers most of Brighton's smaller clinics out of hours.",
           "tipFr": "Enregistrez le numéro avant votre arrivée — la même ligne couvre la plupart des petites cliniques de Brighton hors horaires.",
           "tipEs": "Guarda el número antes de llegar: la misma línea cubre la mayoría de las clínicas pequeñas de Brighton fuera de horario.",
-          "googleMapsUrl": "https://maps.google.com/?q=Coastway+Vets+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=Coastway+Vets+Brighton",
+          "descriptionPt": "O mayor grupo veterinário independiente da cidade, com o hospital de urgências original Vetcall 24 horas em Freshfield Way. Equipado para cirugía, diagnóstico por imagen e cuidados intensivos, actúa como socio regional fora de horario para varias clínicas mais pequeñas. Angloparlante — lógicamente — e acostumbrado a visitantes internacionais.",
+          "tipPt": "Guarda o número antes de chegar: a mesma línea cubre a maioria das clínicas pequeñas de Brighton fora de horario."
         },
         {
           "name": "Vets4Pets Brighton",
@@ -554,7 +688,9 @@
           "tip": "Park in the Marina underground car park (free for the first 90 minutes) and walk through the superstore to the practice.",
           "tipFr": "Garez-vous au parking souterrain de la Marina (90 premières minutes gratuites) et traversez le superstore jusqu'à la clinique.",
           "tipEs": "Aparca en el parking subterráneo de la Marina (los primeros 90 minutos gratis) y cruza el megacentro hasta la consulta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+Brighton+Marina"
+          "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+Brighton+Marina",
+          "descriptionPt": "Sucursal da cadena nacional dentro do megacentro Pets at Home em Brighton Marina, útil para consultas rutinarias, vacinações e revisión de documentos de viaje. Reserva online com citas o mesmo dia a menudo disponibles, e acceso directo a todos os productos estándar de Pets at Home tras a consulta.",
+          "tipPt": "Aparca não parking subterráneo da Marina (os primeros 90 minutos grátis) e cruza o megacentro até a consulta."
         }
       ],
       "tipsEn": [
@@ -612,6 +748,27 @@
         {
           "q": "¿Los veterinarios de urgencia solo aceptan efectivo?",
           "a": "No: Coastway y la mayoría de las clínicas de urgencias de Brighton aceptan todas las tarjetas y contactless. Las tarifas son más altas que las de día; una consulta de urgencia suele empezar en 150 £."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Brighton — Hospitales e clínicas veterinárias",
+      "introPt": "Brighton cuenta com uma densa red veterinária liderada por Coastway Veterinary Group, que opera o principal hospital de urgências 24 horas da cidade. A cobertura fora de horario se canaliza a través do mesmo hospital para a maioria das consultas locales, así que um único número te conecta com a atención nocturna. Cadenas grandes como Vets4Pets e Medivet também operan na zona, com consultas diurnas fáceis de reservar em línea.",
+      "tipsPt": [
+        "Se llegas a partir de fuera do Reino Unido, lleva o certificado sanitario o passaporte europeu de tu animal: os veterinários de Brighton estão muito acostumbrados a tramitar documentos de entrada.",
+        "A maioria dos veterinários de Brighton aceitam tarjeta e pagos por móvil; algunos siguen pidiendo um depósito antes do tratamento se não estás registrado.",
+        "O hospital PDSA de Brighton está dirigido a clientes com bajos ingresos e animais preinscritas: não é uma opción de urgências para visitantes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário 24 horas mais cercano al centro de Brighton?",
+          "a": "O hospital de Coastway Veterinary Group em Freshfield Way (BN2 0DF), a uns 10 minutos de carro do passeio marítimo. Teléfono: +44 1273 692 257."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a partir da UE a um veterinário de Brighton?",
+          "a": "Sí: as clínicas británicas atienden com normalidad a animais registradas na UE. Lleva o passaporte europeu / certificado sanitario; a maioria das clínicas emite factura em inglés para cualquier reclamación al seguro."
+        },
+        {
+          "q": "¿Os veterinários de urgência só aceitam efectivo?",
+          "a": "Não: Coastway e a maioria das clínicas de urgências de Brighton aceitam todas as tarjetas e contactless. As tarifas são mais altas que as de dia; uma consulta de urgência costuma empezar em 150 £."
         }
       ]
     },
@@ -679,6 +836,27 @@
           "q": "¿Puede mi perro visitar el Royal Pavilion o el Brighton Pier?",
           "a": "Solo se admiten perros de asistencia en el Royal Pavilion (interior) y en el Brighton Palace Pier. El Royal Pavilion Garden, The Lanes y el Volk's Electric Railway son dog-friendly con correa."
         }
+      ],
+      "titlePt": "Consejos prácticos para viajar com tu animal a Brighton",
+      "introPt": "Brighton é uma das as cidades do Reino Unido mais sencillas para viajar com cão: animais grátis nos autocarros, cafés pet-friendly cada 100 metros não passeio marítimo e o parque nacional South Downs empieza a 5 km do centro. Lo único que hay que planificar é o calendario estival de praia (1 may-30 sep na maioria das praias centrales). Os consejos siguientes cubren as poucas reglas que de verdad importan.",
+      "tipsPt": [
+        "A prohibición estacional de praia (1 may–30 sep) cubre o passeio marítimo central: usa Hove Lawns Beach, Saltdean o Rottingdean, abertas o ano inteiro.",
+        "Guarda o número de urgências 24 h de Coastway +44 1273 692 257 não móvil: cubre a maioria das clínicas pequeñas de Brighton pela noite.",
+        "O ayuntamiento de Brighton & Hove impone uma multa fija de 100 £ por não recoger as deposiciones; hay papeleras em cada entrada de parque e acceso a praia."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Brighton uma buena cidade para viajar com cão?",
+          "a": "Excelente: entre as cidades do Reino Unido mais pet-friendly. Autocarros grátis, praias para cães o ano inteiro em Hove Lawns e Saltdean, abundantes cafés e pubs pet-friendly, e o parque nacional South Downs a um paso. Só hay que ter em cuenta a prohibición estival na praia central."
+        },
+        {
+          "q": "¿Qué documentos necesito para levar a mi cão a Brighton a partir da UE?",
+          "a": "A partir do Brexit, o passaporte europeu de animais já não sirve para entrar não Reino Unido. Hace falta um certificado sanitario (Animal Health Certificate, AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacinação antirrábica e o tratamento contra equinococos em cães."
+        },
+        {
+          "q": "¿Pode mi cão visitar o Royal Pavilion o Brighton Pier?",
+          "a": "Só se admiten cães de assistência não Royal Pavilion (interior) e não Brighton Palace Pier. O Royal Pavilion Garden, The Lanes e o Volk's Electric Railway são pet-friendly com trela."
+        }
       ]
     },
     "attractions": {
@@ -705,7 +883,10 @@
           "tip": "Visit late afternoon — golden light on the white domes is the classic Brighton photograph.",
           "tipFr": "Venez en fin d'après-midi — la lumière dorée sur les dômes blancs est la photo classique de Brighton.",
           "tipEs": "Ve a última hora de la tarde: la luz dorada sobre las cúpulas blancas es la foto clásica de Brighton.",
-          "googleMapsUrl": "https://maps.google.com/?q=Royal+Pavilion+Garden+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=Royal+Pavilion+Garden+Brighton",
+          "descriptionPt": "Jardim público e gratuito que rodea o palácio indo-sarraceno de Jorge IV. Os cães com trela são bem-vindos por todo o relva e os parterres históricos da Regencia, com o icónico Pavilion como telón de fondo fotográfico. O jardim conecta o passeio marítimo, North Laine e Old Steine num circuito a pé de media jornada.",
+          "petPolicyPt": "Cães admitidos com trela; não admitidos no interior do Pavilion",
+          "tipPt": "Ve a última hora da tarde: a luz dorada sobre as cúpulas blancas é a foto clásica de Brighton."
         },
         {
           "name": "Volk's Electric Railway",
@@ -723,7 +904,10 @@
           "tip": "Take the eastbound train to Black Rock, walk the Undercliff to Saltdean Beach, then bus 12 back — a perfect dog-friendly day.",
           "tipFr": "Prenez le train vers l'est jusqu'à Black Rock, descendez l'Undercliff jusqu'à Saltdean Beach, puis le bus 12 retour — journée dog-friendly parfaite.",
           "tipEs": "Toma el tren hacia el este hasta Black Rock, recorre el Undercliff hasta Saltdean Beach y vuelve en el bus 12: jornada dog-friendly perfecta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Volk's+Electric+Railway+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=Volk's+Electric+Railway+Brighton",
+          "descriptionPt": "O ferrocarril eléctrico mais antigo do mundo aún em funcionamiento, construido em 1883, recorre o passeio marítimo a partir da estação Aquarium junto ao Palace Pier até Black Rock, perto da Marina, com uma paragem intermedia. Os cães com trela estão admitidos explicitamente em cada vagón sem coste extra. Aberto de março a outubro.",
+          "petPolicyPt": "Cães com trela admitidos em cada vagón, sem coste adicional",
+          "tipPt": "Toma o comboio para o este até Black Rock, recorre o Undercliff até Saltdean Beach e vuelve não bus 12: jornada pet-friendly perfeita."
         },
         {
           "name": "The Lanes & North Laine",
@@ -741,7 +925,10 @@
           "tip": "Saturday afternoons get crowded — Sunday morning is calmer for a quiet shopping circuit with a dog.",
           "tipFr": "Les samedis après-midi sont bondés — le dimanche matin est plus calme pour un circuit shopping tranquille avec un chien.",
           "tipEs": "Los sábados por la tarde se llenan: el domingo por la mañana es más tranquilo para un circuito de compras con perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Lanes+Brighton"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Lanes+Brighton",
+          "descriptionPt": "Os dos distritos comerciales gemelos de Brighton: o histórico The Lanes (ruelas estrechos, joyería e antigüedades) e o bohemio North Laine (lojas independientes, cafés, vintage). A maioria das lojas independientes admiten cães com trela sem problema; muitas têm tigelas de água na puerta. A rua principal empedrada é perfeita para um passeio canino icónico entre cafés.",
+          "petPolicyPt": "Cães admitidos com trela na maioria das lojas independientes",
+          "tipPt": "Os sábados pela tarde se llenan: o domingo pela manhã é mais tranquilo para um circuito de compras com cão."
         }
       ],
       "tipsEn": [
@@ -800,6 +987,27 @@
           "q": "¿Es Brighton Marina dog-friendly?",
           "a": "Al aire libre, sí: los muelles, la clínica Vets4Pets y la mayoría de las terrazas admiten perros. Los locales cerrados varían; cines y restaurantes de cadena suelen no admitir mascotas."
         }
+      ],
+      "titlePt": "Atracciones para animais em Brighton",
+      "introPt": "As atracciones emblemáticas de Brighton se dividen claramente entre 'cães admitidos' e 'só cães de assistência'. O interior do Royal Pavilion e o Brighton Palace Pier estão vetados, mas os seus inmediaciones — o Royal Pavilion Garden, The Lanes, o Volk's Electric Railway e todo o passeio marítimo — são pet-friendly. A continuación, três puntos al aire libre onde as animais forman parte da visita.",
+      "tipsPt": [
+        "O Brighton Palace Pier só admite cães de assistência, mas os cafés do extremo de tierra e a praia justo al este são pet-friendly fora de temporada.",
+        "O interior do Royal Pavilion está vetado a as animais; o jardim, em cambio, é um dos os melhores passeios caninos gratuitos da cidade.",
+        "Brighton Marina é pet-friendly al aire libre e na maioria dos cafés exteriores; o cine da Marina e a maioria dos restaurantes de cadena ali não."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão visitar o muelle de Brighton?",
+          "a": "Não: só cães de assistência podem subir al Brighton Palace Pier. Os cafés do extremo de tierra e o passeio marítimo siguen siendo totalmente pet-friendly."
+        },
+        {
+          "q": "¿Cuál é o melhor dia pet-friendly em Brighton?",
+          "a": "Pasea pelo Royal Pavilion Garden, recorre The Lanes, almuerza numa esplanada do passeio marítimo (Rockwater o The New Club), después toma o Volk's Electric Railway até Black Rock e vuelve por Hove Lawns Beach."
+        },
+        {
+          "q": "¿É Brighton Marina pet-friendly?",
+          "a": "Al aire libre, sí: os muelles, a clínica Vets4Pets e a maioria das esplanadas admiten cães. Os locales fechados varían; cines e restaurantes de cadena costumam não admitir animais."
+        }
       ]
     },
     "petsitting": {
@@ -820,7 +1028,9 @@
           "descriptionEs": "Plataforma de pago de referencia en el Reino Unido para el cuidado de perros, con cientos de cuidadores verificados en Brighton que ofrecen paseos, visitas y alojamiento nocturno. Todas las reservas están aseguradas mediante la plataforma y los paseos incluyen seguimiento GPS. Útil para visitas cortas a museos o excursiones de día completo a los South Downs sin perro.",
           "tip": "Book at least 24 hours ahead in summer — sitters near the seafront fill fastest in July and August.",
           "tipFr": "Réservez au moins 24h à l'avance l'été — les sitters proches du front de mer sont les premiers complets en juillet-août.",
-          "tipEs": "Reserva al menos 24 horas antes en verano: los cuidadores cerca del paseo marítimo se llenan antes en julio y agosto."
+          "tipEs": "Reserva al menos 24 horas antes en verano: los cuidadores cerca del paseo marítimo se llenan antes en julio y agosto.",
+          "descriptionPt": "Plataforma de pago de referencia não Reino Unido para o cuidado de cães, com cientos de cuidadores verificados em Brighton que ofrecen passeios, visitas e alojamento nocturno. Todas as reservas estão aseguradas mediante a plataforma e os passeios incluyen seguimiento GPS. Útil para visitas cortas a museus o excursiones de dia completo aos South Downs sem cão.",
+          "tipPt": "Reserva al menos 24 horas antes em verão: os cuidadores perto do passeio marítimo se llenan antes em julho e agosto."
         }
       ],
       "tipsEn": [
@@ -878,6 +1088,27 @@
         {
           "q": "¿Los hoteles ofrecen servicio de cuidado en Brighton?",
           "a": "Algunos hoteles de gama alta (Drakes, The Grand Brighton) pueden organizar un cuidador vía conserjería con coste adicional. Confírmalo siempre al reservar."
+        }
+      ],
+      "titlePt": "Cuidado e passeio de cães em Brighton",
+      "introPt": "Brighton tem uma sólida red independiente de serviços para cães, além disso das dos principales plataformas británicas — Tailster e BorrowMyDoggy — ambas com buena cobertura na cidade. Tailster gestiona cuidadores e paseadores de pago com seguro incluido; BorrowMyDoggy é uma comunidad gratuita que pone em contacto a voluntarios locales com dueños de cão a cambio de companhia. Os paseadores independientes também encontram-se fácilmente não registro de actividades para animais do ayuntamiento de Brighton & Hove.",
+      "tipsPt": [
+        "Tarifas medias: visita 15 £, passeio 12-15 £, dia completo 30-40 £, noite 35-45 £: Brighton está na franja media do Reino Unido.",
+        "BorrowMyDoggy é gratuito e ideal para estadias longas: um voluntario local pasea a tu cão mientras estás numa visita. O emparejamiento tarda dos o três dias, así que planifícalo.",
+        "Os paseadores independientes locales se concentran perto de Hove Lawns e Preston Park; pregunta não Hove Lawns Café: os habituales conocen os buenos nombres."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo encontrar um cuidador de cães em Brighton sem muita antelación?",
+          "a": "Tailster é lo mais rápido: a maioria dos cuidadores de pago confirman em poucas horas. Filtra por al menos 20 opiniones e comprueba a opción de passeio com GPS."
+        },
+        {
+          "q": "¿Estão regulados os paseadores em Brighton?",
+          "a": "O ayuntamiento de Brighton & Hove exige licencia a quien pasee mais de quatro cães a vez em terreno municipal. Os cuidadores de Tailster e BorrowMyDoggy estão asegurados mediante as plataformas."
+        },
+        {
+          "q": "¿Os hotéis ofrecen serviço de cuidado em Brighton?",
+          "a": "Algunos hotéis de gama alta (Drakes, The Grand Brighton) podem organizar um cuidador vía conserjería com coste adicional. Confírmalo sempre al reservar."
         }
       ]
     }

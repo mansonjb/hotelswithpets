@@ -33,7 +33,11 @@
           "tip": "Polish menu translated EN — order at the counter, eat at the courtyard tables. Vegan pierogi options are excellent.",
           "tipFr": "Menu polonais traduit en anglais — commandez au comptoir, mangez dans la cour. Les pierogi végans sont excellents.",
           "tipEs": "Menú polaco traducido al inglés — pide en la barra, come en el patio. Los pierogi veganos son excelentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pierogarnia+Mandu+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Pierogarnia+Mandu+Gdansk",
+          "descriptionPt": "Bar de pierogi tradicional sirviendo mais de 40 variedades — carne, setas, frutas, vegano. Cães bem-vindos não patio delantero o ano inteiro e na sala trasera fuera do pico do almoço (12:00-14:30).",
+          "petPolicyPt": "Cães em patio o ano inteiro; sala trasera fora de horas punta",
+          "mustTryPt": "Pierogi ruskie, pierogi de arándanos, sopa żurek",
+          "tipPt": "Menú polaco traducido al inglés — pide na barra, come não patio. Os pierogi veganos são excelentes."
         },
         {
           "name": "Brovarnia Gdańsk",
@@ -55,7 +59,11 @@
           "tip": "The riverside terrace at sunset is the iconic Gdansk dog-watching spot — book ahead in summer (June-August) for the front row.",
           "tipFr": "La terrasse riveraine au coucher du soleil est le coin canin iconique de Gdansk — réservez à l'avance en été (juin-août) pour la première rangée.",
           "tipEs": "La terraza ribereña al atardecer es el rincón canino icónico de Gdansk — reserva con antelación en verano (junio-agosto) para la primera fila.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brovarnia+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Brovarnia+Gdansk",
+          "descriptionPt": "Cervecería artesanal e restaurante no hotel Gdańsk junto ao rio Motława — cozinha polaco-pomerana regional, seis cervejas da casa elaboradas in situ. Cães bem-vindos na esplanada ribereña o ano inteiro, não solo dentro fora de horas punta.",
+          "petPolicyPt": "Cães em esplanada o ano inteiro; em solo interior fora de horas punta",
+          "mustTryPt": "Cerveja de trigo Brovarnia Pszeniczne, ganso pomerano, sopa de remolacha",
+          "tipPt": "A esplanada ribereña al atardecer é o rincón canino icónico de Gdansk — reserva com antelación em verão (junho-agosto) para a primera fila."
         },
         {
           "name": "Cafe Józef K",
@@ -77,7 +85,11 @@
           "tip": "The window seat overlooks Piwna street with St. Mary's Basilica visible — best Instagram-and-dog spot in Gdansk.",
           "tipFr": "La place près de la fenêtre donne sur la rue Piwna avec la basilique Saint-Marie visible — meilleur spot Instagram-et-chien de Gdansk.",
           "tipEs": "El asiento junto a la ventana da a la calle Piwna con la basílica de Santa María a la vista — mejor sitio Instagram-y-perro de Gdansk.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Jozef+K+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Jozef+K+Gdansk",
+          "descriptionPt": "Café-bar bohemio llamado em honor a Kafka — café de especialidad, brunch vegetariano, mobiliario vintage. Cães bem-vindos em toda a pequeña sala; boles na puerta o ano inteiro.",
+          "petPolicyPt": "Cães bem-vindos em todo o lado",
+          "mustTryPt": "Flat white de especialidad, sernik (tarta de queso polaca), brunch vegano",
+          "tipPt": "O asiento junto a ventana da a rua Piwna com a basílica de Santa María a vista — melhor sitio Instagram-e-cão de Gdansk."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Puedo conseguir un pierogi vegetariano?",
           "a": "Sí. Pierogarnia Mandu y la mayoría de bares de pierogi de Gdansk sirven más de 10 variedades vegetarianas y veganas: ruskie (patata-queso), espinacas-feta, setas, arándanos. La oferta vegana se ha quintuplicado desde 2020."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Gdansk",
+      "introPt": "A cultura do café polaca em Gdansk é fiablemente pet-friendly — os cães com trela são admitidos em esplanadas por defecto, os boles aparecen sem pedirlos, e o Długi Targ e a rua Mariacka concentran as melhores direções.",
+      "tipsPt": [
+        "A cultura do café polaca é ampliamente pet-friendly — al menos o 80 % dos cafés e bares de Gdansk admite cães com trela em esplanada o ano inteiro.",
+        "Os preços polacos siguen entre os mais asequibles de Europa — calcula 35-50 PLN (8-12 €) para uma comida de pierogi, 25-35 PLN (6-8 €) para uma cerveja artesana.",
+        "A propina se aprecia: 10 % em efectivo se o serviço não está já na cuenta (normalmente não lo está)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Gdansk?",
+          "a": "Sí na mayoría. Perto do 80 % dos cafés e bares de Gdansk admite cães com trela em esplanada, e muitos os aceitam também dentro fora de horas punta."
+        },
+        {
+          "q": "¿Puedo conseguir um pierogi vegetariano?",
+          "a": "Sí. Pierogarnia Mandu e a maioria de bares de pierogi de Gdansk sirven mais de 10 variedades vegetarianas e veganas: ruskie (patata-queso), espinacas-feta, setas, arándanos. A oferta vegana foi quintuplicado a partir de 2020."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "Cathedral organ concerts (twice daily June-September) are free and dog-friendly — leash the dog quietly during the 30-min concert.",
           "tipFr": "Les concerts d'orgue de la cathédrale (deux fois par jour de juin à septembre) sont gratuits et dog-friendly — gardez le chien en laisse calme pendant le concert de 30 min.",
           "tipEs": "Los conciertos de órgano de la catedral (dos veces al día de junio a septiembre) son gratis y dog-friendly — mantén al perro con correa tranquilo durante el concierto de 30 min.",
-          "googleMapsUrl": "https://maps.google.com/?q=Park+Oliwski+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Park+Oliwski+Gdansk",
+          "leashRulePt": "Com trela o ano inteiro; uma zona canina vallada",
+          "descriptionPt": "O parque mais bello de Gdansk — jardim paisajístico do século XVII contiguo a catedral de Oliwa, palmera, estanques ornamentales, museu de arte Pałac Opatów. Entrada libre, pet-friendly com cães com trela e zona canina vallada na esquina sureste.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Café",
+            "Parking grátis",
+            "Conciertos de catedral"
+          ],
+          "tipPt": "Os conciertos de órgano da catedral (dos vezes ao dia de junho a setembro) são grátis e pet-friendly — mantén al cão com trela tranquilo durante o concierto de 30 min."
         },
         {
           "name": "TPK Trójmiejski Park Krajobrazowy",
@@ -202,7 +240,16 @@
           "tip": "Best access from the Łostowice gate (south Gdansk) or the Oliwa gate (north) — 15 min from the Old Town by tram + 5 min walk.",
           "tipFr": "Meilleur accès depuis la porte de Łostowice (sud de Gdansk) ou la porte d'Oliwa (nord) — 15 min depuis la Vieille Ville en tram + 5 min à pied.",
           "tipEs": "Mejor acceso desde la puerta de Łostowice (sur de Gdansk) o la puerta de Oliwa (norte) — 15 min desde el Casco Antiguo en tranvía + 5 min andando.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tri-City+Landscape+Park"
+          "googleMapsUrl": "https://maps.google.com/?q=Tri-City+Landscape+Park",
+          "leashRulePt": "Sem trela em trilhos forestales fora da temporada de nidificación",
+          "descriptionPt": "O parque paisajístico da tri-cidade — 200 km² de floresta de hayas e pinos cubriendo os bordes occidentales de Gdansk, Sopot e Gdynia. 200 km de trilhos balizados de senderismo estival e esquí de fondo invernal, acceso público libre, o mayor floresta urbano de Polonia.",
+          "amenitiesPt": [
+            "Trilhos señalizados",
+            "Parking grátis em múltiples entradas",
+            "Spots de picnic",
+            "Sem instalaciones a mitad de camino"
+          ],
+          "tipPt": "Melhor acceso a partir da puerta de Łostowice (sur de Gdansk) o a puerta de Oliwa (norte) — 15 min a partir do Centro histórico não elétrico + 5 min andando."
         },
         {
           "name": "Wisłoujście Fortress Park",
@@ -237,7 +284,16 @@
           "tip": "Combine with a Westerplatte WWII memorial visit (3 km north) — both dog-friendly outdoor, accessible by tram 8 + bus 138.",
           "tipFr": "Combinez avec une visite du mémorial Westerplatte (Seconde Guerre mondiale, 3 km au nord) — tous deux dog-friendly en extérieur, accessibles en tram 8 + bus 138.",
           "tipEs": "Combina con una visita al memorial Westerplatte (Segunda Guerra Mundial, 3 km al norte) — ambos dog-friendly en exterior, accesibles en tranvía 8 + bus 138.",
-          "googleMapsUrl": "https://maps.google.com/?q=Twierdza+Wisloujscie+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Twierdza+Wisloujscie+Gdansk",
+          "leashRulePt": "Com trela nos trilhos do fuerte; sem trela em secciones rurales de hierba",
+          "descriptionPt": "Fortaleza em estrella do século XVII na desembocadura do Vístula, rodeada de 12 tem de pradaria e trilhos a lo longo dos canais. Entrada libre, pet-friendly com cães com trela não passeio pelas muralhas (circuito de 4 km).",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Passeio pelas muralhas",
+            "Vistas aos canais",
+            "Sem instalaciones"
+          ],
+          "tipPt": "Combina com uma visita al memorial Westerplatte (Segunda Guerra Mundial, 3 km al norte) — ambos pet-friendly em exterior, acessíveis não elétrico 8 + bus 138."
         }
       ],
       "tipsEn": [
@@ -284,6 +340,23 @@
           "q": "¿Pueden los perros visitar el memorial de Westerplatte?",
           "a": "Sí — el complejo memorial al aire libre es dog-friendly con perros con correa gratis todo el año. El museo interior (Muzeum II Wojny Światowej) solo admite perros de asistencia."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Gdansk",
+      "introPt": "Gdansk está rodeada de floresta e costa báltica — o Park Oliwski centra o bairro oeste, os florestas urbanos As Otomiński e TPK Trójmiejski cubren 65 km² de trilhos sem trela, e a praia canina de Sopot está a 15 min em SKM.",
+      "tipsPt": [
+        "Gdansk tem 18 wybiegi dla psów municipales vallados (zonas sem trela) — mapa completo em gdansk.pl/psy.",
+        "A lei polaca exige trela do 1 de abril ao \\11 de agosto para proteger as aves nidificantes — aplica a florestas, parques e praias fora dos wybiegi vallados.",
+        "Lleva sempre bolsas: multa municipal por excrementos de 200 PLN (45 €), controlada pela Straż Miejska (policía municipal)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Gdansk?",
+          "a": "Sem trela permitido o ano inteiro só nos 18 wybiegi municipales vallados. Fora de ellos, a lei polaca exige trela do 1 de abril ao \\11 de agosto; de setembro a março permite sem trela na maioria de trilhos da TPK Trójmiejski."
+        },
+        {
+          "q": "¿Podem os cães visitar o memorial de Westerplatte?",
+          "a": "Sí — o complejo memorial al aire libre é pet-friendly com cães com trela grátis o ano inteiro. O museu interior (Muzeum II Wojny Światowej) só admite cães de assistência."
+        }
       ]
     },
     "transport": {
@@ -308,7 +381,10 @@
           "tip": "Polish public transport requires a muzzle for ALL dogs on board (including small dogs) — unlike Germany or Netherlands. Carry a soft muzzle in your bag.",
           "tipFr": "Les transports publics polonais exigent une muselière pour TOUS les chiens à bord (y compris les petits) — contrairement à l'Allemagne ou aux Pays-Bas. Gardez une muselière souple dans votre sac.",
           "tipEs": "El transporte público polaco exige bozal para TODOS los perros a bordo (incluidos los pequeños) — a diferencia de Alemania o Países Bajos. Lleva un bozal blando en la bolsa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gdansk+Glowny+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Gdansk+Glowny+station",
+          "descriptionPt": "ZTM Gdansk opera 11 líneas de elétrico e mais de 80 rutas de autocarro. Os cães com trela viajan grátis com bozal em todos os elétricos e buses, sem bilhete para o cão.",
+          "petPolicyPt": "Grátis com trela + bozal",
+          "tipPt": "O transporte público polaco exige bozal para Todos os cães a bordo (incluidos os pequeños) — ao contrário de Alemania o Países Bajos. Lleva um bozal blando na bolsa."
         },
         {
           "name": "SKM Tri-City Commuter Rail",
@@ -324,7 +400,10 @@
           "tip": "Gdansk Główny to Sopot SKM in 15 min — the year-round dog beach at Sopot is 10 min walk from Sopot station.",
           "tipFr": "Gdansk Główny à Sopot en SKM en 15 min — la plage canine toute l'année de Sopot est à 10 min à pied de la gare de Sopot.",
           "tipEs": "Gdansk Główny a Sopot en SKM en 15 min — la playa canina todo el año de Sopot está a 10 min andando de la estación de Sopot.",
-          "googleMapsUrl": "https://maps.google.com/?q=SKM+Gdansk+station"
+          "googleMapsUrl": "https://maps.google.com/?q=SKM+Gdansk+station",
+          "descriptionPt": "O SKM opera a línea de cercanías Tri-Cidade a partir de Gdansk vía Sopot até Gdynia (40 min de extremo a extremo, cada 7 min em hora punta). Os cães com trela e bozal viajan grátis; sem bilhete para o cão. A forma mais rápida de chegar a praia canina de Sopot.",
+          "petPolicyPt": "Grátis com trela + bozal",
+          "tipPt": "Gdansk Główny a Sopot em SKM em 15 min — a praia canina o ano inteiro de Sopot está a 10 min andando da estação de Sopot."
         },
         {
           "name": "PKP Intercity & EIC",
@@ -340,7 +419,10 @@
           "tip": "The Gdansk-Warsaw EIC at 2h45 makes Gdansk a perfect dog-friendly weekend from the Polish capital — book a window seat in advance for summer travel.",
           "tipFr": "L'EIC Gdansk-Varsovie en 2h45 fait de Gdansk un week-end dog-friendly parfait depuis la capitale polonaise — réservez un siège fenêtre à l'avance pour l'été.",
           "tipEs": "El EIC Gdansk-Varsovia en 2h45 hace de Gdansk un fin de semana dog-friendly perfecto desde la capital polaca — reserva asiento de ventana con antelación para el verano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gdansk+Glowny+PKP"
+          "googleMapsUrl": "https://maps.google.com/?q=Gdansk+Glowny+PKP",
+          "descriptionPt": "PKP Intercity opera comboios EIC directos a partir de Gdansk a Varsóvia (2h45), Cracóvia (5h30) e Berlim (5h, com um transbordo em Poznań). Os cães com trela requieren bilhete a meio preço e bozal a bordo; cães pequeños em transportadora grátis.",
+          "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
+          "tipPt": "O EIC Gdansk-Varsóvia em 2h45 hace de Gdansk um fin de semana pet-friendly perfeito a partir da capital polaca — reserva asiento de ventana com antelación para o verão."
         }
       ],
       "tipsEn": [
@@ -387,6 +469,23 @@
           "q": "¿Puedo llevar a mi perro a la playa canina de Sopot en tren?",
           "a": "Sí. SKM cercanías desde Gdansk Główny a Sopot en 15 min (cada 7 min en hora punta). La playa canina de Sopot está a 10 min andando de la estación SKM. Perros con correa y bozal gratis."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Gdansk",
+      "introPt": "O compacto Główne Miasto de Gdansk se cruza a pé em 25 minutos. Para excursiones, os elétricos ZTM, o SKM (línea Tri-Cidade) e os comboios PKP Intercity admiten todos cães com trela.",
+      "tipsPt": [
+        "A normativa polaca de transporte exige bozal para Todos os cães em elétricos, buses e comboios — Polonia é dos países mais estrictos de Europa. Lleva um bozal blando.",
+        "O aeroporto Gdansk Lech Wałęsa (GDN) está a 12 km al oeste, acessível em SKM Pomorska + bus 210 (40 min) o taxi (20 min) — ambos pet-friendly.",
+        "Alquilar carro é recomendable para a península de Hel (1h al este) e a região dos lagos de Casubia (1h al sur) — o transporte público não llega a todas as pequeñas estações balnearias."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay que ponerle bozal a mi cão não transporte público de Gdansk?",
+          "a": "Sí — a lei polaca exige bozal para Todos os cães (pequeños, medianos, grandes) em elétricos, buses, SKM e comboios PKP. Dos mais estrictos de Europa. Os bozales blandos se venden ampliamente em lojas de animais polacas a 30-50 PLN (7-12 €)."
+        },
+        {
+          "q": "¿Puedo levar a mi cão a praia canina de Sopot de comboio?",
+          "a": "Sí. SKM cercanías a partir de Gdansk Główny a Sopot em 15 min (cada 7 min em hora punta). A praia canina de Sopot está a 10 min andando da estação SKM. Cães com trela e bozal grátis."
+        }
       ]
     },
     "beaches": {
@@ -428,7 +527,16 @@
           "tip": "Baltic water stays cold (16-19 °C peak summer) — most dogs prefer running on the wet sand to swimming. The iconic Sopot Pier 600 m south is dog-friendly with leashed dogs free of charge.",
           "tipFr": "L'eau baltique reste froide (16-19 °C en plein été) — la plupart des chiens préfèrent courir sur le sable mouillé que nager. La jetée iconique de Sopot à 600 m au sud est dog-friendly avec chiens en laisse gratuits.",
           "tipEs": "El agua báltica se mantiene fría (16-19 °C en pleno verano) — la mayoría de los perros prefiere correr en la arena mojada que nadar. El icónico muelle de Sopot a 600 m al sur es dog-friendly con perros con correa gratis.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+dla+Psow+Sopot"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+dla+Psow+Sopot",
+          "leashRulePt": "Sem trela na praia canina dedicada o ano inteiro",
+          "descriptionPt": "A praia canina oficial de Sopot (Plaża dla Psów) — zona sem trela señalizada o ano inteiro a norte do muelle icónico de Sopot. Areia blanca fina, águas bálticas pouco profundas, entrada libre. A praia canina mais famosa de Polonia. 15 min em SKM a partir de Gdansk Główny.",
+          "amenitiesPt": [
+            "Acceso libre",
+            "Aseos públicos",
+            "Café de praia (may-sep)",
+            "Estações de bolsas"
+          ],
+          "tipPt": "O água báltica se mantiene fria (16-19 °C em pleno verão) — a maioria dos cães prefiere correr na areia mojada que nadar. O icónico muelle de Sopot a 600 m al sur é pet-friendly com cães com trela grátis."
         },
         {
           "name": "Brzeźno Beach (Dog Zone)",
@@ -461,7 +569,16 @@
           "tip": "The tram 7 from Gdansk Główny saves the 5 km walk — direct to the Brzeźno tram terminus, then 5 min walk to the dog zone.",
           "tipFr": "Le tram 7 depuis Gdansk Główny évite la marche de 5 km — direct jusqu'au terminus de Brzeźno, puis 5 min à pied jusqu'à la zone canine.",
           "tipEs": "El tranvía 7 desde Gdansk Główny ahorra los 5 km a pie — directo hasta el final de Brzeźno, luego 5 min andando hasta la zona canina.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brzezno+beach+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Brzezno+beach+Gdansk",
+          "leashRulePt": "Sem trela na zona canina dedicada o ano inteiro",
+          "descriptionPt": "A praia canina mais cercana al centro de Gdansk — zona canina señalizada de 1 km na praia de Brzeźno a 5 km al norte do centro histórico, acessível não elétrico 7 em 20 min. Areia fina, dunas detrás, águas bálticas tranquilas e pouco profundas.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Aseos públicos",
+            "Café de praia (may-sep)",
+            "Pinar detrás"
+          ],
+          "tipPt": "O elétrico 7 a partir de Gdansk Główny ahorra os 5 km a pé — directo até o final de Brzeźno, luego 5 min andando até a zona canina."
         },
         {
           "name": "Stogi Beach (Dog Zone East)",
@@ -494,7 +611,16 @@
           "tip": "The Stogi eastern dog zone is empty even in August — the locals' insider tip when Sopot is overcrowded.",
           "tipFr": "La zone canine est de Stogi est vide même en août — l'astuce des locaux quand Sopot est bondée.",
           "tipEs": "La zona canina del este de Stogi está vacía incluso en agosto — el truco de los locales cuando Sopot está abarrotada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Stogi+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Plaza+Stogi+Gdansk",
+          "leashRulePt": "Sem trela na zona canina do leste o ano inteiro",
+          "descriptionPt": "A praia canina mais tranquila de Gdansk — a praia de Stogi a 8 km al este do centro histórico, com uma zona canina señalizada não tramo este. Areia amplia, dunas detrás, longe das multitudes turísticas centrales. Elétrico 8 a partir de Gdansk Główny em 25 min.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Café de praia (jun-ago)",
+            "Sem instalaciones mitad de praia",
+            "Pinar detrás"
+          ],
+          "tipPt": "A zona canina do leste de Stogi está vacía mesmo em agosto — o truco dos locales quando Sopot está abarrotada."
         }
       ],
       "tipsEn": [
@@ -541,6 +667,23 @@
           "q": "¿Se admiten perros en las playas polacas en verano?",
           "a": "Sí en zonas caninas marcadas (Plaża dla Psów). Fuera de ellas, los perros están excluidos de las playas públicas principales del 1 de mayo al 30 de septiembre. Las zonas caninas oficiales de Sopot, Brzeźno y Stogi siguen dog-friendly todo el año."
         }
+      ],
+      "titlePt": "Praias pet-friendly em Gdansk",
+      "introPt": "A bahía da Tri-Cidade ofrece algunas das melhores praias caninas de Polonia — areia blanca fina, águas bálticas tranquilas, mais de 15 km de costa. A praia canina de Sopot é a opción icónica, com acceso o ano inteiro a 15 min em SKM.",
+      "tipsPt": [
+        "As praias municipales polacas costumam excluir cães do 1 de maio ao \\10 de setembro salvo em zonas caninas marcadas — verifica sempre antes de ir.",
+        "O água báltica se mantiene fria (16-19 °C em pleno verão) — a maioria dos cães prefiere correr na areia mojada que nadar. Lleva uma toalla gruesa mesmo em agosto.",
+        "Lleva sempre água para o cão — as zonas caninas tras as dunas têm muito poucas instalaciones, sobretudo fora da temporada de cafés maio-setembro."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina de Sopot?",
+          "a": "15 min em SKM a partir de Gdansk Główny + 10 min andando a partir da estação de Sopot. A praia canina mais famosa de Polonia, acceso o ano inteiro. Brzeźno (5 km al norte, 20 min não elétrico 7) e Stogi (8 km al este, 25 min não elétrico 8) são opciones mais cercanas."
+        },
+        {
+          "q": "¿Se admiten cães nas praias polacas em verão?",
+          "a": "Sí em zonas caninas marcadas (Plaża dla Psów). Fora de ellas, os cães estão excluidos das praias públicas principales do 1 de maio ao \\10 de setembro. As zonas caninas oficiales de Sopot, Brzeźno e Stogi siguen pet-friendly o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -569,7 +712,9 @@
           "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
           "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
           "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vetmedica+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Vetmedica+Gdansk",
+          "descriptionPt": "Hospital veterinário de urgências 24h em Wrzeszcz (norte central de Gdansk) — cirugía completa, UCI, ecografía, rayos X, RM. O veterinário 24/7 mais cercano para o Centro histórico central de Gdansk.",
+          "tipPt": "Llama antes de ir — triaje por teléfono e posible redirección para casos não urgentes na noite."
         },
         {
           "name": "Centrum Weterynaryjne Gdańsk",
@@ -588,7 +733,9 @@
           "openingHours": "Mon-Fri 08:00-20:00, Sat 09:00-15:00",
           "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
-          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
+          "descriptionPt": "Clínica moderna para pequeños animales em Wrzeszcz — medicina general, vacinas, cirugía, odontología. Llamadas fora de horario derivadas a Vetmedica 24h.",
+          "tipPt": "Hablan inglés com fluidez e aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Klinika Weterynaryjna Animalia Oliwa",
@@ -607,7 +754,9 @@
           "openingHours": "Mon-Fri 09:00-19:00, Sat 09:00-13:00",
           "tip": "Useful for issuing/updating an EU pet passport mid-trip — Animalia charges around 150 PLN (35 €) for a passport, 200 PLN (45 €) for a microchip.",
           "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Animalia facture environ 150 PLN (35 €) pour un passeport, 200 PLN (45 €) pour une puce.",
-          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Animalia cobra unos 150 PLN (35 €) por pasaporte, 200 PLN (45 €) por microchip."
+          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Animalia cobra unos 150 PLN (35 €) por pasaporte, 200 PLN (45 €) por microchip.",
+          "descriptionPt": "Consulta veterinária diurna em Oliwa perto do Park Oliwski — medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje — Animalia cobra uns 150 PLN (35 €) por passaporte, 200 PLN (45 €) por microchip."
         }
       ],
       "tipsEn": [
@@ -654,6 +803,23 @@
           "q": "¿Necesito pasaporte europeo para Gdansk?",
           "a": "Sí para entrar desde fuera de Polonia. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Sin papeleo específico polaco adicional."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Gdansk — Hospitales e clínicas veterinárias",
+      "introPt": "Gdansk tem buena cobertura veterinária diurna e dos clínicas regionales de urgências 24h — uma em Wrzeszcz central e uma em Gdynia, a 15 km al norte. A Facultad Veterinária da Universidade de Warmia-Mazuria de Olsztyn é o centro de referencia a 2h al este.",
+      "tipsPt": [
+        "Polonia está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Os veterinários centrales de Gdansk Não hacen urgências 24h — pelas noites e fines de semana ve directamente a Vetmedica em Wrzeszcz (10 min não elétrico 6 o 12).",
+        "Os costes veterinários polacos são um 40-60 % mais baratos que Europa Occidental — uma consulta básica cuesta 100-150 PLN (23-35 €)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h perto de Gdansk?",
+          "a": "Vetmedica Gdansk, Aleja Grunwaldzka 467 em Wrzeszcz, +48 58 763 75 00 — 4 km al norte do centro histórico, 10 min não elétrico 6 o 12. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito passaporte europeu para Gdansk?",
+          "a": "Sí para entrar a partir de fora de Polonia. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Sem papeleo específico polaco adicional."
+        }
       ]
     },
     "tips": {
@@ -669,21 +835,24 @@
           "photo": "/images/city-places/gdansk-tips-best-season-for-visiting-gdansk-with-a-dog.jpg",
           "description": "May-September are ideal — average highs 15-22 °C, the Baltic at swimmable temperature, Sopot dog beach in full operation. April and October are 12-15 °C, beach access still year-round but fewer cafés. November-March is harsh (down to -8 °C with snow) but the Christmas Market (December) is a magical dog-walking time.",
           "descriptionFr": "Mai-septembre sont idéaux — maxima moyens 15-22 °C, la Baltique à température baignable, la plage canine de Sopot pleinement opérationnelle. Avril et octobre sont à 12-15 °C, accès plage toujours toute l'année mais moins de cafés. Novembre-mars est rude (jusqu'à -8 °C avec neige) mais le marché de Noël (décembre) est magique pour les promenades canines.",
-          "descriptionEs": "Mayo-septiembre son ideales — máximas medias 15-22 °C, el Báltico a temperatura bañable, la playa canina de Sopot a pleno funcionamiento. Abril y octubre son 12-15 °C, acceso a playa todavía todo el año pero menos cafés. Noviembre-marzo es duro (hasta -8 °C con nieve) pero el Mercado Navideño (diciembre) es mágico para paseos caninos."
+          "descriptionEs": "Mayo-septiembre son ideales — máximas medias 15-22 °C, el Báltico a temperatura bañable, la playa canina de Sopot a pleno funcionamiento. Abril y octubre son 12-15 °C, acceso a playa todavía todo el año pero menos cafés. Noviembre-marzo es duro (hasta -8 °C con nieve) pero el Mercado Navideño (diciembre) es mágico para paseos caninos.",
+          "descriptionPt": "Maio-setembro são ideales — máximas medias 15-22 °C, o Báltico a temperatura bañable, a praia canina de Sopot a pleno funcionamiento. Abril e outubro são 12-15 °C, acceso a praia todavía o ano inteiro mas menos cafés. Novembro-março é duro (até -8 °C com nieve) mas o Mercado Navideño (dezembro) é mágico para passeios caninos."
         },
         {
           "name": "Polish dog laws & costs",
           "photo": "/images/city-places/gdansk-tips-polish-dog-laws-costs.jpg",
           "description": "Poland requires a muzzle for ALL dogs on public transport (small, medium, large) — among Europe's strictest. Leash law April 1 - August 31 in all parks and forests except fenced wybiegi. Polish vet costs are 40-60% below Western Europe; hotel pet supplements 40-80 PLN/night (10-18 €).",
           "descriptionFr": "La Pologne exige une muselière pour TOUS les chiens dans les transports publics (petits, moyens, grands) — parmi les plus strictes d'Europe. Loi laisse 1er avril - 31 août dans tous les parcs et forêts hors wybiegi clôturés. Les frais vétérinaires polonais sont 40-60 % en-dessous de l'Europe occidentale ; suppléments hôtels 40-80 PLN/nuit (10-18 €).",
-          "descriptionEs": "Polonia exige bozal para TODOS los perros en transporte público (pequeños, medianos, grandes) — de los más estrictos de Europa. Ley de correa 1 abril - 31 agosto en todos los parques y bosques fuera de los wybiegi vallados. Los costes veterinarios polacos están un 40-60 % por debajo de Europa Occidental; suplementos hoteleros 40-80 PLN/noche (10-18 €)."
+          "descriptionEs": "Polonia exige bozal para TODOS los perros en transporte público (pequeños, medianos, grandes) — de los más estrictos de Europa. Ley de correa 1 abril - 31 agosto en todos los parques y bosques fuera de los wybiegi vallados. Los costes veterinarios polacos están un 40-60 % por debajo de Europa Occidental; suplementos hoteleros 40-80 PLN/noche (10-18 €).",
+          "descriptionPt": "Polonia exige bozal para Todos os cães em transporte público (pequeños, medianos, grandes) — dos mais estrictos de Europa. Lei de trela 1 abril - 31 agosto em todos os parques e florestas fora dos wybiegi vallados. Os costes veterinários polacos estão um 40-60 % por debajo de Europa Occidental; suplementos hoteleros 40-80 PLN/noite (10-18 €)."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/gdansk-tips-currency-cost.jpg",
           "description": "Poland uses the Polish złoty (PLN) — not the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal, ATMs widely available. Pet supplements at Gdansk hotels average 40-80 PLN/night (10-18 €) — among the lowest in Europe.",
           "descriptionFr": "La Pologne utilise le złoty polonais (PLN) — pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel, les distributeurs largement disponibles. Les suppléments animaux dans les hôtels de Gdansk tournent autour de 40-80 PLN/nuit (10-18 €) — parmi les plus bas d'Europe.",
-          "descriptionEs": "Polonia usa el zloty polaco (PLN) — no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, los cajeros están ampliamente disponibles. Los suplementos para mascotas en hoteles de Gdansk rondan 40-80 PLN/noche (10-18 €) — de los más bajos de Europa."
+          "descriptionEs": "Polonia usa el zloty polaco (PLN) — no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, los cajeros están ampliamente disponibles. Los suplementos para mascotas en hoteles de Gdansk rondan 40-80 PLN/noche (10-18 €) — de los más bajos de Europa.",
+          "descriptionPt": "Polonia usa o zloty polaco (PLN) — não o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal, os cajeros estão ampliamente disponibles. Os suplementos para animais em hotéis de Gdansk rondan 40-80 PLN/noite (10-18 €) — dos mais bajos de Europa."
         }
       ],
       "tipsEn": [
@@ -730,6 +899,23 @@
           "q": "¿Cómo se compara Gdansk con Varsovia para viajes caninos?",
           "a": "Gdansk es más pequeña, con el acceso icónico a la playa báltica canina (Sopot a 15 min en SKM) y un centro peatonal más compacto. Varsovia tiene más hoteles pet-friendly y un parque Łazienki más animado. Gdansk gana por combo playa + herencia hanseática; Varsovia por variedad y aeropuerto central."
         }
+      ],
+      "titlePt": "Viajar a Gdansk com cão: consejos prácticos",
+      "introPt": "Gdansk — a perla hanseática do Báltico e antiga cidade libre de Danzig — combina um Długi Targ clasificado UNESCO, o lugar de nacimiento de Solidaridad em Stocznia Gdańska, e acceso directo SKM a praia canina de Sopot (a mais famosa de Polonia) em 15 minutos.",
+      "tipsPt": [
+        "Gdansk é um dos os destinos bálticos mais asequibles de Europa para viajes caninos — suplementos para animais 10-18 €/noite, tarifas hoteleras um 50 % por debajo de Berlim o Copenhaga.",
+        "Combina Gdansk com excursiones: praia canina de Sopot (15 min em SKM), península de Hel (1h al este), memorial Westerplatte (30 min não elétrico + bus), castelo de Malbork (1h de comboio).",
+        "Lleva sempre um bozal blando (30-50 PLN em cualquier loja de animais) — exigido em Todo o transporte público polaco independientemente do tamanho do cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Gdansk é buena para um fin de semana pet-friendly?",
+          "a": "Sí — Gdansk combina um Centro histórico hanseático UNESCO, a icónica praia canina de Sopot a 15 min em SKM, o parque paisajístico da tri-cidade com 200 km de trilhos, e suplementos para animais muito asequibles (10-18 €/noite). O bozal obrigatório não transporte público é o principal punto de fricción."
+        },
+        {
+          "q": "¿Como se compara Gdansk com Varsóvia para viajes caninos?",
+          "a": "Gdansk é mais pequeña, com o acceso icónico a praia báltica canina (Sopot a 15 min em SKM) e um centro peatonal mais compacto. Varsóvia tem mais hotéis pet-friendly e um parque Łazienki mais animado. Gdansk gana por combo praia + herencia hanseática; Varsóvia por variedade e aeroporto central."
+        }
       ]
     },
     "attractions": {
@@ -755,7 +941,10 @@
           "tip": "Sunset (20:00-22:00 in summer) is the iconic dog-photo time — the gabled facades catch the Baltic golden light.",
           "tipFr": "Le coucher de soleil (20h-22h en été) est le moment photo canin iconique — les façades à pignons captent la lumière dorée baltique.",
           "tipEs": "El atardecer (20:00-22:00 en verano) es el momento de foto canino icónico — las fachadas con frontones captan la luz dorada báltica.",
-          "googleMapsUrl": "https://maps.google.com/?q=Dlugi+Targ+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Dlugi+Targ+Gdansk",
+          "descriptionPt": "A praça principal icónica de Gdansk — a Fuente de Neptuno, a Corte de Artus, a Puerta Dorada, rodeada de coloridas casas mercantes com frontones reconstruidas tras a Segunda Guerra Mundial. Aberta 24/7, pet-friendly com cães com trela em todo o lado. A rua mais fotografiada de Polonia.",
+          "petPolicyPt": "Praça pública, cães com trela grátis",
+          "tipPt": "O atardecer (20:00-22:00 em verão) é o momento de foto canino icónico — as fachadas com frontones captan a luz dorada báltica."
         },
         {
           "name": "Mariacka Street",
@@ -772,7 +961,10 @@
           "tip": "The Mariacka stone terraces are perfect dog-portrait perches — local Instagram tradition includes posing dogs on the gargoyle steps.",
           "tipFr": "Les terrasses de pierre de Mariacka sont des perchoirs parfaits pour portraits canins — la tradition Instagram locale inclut les chiens posant sur les marches gargouilles.",
           "tipEs": "Las terrazas de piedra de Mariacka son perchas perfectas para retratos caninos — la tradición Instagram local incluye perros posando en los escalones de gárgolas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mariacka+street+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Mariacka+street+Gdansk",
+          "descriptionPt": "A rua mais hermosa de Gdansk — estrechas esplanadas com arcos de pedra à frente de cada casa, llevando a basílica de Santa María (a mayor igreja de ladrillo do mundo). Aberta 24/7, pet-friendly com cães com trela em todo o lado. Famosa por os seus lojas de ámbar.",
+          "petPolicyPt": "Rua pública, cães com trela grátis",
+          "tipPt": "As esplanadas de pedra de Mariacka são perchas perfeitas para retratos caninos — a tradição Instagram local incluye cães posando nos escalones de gárgolas."
         },
         {
           "name": "Westerplatte Memorial",
@@ -789,7 +981,10 @@
           "tip": "Combine with a Motława river cruise from the Old Town pier (1h round-trip, leashed dogs accepted on outdoor decks).",
           "tipFr": "Combinez avec une croisière sur la Motława depuis l'embarcadère de la Vieille Ville (aller-retour d'1h, chiens en laisse acceptés sur les ponts extérieurs).",
           "tipEs": "Combina con un crucero por el Motława desde el embarcadero del Casco Antiguo (ida y vuelta de 1h, perros con correa admitidos en cubiertas exteriores).",
-          "googleMapsUrl": "https://maps.google.com/?q=Westerplatte+Gdansk"
+          "googleMapsUrl": "https://maps.google.com/?q=Westerplatte+Gdansk",
+          "descriptionPt": "A península onde começou a Segunda Guerra Mundial o 1 de setembro de 1939 — o imponente monumento-memorial de Westerplatte, ruinas da guarnición polaca, e um trilho exterior pet-friendly de 1 km. O interior do Muzeum II Wojny Światowej só admite cães de assistência.",
+          "petPolicyPt": "Memorial exterior grátis; interior do museu só cães de assistência",
+          "tipPt": "Combina com um crucero pelo Motława a partir do embarcadero do centro histórico (ida e vuelta de 1h, cães com trela admitidos em cubiertas exteriores)."
         }
       ],
       "tipsEn": [
@@ -836,6 +1031,23 @@
           "q": "¿Se admiten perros en el memorial Westerplatte?",
           "a": "Sí — el complejo memorial al aire libre incluyendo el monumento y las ruinas de la guarnición polaca es dog-friendly con perros con correa gratis todo el año. El museo interior Muzeum II Wojny Światowej solo admite perros de asistencia."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Gdansk",
+      "introPt": "A maioria dos lugares exteriores emblemáticos de Gdansk são pet-friendly — o Długi Targ, a Fuente de Neptuno, a rua Mariacka, a Grúa não Motława, o monumento a Solidaridad e o memorial Westerplatte admiten todos cães com trela grátis.",
+      "tipsPt": [
+        "As atracciones al aire libre de Gdansk admiten cães com trela grátis; os museus interiores (basílica de Santa María, Centro Solidaridad, Muzeum II Wojny Światowej) só admiten cães de assistência.",
+        "A Grúa sobre o Motława (Żuraw) — a mayor grúa de madera medieval de Europa — tem uma esplanada exterior pet-friendly; o museu marítimo interior só admite cães de assistência.",
+        "Excursiones em SKM directo: Sopot (15 min, praia canina), Gdynia (40 min, arquitectura modernista portuaria) — cães com trela e bozal grátis."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a basílica de Santa María?",
+          "a": "A praça Targ Rybny circundante e al exterior da basílica sí, com trela, grátis. O interior da basílica (a mayor igreja de ladrillo do mundo) só admite cães de assistência."
+        },
+        {
+          "q": "¿Se admiten cães não memorial Westerplatte?",
+          "a": "Sí — o complejo memorial al aire libre incluyendo o monumento e as ruinas da guarnición polaca é pet-friendly com cães com trela grátis o ano inteiro. O museu interior Muzeum II Wojny Światowej só admite cães de assistência."
+        }
       ]
     },
     "petsitting": {
@@ -858,7 +1070,9 @@
           "website": "https://www.pawshake.pl/gdansk",
           "tip": "Filter for English-speaking sitters in the platform settings — about 60% of Gdansk sitters speak fluent English thanks to the international tourist and student base.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 60 % des sitters de Gdansk parlent anglais couramment grâce à la base touristique et étudiante internationale.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Gdansk habla inglés con fluidez gracias a la base turística y estudiantil internacional."
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Gdansk habla inglés con fluidez gracias a la base turística y estudiantil internacional.",
+          "descriptionPt": "Plataforma internacional com uns 30 cuidadores verificados com base em Gdansk num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglés nos ajustes — alrededor do 60 % dos cuidadores de Gdansk habla inglés com fluidez gracias a base turística e estudiantil internacional."
         },
         {
           "name": "PetHotel Trójmiasto",
@@ -872,7 +1086,9 @@
           "website": "https://www.pethoteltrojmiasto.pl/",
           "tip": "Book at least 1 week ahead in summer (June-August) — popular with Polish families on holiday and international tourists visiting Sopot Dog Beach.",
           "tipFr": "Réservez au moins 1 semaine à l'avance en été (juin-août) — populaire chez les familles polonaises en vacances et les touristes internationaux visitant la plage canine de Sopot.",
-          "tipEs": "Reserva al menos 1 semana antes en verano (junio-agosto) — popular entre las familias polacas de vacaciones y los turistas internacionales que visitan la playa canina de Sopot."
+          "tipEs": "Reserva al menos 1 semana antes en verano (junio-agosto) — popular entre las familias polacas de vacaciones y los turistas internacionales que visitan la playa canina de Sopot.",
+          "descriptionPt": "Cadena local de hotéis para animais da Tri-Cidade com dos ubicaciones (Gdansk central e Sopot) — guardería supervisada, alojamento nocturno, passeios. Seguro e línea veterinária 24/7 incluidos; tarifa 80-120 PLN/dia (18-28 €).",
+          "tipPt": "Reserva al menos 1 semana antes em verão (junho-agosto) — popular entre as familias polacas de vacaciones e os turistas internacionais que visitan a praia canina de Sopot."
         }
       ],
       "tipsEn": [
@@ -918,6 +1134,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Gdansk?",
           "a": "Sí — alrededor del 60 % de los cuidadores de Gdansk en Pawshake habla inglés con fluidez gracias al público turístico y estudiantil internacional. Filtra por idioma."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Gdansk",
+      "introPt": "Para as excursiones onde o cão não pode ir (Centro Solidaridad, Muzeum II Wojny Światowej, basílica de Santa María), Gdansk tem pet-sitting fiable e verificado a través de plataformas internacionais e polacas.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Gdansk rondan 70-100 PLN/dia (16-23 €) em Pawshake, 80-120 PLN/dia (18-28 €) na cadena local de hotéis para animais — das mais asequibles de Europa.",
+        "Confirma sempre o nivel de inglés do cuidador antes de reservar se não hablas polaco — alrededor do 60 % é bilingüe pelo público turístico internacional.",
+        "Varios hotéis boutique do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Gdansk?",
+          "a": "70-120 PLN por dia (16-28 €) segundo plataforma e tamanho do cão, vía Pawshake o PetHotel Trójmiasto. Visitas a domicilio 40-60 PLN (9-14 €) por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Gdansk?",
+          "a": "Sí — alrededor do 60 % dos cuidadores de Gdansk em Pawshake habla inglés com fluidez gracias al público turístico e estudiantil internacional. Filtra por idioma."
         }
       ]
     }

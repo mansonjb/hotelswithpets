@@ -33,7 +33,11 @@
           "tip": "Arrive at opening time (12:30 or 20:00 sharp). They fill within 15 minutes and won't hold tables.",
           "tipFr": "Arrivez à l'ouverture (12h30 ou 20h00 pile). La salle se remplit en 15 minutes et ils ne gardent pas les tables.",
           "tipEs": "Llega a la hora de apertura (12:30 o 20:00 en punto). Se llena en 15 minutos y no guardan mesas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Osteria+dell'Angelo+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Osteria+dell'Angelo+Roma",
+          "descriptionPt": "Uma querida osteria de bairro em Prati, justo a norte do Vaticano, que lleva sirviendo auténtica cucina romana a partir dos anos 80. O menú é fijo e cambia semanalmente — cacio e pepe, coda alla vaccinara, trippa alla romana — e as mesas exteriores na rua tranquila reciben cães sem problemas. O ambiente é animado e sem pretensiones, com longas mesas comunales e um dueño que genuinamente aprecia aos animales. Llega temprano; não aceitam reservas e se cheia rápido.",
+          "petPolicyPt": "Cães admitidos nas mesas exteriores",
+          "mustTryPt": "Cacio e pepe, coda alla vaccinara",
+          "tipPt": "Llega a hora de apertura (12:30 o 20:00 em punto). Se cheia em 15 minutos e não guardan mesas."
         },
         {
           "name": "Roscioli Salumeria con Cucina",
@@ -55,7 +59,11 @@
           "tip": "Visit for lunch on weekdays. Evenings are extremely busy and outdoor tables fill by 19:30.",
           "tipFr": "Venez pour le déjeuner en semaine. Le soir c'est très chargé et les tables extérieures sont prises dès 19h30.",
           "tipEs": "Ve a comer entre semana. Las noches son muy concurridas y las mesas exteriores se llenan hacia las 19:30.",
-          "googleMapsUrl": "https://maps.google.com/?q=Roscioli+Salumeria+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Roscioli+Salumeria+Roma",
+          "descriptionPt": "Roscioli é um dos os restaurantes-charcuterías mais célebres de Roma, com uma bodega extraordinaria e uma seleção enciclopédica de embutidos, quesos e clásicos romanos. As mesas exteriores a lo longo da Via dei Giubbonari sempre reciben bem a cães educados, e o pessoal é descontraído e amable al respecto. A carbonara e a amatriciana aqui são citadas constantemente entre as melhores da cidade. A reserva é esencial para o interior, mas as mesas na rua são por orden de llegada e sempre aceitam cães.",
+          "petPolicyPt": "Cães admitidos nas mesas exteriores da rua",
+          "mustTryPt": "Carbonara, seleção de Pecorino Romano curado",
+          "tipPt": "Ve a comer entre semana. As noites são muito concurridas e as mesas exteriores se llenan para as 19:30."
         },
         {
           "name": "Il Sorpasso",
@@ -77,7 +85,11 @@
           "tip": "Great for aperitivo hour (18:00–20:00). The terrace fills with regulars and their dogs — very social atmosphere.",
           "tipFr": "Idéal pour l'heure de l'apéritif (18h00–20h00). La terrasse se remplit de habitués et de leurs chiens — ambiance très conviviale.",
           "tipEs": "Perfecto para el aperitivo (18:00–20:00). La terraza se llena de habituales y sus perros — ambiente muy social.",
-          "googleMapsUrl": "https://maps.google.com/?q=Il+Sorpasso+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Il+Sorpasso+Roma",
+          "descriptionPt": "Um enoteca moderno e bistro de todo o dia em Prati com uma gran esplanada que da a bienvenida aos cães e uma reputación pelos excelentes vinhos naturais e platillos bem seleccionados. Il Sorpasso lleva muito tiempo siendo punto de encuentro da joven escena creativa de Roma, e o seu política com cães é tan descontraída como o seu ambiente general. A esplanada está sombreada em verão e climatizada nos meses frescos. A carta va a partir de bollería pela manhã até picoteo nocturno.",
+          "petPolicyPt": "Cães admitidos na esplanada exterior",
+          "mustTryPt": "Seleção de vinhos naturais, burrata com acompañamientos de temporada",
+          "tipPt": "Perfeito para o aperitivo (18:00–20:00). A esplanada se cheia de habituales e os seus cães — ambiente muito social."
         },
         {
           "name": "Pizzarium Bonci",
@@ -99,7 +111,11 @@
           "tip": "Go at 11:00 when fresh batches come out. By lunchtime on weekends there is always a queue.",
           "tipFr": "Allez à 11h00 quand les nouvelles fournées sortent. Le week-end au déjeuner il y a toujours une file.",
           "tipEs": "Ve a las 11:00 cuando salen los lotes frescos. Al mediodía los fines de semana siempre hay cola.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pizzarium+Bonci+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Pizzarium+Bonci+Roma",
+          "descriptionPt": "O famoso mostrador de pizza al taglio de Gabriele Bonci é ampliamente considerado o melhor de Roma, se não de Italia. É um local só de pie, mas a acera exterior é generosa e ésta é a forma local de comer: de pie na acera com tu pizza e tu cão. Os ingredientes rotativos são extraordinarios — a partir de verduras de temporada até creativas combinaciones de quesos — e os trozos se venden por peso. Os cães na acera são tan normales aqui como em cualquier outro lugar de Roma.",
+          "petPolicyPt": "Cães admitidos na acera exterior",
+          "mustTryPt": "Pizza al taglio de temporada, suppli (croquetas de arroz)",
+          "tipPt": "Ve a as 11:00 quando salen os lotes frescos. Al mediodía os fines de semana sempre hay cola."
         }
       ],
       "tipsEn": [
@@ -161,6 +177,28 @@
           "q": "¿Qué zona de Roma tiene más restaurantes donde se admiten perros?",
           "a": "Prati, al norte del Vaticano, es el barrio más fiable para comer en terraza con tu perro. Trastevere y Campo de' Fiori también tienen muchas terrazas que aceptan perros."
         }
+      ],
+      "titlePt": "Restaurantes com animais em Roma",
+      "introPt": "A cultura gastronómica al aire libre de Roma é genuinamente acolhedora para os cães, especialmente nas esplanadas que se estendem pelas praças e os vicoli da cidade de abril a outubro. A atitude italiana para os cães em espacios públicos é descontraída para os estándares europeus — verás cães atados frente a trattorias e bem-vindos em esplanadas sem mayor problema. O interior é outra história: a normativa sanitaria italiana prohíbe técnicamente os cães em áreas de serviço de alimentos, salvo animales de asistencia. A buena noticia é que o clima de Roma hace do comedor al aire libre um placer casi o ano inteiro.",
+      "tipsPt": [
+        "A normativa sanitaria italiana prohíbe técnicamente os cães dentro dos espacios de serviço de alimentos. Toda a gastronomía pet-friendly em Roma ocurre em esplanadas e aceras exteriores.",
+        "Pregunta sempre '¿Possiamo sederci fuori com il cane?' (¿Podemos sentarnos fuera com o cão?) antes de instalarte.",
+        "O bairro Prati, justo a norte do Vaticano, tem a mayor concentración de restaurantes com esplanada acolhedores para cães.",
+        "Os tigelas de água são menos comunes em Roma que não norte de Europa. Lleva uma tigela portátil para tu cão, especialmente em verão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Roma?",
+          "a": "A normativa sanitaria italiana prohíbe os cães nos espacios de serviço de alimentos, excepto os animales de asistencia. Na práctica, a maioria dos restaurantes romanos reciben bem a cães educados nos seus esplanadas exteriores. Pide sempre sentarte fuera."
+        },
+        {
+          "q": "¿Qué frase italiana usar para preguntar se se admiten cães?",
+          "a": "'I cani sono ammessi?' (¿Se admiten cães?) o '¿Possiamo sederci fuori com il cane?' (¿Podemos sentarnos fuera com o cão?) são as frases mais útiles."
+        },
+        {
+          "q": "¿Qué zona de Roma tem mais restaurantes onde se admiten cães?",
+          "a": "Prati, a norte do Vaticano, é o bairro mais fiable para comer em esplanada com tu cão. Trastevere e Campo de' Fiori também têm muitas esplanadas que aceitam cães."
+        }
       ]
     },
     "parks": {
@@ -186,7 +224,10 @@
           "tip": "Enter from Piazzale Flaminio for the most dog-friendly route. The nasoni fountains are everywhere — your dog will stay hydrated.",
           "tipFr": "Entrez par la Piazzale Flaminio pour l'itinéraire le plus adapté aux chiens. Les fontaines nasoni sont partout — votre chien n'aura pas soif.",
           "tipEs": "Entra por la Piazzale Flaminio para la ruta más amigable para perros. Las fuentes nasoni están por todas partes — tu perro se mantendrá hidratado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Borghese+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Borghese+Roma",
+          "descriptionPt": "O parque mais famoso de Roma, com 80 hectáreas não corazón da cidade, é um lugar realmente maravilloso para passear com um cão. Os amplios trilhos, as laderas com hierba e os caminos arbolados ofrecen excelente variedade. Os cães devem ir com trela nos jardins, mas hay uma zona canina designada perto da entrada do Viale delle Magnolie onde se permite jugar sem trela. O parque também cuenta com excelentes fuentes (nasoni) que encantan aos cães.",
+          "offLeashAreaPt": "Zona canina designada perto da entrada do Viale delle Magnolie. Com trela não resto do parque.",
+          "tipPt": "Entra pela Piazzale Flaminio para a ruta mais amigable para cães. As fuentes nasoni estão por todas partes — tu cão se mantendrá hidratado."
         },
         {
           "name": "Villa Pamphilj",
@@ -203,7 +244,10 @@
           "tip": "Go early on weekend mornings. Roman dog owners converge here from 7:00 to 9:00 — great for socialising your dog.",
           "tipFr": "Allez tôt le matin le week-end. Les propriétaires de chiens romains s'y retrouvent de 7h à 9h — idéal pour socialiser votre chien.",
           "tipEs": "Ve temprano los fines de semana por la mañana. Los dueños de perros romanos se reúnen aquí de 7:00 a 9:00 — ideal para socializar tu perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Pamphilj+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Pamphilj+Roma",
+          "descriptionPt": "Com 184 hectáreas, a Villa Pamphilj é o parque público ajardinado mais grande de Roma e posiblemente o melhor para cães. O parque tem múltiples aree cani (zonas caninas) oficiales onde se permite correr sem trela, e as vastas pradarias e trilhos arbolados ofrecen espacio real. Muito menos concurrido que a Villa Borghese, é o favorito dos dueños de cães romanos. A zona do lago no centro do parque é especialmente popular para os passeios matutinos.",
+          "offLeashAreaPt": "Múltiples aree cani designadas por todo o parque. Os cartazes marcan claramente os límites.",
+          "tipPt": "Ve temprano os fines de semana pela manhã. Os dueños de cães romanos se reúnen aqui de 7:00 a 9:00 — ideal para socializar tu cão."
         },
         {
           "name": "Parco dell'Appia Antica",
@@ -220,7 +264,10 @@
           "tip": "Come on a Sunday morning when the road is car-free. Rent bikes at the park entrance to cover more ground.",
           "tipFr": "Venez le dimanche matin quand la route est réservée aux piétons. Louez des vélos à l'entrée du parc pour couvrir plus de terrain.",
           "tipEs": "Ven el domingo por la mañana cuando la carretera está libre de coches. Alquila bicicletas en la entrada del parque para recorrer más distancia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Appia+Antica+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Appia+Antica+Roma",
+          "descriptionPt": "Uno dos passeios mais evocadores de Roma: a antiga Vía Apia, flanqueada de tumbas, pinos piñoneros e adoquines romanos originales, que estende-se a sul da cidade para a campiña aberta. Os cães devem ir com trela em todo o parque arqueológico, mas o espacio é enorme e os domingos a carretera se cierra aos carros de 9:00 a 18:00, ofreciendo um tranquilo passeio para cães e dueños. O tramo dos acueductos em ruinas (acessível em bicicleta) é especialmente impresionante.",
+          "offLeashAreaPt": "Não hay zonas sem trela. Trela obrigatória em todo o recorrido.",
+          "tipPt": "Ven o domingo pela manhã quando a carretera está libre de carros. Alquila bicicletas na entrada do parque para recorrer mais distancia."
         },
         {
           "name": "Villa Ada",
@@ -236,7 +283,10 @@
           "tip": "Best visited on weekday mornings when the park is quiet. Villa Ada feels genuinely off-the-tourist-trail.",
           "tipFr": "À visiter de préférence en semaine le matin, quand le parc est calme. La Villa Ada est vraiment à l'écart des circuits touristiques.",
           "tipEs": "Mejor visitarlo entre semana por la mañana cuando el parque está tranquilo. Villa Ada tiene un ambiente genuinamente alejado del turismo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Ada+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Ada+Roma",
+          "descriptionPt": "Um parque arbolado de 160 hectáreas não bairro Parioli que é um auténtico favorito local para passear com cães. Villa Ada tem uma gran zona canina designada perto da entrada principal na Via Salaria, além disso de um lago, trilhos ciclistas e floresta denso. Muito menos turístico que a Villa Borghese, ofrece tranquilidad real — um favorito das familias romanas e os seus cães, especialmente nas mañanas entre semana.",
+          "offLeashAreaPt": "Zona canina designada perto da entrada principal da Via Salaria. Com trela nas zonas arboladas.",
+          "tipPt": "Melhor visitarlo entre semana pela manhã quando o parque está tranquilo. Villa Ada tem um ambiente genuinamente alejado do turismo."
         }
       ],
       "tipsEn": [
@@ -298,6 +348,28 @@
           "q": "¿Puedo pasear a mi perro cerca de los monumentos antiguos de Roma?",
           "a": "Sí, pero los perros deben ir con correa. El Parco dell'Appia Antica es la mejor opción para un paseo pintoresco cerca de monumentos antiguos, especialmente los domingos cuando está libre de coches."
         }
+      ],
+      "titlePt": "Parques e passeios com cães em Roma",
+      "introPt": "Roma tem uma oferta sorprendentemente generosa de espacios verdes para cães, a partir dos vastos jardins da Villa Borghese no centro da cidade até o enorme parque da Villa Pamphilj não oeste. Os parques municipales italianos requieren cães com trela na maioria das áreas (por lei, os cães sempre devem ir com trela em público salvo em zonas habilitadas), mas a aplicación é descontraída e muitos parques têm aree cani (zonas caninas) onde se permite jugar sem trela.",
+      "tipsPt": [
+        "A lei italiana exige que os cães vayan com trela em público em todo momento, salvo em zonas caninas designadas (area cani). Se aplican multas.",
+        "As fuentes nasoni de Roma estão por todas partes — um excelente recurso gratuito para mantener hidratado a tu cão nos passeios longos.",
+        "Evita os passeios perto do Coliseo e o Foro Romano em horas pico. Os adoquines são duros para as patas e as multitudes são agotadoras.",
+        "Villa Pamphilj é a melhor opción para cães grandes e enérgicos que necesitan espacio real. Planifica al menos 2 horas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães na Villa Borghese?",
+          "a": "Sí. Os cães são bem-vindos na Villa Borghese com trela. Hay uma zona canina designada (area cani) perto da entrada do Viale delle Magnolie. Os cães não estão permitidos dentro da Galería Borghese ni não zoo."
+        },
+        {
+          "q": "¿Qué é um 'area cani' em Roma?",
+          "a": "Um area cani é uma zona canina habilitada que encontra-se na maioria dos parques públicos de Roma. Estão valladas, claramente señalizadas e permiten aos cães correr libremente sem trela. Busca sempre os cartazes verdes."
+        },
+        {
+          "q": "¿Puedo passear a mi cão perto dos monumentos antigos de Roma?",
+          "a": "Sí, mas os cães devem ir com trela. O Parco dell'Appia Antica é a melhor opción para um passeio pintoresco perto de monumentos antigos, especialmente os domingos quando está libre de carros."
+        }
       ]
     },
     "transport": {
@@ -317,7 +389,10 @@
           "policyEs": "Perros en transportín de menos de 30×20×15 cm: gratis. Perros más grandes: billete tarifa infantil obligatorio, bozal + correa obligatorios. Máximo 1 perro por pasajero. Fuente: atac.roma.it",
           "tip": "Rome's metro is only 2 lines (A and B). Buses are often more practical for reaching parks like Villa Pamphilj.",
           "tipFr": "Le métro romain n'a que 2 lignes (A et B). Les bus sont souvent plus pratiques pour accéder aux parcs comme la Villa Pamphilj.",
-          "tipEs": "El metro de Roma solo tiene 2 líneas (A y B). Los autobuses suelen ser más prácticos para llegar a parques como la Villa Pamphilj."
+          "tipEs": "El metro de Roma solo tiene 2 líneas (A y B). Los autobuses suelen ser más prácticos para llegar a parques como la Villa Pamphilj.",
+          "modePt": "Metro e Autocarro (ATAC)",
+          "policyPt": "Cães em transportadora de menos de 30×20×15 cm: grátis. Cães mais grandes: bilhete tarifa infantil obrigatório, bozal + trela obrigatórios. Máximo 1 cão por pasajero. Fuente: atac.roma.it",
+          "tipPt": "O metro de Roma só tem 2 líneas (A e B). Os autocarros costumam ser mais prácticos para chegar a parques como a Villa Pamphilj."
         },
         {
           "mode": "Taxi / Cab",
@@ -328,7 +403,10 @@
           "policyEs": "Los taxis oficiales de Roma (cabinas blancas, con taxímetro) generalmente aceptan perros, especialmente los pequeños en transportín. Los conductores pueden rechazar perros grandes a su discreción. No hay recargo oficial por animales.",
           "tip": "Call a taxi rather than hailing one — call 06 4994 or use the itTaxi app. Mention you have a dog when booking.",
           "tipFr": "Appelez un taxi plutôt que d'en héler un — appelez le 06 4994 ou utilisez l'appli itTaxi. Mentionnez que vous avez un chien en réservant.",
-          "tipEs": "Llama a un taxi en lugar de pararlo — llama al 06 4994 o usa la app itTaxi. Menciona que llevas un perro al reservar."
+          "tipEs": "Llama a un taxi en lugar de pararlo — llama al 06 4994 o usa la app itTaxi. Menciona que llevas un perro al reservar.",
+          "modePt": "Taxi",
+          "policyPt": "Os taxis oficiales de Roma (cabinas blancas, com taxímetro) generalmente aceitam cães, especialmente os pequeños em transportadora. Os conductores podem rechazar cães grandes ao seu discreción. Não hay recargo oficial por animales.",
+          "tipPt": "Llama a um taxi em lugar de pararlo — llama ao \\16 4994 o usa a app itTaxi. Menciona que llevas um cão al reservar."
         },
         {
           "mode": "Frecciarossa & Frecciargento (Trenitalia)",
@@ -339,7 +417,10 @@
           "policyEs": "Perros pequeños en transportín (máx 10 kg incluido el transportín): gratis. Perros de más de 10 kg: NO permitidos en trenes Frecciarossa o Frecciargento. Usar trenes regionales (Regionale) en su lugar.",
           "tip": "Check Trenitalia.com before travel. Rules are enforced and there is no workaround for large dogs on high-speed trains.",
           "tipFr": "Vérifiez sur Trenitalia.com avant de voyager. Les règles sont appliquées et il n'y a pas de contournement pour les grands chiens sur les trains à grande vitesse.",
-          "tipEs": "Consulta Trenitalia.com antes de viajar. Las normas se aplican y no hay alternativa para perros grandes en los trenes de alta velocidad."
+          "tipEs": "Consulta Trenitalia.com antes de viajar. Las normas se aplican y no hay alternativa para perros grandes en los trenes de alta velocidad.",
+          "modePt": "Frecciarossa e Frecciargento (Trenitalia)",
+          "policyPt": "Cães pequeños em transportadora (máx 10 kg incluido o transportadora): grátis. Cães de mais de 10 kg: Não permitidos em comboios Frecciarossa o Frecciargento. Usar comboios regionales (Regionale) no seu lugar.",
+          "tipPt": "Consulta Trenitalia.com antes de viajar. As normas se aplican e não hay alternativa para cães grandes nos comboios de alta velocidad."
         },
         {
           "mode": "Regional Trains (Trenitalia Regionale)",
@@ -350,7 +431,10 @@
           "policyEs": "Perros pequeños en transportín: gratis. Perros grandes: bozal + correa obligatorios + billete a mitad de precio. Los perros no pueden ocupar asientos. Control generalmente más relajado que en los servicios de alta velocidad.",
           "tip": "Regional trains to Ostia Lido (for dog-friendly beaches) depart from Roma Porta San Paolo. Journey: 30 minutes.",
           "tipFr": "Les trains régionaux pour Ostia Lido (plages dog-friendly) partent de Roma Porta San Paolo. Trajet : 30 minutes.",
-          "tipEs": "Los trenes regionales a Ostia Lido (playas para perros) parten de Roma Porta San Paolo. Trayecto: 30 minutos."
+          "tipEs": "Los trenes regionales a Ostia Lido (playas para perros) parten de Roma Porta San Paolo. Trayecto: 30 minutos.",
+          "modePt": "Comboios regionales (Trenitalia Regionale)",
+          "policyPt": "Cães pequeños em transportadora: grátis. Cães grandes: bozal + trela obrigatórios + bilhete a mitad de preço. Os cães não podem ocupar asientos. Control generalmente mais descontraído que nos serviços de alta velocidad.",
+          "tipPt": "Os comboios regionales a Ostia Lido (praias para cães) parten de Roma Porta San Paolo. Trayecto: 30 minutos."
         }
       ],
       "sections": [
@@ -360,7 +444,9 @@
           "titleEs": "Enlaces de transporte útiles",
           "contentEn": "ATAC official site: atac.roma.it — Rome bus and metro routes, tickets, and real-time information. Trenitalia: trenitalia.com — intercity and regional trains, pet travel information. itTaxi app: book official Rome taxis in advance and specify that you are travelling with a dog.",
           "contentFr": "Site officiel ATAC : atac.roma.it — lignes de bus et de métro de Rome, billets et informations en temps réel. Trenitalia : trenitalia.com — trains intercités et régionaux, informations sur le voyage avec animaux. Application itTaxi : réservez les taxis officiels romains à l'avance en précisant que vous voyagez avec un chien.",
-          "contentEs": "Sitio oficial de ATAC: atac.roma.it — rutas de autobús y metro de Roma, billetes e información en tiempo real. Trenitalia: trenitalia.com — trenes interurbanos y regionales, información sobre viaje con mascotas. App itTaxi: reserva taxis oficiales de Roma con antelación y especifica que viajas con un perro."
+          "contentEs": "Sitio oficial de ATAC: atac.roma.it — rutas de autobús y metro de Roma, billetes e información en tiempo real. Trenitalia: trenitalia.com — trenes interurbanos y regionales, información sobre viaje con mascotas. App itTaxi: reserva taxis oficiales de Roma con antelación y especifica que viajas con un perro.",
+          "titlePt": "Ligações de transporte útiles",
+          "contentPt": "Sitio oficial de ATAC: atac.roma.it — rutas de autocarro e metro de Roma, bilhetes e informação em tiempo real. Trenitalia: trenitalia.com — comboios interurbanos e regionales, informação sobre viaje com animais. App itTaxi: reserva taxis oficiales de Roma com antelación e especifica que viajas com um cão."
         }
       ],
       "faqsEn": [
@@ -403,6 +489,22 @@
         {
           "q": "¿Cómo se dice '¿Puedo traer a mi perro?' en italiano?",
           "a": "'Posso portare il mio cane?' es la frase estándar. Para los taxis: '¿Accettate cani?' (¿Aceptan perros?). La mayoría de los romanos responden positivamente a preguntas educadas sobre perros."
+        }
+      ],
+      "titlePt": "Viajar com animais em Roma",
+      "introPt": "A red de transporte público de Roma (ATAC) cubre a cidade com autocarros, elétricos e dos líneas de metro. As normas para cães são claras: os cães pequeños em transportadora de menos de 30×20×15 cm viajan grátis em todos os serviços ATAC; os cães mais grandes requieren um bilhete de tarifa infantil e devem levar bozal e ir com trela. Os taxis em Roma são generalmente acolhedores com os cães. Para viajes interurbanos, os comboios Frecciarossa de Trenitalia permiten cães pequeños em transportadora grátis, mas os cães mais grandes não estão permitidos em Frecciarossa — os comboios regionales são a alternativa.",
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão não metro de Roma?",
+          "a": "Sí. Os cães pequeños em transportadora (menos de 30×20×15 cm) viajan grátis. Os cães mais grandes necesitan um bilhete de tarifa infantil, devem levar bozal e ir com trela. Fuente: atac.roma.it"
+        },
+        {
+          "q": "¿Podem os cães grandes viajar em comboios Frecciarossa em Italia?",
+          "a": "Não. Os cães de mais de 10 kg (incluyendo o transportadora) não estão permitidos em comboios Frecciarossa o Frecciargento. Usa os comboios regionales de Trenitalia, onde os cães grandes podem viajar com um bilhete a mitad de preço, bozal e trela."
+        },
+        {
+          "q": "¿Como se dice '¿Puedo trazer a mi cão?' em italiano?",
+          "a": "'Posso portare il mio cane?' é a frase estándar. Para os taxis: '¿Accettate cani?' (¿Aceitam cães?). A maioria dos romanos responden positivamente a preguntas educadas sobre cães."
         }
       ]
     },
@@ -486,6 +588,22 @@
           "q": "¿Cómo llego a Ostia desde Roma con mi perro?",
           "a": "Toma el tren regional Roma–Lido desde la estación Roma Porta San Paolo (cerca del metro Piramide, Línea B). Tiempo de viaje: 30 minutos. Los perros en transportín viajan gratis; los perros más grandes necesitan un billete a mitad de precio con bozal y correa."
         }
+      ],
+      "titlePt": "Praias para cães perto de Roma",
+      "introPt": "Roma está a 30 km do mar Tirreno, lo que facilita as excursiones a costa a partir do centro da cidade. As praias alrededor de Ostia e Fregene são as opciones mais cercanas. A normativa italiana de praias generalmente prohíbe os cães na maioria das zonas de praia pública durante a temporada de banho estival (junho–setembro), mas varias praias têm zonas dedicadas a cães. Fora da temporada estival, as restricciones se levantan em gran medida.",
+      "faqsPt": [
+        {
+          "q": "¿Hay praias para cães perto de Roma?",
+          "a": "Sí. Ostia (30 min de comboio) tem uma secção de praia designada para cães (spiaggia per cani) não extremo de Levante, aberta o ano inteiro. Fregene e Anzio são também buenas opciones, especialmente fora da temporada alta de junho a setembro."
+        },
+        {
+          "q": "¿Podem os cães ir a praia em Italia em verão?",
+          "a": "Em Italia, os cães generalmente estão prohibidos nas principales zonas de praia durante a temporada de banho (junho–setembro) por razones de higiene. A maioria dos pueblos playeros têm al menos uma secção de praia designada para cães. Consulta as normas locales antes de ir."
+        },
+        {
+          "q": "¿Como llego a Ostia a partir de Roma com mi cão?",
+          "a": "Toma o comboio regional Roma–Lido a partir da estação Roma Porta San Paolo (perto do metro Piramide, Línea B). Tiempo de viaje: 30 minutos. Os cães em transportadora viajan grátis; os cães mais grandes necesitan um bilhete a mitad de preço com bozal e trela."
+        }
       ]
     },
     "vets": {
@@ -519,7 +637,9 @@
           "tip": "Call ahead to confirm current emergency hours before going out of hours.",
           "tipFr": "Appelez à l'avance pour confirmer les horaires d'urgence actuels avant de vous y rendre en dehors des heures normales.",
           "tipEs": "Llama antes para confirmar los horarios de urgencias actuales antes de acudir fuera de horario.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Roma+Sud"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Roma+Sud",
+          "descriptionPt": "Uma clínica veterinária multiespecialista bem establecida na zona EUR de Roma, que ofrece medicina general, cirugía, diagnósticos e serviços de urgências. A clínica tem horario ampliado e atiende casos de urgência. Pessoal anglohablante disponible. Atiende clientes do sul e o centro de Roma.",
+          "tipPt": "Llama antes para confirmar os horarios de urgências actuales antes de acudir fora de horario."
         },
         {
           "name": "Poliambulatorio Veterinario Roma",
@@ -536,7 +656,9 @@
           "tip": "This clinic is closest to the Prati and Vatican area where many tourist accommodation options are located.",
           "tipFr": "Cette clinique est la plus proche du quartier Prati et du Vatican, où se trouvent de nombreux hébergements touristiques.",
           "tipEs": "Esta clínica es la más cercana a la zona de Prati y el Vaticano, donde se encuentran muchas opciones de alojamiento turístico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Poliambulatorio+Veterinario+Roma+Via+Gregorio+VII"
+          "googleMapsUrl": "https://maps.google.com/?q=Poliambulatorio+Veterinario+Roma+Via+Gregorio+VII",
+          "descriptionPt": "Uma clínica veterinária multiespecialista perto do área do Vaticano, que ofrece medicina general, diagnósticos, medicina interna e cirugía. A clínica goza de buena reputación entre os residentes de Prati e Aurelio e cuenta com veterinários anglohablantes. Se recomiendan citas mas se aceitam casos urgentes sem cita.",
+          "tipPt": "Esta clínica é a mais cercana a zona de Prati e o Vaticano, onde encontram-se muitas opciones de alojamento turístico."
         },
         {
           "name": "Ospedale Veterinario I Portoni Rossi (near Rome)",
@@ -553,7 +675,9 @@
           "tip": "Save 06 5838 8282 in your phone as soon as you arrive in Rome. It is the Rome municipal vet emergency line.",
           "tipFr": "Enregistrez le 06 5838 8282 dans votre téléphone dès votre arrivée à Rome. C'est la ligne d'urgence vétérinaire municipale de Rome.",
           "tipEs": "Guarda el 06 5838 8282 en tu teléfono nada más llegar a Roma. Es la línea de urgencias veterinarias municipales de Roma.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Roma+urgenze"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Roma+urgenze",
+          "descriptionPt": "Para referencia: o mayor hospital veterinário de referencia de 24 horas de Italia está em Bolonia (2 horas de Roma em Frecciarossa). Para emergências genuinas em Roma, contacta o serviço de urgências veterinárias ASL Roma não 06 5838 8282 o pregunta em tu hotel pela clínica 24h mais cercana.",
+          "tipPt": "Guarda o 06 5838 8282 em tu teléfono nada mais chegar a Roma. É a línea de urgências veterinárias municipales de Roma."
         }
       ],
       "tipsEn": [
@@ -614,6 +738,28 @@
         {
           "q": "¿Qué hago si mi perro se lesiona en Roma?",
           "a": "Llama al 06 5838 8282 (urgencias veterinarias ASL Roma) para que te deriven a la clínica abierta más cercana. Alternativamente, llama al 112 (emergencias generales) y solicita asistencia veterinaria. Mantén a tu mascota tranquila y pide al hotel que te indique el veterinario más cercano."
+        }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Rome — Hospitales e clínicas veterinárias",
+      "introPt": "Roma tem uma buena cobertura veterinária em toda a cidade, incluyendo varias clínicas com serviços de urgências ampliados o de 24 horas. As animais registradas na UE que entran em Italia necesitan um passaporte de animal UE válido, microchip e vacinação antirrábica ao dia. Lleva sempre a documentação de tu animal. O número de emergências nacional italiano é o 112.",
+      "tipsPt": [
+        "Lleva sempre o passaporte UE de tu animal e os registros de vacinação. As aduanas e os veterinários italianos podem pedirlos.",
+        "O número de emergências para todas as emergências italianas (incluidas as derivaciones veterinárias) é o 112.",
+        "Guarda a línea de urgências veterinárias ASL Roma em tu teléfono: 06 5838 8282.",
+        "Em Italia, os veterinários com licencia se llaman 'medico veterinário'. Pide al pessoal do hotel 'il veterinário più vicino' (o veterinário mais cercano)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Necesito um passaporte UE para levar a mi cão a Italia?",
+          "a": "Sí. As animais registradas na UE necesitan um passaporte de animal UE válido, microchip e vacinação antirrábica ao dia. As animais não UE necesitan um certificado sanitario e documentação adicional. Consulta salute.gov.it para os requisitos actuales."
+        },
+        {
+          "q": "¿Hay um veterinário de urgências 24 horas em Roma?",
+          "a": "Roma tem varias clínicas com serviços de urgências. Para uma derivación inmediata a clínica aberta mais cercana a cualquier hora, llama a línea de urgências veterinárias ASL Roma: 06 5838 8282."
+        },
+        {
+          "q": "¿Qué hago se mi cão se lesiona em Roma?",
+          "a": "Llama ao \\16 5838 8282 (urgências veterinárias ASL Roma) para que te deriven a clínica aberta mais cercana. Alternativamente, llama ao \\112 (emergências generales) e solicita asistencia veterinária. Mantén a tu animal tranquila e pide al hotel que te indique o veterinário mais cercano."
         }
       ]
     },
@@ -690,6 +836,30 @@
           "q": "¿Cuáles son las normas para los perros en los parques de Roma?",
           "a": "Los perros deben ir con correa en la mayoría de los espacios públicos incluidos los parques, salvo en las zonas caninas designadas (area cani). La mayoría de los grandes parques de Roma tienen al menos un area cani. Técnicamente pueden aplicarse multas por perros sin correa fuera de las zonas designadas."
         }
+      ],
+      "titlePt": "Consejos esenciales para visitar Roma com um cão",
+      "introPt": "Roma com um cão é genuinamente gratificante, mas requiere algo de preparación. Os monumentos e as zonas turísticas da cidade podem ser agobiantes em verão, e o calor de junho a agosto requiere uma planificación cuidadosa para os cães. A buena noticia: os romanos são ampliamente favorables aos cães, os parques são excelentes, e os numerosos espacios gastronómicos al aire libre da cidade a tornam em uno dos melhores destinos de Italia para viajar com uma animal.",
+      "tipsPt": [
+        "Roma em julho e agosto é extremadamente calurosa. Pasea a tu cão muito temprano pela manhã (antes das 9h) e pela tarde-noite (después das 19h). O calor do mediodía sobre os adoquines romanos pode quemar as patas.",
+        "Os cães não estão permitidos não Vaticano, o Coliseo ni o Foro Romano. Planifica turnarse o usar um cuidador de animais para as visitas aos monumentos principales.",
+        "As fuentes nasoni estão por toda Roma — mais de 2.500 em toda a cidade. São seguras para beber e os cães as adoran. Úsalas constantemente.",
+        "O bairro de Prati (perto do Vaticano) é o mais amigable para cães em alojamento e gastronomía. Trastevere também é bueno mas está mais concurrido.",
+        "Lleva sempre uma bolsa para os excrementos. Roma tem equipos de limpieza callejera, mas a eliminación responsable é lo esperado e se aplican multas nas zonas turísticas.",
+        "Os adoquines (sampietrini) são duros para as patas em passeios longos. Considera uma crema protectora de patas para itinerarios de caminhada de varios dias."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Roma amigable para os cães?",
+          "a": "Sí, em general. Os romanos têm uma atitude descontraída para os cães nos espacios públicos. Os parques são buenos, hay amplia oferta gastronómica al aire libre, e os cães não transporte público estão permitidos com o equipo adecuado. As principales limitaciones são o calor estival e a prohibición de cães nos monumentos principales."
+        },
+        {
+          "q": "¿Puedo visitar o Coliseo com mi cão?",
+          "a": "Não. Os cães não estão permitidos dentro do Coliseo, o Foro Romano ni as áreas arqueológicas do Palatino. Puedes atar a tu cão fuera numa zona sombreada, mas esto não se recomienda com o calor do verão."
+        },
+        {
+          "q": "¿Cuáles são as normas para os cães nos parques de Roma?",
+          "a": "Os cães devem ir com trela na maioria dos espacios públicos incluidos os parques, salvo nas zonas caninas designadas (area cani). A maioria dos grandes parques de Roma têm al menos um area cani. Técnicamente podem aplicarse multas por cães sem trela fora das zonas designadas."
+        }
       ]
     },
     "attractions": {
@@ -716,7 +886,10 @@
           "tip": "Come at sunset for the famous cannon shot at noon or simply for the golden hour view. The promenade is far less crowded than it appears to be from below.",
           "tipFr": "Venez au coucher du soleil ou pour le célèbre coup de canon de midi. La promenade est bien moins fréquentée que vu de bas.",
           "tipEs": "Ven al atardecer o para el famoso cañonazo del mediodía. El paseo está mucho menos concurrido de lo que parece desde abajo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gianicolo+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Gianicolo+Roma",
+          "descriptionPt": "A colina do Gianicolo ofrece a melhor vista panorámica de Roma e é um destino de passeio favorito dos romanos com cães. O longo passeio a lo longo da cresta está sombreado por árvores, libre de carros e cuenta com bancos com vistas extraordinarias sobre as cúpulas e tejados da cidade. Os cães devem ir com trela mas o ambiente é muito descontraído. A zona conecta com o parque da Villa Pamphilj. Um passeio precioso al atardecer.",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o recorrido",
+          "tipPt": "Ven al atardecer o para o famoso cañonazo do mediodía. O passeio está muito menos concurrido de lo que parece a partir de abajo."
         },
         {
           "name": "Piazza Navona",
@@ -734,7 +907,10 @@
           "tip": "Visit between 07:00 and 09:00 in summer. The piazza is magical when empty and the morning light is extraordinary.",
           "tipFr": "Visitez entre 7h00 et 9h00 en été. La piazza est magique lorsqu'elle est vide et la lumière matinale est extraordinaire.",
           "tipEs": "Visita entre las 07:00 y las 09:00 en verano. La plaza es mágica cuando está vacía y la luz de la mañana es extraordinaria.",
-          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Navona+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Navona+Roma",
+          "descriptionPt": "A praça mais teatral de Roma, construida sobre a huella do estadio de Domiciano, é totalmente acessível para cães (com trela). As fuentes barrocas, incluida a Fuente dos Quatro Rios de Bernini, os artistas callejeros e as esplanadas dos cafés lo tornam numa paragem genuinamente agradable. Varias das esplanadas dos cafés nos bordes da praça aceitam cães. Melhor visitarla temprano pela manhã o pela tarde-noite quando as multitudes de turistas se reducen.",
+          "petPolicyPt": "Cães com trela permitidos. As esplanadas dos cafés nos bordes da praça generalmente aceitam cães.",
+          "tipPt": "Visita entre as 07:00 e as 09:00 em verão. A praça é mágica quando está vacía e a luz da manhã é extraordinaria."
         },
         {
           "name": "Trastevere Neighbourhood Walk",
@@ -752,7 +928,10 @@
           "tip": "Start at Piazza Santa Maria in Trastevere at 07:30 when the square is peaceful. End at the Lungotevere for a riverside walk as the city wakes up.",
           "tipFr": "Commencez par la Piazza Santa Maria in Trastevere à 7h30 quand la place est paisible. Terminez au Lungotevere pour une promenade au bord du fleuve au réveil de la ville.",
           "tipEs": "Comienza en la Piazza Santa Maria in Trastevere a las 07:30 cuando la plaza está en paz. Termina en el Lungotevere para un paseo junto al río mientras la ciudad despierta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Trastevere+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Trastevere+Roma",
+          "descriptionPt": "As ruas medievais, os muros cubiertos de hiedra e as piazzas de Trastevere lo tornam não bairro mais encantador de Roma para passear com um cão. Os cães são normales aqui — os verás atados frente aos bares, trotando junto aos locales pelos vicoli, o durmiendo sob as sillas dos cafés. O bairro está no seu melhor momento temprano pela manhã (antes de que lleguen os turistas) e pela tarde-noite (después das 20:00).",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o bairro",
+          "tipPt": "Comienza na Piazza Santa Maria in Trastevere a as 07:30 quando a praça está em paz. Termina não Lungotevere para um passeio junto ao rio mientras a cidade despierta."
         },
         {
           "name": "Appian Way (Via Appia Antica) Walk",
@@ -770,7 +949,10 @@
           "tip": "Start at Porta San Sebastiano (Museo delle Mura) and walk south. The first 3km are the most dramatic. Rent bikes at the park entrance to go further.",
           "tipFr": "Commencez à la Porta San Sebastiano (Museo delle Mura) et marchez vers le sud. Les 3 premiers km sont les plus spectaculaires. Louez des vélos à l'entrée pour aller plus loin.",
           "tipEs": "Comienza en la Porta San Sebastiano (Museo delle Mura) y camina hacia el sur. Los primeros 3 km son los más espectaculares. Alquila bicicletas en la entrada para ir más lejos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Via+Appia+Antica+Roma"
+          "googleMapsUrl": "https://maps.google.com/?q=Via+Appia+Antica+Roma",
+          "descriptionPt": "Caminhar pela antiga Vía Apia com tu cão é uma das as experiencias mais memorables de Roma. Os adoquines de 2.000 anos de antigüedad, os pinos piñoneros, as tumbas e acueductos em ruinas — todo ello com tu cão com trela a tu lado — crea uma atmosfera genuinamente extraordinaria. Os domingos são os melhores, quando a carretera está fechada al tráfico de 09:00 a 18:00. Hay alquiler de bicicletas disponible na entrada do parque.",
+          "petPolicyPt": "Cães com trela bem-vindos em todo o parque arqueológico",
+          "tipPt": "Comienza na Porta San Sebastiano (Museu delle Mura) e camina para o sur. Os primeros 3 km são os mais espectaculares. Alquila bicicletas na entrada para ir mais lejos."
         }
       ],
       "tipsEn": [
@@ -829,6 +1011,27 @@
           "q": "¿La zona del Panteón es accesible con un perro?",
           "a": "Sí. El exterior del Panteón y la plaza circundante (Piazza della Rotonda) son accesibles al público con perros con correa. Los perros no pueden entrar en el Panteón en sí, pero puedes explorar libremente las calles y cafés de los alrededores."
         }
+      ],
+      "titlePt": "Atracciones com animais em Roma",
+      "introPt": "Os grandes museus e yacimientos arqueológicos de Roma (Coliseo, Foro Romano, Museus Vaticanos, Galería Borghese) não permiten cães. Não entanto, os extraordinarios espacios al aire libre da cidade — parques, praças, calzadas antigas e miradores — são todos acessíveis com cães e são, em muitos sentidos, a mayor atracción de Roma. A continuación se presentan as melhores experiencias al aire libre em Roma que puedes disfrutar genuinamente com tu cão.",
+      "tipsPt": [
+        "Os cães não estão permitidos em ninguno dos grandes museus de Roma (Galería Borghese, Museus Vaticanos, Museus Capitolinos, Coliseo). Planifica tu programa de visitas teniendo esto em cuenta.",
+        "Os espacios exteriores de Roma são lo suficientemente espectaculares como para llenar dias enteros sem entrar num só museu. O Gianicolo, a Appia Antica e Trastevere são todos gratuitos e aptos para cães.",
+        "As praças (Navona, Campo de' Fiori, zona do Panteón) são todas acessíveis públicamente com cães com trela. A clave é ir temprano o tarde para evitar as peores aglomeraciones."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão al Vaticano?",
+          "a": "Não. Os cães não estão permitidos na Basílica de San Pedro, os Museus Vaticanos ni a Capilla Sixtina. Não hay serviços de cuidado de animais dentro da Cidade do Vaticano. Planifica dejar a tu cão no hotel o com um cuidador para as visitas al Vaticano."
+        },
+        {
+          "q": "¿Qué atracciones al aire libre de Roma são aptas para cães?",
+          "a": "Todas as principales praças, parques, colinas (Gianicolo, Aventino, Pincio) e ruas de Roma são aptas para cães com trela. O Parco dell'Appia Antica e a Villa Pamphilj são especialmente buenos para passeios mais longos."
+        },
+        {
+          "q": "¿A zona do Panteón é acessível com um cão?",
+          "a": "Sí. O exterior do Panteón e a praça circundante (Piazza della Rotonda) são acessíveis al público com cães com trela. Os cães não podem entrar não Panteón em sí, mas puedes explorar libremente as ruas e cafés dos alrededores."
+        }
       ]
     },
     "petsitting": {
@@ -855,7 +1058,10 @@
           "tip": "Book at least 5–7 days in advance for Vatican or Colosseum visit days, especially in summer.",
           "tipFr": "Réservez au moins 5 à 7 jours à l'avance pour les jours de visite au Vatican ou au Colisée, surtout en été.",
           "tipEs": "Reserva con al menos 5-7 días de antelación para los días de visita al Vaticano o el Coliseo, especialmente en verano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rome+Italy"
+          "googleMapsUrl": "https://maps.google.com/?q=Rome+Italy",
+          "descriptionPt": "Rover.com é a plataforma mais fiable para encontrar cuidadores de animais e paseadores de cães verificados e com reseñas em Roma. O sitio lista decenas de cuidadores activos em todos os bairros de Roma, com reseñas verificadas, transparencia de preços e cobertura de seguro. Para visitas de um dia aos monumentos principales (Vaticano, Coliseo), reservar uma sesión de guardería a través de Rover é a solución mais práctica.",
+          "petPolicyPt": "Cuidadores verificados, comprobación de antecedentes, seguro de animais incluido na maioria das reservas",
+          "tipPt": "Reserva com al menos 5-7 dias de antelación para os dias de visita al Vaticano o Coliseo, especialmente em verão."
         }
       ],
       "tipsEn": [
@@ -913,6 +1119,27 @@
         {
           "q": "¿Es seguro dejar a mi perro con un cuidador de Rover en Roma?",
           "a": "Rover realiza verificaciones de antecedentes a todos los cuidadores, incluye seguro de mascotas y tiene una línea de asistencia 24/7. Lee las reseñas cuidadosamente y comunica las necesidades específicas de tu perro. La plataforma es ampliamente utilizada y generalmente fiable en Roma."
+        }
+      ],
+      "titlePt": "Cuidado de animais em Roma",
+      "introPt": "Roma cuenta com uma red creciente de cuidadores e paseadores de cães profesionales, principalmente localizables a través de plataformas como Rover.com. Varias pensiones para cães (pensioni per cani) establecidas também operan na cidade e os seus alrededores. Esto é especialmente útil para visitas al Vaticano, o Coliseo e outros grandes sitios que prohíben os cães. Reserva com antelación durante a temporada alta (junho–setembro).",
+      "tipsPt": [
+        "Reserva o cuidado de animais com al menos uma semana de antelación para os meses de verão. A demanda é alta alrededor dos dias de visita al Vaticano e o Coliseo.",
+        "Pide al conserje de tu hotel que te recomiende cuidadores de animais locales. Muitos hotéis de Roma que aceitam cães têm relaciones establecidas com paseadores de cães locales.",
+        "Muitos paseadores de cães romanos (dog-sitter em italiano) trabajan de forma independiente por recomendación. Pregunta não bar o estanco local se os listados de Rover são limitados em tu zona."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo dejar a mi cão mientras visito o Vaticano em Roma?",
+          "a": "Reserva um cuidador de animais o paseador a través de Rover.com com antelación. Algunos hotéis cercanos al Vaticano também têm contactos de conserjería com paseadores de cães locales. Não hay serviço oficial de cuidado de animais nas puertas do Vaticano."
+        },
+        {
+          "q": "¿Hay guarderías para cães em Roma?",
+          "a": "Sí. Roma tem varias 'pensioni per cani' (pensiones para cães) establecidas nos suburbios, e muitos cuidadores do centro ofrecen também guardería diurna. Busca em Rover.com opciones de guardería em tu bairro."
+        },
+        {
+          "q": "¿É seguro dejar a mi cão com um cuidador de Rover em Roma?",
+          "a": "Rover realiza verificaciones de antecedentes a todos os cuidadores, incluye seguro de animais e tem uma línea de asistencia 24/7. Lee as reseñas cuidadosamente e comunica as necesidades específicas de tu cão. A plataforma é ampliamente utilizada e generalmente fiable em Roma."
         }
       ]
     }

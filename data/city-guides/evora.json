@@ -33,7 +33,11 @@
           "tip": "The carne de porco preto (acorn-fed black pork) is the regional gastronomic star — pair with a Reguengos de Monsaraz red.",
           "tipFr": "La carne de porco preto (porc noir nourri aux glands) est la star gastronomique régionale — accordez avec un rouge de Reguengos de Monsaraz.",
           "tipEs": "La carne de cerdo negro alimentado de bellotas es la estrella gastronómica regional — combina con un tinto de Reguengos de Monsaraz.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fialho+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Fialho+Evora",
+          "descriptionPt": "Restaurante familiar alentejano de 1948 — a mesa tradicional mais aclamada de Évora, cerdo regional alimentado de bellotas, migas alentejanas. Cães bem-vindos na esplanada adoquinada delantera o ano inteiro.",
+          "petPolicyPt": "Cães em esplanada",
+          "mustTryPt": "Carne de cerdo negro, migas alentejanas, vinho do Alentejo",
+          "tipPt": "A carne de cerdo negro alimentado de bellotas é a estrella gastronómica regional — combina com um tinto de Reguengos de Monsaraz."
         },
         {
           "name": "Café Alentejo",
@@ -55,7 +59,11 @@
           "tip": "The corner table at the back has the calmest light — ideal for a quiet read with a dog after the Roman Temple visit.",
           "tipFr": "La table d'angle au fond a la lumière la plus calme — idéal pour une lecture tranquille avec un chien après la visite du Temple romain.",
           "tipEs": "La mesa de esquina del fondo tiene la luz más tranquila — ideal para una lectura tranquila con perro después de la visita al Templo romano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Alentejo+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Alentejo+Evora",
+          "descriptionPt": "Café-bar alentejano moderno perto do Templo romano — café de especialidad, tablas de quesos regionales, opciones vegetarianas. Cães bem-vindos em toda a pequeña sala; boles na puerta o ano inteiro.",
+          "petPolicyPt": "Cães bem-vindos em todo o lado",
+          "mustTryPt": "Flat white de especialidad, queijo de Nisa, tapas vegetarianas",
+          "tipPt": "A mesa de esquina do fondo tem a luz mais tranquila — ideal para uma lectura tranquila com cão después da visita al Templo romano."
         },
         {
           "name": "Tasquinha do Oliveira",
@@ -77,7 +85,11 @@
           "tip": "Reserve by phone 1 week ahead — only 8 tables, the dinner menu books out fast.",
           "tipFr": "Réservez par téléphone 1 semaine à l'avance — seulement 8 tables, le menu dîner se réserve vite.",
           "tipEs": "Reserva por teléfono con 1 semana de antelación — solo 8 mesas, el menú de cena se reserva rápido.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tasquinha+do+Oliveira+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Tasquinha+do+Oliveira+Evora",
+          "descriptionPt": "Pequeña tasca alentejana familiar com só 8 mesas — menú de 4 platos de valor extraordinario (uns 25 €/persona), especialidades regionales. Cães bem-vindos na esplanada delantera o ano inteiro; interior com asentimiento previo.",
+          "petPolicyPt": "Cães em esplanada; interior com asentimiento",
+          "mustTryPt": "Menú 4 platos Alentejo, açorda, queijo de Évora",
+          "tipPt": "Reserva por teléfono com 1 semana de antelación — só 8 mesas, o menú de jantar se reserva rápido."
         }
       ],
       "tipsEn": [
@@ -124,6 +136,23 @@
           "q": "¿Cuál es la especialidad alentejana regional?",
           "a": "La carne de cerdo negro alimentado de bellotas es el plato icónico, combinado con migas alentejanas (estofado de pan y cerdo). Los tintos regionales (Castelão, Aragonez, Trincadeira) son de excelente relación calidad-precio a 8-15 € la botella."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Évora",
+      "introPt": "A cultura do café e tasca alentejana é fiablemente pet-friendly — os cães com trela são admitidos em esplanada por defecto, os boles aparecen sem pedirlos, e a Praça do Giraldo e o Longo de São Vicente concentran as melhores direções.",
+      "tipsPt": [
+        "A cultura tasca alentejana é ampliamente pet-friendly — al menos o 80 % dos cafés e tabernas de Évora admite cães com trela em esplanada o ano inteiro.",
+        "Os vinhos do Alentejo ofrecen uma relación calidad-preço excepcional — os tintos regionales (Castelão, Aragonez) rondan 8-15 € a botella em restaurante frente a 30 €+ em Lisboa.",
+        "Propina: 5-10 % em efectivo por buen serviço; o serviço não está incluido em Portugal."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Évora?",
+          "a": "Sí na mayoría. Perto do 80 % das tabernas e cafés de Évora admite cães com trela em esplanada, e muitos os aceitam também dentro fora de horas punta."
+        },
+        {
+          "q": "¿Cuál é a especialidad alentejana regional?",
+          "a": "A carne de cerdo negro alimentado de bellotas é o plato icónico, combinado com migas alentejanas (estofado de pan e cerdo). Os tintos regionales (Castelão, Aragonez, Trincadeira) são de excelente relación calidad-preço a 8-15 € a botella."
+        }
       ]
     },
     "parks": {
@@ -167,7 +196,16 @@
           "tip": "Visit in the early evening (19:00-21:00 in summer) for the local dog-walking community — Évora's main central meeting spot.",
           "tipFr": "Visitez en début de soirée (19h-21h en été) pour la communauté locale de promeneurs de chiens — point de rencontre central principal d'Évora.",
           "tipEs": "Visita al inicio de la tarde (19:00-21:00 en verano) para la comunidad local de paseadores de perros — punto de encuentro central principal de Évora.",
-          "googleMapsUrl": "https://maps.google.com/?q=Jardim+Publico+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Jardim+Publico+Evora",
+          "leashRulePt": "Com trela o ano inteiro",
+          "descriptionPt": "O principal jardim central de Évora — passeios formales sob grandes pinos, o Palácio em ruinas de Dom Manuel, o pabellón Galeria das Damas, estanques ornamentales. Grátis, pet-friendly com cães com trela o ano inteiro, inmediatamente a sul do Templo romano.",
+          "amenitiesPt": [
+            "Aseos públicos",
+            "Café",
+            "Parque infantil",
+            "WiFi grátis"
+          ],
+          "tipPt": "Visita al inicio da tarde (19:00-21:00 em verão) para a comunidad local de paseadores de cães — punto de encuentro central principal de Évora."
         },
         {
           "name": "Montado do Alentejo (Évora outskirts)",
@@ -202,7 +240,16 @@
           "tip": "The Caminho dos Almendres trail (5 km) ends at the Cromeleque dos Almendres (Iberian Stonehenge, 7000 years older than Stonehenge) — the iconic Alentejo dog walk.",
           "tipFr": "Le Caminho dos Almendres (5 km) se termine au Cromeleque dos Almendres (Stonehenge ibérique, 7 000 ans plus ancien que Stonehenge) — la promenade canine alentejane iconique.",
           "tipEs": "El Caminho dos Almendres (5 km) termina en el Cromeleque dos Almendres (Stonehenge ibérico, 7 000 años más antiguo que Stonehenge) — el paseo canino alentejano icónico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromeleque+dos+Almendres"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromeleque+dos+Almendres",
+          "leashRulePt": "Sem trela em trilhos rurales fora de fincas privadas",
+          "descriptionPt": "O montado tradicional de alcornoques do Alentejo rodea Évora por três lados — paisaje agrosilvopastoral patrimonio UNESCO, trilhos públicos gratuitos, trilhos balizados. A iniciativa Caminhos do Montado ofrece 5 caminhadas caninas de um dia a menos de 15 min de Évora.",
+          "amenitiesPt": [
+            "Parking grátis em inicios",
+            "Trilhos señalizados",
+            "Sem instalaciones",
+            "Sombra de alcornoques"
+          ],
+          "tipPt": "O Caminho dos Almendres (5 km) termina não Cromeleque dos Almendres (Stonehenge ibérico, 7 000 anos mais antigo que Stonehenge) — o passeio canino alentejano icónico."
         },
         {
           "name": "Évora City Walls Walk",
@@ -234,7 +281,15 @@
           "tip": "The full 4 km circuit takes 1h with a dog at a leisurely pace — best at sunset when the cork-oak montado glows golden beyond the walls.",
           "tipFr": "Le circuit complet de 4 km prend 1h avec un chien à un rythme tranquille — au mieux au coucher du soleil quand le montado de chênes-lièges s'illumine doré au-delà des remparts.",
           "tipEs": "El circuito completo de 4 km lleva 1h con perro a paso tranquilo — mejor al atardecer cuando el montado de alcornoques se ilumina dorado más allá de las murallas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evora+walls"
+          "googleMapsUrl": "https://maps.google.com/?q=Evora+walls",
+          "leashRulePt": "Com trela o ano inteiro",
+          "descriptionPt": "O passeio de 4 km a lo longo das muralhas medievais de Évora (principalmente séculos XIV-XVII) — em parte sobre o adarve, em parte sobre o anillo verde justo fuera. Pet-friendly com cães com trela grátis o ano inteiro.",
+          "amenitiesPt": [
+            "Acceso libre",
+            "Múltiples puertas de entrada",
+            "Sem instalaciones a mitad de circuito"
+          ],
+          "tipPt": "O circuito completo de 4 km lleva 1h com cão a paso tranquilo — melhor al atardecer quando o montado de alcornoques se ilumina dorado mais allá das muralhas."
         }
       ],
       "tipsEn": [
@@ -281,6 +336,23 @@
           "q": "¿Pueden los perros visitar el Cromeleque dos Almendres?",
           "a": "Sí — el sitio megalítico de 7 000 años se alcanza por el Caminho dos Almendres (5 km desde las afueras de Évora) y es dog-friendly con perros con correa gratis todo el año."
         }
+      ],
+      "titlePt": "Parques caninos e espacios verdes em Évora",
+      "introPt": "O compacto Centro Histórico UNESCO de Évora é corto em espacios verdes, mas o Jardim Público tras as muralhas medievais ofrece um descanso frondoso, o campo alentejano se abre al montado de alcornoques justo fora das muralhas, e o lago Alqueva (o mayor lago artificial de Europa) está a 50 min al este para excursiones de banho canino.",
+      "tipsPt": [
+        "A ordenanza municipal de Évora exige trela em todas as vías pavimentadas e os adoquines do centro Histórico; sem trela permitido nos trilhos rurales alentejanos fora de parques formales.",
+        "Calor estival alentejano alto (35-40 °C julho-agosto) — limita os passeios caninos antes das 09:00 e después das 19:00; as ruas calcáreas se mantienen acolhedoras até as 22:00.",
+        "Lleva sempre água em verão — os trilhos rurales dos alcornoques têm muito pouca sombra uma vez fora das secciones boscosas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sem trela nos parques de Évora?",
+          "a": "Sem trela permitido nos trilhos rurales do montado fora de parques formales e fora de fincas privadas. O Jardim Público, os adoquines do centro Histórico e o passeio pelas muralhas exigen trela o ano inteiro."
+        },
+        {
+          "q": "¿Podem os cães visitar o Cromeleque dos Almendres?",
+          "a": "Sí — o sitio megalítico de 7 000 anos se alcanza pelo Caminho dos Almendres (5 km a partir das afueras de Évora) e é pet-friendly com cães com trela grátis o ano inteiro."
+        }
       ]
     },
     "transport": {
@@ -305,7 +377,10 @@
           "tip": "The 1h30 Intercidades is the most dog-comfortable Lisbon-Évora link — air-conditioned, dedicated pet-allowed carriages.",
           "tipFr": "L'Intercidades d'1h30 est la liaison Lisbonne-Évora la plus confortable pour un chien — climatisée, voitures pet-allowed dédiées.",
           "tipEs": "El Intercidades de 1h30 es el enlace Lisboa-Évora más cómodo para perro — climatizado, vagones pet-allowed dedicados.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evora+train+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Evora+train+station",
+          "descriptionPt": "CP opera comboios Intercidades directos a partir de Lisboa Oriente até Évora em 1h30. Cães pequeños em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal a bordo.",
+          "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
+          "tipPt": "O Intercidades de 1h30 é o ligação Lisboa-Évora mais cómodo para cão — climatizado, vagones pet-allowed dedicados."
         },
         {
           "name": "Trevo City Buses",
@@ -321,7 +396,10 @@
           "tip": "The free Centro Histórico shuttle saves the cobblestone climb from the train station — useful in summer heat with luggage and a dog.",
           "tipFr": "La navette gratuite du Centro Histórico évite la montée pavée depuis la gare — utile en chaleur estivale avec bagages et chien.",
           "tipEs": "La lanzadera gratuita del Centro Histórico evita la subida adoquinada desde la estación — útil en calor estival con equipaje y perro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evora+bus+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Evora+bus+station",
+          "descriptionPt": "Trevo opera a compacta red de autocarros de Évora incluyendo a lanzadera gratuita do centro Histórico. Cães pequeños em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço (1 €) e bozal.",
+          "petPolicyPt": "Pequeños grátis; grandes meio preço + bozal",
+          "tipPt": "A lanzadera gratuita do centro Histórico evita a subida adoquinada a partir da estação — útil em calor estival com equipaje e cão."
         },
         {
           "name": "Rede Expressos Coach Network",
@@ -337,7 +415,10 @@
           "tip": "Call Rede Expressos 24h ahead to confirm dog acceptance — peak summer Lisboa-Évora coaches can be full and drivers may refuse last-minute dogs.",
           "tipFr": "Appelez Rede Expressos 24h à l'avance pour confirmer l'acceptation canine — les cars Lisbonne-Évora en pointe estivale peuvent être complets et les chauffeurs peuvent refuser à la dernière minute.",
           "tipEs": "Llama a Rede Expressos con 24h de antelación para confirmar la admisión canina — los autocares Lisboa-Évora en pleno verano pueden ir llenos y los conductores pueden rechazar a última hora.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evora+rede+expressos"
+          "googleMapsUrl": "https://maps.google.com/?q=Evora+rede+expressos",
+          "descriptionPt": "Rede Expressos opera autocares directos a partir de Évora a Lisboa (1h30), Porto (4h30), Faro (3h), e a maioria de pueblos alentejanos (Estremoz, Beja, Vila Viçosa). Cães com trela admitidos com acuerdo previo.",
+          "petPolicyPt": "Grátis com acuerdo previo",
+          "tipPt": "Llama a Rede Expressos com 24h de antelación para confirmar a admisión canina — os autocares Lisboa-Évora em pleno verão podem ir cheios e os conductores podem rechazar a última hora."
         }
       ],
       "tipsEn": [
@@ -384,6 +465,23 @@
           "q": "¿Es directo el tren Lisboa-Évora?",
           "a": "Sí — CP Intercidades opera trenes directos desde Lisboa Oriente hasta Évora en 1h30. Seis salidas al día, vagones pet-allowed dedicados, perros medianos/grandes con correa a media tarifa con bozal."
         }
+      ],
+      "titlePt": "Transporte pet-friendly em Évora",
+      "introPt": "O compacto Centro Histórico de Évora se cruza a pé em 20 minutos (principalmente adoquinado). Para excursiones, os autocarros urbanos Trevo, os comboios CP Intercidades e os autocares Rede Expressos admiten todos cães com trela.",
+      "tipsPt": [
+        "A normativa ferroviaria e de autocarro portuguesa exige bilhete a meio preço para cães medianos/grandes e bozal a bordo — aplica a CP e Rede Expressos.",
+        "O aeroporto Humberto Delgado de Lisboa (LIS) está a 1h30 de comboio CP directo + 30 min em lanzadera Aerobus — o hub internacional pet-friendly mais cercano para Évora.",
+        "Alquilar carro é muito recomendable para a região vinícola do Alentejo e as excursiones al lago Alqueva — o transporte público não llega a todos os pueblos pequeños."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay que ponerle bozal a mi cão nos comboios portugueses?",
+          "a": "Sí para cães medianos e grandes em CP e Rede Expressos — a normativa portuguesa exige bozal e bilhete a meio preço. Os cães pequeños em transportadora viajan grátis sem bozal."
+        },
+        {
+          "q": "¿É directo o comboio Lisboa-Évora?",
+          "a": "Sí — CP Intercidades opera comboios directos a partir de Lisboa Oriente até Évora em 1h30. Seis salidas ao dia, vagones pet-allowed dedicados, cães medianos/grandes com trela a meio preço com bozal."
+        }
       ]
     },
     "beaches": {
@@ -422,7 +520,15 @@
           "tip": "Combine with the medieval Monsaraz village (UNESCO-protected) for a perfect dog-friendly Alentejo day — the village fortifications are pedestrian-only and dog-friendly with leashed dogs.",
           "tipFr": "Combinez avec le village médiéval de Monsaraz (UNESCO) pour une journée alentejane dog-friendly parfaite — les fortifications du village sont piétonnes et dog-friendly avec chiens en laisse.",
           "tipEs": "Combina con el pueblo medieval de Monsaraz (UNESCO) para una jornada alentejana dog-friendly perfecta — las fortificaciones del pueblo son peatonales y dog-friendly con perros con correa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+Fluvial+Monsaraz"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+Fluvial+Monsaraz",
+          "leashRulePt": "Sem trela na zona canina o ano inteiro",
+          "descriptionPt": "Praia fluvial não lago Alqueva (o mayor lago artificial de Europa) sob o pueblo medieval de Monsaraz — entrada arenosa, secção pet-friendly o ano inteiro a sul da zona de banho central. 50 min de carro a leste de Évora.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Entrada arenosa",
+            "Sem instalaciones a mitad de camino"
+          ],
+          "tipPt": "Combina com o pueblo medieval de Monsaraz (UNESCO) para uma jornada alentejana pet-friendly perfeita — as fortificaciones do pueblo são peatonales e pet-friendly com cães com trela."
         },
         {
           "name": "Praia Fluvial de Mourão",
@@ -455,7 +561,16 @@
           "tip": "The Lago Alqueva water reaches 24-26 °C in July-August — perfect for dog swimming. Spring and autumn are 16-20 °C, still pleasant for short swims.",
           "tipFr": "L'eau du lac Alqueva atteint 24-26 °C en juillet-août — idéale pour la baignade canine. Printemps et automne sont à 16-20 °C, encore agréables pour de courtes baignades.",
           "tipEs": "El agua del lago Alqueva alcanza 24-26 °C en julio-agosto — ideal para baño canino. Primavera y otoño son 16-20 °C, aún agradables para baños cortos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+Fluvial+Mourao"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+Fluvial+Mourao",
+          "leashRulePt": "Sem trela na zona canina o ano inteiro",
+          "descriptionPt": "Praia fluvial não lago Alqueva a 1h a leste de Évora — águas tranquilas e pouco profundas, praia de areia, zona canina dedicada, parking grátis. O castelo medieval de Mourão domina o pueblo arriba.",
+          "amenitiesPt": [
+            "Entrada arenosa",
+            "Parking grátis",
+            "Café de praia (may-sep)",
+            "Aseos públicos"
+          ],
+          "tipPt": "O água do lago Alqueva alcanza 24-26 °C em julho-agosto — ideal para banho canino. Primavera e outono são 16-20 °C, aún agradables para banhos cortos."
         },
         {
           "name": "Praia da Comporta (Atlantic)",
@@ -488,7 +603,16 @@
           "tip": "Walk south from the central parking for at least 600 m to reach the year-round dog zone — the central beach excludes dogs from June 1 to September 30.",
           "tipFr": "Marchez sud depuis le parking central sur au moins 600 m pour atteindre la zone canine toute l'année — la plage centrale exclut les chiens du 1er juin au 30 septembre.",
           "tipEs": "Camina al sur desde el parking central al menos 600 m para llegar a la zona canina todo el año — la playa central excluye perros del 1 junio al 30 septiembre.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Comporta"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Comporta",
+          "leashRulePt": "Sem trela na secção sur canina o ano inteiro",
+          "descriptionPt": "A praia atlântica canina mais cercana a Évora — 12 km de areia atlântica ininterrumpida na península de Comporta, zona canina dedicada « praia para cães » o ano inteiro a sul da praia central. 1h30 de carro a oeste de Évora.",
+          "amenitiesPt": [
+            "Parking grátis",
+            "Restaurantes de praia (may-sep)",
+            "Escuela de surf",
+            "Pinar detrás"
+          ],
+          "tipPt": "Camina al sur a partir do parking central al menos 600 m para chegar a zona canina o ano inteiro — a praia central excluye cães do 1 junho ao \\10 setembro."
         }
       ],
       "tipsEn": [
@@ -535,6 +659,23 @@
           "q": "¿Pueden los perros nadar en el lago Alqueva?",
           "a": "Sí — el lago está entre los más limpios de los grandes lagos de agua dulce de Europa (calidad agua potable Clase A), seguro para que los perros beban y se bañen. Zonas caninas dedicadas en Monsaraz, Mourão y Cheles todo el año."
         }
+      ],
+      "titlePt": "Lagos pet-friendly perto de Évora",
+      "introPt": "Évora está no interior da llanura alentejana, mas o lago Alqueva — o mayor lago artificial de Europa (250 km²) — está a 50 min al este para banho canino o ano inteiro. A costa atlântica (Costa Vicentina, Costa Alentejana) está a 1h30 al oeste para praias de mar.",
+      "tipsPt": [
+        "As praias municipales portuguesas costumam excluir cães do 1 de junho ao \\10 de setembro salvo em zonas « praia para cães » señalizadas — verifica sempre antes de ir.",
+        "O água do lago Alqueva está entre as mais limpias dos grandes lagos de água dulce de Europa (calidad água potable Clase A) — segura para que os cães beban.",
+        "Lleva sempre água em verão — as temperaturas da areia alentejana superan a menudo 50 °C em julho-agosto; limita a praia antes das 10:00 o después das 18:00."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿A qué distancia está a praia canina mais cercana de Évora?",
+          "a": "50 min de carro al este até o lago Alqueva em Monsaraz — banho em água dulce o ano inteiro. Para areia atlântica, a Praia da Comporta (1h30 al oeste) tem uma zona canina o ano inteiro."
+        },
+        {
+          "q": "¿Podem os cães nadar não lago Alqueva?",
+          "a": "Sí — o lago está entre os mais limpios dos grandes lagos de água dulce de Europa (calidad água potable Clase A), seguro para que os cães beban e se bañen. Zonas caninas dedicadas em Monsaraz, Mourão e Cheles o ano inteiro."
+        }
       ]
     },
     "vets": {
@@ -563,7 +704,9 @@
           "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
           "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
           "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Evora",
+          "descriptionPt": "Hospital veterinário de urgências 24h não límite este de Évora — cirugía completa, UCI, ecografía, rayos X. O veterinário 24/7 mais cercano para toda a região do Alentejo.",
+          "tipPt": "Llama antes de ir — triaje por teléfono e posible redirección para casos não urgentes na noite."
         },
         {
           "name": "Centro Veterinário de Évora",
@@ -582,7 +725,9 @@
           "openingHours": "Mon-Fri 09:00-19:00, Sat 09:00-13:00",
           "tip": "They speak fluent English and accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
-          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00."
+          "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
+          "descriptionPt": "Clínica moderna para pequeños animales inmediatamente a sul das muralhas medievais — medicina general, vacinas, cirugía, odontología. Llamadas fora de horario derivadas al Hospital Veterinário Évora 24h.",
+          "tipPt": "Hablan inglés com fluidez e aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
           "name": "Clínica Veterinária Anicura Évora",
@@ -602,7 +747,9 @@
           "tip": "Useful for issuing/updating an EU pet passport mid-trip — AniCura charges around 25 € for a passport, 30 € for a microchip.",
           "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — AniCura facture environ 25 € pour un passeport, 30 € pour une puce.",
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — AniCura cobra unos 25 € por pasaporte, 30 € por microchip.",
-          "googleMapsUrl": "https://maps.google.com/?q=Anicura+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Anicura+Evora",
+          "descriptionPt": "Sucursal diurna da cadena AniCura no centro de Évora — medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje — AniCura cobra uns 25 € por passaporte, 30 € por microchip."
         }
       ],
       "tipsEn": [
@@ -649,6 +796,23 @@
           "q": "¿Necesito pasaporte europeo para Évora?",
           "a": "Sí para entrar desde fuera de Portugal. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Los viajeros británicos necesitan un Animal Health Certificate post-Brexit."
         }
+      ],
+      "titlePt": "Veterinário de urgências 24h em Évora — Hospitales e clínicas veterinárias",
+      "introPt": "Évora tem buena cobertura veterinária diurna e uma clínica regional de urgências 24h nas afueras. A Facultad Veterinária da Universidade de Lisboa a 1h30 al oeste é o gran centro de referencia.",
+      "tipsPt": [
+        "Portugal está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Os viajeros británicos que entran a Portugal post-Brexit necesitan um GB Animal Health Certificate (AHC) emitido na UE nos 10 dias previos al viaje — o hospital de Évora pode emitir o papeleo de retorno al Reino Unido.",
+        "Lleva sempre o passaporte europeu original: as clínicas portuguesas não aceitam fotocopias para certificados de exportación."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde está o veterinário de urgências 24h perto de Évora?",
+          "a": "Hospital Veterinário Évora, Estrada da Circunvalação 25, +351 266 745 050 — límite este de Évora, 10 min de carro do centro Histórico. Llama antes para triaje."
+        },
+        {
+          "q": "¿Necesito passaporte europeu para Évora?",
+          "a": "Sí para entrar a partir de fora de Portugal. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Os viajeros británicos necesitan um Animal Health Certificate post-Brexit."
+        }
       ]
     },
     "tips": {
@@ -664,21 +828,24 @@
           "photo": "/images/city-places/evora-tips-best-season-for-visiting-evora-with-a-dog.jpg",
           "description": "April-May and September-October are ideal — average highs 20-25 °C, the Alentejo wildflower season at peak, the Cromeleque dos Almendres at its most photogenic. Avoid mid-July to mid-August: 35-40 °C heat, cobblestones at 50 °C+, the rural montado is dangerously dry.",
           "descriptionFr": "Avril-mai et septembre-octobre sont idéaux — maxima moyens 20-25 °C, la saison des fleurs sauvages de l'Alentejo au pic, le Cromeleque dos Almendres au plus photogénique. Évitez mi-juillet à mi-août : chaleur 35-40 °C, pavés à 50 °C+, le montado rural est dangereusement sec.",
-          "descriptionEs": "Abril-mayo y septiembre-octubre son ideales — máximas medias 20-25 °C, la temporada de flores silvestres del Alentejo en su pico, el Cromeleque dos Almendres en su mejor fotogenia. Evita mediados de julio a mediados de agosto: calor 35-40 °C, adoquines a 50 °C+, el montado rural está peligrosamente seco."
+          "descriptionEs": "Abril-mayo y septiembre-octubre son ideales — máximas medias 20-25 °C, la temporada de flores silvestres del Alentejo en su pico, el Cromeleque dos Almendres en su mejor fotogenia. Evita mediados de julio a mediados de agosto: calor 35-40 °C, adoquines a 50 °C+, el montado rural está peligrosamente seco.",
+          "descriptionPt": "Abril-maio e setembro-outubro são ideales — máximas medias 20-25 °C, a temporada de flores silvestres do Alentejo no seu pico, o Cromeleque dos Almendres no seu melhor fotogenia. Evita mediados de julho a mediados de agosto: calor 35-40 °C, adoquines a 50 °C+, o montado rural está peligrosamente seco."
         },
         {
           "name": "Alentejo wine region day trips",
           "photo": "/images/city-places/evora-tips-alentejo-wine-region-day-trips.jpg",
           "description": "Évora is in the heart of the Alentejo wine region — over 250 wineries within 30 minutes. Most accept leashed dogs on the outdoor cellar tours and tastings. The Estremoz/Vila Viçosa axis (45 min east) and the Borba/Reguengos triangle (30 min east) are the most dog-friendly tasting routes.",
           "descriptionFr": "Évora est au cœur de la région viticole de l'Alentejo — plus de 250 caves à moins de 30 min. La plupart acceptent les chiens en laisse pour les visites de cave et les dégustations en extérieur. L'axe Estremoz/Vila Viçosa (45 min à l'est) et le triangle Borba/Reguengos (30 min à l'est) sont les routes de dégustation les plus dog-friendly.",
-          "descriptionEs": "Évora está en el corazón de la región vinícola del Alentejo — más de 250 bodegas a menos de 30 min. La mayoría admite perros con correa en visitas de bodega y catas exteriores. El eje Estremoz/Vila Viçosa (45 min al este) y el triángulo Borba/Reguengos (30 min al este) son las rutas de cata más dog-friendly."
+          "descriptionEs": "Évora está en el corazón de la región vinícola del Alentejo — más de 250 bodegas a menos de 30 min. La mayoría admite perros con correa en visitas de bodega y catas exteriores. El eje Estremoz/Vila Viçosa (45 min al este) y el triángulo Borba/Reguengos (30 min al este) son las rutas de cata más dog-friendly.",
+          "descriptionPt": "Évora está não corazón da região vinícola do Alentejo — mais de 250 bodegas a menos de 30 min. A mayoría admite cães com trela em visitas de bodega e catas exteriores. O eje Estremoz/Vila Viçosa (45 min al este) e o triángulo Borba/Reguengos (30 min al este) são as rutas de cata mais pet-friendly."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/evora-tips-currency-cost.jpg",
           "description": "Portugal uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Évora hotels average 8-12 €/night — among the lowest in southern Europe, on par with Faro.",
           "descriptionFr": "Le Portugal utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels d'Évora tournent autour de 8-12 €/nuit — parmi les plus bas du sud de l'Europe, au niveau de Faro.",
-          "descriptionEs": "Portugal usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Évora rondan 8-12 €/noche — de los más bajos del sur de Europa, al nivel de Faro."
+          "descriptionEs": "Portugal usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Évora rondan 8-12 €/noche — de los más bajos del sur de Europa, al nivel de Faro.",
+          "descriptionPt": "Portugal usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais em hotéis de Évora rondan 8-12 €/noite — dos mais bajos do sul de Europa, al nivel de Faro."
         }
       ],
       "tipsEn": [
@@ -725,6 +892,23 @@
           "q": "¿Cómo se compara Évora con Faro para viajes caninos?",
           "a": "Évora es interior, más cultural, con patrimonio UNESCO y el mejor turismo canino en región vinícola del mundo. Faro es costera con playas atlánticas caninas todo el año y más de 30 vuelos internacionales directos. Évora gana por profundidad cultural + vino; Faro por acceso a playa. Ambas tienen suplementos similares para mascotas a 8-12 €/noche."
         }
+      ],
+      "titlePt": "Viajar a Évora com cão: consejos prácticos",
+      "introPt": "Évora — a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca — combina um Templo romano de 2 000 anos, a inquietante Capela dos Ossos (Capilla dos Huesos), uno dos mayores circuitos de muralhas medievais de Iberia, e acceso directo CP a partir de Lisboa em 1h30.",
+      "tipsPt": [
+        "Évora é um dos os destinos UNESCO mais asequibles de Europa para viajes caninos — suplementos para animais 8-12 €/noite, tarifas hoteleras um 30 % por debajo de Lisboa.",
+        "Combina Évora com excursiones: lago Alqueva em Monsaraz (50 min al este), ruta do vinho de Estremoz (45 min al este), praia atlântica canina de Comporta (1h30 al oeste).",
+        "O ligação CP de 1h30 hace de Évora perfeito para extensión de fin de semana pet-friendly a partir de Lisboa — aterriza em LIS, comboio CP a partir de Oriente, llegada Évora em 2h puerta a puerta."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Évora é buena para um fin de semana pet-friendly?",
+          "a": "Sí, fora das olas de calor estivales. Évora combina um Centro Histórico UNESCO, o Templo romano, a Capela dos Ossos, excursiones a região vinícola do Alentejo e al lago Alqueva, e comboio CP directo de 1h30 a partir de Lisboa. Evita julho-agosto (35-40 °C); outubro-maio é ideal."
+        },
+        {
+          "q": "¿Como se compara Évora com Faro para viajes caninos?",
+          "a": "Évora é interior, mais cultural, com patrimonio UNESCO e o melhor turismo canino em região vinícola do mundo. Faro é costera com praias atlánticas caninas o ano inteiro e mais de 30 voos internacionais directos. Évora gana por profundidad cultural + vinho; Faro por acceso a praia. Ambas têm suplementos similares para animais a 8-12 €/noite."
+        }
       ]
     },
     "attractions": {
@@ -750,7 +934,10 @@
           "tip": "Sunset is the iconic Évora photograph — the temple columns glow against the Alentejo light. The Pousada dos Lóios facing the temple has a dog-friendly café terrace.",
           "tipFr": "Le coucher de soleil est la photo iconique d'Évora — les colonnes du temple s'illuminent dans la lumière alentejane. La Pousada dos Lóios face au temple a une terrasse café dog-friendly.",
           "tipEs": "El atardecer es la foto icónica de Évora — las columnas del templo se iluminan en la luz alentejana. La Pousada dos Lóios frente al templo tiene una terraza café dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Templo+Romano+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Templo+Romano+Evora",
+          "descriptionPt": "O Templo romano de Évora de 2 000 anos — o templo romano melhor conservado da península ibérica, originalmente dedicado al emperador Augusto. Vista exterior grátis 24/7, pet-friendly com cães com trela. O circundante Longo do Conde de Vila Flor também está aberto 24/7.",
+          "petPolicyPt": "Vista exterior pública grátis; sem interior",
+          "tipPt": "O atardecer é a foto icónica de Évora — as columnas do templo se iluminan na luz alentejana. A Pousada dos Lóios frente al templo tem uma esplanada café pet-friendly."
         },
         {
           "name": "Praça do Giraldo",
@@ -767,7 +954,10 @@
           "tip": "Mornings (08:00-10:00) are calmest; evenings (19:00-22:00) are the local meet-up time. The Trevo free Centro Histórico shuttle stops here every 8 min.",
           "tipFr": "Les matinées (8h-10h) sont les plus calmes ; les soirées (19h-22h) sont l'heure de rencontre locale. La navette gratuite Trevo du Centro Histórico s'arrête ici toutes les 8 min.",
           "tipEs": "Las mañanas (08:00-10:00) son las más tranquilas; las tardes (19:00-22:00) son la hora de encuentro local. La lanzadera gratuita Trevo del Centro Histórico para aquí cada 8 min.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praca+do+Giraldo+Evora"
+          "googleMapsUrl": "https://maps.google.com/?q=Praca+do+Giraldo+Evora",
+          "descriptionPt": "A praça central principal de Évora — a fuente da Igreja de Santo Antão, arcadas do século XVI, esplanadas de café alrededor. Aberta 24/7, pet-friendly com cães com trela em todo o lado. O sitio canino-people-watching mais animado de Évora.",
+          "petPolicyPt": "Praça pública, cães com trela grátis",
+          "tipPt": "As mañanas (08:00-10:00) são as mais tranquilas; as tardes (19:00-22:00) são a hora de encuentro local. A lanzadera gratuita Trevo do centro Histórico para aqui cada 8 min."
         },
         {
           "name": "Cromeleque dos Almendres",
@@ -784,7 +974,10 @@
           "tip": "Sunrise (06:00-08:00 in summer) is the iconic photo time — the megaliths align with the equinox sun. Combine with the Caminhos do Montado dog walk for a half-day Alentejo experience.",
           "tipFr": "Le lever du soleil (6h-8h en été) est le moment photo iconique — les mégalithes s'alignent avec le soleil de l'équinoxe. Combinez avec la promenade des Caminhos do Montado pour une demi-journée alentejane.",
           "tipEs": "El amanecer (06:00-08:00 en verano) es el momento de foto icónico — los megalitos se alinean con el sol del equinoccio. Combina con el paseo de los Caminhos do Montado para una media jornada alentejana.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromeleque+dos+Almendres"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromeleque+dos+Almendres",
+          "descriptionPt": "O mayor crómlech da península ibérica — 95 menhires de c. 6 000-4 000 a. C., 7 000 anos mais antigo que Stonehenge. 15 km a oeste de Évora al final de uma pista de 5 km a través do montado de alcornoques. Grátis 24/7, pet-friendly com cães com trela.",
+          "petPolicyPt": "Sitio público, cães com trela grátis",
+          "tipPt": "O amanecer (06:00-08:00 em verão) é o momento de foto icónico — os megalitos se alinean com o sol do equinoccio. Combina com o passeio dos Caminhos do Montado para uma media jornada alentejana."
         }
       ],
       "tipsEn": [
@@ -831,6 +1024,23 @@
           "q": "¿Se admiten perros en el Templo romano?",
           "a": "Sí — la plaza pública alrededor del templo es dog-friendly con perros con correa gratis todo el año. El templo en sí no tiene interior visitable (es una columnata en ruinas al aire libre)."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Évora",
+      "introPt": "A maioria dos lugares exteriores emblemáticos de Évora são pet-friendly — o Templo romano, a Praça do Giraldo, as muralhas, o Longo de São Vicente e o sitio megalítico do Cromeleque dos Almendres admiten todos cães com trela grátis.",
+      "tipsPt": [
+        "As atracciones al aire libre de Évora admiten cães com trela grátis; os museus interiores (Catedral, Capela dos Ossos, Igreja de São Francisco) só admiten cães de assistência.",
+        "A Capela dos Ossos (Capilla dos Huesos) é um dos os osarios mais famosos do mundo — entrada de pago que só admite cães de assistência. Cães de companhia bem-vindos na praça circundante da Igreja de São Francisco.",
+        "Excursiones de comboio CP directo: Lisboa Oriente (1h30), Beja (45 min), Faro (3h30) — cães medianos/grandes com trela a meio preço com bozal."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar a mi cão a Capela dos Ossos?",
+          "a": "A praça circundante da Igreja de São Francisco sí, com trela, grátis. O interior da Capela dos Ossos (bilhete de pago) só admite cães de assistência."
+        },
+        {
+          "q": "¿Se admiten cães não Templo romano?",
+          "a": "Sí — a praça pública alrededor do templo é pet-friendly com cães com trela grátis o ano inteiro. O templo em sí não tem interior visitable (é uma columnata em ruinas al aire libre)."
+        }
       ]
     },
     "petsitting": {
@@ -853,7 +1063,9 @@
           "website": "https://www.pawshake.pt/evora",
           "tip": "Filter for English-speaking sitters in the platform settings — about 60% of Évora sitters speak fluent English thanks to the international tourist base.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 60 % des sitters d'Évora parlent anglais couramment grâce à la base touristique internationale.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Évora habla inglés con fluidez gracias a la base turística internacional."
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 60 % de los cuidadores de Évora habla inglés con fluidez gracias a la base turística internacional.",
+          "descriptionPt": "Plataforma internacional com uns 18 cuidadores verificados com base em Évora num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglés nos ajustes — alrededor do 60 % dos cuidadores de Évora habla inglés com fluidez gracias a base turística internacional."
         },
         {
           "name": "DogHero Évora",
@@ -867,7 +1079,9 @@
           "website": "https://www.doghero.pt/evora",
           "tip": "Book at least 72h ahead in summer — Évora has a smaller sitter pool than Lisbon or Faro and demand peaks during the wine harvest (September-October).",
           "tipFr": "Réservez au moins 72h à l'avance en été — Évora a un vivier de sitters plus restreint que Lisbonne ou Faro et la demande culmine pendant les vendanges (septembre-octobre).",
-          "tipEs": "Reserva al menos 72h antes en verano — Évora tiene un grupo de cuidadores más pequeño que Lisboa o Faro y la demanda culmina durante la vendimia (septiembre-octubre)."
+          "tipEs": "Reserva al menos 72h antes en verano — Évora tiene un grupo de cuidadores más pequeño que Lisboa o Faro y la demanda culmina durante la vendimia (septiembre-octubre).",
+          "descriptionPt": "Plataforma portuguesa com uns 12 cuidadores verificados de Évora e línea veterinária 24/7 incluida em cada reserva. Tarifa media 18-25 €/dia para alojamento, 10-12 € por visita de 30 min.",
+          "tipPt": "Reserva al menos 72h antes em verão — Évora tem um grupo de cuidadores mais pequeño que Lisboa o Faro e a demanda culmina durante a vendimia (setembro-outubro)."
         }
       ],
       "tipsEn": [
@@ -913,6 +1127,23 @@
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Évora?",
           "a": "Sí — alrededor del 60 % de los cuidadores de Évora en Pawshake habla inglés con fluidez gracias al público turístico internacional. Filtra por idioma y reserva con antelación en verano (grupo más pequeño que en Lisboa)."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio canino em Évora",
+      "introPt": "Para as excursiones onde o cão não pode ir (Capela dos Ossos, catedral, interior da Igreja de São Francisco), Évora tem pet-sitting fiable e verificado a través de plataformas internacionais e portuguesas.",
+      "tipsPt": [
+        "As tarifas dos cuidadores de Évora rondan 18-25 €/dia em Pawshake — das mais bajas de Europa Occidental (al nivel de Faro).",
+        "O grupo mais pequeño de cuidadores hace crítica a reserva com antelación — a oferta se reduce muito durante o pico da vendimia setembro-outubro.",
+        "Varios hotéis rurales de fincas vinícolas do Alentejo (turismo rural) ofrecen cuidado canino interno para os seus clientes durante as visitas de bodega — pregunta al reservar."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta a guardería canina em Évora?",
+          "a": "18-25 € por dia segundo plataforma e tamanho do cão, vía Pawshake o DogHero. Visitas a domicilio 10-12 € por 30 min."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglohablante em Évora?",
+          "a": "Sí — alrededor do 60 % dos cuidadores de Évora em Pawshake habla inglés com fluidez gracias al público turístico internacional. Filtra por idioma e reserva com antelación em verão (grupo mais pequeño que em Lisboa)."
         }
       ]
     }

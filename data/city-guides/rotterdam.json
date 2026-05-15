@@ -33,7 +33,11 @@
           "tip": "Arrive early on weekends — the terrace fills fast with dog owners from the neighbourhood.",
           "tipFr": "Arrivez tôt le week-end, la terrasse se remplit vite des habitants du quartier avec leurs chiens.",
           "tipEs": "Llega temprano los fines de semana: la terraza se llena rápido de dueños de perros del barrio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lilith+Rotterdam+Nieuwe+Binnenweg"
+          "googleMapsUrl": "https://maps.google.com/?q=Lilith+Rotterdam+Nieuwe+Binnenweg",
+          "descriptionPt": "Café de brunch moderno em Nieuwe Binnenweg, uno dos lugares mais conocidos para cães em Roterdão. Cães bem-vindos dentro e em esplanada, sempre com tigelas de água.",
+          "petPolicyPt": "Cães admitidos em interior e esplanada",
+          "mustTryPt": "Tostada de aguacate o tortitas",
+          "tipPt": "Llega temprano os fines de semana: a esplanada se cheia rápido de dueños de cães do bairro."
         },
         {
           "name": "Wester Paviljoen",
@@ -55,7 +59,11 @@
           "tip": "The terrace faces the street — use the side section for more space when you have a larger dog.",
           "tipFr": "La terrasse donne sur la rue : privilégiez la section latérale si vous avez un grand chien.",
           "tipEs": "La terraza da a la calle: usa la sección lateral si tienes un perro grande.",
-          "googleMapsUrl": "https://maps.google.com/?q=Wester+Paviljoen+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Wester+Paviljoen+Rotterdam",
+          "descriptionPt": "Gran brasserie com amplia esplanada muito popular entre o público creativo de Roterdão: os cães são bem-vindos habitualmente em esplanada e também no interior. Carta que va a partir de sanduíches al mediodía até platos para compartir pela noite.",
+          "petPolicyPt": "Cães em esplanada, habitualmente também em interior",
+          "mustTryPt": "Bitterballen holandeses com mostaza",
+          "tipPt": "A esplanada da a rua: usa a secção lateral se tienes um cão grande."
         },
         {
           "name": "Matelief",
@@ -77,7 +85,11 @@
           "tip": "Witte de Withstraat is car-free at the weekend — easy to let your dog settle without traffic stress.",
           "tipFr": "La Witte de Withstraat est piétonne le week-end — idéal pour que le chien se détende sans le stress de la circulation.",
           "tipEs": "Witte de Withstraat es peatonal los fines de semana: ideal para que el perro se relaje sin tráfico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Matelief+Rotterdam+Witte+de+With"
+          "googleMapsUrl": "https://maps.google.com/?q=Matelief+Rotterdam+Witte+de+With",
+          "descriptionPt": "Café-restaurante de bairro com nota 9/10 em TheFork, elogiado constantemente por o seu esplanada pet-friendly numa das ruas mais interessantes de Roterdão. Buenos vinhos naturais e menú neerlandês de temporada.",
+          "petPolicyPt": "Cães bem-vindos em esplanada",
+          "mustTryPt": "Tablas de temporada para compartir",
+          "tipPt": "Witte de Withstraat é peatonal os fines de semana: ideal para que o cão se relaje sem tráfico."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Hay restricciones de raza o tamaño en los restaurantes de Rotterdam?",
           "a": "No hay norma general: algunos locales pueden restringir razas grandes, pero es poco habitual. Lilith y Wester Paviljoen aceptan perros de todos los tamaños."
         }
+      ],
+      "titlePt": "Restaurantes para cães em Roterdão",
+      "introPt": "A cultura de cafeterías de Roterdão é excepcionalmente amigable com os cães: a maioria das esplanadas os aceitam sem problemas e varios locales têm tigelas de água de serie. As zonas de Witte de Withstraat e o puerto são as mais pet-friendly.",
+      "tipsPt": [
+        "A maioria das esplanadas de Roterdão aceitam cães por defecto: preguntar é educado mas raramente necesario.",
+        "Witte de Withstraat e Nieuwe Binnenweg têm a mayor concentración de locales pet-friendly.",
+        "Muitos cafés de Roterdão ofrecen tigelas de água automáticamente; lleva o tuyo plegable para dias longos."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães dentro dos restaurantes de Roterdão?",
+          "a": "Muitos cafés os admiten em interior, especialmente os locales de bairro em Nieuwe Binnenweg e Witte de Withstraat. Llama para confirmarlo em restaurantes grandes pela noite."
+        },
+        {
+          "q": "¿Os restaurantes de Roterdão ofrecen água para cães?",
+          "a": "A mayoría sí, especialmente os locales especializados listados arriba. Sempre é útil preguntar al chegar."
+        },
+        {
+          "q": "¿Hay restricciones de raza o tamanho nos restaurantes de Roterdão?",
+          "a": "Não hay norma general: algunos locales podem restringir razas grandes, mas é pouco habitual. Lilith e Wester Paviljoen aceitam cães de todos os tamanhos."
+        }
       ]
     },
     "parks": {
@@ -166,7 +199,11 @@
           "tip": "Early morning (before 8am) the park is nearly empty — ideal for shy or reactive dogs.",
           "tipFr": "Tôt le matin (avant 8h), le parc est quasi désert — idéal pour les chiens timides ou réactifs.",
           "tipEs": "A primera hora (antes de las 8 h) el parque está casi vacío: ideal para perros tímidos o reactivos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Het+Park+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Het+Park+Rotterdam",
+          "descriptionPt": "O melhor parque urbano de Roterdão, de 28 hectáreas, junto ao Euromast, onde os cães podem correr sem trela por todo o recinto. O café do parque tem uma amplia esplanada pet-friendly: perfeito para um café después do passeio.",
+          "petPolicyPt": "Suelta permitida em todo o parque",
+          "mustTryPt": "Café na esplanada do café do parque después de um longo passeio",
+          "tipPt": "A primera hora (antes das 8 h) o parque está casi vacío: ideal para cães tímidos o reactivos."
         },
         {
           "name": "Kralingse Bos",
@@ -188,7 +225,11 @@
           "tip": "The northeastern shore (near Kralingseweg) is quieter and has the best off-leash meadow areas.",
           "tipFr": "La rive nord-est (près de la Kralingseweg) est plus calme et offre les meilleures prairies pour courir librement.",
           "tipEs": "La orilla noreste (cerca de Kralingseweg) es más tranquila y tiene las mejores praderas para correr.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kralingse+Bos+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Kralingse+Bos+Rotterdam",
+          "descriptionPt": "Gran parque forestal com lago central (Kralingse Plas) onde os cães podem nadar libremente em zonas habilitadas e passear sem trela pelos trilhos do floresta. Destino favorito dos locales os fines de semana: llega antes das 10 h os dias soleados.",
+          "petPolicyPt": "Suelta em zonas boscosas; cães podem nadar não lago",
+          "mustTryPt": "Vuelta completa al lago (4,5 km)",
+          "tipPt": "A margem noreste (perto de Kralingseweg) é mais tranquila e tem as melhores pradarias para correr."
         },
         {
           "name": "Zuiderpark — Hondeneiland",
@@ -210,7 +251,11 @@
           "tip": "The Hondeneiland is best visited between 7–9am or after 6pm to avoid peak crowding.",
           "tipFr": "Le Hondeneiland est idéal entre 7h-9h ou après 18h pour éviter l'affluence.",
           "tipEs": "El Hondeneiland es mejor visitarlo entre las 7–9 h o después de las 18 h para evitar las horas punta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Zuiderpark+Hondeneiland+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Zuiderpark+Hondeneiland+Rotterdam",
+          "descriptionPt": "O parque mais grande de Roterdão (235 tem) alberga o 'Hondeneiland' (ilha dos cães): uma ilha vallada diseñada específicamente para que os cães jueguen e socialicen. Ideal para os dueños do sul da cidade.",
+          "petPolicyPt": "Ilha vallada dedicada exclusivamente a cães em suelta",
+          "mustTryPt": "Sesiones matutinas de socialización sem trela",
+          "tipPt": "O Hondeneiland é melhor visitarlo entre as 7–9 h o después das 18 h para evitar as horas punta."
         }
       ],
       "tipsEn": [
@@ -269,6 +314,27 @@
           "q": "¿Es el Zuiderpark adecuado para perros grandes?",
           "a": "Sí: el Hondeneiland (isla de los perros) en el Zuiderpark es un espacio vallado dedicado, ideal para razas grandes y perros enérgicos."
         }
+      ],
+      "titlePt": "Parques para cães em Roterdão",
+      "introPt": "Roterdão tem cinco zonas de suelta oficial dentro da cidade e varios parques grandes onde os cães são bem-vindos com o sem trela segundo a zona. Het Park, junto ao Euromast, é a melhor opción para os visitantes do centro: 28 hectáreas com um café pet-friendly.",
+      "tipsPt": [
+        "Roterdão tem 5 zonas oficiales de suelta (Uitlaatgebieden): o ayuntamiento as mapea em rotterdamcentrum.nl.",
+        "Em Het Park e Kralingse Bos a suelta é a norma; a trela se exige perto de zonas de juegos infantiles e cafés.",
+        "Lleva uma trela longa para Kralingse Bos se o llamado não é fiable: os trilhos forestales conectan com carreteras transitadas nos bordes."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Podem os cães ir sueltos nos parques de Roterdão?",
+          "a": "Sí, nas zonas Uitlaatgebieden designadas. Het Park (perto do Euromast) e Kralingse Bos têm grandes áreas de suelta."
+        },
+        {
+          "q": "¿Pode nadar mi cão em Roterdão?",
+          "a": "Sí: o lago Kralingse Plas permite o banho canino, e algunos puntos do rio Mosa também são aptos. Evita as zonas portuarias industriales."
+        },
+        {
+          "q": "¿É o Zuiderpark adecuado para cães grandes?",
+          "a": "Sí: o Hondeneiland (ilha dos cães) não Zuiderpark é um espacio vallado dedicado, ideal para razas grandes e cães enérgicos."
+        }
       ]
     },
     "transport": {
@@ -299,7 +365,11 @@
           "tip": "Avoid rush hour (07:30–09:00 and 17:00–18:30) with large dogs — carriages get packed and anxious dogs can become a hazard.",
           "tipFr": "Évitez les heures de pointe (7h30–9h et 17h–18h30) avec les grands chiens — les rames sont bondées.",
           "tipEs": "Evita las horas punta (7:30–9:00 y 17:00–18:30) con perros grandes: los vagones se llenan mucho.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rotterdam+Centraal+Station"
+          "googleMapsUrl": "https://maps.google.com/?q=Rotterdam+Centraal+Station",
+          "descriptionPt": "Os cães viajan grátis em todos os serviços RET (metro, elétrico e autocarro). As únicas reglas: trela obrigatória em todo momento, prohibido subir aos asientos e hay que ser considerado com os demás pasajeros.",
+          "petPolicyPt": "Cães grátis; trela obrigatória; não em asientos",
+          "mustTryPt": "Metro Línea B até Kralingse Zoom (paragem mais cercana al Kralingse Bos)",
+          "tipPt": "Evita as horas punta (7:30–9:00 e 17:00–18:30) com cães grandes: os vagones se llenan muito."
         }
       ],
       "tipsEn": [
@@ -358,6 +428,27 @@
           "q": "¿Puedo llevar a mi perro en un tren intercity de NS desde Rotterdam?",
           "a": "Los perros pequeños en transportín cerrado viajan gratis. Los perros de más de 30 cm a la cruz necesitan un billete de día 'hondenbiljet' (3,50 €), bozal y correa."
         }
+      ],
+      "titlePt": "Viajar com tu cão não transporte público de Roterdão",
+      "introPt": "A red RET de Roterdão (metro, elétrico, autocarro) é pet-friendly e gratuita para tu animal. Os cães devem ir com trela em todo momento em andenes e dentro dos vehículos, e não podem subir aos asientos; não hay restricción de tamanho ni obligación de transportadora para os cães pequeños.",
+      "tipsPt": [
+        "Os cães viajan grátis em todos os serviços RET (metro, elétrico, autocarro): não se necesita bilhete.",
+        "Não hay restricción de tamanho ni raza não RET: os cães grandes são bem-vindos com trela.",
+        "Para excursiones fora de Roterdão, os comboios NS aceitam um cão pequeño grátis em transportadora; os cães grandes necesitan um bilhete de dia 'hondenbiljet' (3,50 €)."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Tengo que comprar bilhete para mi cão em elétricos e metro de Roterdão?",
+          "a": "Não: os cães viajan grátis em todos os serviços RET sem limite de tamanho. Só hay que llevarlos com trela."
+        },
+        {
+          "q": "¿Se admiten cães grandes não transporte público de Roterdão?",
+          "a": "Sí: o RET não tem restricciones de tamanho ni raza. Cualquier cão pode subir com trela, sempre que não se siente nos asientos."
+        },
+        {
+          "q": "¿Puedo levar a mi cão num comboio intercity de NS a partir de Roterdão?",
+          "a": "Os cães pequeños em transportadora fechado viajan grátis. Os cães de mais de 30 cm a cruz necesitan um bilhete de dia 'hondenbiljet' (3,50 €), bozal e trela."
+        }
       ]
     },
     "beaches": {
@@ -388,7 +479,11 @@
           "tip": "Take Metro Line B to Hoek van Holland Strand then bus 57 — the beach is 40 minutes from Rotterdam Centre.",
           "tipFr": "Prenez la ligne de métro B jusqu'à Hoek van Holland Strand puis le bus 57 — la plage est à 40 minutes du centre.",
           "tipEs": "Toma Metro Línea B hasta Hoek van Holland Strand y luego el bus 57: la playa está a 40 minutos del centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Maasvlakte+Beach+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Maasvlakte+Beach+Rotterdam",
+          "descriptionPt": "Amplia praia salvaje do mar do norte não borde do puerto de Roterdão: os cães são bem-vindos com trela o ano inteiro sem restricciones estacionales. Um entorno único com portacontenedores pasando frente a costa.",
+          "petPolicyPt": "Cães bem-vindos com trela o ano inteiro, sem restricciones",
+          "mustTryPt": "Passeio al amanecer com portacontenedores de fondo",
+          "tipPt": "Toma Metro Línea B até Hoek van Holland Strand e luego o bus 57: a praia está a 40 minutos do centro."
         },
         {
           "name": "Hoek van Holland Beach — Estuary Section",
@@ -410,7 +505,11 @@
           "tip": "The estuary tip is a 15-minute walk south from Hoek van Holland Strand metro station — follow the seawall path.",
           "tipFr": "La pointe de l'estuaire est à 15 minutes à pied au sud de la station de métro Hoek van Holland Strand — suivez le sentier de la digue.",
           "tipEs": "La punta del estuario está a 15 minutos a pie al sur de la estación de metro Hoek van Holland Strand: sigue el camino del dique.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hoek+van+Holland+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Hoek+van+Holland+Beach",
+          "descriptionPt": "A punta sur da praia de Hoek van Holland, junto ao estuario do Nieuwe Waterweg, é apta para cães o ano inteiro e ofrece vistas fascinantes de barcos oceánicos a corta distancia. A praia principal prohíbe os cães de maio a outubro de 9:00 a 19:00.",
+          "petPolicyPt": "Punta estuario: cães o ano inteiro. Praia principal: prohibidos maio–oct 9:00–19:00",
+          "mustTryPt": "Ver portacontenedores entrar al puerto a partir da praia: algunos pasan a menos de 200 metros",
+          "tipPt": "A punta do estuario está a 15 minutos a pé a sul da estação de metro Hoek van Holland Strand: sigue o camino do dique."
         }
       ],
       "tipsEn": [
@@ -469,6 +568,27 @@
           "q": "¿Cuáles son las restricciones estacionales en Hoek van Holland?",
           "a": "Del 1 de mayo al 1 de octubre los perros están prohibidos en la playa principal de 9:00 a 19:00. La sección de la punta del estuario no tiene esa restricción."
         }
+      ],
+      "titlePt": "Praias para cães perto de Roterdão",
+      "introPt": "Roterdão está a 30 minutos de dos excelentes praias para cães: Hoek van Holland tem restricciones estacionales (maio–outubro, cães prohibidos 9:00–19:00 excepto na punta do estuario), mientras que a praia de Maasvlakte aceita cães o ano inteiro com trela. Ambas são acessíveis não metro.",
+      "tipsPt": [
+        "Tanto Maasvlakte como Hoek van Holland são acessíveis não metro Línea B a partir do centro de Roterdão (40–45 minutos).",
+        "Regla estival na praia principal de Hoek van Holland: cães prohibidos 9:00–19:00 do 1 de maio ao \\1 de outubro: ve temprano o pela tarde.",
+        "Maasvlakte não tem infraestructuras (sem café, sem banhos): lleva todo lo necesario, incluida água fresca para tu cão."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode nadar mi cão na praia perto de Roterdão?",
+          "a": "Sí: Maasvlakte e a secção do estuario de Hoek van Holland permiten aos cães entrar al água. Comprueba as corrientes do mar do norte antes de dejar nadar a tu cão mar adentro."
+        },
+        {
+          "q": "¿Hay praias pet-friendly dentro da cidade de Roterdão?",
+          "a": "O Maashaven e algunas margens do Mosa aceitam cães, mas as praias marítimas principales (Hoek van Holland, Maasvlakte) requieren 40 minutos não metro."
+        },
+        {
+          "q": "¿Cuáles são as restricciones estacionales em Hoek van Holland?",
+          "a": "Do 1 de maio ao \\1 de outubro os cães estão prohibidos na praia principal de 9:00 a 19:00. A secção da punta do estuario não tem esa restricción."
+        }
       ]
     },
     "vets": {
@@ -499,7 +619,11 @@
           "tip": "After 22:00, call 010 492 51 51 first — they will direct you to Evidensia Barendrecht for overnight emergencies.",
           "tipFr": "Après 22h, appelez d'abord le 010 492 51 51 — ils vous dirigeront vers Evidensia Barendrecht pour les urgences nocturnes.",
           "tipEs": "Después de las 22:00, llama primero al 010 492 51 51: te dirigirán a Evidensia Barendrecht para urgencias nocturnas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Dierenziekenhuis+Rotterdam+Pascalweg"
+          "googleMapsUrl": "https://maps.google.com/?q=Dierenziekenhuis+Rotterdam+Pascalweg",
+          "descriptionPt": "O principal hospital veterinário de Roterdão, que atiende urgências de segunda-feira a sexta-feira e fines de semana até as 22:00. Llama ao \\110 492 51 51 para triaje antes de chegar: as urgências sempre têm prioridad.",
+          "petPolicyPt": "Serviço de urgências sem cita previa",
+          "mustTryPt": "Llama antes ao \\110 492 51 51: asesoran a distancia para problemas menores",
+          "tipPt": "Después das 22:00, llama primero ao \\110 492 51 51: te dirigirán a Evidensia Barendrecht para urgências nocturnas."
         },
         {
           "name": "Evidensia Dierenziekenhuis Barendrecht (24h)",
@@ -521,7 +645,11 @@
           "tip": "Save both numbers: 010 492 51 51 (Dierenziekenhuis) and the Evidensia Barendrecht number. Dierenziekenhuis will brief Evidensia if you are referred.",
           "tipFr": "Sauvegardez les deux numéros : 010 492 51 51 (Dierenziekenhuis) et le numéro d'Evidensia Barendrecht. Le Dierenziekenhuis briefera Evidensia si vous êtes redirigé.",
           "tipEs": "Guarda los dos números: 010 492 51 51 (Dierenziekenhuis) y el de Evidensia Barendrecht. Dierenziekenhuis informará a Evidensia si te derivan.",
-          "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Dierenziekenhuis+Barendrecht+Bijdorp-West"
+          "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Dierenziekenhuis+Barendrecht+Bijdorp-West",
+          "descriptionPt": "A verdadera clínica de urgências 24 h que atiende a Roterdão después das 22:00 e quando outras clínicas locales estão fechadas. Hospital especializado completamente equipado com cuidados intensivos: a 15 minutos do centro de Roterdão de carro.",
+          "petPolicyPt": "Serviço de urgências 24/7, sem cita previa",
+          "mustTryPt": "Llama primero ao \\110 492 51 51: transmitirán tu expediente a Evidensia",
+          "tipPt": "Guarda os dos números: 010 492 51 51 (Dierenziekenhuis) e o de Evidensia Barendrecht. Dierenziekenhuis informará a Evidensia se te derivan."
         }
       ],
       "tipsEn": [
@@ -579,6 +707,27 @@
         {
           "q": "¿Los veterinarios de Rotterdam hablan inglés?",
           "a": "Sí: los veterinarios holandeses atienden consultas en inglés habitualmente, y el personal del Dierenziekenhuis Rotterdam es totalmente bilingüe."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Roterdão — Hospitales e clínicas veterinárias",
+      "introPt": "Roterdão tem uma cobertura veterinária de urgências fiable. O Dierenziekenhuis Roterdão atiende urgências até as 22:00 h; después, a clínica Evidensia aberta 24 h não cercano Barendrecht (3 km al sur) toma o relevo. Ambas funcionam sem cita para emergências reales.",
+      "tipsPt": [
+        "Guarda o 010 492 51 51 (Dierenziekenhuis Roterdão) em tu teléfono antes de chegar a Roterdão.",
+        "Después das 22:00, todas as urgências são atendidas em Evidensia Barendrecht: a 15 minutos al sur do centro de carro.",
+        "Os veterinários holandeses hablan um excelente inglés: o idioma raramente é uma barrera em consultas turísticas."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Hay um veterinário 24 horas em Roterdão?",
+          "a": "Não directamente na cidade: Dierenziekenhuis Roterdão atiende urgências até as 22:00, después Evidensia Barendrecht (15 min al sur) cubre as 24 h."
+        },
+        {
+          "q": "¿Cuál é o teléfono de urgências veterinárias em Roterdão?",
+          "a": "Llama primero ao \\110 492 51 51 (Dierenziekenhuis Roterdão): hacen o triaje e te derivan al centro correcto."
+        },
+        {
+          "q": "¿Os veterinários de Roterdão hablan inglés?",
+          "a": "Sí: os veterinários holandeses atienden consultas em inglés habitualmente, e o pessoal do Dierenziekenhuis Roterdão é totalmente bilingüe."
         }
       ]
     },
@@ -646,6 +795,27 @@
           "q": "¿Cuál es el mejor barrio para perros en Rotterdam?",
           "a": "Middelland (alrededor de Nieuwe Binnenweg) y la zona de Het Park cerca del Euromast son los barrios más dog-friendly, con zonas de suelta y cafés acogedores a poca distancia."
         }
+      ],
+      "titlePt": "Consejos prácticos para viajar com tu animal a Roterdão",
+      "introPt": "Roterdão é uma das as cidades mais pet-friendly de Europa. Os animales são bem-vindos na maioria dos espacios públicos, o transporte é gratuito e a cultura local é descontraída respecto aos cães em lojas e cafés. O principal aviso: a icónica arquitectura moderna da cidade incluye muitos pontes com rejillas metálicas que podem molestar as patas sensibles.",
+      "tipsPt": [
+        "O ponte peatonal Luchtsingel e o Ponte Erasmo têm rejillas metálicas: os cães com patas sensibles podem necesitar ser cargados em algunos tramos.",
+        "Muitas lojas de Roterdão admiten cães, especialmente em Witte de Withstraat e a zona do mercado Markthal.",
+        "O Markthal em sí (mercado cubierto) não permite cães, mas a praça do mercado exterior e os puestos circundantes são totalmente pet-friendly."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Roterdão generalmente pet-friendly?",
+          "a": "Enormemente: Roterdão figura constantemente entre as cidades mais pet-friendly dos Países Bajos. Transporte gratuito, parques com zonas de suelta e a maioria dos cafés aceitam animais."
+        },
+        {
+          "q": "¿Se admiten cães dentro do Markthal de Roterdão?",
+          "a": "Não: os cães não estão permitidos dentro do mercado cubierto Markthal. A praça exterior justo delante é totalmente pet-friendly."
+        },
+        {
+          "q": "¿Cuál é o melhor bairro para cães em Roterdão?",
+          "a": "Middelland (alrededor de Nieuwe Binnenweg) e a zona de Het Park perto do Euromast são os bairros mais pet-friendly, com zonas de suelta e cafés acolhedores a pouca distancia."
+        }
       ]
     },
     "attractions": {
@@ -676,7 +846,11 @@
           "tip": "Metal grating on the Erasmus Bridge bothers some dogs — carry small dogs or use the pedestrian edge strips.",
           "tipFr": "Les grilles métalliques du pont Erasme gênent certains chiens — portez les petits chiens ou utilisez les bandes piétonnes sur les bords.",
           "tipEs": "Las rejillas metálicas del Puente Erasmo molestan a algunos perros: carga a los perros pequeños o usa las bandas peatonales de los bordes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Wilhelminapier+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Wilhelminapier+Rotterdam",
+          "descriptionPt": "O passeio clásico de Roterdão: a partir dos modernos rascacielos do Wilhelminapier até o histórico Veerhaven cruzando o Ponte Erasmo. Os cães são bem-vindos em todo o recorrido que pasa por Het Park: uma aventura canina continua de 3 horas.",
+          "petPolicyPt": "Ruta exterior totalmente pet-friendly",
+          "mustTryPt": "Foto com tu cão não Ponte Erasmo a hora dorada",
+          "tipPt": "As rejillas metálicas do Ponte Erasmo molestan a algunos cães: carga aos cães pequeños o usa as bandas peatonales dos bordes."
         },
         {
           "name": "Spido Harbour Tour (dogs on deck)",
@@ -698,7 +872,11 @@
           "tip": "The deck is uncovered — bring a coat in spring and autumn and keep your dog on a short leash near the railings.",
           "tipFr": "Le pont est découvert — prévoyez un manteau au printemps et en automne et tenez votre chien en laisse courte près des rambardes.",
           "tipEs": "La cubierta no tiene techo: lleva abrigo en primavera y otoño y mantén a tu perro con correa corta cerca de las barandillas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spido+Rotterdam+Willemsplein"
+          "googleMapsUrl": "https://maps.google.com/?q=Spido+Rotterdam+Willemsplein",
+          "descriptionPt": "O clásico tour do puerto de Roterdão em barco Spido (75 minutos): os cães são bem-vindos na cubierta exterior. Uma excelente manera de ver o puerto mais grande de Europa com tu cão.",
+          "petPolicyPt": "Cães bem-vindos em cubierta exterior",
+          "mustTryPt": "Reserva a primera salida do dia: menos pasajeros e melhor luz para fotos",
+          "tipPt": "A cubierta não tem techo: lleva abrigo em primavera e outono e mantén a tu cão com trela corta perto das barandillas."
         },
         {
           "name": "Witte de Withstraat Street Art Walk",
@@ -720,7 +898,11 @@
           "tip": "Saturday afternoon sees the street filled with locals and dogs — a great way to observe Rotterdam's relaxed pet culture.",
           "tipFr": "Le samedi après-midi, la rue est remplie de locaux et de chiens — l'occasion idéale d'observer la culture canine détendue de Rotterdam.",
           "tipEs": "El sábado por la tarde la calle se llena de locales y perros: una gran oportunidad para observar la relajada cultura canina de Rotterdam.",
-          "googleMapsUrl": "https://maps.google.com/?q=Witte+de+Withstraat+Rotterdam"
+          "googleMapsUrl": "https://maps.google.com/?q=Witte+de+Withstraat+Rotterdam",
+          "descriptionPt": "A rua de arte e cultura de Roterdão: totalmente peatonal os fines de semana, com murales, galerías e cafés pet-friendly uno al lado do outro. A base ideal para explorar com tu cão uma tarde.",
+          "petPolicyPt": "Rua exterior totalmente pet-friendly; muitas galerías aceitam cães",
+          "mustTryPt": "Mapa de arte urbano autoguiado: disponible na escritório de turismo de Coolsingel",
+          "tipPt": "O sábado pela tarde a rua se cheia de locales e cães: uma gran oportunidad para observar a descontraída cultura canina de Roterdão."
         }
       ],
       "tipsEn": [
@@ -779,6 +961,27 @@
           "q": "¿Es el Euromast dog-friendly?",
           "a": "Nota: el Euromast está cerrado por renovación hasta el T2 de 2026. Su terraza exterior anteriormente admitía perros: confirma cuando reabra."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Roterdão",
+      "introPt": "A oferta turística de Roterdão, centrada não exterior, funciona muito bem para os cães: o frente marítimo, o bairro de arte urbano e a arquitectura icónica se recorren a pé. A maioria das atracciones de interior não admiten animais, mas as experiencias mais memorables da cidade são al aire libre de todas formas.",
+      "tipsPt": [
+        "As Casas Cúbicas (Kubuswoningen) podem verse e fotografiarse com tu cão a partir de fuera: o museu interior não admite animais.",
+        "O Museum Roterdão organiza jornadas pet-friendly ocasionales: consulta o seu calendario de eventos antes de tu visita.",
+        "O frente marítimo industrial de Roterdão se explora melhor com marea baja, quando os bancos de pedra do Mosa se vuelven acessíveis para os cães."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Pode mi cão ir não tour do puerto Spido?",
+          "a": "Sí: os cães são bem-vindos na cubierta exterior do tour Spido. Mantén a tu cão com trela e alejado das barandillas."
+        },
+        {
+          "q": "¿Hay atracciones de interior em Roterdão que admitan cães?",
+          "a": "A maioria das grandes atracciones de interior (depósito Boijmans, Kunsthal, Markthal) não admiten cães. O Museum Roterdão organiza jornadas pet-friendly ocasionalmente: consulta o seu web."
+        },
+        {
+          "q": "¿É o Euromast pet-friendly?",
+          "a": "Nota: o Euromast está fechado por renovación até o T2 de 2026. O seu esplanada exterior anteriormente admitía cães: confirma quando reabra."
+        }
       ]
     },
     "petsitting": {
@@ -808,7 +1011,11 @@
           "tip": "Filter by 'own home boarding' to find sitters who won't mix your dog with many others — better for anxious dogs.",
           "tipFr": "Filtrez sur 'hébergement à domicile propre' pour trouver des gardiens qui ne mélangeront pas votre chien avec beaucoup d'autres — mieux pour les chiens anxieux.",
           "tipEs": "Filtra por 'alojamiento en casa propia' para encontrar cuidadores que no mezclen a tu perro con muchos otros: mejor para perros ansiosos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rotterdam+Netherlands"
+          "googleMapsUrl": "https://maps.google.com/?q=Rotterdam+Netherlands",
+          "descriptionPt": "A principal plataforma de cuidado de animais em Roterdão com mais de 6.700 reseñas verificadas e uma puntuación media de 4,96/5. Cada reserva incluye cobertura veterinária e atención al cliente 24/7.",
+          "petPolicyPt": "Alojamento em casa, guardería diurna, passeios: todo cubierto",
+          "mustTryPt": "Reserva com al menos 48 h de antelación para os fines de semana: os cuidadores populares se llenan rápido",
+          "tipPt": "Filtra por 'alojamento em casa propia' para encontrar cuidadores que não mezclen a tu cão com muitos outros: melhor para cães ansiosos."
         }
       ],
       "tipsEn": [
@@ -866,6 +1073,27 @@
         {
           "q": "¿Cuánto cuesta el alojamiento para perros en Rotterdam?",
           "a": "Las tarifas de alojamiento doméstico de Pawshake suelen oscilar entre 25 y 45 € por noche según la experiencia del cuidador y el barrio."
+        }
+      ],
+      "titlePt": "Cuidadores de cães e pensiones em Roterdão",
+      "introPt": "Roterdão cuenta com uma activa comunidad Pawshake com mais de 6.700 reseñas verificadas. Para o alojamento em casa e o cuidado diurno, Pawshake é a plataforma mais fiable com seguro incluido em cada reserva.",
+      "tipsPt": [
+        "Pawshake Roterdão tem mais de 6.700 reseñas: usa o filtro de bairro para encontrar um cuidador perto de tu hotel.",
+        "TrustedHousesitters é uma alternativa para estadias mais longas: os cuidadores vienen a tu alojamento.",
+        "Reserva o alojamento para animais com al menos uma semana de antelación para visitas de verão (junho–agosto) quando a demanda é alta."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde puedo encontrar um cuidador de cães em Roterdão para uma excursión?",
+          "a": "Pawshake (pawshake.nl) é a melhor opción: Roterdão tem mais de 6.700 reseñas e hay visitas a domicilio disponibles para reservas de medio dia e dia completo."
+        },
+        {
+          "q": "¿Hay uma perrera cerca do centro de Roterdão?",
+          "a": "Hay pensiones caninas nos suburbios de Roterdão e em Barendrecht. Para estadias na cidade, o alojamento doméstico de Pawshake é mais práctico e generalmente melhor para os cães."
+        },
+        {
+          "q": "¿Cuánto cuesta o alojamento para cães em Roterdão?",
+          "a": "As tarifas de alojamento doméstico de Pawshake costumam oscilar entre 25 e 45 € por noite segundo a experiencia do cuidador e o bairro."
         }
       ]
     }

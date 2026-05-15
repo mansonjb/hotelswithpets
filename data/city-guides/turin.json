@@ -33,7 +33,11 @@
           "tip": "Arrive before 10:00 for a quiet morning bicerin — the café fills with tourists from 11:00 onwards and the portico tables are first-come.",
           "tipFr": "Arrivez avant 10h pour un bicerin matinal tranquille — le café se remplit de touristes dès 11h et les tables sous arcades sont en premier arrivé.",
           "tipEs": "Llega antes de las 10:00 para un bicerin matinal tranquilo — el café se llena de turistas a partir de las 11:00 y las mesas bajo pórtico son por orden de llegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Al+Bicerin+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Al+Bicerin+Torino",
+          "descriptionPt": "Fundado em 1763, Al Bicerin é a cuna do bicerin (espresso, chocolate e crema) e uno dos cafés mais legendarios de Turín. O minúsculo interior não admite cães, mas as mesas sob os pórticos são pet-friendly e ofrecen uma vista de primera fila al Santuario della Consolata.",
+          "petPolicyPt": "Cães bem-vindos sob os pórticos",
+          "mustTryPt": "Bicerin, zabaglione, cuneesi al rum",
+          "tipPt": "Llega antes das 10:00 para um bicerin matinal tranquilo — o café se cheia de turistas a partir das 11:00 e as mesas sob pórtico são por orden de llegada."
         },
         {
           "name": "Porto di Savona",
@@ -55,7 +59,11 @@
           "tip": "Book the corner table at the Piazza Vittorio end for the best dog-watching spot — a local institution with regulars who bring their retrievers every Sunday.",
           "tipFr": "Réservez la table d'angle côté Piazza Vittorio pour le meilleur spot d'observation — institution locale où les habitués amènent leurs retrievers tous les dimanches.",
           "tipEs": "Reserva la mesa en la esquina del lado de Piazza Vittorio para el mejor lugar de observación — institución local donde los habituales traen sus retrievers todos los domingos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Porto+di+Savona+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Porto+di+Savona+Torino",
+          "descriptionPt": "Trattoria tradicional na mayor praça de Turín (Piazza Vittorio Veneto), aberta a partir de 1863. Os cães com trela são bem-vindos sob os pórticos com vista para a igreja da Gran Madre e al rio Po. Clásicos piamonteses contundentes a preços honestos.",
+          "petPolicyPt": "Cães bem-vindos sob os pórticos",
+          "mustTryPt": "Vitello tonnato, agnolotti do plin, bonet",
+          "tipPt": "Reserva a mesa na esquina do lado de Piazza Vittorio para o melhor lugar de observación — instituição local onde os habituales traen os seus retrievers todos os domingos."
         },
         {
           "name": "Affini Via Belfiore",
@@ -77,7 +85,11 @@
           "tip": "Aperitivo from 18:00 is €10 with unlimited small plates — arrive at 17:45 to secure a terrace table on summer evenings.",
           "tipFr": "L'aperitivo dès 18h coûte 10 € avec assiettes illimitées — venez à 17h45 pour sécuriser une table en terrasse les soirs d'été.",
           "tipEs": "El aperitivo desde las 18:00 cuesta 10 € con raciones ilimitadas — llega a las 17:45 para asegurar una mesa en terraza en las noches de verano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Affini+Via+Belfiore+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Affini+Via+Belfiore+Torino",
+          "descriptionPt": "Bar de vermut e bistró moderno não bairro hipster de San Salvario, com uma soleada esplanada exterior que acoge activamente aos cães — bol de água trazido sistemáticamente. A hora do aperitivo é legendaria; a cozinha permanece aberta até tarde para platillos.",
+          "petPolicyPt": "Cães bem-vindos em esplanada",
+          "mustTryPt": "Vermouth di Torino, tajarin al tartufo, tabla de aperitivo",
+          "tipPt": "O aperitivo a partir das 18:00 cuesta 10 € com raciones ilimitadas — llega a as 17:45 para asegurar uma mesa em esplanada nas noites de verão."
         }
       ],
       "tipsEn": [
@@ -136,6 +148,27 @@
           "q": "¿Qué barrios son los más dog-friendly para comer?",
           "a": "San Salvario (bares hipster, terrazas fáciles), Quadrilatero Romano (cafés históricos bajo pórticos) y los alrededores de Piazza Vittorio (amplios pórticos con vistas al río)."
         }
+      ],
+      "titlePt": "Restaurantes pet-friendly em Turín",
+      "introPt": "A cultura de café de Turín é uma das as mais antigas de Italia — os pórticos barrocos de Via Po e do Quadrilatero Romano te protegen da chuva e do sol estival, e a maioria dos cafés históricos aceitam cães com trela na esplanada. A lei italiana permite cães nos restaurantes por defecto salvo cartaz contrario.",
+      "tipsPt": [
+        "A lei italiana permite cães nos restaurantes por defecto — um adhesivo 'cani ammessi' é uma buena señal.",
+        "Os pórticos barrocos de Turín (18 km em total) hacen da cidade uma das mais protegidas de Europa para os cafés — perfeito para salidas invernales o calor estival.",
+        "Pide 'acqua per il cane' — o pessoal turinés casi sempre traz um bol, a menudo com um pouco de pan o uma golosina."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Se admiten cães nos restaurantes de Turín?",
+          "a": "Sí. A lei italiana permite cães nos locales de restauración por defecto salvo cartaz contrario. A maioria dos cafés históricos e trattorie admiten cães com trela, especialmente em mesas sob pórticos."
+        },
+        {
+          "q": "¿Os cafés turineses têm bol de água?",
+          "a": "Os cafés tradicionales costumam dejar uno na entrada o lo traen a petición. Pide 'uma ciotola d'acqua' o 'acqua per il cane'."
+        },
+        {
+          "q": "¿Qué bairros são os mais pet-friendly para comer?",
+          "a": "San Salvario (bares hipster, esplanadas fáceis), Quadrilatero Romano (cafés históricos sob pórticos) e os alrededores de Piazza Vittorio (amplios pórticos com vista para o rio)."
+        }
       ]
     },
     "parks": {
@@ -166,7 +199,11 @@
           "tip": "The southern Area Cani is quieter and shadier in summer — the northern one near Castello del Valentino is busier with regulars from San Salvario.",
           "tipFr": "L'Area Cani sud est plus calme et ombragée l'été — celle du nord près du Castello del Valentino est plus fréquentée par les habitants de San Salvario.",
           "tipEs": "La Area Cani sur es más tranquila y con más sombra en verano — la del norte junto al Castello del Valentino está más concurrida por los vecinos de San Salvario.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+del+Valentino+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+del+Valentino+Torino",
+          "descriptionPt": "O parque público mais querido de Turín, 84 hectáreas a lo longo do Po, a partir de Corso Vittorio até o Borgo Medievale. Dos Aree Cani valladas (uma perto do castelo, outra não extremo sur), trilhos sombreados junto ao rio e uma gelatería pet-friendly não passeio.",
+          "petPolicyPt": "Trela obrigatória; dos Aree Cani valladas",
+          "facilitiesPt": "Dos Aree Cani, fuentes, bancos, cafetería junto ao rio",
+          "tipPt": "A Area Cani sur é mais tranquila e com mais sombra em verão — a do norte junto ao Castello do Valentino está mais concurrida pelos vecinos de San Salvario."
         },
         {
           "name": "Parco della Pellerina",
@@ -188,7 +225,11 @@
           "tip": "The easternmost Area Cani is the largest (3 000 m²) and the only one with a fresh-water tap — ideal in summer.",
           "tipFr": "L'Area Cani la plus à l'est est la plus grande (3 000 m²) et la seule équipée d'un robinet d'eau fraîche — idéale en été.",
           "tipEs": "La Area Cani más oriental es la mayor (3.000 m²) y la única con grifo de agua fresca — ideal en verano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+della+Pellerina+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+della+Pellerina+Torino",
+          "descriptionPt": "Com 169 hectáreas, o mayor parque urbano de Turín — três Aree Cani, um pequeño lago, pistas de carrera e a escuela de adiestramiento canino mais antiga da cidade. Apreciado por corredores, ciclistas e dueños de cães grandes; generalmente mais tranquilo que o Valentino.",
+          "petPolicyPt": "Trela obrigatória; três Aree Cani valladas",
+          "facilitiesPt": "Três Aree Cani, pistas de carrera, pequeño lago, zonas de picnic",
+          "tipPt": "A Area Cani mais oriental é a mayor (3.000 m²) e a única com grifo de água fresca — ideal em verão."
         },
         {
           "name": "Collina di Superga",
@@ -210,7 +251,11 @@
           "tip": "Clear winter mornings offer the best Alp panorama from the basilica terrace — the basilica interior doesn't admit dogs but the terrace and forest trails do.",
           "tipFr": "Les matins clairs d'hiver offrent la plus belle vue sur les Alpes depuis la terrasse de la basilique — l'intérieur n'admet pas les chiens mais la terrasse et les sentiers forestiers oui.",
           "tipEs": "Las mañanas despejadas de invierno ofrecen la mejor vista a los Alpes desde la terraza de la basílica — el interior no admite perros pero la terraza y los senderos sí.",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilica+di+Superga+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilica+di+Superga+Torino",
+          "descriptionPt": "Parque colinar boscoso na margem este do Po, com a Basílica barroca de Superga no seu cima — acessível mediante o pintoresco comboio de cremallera Sassi-Superga (cães admitidos). Trilhos forestales para passeios com trela com vistas panorámicas aos Alpes.",
+          "petPolicyPt": "Trela obrigatória em trilhos; cães admitidos não comboio de cremallera",
+          "facilitiesPt": "Comboio de cremallera, basílica, cafetería, pradarias de picnic",
+          "tipPt": "As mañanas despejadas de inverno ofrecen a melhor vista aos Alpes a partir da esplanada da basílica — o interior não admite cães mas a esplanada e os trilhos sí."
         }
       ],
       "tipsEn": [
@@ -269,6 +314,27 @@
           "q": "¿Se admiten perros en el Palacio Real o en el Museo Egipcio?",
           "a": "No — ambos prohíben animales por completo. Los espacios exteriores Piazza Castello y Giardini Reali admiten perros con correa."
         }
+      ],
+      "titlePt": "Parques para cães e espacios verdes em Turín",
+      "introPt": "Turín cuenta com uno dos mayores inventarios italianos de espacios verdes por habitante: as 84 hectáreas do Parco do Valentino a margens do Po, as 169 hectáreas do Parco della Pellerina al oeste, e uma red de mais de 35 Aree Cani (zonas sem trela valladas) repartidas pela cidade. A trela é obrigatória fora de estas zonas segundo o reglamento municipal de Torino.",
+      "tipsPt": [
+        "Turín cuenta com mais de 35 Aree Cani listadas em comune.torino.it/verdepubblico/aree-cani — todas gratuitas e a mayoría abertas 24/7.",
+        "Trela obrigatória fora das Aree Cani em todos os espacios públicos; multas a partir de 50 € nos bairros centrales.",
+        "Recoger as deposiciones é obrigatório — multas até 450 €. Dispensadores de bolsas em todos os grandes parques."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Dónde podem os cães correr sem trela em Turín?",
+          "a": "Só nas mais de 35 Aree Cani designadas — as mayores estão em Parco do Valentino, Parco della Pellerina, Parco Colletta e Parco Ruffini. Em todos os demás lugares a trela é obrigatória."
+        },
+        {
+          "q": "¿Se admiten cães não comboio de cremallera Sassi-Superga?",
+          "a": "Sí — cães com trela e bozal admitidos com um suplemento de 1 €. O comboio de época circula sábados e domingos; consulta horarios estacionales em gtt.to.it."
+        },
+        {
+          "q": "¿Se admiten cães não Palácio Real o não Museu Egipcio?",
+          "a": "Não — ambos prohíben animales por completo. Os espacios exteriores Piazza Castello e Giardini Reali admiten cães com trela."
+        }
       ]
     },
     "transport": {
@@ -291,7 +357,9 @@
           "petPolicy": "Small dogs free (carrier); large dogs half-price + leash + muzzle",
           "petPolicyFr": "Petits chiens gratuits (cage) ; grands chiens demi-tarif + laisse + muselière",
           "petPolicyEs": "Perros pequeños gratis (transportín); grandes, media tarifa + correa + bozal",
-          "googleMapsUrl": "https://maps.google.com/?q=Torino+Porta+Nuova+Metro"
+          "googleMapsUrl": "https://maps.google.com/?q=Torino+Porta+Nuova+Metro",
+          "descriptionPt": "Gruppo Torinese Trasporti gestiona a Metro Línea 1 (automática), a red histórica de elétricos, autocarros urbanos e o comboio de cremallera Sassi-Superga. Os cães em transportadora viajan grátis; os mais grandes requieren trela corta, bozal e bilhete ridotto (meio preço).",
+          "petPolicyPt": "Cães pequeños grátis (transportadora); grandes, meio preço + trela + bozal"
         }
       ],
       "tipsEn": [
@@ -350,6 +418,27 @@
           "q": "¿Pueden los perros viajar en Trenitalia desde Turín Porta Nuova?",
           "a": "Sí — perros pequeños en transportín gratis, más grandes con Hundeticket a media tarifa, correa y bozal. Reserva asiento de ventanilla en trayectos largos."
         }
+      ],
+      "titlePt": "Viajar com cão em Turín",
+      "introPt": "A red GTT de Turín (metro, elétricos, buses, comboio de cremallera) admite cães sob as normas estándar italianas: cães pequeños em transportadora grátis, mais grandes com trela corta, bozal e medio bilhete. A Línea 1 do metro tem aire acondicionado e é a opción mais sencilla em verão.",
+      "tipsPt": [
+        "Lleva um bozal flexible não bolso — os revisores multan com 25 a 250 € por ausencia não metro e autocarros.",
+        "A Línea 1 do metro é a opción mais rápida e fresca em julho-agosto; os elétricos são mais lentos mas mais pintorescos a lo longo do Po.",
+        "Os comboios regionales Trenitalia a partir de Porta Nuova admiten cães com trela e bozal com bilhete suplementario a meio preço — útil para as escapadas alpinas a Bardonecchia o Susa."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar mi cão não metro de Turín?",
+          "a": "Sí — os cães pequeños em transportadora viajan grátis. Os mais grandes necesitan um bilhete ridotto (meio preço), trela corta e bozal."
+        },
+        {
+          "q": "¿Se admiten cães não comboio de cremallera Sassi-Superga?",
+          "a": "Sí — cães com trela e bozal admitidos com um suplemento de 1 € os fines de semana."
+        },
+        {
+          "q": "¿Podem os cães viajar em Trenitalia a partir de Turín Porta Nuova?",
+          "a": "Sí — cães pequeños em transportadora grátis, mais grandes com Hundeticket a meio preço, trela e bozal. Reserva asiento de ventanilla em trayectos longos."
+        }
       ]
     },
     "beaches": {
@@ -365,7 +454,11 @@
       "tipsEs": [],
       "faqsEn": [],
       "faqsFr": [],
-      "faqsEs": []
+      "faqsEs": [],
+      "titlePt": "Praias pet-friendly perto de Turín",
+      "introPt": "Contenido próximamente. Turín está a 160 km da costa ligur — as praias de mar mais cercanas estão em Albisola e Varazze, a 1h30 de carro. Para actividades acuáticas mais cercanas, o Lago di Viverone e o Lago Sirio (45 min de carro) ofrecen Spiagge Cani designadas. Estamos verificando as normas actuales antes de publicar.",
+      "tipsPt": [],
+      "faqsPt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Turin — Veterinary Clinics & Pet Care",
@@ -395,7 +488,11 @@
           "tip": "Free parking onsite and easy highway access — a 15-minute drive from Turin centre. Bring your dog's EU passport to speed up admission.",
           "tipFr": "Parking gratuit sur place et accès autoroutier facile — 15 min du centre de Turin. Apportez le passeport européen pour accélérer l'admission.",
           "tipEs": "Aparcamiento gratuito in situ y acceso fácil a la autopista — 15 min del centro de Turín. Lleva el pasaporte europeo para acelerar la admisión.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Anubi+Moncalieri"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Anubi+Moncalieri",
+          "descriptionPt": "Gran clínica de referencia a sul de Turín, com urgências 24/7, cirugía, imagen (TAC, RM, ecografía), oncología e cuidados intensivos. Uno dos principales centros de referencia para pequeños animales do norte de Italia.",
+          "petPolicyPt": "Urgências 24/7 com visita sem cita",
+          "servicesPt": "Urgências, cirugía, RM/TAC, oncología, UCI",
+          "tipPt": "Aparcamiento gratuito in situ e acceso fácil a autopista — 15 min do centro de Turín. Lleva o passaporte europeu para acelerar a admisión."
         },
         {
           "name": "Clinica Veterinaria Torinese",
@@ -417,7 +514,11 @@
           "tip": "Phone triage will tell you whether to come to Torinese (standard cases) or route to Anubi in Moncalieri (complex referrals). Street parking is scarce — consider taxi.",
           "tipFr": "Le triage téléphonique vous dira si venir à Torinese (cas standards) ou orienter vers Anubi à Moncalieri (cas complexes). Stationnement rare — privilégiez le taxi.",
           "tipEs": "El triaje telefónico te dirá si ir a Torinese (casos estándar) o derivar a Anubi en Moncalieri (casos complejos). Aparcamiento escaso — considera el taxi.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Torinese"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Torinese",
+          "descriptionPt": "Clínica polivalente central não bairro de Cenisia com urgências 24/7, cirugía, imagen e hospitalización nocturna. Mais pequeña que Anubi mas mais cómoda para os viajeros alojados perto de Porta Nuova o do Valentino.",
+          "petPolicyPt": "Urgências 24/7 com visita sem cita",
+          "servicesPt": "Urgências, cirugía, imagen, dental, dermatología",
+          "tipPt": "O triaje telefónico te dirá se ir a Torinese (casos estándar) o derivar a Anubi em Moncalieri (casos complejos). Aparcamiento escaso — considera o taxi."
         }
       ],
       "tipsEn": [
@@ -475,6 +576,27 @@
         {
           "q": "¿Un veterinario de Turín admite visitas sin cita?",
           "a": "Sí — Anubi y Torinese atienden urgencias sin cita 24/7. Para consultas de rutina la mayoría exige cita previa."
+        }
+      ],
+      "titlePt": "Veterinário de urgências em Turin — Hospitales e clínicas veterinárias",
+      "introPt": "Turín cuenta com dos grandes clínicas veterinárias de urgências 24/7 além disso do hospital universitario de Grugliasco. As clínicas privadas gestionan a maioria de urgências fora de horario; a Clinica Veterinária Anubi e a Clinica Veterinária Torinese são as dos referencias estándar.",
+      "tipsPt": [
+        "Guarda Anubi (011 6469480) e Torinese (011 3852070) em tu móvil antes de chegar — Italia não tem línea nacional de urgências veterinárias.",
+        "O centro de toxicología veterinária pasa pelo CAV Niguarda humano (+39 02 6610 1029), que asesora sobre animais as 24 horas.",
+        "A maioria de clínicas turinesas aceitam seguros europeus (Agila, Petplan) mas o pago é al momento; conserva o recibo para o reembolso."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Qué clínica abre 24/7 em Turín?",
+          "a": "Dos clínicas prestan serviço de urgências 24/7: Clinica Veterinária Anubi (Strada Provinciale 6, Moncalieri, 011 6469480) e Clinica Veterinária Torinese (Via Pacchiotti 4, Cenisia, 011 3852070)."
+        },
+        {
+          "q": "¿Cuánto cuesta uma urgência veterinária em Turín?",
+          "a": "A consulta de urgências base é de 60 a 110 €, sem contar pruebas. A tarifa ANMVI italiana fija mínimos mas o coste final depende das pruebas e uma posible hospitalización."
+        },
+        {
+          "q": "¿Um veterinário de Turín admite visitas sem cita?",
+          "a": "Sí — Anubi e Torinese atienden urgências sem cita 24/7. Para consultas de rutina a mayoría exige cita previa."
         }
       ]
     },
@@ -548,6 +670,29 @@
           "q": "¿Puedo llevar mi perro a los Alpes en una excursión de un día?",
           "a": "Sí — Bardonecchia, Susa y Sestriere están a 1h-1h30 en coche y ofrecen senderismo dog-friendly en verano; algunas estaciones abren senderos nevados balizados para perros en invierno."
         }
+      ],
+      "titlePt": "Consejos esenciales para viajar com animais a Turín",
+      "introPt": "Turín é uma cidade gratificante para os dueños de cães — 18 km de pórticos cubiertos te protegen da chuva e o sol estival, a margem do Po ofrece 10 km de passeios pet-friendly continuos, e os Alpes estão a uma hora para escapadas de fin de semana. Algunas normas locales difieren do resto de Italia: a cidade aplica o bozal em transporte mais estrictamente que Roma, e o calor estival é mais intenso que nas cidades costeras.",
+      "tipsPt": [
+        "Lleva sempre um bozal flexible — os revisores de Turín aplican a norma rigurosamente em metros e elétricos GTT com multas de 25 a 250 €.",
+        "O asfalto em verão pode alcanzar 55 °C em julho-agosto; pasea antes das 9:00 o después das 19:30 e prioriza as ruas com pórticos, que são mais frescas.",
+        "Turín cuenta com mais de 35 Aree Cani (zonas sem trela valladas) — mapa completo em comune.torino.it/verdepubblico/aree-cani.",
+        "Todo hotel turinés que aceita animais exige o passaporte europeu e a vacinação antirrábica vigente não check-in — sem excepción.",
+        "O aeroporto de Turín (TRN) dispone de área de esparcimiento animal fora da Terminal 1 e a maioria de grandes aerolíneas admiten animais em cabina em voos europeus."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿É Turín uma buena cidade para visitar com cão?",
+          "a": "Sí — Turín é mais tranquila que Milão o Roma, com 18 km de pórticos cubiertos, mais de 35 Aree Cani, amplios passeios junto ao Po e excursiones alpinas fáceis. Uma excelente base para uma escapada italiana tranquila."
+        },
+        {
+          "q": "¿Necesito papeles para levar mi cão a Turín?",
+          "a": "Residentes UE: passaporte europeu com vacinação antirrábica vigente. Fora da UE: certificado sanitario UE emitido nos 10 dias anteriores mais prueba de título antirrábico para ciertos países."
+        },
+        {
+          "q": "¿Puedo levar mi cão aos Alpes numa excursión de um dia?",
+          "a": "Sí — Bardonecchia, Susa e Sestriere estão a 1h-1h30 de carro e ofrecen senderismo pet-friendly em verão; algunas estações abren trilhos nevados balizados para cães em inverno."
+        }
       ]
     },
     "attractions": {
@@ -574,7 +719,10 @@
           "tip": "Enter the Giardini Reali from the Porta Palatina side for the most atmospheric approach — a short walk from the Quadrilatero cafés.",
           "tipFr": "Entrez dans les Giardini Reali par la Porta Palatina pour l'approche la plus atmosphérique — à deux pas des cafés du Quadrilatero.",
           "tipEs": "Entra en los Giardini Reali por la Porta Palatina para el acceso más atmosférico — a dos pasos de los cafés del Quadrilatero.",
-          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Castello+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Castello+Torino",
+          "descriptionPt": "Praça monumental central de Turín, flanqueada pelo Palácio Real, o Teatro Real e a Via Po com pórticos. Os Giardini Reali tras o palácio, de acceso libre, são totalmente pet-friendly com trela e ofrecen um refugio tranquilo do bullicio urbano.",
+          "petPolicyPt": "Piazza e Giardini Reali: trela; interior do Palazzo Reale: sem animais",
+          "tipPt": "Entra nos Giardini Reali pela Porta Palatina para o acceso mais atmosférico — a dos pasos dos cafés do Quadrilatero."
         },
         {
           "name": "Basilica di Superga",
@@ -592,7 +740,10 @@
           "tip": "Take the vintage Sassi-Superga rack railway on Saturdays or Sundays (dogs accepted with €1 supplement) — the vintage train itself is a sightseeing experience.",
           "tipFr": "Prenez le pittoresque train à crémaillère Sassi-Superga samedi ou dimanche (chiens acceptés avec supplément 1 €) — le train d'époque est lui-même une expérience touristique.",
           "tipEs": "Coge el pintoresco tren de cremallera Sassi-Superga los sábados o domingos (perros admitidos con suplemento de 1 €) — el tren de época es en sí una experiencia turística.",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilica+di+Superga+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilica+di+Superga+Torino",
+          "descriptionPt": "Basílica barroca do século XVIII que corona a colina de Superga, com vistas panorámicas a Turín e os Alpes. Os cães com trela são bem-vindos na esplanada exterior e nos trilhos forestales circundantes; o interior não admite animales.",
+          "petPolicyPt": "Esplanada e trilhos: trela; interior: sem animais",
+          "tipPt": "Coge o pintoresco comboio de cremallera Sassi-Superga os sábados o domingos (cães admitidos com suplemento de 1 €) — o comboio de época é em sí uma experiencia turística."
         },
         {
           "name": "Po Riverside and Murazzi",
@@ -610,7 +761,10 @@
           "tip": "Start at the Murazzi at sunset — the arches and the river reflect the Mole in gold light, one of Turin's most photographed moments.",
           "tipFr": "Partez des Murazzi au coucher du soleil — les arches et le fleuve reflètent la Mole dans une lumière dorée, l'un des moments les plus photographiés de Turin.",
           "tipEs": "Empieza en los Murazzi al atardecer — los arcos y el río reflejan la Mole con luz dorada, uno de los momentos más fotografiados de Turín.",
-          "googleMapsUrl": "https://maps.google.com/?q=Murazzi+del+Po+Torino"
+          "googleMapsUrl": "https://maps.google.com/?q=Murazzi+del+Po+Torino",
+          "descriptionPt": "Os 10 km peatonales ribereños a partir dos arcos dos Murazzi até o Borgo Medievale dentro do Parco do Valentino — uno dos passeios caninos urbanos continuos mais longos de Italia. Cafeterías, clubes de remo e vistas a Mole Antonelliana al atardecer.",
+          "petPolicyPt": "Trela obrigatória em todo o recorrido",
+          "tipPt": "Empieza nos Murazzi al atardecer — os arcos e o rio reflejan a Mole com luz dorada, uno dos momentos mais fotografiados de Turín."
         }
       ],
       "tipsEn": [
@@ -669,6 +823,27 @@
           "q": "¿Puedo llevar mi perro en un crucero por el Po?",
           "a": "Sí — las lanzaderas fluviales estivales Valentino-Borgo Medievale admiten perros con correa en cubiertas exteriores. Horarios estacionales; consulta gtt.to.it."
         }
+      ],
+      "titlePt": "Atracciones pet-friendly em Turín",
+      "introPt": "As atracciones al aire libre de Turín — Piazza Castello, Piazza San Carlo, a margem do Po e a Basílica de Superga — são totalmente acessíveis com cão com trela. O famoso Museu Egipcio e o Museu do Cine na Mole Antonelliana prohíben animales, mas os 18 km de pórticos e varias esplanadas panorámicas ofrecen muito que ver sem entrar em espacios cubiertos.",
+      "tipsPt": [
+        "O Museu Egipcio, o Museu do Cine (Mole Antonelliana), o interior do Palácio Real e a Pinacoteca Agnelli prohíben os cães — organiza um relevo para as visitas interiores.",
+        "O ascensor panorámico da Mole Antonelliana não admite cães — a explanada da Basílica de Superga é a alternativa panorámica pet-friendly.",
+        "As visitas guiadas a pé (Torino Magica, Turin Undergrounds) admiten cães com trela em rutas exteriores — confirma al reservar."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Puedo levar mi cão al Museu Egipcio?",
+          "a": "Não — o Museu Egipcio prohíbe os animales por completo. O interior do Palácio Real e o Museu do Cine na Mole Antonelliana também estão vetados."
+        },
+        {
+          "q": "¿É pet-friendly a Basílica de Superga?",
+          "a": "A esplanada exterior e os trilhos forestales admiten cães com trela; o interior não admite animales. O comboio de cremallera Sassi-Superga admite cães com trela e bozal com um suplemento de 1 €."
+        },
+        {
+          "q": "¿Puedo levar mi cão num crucero pelo Po?",
+          "a": "Sí — as lanzaderas fluviales estivales Valentino-Borgo Medievale admiten cães com trela em cubiertas exteriores. Horarios estacionales; consulta gtt.to.it."
+        }
       ]
     },
     "petsitting": {
@@ -694,7 +869,10 @@
           "servicesFr": "Promenade, garderie, pension",
           "servicesEs": "Paseo, guardería, alojamiento",
           "openingHours": "Online 24/7",
-          "tip": "Filter by experience with Alpine breeds (Bernese Mountain Dog, Great Pyrenees) — Turin has many sitters familiar with working-breed temperaments."
+          "tip": "Filter by experience with Alpine breeds (Bernese Mountain Dog, Great Pyrenees) — Turin has many sitters familiar with working-breed temperaments.",
+          "descriptionPt": "Plataforma europeia de pet sitting com cuidadores verificados em Turín para passeios, guardería e alojamento a domicilio. Todas as reservas incluyen seguro e fotos diárias. Tarifas típicas: 15 a 28 €/dia em alojamento, 10 a 15 € por passeio de uma hora.",
+          "petPolicyPt": "Cuidadores verificados, seguro incluido",
+          "servicesPt": "Passeio, guardería, alojamento"
         }
       ],
       "tipsEn": [
@@ -752,6 +930,27 @@
         {
           "q": "¿Puedo encontrar un cuidador anglófono en Turín?",
           "a": "Sí — Pawshake y Rover permiten filtrar por idioma. San Salvario y Crocetta concentran el mayor número de cuidadores anglófonos por las poblaciones expatriada y universitaria."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães em Turín",
+      "introPt": "Turín cuenta com um mercado profesional fiable de cuidado de animales, dominado por Pawshake e Rover com uma sólida red de asociaciones locales de dog sitters em San Salvario, Cit Turin e Crocetta. Tarifas aproximadamente 15 % por debajo de Milão. Reserva pronto durante o Salone do Livro (maio) e o Torino Film Festival (novembro).",
+      "tipsPt": [
+        "Reserva cuidadores em Turín com al menos uma semana de antelación para o Salone do Livro (principios de maio) e o Film Festival (finales de novembro).",
+        "Holidog.com opera uma red mais pequeña mas bem valorada em Turín — buen plan B se Pawshake está cheio.",
+        "A maioria dos hotéis turineses que aceitam animais Não permiten dejar al cão só na habitación. Recurre a um cuidador local para visitar museus."
+      ],
+      "faqsPt": [
+        {
+          "q": "¿Cuánto cuesta o pet sitting em Turín?",
+          "a": "Tarifas habituales: 15 a 28 €/noite em alojamento, 22 a 40 €/dia em guardería, 10 a 15 € por passeio de uma hora. Ligeramente mais altas durante os grandes festivales."
+        },
+        {
+          "q": "¿Estão asegurados os cuidadores em Turín?",
+          "a": "Pawshake e Holidog incluyen responsabilidad civil e cobertura veterinária de urgências em cada reserva."
+        },
+        {
+          "q": "¿Puedo encontrar um cuidador anglófono em Turín?",
+          "a": "Sí — Pawshake e Rover permiten filtrar por idioma. San Salvario e Crocetta concentran o mayor número de cuidadores anglófonos pelas poblaciones expatriada e universitaria."
         }
       ]
     }

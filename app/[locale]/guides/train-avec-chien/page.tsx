@@ -686,6 +686,157 @@ const COPY = {
     guidePasseport: 'Pasaporte europeo para mascotas: guía completa',
     guideAll: 'Todas nuestras guías prácticas',
   },
+  pt: {
+    hero: 'Viajar de comboio com tu cão por Europa',
+    subtitle: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar... A guía completa de normas, tarifas, bozal e consejos prácticos para viajar tranquilamente de comboio com tu cão.',
+    lastUpdate: 'Atualizado en',
+    breadcrumbGuides: 'Guías',
+    breadcrumbCurrent: 'Comboio com cão',
+    badge: 'Guía práctica',
+
+    keyFactsTitle: 'As normas esenciales de um vistazo',
+    keyFacts: [
+      { icon: '🎫', title: 'Bilhete obrigatório', text: 'Em toda Europa, os cães grandes necesitan bilhete. Os animales pequenos em transportadora costumam viajar grátis.' },
+      { icon: '😷', title: 'Bozal obrigatório', text: 'Em Francia (SNCF, Ouigo), Italia, Austria e a maioria de países, o bozal é obrigatório para cães de mais de 6 kg.' },
+      { icon: '🚫', title: 'Eurostar túnel = proibido', text: 'Os animales de compañía (salvo cães guía) estão totalmente proibidos nos comboios Eurostar que cruzan o Eurotúnel entre Londres e Europa continental.' },
+      { icon: '📋', title: 'Cartilla veterinária', text: 'Lleva sempre a cartilla de vacunación de tu cão. Renfe (España) exige além disso um seguro de responsabilidad civil.' },
+      { icon: '📏', title: 'Medidas do transportadora', text: 'O formato estándar para animales pequenos é 45×30×25 cm (SNCF). Algunos operadores aceitam até 70×30×50 cm.' },
+      { icon: '🐕‍🦺', title: 'Cães guía grátis', text: 'Os cães guía e de asistencia viajan grátis em toda Europa sem bozal obrigatório.' },
+    ],
+
+    tableTitle: 'Comparativa de compañías ferroviarias europeias',
+    colOperator: 'Compañía',
+    colAllowed: '¿Admitido?',
+    colTicket: '¿Bilhete?',
+    colPrice: 'Tarifa',
+    colSize: 'Formato',
+    colMuzzle: 'Bozal',
+    colCarrier: 'Transportadora',
+    colMax: 'Máx / viajero',
+    colNotes: 'Notas',
+
+    allowedYes: 'Sí',
+    allowedPartial: 'Parcial',
+    allowedNo: 'No',
+
+    sncfTitle: 'SNCF e Ouigo: viajar de comboio com cão em Francia',
+    sncfContent: [
+      'SNCF é o operador mais relevante para nuestros usuarios hispanohablantes que viajan por Francia. As normas são claras e bastante permisivas.',
+      'Nos TGV INOUI e Intercités, tienes dos opções: (1) tu cão pesa menos de 6 kg e viaja num transportadora cerrado (máx 45×30×25 cm) por 10 €; (2) tu cão é mais GRANDE e viaja com trela, com bozal, a tus pies por 20 €.',
+      'Com OUIGO, a marca de sob coste de SNCF, é aún mais sencillo: tarifa única de 10 € para todos os cães independientemente do tamanho. O bozal continua siendo obrigatório.',
+      'Os cães de categoría 1 (tipo pit-bull, mastiff, tosa) estão proibidos em todos os comboios. Os de categoría 2 podem viajar mas deben levar bozal e trela.',
+      'Reserva o bilhete de tu cão al mismo tiempo que o tuyo em SNCF Connect o a app de OUIGO. Um só animal por viajero adulto.',
+      'Nos TGV Lyria (Francia–Suiza) se aplicam as tarifas SNCF: 10 € em transportadora o 20 € com trela e bozal.',
+    ],
+    sncfTip: 'Dato importante: SNCF indica que debes asegurarte de que tu cão no molesta aos demás viajeros. Si hay problemas, o revisor pode pedirte que recoloques a tu animal.',
+
+    dbTitle: 'Deutsche Bahn: o comboio mais pet-friendly de Europa',
+    dbContent: [
+      'Alemania é probablemente o país mais acogedor para cães no transporte público europeu, e Deutsche Bahn no é uma excepción.',
+      'Um animal pequeno (do tamanho de um gato doméstico) num transportadora viaja grátis. Para um cão GRANDE, necesitas comprar um bilhete: mitad do preço adulto em comboios de longa distancia (ICE, IC, EC), o tarifa adulta completa em comboios regionales.',
+      'Uma mejora reciente: os bilhetes para cães já estão disponibles online a través da app DB Next Navigator o em next.bahn.de. ¡Adiós a as colas na estação!',
+      'A trela e o bozal são obrigatórios para os cães grandes. Nos andenes, tu cão também debe ir com trela.',
+    ],
+    dbTip: 'O Deutschland-Ticket (abono mensual) NO cubre cães. Debes comprar um bilhete animal separado embora dispongas de este abono.',
+
+    renfeTitle: 'Renfe: opções variadas em España',
+    renfeContent: [
+      'Renfe ofrece varias modalidades segundo o tipo de comboio. Em comboios AVE (alta velocidad), tu cão viaja numa jaula (máx 60×35×35 cm) para a maioria de trayectos. Algunos comboios AVE disponen de asientos especiales para cães (até 40 kg) por 35 € sem jaula.',
+      'Nos comboios Avlo (o sob coste español), a tarifa é de 10 €. Nos comboios de Media Distancia de vía métrica, os cães viajan grátis com trela e bozal.',
+      'Importante: debes presentarte no mostrador de Renfe na estação 40 minutos antes da salida com a cartilla de vacunación e um certificado de seguro de responsabilidad civil. Este é um requisito específico de España que se aplica estrictamente.',
+    ],
+
+    trenitTitle: 'Trenitalia: Italia da a bienvenida aos cães',
+    trenitContent: [
+      'Trenitalia permite que os animales pequenos (em transportadora de máx 70×30×50 cm) viajen grátis em todos os seus comboios. Para os cães grandes, o bilhete se vende ao 10% da tarifa de 2ª clase.',
+      'Os cães grandes estão admitidos nos Frecciarossa, Frecciargento, Frecciabianca e Intercity en 1ª e 2ª clase. Deben ir com trela e bozal.',
+      'No olvides levar o certificato di iscrizione all\'anagrafe canina (certificado de registro oficial) e o libretto sanitario de tu cão.',
+      'boas noticias para o verão 2025: até o 15 de setembro de 2025, Trenitalia ofrece viaje gratuito para cães de todos os tamanhos em os seus Frecce e Intercity.',
+    ],
+
+    eurostarTitle: 'Eurostar: uma norma que debes conocer',
+    eurostarContent: [
+      'Eurostar é o operador que genera mais preguntas entre nuestros lectores. A norma é simple mas absoluta: os animales de compañía (salvo cães guía e de asistencia) estão Proibidos em todos os comboios que pasan pelo Eurotúnel, é decir, os que unen Londres com París, Bruxelas, Amesterdão e otros destinos británicos.',
+      'No entanto, nas rutas continentales de Eurostar (entre Bélgica, Francia, Alemania e Países Bajos, sem pasar por Londres), os animales são bem-vindos: grátis para menos de 6 kg em transportadora, 30 € para cães grandes com trela e bozal.',
+      'Si quieres cruzar o Canal da Mancha com tu cão, as únicas opções são o ferry (Brittany Ferries, DFDS, P&O) o o comboio Eurotunnel Le Shuttle (só para carros). Os cães no podem viajar solos no Eurotúnel.',
+    ],
+
+    tipsTitle: 'Consejos prácticos para viajar de comboio com tu cão',
+    tips: [
+      {
+        icon: '📅',
+        title: 'Reserva com antelación',
+        text: 'Compra o bilhete de tu cão al mismo tiempo que o tuyo. Em SNCF Connect, marca "Animal de compañía" al reservar. Em DB, usa a app DB Next Navigator.',
+      },
+      {
+        icon: '🎒',
+        title: 'Qué levar',
+        text: 'Cartilla de vacunación, trela resistente, bozal bien ajustado, água e um tigela plegable, premios para tranquilizar, uma manta o cojín familiar, bolsas higiénicas.',
+      },
+      {
+        icon: '🏛️',
+        title: 'Na estação',
+        text: 'Tu cão debe ir com trela em todos os andenes. Em algunas estações grandes hay zonas verdes no exterior para um último passeio antes de salir.',
+      },
+      {
+        icon: '🚂',
+        title: 'No comboio',
+        text: 'Instálate lo antes posible. Comprueba que tu cão no molesta aos vecinos. Si está inquieto, anímalo a tumbarse debajo do asiento. Informa al revisor da presencia de tu animal.',
+      },
+      {
+        icon: '😰',
+        title: 'Si tu cão no se instala',
+        text: 'Prepara a tu cão antes do viaje: acostúmbralo al bozal, aos ruidos do comboio e aos espaços reducidos. Um viaje de entrenamiento em trayecto curto pode ayudar. Para ansiedad severa, consulta a tu veterinário (ansiolíticos naturales o com receta).',
+      },
+      {
+        icon: '🚫',
+        title: 'Si hay um problema a bordo',
+        text: 'Si otro viajero se queja o é alérgico, o revisor pode pedirte que cambies de lugar a tu cão. No raro caso de denegación de embarque, solicita um parte de irregularidad para obtener o reembolso.',
+      },
+    ],
+
+    interrailTitle: 'Interrail pass e viajar com um cão',
+    interrailText: 'Tu pase Interrail cubre tu propio viaje, mas os bilhetes de animal deben comprarse por separado a cada operador ferroviario. Se aplicam as normas locales de cada país. Ten em cuenta que Eurostar (Eurotúnel) continua proibido para animales mesmo com pase Interrail.',
+
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      {
+        q: '¿Mi cão necesita bilhete no comboio?',
+        a: 'Depende do tamanho. Em a maioria de países europeus, os animales pequenos num transportadora adecuado viajan grátis. Os cães grandes necesitan bilhete de pago. Em Francia (SNCF), são 10 € (transportadora) o 20 € (com trela). Em Alemania (DB), é a mitad do preço adulto em comboios de longa distancia.',
+      },
+      {
+        q: '¿Mi cão necesita bozal no comboio?',
+        a: 'Sí, em a maioria de países e compañías. Em Francia (SNCF, Ouigo), o bozal é obrigatório para cães de mais de 6 kg. Em Italia (Trenitalia), Austria (ÖBB) e Países Bajos (NS), também é obrigatório para cães grandes. Em Bélgica (SNCB), se recomienda mas no sempre se exige estrictamente.',
+      },
+      {
+        q: '¿Puedo poner a mi cão em bodega no comboio?',
+        a: 'No. Ao contrário dos aviones, os comboios europeus no têm bodega para animales vivos. Tu cão debe estar sempre contigo: num transportadora no área de pasajeros o com trela a tus pies.',
+      },
+      {
+        q: '¿Puedo viajar com mi cão no Eurostar?',
+        a: 'No, no nos comboios que cruzan o Eurotúnel (hacia/desde Londres). Os animales estão estrictamente proibidos em estas rutas por razones sanitarias. Só os cães de asistencia registrados podem viajar. Para cruzar o Canal com um cão, toma um ferry o o Eurotunnel Le Shuttle (só carros).',
+      },
+      {
+        q: '¿Pode viajar de comboio mi cão de raza "peligrosa"?',
+        a: 'Os cães de categoría 1 (tipo pit-bull, American Staffordshire Terrier, Mastín Japonés, Tosa) estão proibidos nos comboios SNCF e Ouigo. Os de categoría 2 (Rottweiler, Staffordshire Bull Terrier, Dobermann, etc.) podem viajar mas deben levar bozal e trela em todo momento. Consulta as normas de cada operador para otros países.',
+      },
+      {
+        q: '¿Mi cão debe permanecer em o seu sitio durante todo o viaje?',
+        a: 'Sí, na medida de lo posible. Em SNCF, tu cão debe viajar a tus pies, com trela e bozal, e no pode ocupar um asiento de pasajero. Em algunos TER regionales pode haber espaço no pasillo o no vestíbulo do vagón.',
+      },
+      {
+        q: '¿Tengo que mostrar as vacunas de mi cão no comboio?',
+        a: 'No sempre é obrigatório em Francia, mas é muito recomendable levar a cartilla de salud. Em España (Renfe), presentar a cartilla de vacunación no mostrador é obrigatório. Em Italia (Trenitalia), se exige a libreta sanitaria. Viaja sempre com os documentos de tu animal.',
+      },
+    ],
+
+    sourcesTitle: 'Fuentes verificadas',
+    sourcesText: 'Esta guía se basa em informação oficial de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB e PKP Intercity, verificada en 2025. As tarifas e normas podem cambiar — consulta sempre a web do operador antes de viajar.',
+
+    internalLinksTitle: 'Guías relacionadas',
+    guidePasseport: 'Passaporte europeu para animais: guía completa',
+    guideAll: 'Todas nuestras guías prácticas',
+  },
 }
 
 const ALLOWED_COLORS: Record<AllowedStatus, { bg: string; text: string; border: string }> = {

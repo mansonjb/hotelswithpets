@@ -662,6 +662,175 @@ const COPY = {
     tableHeaderNotes: 'Normas específicas',
     countryLawTitle: 'Leyes de sujeción del perro en el coche por país',
   },
+  pt: {
+    hero: 'Road trip por Europa com tu cão: a guía completa',
+    subtitle: 'Leis de seguridad de carro por país, arnés vs transportadora, cruce de fronteras, políticas de Eurotunnel e ferries, gestión do calor, frecuencia de paradas e botiquín esencial — todo antes de ponerte em marcha.',
+    lastUpdate: 'Atualizado en',
+    breadcrumbGuides: 'Guías',
+    breadcrumbCurrent: 'Road trip com tu cão',
+    badge: 'Guía práctica',
+    sources: 'Fuentes verificadas',
+    sourcesText: 'Esta guía se basa nos códigos de circulación e regulaciones oficiales das autoridades de transporte de cada país (Code da Route francés, StVO alemán, DGT española / Lei 7/2023, Codice della Strada italiano, Lei de Tráfico suiza), as políticas oficiales de Eurotunnel Le Shuttle, DFDS, Brittany Ferries e P&O Ferries, e recomendaciones veterinárias publicadas. Verifica sempre com as autoridades do país de destino antes de viajar.',
+
+    checklistTitle: 'Lista de verificación antes de salir',
+    checklist: [
+      { icon: '📔', label: 'Passaporte europeu para animais atualizado', note: 'Microchip + vacuna antirrábica válida' },
+      { icon: '🔒', label: 'Sistema de sujeción homologado com crash test', note: 'Arnés com crash test, transportadora fijado o red separadora' },
+      { icon: '💧', label: 'Água fresca e tigela de viaje', note: 'Ofrece água cada 2 horas' },
+      { icon: '🩺', label: 'Botiquín de primeros auxilios para cães', note: 'Quitagarrapatas, antiséptico, vendas, bozal, contacto do veterinário' },
+      { icon: '🌡️', label: 'Nunca dejes a tu cão só no carro', note: 'Mesmo a a sombra, a temperatura pode ser letal en 10 minutos' },
+      { icon: '🗂️', label: 'Copias dos documentos (seguridad)', note: 'Lleva os originales sempre acessíveis — nunca no maletero' },
+    ],
+
+    safetyTitle: 'Seguridad no carro: ¿arnés, transportadora o barrera?',
+    safetyIntro: 'Num accidente a 50 km/h, um cão de 20 kg sem sujetar se convierte num proyectil de 300 kg. Os datos de crash test muestran niveles de protección muito distintos segundo o sistema escolhido.',
+    safetyOptions: [
+      {
+        icon: '🔒',
+        title: 'Transportadora correctamente fijado',
+        rating: 'MELHOR protección',
+        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        text: 'Um transportadora rígido atornillado aos puntos de anclaje do maletero o bien asegurado com trelas é a opção mais segura. As paredes rígidas distribuyen as fuerzas do impacto alrededor do cão em lugar de concentrarlas num único punto. Importante: um transportadora simplemente apoyado no maletero sem fijar ofrece apenas mais protección que um cão suelto.',
+      },
+      {
+        icon: '🪢',
+        title: 'Arnés com crash test certificado',
+        rating: 'Protección aceptable si está certificado',
+        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        text: 'De 11 arneses probados pelo Center for Pet Safety (CPS), só uno superó as pruebas. A maioria dos arneses estándar ceden por encima dos 40 km/h. Elige sempre um modelo com certificación de crash test verificada — nunca um arnés de passeio reconvertido.',
+      },
+      {
+        icon: '🚧',
+        title: 'Barrera de maletero o red separadora',
+        rating: 'Protección parcial',
+        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        text: 'Uma barrera de maletero impide que o cão acceda al habitáculo, mas ofrece pouca protección num impacto frontal forte: o cão pode ser proyectado contra a propia barrera. Útil combinada com um transportadora; insuficiente por sí sola em trayectos longos.',
+      },
+    ],
+    safetyCrashNote: 'Consejo: sea cual sea o sistema escolhido, acostumbra a tu cão a él pouco a pouco antes do GRANDE viaje.',
+
+    planningTitle: 'Planificación do trayecto',
+    planningIntro: 'A maioria de veterinários recomiendan parar cada 2–3 horas como máximo. Os cachorros, cães mayores e razas braquicéfalas (bulldogs, pugs…) podem necesitar paradas mais frecuentes.',
+    planningItems: [
+      { icon: '⏱️', title: 'Para cada 2 horas', text: '15–30 minutos de passeio, água fresca, comprobación de temperatura corporal. No superes as 7 horas de conducción al dia.' },
+      { icon: '💧', title: 'Hidratación regular', text: 'Ofrece água em cada parada. Evita comidas copiosas antes de salir para reducir o mareo. Se recomienda estómago vacío 2–3 horas antes de partir.' },
+      { icon: '🌿', title: 'Áreas de descanso pet-friendly', text: 'Nas autopistas francesas, as redes APRR/AREA e Vinci ofrecen áreas caninas equipadas (juegos, obstáculos, zonas com sombra). O mapa de áreas pet-friendly de APRR está disponible na app Fulli.' },
+      { icon: '🌡️', title: 'Gestión do calor', text: 'Com 25°C no exterior, o interior do carro pode alcanzar os 50°C em menos de 30 minutos. Nunca dejes a tu cão só no carro. Dejar as ventanas entreabiertas no sirve de nada: o aumento de temperatura é casi idéntico.' },
+    ],
+
+    borderTitle: 'Cruce de fronteras de carro',
+    borderIntro: 'Dentro do espaço Schengen (a maioria de países da UE), os controles fronterizos são raros, mas os documentos deben presentarse si se solicitan. Nos países fuera do espaço Schengen, espera um control sistemático.',
+    borderItems: [
+      {
+        flag: '🇪🇺',
+        zone: 'Países da UE (Schengen)',
+        docs: 'Passaporte europeu para animais + microchip + vacuna antirrábica atualizada',
+        notes: 'Controles pouco frecuentes mas posibles. Presenta os documentos si se solicitan. Verificación obrigatória: Finlândia, Irlanda (tratamento antitenia obrigatório).',
+      },
+      {
+        flag: '🇨🇭',
+        zone: 'Suiza (fuera da UE, fuera de Schengen)',
+        docs: 'Passaporte UE o equivalente aceite + microchip + vacuna antirrábica',
+        notes: 'Control em frontera. Utiliza o canal rojo para declaración de animales. Sem tratamento adicional para viajeros da UE.',
+      },
+      {
+        flag: '🇳🇴',
+        zone: 'Noruega (EEE, fuera da UE)',
+        docs: 'Passaporte UE aceite + tratamento antitenia obrigatório 1–5 dias antes da entrada',
+        notes: 'Declaración obrigatória na aduana noruega (canal rojo). O tratamento Echinococcus debe estar registrado no passaporte por um veterinário.',
+      },
+      {
+        flag: '🇬🇧',
+        zone: 'Reino Unido (post-Brexit)',
+        docs: 'Certificado Sanitario Animal (AHC) emitido nos 10 dias anteriores + tratamento antitenia 1–5 dias antes',
+        notes: 'O passaporte UE já no é válido. Só por puntos de entrada aprobados (Dover, St Pancras…). Transportista aprobado obrigatório.',
+      },
+    ],
+
+    crossingTitle: 'Eurotunnel e ferries: lo que necesitas saber',
+    eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
+    eurotunnelItems: [
+      'Tus animais permanecen no vehículo durante toda a travesía (35 minutos) — no hay separación.',
+      'Haz o check-in no mostrador de animales al menos 1 hora antes da salida (e no mais de 2 horas).',
+      'Ambas terminales (Folkestone e Coquelles) têm atención a animais as 24 horas.',
+      'Documentos necesarios: passaporte UE (o AHC desde o Reino Unido) + tratamento antitenia para entrar em GRANDE Bretaña.',
+      'Preço: aproximadamente 22 £ por animal e trayecto (além disso do bilhete do vehículo).',
+    ],
+    ferriesTitle: 'Ferries (Canal da Mancha e Mar do norte)',
+    ferries: [
+      {
+        name: 'Brittany Ferries',
+        notes: 'Cabinas pet-friendly disponibles (cão contigo na cabina) em a maioria de rutas. Também disponibles perreras a bordo. Bozal obrigatório em espaços compartidos. Desde 35 £ por trayecto.',
+      },
+      {
+        name: 'DFDS',
+        notes: 'Cabinas pet-friendly (4 literas, vista al mar, máx. 2 animales). Perreras a bordo a 40 € por cão e trayecto. O cão debe ir com trela nos espaços compartidos.',
+      },
+      {
+        name: 'P&O Ferries',
+        notes: '6 cabinas pet-friendly por barco na ruta Hull–Róterdam (travesía nocturna de ~12 h). Máx. 2 cães pequenos o 1 cão mediano/GRANDE por cabina.',
+      },
+    ],
+
+    firstAidTitle: 'Botiquín de primeros auxilios para viaje de carro',
+    firstAidItems: [
+      { icon: '🪲', item: 'Quitagarrapatas (x2)', note: 'Imprescindible em verão e zonas boscosas' },
+      { icon: '🩹', item: 'Vendas e gasas estériles', note: 'Para estabilizar uma herida até chegar al veterinário' },
+      { icon: '🧴', item: 'Antiséptico (clorhexidina o Betadine)', note: 'Limpiar heridas e cortes' },
+      { icon: '😷', item: 'Bozal adaptado al tamanho do cão', note: 'Um cão herido pode morder por dolor — protégete antes de actuar' },
+      { icon: '🌡️', item: 'Termómetro rectal', note: 'Normal: 38–39°C. Por encima de 40°C = urgência' },
+      { icon: '🧊', item: 'Bolsa de frio reutilizable', note: 'Em caso de golpe de calor: enfriar progresivamente (nunca água helada)' },
+      { icon: '💊', item: 'Medicamento contra o mareo prescrito pelo veterinário', note: 'Pídelo em consulta antes do viaje' },
+      { icon: '📋', item: 'Contacto do veterinário local + veterinário de urgências em Europa', note: 'Número ECVIM o FindAVet segundo o país de destino' },
+      { icon: '🚿', item: 'Toallitas desinfectantes e guantes de látex', note: 'Para curas básicas em condições higiénicas' },
+      { icon: '📌', item: 'Dos fotos de tu cão + número de microchip', note: 'Em caso de fuga num país extranjero' },
+    ],
+
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      {
+        q: '¿Tem que ir mi cão sujeto no carro em Europa?',
+        a: 'Em a maioria de países europeus (Francia, Alemania, España, Italia, Suiza) sí, embora a base legal varía. Algunos países têm uma multa directa por cão sem sujetar; otros se basan na obligación general de no distraer al conductor. Na práctica, utiliza sempre um sistema de sujeción com crash test para a seguridad de tu cão e tu propia protección legal.',
+      },
+      {
+        q: '¿Com qué frecuencia debo parar num viaje longo?',
+        a: 'Planifica uma parada de 15–30 minutos cada 2–3 horas. Os cachorros, cães mayores e razas braquicéfalas (bulldogs, pugs…) podem necesitar paradas mais frecuentes. No superes as 7 horas de conducción al dia. Ofrece água em cada parada.',
+      },
+      {
+        q: '¿Puedo dejar a mi cão só no carro durante um road trip?',
+        a: 'No, com calor o sol. Com 25°C no exterior, o interior de um carro pode alcanzar os 50–60°C em menos de 30 minutos. Dejar as ventanas entreabiertas apenas marca diferença: o aumento de temperatura é casi idéntico. Organiza as paradas em equipo, usa aparcamientos com sombra o utiliza uma pantalla solar reflectante. Em inverno com GRANDE frio também existe o riesgo de hipotermia.',
+      },
+      {
+        q: '¿Necesito passaporte para mi cão para cruzar uma frontera de carro?',
+        a: 'Sí. Para viajar por Europa com tu cão, o passaporte europeu para animais (o documento equivalente) é imprescindible. Debe incluir o microchip ISO e a vacuna antirrábica atualizada. Para o Reino Unido, um Certificado Sanitario Animal (AHC) sustituye al passaporte UE desde o Brexit. Para Noruega e Finlândia, é obrigatório um tratamento antiparasitario adicional.',
+      },
+      {
+        q: '¿Puedo cruzar o Canal da Mancha com mi cão de carro pelo túnel?',
+        a: 'Sí, a través do Eurotunnel Le Shuttle. Tus animais permanecen no vehículo durante os 35 minutos de travesía. Haz o check-in no mostrador de animales al menos 1 hora antes. Documentos: passaporte UE (desde Francia) o AHC + tratamento antitenia (desde GRANDE Bretaña). Preço: aprox. 22 £ por animal além disso do bilhete do vehículo.',
+      },
+      {
+        q: '¿Cuáles são os síntomas do golpe de calor num cão e qué debo hacer?',
+        a: 'Señales de alerta: jadeo excesivo, encías rojo intenso, salivación abundante, marcha tambaleante, vómitos. Si sospechas um golpe de calor: lleva al cão a a sombra, mójalo com água fresca (no helada), ofrécele pequenas cantidades de água e ve al veterinário de urgências de inmediato. A temperatura normal é 38–39°C — por encima de 40°C é uma emergência vital.',
+      },
+      {
+        q: '¿Está cubierto mi cão pelo seguro em caso de accidente de carro no extranjero?',
+        a: 'Comprueba tanto tu seguro de carro como tu seguro de animais: algunos cubren os gastos veterinários de urgência no extranjero, otros no. Algunos seguros de carro premium incluyen asistencia para animales. Contrata um seguro de animal com cobertura internacional antes do viaje — os gastos veterinários de urgência em Europa podem ser muito elevados.',
+      },
+    ],
+
+    relatedTitle: 'Guías relacionadas',
+    relatedItems: [
+      { href: 'passeport-animal', label: 'Passaporte para animais: guía completa por país' },
+      { href: 'train-avec-chien', label: 'Viajar de comboio com tu cão' },
+    ],
+    tipTitle: 'Consejo práctico',
+    tipText: 'Antes de um road trip longo, haz uma revisión veterinária, actualiza as vacunas e pregunta si tu cão necesita medicación contra o mareo. Tu veterinário também pode darte o contacto de colegas no país de destino.',
+    tableHeaderCountry: 'País',
+    tableHeaderMandatory: '¿Sujeción obrigatória?',
+    tableHeaderFine: 'Multa',
+    tableHeaderNotes: 'Normas específicas',
+    countryLawTitle: 'Leis de sujeción do cão no carro por país',
+  },
 }
 
 export default async function RoadTripChienPage({

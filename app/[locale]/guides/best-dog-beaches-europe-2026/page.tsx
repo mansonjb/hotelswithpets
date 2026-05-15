@@ -11,7 +11,7 @@ import destinations from '@/data/destinations.json'
 
 const SLUG = 'best-dog-beaches-europe-2026'
 
-type Locale = 'en' | 'fr' | 'es'
+type Locale = 'en' | 'fr' | 'es' | 'pt'
 
 // Hand-curated top 25 dog beaches across Europe, sourced from our 105 city guides.
 // Each entry is a real verified beach with year-round or near-year-round dog access.
@@ -395,12 +395,53 @@ const COPY: Record<Locale, {
       `Lleva siempre una bolsa. Las multas van de 50 € (Faro, Lecce) a 100 € (Brighton, York) por infracción y se controlan activamente por los agentes municipales en la mayoría de las playas de esta lista.`,
     ],
   },
+  pt: {
+    kicker: 'MELHORES Praias Caninas · Edição 2026',
+    h1: `As 25 MELHORES praias pet-friendly de Europa`,
+    lede: `Selección de nuestros datos verificados en ${destinations.length} cidades europeias — cada praia de abajo foi confirmada como acessível para cães por uma señal municipal oficial o uma ordenanza o ano inteiro, com uma descripción de primera mano de nuestro equipo de investigación urbana.`,
+    introTitle: 'Como escolhemos estas 25',
+    introParas: [
+      `As ordenanzas municipales europeias sobre praias cambian cada ano, mas o inventário subyacente de « praias caninas o ano inteiro señalizadas » é reducido. Partimos das 273+ praias de nuestras guías urbanas, conservamos só as que tenían a) uma zona canina municipal señalizada O b) acceso sem trela o ano inteiro na sección rural, e luego clasificamos as supervivientes com uma mezcla de accesibilidad (distancia a uma GRANDE cidade aeroporto-comboio), qualidade (areia vs guijarros) e usabilidad o ano inteiro.`,
+      `Cada entrada de abajo enlaza com a guía do seu cidade madre, onde encontrarás a ficha completa da praia com direção, transporte, número do veterinário e hotéis pet-friendly cercanos — cada recomendación pode bajarse até a etapa de reserva.`,
+    ],
+    countryTitle: 'Distribución por país',
+    countryIntro: `As MELHORES praias caninas de Europa se concentran em cinco países. Portugal (Algarve), Reino Unido (Yorkshire & Brighton), Italia (Salento), Dinamarca (Aarhus) e Países Bajos (costa do mar do norte) representan o ${Math.round(100 * (BEACHES.filter((b) => ['Portugal', 'United Kingdom', 'Italy', 'Denmark', 'Netherlands'].includes(destinations.find((d) => d.slug === b.citySlug)?.country ?? '')).length / BEACHES.length))} % de nuestro top 25.`,
+    countriesLabel: 'Países a a cabeza',
+    rankingTitle: 'A clasificación completa',
+    rankLabel: 'Posición',
+    yearRoundBadge: 'O ano inteiro',
+    seasonalBadge: 'Sazonal',
+    coastLabels: { atlantic: 'Atlântico', mediterranean: 'Mediterrâneo', 'north-sea': 'Mar do norte', baltic: 'Báltico', lake: 'Lago / Rio' },
+    ctaTitle: 'Encuentra um hotel pet-friendly perto de estas praias',
+    ctaDesc: `Cada praia da clasificación enlaza com a guía do seu cidade madre, com hotéis pet-friendly verificados (5+ por cidade), suplementos em EUR e enlaces directos de afiliación a Booking.com.`,
+    ctaButton: 'Todos os destinos →',
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      { q: '¿Se admitem cães nas praias europeias em verão?', a: `Depende do país e da praia. A maioria das praias municipales em Francia, Italia, España e Portugal excluyen cães do 1 de junho ao 15-30 de setembro salvo em zonas caninas marcadas. Reino Unido, Países Bajos, Dinamarca e Finlândia têm normas muito mais permisivas com acceso o ano inteiro em a maioria das praias.` },
+      { q: '¿Qué país europeu tem mais praias pet-friendly?', a: `Em valor absoluto: Portugal (costa do Algarve), Reino Unido (passeios marítimos de Yorkshire e Brighton) e Italia (Salento, Liguria). Per cápita: Dinamarca e Países Bajos, onde a maioria das praias do mar do norte admite cães o ano inteiro fuera das zonas turísticas centrales.` },
+      { q: '¿Puedo levar a mi cão num comboio europeu a uma praia?', a: `Sí. Os comboios NS holandeses admitem cães com trela grátis sem bozal; os comboios VR finlandeses igual. Os LNER e ScotRail británicos admitem até 2 cães grátis por pasajero. SNCF (Francia), Trenitalia (Italia), CP (Portugal) e DB (Alemania) exigen bilhete a meio preço e bozal para cães medianos/grandes.` },
+      { q: '¿Qué hay da areia caliente em verão?', a: `As arenas atlánticas e mediterráneas superan os 50 °C em superficie em julho-agosto — as quemaduras em almohadillas são reales. Botines, bálsamo para almohadillas e praia antes das 10:00 / depois das 18:00 são esenciales. As praias nórdicas (Dinamarca, UK, Países Bajos) se mantienen por debajo de 35 °C mesmo em olas de calor.` },
+      { q: '¿Dónde encontrar hotéis pet-friendly perto de estas praias?', a: `Cada praia de esta clasificación enlaza com a guía do seu cidade madre, com 5+ hotéis pet-friendly verificados por cidade, suplementos em EUR e enlaces directos de afiliación a Booking.com.` },
+    ],
+    takeawayTitle: 'Lo que hay que recordar para 2026',
+    takeawayParas: [
+      `O acceso canino o ano inteiro é mais común de lo que se cree — ${STATS.yearRound} das 25 praias de arriba são acessíveis a cães todos os dias do ano.`,
+      `Os lagos são uma opção de banho canino infravalorada. Os lagos com água potable Clase A como Annecy (Francia) e os lagos de Tampere (Finlândia) baten al água de mar em tres critérios: mais limpia, mais tranquila, e o cão pode beber directamente.`,
+      `O acceso ferroviario transfronterizo rediseña o mapa. Maastricht (NL) ↔ Lieja ↔ Aquisgrán, Annecy ↔ Genebra, e York ↔ Filey colocan praias caninas reales a 1h de comboio de tres das cidades mais dog-tolerantes de Europa.`,
+    ],
+    legalTitle: 'Notas legales — léelas antes de ir',
+    legalParas: [
+      `A señalización no sitio prevalece. As ordenanzas sobre praias europeias são municipales e cambian cada ano — comprueba sempre a señal no sitio antes de soltar.`,
+      `As leis de trela por nidificación se aplicam em a maioria das praias rurales do 1 de abril ao 19 de agosto. O Mediterrâneo exime a maioria das zonas caninas vedadas; o norte de Europa é mais rigoroso.`,
+      `Lleva sempre uma bolsa. As multas van de 50 € (Faro, Lecce) a 100 € (Brighton, York) por infração e se controlan activamente pelos agentes municipales em a maioria das praias de esta lista.`,
+    ],
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
-  const l = (locale === 'pt' ? 'en' : locale) as Locale
+  const l = locale as Locale
   const t = COPY[l]
 
   // Schema.org Article + ItemList + FAQPage

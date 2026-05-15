@@ -275,6 +275,40 @@ const COPY: Record<string, {
     ctaDesc: 'Cada una de estas 20 ciudades tiene una guía pet-friendly completa con hoteles, restaurantes, parques, veterinarios y mapa Booking.com en vivo.',
     ctaButton: 'Ver todos los destinos →',
   },
+  pt: {
+    hero: { kicker: 'As MELHORES Cidades Caninas DE EUROPA · Edição 2026', h1: 'Top 20 cidades mais pet-friendly de Europa', lede: 'Depois de auditar 85 destinos europeus segundo cinco critérios — espaço sem trela, normas de transporte público, acceso a praias caninas, cobertura veterinária e disponibilidade de hotéis — estas são as cidades onde viajar com um cão é genuinamente fácil. Atualizado para 2026.' },
+    intro: { title: 'Porquê este ranking é diferente', paras: [
+      'A maioria das listas de "MELHORES cidades pet-friendly" que encuentras online são copywriting de marketing reciclado. Classificam cidades segundo impressões vagas em lugar dos factores prácticos que determinam si tu cão tendrá realmente um buen viaje.',
+      'Hemos adoptado um abordagem diferente. Auditámos cada destino segundo cinco critérios concretos que determinam a qualidade real de um viaje canino: número de zonas sem trela vedadas, aceitação de cães em metros e elétricos, disponibilidade de praias caninas (o ano inteiro vs sazonais), distancia de um veterinário de urgências 24/7 e densidad de hotéis pet-friendly com avaliação superior a 8,0/10.',
+      'As cidades de abajo se sitúan todas no quintil superior em al menos cuatro dos cinco critérios. Cada uma foi visitada e verificada por nuestro equipo — e cada uma dispone de uma guía completa e cuidada com números de veterinários, recomendaciones de hotéis e mapa Booking.com em vivo de hotéis pet-friendly.',
+    ] },
+    methodology: { title: 'Nuestra metodología', paras: [
+      'Recopilamos o número oficial de zonas sem trela de cada cidade desde a web de serviços públicos ("Hundeauslaufzonen" em cidades alemanas, "aree cani" em italianas, "koira-aitaus" em Helsínquia, etc.). As cidades com menos de 5 zonas oficiales fueron eliminadas.',
+      'Probamos as normas de transporte público a través da documentação oficial do operador. Uma cidade pierde puntos si proíbe cães medianos e grandes, exige burocracia complexo o aplica as normas de forma inconsistente.',
+      'Para praias caninas, distinguimos as zonas o ano inteiro das sazonais (inúteis de maio a setembro em a maioria de costas mediterráneas). As cidades de interior se foram avaliadas por o seu opção de praia mais cercana (máx. 60 min de carro).',
+      'A cobertura veterinária se ponderó fuertemente: uma cidade sem acceso a veterinário de urgências 24/7 cae 5 lugares, sem importar os seus otras fortalezas. Listamos cada teléfono directo em nuestras guías de destino.',
+      'A disponibilidade hotelera foi medida a contar hotéis pet-friendly Booking.com com avaliação 8,0+ dentro dos limites da cidade. Por debajo de 30 hotéis, a cidade salía do top 20 sem importar otras pontuações.',
+    ] },
+    rankingTitle: 'O ranking Top 20',
+    hotelsLabel: 'Hotéis',
+    guideLink: 'Guía completa da cidade →',
+    bookOnBooking: 'Ver hotéis pet-friendly',
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      { q: '¿Porquê Londres no está na lista?', a: 'Londres está no lugar 22. A cidade tem uma excelente infraestructura (Hyde Park, Hampstead Heath, o Thames Path), mas perdeu puntos no critério de transporte: os cães estão proibidos nos autocarros de Londres e nas escaleras mecánicas do metro, lo que dificulta a logística de cães grandes. Edimburgo se classifica mais alto em parte porque as normas caninas escocesas são mais uniformes.' },
+      { q: '¿O orden é definitivo?', a: 'Os lugares 8 a 20 estão a menos de 10 puntos entre sí em nuestro sistema de pontuação, así que o orden entre ellos é algo arbitrário. Amesterdão e Berlim (lugares 1-2) são líderes claros, mas a diferença entre o 15 e o 20 é pequena.' },
+      { q: '¿Com qué frecuencia se actualiza esta lista?', a: 'Anualmente, a finais de abril, quando a maioria dos municípios publicam os seus atualizações de zonas caninas. As cidades podem mover-se muito: Belgrado passou de fuera do top 30 al lugar 16 en 2026 gracias al transporte público gratuito (janeiro 2025) e um novo hospital veterinário 24/7.' },
+      { q: '¿Estas cidades são boas também para gatos?', a: 'A mayoría sí — mas os gatos de interior raramente preocupam-se por parques o zonas sem trela. O critério que importa para gatos é a aceitação hotelera, e casi todas nuestras 20 cidades têm um forte inventário de hotéis cat-friendly. Hamburgo, Helsínquia e Viena lideram especificamente em gatos.' },
+      { q: '¿E as cidades fuera da UE?', a: 'Edimburgo e Reiquiavique (Reino Unido e Islandia, ambos fuera do sistema de passaporte europeu) exigem um Animal Health Certificate (UK) o um proceso de importación rigoroso (Islandia: 4 semanas mínimo, caro). Continuam no ranking porque as cidades em sí são excecionais, mas o burocracia é mais pesado.' },
+    ],
+    conclusion: { title: 'Nuestra elección si só tienes um viaje', paras: [
+      'Si tuviéramos que escolher uma sola cidade para um primer viaje canino europeu, seria Amesterdão. A combinação de tolerância canina em transporte, o Vondelpark, os canais e a cultura de café descontraída é inigualável. Os comboios desde Amesterdão Centraal também chegam a Berlim e Bruxelas em menos de 7 horas, a abrir itinerários multi-cidade.',
+      'Para um viaje invernal, Viena e Berlim destacam-se ambas — elétricos aquecidos, cultura de café interior, mercados de Natal que admitem cães. Para verão, Hamburgo e Copenhaga ganham por os seus temperaturas mais frescas (22-25 °C) e fácil acceso a lago/mar. Evita Madrid, Sevilha e Córdoba (40 °C+) em julho-agosto.',
+    ] },
+    ctaTitle: 'Planea tu viaje com nuestras guías de cidade',
+    ctaDesc: 'Cada uma de estas 20 cidades tem uma guía pet-friendly completa com hotéis, restaurantes, parques, veterinários e mapa Booking.com em vivo.',
+    ctaButton: 'Ver todos os destinos →',
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {

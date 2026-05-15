@@ -11,7 +11,7 @@ import destinations from '@/data/destinations.json'
 
 const SLUG = 'fenced-dog-parks-europe'
 
-type Locale = 'en' | 'fr' | 'es'
+type Locale = 'en' | 'fr' | 'es' | 'pt'
 
 type Park = {
   citySlug: string
@@ -883,12 +883,46 @@ const COPY: Record<Locale, {
       `Algunos parques separan los perros pequeños (menos de 10 kg) de los grandes con una segunda valla. Busca la señalización «Small dogs» / «Petits chiens» / «Cani piccoli» en la entrada.`,
     ],
   },
+  pt: {
+    kicker: 'Parques Caninos Vedados · Edição 2026',
+    h1: `${PARKS.length} parques caninos vedados em Europa`,
+    lede: `Toda GRANDE cidade europeia tem al menos uma zona canina vedada onde tu cão pode correr libre sem trela — chamada Hundezone (Austria, Alemania), sgambamento (Italia), hundeskov (Dinamarca), caniparc (Francia), área canina (España) o parque para cães (Portugal). Este é o inventário verificado a partir de nuestras ${destinations.length} guías urbanas.`,
+    introTitle: 'Porquê importa a valla',
+    introParas: [
+      `Em a maioria das cidades europeias, a trela é obrigatória por defecto em todo espaço público. As zonas caninas vedadas são a excepción legal: um perímetro seguro onde o cão pode correr libre sem violar as ordenanzas municipales, sem riesgo de tráfico e sem conflicto com corredores, ciclistas u otros usuarios.`,
+      `Cada entrada abajo enlaza com a guía do seu cidade matriz, onde encontrarás a direção exacta, o transporte, os horarios, as normas locales sem trela e os hotéis pet-friendly verificados cercanos — cada recomendación chega até o paso de reserva.`,
+    ],
+    countryTitle: 'Distribución por país',
+    countryIntro: `Alemania, Austria e Italia lideram Europa em infraestructura canina vedada gracias ao seu forte cultura de parque municipal. España e Francia continuam com os seus crecientes redes de áreas caninas e caniparcs.`,
+    countriesLabel: 'Países líderes',
+    listTitle: 'A lista completa — orden alfabético por cidade',
+    parksLabel: 'parques vedados',
+    citiesLabel: 'cidades',
+    countriesStatLabel: 'países',
+    ctaTitle: 'Encuentra um hotel pet-friendly perto de estos parques caninos',
+    ctaDesc: 'Cada parque da lista enlaza com a guía do seu cidade matriz, com 5+ hotéis pet-friendly verificados por cidade, suplementos em EUR e enlaces de afiliación Booking.com directos.',
+    ctaButton: 'Todas as destinos →',
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      { q: '¿Como se chama um parque canino vedado em Europa?', a: 'Os nombres varían segundo o país: Hundezone o Hundewiese (Austria, Alemania, Suiza), sgambamento o area cani (Italia), hundeskov (Dinamarca), hondenuitlaatgebied o losloopgebied (Países Bajos), caniparc o aire pour chiens (Francia), área canina o zona canina (España), parque para cães (Portugal). Todos designan lo mismo: um perímetro vedado onde se permite estar sem trela.' },
+      { q: '¿São gratuitos os parques caninos vedados?', a: 'Sí, todas as zonas caninas vedadas de esta lista são equipamiento municipal público gratuito, abierto 24h salvo mención em contra. Uma pequena minoría de parques caninos privados de pago existen em Europa — ninguno está incluido aqui.' },
+      { q: '¿Qué país europeu tem a MELHOR infraestructura de parques caninos vedados?', a: 'Por número per cápita: Austria, Alemania e Italia em cabeza. As cidades austriacas (Viena, Salzburgo, Graz) costumam contar com 5+ Hundezonen cada uma. As cidades italianas mantienen sgambamento em cada GRANDE parque. España ha ampliado rápidamente o seu red de áreas caninas desde 2018.' },
+      { q: '¿São acessíveis em transporte público os parques vedados?', a: 'Sí para todos — cada parque da lista se encuentra numa cidade já cubierta por nuestra red de destinos, com acceso no elétrico, metro o autocarro. A informação detallada está em cada guía de cidade matriz.' },
+      { q: '¿Puedo levar varios cães a um parque vedado?', a: 'Sí em casi todos os casos. Algunos sgambamenti italianos limitan a 2 cães por dueño em horas punta; a señalización na entrada indica as normas locales.' },
+    ],
+    legalTitle: 'Reglas comunes a todas as zonas caninas vedadas',
+    legalParas: [
+      `As hembras esterilizadas, machos castrados e cães bien socializados são bem-vindos. Os cães agresivos o em celo no deberían entrar numa zona sem trela compartida — regla universal de etiqueta, no escrita.`,
+      `As bolsas para residuos são obrigatórias na zona vedada — a maioria de parques têm dispensadores na entrada. As multas van de 50 € a 750 € por infração segundo a cidade e o país.`,
+      `Algunos parques separan os cães pequenos (menos de 10 kg) dos grandes com uma segunda valla. Busca a señalización «Small dogs» / «Petits chiens» / «Cani piccoli» na entrada.`,
+    ],
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
-  const l = (locale === 'pt' ? 'en' : locale) as Locale
+  const l = locale as Locale
   const t = COPY[l]
 
   // Sort PARKS alphabetically by city name in the active locale

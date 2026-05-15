@@ -174,6 +174,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: '¿Son realmente dog-friendly los biergartens en Múnich?', a: 'Sí — la tradición bávara de biergartens admite explícitamente perros con correa. Hofbräukeller, Augustiner-Keller, Hirschau, Chinesischer Turm — todos tienen boles de agua en la entrada. Algunas salas interiores no admiten perros; las mesas exteriores siempre.' },
     ],
   },
+  pt: {
+    hero: { tagline: 'Itinerário ALPINO · 10 Dias · Com TU Cão', title: 'Um viaje de comboio pelos Alpes com tu cão: Genebra → Salzburgo', subtitle: 'Genebra, Zurique, Munique, Salzburgo — cuatro cidades aos pies dos Alpes, conectadas por comboios directos. Passeios junto aos lagos, rutas de montaña, hotéis que admitem animais e mapas Booking.com em vivo para cada parada.' },
+    why: { title: 'Porquê este itinerário alpino funciona com cão', bullets: [
+      'Suiza, Alemania e Austria são os tres países mais tolerantes com cães de Europa segundo os rankings oficiales (DogFriendly.eu 2025).',
+      'Comboios directos CFF/SBB e Deutsche Bahn ICE em todo o recorrido — tu cão viaja a tu lado, vistas alpinas incluidas.',
+      'Cada parada tem parques urbanos de primer nivel E comboios/buses directos a verdaderas rutas de montaña (Zugspitze, Säntis, Untersberg).',
+      'Veranos mais frescos (típicamente 22–28 °C) — a ruta europeia mais fácil para razas braquicéfalas em julho-agosto.',
+      'Suiza NO está na UE mas as normas de animais se alinean: passaporte europeu + vacuna antirrábica admitidos na frontera. Sem cuarentena.',
+    ] },
+    stats: { duration: 'Duración', cities: 'Cidades', transport: 'Transporte', budget: 'Presupuesto', durationVal: '10 dias', citiesVal: '4 cidades', transportVal: 'Comboio (CFF / DB ICE / ÖBB Railjet)', budgetVal: '1.400 €–2.800 €' },
+    citiesIntro: { kicker: 'Cidade POR Cidade', title: 'Tus paradas, tus hotéis, tu mapa' },
+    cities: {
+      geneva: { days: 'Dias 1–2', intro: 'Empieza no extremo suroeste do Lago Lemán. Suiza é famosa por o seu tolerância canina: elétricos, autocarros e comboios admitem todos os cães (pequenos grátis, grandes a meio preço), os restaurantes admitem cães com trela por defecto, e o Bois da Bâtie é um dos os poucos florestas sem trela o ano inteiro do centro de Genebra. Os muelles do Mont-Blanc e o trilho do lago têm bancos cada 100 m e fuentes cada 500.', highlight: 'Imprescindible com tu cão: excursión em teleférico al Mont-Salève', highlightDesc: 'Pasa a Francia (sem control fronterizo para animais UE) e toma o Téléphérique du Salève até 1.100 m de altitud en 5 minutos. Cães com trela grátis. A cima tem 30 km de trilhos balizados — circuitos curtos en 2 horas.' },
+      zurich: { days: 'Dias 3–4', intro: 'Tres horas de comboio CFF directo desde Genebra — uno dos recorridos alpinos mais bonitos de Europa. Zurique é densa em verde: o Uetliberg (colina boscosa, 870 m) está acessível en 25 min em S-Bahn, e a margem do lago ofrece 4 km de passeio peatonal. As callejuelas do centro histórico e a Bahnhofstrasse (a rua comercial mais cara de Europa) toleran cães; muitas boutiques de lujo os reciben explícitamente.', highlight: 'Imprescindible com tu cão: amanecer no Uetliberg', highlightDesc: 'S10 desde a Hauptbahnhof até Uetliberg en 25 min (bilhete canino 12 CHF). A torre de observación abre a as 6 h. Os 5 km de bajada vía Felsenegg ofrecen a cidade, o lago e todos os Alpes de Glaris de uma vez.' },
+      munich: { days: 'Dias 5–7', intro: 'EC Deutsche Bahn directo desde Zurique (4h, bilhete canino 25 €). Munique é uma das as cidades mais pet-friendly de Alemania: o Jardim Inglés (375 ha) é mais GRANDE que Central Park, os cães viajan em U-Bahn e S-Bahn por 3 € (Hundekarte diaria), os biergarten admitem explícitamente cães (boles de água por todas partes), e o trilho do Isar ofrece 14 km de rutas sem trela pela cidade.', highlight: 'Imprescindible com tu cão: passeio junto al Isar + comida em biergarten', highlightDesc: 'Camina desde o centro hacia o sur pelo Isar até o biergarten Hirschau (4 km, sem trela mais allá do Wittelsbacher Brücke). O jardim tem 1.000+ asientos sombreados sob castaños; cães bem-vindos em cada mesa. Pide um Brezel para os dos.' },
+      salzburg: { days: 'Dias 8–10', intro: "Railjet ÖBB directo desde Munique Hauptbahnhof en 1h30 (bilhete canino 15 €). Salzburgo é pequena, peatonal e a puerta do Salzkammergut (Wolfgangsee, Mondsee, Fuschlsee — todos pet-friendly com passeios peatonales). O Mönchsberg (542 m, acessível por ascensor desde o centro histórico) tem rutas pet-friendly. A casa natal de Mozart no admite cães mas todo lo demás no exterior sí.", highlight: 'Imprescindible com tu cão: excursión al Wolfgangsee', highlightDesc: 'Postbus 150 desde Salzburg-Mirabellplatz a St. Gilgen en 50 min (cães grátis). O lago tem 27 km de trilhos peatonales, e o teleférico do Zwölferhorn (pet-friendly) te lleva a 1.500 m para a vista panorámica.' },
+    },
+    hotelsLabel: 'Hotéis recomendados que admitem animais',
+    bookLabel: 'Reservar em Booking.com',
+    detailsLabel: 'Detalles',
+    mapLabel: 'Mapa em vivo — todos os hotéis pet-friendly',
+    legsTitle: 'Transporte entre cidades',
+    legs: [
+      { from: 'Genebra', to: 'Zurique', duration: '~2h45', service: 'CFF/SBB IC (directo, cada hora)', petRule: 'Cães pequenos em transportadora grátis. Grandes a meio preço (~25 CHF). No se exige bozal si va com trela e tranquilo. Uno dos comboios mais pet-friendly de Europa.' },
+      { from: 'Zurique', to: 'Munique', duration: '~4h', service: 'Deutsche Bahn EC (directo, 6 al dia)', petRule: 'Cães pequenos em transportadora grátis. Grandes: Hundeticket (~25 €, meio preço adulta). Trela + bozal flexible obrigatórios.' },
+      { from: 'Munique', to: 'Salzburgo', duration: '~1h30', service: 'Railjet ÖBB (directo, cada 1-2h)', petRule: 'Cães pequenos em transportadora grátis. Grandes a meio preço (~15 €). Trela + bozal obrigatórios. Paisajes bávaro-austríacos espectaculares.' },
+    ],
+    practicalTitle: 'Antes de salir: burocracia, vacunas, contactos veterinários',
+    practicalBullets: [
+      'Passaporte europeu com vacuna antirrábica vigente (21+ dias). Suiza aceita o passaporte europeu (no está na UE mas sí no sistema de passaporte de animal).',
+      'Microchip ISO 11784/11785 — obrigatório nos cuatro países.',
+      'Suiza e Austria têm Hundesteuer (impuesto canino) para residentes. Os visitantes estão exentos; algunos hotéis exigen prueba de seguro de responsabilidad — chama antes si tu seguro doméstico é inusual.',
+      'Baviera e Austria têm listas de razas (Listenhunde): Am. Staff, Pit Bull, Bullterrier, Rottweiler — se exige licencia e bozal obrigatório em público.',
+      'Veterinários de urgências 24/7: Genebra (Centre Vétérinaire Rive-Gauche, +41 22 743 33 33), Zurique (Tierspital Zurich, +41 44 635 81 11), Munique (Tierärztliche Klinik Haar, +49 89 460 74 24), Salzburgo (Tierklinik Land Salzburg, +43 662 870150).',
+    ],
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      { q: '¿Necesito um permiso especial para entrar em Suiza com mi cão?', a: 'No — o passaporte europeu com vacunación antirrábica vigente se aceita na frontera suiza. Sem burocracia aduanero. O cão debe estar microchipado e a vacuna antirrábica tener al menos 21 dias.' },
+      { q: '¿Cuánto cuesta o viaje?', a: 'Presupuesta 1.400–2.800 €. Suiza é o tramo mais caro (hotéis ~50 % mais que Alemania/Austria). Os bilhetes de comboio suman ~350-550 € para 2 adultos + 1 cão si se reservan com 4-6 semanas.' },
+      { q: '¿Puedo realmente subir a um teleférico alpino com mi cão?', a: 'Sí — casi todos os teleféricos alpinos em Suiza, Baviera e Austria admitem cães com trela. Algunos exigen bozal na cabina. Salève, Uetliberg, Zugspitze, Untersberg, Zwölferhorn — todos pet-friendly.' },
+      { q: '¿Cuál é a MELHOR época?', a: 'Finais de maio a principios de outubro. O verão é a ruta europeia mais fácil para cães (mais fresco que o sur). O inverno tem o seu encanto (passeios em nieve, mercados navideños) mas os pasos alpinos são duros para razas de pelo curto.' },
+      { q: '¿São realmente pet-friendly os biergartens em Munique?', a: 'Sí — a tradição bávara de biergartens admite explícitamente cães com trela. Hofbräukeller, Augustiner-Keller, Hirschau, Chinesischer Turm — todos têm boles de água na entrada. Algunas salas interiores no admitem cães; as mesas exteriores sempre.' },
+    ],
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {

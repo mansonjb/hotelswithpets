@@ -188,6 +188,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: '¿Y si mi perro pesa más de 25 kg?', a: 'Las cuatro ciudades son aptas para perros grandes. El único punto crítico es el metro, donde correa + bozal ocasional son obligatorios. Hoteles: la mayoría de los de lujo aceptan hasta 25 kg, llama antes si tu perro pesa más.' },
     ],
   },
+  pt: {
+    hero: { tagline: 'CITY-TRIP · 10 Dias · Com TU Cão', title: 'Um city trip europeu de comboio com tu cão', subtitle: 'Cuatro capitales icónicas — París, Bruxelas, Amesterdão, Berlim — conectadas por comboios directos que admitem cães. Hotéis que reciben animais, parques e o mapa Booking.com em vivo para cada cidade.' },
+    why: { title: 'Porquê este itinerário funciona com cão', bullets: [
+      'Cada tramo é um comboio directo e pet-friendly. Sem aviones ni bodegas — só um passeio com trela da estação al hotel.',
+      'As cuatro cidades cuentan com grandes parques sem trela a menos de 20 minutos a pé das estações centrales.',
+      'Sem burocracia nas fronteras dentro do espaço Schengen — só necesitas um passaporte europeu de animal com vacunación antirrábica vigente.',
+      'Cada cidade tem al menos uma clínica veterinária de urgências 24/7 — datos na sección práctica al final.',
+      'O itinerário evita o calor do sul — cómodo para cães de pelo curto e braquicéfalos mesmo em verão.',
+    ] },
+    stats: { duration: 'Duración', cities: 'Cidades', transport: 'Transporte', budget: 'Presupuesto', durationVal: '10 dias', citiesVal: '4 capitales', transportVal: 'Comboio (Eurostar / Thalys / ICE)', budgetVal: '1.200 €–2.500 €' },
+    citiesIntro: { kicker: 'Cidade POR Cidade', title: 'Tus paradas, tus hotéis, tu mapa' },
+    cities: {
+      paris: { days: 'Dias 1–3', intro: 'Empieza na cidade onde mais de 500.000 cães comparten a vida com os seus dueños. París é sorprendentemente descontraído com os compañeros de cuatro patas: o Marais, Saint-Germain e o Canal Saint-Martin admitem cães com trela em cafés e esplanadas. O Bois de Boulogne (850 ha) e o Bois de Vincennes (995 ha) — acessíveis no metro — dan a tu cão espaço tras longas mañanas de museu. O metro admite cães pequenos grátis em transportadora; os mais grandes necesitan bilhete reducido e trela.', highlight: 'Imprescindible com tu cão: passeio al atardecer pelo Canal Saint-Martin', highlightDesc: 'Os 4,5 km do canal entre République e A Villette são totalmente peatonales, bordeados de esplanadas pet-friendly, e desembocan no Parc da Villette (55 ha) onde os cães corren sem trela pelas pradarias centrales.' },
+      brussels: { days: 'Dias 4–5', intro: "Dos horas em Thalys desde París-Nord. Bruxelas é uma das as capitales mais tranquilas para cães em Europa Occidental: menos masificada que París o Amesterdão, com uma forte cultura de café e a gigantesca Forêt de Soignes (4.400 hectáreas de hayedo) em o seu borde sur. Bus, elétrico e metro admitem cães grátis. A maioria de restaurantes e lojas belgas reciben cães sem objeción — um bol de água na puerta é habitual.", highlight: 'Imprescindible com tu cão: o circuito Bois da Cambre + Forêt de Soignes', highlightDesc: "Toma o elétrico 7 até Vivier d'Oie. O Bois da Cambre (122 ha) desemboca directamente na Forêt de Soignes — 4.500 hectáreas continuas de hayedo, com zonas sem trela alrededor dos Étangs de Boitsfort." },
+      amsterdam: { days: 'Dias 6–8', intro: 'Eurostar directo desde Bruxelas-Midi (1h45). Amesterdão está hecha para cães: Vondelpark (47 ha), Westerpark e Amstelpark têm zonas sem trela; os elétricos admitem cães com bilhete pequeno; os canais são terreno de passeio durante horas; e todo o bairro do Jordaan é um paraíso para os paseadores de cães com pouco tráfico. Atención a as bicis — sempre têm prioridad e van rápido.', highlight: 'Imprescindible com tu cão: o circuito matinal do Vondelpark', highlightDesc: "Entra pela puerta de Stadhouderskade a as 8:00. As 47 hectáreas do parque têm varias secciones sem trela e te cruzarás com cientos de locales no mismo ritual matutino. Café en 't Blauwe Theehuis depois — cães bem-vindos em esplanada." },
+      berlin: { days: 'Dias 9–10', intro: 'Comboio ICE directo desde Amesterdão Centraal (~6h, bilhete canino ~8 € em Deutsche Bahn). Berlim é ampliamente considerada a capital mais pet-friendly de Europa: uns 100.000 cães registrados, cães em cada U-Bahn e S-Bahn, cães em lojas, cães em oficinas. O Tiergarten (210 ha em pleno centro) e o Volkspark Friedrichshain têm enormes secciones sem trela. Os bairros de Prenzlauer Berg e Kreuzberg estão llenos de cafés pet-friendly.', highlight: 'Imprescindible com tu cão: passeio por Tiergarten + Spree', highlightDesc: 'Empieza na Puerta de Brandeburgo, cruza o Tiergarten até Schloss Bellevue, luego continua o Spree até a Ilha dos Museus. Uns 6 km, mayoritariamente sem trela dentro do parque. Os locales paran a por currywurst em Curry 36 — cães bem-vindos nas mesas altas.' },
+    },
+    hotelsLabel: 'Hotéis recomendados que admitem animais',
+    bookLabel: 'Reservar em Booking.com',
+    detailsLabel: 'Detalles',
+    mapLabel: 'Mapa em vivo — todos os hotéis pet-friendly',
+    legsTitle: 'Transporte entre cidades',
+    legs: [
+      { from: 'París', to: 'Bruxelas', duration: '~1h25', service: 'Thalys / Eurostar (directo)', petRule: 'Cães pequenos em transportadora 7 €, grandes 30 € (um bilhete por cão).' },
+      { from: 'Bruxelas', to: 'Amesterdão', duration: '~1h50', service: 'Eurostar / Thalys (directo)', petRule: 'Mismas tarifas que París–Bruxelas. O cão viaja a tu lado, no em bodega.' },
+      { from: 'Amesterdão', to: 'Berlim', duration: '~6h20', service: 'Deutsche Bahn IC Berlin (directo, 4 al dia)', petRule: 'Cães pequenos grátis em transportadora. Grandes: Hundeticket (meio preço adulta, ~20–40 €), bozal e trela obrigatórios.' },
+    ],
+    practicalTitle: 'Antes de salir: burocracia, vacunas, contactos veterinários',
+    practicalBullets: [
+      'Passaporte europeu de animal com vacunación antirrábica vigente — exigido em cada check-in. A vacuna debe tener al menos 21 dias e menos de 12 meses para a dosis anual estándar.',
+      'Microchip ISO 11784/11785 — obrigatório nos cuatro países. Debe coincidir com o número do passaporte.',
+      'No se exige tratamento contra a equinococose para este itinerário (só Reino Unido, Irlanda, Finlândia, Noruega, Malta).',
+      "Guarda os cuatro veterinários de urgências 24/7 em tu móvil antes de salir: París (CHV des Cordeliers, +33 1 47 47 47 47), Bruxelas (Vétérinaires d'Uccle, +32 2 374 80 99), Amesterdão (Medisch Centrum voor Dieren, +31 20 379 98 00), Berlim (Tierärztliche Klinik Falkenried, +49 30 8541 7099).",
+      'Lleva um bozal flexible no bolso sempre — exigido em ICE/IC de Deutsche Bahn e nos metros de Bruxelas e Berlim para cães grandes.',
+    ],
+    faqTitle: 'Preguntas frecuentes',
+    faqs: [
+      { q: '¿Puedo realmente hacer todo o viaje sem volar?', a: 'Sí. Os tres tramos são comboios directos e pet-friendly. O tiempo total de comboio é de umas 9h45 repartidas en 10 dias — manejable para a maioria de cães, sobre todo com paradas longas entre etapas.' },
+      { q: '¿Cuánto cuesta o viaje para uma pareja com um cão mediano?', a: 'Presupuesta 1.200–2.500 € segundo categoría de hotel. Os bilhetes de comboio suman ~450–700 € para 2 adultos + 1 cão si se reservan com 4–6 semanas. O cargo por animal va de 0 a 50 € por parada segundo o hotel.' },
+      { q: '¿Cuál é a MELHOR época?', a: 'Maio-junho e setembro são ideales: temperaturas suaves (15–22 °C), parques pouco concurridos e hotéis disponibles. Julho-agosto pode alcanzar 32 °C em París e Amesterdão — incómodo para cães de pelo oscuro.' },
+      { q: '¿Puedo acortarlo a um fin de semana longo?', a: 'Sí — París + Bruxelas (4 dias) é a versión de dos cidades mais sencilla. O Eurostar entre ambas dura só 1h25 e as normas de animais são idénticas.' },
+      { q: '¿E si mi cão pesa mais de 25 kg?', a: 'As cuatro cidades são aptas para cães grandes. O único punto crítico é o metro, onde trela + bozal ocasional são obrigatórios. Hotéis: a maioria dos de lujo aceitam até 25 kg, chama antes si tu cão pesa mais.' },
+    ],
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {

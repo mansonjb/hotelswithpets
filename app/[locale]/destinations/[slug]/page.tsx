@@ -420,7 +420,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {/* ── Rich city content (history + sights + tips) ── */}
       {cityContent[slug] && (() => {
         const cc = cityContent[slug]
-        const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+        // PT uses pt content when available, otherwise falls back to en
+        const lang = locale === 'pt' && cc.history.pt ? 'pt' : (locale === 'fr' || locale === 'es' ? locale : 'en')
         const historyTitle = locale === 'fr' ? `${localizedName} : histoire et caractère` : locale === 'es' ? `${localizedName}: historia y carácter` : locale === 'pt' ? `${localizedName}: história e carácter` : `${localizedName}: history & character`
         const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : locale === 'pt' ? 'Pontos-chave a visitar' : 'Key sights'
         const petsTitle = locale === 'fr' ? `Voyager avec son animal à ${localizedName}` : locale === 'es' ? `Viajar con mascota en ${localizedName}` : locale === 'pt' ? `Viajar com animal em ${localizedName}` : `Travelling with a pet in ${localizedName}`

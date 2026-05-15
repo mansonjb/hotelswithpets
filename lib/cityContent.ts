@@ -3237,6 +3237,7 @@ const cityContent: Record<string, CityContent> = {
       fr: `Coimbra, troisième ville du Portugal et capitale médiévale du royaume entre 1131 et 1255, doit aujourd'hui sa renommée à son université — fondée en 1290 par le roi Dinis, l'une des plus anciennes d'Europe en activité continue. Inscrite au patrimoine mondial de l'UNESCO en 2013 sous l'intitulé « Université de Coimbra — Alta et Sofia », la ville concentre dans un centre historique compact des chefs-d'œuvre qui couvrent neuf siècles : la Sé Velha romane (1184), la Bibliothèque Joanina baroque (1717), le couvent de Santa Cruz (XIIe s.) et l'iconique cape noire des étudiants. Étalée sur une colline qui domine le Mondego, Coimbra se découvre à pied avec un chien en laisse — pavés, escaliers (Quebra-Costas signifie « casse-dos ») et terrasses ombragées. À 1h45 de Lisbonne et 1h15 de Porto en train Alfa Pendular, c'est l'une des villes les plus dog-friendly du Portugal grâce à la culture étudiante détendue et à la Mata do Choupal — 78 hectares de forêt riveraine à 10 min du centre.`,
       en: `Coimbra, Portugal's third city and its medieval capital from 1131 to 1255, owes its modern fame to the University of Coimbra — founded in 1290 by King Dinis, one of Europe's oldest continuously operating universities. Listed by UNESCO in 2013 as 'Coimbra — Alta and Sofia', the city packs into a compact historic centre masterpieces spanning nine centuries: the Romanesque Sé Velha (1184), the Baroque Joanina Library (1717), the Santa Cruz monastery (12th c.) and the iconic black student cape. Set on a hill rising from the Mondego, Coimbra is best explored on foot with a leashed dog — cobbles, stairways (Quebra-Costas means 'back-breaker') and shaded terraces. Just 1h45 from Lisbon and 1h15 from Porto by Alfa Pendular train, it's among Portugal's most dog-friendly cities thanks to relaxed student culture and the Mata do Choupal — 78 hectares of riparian forest 10 minutes west of the centre.`,
       es: `Coimbra, tercera ciudad de Portugal y capital medieval del reino entre 1131 y 1255, debe su fama moderna a la Universidad de Coimbra — fundada en 1290 por el rey Dinis, una de las más antiguas de Europa en actividad continua. Declarada Patrimonio UNESCO en 2013 bajo el título «Coimbra — Alta y Sofia», la ciudad concentra en un casco histórico compacto obras maestras que abarcan nueve siglos: la Sé Velha románica (1184), la Biblioteca Joanina barroca (1717), el monasterio de Santa Cruz (s. XII) y la icónica capa negra estudiantil. Asentada en una colina sobre el Mondego, Coimbra se descubre a pie con perro con correa — adoquines, escaleras (Quebra-Costas significa «rompe-espaldas») y terrazas a la sombra. A 1h45 de Lisboa y 1h15 de Oporto en tren Alfa Pendular, es una de las ciudades más pet-friendly de Portugal gracias a la cultura estudiantil relajada y a la Mata do Choupal — 78 hectáreas de bosque ripario a 10 min al oeste del centro.`,
+      pt: `Coimbra, terceira cidade de Portugal e capital medieval do reino entre 1131 e 1255, deve a sua fama moderna à Universidade de Coimbra — fundada em 1290 por D. Dinis, uma das mais antigas da Europa em atividade contínua. Classificada como Património Mundial pela UNESCO em 2013 sob o título «Universidade de Coimbra — Alta e Sofia», a cidade concentra num centro histórico compacto obras-primas que abrangem nove séculos: a Sé Velha românica (1184), a Biblioteca Joanina barroca (1717), o Mosteiro de Santa Cruz (séc. XII) e a icónica capa negra dos estudantes. Assente sobre uma colina que domina o Mondego, Coimbra descobre-se a pé com um cão com trela — calçada, escadarias (Quebra-Costas) e esplanadas à sombra. A 1h45 de Lisboa e 1h15 do Porto em Alfa Pendular, é uma das cidades mais pet-friendly de Portugal graças à cultura estudantil descontraída e à Mata do Choupal — 78 hectares de floresta ribeirinha a 10 min do centro.`,
     },
     sights: [
       {
@@ -3247,6 +3248,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Fondée en 1290, inscrite à l'UNESCO en 2013. La cour extérieure du Paço das Escolas au sommet de la colline accueille les chiens en laisse. Les visites intérieures (Bibliothèque Joanina, Palais Royal) restent payantes et interdites aux animaux.`,
           en: `Founded 1290, UNESCO-listed since 2013. The outdoor Paço das Escolas courtyard at the top of the hill welcomes leashed dogs. Interior tours (Joanina Library, Royal Palace) remain ticketed and off-limits to pets.`,
           es: `Fundada en 1290, Patrimonio UNESCO desde 2013. El patio exterior del Paço das Escolas en lo alto de la colina admite perros con correa. Las visitas interiores (Biblioteca Joanina, Palacio Real) son de pago y vetadas a mascotas.`,
+          pt: `Fundada em 1290, Património UNESCO desde 2013. O pátio exterior do Paço das Escolas no topo da colina admite cães com trela. As visitas interiores (Biblioteca Joanina, Paço Real) são pagas e vedadas a animais.`,
         },
       },
       {
@@ -3257,6 +3259,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Cathédrale romane à allure de forteresse consacrée en 1184. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais la place pavée devant est l'un des plus beaux extérieurs de la ville.`,
           en: `Fortress-like Romanesque cathedral consecrated 1184. Dogs not allowed inside (except assistance dogs), but the cobbled square in front is one of the city's prettiest outdoor spots.`,
           es: `Catedral románica con aspecto de fortaleza consagrada en 1184. No se admiten perros en el interior (salvo perros de asistencia), pero la plaza empedrada delante es uno de los exteriores más bellos de la ciudad.`,
+          pt: `Catedral românica com ar de fortaleza, consagrada em 1184. Não admite cães no interior (salvo cães de assistência), mas o largo empedrado em frente é um dos mais belos exteriores da cidade.`,
         },
       },
       {
@@ -3267,6 +3270,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Forêt riveraine de 78 ha le long du Mondego à l'ouest du centre — peupliers, frênes, saules, et un sentier en boucle de 5 km. Le spot de promenade canine le plus apprécié de Coimbra.`,
           en: `78 ha riparian forest along the Mondego west of the centre — poplars, ash, willows and a 5 km loop trail. The most popular dog walking spot in Coimbra.`,
           es: `Bosque ripario de 78 ha junto al Mondego al oeste del centro — choupos, fresnos, sauces y un sendero circular de 5 km. El lugar de paseo canino más popular de Coimbra.`,
+          pt: `Mata ribeirinha de 78 ha ao longo do Mondego, a oeste do centro — choupos, freixos, salgueiros e um trilho circular de 5 km. O local de passeio canino mais popular de Coimbra.`,
         },
       },
       {
@@ -3277,6 +3281,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Passerelle piétonne courbe (2007) reliant les deux rives du Parque Verde do Mondego. Vue imbattable sur la silhouette de la vieille ville au coucher du soleil. Ouverte 24h/24 aux chiens.`,
           en: `Curved pedestrian bridge (2007) linking the two banks of the Parque Verde do Mondego. Unbeatable view of the old town skyline at sunset. Open 24/7 to dogs.`,
           es: `Pasarela peatonal curvada (2007) que une las dos orillas del Parque Verde do Mondego. Vista inmejorable de la silueta del casco antiguo al atardecer. Abierta 24h a los perros.`,
+          pt: `Ponte pedonal curva (2007) que une as duas margens do Parque Verde do Mondego. Vista imbatível da silhueta do centro histórico ao pôr do sol. Aberta 24h a cães.`,
         },
       },
       {
@@ -3287,6 +3292,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Fondé en 1772, l'un des plus anciens jardins botaniques universitaires d'Europe. Terrasses paysagées, arbres rares, bambouseraie. Chiens en laisse admis dans les espaces extérieurs (pas dans les serres).`,
           en: `Founded 1772, one of Europe's oldest university botanical gardens. Terraced grounds, rare trees, bamboo grove. Leashed dogs welcome in the outdoor areas (not in the greenhouses).`,
           es: `Fundado en 1772, uno de los jardines botánicos universitarios más antiguos de Europa. Terrazas paisajísticas, árboles raros, bambúzar. Perros con correa admitidos en los espacios exteriores (no en los invernaderos).`,
+          pt: `Fundado em 1772, um dos mais antigos jardins botânicos universitários da Europa. Socalcos paisagísticos, árvores raras, bambuzal. Cães com trela admitidos nos espaços exteriores (não nas estufas).`,
         },
       },
       {
@@ -3297,6 +3303,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Jardins historiques du XIVe s. liés à la légende de Pedro et Inês de Castro — la « fontaine des amours » et la « fontaine des larmes » sont accessibles aux visiteurs et aux chiens en laisse.`,
           en: `14th-century historic gardens linked to the Pedro and Inês de Castro legend — the 'Fountain of Loves' and 'Fountain of Tears' are accessible to visitors and leashed dogs.`,
           es: `Jardines históricos del s. XIV ligados a la leyenda de Pedro e Inés de Castro — la «Fuente de los Amores» y la «Fuente de las Lágrimas» son accesibles a visitantes y perros con correa.`,
+          pt: `Jardins históricos do séc. XIV ligados à lenda de Pedro e Inês de Castro — a Fonte dos Amores e a Fonte das Lágrimas são acessíveis a visitantes e cães com trela.`,
         },
       },
     ],
@@ -3322,6 +3329,13 @@ const cityContent: Record<string, CityContent> = {
         `La Mata do Choupal, a 10 min a pie del centro, es el paseo canino imprescindible — 78 ha de bosque ripario llano y sombreado.`,
         `Los trenes Alfa Pendular Lisboa–Oporto–Coimbra admiten perros hasta 6 kg en transportín gratis; más allá, billete mascota (~6 €) y bozal obligatorios.`,
       ],
+      pt: [
+        `O centro histórico sobe 70 m por calçada e escadarias — leve água e planeie pausas para cães mais velhos ou de patas curtas.`,
+        `O minibus elétrico Linha Verde (frequência 8–12 min) evita a subida a pé — cães pequenos em transportadora são grátis.`,
+        `A cultura portuguesa de café é descontraída: a maioria das esplanadas aceita cães espontaneamente, muitas trazem uma tigela de água.`,
+        `A Mata do Choupal, a 10 min a pé do centro, é o passeio canino obrigatório — 78 ha de floresta ribeirinha plana e sombreada.`,
+        `Os comboios Alfa Pendular Lisboa–Porto–Coimbra aceitam cães até 6 kg em transportadora grátis; acima disso, bilhete animal (~6 €) e açaime obrigatórios.`,
+      ],
     },
     practicalInfo: {
       fr: [
@@ -3341,6 +3355,12 @@ const cityContent: Record<string, CityContent> = {
         `Clínica diurna céntrica: Clínica Veterinária de Coimbra, Avenida Fernão de Magalhães 605, +351 239 71 90 38`,
         `Tren Alfa Pendular desde Lisboa Santa Apolónia: 1h45 directos; desde Oporto Campanhã: 1h15.`,
         `Aeropuertos más cercanos: Oporto OPO (1h30 en coche) o Lisboa LIS (2h15) — Oporto es más práctico para la mayoría de conexiones europeas.`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h mais próximo: Hospital Veterinário do Baixo Vouga, 50 min a norte pela A1, +351 234 540 100`,
+        `Clínica diurna central: Clínica Veterinária de Coimbra, Avenida Fernão de Magalhães 605, +351 239 71 90 38`,
+        `Alfa Pendular a partir de Lisboa Santa Apolónia: 1h45 direto; a partir de Porto Campanhã: 1h15.`,
+        `Aeroportos mais próximos: Porto OPO (1h30 de carro) ou Lisboa LIS (2h15) — o Porto é mais prático para a maioria das ligações europeias.`,
       ],
     },
   },
@@ -4196,37 +4216,44 @@ const cityContent: Record<string, CityContent> = {
       fr: `Évora, fondée à l'époque romaine sous le nom d'Ebora Liberalitas Iulia (1er siècle av. J.-C.), garde un Temple romain dédié à l'empereur Auguste — le mieux préservé de la péninsule ibérique. Successivement wisigothique, mauresque (Yābora, 715-1166) puis chrétienne, Évora fut résidence royale aux XVe-XVIe siècles et accueillit la deuxième université du Portugal en 1559. Aujourd'hui capitale de l'Alentejo (54 000 habitants) et inscrite au patrimoine mondial UNESCO depuis 1986, c'est un musée à ciel ouvert où Temple romain, cathédrale gothique, palais Renaissance et l'inquiétante Capela dos Ossos (5 000 squelettes ornant les murs) se côtoient sur 1,1 km² de Centro Histórico. Pour les voyageurs avec un chien, Évora est l'une des destinations UNESCO les plus accessibles d'Europe : Centro Histórico piéton en 20 min, culture tasca alentejane tolérante par défaut, sentiers du montado de chênes-lièges juste aux portes, et accès CP direct depuis Lisbonne en 1h30.`,
       en: `Évora, founded in Roman times as Ebora Liberalitas Iulia (1st century BC), preserves a Roman Temple dedicated to Emperor Augustus — the best-preserved on the Iberian peninsula. Successively Visigothic, Moorish (Yābora, 715-1166) and Christian, Évora was a royal residence in the 15th-16th centuries and hosted Portugal's second university in 1559. Now the capital of the Alentejo (54,000 people) and a UNESCO World Heritage site since 1986, it's an open-air museum where the Roman Temple, Gothic cathedral, Renaissance palaces and the eerie Capela dos Ossos (5,000 skeletons lining the walls) coexist on 1.1 km² of Centro Histórico. For travellers with a dog, Évora is one of Europe's most accessible UNESCO destinations: walkable Centro Histórico in 20 min, dog-tolerant Alentejano tasca culture by default, cork-oak montado trails just outside the walls, and direct CP rail link from Lisbon in 1h30.`,
       es: `Évora, fundada en época romana como Ebora Liberalitas Iulia (siglo I a. C.), conserva un Templo romano dedicado al emperador Augusto — el mejor conservado de la península ibérica. Sucesivamente visigoda, morisca (Yābora, 715-1166) y cristiana, Évora fue residencia real en los siglos XV-XVI y acogió la segunda universidad de Portugal en 1559. Hoy capital del Alentejo (54 000 habitantes) e inscrita en el patrimonio mundial UNESCO desde 1986, es un museo al aire libre donde el Templo romano, la catedral gótica, palacios renacentistas y la inquietante Capela dos Ossos (5 000 esqueletos cubriendo las paredes) coexisten en 1,1 km² de Centro Histórico. Para los viajeros con perro, Évora es uno de los destinos UNESCO más accesibles de Europa: Centro Histórico peatonal en 20 min, cultura de tasca alentejana tolerante por defecto, senderos del montado de alcornoques justo fuera de las murallas, y enlace directo CP desde Lisboa en 1h30.`,
+      pt: `Évora, fundada na época romana como Ebora Liberalitas Iulia (séc. I a.C.), conserva um Templo romano dedicado ao imperador Augusto — o mais bem preservado da península Ibérica. Sucessivamente visigoda, moura (Yābora, 715-1166) e cristã, Évora foi residência real nos séculos XV-XVI e acolheu a segunda universidade de Portugal em 1559. Hoje capital do Alentejo (54 000 habitantes) e Património Mundial da UNESCO desde 1986, é um museu a céu aberto onde Templo romano, sé gótica, palácios renascentistas e a inquietante Capela dos Ossos (5 000 esqueletos a forrar as paredes) convivem em 1,1 km² de Centro Histórico. Para quem viaja com cão, Évora é um dos destinos UNESCO mais acessíveis da Europa: Centro Histórico pedonal em 20 min, cultura de tasca alentejana tolerante por defeito, trilhos do montado de sobreiros à porta da cidade e ligação direta da CP a partir de Lisboa em 1h30.`,
     },
     sights: [
       { name: 'Templo Romano de Évora', emoji: '🏛️', petFriendly: true, desc: {
         fr: `Temple romain de 2 000 ans dédié à Auguste — le mieux préservé d'Ibérie. Vue extérieure 24h/24, dog-friendly avec chiens en laisse.`,
         en: `2,000-year-old Roman Temple dedicated to Augustus — best-preserved on the Iberian peninsula. Outdoor view 24/7, dog-friendly with leashed dogs.`,
         es: `Templo romano de 2 000 años dedicado a Augusto — el mejor conservado de Iberia. Vista exterior 24/7, dog-friendly con perros con correa.`,
+        pt: `Templo romano com 2 000 anos dedicado a Augusto — o mais bem preservado da Ibéria. Vista exterior 24/24, pet-friendly com cães com trela.`,
       }},
       { name: 'Praça do Giraldo', emoji: '⛲', petFriendly: true, desc: {
         fr: `Place centrale principale — fontaine, arcades du XVIe siècle, terrasses de café tout autour. Ouverte 24h/24, dog-friendly.`,
         en: `Main central square — fountain, 16th-century arcades, café terraces all around. Open 24/7, dog-friendly.`,
         es: `Plaza central principal — fuente, arcadas del siglo XVI, terrazas de café alrededor. Abierta 24/7, dog-friendly.`,
+        pt: `Praça central principal — fonte, arcadas do século XVI, esplanadas em redor. Aberta 24/24, pet-friendly.`,
       }},
       { name: 'Cromeleque dos Almendres', emoji: '🪨', petFriendly: true, desc: {
         fr: `Plus grand cromlech d'Ibérie (95 menhirs, 6 000 av. J.-C.) — 7 000 ans plus ancien que Stonehenge. 15 km à l'ouest, dog-friendly avec chiens en laisse.`,
         en: `Largest megalithic stone circle in Iberia (95 standing stones, c. 6,000 BC) — 7,000 years older than Stonehenge. 15 km west, dog-friendly with leashed dogs.`,
         es: `Mayor crómlech de Iberia (95 menhires, c. 6 000 a. C.) — 7 000 años más antiguo que Stonehenge. 15 km al oeste, dog-friendly con perros con correa.`,
+        pt: `O maior cromeleque da Ibéria (95 menires, c. 6 000 a.C.) — 7 000 anos mais antigo que Stonehenge. 15 km a oeste, pet-friendly com cães com trela.`,
       }},
       { name: 'Évora City Walls', emoji: '🏰', petFriendly: true, desc: {
         fr: `Remparts médiévaux du XIVe-XVIIe siècles ceinturant le Centro Histórico — promenade de 4 km dog-friendly avec chiens en laisse.`,
         en: `14th-17th century medieval walls encircling the Centro Histórico — 4 km dog-friendly walk with leashed dogs.`,
         es: `Murallas medievales de los siglos XIV-XVII que rodean el Centro Histórico — paseo de 4 km dog-friendly con perros con correa.`,
+        pt: `Muralhas medievais dos séculos XIV-XVII que cingem o Centro Histórico — passeio de 4 km pet-friendly com cães com trela.`,
       }},
       { name: 'Jardim Público', emoji: '🌳', petFriendly: true, desc: {
         fr: `Jardin central principal de 3 ha — allées sous les pins, palais ruiné de Dom Manuel, étangs ornementaux. Dog-friendly avec chiens en laisse.`,
         en: `3-hectare main central garden — pine-shaded allées, ruined Palace of Dom Manuel, ornamental ponds. Dog-friendly with leashed dogs.`,
         es: `Jardín central principal de 3 ha — paseos sombreados por pinos, palacio en ruinas de Dom Manuel, estanques ornamentales. Dog-friendly con perros con correa.`,
+        pt: `Jardim central principal de 3 ha — passeios sombreados por pinheiros, palácio em ruínas de D. Manuel, lagos ornamentais. Pet-friendly com cães com trela.`,
       }},
       { name: 'Lago Alqueva', emoji: '🌊', petFriendly: true, desc: {
         fr: `Le plus grand lac artificiel d'Europe (250 km²) à 50 min à l'est — eau Classe A, plages canines toute l'année à Monsaraz et Mourão.`,
         en: `Europe's largest artificial lake (250 km²) 50 min east — Class A water, year-round dog beaches at Monsaraz and Mourão.`,
         es: `El mayor lago artificial de Europa (250 km²) a 50 min al este — agua Clase A, playas caninas todo el año en Monsaraz y Mourão.`,
+        pt: `O maior lago artificial da Europa (250 km²) a 50 min para leste — água de Classe A, praias caninas o ano inteiro em Monsaraz e Mourão.`,
       }},
     ],
     petTips: {
@@ -4251,6 +4278,13 @@ const cityContent: Record<string, CityContent> = {
         `Veterinario de urgencias 24/7: Hospital Veterinário Évora, Estrada da Circunvalação 25 (+351 266 745 050), 10 min en coche del centro.`,
         `Calor estival alto (35-40 °C julio-agosto) — limita los paseos caninos antes de las 9 y después de las 19; las murallas de piedra irradian calor hasta las 22.`,
       ],
+      pt: [
+        `A cultura da tasca alentejana aceita cães por defeito — cerca de 80 % dos cafés e tabernas de Évora aceitam cães com trela em esplanada o ano inteiro.`,
+        `Autocarros Trevo + lançadeira gratuita intra-muros: cães com trela aceites na lançadeira do Centro Histórico; cães médios/grandes em autocarro regular exigem açaime + bilhete de meio preço.`,
+        `Comboios CP Intercidades Lisboa-Évora em 1h30: cães pequenos em transportadora grátis, maiores a meio preço + açaime.`,
+        `Veterinário de urgência 24h: Hospital Veterinário Évora, Estrada da Circunvalação 25 (+351 266 745 050), 10 min de carro do centro.`,
+        `Forte calor estival (35-40 °C julho-agosto) — limite os passeios com cão a antes das 9h e depois das 19h; as muralhas de pedra irradiam calor até às 22h.`,
+      ],
     },
     practicalInfo: {
       fr: [
@@ -4274,6 +4308,13 @@ const cityContent: Record<string, CityContent> = {
         `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos del sur de Europa (al nivel de Faro).`,
         `Festivales a evitar con perro ansioso: Feira de São João (junio, feria anual), Festas de São Pedro (junio), procesiones de Semana Santa (abril).`,
       ],
+      pt: [
+        `Portugal está na UE e em Schengen: passaporte europeu + vacinação antirrábica em dia + microchip ISO bastam a partir de qualquer país UE.`,
+        `Comboios CP diretos: Lisboa Oriente 1h30 (Intercidades), Beja 45 min, Faro 3h30 — cães pequenos em transportadora grátis, maiores a meio preço + açaime.`,
+        `Aeroporto de Lisboa (LIS) a 1h30 em comboio CP direto + 30 min de Aerobus — o hub internacional pet-friendly mais próximo.`,
+        `Moeda: euro. Orçamento diário pet-friendly: 50-75 €/dia sem alojamento, dos mais baixos do sul da Europa (a par de Faro).`,
+        `Festivais a evitar com cão ansioso: Feira de São João (junho, feira anual), Festas de São Pedro (junho), procissões da Semana Santa (abril).`,
+      ],
     },
   },
 
@@ -4282,37 +4323,44 @@ const cityContent: Record<string, CityContent> = {
       fr: `Faro, fondée à l'époque romaine sous le nom d'Ossonoba, fut occupée par les Wisigoths puis par les Maures (qui lui donnèrent son nom moderne, dérivé du fondateur Harun ibn Habib) jusqu'à la reconquête chrétienne d'Alphonse III du Portugal en 1249. Le tremblement de terre de Lisbonne de 1755 dévasta la ville, qui fut reconstruite dans son style néoclassique actuel autour de la Cidade Velha médiévale toujours debout. Aujourd'hui capitale administrative et universitaire de l'Algarve (66 000 habitants), Faro est aussi la porte d'entrée touristique du sud du Portugal grâce à son aéroport international (FAO) avec vols directs depuis 30+ villes européennes. Pour les voyageurs avec un chien, Faro est l'une des destinations atlantiques dog-friendly les plus complètes : Cidade Velha piétonne en 15 min, parc naturel de la Ria Formosa de 18 000 hectares à l'orée de la ville, plages canines toute l'année sur les îles barrières via ferries, hôpital vétérinaire 24h/24 dans le centre, et suppléments animaux 8-12 €/nuit — parmi les plus bas du sud de l'Europe.`,
       en: `Faro, founded in Roman times as Ossonoba, was occupied by the Visigoths and then the Moors (who gave it its modern name, derived from the founder Harun ibn Habib) until the Christian reconquest by Alfonso III of Portugal in 1249. The 1755 Lisbon earthquake devastated the city, which was rebuilt in its current neoclassical style around the still-standing medieval Cidade Velha. Now the administrative and university capital of the Algarve (66,000 people), Faro is also the tourist gateway to southern Portugal thanks to its international airport (FAO) with direct flights from 30+ European cities. For travellers with a dog, Faro is one of the most complete Atlantic dog-friendly destinations: a 15-min walkable Cidade Velha, the 18,000-hectare Ria Formosa Natural Park at the city edge, year-round dog beaches on the barrier islands via ferry, a 24/7 veterinary hospital in the centre, and pet supplements 8-12 €/night — among the lowest in southern Europe.`,
       es: `Faro, fundada en época romana como Ossonoba, fue ocupada por los visigodos y luego por los moros (que le dieron su nombre moderno, derivado del fundador Harun ibn Habib) hasta la reconquista cristiana de Alfonso III de Portugal en 1249. El terremoto de Lisboa de 1755 devastó la ciudad, que fue reconstruida en su estilo neoclásico actual alrededor de la Cidade Velha medieval aún en pie. Hoy capital administrativa y universitaria del Algarve (66 000 habitantes), Faro es también la puerta de entrada turística al sur de Portugal gracias a su aeropuerto internacional (FAO) con vuelos directos desde 30+ ciudades europeas. Para los viajeros con perro, Faro es uno de los destinos atlánticos dog-friendly más completos: Cidade Velha peatonal en 15 min, parque natural de la Ria Formosa de 18 000 hectáreas al borde de la ciudad, playas caninas todo el año en islas barrera por ferry, hospital veterinario 24/7 en el centro, y suplementos para mascotas 8-12 €/noche — de los más bajos del sur de Europa.`,
+      pt: `Faro, fundada na época romana como Ossonoba, foi ocupada pelos Visigodos e depois pelos Mouros (que lhe deram o nome moderno, derivado do fundador Harun ibn Habib) até à reconquista cristã por D. Afonso III de Portugal em 1249. O terramoto de Lisboa de 1755 devastou a cidade, que foi reconstruída no estilo neoclássico atual em torno da Cidade Velha medieval que ainda se mantém de pé. Hoje capital administrativa e universitária do Algarve (66 000 habitantes), Faro é também a porta de entrada turística do sul de Portugal graças ao seu aeroporto internacional (FAO) com voos diretos a partir de mais de 30 cidades europeias. Para quem viaja com cão, Faro é um dos destinos atlânticos pet-friendly mais completos: Cidade Velha pedonal em 15 min, Parque Natural da Ria Formosa com 18 000 hectares à beira da cidade, praias caninas o ano inteiro nas ilhas-barreira via ferry, hospital veterinário 24h no centro, e suplementos para animais 8-12 €/noite — dos mais baixos do sul da Europa.`,
     },
     sights: [
       { name: 'Cidade Velha', emoji: '🏛️', petFriendly: true, desc: {
         fr: `La vieille ville fortifiée médiévale — ruelles pavées, place de la cathédrale, palais épiscopal, fondations romano-mauresques. Ouverte 24h/24, dog-friendly.`,
         en: `Medieval walled Old Town — cobbled lanes, cathedral square, bishop's palace, Roman-Moorish foundations. Open 24/7, dog-friendly.`,
         es: `Casco antiguo amurallado medieval — callejones adoquinados, plaza de la catedral, palacio episcopal, fundaciones romano-moriscas. Abierta 24/7, dog-friendly.`,
+        pt: `Centro histórico amuralhado medieval — ruelas em calçada, largo da Sé, paço episcopal, fundações romano-mouriscas. Aberta 24h, pet-friendly.`,
       }},
       { name: 'Arco da Vila', emoji: '🏛️', petFriendly: true, desc: {
         fr: `Porte néoclassique de 1812 vers la Cidade Velha — marbre de Carrare, nids de cigognes au sommet au printemps-été. Ouverte 24h/24, dog-friendly.`,
         en: `1812 neoclassical gate to the Cidade Velha — Carrara marble, stork nests on top in spring-summer. Open 24/7, dog-friendly.`,
         es: `Puerta neoclásica de 1812 a la Cidade Velha — mármol de Carrara, nidos de cigüeñas en la cima en primavera-verano. Abierta 24/7, dog-friendly.`,
+        pt: `Porta neoclássica de 1812 para a Cidade Velha — mármore de Carrara, ninhos de cegonhas no topo na primavera-verão. Aberta 24h, pet-friendly.`,
       }},
       { name: 'Faro Marina', emoji: '⚓', petFriendly: true, desc: {
         fr: `Marina de plaisance avec esplanade d'1 km le long de la Ria Formosa — terrasses, embarcadère ferry, vues sur les marais salants. Ouverte 24h/24, dog-friendly.`,
         en: `Pleasure-port marina with 1 km esplanade alongside the Ria Formosa — terraces, ferry pier, salt-marsh views. Open 24/7, dog-friendly.`,
         es: `Marina de recreo con esplanada de 1 km a lo largo de la Ria Formosa — terrazas, embarcadero de ferry, vistas a las marismas. Abierta 24/7, dog-friendly.`,
+        pt: `Marina de recreio com passeio de 1 km ao longo da Ria Formosa — esplanadas, cais dos ferries, vistas sobre os sapais. Aberta 24h, pet-friendly.`,
       }},
       { name: 'Ria Formosa Boardwalk', emoji: '🦩', petFriendly: true, desc: {
         fr: `Boardwalk en bois plat de 2 km depuis la marina jusqu'à Ludo — marais salants riches en flamants, accès canin toute l'année.`,
         en: `Flat 2 km wooden boardwalk from the marina to Ludo — flamingo-rich salt marsh, year-round dog access.`,
         es: `Boardwalk de madera plano de 2 km desde la marina hasta Ludo — marisma rica en flamencos, acceso canino todo el año.`,
+        pt: `Passadiço de madeira plano de 2 km, da marina até Ludo — sapal cheio de flamingos, acesso canino o ano inteiro.`,
       }},
       { name: 'Ilha Deserta', emoji: '🏖️', petFriendly: true, desc: {
         fr: `Île barrière atlantique de 10 km sans voiture — plages canines sauvages, accès par ferry de la marina (35 min).`,
         en: `10 km car-free Atlantic barrier island — wild dog beaches, ferry from the marina (35 min).`,
         es: `Isla barrera atlántica de 10 km sin coches — playas caninas salvajes, ferry desde la marina (35 min).`,
+        pt: `Ilha-barreira atlântica de 10 km sem carros — praias caninas selvagens, ferry a partir da marina (35 min).`,
       }},
       { name: 'Jardim Manuel Bivar', emoji: '🌴', petFriendly: true, desc: {
         fr: `Le jardin central principal — allées palmiers, fontaine, kiosque à musique, bancs côté marina. Dog-friendly avec chiens en laisse.`,
         en: `The main central garden — palm-lined paths, fountain, bandstand, marina-side benches. Dog-friendly with leashed dogs.`,
         es: `El principal jardín central — paseos de palmeras, fuente, quiosco de música, bancos junto a la marina. Dog-friendly con perros con correa.`,
+        pt: `O principal jardim central — passeios ladeados de palmeiras, fonte, coreto, bancos junto à marina. Pet-friendly com cães com trela.`,
       }},
     ],
     petTips: {
@@ -4337,6 +4385,13 @@ const cityContent: Record<string, CityContent> = {
         `Veterinario de urgencias 24/7: Hospital Veterinário do Algarve en Estrada de São Brás (+351 289 880 100), centro de Faro.`,
         `Gran comunidad expatriada británica en el Algarve — alrededor del 70 % de los cuidadores y veterinarios de Faro habla inglés con fluidez.`,
       ],
+      pt: [
+        `A cultura de café e tasca algarvia aceita cães por defeito — cerca de 80 % dos restaurantes de Faro recebem cães com trela em esplanada o ano inteiro.`,
+        `Autocarros EVA e comboios CP: cães médios/grandes a meio preço + açaime; cães pequenos em transportadora grátis.`,
+        `Praias caninas oficiais: Praia de Faro (secção oeste), Ilha Deserta (ferry 35 min), Praia do Barril (35 km a leste) — todas com acesso o ano inteiro.`,
+        `Veterinário de urgência 24h: Hospital Veterinário do Algarve na Estrada de São Brás (+351 289 880 100), centro de Faro.`,
+        `Grande comunidade britânica expatriada no Algarve — cerca de 70 % dos sitters e veterinários de Faro fala inglês com fluência.`,
+      ],
     },
     practicalInfo: {
       fr: [
@@ -4359,6 +4414,13 @@ const cityContent: Record<string, CityContent> = {
         `Aeropuerto de Faro (FAO) a 7 km al oeste — bus EVA 14/16 (20 min) o taxi (15 min). Vuelos directos desde Londres, Manchester, Dublín, Ámsterdam, Berlín, París.`,
         `Moneda: euro. Presupuesto diario dog-friendly: 50-75 €/día sin alojamiento, de los más bajos de Europa Occidental.`,
         `Festivales a evitar con perro ansioso: Festival F (agosto, música), Algarve Bike Challenge (febrero), Carnaval de Faro (febrero-marzo).`,
+      ],
+      pt: [
+        `Portugal está na UE e em Schengen: passaporte europeu + vacinação antirrábica em dia + microchip ISO bastam a partir de qualquer país UE.`,
+        `Comboios CP diretos: Tavira 40 min, Olhão 10 min, Lagos 1h30, Lisboa 3h (Alfa Pendular) — cães pequenos em transportadora grátis, maiores a meio preço + açaime.`,
+        `Aeroporto de Faro (FAO) a 7 km a oeste — autocarro EVA 14/16 (20 min) ou táxi (15 min). Voos diretos de Londres, Manchester, Dublin, Amesterdão, Berlim, Paris.`,
+        `Moeda: euro. Orçamento diário pet-friendly: 50-75 €/dia sem alojamento, dos mais baixos da Europa Ocidental.`,
+        `Festivais a evitar com cão ansioso: Festival F (agosto, música), Algarve Bike Challenge (fevereiro), Carnaval de Faro (fevereiro-março).`,
       ],
     },
   },
@@ -6638,6 +6700,7 @@ const cityContent: Record<string, CityContent> = {
       fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises — d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa en damier — la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses — idéale pour voyager avec un animal toute l'année.`,
       en: `Lisbon is one of Europe's oldest capitals. Founded by the Phoenicians and developed by the Romans as Olisipo, it became in the 15th century the nerve centre of the Portuguese Age of Discovery — the port from which Vasco da Gama and the fleets that connected Europe to Asia and the Americas set sail. The great earthquake of 1755, followed by a tsunami and fires, destroyed much of the medieval centre. The Marquis of Pombal rebuilt the Baixa on a grid — Europe's first planned modern city. Today Lisbon is a mild, sun-drenched city of hillside miradouros and terrace cafés — ideal for year-round pet travel.`,
       es: `Lisboa es una de las capitales más antiguas de Europa. Fundada por los fenicios y desarrollada por los romanos como Olisipo, se convirtió en el siglo XV en el centro neurálgico de los Grandes Descubrimientos portugueses: el puerto desde el que partieron Vasco de Gama y las flotas que unieron Europa con Asia y América. El gran terremoto de 1755, seguido de un tsunami e incendios, destruyó gran parte del centro medieval. El marqués de Pombal reconstruyó la Baixa en cuadrícula, la primera ciudad moderna planificada de Europa. Hoy Lisboa es una ciudad suave y soleada, de miradores en las colinas y cafés con terraza: ideal para viajar con mascota durante todo el año.`,
+      pt: `Lisboa é uma das capitais mais antigas da Europa. Fundada pelos Fenícios e desenvolvida pelos Romanos como Olisipo, tornou-se no século XV o centro nevrálgico dos Descobrimentos portugueses — o porto de onde partiram Vasco da Gama e as frotas que ligaram a Europa à Ásia e às Américas. O grande terramoto de 1755, seguido de tsunami e incêndios, destruiu grande parte do centro medieval. O Marquês de Pombal reconstruiu a Baixa em quadrícula — a primeira cidade moderna planeada da Europa. Hoje Lisboa é uma cidade amena e soalheira, de miradouros nas colinas e cafés com esplanada — ideal para viajar com animal o ano inteiro.`,
     },
     sights: [
       {
@@ -6648,6 +6711,7 @@ const cityContent: Record<string, CityContent> = {
           fr: 'Le poumon vert de Lisbonne (10 km²) est le meilleur endroit pour lâcher son chien dans la ville. Chemins forestiers, pique-niques, aires de jeux canines. Accessible en bus 723 depuis le Marquês de Pombal.',
           en: 'Lisbon\'s green lung (10 km²) is the best place to let your dog run free in the city. Forest paths, picnic areas, dog play zones. Accessible by bus 723 from Marquês de Pombal.',
           es: 'El pulmón verde de Lisboa (10 km²) es el mejor lugar para dejar correr a tu perro en la ciudad. Caminos forestales, zonas de picnic, áreas de juego caninas. Accesible en autobús 723 desde Marquês de Pombal.',
+          pt: 'O pulmão verde de Lisboa (10 km²) é o melhor sítio para soltar o cão na cidade. Caminhos florestais, áreas de piquenique, zonas de recreio caninas. Acessível pelo autocarro 723 a partir do Marquês de Pombal.',
         },
       },
       {
@@ -6658,6 +6722,7 @@ const cityContent: Record<string, CityContent> = {
           fr: 'Le quartier de Belém, avec sa Tour emblématique et le Monastère des Hiéronymites, offre de larges espaces piétonniers en bord de fleuve parfaits pour une promenade avec un chien. Les jardins du bord du Tage sont accessibles aux animaux en laisse.',
           en: 'The Belém neighbourhood, with its iconic Tower and Jerónimos Monastery, offers wide pedestrian riverside spaces perfect for a dog walk. The Tagus riverside gardens welcome dogs on leads.',
           es: 'El barrio de Belém, con su icónica Torre y el Monasterio de los Jerónimos, ofrece amplias zonas peatonales junto al río ideales para pasear con un perro. Los jardines junto al Tajo admiten perros con correa.',
+          pt: 'O bairro de Belém, com a sua emblemática Torre e o Mosteiro dos Jerónimos, oferece amplas zonas pedonais à beira-rio perfeitas para um passeio com cão. Os jardins junto ao Tejo recebem animais com trela.',
         },
       },
       {
@@ -6668,6 +6733,7 @@ const cityContent: Record<string, CityContent> = {
           fr: 'Les ruelles de l\'Alfama et les belvédères (miradouros) comme le Miradouro da Graça ou de Santa Luzia sont accessibles aux chiens. La montée est rude mais la vue sur le Tage depuis le sommet avec son chien est l\'une des plus belles de la ville.',
           en: 'The lanes of Alfama and viewpoints (miradouros) such as Miradouro da Graça or Santa Luzia are accessible to dogs. The climb is steep but the view over the Tagus from the top with your dog is one of the city\'s finest.',
           es: 'Los callejones de la Alfama y los miradores como el Miradouro da Graça o de Santa Luzia son accesibles para los perros. La subida es empinada, pero la vista sobre el Tajo desde lo alto con tu perro es una de las más bellas de la ciudad.',
+          pt: 'As ruelas de Alfama e os miradouros (Miradouro da Graça, de Santa Luzia) recebem cães. A subida é íngreme, mas a vista sobre o Tejo lá de cima com o seu cão é uma das mais belas da cidade.',
         },
       },
       {
@@ -6678,6 +6744,7 @@ const cityContent: Record<string, CityContent> = {
           fr: 'Le Chiado et le Príncipe Real sont les quartiers les plus dog-friendly du centre de Lisbonne. Boutiques indépendantes, marchés, cafés avec terrasses et pharmacies vétérinaires. Le Jardim do Príncipe Real est un havre de fraîcheur avec ses palmiers.',
           en: 'Chiado and Príncipe Real are central Lisbon\'s most dog-friendly neighbourhoods. Independent shops, markets, café terraces and vet pharmacies. The Jardim do Príncipe Real is a cool haven under its palm trees.',
           es: 'Chiado y Príncipe Real son los barrios más amigables con los perros del centro de Lisboa. Tiendas independientes, mercados, terrazas de café y farmacias veterinarias. El Jardim do Príncipe Real es un refugio de frescor bajo sus palmeras.',
+          pt: 'O Chiado e o Príncipe Real são os bairros mais pet-friendly do centro de Lisboa. Lojas independentes, mercados, esplanadas de café e farmácias veterinárias. O Jardim do Príncipe Real é um oásis de frescura sob as suas palmeiras.',
         },
       },
       {
@@ -6688,6 +6755,7 @@ const cityContent: Record<string, CityContent> = {
           fr: 'L\'un des plus beaux jardins de Lisbonne, adjacent à la Fondation Calouste Gulbenkian. Les chiens en laisse y sont admis. Étang, pelouses et grandes allées ombragées — parfait pour une pause en milieu de journée.',
           en: 'One of Lisbon\'s finest gardens, adjacent to the Calouste Gulbenkian Foundation. Dogs on leads are welcome. Pond, lawns and wide shaded paths — perfect for a midday break.',
           es: 'Uno de los jardines más hermosos de Lisboa, junto a la Fundación Calouste Gulbenkian. Los perros con correa son bienvenidos. Estanque, céspedes y amplios caminos sombreados: perfecto para un descanso a mediodía.',
+          pt: 'Um dos mais belos jardins de Lisboa, junto à Fundação Calouste Gulbenkian. Cães com trela são bem-vindos. Lago, relvados e largas alamedas sombreadas — perfeito para uma pausa a meio do dia.',
         },
       },
     ],
@@ -6713,6 +6781,13 @@ const cityContent: Record<string, CityContent> = {
         'Muchos restaurantes y cafés en Chiado y Santos admiten perros en la terraza. Solo hay que preguntar: "Posso trazer o meu cão?"',
         'El agua del grifo es potable en Lisboa: las fuentes públicas son abundantes y tu perro puede beber de ellas.',
       ],
+      pt: [
+        'Os cães são admitidos no Metro de Lisboa desde que vão em saco ou transportadora. Os elétricos históricos (28, 15E) andam frequentemente cheios — vá cedo ou evite-os.',
+        'O calor de verão pode ser intenso em Lisboa. Monsanto oferece sombra e frescura mesmo no verão — é para lá que se vai nas horas de maior calor.',
+        'Lisboa é uma cidade muito íngreme. Confirme que o seu cão se sente bem sobre a calçada portuguesa antes de avançar para um longo passeio por Alfama.',
+        'Muitos restaurantes e cafés do Chiado e de Santos aceitam cães em esplanada. Basta perguntar: "Posso trazer o meu cão?"',
+        'A água da torneira é potável em Lisboa — os bebedouros públicos são abundantes e o seu cão pode beber neles.',
+      ],
     },
     practicalInfo: {
       fr: [
@@ -6732,6 +6807,12 @@ const cityContent: Record<string, CityContent> = {
         'Clínica central: Clinica Veterinária de Lisboa, Av. António Augusto de Aguiar 138, +351 21 315 5590',
         'Trenes desde París o Madrid: Renfe-SNCF acepta animales en transportín en líneas internacionales. Consulta al reservar según el tamaño.',
         'Aeropuerto de Lisboa Humberto Delgado: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
+      ],
+      pt: [
+        'Veterinário de urgência 24h: Hospital Veterinário do Restelo, Rua Duarte Pacheco Pereira 15, +351 21 302 9999',
+        'Clínica central: Clinica Veterinária de Lisboa, Av. António Augusto de Aguiar 138, +351 21 315 5590',
+        'Comboios de Paris ou Madrid: a Renfe-SNCF aceita animais em transportadora nas linhas internacionais. Confirme na reserva consoante o tamanho.',
+        'Aeroporto de Lisboa Humberto Delgado: animais da UE com passaporte válido admitidos sem quarentena.',
       ],
     },
   },
@@ -9430,6 +9511,7 @@ const cityContent: Record<string, CityContent> = {
       en: 'Porto — Portugal\'s second city and the origin of port wine — sits on the dramatic granite gorge of the Douro river. With around 240,000 inhabitants, it has the warmth of a neighbourhood city and a dog culture that mirrors Lisbon\'s openness. Portuenses (Porto residents) are matter-of-fact about dogs in public spaces: café terraces, riverside promenades and tram cars all see dogs as a normal part of daily life. The Atlantic coast is minutes away, and the Douro Valley wine country — an extraordinary day trip — is one of the most scenic walking environments in Europe.',
       fr: 'Porto — la deuxième ville du Portugal et l\'origine du vin de porto — s\'étend sur les gorges granitiques dramatiques du Douro. Avec environ 240 000 habitants, elle a la chaleur d\'une ville de quartier et une culture canine qui reflète l\'ouverture de Lisbonne. Les Portuenses considèrent les chiens dans les espaces publics comme une évidence : terrasses de cafés, promenades en bord de fleuve et tramways accueillent les chiens au quotidien. La côte atlantique est à quelques minutes, et la vallée du Douro — une excursion extraordinaire — est l\'un des environnements de marche les plus pittoresques d\'Europe.',
       es: 'Oporto — la segunda ciudad de Portugal y el origen del vino de Oporto — se extiende por el dramático cañón granítico del Duero. Con unos 240.000 habitantes, tiene la calidez de una ciudad de barrio y una cultura canina que refleja la apertura de Lisboa. Los portuenses consideran los perros en los espacios públicos como algo natural: terrazas de cafés, paseos fluviales y tranvías acogen a los perros a diario. La costa atlántica está a pocos minutos, y el valle del Duero — una excursión extraordinaria — es uno de los entornos de caminata más pintorescos de Europa.',
+      pt: 'O Porto — segunda cidade de Portugal e berço do vinho do Porto — estende-se pela dramática garganta granítica do Douro. Com cerca de 240 000 habitantes, tem o calor de uma cidade de bairro e uma cultura canina que espelha a abertura de Lisboa. Os portuenses encaram os cães nos espaços públicos com naturalidade: esplanadas de café, passeios ribeirinhos e elétricos recebem cães no dia-a-dia. A costa atlântica está a minutos, e o Vale do Douro — passeio de dia extraordinário — é um dos ambientes de caminhada mais cénicos da Europa.',
     },
     sights: [
       {
@@ -9440,6 +9522,7 @@ const cityContent: Record<string, CityContent> = {
           en: 'Porto\'s largest park — 83 hectares of ponds, meadows and Atlantic-facing gardens — is the city\'s premier dog walking destination. Off-leash zones, water features and a direct path to the sea make it unmissable.',
           fr: 'Le plus grand parc de Porto — 83 hectares d\'étangs, de prairies et de jardins face à l\'Atlantique — est la destination de promenade canine par excellence de la ville. Des zones en liberté, des points d\'eau et un accès direct à la mer en font un incontournable.',
           es: 'El parque más grande de Oporto — 83 hectáreas de estanques, prados y jardines frente al Atlántico — es el destino de paseo canino por excelencia de la ciudad. Zonas de libertad, fuentes de agua y un acceso directo al mar lo hacen imprescindible.',
+          pt: 'O maior parque do Porto — 83 hectares de lagos, prados e jardins voltados para o Atlântico — é o destino canino por excelência da cidade. Zonas sem trela, espelhos de água e acesso direto ao mar tornam-no incontornável.',
         },
       },
       {
@@ -9450,6 +9533,7 @@ const cityContent: Record<string, CityContent> = {
           en: 'The UNESCO-listed riverfront is one of Porto\'s most atmospheric walks. The narrow alleys of the Ribeira neighbourhood and the wide riverside promenade are perfect for dogs — most of the café terraces here welcome them warmly.',
           fr: 'Le front de fleuve classé à l\'UNESCO est l\'une des promenades les plus atmosphériques de Porto. Les ruelles étroites du quartier Ribeira et la large promenade en bord de fleuve sont parfaites pour les chiens — la plupart des terrasses les accueillent chaleureusement.',
           es: 'El frente fluvial declarado Patrimonio Mundial es uno de los paseos más atmosféricos de Oporto. Las estrechas callejuelas del barrio de la Ribeira y el amplio paseo fluvial son perfectos para los perros — la mayoría de las terrazas los acogen con calidez.',
+          pt: 'A frente ribeirinha classificada pela UNESCO é um dos passeios com mais atmosfera do Porto. As ruelas estreitas da Ribeira e o amplo passeio à beira-rio são perfeitos para cães — a maioria das esplanadas recebe-os calorosamente.',
         },
       },
       {
@@ -9460,6 +9544,7 @@ const cityContent: Record<string, CityContent> = {
           en: 'Where the Douro meets the Atlantic, the Foz neighbourhood has a seaside promenade and several dog-friendly beach stretches. In autumn and winter (out of beach season) the entire coastline opens to dogs.',
           fr: 'Là où le Douro rencontre l\'Atlantique, le quartier de Foz dispose d\'une promenade maritime et de plusieurs zones de plage canines. En automne et en hiver (hors saison balnéaire), tout le littoral s\'ouvre aux chiens.',
           es: 'Donde el Duero se encuentra con el Atlántico, el barrio de Foz tiene un paseo marítimo y varias zonas de playa caninas. En otoño e invierno (fuera de temporada de playa), todo el litoral se abre a los perros.',
+          pt: 'Onde o Douro encontra o Atlântico, a Foz tem um passeio marítimo e várias zonas de praia para cães. No outono e inverno (fora de época balnear), toda a costa abre-se aos cães.',
         },
       },
       {
@@ -9470,6 +9555,7 @@ const cityContent: Record<string, CityContent> = {
           en: 'A 1.5-hour drive east, the Douro Valley wine country is a revelation: terraced vineyards, ancient quintas and river views. Many quinta restaurants and wine estates welcome dogs on their terraces and in their gardens.',
           fr: 'À 1h30 à l\'est en voiture, le vignoble du Douro est une révélation : des vignes en terrasses, d\'anciennes quintas et des vues sur le fleuve. De nombreux restaurants de quinta et domaines viticoles accueillent les chiens sur leurs terrasses et dans leurs jardins.',
           es: 'A 1,5 horas en coche hacia el este, el valle del Duero es una revelación: viñedos en terrazas, antiguas quintas y vistas al río. Muchos restaurantes de quinta y bodegas acogen a los perros en sus terrazas y jardines.',
+          pt: 'A 1h30 de carro para leste, o Douro Vinhateiro é uma revelação: vinhas em socalcos, antigas quintas e vistas para o rio. Muitos restaurantes de quinta e produtores recebem cães nas suas esplanadas e jardins.',
         },
       },
       {
@@ -9480,6 +9566,7 @@ const cityContent: Record<string, CityContent> = {
           en: 'The famous Lello bookshop and the Clérigos Tower are not accessible to dogs. Worth visiting solo — the bookshop entry requires a ticket that is redeemable on purchase.',
           fr: 'La célèbre librairie Lello et la Tour des Clercs ne sont pas accessibles aux chiens. Valent la visite en solo — l\'entrée de la librairie nécessite un billet remboursable sur achat.',
           es: 'La famosa librería Lello y la Torre de los Clérigos no son accesibles para perros. Vale la pena visitarlos solos — la entrada a la librería requiere un billete reembolsable en compra.',
+          pt: 'A famosa Livraria Lello e a Torre dos Clérigos não são acessíveis a cães. Vale a pena visitar a sós — a entrada da livraria é paga e descontável em compras.',
         },
       },
     ],
@@ -9505,6 +9592,13 @@ const cityContent: Record<string, CityContent> = {
         'Los tranvías (líneas vintage 1, 18, 22) admiten perros pequeños en transportín; los perros grandes con correa suelen ser aceptados por los conductores. Pregunte antes de subir.',
         'La cultura del café en Oporto está abierta a los perros: la mayoría de pastelerías y cafés permiten perros en la terraza, y muchos — especialmente en Foz y Bonfim — los acogen dentro.',
       ],
+      pt: [
+        'As colinas do Porto são íngremes — a cidade sobe dramaticamente do rio até aos bairros altos. Cães pequenos podem ser carregados; para raças maiores, planeie rotas que usem o funicular ou fique pelos passeios planos à beira-rio.',
+        'Acesso a praia para cães: a praia de Matosinhos (junto ao Porto) tem zonas dedicadas. Na época baixa (outubro-maio), a maioria das praias abre-se totalmente aos cães.',
+        'Matosinhos, a norte do centro, é um dos bairros mais pet-friendly do Porto: ruas largas, mercado do peixe e uma marginal que os donos de cães locais usam diariamente.',
+        'Os elétricos (linhas vintage 1, 18, 22) aceitam cães pequenos em transportadora; cães maiores com trela costumam ser aceites pelo condutor. Pergunte antes de entrar.',
+        'A cultura de café do Porto é aberta a cães: a maioria das pastelarias e cafés admite cães em esplanada, e muitos — sobretudo na Foz e em Bonfim — recebem-nos no interior.',
+      ],
     },
     practicalInfo: {
       en: [
@@ -9524,6 +9618,12 @@ const cityContent: Record<string, CityContent> = {
         'Cómo llegar: el aeropuerto Francisco Sá Carneiro de Oporto está a 15 km al norte del centro. La línea E del metro conecta en 30 minutos. Los perros en transportín se admiten en el metro; los perros grandes viajan con correa.',
         'Desde España: trenes directos desde Vigo (2h) y Madrid (9h tren nocturno Lusitânia) vía CP/Renfe. Los perros están permitidos con bozal y correa.',
         'Mejor temporada: mayo-junio y septiembre-octubre para el mejor equilibrio entre clima, acceso a la playa y afluencia turística manejable.',
+      ],
+      pt: [
+        'Veterinário de urgência: Hospital Veterinário do Porto, Rua da Constituição (+351 22 537 0937) — serviço 24h no centro da cidade.',
+        'Chegar ao Porto: o aeroporto Francisco Sá Carneiro fica 15 km a norte do centro. A linha E do Metro liga-os em 30 min. Cães em transportadora aceites no Metro; cães maiores viajam com trela.',
+        'A partir de Espanha: comboios diretos de Vigo (2h) e Madrid (9h, comboio noturno Lusitânia) pela CP/Renfe. Cães admitidos com açaime e trela.',
+        'Melhor época: maio-junho e setembro-outubro — o melhor equilíbrio entre tempo, acesso a praia e afluência turística gerível.',
       ],
     },
   },

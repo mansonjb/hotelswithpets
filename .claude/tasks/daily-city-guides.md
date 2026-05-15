@@ -162,6 +162,9 @@ grep -c "^export default cityContent" lib/cityContent.ts   # must return 1
 grep -c "^}$" lib/cityContent.ts                            # top-level closing brace intact
 
 # Full build (catches both TS syntax errors AND import issues — the only reliable pre-commit check)
+# `npm run build` auto-runs `scripts/translate-to-pt.py` first to add PT fields to any new
+# city-guide JSON (ES→PT mechanical translation, idempotent — re-runs are no-ops). No manual
+# PT step needed when adding new cities.
 npm run build
 
 # Additional validation

@@ -35,7 +35,7 @@ export async function generateMetadata({
   if (!dest) return {}
 
   const cleanPetPolicy = sanitizePetPolicy(hotel.petPolicy, hotel.petFee)
-  const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : 'free') : `€${hotel.petFee}`
+  const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : locale === 'pt' ? 'grátis' : 'free') : `€${hotel.petFee}`
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
 
@@ -307,7 +307,7 @@ export default async function HotelPage({
                         className="inline-flex items-center gap-1.5 text-sm bg-white border border-gray-200 text-gray-700 hover:border-blue-300 hover:text-blue-700 px-3 py-1.5 rounded-full shadow-sm transition-colors"
                       >
                         <span>{cat.emoji}</span>
-                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : 'in'} {localizedDest}</span>
+                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : locale === 'pt' ? 'em' : 'in'} {localizedDest}</span>
                       </Link>
                     ))}
                   </div>
@@ -366,7 +366,7 @@ export default async function HotelPage({
                 href={`/${locale}/destinations/${dest.slug}`}
                 className="inline-flex items-center gap-2 text-sm text-blue-600 hover:text-blue-800 font-medium transition-colors"
               >
-                ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : `Back to ${localizedDest}`}
+                ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : locale === 'pt' ? `Voltar a ${localizedDest}` : `Back to ${localizedDest}`}
               </Link>
             </div>
 
@@ -375,7 +375,7 @@ export default async function HotelPage({
               <div className="sticky top-6 bg-white rounded-3xl border border-gray-100 shadow-lg overflow-hidden">
                 <div className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 p-5 text-white">
                   <p className="text-white/70 text-xs uppercase tracking-wide mb-1">
-                    {locale === 'fr' ? 'À partir de' : locale === 'es' ? 'Desde' : 'From'}
+                    {locale === 'fr' ? 'À partir de' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : 'From'}
                   </p>
                   <p className="text-4xl font-black leading-none">
                     €{hotel.priceFrom}

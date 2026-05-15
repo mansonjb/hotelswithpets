@@ -322,7 +322,7 @@ export default async function ComboPage({
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
-                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB', { month: 'long', year: 'numeric' })}
+                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : 'en-GB', { month: 'long', year: 'numeric' })}
                 </p>
               </div>
 
@@ -581,13 +581,13 @@ export default async function ComboPage({
                   const currentMonth = months[new Date().getMonth()]
                   const w = weather[currentMonth]
                   const monthName = new Date().toLocaleDateString(
-                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB',
+                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : 'en-GB',
                     { month: 'long' }
                   )
                   return (
                     <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
                       <h3 className="font-bold text-gray-900 text-sm mb-3">
-                        🌡️ {locale === 'fr' ? 'Météo ce mois' : locale === 'es' ? 'Clima este mes' : 'Weather this month'}
+                        🌡️ {locale === 'fr' ? 'Météo ce mois' : locale === 'es' ? 'Clima este mes' : locale === 'pt' ? 'Clima este mês' : 'Weather this month'}
                       </h3>
                       <div className="flex items-center gap-3">
                         <span className="text-3xl">{w?.icon ?? '🌡️'}</span>

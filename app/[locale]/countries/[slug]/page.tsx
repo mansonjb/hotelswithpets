@@ -155,10 +155,10 @@ export default async function CountryPage({
                       <span className="text-5xl mb-3 block">{dest.flag}</span>
                       <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
                       <p className="text-white/70 text-sm mb-3">
-                        {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}
+                        {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}
                       </p>
                       <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
-                        {p.back ? '' : ''}{locale === 'fr' ? 'Explorer' : locale === 'es' ? 'Explorar' : 'Explore'} →
+                        {p.back ? '' : ''}{locale === 'fr' ? 'Explorer' : locale === 'es' ? 'Explorar' : locale === 'pt' ? 'Explorar' : 'Explore'} →
                       </span>
                     </div>
                   </Link>
@@ -190,7 +190,7 @@ export default async function CountryPage({
             <section className="bg-white border-t border-gray-100 py-10">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-lg font-extrabold text-gray-900 mb-5">
-                  {locale === 'fr' ? `Guides populaires en ${localizedCountry}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : `Popular guides in ${countryName}`}
+                  {locale === 'fr' ? `Guides populaires en ${localizedCountry}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares em ${localizedCountry}` : `Popular guides in ${countryName}`}
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {guideLinks.map((g) => (
@@ -211,7 +211,7 @@ export default async function CountryPage({
         {/* Breadcrumb back */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           <Link href={`/${locale}/destinations`} className="text-blue-600 hover:underline text-sm">
-            ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : 'All destinations'}
+            ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : 'All destinations'}
           </Link>
         </div>
       </div>

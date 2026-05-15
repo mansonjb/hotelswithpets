@@ -50,7 +50,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
   // Only show countries with 2+ cities in the country filter strip
   const multiCityCountries = allCountries.filter((c) => c.destinations.length >= 2)
 
-  const browseByCountry = locale === 'fr' ? 'Parcourir par pays' : locale === 'es' ? 'Explorar por país' : 'Browse by country'
+  const browseByCountry = locale === 'fr' ? 'Parcourir par pays' : locale === 'es' ? 'Explorar por país' : locale === 'pt' ? 'Explorar por país' : 'Browse by country'
 
   return (
     <div className="min-h-screen bg-gray-50">

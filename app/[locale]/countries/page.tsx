@@ -159,9 +159,9 @@ export default async function CountriesPage({
             <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{copy.hero}</h1>
             <p className="text-blue-200 text-lg leading-relaxed mb-8">{copy.intro}</p>
             <div className="flex flex-wrap gap-4">
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {countries.length} {locale === 'fr' ? 'pays' : locale === 'es' ? 'países' : 'countries'}</span>
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels vérifiés' : locale === 'es' ? 'hoteles verificados' : 'verified hotels'}</span>
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">✓ {locale === 'fr' ? 'Politiques animaux vérifiées' : locale === 'es' ? 'Políticas verificadas' : 'Verified pet policies'}</span>
+              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {countries.length} {locale === 'fr' ? 'pays' : locale === 'es' ? 'países' : locale === 'pt' ? 'países' : 'countries'}</span>
+              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels vérifiés' : locale === 'es' ? 'hoteles verificados' : locale === 'pt' ? 'hotéis verificados' : 'verified hotels'}</span>
+              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">✓ {locale === 'fr' ? 'Politiques animaux vérifiées' : locale === 'es' ? 'Políticas verificadas' : locale === 'pt' ? 'Políticas animais verificadas' : 'Verified pet policies'}</span>
             </div>
           </div>
         </div>
@@ -179,7 +179,7 @@ export default async function CountriesPage({
               href={`/${locale}/guides/passeport-animal`}
               className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap"
             >
-              {locale === 'fr' ? 'Guide complet →' : locale === 'es' ? 'Guía completa →' : 'Full guide →'}
+              {locale === 'fr' ? 'Guide complet →' : locale === 'es' ? 'Guía completa →' : locale === 'pt' ? 'Guia completo →' : 'Full guide →'}
             </Link>
           </div>
         </div>
@@ -217,7 +217,7 @@ export default async function CountriesPage({
                     )}
                   </div>
                   <span className="text-sm font-semibold text-blue-600 group-hover:gap-2 flex items-center gap-1 transition-all">
-                    {locale === 'fr' ? 'Voir les hôtels' : locale === 'es' ? 'Ver hoteles' : 'View hotels'} →
+                    {locale === 'fr' ? 'Voir les hôtels' : locale === 'es' ? 'Ver hoteles' : locale === 'pt' ? 'Ver hotéis' : 'View hotels'} →
                   </span>
                 </Link>
               )

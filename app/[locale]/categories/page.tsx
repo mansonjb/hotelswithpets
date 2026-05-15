@@ -142,9 +142,9 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
             <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{p.title}</h1>
             <p className="text-blue-200 text-lg leading-relaxed mb-8">{copy.intro}</p>
             <div className="flex flex-wrap gap-4">
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}</span>
+              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</span>
               <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {totalDests} {locale === 'fr' ? 'destinations' : 'destinations'}</span>
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">✓ {locale === 'fr' ? 'Politiques vérifiées' : locale === 'es' ? 'Políticas verificadas' : 'Verified policies'}</span>
+              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">✓ {locale === 'fr' ? 'Politiques vérifiées' : locale === 'es' ? 'Políticas verificadas' : locale === 'pt' ? 'Políticas verificadas' : 'Verified policies'}</span>
             </div>
           </div>
         </div>
@@ -194,7 +194,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
                       {getCategoryName(cat, locale as Locale)}
                     </h2>
                     <p className="text-white/70 text-sm mb-3">
-                      {cat.cityCount} {p.destinations} · {hotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'}
+                      {cat.cityCount} {p.destinations} · {hotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}
                     </p>
                     <div className="flex flex-wrap gap-1.5">
                       {topCities.map((city) => (

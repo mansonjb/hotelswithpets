@@ -394,7 +394,7 @@ export default async function GuideDetailPage({
 
   // Format date locale-aware
   const formattedDate = new Date(cityGuide.lastUpdated).toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : 'en-GB',
     { day: 'numeric', month: 'long', year: 'numeric' }
   )
 

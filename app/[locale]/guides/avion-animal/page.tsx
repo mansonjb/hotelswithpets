@@ -812,16 +812,16 @@ const COPY = {
   },
   pt: {
     hero: 'Volar com animal em Europa: guía completa 2025',
-    subtitle: 'Cabina o bodega, limites de peso, razas proibidas, preços por companhia aérea... Todo lo que necesitas saber antes de volar com tu cão o gato em Europa.',
+    subtitle: 'Cabina o bodega, limites de peso, razas proibidas, preços por companhia aérea... Todo lo que necesitas saber antes de volar com o teu cão o gato em Europa.',
     lastUpdate: 'Atualizado en',
     badge: 'Guía práctica',
     sourcesTitle: 'Fuentes verificadas',
-    sourcesText: 'Esta guía se basa nas políticas oficiales publicadas por cada companhia aérea. Os preços e condições podem cambiar — verifica sempre directamente com a companhia aérea antes de reservar.',
-    quickDecision: '¿Cabina o bodega? Guía rápida de decisión',
+    sourcesText: 'Esta guía se basa nas políticas oficiais publicadas por cada companhia aérea. Os preços e condições podem cambiar — verifica sempre directamente com a companhia aérea antes de reservar.',
+    quickDecision: 'Cabina o bodega? Guía rápida de decisión',
     quickDecisionItems: [
-      { icon: '✅', title: 'Cabina é posible si…', points: ['Tu animal pesa menos de 8 kg incluido o transportadora', 'O transportadora cumple as dimensiones permitidas (aprox. 46 × 28 × 24 cm)', 'Tu companhia aérea aceita animais em cabina (Air France, Lufthansa, KLM, Iberia…)', 'Tu raza no está restringida', 'Has reservado praça com antelación (praças limitadas por voo)'] },
-      { icon: '📦', title: 'Bodega é necesaria si…', points: ['Tu animal pesa entre 8 e 75 kg com o transportadora', 'Tu companhia aérea no permite animais em cabina', 'Voos de longo radio com ciertas aerolíneas', 'Confirma sempre que a bodega é presurizada e climatizada'] },
-      { icon: '🚫', title: 'Sem opção disponible si…', points: ['Vuelas com Ryanair, easyJet o Wizz Air (cero animais aceptadas)', 'British Airways (animais rechazadas como equipaje — só carga)', 'Tu animal supera os critérios de tamanho o peso da companhia aérea'] },
+      { icon: '✅', title: 'Cabina é posible si…', points: ['O teu animal pesa menos de 8 kg incluido o transportadora', 'O transportadora cumple as dimensiones permitidas (aprox. 46 × 28 × 24 cm)', 'Tu companhia aérea aceita animais em cabina (Air France, Lufthansa, KLM, Iberia…)', 'Tu raza no está restringida', 'Has reservado praça com antelación (praças limitadas por voo)'] },
+      { icon: '📦', title: 'Bodega é necesaria si…', points: ['O teu animal pesa entre 8 e 75 kg com o transportadora', 'Tu companhia aérea no permite animais em cabina', 'Voos de longo radio com ciertas aerolíneas', 'Confirma sempre que a bodega é presurizada e climatizada'] },
+      { icon: '🚫', title: 'Sem opção disponible si…', points: ['Vuelas com Ryanair, easyJet o Wizz Air (cero animais aceptadas)', 'British Airways (animais rechazadas como equipaje — só carga)', 'O teu animal supera os critérios de tamanho o peso da companhia aérea'] },
     ],
     tableTitle: 'Comparativa de aerolíneas',
     tableHeaders: {
@@ -838,10 +838,10 @@ const COPY = {
     no: 'No',
     cargoOnly: 'Só carga',
     lowCostTitle: 'Low-cost: ninguna animal aceptada',
-    lowCostText: 'Ryanair, easyJet e Wizz Air no aceitam ninguna animal em cabina ni em bodega, com a única excepción dos cães de asistencia certificados. Si vuelas com uma companhia aérea de sob coste, deberás buscar uma alternativa para tu animal.',
+    lowCostText: 'Ryanair, easyJet e Wizz Air no aceitam ninguna animal em cabina ni em bodega, com a única excepción dois cães de asistencia certificados. Si vuelas com uma companhia aérea de sob coste, deberás buscar uma alternativa para o teu animal.',
     cabinVsHoldTitle: 'Cabina vs bodega: lo que debes saber',
     cabinPoints: [
-      { title: 'Ventajas da cabina', points: ['Tu animal permanece sob tu asiento — puedes verla e escucharla', 'Menos estrés para o animal (sem separación)', 'Sem riesgo de pérdida de equipaje', 'Misma temperatura e presión que a cabina de pasajeros'] },
+      { title: 'Ventajas da cabina', points: ['O teu animal permanece sob tu asiento — puedes verla e escucharla', 'Menos estrés para o animal (sem separación)', 'Sem riesgo de pérdida de equipaje', 'Misma temperatura e presión que a cabina de pasajeros'] },
       { title: 'Requisitos', points: ['Peso máx.: 8 kg (animal + transportadora)', 'Transportadora blando sob o asiento únicamente', 'A animal debe permanecer no transportadora durante todo o voo', 'Generalmente 1 animal por pasajero', 'Praças limitadas por voo — reserva com antelación'] },
     ],
     holdPoints: [
@@ -864,7 +864,7 @@ const COPY = {
       title: 'Transportadora de bodega (normas IATA)',
       points: [
         'Transportadora RÍGIDO obrigatório (plástico duro, fibra de vidrio o metal)',
-        'Suelo, techo e lados asegurados com tuercas e tornillos metálicos (no clips de plástico)',
+        'Solo, techo e lados asegurados com tuercas e tornillos metálicos (no clips de plástico)',
         'Puerta de metal soldado o fundido com pestillo seguro',
         'Ventilación nos 4 lados (mínimo 16% da superficie total)',
         'Bandeja colectora de orina integrada',
@@ -877,13 +877,13 @@ const COPY = {
     brachyDogs: 'Razas caninas braquicéfalas',
     brachyCats: 'Razas felinas braquicéfalas',
     brachyWarning: 'Estas razas generalmente podem viajar em cabina si cumplen o limite de peso (8 kg incluido o transportadora). O viaje em bodega está casi sempre denegado. Consulta sempre com tu companhia aérea antes de reservar.',
-    bookingTitle: 'Como reservar e viajar com tu animal',
+    bookingTitle: 'Como reservar e viajar com o teu animal',
     bookingSteps: [
       {
         step: '1. Antes de reservar',
         points: [
           'Verifica a política de animais da companhia aérea (número de animales por voo limitado)',
-          'Pesa a tu animal com o transportadora — o limite de 8 kg se alcanza fácilmente com um transportadora GRANDE',
+          'Pesa ao teu animal com o transportadora — o limite de 8 kg se alcanza fácilmente com um transportadora GRANDE',
           'Prepara o passaporte europeu para animais (microchip ISO + vacuna antirrábica válida)',
           'Consulta a tu veterinário: estrés, medicación, restricciones de raza',
         ],
@@ -891,8 +891,8 @@ const COPY = {
       {
         step: '2. Al reservar',
         points: [
-          'Añade a animal em cuanto reserves (o inmediatamente depois)',
-          'No cuentes com añadir a animal no aeroporto — o rechazo é frecuente',
+          'Anhade a animal em cuanto reserves (o inmediatamente depois)',
+          'No cuentes com anhadir a animal no aeroporto — o rechazo é frecuente',
           'Paga a tarifa de animal online o por teléfono',
           'Guarda a confirmación com número de referencia',
         ],
@@ -901,15 +901,15 @@ const COPY = {
         step: '3. Documentos necesarios',
         points: [
           'Passaporte europeu para animais (microchip ISO + vacuna antirrábica válida)',
-          'Certificado de salud reciente do veterinário (algunas aerolíneas lo exigen)',
-          'Cartilla de vacunación atualizada',
-          'Para países fuera da UE: documentos específicos do país de destino',
+          'Certificado de saúde reciente do veterinário (algunas aerolíneas lo exigen)',
+          'Cartilla de vacinação atualizada',
+          'Para países fora da UE: documentos específicos do país de destino',
         ],
       },
       {
         step: '4. No aeroporto',
         points: [
-          'Factura no mostrador de atención personalizada (no no quiosco automático) com tu animal',
+          'Factura no mostrador de atención personalizada (no no quiosco automático) com o teu animal',
           'Reserva tiempo extra (pode haber control veterinário)',
           'A animal debe permanecer no transportadora cerrado em todo o aeroporto',
           'Para bodega: entrega o transportadora no mostrador de equipaje especial',
@@ -919,31 +919,31 @@ const COPY = {
     faqTitle: 'Preguntas frecuentes',
     faqs: [
       {
-        q: '¿Pode mi cão viajar na cabina do avión?',
-        a: 'Sí, si tu cão pesa menos de 8 kg incluido o transportadora e vuelas com uma companhia aérea que aceita animais em cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). As praças são limitadas — reserva lo antes posible.',
+        q: 'Pode mi cão viajar na cabina do avión?',
+        a: 'Sí, si o teu cão pesa menos de 8 kg incluido o transportadora e vuelas com uma companhia aérea que aceita animais em cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). As praças são limitadas — reserva lo antes posible.',
       },
       {
-        q: '¿Aceita Ryanair animais?',
+        q: 'Aceita Ryanair animais?',
         a: 'No. Ryanair no aceita ninguna animal, ni em cabina ni em bodega. Só se permiten os cães de asistencia certificados. Lo mismo ocurre com easyJet e Wizz Air. Para viajar com animal debes escolher uma companhia aérea de red como Air France, Lufthansa o KLM.',
       },
       {
-        q: '¿Qué razas estão proibidas no avión?',
-        a: 'As razas braquicéfalas (de cara plana) como o Bulldog Francés, o Pug, o Boston Terrier e o Shih Tzu estão proibidas em bodega por prácticamente todas as aerolíneas europeias. Estas razas generalmente podem viajar em cabina si cumplen o limite de 8 kg (animal + transportadora).',
+        q: 'Que razas estão proibidas no avión?',
+        a: 'As razas braquicéfalas (de cara plana) como o Bulldog Francês, o Pug, o Boston Terrier e o Shih Tzu estão proibidas em bodega por prácticamente todas as aerolíneas europeias. Estas razas generalmente podem viajar em cabina si cumplen o limite de 8 kg (animal + transportadora).',
       },
       {
-        q: '¿Necesito um passaporte de animal para volar por Europa?',
-        a: 'Sí. O passaporte europeu para animais é obrigatório para viajar com cão o gato dentro da Unión Europeia. Debe incluir o microchip ISO e a vacuna antirrábica vigente. Algunas aerolíneas exigen também um certificado de salud reciente (emitido nos 10 dias anteriores al viaje).',
+        q: 'Necesito um passaporte de animal para volar por Europa?',
+        a: 'Sí. O passaporte europeu para animais é obrigatório para viajar com cão o gato dentro da Unión Europeia. Debe incluir o microchip ISO e a vacuna antirrábica vigente. Algunas aerolíneas exigen também um certificado de saúde reciente (emitido nos 10 dias anteriores al viaje).',
       },
       {
-        q: '¿Cuál é o tamanho máximo do transportadora em cabina?',
+        q: 'Qual é o tamanho máximo do transportadora em cabina?',
         a: 'As dimensiones varían ligeramente segundo a companhia aérea, mas o estándar é aproximadamente 46 × 28 × 24 cm para Air France e KLM, e 55 × 40 × 23 cm para Lufthansa e Swiss. O transportadora debe ser blando para caber sob o asiento. Verifica sempre as medidas exactas com tu companhia aérea.',
       },
       {
-        q: '¿Pode um cão GRANDE viajar em bodega?',
+        q: 'Pode um cão GRANDE viajar em bodega?',
         a: 'Sí, a bodega é a solución para cães de mais de 8 kg (com transportadora). O transportadora debe cumplir as normas IATA (rígido, ventilado, com bandeja colectora). Confirma que a bodega é presurizada e climatizada — é estándar nos aviones comerciales modernos. Evita esta opção para razas braquicéfalas.',
       },
       {
-        q: '¿Cuánto cuesta volar com uma animal?',
+        q: 'Cuánto custa volar com uma animal?',
         a: 'As tarifas de cabina oscilan entre 50 € e 200 € por trayecto segundo a companhia aérea e o destino. Air France cobra 70 € em Francia e 125 € em rutas europeias. Lufthansa cobra entre 55 € e 100 € em Europa. Estas tarifas se suman a tu bilhete de pasajero e no incluyen um asiento separado.',
       },
     ],

@@ -456,6 +456,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
       area: 'Santa Catalina, the Old Town (Casc Antic), and Portixol',
     },
+    palermo: {
+      personality: `Sicily's chaotic-baroque capital, where the UNESCO Arab-Norman old town, year-round Mondello Bau-Beach 11 km north, and the 400-ha Parco della Favorita make it Italy's most generous southern dog destination`,
+      highlight: 'the Quattro Canti baroque crossroads, Mondello Bau-Beach 11 km north, and the 400 ha Parco della Favorita at the foot of Monte Pellegrino',
+      area: 'the old town around Quattro Canti and the Vucciria, Ballarò and Capo markets, the Kalsa quarter, and the Foro Italico seafront',
+    },
+    pamplona: {
+      personality: `Northern Spain's pintxo capital — Hemingway's city of San Fermines, with the 28-ha Citadel park as the daily walk and one of Spain's most park-dense urban networks`,
+      highlight: 'the 28-ha Citadel park with its fenced off-leash zone, the 11 km Río Arga riverside greenway loop, and the Japanese-style Yamaguchi park',
+      area: `the medieval old town around Plaza del Castillo, the Citadel and Vuelta del Castillo south of centre, and the Iturrama university quarter`,
+    },
     paris: {
       personality: 'a city where dogs are famously welcome in cafés, shops, and many restaurants',
       highlight: 'the Bois de Boulogne, Bois de Vincennes, and hundreds of smaller squares',
@@ -1089,6 +1099,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
       area: 'Santa Catalina, le Vieux-Ville (Casc Antic) et Portixol',
     },
+    palermo: {
+      personality: `la capitale chaotique-baroque de la Sicile, où le centre arabe-normand UNESCO, la Bau-Beach de Mondello toute l'année à 11 km au nord et le Parco della Favorita de 400 ha en font la destination canine la plus généreuse du sud de l'Italie`,
+      highlight: 'le carrefour baroque du Quattro Canti, la Bau-Beach de Mondello à 11 km au nord et les 400 ha du Parco della Favorita au pied du Monte Pellegrino',
+      area: 'le centre historique autour du Quattro Canti et des marchés de la Vucciria, Ballarò et Capo, le quartier Kalsa et le front de mer du Foro Italico',
+    },
+    pamplona: {
+      personality: `la capitale du nord de l'Espagne du pintxo — la ville d'Hemingway et des San Fermines, avec le parc de la Citadelle (28 ha) pour la promenade quotidienne et l'un des réseaux urbains les plus denses en parcs d'Espagne`,
+      highlight: 'le parc de la Citadelle (28 ha) avec sa zone clôturée sans laisse, la voie verte de 11 km le long du Río Arga et le parc japonais Yamaguchi',
+      area: `le centre historique médiéval autour de la Plaza del Castillo, la Citadelle et la Vuelta del Castillo au sud du centre, et le quartier universitaire d'Iturrama`,
+    },
     paris: {
       personality: 'une ville où les chiens sont célèbres pour être acceptés dans les cafés, boutiques et de nombreux restaurants',
       highlight: 'le Bois de Boulogne, le Bois de Vincennes et des centaines de squares',
@@ -1720,6 +1740,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una capital insular mediterránea bañada por el sol donde las terrazas, las playas y el clima cálido durante todo el año la convierten en una de las ciudades más dog-friendly de España',
       highlight: 'la playa canina todo el año de Es Carnatge, el Parc de sa Riera y los jardines del Castell de Bellver',
       area: 'Santa Catalina, el Casco Antiguo (Casc Antic) y Portixol',
+    },
+    palermo: {
+      personality: 'la caótica-barroca capital de Sicilia, donde el casco antiguo árabo-normando UNESCO, la Bau-Beach de Mondello todo el año a 11 km al norte y el Parco della Favorita de 400 ha la convierten en el destino canino más generoso del sur de Italia',
+      highlight: 'el cruce barroco de Quattro Canti, la Bau-Beach de Mondello a 11 km al norte y las 400 ha del Parco della Favorita al pie del Monte Pellegrino',
+      area: 'el casco antiguo en torno a Quattro Canti y los mercados de Vucciria, Ballarò y Capo, el barrio Kalsa y el paseo marítimo del Foro Italico',
+    },
+    pamplona: {
+      personality: 'la capital del norte de España del pintxo — la ciudad de Hemingway y los San Fermines, con el parque de la Ciudadela (28 ha) como paseo diario y una de las redes urbanas más densas en parques de España',
+      highlight: 'el parque de la Ciudadela (28 ha) con su zona vallada sin correa, el carril verde de 11 km a lo largo del Río Arga y el parque japonés Yamaguchi',
+      area: 'el casco antiguo medieval en torno a la Plaza del Castillo, la Ciudadela y la Vuelta del Castillo al sur del centro, y el barrio universitario de Iturrama',
     },
     paris: {
       personality: 'una ciudad donde los perros son famosos por ser bienvenidos en cafés, tiendas y muchos restaurantes',

@@ -6310,6 +6310,80 @@
     }
   },
   {
+    "slug": "palermo",
+    "name": "Palermo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/palermo.jpg",
+    "intro": "Sicily's vibrant capital (~660k inhabitants), gateway to Sicilian beaches and the Mediterranean's chaotic-baroque heart. The Arab-Norman UNESCO ensemble (Cathedral, Royal Palace's Capella Palatina, Zisa) layers nine centuries of Mediterranean rule. Vucciria + Ballarò markets, the Foro Italico seafront, Mondello dog-beach 11 km north. 1h flight from Rome, ferry hub to Tunis and Naples. Sicilian taverna culture is unusually dog-friendly on terraces.",
+    "lat": 38.1157,
+    "lng": 13.3615,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Spring begins",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Hot, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Warm, ideal",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 15,
+        "desc": "Mild, festive",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "palma",
     "name": "Palma de Mallorca",
     "country": "Spain",
@@ -6379,6 +6453,80 @@
         "temp": 12,
         "desc": "Cool & overcast",
         "icon": "⛅"
+      }
+    }
+  },
+  {
+    "slug": "pamplona",
+    "name": "Pamplona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/pamplona.jpg",
+    "intro": "Capital of Navarra in Northern Spain — Hemingway's favourite city, world-famous for the San Fermines bull-running festival (6-14 July). ~205k inhabitants, walled medieval old town, the Citadel park (Ciudadela, 280k m²), and the Camino de Santiago French route runs straight through the centre. 1h45 from Madrid by Renfe AVE, 1h from Bilbao by Alsa bus. One of Spain's most dog-positive cities — pintxo bar culture welcomes dogs on terraces year-round.",
+    "lat": 42.8125,
+    "lng": -1.6458,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, occasional rain",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool, mild",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild, rainy",
+        "icon": "🌧️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "San Fermines! Hot",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm afternoons",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Crisp autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, festive",
+        "icon": "🎄"
       }
     }
   },

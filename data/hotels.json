@@ -13190,6 +13190,134 @@
     "petPolicyPt": "cães de any size bem-vindos para £35 por animal por estadia (não por noite). Food e water tigela fornecida. Animais permitidos em-quarto com prior notification em reserva."
   },
   {
+    "id": "palermo-1",
+    "name": "Grand Hotel Villa Igiea",
+    "destinationSlug": "palermo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1850,
+    "priceFrom": 480,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-igiea-palermo.html",
+    "petFee": 50,
+    "petPolicy": "Grand Hotel Villa Igiea — Iconic 1908 Art Nouveau Rocco Forte 5-star on the seafront, 10 min from centre. Pet fee 50 EUR/night. Dogs up to 20 kg welcome. Welcome basket + pet menu provided.",
+    "highlights": [
+      "Free WiFi",
+      "Sea view",
+      "Spa",
+      "Outdoor pool",
+      "Belle Époque"
+    ],
+    "slug": "grand-hotel-villa-igiea-palermo"
+  },
+  {
+    "id": "palermo-2",
+    "name": "Hotel Quintocanto",
+    "destinationSlug": "palermo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 2400,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/quintocanto.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Quintocanto — 4-star boutique on the iconic Quattro Canti baroque crossroads in the heart of the old town. Pet fee 20 EUR/night. Dogs up to 10 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Quattro Canti location",
+      "Rooftop terrace",
+      "Boutique"
+    ],
+    "slug": "hotel-quintocanto-palermo"
+  },
+  {
+    "id": "palermo-3",
+    "name": "Eurostars Centrale Palace",
+    "destinationSlug": "palermo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3100,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/centrale-palace.html",
+    "petFee": 15,
+    "petPolicy": "Eurostars Centrale Palace — 4-star in an 18th-century palace next to Quattro Canti. Pet fee 15 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "18th-c. palace",
+      "Rooftop pool",
+      "Restaurant"
+    ],
+    "slug": "eurostars-centrale-palace-palermo"
+  },
+  {
+    "id": "palermo-4",
+    "name": "Hotel Plaza Opera",
+    "destinationSlug": "palermo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2680,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/plaza-opera.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Plaza Opera — Modern 4-star opposite the Politeama opera house. Pet fee 12 EUR/night. Dogs up to 15 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Rooftop bar",
+      "Politeama view",
+      "Garage"
+    ],
+    "slug": "hotel-plaza-opera-palermo"
+  },
+  {
+    "id": "palermo-5",
+    "name": "BB22 Palace Boutique Hotel",
+    "destinationSlug": "palermo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1240,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/bb22-palace.html",
+    "petFee": 10,
+    "petPolicy": "BB22 Palace — Boutique 4-star in a 17th-century palazzo in the Kalsa district. Pet fee 10 EUR/night. Small/medium dogs welcome.",
+    "highlights": [
+      "Free WiFi",
+      "17th-c. palazzo",
+      "Kalsa district",
+      "Courtyard"
+    ],
+    "slug": "bb22-palace-palermo"
+  },
+  {
     "id": "palma-1",
     "name": "Hotel Cappuccino - Palma",
     "destinationSlug": "palma",
@@ -13317,6 +13445,133 @@
     ],
     "slug": "hotel-palau-sa-font-palma",
     "petPolicyPt": "Hotel Palau Sa Font accepts animais mediante pedido com sem taxa extra. Water bowls são fornecido em animal-friendly quartos. animais são não permitted em áreas comuns. This beautifully renovated 16th-century palace no Old Town é 450 metres de Plaça de la Reina e within walking distance do cathedral gardens. Por favor declare your animal no time de reserva."
+  },
+  {
+    "id": "pamplona-1",
+    "name": "Gran Hotel La Perla",
+    "destinationSlug": "pamplona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1850,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/gran-laperla.html",
+    "petFee": 25,
+    "petPolicy": "Gran Hotel La Perla — 5-star historic hotel where Hemingway stayed during San Fermines 1923-1959 (Room 217 preserved as a museum). Right on Plaza del Castillo. Pet fee 25 EUR/night. Dogs up to 10 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Hemingway suite",
+      "Plaza del Castillo location",
+      "Restaurant"
+    ],
+    "slug": "gran-hotel-la-perla-pamplona"
+  },
+  {
+    "id": "pamplona-2",
+    "name": "Palacio Guendulain",
+    "destinationSlug": "pamplona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1240,
+    "priceFrom": 245,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/palacio-guendulain.html",
+    "petFee": 30,
+    "petPolicy": "Palacio Guendulain — 5-star Relais & Châteaux in an 18th-century baroque palace, 5 min from the bullring. Pet fee 30 EUR/night. Dogs up to 15 kg welcome with advance notice.",
+    "highlights": [
+      "Free WiFi",
+      "18th-c. palace",
+      "Spa",
+      "Restaurant Patio Reservado"
+    ],
+    "slug": "palacio-guendulain-pamplona"
+  },
+  {
+    "id": "pamplona-3",
+    "name": "Hotel Tres Reyes",
+    "destinationSlug": "pamplona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/tres-reyes.html",
+    "petFee": 18,
+    "petPolicy": "Hotel Tres Reyes — Iconic mid-century 4-star next to the Citadel park. Pet fee 18 EUR/night. Dogs up to 15 kg welcome. Outdoor pool open May-September.",
+    "highlights": [
+      "Free WiFi",
+      "Outdoor pool",
+      "Citadel park adjacent",
+      "Restaurant"
+    ],
+    "slug": "hotel-tres-reyes-pamplona"
+  },
+  {
+    "id": "pamplona-4",
+    "name": "NH Pamplona Iruña Park",
+    "destinationSlug": "pamplona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-pamplona-iruna-park.html",
+    "petFee": 15,
+    "petPolicy": "NH Pamplona Iruña Park — 4-star opposite the Yamaguchi park, 10 min by bus to old town. Pet fee 15 EUR/night. Dogs up to 10 kg welcome.",
+    "highlights": [
+      "Free WiFi",
+      "Park views",
+      "Restaurant",
+      "Free parking"
+    ],
+    "slug": "nh-pamplona-iruna-park"
+  },
+  {
+    "id": "pamplona-5",
+    "name": "Hotel Castillo de Gorraiz",
+    "destinationSlug": "pamplona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1620,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/castillo-de-gorraiz.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Castillo de Gorraiz — 4-star with golf course in Gorraiz, 8 km east of Pamplona. Pet fee 15 EUR/night. Dogs of any size welcome on request.",
+    "highlights": [
+      "Free WiFi",
+      "Golf course",
+      "Spa",
+      "Mountain views"
+    ],
+    "slug": "hotel-castillo-de-gorraiz"
   },
   {
     "id": "paris-1",

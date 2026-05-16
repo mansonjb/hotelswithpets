@@ -1,0 +1,989 @@
+{
+  "slug": "cascais",
+  "name": "Cascais",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-05-16",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Cascais — Marina Terraces & Vila Bistros",
+      "titleFr": "Restaurants dog-friendly à Cascais — Terrasses de la marina et bistros de la vila",
+      "titleEs": "Restaurantes pet-friendly en Cascais — Terrazas del puerto y bistrós del casco antiguo",
+      "introEn": "Cascais sits squarely in Portugal's most pet-relaxed corner: outdoor terraces around the marina, Largo Luís de Camões and the streets behind Praia da Rainha almost universally welcome leashed dogs from spring through autumn, and TheFork lists more than a dozen venues that explicitly advertise dog-friendly status year-round. Water bowls appear unprompted at most café tables and the Atlantic-facing terraces are designed for long lunches with a dog at your feet.",
+      "introFr": "Cascais est au cœur du coin le plus pet-friendly du Portugal : les terrasses autour de la marina, du Largo Luís de Camões et des ruelles derrière la Praia da Rainha acceptent presque toutes les chiens en laisse du printemps à l'automne, et TheFork répertorie plus d'une dizaine d'adresses explicitement dog-friendly à l'année. Les gamelles d'eau arrivent sans demande sur la plupart des tables, et les terrasses face à l'Atlantique sont taillées pour les longs déjeuners avec un chien aux pieds.",
+      "introEs": "Cascais está en pleno corazón de la zona más pet-friendly de Portugal: las terrazas alrededor del puerto deportivo, del Largo Luís de Camões y de las callejuelas detrás de Praia da Rainha aceptan casi todas perros con correa de primavera a otoño, y TheFork lista más de una docena de locales explícitamente dog-friendly todo el año. Los cuencos de agua llegan sin pedirlos en la mayoría de las mesas, y las terrazas frente al Atlántico están hechas para largas comidas con un perro a los pies.",
+      "places": [
+        {
+          "name": "House of Wonders",
+          "address": "Largo da Misericórdia 53, 2750-320 Cascais",
+          "neighborhood": "Centro Histórico",
+          "photo": "/images/city-places/cascais-restaurants-house-of-wonders.jpg",
+          "website": "https://www.houseofwondersfood.com/",
+          "description": "Multi-level vegetarian café-restaurant in a converted town house with a sun-drenched rooftop terrace and a sidewalk patio that runs the length of Largo da Misericórdia. Mezze plates, fresh juices and a long brunch menu that brings queues on weekends.",
+          "descriptionFr": "Café-restaurant végétarien sur plusieurs étages dans une maison de ville rénovée, avec un toit-terrasse baigné de soleil et une terrasse de trottoir qui longe le Largo da Misericórdia. Assiettes de mezze, jus frais et une longue carte de brunch qui fait la file le week-end.",
+          "descriptionEs": "Café-restaurante vegetariano de varios niveles en una casa señorial reformada, con una azotea bañada por el sol y una terraza de calle que recorre todo el Largo da Misericórdia. Platos de mezze, zumos frescos y una larga carta de brunch que llena el local los fines de semana.",
+          "petPolicy": "Leashed dogs welcome on the rooftop, sidewalk patio and garden patio",
+          "petPolicyFr": "Chiens en laisse admis sur le toit-terrasse, la terrasse de rue et le patio jardin",
+          "petPolicyEs": "Perros con correa admitidos en la azotea, la terraza de calle y el patio jardín",
+          "priceRange": "€€",
+          "mustTry": "Mezze platter, sweet potato hummus, açaí bowl",
+          "mustTryFr": "Plateau de mezze, houmous de patate douce, bowl açaí",
+          "mustTryEs": "Tabla de mezze, hummus de boniato, bowl de açaí",
+          "openingHours": "Daily 09:00–22:00",
+          "tip": "The rooftop is shaded only from 14:00 onwards — small dogs are more comfortable at the ground-floor garden patio in midday heat.",
+          "tipFr": "Le toit n'est ombragé qu'à partir de 14h — les petits chiens sont plus à l'aise sur le patio jardin du rez-de-chaussée en pleine chaleur.",
+          "tipEs": "La azotea solo está sombreada a partir de las 14:00 — los perros pequeños están más cómodos en el patio jardín de la planta baja con calor.",
+          "googleMapsUrl": "https://maps.google.com/?q=House+of+Wonders+Cascais",
+          "descriptionPt": "Café-restaurante vegetariano de varios niveles numa casa senhorial reformada, com uma azotea banhada pelo sol e uma esplanada de rua que recorre todo o Largo da Misericórdia. Platos de mezze, zumos frescos e uma larga carta de brunch que llena o local os fines de semana.",
+          "petPolicyPt": "Cães com trela admitidos na azotea, a esplanada de rua e o patio jardim",
+          "mustTryPt": "Tabla de mezze, hummus de boniato, bowl de açaí",
+          "tipPt": "A azotea só está sombreada a partir das 14:00 — os cães pequenhos estão mais cómodos no patio jardim da planta baja com calor."
+        },
+        {
+          "name": "Taberna da Praça",
+          "address": "Largo Luís de Camões 22, 2750-326 Cascais",
+          "neighborhood": "Largo Luís de Camões",
+          "photo": "/images/city-places/cascais-restaurants-taberna-da-praca.jpg",
+          "website": "https://www.tabernadapraca.pt/",
+          "description": "Modern Portuguese taberna on the main pedestrian square, with a wide terrace under the umbrella pines and a small wood-panelled dining room inside. Petiscos, grilled octopus and a serious wine list of small Lisbon-region producers.",
+          "descriptionFr": "Taberna portugaise moderne sur la grande place piétonne, avec une large terrasse sous les pins parasols et une petite salle boisée à l'intérieur. Petiscos, poulpe grillé et une belle carte de vins de petits producteurs de la région de Lisbonne.",
+          "descriptionEs": "Taberna portuguesa moderna en la gran plaza peatonal, con una amplia terraza bajo los pinos piñoneros y un pequeño comedor con paneles de madera dentro. Petiscos, pulpo a la brasa y una buena carta de vinos de pequeños productores de la región de Lisboa.",
+          "petPolicy": "Leashed dogs welcome on the terrace; small dogs allowed inside on quieter evenings",
+          "petPolicyFr": "Chiens en laisse acceptés en terrasse ; petits chiens admis en salle les soirées plus calmes",
+          "petPolicyEs": "Perros con correa admitidos en la terraza; perros pequeños permitidos dentro en noches tranquilas",
+          "priceRange": "€€",
+          "mustTry": "Polvo à lagareiro, peixinhos da horta, vinho dos arredores",
+          "mustTryFr": "Polvo à lagareiro, peixinhos da horta, vin des environs",
+          "mustTryEs": "Pulpo à lagareiro, peixinhos da horta, vino de los alrededores",
+          "openingHours": "Daily 12:00–24:00",
+          "tip": "Sunday lunch is the busiest service — reserve a terrace table at the far end near Rua Frederico Arouca for the most space to settle a medium-to-large dog.",
+          "tipFr": "Le déjeuner du dimanche est le service le plus chargé — réservez une table en bout de terrasse côté Rua Frederico Arouca pour plus de place avec un chien moyen ou grand.",
+          "tipEs": "El almuerzo del domingo es el servicio más concurrido — reserva una mesa al fondo de la terraza junto a Rua Frederico Arouca para más espacio con un perro mediano o grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Taberna+da+Praca+Cascais",
+          "descriptionPt": "Taberna portuguesa moderna na gran praça peatonal, com uma amplia esplanada sob os pinos pinhoneros e um pequenho comedor com paneles de madera dentro. Petiscos, pulpo a a brasa e uma buena carta de vinos de pequenhos productores da região de Lisboa.",
+          "petPolicyPt": "Cães com trela admitidos na esplanada; cães pequenhos permitidos dentro en noites tranquilas",
+          "mustTryPt": "Pulpo à lagareiro, peixinhos da horta, vino dos alrededores",
+          "tipPt": "O almoço do domingo é o serviço mais concurrido — reserva uma mesa al fondo da esplanada junto a Rua Frederico Arouca para mais espacio com um cão mediano o grande."
+        },
+        {
+          "name": "Moules & Gin Cascais",
+          "address": "Rua Frederico Arouca 30, 2750-353 Cascais",
+          "neighborhood": "Centro Histórico",
+          "photo": "/images/city-places/cascais-restaurants-moules-and-gin.jpg",
+          "website": "https://moulesandgin.pt/",
+          "description": "Belgian-style mussel bar in the pedestrian heart of Cascais, with cast-iron tables spilling onto Rua Frederico Arouca and a tiny but lively interior. Twelve mussel preparations, Belgian frites and the longest gin list within walking distance of the marina.",
+          "descriptionFr": "Bar à moules belge au cœur piéton de Cascais, avec des tables en fonte qui débordent sur la Rua Frederico Arouca et une petite salle animée. Douze recettes de moules, frites belges et la carte de gins la plus longue à distance de marche de la marina.",
+          "descriptionEs": "Bar de mejillones de estilo belga en el corazón peatonal de Cascais, con mesas de hierro fundido que se extienden por la Rua Frederico Arouca y un interior pequeño pero animado. Doce preparaciones de mejillones, patatas fritas belgas y la carta de ginebras más larga a poca distancia del puerto.",
+          "petPolicy": "Dogs welcome on the terrace; the interior is too tight for medium-to-large breeds",
+          "petPolicyFr": "Chiens acceptés en terrasse ; l'intérieur est trop étroit pour les chiens moyens ou grands",
+          "petPolicyEs": "Perros admitidos en la terraza; el interior es demasiado estrecho para razas medianas o grandes",
+          "priceRange": "€€",
+          "mustTry": "Moules marinières, frites maison, Tom Collins",
+          "mustTryFr": "Moules marinières, frites maison, Tom Collins",
+          "mustTryEs": "Mejillones a la marinera, patatas fritas caseras, Tom Collins",
+          "openingHours": "Tue–Sun 12:30–15:30, 18:30–23:00",
+          "tip": "Aim for the 12:30 service — by 13:30 the terrace is full and the narrow walkway makes circulation tricky with a large dog.",
+          "tipFr": "Visez le service de 12h30 — vers 13h30 la terrasse est pleine et le passage étroit complique la circulation avec un grand chien.",
+          "tipEs": "Apunta al servicio de las 12:30 — hacia las 13:30 la terraza está llena y el pasillo estrecho complica el paso con un perro grande.",
+          "googleMapsUrl": "https://maps.google.com/?q=Moules+and+Gin+Cascais",
+          "descriptionPt": "Bar de mejillones de estilo belga no corazón peatonal de Cascais, com mesas de hierro fundido que estendem-se pela Rua Frederico Arouca e um interior pequenho mas animado. Doce preparaciones de mejillones, patatas fritas belgas e a carta de ginebras mais larga a pouca distancia do porto.",
+          "petPolicyPt": "Cães admitidos na esplanada; o interior é demasiado estrecho para razas medianas o grandes",
+          "mustTryPt": "Mejillones a a marinera, patatas fritas caseras, Tom Collins",
+          "tipPt": "Apunta al serviço das 12:30 — hacia as 13:30 a esplanada está llena e o pasillo estrecho complica o paso com um cão grande."
+        }
+      ],
+      "tipsEn": [
+        "Most Cascais restaurants follow the unwritten Portuguese rule: leashed dogs are welcome on terraces, almost never refused unless a sign explicitly says otherwise. Phrase to use at the door: \"Posso entrar com o cão?\".",
+        "Marina-side and Largo Luís de Camões terraces are the most reliably dog-friendly; the narrow restaurants along Rua Frederico Arouca often only fit small dogs inside.",
+        "Tap water is free everywhere — ask for \"uma taça de água para o cão\" and a bowl normally appears within a minute."
+      ],
+      "tipsFr": [
+        "La plupart des restaurants de Cascais suivent la règle tacite portugaise : chiens en laisse acceptés en terrasse, quasiment jamais refusés sauf panneau explicite. Phrase à utiliser : « Posso entrar com o cão ? ».",
+        "Les terrasses de la marina et du Largo Luís de Camões sont les plus systématiquement dog-friendly ; les restaurants étroits de la Rua Frederico Arouca n'acceptent en salle que les petits chiens.",
+        "L'eau du robinet est gratuite partout — demandez « uma taça de água para o cão » et la gamelle arrive en général en une minute."
+      ],
+      "tipsEs": [
+        "La mayoría de los restaurantes de Cascais siguen la regla tácita portuguesa: perros con correa admitidos en terraza, casi nunca rechazados salvo cartel explícito. Frase para usar: «Posso entrar com o cão?».",
+        "Las terrazas del puerto y del Largo Luís de Camões son las más sistemáticamente pet-friendly; los restaurantes estrechos de Rua Frederico Arouca solo aceptan perros pequeños dentro.",
+        "El agua del grifo es gratis en todas partes — pide «uma taça de água para o cão» y el cuenco suele llegar en un minuto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside restaurants in Cascais or only on terraces?",
+          "a": "Almost every Cascais terrace welcomes leashed dogs from April to October, and a meaningful minority — including House of Wonders, Taberna da Praça and several Largo Luís de Camões venues — admit small and medium dogs indoors year-round."
+        },
+        {
+          "q": "Do I need to book ahead to bring a dog?",
+          "a": "Reservations are not required to bring a dog but they help: a corner or end-of-terrace table gives you more space to settle a medium-to-large breed comfortably."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils acceptés en salle à Cascais ou uniquement en terrasse ?",
+          "a": "Presque toutes les terrasses acceptent les chiens en laisse d'avril à octobre, et plusieurs adresses — House of Wonders, Taberna da Praça et quelques tables du Largo Luís de Camões — admettent les petits et moyens chiens en salle toute l'année."
+        },
+        {
+          "q": "Faut-il réserver pour venir avec un chien ?",
+          "a": "Ce n'est pas obligatoire mais c'est utile : une table d'angle ou en bout de terrasse donne plus d'espace pour installer confortablement un chien moyen ou grand."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en el interior de los restaurantes de Cascais o solo en terraza?",
+          "a": "Casi todas las terrazas aceptan perros con correa de abril a octubre, y un grupo significativo — House of Wonders, Taberna da Praça y varios locales del Largo Luís de Camões — admite perros pequeños y medianos dentro todo el año."
+        },
+        {
+          "q": "¿Hay que reservar para venir con perro?",
+          "a": "No es obligatorio pero ayuda: una mesa de esquina o al final de la terraza da más espacio para acomodar a un perro mediano o grande."
+        }
+      ],
+      "titlePt": "Restaurantes pet-friendly en Cascais — Esplanadas do porto e bistrós do centro histórico",
+      "introPt": "Cascais está en pleno corazón da zona mais pet-friendly de Portugal: as esplanadas alrededor do porto deportivo, do Largo Luís de Camões e das callejuelas detrás de Praia da Rainha aceitam casi todas cães com trela de primavera a outono, e TheFork lista mais de uma docena de locales explícitamente pet-friendly o ano inteiro. Os cuencos de água llegan sem pedirlos en a maioria das mesas, e as esplanadas frente al Atlântico estão hechas para largas comidas com um cão aos pies.",
+      "tipsPt": [
+        "A maioria dos restaurantes de Cascais siguen a regla tácita portuguesa: cães com trela admitidos en esplanada, casi nunca rechazados salvo cartel explícito. Frase para usar: «Posso entrar com o cão?».",
+        "As esplanadas do porto e do Largo Luís de Camões são as mais sistemáticamente pet-friendly; os restaurantes estrechos de Rua Frederico Arouca só aceitam cães pequenhos dentro.",
+        "O água do grifo é grátis em todo o lado — pide «uma taça de água para o cão» e o cuenco suele chegar num minuto."
+      ],
+      "faqsPt": [
+        {
+          "q": "Se admiten cães no interior dos restaurantes de Cascais o só en esplanada?",
+          "a": "Casi todas as esplanadas aceitam cães com trela de abril a outubro, e um grupo significativo — House of Wonders, Taberna da Praça e varios locales do Largo Luís de Camões — admite cães pequenhos e medianos dentro o ano inteiro."
+        },
+        {
+          "q": "Hay que reservar para venir com cão?",
+          "a": "No é obrigatório mas ayuda: uma mesa de esquina o al final da esplanada da mais espacio para acomodar a um cão mediano o grande."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Best Parks & Green Spaces for Dogs in Cascais",
+      "titleFr": "Meilleurs parcs et espaces verts pour chiens à Cascais",
+      "titleEs": "Mejores parques y espacios verdes para perros en Cascais",
+      "introEn": "Cascais punches well above its weight for urban greenery: the central Parque Marechal Carmona threads through the old aristocratic estate gardens, while just north of town the Sintra-Cascais Natural Park opens onto thousands of hectares of cliff-top maquis, pine forest and dune trails. Most parks require leashes, but the wilder coast paths between Boca do Inferno and Guincho are where Cascais dogs do their serious running.",
+      "introFr": "Cascais joue largement au-dessus de sa catégorie côté espaces verts urbains : le Parque Marechal Carmona traverse les anciens jardins aristocratiques, et juste au nord de la ville le Parque Natural Sintra-Cascais s'ouvre sur des milliers d'hectares de maquis, de pinèdes et de sentiers de dunes. La plupart des parcs imposent la laisse, mais les sentiers côtiers sauvages entre Boca do Inferno et Guincho sont les vrais terrains de course des chiens locaux.",
+      "introEs": "Cascais juega muy por encima de su categoría en zonas verdes urbanas: el Parque Marechal Carmona atraviesa los antiguos jardines aristocráticos, y justo al norte de la ciudad el Parque Natural Sintra-Cascais se abre a miles de hectáreas de matorral, pinares y senderos de dunas. La mayoría de los parques exige correa, pero los senderos costeros salvajes entre Boca do Inferno y Guincho son donde los perros locales corren de verdad.",
+      "places": [
+        {
+          "name": "Parque Marechal Carmona",
+          "type": "Historic urban park",
+          "photo": "/images/city-places/cascais-parks-parque-marechal-carmona.jpg",
+          "website": "https://360.cascais.pt/en/visit/parque-marechal-carmona",
+          "description": "Eighteen hectares of shaded paths, duck ponds, peacocks and centuries-old umbrella pines wrapping around the Condes de Castro Guimarães palace. The most reliable green refuge inside town when the sun is high.",
+          "descriptionFr": "Dix-huit hectares de chemins ombragés, étangs aux canards, paons et pins parasols centenaires enveloppant le palais des Condes de Castro Guimarães. Le refuge vert le plus fiable au cœur de la ville quand le soleil tape.",
+          "descriptionEs": "Dieciocho hectáreas de senderos sombreados, estanques con patos, pavos reales y pinos piñoneros centenarios que rodean el palacio de los Condes de Castro Guimarães. El refugio verde más fiable dentro de la ciudad cuando aprieta el sol.",
+          "offLeash": false,
+          "offLeashArea": "Leash required throughout; the lawn near the duck pond is a popular dog-meeting spot in the early morning",
+          "offLeashAreaFr": "Laisse obligatoire partout ; la pelouse près de l'étang aux canards est un point de rencontre canin populaire tôt le matin",
+          "offLeashAreaEs": "Correa obligatoria en todo el parque; el césped junto al estanque de los patos es un punto popular de encuentro canino a primera hora",
+          "tip": "Enter from the Avenida da República side to reach the shaded northern paths first; the southern lawns get full sun by 11:00 in summer.",
+          "tipFr": "Entrez côté Avenida da República pour atteindre d'abord les sentiers ombragés du nord ; les pelouses du sud sont en plein soleil dès 11h l'été.",
+          "tipEs": "Entra por la Avenida da República para llegar primero a los senderos sombreados del norte; las praderas del sur están a pleno sol desde las 11:00 en verano.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Marechal+Carmona+Cascais",
+          "descriptionPt": "Dieciocho hectáreas de trilhos sombreados, estanques com patos, pavos reales e pinos pinhoneros centenarios que rodean o palácio dos Condes de Castro Guimarães. O refugio verde mais fiable dentro da cidade quando aprieta o sol.",
+          "offLeashAreaPt": "Trela obrigatória en todo o parque; o relva junto al estanque dos patos é um punto popular de encuentro canino a primera hora",
+          "tipPt": "Entra pela Avenida da República para chegar primero aos trilhos sombreados do norte; as pradarias do sul estão a pleno sol a partir das 11:00 en verão."
+        },
+        {
+          "name": "Paredão Cascais-Estoril",
+          "type": "Seafront promenade",
+          "photo": "/images/city-places/cascais-parks-paredao-cascais-estoril.jpg",
+          "website": "https://360.cascais.pt/en",
+          "description": "Three-kilometre seafront promenade linking Cascais marina to Estoril casino, hugging the Atlantic the whole way. Wide, flat, mostly shaded after 17:00 and a favourite evening walk for local dog owners.",
+          "descriptionFr": "Promenade en bord de mer de trois kilomètres reliant la marina de Cascais au casino d'Estoril, longeant l'Atlantique sur tout le parcours. Large, plate, en grande partie ombragée après 17h et balade du soir favorite des propriétaires locaux.",
+          "descriptionEs": "Paseo marítimo de tres kilómetros que une el puerto de Cascais con el casino de Estoril, junto al Atlántico todo el recorrido. Ancho, llano, mayormente sombreado a partir de las 17:00 y el paseo nocturno favorito de los dueños locales.",
+          "offLeash": false,
+          "offLeashArea": "Leash required by municipal rule; mid-promenade water fountains include low taps usable for dog drinking",
+          "offLeashAreaFr": "Laisse obligatoire par règlement municipal ; les fontaines mi-parcours ont des robinets bas utilisables pour faire boire un chien",
+          "offLeashAreaEs": "Correa obligatoria por ordenanza municipal; las fuentes a mitad de paseo tienen grifos bajos utilizables para que beba el perro",
+          "tip": "Start from the Cascais marina end after 18:00 in summer — the cliffs cast shade westwards and the surface is much cooler on paw pads than the asphalt around midday.",
+          "tipFr": "Partez côté marina de Cascais après 18h l'été — les falaises ombragent vers l'ouest et le sol est bien plus frais pour les coussinets qu'à midi.",
+          "tipEs": "Empieza por el puerto de Cascais después de las 18:00 en verano — los acantilados dan sombra hacia el oeste y la superficie es mucho más fresca para las almohadillas que a mediodía.",
+          "googleMapsUrl": "https://maps.google.com/?q=Paredao+Cascais+Estoril",
+          "descriptionPt": "Passeio marítimo de tres kilómetros que une o porto de Cascais com o casino de Estoril, junto al Atlântico todo o recorrido. Ancho, llano, mayormente sombreado a partir das 17:00 e o passeio nocturno favorito dos duenhos locales.",
+          "offLeashAreaPt": "Trela obrigatória por ordenanza municipal; as fuentes a mitad de passeio têm grifos bajos utilizables para que beba o cão",
+          "tipPt": "Empieza pelo porto de Cascais después das 18:00 en verão — os acantilados dan sombra hacia o oeste e a superficie é muito mais fresca para as almohadillas que a mediodía."
+        },
+        {
+          "name": "Boca do Inferno cliff path",
+          "type": "Coastal trail",
+          "photo": "/images/city-places/cascais-parks-boca-do-inferno.jpg",
+          "website": "https://360.cascais.pt/en/visit/boca-do-inferno",
+          "description": "Cliff-top walk west of the marina to the spectacular Boca do Inferno blowhole, then continuing on an unpaved trail toward Praia do Guincho. Spectacular Atlantic views, sea spray and full exposure to the wind.",
+          "descriptionFr": "Sentier côtier à l'ouest de la marina menant au spectaculaire gouffre marin Boca do Inferno, puis continuant sur un chemin non revêtu vers la Praia do Guincho. Vues atlantiques spectaculaires, embruns et exposition totale au vent.",
+          "descriptionEs": "Sendero por el acantilado al oeste del puerto que lleva al espectacular bufadero Boca do Inferno y continúa por un camino sin asfaltar hacia la Praia do Guincho. Vistas atlánticas espectaculares, salpicaduras del mar y exposición total al viento.",
+          "offLeash": false,
+          "offLeashArea": "Leash required near the railings; the unpaved stretch beyond Boca do Inferno toward Cresmina is where locals walk dogs more loosely on calm days",
+          "offLeashAreaFr": "Laisse obligatoire près des rambardes ; la portion non revêtue après Boca do Inferno vers Cresmina est celle où les habitants laissent leurs chiens plus libres par temps calme",
+          "offLeashAreaEs": "Correa obligatoria junto a las barandillas; el tramo sin asfaltar pasado Boca do Inferno hacia Cresmina es donde los vecinos llevan a sus perros más sueltos en días tranquilos",
+          "tip": "The cliff edges are unfenced beyond Boca do Inferno proper — keep a short leash on any dog that hasn't done coastal trails before.",
+          "tipFr": "Les bords de falaise ne sont pas protégés au-delà de Boca do Inferno même — gardez une laisse courte pour tout chien qui n'a jamais fait de sentier côtier.",
+          "tipEs": "Los bordes del acantilado no están vallados más allá de la propia Boca do Inferno — usa correa corta con cualquier perro que no haya hecho senderos costeros antes.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boca+do+Inferno+Cascais",
+          "descriptionPt": "Trilho pelo acantilado al oeste do porto que lleva al espectacular bufadero Boca do Inferno e continúa por um camino sem asfaltar hacia a Praia do Guincho. Vistas atlánticas espectaculares, salpicaduras do mar e exposición total al viento.",
+          "offLeashAreaPt": "Trela obrigatória junto a as barandillas; o tramo sem asfaltar pasado Boca do Inferno hacia Cresmina é onde os vecinos llevan aos seus cães mais sueltos en dias tranquilos",
+          "tipPt": "Os bordes do acantilado no estão vallados mais allá da propia Boca do Inferno — usa trela corta com cualquier cão que no haya hecho trilhos costeros antes."
+        }
+      ],
+      "tipsEn": [
+        "Cascais municipal rule: dogs must be leashed in every urban park, garden and on the Paredão; a leash up to 2 metres is the standard.",
+        "Dog poo bags are provided at most park entrances but run out by midday on weekends — carry your own.",
+        "The wildest off-leash running is on the dune trails of Sintra-Cascais Natural Park between Cresmina and Guincho, accessible by car or the 405 bus from Cascais terminal."
+      ],
+      "tipsFr": [
+        "Règlement municipal de Cascais : les chiens doivent être en laisse dans tous les parcs urbains, jardins et sur le Paredão ; laisse de 2 mètres maximum.",
+        "Des sacs à déjections sont fournis à la plupart des entrées de parc mais s'épuisent à midi le week-end — emportez les vôtres.",
+        "Les vraies courses sans laisse se font sur les sentiers de dunes du Parque Natural Sintra-Cascais entre Cresmina et Guincho, accessibles en voiture ou par le bus 405 depuis le terminal de Cascais."
+      ],
+      "tipsEs": [
+        "Norma municipal de Cascais: los perros deben llevar correa en todos los parques urbanos, jardines y en el Paredão; correa de hasta 2 metros como estándar.",
+        "Hay bolsas para excrementos en la mayoría de las entradas pero se agotan a mediodía los fines de semana — lleva las tuyas.",
+        "Las carreras sin correa de verdad están en los senderos de dunas del Parque Natural Sintra-Cascais entre Cresmina y Guincho, accesibles en coche o por el autobús 405 desde la terminal de Cascais."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there any off-leash dog parks in central Cascais?",
+          "a": "Not within the historic centre — every municipal park requires leashes. The closest dedicated off-leash area is the Parque Canino do Estoril (about 2 km east); for proper running, head to the dune trails around Cresmina-Guincho in the natural park."
+        },
+        {
+          "q": "Is the Paredão promenade safe for dogs?",
+          "a": "Yes, the whole 3 km is flat, paved and has periodic water fountains, but it has no shade between 11:00 and 17:00 in summer — early morning or post-sunset walks are far kinder on paw pads."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs canins sans laisse dans le centre de Cascais ?",
+          "a": "Aucun dans le centre historique — tous les parcs municipaux imposent la laisse. La zone sans laisse la plus proche est le Parque Canino do Estoril (à environ 2 km à l'est) ; pour vraiment courir, direction les sentiers de dunes entre Cresmina et Guincho dans le parc naturel."
+        },
+        {
+          "q": "Le Paredão est-il un parcours sûr pour un chien ?",
+          "a": "Oui, les 3 km sont plats, asphaltés et ponctués de fontaines, mais il n'y a aucune ombre entre 11h et 17h l'été — les balades à l'aube ou après le coucher du soleil sont bien plus douces pour les coussinets."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques caninos sin correa en el centro de Cascais?",
+          "a": "Ninguno en el casco histórico — todos los parques municipales exigen correa. El área sin correa más cercana es el Parque Canino do Estoril (a unos 2 km al este); para correr de verdad, ve a los senderos de dunas entre Cresmina y Guincho en el parque natural."
+        },
+        {
+          "q": "¿Es seguro el Paredão para un perro?",
+          "a": "Sí, los 3 km son llanos, asfaltados y con fuentes periódicas, pero no hay sombra entre las 11:00 y las 17:00 en verano — los paseos al amanecer o tras la puesta de sol son mucho más amables con las almohadillas."
+        }
+      ],
+      "titlePt": "Melhores parques e espacios verdes para cães en Cascais",
+      "introPt": "Cascais juega muito por encima do seu categoría en zonas verdes urbanas: o Parque Marechal Carmona atraviesa os antiguos jardins aristocráticos, e justo a norte da cidade o Parque Natural Sintra-Cascais se abre a miles de hectáreas de matorral, pinares e trilhos de dunas. A maioria dos parques exige trela, mas os trilhos costeros salvajes entre Boca do Inferno e Guincho são onde os cães locales corren de verdad.",
+      "tipsPt": [
+        "Norma municipal de Cascais: os cães deben levar trela en todos os parques urbanos, jardins e no Paredão; trela de até 2 metros como estándar.",
+        "Hay bolsas para excrementos en a maioria das entradas mas se agotan a mediodía os fines de semana — lleva as tuyas.",
+        "As carreras sem trela de verdad estão nos trilhos de dunas do Parque Natural Sintra-Cascais entre Cresmina e Guincho, acessíveis de carro o pelo autocarro 405 a partir da terminal de Cascais."
+      ],
+      "faqsPt": [
+        {
+          "q": "Hay parques caninos sem trela no centro de Cascais?",
+          "a": "Ninguno no casco histórico — todos os parques municipales exigen trela. O área sem trela mais cercana é o Parque Canino do Estoril (a uns 2 km al este); para correr de verdad, ve aos trilhos de dunas entre Cresmina e Guincho no parque natural."
+        },
+        {
+          "q": "É seguro o Paredão para um cão?",
+          "a": "Sí, os 3 km são llanos, asfaltados e com fuentes periódicas, mas no hay sombra entre as 11:00 e as 17:00 en verão — os passeios al amanecer o tras a puesta de sol são muito mais amables com as almohadillas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Public Transport with Pets in Cascais — Trains, Buses & Ferries",
+      "titleFr": "Transports en commun avec animaux à Cascais — Trains, bus et ferries",
+      "titleEs": "Transporte público con mascotas en Cascais — Trenes, autobuses y ferris",
+      "introEn": "Cascais relies mainly on the CP Linha de Cascais commuter train (40 minutes to Lisbon Cais do Sodré, twice an hour), the Carris Metropolitana bus network and Bolt/Uber rides — and all three are friendly to dogs and cats under reasonable conditions. The CP rule of thumb: small pets in a carrier travel free, larger dogs need a short leash plus muzzle and a current vaccination booklet.",
+      "introFr": "Cascais s'appuie surtout sur le train de banlieue CP Linha de Cascais (40 minutes jusqu'à Lisboa Cais do Sodré, deux par heure), le réseau de bus Carris Metropolitana et les VTC Bolt/Uber — et les trois acceptent chiens et chats sous conditions raisonnables. Règle CP : petits animaux en cage gratuits, grands chiens en laisse courte avec muselière et carnet de vaccination à jour.",
+      "introEs": "Cascais depende sobre todo del tren de cercanías CP Linha de Cascais (40 minutos hasta Lisboa Cais do Sodré, dos por hora), la red de autobuses Carris Metropolitana y los VTC Bolt/Uber — y los tres aceptan perros y gatos en condiciones razonables. Regla CP: animales pequeños en transportín gratis, perros grandes con correa corta, bozal y cartilla de vacunación al día.",
+      "rules": [
+        {
+          "transport": "CP urban train (Linha de Cascais)",
+          "transportFr": "Train urbain CP (Linha de Cascais)",
+          "transportEs": "Tren urbano CP (Linha de Cascais)",
+          "policy": "Small pets free in a carrier (hand-luggage size); larger dogs on a short leash with muzzle, vaccination booklet and municipal licence",
+          "policyFr": "Petits animaux gratuits en cage de taille bagage à main ; grands chiens en laisse courte avec muselière, carnet de vaccination et licence municipale",
+          "policyEs": "Mascotas pequeñas gratis en transportín tipo equipaje de mano; perros grandes con correa corta, bozal, cartilla de vacunación y licencia municipal",
+          "transportPt": "Comboio urbano CP (Linha de Cascais)",
+          "policyPt": "Animais pequenhas grátis en transportadora tipo equipaje de mano; cães grandes com trela corta, bozal, cartilla de vacinação e licencia municipal"
+        },
+        {
+          "transport": "Carris Metropolitana buses",
+          "transportFr": "Bus Carris Metropolitana",
+          "transportEs": "Autobuses Carris Metropolitana",
+          "policy": "Pets in a closed carrier travel for free; loose dogs only at the driver's discretion, generally outside rush hour",
+          "policyFr": "Animaux en cage fermée gratuits ; chiens en liberté uniquement à la discrétion du conducteur, en général hors heures de pointe",
+          "policyEs": "Mascotas en transportín cerrado gratis; perros sueltos solo a discreción del conductor, generalmente fuera de hora punta",
+          "transportPt": "Autocarros Carris Metropolitana",
+          "policyPt": "Animais en transportadora cerrado grátis; cães sueltos só a discreción do conductor, generalmente fora de hora punta"
+        },
+        {
+          "transport": "Bolt / Uber Pet",
+          "transportFr": "Bolt / Uber Pet",
+          "transportEs": "Bolt / Uber Pet",
+          "policy": "Both apps offer a \"Pet\" filter in Greater Lisbon; standard rides may accept dogs at the driver's discretion, expect a €1–2 cleaning surcharge",
+          "policyFr": "Les deux applis proposent un filtre « Pet » dans le Grand Lisbonne ; les courses standard peuvent accepter un chien à la discrétion du conducteur, supplément nettoyage de 1–2 € fréquent",
+          "policyEs": "Ambas apps tienen un filtro «Pet» en el Gran Lisboa; los viajes estándar pueden aceptar perros a discreción del conductor, suplemento de limpieza de 1–2 € habitual",
+          "transportPt": "Bolt / Uber Pet",
+          "policyPt": "Ambas apps têm um filtro «Pet» no Gran Lisboa; os viajes estándar podem aceitar cães a discreción do conductor, suplemento de limpieza de 1–2 € habitual"
+        }
+      ],
+      "sections": [
+        {
+          "title": "CP commuter train to Lisbon",
+          "titleFr": "Train de banlieue CP vers Lisbonne",
+          "titleEs": "Tren de cercanías CP a Lisboa",
+          "content": "The Cascais Line departs from Cascais station every 20 minutes for the 40-minute ride to Lisboa Cais do Sodré, hugging the coast through Estoril, São João do Estoril, Carcavelos and Belém. The eight categories of \"dangerous dogs\" defined by Portuguese law — Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier and Tosa Inu — are not permitted on the network.",
+          "contentFr": "La Linha de Cascais part de la gare de Cascais toutes les 20 minutes pour 40 minutes jusqu'à Lisboa Cais do Sodré, en longeant la côte par Estoril, São João do Estoril, Carcavelos et Belém. Les huit catégories de « chiens dangereux » définies par la loi portugaise — Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier et Tosa Inu — ne sont pas admises sur le réseau.",
+          "contentEs": "La Linha de Cascais sale de la estación de Cascais cada 20 minutos para los 40 minutos hasta Lisboa Cais do Sodré, bordeando la costa por Estoril, São João do Estoril, Carcavelos y Belém. Las ocho categorías de «perros peligrosos» definidas por la ley portuguesa — Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier y Tosa Inu — no se admiten en la red.",
+          "titlePt": "Comboio de cercanías CP a Lisboa",
+          "contentPt": "A Linha de Cascais sale da estação de Cascais cada 20 minutos para os 40 minutos até Lisboa Cais do Sodré, bordeando a costa por Estoril, São João do Estoril, Carcavelos e Belém. As ocho categorías de «cães peligrosos» definidas pela lei portuguesa — Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier e Tosa Inu — no se admiten na red."
+        },
+        {
+          "title": "Buses to Sintra, Cabo da Roca and Guincho",
+          "titleFr": "Bus vers Sintra, Cabo da Roca et Guincho",
+          "titleEs": "Autobuses a Sintra, Cabo da Roca y Guincho",
+          "content": "The 403 (Cascais–Cabo da Roca–Sintra) and 405 (Cascais–Guincho–Malveira da Serra) Carris Metropolitana lines are the practical way to reach the natural park trails with a dog. Both accept carriers without question and, outside summer weekends, drivers regularly admit medium dogs on a short leash; ask first.",
+          "contentFr": "Les lignes Carris Metropolitana 403 (Cascais–Cabo da Roca–Sintra) et 405 (Cascais–Guincho–Malveira da Serra) sont la solution pratique pour atteindre les sentiers du parc naturel avec un chien. Les deux acceptent les cages sans discussion et, hors week-ends d'été, les conducteurs admettent souvent les chiens moyens en laisse courte ; demandez avant de monter.",
+          "contentEs": "Las líneas Carris Metropolitana 403 (Cascais–Cabo da Roca–Sintra) y 405 (Cascais–Guincho–Malveira da Serra) son la opción práctica para llegar a los senderos del parque natural con perro. Ambas aceptan transportines sin discusión y, fuera de los fines de semana de verano, los conductores admiten con frecuencia perros medianos con correa corta; pregunta antes.",
+          "titlePt": "Autocarros a Sintra, Cabo da Roca e Guincho",
+          "contentPt": "As líneas Carris Metropolitana 403 (Cascais–Cabo da Roca–Sintra) e 405 (Cascais–Guincho–Malveira da Serra) são a opción práctica para chegar aos trilhos do parque natural com cão. Ambas aceitam transportines sem discusión e, fora dos fines de semana de verão, os conductores admiten com frecuencia cães medianos com trela corta; pregunta antes."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a ticket for my dog on the CP Cascais Line?",
+          "a": "No. Pets in a carrier ride free, and larger leashed dogs ride free as long as you have the vaccination booklet, municipal licence and the dog is muzzled. Only the eight \"dangerous breed\" categories are forbidden."
+        },
+        {
+          "q": "Can I bring my dog on the bus to Sintra?",
+          "a": "Yes for any pet in a closed carrier on the 403 line. Medium dogs on a short leash are usually accepted at the driver's discretion outside peak summer weekends — ask before boarding."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Faut-il un billet pour mon chien sur la Linha de Cascais ?",
+          "a": "Non. Les animaux en cage voyagent gratuitement, et les grands chiens en laisse aussi, à condition d'avoir le carnet de vaccination, la licence municipale et la muselière. Seules les huit catégories de « races dangereuses » sont interdites."
+        },
+        {
+          "q": "Puis-je prendre le bus pour Sintra avec mon chien ?",
+          "a": "Oui pour tout animal en cage fermée sur la ligne 403. Les chiens moyens en laisse courte sont en général acceptés à la discrétion du conducteur hors week-ends d'été — demandez avant de monter."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito billete para mi perro en la Linha de Cascais?",
+          "a": "No. Las mascotas en transportín viajan gratis, y los perros grandes con correa también, siempre que lleves cartilla de vacunación, licencia municipal y bozal. Solo están prohibidas las ocho categorías de «razas peligrosas»."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en autobús a Sintra?",
+          "a": "Sí para cualquier mascota en transportín cerrado en la línea 403. Los perros medianos con correa corta suelen ser aceptados a discreción del conductor fuera de fines de semana de verano — pregunta antes de subir."
+        }
+      ],
+      "titlePt": "Transporte público com animais en Cascais — Comboios, autocarros e ferris",
+      "introPt": "Cascais depende sobre todo do comboio de cercanías CP Linha de Cascais (40 minutos até Lisboa Cais do Sodré, dos por hora), a red de autocarros Carris Metropolitana e os VTC Bolt/Uber — e os tres aceitam cães e gatos en condições razonables. Regla CP: animales pequenhos en transportadora grátis, cães grandes com trela corta, bozal e cartilla de vacinação ao dia.",
+      "faqsPt": [
+        {
+          "q": "Necesito bilhete para mi cão na Linha de Cascais?",
+          "a": "No. As animais en transportadora viajan grátis, e os cães grandes com trela também, sempre que lleves cartilla de vacinação, licencia municipal e bozal. Só estão prohibidas as ocho categorías de «razas peligrosas»."
+        },
+        {
+          "q": "Puedo levar a mi cão de autocarro a Sintra?",
+          "a": "Sí para cualquier animal en transportadora cerrado na línea 403. Os cães medianos com trela corta costumam ser aceites a discreción do conductor fora de fines de semana de verão — pregunta antes de subir."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Cascais — Where & When You Can Bring Your Dog",
+      "titleFr": "Plages dog-friendly à Cascais — Où et quand emmener son chien",
+      "titleEs": "Playas pet-friendly en Cascais — Dónde y cuándo llevar a tu perro",
+      "introEn": "Portuguese beach rules are clear but easy to misread: concessioned beaches (with lifeguards and rental sunbeds) ban dogs during the bathing season — in Cascais, 1 May to 30 September 2026 — while non-concessioned coves remain dog-friendly all year. Cascais municipality has issued more fines for dogs on concessioned beaches than almost anywhere else in Portugal, so reading the signs at the access stairs matters.",
+      "introFr": "Les règles plagistes portugaises sont claires mais faciles à mal lire : les plages concédées (avec maîtres-nageurs et transats de location) interdisent les chiens pendant la saison balnéaire — à Cascais, du 1ᵉʳ mai au 30 septembre 2026 — tandis que les criques non concédées restent dog-friendly toute l'année. La mairie de Cascais a infligé plus d'amendes pour chiens sur plage concédée que presque toute autre commune du Portugal, lisez donc les panneaux à l'escalier d'accès.",
+      "introEs": "Las normas de playa portuguesas son claras pero fáciles de malinterpretar: las playas concesionadas (con socorristas y hamacas de alquiler) prohíben perros durante la temporada de baño — en Cascais, del 1 de mayo al 30 de septiembre de 2026 — mientras que las calas no concesionadas siguen siendo pet-friendly todo el año. El ayuntamiento de Cascais ha emitido más multas por perros en playas concesionadas que casi ningún otro de Portugal, así que conviene leer los carteles en la escalera de acceso.",
+      "places": [
+        {
+          "name": "Praia da Rainha",
+          "distance": "5 min walk from Cascais centre",
+          "description": "Small, sheltered cove tucked under the cliffs between the marina and Largo Luís de Camões — one of the few central beaches officially listed as non-concessioned and therefore dog-tolerant year-round on the dry sand outside any posted restriction.",
+          "season": "Open to dogs year-round outside any signed restriction; check the access stair for the seasonal sign",
+          "rules": "Leashed dogs on the dry sand; no off-leash running; pick-up bags mandatory",
+          "facilities": "Showers, stairs access, no lifeguard outside summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Rainha+Cascais",
+          "photo": "/images/city-places/cascais-beaches-praia-da-rainha.jpg"
+        },
+        {
+          "name": "Praia do Guincho",
+          "distance": "9 km north-west of Cascais, bus 405",
+          "description": "Vast Atlantic surf beach inside the Sintra-Cascais Natural Park, ringed by dunes and famous for its wind. Concessioned sections close to the kiosks ban dogs in season; the wider unsupervised stretches at either end remain pet-tolerant year-round.",
+          "season": "Off-season (1 Oct to 30 Apr) dogs welcome on the whole beach; in season only on the unsupervised northern and southern ends",
+          "rules": "Leashes recommended near the kiosk concessions; dunes are protected, stick to marked paths",
+          "facilities": "Kiosks, showers, parking, lifeguards in bathing season only",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Guincho+Cascais",
+          "photo": "/images/city-places/cascais-beaches-praia-do-guincho.jpg"
+        },
+        {
+          "name": "Praia da Cresmina",
+          "distance": "7 km north-west of Cascais",
+          "description": "Quieter northern neighbour of Guincho with a wooden boardwalk through the protected dune system. Non-concessioned, less surf, more wind shelter and the most reliable Cascais-area beach for taking a dog onto the sand any time of year.",
+          "season": "Year-round, leashed dogs welcome on the sand and along the boardwalk",
+          "rules": "Stay on the boardwalk through the dunes; the dune ecosystem is protected and any digging carries a fine",
+          "facilities": "Boardwalk, small car park, no permanent kiosk",
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Cresmina+Cascais",
+          "photo": "/images/city-places/cascais-beaches-praia-da-cresmina.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "When is the bathing season in Cascais and what does it mean for dogs?",
+          "a": "1 May to 30 September 2026. During those months, every concessioned beach (with lifeguards and rented sunbeds) bans dogs; non-concessioned coves like Praia da Cresmina and the quieter ends of Guincho remain open. Outside the season, almost every beach in Cascais welcomes leashed dogs."
+        },
+        {
+          "q": "What is the fine for taking a dog onto a forbidden beach?",
+          "a": "Municipal fines run from €100 to €600 per dog. Cascais is one of the strictest enforcement areas in Portugal — about half of all national beach fines for dogs are issued here and in Vila Real de Santo António."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la saison balnéaire à Cascais et quel impact pour un chien ?",
+          "a": "Du 1ᵉʳ mai au 30 septembre 2026. Pendant ces mois, toutes les plages concédées (maîtres-nageurs et transats de location) interdisent les chiens ; les criques non concédées comme la Praia da Cresmina et les bouts plus calmes de Guincho restent ouvertes. Hors saison, presque toutes les plages de Cascais acceptent les chiens en laisse."
+        },
+        {
+          "q": "Quelle est l'amende pour un chien sur une plage interdite ?",
+          "a": "Les amendes municipales vont de 100 € à 600 € par chien. Cascais est l'une des communes les plus strictes du Portugal — près de la moitié des amendes nationales pour chiens sur plage y sont infligées avec Vila Real de Santo António."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuándo es la temporada de baño en Cascais y qué implica para un perro?",
+          "a": "Del 1 de mayo al 30 de septiembre de 2026. Durante esos meses, todas las playas concesionadas (con socorristas y hamacas de alquiler) prohíben perros; las calas no concesionadas como Praia da Cresmina y los extremos tranquilos de Guincho siguen abiertas. Fuera de temporada, casi todas las playas de Cascais admiten perros con correa."
+        },
+        {
+          "q": "¿Cuál es la multa por llevar un perro a una playa prohibida?",
+          "a": "Las multas municipales van de 100 € a 600 € por perro. Cascais es uno de los municipios más estrictos de Portugal — cerca de la mitad de las multas nacionales por perros en playa se imponen aquí y en Vila Real de Santo António."
+        }
+      ],
+      "titlePt": "Praias pet-friendly en Cascais — Dónde e cuándo levar a tu cão",
+      "introPt": "As normas de praia portuguesas são claras mas fáciles de malinterpretar: as praias concesionadas (com socorristas e hamacas de alquiler) prohíben cães durante a temporada de banho — en Cascais, do 1 de maio al 30 de setembro de 2026 — mientras que as calas no concesionadas siguen siendo pet-friendly o ano inteiro. O ayuntamiento de Cascais ha emitido mais multas por cães en praias concesionadas que casi ningún otro de Portugal, así que conviene leer os carteles na escalera de acesso.",
+      "faqsPt": [
+        {
+          "q": "Cuándo é a temporada de banho en Cascais e qué implica para um cão?",
+          "a": "Do 1 de maio al 30 de setembro de 2026. Durante esos meses, todas as praias concesionadas (com socorristas e hamacas de alquiler) prohíben cães; as calas no concesionadas como Praia da Cresmina e os extremos tranquilos de Guincho siguen abiertas. Fora de temporada, casi todas as praias de Cascais admiten cães com trela."
+        },
+        {
+          "q": "Cuál é a multa por levar um cão a uma praia prohibida?",
+          "a": "As multas municipales van de 100 € a 600 € por cão. Cascais é um dos os municipios mais estrictos de Portugal — perto da mitad das multas nacionales por cães en praia se imponen aqui e en Vila Real de Santo António."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Cascais — 24-Hour Clinics & English-Speaking Vets",
+      "titleFr": "Vétérinaires d'urgence à Cascais — Cliniques 24h/24 et vétérinaires anglophones",
+      "titleEs": "Veterinarios de urgencias en Cascais — Clínicas 24h y veterinarios que hablan inglés",
+      "introEn": "Cascais has two genuine 24-hour clinics within municipal limits — CASVET (the OneVet group hospital in Parede) and Clínica Veterinária Vet-24 in the Mareantes district — plus the Alcabideche regional clinic just inland. All three are used to international clients and at least one English-speaking vet is on rotation around peak summer.",
+      "introFr": "Cascais compte deux véritables cliniques 24h/24 dans les limites de la commune — CASVET (hôpital du groupe OneVet à Parede) et la Clínica Veterinária Vet-24 dans le quartier des Mareantes — auxquelles s'ajoute la clinique régionale d'Alcabideche juste à l'intérieur des terres. Les trois ont l'habitude de la clientèle internationale et au moins un vétérinaire anglophone est de garde au pic de l'été.",
+      "introEs": "Cascais cuenta con dos clínicas genuinas 24 horas dentro del término municipal — CASVET (hospital del grupo OneVet en Parede) y la Clínica Veterinária Vet-24 en el barrio de Mareantes — más la clínica regional de Alcabideche, justo tierra adentro. Las tres están acostumbradas a la clientela internacional y al menos un veterinario que habla inglés está de guardia en el pico de verano.",
+      "tipsEn": [
+        "Portugal follows the EU Pet Travel Scheme: EU pet passport, ISO microchip and current rabies vaccination (given at least 21 days before travel) are sufficient. Non-EU visitors (UK included post-Brexit) need an Animal Health Certificate issued within 10 days of arrival.",
+        "Tick and flea pressure on the cliff trails and dune paths is real from April to October — ask any Cascais vet to top-up your dog's preventive treatment if you stay more than a week.",
+        "The national veterinary emergency line for Portugal is +351 707 200 188 — use it as a fallback when CASVET and AlcabidecheVet lines are both engaged."
+      ],
+      "tipsFr": [
+        "Le Portugal applique le régime UE de voyage des animaux : passeport européen, puce ISO et vaccination antirabique en cours (administrée au moins 21 jours avant le voyage) suffisent. Les visiteurs hors UE (Royaume-Uni inclus depuis le Brexit) doivent obtenir un Animal Health Certificate moins de 10 jours avant l'arrivée.",
+        "La pression des tiques et puces sur les sentiers côtiers et de dunes est réelle d'avril à octobre — demandez à n'importe quel vétérinaire de Cascais de renouveler le traitement préventif si vous restez plus d'une semaine.",
+        "Le numéro national d'urgence vétérinaire au Portugal est le +351 707 200 188 — à utiliser en repli quand les lignes de CASVET et AlcabidecheVet sont toutes deux occupées."
+      ],
+      "tipsEs": [
+        "Portugal aplica el régimen UE de viaje con animales: pasaporte europeo, microchip ISO y vacuna antirrábica en vigor (administrada al menos 21 días antes del viaje) son suficientes. Los visitantes de fuera de la UE (Reino Unido incluido tras el Brexit) necesitan un Animal Health Certificate emitido en los 10 días previos a la llegada.",
+        "La presión de garrapatas y pulgas en los senderos costeros y de dunas es real de abril a octubre — pide a cualquier veterinario de Cascais que renueve el tratamiento preventivo si te quedas más de una semana.",
+        "El número nacional de urgencias veterinarias en Portugal es el +351 707 200 188 — úsalo como alternativa cuando las líneas de CASVET y AlcabidecheVet estén ocupadas."
+      ],
+      "places": [
+        {
+          "name": "CASVET — Hospital Veterinário Cascais (OneVet)",
+          "type": "24h emergency hospital",
+          "address": "Av. dos Plátanos 93, Loja 1A, 2775-680 Parede (Cascais municipality)",
+          "phone": "+351 214 663 117",
+          "hours": "24h every day",
+          "hoursFr": "24h/24, tous les jours",
+          "hoursEs": "24 h todos los días",
+          "englishSpeaking": true,
+          "website": "https://onevetgroup.pt/cascais/en/",
+          "description": "Full-service emergency hospital with imaging, surgery and intensive care, part of the OneVet group. The Parede location, between Cascais and Estoril, is the closest 24-hour facility to most central Cascais hotels — about 8 minutes by Bolt.",
+          "descriptionFr": "Hôpital d'urgence complet avec imagerie, chirurgie et soins intensifs, membre du groupe OneVet. Le site de Parede, entre Cascais et Estoril, est l'établissement 24h/24 le plus proche de la plupart des hôtels du centre — environ 8 minutes en Bolt.",
+          "descriptionEs": "Hospital de urgencias completo con diagnóstico por imagen, cirugía y cuidados intensivos, parte del grupo OneVet. La sede de Parede, entre Cascais y Estoril, es el centro 24 horas más cercano a la mayoría de los hoteles del centro — unos 8 minutos en Bolt.",
+          "tip": "Call ahead even for urgent cases so the on-call vet meets you at reception — front-desk staff can prep a Bolt return with your pet's case number.",
+          "tipFr": "Appelez avant de venir même en urgence pour que le vétérinaire de garde vous accueille à l'entrée — la réception peut préparer un Bolt retour avec le numéro de dossier de votre animal.",
+          "tipEs": "Llama antes de ir incluso en urgencias para que el veterinario de guardia te reciba en la entrada — recepción puede preparar un Bolt de vuelta con el número de expediente de tu mascota.",
+          "googleMapsUrl": "https://maps.google.com/?q=CASVET+OneVet+Parede+Cascais",
+          "photo": "/images/city-places/cascais-vets-casvet-onevet.jpg",
+          "hoursPt": "24 h todos os dias",
+          "descriptionPt": "Hospital de urgências completo com diagnóstico por imagen, cirugía e cuidados intensivos, parte do grupo OneVet. A sede de Parede, entre Cascais e Estoril, é o centro 24 horas mais cercano a a maioria dos hotéis do centro — uns 8 minutos en Bolt.",
+          "tipPt": "Liga antes de ir mesmo em urgências para que o veterinário de guardia te reciba na entrada — recepción pode preparar um Bolt de vuelta com o número de expediente de tu animal."
+        },
+        {
+          "name": "Clínica Veterinária Vet-24",
+          "type": "Local clinic, 24h on-call",
+          "address": "Rua dos Mareantes, Lote 166-A Loja, 2750-426 Cascais",
+          "phone": "+351 214 847 925",
+          "hours": "Mon–Fri 10:00–13:00 in clinic; 24h emergency line",
+          "hoursFr": "Lun–ven 10h–13h au cabinet ; ligne d'urgence 24h/24",
+          "hoursEs": "Lun–vie 10:00–13:00 en clínica; línea de urgencias 24 h",
+          "englishSpeaking": true,
+          "website": "https://www.clinicavet24.com/",
+          "description": "Independent neighbourhood clinic in the residential Mareantes area, walking distance from Cascais marina. Day consultations by appointment and a permanent emergency phone line for after-hours and weekend calls.",
+          "descriptionFr": "Clinique de quartier indépendante dans la zone résidentielle des Mareantes, à pied de la marina de Cascais. Consultations sur rendez-vous en journée et ligne d'urgence permanente pour les soirs et week-ends.",
+          "descriptionEs": "Clínica de barrio independiente en la zona residencial de Mareantes, a pie del puerto de Cascais. Consultas diurnas con cita previa y una línea de urgencias permanente para tardes y fines de semana.",
+          "tip": "Use the emergency line first — for after-hours visits they direct you to the nearest open partner hospital rather than reopening the small clinic.",
+          "tipFr": "Appelez d'abord la ligne d'urgence — en dehors des heures, ils vous orientent vers l'hôpital partenaire ouvert le plus proche plutôt que de rouvrir la petite clinique.",
+          "tipEs": "Llama primero a la línea de urgencias — fuera de horario te derivan al hospital asociado abierto más cercano en lugar de reabrir la clínica pequeña.",
+          "googleMapsUrl": "https://maps.google.com/?q=Vet+24+Cascais+Mareantes",
+          "photo": "/images/city-places/cascais-vets-vet-24.jpg",
+          "hoursPt": "Lun–vie 10:00–13:00 en clínica; línea de urgências 24 h",
+          "descriptionPt": "Clínica de bairro independiente na zona residencial de Mareantes, a pé do porto de Cascais. Consultas diurnas com cita previa e uma línea de urgências permanente para tardes e fines de semana.",
+          "tipPt": "Liga primero a a línea de urgências — fora de horario te derivan al hospital asociado abierto mais cercano en lugar de reabrir a clínica pequenha."
+        },
+        {
+          "name": "AlcabidecheVet (Evidensia)",
+          "type": "Regional clinic, on-call emergency",
+          "address": "Estrada das Tojas 55, 2645-091 Alcabideche",
+          "phone": "+351 214 602 047",
+          "hours": "Mon–Fri 09:00–21:00, Sat–Sun 09:30–13:30 & 15:00–18:30; emergency line outside hours",
+          "hoursFr": "Lun–ven 9h–21h, sam–dim 9h30–13h30 & 15h–18h30 ; ligne d'urgence hors horaires",
+          "hoursEs": "Lun–vie 09:00–21:00, sáb–dom 09:30–13:30 y 15:00–18:30; línea de urgencias fuera de horario",
+          "englishSpeaking": true,
+          "website": "https://www.alcabidechevet.pt/",
+          "description": "Full-service clinic in the hilltop village of Alcabideche, part of the Evidensia network. Strong for surgery and dermatology and the most accessible vet by car from the Guincho and Sintra direction.",
+          "descriptionFr": "Clinique complète dans le village d'Alcabideche, membre du réseau Evidensia. Fort en chirurgie et dermatologie, c'est le vétérinaire le plus accessible en voiture depuis Guincho et Sintra.",
+          "descriptionEs": "Clínica completa en el pueblo elevado de Alcabideche, parte de la red Evidensia. Fuerte en cirugía y dermatología y el veterinario más accesible en coche desde la dirección Guincho y Sintra.",
+          "tip": "Out-of-hours calls go to a dedicated mobile number (+351 962 894 947) — save it before heading to Guincho or Cabo da Roca where central Cascais clinics are 20 minutes away.",
+          "tipFr": "Hors horaires les appels passent par un mobile dédié (+351 962 894 947) — enregistrez-le avant de partir vers Guincho ou Cabo da Roca où les cliniques du centre de Cascais sont à 20 minutes.",
+          "tipEs": "Fuera de horario las llamadas pasan por un móvil dedicado (+351 962 894 947) — guárdalo antes de ir a Guincho o Cabo da Roca, donde las clínicas del centro de Cascais quedan a 20 minutos.",
+          "googleMapsUrl": "https://maps.google.com/?q=AlcabidecheVet+Alcabideche",
+          "photo": "/images/city-places/cascais-vets-alcabidechevet.jpg",
+          "hoursPt": "Lun–vie 09:00–21:00, sáb–dom 09:30–13:30 e 15:00–18:30; línea de urgências fora de horario",
+          "descriptionPt": "Clínica completa no pueblo elevado de Alcabideche, parte da red Evidensia. Fuerte en cirugía e dermatología e o veterinário mais acessível de carro a partir da direção Guincho e Sintra.",
+          "tipPt": "Fora de horario as llamadas pasan por um móvil dedicado (+351 962 894 947) — guárdalo antes de ir a Guincho o Cabo da Roca, onde as clínicas do centro de Cascais quedan a 20 minutos."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet inside Cascais municipality?",
+          "a": "Yes — CASVET (OneVet) in Parede is open 24 hours every day with surgery and intensive care, about 8 minutes by car from central Cascais. Clínica Vet-24 in Cascais Mareantes runs a 24-hour on-call line."
+        },
+        {
+          "q": "Do I need to register my dog locally if I stay a few weeks?",
+          "a": "No, tourist stays do not require local registration. EU residents simply present the pet passport; non-EU visitors carry the AHC issued within 10 days of arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire 24h/24 dans la commune de Cascais ?",
+          "a": "Oui — CASVET (OneVet) à Parede est ouvert 24h/24 tous les jours avec chirurgie et soins intensifs, à environ 8 minutes en voiture du centre de Cascais. La Clínica Vet-24 à Cascais Mareantes assure une ligne de garde 24h/24."
+        },
+        {
+          "q": "Faut-il enregistrer son chien localement pour un séjour de quelques semaines ?",
+          "a": "Non, les séjours touristiques ne nécessitent aucune inscription locale. Les résidents UE présentent simplement le passeport européen ; les visiteurs hors UE conservent l'AHC émis moins de 10 jours avant l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas dentro del municipio de Cascais?",
+          "a": "Sí — CASVET (OneVet) en Parede está abierto 24 horas todos los días con cirugía y cuidados intensivos, a unos 8 minutos en coche del centro de Cascais. La Clínica Vet-24 en Cascais Mareantes mantiene una línea de guardia 24 horas."
+        },
+        {
+          "q": "¿Hace falta registrar al perro localmente para una estancia de varias semanas?",
+          "a": "No, las estancias turísticas no requieren registro local. Los residentes UE solo presentan el pasaporte europeo; los visitantes de fuera de la UE conservan el AHC emitido en los 10 días previos a la llegada."
+        }
+      ],
+      "titlePt": "Veterinários de urgências en Cascais — Clínicas 24h e veterinários que hablan inglês",
+      "introPt": "Cascais cuenta com dos clínicas genuinas 24 horas dentro do término municipal — CASVET (hospital do grupo OneVet en Parede) e a Clínica Veterinária Vet-24 no bairro de Mareantes — mais a clínica regional de Alcabideche, justo tierra adentro. As tres estão acostumbradas a a clientela internacional e al menos um veterinário que habla inglês está de guardia no pico de verão.",
+      "tipsPt": [
+        "Portugal aplica o régimen UE de viaje com animales: passaporte europeu, microchip ISO e vacuna antirrábica en vigor (administrada al menos 21 dias antes do viaje) são suficientes. Os visitantes de fora da UE (Reino Unido incluido tras o Brexit) necesitan um Animal Health Certificate emitido nos 10 dias previos a a llegada.",
+        "A presión de garrapatas e pulgas nos trilhos costeros e de dunas é real de abril a outubro — pide a cualquier veterinário de Cascais que renueve o tratamento preventivo si te quedas mais de uma semana.",
+        "O número nacional de urgências veterinárias en Portugal é o +351 707 200 188 — úsalo como alternativa quando as líneas de CASVET e AlcabidecheVet estén ocupadas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Hay um veterinário 24 horas dentro do municipio de Cascais?",
+          "a": "Sí — CASVET (OneVet) en Parede está abierto 24 horas todos os dias com cirugía e cuidados intensivos, a uns 8 minutos de carro do centro de Cascais. A Clínica Vet-24 en Cascais Mareantes mantiene uma línea de guardia 24 horas."
+        },
+        {
+          "q": "Hace falta registrar al cão localmente para uma estadia de varias semanas?",
+          "a": "No, as estadias turísticas no requieren registro local. Os residentes UE só presentan o passaporte europeu; os visitantes de fora da UE conservan o AHC emitido nos 10 dias previos a a llegada."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Cascais with Your Pet",
+      "titleFr": "Conseils pratiques pour visiter Cascais avec votre animal",
+      "titleEs": "Consejos prácticos para visitar Cascais con tu mascota",
+      "introEn": "Cascais is one of the easiest Portuguese cities for a pet visit: compact centre, flat seafront promenade, abundant water fountains and a strong tradition of dog-friendly terraces. The few hard rules — leashes in every park, no concessioned beaches in season, dangerous-breed list on public transport — are well-signed and well-enforced, so reading the signs once at the start of your stay saves any awkward conversations later.",
+      "introFr": "Cascais est l'une des villes portugaises les plus simples pour une visite avec animal : centre compact, promenade plate en bord de mer, fontaines à profusion et une vraie tradition de terrasses dog-friendly. Les rares règles strictes — laisse dans tous les parcs, plages concédées interdites en saison, liste des races dangereuses dans les transports — sont bien signalées et bien appliquées, donc lire les panneaux une fois en arrivant vous épargne des discussions plus tard.",
+      "introEs": "Cascais es una de las ciudades portuguesas más fáciles para una visita con mascota: centro compacto, paseo marítimo plano, fuentes en abundancia y una verdadera tradición de terrazas pet-friendly. Las pocas reglas estrictas — correa en todos los parques, prohibición de playas concesionadas en temporada, lista de razas peligrosas en el transporte público — están bien señalizadas y se aplican, así que leer los carteles una vez al llegar evita conversaciones incómodas después.",
+      "sections": [
+        {
+          "title": "Heat & summer pavement",
+          "titleFr": "Chaleur et bitume estival",
+          "titleEs": "Calor y asfalto en verano",
+          "content": "July and August see daytime highs of 27–28°C with strong Atlantic sun. The Paredão asphalt, marina cobbles and Largo Luís de Camões stone all hit dangerous paw temperatures between 12:00 and 17:00 — schedule walks at dawn or after 19:00.",
+          "contentFr": "Juillet et août atteignent 27–28°C avec un fort soleil atlantique. L'asphalte du Paredão, les pavés de la marina et les pierres du Largo Luís de Camões atteignent des températures dangereuses pour les coussinets entre 12h et 17h — programmez les balades à l'aube ou après 19h.",
+          "contentEs": "Julio y agosto alcanzan máximas de 27–28°C con sol atlántico fuerte. El asfalto del Paredão, los adoquines del puerto y las piedras del Largo Luís de Camões alcanzan temperaturas peligrosas para las almohadillas entre las 12:00 y las 17:00 — programa los paseos al amanecer o después de las 19:00.",
+          "titlePt": "Calor e asfalto en verão",
+          "contentPt": "Julho e agosto alcanzan máximas de 27–28°C com sol atlântico fuerte. O asfalto do Paredão, os adoquines do porto e as pedras do Largo Luís de Camões alcanzan temperaturas peligrosas para as almohadillas entre as 12:00 e as 17:00 — programa os passeios al amanecer o después das 19:00."
+        },
+        {
+          "title": "Dangerous-breed paperwork",
+          "titleFr": "Démarches pour races dangereuses",
+          "titleEs": "Documentación para razas peligrosas",
+          "content": "Portuguese law lists Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier and Tosa Inu as restricted. They cannot board CP trains or buses, must be muzzled in public, and visitors should travel with the rabies certificate and ideally a sterilisation declaration.",
+          "contentFr": "La loi portugaise classe Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier et Tosa Inu en races à restrictions. Interdites dans les trains et bus CP, muselière obligatoire en public, et il est conseillé de voyager avec le certificat antirabique et idéalement une déclaration de stérilisation.",
+          "contentEs": "La ley portuguesa clasifica Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier y Tosa Inu como razas con restricciones. No pueden subir a trenes ni autobuses CP, bozal obligatorio en público, y se recomienda viajar con el certificado antirrábico y a ser posible una declaración de esterilización.",
+          "titlePt": "Documentação para razas peligrosas",
+          "contentPt": "A lei portuguesa clasifica Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Rottweiler, American Staffordshire Terrier, Staffordshire Bull Terrier e Tosa Inu como razas com restricciones. No podem subir a comboios ni autocarros CP, bozal obrigatório en público, e se recomienda viajar com o certificado antirrábico e a ser posible uma declaración de esterilización."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Carry a foldable silicone water bowl: Cascais summer afternoons are dry and shade is sparse on the seafront promenade.",
+        "Bolt has a \"Pet\" filter throughout greater Lisbon; expect a €1–2 cleaning surcharge but no refusal at the curb.",
+        "Cascais municipal poo-bag dispensers are restocked daily but empty out by midday on summer weekends — keep three in the bag.",
+        "Print the CASVET phone number (+351 214 663 117) and pin it inside your hotel room — it works as a fallback for any pet emergency in the western Lisbon coast area."
+      ],
+      "tipsFr": [
+        "Emportez une gamelle pliable en silicone : les après-midi d'été à Cascais sont secs et l'ombre est rare sur le bord de mer.",
+        "Bolt propose un filtre « Pet » dans tout le Grand Lisbonne ; comptez un supplément nettoyage de 1–2 € mais pas de refus au moment de monter.",
+        "Les distributeurs municipaux de sacs à déjections sont réapprovisionnés chaque jour mais vides à midi le week-end l'été — gardez-en trois dans le sac.",
+        "Imprimez le numéro de CASVET (+351 214 663 117) et collez-le dans la chambre d'hôtel — c'est la solution de repli pour toute urgence animale sur la côte ouest de Lisbonne."
+      ],
+      "tipsEs": [
+        "Lleva un cuenco plegable de silicona: las tardes de verano en Cascais son secas y la sombra escasea en el paseo marítimo.",
+        "Bolt tiene un filtro «Pet» en todo el Gran Lisboa; cuenta con un suplemento de limpieza de 1–2 € pero ningún rechazo al subir.",
+        "Los dispensadores municipales de bolsas se reponen a diario pero se vacían a mediodía los fines de semana de verano — guarda tres en la mochila.",
+        "Imprime el teléfono de CASVET (+351 214 663 117) y pégalo en la habitación del hotel — es el plan B para cualquier urgencia veterinaria en la costa oeste de Lisboa."
+      ],
+      "faqsEn": [
+        {
+          "q": "What is the single most useful Portuguese phrase to know with a dog?",
+          "a": "\"Posso entrar com o cão?\" (May I come in with the dog?). It works everywhere and the answer is almost always \"sim, claro\" on a Cascais terrace."
+        },
+        {
+          "q": "Are muzzles compulsory in Cascais?",
+          "a": "Only for the eight legally-defined dangerous breeds in public spaces, and for any dog on CP trains. On the street, in parks and on terraces no muzzle is required if your dog is leashed and calm."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle phrase portugaise est la plus utile avec un chien ?",
+          "a": "« Posso entrar com o cão ? » (Puis-je entrer avec le chien ?). Elle marche partout et la réponse est presque toujours « sim, claro » sur une terrasse à Cascais."
+        },
+        {
+          "q": "La muselière est-elle obligatoire à Cascais ?",
+          "a": "Uniquement pour les huit races légalement classées dangereuses dans l'espace public, et pour tout chien dans les trains CP. Dans la rue, les parcs et sur les terrasses, aucune muselière n'est requise si le chien est en laisse et calme."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la frase portuguesa más útil con un perro?",
+          "a": "«Posso entrar com o cão?» (¿Puedo entrar con el perro?). Funciona en todas partes y la respuesta casi siempre es «sim, claro» en una terraza de Cascais."
+        },
+        {
+          "q": "¿El bozal es obligatorio en Cascais?",
+          "a": "Solo para las ocho razas clasificadas como peligrosas por ley en espacios públicos, y para cualquier perro en trenes CP. En la calle, en los parques y en terrazas no se exige bozal si el perro va con correa y tranquilo."
+        }
+      ],
+      "titlePt": "Consejos prácticos para visitar Cascais com tu animal",
+      "introPt": "Cascais é uma das as cidades portuguesas mais fáciles para uma visita com animal: centro compacto, passeio marítimo plano, fuentes en abundancia e uma verdadera tradición de esplanadas pet-friendly. As poucas reglas estrictas — trela en todos os parques, prohibición de praias concesionadas en temporada, lista de razas peligrosas no transporte público — estão bien senhalizadas e se aplican, así que leer os carteles uma vez al chegar evita conversaciones incómodas después.",
+      "tipsPt": [
+        "Lleva um cuenco plegable de silicona: as tardes de verão en Cascais são secas e a sombra escasea no passeio marítimo.",
+        "Bolt tem um filtro «Pet» en todo o Gran Lisboa; cuenta com um suplemento de limpieza de 1–2 € mas ningún rechazo al subir.",
+        "Os dispensadores municipales de bolsas se reponen a diario mas se vacían a mediodía os fines de semana de verão — guarda tres na mochila.",
+        "Imprime o teléfono de CASVET (+351 214 663 117) e pégalo na habitación do hotel — é o plan B para cualquier urgência veterinária na costa oeste de Lisboa."
+      ],
+      "faqsPt": [
+        {
+          "q": "Cuál é a frase portuguesa mais útil com um cão?",
+          "a": "«Posso entrar com o cão?» (Puedo entrar com o cão?). Funciona em todo o lado e a respuesta casi sempre é «sim, claro» numa esplanada de Cascais."
+        },
+        {
+          "q": "O bozal é obrigatório en Cascais?",
+          "a": "Só para as ocho razas clasificadas como peligrosas por lei en espacios públicos, e para cualquier cão en comboios CP. Na rua, nos parques e en esplanadas no se exige bozal si o cão va com trela e tranquilo."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Cascais — Landmarks Your Dog Can Visit",
+      "titleFr": "Attractions dog-friendly à Cascais — Sites que vous pouvez visiter avec un chien",
+      "titleEs": "Atracciones pet-friendly en Cascais — Lugares que puedes visitar con tu perro",
+      "introEn": "Cascais is a place where most of the headline sights are outdoors — fortresses, palace gardens, blowholes, the lighthouse cape — so the city is unusually generous to visiting dogs. Museum interiors stay off-limits, but courtyards, fortress walls and palace grounds are almost always open to leashed dogs.",
+      "introFr": "Cascais est une ville où les attractions phares sont en plein air — forteresses, jardins de palais, gouffres marins, cap du phare — et donc inhabituellement accueillante pour les chiens. Les intérieurs des musées restent interdits, mais cours, remparts et jardins de palais sont presque toujours ouverts aux chiens en laisse.",
+      "introEs": "Cascais es una ciudad donde las atracciones principales son al aire libre — fortalezas, jardines de palacio, bufaderos marinos, cabo del faro — y por tanto inusualmente generosa con los perros. Los interiores de los museos siguen vetados, pero patios, murallas y jardines de palacio están casi siempre abiertos a perros con correa.",
+      "places": [
+        {
+          "name": "Cidadela de Cascais",
+          "neighborhood": "Marina / Fortaleza",
+          "photo": "/images/city-places/cascais-attractions-cidadela-de-cascais.jpg",
+          "website": "https://360.cascais.pt/en/visit/cidadela-de-cascais-palace",
+          "description": "16th-century coastal fortress restored as a cultural complex with art galleries, the Pestana Pousada hotel and a courtyard restaurant. The outdoor ramparts, bastion walks and central square are freely accessible — leashed dogs are a routine sight.",
+          "descriptionFr": "Forteresse côtière du XVIᵉ siècle restaurée en complexe culturel avec galeries d'art, hôtel Pestana Pousada et restaurant en cour. Les remparts extérieurs, chemins de bastion et place centrale sont librement accessibles — les chiens en laisse y sont monnaie courante.",
+          "descriptionEs": "Fortaleza costera del siglo XVI restaurada como complejo cultural con galerías de arte, el hotel Pestana Pousada y un restaurante en el patio. Las murallas exteriores, los caminos de los bastiones y la plaza central son de libre acceso — los perros con correa son habituales.",
+          "dogPolicy": "Free outdoor access to ramparts and courtyards on a leash; gallery interiors not permitted",
+          "dogPolicyFr": "Accès libre en laisse aux remparts et cours extérieures ; intérieurs des galeries non admis",
+          "dogPolicyEs": "Acceso libre con correa a murallas y patios exteriores; interiores de galerías no permitidos",
+          "admissionFee": "Free outdoor areas; gallery exhibitions €0–€5",
+          "admissionFeeFr": "Espaces extérieurs gratuits ; expositions en galerie 0–5 €",
+          "admissionFeeEs": "Espacios exteriores gratuitos; exposiciones en galería 0–5 €",
+          "tip": "Sunset on the western rampart facing the marina is one of the best photo spots in town for a dog portrait — water bowl at the courtyard café.",
+          "tipFr": "Le coucher de soleil sur le rempart ouest face à la marina est l'un des meilleurs spots photo en ville pour un portrait canin — gamelle d'eau au café de la cour.",
+          "tipEs": "El atardecer en la muralla oeste frente al puerto es uno de los mejores rincones de la ciudad para una foto con el perro — cuenco de agua en el café del patio.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cidadela+de+Cascais",
+          "descriptionPt": "Fortaleza costera do século XVI restaurada como complejo cultural com galerías de arte, o hotel Pestana Pousada e um restaurante no patio. As muralhas exteriores, os caminos dos bastiones e a praça central são de libre acesso — os cães com trela são habituales.",
+          "dogPolicyPt": "Acesso libre com trela a muralhas e patios exteriores; interiores de galerías no permitidos",
+          "admissionFeePt": "Espacios exteriores gratuitos; exposiciones en galería 0–5 €",
+          "tipPt": "O atardecer na muralha oeste frente al porto é um dos os melhores rincones da cidade para uma foto com o cão — cuenco de água no café do patio."
+        },
+        {
+          "name": "Boca do Inferno",
+          "neighborhood": "Western cliffs",
+          "photo": "/images/city-places/cascais-attractions-boca-do-inferno.jpg",
+          "website": "https://360.cascais.pt/en/visit/boca-do-inferno",
+          "description": "Dramatic sea-eroded archway and blowhole 1.5 km west of the marina, where Atlantic swells crash into a partially-collapsed cave. A short paved walk along the cliff edge with viewing platforms and a kiosk café — fully outdoors and leashed-dog friendly.",
+          "descriptionFr": "Arche marine et gouffre spectaculaires à 1,5 km à l'ouest de la marina, où la houle atlantique s'engouffre dans une grotte partiellement effondrée. Courte balade asphaltée le long de la falaise, plateformes panoramiques et kiosque-café — entièrement en plein air et accessible aux chiens en laisse.",
+          "descriptionEs": "Arco marino y bufadero espectaculares a 1,5 km al oeste del puerto, donde el oleaje atlántico se cuela en una cueva parcialmente derruida. Corto paseo asfaltado por el borde del acantilado, plataformas panorámicas y un quiosco-café — completamente al aire libre y accesible a perros con correa.",
+          "dogPolicy": "Leashed dogs welcome at all viewpoints and on the kiosk terrace; railings are low — short leash recommended",
+          "dogPolicyFr": "Chiens en laisse acceptés sur tous les belvédères et sur la terrasse du kiosque ; rambardes basses — laisse courte recommandée",
+          "dogPolicyEs": "Perros con correa admitidos en todos los miradores y en la terraza del quiosco; barandillas bajas — se recomienda correa corta",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Visit at high tide for the loudest spray, but stand back from the lowest railing — the spume can soak a small dog at full storm.",
+          "tipFr": "Venez à marée haute pour les jets les plus impressionnants, mais tenez-vous en retrait de la rambarde la plus basse — les embruns peuvent tremper un petit chien par grosse mer.",
+          "tipEs": "Ve con marea alta para los chorros más espectaculares, pero mantente alejado de la barandilla más baja — la espuma puede empapar a un perro pequeño con mar de fondo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boca+do+Inferno+Cascais",
+          "descriptionPt": "Arco marino e bufadero espectaculares a 1,5 km al oeste do porto, onde o oleaje atlântico se cuela numa cueva parcialmente derruida. Corto passeio asfaltado pelo borde do acantilado, plataformas panorámicas e um quiosco-café — completamente al aire libre e acessível a cães com trela.",
+          "dogPolicyPt": "Cães com trela admitidos en todos os miradores e na esplanada do quiosco; barandillas bajas — se recomienda trela corta",
+          "admissionFeePt": "Grátis",
+          "tipPt": "Ve com marea alta para os chorros mais espectaculares, mas mantente alejado da barandilla mais baja — a espuma pode empapar a um cão pequenho com mar de fondo."
+        },
+        {
+          "name": "Farol de Santa Marta & Museum Garden",
+          "neighborhood": "Santa Marta",
+          "photo": "/images/city-places/cascais-attractions-farol-de-santa-marta.jpg",
+          "website": "https://360.cascais.pt/en/visit/santa-marta-lighthouse-museum",
+          "description": "Striped blue-and-white lighthouse perched on the rocks behind Praia da Conceição, with an adjacent museum and a small but spectacular cliff-edge garden. Outdoor areas and the photogenic garden are accessible to leashed dogs.",
+          "descriptionFr": "Phare rayé bleu et blanc perché sur les rochers derrière la Praia da Conceição, accompagné d'un musée et d'un petit jardin spectaculaire en bord de falaise. Les espaces extérieurs et le jardin très photogénique sont accessibles aux chiens en laisse.",
+          "descriptionEs": "Faro a rayas azules y blancas encaramado a las rocas detrás de la Praia da Conceição, con un museo anexo y un pequeño jardín espectacular al borde del acantilado. Las zonas exteriores y el jardín muy fotogénico están accesibles a perros con correa.",
+          "dogPolicy": "Leashed dogs welcome in the outdoor garden and on the cliff path; museum interior not permitted",
+          "dogPolicyFr": "Chiens en laisse acceptés dans le jardin extérieur et sur le sentier de falaise ; intérieur du musée non admis",
+          "dogPolicyEs": "Perros con correa admitidos en el jardín exterior y en el sendero del acantilado; interior del museo no permitido",
+          "admissionFee": "Garden free; museum €3",
+          "admissionFeeFr": "Jardin gratuit ; musée 3 €",
+          "admissionFeeEs": "Jardín gratuito; museo 3 €",
+          "tip": "The garden faces directly west — afternoon light is the best for the painted blue stripes and the Atlantic in the background.",
+          "tipFr": "Le jardin est plein ouest — la lumière d'après-midi est la meilleure pour les rayures bleues et l'Atlantique en arrière-plan.",
+          "tipEs": "El jardín mira al oeste — la luz de la tarde es la mejor para las franjas azules y el Atlántico al fondo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Farol+de+Santa+Marta+Cascais",
+          "descriptionPt": "Faro a rayas azules e blancas encaramado a as rocas detrás da Praia da Conceição, com um museu anexo e um pequenho jardim espectacular al borde do acantilado. As zonas exteriores e o jardim muito fotogénico estão acessíveis a cães com trela.",
+          "dogPolicyPt": "Cães com trela admitidos no jardim exterior e no trilho do acantilado; interior do museu no permitido",
+          "admissionFeePt": "Jardim gratuito; museu 3 €",
+          "tipPt": "O jardim mira al oeste — a luz da tarde é a melhor para as franjas azules e o Atlântico al fondo."
+        }
+      ],
+      "tipsEn": [
+        "Cabo da Roca, the westernmost point of mainland Europe, is a 25-minute bus ride (line 403) and is fully outdoors with leashed dogs allowed across the cliffs — pair with a Boca do Inferno walk for a half-day.",
+        "Most Cascais museum gardens permit leashed dogs even when the interior is off-limits — always ask at reception before assuming.",
+        "Pestana Cidadela's restaurant courtyard is open to non-guests and welcomes dogs — a useful refuge if afternoon heat empties the cliff walks."
+      ],
+      "tipsFr": [
+        "Le Cabo da Roca, point le plus à l'ouest de l'Europe continentale, est à 25 minutes en bus (ligne 403) et entièrement en extérieur avec chiens en laisse autorisés sur toutes les falaises — à combiner avec une balade à Boca do Inferno pour une demi-journée.",
+        "La plupart des jardins de musée à Cascais acceptent les chiens en laisse même quand l'intérieur est interdit — demandez toujours à l'accueil.",
+        "La cour du restaurant du Pestana Cidadela est ouverte aux non-clients et accueille les chiens — un bon refuge quand la chaleur d'après-midi vide les falaises."
+      ],
+      "tipsEs": [
+        "El Cabo da Roca, punto más occidental de Europa continental, está a 25 minutos en autobús (línea 403) y es completamente al aire libre con perros con correa permitidos en todo el acantilado — combínalo con un paseo a Boca do Inferno para una media jornada.",
+        "La mayoría de los jardines de los museos de Cascais admiten perros con correa aunque el interior esté vetado — pregunta siempre en recepción.",
+        "El patio del restaurante del Pestana Cidadela está abierto a no huéspedes y acepta perros — un buen refugio cuando el calor de la tarde vacía los acantilados."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog inside any Cascais museum?",
+          "a": "Only service dogs enter the museum interiors. Outdoor museum gardens — at the Castro Guimarães palace and Santa Marta lighthouse — accept leashed pets at no charge."
+        },
+        {
+          "q": "Is the Cidadela free to visit with a dog?",
+          "a": "Yes, the central square, ramparts and bastion walks are publicly accessible at no charge. Paying galleries inside don't admit dogs but the outdoor circuit alone is worth the visit."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je entrer dans un musée de Cascais avec mon chien ?",
+          "a": "Seuls les chiens d'assistance accèdent aux intérieurs. Les jardins extérieurs des musées — palais Castro Guimarães et phare de Santa Marta — acceptent les animaux en laisse gratuitement."
+        },
+        {
+          "q": "La Cidadela est-elle gratuite avec un chien ?",
+          "a": "Oui, la place centrale, les remparts et les chemins de bastion sont d'accès libre. Les galeries payantes à l'intérieur n'admettent pas les chiens mais le circuit extérieur vaut à lui seul la visite."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo entrar en algún museo de Cascais con mi perro?",
+          "a": "Solo los perros de asistencia acceden a los interiores de los museos. Los jardines exteriores — palacio Castro Guimarães y faro de Santa Marta — admiten mascotas con correa de forma gratuita."
+        },
+        {
+          "q": "¿La Cidadela es gratis para visitar con perro?",
+          "a": "Sí, la plaza central, las murallas y los caminos de los bastiones son de acceso libre. Las galerías de pago en el interior no admiten perros pero el circuito exterior por sí solo vale la visita."
+        }
+      ],
+      "titlePt": "Atracciones pet-friendly en Cascais — Lugares que puedes visitar com tu cão",
+      "introPt": "Cascais é uma cidade onde as atracciones principales são al aire libre — fortalezas, jardins de palácio, bufaderos marinos, cabo do faro — e por tanto inusualmente generosa com os cães. Os interiores dos museus siguen vetados, mas patios, muralhas e jardins de palácio estão casi sempre abiertos a cães com trela.",
+      "tipsPt": [
+        "O Cabo da Roca, punto mais occidental de Europa continental, está a 25 minutos de autocarro (línea 403) e é completamente al aire libre com cães com trela permitidos en todo o acantilado — combínalo com um passeio a Boca do Inferno para uma media jornada.",
+        "A maioria dos jardins dos museus de Cascais admiten cães com trela embora o interior esté vetado — pregunta sempre en recepción.",
+        "O patio do restaurante do Pestana Cidadela está abierto a no huéspedes e aceita cães — um buen refugio quando o calor da tarde vacía os acantilados."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo entrar en algún museu de Cascais com mi cão?",
+          "a": "Só os cães de assistência acceden aos interiores dos museus. Os jardins exteriores — palácio Castro Guimarães e faro de Santa Marta — admiten animais com trela de forma gratuita."
+        },
+        {
+          "q": "A Cidadela é grátis para visitar com cão?",
+          "a": "Sí, a praça central, as muralhas e os caminos dos bastiones são de acesso libre. As galerías de pago no interior no admiten cães mas o circuito exterior por sí só vale a visita."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog-Walking Services in Cascais",
+      "titleFr": "Pet-sitting et promenade de chien à Cascais",
+      "titleEs": "Pet-sitting y paseo de perros en Cascais",
+      "introEn": "Cascais has a deep pool of pet-sitters serving the local expat community and visiting holidaymakers, available through the main European platforms — Pawshake, PetBacker and TrustedHousesitters. Rates run from €15–25 per visit and €25–40 per day of full care; English is the working language for most sitters listed for Cascais.",
+      "introFr": "Cascais dispose d'un vivier important de pet-sitters au service de la communauté expatriée locale et des vacanciers, joignables via les principales plateformes européennes — Pawshake, PetBacker et TrustedHousesitters. Tarifs entre 15–25 € par visite et 25–40 € par journée de garde complète ; l'anglais est la langue de travail de la plupart des sitters référencés à Cascais.",
+      "introEs": "Cascais cuenta con un amplio grupo de pet-sitters al servicio de la comunidad expatriada local y de los turistas, disponibles a través de las principales plataformas europeas — Pawshake, PetBacker y TrustedHousesitters. Tarifas entre 15–25 € por visita y 25–40 € por día de cuidado completo; el inglés es la lengua de trabajo de la mayoría de los sitters listados en Cascais.",
+      "places": [
+        {
+          "name": "Pawshake Cascais",
+          "website": "https://www.pawshake.pt/dog-sitting/cascais",
+          "description": "European pet-sitter marketplace with the deepest pool of vetted sitters in Cascais — home boarding, day care, dog walking and drop-in visits. Premium Insurance up to €1 million is included on every booking and reviews are public.",
+          "descriptionFr": "Marketplace européenne de pet-sitters avec le plus grand vivier vérifié à Cascais — pension à domicile, garderie de jour, promenade et visites. L'assurance Premium jusqu'à 1 million d'euros est incluse pour chaque réservation et les avis sont publics.",
+          "descriptionEs": "Marketplace europeo de pet-sitters con el mayor grupo verificado en Cascais — alojamiento en casa del sitter, guardería de día, paseo y visitas. El Seguro Premium de hasta 1 millón de euros está incluido en cada reserva y las opiniones son públicas.",
+          "serviceType": "Home boarding, dog walking, drop-in visits, day care",
+          "serviceTypeFr": "Pension à domicile, promenade, visites à domicile, garderie de jour",
+          "serviceTypeEs": "Alojamiento en casa del sitter, paseo, visitas a domicilio, guardería de día",
+          "pricePerDay": "From €18–30 per visit; €25–40 per full day",
+          "languages": [
+            "Portuguese",
+            "English"
+          ],
+          "tip": "Book 7+ days in advance during July–August when the local expat community travels and the best-reviewed sitters fill up first.",
+          "tipFr": "Réservez 7 jours à l'avance en juillet–août, quand la communauté expat locale voyage et que les meilleurs sitters sont les premiers complets.",
+          "tipEs": "Reserva con 7+ días de antelación en julio–agosto, cuando la comunidad expat local viaja y los sitters mejor valorados se llenan primero.",
+          "descriptionPt": "Marketplace europeu de pet-sitters com o mayor grupo verificado en Cascais — alojamento en casa do sitter, guardería de dia, passeio e visitas. O Seguro Premium de até 1 millón de euros está incluido en cada reserva e as opiniones são públicas.",
+          "serviceTypePt": "Alojamento en casa do sitter, passeio, visitas a domicilio, guardería de dia",
+          "tipPt": "Reserva com 7+ dias de antelación en julho–agosto, quando a comunidad expat local viaja e os sitters melhor valorados se llenan primero."
+        },
+        {
+          "name": "PetBacker Cascais",
+          "website": "https://www.petbacker.com/s/pet-sitters/cascais--lisboa--portugal",
+          "description": "Global pet-sitter platform with a strong Lisbon-Cascais corridor. All sitters are background-checked and PetBacker Protection covers vet bills up to USD 10,000 in case of an injury during the booking.",
+          "descriptionFr": "Plateforme mondiale de pet-sitters bien implantée sur le corridor Lisbonne-Cascais. Tous les sitters sont vérifiés et PetBacker Protection couvre les frais vétérinaires jusqu'à 10 000 USD en cas de blessure pendant la réservation.",
+          "descriptionEs": "Plataforma mundial de pet-sitters muy implantada en el corredor Lisboa-Cascais. Todos los sitters están verificados y PetBacker Protection cubre facturas veterinarias de hasta 10 000 USD en caso de lesión durante la reserva.",
+          "serviceType": "Home boarding, dog walking, grooming, taxi rides",
+          "serviceTypeFr": "Pension à domicile, promenade, toilettage, taxi animal",
+          "serviceTypeEs": "Alojamiento en casa del sitter, paseo, peluquería, taxi para mascotas",
+          "pricePerDay": "From €15 per walk; €20–35 per full day",
+          "languages": [
+            "Portuguese",
+            "English",
+            "Spanish"
+          ],
+          "tip": "Use the in-app chat to ask whether the sitter takes dogs on the Paredão or only to a fenced garden — the answer reveals their experience with cliff-side walks.",
+          "tipFr": "Utilisez la messagerie pour demander si le sitter emmène les chiens sur le Paredão ou seulement dans un jardin clôturé — la réponse révèle son expérience des balades en bord de falaise.",
+          "tipEs": "Usa el chat de la app para preguntar si el sitter lleva a los perros al Paredão o solo a un jardín cerrado — la respuesta revela su experiencia con paseos junto a los acantilados.",
+          "descriptionPt": "Plataforma mundial de pet-sitters muito implantada no corredor Lisboa-Cascais. Todos os sitters estão verificados e PetBacker Protection cubre facturas veterinárias de até 10 000 USD en caso de lesión durante a reserva.",
+          "serviceTypePt": "Alojamento en casa do sitter, passeio, peluquería, taxi para animais",
+          "tipPt": "Usa o chat da app para preguntar si o sitter lleva aos cães al Paredão o só a um jardim cerrado — a respuesta revela o seu experiencia com passeios junto aos acantilados."
+        },
+        {
+          "name": "TrustedHousesitters Cascais",
+          "website": "https://www.trustedhousesitters.com/house-and-pet-sitters/portugal/lisbon/cascais/",
+          "description": "Membership-based platform for in-home pet-sitting in exchange for free accommodation — best for owners wanting their pet cared for at home rather than at the sitter's place. Verified sitters and ID checks.",
+          "descriptionFr": "Plateforme par abonnement pour la garde à domicile en échange du logement gratuit — idéale pour les propriétaires qui veulent que leur animal soit gardé à la maison plutôt que chez le sitter. Sitters vérifiés et contrôles d'identité.",
+          "descriptionEs": "Plataforma por suscripción para el cuidado en el propio domicilio a cambio de alojamiento gratuito — ideal para quien quiere que su mascota se quede en casa en lugar de en la del sitter. Sitters verificados y controles de identidad.",
+          "serviceType": "In-home overnight sitting (no per-day fee, annual membership)",
+          "serviceTypeFr": "Garde en résidence avec nuitées (pas de tarif journalier, abonnement annuel)",
+          "serviceTypeEs": "Cuidado en casa con pernocta (sin tarifa diaria, suscripción anual)",
+          "pricePerDay": "Annual membership €149+, no per-day fees",
+          "languages": [
+            "English",
+            "Portuguese"
+          ],
+          "tip": "Listings fill up months in advance for Cascais — post a sit request at least 8 weeks before travel for the best applications.",
+          "tipFr": "Les annonces se remplissent des mois à l'avance pour Cascais — publiez votre demande au moins 8 semaines avant le départ pour recevoir les meilleures candidatures.",
+          "tipEs": "Los anuncios se llenan con meses de antelación para Cascais — publica tu solicitud al menos 8 semanas antes del viaje para recibir las mejores candidaturas.",
+          "descriptionPt": "Plataforma por suscripción para o cuidado no propio domicilio a cambio de alojamento gratuito — ideal para quien quiere que o seu animal se quede en casa en lugar de na do sitter. Sitters verificados e controles de identidad.",
+          "serviceTypePt": "Cuidado en casa com pernocta (sem tarifa diaria, suscripción anual)",
+          "tipPt": "Os anuncios se llenan com meses de antelación para Cascais — publica tu solicitud al menos 8 semanas antes do viaje para recibir as melhores candidaturas."
+        }
+      ],
+      "tipsEn": [
+        "Always ask sitters which beaches and parks they actually use — a sitter who walks dogs on the Paredão or Cresmina dunes has more local experience than one who stays at home with the dog.",
+        "Mid-July to late August is peak demand and rates rise by 20–30%; book early and lock in a specific sitter rather than auto-matching.",
+        "Always meet the sitter in person before the first booking — the platforms make this easy with a free meet-and-greet visit."
+      ],
+      "tipsFr": [
+        "Demandez toujours aux sitters quelles plages et quels parcs ils fréquentent — un sitter qui balade sur le Paredão ou les dunes de Cresmina a plus d'expérience locale que celui qui reste à la maison.",
+        "Mi-juillet à fin août est la haute saison avec des tarifs en hausse de 20–30 % ; réservez tôt et choisissez un sitter précis plutôt que d'utiliser l'auto-matching.",
+        "Rencontrez toujours le sitter en personne avant la première réservation — les plateformes facilitent une visite « meet & greet » gratuite."
+      ],
+      "tipsEs": [
+        "Pregunta siempre a los sitters qué playas y parques frecuentan — un sitter que pasea por el Paredão o las dunas de Cresmina tiene más experiencia local que uno que se queda en casa.",
+        "De mediados de julio a finales de agosto es la temporada alta con tarifas un 20–30 % más altas; reserva pronto y fija un sitter concreto en lugar de usar el auto-matching.",
+        "Conoce siempre al sitter en persona antes de la primera reserva — las plataformas facilitan una visita «meet & greet» gratuita."
+      ],
+      "faqsEn": [
+        {
+          "q": "What's the going rate for a dog walk in Cascais?",
+          "a": "Single 60-minute walks run €12–18, group walks €10–15 per dog, and full day care between €25 and €40 depending on the sitter's experience and whether they have a garden."
+        },
+        {
+          "q": "Can a pet-sitter pick up my dog from my hotel?",
+          "a": "Yes — every sitter on Pawshake and PetBacker can be filtered by \"drop-in visit\" service. Most charge a small €3–5 surcharge for hotel pickup vs. apartment pickup."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quel est le tarif courant pour une promenade à Cascais ?",
+          "a": "Une promenade individuelle de 60 minutes coûte 12–18 €, en groupe 10–15 € par chien, et la garde journée entre 25 et 40 € selon l'expérience du sitter et la présence d'un jardin."
+        },
+        {
+          "q": "Un pet-sitter peut-il venir chercher mon chien à l'hôtel ?",
+          "a": "Oui — tous les sitters Pawshake et PetBacker peuvent être filtrés par service « visite à domicile ». La plupart facturent un supplément de 3–5 € pour un ramassage à l'hôtel par rapport à un appartement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la tarifa habitual de un paseo en Cascais?",
+          "a": "Un paseo individual de 60 minutos cuesta 12–18 €, en grupo 10–15 € por perro, y el cuidado de día entre 25 y 40 € según la experiencia del sitter y si tiene jardín."
+        },
+        {
+          "q": "¿Un pet-sitter puede recoger a mi perro en el hotel?",
+          "a": "Sí — todos los sitters de Pawshake y PetBacker pueden filtrarse por servicio «visita a domicilio». La mayoría cobran un suplemento de 3–5 € por una recogida en hotel frente a la de un piso."
+        }
+      ],
+      "titlePt": "Pet-sitting e passeio de cães en Cascais",
+      "introPt": "Cascais cuenta com um amplio grupo de pet-sitters al serviço da comunidad expatriada local e dos turistas, disponibles a través das principales plataformas europeias — Pawshake, PetBacker e TrustedHousesitters. Tarifas entre 15–25 € por visita e 25–40 € por dia de cuidado completo; o inglês é a lengua de trabajo da maioria dos sitters listados en Cascais.",
+      "tipsPt": [
+        "Pregunta sempre aos sitters qué praias e parques frecuentan — um sitter que pasea pelo Paredão o as dunas de Cresmina tem mais experiencia local que uno que se queda en casa.",
+        "De mediados de julho a finales de agosto é a temporada alta com tarifas um 20–30 % mais altas; reserva pronto e fija um sitter concreto en lugar de usar o auto-matching.",
+        "Conoce sempre al sitter en persona antes da primera reserva — as plataformas facilitan uma visita «meet & greet» gratuita."
+      ],
+      "faqsPt": [
+        {
+          "q": "Cuál é a tarifa habitual de um passeio en Cascais?",
+          "a": "Um passeio individual de 60 minutos cuesta 12–18 €, en grupo 10–15 € por cão, e o cuidado de dia entre 25 e 40 € segundo a experiencia do sitter e si tem jardim."
+        },
+        {
+          "q": "Um pet-sitter pode recoger a mi cão no hotel?",
+          "a": "Sí — todos os sitters de Pawshake e PetBacker podem filtrarse por serviço «visita a domicilio». A mayoría cobran um suplemento de 3–5 € por uma recogida en hotel frente a a de um piso."
+        }
+      ]
+    }
+  }
+}

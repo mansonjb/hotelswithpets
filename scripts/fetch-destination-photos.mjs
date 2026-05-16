@@ -106,6 +106,9 @@ const TARGETS = [
   { slug: 'bremen', query: 'Bremen Germany Marktplatz Town Hall Roland Statue Stadtmusikanten Schnoor Hanseatic Weser river panorama sunset' },
   { slug: 'heraklion', query: 'Heraklion Crete Greece Koules Venetian fortress old harbour walls Lions Square Morosini Fountain panorama sunset' },
   { slug: 'lucca', query: 'Lucca Italy Renaissance walls Piazza Anfiteatro Guinigi Tower Tuscany medieval cobbled panorama sunset' },
+  { slug: 'pamplona', query: 'Pamplona Spain Plaza del Castillo Citadel walls Navarra Hemingway Cathedral panorama sunset' },
+  { slug: 'palermo', query: 'Palermo Sicily Italy Quattro Canti baroque Cathedral Arab-Norman Monte Pellegrino Mondello panorama sunset' },
+  { slug: 'cascais', query: 'Cascais Portugal marina old town Cidadela fortress Atlantic seafront Estoril coast panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

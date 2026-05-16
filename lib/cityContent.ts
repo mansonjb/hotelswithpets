@@ -11206,6 +11206,212 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  palermo: {
+    history: {
+      fr: `Palerme, capitale de la Sicile (~660 000 habitants), fut fondée par les Phéniciens au VIIIe siècle av. J.-C. avant de devenir, sous la domination arabe (831-1072) puis normande (1072-1194), l'une des villes les plus peuplées et les plus riches d'Europe. Ce métissage arabo-normand unique légua à la ville sa cathédrale (1185, UNESCO 2015), la Capella Palatina mosaïquée (1140), le palais royal des Normands et le Palazzo della Zisa. Le baroque sicilien des Quattro Canti (1620) et le pittoresque marché de la Vucciria peint par Renato Guttuso achèvent le tableau. Pour les voyageurs avec chien, c'est la grande ville italienne la plus généreuse en infrastructures canines du sud : la Bau-Beach signalée de Mondello à 11 km, le Parco della Favorita de 400 ha au pied du Monte Pellegrino, et une culture taverne sicilienne très détendue. Seules contraintes : la chaleur estivale (28-32°C en juillet-août), le sirocco et la circulation chaotique au centre.`,
+      en: `Palermo, capital of Sicily (~660,000 inhabitants), was founded by the Phoenicians in the 8th century BC before becoming, under Arab (831-1072) and Norman (1072-1194) rule, one of Europe's most populous and wealthy cities. That unique Arab-Norman crossing left the city its Cathedral (1185, UNESCO 2015), the mosaic-clad Capella Palatina (1140), the Norman royal palace and the Palazzo della Zisa. The Sicilian baroque of Quattro Canti (1620) and the picturesque Vucciria market painted by Renato Guttuso complete the picture. For travellers with a dog, this is the most dog-infrastructure-rich major southern Italian city: Mondello's signed Bau-Beach 11 km away, the 400 ha Parco della Favorita at the foot of Monte Pellegrino, and an unusually relaxed Sicilian taverna culture. Only constraints: summer heat (28-32°C in July-August), sirocco wind and chaotic traffic in the centre.`,
+      es: `Palermo, capital de Sicilia (~660.000 habitantes), fue fundada por los fenicios en el s. VIII a.C. antes de convertirse, bajo dominación árabe (831-1072) y normanda (1072-1194), en una de las ciudades más pobladas y ricas de Europa. Ese mestizaje árabo-normando único legó a la ciudad la Catedral (1185, UNESCO 2015), la Capilla Palatina con mosaicos (1140), el Palacio Real normando y el Palazzo della Zisa. El barroco siciliano de Quattro Canti (1620) y el pintoresco mercado de Vucciria pintado por Renato Guttuso completan el cuadro. Para los viajeros con perro, es la gran ciudad italiana del sur con más infraestructura canina: la Bau-Beach señalizada de Mondello a 11 km, el Parco della Favorita de 400 ha al pie del Monte Pellegrino, y una cultura de tabernas siciliana inusualmente relajada. Únicas limitaciones: calor estival (28-32°C en julio-agosto), viento siroco y tráfico caótico en el centro.`,
+      pt: `Palermo, capital da Sicília (~660.000 habitantes), foi fundada pelos fenícios no séc. VIII a.C. antes de se tornar, sob domínio árabe (831-1072) e normando (1072-1194), uma das cidades mais populosas e ricas da Europa. Esse cruzamento árabe-normando único legou à cidade a Catedral (1185, UNESCO 2015), a Capela Palatina com mosaicos (1140), o Palácio Real normando e o Palazzo della Zisa. O barroco siciliano dos Quattro Canti (1620) e o pitoresco mercado da Vucciria pintado por Renato Guttuso completam o quadro. Para os viajantes com cão, é a grande cidade italiana do sul com mais infraestrutura canina: a Bau-Beach sinalizada de Mondello a 11 km, o Parco della Favorita de 400 ha aos pés do Monte Pellegrino, e uma cultura de tabernas siciliana invulgarmente descontraída. Únicas limitações: calor estival (28-32°C em julho-agosto), vento siroco e trânsito caótico no centro.`,
+    },
+    sights: [
+      { name: 'Quattro Canti', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Carrefour octogonal baroque (1620) où la Via Maqueda rencontre le Corso Vittorio Emanuele — centre symbolique de Palerme. Chiens en laisse admis 24h/24.`,
+        en: `Baroque octagonal crossroads (1620) where Via Maqueda meets Corso Vittorio Emanuele — Palermo's symbolic centre. Leashed dogs welcome 24/7.`,
+        es: `Cruce octogonal barroco (1620) donde Via Maqueda se cruza con Corso Vittorio Emanuele — centro simbólico de Palermo. Perros con correa admitidos 24h.`,
+        pt: `Cruzamento octogonal barroco (1620) onde a Via Maqueda encontra o Corso Vittorio Emanuele — centro simbólico de Palermo. Cães com trela admitidos 24h.`,
+      }},
+      { name: 'Mondello Bau-Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage canine officielle à 11 km au nord, signalée à l'extrémité ouest (Valdesi). Sable fin, eau cristalline, toute l'année. Bus 806 depuis Politeama en 20 min.`,
+        en: `Official dog beach 11 km north, signed at the western end (Valdesi). Fine sand, crystal water, year-round. Bus 806 from Politeama in 20 min.`,
+        es: `Playa canina oficial a 11 km al norte, señalizada al extremo oeste (Valdesi). Arena fina, agua cristalina, todo el año. Bus 806 desde Politeama en 20 min.`,
+        pt: `Praia canina oficial a 11 km a norte, sinalizada na extremidade oeste (Valdesi). Areia fina, água cristalina, o ano inteiro. Autocarro 806 a partir de Politeama em 20 min.`,
+      }},
+      { name: 'Parco della Favorita', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Plus grand parc urbain de Sicile, 400 ha au pied du Monte Pellegrino. Réserve royale créée en 1799 par Ferdinand III, aujourd'hui dédale de sentiers, vergers d'agrumes et pinèdes. La promenade canine emblématique des Palermitains.`,
+        en: `Sicily's largest urban park, 400 ha at the foot of Monte Pellegrino. Royal reserve created 1799 by Ferdinand III, today a tangle of paths, citrus groves and pine woods. The Palermitani's flagship dog walk.`,
+        es: `El mayor parque urbano de Sicilia, 400 ha al pie del Monte Pellegrino. Coto real creado en 1799 por Fernando III, hoy un laberinto de senderos, naranjales y pinares. El paseo canino emblemático de los palermitanos.`,
+        pt: `O maior parque urbano da Sicília, 400 ha aos pés do Monte Pellegrino. Reserva real criada em 1799 por Fernando III, hoje um labirinto de trilhos, pomares de citrinos e pinhais. O passeio canino emblemático dos palermitanos.`,
+      }},
+      { name: 'Cathedral of Palermo', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Cathédrale arabe-normande UNESCO commencée en 1185, superposée d'ajouts gothiques, Renaissance et néoclassiques. Chiens interdits à l'intérieur (sauf chiens d'assistance), place extérieure et murailles normandes accessibles.`,
+        en: `UNESCO Arab-Norman cathedral started 1185, layered with Gothic, Renaissance and Neoclassical additions. Dogs not allowed inside (except assistance dogs); outdoor square and Norman walls accessible.`,
+        es: `Catedral árabo-normanda UNESCO iniciada en 1185, con añadidos góticos, renacentistas y neoclásicos. No se admiten perros en el interior (salvo perros de asistencia); plaza exterior y murallas normandas accesibles.`,
+        pt: `Catedral árabe-normanda UNESCO iniciada em 1185, com adições góticas, renascentistas e neoclássicas. Cães proibidos no interior (exceto cães de assistência); praça exterior e muralhas normandas acessíveis.`,
+      }},
+      { name: 'Mercato di Ballarò', emoji: '🍅', petFriendly: true, desc: {
+        fr: `Le plus ancien et le plus vivant marché de rue de Palerme, datant de l'ère arabe du Xe siècle. Stands de légumes, poissons, street food, criées traditionnelles « abbanniate ». Parcourable avec un chien en laisse courte.`,
+        en: `Palermo's oldest and most vibrant street market, dating to the 10th-c. Arab era. Vegetable, fish and street food stalls, traditional 'abbanniate' calls. Walkable with a short-leashed dog.`,
+        es: `El mercado callejero más antiguo y vibrante de Palermo, datado de la era árabe del s. X. Puestos de verduras, pescado y comida callejera, gritos tradicionales «abbanniate». Recorrible con perro con correa corta.`,
+        pt: `O mais antigo e vibrante mercado de rua de Palermo, datado da era árabe do séc. X. Bancas de legumes, peixe e comida de rua, gritos tradicionais «abbanniate». Percorrível com cão com trela curta.`,
+      }},
+      { name: 'Foro Italico', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenade de mer sans circulation de 2 km du port au quartier Kalsa. Bandes de pelouse, palmiers, brise marine. Le hub canin du soir d'été à Palerme.`,
+        en: `2 km traffic-free seafront promenade from the port to the Kalsa quarter. Lawn strips, palm trees, sea breeze. The summer-evening dog hub of Palermo.`,
+        es: `Paseo marítimo sin tráfico de 2 km del puerto al barrio Kalsa. Franjas de césped, palmeras, brisa marina. El hub canino vespertino de verano en Palermo.`,
+        pt: `Passeio marítimo sem trânsito de 2 km do porto ao bairro Kalsa. Faixas de relva, palmeiras, brisa marítima. O hub canino vespertino de verão em Palermo.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture taverne sicilienne accueille massivement les chiens en terrasse — norme ancienne.`,
+        `La Bau-Beach de Mondello est l'incontournable — 11 km au nord, bus 806 (20 min, petits chiens en sac gratuits).`,
+        `Évitez juillet-août : sirocco + 28-32°C + pavés à 60°C en milieu de journée. Préférez mai-juin ou septembre-octobre.`,
+        `Sites archéologiques siciliens (Capella Palatina, Zisa, Catacombes) interdisent les animaux — réservez un sitter Pawshake pour 1-2h.`,
+        `Ferry de nuit GNV/Grimaldi depuis Naples : cabines pet-friendly ~30 € de supplément, à réserver tôt en été.`,
+      ],
+      en: [
+        `Sicilian taverna culture massively welcomes dogs on terraces — long-standing norm.`,
+        `Mondello Bau-Beach is the must — 11 km north, bus 806 (20 min, small dogs in carriers free).`,
+        `Avoid July-August: sirocco + 28-32°C + cobblestones at 60°C midday. Prefer May-June or September-October.`,
+        `Sicilian archaeological sites (Capella Palatina, Zisa, Catacombs) prohibit pets — book a Pawshake sitter for 1-2h.`,
+        `Overnight GNV/Grimaldi ferry from Naples: pet-friendly cabins ~30 EUR supplement, book early in summer.`,
+      ],
+      es: [
+        `La cultura de tabernas siciliana acoge masivamente perros en terrazas — norma de larga data.`,
+        `La Bau-Beach de Mondello es imprescindible — 11 km al norte, bus 806 (20 min, perros pequeños en transportín gratis).`,
+        `Evita julio-agosto: siroco + 28-32°C + adoquines a 60°C al mediodía. Prefiere mayo-junio o septiembre-octubre.`,
+        `Los sitios arqueológicos sicilianos (Capilla Palatina, Zisa, Catacumbas) prohíben mascotas — reserva un cuidador Pawshake para 1-2h.`,
+        `Ferry nocturno GNV/Grimaldi desde Nápoles: camarotes pet-friendly ~30 € de suplemento, reserva pronto en verano.`,
+      ],
+      pt: [
+        `A cultura de tabernas siciliana acolhe massivamente cães em esplanadas — norma de longa data.`,
+        `A Bau-Beach de Mondello é imprescindível — 11 km a norte, autocarro 806 (20 min, cães pequenos em transportadora grátis).`,
+        `Evite julho-agosto: siroco + 28-32°C + paralelepípedos a 60°C ao meio-dia. Prefira maio-junho ou setembro-outubro.`,
+        `Os sítios arqueológicos sicilianos (Capela Palatina, Zisa, Catacumbas) proíbem animais — reserve um cuidador Pawshake para 1-2h.`,
+        `Ferry noturno GNV/Grimaldi a partir de Nápoles: camarotes pet-friendly ~30 € de suplemento, reserve cedo no verão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Clinica Veterinaria Borgo Nuovo, Via Castellana 124, +39 091 224 3434`,
+        `Cabinet de jour central : Studio Veterinario Vucciria, Via Maqueda 250, +39 091 332 200`,
+        `Aéroport Palermo PMO (Falcone-Borsellino) à 32 km à l'ouest — Trinacria Express 45 min, taxi forfait 50 €.`,
+        `Ferry de nuit Naples-Palerme : 10h, cabines pet-friendly ~30 € de supplément.`,
+      ],
+      en: [
+        `24/7 emergency vet: Clinica Veterinaria Borgo Nuovo, Via Castellana 124, +39 091 224 3434`,
+        `Central daytime clinic: Studio Veterinario Vucciria, Via Maqueda 250, +39 091 332 200`,
+        `Palermo PMO airport (Falcone-Borsellino) 32 km west — Trinacria Express 45 min, taxi fixed 50 EUR.`,
+        `Overnight Naples-Palermo ferry: 10h, pet-friendly cabins ~30 EUR supplement.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Clinica Veterinaria Borgo Nuovo, Via Castellana 124, +39 091 224 3434`,
+        `Clínica diurna céntrica: Studio Veterinario Vucciria, Via Maqueda 250, +39 091 332 200`,
+        `Aeropuerto Palermo PMO (Falcone-Borsellino) a 32 km al oeste — Trinacria Express 45 min, taxi fijo 50 €.`,
+        `Ferry nocturno Nápoles-Palermo: 10h, camarotes pet-friendly ~30 € de suplemento.`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h: Clinica Veterinaria Borgo Nuovo, Via Castellana 124, +39 091 224 3434`,
+        `Clínica diurna central: Studio Veterinario Vucciria, Via Maqueda 250, +39 091 332 200`,
+        `Aeroporto Palermo PMO (Falcone-Borsellino) a 32 km a oeste — Trinacria Express 45 min, táxi fixo 50 €.`,
+        `Ferry noturno Nápoles-Palermo: 10h, camarotes pet-friendly ~30 € de suplemento.`,
+      ],
+    },
+  },
+
+  pamplona: {
+    history: {
+      fr: `Pamplona (Iruña en basque), capitale de la Navarre (~205 000 habitants), fut fondée par les Romains en 75 av. J.-C. sous le nom de Pompaelo. Capitale du royaume de Navarre médiéval (824-1620) avant son rattachement à la Castille, la ville conserve un centre historique entièrement clos par les murailles construites par Philippe II au XVIe siècle. Hemingway la rendit mondialement célèbre par Le Soleil se lève aussi (1926), basé sur ses visites annuelles aux San Fermines (6-14 juillet), la fête des taureaux où il logea au Gran Hotel La Perla de 1923 à 1959. Pamplona est aussi étape majeure du Camino de Santiago (chemin français) qui traverse la ville. Pour les voyageurs avec chien, c'est l'une des villes du nord de l'Espagne les plus faciles : parc de la Citadelle (28 ha) avec zone canine clôturée, voie verte du Río Arga (11 km), bars à pintxos détendus en terrasse, climat estival doux (22°C de moyenne). Seule exception : éviter San Fermines (1M+ visiteurs, feux d'artifice constants).`,
+      en: `Pamplona (Iruña in Basque), capital of Navarra (~205,000 inhabitants), was founded by the Romans in 75 BC as Pompaelo. Capital of the medieval Kingdom of Navarra (824-1620) before its absorption by Castile, the city retains a historic centre fully ringed by walls built by Philip II in the 16th century. Hemingway made it world-famous through The Sun Also Rises (1926), based on his annual visits to San Fermines (6-14 July), the bull-running festival where he stayed at the Gran Hotel La Perla from 1923 to 1959. Pamplona is also a major Camino de Santiago stop on the French route. For travellers with a dog, it is one of Northern Spain's easiest cities: 28-ha Citadel park with fenced off-leash zone, 11 km Río Arga greenway, relaxed pintxo bars on terraces, mild summers (22°C average). Only exception: avoid San Fermines (1M+ visitors, constant fireworks).`,
+      es: `Pamplona (Iruña en euskera), capital de Navarra (~205.000 habitantes), fue fundada por los romanos en el 75 a.C. como Pompaelo. Capital del Reino medieval de Navarra (824-1620) antes de su absorción por Castilla, la ciudad conserva un casco histórico completamente cercado por las murallas que construyó Felipe II en el s. XVI. Hemingway la hizo mundialmente famosa con Fiesta (1926), basada en sus visitas anuales a los San Fermines (6-14 julio), las fiestas del toro donde se alojó en el Gran Hotel La Perla de 1923 a 1959. Pamplona es también una etapa importante del Camino de Santiago francés. Para los viajeros con perro, es una de las ciudades del norte de España más fáciles: parque de la Ciudadela (28 ha) con zona canina vallada, carril verde del Río Arga (11 km), bares de pintxos relajados en terraza, veranos suaves (22°C de media). Única excepción: evita San Fermines (1M+ visitantes, fuegos artificiales constantes).`,
+      pt: `Pamplona (Iruña em basco), capital de Navarra (~205.000 habitantes), foi fundada pelos romanos em 75 a.C. como Pompaelo. Capital do Reino medieval de Navarra (824-1620) antes da sua absorção por Castela, a cidade conserva um centro histórico totalmente cercado pelas muralhas construídas por Filipe II no séc. XVI. Hemingway tornou-a mundialmente famosa com Fiesta — O Sol Também se Levanta (1926), baseado nas suas visitas anuais aos San Fermines (6-14 julho), as festas do touro onde se hospedou no Gran Hotel La Perla de 1923 a 1959. Pamplona é também uma etapa importante do Caminho de Santiago francês. Para os viajantes com cão, é uma das cidades do norte de Espanha mais fáceis: parque da Cidadela (28 ha) com zona canina vedada, ecovia do Rio Arga (11 km), bares de pintxos descontraídos em esplanada, verões suaves (22°C de média). Única exceção: evite San Fermines (1M+ visitantes, fogos de artifício constantes).`,
+    },
+    sights: [
+      { name: 'Parque de la Ciudadela', emoji: '⭐', petFriendly: true, desc: {
+        fr: `Citadelle Renaissance en étoile bâtie par Philippe II en 1571 — la plus intacte d'Espagne. 28 ha de parc à entrée libre avec zone canine clôturée au sud-ouest.`,
+        en: `Star-shaped Renaissance citadel built by Philip II in 1571 — Spain's most intact. 28 ha free-entry park with fenced off-leash dog zone in the south-west.`,
+        es: `Ciudadela renacentista en estrella construida por Felipe II en 1571 — la más intacta de España. 28 ha de parque de entrada libre con zona canina vallada al suroeste.`,
+        pt: `Cidadela renascentista em estrela construída por Filipe II em 1571 — a mais intacta de Espanha. 28 ha de parque de entrada livre com zona canina vedada a sudoeste.`,
+      }},
+      { name: 'Plaza del Castillo & Café Iruña', emoji: '☕', petFriendly: true, desc: {
+        fr: `Place centrale de Pampelune, dominée par le Café Iruña Belle Époque (1888) où Hemingway écrivit. Terrasse iconique, chiens en laisse admis sur la place et au café extérieur.`,
+        en: `Pamplona's central square, dominated by the Belle Époque Café Iruña (1888) where Hemingway wrote. Iconic terrace, leashed dogs welcome on the square and outdoor café.`,
+        es: `Plaza central de Pamplona, dominada por el Belle Époque Café Iruña (1888) donde Hemingway escribió. Terraza icónica, perros con correa admitidos en la plaza y café exterior.`,
+        pt: `Praça central de Pamplona, dominada pelo Café Iruña Belle Époque (1888) onde Hemingway escreveu. Esplanada icónica, cães com trela admitidos na praça e café exterior.`,
+      }},
+      { name: 'Río Arga Greenway', emoji: '🌳', petFriendly: true, desc: {
+        fr: `11 km de voie verte sans voiture le long du fleuve Arga autour du centre historique. Plate, ombragée, avec trois ponts médiévaux. La promenade canine quotidienne des Pamplonais.`,
+        en: `11 km of car-free greenway along the Arga river around the old town. Flat, shaded, with three medieval bridges. The Pamploneses' daily dog walk.`,
+        es: `11 km de carril verde sin coches a lo largo del río Arga rodeando el casco antiguo. Llano, sombreado, con tres puentes medievales. El paseo canino diario de los pamploneses.`,
+        pt: `11 km de ecovia sem carros ao longo do rio Arga em redor do centro histórico. Plana, sombreada, com três pontes medievais. O passeio canino diário dos pamplonenses.`,
+      }},
+      { name: 'Cathedral of Pamplona', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Cathédrale gothique tardive (XIV-XVe s.) avec façade néoclassique (1799). Chiens interdits à l'intérieur (sauf chiens d'assistance), mais la Plaza Santa María alentour est accessible.`,
+        en: `Late Gothic cathedral (14th-15th c.) with Neoclassical façade (1799). Dogs not allowed inside (except assistance dogs), but the surrounding Plaza Santa María is accessible.`,
+        es: `Catedral del gótico tardío (s. XIV-XV) con fachada neoclásica (1799). No se admiten perros en el interior (salvo perros de asistencia), pero la Plaza Santa María alrededor sí.`,
+        pt: `Catedral do gótico tardio (séc. XIV-XV) com fachada neoclássica (1799). Cães proibidos no interior (exceto cães de assistência), mas a Plaza Santa María em redor é acessível.`,
+      }},
+      { name: 'Calle Estafeta (San Fermines bull-run street)', emoji: '🐂', petFriendly: true, desc: {
+        fr: `Rue piétonne de 500 m où passe l'encierro chaque matin du 7 au 14 juillet. Hors festival, c'est la plus dense rue de pintxos de Pampelune avec 20+ bars en 400 m. Chiens en laisse bienvenus toute l'année hors San Fermines.`,
+        en: `500 m pedestrian street where the encierro bull-run passes each morning 7-14 July. Outside the festival, it is Pamplona's densest pintxo street with 20+ bars in 400 m. Leashed dogs welcome year-round except during San Fermines.`,
+        es: `Calle peatonal de 500 m por donde pasa el encierro cada mañana del 7 al 14 julio. Fuera de las fiestas, es la calle de pintxos más densa de Pamplona con 20+ bares en 400 m. Perros con correa bienvenidos todo el año excepto San Fermines.`,
+        pt: `Rua pedonal de 500 m por onde passa o encierro todas as manhãs de 7 a 14 de julho. Fora da festa, é a rua de pintxos mais densa de Pamplona com mais de 20 bares em 400 m. Cães com trela bem-vindos o ano inteiro exceto San Fermines.`,
+      }},
+      { name: 'Yamaguchi Japanese Park', emoji: '🌸', petFriendly: true, desc: {
+        fr: `Parc d'inspiration japonaise (1997) en partenariat avec la ville jumelle Yamaguchi (Japon). 8,5 ha de cerisiers, bassin koï, colline-observatoire. Chiens en laisse admis.`,
+        en: `Japanese-inspired park (1997) in partnership with twin-city Yamaguchi (Japan). 8.5 ha of cherry trees, koi pond, observatory hill. Leashed dogs welcome.`,
+        es: `Parque de inspiración japonesa (1997) en colaboración con la ciudad hermana Yamaguchi (Japón). 8,5 ha de cerezos, estanque koi, colina-observatorio. Perros con correa admitidos.`,
+        pt: `Parque de inspiração japonesa (1997) em parceria com a cidade gémea Yamaguchi (Japão). 8,5 ha de cerejeiras, lago koi, colina-observatório. Cães com trela admitidos.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La culture pintxo navarraise est massivement dog-friendly en terrasse — bars et tavernes acceptent par défaut.`,
+        `Le parc de la Citadelle (28 ha) en plein centre est l'incontournable — zone clôturée sans laisse au sud-ouest.`,
+        `Évitez les San Fermines (6-14 juillet) avec un chien : 1M+ visiteurs, feux d'artifice chaque nuit, rues fermées, niveau sonore constant 80-90 dB.`,
+        `Climat estival doux (22°C de moyenne juillet-août) — bien plus confortable que Madrid/Barcelone pour les chiens.`,
+        `Le Camino de Santiago français traverse Pampelune — les pèlerins avec chien y dorment souvent 1-2 nuits ; albergues pet-friendly existent.`,
+      ],
+      en: [
+        `Navarrese pintxo culture is massively dog-friendly on terraces — bars and tavernas accept by default.`,
+        `The 28-ha Citadel park in the city centre is the must — fenced off-leash zone in the south-west.`,
+        `Avoid San Fermines (6-14 July) with a dog: 1M+ visitors, fireworks every night, closed streets, 80-90 dB constant noise.`,
+        `Mild summer climate (22°C July-August average) — far more comfortable than Madrid/Barcelona for dogs.`,
+        `The Camino de Santiago French route crosses Pamplona — pilgrims with dogs commonly stay 1-2 nights; pet-friendly albergues exist.`,
+      ],
+      es: [
+        `La cultura de pintxos navarra es masivamente dog-friendly en terraza — bares y tabernas admiten por defecto.`,
+        `El parque de la Ciudadela (28 ha) en pleno centro es imprescindible — zona vallada sin correa al suroeste.`,
+        `Evita San Fermines (6-14 julio) con perro: 1M+ visitantes, fuegos artificiales cada noche, calles cerradas, nivel de ruido constante 80-90 dB.`,
+        `Clima estival suave (22°C de media julio-agosto) — mucho más confortable que Madrid/Barcelona para perros.`,
+        `El Camino de Santiago francés atraviesa Pamplona — los peregrinos con perro suelen dormir 1-2 noches; existen albergues pet-friendly.`,
+      ],
+      pt: [
+        `A cultura de pintxos navarra é massivamente pet-friendly em esplanada — bares e tabernas aceitam por defeito.`,
+        `O parque da Cidadela (28 ha) em pleno centro é imprescindível — zona vedada sem trela a sudoeste.`,
+        `Evite San Fermines (6-14 julho) com cão: 1M+ visitantes, fogos de artifício todas as noites, ruas fechadas, nível de ruído constante 80-90 dB.`,
+        `Clima estival suave (22°C de média julho-agosto) — muito mais confortável que Madrid/Barcelona para cães.`,
+        `O Caminho de Santiago francês atravessa Pamplona — os peregrinos com cão pernoitam aqui 1-2 noites; existem albergues pet-friendly.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Hospital Veterinario UCV Pamplona, Polígono Mutilva Baja, +34 948 23 03 03`,
+        `Cabinet de jour central : Clínica Veterinaria Iruña Centro, Calle Olite 7, +34 948 22 87 90`,
+        `Renfe Alvia depuis Madrid Chamartín : 3h directs ; nouveau AVE Madrid-Pampelune (2024) en 1h45.`,
+        `Aéroport Pampelune PNA à 7 km au sud — bus 16 toutes les 30 min (1,30 €), taxi forfait 15 €. Bilbao BIO (1h30 bus) offre meilleur accès international.`,
+      ],
+      en: [
+        `24/7 emergency vet: Hospital Veterinario UCV Pamplona, Polígono Mutilva Baja, +34 948 23 03 03`,
+        `Central daytime clinic: Clínica Veterinaria Iruña Centro, Calle Olite 7, +34 948 22 87 90`,
+        `Renfe Alvia from Madrid Chamartín: 3h direct; new Madrid-Pamplona AVE (2024) in 1h45.`,
+        `Pamplona PNA airport 7 km south — bus 16 every 30 min (1.30 EUR), taxi 15 EUR fixed. Bilbao BIO (1h30 by bus) offers better international access.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Hospital Veterinario UCV Pamplona, Polígono Mutilva Baja, +34 948 23 03 03`,
+        `Clínica diurna céntrica: Clínica Veterinaria Iruña Centro, Calle Olite 7, +34 948 22 87 90`,
+        `Renfe Alvia desde Madrid Chamartín: 3h directos; nuevo AVE Madrid-Pamplona (2024) en 1h45.`,
+        `Aeropuerto Pamplona PNA a 7 km al sur — bus 16 cada 30 min (1,30 €), taxi 15 € fijo. Bilbao BIO (1h30 en bus) ofrece mejor acceso internacional.`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h: Hospital Veterinario UCV Pamplona, Polígono Mutilva Baja, +34 948 23 03 03`,
+        `Clínica diurna central: Clínica Veterinaria Iruña Centro, Calle Olite 7, +34 948 22 87 90`,
+        `Renfe Alvia a partir de Madrid Chamartín: 3h diretos; novo AVE Madrid-Pamplona (2024) em 1h45.`,
+        `Aeroporto Pamplona PNA a 7 km a sul — autocarro 16 a cada 30 min (1,30 €), táxi 15 € fixo. Bilbau BIO (1h30 de autocarro) oferece melhor acesso internacional.`,
+      ],
+    },
+  },
+
   paris: {
     history: {
       fr: `Paris est une ville de chien — et les Parisiens le savent depuis toujours. On compte aujourd'hui plus de 500 000 chiens dans la capitale, soit un pour huit habitants. Cette relation ancienne entre Paris et ses animaux remonte aux cafés du XVIIIe siècle, où les chiens accompagnaient leurs maîtres sur les banquettes. La ville a beau être la plus visitée au monde, elle conserve cette culture de proximité : les chiens sont admis dans la plupart des brasseries, dans les boutiques, dans les jardins sans laisse désignés. Le Bois de Boulogne (846 ha) et le Bois de Vincennes (995 ha) constituent deux poumons verts immenses, parcourus chaque matin par des milliers de chiens em liberté.`,

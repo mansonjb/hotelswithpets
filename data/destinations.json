@@ -2128,6 +2128,80 @@
     }
   },
   {
+    "slug": "cascais",
+    "name": "Cascais",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cascais.jpg",
+    "intro": "Cascais — Lisbon's elegant coastal escape — combines a marina-fronted old town with abundant dog-friendly terraces, the eighteen-hectare Parque Marechal Carmona, the three-kilometre Paredão promenade to Estoril, the dramatic Boca do Inferno cliff walk, and the wild Atlantic dune beaches of the Sintra-Cascais Natural Park.",
+    "lat": 38.6968,
+    "lng": -9.4215,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & breezy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "coimbra",
     "name": "Coimbra",
     "country": "Portugal",

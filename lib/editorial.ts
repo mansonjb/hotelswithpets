@@ -166,6 +166,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
       area: 'Le Suquet (the old town), the Marché Forville quarter, and La Bocca',
     },
+    cascais: {
+      personality: `Lisbon's elegant coastal escape, where almost every marina terrace serves water bowls without being asked and the seafront Paredão promenade fills with dogs at sunset`,
+      highlight: 'the Parque Marechal Carmona shaded park, the Boca do Inferno cliff walk, and the wild Atlantic dune trails of Guincho and Cresmina',
+      area: 'the historic centre around Largo Luís de Camões, the marina district, and the Birre quarter near the natural park',
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -809,6 +814,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
       area: 'Le Suquet (la vieille ville), le quartier du Marché Forville et La Bocca',
     },
+    cascais: {
+      personality: `l'évasion côtière élégante de Lisbonne, où presque toutes les terrasses de la marina servent une gamelle d'eau sans qu'on le demande et où la promenade en bord de mer du Paredão se remplit de chiens au coucher du soleil`,
+      highlight: 'le parc ombragé Marechal Carmona, le sentier de falaise de Boca do Inferno et les plages sauvages des dunes atlantiques de Guincho et Cresmina',
+      area: 'le centre historique autour du Largo Luís de Camões, le quartier de la marina et le quartier de Birre près du parc naturel',
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -1450,6 +1460,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'una glamurosa ciudad de la Costa Azul con una cultura canina sorprendentemente relajada — las terrazas de Le Suquet, el barrio del Marché Forville y las playas occidentales acogen perros durante todo el año',
       highlight: 'la Île Sainte-Marguerite boscosa, la Plage de la Bocca y los callejones adoquinados de Le Suquet',
       area: 'Le Suquet (el casco antiguo), el barrio del Marché Forville y La Bocca',
+    },
+    cascais: {
+      personality: `la elegante escapada costera de Lisboa, donde casi todas las terrazas del puerto sirven un cuenco de agua sin pedirlo y el paseo marítimo del Paredão se llena de perros al atardecer`,
+      highlight: 'el parque sombreado Marechal Carmona, el sendero del acantilado de Boca do Inferno y las playas salvajes de las dunas atlánticas de Guincho y Cresmina',
+      area: 'el casco histórico alrededor del Largo Luís de Camões, el barrio del puerto y el barrio de Birre cerca del parque natural',
     },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',

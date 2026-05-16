@@ -4511,6 +4511,131 @@
     "petPolicyPt": "Le Cavendish Boutique Hotel é um genuinely animal-welcoming address com sem suplemento animal. Cães e gatos são accepted até 20 kg. O hotel é housed em um Belle Époque building one block do Croisette, e o intimate size means animais são treated as hóspedes. Um bem-vindos treat é fornecido em chegada. animais may accompany hóspedes no outdoor terrace e no lobby lounge. Morning walks para o Allées de la Liberté e o old port start do front porta."
   },
   {
+    "id": "cascais-1",
+    "name": "Pestana Cidadela Cascais - Pousada & Art District",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2540,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-de-cascais.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Pestana Cidadela Cascais — a 5-star pousada inside Cascais's restored 16th-century coastal fortress — welcomes one dog or cat up to 15 kg in select Classic Rooms and Junior Suites within the Art District wing for a fee of 30 € per pet per night. Leashed pets allowed in the outdoor courtyards and ramparts that wrap the property; not permitted in the main pool, spa or restaurant interior. Marina at the doorstep, Praia da Rainha 4 minutes on foot.",
+    "highlights": [
+      "Inside historic fortress",
+      "Marina-front location",
+      "Pet-friendly outdoor courtyards"
+    ],
+    "slug": "pestana-cidadela-cascais"
+  },
+  {
+    "id": "cascais-2",
+    "name": "The Albatroz Hotel",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1320,
+    "priceFrom": 270,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/albatroz.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "The Albatroz Hotel — a 5-star clifftop palace built in 1873 above Praia da Conceição — welcomes one pet up to 7 kg per room for a fee of 30 € per night. Leashed pets allowed in lobbies, garden terraces and the seaside walking path; pool deck and indoor restaurants off-limits. Direct access to the Paredão promenade and Cascais marina, 6 minutes on foot to Largo Luís de Camões.",
+    "highlights": [
+      "Clifftop sea views",
+      "Direct Paredão access",
+      "Heated outdoor pool"
+    ],
+    "slug": "the-albatroz-hotel"
+  },
+  {
+    "id": "cascais-3",
+    "name": "Hotel Cascais Miragem Health & Spa",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 4180,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/cascais-miragem-health-spa.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Cascais Miragem — a large 5-star seafront resort hotel between Cascais and Estoril — accepts one dog under 10 kg in designated rooms for a fee of 25 € per night. Cats accepted on prior request. Pets not allowed on the third floor or in common areas including pool and spa. The Paredão promenade runs directly past the hotel, 12 minutes on foot to Cascais marina.",
+    "highlights": [
+      "Direct seafront",
+      "Health spa",
+      "On the Paredão promenade"
+    ],
+    "slug": "hotel-cascais-miragem-health-spa"
+  },
+  {
+    "id": "cascais-4",
+    "name": "Casa Vela Boutique House & SPA",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1490,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-vela-charm-guesthouse.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Casa Vela Boutique House & SPA — a charm boutique guesthouse in the residential Birre quarter close to Guincho — welcomes one dog up to 30 kg per room, plus cats, for an extra 25 € per night. Lush botanical gardens, an outdoor heated pool and a Finnish sauna in the spa; leashed pets allowed across all outdoor areas. 12 minutes by car from the historic centre, 8 minutes from Praia do Guincho.",
+    "highlights": [
+      "Dogs up to 30 kg welcome",
+      "Botanical gardens",
+      "Outdoor heated pool"
+    ],
+    "slug": "casa-vela-boutique-house"
+  },
+  {
+    "id": "cascais-5",
+    "name": "Vila Bicuda Resort",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1080,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/quinta-da-marinha-villas-golf-resort.en-gb.html",
+    "petFee": 30,
+    "petPolicy": "Vila Bicuda Resort — a 4-star villa and apartment resort set in pine woods between Cascais centre and Praia do Guincho — welcomes pets for an extra fee of 30 € per night. Self-catering studios, one- and two-bedroom villas with private terraces; pets allowed across the resort grounds on a leash. The natural park trails are at the doorstep, 10 minutes by car from the historic centre.",
+    "highlights": [
+      "Self-catering villas",
+      "Natural park trails on doorstep",
+      "Family-friendly resort"
+    ],
+    "slug": "vila-bicuda-resort"
+  },
+  {
     "id": "coimbra-1",
     "name": "Quinta das Lágrimas",
     "destinationSlug": "coimbra",

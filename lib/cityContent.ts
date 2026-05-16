@@ -3715,6 +3715,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cascais: {
+    history: {
+      fr: `Cascais s'étend sur la pointe sud de la côte d'Estoril, à 30 km à l'ouest de Lisbonne. Ancien village de pêcheurs dont les rois portugais firent leur villégiature de cour à partir de 1870, elle devint dans les années 1940 le refuge de l'aristocratie européenne fuyant la Seconde Guerre mondiale — d'Umberto II d'Italie au duc de Windsor. La ville compte aujourd'hui environ 215 000 habitants dans la municipalité (centre historique d'à peine 35 000) et reste l'une des destinations balnéaires les plus prisées du Portugal. Côté chiens, Cascais combine un règlement municipal strict (laisse obligatoire dans tous les parcs urbains, plages concédées interdites du 1er mai au 30 septembre, amendes de 100 à 600 €) avec une vraie culture de tolérance : terrasses dog-friendly autour de la marina et du Largo Luís de Camões, fontaines à eau le long du Paredão, et trois services vétérinaires 24h/24 dans les limites de la commune. Les chiens des huit catégories légalement classées dangereuses (Pit Bull, Rottweiler, Fila Brasileiro et autres) sont interdits sur la Linha de Cascais et les bus régionaux.`,
+      en: `Cascais sits at the southern tip of the Estoril coast, 30 km west of Lisbon. A fishing village turned royal summer retreat after 1870, it became the refuge of European aristocracy fleeing World War II in the 1940s — from King Umberto II of Italy to the Duke of Windsor. The city now counts roughly 215,000 inhabitants in the municipality (the historic centre proper barely 35,000) and remains one of Portugal's most prized seaside destinations. On dogs, Cascais combines a strict municipal code (leashes required in every urban park, concessioned beaches closed to dogs from 1 May to 30 September, fines from 100 to 600 euros) with a genuinely tolerant culture: dog-friendly terraces around the marina and Largo Luís de Camões, water fountains along the Paredão promenade, and three 24-hour veterinary services inside city limits. The eight legally restricted breed categories (Pit Bull, Rottweiler, Fila Brasileiro and others) are banned from the Cascais commuter line and regional buses.`,
+      es: `Cascais se asienta en la punta sur de la costa de Estoril, 30 km al oeste de Lisboa. Antiguo pueblo pesquero convertido en retiro veraniego real desde 1870, en los años 40 se convirtió en refugio de la aristocracia europea que huía de la Segunda Guerra Mundial — del rey Umberto II de Italia al duque de Windsor. La ciudad cuenta hoy con unos 215.000 habitantes en el municipio (el centro histórico propiamente dicho apenas 35.000) y sigue siendo uno de los destinos costeros más codiciados de Portugal. En cuanto a los perros, Cascais combina un código municipal estricto (correa obligatoria en todos los parques urbanos, playas concesionadas vetadas del 1 de mayo al 30 de septiembre, multas de 100 a 600 euros) con una cultura genuinamente tolerante: terrazas pet-friendly alrededor del puerto y del Largo Luís de Camões, fuentes de agua a lo largo del Paredão y tres servicios veterinarios 24 horas dentro del término municipal. Las ocho categorías de razas legalmente restringidas (Pit Bull, Rottweiler, Fila Brasileiro y otras) están prohibidas en la Linha de Cascais y los autobuses regionales.`,
+      pt: `Cascais asenta-se na punta sul da costa de Estoril, 30 km a oeste de Lisboa. Antigo povo pesquero convertido em retiro estival real desde 1870, nos anos 40 tornou-se em refúgio da aristocracia europeia que fugia da Segunda Guerra Mundial — do rei Umberto II de Itália ao duque de Windsor. A cidade conta hoje com uns 215.000 habitantes no município (o centro histórico propriamente dito apenas 35.000) e segue a ser um dos destinos costeros mais codiciados de Portugal. Em quanto aos cães, Cascais combina um código municipal estricto (trela obrigatória em todos os parques urbanos, praias concesionadas vetadas do 1 de maio ao 30 de setembro, multas de 100 a 600 euros) com uma cultura genuinamente tolerante: esplanadas pet-friendly alrededor do porto e do Largo Luís de Camões, fuentes de água a o longo do Paredão e três serviços veterinários 24 horas dentro do término municipal. As oito categorias de raças legalmente restringidas (Pit Bull, Rottweiler, Fila Brasileiro e outras) estão prohibidas na Linha de Cascais e nos autocarros regionais.`,
+    },
+    sights: [
+      {
+        name: 'Parque Marechal Carmona',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Dix-huit hectares de jardins aristocratiques transformés en parc public au cœur de Cascais, avec étangs aux canards, paons en liberté, pinèdes centenaires et le palais Castro Guimarães. Laisse obligatoire ; entrée libre tous les jours sauf le lundi.`,
+          en: `Eighteen hectares of former aristocratic gardens turned into a public park in central Cascais, with duck ponds, free-roaming peacocks, century-old pines and the Castro Guimarães palace. Leash required; open every day except Monday.`,
+          es: `Dieciocho hectáreas de antiguos jardines aristocráticos transformados en parque público en pleno centro de Cascais, con estanques de patos, pavos reales en libertad, pinares centenarios y el palacio Castro Guimarães. Correa obligatoria; entrada libre todos los días excepto el lunes.`,
+          pt: `Dezoito hectares de antigos jardins aristocráticos transformados em parque público em pleno centro de Cascais, com estanques de patos, pavões reais em libertade, pinhares centenários e o palácio Castro Guimarães. Trela obrigatória; entrada livre todos os dias excepto a segunda-feira.`,
+        },
+      },
+      {
+        name: 'Paredão Cascais-Estoril',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade plate en bord de mer de trois kilomètres reliant la marina de Cascais au casino d'Estoril, longeant l'Atlantique sur tout le parcours. Laisse obligatoire ; fontaines à eau régulières ; pas d'ombre entre 11h et 17h en été.`,
+          en: `Three-kilometre flat seafront promenade linking Cascais marina to Estoril casino, hugging the Atlantic the whole way. Leash required; periodic water fountains; no shade between 11:00 and 17:00 in summer.`,
+          es: `Paseo marítimo plano de tres kilómetros que une el puerto de Cascais con el casino de Estoril, junto al Atlántico todo el recorrido. Correa obligatoria; fuentes de agua periódicas; sin sombra entre las 11:00 y las 17:00 en verano.`,
+          pt: `Passeio marítimo plano de três quilómetros que une o porto de Cascais com o casino de Estoril, junto ao Atlântico todo o percurso. Trela obrigatória; fuentes de água periódicas; sem sombra entre as 11:00 e as 17:00 em verão.`,
+        },
+      },
+      {
+        name: 'Boca do Inferno',
+        emoji: '🌬️',
+        petFriendly: true,
+        desc: {
+          fr: `Spectaculaire arche marine et gouffre où la houle atlantique s'engouffre dans une grotte partiellement effondrée, à 1,5 km à l'ouest de la marina. Sentier asphalté avec plateformes panoramiques, accessible aux chiens en laisse ; rambardes basses sur les bords.`,
+          en: `Spectacular sea arch and blowhole where Atlantic swells crash into a partially-collapsed cave, 1.5 km west of the marina. Paved trail with viewing platforms, leashed dogs welcome; low railings on the cliff edges.`,
+          es: `Espectacular arco marino y bufadero donde el oleaje atlántico se cuela en una cueva parcialmente derruida, a 1,5 km al oeste del puerto. Sendero asfaltado con plataformas panorámicas, perros con correa admitidos; barandillas bajas en los bordes.`,
+          pt: `Espectacular arco marinho e bufadero onde o oleaje atlántico se cuela numa caverna parcialmente desmoronada, a 1,5 km a oeste do porto. Sendero asfaltado com plataformas panorâmicas, cães com trela admitidos; balaustradas baixas nos bordes.`,
+        },
+      },
+      {
+        name: 'Cidadela de Cascais',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse côtière du XVIᵉ siècle restaurée en complexe culturel avec galeries d'art, l'hôtel Pestana Pousada et un restaurant en cour. Remparts, chemins de bastion et place centrale en accès libre ; chiens en laisse acceptés en extérieur.`,
+          en: `16th-century coastal fortress restored as a cultural complex with art galleries, the Pestana Pousada hotel and a courtyard restaurant. Ramparts, bastion walks and central square freely accessible; leashed dogs welcome outdoors.`,
+          es: `Fortaleza costera del siglo XVI restaurada como complejo cultural con galerías de arte, el hotel Pestana Pousada y un restaurante en el patio. Murallas, caminos de los bastiones y plaza central de acceso libre; perros con correa admitidos en exteriores.`,
+          pt: `Fortaleza costera do século XVI restaurada como complexo cultural com galerías de arte, o hotel Pestana Pousada e um restaurante no pátio. Murallas, caminhos dos bastiones e plaza central de acesso libre; cães com trela admitidos em exteriores.`,
+        },
+      },
+      {
+        name: 'Praia do Guincho',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Vaste plage de surf atlantique dans le Parc Naturel Sintra-Cascais, à 9 km au nord-ouest, célèbre pour son vent. Les bouts non concédés (nord et sud) acceptent les chiens en laisse toute l'année ; les sections concédées les interdisent du 1er mai au 30 septembre.`,
+          en: `Vast Atlantic surf beach inside the Sintra-Cascais Natural Park, 9 km north-west, famous for its wind. The unconcessioned northern and southern ends accept leashed dogs year-round; concessioned sections ban dogs from 1 May to 30 September.`,
+          es: `Amplia playa de surf atlántica dentro del Parque Natural Sintra-Cascais, a 9 km al noroeste, célebre por su viento. Los extremos no concesionados (norte y sur) admiten perros con correa todo el año; las secciones concesionadas los prohíben del 1 de mayo al 30 de septiembre.`,
+          pt: `Ampla praia de surf atlântica dentro do Parque Natural Sintra-Cascais, a 9 km a noroeste, célebre pelo seu vento. Os extremos não concesionados (norte e sul) admitem cães com trela o ano inteiro; as secções concesionadas os prohíben do 1 de maio ao 30 de setembro.`,
+        },
+      },
+      {
+        name: 'Farol de Santa Marta',
+        emoji: '🚨',
+        petFriendly: true,
+        desc: {
+          fr: `Phare rayé bleu et blanc perché sur les rochers derrière la Praia da Conceição, avec musée adjacent et petit jardin spectaculaire en bord de falaise. Jardin extérieur et sentier de falaise accessibles aux chiens en laisse ; intérieur du musée interdit.`,
+          en: `Striped blue-and-white lighthouse perched on the rocks behind Praia da Conceição, with adjacent museum and a small but spectacular cliff-edge garden. Outdoor garden and cliff path accessible to leashed dogs; museum interior not permitted.`,
+          es: `Faro a rayas azules y blancas encaramado a las rocas detrás de la Praia da Conceição, con museo anexo y un pequeño jardín espectacular al borde del acantilado. Jardín exterior y sendero del acantilado accesibles a perros con correa; interior del museo no permitido.`,
+          pt: `Farol a rayas azules e blancas encaramado às rocas atrás da Praia da Conceição, com museu anexo e um pequeno jardim espectacular ao borde do acantilado. Jardim exterior e sendero do acantilado acessíveis a cães com trela; interior do museu não permitido.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règlement municipal : laisse obligatoire de 2 m maximum dans tous les parcs urbains, jardins et sur le Paredão ; muselière exigée uniquement pour les huit races classées dangereuses.`,
+        `Plages concédées (avec maîtres-nageurs et transats) interdites aux chiens du 1er mai au 30 septembre 2026 ; criques non concédées comme Praia da Cresmina ouvertes toute l'année.`,
+        `Bolt et Uber proposent un filtre « Pet » dans tout le Grand Lisbonne ; supplément nettoyage de 1–2 €, refus rare au moment de monter.`,
+        `Trois cliniques 24h/24 dans la commune : CASVET (Parede) +351 214 663 117, Vet-24 (Mareantes) +351 214 847 925, AlcabidecheVet (urgences) +351 962 894 947.`,
+        `Le bitume du Paredão et les pavés du Largo Luís de Camões dépassent 50 °C en pleine après-midi d'août — privilégiez les balades à l'aube ou après 19h.`,
+      ],
+      en: [
+        `Municipal rule: maximum 2 m leash required in every urban park, garden and on the Paredão; muzzle only mandatory for the eight legally listed dangerous breeds.`,
+        `Concessioned beaches (with lifeguards and rental sunbeds) ban dogs from 1 May to 30 September 2026; non-concessioned coves like Praia da Cresmina open year-round.`,
+        `Bolt and Uber both have a "Pet" filter across greater Lisbon; €1–2 cleaning surcharge, refusals at the curb are rare.`,
+        `Three 24-hour clinics inside the municipality: CASVET (Parede) +351 214 663 117, Vet-24 (Mareantes) +351 214 847 925, AlcabidecheVet emergency line +351 962 894 947.`,
+        `Paredão asphalt and Largo Luís de Camões cobbles exceed 50 °C on August afternoons — schedule walks at dawn or after 19:00.`,
+      ],
+      es: [
+        `Norma municipal: correa máxima de 2 m obligatoria en todos los parques urbanos, jardines y en el Paredão; bozal solo obligatorio para las ocho razas legalmente listadas como peligrosas.`,
+        `Las playas concesionadas (con socorristas y hamacas de alquiler) prohíben perros del 1 de mayo al 30 de septiembre de 2026; las calas no concesionadas como Praia da Cresmina siguen abiertas todo el año.`,
+        `Bolt y Uber tienen ambos un filtro «Pet» en todo el Gran Lisboa; suplemento de limpieza de 1–2 €, los rechazos al subir son raros.`,
+        `Tres clínicas 24 horas dentro del municipio: CASVET (Parede) +351 214 663 117, Vet-24 (Mareantes) +351 214 847 925, línea de urgencias AlcabidecheVet +351 962 894 947.`,
+        `El asfalto del Paredão y los adoquines del Largo Luís de Camões superan los 50 °C en las tardes de agosto — programa los paseos al amanecer o después de las 19:00.`,
+      ],
+      pt: [
+        `Norma municipal: trela máxima de 2 m obrigatória em todos os parques urbanos, jardins e no Paredão; bozal só obrigatório para as oito raças legalmente listadas como peligrosas.`,
+        `As praias concesionadas (com socorristas e hamacas de aluguer) prohíben cães do 1 de maio ao 30 de setembro de 2026; as calas não concesionadas como Praia da Cresmina seguem abertas o ano inteiro.`,
+        `Bolt e Uber têm ambos um filtro «Pet» em toda a Grande Lisboa; suplemento de limpeza de 1–2 €, as recusas ao subir são raras.`,
+        `Três clínicas 24 horas dentro do município: CASVET (Parede) +351 214 663 117, Vet-24 (Mareantes) +351 214 847 925, linha de urgências AlcabidecheVet +351 962 894 947.`,
+        `O asfalto do Paredão e os adoquines do Largo Luís de Camões superan os 50 °C nas tardes de agosto — programa os passeios ao amanecer o depois das 19:00.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : train CP Linha de Cascais depuis Lisboa Cais do Sodré (40 min, deux par heure), chiens gratuits en cage ou en laisse courte avec muselière et carnet de vaccination.`,
+        `Vétérinaires : trois services 24h/24 dans la commune, dont CASVET (OneVet) à Parede, à 8 minutes en Bolt du centre.`,
+        `Documents : passeport européen, puce ISO, vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) émis moins de 10 jours avant le voyage pour les visiteurs hors UE (Royaume-Uni inclus depuis le Brexit).`,
+        `Pet-sitting : Pawshake, PetBacker et TrustedHousesitters couvrent largement la commune — comptez 15–25 € la visite et 25–40 € la journée de garde.`,
+        `Climat : étés doux 23–27 °C très ventés sur la côte, hivers doux 14–16 °C pluvieux ; risque réel de tiques et puces sur les sentiers côtiers d'avril à octobre.`,
+      ],
+      en: [
+        `How to arrive: CP Cascais commuter train from Lisboa Cais do Sodré (40 min, twice an hour), dogs free in a carrier or on a short leash with muzzle and vaccination booklet.`,
+        `Vets: three 24-hour services within the municipality, including CASVET (OneVet) in Parede, 8 minutes by Bolt from central Cascais.`,
+        `Documents: EU pet passport, ISO microchip, rabies vaccination at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days of travel for non-EU visitors (UK included post-Brexit).`,
+        `Pet-sitting: Pawshake, PetBacker and TrustedHousesitters cover the municipality well — expect €15–25 per visit and €25–40 per full day.`,
+        `Climate: mild summers 23–27 °C with strong coastal winds, mild winters 14–16 °C with rain; real tick and flea pressure on the coastal trails from April to October.`,
+      ],
+      es: [
+        `Cómo llegar: tren CP Linha de Cascais desde Lisboa Cais do Sodré (40 min, dos por hora), perros gratis en transportín o con correa corta, bozal y cartilla de vacunación.`,
+        `Veterinarios: tres servicios 24 horas dentro del municipio, incluido CASVET (OneVet) en Parede, a 8 minutos en Bolt del centro de Cascais.`,
+        `Documentos: pasaporte europeo, microchip ISO, vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos al viaje para visitantes de fuera de la UE (Reino Unido incluido tras el Brexit).`,
+        `Pet-sitting: Pawshake, PetBacker y TrustedHousesitters cubren bien el municipio — cuenta con 15–25 € por visita y 25–40 € por día completo.`,
+        `Clima: veranos suaves 23–27 °C con fuertes vientos costeros, inviernos suaves 14–16 °C con lluvia; presión real de garrapatas y pulgas en los senderos costeros de abril a octubre.`,
+      ],
+      pt: [
+        `Como chegar: comboio CP Linha de Cascais desde Lisboa Cais do Sodré (40 min, dois por hora), cães grátis em transportadora o com trela curta, bozal e cartilla de vacunação.`,
+        `Veterinários: três serviços 24 horas dentro do município, incluído CASVET (OneVet) em Parede, a 8 minutos em Bolt do centro de Cascais.`,
+        `Documentos: passaporte europeu, microchip ISO, vacuna antirrábica de al menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias previos ao viaje para visitantes de fuera da UE (Reino Unido incluido tras o Brexit).`,
+        `Pet-sitting: Pawshake, PetBacker e TrustedHousesitters cobrem bem o município — conta com 15–25 € por visita e 25–40 € por día completo.`,
+        `Clima: verões suaves 23–27 °C com fuertes ventos costeros, invernos suaves 14–16 °C com chuva; pressão real de garrapatas e pulgas nos trilhos costeros de abril a outubro.`,
+      ],
+    },
+  },
+
   cologne: {
     history: {
       fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires em règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,

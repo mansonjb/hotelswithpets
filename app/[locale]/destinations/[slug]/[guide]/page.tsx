@@ -411,6 +411,17 @@ export default async function GuideDetailPage({
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 192, height: 192 } },
   }
 
+  // FAQPage schema — boosts CTR + can trigger rich result with collapsible FAQ in SERP
+  const faqSchema = faqs.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  } : null
+
   const allezHref = buildAllezDestLink(dest.name, dest.country, `guide-${guide}`)
 
   // Format date locale-aware
@@ -423,6 +434,9 @@ export default async function GuideDetailPage({
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      {faqSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      )}
 
       {/* ── Hero ── */}
       <section className={`bg-gradient-to-br ${meta.gradient} text-white py-14`}>

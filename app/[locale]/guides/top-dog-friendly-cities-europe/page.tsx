@@ -3,12 +3,13 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import PetMap from '@/components/PetMap'
 
 const SLUG = 'top-dog-friendly-cities-europe'
 
@@ -167,7 +168,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
-        pt: `${SITE_URL}/é/guides/${SLUG}`,
+        pt: `${SITE_URL}/pt/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -186,15 +187,25 @@ const COPY: Record<string, {
   intro: { title: string; paras: string[] }
   methodology: { title: string; paras: string[] }
   rankingTitle: string
+  rankingSubtitle: string
   hotelsLabel: string
   guideLink: string
   bookOnBooking: string
+  bookHotelsInPrefix: string
+  viewMapPrefix: string
+  mapTitle: string
+  mapDesc: string
+  keywordChips: string[]
+  keywordChipsTitle: string
   faqTitle: string
   faqs: Array<{ q: string; a: string }>
   conclusion: { title: string; paras: string[] }
   ctaTitle: string
   ctaDesc: string
   ctaButton: string
+  bottomBookCtaTitle: string
+  bottomBookCtaDesc: string
+  bottomBookCtaButton: string
 }> = {
   en: {
     hero: { kicker: 'EUROPE\'S BEST DOG CITIES · 2026 EDITION', h1: 'Top 20 Most Dog-Friendly Cities in Europe', lede: 'After auditing 85 European destinations against five criteria — off-leash space, public transport rules, dog-beach access, veterinary coverage and hotel availability — these are the cities where travelling with a dog is genuinely easy. Updated for 2026.' },
@@ -211,9 +222,23 @@ const COPY: Record<string, {
       'Hotel availability was measured by counting Booking.com pet-friendly hotels rated 8.0+ within the city limits. Below 30 such hotels, a city dropped out of the top 20 regardless of its other scores.',
     ] },
     rankingTitle: 'The top 20 ranking',
+    rankingSubtitle: 'Each city links to live Booking.com prices for pet-friendly hotels — dog-friendly, cat-friendly, no pet fee, beach access, near parks and more.',
     hotelsLabel: 'Hotels',
     guideLink: 'Full city guide →',
-    bookOnBooking: 'Browse pet-friendly hotels',
+    bookOnBooking: 'Book pet-friendly hotels →',
+    bookHotelsInPrefix: 'Book pet-friendly hotels in',
+    viewMapPrefix: 'Hotel map',
+    mapTitle: 'Live map · pet-friendly hotels in Amsterdam (#1)',
+    mapDesc: 'Centered on Amsterdam, our #1 dog-friendly capital. Pan, zoom and click any marker to see live Booking.com prices, pet policies and free-cancellation availability. The map covers all 770+ pet-friendly hotels across our 129 European destinations.',
+    keywordChipsTitle: 'Popular pet-friendly hotel searches in 2026',
+    keywordChips: [
+      'Dog-friendly hotels Amsterdam', 'Pet-friendly hotels Berlin', 'Luxury dog hotels Paris',
+      'Cat-friendly hotels Vienna', 'Dogs stay free Copenhagen', 'Beach hotels Lisbon with dogs',
+      'Dog-friendly Munich beer gardens', 'Pet-friendly hotels Porto', 'Dog beaches Valencia',
+      'Pet-friendly hotels Prague', 'Hamburg dogs on ferries', 'Dog-friendly Edinburgh pubs',
+      'No pet fee hotels Belgrade', 'Helsinki off-leash zones', 'Reykjavik dog import rules',
+      'Antwerp Hondenlosloopzones', 'Salzburg lakes with dogs', 'Oslo Marka forest', 'Split Marjan hill', 'Zurich trains with dogs',
+    ],
     faqTitle: 'Frequently asked questions',
     faqs: [
       { q: 'Why isn\'t London on this list?', a: 'London ranks 22nd. The city has excellent infrastructure (Hyde Park, Hampstead Heath, the Thames Path), but it lost ground on the public-transport metric: dogs are banned on London buses and on Underground escalators, which makes large-dog logistics difficult. Edinburgh ranks higher partly because Scottish dog-rules are more uniform.' },
@@ -229,6 +254,9 @@ const COPY: Record<string, {
     ctaTitle: 'Plan your trip with our city guides',
     ctaDesc: 'Each of these 20 cities has a full pet-friendly guide with hotels, restaurants, parks, vets and a live Booking.com map.',
     ctaButton: 'See all destinations →',
+    bottomBookCtaTitle: 'Ready to book? Compare 770+ pet-friendly hotels',
+    bottomBookCtaDesc: 'Live prices and instant booking across Europe — Booking.com, Expedia, Hotels.com and more. Free cancellation on most properties, verified pet policies on every listing.',
+    bottomBookCtaButton: 'Search pet-friendly hotels →',
   },
   fr: {
     hero: { kicker: 'LES MEILLEURES VILLES CANINES D\'EUROPE · ÉDITION 2026', h1: 'Top 20 des villes européennes les plus dog-friendly', lede: 'Après avoir audité 85 destinations européennes selon cinq critères — espace sans laisse, règles transports publics, accès plages canines, couverture vétérinaire et disponibilité hôtels — voici les villes où voyager avec un chien est vraiment simple. Mis à jour pour 2026.' },
@@ -245,9 +273,23 @@ const COPY: Record<string, {
       'La disponibilité hôtelière a été mesurée en comptant les hôtels pet-friendly Booking.com notés 8,0+ dans la ville. En dessous de 30 hôtels, la ville sort du top 20 quels que soient ses autres scores.',
     ] },
     rankingTitle: 'Le classement Top 20',
+    rankingSubtitle: 'Chaque ville renvoie aux prix Booking.com en direct des hôtels pet-friendly — chiens acceptés, chats acceptés, sans supplément animaux, accès plage, proche parcs, et plus.',
     hotelsLabel: 'Hôtels',
     guideLink: 'Guide complet de la ville →',
-    bookOnBooking: 'Voir les hôtels pet-friendly',
+    bookOnBooking: 'Réserver hôtels pet-friendly →',
+    bookHotelsInPrefix: 'Réserver hôtels pet-friendly à',
+    viewMapPrefix: 'Carte des hôtels',
+    mapTitle: 'Carte en direct · hôtels pet-friendly à Amsterdam (n°1)',
+    mapDesc: 'Centrée sur Amsterdam, notre capitale dog-friendly n°1. Déplacez-vous, zoomez et cliquez sur un marqueur pour voir les prix Booking.com en direct, les politiques animaux et la disponibilité avec annulation gratuite. La carte couvre les 770+ hôtels pet-friendly de nos 129 destinations européennes.',
+    keywordChipsTitle: 'Recherches d\'hôtels pet-friendly populaires en 2026',
+    keywordChips: [
+      'Hôtels chiens Amsterdam', 'Hôtels pet-friendly Berlin', 'Hôtels luxe chiens Paris',
+      'Hôtels chats Vienne', 'Chiens gratuits Copenhague', 'Hôtels plage Lisbonne chiens',
+      'Munich biergartens chiens', 'Hôtels pet-friendly Porto', 'Plages chiens Valence',
+      'Hôtels pet-friendly Prague', 'Hambourg chiens en ferry', 'Édimbourg pubs chiens',
+      'Hôtels sans supplément Belgrade', 'Helsinki zones sans laisse', 'Reykjavík règles import animal',
+      'Anvers Hondenlosloopzones', 'Lacs Salzbourg chiens', 'Oslo forêt Marka', 'Colline Marjan Split', 'Zurich trains chiens',
+    ],
     faqTitle: 'Questions fréquentes',
     faqs: [
       { q: 'Pourquoi Londres n\'est-elle pas sur cette liste ?', a: 'Londres se classe 22e. La ville a une excellente infrastructure (Hyde Park, Hampstead Heath, le Thames Path), mais elle a perdu des points sur le critère transport : les chiens sont interdits dans les bus londoniens et sur les escalators du métro, ce qui rend la logistique des grands chiens difficile. Édimbourg se classe plus haut en partie parce que les règles canines écossaises sont plus uniformes.' },
@@ -263,6 +305,9 @@ const COPY: Record<string, {
     ctaTitle: 'Planifiez votre voyage avec nos guides ville',
     ctaDesc: 'Chacune de ces 20 villes dispose d\'un guide pet-friendly complet avec hôtels, restaurants, parcs, vétérinaires et carte Booking.com en direct.',
     ctaButton: 'Voir toutes les destinations →',
+    bottomBookCtaTitle: 'Prêt à réserver ? Comparez 770+ hôtels pet-friendly',
+    bottomBookCtaDesc: 'Prix en direct et réservation instantanée à travers l\'Europe — Booking.com, Expedia, Hotels.com et plus. Annulation gratuite sur la plupart des établissements, politiques animaux vérifiées sur chaque fiche.',
+    bottomBookCtaButton: 'Rechercher des hôtels pet-friendly →',
   },
   es: {
     hero: { kicker: 'LAS MEJORES CIUDADES CANINAS DE EUROPA · EDICIÓN 2026', h1: 'Top 20 ciudades más dog-friendly de Europa', lede: 'Después de auditar 85 destinos europeos según cinco criterios — espacio sin correa, normas de transporte público, acceso a playas caninas, cobertura veterinaria y disponibilidad de hoteles — estas son las ciudades donde viajar con un perro es genuinamente fácil. Actualizado para 2026.' },
@@ -279,9 +324,23 @@ const COPY: Record<string, {
       'La disponibilidad hotelera se midió contando hoteles pet-friendly Booking.com con valoración 8,0+ dentro de los límites de la ciudad. Por debajo de 30 hoteles, la ciudad salía del top 20 sin importar otras puntuaciones.',
     ] },
     rankingTitle: 'El ranking Top 20',
+    rankingSubtitle: 'Cada ciudad enlaza con precios Booking.com en vivo de hoteles pet-friendly — admiten perros, admiten gatos, sin cargo por mascota, acceso a playa, cerca de parques y más.',
     hotelsLabel: 'Hoteles',
     guideLink: 'Guía completa de la ciudad →',
-    bookOnBooking: 'Ver hoteles pet-friendly',
+    bookOnBooking: 'Reservar hoteles pet-friendly →',
+    bookHotelsInPrefix: 'Reservar hoteles pet-friendly en',
+    viewMapPrefix: 'Mapa de hoteles',
+    mapTitle: 'Mapa en vivo · hoteles pet-friendly en Ámsterdam (n.º 1)',
+    mapDesc: 'Centrado en Ámsterdam, nuestra capital dog-friendly n.º 1. Desplázate, haz zoom y haz clic en cualquier marcador para ver precios Booking.com en vivo, políticas de mascotas y disponibilidad con cancelación gratuita. El mapa cubre los 770+ hoteles pet-friendly de nuestros 129 destinos europeos.',
+    keywordChipsTitle: 'Búsquedas populares de hoteles pet-friendly en 2026',
+    keywordChips: [
+      'Hoteles perros Ámsterdam', 'Hoteles pet-friendly Berlín', 'Hoteles lujo perros París',
+      'Hoteles gatos Viena', 'Perros gratis Copenhague', 'Hoteles playa Lisboa perros',
+      'Múnich biergartens perros', 'Hoteles pet-friendly Oporto', 'Playas perros Valencia',
+      'Hoteles pet-friendly Praga', 'Hamburgo perros en ferri', 'Edimburgo pubs perros',
+      'Hoteles sin cargo Belgrado', 'Helsinki zonas sin correa', 'Reikiavik normas importación animal',
+      'Amberes Hondenlosloopzones', 'Lagos Salzburgo perros', 'Oslo bosque Marka', 'Colina Marjan Split', 'Zúrich trenes perros',
+    ],
     faqTitle: 'Preguntas frecuentes',
     faqs: [
       { q: '¿Por qué Londres no está en la lista?', a: 'Londres está en el puesto 22. La ciudad tiene una excelente infraestructura (Hyde Park, Hampstead Heath, el Thames Path), pero perdió puntos en el criterio de transporte: los perros están prohibidos en los autobuses de Londres y en las escaleras mecánicas del metro, lo que dificulta la logística de perros grandes. Edimburgo se clasifica más alto en parte porque las normas caninas escocesas son más uniformes.' },
@@ -297,6 +356,9 @@ const COPY: Record<string, {
     ctaTitle: 'Planea tu viaje con nuestras guías de ciudad',
     ctaDesc: 'Cada una de estas 20 ciudades tiene una guía pet-friendly completa con hoteles, restaurantes, parques, veterinarios y mapa Booking.com en vivo.',
     ctaButton: 'Ver todos los destinos →',
+    bottomBookCtaTitle: '¿Listo para reservar? Compara 770+ hoteles pet-friendly',
+    bottomBookCtaDesc: 'Precios en vivo y reserva instantánea por toda Europa — Booking.com, Expedia, Hotels.com y más. Cancelación gratuita en la mayoría de los establecimientos, políticas de mascotas verificadas en cada ficha.',
+    bottomBookCtaButton: 'Buscar hoteles pet-friendly →',
   },
   pt: {
     hero: { kicker: 'As MELHORES Cidades Caninas DE EUROPA · Edição 2026', h1: 'Top 20 cidades mais pet-friendly de Europa', lede: 'Depois de auditar 85 destinos europeus segundo cinco critérios — espaço sem trela, normas de transporte público, acesso a praias caninas, cobertura veterinária e disponibilidade de hotéis — estas são as cidades onde viajar com um cão é genuinamente fácil. Atualizado para 2026.' },
@@ -313,10 +375,24 @@ const COPY: Record<string, {
       'A disponibilidade hotelera foi medida a contar hotéis pet-friendly Booking.com com avaliação 8,0+ dentro dois limites da cidade. Por debajo de 30 hotéis, a cidade salía do top 20 sem importar otras pontuações.',
     ] },
     rankingTitle: 'O ranking Top 20',
+    rankingSubtitle: 'Cada cidade liga a preços Booking.com em direto de hotéis pet-friendly — aceitam cães, aceitam gatos, sem suplemento de animais, acesso à praia, perto de parques e mais.',
     hotelsLabel: 'Hotéis',
-    guideLink: 'Guía completa da cidade →',
-    bookOnBooking: 'Ver hotéis pet-friendly',
-    faqTitle: 'Preguntas frecuentes',
+    guideLink: 'Guia completo da cidade →',
+    bookOnBooking: 'Reservar hotéis pet-friendly →',
+    bookHotelsInPrefix: 'Reservar hotéis pet-friendly em',
+    viewMapPrefix: 'Mapa dos hotéis',
+    mapTitle: 'Mapa em direto · hotéis pet-friendly em Amesterdão (n.º 1)',
+    mapDesc: 'Centrado em Amesterdão, a nossa capital dog-friendly n.º 1. Desloque, faça zoom e clique em qualquer marcador para ver preços Booking.com em direto, políticas de animais e disponibilidade com cancelamento grátis. O mapa cobre os 770+ hotéis pet-friendly dos nossos 129 destinos europeus.',
+    keywordChipsTitle: 'Pesquisas populares de hotéis pet-friendly em 2026',
+    keywordChips: [
+      'Hotéis com cães Amesterdão', 'Hotéis pet-friendly Berlim', 'Hotéis luxo cães Paris',
+      'Hotéis gatos Viena', 'Cães grátis Copenhaga', 'Hotéis praia Lisboa com cães',
+      'Munique biergartens cães', 'Hotéis pet-friendly Porto', 'Praias cães Valência',
+      'Hotéis pet-friendly Praga', 'Hamburgo cães em ferry', 'Edimburgo pubs cães',
+      'Hotéis sem suplemento Belgrado', 'Helsínquia zonas sem trela', 'Reiquiavique regras importação animal',
+      'Antuérpia Hondenlosloopzones', 'Lagos Salzburgo cães', 'Oslo floresta Marka', 'Colina Marjan Split', 'Zurique comboios cães',
+    ],
+    faqTitle: 'Perguntas frequentes',
     faqs: [
       { q: 'Porquê Londres no está na lista?', a: 'Londres está no lugar 22. A cidade tem uma excelente infraestructura (Hyde Park, Hampstead Heath, o Thames Path), mas perdeu puntos no critério de transporte: os cães estão proibidos nos autocarros de Londres e nas escaleras mecánicas do metro, lo que dificulta a logística de cães grandes. Edimburgo se classifica mais alto em parte porque as normas caninas escocesas são mais uniformes.' },
       { q: 'O orden é definitivo?', a: 'Os lugares 8 a 20 estão a menos de 10 puntos entre sí em nuestro sistema de pontuação, así que o orden entre ellos é algo arbitrário. Amesterdão e Berlim (lugares 1-2) são líderes claros, mas a diferença entre o 15 e o 20 é pequena.' },
@@ -328,9 +404,12 @@ const COPY: Record<string, {
       'Si tuviéramos que escolher uma sola cidade para um primer viaje canino europeu, seria Amesterdão. A combinação de tolerância canina em transporte, o Vondelpark, os canais e a cultura de café descontraída é inigualável. Os comboios desde Amesterdão Centraal também chegam a Berlim e Bruxelas em menos de 7 horas, a abrir itinerários multi-cidade.',
       'Para um viaje invernal, Viena e Berlim destacam-se ambas — elétricos aquecidos, cultura de café interior, mercados de Natal que admitem cães. Para verão, Hamburgo e Copenhaga ganham por os seus temperaturas mais frescas (22-25 °C) e fácil acesso a lago/mar. Evita Madrid, Sevilha e Córdoba (40 °C+) em julho-agosto.',
     ] },
-    ctaTitle: 'Planea a tua viagem com nuestras guías de cidade',
-    ctaDesc: 'Cada uma destas 20 cidades tem uma guía pet-friendly completa com hotéis, restaurantes, parques, veterinários e mapa Booking.com em vivo.',
+    ctaTitle: 'Planeie a sua viagem com os nossos guias de cidade',
+    ctaDesc: 'Cada uma destas 20 cidades tem um guia pet-friendly completo com hotéis, restaurantes, parques, veterinários e mapa Booking.com em direto.',
     ctaButton: 'Ver todos os destinos →',
+    bottomBookCtaTitle: 'Pronto para reservar? Compare 770+ hotéis pet-friendly',
+    bottomBookCtaDesc: 'Preços em direto e reserva instantânea por toda a Europa — Booking.com, Expedia, Hotels.com e mais. Cancelamento grátis na maioria dos estabelecimentos, políticas de animais verificadas em cada ficha.',
+    bottomBookCtaButton: 'Procurar hotéis pet-friendly →',
   },
 }
 
@@ -344,7 +423,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     const dest = destinations.find((d) => d.slug === entry.slug)
     if (!dest) return null
     const hotelCount = hotels.filter((h) => h.destinationSlug === entry.slug).length
-    return { ...entry, dest, hotelCount, reasonText: entry.reason[locale as 'en' | 'fr' | 'es'] || entry.reason.en }
+    return { ...entry, dest, hotelCount, reasonText: entry.reason[locale as 'en' | 'fr' | 'es' | 'pt'] || entry.reason.en }
   }).filter((x): x is NonNullable<typeof x> => x !== null)
 
   const itemListSchema = {
@@ -395,62 +474,110 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
-      {/* Intro */}
-      <article className="py-12 bg-white">
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
-          <section>
-            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.intro.title}</h2>
-            <div className="space-y-4">
-              {c.intro.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
-            </div>
-          </section>
-          <section>
-            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.methodology.title}</h2>
-            <div className="space-y-4">
-              {c.methodology.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
-            </div>
-          </section>
-        </div>
-      </article>
-
-      {/* Ranking */}
-      <section className="py-16 bg-gray-50 border-y border-gray-100">
+      {/* Ranking (moved up — directly under hero) */}
+      <section className="py-14 lg:py-16 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-10 text-center">{c.rankingTitle}</h2>
+          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 text-center">{c.rankingTitle}</h2>
+          <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10 leading-relaxed">{c.rankingSubtitle}</p>
           <div className="space-y-6">
             {cities.map((city) => {
               const localName = getLocalizedCityName(city.dest.slug, city.dest.name, locale)
               const localCountry = getLocalizedCountryName(city.dest.country, locale)
+              const bookUrl = buildAllezDestLink(city.dest.name, city.dest.country, `top20-rank${city.rank}`)
               return (
                 <article key={city.slug} className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow">
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
                     <div className="relative h-48 md:h-auto md:col-span-1 bg-gray-100">
                       {city.dest.heroImage && (
-                        <Image src={city.dest.heroImage} alt={`${localName} pet-friendly travel`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
+                        <Image src={city.dest.heroImage} alt={`Pet-friendly hotels in ${localName} — dog-friendly travel ${localCountry}`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
                       )}
                       <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-md">
                         <span className="text-xl font-extrabold text-blue-700">#{city.rank}</span>
                       </div>
                     </div>
                     <div className="md:col-span-2 p-6 lg:p-8">
-                      <div className="flex items-baseline justify-between gap-4 mb-2">
+                      <div className="flex items-baseline justify-between gap-4 mb-2 flex-wrap">
                         <h3 className="text-2xl lg:text-3xl font-extrabold text-gray-900">
                           {city.dest.flag} {localName}
                         </h3>
                         <span className="text-sm text-gray-500">{localCountry}</span>
                       </div>
                       <p className="text-gray-700 leading-relaxed mb-5">{city.reasonText}</p>
-                      <div className="flex flex-wrap items-center gap-3 text-sm">
+
+                      {/* Primary booking CTA — full-width orange→blue gradient */}
+                      <a
+                        href={bookUrl}
+                        target="_blank"
+                        rel="sponsored noopener noreferrer"
+                        className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-5 py-3 rounded-xl font-bold text-white text-sm shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 mb-3"
+                        style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+                      >
+                        🐾 {c.bookHotelsInPrefix} {localName} →
+                      </a>
+
+                      {/* Secondary links row */}
+                      <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
                         <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-semibold">
                           {city.hotelCount} {c.hotelsLabel}
                         </span>
                         <Link href={`/${locale}/destinations/${city.dest.slug}`} className="text-blue-600 hover:text-blue-800 font-semibold hover:underline">
                           {c.guideLink}
                         </Link>
+                        <Link href={`/${locale}/${city.dest.slug}/dog-friendly`} className="text-gray-500 hover:text-blue-600 hover:underline">
+                          {c.bookOnBooking}
+                        </Link>
                       </div>
                     </div>
                   </div>
                 </article>
+              )
+            })}
+          </div>
+
+          {/* Bottom-of-ranking booking CTA */}
+          <div className="mt-12 bg-gradient-to-br from-orange-50 to-blue-50 rounded-3xl p-8 lg:p-10 text-center border border-orange-100">
+            <h3 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3">{c.bottomBookCtaTitle}</h3>
+            <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto mb-6">{c.bottomBookCtaDesc}</p>
+            <a
+              href={buildAllezDestLink('Europe', 'Europe', 'top20-bottom-cta')}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full font-bold text-white text-sm shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-200"
+              style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+            >
+              {c.bottomBookCtaButton}
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Live map — centered on Amsterdam */}
+      <section className="py-14 lg:py-16 bg-white">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3 text-center">🗺️ {c.mapTitle}</h2>
+          <p className="text-gray-600 text-center max-w-2xl mx-auto mb-7 leading-relaxed">{c.mapDesc}</p>
+          <PetMap lat={52.3702} lng={4.8952} destName="Amsterdam" locale={locale} height={500} />
+        </div>
+      </section>
+
+      {/* Keyword chips — internal-link cluster targeting long-tail queries */}
+      <section className="py-12 bg-gray-50 border-y border-gray-100">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-xs font-bold text-gray-400 uppercase tracking-widest text-center mb-5">
+            {c.keywordChipsTitle}
+          </h2>
+          <div className="flex flex-wrap justify-center gap-2">
+            {c.keywordChips.map((kw, i) => {
+              const city = cities[i]
+              if (!city) return null
+              return (
+                <Link
+                  key={kw}
+                  href={`/${locale}/destinations/${city.dest.slug}`}
+                  className="text-sm text-blue-700 hover:text-blue-900 hover:underline bg-white border border-gray-200 rounded-full px-4 py-1.5 transition-colors hover:border-blue-300"
+                >
+                  {kw}
+                </Link>
               )
             })}
           </div>
@@ -464,6 +591,24 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           <div className="space-y-4">
             {c.conclusion.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
+        </div>
+      </article>
+
+      {/* Intro + Methodology (moved to bottom — context for the curious) */}
+      <article className="py-14 bg-gray-50 border-t border-gray-100">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
+          <section>
+            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.intro.title}</h2>
+            <div className="space-y-4">
+              {c.intro.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            </div>
+          </section>
+          <section>
+            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.methodology.title}</h2>
+            <div className="space-y-4">
+              {c.methodology.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            </div>
+          </section>
         </div>
       </article>
 

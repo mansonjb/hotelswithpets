@@ -29,6 +29,11 @@ const TESTIMONIALS = {
     { text: 'Por fin un sitio que verifica las políticas de verdad. Reservamos en Ámsterdam y todo fue exactamente como prometían. Sin ninguna sorpresa.', author: 'Carlos y Ana R.', location: 'Barcelona', rating: 5 },
     { text: 'El filtro "sin suplemento por mascota" ha cambiado nuestra forma de viajar. Ahorramos más de 80 € en un fin de semana en Barcelona — y el hotel era precioso.', author: 'Javier T.', location: 'Sevilla', rating: 5 },
   ],
+  pt: [
+    { text: 'Viajar com o nosso cão era sempre um stress. Agora encontramos hotéis que realmente o acolhem, não que apenas o toleram.', author: 'Inês P.', location: 'Lisboa', rating: 5 },
+    { text: 'Finalmente um site que verifica mesmo as políticas. Reservámos em Amesterdão e tudo foi exatamente como prometido. Sem surpresas.', author: 'João e Ana M.', location: 'Porto', rating: 5 },
+    { text: 'O filtro "sem suplemento de animais" mudou a nossa forma de viajar. Poupámos mais de 80 € num fim de semana em Barcelona — e o hotel era encantador.', author: 'Tiago R.', location: 'Coimbra', rating: 5 },
+  ],
 }
 
 const TRUST_BADGES = {
@@ -36,19 +41,25 @@ const TRUST_BADGES = {
     { icon: '✓', label: 'Gratuit, sans inscription' },
     { icon: '✓', label: 'Politiques vérifiées à la source' },
     { icon: '✓', label: 'Réservation directe sur Booking.com' },
-    { icon: '✓', label: '344 hôtels dans 43 destinations' },
+    { icon: '✓', label: '770+ hôtels dans 129 destinations' },
   ],
   en: [
     { icon: '✓', label: 'Free, no sign-up required' },
     { icon: '✓', label: 'Policies verified at source' },
     { icon: '✓', label: 'Book directly on Booking.com' },
-    { icon: '✓', label: '344 hotels across 43 destinations' },
+    { icon: '✓', label: '770+ hotels across 129 destinations' },
   ],
   es: [
     { icon: '✓', label: 'Gratis, sin registro' },
     { icon: '✓', label: 'Políticas verificadas en origen' },
     { icon: '✓', label: 'Reserva directa en Booking.com' },
-    { icon: '✓', label: '344 hoteles en 43 destinos' },
+    { icon: '✓', label: '770+ hoteles en 129 destinos' },
+  ],
+  pt: [
+    { icon: '✓', label: 'Grátis, sem registo' },
+    { icon: '✓', label: 'Políticas verificadas na fonte' },
+    { icon: '✓', label: 'Reserva direta na Booking.com' },
+    { icon: '✓', label: '770+ hotéis em 129 destinos' },
   ],
 }
 
@@ -60,13 +71,14 @@ const steps = [
 
 export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
   const { howItWorks } = dict
-  const lang = (locale === 'fr' || locale === 'es') ? locale : 'en'
+  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt') ? locale : 'en'
   const testimonials = TESTIMONIALS[lang]
   const badges = TRUST_BADGES[lang]
 
   const reviewLabel =
     locale === 'fr' ? 'Ce que disent les voyageurs avec animaux' :
     locale === 'es' ? 'Lo que dicen los viajeros con mascotas' :
+    locale === 'pt' ? 'O que dizem os viajantes com animais' :
     'What pet-owning travellers say'
 
   return (

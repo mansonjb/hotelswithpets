@@ -9,7 +9,9 @@
     "cityCount": 66,
     "description": "Hotels that explicitly welcome dogs of all breeds and sizes.",
     "descriptionFr": "Hôtels qui accueillent explicitement les chiens de toutes races et tailles.",
-    "descriptionEs": "Hoteles que admiten explícitamente perros de todas las razas y tamaños."
+    "descriptionEs": "Hoteles que admiten explícitamente perros de todas las razas y tamaños.",
+    "namePt": "Aceitam cães",
+    "descriptionPt": "Hotéis que acolhem explicitamente cães de todas as raças e tamanhos."
   },
   {
     "slug": "cat-friendly",
@@ -21,7 +23,9 @@
     "cityCount": 66,
     "description": "Hotels that welcome cats and provide a comfortable stay for feline travellers.",
     "descriptionFr": "Hôtels qui acceptent les chats et offrent un séjour confortable aux félins.",
-    "descriptionEs": "Hoteles que admiten gatos y ofrecen una estancia cómoda para los felinos."
+    "descriptionEs": "Hoteles que admiten gatos y ofrecen una estancia cómoda para los felinos.",
+    "namePt": "Aceitam gatos",
+    "descriptionPt": "Hotéis que acolhem gatos e oferecem uma estadia confortável aos felinos."
   },
   {
     "slug": "near-parks",
@@ -33,7 +37,9 @@
     "cityCount": 66,
     "description": "Hotels within walking distance of dog-friendly parks and green spaces.",
     "descriptionFr": "Hôtels à quelques pas de parcs et espaces verts accessibles aux chiens.",
-    "descriptionEs": "Hoteles a poca distancia de parques y zonas verdes aptas para perros."
+    "descriptionEs": "Hoteles a poca distancia de parques y zonas verdes aptas para perros.",
+    "namePt": "Perto de parques",
+    "descriptionPt": "Hotéis a curta distância de parques e espaços verdes acessíveis a cães."
   },
   {
     "slug": "luxury",
@@ -45,7 +51,9 @@
     "cityCount": 66,
     "description": "5-star hotels and upscale properties that welcome pets with premium amenities.",
     "descriptionFr": "Hôtels 5 étoiles et établissements haut de gamme qui accueillent les animaux avec des services premium.",
-    "descriptionEs": "Hoteles de 5 estrellas y propiedades de lujo que acogen mascotas con servicios premium."
+    "descriptionEs": "Hoteles de 5 estrellas y propiedades de lujo que acogen mascotas con servicios premium.",
+    "namePt": "Hotéis de luxo",
+    "descriptionPt": "Hotéis de 5 estrelas e propriedades de luxo que acolhem animais com serviços premium."
   },
   {
     "slug": "beach-access",
@@ -57,7 +65,9 @@
     "cityCount": 66,
     "description": "Pet-friendly hotels with direct or nearby beach access for your dog.",
     "descriptionFr": "Hôtels avec accès direct ou à proximité de la plage pour votre chien.",
-    "descriptionEs": "Hoteles con acceso directo o cercano a la playa para tu perro."
+    "descriptionEs": "Hoteles con acceso directo o cercano a la playa para tu perro.",
+    "namePt": "Acesso à praia",
+    "descriptionPt": "Hotéis com acesso direto ou próximo à praia para o seu cão."
   },
   {
     "slug": "dogs-stay-free",
@@ -69,7 +79,9 @@
     "cityCount": 66,
     "description": "Hotels with no pet fee. Your dog stays at no extra charge.",
     "descriptionFr": "Hôtels sans supplément animaux. Votre chien séjourne sans frais supplémentaires.",
-    "descriptionEs": "Hoteles sin cargo adicional por mascotas. Tu perro se queda sin coste extra."
+    "descriptionEs": "Hoteles sin cargo adicional por mascotas. Tu perro se queda sin coste extra.",
+    "namePt": "Sem suplemento animais",
+    "descriptionPt": "Hotéis sem suplemento para animais. O seu cão fica sem custos adicionais."
   },
   {
     "slug": "boutique-pet-friendly",
@@ -81,7 +93,9 @@
     "cityCount": 30,
     "description": "Independent boutique hotels with character that genuinely welcome pets — design-led properties, often in historic buildings.",
     "descriptionFr": "Hôtels-boutiques indépendants au caractère affirmé qui accueillent réellement les animaux — propriétés design, souvent dans des bâtiments historiques.",
-    "descriptionEs": "Hoteles boutique independientes con carácter que admiten realmente mascotas — propiedades de diseño, a menudo en edificios históricos."
+    "descriptionEs": "Hoteles boutique independientes con carácter que admiten realmente mascotas — propiedades de diseño, a menudo en edificios históricos.",
+    "namePt": "Boutique",
+    "descriptionPt": "Hotéis boutique independentes com carácter que acolhem realmente animais — propriedades de design, muitas vezes em edifícios históricos."
   },
   {
     "slug": "budget-pet-friendly",
@@ -93,6 +107,8 @@
     "cityCount": 26,
     "description": "Affordable hotels under €100 per night that still accept pets — chains and independent properties verified for genuine pet-welcome policies.",
     "descriptionFr": "Hôtels abordables sous 100 € la nuit qui acceptent quand même les animaux — chaînes et indépendants vérifiés pour de vraies politiques pet-welcome.",
-    "descriptionEs": "Hoteles asequibles por debajo de 100 € la noche que admiten mascotas — cadenas e independientes verificados por políticas pet-welcome genuinas."
+    "descriptionEs": "Hoteles asequibles por debajo de 100 € la noche que admiten mascotas — cadenas e independientes verificados por políticas pet-welcome genuinas.",
+    "namePt": "Económicos",
+    "descriptionPt": "Hotéis acessíveis abaixo de 100 € a noite que aceitam animais — cadeias e independentes verificados por políticas pet-welcome genuínas."
   }
 ]

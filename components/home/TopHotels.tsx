@@ -21,21 +21,25 @@ export default function TopHotels({ locale }: TopHotelsProps) {
     en: 'Top-Rated Pet-Friendly Hotels',
     fr: 'Hôtels Pet-Friendly les Mieux Notés',
     es: 'Hoteles Pet-Friendly Mejor Valorados',
+    pt: 'Hotéis Pet-Friendly Mais Bem Avaliados',
   }
   const subheadings: Record<string, string> = {
     en: 'Highest guest scores among our verified pet-friendly properties',
     fr: 'Meilleurs scores clients parmi nos hôtels pet-friendly vérifiés',
     es: 'Las mejores puntuaciones entre nuestros hoteles pet-friendly verificados',
+    pt: 'As melhores avaliações entre os nossos hotéis pet-friendly verificados',
   }
   const bookLabel: Record<string, string> = {
     en: 'Book',
     fr: 'Réserver',
     es: 'Reservar',
+    pt: 'Reservar',
   }
   const editorChoice: Record<string, string> = {
     en: "⭐ Editor's Choice",
     fr: '⭐ Coup de cœur de la rédaction',
     es: '⭐ Selección de la redacción',
+    pt: '⭐ Escolha da redação',
   }
 
   return (
@@ -60,8 +64,8 @@ export default function TopHotels({ locale }: TopHotelsProps) {
               ? buildAllezLink(hotel.name, dest.name, dest.country)
               : hotel.bookingUrl
             const isFree = hotel.petFee === 0
-            const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night'
-            const fromLabel = locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : 'From'
+            const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'
+            const fromLabel = locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : 'From'
             return (
               <article key={hotel.id} className="group bg-white rounded-3xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
                 {/* Image */}
@@ -83,7 +87,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                   <div className="absolute top-3 right-3">
                     {isFree ? (
                       <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
-                        🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : 'Free'}
+                        🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : locale === 'pt' ? 'Grátis' : 'Free'}
                       </span>
                     ) : (
                       <span className="bg-amber-400 text-gray-900 text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">

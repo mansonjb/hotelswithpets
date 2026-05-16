@@ -9,6 +9,7 @@ import { getLocalizedCountryName } from '@/lib/countries'
 function labels(locale: Locale) {
   if (locale === 'fr') return { categories: 'catégories', cat: 'cat.', from: 'à partir de', perNight: '/nuit' }
   if (locale === 'es') return { categories: 'categorías', cat: 'cat.', from: 'desde', perNight: '/noche' }
+  if (locale === 'pt') return { categories: 'categorias', cat: 'cat.', from: 'a partir de', perNight: '/noite' }
   return { categories: 'categories', cat: 'cat.', from: 'from', perNight: '/night' }
 }
 

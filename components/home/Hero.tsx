@@ -57,23 +57,27 @@ const HEADLINES: Record<string, { line1: string; line2: string }> = {
   fr: { line1: 'Votre meilleur ami mérite', line2: 'de vraies belles vacances.' },
   en: { line1: 'Your best friend deserves', line2: 'a real holiday too.' },
   es: { line1: 'Tu mejor amigo merece', line2: 'unas vacaciones de verdad.' },
+  pt: { line1: 'O seu melhor amigo merece', line2: 'umas verdadeiras férias.' },
 }
 
 const REVIEW: Record<string, { text: string; author: string }> = {
   fr: { text: '"Enfin un site qui vérifie vraiment les politiques animaux. Aucune mauvaise surprise à l\'arrivée."', author: 'Sophie T., Paris' },
   en: { text: '"Finally a site that actually verifies pet policies. No nasty surprises on arrival."', author: 'Claire M., London' },
   es: { text: '"Por fin un sitio que verifica las políticas reales. Sin sorpresas a la llegada."', author: 'Lucía M., Madrid' },
+  pt: { text: '"Finalmente um site que verifica mesmo as políticas para animais. Sem surpresas desagradáveis à chegada."', author: 'Inês P., Lisboa' },
 }
 
 const TRUST: Record<string, string[]> = {
   fr: ['Gratuit · sans inscription', 'Politiques vérifiées', 'Booking.com'],
   en: ['Free · no sign-up', 'Verified policies', 'Booking.com'],
   es: ['Gratis · sin registro', 'Políticas verificadas', 'Booking.com'],
+  pt: ['Grátis · sem registo', 'Políticas verificadas', 'Booking.com'],
 }
 
-function getCategoryName(cat: typeof categories[number], locale: Locale): string {
+function getCategoryName(cat: typeof categories[number] & { namePt?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
+  if (locale === 'pt' && cat.namePt) return cat.namePt
   return cat.name
 }
 
@@ -83,7 +87,7 @@ export default function Hero({ locale, dict }: HeroProps) {
   const [destQuery, setDestQuery] = useState('')
   const [selectedCat, setSelectedCat] = useState('')
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const headlines = HEADLINES[lang]
   const review = REVIEW[lang]
   const trust = TRUST[lang]
@@ -108,11 +112,13 @@ export default function Hero({ locale, dict }: HeroProps) {
 
   const popularLabel =
     locale === 'fr' ? 'Destinations populaires' :
-    locale === 'es' ? 'Destinos populares' : 'Popular'
+    locale === 'es' ? 'Destinos populares' :
+    locale === 'pt' ? 'Destinos populares' : 'Popular'
 
   const filterLabel =
     locale === 'fr' ? 'Je voyage avec...' :
-    locale === 'es' ? 'Viajo con...' : 'I\'m travelling with...'
+    locale === 'es' ? 'Viajo con...' :
+    locale === 'pt' ? 'Viajo com...' : 'I\'m travelling with...'
 
   return (
     <section className="relative overflow-hidden bg-white border-b border-gray-100">
@@ -167,7 +173,7 @@ export default function Hero({ locale, dict }: HeroProps) {
             <form onSubmit={handleSearch} className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
 
               <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">
-                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : 'Find your stay'}
+                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : locale === 'pt' ? 'Encontre a sua estadia' : 'Find your stay'}
               </p>
 
               {/* Destination */}

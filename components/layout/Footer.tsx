@@ -41,14 +41,14 @@ export default function Footer({ locale, dict }: FooterProps) {
             <ul className="space-y-2 text-sm">
               <li><Link href={`/${locale}/destinations`} className="hover:text-white transition-colors">{footer.destinations}</Link></li>
               <li><Link href={`/${locale}/categories`} className="hover:text-white transition-colors">{footer.categories}</Link></li>
-              <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : 'By country'}</Link></li>
+              <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : 'By country'}</Link></li>
             </ul>
           </div>
 
           {/* Popular Destinations */}
           <div>
             <h3 className="text-white font-semibold mb-4">
-              {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : 'Popular'}
+              {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : locale === 'pt' ? 'Populares' : 'Popular'}
             </h3>
             <ul className="space-y-2 text-sm">
               {[
@@ -82,7 +82,7 @@ export default function Footer({ locale, dict }: FooterProps) {
         {/* Country links */}
         <div className="border-t border-gray-800 mt-10 pt-8">
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
-            {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : 'By country'}
+            {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : 'By country'}
           </p>
           <div className="flex flex-wrap gap-x-4 gap-y-1">
             {[
@@ -118,29 +118,29 @@ export default function Footer({ locale, dict }: FooterProps) {
         {/* Popular guides */}
         <div className="border-t border-gray-800 mt-6 pt-6">
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
-            {locale === 'fr' ? 'Guides populaires' : locale === 'es' ? 'Guías populares' : 'Popular guides'}
+            {locale === 'fr' ? 'Guides populaires' : locale === 'es' ? 'Guías populares' : locale === 'pt' ? 'Guias populares' : 'Popular guides'}
           </p>
           <div className="flex flex-wrap gap-x-5 gap-y-1">
             {[
-              { en: 'Dog-friendly hotels Amsterdam', fr: 'Hôtels chiens Amsterdam', es: 'Hoteles perros Ámsterdam', href: 'amsterdam/dog-friendly' },
-              { en: 'Luxury hotels Paris', fr: 'Hôtels luxe Paris', es: 'Hoteles lujo París', href: 'paris/luxury' },
-              { en: 'Pet-friendly hotels Barcelona', fr: 'Hôtels animaux Barcelone', es: 'Hoteles mascotas Barcelona', href: 'barcelona/dog-friendly' },
-              { en: 'Beach hotels Biarritz', fr: 'Hôtels plage Biarritz', es: 'Hoteles playa Biarritz', href: 'biarritz/beach-access' },
-              { en: 'Dog-friendly hotels Berlin', fr: 'Hôtels chiens Berlin', es: 'Hoteles perros Berlín', href: 'berlin/dog-friendly' },
-              { en: 'Dog-friendly hotels Rome', fr: 'Hôtels chiens Rome', es: 'Hoteles perros Roma', href: 'rome/dog-friendly' },
-              { en: 'No pet fee hotels Amsterdam', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', href: 'amsterdam/dogs-stay-free' },
-              { en: 'Beach hotels Malaga', fr: 'Hôtels plage Malaga', es: 'Hoteles playa Málaga', href: 'malaga/beach-access' },
-              { en: 'Luxury hotels Milan', fr: 'Hôtels luxe Milan', es: 'Hoteles lujo Milán', href: 'milan/luxury' },
-              { en: 'Dog-friendly hotels Oslo', fr: 'Hôtels chiens Oslo', es: 'Hoteles perros Oslo', href: 'oslo/dog-friendly' },
-              { en: 'Beach hotels Split', fr: 'Hôtels plage Split', es: 'Hoteles playa Split', href: 'split/beach-access' },
-              { en: 'Luxury hotels Brussels', fr: 'Hôtels luxe Bruxelles', es: 'Hoteles lujo Bruselas', href: 'brussels/luxury' },
+              { en: 'Dog-friendly hotels Amsterdam', fr: 'Hôtels chiens Amsterdam', es: 'Hoteles perros Ámsterdam', pt: 'Hotéis com cães Amesterdão', href: 'amsterdam/dog-friendly' },
+              { en: 'Luxury hotels Paris', fr: 'Hôtels luxe Paris', es: 'Hoteles lujo París', pt: 'Hotéis luxo Paris', href: 'paris/luxury' },
+              { en: 'Pet-friendly hotels Barcelona', fr: 'Hôtels animaux Barcelone', es: 'Hoteles mascotas Barcelona', pt: 'Hotéis com animais Barcelona', href: 'barcelona/dog-friendly' },
+              { en: 'Beach hotels Biarritz', fr: 'Hôtels plage Biarritz', es: 'Hoteles playa Biarritz', pt: 'Hotéis praia Biarritz', href: 'biarritz/beach-access' },
+              { en: 'Dog-friendly hotels Berlin', fr: 'Hôtels chiens Berlin', es: 'Hoteles perros Berlín', pt: 'Hotéis com cães Berlim', href: 'berlin/dog-friendly' },
+              { en: 'Dog-friendly hotels Rome', fr: 'Hôtels chiens Rome', es: 'Hoteles perros Roma', pt: 'Hotéis com cães Roma', href: 'rome/dog-friendly' },
+              { en: 'No pet fee hotels Amsterdam', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', pt: 'Hotéis sem suplemento animais', href: 'amsterdam/dogs-stay-free' },
+              { en: 'Beach hotels Malaga', fr: 'Hôtels plage Malaga', es: 'Hoteles playa Málaga', pt: 'Hotéis praia Málaga', href: 'malaga/beach-access' },
+              { en: 'Luxury hotels Milan', fr: 'Hôtels luxe Milan', es: 'Hoteles lujo Milán', pt: 'Hotéis luxo Milão', href: 'milan/luxury' },
+              { en: 'Dog-friendly hotels Oslo', fr: 'Hôtels chiens Oslo', es: 'Hoteles perros Oslo', pt: 'Hotéis com cães Oslo', href: 'oslo/dog-friendly' },
+              { en: 'Beach hotels Split', fr: 'Hôtels plage Split', es: 'Hoteles playa Split', pt: 'Hotéis praia Split', href: 'split/beach-access' },
+              { en: 'Luxury hotels Brussels', fr: 'Hôtels luxe Bruxelles', es: 'Hoteles lujo Bruselas', pt: 'Hotéis luxo Bruxelas', href: 'brussels/luxury' },
             ].map((g) => (
               <Link
                 key={g.href}
                 href={`/${locale}/${g.href}`}
                 className="text-sm text-gray-500 hover:text-gray-300 transition-colors"
               >
-                {locale === 'fr' ? g.fr : locale === 'es' ? g.es : g.en}
+                {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : g.en}
               </Link>
             ))}
           </div>

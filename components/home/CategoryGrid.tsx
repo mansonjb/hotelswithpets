@@ -11,15 +11,17 @@ interface CategoryGridProps {
   }
 }
 
-function getCategoryName(cat: typeof categories[number], locale: Locale): string {
+function getCategoryName(cat: typeof categories[number] & { namePt?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
+  if (locale === 'pt' && cat.namePt) return cat.namePt
   return cat.name
 }
 
-function getCategoryDesc(cat: typeof categories[number], locale: Locale): string {
+function getCategoryDesc(cat: typeof categories[number] & { descriptionPt?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.descriptionFr) return cat.descriptionFr
   if (locale === 'es' && cat.descriptionEs) return cat.descriptionEs
+  if (locale === 'pt' && cat.descriptionPt) return cat.descriptionPt
   return cat.description
 }
 
@@ -38,6 +40,7 @@ const INTRO: Record<string, string> = {
   fr: 'Tous nos hôtels ont une politique animaux vérifiée — mais chaque voyage est différent. Filtrez par catégorie pour trouver exactement l\'hôtel qu\'il vous faut.',
   en: 'Every hotel on HotelsWithPets has a verified pet policy — but not every hotel suits every trip. Filter by category to find exactly what you need.',
   es: 'Todos nuestros hoteles tienen una política de mascotas verificada — pero no todos encajan con cada viaje. Filtra por categoría para dar con el hotel ideal.',
+  pt: 'Todos os nossos hotéis têm uma política de animais verificada — mas nem todos servem para cada viagem. Filtre por categoria para encontrar exatamente o hotel ideal.',
 }
 
 const PROMISE: Record<string, { title: string; items: string[] }> = {
@@ -53,6 +56,10 @@ const PROMISE: Record<string, { title: string; items: string[] }> = {
     title: 'Nuestro compromiso',
     items: ['Política verificada en origen', 'Precios directos de Booking.com', 'Sin costes ocultos', 'Actualizado regularmente'],
   },
+  pt: {
+    title: 'O nosso compromisso',
+    items: ['Política de animais verificada na fonte', 'Preços diretos da Booking.com', 'Sem custos ocultos', 'Atualizado regularmente'],
+  },
 }
 
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
@@ -60,15 +67,16 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
   const featured = activeCats.slice(0, 3)
   const rest = activeCats.slice(3)
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const intro = INTRO[lang]
   const promise = PROMISE[lang]
-  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : 'cities'
-  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : 'hotels'
+  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : locale === 'pt' ? 'cidades' : 'cities'
+  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'
 
   const seeAllLabel =
     locale === 'fr' ? `Voir toutes les catégories →` :
     locale === 'es' ? `Ver todas las categorías →` :
+    locale === 'pt' ? `Ver todas as categorias →` :
     `View all categories →`
 
   return (

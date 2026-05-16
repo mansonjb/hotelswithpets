@@ -587,6 +587,80 @@
     }
   },
   {
+    "slug": "bari",
+    "name": "Bari",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bari.jpg",
+    "intro": "Bari, the Adriatic capital of Puglia, pairs a walled medieval Old Town wrapped around the Basilica of San Nicola with Italy's longest seafront promenade and a network of dedicated off-leash dog parks opened since 2020. Three 24/7 vet hospitals, dog-friendly trattorie throughout Bari Vecchia, and easy train links to Polignano a Mare and Monopoli make it one of southern Italy's most underrated cities to travel with a pet.",
+    "lat": 41.1171,
+    "lng": 16.8719,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "basel",
     "name": "Basel",
     "country": "Switzerland",

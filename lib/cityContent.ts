@@ -1018,6 +1018,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bari: {
+    history: {
+      fr: `Bari, capitale des Pouilles fondée par les Peucètes puis colonisée par Rome (Barium), est devenue au Moyen Âge un grand port commercial adriatique et un haut lieu de pèlerinage après la translation des reliques de saint Nicolas de Myre en 1087. Aujourd'hui ville de 315 000 habitants (1,2 million d'aire métropolitaine), Bari conjugue un cœur médiéval fortifié, la Bari Vecchia, autour de la Basilique San Nicola (XIe siècle, lieu de pèlerinage orthodoxe et catholique) et une grille XIXe siècle néoclassique, le quartier Murat, voulue par Joachim Murat sous l'occupation française. La ville déploie 4 km de promenade en bord de mer, le Lungomare Nazario Sauro, la plus longue d'Italie, et trois grands parcs urbains avec aires sans laisse officielles ouvertes depuis 2020 (Parco 2 Giugno, Parco Rossani). Capitale gastronomique de la cuisine paysanne pugliese (orecchiette, focaccia barese, tiella di riso patate e cozze), Bari accueille les chiens en laisse dans la quasi-totalité des osterie en terrasse, dispose de trois hôpitaux vétérinaires 24h/24, une densité rare dans le sud italien, et offre un accès en train direct vers les villes côtières dog-friendly de Polignano a Mare (35 min), Monopoli (45 min) et Alberobello (UNESCO, via correspondance). Le point pratique à connaître : les bus AMTAB interdisent actuellement les chiens moyens et grands, planifiez vos déplacements à pied (le centre fait 2 km de large) ou en taxi.`,
+      en: `Bari, capital of Puglia, was founded by the Peucetii and later colonised by Rome as Barium. In the Middle Ages it became a major Adriatic trading port and a pilgrimage centre after the translation of the relics of Saint Nicholas of Myra in 1087. Today a city of 315,000 (1.2 million metropolitan area), Bari combines a fortified medieval heart, Bari Vecchia, wrapped around the 11th-century Basilica of San Nicola (a shared Orthodox and Catholic pilgrimage site), with a 19th-century neoclassical grid, the Murat quarter, laid out under Joachim Murat during the French occupation. The city offers 4 km of seafront promenade, the Lungomare Nazario Sauro, the longest in Italy, and three large urban parks with official off-leash zones opened since 2020 (Parco 2 Giugno, Parco Rossani). A capital of Puglian peasant cooking (orecchiette, focaccia barese, tiella di riso patate e cozze), Bari welcomes leashed dogs at nearly every terrace osteria, runs three 24/7 veterinary hospitals (a rare density for southern Italy), and offers direct train links to the dog-friendly coastal towns of Polignano a Mare (35 min), Monopoli (45 min) and Alberobello (UNESCO, via connection). One practical point to know: AMTAB city buses currently ban medium and large dogs, so plan to walk (the centre is 2 km across) or take a taxi.`,
+      es: `Bari, capital de Apulia, fue fundada por los peucetios y colonizada por Roma como Barium. En la Edad Media se convirtió en un gran puerto comercial adriático y centro de peregrinación tras la traslación de las reliquias de san Nicolás de Mira en 1087. Hoy ciudad de 315 000 habitantes (1,2 millones de área metropolitana), Bari combina un corazón medieval fortificado, Bari Vecchia, en torno a la Basílica de San Nicolás (siglo XI, peregrinación ortodoxa y católica) con una cuadrícula neoclásica del XIX, el barrio Murat, trazada bajo Joaquín Murat durante la ocupación francesa. La ciudad ofrece 4 km de paseo marítimo, el Lungomare Nazario Sauro, el más largo de Italia, y tres grandes parques urbanos con zonas sin correa oficiales abiertas desde 2020 (Parco 2 Giugno, Parco Rossani). Capital de la cocina campesina pugliese (orecchiette, focaccia barese, tiella di riso patate e cozze), Bari admite perros con correa en casi todas las osterie con terraza, cuenta con tres hospitales veterinarios 24/7 (densidad rara en el sur italiano) y ofrece conexiones de tren directas con los pueblos costeros dog-friendly de Polignano a Mare (35 min), Monopoli (45 min) y Alberobello (UNESCO, con transbordo). Punto práctico que conocer: los autobuses AMTAB prohíben actualmente perros medianos y grandes, planifica desplazarte a pie (el centro mide 2 km) o en taxi.`,
+      pt: `Bari, capital da Puglia, foi fundada pelos Peucetios e colonizada por Roma como Barium. Na Idade Média tornou-se num grande porto comercial adriático e centro de peregrinação após a trasladação das relíquias de São Nicolau de Mira em 1087. Hoje uma cidade de 315 000 habitantes (1,2 milhões na área metropolitana), Bari combina um coração medieval fortificado, Bari Vecchia, em torno da Basílica de São Nicolau (século XI, peregrinação ortodoxa e católica) com uma grelha neoclássica do século XIX, o bairro Murat, traçada sob Joaquim Murat durante a ocupação francesa. A cidade oferece 4 km de passeio marítimo, o Lungomare Nazario Sauro, o mais longo de Itália, e três grandes parques urbanos com zonas sem trela oficiais abertas desde 2020 (Parco 2 Giugno, Parco Rossani). Capital da cozinha camponesa pugliese (orecchiette, focaccia barese, tiella di riso patate e cozze), Bari aceita cães com trela em quase todas as osterie com esplanada, conta com três hospitais veterinários 24/7 (densidade rara no sul italiano) e oferece ligações ferroviárias directas às localidades costeiras pet-friendly de Polignano a Mare (35 min), Monopoli (45 min) e Alberobello (UNESCO, com transbordo). Ponto prático a conhecer: os autocarros AMTAB proíbem actualmente cães médios e grandes, planeie deslocar-se a pé (o centro tem 2 km) ou de táxi.`,
+    },
+    sights: [
+      {
+        name: 'Basilica di San Nicola',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La basilique romane (1087) abritant les reliques de saint Nicolas, lieu de pèlerinage orthodoxe et catholique. Intérieur fermé aux animaux, mais le parvis et les ruelles autour sont dog-friendly en laisse.`,
+          en: `The Romanesque basilica (1087) holding the relics of Saint Nicholas, a shared Orthodox and Catholic pilgrimage site. Interior closed to pets, but the forecourt and surrounding alleys are dog-friendly on leash.`,
+          es: `La basílica románica (1087) que alberga las reliquias de san Nicolás, lugar de peregrinación ortodoxa y católica. Interior cerrado a las mascotas, pero el atrio y las callejuelas circundantes son dog-friendly con correa.`,
+          pt: `A basílica românica (1087) que guarda as relíquias de São Nicolau, local de peregrinação ortodoxa e católica. Interior fechado a animais, mas o adro e as ruelas em redor são pet-friendly com trela.`,
+        },
+      },
+      {
+        name: 'Bari Vecchia',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le centre médiéval fortifié, dédale de ruelles entre la Piazza Mercantile et la cathédrale. Marchable de bout en bout, osterie et cafés tolérants aux chiens partout, mamies fabricantes d'orecchiette le matin sur la Via Arco Basso.`,
+          en: `The walled medieval core, a maze of alleys between Piazza Mercantile and the Cathedral. Walkable end-to-end, dog-tolerant osterie and cafés throughout, with the orecchiette grandmothers at work mornings on Via Arco Basso.`,
+          es: `El centro medieval amurallado, laberinto de callejuelas entre Piazza Mercantile y la Catedral. Caminable de cabo a rabo, osterie y cafés tolerantes con perros, las abuelas haciendo orecchiette por las mañanas en Via Arco Basso.`,
+          pt: `O centro medieval amuralhado, labirinto de ruelas entre a Piazza Mercantile e a Catedral. Pedonal de ponta a ponta, osterie e cafés tolerantes a cães, as avós a fazer orecchiette pela manhã na Via Arco Basso.`,
+        },
+      },
+      {
+        name: 'Castello Svevo',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le château normand-souabe du XIIe siècle dominant l'ouest de la Bari Vecchia, avec un large jardin-douve marchable en laisse. L'intérieur muséal n'admet pas les animaux, mais le pourtour est ouvert toute la journée.`,
+          en: `The 12th-century Norman-Swabian castle dominating the western edge of Bari Vecchia, with a wide moat-garden walkable on leash. The interior museum does not admit pets, but the grounds are open all day.`,
+          es: `El castillo normando-suabo del siglo XII que domina el borde oeste de Bari Vecchia, con amplio jardín-foso caminable con correa. El interior museo no admite mascotas, pero el perímetro está abierto todo el día.`,
+          pt: `O castelo normando-suábio do século XII que domina o limite oeste de Bari Vecchia, com amplo jardim-fosso pedonal com trela. O interior museu não admite animais, mas o perímetro está aberto todo o dia.`,
+        },
+      },
+      {
+        name: 'Lungomare Nazario Sauro',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La plus longue promenade de bord de mer d'Italie (4 km), entre la Bari Vecchia et la Fiera del Levante. Toute la longueur est dog-friendly en laisse, points de vue continuels sur l'Adriatique.`,
+          en: `Italy's longest seafront promenade (4 km), between Bari Vecchia and the Fiera del Levante. The entire length is dog-friendly on leash, with continuous Adriatic sea views.`,
+          es: `El paseo marítimo más largo de Italia (4 km), entre Bari Vecchia y la Fiera del Levante. Todo el recorrido es dog-friendly con correa, vistas continuas al Adriático.`,
+          pt: `O passeio marítimo mais longo de Itália (4 km), entre Bari Vecchia e a Fiera del Levante. Todo o percurso é pet-friendly com trela, vistas contínuas para o Adriático.`,
+        },
+      },
+      {
+        name: 'Parco 2 Giugno',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc urbain de Bari (52 000 m²), oliviers centenaires, pinède et lac. Aire sans laisse clôturée à l'entrée Viale Einaudi, ouverte de 7h à 22h en saison chaude.`,
+          en: `Bari's largest urban park (52,000 m2), century-old olives, pine grove and a lake. Fenced off-leash area at the Viale Einaudi entrance, open 7am-10pm in summer season.`,
+          es: `El mayor parque urbano de Bari (52 000 m²), olivos centenarios, pinar y lago. Zona sin correa vallada en la entrada de Viale Einaudi, abierta de 7:00 a 22:00 en temporada cálida.`,
+          pt: `O maior parque urbano de Bari (52 000 m²), oliveiras centenárias, pinhal e lago. Zona sem trela vedada na entrada da Viale Einaudi, aberta das 7:00 às 22:00 na estação quente.`,
+        },
+      },
+      {
+        name: 'Parco Rossani',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Parc urbain renaissant (10 ha) sur l'ancienne caserne Rossani, deux aires sans laisse clôturées ouvertes en 2023, éclairage moderne jusqu'à 23h, point de rencontre canin du soir.`,
+          en: `Reborn urban park (10 ha) on the former Rossani barracks, two fenced off-leash zones opened in 2023, modern lighting until 11pm, evening dog social hub.`,
+          es: `Parque urbano renacido (10 ha) en el antiguo cuartel Rossani, dos zonas sin correa valladas inauguradas en 2023, iluminación moderna hasta las 23:00, punto de encuentro canino nocturno.`,
+          pt: `Parque urbano renascido (10 ha) no antigo quartel Rossani, duas zonas sem trela vedadas inauguradas em 2023, iluminação moderna até às 23:00, ponto de encontro canino nocturno.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `L'Italie fait partie du passeport européen pour animaux : puce + vaccin antirabique valide + passeport européen exigés à l'arrivée.`,
+        `Bus AMTAB : seuls les petits chiens en panier fermé voyagent, les chiens moyens et grands sont interdits (règlement 2025 en révision). Prévoyez taxis ou marche.`,
+        `Trois aires sans laisse officielles ouvertes depuis 2020 : Parco 2 Giugno (entrée Viale Einaudi), Parco Rossani (deux aires), Parco Princesse Aldobrandeschi (plus petite).`,
+        `Trois hôpitaux vétérinaires 24h/24 : Santa Fara (+39 080 5043434), Croce Azzurra (+39 080 5505444), Centro Veterinario Einaudi (+39 080 5566655).`,
+        `Plages urbaines Pane e Pomodoro et Torre Quetta en travaux jusqu'en 2026-2027 ; pour du sable dog-friendly confirmé, descendez 35 min au sud à la Bau Beach Polignano.`,
+      ],
+      en: [
+        `Italy is in the EU pet passport zone: microchip + valid rabies vaccination + EU passport required on entry.`,
+        `AMTAB buses: only small dogs in closed carriers travel, medium and large dogs are banned (a 2025 regulation under municipal review). Plan on taxis or walking.`,
+        `Three official off-leash dog areas opened since 2020: Parco 2 Giugno (Viale Einaudi entrance), Parco Rossani (two zones), Parco Princess Aldobrandeschi (smaller).`,
+        `Three 24/7 veterinary hospitals: Santa Fara (+39 080 5043434), Croce Azzurra (+39 080 5505444), Centro Veterinario Einaudi (+39 080 5566655).`,
+        `City beaches Pane e Pomodoro and Torre Quetta closed for renovation through 2026-2027; for confirmed dog-friendly sand, head 35 min south to Bau Beach Polignano.`,
+      ],
+      es: [
+        `Italia está en la zona del pasaporte europeo para mascotas: microchip + vacuna antirrábica vigente + pasaporte UE exigidos a la llegada.`,
+        `Autobuses AMTAB: solo los perros pequeños en transportín cerrado viajan, los medianos y grandes están prohibidos (reglamento 2025 en revisión municipal). Planifica taxis o caminar.`,
+        `Tres áreas sin correa oficiales abiertas desde 2020: Parco 2 Giugno (entrada Viale Einaudi), Parco Rossani (dos zonas), Parco Princess Aldobrandeschi (más pequeña).`,
+        `Tres hospitales veterinarios 24/7: Santa Fara (+39 080 5043434), Croce Azzurra (+39 080 5505444), Centro Veterinario Einaudi (+39 080 5566655).`,
+        `Playas urbanas Pane e Pomodoro y Torre Quetta cerradas por obras hasta 2026-2027; para arena dog-friendly confirmada, baja 35 min al sur a la Bau Beach Polignano.`,
+      ],
+      pt: [
+        `A Itália está na zona do passaporte europeu de animais: microchip + vacina antirrábica válida + passaporte UE exigidos à entrada.`,
+        `Autocarros AMTAB: apenas cães pequenos em transportadora fechada viajam, cães médios e grandes proibidos (regulamento 2025 em revisão municipal). Planeie táxis ou caminhar.`,
+        `Três zonas sem trela oficiais abertas desde 2020: Parco 2 Giugno (entrada Viale Einaudi), Parco Rossani (duas zonas), Parco Princess Aldobrandeschi (mais pequeno).`,
+        `Três hospitais veterinários 24/7: Santa Fara (+39 080 5043434), Croce Azzurra (+39 080 5505444), Centro Veterinario Einaudi (+39 080 5566655).`,
+        `Praias urbanas Pane e Pomodoro e Torre Quetta fechadas para obras até 2026-2027; para areia pet-friendly confirmada, desça 35 min a sul até à Bau Beach Polignano.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Santa Fara Ospedale Veterinario, Via Generale Nicola Bellomo 91 bis, +39 080 5043434.`,
+        `Train Trenitalia : chiens en laisse muselée €5 forfait ou 50 % du billet 2e classe, petits chiens en panier gratuits. Bari Centrale dessert Polignano (35 min), Monopoli (45 min) et Lecce (1h30).`,
+        `Aéroport Bari Karol Wojtyla (BRI) : 8 km du centre, animaux en cabine max 10 kg, soute pour les grands chiens sur la plupart des compagnies. Train FerroTramviaria centre-aéroport en 17 min, €5.`,
+        `Pendant la fête de saint Nicolas (7-9 mai), réservez hôtels et pet-sitters au moins 2 semaines à l'avance, la ville accueille des dizaines de milliers de pèlerins.`,
+        `Numéros utiles : Carabinieri 112, urgence santé 118, Santa Fara vétérinaire +39 080 5043434.`,
+      ],
+      en: [
+        `24h emergency vet: Santa Fara Ospedale Veterinario, Via Generale Nicola Bellomo 91 bis, +39 080 5043434.`,
+        `Trenitalia trains: leashed and muzzled dogs €5 flat or 50% of 2nd-class ticket, small dogs in carriers free. Bari Centrale serves Polignano (35 min), Monopoli (45 min) and Lecce (1h30).`,
+        `Bari Karol Wojtyla Airport (BRI): 8 km from centre, cabin pets max 10 kg, cargo for larger dogs on most airlines. FerroTramviaria train centre-airport in 17 min, €5.`,
+        `During the Feast of Saint Nicholas (7-9 May), book hotels and pet-sitters at least 2 weeks ahead, the city hosts tens of thousands of pilgrims.`,
+        `Useful numbers: Carabinieri 112, medical emergency 118, Santa Fara vet +39 080 5043434.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Santa Fara Ospedale Veterinario, Via Generale Nicola Bellomo 91 bis, +39 080 5043434.`,
+        `Trenes Trenitalia: perros con correa y bozal 5 € fijo o 50 % del billete de 2ª clase, perros pequeños en transportín gratis. Bari Centrale conecta con Polignano (35 min), Monopoli (45 min) y Lecce (1h30).`,
+        `Aeropuerto Bari Karol Wojtyla (BRI): a 8 km del centro, mascotas en cabina máx 10 kg, bodega para perros grandes en la mayoría de aerolíneas. Tren FerroTramviaria centro-aeropuerto en 17 min, 5 €.`,
+        `Durante la Fiesta de san Nicolás (7-9 de mayo), reserva hoteles y pet-sitters al menos 2 semanas antes, la ciudad acoge decenas de miles de peregrinos.`,
+        `Números útiles: Carabinieri 112, urgencias sanitarias 118, veterinario Santa Fara +39 080 5043434.`,
+      ],
+      pt: [
+        `Veterinário de urgência 24h: Santa Fara Ospedale Veterinario, Via Generale Nicola Bellomo 91 bis, +39 080 5043434.`,
+        `Comboios Trenitalia: cães com trela e açaime 5 € fixo ou 50 % do bilhete de 2ª classe, cães pequenos em transportadora grátis. Bari Centrale liga a Polignano (35 min), Monopoli (45 min) e Lecce (1h30).`,
+        `Aeroporto Bari Karol Wojtyla (BRI): a 8 km do centro, animais em cabina máx 10 kg, porão para cães grandes na maioria das companhias. Comboio FerroTramviaria centro-aeroporto em 17 min, 5 €.`,
+        `Durante a Festa de São Nicolau (7-9 de maio), reserve hotéis e pet-sitters com pelo menos 2 semanas de antecedência, a cidade recebe dezenas de milhares de peregrinos.`,
+        `Números úteis: Carabinieri 112, urgência médica 118, veterinário Santa Fara +39 080 5043434.`,
+      ],
+    },
+  },
+
   basel: {
     history: {
       fr: `Bâle, fondée comme camp romain (Basilia) au 1er siècle puis bourg épiscopal médiéval, est devenue en 1501 a onzième ville à rejoindre la Confédération suisse, et une capitale de l'humanisme européen avec son université (1460), Érasme et Holbein. Aujourd'hui troisième ville de Suisse (180 000 habitants ; 830 000 dans l'agglomération tri-frontalière France-Allemagne-Suisse), Bâle conjugue ordre helvétique et culture rhénane décontractée : on s'y baigne dans le Rhin de juin à septembre em flottant avec ses affaires dans un sac étanche Wickelfisch, on traverse em bac à câble silencieux d'une rive à l'autre, et on déjeune sur des terrasses où les chiens reçoivent un Wassernapf sans qu'on ait à le demander. Avec ses 40 musées (le Kunstmuseum, le plus ancien musée d'art accessible au public au monde ; la Fondation Beyeler ; le Tinguely), Art Basel chaque mois de juin et l'architecture signée Herzog & de Meuron, Mario Botta ou Renzo Piano, Bâle revendique le statut de capitale culturelle suisse. Côté chien : la Suisse fait partie du système européen de passeport, deux Hundebadi officielles bordent le Rhin, et le canton applique strictement la laisse em parc public, mais les forêts alluviales de la Wiese offrent des kilomètres de course libre.`,

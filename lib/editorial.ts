@@ -61,6 +61,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
       area: 'El Born, Gràcia, and Eixample',
     },
+    bari: {
+      personality: `Puglia's Adriatic capital, with a walled medieval Old Town wrapped around the Basilica of San Nicola, Italy's longest seafront promenade (4 km), three dedicated off-leash dog parks opened since 2020, and three 24/7 vet hospitals`,
+      highlight: 'the Parco 2 Giugno off-leash zone, the Parco Rossani fenced dog areas, and Bau Beach Polignano 35 minutes south by train',
+      area: 'Bari Vecchia around the Cathedral and San Nicola, the Murat shopping grid, and the Lungomare Nazario Sauro seafront',
+    },
     basel: {
       personality: 'one of Europe\'s most underrated dog-friendly cities, Switzerland\'s tri-border art capital, with two designated Rhine swim spots, an off-leash floodplain park along the Wiese river, and a 24/7 emergency vet clinic',
       highlight: 'the Birsköpfli dog swim spot, Landschaftspark Wiese, and the Pfalz terrace at the Münster',
@@ -714,6 +719,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc de la Ciutadella, la plage de Poblenou et les collines du Collserola',
       area: 'El Born, Gràcia et l\'Eixample',
     },
+    bari: {
+      personality: `la capitale adriatique des Pouilles, vieille ville fortifiée enroulée autour de la Basilique San Nicola, la plus longue promenade de bord de mer d'Italie (4 km), trois parcs canins dédiés ouverts depuis 2020 et trois hôpitaux vétérinaires 24h/24`,
+      highlight: `la zone sans laisse du Parco 2 Giugno, les aires canines clôturées du Parco Rossani et la Bau Beach Polignano à 35 minutes au sud en train`,
+      area: `la Bari Vecchia autour de la cathédrale et de San Nicola, la grille commerçante Murat et le Lungomare Nazario Sauro en bord de mer`,
+    },
     basel: {
       personality: `l'une des villes dog-friendly les plus sous-estimées d'Europe, capitale artistique tri-frontalière de la Suisse, avec deux zones de baignade canine officielles dans le Rhin, un parc alluvial sans laisse le long de la Wiese et une clinique vétérinaire d'urgence ouverte 24h/24`,
       highlight: 'la baignade canine du Birsköpfli, le Landschaftspark Wiese et la terrasse Pfalz au Münster',
@@ -1366,6 +1376,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque de la Ciutadella, la playa de Poblenou y las colinas del Collserola',
       area: 'El Born, Gràcia y el Eixample',
     },
+    bari: {
+      personality: `la capital adriática de Apulia, casco antiguo amurallado en torno a la Basílica de San Nicolás, el paseo marítimo más largo de Italia (4 km), tres parques caninos dedicados abiertos desde 2020 y tres hospitales veterinarios 24/7`,
+      highlight: `la zona sin correa del Parco 2 Giugno, las áreas caninas valladas del Parco Rossani y la Bau Beach Polignano a 35 minutos al sur en tren`,
+      area: `Bari Vecchia en torno a la Catedral y San Nicolás, la cuadrícula comercial Murat y el Lungomare Nazario Sauro frente al mar`,
+    },
     basel: {
       personality: `una de las ciudades dog-friendly más infravaloradas de Europa, la capital artística trifronteriza de Suiza, con dos zonas oficiales de baño canino en el Rin, un parque aluvial sin correa a lo largo del Wiese y una clínica veterinaria de urgencias 24/7`,
       highlight: 'la zona de baño canino de Birsköpfli, el Landschaftspark Wiese y la terraza Pfalz junto al Münster',
@@ -2017,6 +2032,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade mediterrânea onde a tenencia de animais é alta e os hotéis se estão adaptando',
       highlight: 'o Parque da Ciutadella, a praia de Poblenou e as colinas do Collserola',
       area: 'O Born, Gràcia e o Eixample',
+    },
+    bari: {
+      personality: `a capital adriática da Puglia, cidade velha amuralhada em torno da Basílica de São Nicolau, o passeio marítimo mais longo de Itália (4 km), três parques caninos dedicados abertos desde 2020 e três hospitais veterinários 24/7`,
+      highlight: `a zona sem trela do Parco 2 Giugno, as áreas caninas vedadas do Parco Rossani e a Bau Beach Polignano a 35 minutos a sul de comboio`,
+      area: `Bari Vecchia em torno da Catedral e de São Nicolau, a grelha comercial Murat e o Lungomare Nazario Sauro à beira-mar`,
     },
     basel: {
       personality: `uma das cidades pet-friendly mais infravaloradas de Europa, a capital artística trifronteriza de Suiza, com dos zonas oficiais de banho canino no Rin, um parque aluvial sem trela a lo largo do Wiese e uma clínica veterinária de urgências 24/7`,

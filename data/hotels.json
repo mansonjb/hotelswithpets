@@ -1362,6 +1362,132 @@
     "petPolicyPt": "Grand Hyatt Barcelona warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 20 kg; one animal per quarto máximo. O hotel é um short walk de animal-accessible beach areas. Ideal para morning runs com your cão. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "bari-1",
+    "name": "Mercure Villa Romanazzi Carducci",
+    "destinationSlug": "bari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 3200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villaromanazzicarducci.html",
+    "petFee": 0,
+    "petPolicy": "Two pets under 40 kg welcome free of charge. Set in a private 19th-century park with mature trees and pool. Bowls and beds on request at check-in. Pets must stay on a leash in common areas.",
+    "highlights": [
+      "Private 2-hectare park on-site for dog walks",
+      "Two pets under 40 kg stay free",
+      "Outdoor pool and gym, 500 m from city centre"
+    ],
+    "slug": "mercure-villa-romanazzi-carducci"
+  },
+  {
+    "id": "bari-2",
+    "name": "JR Hotels Bari Grande Albergo delle Nazioni",
+    "destinationSlug": "bari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2800,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/albergo-delle-nazioni.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size and cats welcome free of charge. Pet bowls provided. Pets not permitted on furniture, in food service areas, or left unattended in rooms.",
+    "highlights": [
+      "Seafront location on Lungomare Nazario Sauro",
+      "All sizes of dog welcome free",
+      "Indoor pool, fitness centre, rooftop terrace"
+    ],
+    "slug": "jr-hotels-bari-grande-albergo-delle-nazioni"
+  },
+  {
+    "id": "bari-3",
+    "name": "JR Hotels Oriente Bari",
+    "destinationSlug": "bari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2600,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/jr-oriente-bari.html",
+    "petFee": 15,
+    "petPolicy": "Dogs and cats welcome at EUR 15 per stay (size limitations may apply, confirm at booking). Central Murat-quarter location, 5 min walk from Bari Vecchia and Lungomare.",
+    "highlights": [
+      "Central Corso Cavour, 5 min walk from Bari Vecchia",
+      "Restaurant on-site, breakfast included",
+      "Walking distance to all major sights"
+    ],
+    "slug": "jr-hotels-oriente-bari"
+  },
+  {
+    "id": "bari-4",
+    "name": "UNAHOTELS Regina Bari",
+    "destinationSlug": "bari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 1900,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/una-regina.html",
+    "petFee": 15,
+    "petPolicy": "Dogs up to 25 kg and cats up to 3 kg accepted at EUR 15 per stay (includes cleaning). Pets must be on leash, muzzled or in a carrier in all hotel transit areas. Pets not allowed in bar, restaurant, meeting rooms, wellness centre or pool.",
+    "highlights": [
+      "Outdoor pool, spa, 12 km from central Bari",
+      "Coastal Torre a Mare location",
+      "Family rooms with extra space for pet"
+    ],
+    "slug": "unahotels-regina-bari"
+  },
+  {
+    "id": "bari-5",
+    "name": "Hotel Adria",
+    "destinationSlug": "bari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 4100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/adria-bari.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of any size welcome free of charge. Cats also accepted. 200 m from Bari Centrale station, 5 min walk to the historic centre. Free WiFi throughout.",
+    "highlights": [
+      "200 m from Bari Centrale train station",
+      "Dogs of any size stay free",
+      "Concierge, gym, business centre"
+    ],
+    "slug": "hotel-adria-bari"
+  },
+  {
     "id": "basel-1",
     "name": "Grand Hotel Les Trois Rois",
     "destinationSlug": "basel",

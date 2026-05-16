@@ -9,7 +9,7 @@ interface PetMapProps {
   country?: string
   /** Map height in px, default 420 */
   height?: number
-  /** Ignored — kept for backward compat, Stay22 /gm endpoint doesn't need a dashboard map ID */
+  /** Ignored, kept for backward compat, Stay22 /gm endpoint doesn't need a dashboard map ID */
   stay22MapId?: string
   /** Locale for Stay22 widget UI (defaults to 'en'). Accepts 'en', 'fr', 'es', 'pt' */
   locale?: string
@@ -22,7 +22,7 @@ interface PetMapProps {
  * The LetMeAllez script (in layout.tsx) auto-upgrades all Booking.com links on the page.
  */
 export default function PetMap({ lat, lng, destName, height = 420, locale = 'en' }: PetMapProps) {
-  // Stay22 widget locale — falls back to 'en' for unknown values
+  // Stay22 widget locale, falls back to 'en' for unknown values
   const stay22Lang = ['en', 'fr', 'es', 'pt'].includes(locale) ? locale : 'en'
   const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=hotelswithpets&lang=${stay22Lang}`
 

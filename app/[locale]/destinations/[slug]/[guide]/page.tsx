@@ -411,7 +411,7 @@ export default async function GuideDetailPage({
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 192, height: 192 } },
   }
 
-  // FAQPage schema — boosts CTR + can trigger rich result with collapsible FAQ in SERP
+  // FAQPage schema, boosts CTR + can trigger rich result with collapsible FAQ in SERP
   const faqSchema = faqs.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',

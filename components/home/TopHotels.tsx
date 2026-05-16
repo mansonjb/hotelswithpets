@@ -78,12 +78,12 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                     className="object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
-                  {/* Rank badge — top left */}
+                  {/* Rank badge, top left */}
                   <div className="absolute top-3 left-3 flex items-center gap-1.5 bg-white/95 backdrop-blur-sm rounded-xl px-2.5 py-1.5 shadow-sm">
                     <span className="text-amber-500 font-black text-xs">#{i + 1}</span>
                     <span className="text-blue-600 font-black text-sm leading-none">{hotel.rating}</span>
                   </div>
-                  {/* Pet fee badge — top right */}
+                  {/* Pet fee badge, top right */}
                   <div className="absolute top-3 right-3">
                     {isFree ? (
                       <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
@@ -95,7 +95,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                       </span>
                     )}
                   </div>
-                  {/* Stars — bottom left */}
+                  {/* Stars, bottom left */}
                   <div className="absolute bottom-3 left-3">
                     <span className="text-amber-400 text-sm tracking-tight drop-shadow-sm">
                       {'★'.repeat(hotel.stars)}{'☆'.repeat(Math.max(0, 5 - hotel.stars))}

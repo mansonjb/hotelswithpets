@@ -125,10 +125,10 @@ export function GuideFooter({ locale, currentSlug }: GuideFooterProps) {
       <h2 className="text-xl font-extrabold text-gray-900 mb-2">{TITLES[lang]}</h2>
       <p className="text-sm text-gray-500 mb-6">
         {lang === 'fr'
-          ? 'Voyager sereinement avec votre animal en Europe — guide par guide.'
+          ? 'Voyager sereinement avec votre animal en Europe, guide par guide.'
           : lang === 'es'
-          ? 'Viaja tranquilo con tu mascota por Europa — guía a guía.'
-          : 'Travel confidently with your pet across Europe — guide by guide.'}
+          ? 'Viaja tranquilo con tu mascota por Europa, guía a guía.'
+          : 'Travel confidently with your pet across Europe, guide by guide.'}
       </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         {others.map((guide) => (

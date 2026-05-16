@@ -34,7 +34,7 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
         </h2>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
-          {/* Main combo — full width */}
+          {/* Main combo, full width */}
           <Link
             href={`/${locale}/${main.href}`}
             className="lg:col-span-3 group relative overflow-hidden rounded-3xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 p-10 flex items-center justify-between shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
@@ -57,7 +57,7 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
             </span>
           </Link>
 
-          {/* Secondary combos — 3 per row, cycling gradients */}
+          {/* Secondary combos, 3 per row, cycling gradients */}
           {rest.map((combo, i) => (
             <Link
               key={combo.href}

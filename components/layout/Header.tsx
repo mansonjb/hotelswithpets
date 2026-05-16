@@ -213,7 +213,7 @@ export default function Header({ locale, dict }: HeaderProps) {
               ))}
             </div>
 
-            {/* Hamburger — mobile only */}
+            {/* Hamburger, mobile only */}
             <button
               className="md:hidden flex flex-col justify-center items-center w-8 h-8 gap-1.5"
               onClick={() => setMenuOpen((o) => !o)}

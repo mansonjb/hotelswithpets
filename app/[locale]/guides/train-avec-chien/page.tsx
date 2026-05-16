@@ -379,7 +379,7 @@ const COPY = {
     ],
 
     sourcesTitle: 'Sources vérifiées',
-    sourcesText: 'Ce guide est basé sur les informations officielles de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB et PKP Intercity, vérifiées en 2025. Les tarifs et règles peuvent évoluer — consultez toujours le site de la compagnie avant votre voyage.',
+    sourcesText: 'Ce guide est basé sur les informations officielles de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB et PKP Intercity, vérifiées en 2025. Les tarifs et règles peuvent évoluer, consultez toujours le site de la compagnie avant votre voyage.',
 
     internalLinksTitle: 'Guides associés',
     guidePasseport: 'Passeport européen pour animaux : guide complet',
@@ -456,7 +456,7 @@ const COPY = {
 
     eurostarTitle: 'Eurostar: one rule you must know',
     eurostarContent: [
-      'Eurostar is the operator that generates the most questions from our readers. The rule is simple but absolute: pets (except guide and assistance dogs) are BANNED on all trains travelling through the Channel Tunnel — that is, those linking London with Paris, Brussels, Amsterdam and other UK destinations.',
+      'Eurostar is the operator that generates the most questions from our readers. The rule is simple but absolute: pets (except guide and assistance dogs) are BANNED on all trains travelling through the Channel Tunnel, that is, those linking London with Paris, Brussels, Amsterdam and other UK destinations.',
       'However, on Eurostar\'s continental routes (between Belgium, France, Germany and the Netherlands, without passing through London), pets are welcome: free for pets under 6 kg in a carrier, €30 for large dogs on a lead with muzzle.',
       'If you want to cross the Channel with your dog, the only options are a ferry (Brittany Ferries, DFDS, P&O) or the Eurotunnel Le Shuttle train (for cars). Dogs cannot travel unaccompanied on the Eurotunnel.',
     ],
@@ -531,7 +531,7 @@ const COPY = {
     ],
 
     sourcesTitle: 'Verified sources',
-    sourcesText: 'This guide is based on official information from SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB and PKP Intercity, verified in 2025. Fares and rules may change — always check the operator\'s website before you travel.',
+    sourcesText: 'This guide is based on official information from SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB and PKP Intercity, verified in 2025. Fares and rules may change, always check the operator\'s website before you travel.',
 
     internalLinksTitle: 'Related guides',
     guidePasseport: 'EU pet passport: complete guide',
@@ -683,7 +683,7 @@ const COPY = {
     ],
 
     sourcesTitle: 'Fuentes verificadas',
-    sourcesText: 'Esta guía se basa en información oficial de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB y PKP Intercity, verificada en 2025. Las tarifas y normas pueden cambiar — consulta siempre la web del operador antes de viajar.',
+    sourcesText: 'Esta guía se basa en información oficial de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB y PKP Intercity, verificada en 2025. Las tarifas y normas pueden cambiar, consulta siempre la web del operador antes de viajar.',
 
     internalLinksTitle: 'Guías relacionadas',
     guidePasseport: 'Pasaporte europeo para mascotas: guía completa',
@@ -834,7 +834,7 @@ const COPY = {
     ],
 
     sourcesTitle: 'Fuentes verificadas',
-    sourcesText: 'Esta guía se basa em informação oficial de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB e PKP Intercity, verificada em 2025. As tarifas e normas podem cambiar — consulta sempre a web do operador antes de viajar.',
+    sourcesText: 'Esta guía se basa em informação oficial de SNCF, Ouigo, Deutsche Bahn, Renfe, Trenitalia, Eurostar, SNCB, NS, SBB, ÖBB e PKP Intercity, verificada em 2025. As tarifas e normas podem cambiar, consulta sempre a web do operador antes de viajar.',
 
     internalLinksTitle: 'Guías relacionadas',
     guidePasseport: 'Passaporte europeu para animais: guía completa',

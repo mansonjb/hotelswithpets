@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
   }
   const l = hasLocale(locale) ? locale : 'en'
 
-  // Bing pondère encore les keywords meta (contrairement à Google) — locale-aware
+  // Bing pondère encore les keywords meta (contrairement à Google), locale-aware
   // top-of-funnel terms qui correspondent au search intent où on apparait déjà.
   const keywords: Record<Locale, string[]> = {
     en: ['pet-friendly hotels', 'dog-friendly hotels', 'cat-friendly hotels', 'travel with dog europe', 'pet travel', 'hotels for dogs', 'hotels for cats', 'pet hotels europe', 'dog friendly travel', 'european dog travel'],
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
   }
 
   return {
-    // template '%s' is identity — pages include their own '| HotelsWithPets.com' suffix
+    // template '%s' is identity, pages include their own '| HotelsWithPets.com' suffix
     // to avoid double-suffix (e.g. "Title | HotelsWithPets.com | HotelsWithPets")
     title: { default: titles[l], template: `%s` },
     description: descriptions[l],
@@ -83,8 +83,8 @@ export default async function LocaleLayout({
         <link rel="preconnect" href="https://www.booking.com" />
         <link rel="preconnect" href="https://www.stay22.com" />
         <link rel="dns-prefetch" href="https://scripts.stay22.com" />
-        {/* RSS auto-discovery — picked up by Bing, feed readers, AI crawlers */}
-        <link rel="alternate" type="application/rss+xml" title="HotelsWithPets — latest destinations" href="https://www.hotelswithpets.com/rss.xml" />
+        {/* RSS auto-discovery, picked up by Bing, feed readers, AI crawlers */}
+        <link rel="alternate" type="application/rss+xml" title="HotelsWithPets, latest destinations" href="https://www.hotelswithpets.com/rss.xml" />
       </head>
       <body className="bg-white text-gray-900 antialiased">
         <Header locale={locale as Locale} dict={dict} />
@@ -98,7 +98,7 @@ export default async function LocaleLayout({
             __html: `(function(s,t,a,y,twenty,two){s.Stay22=s.Stay22||{};s.Stay22.params={lmaID:'69e08b99d5ab79f03e163885'};twenty=t.createElement(a);two=t.getElementsByTagName(a)[0];twenty.async=1;twenty.src=y;two.parentNode.insertBefore(twenty,two)})(window,document,'script','https://scripts.stay22.com/letmeallez.js');`,
           }}
         />
-        {/* Google Analytics (gtag.js) — GA4 property G-Q03HF80JM2 */}
+        {/* Google Analytics (gtag.js), GA4 property G-Q03HF80JM2 */}
         <Script
           id="ga4-loader"
           strategy="afterInteractive"

@@ -86,7 +86,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       '@type': 'ImageObject',
       url: `${SITE_URL}/favicon.ico`,
     },
-    description: 'A trip-planning platform for travellers with pets — 460+ verified pet-friendly hotels across 66 European destinations, with city guides, vet directories, and transport rules.',
+    description: 'A trip-planning platform for travellers with pets, 460+ verified pet-friendly hotels across 66 European destinations, with city guides, vet directories, and transport rules.',
     foundingDate: '2026',
     areaServed: 'Europe',
     knowsLanguage: ['en', 'fr', 'es', 'pt'],

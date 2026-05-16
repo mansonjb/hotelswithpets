@@ -44,9 +44,9 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   // FR: "hôtel accepte chiens X", "hôtels animaux acceptés à X", "hôtels pet-friendly X"
   // EN: "dog friendly hotel X", "pet friendly hotel X", "cat friendly hotel X"
   const titleTemplates: Record<string, string> = {
-    en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}) — Dog & Cat Friendly Stays Verified | HotelsWithPets.com`,
-    fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}) — Chiens et chats bienvenus | HotelsWithPets.com`,
-    es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}) — Hoteles pet-friendly verificados | HotelsWithPets.com`,
+    en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}), Dog & Cat Friendly Stays Verified | HotelsWithPets.com`,
+    fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}), Chiens et chats bienvenus | HotelsWithPets.com`,
+    es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}), Hoteles pet-friendly verificados | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `${hotelCount} verified dog- and cat-friendly hotels in ${dest.name}, ${dest.country} from €${minPrice}/night. Pet fees, weight limits and policies clearly listed. Book on Booking.com.`,
@@ -302,10 +302,10 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             </h2>
             <p className="text-sm text-gray-500 mb-5">
               {locale === 'fr'
-                ? `Tous les hôtels acceptant les animaux à ${localizedName}, directement depuis Booking.com — cliquez sur un marqueur pour voir le prix et réserver.`
+                ? `Tous les hôtels acceptant les animaux à ${localizedName}, directement depuis Booking.com, cliquez sur un marqueur pour voir le prix et réserver.`
                 : locale === 'es'
-                ? `Todos los hoteles que admiten mascotas en ${localizedName}, directamente desde Booking.com — haz clic en un marcador para ver el precio y reservar.`
-                : `All pet-friendly hotels in ${localizedName}, live from Booking.com — click any marker to see prices and book.`}
+                ? `Todos los hoteles que admiten mascotas en ${localizedName}, directamente desde Booking.com, haz clic en un marcador para ver el precio y reservar.`
+                : `All pet-friendly hotels in ${localizedName}, live from Booking.com, click any marker to see prices and book.`}
             </p>
             <PetMap
               lat={(dest as typeof dest & { lat: number }).lat}

@@ -968,7 +968,7 @@ const COPY = {
   },
   en: {
     hero: 'Pet passport: everything you need to know before you go',
-    subtitle: 'Microchip, rabies vaccination, official document... Here is what European regulations require for each destination country — fact-checked and kept up to date.',
+    subtitle: 'Microchip, rabies vaccination, official document... Here is what European regulations require for each destination country, fact-checked and kept up to date.',
     lastUpdate: 'Updated in',
     sources: 'Verified sources',
     sourcesText: 'This guide is based on official information from the European Commission (TRACES), the USDA (for post-Brexit UK), Iceland\'s MAST, the Finnish Food Authority, and national veterinary authorities. We always recommend checking directly with your vet and the destination country\'s authorities before travelling.',
@@ -1009,7 +1009,7 @@ const COPY = {
       },
       {
         q: 'What happens if I forget my pet passport?',
-        a: 'Your pet may be refused entry to the destination country or placed in quarantine. Never take the risk — always carry original documents, never photocopies.',
+        a: 'Your pet may be refused entry to the destination country or placed in quarantine. Never take the risk, always carry original documents, never photocopies.',
       },
       {
         q: 'Is the UK difficult to reach with a pet post-Brexit?',

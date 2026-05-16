@@ -1,6 +1,6 @@
 export const SITE_URL = 'https://www.hotelswithpets.com'
 
-/** Stay22 partner AID — used for map embeds and Allez deep links */
+/** Stay22 partner AID, used for map embeds and Allez deep links */
 export const STAY22_AID = 'eijeanbaptistemanson'
 
 /**
@@ -25,7 +25,7 @@ export function buildAllezLink(
 }
 
 /**
- * Build a Stay22 Allez destination link (no specific hotel — shows all options in the city).
+ * Build a Stay22 Allez destination link (no specific hotel, shows all options in the city).
  */
 export function buildAllezDestLink(cityName: string, country: string, campaign = 'hotelswithpets'): string {
   const address = encodeURIComponent(`${cityName} ${country}`)

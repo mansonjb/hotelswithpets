@@ -22,7 +22,7 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
     aarhus: {
-      personality: 'Denmark\'s second city — Scandinavia\'s most pet-tolerant café culture after Copenhagen, with free public transport for dogs and 8 official off-leash forests',
+      personality: 'Denmark\'s second city, Scandinavia\'s most pet-tolerant café culture after Copenhagen, with free public transport for dogs and 8 official off-leash forests',
       highlight: 'Marselisborg Hundeskov, Bellevue Strand year-round dog beach, and the Den Gamle By open-air museum',
       area: 'Latin Quarter, Frederiksbjerg, and the harbour Dokk1 area',
     },
@@ -37,7 +37,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Jordaan neighbourhood and the canal belt',
     },
     annecy: {
-      personality: `the 'Venice of the Alps' — a UNESCO-rated medieval Vieille Ville on canals, the cleanest large lake in Europe with year-round dog-swim spots, and the 4 000-hectare Semnoz forest with 50 km of off-leash trails directly south of the centre`,
+      personality: `the 'Venice of the Alps', a UNESCO-rated medieval Vieille Ville on canals, the cleanest large lake in Europe with year-round dog-swim spots, and the 4 000-hectare Semnoz forest with 50 km of off-leash trails directly south of the centre`,
       highlight: `the Pont des Amours and the Vieille Ville canals, the 42 km flat lake-circuit cycle path, and the Semnoz forest summit at 1 699 m`,
       area: `the Vieille Ville around the Palais de l'Île, the Pâquier and Albigny lakefront, and the residential Annecy-le-Vieux`,
     },
@@ -52,7 +52,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Koukaki, Monastiraki, and Pangrati',
     },
     avignon: {
-      personality: `the Provençal capital and former seat of seven popes — a UNESCO-rated walled centro storico, the towering Palais des Papes (Europe's largest Gothic palace), the legendary Pont Saint-Bénézet on the Rhône, and direct TGV access from Paris in 2h40`,
+      personality: `the Provençal capital and former seat of seven popes, a UNESCO-rated walled centro storico, the towering Palais des Papes (Europe's largest Gothic palace), the legendary Pont Saint-Bénézet on the Rhône, and direct TGV access from Paris in 2h40`,
       highlight: `the Place du Palais des Papes, the Rocher des Doms gardens with the iconic city panorama, and the île de la Barthelasse with 4 km of Rhône-bank dog walking`,
       area: `the intra-muros around the Palais des Papes, the Rue des Teinturiers and Place de l'Horloge bistrot quarter, and the île de la Barthelasse across the river`,
     },
@@ -62,7 +62,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'El Born, Gràcia, and Eixample',
     },
     basel: {
-      personality: 'one of Europe\'s most underrated dog-friendly cities — Switzerland\'s tri-border art capital, with two designated Rhine swim spots, an off-leash floodplain park along the Wiese river, and a 24/7 emergency vet clinic',
+      personality: 'one of Europe\'s most underrated dog-friendly cities, Switzerland\'s tri-border art capital, with two designated Rhine swim spots, an off-leash floodplain park along the Wiese river, and a 24/7 emergency vet clinic',
       highlight: 'the Birsköpfli dog swim spot, Landschaftspark Wiese, and the Pfalz terrace at the Münster',
       area: 'the medieval Altstadt around Marktplatz, the creative Kleinbasel quarter, and the leafy St. Alban district',
     },
@@ -77,7 +77,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stari Grad, Skadarlija, and Dorćol',
     },
     bergen: {
-      personality: 'Norway\'s gateway to the fjords, wedged between seven mountains and the sea — free public transport for dogs, off-leash mountains 7 minutes from the city centre, and a UNESCO Hanseatic wharf at the harbour',
+      personality: 'Norway\'s gateway to the fjords, wedged between seven mountains and the sea, free public transport for dogs, off-leash mountains 7 minutes from the city centre, and a UNESCO Hanseatic wharf at the harbour',
       highlight: 'Mount Fløyen via the Fløibanen funicular, the Vidden ridge to Mount Ulriken, and the colourful Bryggen wharf',
       area: 'Bryggen, Sandviken, and Marken',
     },
@@ -87,7 +87,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Prenzlauer Berg, Mitte, and Kreuzberg',
     },
     bern: {
-      personality: 'one of Europe\'s most pet-welcoming capitals — Switzerland\'s UNESCO Old Town has 6 km of covered Lauben arcades, three urban forests within tram distance, and the country\'s leading veterinary teaching hospital',
+      personality: 'one of Europe\'s most pet-welcoming capitals, Switzerland\'s UNESCO Old Town has 6 km of covered Lauben arcades, three urban forests within tram distance, and the country\'s leading veterinary teaching hospital',
       highlight: 'the Bremgartenwald off-leash forest, the 5 km Aare riverside promenade, and the BärenPark below the Old Town',
       area: 'the Altstadt UNESCO arcades, the Marzili and Matte riverside districts, and the Rosengarten viewpoint',
     },
@@ -112,7 +112,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
     bratislava: {
-      personality: 'a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests, and the Danube embankments — all on foot from the centre',
+      personality: 'a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests, and the Danube embankments, all on foot from the centre',
       highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
       area: 'the Old Town, Petržalka, and Devín',
     },
@@ -127,12 +127,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'The Lanes, Kemptown, and the Hove seafront',
     },
     bristol: {
-      personality: 'one of England\'s greenest cities — 70% of pubs welcome dogs, free public transport for pets, the iconic Clifton Suspension Bridge and 162-hectare Ashton Court Estate at the gates',
+      personality: 'one of England\'s greenest cities, 70% of pubs welcome dogs, free public transport for pets, the iconic Clifton Suspension Bridge and 162-hectare Ashton Court Estate at the gates',
       highlight: 'Ashton Court Estate, the Downs at the top of the Avon Gorge, and the floating Bristol Ferry to the Wapping Wharf',
       area: 'Clifton, the Harbourside, and Stokes Croft',
     },
     brno: {
-      personality: `Moravia's compact and remarkably affordable capital — 14 fenced municipal off-leash zones, dog-tolerant pivnice culture across the centre, and a year-round dog-swimming reservoir 25 minutes by tram`,
+      personality: `Moravia's compact and remarkably affordable capital, 14 fenced municipal off-leash zones, dog-tolerant pivnice culture across the centre, and a year-round dog-swimming reservoir 25 minutes by tram`,
       highlight: `the Špilberk hilltop park, the Brno Dam reservoir at Bystrc, and the South Moravian wine region day trips to Pavlov and Mikulov`,
       area: `the medieval centre around náměstí Svobody, Lužánky, and the Bystrc lakeside district`,
     },
@@ -157,12 +157,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
     cambridge: {
-      personality: `one of England's most reliably dog-friendly small cities — vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
+      personality: `one of England's most reliably dog-friendly small cities, vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
       highlight: `the Backs riverside path, Grantchester Meadows and The Orchard tea garden, and the Iron Age hillfort trails of Wandlebury Country Park`,
       area: `the historic centre around King's Parade, the Mill Road quarter, and the riverside Newnham district`,
     },
     cannes: {
-      personality: 'a glamorous French Riviera city with a surprisingly relaxed dog culture — terraces in Le Suquet, the Marché Forville, and the western beaches all welcome dogs year-round',
+      personality: 'a glamorous French Riviera city with a surprisingly relaxed dog culture, terraces in Le Suquet, the Marché Forville, and the western beaches all welcome dogs year-round',
       highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
       area: 'Le Suquet (the old town), the Marché Forville quarter, and La Bocca',
     },
@@ -187,12 +187,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Nørrebro, Frederiksberg, and Vesterbro',
     },
     cordoba: {
-      personality: 'Andalusia\'s UNESCO Mezquita-Catedral city, 45 minutes by AVE from Seville — compact whitewashed historic centre, the Roman Bridge over the Guadalquivir, and the Sierra Morena foothills 15 minutes north for cool dog hikes',
+      personality: 'Andalusia\'s UNESCO Mezquita-Catedral city, 45 minutes by AVE from Seville, compact whitewashed historic centre, the Roman Bridge over the Guadalquivir, and the Sierra Morena foothills 15 minutes north for cool dog hikes',
       highlight: 'the Roman Bridge sunset view, the Judería Jewish Quarter alleys, and the Sotos de la Albolafia riverside path',
       area: 'the Judería, the Centro near the Plaza de la Corredera, and the modern San Fernando area',
     },
     cork: {
-      personality: `Ireland's foodie rebel city on the River Lee — Georgian streets, snug-friendly traditional pubs, the iconic English Market, and the 200-hectare Ballincollig off-leash park 8 km west, with West Cork's beaches a short drive south`,
+      personality: `Ireland's foodie rebel city on the River Lee, Georgian streets, snug-friendly traditional pubs, the iconic English Market, and the 200-hectare Ballincollig off-leash park 8 km west, with West Cork's beaches a short drive south`,
       highlight: `Fitzgerald's Park and the Mardyke walkway, Ballincollig Regional Park's off-leash zone, and the 25-min train to dog-friendly Cobh waterfront`,
       area: `the Latin Quarter, the Marina riverside, and Blackrock`,
     },
@@ -222,12 +222,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stockbridge, Leith, and the New Town',
     },
     evora: {
-      personality: `the Alentejano UNESCO capital and former Roman, Visigoth and Moorish town — a 2,000-year-old Roman Temple, the eerie Capela dos Ossos, one of Iberia's largest medieval city wall circuits, and direct CP rail access from Lisbon in 1h30`,
+      personality: `the Alentejano UNESCO capital and former Roman, Visigoth and Moorish town, a 2,000-year-old Roman Temple, the eerie Capela dos Ossos, one of Iberia's largest medieval city wall circuits, and direct CP rail access from Lisbon in 1h30`,
       highlight: `the Roman Temple of Évora, the Cromeleque dos Almendres megalithic site (7,000 years older than Stonehenge), and the Lago Alqueva dog beaches at Monsaraz`,
       area: `the Centro Histórico around Praça do Giraldo, the Roman Temple area on Largo do Conde de Vila Flor, and the Alentejo wine route just outside the walls`,
     },
     faro: {
-      personality: `the Algarve capital and gateway to Portugal's southern coast — a UNESCO-rated Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and the lowest pet supplements in southern Europe`,
+      personality: `the Algarve capital and gateway to Portugal's southern coast, a UNESCO-rated Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and the lowest pet supplements in southern Europe`,
       highlight: `the Cidade Velha and Arco da Vila stork gate, the Ria Formosa boardwalk to the salt pans, and the Ilha Deserta wild Atlantic dog beach by ferry`,
       area: `the Cidade Velha around the cathedral square, the marina-front esplanade, and the residential Bom João near the train station`,
     },
@@ -237,7 +237,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Oltrarno, Santa Croce, and San Frediano',
     },
     frankfurt: {
-      personality: 'Germany\'s greenest financial capital — 52% of the city is woodland or parks, with a 4,200-hectare Stadtwald, dog-welcoming Apfelwein taverns in Sachsenhausen, and two 24/7 emergency vet clinics',
+      personality: 'Germany\'s greenest financial capital, 52% of the city is woodland or parks, with a 4,200-hectare Stadtwald, dog-welcoming Apfelwein taverns in Sachsenhausen, and two 24/7 emergency vet clinics',
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
@@ -247,17 +247,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `the Latin Quarter, the West End, and Salthill on the bay`,
     },
     gdansk: {
-      personality: `the Hanseatic Pearl of the Baltic and former Free City of Danzig — a UNESCO Długi Targ, the Solidarity birthplace at Stocznia Gdańska, and direct SKM rail access to Sopot Dog Beach (Poland's most famous) in 15 minutes`,
+      personality: `the Hanseatic Pearl of the Baltic and former Free City of Danzig, a UNESCO Długi Targ, the Solidarity birthplace at Stocznia Gdańska, and direct SKM rail access to Sopot Dog Beach (Poland's most famous) in 15 minutes`,
       highlight: `the Długi Targ and Mariacka Street, the Sopot Dog Beach 15 min by SKM, and the Tri-City Landscape Park with 200 km of off-leash trails`,
       area: `the Główne Miasto around Długi Targ, the Wyspa Spichrzów island on the Motława, and Wrzeszcz to the north`,
     },
     geneva: {
-      personality: 'one of Europe\'s most pet-welcoming international capitals — Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
+      personality: 'one of Europe\'s most pet-welcoming international capitals, Swiss law allows dogs in restaurants and cafés, the year-round off-leash Bois de la Bâtie sits in the centre, and two 24/7 emergency vet clinics serve the canton',
       highlight: 'the Bois de la Bâtie off-leash forest, the lakefront Quai Wilson promenade, and the bohemian Carouge district',
       area: 'Pâquis on the right bank, Eaux-Vives on the left bank, and Carouge across the Arve',
     },
     genoa: {
-      personality: 'one of Italy\'s most quietly pet-welcoming cities — the first in Liguria to open an official dog beach, with caruggi alleys 8°C cooler than the seafront on summer days, three 24/7 emergency vet clinics, and a unique vertical transport network of funiculars and lifts',
+      personality: 'one of Italy\'s most quietly pet-welcoming cities, the first in Liguria to open an official dog beach, with caruggi alleys 8°C cooler than the seafront on summer days, three 24/7 emergency vet clinics, and a unique vertical transport network of funiculars and lifts',
       highlight: 'the Vesima year-round dog beach, the 92,000 m² Parchi di Nervi, and the Porto Antico redesigned by Renzo Piano',
       area: 'the UNESCO Strade Nuove, the Boccadasse fishing village, and the Nervi seaside parks',
     },
@@ -272,7 +272,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the West End, Merchant City, and Finnieston',
     },
     gothenburg: {
-      personality: 'Sweden\'s most dog-friendly city — a lively port and university city where dogs ride trams for free, run off-leash in the 137-hectare Slottsskogen, and are welcomed inside almost every café',
+      personality: 'Sweden\'s most dog-friendly city, a lively port and university city where dogs ride trams for free, run off-leash in the 137-hectare Slottsskogen, and are welcomed inside almost every café',
       highlight: 'the Slottsskogen urban forest, the Haga wooden district cafés, and the dog-friendly Gothenburg Archipelago islands',
       area: 'Haga, the Linné neighbourhood, and the Vasastan district',
     },
@@ -282,7 +282,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the UNESCO Altstadt around the Hauptplatz, the trendy Lend district west of the Mur, and the leafy Geidorf student quarter',
     },
     granada: {
-      personality: 'the most atmospheric Moorish city in Europe — where the Alhambra watches over cobbled Albaicín lanes, Andalusian terrace culture makes dogs genuinely welcome, and the Sierra Nevada is an hour away',
+      personality: 'the most atmospheric Moorish city in Europe, where the Alhambra watches over cobbled Albaicín lanes, Andalusian terrace culture makes dogs genuinely welcome, and the Sierra Nevada is an hour away',
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
       area: 'the Albaicín, the Realejo, and the historic centre around Plaza Nueva',
     },
@@ -292,12 +292,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Alster lake shores, the Schanzenviertel, and the Elbe waterfront in Övelgönne',
     },
     hannover: {
-      personality: 'Lower Saxony\'s calm capital — home to Germany\'s largest urban forest (Eilenriede, 640 ha, bigger than Central Park), the Maschsee lake with its dog swim zone, and a world-class veterinary university hospital',
+      personality: 'Lower Saxony\'s calm capital, home to Germany\'s largest urban forest (Eilenriede, 640 ha, bigger than Central Park), the Maschsee lake with its dog swim zone, and a world-class veterinary university hospital',
       highlight: 'the 640-hectare Eilenriede forest, the Maschsee 6 km loop and Hundebadestelle, and the baroque Georgengarten avenue',
       area: 'List, the Maschsee shores, and the Altstadt around the Marktkirche',
     },
     heidelberg: {
-      personality: `Germany's most romantic university city — a baroque Altstadt under the ruined Renaissance castle, the iconic Philosophenweg view path, the Königstuhl forest with 70 km of off-leash trails, and direct ICE trains from Frankfurt Airport in 50 min`,
+      personality: `Germany's most romantic university city, a baroque Altstadt under the ruined Renaissance castle, the iconic Philosophenweg view path, the Königstuhl forest with 70 km of off-leash trails, and direct ICE trains from Frankfurt Airport in 50 min`,
       highlight: `the Schloss terraces, the Philosophenweg with its Heiligenberg forest, and the Königstuhl funicular up to 70 km of off-leash forest trails`,
       area: `the Altstadt around the Hauptstraße, Bergheim near the train station, and the leafy Neuenheim across the Neckar`,
     },
@@ -312,7 +312,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kallio, Töölö, and the Design District',
     },
     innsbruck: {
-      personality: 'Tyrol\'s capital encircled by 2,300m Alpine peaks — free public transport for dogs, dog-friendly cable cars to mountain summits, café and Gasthaus tradition that welcomes dogs, and 24/7 emergency vet',
+      personality: 'Tyrol\'s capital encircled by 2,300m Alpine peaks, free public transport for dogs, dog-friendly cable cars to mountain summits, café and Gasthaus tradition that welcomes dogs, and 24/7 emergency vet',
       highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
       area: 'Altstadt, Wilten, and the Maria-Theresien-Strasse axis',
     },
@@ -322,17 +322,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Old Town, Kazimierz, and Podgórze',
     },
     lausanne: {
-      personality: 'Switzerland\'s Olympic Capital on Lake Geneva — one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
+      personality: 'Switzerland\'s Olympic Capital on Lake Geneva, one of Europe\'s most naturally dog-welcoming cities, where dogs ride the metro free, roam the 200-hectare Sauvabelin forest, and are welcomed in virtually every restaurant',
       highlight: 'the Forêt de Sauvabelin urban forest, the Lavaux UNESCO vineyard trail along the lake, and the Ouchy lakefront promenade',
       area: 'Ouchy (lakeside), the Flon creative district, and the medieval Cité',
     },
     lecce: {
-      personality: `the 'Florence of the South' — UNESCO baroque centro storico carved entirely in honey-coloured pietra leccese, dog-tolerant Salento café culture, and year-round dog beaches at Punta Prosciutto and Frassanito 30-45 min by car`,
+      personality: `the 'Florence of the South', UNESCO baroque centro storico carved entirely in honey-coloured pietra leccese, dog-tolerant Salento café culture, and year-round dog beaches at Punta Prosciutto and Frassanito 30-45 min by car`,
       highlight: `Piazza del Duomo and the Basilica di Santa Croce, the Roman amphitheatre on Piazza Sant'Oronzo, and the Salento dog beaches at Punta Prosciutto and Frassanito`,
       area: `the centro storico around Piazza Sant'Oronzo, the Mazzini quarter near the station, and the residential Borgo Piave`,
     },
     leipzig: {
-      personality: `Saxony's musical capital and the city of Bach — 5,500-hectare Auenwald floodplain forest in the centre, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen and a year-round Hundestrand at Cospudener See 12 min by S-Bahn`,
+      personality: `Saxony's musical capital and the city of Bach, 5,500-hectare Auenwald floodplain forest in the centre, the dog-friendly Karl-Heine-Kanal towpath, 11 fenced Hundeauslaufzonen and a year-round Hundestrand at Cospudener See 12 min by S-Bahn`,
       highlight: `the Auenwald floodplain forest, the Cospudener See dog beach, and the Karl-Heine-Kanal towpath linking Plagwitz to the Karli district`,
       area: `the Innenstadt around the Markt, the Karli (Karl-Liebknecht-Straße), and the Plagwitz creative district`,
     },
@@ -362,7 +362,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Islington, Notting Hill, and Bermondsey',
     },
     lucca: {
-      personality: `Tuscany's perfectly preserved walled city, where 4.2 km of Renaissance ramparts (1545-1650) form a flat grassy dog-walking loop on top of the walls — arguably Italy's most dog-friendly major town`,
+      personality: `Tuscany's perfectly preserved walled city, where 4.2 km of Renaissance ramparts (1545-1650) form a flat grassy dog-walking loop on top of the walls, arguably Italy's most dog-friendly major town`,
       highlight: 'the 4.2 km wall walk, the Piazza dell\'Anfiteatro oval and the Serchio riverside dog-bathing zone',
       area: `the walled centro storico around Piazza San Michele, the Anfiteatro, and the area near the Cathedral and Guinigi Tower`,
     },
@@ -382,7 +382,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Presqu\'île, Croix-Rousse, and Confluence',
     },
     maastricht: {
-      personality: `the Netherlands' oldest city and Limburg's Burgundian capital — Burgundian café culture welcomes leashed dogs by default, the Sint-Pietersberg forest hill rises directly south of the centre, and 22 fenced losloopgebieden ring the medieval core`,
+      personality: `the Netherlands' oldest city and Limburg's Burgundian capital, Burgundian café culture welcomes leashed dogs by default, the Sint-Pietersberg forest hill rises directly south of the centre, and 22 fenced losloopgebieden ring the medieval core`,
       highlight: `the Sint-Pietersberg forest hill, the Maas riverside towpath to Belgium, and the Pietersplas dog-swim bay 5 km south`,
       area: `the medieval centre around the Vrijthof, the Wyck quarter on the right Maas bank, and the Sint Pieter village neighbourhood`,
     },
@@ -432,7 +432,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the Bouffay historic district, the Île de Nantes, and the Procé neighbourhood',
     },
     naples: {
-      personality: 'Italy\'s chaotic, passionate southern capital — dense historic alleys, a pedestrian 2.5 km Lungomare, the 134-hectare Bosco di Capodimonte, and trattorie that treat dogs as part of the family',
+      personality: 'Italy\'s chaotic, passionate southern capital, dense historic alleys, a pedestrian 2.5 km Lungomare, the 134-hectare Bosco di Capodimonte, and trattorie that treat dogs as part of the family',
       highlight: 'the Lungomare Caracciolo, the Bosco di Capodimonte, and the Parco Virgiliano on Posillipo',
       area: 'Chiaia, Posillipo, and the historic centre around Spaccanapoli',
     },
@@ -467,7 +467,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'the old town around Quattro Canti and the Vucciria, Ballarò and Capo markets, the Kalsa quarter, and the Foro Italico seafront',
     },
     pamplona: {
-      personality: `Northern Spain's pintxo capital — Hemingway's city of San Fermines, with the 28-ha Citadel park as the daily walk and one of Spain's most park-dense urban networks`,
+      personality: `Northern Spain's pintxo capital, Hemingway's city of San Fermines, with the 28-ha Citadel park as the daily walk and one of Spain's most park-dense urban networks`,
       highlight: 'the 28-ha Citadel park with its fenced off-leash zone, the 11 km Río Arga riverside greenway loop, and the Japanese-style Yamaguchi park',
       area: `the medieval old town around Plaza del Castillo, the Citadel and Vuelta del Castillo south of centre, and the Iturrama university quarter`,
     },
@@ -548,7 +548,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Meje, the Old Town surroundings, and the Manuš neighbourhood',
     },
     stavanger: {
-      personality: `Norway's third city and the gateway to the Lysefjord — a UNESCO-rated wooden Old Town (Gamle Stavanger), exceptionally dog-friendly transport (free buses, free trains, free fjord ferries), the iconic Pulpit Rock 50 min east, and 35 km of dog-friendly Atlantic sand 15 min south`,
+      personality: `Norway's third city and the gateway to the Lysefjord, a UNESCO-rated wooden Old Town (Gamle Stavanger), exceptionally dog-friendly transport (free buses, free trains, free fjord ferries), the iconic Pulpit Rock 50 min east, and 35 km of dog-friendly Atlantic sand 15 min south`,
       highlight: `Pulpit Rock (Preikestolen) hike with leashed dog, the Lysefjord cruise, and Solastranden Atlantic dog beach 15 min from the centre`,
       area: `the Vågen harbour and Gamle Stavanger wooden Old Town, the colourful Fargegata street, and the Mosvatnet lake quarter`,
     },
@@ -558,7 +558,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Södermalm, Östermalm, and Djurgården',
     },
     strasbourg: {
-      personality: 'one of Europe\'s most atmospheric UNESCO cities — where Alsatian culture, Christmas markets, and a relaxed attitude to dogs make it a year-round pet-travel destination',
+      personality: 'one of Europe\'s most atmospheric UNESCO cities, where Alsatian culture, Christmas markets, and a relaxed attitude to dogs make it a year-round pet-travel destination',
       highlight: 'Parc de l\'Orangerie, the Petite France canals, and the Jardins des Deux Rives on the Rhine',
       area: 'Petite France, the Krutenau, and the European Quarter',
     },
@@ -573,7 +573,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kalamaja, Telliskivi, and the Old Town',
     },
     tampere: {
-      personality: `Finland's third city and the unofficial sauna capital — exceptionally dog-friendly transport (free trams, free trains), 22 fenced koira-aitaus, two lake dog beaches walking distance from the centre, and the iconic Pyynikki ridge with year-round dog walking`,
+      personality: `Finland's third city and the unofficial sauna capital, exceptionally dog-friendly transport (free trams, free trains), 22 fenced koira-aitaus, two lake dog beaches walking distance from the centre, and the iconic Pyynikki ridge with year-round dog walking`,
       highlight: `the Pyynikki ridge and observation tower café, the Pyynikki and Niihama dog beaches on the two lakes, and the Tammerkoski rapids walkway through the centre`,
       area: `the centre between the Tammerkoski rapids and Hämeenkatu, the Finlayson creative quarter, and the lakeside Pyynikki ridge`,
     },
@@ -583,12 +583,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Statenkwartier, Hofkwartier, and Scheveningen Haven',
     },
     thessaloniki: {
-      personality: 'Greece\'s second city and one of its most dog-friendly — a 2,300-year-old port city where dogs are welcome on terraces, in the old town quarter, and along the 3.5 km Nea Paralia waterfront promenade',
+      personality: 'Greece\'s second city and one of its most dog-friendly, a 2,300-year-old port city where dogs are welcome on terraces, in the old town quarter, and along the 3.5 km Nea Paralia waterfront promenade',
       highlight: 'the Nea Paralia waterfront park (with a dedicated dog area), the Seich Sou urban forest, and the Ano Poli Byzantine wall walks',
       area: 'Ano Poli (Upper Town), Ladadika, and the Waterfront',
     },
     toledo: {
-      personality: `the medieval Imperial City and former Visigoth, Moorish and Christian capital — a UNESCO-rated open-air museum on a granite outcrop above the Tagus, with Madrid 33 minutes away by Avant high-speed rail`,
+      personality: `the medieval Imperial City and former Visigoth, Moorish and Christian capital, a UNESCO-rated open-air museum on a granite outcrop above the Tagus, with Madrid 33 minutes away by Avant high-speed rail`,
       highlight: `the Mirador del Valle viewpoint with the iconic skyline panorama, the Senda Ecológica circular path along the Tagus, and the Puente de San Martín medieval bridge`,
       area: `the Casco Histórico around Plaza de Zocodover, the Judería with the El Greco Museum, and La Vega across the Puente de San Martín`,
     },
@@ -598,7 +598,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
     trondheim: {
-      personality: `Norway's third city and medieval capital — UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, free dog transport on buses, trams and trains, and 80 km² of Bymarka urban forest at the city edge`,
+      personality: `Norway's third city and medieval capital, UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, free dog transport on buses, trams and trains, and 80 km² of Bymarka urban forest at the city edge`,
       highlight: `the Nidaros Cathedral and Gamle Bybro bridge, the iconic Gråkallbanen heritage tram to Bymarka forest, and Munkholmen island ferry`,
       area: `the Midtbyen around Nidaros Cathedral, the wooden Bakklandet quarter, and the Solsiden harbour district`,
     },
@@ -608,7 +608,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'San Salvario, the Quadrilatero Romano, and the Piazza Castello historic core',
     },
     utrecht: {
-      personality: 'a compact Dutch university city where dogs ride city buses and trams free, the canal-cruise operator welcomes dogs at no charge, and three off-leash zones — the 300-hectare Máximapark, the central Griftpark, and the Amelisweerd estates — are all reachable from the historic core',
+      personality: 'a compact Dutch university city where dogs ride city buses and trams free, the canal-cruise operator welcomes dogs at no charge, and three off-leash zones, the 300-hectare Máximapark, the central Griftpark, and the Amelisweerd estates, are all reachable from the historic core',
       highlight: 'Máximapark in Leidsche Rijn, the central Griftpark, and the Amelisweerd & Rhijnauwen estates 5 km southeast',
       area: 'Binnenstad and the Oudegracht, Vogelenbuurt, and Wittevrouwen',
     },
@@ -648,7 +648,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `the Old Town around the Rynek, the bohemian Nadodrze district, and the Four Denominations Quarter`,
     },
     york: {
-      personality: `one of England's most reliably dog-friendly cities — a compact medieval core where 80% of pubs welcome leashed dogs, the 5 km city walls walk is free of charge with pets, and direct LNER trains link day-trip dog beaches at Filey, Sandsend and Bridlington`,
+      personality: `one of England's most reliably dog-friendly cities, a compact medieval core where 80% of pubs welcome leashed dogs, the 5 km city walls walk is free of charge with pets, and direct LNER trains link day-trip dog beaches at Filey, Sandsend and Bridlington`,
       highlight: `the dog-friendly city walls circuit, the riverside Museum Gardens, and the year-round dog beach at Filey one hour east on the LNER line`,
       area: `the historic centre inside the walls, the Fossgate quarter, and the Bishopthorpe Road / Knavesmire neighbourhood`,
     },
@@ -658,7 +658,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Donji Grad, Gornji Grad, and the Maksimir lakes district',
     },
     zaragoza: {
-      personality: `Aragon's capital and Spain's fifth-largest city — anchored by the Basílica del Pilar on the Ebro and built around 126 designated off-leash zones, one of the densest pet-friendly park networks in Spain, plus AniCura Emvet 24/7 referral hospital`,
+      personality: `Aragon's capital and Spain's fifth-largest city, anchored by the Basílica del Pilar on the Ebro and built around 126 designated off-leash zones, one of the densest pet-friendly park networks in Spain, plus AniCura Emvet 24/7 referral hospital`,
       highlight: `the 27-hectare Parque Grande Labordeta, the fenced canine zone in Parque del Tío Jorge, and the riverside walks along the Riberas del Ebro`,
       area: `the Casco Histórico around El Pilar, the leafy Centro on Paseo de Sagasta, and the Magdalena tapas quarter`,
     },
@@ -670,7 +670,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   },
   fr: {
     aarhus: {
-      personality: 'la deuxième ville du Danemark — culture café la plus tolérante de Scandinavie après Copenhague, transports publics gratuits pour chiens et 8 forêts sans laisse officielles',
+      personality: 'la deuxième ville du Danemark, culture café la plus tolérante de Scandinavie après Copenhague, transports publics gratuits pour chiens et 8 forêts sans laisse officielles',
       highlight: 'le Marselisborg Hundeskov, la plage canine toute l\'année de Bellevue Strand, et le musée en plein air Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg et la zone portuaire Dokk1',
     },
@@ -685,7 +685,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le quartier du Jordaan et la ceinture des canaux',
     },
     annecy: {
-      personality: `la « Venise des Alpes » — Vieille Ville médiévale classée le long des canaux, le grand lac le plus propre d'Europe avec spots de baignade canine toute l'année, et la forêt du Semnoz de 4 000 ha avec 50 km de sentiers sans laisse directement au sud du centre`,
+      personality: `la « Venise des Alpes », Vieille Ville médiévale classée le long des canaux, le grand lac le plus propre d'Europe avec spots de baignade canine toute l'année, et la forêt du Semnoz de 4 000 ha avec 50 km de sentiers sans laisse directement au sud du centre`,
       highlight: `le Pont des Amours et les canaux de la Vieille Ville, la piste cyclable plate de 42 km du tour du lac, et le sommet du Semnoz à 1 699 m`,
       area: `la Vieille Ville autour du Palais de l'Île, le Pâquier et le bord de lac d'Albigny, et le résidentiel Annecy-le-Vieux`,
     },
@@ -700,7 +700,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Koukaki, Monastiraki et Pangrati',
     },
     avignon: {
-      personality: `la capitale de la Provence et siège de sept papes — centro storico fortifié classé UNESCO, l'imposant Palais des Papes (le plus grand palais gothique d'Europe), le légendaire Pont Saint-Bénézet sur le Rhône, et un accès TGV direct depuis Paris en 2h40`,
+      personality: `la capitale de la Provence et siège de sept papes, centro storico fortifié classé UNESCO, l'imposant Palais des Papes (le plus grand palais gothique d'Europe), le légendaire Pont Saint-Bénézet sur le Rhône, et un accès TGV direct depuis Paris en 2h40`,
       highlight: `la Place du Palais des Papes, les jardins du Rocher des Doms avec le panorama iconique, et l'île de la Barthelasse avec 4 km de promenade canine au bord du Rhône`,
       area: `l'intra-muros autour du Palais des Papes, le quartier bistrot de la Rue des Teinturiers et de la Place de l'Horloge, et l'île de la Barthelasse de l'autre côté du fleuve`,
     },
@@ -710,7 +710,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'El Born, Gràcia et l\'Eixample',
     },
     basel: {
-      personality: `l'une des villes dog-friendly les plus sous-estimées d'Europe — capitale artistique tri-frontalière de la Suisse, avec deux zones de baignade canine officielles dans le Rhin, un parc alluvial sans laisse le long de la Wiese et une clinique vétérinaire d'urgence ouverte 24h/24`,
+      personality: `l'une des villes dog-friendly les plus sous-estimées d'Europe, capitale artistique tri-frontalière de la Suisse, avec deux zones de baignade canine officielles dans le Rhin, un parc alluvial sans laisse le long de la Wiese et une clinique vétérinaire d'urgence ouverte 24h/24`,
       highlight: 'la baignade canine du Birsköpfli, le Landschaftspark Wiese et la terrasse Pfalz au Münster',
       area: `l'Altstadt médiévale autour de la Marktplatz, le quartier créatif du Kleinbasel et le secteur arboré de St. Alban`,
     },
@@ -725,7 +725,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stari Grad, Skadarlija et Dorćol',
     },
     bergen: {
-      personality: 'la porte d\'entrée norvégienne des fjords, encastrée entre sept montagnes et la mer — transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre, et un quai hanséatique UNESCO sur le port',
+      personality: 'la porte d\'entrée norvégienne des fjords, encastrée entre sept montagnes et la mer, transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre, et un quai hanséatique UNESCO sur le port',
       highlight: 'le Mont Fløyen via le funiculaire Fløibanen, la crête Vidden vers le Mont Ulriken et le quai coloré de Bryggen',
       area: 'Bryggen, Sandviken et Marken',
     },
@@ -735,7 +735,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Prenzlauer Berg, Mitte et Kreuzberg',
     },
     bern: {
-      personality: 'l\'une des capitales les plus accueillantes pour les animaux d\'Europe — la Vieille-Ville UNESCO de Suisse compte 6 km d\'arcades Lauben couvertes, trois forêts urbaines à distance de tram et le principal hôpital universitaire vétérinaire du pays',
+      personality: 'l\'une des capitales les plus accueillantes pour les animaux d\'Europe, la Vieille-Ville UNESCO de Suisse compte 6 km d\'arcades Lauben couvertes, trois forêts urbaines à distance de tram et le principal hôpital universitaire vétérinaire du pays',
       highlight: 'la forêt sans laisse du Bremgartenwald, la promenade fluviale de 5 km le long de l\'Aare et le BärenPark en contrebas de la Vieille-Ville',
       area: 'les arcades UNESCO de l\'Altstadt, les quartiers fluviaux de Marzili et de la Matte et le belvédère du Rosengarten',
     },
@@ -760,7 +760,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
     bratislava: {
-      personality: 'une capitale d\'Europe centrale compacte et abordable où les chiens arpentent les places pavées de la vieille ville, les forêts des Carpates et les berges du Danube — tout à pied depuis le centre',
+      personality: 'une capitale d\'Europe centrale compacte et abordable où les chiens arpentent les places pavées de la vieille ville, les forêts des Carpates et les berges du Danube, tout à pied depuis le centre',
       highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
       area: 'la vieille ville, Petržalka et Devín',
     },
@@ -775,12 +775,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'The Lanes, Kemptown et le front de mer de Hove',
     },
     bristol: {
-      personality: 'l\'une des villes les plus vertes d\'Angleterre — 70 % des pubs accueillent les chiens, transports publics gratuits pour animaux, l\'iconique Clifton Suspension Bridge et les 162 hectares d\'Ashton Court Estate aux portes',
+      personality: 'l\'une des villes les plus vertes d\'Angleterre, 70 % des pubs accueillent les chiens, transports publics gratuits pour animaux, l\'iconique Clifton Suspension Bridge et les 162 hectares d\'Ashton Court Estate aux portes',
       highlight: 'Ashton Court Estate, les Downs au sommet de l\'Avon Gorge et le ferry flottant Bristol Ferry vers Wapping Wharf',
       area: 'Clifton, le Harbourside et Stokes Croft',
     },
     brno: {
-      personality: `la capitale compacte et étonnamment abordable de Moravie — 14 zones sans laisse municipales clôturées, une culture pivnice qui tolère les chiens dans tout le centre, et un réservoir de baignade canine toute l'année à 25 minutes en tram`,
+      personality: `la capitale compacte et étonnamment abordable de Moravie, 14 zones sans laisse municipales clôturées, une culture pivnice qui tolère les chiens dans tout le centre, et un réservoir de baignade canine toute l'année à 25 minutes en tram`,
       highlight: `le parc au sommet du Špilberk, la Brněnská přehrada à Bystrc et les excursions dans la région viticole de Moravie du Sud à Pavlov et Mikulov`,
       area: `le centre médiéval autour de náměstí Svobody, Lužánky et le quartier lacustre de Bystrc`,
     },
@@ -805,12 +805,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
     cambridge: {
-      personality: `l'une des petites villes anglaises les plus fiablement dog-friendly — vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
+      personality: `l'une des petites villes anglaises les plus fiablement dog-friendly, vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
       highlight: `le sentier riverain des Backs, les prés de Grantchester et le tea garden de The Orchard, et les sentiers du fort de l'âge du fer de Wandlebury Country Park`,
       area: `le centre historique autour de King's Parade, le quartier de Mill Road et le secteur riverain de Newnham`,
     },
     cannes: {
-      personality: 'une ville glamour de la Côte d\'Azur avec une culture canine étonnamment détendue — les terrasses du Suquet, le quartier du Marché Forville et les plages de l\'ouest accueillent les chiens toute l\'année',
+      personality: 'une ville glamour de la Côte d\'Azur avec une culture canine étonnamment détendue, les terrasses du Suquet, le quartier du Marché Forville et les plages de l\'ouest accueillent les chiens toute l\'année',
       highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
       area: 'Le Suquet (la vieille ville), le quartier du Marché Forville et La Bocca',
     },
@@ -835,12 +835,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Nørrebro, Frederiksberg et Vesterbro',
     },
     cordoba: {
-      personality: 'la ville UNESCO de la Mezquita-Catedral en Andalousie, à 45 minutes en AVE de Séville — centre historique compact aux ruelles blanches, le Pont romain sur le Guadalquivir et les contreforts de la Sierra Morena à 15 minutes au nord pour des randonnées canines au frais',
+      personality: 'la ville UNESCO de la Mezquita-Catedral en Andalousie, à 45 minutes en AVE de Séville, centre historique compact aux ruelles blanches, le Pont romain sur le Guadalquivir et les contreforts de la Sierra Morena à 15 minutes au nord pour des randonnées canines au frais',
       highlight: 'la vue sur le Pont romain au coucher du soleil, les ruelles de la Judería juive et le sentier riverain des Sotos de la Albolafia',
       area: 'la Judería, le Centro près de la Plaza de la Corredera et le quartier moderne de San Fernando',
     },
     cork: {
-      personality: `la rebel city irlandaise des gourmets sur le Lee — rues georgiennes, pubs traditionnels à snugs, l'emblématique English Market et le Ballincollig Regional Park sans laisse de 200 hectares à 8 km à l'ouest, avec les plages du West Cork à courte distance au sud`,
+      personality: `la rebel city irlandaise des gourmets sur le Lee, rues georgiennes, pubs traditionnels à snugs, l'emblématique English Market et le Ballincollig Regional Park sans laisse de 200 hectares à 8 km à l'ouest, avec les plages du West Cork à courte distance au sud`,
       highlight: `Fitzgerald's Park et la promenade Mardyke, la zone sans laisse du Ballincollig Regional Park et le train de 25 min vers le front de mer dog-friendly de Cobh`,
       area: `le Latin Quarter, la Marina fluviale et Blackrock`,
     },
@@ -870,12 +870,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stockbridge, Leith et le New Town',
     },
     evora: {
-      personality: `la capitale UNESCO alentejane et ancienne ville romaine, wisigothique et mauresque — Temple romain de 2 000 ans, l'inquiétante Capela dos Ossos, l'un des plus grands circuits de remparts médiévaux d'Ibérie, et un accès direct CP depuis Lisbonne en 1h30`,
+      personality: `la capitale UNESCO alentejane et ancienne ville romaine, wisigothique et mauresque, Temple romain de 2 000 ans, l'inquiétante Capela dos Ossos, l'un des plus grands circuits de remparts médiévaux d'Ibérie, et un accès direct CP depuis Lisbonne en 1h30`,
       highlight: `le Temple romain d'Évora, le site mégalithique du Cromeleque dos Almendres (7 000 ans plus ancien que Stonehenge), et les plages canines du lac Alqueva à Monsaraz`,
       area: `le Centro Histórico autour de la Praça do Giraldo, le quartier du Temple romain sur le Largo do Conde de Vila Flor, et la route des vins de l'Alentejo juste en dehors des murs`,
     },
     faro: {
-      personality: `la capitale de l'Algarve et la porte d'entrée de la côte sud du Portugal — Cidade Velha classée UNESCO, parc naturel de la Ria Formosa de 18 000 ha avec ses boardwalks aux flamants toute l'année, plages canines atlantiques sur îles barrières en ferry, et les suppléments animaux les plus bas du sud de l'Europe`,
+      personality: `la capitale de l'Algarve et la porte d'entrée de la côte sud du Portugal, Cidade Velha classée UNESCO, parc naturel de la Ria Formosa de 18 000 ha avec ses boardwalks aux flamants toute l'année, plages canines atlantiques sur îles barrières en ferry, et les suppléments animaux les plus bas du sud de l'Europe`,
       highlight: `la Cidade Velha et l'Arco da Vila avec ses cigognes, le boardwalk de la Ria Formosa vers les marais salants, et la plage canine sauvage atlantique de l'Ilha Deserta en ferry`,
       area: `la Cidade Velha autour de la place de la cathédrale, l'esplanade côté marina et le résidentiel Bom João près de la gare`,
     },
@@ -885,7 +885,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Oltrarno, Santa Croce et San Frediano',
     },
     frankfurt: {
-      personality: 'la capitale financière la plus verte d\'Allemagne — 52% de la ville est forêt ou parcs, avec un Stadtwald de 4 200 hectares, des tavernes à Apfelwein dog-friendly à Sachsenhausen, et deux cliniques vétérinaires d\'urgence ouvertes 24h/24',
+      personality: 'la capitale financière la plus verte d\'Allemagne, 52% de la ville est forêt ou parcs, avec un Stadtwald de 4 200 hectares, des tavernes à Apfelwein dog-friendly à Sachsenhausen, et deux cliniques vétérinaires d\'urgence ouvertes 24h/24',
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
@@ -895,17 +895,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `le Latin Quarter, le West End et Salthill au bord de la baie`,
     },
     gdansk: {
-      personality: `la Perle hanséatique de la Baltique et ancienne ville libre de Danzig — Długi Targ classé UNESCO, le berceau de Solidarité à Stocznia Gdańska, et un accès SKM direct vers la plage canine de Sopot (la plus célèbre de Pologne) en 15 minutes`,
+      personality: `la Perle hanséatique de la Baltique et ancienne ville libre de Danzig, Długi Targ classé UNESCO, le berceau de Solidarité à Stocznia Gdańska, et un accès SKM direct vers la plage canine de Sopot (la plus célèbre de Pologne) en 15 minutes`,
       highlight: `le Długi Targ et la rue Mariacka, la plage canine de Sopot à 15 min en SKM, et le parc paysager de la tri-cité avec 200 km de sentiers sans laisse`,
       area: `le Główne Miasto autour du Długi Targ, l'île Wyspa Spichrzów sur la Motława, et Wrzeszcz au nord`,
     },
     geneva: {
-      personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe — la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
+      personality: 'l\'une des capitales internationales les plus accueillantes pour les animaux d\'Europe, la loi suisse autorise les chiens dans les restaurants et cafés, le Bois de la Bâtie sans laisse toute l\'année se trouve en plein centre, et deux cliniques vétérinaires d\'urgence 24h/24 desservent le canton',
       highlight: 'la forêt sans laisse du Bois de la Bâtie, la promenade lacustre du Quai Wilson et le quartier bohème de Carouge',
       area: 'Pâquis sur la rive droite, les Eaux-Vives sur la rive gauche et Carouge de l\'autre côté de l\'Arve',
     },
     genoa: {
-      personality: 'l\'une des villes italiennes les plus discrètement accueillantes pour les animaux — la première de Ligurie à ouvrir une plage canine officielle, avec des caruggi 8 °C plus frais que le front de mer en été, trois cliniques vétérinaires d\'urgence 24h/24 et un réseau de transport vertical unique de funiculaires et d\'ascenseurs',
+      personality: 'l\'une des villes italiennes les plus discrètement accueillantes pour les animaux, la première de Ligurie à ouvrir une plage canine officielle, avec des caruggi 8 °C plus frais que le front de mer en été, trois cliniques vétérinaires d\'urgence 24h/24 et un réseau de transport vertical unique de funiculaires et d\'ascenseurs',
       highlight: 'la plage canine de Vesima toute l\'année, les Parchi di Nervi de 92 000 m² et le Porto Antico redessiné par Renzo Piano',
       area: 'les Strade Nuove UNESCO, le village de pêcheurs de Boccadasse et les parcs côtiers de Nervi',
     },
@@ -920,7 +920,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le West End, Merchant City et Finnieston',
     },
     gothenburg: {
-      personality: 'la ville la plus dog-friendly de Suède — une ville portuaire et universitaire animée où les chiens prennent le tramway gratuitement, courent sans laisse dans le Slottsskogen de 137 hectares et sont accueillis dans presque tous les cafés',
+      personality: 'la ville la plus dog-friendly de Suède, une ville portuaire et universitaire animée où les chiens prennent le tramway gratuitement, courent sans laisse dans le Slottsskogen de 137 hectares et sont accueillis dans presque tous les cafés',
       highlight: 'la forêt urbaine de Slottsskogen, les cafés du quartier en bois de Haga et les îles dog-friendly de l\'archipel de Göteborg',
       area: 'Haga, le quartier Linné et le quartier Vasastan',
     },
@@ -930,7 +930,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `l'Altstadt UNESCO autour du Hauptplatz, le quartier branché Lend à l'ouest de la Mur et le quartier étudiant verdoyant Geidorf`,
     },
     granada: {
-      personality: 'la ville mauresque la plus atmosphérique d\'Europe — où l\'Alhambra surveille les ruelles pavées de l\'Albaicín, la culture de la terrasse andalouse réserve un accueil sincère aux chiens, et la Sierra Nevada est à une heure',
+      personality: 'la ville mauresque la plus atmosphérique d\'Europe, où l\'Alhambra surveille les ruelles pavées de l\'Albaicín, la culture de la terrasse andalouse réserve un accueil sincère aux chiens, et la Sierra Nevada est à une heure',
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
       area: 'l\'Albaicín, le Realejo et le centre historique autour de la Plaza Nueva',
     },
@@ -940,12 +940,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'les rives de l\'Alster, le Schanzenviertel et le front de mer de l\'Elbe à Övelgönne',
     },
     hannover: {
-      personality: 'capitale tranquille de Basse-Saxe — la plus grande forêt urbaine d\'Allemagne (Eilenriede, 640 ha, plus grande que Central Park), le lac Maschsee avec sa zone de baignade canine, et un hôpital universitaire vétérinaire de niveau mondial',
+      personality: 'capitale tranquille de Basse-Saxe, la plus grande forêt urbaine d\'Allemagne (Eilenriede, 640 ha, plus grande que Central Park), le lac Maschsee avec sa zone de baignade canine, et un hôpital universitaire vétérinaire de niveau mondial',
       highlight: 'les 640 hectares de la forêt de l\'Eilenriede, la boucle de 6 km du Maschsee et sa Hundebadestelle, et l\'allée baroque du Georgengarten',
       area: 'List, les rives du Maschsee et l\'Altstadt autour de la Marktkirche',
     },
     heidelberg: {
-      personality: `la ville universitaire la plus romantique d'Allemagne — Altstadt baroque sous le château Renaissance en ruines, l'iconique sentier panoramique du Philosophenweg, la forêt du Königstuhl avec 70 km de sentiers sans laisse, et des trains ICE directs depuis l'aéroport de Francfort en 50 min`,
+      personality: `la ville universitaire la plus romantique d'Allemagne, Altstadt baroque sous le château Renaissance en ruines, l'iconique sentier panoramique du Philosophenweg, la forêt du Königstuhl avec 70 km de sentiers sans laisse, et des trains ICE directs depuis l'aéroport de Francfort en 50 min`,
       highlight: `les terrasses du Schloss, le Philosophenweg avec sa forêt du Heiligenberg, et le funiculaire du Königstuhl vers 70 km de sentiers forestiers sans laisse`,
       area: `l'Altstadt autour de la Hauptstraße, Bergheim près de la gare et le verdoyant Neuenheim de l'autre côté du Neckar`,
     },
@@ -960,7 +960,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kallio, Töölö et le Quartier du Design',
     },
     innsbruck: {
-      personality: 'la capitale du Tyrol entourée de pics alpins à 2 300 m — transports publics gratuits pour chiens, téléphériques dog-friendly jusqu\'aux sommets, tradition café et Gasthaus qui accueille les chiens, et urgences vétérinaires 24h/24',
+      personality: 'la capitale du Tyrol entourée de pics alpins à 2 300 m, transports publics gratuits pour chiens, téléphériques dog-friendly jusqu\'aux sommets, tradition café et Gasthaus qui accueille les chiens, et urgences vétérinaires 24h/24',
       highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
       area: 'Altstadt, Wilten et l\'axe de la Maria-Theresien-Strasse',
     },
@@ -970,17 +970,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la Vieille Ville, Kazimierz et Podgórze',
     },
     lausanne: {
-      personality: 'la Capitale Olympique suisse sur le lac Léman — l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
+      personality: 'la Capitale Olympique suisse sur le lac Léman, l\'une des villes les plus naturellement dog-friendly d\'Europe, où les chiens prennent le métro gratuitement, se promènent dans la forêt de Sauvabelin de 200 hectares et sont accueillis dans pratiquement chaque restaurant',
       highlight: 'la Forêt de Sauvabelin, le sentier viticole UNESCO du Lavaux et la promenade du bord du lac d\'Ouchy',
       area: 'Ouchy (bord du lac), le quartier créatif du Flon et la Cité médiévale',
     },
     lecce: {
-      personality: `la « Florence du Sud » — centro storico baroque UNESCO sculpté entièrement en pietra leccese couleur miel, culture café tolérante du Salento et plages canines toute l'année à Punta Prosciutto et Frassanito à 30-45 min en voiture`,
+      personality: `la « Florence du Sud », centro storico baroque UNESCO sculpté entièrement en pietra leccese couleur miel, culture café tolérante du Salento et plages canines toute l'année à Punta Prosciutto et Frassanito à 30-45 min en voiture`,
       highlight: `la Piazza del Duomo et la Basilica di Santa Croce, l'amphithéâtre romain de la Piazza Sant'Oronzo, et les plages canines du Salento à Punta Prosciutto et Frassanito`,
       area: `le centro storico autour de la Piazza Sant'Oronzo, le quartier Mazzini près de la gare et le résidentiel Borgo Piave`,
     },
     leipzig: {
-      personality: `la capitale musicale de la Saxe et la ville de Bach — forêt alluviale Auenwald de 5 500 hectares au centre, chemin de halage dog-friendly du Karl-Heine-Kanal, 11 Hundeauslaufzonen clôturées et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn`,
+      personality: `la capitale musicale de la Saxe et la ville de Bach, forêt alluviale Auenwald de 5 500 hectares au centre, chemin de halage dog-friendly du Karl-Heine-Kanal, 11 Hundeauslaufzonen clôturées et une Hundestrand toute l'année au Cospudener See à 12 min en S-Bahn`,
       highlight: `la forêt alluviale Auenwald, la plage canine du Cospudener See et le chemin de halage du Karl-Heine-Kanal qui relie Plagwitz au quartier Karli`,
       area: `l'Innenstadt autour du Markt, le Karli (Karl-Liebknecht-Straße) et le quartier créatif de Plagwitz`,
     },
@@ -1010,7 +1010,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Islington, Notting Hill et Bermondsey',
     },
     lucca: {
-      personality: `la ville fortifiée toscane parfaitement préservée, où 4,2 km de remparts Renaissance (1545-1650) forment une boucle de promenade canine plate et herbeuse au sommet des murailles — sans doute la grande ville italienne la plus dog-friendly`,
+      personality: `la ville fortifiée toscane parfaitement préservée, où 4,2 km de remparts Renaissance (1545-1650) forment une boucle de promenade canine plate et herbeuse au sommet des murailles, sans doute la grande ville italienne la plus dog-friendly`,
       highlight: 'la boucle de 4,2 km sur les murailles, l\'ovale de la Piazza dell\'Anfiteatro et la zone canine du Serchio',
       area: 'le centro storico fortifié autour de la Piazza San Michele, l\'Anfiteatro et les abords de la Cathédrale et de la Tour Guinigi',
     },
@@ -1030,7 +1030,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la Presqu\'île, la Croix-Rousse et Confluence',
     },
     maastricht: {
-      personality: `la plus ancienne ville des Pays-Bas et capitale bourguignonne du Limbourg — la culture café bourguignonne accueille les chiens en laisse par défaut, la colline forestière du Sint-Pietersberg s'élève directement au sud du centre, et 22 losloopgebieden clôturés entourent le cœur médiéval`,
+      personality: `la plus ancienne ville des Pays-Bas et capitale bourguignonne du Limbourg, la culture café bourguignonne accueille les chiens en laisse par défaut, la colline forestière du Sint-Pietersberg s'élève directement au sud du centre, et 22 losloopgebieden clôturés entourent le cœur médiéval`,
       highlight: `la colline forestière du Sint-Pietersberg, le chemin de halage de la Meuse vers la Belgique et la baie de baignade canine du Pietersplas à 5 km au sud`,
       area: `le centre médiéval autour du Vrijthof, le quartier de Wyck sur la rive droite de la Meuse et le village de Sint Pieter`,
     },
@@ -1080,7 +1080,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le quartier historique du Bouffay, l\'Île de Nantes et le quartier Procé',
     },
     naples: {
-      personality: 'la capitale chaotique et passionnée du sud de l\'Italie — ruelles historiques denses, Lungomare piéton de 2,5 km, Bosco di Capodimonte de 134 hectares, et trattorie qui traitent les chiens comme des membres de la famille',
+      personality: 'la capitale chaotique et passionnée du sud de l\'Italie, ruelles historiques denses, Lungomare piéton de 2,5 km, Bosco di Capodimonte de 134 hectares, et trattorie qui traitent les chiens comme des membres de la famille',
       highlight: 'le Lungomare Caracciolo, le Bosco di Capodimonte et le Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo et le centre historique autour de Spaccanapoli',
     },
@@ -1115,7 +1115,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le centre historique autour du Quattro Canti et des marchés de la Vucciria, Ballarò et Capo, le quartier Kalsa et le front de mer du Foro Italico',
     },
     pamplona: {
-      personality: `la capitale du nord de l'Espagne du pintxo — la ville d'Hemingway et des San Fermines, avec le parc de la Citadelle (28 ha) pour la promenade quotidienne et l'un des réseaux urbains les plus denses en parcs d'Espagne`,
+      personality: `la capitale du nord de l'Espagne du pintxo, la ville d'Hemingway et des San Fermines, avec le parc de la Citadelle (28 ha) pour la promenade quotidienne et l'un des réseaux urbains les plus denses en parcs d'Espagne`,
       highlight: 'le parc de la Citadelle (28 ha) avec sa zone clôturée sans laisse, la voie verte de 11 km le long du Río Arga et le parc japonais Yamaguchi',
       area: `le centre historique médiéval autour de la Plaza del Castillo, la Citadelle et la Vuelta del Castillo au sud du centre, et le quartier universitaire d'Iturrama`,
     },
@@ -1195,7 +1195,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Meje, les environs de la Vieille Ville et le quartier de Manuš',
     },
     stavanger: {
-      personality: `la troisième ville de Norvège et porte d'entrée du Lysefjord — vieille ville en bois classée UNESCO (Gamle Stavanger), transports exceptionnellement dog-friendly (bus, trains, ferries de fjord gratuits), l'iconique Preikestolen à 50 min à l'est, et 35 km de sable atlantique dog-friendly à 15 min au sud`,
+      personality: `la troisième ville de Norvège et porte d'entrée du Lysefjord, vieille ville en bois classée UNESCO (Gamle Stavanger), transports exceptionnellement dog-friendly (bus, trains, ferries de fjord gratuits), l'iconique Preikestolen à 50 min à l'est, et 35 km de sable atlantique dog-friendly à 15 min au sud`,
       highlight: `la randonnée du Preikestolen avec chien en laisse, la croisière du Lysefjord et la plage atlantique de Solastranden à 15 min du centre`,
       area: `le port du Vågen et la vieille ville en bois Gamle Stavanger, la rue colorée Fargegata et le quartier du lac Mosvatnet`,
     },
@@ -1205,7 +1205,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Södermalm, Östermalm et Djurgården',
     },
     strasbourg: {
-      personality: 'l\'une des villes UNESCO les plus atmosphériques d\'Europe — où la culture alsacienne, les marchés de Noël et une attitude détendue envers les chiens en font une destination pet-travel toute l\'année',
+      personality: 'l\'une des villes UNESCO les plus atmosphériques d\'Europe, où la culture alsacienne, les marchés de Noël et une attitude détendue envers les chiens en font une destination pet-travel toute l\'année',
       highlight: 'le Parc de l\'Orangerie, les canaux de la Petite France et les Jardins des Deux Rives sur le Rhin',
       area: 'la Petite France, le Krutenau et le Quartier Européen',
     },
@@ -1220,7 +1220,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kalamaja, Telliskivi et la Vieille Ville',
     },
     tampere: {
-      personality: `la troisième ville de Finlande et la capitale officieuse du sauna — transports exceptionnellement dog-friendly (trams et trains gratuits), 22 koira-aitaus clôturés, deux plages canines en bord de lac à distance de marche du centre, et l'iconique crête de Pyynikki avec promenade canine toute l'année`,
+      personality: `la troisième ville de Finlande et la capitale officieuse du sauna, transports exceptionnellement dog-friendly (trams et trains gratuits), 22 koira-aitaus clôturés, deux plages canines en bord de lac à distance de marche du centre, et l'iconique crête de Pyynikki avec promenade canine toute l'année`,
       highlight: `la crête de Pyynikki et son café-tour d'observation, les plages canines de Pyynikki et Niihama sur les deux lacs, et la promenade des rapides du Tammerkoski à travers le centre`,
       area: `le centre entre les rapides du Tammerkoski et Hämeenkatu, le quartier créatif Finlayson et la crête lacustre de Pyynikki`,
     },
@@ -1230,12 +1230,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'le Statenkwartier, le Hofkwartier et Scheveningen Haven',
     },
     thessaloniki: {
-      personality: 'la deuxième ville de Grèce et l\'une de ses plus dog-friendly — une cité portuaire de 2 300 ans où les chiens sont les bienvenus en terrasse, dans le vieux quartier et le long des 3,5 km de la promenade Nea Paralia',
+      personality: 'la deuxième ville de Grèce et l\'une de ses plus dog-friendly, une cité portuaire de 2 300 ans où les chiens sont les bienvenus en terrasse, dans le vieux quartier et le long des 3,5 km de la promenade Nea Paralia',
       highlight: 'le parc du front de mer Nea Paralia (avec une zone canine dédiée), la forêt urbaine de Seich Sou et les promenades byzantines d\'Ano Poli',
       area: 'Ano Poli (Haute Ville), Ladadika et le Front de Mer',
     },
     toledo: {
-      personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne — un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
+      personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne, un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
       highlight: `le belvédère du Mirador del Valle avec le panorama iconique sur la skyline, la Senda Ecológica circulaire le long du Tage, et le Puente de San Martín médiéval`,
       area: `le Casco Histórico autour de la Plaza de Zocodover, la Judería avec le musée El Greco, et La Vega de l'autre côté du Puente de San Martín`,
     },
@@ -1245,7 +1245,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
     },
     trondheim: {
-      personality: `la troisième ville de Norvège et capitale médiévale — cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), quartier en bois coloré de Bakklandet, transport canin gratuit (bus, trams, trains), et 80 km² de forêt urbaine de Bymarka aux portes de la ville`,
+      personality: `la troisième ville de Norvège et capitale médiévale, cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), quartier en bois coloré de Bakklandet, transport canin gratuit (bus, trams, trains), et 80 km² de forêt urbaine de Bymarka aux portes de la ville`,
       highlight: `la cathédrale Nidaros et le Vieux Pont (Gamle Bybro), l'iconique tram historique Gråkallbanen vers la forêt de Bymarka, et le ferry pour l'île Munkholmen`,
       area: `le Midtbyen autour de la cathédrale Nidaros, le quartier en bois de Bakklandet, et le port de Solsiden`,
     },
@@ -1255,7 +1255,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'San Salvario, le Quadrilatero Romano et le cœur historique autour de la Piazza Castello',
     },
     utrecht: {
-      personality: 'une ville universitaire néerlandaise compacte où les chiens montent gratuitement dans les bus et trams urbains, où l\'opérateur de croisière canalière accepte les chiens sans supplément, et où trois zones sans laisse — le Máximapark de 300 hectares, le Griftpark central et les domaines d\'Amelisweerd — sont toutes accessibles depuis le cœur historique',
+      personality: 'une ville universitaire néerlandaise compacte où les chiens montent gratuitement dans les bus et trams urbains, où l\'opérateur de croisière canalière accepte les chiens sans supplément, et où trois zones sans laisse, le Máximapark de 300 hectares, le Griftpark central et les domaines d\'Amelisweerd, sont toutes accessibles depuis le cœur historique',
       highlight: 'le Máximapark à Leidsche Rijn, le Griftpark central et les domaines d\'Amelisweerd & Rhijnauwen à 5 km au sud-est',
       area: 'la Binnenstad et l\'Oudegracht, Vogelenbuurt et Wittevrouwen',
     },
@@ -1295,7 +1295,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `la Vieille Ville autour du Rynek, le quartier bohème de Nadodrze et le Quartier des Quatre Confessions`,
     },
     york: {
-      personality: `l'une des villes anglaises les plus fiablement dog-friendly — un cœur médiéval compact où 80 % des pubs accueillent les chiens en laisse, le circuit de 5 km des remparts est gratuit avec un animal, et les trains LNER directs desservent les plages canines de Filey, Sandsend et Bridlington pour la journée`,
+      personality: `l'une des villes anglaises les plus fiablement dog-friendly, un cœur médiéval compact où 80 % des pubs accueillent les chiens en laisse, le circuit de 5 km des remparts est gratuit avec un animal, et les trains LNER directs desservent les plages canines de Filey, Sandsend et Bridlington pour la journée`,
       highlight: `le circuit dog-friendly des remparts, les Museum Gardens en bord de rivière, et la plage canine ouverte toute l'année à Filey, à une heure à l'est sur la ligne LNER`,
       area: `le centre historique à l'intérieur des remparts, le quartier de Fossgate et le secteur de Bishopthorpe Road / Knavesmire`,
     },
@@ -1305,7 +1305,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `Donji Grad, Gornji Grad et le quartier des lacs de Maksimir`,
     },
     zaragoza: {
-      personality: `la capitale de l'Aragon et cinquième ville d'Espagne — ancrée par la Basílica del Pilar sur l'Ebre et bâtie autour de 126 zones sans laisse désignées, l'un des réseaux dog-friendly les plus denses d'Espagne, plus l'hôpital de référence AniCura Emvet 24h/24`,
+      personality: `la capitale de l'Aragon et cinquième ville d'Espagne, ancrée par la Basílica del Pilar sur l'Ebre et bâtie autour de 126 zones sans laisse désignées, l'un des réseaux dog-friendly les plus denses d'Espagne, plus l'hôpital de référence AniCura Emvet 24h/24`,
       highlight: `le Parque Grande Labordeta de 27 hectares, l'enclos canin du Parque del Tío Jorge et les promenades fluviales des Riberas del Ebro`,
       area: `le Casco Histórico autour d'El Pilar, le Centro arboré sur Paseo de Sagasta et le quartier à tapas Magdalena`,
     },
@@ -1317,7 +1317,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   },
   es: {
     aarhus: {
-      personality: 'la segunda ciudad de Dinamarca — la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
+      personality: 'la segunda ciudad de Dinamarca, la cultura del café más tolerante de Escandinavia después de Copenhague, transporte público gratis para perros y 8 bosques sin correa oficiales',
       highlight: 'el Marselisborg Hundeskov, la playa canina todo el año de Bellevue Strand y el museo al aire libre Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg y la zona portuaria Dokk1',
     },
@@ -1332,7 +1332,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el barrio del Jordaan y el cinturón de canales',
     },
     annecy: {
-      personality: `la « Venecia de los Alpes » — Casco Antiguo medieval clasificado a lo largo de los canales, el lago grande más limpio de Europa con spots de baño canino todo el año, y el bosque del Semnoz de 4 000 ha con 50 km de senderos sin correa directamente al sur del centro`,
+      personality: `la « Venecia de los Alpes », Casco Antiguo medieval clasificado a lo largo de los canales, el lago grande más limpio de Europa con spots de baño canino todo el año, y el bosque del Semnoz de 4 000 ha con 50 km de senderos sin correa directamente al sur del centro`,
       highlight: `el Pont des Amours y los canales del Casco Antiguo, el sendero ciclista plano de 42 km de la vuelta al lago, y la cima del Semnoz a 1 699 m`,
       area: `el Casco Antiguo alrededor del Palais de l'Île, el Pâquier y el frente lacustre de Albigny, y el residencial Annecy-le-Vieux`,
     },
@@ -1347,7 +1347,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Koukaki, Monastiraki y Pangrati',
     },
     avignon: {
-      personality: `la capital de Provenza y antigua sede de siete papas — centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas (el mayor palacio gótico de Europa), el legendario Pont Saint-Bénézet sobre el Ródano, y acceso TGV directo desde París en 2h40`,
+      personality: `la capital de Provenza y antigua sede de siete papas, centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas (el mayor palacio gótico de Europa), el legendario Pont Saint-Bénézet sobre el Ródano, y acceso TGV directo desde París en 2h40`,
       highlight: `la Place du Palais des Papes, los jardines del Rocher des Doms con el panorama icónico, y la île de la Barthelasse con 4 km de paseo canino junto al Ródano`,
       area: `el intra-muros alrededor del Palacio de los Papas, el barrio bistró de la Rue des Teinturiers y la Place de l'Horloge, y la île de la Barthelasse al otro lado del río`,
     },
@@ -1357,7 +1357,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'El Born, Gràcia y el Eixample',
     },
     basel: {
-      personality: `una de las ciudades dog-friendly más infravaloradas de Europa — la capital artística trifronteriza de Suiza, con dos zonas oficiales de baño canino en el Rin, un parque aluvial sin correa a lo largo del Wiese y una clínica veterinaria de urgencias 24/7`,
+      personality: `una de las ciudades dog-friendly más infravaloradas de Europa, la capital artística trifronteriza de Suiza, con dos zonas oficiales de baño canino en el Rin, un parque aluvial sin correa a lo largo del Wiese y una clínica veterinaria de urgencias 24/7`,
       highlight: 'la zona de baño canino de Birsköpfli, el Landschaftspark Wiese y la terraza Pfalz junto al Münster',
       area: `la Altstadt medieval alrededor de la Marktplatz, el creativo barrio de Kleinbasel y el frondoso distrito de St. Alban`,
     },
@@ -1372,7 +1372,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stari Grad, Skadarlija y Dorćol',
     },
     bergen: {
-      personality: 'la puerta noruega a los fiordos, encajada entre siete montañas y el mar — transporte público gratis para perros, montañas sin correa a 7 minutos del centro, y un muelle hanseático UNESCO en el puerto',
+      personality: 'la puerta noruega a los fiordos, encajada entre siete montañas y el mar, transporte público gratis para perros, montañas sin correa a 7 minutos del centro, y un muelle hanseático UNESCO en el puerto',
       highlight: 'el Monte Fløyen vía el funicular Fløibanen, la cresta Vidden hasta el Monte Ulriken y el colorido muelle Bryggen',
       area: 'Bryggen, Sandviken y Marken',
     },
@@ -1382,7 +1382,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Prenzlauer Berg, Mitte y Kreuzberg',
     },
     bern: {
-      personality: 'una de las capitales más acogedoras para mascotas de Europa — el Casco Antiguo UNESCO de Suiza tiene 6 km de soportales Lauben cubiertos, tres bosques urbanos a distancia de tranvía y el principal hospital universitario veterinario del país',
+      personality: 'una de las capitales más acogedoras para mascotas de Europa, el Casco Antiguo UNESCO de Suiza tiene 6 km de soportales Lauben cubiertos, tres bosques urbanos a distancia de tranvía y el principal hospital universitario veterinario del país',
       highlight: 'el bosque sin correa del Bremgartenwald, el paseo fluvial de 5 km a lo largo del Aar y el BärenPark bajo el Casco Antiguo',
       area: 'los soportales UNESCO del Altstadt, los barrios ribereños de Marzili y la Matte y el mirador del Rosengarten',
     },
@@ -1422,12 +1422,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'The Lanes, Kemptown y el paseo marítimo de Hove',
     },
     bristol: {
-      personality: 'una de las ciudades más verdes de Inglaterra — el 70 % de los pubs admite perros, transporte público gratis para mascotas, el icónico Clifton Suspension Bridge y las 162 hectáreas del Ashton Court Estate a las puertas',
+      personality: 'una de las ciudades más verdes de Inglaterra, el 70 % de los pubs admite perros, transporte público gratis para mascotas, el icónico Clifton Suspension Bridge y las 162 hectáreas del Ashton Court Estate a las puertas',
       highlight: 'Ashton Court Estate, los Downs en lo alto de la Garganta del Avon y el ferri flotante Bristol Ferry hasta Wapping Wharf',
       area: 'Clifton, el Harbourside y Stokes Croft',
     },
     brno: {
-      personality: `la capital compacta y sorprendentemente asequible de Moravia — 14 zonas valladas sin correa municipales, una cultura de pivnice que admite perros en todo el centro, y un embalse de baño canino todo el año a 25 minutos en tranvía`,
+      personality: `la capital compacta y sorprendentemente asequible de Moravia, 14 zonas valladas sin correa municipales, una cultura de pivnice que admite perros en todo el centro, y un embalse de baño canino todo el año a 25 minutos en tranvía`,
       highlight: `el parque en lo alto del Špilberk, la Brněnská přehrada en Bystrc y las excursiones a la región vinícola de Moravia del Sur en Pavlov y Mikulov`,
       area: `el centro medieval alrededor de náměstí Svobody, Lužánky y el barrio lacustre de Bystrc`,
     },
@@ -1452,12 +1452,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
     },
     cambridge: {
-      personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly — vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
+      personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly, vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
       highlight: `el sendero ribereño de los Backs, las praderas de Grantchester y el tea garden de The Orchard, y los senderos del fuerte de la Edad del Hierro de Wandlebury Country Park`,
       area: `el centro histórico alrededor de King's Parade, el barrio de Mill Road y la zona ribereña de Newnham`,
     },
     cannes: {
-      personality: 'una glamurosa ciudad de la Costa Azul con una cultura canina sorprendentemente relajada — las terrazas de Le Suquet, el barrio del Marché Forville y las playas occidentales acogen perros durante todo el año',
+      personality: 'una glamurosa ciudad de la Costa Azul con una cultura canina sorprendentemente relajada, las terrazas de Le Suquet, el barrio del Marché Forville y las playas occidentales acogen perros durante todo el año',
       highlight: 'la Île Sainte-Marguerite boscosa, la Plage de la Bocca y los callejones adoquinados de Le Suquet',
       area: 'Le Suquet (el casco antiguo), el barrio del Marché Forville y La Bocca',
     },
@@ -1482,12 +1482,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Nørrebro, Frederiksberg y Vesterbro',
     },
     cordoba: {
-      personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla — compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
+      personality: 'la ciudad UNESCO de la Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilla, compacto centro histórico de calles blancas, el Puente Romano sobre el Guadalquivir y las estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
       highlight: 'la vista al Puente Romano al atardecer, los callejones de la Judería judía y el sendero ribereño de los Sotos de la Albolafia',
       area: 'la Judería, el Centro junto a la Plaza de la Corredera y la zona moderna de San Fernando',
     },
     cork: {
-      personality: `la rebel city irlandesa de los gourmets sobre el Lee — calles georgianas, pubs tradicionales con snugs, el emblemático English Market y el Ballincollig Regional Park sin correa de 200 hectáreas a 8 km al oeste, con las playas del West Cork a corta distancia al sur`,
+      personality: `la rebel city irlandesa de los gourmets sobre el Lee, calles georgianas, pubs tradicionales con snugs, el emblemático English Market y el Ballincollig Regional Park sin correa de 200 hectáreas a 8 km al oeste, con las playas del West Cork a corta distancia al sur`,
       highlight: `Fitzgerald's Park y el paseo Mardyke, la zona sin correa del Ballincollig Regional Park y el tren de 25 min al frente marítimo dog-friendly de Cobh`,
       area: `el Latin Quarter, la Marina fluvial y Blackrock`,
     },
@@ -1517,12 +1517,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stockbridge, Leith y el New Town',
     },
     evora: {
-      personality: `la capital UNESCO alentejana y antigua ciudad romana, visigoda y morisca — Templo romano de 2 000 años, la inquietante Capela dos Ossos, uno de los mayores circuitos de murallas medievales de Iberia, y acceso directo CP desde Lisboa en 1h30`,
+      personality: `la capital UNESCO alentejana y antigua ciudad romana, visigoda y morisca, Templo romano de 2 000 años, la inquietante Capela dos Ossos, uno de los mayores circuitos de murallas medievales de Iberia, y acceso directo CP desde Lisboa en 1h30`,
       highlight: `el Templo romano de Évora, el sitio megalítico del Cromeleque dos Almendres (7 000 años más antiguo que Stonehenge), y las playas caninas del lago Alqueva en Monsaraz`,
       area: `el Centro Histórico alrededor de la Praça do Giraldo, la zona del Templo romano en el Largo do Conde de Vila Flor, y la ruta del vino del Alentejo justo fuera de las murallas`,
     },
     faro: {
-      personality: `la capital del Algarve y la puerta de entrada a la costa sur de Portugal — Cidade Velha clasificada UNESCO, parque natural de la Ria Formosa de 18 000 ha con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera en ferry, y los suplementos para mascotas más bajos del sur de Europa`,
+      personality: `la capital del Algarve y la puerta de entrada a la costa sur de Portugal, Cidade Velha clasificada UNESCO, parque natural de la Ria Formosa de 18 000 ha con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera en ferry, y los suplementos para mascotas más bajos del sur de Europa`,
       highlight: `la Cidade Velha y el Arco da Vila con sus cigüeñas, el boardwalk de la Ria Formosa hacia las salinas, y la playa canina salvaje atlántica de la Ilha Deserta en ferry`,
       area: `la Cidade Velha alrededor de la plaza de la catedral, la esplanada del lado de la marina y el residencial Bom João cerca de la estación`,
     },
@@ -1532,7 +1532,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Oltrarno, Santa Croce y San Frediano',
     },
     frankfurt: {
-      personality: 'la capital financiera más verde de Alemania — el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
+      personality: 'la capital financiera más verde de Alemania, el 52% de la ciudad es bosque o parques, con un Stadtwald de 4.200 hectáreas, tabernas de Apfelwein dog-friendly en Sachsenhausen y dos clínicas veterinarias de urgencias abiertas 24/7',
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
     },
@@ -1542,17 +1542,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `el Latin Quarter, el West End y Salthill junto a la bahía`,
     },
     gdansk: {
-      personality: `la Perla hanseática del Báltico y antigua ciudad libre de Danzig — Długi Targ clasificado UNESCO, el lugar de nacimiento de Solidaridad en Stocznia Gdańska, y acceso directo SKM a la playa canina de Sopot (la más famosa de Polonia) en 15 minutos`,
+      personality: `la Perla hanseática del Báltico y antigua ciudad libre de Danzig, Długi Targ clasificado UNESCO, el lugar de nacimiento de Solidaridad en Stocznia Gdańska, y acceso directo SKM a la playa canina de Sopot (la más famosa de Polonia) en 15 minutos`,
       highlight: `el Długi Targ y la calle Mariacka, la playa canina de Sopot a 15 min en SKM, y el parque paisajístico de la tri-ciudad con 200 km de senderos sin correa`,
       area: `el Główne Miasto alrededor del Długi Targ, la isla Wyspa Spichrzów en el Motława, y Wrzeszcz al norte`,
     },
     geneva: {
-      personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa — la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',
+      personality: 'una de las capitales internacionales más acogedoras para mascotas de Europa, la ley suiza permite perros en restaurantes y cafés, el Bois de la Bâtie sin correa todo el año está en pleno centro, y dos clínicas veterinarias de urgencias 24/7 atienden al cantón',
       highlight: 'el bosque sin correa del Bois de la Bâtie, el paseo lacustre del Quai Wilson y el bohemio distrito de Carouge',
       area: 'Pâquis en la orilla derecha, Eaux-Vives en la orilla izquierda y Carouge al otro lado del Arve',
     },
     genoa: {
-      personality: 'una de las ciudades italianas más discretamente acogedoras para mascotas — la primera de Liguria en abrir una playa canina oficial, con caruggi 8°C más frescos que el paseo marítimo en verano, tres clínicas veterinarias de urgencias 24/7 y una red de transporte vertical única de funiculares y ascensores',
+      personality: 'una de las ciudades italianas más discretamente acogedoras para mascotas, la primera de Liguria en abrir una playa canina oficial, con caruggi 8°C más frescos que el paseo marítimo en verano, tres clínicas veterinarias de urgencias 24/7 y una red de transporte vertical única de funiculares y ascensores',
       highlight: 'la playa canina de Vesima todo el año, los Parchi di Nervi de 92.000 m² y el Porto Antico rediseñado por Renzo Piano',
       area: 'las Strade Nuove UNESCO, el pueblo pesquero de Boccadasse y los parques costeros de Nervi',
     },
@@ -1567,7 +1567,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el West End, Merchant City y Finnieston',
     },
     gothenburg: {
-      personality: 'la ciudad más acogedora para perros de Suecia — una animada ciudad portuaria y universitaria donde los perros viajan en tranvía gratis, corren sin correa en el Slottsskogen de 137 hectáreas y son bienvenidos en casi todos los cafés',
+      personality: 'la ciudad más acogedora para perros de Suecia, una animada ciudad portuaria y universitaria donde los perros viajan en tranvía gratis, corren sin correa en el Slottsskogen de 137 hectáreas y son bienvenidos en casi todos los cafés',
       highlight: 'el bosque urbano de Slottsskogen, los cafés del barrio de madera de Haga y las islas aptas para perros del archipiélago de Gotemburgo',
       area: 'Haga, el barrio de Linné y el distrito de Vasastan',
     },
@@ -1577,7 +1577,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la Altstadt UNESCO en torno al Hauptplatz, el barrio de moda Lend al oeste del Mur y el frondoso barrio estudiantil Geidorf',
     },
     granada: {
-      personality: 'la ciudad árabe más atmosférica de Europa — donde la Alhambra vigila las callejuelas empedradas del Albaicín, la cultura de la terraza andaluza hace que los perros sean genuinamente bienvenidos y Sierra Nevada está a una hora',
+      personality: 'la ciudad árabe más atmosférica de Europa, donde la Alhambra vigila las callejuelas empedradas del Albaicín, la cultura de la terraza andaluza hace que los perros sean genuinamente bienvenidos y Sierra Nevada está a una hora',
       highlight: 'el Paseo de los Tristes al pie de las murallas de la Alhambra, el barrio UNESCO del Albaicín y los parques dog-friendly del barrio de Arabial',
       area: 'el Albaicín, el Realejo y el centro histórico en torno a la Plaza Nueva',
     },
@@ -1587,12 +1587,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'las orillas del Alster, el Schanzenviertel y el paseo marítimo del Elba en Övelgönne',
     },
     hannover: {
-      personality: 'tranquila capital de Baja Sajonia — el mayor bosque urbano de Alemania (Eilenriede, 640 ha, más grande que Central Park), el lago Maschsee con su zona de baño canino, y un hospital universitario veterinario de primer nivel mundial',
+      personality: 'tranquila capital de Baja Sajonia, el mayor bosque urbano de Alemania (Eilenriede, 640 ha, más grande que Central Park), el lago Maschsee con su zona de baño canino, y un hospital universitario veterinario de primer nivel mundial',
       highlight: 'las 640 hectáreas del bosque Eilenriede, el circuito de 6 km del Maschsee y su Hundebadestelle, y la avenida barroca del Georgengarten',
       area: 'List, las orillas del Maschsee y la Altstadt alrededor de la Marktkirche',
     },
     heidelberg: {
-      personality: `la ciudad universitaria más romántica de Alemania — Altstadt barroca bajo el castillo renacentista en ruinas, el icónico sendero panorámico del Philosophenweg, el bosque del Königstuhl con 70 km de senderos sin correa, y trenes ICE directos desde el aeropuerto de Fráncfort en 50 min`,
+      personality: `la ciudad universitaria más romántica de Alemania, Altstadt barroca bajo el castillo renacentista en ruinas, el icónico sendero panorámico del Philosophenweg, el bosque del Königstuhl con 70 km de senderos sin correa, y trenes ICE directos desde el aeropuerto de Fráncfort en 50 min`,
       highlight: `las terrazas del Schloss, el Philosophenweg con su bosque del Heiligenberg, y el funicular del Königstuhl hacia 70 km de senderos forestales sin correa`,
       area: `la Altstadt alrededor de la Hauptstraße, Bergheim cerca de la estación, y el frondoso Neuenheim al otro lado del Neckar`,
     },
@@ -1607,7 +1607,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kallio, Töölö y el Barrio del Diseño',
     },
     innsbruck: {
-      personality: 'la capital del Tirol rodeada de picos alpinos a 2.300 m — transporte público gratis para perros, teleféricos dog-friendly hasta las cimas, tradición de café y Gasthaus que admite perros, y urgencias veterinarias 24/7',
+      personality: 'la capital del Tirol rodeada de picos alpinos a 2.300 m, transporte público gratis para perros, teleféricos dog-friendly hasta las cimas, tradición de café y Gasthaus que admite perros, y urgencias veterinarias 24/7',
       highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten y el eje de la Maria-Theresien-Strasse',
     },
@@ -1617,17 +1617,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el Casco Antiguo, Kazimierz y Podgórze',
     },
     lausanne: {
-      personality: 'la Capital Olímpica suiza en el lago Lemán — una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
+      personality: 'la Capital Olímpica suiza en el lago Lemán, una de las ciudades más naturalmente acogedoras para perros de Europa, donde los perros viajan en metro gratis, recorren el bosque de Sauvabelin de 200 hectáreas y son bienvenidos en prácticamente todos los restaurantes',
       highlight: 'el Forêt de Sauvabelin, el sendero vitícola UNESCO del Lavaux y el paseo lacustre de Ouchy',
       area: 'Ouchy (a orillas del lago), el barrio creativo del Flon y la Cité medieval',
     },
     lecce: {
-      personality: `la « Florencia del Sur » — centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura del café tolerante del Salento y playas caninas todo el año en Punta Prosciutto y Frassanito a 30-45 min en coche`,
+      personality: `la « Florencia del Sur », centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura del café tolerante del Salento y playas caninas todo el año en Punta Prosciutto y Frassanito a 30-45 min en coche`,
       highlight: `la Piazza del Duomo y la Basilica di Santa Croce, el anfiteatro romano de la Piazza Sant'Oronzo, y las playas caninas del Salento en Punta Prosciutto y Frassanito`,
       area: `el centro storico alrededor de la Piazza Sant'Oronzo, el barrio Mazzini cerca de la estación y el residencial Borgo Piave`,
     },
     leipzig: {
-      personality: `la capital musical de Sajonia y la ciudad de Bach — bosque aluvial Auenwald de 5 500 hectáreas en el centro, camino de sirga dog-friendly del Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn`,
+      personality: `la capital musical de Sajonia y la ciudad de Bach, bosque aluvial Auenwald de 5 500 hectáreas en el centro, camino de sirga dog-friendly del Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas y una Hundestrand todo el año en el Cospudener See a 12 min en S-Bahn`,
       highlight: `el bosque aluvial Auenwald, la playa canina del Cospudener See y el camino de sirga del Karl-Heine-Kanal que conecta Plagwitz con el barrio Karli`,
       area: `la Innenstadt alrededor del Markt, el Karli (Karl-Liebknecht-Straße) y el barrio creativo de Plagwitz`,
     },
@@ -1657,7 +1657,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Islington, Notting Hill y Bermondsey',
     },
     lucca: {
-      personality: 'la ciudad amurallada toscana perfectamente conservada, donde 4,2 km de murallas renacentistas (1545-1650) forman un circuito de paseo canino llano y con hierba sobre las murallas — sin duda la gran ciudad italiana más pet-friendly',
+      personality: 'la ciudad amurallada toscana perfectamente conservada, donde 4,2 km de murallas renacentistas (1545-1650) forman un circuito de paseo canino llano y con hierba sobre las murallas, sin duda la gran ciudad italiana más pet-friendly',
       highlight: 'el circuito de 4,2 km sobre las murallas, el óvalo de la Piazza dell\'Anfiteatro y la zona canina del Serchio',
       area: 'el centro storico amurallado en torno a la Piazza San Michele, el Anfiteatro y la zona de la Catedral y la Torre Guinigi',
     },
@@ -1677,7 +1677,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la Presqu\'île, Croix-Rousse y Confluence',
     },
     maastricht: {
-      personality: `la ciudad más antigua de Países Bajos y capital borgoñona de Limburgo — la cultura del café borgoñón admite perros con correa por defecto, la colina forestal del Sint-Pietersberg se eleva directamente al sur del centro, y 22 losloopgebieden valladas rodean el núcleo medieval`,
+      personality: `la ciudad más antigua de Países Bajos y capital borgoñona de Limburgo, la cultura del café borgoñón admite perros con correa por defecto, la colina forestal del Sint-Pietersberg se eleva directamente al sur del centro, y 22 losloopgebieden valladas rodean el núcleo medieval`,
       highlight: `la colina forestal del Sint-Pietersberg, el camino de sirga del Mosa hacia Bélgica y la bahía de baño canino del Pietersplas a 5 km al sur`,
       area: `el centro medieval alrededor del Vrijthof, el barrio de Wyck en la orilla derecha del Mosa y el pueblo de Sint Pieter`,
     },
@@ -1727,7 +1727,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el barrio histórico de Bouffay, la Île de Nantes y el barrio de Procé',
     },
     naples: {
-      personality: 'la capital caótica y apasionada del sur de Italia — densos callejones históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas y trattorie que tratan a los perros como miembros de la familia',
+      personality: 'la capital caótica y apasionada del sur de Italia, densos callejones históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas y trattorie que tratan a los perros como miembros de la familia',
       highlight: 'el Lungomare Caracciolo, el Bosco di Capodimonte y el Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo y el centro histórico en torno a Spaccanapoli',
     },
@@ -1762,7 +1762,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el casco antiguo en torno a Quattro Canti y los mercados de Vucciria, Ballarò y Capo, el barrio Kalsa y el paseo marítimo del Foro Italico',
     },
     pamplona: {
-      personality: 'la capital del norte de España del pintxo — la ciudad de Hemingway y los San Fermines, con el parque de la Ciudadela (28 ha) como paseo diario y una de las redes urbanas más densas en parques de España',
+      personality: 'la capital del norte de España del pintxo, la ciudad de Hemingway y los San Fermines, con el parque de la Ciudadela (28 ha) como paseo diario y una de las redes urbanas más densas en parques de España',
       highlight: 'el parque de la Ciudadela (28 ha) con su zona vallada sin correa, el carril verde de 11 km a lo largo del Río Arga y el parque japonés Yamaguchi',
       area: 'el casco antiguo medieval en torno a la Plaza del Castillo, la Ciudadela y la Vuelta del Castillo al sur del centro, y el barrio universitario de Iturrama',
     },
@@ -1842,7 +1842,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Meje, los alrededores del Casco Antiguo y el barrio de Manuš',
     },
     stavanger: {
-      personality: `la tercera ciudad de Noruega y puerta de entrada al Lysefjord — casco antiguo de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente dog-friendly (buses, trenes, ferries de fiordo gratis), el icónico Preikestolen a 50 min al este, y 35 km de arena atlántica dog-friendly a 15 min al sur`,
+      personality: `la tercera ciudad de Noruega y puerta de entrada al Lysefjord, casco antiguo de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente dog-friendly (buses, trenes, ferries de fiordo gratis), el icónico Preikestolen a 50 min al este, y 35 km de arena atlántica dog-friendly a 15 min al sur`,
       highlight: `la caminata del Preikestolen con perro con correa, el crucero del Lysefjord y la playa atlántica de Solastranden a 15 min del centro`,
       area: `el puerto del Vågen y el casco antiguo de madera Gamle Stavanger, la colorida calle Fargegata y el barrio del lago Mosvatnet`,
     },
@@ -1852,7 +1852,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Södermalm, Östermalm y Djurgården',
     },
     strasbourg: {
-      personality: 'una de las ciudades UNESCO más atmosféricas de Europa — donde la cultura alsaciana, los mercados de Navidad y una actitud relajada hacia los perros la convierten en un destino pet-travel durante todo el año',
+      personality: 'una de las ciudades UNESCO más atmosféricas de Europa, donde la cultura alsaciana, los mercados de Navidad y una actitud relajada hacia los perros la convierten en un destino pet-travel durante todo el año',
       highlight: 'el Parc de l\'Orangerie, los canales de Petite France y los Jardins des Deux Rives en el Rin',
       area: 'Petite France, el Krutenau y el Barrio Europeo',
     },
@@ -1867,7 +1867,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kalamaja, Telliskivi y el Casco Antiguo',
     },
     tampere: {
-      personality: `la tercera ciudad de Finlandia y capital oficiosa del sauna — transporte excepcionalmente dog-friendly (tranvías y trenes gratis), 22 koira-aitaus valladas, dos playas caninas junto al lago a distancia caminable del centro, y la icónica cresta de Pyynikki con paseo canino todo el año`,
+      personality: `la tercera ciudad de Finlandia y capital oficiosa del sauna, transporte excepcionalmente dog-friendly (tranvías y trenes gratis), 22 koira-aitaus valladas, dos playas caninas junto al lago a distancia caminable del centro, y la icónica cresta de Pyynikki con paseo canino todo el año`,
       highlight: `la cresta de Pyynikki y su café-torre de observación, las playas caninas de Pyynikki y Niihama en los dos lagos, y el paseo de los rápidos del Tammerkoski a través del centro`,
       area: `el centro entre los rápidos del Tammerkoski y Hämeenkatu, el barrio creativo Finlayson y la cresta lacustre de Pyynikki`,
     },
@@ -1877,12 +1877,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'el Statenkwartier, el Hofkwartier y Scheveningen Haven',
     },
     thessaloniki: {
-      personality: 'la segunda ciudad de Grecia y una de las más dog-friendly — una ciudad portuaria de 2.300 años donde los perros son bienvenidos en terrazas, en el barrio antiguo y a lo largo de los 3,5 km del paseo marítimo Nea Paralia',
+      personality: 'la segunda ciudad de Grecia y una de las más dog-friendly, una ciudad portuaria de 2.300 años donde los perros son bienvenidos en terrazas, en el barrio antiguo y a lo largo de los 3,5 km del paseo marítimo Nea Paralia',
       highlight: 'el parque frente al mar Nea Paralia (con zona canina dedicada), el bosque urbano de Seich Sou y los paseos por las murallas bizantinas de Ano Poli',
       area: 'Ano Poli (Ciudad Alta), Ladadika y el Frente Marítimo',
     },
     toledo: {
-      personality: `la ciudad imperial medieval y antigua capital visigoda, morisca y cristiana — un museo al aire libre clasificado UNESCO en un promontorio de granito sobre el Tajo, con Madrid a 33 minutos en tren Avant de alta velocidad`,
+      personality: `la ciudad imperial medieval y antigua capital visigoda, morisca y cristiana, un museo al aire libre clasificado UNESCO en un promontorio de granito sobre el Tajo, con Madrid a 33 minutos en tren Avant de alta velocidad`,
       highlight: `el mirador del Mirador del Valle con el panorama icónico del skyline, la Senda Ecológica circular a lo largo del Tajo, y el Puente de San Martín medieval`,
       area: `el Casco Histórico alrededor de la Plaza de Zocodover, la Judería con el museo del Greco, y La Vega al otro lado del Puente de San Martín`,
     },
@@ -1892,7 +1892,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
     },
     trondheim: {
-      personality: `la tercera ciudad de Noruega y capital medieval — catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), barrio de madera colorido de Bakklandet, transporte canino gratis (buses, tranvías, trenes), y 80 km² de bosque urbano de Bymarka a las puertas de la ciudad`,
+      personality: `la tercera ciudad de Noruega y capital medieval, catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), barrio de madera colorido de Bakklandet, transporte canino gratis (buses, tranvías, trenes), y 80 km² de bosque urbano de Bymarka a las puertas de la ciudad`,
       highlight: `la catedral de Nidaros y el Puente Viejo (Gamle Bybro), el icónico tranvía histórico Gråkallbanen hacia el bosque de Bymarka, y el ferry a la isla Munkholmen`,
       area: `el Midtbyen alrededor de la catedral de Nidaros, el barrio de madera de Bakklandet, y el puerto de Solsiden`,
     },
@@ -1902,7 +1902,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'San Salvario, el Quadrilatero Romano y el núcleo histórico en torno a Piazza Castello',
     },
     utrecht: {
-      personality: 'una compacta ciudad universitaria neerlandesa donde los perros viajan gratis en autobuses y tranvías urbanos, el operador de cruceros por los canales admite perros sin coste, y tres zonas sin correa — el Máximapark de 300 hectáreas, el Griftpark central y las fincas de Amelisweerd — son accesibles desde el casco histórico',
+      personality: 'una compacta ciudad universitaria neerlandesa donde los perros viajan gratis en autobuses y tranvías urbanos, el operador de cruceros por los canales admite perros sin coste, y tres zonas sin correa, el Máximapark de 300 hectáreas, el Griftpark central y las fincas de Amelisweerd, son accesibles desde el casco histórico',
       highlight: 'el Máximapark en Leidsche Rijn, el Griftpark central y las fincas Amelisweerd & Rhijnauwen a 5 km al sureste',
       area: 'la Binnenstad y la Oudegracht, Vogelenbuurt y Wittevrouwen',
     },
@@ -1942,7 +1942,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `el Casco Antiguo alrededor del Rynek, el bohemio barrio de Nadodrze y el Barrio de las Cuatro Confesiones`,
     },
     york: {
-      personality: `una de las ciudades inglesas más fiablemente dog-friendly — un núcleo medieval compacto donde el 80 % de los pubs admite perros con correa, el circuito de 5 km de las murallas es gratis con mascota, y los trenes directos LNER conectan con las playas caninas de Filey, Sandsend y Bridlington para excursiones de un día`,
+      personality: `una de las ciudades inglesas más fiablemente dog-friendly, un núcleo medieval compacto donde el 80 % de los pubs admite perros con correa, el circuito de 5 km de las murallas es gratis con mascota, y los trenes directos LNER conectan con las playas caninas de Filey, Sandsend y Bridlington para excursiones de un día`,
       highlight: `el circuito dog-friendly de las murallas, los Museum Gardens junto al río, y la playa canina abierta todo el año en Filey, a una hora al este por la línea LNER`,
       area: `el centro histórico dentro de las murallas, el barrio de Fossgate y la zona de Bishopthorpe Road / Knavesmire`,
     },
@@ -1952,7 +1952,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `Donji Grad, Gornji Grad y el barrio de los lagos de Maksimir`,
     },
     zaragoza: {
-      personality: `la capital de Aragón y quinta ciudad de España — anclada por la Basílica del Pilar a orillas del Ebro y articulada alrededor de 126 zonas sin correa designadas, una de las redes de parques pet-friendly más densas de España, además del hospital de referencia AniCura Emvet 24/7`,
+      personality: `la capital de Aragón y quinta ciudad de España, anclada por la Basílica del Pilar a orillas del Ebro y articulada alrededor de 126 zonas sin correa designadas, una de las redes de parques pet-friendly más densas de España, además del hospital de referencia AniCura Emvet 24/7`,
       highlight: `el Parque Grande Labordeta de 27 hectáreas, la zona canina vallada del Parque del Tío Jorge y los paseos junto al río en las Riberas del Ebro`,
       area: `el Casco Histórico alrededor del Pilar, el frondoso Centro en el Paseo de Sagasta y el barrio de tapas de La Magdalena`,
     },
@@ -1964,7 +1964,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   },
   pt: {
     aarhus: {
-      personality: 'a segunda cidade de Dinamarca — a cultura do café mais tolerante de Escandinavia después de Copenhaga, transporte público grátis para cães e 8 florestas sem trela oficiais',
+      personality: 'a segunda cidade de Dinamarca, a cultura do café mais tolerante de Escandinavia después de Copenhaga, transporte público grátis para cães e 8 florestas sem trela oficiais',
       highlight: 'o Marselisborg Hundeskov, a praia canina o ano inteiro de Bellevue Strand e o museu al aire libre Den Gamle By',
       area: 'Latin Quarter, Frederiksbjerg e a zona portuaria Dokk1',
     },
@@ -1979,7 +1979,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o bairro do Jordaan e o cinturón de canales',
     },
     annecy: {
-      personality: `a « Venecia dos Alpes » — Centro histórico medieval clasificado a lo largo dos canales, o lago grande mais limpio de Europa com spots de banho canino o ano inteiro, e o floresta do Semnoz de 4 000 ha com 50 km de trilhos sem trela directamente al sur do centro`,
+      personality: `a « Venecia dos Alpes », Centro histórico medieval clasificado a lo largo dos canales, o lago grande mais limpio de Europa com spots de banho canino o ano inteiro, e o floresta do Semnoz de 4 000 ha com 50 km de trilhos sem trela directamente al sur do centro`,
       highlight: `o Pont des Amours e os canales do centro histórico, o trilho ciclista plano de 42 km da vuelta al lago, e a cima do Semnoz a 1 699 m`,
       area: `o Centro histórico alrededor do Palais de l'Île, o Pâquier e o frente lacustre de Albigny, e o residencial Annecy-le-Vieux`,
     },
@@ -1994,7 +1994,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Koukaki, Monastiraki e Pangrati',
     },
     avignon: {
-      personality: `a capital de Provenza e antiga sede de siete papas — centro storico amurallado clasificado UNESCO, o imponente Palácio dos Papas (o mayor palácio gótico de Europa), o legendario Pont Saint-Bénézet sobre o Ródano, e acesso TGV directo a partir de París en 2h40`,
+      personality: `a capital de Provenza e antiga sede de siete papas, centro storico amurallado clasificado UNESCO, o imponente Palácio dos Papas (o mayor palácio gótico de Europa), o legendario Pont Saint-Bénézet sobre o Ródano, e acesso TGV directo a partir de París en 2h40`,
       highlight: `a Place du Palais des Papes, os jardins do Rocher des Doms com o panorama icónico, e a île da Barthelasse com 4 km de passeio canino junto al Ródano`,
       area: `o intra-muros alrededor do Palácio dos Papas, o bairro bistró da Rue des Teinturiers e a Place de l'Horloge, e a île da Barthelasse al otro lado do rio`,
     },
@@ -2004,7 +2004,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'O Born, Gràcia e o Eixample',
     },
     basel: {
-      personality: `uma das cidades pet-friendly mais infravaloradas de Europa — a capital artística trifronteriza de Suiza, com dos zonas oficiais de banho canino no Rin, um parque aluvial sem trela a lo largo do Wiese e uma clínica veterinária de urgências 24/7`,
+      personality: `uma das cidades pet-friendly mais infravaloradas de Europa, a capital artística trifronteriza de Suiza, com dos zonas oficiais de banho canino no Rin, um parque aluvial sem trela a lo largo do Wiese e uma clínica veterinária de urgências 24/7`,
       highlight: 'a zona de banho canino de Birsköpfli, o Landschaftspark Wiese e a esplanada Pfalz junto al Münster',
       area: `a Altstadt medieval alrededor da Marktplatz, o creativo bairro de Kleinbasel e o frondoso distrito de St. Alban`,
     },
@@ -2019,7 +2019,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stari Grad, Skadarlija e Dorćol',
     },
     bergen: {
-      personality: 'a puerta noruega aos fiordos, encajada entre siete montanhas e o mar — transporte público grátis para cães, montanhas sem trela a 7 minutos do centro, e um muelle hanseático UNESCO no porto',
+      personality: 'a puerta noruega aos fiordos, encajada entre siete montanhas e o mar, transporte público grátis para cães, montanhas sem trela a 7 minutos do centro, e um muelle hanseático UNESCO no porto',
       highlight: 'o Monte Fløyen vía o funicular Fløibanen, a cresta Vidden até o Monte Ulriken e o colorido muelle Bryggen',
       area: 'Bryggen, Sandviken e Marken',
     },
@@ -2029,7 +2029,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Prenzlauer Berg, Mitte e Kreuzberg',
     },
     bern: {
-      personality: 'uma das capitales mais acogedoras para animais de Europa — o Centro histórico UNESCO de Suiza tem 6 km de soportales Lauben cubiertos, tres florestas urbanos a distancia de elétrico e o principal hospital universitario veterinário do país',
+      personality: 'uma das capitales mais acogedoras para animais de Europa, o Centro histórico UNESCO de Suiza tem 6 km de soportales Lauben cubiertos, tres florestas urbanos a distancia de elétrico e o principal hospital universitario veterinário do país',
       highlight: 'o floresta sem trela do Bremgartenwald, o passeio fluvial de 5 km a lo largo do Aar e o BärenPark sob o Centro histórico',
       area: 'os soportales UNESCO do Altstadt, os bairros riberenhos de Marzili e a Matte e o mirador do Rosengarten',
     },
@@ -2069,12 +2069,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'The Lanes, Kemptown e o passeio marítimo de Hove',
     },
     bristol: {
-      personality: 'uma das cidades mais verdes de Inglaterra — o 70 % dos pubs admite cães, transporte público grátis para animais, o icónico Clifton Suspension Bridge e as 162 hectáreas do Ashton Court Estate a as puertas',
+      personality: 'uma das cidades mais verdes de Inglaterra, o 70 % dos pubs admite cães, transporte público grátis para animais, o icónico Clifton Suspension Bridge e as 162 hectáreas do Ashton Court Estate a as puertas',
       highlight: 'Ashton Court Estate, os Downs en lo alto da Garganta do Avon e o ferri flotante Bristol Ferry até Wapping Wharf',
       area: 'Clifton, o Harbourside e Stokes Croft',
     },
     brno: {
-      personality: `a capital compacta e sorprendentemente asequible de Moravia — 14 zonas valladas sem trela municipales, uma cultura de pivnice que admite cães en todo o centro, e um embalse de banho canino o ano inteiro a 25 minutos no elétrico`,
+      personality: `a capital compacta e sorprendentemente asequible de Moravia, 14 zonas valladas sem trela municipales, uma cultura de pivnice que admite cães en todo o centro, e um embalse de banho canino o ano inteiro a 25 minutos no elétrico`,
       highlight: `o parque en lo alto do Špilberk, a Brněnská přehrada en Bystrc e as excursiones a a região vinícola de Moravia do sul en Pavlov e Mikulov`,
       area: `o centro medieval alrededor de náměstí Svobody, Lužánky e o bairro lacustre de Bystrc`,
     },
@@ -2099,12 +2099,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o 7º distrito (o Bairro Judío), o distrito do Castelo de Buda e Óbuda',
     },
     cambridge: {
-      personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly — vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,
+      personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly, vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,
       highlight: `o trilho riberenho dos Backs, as pradarias de Grantchester e o tea garden de The Orchard, e os trilhos do fuerte da Edad do Hierro de Wandlebury Country Park`,
       area: `o centro histórico alrededor de King's Parade, o bairro de Mill Road e a zona riberenha de Newnham`,
     },
     cannes: {
-      personality: 'uma glamurosa cidade da Costa Azul com uma cultura canina sorprendentemente relajada — as esplanadas de Le Suquet, o bairro do Marché Forville e as praias occidentales acogen cães durante o ano inteiro',
+      personality: 'uma glamurosa cidade da Costa Azul com uma cultura canina sorprendentemente relajada, as esplanadas de Le Suquet, o bairro do Marché Forville e as praias occidentales acogen cães durante o ano inteiro',
       highlight: 'a Île Sainte-Marguerite boscosa, a Plage da Bocca e as ruelas adoquinados de Le Suquet',
       area: 'Le Suquet (o centro histórico), o bairro do Marché Forville e A Bocca',
     },
@@ -2129,12 +2129,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Nørrebro, Frederiksberg e Vesterbro',
     },
     cordoba: {
-      personality: 'a cidade UNESCO da Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilha — compacto centro histórico de ruas blancas, o Ponte Romano sobre o Guadalquivir e as estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
+      personality: 'a cidade UNESCO da Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilha, compacto centro histórico de ruas blancas, o Ponte Romano sobre o Guadalquivir e as estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
       highlight: 'a vista al Ponte Romano al atardecer, as ruelas da Judería judía e o trilho riberenho dos Sotos da Albolafia',
       area: 'a Judería, o Centro junto a a Praça da Corredera e a zona moderna de San Fernando',
     },
     cork: {
-      personality: `a rebel city irlandesa dos gourmets sobre o Lee — ruas georgianas, pubs tradicionales com snugs, o emblemático English Market e o Ballincollig Regional Park sem trela de 200 hectáreas a 8 km al oeste, com as praias do West Cork a corta distancia al sur`,
+      personality: `a rebel city irlandesa dos gourmets sobre o Lee, ruas georgianas, pubs tradicionales com snugs, o emblemático English Market e o Ballincollig Regional Park sem trela de 200 hectáreas a 8 km al oeste, com as praias do West Cork a corta distancia al sur`,
       highlight: `Fitzgerald's Park e o passeio Mardyke, a zona sem trela do Ballincollig Regional Park e o comboio de 25 min al frente marítimo pet-friendly de Cobh`,
       area: `o Latin Quarter, a Marina fluvial e Blackrock`,
     },
@@ -2164,12 +2164,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Stockbridge, Leith e o New Town',
     },
     evora: {
-      personality: `a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca — Templo romano de 2 000 anos, a inquietante Capela dos Ossos, uno dos mayores circuitos de muralhas medievais de Iberia, e acesso directo CP a partir de Lisboa en 1h30`,
+      personality: `a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca, Templo romano de 2 000 anos, a inquietante Capela dos Ossos, uno dos mayores circuitos de muralhas medievais de Iberia, e acesso directo CP a partir de Lisboa en 1h30`,
       highlight: `o Templo romano de Évora, o sitio megalítico do Cromeleque dos Almendres (7 000 anos mais antigo que Stonehenge), e as praias caninas do lago Alqueva en Monsaraz`,
       area: `o Centro Histórico alrededor da Praça do Giraldo, a zona do Templo romano no Largo do Conde de Vila Flor, e a ruta do vino do Alentejo justo fora das muralhas`,
     },
     faro: {
-      personality: `a capital do Algarve e a puerta de entrada a a costa sur de Portugal — Cidade Velha clasificada UNESCO, parque natural da Ria Formosa de 18 000 ha com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas en ilhas barrera en ferry, e os suplementos para animais mais bajos do sul de Europa`,
+      personality: `a capital do Algarve e a puerta de entrada a a costa sur de Portugal, Cidade Velha clasificada UNESCO, parque natural da Ria Formosa de 18 000 ha com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas en ilhas barrera en ferry, e os suplementos para animais mais bajos do sul de Europa`,
       highlight: `a Cidade Velha e o Arco da Vila com os seus cigüenhas, o boardwalk da Ria Formosa hacia as salinas, e a praia canina salvaje atlântica da Ilha Deserta en ferry`,
       area: `a Cidade Velha alrededor da praça da catedral, a esplanada do lado da marina e o residencial Bom João perto da estação`,
     },
@@ -2179,7 +2179,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Oltrarno, Santa Croce e San Frediano',
     },
     frankfurt: {
-      personality: 'a capital financiera mais verde de Alemania — o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
+      personality: 'a capital financiera mais verde de Alemania, o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
       highlight: 'a Hundeauslauffläche vallada do Grüneburgpark, o passeio Mainufer de 4 km e os trilhos forestales do Stadtwald',
       area: 'Sachsenhausen, o Westend e a Altstadt en torno al Römerberg',
     },
@@ -2189,17 +2189,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `o Latin Quarter, o West End e Salthill junto a a bahía`,
     },
     gdansk: {
-      personality: `a Perla hanseática do Báltico e antiga cidade libre de Danzig — Długi Targ clasificado UNESCO, o lugar de nacimiento de Solidaridad en Stocznia Gdańska, e acesso directo SKM a a praia canina de Sopot (a mais famosa de Polonia) en 15 minutos`,
+      personality: `a Perla hanseática do Báltico e antiga cidade libre de Danzig, Długi Targ clasificado UNESCO, o lugar de nacimiento de Solidaridad en Stocznia Gdańska, e acesso directo SKM a a praia canina de Sopot (a mais famosa de Polonia) en 15 minutos`,
       highlight: `o Długi Targ e a rua Mariacka, a praia canina de Sopot a 15 min en SKM, e o parque paisajístico da tri-cidade com 200 km de trilhos sem trela`,
       area: `o Główne Miasto alrededor do Długi Targ, a ilha Wyspa Spichrzów no Motława, e Wrzeszcz al norte`,
     },
     geneva: {
-      personality: 'uma das capitales internacionales mais acogedoras para animais de Europa — a lei suiza permite cães en restaurantes e cafés, o Bois da Bâtie sem trela o ano inteiro está en pleno centro, e dos clínicas veterinárias de urgências 24/7 atienden al cantón',
+      personality: 'uma das capitales internacionales mais acogedoras para animais de Europa, a lei suiza permite cães en restaurantes e cafés, o Bois da Bâtie sem trela o ano inteiro está en pleno centro, e dos clínicas veterinárias de urgências 24/7 atienden al cantón',
       highlight: 'o floresta sem trela do Bois da Bâtie, o passeio lacustre do Quai Wilson e o bohemio distrito de Carouge',
       area: 'Pâquis na margem derecha, Eaux-Vives na margem izquierda e Carouge al otro lado do Arve',
     },
     genoa: {
-      personality: 'uma das cidades italianas mais discretamente acogedoras para animais — a primera de Liguria en abrir uma praia canina oficial, com caruggi 8°C mais frescos que o passeio marítimo en verão, tres clínicas veterinárias de urgências 24/7 e uma red de transporte vertical única de funiculares e ascensores',
+      personality: 'uma das cidades italianas mais discretamente acogedoras para animais, a primera de Liguria en abrir uma praia canina oficial, com caruggi 8°C mais frescos que o passeio marítimo en verão, tres clínicas veterinárias de urgências 24/7 e uma red de transporte vertical única de funiculares e ascensores',
       highlight: 'a praia canina de Vesima o ano inteiro, os Parchi di Nervi de 92.000 m² e o Porto Antico redisenhado por Renzo Piano',
       area: 'as Strade Nuove UNESCO, o pueblo pesquero de Boccadasse e os parques costeros de Nervi',
     },
@@ -2214,7 +2214,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o West End, Merchant City e Finnieston',
     },
     gothenburg: {
-      personality: 'a cidade mais acogedora para cães de Suecia — uma animada cidade portuaria e universitaria onde os cães viajan no elétrico grátis, corren sem trela no Slottsskogen de 137 hectáreas e são bem-vindos en casi todos os cafés',
+      personality: 'a cidade mais acogedora para cães de Suecia, uma animada cidade portuaria e universitaria onde os cães viajan no elétrico grátis, corren sem trela no Slottsskogen de 137 hectáreas e são bem-vindos en casi todos os cafés',
       highlight: 'o floresta urbano de Slottsskogen, os cafés do bairro de madera de Haga e as ilhas aptas para cães do archipiélago de Gotemburgo',
       area: 'Haga, o bairro de Linné e o distrito de Vasastan',
     },
@@ -2224,7 +2224,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'a Altstadt UNESCO en torno al Hauptplatz, o bairro de moda Lend al oeste do Mur e o frondoso bairro estudantil Geidorf',
     },
     granada: {
-      personality: 'a cidade árabe mais atmosférica de Europa — onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
+      personality: 'a cidade árabe mais atmosférica de Europa, onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
       highlight: 'o Passeio dos Tristes al pie das muralhas da Alhambra, o bairro UNESCO do Albaicín e os parques pet-friendly do bairro de Arabial',
       area: 'o Albaicín, o Realejo e o centro histórico en torno a a Praça Nueva',
     },
@@ -2234,12 +2234,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'as margens do Alster, o Schanzenviertel e o passeio marítimo do Elba en Övelgönne',
     },
     hannover: {
-      personality: 'tranquila capital de Baja Sajonia — o mayor floresta urbano de Alemania (Eilenriede, 640 ha, mais grande que Central Park), o lago Maschsee com o seu zona de banho canino, e um hospital universitario veterinário de primer nivel mundial',
+      personality: 'tranquila capital de Baja Sajonia, o mayor floresta urbano de Alemania (Eilenriede, 640 ha, mais grande que Central Park), o lago Maschsee com o seu zona de banho canino, e um hospital universitario veterinário de primer nivel mundial',
       highlight: 'as 640 hectáreas do floresta Eilenriede, o circuito de 6 km do Maschsee e o seu Hundebadestelle, e a avenida barroca do Georgengarten',
       area: 'List, as margens do Maschsee e a Altstadt alrededor da Marktkirche',
     },
     heidelberg: {
-      personality: `a cidade universitaria mais romántica de Alemania — Altstadt barroca sob o castelo renascentista en ruinas, o icónico trilho panorámico do Philosophenweg, o floresta do Königstuhl com 70 km de trilhos sem trela, e comboios ICE directos a partir do aeroporto de Frankfurt en 50 min`,
+      personality: `a cidade universitaria mais romántica de Alemania, Altstadt barroca sob o castelo renascentista en ruinas, o icónico trilho panorámico do Philosophenweg, o floresta do Königstuhl com 70 km de trilhos sem trela, e comboios ICE directos a partir do aeroporto de Frankfurt en 50 min`,
       highlight: `as esplanadas do Schloss, o Philosophenweg com o seu floresta do Heiligenberg, e o funicular do Königstuhl hacia 70 km de trilhos forestales sem trela`,
       area: `a Altstadt alrededor da Hauptstraße, Bergheim perto da estação, e o frondoso Neuenheim al otro lado do Neckar`,
     },
@@ -2254,7 +2254,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kallio, Töölö e o Bairro do Disenho',
     },
     innsbruck: {
-      personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m — transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
+      personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m, transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
       highlight: 'a cordillera do Nordkette acessível en teleférico a partir do centro, o parque real Hofgarten e o Altstadt empedrado en torno al Goldenes Dachl',
       area: 'Altstadt, Wilten e o eje da Maria-Theresien-Strasse',
     },
@@ -2264,17 +2264,17 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o Centro histórico, Kazimierz e Podgórze',
     },
     lausanne: {
-      personality: 'a Capital Olímpica suiza no lago Lemán — uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',
+      personality: 'a Capital Olímpica suiza no lago Lemán, uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',
       highlight: 'o Forêt de Sauvabelin, o trilho vitícola UNESCO do Lavaux e o passeio lacustre de Ouchy',
       area: 'Ouchy (a margens do lago), o bairro creativo do Flon e a Cité medieval',
     },
     lecce: {
-      personality: `a « Florencia do sul » — centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura do café tolerante do Salento e praias caninas o ano inteiro en Punta Prosciutto e Frassanito a 30-45 min de carro`,
+      personality: `a « Florencia do sul », centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura do café tolerante do Salento e praias caninas o ano inteiro en Punta Prosciutto e Frassanito a 30-45 min de carro`,
       highlight: `a Piazza do Duomo e a Basilica di Santa Croce, o anfiteatro romano da Piazza Sant'Oronzo, e as praias caninas do Salento en Punta Prosciutto e Frassanito`,
       area: `o centro storico alrededor da Piazza Sant'Oronzo, o bairro Mazzini perto da estação e o residencial Borgo Piave`,
     },
     leipzig: {
-      personality: `a capital musical de Sajonia e a cidade de Bach — floresta aluvial Auenwald de 5 500 hectáreas no centro, camino de sirga pet-friendly do Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas e uma Hundestrand o ano inteiro no Cospudener See a 12 min en S-Bahn`,
+      personality: `a capital musical de Sajonia e a cidade de Bach, floresta aluvial Auenwald de 5 500 hectáreas no centro, camino de sirga pet-friendly do Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas e uma Hundestrand o ano inteiro no Cospudener See a 12 min en S-Bahn`,
       highlight: `o floresta aluvial Auenwald, a praia canina do Cospudener See e o camino de sirga do Karl-Heine-Kanal que conecta Plagwitz com o bairro Karli`,
       area: `a Innenstadt alrededor do Markt, o Karli (Karl-Liebknecht-Straße) e o bairro creativo de Plagwitz`,
     },
@@ -2304,7 +2304,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Islington, Notting Hill e Bermondsey',
     },
     lucca: {
-      personality: 'a cidade amurallada toscana perfeitamente conservada, onde 4,2 km de muralhas renacentistas (1545-1650) forman um circuito de passeio canino llano e com hierba sobre as muralhas — sem duda a gran cidade italiana mais pet-friendly',
+      personality: 'a cidade amurallada toscana perfeitamente conservada, onde 4,2 km de muralhas renacentistas (1545-1650) forman um circuito de passeio canino llano e com hierba sobre as muralhas, sem duda a gran cidade italiana mais pet-friendly',
       highlight: 'o circuito de 4,2 km sobre as muralhas, o óvalo da Piazza dell\'Anfiteatro e a zona canina do Serchio',
       area: 'o centro storico amurallado en torno a a Piazza San Michele, o Anfiteatro e a zona da Catedral e a Torre Guinigi',
     },
@@ -2324,7 +2324,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'a Presqu\'île, Croix-Rousse e Confluence',
     },
     maastricht: {
-      personality: `a cidade mais antiga de Países Bajos e capital borgonhona de Limburgo — a cultura do café borgonhón admite cães com trela por defecto, a colina forestal do Sint-Pietersberg se eleva directamente al sur do centro, e 22 losloopgebieden valladas rodean o núcleo medieval`,
+      personality: `a cidade mais antiga de Países Bajos e capital borgonhona de Limburgo, a cultura do café borgonhón admite cães com trela por defecto, a colina forestal do Sint-Pietersberg se eleva directamente al sur do centro, e 22 losloopgebieden valladas rodean o núcleo medieval`,
       highlight: `a colina forestal do Sint-Pietersberg, o camino de sirga do Mosa hacia Bélgica e a bahía de banho canino do Pietersplas a 5 km al sur`,
       area: `o centro medieval alrededor do Vrijthof, o bairro de Wyck na margem derecha do Mosa e o pueblo de Sint Pieter`,
     },
@@ -2374,7 +2374,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o bairro histórico de Bouffay, a Île de Nantes e o bairro de Procé',
     },
     naples: {
-      personality: 'a capital caótica e apasionada do sul de Italia — densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
+      personality: 'a capital caótica e apasionada do sul de Italia, densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
       highlight: 'o Lungomare Caracciolo, o Bosco di Capodimonte e o Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo e o centro histórico en torno a Spaccanapoli',
     },
@@ -2409,7 +2409,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o centro histórico en torno a Quattro Canti e os mercados de Vucciria, Ballarò e Capo, o bairro Kalsa e o passeio marítimo do Foro Italico',
     },
     pamplona: {
-      personality: 'a capital do norte de Espanha do pintxo — a cidade de Hemingway e os San Fermines, com o parque da Ciudadela (28 ha) como passeio diario e uma das redes urbanas mais densas en parques de Espanha',
+      personality: 'a capital do norte de Espanha do pintxo, a cidade de Hemingway e os San Fermines, com o parque da Ciudadela (28 ha) como passeio diario e uma das redes urbanas mais densas en parques de Espanha',
       highlight: 'o parque da Ciudadela (28 ha) com o seu zona vallada sem trela, o carril verde de 11 km a lo largo do rio Arga e o parque japonés Yamaguchi',
       area: 'o centro histórico medieval en torno a a Praça do Castelo, a Ciudadela e a Vuelta do Castelo al sur do centro, e o bairro universitario de Iturrama',
     },
@@ -2489,7 +2489,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Meje, os alrededores do centro histórico e o bairro de Manuš',
     },
     stavanger: {
-      personality: `a tercera cidade de Noruega e puerta de entrada al Lysefjord — centro histórico de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente pet-friendly (buses, comboios, ferries de fiordo grátis), o icónico Preikestolen a 50 min al este, e 35 km de areia atlântica pet-friendly a 15 min al sur`,
+      personality: `a tercera cidade de Noruega e puerta de entrada al Lysefjord, centro histórico de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente pet-friendly (buses, comboios, ferries de fiordo grátis), o icónico Preikestolen a 50 min al este, e 35 km de areia atlântica pet-friendly a 15 min al sur`,
       highlight: `a caminhada do Preikestolen com cão com trela, o crucero do Lysefjord e a praia atlântica de Solastranden a 15 min do centro`,
       area: `o porto do Vågen e o centro histórico de madera Gamle Stavanger, a colorida rua Fargegata e o bairro do lago Mosvatnet`,
     },
@@ -2499,7 +2499,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Södermalm, Östermalm e Djurgården',
     },
     strasbourg: {
-      personality: 'uma das cidades UNESCO mais atmosféricas de Europa — onde a cultura alsaciana, os mercados de Navidad e uma actitud relajada hacia os cães a convierten num destino pet-travel durante o ano inteiro',
+      personality: 'uma das cidades UNESCO mais atmosféricas de Europa, onde a cultura alsaciana, os mercados de Navidad e uma actitud relajada hacia os cães a convierten num destino pet-travel durante o ano inteiro',
       highlight: 'o Parc de l\'Orangerie, os canales de Petite France e os Jardins des Deux Rives no Rin',
       area: 'Petite France, o Krutenau e o Bairro Europeu',
     },
@@ -2514,7 +2514,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kalamaja, Telliskivi e o Centro histórico',
     },
     tampere: {
-      personality: `a tercera cidade de Finlândia e capital oficiosa do sauna — transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus valladas, dos praias caninas junto al lago a distancia pedonal do centro, e a icónica cresta de Pyynikki com passeio canino o ano inteiro`,
+      personality: `a tercera cidade de Finlândia e capital oficiosa do sauna, transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus valladas, dos praias caninas junto al lago a distancia pedonal do centro, e a icónica cresta de Pyynikki com passeio canino o ano inteiro`,
       highlight: `a cresta de Pyynikki e o seu café-torre de observación, as praias caninas de Pyynikki e Niihama nos dos lagos, e o passeio dos rápidos do Tammerkoski a través do centro`,
       area: `o centro entre os rápidos do Tammerkoski e Hämeenkatu, o bairro creativo Finlayson e a cresta lacustre de Pyynikki`,
     },
@@ -2524,12 +2524,12 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'o Statenkwartier, o Hofkwartier e Scheveningen Haven',
     },
     thessaloniki: {
-      personality: 'a segunda cidade de Grecia e uma das mais pet-friendly — uma cidade portuaria de 2.300 anos onde os cães são bem-vindos en esplanadas, no bairro antigo e a lo largo dos 3,5 km do passeio marítimo Nea Paralia',
+      personality: 'a segunda cidade de Grecia e uma das mais pet-friendly, uma cidade portuaria de 2.300 anos onde os cães são bem-vindos en esplanadas, no bairro antigo e a lo largo dos 3,5 km do passeio marítimo Nea Paralia',
       highlight: 'o parque frente al mar Nea Paralia (com zona canina dedicada), o floresta urbano de Seich Sou e os passeios pelas muralhas bizantinas de Ano Poli',
       area: 'Ano Poli (Cidade Alta), Ladadika e o Frente Marítimo',
     },
     toledo: {
-      personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana — um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
+      personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana, um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
       highlight: `o mirador do Mirador do Valle com o panorama icónico do skyline, a Senda Ecológica circular a lo largo do Tajo, e o Ponte de San Martín medieval`,
       area: `o Casco Histórico alrededor da Praça de Zocodover, a Judería com o museu do Greco, e A Vega al otro lado do Ponte de San Martín`,
     },
@@ -2539,7 +2539,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'a place du Capitole, o bairro de Carmes e a margem izquierda de Saint-Cyprien',
     },
     trondheim: {
-      personality: `a tercera cidade de Noruega e capital medieval — catedral de Nidaros UNESCO (a catedral gótica mais septentrional do mundo), bairro de madera colorido de Bakklandet, transporte canino grátis (buses, elétricos, comboios), e 80 km² de floresta urbano de Bymarka a as puertas da cidade`,
+      personality: `a tercera cidade de Noruega e capital medieval, catedral de Nidaros UNESCO (a catedral gótica mais septentrional do mundo), bairro de madera colorido de Bakklandet, transporte canino grátis (buses, elétricos, comboios), e 80 km² de floresta urbano de Bymarka a as puertas da cidade`,
       highlight: `a catedral de Nidaros e o Ponte Viejo (Gamle Bybro), o icónico elétrico histórico Gråkallbanen hacia o floresta de Bymarka, e o ferry a a ilha Munkholmen`,
       area: `o Midtbyen alrededor da catedral de Nidaros, o bairro de madera de Bakklandet, e o porto de Solsiden`,
     },
@@ -2549,7 +2549,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'San Salvario, o Quadrilatero Romano e o núcleo histórico en torno a Piazza Castello',
     },
     utrecht: {
-      personality: 'uma compacta cidade universitaria neerlandesa onde os cães viajan grátis en autocarros e elétricos urbanos, o operador de cruceros pelos canales admite cães sem coste, e tres zonas sem trela — o Máximapark de 300 hectáreas, o Griftpark central e as fincas de Amelisweerd — são acessíveis a partir do casco histórico',
+      personality: 'uma compacta cidade universitaria neerlandesa onde os cães viajan grátis en autocarros e elétricos urbanos, o operador de cruceros pelos canales admite cães sem coste, e tres zonas sem trela, o Máximapark de 300 hectáreas, o Griftpark central e as fincas de Amelisweerd, são acessíveis a partir do casco histórico',
       highlight: 'o Máximapark en Leidsche Rijn, o Griftpark central e as fincas Amelisweerd & Rhijnauwen a 5 km al sureste',
       area: 'a Binnenstad e a Oudegracht, Vogelenbuurt e Wittevrouwen',
     },
@@ -2589,7 +2589,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `o Centro histórico alrededor do Rynek, o bohemio bairro de Nadodrze e o Bairro das Cuatro Confesiones`,
     },
     york: {
-      personality: `uma das cidades inglesas mais fiablemente pet-friendly — um núcleo medieval compacto onde o 80 % dos pubs admite cães com trela, o circuito de 5 km das muralhas é grátis com animal, e os comboios directos LNER conectan com as praias caninas de Filey, Sandsend e Bridlington para excursiones de um dia`,
+      personality: `uma das cidades inglesas mais fiablemente pet-friendly, um núcleo medieval compacto onde o 80 % dos pubs admite cães com trela, o circuito de 5 km das muralhas é grátis com animal, e os comboios directos LNER conectan com as praias caninas de Filey, Sandsend e Bridlington para excursiones de um dia`,
       highlight: `o circuito pet-friendly das muralhas, os Museum Gardens junto al rio, e a praia canina abierta o ano inteiro en Filey, a uma hora al este pela línea LNER`,
       area: `o centro histórico dentro das muralhas, o bairro de Fossgate e a zona de Bishopthorpe Road / Knavesmire`,
     },
@@ -2599,7 +2599,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `Donji Grad, Gornji Grad e o bairro dos lagos de Maksimir`,
     },
     zaragoza: {
-      personality: `a capital de Aragón e quinta cidade de Espanha — anclada pela Basílica do Pilar a margens do Ebro e articulada alrededor de 126 zonas sem trela designadas, uma das redes de parques pet-friendly mais densas de Espanha, além disso do hospital de referencia AniCura Emvet 24/7`,
+      personality: `a capital de Aragón e quinta cidade de Espanha, anclada pela Basílica do Pilar a margens do Ebro e articulada alrededor de 126 zonas sem trela designadas, uma das redes de parques pet-friendly mais densas de Espanha, além disso do hospital de referencia AniCura Emvet 24/7`,
       highlight: `o Parque Grande Labordeta de 27 hectáreas, a zona canina vallada do Parque do Tío Jorge e os passeios junto al rio nas Riberas do Ebro`,
       area: `o Casco Histórico alrededor do Pilar, o frondoso Centro no Passeio de Sagasta e o bairro de tapas da Magdalena`,
     },
@@ -3229,19 +3229,19 @@ export function generateWhy(
   const bullets =
     l === 'fr'
       ? [
-          `À ${destName}, ${ctx.highlight} sont accessibles depuis chaque hôtel de cette liste — idéal pour les sorties matin et soir.`,
-          `${destName} est ${ctx.personality} — les animaux sont acceptés dans les rues, les terrasses et les commerces du quotidien.`,
+          `À ${destName}, ${ctx.highlight} sont accessibles depuis chaque hôtel de cette liste, idéal pour les sorties matin et soir.`,
+          `${destName} est ${ctx.personality}, les animaux sont acceptés dans les rues, les terrasses et les commerces du quotidien.`,
           bullet3,
         ]
       : l === 'es'
         ? [
             `En ${destName}, ${ctx.highlight} son accesibles desde cada hotel de esta lista, perfectos para salidas mañana y noche.`,
-            `${destName} es ${ctx.personality} — los animales son bienvenidos en calles, terrazas y comercios habituales.`,
+            `${destName} es ${ctx.personality}, los animales son bienvenidos en calles, terrazas y comercios habituales.`,
             bullet3,
           ]
         : [
-            `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list — good for morning and evening outings.`,
-            `${destName} is ${ctx.personality} — pets are a normal part of street life, café terraces, and local shops.`,
+            `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list, good for morning and evening outings.`,
+            `${destName} is ${ctx.personality}, pets are a normal part of street life, café terraces, and local shops.`,
             bullet3,
           ]
 

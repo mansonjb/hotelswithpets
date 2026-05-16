@@ -78,13 +78,13 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
         {/* Gradient fade to white */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
 
-        {/* Rating badge — top left */}
+        {/* Rating badge, top left */}
         <div className="absolute top-3 left-3 flex items-center gap-1.5 bg-white/95 backdrop-blur-sm rounded-xl px-2.5 py-1.5 shadow-sm">
           <span className="text-blue-600 font-black text-sm leading-none">{hotel.rating}</span>
           <span className="text-gray-400 text-xs leading-none">{formatReviews(hotel.reviewCount)}</span>
         </div>
 
-        {/* Pet fee badge — top right */}
+        {/* Pet fee badge, top right */}
         <div className="absolute top-3 right-3">
           {isFree ? (
             <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
@@ -97,7 +97,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
           )}
         </div>
 
-        {/* Stars — bottom left on image */}
+        {/* Stars, bottom left on image */}
         <div className="absolute bottom-3 left-3">
           <span className="text-amber-400 text-sm tracking-tight drop-shadow-sm">
             {'★'.repeat(hotel.stars)}{'☆'.repeat(Math.max(0, 5 - hotel.stars))}
@@ -122,7 +122,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
           </p>
         </div>
 
-        {/* Pet policy — minimal strip */}
+        {/* Pet policy, minimal strip */}
         <div className={`rounded-xl px-3 py-2.5 text-xs leading-relaxed ${isFree ? 'bg-emerald-50 text-emerald-800' : 'bg-blue-50 text-blue-800'}`}>
           <span className="font-semibold uppercase tracking-wide text-[10px] block mb-0.5 opacity-70">
             🐾 {dict.petPolicy}

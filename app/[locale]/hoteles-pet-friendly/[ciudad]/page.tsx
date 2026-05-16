@@ -20,7 +20,7 @@ import hotels from '@/data/hotels.json'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 
-// Whitelist of cities that get a dedicated Spanish landing page — focused on
+// Whitelist of cities that get a dedicated Spanish landing page, focused on
 // cities with high GSC impressions for "hoteles X pet friendly" patterns.
 const TARGET_CITIES: { ciudad: string; citySlug: string }[] = [
   { ciudad: 'madrid',          citySlug: 'madrid' },
@@ -38,7 +38,7 @@ const TARGET_CITIES: { ciudad: string; citySlug: string }[] = [
 ]
 
 export async function generateStaticParams() {
-  // Only generate Spanish locale — these pages are ES-only by design
+  // Only generate Spanish locale, these pages are ES-only by design
   return TARGET_CITIES.map((t) => ({ locale: 'es', ciudad: t.ciudad }))
 }
 
@@ -62,7 +62,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const minPrice = count > 0 ? Math.min(...cityHotels.map((h) => h.priceFrom).filter(Boolean)) : null
   const year = new Date().getFullYear()
 
-  const title = `Hoteles pet-friendly en ${cityEs} (${year}) — ${count} hoteles que admiten mascotas | HotelsWithPets.com`
+  const title = `Hoteles pet-friendly en ${cityEs} (${year}), ${count} hoteles que admiten mascotas | HotelsWithPets.com`
   const description = `Los mejores ${count} hoteles que admiten perros y gatos en ${cityEs}, ${countryEs} desde ${minPrice} €/noche. Suplemento mascotas, peso máximo y políticas detalladas. Reserva en Booking.com.`
 
   return {
@@ -78,7 +78,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function Page({ params }: { params: Promise<{ locale: string; ciudad: string }> }) {
   const { locale, ciudad } = await params
 
-  // Only Spanish — redirect en/fr to the corresponding destination page
+  // Only Spanish, redirect en/fr to the corresponding destination page
   if (locale !== 'es') {
     const target = resolveCity(ciudad)
     if (!target) notFound()
@@ -105,7 +105,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     {
       '@context': 'https://schema.org',
       '@type': 'Article',
-      headline: `Hoteles pet-friendly en ${cityEs} — Guía 2026`,
+      headline: `Hoteles pet-friendly en ${cityEs}, Guía 2026`,
       description: `Los ${cityHotels.length} mejores hoteles que admiten mascotas en ${cityEs}.`,
       datePublished: '2026-05-09T00:00:00Z',
       dateModified: new Date().toISOString(),
@@ -171,7 +171,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         <header className="mb-10">
           <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-cyan-700">{dest.flag} {countryEs} · {new Date().getFullYear()}</p>
           <h1 className="mb-6 text-4xl font-extrabold leading-tight text-gray-900 sm:text-5xl">
-            Hoteles pet-friendly en {cityEs} — {cityHotels.length} hoteles que admiten mascotas
+            Hoteles pet-friendly en {cityEs}, {cityHotels.length} hoteles que admiten mascotas
           </h1>
           <p className="text-lg leading-relaxed text-gray-700">
             Los <strong>{cityHotels.length} mejores hoteles pet-friendly en {cityEs}</strong>, con políticas

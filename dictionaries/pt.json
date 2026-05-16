@@ -47,7 +47,7 @@
     "items": [
       {
         "emoji": "🐕",
-        "label": "Amesterdão com o seu cão — o guia completo",
+        "label": "Amesterdão com o seu cão, o guia completo",
         "href": "amsterdam/dog-friendly"
       },
       {
@@ -62,7 +62,7 @@
       },
       {
         "emoji": "🎉",
-        "label": "Barcelona: sem taxa de animal — os nossos hotéis selecionados",
+        "label": "Barcelona: sem taxa de animal, os nossos hotéis selecionados",
         "href": "barcelona/dogs-stay-free"
       },
       {
@@ -115,7 +115,7 @@
     },
     "categories": {
       "title": "Todas as categorias de animais",
-      "subtitle": "Pet-friendly, luxo, acesso à praia, sem taxa — encontre exatamente o que a sua viagem precisa.",
+      "subtitle": "Pet-friendly, luxo, acesso à praia, sem taxa, encontre exatamente o que a sua viagem precisa.",
       "destinations": "destinos"
     },
     "category": {
@@ -125,14 +125,14 @@
     },
     "combo": {
       "rankLabel": "Melhor para",
-      "heroTitle": "Hotéis em {dest} — {cat}",
-      "hotelsTitle": "As nossas seleções em {dest} — {cat} ({n} hotéis)",
+      "heroTitle": "Hotéis em {dest}, {cat}",
+      "hotelsTitle": "As nossas seleções em {dest}, {cat} ({n} hotéis)",
       "inCity": "em {dest}",
-      "tipsTitle": "Como escolher o hotel certo em {dest} — {cat}",
+      "tipsTitle": "Como escolher o hotel certo em {dest}, {cat}",
       "tipsSubtitle": "Cinco coisas que os viajantes experientes com animais verificam antes de cada reserva.",
       "faqTitle": "Perguntas frequentes",
       "moreInDest": "Mais guias em {dest}",
-      "catElsewhere": "{cat} — outras cidades",
+      "catElsewhere": "{cat}, outras cidades",
       "relatedTitle": "Guias relacionados",
       "updatedLabel": "Atualizado",
       "handpicked": "propriedades selecionadas",
@@ -148,7 +148,7 @@
       "stars": "estrelas",
       "reviews": "avaliações",
       "ctaTitle": "Pronto para reservar?",
-      "ctaDesc": "Compare ainda mais opções no Booking.com — filtre por política animal, preço e comodidades.",
+      "ctaDesc": "Compare ainda mais opções no Booking.com, filtre por política animal, preço e comodidades.",
       "ctaButton": "Ver todos os hotéis pet-friendly",
       "noHotels": "Ainda não há hotéis listados para esta combinação. Volte em breve ou navegue diretamente no Booking.com.",
       "whyTitle": "Porquê escolher {dest} com o seu animal?",

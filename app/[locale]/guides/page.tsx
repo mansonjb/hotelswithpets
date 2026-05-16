@@ -58,7 +58,7 @@ const COPY = {
       {
         emoji: '🚂',
         title: 'Voyager en train avec son chien',
-        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar — tarifs, règles muselière, dimensions des transportins et comment réserver. Fact-checké par compagnie.',
+        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar, tarifs, règles muselière, dimensions des transportins et comment réserver. Fact-checké par compagnie.',
         href: 'train-avec-chien',
         badge: 'Nouveau',
         tags: ['Train', 'Europe', 'SNCF', 'Tarifs'],
@@ -138,7 +138,7 @@ const COPY = {
       {
         emoji: '🚂',
         title: 'Travelling by train with your dog',
-        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar — fares, muzzle rules, carrier dimensions and how to book. Fact-checked per operator.',
+        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar, fares, muzzle rules, carrier dimensions and how to book. Fact-checked per operator.',
         href: 'train-avec-chien',
         badge: 'New',
         tags: ['Train', 'Europe', 'Fares', 'Rules'],
@@ -218,7 +218,7 @@ const COPY = {
       {
         emoji: '🚂',
         title: 'Viajar en tren con tu perro',
-        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar — tarifas, normas de bozal, dimensiones del transportín y cómo reservar. Verificado por operador.',
+        desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar, tarifas, normas de bozal, dimensiones del transportín y cómo reservar. Verificado por operador.',
         href: 'train-avec-chien',
         badge: 'Nuevo',
         tags: ['Tren', 'Europa', 'Tarifas', 'Normas'],
@@ -293,7 +293,7 @@ export default async function GuidesIndexPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  // PT not in this local COPY object yet — fall back to EN for this guide hub
+  // PT not in this local COPY object yet, fall back to EN for this guide hub
   const lang: 'en' | 'fr' | 'es' = locale === 'fr' || locale === 'es' ? locale : 'en'
   const copy = COPY[lang]
 
@@ -347,7 +347,7 @@ export default async function GuidesIndexPage({
           ))}
         </div>
 
-        {/* Coming soon — section removed, all guides now published */}
+        {/* Coming soon, section removed, all guides now published */}
 
       </div>
     </div>

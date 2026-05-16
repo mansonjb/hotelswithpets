@@ -11,7 +11,7 @@ const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 
 const BASE_URL = 'https://www.hotelswithpets.com'
 const LOCALES = ['en', 'fr', 'es', 'pt']
 
-// Real-modtime helpers — stronger freshness signal for search engines than
+// Real-modtime helpers, stronger freshness signal for search engines than
 // "build date everywhere". Each page's lastmod reflects the actual data file
 // it depends on, so re-deploying without touching content does not falsely
 // inflate freshness.
@@ -86,7 +86,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // Practical guides hub + individual guide pages
-  // High SEO value (long-form, original, expert content) — list them explicitly so
+  // High SEO value (long-form, original, expert content), list them explicitly so
   // new guides are picked up the next deploy.
   const PRACTICAL_GUIDES = [
     'passeport-animal',
@@ -184,7 +184,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Combo pages (destination × category) — highest value SEO pages.
+  // Combo pages (destination × category), highest value SEO pages.
   // Restrict to OFFICIAL categories.json slugs: hotels.json carries internal
   // filter tags ("budget-pet-friendly", "boutique-pet-friendly",
   // "luxury-pet-friendly") that don't have a category landing page. Including
@@ -210,7 +210,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Individual hotel pages — long-tail SEO (brand + "pet friendly" searches)
+  // Individual hotel pages, long-tail SEO (brand + "pet friendly" searches)
   for (const hotel of hotels) {
     if (!hotel.slug) continue
     for (const locale of LOCALES) {
@@ -223,7 +223,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // City guide sub-pages — 6 sections per city (restaurants, parks, transport, beaches, vets, tips)
+  // City guide sub-pages, 6 sections per city (restaurants, parks, transport, beaches, vets, tips)
   // Dynamically reads data/city-guides/ so new cities are included automatically
   const guideDir = join(process.cwd(), 'data/city-guides')
   if (existsSync(guideDir)) {

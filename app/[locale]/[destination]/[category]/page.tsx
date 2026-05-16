@@ -20,7 +20,7 @@ type DestWithWeather = typeof destinations[number] & {
 
 // Only generate routes for OFFICIAL categories (the ones in categories.json).
 // hotels.json contains "ghost" tags like `boutique-pet-friendly`,
-// `budget-pet-friendly`, `luxury-pet-friendly` used for internal filtering —
+// `budget-pet-friendly`, `luxury-pet-friendly` used for internal filtering,
 // these have no editorial content, so the page would render notFound() → 200 +
 // noindex, which wastes Google's crawl budget and pollutes Search Console with
 // "Excluded by noindex" reports. Filtering at the source removes them entirely.
@@ -30,7 +30,7 @@ const OFFICIAL_CATEGORY_SLUGS = new Set(categories.map((c) => c.slug))
 // 1755 combo routes × 3 locales × ~5 files = ~26 000 files = ~30% of total deploy
 // file count which was tripping Vercel's silent "Deploying outputs" timeout.
 // Pages still get statically cached after first request, still in sitemap, still
-// indexable by Google — just lazy-built instead of eager.
+// indexable by Google, just lazy-built instead of eager.
 export const dynamicParams = true
 export const revalidate = 86400 // 1 day ISR cache
 export async function generateStaticParams() {
@@ -54,7 +54,7 @@ export async function generateMetadata({
     (h) => h.destinationSlug === destination && h.categories.includes(category)
   )
 
-  // noindex empty pages — no hotels = thin content, bad for SEO
+  // noindex empty pages, no hotels = thin content, bad for SEO
   if (comboHotels.length === 0) {
     return { robots: { index: false, follow: false } }
   }
@@ -70,14 +70,14 @@ export async function generateMetadata({
   const countryEs = getLocalizedCountryName(dest.country, 'es')
 
   const titles: Record<string, string> = {
-    en: `Hotels in ${dest.name} — ${cat.name} (${year}): Top ${comboHotels.length} Picks`,
-    fr: `Hôtels à ${cityFr} — ${catName} (${year}) : Top ${comboHotels.length}`,
-    es: `Hoteles en ${cityEs} — ${catName} (${year}): Top ${comboHotels.length}`,
+    en: `Hotels in ${dest.name}, ${cat.name} (${year}): Top ${comboHotels.length} Picks`,
+    fr: `Hôtels à ${cityFr}, ${catName} (${year}) : Top ${comboHotels.length}`,
+    es: `Hoteles en ${cityEs}, ${catName} (${year}): Top ${comboHotels.length}`,
   }
   const descriptions: Record<string, string> = {
-    en: `${comboHotels.length} handpicked pet-friendly hotels in ${dest.name}, ${dest.country} — ${cat.name.toLowerCase()}. Verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
-    fr: `${comboHotels.length} hôtels pet-friendly sélectionnés à ${cityFr}, ${countryFr} — ${catName.toLowerCase()}. Politiques vérifiées, dès ${minPrice} €/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
-    es: `${comboHotels.length} hoteles pet-friendly seleccionados en ${cityEs}, ${countryEs} — ${catName.toLowerCase()}. Políticas verificadas, desde ${minPrice} €/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
+    en: `${comboHotels.length} handpicked pet-friendly hotels in ${dest.name}, ${dest.country}, ${cat.name.toLowerCase()}. Verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
+    fr: `${comboHotels.length} hôtels pet-friendly sélectionnés à ${cityFr}, ${countryFr}, ${catName.toLowerCase()}. Politiques vérifiées, dès ${minPrice} €/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
+    es: `${comboHotels.length} hoteles pet-friendly seleccionados en ${cityEs}, ${countryEs}, ${catName.toLowerCase()}. Políticas verificadas, desde ${minPrice} €/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
   }
 
   const title = titles[locale] ?? titles.en
@@ -413,9 +413,9 @@ export default async function ComboPage({
                 </div>
               </section>
 
-              {/* ③ Pet owner testimonial — removed (template text identical across pages) */}
+              {/* ③ Pet owner testimonial, removed (template text identical across pages) */}
 
-              {/* ④ Map (moved up — high-conversion: drives bookings on broader Booking inventory) */}
+              {/* ④ Map (moved up, high-conversion: drives bookings on broader Booking inventory) */}
               {'lat' in dest && 'lng' in dest && (
                 <section aria-label="Map" className="mb-10">
                   <h2 className="text-xl font-extrabold text-gray-900 mb-3">
@@ -423,10 +423,10 @@ export default async function ComboPage({
                   </h2>
                   <p className="text-sm text-gray-500 mb-4">
                     {locale === 'fr'
-                      ? `Tous les hôtels acceptant les animaux à ${localizedDest}, directement depuis Booking.com — cliquez sur un marqueur pour voir le prix et réserver.`
+                      ? `Tous les hôtels acceptant les animaux à ${localizedDest}, directement depuis Booking.com, cliquez sur un marqueur pour voir le prix et réserver.`
                       : locale === 'es'
-                      ? `Todos los hoteles que admiten mascotas en ${localizedDest}, directamente desde Booking.com — haz clic en un marcador para ver el precio y reservar.`
-                      : `All pet-friendly hotels in ${localizedDest}, live from Booking.com — click any marker to see prices and book.`}
+                      ? `Todos los hoteles que admiten mascotas en ${localizedDest}, directamente desde Booking.com, haz clic en un marcador para ver el precio y reservar.`
+                      : `All pet-friendly hotels in ${localizedDest}, live from Booking.com, click any marker to see prices and book.`}
                   </p>
                   <PetMap
                     lat={(dest as typeof dest & { lat: number }).lat}

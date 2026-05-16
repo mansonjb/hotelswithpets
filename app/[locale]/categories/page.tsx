@@ -63,7 +63,7 @@ const COPY: Record<string, {
   faqs: { q: string; a: string }[]
 }> = {
   fr: {
-    intro: 'Tous nos hôtels ont une politique animaux vérifiée — mais chaque séjour est différent. Filtrez par catégorie pour trouver exactement ce qu\'il vous faut : grand chien, chat, hôtel de luxe, accès plage ou zéro supplément.',
+    intro: 'Tous nos hôtels ont une politique animaux vérifiée, mais chaque séjour est différent. Filtrez par catégorie pour trouver exactement ce qu\'il vous faut : grand chien, chat, hôtel de luxe, accès plage ou zéro supplément.',
     whyTitle: 'Pourquoi filtrer par catégorie ?',
     whyText: 'La mention "animaux acceptés" ne dit pas tout. Certains hôtels n\'admettent que les petits chiens, d\'autres facturent un supplément élevé. Nos catégories vont plus loin : elles regroupent les hôtels selon des critères concrets, vérifiés directement à la source.',
     howTitle: 'Comment utiliser les filtres',
@@ -82,7 +82,7 @@ const COPY: Record<string, {
     ],
   },
   en: {
-    intro: 'Every hotel on HotelsWithPets.com has a verified pet policy — but every trip is different. Filter by category to find exactly what you need: large dog, cat, luxury stay, beach access, or no pet fee at all.',
+    intro: 'Every hotel on HotelsWithPets.com has a verified pet policy, but every trip is different. Filter by category to find exactly what you need: large dog, cat, luxury stay, beach access, or no pet fee at all.',
     whyTitle: 'Why filter by category?',
     whyText: '"Pets accepted" doesn\'t tell the whole story. Some hotels only admit small dogs; others charge a steep nightly fee. Our categories go further: they group hotels by concrete, source-verified criteria so you know exactly what you\'re getting.',
     howTitle: 'How to use filters',
@@ -95,7 +95,7 @@ const COPY: Record<string, {
     faqTitle: 'Frequently asked questions',
     faqs: [
       { q: 'Do all listed hotels really accept pets?', a: 'Yes. Every hotel on HotelsWithPets.com has an explicit pet-friendly policy verified on Booking.com. We exclude hotels that only accept animals "subject to conditions" or with unspecified restrictions.' },
-      { q: 'What\'s the difference between "Dog-friendly" and "Dogs stay free"?', a: 'All "Dog-friendly" hotels welcome dogs, but some charge a nightly fee. "Dogs stay free" covers only hotels where your dog stays at no extra charge — a real budget difference on longer trips.' },
+      { q: 'What\'s the difference between "Dog-friendly" and "Dogs stay free"?', a: 'All "Dog-friendly" hotels welcome dogs, but some charge a nightly fee. "Dogs stay free" covers only hotels where your dog stays at no extra charge, a real budget difference on longer trips.' },
       { q: 'Are weight limits verified?', a: 'We display the information available on Booking.com. For large dogs (above 20 kg), we always recommend confirming directly with the hotel before booking.' },
       { q: 'Do displayed prices include the pet fee?', a: 'No. The pet fee is typically settled at check-in. Prices shown are the base room rate as communicated by Booking.com.' },
     ],
@@ -150,7 +150,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
         </div>
       </section>
 
-      {/* Why + How — editorial strip */}
+      {/* Why + How, editorial strip */}
       <section className="bg-white border-b border-gray-100 py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-10">

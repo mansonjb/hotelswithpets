@@ -17,22 +17,22 @@ const TESTIMONIALS = {
   fr: [
     { text: 'On voyage avec notre border collie depuis deux ans. Pour la première fois, l\'hôtel avait préparé un panier dans la chambre. Exactement ce que le site avait promis.', author: 'Sophie T.', location: 'Paris', rating: 5 },
     { text: 'Enfin un site qui vérifie vraiment les politiques animaux. Amsterdam, tout s\'est passé comme prévu, aucune mauvaise surprise à l\'arrivée.', author: 'Marc & Julie L.', location: 'Lyon', rating: 5 },
-    { text: 'Le filtre "sans supplément animaux" a changé notre façon de voyager. On a économisé 80 € sur un week-end à Barcelone — et l\'hôtel était superbe.', author: 'Antoine R.', location: 'Bordeaux', rating: 5 },
+    { text: 'Le filtre "sans supplément animaux" a changé notre façon de voyager. On a économisé 80 € sur un week-end à Barcelone, et l\'hôtel était superbe.', author: 'Antoine R.', location: 'Bordeaux', rating: 5 },
   ],
   en: [
     { text: 'Travelling with our golden retriever used to be stressful. HotelsWithPets found us a hotel in Rome where dogs are genuinely made welcome, not just tolerated.', author: 'Claire M.', location: 'London', rating: 5 },
-    { text: 'Finally a site that actually verifies pet policies. We booked in Amsterdam and everything was exactly as described — no surprises at check-in.', author: 'James & Sarah K.', location: 'Edinburgh', rating: 5 },
+    { text: 'Finally a site that actually verifies pet policies. We booked in Amsterdam and everything was exactly as described, no surprises at check-in.', author: 'James & Sarah K.', location: 'Edinburgh', rating: 5 },
     { text: 'The "no pet fee" filter transformed our travel budget. We saved over €80 on a Barcelona weekend and the hotel was genuinely lovely.', author: 'Thomas R.', location: 'Dublin', rating: 5 },
   ],
   es: [
     { text: 'Viajar con nuestra perra siempre era un lío. Ahora encontramos hoteles que realmente la reciben bien, no que simplemente la toleran.', author: 'Lucía M.', location: 'Madrid', rating: 5 },
     { text: 'Por fin un sitio que verifica las políticas de verdad. Reservamos en Ámsterdam y todo fue exactamente como prometían. Sin ninguna sorpresa.', author: 'Carlos y Ana R.', location: 'Barcelona', rating: 5 },
-    { text: 'El filtro "sin suplemento por mascota" ha cambiado nuestra forma de viajar. Ahorramos más de 80 € en un fin de semana en Barcelona — y el hotel era precioso.', author: 'Javier T.', location: 'Sevilla', rating: 5 },
+    { text: 'El filtro "sin suplemento por mascota" ha cambiado nuestra forma de viajar. Ahorramos más de 80 € en un fin de semana en Barcelona, y el hotel era precioso.', author: 'Javier T.', location: 'Sevilla', rating: 5 },
   ],
   pt: [
     { text: 'Viajar com o nosso cão era sempre um stress. Agora encontramos hotéis que realmente o acolhem, não que apenas o toleram.', author: 'Inês P.', location: 'Lisboa', rating: 5 },
     { text: 'Finalmente um site que verifica mesmo as políticas. Reservámos em Amesterdão e tudo foi exatamente como prometido. Sem surpresas.', author: 'João e Ana M.', location: 'Porto', rating: 5 },
-    { text: 'O filtro "sem suplemento de animais" mudou a nossa forma de viajar. Poupámos mais de 80 € num fim de semana em Barcelona — e o hotel era encantador.', author: 'Tiago R.', location: 'Coimbra', rating: 5 },
+    { text: 'O filtro "sem suplemento de animais" mudou a nossa forma de viajar. Poupámos mais de 80 € num fim de semana em Barcelona, e o hotel era encantador.', author: 'Tiago R.', location: 'Coimbra', rating: 5 },
   ],
 }
 

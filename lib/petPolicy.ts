@@ -329,7 +329,7 @@ export function localizedPetPolicy(hotel: HotelSnapshot, locale: string): string
   ]
 
   const feeVariants = isFree ? [
-    `Pets stay completely free of charge — no extra fee applies.`,
+    `Pets stay completely free of charge, no extra fee applies.`,
     `Great news: there is no pet surcharge. Your companion stays at no additional cost.`,
     `No pet fee here: your furry travel partner stays free of charge.`,
   ] : petFee > 0 ? [
@@ -338,7 +338,7 @@ export function localizedPetPolicy(hotel: HotelSnapshot, locale: string): string
     `Expect a €${petFee} nightly pet surcharge, collected at check-in.`,
   ] : [
     `A nominal pet fee may apply; the exact amount is confirmed at check-in.`,
-    `Pet fees vary by season — the exact charge is clarified at the time of booking.`,
+    `Pet fees vary by season, the exact charge is clarified at the time of booking.`,
   ]
 
   const sizeVariants = isLuxury ? [
@@ -356,7 +356,7 @@ export function localizedPetPolicy(hotel: HotelSnapshot, locale: string): string
   const locationSentence = hasBeach
     ? pick([
         `The hotel is a short walk from pet-accessible beach areas, ideal for morning runs with your dog.`,
-        `Dog-friendly beach access is nearby — perfect for an early morning outing with your pet.`,
+        `Dog-friendly beach access is nearby, perfect for an early morning outing with your pet.`,
       ], seed, 2)
     : hasPark
     ? pick([

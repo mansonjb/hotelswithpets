@@ -185,7 +185,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c }: CityTripGui
 
             {city.dest.heroImage && (
               <div className="relative w-full h-64 lg:h-80 rounded-2xl overflow-hidden mb-6 shadow-lg">
-                <Image src={city.dest.heroImage} alt={`${localCityName} — pet-friendly city trip`} fill sizes="(max-width: 1024px) 100vw, 60vw" className="object-cover" />
+                <Image src={city.dest.heroImage} alt={`${localCityName}, pet-friendly city trip`} fill sizes="(max-width: 1024px) 100vw, 60vw" className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-black/10 to-transparent" />
               </div>
             )}

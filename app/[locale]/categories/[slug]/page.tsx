@@ -22,8 +22,8 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
   const titleTemplates: Record<string, string> = {
     en: `${catName} Hotels in Europe | HotelsWithPets.com`,
-    fr: `Hôtels en Europe — ${catName} | HotelsWithPets.com`,
-    es: `Hoteles en Europa — ${catName} | HotelsWithPets.com`,
+    fr: `Hôtels en Europe, ${catName} | HotelsWithPets.com`,
+    es: `Hoteles en Europa, ${catName} | HotelsWithPets.com`,
   }
   const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined

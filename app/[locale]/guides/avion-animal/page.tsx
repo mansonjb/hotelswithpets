@@ -117,10 +117,10 @@ const AIRLINES: AirlineRow[] = [
       pt: '55 € (Alemania) / 70–100 € (Europa) / 110–160 € (largo radio)',
     },
     holdPrice: {
-      en: 'Calculated by weight — contact Lufthansa cargo',
-      fr: 'Calculé au poids — contacter Lufthansa cargo',
-      es: 'Calculado por peso — contactar Lufthansa cargo',
-      pt: 'Calculado por peso — contactar Lufthansa cargo',
+      en: 'Calculated by weight, contact Lufthansa cargo',
+      fr: 'Calculé au poids, contacter Lufthansa cargo',
+      es: 'Calculado por peso, contactar Lufthansa cargo',
+      pt: 'Calculado por peso, contactar Lufthansa cargo',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '55 × 40 × 23 cm',
@@ -181,18 +181,18 @@ const AIRLINES: AirlineRow[] = [
       pt: 'No aceite',
     },
     holdPrice: {
-      en: 'Not accepted as passenger baggage — cargo only via approved partner IAG Cargo',
-      fr: 'Non accepté en bagages — fret uniquement via IAG Cargo',
-      es: 'No aceptado como equipaje — solo flete vía IAG Cargo',
-      pt: 'No aceite como equipaje — só flete vía IAG Cargo',
+      en: 'Not accepted as passenger baggage, cargo only via approved partner IAG Cargo',
+      fr: 'Non accepté en bagages, fret uniquement via IAG Cargo',
+      es: 'No aceptado como equipaje, solo flete vía IAG Cargo',
+      pt: 'No aceite como equipaje, só flete vía IAG Cargo',
     },
-    weightLimitCabin: '—',
-    carrierMax: '—',
+    weightLimitCabin: ',',
+    carrierMax: ',',
     snubNosed: {
-      en: 'N/A — no pets in cabin or hold as passenger baggage',
-      fr: 'N/A — aucun animal en cabine ou soute comme bagages',
-      es: 'N/A — sin mascotas en cabina ni bodega como equipaje',
-      pt: 'N/A — sem animais en cabina ni bodega como equipaje',
+      en: 'N/A, no pets in cabin or hold as passenger baggage',
+      fr: 'N/A, aucun animal en cabine ou soute comme bagages',
+      es: 'N/A, sin mascotas en cabina ni bodega como equipaje',
+      pt: 'N/A, sem animais en cabina ni bodega como equipaje',
     },
     bookingProcess: {
       en: 'Contact IAG Cargo directly for freight shipment',
@@ -381,10 +381,10 @@ const AIRLINES: AirlineRow[] = [
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '40 × 30 × 24 cm',
     snubNosed: {
-      en: 'Cabin only; snub-nosed policy — check directly',
-      fr: 'Cabine uniquement ; politique camus — vérifier directement',
-      es: 'Solo cabina; política braquicéfalos — verificar directamente',
-      pt: 'Só cabina; política braquicéfalos — verificar directamente',
+      en: 'Cabin only; snub-nosed policy, check directly',
+      fr: 'Cabine uniquement ; politique camus, vérifier directement',
+      es: 'Solo cabina; política braquicéfalos, verificar directamente',
+      pt: 'Só cabina; política braquicéfalos, verificar directamente',
     },
     bookingProcess: {
       en: 'Add pet via transavia.com after booking; limited to 1 pet per passenger',
@@ -430,7 +430,7 @@ const COPY = {
     lastUpdate: 'Mis à jour en',
     badge: 'Guide pratique',
     sourcesTitle: 'Sources vérifiées',
-    sourcesText: 'Ce guide est basé sur les politiques officielles publiées par chaque compagnie aérienne. Les tarifs et conditions sont susceptibles de changer — vérifiez toujours directement auprès de la compagnie avant de réserver.',
+    sourcesText: 'Ce guide est basé sur les politiques officielles publiées par chaque compagnie aérienne. Les tarifs et conditions sont susceptibles de changer, vérifiez toujours directement auprès de la compagnie avant de réserver.',
     quickDecision: 'Cabine ou soute ? Guide rapide',
     quickDecisionItems: [
       { icon: '✅', title: 'Voyage en cabine possible si…', points: ['Votre animal pèse moins de 8 kg (y compris la caisse)', 'La caisse respecte les dimensions autorisées (≈ 46 × 28 × 24 cm)', 'La compagnie accepte les animaux en cabine (Air France, Lufthansa, KLM, Iberia…)', 'Votre race n\'est pas restreinte', 'Vous avez réservé une place à l\'avance (places limitées)'] },
@@ -455,8 +455,8 @@ const COPY = {
     lowCostText: 'Ryanair, easyJet et Wizz Air n\'acceptent aucun animal de compagnie en cabine ni en soute, à l\'exception des chiens d\'assistance certifiés. Si vous volez low-cost, vous devrez trouver une autre solution pour votre animal.',
     cabinVsHoldTitle: 'Cabine vs soute : ce qu\'il faut savoir',
     cabinPoints: [
-      { title: 'Avantages de la cabine', points: ['Votre animal reste sous votre siège — vous le voyez et l\'entendez', 'Moins de stress pour l\'animal (pas de séparation)', 'Pas de risque de perte de bagages', 'Température et pression identiques à la cabine passagers'] },
-      { title: 'Conditions requises', points: ['Poids max : 8 kg (animal + caisse)', 'Caisse souple sous le siège uniquement', 'L\'animal doit rester dans la caisse pendant tout le vol', '1 animal par passager en général', 'Nombre de places limité par vol — réservez tôt'] },
+      { title: 'Avantages de la cabine', points: ['Votre animal reste sous votre siège, vous le voyez et l\'entendez', 'Moins de stress pour l\'animal (pas de séparation)', 'Pas de risque de perte de bagages', 'Température et pression identiques à la cabine passagers'] },
+      { title: 'Conditions requises', points: ['Poids max : 8 kg (animal + caisse)', 'Caisse souple sous le siège uniquement', 'L\'animal doit rester dans la caisse pendant tout le vol', '1 animal par passager en général', 'Nombre de places limité par vol, réservez tôt'] },
     ],
     holdPoints: [
       { title: 'Soute pressurisée', points: ['Les soutes modernes sont pressurisées et climatisées (15–25°C)', 'Recommandé pour les animaux de plus de 8 kg', 'La caisse doit répondre aux normes IATA (rigide, ventilée, sécurisée)'] },
@@ -470,8 +470,8 @@ const COPY = {
         'Dimensions typiques : 46 × 28 × 24 cm (vérifiez la compagnie)',
         'Matière : tissu maillé ou similaire, imperméable en dessous',
         'L\'animal doit pouvoir se retourner et s\'asseoir normalement',
-        'Fermeture sécurisée (zip ou boucle) — pas de simple velcro',
-        'Pas de roues — doit rester dans la caisse en soute du siège',
+        'Fermeture sécurisée (zip ou boucle), pas de simple velcro',
+        'Pas de roues, doit rester dans la caisse en soute du siège',
       ],
     },
     carrierHold: {
@@ -497,7 +497,7 @@ const COPY = {
         step: '1. Avant la réservation',
         points: [
           'Vérifiez la politique de la compagnie (nombre d\'animaux par vol limité)',
-          'Pesez votre animal avec la caisse — les 8 kg sont souvent dépassés avec une grande caisse',
+          'Pesez votre animal avec la caisse, les 8 kg sont souvent dépassés avec une grande caisse',
           'Préparez le passeport européen pour animaux (puce ISO + vaccin rage à jour)',
           'Consultez votre vétérinaire : stress, médicaments, restrictions de race',
         ],
@@ -506,7 +506,7 @@ const COPY = {
         step: '2. À la réservation',
         points: [
           'Ajoutez l\'animal dès la réservation (ou immédiatement après)',
-          'Ne comptez pas sur le fait d\'ajouter l\'animal à l\'aéroport — refus fréquent',
+          'Ne comptez pas sur le fait d\'ajouter l\'animal à l\'aéroport, refus fréquent',
           'Payez les frais animaux en ligne ou par téléphone',
           'Gardez la confirmation avec numéro de référence',
         ],
@@ -534,7 +534,7 @@ const COPY = {
     faqs: [
       {
         q: 'Mon chien peut-il voyager en cabine dans l\'avion ?',
-        a: 'Oui, si votre chien pèse moins de 8 kg avec sa caisse et que vous volez sur une compagnie qui accepte les animaux en cabine (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Les places sont limitées — réservez dès que possible.',
+        a: 'Oui, si votre chien pèse moins de 8 kg avec sa caisse et que vous volez sur une compagnie qui accepte les animaux en cabine (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Les places sont limitées, réservez dès que possible.',
       },
       {
         q: 'Ryanair accepte-t-il les animaux de compagnie ?',
@@ -554,7 +554,7 @@ const COPY = {
       },
       {
         q: 'Peut-on voyager en soute avec un grand chien ?',
-        a: 'Oui, la soute est la solution pour les chiens de plus de 8 kg (avec caisse). La caisse doit respecter les normes IATA (rigide, ventilée, avec système de collecte des urines). Vérifiez que la soute est bien pressurisée et climatisée — c\'est le cas sur les vols commerciaux modernes. Évitez ce mode pour les races brachycéphales.',
+        a: 'Oui, la soute est la solution pour les chiens de plus de 8 kg (avec caisse). La caisse doit respecter les normes IATA (rigide, ventilée, avec système de collecte des urines). Vérifiez que la soute est bien pressurisée et climatisée, c\'est le cas sur les vols commerciaux modernes. Évitez ce mode pour les races brachycéphales.',
       },
       {
         q: 'Combien coûte un billet d\'avion pour mon animal ?',
@@ -573,12 +573,12 @@ const COPY = {
     lastUpdate: 'Updated in',
     badge: 'Practical guide',
     sourcesTitle: 'Verified sources',
-    sourcesText: 'This guide is based on official policies published by each airline. Prices and conditions are subject to change — always verify directly with the airline before booking.',
+    sourcesText: 'This guide is based on official policies published by each airline. Prices and conditions are subject to change, always verify directly with the airline before booking.',
     quickDecision: 'Cabin or hold? Quick decision guide',
     quickDecisionItems: [
       { icon: '✅', title: 'Cabin travel is possible if…', points: ['Your pet weighs under 8 kg including carrier', 'The carrier fits within the permitted dimensions (approx. 46 × 28 × 24 cm)', 'Your airline accepts pets in cabin (Air France, Lufthansa, KLM, Iberia…)', 'Your breed is not restricted', 'You have reserved a spot in advance (limited per flight)'] },
       { icon: '📦', title: 'Hold travel is needed if…', points: ['Your pet weighs between 8 and 75 kg with carrier', 'Your airline does not allow cabin pets', 'Long-haul flights with certain airlines', 'Always confirm the hold is pressurised and temperature-controlled'] },
-      { icon: '🚫', title: 'No option available if…', points: ['You are flying Ryanair, easyJet or Wizz Air (zero pets accepted)', 'British Airways (pets refused as passenger baggage — freight only)', 'Your pet exceeds the airline\'s size or weight criteria'] },
+      { icon: '🚫', title: 'No option available if…', points: ['You are flying Ryanair, easyJet or Wizz Air (zero pets accepted)', 'British Airways (pets refused as passenger baggage, freight only)', 'Your pet exceeds the airline\'s size or weight criteria'] },
     ],
     tableTitle: 'Airline comparison',
     tableHeaders: {
@@ -598,8 +598,8 @@ const COPY = {
     lowCostText: 'Ryanair, easyJet and Wizz Air do not accept any pets in the cabin or hold, with the sole exception of certified assistance dogs. If you are flying low-cost, you will need to make alternative arrangements for your pet.',
     cabinVsHoldTitle: 'Cabin vs hold: what you need to know',
     cabinPoints: [
-      { title: 'Benefits of cabin travel', points: ['Your pet stays under your seat — you can see and hear them', 'Less stress for the animal (no separation)', 'No risk of lost baggage', 'Same temperature and pressure as the passenger cabin'] },
-      { title: 'Requirements', points: ['Max weight: 8 kg (pet + carrier)', 'Soft-sided carrier under the seat only', 'Pet must remain in the carrier throughout the flight', 'Generally 1 pet per passenger', 'Limited spots per flight — book early'] },
+      { title: 'Benefits of cabin travel', points: ['Your pet stays under your seat, you can see and hear them', 'Less stress for the animal (no separation)', 'No risk of lost baggage', 'Same temperature and pressure as the passenger cabin'] },
+      { title: 'Requirements', points: ['Max weight: 8 kg (pet + carrier)', 'Soft-sided carrier under the seat only', 'Pet must remain in the carrier throughout the flight', 'Generally 1 pet per passenger', 'Limited spots per flight, book early'] },
     ],
     holdPoints: [
       { title: 'Pressurised hold', points: ['Modern holds are pressurised and temperature-controlled (15–25°C)', 'Recommended for pets over 8 kg', 'Carrier must meet IATA standards (rigid, ventilated, secure)'] },
@@ -613,8 +613,8 @@ const COPY = {
         'Typical dimensions: 46 × 28 × 24 cm (verify with your airline)',
         'Material: mesh fabric or similar, waterproof base',
         'Pet must be able to turn around and sit up normally',
-        'Secure fastening (zip or buckle) — no simple velcro',
-        'No wheels — must slide under the seat',
+        'Secure fastening (zip or buckle), no simple velcro',
+        'No wheels, must slide under the seat',
       ],
     },
     carrierHold: {
@@ -640,7 +640,7 @@ const COPY = {
         step: '1. Before booking',
         points: [
           'Check the airline\'s pet policy (number of pets per flight is limited)',
-          'Weigh your pet with the carrier — the 8 kg limit is often reached with a larger crate',
+          'Weigh your pet with the carrier, the 8 kg limit is often reached with a larger crate',
           'Prepare the EU pet passport (ISO microchip + valid rabies vaccination)',
           'Consult your vet: stress, medication, breed restrictions',
         ],
@@ -649,7 +649,7 @@ const COPY = {
         step: '2. At booking',
         points: [
           'Add your pet as soon as you book (or immediately after)',
-          'Do not count on adding the pet at the airport — refusal is common',
+          'Do not count on adding the pet at the airport, refusal is common',
           'Pay the pet fee online or by phone',
           'Keep your confirmation with a reference number',
         ],
@@ -677,7 +677,7 @@ const COPY = {
     faqs: [
       {
         q: 'Can my dog travel in the aircraft cabin?',
-        a: 'Yes, if your dog weighs under 8 kg including the carrier and you are flying with an airline that accepts pets in cabin (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Spots are limited — book as early as possible.',
+        a: 'Yes, if your dog weighs under 8 kg including the carrier and you are flying with an airline that accepts pets in cabin (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Spots are limited, book as early as possible.',
       },
       {
         q: 'Does Ryanair accept pets?',
@@ -697,7 +697,7 @@ const COPY = {
       },
       {
         q: 'Can a large dog travel in the hold?',
-        a: 'Yes, the hold is the solution for dogs over 8 kg (with carrier). The crate must meet IATA standards (rigid, ventilated, with urine collection). Confirm the hold is pressurised and temperature-controlled — this is standard on modern commercial aircraft. Avoid this option for brachycephalic breeds.',
+        a: 'Yes, the hold is the solution for dogs over 8 kg (with carrier). The crate must meet IATA standards (rigid, ventilated, with urine collection). Confirm the hold is pressurised and temperature-controlled, this is standard on modern commercial aircraft. Avoid this option for brachycephalic breeds.',
       },
       {
         q: 'How much does it cost to fly with a pet?',
@@ -716,12 +716,12 @@ const COPY = {
     lastUpdate: 'Actualizado en',
     badge: 'Guía práctica',
     sourcesTitle: 'Fuentes verificadas',
-    sourcesText: 'Esta guía se basa en las políticas oficiales publicadas por cada aerolínea. Los precios y condiciones pueden cambiar — verifica siempre directamente con la aerolínea antes de reservar.',
+    sourcesText: 'Esta guía se basa en las políticas oficiales publicadas por cada aerolínea. Los precios y condiciones pueden cambiar, verifica siempre directamente con la aerolínea antes de reservar.',
     quickDecision: '¿Cabina o bodega? Guía rápida de decisión',
     quickDecisionItems: [
       { icon: '✅', title: 'Cabina es posible si…', points: ['Tu mascota pesa menos de 8 kg incluido el transportín', 'El transportín cumple las dimensiones permitidas (aprox. 46 × 28 × 24 cm)', 'Tu aerolínea acepta mascotas en cabina (Air France, Lufthansa, KLM, Iberia…)', 'Tu raza no está restringida', 'Has reservado plaza con antelación (plazas limitadas por vuelo)'] },
       { icon: '📦', title: 'Bodega es necesaria si…', points: ['Tu mascota pesa entre 8 y 75 kg con el transportín', 'Tu aerolínea no permite mascotas en cabina', 'Vuelos de largo radio con ciertas aerolíneas', 'Confirma siempre que la bodega es presurizada y climatizada'] },
-      { icon: '🚫', title: 'Sin opción disponible si…', points: ['Vuelas con Ryanair, easyJet o Wizz Air (cero mascotas aceptadas)', 'British Airways (mascotas rechazadas como equipaje — solo carga)', 'Tu mascota supera los criterios de tamaño o peso de la aerolínea'] },
+      { icon: '🚫', title: 'Sin opción disponible si…', points: ['Vuelas con Ryanair, easyJet o Wizz Air (cero mascotas aceptadas)', 'British Airways (mascotas rechazadas como equipaje, solo carga)', 'Tu mascota supera los criterios de tamaño o peso de la aerolínea'] },
     ],
     tableTitle: 'Comparativa de aerolíneas',
     tableHeaders: {
@@ -741,8 +741,8 @@ const COPY = {
     lowCostText: 'Ryanair, easyJet y Wizz Air no aceptan ninguna mascota en cabina ni en bodega, con la única excepción de los perros de asistencia certificados. Si vuelas con una aerolínea de bajo coste, deberás buscar una alternativa para tu mascota.',
     cabinVsHoldTitle: 'Cabina vs bodega: lo que debes saber',
     cabinPoints: [
-      { title: 'Ventajas de la cabina', points: ['Tu mascota permanece bajo tu asiento — puedes verla y escucharla', 'Menos estrés para el animal (sin separación)', 'Sin riesgo de pérdida de equipaje', 'Misma temperatura y presión que la cabina de pasajeros'] },
-      { title: 'Requisitos', points: ['Peso máx.: 8 kg (mascota + transportín)', 'Transportín blando bajo el asiento únicamente', 'La mascota debe permanecer en el transportín durante todo el vuelo', 'Generalmente 1 mascota por pasajero', 'Plazas limitadas por vuelo — reserva con antelación'] },
+      { title: 'Ventajas de la cabina', points: ['Tu mascota permanece bajo tu asiento, puedes verla y escucharla', 'Menos estrés para el animal (sin separación)', 'Sin riesgo de pérdida de equipaje', 'Misma temperatura y presión que la cabina de pasajeros'] },
+      { title: 'Requisitos', points: ['Peso máx.: 8 kg (mascota + transportín)', 'Transportín blando bajo el asiento únicamente', 'La mascota debe permanecer en el transportín durante todo el vuelo', 'Generalmente 1 mascota por pasajero', 'Plazas limitadas por vuelo, reserva con antelación'] },
     ],
     holdPoints: [
       { title: 'Bodega presurizada', points: ['Las bodegas modernas son presurizadas y climatizadas (15–25°C)', 'Recomendado para mascotas de más de 8 kg', 'El transportín debe cumplir las normas IATA (rígido, ventilado, seguro)'] },
@@ -756,8 +756,8 @@ const COPY = {
         'Dimensiones típicas: 46 × 28 × 24 cm (verifica con tu aerolínea)',
         'Material: tela de malla o similar, base impermeable',
         'La mascota debe poder darse la vuelta y sentarse normalmente',
-        'Cierre seguro (cremallera o hebilla) — no solo velcro',
-        'Sin ruedas — debe deslizarse bajo el asiento',
+        'Cierre seguro (cremallera o hebilla), no solo velcro',
+        'Sin ruedas, debe deslizarse bajo el asiento',
       ],
     },
     carrierHold: {
@@ -783,7 +783,7 @@ const COPY = {
         step: '1. Antes de reservar',
         points: [
           'Verifica la política de mascotas de la aerolínea (número de animales por vuelo limitado)',
-          'Pesa a tu mascota con el transportín — el límite de 8 kg se alcanza fácilmente con un transportín grande',
+          'Pesa a tu mascota con el transportín, el límite de 8 kg se alcanza fácilmente con un transportín grande',
           'Prepara el pasaporte europeo para mascotas (microchip ISO + vacuna antirrábica válida)',
           'Consulta a tu veterinario: estrés, medicación, restricciones de raza',
         ],
@@ -792,7 +792,7 @@ const COPY = {
         step: '2. Al reservar',
         points: [
           'Añade la mascota en cuanto reserves (o inmediatamente después)',
-          'No cuentes con añadir la mascota en el aeropuerto — el rechazo es frecuente',
+          'No cuentes con añadir la mascota en el aeropuerto, el rechazo es frecuente',
           'Paga la tarifa de mascota online o por teléfono',
           'Guarda la confirmación con número de referencia',
         ],
@@ -820,7 +820,7 @@ const COPY = {
     faqs: [
       {
         q: '¿Puede mi perro viajar en la cabina del avión?',
-        a: 'Sí, si tu perro pesa menos de 8 kg incluido el transportín y vuelas con una aerolínea que acepta mascotas en cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Las plazas son limitadas — reserva lo antes posible.',
+        a: 'Sí, si tu perro pesa menos de 8 kg incluido el transportín y vuelas con una aerolínea que acepta mascotas en cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). Las plazas son limitadas, reserva lo antes posible.',
       },
       {
         q: '¿Acepta Ryanair mascotas?',
@@ -840,7 +840,7 @@ const COPY = {
       },
       {
         q: '¿Puede un perro grande viajar en bodega?',
-        a: 'Sí, la bodega es la solución para perros de más de 8 kg (con transportín). El transportín debe cumplir las normas IATA (rígido, ventilado, con bandeja colectora). Confirma que la bodega es presurizada y climatizada — es estándar en los aviones comerciales modernos. Evita esta opción para razas braquicéfalas.',
+        a: 'Sí, la bodega es la solución para perros de más de 8 kg (con transportín). El transportín debe cumplir las normas IATA (rígido, ventilado, con bandeja colectora). Confirma que la bodega es presurizada y climatizada, es estándar en los aviones comerciales modernos. Evita esta opción para razas braquicéfalas.',
       },
       {
         q: '¿Cuánto cuesta volar con una mascota?',
@@ -859,12 +859,12 @@ const COPY = {
     lastUpdate: 'Atualizado en',
     badge: 'Guía práctica',
     sourcesTitle: 'Fuentes verificadas',
-    sourcesText: 'Esta guía se basa nas políticas oficiais publicadas por cada companhia aérea. Os preços e condições podem cambiar — verifica sempre directamente com a companhia aérea antes de reservar.',
+    sourcesText: 'Esta guía se basa nas políticas oficiais publicadas por cada companhia aérea. Os preços e condições podem cambiar, verifica sempre directamente com a companhia aérea antes de reservar.',
     quickDecision: 'Cabina o bodega? Guía rápida de decisión',
     quickDecisionItems: [
       { icon: '✅', title: 'Cabina é posible si…', points: ['O teu animal pesa menos de 8 kg incluido o transportadora', 'O transportadora cumple as dimensiones permitidas (aprox. 46 × 28 × 24 cm)', 'Tu companhia aérea aceita animais em cabina (Air France, Lufthansa, KLM, Iberia…)', 'Tu raza no está restringida', 'Has reservado praça com antelación (praças limitadas por voo)'] },
       { icon: '📦', title: 'Bodega é necesaria si…', points: ['O teu animal pesa entre 8 e 75 kg com o transportadora', 'Tu companhia aérea no permite animais em cabina', 'Voos de longo radio com ciertas aerolíneas', 'Confirma sempre que a bodega é presurizada e climatizada'] },
-      { icon: '🚫', title: 'Sem opção disponible si…', points: ['Vuelas com Ryanair, easyJet o Wizz Air (cero animais aceptadas)', 'British Airways (animais rechazadas como equipaje — só carga)', 'O teu animal supera os critérios de tamanho o peso da companhia aérea'] },
+      { icon: '🚫', title: 'Sem opção disponible si…', points: ['Vuelas com Ryanair, easyJet o Wizz Air (cero animais aceptadas)', 'British Airways (animais rechazadas como equipaje, só carga)', 'O teu animal supera os critérios de tamanho o peso da companhia aérea'] },
     ],
     tableTitle: 'Comparativa de aerolíneas',
     tableHeaders: {
@@ -884,8 +884,8 @@ const COPY = {
     lowCostText: 'Ryanair, easyJet e Wizz Air no aceitam ninguna animal em cabina ni em bodega, com a única excepción dois cães de asistencia certificados. Si vuelas com uma companhia aérea de sob coste, deberás buscar uma alternativa para o teu animal.',
     cabinVsHoldTitle: 'Cabina vs bodega: lo que debes saber',
     cabinPoints: [
-      { title: 'Ventajas da cabina', points: ['O teu animal permanece sob tu asiento — puedes verla e escucharla', 'Menos estrés para o animal (sem separación)', 'Sem riesgo de pérdida de equipaje', 'Misma temperatura e presión que a cabina de pasajeros'] },
-      { title: 'Requisitos', points: ['Peso máx.: 8 kg (animal + transportadora)', 'Transportadora blando sob o asiento únicamente', 'A animal debe permanecer no transportadora durante todo o voo', 'Generalmente 1 animal por pasajero', 'Praças limitadas por voo — reserva com antelación'] },
+      { title: 'Ventajas da cabina', points: ['O teu animal permanece sob tu asiento, puedes verla e escucharla', 'Menos estrés para o animal (sem separación)', 'Sem riesgo de pérdida de equipaje', 'Misma temperatura e presión que a cabina de pasajeros'] },
+      { title: 'Requisitos', points: ['Peso máx.: 8 kg (animal + transportadora)', 'Transportadora blando sob o asiento únicamente', 'A animal debe permanecer no transportadora durante todo o voo', 'Generalmente 1 animal por pasajero', 'Praças limitadas por voo, reserva com antelación'] },
     ],
     holdPoints: [
       { title: 'Bodega presurizada', points: ['As bodegas modernas são presurizadas e climatizadas (15–25°C)', 'Recomendado para animais de mais de 8 kg', 'O transportadora debe cumplir as normas IATA (rígido, ventilado, seguro)'] },
@@ -899,8 +899,8 @@ const COPY = {
         'Dimensiones típicas: 46 × 28 × 24 cm (verifica com tu companhia aérea)',
         'Material: tela de malla o similar, base impermeable',
         'A animal debe poder darse a vuelta e sentarse normalmente',
-        'Cierre seguro (cremallera o hebilla) — no só velcro',
-        'Sem ruedas — debe deslizarse sob o asiento',
+        'Cierre seguro (cremallera o hebilla), no só velcro',
+        'Sem ruedas, debe deslizarse sob o asiento',
       ],
     },
     carrierHold: {
@@ -926,7 +926,7 @@ const COPY = {
         step: '1. Antes de reservar',
         points: [
           'Verifica a política de animais da companhia aérea (número de animales por voo limitado)',
-          'Pesa ao teu animal com o transportadora — o limite de 8 kg se alcanza fácilmente com um transportadora GRANDE',
+          'Pesa ao teu animal com o transportadora, o limite de 8 kg se alcanza fácilmente com um transportadora GRANDE',
           'Prepara o passaporte europeu para animais (microchip ISO + vacuna antirrábica válida)',
           'Consulta a tu veterinário: estrés, medicación, restricciones de raza',
         ],
@@ -935,7 +935,7 @@ const COPY = {
         step: '2. Al reservar',
         points: [
           'Anhade a animal em cuanto reserves (o inmediatamente depois)',
-          'No cuentes com anhadir a animal no aeroporto — o rechazo é frecuente',
+          'No cuentes com anhadir a animal no aeroporto, o rechazo é frecuente',
           'Paga a tarifa de animal online o por teléfono',
           'Guarda a confirmación com número de referencia',
         ],
@@ -963,7 +963,7 @@ const COPY = {
     faqs: [
       {
         q: 'Pode mi cão viajar na cabina do avión?',
-        a: 'Sí, si o teu cão pesa menos de 8 kg incluido o transportadora e vuelas com uma companhia aérea que aceita animais em cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). As praças são limitadas — reserva lo antes posible.',
+        a: 'Sí, si o teu cão pesa menos de 8 kg incluido o transportadora e vuelas com uma companhia aérea que aceita animais em cabina (Air France, Lufthansa, KLM, Iberia, Vueling, Swiss, Austrian, TAP, Transavia). As praças são limitadas, reserva lo antes posible.',
       },
       {
         q: 'Aceita Ryanair animais?',
@@ -983,7 +983,7 @@ const COPY = {
       },
       {
         q: 'Pode um cão GRANDE viajar em bodega?',
-        a: 'Sí, a bodega é a solución para cães de mais de 8 kg (com transportadora). O transportadora debe cumplir as normas IATA (rígido, ventilado, com bandeja colectora). Confirma que a bodega é presurizada e climatizada — é estándar nos aviones comerciales modernos. Evita esta opção para razas braquicéfalas.',
+        a: 'Sí, a bodega é a solución para cães de mais de 8 kg (com transportadora). O transportadora debe cumplir as normas IATA (rígido, ventilado, com bandeja colectora). Confirma que a bodega é presurizada e climatizada, é estándar nos aviones comerciales modernos. Evita esta opção para razas braquicéfalas.',
       },
       {
         q: 'Cuánto custa volar com uma animal?',

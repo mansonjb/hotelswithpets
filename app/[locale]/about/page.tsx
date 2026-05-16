@@ -127,7 +127,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
 
   // E-E-A-T signals: structured Organization + AboutPage schema for Google.
   // Helps the Search Console understand who runs the site and where the
-  // editorial decisions come from — important for a young domain.
+  // editorial decisions come from, important for a young domain.
   const aboutPageSchema = {
     '@context': 'https://schema.org',
     '@type': 'AboutPage',

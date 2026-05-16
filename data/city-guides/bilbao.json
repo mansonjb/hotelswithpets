@@ -9,8 +9,8 @@
       "titleEn": "Dog-Friendly Restaurants in Bilbao",
       "titleFr": "Restaurants acceptant les chiens à Bilbao",
       "titleEs": "Restaurantes dog-friendly en Bilbao",
-      "introEn": "Bilbao's pintxos bar culture is exceptionally dog-welcoming — the Basque Country Tourism board officially lists over a dozen Bilbao venues that accept dogs of all sizes indoors. The areas around Abando and the Nervión riverside have the highest concentration of genuinely pet-friendly spots, where a well-behaved dog is as natural a companion as the evening txakoli.",
-      "introFr": "La culture des bars à pintxos de Bilbao est remarquablement ouverte aux chiens — le site officiel de tourisme du Pays Basque référence plus d'une douzaine d'adresses à Bilbao qui acceptent les chiens de toutes tailles en intérieur. Le quartier Abando et les berges du Nervión concentrent les endroits les plus sincèrement pet-friendly, où un chien bien tenu est aussi naturel qu'un verre de txakoli en fin de journée.",
+      "introEn": "Bilbao's pintxos bar culture is exceptionally dog-welcoming, the Basque Country Tourism board officially lists over a dozen Bilbao venues that accept dogs of all sizes indoors. The areas around Abando and the Nervión riverside have the highest concentration of genuinely pet-friendly spots, where a well-behaved dog is as natural a companion as the evening txakoli.",
+      "introFr": "La culture des bars à pintxos de Bilbao est remarquablement ouverte aux chiens, le site officiel de tourisme du Pays Basque référence plus d'une douzaine d'adresses à Bilbao qui acceptent les chiens de toutes tailles en intérieur. Le quartier Abando et les berges du Nervión concentrent les endroits les plus sincèrement pet-friendly, où un chien bien tenu est aussi naturel qu'un verre de txakoli en fin de journée.",
       "introEs": "La cultura de los bares de pintxos de Bilbao es excepcionalmente acogedora para los perros: la oficina de turismo del País Vasco lista oficialmente más de una docena de locales bilbaínos que admiten perros de todos los tamaños en interior. Los alrededores de Abando y las orillas del Nervión concentran los lugares más genuinamente pet-friendly, donde un perro bien portado es tan natural como un txakoli al atardecer.",
       "places": [
         {
@@ -30,14 +30,14 @@
           "mustTryFr": "Tortilla de patata (primée), vin txakoli",
           "mustTryEs": "Tortilla de patata (premiada), vino txakoli",
           "openingHours": "Tue–Sun 12:00–16:00 & 19:00–23:00",
-          "tip": "Staff routinely bring water bowls — ask for 'agua para el perro' if not offered within the first five minutes.",
-          "tipFr": "Le personnel apporte volontiers une gamelle d'eau — demandez 'agua para el perro' si on ne vous la propose pas dans les cinq premières minutes.",
-          "tipEs": "El personal suele traer cuencos de agua — pide 'agua para el perro' si no te la ofrecen en los primeros cinco minutos.",
+          "tip": "Staff routinely bring water bowls, ask for 'agua para el perro' if not offered within the first five minutes.",
+          "tipFr": "Le personnel apporte volontiers une gamelle d'eau, demandez 'agua para el perro' si on ne vous la propose pas dans les cinq premières minutes.",
+          "tipEs": "El personal suele traer cuencos de agua, pide 'agua para el perro' si no te la ofrecen en los primeros cinco minutos.",
           "googleMapsUrl": "https://maps.google.com/?q=Mr+Marvelous+Bilbao+Heros+18",
           "descriptionPt": "Uno dois bares de pintxos mais celebrados de Bilbao, Mr. Marvelous está oficialmente registrado por Turismo do País Vasco como establecimiento que admite cães de todos os tamanhos em interior. O bar é famoso por o seu tortilla de patata gourmet e os seus pintxos creativos, servidos num animado espacio moderno industrial que se cheia de locales casi todas as noites.",
           "petPolicyPt": "Cães de todos os tamanhos admitidos em interior",
           "mustTryPt": "Tortilla de patata (premiada), vinho txakoli",
-          "tipPt": "O pessoal costuma trazer tigelas de água — pide 'água para o cão' se não te a ofrecen nos primeros cinco minutos."
+          "tipPt": "O pessoal costuma trazer tigelas de água, pide 'água para o cão' se não te a ofrecen nos primeros cinco minutos."
         },
         {
           "name": "Happy River Bilbao",
@@ -45,8 +45,8 @@
           "neighborhood": "Casco Viejo / Riverfront",
           "photo": "/images/city-places/bilbao-restaurants-happy-river-bilbao.jpg",
           "website": "https://turismo.euskadi.eus/contenidos/informacion/euskadi_con_perros/en_def/dog-friendly-restaurants.html",
-          "description": "A riverside restaurant on Muelle de la Merced with both indoor seating and a covered outdoor terrace directly on the Nervión — all dog-friendly according to Basque Country Tourism. The waterfront setting makes it ideal for a long pintxos lunch while your dog watches the river traffic go by.",
-          "descriptionFr": "Un restaurant en bord de rivière sur le Muelle de la Merced avec salle intérieure et terrasse couverte donnant directement sur le Nervión — le tout dog-friendly selon l'office du tourisme du Pays Basque. Le cadre au bord de l'eau en fait l'endroit idéal pour un long déjeuner pintxos pendant que votre chien observe le trafic fluvial.",
+          "description": "A riverside restaurant on Muelle de la Merced with both indoor seating and a covered outdoor terrace directly on the Nervión, all dog-friendly according to Basque Country Tourism. The waterfront setting makes it ideal for a long pintxos lunch while your dog watches the river traffic go by.",
+          "descriptionFr": "Un restaurant en bord de rivière sur le Muelle de la Merced avec salle intérieure et terrasse couverte donnant directement sur le Nervión, le tout dog-friendly selon l'office du tourisme du Pays Basque. Le cadre au bord de l'eau en fait l'endroit idéal pour un long déjeuner pintxos pendant que votre chien observe le trafic fluvial.",
           "descriptionEs": "Un restaurante a orillas del río en el Muelle de la Merced con sala interior y terraza cubierta directamente sobre el Nervión, todo ello dog-friendly según Turismo del País Vasco. El entorno junto al río lo convierte en el lugar ideal para un largo almuerzo de pintxos mientras tu perro observa el paso del tráfico fluvial.",
           "petPolicy": "All dog sizes welcome inside and on covered terrace",
           "petPolicyFr": "Chiens de toutes tailles acceptés en salle et en terrasse couverte",
@@ -56,8 +56,8 @@
           "mustTryFr": "Poisson du jour grillé, sidra local (cidre)",
           "mustTryEs": "Pescado del día a la plancha, sidra local",
           "openingHours": "Mon–Sun 12:00–23:00",
-          "tip": "The covered terrace is heated in cooler months — arrive before 13:30 on weekdays to get a riverside table before the lunch rush.",
-          "tipFr": "La terrasse couverte est chauffée par temps frais — arrivez avant 13h30 en semaine pour avoir une table côté rivière avant la ruée du déjeuner.",
+          "tip": "The covered terrace is heated in cooler months, arrive before 13:30 on weekdays to get a riverside table before the lunch rush.",
+          "tipFr": "La terrasse couverte est chauffée par temps frais, arrivez avant 13h30 en semaine pour avoir une table côté rivière avant la ruée du déjeuner.",
           "tipEs": "La terraza cubierta está calefactada en los meses frescos: llega antes de las 13:30 entre semana para conseguir una mesa junto al río antes del aluvión del almuerzo.",
           "googleMapsUrl": "https://maps.google.com/?q=Muelle+de+la+Merced+4+Bilbao",
           "descriptionPt": "Um restaurante a margens do rio não Muelle da Merced com sala interior e esplanada cubierta directamente sobre o Nervión, todo ello pet-friendly segundo Turismo do País Vasco. O entorno junto ao rio lo torna não lugar ideal para um longo almoço de pintxos mientras o teu cão observa o paso do tráfico fluvial.",
@@ -71,8 +71,8 @@
           "neighborhood": "Abandoibarra / Museum Quarter",
           "photo": "/images/city-places/bilbao-restaurants-copper-deli-museo.jpg",
           "website": "https://turismo.euskadi.eus/contenidos/informacion/euskadi_con_perros/en_def/dog-friendly-restaurants.html",
-          "description": "Strategically placed on Plaza del Museo, steps from the Guggenheim and Bellas Artes, Copper Deli is the natural post-Puppy-selfie stop — all dog sizes officially welcomed inside and on the heated outdoor terrace. Excellent coffee, weekend brunch, and a menu that covers everything from avocado toast to Basque cheese boards.",
-          "descriptionFr": "Idéalement situé Plaza del Museo, à deux pas du Guggenheim et des Beaux-Arts, le Copper Deli est l'arrêt naturel après le selfie avec Puppy — chiens de toutes tailles officiellement bienvenus en salle et en terrasse chauffée. Excellent café, brunch le week-end et une carte qui va du toast à l'avocat au plateau de fromages basques.",
+          "description": "Strategically placed on Plaza del Museo, steps from the Guggenheim and Bellas Artes, Copper Deli is the natural post-Puppy-selfie stop, all dog sizes officially welcomed inside and on the heated outdoor terrace. Excellent coffee, weekend brunch, and a menu that covers everything from avocado toast to Basque cheese boards.",
+          "descriptionFr": "Idéalement situé Plaza del Museo, à deux pas du Guggenheim et des Beaux-Arts, le Copper Deli est l'arrêt naturel après le selfie avec Puppy, chiens de toutes tailles officiellement bienvenus en salle et en terrasse chauffée. Excellent café, brunch le week-end et une carte qui va du toast à l'avocat au plateau de fromages basques.",
           "descriptionEs": "Estratégicamente situado en la Plaza del Museo, a pocos pasos del Guggenheim y de Bellas Artes, Copper Deli es la parada natural tras el selfie con Puppy: perros de todos los tamaños oficialmente bienvenidos en interior y en terraza calefactada. Excelente café, brunch de fin de semana y una carta que va desde el toast de aguacate hasta la tabla de quesos vascos.",
           "petPolicy": "All dog sizes welcome inside and on heated terrace",
           "petPolicyFr": "Chiens de toutes tailles acceptés en salle et en terrasse chauffée",
@@ -82,8 +82,8 @@
           "mustTryFr": "Plateau de fromages basques, café cortado",
           "mustTryEs": "Tabla de quesos vascos, café cortado",
           "openingHours": "Mon–Fri 08:00–20:00, Sat–Sun 09:00–21:00",
-          "tip": "Come here directly after visiting the Guggenheim exterior — the plaza is usually quiet before 11:00 and your dog will appreciate the space.",
-          "tipFr": "Venez ici directement après avoir visité l'extérieur du Guggenheim — la plaza est généralement calme avant 11h et votre chien appréciera l'espace.",
+          "tip": "Come here directly after visiting the Guggenheim exterior, the plaza is usually quiet before 11:00 and your dog will appreciate the space.",
+          "tipFr": "Venez ici directement après avoir visité l'extérieur du Guggenheim, la plaza est généralement calme avant 11h et votre chien appréciera l'espace.",
           "tipEs": "Ven aquí directamente después de visitar el exterior del Guggenheim: la plaza suele estar tranquila antes de las 11:00 y tu perro agradecerá el espacio.",
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+del+Museo+3+Bilbao",
           "descriptionPt": "Estratégicamente situado na Praça do Museu, a poucos pasos do Guggenheim e de Bellas Artes, Copper Deli é a paragem natural tras o selfie com Puppy: cães de todos os tamanhos oficialmente bem-vindos em interior e em esplanada calefactada. Excelente café, brunch de fin de semana e uma carta que va a partir do toast de aguacate até a tabla de quesos vascos.",
@@ -93,14 +93,14 @@
         }
       ],
       "tipsEn": [
-        "The official Basque Country Tourism dog-friendly guide lists 13+ Bilbao restaurants that accept all dog sizes indoors — it's the most reliable list to check before your trip.",
-        "Heros Kalea in the Abando district is Bilbao's most dog-friendly street — Mr Marvelous, Morrocotuda, and several other bars all accept dogs indoors within a 100-metre stretch.",
-        "In pintxos culture, ordering at the bar is normal — dogs on a short leash cause no issue at the counter, and locals generally find it charming."
+        "The official Basque Country Tourism dog-friendly guide lists 13+ Bilbao restaurants that accept all dog sizes indoors, it's the most reliable list to check before your trip.",
+        "Heros Kalea in the Abando district is Bilbao's most dog-friendly street, Mr Marvelous, Morrocotuda, and several other bars all accept dogs indoors within a 100-metre stretch.",
+        "In pintxos culture, ordering at the bar is normal, dogs on a short leash cause no issue at the counter, and locals generally find it charming."
       ],
       "tipsFr": [
-        "Le guide officiel dog-friendly du Pays Basque liste 13+ restaurants bilbaïns qui acceptent les chiens de toutes tailles en intérieur — c'est la liste la plus fiable à consulter avant votre voyage.",
-        "Heros Kalea, dans le quartier Abando, est la rue la plus dog-friendly de Bilbao — Mr Marvelous, Morrocotuda et plusieurs autres bars acceptent les chiens en intérieur sur 100 mètres.",
-        "Dans la culture des pintxos, commander au comptoir est la norme — un chien en laisse courte ne pose aucun problème, et les locaux trouvent ça charmant."
+        "Le guide officiel dog-friendly du Pays Basque liste 13+ restaurants bilbaïns qui acceptent les chiens de toutes tailles en intérieur, c'est la liste la plus fiable à consulter avant votre voyage.",
+        "Heros Kalea, dans le quartier Abando, est la rue la plus dog-friendly de Bilbao, Mr Marvelous, Morrocotuda et plusieurs autres bars acceptent les chiens en intérieur sur 100 mètres.",
+        "Dans la culture des pintxos, commander au comptoir est la norme, un chien en laisse courte ne pose aucun problème, et les locaux trouvent ça charmant."
       ],
       "tipsEs": [
         "La guía dog-friendly oficial del País Vasco lista más de 13 restaurantes en Bilbao que admiten perros de todos los tamaños en interior: es la lista más fiable antes de tu viaje.",
@@ -110,7 +110,7 @@
       "faqsEn": [
         {
           "q": "Are dogs allowed inside restaurants and pintxos bars in Bilbao?",
-          "a": "Yes — many are. Basque Country Tourism officially lists 13+ Bilbao venues that welcome all dog sizes indoors. Look for the dog-friendly certification sticker on the door, or check the official Basque tourism dog guide before visiting."
+          "a": "Yes, many are. Basque Country Tourism officially lists 13+ Bilbao venues that welcome all dog sizes indoors. Look for the dog-friendly certification sticker on the door, or check the official Basque tourism dog guide before visiting."
         },
         {
           "q": "Which area of Bilbao has the most dog-friendly restaurants?",
@@ -124,7 +124,7 @@
       "faqsFr": [
         {
           "q": "Les chiens sont-ils admis dans les restaurants et bars à pintxos de Bilbao ?",
-          "a": "Oui — beaucoup l'acceptent. L'office du tourisme du Pays Basque liste officiellement 13+ établissements à Bilbao qui accueillent les chiens de toutes tailles en intérieur. Cherchez l'autocollant dog-friendly sur la porte ou consultez le guide canin officiel avant de partir."
+          "a": "Oui, beaucoup l'acceptent. L'office du tourisme du Pays Basque liste officiellement 13+ établissements à Bilbao qui accueillent les chiens de toutes tailles en intérieur. Cherchez l'autocollant dog-friendly sur la porte ou consultez le guide canin officiel avant de partir."
         },
         {
           "q": "Quel quartier de Bilbao a le plus de restaurants dog-friendly ?",
@@ -188,15 +188,15 @@
           "descriptionFr": "Le parc central le plus apprécié de Bilbao, au cœur du quartier des musées, avec une zone de liberté dédiée dans le coin nord-ouest près de l'hôtel Meliá. Les larges allées bordées d'arbres, le bassin ornemental et la terrasse du café en font la promenade matinale incontournable des locaux avec leurs chiens.",
           "descriptionEs": "El parque central más querido de Bilbao, en el corazón del barrio de los museos, con zona de esparcimiento dedicada en la esquina noroeste junto al hotel Meliá. Sus amplios paseos arbolados, estanque ornamental y terraza de café lo convierten en el paseo matutino por antonomasia para los bilbaínos con perros.",
           "offLeash": true,
-          "offLeashArea": "North-western corner near the Meliá hotel — signed and fenced",
-          "offLeashAreaFr": "Angle nord-ouest près de l'hôtel Meliá — balisé et clôturé",
-          "offLeashAreaEs": "Esquina noroeste junto al hotel Meliá — señalizada y vallada",
-          "tip": "The tram stop Indautxu is 200 m from the park entrance — great for getting here with a large dog who can't use the metro.",
-          "tipFr": "L'arrêt de tram Indautxu est à 200 m de l'entrée du parc — idéal pour y venir avec un grand chien qui ne peut pas prendre le métro.",
+          "offLeashArea": "North-western corner near the Meliá hotel, signed and fenced",
+          "offLeashAreaFr": "Angle nord-ouest près de l'hôtel Meliá, balisé et clôturé",
+          "offLeashAreaEs": "Esquina noroeste junto al hotel Meliá, señalizada y vallada",
+          "tip": "The tram stop Indautxu is 200 m from the park entrance, great for getting here with a large dog who can't use the metro.",
+          "tipFr": "L'arrêt de tram Indautxu est à 200 m de l'entrée du parc, idéal pour y venir avec un grand chien qui ne peut pas prendre le métro.",
           "tipEs": "La parada de tranvía Indautxu está a 200 m de la entrada del parque: ideal para llegar con un perro grande que no puede usar el metro.",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Dona+Casilda+Bilbao",
           "descriptionPt": "O parque central mais querido de Bilbao, não corazón do bairro dois museus, com zona de esparcimiento dedicada na esquina noroeste junto ao hotel Meliá. Os seus amplios passeios arbolados, estanque ornamental e esplanada de café lo tornam não passeio matutino por antonomasia para os bilbaínos com cães.",
-          "offLeashAreaPt": "Esquina noroeste junto ao hotel Meliá — senhalizada e vallada",
+          "offLeashAreaPt": "Esquina noroeste junto ao hotel Meliá, senhalizada e vallada",
           "tipPt": "A paragem de elétrico Indautxu está a 200 m da entrada do parque: ideal para chegar com um cão grande que não pode usar o metro."
         },
         {
@@ -204,15 +204,15 @@
           "type": "Urban hillside park with off-leash zone",
           "photo": "/images/city-places/bilbao-parks-parque-etxebarria.jpg",
           "website": "https://authenticbasquecountry.com/l/top-5-off-leash-dog-parks-bilbao/",
-          "description": "One of Bilbao's most distinctive parks, set on a hillside above the Casco Viejo and dominated by a monumental industrial chimney at its centre. The off-leash area is positioned near the skate park on the lower section, while the upper terraces offer sweeping views across the city — a firm favourite with local dog owners for evening walks.",
-          "descriptionFr": "L'un des parcs les plus singuliers de Bilbao, perché sur une colline au-dessus du Casco Viejo et dominé par une impressionnante cheminée industrielle en son centre. La zone de liberté est située près du skatepark dans la partie basse, tandis que les terrasses supérieures offrent des vues panoramiques sur la ville — un incontournable pour les promenades du soir avec son chien.",
+          "description": "One of Bilbao's most distinctive parks, set on a hillside above the Casco Viejo and dominated by a monumental industrial chimney at its centre. The off-leash area is positioned near the skate park on the lower section, while the upper terraces offer sweeping views across the city, a firm favourite with local dog owners for evening walks.",
+          "descriptionFr": "L'un des parcs les plus singuliers de Bilbao, perché sur une colline au-dessus du Casco Viejo et dominé par une impressionnante cheminée industrielle en son centre. La zone de liberté est située près du skatepark dans la partie basse, tandis que les terrasses supérieures offrent des vues panoramiques sur la ville, un incontournable pour les promenades du soir avec son chien.",
           "descriptionEs": "Uno de los parques más singulares de Bilbao, en una ladera sobre el Casco Viejo y dominado por una monumental chimenea industrial en su centro. La zona de esparcimiento está junto al skatepark en la parte baja, mientras que las terrazas superiores ofrecen vistas panorámicas de la ciudad: un favorito entre los dueños de perros bilbaínos para los paseos vespertinos.",
           "offLeash": true,
           "offLeashArea": "Near the skate park on the lower section of the park",
           "offLeashAreaFr": "Près du skatepark dans la partie basse du parc",
           "offLeashAreaEs": "Junto al skatepark en la parte baja del parque",
-          "tip": "Access the upper terraces via the stairway from Calle Bailén — the views from the top towards the Guggenheim are worth the climb.",
-          "tipFr": "Accédez aux terrasses supérieures par l'escalier depuis la Calle Bailén — la vue depuis le sommet vers le Guggenheim vaut l'effort.",
+          "tip": "Access the upper terraces via the stairway from Calle Bailén, the views from the top towards the Guggenheim are worth the climb.",
+          "tipFr": "Accédez aux terrasses supérieures par l'escalier depuis la Calle Bailén, la vue depuis le sommet vers le Guggenheim vaut l'effort.",
           "tipEs": "Accede a las terrazas superiores por la escalinata desde la Calle Bailén: las vistas desde arriba hacia el Guggenheim merecen el esfuerzo.",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Etxebarria+Bilbao",
           "descriptionPt": "Uno dois parques mais singulares de Bilbao, numa ladera sobre o Casco Viejo e dominado por uma monumental chimenea industrial no seu centro. A zona de esparcimiento está junto ao skatepark na parte baja, mientras que as esplanadas superiores ofrecen vistas panorámicas da cidade: um favorito entre os donos de cães bilbaínos para os passeios vespertinos.",
@@ -224,15 +224,15 @@
           "type": "Riverside park with off-leash zone",
           "photo": "/images/city-places/bilbao-parks-parque-ibaieder-riverside-off-leash.jpg",
           "website": "https://authenticbasquecountry.com/l/top-5-off-leash-dog-parks-bilbao/",
-          "description": "Located in the La Peña neighbourhood beside the Bilbao estuary, Parque Ibaieder is a popular medium-sized riverside park with a dedicated off-leash section — roughly ten minutes' walk from the Casco Viejo. The estuary setting and grassy banks make it especially good for water-loving dogs in the cooler months.",
-          "descriptionFr": "Situé dans le quartier de La Peña, en bordure de l'estuaire du Nervión, le Parque Ibaieder est un parc riverain de taille moyenne avec une section hors laisse dédiée — à environ dix minutes à pied du Casco Viejo. Le cadre de l'estuaire et les berges herbeuses en font un endroit particulièrement apprécié des chiens qui aiment l'eau, surtout les mois plus frais.",
+          "description": "Located in the La Peña neighbourhood beside the Bilbao estuary, Parque Ibaieder is a popular medium-sized riverside park with a dedicated off-leash section, roughly ten minutes' walk from the Casco Viejo. The estuary setting and grassy banks make it especially good for water-loving dogs in the cooler months.",
+          "descriptionFr": "Situé dans le quartier de La Peña, en bordure de l'estuaire du Nervión, le Parque Ibaieder est un parc riverain de taille moyenne avec une section hors laisse dédiée, à environ dix minutes à pied du Casco Viejo. Le cadre de l'estuaire et les berges herbeuses en font un endroit particulièrement apprécié des chiens qui aiment l'eau, surtout les mois plus frais.",
           "descriptionEs": "Situado en el barrio de La Peña junto a la ría de Bilbao, el Parque Ibaieder es un parque fluvial de tamaño medio con zona de esparcimiento propia: a unos diez minutos a pie del Casco Viejo. El entorno de la ría y las orillas de hierba lo hacen especialmente bueno para los perros a los que les gusta el agua durante los meses más frescos.",
           "offLeash": true,
           "offLeashArea": "Dedicated off-leash section within the park, clearly signed",
           "offLeashAreaFr": "Zone hors laisse dédiée dans le parc, clairement indiquée",
           "offLeashAreaEs": "Zona de esparcimiento propia dentro del parque, bien señalizada",
-          "tip": "Combine with the Nervión riverside path for a 4-km loop from the Casco Viejo to the Guggenheim — fully walkable and almost entirely dog-friendly.",
-          "tipFr": "Combinez avec le sentier en bord de Nervión pour une boucle de 4 km du Casco Viejo au Guggenheim — entièrement praticable à pied et presque totalement dog-friendly.",
+          "tip": "Combine with the Nervión riverside path for a 4-km loop from the Casco Viejo to the Guggenheim, fully walkable and almost entirely dog-friendly.",
+          "tipFr": "Combinez avec le sentier en bord de Nervión pour une boucle de 4 km du Casco Viejo au Guggenheim, entièrement praticable à pied et presque totalement dog-friendly.",
           "tipEs": "Combina con el paseo fluvial del Nervión para una ruta circular de 4 km del Casco Viejo al Guggenheim: completamente practicable a pie y casi totalmente dog-friendly.",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Ibaieder+Bilbao",
           "descriptionPt": "Situado não bairro da Penha junto a ría de Bilbao, o Parque Ibaieder é um parque fluvial de tamanho medio com zona de esparcimiento propia: a uns diez minutos a pé do Casco Viejo. O entorno da ría e as margens de hierba lo hacen especialmente bueno para os cães aos que les gusta o água durante os meses mais frescos.",
@@ -242,13 +242,13 @@
       ],
       "tipsEn": [
         "The municipality of Bilbao designates off-leash hours in its parks: dogs can be off-leash from 19:00 to 11:00 daily in the zonas de esparcimiento. Check bilbao.eus for seasonal updates.",
-        "Mount Artxanda (reachable by the dog-friendly funicular from Calle Múgica y Butrón) offers a full off-leash walk on the summit with panoramic views — plan 2–3 hours.",
-        "The Nervión riverside path runs 4+ km from the Casco Viejo to the Guggenheim and beyond — flat, paved, and dog-friendly the entire way."
+        "Mount Artxanda (reachable by the dog-friendly funicular from Calle Múgica y Butrón) offers a full off-leash walk on the summit with panoramic views, plan 2–3 hours.",
+        "The Nervión riverside path runs 4+ km from the Casco Viejo to the Guggenheim and beyond, flat, paved, and dog-friendly the entire way."
       ],
       "tipsFr": [
         "La municipalité de Bilbao désigne des horaires hors laisse dans ses parcs : les chiens peuvent être libres de 19h à 11h dans les zonas de esparcimiento. Vérifiez bilbao.eus pour les mises à jour saisonnières.",
-        "Le mont Artxanda (accessible par le funiculaire dog-friendly depuis la Calle Múgica y Butrón) offre une balade hors laisse au sommet avec vue panoramique — prévoyez 2 à 3 heures.",
-        "Le sentier en bord de Nervión s'étend sur plus de 4 km du Casco Viejo au Guggenheim et au-delà — plat, pavé et dog-friendly sur toute sa longueur."
+        "Le mont Artxanda (accessible par le funiculaire dog-friendly depuis la Calle Múgica y Butrón) offre une balade hors laisse au sommet avec vue panoramique, prévoyez 2 à 3 heures.",
+        "Le sentier en bord de Nervión s'étend sur plus de 4 km du Casco Viejo au Guggenheim et au-delà, plat, pavé et dog-friendly sur toute sa longueur."
       ],
       "tipsEs": [
         "El municipio de Bilbao designa horarios de suelta en sus parques: los perros pueden estar sin correa de 19:00 a 11:00 en las zonas de esparcimiento. Consulta bilbao.eus para actualizaciones estacionales.",
@@ -258,29 +258,29 @@
       "faqsEn": [
         {
           "q": "Are there off-leash dog parks in Bilbao?",
-          "a": "Yes — Bilbao has official zonas de esparcimiento (off-leash zones) in all major parks including Doña Casilda, Etxebarria, and Ibaieder. The general rule is dogs can be off-leash between 19:00 and 11:00 daily."
+          "a": "Yes, Bilbao has official zonas de esparcimiento (off-leash zones) in all major parks including Doña Casilda, Etxebarria, and Ibaieder. The general rule is dogs can be off-leash between 19:00 and 11:00 daily."
         },
         {
           "q": "Can dogs go on Mount Artxanda?",
-          "a": "Yes — Mount Artxanda is fully dog-friendly and accessible via the funicular from Bilbao city centre, which has a dog-friendly compartment. The summit has open parkland perfect for off-leash walks."
+          "a": "Yes, Mount Artxanda is fully dog-friendly and accessible via the funicular from Bilbao city centre, which has a dog-friendly compartment. The summit has open parkland perfect for off-leash walks."
         },
         {
           "q": "Is the Nervión riverside walk dog-friendly?",
-          "a": "Yes — the riverfront path from the Casco Viejo to the Guggenheim (Abandoibarra) is one of Bilbao's best dog walks: flat, scenic, and passing multiple dog-friendly cafés and outdoor terraces."
+          "a": "Yes, the riverfront path from the Casco Viejo to the Guggenheim (Abandoibarra) is one of Bilbao's best dog walks: flat, scenic, and passing multiple dog-friendly cafés and outdoor terraces."
         }
       ],
       "faqsFr": [
         {
           "q": "Y a-t-il des zones hors laisse à Bilbao ?",
-          "a": "Oui — Bilbao dispose de zonas de esparcimiento officielles dans tous les grands parcs : Doña Casilda, Etxebarria et Ibaieder notamment. La règle générale est que les chiens peuvent être libres entre 19h et 11h chaque jour."
+          "a": "Oui, Bilbao dispose de zonas de esparcimiento officielles dans tous les grands parcs : Doña Casilda, Etxebarria et Ibaieder notamment. La règle générale est que les chiens peuvent être libres entre 19h et 11h chaque jour."
         },
         {
           "q": "Les chiens peuvent-ils aller sur le mont Artxanda ?",
-          "a": "Oui — le mont Artxanda est entièrement dog-friendly et accessible par le funiculaire depuis le centre-ville, qui dispose d'un compartiment dog-friendly. Le sommet dispose d'espaces ouverts parfaits pour les balades hors laisse."
+          "a": "Oui, le mont Artxanda est entièrement dog-friendly et accessible par le funiculaire depuis le centre-ville, qui dispose d'un compartiment dog-friendly. Le sommet dispose d'espaces ouverts parfaits pour les balades hors laisse."
         },
         {
           "q": "La promenade en bord de Nervión est-elle dog-friendly ?",
-          "a": "Oui — le sentier riverain du Casco Viejo au Guggenheim (Abandoibarra) est l'une des meilleures promenades pour chiens à Bilbao : plat, pittoresque et longeant plusieurs cafés dog-friendly."
+          "a": "Oui, le sentier riverain du Casco Viejo au Guggenheim (Abandoibarra) est l'une des meilleures promenades pour chiens à Bilbao : plat, pittoresque et longeant plusieurs cafés dog-friendly."
         }
       ],
       "faqsEs": [
@@ -323,18 +323,18 @@
       "titleEn": "Getting Around Bilbao with Your Dog",
       "titleFr": "Se déplacer à Bilbao avec son chien",
       "titleEs": "Moverse por Bilbao con tu perro",
-      "introEn": "Bilbao's public transport network has clear rules for pets that vary by mode. The tram is the most dog-friendly option — all sizes are welcome on a leash. The metro is restricted to small dogs (under 8 kg, held on the passenger's lap). Buses accept only dogs in carriers. The Artxanda Funicular is fully dog-friendly with a dedicated dog compartment.",
-      "introFr": "Le réseau de transports en commun de Bilbao a des règles claires pour les animaux, qui varient selon le mode. Le tram est l'option la plus dog-friendly — toutes tailles admises en laisse. Le métro est limité aux petits chiens (moins de 8 kg, portés sur les genoux du passager). Les bus n'acceptent les chiens qu'en transportin. Le funiculaire d'Artxanda est entièrement dog-friendly avec un compartiment dédié.",
+      "introEn": "Bilbao's public transport network has clear rules for pets that vary by mode. The tram is the most dog-friendly option, all sizes are welcome on a leash. The metro is restricted to small dogs (under 8 kg, held on the passenger's lap). Buses accept only dogs in carriers. The Artxanda Funicular is fully dog-friendly with a dedicated dog compartment.",
+      "introFr": "Le réseau de transports en commun de Bilbao a des règles claires pour les animaux, qui varient selon le mode. Le tram est l'option la plus dog-friendly, toutes tailles admises en laisse. Le métro est limité aux petits chiens (moins de 8 kg, portés sur les genoux du passager). Les bus n'acceptent les chiens qu'en transportin. Le funiculaire d'Artxanda est entièrement dog-friendly avec un compartiment dédié.",
       "introEs": "La red de transporte público de Bilbao tiene normas claras para mascotas que varían según el modo. El tranvía es la opción más dog-friendly: todas las tallas se admiten con correa. El metro está restringido a perros pequeños (menos de 8 kg, sostenidos en el regazo del pasajero). Los autobuses solo aceptan perros en transportín. El funicular de Artxanda es totalmente dog-friendly con vagón dedicado.",
       "places": [
         {
           "name": "Euskotren Tram (EuskoTran)",
           "address": "Estación de Atxuri, Atxuri Kalea, 6, 48006 Bilbao",
-          "neighborhood": "City-wide — stops at Atxuri, Ribera, Guggenheim, Abandoibarra, Indautxu",
+          "neighborhood": "City-wide, stops at Atxuri, Ribera, Guggenheim, Abandoibarra, Indautxu",
           "photo": "/images/city-places/bilbao-transport-euskotren-tram-euskotran.jpg",
           "website": "https://turismo.euskadi.eus/contenidos/informacion/euskadi_con_perros/en_def/practical_info-public-transport.html",
-          "description": "Bilbao's tram line is the best public transport option for dog owners — dogs of any size are allowed on a leash, no carrier required. The route connects the Casco Viejo (Atxuri station) to Abandoibarra and the Guggenheim area, passing through Indautxu and covering all major pet-travel stops in one line.",
-          "descriptionFr": "La ligne de tram de Bilbao est la meilleure option de transport en commun pour les propriétaires de chiens — les chiens de toute taille sont admis en laisse, sans transportin requis. Le parcours relie le Casco Viejo (gare d'Atxuri) à Abandoibarra et la zone du Guggenheim, en passant par Indautxu et desservant tous les arrêts phares en une seule ligne.",
+          "description": "Bilbao's tram line is the best public transport option for dog owners, dogs of any size are allowed on a leash, no carrier required. The route connects the Casco Viejo (Atxuri station) to Abandoibarra and the Guggenheim area, passing through Indautxu and covering all major pet-travel stops in one line.",
+          "descriptionFr": "La ligne de tram de Bilbao est la meilleure option de transport en commun pour les propriétaires de chiens, les chiens de toute taille sont admis en laisse, sans transportin requis. Le parcours relie le Casco Viejo (gare d'Atxuri) à Abandoibarra et la zone du Guggenheim, en passant par Indautxu et desservant tous les arrêts phares en une seule ligne.",
           "descriptionEs": "La línea de tranvía de Bilbao es la mejor opción de transporte público para los dueños de perros: los perros de cualquier tamaño se admiten con correa, sin necesidad de transportín. El recorrido conecta el Casco Viejo (estación Atxuri) con Abandoibarra y la zona del Guggenheim, pasando por Indautxu y cubriendo todas las paradas clave en una sola línea.",
           "petPolicy": "All dog sizes welcome on leash; no carrier required",
           "petPolicyFr": "Chiens de toutes tailles admis en laisse ; transportin non obligatoire",
@@ -344,8 +344,8 @@
           "mustTryFr": "Trajet d'Atxuri (Casco Viejo) jusqu'au Guggenheim pour la boucle dog-friendly classique de la ville",
           "mustTryEs": "Viaje de Atxuri (Casco Viejo) al Guggenheim para el circuito clásico dog-friendly por la ciudad",
           "openingHours": "Daily approx 06:00–23:00",
-          "tip": "The tram is also the easiest way to reach Parque Doña Casilda — alight at Indautxu stop, 200 m from the main park entrance.",
-          "tipFr": "Le tram est aussi le moyen le plus simple d'atteindre le Parc Doña Casilda — descendez à l'arrêt Indautxu, à 200 m de l'entrée principale du parc.",
+          "tip": "The tram is also the easiest way to reach Parque Doña Casilda, alight at Indautxu stop, 200 m from the main park entrance.",
+          "tipFr": "Le tram est aussi le moyen le plus simple d'atteindre le Parc Doña Casilda, descendez à l'arrêt Indautxu, à 200 m de l'entrée principale du parc.",
           "tipEs": "El tranvía es también la forma más fácil de llegar al Parque Doña Casilda: bájate en la parada Indautxu, a 200 m de la entrada principal del parque.",
           "googleMapsUrl": "https://maps.google.com/?q=Atxuri+Bilbao+Tram+Station",
           "descriptionPt": "A línea de elétrico de Bilbao é a melhor opción de transporte público para os donos de cães: os cães de cualquier tamanho se admitem com trela, sem necesidad de transportadora. O recorrido conecta o Casco Viejo (estação Atxuri) com Abandoibarra e a zona do Guggenheim, pasando por Indautxu e cubriendo todas as paragens clave numa sola línea.",
@@ -370,8 +370,8 @@
           "mustTryFr": "Montée en soirée pour la vue de l'heure dorée sur les toits de Bilbao",
           "mustTryEs": "Subida vespertina para la vista de la hora dorada sobre el skyline de Bilbao",
           "openingHours": "Mon–Sat 07:15–22:00, Sun 08:15–22:00",
-          "tip": "The lower station is on Plaza del Funicular, a 5-minute walk from the Casco Viejo metro exit — combine with the old town on the same half-day.",
-          "tipFr": "La gare basse se trouve Plaza del Funicular, à 5 minutes à pied de la sortie métro du Casco Viejo — combinez avec la vieille ville dans la même demi-journée.",
+          "tip": "The lower station is on Plaza del Funicular, a 5-minute walk from the Casco Viejo metro exit, combine with the old town on the same half-day.",
+          "tipFr": "La gare basse se trouve Plaza del Funicular, à 5 minutes à pied de la sortie métro du Casco Viejo, combinez avec la vieille ville dans la même demi-journée.",
           "tipEs": "La estación inferior está en la Plaza del Funicular, a 5 minutos a pie de la salida del metro del Casco Viejo: combínala con el casco antiguo en la misma media jornada.",
           "googleMapsUrl": "https://maps.google.com/?q=Funicular+de+Artxanda+Bilbao",
           "descriptionPt": "O Funicular de Artxanda sube a partir do Casco Viejo até a cima do monte Artxanda e dispone de vagón pet-friendly dedicado, confirmado por Turismo de Bilbao. O trayecto de 3 minutos te deixa na cima com vistas panorámicas da cidade e amplio espacio para os cães.",
@@ -382,22 +382,22 @@
         {
           "name": "Metro Bilbao (Small Dogs Only)",
           "address": "Abando Indalecio Prieto Metro Station, Bailén Kalea, 1, 48001 Bilbao",
-          "neighborhood": "City-wide — main hub at Abando station",
+          "neighborhood": "City-wide, main hub at Abando station",
           "photo": "/images/city-places/bilbao-transport-metro-bilbao-small-dogs-only.jpg",
           "website": "https://www.metrobilbao.eus/en/f-a-q",
-          "description": "Metro Bilbao allows small dogs (under 8 kg) to travel held on the passenger's lap or in a carrier — dogs must not touch the floor or use a seat. Dogs over 8 kg are not permitted. The metro is useful for reaching Getxo (Line 1) for the coastal beaches, but for larger dogs use the tram or funicular instead.",
-          "descriptionFr": "Le Metro Bilbao autorise les petits chiens (moins de 8 kg) portés sur les genoux du passager ou dans un transportin — les chiens ne doivent pas toucher le sol ni utiliser un siège. Les chiens de plus de 8 kg ne sont pas admis. Le métro est utile pour rejoindre Getxo (ligne 1) pour les plages côtières, mais pour les grands chiens, utilisez plutôt le tram ou le funiculaire.",
+          "description": "Metro Bilbao allows small dogs (under 8 kg) to travel held on the passenger's lap or in a carrier, dogs must not touch the floor or use a seat. Dogs over 8 kg are not permitted. The metro is useful for reaching Getxo (Line 1) for the coastal beaches, but for larger dogs use the tram or funicular instead.",
+          "descriptionFr": "Le Metro Bilbao autorise les petits chiens (moins de 8 kg) portés sur les genoux du passager ou dans un transportin, les chiens ne doivent pas toucher le sol ni utiliser un siège. Les chiens de plus de 8 kg ne sont pas admis. Le métro est utile pour rejoindre Getxo (ligne 1) pour les plages côtières, mais pour les grands chiens, utilisez plutôt le tram ou le funiculaire.",
           "descriptionEs": "El Metro Bilbao permite que los perros pequeños (menos de 8 kg) viajen sostenidos en el regazo del pasajero o en un transportín: los perros no pueden tocar el suelo ni ocupar un asiento. Los perros de más de 8 kg no están permitidos. El metro es útil para llegar a Getxo (Línea 1) y sus playas costeras, pero para perros grandes usa el tranvía o el funicular.",
           "petPolicy": "Small dogs under 8 kg only; must be held on lap or in carrier; no floor contact",
           "petPolicyFr": "Petits chiens de moins de 8 kg uniquement ; portés sur les genoux ou dans un transportin ; contact avec le sol interdit",
           "petPolicyEs": "Solo perros menores de 8 kg; deben sostenerse en el regazo o en transportín; sin contacto con el suelo",
           "priceRange": "€ (standard fare; small dog included free)",
-          "mustTry": "Line 1 to Getxo for coastal walks — 25 minutes from Abando station",
-          "mustTryFr": "Ligne 1 jusqu'à Getxo pour les balades côtières — 25 minutes depuis la gare d'Abando",
+          "mustTry": "Line 1 to Getxo for coastal walks, 25 minutes from Abando station",
+          "mustTryFr": "Ligne 1 jusqu'à Getxo pour les balades côtières, 25 minutes depuis la gare d'Abando",
           "mustTryEs": "Línea 1 hasta Getxo para paseos costeros: 25 minutos desde la estación de Abando",
           "openingHours": "Mon–Thu & Sun 06:00–23:00, Fri 06:00–00:00, Sat 06:00–02:00",
-          "tip": "Use the tram or funicular for large dogs — the metro policy is strictly enforced and staff can ask you to leave if your dog exceeds 8 kg.",
-          "tipFr": "Utilisez le tram ou le funiculaire pour les grands chiens — la politique du métro est strictement appliquée et le personnel peut vous demander de quitter si votre chien dépasse 8 kg.",
+          "tip": "Use the tram or funicular for large dogs, the metro policy is strictly enforced and staff can ask you to leave if your dog exceeds 8 kg.",
+          "tipFr": "Utilisez le tram ou le funiculaire pour les grands chiens, la politique du métro est strictement appliquée et le personnel peut vous demander de quitter si votre chien dépasse 8 kg.",
           "tipEs": "Usa el tranvía o el funicular para perros grandes: la normativa del metro se aplica estrictamente y el personal puede pedirte que bajes si tu perro supera los 8 kg.",
           "googleMapsUrl": "https://maps.google.com/?q=Abando+Metro+Bilbao",
           "descriptionPt": "O Metro Bilbao permite que os cães pequenos (menos de 8 kg) viajen sostenidos não regazo do pasajero o num transportadora: os cães não podem tocar o solo ni ocupar um asiento. Os cães de mais de 8 kg não estão permitidos. O metro é útil para chegar a Getxo (Línea 1) e os seus praias costeras, mas para cães grandes usa o elétrico o funicular.",
@@ -407,14 +407,14 @@
         }
       ],
       "tipsEn": [
-        "The tram (EuskoTran) is the best option for dogs of all sizes — no carrier required and it connects all major tourist areas from the Casco Viejo to the Guggenheim.",
+        "The tram (EuskoTran) is the best option for dogs of all sizes, no carrier required and it connects all major tourist areas from the Casco Viejo to the Guggenheim.",
         "The Artxanda Funicular has a dedicated dog compartment and is the only way to reach the mountain summit with a large dog using public transport.",
-        "Metro Bilbao Line 1 reaches the coastal town of Getxo in 25 minutes — perfect for a beach day trip, but only for small dogs under 8 kg."
+        "Metro Bilbao Line 1 reaches the coastal town of Getxo in 25 minutes, perfect for a beach day trip, but only for small dogs under 8 kg."
       ],
       "tipsFr": [
-        "Le tram (EuskoTran) est la meilleure option pour les chiens de toutes tailles — pas de transportin requis et il dessert tous les sites touristiques du Casco Viejo au Guggenheim.",
+        "Le tram (EuskoTran) est la meilleure option pour les chiens de toutes tailles, pas de transportin requis et il dessert tous les sites touristiques du Casco Viejo au Guggenheim.",
         "Le funiculaire d'Artxanda dispose d'un compartiment dédié aux chiens et est le seul moyen d'atteindre le sommet de la montagne avec un grand chien en transports en commun.",
-        "La ligne 1 du métro atteint la ville côtière de Getxo en 25 minutes — idéal pour une excursion à la plage, mais uniquement pour les petits chiens de moins de 8 kg."
+        "La ligne 1 du métro atteint la ville côtière de Getxo en 25 minutes, idéal pour une excursion à la plage, mais uniquement pour les petits chiens de moins de 8 kg."
       ],
       "tipsEs": [
         "El tranvía (EuskoTran) es la mejor opción para perros de todos los tamaños: no se necesita transportín y conecta todas las zonas turísticas principales del Casco Viejo al Guggenheim.",
@@ -424,29 +424,29 @@
       "faqsEn": [
         {
           "q": "Can large dogs use the Bilbao metro?",
-          "a": "No — Metro Bilbao only allows dogs under 8 kg, held on the passenger's lap. Large dogs must use the tram, funicular, or taxi instead."
+          "a": "No, Metro Bilbao only allows dogs under 8 kg, held on the passenger's lap. Large dogs must use the tram, funicular, or taxi instead."
         },
         {
           "q": "Are dogs allowed on the Bilbao tram?",
-          "a": "Yes — dogs of any size are welcome on the EuskoTran tram on a leash. No carrier is required. This is the most dog-friendly public transport option in the city."
+          "a": "Yes, dogs of any size are welcome on the EuskoTran tram on a leash. No carrier is required. This is the most dog-friendly public transport option in the city."
         },
         {
           "q": "How do I get to Getxo beaches with a large dog?",
-          "a": "The metro (Line 1) reaches Getxo but restricts dogs to under 8 kg. For larger dogs, a taxi or rideshare is the practical option — the journey takes around 20 minutes by car."
+          "a": "The metro (Line 1) reaches Getxo but restricts dogs to under 8 kg. For larger dogs, a taxi or rideshare is the practical option, the journey takes around 20 minutes by car."
         }
       ],
       "faqsFr": [
         {
           "q": "Les grands chiens peuvent-ils utiliser le métro de Bilbao ?",
-          "a": "Non — le Metro Bilbao n'admet que les chiens de moins de 8 kg, portés sur les genoux. Les grands chiens doivent utiliser le tram, le funiculaire ou un taxi."
+          "a": "Non, le Metro Bilbao n'admet que les chiens de moins de 8 kg, portés sur les genoux. Les grands chiens doivent utiliser le tram, le funiculaire ou un taxi."
         },
         {
           "q": "Les chiens sont-ils autorisés dans le tram de Bilbao ?",
-          "a": "Oui — les chiens de toute taille sont bienvenus dans le tram EuskoTran en laisse. Pas de transportin requis. C'est l'option de transport en commun la plus dog-friendly de la ville."
+          "a": "Oui, les chiens de toute taille sont bienvenus dans le tram EuskoTran en laisse. Pas de transportin requis. C'est l'option de transport en commun la plus dog-friendly de la ville."
         },
         {
           "q": "Comment rejoindre les plages de Getxo avec un grand chien ?",
-          "a": "Le métro (ligne 1) va jusqu'à Getxo mais limite les chiens à moins de 8 kg. Pour les grands chiens, un taxi ou VTC est la solution — le trajet dure environ 20 minutes en voiture."
+          "a": "Le métro (ligne 1) va jusqu'à Getxo mais limite les chiens à moins de 8 kg. Pour les grands chiens, un taxi ou VTC est la solution, le trajet dure environ 20 minutes en voiture."
         }
       ],
       "faqsEs": [
@@ -489,28 +489,28 @@
       "titleEn": "Dog-Friendly Beaches near Bilbao",
       "titleFr": "Plages acceptant les chiens près de Bilbao",
       "titleEs": "Playas dog-friendly cerca de Bilbao",
-      "introEn": "Bilbao has no beach of its own, but the Basque coast is just 20–30 minutes away by metro or car. Most beaches near Bilbao restrict dogs from June to September — outside those months, several beaches in the Getxo and Sopelana area are open to dogs. Always check current local bylaws before visiting, as seasonal restrictions vary year to year.",
-      "introFr": "Bilbao n'a pas de plage propre, mais la côte basque est à seulement 20 à 30 minutes en métro ou en voiture. La plupart des plages proches de Bilbao interdisent les chiens de juin à septembre — en dehors de ces mois, plusieurs plages dans les communes de Getxo et Sopelana sont ouvertes aux chiens. Vérifiez toujours les arrêtés locaux en vigueur avant de vous déplacer, car les restrictions saisonnières varient d'une année à l'autre.",
+      "introEn": "Bilbao has no beach of its own, but the Basque coast is just 20–30 minutes away by metro or car. Most beaches near Bilbao restrict dogs from June to September, outside those months, several beaches in the Getxo and Sopelana area are open to dogs. Always check current local bylaws before visiting, as seasonal restrictions vary year to year.",
+      "introFr": "Bilbao n'a pas de plage propre, mais la côte basque est à seulement 20 à 30 minutes en métro ou en voiture. La plupart des plages proches de Bilbao interdisent les chiens de juin à septembre, en dehors de ces mois, plusieurs plages dans les communes de Getxo et Sopelana sont ouvertes aux chiens. Vérifiez toujours les arrêtés locaux en vigueur avant de vous déplacer, car les restrictions saisonnières varient d'une année à l'autre.",
       "introEs": "Bilbao no tiene playa propia, pero la costa vasca está a solo 20–30 minutos en metro o en coche. La mayoría de las playas cercanas a Bilbao prohíben los perros de junio a septiembre. Fuera de esos meses, varias playas en el área de Getxo y Sopelana están abiertas a los perros. Comprueba siempre los reglamentos locales vigentes antes de visitar, ya que las restricciones estacionales varían cada año.",
       "places": [
         {
           "name": "Barinatxe / La Salvaje Beach",
-          "type": "Wild beach — seasonal dog access",
+          "type": "Wild beach, seasonal dog access",
           "photo": "/images/city-places/bilbao-beaches-barinatxe-la-salvaje-beach.jpg",
           "website": "https://www.getxo.eus/en/turismo/descubre-getxo/Getxodogfriendly-getxocontuperro",
-          "description": "Known locally as 'La Salvaje' (the Wild One), Barinatxe sits on the border of Sopelana and Getxo and is Bilbao's most famous dog beach — wide, backed by dramatic cliffs, and free from summer crowds from October to May when dogs are allowed. The beach is accessible by Metro Line 1 (Bidezabal station, 15-minute walk).",
-          "descriptionFr": "Connue localement sous le nom de 'La Salvaje' (la Sauvage), Barinatxe se trouve à la frontière de Sopelana et Getxo et est la plage pour chiens la plus célèbre de Bilbao — large, dominée par des falaises spectaculaires, et épargnée par les foules estivales d'octobre à mai quand les chiens sont autorisés. La plage est accessible en métro ligne 1 (station Bidezabal, 15 minutes de marche).",
+          "description": "Known locally as 'La Salvaje' (the Wild One), Barinatxe sits on the border of Sopelana and Getxo and is Bilbao's most famous dog beach, wide, backed by dramatic cliffs, and free from summer crowds from October to May when dogs are allowed. The beach is accessible by Metro Line 1 (Bidezabal station, 15-minute walk).",
+          "descriptionFr": "Connue localement sous le nom de 'La Salvaje' (la Sauvage), Barinatxe se trouve à la frontière de Sopelana et Getxo et est la plage pour chiens la plus célèbre de Bilbao, large, dominée par des falaises spectaculaires, et épargnée par les foules estivales d'octobre à mai quand les chiens sont autorisés. La plage est accessible en métro ligne 1 (station Bidezabal, 15 minutes de marche).",
           "descriptionEs": "Conocida localmente como 'La Salvaje', Barinatxe se encuentra en la frontera de Sopelana y Getxo y es la playa para perros más famosa de Bilbao: amplia, enmarcada por impresionantes acantilados y libre de las multitudes estivales de octubre a mayo cuando se permiten perros. La playa es accesible en metro Línea 1 (estación Bidezabal, 15 minutos caminando).",
           "petPolicy": "Dogs allowed October to May; restricted June to September",
           "petPolicyFr": "Chiens autorisés d'octobre à mai ; interdit de juin à septembre",
           "petPolicyEs": "Perros permitidos de octubre a mayo; restringidos de junio a septiembre",
           "priceRange": "Free",
-          "mustTry": "Early morning walk at low tide — the beach triples in size and the cliffs glow at sunrise",
-          "mustTryFr": "Balade matinale à marée basse — la plage triple de taille et les falaises rougeoient au lever du soleil",
+          "mustTry": "Early morning walk at low tide, the beach triples in size and the cliffs glow at sunrise",
+          "mustTryFr": "Balade matinale à marée basse, la plage triple de taille et les falaises rougeoient au lever du soleil",
           "mustTryEs": "Paseo matutino con marea baja: la playa triplica su tamaño y los acantilados se iluminan al amanecer",
           "openingHours": "Open year-round; dog access October–May only",
-          "tip": "Take Metro Line 1 to Bidezabal station, then follow signs for Barinatxe — 15 minutes' walk down a scenic coastal path.",
-          "tipFr": "Prenez le métro ligne 1 jusqu'à la station Bidezabal, puis suivez les indications pour Barinatxe — 15 minutes de descente sur un sentier côtier pittoresque.",
+          "tip": "Take Metro Line 1 to Bidezabal station, then follow signs for Barinatxe, 15 minutes' walk down a scenic coastal path.",
+          "tipFr": "Prenez le métro ligne 1 jusqu'à la station Bidezabal, puis suivez les indications pour Barinatxe, 15 minutes de descente sur un sentier côtier pittoresque.",
           "tipEs": "Toma el metro Línea 1 hasta la estación Bidezabal y sigue las indicaciones para Barinatxe: 15 minutos caminando por un pintoresco sendero costero.",
           "googleMapsUrl": "https://maps.google.com/?q=Barinatxe+Beach+Sopelana+Bilbao",
           "descriptionPt": "Conocida localmente como 'A Salvaje', Barinatxe encontra-se na frontera de Sopelana e Getxo e é a praia para cães mais famosa de Bilbao: amplia, enmarcada por impresionantes acantilados e libre das multitudes estivales de outubro a maio quando se permiten cães. A praia é acessível não metro Línea 1 (estação Bidezabal, 15 minutos caminando).",
@@ -520,7 +520,7 @@
         },
         {
           "name": "Arrietara-Atxabiribil Beach (Sopelana)",
-          "type": "Sandy beach — seasonal dog access",
+          "type": "Sandy beach, seasonal dog access",
           "photo": "/images/city-places/bilbao-beaches-arrietara-atxabiribil-beach-sopelana.jpg",
           "website": "https://www.petitpalace.com/en/townster/list/city/284/beach-petfriendly-bilbao/",
           "description": "Arrietara-Atxabiribil is the more accessible of Sopelana's two main beaches, popular with surfers and dog owners alike outside the summer season. The beach is wide, sandy, and relatively uncrowded from November to April when local bylaws permit dogs. Reached via Metro Line 1 to Sopelana station.",
@@ -530,12 +530,12 @@
           "petPolicyFr": "Chiens généralement autorisés de novembre à avril ; confirmez auprès de la mairie de Sopelana pour les règles de l'année en cours",
           "petPolicyEs": "Perros normalmente permitidos de noviembre a abril; confirmar con el Ayuntamiento de Sopelana las normas del año en curso",
           "priceRange": "Free",
-          "mustTry": "Combine with a coffee stop in Sopelana village — several cafés accept dogs on their terraces",
-          "mustTryFr": "Combinez avec un café dans le village de Sopelana — plusieurs établissements acceptent les chiens en terrasse",
+          "mustTry": "Combine with a coffee stop in Sopelana village, several cafés accept dogs on their terraces",
+          "mustTryFr": "Combinez avec un café dans le village de Sopelana, plusieurs établissements acceptent les chiens en terrasse",
           "mustTryEs": "Combina con una parada en un café en el pueblo de Sopelana: varios establecimientos aceptan perros en terraza",
           "openingHours": "Open year-round; dog access November–April typically",
-          "tip": "Metro Line 1 to Sopelana station — the beach is 10 minutes' walk downhill from the platform exit.",
-          "tipFr": "Métro ligne 1 jusqu'à la station Sopelana — la plage est à 10 minutes de marche en descente depuis la sortie du quai.",
+          "tip": "Metro Line 1 to Sopelana station, the beach is 10 minutes' walk downhill from the platform exit.",
+          "tipFr": "Métro ligne 1 jusqu'à la station Sopelana, la plage est à 10 minutes de marche en descente depuis la sortie du quai.",
           "tipEs": "Metro Línea 1 hasta la estación Sopelana: la playa está a 10 minutos caminando cuesta abajo desde la salida del andén.",
           "googleMapsUrl": "https://maps.google.com/?q=Arrietara+Beach+Sopelana+Bilbao",
           "descriptionPt": "Arrietara-Atxabiribil é a mais acessível das duas praias principales de Sopelana, popular entre surfistas e donos de cães fora da temporada estival. A praia é amplia, arenosa e relativamente tranquila de novembro a abril quando os reglamentos municipales permiten cães. Se chega não metro Línea 1 até a estação Sopelana.",
@@ -545,14 +545,14 @@
         }
       ],
       "tipsEn": [
-        "All Basque coast beaches near Bilbao restrict dogs during summer (typically June–September). Plan beach days for the off-season — October and May are ideal: mild weather and uncrowded.",
-        "The Getxo coastline has multiple beaches (Las Arenas, Ereaga, Arrigunaga) reachable by Metro Line 1 in 25 minutes — check the Getxo municipality website for current dog access rules.",
-        "Always carry a lead at the beach even in permitted months — enforcement is periodic and fines apply for unleashed dogs in restricted zones."
+        "All Basque coast beaches near Bilbao restrict dogs during summer (typically June–September). Plan beach days for the off-season, October and May are ideal: mild weather and uncrowded.",
+        "The Getxo coastline has multiple beaches (Las Arenas, Ereaga, Arrigunaga) reachable by Metro Line 1 in 25 minutes, check the Getxo municipality website for current dog access rules.",
+        "Always carry a lead at the beach even in permitted months, enforcement is periodic and fines apply for unleashed dogs in restricted zones."
       ],
       "tipsFr": [
-        "Toutes les plages de la côte basque proches de Bilbao interdisent les chiens en été (généralement juin–septembre). Planifiez les sorties à la plage hors saison — octobre et mai sont idéaux : temps doux et peu de monde.",
-        "Le littoral de Getxo compte plusieurs plages (Las Arenas, Ereaga, Arrigunaga) accessibles en 25 minutes par le métro ligne 1 — vérifiez le site de la commune de Getxo pour les règles d'accès canin actuelles.",
-        "Ayez toujours une laisse à la plage même pendant les mois autorisés — les contrôles sont ponctuels et des amendes s'appliquent pour les chiens sans laisse dans les zones réglementées."
+        "Toutes les plages de la côte basque proches de Bilbao interdisent les chiens en été (généralement juin–septembre). Planifiez les sorties à la plage hors saison, octobre et mai sont idéaux : temps doux et peu de monde.",
+        "Le littoral de Getxo compte plusieurs plages (Las Arenas, Ereaga, Arrigunaga) accessibles en 25 minutes par le métro ligne 1, vérifiez le site de la commune de Getxo pour les règles d'accès canin actuelles.",
+        "Ayez toujours une laisse à la plage même pendant les mois autorisés, les contrôles sont ponctuels et des amendes s'appliquent pour les chiens sans laisse dans les zones réglementées."
       ],
       "tipsEs": [
         "Todas las playas de la costa vasca cercanas a Bilbao restringen los perros en verano (normalmente junio–septiembre). Planifica las visitas a la playa fuera de temporada: octubre y mayo son ideales por el clima suave y la poca afluencia.",
@@ -562,29 +562,29 @@
       "faqsEn": [
         {
           "q": "Are dogs allowed on Bilbao beaches?",
-          "a": "Bilbao has no beach, but the nearby Basque coast has dog-friendly beaches — primarily outside summer. Barinatxe (La Salvaje) and Arrietara in Sopelana allow dogs from October to May. All beaches restrict dogs June–September."
+          "a": "Bilbao has no beach, but the nearby Basque coast has dog-friendly beaches, primarily outside summer. Barinatxe (La Salvaje) and Arrietara in Sopelana allow dogs from October to May. All beaches restrict dogs June–September."
         },
         {
           "q": "How do I get to the dog-friendly beaches near Bilbao?",
-          "a": "Metro Line 1 is the easiest option — Bidezabal station for Barinatxe (15 min walk) and Sopelana station for Arrietara (10 min walk). Small dogs under 8 kg only; larger dogs need a taxi or car."
+          "a": "Metro Line 1 is the easiest option, Bidezabal station for Barinatxe (15 min walk) and Sopelana station for Arrietara (10 min walk). Small dogs under 8 kg only; larger dogs need a taxi or car."
         },
         {
           "q": "Are there any year-round dog beaches near Bilbao?",
-          "a": "No fully year-round dog beaches exist near Bilbao — all apply seasonal restrictions in summer. The best off-season window is October to May, when most Sopelana and Getxo beaches permit dogs."
+          "a": "No fully year-round dog beaches exist near Bilbao, all apply seasonal restrictions in summer. The best off-season window is October to May, when most Sopelana and Getxo beaches permit dogs."
         }
       ],
       "faqsFr": [
         {
           "q": "Les chiens sont-ils autorisés sur les plages de Bilbao ?",
-          "a": "Bilbao n'a pas de plage, mais la côte basque proche dispose de plages dog-friendly — principalement en dehors de l'été. Barinatxe (La Salvaje) et Arrietara à Sopelana autorisent les chiens d'octobre à mai. Toutes les plages interdisent les chiens de juin à septembre."
+          "a": "Bilbao n'a pas de plage, mais la côte basque proche dispose de plages dog-friendly, principalement en dehors de l'été. Barinatxe (La Salvaje) et Arrietara à Sopelana autorisent les chiens d'octobre à mai. Toutes les plages interdisent les chiens de juin à septembre."
         },
         {
           "q": "Comment rejoindre les plages dog-friendly proches de Bilbao ?",
-          "a": "Le métro ligne 1 est l'option la plus simple — arrêt Bidezabal pour Barinatxe (15 min à pied) et arrêt Sopelana pour Arrietara (10 min à pied). Petits chiens de moins de 8 kg uniquement ; les grands chiens nécessitent un taxi ou une voiture."
+          "a": "Le métro ligne 1 est l'option la plus simple, arrêt Bidezabal pour Barinatxe (15 min à pied) et arrêt Sopelana pour Arrietara (10 min à pied). Petits chiens de moins de 8 kg uniquement ; les grands chiens nécessitent un taxi ou une voiture."
         },
         {
           "q": "Y a-t-il des plages dog-friendly toute l'année près de Bilbao ?",
-          "a": "Il n'existe pas de plage pour chiens ouverte toute l'année près de Bilbao — toutes appliquent des restrictions saisonnières en été. La meilleure fenêtre hors saison est d'octobre à mai, quand la plupart des plages de Sopelana et Getxo autorisent les chiens."
+          "a": "Il n'existe pas de plage pour chiens ouverte toute l'année près de Bilbao, toutes appliquent des restrictions saisonnières en été. La meilleure fenêtre hors saison est d'octobre à mai, quand la plupart des plages de Sopelana et Getxo autorisent les chiens."
         }
       ],
       "faqsEs": [
@@ -624,11 +624,11 @@
       ]
     },
     "vets": {
-      "titleEn": "Emergency Vets in Bilbao — Veterinary Clinics & Pet Care",
-      "titleFr": "Vétérinaires d'urgence à Bilbao — Cliniques et soins animaliers",
-      "titleEs": "Veterinario de urgencias en Bilbao — Hospitales y clínicas veterinarias",
-      "introEn": "Bilbao has reliable 24-hour emergency vet coverage. Veterinaria Bilbao operates a genuine round-the-clock emergency line (944 212 212) at their clinic in Basurto-Zorrotza — verified from their official website. Always call ahead to be triaged before arriving with an injured or ill animal.",
-      "introFr": "Bilbao dispose d'une couverture vétérinaire d'urgence 24h/24 fiable. Veterinaria Bilbao gère une véritable ligne d'urgence non-stop (944 212 212) dans sa clinique de Basurto-Zorrotza — vérifié sur leur site officiel. Appelez toujours avant d'arriver avec un animal blessé ou malade pour être orienté.",
+      "titleEn": "Emergency Vets in Bilbao, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence à Bilbao, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias en Bilbao, Hospitales y clínicas veterinarias",
+      "introEn": "Bilbao has reliable 24-hour emergency vet coverage. Veterinaria Bilbao operates a genuine round-the-clock emergency line (944 212 212) at their clinic in Basurto-Zorrotza, verified from their official website. Always call ahead to be triaged before arriving with an injured or ill animal.",
+      "introFr": "Bilbao dispose d'une couverture vétérinaire d'urgence 24h/24 fiable. Veterinaria Bilbao gère une véritable ligne d'urgence non-stop (944 212 212) dans sa clinique de Basurto-Zorrotza, vérifié sur leur site officiel. Appelez toujours avant d'arriver avec un animal blessé ou malade pour être orienté.",
       "introEs": "Bilbao cuenta con cobertura veterinaria de urgencias 24 horas fiable. Veterinaria Bilbao gestiona una auténtica línea de urgencias 24/7 (944 212 212) en su clínica de Basurto-Zorrotza, verificado en su sitio oficial. Siempre llama antes de llegar con un animal herido o enfermo para ser triado.",
       "places": [
         {
@@ -637,34 +637,34 @@
           "neighborhood": "Basurto-Zorrotza",
           "photo": "/images/city-places/bilbao-vets-veterinaria-bilbao-24h-emergency.jpg",
           "website": "https://veterinariabilbao.com/urgencias-veterinarias/",
-          "description": "Bilbao's primary 24-hour veterinary emergency clinic, verified from its official website (veterinariabilbao.com). The clinic provides urgent veterinary care every day of the year, 24 hours — call the emergency line 944 212 212 before arriving so the team can prepare for your arrival.",
-          "descriptionFr": "La principale clinique vétérinaire d'urgence 24h/24 de Bilbao, vérifiée sur son site officiel (veterinariabilbao.com). La clinique assure des soins vétérinaires urgents tous les jours de l'année, 24h sur 24 — appelez le numéro d'urgence 944 212 212 avant d'arriver pour que l'équipe puisse préparer votre accueil.",
+          "description": "Bilbao's primary 24-hour veterinary emergency clinic, verified from its official website (veterinariabilbao.com). The clinic provides urgent veterinary care every day of the year, 24 hours, call the emergency line 944 212 212 before arriving so the team can prepare for your arrival.",
+          "descriptionFr": "La principale clinique vétérinaire d'urgence 24h/24 de Bilbao, vérifiée sur son site officiel (veterinariabilbao.com). La clinique assure des soins vétérinaires urgents tous les jours de l'année, 24h sur 24, appelez le numéro d'urgence 944 212 212 avant d'arriver pour que l'équipe puisse préparer votre accueil.",
           "descriptionEs": "La principal clínica veterinaria de urgencias 24 horas de Bilbao, verificada en su sitio oficial (veterinariabilbao.com). La clínica proporciona atención veterinaria urgente todos los días del año, 24 horas: llama a la línea de urgencias 944 212 212 antes de llegar para que el equipo pueda prepararse.",
-          "petPolicy": "24/7 emergency service — call ahead on 944 212 212",
-          "petPolicyFr": "Service d'urgence 24h/24 7j/7 — appelez le 944 212 212 avant d'arriver",
-          "petPolicyEs": "Servicio de urgencias 24/7 — llama al 944 212 212 antes de llegar",
+          "petPolicy": "24/7 emergency service, call ahead on 944 212 212",
+          "petPolicyFr": "Service d'urgence 24h/24 7j/7, appelez le 944 212 212 avant d'arriver",
+          "petPolicyEs": "Servicio de urgencias 24/7, llama al 944 212 212 antes de llegar",
           "priceRange": "€€€",
           "mustTry": "Save 944 212 212 in your phone before arriving in Bilbao",
           "mustTryFr": "Enregistrez le 944 212 212 dans votre téléphone avant d'arriver à Bilbao",
           "mustTryEs": "Guarda el 944 212 212 en tu teléfono antes de llegar a Bilbao",
           "openingHours": "24/7, 365 days a year",
-          "tip": "The clinic is in Basurto-Zorrotza — a taxi from the city centre takes around 10–15 minutes. Always call before going so staff can prepare.",
-          "tipFr": "La clinique est à Basurto-Zorrotza — un taxi depuis le centre-ville prend environ 10 à 15 minutes. Appelez toujours avant d'aller pour que le personnel puisse se préparer.",
+          "tip": "The clinic is in Basurto-Zorrotza, a taxi from the city centre takes around 10–15 minutes. Always call before going so staff can prepare.",
+          "tipFr": "La clinique est à Basurto-Zorrotza, un taxi depuis le centre-ville prend environ 10 à 15 minutes. Appelez toujours avant d'aller pour que le personnel puisse se préparer.",
           "tipEs": "La clínica está en Basurto-Zorrotza: un taxi desde el centro tarda unos 10–15 minutos. Llama siempre antes de ir para que el personal pueda prepararse.",
           "googleMapsUrl": "https://maps.google.com/?q=Zorrotza+Kastrexana+Errepidea+25+Bilbao",
           "descriptionPt": "A principal clínica veterinária de urgências 24 horas de Bilbao, verificada no seu sitio oficial (veterinariabilbao.com). A clínica proporciona atención veterinária urgente todos os dias do ano, 24 horas: liga a línea de urgências 944 212 212 antes de chegar para que o equipo pueda prepararse.",
-          "petPolicyPt": "Serviço de urgências 24/7 — liga ao 944 212 212 antes de chegar",
+          "petPolicyPt": "Serviço de urgências 24/7, liga ao 944 212 212 antes de chegar",
           "mustTryPt": "Guarda o 944 212 212 em tu teléfono antes de chegar a Bilbao",
           "tipPt": "A clínica está em Basurto-Zorrotza: um taxi a partir do centro tarda uns 10–15 minutos. Liga sempre antes de ir para que o pessoal pueda prepararse."
         }
       ],
       "tipsEn": [
-        "Save the 24h emergency number 944 212 212 (Veterinaria Bilbao) in your phone before you arrive — it is verified from the clinic's official website.",
+        "Save the 24h emergency number 944 212 212 (Veterinaria Bilbao) in your phone before you arrive, it is verified from the clinic's official website.",
         "The regular clinic number is 944 42 20 98 for non-emergency consultations during business hours.",
         "If you need additional Spanish-language veterinary help, the Colegio Oficial de Veterinarios de Bizkaia (Basque regional vet association) can refer you to the nearest available clinic."
       ],
       "tipsFr": [
-        "Enregistrez le numéro d'urgence 24h 944 212 212 (Veterinaria Bilbao) dans votre téléphone avant d'arriver — vérifié sur le site officiel de la clinique.",
+        "Enregistrez le numéro d'urgence 24h 944 212 212 (Veterinaria Bilbao) dans votre téléphone avant d'arriver, vérifié sur le site officiel de la clinique.",
         "Le numéro de la clinique hors urgences est le 944 42 20 98 pour les consultations classiques pendant les heures ouvrables.",
         "Si vous avez besoin d'une aide vétérinaire supplémentaire, le Colegio Oficial de Veterinarios de Bizkaia (l'ordre vétérinaire régional basque) peut vous orienter vers la clinique disponible la plus proche."
       ],
@@ -676,11 +676,11 @@
       "faqsEn": [
         {
           "q": "Is there a 24-hour vet in Bilbao?",
-          "a": "Yes — Veterinaria Bilbao operates a verified 24-hour emergency service at Zorrotza Kastrexana Errepidea, 25. Call 944 212 212 before arriving."
+          "a": "Yes, Veterinaria Bilbao operates a verified 24-hour emergency service at Zorrotza Kastrexana Errepidea, 25. Call 944 212 212 before arriving."
         },
         {
           "q": "What is the emergency vet phone number in Bilbao?",
-          "a": "944 212 212 — this is the verified emergency line for Veterinaria Bilbao, open 24/7, 365 days a year. Confirmed from their official website."
+          "a": "944 212 212, this is the verified emergency line for Veterinaria Bilbao, open 24/7, 365 days a year. Confirmed from their official website."
         },
         {
           "q": "Do Bilbao vets speak English?",
@@ -690,11 +690,11 @@
       "faqsFr": [
         {
           "q": "Y a-t-il un vétérinaire 24h/24 à Bilbao ?",
-          "a": "Oui — Veterinaria Bilbao assure un service d'urgence 24h/24 vérifié à Zorrotza Kastrexana Errepidea, 25. Appelez le 944 212 212 avant d'y aller."
+          "a": "Oui, Veterinaria Bilbao assure un service d'urgence 24h/24 vérifié à Zorrotza Kastrexana Errepidea, 25. Appelez le 944 212 212 avant d'y aller."
         },
         {
           "q": "Quel est le numéro d'urgence vétérinaire à Bilbao ?",
-          "a": "944 212 212 — c'est la ligne d'urgence vérifiée de Veterinaria Bilbao, ouverte 24h/24, 365 jours par an. Confirmé sur leur site officiel."
+          "a": "944 212 212, c'est la ligne d'urgence vérifiée de Veterinaria Bilbao, ouverte 24h/24, 365 jours par an. Confirmé sur leur site officiel."
         },
         {
           "q": "Les vétérinaires de Bilbao parlent-ils anglais ?",
@@ -715,7 +715,7 @@
           "a": "El español es el idioma principal, pero muchos del personal veterinario en Bilbao tienen nociones básicas de inglés. Para consultas complejas, conviene llevar una app de traducción o notas preparadas en español."
         }
       ],
-      "titlePt": "Veterinário de urgências em Bilbao — Hospitales e clínicas veterinárias",
+      "titlePt": "Veterinário de urgências em Bilbao, Hospitales e clínicas veterinárias",
       "introPt": "Bilbao tem com cobertura veterinária de urgências 24 horas fiable. Veterinária Bilbao gestiona uma auténtica línea de urgências 24/7 (944 212 212) no seu clínica de Basurto-Zorrotza, verificado no seu sitio oficial. Sempre liga antes de chegar com um animal herido o enfermo para ser triado.",
       "tipsPt": [
         "Guarda o número de urgências 24h 944 212 212 (Veterinária Bilbao) em tu teléfono antes de chegar: verificado não sitio oficial da clínica.",
@@ -741,19 +741,19 @@
       "titleEn": "Pet Travel Tips for Bilbao",
       "titleFr": "Conseils voyage avec animaux à Bilbao",
       "titleEs": "Consejos para viajar con mascotas en Bilbao",
-      "introEn": "Bilbao and the wider Basque Country rank among Spain's most dog-friendly destinations — the regional government actively promotes dog tourism and most locals are culturally welcoming to well-behaved pets. A few specific rules make life easier: Spanish law requires an EU pet passport with up-to-date rabies vaccination, a microchip, and a leash in all public spaces.",
-      "introFr": "Bilbao et le Pays Basque figurent parmi les destinations les plus dog-friendly d'Espagne — le gouvernement régional fait la promotion active du tourisme canin et la grande majorité des locaux accueille chaleureusement les animaux bien tenus. Quelques règles spécifiques facilitent le voyage : la loi espagnole exige un passeport européen pour animaux avec vaccination antirabique à jour, une puce électronique et une laisse dans tous les espaces publics.",
+      "introEn": "Bilbao and the wider Basque Country rank among Spain's most dog-friendly destinations, the regional government actively promotes dog tourism and most locals are culturally welcoming to well-behaved pets. A few specific rules make life easier: Spanish law requires an EU pet passport with up-to-date rabies vaccination, a microchip, and a leash in all public spaces.",
+      "introFr": "Bilbao et le Pays Basque figurent parmi les destinations les plus dog-friendly d'Espagne, le gouvernement régional fait la promotion active du tourisme canin et la grande majorité des locaux accueille chaleureusement les animaux bien tenus. Quelques règles spécifiques facilitent le voyage : la loi espagnole exige un passeport européen pour animaux avec vaccination antirabique à jour, une puce électronique et une laisse dans tous les espaces publics.",
       "introEs": "Bilbao y el País Vasco se encuentran entre los destinos más dog-friendly de España: el gobierno regional promueve activamente el turismo canino y la mayoría de los locales son culturalmente acogedores con las mascotas bien portadas. Unas pocas normas específicas facilitan la vida: la ley española exige pasaporte europeo con vacunación antirrábica al día, microchip y correa en todos los espacios públicos.",
       "places": [],
       "tipsEn": [
-        "Carry your EU pet passport at all times — Spanish authorities can request it at any public venue, beach, or park where pets are regulated.",
-        "The Basque Country's official dog-friendly guide ('Euskadi con Perro') is available free at Bilbao's tourist offices and downloadable from turismo.euskadi.eus — it lists verified restaurants, hotels, and attractions.",
-        "The Nervión riverside walk from the Casco Viejo to the Guggenheim is 4 km, flat, fully dog-friendly, and lined with dog-welcoming cafés — the best single route for a first half-day in Bilbao with your dog."
+        "Carry your EU pet passport at all times, Spanish authorities can request it at any public venue, beach, or park where pets are regulated.",
+        "The Basque Country's official dog-friendly guide ('Euskadi con Perro') is available free at Bilbao's tourist offices and downloadable from turismo.euskadi.eus, it lists verified restaurants, hotels, and attractions.",
+        "The Nervión riverside walk from the Casco Viejo to the Guggenheim is 4 km, flat, fully dog-friendly, and lined with dog-welcoming cafés, the best single route for a first half-day in Bilbao with your dog."
       ],
       "tipsFr": [
-        "Ayez toujours votre passeport européen pour animaux — les autorités espagnoles peuvent le demander dans les espaces publics, plages ou parcs soumis à réglementation canine.",
-        "Le guide dog-friendly officiel du Pays Basque ('Euskadi con Perro') est disponible gratuitement dans les offices de tourisme de Bilbao et téléchargeable sur turismo.euskadi.eus — il répertorie restaurants, hôtels et attractions vérifiés.",
-        "La promenade en bord de Nervión du Casco Viejo au Guggenheim fait 4 km, est plate, entièrement dog-friendly et bordée de cafés accueillants — le meilleur itinéraire unique pour une première demi-journée à Bilbao avec votre chien."
+        "Ayez toujours votre passeport européen pour animaux, les autorités espagnoles peuvent le demander dans les espaces publics, plages ou parcs soumis à réglementation canine.",
+        "Le guide dog-friendly officiel du Pays Basque ('Euskadi con Perro') est disponible gratuitement dans les offices de tourisme de Bilbao et téléchargeable sur turismo.euskadi.eus, il répertorie restaurants, hôtels et attractions vérifiés.",
+        "La promenade en bord de Nervión du Casco Viejo au Guggenheim fait 4 km, est plate, entièrement dog-friendly et bordée de cafés accueillants, le meilleur itinéraire unique pour une première demi-journée à Bilbao avec votre chien."
       ],
       "tipsEs": [
         "Lleva siempre tu pasaporte europeo para animales: las autoridades españolas pueden solicitarlo en espacios públicos, playas o parques sujetos a normativa canina.",
@@ -763,7 +763,7 @@
       "faqsEn": [
         {
           "q": "Is Bilbao a good city to visit with a dog?",
-          "a": "Yes — Bilbao and the Basque Country are consistently rated among Spain's most dog-friendly regions. The tram accepts all dogs, many pintxos bars welcome dogs indoors, and the city has well-maintained off-leash parks."
+          "a": "Yes, Bilbao and the Basque Country are consistently rated among Spain's most dog-friendly regions. The tram accepts all dogs, many pintxos bars welcome dogs indoors, and the city has well-maintained off-leash parks."
         },
         {
           "q": "What documents do I need to bring my dog to Bilbao?",
@@ -771,13 +771,13 @@
         },
         {
           "q": "Are dogs allowed in Bilbao's Guggenheim Museum?",
-          "a": "Dogs are not allowed inside the Guggenheim Museum, but the outdoor sculpture garden — including the famous 'Puppy' by Jeff Koons — is fully accessible and a popular photo spot for visiting dogs."
+          "a": "Dogs are not allowed inside the Guggenheim Museum, but the outdoor sculpture garden, including the famous 'Puppy' by Jeff Koons, is fully accessible and a popular photo spot for visiting dogs."
         }
       ],
       "faqsFr": [
         {
           "q": "Bilbao est-elle une bonne ville pour visiter avec un chien ?",
-          "a": "Oui — Bilbao et le Pays Basque figurent régulièrement parmi les régions les plus dog-friendly d'Espagne. Le tram accepte tous les chiens, de nombreux bars à pintxos accueillent les chiens en intérieur, et la ville dispose de parcs hors laisse bien entretenus."
+          "a": "Oui, Bilbao et le Pays Basque figurent régulièrement parmi les régions les plus dog-friendly d'Espagne. Le tram accepte tous les chiens, de nombreux bars à pintxos accueillent les chiens en intérieur, et la ville dispose de parcs hors laisse bien entretenus."
         },
         {
           "q": "Quels documents faut-il pour emmener son chien à Bilbao ?",
@@ -785,7 +785,7 @@
         },
         {
           "q": "Les chiens sont-ils autorisés au musée Guggenheim de Bilbao ?",
-          "a": "Les chiens ne sont pas admis à l'intérieur du musée Guggenheim, mais le jardin de sculptures extérieur — dont le célèbre 'Puppy' de Jeff Koons — est entièrement accessible et très prisé pour les photos avec les chiens en visite."
+          "a": "Les chiens ne sont pas admis à l'intérieur du musée Guggenheim, mais le jardin de sculptures extérieur, dont le célèbre 'Puppy' de Jeff Koons, est entièrement accessible et très prisé pour les photos avec les chiens en visite."
         }
       ],
       "faqsEs": [
@@ -828,8 +828,8 @@
       "titleEn": "Dog-Friendly Attractions in Bilbao",
       "titleFr": "Attractions accessibles aux chiens à Bilbao",
       "titleEs": "Atracciones dog-friendly en Bilbao",
-      "introEn": "Bilbao's most iconic sights are all outdoors and fully accessible with dogs — the city's compact layout means a single riverside walk connects the Casco Viejo, the Guggenheim's outdoor sculptures, and the Abandoibarra waterfront in one seamless loop. Museum interiors do not allow pets, but the architecture and art are designed to be experienced from the outside too.",
-      "introFr": "Les sites les plus emblématiques de Bilbao sont tous en extérieur et entièrement accessibles avec des chiens — la configuration compacte de la ville permet de relier le Casco Viejo, les sculptures extérieures du Guggenheim et le front de mer d'Abandoibarra en une seule promenade continue. Les intérieurs des musées n'acceptent pas les animaux, mais l'architecture et l'art ont été conçus pour être appréciés de l'extérieur aussi.",
+      "introEn": "Bilbao's most iconic sights are all outdoors and fully accessible with dogs, the city's compact layout means a single riverside walk connects the Casco Viejo, the Guggenheim's outdoor sculptures, and the Abandoibarra waterfront in one seamless loop. Museum interiors do not allow pets, but the architecture and art are designed to be experienced from the outside too.",
+      "introFr": "Les sites les plus emblématiques de Bilbao sont tous en extérieur et entièrement accessibles avec des chiens, la configuration compacte de la ville permet de relier le Casco Viejo, les sculptures extérieures du Guggenheim et le front de mer d'Abandoibarra en une seule promenade continue. Les intérieurs des musées n'acceptent pas les animaux, mais l'architecture et l'art ont été conçus pour être appréciés de l'extérieur aussi.",
       "introEs": "Los lugares más emblemáticos de Bilbao son todos exteriores y totalmente accesibles con perros: el diseño compacto de la ciudad permite conectar el Casco Viejo, las esculturas exteriores del Guggenheim y el paseo marítimo de Abandoibarra en un único recorrido continuo. Los interiores de los museos no admiten mascotas, pero la arquitectura y el arte están diseñados para disfrutarse también desde fuera.",
       "places": [
         {
@@ -838,19 +838,19 @@
           "neighborhood": "Abandoibarra",
           "photo": "/images/city-places/bilbao-attractions-guggenheim-museum-exterior-puppy-sculpture.jpg",
           "website": "https://www.guggenheim-bilbao.eus/en/",
-          "description": "The Guggenheim Bilbao's titanium exterior and sculpture garden are fully dog-friendly — the famous 'Puppy' by Jeff Koons, a 12-metre West Highland Terrier covered in flowers, stands at the main entrance and is the must-do photo stop for visiting dogs. The surrounding riverside esplanade is pedestrianised and beautifully designed for walking.",
-          "descriptionFr": "L'extérieur en titane du Guggenheim Bilbao et son jardin de sculptures sont entièrement dog-friendly — le célèbre 'Puppy' de Jeff Koons, un West Highland Terrier de 12 mètres recouvert de fleurs, trône à l'entrée principale et est l'arrêt photo incontournable pour les chiens visiteurs. L'esplanade riveraine environnante est piétonnisée et admirablement conçue pour la promenade.",
+          "description": "The Guggenheim Bilbao's titanium exterior and sculpture garden are fully dog-friendly, the famous 'Puppy' by Jeff Koons, a 12-metre West Highland Terrier covered in flowers, stands at the main entrance and is the must-do photo stop for visiting dogs. The surrounding riverside esplanade is pedestrianised and beautifully designed for walking.",
+          "descriptionFr": "L'extérieur en titane du Guggenheim Bilbao et son jardin de sculptures sont entièrement dog-friendly, le célèbre 'Puppy' de Jeff Koons, un West Highland Terrier de 12 mètres recouvert de fleurs, trône à l'entrée principale et est l'arrêt photo incontournable pour les chiens visiteurs. L'esplanade riveraine environnante est piétonnisée et admirablement conçue pour la promenade.",
           "descriptionEs": "El exterior de titanio del Guggenheim Bilbao y su jardín de esculturas son totalmente dog-friendly: el famoso 'Puppy' de Jeff Koons, un West Highland Terrier de 12 metros cubierto de flores, preside la entrada principal y es la parada fotográfica imprescindible para los perros visitantes. La esplanada fluvial circundante está peatonalizada y magníficamente diseñada para pasear.",
           "petPolicy": "Outdoor areas and sculpture garden fully dog-friendly; museum interior does not allow pets",
           "petPolicyFr": "Espaces extérieurs et jardin de sculptures entièrement dog-friendly ; intérieur du musée interdit aux animaux",
           "petPolicyEs": "Zonas exteriores y jardín de esculturas totalmente dog-friendly; interior del museo no admite mascotas",
           "priceRange": "Free (outdoor areas)",
-          "mustTry": "Photo with your dog in front of 'Puppy' — morning light (before 10:00) is best before tour groups arrive",
-          "mustTryFr": "Photo avec votre chien devant 'Puppy' — la lumière du matin (avant 10h) est idéale avant l'arrivée des groupes",
+          "mustTry": "Photo with your dog in front of 'Puppy', morning light (before 10:00) is best before tour groups arrive",
+          "mustTryFr": "Photo avec votre chien devant 'Puppy', la lumière du matin (avant 10h) est idéale avant l'arrivée des groupes",
           "mustTryEs": "Foto con tu perro delante de 'Puppy': la luz de la mañana (antes de las 10:00) es la mejor antes de que lleguen los grupos",
           "openingHours": "Outdoor areas open 24 hours; sculpture garden accessible during museum hours (Tue–Sun 10:00–19:00)",
-          "tip": "Walk around the full perimeter of the building — the rear riverside terrace offers the most dramatic architectural views and is usually quieter than the main plaza.",
-          "tipFr": "Faites le tour complet du bâtiment — la terrasse arrière côté rivière offre les vues architecturales les plus dramatiques et est généralement plus calme que la plaza principale.",
+          "tip": "Walk around the full perimeter of the building, the rear riverside terrace offers the most dramatic architectural views and is usually quieter than the main plaza.",
+          "tipFr": "Faites le tour complet du bâtiment, la terrasse arrière côté rivière offre les vues architecturales les plus dramatiques et est généralement plus calme que la plaza principale.",
           "tipEs": "Da la vuelta completa al edificio: la terraza trasera junto al río ofrece las vistas arquitectónicas más espectaculares y suele estar más tranquila que la plaza principal.",
           "googleMapsUrl": "https://maps.google.com/?q=Guggenheim+Museum+Bilbao",
           "descriptionPt": "O exterior de titanio do Guggenheim Bilbao e o seu jardim de esculturas são totalmente pet-friendly: o famoso 'Puppy' de Jeff Koons, um West Highland Terrier de 12 metros cubierto de flores, preside a entrada principal e é a paragem fotográfica imprescindible para os cães visitantes. A esplanada fluvial circundante está peatonalizada e magníficamente disenhada para passear.",
@@ -859,24 +859,24 @@
           "tipPt": "Da a vuelta completa al edifício: a esplanada trasera junto ao rio ofrece as vistas arquitetónicas mais espectaculares e costuma estar mais tranquila que a praça principal."
         },
         {
-          "name": "Casco Viejo — Seven Streets Walk",
+          "name": "Casco Viejo, Seven Streets Walk",
           "address": "Casco Viejo, 48005 Bilbao",
           "neighborhood": "Casco Viejo (Old Town)",
           "photo": "/images/city-places/bilbao-attractions-casco-viejo-seven-streets-walk.jpg",
           "website": "https://www.bilbaoturismo.net/BilbaoTurismo/en/bilbao-dog-friendly",
-          "description": "The Siete Calles (Seven Streets) form the medieval core of Bilbao — a labyrinth of narrow lanes, pintxos bars, and arcaded squares where dogs walk freely on leash alongside locals doing their evening txikiteo (bar hop). The Cathedral of Santiago and the Arenal riverside promenade bookend the walk beautifully.",
-          "descriptionFr": "Les Siete Calles (Sept Rues) forment le cœur médiéval de Bilbao — un labyrinthe de ruelles étroites, de bars à pintxos et de places à arcades où les chiens se promènent librement en laisse avec les locaux lors du txikiteo (tour des bars) du soir. La cathédrale de Santiago et la promenade riveraine de l'Arenal encadrent magnifiquement la balade.",
+          "description": "The Siete Calles (Seven Streets) form the medieval core of Bilbao, a labyrinth of narrow lanes, pintxos bars, and arcaded squares where dogs walk freely on leash alongside locals doing their evening txikiteo (bar hop). The Cathedral of Santiago and the Arenal riverside promenade bookend the walk beautifully.",
+          "descriptionFr": "Les Siete Calles (Sept Rues) forment le cœur médiéval de Bilbao, un labyrinthe de ruelles étroites, de bars à pintxos et de places à arcades où les chiens se promènent librement en laisse avec les locaux lors du txikiteo (tour des bars) du soir. La cathédrale de Santiago et la promenade riveraine de l'Arenal encadrent magnifiquement la balade.",
           "descriptionEs": "Las Siete Calles forman el núcleo medieval de Bilbao: un laberinto de callejuelas estrechas, bares de pintxos y plazas porticadas donde los perros pasean libremente con correa junto a los locales durante el txikiteo vespertino. La Catedral de Santiago y el paseo fluvial del Arenal enmarcan el recorrido a la perfección.",
           "petPolicy": "Fully dog-friendly outdoor streets; many pintxos bars welcome dogs inside",
           "petPolicyFr": "Rues extérieures entièrement dog-friendly ; de nombreux bars à pintxos acceptent les chiens en intérieur",
           "petPolicyEs": "Calles exteriores totalmente dog-friendly; muchos bares de pintxos admiten perros en interior",
           "priceRange": "Free",
-          "mustTry": "Join the txikiteo (pintxos bar hop) between 19:00 and 21:00 — the most authentic Bilbao experience",
-          "mustTryFr": "Participez au txikiteo (tournée des bars à pintxos) entre 19h et 21h — l'expérience la plus authentique de Bilbao",
+          "mustTry": "Join the txikiteo (pintxos bar hop) between 19:00 and 21:00, the most authentic Bilbao experience",
+          "mustTryFr": "Participez au txikiteo (tournée des bars à pintxos) entre 19h et 21h, l'expérience la plus authentique de Bilbao",
           "mustTryEs": "Únete al txikiteo (recorrido de bares de pintxos) entre las 19:00 y las 21:00: la experiencia más auténtica de Bilbao",
           "openingHours": "Open 24 hours (streets); bars typically 11:00–23:00",
-          "tip": "The Mercado de la Ribera (Bilbao's covered market) is on the riverfront at the edge of the Casco Viejo — dogs are welcome in the outdoor market square but not inside the covered market building.",
-          "tipFr": "Le Mercado de la Ribera (le marché couvert de Bilbao) se trouve en bord de fleuve à l'entrée du Casco Viejo — les chiens sont bienvenus sur la place du marché extérieure mais pas à l'intérieur du bâtiment.",
+          "tip": "The Mercado de la Ribera (Bilbao's covered market) is on the riverfront at the edge of the Casco Viejo, dogs are welcome in the outdoor market square but not inside the covered market building.",
+          "tipFr": "Le Mercado de la Ribera (le marché couvert de Bilbao) se trouve en bord de fleuve à l'entrée du Casco Viejo, les chiens sont bienvenus sur la place du marché extérieure mais pas à l'intérieur du bâtiment.",
           "tipEs": "El Mercado de la Ribera (el mercado cubierto de Bilbao) está en la orilla del río en el borde del Casco Viejo: los perros son bienvenidos en la plaza exterior del mercado pero no dentro del edificio cubierto.",
           "googleMapsUrl": "https://maps.google.com/?q=Casco+Viejo+Bilbao+Siete+Calles",
           "descriptionPt": "As Sete Ruas forman o núcleo medieval de Bilbao: um laberinto de callejuelas estrechas, bares de pintxos e praças porticadas onde os cães pasean libremente com trela junto aos locales durante o txikiteo vespertino. A Catedral de Santiago e o passeio fluvial do Arenal enmarcan o recorrido a perfección.",
@@ -890,19 +890,19 @@
           "neighborhood": "Funicular lower station (Casco Viejo)",
           "photo": "/images/city-places/bilbao-attractions-artxanda-funicular-summit-walk.jpg",
           "website": "https://www.bilbaoturismo.net/BilbaoTurismo/en/bilbao-dog-friendly",
-          "description": "The Artxanda Funicular is the most dog-friendly ride in Bilbao — a dedicated compartment for dogs (confirmed by Bilbao Tourism) carries you up to the 255-metre summit in 3 minutes, where open parkland and panoramic city views await. The summit area has wide grassy paths where dogs can walk freely.",
-          "descriptionFr": "Le funiculaire d'Artxanda est le trajet le plus dog-friendly de Bilbao — un compartiment dédié aux chiens (confirmé par Bilbao Tourisme) vous hisse jusqu'au sommet à 255 mètres en 3 minutes, où des espaces verdoyants et des vues panoramiques sur la ville vous attendent. La zone sommitale dispose de larges sentiers herbeux où les chiens peuvent se promener librement.",
+          "description": "The Artxanda Funicular is the most dog-friendly ride in Bilbao, a dedicated compartment for dogs (confirmed by Bilbao Tourism) carries you up to the 255-metre summit in 3 minutes, where open parkland and panoramic city views await. The summit area has wide grassy paths where dogs can walk freely.",
+          "descriptionFr": "Le funiculaire d'Artxanda est le trajet le plus dog-friendly de Bilbao, un compartiment dédié aux chiens (confirmé par Bilbao Tourisme) vous hisse jusqu'au sommet à 255 mètres en 3 minutes, où des espaces verdoyants et des vues panoramiques sur la ville vous attendent. La zone sommitale dispose de larges sentiers herbeux où les chiens peuvent se promener librement.",
           "descriptionEs": "El Funicular de Artxanda es el trayecto más dog-friendly de Bilbao: un vagón dedicado para perros (confirmado por Turismo de Bilbao) te lleva a la cima a 255 metros en 3 minutos, donde te esperan zonas verdes abiertas y vistas panorámicas de la ciudad. La zona de la cima tiene amplios senderos con hierba donde los perros pueden caminar libremente.",
           "petPolicy": "Dogs welcome in dedicated compartment; summit area fully dog-friendly",
           "petPolicyFr": "Chiens bienvenus dans le compartiment dédié ; zone sommitale entièrement dog-friendly",
           "petPolicyEs": "Perros bienvenidos en vagón dedicado; zona de la cima totalmente dog-friendly",
           "priceRange": "€ (under €2 per trip)",
-          "mustTry": "Sunset from the summit terrace looking over Bilbao's river valley — unmissable with clear skies",
-          "mustTryFr": "Coucher de soleil depuis la terrasse sommitale sur la vallée fluviale de Bilbao — incontournable par ciel dégagé",
+          "mustTry": "Sunset from the summit terrace looking over Bilbao's river valley, unmissable with clear skies",
+          "mustTryFr": "Coucher de soleil depuis la terrasse sommitale sur la vallée fluviale de Bilbao, incontournable par ciel dégagé",
           "mustTryEs": "Puesta de sol desde la terraza de la cima mirando el valle fluvial de Bilbao: imprescindible con cielo despejado",
           "openingHours": "Mon–Sat 07:15–22:00, Sun 08:15–22:00",
-          "tip": "The funicular runs every 15 minutes — no booking needed, just arrive at Plaza del Funicular and queue. At weekends arrive before 10:30 to avoid the family rush.",
-          "tipFr": "Le funiculaire fonctionne toutes les 15 minutes — pas de réservation, arrivez Plaza del Funicular et faites la queue. Le week-end, arrivez avant 10h30 pour éviter l'affluence familiale.",
+          "tip": "The funicular runs every 15 minutes, no booking needed, just arrive at Plaza del Funicular and queue. At weekends arrive before 10:30 to avoid the family rush.",
+          "tipFr": "Le funiculaire fonctionne toutes les 15 minutes, pas de réservation, arrivez Plaza del Funicular et faites la queue. Le week-end, arrivez avant 10h30 pour éviter l'affluence familiale.",
           "tipEs": "El funicular funciona cada 15 minutos: no se necesita reserva, solo llega a la Plaza del Funicular y haz cola. Los fines de semana, llega antes de las 10:30 para evitar la avalancha familiar.",
           "googleMapsUrl": "https://maps.google.com/?q=Funicular+Artxanda+Bilbao+Plaza+del+Funicular",
           "descriptionPt": "O Funicular de Artxanda é o trayecto mais pet-friendly de Bilbao: um vagón dedicado para cães (confirmado por Turismo de Bilbao) te leva a cima a 255 metros em 3 minutos, onde te esperan zonas verdes abertas e vistas panorámicas da cidade. A zona da cima tem amplios trilhos com hierba onde os cães podem caminhar libremente.",
@@ -912,14 +912,14 @@
         }
       ],
       "tipsEn": [
-        "The Guggenheim interior does not allow dogs, but the Guggenheim's own website confirms the outdoor sculptures and garden are accessible — the 'Inside Puppy Tours' (special events) are the only indoor dog events.",
-        "Bilbao's Abandoibarra waterfront district was purpose-built as a public promenade — wide, flat, and fully dog-friendly from the Guggenheim to La Salve bridge.",
-        "The Zubizuri pedestrian bridge (designed by Santiago Calatrava) is one of Bilbao's most photogenic spots for a dog photo — check that your dog is comfortable on the glass walkway before crossing."
+        "The Guggenheim interior does not allow dogs, but the Guggenheim's own website confirms the outdoor sculptures and garden are accessible, the 'Inside Puppy Tours' (special events) are the only indoor dog events.",
+        "Bilbao's Abandoibarra waterfront district was purpose-built as a public promenade, wide, flat, and fully dog-friendly from the Guggenheim to La Salve bridge.",
+        "The Zubizuri pedestrian bridge (designed by Santiago Calatrava) is one of Bilbao's most photogenic spots for a dog photo, check that your dog is comfortable on the glass walkway before crossing."
       ],
       "tipsFr": [
-        "L'intérieur du Guggenheim n'accepte pas les chiens, mais le site officiel du Guggenheim confirme que les sculptures extérieures et le jardin sont accessibles — les 'Inside Puppy Tours' (événements spéciaux) sont les seuls événements canins en intérieur.",
-        "Le quartier de bord de mer d'Abandoibarra à Bilbao a été conçu comme promenade publique — large, plat et entièrement dog-friendly du Guggenheim au pont de La Salve.",
-        "Le pont piéton Zubizuri (conçu par Santiago Calatrava) est l'un des spots les plus photogéniques de Bilbao pour une photo avec son chien — vérifiez que votre chien est à l'aise sur la passerelle en verre avant de traverser."
+        "L'intérieur du Guggenheim n'accepte pas les chiens, mais le site officiel du Guggenheim confirme que les sculptures extérieures et le jardin sont accessibles, les 'Inside Puppy Tours' (événements spéciaux) sont les seuls événements canins en intérieur.",
+        "Le quartier de bord de mer d'Abandoibarra à Bilbao a été conçu comme promenade publique, large, plat et entièrement dog-friendly du Guggenheim au pont de La Salve.",
+        "Le pont piéton Zubizuri (conçu par Santiago Calatrava) est l'un des spots les plus photogéniques de Bilbao pour une photo avec son chien, vérifiez que votre chien est à l'aise sur la passerelle en verre avant de traverser."
       ],
       "tipsEs": [
         "El interior del Guggenheim no admite perros, pero el propio sitio web del Guggenheim confirma que las esculturas exteriores y el jardín son accesibles: los 'Inside Puppy Tours' (eventos especiales) son los únicos eventos caninos en interior.",
@@ -929,29 +929,29 @@
       "faqsEn": [
         {
           "q": "Can I visit the Guggenheim Bilbao with my dog?",
-          "a": "You can visit the outdoor areas, sculpture garden, and see the famous 'Puppy' sculpture — all fully dog-friendly. The museum interior does not allow dogs."
+          "a": "You can visit the outdoor areas, sculpture garden, and see the famous 'Puppy' sculpture, all fully dog-friendly. The museum interior does not allow dogs."
         },
         {
           "q": "Is the Casco Viejo dog-friendly?",
-          "a": "Yes — the streets, squares, and riverside of the Casco Viejo are fully dog-friendly. Many pintxos bars officially welcome dogs indoors. Keep your dog on a leash as the area can get busy."
+          "a": "Yes, the streets, squares, and riverside of the Casco Viejo are fully dog-friendly. Many pintxos bars officially welcome dogs indoors. Keep your dog on a leash as the area can get busy."
         },
         {
           "q": "Can dogs go on the Artxanda Funicular?",
-          "a": "Yes — the Artxanda Funicular has a dedicated dog compartment, confirmed by Bilbao Tourism. No size restriction is mentioned; all sizes are welcome."
+          "a": "Yes, the Artxanda Funicular has a dedicated dog compartment, confirmed by Bilbao Tourism. No size restriction is mentioned; all sizes are welcome."
         }
       ],
       "faqsFr": [
         {
           "q": "Puis-je visiter le Guggenheim Bilbao avec mon chien ?",
-          "a": "Vous pouvez visiter les espaces extérieurs, le jardin de sculptures et voir la célèbre sculpture 'Puppy' — le tout entièrement dog-friendly. L'intérieur du musée n'accepte pas les chiens."
+          "a": "Vous pouvez visiter les espaces extérieurs, le jardin de sculptures et voir la célèbre sculpture 'Puppy', le tout entièrement dog-friendly. L'intérieur du musée n'accepte pas les chiens."
         },
         {
           "q": "Le Casco Viejo est-il dog-friendly ?",
-          "a": "Oui — les rues, places et berges du Casco Viejo sont entièrement dog-friendly. De nombreux bars à pintxos accueillent officiellement les chiens en intérieur. Gardez votre chien en laisse car le quartier peut être très fréquenté."
+          "a": "Oui, les rues, places et berges du Casco Viejo sont entièrement dog-friendly. De nombreux bars à pintxos accueillent officiellement les chiens en intérieur. Gardez votre chien en laisse car le quartier peut être très fréquenté."
         },
         {
           "q": "Les chiens peuvent-ils prendre le funiculaire d'Artxanda ?",
-          "a": "Oui — le funiculaire d'Artxanda dispose d'un compartiment dédié aux chiens, confirmé par Bilbao Tourisme. Aucune restriction de taille n'est mentionnée ; toutes les tailles sont acceptées."
+          "a": "Oui, le funiculaire d'Artxanda dispose d'un compartiment dédié aux chiens, confirmé par Bilbao Tourisme. Aucune restriction de taille n'est mentionnée ; toutes les tailles sont acceptées."
         }
       ],
       "faqsEs": [
@@ -1000,22 +1000,22 @@
       "places": [
         {
           "name": "Pawshake Bilbao",
-          "address": "Online platform — sitters throughout Bilbao",
+          "address": "Online platform, sitters throughout Bilbao",
           "neighborhood": "City-wide",
           "website": "https://en.pawshake.es/petsitters/bilbao",
           "description": "Bilbao's most reliable pet-sitting platform with verified local sitters offering home boarding, drop-in visits, and dog walking throughout the city. All bookings include veterinary coverage and 24/7 customer support through the Pawshake Guarantee.",
           "descriptionFr": "La plateforme de pet-sitting la plus fiable à Bilbao, avec des gardiens locaux vérifiés proposant hébergement à domicile, visites à domicile et promenades dans toute la ville. Toutes les réservations incluent une couverture vétérinaire et un support 24h/24 via la Garantie Pawshake.",
           "descriptionEs": "La plataforma de cuidado de mascotas más fiable de Bilbao, con cuidadores locales verificados que ofrecen alojamiento doméstico, visitas a domicilio y paseos por toda la ciudad. Todas las reservas incluyen cobertura veterinaria y atención al cliente 24/7 a través de la Garantía Pawshake.",
-          "petPolicy": "Home boarding, day care, dog walking — all covered with insurance",
-          "petPolicyFr": "Hébergement à domicile, garde à la journée, promenade — tout couvert avec assurance",
+          "petPolicy": "Home boarding, day care, dog walking, all covered with insurance",
+          "petPolicyFr": "Hébergement à domicile, garde à la journée, promenade, tout couvert avec assurance",
           "petPolicyEs": "Alojamiento en casa, guardería diurna, paseos: todo cubierto con seguro",
           "priceRange": "€€",
-          "mustTry": "Book at least 72h in advance for weekend dates — popular Bilbao sitters fill fast in high season",
-          "mustTryFr": "Réservez au moins 72h à l'avance pour les week-ends — les bons gardiens se remplissent vite en haute saison",
+          "mustTry": "Book at least 72h in advance for weekend dates, popular Bilbao sitters fill fast in high season",
+          "mustTryFr": "Réservez au moins 72h à l'avance pour les week-ends, les bons gardiens se remplissent vite en haute saison",
           "mustTryEs": "Reserva con al menos 72 h de antelación para los fines de semana: los cuidadores populares de Bilbao se llenan rápido en temporada alta",
-          "openingHours": "Booking platform — available 24/7 online",
-          "tip": "Use the neighbourhood filter on Pawshake to find a sitter within walking distance of your hotel — most Bilbao sitters are concentrated in Abando and Indautxu.",
-          "tipFr": "Utilisez le filtre de quartier sur Pawshake pour trouver un gardien à distance de marche de votre hôtel — la plupart des gardiens bilbaïns sont concentrés dans Abando et Indautxu.",
+          "openingHours": "Booking platform, available 24/7 online",
+          "tip": "Use the neighbourhood filter on Pawshake to find a sitter within walking distance of your hotel, most Bilbao sitters are concentrated in Abando and Indautxu.",
+          "tipFr": "Utilisez le filtre de quartier sur Pawshake pour trouver un gardien à distance de marche de votre hôtel, la plupart des gardiens bilbaïns sont concentrés dans Abando et Indautxu.",
           "tipEs": "Usa el filtro de barrio en Pawshake para encontrar un cuidador a poca distancia de tu hotel: la mayoría de los cuidadores bilbaínos se concentran en Abando e Indautxu.",
           "googleMapsUrl": "https://maps.google.com/?q=Bilbao+Spain",
           "descriptionPt": "A plataforma de cuidado de animais mais fiable de Bilbao, com cuidadores locales verificados que ofrecen alojamento doméstico, visitas a domicilio e passeios por toda a cidade. Todas as reservas incluyen cobertura veterinária e atención al cliente 24/7 a través da Garantía Pawshake.",
@@ -1025,13 +1025,13 @@
         }
       ],
       "tipsEn": [
-        "Pawshake is the most reliable platform for Bilbao pet-sitting — use the neighbourhood filter to find sitters close to your hotel in Abando or Indautxu.",
-        "TrustedHousesitters is an alternative for longer stays where a sitter comes to your accommodation — useful if you have multiple pets.",
+        "Pawshake is the most reliable platform for Bilbao pet-sitting, use the neighbourhood filter to find sitters close to your hotel in Abando or Indautxu.",
+        "TrustedHousesitters is an alternative for longer stays where a sitter comes to your accommodation, useful if you have multiple pets.",
         "Book pet care at least a week in advance for summer visits (June–September) and during the Aste Nagusia festival week in August when demand peaks."
       ],
       "tipsFr": [
-        "Pawshake est la plateforme la plus fiable pour le pet-sitting à Bilbao — utilisez le filtre de quartier pour trouver des gardiens proches de votre hôtel dans Abando ou Indautxu.",
-        "TrustedHousesitters est une alternative pour les séjours plus longs où un gardien vient chez vous — utile si vous avez plusieurs animaux.",
+        "Pawshake est la plateforme la plus fiable pour le pet-sitting à Bilbao, utilisez le filtre de quartier pour trouver des gardiens proches de votre hôtel dans Abando ou Indautxu.",
+        "TrustedHousesitters est une alternative pour les séjours plus longs où un gardien vient chez vous, utile si vous avez plusieurs animaux.",
         "Réservez la garde animaux au moins une semaine à l'avance pour les visites estivales (juin–septembre) et pendant la semaine de l'Aste Nagusia en août quand la demande est à son comble."
       ],
       "tipsEs": [
@@ -1042,11 +1042,11 @@
       "faqsEn": [
         {
           "q": "Where can I find a dog sitter in Bilbao?",
-          "a": "Pawshake (pawshake.es) is the best option for Bilbao — local verified sitters offer home boarding, drop-in visits, and dog walking with insurance coverage on every booking."
+          "a": "Pawshake (pawshake.es) is the best option for Bilbao, local verified sitters offer home boarding, drop-in visits, and dog walking with insurance coverage on every booking."
         },
         {
           "q": "Is there a dog kennel near Bilbao city centre?",
-          "a": "Traditional kennels are located in the outskirts. For city stays, Pawshake home boarding is more practical and typically less stressful for dogs — sitters usually take only one or two dogs at a time."
+          "a": "Traditional kennels are located in the outskirts. For city stays, Pawshake home boarding is more practical and typically less stressful for dogs, sitters usually take only one or two dogs at a time."
         },
         {
           "q": "How much does dog boarding cost in Bilbao?",
@@ -1056,11 +1056,11 @@
       "faqsFr": [
         {
           "q": "Où trouver un dog-sitter à Bilbao ?",
-          "a": "Pawshake (pawshake.es) est la meilleure option à Bilbao — des gardiens locaux vérifiés proposent hébergement à domicile, visites et promenades avec couverture assurance sur chaque réservation."
+          "a": "Pawshake (pawshake.es) est la meilleure option à Bilbao, des gardiens locaux vérifiés proposent hébergement à domicile, visites et promenades avec couverture assurance sur chaque réservation."
         },
         {
           "q": "Y a-t-il un chenil près du centre-ville de Bilbao ?",
-          "a": "Les chenils traditionnels se trouvent en périphérie. Pour les séjours en ville, l'hébergement Pawshake à domicile est plus pratique et généralement moins stressant pour les chiens — les gardiens n'accueillent généralement qu'un ou deux chiens à la fois."
+          "a": "Les chenils traditionnels se trouvent en périphérie. Pour les séjours en ville, l'hébergement Pawshake à domicile est plus pratique et généralement moins stressant pour les chiens, les gardiens n'accueillent généralement qu'un ou deux chiens à la fois."
         },
         {
           "q": "Combien coûte la pension pour chien à Bilbao ?",

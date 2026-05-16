@@ -9,9 +9,9 @@
       "titleEn": "Dog-Friendly Restaurants in Faro",
       "titleFr": "Restaurants dog-friendly à Faro",
       "titleEs": "Restaurantes dog-friendly en Faro",
-      "introEn": "Algarve café and tasca culture is reliably dog-friendly — leashed dogs are welcomed on terraces by default, water bowls appear without asking, and the marina-side esplanades and the Cidade Velha (Old Town) concentrate the best independent venues.",
-      "introFr": "La culture café et tasca de l'Algarve est fiablement dog-friendly — les chiens en laisse sont accueillis en terrasse par défaut, les gamelles apparaissent sans demander, et les esplanades du port de plaisance et la Cidade Velha (vieille ville) concentrent les meilleures adresses.",
-      "introEs": "La cultura del café y la tasca del Algarve es fiablemente dog-friendly — los perros con correa son admitidos en terraza por defecto, los boles aparecen sin pedirlos, y las esplanadas del puerto deportivo y la Cidade Velha (casco antiguo) concentran las mejores direcciones.",
+      "introEn": "Algarve café and tasca culture is reliably dog-friendly, leashed dogs are welcomed on terraces by default, water bowls appear without asking, and the marina-side esplanades and the Cidade Velha (Old Town) concentrate the best independent venues.",
+      "introFr": "La culture café et tasca de l'Algarve est fiablement dog-friendly, les chiens en laisse sont accueillis en terrasse par défaut, les gamelles apparaissent sans demander, et les esplanades du port de plaisance et la Cidade Velha (vieille ville) concentrent les meilleures adresses.",
+      "introEs": "La cultura del café y la tasca del Algarve es fiablemente dog-friendly, los perros con correa son admitidos en terraza por defecto, los boles aparecen sin pedirlos, y las esplanadas del puerto deportivo y la Cidade Velha (casco antiguo) concentran las mejores direcciones.",
       "places": [
         {
           "name": "Vila Adentro",
@@ -19,9 +19,9 @@
           "neighborhood": "Cidade Velha",
           "photo": "/images/city-places/faro-restaurants-vila-adentro.jpg",
           "website": "https://www.vilaadentro.pt/",
-          "description": "A traditional Algarvian restaurant inside the medieval Cidade Velha, just below the cathedral — cataplana, octopus rice, regional Algarve wines. Dogs welcome on the cobblestone front terrace year-round and inside outside peak service.",
-          "descriptionFr": "Restaurant algarvien traditionnel dans la Cidade Velha médiévale, juste sous la cathédrale — cataplana, riz au poulpe, vins de l'Algarve. Chiens bienvenus sur la terrasse pavée avant toute l'année et à l'intérieur hors heures de pointe.",
-          "descriptionEs": "Restaurante algarvense tradicional dentro de la Cidade Velha medieval, justo debajo de la catedral — cataplana, arroz de pulpo, vinos del Algarve. Perros bienvenidos en la terraza adoquinada delantera todo el año y dentro fuera de horas punta.",
+          "description": "A traditional Algarvian restaurant inside the medieval Cidade Velha, just below the cathedral, cataplana, octopus rice, regional Algarve wines. Dogs welcome on the cobblestone front terrace year-round and inside outside peak service.",
+          "descriptionFr": "Restaurant algarvien traditionnel dans la Cidade Velha médiévale, juste sous la cathédrale, cataplana, riz au poulpe, vins de l'Algarve. Chiens bienvenus sur la terrasse pavée avant toute l'année et à l'intérieur hors heures de pointe.",
+          "descriptionEs": "Restaurante algarvense tradicional dentro de la Cidade Velha medieval, justo debajo de la catedral, cataplana, arroz de pulpo, vinos del Algarve. Perros bienvenidos en la terraza adoquinada delantera todo el año y dentro fuera de horas punta.",
           "petPolicy": "Dogs on terrace + inside off-peak",
           "petPolicyFr": "Chiens en terrasse + intérieur hors heures de pointe",
           "petPolicyEs": "Perros en terraza + dentro fuera de horas punta",
@@ -30,14 +30,14 @@
           "mustTryFr": "Cataplana de fruits de mer, riz au poulpe, medronho",
           "mustTryEs": "Cataplana de marisco, arroz de pulpo, medronho",
           "openingHours": "Tue-Sun 12:00-15:30, 19:00-22:30; closed Monday",
-          "tip": "Reserve the cathedral-view corner table for the picture-perfect sunset — fills up fast in season (April-October).",
-          "tipFr": "Réservez la table d'angle vue cathédrale pour le coucher de soleil photo parfait — se remplit vite en saison (avril-octobre).",
-          "tipEs": "Reserva la mesa de esquina con vista a la catedral para la puesta de sol perfecta — se llena rápido en temporada (abril-octubre).",
+          "tip": "Reserve the cathedral-view corner table for the picture-perfect sunset, fills up fast in season (April-October).",
+          "tipFr": "Réservez la table d'angle vue cathédrale pour le coucher de soleil photo parfait, se remplit vite en saison (avril-octobre).",
+          "tipEs": "Reserva la mesa de esquina con vista a la catedral para la puesta de sol perfecta, se llena rápido en temporada (abril-octubre).",
           "googleMapsUrl": "https://maps.google.com/?q=Vila+Adentro+Faro",
-          "descriptionPt": "Restaurante algarvense tradicional dentro da Cidade Velha medieval, justo debajo da catedral — cataplana, arroz de pulpo, vinhos do Algarve. Cães bem-vindos na esplanada adoquinada delantera o ano inteiro e dentro fora de horas punta.",
+          "descriptionPt": "Restaurante algarvense tradicional dentro da Cidade Velha medieval, justo debajo da catedral, cataplana, arroz de pulpo, vinhos do Algarve. Cães bem-vindos na esplanada adoquinada delantera o ano inteiro e dentro fora de horas punta.",
           "petPolicyPt": "Cães em esplanada + dentro fora de horas punta",
           "mustTryPt": "Cataplana de marisco, arroz de pulpo, medronho",
-          "tipPt": "Reserva a mesa de esquina com vista para a catedral para a puesta de sol perfeita — se cheia rápido em temporada (abril-outubro)."
+          "tipPt": "Reserva a mesa de esquina com vista para a catedral para a puesta de sol perfeita, se cheia rápido em temporada (abril-outubro)."
         },
         {
           "name": "Tertúlia Algarvia",
@@ -45,9 +45,9 @@
           "neighborhood": "Cidade Velha",
           "photo": "/images/city-places/faro-restaurants-tertulia-algarvia.jpg",
           "website": "https://www.tertuliaalgarvia.pt/",
-          "description": "A creative Algarvian restaurant on the Cidade Velha cathedral square — modern takes on regional dishes (carob ice cream, Algarvian fig pudding). Dogs welcome throughout the front terrace year-round; inside dining room with prior agreement.",
-          "descriptionFr": "Restaurant algarvien créatif sur la place de la cathédrale dans la Cidade Velha — versions modernes de plats régionaux (glace caroube, pudding aux figues d'Algarve). Chiens bienvenus partout sur la terrasse avant toute l'année ; salle intérieure sur accord préalable.",
-          "descriptionEs": "Restaurante algarvense creativo en la plaza de la catedral en la Cidade Velha — versiones modernas de platos regionales (helado de algarroba, pudín de higos del Algarve). Perros bienvenidos en toda la terraza delantera todo el año; sala interior con acuerdo previo.",
+          "description": "A creative Algarvian restaurant on the Cidade Velha cathedral square, modern takes on regional dishes (carob ice cream, Algarvian fig pudding). Dogs welcome throughout the front terrace year-round; inside dining room with prior agreement.",
+          "descriptionFr": "Restaurant algarvien créatif sur la place de la cathédrale dans la Cidade Velha, versions modernes de plats régionaux (glace caroube, pudding aux figues d'Algarve). Chiens bienvenus partout sur la terrasse avant toute l'année ; salle intérieure sur accord préalable.",
+          "descriptionEs": "Restaurante algarvense creativo en la plaza de la catedral en la Cidade Velha, versiones modernas de platos regionales (helado de algarroba, pudín de higos del Algarve). Perros bienvenidos en toda la terraza delantera todo el año; sala interior con acuerdo previo.",
           "petPolicy": "Dogs on terrace; inside on prior agreement",
           "petPolicyFr": "Chiens en terrasse ; intérieur sur accord",
           "petPolicyEs": "Perros en terraza; interior bajo acuerdo",
@@ -56,14 +56,14 @@
           "mustTryFr": "Glace à la caroube, pudding aux figues, vin Castelão",
           "mustTryEs": "Helado de algarroba, pudín de higos, vino Castelão",
           "openingHours": "Tue-Sun 12:00-15:30, 19:00-22:30; closed Monday",
-          "tip": "The cathedral-square sunset spot is most photogenic — bring water for the dog, the limestone radiates heat in summer.",
-          "tipFr": "Le coin coucher de soleil sur la place de la cathédrale est le plus photogénique — apportez de l'eau pour le chien, la pierre rayonne la chaleur en été.",
-          "tipEs": "El rincón con el atardecer en la plaza de la catedral es el más fotogénico — lleva agua para el perro, la piedra irradia calor en verano.",
+          "tip": "The cathedral-square sunset spot is most photogenic, bring water for the dog, the limestone radiates heat in summer.",
+          "tipFr": "Le coin coucher de soleil sur la place de la cathédrale est le plus photogénique, apportez de l'eau pour le chien, la pierre rayonne la chaleur en été.",
+          "tipEs": "El rincón con el atardecer en la plaza de la catedral es el más fotogénico, lleva agua para el perro, la piedra irradia calor en verano.",
           "googleMapsUrl": "https://maps.google.com/?q=Tertulia+Algarvia+Faro",
-          "descriptionPt": "Restaurante algarvense creativo na praça da catedral na Cidade Velha — versiones modernas de platos regionales (helado de algarroba, pudín de higos do Algarve). Cães bem-vindos em toda a esplanada delantera o ano inteiro; sala interior com acuerdo previo.",
+          "descriptionPt": "Restaurante algarvense creativo na praça da catedral na Cidade Velha, versiones modernas de platos regionales (helado de algarroba, pudín de higos do Algarve). Cães bem-vindos em toda a esplanada delantera o ano inteiro; sala interior com acuerdo previo.",
           "petPolicyPt": "Cães em esplanada; interior sob acuerdo",
           "mustTryPt": "Helado de algarroba, pudín de higos, vinho Castelão",
-          "tipPt": "O rincón com o atardecer na praça da catedral é o mais fotogénico — leva água para o cão, a pedra irradia calor em verão."
+          "tipPt": "O rincón com o atardecer na praça da catedral é o mais fotogénico, leva água para o cão, a pedra irradia calor em verão."
         },
         {
           "name": "Faz Gostos",
@@ -71,9 +71,9 @@
           "neighborhood": "Centre",
           "photo": "/images/city-places/faro-restaurants-faz-gostos.jpg",
           "website": "https://www.fazgostos.com/",
-          "description": "A modern Portuguese restaurant in central Faro — chef Avilez-trained team, cataplana for two, regional cheese plates. Dogs welcomed on the rear courtyard terrace year-round; main room with prior agreement.",
-          "descriptionFr": "Restaurant portugais moderne dans le centre de Faro — équipe formée chez le chef Avilez, cataplana pour deux, plateaux de fromages régionaux. Chiens bienvenus sur la terrasse arrière toute l'année ; salle principale sur accord préalable.",
-          "descriptionEs": "Restaurante portugués moderno en el centro de Faro — equipo formado con el chef Avilez, cataplana para dos, tablas de quesos regionales. Perros bienvenidos en la terraza trasera todo el año; sala principal con acuerdo previo.",
+          "description": "A modern Portuguese restaurant in central Faro, chef Avilez-trained team, cataplana for two, regional cheese plates. Dogs welcomed on the rear courtyard terrace year-round; main room with prior agreement.",
+          "descriptionFr": "Restaurant portugais moderne dans le centre de Faro, équipe formée chez le chef Avilez, cataplana pour deux, plateaux de fromages régionaux. Chiens bienvenus sur la terrasse arrière toute l'année ; salle principale sur accord préalable.",
+          "descriptionEs": "Restaurante portugués moderno en el centro de Faro, equipo formado con el chef Avilez, cataplana para dos, tablas de quesos regionales. Perros bienvenidos en la terraza trasera todo el año; sala principal con acuerdo previo.",
           "petPolicy": "Dogs on rear terrace; main room on agreement",
           "petPolicyFr": "Chiens en terrasse arrière ; salle principale sur accord",
           "petPolicyEs": "Perros en terraza trasera; sala principal bajo acuerdo",
@@ -82,76 +82,76 @@
           "mustTryFr": "Cataplana pour 2, plateau de fromages algarviens, vinho verde",
           "mustTryEs": "Cataplana para 2, tabla de quesos algarvenses, vinho verde",
           "openingHours": "Mon-Sat 12:30-15:00, 19:00-23:00; closed Sunday",
-          "tip": "Reserve the rear courtyard for dinner — only 5 dog-friendly tables and the chef Avilez tasting menu books out 2 weeks ahead.",
-          "tipFr": "Réservez la cour arrière pour le dîner — seulement 5 tables dog-friendly et le menu dégustation du chef Avilez se réserve 2 semaines à l'avance.",
-          "tipEs": "Reserva el patio trasero para la cena — solo 5 mesas dog-friendly y el menú degustación del chef Avilez se reserva con 2 semanas de antelación.",
+          "tip": "Reserve the rear courtyard for dinner, only 5 dog-friendly tables and the chef Avilez tasting menu books out 2 weeks ahead.",
+          "tipFr": "Réservez la cour arrière pour le dîner, seulement 5 tables dog-friendly et le menu dégustation du chef Avilez se réserve 2 semaines à l'avance.",
+          "tipEs": "Reserva el patio trasero para la cena, solo 5 mesas dog-friendly y el menú degustación del chef Avilez se reserva con 2 semanas de antelación.",
           "googleMapsUrl": "https://maps.google.com/?q=Faz+Gostos+Faro",
-          "descriptionPt": "Restaurante português moderno no centro de Faro — equipo formado com o chef Avilez, cataplana para dois, tablas de quesos regionales. Cães bem-vindos na esplanada trasera o ano inteiro; sala principal com acuerdo previo.",
+          "descriptionPt": "Restaurante português moderno no centro de Faro, equipo formado com o chef Avilez, cataplana para dois, tablas de quesos regionales. Cães bem-vindos na esplanada trasera o ano inteiro; sala principal com acuerdo previo.",
           "petPolicyPt": "Cães em esplanada trasera; sala principal sob acuerdo",
           "mustTryPt": "Cataplana para 2, tabla de quesos algarvenses, vinho verde",
-          "tipPt": "Reserva o patio trasero para a jantar — só 5 mesas pet-friendly e o menú degustación do chef Avilez se reserva com 2 semanas de antelación."
+          "tipPt": "Reserva o patio trasero para a jantar, só 5 mesas pet-friendly e o menú degustación do chef Avilez se reserva com 2 semanas de antelación."
         }
       ],
       "tipsEn": [
-        "Algarve café culture is broadly dog-friendly — at least 80% of Faro tasca restaurants accept leashed dogs on the terrace year-round.",
-        "Portugal has one of Europe's strictest fish-bone disposal rules — never feed leftovers to your dog directly from the table; carcasses can splinter.",
+        "Algarve café culture is broadly dog-friendly, at least 80% of Faro tasca restaurants accept leashed dogs on the terrace year-round.",
+        "Portugal has one of Europe's strictest fish-bone disposal rules, never feed leftovers to your dog directly from the table; carcasses can splinter.",
         "Tipping: 5-10% in cash for good service; service is not included in Portugal."
       ],
       "tipsFr": [
-        "La culture café de l'Algarve est largement dog-friendly — au moins 80 % des tasca de Faro acceptent les chiens en laisse en terrasse toute l'année.",
-        "Le Portugal a l'une des règles d'évacuation des arêtes de poisson les plus strictes d'Europe — ne donnez jamais les restes de la table à votre chien ; les carcasses peuvent se fendre.",
+        "La culture café de l'Algarve est largement dog-friendly, au moins 80 % des tasca de Faro acceptent les chiens en laisse en terrasse toute l'année.",
+        "Le Portugal a l'une des règles d'évacuation des arêtes de poisson les plus strictes d'Europe, ne donnez jamais les restes de la table à votre chien ; les carcasses peuvent se fendre.",
         "Pourboire : 5-10 % en espèces pour bon service ; le service n'est pas inclus au Portugal."
       ],
       "tipsEs": [
-        "La cultura del café del Algarve es ampliamente dog-friendly — al menos el 80 % de las tasca de Faro admite perros con correa en terraza todo el año.",
-        "Portugal tiene una de las normas de evacuación de espinas de pescado más estrictas de Europa — nunca des los restos de la mesa a tu perro directamente; los huesos pueden astillarse.",
+        "La cultura del café del Algarve es ampliamente dog-friendly, al menos el 80 % de las tasca de Faro admite perros con correa en terraza todo el año.",
+        "Portugal tiene una de las normas de evacuación de espinas de pescado más estrictas de Europa, nunca des los restos de la mesa a tu perro directamente; los huesos pueden astillarse.",
         "Propina: 5-10 % en efectivo por buen servicio; el servicio no está incluido en Portugal."
       ],
       "faqsEn": [
         {
           "q": "Are dogs allowed in Faro restaurants?",
-          "a": "Yes in most. Around 80% of Faro tasca restaurants and cafés accept leashed dogs on the terrace, and many also welcome them inside outside peak service hours. Higher-end venues vary — call ahead."
+          "a": "Yes in most. Around 80% of Faro tasca restaurants and cafés accept leashed dogs on the terrace, and many also welcome them inside outside peak service hours. Higher-end venues vary, call ahead."
         },
         {
           "q": "Can I bring my dog to a tasca for lunch?",
-          "a": "Yes — Algarvian tascas are dog-tolerant by default. Leashed dogs welcome on the terrace; many also accept dogs in the main room, especially outside peak hours."
+          "a": "Yes, Algarvian tascas are dog-tolerant by default. Leashed dogs welcome on the terrace; many also accept dogs in the main room, especially outside peak hours."
         }
       ],
       "faqsFr": [
         {
           "q": "Les chiens sont-ils admis dans les restaurants de Faro ?",
-          "a": "Oui dans la plupart. Environ 80 % des tasca et cafés de Faro acceptent les chiens en laisse en terrasse, et beaucoup les autorisent aussi à l'intérieur hors heures de pointe. Les établissements haut de gamme varient — appelez avant."
+          "a": "Oui dans la plupart. Environ 80 % des tasca et cafés de Faro acceptent les chiens en laisse en terrasse, et beaucoup les autorisent aussi à l'intérieur hors heures de pointe. Les établissements haut de gamme varient, appelez avant."
         },
         {
           "q": "Puis-je amener mon chien dans une tasca pour le déjeuner ?",
-          "a": "Oui — les tasca algarviennes tolèrent les chiens par défaut. Chiens en laisse bienvenus en terrasse ; beaucoup acceptent aussi les chiens en salle principale, surtout hors heures de pointe."
+          "a": "Oui, les tasca algarviennes tolèrent les chiens par défaut. Chiens en laisse bienvenus en terrasse ; beaucoup acceptent aussi les chiens en salle principale, surtout hors heures de pointe."
         }
       ],
       "faqsEs": [
         {
           "q": "¿Se admiten perros en los restaurantes de Faro?",
-          "a": "Sí en la mayoría. Cerca del 80 % de las tascas y cafés de Faro admite perros con correa en terraza, y muchos los aceptan también dentro fuera de horas punta. Los locales de alta gama varían — llama antes."
+          "a": "Sí en la mayoría. Cerca del 80 % de las tascas y cafés de Faro admite perros con correa en terraza, y muchos los aceptan también dentro fuera de horas punta. Los locales de alta gama varían, llama antes."
         },
         {
           "q": "¿Puedo llevar a mi perro a una tasca para almorzar?",
-          "a": "Sí — las tascas algarvenses admiten perros por defecto. Perros con correa bienvenidos en terraza; muchos también admiten perros en la sala principal, sobre todo fuera de horas punta."
+          "a": "Sí, las tascas algarvenses admiten perros por defecto. Perros con correa bienvenidos en terraza; muchos también admiten perros en la sala principal, sobre todo fuera de horas punta."
         }
       ],
       "titlePt": "Restaurantes pet-friendly em Faro",
-      "introPt": "A cultura do café e a tasca do Algarve é fiablemente pet-friendly — os cães com trela são admitidos em esplanada por defecto, os boles aparecen sem pedirlos, e as esplanadas do porto deportivo e a Cidade Velha (centro histórico) concentran as melhores direções.",
+      "introPt": "A cultura do café e a tasca do Algarve é fiablemente pet-friendly, os cães com trela são admitidos em esplanada por defecto, os boles aparecen sem pedirlos, e as esplanadas do porto deportivo e a Cidade Velha (centro histórico) concentran as melhores direções.",
       "tipsPt": [
-        "A cultura do café do Algarve é ampliamente pet-friendly — al menos o 80 % das tasca de Faro admite cães com trela em esplanada o ano inteiro.",
-        "Portugal tem uma das normas de evacuación de espinas de peixe mais estrictas de Europa — nunca des os restos da mesa ao teu cão directamente; os huesos podem astillarse.",
+        "A cultura do café do Algarve é ampliamente pet-friendly, al menos o 80 % das tasca de Faro admite cães com trela em esplanada o ano inteiro.",
+        "Portugal tem uma das normas de evacuación de espinas de peixe mais estrictas de Europa, nunca des os restos da mesa ao teu cão directamente; os huesos podem astillarse.",
         "Propina: 5-10 % em efectivo por buen serviço; o serviço não está incluido em Portugal."
       ],
       "faqsPt": [
         {
           "q": "Se admitem cães nos restaurantes de Faro?",
-          "a": "Sí na mayoría. Perto do 80 % das tascas e cafés de Faro admite cães com trela em esplanada, e muitos os aceitam também dentro fora de horas punta. Os locales de alta gama varían — liga antes."
+          "a": "Sí na mayoría. Perto do 80 % das tascas e cafés de Faro admite cães com trela em esplanada, e muitos os aceitam também dentro fora de horas punta. Os locales de alta gama varían, liga antes."
         },
         {
           "q": "Puedo levar a mi cão a uma tasca para almorzar?",
-          "a": "Sí — as tascas algarvenses admitem cães por defecto. Cães com trela bem-vindos em esplanada; muitos também admitem cães na sala principal, sobretudo fora de horas punta."
+          "a": "Sí, as tascas algarvenses admitem cães por defecto. Cães com trela bem-vindos em esplanada; muitos também admitem cães na sala principal, sobretudo fora de horas punta."
         }
       ]
     },
@@ -159,9 +159,9 @@
       "titleEn": "Dog Parks & Green Spaces in Faro",
       "titleFr": "Parcs canins et espaces verts à Faro",
       "titleEs": "Parques caninos y espacios verdes en Faro",
-      "introEn": "Faro sits at the gate of the Ria Formosa lagoon — the city centre is short on formal parks, but the 18,000-hectare Ria Formosa Natural Park wraps around the city with year-round dog-friendly walking trails and bird-rich salt-marsh paths.",
-      "introFr": "Faro est à la porte de la lagune de la Ria Formosa — le centre-ville est court en parcs formels, mais le parc naturel de la Ria Formosa de 18 000 hectares ceint la ville avec des sentiers dog-friendly toute l'année et des chemins de marais salants riches en oiseaux.",
-      "introEs": "Faro está a la puerta de la laguna de la Ria Formosa — el centro está corto en parques formales, pero el parque natural de la Ria Formosa de 18 000 hectáreas rodea la ciudad con senderos dog-friendly todo el año y caminos de marisma ricos en aves.",
+      "introEn": "Faro sits at the gate of the Ria Formosa lagoon, the city centre is short on formal parks, but the 18,000-hectare Ria Formosa Natural Park wraps around the city with year-round dog-friendly walking trails and bird-rich salt-marsh paths.",
+      "introFr": "Faro est à la porte de la lagune de la Ria Formosa, le centre-ville est court en parcs formels, mais le parc naturel de la Ria Formosa de 18 000 hectares ceint la ville avec des sentiers dog-friendly toute l'année et des chemins de marais salants riches en oiseaux.",
+      "introEs": "Faro está a la puerta de la laguna de la Ria Formosa, el centro está corto en parques formales, pero el parque natural de la Ria Formosa de 18 000 hectáreas rodea la ciudad con senderos dog-friendly todo el año y caminos de marisma ricos en aves.",
       "places": [
         {
           "name": "Ria Formosa Boardwalk",
@@ -172,9 +172,9 @@
           "leashRule": "On-leash year-round on the boardwalk; off-leash on the rural marsh trails outside nesting season",
           "leashRuleFr": "En laisse sur le boardwalk ; sans laisse sur les sentiers ruraux du marais hors saison de nidification",
           "leashRuleEs": "Con correa en el boardwalk; sin correa en los senderos rurales del marisma fuera de la temporada de nidificación",
-          "description": "The flat 2 km wooden boardwalk from the Faro Marina to Ludo and the salt pans — flamingo-rich salt marsh, cycle-pedestrian path, year-round dog access. The closest off-leash nature from central Faro.",
-          "descriptionFr": "Le boardwalk en bois plat de 2 km depuis la marina de Faro jusqu'à Ludo et les marais salants — marais salant riche en flamants, piste cyclable-piétonne, accès canin toute l'année. La nature sans laisse la plus proche du centre de Faro.",
-          "descriptionEs": "El boardwalk de madera plano de 2 km desde la Marina de Faro hasta Ludo y las salinas — marisma salina rica en flamencos, sendero ciclista-peatonal, acceso canino todo el año. La naturaleza sin correa más cercana al centro de Faro.",
+          "description": "The flat 2 km wooden boardwalk from the Faro Marina to Ludo and the salt pans, flamingo-rich salt marsh, cycle-pedestrian path, year-round dog access. The closest off-leash nature from central Faro.",
+          "descriptionFr": "Le boardwalk en bois plat de 2 km depuis la marina de Faro jusqu'à Ludo et les marais salants, marais salant riche en flamants, piste cyclable-piétonne, accès canin toute l'année. La nature sans laisse la plus proche du centre de Faro.",
+          "descriptionEs": "El boardwalk de madera plano de 2 km desde la Marina de Faro hasta Ludo y las salinas, marisma salina rica en flamencos, sendero ciclista-peatonal, acceso canino todo el año. La naturaleza sin correa más cercana al centro de Faro.",
           "amenities": [
             "Paved/wooden path",
             "Bird-watching platforms",
@@ -193,19 +193,19 @@
             "Parking gratis",
             "Sin instalaciones a mitad de camino"
           ],
-          "tip": "Best at sunrise or sunset for the flamingo crowds — bring water, the boardwalk has zero shade.",
-          "tipFr": "Au mieux au lever ou au coucher du soleil pour les groupes de flamants — apportez de l'eau, le boardwalk n'a aucune ombre.",
-          "tipEs": "Mejor al amanecer o atardecer para los grupos de flamencos — lleva agua, el boardwalk no tiene sombra.",
+          "tip": "Best at sunrise or sunset for the flamingo crowds, bring water, the boardwalk has zero shade.",
+          "tipFr": "Au mieux au lever ou au coucher du soleil pour les groupes de flamants, apportez de l'eau, le boardwalk n'a aucune ombre.",
+          "tipEs": "Mejor al amanecer o atardecer para los grupos de flamencos, lleva agua, el boardwalk no tiene sombra.",
           "googleMapsUrl": "https://maps.google.com/?q=Ria+Formosa+Faro+boardwalk",
           "leashRulePt": "Com trela não boardwalk; sem trela nos trilhos rurales do marisma fora da temporada de nidificación",
-          "descriptionPt": "O boardwalk de madera plano de 2 km a partir da Marina de Faro até Ludo e as salinas — marisma salina rica em flamencos, trilho ciclista-peatonal, acesso canino o ano inteiro. A natureza sem trela mais cercana al centro de Faro.",
+          "descriptionPt": "O boardwalk de madera plano de 2 km a partir da Marina de Faro até Ludo e as salinas, marisma salina rica em flamencos, trilho ciclista-peatonal, acesso canino o ano inteiro. A natureza sem trela mais cercana al centro de Faro.",
           "amenitiesPt": [
             "Trilho pavimentado/madera",
             "Plataformas ornitológicas",
             "Parking grátis",
             "Sem instalações a mitad de camino"
           ],
-          "tipPt": "Melhor al amanecer o atardecer para os grupos de flamencos — leva água, o boardwalk não tem sombra."
+          "tipPt": "Melhor al amanecer o atardecer para os grupos de flamencos, leva água, o boardwalk não tem sombra."
         },
         {
           "name": "Jardim Manuel Bivar",
@@ -216,9 +216,9 @@
           "leashRule": "On-leash year-round",
           "leashRuleFr": "En laisse toute l'année",
           "leashRuleEs": "Con correa todo el año",
-          "description": "The main central garden right behind the Cidade Velha walls — palm-lined paths, fountain, bandstand, marina-side benches. Faro's living-room outdoor space, dog-friendly with leashed dogs free of charge year-round.",
-          "descriptionFr": "Le jardin central principal directement derrière les remparts de la Cidade Velha — allées bordées de palmiers, fontaine, kiosque à musique, bancs côté marina. L'espace extérieur living-room de Faro, dog-friendly avec chiens en laisse gratuits toute l'année.",
-          "descriptionEs": "El jardín central principal justo detrás de las murallas de la Cidade Velha — paseos bordeados de palmeras, fuente, quiosco de música, bancos junto a la marina. El espacio exterior living-room de Faro, dog-friendly con perros con correa gratis todo el año.",
+          "description": "The main central garden right behind the Cidade Velha walls, palm-lined paths, fountain, bandstand, marina-side benches. Faro's living-room outdoor space, dog-friendly with leashed dogs free of charge year-round.",
+          "descriptionFr": "Le jardin central principal directement derrière les remparts de la Cidade Velha, allées bordées de palmiers, fontaine, kiosque à musique, bancs côté marina. L'espace extérieur living-room de Faro, dog-friendly avec chiens en laisse gratuits toute l'année.",
+          "descriptionEs": "El jardín central principal justo detrás de las murallas de la Cidade Velha, paseos bordeados de palmeras, fuente, quiosco de música, bancos junto a la marina. El espacio exterior living-room de Faro, dog-friendly con perros con correa gratis todo el año.",
           "amenities": [
             "Palm-shaded paths",
             "Fountain",
@@ -237,19 +237,19 @@
             "Vista marina",
             "Aseos públicos cerca"
           ],
-          "tip": "Visit in the early evening (19:00-21:00 in summer) for the local dog-walking community — Faro's centre meeting spot.",
-          "tipFr": "Visitez en début de soirée (19h-21h en été) pour la communauté locale de promeneurs de chiens — point de rencontre du centre de Faro.",
-          "tipEs": "Visita al inicio de la tarde (19:00-21:00 en verano) para la comunidad local de paseadores de perros — punto de encuentro del centro de Faro.",
+          "tip": "Visit in the early evening (19:00-21:00 in summer) for the local dog-walking community, Faro's centre meeting spot.",
+          "tipFr": "Visitez en début de soirée (19h-21h en été) pour la communauté locale de promeneurs de chiens, point de rencontre du centre de Faro.",
+          "tipEs": "Visita al inicio de la tarde (19:00-21:00 en verano) para la comunidad local de paseadores de perros, punto de encuentro del centro de Faro.",
           "googleMapsUrl": "https://maps.google.com/?q=Jardim+Manuel+Bivar+Faro",
           "leashRulePt": "Com trela o ano inteiro",
-          "descriptionPt": "O jardim central principal justo detrás das muralhas da Cidade Velha — passeios bordeados de palmeras, fuente, quiosco de música, bancos junto a marina. O espacio exterior living-room de Faro, pet-friendly com cães com trela grátis o ano inteiro.",
+          "descriptionPt": "O jardim central principal justo detrás das muralhas da Cidade Velha, passeios bordeados de palmeras, fuente, quiosco de música, bancos junto a marina. O espacio exterior living-room de Faro, pet-friendly com cães com trela grátis o ano inteiro.",
           "amenitiesPt": [
             "Passeios sombreados de palmeras",
             "Fuente",
             "Vista marina",
             "Aseos públicos cerca"
           ],
-          "tipPt": "Visita al inicio da tarde (19:00-21:00 em verão) para a comunidad local de paseadores de cães — punto de encuentro do centro de Faro."
+          "tipPt": "Visita al inicio da tarde (19:00-21:00 em verão) para a comunidad local de paseadores de cães, punto de encuentro do centro de Faro."
         },
         {
           "name": "Mata da Brejeira",
@@ -260,9 +260,9 @@
           "leashRule": "Off-leash on most forest trails",
           "leashRuleFr": "Sans laisse sur la plupart des sentiers",
           "leashRuleEs": "Sin correa en la mayoría de senderos",
-          "description": "A protected pine and cork-oak forest 4 km north-east of the centre — Faro's main inland forest reserve, with marked trails, picnic areas, and direct access to the inland salt-marsh edge of the Ria Formosa.",
-          "descriptionFr": "Forêt protégée de pins et de chênes-lièges à 4 km au nord-est du centre — la principale forêt continentale de Faro, avec sentiers balisés, aires de pique-nique, et accès direct au bord intérieur des marais salants de la Ria Formosa.",
-          "descriptionEs": "Bosque protegido de pinos y alcornoques a 4 km al noreste del centro — la principal reserva forestal continental de Faro, con senderos balizados, áreas de picnic y acceso directo al borde interior de las marismas de la Ria Formosa.",
+          "description": "A protected pine and cork-oak forest 4 km north-east of the centre, Faro's main inland forest reserve, with marked trails, picnic areas, and direct access to the inland salt-marsh edge of the Ria Formosa.",
+          "descriptionFr": "Forêt protégée de pins et de chênes-lièges à 4 km au nord-est du centre, la principale forêt continentale de Faro, avec sentiers balisés, aires de pique-nique, et accès direct au bord intérieur des marais salants de la Ria Formosa.",
+          "descriptionEs": "Bosque protegido de pinos y alcornoques a 4 km al noreste del centro, la principal reserva forestal continental de Faro, con senderos balizados, áreas de picnic y acceso directo al borde interior de las marismas de la Ria Formosa.",
           "amenities": [
             "Marked trails",
             "Picnic spots",
@@ -281,34 +281,34 @@
             "Parking gratis",
             "Sin agua potable"
           ],
-          "tip": "Visit before 11:00 in summer — the cork-oak shade is patchy and ground temperature exceeds 35 °C from noon onward in July-August.",
-          "tipFr": "Visitez avant 11h en été — l'ombre des chênes-lièges est inégale et la température au sol dépasse 35 °C dès midi en juillet-août.",
-          "tipEs": "Visita antes de las 11:00 en verano — la sombra de los alcornoques es irregular y la temperatura del suelo supera 35 °C desde el mediodía en julio-agosto.",
+          "tip": "Visit before 11:00 in summer, the cork-oak shade is patchy and ground temperature exceeds 35 °C from noon onward in July-August.",
+          "tipFr": "Visitez avant 11h en été, l'ombre des chênes-lièges est inégale et la température au sol dépasse 35 °C dès midi en juillet-août.",
+          "tipEs": "Visita antes de las 11:00 en verano, la sombra de los alcornoques es irregular y la temperatura del suelo supera 35 °C desde el mediodía en julio-agosto.",
           "googleMapsUrl": "https://maps.google.com/?q=Mata+da+Brejeira+Faro",
           "leashRulePt": "Sem trela na maioria de trilhos",
-          "descriptionPt": "Floresta protegido de pinos e alcornoques a 4 km al noreste do centro — a principal reserva forestal continental de Faro, com trilhos balizados, áreas de picnic e acesso directo al borde interior das marismas da Ria Formosa.",
+          "descriptionPt": "Floresta protegido de pinos e alcornoques a 4 km al noreste do centro, a principal reserva forestal continental de Faro, com trilhos balizados, áreas de picnic e acesso directo al borde interior das marismas da Ria Formosa.",
           "amenitiesPt": [
             "Trilhos senhalizados",
             "Spots de picnic",
             "Parking grátis",
             "Sem água potable"
           ],
-          "tipPt": "Visita antes das 11:00 em verão — a sombra dois alcornoques é irregular e a temperatura do solo supera 35 °C a partir do mediodía em julho-agosto."
+          "tipPt": "Visita antes das 11:00 em verão, a sombra dois alcornoques é irregular e a temperatura do solo supera 35 °C a partir do mediodía em julho-agosto."
         }
       ],
       "tipsEn": [
         "Faro municipal law requires dogs on a leash on all city paths and the marina; off-leash is permitted on the rural Ria Formosa trails outside formal park areas.",
-        "Always carry water in summer (July-August daily highs 30-35 °C) — most rural trails have no shade and the salt-marsh ground reflects intense heat.",
+        "Always carry water in summer (July-August daily highs 30-35 °C), most rural trails have no shade and the salt-marsh ground reflects intense heat.",
         "Always carry poo bags: Faro fixed penalty for fouling is 60 € (multa), enforced by Polícia Municipal."
       ],
       "tipsFr": [
         "L'arrêté municipal de Faro exige la laisse sur toutes les voies de la ville et la marina ; sans laisse autorisé sur les sentiers ruraux de la Ria Formosa hors parcs formels.",
-        "Emportez toujours de l'eau en été (max quotidiens juillet-août 30-35 °C) — la plupart des sentiers ruraux n'ont pas d'ombre et le sol des marais salants reflète une chaleur intense.",
+        "Emportez toujours de l'eau en été (max quotidiens juillet-août 30-35 °C), la plupart des sentiers ruraux n'ont pas d'ombre et le sol des marais salants reflète une chaleur intense.",
         "Ayez toujours des sacs : amende forfaitaire de Faro pour déjections de 60 €, contrôlée par la Polícia Municipal."
       ],
       "tipsEs": [
         "La ordenanza municipal de Faro exige correa en todas las vías de la ciudad y la marina; sin correa permitido en los senderos rurales de la Ria Formosa fuera de parques formales.",
-        "Lleva siempre agua en verano (máximas julio-agosto 30-35 °C) — la mayoría de senderos rurales no tiene sombra y el suelo de las marismas refleja un calor intenso.",
+        "Lleva siempre agua en verano (máximas julio-agosto 30-35 °C), la mayoría de senderos rurales no tiene sombra y el suelo de las marismas refleja un calor intenso.",
         "Lleva siempre bolsas: multa fija de Faro por excrementos de 60 €, controlada por la Polícia Municipal."
       ],
       "faqsEn": [
@@ -342,10 +342,10 @@
         }
       ],
       "titlePt": "Parques caninos e espacios verdes em Faro",
-      "introPt": "Faro está a puerta da laguna da Ria Formosa — o centro está corto em parques formales, mas o parque natural da Ria Formosa de 18 000 hectáreas rodea a cidade com trilhos pet-friendly o ano inteiro e caminos de marisma ricos em aves.",
+      "introPt": "Faro está a puerta da laguna da Ria Formosa, o centro está corto em parques formales, mas o parque natural da Ria Formosa de 18 000 hectáreas rodea a cidade com trilhos pet-friendly o ano inteiro e caminos de marisma ricos em aves.",
       "tipsPt": [
         "A ordenanza municipal de Faro exige trela em todas as vías da cidade e a marina; sem trela permitido nos trilhos rurales da Ria Formosa fora de parques formales.",
-        "Leva sempre água em verão (máximas julho-agosto 30-35 °C) — a maioria de trilhos rurales não tem sombra e o solo das marismas refleja um calor intenso.",
+        "Leva sempre água em verão (máximas julho-agosto 30-35 °C), a maioria de trilhos rurales não tem sombra e o solo das marismas refleja um calor intenso.",
         "Leva sempre bolsas: multa fija de Faro por excrementos de 60 €, controlada pela Polícia Municipal."
       ],
       "faqsPt": [
@@ -372,9 +372,9 @@
           "type": "Regional buses",
           "photo": "/images/city-places/faro-transport-eva-algarve-buses.jpg",
           "website": "https://www.eva-bus.com/",
-          "description": "EVA operates the Algarve regional bus network — direct routes from Faro to Albufeira, Lagos, Tavira, Olhão and Quarteira. Small dogs in carriers travel free; medium and large dogs need a half-fare ticket and a muzzle on board.",
-          "descriptionFr": "EVA exploite le réseau de bus régional de l'Algarve — trajets directs depuis Faro vers Albufeira, Lagos, Tavira, Olhão et Quarteira. Les petits chiens en cage voyagent gratuitement ; les moyens et grands exigent un billet demi-tarif et une muselière à bord.",
-          "descriptionEs": "EVA opera la red regional de autobuses del Algarve — trayectos directos desde Faro a Albufeira, Lagos, Tavira, Olhão y Quarteira. Perros pequeños en transportín viajan gratis; medianos y grandes requieren billete a media tarifa y bozal a bordo.",
+          "description": "EVA operates the Algarve regional bus network, direct routes from Faro to Albufeira, Lagos, Tavira, Olhão and Quarteira. Small dogs in carriers travel free; medium and large dogs need a half-fare ticket and a muzzle on board.",
+          "descriptionFr": "EVA exploite le réseau de bus régional de l'Algarve, trajets directs depuis Faro vers Albufeira, Lagos, Tavira, Olhão et Quarteira. Les petits chiens en cage voyagent gratuitement ; les moyens et grands exigent un billet demi-tarif et une muselière à bord.",
+          "descriptionEs": "EVA opera la red regional de autobuses del Algarve, trayectos directos desde Faro a Albufeira, Lagos, Tavira, Olhão y Quarteira. Perros pequeños en transportín viajan gratis; medianos y grandes requieren billete a media tarifa y bozal a bordo.",
           "petPolicy": "Half-fare + muzzle for medium/large dogs",
           "petPolicyFr": "Demi-tarif + muselière pour chiens moyens/grands",
           "petPolicyEs": "Media tarifa + bozal para perros medianos/grandes",
@@ -382,7 +382,7 @@
           "tipFr": "La ligne EVA Faro-Tavira prend 1h et c'est une excursion dog-friendly parfaite sur la côte historique de l'Algarve oriental.",
           "tipEs": "La línea EVA Faro-Tavira lleva 1h y es una excursión dog-friendly perfecta en la costa histórica del Algarve oriental.",
           "googleMapsUrl": "https://maps.google.com/?q=Faro+bus+terminal",
-          "descriptionPt": "EVA opera a red regional de autocarros do Algarve — trayectos directos a partir de Faro a Albufeira, Lagos, Tavira, Olhão e Quarteira. Cães pequenos em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal a bordo.",
+          "descriptionPt": "EVA opera a red regional de autocarros do Algarve, trayectos directos a partir de Faro a Albufeira, Lagos, Tavira, Olhão e Quarteira. Cães pequenos em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal a bordo.",
           "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
           "tipPt": "A línea EVA Faro-Tavira leva 1h e é uma excursión pet-friendly perfeita na costa histórica do Algarve oriental."
         },
@@ -397,53 +397,53 @@
           "petPolicy": "Half-fare + muzzle for medium/large dogs",
           "petPolicyFr": "Demi-tarif + muselière pour chiens moyens/grands",
           "petPolicyEs": "Media tarifa + bozal para perros medianos/grandes",
-          "tip": "The Alfa Pendular Faro-Lisbon at 3h is the fastest dog-friendly link to the capital — book a window seat in advance for peak summer travel.",
-          "tipFr": "L'Alfa Pendular Faro-Lisbonne en 3h est la liaison dog-friendly la plus rapide vers la capitale — réservez un siège fenêtre à l'avance pour les pointes estivales.",
-          "tipEs": "El Alfa Pendular Faro-Lisboa en 3h es el enlace dog-friendly más rápido a la capital — reserva asiento de ventana con antelación para puntas estivales.",
+          "tip": "The Alfa Pendular Faro-Lisbon at 3h is the fastest dog-friendly link to the capital, book a window seat in advance for peak summer travel.",
+          "tipFr": "L'Alfa Pendular Faro-Lisbonne en 3h est la liaison dog-friendly la plus rapide vers la capitale, réservez un siège fenêtre à l'avance pour les pointes estivales.",
+          "tipEs": "El Alfa Pendular Faro-Lisboa en 3h es el enlace dog-friendly más rápido a la capital, reserva asiento de ventana con antelación para puntas estivales.",
           "googleMapsUrl": "https://maps.google.com/?q=Faro+train+station",
           "descriptionPt": "CP opera comboios directos a partir de Faro a Lisboa Oriente (3h Alfa Pendular, 4h Intercidades) e a lo longo da costa algarvense a Tavira e Vila Real de Santo António. Cães pequenos em transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal.",
           "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
-          "tipPt": "O Alfa Pendular Faro-Lisboa em 3h é o ligação pet-friendly mais rápido a capital — reserva asiento de ventana com antelación para puntas estivales."
+          "tipPt": "O Alfa Pendular Faro-Lisboa em 3h é o ligação pet-friendly mais rápido a capital, reserva asiento de ventana com antelación para puntas estivales."
         },
         {
           "name": "Ria Formosa Ferries",
           "type": "Ferry to barrier islands",
           "photo": "/images/city-places/faro-transport-ria-formosa-ferries.jpg",
           "website": "https://www.animaris.pt/",
-          "description": "Year-round ferry services from Faro Marina to the barrier islands of Ilha do Farol, Ilha da Culatra and Ilha Deserta — wild dog-friendly beaches and former fishermen's villages. Leashed dogs accepted free of charge on outdoor decks.",
-          "descriptionFr": "Services de ferry toute l'année depuis la marina de Faro vers les îles barrières d'Ilha do Farol, Ilha da Culatra et Ilha Deserta — plages sauvages dog-friendly et anciens villages de pêcheurs. Chiens en laisse acceptés gratuitement sur les ponts extérieurs.",
-          "descriptionEs": "Servicios de ferry todo el año desde la Marina de Faro a las islas barrera de Ilha do Farol, Ilha da Culatra e Ilha Deserta — playas salvajes dog-friendly y antiguos pueblos pesqueros. Perros con correa admitidos gratis en cubiertas exteriores.",
+          "description": "Year-round ferry services from Faro Marina to the barrier islands of Ilha do Farol, Ilha da Culatra and Ilha Deserta, wild dog-friendly beaches and former fishermen's villages. Leashed dogs accepted free of charge on outdoor decks.",
+          "descriptionFr": "Services de ferry toute l'année depuis la marina de Faro vers les îles barrières d'Ilha do Farol, Ilha da Culatra et Ilha Deserta, plages sauvages dog-friendly et anciens villages de pêcheurs. Chiens en laisse acceptés gratuitement sur les ponts extérieurs.",
+          "descriptionEs": "Servicios de ferry todo el año desde la Marina de Faro a las islas barrera de Ilha do Farol, Ilha da Culatra e Ilha Deserta, playas salvajes dog-friendly y antiguos pueblos pesqueros. Perros con correa admitidos gratis en cubiertas exteriores.",
           "petPolicy": "Free on outdoor decks",
           "petPolicyFr": "Gratuit sur les ponts extérieurs",
           "petPolicyEs": "Gratis en las cubiertas exteriores",
-          "tip": "The Ilha Deserta ferry (35 min) takes you to a 10 km of unbroken Atlantic dog beach — bring water, sunshade, food; the island has only one restaurant.",
-          "tipFr": "Le ferry pour l'Ilha Deserta (35 min) vous emmène sur 10 km de plage atlantique canine ininterrompue — apportez eau, ombrelle, nourriture ; l'île n'a qu'un seul restaurant.",
-          "tipEs": "El ferry a Ilha Deserta (35 min) te lleva a 10 km de playa atlántica canina ininterrumpida — lleva agua, sombrilla, comida; la isla solo tiene un restaurante.",
+          "tip": "The Ilha Deserta ferry (35 min) takes you to a 10 km of unbroken Atlantic dog beach, bring water, sunshade, food; the island has only one restaurant.",
+          "tipFr": "Le ferry pour l'Ilha Deserta (35 min) vous emmène sur 10 km de plage atlantique canine ininterrompue, apportez eau, ombrelle, nourriture ; l'île n'a qu'un seul restaurant.",
+          "tipEs": "El ferry a Ilha Deserta (35 min) te lleva a 10 km de playa atlántica canina ininterrumpida, lleva agua, sombrilla, comida; la isla solo tiene un restaurante.",
           "googleMapsUrl": "https://maps.google.com/?q=Faro+marina+ferries",
-          "descriptionPt": "Serviços de ferry o ano inteiro a partir da Marina de Faro a as ilhas barrera de Ilha do Farol, Ilha da Culatra e Ilha Deserta — praias salvajes pet-friendly e antigos pueblos pesqueros. Cães com trela admitidos grátis em cubiertas exteriores.",
+          "descriptionPt": "Serviços de ferry o ano inteiro a partir da Marina de Faro a as ilhas barrera de Ilha do Farol, Ilha da Culatra e Ilha Deserta, praias salvajes pet-friendly e antigos pueblos pesqueros. Cães com trela admitidos grátis em cubiertas exteriores.",
           "petPolicyPt": "Grátis nas cubiertas exteriores",
-          "tipPt": "O ferry a Ilha Deserta (35 min) te leva a 10 km de praia atlântica canina ininterrumpida — leva água, sombrilla, comida; a ilha só tem um restaurante."
+          "tipPt": "O ferry a Ilha Deserta (35 min) te leva a 10 km de praia atlântica canina ininterrumpida, leva água, sombrilla, comida; a ilha só tem um restaurante."
         }
       ],
       "tipsEn": [
-        "Portuguese rail and bus regulations require a half-fare ticket for medium/large dogs and a muzzle on board — applies to CP and EVA.",
-        "Faro Airport (FAO) is 7 km west of the centre — easily reachable by EVA bus 14/16 (20 min) or taxi (15 min). Direct flights from London, Manchester, Dublin, Amsterdam, Berlin, Paris.",
-        "Renting a car is highly recommended for the Algarve coast beaches and inland Serra de Monchique — public transport doesn't reach all the smaller bays."
+        "Portuguese rail and bus regulations require a half-fare ticket for medium/large dogs and a muzzle on board, applies to CP and EVA.",
+        "Faro Airport (FAO) is 7 km west of the centre, easily reachable by EVA bus 14/16 (20 min) or taxi (15 min). Direct flights from London, Manchester, Dublin, Amsterdam, Berlin, Paris.",
+        "Renting a car is highly recommended for the Algarve coast beaches and inland Serra de Monchique, public transport doesn't reach all the smaller bays."
       ],
       "tipsFr": [
-        "La réglementation ferroviaire et bus portugaise exige un billet demi-tarif pour les chiens moyens/grands et une muselière à bord — s'applique à CP et EVA.",
-        "L'aéroport de Faro (FAO) est à 7 km à l'ouest du centre — facilement accessible en bus EVA 14/16 (20 min) ou taxi (15 min). Vols directs depuis Londres, Manchester, Dublin, Amsterdam, Berlin, Paris.",
-        "Louer une voiture est fortement recommandé pour les plages côtières de l'Algarve et la Serra de Monchique intérieure — les transports publics ne desservent pas toutes les petites criques."
+        "La réglementation ferroviaire et bus portugaise exige un billet demi-tarif pour les chiens moyens/grands et une muselière à bord, s'applique à CP et EVA.",
+        "L'aéroport de Faro (FAO) est à 7 km à l'ouest du centre, facilement accessible en bus EVA 14/16 (20 min) ou taxi (15 min). Vols directs depuis Londres, Manchester, Dublin, Amsterdam, Berlin, Paris.",
+        "Louer une voiture est fortement recommandé pour les plages côtières de l'Algarve et la Serra de Monchique intérieure, les transports publics ne desservent pas toutes les petites criques."
       ],
       "tipsEs": [
-        "La normativa ferroviaria y de autobús portuguesa exige un billete a media tarifa para perros medianos/grandes y bozal a bordo — aplica a CP y EVA.",
-        "El aeropuerto de Faro (FAO) está a 7 km al oeste del centro — fácilmente accesible en bus EVA 14/16 (20 min) o taxi (15 min). Vuelos directos desde Londres, Manchester, Dublín, Ámsterdam, Berlín, París.",
-        "Alquilar coche es muy recomendable para las playas costeras del Algarve y la Serra de Monchique interior — el transporte público no llega a todas las calas pequeñas."
+        "La normativa ferroviaria y de autobús portuguesa exige un billete a media tarifa para perros medianos/grandes y bozal a bordo, aplica a CP y EVA.",
+        "El aeropuerto de Faro (FAO) está a 7 km al oeste del centro, fácilmente accesible en bus EVA 14/16 (20 min) o taxi (15 min). Vuelos directos desde Londres, Manchester, Dublín, Ámsterdam, Berlín, París.",
+        "Alquilar coche es muy recomendable para las playas costeras del Algarve y la Serra de Monchique interior, el transporte público no llega a todas las calas pequeñas."
       ],
       "faqsEn": [
         {
           "q": "Do I need to muzzle my dog on Portuguese trains?",
-          "a": "Yes for medium and large dogs on CP and EVA — Portuguese transport rules require a muzzle and a half-fare ticket. Small dogs in a carrier travel free without a muzzle."
+          "a": "Yes for medium and large dogs on CP and EVA, Portuguese transport rules require a muzzle and a half-fare ticket. Small dogs in a carrier travel free without a muzzle."
         },
         {
           "q": "Can I take my dog to the barrier-island beaches by ferry?",
@@ -453,7 +453,7 @@
       "faqsFr": [
         {
           "q": "Faut-il museler mon chien dans les trains portugais ?",
-          "a": "Oui pour les chiens moyens et grands sur CP et EVA — la réglementation portugaise exige muselière et billet demi-tarif. Les petits chiens en cage voyagent gratuitement sans muselière."
+          "a": "Oui pour les chiens moyens et grands sur CP et EVA, la réglementation portugaise exige muselière et billet demi-tarif. Les petits chiens en cage voyagent gratuitement sans muselière."
         },
         {
           "q": "Puis-je amener mon chien aux plages des îles barrières en ferry ?",
@@ -463,7 +463,7 @@
       "faqsEs": [
         {
           "q": "¿Hay que ponerle bozal a mi perro en los trenes portugueses?",
-          "a": "Sí para perros medianos y grandes en CP y EVA — la normativa portuguesa exige bozal y billete a media tarifa. Los perros pequeños en transportín viajan gratis sin bozal."
+          "a": "Sí para perros medianos y grandes en CP y EVA, la normativa portuguesa exige bozal y billete a media tarifa. Los perros pequeños en transportín viajan gratis sin bozal."
         },
         {
           "q": "¿Puedo llevar a mi perro a las playas de las islas barrera en ferry?",
@@ -473,14 +473,14 @@
       "titlePt": "Transporte pet-friendly em Faro",
       "introPt": "O centro compacto de Faro se cruza a pé em 20 minutos. Para excursiones, os autocarros EVA, os comboios regionales CP e os ferries da Ria Formosa a as praias das ilhas barrera admitem todos cães com trela.",
       "tipsPt": [
-        "A normativa ferroviaria e de autocarro portuguesa exige um bilhete a meio preço para cães medianos/grandes e bozal a bordo — aplica a CP e EVA.",
-        "O aeroporto de Faro (FAO) está a 7 km al oeste do centro — fácilmente acessível em bus EVA 14/16 (20 min) o taxi (15 min). Voos directos a partir de Londres, Manchester, Dublin, Amesterdão, Berlim, París.",
-        "Alquilar carro é muito recomendable para as praias costeras do Algarve e a Serra de Monchique interior — o transporte público não chega a todas as calas pequenas."
+        "A normativa ferroviaria e de autocarro portuguesa exige um bilhete a meio preço para cães medianos/grandes e bozal a bordo, aplica a CP e EVA.",
+        "O aeroporto de Faro (FAO) está a 7 km al oeste do centro, fácilmente acessível em bus EVA 14/16 (20 min) o taxi (15 min). Voos directos a partir de Londres, Manchester, Dublin, Amesterdão, Berlim, París.",
+        "Alquilar carro é muito recomendable para as praias costeras do Algarve e a Serra de Monchique interior, o transporte público não chega a todas as calas pequenas."
       ],
       "faqsPt": [
         {
           "q": "Hay que ponerle bozal a mi cão nos comboios portugueses?",
-          "a": "Sí para cães medianos e grandes em CP e EVA — a normativa portuguesa exige bozal e bilhete a meio preço. Os cães pequenos em transportadora viajan grátis sem bozal."
+          "a": "Sí para cães medianos e grandes em CP e EVA, a normativa portuguesa exige bozal e bilhete a meio preço. Os cães pequenos em transportadora viajan grátis sem bozal."
         },
         {
           "q": "Puedo levar a mi cão a as praias das ilhas barrera em ferry?",
@@ -492,9 +492,9 @@
       "titleEn": "Dog-Friendly Beaches Near Faro",
       "titleFr": "Plages dog-friendly près de Faro",
       "titleEs": "Playas dog-friendly cerca de Faro",
-      "introEn": "The Algarve has multiple official dog-friendly beaches within 30 minutes of Faro — the barrier islands of the Ria Formosa offer wild Atlantic stretches, while the eastern Algarve coast around Tavira has the calmest year-round sand for swimming dogs.",
-      "introFr": "L'Algarve compte plusieurs plages dog-friendly officielles à moins de 30 min de Faro — les îles barrières de la Ria Formosa offrent des étendues atlantiques sauvages, tandis que la côte est de l'Algarve autour de Tavira a le sable le plus calme pour les chiens nageurs toute l'année.",
-      "introEs": "El Algarve tiene varias playas dog-friendly oficiales a menos de 30 min de Faro — las islas barrera de la Ria Formosa ofrecen extensiones atlánticas salvajes, mientras que la costa este del Algarve alrededor de Tavira tiene la arena más tranquila para perros nadadores todo el año.",
+      "introEn": "The Algarve has multiple official dog-friendly beaches within 30 minutes of Faro, the barrier islands of the Ria Formosa offer wild Atlantic stretches, while the eastern Algarve coast around Tavira has the calmest year-round sand for swimming dogs.",
+      "introFr": "L'Algarve compte plusieurs plages dog-friendly officielles à moins de 30 min de Faro, les îles barrières de la Ria Formosa offrent des étendues atlantiques sauvages, tandis que la côte est de l'Algarve autour de Tavira a le sable le plus calme pour les chiens nageurs toute l'année.",
+      "introEs": "El Algarve tiene varias playas dog-friendly oficiales a menos de 30 min de Faro, las islas barrera de la Ria Formosa ofrecen extensiones atlánticas salvajes, mientras que la costa este del Algarve alrededor de Tavira tiene la arena más tranquila para perros nadadores todo el año.",
       "places": [
         {
           "name": "Praia da Ilha Deserta",
@@ -503,9 +503,9 @@
           "leashRule": "Off-leash year-round outside the central tourist zone",
           "leashRuleFr": "Sans laisse toute l'année hors zone touristique centrale",
           "leashRuleEs": "Sin correa todo el año fuera de la zona turística central",
-          "description": "A car-free 10 km Atlantic barrier island — only one restaurant (Estaminé), no cars, no roads, just unbroken sand and dunes. Year-round dog-friendly with off-leash access on the western 8 km. Faro Marina ferry in 35 min.",
-          "descriptionFr": "Île barrière atlantique de 10 km sans voiture — un seul restaurant (Estaminé), pas de routes, juste sable et dunes ininterrompus. Dog-friendly toute l'année avec accès sans laisse sur les 8 km à l'ouest. Ferry depuis la marina de Faro en 35 min.",
-          "descriptionEs": "Isla barrera atlántica de 10 km sin coches — solo un restaurante (Estaminé), sin carreteras, solo arena y dunas ininterrumpidas. Dog-friendly todo el año con acceso sin correa en los 8 km occidentales. Ferry desde la Marina de Faro en 35 min.",
+          "description": "A car-free 10 km Atlantic barrier island, only one restaurant (Estaminé), no cars, no roads, just unbroken sand and dunes. Year-round dog-friendly with off-leash access on the western 8 km. Faro Marina ferry in 35 min.",
+          "descriptionFr": "Île barrière atlantique de 10 km sans voiture, un seul restaurant (Estaminé), pas de routes, juste sable et dunes ininterrompus. Dog-friendly toute l'année avec accès sans laisse sur les 8 km à l'ouest. Ferry depuis la marina de Faro en 35 min.",
+          "descriptionEs": "Isla barrera atlántica de 10 km sin coches, solo un restaurante (Estaminé), sin carreteras, solo arena y dunas ininterrumpidas. Dog-friendly todo el año con acceso sin correa en los 8 km occidentales. Ferry desde la Marina de Faro en 35 min.",
           "amenities": [
             "One beach restaurant",
             "No facilities",
@@ -524,19 +524,19 @@
             "Dunas salvajes",
             "Boardwalk desde el embarcadero"
           ],
-          "tip": "Last ferry returns at 19:00 in summer, 17:00 in winter — bring water, sunshade and a picnic. The Estaminé restaurant requires reservation.",
-          "tipFr": "Le dernier ferry de retour est à 19h en été, 17h en hiver — apportez eau, ombrelle et pique-nique. Le restaurant Estaminé exige une réservation.",
-          "tipEs": "El último ferry de vuelta es a las 19:00 en verano, 17:00 en invierno — lleva agua, sombrilla y picnic. El restaurante Estaminé requiere reserva.",
+          "tip": "Last ferry returns at 19:00 in summer, 17:00 in winter, bring water, sunshade and a picnic. The Estaminé restaurant requires reservation.",
+          "tipFr": "Le dernier ferry de retour est à 19h en été, 17h en hiver, apportez eau, ombrelle et pique-nique. Le restaurant Estaminé exige une réservation.",
+          "tipEs": "El último ferry de vuelta es a las 19:00 en verano, 17:00 en invierno, lleva agua, sombrilla y picnic. El restaurante Estaminé requiere reserva.",
           "googleMapsUrl": "https://maps.google.com/?q=Ilha+Deserta+Faro",
           "leashRulePt": "Sem trela o ano inteiro fora da zona turística central",
-          "descriptionPt": "Ilha barrera atlântica de 10 km sem carros — só um restaurante (Estaminé), sem carreteras, só areia e dunas ininterrumpidas. Pet-friendly o ano inteiro com acesso sem trela nos 8 km occidentales. Ferry a partir da Marina de Faro em 35 min.",
+          "descriptionPt": "Ilha barrera atlântica de 10 km sem carros, só um restaurante (Estaminé), sem carreteras, só areia e dunas ininterrumpidas. Pet-friendly o ano inteiro com acesso sem trela nos 8 km occidentales. Ferry a partir da Marina de Faro em 35 min.",
           "amenitiesPt": [
             "Um restaurante de praia",
             "Sem instalações",
             "Dunas salvajes",
             "Boardwalk a partir do embarcadero"
           ],
-          "tipPt": "O último ferry de vuelta é a as 19:00 em verão, 17:00 em inverno — leva água, sombrilla e picnic. O restaurante Estaminé requiere reserva."
+          "tipPt": "O último ferry de vuelta é a as 19:00 em verão, 17:00 em inverno, leva água, sombrilla e picnic. O restaurante Estaminé requiere reserva."
         },
         {
           "name": "Praia do Barril",
@@ -545,9 +545,9 @@
           "leashRule": "Off-leash on the dog-friendly section year-round",
           "leashRuleFr": "Sans laisse sur la section dog-friendly toute l'année",
           "leashRuleEs": "Sin correa en la sección dog-friendly todo el año",
-          "description": "On the Tavira-Ilha de Tavira barrier island, 35 km east of Faro — accessible by foot bridge or miniature train from Pedras del Rei. The 'Cemitério das Âncoras' (Anchor Cemetery) east of the central beach has a year-round dog zone.",
-          "descriptionFr": "Sur l'île barrière Tavira-Ilha de Tavira, à 35 km à l'est de Faro — accessible par passerelle ou train miniature depuis Pedras del Rei. Le « Cemitério das Âncoras » (cimetière d'ancres) à l'est de la plage centrale a une zone canine toute l'année.",
-          "descriptionEs": "En la isla barrera Tavira-Ilha de Tavira, a 35 km al este de Faro — accesible por puente peatonal o tren en miniatura desde Pedras del Rei. El « Cemitério das Âncoras » (cementerio de anclas) al este de la playa central tiene una zona canina todo el año.",
+          "description": "On the Tavira-Ilha de Tavira barrier island, 35 km east of Faro, accessible by foot bridge or miniature train from Pedras del Rei. The 'Cemitério das Âncoras' (Anchor Cemetery) east of the central beach has a year-round dog zone.",
+          "descriptionFr": "Sur l'île barrière Tavira-Ilha de Tavira, à 35 km à l'est de Faro, accessible par passerelle ou train miniature depuis Pedras del Rei. Le « Cemitério das Âncoras » (cimetière d'ancres) à l'est de la plage centrale a une zone canine toute l'année.",
+          "descriptionEs": "En la isla barrera Tavira-Ilha de Tavira, a 35 km al este de Faro, accesible por puente peatonal o tren en miniatura desde Pedras del Rei. El « Cemitério das Âncoras » (cementerio de anclas) al este de la playa central tiene una zona canina todo el año.",
           "amenities": [
             "Footbridge access",
             "Miniature train",
@@ -566,19 +566,19 @@
             "Restaurante de playa",
             "Parking de pago en Pedras del Rei"
           ],
-          "tip": "The 1.5 km miniature train ride is the iconic Algarve experience — leashed dogs accepted on the open carriages, free of charge.",
-          "tipFr": "Le trajet de 1,5 km en train miniature est l'expérience emblématique de l'Algarve — chiens en laisse acceptés sur les wagons ouverts, gratuit.",
-          "tipEs": "El recorrido de 1,5 km en tren miniatura es la experiencia emblemática del Algarve — perros con correa admitidos en los vagones abiertos, gratis.",
+          "tip": "The 1.5 km miniature train ride is the iconic Algarve experience, leashed dogs accepted on the open carriages, free of charge.",
+          "tipFr": "Le trajet de 1,5 km en train miniature est l'expérience emblématique de l'Algarve, chiens en laisse acceptés sur les wagons ouverts, gratuit.",
+          "tipEs": "El recorrido de 1,5 km en tren miniatura es la experiencia emblemática del Algarve, perros con correa admitidos en los vagones abiertos, gratis.",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Barril+Tavira",
           "leashRulePt": "Sem trela na secção pet-friendly o ano inteiro",
-          "descriptionPt": "Na ilha barrera Tavira-Ilha de Tavira, a 35 km a leste de Faro — acessível por ponte peatonal o comboio em miniatura a partir de Pedras do Rei. O « Cemitério das Âncoras » (cementerio de anclas) a leste da praia central tem uma zona canina o ano inteiro.",
+          "descriptionPt": "Na ilha barrera Tavira-Ilha de Tavira, a 35 km a leste de Faro, acessível por ponte peatonal o comboio em miniatura a partir de Pedras do Rei. O « Cemitério das Âncoras » (cementerio de anclas) a leste da praia central tem uma zona canina o ano inteiro.",
           "amenitiesPt": [
             "Pasarela peatonal",
             "Comboio miniatura",
             "Restaurante de praia",
             "Parking de pago em Pedras do Rei"
           ],
-          "tipPt": "O recorrido de 1,5 km de comboio miniatura é a experiencia emblemática do Algarve — cães com trela admitidos nos vagones abertos, grátis."
+          "tipPt": "O recorrido de 1,5 km de comboio miniatura é a experiencia emblemática do Algarve, cães com trela admitidos nos vagones abertos, grátis."
         },
         {
           "name": "Praia de Faro (West Section)",
@@ -587,9 +587,9 @@
           "leashRule": "Off-leash on the western 'praia para cães' year-round",
           "leashRuleFr": "Sans laisse sur la « praia para cães » occidentale toute l'année",
           "leashRuleEs": "Sin correa en la « praia para cães » occidental todo el año",
-          "description": "Faro's main beach on Ilha de Faro, 9 km from the centre — bus 14/16 in 20 min. The western section beyond the parking ('praia para cães') is the official year-round dog beach; the central tourist zone excludes dogs from June 1 to September 30.",
-          "descriptionFr": "La plage principale de Faro sur l'Ilha de Faro, à 9 km du centre — bus 14/16 en 20 min. La section ouest au-delà du parking (« praia para cães ») est la plage canine officielle toute l'année ; la zone touristique centrale exclut les chiens du 1er juin au 30 septembre.",
-          "descriptionEs": "La playa principal de Faro en la Ilha de Faro, a 9 km del centro — bus 14/16 en 20 min. La sección oeste más allá del parking (« praia para cães ») es la playa canina oficial todo el año; la zona turística central excluye perros del 1 de junio al 30 de septiembre.",
+          "description": "Faro's main beach on Ilha de Faro, 9 km from the centre, bus 14/16 in 20 min. The western section beyond the parking ('praia para cães') is the official year-round dog beach; the central tourist zone excludes dogs from June 1 to September 30.",
+          "descriptionFr": "La plage principale de Faro sur l'Ilha de Faro, à 9 km du centre, bus 14/16 en 20 min. La section ouest au-delà du parking (« praia para cães ») est la plage canine officielle toute l'année ; la zone touristique centrale exclut les chiens du 1er juin au 30 septembre.",
+          "descriptionEs": "La playa principal de Faro en la Ilha de Faro, a 9 km del centro, bus 14/16 en 20 min. La sección oeste más allá del parking (« praia para cães ») es la playa canina oficial todo el año; la zona turística central excluye perros del 1 de junio al 30 de septiembre.",
           "amenities": [
             "Free parking",
             "Beach bars (May-Oct)",
@@ -608,35 +608,35 @@
             "Aseos públicos",
             "Vigilancia (junio-septiembre lado turístico)"
           ],
-          "tip": "Walk west from the parking for at least 600 m to reach the official dog zone — the central beach excludes dogs in summer with 50 € fines on the spot.",
-          "tipFr": "Marchez ouest depuis le parking sur au moins 600 m pour atteindre la zone canine officielle — la plage centrale exclut les chiens en été avec amendes de 50 € sur place.",
-          "tipEs": "Camina al oeste desde el parking al menos 600 m para llegar a la zona canina oficial — la playa central excluye perros en verano con multas de 50 € in situ.",
+          "tip": "Walk west from the parking for at least 600 m to reach the official dog zone, the central beach excludes dogs in summer with 50 € fines on the spot.",
+          "tipFr": "Marchez ouest depuis le parking sur au moins 600 m pour atteindre la zone canine officielle, la plage centrale exclut les chiens en été avec amendes de 50 € sur place.",
+          "tipEs": "Camina al oeste desde el parking al menos 600 m para llegar a la zona canina oficial, la playa central excluye perros en verano con multas de 50 € in situ.",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Faro",
           "leashRulePt": "Sem trela na « praia para cães » occidental o ano inteiro",
-          "descriptionPt": "A praia principal de Faro na Ilha de Faro, a 9 km do centro — bus 14/16 em 20 min. A secção oeste mais allá do parking (« praia para cães ») é a praia canina oficial o ano inteiro; a zona turística central excluye cães do 1 de junho ao 30 de setembro.",
+          "descriptionPt": "A praia principal de Faro na Ilha de Faro, a 9 km do centro, bus 14/16 em 20 min. A secção oeste mais allá do parking (« praia para cães ») é a praia canina oficial o ano inteiro; a zona turística central excluye cães do 1 de junho ao 30 de setembro.",
           "amenitiesPt": [
             "Parking grátis",
             "Bares de praia (may-oct)",
             "Aseos públicos",
             "Vigilancia (junho-setembro lado turístico)"
           ],
-          "tipPt": "Camina al oeste a partir do parking al menos 600 m para chegar a zona canina oficial — a praia central excluye cães em verão com multas de 50 € in situ."
+          "tipPt": "Camina al oeste a partir do parking al menos 600 m para chegar a zona canina oficial, a praia central excluye cães em verão com multas de 50 € in situ."
         }
       ],
       "tipsEn": [
-        "Portuguese municipal beaches typically exclude dogs from June 1 to September 30 except in marked 'praia para cães' / 'dog beach' zones — always verify before driving.",
-        "Sand temperatures in July-August often exceed 50 °C — boots or paw balm are essential; restrict beach time to before 10:00 or after 18:00.",
-        "Atlantic water is colder than Mediterranean (16-22 °C peak summer); bring a thick towel even in August. Currents on the open Atlantic side can be strong — leash up swimming dogs."
+        "Portuguese municipal beaches typically exclude dogs from June 1 to September 30 except in marked 'praia para cães' / 'dog beach' zones, always verify before driving.",
+        "Sand temperatures in July-August often exceed 50 °C, boots or paw balm are essential; restrict beach time to before 10:00 or after 18:00.",
+        "Atlantic water is colder than Mediterranean (16-22 °C peak summer); bring a thick towel even in August. Currents on the open Atlantic side can be strong, leash up swimming dogs."
       ],
       "tipsFr": [
-        "Les plages municipales portugaises excluent généralement les chiens du 1er juin au 30 septembre sauf dans les zones « praia para cães » / « dog beach » signalées — vérifiez toujours avant de partir.",
-        "Les températures du sable en juillet-août dépassent souvent 50 °C — bottines ou baume essentiels ; limitez la plage avant 10h ou après 18h.",
-        "L'eau atlantique est plus froide que la Méditerranée (16-22 °C en plein été) ; apportez une serviette épaisse même en août. Les courants côté atlantique ouvert peuvent être forts — gardez les chiens nageurs en laisse."
+        "Les plages municipales portugaises excluent généralement les chiens du 1er juin au 30 septembre sauf dans les zones « praia para cães » / « dog beach » signalées, vérifiez toujours avant de partir.",
+        "Les températures du sable en juillet-août dépassent souvent 50 °C, bottines ou baume essentiels ; limitez la plage avant 10h ou après 18h.",
+        "L'eau atlantique est plus froide que la Méditerranée (16-22 °C en plein été) ; apportez une serviette épaisse même en août. Les courants côté atlantique ouvert peuvent être forts, gardez les chiens nageurs en laisse."
       ],
       "tipsEs": [
-        "Las playas municipales portuguesas suelen excluir perros del 1 de junio al 30 de septiembre salvo en zonas « praia para cães » / « dog beach » señalizadas — verifica siempre antes de ir.",
-        "Las temperaturas de la arena en julio-agosto suelen superar 50 °C — botines o bálsamo imprescindibles; limita la playa antes de las 10:00 o después de las 18:00.",
-        "El agua atlántica es más fría que la mediterránea (16-22 °C en pleno verano); lleva una toalla gruesa incluso en agosto. Las corrientes en el lado atlántico abierto pueden ser fuertes — ata con correa a los perros nadadores."
+        "Las playas municipales portuguesas suelen excluir perros del 1 de junio al 30 de septiembre salvo en zonas « praia para cães » / « dog beach » señalizadas, verifica siempre antes de ir.",
+        "Las temperaturas de la arena en julio-agosto suelen superar 50 °C, botines o bálsamo imprescindibles; limita la playa antes de las 10:00 o después de las 18:00.",
+        "El agua atlántica es más fría que la mediterránea (16-22 °C en pleno verano); lleva una toalla gruesa incluso en agosto. Las corrientes en el lado atlántico abierto pueden ser fuertes, ata con correa a los perros nadadores."
       ],
       "faqsEn": [
         {
@@ -669,11 +669,11 @@
         }
       ],
       "titlePt": "Praias pet-friendly perto de Faro",
-      "introPt": "O Algarve tem varias praias pet-friendly oficiais a menos de 30 min de Faro — as ilhas barrera da Ria Formosa ofrecen extensiones atlánticas salvajes, mientras que a costa este do Algarve alrededor de Tavira tem a areia mais tranquila para cães nadadores o ano inteiro.",
+      "introPt": "O Algarve tem varias praias pet-friendly oficiais a menos de 30 min de Faro, as ilhas barrera da Ria Formosa ofrecen extensiones atlánticas salvajes, mientras que a costa este do Algarve alrededor de Tavira tem a areia mais tranquila para cães nadadores o ano inteiro.",
       "tipsPt": [
-        "As praias municipales portuguesas costumam excluir cães do 1 de junho ao 30 de setembro salvo em zonas « praia para cães » / « dog beach » senhalizadas — verifica sempre antes de ir.",
-        "As temperaturas da areia em julho-agosto costumam superar 50 °C — botines o bálsamo imprescindibles; limita a praia antes das 10:00 o después das 18:00.",
-        "O água atlântica é mais fria que a mediterrânea (16-22 °C em pleno verão); leva uma toalla gruesa mesmo em agosto. As corrientes não lado atlântico aberto podem ser fuertes — ata com trela aos cães nadadores."
+        "As praias municipales portuguesas costumam excluir cães do 1 de junho ao 30 de setembro salvo em zonas « praia para cães » / « dog beach » senhalizadas, verifica sempre antes de ir.",
+        "As temperaturas da areia em julho-agosto costumam superar 50 °C, botines o bálsamo imprescindibles; limita a praia antes das 10:00 o después das 18:00.",
+        "O água atlântica é mais fria que a mediterrânea (16-22 °C em pleno verão); leva uma toalla gruesa mesmo em agosto. As corrientes não lado atlântico aberto podem ser fuertes, ata com trela aos cães nadadores."
       ],
       "faqsPt": [
         {
@@ -687,9 +687,9 @@
       ]
     },
     "vets": {
-      "titleEn": "24h Emergency Vets in Faro — Veterinary Clinics & Pet Care",
-      "titleFr": "Vétérinaire d'urgence 24h/24 à Faro — Cliniques et soins animaliers",
-      "titleEs": "Veterinario de urgencias 24h en Faro — Hospitales y clínicas veterinarias",
+      "titleEn": "24h Emergency Vets in Faro, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaire d'urgence 24h/24 à Faro, Cliniques et soins animaliers",
+      "titleEs": "Veterinario de urgencias 24h en Faro, Hospitales y clínicas veterinarias",
       "introEn": "Faro has solid day-time vet coverage and one regional 24h emergency clinic in central Faro. The Lisbon University Veterinary Faculty 3h north is the major referral centre.",
       "introFr": "Faro dispose d'une bonne couverture vétérinaire en journée et d'une clinique d'urgences régionale 24h/24 dans le centre de Faro. La Faculté vétérinaire universitaire de Lisbonne, à 3h au nord, est le grand centre de référence.",
       "introEs": "Faro tiene buena cobertura veterinaria diurna y una clínica regional de urgencias 24h en el centro de Faro. La Facultad Veterinaria Universitaria de Lisboa, a 3h al norte, es el gran centro de referencia.",
@@ -706,16 +706,16 @@
             "Spanish"
           ],
           "website": "https://www.hospitalveterinarioalgarve.pt/",
-          "description": "24h emergency veterinary hospital in central Faro on Estrada de São Brás — full surgery, ICU, ultrasound, X-ray, MRI. The closest 24/7 vet for the entire Algarve coast.",
-          "descriptionFr": "Hôpital vétérinaire d'urgences 24h/24 dans le centre de Faro sur Estrada de São Brás — chirurgie complète, USI, échographie, radio, IRM. Le vétérinaire 24h/24 le plus proche pour toute la côte de l'Algarve.",
-          "descriptionEs": "Hospital veterinario de urgencias 24h en el centro de Faro en la Estrada de São Brás — cirugía completa, UCI, ecografía, rayos X, RM. El veterinario 24/7 más cercano para toda la costa del Algarve.",
+          "description": "24h emergency veterinary hospital in central Faro on Estrada de São Brás, full surgery, ICU, ultrasound, X-ray, MRI. The closest 24/7 vet for the entire Algarve coast.",
+          "descriptionFr": "Hôpital vétérinaire d'urgences 24h/24 dans le centre de Faro sur Estrada de São Brás, chirurgie complète, USI, échographie, radio, IRM. Le vétérinaire 24h/24 le plus proche pour toute la côte de l'Algarve.",
+          "descriptionEs": "Hospital veterinario de urgencias 24h en el centro de Faro en la Estrada de São Brás, cirugía completa, UCI, ecografía, rayos X, RM. El veterinario 24/7 más cercano para toda la costa del Algarve.",
           "openingHours": "24/7 emergency",
-          "tip": "Call before driving in — they triage by phone and may redirect for non-urgent overnight cases.",
-          "tipFr": "Appelez avant de venir — triage par téléphone et possible redirection pour cas non urgents la nuit.",
-          "tipEs": "Llama antes de ir — triaje por teléfono y posible redirección para casos no urgentes en la noche.",
+          "tip": "Call before driving in, they triage by phone and may redirect for non-urgent overnight cases.",
+          "tipFr": "Appelez avant de venir, triage par téléphone et possible redirection pour cas non urgents la nuit.",
+          "tipEs": "Llama antes de ir, triaje por teléfono y posible redirección para casos no urgentes en la noche.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Algarve+Faro",
-          "descriptionPt": "Hospital veterinário de urgências 24h no centro de Faro na Estrada de São Brás — cirugía completa, UCI, ecografía, rayos X, RM. O veterinário 24/7 mais cercano para toda a costa do Algarve.",
-          "tipPt": "Liga antes de ir — triaje por teléfono e posible redirección para casos não urgentes na noite."
+          "descriptionPt": "Hospital veterinário de urgências 24h no centro de Faro na Estrada de São Brás, cirugía completa, UCI, ecografía, rayos X, RM. O veterinário 24/7 mais cercano para toda a costa do Algarve.",
+          "tipPt": "Liga antes de ir, triaje por teléfono e posible redirección para casos não urgentes na noite."
         },
         {
           "name": "Clínica Veterinária Anicura Faro",
@@ -728,14 +728,14 @@
             "English"
           ],
           "website": "https://www.anicura.pt/clinicas/faro/",
-          "description": "Modern day-time small-animal practice in central Faro — general medicine, vaccinations, surgery, dentistry. After-hours calls divert to Hospital Veterinário do Algarve 24h.",
-          "descriptionFr": "Cabinet moderne pour petits animaux dans le centre de Faro — médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers Hospital Veterinário do Algarve 24h.",
-          "descriptionEs": "Clínica moderna para pequeños animales en el centro de Faro — medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas al Hospital Veterinário do Algarve 24h.",
+          "description": "Modern day-time small-animal practice in central Faro, general medicine, vaccinations, surgery, dentistry. After-hours calls divert to Hospital Veterinário do Algarve 24h.",
+          "descriptionFr": "Cabinet moderne pour petits animaux dans le centre de Faro, médecine générale, vaccins, chirurgie, dentisterie. Appels hors horaires redirigés vers Hospital Veterinário do Algarve 24h.",
+          "descriptionEs": "Clínica moderna para pequeños animales en el centro de Faro, medicina general, vacunas, cirugía, odontología. Llamadas fuera de horario derivadas al Hospital Veterinário do Algarve 24h.",
           "openingHours": "Mon-Fri 09:00-19:00, Sat 09:00-13:00",
           "tip": "They speak fluent English and Spanish (Algarve has a large UK and Spanish expat community); accept walk-ins for vaccines and microchip checks before 11:00.",
           "tipFr": "L'anglais et l'espagnol sont parlés couramment (l'Algarve a une grande communauté expatriée britannique et espagnole) ; accueil sans rdv possible pour vaccins et puces avant 11h.",
           "tipEs": "Hablan inglés y español con fluidez (el Algarve tiene una gran comunidad expatriada británica y española); aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
-          "descriptionPt": "Clínica moderna para pequenos animales no centro de Faro — medicina general, vacinas, cirugía, odontología. Chamadas fora de horario derivadas al Hospital Veterinário do Algarve 24h.",
+          "descriptionPt": "Clínica moderna para pequenos animales no centro de Faro, medicina general, vacinas, cirugía, odontología. Chamadas fora de horario derivadas al Hospital Veterinário do Algarve 24h.",
           "tipPt": "Hablan inglês e espanhol com fluidez (o Algarve tem uma gran comunidad expatriada britânica e espanhola); aceitam visitas sem cita para vacinas e microchips antes das 11:00."
         },
         {
@@ -749,78 +749,78 @@
             "English"
           ],
           "website": "https://www.clinicaveterinariadoalgarve.pt/",
-          "description": "Day-time veterinary practice on Rua do Compromisso — general medicine, EU pet passport issuance, microchipping, behavioural consultations.",
-          "descriptionFr": "Cabinet vétérinaire de jour sur Rua do Compromisso — médecine générale, délivrance de passeport européen, puce, consultations comportementales.",
-          "descriptionEs": "Consulta veterinaria diurna en Rua do Compromisso — medicina general, expedición de pasaporte europeo, microchip, consultas conductuales.",
+          "description": "Day-time veterinary practice on Rua do Compromisso, general medicine, EU pet passport issuance, microchipping, behavioural consultations.",
+          "descriptionFr": "Cabinet vétérinaire de jour sur Rua do Compromisso, médecine générale, délivrance de passeport européen, puce, consultations comportementales.",
+          "descriptionEs": "Consulta veterinaria diurna en Rua do Compromisso, medicina general, expedición de pasaporte europeo, microchip, consultas conductuales.",
           "openingHours": "Mon-Fri 09:00-13:00, 15:00-19:00; Sat 09:00-13:00",
-          "tip": "Useful for issuing/updating an EU pet passport mid-trip — Compromisso charges around 25 € for a passport, 30 € for a microchip.",
-          "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage — Compromisso facture environ 25 € pour un passeport, 30 € pour une puce.",
-          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje — Compromisso cobra unos 25 € por pasaporte, 30 € por microchip.",
+          "tip": "Useful for issuing/updating an EU pet passport mid-trip, Compromisso charges around 25 € for a passport, 30 € for a microchip.",
+          "tipFr": "Utile pour émettre/mettre à jour un passeport européen en voyage, Compromisso facture environ 25 € pour un passeport, 30 € pour une puce.",
+          "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje, Compromisso cobra unos 25 € por pasaporte, 30 € por microchip.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Algarve+Faro",
-          "descriptionPt": "Consulta veterinária diurna em Rua do Compromisso — medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
-          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje — Compromisso cobra uns 25 € por passaporte, 30 € por microchip."
+          "descriptionPt": "Consulta veterinária diurna em Rua do Compromisso, medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje, Compromisso cobra uns 25 € por passaporte, 30 € por microchip."
         }
       ],
       "tipsEn": [
-        "Portugal is in the EU and Schengen — standard EU pet passport with valid rabies vaccination and ISO microchip is sufficient for entry.",
-        "UK travellers entering Portugal post-Brexit need a GB Animal Health Certificate (AHC) issued in the EU within 10 days of travel — Faro Hospital can issue return-to-UK paperwork.",
+        "Portugal is in the EU and Schengen, standard EU pet passport with valid rabies vaccination and ISO microchip is sufficient for entry.",
+        "UK travellers entering Portugal post-Brexit need a GB Animal Health Certificate (AHC) issued in the EU within 10 days of travel, Faro Hospital can issue return-to-UK paperwork.",
         "Always carry the original EU pet passport: photocopies are not accepted by Portuguese vet offices for export certificates."
       ],
       "tipsFr": [
-        "Le Portugal est dans l'UE et l'espace Schengen — un passeport européen standard avec vaccin antirabique en cours et puce ISO suffit pour l'entrée.",
-        "Les voyageurs britanniques entrant au Portugal post-Brexit ont besoin d'un GB Animal Health Certificate (AHC) délivré dans l'UE dans les 10 jours précédant le voyage — l'hôpital de Faro peut délivrer la paperasse de retour au Royaume-Uni.",
+        "Le Portugal est dans l'UE et l'espace Schengen, un passeport européen standard avec vaccin antirabique en cours et puce ISO suffit pour l'entrée.",
+        "Les voyageurs britanniques entrant au Portugal post-Brexit ont besoin d'un GB Animal Health Certificate (AHC) délivré dans l'UE dans les 10 jours précédant le voyage, l'hôpital de Faro peut délivrer la paperasse de retour au Royaume-Uni.",
         "Portez toujours le passeport européen original : les photocopies ne sont pas acceptées par les cabinets portugais pour les certificats d'export."
       ],
       "tipsEs": [
-        "Portugal está en la UE y Schengen — un pasaporte europeo estándar con vacuna antirrábica vigente y microchip ISO basta para entrar.",
-        "Los viajeros británicos que entran a Portugal post-Brexit necesitan un GB Animal Health Certificate (AHC) emitido en la UE en los 10 días previos al viaje — el hospital de Faro puede emitir el papeleo de retorno al Reino Unido.",
+        "Portugal está en la UE y Schengen, un pasaporte europeo estándar con vacuna antirrábica vigente y microchip ISO basta para entrar.",
+        "Los viajeros británicos que entran a Portugal post-Brexit necesitan un GB Animal Health Certificate (AHC) emitido en la UE en los 10 días previos al viaje, el hospital de Faro puede emitir el papeleo de retorno al Reino Unido.",
         "Lleva siempre el pasaporte europeo original: las clínicas portuguesas no aceptan fotocopias para certificados de exportación."
       ],
       "faqsEn": [
         {
           "q": "Where is the 24h emergency vet near Faro?",
-          "a": "Hospital Veterinário do Algarve at Estrada de São Brás 25, +351 289 880 100 — central Faro, walking distance from most hotels. Call ahead for triage."
+          "a": "Hospital Veterinário do Algarve at Estrada de São Brás 25, +351 289 880 100, central Faro, walking distance from most hotels. Call ahead for triage."
         },
         {
           "q": "Do I need a pet passport for Faro?",
-          "a": "Yes for entry from outside Portugal. EU pet passport with rabies vaccination (≥21 days, not expired) and ISO microchip — standard EU rules. UK travellers need an Animal Health Certificate post-Brexit."
+          "a": "Yes for entry from outside Portugal. EU pet passport with rabies vaccination (≥21 days, not expired) and ISO microchip, standard EU rules. UK travellers need an Animal Health Certificate post-Brexit."
         }
       ],
       "faqsFr": [
         {
           "q": "Où se trouve le vétérinaire d'urgence 24h/24 près de Faro ?",
-          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100 — centre de Faro, à distance de marche de la plupart des hôtels. Appelez avant pour triage."
+          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100, centre de Faro, à distance de marche de la plupart des hôtels. Appelez avant pour triage."
         },
         {
           "q": "Faut-il un passeport européen pour Faro ?",
-          "a": "Oui pour entrer depuis hors-Portugal. Passeport européen avec vaccin antirabique (≥21 jours, non périmé) et puce ISO — règles UE standard. Les voyageurs britanniques ont besoin d'un Animal Health Certificate post-Brexit."
+          "a": "Oui pour entrer depuis hors-Portugal. Passeport européen avec vaccin antirabique (≥21 jours, non périmé) et puce ISO, règles UE standard. Les voyageurs britanniques ont besoin d'un Animal Health Certificate post-Brexit."
         }
       ],
       "faqsEs": [
         {
           "q": "¿Dónde está el veterinario de urgencias 24h cerca de Faro?",
-          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100 — centro de Faro, a distancia caminable de la mayoría de los hoteles. Llama antes para triaje."
+          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100, centro de Faro, a distancia caminable de la mayoría de los hoteles. Llama antes para triaje."
         },
         {
           "q": "¿Necesito pasaporte europeo para Faro?",
-          "a": "Sí para entrar desde fuera de Portugal. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO — normas UE estándar. Los viajeros británicos necesitan un Animal Health Certificate post-Brexit."
+          "a": "Sí para entrar desde fuera de Portugal. Pasaporte europeo con vacuna antirrábica (≥21 días, no caducada) y microchip ISO, normas UE estándar. Los viajeros británicos necesitan un Animal Health Certificate post-Brexit."
         }
       ],
-      "titlePt": "Veterinário de urgências 24h em Faro — Hospitales e clínicas veterinárias",
+      "titlePt": "Veterinário de urgências 24h em Faro, Hospitales e clínicas veterinárias",
       "introPt": "Faro tem buena cobertura veterinária diurna e uma clínica regional de urgências 24h no centro de Faro. A Facultad Veterinária Universitaria de Lisboa, a 3h al norte, é o gran centro de referencia.",
       "tipsPt": [
-        "Portugal está na UE e Schengen — um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
-        "Os viajeros britânicos que entran a Portugal post-Brexit necesitan um GB Animal Health Certificate (AHC) emitido na UE nos 10 dias previos al viaje — o hospital de Faro pode emitir o papeleo de retorno al Reino Unido.",
+        "Portugal está na UE e Schengen, um passaporte europeu estándar com vacina antirrábica vigente e microchip ISO basta para entrar.",
+        "Os viajeros britânicos que entran a Portugal post-Brexit necesitan um GB Animal Health Certificate (AHC) emitido na UE nos 10 dias previos al viaje, o hospital de Faro pode emitir o papeleo de retorno al Reino Unido.",
         "Leva sempre o passaporte europeu original: as clínicas portuguesas não aceitam fotocopias para certificados de exportación."
       ],
       "faqsPt": [
         {
           "q": "Dónde está o veterinário de urgências 24h perto de Faro?",
-          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100 — centro de Faro, a distancia pedonal da maioria dois hotéis. Liga antes para triaje."
+          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100, centro de Faro, a distancia pedonal da maioria dois hotéis. Liga antes para triaje."
         },
         {
           "q": "Necesito passaporte europeu para Faro?",
-          "a": "Sí para entrar a partir de fora de Portugal. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO — normas UE estándar. Os viajeros britânicos necesitan um Animal Health Certificate post-Brexit."
+          "a": "Sí para entrar a partir de fora de Portugal. Passaporte europeu com vacina antirrábica (≥21 dias, não caducada) e microchip ISO, normas UE estándar. Os viajeros britânicos necesitan um Animal Health Certificate post-Brexit."
         }
       ]
     },
@@ -828,54 +828,54 @@
       "titleEn": "Travelling to Faro with a Dog: Practical Tips",
       "titleFr": "Voyager à Faro avec un chien : conseils pratiques",
       "titleEs": "Viajar a Faro con perro: consejos prácticos",
-      "introEn": "Faro — the Algarve capital and the gateway to Portugal's southern coast — combines a compact medieval Cidade Velha, the 18,000-hectare Ria Formosa Natural Park, year-round dog beaches on barrier islands, and direct flights from across northern Europe.",
-      "introFr": "Faro — la capitale de l'Algarve et porte d'entrée de la côte sud du Portugal — combine une Cidade Velha médiévale compacte, le parc naturel de la Ria Formosa de 18 000 hectares, des plages canines toute l'année sur les îles barrières, et des vols directs depuis toute l'Europe du Nord.",
-      "introEs": "Faro — la capital del Algarve y puerta de entrada a la costa sur de Portugal — combina una Cidade Velha medieval compacta, el parque natural de la Ria Formosa de 18 000 hectáreas, playas caninas todo el año en las islas barrera, y vuelos directos desde todo el norte de Europa.",
+      "introEn": "Faro, the Algarve capital and the gateway to Portugal's southern coast, combines a compact medieval Cidade Velha, the 18,000-hectare Ria Formosa Natural Park, year-round dog beaches on barrier islands, and direct flights from across northern Europe.",
+      "introFr": "Faro, la capitale de l'Algarve et porte d'entrée de la côte sud du Portugal, combine une Cidade Velha médiévale compacte, le parc naturel de la Ria Formosa de 18 000 hectares, des plages canines toute l'année sur les îles barrières, et des vols directs depuis toute l'Europe du Nord.",
+      "introEs": "Faro, la capital del Algarve y puerta de entrada a la costa sur de Portugal, combina una Cidade Velha medieval compacta, el parque natural de la Ria Formosa de 18 000 hectáreas, playas caninas todo el año en las islas barrera, y vuelos directos desde todo el norte de Europa.",
       "places": [
         {
           "name": "Best season for visiting Faro with a dog",
           "photo": "/images/city-places/faro-tips-best-season-for-visiting-faro-with-a-dog.jpg",
-          "description": "March-May and September-November are ideal — average highs 18-25 °C, the Ria Formosa boardwalk pleasant, the Atlantic still swimmable for dogs in October. Avoid mid-July to mid-August: 32-38 °C heat, sand 50 °C+, central beaches close to dogs.",
-          "descriptionFr": "Mars-mai et septembre-novembre sont idéaux — maxima moyens 18-25 °C, le boardwalk de la Ria Formosa agréable, l'Atlantique encore baignable pour les chiens en octobre. Évitez mi-juillet à mi-août : chaleur 32-38 °C, sable 50 °C+, plages centrales fermées aux chiens.",
-          "descriptionEs": "Marzo-mayo y septiembre-noviembre son ideales — máximas medias 18-25 °C, el boardwalk de la Ria Formosa agradable, el Atlántico aún bañable para perros en octubre. Evita mediados de julio a mediados de agosto: calor 32-38 °C, arena 50 °C+, playas centrales cerradas a perros.",
-          "descriptionPt": "Março-maio e setembro-novembro são ideales — máximas medias 18-25 °C, o boardwalk da Ria Formosa agradable, o Atlântico aún banhable para cães em outubro. Evita mediados de julho a mediados de agosto: calor 32-38 °C, areia 50 °C+, praias centrales fechadas a cães."
+          "description": "March-May and September-November are ideal, average highs 18-25 °C, the Ria Formosa boardwalk pleasant, the Atlantic still swimmable for dogs in October. Avoid mid-July to mid-August: 32-38 °C heat, sand 50 °C+, central beaches close to dogs.",
+          "descriptionFr": "Mars-mai et septembre-novembre sont idéaux, maxima moyens 18-25 °C, le boardwalk de la Ria Formosa agréable, l'Atlantique encore baignable pour les chiens en octobre. Évitez mi-juillet à mi-août : chaleur 32-38 °C, sable 50 °C+, plages centrales fermées aux chiens.",
+          "descriptionEs": "Marzo-mayo y septiembre-noviembre son ideales, máximas medias 18-25 °C, el boardwalk de la Ria Formosa agradable, el Atlántico aún bañable para perros en octubre. Evita mediados de julio a mediados de agosto: calor 32-38 °C, arena 50 °C+, playas centrales cerradas a perros.",
+          "descriptionPt": "Março-maio e setembro-novembro são ideales, máximas medias 18-25 °C, o boardwalk da Ria Formosa agradable, o Atlântico aún banhable para cães em outubro. Evita mediados de julho a mediados de agosto: calor 32-38 °C, areia 50 °C+, praias centrales fechadas a cães."
         },
         {
           "name": "Post-Brexit UK travel paperwork",
           "photo": "/images/city-places/faro-tips-uk-paperwork.jpg",
-          "description": "UK travellers to Faro need a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of travel — same as for any EU entry. Tapeworm treatment is required only for return travel to the UK if your vet recommends it (not mandatory in 2026 outside Ireland/Malta/Norway/Finland routes).",
-          "descriptionFr": "Les voyageurs britanniques pour Faro ont besoin d'un GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant le voyage — comme pour toute entrée UE. Le traitement contre le ténia n'est requis que pour le retour vers le Royaume-Uni si votre vétérinaire le recommande (non obligatoire en 2026 hors itinéraires Irlande/Malte/Norvège/Finlande).",
-          "descriptionEs": "Los viajeros británicos a Faro necesitan un GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos al viaje — igual que para cualquier entrada UE. El tratamiento de tenia solo se exige para el retorno al Reino Unido si tu veterinario lo recomienda (no obligatorio en 2026 fuera de rutas Irlanda/Malta/Noruega/Finlandia).",
-          "descriptionPt": "Os viajeros britânicos a Faro necesitan um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias previos al viaje — igual que para cualquier entrada UE. O tratamento de tenia só se exige para o retorno al Reino Unido se tu veterinário lo recomienda (não obrigatório em 2026 fora de rutas Irlanda/Malta/Norueguesa/Finlândia)."
+          "description": "UK travellers to Faro need a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of travel, same as for any EU entry. Tapeworm treatment is required only for return travel to the UK if your vet recommends it (not mandatory in 2026 outside Ireland/Malta/Norway/Finland routes).",
+          "descriptionFr": "Les voyageurs britanniques pour Faro ont besoin d'un GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant le voyage, comme pour toute entrée UE. Le traitement contre le ténia n'est requis que pour le retour vers le Royaume-Uni si votre vétérinaire le recommande (non obligatoire en 2026 hors itinéraires Irlande/Malte/Norvège/Finlande).",
+          "descriptionEs": "Los viajeros británicos a Faro necesitan un GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos al viaje, igual que para cualquier entrada UE. El tratamiento de tenia solo se exige para el retorno al Reino Unido si tu veterinario lo recomienda (no obligatorio en 2026 fuera de rutas Irlanda/Malta/Noruega/Finlandia).",
+          "descriptionPt": "Os viajeros britânicos a Faro necesitan um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias previos al viaje, igual que para cualquier entrada UE. O tratamento de tenia só se exige para o retorno al Reino Unido se tu veterinário lo recomienda (não obrigatório em 2026 fora de rutas Irlanda/Malta/Norueguesa/Finlândia)."
         },
         {
           "name": "Currency & cost",
           "photo": "/images/city-places/faro-tips-currency-cost.jpg",
-          "description": "Portugal uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Faro hotels average 8-12 €/night — among the lowest in southern Europe, well below the Algarve resort prices in Albufeira and Vilamoura.",
-          "descriptionFr": "Le Portugal utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Faro tournent autour de 8-12 €/nuit — parmi les plus bas du sud de l'Europe, bien en-dessous des prix des stations balnéaires de l'Algarve à Albufeira et Vilamoura.",
-          "descriptionEs": "Portugal usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Faro rondan 8-12 €/noche — de los más bajos del sur de Europa, muy por debajo de los precios de las estaciones balnearias del Algarve en Albufeira y Vilamoura.",
-          "descriptionPt": "Portugal usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais em hotéis de Faro rondan 8-12 €/noite — dois mais bajos do sul de Europa, muito por debajo dois preços das estações balnearias do Algarve em Albufeira e Vilamoura."
+          "description": "Portugal uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Faro hotels average 8-12 €/night, among the lowest in southern Europe, well below the Algarve resort prices in Albufeira and Vilamoura.",
+          "descriptionFr": "Le Portugal utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Faro tournent autour de 8-12 €/nuit, parmi les plus bas du sud de l'Europe, bien en-dessous des prix des stations balnéaires de l'Algarve à Albufeira et Vilamoura.",
+          "descriptionEs": "Portugal usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Faro rondan 8-12 €/noche, de los más bajos del sur de Europa, muy por debajo de los precios de las estaciones balnearias del Algarve en Albufeira y Vilamoura.",
+          "descriptionPt": "Portugal usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais em hotéis de Faro rondan 8-12 €/noite, dois mais bajos do sul de Europa, muito por debajo dois preços das estações balnearias do Algarve em Albufeira e Vilamoura."
         }
       ],
       "tipsEn": [
-        "Faro is one of Europe's most affordable dog-friendly Atlantic destinations — average pet supplement 8-12 €/night, hotel rates 40% below Albufeira and Lagos.",
+        "Faro is one of Europe's most affordable dog-friendly Atlantic destinations, average pet supplement 8-12 €/night, hotel rates 40% below Albufeira and Lagos.",
         "The Faro Animal Hospital can issue UK return-trip Animal Health Certificates (book 48h ahead, 80-120 €).",
         "Pair Faro with a Tavira (35 km east) or Olhão (8 km east) day trip for the calmest year-round dog beaches on the eastern Algarve."
       ],
       "tipsFr": [
-        "Faro est l'une des destinations atlantiques dog-friendly les plus abordables d'Europe — supplément animaux moyen 8-12 €/nuit, tarifs hôteliers 40 % en-dessous d'Albufeira et de Lagos.",
+        "Faro est l'une des destinations atlantiques dog-friendly les plus abordables d'Europe, supplément animaux moyen 8-12 €/nuit, tarifs hôteliers 40 % en-dessous d'Albufeira et de Lagos.",
         "L'hôpital vétérinaire de Faro peut délivrer des Animal Health Certificate de retour au Royaume-Uni (réservez 48h à l'avance, 80-120 €).",
         "Combinez Faro avec une journée à Tavira (35 km à l'est) ou Olhão (8 km à l'est) pour les plages canines toute l'année les plus calmes de l'Algarve oriental."
       ],
       "tipsEs": [
-        "Faro es uno de los destinos atlánticos dog-friendly más asequibles de Europa — suplemento medio para mascotas 8-12 €/noche, tarifas hoteleras un 40 % por debajo de Albufeira y Lagos.",
+        "Faro es uno de los destinos atlánticos dog-friendly más asequibles de Europa, suplemento medio para mascotas 8-12 €/noche, tarifas hoteleras un 40 % por debajo de Albufeira y Lagos.",
         "El hospital veterinario de Faro puede emitir Animal Health Certificate de retorno al Reino Unido (reserva con 48h de antelación, 80-120 €).",
         "Combina Faro con una excursión a Tavira (35 km al este) u Olhão (8 km al este) para las playas caninas todo el año más tranquilas del Algarve oriental."
       ],
       "faqsEn": [
         {
           "q": "Is Faro good for a dog-friendly weekend?",
-          "a": "Yes — Faro combines a UNESCO-rated Cidade Velha, the Ria Formosa Natural Park with year-round flamingo-rich boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and direct international flights. One of southern Europe's best dog-trip cities."
+          "a": "Yes, Faro combines a UNESCO-rated Cidade Velha, the Ria Formosa Natural Park with year-round flamingo-rich boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and direct international flights. One of southern Europe's best dog-trip cities."
         },
         {
           "q": "How does Faro compare to Lisbon for dog travel?",
@@ -885,7 +885,7 @@
       "faqsFr": [
         {
           "q": "Faro est-elle bien pour un week-end dog-friendly ?",
-          "a": "Oui — Faro combine une Cidade Velha UNESCO, le parc naturel de la Ria Formosa avec ses boardwalks aux flamants toute l'année, des plages canines atlantiques sur îles barrières en ferry, et des vols internationaux directs. L'une des meilleures villes du sud de l'Europe pour un voyage canin."
+          "a": "Oui, Faro combine une Cidade Velha UNESCO, le parc naturel de la Ria Formosa avec ses boardwalks aux flamants toute l'année, des plages canines atlantiques sur îles barrières en ferry, et des vols internationaux directs. L'une des meilleures villes du sud de l'Europe pour un voyage canin."
         },
         {
           "q": "Comment Faro se compare-t-elle à Lisbonne pour le voyage canin ?",
@@ -895,7 +895,7 @@
       "faqsEs": [
         {
           "q": "¿Faro es buena para un fin de semana dog-friendly?",
-          "a": "Sí — Faro combina una Cidade Velha UNESCO, el parque natural de la Ria Formosa con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera por ferry, y vuelos internacionales directos. Una de las mejores ciudades del sur de Europa para un viaje canino."
+          "a": "Sí, Faro combina una Cidade Velha UNESCO, el parque natural de la Ria Formosa con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera por ferry, y vuelos internacionales directos. Una de las mejores ciudades del sur de Europa para un viaje canino."
         },
         {
           "q": "¿Cómo se compara Faro con Lisboa para viajes caninos?",
@@ -903,16 +903,16 @@
         }
       ],
       "titlePt": "Viajar a Faro com cão: consejos prácticos",
-      "introPt": "Faro — a capital do Algarve e puerta de entrada a costa sur de Portugal — combina uma Cidade Velha medieval compacta, o parque natural da Ria Formosa de 18 000 hectáreas, praias caninas o ano inteiro nas ilhas barrera, e voos directos a partir de todo o norte de Europa.",
+      "introPt": "Faro, a capital do Algarve e puerta de entrada a costa sur de Portugal, combina uma Cidade Velha medieval compacta, o parque natural da Ria Formosa de 18 000 hectáreas, praias caninas o ano inteiro nas ilhas barrera, e voos directos a partir de todo o norte de Europa.",
       "tipsPt": [
-        "Faro é um dois os destinos atlánticos pet-friendly mais asequibles de Europa — suplemento medio para animais 8-12 €/noite, tarifas hoteleras um 40 % por debajo de Albufeira e Lagos.",
+        "Faro é um dois os destinos atlánticos pet-friendly mais asequibles de Europa, suplemento medio para animais 8-12 €/noite, tarifas hoteleras um 40 % por debajo de Albufeira e Lagos.",
         "O hospital veterinário de Faro pode emitir Animal Health Certificate de retorno al Reino Unido (reserva com 48h de antelación, 80-120 €).",
         "Combina Faro com uma excursión a Tavira (35 km al este) u Olhão (8 km al este) para as praias caninas o ano inteiro mais tranquilas do Algarve oriental."
       ],
       "faqsPt": [
         {
           "q": "Faro é buena para um fin de semana pet-friendly?",
-          "a": "Sí — Faro combina uma Cidade Velha UNESCO, o parque natural da Ria Formosa com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas em ilhas barrera por ferry, e voos internacionais directos. Uma das melhores cidades do sul de Europa para um viaje canino."
+          "a": "Sí, Faro combina uma Cidade Velha UNESCO, o parque natural da Ria Formosa com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas em ilhas barrera por ferry, e voos internacionais directos. Uma das melhores cidades do sul de Europa para um viaje canino."
         },
         {
           "q": "Como se compara Faro com Lisboa para viajes caninos?",
@@ -924,85 +924,85 @@
       "titleEn": "Pet-Friendly Attractions in Faro",
       "titleFr": "Attractions pet-friendly à Faro",
       "titleEs": "Atracciones pet-friendly en Faro",
-      "introEn": "Most of Faro's signature outdoor sights are dog-friendly — the Cidade Velha (Old Town) walls, the Arco da Vila gate, the marina, the Cathedral square and the Ria Formosa boardwalk all welcome leashed dogs free of charge.",
-      "introFr": "La plupart des sites extérieurs signatures de Faro sont dog-friendly — les remparts de la Cidade Velha, l'Arco da Vila, la marina, la place de la cathédrale et le boardwalk de la Ria Formosa accueillent tous les chiens en laisse gratuitement.",
-      "introEs": "La mayoría de los lugares exteriores emblemáticos de Faro son dog-friendly — las murallas de la Cidade Velha, el Arco da Vila, la marina, la plaza de la catedral y el boardwalk de la Ria Formosa admiten todos perros con correa gratis.",
+      "introEn": "Most of Faro's signature outdoor sights are dog-friendly, the Cidade Velha (Old Town) walls, the Arco da Vila gate, the marina, the Cathedral square and the Ria Formosa boardwalk all welcome leashed dogs free of charge.",
+      "introFr": "La plupart des sites extérieurs signatures de Faro sont dog-friendly, les remparts de la Cidade Velha, l'Arco da Vila, la marina, la place de la cathédrale et le boardwalk de la Ria Formosa accueillent tous les chiens en laisse gratuitement.",
+      "introEs": "La mayoría de los lugares exteriores emblemáticos de Faro son dog-friendly, las murallas de la Cidade Velha, el Arco da Vila, la marina, la plaza de la catedral y el boardwalk de la Ria Formosa admiten todos perros con correa gratis.",
       "places": [
         {
           "name": "Cidade Velha (Old Town)",
           "address": "Rua do Município, 8000-167 Faro",
           "photo": "/images/city-places/faro-attractions-cidade-velha-old-town.jpg",
           "petFriendly": true,
-          "description": "The medieval walled Old Town entered through the 19th-century Arco da Vila — cobbled lanes, the Sé cathedral square, the Bishop's palace, and the Roman-Moorish foundation walls. Open 24/7, dog-friendly with leashed dogs throughout. Cathedral interior admits assistance dogs only.",
-          "descriptionFr": "La vieille ville fortifiée médiévale franchie par l'Arco da Vila du XIXe siècle — ruelles pavées, place de la cathédrale (Sé), palais épiscopal et fondations romano-mauresques. Ouverte 24h/24, dog-friendly avec chiens en laisse partout. L'intérieur de la cathédrale n'admet que les chiens d'assistance.",
-          "descriptionEs": "El casco antiguo amurallado medieval, accesible por el Arco da Vila del siglo XIX — callejones adoquinados, plaza de la catedral (Sé), palacio episcopal y fundaciones romano-moriscas. Abierta 24/7, dog-friendly con perros con correa en todas partes. El interior de la catedral solo admite perros de asistencia.",
+          "description": "The medieval walled Old Town entered through the 19th-century Arco da Vila, cobbled lanes, the Sé cathedral square, the Bishop's palace, and the Roman-Moorish foundation walls. Open 24/7, dog-friendly with leashed dogs throughout. Cathedral interior admits assistance dogs only.",
+          "descriptionFr": "La vieille ville fortifiée médiévale franchie par l'Arco da Vila du XIXe siècle, ruelles pavées, place de la cathédrale (Sé), palais épiscopal et fondations romano-mauresques. Ouverte 24h/24, dog-friendly avec chiens en laisse partout. L'intérieur de la cathédrale n'admet que les chiens d'assistance.",
+          "descriptionEs": "El casco antiguo amurallado medieval, accesible por el Arco da Vila del siglo XIX, callejones adoquinados, plaza de la catedral (Sé), palacio episcopal y fundaciones romano-moriscas. Abierta 24/7, dog-friendly con perros con correa en todas partes. El interior de la catedral solo admite perros de asistencia.",
           "petPolicy": "Leashed dogs free; cathedral interior assistance only",
           "petPolicyFr": "Chiens en laisse gratuits ; intérieur cathédrale chiens d'assistance uniquement",
           "petPolicyEs": "Perros con correa gratis; interior catedral solo perros de asistencia",
           "openingHours": "24/7 (cathedral 10:00-17:30)",
-          "tip": "Climb the cathedral bell tower stairs (without the dog) for the best Cidade Velha aerial view; tie up the dog with the gatekeeper for 30 min — they will watch.",
-          "tipFr": "Montez l'escalier du clocher de la cathédrale (sans le chien) pour la meilleure vue aérienne de la Cidade Velha ; attachez le chien avec le gardien pour 30 min — ils surveillent.",
-          "tipEs": "Sube las escaleras del campanario de la catedral (sin el perro) para la mejor vista aérea de la Cidade Velha; ata al perro con el guardián durante 30 min — vigilan.",
+          "tip": "Climb the cathedral bell tower stairs (without the dog) for the best Cidade Velha aerial view; tie up the dog with the gatekeeper for 30 min, they will watch.",
+          "tipFr": "Montez l'escalier du clocher de la cathédrale (sans le chien) pour la meilleure vue aérienne de la Cidade Velha ; attachez le chien avec le gardien pour 30 min, ils surveillent.",
+          "tipEs": "Sube las escaleras del campanario de la catedral (sin el perro) para la mejor vista aérea de la Cidade Velha; ata al perro con el guardián durante 30 min, vigilan.",
           "googleMapsUrl": "https://maps.google.com/?q=Cidade+Velha+Faro",
-          "descriptionPt": "O centro histórico amurallado medieval, acessível pelo Arco da Vila do século XIX — ruelas adoquinados, praça da catedral (Sei), palácio episcopal e fundaciones romano-moriscas. Aberta 24/7, pet-friendly com cães com trela em todo o lado. O interior da catedral só admite cães de assistência.",
+          "descriptionPt": "O centro histórico amurallado medieval, acessível pelo Arco da Vila do século XIX, ruelas adoquinados, praça da catedral (Sei), palácio episcopal e fundaciones romano-moriscas. Aberta 24/7, pet-friendly com cães com trela em todo o lado. O interior da catedral só admite cães de assistência.",
           "petPolicyPt": "Cães com trela grátis; interior catedral só cães de assistência",
-          "tipPt": "Sube as escaleras do campanario da catedral (sem o cão) para a melhor vista aérea da Cidade Velha; ata al cão com o guardián durante 30 min — vigilan."
+          "tipPt": "Sube as escaleras do campanario da catedral (sem o cão) para a melhor vista aérea da Cidade Velha; ata al cão com o guardián durante 30 min, vigilan."
         },
         {
           "name": "Arco da Vila",
           "address": "Largo Dr. Francisco Sá Carneiro, 8000-151 Faro",
           "photo": "/images/city-places/faro-attractions-arco-da-vila.jpg",
           "petFriendly": true,
-          "description": "The 1812 neoclassical gate to the Cidade Velha — Italian-Carrara marble, stork nests on top in spring-summer (the city's iconic image). Open 24/7, dog-friendly with leashed dogs free of charge.",
-          "descriptionFr": "La porte néoclassique de 1812 vers la Cidade Velha — marbre italien de Carrare, nids de cigognes au sommet au printemps-été (l'image iconique de la ville). Ouvert 24h/24, dog-friendly avec chiens en laisse gratuits.",
-          "descriptionEs": "La puerta neoclásica de 1812 a la Cidade Velha — mármol italiano de Carrara, nidos de cigüeñas en la cima en primavera-verano (la imagen icónica de la ciudad). Abierto 24/7, dog-friendly con perros con correa gratis.",
+          "description": "The 1812 neoclassical gate to the Cidade Velha, Italian-Carrara marble, stork nests on top in spring-summer (the city's iconic image). Open 24/7, dog-friendly with leashed dogs free of charge.",
+          "descriptionFr": "La porte néoclassique de 1812 vers la Cidade Velha, marbre italien de Carrare, nids de cigognes au sommet au printemps-été (l'image iconique de la ville). Ouvert 24h/24, dog-friendly avec chiens en laisse gratuits.",
+          "descriptionEs": "La puerta neoclásica de 1812 a la Cidade Velha, mármol italiano de Carrara, nidos de cigüeñas en la cima en primavera-verano (la imagen icónica de la ciudad). Abierto 24/7, dog-friendly con perros con correa gratis.",
           "petPolicy": "Public arch, leashed dogs free",
           "petPolicyFr": "Arc public, chiens en laisse gratuits",
           "petPolicyEs": "Arco público, perros con correa gratis",
           "openingHours": "24/7",
-          "tip": "Stork-watching season is March-September — the chicks emerge in May, photographed best at sunset from the Praça D. Francisco Gomes side.",
-          "tipFr": "La saison d'observation des cigognes est de mars à septembre — les cigogneaux sortent en mai, mieux photographiés au coucher du soleil depuis la Praça D. Francisco Gomes.",
-          "tipEs": "La temporada de avistamiento de cigüeñas es de marzo a septiembre — los polluelos salen en mayo, mejor fotografiados al atardecer desde la Praça D. Francisco Gomes.",
+          "tip": "Stork-watching season is March-September, the chicks emerge in May, photographed best at sunset from the Praça D. Francisco Gomes side.",
+          "tipFr": "La saison d'observation des cigognes est de mars à septembre, les cigogneaux sortent en mai, mieux photographiés au coucher du soleil depuis la Praça D. Francisco Gomes.",
+          "tipEs": "La temporada de avistamiento de cigüeñas es de marzo a septiembre, los polluelos salen en mayo, mejor fotografiados al atardecer desde la Praça D. Francisco Gomes.",
           "googleMapsUrl": "https://maps.google.com/?q=Arco+da+Vila+Faro",
-          "descriptionPt": "A puerta neoclásica de 1812 a Cidade Velha — mármol italiano de Carrara, nidos de cigüenhas na cima em primavera-verão (a imagen icónica da cidade). Aberto 24/7, pet-friendly com cães com trela grátis.",
+          "descriptionPt": "A puerta neoclásica de 1812 a Cidade Velha, mármol italiano de Carrara, nidos de cigüenhas na cima em primavera-verão (a imagen icónica da cidade). Aberto 24/7, pet-friendly com cães com trela grátis.",
           "petPolicyPt": "Arco público, cães com trela grátis",
-          "tipPt": "A temporada de avistamiento de cigüenhas é de março a setembro — os polluelos salen em maio, melhor fotografiados al atardecer a partir da Praça D. Francisco Gomes."
+          "tipPt": "A temporada de avistamiento de cigüenhas é de março a setembro, os polluelos salen em maio, melhor fotografiados al atardecer a partir da Praça D. Francisco Gomes."
         },
         {
           "name": "Faro Marina & Esplanade",
           "address": "Doca de Recreio, 8000-076 Faro",
           "photo": "/images/city-places/faro-attractions-faro-marina-esplanade.jpg",
           "petFriendly": true,
-          "description": "The Faro pleasure-port marina with its 1 km esplanade alongside the Ria Formosa — café terraces, the ferry pier to the barrier islands, and views of the Ria Formosa salt marsh. Open 24/7, dog-friendly with leashed dogs throughout.",
-          "descriptionFr": "La marina de plaisance de Faro avec son esplanade d'1 km le long de la Ria Formosa — terrasses de café, embarcadère pour les îles barrières, et vues sur les marais salants. Ouverte 24h/24, dog-friendly avec chiens en laisse partout.",
-          "descriptionEs": "La marina de recreo de Faro con su esplanada de 1 km a lo largo de la Ria Formosa — terrazas de café, embarcadero a las islas barrera, y vistas a las marismas. Abierta 24/7, dog-friendly con perros con correa en todas partes.",
+          "description": "The Faro pleasure-port marina with its 1 km esplanade alongside the Ria Formosa, café terraces, the ferry pier to the barrier islands, and views of the Ria Formosa salt marsh. Open 24/7, dog-friendly with leashed dogs throughout.",
+          "descriptionFr": "La marina de plaisance de Faro avec son esplanade d'1 km le long de la Ria Formosa, terrasses de café, embarcadère pour les îles barrières, et vues sur les marais salants. Ouverte 24h/24, dog-friendly avec chiens en laisse partout.",
+          "descriptionEs": "La marina de recreo de Faro con su esplanada de 1 km a lo largo de la Ria Formosa, terrazas de café, embarcadero a las islas barrera, y vistas a las marismas. Abierta 24/7, dog-friendly con perros con correa en todas partes.",
           "petPolicy": "Public esplanade, leashed dogs free",
           "petPolicyFr": "Esplanade publique, chiens en laisse gratuits",
           "petPolicyEs": "Esplanada pública, perros con correa gratis",
           "openingHours": "24/7",
-          "tip": "Walk the esplanade at sunset — the salt marsh turns gold and the flamingos are most visible at low tide. Bring water in summer; zero shade.",
-          "tipFr": "Parcourez l'esplanade au coucher du soleil — les marais virent à l'or et les flamants sont les plus visibles à marée basse. Apportez de l'eau en été ; aucune ombre.",
-          "tipEs": "Camina por la esplanada al atardecer — las marismas se vuelven doradas y los flamencos son más visibles en marea baja. Lleva agua en verano; sin sombra.",
+          "tip": "Walk the esplanade at sunset, the salt marsh turns gold and the flamingos are most visible at low tide. Bring water in summer; zero shade.",
+          "tipFr": "Parcourez l'esplanade au coucher du soleil, les marais virent à l'or et les flamants sont les plus visibles à marée basse. Apportez de l'eau en été ; aucune ombre.",
+          "tipEs": "Camina por la esplanada al atardecer, las marismas se vuelven doradas y los flamencos son más visibles en marea baja. Lleva agua en verano; sin sombra.",
           "googleMapsUrl": "https://maps.google.com/?q=Faro+Marina",
-          "descriptionPt": "A marina de recreo de Faro com o seu esplanada de 1 km a lo longo da Ria Formosa — esplanadas de café, embarcadero a as ilhas barrera, e vistas a as marismas. Aberta 24/7, pet-friendly com cães com trela em todo o lado.",
+          "descriptionPt": "A marina de recreo de Faro com o seu esplanada de 1 km a lo longo da Ria Formosa, esplanadas de café, embarcadero a as ilhas barrera, e vistas a as marismas. Aberta 24/7, pet-friendly com cães com trela em todo o lado.",
           "petPolicyPt": "Esplanada pública, cães com trela grátis",
-          "tipPt": "Camina pela esplanada al atardecer — as marismas se vuelven doradas e os flamencos são mais visibles em marea baja. Leva água em verão; sem sombra."
+          "tipPt": "Camina pela esplanada al atardecer, as marismas se vuelven doradas e os flamencos são mais visibles em marea baja. Leva água em verão; sem sombra."
         }
       ],
       "tipsEn": [
         "Faro's outdoor attractions accept leashed dogs free of charge; museum interiors (Municipal Museum, Maritime Museum) admit assistance dogs only.",
         "The Cidade Velha cathedral admits assistance dogs only inside the nave; the cloister and bell tower viewing platform allow leashed dogs.",
-        "Day trips by direct CP train: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisbon (3h Alfa Pendular) — leashed dogs at half-fare with muzzle for medium/large dogs."
+        "Day trips by direct CP train: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisbon (3h Alfa Pendular), leashed dogs at half-fare with muzzle for medium/large dogs."
       ],
       "tipsFr": [
         "Les attractions extérieures de Faro acceptent les chiens en laisse gratuitement ; les musées intérieurs (Musée municipal, Musée maritime) n'admettent que les chiens d'assistance.",
         "La cathédrale de la Cidade Velha n'admet que les chiens d'assistance dans la nef ; le cloître et la plateforme du clocher autorisent les chiens en laisse.",
-        "Excursions en train CP direct : Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisbonne (3h Alfa Pendular) — chiens en laisse à demi-tarif avec muselière pour chiens moyens/grands."
+        "Excursions en train CP direct : Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisbonne (3h Alfa Pendular), chiens en laisse à demi-tarif avec muselière pour chiens moyens/grands."
       ],
       "tipsEs": [
         "Las atracciones al aire libre de Faro admiten perros con correa gratis; los museos interiores (Museo Municipal, Museo Marítimo) solo admiten perros de asistencia.",
         "La catedral de la Cidade Velha solo admite perros de asistencia en la nave; el claustro y la plataforma del campanario permiten perros con correa.",
-        "Excursiones en tren CP directo: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisboa (3h Alfa Pendular) — perros con correa a media tarifa con bozal para perros medianos/grandes."
+        "Excursiones en tren CP directo: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisboa (3h Alfa Pendular), perros con correa a media tarifa con bozal para perros medianos/grandes."
       ],
       "faqsEn": [
         {
@@ -1011,7 +1011,7 @@
         },
         {
           "q": "Are dogs allowed at the Ria Formosa boardwalk?",
-          "a": "Yes — the 2 km wooden boardwalk from the Faro Marina to Ludo accepts leashed dogs free of charge year-round. The flamingo salt-pan section is the highlight."
+          "a": "Yes, the 2 km wooden boardwalk from the Faro Marina to Ludo accepts leashed dogs free of charge year-round. The flamingo salt-pan section is the highlight."
         }
       ],
       "faqsFr": [
@@ -1021,7 +1021,7 @@
         },
         {
           "q": "Les chiens sont-ils admis sur le boardwalk de la Ria Formosa ?",
-          "a": "Oui — le boardwalk en bois de 2 km depuis la marina de Faro jusqu'à Ludo accepte les chiens en laisse gratuitement toute l'année. La section des marais salants aux flamants est le point fort."
+          "a": "Oui, le boardwalk en bois de 2 km depuis la marina de Faro jusqu'à Ludo accepte les chiens en laisse gratuitement toute l'année. La section des marais salants aux flamants est le point fort."
         }
       ],
       "faqsEs": [
@@ -1031,15 +1031,15 @@
         },
         {
           "q": "¿Se admiten perros en el boardwalk de la Ria Formosa?",
-          "a": "Sí — el boardwalk de madera de 2 km desde la Marina de Faro hasta Ludo admite perros con correa gratis todo el año. La sección de las salinas con flamencos es el punto fuerte."
+          "a": "Sí, el boardwalk de madera de 2 km desde la Marina de Faro hasta Ludo admite perros con correa gratis todo el año. La sección de las salinas con flamencos es el punto fuerte."
         }
       ],
       "titlePt": "Atracciones pet-friendly em Faro",
-      "introPt": "A maioria dois lugares exteriores emblemáticos de Faro são pet-friendly — as muralhas da Cidade Velha, o Arco da Vila, a marina, a praça da catedral e o boardwalk da Ria Formosa admitem todos cães com trela grátis.",
+      "introPt": "A maioria dois lugares exteriores emblemáticos de Faro são pet-friendly, as muralhas da Cidade Velha, o Arco da Vila, a marina, a praça da catedral e o boardwalk da Ria Formosa admitem todos cães com trela grátis.",
       "tipsPt": [
         "As atracciones al aire libre de Faro admitem cães com trela grátis; os museus interiores (Museu Municipal, Museu Marítimo) só admitem cães de assistência.",
         "A catedral da Cidade Velha só admite cães de assistência na nave; o claustro e a plataforma do campanario permiten cães com trela.",
-        "Excursiones de comboio CP directo: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisboa (3h Alfa Pendular) — cães com trela a meio preço com bozal para cães medianos/grandes."
+        "Excursiones de comboio CP directo: Tavira (40 min), Olhão (10 min), Lagos (1h30), Lisboa (3h Alfa Pendular), cães com trela a meio preço com bozal para cães medianos/grandes."
       ],
       "faqsPt": [
         {
@@ -1048,7 +1048,7 @@
         },
         {
           "q": "Se admitem cães não boardwalk da Ria Formosa?",
-          "a": "Sí — o boardwalk de madera de 2 km a partir da Marina de Faro até Ludo admite cães com trela grátis o ano inteiro. A secção das salinas com flamencos é o punto fuerte."
+          "a": "Sí, o boardwalk de madera de 2 km a partir da Marina de Faro até Ludo admite cães com trela grátis o ano inteiro. A secção das salinas com flamencos é o punto fuerte."
         }
       ]
     },
@@ -1067,15 +1067,15 @@
             "Portuguese",
             "Spanish"
           ],
-          "description": "International pet-sitting platform with about 35 verified Faro-based sitters within 5 km of the centre — drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
-          "descriptionFr": "Plateforme internationale avec environ 35 sitters vérifiés basés à Faro dans un rayon de 5 km du centre — visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
-          "descriptionEs": "Plataforma internacional con unos 35 cuidadores verificados con base en Faro en un radio de 5 km del centro — visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
+          "description": "International pet-sitting platform with about 35 verified Faro-based sitters within 5 km of the centre, drop-in visits, doggy day-care, overnight boarding. All sitters are vetted, insurance is included.",
+          "descriptionFr": "Plateforme internationale avec environ 35 sitters vérifiés basés à Faro dans un rayon de 5 km du centre, visites à domicile, garderie de jour, hébergement de nuit. Tous les sitters sont vérifiés, assurance incluse.",
+          "descriptionEs": "Plataforma internacional con unos 35 cuidadores verificados con base en Faro en un radio de 5 km del centro, visitas a domicilio, guardería diurna, alojamiento nocturno. Todos los cuidadores están verificados, seguro incluido.",
           "website": "https://www.pawshake.pt/faro",
-          "tip": "Filter for English-speaking sitters in the platform settings — about 70% of Faro sitters speak fluent English thanks to the large UK expat community.",
-          "tipFr": "Filtrez pour les sitters anglophones dans les réglages — environ 70 % des sitters de Faro parlent anglais couramment grâce à la grande communauté expatriée britannique.",
-          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes — alrededor del 70 % de los cuidadores de Faro habla inglés con fluidez gracias a la gran comunidad expatriada británica.",
-          "descriptionPt": "Plataforma internacional com uns 35 cuidadores verificados com base em Faro num radio de 5 km do centro — visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
-          "tipPt": "Filtra por cuidadores que hablen inglês nos ajustes — alrededor do 70 % dois cuidadores de Faro habla inglês com fluidez gracias a gran comunidad expatriada britânica."
+          "tip": "Filter for English-speaking sitters in the platform settings, about 70% of Faro sitters speak fluent English thanks to the large UK expat community.",
+          "tipFr": "Filtrez pour les sitters anglophones dans les réglages, environ 70 % des sitters de Faro parlent anglais couramment grâce à la grande communauté expatriée britannique.",
+          "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes, alrededor del 70 % de los cuidadores de Faro habla inglés con fluidez gracias a la gran comunidad expatriada británica.",
+          "descriptionPt": "Plataforma internacional com uns 35 cuidadores verificados com base em Faro num radio de 5 km do centro, visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
+          "tipPt": "Filtra por cuidadores que hablen inglês nos ajustes, alrededor do 70 % dois cuidadores de Faro habla inglês com fluidez gracias a gran comunidad expatriada britânica."
         },
         {
           "name": "DogHero Faro",
@@ -1087,27 +1087,27 @@
           "descriptionFr": "Plateforme portugaise avec environ 25 sitters de Faro vérifiés et ligne vétérinaire 24h/24 incluse à chaque réservation. Tarif moyen 18-25 €/jour pour l'hébergement, 10-12 € pour une visite de 30 min.",
           "descriptionEs": "Plataforma portuguesa con unos 25 cuidadores verificados de Faro y línea veterinaria 24/7 incluida en cada reserva. Tarifa media 18-25 €/día para alojamiento, 10-12 € por una visita de 30 min.",
           "website": "https://www.doghero.pt/faro",
-          "tip": "Book at least 72h ahead in summer (June-August) — the most popular sitters have a 4-week waiting list during the Algarve tourist peak.",
-          "tipFr": "Réservez au moins 72h à l'avance en été (juin-août) — les sitters les plus populaires ont 4 semaines de liste d'attente pendant le pic touristique algarvien.",
-          "tipEs": "Reserva al menos 72h antes en verano (junio-agosto) — los cuidadores más populares tienen 4 semanas de lista de espera durante el pico turístico algarvense.",
+          "tip": "Book at least 72h ahead in summer (June-August), the most popular sitters have a 4-week waiting list during the Algarve tourist peak.",
+          "tipFr": "Réservez au moins 72h à l'avance en été (juin-août), les sitters les plus populaires ont 4 semaines de liste d'attente pendant le pic touristique algarvien.",
+          "tipEs": "Reserva al menos 72h antes en verano (junio-agosto), los cuidadores más populares tienen 4 semanas de lista de espera durante el pico turístico algarvense.",
           "descriptionPt": "Plataforma portuguesa com uns 25 cuidadores verificados de Faro e línea veterinária 24/7 incluida em cada reserva. Tarifa media 18-25 €/dia para alojamento, 10-12 € por uma visita de 30 min.",
-          "tipPt": "Reserva al menos 72h antes em verão (junho-agosto) — os cuidadores mais populares têm 4 semanas de lista de espera durante o pico turístico algarvense."
+          "tipPt": "Reserva al menos 72h antes em verão (junho-agosto), os cuidadores mais populares têm 4 semanas de lista de espera durante o pico turístico algarvense."
         }
       ],
       "tipsEn": [
-        "Faro pet-sitter rates average 18-25 €/day on Pawshake, 25-35 €/day at high-demand summer peak — among the lowest rates in Western Europe.",
-        "Always confirm the sitter's English fluency before booking if you don't speak Portuguese — about 70% of Faro sitters are bilingual due to the UK expat community.",
-        "Several boutique hotels and guesthouses in central Faro offer in-house dog-sitting for guests during sightseeing — ask at check-in."
+        "Faro pet-sitter rates average 18-25 €/day on Pawshake, 25-35 €/day at high-demand summer peak, among the lowest rates in Western Europe.",
+        "Always confirm the sitter's English fluency before booking if you don't speak Portuguese, about 70% of Faro sitters are bilingual due to the UK expat community.",
+        "Several boutique hotels and guesthouses in central Faro offer in-house dog-sitting for guests during sightseeing, ask at check-in."
       ],
       "tipsFr": [
-        "Les tarifs des sitters de Faro tournent autour de 18-25 €/jour sur Pawshake, 25-35 €/jour au pic estival — parmi les plus bas tarifs d'Europe de l'Ouest.",
-        "Confirmez toujours le niveau d'anglais du sitter avant de réserver si vous ne parlez pas portugais — environ 70 % des sitters de Faro sont bilingues en raison de la communauté expatriée britannique.",
-        "Plusieurs hôtels boutiques et pensions du centre proposent une garde canine maison pour leurs clients pendant les visites — demandez au check-in."
+        "Les tarifs des sitters de Faro tournent autour de 18-25 €/jour sur Pawshake, 25-35 €/jour au pic estival, parmi les plus bas tarifs d'Europe de l'Ouest.",
+        "Confirmez toujours le niveau d'anglais du sitter avant de réserver si vous ne parlez pas portugais, environ 70 % des sitters de Faro sont bilingues en raison de la communauté expatriée britannique.",
+        "Plusieurs hôtels boutiques et pensions du centre proposent une garde canine maison pour leurs clients pendant les visites, demandez au check-in."
       ],
       "tipsEs": [
-        "Las tarifas de los cuidadores de Faro rondan 18-25 €/día en Pawshake, 25-35 €/día en pico estival — de las tarifas más bajas de Europa Occidental.",
-        "Confirma siempre el nivel de inglés del cuidador antes de reservar si no hablas portugués — alrededor del 70 % de los cuidadores de Faro es bilingüe por la comunidad expatriada británica.",
-        "Varios hoteles boutique y pensiones del centro ofrecen cuidado canino interno para sus clientes durante las visitas — pregunta en el check-in."
+        "Las tarifas de los cuidadores de Faro rondan 18-25 €/día en Pawshake, 25-35 €/día en pico estival, de las tarifas más bajas de Europa Occidental.",
+        "Confirma siempre el nivel de inglés del cuidador antes de reservar si no hablas portugués, alrededor del 70 % de los cuidadores de Faro es bilingüe por la comunidad expatriada británica.",
+        "Varios hoteles boutique y pensiones del centro ofrecen cuidado canino interno para sus clientes durante las visitas, pregunta en el check-in."
       ],
       "faqsEn": [
         {
@@ -1116,7 +1116,7 @@
         },
         {
           "q": "Can I find an English-speaking sitter in Faro?",
-          "a": "Yes — about 70% of Faro sitters on Pawshake speak fluent English thanks to the large UK expat community in the Algarve. Filter the platform by language."
+          "a": "Yes, about 70% of Faro sitters on Pawshake speak fluent English thanks to the large UK expat community in the Algarve. Filter the platform by language."
         }
       ],
       "faqsFr": [
@@ -1126,7 +1126,7 @@
         },
         {
           "q": "Puis-je trouver un sitter anglophone à Faro ?",
-          "a": "Oui — environ 70 % des sitters de Faro sur Pawshake parlent anglais couramment grâce à la grande communauté expatriée britannique de l'Algarve. Filtrez par langue."
+          "a": "Oui, environ 70 % des sitters de Faro sur Pawshake parlent anglais couramment grâce à la grande communauté expatriée britannique de l'Algarve. Filtrez par langue."
         }
       ],
       "faqsEs": [
@@ -1136,15 +1136,15 @@
         },
         {
           "q": "¿Puedo encontrar un cuidador anglohablante en Faro?",
-          "a": "Sí — alrededor del 70 % de los cuidadores de Faro en Pawshake habla inglés con fluidez gracias a la gran comunidad expatriada británica del Algarve. Filtra por idioma."
+          "a": "Sí, alrededor del 70 % de los cuidadores de Faro en Pawshake habla inglés con fluidez gracias a la gran comunidad expatriada británica del Algarve. Filtra por idioma."
         }
       ],
       "titlePt": "Pet-sitting e passeio canino em Faro",
       "introPt": "Para as excursiones onde o cão não pode ir (nave da catedral, museus, visitas interiores), Faro tem pet-sitting fiable e verificado a través de plataformas internacionais e portuguesas.",
       "tipsPt": [
-        "As tarifas dois cuidadores de Faro rondan 18-25 €/dia em Pawshake, 25-35 €/dia em pico estival — das tarifas mais bajas de Europa Occidental.",
-        "Confirma sempre o nivel de inglês do cuidador antes de reservar se não hablas português — alrededor do 70 % dois cuidadores de Faro é bilingüe pela comunidad expatriada britânica.",
-        "Varios hotéis boutique e pensiones do centro ofrecen cuidado canino interno para os seus clientes durante as visitas — pregunta não check-in."
+        "As tarifas dois cuidadores de Faro rondan 18-25 €/dia em Pawshake, 25-35 €/dia em pico estival, das tarifas mais bajas de Europa Occidental.",
+        "Confirma sempre o nivel de inglês do cuidador antes de reservar se não hablas português, alrededor do 70 % dois cuidadores de Faro é bilingüe pela comunidad expatriada britânica.",
+        "Varios hotéis boutique e pensiones do centro ofrecen cuidado canino interno para os seus clientes durante as visitas, pregunta não check-in."
       ],
       "faqsPt": [
         {
@@ -1153,7 +1153,7 @@
         },
         {
           "q": "Puedo encontrar um cuidador anglohablante em Faro?",
-          "a": "Sí — alrededor do 70 % dois cuidadores de Faro em Pawshake habla inglês com fluidez gracias a gran comunidad expatriada britânica do Algarve. Filtra por idioma."
+          "a": "Sí, alrededor do 70 % dois cuidadores de Faro em Pawshake habla inglês com fluidez gracias a gran comunidad expatriada britânica do Algarve. Filtra por idioma."
         }
       ]
     }

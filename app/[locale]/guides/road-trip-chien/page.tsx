@@ -132,8 +132,8 @@ const RESTRAINT_RULES: RestraintRule[] = [
     mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita' },
     fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable' },
     notes: {
-      en: 'No specific mandatory restraint law. However, under general traffic rules, any distraction — including an unrestrained dog — can lead to fines.',
-      fr: "Pas de loi explicite sur la retenue. Mais toute distraction — y compris un chien non attaché — peut entraîner une amende selon le code de la route général.",
+      en: 'No specific mandatory restraint law. However, under general traffic rules, any distraction, including an unrestrained dog, can lead to fines.',
+      fr: "Pas de loi explicite sur la retenue. Mais toute distraction, y compris un chien non attaché, peut entraîner une amende selon le code de la route général.",
       es: 'Sin ley explícita de sujeción. Sin embargo, cualquier distracción, incluido un perro sin sujetar, puede derivar en multa según las normas generales de tráfico.',
       pt: 'Sem lei explícita de sujeción. No entanto, cualquier distracción, incluido um cão sem sujetar, pode derivar en multa segundo as normas generales de tráfico.',
     },
@@ -157,7 +157,7 @@ const RESTRAINT_RULES: RestraintRule[] = [
 const COPY = {
   fr: {
     hero: 'Road trip avec son chien en Europe : le guide complet',
-    subtitle: "Lois par pays, sécurité en voiture, passages aux frontières, Eurotunnel, gestion de la chaleur et premiers secours — tout ce qu'il faut savoir avant de prendre la route avec son chien.",
+    subtitle: "Lois par pays, sécurité en voiture, passages aux frontières, Eurotunnel, gestion de la chaleur et premiers secours, tout ce qu'il faut savoir avant de prendre la route avec son chien.",
     lastUpdate: 'Mis à jour en',
     breadcrumbGuides: 'Guides',
     breadcrumbCurrent: 'Road trip avec son chien',
@@ -192,7 +192,7 @@ const COPY = {
         title: 'Harnais crash-testé',
         rating: 'Protection correcte si certifié',
         ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
-        text: "Sur les 11 harnais soumis aux tests du Center for Pet Safety (CPS), un seul a obtenu la certification. La plupart des harnais classiques cèdent au-delà de 40 km/h. Choisissez impérativement un modèle labellisé crash-testé — jamais un harnais de balade adapté.",
+        text: "Sur les 11 harnais soumis aux tests du Center for Pet Safety (CPS), un seul a obtenu la certification. La plupart des harnais classiques cèdent au-delà de 40 km/h. Choisissez impérativement un modèle labellisé crash-testé, jamais un harnais de balade adapté.",
       },
       {
         icon: '🚧',
@@ -248,7 +248,7 @@ const COPY = {
     crossingTitle: 'Eurotunnel et ferries : que savoir ?',
     eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
     eurotunnelItems: [
-      'Vos animaux restent dans le véhicule pendant toute la traversée (35 minutes) — pas de séparation.',
+      'Vos animaux restent dans le véhicule pendant toute la traversée (35 minutes), pas de séparation.',
       'Enregistrement au guichet animal au moins 1 heure avant le départ (et pas plus de 2 heures).',
       'Les deux terminaux (Folkestone et Coquelles) disposent d\'un guichet animal 24h/24.',
       'Documents requis : passeport UE (ou AHC depuis le Royaume-Uni) + traitement tapeworm pour entrer en Grande-Bretagne.',
@@ -276,7 +276,7 @@ const COPY = {
       { icon: '🪲', item: 'Pince à tiques (x2)', note: 'Essentiel en été et dans les zones forestières' },
       { icon: '🩹', item: 'Bandes de contention et compresses stériles', note: "Pour stabiliser une blessure jusqu'au vétérinaire" },
       { icon: '🧴', item: 'Antiseptique (chlorhexidine ou Bétadine)', note: 'Nettoyer plaies et coupures' },
-      { icon: '😷', item: 'Muselière adaptée à la taille du chien', note: "Un chien blessé peut mordre par douleur — protégez-vous avant d'agir" },
+      { icon: '😷', item: 'Muselière adaptée à la taille du chien', note: "Un chien blessé peut mordre par douleur, protégez-vous avant d'agir" },
       { icon: '🌡️', item: 'Thermomètre rectal', note: 'Température normale : 38–39°C. Au-dessus de 40°C = urgence' },
       { icon: '🧊', item: 'Pack de froid réutilisable', note: 'En cas de coup de chaleur : refroidir progressivement (jamais eau glacée)' },
       { icon: '💊', item: 'Médicament contre le mal des transports prescrit par le vétérinaire', note: 'À demander en consultation avant le départ' },
@@ -310,11 +310,11 @@ const COPY = {
       },
       {
         q: 'Quel est le risque de coup de chaleur pour un chien en voiture ?',
-        a: "Un coup de chaleur peut survenir en moins de 10 minutes par forte chaleur. Les signes d'alerte : halètement excessif, gencives rouge vif, salivation importante, ataxie (démarche titubante), vomissements. En cas de coup de chaleur : mettez le chien à l'ombre, aspergez avec de l'eau fraîche (pas glacée), et consultez un vétérinaire en urgence. La température normale est de 38–39°C — au-delà de 40°C, c'est une urgence vitale.",
+        a: "Un coup de chaleur peut survenir en moins de 10 minutes par forte chaleur. Les signes d'alerte : halètement excessif, gencives rouge vif, salivation importante, ataxie (démarche titubante), vomissements. En cas de coup de chaleur : mettez le chien à l'ombre, aspergez avec de l'eau fraîche (pas glacée), et consultez un vétérinaire en urgence. La température normale est de 38–39°C, au-delà de 40°C, c'est une urgence vitale.",
       },
       {
         q: 'Mon chien est-il assuré lors d\'un accident de voiture à l\'étranger ?',
-        a: "Vérifiez votre assurance auto et votre assurance animale : certaines couvrent les frais vétérinaires à l'étranger, d'autres non. Certaines assurances auto premium incluent une assistance pour animaux. Souscrivez une assurance animale avec couverture internationale avant le départ — les frais vétérinaires d'urgence en Europe peuvent être très élevés.",
+        a: "Vérifiez votre assurance auto et votre assurance animale : certaines couvrent les frais vétérinaires à l'étranger, d'autres non. Certaines assurances auto premium incluent une assistance pour animaux. Souscrivez une assurance animale avec couverture internationale avant le départ, les frais vétérinaires d'urgence en Europe peuvent être très élevés.",
       },
     ],
 
@@ -335,7 +335,7 @@ const COPY = {
 
   en: {
     hero: 'Road-Tripping Across Europe with Your Dog: The Complete Guide',
-    subtitle: 'Car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stop frequency, and first-aid essentials — everything before you hit the road.',
+    subtitle: 'Car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stop frequency, and first-aid essentials, everything before you hit the road.',
     lastUpdate: 'Updated in',
     breadcrumbGuides: 'Guides',
     breadcrumbCurrent: 'Road trip with your dog',
@@ -350,7 +350,7 @@ const COPY = {
       { icon: '💧', label: 'Fresh water and travel bowl', note: 'Offer water every 2 hours' },
       { icon: '🩺', label: 'Dog first aid kit', note: 'Tick remover, antiseptic, bandages, muzzle, vet contact card' },
       { icon: '🌡️', label: 'Never leave your dog alone in the car', note: 'Even in the shade, temperature can become lethal in 10 minutes' },
-      { icon: '🗂️', label: 'Document copies (security)', note: 'Keep originals accessible — never in checked luggage' },
+      { icon: '🗂️', label: 'Document copies (security)', note: 'Keep originals accessible, never in checked luggage' },
     ],
 
     safetyTitle: 'Car safety: harness, crate or barrier?',
@@ -368,14 +368,14 @@ const COPY = {
         title: 'Crash-tested harness',
         rating: 'Adequate if certified',
         ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
-        text: 'Of 11 harnesses tested by the Center for Pet Safety (CPS), only one passed. Most standard harnesses fail above 40 km/h. Always choose a model with a verified crash-test certification — never a repurposed walking harness.',
+        text: 'Of 11 harnesses tested by the Center for Pet Safety (CPS), only one passed. Most standard harnesses fail above 40 km/h. Always choose a model with a verified crash-test certification, never a repurposed walking harness.',
       },
       {
         icon: '🚧',
         title: 'Boot barrier or cargo net',
         rating: 'Partial protection',
         ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
-        text: 'A boot barrier stops your dog accessing the passenger cabin but provides little protection in a frontal crash — the dog can be thrown against the barrier itself. Useful combined with a crate; insufficient alone for long journeys.',
+        text: 'A boot barrier stops your dog accessing the passenger cabin but provides little protection in a frontal crash, the dog can be thrown against the barrier itself. Useful combined with a crate; insufficient alone for long journeys.',
       },
     ],
     safetyCrashNote: 'Tip: whichever system you choose, let your dog get used to it gradually before the big trip.',
@@ -386,7 +386,7 @@ const COPY = {
       { icon: '⏱️', title: 'Stop every 2 hours', text: '15–30 minutes of walking, fresh water, check body temperature. Aim for no more than 7 hours of driving per day.' },
       { icon: '💧', title: 'Regular hydration', text: 'Offer water at every stop. Avoid large meals before departure to reduce motion sickness. An empty stomach 2–3 hours before is recommended.' },
       { icon: '🌿', title: 'Dog-friendly rest stops', text: 'On French autoroutes, the APRR/AREA and Vinci networks offer specially equipped canine areas (play equipment, obstacles, shaded zones). The APRR dog-friendly area map is available via the Fulli app.' },
-      { icon: '🌡️', title: 'Heat management', text: 'At 25°C outside, a car interior reaches 50°C in under 30 minutes. NEVER leave your dog alone in the car. Cracked windows make almost no difference — the temperature rise is nearly identical.' },
+      { icon: '🌡️', title: 'Heat management', text: 'At 25°C outside, a car interior reaches 50°C in under 30 minutes. NEVER leave your dog alone in the car. Cracked windows make almost no difference, the temperature rise is nearly identical.' },
     ],
 
     borderTitle: 'Border crossings by car',
@@ -421,7 +421,7 @@ const COPY = {
     crossingTitle: 'Eurotunnel and ferries: what you need to know',
     eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
     eurotunnelItems: [
-      'Your pets stay in the vehicle for the entire 35-minute crossing — no separation required.',
+      'Your pets stay in the vehicle for the entire 35-minute crossing, no separation required.',
       'Check in at the pet booth at least 1 hour before departure (no more than 2 hours).',
       'Both terminals (Folkestone and Coquelles) have 24-hour pet check-in.',
       'Documents required: EU pet passport (or AHC from the UK) + tapeworm treatment to enter Great Britain.',
@@ -448,9 +448,9 @@ const COPY = {
       { icon: '🪲', item: 'Tick remover (x2)', note: 'Essential in summer and forested areas' },
       { icon: '🩹', item: 'Bandages and sterile gauze pads', note: 'To stabilise an injury until you reach a vet' },
       { icon: '🧴', item: 'Antiseptic (chlorhexidine or Betadine)', note: 'Clean wounds and cuts' },
-      { icon: '😷', item: 'Muzzle sized for your dog', note: 'An injured dog may bite from pain — protect yourself before helping' },
+      { icon: '😷', item: 'Muzzle sized for your dog', note: 'An injured dog may bite from pain, protect yourself before helping' },
       { icon: '🌡️', item: 'Rectal thermometer', note: 'Normal: 38–39°C. Above 40°C = emergency' },
-      { icon: '🧊', item: 'Reusable cold pack', note: 'For heatstroke: cool gradually — never use ice-cold water' },
+      { icon: '🧊', item: 'Reusable cold pack', note: 'For heatstroke: cool gradually, never use ice-cold water' },
       { icon: '💊', item: 'Vet-prescribed motion-sickness medication', note: 'Ask your vet before the trip' },
       { icon: '📋', item: 'Local vet contact + emergency vet in Europe', note: 'ECVIM number or FindAVet for your destination country' },
       { icon: '🚿', item: 'Antiseptic wipes and latex gloves', note: 'For clean basic first aid' },
@@ -461,7 +461,7 @@ const COPY = {
     faqs: [
       {
         q: 'Does my dog have to be restrained in the car in Europe?',
-        a: 'In most European countries (France, Germany, Spain, Italy, Switzerland) yes — though the legal basis varies. Some countries have a direct fine for an unrestrained dog; others rely on the general duty not to distract the driver. In practice, always use a crash-tested restraint system for your dog\'s safety and your own legal protection.',
+        a: 'In most European countries (France, Germany, Spain, Italy, Switzerland) yes, though the legal basis varies. Some countries have a direct fine for an unrestrained dog; others rely on the general duty not to distract the driver. In practice, always use a crash-tested restraint system for your dog\'s safety and your own legal protection.',
       },
       {
         q: 'How often should I stop on a long road trip?',
@@ -481,11 +481,11 @@ const COPY = {
       },
       {
         q: 'What are the signs of heatstroke in a dog, and what should I do?',
-        a: 'Warning signs: excessive panting, bright red gums, heavy drooling, unsteady gait, vomiting. If heatstroke is suspected: move the dog to shade, sponge with cool (not ice-cold) water, offer small amounts of water to drink, and get to a vet immediately. Normal temperature is 38–39°C — above 40°C is a life-threatening emergency.',
+        a: 'Warning signs: excessive panting, bright red gums, heavy drooling, unsteady gait, vomiting. If heatstroke is suspected: move the dog to shade, sponge with cool (not ice-cold) water, offer small amounts of water to drink, and get to a vet immediately. Normal temperature is 38–39°C, above 40°C is a life-threatening emergency.',
       },
       {
         q: 'Is my dog covered by insurance in a car accident abroad?',
-        a: 'Check both your car insurance and pet insurance: some cover emergency vet costs abroad, others do not. Some premium car insurance policies include pet assistance. Take out international pet insurance before the trip — emergency vet fees in Europe can be very high.',
+        a: 'Check both your car insurance and pet insurance: some cover emergency vet costs abroad, others do not. Some premium car insurance policies include pet assistance. Take out international pet insurance before the trip, emergency vet fees in Europe can be very high.',
       },
     ],
 
@@ -505,7 +505,7 @@ const COPY = {
 
   es: {
     hero: 'Road trip por Europa con tu perro: la guía completa',
-    subtitle: 'Leyes de seguridad en coche por país, arnés vs transportín, cruce de fronteras, políticas de Eurotunnel y ferries, gestión del calor, frecuencia de paradas y botiquín esencial — todo antes de ponerte en marcha.',
+    subtitle: 'Leyes de seguridad en coche por país, arnés vs transportín, cruce de fronteras, políticas de Eurotunnel y ferries, gestión del calor, frecuencia de paradas y botiquín esencial, todo antes de ponerte en marcha.',
     lastUpdate: 'Actualizado en',
     breadcrumbGuides: 'Guías',
     breadcrumbCurrent: 'Road trip con tu perro',
@@ -520,7 +520,7 @@ const COPY = {
       { icon: '💧', label: 'Agua fresca y cuenco de viaje', note: 'Ofrece agua cada 2 horas' },
       { icon: '🩺', label: 'Botiquín de primeros auxilios para perros', note: 'Quitagarrapatas, antiséptico, vendas, bozal, contacto del veterinario' },
       { icon: '🌡️', label: 'Nunca dejes a tu perro solo en el coche', note: 'Incluso a la sombra, la temperatura puede ser letal en 10 minutos' },
-      { icon: '🗂️', label: 'Copias de los documentos (seguridad)', note: 'Lleva los originales siempre accesibles — nunca en el maletero' },
+      { icon: '🗂️', label: 'Copias de los documentos (seguridad)', note: 'Lleva los originales siempre accesibles, nunca en el maletero' },
     ],
 
     safetyTitle: 'Seguridad en el coche: ¿arnés, transportín o barrera?',
@@ -538,7 +538,7 @@ const COPY = {
         title: 'Arnés con crash test certificado',
         rating: 'Protección aceptable si está certificado',
         ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
-        text: 'De 11 arneses probados por el Center for Pet Safety (CPS), solo uno superó las pruebas. La mayoría de los arneses estándar ceden por encima de los 40 km/h. Elige siempre un modelo con certificación de crash test verificada — nunca un arnés de paseo reconvertido.',
+        text: 'De 11 arneses probados por el Center for Pet Safety (CPS), solo uno superó las pruebas. La mayoría de los arneses estándar ceden por encima de los 40 km/h. Elige siempre un modelo con certificación de crash test verificada, nunca un arnés de paseo reconvertido.',
       },
       {
         icon: '🚧',
@@ -591,7 +591,7 @@ const COPY = {
     crossingTitle: 'Eurotunnel y ferries: lo que necesitas saber',
     eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
     eurotunnelItems: [
-      'Tus mascotas permanecen en el vehículo durante toda la travesía (35 minutos) — no hay separación.',
+      'Tus mascotas permanecen en el vehículo durante toda la travesía (35 minutos), no hay separación.',
       'Haz el check-in en el mostrador de animales al menos 1 hora antes de la salida (y no más de 2 horas).',
       'Ambas terminales (Folkestone y Coquelles) tienen atención a mascotas las 24 horas.',
       'Documentos necesarios: pasaporte UE (o AHC desde el Reino Unido) + tratamiento antitenia para entrar en Gran Bretaña.',
@@ -618,7 +618,7 @@ const COPY = {
       { icon: '🪲', item: 'Quitagarrapatas (x2)', note: 'Imprescindible en verano y zonas boscosas' },
       { icon: '🩹', item: 'Vendas y gasas estériles', note: 'Para estabilizar una herida hasta llegar al veterinario' },
       { icon: '🧴', item: 'Antiséptico (clorhexidina o Betadine)', note: 'Limpiar heridas y cortes' },
-      { icon: '😷', item: 'Bozal adaptado al tamaño del perro', note: 'Un perro herido puede morder por dolor — protégete antes de actuar' },
+      { icon: '😷', item: 'Bozal adaptado al tamaño del perro', note: 'Un perro herido puede morder por dolor, protégete antes de actuar' },
       { icon: '🌡️', item: 'Termómetro rectal', note: 'Normal: 38–39°C. Por encima de 40°C = urgencia' },
       { icon: '🧊', item: 'Bolsa de frío reutilizable', note: 'En caso de golpe de calor: enfriar progresivamente (nunca agua helada)' },
       { icon: '💊', item: 'Medicamento contra el mareo prescrito por el veterinario', note: 'Pídelo en consulta antes del viaje' },
@@ -651,11 +651,11 @@ const COPY = {
       },
       {
         q: '¿Cuáles son los síntomas del golpe de calor en un perro y qué debo hacer?',
-        a: 'Señales de alerta: jadeo excesivo, encías rojo intenso, salivación abundante, marcha tambaleante, vómitos. Si sospechas un golpe de calor: lleva al perro a la sombra, mójalo con agua fresca (no helada), ofrécele pequeñas cantidades de agua y ve al veterinario de urgencias de inmediato. La temperatura normal es 38–39°C — por encima de 40°C es una emergencia vital.',
+        a: 'Señales de alerta: jadeo excesivo, encías rojo intenso, salivación abundante, marcha tambaleante, vómitos. Si sospechas un golpe de calor: lleva al perro a la sombra, mójalo con agua fresca (no helada), ofrécele pequeñas cantidades de agua y ve al veterinario de urgencias de inmediato. La temperatura normal es 38–39°C, por encima de 40°C es una emergencia vital.',
       },
       {
         q: '¿Está cubierto mi perro por el seguro en caso de accidente de coche en el extranjero?',
-        a: 'Comprueba tanto tu seguro de coche como tu seguro de mascotas: algunos cubren los gastos veterinarios de urgencia en el extranjero, otros no. Algunos seguros de coche premium incluyen asistencia para animales. Contrata un seguro de mascota con cobertura internacional antes del viaje — los gastos veterinarios de urgencia en Europa pueden ser muy elevados.',
+        a: 'Comprueba tanto tu seguro de coche como tu seguro de mascotas: algunos cubren los gastos veterinarios de urgencia en el extranjero, otros no. Algunos seguros de coche premium incluyen asistencia para animales. Contrata un seguro de mascota con cobertura internacional antes del viaje, los gastos veterinarios de urgencia en Europa pueden ser muy elevados.',
       },
     ],
 
@@ -674,7 +674,7 @@ const COPY = {
   },
   pt: {
     hero: 'Road trip por Europa com o teu cão: a guía completa',
-    subtitle: 'Leis de seguridad de carro por país, arnés vs transportadora, cruce de fronteras, políticas de Eurotunnel e ferries, gestión do calor, frecuencia de paradas e botiquín esencial — todo antes de ponerte em marcha.',
+    subtitle: 'Leis de seguridad de carro por país, arnés vs transportadora, cruce de fronteras, políticas de Eurotunnel e ferries, gestión do calor, frecuencia de paradas e botiquín esencial, todo antes de ponerte em marcha.',
     lastUpdate: 'Atualizado en',
     breadcrumbGuides: 'Guías',
     breadcrumbCurrent: 'Road trip com o teu cão',
@@ -689,7 +689,7 @@ const COPY = {
       { icon: '💧', label: 'Água fresca e tigela de viaje', note: 'Ofrece água cada 2 horas' },
       { icon: '🩺', label: 'Botiquín de primeros auxilios para cães', note: 'Quitagarrapatas, antiséptico, vendas, bozal, contacto do veterinário' },
       { icon: '🌡️', label: 'Nunca dejes ao teu cão só no carro', note: 'Mesmo a sombra, a temperatura pode ser letal em 10 minutos' },
-      { icon: '🗂️', label: 'Copias dois documentos (seguridad)', note: 'Leva os originales sempre acessíveis — nunca no maletero' },
+      { icon: '🗂️', label: 'Copias dois documentos (seguridad)', note: 'Leva os originales sempre acessíveis, nunca no maletero' },
     ],
 
     safetyTitle: 'Seguridad no carro: arnés, transportadora o barrera?',
@@ -707,7 +707,7 @@ const COPY = {
         title: 'Arnés com crash test certificado',
         rating: 'Protección aceptable si está certificado',
         ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
-        text: 'De 11 arneses probados pelo Center for Pet Safety (CPS), só uno superó as pruebas. A maioria dois arneses estándar ceden por encima dois 40 km/h. Elige sempre um modelo com certificación de crash test verificada — nunca um arnés de passeio reconvertido.',
+        text: 'De 11 arneses probados pelo Center for Pet Safety (CPS), só uno superó as pruebas. A maioria dois arneses estándar ceden por encima dois 40 km/h. Elige sempre um modelo com certificación de crash test verificada, nunca um arnés de passeio reconvertido.',
       },
       {
         icon: '🚧',
@@ -760,7 +760,7 @@ const COPY = {
     crossingTitle: 'Eurotunnel e ferries: lo que necesitas saber',
     eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
     eurotunnelItems: [
-      'Os teus animais permanecen no vehículo durante toda a travesía (35 minutos) — no hay separación.',
+      'Os teus animais permanecen no vehículo durante toda a travesía (35 minutos), no hay separación.',
       'Haz o check-in no mostrador de animales al menos 1 hora antes da salida (e no mais de 2 horas).',
       'Ambas terminales (Folkestone e Coquelles) têm atención a animais as 24 horas.',
       'Documentos necesarios: passaporte UE (o AHC desde o Reino Unido) + tratamento antitenia para entrar em GRANDE Bretanha.',
@@ -787,7 +787,7 @@ const COPY = {
       { icon: '🪲', item: 'Quitagarrapatas (x2)', note: 'Imprescindible em verão e zonas boscosas' },
       { icon: '🩹', item: 'Vendas e gasas estériles', note: 'Para estabilizar uma herida até chegar al veterinário' },
       { icon: '🧴', item: 'Antiséptico (clorhexidina o Betadine)', note: 'Limpiar heridas e cortes' },
-      { icon: '😷', item: 'Bozal adaptado al tamanho do cão', note: 'Um cão herido pode morder por dolor — protégete antes de actuar' },
+      { icon: '😷', item: 'Bozal adaptado al tamanho do cão', note: 'Um cão herido pode morder por dolor, protégete antes de actuar' },
       { icon: '🌡️', item: 'Termómetro rectal', note: 'Normal: 38–39°C. Por encima de 40°C = urgência' },
       { icon: '🧊', item: 'Bolsa de frio reutilizable', note: 'Em caso de golpe de calor: enfriar progresivamente (nunca água helada)' },
       { icon: '💊', item: 'Medicamento contra o mareo prescrito pelo veterinário', note: 'Pídelo em consulta antes do viaje' },
@@ -820,11 +820,11 @@ const COPY = {
       },
       {
         q: 'Quais são os síntomas do golpe de calor num cão e que debo hacer?',
-        a: 'Sinais de alerta: jadeo excesivo, encías rojo intenso, salivación abundante, marcha tambaleante, vómitos. Si sospechas um golpe de calor: leva al cão a sombra, mójalo com água fresca (no helada), ofrécele pequenas cantidades de água e ve al veterinário de urgências de inmediato. A temperatura normal é 38–39°C — por encima de 40°C é uma emergência vital.',
+        a: 'Sinais de alerta: jadeo excesivo, encías rojo intenso, salivación abundante, marcha tambaleante, vómitos. Si sospechas um golpe de calor: leva al cão a sombra, mójalo com água fresca (no helada), ofrécele pequenas cantidades de água e ve al veterinário de urgências de inmediato. A temperatura normal é 38–39°C, por encima de 40°C é uma emergência vital.',
       },
       {
         q: 'Está cubierto mi cão pelo seguro em caso de accidente de carro no extranjero?',
-        a: 'Comprueba tanto tu seguro de carro como tu seguro de animais: algunos cubren os gastos veterinários de urgência no extranjero, otros no. Algunos seguros de carro premium incluyen asistencia para animales. Contrata um seguro de animal com cobertura internacional antes do viaje — os gastos veterinários de urgência em Europa podem ser muito elevados.',
+        a: 'Comprueba tanto tu seguro de carro como tu seguro de animais: algunos cubren os gastos veterinários de urgência no extranjero, otros no. Algunos seguros de carro premium incluyen asistencia para animales. Contrata um seguro de animal com cobertura internacional antes do viaje, os gastos veterinários de urgência em Europa podem ser muito elevados.',
       },
     ],
 

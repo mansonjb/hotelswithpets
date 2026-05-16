@@ -13,7 +13,7 @@ import PetMap from '@/components/PetMap'
 
 const SLUG = 'top-dog-friendly-cities-europe'
 
-// Curated ranking — based on: number of fenced off-leash zones, 24/7 vet coverage,
+// Curated ranking, based on: number of fenced off-leash zones, 24/7 vet coverage,
 // public transport rules for dogs, density of dog-friendly hotels, beach/swim access.
 // All 20 cities are documented in our destination guides.
 const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: string; es: string; pt: string } }> = [
@@ -96,10 +96,10 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Aún mais pet-friendly que Lisboa: as margens do Duero na Ribeira admiten cães en cada café, e Foz do Douro tem praias caninas acessíveis no elétrico.',
   }},
   { slug: 'valencia', rank: 14, reason: {
-    en: 'The 9 km Turia Garden cuts the city in two — Europe\'s largest urban park with multiple off-leash zones. The Malvarrosa beach has a year-round dog zone.',
-    fr: 'Les 9 km du Jardin du Turia traversent la ville — plus grand parc urbain d\'Europe avec plusieurs zones sans laisse. La plage Malvarrosa a une zone canine toute l\'année.',
-    es: 'Los 9 km del Jardín del Turia atraviesan la ciudad — el mayor parque urbano de Europa con varias zonas sin correa. La playa de la Malvarrosa tiene zona canina todo el año.',
-    pt: 'Os 9 km do Jardim do Turia atraviesan a cidade — o mayor parque urbano de Europa com varias zonas sem trela. A praia da Malvarrosa tem zona canina o ano inteiro.',
+    en: 'The 9 km Turia Garden cuts the city in two, Europe\'s largest urban park with multiple off-leash zones. The Malvarrosa beach has a year-round dog zone.',
+    fr: 'Les 9 km du Jardin du Turia traversent la ville, plus grand parc urbain d\'Europe avec plusieurs zones sans laisse. La plage Malvarrosa a une zone canine toute l\'année.',
+    es: 'Los 9 km del Jardín del Turia atraviesan la ciudad, el mayor parque urbano de Europa con varias zonas sin correa. La playa de la Malvarrosa tiene zona canina todo el año.',
+    pt: 'Os 9 km do Jardim do Turia atraviesan a cidade, o mayor parque urbano de Europa com varias zonas sem trela. A praia da Malvarrosa tem zona canina o ano inteiro.',
   }},
   { slug: 'split', rank: 15, reason: {
     en: 'The Marjan Hill forest park dominates the city centre with off-leash trails and dog-friendly stone beaches at Bačvice and Bene.',
@@ -208,11 +208,11 @@ const COPY: Record<string, {
   bottomBookCtaButton: string
 }> = {
   en: {
-    hero: { kicker: 'EUROPE\'S BEST DOG CITIES · 2026 EDITION', h1: 'Top 20 Most Dog-Friendly Cities in Europe', lede: 'After auditing 85 European destinations against five criteria — off-leash space, public transport rules, dog-beach access, veterinary coverage and hotel availability — these are the cities where travelling with a dog is genuinely easy. Updated for 2026.' },
+    hero: { kicker: 'EUROPE\'S BEST DOG CITIES · 2026 EDITION', h1: 'Top 20 Most Dog-Friendly Cities in Europe', lede: 'After auditing 85 European destinations against five criteria, off-leash space, public transport rules, dog-beach access, veterinary coverage and hotel availability, these are the cities where travelling with a dog is genuinely easy. Updated for 2026.' },
     intro: { title: 'Why this ranking is different', paras: [
       'Most "best dog-friendly cities" lists you find online are recycled marketing copy. They rank cities by vague impressions rather than the practical factors that determine whether your dog will actually have a good trip.',
       'We took a different approach. We audited every destination against five hard criteria that determine real-world dog travel quality: number of fenced off-leash zones, dog-acceptance on metros and trams, dog-beach availability (year-round vs seasonal), distance to a 24/7 emergency vet, and density of pet-friendly hotels with a guest rating above 8.0/10.',
-      'The cities listed below all score in the top quintile across at least four of the five criteria. Each has been visited and verified by our team — and each has a complete, hand-curated city guide with vet phone numbers, hotel recommendations and a live Booking.com map of pet-friendly hotels in that city.',
+      'The cities listed below all score in the top quintile across at least four of the five criteria. Each has been visited and verified by our team, and each has a complete, hand-curated city guide with vet phone numbers, hotel recommendations and a live Booking.com map of pet-friendly hotels in that city.',
     ] },
     methodology: { title: 'Our methodology', paras: [
       'We collected the official off-leash-zone counts from each city\'s public-services website (\'Hundeauslaufzonen\' in German cities, \'aree cani\' in Italian cities, \'koira-aitaus\' in Finnish ones, etc.). Cities with fewer than 5 official zones were eliminated.',
@@ -222,7 +222,7 @@ const COPY: Record<string, {
       'Hotel availability was measured by counting Booking.com pet-friendly hotels rated 8.0+ within the city limits. Below 30 such hotels, a city dropped out of the top 20 regardless of its other scores.',
     ] },
     rankingTitle: 'The top 20 ranking',
-    rankingSubtitle: 'Each city links to live Booking.com prices for pet-friendly hotels — dog-friendly, cat-friendly, no pet fee, beach access, near parks and more.',
+    rankingSubtitle: 'Each city links to live Booking.com prices for pet-friendly hotels, dog-friendly, cat-friendly, no pet fee, beach access, near parks and more.',
     hotelsLabel: 'Hotels',
     guideLink: 'Full city guide →',
     bookOnBooking: 'Book pet-friendly hotels →',
@@ -244,26 +244,26 @@ const COPY: Record<string, {
       { q: 'Why isn\'t London on this list?', a: 'London ranks 22nd. The city has excellent infrastructure (Hyde Park, Hampstead Heath, the Thames Path), but it lost ground on the public-transport metric: dogs are banned on London buses and on Underground escalators, which makes large-dog logistics difficult. Edinburgh ranks higher partly because Scottish dog-rules are more uniform.' },
       { q: 'Is the order definitive?', a: 'Ranks 8-20 are within 10 points of each other on our scoring system, so the order between them is somewhat arbitrary. Amsterdam and Berlin (positions 1-2) are clear leaders, but the difference between #15 and #20 is small.' },
       { q: 'How often is this list updated?', a: 'Annually, in late April when most municipalities publish their dog-zone updates. Cities can move significantly: Belgrade jumped from outside the top 30 to 16th in 2026 thanks to free public transport (introduced January 2025) and a new 24/7 vet hospital.' },
-      { q: 'Are these cities good for cats too?', a: 'Most yes — but indoor cats rarely care about parks or off-leash zones. The metric that matters for cats is hotel acceptance, and almost all of our 20 cities have a strong cat-friendly hotel inventory. Hamburg, Helsinki and Vienna lead specifically on cats.' },
+      { q: 'Are these cities good for cats too?', a: 'Most yes, but indoor cats rarely care about parks or off-leash zones. The metric that matters for cats is hotel acceptance, and almost all of our 20 cities have a strong cat-friendly hotel inventory. Hamburg, Helsinki and Vienna lead specifically on cats.' },
       { q: 'What about cities that aren\'t in the EU?', a: 'Edinburgh and Reykjavik (UK and Iceland, both outside the EU pet-passport scheme) need an Animal Health Certificate (UK) or strict import process (Iceland: 4-week wait minimum, expensive). They\'re still in the ranking because the cities themselves are exceptional, but the paperwork is heavier.' },
     ],
     conclusion: { title: 'Our pick if you only have one trip', paras: [
       'If we had to choose a single city for a first European dog trip, it would be Amsterdam. The combination of dog-tolerance on public transport, the Vondelpark, the canals and the relaxed café culture is unmatched. Trains from Amsterdam Centraal also reach Berlin and Brussels in under 7 hours, opening multi-city itineraries.',
-      'For a winter trip, Vienna and Berlin both excel — heated trams, indoor café culture, Christmas markets that welcome dogs. For summer, Hamburg and Copenhagen win for their cooler 22-25 °C temperatures and easy lake/sea access. Avoid Madrid, Seville and Cordoba (40°C+) in July-August.',
+      'For a winter trip, Vienna and Berlin both excel, heated trams, indoor café culture, Christmas markets that welcome dogs. For summer, Hamburg and Copenhagen win for their cooler 22-25 °C temperatures and easy lake/sea access. Avoid Madrid, Seville and Cordoba (40°C+) in July-August.',
     ] },
     ctaTitle: 'Plan your trip with our city guides',
     ctaDesc: 'Each of these 20 cities has a full pet-friendly guide with hotels, restaurants, parks, vets and a live Booking.com map.',
     ctaButton: 'See all destinations →',
     bottomBookCtaTitle: 'Ready to book? Compare 770+ pet-friendly hotels',
-    bottomBookCtaDesc: 'Live prices and instant booking across Europe — Booking.com, Expedia, Hotels.com and more. Free cancellation on most properties, verified pet policies on every listing.',
+    bottomBookCtaDesc: 'Live prices and instant booking across Europe, Booking.com, Expedia, Hotels.com and more. Free cancellation on most properties, verified pet policies on every listing.',
     bottomBookCtaButton: 'Search pet-friendly hotels →',
   },
   fr: {
-    hero: { kicker: 'LES MEILLEURES VILLES CANINES D\'EUROPE · ÉDITION 2026', h1: 'Top 20 des villes européennes les plus dog-friendly', lede: 'Après avoir audité 85 destinations européennes selon cinq critères — espace sans laisse, règles transports publics, accès plages canines, couverture vétérinaire et disponibilité hôtels — voici les villes où voyager avec un chien est vraiment simple. Mis à jour pour 2026.' },
+    hero: { kicker: 'LES MEILLEURES VILLES CANINES D\'EUROPE · ÉDITION 2026', h1: 'Top 20 des villes européennes les plus dog-friendly', lede: 'Après avoir audité 85 destinations européennes selon cinq critères, espace sans laisse, règles transports publics, accès plages canines, couverture vétérinaire et disponibilité hôtels, voici les villes où voyager avec un chien est vraiment simple. Mis à jour pour 2026.' },
     intro: { title: 'Pourquoi ce classement est différent', paras: [
       'La plupart des listes « meilleures villes dog-friendly » que vous trouvez en ligne sont du copywriting marketing recyclé. Elles classent les villes selon des impressions vagues plutôt que selon les facteurs pratiques qui déterminent si votre chien aura vraiment un bon voyage.',
       'Nous avons adopté une approche différente. Nous avons audité chaque destination selon cinq critères concrets qui déterminent la qualité réelle d\'un voyage canin : nombre de zones sans laisse clôturées, acceptation des chiens dans métros et trams, disponibilité de plages canines (toute l\'année vs saisonnières), distance d\'un vétérinaire d\'urgence 24h/24 et densité d\'hôtels pet-friendly avec note voyageurs supérieure à 8,0/10.',
-      'Les villes ci-dessous se classent toutes dans le quintile supérieur sur au moins quatre des cinq critères. Chacune a été visitée et vérifiée par notre équipe — et chacune dispose d\'un guide complet et soigné avec numéros de vétérinaires, recommandations d\'hôtels et carte Booking.com en direct des hôtels pet-friendly.',
+      'Les villes ci-dessous se classent toutes dans le quintile supérieur sur au moins quatre des cinq critères. Chacune a été visitée et vérifiée par notre équipe, et chacune dispose d\'un guide complet et soigné avec numéros de vétérinaires, recommandations d\'hôtels et carte Booking.com en direct des hôtels pet-friendly.',
     ] },
     methodology: { title: 'Notre méthodologie', paras: [
       'Nous avons collecté le nombre officiel de zones sans laisse depuis le site des services publics de chaque ville (« Hundeauslaufzonen » dans les villes allemandes, « aree cani » dans les villes italiennes, « koira-aitaus » à Helsinki, etc.). Les villes comptant moins de 5 zones officielles ont été éliminées.',
@@ -273,7 +273,7 @@ const COPY: Record<string, {
       'La disponibilité hôtelière a été mesurée en comptant les hôtels pet-friendly Booking.com notés 8,0+ dans la ville. En dessous de 30 hôtels, la ville sort du top 20 quels que soient ses autres scores.',
     ] },
     rankingTitle: 'Le classement Top 20',
-    rankingSubtitle: 'Chaque ville renvoie aux prix Booking.com en direct des hôtels pet-friendly — chiens acceptés, chats acceptés, sans supplément animaux, accès plage, proche parcs, et plus.',
+    rankingSubtitle: 'Chaque ville renvoie aux prix Booking.com en direct des hôtels pet-friendly, chiens acceptés, chats acceptés, sans supplément animaux, accès plage, proche parcs, et plus.',
     hotelsLabel: 'Hôtels',
     guideLink: 'Guide complet de la ville →',
     bookOnBooking: 'Réserver hôtels pet-friendly →',
@@ -295,26 +295,26 @@ const COPY: Record<string, {
       { q: 'Pourquoi Londres n\'est-elle pas sur cette liste ?', a: 'Londres se classe 22e. La ville a une excellente infrastructure (Hyde Park, Hampstead Heath, le Thames Path), mais elle a perdu des points sur le critère transport : les chiens sont interdits dans les bus londoniens et sur les escalators du métro, ce qui rend la logistique des grands chiens difficile. Édimbourg se classe plus haut en partie parce que les règles canines écossaises sont plus uniformes.' },
       { q: 'L\'ordre est-il définitif ?', a: 'Les rangs 8 à 20 sont à moins de 10 points les uns des autres sur notre système de notation, donc l\'ordre entre eux est un peu arbitraire. Amsterdam et Berlin (positions 1-2) sont des leaders clairs, mais la différence entre la 15e et la 20e est faible.' },
       { q: 'À quelle fréquence cette liste est-elle mise à jour ?', a: 'Annuellement, fin avril, quand la plupart des municipalités publient leurs mises à jour de zones canines. Les villes peuvent bouger : Belgrade est passée hors top 30 à 16e en 2026 grâce aux transports publics gratuits (janvier 2025) et un nouvel hôpital vétérinaire 24h/24.' },
-      { q: 'Ces villes sont-elles bonnes pour les chats aussi ?', a: 'La plupart oui — mais les chats d\'intérieur se moquent des parcs et zones sans laisse. Le critère qui compte pour les chats est l\'acceptation hôtelière, et presque toutes nos 20 villes ont un fort inventaire d\'hôtels cat-friendly. Hambourg, Helsinki et Vienne mènent spécifiquement sur les chats.' },
+      { q: 'Ces villes sont-elles bonnes pour les chats aussi ?', a: 'La plupart oui, mais les chats d\'intérieur se moquent des parcs et zones sans laisse. Le critère qui compte pour les chats est l\'acceptation hôtelière, et presque toutes nos 20 villes ont un fort inventaire d\'hôtels cat-friendly. Hambourg, Helsinki et Vienne mènent spécifiquement sur les chats.' },
       { q: 'Et les villes hors UE ?', a: 'Édimbourg et Reykjavík (UK et Islande, hors système de passeport européen) nécessitent un Animal Health Certificate (UK) ou un processus d\'importation strict (Islande : 4 semaines minimum, cher). Elles restent dans le classement car les villes elles-mêmes sont exceptionnelles, mais la paperasse est plus lourde.' },
     ],
     conclusion: { title: 'Notre choix si vous n\'avez qu\'un seul voyage', paras: [
       'Si nous devions choisir une seule ville pour un premier voyage canin européen, ce serait Amsterdam. La combinaison de la tolérance canine dans les transports, du Vondelpark, des canaux et de la culture café détendue est inégalée. Les trains depuis Amsterdam Centraal atteignent aussi Berlin et Bruxelles en moins de 7 heures, ouvrant des itinéraires multi-villes.',
-      'Pour un voyage hivernal, Vienne et Berlin excellent toutes deux — trams chauffés, culture café intérieure, marchés de Noël qui accueillent les chiens. Pour l\'été, Hambourg et Copenhague gagnent grâce à leurs températures plus fraîches (22-25 °C) et accès faciles aux lacs/mer. Évitez Madrid, Séville et Cordoue (40 °C+) en juillet-août.',
+      'Pour un voyage hivernal, Vienne et Berlin excellent toutes deux, trams chauffés, culture café intérieure, marchés de Noël qui accueillent les chiens. Pour l\'été, Hambourg et Copenhague gagnent grâce à leurs températures plus fraîches (22-25 °C) et accès faciles aux lacs/mer. Évitez Madrid, Séville et Cordoue (40 °C+) en juillet-août.',
     ] },
     ctaTitle: 'Planifiez votre voyage avec nos guides ville',
     ctaDesc: 'Chacune de ces 20 villes dispose d\'un guide pet-friendly complet avec hôtels, restaurants, parcs, vétérinaires et carte Booking.com en direct.',
     ctaButton: 'Voir toutes les destinations →',
     bottomBookCtaTitle: 'Prêt à réserver ? Comparez 770+ hôtels pet-friendly',
-    bottomBookCtaDesc: 'Prix en direct et réservation instantanée à travers l\'Europe — Booking.com, Expedia, Hotels.com et plus. Annulation gratuite sur la plupart des établissements, politiques animaux vérifiées sur chaque fiche.',
+    bottomBookCtaDesc: 'Prix en direct et réservation instantanée à travers l\'Europe, Booking.com, Expedia, Hotels.com et plus. Annulation gratuite sur la plupart des établissements, politiques animaux vérifiées sur chaque fiche.',
     bottomBookCtaButton: 'Rechercher des hôtels pet-friendly →',
   },
   es: {
-    hero: { kicker: 'LAS MEJORES CIUDADES CANINAS DE EUROPA · EDICIÓN 2026', h1: 'Top 20 ciudades más dog-friendly de Europa', lede: 'Después de auditar 85 destinos europeos según cinco criterios — espacio sin correa, normas de transporte público, acceso a playas caninas, cobertura veterinaria y disponibilidad de hoteles — estas son las ciudades donde viajar con un perro es genuinamente fácil. Actualizado para 2026.' },
+    hero: { kicker: 'LAS MEJORES CIUDADES CANINAS DE EUROPA · EDICIÓN 2026', h1: 'Top 20 ciudades más dog-friendly de Europa', lede: 'Después de auditar 85 destinos europeos según cinco criterios, espacio sin correa, normas de transporte público, acceso a playas caninas, cobertura veterinaria y disponibilidad de hoteles, estas son las ciudades donde viajar con un perro es genuinamente fácil. Actualizado para 2026.' },
     intro: { title: 'Por qué este ranking es diferente', paras: [
       'La mayoría de las listas de "mejores ciudades dog-friendly" que encuentras online son copywriting de marketing reciclado. Clasifican ciudades según impresiones vagas en lugar de los factores prácticos que determinan si tu perro tendrá realmente un buen viaje.',
       'Hemos adoptado un enfoque diferente. Auditamos cada destino según cinco criterios concretos que determinan la calidad real de un viaje canino: número de zonas sin correa valladas, aceptación de perros en metros y tranvías, disponibilidad de playas caninas (todo el año vs estacionales), distancia de un veterinario de urgencias 24/7 y densidad de hoteles pet-friendly con valoración superior a 8,0/10.',
-      'Las ciudades de abajo se sitúan todas en el quintil superior en al menos cuatro de los cinco criterios. Cada una ha sido visitada y verificada por nuestro equipo — y cada una dispone de una guía completa y cuidada con números de veterinarios, recomendaciones de hoteles y mapa Booking.com en vivo de hoteles pet-friendly.',
+      'Las ciudades de abajo se sitúan todas en el quintil superior en al menos cuatro de los cinco criterios. Cada una ha sido visitada y verificada por nuestro equipo, y cada una dispone de una guía completa y cuidada con números de veterinarios, recomendaciones de hoteles y mapa Booking.com en vivo de hoteles pet-friendly.',
     ] },
     methodology: { title: 'Nuestra metodología', paras: [
       'Recopilamos el número oficial de zonas sin correa de cada ciudad desde la web de servicios públicos ("Hundeauslaufzonen" en ciudades alemanas, "aree cani" en italianas, "koira-aitaus" en Helsinki, etc.). Las ciudades con menos de 5 zonas oficiales fueron eliminadas.',
@@ -324,7 +324,7 @@ const COPY: Record<string, {
       'La disponibilidad hotelera se midió contando hoteles pet-friendly Booking.com con valoración 8,0+ dentro de los límites de la ciudad. Por debajo de 30 hoteles, la ciudad salía del top 20 sin importar otras puntuaciones.',
     ] },
     rankingTitle: 'El ranking Top 20',
-    rankingSubtitle: 'Cada ciudad enlaza con precios Booking.com en vivo de hoteles pet-friendly — admiten perros, admiten gatos, sin cargo por mascota, acceso a playa, cerca de parques y más.',
+    rankingSubtitle: 'Cada ciudad enlaza con precios Booking.com en vivo de hoteles pet-friendly, admiten perros, admiten gatos, sin cargo por mascota, acceso a playa, cerca de parques y más.',
     hotelsLabel: 'Hoteles',
     guideLink: 'Guía completa de la ciudad →',
     bookOnBooking: 'Reservar hoteles pet-friendly →',
@@ -346,26 +346,26 @@ const COPY: Record<string, {
       { q: '¿Por qué Londres no está en la lista?', a: 'Londres está en el puesto 22. La ciudad tiene una excelente infraestructura (Hyde Park, Hampstead Heath, el Thames Path), pero perdió puntos en el criterio de transporte: los perros están prohibidos en los autobuses de Londres y en las escaleras mecánicas del metro, lo que dificulta la logística de perros grandes. Edimburgo se clasifica más alto en parte porque las normas caninas escocesas son más uniformes.' },
       { q: '¿El orden es definitivo?', a: 'Los puestos 8 a 20 están a menos de 10 puntos entre sí en nuestro sistema de puntuación, así que el orden entre ellos es algo arbitrario. Ámsterdam y Berlín (puestos 1-2) son líderes claros, pero la diferencia entre el 15 y el 20 es pequeña.' },
       { q: '¿Con qué frecuencia se actualiza esta lista?', a: 'Anualmente, a finales de abril, cuando la mayoría de los municipios publican sus actualizaciones de zonas caninas. Las ciudades pueden moverse mucho: Belgrado pasó de fuera del top 30 al puesto 16 en 2026 gracias al transporte público gratuito (enero 2025) y un nuevo hospital veterinario 24/7.' },
-      { q: '¿Estas ciudades son buenas también para gatos?', a: 'La mayoría sí — pero los gatos de interior raramente se preocupan por parques o zonas sin correa. El criterio que importa para gatos es la aceptación hotelera, y casi todas nuestras 20 ciudades tienen un fuerte inventario de hoteles cat-friendly. Hamburgo, Helsinki y Viena lideran específicamente en gatos.' },
+      { q: '¿Estas ciudades son buenas también para gatos?', a: 'La mayoría sí, pero los gatos de interior raramente se preocupan por parques o zonas sin correa. El criterio que importa para gatos es la aceptación hotelera, y casi todas nuestras 20 ciudades tienen un fuerte inventario de hoteles cat-friendly. Hamburgo, Helsinki y Viena lideran específicamente en gatos.' },
       { q: '¿Y las ciudades fuera de la UE?', a: 'Edimburgo y Reikiavik (Reino Unido e Islandia, ambos fuera del sistema de pasaporte europeo) requieren un Animal Health Certificate (UK) o un proceso de importación estricto (Islandia: 4 semanas mínimo, caro). Siguen en el ranking porque las ciudades en sí son excepcionales, pero el papeleo es más pesado.' },
     ],
     conclusion: { title: 'Nuestra elección si solo tienes un viaje', paras: [
       'Si tuviéramos que elegir una sola ciudad para un primer viaje canino europeo, sería Ámsterdam. La combinación de tolerancia canina en transporte, el Vondelpark, los canales y la cultura de café relajada es inigualable. Los trenes desde Ámsterdam Centraal también llegan a Berlín y Bruselas en menos de 7 horas, abriendo itinerarios multi-ciudad.',
-      'Para un viaje invernal, Viena y Berlín destacan ambas — tranvías calefactados, cultura de café interior, mercados de Navidad que admiten perros. Para verano, Hamburgo y Copenhague ganan por sus temperaturas más frescas (22-25 °C) y fácil acceso a lago/mar. Evita Madrid, Sevilla y Córdoba (40 °C+) en julio-agosto.',
+      'Para un viaje invernal, Viena y Berlín destacan ambas, tranvías calefactados, cultura de café interior, mercados de Navidad que admiten perros. Para verano, Hamburgo y Copenhague ganan por sus temperaturas más frescas (22-25 °C) y fácil acceso a lago/mar. Evita Madrid, Sevilla y Córdoba (40 °C+) en julio-agosto.',
     ] },
     ctaTitle: 'Planea tu viaje con nuestras guías de ciudad',
     ctaDesc: 'Cada una de estas 20 ciudades tiene una guía pet-friendly completa con hoteles, restaurantes, parques, veterinarios y mapa Booking.com en vivo.',
     ctaButton: 'Ver todos los destinos →',
     bottomBookCtaTitle: '¿Listo para reservar? Compara 770+ hoteles pet-friendly',
-    bottomBookCtaDesc: 'Precios en vivo y reserva instantánea por toda Europa — Booking.com, Expedia, Hotels.com y más. Cancelación gratuita en la mayoría de los establecimientos, políticas de mascotas verificadas en cada ficha.',
+    bottomBookCtaDesc: 'Precios en vivo y reserva instantánea por toda Europa, Booking.com, Expedia, Hotels.com y más. Cancelación gratuita en la mayoría de los establecimientos, políticas de mascotas verificadas en cada ficha.',
     bottomBookCtaButton: 'Buscar hoteles pet-friendly →',
   },
   pt: {
-    hero: { kicker: 'As MELHORES Cidades Caninas DE EUROPA · Edição 2026', h1: 'Top 20 cidades mais pet-friendly de Europa', lede: 'Depois de auditar 85 destinos europeus segundo cinco critérios — espaço sem trela, normas de transporte público, acesso a praias caninas, cobertura veterinária e disponibilidade de hotéis — estas são as cidades onde viajar com um cão é genuinamente fácil. Atualizado para 2026.' },
+    hero: { kicker: 'As MELHORES Cidades Caninas DE EUROPA · Edição 2026', h1: 'Top 20 cidades mais pet-friendly de Europa', lede: 'Depois de auditar 85 destinos europeus segundo cinco critérios, espaço sem trela, normas de transporte público, acesso a praias caninas, cobertura veterinária e disponibilidade de hotéis, estas são as cidades onde viajar com um cão é genuinamente fácil. Atualizado para 2026.' },
     intro: { title: 'Porquê este ranking é diferente', paras: [
       'A maioria das listas de "MELHORES cidades pet-friendly" que encuentras online são copywriting de marketing reciclado. Classificam cidades segundo impressões vagas em lugar dois factores prácticos que determinam si o teu cão tendrá realmente um buen viaje.',
       'Hemos adoptado um abordagem diferente. Auditámos cada destino segundo cinco critérios concretos que determinam a qualidade real de um viaje canino: número de zonas sem trela vedadas, aceitação de cães em metros e elétricos, disponibilidade de praias caninas (o ano inteiro vs sazonais), distancia de um veterinário de urgências 24/7 e densidad de hotéis pet-friendly com avaliação superior a 8,0/10.',
-      'As cidades de abajo situam-se todas no quintil superior em al menos cuatro dois cinco critérios. Cada uma foi visitada e verificada por nuestro equipo — e cada uma dispone de uma guía completa e cuidada com números de veterinários, recomendaciones de hotéis e mapa Booking.com em vivo de hotéis pet-friendly.',
+      'As cidades de abajo situam-se todas no quintil superior em al menos cuatro dois cinco critérios. Cada uma foi visitada e verificada por nuestro equipo, e cada uma dispone de uma guía completa e cuidada com números de veterinários, recomendaciones de hotéis e mapa Booking.com em vivo de hotéis pet-friendly.',
     ] },
     methodology: { title: 'Nuestra metodología', paras: [
       'Recopilamos o número oficial de zonas sem trela de cada cidade desde a web de serviços públicos ("Hundeauslaufzonen" em cidades alemãs, "aree cani" em italianas, "koira-aitaus" em Helsínquia, etc.). As cidades com menos de 5 zonas oficiais foram eliminadas.',
@@ -375,7 +375,7 @@ const COPY: Record<string, {
       'A disponibilidade hotelera foi medida a contar hotéis pet-friendly Booking.com com avaliação 8,0+ dentro dois limites da cidade. Por debajo de 30 hotéis, a cidade salía do top 20 sem importar otras pontuações.',
     ] },
     rankingTitle: 'O ranking Top 20',
-    rankingSubtitle: 'Cada cidade liga a preços Booking.com em direto de hotéis pet-friendly — aceitam cães, aceitam gatos, sem suplemento de animais, acesso à praia, perto de parques e mais.',
+    rankingSubtitle: 'Cada cidade liga a preços Booking.com em direto de hotéis pet-friendly, aceitam cães, aceitam gatos, sem suplemento de animais, acesso à praia, perto de parques e mais.',
     hotelsLabel: 'Hotéis',
     guideLink: 'Guia completo da cidade →',
     bookOnBooking: 'Reservar hotéis pet-friendly →',
@@ -397,18 +397,18 @@ const COPY: Record<string, {
       { q: 'Porquê Londres no está na lista?', a: 'Londres está no lugar 22. A cidade tem uma excelente infraestructura (Hyde Park, Hampstead Heath, o Thames Path), mas perdeu puntos no critério de transporte: os cães estão proibidos nos autocarros de Londres e nas escaleras mecánicas do metro, lo que dificulta a logística de cães grandes. Edimburgo se classifica mais alto em parte porque as normas caninas escocesas são mais uniformes.' },
       { q: 'O orden é definitivo?', a: 'Os lugares 8 a 20 estão a menos de 10 puntos entre sí em nuestro sistema de pontuação, así que o orden entre ellos é algo arbitrário. Amesterdão e Berlim (lugares 1-2) são líderes claros, mas a diferença entre o 15 e o 20 é pequena.' },
       { q: 'Com que frecuencia se actualiza esta lista?', a: 'Anualmente, a finais de abril, quando a maioria dois municípios publicam os seus atualizações de zonas caninas. As cidades podem mover-se muito: Belgrado passou de fora do top 30 al lugar 16 em 2026 gracias al transporte público gratuito (janeiro 2025) e um novo hospital veterinário 24/7.' },
-      { q: 'Estas cidades são boas também para gatos?', a: 'A mayoría sí — mas os gatos de interior raramente preocupam-se por parques o zonas sem trela. O critério que importa para gatos é a aceitação hotelera, e casi todas nuestras 20 cidades têm um forte inventário de hotéis cat-friendly. Hamburgo, Helsínquia e Viena lideram especificamente em gatos.' },
+      { q: 'Estas cidades são boas também para gatos?', a: 'A mayoría sí, mas os gatos de interior raramente preocupam-se por parques o zonas sem trela. O critério que importa para gatos é a aceitação hotelera, e casi todas nuestras 20 cidades têm um forte inventário de hotéis cat-friendly. Hamburgo, Helsínquia e Viena lideram especificamente em gatos.' },
       { q: 'E as cidades fora da UE?', a: 'Edimburgo e Reiquiavique (Reino Unido e Islandia, ambos fora do sistema de passaporte europeu) exigem um Animal Health Certificate (UK) o um proceso de importación rigoroso (Islandia: 4 semanas mínimo, caro). Continuam no ranking porque as cidades em sí são excecionais, mas o burocracia é mais pesado.' },
     ],
     conclusion: { title: 'Nuestra elección si só tienes um viaje', paras: [
       'Si tuviéramos que escolher uma sola cidade para um primer viaje canino europeu, seria Amesterdão. A combinação de tolerância canina em transporte, o Vondelpark, os canais e a cultura de café descontraída é inigualável. Os comboios desde Amesterdão Centraal também chegam a Berlim e Bruxelas em menos de 7 horas, a abrir itinerários multi-cidade.',
-      'Para um viaje invernal, Viena e Berlim destacam-se ambas — elétricos aquecidos, cultura de café interior, mercados de Natal que admitem cães. Para verão, Hamburgo e Copenhaga ganham por os seus temperaturas mais frescas (22-25 °C) e fácil acesso a lago/mar. Evita Madrid, Sevilha e Córdoba (40 °C+) em julho-agosto.',
+      'Para um viaje invernal, Viena e Berlim destacam-se ambas, elétricos aquecidos, cultura de café interior, mercados de Natal que admitem cães. Para verão, Hamburgo e Copenhaga ganham por os seus temperaturas mais frescas (22-25 °C) e fácil acesso a lago/mar. Evita Madrid, Sevilha e Córdoba (40 °C+) em julho-agosto.',
     ] },
     ctaTitle: 'Planeie a sua viagem com os nossos guias de cidade',
     ctaDesc: 'Cada uma destas 20 cidades tem um guia pet-friendly completo com hotéis, restaurantes, parques, veterinários e mapa Booking.com em direto.',
     ctaButton: 'Ver todos os destinos →',
     bottomBookCtaTitle: 'Pronto para reservar? Compare 770+ hotéis pet-friendly',
-    bottomBookCtaDesc: 'Preços em direto e reserva instantânea por toda a Europa — Booking.com, Expedia, Hotels.com e mais. Cancelamento grátis na maioria dos estabelecimentos, políticas de animais verificadas em cada ficha.',
+    bottomBookCtaDesc: 'Preços em direto e reserva instantânea por toda a Europa, Booking.com, Expedia, Hotels.com e mais. Cancelamento grátis na maioria dos estabelecimentos, políticas de animais verificadas em cada ficha.',
     bottomBookCtaButton: 'Procurar hotéis pet-friendly →',
   },
 }
@@ -474,7 +474,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
-      {/* Ranking (moved up — directly under hero) */}
+      {/* Ranking (moved up, directly under hero) */}
       <section className="py-14 lg:py-16 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 text-center">{c.rankingTitle}</h2>
@@ -489,7 +489,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
                     <div className="relative h-48 md:h-auto md:col-span-1 bg-gray-100">
                       {city.dest.heroImage && (
-                        <Image src={city.dest.heroImage} alt={`Pet-friendly hotels in ${localName} — dog-friendly travel ${localCountry}`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
+                        <Image src={city.dest.heroImage} alt={`Pet-friendly hotels in ${localName}, dog-friendly travel ${localCountry}`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
                       )}
                       <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-md">
                         <span className="text-xl font-extrabold text-blue-700">#{city.rank}</span>
@@ -504,7 +504,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       </div>
                       <p className="text-gray-700 leading-relaxed mb-5">{city.reasonText}</p>
 
-                      {/* Primary booking CTA — full-width orange→blue gradient */}
+                      {/* Primary booking CTA, full-width orange→blue gradient */}
                       <a
                         href={bookUrl}
                         target="_blank"
@@ -551,7 +551,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
-      {/* Live map — centered on Amsterdam */}
+      {/* Live map, centered on Amsterdam */}
       <section className="py-14 lg:py-16 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3 text-center">🗺️ {c.mapTitle}</h2>
@@ -560,7 +560,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
-      {/* Keyword chips — internal-link cluster targeting long-tail queries */}
+      {/* Keyword chips, internal-link cluster targeting long-tail queries */}
       <section className="py-12 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-xs font-bold text-gray-400 uppercase tracking-widest text-center mb-5">
@@ -594,7 +594,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </article>
 
-      {/* Intro + Methodology (moved to bottom — context for the curious) */}
+      {/* Intro + Methodology (moved to bottom, context for the curious) */}
       <article className="py-14 bg-gray-50 border-t border-gray-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
           <section>

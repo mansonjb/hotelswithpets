@@ -58,7 +58,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
         {/* Mosaic layout */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 auto-rows-[160px]">
 
-          {/* Hero card — 2 cols, 2 rows */}
+          {/* Hero card, 2 cols, 2 rows */}
           <Link
             href={`/${locale}/destinations/${hero.slug}`}
             className={`col-span-2 row-span-2 group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[0]} flex flex-col justify-end p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
@@ -90,7 +90,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             </div>
           </Link>
 
-          {/* Second card — 2 cols, 1 row */}
+          {/* Second card, 2 cols, 1 row */}
           {[second, third].map((dest, i) => (
             <Link
               key={dest.slug}
@@ -116,7 +116,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             </Link>
           ))}
 
-          {/* Small cards — 1 col, 1 row each */}
+          {/* Small cards, 1 col, 1 row each */}
           {smalls.map((dest, i) => (
             <Link
               key={dest.slug}

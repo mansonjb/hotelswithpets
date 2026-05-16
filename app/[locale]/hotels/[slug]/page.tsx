@@ -43,15 +43,15 @@ export async function generateMetadata({
 
   const titles: Record<string, string> = {
     en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`,
-    fr: `${hotel.name} — Hôtel pet-friendly à ${cityFr} | HotelsWithPets.com`,
-    es: `${hotel.name} — Hotel pet-friendly en ${cityEs} | HotelsWithPets.com`,
-    pt: `${hotel.name} — Hotel pet-friendly em ${cityPt} | HotelsWithPets.com`,
+    fr: `${hotel.name}, Hôtel pet-friendly à ${cityFr} | HotelsWithPets.com`,
+    es: `${hotel.name}, Hotel pet-friendly en ${cityEs} | HotelsWithPets.com`,
+    pt: `${hotel.name}, Hotel pet-friendly em ${cityPt} | HotelsWithPets.com`,
   }
   const descriptions: Record<string, string> = {
     en: `${hotel.name} in ${dest.name}: pet policy: ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,
-    fr: `${hotel.name} à ${cityFr} — politique animaux : ${cleanPetPolicy.slice(0, 100)}. Dès ${hotel.priceFrom} €/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
-    es: `${hotel.name} en ${cityEs} — política de mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noche. Puntuación: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo por mascota: ${petFeeStr}.`,
-    pt: `${hotel.name} em ${cityPt} — política animal: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noite. Nota: ${hotel.rating}/10 (${hotel.reviewCount} avaliações). Taxa de animal: ${petFeeStr}.`,
+    fr: `${hotel.name} à ${cityFr}, politique animaux : ${cleanPetPolicy.slice(0, 100)}. Dès ${hotel.priceFrom} €/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
+    es: `${hotel.name} en ${cityEs}, política de mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noche. Puntuación: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo por mascota: ${petFeeStr}.`,
+    pt: `${hotel.name} em ${cityPt}, política animal: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noite. Nota: ${hotel.rating}/10 (${hotel.reviewCount} avaliações). Taxa de animal: ${petFeeStr}.`,
   }
   const title = titles[locale] ?? titles.en
   const description = descriptions[locale] ?? descriptions.en

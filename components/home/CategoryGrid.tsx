@@ -37,10 +37,10 @@ function getTopCities(catSlug: string, count = 3): string[] {
 }
 
 const INTRO: Record<string, string> = {
-  fr: 'Tous nos hôtels ont une politique animaux vérifiée — mais chaque voyage est différent. Filtrez par catégorie pour trouver exactement l\'hôtel qu\'il vous faut.',
-  en: 'Every hotel on HotelsWithPets has a verified pet policy — but not every hotel suits every trip. Filter by category to find exactly what you need.',
-  es: 'Todos nuestros hoteles tienen una política de mascotas verificada — pero no todos encajan con cada viaje. Filtra por categoría para dar con el hotel ideal.',
-  pt: 'Todos os nossos hotéis têm uma política de animais verificada — mas nem todos servem para cada viagem. Filtre por categoria para encontrar exatamente o hotel ideal.',
+  fr: 'Tous nos hôtels ont une politique animaux vérifiée, mais chaque voyage est différent. Filtrez par catégorie pour trouver exactement l\'hôtel qu\'il vous faut.',
+  en: 'Every hotel on HotelsWithPets has a verified pet policy, but not every hotel suits every trip. Filter by category to find exactly what you need.',
+  es: 'Todos nuestros hoteles tienen una política de mascotas verificada, pero no todos encajan con cada viaje. Filtra por categoría para dar con el hotel ideal.',
+  pt: 'Todos os nossos hotéis têm uma política de animais verificada, mas nem todos servem para cada viagem. Filtre por categoria para encontrar exatamente o hotel ideal.',
 }
 
 const PROMISE: Record<string, { title: string; items: string[] }> = {
@@ -98,7 +98,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
           </p>
         </div>
 
-        {/* Featured 3 — large editorial rows */}
+        {/* Featured 3, large editorial rows */}
         <div className="space-y-4 mb-10">
           {featured.map((cat, i) => {
             const topCities = getTopCities(cat.slug, 4)
@@ -109,7 +109,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                 href={`/${locale}/categories/${cat.slug}`}
                 className="group grid grid-cols-[4rem_1fr_2rem] items-center gap-5 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-5 overflow-hidden relative"
               >
-                {/* Large faded number — absolutely positioned, won't affect height */}
+                {/* Large faded number, absolutely positioned, won't affect height */}
                 <span
                   className="absolute right-12 top-1/2 -translate-y-1/2 text-[5rem] font-black leading-none select-none pointer-events-none"
                   style={{ color: 'rgba(0,0,0,0.035)' }}
@@ -122,7 +122,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
                   {cat.emoji}
                 </div>
 
-                {/* Content — fixed 2-line desc so rows stay equal height */}
+                {/* Content, fixed 2-line desc so rows stay equal height */}
                 <div className="min-w-0">
                   <h3 className="font-extrabold text-gray-900 text-base group-hover:text-blue-700 transition-colors leading-snug mb-1">
                     {getCategoryName(cat, locale)}
@@ -145,7 +145,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
           })}
         </div>
 
-        {/* Remaining categories — compact grid */}
+        {/* Remaining categories, compact grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 mb-10">
           {rest.map((cat) => {
             const hotelCount = hotels.filter((h) => h.categories.includes(cat.slug)).length

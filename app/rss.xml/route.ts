@@ -5,7 +5,7 @@ import destinations from '@/data/destinations.json'
 
 /**
  * RSS feed listing the 30 most recently-updated destination guides.
- * Bing uses RSS as a freshness/discovery signal — Google ignores it but
+ * Bing uses RSS as a freshness/discovery signal, Google ignores it but
  * relies on the sitemap. Cheap to generate, helps Bing keep up.
  */
 export const dynamic = 'force-static'
@@ -58,10 +58,10 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HotelsWithPets — latest pet-friendly destination guides</title>
+    <title>HotelsWithPets, latest pet-friendly destination guides</title>
     <link>${SITE_URL}</link>
     <atom:link href="${SITE_URL}/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Pet-friendly hotels and city guides across Europe — newest and recently-updated destinations.</description>
+    <description>Pet-friendly hotels and city guides across Europe, newest and recently-updated destinations.</description>
     <language>en</language>
     <lastBuildDate>${lastBuildDate}</lastBuildDate>
 ${itemXml}

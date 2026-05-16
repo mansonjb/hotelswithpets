@@ -75,7 +75,7 @@ const COPY: Record<string, {
     allTitle: 'All countries',
     intro: 'Each European country has its own rules for travelling with a pet: required documents, transport access, hotel policies. Our country pages give you what you need to know before you set off.',
     tipTitle: 'Good to know',
-    tip: 'To travel with your dog or cat within the EU, you need an EU pet passport and an up-to-date rabies vaccination. Finland, the UK and Norway have additional requirements — check our full guide before you travel.',
+    tip: 'To travel with your dog or cat within the EU, you need an EU pet passport and an up-to-date rabies vaccination. Finland, the UK and Norway have additional requirements, check our full guide before you travel.',
   },
   es: {
     hero: 'Explorar por país',
@@ -84,15 +84,15 @@ const COPY: Record<string, {
     allTitle: 'Todos los países',
     intro: 'Cada país europeo tiene sus propias normas para viajar con mascotas: documentación necesaria, acceso al transporte, condiciones hoteleras. Nuestras páginas por país te dan lo esencial antes de salir.',
     tipTitle: 'Importante',
-    tip: 'Para viajar con tu perro o gato dentro de la UE necesitas el pasaporte europeo para mascotas y la vacuna antirrábica al día. Finlandia, el Reino Unido y Noruega tienen requisitos adicionales — consulta nuestra guía completa.',
+    tip: 'Para viajar con tu perro o gato dentro de la UE necesitas el pasaporte europeo para mascotas y la vacuna antirrábica al día. Finlandia, el Reino Unido y Noruega tienen requisitos adicionales, consulta nuestra guía completa.',
   },
 }
 
 const COUNTRY_INTROS: Record<string, Record<string, string>> = {
   france: {
-    fr: "L'une des destinations les plus accueillantes pour les animaux en Europe. Les chiens sont admis dans les cafés, les brasseries et les hôtels de luxe — du surf à Biarritz aux terrasses parisiennes.",
+    fr: "L'une des destinations les plus accueillantes pour les animaux en Europe. Les chiens sont admis dans les cafés, les brasseries et les hôtels de luxe, du surf à Biarritz aux terrasses parisiennes.",
     en: "One of Europe's most dog-welcoming countries. From Parisian café terraces to surf beaches in Biarritz, France treats dogs like locals.",
-    es: "Uno de los países más abiertos a las mascotas de Europa. Los perros son bienvenidos en cafés, restaurantes y hoteles de lujo — desde las terrazas parisinas hasta las olas de Biarritz.",
+    es: "Uno de los países más abiertos a las mascotas de Europa. Los perros son bienvenidos en cafés, restaurantes y hoteles de lujo, desde las terrazas parisinas hasta las olas de Biarritz.",
   },
   spain: {
     fr: "Soleil, plages accessibles aux chiens et hôtels de plus en plus ouverts aux animaux. Barcelone, Madrid et la côte méditerranéenne font de l'Espagne un choix naturel pour voyager avec son animal.",
@@ -101,18 +101,18 @@ const COUNTRY_INTROS: Record<string, Record<string, string>> = {
   },
   italy: {
     fr: "En Italie, les chiens accompagnent leurs propriétaires partout : restaurants en terrasse, piazzas et balades historiques. Rome, Florence et Venise vous attendent.",
-    en: "In Italy, dogs go everywhere with their owners — terrace restaurants, piazzas and monument-lined strolls. Rome, Florence and Venice await.",
+    en: "In Italy, dogs go everywhere with their owners, terrace restaurants, piazzas and monument-lined strolls. Rome, Florence and Venice await.",
     es: "En Italia los perros acompañan a sus dueños a todas partes: terrazas, plazas y paseos entre monumentos. Roma, Florencia y Venecia te esperan.",
   },
   belgium: {
-    fr: "Les villes médiévales de Belgique — Bruges, Gand, Anvers — comptent parmi les plus dog-friendly d'Europe. Cafés, hôtels boutiques et towpaths de canaux accessibles à quatre pattes.",
-    en: "Belgium's medieval cities — Bruges, Ghent and Antwerp — rank among Europe's most dog-forward. Cafés, boutique hotels and canal towpaths welcome you and your pet.",
-    es: "Las ciudades medievales de Bélgica — Brujas, Gante y Amberes — están entre las más abiertas a los perros de Europa. Cafés, hoteles boutique y canales a tu disposición.",
+    fr: "Les villes médiévales de Belgique, Bruges, Gand, Anvers, comptent parmi les plus dog-friendly d'Europe. Cafés, hôtels boutiques et towpaths de canaux accessibles à quatre pattes.",
+    en: "Belgium's medieval cities, Bruges, Ghent and Antwerp, rank among Europe's most dog-forward. Cafés, boutique hotels and canal towpaths welcome you and your pet.",
+    es: "Las ciudades medievales de Bélgica, Brujas, Gante y Amberes, están entre las más abiertas a los perros de Europa. Cafés, hoteles boutique y canales a tu disposición.",
   },
   germany: {
-    fr: "En Allemagne, voyager avec un chien est parfaitement normal. Métro, musées, biergartens — les chiens sont bienvenus partout et dans toutes les villes.",
-    en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens — dogs are welcome everywhere, in every city.",
-    es: "En Alemania viajar con perro es de lo más habitual. Metro, museos, biergarten — los perros son bienvenidos en todas partes y en todas las ciudades.",
+    fr: "En Allemagne, voyager avec un chien est parfaitement normal. Métro, musées, biergartens, les chiens sont bienvenus partout et dans toutes les villes.",
+    en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens, dogs are welcome everywhere, in every city.",
+    es: "En Alemania viajar con perro es de lo más habitual. Metro, museos, biergarten, los perros son bienvenidos en todas partes y en todas las ciudades.",
   },
   portugal: {
     fr: "Doux, ensoleillé et accessible, le Portugal est idéal pour voyager avec un animal toute l'année. Lisbonne et Porto combinent charme, tranquillité et terrasses face au fleuve.",
@@ -167,13 +167,13 @@ export default async function CountriesPage({
         </div>
       </section>
 
-      {/* Travel tip — links to full guide */}
+      {/* Travel tip, links to full guide */}
       <section className="bg-amber-50 border-b border-amber-100 py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-start justify-between gap-4 flex-wrap">
             <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
               <span className="text-base flex-shrink-0">💡</span>
-              <span><strong>{copy.tipTitle} —</strong> {copy.tip}</span>
+              <span><strong>{copy.tipTitle},</strong> {copy.tip}</span>
             </p>
             <Link
               href={`/${locale}/guides/passeport-animal`}

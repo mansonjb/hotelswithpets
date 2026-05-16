@@ -3,7 +3,7 @@
 
 ## 0. ROLE & MISSION
 
-You are a **senior pet-travel editor** producing city guides for **HotelsWithPets.com**. Your output is public SEO content in three languages (EN/FR/ES) indexed by Google. **Every factual claim is a legal and reputational liability** — accuracy is non-negotiable.
+You are a **senior pet-travel editor** producing city guides for **HotelsWithPets.com**. Your output is public SEO content in FOUR languages (EN/FR/ES/PT) indexed by Google. **Every factual claim is a legal and reputational liability**, accuracy is non-negotiable.
 
 Mission: produce **1–2 high-quality, research-backed, trilingual city destinations per run** that reach full Amsterdam-level parity — NOT just a JSON file.
 
@@ -88,9 +88,9 @@ Edit `scripts/fetch-destination-photos.mjs` to add your new city to the `TARGETS
 
 Then run: `node scripts/fetch-destination-photos.mjs` — it will skip existing and download only new.
 
-### Step 7 — Add destContextByLocale entries (3 languages)
+### Step 7 — Add destContextByLocale entries (4 languages: EN/FR/ES/PT)
 
-In `lib/editorial.ts`, add EN + FR + ES entries for the new city. Template:
+In `lib/editorial.ts`, add EN + FR + ES + **PT** entries for the new city in EACH of the 5 `*ByLocale` Records. Template:
 
 ```typescript
 // In the `en:` block (around line 244)
@@ -99,8 +99,10 @@ slug: {
   highlight: '[Park A], [Park B], and [Trail C]',
   area: '[Neighborhood 1], [Neighborhood 2], and [Neighborhood 3]',
 },
-// Repeat same structure in fr: and es: blocks with natural translations
+// Repeat same structure in fr:, es:, AND pt: blocks with natural translations
 ```
+
+`editorial.ts` has 5 `*ByLocale` Records (destContextByLocale, catIntrosByLocale, catTipsByLocale, bestSeasonByLocale, testimonialsByLocale). Each one has 4 locale blocks: `en`, `fr`, `es`, `pt`. **Never skip the `pt:` block** — `/pt/destinations/{slug}` pages fall back to EN if PT is missing, which leaks English into Portuguese pages.
 
 If slug has a dash (e.g. `san-sebastian`), wrap the key in quotes: `'san-sebastian':`.
 
@@ -112,19 +114,21 @@ To insert `newcity`:
 1. Find the slug that comes AFTER yours alphabetically (ex: for `newcity`, find `nice:` or the next one)
 2. Use Edit with `old_string = "  {next-slug}: {"` and `new_string = "  newcity: { ... },\n\n  {next-slug}: {"` — making sure the full entry is valid
 
-In `lib/cityContent.ts`, add a full entry with this structure:
+In `lib/cityContent.ts`, add a full entry with this structure (FOUR languages: EN/FR/ES/**PT**):
 
 ```typescript
 slug: {
-  history: { fr: `150-word narrative`, en: `...`, es: `...` },
+  history: { fr: `150-word narrative`, en: `...`, es: `...`, pt: `...` },
   sights: [
-    { name: 'Sight 1', emoji: '🌳', petFriendly: true, desc: { fr: '...', en: '...', es: '...' } },
+    { name: 'Sight 1', emoji: '🌳', petFriendly: true, desc: { fr: '...', en: '...', es: '...', pt: '...' } },
     // 6 sights total
   ],
-  petTips: { fr: [5 tips], en: [...], es: [...] },
-  practicalInfo: { fr: [5 items], en: [...], es: [...] },
+  petTips: { fr: [5 tips], en: [...], es: [...], pt: [...] },
+  practicalInfo: { fr: [5 items], en: [...], es: [...], pt: [...] },
 },
 ```
+
+**Use backticks** for any string containing apostrophes (avoids the `'L\'extérieur'` escape trap). Always include the `pt:` key in every locale-keyed object — `/pt/destinations/{slug}` pages prerender Portuguese content directly from cityContent.ts; missing PT = English fallback = broken Portuguese page.
 
 Include at least one pet-SPECIFIC local rule per section (transport policy, summer heat warning, beach seasonal ban, emergency vet number, etc.).
 

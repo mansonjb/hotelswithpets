@@ -19,11 +19,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'European City Trip With Your Dog: Paris → Brussels → Amsterdam → Berlin (10-Day Itinerary) | HotelsWithPets.com',
     fr: 'City trip en Europe avec son chien : Paris → Bruxelles → Amsterdam → Berlin (itinéraire 10 jours) | HotelsWithPets.com',
     es: 'City trip por Europa con tu perro: París → Bruselas → Ámsterdam → Berlín (itinerario 10 días) | HotelsWithPets.com',
+    pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day train-friendly city-trip itinerary across four iconic European capitals with your dog. Recommended pet-friendly hotels, live Booking.com maps, transport rules and dog-walking spots in each city.',
     fr: "Itinéraire de 10 jours en train à travers quatre capitales européennes emblématiques avec votre chien. Hôtels pet-friendly recommandés, cartes Booking.com en direct, règles de transport et lieux de balade canine dans chaque ville.",
     es: 'Itinerario de 10 días en tren por cuatro icónicas capitales europeas con tu perro. Hoteles pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte y lugares para pasear al perro en cada ciudad.',
+    pt: 'Itinerario de 10 dias de comboio por cuatro icónicas capitales europeias com tu cão. Hotéis pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte e lugares para pasear al cão en cada cidade.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -35,6 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

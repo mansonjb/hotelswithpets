@@ -19,11 +19,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'Mediterranean Coast With Your Dog: Nice → Genoa → Florence → Rome (10-Day Itinerary) | HotelsWithPets.com',
     fr: 'Côte méditerranéenne avec son chien : Nice → Gênes → Florence → Rome (itinéraire 10 jours) | HotelsWithPets.com',
     es: 'Costa mediterránea con tu perro: Niza → Génova → Florencia → Roma (itinerario 10 días) | HotelsWithPets.com',
+    pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Mediterranean train itinerary with your dog along the French and Italian coast. Pet-friendly hotels, live Booking.com maps, summer beach rules and emergency vets in each city.',
     fr: 'Itinéraire méditerranéen de 10 jours en train avec votre chien le long des côtes française et italienne. Hôtels acceptant les animaux, cartes Booking.com en direct, règles de plage estivales et vétérinaires d\'urgence.',
     es: 'Itinerario mediterráneo de 10 días en tren con tu perro por la costa francesa e italiana. Hoteles que admiten mascotas, mapas Booking.com en vivo, normas de playa estivales y veterinarios de urgencias.',
+    pt: 'Itinerario mediterrâneo de 10 dias de comboio com tu cão pela costa francesa e italiana. Hotéis que admiten animais, mapas Booking.com en vivo, normas de praia estivales e veterinários de urgências.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -35,6 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

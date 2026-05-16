@@ -231,11 +231,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: `The 25 Best Dog Beaches in Europe 2026 — Year-Round Access, Sand, Forest & Lakes | HotelsWithPets.com`,
     fr: `Les 25 meilleures plages dog-friendly d'Europe 2026 — Accès toute l'année, sable, forêt et lacs | HotelsWithPets.com`,
     es: `Las 25 mejores playas dog-friendly de Europa 2026 — Acceso todo el año, arena, bosque y lagos | HotelsWithPets.com`,
+    pt: `As 25 melhores praias pet-friendly de Europa 2026 — Acesso o ano inteiro, areia, floresta e lagos | HotelsWithPets.com`,
   }
   const descs: Record<string, string> = {
     en: `Curated from our verified data across 105 European cities — the 25 best dog beaches with year-round access, dedicated dog zones, and direct rail or ferry from major cities. Atlantic, Mediterranean, North Sea, Baltic and lakes covered.`,
     fr: `Sélection issue de nos données vérifiées dans 105 villes européennes — les 25 meilleures plages canines avec accès toute l'année, zones canines dédiées et trains ou ferries directs depuis les grandes villes. Atlantique, Méditerranée, mer du Nord, Baltique et lacs couverts.`,
     es: `Selección de nuestros datos verificados en 105 ciudades europeas — las 25 mejores playas caninas con acceso todo el año, zonas caninas dedicadas y trenes o ferries directos desde las grandes ciudades. Atlántico, Mediterráneo, Mar del Norte, Báltico y lagos cubiertos.`,
+    pt: `Seleção de nuestros datos verificados en 105 cidades europeias — as 25 melhores praias caninas com acesso o ano inteiro, zonas caninas dedicadas e comboios o ferries directos a partir das grandes cidades. Atlântico, Mediterrâneo, Mar do norte, Báltico e lagos cubiertos.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -247,6 +249,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

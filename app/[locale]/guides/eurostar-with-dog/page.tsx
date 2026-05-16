@@ -18,11 +18,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'Can I Take My Dog on the Eurostar? 2026 Rules, Prices and Alternatives | HotelsWithPets.com',
     fr: 'Puis-je prendre mon chien dans l\'Eurostar ? Règles, prix et alternatives 2026 | HotelsWithPets.com',
     es: '¿Puedo llevar mi perro en el Eurostar? Normas, precios y alternativas 2026 | HotelsWithPets.com',
+    pt: 'Puedo levar mi cão no Eurostar? Normas, preços e alternativas 2026 | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'The straight answer: assistance dogs only, no exceptions. Here\'s what travellers with pets actually do — Le Shuttle, ferries, Channel Tunnel alternatives, full 2026 prices and rules.',
     fr: 'La réponse directe : uniquement les chiens d\'assistance, aucune exception. Voici ce que font vraiment les voyageurs avec animaux — Le Shuttle, ferries, alternatives au tunnel sous la Manche, prix et règles 2026.',
     es: 'La respuesta directa: solo perros de asistencia, sin excepciones. Esto es lo que realmente hacen los viajeros con mascotas — Le Shuttle, ferris, alternativas al Canal de la Mancha, precios y normas completas 2026.',
+    pt: 'A respuesta directa: só cães de assistência, sem excepciones. Esto é lo que realmente hacen os viajeros com animais — Le Shuttle, ferris, alternativas al Canal da Mancha, preços e normas completas 2026.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -34,6 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

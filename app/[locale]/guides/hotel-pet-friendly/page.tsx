@@ -21,11 +21,13 @@ export async function generateMetadata({
     en: 'How to Choose a Truly Pet-Friendly Hotel in Europe: The No-Nonsense Guide (2025) | HotelsWithPets.com',
     fr: 'Comment choisir un vrai hôtel pet-friendly en Europe : le guide sans langue de bois (2025) | HotelsWithPets.com',
     es: 'Cómo elegir un hotel realmente pet-friendly en Europa: la guía sin rodeos (2025) | HotelsWithPets.com',
+    pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'The definitive guide to decoding hotel pet policies in Europe. Red flags, green flags, questions to ask, real price ranges, and how booking platforms actually work — so you never get a nasty surprise at check-in.',
     fr: 'Le guide définitif pour décoder les politiques animaux des hôtels en Europe. Signaux d\'alarme, bons signes, questions à poser, vrais tarifs et fonctionnement des plateformes de réservation — pour ne plus jamais avoir de mauvaise surprise à l\'arrivée.',
     es: 'La guía definitiva para descifrar las políticas de mascotas en hoteles de Europa. Señales de alerta, buenas señales, preguntas que hacer, rangos de precios reales y cómo funcionan las plataformas de reserva — para no tener sorpresas desagradables al hacer el check-in.',
+    pt: 'A guía definitiva para descifrar as políticas de animais en hotéis de Europa. Senhales de alerta, buenas senhales, preguntas que hacer, rangos de preços reales e como funcionam as plataformas de reserva — para no tener sorpresas desagradables al hacer o check-in.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -39,6 +41,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/guides/hotel-pet-friendly`,
         fr: `${SITE_URL}/fr/guides/hotel-pet-friendly`,
         es: `${SITE_URL}/es/guides/hotel-pet-friendly`,
+        pt: `${SITE_URL}/é/guides/hotel-pet-friendly`,
         'x-default': `${SITE_URL}/en/guides/hotel-pet-friendly`,
       },
     },
@@ -796,7 +799,7 @@ export default async function HotelPetFriendlyGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const copy = COPY[lang]
   const today = new Date()
   const monthYear = today.toLocaleDateString(

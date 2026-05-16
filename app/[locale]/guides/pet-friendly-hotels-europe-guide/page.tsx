@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'Pet-Friendly Hotels in Europe: The Complete 2026 Guide | HotelsWithPets.com',
     fr: 'Hôtels pet-friendly en Europe : le guide complet 2026 | HotelsWithPets.com',
     es: 'Hoteles pet-friendly en Europa: la guía completa 2026 | HotelsWithPets.com',
+    pt: 'Hotéis pet-friendly en Europa: a guía completa 2026 | HotelsWithPets.com',
   }
   const totalHotels = hotels.length
   const totalDests = destinations.length
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: `The complete 2026 guide to ${totalHotels}+ pet-friendly hotels across ${totalDests} European destinations: chains that accept dogs, country-by-country pet rules, what to ask before booking, and the best categories for cats, beach access and budget travel.`,
     fr: `Le guide complet 2026 des ${totalHotels}+ hôtels acceptant les animaux dans ${totalDests} destinations européennes : chaînes qui acceptent les chiens, règles pays par pays, questions à poser avant de réserver, et les meilleures catégories pour chats, plages et budget.`,
     es: `La guía completa 2026 de ${totalHotels}+ hoteles que admiten mascotas en ${totalDests} destinos europeos: cadenas que admiten perros, normas país por país, qué preguntar antes de reservar, y las mejores categorías para gatos, playa y presupuesto.`,
+    pt: `A guía completa 2026 de ${totalHotels}+ hotéis que admiten animais en ${totalDests} destinos europeus: cadenas que admiten cães, normas país por país, qué preguntar antes de reservar, e as melhores categorías para gatos, praia e presupuesto.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -40,6 +42,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

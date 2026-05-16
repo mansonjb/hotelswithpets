@@ -18,11 +18,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'Iberian Peninsula With Your Dog: Lisbon → Porto → Madrid → Barcelona (12-Day Itinerary) | HotelsWithPets.com',
     fr: 'Péninsule ibérique avec son chien : Lisbonne → Porto → Madrid → Barcelone (itinéraire 12 jours) | HotelsWithPets.com',
     es: 'Península ibérica con tu perro: Lisboa → Oporto → Madrid → Barcelona (itinerario 12 días) | HotelsWithPets.com',
+    pt: 'Península ibérica com tu cão: Lisboa → Porto → Madrid → Barcelona (itinerario 12 dias) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'A 12-day Iberian rail itinerary with your dog: Portugal\'s coast then Spain\'s capitals. Pet-friendly hotels, AVE/Alfa Pendular train rules, summer heat tips, live Booking.com maps.',
     fr: 'Itinéraire ibérique de 12 jours en train avec votre chien : la côte portugaise puis les capitales espagnoles. Hôtels acceptant les animaux, règles AVE/Alfa Pendular, conseils canicule, cartes Booking.com en direct.',
     es: 'Itinerario ibérico de 12 días en tren con tu perro: la costa portuguesa y luego las capitales españolas. Hoteles que admiten mascotas, normas AVE/Alfa Pendular, consejos para el calor, mapas Booking.com en vivo.',
+    pt: 'Itinerario ibérico de 12 dias de comboio com tu cão: a costa portuguesa e luego as capitales espanholas. Hotéis que admiten animais, normas AVE/Alfa Pendular, consejos para o calor, mapas Booking.com en vivo.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -34,6 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

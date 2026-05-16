@@ -100,11 +100,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: `Pet Travel Cost Index Europe 2026 — We Audited ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Countries | HotelsWithPets.com`,
     fr: `Pet Travel Cost Index Europe 2026 : nous avons audité ${GLOBAL.hotels} hôtels et ${GLOBAL.countries} pays | HotelsWithPets.com`,
     es: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hoteles en ${GLOBAL.countries} países | HotelsWithPets.com`,
+    pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países | HotelsWithPets.com`,
   }
   const descs: Record<string, string> = {
     en: `The 2026 cost benchmark for travelling Europe with a dog or cat. Average pet fees by country and city, % of pet-free hotels, and the cheapest vs most expensive cities for pet-friendly stays. Methodology + open dataset.`,
     fr: `Le benchmark coûts 2026 pour voyager en Europe avec un chien ou un chat. Suppléments moyens par pays et ville, % d'hôtels sans frais et villes les moins chères vs les plus chères pour le pet-friendly. Méthodologie + données ouvertes.`,
     es: `El benchmark de costes 2026 para viajar por Europa con perro o gato. Tarifas medias por país y ciudad, % de hoteles sin cargo, y las ciudades más baratas vs más caras para estancias pet-friendly. Metodología + datos abiertos.`,
+    pt: `O benchmark de costes 2026 para viajar por Europa com cão o gato. Tarifas medias por país e cidade, % de hotéis sem cargo, e as cidades mais baratas vs mais caras para estadias pet-friendly. Metodología + datos abiertos.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -116,6 +118,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

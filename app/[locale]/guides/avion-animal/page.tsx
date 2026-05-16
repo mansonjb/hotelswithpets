@@ -21,11 +21,13 @@ export async function generateMetadata({
     en: 'Flying with Your Pet in Europe: Which Airlines Allow Dogs & Cats (2025) | HotelsWithPets.com',
     fr: 'Prendre l\'avion avec son animal en Europe : quelles compagnies acceptent chiens et chats (2025) | HotelsWithPets.com',
     es: 'Volar con mascota en Europa: qué aerolíneas aceptan perros y gatos (2025) | HotelsWithPets.com',
+    pt: 'Volar com animal en Europa: qué aerolíneas aceitam cães e gatos (2025) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to flying with a pet in Europe. Airline-by-airline comparison: Air France, Lufthansa, KLM, Iberia, Vueling and more. Cabin vs hold, weight limits, carrier requirements, breed restrictions and booking tips.',
     fr: 'Guide complet pour voyager en avion avec son animal de compagnie en Europe. Comparatif compagnie par compagnie : Air France, Lufthansa, KLM, Iberia, Vueling et plus. Cabine vs soute, limites de poids, dimensions de la caisse, races interdites.',
     es: 'Guía completa para volar con mascota en Europa. Comparativa por aerolínea: Air France, Lufthansa, KLM, Iberia, Vueling y más. Cabina vs bodega, límites de peso, medidas del transportín, razas prohibidas y consejos de reserva.',
+    pt: 'Guía completa para volar com animal en Europa. Comparativa por companhia aérea: Air France, Lufthansa, KLM, Iberia, Vueling e mais. Cabina vs bodega, límites de peso, medidas do transportadora, razas prohibidas e consejos de reserva.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -39,6 +41,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/guides/avion-animal`,
         fr: `${SITE_URL}/fr/guides/avion-animal`,
         es: `${SITE_URL}/es/guides/avion-animal`,
+        pt: `${SITE_URL}/é/guides/avion-animal`,
         'x-default': `${SITE_URL}/en/guides/avion-animal`,
       },
     },
@@ -79,11 +82,13 @@ const AIRLINES: AirlineRow[] = [
       en: '€70 (domestic FR) / €125 (Europe) / €200 (long-haul)',
       fr: '70 € (France) / 125 € (Europe) / 200 € (long-courrier)',
       es: '70 € (Francia) / 125 € (Europa) / 200 € (largo radio)',
+      pt: '70 € (Francia) / 125 € (Europa) / 200 € (largo radio)',
     },
     holdPrice: {
       en: '€100 (domestic FR) / €200 (Europe) / €400 (long-haul)',
       fr: '100 € (France) / 200 € (Europe) / 400 € (long-courrier)',
       es: '100 € (Francia) / 200 € (Europa) / 400 € (largo radio)',
+      pt: '100 € (Francia) / 200 € (Europa) / 400 € (largo radio)',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '46 × 28 × 24 cm',
@@ -91,11 +96,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Snub-nosed breeds allowed in cabin; BANNED in hold',
       fr: 'Races camus acceptées en cabine ; INTERDITES en soute',
       es: 'Razas braquicéfalas aceptadas en cabina; PROHIBIDAS en bodega',
+      pt: 'Razas braquicéfalas aceptadas en cabina; PROHIBIDAS en bodega',
     },
     bookingProcess: {
       en: 'Book online or call Air France; add pet after booking via "My Bookings"',
       fr: 'Réservez en ligne ou par téléphone ; ajoutez l\'animal via "Mes réservations"',
       es: 'Reserva online o por teléfono; añade la mascota en "Mis reservas"',
+      pt: 'Reserva online o por teléfono; anhade a animal en "Mis reservas"',
     },
   },
   {
@@ -107,11 +114,13 @@ const AIRLINES: AirlineRow[] = [
       en: '€55 (domestic DE) / €70–€100 (Europe) / €110–€160 (long-haul)',
       fr: '55 € (Allemagne) / 70–100 € (Europe) / 110–160 € (long-courrier)',
       es: '55 € (Alemania) / 70–100 € (Europa) / 110–160 € (largo radio)',
+      pt: '55 € (Alemania) / 70–100 € (Europa) / 110–160 € (largo radio)',
     },
     holdPrice: {
       en: 'Calculated by weight — contact Lufthansa cargo',
       fr: 'Calculé au poids — contacter Lufthansa cargo',
       es: 'Calculado por peso — contactar Lufthansa cargo',
+      pt: 'Calculado por peso — contactar Lufthansa cargo',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '55 × 40 × 23 cm',
@@ -119,11 +128,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Snub-nosed breeds NOT accepted in hold; cabin may be possible if weight permits',
       fr: 'Races camus NON acceptées en soute ; cabine possible si poids OK',
       es: 'Razas braquicéfalas NO aceptadas en bodega; cabina posible si el peso lo permite',
+      pt: 'Razas braquicéfalas NO aceptadas en bodega; cabina posible si o peso lo permite',
     },
     bookingProcess: {
       en: 'Add pet during booking or via Manage My Booking; advance reservation required',
       fr: 'Ajoutez l\'animal lors de la réservation ou via Gérer ma réservation',
       es: 'Añade la mascota al reservar o en Gestionar mi reserva; reserva anticipada obligatoria',
+      pt: 'Anhade a animal al reservar o en Gestionar mi reserva; reserva anticipada obrigatória',
     },
   },
   {
@@ -135,11 +146,13 @@ const AIRLINES: AirlineRow[] = [
       en: '~€50–€75 (Europe routes)',
       fr: '~50–75 € (vols européens)',
       es: '~50–75 € (vuelos europeos)',
+      pt: '~50–75 € (voos europeus)',
     },
     holdPrice: {
       en: 'Up to 3 pets, combined weight < 75 kg; price on request',
       fr: 'Jusqu\'à 3 animaux, poids combiné < 75 kg ; prix sur demande',
       es: 'Hasta 3 animales, peso combinado < 75 kg; precio a consultar',
+      pt: 'Até 3 animales, peso combinado < 75 kg; preço a consultar',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '46 × 28 × 24 cm',
@@ -147,11 +160,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'English Bulldog, French Bulldog, Boston Terrier, Pug: BANNED in hold; cabin only if weight allows',
       fr: 'Bulldog anglais, Bouledogue français, Boston Terrier, Carlin : INTERDITS en soute ; cabine si poids OK',
       es: 'Bulldog inglés, Bulldog francés, Boston Terrier, Pug: PROHIBIDOS en bodega; cabina si el peso permite',
+      pt: 'Bulldog inglês, Bulldog francês, Boston Terrier, Pug: PROHIBIDOS en bodega; cabina si o peso permite',
     },
     bookingProcess: {
       en: 'Book online; add pet via My Trip or call KLM; not accepted to UK',
       fr: 'Réservez en ligne ; ajoutez l\'animal via Mon voyage ou par téléphone ; non accepté vers le Royaume-Uni',
       es: 'Reserva online; añade la mascota en Mi viaje o llama a KLM; no aceptado a Reino Unido',
+      pt: 'Reserva online; anhade a animal en Mi viaje o liga a KLM; no aceite a Reino Unido',
     },
   },
   {
@@ -163,11 +178,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Not accepted',
       fr: 'Non accepté',
       es: 'No aceptado',
+      pt: 'No aceite',
     },
     holdPrice: {
       en: 'Not accepted as passenger baggage — cargo only via approved partner IAG Cargo',
       fr: 'Non accepté en bagages — fret uniquement via IAG Cargo',
       es: 'No aceptado como equipaje — solo flete vía IAG Cargo',
+      pt: 'No aceite como equipaje — só flete vía IAG Cargo',
     },
     weightLimitCabin: '—',
     carrierMax: '—',
@@ -175,11 +192,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'N/A — no pets in cabin or hold as passenger baggage',
       fr: 'N/A — aucun animal en cabine ou soute comme bagages',
       es: 'N/A — sin mascotas en cabina ni bodega como equipaje',
+      pt: 'N/A — sem animais en cabina ni bodega como equipaje',
     },
     bookingProcess: {
       en: 'Contact IAG Cargo directly for freight shipment',
       fr: 'Contacter IAG Cargo directement pour fret',
       es: 'Contactar IAG Cargo directamente para envío de carga',
+      pt: 'Contactar IAG Cargo directamente para envío de carga',
     },
   },
   {
@@ -191,11 +210,13 @@ const AIRLINES: AirlineRow[] = [
       en: '€50 (domestic Spain) / €60 (international)',
       fr: '50 € (Espagne) / 60 € (international)',
       es: '50 € (doméstico España) / 60 € (internacional)',
+      pt: '50 € (doméstico Espanha) / 60 € (internacional)',
     },
     holdPrice: {
       en: 'Available; contact Iberia for pricing',
       fr: 'Disponible ; contacter Iberia pour le tarif',
       es: 'Disponible; consultar precio con Iberia',
+      pt: 'Disponible; consultar preço com Iberia',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '45 × 35 × 25 cm',
@@ -203,11 +224,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Restricted breeds may not travel in hold; check directly with Iberia',
       fr: 'Les races restreintes peuvent ne pas voyager en soute ; vérifier avec Iberia',
       es: 'Las razas restringidas pueden no viajar en bodega; verificar con Iberia',
+      pt: 'As razas restringidas podem no viajar en bodega; verificar com Iberia',
     },
     bookingProcess: {
       en: 'Add pet when booking on iberia.com or call; max 2 pets per flight',
       fr: 'Ajoutez l\'animal à la réservation sur iberia.com ou par téléphone ; max 2 animaux par vol',
       es: 'Añade la mascota al reservar en iberia.com o llama; máx. 2 mascotas por vuelo',
+      pt: 'Anhade a animal al reservar en iberia.com o liga; máx. 2 animais por voo',
     },
   },
   {
@@ -219,11 +242,13 @@ const AIRLINES: AirlineRow[] = [
       en: '€50 (domestic Spain) / €60 (international / Canary Islands)',
       fr: '50 € (Espagne) / 60 € (international / Canaries)',
       es: '50 € (España) / 60 € (internacional / Canarias)',
+      pt: '50 € (Espanha) / 60 € (internacional / Canarias)',
     },
     holdPrice: {
       en: 'Not available',
       fr: 'Non disponible',
       es: 'No disponible',
+      pt: 'No disponible',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '45 × 39 × 21 cm (soft-sided only)',
@@ -231,11 +256,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Check directly with Vueling; generally cabin-only if small enough',
       fr: 'Vérifier avec Vueling ; généralement cabine seulement si assez petit',
       es: 'Verificar con Vueling; generalmente solo cabina si es suficientemente pequeño',
+      pt: 'Verificar com Vueling; generalmente só cabina si é suficientemente pequenho',
     },
     bookingProcess: {
       en: 'Add during booking on vueling.com; max 5 pets per flight',
       fr: 'Ajoutez lors de la réservation sur vueling.com ; max 5 animaux par vol',
       es: 'Añade al reservar en vueling.com; máx. 5 mascotas por vuelo',
+      pt: 'Anhade al reservar en vueling.com; máx. 5 animais por voo',
     },
   },
   {
@@ -247,11 +274,13 @@ const AIRLINES: AirlineRow[] = [
       en: '70 CHF (~€75) per flight segment',
       fr: '70 CHF (~75 €) par segment de vol',
       es: '70 CHF (~75 €) por tramo de vuelo',
+      pt: '70 CHF (~75 €) por tramo de voo',
     },
     holdPrice: {
       en: '120 CHF/kg up to 20 kg; 150 CHF/kg above 20 kg',
       fr: '120 CHF/kg jusqu\'à 20 kg ; 150 CHF/kg au-delà',
       es: '120 CHF/kg hasta 20 kg; 150 CHF/kg más de 20 kg',
+      pt: '120 CHF/kg até 20 kg; 150 CHF/kg mais de 20 kg',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '55 × 40 × 23 cm',
@@ -259,11 +288,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Snub-nosed breeds restricted in hold; cabin travel possible if weight limit met',
       fr: 'Races camus restreintes en soute ; cabine possible si limite de poids respectée',
       es: 'Razas braquicéfalas restringidas en bodega; cabina posible si se cumple el límite de peso',
+      pt: 'Razas braquicéfalas restringidas en bodega; cabina posible si se cumple o límite de peso',
     },
     bookingProcess: {
       en: 'Book at swiss.com or call; reserve pet space in advance as spots are limited',
       fr: 'Réservez sur swiss.com ou par téléphone ; réservez tôt, places limitées',
       es: 'Reserva en swiss.com o llama; reserva con antelación, plazas limitadas',
+      pt: 'Reserva en swiss.com o liga; reserva com antelación, praças limitadas',
     },
   },
   {
@@ -275,11 +306,13 @@ const AIRLINES: AirlineRow[] = [
       en: '€65–€125 depending on destination',
       fr: '65–125 € selon la destination',
       es: '65–125 € según el destino',
+      pt: '65–125 € segundo o destino',
     },
     holdPrice: {
       en: 'Available; contact Austrian for pricing',
       fr: 'Disponible ; contacter Austrian pour le tarif',
       es: 'Disponible; consultar precio con Austrian',
+      pt: 'Disponible; consultar preço com Austrian',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '55 × 40 × 23 cm',
@@ -287,11 +320,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Brachycephalic breeds restricted or banned in hold; verify before booking',
       fr: 'Races brachycéphales restreintes ou interdites en soute ; vérifier avant de réserver',
       es: 'Razas braquicéfalas restringidas o prohibidas en bodega; verificar antes de reservar',
+      pt: 'Razas braquicéfalas restringidas o prohibidas en bodega; verificar antes de reservar',
     },
     bookingProcess: {
       en: 'Add pet during booking or via Manage Booking on austrianairlines.com',
       fr: 'Ajoutez l\'animal lors de la réservation ou via Gérer ma réservation',
       es: 'Añade la mascota al reservar o en Gestionar reserva en austrianairlines.com',
+      pt: 'Anhade a animal al reservar o en Gestionar reserva en austrianairlines.com',
     },
   },
   {
@@ -303,11 +338,13 @@ const AIRLINES: AirlineRow[] = [
       en: '~€50–€75 (European routes)',
       fr: '~50–75 € (vols européens)',
       es: '~50–75 € (vuelos europeos)',
+      pt: '~50–75 € (voos europeus)',
     },
     holdPrice: {
       en: 'Available; contact TAP for pricing',
       fr: 'Disponible ; contacter TAP pour le tarif',
       es: 'Disponible; consultar precio con TAP',
+      pt: 'Disponible; consultar preço com TAP',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '45 × 35 × 25 cm',
@@ -315,11 +352,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Snub-nosed breeds may be restricted in hold; verify with TAP',
       fr: 'Races camus peuvent être restreintes en soute ; vérifier avec TAP',
       es: 'Razas braquicéfalas pueden estar restringidas en bodega; verificar con TAP',
+      pt: 'Razas braquicéfalas podem estar restringidas en bodega; verificar com TAP',
     },
     bookingProcess: {
       en: 'Book at flytap.com and add pet during or after booking',
       fr: 'Réservez sur flytap.com et ajoutez l\'animal à la réservation',
       es: 'Reserva en flytap.com y añade la mascota durante o después de la reserva',
+      pt: 'Reserva en flytap.com e anhade a animal durante o después da reserva',
     },
   },
   {
@@ -331,11 +370,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Varies by route; check transavia.com',
       fr: 'Varie selon le trajet ; voir transavia.com',
       es: 'Varía según la ruta; consultar transavia.com',
+      pt: 'Varía segundo a ruta; consultar transavia.com',
     },
     holdPrice: {
       en: 'Not available',
       fr: 'Non disponible',
       es: 'No disponible',
+      pt: 'No disponible',
     },
     weightLimitCabin: '8 kg (pet + carrier)',
     carrierMax: '40 × 30 × 24 cm',
@@ -343,11 +384,13 @@ const AIRLINES: AirlineRow[] = [
       en: 'Cabin only; snub-nosed policy — check directly',
       fr: 'Cabine uniquement ; politique camus — vérifier directement',
       es: 'Solo cabina; política braquicéfalos — verificar directamente',
+      pt: 'Só cabina; política braquicéfalos — verificar directamente',
     },
     bookingProcess: {
       en: 'Add pet via transavia.com after booking; limited to 1 pet per passenger',
       fr: 'Ajoutez l\'animal sur transavia.com après réservation ; limité à 1 animal par passager',
       es: 'Añade la mascota en transavia.com tras reservar; limitado a 1 mascota por pasajero',
+      pt: 'Anhade a animal en transavia.com tras reservar; limitado a 1 animal por pasajero',
     },
   },
 ]
@@ -965,7 +1008,7 @@ export default async function FlyingWithPetGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const copy = COPY[lang]
   const today = new Date()
   const monthYear = today.toLocaleDateString(

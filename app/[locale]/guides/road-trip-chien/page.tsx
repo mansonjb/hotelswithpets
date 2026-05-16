@@ -21,11 +21,13 @@ export async function generateMetadata({
     en: 'Road Trip with Your Dog in Europe: Safety, Laws & Border Crossing Guide (2025) | HotelsWithPets.com',
     fr: 'Road trip avec son chien en Europe : sécurité, lois et franchissement des frontières (2025) | HotelsWithPets.com',
     es: 'Road trip con tu perro en Europa: seguridad, leyes y cruce de fronteras (2025) | HotelsWithPets.com',
+    pt: 'Road trip com tu cão en Europa: seguridad, leis e cruce de fronteras (2025) | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to road-tripping across Europe with your dog: car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stops, and first aid essentials.',
     fr: 'Guide complet pour un road trip en voiture avec son chien en Europe : lois par pays, harnais vs caisse, franchissement des frontières, Eurotunnel, gestion de la chaleur et trousse de premiers secours.',
     es: 'Guía completa para un road trip por Europa con tu perro: leyes por país, arnés vs transportín, cruce de fronteras, Eurotunnel, gestión del calor y botiquín esencial.',
+    pt: 'Guía completa para um road trip por Europa com tu cão: leis por país, arnés vs transportadora, cruce de fronteras, Eurotunnel, gestión do calor e botiquín esencial.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -39,6 +41,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/guides/road-trip-chien`,
         fr: `${SITE_URL}/fr/guides/road-trip-chien`,
         es: `${SITE_URL}/es/guides/road-trip-chien`,
+        pt: `${SITE_URL}/é/guides/road-trip-chien`,
         'x-default': `${SITE_URL}/en/guides/road-trip-chien`,
       },
     },
@@ -65,79 +68,86 @@ interface RestraintRule {
 const RESTRAINT_RULES: RestraintRule[] = [
   {
     flag: '🇫🇷',
-    country: { en: 'France', fr: 'France', es: 'Francia' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí' },
-    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)' },
+    country: { en: 'France', fr: 'France', es: 'Francia', pt: 'Francia' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
+    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)', pt: 'Até 750 € (infração distracción)' },
     notes: {
       en: 'Dog must be restrained by harness, crate or cargo net and cannot interfere with the driver. Must travel in the back seat or boot.',
       fr: "Le chien doit être attaché (harnais, caisse ou filet) et ne doit pas gêner le conducteur. Doit voyager à l'arrière ou dans le coffre.",
       es: 'El perro debe estar sujeto (arnés, transportín o red) y no puede interferir con el conductor. Debe viajar en la parte trasera o maletero.',
+      pt: 'O cão debe estar sujeto (arnés, transportadora o red) e no pode interferir com o conductor. Debe viajar na parte trasera o maletero.',
     },
   },
   {
     flag: '🇩🇪',
-    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania' },
-    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)' },
-    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €' },
+    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania', pt: 'Alemania' },
+    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)', pt: 'Sí (normas de carga)' },
+    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €', pt: 'Até 35–75 €' },
     notes: {
       en: 'Dogs classified as "cargo" must be secured so they cannot be thrown around or endanger passengers. Unsecured dogs causing an accident increase liability significantly.',
       fr: "Les chiens sont classés « marchandise » et doivent être fixés pour ne pas être projetés. Un chien non attaché causant un accident engage fortement la responsabilité du conducteur.",
       es: 'Los perros se clasifican como "carga" y deben estar fijados para no salir despedidos. Un perro sin sujetar que cause un accidente implica una responsabilidad considerable.',
+      pt: 'Os cães se clasifican como "carga" e deben estar fijados para no salir despedidos. Um cão sem sujetar que cause um accidente implica uma responsabilidad considerable.',
     },
   },
   {
     flag: '🇪🇸',
-    country: { en: 'Spain', fr: 'Espagne', es: 'España' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí' },
-    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)' },
+    country: { en: 'Spain', fr: 'Espagne', es: 'España', pt: 'Espanha' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
+    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)', pt: '200 € (até 200 000 € en casos graves)' },
     notes: {
       en: "Spain's Animal Welfare Law (Ley 7/2023) requires pets to be properly restrained in vehicles. The DGT (traffic authority) can fine drivers €200 for an unrestrained dog, with much higher fines if the animal is injured.",
       fr: "La loi espagnole de bien-être animal (Ley 7/2023) impose une retenue correcte des animaux dans les véhicules. La DGT inflige une amende de 200 € pour un chien non attaché, bien plus si l'animal est blessé.",
       es: 'La Ley de bienestar animal española (Ley 7/2023) exige que los animales estén debidamente sujetos en los vehículos. La DGT puede multar con 200 € por un perro sin sujetar, y mucho más si el animal resulta herido.',
+      pt: 'A Lei de bienestar animal espanhola (Lei 7/2023) exige que os animales estén debidamente sujetos nos vehículos. A DGT pode multar com 200 € por um cão sem sujetar, e muito mais si o animal resulta herido.',
     },
   },
   {
     flag: '🇮🇹',
-    country: { en: 'Italy', fr: 'Italie', es: 'Italia' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí' },
-    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet' },
+    country: { en: 'Italy', fr: 'Italie', es: 'Italia', pt: 'Italia' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
+    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet', pt: '78–311 € + posible suspensión do carnet' },
     notes: {
       en: "Italian Highway Code (Art. 169) requires dogs to be restrained if travelling alone, or secured in a carrier or by a divider. A maximum of one dog per front seat occupant is allowed (pets in laps while driving is banned).",
       fr: "Le Code de la route italien (art. 169) impose la retenue des chiens voyageant seuls ou la caisse/filet de séparation. Maximum un animal par occupant (sur les genoux du conducteur : interdit).",
       es: 'El Código de circulación italiano (Art. 169) exige que los perros que viajen solos estén sujetos o en transportín/malla separadora. Máximo un animal por ocupante (en el regazo del conductor: prohibido).',
+      pt: 'O Código de circulación italiano (Art. 169) exige que os cães que viajen solos estén sujetos o en transportadora/malla separadora. Máximo um animal por ocupante (no regazo do conductor: prohibido).',
     },
   },
   {
     flag: '🇧🇪',
-    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita' },
-    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción' },
+    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica', pt: 'Bélgica' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita' },
+    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción', pt: 'Posible multa por distracción' },
     notes: {
       en: 'No specific dog-in-car law, but the general duty to avoid distracting the driver applies. Unrestrained dogs that cause an accident will affect insurance claims.',
       fr: "Pas de loi spécifique, mais l'obligation générale de ne pas distraire le conducteur s'applique. Un chien non attaché causant un accident impacte l'assurance.",
       es: 'Sin ley específica, pero se aplica la obligación general de no distraer al conductor. Un perro sin sujetar que cause un accidente afecta al seguro.',
+      pt: 'Sem lei específica, mas se aplica a obrigação general de no distraer al conductor. Um cão sem sujetar que cause um accidente afecta al seguro.',
     },
   },
   {
     flag: '🇳🇱',
-    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita' },
-    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable' },
+    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos', pt: 'Países Bajos' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita' },
+    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable' },
     notes: {
       en: 'No specific mandatory restraint law. However, under general traffic rules, any distraction — including an unrestrained dog — can lead to fines.',
       fr: "Pas de loi explicite sur la retenue. Mais toute distraction — y compris un chien non attaché — peut entraîner une amende selon le code de la route général.",
       es: 'Sin ley explícita de sujeción. Sin embargo, cualquier distracción, incluido un perro sin sujetar, puede derivar en multa según las normas generales de tráfico.',
+      pt: 'Sem lei explícita de sujeción. No entanto, cualquier distracción, incluido um cão sem sujetar, pode derivar en multa segundo as normas generales de tráfico.',
     },
   },
   {
     flag: '🇨🇭',
-    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza' },
-    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)' },
-    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+' },
+    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza', pt: 'Suiza' },
+    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)', pt: 'Sí (lei de carga)' },
+    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+', pt: 'CHF 100+' },
     notes: {
       en: "Swiss Road Traffic Act classifies dogs as freight: they must be placed so they cannot fall, endanger anyone or block the driver's view. Stop every 1–1.5 hours is specifically recommended by Swiss authorities.",
       fr: "La loi suisse classe les chiens comme fret : ils doivent être placés pour ne pas tomber, mettre en danger quiconque ni bloquer la vue du conducteur. Les autorités suisses recommandent une pause toutes les 1–1,5 heure.",
       es: 'La ley suiza clasifica a los perros como mercancía: deben estar colocados de modo que no puedan caer, poner en peligro a nadie ni bloquear la visión del conductor. Las autoridades suizas recomiendan parar cada 1–1,5 horas.',
+      pt: 'A lei suiza clasifica aos cães como mercancía: deben estar colocados de modo que no puedan caer, poner en peligro a nadie ni bloquear a visión do conductor. As autoridades suizas recomiendan parar cada 1–1,5 horas.',
     },
   },
 ]
@@ -841,7 +851,7 @@ export default async function RoadTripChienPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const copy = COPY[lang]
   const today = new Date()
   const monthYear = today.toLocaleDateString(

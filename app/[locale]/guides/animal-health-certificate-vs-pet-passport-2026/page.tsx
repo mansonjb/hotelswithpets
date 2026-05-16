@@ -18,11 +18,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'Pet Passport vs Animal Health Certificate (AHC): Complete 2026 Rules for Travel With Your Dog | HotelsWithPets.com',
     fr: 'Passeport européen vs Animal Health Certificate (AHC) : règles 2026 pour voyager avec son chien | HotelsWithPets.com',
     es: 'Pasaporte europeo vs Animal Health Certificate (AHC): normas 2026 para viajar con tu perro | HotelsWithPets.com',
+    pt: 'Passaporte europeu vs Animal Health Certificate (AHC): normas 2026 para viajar com tu cão | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'The €100+ mistake 78% of travellers make: confusing the EU pet passport with the UK Animal Health Certificate. Complete 2026 rules, costs, validity, and which one you actually need for every European route.',
     fr: 'L\'erreur à 100 € que font 78% des voyageurs : confondre le passeport européen avec l\'Animal Health Certificate britannique. Règles 2026 complètes, coûts, validité, et lequel vous faut-il vraiment pour chaque trajet européen.',
     es: 'El error de 100 € que comete el 78% de los viajeros: confundir el pasaporte europeo con el Animal Health Certificate británico. Normas 2026 completas, costes, validez, y cuál necesitas realmente para cada ruta europea.',
+    pt: 'O error de 100 € que comete o 78% dos viajeros: confundir o passaporte europeu com o Animal Health Certificate británico. Normas 2026 completas, costes, validez, e cuál necesitas realmente para cada ruta europeia.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -34,6 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
+        pt: `${SITE_URL}/é/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

@@ -109,6 +109,7 @@ const TARGETS = [
   { slug: 'pamplona', query: 'Pamplona Spain Plaza del Castillo Citadel walls Navarra Hemingway Cathedral panorama sunset' },
   { slug: 'palermo', query: 'Palermo Sicily Italy Quattro Canti baroque Cathedral Arab-Norman Monte Pellegrino Mondello panorama sunset' },
   { slug: 'cascais', query: 'Cascais Portugal marina old town Cidadela fortress Atlantic seafront Estoril coast panorama sunset' },
+  { slug: 'funchal', query: 'Funchal Madeira Portugal harbour bay marina cable car amphitheatre Atlantic panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

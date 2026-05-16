@@ -3228,6 +3228,80 @@
     }
   },
   {
+    "slug": "funchal",
+    "name": "Funchal",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/funchal.jpg",
+    "intro": "The capital of Madeira sits in a south-facing volcanic amphitheatre with year-round mild Atlantic weather, miles of dog-friendly esplanadas, the cliff-side Lido promenade, and the only 24/7 veterinary hospital on the island. Levada walks above town and pebble coves at Caniço round out one of the most reliably pet-friendly winter destinations in Europe.",
+    "lat": 32.6669,
+    "lng": -16.9241,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild, occasional showers",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild, breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 17,
+        "desc": "Spring-like, mild",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild, increasingly sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm, mostly dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm, low cloud (capacete)",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm Atlantic summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm, peak season",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm, late summer",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild, occasional rain",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Mild, rainier",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild Atlantic winter",
+        "icon": "🌤️"
+      }
+    }
+  },
+  {
     "slug": "galway",
     "name": "Galway",
     "country": "Ireland",

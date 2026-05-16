@@ -6827,6 +6827,130 @@
     "petPolicyPt": "Animais permitidos por 20 EUR por estadia. Water bowls e um animal bem-vindos kit fornecido. All sizes bem-vindos."
   },
   {
+    "id": "funchal-1",
+    "name": "Reid's Palace, A Belmond Hotel, Madeira",
+    "destinationSlug": "funchal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1980,
+    "priceFrom": 520,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/reid-s-palace.html",
+    "petFee": 35,
+    "petPolicy": "Reid's Palace, a 5-star Belmond clifftop resort on the Estrada Monumental, welcomes up to 2 dogs per room with a maximum 15 kg per pet for a fee of 35 € per pet per night. Welcome amenities include a bed, food and water bowls and a partnership with the local Dogtel grooming spa. Leashed dogs allowed in the subtropical gardens, on the cliff terraces and at the Pavilhão poolside terrace; not permitted in the indoor restaurants or main pool.",
+    "highlights": [
+      "Belmond historic clifftop hotel",
+      "Pet welcome amenities included",
+      "Subtropical garden walking paths"
+    ],
+    "slug": "reids-palace-belmond-funchal"
+  },
+  {
+    "id": "funchal-2",
+    "name": "Casa Velha do Palheiro Relais & Châteaux",
+    "destinationSlug": "funchal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 720,
+    "priceFrom": 420,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-velha-do-palheiro.html",
+    "petFee": 30,
+    "petPolicy": "Casa Velha do Palheiro, a 5-star Relais & Châteaux country-house hotel set in a 220-year-old quinta with botanical gardens and the Palheiro Golf course, welcomes dogs and cats (size limits may apply) for a fee of 30 € per pet per night. Leashed dogs are allowed in the gardens, on the woodland trails, at the Tea House and on outdoor seating areas; not permitted on the golf course, inside the clubhouse, or in the pool zone.",
+    "highlights": [
+      "Relais & Châteaux country house",
+      "Botanical gardens and woodland trails",
+      "Tea House welcomes dogs"
+    ],
+    "slug": "casa-velha-do-palheiro-funchal"
+  },
+  {
+    "id": "funchal-3",
+    "name": "Savoy Palace - The Leading Hotels of the World",
+    "destinationSlug": "funchal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4150,
+    "priceFrom": 340,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/savoy-palace.html",
+    "petFee": 50,
+    "petPolicy": "Savoy Palace, a 5-star Leading Hotels of the World property on Avenida do Infante with skybar and Atlantic views, accepts dogs and cats for a fee of 50 € per pet per night, in the Superior Ocean Suite category only. Pets allowed on the dedicated terraces of the Pau de Lume, Alameda and Terreiro restaurants; not permitted in the reception lounge, indoor restaurants, bars or spa.",
+    "highlights": [
+      "Leading Hotels of the World",
+      "Three pet-friendly restaurant terraces",
+      "Rooftop skybar with bay views"
+    ],
+    "slug": "savoy-palace-funchal"
+  },
+  {
+    "id": "funchal-4",
+    "name": "Three House Hotel",
+    "destinationSlug": "funchal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 880,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/oudinot.html",
+    "petFee": 30,
+    "petPolicy": "Three House Hotel, a 4-star design boutique on Rua das Pretas in the Funchal centro histórico, welcomes one dog up to 10 kg in every apartment for a fee of 30 € per pet per night, with a comfy dog bed provided. Leashed dogs allowed throughout the public areas and on the rooftop terrace; pre-booking required via Special Requests at the time of reservation.",
+    "highlights": [
+      "Design boutique in historic centre",
+      "Dog bed included in fee",
+      "Rooftop pet-friendly terrace"
+    ],
+    "slug": "three-house-hotel-funchal"
+  },
+  {
+    "id": "funchal-5",
+    "name": "Pestana Village Garden Hotel",
+    "destinationSlug": "funchal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3950,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pestana-village-garden-resort.html",
+    "petFee": 30,
+    "petPolicy": "Pestana Village Garden, a 4-star Pestana garden resort on the Estrada Monumental five minutes from the Lido promenade, accepts one dog up to 5 kg per room for a fee of 30 € per pet per night. Pet passport and vaccination records required at check-in. Leashed dogs allowed in the tropical garden grounds and to enter the lobby on the way to the room; not permitted at the pools or in the restaurant.",
+    "highlights": [
+      "Mid-range Pestana garden hotel",
+      "Five minutes from Lido promenade",
+      "Tropical garden walking paths"
+    ],
+    "slug": "pestana-village-garden-funchal"
+  },
+  {
     "id": "galway-1",
     "name": "The Galmont Hotel & Spa",
     "destinationSlug": "galway",

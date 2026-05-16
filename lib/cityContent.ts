@@ -5601,6 +5601,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  funchal: {
+    history: {
+      fr: `Funchal, fondée en 1424 par João Gonçalves Zarco peu après la découverte portugaise de Madère, est devenue dès le XVIe siècle le port atlantique le plus actif entre Lisbonne et l'Amérique grâce à sa position avancée sur la route des Indes occidentales et à la production de canne à sucre puis de vin de Madère qui a régalé les cours de Londres, Saint-Pétersbourg et Boston. Aujourd'hui capitale de la Région autonome de Madère avec 105 000 habitants, la ville occupe un amphithéâtre volcanique escarpé orienté plein sud entre l'Atlantique et les montagnes intérieures, ce qui lui vaut un microclimat exceptionnellement doux : 16 à 24 °C toute l'année, jamais de gel, jamais de canicule oppressante. Pour les voyageurs avec chien, Funchal est l'une des destinations européennes les plus accueillantes en hiver : esplanadas à profusion sur l'Avenida Arriaga, la marina et la Zona Velha aux portes peintes, promenade du Lido de 3 km en bord de falaise jusqu'à Praia Formosa, et accès à pied ou en bus à la Levada dos Tornos qui se faufile à flanc de montagne sur des dizaines de kilomètres de canal d'irrigation. Seule contrainte de l'île : un unique hôpital vétérinaire 24h/24 (VetMedis, Caminho de Santo António), une politique stricte d'interdiction estivale des chiens sur les plages urbaines (Praia Formosa, Lido) et un téléphérique du Monte qui n'accepte les chiens qu'en cage fermée.`,
+      en: `Funchal, founded in 1424 by João Gonçalves Zarco shortly after Portugal's discovery of Madeira, grew through the 16th century into the most active Atlantic port between Lisbon and the Americas thanks to its forward position on the West Indies route and to its sugarcane and later Madeira wine, which graced the courts of London, Saint Petersburg and Boston. Today the capital of the Autonomous Region of Madeira with 105,000 inhabitants, the city occupies a steep south-facing volcanic amphitheatre between the Atlantic and the inland mountains, earning it an exceptionally mild microclimate: 16 to 24 °C year-round, no frost, no oppressive heat. For travellers with dogs, Funchal is one of Europe's most welcoming winter destinations: countless esplanadas on Avenida Arriaga, the marina and the painted-door Zona Velha; a 3 km cliff-side Lido promenade running to Praia Formosa; and easy bus or foot access to the Levada dos Tornos, which traces the mountainside on tens of kilometres of irrigation canal. The island's only real constraints are a single 24/7 veterinary hospital (VetMedis, Caminho de Santo António), strict summer beach bans for dogs on the city beaches (Praia Formosa, Lido) and the Monte cable car, which accepts dogs only in a fully enclosed carrier.`,
+      es: `Funchal, fundada en 1424 por João Gonçalves Zarco poco después del descubrimiento portugués de Madeira, se convirtió desde el siglo XVI en el puerto atlántico más activo entre Lisboa y las Américas gracias a su posición avanzada en la ruta de las Indias Occidentales y a la caña de azúcar y luego al vino de Madeira que adornaron las cortes de Londres, San Petersburgo y Boston. Hoy capital de la Región Autónoma de Madeira con 105.000 habitantes, la ciudad ocupa un empinado anfiteatro volcánico orientado al sur entre el Atlántico y las montañas interiores, lo que le da un microclima excepcionalmente suave: de 16 a 24 °C todo el año, sin heladas, sin calor opresivo. Para los viajeros con perro, Funchal es uno de los destinos europeos más acogedores en invierno: esplanadas a profusión en la Avenida Arriaga, el puerto deportivo y la Zona Velha de puertas pintadas, paseo del Lido de 3 km al borde del acantilado hasta Praia Formosa, y acceso a pie o en autobús a la Levada dos Tornos, que recorre la ladera durante decenas de kilómetros de canal de riego. Las únicas verdaderas limitaciones de la isla: un solo hospital veterinario 24/7 (VetMedis, Caminho de Santo António), prohibición estival estricta de perros en las playas urbanas (Praia Formosa, Lido) y un teleférico de Monte que solo admite perros en transportín totalmente cerrado.`,
+      pt: `Funchal, fundada em 1424 por João Gonçalves Zarco pouco depois da descoberta portuguesa da Madeira, tornou-se a partir do século XVI no porto atlântico mais activo entre Lisboa e as Américas graças à sua posição avançada na rota das Índias Ocidentais e à cana-de-açúcar e, mais tarde, ao vinho da Madeira que ornaram as cortes de Londres, São Petersburgo e Boston. Hoje capital da Região Autónoma da Madeira, com 105 000 habitantes, a cidade ocupa um íngreme anfiteatro vulcânico virado a sul entre o Atlântico e as montanhas do interior, o que lhe vale um microclima excepcionalmente ameno: 16 a 24 °C todo o ano, sem geadas, sem calor opressivo. Para viajantes com cão, o Funchal é um dos destinos europeus mais acolhedores no inverno: esplanadas em profusão na Avenida Arriaga, na marina e na Zona Velha das portas pintadas, promenade do Lido com 3 km à beira da falésia até à Praia Formosa, e acesso a pé ou de autocarro à Levada dos Tornos, que percorre a encosta em dezenas de quilómetros de canal de rega. As únicas verdadeiras limitações da ilha: um único hospital veterinário 24/7 (VetMedis, Caminho de Santo António), proibição estival rigorosa de cães nas praias urbanas (Praia Formosa, Lido) e um teleférico do Monte que só admite cães em transportadora totalmente fechada.`,
+    },
+    sights: [
+      {
+        name: 'Parque de Santa Catarina',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc urbain de 3 ha au-dessus du port de croisière, avec étang aux cygnes, chapelle Santa Catarina et vues panoramiques sur la baie. Chiens en laisse acceptés sur toutes les pelouses.`,
+          en: `A 3-hectare hilltop park above the cruise port, with a swan-stocked lake, the Santa Catarina chapel and sweeping bay views. Leashed dogs welcome across all lawns.`,
+          es: `Parque urbano de 3 ha sobre el puerto de cruceros, con estanque de cisnes, capilla de Santa Catarina y vistas panorámicas a la bahía. Perros con correa admitidos en todo el césped.`,
+          pt: `Parque urbano de 3 ha acima do porto de cruzeiros, com lago de cisnes, capela de Santa Catarina e vistas panorâmicas sobre a baía. Cães com trela bem-vindos em todos os relvados.`,
+        },
+      },
+      {
+        name: 'Levada dos Tornos',
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          fr: `Levada plate de basse altitude qui longe la montagne au-dessus du Monte sur des dizaines de kilomètres. Tronçon Monte–Camacha (~5 km) idéal en laisse courte.`,
+          en: `A flat low-altitude levada tracing the mountainside above Monte for tens of kilometres. The Monte–Camacha section (~5 km) is ideal on a short leash.`,
+          es: `Levada llana de baja altitud que recorre la ladera sobre Monte durante decenas de kilómetros. El tramo Monte–Camacha (~5 km) es ideal con correa corta.`,
+          pt: `Levada plana de baixa altitude que percorre a encosta acima do Monte ao longo de dezenas de quilómetros. O troço Monte–Camacha (~5 km) é ideal com trela curta.`,
+        },
+      },
+      {
+        name: 'Zona Velha (Rua de Santa Maria)',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: `Quartier historique des pêcheurs avec rue piétonne aux portes peintes, dizaines d'esplanadas et le Forte de São Tiago à l'est. Entièrement accessible en laisse.`,
+          en: `Historic fishermen's quarter with a pedestrianised painted-door street, dozens of esplanada cafés and the Forte de São Tiago at its eastern end. Fully leash-accessible.`,
+          es: `Barrio histórico de pescadores con calle peatonal de puertas pintadas, decenas de esplanadas y el Forte de São Tiago al este. Totalmente accesible con correa.`,
+          pt: `Bairro histórico dos pescadores com rua pedonal de portas pintadas, dezenas de esplanadas e o Forte de São Tiago a leste. Totalmente acessível com trela.`,
+        },
+      },
+      {
+        name: 'Promenade do Lido',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade plate de 3 km en bord de falaise reliant le Lido à Praia Formosa, avec fontaines publiques utilisables pour faire boire un chien. Idéale en soirée.`,
+          en: `A 3 km flat cliff-side promenade linking the Lido complex to Praia Formosa, with public water fountains dog-usable from low taps. Best at sunset.`,
+          es: `Paseo llano de 3 km al borde del acantilado entre el Lido y Praia Formosa, con fuentes públicas utilizables para que beba el perro. Ideal al atardecer.`,
+          pt: `Promenade plana de 3 km à beira da falésia entre o Lido e a Praia Formosa, com fontes públicas utilizáveis para o cão beber. Ideal ao fim do dia.`,
+        },
+      },
+      {
+        name: 'Monte (Igreja Nossa Senhora do Monte)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Village de pèlerinage 560 m au-dessus de Funchal, parvis et jardins extérieurs accessibles en laisse. Bus HF 21 depuis le centre, ou descente par la levada.`,
+          en: `Pilgrimage village 560 m above Funchal; church parvis and outdoor gardens are leash-accessible. HF bus 21 from the centre or descent via the levada.`,
+          es: `Pueblo de peregrinación 560 m sobre Funchal; el parvis de la iglesia y los jardines exteriores son accesibles con correa. Bus HF 21 desde el centro o bajada por la levada.`,
+          pt: `Aldeia de peregrinação 560 m acima do Funchal; adro da igreja e jardins exteriores acessíveis com trela. Autocarro HF 21 a partir do centro ou descida pela levada.`,
+        },
+      },
+      {
+        name: 'Forte de São Tiago',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse côtière jaune du XVIIe siècle à l'est de la Zona Velha, chemin de ronde extérieur accessible en laisse avec la meilleure vue basse altitude de la baie.`,
+          en: `Yellow 17th-century coastal fortress at the eastern edge of the Zona Velha, with a leash-accessible outdoor rampart walk and the best low-altitude bay view.`,
+          es: `Fortaleza costera amarilla del siglo XVII al este de la Zona Velha, paseo de ronda exterior accesible con correa y la mejor vista de baja altitud de la bahía.`,
+          pt: `Fortaleza costeira amarela do século XVII a leste da Zona Velha, adarve exterior acessível com trela e a melhor vista de baixa altitude sobre a baía.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Une seule clinique vétérinaire 24h/24 sur l'île : VetMedis, Caminho de Santo António, +351 291 145 500, à enregistrer dès l'arrivée.`,
+        `Les bus Horários do Funchal acceptent gratuitement les petits chiens en cage ; les grands chiens à la discrétion du chauffeur, plus facile hors heures de pointe.`,
+        `Plages urbaines (Praia Formosa, Lido) interdites aux chiens du 1er mai au 30 septembre ; utilisez Praia de São Tiago hors saison ou Caniço toute l'année.`,
+        `Le téléphérique du Monte exige une cage entièrement fermée pour les chiens ; pour un chien moyen ou grand, prenez plutôt le bus HF 21.`,
+        `Pavés basaltiques brûlants en été après 11h : promenez avant 10h ou après 18h de juin à septembre.`,
+      ],
+      en: [
+        `Only one 24/7 veterinary hospital on the island: VetMedis, Caminho de Santo António, +351 291 145 500, save the number on arrival.`,
+        `Horários do Funchal buses carry small dogs in carriers for free; large dogs are at the driver's discretion, easier outside peak hours.`,
+        `City beaches (Praia Formosa, Lido) prohibit dogs from 1 May to 30 September; use Praia de São Tiago off-season or Caniço year-round.`,
+        `The Monte cable car requires a fully enclosed carrier for dogs; for a medium or large dog, take HF bus 21 instead.`,
+        `Basalt pavements scorch in summer after 11:00: walk before 10:00 or after 18:00 from June to September.`,
+      ],
+      es: [
+        `Un único hospital veterinario 24/7 en la isla: VetMedis, Caminho de Santo António, +351 291 145 500, guarda el número al llegar.`,
+        `Los autobuses Horários do Funchal llevan gratis a perros pequeños en transportín; los grandes a discreción del conductor, más fácil fuera de hora punta.`,
+        `Las playas urbanas (Praia Formosa, Lido) prohíben los perros del 1 de mayo al 30 de septiembre; usa Praia de São Tiago fuera de temporada o Caniço todo el año.`,
+        `El teleférico de Monte exige transportín totalmente cerrado para los perros; para un perro mediano o grande, mejor el bus HF 21.`,
+        `Los adoquines basálticos queman en verano después de las 11:00: pasea antes de las 10:00 o después de las 18:00 de junio a septiembre.`,
+      ],
+      pt: [
+        `Apenas um hospital veterinário 24/7 na ilha: VetMedis, Caminho de Santo António, +351 291 145 500, guarde o número à chegada.`,
+        `Os autocarros dos Horários do Funchal transportam gratuitamente cães pequenos em transportadora; cães grandes ao critério do motorista, mais fácil fora das horas de ponta.`,
+        `As praias urbanas (Praia Formosa, Lido) proíbem cães entre 1 de maio e 30 de setembro; use a Praia de São Tiago fora de época ou o Caniço todo o ano.`,
+        `O teleférico do Monte exige transportadora totalmente fechada para cães; para um cão médio ou grande, apanhe antes o autocarro HF 21.`,
+        `O pavimento basáltico escalda no verão depois das 11:00: passeie antes das 10:00 ou depois das 18:00 de junho a setembro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Madère est territoire UE : passeport européen + vaccination antirabique valide + puce ISO exigés à l'arrivée FNC (pas de traitement antiparasitaire requis).`,
+        `Laisse obligatoire dans tous les parcs, promenades et voies publiques, amendes à partir de 60 €.`,
+        `Races potentiellement dangereuses (Pit Bull, Rottweiler, Staffordshire, Tosa) : muselière obligatoire en public, assurance et licence requises.`,
+        `Jardim Botânico da Madeira interdit aux animaux sauf chiens guides ; alternative pet-friendly : Parque de Santa Catarina.`,
+        `L'aéroport FNC est venteux et la piste courte ; pour un chien anxieux, privilégiez les arrivées avant midi quand les vents de travers sont plus calmes.`,
+      ],
+      en: [
+        `Madeira is EU territory: EU pet passport + valid rabies vaccination + ISO microchip required on entry at FNC (no tapeworm treatment needed).`,
+        `Leashes are mandatory in all parks, promenades and public roads, fines start at €60.`,
+        `Listed dangerous breeds (Pit Bull, Rottweiler, Staffordshire, Tosa) require muzzle in public, declared insurance and an owner licence.`,
+        `Jardim Botânico da Madeira does not admit pets except guide dogs; pet-friendly alternative: Parque de Santa Catarina.`,
+        `FNC airport is famously windy with a short runway; for anxious dogs prefer morning arrivals when crosswinds are calmer.`,
+      ],
+      es: [
+        `Madeira es territorio UE: pasaporte europeo + vacuna antirrábica vigente + microchip ISO obligatorios al entrar en FNC (sin tratamiento antiparasitario).`,
+        `Correa obligatoria en todos los parques, paseos y vías públicas, multas desde 60 €.`,
+        `Razas potencialmente peligrosas (Pit Bull, Rottweiler, Staffordshire, Tosa): bozal obligatorio en público, seguro y licencia del dueño.`,
+        `El Jardim Botânico da Madeira no admite mascotas salvo perros guía; alternativa pet-friendly: Parque de Santa Catarina.`,
+        `El aeropuerto FNC es famoso por el viento y su pista corta; para perros ansiosos elige llegadas matutinas con vientos cruzados más suaves.`,
+      ],
+      pt: [
+        `A Madeira é território UE: passaporte europeu + vacina antirrábica válida + microchip ISO obrigatórios à entrada em FNC (sem tratamento contra a ténia).`,
+        `Trela obrigatória em todos os parques, passeios e vias públicas, multas a partir de 60 €.`,
+        `Raças potencialmente perigosas (Pit Bull, Rottweiler, Staffordshire, Tosa): açaime obrigatório em público, seguro e licença do dono.`,
+        `O Jardim Botânico da Madeira não admite animais excepto cães-guia; alternativa pet-friendly: Parque de Santa Catarina.`,
+        `O aeroporto FNC é conhecido pelo vento e pela pista curta; para cães ansiosos prefira chegadas matinais com ventos cruzados mais calmos.`,
+      ],
+    },
+  },
+
   galway: {
     history: {
       fr: `Galway, fondée par les Anglo-Normands au XIIIe siècle au point de rencontre du fleuve Corrib et de la baie atlantique, fut pendant cinq siècles le port maritime le plus prospère de la côte ouest irlandaise, surnommée la « Ville des Tribus » d'après les quatorze familles marchandes qui la dirigeaient. Aujourd'hui capitale de la province du Connacht avec 85 000 habitants, c'est avant tout une ville étudiante (25 000 étudiants à l'University of Galway) et le cœur bohème de l'Irlande gaélophone : la rue piétonne du Latin Quarter, Shop Street, Quay Street, High Street, résonne em permanence de musique trad live, et 30 % des habitants du Gaeltacht voisin parlent encore l'irlandais au quotidien. Pour les voyageurs avec chien, Galway est un des hubs les plus accueillants d'Europe : la promenade de Salthill (2 km le long de la baie) accepte les chiens em laisse toute l'année, la plage de Silver Strand à 10 minutes em voiture est sans laisse hors saison, et le Connemara, 2 000 km² de tourbières, montagnes et lochs sans clôtures, commence à 30 minutes à l'ouest. Les pubs traditionnels (Tigh Neachtain, Crane Bar) accueillent les chiens dans leurs snugs em bois, et Bus Éireann + Iarnród Éireann transportent gratuitement les chiens em laisse muselés. Seule contrainte : l'Irlande exige le traitement contre le ténia (échinococcose) entre 24h et 120h avant l'arrivée pour les chiens venant d'un pays UE non insulaire.`,

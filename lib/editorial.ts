@@ -241,6 +241,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the fenced Hundeauslauffläche in Grüneburgpark, the 4 km Mainufer promenade, and the Stadtwald forest trails',
       area: 'Sachsenhausen, Westend, and the Altstadt around the Römerberg',
     },
+    funchal: {
+      personality: `the capital of Madeira, a year-round mild Atlantic island with esplanada culture, the cliff-side Lido promenade, the levada walks above town, and the only 24/7 veterinary hospital on the archipelago`,
+      highlight: `Parque de Santa Catarina above the bay, the Levada dos Tornos walking trail, and the Promenade do Lido cliff path`,
+      area: `the Zona Velha around Rua de Santa Maria, the Lido / Estrada Monumental hotel strip, and the heights of Monte`,
+    },
     galway: {
       personality: `the bohemian capital of Ireland's Wild Atlantic Way, where pubs welcome dogs in their snugs, the Salthill promenade fills with leashed pets at sunset, and Connemara's beaches and bogs lie 30 minutes west`,
       highlight: `the 2 km Salthill Promenade, Silver Strand off-leash beach, and the Spanish Arch + Long Walk waterfront`,
@@ -889,6 +894,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche clôturée du Grüneburgpark, la promenade Mainufer de 4 km et les sentiers forestiers du Stadtwald',
       area: 'Sachsenhausen, le Westend et l\'Altstadt autour du Römerberg',
     },
+    funchal: {
+      personality: `la capitale de Madère, île atlantique au climat doux toute l'année, avec sa culture d'esplanadas, la promenade de bord de falaise du Lido, les balades de levadas au-dessus de la ville et le seul hôpital vétérinaire 24h/24 de l'archipel`,
+      highlight: `le Parque de Santa Catarina au-dessus de la baie, la balade de la Levada dos Tornos et la Promenade do Lido en bord de falaise`,
+      area: `la Zona Velha autour de la Rua de Santa Maria, l'axe hôtelier Lido / Estrada Monumental et les hauteurs du Monte`,
+    },
     galway: {
       personality: `la capitale bohème du Wild Atlantic Way irlandais, où les pubs accueillent les chiens dans leurs snugs, la promenade de Salthill se remplit de chiens en laisse au coucher du soleil, et les plages et tourbières du Connemara sont à 30 minutes à l'ouest`,
       highlight: `la promenade de Salthill (2 km), la plage sans laisse de Silver Strand et le front de mer Spanish Arch + Long Walk`,
@@ -1536,6 +1546,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Hundeauslauffläche vallada del Grüneburgpark, el paseo Mainufer de 4 km y los senderos forestales del Stadtwald',
       area: 'Sachsenhausen, el Westend y la Altstadt en torno al Römerberg',
     },
+    funchal: {
+      personality: `la capital de Madeira, una isla atlántica de clima suave todo el año, con su cultura de esplanadas, el paseo al borde del acantilado del Lido, las rutas de levadas sobre la ciudad y el único hospital veterinario 24/7 del archipiélago`,
+      highlight: `el Parque de Santa Catarina sobre la bahía, la Levada dos Tornos y la Promenade do Lido al borde del acantilado`,
+      area: `la Zona Velha en torno a la Rua de Santa Maria, el eje hotelero del Lido / Estrada Monumental y las alturas de Monte`,
+    },
     galway: {
       personality: `la capital bohemia del Wild Atlantic Way irlandés, donde los pubs admiten perros en sus snugs, el paseo de Salthill se llena de perros con correa al atardecer, y las playas y turberas de Connemara están a 30 minutos al oeste`,
       highlight: `el paseo de Salthill (2 km), la playa sin correa de Silver Strand y el frente marítimo Spanish Arch + Long Walk`,
@@ -2182,6 +2197,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital financiera mais verde de Alemania, o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
       highlight: 'a Hundeauslauffläche vallada do Grüneburgpark, o passeio Mainufer de 4 km e os trilhos forestales do Stadtwald',
       area: 'Sachsenhausen, o Westend e a Altstadt en torno al Römerberg',
+    },
+    funchal: {
+      personality: `a capital da Madeira, ilha atlântica de clima ameno todo o ano, com a sua cultura de esplanadas, a promenade à beira da falésia do Lido, as caminhadas pelas levadas acima da cidade e o único hospital veterinário 24/7 do arquipélago`,
+      highlight: `o Parque de Santa Catarina sobre a baía, a Levada dos Tornos e a Promenade do Lido à beira da falésia`,
+      area: `a Zona Velha em torno da Rua de Santa Maria, o eixo hoteleiro do Lido / Estrada Monumental e as alturas do Monte`,
     },
     galway: {
       personality: `a capital bohemia do Wild Atlantic Way irlandés, onde os pubs admiten cães en os seus snugs, o passeio de Salthill se llena de cães com trela al atardecer, e as praias e turberas de Connemara estão a 30 minutos al oeste`,

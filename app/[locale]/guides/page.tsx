@@ -293,7 +293,8 @@ export default async function GuidesIndexPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+  // PT not in this local COPY object yet — fall back to EN for this guide hub
+  const lang: 'en' | 'fr' | 'es' = locale === 'fr' || locale === 'es' ? locale : 'en'
   const copy = COPY[lang]
 
   return (

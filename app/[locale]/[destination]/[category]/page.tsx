@@ -435,6 +435,7 @@ export default async function ComboPage({
                     destName={dest.name}
                     country={dest.country}
                     height={400}
+                    locale={locale}
                   />
                 </section>
               )}

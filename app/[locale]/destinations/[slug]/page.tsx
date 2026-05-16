@@ -271,7 +271,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             es: { icon: '⚠️', text: `Noruega exige un tratamiento contra tenias 1-5 días antes de la entrada. Los documentos UE son aceptados, pero se aplican normas adicionales.` },
           },
         }
-        const lang = locale === 'fr' || locale === 'es' ? locale : 'en'
+        const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
         const alert = alerts[slug]?.[lang]
         if (!alert) return null
         const guideLabel = locale === 'fr' ? 'Voir le guide complet' : locale === 'es' ? 'Ver guía completa' : locale === 'pt' ? 'Ver guia completo' : 'See full guide'
@@ -313,6 +313,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               stay22MapId={'stay22MapId' in dest ? (dest as typeof dest & { stay22MapId?: string }).stay22MapId : undefined}
               destName={dest.name}
               country={dest.country}
+              locale={locale}
               height={420}
             />
           </div>
@@ -321,7 +322,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* ── Editorial Snapshot ── */}
       {(() => {
-        const ctxLocale = locale === 'fr' || locale === 'es' ? locale : 'en'
+        const ctxLocale = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
         const ctx = (destContextByLocale[ctxLocale] ?? destContextByLocale['en'])?.[slug]
         const avgRating = destHotels.length > 0
           ? (destHotels.reduce((s, h) => s + h.rating, 0) / destHotels.length).toFixed(1)
@@ -421,7 +422,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {cityContent[slug] && (() => {
         const cc = cityContent[slug]
         // PT uses pt content when available, otherwise falls back to en
-        const lang = locale === 'pt' && cc.history.pt ? 'pt' : (locale === 'fr' || locale === 'es' ? locale : 'en')
+        const lang = locale === 'pt' && cc.history.pt ? 'pt' : (locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en')
         const historyTitle = locale === 'fr' ? `${localizedName} : histoire et caractère` : locale === 'es' ? `${localizedName}: historia y carácter` : locale === 'pt' ? `${localizedName}: história e carácter` : `${localizedName}: history & character`
         const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : locale === 'pt' ? 'Pontos-chave a visitar' : 'Key sights'
         const petsTitle = locale === 'fr' ? `Voyager avec son animal à ${localizedName}` : locale === 'es' ? `Viajar con mascota en ${localizedName}` : locale === 'pt' ? `Viajar com animal em ${localizedName}` : `Travelling with a pet in ${localizedName}`

@@ -1962,6 +1962,653 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Kreis 4, Zúrich Oeste y el Casco Antiguo',
     },
   },
+  pt: {
+    aarhus: {
+      personality: 'a segunda cidade de Dinamarca — a cultura do café mais tolerante de Escandinavia después de Copenhaga, transporte público grátis para cães e 8 florestas sem trela oficiais',
+      highlight: 'o Marselisborg Hundeskov, a praia canina o ano inteiro de Bellevue Strand e o museu al aire libre Den Gamle By',
+      area: 'Latin Quarter, Frederiksbjerg e a zona portuaria Dokk1',
+    },
+    'aix-en-provence': {
+      personality: 'a cidade universitaria provenzal do século XVII onde as esplanadas sombreadas, as praças com fuentes e o macizo da Sainte-Victoire a convierten numa das cidades mais auténticamente tolerantes com os cães do sul de Francia',
+      highlight: 'a bóveda de plátanos do Cours Mirabeau, o Parc Jourdan, e os trilhos de Bibémus e Bimont na Sainte-Victoire',
+      area: 'o centro histórico, o Quartier Mazarin e a colina de Lauves alrededor do atelier de Cézanne',
+    },
+    amsterdam: {
+      personality: 'uma das capitales mais relajadas e acogedoras com animais de Europa',
+      highlight: 'o Vondelpark e as margens sem trela do rio Amstel',
+      area: 'o bairro do Jordaan e o cinturón de canales',
+    },
+    annecy: {
+      personality: `a « Venecia dos Alpes » — Centro histórico medieval clasificado a lo largo dos canales, o lago grande mais limpio de Europa com spots de banho canino o ano inteiro, e o floresta do Semnoz de 4 000 ha com 50 km de trilhos sem trela directamente al sur do centro`,
+      highlight: `o Pont des Amours e os canales do centro histórico, o trilho ciclista plano de 42 km da vuelta al lago, e a cima do Semnoz a 1 699 m`,
+      area: `o Centro histórico alrededor do Palais de l'Île, o Pâquier e o frente lacustre de Albigny, e o residencial Annecy-le-Vieux`,
+    },
+    antwerp: {
+      personality: 'a capital da moda de Bélgica e uma dos seus cidades mais pet-friendly. Com amplios parques riberenhos, esplanadas acogedoras para cães e um floreciente sector de hotéis boutique',
+      highlight: 'o parque Rivierenhof, o passeio riberenho do Escalda e o Nachtegalenpark',
+      area: 'o Centro histórico, Zurenborg e o Zuid',
+    },
+    athens: {
+      personality: 'uma capital mediterrânea banhada pelo sol que sorprende aos viajeros com animais com os seus bairros transitables e uma creciente escena de hotéis boutique que acogen cães o ano inteiro',
+      highlight: 'o Jardim Nacional, a colina de Filopappou e o passeio costero de Faliro',
+      area: 'Koukaki, Monastiraki e Pangrati',
+    },
+    avignon: {
+      personality: `a capital de Provenza e antiga sede de siete papas — centro storico amurallado clasificado UNESCO, o imponente Palácio dos Papas (o mayor palácio gótico de Europa), o legendario Pont Saint-Bénézet sobre o Ródano, e acesso TGV directo a partir de París en 2h40`,
+      highlight: `a Place du Palais des Papes, os jardins do Rocher des Doms com o panorama icónico, e a île da Barthelasse com 4 km de passeio canino junto al Ródano`,
+      area: `o intra-muros alrededor do Palácio dos Papas, o bairro bistró da Rue des Teinturiers e a Place de l'Horloge, e a île da Barthelasse al otro lado do rio`,
+    },
+    barcelona: {
+      personality: 'uma cidade mediterrânea onde a tenencia de animais é alta e os hotéis se estão adaptando',
+      highlight: 'o Parque da Ciutadella, a praia de Poblenou e as colinas do Collserola',
+      area: 'O Born, Gràcia e o Eixample',
+    },
+    basel: {
+      personality: `uma das cidades pet-friendly mais infravaloradas de Europa — a capital artística trifronteriza de Suiza, com dos zonas oficiais de banho canino no Rin, um parque aluvial sem trela a lo largo do Wiese e uma clínica veterinária de urgências 24/7`,
+      highlight: 'a zona de banho canino de Birsköpfli, o Landschaftspark Wiese e a esplanada Pfalz junto al Münster',
+      area: `a Altstadt medieval alrededor da Marktplatz, o creativo bairro de Kleinbasel e o frondoso distrito de St. Alban`,
+    },
+    bath: {
+      personality: 'a cidade balneario georgiana UNESCO de Inglaterra, compacta e peatonal, com uma fuerte cultura de pubs tolerante com os cães e o trilho Bath Skyline de 9,6 km justo encima do Royal Crescent de pedra color miel',
+      highlight: 'o relva do Royal Crescent, o trilho da National Trust Bath Skyline e o camino de sirga Kennet & Avon',
+      area: 'o bairro do Royal Crescent, a ribera junto al Pulteney Bridge e Bathwick',
+    },
+    belgrade: {
+      personality: 'uma das capitales europeias mais asequibles, com a praia canina de Ada Ciganlija o ano inteiro, transporte público gratuito a partir de 2025 e o único hospital veterinário 24/7 de Serbia',
+      highlight: 'a fortaleza de Kalemegdan, a península de Ada Ciganlija e o parque Tašmajdan',
+      area: 'Stari Grad, Skadarlija e Dorćol',
+    },
+    bergen: {
+      personality: 'a puerta noruega aos fiordos, encajada entre siete montanhas e o mar — transporte público grátis para cães, montanhas sem trela a 7 minutos do centro, e um muelle hanseático UNESCO no porto',
+      highlight: 'o Monte Fløyen vía o funicular Fløibanen, a cresta Vidden até o Monte Ulriken e o colorido muelle Bryggen',
+      area: 'Bryggen, Sandviken e Marken',
+    },
+    berlin: {
+      personality: 'posiblemente a capital mais pet-friendly de Europa. Os cães viajan en transporte público e entran libremente en muitos comercios',
+      highlight: 'o Tiergarten, o campo de Tempelhof e o floresta de Grunewald',
+      area: 'Prenzlauer Berg, Mitte e Kreuzberg',
+    },
+    bern: {
+      personality: 'uma das capitales mais acogedoras para animais de Europa — o Centro histórico UNESCO de Suiza tem 6 km de soportales Lauben cubiertos, tres florestas urbanos a distancia de elétrico e o principal hospital universitario veterinário do país',
+      highlight: 'o floresta sem trela do Bremgartenwald, o passeio fluvial de 5 km a lo largo do Aar e o BärenPark sob o Centro histórico',
+      area: 'os soportales UNESCO do Altstadt, os bairros riberenhos de Marzili e a Matte e o mirador do Rosengarten',
+    },
+    biarritz: {
+      personality: 'uma cidade de surf vasca com uma actitud profundamente relajada hacia os cães e a vida al aire libre',
+      highlight: 'a Grande Plage e o trilho costero da Costa Vasca',
+      area: 'o Porto Viejo e o bairro das Halles',
+    },
+    bilbao: {
+      personality: 'uma das cidades mais pet-friendly de Espanha, onde o elétrico admite todas as tallas, os bares de pintxos aceitam oficialmente cães en interior e a escultura \'Puppy\' do Guggenheim hace sentir a cada cão como en casa',
+      highlight: 'a zona de suelta do Parque Donha Casilda, o vagón pet-friendly do Funicular de Artxanda e o passeio fluvial do Nervión até o Guggenheim',
+      area: 'os bairros de Abando e Indautxu, as Siete Ruas do Casco Viejo e o passeio marítimo de Abandoibarra',
+    },
+    bologna: {
+      personality: 'uma cidade medieval italiana de pórticos e mercados gastronómicos que acoge aos cães en os seus cafés, praças e as colinas circundantes',
+      highlight: 'os Giardini Margherita, o trilho com pórticos de San Luca (3,8 km) e as colinas sobre o bairro da Bolognina',
+      area: 'o Quadrilatero gastronómico, Santo Stefano e o bairro universitario de Via Zamboni',
+    },
+    bordeaux: {
+      personality: 'uma cidade onde os cães pasean pelas esplanadas dos bares de vino do bairro de Chartrons, exploran os muelles do Garona e são bem-vindos en a maioria dos hotéis boutique',
+      highlight: 'o Parque Bordelais, os muelles do Garona e o Jardim Público',
+      area: 'os Chartrons, Saint-Pierre e o Triángulo de Oro',
+    },
+    bratislava: {
+      personality: 'uma capital centroeuropea compacta e asequible onde os cães recorren as praças adoquinadas do centro histórico, os florestas dos Cárpatos e as riberas do Danubio, todo a pé a partir do centro',
+      highlight: 'o floresta de Železná Studnička, Sad Janka Kráľa e a ribera de Devín',
+      area: 'o centro histórico, Petržalka e Devín',
+    },
+    bremen: {
+      personality: `uma cidade hanseática norte-alemana onde a estatua UNESCO dos Músicos pone a um cão no corazón da identidad cívica, onde o Bürgerpark de 200 hectáreas linda com o centro e onde as Stuben admiten cães en sala o ano inteiro`,
+      highlight: `o Bürgerpark e o Stadtwald adyacente, o bucle das muralhas Wallanlagen e a praia de banho do Werderseestrand`,
+      area: `o centro histórico alrededor da Marktplatz, Das Viertel e o Schnoor`,
+    },
+    brighton: {
+      personality: 'a cidade costera mais pet-friendly do Reino Unido, onde os autocarros são grátis para animais e a praia de Hove Lawns abre o ano inteiro',
+      highlight: 'Hove Lawns, Preston Park e Stanmer Park a as puertas dos South Downs',
+      area: 'The Lanes, Kemptown e o passeio marítimo de Hove',
+    },
+    bristol: {
+      personality: 'uma das cidades mais verdes de Inglaterra — o 70 % dos pubs admite cães, transporte público grátis para animais, o icónico Clifton Suspension Bridge e as 162 hectáreas do Ashton Court Estate a as puertas',
+      highlight: 'Ashton Court Estate, os Downs en lo alto da Garganta do Avon e o ferri flotante Bristol Ferry até Wapping Wharf',
+      area: 'Clifton, o Harbourside e Stokes Croft',
+    },
+    brno: {
+      personality: `a capital compacta e sorprendentemente asequible de Moravia — 14 zonas valladas sem trela municipales, uma cultura de pivnice que admite cães en todo o centro, e um embalse de banho canino o ano inteiro a 25 minutos no elétrico`,
+      highlight: `o parque en lo alto do Špilberk, a Brněnská přehrada en Bystrc e as excursiones a a região vinícola de Moravia do sul en Pavlov e Mikulov`,
+      area: `o centro medieval alrededor de náměstí Svobody, Lužánky e o bairro lacustre de Bystrc`,
+    },
+    bruges: {
+      personality: 'uma hermosa cidade medieval conservada onde os cães trotean junto aos seus duenhos por ruas empedradas, caminos de sirga e a través do tranquilo campo circundante',
+      highlight: 'o parque Minnewater, os caminos de sirga da red de canales e o Koningin Astridpark',
+      area: 'o centro histórico, o bairro de Sint-Anna e o Begijnhof',
+    },
+    brussels: {
+      personality: 'um destino de viaje com animais subestimado, com amplios parques, um centro compacto e transitable e uma cultura hotelera que da uma auténtica bienvenida aos animales',
+      highlight: 'o Floresta da Cambre, o Parque do Cincuentenario e o Floresta de Soignes',
+      area: 'Ixelles, Saint-Gilles e o Bairro Europeu',
+    },
+    bucharest: {
+      personality: 'uma das capitales europeias mais asequibles, com um parque central de 187 hectáreas, dos recintos caninos municipales vallados en o seu interior e o mayor hospital veterinário 24/7 de Rumanía',
+      highlight: 'o parque Herastrau, os jardins Cișmigiu e o lago de Snagov',
+      area: 'o centro histórico Lipscani, Floreasca e Calea Victoriei',
+    },
+    budapest: {
+      personality: 'uma cidade de gran arquitetura e uma escena pet-friendly en auge. Os cães viajan no metro, acceden a a maioria dos parques e são bem-vindos nos famosos bares en ruinas de Budapest',
+      highlight: 'a Ilha Margarita, o Parque da Cidade (Városliget) e os passeios riberenhos do Danubio',
+      area: 'o 7º distrito (o Bairro Judío), o distrito do Castelo de Buda e Óbuda',
+    },
+    cambridge: {
+      personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly — vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,
+      highlight: `o trilho riberenho dos Backs, as pradarias de Grantchester e o tea garden de The Orchard, e os trilhos do fuerte da Edad do Hierro de Wandlebury Country Park`,
+      area: `o centro histórico alrededor de King's Parade, o bairro de Mill Road e a zona riberenha de Newnham`,
+    },
+    cannes: {
+      personality: 'uma glamurosa cidade da Costa Azul com uma cultura canina sorprendentemente relajada — as esplanadas de Le Suquet, o bairro do Marché Forville e as praias occidentales acogen cães durante o ano inteiro',
+      highlight: 'a Île Sainte-Marguerite boscosa, a Plage da Bocca e as ruelas adoquinados de Le Suquet',
+      area: 'Le Suquet (o centro histórico), o bairro do Marché Forville e A Bocca',
+    },
+    cascais: {
+      personality: `a elegante escapada costera de Lisboa, onde casi todas as esplanadas do porto sirven um cuenco de água sem pedirlo e o passeio marítimo do Paredão se llena de cães al atardecer`,
+      highlight: 'o parque sombreado Marechal Carmona, o trilho do acantilado de Boca do Inferno e as praias salvajes das dunas atlánticas de Guincho e Cresmina',
+      area: 'o casco histórico alrededor do Largo Luís de Camões, o bairro do porto e o bairro de Birre perto do parque natural',
+    },
+    cologne: {
+      personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',
+      highlight: 'o passeio do Rin, o parque forestal de Stadtwald e a pradaria sem trela do Beethovenpark',
+      area: 'a Altstadt en torno a a catedral, Ehrenfeld e o Severinsviertel',
+    },
+    coimbra: {
+      personality: 'uma cidade universitaria UNESCO que desciende a partir do seu colina até o Mondego, onde os cães com trela se deslizan pelas callejuelas medievais e o floresta ripario do Choupal é o imán diario dos passeios',
+      highlight: 'o floresta riberenho da Mata Nacional do Choupal, o Parque Verde do Mondego com o seu pasarela peatonal Pedro & Inês, e os patios exteriores da universidade mais antiga de Europa',
+      area: 'a Baixa (cidade baja) junto al Mondego, a Alta (cidade alta) en torno a a universidade e a margem sur perto da pasarela Pedro & Inês',
+    },
+    copenhagen: {
+      personality: 'uma cidade líder en Europa en bienestar animal. Os cães viajan grátis en transporte público, entran en a maioria dos comercios e são bem-vindos com cuencos de água en casi todas as esplanadas',
+      highlight: 'os Jardins de Frederiksberg, Fælledparken e o passeio marítimo do porto',
+      area: 'Nørrebro, Frederiksberg e Vesterbro',
+    },
+    cordoba: {
+      personality: 'a cidade UNESCO da Mezquita-Catedral en Andalucía, a 45 minutos en AVE de Sevilha — compacto centro histórico de ruas blancas, o Ponte Romano sobre o Guadalquivir e as estribaciones de Sierra Morena a 15 minutos al norte para rutas caninas frescas',
+      highlight: 'a vista al Ponte Romano al atardecer, as ruelas da Judería judía e o trilho riberenho dos Sotos da Albolafia',
+      area: 'a Judería, o Centro junto a a Praça da Corredera e a zona moderna de San Fernando',
+    },
+    cork: {
+      personality: `a rebel city irlandesa dos gourmets sobre o Lee — ruas georgianas, pubs tradicionales com snugs, o emblemático English Market e o Ballincollig Regional Park sem trela de 200 hectáreas a 8 km al oeste, com as praias do West Cork a corta distancia al sur`,
+      highlight: `Fitzgerald's Park e o passeio Mardyke, a zona sem trela do Ballincollig Regional Park e o comboio de 25 min al frente marítimo pet-friendly de Cobh`,
+      area: `o Latin Quarter, a Marina fluvial e Blackrock`,
+    },
+    dresden: {
+      personality: 'capital barroca compacta sobre o Elba, com kilómetros de pradarias fluviales sem trela, um floresta urbano de 5.800 hectáreas no borde norte e uma flota histórica de vapores de paletas que admite cães sem coste extra',
+      highlight: 'as Elbwiesen que atraviesan o centro, o floresta da Dresdner Heide e os jardins do palácio de Pillnitz',
+      area: 'o Altstadt en torno a a Frauenkirche, o Äußere Neustadt e os bairros residenciales de Striesen / Blasewitz',
+    },
+    dublin: {
+      personality: 'uma cálida cidade centrada nos pubs onde os cães são bem-vindos nos jardins de cerveza, nos passeios costeros e a través do parque urbano mais grande de Europa. O Phoenix Park',
+      highlight: 'o Phoenix Park (700 hectáreas, mayormente sem trela), o trilho do rio Dodder e a praia de Sandymount Strand',
+      area: 'Ranelagh, Portobello e Stoneybatter',
+    },
+    dubrovnik: {
+      personality: 'uma cidade amurallada dramática onde os cães acompanhan aos seus duenhos en trilhos costeros, praias tranquilas en ilhas e esplanadas sombreadas por pinos fuera do centro histórico',
+      highlight: 'o trilho costero hacia a praia de Sveti Jakov, o ferry a a ilha de Lokrum (cães permitidos) e a península de Lapad',
+      area: 'Lapad, Gruž e os alrededores do centro histórico',
+    },
+    dusseldorf: {
+      personality: `capital renana da moda e a cerveza tradicional, com 21 Hundewiesen oficiais valladas, uma Rheinuferpromenade de 2 km pelo centro e o Medienhafen de Frank Gehry a um elétrico do cluster de Altbier da Altstadt`,
+      highlight: `o Hofgarten (primer parque público de Alemania), o Medienhafen com os edifícios de Gehry e a Rheinturm, e as zonas de banho canino oficiais do Unterbacher See a 20 minutos al sur`,
+      area: `a Altstadt en torno a a Ratinger Straße, o passeio marítimo do Medienhafen e a frondosa margem izquierda de Oberkassel`,
+    },
+    edinburgh: {
+      personality: 'uma das cidades mais pet-friendly de Gran Bretanha. Com colinas sem trela, pubs que admiten cães en cada rua e uma cultura que trata aos cães como miembros plenos da familia',
+      highlight: 'Arthur\'s Seat (sem trela), o Holyrood Park e o trilho riberenho Water of Leith',
+      area: 'Stockbridge, Leith e o New Town',
+    },
+    evora: {
+      personality: `a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca — Templo romano de 2 000 anos, a inquietante Capela dos Ossos, uno dos mayores circuitos de muralhas medievais de Iberia, e acesso directo CP a partir de Lisboa en 1h30`,
+      highlight: `o Templo romano de Évora, o sitio megalítico do Cromeleque dos Almendres (7 000 anos mais antigo que Stonehenge), e as praias caninas do lago Alqueva en Monsaraz`,
+      area: `o Centro Histórico alrededor da Praça do Giraldo, a zona do Templo romano no Largo do Conde de Vila Flor, e a ruta do vino do Alentejo justo fora das muralhas`,
+    },
+    faro: {
+      personality: `a capital do Algarve e a puerta de entrada a a costa sur de Portugal — Cidade Velha clasificada UNESCO, parque natural da Ria Formosa de 18 000 ha com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas en ilhas barrera en ferry, e os suplementos para animais mais bajos do sul de Europa`,
+      highlight: `a Cidade Velha e o Arco da Vila com os seus cigüenhas, o boardwalk da Ria Formosa hacia as salinas, e a praia canina salvaje atlântica da Ilha Deserta en ferry`,
+      area: `a Cidade Velha alrededor da praça da catedral, a esplanada do lado da marina e o residencial Bom João perto da estação`,
+    },
+    florence: {
+      personality: 'uma cidade renascentista onde os cães trotean sobre adoquines hacia os mercados matutinos, descansan sob os parasoles dos cafés e pasean pelas margens do Arno cada tarde com os seus duenhos',
+      highlight: 'os Jardins de Bóboli, o parque das Cascine (zonas sem trela) e os caminos riberenhos do Arno',
+      area: 'Oltrarno, Santa Croce e San Frediano',
+    },
+    frankfurt: {
+      personality: 'a capital financiera mais verde de Alemania — o 52% da cidade é floresta o parques, com um Stadtwald de 4.200 hectáreas, tabernas de Apfelwein pet-friendly en Sachsenhausen e dos clínicas veterinárias de urgências abiertas 24/7',
+      highlight: 'a Hundeauslauffläche vallada do Grüneburgpark, o passeio Mainufer de 4 km e os trilhos forestales do Stadtwald',
+      area: 'Sachsenhausen, o Westend e a Altstadt en torno al Römerberg',
+    },
+    galway: {
+      personality: `a capital bohemia do Wild Atlantic Way irlandés, onde os pubs admiten cães en os seus snugs, o passeio de Salthill se llena de cães com trela al atardecer, e as praias e turberas de Connemara estão a 30 minutos al oeste`,
+      highlight: `o passeio de Salthill (2 km), a praia sem trela de Silver Strand e o frente marítimo Spanish Arch + Long Walk`,
+      area: `o Latin Quarter, o West End e Salthill junto a a bahía`,
+    },
+    gdansk: {
+      personality: `a Perla hanseática do Báltico e antiga cidade libre de Danzig — Długi Targ clasificado UNESCO, o lugar de nacimiento de Solidaridad en Stocznia Gdańska, e acesso directo SKM a a praia canina de Sopot (a mais famosa de Polonia) en 15 minutos`,
+      highlight: `o Długi Targ e a rua Mariacka, a praia canina de Sopot a 15 min en SKM, e o parque paisajístico da tri-cidade com 200 km de trilhos sem trela`,
+      area: `o Główne Miasto alrededor do Długi Targ, a ilha Wyspa Spichrzów no Motława, e Wrzeszcz al norte`,
+    },
+    geneva: {
+      personality: 'uma das capitales internacionales mais acogedoras para animais de Europa — a lei suiza permite cães en restaurantes e cafés, o Bois da Bâtie sem trela o ano inteiro está en pleno centro, e dos clínicas veterinárias de urgências 24/7 atienden al cantón',
+      highlight: 'o floresta sem trela do Bois da Bâtie, o passeio lacustre do Quai Wilson e o bohemio distrito de Carouge',
+      area: 'Pâquis na margem derecha, Eaux-Vives na margem izquierda e Carouge al otro lado do Arve',
+    },
+    genoa: {
+      personality: 'uma das cidades italianas mais discretamente acogedoras para animais — a primera de Liguria en abrir uma praia canina oficial, com caruggi 8°C mais frescos que o passeio marítimo en verão, tres clínicas veterinárias de urgências 24/7 e uma red de transporte vertical única de funiculares e ascensores',
+      highlight: 'a praia canina de Vesima o ano inteiro, os Parchi di Nervi de 92.000 m² e o Porto Antico redisenhado por Renzo Piano',
+      area: 'as Strade Nuove UNESCO, o pueblo pesquero de Boccadasse e os parques costeros de Nervi',
+    },
+    ghent: {
+      personality: 'uma progresista cidade belga orientada a a bicicleta onde os cães forman parte da vida cotidiana. En elétricos, en cafeterías e a lo largo dos bellos rios Leie e Schelde',
+      highlight: 'o Citadelpark, a reserva natural de Bourgoyen-Ossemeersen e os caminos de sirga riberenhos do Leie',
+      area: 'o Patershol, Sint-Pieters e Portus Ganda',
+    },
+    glasgow: {
+      personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada comboio ScotRail, pubs pet-friendly en cada bairro e as 146 hectáreas de Pollok Country Park dentro da cidade',
+      highlight: 'Pollok Country Park, Kelvingrove Park e o Loch Lomond a 50 minutos de comboio',
+      area: 'o West End, Merchant City e Finnieston',
+    },
+    gothenburg: {
+      personality: 'a cidade mais acogedora para cães de Suecia — uma animada cidade portuaria e universitaria onde os cães viajan no elétrico grátis, corren sem trela no Slottsskogen de 137 hectáreas e são bem-vindos en casi todos os cafés',
+      highlight: 'o floresta urbano de Slottsskogen, os cafés do bairro de madera de Haga e as ilhas aptas para cães do archipiélago de Gotemburgo',
+      area: 'Haga, o bairro de Linné e o distrito de Vasastan',
+    },
+    graz: {
+      personality: 'a capital UNESCO de Estiria, onde a Uhrturm do Schlossberg corona uma Altstadt renascentista perfeitamente conservada e a cultura Wirtshaus admite cães no interior mesmo em inverno',
+      highlight: 'os trilhos boscosos do Schlossberg até a Uhrturm, a Hundezone do Stadtpark e o trilho de 7 km a lo largo do Mur pelo centro',
+      area: 'a Altstadt UNESCO en torno al Hauptplatz, o bairro de moda Lend al oeste do Mur e o frondoso bairro estudantil Geidorf',
+    },
+    granada: {
+      personality: 'a cidade árabe mais atmosférica de Europa — onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
+      highlight: 'o Passeio dos Tristes al pie das muralhas da Alhambra, o bairro UNESCO do Albaicín e os parques pet-friendly do bairro de Arabial',
+      area: 'o Albaicín, o Realejo e o centro histórico en torno a a Praça Nueva',
+    },
+    hamburg: {
+      personality: 'a gran cidade mais verde de Alemania com 56 Hundeauslaufzonen valladas, um circuito de 7 km alrededor do lago Alster, as famosas praias urbanas do Elbstrand, e uma cultura portuaria onde os cães cogen ferris e duermen nas esplanadas dos cafés',
+      highlight: 'o circuito de 7 km alrededor do Außenalster, o Elbstrand en Övelgönne e o Altonaer Volkspark de 205 hectáreas',
+      area: 'as margens do Alster, o Schanzenviertel e o passeio marítimo do Elba en Övelgönne',
+    },
+    hannover: {
+      personality: 'tranquila capital de Baja Sajonia — o mayor floresta urbano de Alemania (Eilenriede, 640 ha, mais grande que Central Park), o lago Maschsee com o seu zona de banho canino, e um hospital universitario veterinário de primer nivel mundial',
+      highlight: 'as 640 hectáreas do floresta Eilenriede, o circuito de 6 km do Maschsee e o seu Hundebadestelle, e a avenida barroca do Georgengarten',
+      area: 'List, as margens do Maschsee e a Altstadt alrededor da Marktkirche',
+    },
+    heidelberg: {
+      personality: `a cidade universitaria mais romántica de Alemania — Altstadt barroca sob o castelo renascentista en ruinas, o icónico trilho panorámico do Philosophenweg, o floresta do Königstuhl com 70 km de trilhos sem trela, e comboios ICE directos a partir do aeroporto de Frankfurt en 50 min`,
+      highlight: `as esplanadas do Schloss, o Philosophenweg com o seu floresta do Heiligenberg, e o funicular do Königstuhl hacia 70 km de trilhos forestales sem trela`,
+      area: `a Altstadt alrededor da Hauptstraße, Bergheim perto da estação, e o frondoso Neuenheim al otro lado do Neckar`,
+    },
+    heraklion: {
+      personality: 'a capital cretense, onde 4 km de muralhas venecianas rodean o centro histórico, o clima suave o ano inteiro e dos zonas Bau-Beach oficiais a convierten numa das cidades griegas mais fáciles para viajar com cão',
+      highlight: 'o circuito de 4 km sobre as muralhas venecianas, o muelle da fortaleza portuaria Koules e a Bau-Beach de Amoudara a 5 km al oeste',
+      area: 'o centro amurallado en torno a Plateia Eleftherias e a Praça dos Leones, o passeio do porto e a costa oeste hacia Amoudara',
+    },
+    helsinki: {
+      personality: 'uma capital nórdica onde o archipiélago islenho, os florestas de pinos e uma cultura profundamente orientada al aire libre a hacen excepcionalmente acogedora para os cães e os seus duenhos',
+      highlight: 'o Parque Central (Keskuspuisto), a reserva natural insular de Seurasaari e a fortaleza marítima de Suomenlinna',
+      area: 'Kallio, Töölö e o Bairro do Disenho',
+    },
+    innsbruck: {
+      personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m — transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',
+      highlight: 'a cordillera do Nordkette acessível en teleférico a partir do centro, o parque real Hofgarten e o Altstadt empedrado en torno al Goldenes Dachl',
+      area: 'Altstadt, Wilten e o eje da Maria-Theresien-Strasse',
+    },
+    krakow: {
+      personality: 'uma cidade histórica polaca onde o anillo de jardins Planty que rodea o centro histórico a convierte en uno dos destinos mais transitables de Europa Central para os cães',
+      highlight: 'o anillo do parque Planty, os prados de Błonia e os trilhos riberenhos do Vístula',
+      area: 'o Centro histórico, Kazimierz e Podgórze',
+    },
+    lausanne: {
+      personality: 'a Capital Olímpica suiza no lago Lemán — uma das cidades mais naturalmente acogedoras para cães de Europa, onde os cães viajan no metro grátis, recorren o floresta de Sauvabelin de 200 hectáreas e são bem-vindos en prácticamente todos os restaurantes',
+      highlight: 'o Forêt de Sauvabelin, o trilho vitícola UNESCO do Lavaux e o passeio lacustre de Ouchy',
+      area: 'Ouchy (a margens do lago), o bairro creativo do Flon e a Cité medieval',
+    },
+    lecce: {
+      personality: `a « Florencia do sul » — centro storico barroco UNESCO tallado enteramente en pietra leccese color miel, cultura do café tolerante do Salento e praias caninas o ano inteiro en Punta Prosciutto e Frassanito a 30-45 min de carro`,
+      highlight: `a Piazza do Duomo e a Basilica di Santa Croce, o anfiteatro romano da Piazza Sant'Oronzo, e as praias caninas do Salento en Punta Prosciutto e Frassanito`,
+      area: `o centro storico alrededor da Piazza Sant'Oronzo, o bairro Mazzini perto da estação e o residencial Borgo Piave`,
+    },
+    leipzig: {
+      personality: `a capital musical de Sajonia e a cidade de Bach — floresta aluvial Auenwald de 5 500 hectáreas no centro, camino de sirga pet-friendly do Karl-Heine-Kanal, 11 Hundeauslaufzonen valladas e uma Hundestrand o ano inteiro no Cospudener See a 12 min en S-Bahn`,
+      highlight: `o floresta aluvial Auenwald, a praia canina do Cospudener See e o camino de sirga do Karl-Heine-Kanal que conecta Plagwitz com o bairro Karli`,
+      area: `a Innenstadt alrededor do Markt, o Karli (Karl-Liebknecht-Straße) e o bairro creativo de Plagwitz`,
+    },
+    lille: {
+      personality: `uma cidade do norte de Francia de influencia flamenca, de ruas adoquinadas e casas de ladrillo com frontones, sede do primer café canino de Europa e com um centro plano e pedonal onde os cães viajan grátis no metro`,
+      highlight: `o passeio pelas muralhas da Citadelle, o Bois de Boulogne urbano e as esplanadas do Vieux Lille`,
+      area: `o Vieux Lille, Wazemmes e o bairro estudantil de Vauban`,
+    },
+    lisbon: {
+      personality: 'uma cidade soleada e com colinas cuyo clima suave a hace ideal para viajar com animais durante o ano inteiro',
+      highlight: 'o parque forestal de Monsanto, o passeio marítimo de Belém e as explanadas de Alfama',
+      area: 'Chiado, Príncipe Real e Bairro Alto',
+    },
+    liverpool: {
+      personality: `uma cidade marítima Patrimonio da UNESCO, com uma das mayores redes de parques urbanos do noroeste de Inglaterra, tres praias caninas sem trela a 25 minutos en Merseyrail e um corredor de pubs no Baltic Triangle que admite cães com trela o ano inteiro`,
+      highlight: `as pradarias victorianas de Sefton Park (95 hectáreas), Crosby Beach com os Iron Men de Antony Gormley e o passeio marítimo do Royal Albert Dock`,
+      area: `o passeio marítimo do Royal Albert Dock, o Baltic Triangle e o Georgian Quarter alrededor da catedral`,
+    },
+    ljubljana: {
+      personality: 'a capital verde de Europa. Um centro compacto e sem tráfico onde os cães pasean junto aos seus duenhos en esplanadas riberenhas, pelos jardins do castelo e sobre pontes medievais',
+      highlight: 'o Parque Tivoli (sem trela), a colina do castelo de Ljubljana e a vía verde do rio Sava',
+      area: 'o Centro histórico, Trnovo e Šiška',
+    },
+    london: {
+      personality: 'uma das capitales mais naturalmente acogedoras com animais de Europa, onde os cães acompanhan aos seus duenhos en pubs, cafés e a través de vastos parques reales durante o ano inteiro',
+      highlight: 'as zonas sem trela de Hyde Park, Hampstead Heath e o trilho pet-friendly a margens do Támesis',
+      area: 'Islington, Notting Hill e Bermondsey',
+    },
+    lucca: {
+      personality: 'a cidade amurallada toscana perfeitamente conservada, onde 4,2 km de muralhas renacentistas (1545-1650) forman um circuito de passeio canino llano e com hierba sobre as muralhas — sem duda a gran cidade italiana mais pet-friendly',
+      highlight: 'o circuito de 4,2 km sobre as muralhas, o óvalo da Piazza dell\'Anfiteatro e a zona canina do Serchio',
+      area: 'o centro storico amurallado en torno a a Piazza San Michele, o Anfiteatro e a zona da Catedral e a Torre Guinigi',
+    },
+    lucerne: {
+      personality: `uma cidade suiza de cuento de hadas abrazada a um profundo lago alpino, onde pontes cubiertos de madera, esplanadas pet-friendly e cremalleras pet-friendly al Pilatus e al Rigi hacen que as jornadas multi-cima com cão sean sorprendentemente fáciles`,
+      highlight: `o passeio lacustre do Schweizerhofquai, a cresta boscosa do Sonnenberg sobre a cidade e a explanada comunal do Allmend (30 hectáreas)`,
+      area: `o centro histórico (Altstadt), Tribschen e Hirschmatt-Neustadt`,
+    },
+    luxembourg: {
+      personality: 'a única capital europeia com transporte público gratuito para todos (cães incluidos) a partir de 2020, com nueve recintos caninos municipales vallados dentro da cidade e um centro histórico UNESCO que rodea os espectaculares valles do Pétrusse e o Alzette',
+      highlight: 'o Chemin da Corniche, o Parc da Pétrusse com os seus dos recintos caninos, e o floresta do Bambësch de 600 hectáreas',
+      area: 'Ville-Haute, o Grund e Belair',
+    },
+    lyon: {
+      personality: 'a capital gastronómica de Francia, onde os cães são tan comunes como os restaurantes bouchon. Bem-vindos en cafés, a lo largo das margens do rio e en toda a Presqu\'île',
+      highlight: 'o Parque da Tête d\'Or, as margens do Saona e o Ródano, e os trilhos da colina de Fourvière',
+      area: 'a Presqu\'île, Croix-Rousse e Confluence',
+    },
+    maastricht: {
+      personality: `a cidade mais antiga de Países Bajos e capital borgonhona de Limburgo — a cultura do café borgonhón admite cães com trela por defecto, a colina forestal do Sint-Pietersberg se eleva directamente al sur do centro, e 22 losloopgebieden valladas rodean o núcleo medieval`,
+      highlight: `a colina forestal do Sint-Pietersberg, o camino de sirga do Mosa hacia Bélgica e a bahía de banho canino do Pietersplas a 5 km al sur`,
+      area: `o centro medieval alrededor do Vrijthof, o bairro de Wyck na margem derecha do Mosa e o pueblo de Sint Pieter`,
+    },
+    madrid: {
+      personality: 'uma das capitales mais pet-friendly de Europa: Madrid tem mais cães per cápita que casi cualquier otra cidade europeia',
+      highlight: 'o Parque do Retiro, a Casa de Campo e o Parque do oeste sem trela',
+      area: 'Malasanha, Lavapiés e Chamberí',
+    },
+    malaga: {
+      personality: 'uma relajada cidade portuaria andaluza onde os cães acompanhan aos seus duenhos nas esplanadas de museus, en hotéis frente al mar e a través do histórico bairro da Alcazaba',
+      highlight: 'o Parque de Málaga no passeio marítimo, o parque natural dos Montes de Málaga e a zona para cães da praia de Pedregalejo',
+      area: 'o Centro Histórico, Soho e Pedregalejo',
+    },
+    manchester: {
+      personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada elétrico Metrolink e autocarro Bee Network, pubs pet-friendly en cada rua do Northern Quarter, e as 240 hectáreas de Heaton Park a um elétrico do centro',
+      highlight: 'Heaton Park, os jardins botánicos de Fletcher Moss e a senda do Bridgewater Canal',
+      area: 'o Northern Quarter, Ancoats e Castlefield',
+    },
+    marseille: {
+      personality: 'uma cidade mediterrânea banhada pelo sol onde a vida al aire libre, as esplanadas e a naturaleza costera imponen um ritmo claramente pet-friendly',
+      highlight: 'os trilhos do Parque Nacional das Calanques, as ilhas Frioul acessíveis en ferry e os 5 kilómetros da Corniche Kennedy',
+      area: 'os muelles do Vieux-Port, o bairro histórico do Panier e o porto pesquero do Vallon des Auffes',
+    },
+    milan: {
+      personality: 'a capital do disenho de Italia, onde um número creciente de hotéis de lujo e boutique acogen cálidamente a as animais',
+      highlight: 'o Parco Sempione, o distrito dos canales Navigli e os espaciosos jardins da Villa Reale',
+      area: 'Brera, os Navigli e o bairro de disenho da Porta Venezia',
+    },
+    modena: {
+      personality: 'uma cidade emiliana llana e compacta onde a Piazza Grande UNESCO, cuatro parques caninos vallados e as colinas vinícolas do Lambrusco a convierten numa das cidades italianas mais fáciles com cão',
+      highlight: 'o Parco Ducale Estense e o seu zona sgambamento, a gran área sem trela do Parco Novi Sad (>2 ha) e o passeio sob soportales a partir da Piazza Grande até o Mercato Albinelli',
+      area: 'o casco histórico en torno al Duomo e a Ghirlandina, o Parco Ducale al norte do centro e o Parco Novi Sad a norte da estação',
+    },
+    montpellier: {
+      personality: 'uma soleada cidade universitaria do sul de Francia onde os cães acompanhan aos seus duenhos en esplanadas de cafés, no elétrico e pelos passeios a margens do Lez',
+      highlight: 'o recinto sem trela do Parc Méric, o trilho das Berges du Lez e a praia pet-friendly do Grand Travers a 20 km',
+      area: 'o casco medieval de l\'Écusson, a explanada da Place da Comédie e o bairro neoclásico de l\'Antigone',
+    },
+    munich: {
+      personality: 'uma cidade onde os cães são bem-vindos nos jardins de cerveza, no transporte público e no Jardim Inglês. O parque urbano mais grande de Europa',
+      highlight: 'o Englischer Garten, o Olympiapark e as margens do rio Isar',
+      area: 'Schwabing, Maxvorstadt e Haidhausen',
+    },
+    nantes: {
+      personality: 'a cidade mais habitable de Francia, com diez caniparques oficiais, uma red de restaurantes certificados QUALIDOG e um recorrido cultural pet-friendly de 12 km a lo largo do Loira',
+      highlight: 'o caniparque do Parc de Procé, os muelles do Loira e o jardim japonés da Île de Versailles',
+      area: 'o bairro histórico de Bouffay, a Île de Nantes e o bairro de Procé',
+    },
+    naples: {
+      personality: 'a capital caótica e apasionada do sul de Italia — densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
+      highlight: 'o Lungomare Caracciolo, o Bosco di Capodimonte e o Parco Virgiliano de Posillipo',
+      area: 'Chiaia, Posillipo e o centro histórico en torno a Spaccanapoli',
+    },
+    nice: {
+      personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',
+      highlight: 'o Passeio dos Ingleses, o Parque do Mont Boron e a Colina do Castelo',
+      area: 'o Centro histórico (Vieux-Nice), Cimiez e o Porto',
+    },
+    nuremberg: {
+      personality: 'uma cidade franconia medieval onde a cultura Wirtshaus admite cães dentro, dos veterinários de urgências 24h estão disponibles e o floresta do Reichswald (25.000 ha) ofrece espacio sem trela al borde da cidade',
+      highlight: 'os jardins do castelo Kaiserburg, a praia canina do Wöhrder See e os trilhos forestales do Sebalder Reichswald',
+      area: 'a Altstadt en torno al Hauptmarkt e al Kaiserburg, o Stadtpark al norte do centro e o Wöhrder See a leste da Altstadt',
+    },
+    oslo: {
+      personality: 'uma capital escandinava onde a proximidad de fiordos, florestas e a vasta red de trilhos do Oslomarka a convierten en uno dos melhores destinos do continente para os duenhos de cães activos',
+      highlight: 'o floresta do Oslomarka, a península de Bygdøy e o trilho do rio Akerselva',
+      area: 'Frogner, Grünerløkka e Tjuvholmen',
+    },
+    oxford: {
+      personality: 'uma cidade universitaria medieval onde os patios color miel dos colleges estão vetados aos cães mas os prados circundantes, os pubs riberenhos e o Port Meadow sem trela a convierten numa das escapadas urbanas mais fáciles de Inglaterra',
+      highlight: 'o common sem trela de Port Meadow, Christ Church Meadow e os University Parks',
+      area: 'o centro, Jericho e North Oxford',
+    },
+    palma: {
+      personality: 'uma capital insular mediterrânea banhada pelo sol onde as esplanadas, as praias e o clima cálido durante o ano inteiro a convierten numa das cidades mais pet-friendly de Espanha',
+      highlight: 'a praia canina o ano inteiro de É Carnatge, o Parc de sa Riera e os jardins do Castell de Bellver',
+      area: 'Santa Catalina, o Centro histórico (Casc Antic) e Portixol',
+    },
+    palermo: {
+      personality: 'a caótica-barroca capital de Sicilia, onde o centro histórico árabo-normando UNESCO, a Bau-Beach de Mondello o ano inteiro a 11 km al norte e o Parco della Favorita de 400 ha a convierten no destino canino mais generoso do sul de Italia',
+      highlight: 'o cruce barroco de Quattro Canti, a Bau-Beach de Mondello a 11 km al norte e as 400 ha do Parco della Favorita al pie do Monte Pellegrino',
+      area: 'o centro histórico en torno a Quattro Canti e os mercados de Vucciria, Ballarò e Capo, o bairro Kalsa e o passeio marítimo do Foro Italico',
+    },
+    pamplona: {
+      personality: 'a capital do norte de Espanha do pintxo — a cidade de Hemingway e os San Fermines, com o parque da Ciudadela (28 ha) como passeio diario e uma das redes urbanas mais densas en parques de Espanha',
+      highlight: 'o parque da Ciudadela (28 ha) com o seu zona vallada sem trela, o carril verde de 11 km a lo largo do rio Arga e o parque japonés Yamaguchi',
+      area: 'o centro histórico medieval en torno a a Praça do Castelo, a Ciudadela e a Vuelta do Castelo al sur do centro, e o bairro universitario de Iturrama',
+    },
+    paris: {
+      personality: 'uma cidade onde os cães são famosos por ser bem-vindos en cafés, tiendas e muitos restaurantes',
+      highlight: 'o Floresta de Boulogne, o Floresta de Vincennes e cientos de praças pequenhas',
+      area: 'Le Marais, Saint-Germain-des-Prés e Montmartre',
+    },
+    pisa: {
+      personality: 'uma cidade UNESCO toscana compacta unida a as 23.000 hectáreas do parque de San Rossore e a uma praia canina abierta o ano inteiro en Marina di Pisa, todo a veinte minutos do centro',
+      highlight: 'o relva do Campo dos Milagros, o pinar de San Rossore e a praia canina de Marina di Pisa',
+      area: 'Sant\'Antonio, os Lungarni e Borgo Stretto',
+    },
+    porto: {
+      personality: 'uma cidade montanhosa e atmosférica onde os cães forman parte do ritmo diario. En elétricos, en jardins de bares de vino e a lo largo do passeio fluvial do Duero',
+      highlight: 'os Jardins do Palácio de Cristal, a margem do Duero (Ribeira) e o parque de Serralves',
+      area: 'Ribeira, Bonfim e Foz do Douro',
+    },
+    prague: {
+      personality: 'uma cidade compacta e transitable onde os cães são bem-vindos en a maioria dos pubs, bares de vinos e mesmo algunos mercados cubiertos',
+      highlight: 'os parques Stromovka e Letná, e os trilhos do Valle de Nusle junto al rio',
+      area: 'Vinohrady, Žižkov e Malá Strana',
+    },
+    reims: {
+      personality: 'a elegante capital da Champanha, cidade UNESCO onde catedrais góticas, fachadas art déco e avenidas bordeadas de vinhas invitan a largos passeios com tu cão com trela',
+      highlight: 'as Promenades alrededor da Place da République, o boscoso Parc de Champagne e os caminos do canal hacia Cernay',
+      area: `o centro histórico junto a a Catedral Notre-Dame, a Place Drouet d'Erlon e o frondoso bairro do Parc de Champagne`,
+    },
+    reykjavik: {
+      personality: 'a capital mais septentrional do mundo e uma das mais pet-friendly. Com vastos campos de lava, praias geotérmicas e uma cultura que lleva aos cães a todas partes',
+      highlight: 'o valle de Elliðaárdalur, a colina de Öskjuhlíð e o passeio costero do faro de Grótta',
+      area: 'o Centro (Miðborg), Laugardalur e Álftanes',
+    },
+    riga: {
+      personality: 'uma bella cidade Art Nouveau restaurada com uma fuerte cultura báltica de aire libre. Os cães forman parte da vida cotidiana en parques, mercados e a lo largo das margens do Daugava',
+      highlight: 'o parque forestal de Mežaparks, o parque Bastejkalns e o passeio riberenho do Daugava',
+      area: 'o Centro histórico (Vecrīga), o Bairro Art Nouveau e Āgenskalns',
+    },
+    rome: {
+      personality: 'uma cidade onde os cães acompanhan aos seus duenhos a todas partes. A partir do cornetto matutino até o passeio vespertino',
+      highlight: 'os jardins de Villa Borghese, as zonas sem trela do Parco dell\'Appia Antica e os passeios riberenhos do Lungotevere',
+      area: 'Prati, Trastevere e Pigneto',
+    },
+    rotterdam: {
+      personality: 'uma das cidades mais pet-friendly dos Países Bajos, onde as animais viajan grátis no transporte público e a maioria das esplanadas as aceitam por defecto',
+      highlight: 'as 28 hectáreas sem trela de Het Park junto al Euromast, o floresta e lago de Kralingse Bos, e a praia de Maasvlakte',
+      area: 'Middelland a lo largo de Nieuwe Binnenweg, o bairro artístico de Witte de With e os muelles de Veerhaven',
+    },
+    salamanca: {
+      personality: 'uma cidade universitaria castellana de arenisca dorada, declarada Patrimonio UNESCO a partir de 1988, onde os cães com trela se deslizan sob os soportales barrocos e a margem do Tormes é o corazón dos passeios vespertinos',
+      highlight: 'a Praça Mayor e a Rúa Mayor, a margem do Tormes (Salas Bajas) e o Parque dos Jesuitas com o seu zona vallada sem trela',
+      area: 'o centro histórico en torno a a Praça Mayor, a ribera a sul do Ponte Romano e o bairro frondoso junto a a Universidade de Salamanca',
+    },
+    salzburg: {
+      personality: 'uma compacta cidade alpina onde a arquitetura da época de Mozart, os prados ondulados e as montanhas do Salzkammergut circundante crean um escenario mágico para viajar com animais',
+      highlight: 'o parque de Hellbrunn, o trilho riberenho do Salzach e os trilhos da colina do Kapuzinerberg',
+      area: 'o Centro histórico (Altstadt), Schallmoos e Mülln',
+    },
+    'san-sebastian': {
+      personality: 'uma cidade costera vasca onde os cães llegan a ser mais numerosos que os ninhos en algunos bairros e cuyas praias se les abren de outubro a maio',
+      highlight: 'as praias da Concha e Zurriola (outubro–maio), os trilhos do Monte Urgull e o Passeio Nuevo junto al mar',
+      area: 'a Parte Vieja, Gros e o bairro de Antigo perto do Monte Igueldo',
+    },
+    seville: {
+      personality: 'uma das cidades mais pet-friendly de Andalucía. Onde os cães pasean sob os naranjos, acompanhan aos seus duenhos nas esplanadas de bares de tapas e exploran os parques riberenhos',
+      highlight: 'o Parque de María Luisa, o parque Alamillo e o passeio riberenho do Guadalquivir',
+      area: 'Triana, Santa Cruz e O Arenal',
+    },
+    sofia: {
+      personality: 'uma das capitales europeias mais asequibles, com perto de 500 direcciones pet-friendly, dos hospitales de urgências 24/7 e o monte Vitosha de 2.290 metros elevándose directamente a partir da cidade',
+      highlight: 'Borisova Gradina, o Yuzhen Park e os trilhos do Parque Natural do Vitosha',
+      area: 'o Vitosha Boulevard, Lozenets e Boyana',
+    },
+    split: {
+      personality: 'uma relajada cidade costera croata onde o passeio marítimo adriático, o antigo Palácio de Diocleciano e uma actitud local distendida a convierten num destino destacado para os duenhos de animais',
+      highlight: 'o parque forestal da colina Marjan, a zona para cães da praia de Bačvice e o trilho costero hacia Stobreč',
+      area: 'Meje, os alrededores do centro histórico e o bairro de Manuš',
+    },
+    stavanger: {
+      personality: `a tercera cidade de Noruega e puerta de entrada al Lysefjord — centro histórico de madera clasificado UNESCO (Gamle Stavanger), transporte excepcionalmente pet-friendly (buses, comboios, ferries de fiordo grátis), o icónico Preikestolen a 50 min al este, e 35 km de areia atlântica pet-friendly a 15 min al sur`,
+      highlight: `a caminhada do Preikestolen com cão com trela, o crucero do Lysefjord e a praia atlântica de Solastranden a 15 min do centro`,
+      area: `o porto do Vågen e o centro histórico de madera Gamle Stavanger, a colorida rua Fargegata e o bairro do lago Mosvatnet`,
+    },
+    stockholm: {
+      personality: 'uma cidade onde os cães forman parte do tejido da vida cotidiana. En ferries, en cafés e a través das ilhas do archipiélago',
+      highlight: 'a ilha de Djurgården, Hagaparken e a red de trilhos do archipiélago',
+      area: 'Södermalm, Östermalm e Djurgården',
+    },
+    strasbourg: {
+      personality: 'uma das cidades UNESCO mais atmosféricas de Europa — onde a cultura alsaciana, os mercados de Navidad e uma actitud relajada hacia os cães a convierten num destino pet-travel durante o ano inteiro',
+      highlight: 'o Parc de l\'Orangerie, os canales de Petite France e os Jardins des Deux Rives no Rin',
+      area: 'Petite France, o Krutenau e o Bairro Europeu',
+    },
+    stuttgart: {
+      personality: `uma capital do sul de Alemania asentada numa cuenca verde de vinhedos e hayedos, onde Biergärten e Wirtschaften acogen universalmente aos cães e tres zonas valladas sem trela rodean o centro`,
+      highlight: `o cinturón do Schlossgarten, os embalses forestales do Bärensee e o parque en altura do Killesberg`,
+      area: `Mitte, Süd e Bad Cannstatt`,
+    },
+    tallinn: {
+      personality: 'uma cidade medieval de cuento de hadas com uma actitud estonia progresista hacia as animais. Os cães entran en a maioria dos comercios, visitan o centro histórico e exploran libremente os trilhos costeros',
+      highlight: 'o Parque Kadriorg, o trilho costero de Pirita e os passeios pela turbera de Pääsküla',
+      area: 'Kalamaja, Telliskivi e o Centro histórico',
+    },
+    tampere: {
+      personality: `a tercera cidade de Finlândia e capital oficiosa do sauna — transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus valladas, dos praias caninas junto al lago a distancia pedonal do centro, e a icónica cresta de Pyynikki com passeio canino o ano inteiro`,
+      highlight: `a cresta de Pyynikki e o seu café-torre de observación, as praias caninas de Pyynikki e Niihama nos dos lagos, e o passeio dos rápidos do Tammerkoski a través do centro`,
+      area: `o centro entre os rápidos do Tammerkoski e Hämeenkatu, o bairro creativo Finlayson e a cresta lacustre de Pyynikki`,
+    },
+    'the-hague': {
+      personality: 'uma capital neerlandesa elegante onde 11 km de costa do mar do norte, dunas sem trela e cafés pet-friendly estão a um elétrico do centro',
+      highlight: 'Westduinpark e Bosjes van Poot, o floresta Haagse Bos e a finca Clingendael',
+      area: 'o Statenkwartier, o Hofkwartier e Scheveningen Haven',
+    },
+    thessaloniki: {
+      personality: 'a segunda cidade de Grecia e uma das mais pet-friendly — uma cidade portuaria de 2.300 anos onde os cães são bem-vindos en esplanadas, no bairro antigo e a lo largo dos 3,5 km do passeio marítimo Nea Paralia',
+      highlight: 'o parque frente al mar Nea Paralia (com zona canina dedicada), o floresta urbano de Seich Sou e os passeios pelas muralhas bizantinas de Ano Poli',
+      area: 'Ano Poli (Cidade Alta), Ladadika e o Frente Marítimo',
+    },
+    toledo: {
+      personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana — um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
+      highlight: `o mirador do Mirador do Valle com o panorama icónico do skyline, a Senda Ecológica circular a lo largo do Tajo, e o Ponte de San Martín medieval`,
+      area: `o Casco Histórico alrededor da Praça de Zocodover, a Judería com o museu do Greco, e A Vega al otro lado do Ponte de San Martín`,
+    },
+    toulouse: {
+      personality: 'uma cidade relajada do suroeste de ladrillo rosa e esplanadas onde os cães se integran na vida diaria junto al Garona',
+      highlight: 'as margens do Garona, o camino de sirga do Canal du Midi e o parque riberenho da Prairie des Filtres',
+      area: 'a place du Capitole, o bairro de Carmes e a margem izquierda de Saint-Cyprien',
+    },
+    trondheim: {
+      personality: `a tercera cidade de Noruega e capital medieval — catedral de Nidaros UNESCO (a catedral gótica mais septentrional do mundo), bairro de madera colorido de Bakklandet, transporte canino grátis (buses, elétricos, comboios), e 80 km² de floresta urbano de Bymarka a as puertas da cidade`,
+      highlight: `a catedral de Nidaros e o Ponte Viejo (Gamle Bybro), o icónico elétrico histórico Gråkallbanen hacia o floresta de Bymarka, e o ferry a a ilha Munkholmen`,
+      area: `o Midtbyen alrededor da catedral de Nidaros, o bairro de madera de Bakklandet, e o porto de Solsiden`,
+    },
+    turin: {
+      personality: 'a capital barroca do norte de Italia, com 18 km de pórticos cubiertos que resguardan a cães e duenhos da lluvia e do sol estival, mais de 35 zonas caninas valladas, e os Alpes a uma hora para escapadas de fin de semana',
+      highlight: 'as 84 hectáreas do Parco do Valentino, os 10 km de margens do Po e a Basílica de Superga a a que se accede por comboio de cremallera',
+      area: 'San Salvario, o Quadrilatero Romano e o núcleo histórico en torno a Piazza Castello',
+    },
+    utrecht: {
+      personality: 'uma compacta cidade universitaria neerlandesa onde os cães viajan grátis en autocarros e elétricos urbanos, o operador de cruceros pelos canales admite cães sem coste, e tres zonas sem trela — o Máximapark de 300 hectáreas, o Griftpark central e as fincas de Amelisweerd — são acessíveis a partir do casco histórico',
+      highlight: 'o Máximapark en Leidsche Rijn, o Griftpark central e as fincas Amelisweerd & Rhijnauwen a 5 km al sureste',
+      area: 'a Binnenstad e a Oudegracht, Vogelenbuurt e Wittevrouwen',
+    },
+    valencia: {
+      personality: 'uma cidade mediterrânea soleada com 19 km de parque atravesando o seu centro. O antigo cauce do Turia. Que a convierte numa das cidades mais transitables de Europa para os duenhos de cães',
+      highlight: 'o Jardim do Turia (9 km mayormente sem trela), a zona para cães da praia de Malvarrosa e o parque natural da Albufera',
+      area: 'Ruzafa, O Carmen e o Eixample',
+    },
+    venice: {
+      personality: 'uma das cidades mais sorprendentemente pet-friendly de Italia. Os cães viajan en vaporetto, exploran tranquilos sestieri longe das multitudes e são bem-vindos en muitos bacari locales',
+      highlight: 'as praias da ilha do Lido (cães permitidos fora de temporada), os tranquilos canales de Cannaregio e o parque de Sant\'Elena',
+      area: 'Cannaregio, Dorsoduro e Sant\'Elena',
+    },
+    verona: {
+      personality: 'uma cidade romántica declarada Patrimonio da Humanidad pela UNESCO onde os cães acompanhan aos seus duenhos nas esplanadas dos bares de vinos, nos jardins renacentistas e a lo largo das pintorescas margens do Adige',
+      highlight: 'o Giardino Giusti, as margens do Adige e as esplanadas pet-friendly perto do Areia',
+      area: 'Veronetta, o Centro Histórico e o bairro da Piazza delle Erbe',
+    },
+    vienna: {
+      personality: 'uma cidade que se toma en serio a tenencia de animais. Os cães viajan no U-Bahn, entran en museus e são atendidos en cientos de cafés vieneses',
+      highlight: 'o parque do Prater, a ilha do Danubio e o Lainzer Tiergarten',
+      area: 'o 1er distrito, o Naschmarkt e Josefstadt',
+    },
+    vilnius: {
+      personality: 'a capital mais verde da UE e uma das mais acogedoras com cães, onde as animais viajan grátis en todos os autocarros e casi 500 direcciones pet-friendly se concentran no centro histórico UNESCO',
+      highlight: 'o floresta de Vingis, o Bernardine Garden e a colina das Tres Cruces',
+      area: 'o centro histórico, Užupis e Šnipiškės',
+    },
+    warsaw: {
+      personality: 'uma capital europeia en rápida modernización onde os hotéis pet-friendly são cada vez mais a norma e os parques riberenhos ofrecen excelentes passeios',
+      highlight: 'o Parque Łazienki, os bulevares riberenhos do Vístula e o floresta de Kampinos nas afueras',
+      area: 'Śródmieście, Praga e o bairro riberenho de Powiśle',
+    },
+    wroclaw: {
+      personality: `uma das cidades de Polonia mais genuinamente amantes dos cães, onde as esplanadas do colorido Rynek acogen aos cães sem problemas, o transporte público é grátis para todas as animais e umas cuarenta zonas valladas sem trela estão repartidas pela cidade`,
+      highlight: `o Park Szczytnicki e o Pabellón do Centenario, as ilhas do rio Odra e os adoquines iluminados por farolas de gas da Ilha da Catedral al atardecer`,
+      area: `o Centro histórico alrededor do Rynek, o bohemio bairro de Nadodrze e o Bairro das Cuatro Confesiones`,
+    },
+    york: {
+      personality: `uma das cidades inglesas mais fiablemente pet-friendly — um núcleo medieval compacto onde o 80 % dos pubs admite cães com trela, o circuito de 5 km das muralhas é grátis com animal, e os comboios directos LNER conectan com as praias caninas de Filey, Sandsend e Bridlington para excursiones de um dia`,
+      highlight: `o circuito pet-friendly das muralhas, os Museum Gardens junto al rio, e a praia canina abierta o ano inteiro en Filey, a uma hora al este pela línea LNER`,
+      area: `o centro histórico dentro das muralhas, o bairro de Fossgate e a zona de Bishopthorpe Road / Knavesmire`,
+    },
+    zagreb: {
+      personality: `uma capital relajada de época habsbúrgica onde os cães suben no funicular público mais corto do mundo, as esplanadas bordean a rua peatonal Tkalčićeva e o parque Maksimir (316 ha) alberga a principal zona vallada sem trela da cidade`,
+      highlight: `o parque Maksimir, a Cidade Alta medieval e as secciones de praia canina do lago Jarun`,
+      area: `Donji Grad, Gornji Grad e o bairro dos lagos de Maksimir`,
+    },
+    zaragoza: {
+      personality: `a capital de Aragón e quinta cidade de Espanha — anclada pela Basílica do Pilar a margens do Ebro e articulada alrededor de 126 zonas sem trela designadas, uma das redes de parques pet-friendly mais densas de Espanha, além disso do hospital de referencia AniCura Emvet 24/7`,
+      highlight: `o Parque Grande Labordeta de 27 hectáreas, a zona canina vallada do Parque do Tío Jorge e os passeios junto al rio nas Riberas do Ebro`,
+      area: `o Casco Histórico alrededor do Pilar, o frondoso Centro no Passeio de Sagasta e o bairro de tapas da Magdalena`,
+    },
+    zurich: {
+      personality: 'uma cidade que figura entre as mais pet-friendly de Europa. Com zonas dedicadas a cães nas praias, elétricos pet-friendly e passaportes de animais aceites em todo o lado',
+      highlight: 'o passeio lacustre do Zürichsee, a colina do Uetliberg e os trilhos do rio Sihl',
+      area: 'Kreis 4, Zurique Oeste e o Centro histórico',
+    },
+  },
 }
 
 // ─── Cat Intros ──────────────────────────────────────────────────────────────
@@ -2045,6 +2692,32 @@ const catIntrosByLocale: Record<string, Record<string, (d: string, ctx: DestCtx,
       `"Perros gratis" no es solo un eslogan de marketing en los establecimientos a continuación. Está respaldado por políticas confirmadas sin excepciones por peso o raza en la mayoría de los casos. En ${d}, ${ctx.personality}, esta política encaja de forma natural en la cultura de hospitalidad local.`,
     ],
   },
+  pt: {
+    'pet-friendly': (d, ctx, n) => [
+      `${d} é ${ctx.personality}. Com ${n} establecimientos pet-friendly cuidadosamente seleccionados, encontrará opciones a partir de boutiques de presupuesto até suites de cinco estrellas. Todos confirmados para recibir ao seu cão sem as habituales restricciones ocultas.`,
+      `Lo que hace especial a ${d} para os duenhos de cães é a infraestructura mais allá da habitación: ${ctx.highlight} estão al alcance cómodo dos alojamentos que aparecen a continuación. En ${ctx.area}, os cães forman parte da vida cotidiana, e os hotéis listados han sido elegidos precisamente porque abrazan esa cultura en lugar de simplemente tolerarla.`,
+    ],
+    'cat-friendly': (d, ctx, n) => [
+      `Viajar com um gato sigue siendo mais especializado que viajar com um cão. Mas ${d} é ${ctx.personality}, e o seu sector hotelero está empezando a reflejarlo. Estes ${n} hotéis que aceitam gatos han sido seleccionados porque van mais allá de uma política de tolerancia mínima para dar uma bienvenida activa aos huéspedes felinos.`,
+      `Os duenhos de gatos que visiten ${d} apreciarán que os hotéis a continuación ofrecen habitaciones tranquilas, fácil acesso a a planta baja o al ascensor, e personal formado para hacer o check-in cómodo com um transportadora. Os melhores proporcionan mantas e espacios para o arenero sem que usted tenga que pedirlo.`,
+    ],
+    'beach-access': (d, ctx, n) => [
+      `Combinar o acesso a a praia com uma estadia pet-friendly é mais difícil de lo que parece: no todos os hotéis costeros admiten cães, e muitas praias restringen o acesso de cães segundo a temporada. Estes ${n} establecimientos en ${d} são a excepción. Confirmados para ofrecer tanto proximidad al mar como uma auténtica bienvenida para o seu animal.`,
+      `A costa de ${d}. Incluida ${ctx.highlight}. É a mais acogedora com as animais en primavera (abril-maio) e outono (setembro-outubro), quando se levantan as restricciones estacionales en muitas praias. Os hotéis a continuación se han elegido no só por o seu proximidad al mar, sino por serviços como duchas exteriores, esplanadas com sombra e personal que conoce os puntos de praia pet-friendly locales.`,
+    ],
+    'near-parks': (d, ctx, n) => [
+      `Um hotel cercano a zonas verdes transforma uma estadia na cidade com um cão. Estes ${n} establecimientos en ${d} estão todos a uma cómoda distancia a pé de ${ctx.highlight}. Os passeios matutinos e vespertinos são um placer, no um rompecabezas logístico.`,
+      `En ${ctx.area}, as zonas verdes estão entretejidas no tejido urbano. Os hotéis de esta lista han sido elegidos específicamente por o seu acesso a pé a zonas sem trela, trilhos arbolados e o ambiente de bairro que hace que uma estadia na cidade com um cão sea genuinamente agradable.`,
+    ],
+    'luxury': (d, ctx, n) => [
+      `A hospitalidad de cinco estrellas e a política de admisión de animais raramente aparecían na misma frase. ${d} está cambiando eso. Estes ${n} hotéis de lujo han ido mais allá de uma simple cláusula de "animais pequenhas admitidas" para ofrecer auténticas experiencias de alto nivel para usted e o seu animal: kits de bienvenida, camas para animais na habitación, golosinas no serviço de cama e serviços de passeio com conserje.`,
+      `Alojarse en uno dos establecimientos de lujo pet-friendly de ${d} significa aceder a lo melhor de ${ctx.area} a partir de uma base que trata ao seu animal como um huésped valioso. Varios dos hotéis a continuación têm menús dedicados para animais, e todos podem gestionar reservas en restaurantes locales pet-friendly a petición.`,
+    ],
+    'dogs-stay-free': (d, ctx, n) => [
+      `As tarifas por animais podem anhadir 15-50 € por noite ao seu factura do hotel. Um gasto significativo a lo largo de uma semana. Estes ${n} hotéis en ${d} han eliminado ese coste por completo: o seu cão se aloja grátis, sem cargos ocultos de limpieza ni depósitos.`,
+      `"Cães grátis" no é só um eslogan de marketing nos establecimientos a continuación. Está respaldado por políticas confirmadas sem excepciones por peso o raza en a maioria dos casos. En ${d}, ${ctx.personality}, esta política encaja de forma natural na cultura de hospitalidad local.`,
+    ],
+  },
 }
 
 // ─── Intros ──────────────────────────────────────────────────────────────────
@@ -2056,7 +2729,7 @@ export function generateIntro(
   hotelCount: number,
   locale: string = 'en'
 ): string[] {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug] ?? {
     personality: 'a popular European destination',
@@ -2101,7 +2774,7 @@ export function generateFaqs(
   hotels: Array<{ name: string; petFee: number; petPolicy: string; stars: number }>,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const { free } = petFeeStats(hotels)
   const topHotel = hotels[0]?.name ?? (
     l === 'fr' ? 'l\'hôtel le mieux noté' :
@@ -2424,6 +3097,50 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
       { n: 5, title: 'Deje una reseña detallada mencionando la política de mascotas', text: 'Después de su estancia, una reseña específica mencionando la experiencia dog-friendly ayuda a futuros dueños de mascotas a tomar decisiones con confianza. Y anima a los hoteles a mantener o mejorar sus políticas.' },
     ],
   },
+  pt: {
+    'pet-friendly': [
+      { n: 1, title: 'Reserve o tipo de habitación para animais', text: 'No todas as habitaciones de um hotel pet-friendly admiten animais. Pida específicamente o tipo de habitación \'pet-friendly\' al reservar. Normalmente tem fácil acesso al exterior e suelos duros en lugar de moqueta.' },
+      { n: 2, title: 'Verifique o límite de peso antes de chegar', text: 'Os hotéis costumam indicar um peso máximo do cão (10, 20 o 25 kg). Si o seu cão está no límite, llame com antelación. As políticas são a veces flexibles fora de temporada alta.' },
+      { n: 3, title: 'Pida recomendaciones locales para pasear', text: 'O personal de conserjería dos hotéis de esta lista sabe exactamente qué parques são sem trela, qué cafés ponen cuencos de água e qué ruas são mais tranquilas para cães ansiosos.' },
+      { n: 4, title: 'Lleve um passaporte europeu para animais', text: 'Si viaja de carro, os passaportes europeus para animais são obrigatórios para cruzar fronteras. Asegúrese de que as vacunas contra a rabia estén ao dia al menos 21 dias antes do viaje.' },
+      { n: 5, title: 'Confirme a política por correo electrónico', text: 'Tras reservar, envíe um breve correo confirmando o nombre, raza e peso do seu cão. Esto crea um registro escrito e elimina cualquier ambigüedad no check-in.' },
+    ],
+    'cat-friendly': [
+      { n: 1, title: 'Solicite uma habitación tranquila alejada do ruido da rua', text: 'Os gatos são sensibles al ruido. Pida uma habitación interior o num piso alto. Cuanto menos tráfico e ruido de ascensor, mais tranquilo estará o seu gato.' },
+      { n: 2, title: 'Mantenga ao seu gato no transportadora durante o check-in', text: 'O ajetreado vestíbulo de um hotel pode ser abrumador. Mantenga ao seu gato seguro até que esté na habitación. A maioria dos hotéis le llevará rápidamente al ascensor si menciona que trae um gato.' },
+      { n: 3, title: 'Traiga objetos com olores familiares do hogar', text: 'Uma manta o juguete de casa reduce significativamente a ansiedad num entorno nuevo. O olor do hogar ayuda aos gatos a adaptarse en horas en lugar de dias.' },
+      { n: 4, title: 'Bloquee grietas e escondites de escape primero', text: 'Antes de dejar salir ao seu gato do transportadora, cierre as ventanas, revise detrás dos muebles grandes e tape cualquier hueco de ventilación. Um repaso minucioso de 10 minutos evita incidentes de escapadas.' },
+      { n: 5, title: 'Avise a a limpieza para que llame e espere', text: 'Pida en recepción que senhalen o seu habitación para que a limpieza llame fuerte e espere antes de entrar. Esto evita situaciones de escapada accidental pela puerta.' },
+    ],
+    'beach-access': [
+      { n: 1, title: 'Compruebe as normas da praia para cães antes de ir', text: 'Muitas praias europeias prohíben os cães de junho a setembro, o restringen o horario a antes das 9h e después das 19h. Pida al hotel um mapa actualizado dos acessos a a praia permitidos para cães.' },
+      { n: 2, title: 'Enjuague ao seu cão después do água de mar', text: 'O água salada irrita as patas e a piel com a exposición repetida. A maioria dos hotéis com acesso a praia de esta lista têm duchas exteriores: úselas después de cada banho e seque bien as patas.' },
+      { n: 3, title: 'Cuidado com o calor da areia en verão', text: 'A areia seca en verão pode alcanzar 50-60°C e quemar gravemente as almohadillas. Pruebe com a palma do seu mano antes de pasear ao seu cão por areia sem sombra.' },
+      { n: 4, title: 'Lleve sombra', text: 'Mesmo nas praias pet-friendly, raramente se alquilan sombrillas. Uma sombrilla de praia portátil o a do hotel (solicite prestada uma) mantiene ao seu cão cómodo durante sesiones prolongadas na praia.' },
+      { n: 5, title: 'Tenga água fresca disponible en todo momento', text: 'O água salada da sed aos cães e pode causar vómitos si se ingiere en cantidad. Lleve um cuenco plegable e al menos 1,5 L de água dulce por dia na praia.' },
+    ],
+    'near-parks': [
+      { n: 1, title: 'Pida o mapa de passeios do hotel', text: 'Os melhores hotéis pet-friendly perto de parques têm mapeadas as zonas sem trela, os puntos de recarga de água e as esplanadas de cafés pet-friendly cercanas. Pregunte no check-in.' },
+      { n: 2, title: 'Vaya temprano para a melhor experiencia no parque', text: 'Os parques estão mais tranquilos antes das 9h. Menos ciclistas, menos ninhos, mais espacio. As manhanas tempranas também são mais frescas en verão e melhores para as razas enérgicas.' },
+      { n: 3, title: 'Conozca as normas do seu parque sem trela', text: 'As normas sem trela varían de zona en zona dentro do mismo parque. Busque senhales o pregunte al hotel. Ser sorprendido com um cão sem trela numa zona de trela obrigatória pode suponer uma multa en algunas cidades.' },
+      { n: 4, title: 'Lleve cuencos plegables para comida e água', text: 'Os cuencos de silicona ligeros pesan casi nada e hacen que as paradas no parque sean cómodas para o seu cão sem cargar com equipamiento pesado.' },
+      { n: 5, title: 'Localice o veterinário mais cercano ao seu hotel', text: 'Pida al hotel que anote a clínica veterinária 24h mais cercana. A mayoría nunca a necesitará, mas conocer a direção elimina o pánico si ocurre algo.' },
+    ],
+    'luxury': [
+      { n: 1, title: 'Solicite o kit de bienvenida para animais com antelación', text: 'A maioria dos hotéis de lujo ofrecen kits de bienvenida (cama, cuenco, chuches, juguete) mas o stock é limitado. Solicítelo al confirmar o seu reserva. No a a llegada. Para garantizar o seu disponibilidad.' },
+      { n: 2, title: 'Pregunte pelo serviço de conserje para animais', text: 'Varios hotéis de cinco estrellas de esta lista ofrecen conserjes dedicados a animais: paseadores de cães, menús de habitación para animais, arreglos de peluquería e referencias veterinárias. Pregunte qué está incluido antes de chegar.' },
+      { n: 3, title: 'Reserve uma suite compatible com animais en lugar de uma habitación estándar', text: 'As suites de lujo costumam tener melhor insonorización, mais espacio no suelo para o seu animal e esplanadas privadas. Merece a pena o upgrade para uma estadia de varias noites com um animal.' },
+      { n: 4, title: 'Confirme a política do spa', text: 'A maioria dos hotéis de lujo requieren que o seu animal permanezca na habitación mientras usa as instalaciones do spa. Pregunte sobre os serviços de cuidado. Muitos podem organizar um paseador de cães que coincida com o seu tratamento.' },
+      { n: 5, title: 'Agradezca al personal atento com as animais', text: 'A camarera que hace um esfuerzo extra por no molestar a um gato dormido, e o botones que acompanha ao seu cão al ascenseur. Pequenhos gestos de agradecimiento contribuyen en gran medida a garantizar um serviço pet-friendly excecional durante toda o seu estadia.' },
+    ],
+    'dogs-stay-free': [
+      { n: 1, title: 'Obtenga a política sem cargo por escrito', text: 'Reserve directamente no hotel o a través de Booking.com e asegúrese de que o correo de confirmación indique claramente \'sem cargo por animal\'. As capturas de pantalla da política no momento da reserva são útiles si hay uma disputa al hacer o check-out.' },
+      { n: 2, title: 'Entienda qué cubre \'grátis\'', text: '\'Cães grátis\' significa sem recargo de alojamento. No que os danhos sean gratuitos. Os hotéis aún podem cobrar por danhos documentados causados por o seu animal. Uma estadia responsable protege a todos.' },
+      { n: 3, title: 'Traiga o seu propia cama o manta para o cão', text: 'Mesmo os hotéis sem cargo no sempre proporcionan uma cama para cães. Traer uma manta familiar de casa mantiene ao seu cão cómodo e protege o mobiliario do hotel do pelo e as huellas de patas.' },
+      { n: 4, title: 'Compare o coste por noite en varias noites', text: 'Um hotel com uma tarifa de 20 €/estadia pode ser mais barato que um hotel \'cães grátis\' si a tarifa base da habitación é significativamente mais baja. Compare sempre o coste total a lo largo da duración do seu estadia.' },
+      { n: 5, title: 'Deje uma resenha detallada mencionando a política de animais', text: 'Después do seu estadia, uma resenha específica mencionando a experiencia pet-friendly ayuda a futuros duenhos de animais a tomar decisiones com confianza. E anima aos hotéis a mantener o mejorar os seus políticas.' },
+    ],
+  },
 }
 
 // ─── Why Section ─────────────────────────────────────────────────────────────
@@ -2458,6 +3175,14 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
     'luxury':         (d, ctx) => `Los establecimientos de lujo de ${ctx.area} han desarrollado paquetes completos de conserjería para mascotas. Kits de bienvenida, menús en habitación, reservas de paseadores. Porque sus huéspedes lo exigieron.`,
     'dogs-stay-free': (d) =>      `Las políticas sin cargo aquí están confirmadas y son válidas todo el año. No son promociones estacionales ni con restricciones de peso. Haciendo de ${d} un destino fiablemente económico para los dueños de mascotas.`,
   },
+  pt: {
+    'pet-friendly':   (d, ctx) => `Os hotéis seleccionados estão específicamente en ${ctx.area}, onde a infraestructura para animais é mais densa e os restaurantes locales ofrecen habitualmente cuencos de água e acesso a esplanadas.`,
+    'cat-friendly':   (d) =>      `As habitaciones para gatos en ${d} costumam ser unidades tranquilas en pisos superiores com acesso fiable al ascensor. Características clave para mantener aos huéspedes felinos tranquilos.`,
+    'beach-access':   (_d) =>     `Os puntos de praia aptos para cães perto de estes hotéis são acessíveis en horarios razonables. Sem madrugar. Durante a mayor parte do ano, lo que facilita muito a planificación.`,
+    'near-parks':     (d, ctx) => `Os hotéis de esta lista estão todos situados para chegar a as zonas sem trela de ${ctx.highlight} en menos de 10 minutos a pé. Sem cruzar ruas concurridas antes do passeio matutino.`,
+    'luxury':         (d, ctx) => `Os establecimientos de lujo de ${ctx.area} han desarrollado paquetes completos de conserjería para animais. Kits de bienvenida, menús en habitación, reservas de paseadores. Porque os seus huéspedes lo exigieron.`,
+    'dogs-stay-free': (d) =>      `As políticas sem cargo aqui estão confirmadas e são válidas o ano inteiro. No são promociones estacionales ni com restricciones de peso. Haciendo de ${d} um destino fiablemente económico para os duenhos de animais.`,
+  },
 }
 
 const bestSeasonByLocale: Record<string, Record<string, string>> = {
@@ -2473,6 +3198,10 @@ const bestSeasonByLocale: Record<string, Record<string, string>> = {
     'dog-friendly': 'primavera & otoño', 'cat-friendly': 'todo el año', 'beach-access': 'primavera & principios de otoño',
     'near-parks': 'primavera & otoño', 'luxury': 'todo el año', 'dogs-stay-free': 'todo el año',
   },
+  pt: {
+    'pet-friendly': 'primavera & outono', 'cat-friendly': 'o ano inteiro', 'beach-access': 'primavera & principios de outono',
+    'near-parks': 'primavera & outono', 'luxury': 'o ano inteiro', 'dogs-stay-free': 'o ano inteiro',
+  },
 }
 
 export function generateWhy(
@@ -2481,7 +3210,7 @@ export function generateWhy(
   catSlug: string,
   locale: string = 'en'
 ): WhySection {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
     personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : 'a popular European destination',
     highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : 'local parks and green spaces',
@@ -2556,6 +3285,14 @@ const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimo
     'luxury':         (d) => ({ emoji: '✨', text: `Nos dimos el capricho de uno de los hoteles de lujo pet-friendly de ${d} para nuestro aniversario. El hotel había preparado un kit de bienvenida para nuestro Cocker. Una cama de verdad, un cuenco de cerámica y auténticas galletas para perros de una panadería local. El conserje le paseó mientras estábamos en el spa. Valió cada euro.`, attribution: ' Reseña verificada, cliente lujo' }),
     'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Evitaba las escapadas urbanas con Bruno por las tarifas acumuladas por mascotas. Suman 200 € o más en una semana. Alojarse en un hotel confirmado sin cargo en ${d} eliminó esa fricción. La misma calidad de estancia, mucho mejor valor. Ahora es nuestro enfoque de reserva por defecto.`, attribution: ' Reseña verificada, estancia sin cargo' }),
   },
+  pt: {
+    'pet-friendly':   (d) => ({ emoji: '🐕', text: `Pasamos cinco noites en ${d} com nuestro Labrador de 30 kg, Max. Encontrar um hotel que realmente le diera a bienvenida. No só que le «permitiera». Transformó nuestras vacaciones. O conserje tenía um mapa dos parques locales listo no check-in e sabía exactamente qué cafés ponían cuencos de água. Ya hemos reservado de nuevo para a primavera.`, attribution: ' Resenha verificada, estadia pet-friendly' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Estaba realmente nerviosa ante a idea de levar a Simone (mi Bengal) a um hotel na cidade. O personal en ${d} foi genial. Haviam preparado um rincón da habitación com espacio para o arenero e toallas dobladas para bloquear as rendijas do radiador. Se instaló en dos horas. No dudaría en volver.`, attribution: ' Resenha verificada, duenha de gato' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `Elegimos ${d} precisamente porque o hotel estaba a cinco minutos de um tramo de praia apto para cães. Nuestro Vizsla pasó cuatro horas no mar cada dia e o hotel tenía duchas exteriores para que nunca arrastráramos areia pelo vestíbulo. Configuración perfeita. Volvemos cada verão.`, attribution: ' Resenha verificada, estadia praia' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Lo que me convenció de ${d} foi a proximidad. Estábamos no parque a seis minutos de dejar a habitación. Nuestro Galgo de rescate necesita passeios largos e tranquilos e as zonas sem trela perto do hotel eran ideales. O personal conocía cada buena ruta sem que tuviéramos que preguntar.`, attribution: ' Resenha verificada, estadia parque' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `Nos dimos o capricho de uno dos hotéis de lujo pet-friendly de ${d} para nuestro aniversario. O hotel havia preparado um kit de bienvenida para nuestro Cocker. Uma cama de verdad, um cuenco de cerámica e auténticas galletas para cães de uma panadería local. O conserje le paseó mientras estábamos no spa. Valió cada euro.`, attribution: ' Resenha verificada, cliente lujo' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Evitaba as escapadas urbanas com Bruno pelas tarifas acumuladas por animais. Suman 200 € o mais numa semana. Alojarse num hotel confirmado sem cargo en ${d} eliminó esa fricción. A misma calidad de estadia, muito melhor valor. Ahora é nuestro enfoque de reserva por defecto.`, attribution: ' Resenha verificada, estadia sem cargo' }),
+  },
 }
 
 export function generateTestimonial(
@@ -2563,13 +3300,13 @@ export function generateTestimonial(
   catSlug: string,
   locale: string = 'en'
 ): Testimonial | null {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
   return fn ? fn(destName) : null
 }
 
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']
   const tips = tipsMap[catSlug]
   if (tips) return tips
@@ -2620,7 +3357,7 @@ export function generateDestFaqs(
   hotelCount: number,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
   const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : 'its parks and green spaces')
 
@@ -2685,7 +3422,7 @@ export function generateDestFaqs(
 }
 
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
-  const l = locale === 'fr' || locale === 'es' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug]
   if (!ctx) return ''

@@ -111,6 +111,7 @@ const TARGETS = [
   { slug: 'cascais', query: 'Cascais Portugal marina old town Cidadela fortress Atlantic seafront Estoril coast panorama sunset' },
   { slug: 'funchal', query: 'Funchal Madeira Portugal harbour bay marina cable car amphitheatre Atlantic panorama sunset' },
   { slug: 'bari', query: 'Bari Italy Old Town Bari Vecchia Basilica San Nicola Lungomare Adriatic sea harbour panorama sunset' },
+  { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

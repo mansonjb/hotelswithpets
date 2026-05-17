@@ -3989,6 +3989,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  catania: {
+    history: {
+      fr: `Catane, deuxième ville de Sicile avec environ 300 000 habitants (zone métropolitaine 1,1 million), s'étend au pied du volcan Etna, dont les coulées de lave ont littéralement façonné son architecture. Fondée par les Grecs au VIIIᵉ siècle av. J.-C. sur la côte ionienne, dévastée par le séisme de 1693, elle a été reconstruite en pierre de lave noire et calcaire blond dans un style baroque tardif, aujourd'hui classé au patrimoine mondial de l'UNESCO. Côté chiens, l'ordonnance municipale impose la laisse de 1,5 m dans tous les espaces publics, une muselière à disposition (à mettre sur demande dans les transports) et oblige les maîtres à porter une bouteille d'eau et de savon dilué pour rincer l'urine sur le trottoir, une particularité italienne strictement contrôlée. La ville dispose de trois hôpitaux vétérinaires 24h/24, d'une plage canine municipale ouverte à l'année sur la Plaja et de l'une des très rares aree cani clôturées du sud de l'Italie. La culture café-terrasse y est solidement dog-friendly, surtout dans le centro storico autour de la Piazza Duomo et de la Via Etnea.`,
+      en: `Catania, Sicily's second-largest city with around 300,000 inhabitants (metropolitan area 1.1 million), sits at the foot of Mount Etna, whose lava flows have literally shaped its architecture. Founded by Greek colonists in the 8th century BC on the Ionian coast and levelled by the 1693 earthquake, it was rebuilt in black lava stone and pale limestone in a late-Baroque style, today a UNESCO World Heritage Site. On dogs, the city's animal welfare ordinance requires a 1.5 m leash in every public space, a muzzle on hand (to be applied on request in public transport) and forces owners to carry a bottle of water and diluted soap to rinse urine off pavements, an Italian quirk that is actively enforced. The city has three 24-hour veterinary hospitals, a municipal dog beach open year-round on the Plaja and one of the very few fenced aree cani in southern Italy. The café-terrace culture is solidly dog-friendly, especially in the centro storico around Piazza Duomo and Via Etnea.`,
+      es: `Catania, segunda ciudad de Sicilia con unos 300.000 habitantes (área metropolitana 1,1 millones), se asienta al pie del Etna, cuyas coladas de lava han modelado literalmente su arquitectura. Fundada por colonos griegos en el siglo VIII a.C. en la costa jónica y arrasada por el terremoto de 1693, fue reconstruida en piedra de lava negra y caliza clara en estilo barroco tardío, hoy Patrimonio de la UNESCO. En cuanto a los perros, la ordenanza municipal exige correa de 1,5 m en todo espacio público, bozal a mano (que debe ponerse si lo pide el revisor en el transporte) y obliga al dueño a llevar una botella de agua y jabón diluido para enjuagar la orina de la acera, una peculiaridad italiana que se controla. La ciudad cuenta con tres hospitales veterinarios 24 horas, una playa canina municipal abierta todo el año en la Plaja y una de las muy escasas aree cani valladas del sur de Italia. La cultura de bar y terraza es claramente pet-friendly, sobre todo en el centro histórico en torno a Piazza Duomo y Via Etnea.`,
+      pt: `Catania, segunda cidade da Sicília com cerca de 300.000 habitantes (área metropolitana 1,1 milhões), assenta ao pé do Etna, cujas coladas de lava modelaram literalmente a sua arquitectura. Fundada por colonos gregos no século VIII a.C. na costa jónica e arrasada pelo terramoto de 1693, foi reconstruída em pedra de lava negra e calcário claro num estilo barroco tardio, hoje Património da UNESCO. Em relação aos cães, a ordenança municipal exige trela de 1,5 m em todo o espaço público, açaime à mão (a colocar se o revisor o pedir no transporte) e obriga o dono a levar uma garrafa de água e sabão diluído para enxaguar a urina do passeio, uma particularidade italiana que é fiscalizada. A cidade tem três hospitais veterinários 24 horas, uma praia canina municipal aberta o ano inteiro na Plaja e uma das raras aree cani vedadas do sul de Itália. A cultura de café e esplanada é claramente pet-friendly, sobretudo no centro histórico em torno da Piazza Duomo e da Via Etnea.`,
+    },
+    sights: [
+      {
+        name: 'Villa Bellini',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Sept hectares de jardin urbain du XIXᵉ siècle qui s'étire en pente depuis la Via Etnea, avec statues, palmiers, fontaines, belvédère panoramique et un calendrier composé de fleurs. Chiens en laisse acceptés sur tous les chemins ; les terrasses hautes offrent une vue sur l'Etna par temps clair.`,
+          en: `Seven hectares of 19th-century urban garden climbing the slope from Via Etnea, with statues, palms, fountains, a panoramic viewpoint and a calendar made out of flowers. Leashed dogs welcome on every path; the upper terraces give an Etna view on a clear day.`,
+          es: `Siete hectáreas de jardín urbano decimonónico que asciende desde Via Etnea, con estatuas, palmeras, fuentes, un mirador panorámico y un calendario hecho de flores. Perros con correa admitidos en todos los caminos; las terrazas altas dan una vista al Etna en días claros.`,
+          pt: `Sete hectares de jardim urbano do século XIX que sobe desde a Via Etnea, com estátuas, palmeiras, fontes, um miradouro panorâmico e um calendário feito de flores. Cães com trela admitidos em todos os caminhos; as esplanadas altas dão uma vista do Etna em dias claros.`,
+        },
+      },
+      {
+        name: 'Piazza del Duomo',
+        emoji: '🐘',
+        petFriendly: true,
+        desc: {
+          fr: `Place baroque emblématique au cœur de Catane, avec la Fontana dell'Elefante en lave noire (symbole de la ville), la cathédrale de Sant'Agata et la fontaine de l'Amenano. Place ouverte 24h/24, parfaite en laisse ; intérieur de la cathédrale fermé aux chiens non d'assistance.`,
+          en: `Baroque centrepiece square at the heart of Catania, with the black-lava Fontana dell'Elefante (the city's symbol), the cathedral of Sant'Agata and the Amenano fountain. The square is open 24/7 and perfect on a leash; the cathedral interior is closed to non-assistance dogs.`,
+          es: `Plaza barroca emblemática en el corazón de Catania, con la Fontana dell'Elefante en lava negra (símbolo de la ciudad), la catedral de Sant'Agata y la fuente del Amenano. La plaza abre 24h y es perfecta con correa; el interior de la catedral está cerrado a perros que no sean de asistencia.`,
+          pt: `Praça barroca emblemática no coração de Catania, com a Fontana dell'Elefante em lava negra (símbolo da cidade), a catedral de Sant'Agata e a fonte do Amenano. A praça abre 24h e é perfeita com trela; o interior da catedral está fechado a cães que não sejam de assistência.`,
+        },
+      },
+      {
+        name: 'Pescheria',
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `Le marché aux poissons historique de Catane, juste derrière la Piazza Duomo, en activité depuis des siècles, où l'on déambule entre les étals jusque vers 14h. En extérieur, chiens en laisse acceptés ; allez-y tôt pour éviter la foule et la chaleur, et tenez le chien court entre les caisses de glace.`,
+          en: `Catania's historic fish market just behind Piazza Duomo, running for centuries, where you wander the stalls until around 14:00. Outdoor, leashed dogs welcome; go early to dodge the crowds and the heat, and keep the dog short between the ice boxes.`,
+          es: `El mercado histórico del pescado de Catania, justo detrás de Piazza Duomo, en funcionamiento desde hace siglos, donde uno deambula entre los puestos hasta cerca de las 14:00. Al aire libre, perros con correa admitidos; ve temprano para evitar la multitud y el calor, y lleva al perro corto entre las cajas de hielo.`,
+          pt: `O mercado histórico do peixe de Catania, mesmo atrás da Piazza Duomo, em funcionamento há séculos, onde se passeia entre as bancas até cerca das 14:00. Ao ar livre, cães com trela admitidos; vai cedo para evitar a multidão e o calor, e segura o cão curto entre as caixas de gelo.`,
+        },
+      },
+      {
+        name: 'Via Crociferi',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Courte rue piétonne pavée en pierre de lave bordée de quatre églises et couvents baroques alignés, considérée comme l'axe le plus photogénique du baroque catanais. Toujours ouverte, gratuite, facile en laisse ; intérieur des églises non admis aux chiens.`,
+          en: `Short pedestrian street paved in lava stone lined with four Baroque churches and convents in a row, considered the most photogenic axis of Catania Baroque. Always open, free, easy on a leash; church interiors do not admit dogs.`,
+          es: `Corta calle peatonal empedrada en lava flanqueada por cuatro iglesias y conventos barrocos en hilera, considerada el eje más fotogénico del barroco de Catania. Siempre abierta, gratuita, fácil con correa; el interior de las iglesias no admite perros.`,
+          pt: `Curta rua pedonal empedrada em lava ladeada por quatro igrejas e conventos barrocos em fila, considerada o eixo mais fotogénico do barroco de Catania. Sempre aberta, gratuita, fácil com trela; o interior das igrejas não admite cães.`,
+        },
+      },
+      {
+        name: 'Castello Ursino',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse du XIIIᵉ siècle de Frédéric II, encore dotée de ses quatre tours d'angle et de son enceinte, que les coulées de lave de 1669 ont éloignée de la mer. Place extérieure ouverte aux chiens en laisse, idéale pour le tour de l'édifice ; Museo Civico à l'intérieur fermé aux chiens.`,
+          en: `13th-century fortress built by Frederick II, still showing its four corner towers and curtain walls after the 1669 lava flows moved the shoreline inland. The exterior plaza is open to leashed dogs and great for a walk around the building; the Museo Civico inside is closed to dogs.`,
+          es: `Fortaleza del siglo XIII construida por Federico II, que conserva sus cuatro torres de esquina y muralla tras las coladas de lava de 1669 que alejaron la costa. La plaza exterior admite perros con correa y es perfecta para rodear el edificio; el Museo Civico del interior no admite perros.`,
+          pt: `Fortaleza do século XIII construída por Frederico II, que conserva as suas quatro torres de canto e muralha após as coladas de lava de 1669 terem afastado a costa. A praça exterior admite cães com trela e é perfeita para dar a volta ao edifício; o Museo Civico do interior não admite cães.`,
+        },
+      },
+      {
+        name: 'Plaja & Lido Azzurro Dog Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Longue plage de sable noir au sud du centre, à 15 min en bus depuis la Piazza Duomo, avec la Spiaggia Libera n.2 (gratuite) et le Lido Azzurro Dog Beach (payant, Viale Kennedy 11) où le chien profite de transats, eau fraîche, douche dédiée et zone de jeu sans laisse. Puce et carnet de vaccination exigés à l'entrée des lidos privés.`,
+          en: `A long black-sand beach south of the centre, 15 minutes by bus from Piazza Duomo, with the free public Spiaggia Libera n.2 and the paid Lido Azzurro Dog Beach (Viale Kennedy 11) where dogs get sun loungers, fresh water, a dedicated dog shower and a fenced off-leash play zone. Microchip and vaccination booklet required at the gate of private lidos.`,
+          es: `Larga playa de arena negra al sur del centro, a 15 minutos en bus desde Piazza Duomo, con la pública gratuita Spiaggia Libera n.2 y el Lido Azzurro Dog Beach (Viale Kennedy 11, de pago) donde el perro disfruta de hamacas, agua fresca, ducha dedicada y zona vallada sin correa. Microchip y cartilla de vacunación obligatorios en la entrada de los lidos privados.`,
+          pt: `Longa praia de areia negra a sul do centro, a 15 minutos de autocarro da Piazza Duomo, com a Spiaggia Libera n.2 pública e gratuita e o Lido Azzurro Dog Beach (Viale Kennedy 11, pago) onde o cão tem espreguiçadeiras, água fresca, duche dedicado e zona vedada sem trela. Microchip e cartilla de vacinação exigidos à entrada dos lidos privados.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Ordonnance municipale : laisse de 1,5 m maximum dans tous les parcs et trottoirs, muselière à portée pour les races moyennes/grandes dans les transports, et obligation de porter une bouteille d'eau et de savon dilué pour rincer l'urine sur les pavés.`,
+        `Plages : seules la Spiaggia Libera n.2 municipale et les lidos privés dog-friendly (Lido Azzurro en tête) acceptent les chiens en été ; ailleurs sur la Plaja, interdiction entre juin et septembre, amende 200 €.`,
+        `Vétérinaires 24h/24 : Clinica Veterinaria Città di Catania +39 095 437 0570 (Viale Vittorio Veneto 313), Clinica Veterinaria Ferrarotto +39 095 449 045 (centre), Ospedale Veterinario Emergency Vet Landi +39 095 712 5611 (Picanello).`,
+        `Le pavé de lave noire absorbe la chaleur : pics à 50 °C en surface entre 12h et 17h en juillet–août. Marchez à l'aube ou après 19h, ou utilisez des bottines.`,
+        `Sirocco : épisodes de vent chaud chargé de poussière saharienne, surtout de mai à septembre. Surveillez yeux et coussinets, rincez le chien en fin de journée.`,
+      ],
+      en: [
+        `Municipal ordinance: 1.5 m maximum leash on all pavements and in parks, muzzle on hand for medium/large breeds on public transport, and owners must carry a small bottle of water and diluted soap to rinse urine off the lava paving.`,
+        `Beaches: only the municipal Spiaggia Libera n.2 and pet-friendly private lidos (Lido Azzurro chief among them) admit dogs in summer; elsewhere on the Plaja, dogs are banned June–September, fine €200.`,
+        `24-hour vets: Clinica Veterinaria Città di Catania +39 095 437 0570 (Viale Vittorio Veneto 313), Clinica Veterinaria Ferrarotto +39 095 449 045 (centre), Ospedale Veterinario Emergency Vet Landi +39 095 712 5611 (Picanello).`,
+        `Black lava paving absorbs heat: surface temperatures hit 50 °C between 12:00 and 17:00 in July–August. Walk at dawn or after 19:00, or use booties.`,
+        `Sirocco events bring hot, Saharan-dust-loaded winds, especially May–September. Watch eyes and paws, rinse the dog at the end of the day.`,
+      ],
+      es: [
+        `Ordenanza municipal: correa máxima de 1,5 m en todas las aceras y parques, bozal a mano para razas medianas/grandes en transporte público, y obligación de llevar una pequeña botella de agua y jabón diluido para enjuagar la orina del empedrado de lava.`,
+        `Playas: solo la Spiaggia Libera n.2 municipal y los lidos privados pet-friendly (Lido Azzurro a la cabeza) admiten perros en verano; en el resto de la Plaja, perros vetados de junio a septiembre, multa 200 €.`,
+        `Veterinarios 24h: Clinica Veterinaria Città di Catania +39 095 437 0570 (Viale Vittorio Veneto 313), Clinica Veterinaria Ferrarotto +39 095 449 045 (centro), Ospedale Veterinario Emergency Vet Landi +39 095 712 5611 (Picanello).`,
+        `El empedrado de lava negra acumula calor: en superficie alcanza los 50 °C entre las 12:00 y las 17:00 en julio–agosto. Pasea al amanecer o después de las 19:00, o usa botines.`,
+        `Episodios de siroco con vientos cálidos cargados de polvo sahariano, sobre todo de mayo a septiembre. Vigila ojos y almohadillas, enjuaga al perro al final del día.`,
+      ],
+      pt: [
+        `Ordenança municipal: trela máxima de 1,5 m em todos os passeios e parques, açaime à mão para raças médias/grandes no transporte público, e obrigação de levar uma pequena garrafa de água e sabão diluído para enxaguar a urina do empedrado de lava.`,
+        `Praias: só a Spiaggia Libera n.2 municipal e os lidos privados pet-friendly (Lido Azzurro à cabeça) admitem cães no verão; no resto da Plaja, cães proibidos de junho a setembro, multa 200 €.`,
+        `Veterinários 24h: Clinica Veterinaria Città di Catania +39 095 437 0570 (Viale Vittorio Veneto 313), Clinica Veterinaria Ferrarotto +39 095 449 045 (centro), Ospedale Veterinario Emergency Vet Landi +39 095 712 5611 (Picanello).`,
+        `O empedrado de lava negra acumula calor: à superfície atinge os 50 °C entre as 12:00 e as 17:00 em julho–agosto. Passeie ao amanhecer ou depois das 19:00, ou use botas.`,
+        `Episódios de siroco com ventos quentes carregados de pó saariano, sobretudo de maio a setembro. Vigia olhos e almofadas, enxagua o cão ao final do dia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : aéroport Catania-Fontanarossa (CTA) bien équipé, zone d'allègement canin avant les Départs ; train Trenitalia depuis Rome (env. 9h) ou Naples ; ferries Grimaldi/GNV depuis Salerne, Naples et Civitavecchia avec cabines pet-friendly.`,
+        `Documents : passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) délivré dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus).`,
+        `Transports locaux : AMTS (bus, métro, BRT) accepte les chiens en laisse + muselière à disposition pour 1 € (même tarif qu'un humain) ; petits chiens en cage fermée gratuits.`,
+        `Pet-sitting : Rover, Pawshake et TrustedHousesitters couvrent la ville ; tarifs autour de 15 €/nuit en garde à domicile et 12 € la promenade ; réservez 4 semaines à l'avance pour Ferragosto (15 août).`,
+        `Climat : étés très chauds 28–32 °C, secs avec sirocco occasionnel ; hivers doux 10–14 °C avec pluies concentrées de novembre à février ; meilleurs mois avec un chien : mai, fin septembre et octobre.`,
+      ],
+      en: [
+        `How to arrive: Catania-Fontanarossa airport (CTA) is well equipped, with a pet relief area before Departures; Trenitalia trains from Rome (about 9h) or Naples; Grimaldi/GNV ferries from Salerno, Naples and Civitavecchia with pet-friendly cabins.`,
+        `Documents: EU pet passport, ISO microchip and rabies vaccination at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days for non-EU visitors (UK included post-Brexit).`,
+        `Local transport: AMTS (bus, metro, BRT) accepts leashed dogs with muzzle on hand for €1 (same fare as a human); small dogs in a closed carrier travel free.`,
+        `Pet-sitting: Rover, Pawshake and TrustedHousesitters cover the city; expect €15 per night for in-home boarding and €12 per walk; book at least 4 weeks ahead for Ferragosto (15 August).`,
+        `Climate: hot summers 28–32 °C with occasional sirocco; mild winters 10–14 °C with concentrated rain November to February; best months with a dog: May, late September and October.`,
+      ],
+      es: [
+        `Cómo llegar: aeropuerto Catania-Fontanarossa (CTA) bien equipado, con zona de aseo canino antes de Salidas; trenes Trenitalia desde Roma (unas 9h) o Nápoles; ferries Grimaldi/GNV desde Salerno, Nápoles y Civitavecchia con camarotes pet-friendly.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos para visitantes de fuera de la UE (Reino Unido incluido tras el Brexit).`,
+        `Transporte local: AMTS (bus, metro, BRT) admite perros con correa + bozal a mano por 1 € (misma tarifa que un humano); perros pequeños en transportín cerrado viajan gratis.`,
+        `Pet-sitting: Rover, Pawshake y TrustedHousesitters cubren la ciudad; tarifas en torno a 15 € por noche en alojamiento en casa del sitter y 12 € por paseo; reserva con al menos 4 semanas de antelación para Ferragosto (15 de agosto).`,
+        `Clima: veranos muy calurosos 28–32 °C, secos con siroco ocasional; inviernos suaves 10–14 °C con lluvias concentradas de noviembre a febrero; mejores meses con un perro: mayo, fines de septiembre y octubre.`,
+      ],
+      pt: [
+        `Como chegar: aeroporto Catania-Fontanarossa (CTA) bem equipado, com zona de alívio canino antes das Partidas; comboios Trenitalia a partir de Roma (cerca de 9h) ou Nápoles; ferries Grimaldi/GNV a partir de Salerno, Nápoles e Civitavecchia com camarotes pet-friendly.`,
+        `Documentos: passaporte europeu, microchip ISO e vacina antirrábica de pelo menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias anteriores para visitantes fora da UE (Reino Unido incluído depois do Brexit).`,
+        `Transporte local: AMTS (autocarro, metro, BRT) admite cães com trela + açaime à mão por 1 € (mesma tarifa que um humano); cães pequenos em transportadora fechada viajam grátis.`,
+        `Pet-sitting: Rover, Pawshake e TrustedHousesitters cobrem a cidade; tarifas em torno de 15 € por noite em alojamento em casa do sitter e 12 € por passeio; reserva com pelo menos 4 semanas de antecedência para Ferragosto (15 de agosto).`,
+        `Clima: verões muito quentes 28–32 °C, secos com siroco ocasional; invernos suaves 10–14 °C com chuvas concentradas de novembro a fevereiro; melhores meses com um cão: maio, fim de setembro e outubro.`,
+      ],
+    },
+  },
+
   cologne: {
     history: {
       fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires em règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,

@@ -4762,6 +4762,130 @@
     "slug": "vila-bicuda-resort"
   },
   {
+    "id": "catania-1",
+    "name": "Romano Palace Luxury Hotel",
+    "destinationSlug": "catania",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 4500,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/romano-palace-luxury.html",
+    "petFee": 30,
+    "petPolicy": "One pet (dog or cat) per room up to 8 kg accepted on request, €30 per night. Set in a 15,000 sqm private park on Viale Kennedy, a 5-minute walk from the Plaja and the Lido Azzurro dog beach. Pet-friendly rooms must be requested at booking and assigned by the hotel.",
+    "highlights": [
+      "5-star resort with 15,000 sqm private park for walks",
+      "5 min walk from the Lido Azzurro dog beach",
+      "Outdoor pool and seafront location on Viale Kennedy"
+    ],
+    "slug": "romano-palace-luxury-hotel"
+  },
+  {
+    "id": "catania-2",
+    "name": "Palace Catania | UNA Esperienze",
+    "destinationSlug": "catania",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3800,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/una-palace.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcome on request with a €15 final-cleaning charge per stay (not per night). Central Via Etnea location, 10 minutes' walk from Villa Bellini and 8 minutes from Piazza Duomo. Bowls and pet beds at reception on request.",
+    "highlights": [
+      "Central Via Etnea, 10 min walk to Villa Bellini gardens",
+      "One-off €15 cleaning fee, no per-night surcharge",
+      "Rooftop terrace and Sicilian restaurant"
+    ],
+    "slug": "palace-catania-una-esperienze"
+  },
+  {
+    "id": "catania-3",
+    "name": "NH Catania Centro",
+    "destinationSlug": "catania",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 4100,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/nh-catania-centro.html",
+    "petFee": 25,
+    "petPolicy": "Dogs and cats up to 25 kg welcome upon request and subject to approval, €25 per night, maximum 2 pets per room. Guide and assistance dogs stay free. 5-minute walk from Via Etnea shopping street and Villa Bellini.",
+    "highlights": [
+      "Heart of Catania, 5 min walk from Via Etnea shops",
+      "Up to 2 pets per room, weight limit 25 kg",
+      "Mediterranean restaurant and free WiFi"
+    ],
+    "slug": "nh-catania-centro"
+  },
+  {
+    "id": "catania-4",
+    "name": "Four Points by Sheraton Catania Hotel & Conference Center",
+    "destinationSlug": "catania",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3600,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/four-points-by-sheraton-catania.html",
+    "petFee": 60,
+    "petPolicy": "One pet (dog or cat) up to 10 kg per room accepted with a non-refundable pet fee of €58.84 per stay. Full-service spa, easy parking and conference facilities. South of the centre on the Etna-airport axis, 10 min by car from the Plaja.",
+    "highlights": [
+      "Full-service spa, easy parking outside the ZTL",
+      "Staff praised by guests as accommodating with dogs",
+      "10 min drive to Catania-Fontanarossa airport"
+    ],
+    "slug": "four-points-by-sheraton-catania"
+  },
+  {
+    "id": "catania-5",
+    "name": "Hotel Manganelli Palace",
+    "destinationSlug": "catania",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 1900,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/manganelli-palace.html",
+    "petFee": 15,
+    "petPolicy": "One small pet (dog or cat) up to 10 kg per room accepted with a €15 per night fee. Set in a historic Baroque palazzo in the centro storico, walking distance from Piazza Duomo, Via Crociferi and the Pescheria market.",
+    "highlights": [
+      "Historic Baroque palazzo in the centro storico",
+      "Walking distance to Piazza Duomo and the Pescheria market",
+      "Affordable boutique option for the lava-stone heart of Catania"
+    ],
+    "slug": "hotel-manganelli-palace"
+  },
+  {
     "id": "coimbra-1",
     "name": "Quinta das Lágrimas",
     "destinationSlug": "coimbra",

@@ -176,6 +176,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque Marechal Carmona shaded park, the Boca do Inferno cliff walk, and the wild Atlantic dune trails of Guincho and Cresmina',
       area: 'the historic centre around Largo Luís de Camões, the marina district, and the Birre quarter near the natural park',
     },
+    catania: {
+      personality: `Sicily's lava-built Baroque capital under Mount Etna, with three 24/7 vet hospitals, a year-round municipal dog beach on the Plaja, and a UNESCO-listed historic centre where pet-friendly terraces are the rule from Piazza Duomo to Via Crociferi`,
+      highlight: `the Villa Bellini gardens on Via Etnea, the off-leash area cani at Parco Vulcania, the lava-paved Pescheria fish market and the dog beach at Lido Azzurro`,
+      area: `the UNESCO-listed centro storico around Piazza Duomo, the Borgo university quarter, and the Plaja beachfront on Viale Kennedy`,
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -834,6 +839,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le parc ombragé Marechal Carmona, le sentier de falaise de Boca do Inferno et les plages sauvages des dunes atlantiques de Guincho et Cresmina',
       area: 'le centre historique autour du Largo Luís de Camões, le quartier de la marina et le quartier de Birre près du parc naturel',
     },
+    catania: {
+      personality: `la capitale baroque sicilienne bâtie sur la lave de l'Etna, avec trois hôpitaux vétérinaires 24h/24, une plage canine municipale ouverte toute l'année sur la Plaja et un centre historique classé à l'UNESCO où les terrasses dog-friendly sont la règle, de la Piazza Duomo à la Via Crociferi`,
+      highlight: `les jardins de la Villa Bellini sur la Via Etnea, l'area cani sans laisse du Parco Vulcania, la Pescheria pavée de lave et la plage canine du Lido Azzurro`,
+      area: `le centro storico classé UNESCO autour de la Piazza Duomo, le Borgo universitaire et la Plaja en bord de mer sur le Viale Kennedy`,
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -1491,6 +1501,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque sombreado Marechal Carmona, el sendero del acantilado de Boca do Inferno y las playas salvajes de las dunas atlánticas de Guincho y Cresmina',
       area: 'el casco histórico alrededor del Largo Luís de Camões, el barrio del puerto y el barrio de Birre cerca del parque natural',
     },
+    catania: {
+      personality: `la capital barroca de Sicilia construida sobre la lava del Etna, con tres hospitales veterinarios 24 horas, una playa canina municipal abierta todo el año en la Plaja y un centro histórico Patrimonio de la UNESCO donde las terrazas pet-friendly son la norma, de Piazza Duomo a Via Crociferi`,
+      highlight: `los jardines de Villa Bellini en Via Etnea, el area cani sin correa del Parco Vulcania, la Pescheria empedrada en lava y la playa canina del Lido Azzurro`,
+      area: `el centro histórico Patrimonio UNESCO en torno a Piazza Duomo, el Borgo universitario y el frente marítimo de la Plaja en Viale Kennedy`,
+    },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
@@ -2147,6 +2162,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a elegante escapada costera de Lisboa, onde casi todas as esplanadas do porto sirven um cuenco de água sem pedirlo e o passeio marítimo do Paredão se llena de cães al atardecer`,
       highlight: 'o parque sombreado Marechal Carmona, o trilho do acantilado de Boca do Inferno e as praias salvajes das dunas atlánticas de Guincho e Cresmina',
       area: 'o casco histórico alrededor do Largo Luís de Camões, o bairro do porto e o bairro de Birre perto do parque natural',
+    },
+    catania: {
+      personality: `a capital barroca da Sicília construída sobre a lava do Etna, com três hospitais veterinários 24 horas, uma praia canina municipal aberta o ano inteiro na Plaja e um centro histórico Património da UNESCO onde as esplanadas pet-friendly são a norma, da Piazza Duomo à Via Crociferi`,
+      highlight: `os jardins de Villa Bellini na Via Etnea, a area cani sem trela do Parco Vulcania, a Pescheria empedrada em lava e a praia canina do Lido Azzurro`,
+      area: `o centro histórico Património UNESCO em torno da Piazza Duomo, o Borgo universitário e a frente marítima da Plaja no Viale Kennedy`,
     },
     cologne: {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',

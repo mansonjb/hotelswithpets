@@ -2276,6 +2276,80 @@
     }
   },
   {
+    "slug": "catania",
+    "name": "Catania",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/catania.jpg",
+    "intro": "Catania, Sicily's lava-built Baroque capital under the slopes of Mount Etna, pairs a UNESCO-listed historic centre with a dedicated municipal dog beach, three 24/7 vet hospitals and one of the densest pet-friendly café cultures in southern Italy. Dogs ride free in carriers on the Trenitalia regional trains to Taormina, walk the cool Pescheria fish market at dawn, and shelter in the Norman pines of Villa Bellini.",
+    "lat": 37.5079,
+    "lng": 15.083,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Spring sunshine",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "coimbra",
     "name": "Coimbra",
     "country": "Portugal",

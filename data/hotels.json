@@ -1514,6 +1514,127 @@
     "petPolicyPt": "B&B Yellow Submarine warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €20 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "padua-1",
+    "name": "Hotel Majestic Toscanelli",
+    "destinationSlug": "padua",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1450,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/majestic-toscanelli.html",
+    "petFee": 0,
+    "petPolicy": "Pets (dogs and cats) welcome on request at no extra charge. Pet bowls and pet baskets available on request. Pets are not allowed in the breakfast room — staff finds practical alternatives for guests with dogs.",
+    "highlights": [
+      "Historic boutique in the centro storico, steps from Piazza delle Erbe",
+      "Pet bowls and baskets provided free of charge",
+      "5-min walk to Prato della Valle and the Basilica"
+    ],
+    "slug": "hotel-majestic-toscanelli"
+  },
+  {
+    "id": "padua-2",
+    "name": "Methis Hotel & Spa (B&B HOTEL Padova Methis)",
+    "destinationSlug": "padua",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/methis-hotel-amp-spa.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request at no charge. Dogs of all sizes accepted. Confirm at booking. The hotel is set along the Bacchiglione canal — convenient for dog walks along the perimeter loop.",
+    "highlights": [
+      "Riverside location along the Bacchiglione, ideal for morning dog walks",
+      "Dogs stay free, all sizes accepted on request",
+      "10-min walk to Prato della Valle"
+    ],
+    "slug": "methis-hotel-spa"
+  },
+  {
+    "id": "padua-3",
+    "name": "Hotel Grand'Italia",
+    "destinationSlug": "padua",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1300,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-italia.html",
+    "petFee": 0,
+    "petPolicy": "Dogs of all sizes welcome on request at no charge. The Art Nouveau hotel is directly opposite Padua's central railway station — convenient for trains to Venice or Verona with a leashed and muzzled dog.",
+    "highlights": [
+      "Liberty (Art Nouveau) façade opposite Padova FS railway station",
+      "Dogs of any size stay free",
+      "Direct walk to Parco Treves and the Eremitani area"
+    ],
+    "slug": "hotel-grand-italia"
+  },
+  {
+    "id": "padua-4",
+    "name": "Crowne Plaza Padova",
+    "destinationSlug": "padua",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 1700,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/crowne-plaza-padova.html",
+    "petFee": 0,
+    "petPolicy": "One pet allowed per room at no extra charge. Pets accepted of any size (under 35 kg recommended for upper floors). Free WiFi and laundry on site. Confirm at booking.",
+    "highlights": [
+      "4-star international chain with full pet facilities",
+      "Indoor pool, fitness centre and free parking",
+      "10-min drive to Prato della Valle, on tram line SIR1"
+    ],
+    "slug": "crowne-plaza-padova"
+  },
+  {
+    "id": "padua-5",
+    "name": "Best Western Hotel Biri",
+    "destinationSlug": "padua",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 1900,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/best-western-biri.html",
+    "petFee": 0,
+    "petPolicy": "Pets of any size accepted at no extra charge. Confirmation required at booking. The hotel is near the Padua exit of the A4 motorway, ideal for road-trippers, and has free covered parking.",
+    "highlights": [
+      "Free covered parking — practical for road-trippers with dogs",
+      "Pets of any size welcome at no charge",
+      "5-min drive or tram ride to centro storico"
+    ],
+    "slug": "best-western-hotel-biri"
+  },
+  {
     "id": "palermo-5",
     "name": "BB22 Palace Boutique Hotel",
     "destinationSlug": "palermo",

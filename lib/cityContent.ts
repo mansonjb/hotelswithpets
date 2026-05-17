@@ -11754,6 +11754,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  padua: {
+    history: {
+      fr: `Padoue, l'une des plus anciennes villes universitaires d'Europe (Université fondée en 1222), entretient depuis des siècles une relation étroite avec les animaux : c'est ici que Sant'Antonio prêcha aux animaux selon la légende franciscaine, et que Galilée enseigna pendant 18 ans avant de partir pour Florence. Le centre historique vénète, inscrit au patrimoine mondial de l'UNESCO en 2021 pour ses fresques du XIVe siècle (Giotto à la Chapelle des Scrovegni notamment), s'organise autour de trois places contiguës — Erbe, Frutta et Signori — et du célèbre Prato della Valle, l'une des plus grandes places d'Europe avec ses 88 620 m². Aujourd'hui, Padoue est l'une des escales pet-friendly les plus calmes du nord-est de l'Italie : moins fréquentée que Venise ou Vérone, dotée de plus de 25 km d'arcades à portiques abritant chiens et maîtres de la pluie d'hiver comme du soleil estival, et reliée en 25 minutes à Venise par train régional (5 € forfaitaire pour les chiens en laisse et muselés). Les aree cani officielles dans presque tous les quartiers, l'hôpital vétérinaire universitaire OVUD à Legnaro, et la culture aperitivo en terrasse complètent le tableau d'une ville pensée pour les visiteurs canins.`,
+      en: `Padua, one of Europe's oldest university cities (founded 1222), has had a centuries-long relationship with animals: this is where Saint Anthony reportedly preached to the fish according to Franciscan legend, and where Galileo taught for 18 years before leaving for Florence. The Veneto historic centre, inscribed on UNESCO's World Heritage list in 2021 for its 14th-century frescoes (notably Giotto's Scrovegni Chapel), is built around three adjoining piazzas — Erbe, Frutta and Signori — and the famous Prato della Valle, one of Europe's largest squares at 88,620 m². Today Padua is one of the calmest pet-friendly bases in north-east Italy: less crowded than Venice or Verona, blessed with over 25 km of porticoed arcades sheltering dogs and owners from winter rain and summer sun alike, and connected to Venice in 25 minutes by regional train (€5 flat fare for leashed and muzzled dogs). Official aree cani in nearly every district, the OVUD university veterinary hospital in Legnaro, and a vibrant terrace-aperitivo culture round out the picture of a city built for canine visitors.`,
+      es: `Padua, una de las ciudades universitarias más antiguas de Europa (Universidad fundada en 1222), ha mantenido durante siglos una relación estrecha con los animales: aquí San Antonio predicó a los animales según la leyenda franciscana, y aquí Galileo enseñó durante 18 años antes de partir hacia Florencia. El centro histórico veneto, declarado Patrimonio de la Humanidad por la UNESCO en 2021 por sus frescos del siglo XIV (notablemente la Capilla de los Scrovegni de Giotto), se organiza alrededor de tres plazas contiguas —Erbe, Frutta y Signori— y del célebre Prato della Valle, una de las plazas más grandes de Europa con sus 88.620 m². Hoy Padua es una de las paradas pet-friendly más tranquilas del noreste de Italia: menos concurrida que Venecia o Verona, dotada de más de 25 km de arcadas porticadas que protegen a perros y dueños de la lluvia invernal y el sol estival, y conectada con Venecia en 25 minutos por tren regional (5 € fijo para perros con correa y bozal). Las aree cani oficiales en casi todos los distritos, el hospital veterinario universitario OVUD en Legnaro y una vibrante cultura de aperitivo en terraza completan el cuadro de una ciudad pensada para visitantes caninos.`,
+      pt: `Padua, uma das cidades universitarias mais antigas da Europa (Universidade fundada em 1222), tem mantido durante séculos uma relação estreita com os animais: aqui Santo António pregou aos animais segundo a lenda franciscana, e aqui Galileo ensinou durante 18 anos antes de partir para Florença. O centro histórico veneto, declarado Património da Humanidade pela UNESCO em 2021 pelos seus frescos do século XIV (notablemente a Capela dos Scrovegni de Giotto), organiza-se em torno de três praças contíguas — Erbe, Frutta e Signori — e do célebre Prato della Valle, uma das praças mais grandes da Europa com os seus 88.620 m². Hoy Padua é uma das paradas pet-friendly mais tranquilas do nordeste de Italia: menos concurrida que Venecia o Verona, dotada de mais de 25 km de arcadas porticadas que protegem cães e donos da chuva invernal e do sol estival, e ligada a Venecia em 25 minutos por trem regional (5 € fixo para cães com trela e açaime). As aree cani oficiais em casi todos os distritos, o hospital veterinario universitario OVUD em Legnaro e uma vibrante cultura de aperitivo em esplanada completam o quadro de uma cidade pensada para visitantes caninos.`,
+    },
+    sights: [
+      {
+        name: `Prato della Valle`,
+        emoji: `🟢`,
+        petFriendly: true,
+        desc: {
+          fr: `Place elliptique de 88 620 m², l'une des plus grandes d'Europe, avec un canal bordé de 78 statues et une boucle plate de 1,2 km idéale pour les promenades en laisse.`,
+          en: `88,620 m² elliptical square, one of Europe's largest, with a canal lined by 78 statues and a flat 1.2 km loop ideal for leashed walks.`,
+          es: `Plaza elíptica de 88.620 m², una de las más grandes de Europa, con un canal bordeado por 78 estatuas y un circuito plano de 1,2 km ideal para paseos con correa.`,
+          pt: `Praça elíptica de 88.620 m², uma das maiores da Europa, com um canal bordeado por 78 estátuas e um circuito plano de 1,2 km ideal para passeios com trela.`,
+        },
+      },
+      {
+        name: `Piazza delle Erbe`,
+        emoji: `🍇`,
+        petFriendly: true,
+        desc: {
+          fr: `Place de marché médiévale avec marché quotidien de fruits et légumes et terrasses d'aperitivo le soir ; les chiens en laisse circulent partout sous les portiques.`,
+          en: `Medieval market square with daily fruit and vegetable market and evening aperitivo terraces; leashed dogs roam freely under the porticoes.`,
+          es: `Plaza de mercado medieval con mercado diario de frutas y verduras y terrazas de aperitivo por la noche; los perros con correa circulan libremente bajo las arcadas.`,
+          pt: `Praça-mercado medieval com mercado diario de frutas e verduras e esplanadas de aperitivo à noite; os cães com trela circulam livremente sob as arcadas.`,
+        },
+      },
+      {
+        name: `Basilica di Sant'Antonio`,
+        emoji: `⛪`,
+        petFriendly: true,
+        desc: {
+          fr: `Vaste place autour de la basilique (intérieur fermé aux chiens) avec la statue équestre du Gattamelata de Donatello ; piazza et cloîtres extérieurs ouverts aux chiens en laisse.`,
+          en: `Vast piazza around the basilica (interior closed to dogs) with Donatello's equestrian Gattamelata statue; outdoor square and external cloisters open to leashed dogs.`,
+          es: `Vasta plaza alrededor de la basílica (interior cerrado a los perros) con la estatua ecuestre del Gattamelata de Donatello; plaza exterior y claustros externos abiertos a perros con correa.`,
+          pt: `Vasta praça em torno à basílica (interior cerrado aos cães) com a estátua equestre do Gattamelata de Donatello; praça exterior e claustros externos abertos a cães com trela.`,
+        },
+      },
+      {
+        name: `Parco Iris`,
+        emoji: `🐾`,
+        petFriendly: true,
+        desc: {
+          fr: `Aire canine officielle (area cani) clôturée du sud de Padoue, l'une des plus grandes de la ville, fréquentée chaque matin par les habitués du quartier.`,
+          en: `Official fenced off-leash dog area (area cani) in southern Padua, one of the city's largest, frequented by neighbourhood regulars every morning.`,
+          es: `Área canina oficial (area cani) vallada del sur de Padua, una de las mayores de la ciudad, frecuentada cada mañana por los habituales del barrio.`,
+          pt: `Área canina oficial (area cani) vedada do sul de Padua, uma das maiores da cidade, frequentada cada manhã pelos habituais do bairro.`,
+        },
+      },
+      {
+        name: `Parco Treves de' Bonfili`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Jardin paysager XIXe siècle de Giuseppe Jappelli derrière les Musées Eremitani ; chiens en laisse bienvenus dans les allées sinueuses et autour des bassins.`,
+          en: `19th-century Giuseppe Jappelli landscape garden behind the Eremitani Museums; leashed dogs welcome along winding paths and ornamental ponds.`,
+          es: `Jardín paisajístico del siglo XIX de Giuseppe Jappelli detrás de los Museos Eremitani; perros con correa bienvenidos por los senderos sinuosos y los estanques ornamentales.`,
+          pt: `Jardim paisagístico do século XIX de Giuseppe Jappelli detrás dos Museus Eremitani; cães com trela bem-vindos pelos caminhos sinuosos e os estanques ornamentais.`,
+        },
+      },
+      {
+        name: `Bacchiglione Canal Loop`,
+        emoji: `🛶`,
+        petFriendly: true,
+        desc: {
+          fr: `Boucle plate de 4 km le long des fossés-canaux qui ceinturent le centre, ombragée par les arbres ; idéale pour la promenade matinale.`,
+          en: `Flat 4 km loop along the moat-canals encircling the centre, tree-shaded throughout; ideal for a cool morning walk.`,
+          es: `Circuito plano de 4 km a lo largo de los canales-foso que rodean el centro, sombreado por árboles; ideal para un paseo matutino fresco.`,
+          pt: `Circuito plano de 4 km ao longo dos canais-fosso que rodeiam o centro, sombreado por árvores; ideal para um passeio matinal fresco.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Tarif chien Trenitalia régional : 5 € forfait pour les chiens moyens/grands en laisse et muselés (achat à la borne AVANT de monter, +5 € à bord) ; petits chiens en sac gratuits.`,
+        `Aire canine officielle (area cani) dans presque tous les quartiers : Parco Iris (Mandria), Parco Europa (Arcella), Parco Milcovich (Stanga), tous clôturés.`,
+        `Urgence vétérinaire 24h/24 : Ospedale Veterinario Universitario (OVUD), Legnaro, +39 049 827 2500 ; appel téléphonique obligatoire avant arrivée selon la loi italienne.`,
+        `Chapelle des Scrovegni, Musées Eremitani, intérieur de la Basilique Saint-Antoine, Orto Botanico : chiens interdits (sauf chiens d'assistance) ; prévoyez petsitter ou alternez les visites.`,
+        `Vipères présentes sur les sentiers rocheux des Colli Euganei (avril-octobre) : laisse courte sur les murets en pierre et pas d'exploration libre des éboulis.`,
+      ],
+      en: [
+        `Trenitalia regional dog fare: €5 flat for medium/large dogs on a leash with muzzle (buy at the machine BEFORE boarding, +€5 surcharge onboard); small dogs in carriers travel free.`,
+        `Official off-leash dog area (area cani) in nearly every neighbourhood: Parco Iris (Mandria), Parco Europa (Arcella), Parco Milcovich (Stanga) — all fenced.`,
+        `24/7 vet emergency reference: Ospedale Veterinario Universitario (OVUD), Legnaro, +39 049 827 2500; Italian law requires a phone call before arrival.`,
+        `Scrovegni Chapel, Eremitani Museums, Basilica of Saint Anthony interior, Orto Botanico: dogs prohibited (except assistance dogs); plan a petsitter or take turns visiting.`,
+        `Vipers (Vipera aspis) on south-facing rocky paths in the Colli Euganei (April–October): keep dogs on a short leash near stone walls and avoid free exploration of scree.`,
+      ],
+      es: [
+        `Tarifa perro Trenitalia regional: 5 € fijo para perros medianos/grandes con correa y bozal (comprar en la máquina ANTES de subir, +5 € de recargo a bordo); los perros pequeños en transportín viajan gratis.`,
+        `Área canina oficial (area cani) en casi todos los barrios: Parco Iris (Mandria), Parco Europa (Arcella), Parco Milcovich (Stanga) — todas valladas.`,
+        `Urgencia veterinaria 24/7 de referencia: Ospedale Veterinario Universitario (OVUD), Legnaro, +39 049 827 2500; la ley italiana exige llamada telefónica antes de llegar.`,
+        `Capilla de los Scrovegni, Museos Eremitani, interior de la Basílica de San Antonio, Orto Botanico: perros prohibidos (salvo perros de asistencia); prevé petsitter o turnaos para las visitas.`,
+        `Víboras (Vipera aspis) en senderos rocosos orientados al sur de los Colli Euganei (abril-octubre): correa corta cerca de muretes de piedra y nada de exploración libre del pedregal.`,
+      ],
+      pt: [
+        `Tarifa cão Trenitalia regional: 5 € fixo para cães médios/grandes com trela e açaime (comprar na máquina ANTES de subir, +5 € de recargo a bordo); os cães pequenos em transportin viajam grátis.`,
+        `Área canina oficial (area cani) em casi todos os bairros: Parco Iris (Mandria), Parco Europa (Arcella), Parco Milcovich (Stanga) — todas vedadas.`,
+        `Urgência veterinária 24/7 de referência: Ospedale Veterinario Universitario (OVUD), Legnaro, +39 049 827 2500; a lei italiana exige chamada telefónica antes de chegar.`,
+        `Capela dos Scrovegni, Museus Eremitani, interior da Basílica de Santo António, Orto Botânico: cães proibidos (salvo cães de assistência); prevê petsitter o turnaos para as visitas.`,
+        `Víboras (Vipera aspis) em trilhos rochosos orientados a sul dos Colli Euganei (abril-outubro): trela curta perto de muretes de pedra e nada de exploração livre dos cascalhos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Padoue est compacte : 25 minutes à pied du Prato della Valle à la Cappella degli Scrovegni en traversant les trois places centrales, tout est plat et accessible aux chiens.`,
+        `Une seule ligne de tram (SIR1, 10,5 km, Stazione FS – Pontevigodarzere) : chiens en laisse courte et muselés admis, un grand chien par passager ; petits chiens en sac gratuits.`,
+        `Plus de 25 km d'arcades à portiques dans le centre historique, un atout précieux contre le brouillard d'hiver (novembre-janvier) et le caldo umido d'été (juin-août, 32-35°C avec 80%+ d'humidité).`,
+        `Trains régionaux Trenitalia : Venise 25 min, Vérone 40 min, Vicenza 15 min, Bologne 60 min ; 5 € forfaitaire pour les chiens moyens/grands, gratuits en sac.`,
+        `Colli Euganei (parc régional, 20-30 km au sud) : 150+ km de sentiers ouverts aux chiens en laisse, agriturismi accueillants ; les spas thermaux d'Abano et Montegrotto interdisent les chiens à l'intérieur.`,
+      ],
+      en: [
+        `Padua is compact: 25 minutes on foot from Prato della Valle to the Scrovegni Chapel via the three central piazzas, with flat terrain accessible to dogs throughout.`,
+        `Single tram line (SIR1, 10.5 km, Stazione FS – Pontevigodarzere): leashed and muzzled dogs admitted, one large dog per passenger; small dogs in carriers travel free.`,
+        `Over 25 km of porticoed arcades in the historic centre, a valuable asset against winter fog (November–January) and the caldo umido summers (June–August, 32–35°C with 80%+ humidity).`,
+        `Trenitalia regional trains: Venice 25 min, Verona 40 min, Vicenza 15 min, Bologna 60 min; €5 flat for medium/large dogs, free in carriers.`,
+        `Colli Euganei (Regional Park, 20–30 km south): 150+ km of trails open to leashed dogs, welcoming agriturismi; the Abano and Montegrotto thermal spas exclude dogs from spa interiors.`,
+      ],
+      es: [
+        `Padua es compacta: 25 minutos a pie del Prato della Valle a la Capilla de los Scrovegni cruzando las tres plazas centrales, con terreno llano accesible a los perros en todo el recorrido.`,
+        `Única línea de tranvía (SIR1, 10,5 km, Stazione FS – Pontevigodarzere): perros con correa corta y bozal admitidos, un perro grande por pasajero; los perros pequeños en transportín viajan gratis.`,
+        `Más de 25 km de arcadas porticadas en el centro histórico, un valioso activo contra la niebla invernal (noviembre-enero) y el caldo umido estival (junio-agosto, 32-35°C con 80%+ de humedad).`,
+        `Trenes regionales Trenitalia: Venecia 25 min, Verona 40 min, Vicenza 15 min, Bolonia 60 min; 5 € fijo para perros medianos/grandes, gratis en transportín.`,
+        `Colli Euganei (Parque Regional, 20-30 km al sur): 150+ km de senderos abiertos a perros con correa, agriturismi acogedores; los balnearios termales de Abano y Montegrotto excluyen los perros del interior del spa.`,
+      ],
+      pt: [
+        `Padua é compacta: 25 minutos a pé do Prato della Valle à Capela dos Scrovegni atravessando as três praças centrais, com terreno plano acessível aos cães em todo o percurso.`,
+        `Única linha de elétrico (SIR1, 10,5 km, Stazione FS – Pontevigodarzere): cães com trela curta e açaime admitidos, um cão grande por passageiro; os cães pequenos em transportin viajam grátis.`,
+        `Mais de 25 km de arcadas porticadas no centro histórico, um valioso activo contra a niebla invernal (novembro-janeiro) e o caldo umido estival (junho-agosto, 32-35°C com 80%+ de humidade).`,
+        `Trens regionais Trenitalia: Venecia 25 min, Verona 40 min, Vicenza 15 min, Bologna 60 min; 5 € fixo para cães médios/grandes, grátis em transportin.`,
+        `Colli Euganei (Parque Regional, 20-30 km a sul): 150+ km de trilhos abertos a cães com trela, agriturismi acolhedores; as termas de Abano e Montegrotto excluem os cães do interior do spa.`,
+      ],
+    },
+  },
+
   palma: {
     history: {
       fr: `Palma de Majorque a une relation longue et détendue avec les animaux de compagnie. Capitale des Îles Baléares depuis le XIVe siècle, la ville a toujours été une ville commerçante et cosmopolite, ouverte aux voyageurs venus de toute la Méditerranée, et à leurs animaux. Aujourd'hui, Palma est l'une des destinations les plus pet-friendly d'Espagne. La réglementation baléare est claire et bien appliquée : laisse obligatoire partout, assurance animale obligatoire depuis 2023, et des plages canines officielles comme Es Carnatge ouvertes toute l'année. Le vieux port et le quartier de Santa Catalina sont devenus le cœur social de la ville pour les propriétaires de chiens, avec des terrasses qui affichent explicitement «chiens bienvenus» et du personnel qui apporte une gamelle d'eau sans qu'on le demande.`,

@@ -476,6 +476,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Port Meadow off-lead common, Christ Church Meadow, and the University Parks',
       area: 'the City Centre, Jericho, and North Oxford',
     },
+    padua: {
+      personality: `a UNESCO-listed Veneto university city anchored by Prato della Valle, one of Europe's largest squares at 88,620 m², with 25+ km of porticoed arcades and a flat compact centro storico ideal for long leashed walks`,
+      highlight: `the 88,620 m² Prato della Valle elliptical canal walk, the Piazza delle Erbe & Frutta market squares, and the Bacchiglione canal perimeter loop`,
+      area: `the centro storico around Piazza delle Erbe and Piazza dei Signori, the Il Santo district around the Basilica, and the Prato della Valle quarter`,
+    },
     palma: {
       personality: 'a sun-soaked Mediterranean island capital where terraces, beaches, and a year-round warm climate make it one of Spain\'s most dog-friendly cities',
       highlight: 'Es Carnatge year-round dog beach, Parc de sa Riera, and the Castell de Bellver hilltop grounds',
@@ -1149,6 +1154,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le common sans laisse de Port Meadow, Christ Church Meadow et les University Parks',
       area: 'le centre-ville, Jericho et North Oxford',
     },
+    padua: {
+      personality: `une ville universitaire vénète inscrite à l'UNESCO ancrée par le Prato della Valle, l'une des plus grandes places d'Europe avec ses 88 620 m², dotée de plus de 25 km d'arcades à portiques et d'un centre historique plat et compact idéal pour les longues promenades en laisse`,
+      highlight: `la promenade autour du canal elliptique du Prato della Valle (88 620 m²), les places de marché Piazza delle Erbe & Frutta et la boucle périmétrique des canaux du Bacchiglione`,
+      area: `le centre historique autour de la Piazza delle Erbe et de la Piazza dei Signori, le quartier d'Il Santo autour de la basilique et le quartier du Prato della Valle`,
+    },
     palma: {
       personality: 'une capitale insulaire méditerranéenne ensoleillée où les terrasses, les plages et un climat chaud toute l\'année en font l\'une des villes les plus dog-friendly d\'Espagne',
       highlight: 'la plage canine toute l\'année d\'Es Carnatge, le Parc de sa Riera et les jardins du Castell de Bellver',
@@ -1821,6 +1831,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el common sin correa de Port Meadow, Christ Church Meadow y los University Parks',
       area: 'el centro, Jericho y North Oxford',
     },
+    padua: {
+      personality: `una ciudad universitaria veneta declarada Patrimonio de la UNESCO anclada en el Prato della Valle, una de las plazas más grandes de Europa con 88.620 m², con más de 25 km de arcadas porticadas y un centro histórico llano y compacto ideal para largos paseos con correa`,
+      highlight: `el paseo por el canal elíptico del Prato della Valle (88.620 m²), las plazas-mercado Piazza delle Erbe y Frutta y el circuito perimetral de los canales del Bacchiglione`,
+      area: `el centro histórico alrededor de Piazza delle Erbe y Piazza dei Signori, el barrio Il Santo en torno a la basílica y el barrio del Prato della Valle`,
+    },
     palma: {
       personality: 'una capital insular mediterránea bañada por el sol donde las terrazas, las playas y el clima cálido durante todo el año la convierten en una de las ciudades más dog-friendly de España',
       highlight: 'la playa canina todo el año de Es Carnatge, el Parc de sa Riera y los jardines del Castell de Bellver',
@@ -2492,6 +2507,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade universitaria medieval onde os patios color miel dos colleges estão vetados aos cães mas os prados circundantes, os pubs riberenhos e o Port Meadow sem trela a convierten numa das escapadas urbanas mais fáciles de Inglaterra',
       highlight: 'o common sem trela de Port Meadow, Christ Church Meadow e os University Parks',
       area: 'o centro, Jericho e North Oxford',
+    },
+    padua: {
+      personality: `uma cidade universitaria veneta declarada Património da UNESCO ancorada no Prato della Valle, uma das praças mais grandes da Europa com 88.620 m², com mais de 25 km de arcadas porticadas e um centro histórico plano e compacto ideal para longos passeios com trela`,
+      highlight: `o passeio pelo canal elíptico do Prato della Valle (88.620 m²), as praças-mercado Piazza delle Erbe e Frutta e o circuito perimetral dos canais do Bacchiglione`,
+      area: `o centro histórico em torno a Piazza delle Erbe e Piazza dei Signori, o bairro Il Santo em torno à basílica e o bairro do Prato della Valle`,
     },
     palma: {
       personality: 'uma capital insular mediterrânea banhada pelo sol onde as esplanadas, as praias e o clima cálido durante o ano inteiro a convierten numa das cidades mais pet-friendly de Espanha',

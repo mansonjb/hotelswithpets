@@ -6680,6 +6680,80 @@
     }
   },
   {
+    "slug": "padua",
+    "name": "Padua",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/padua.jpg",
+    "intro": "Veneto's UNESCO-listed university city, anchored by Europe's largest square Prato della Valle (88,620 m²), 25+ km of porticoed arcades, off-leash aree cani in every district and a fixed €5 Trenitalia fare to Venice or Verona in under 40 minutes. Compact, walkable and one of Italy's quietest dog-friendly cultural bases.",
+    "lat": 45.4064,
+    "lng": 11.8768,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, often foggy",
+        "icon": "🌫️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild, spring rains",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, blooming",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, humid",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot, sticky",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm, pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Cool, autumnal",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, festive fog",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "palermo",
     "name": "Palermo",
     "country": "Italy",

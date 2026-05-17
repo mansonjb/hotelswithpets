@@ -8365,6 +8365,80 @@
     }
   },
   {
+    "slug": "tarragona",
+    "name": "Tarragona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tarragona.jpg",
+    "intro": "Tarragona, Catalonia's UNESCO-listed Roman seaport on the Costa Daurada, pairs an open-air 2nd-century amphitheatre with three designated dog beaches (Platja Llarga, Platja del Miracle and Bon Caponet), the wild pine-forest cove of Cala Fonda, and 24/7 referral vet care 5 km away at AniCura Bofarull. Renfe Rodalies trains carry leashed dogs to Barcelona in 70 minutes.",
+    "lat": 41.1189,
+    "lng": 1.2445,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool & breezy",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "the-hague",
     "name": "The Hague",
     "country": "Netherlands",

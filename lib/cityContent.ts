@@ -14705,6 +14705,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tarragona: {
+    history: {
+      fr: `Tarragone, capitale historique de la province éponyme en Catalogne, est l'ancienne Tarraco romaine, métropole administrative et militaire qui rivalisait avec Carthagène pour le contrôle de l'Hispanie sous Auguste. L'Ensemble archéologique de Tarraco est classé au patrimoine mondial de l'UNESCO depuis 2000 et comprend l'amphithéâtre face à la mer, le cirque, le forum, les murailles cyclopéennes du IIIᵉ siècle av. J.-C. et plusieurs villas et aqueducs. La ville compte aujourd'hui environ 135 000 habitants (aire métropolitaine 250 000) et s'étire entre la haute ville médiévale (Part Alta), la Rambla Nova qui descend à la mer et le long de la Costa Daurada. Côté chiens, la Catalogne applique un cadre réglementaire strict (laisse ≤2 m, race « potentiellement dangereuse » sous licence, ramassage et rinçage d'urine obligatoires), mais Tarragone est l'une des grandes villes catalanes les plus accueillantes : trois plages canines désignées, environ 80 restaurants dog-friendly référencés par l'office du tourisme, un hôpital vétérinaire 24h/24 à La Canonja, et la possibilité de rejoindre Barcelone en 70 minutes par Rodalies avec chien.`,
+      en: `Tarragona, historic capital of its eponymous province in Catalonia, is the ancient Roman Tarraco, the administrative and military metropolis that vied with Carthago Nova for control of Hispania under Augustus. The Archaeological Ensemble of Tarraco has been a UNESCO World Heritage Site since 2000 and includes the seafront amphitheatre, the circus, the forum, the cyclopean walls of the 3rd century BC and several villas and aqueducts. The city today counts around 135 000 inhabitants (250 000 in the metropolitan area), stretched between the medieval upper city (Part Alta), the Rambla Nova running down to the sea, and the Costa Daurada coastline. On dogs, Catalonia enforces strict regulation (≤2 m leash, licensed "potentially dangerous" breeds, mandatory waste pick-up and urine rinsing), but Tarragona is one of the most welcoming large Catalan cities: three designated dog beaches, around 80 dog-friendly restaurants listed by the tourism office, a 24/7 vet hospital 5 km away at La Canonja, and a 70-minute Rodalies ride to Barcelona with your dog.`,
+      es: `Tarragona, capital histórica de su provincia homónima en Cataluña, es la antigua Tarraco romana, metrópoli administrativa y militar que rivalizó con Cartago Nova por el control de Hispania bajo Augusto. El Conjunto Arqueológico de Tárraco es Patrimonio de la UNESCO desde 2000 e incluye el anfiteatro frente al mar, el circo, el foro, las murallas ciclópeas del siglo III a.C. y varias villas y acueductos. La ciudad cuenta hoy con unos 135.000 habitantes (250.000 en el área metropolitana), repartidos entre la ciudad alta medieval (Part Alta), la Rambla Nova que baja al mar y el litoral de la Costa Daurada. En cuanto a los perros, Cataluña aplica un marco normativo estricto (correa ≤2 m, razas «potencialmente peligrosas» con licencia, recogida y enjuague de orina obligatorios), pero Tarragona es una de las grandes ciudades catalanas más acogedoras: tres playas caninas designadas, unos 80 restaurantes pet-friendly listados por la oficina de turismo, un hospital veterinario 24h/24 a 5 km en La Canonja, y un trayecto de 70 minutos en Rodalies hasta Barcelona con perro.`,
+      pt: `Tarragona, capital histórica da província homónima na Catalunha, é a antiga Tarraco romana, metrópole administrativa e militar que rivalizou com Cartago Nova pelo controlo da Hispânia sob Augusto. O Conjunto Arqueológico de Tárraco é Património da UNESCO desde 2000 e inclui o anfiteatro junto ao mar, o circo, o fórum, as muralhas ciclópicas do século III a.C. e várias villas e aquedutos. A cidade tem hoje cerca de 135.000 habitantes (250.000 na área metropolitana), distribuída entre a cidade alta medieval (Part Alta), a Rambla Nova que desce até ao mar e o litoral da Costa Daurada. Em relação aos cães, a Catalunha aplica um marco normativo estrito (trela ≤2 m, raças "potencialmente perigosas" com licença, recolha e enxágue da urina obrigatórios), mas Tarragona é uma das grandes cidades catalãs mais acolhedoras: três praias caninas designadas, cerca de 80 restaurantes pet-friendly listados pelo turismo, um hospital veterinário 24h/24 a 5 km em La Canonja, e uma viagem de 70 minutos em Rodalies até Barcelona com cão.`,
+    },
+    sights: [
+      {
+        name: 'Amfiteatre Romà',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'amphithéâtre romain du IIᵉ siècle apr. J.-C., taillé dans le promontoire face à la Méditerranée, capacité de 15 000 spectateurs à son apogée. L'enceinte clôturée est interdite aux chiens non d'assistance, mais le parc autour et le belvédère du dessus restent libres et constituent l'un des plus beaux cadres de balade en laisse en Catalogne.`,
+          en: `The 2nd-century AD Roman amphitheatre carved into the seaside promontory, with capacity for 15,000 spectators at its peak. The fenced interior is closed to non-assistance dogs, but the surrounding park and the upper viewpoint stay open and offer one of the most spectacular leashed walks in Catalonia.`,
+          es: `El anfiteatro romano del siglo II d.C. excavado en el promontorio frente al Mediterráneo, con aforo para 15.000 espectadores en su apogeo. El recinto vallado está cerrado a perros que no sean de asistencia, pero el parque alrededor y el mirador superior siguen libres y ofrecen uno de los paseos con correa más espectaculares de Cataluña.`,
+          pt: `O anfiteatro romano do século II d.C. escavado no promontório frente ao Mediterrâneo, com capacidade para 15.000 espectadores no seu apogeu. O recinto vedado está fechado a cães que não sejam de assistência, mas o parque em torno e o miradouro superior permanecem livres e oferecem um dos passeios com trela mais espectaculares da Catalunha.`,
+        },
+      },
+      {
+        name: 'Balcó del Mediterrani',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le balcon en fer forgé au bout de la Rambla Nova, avec vue sur la Méditerranée et l'amphithéâtre. Le belvédère le plus photographié de Tarragone, ouvert 24h/24, chiens en laisse acceptés ; la tradition catalane veut qu'on touche le fer (tocar ferro) pour porter chance.`,
+          en: `The wrought-iron-railing balcony at the end of the Rambla Nova, with views over the Mediterranean and the amphitheatre. The most photographed viewpoint in Tarragona, open 24/7, leashed dogs welcome; Catalan tradition says you touch the iron (tocar ferro) for good luck.`,
+          es: `El balcón con barandilla de hierro forjado al final de la Rambla Nova, con vistas al Mediterráneo y al anfiteatro. El mirador más fotografiado de Tarragona, abierto 24h, perros con correa admitidos; la tradición catalana dice que hay que tocar el hierro (tocar ferro) para tener suerte.`,
+          pt: `O balcão com balaustrada de ferro forjado no final da Rambla Nova, com vista para o Mediterrâneo e o anfiteatro. O miradouro mais fotografado de Tarragona, aberto 24h, cães com trela admitidos; a tradição catalã diz que se toca o ferro (tocar ferro) para dar sorte.`,
+        },
+      },
+      {
+        name: 'Passeig Arqueològic',
+        emoji: '🧱',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade ombragée de 1 km entre les murailles romaines intérieures (IIIᵉ siècle av. J.-C.) et les fortifications du XVIIIᵉ siècle, avec belvédères, pelouses et tours de guet. En plein air, en laisse, parfaite combinée avec le Camp de Mart pour boucler toute la muraille.`,
+          en: `A 1 km shaded promenade between the inner Roman walls (3rd century BC) and the 18th-century outer fortifications, with viewpoints, lawns and watchtowers. Outdoor, on a leash, perfect when combined with Camp de Mart to circle the whole wall.`,
+          es: `Paseo en sombra de 1 km entre las murallas romanas interiores (siglo III a.C.) y las fortificaciones exteriores del siglo XVIII, con miradores, césped y torres de guardia. Al aire libre, con correa, perfecto combinado con Camp de Mart para rodear toda la muralla.`,
+          pt: `Passeio em sombra de 1 km entre as muralhas romanas interiores (século III a.C.) e as fortificações exteriores do século XVIII, com miradouros, relvados e torres de guarda. Ao ar livre, com trela, perfeito combinado com o Camp de Mart para dar a volta a toda a muralha.`,
+        },
+      },
+      {
+        name: 'Parc del Francolí',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc urbain de Tarragone, 32 ha le long du Francolí, avec une àrea d'esbarjo per a gossos clôturée, des allées plates et une promenade piétonne en bord de rivière. La balade quotidienne des habitants, à 15 minutes à pied de la Rambla Nova.`,
+          en: `Tarragona's largest urban park, 32 ha along the Francolí river, with a fenced àrea d'esbarjo per a gossos (off-leash dog area), flat paths and a riverside pedestrian promenade. The local daily walk, 15 minutes on foot from the Rambla Nova.`,
+          es: `El mayor parque urbano de Tarragona, 32 ha junto al Francolí, con una àrea d'esbarjo per a gossos (zona canina) vallada, caminos llanos y un paseo peatonal junto al río. La salida diaria de los locales, a 15 minutos a pie de la Rambla Nova.`,
+          pt: `O maior parque urbano de Tarragona, 32 ha ao longo do Francolí, com uma àrea d'esbarjo per a gossos (zona canina) vedada, caminhos planos e um passeio pedonal junto ao rio. A saída diária dos locais, a 15 minutos a pé da Rambla Nova.`,
+        },
+      },
+      {
+        name: 'Platja Llarga & Cala Fonda',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `À l'est de la ville, la Platja Llarga (3 km de sable, zone canine désignée) prolonge la Costa Daurada ; un sentier dans la pinède du Bosc de la Marquesa mène en 20 min à la Cala Fonda, crique non surveillée et favorite des locaux avec chien, ouverte toute l'année.`,
+          en: `East of the city, Platja Llarga (3 km of sand, designated dog area) extends the Costa Daurada coast; a path through the Bosc de la Marquesa pine forest leads in 20 min to Cala Fonda, the unsupervised cove and local dog-favourite, open year-round.`,
+          es: `Al este de la ciudad, la Platja Llarga (3 km de arena, zona canina señalizada) prolonga la Costa Daurada; un sendero por el pinar del Bosc de la Marquesa lleva en 20 min a la Cala Fonda, la cala sin vigilancia y favorita local con perro, abierta todo el año.`,
+          pt: `A leste da cidade, a Platja Llarga (3 km de areia, zona canina designada) prolonga a Costa Daurada; um trilho pelo pinhal do Bosc de la Marquesa leva em 20 min à Cala Fonda, a cala sem vigilância e favorita local com cão, aberta o ano inteiro.`,
+        },
+      },
+      {
+        name: 'Catedral de Tarragona (cloister)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `La cathédrale gothique-romane du XIIᵉ siècle au sommet de la Part Alta. L'intérieur est fermé aux chiens non d'assistance, mais le cloître à ciel ouvert et la place sont accessibles en laisse et offrent l'un des points de vue les plus calmes sur la vieille ville.`,
+          en: `The 12th-century Romanesque-Gothic cathedral crowning the Part Alta. The interior is closed to non-assistance dogs, but the open-air cloister and the surrounding square are leashed-dog accessible and offer one of the calmest viewpoints over the old town.`,
+          es: `La catedral románico-gótica del siglo XII en lo alto de la Part Alta. El interior está cerrado a perros que no sean de asistencia, pero el claustro al aire libre y la plaza son accesibles con correa y ofrecen uno de los miradores más tranquilos sobre el casco antiguo.`,
+          pt: `A catedral românico-gótica do século XII no alto da Part Alta. O interior está fechado a cães que não sejam de assistência, mas o claustro a céu aberto e a praça são acessíveis com trela e oferecem um dos miradouros mais tranquilos sobre o centro histórico.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Décret catalan 6/1999 : laisse ≤2 m dans tout espace public ; muselière obligatoire pour les huit races classées potentiellement dangereuses (Décret 170/2002).`,
+        `Plages : trois zones canines désignées (Platja Llarga, Platja del Miracle, Bon Caponet) et la crique sauvage de Cala Fonda toute l'année ; chiens interdits sur les plages surveillées de juin à septembre, amende 100–300 €.`,
+        `Hôpital vétérinaire 24h/24 : AniCura Bofarull (La Canonja) +34 977 552 233 ; clinique de jour étendue Hospital Veterinario Dr. Patino +34 977 235 779 ; ligne de garde COVT +34 977 211 989.`,
+        `Obligation catalane : porter une petite bouteille d'eau + savon dilué pour rincer l'urine sur le trottoir, en plus du sac à déjections. Amende dès 100 €.`,
+        `Été : la pierre romaine et le bitume montent à 45 °C entre 13h et 17h en juillet–août. Marchez à l'aube ou après 19h, ou utilisez des bottines.`,
+      ],
+      en: [
+        `Catalan Decree 6/1999: leash ≤2 m in every public space; muzzle mandatory for the eight legally classified potentially dangerous breeds (Decree 170/2002).`,
+        `Beaches: three designated dog areas (Platja Llarga, Platja del Miracle, Bon Caponet) and the wild Cala Fonda cove year-round; dogs banned from supervised beaches June–September, fines €100–300.`,
+        `24-hour vet hospital: AniCura Bofarull (La Canonja) +34 977 552 233; extended-hours central clinic Hospital Veterinario Dr. Patino +34 977 235 779; COVT emergency rota line +34 977 211 989.`,
+        `Catalan duty: carry a small bottle of water + diluted soap to rinse urine off the pavement, on top of a waste bag. Fines start at €100.`,
+        `Summer: Roman stone and asphalt hit 45 °C between 13:00 and 17:00 in July–August. Walk at dawn or after 19:00, or use booties.`,
+      ],
+      es: [
+        `Decreto catalán 6/1999: correa ≤2 m en todo espacio público; bozal obligatorio para las ocho razas clasificadas como potencialmente peligrosas (Decreto 170/2002).`,
+        `Playas: tres zonas caninas señalizadas (Platja Llarga, Platja del Miracle, Bon Caponet) y la cala silvestre de Cala Fonda todo el año; perros vetados en playas con socorristas de junio a septiembre, multa 100–300 €.`,
+        `Hospital veterinario 24h: AniCura Bofarull (La Canonja) +34 977 552 233; clínica diurna ampliada Hospital Veterinario Dr. Patino +34 977 235 779; línea de guardia COVT +34 977 211 989.`,
+        `Obligación catalana: llevar una pequeña botella de agua + jabón diluido para enjuagar la orina de la acera, además de la bolsa para excrementos. Multa desde 100 €.`,
+        `Verano: la piedra romana y el asfalto alcanzan 45 °C entre las 13:00 y las 17:00 en julio–agosto. Pasea al amanecer o después de las 19:00, o usa botines.`,
+      ],
+      pt: [
+        `Decreto catalão 6/1999: trela ≤2 m em todo espaço público; açaime obrigatório para as oito raças classificadas como potencialmente perigosas (Decreto 170/2002).`,
+        `Praias: três zonas caninas designadas (Platja Llarga, Platja del Miracle, Bon Caponet) e a cala selvagem de Cala Fonda o ano inteiro; cães proibidos em praias com socorristas de junho a setembro, multa 100–300 €.`,
+        `Hospital veterinário 24h: AniCura Bofarull (La Canonja) +34 977 552 233; clínica diurna ampliada Hospital Veterinario Dr. Patino +34 977 235 779; linha de urgência COVT +34 977 211 989.`,
+        `Obrigação catalã: levar uma pequena garrafa de água + sabão diluído para enxaguar a urina do passeio, além da saca para excrementos. Multa a partir de 100 €.`,
+        `Verão: a pedra romana e o asfalto atingem 45 °C entre as 13:00 e as 17:00 em julho–agosto. Passeie ao amanhecer ou depois das 19:00, ou use botas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : aéroport Reus (REU) à 13 km, Barcelone-El Prat (BCN) à 1h ; Renfe Rodalies depuis Barcelona Sants en 70 min ; AVE/Avlo grande vitesse depuis Camp de Tarragona avec siège chien payant.`,
+        `Documents : passeport européen + puce ISO + vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) délivré dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus).`,
+        `Transports locaux : EMT Tarragona (bus) accepte les petits chiens en cage gratuitement et les plus grands à la discrétion du chauffeur hors heures de pointe ; tarif 1,55 €.`,
+        `Pet-sitting : Rover, Gudog et TrustedHousesitters couvrent la ville ; tarifs 14–18 €/nuit en garde à domicile et 10–13 € la promenade ; réservez 4 semaines à l'avance pour la Setmana Santa, les Festes de Santa Tecla (mi-septembre) et Noël.`,
+        `Climat : étés chauds 24–28 °C, parfois balayés par le Mestral ; hivers doux 10–14 °C, pluies concentrées en octobre. Meilleurs mois avec un chien : mai, juin et fin septembre.`,
+      ],
+      en: [
+        `How to arrive: Reus airport (REU) 13 km, Barcelona-El Prat (BCN) 1 h; Renfe Rodalies from Barcelona Sants in 70 min; AVE/Avlo high-speed from Camp de Tarragona with a paid dog seat.`,
+        `Documents: EU pet passport + ISO microchip + rabies vaccine at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days for non-EU visitors (UK included post-Brexit).`,
+        `Local transport: EMT Tarragona (bus) accepts small dogs in carriers free, larger dogs at the driver's discretion outside rush hour; €1.55 fare.`,
+        `Pet-sitting: Rover, Gudog and TrustedHousesitters cover the city; €14–18 per night for in-home boarding and €10–13 per walk; book 4 weeks ahead for Setmana Santa, Festes de Santa Tecla (mid-September) and Christmas.`,
+        `Climate: warm summers 24–28 °C, sometimes blown by the Mestral wind; mild winters 10–14 °C with rain concentrated in October. Best months with a dog: May, June and late September.`,
+      ],
+      es: [
+        `Cómo llegar: aeropuerto de Reus (REU) a 13 km, Barcelona-El Prat (BCN) a 1 h; Renfe Rodalies desde Barcelona Sants en 70 min; AVE/Avlo desde Camp de Tarragona con plaza para perro de pago.`,
+        `Documentos: pasaporte europeo + microchip ISO + vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos para visitantes de fuera de la UE (Reino Unido tras el Brexit incluido).`,
+        `Transporte local: EMT Tarragona (bus) admite perros pequeños en transportín gratis y perros mayores a criterio del conductor fuera de hora punta; billete 1,55 €.`,
+        `Pet-sitting: Rover, Gudog y TrustedHousesitters cubren la ciudad; 14–18 € por noche en alojamiento en casa del sitter y 10–13 € por paseo; reserva con 4 semanas de antelación para Semana Santa, Festes de Santa Tecla (mediados de septiembre) y Navidad.`,
+        `Clima: veranos cálidos 24–28 °C, a veces barridos por el Mestral; inviernos suaves 10–14 °C con lluvias concentradas en octubre. Mejores meses con un perro: mayo, junio y finales de septiembre.`,
+      ],
+      pt: [
+        `Como chegar: aeroporto de Reus (REU) a 13 km, Barcelona-El Prat (BCN) a 1 h; Renfe Rodalies a partir de Barcelona Sants em 70 min; AVE/Avlo a partir de Camp de Tarragona com lugar para cão pago.`,
+        `Documentos: passaporte europeu + microchip ISO + vacina antirrábica de pelo menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias anteriores para visitantes fora da UE (Reino Unido depois do Brexit incluído).`,
+        `Transporte local: EMT Tarragona (bus) admite cães pequenos em transportadora grátis e cães maiores a critério do condutor fora da hora de ponta; bilhete 1,55 €.`,
+        `Pet-sitting: Rover, Gudog e TrustedHousesitters cobrem a cidade; 14–18 € por noite em alojamento em casa do sitter e 10–13 € por passeio; reserva com 4 semanas de antecedência para Semana Santa, Festes de Santa Tecla (meados de setembro) e Natal.`,
+        `Clima: verões quentes 24–28 °C, por vezes varridos pelo vento Mestral; invernos suaves 10–14 °C com chuvas concentradas em outubro. Melhores meses com um cão: maio, junho e fim de setembro.`,
+      ],
+    },
+  },
+
   'the-hague': {
     history: {
       fr: `La Haye n'est pas la capitale officielle des Pays-Bas mais elle em concentre la fonction, siège du gouvernement, du Parlement, des ambassades et de la Cour internationale de Justice depuis 1913. Fondée au XIIIe siècle autour d'un pavillon de chasse comtal sur l'étang du Hofvijver, la ville est restée une « Résidence » royale jusqu'à aujourd'hui, conservant un urbanisme aéré et arboré qui la distingue d'Amsterdam ou Rotterdam. Sur ses 560 000 habitants, plus de 50 000 chiens sont enregistrés à la commune, et la culture locale leur fait largement de la place : 11 km de littoral à Scheveningen et Kijkduin, des dunes Natura 2000 sans laisse, des forêts em plein centre comme le Haagse Bos, et une politique de transports gratuits pour les petits chiens em sac. La Haye est l'une des capitales européennes les mieux équipées pour vivre, et voyager, avec un chien.`,

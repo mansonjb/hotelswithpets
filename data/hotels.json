@@ -17692,6 +17692,127 @@
     "petPolicyPt": "Omena Hotel Tampere, um 3-star self-service budget hotel em Hämeenkatu, welcomes cães em 10 € por noite. One cão per quarto standard, second em prior pedido. Tammerkoski rapids e Hämeenkatu tram no doorstep."
   },
   {
+    "id": "tarragona-1",
+    "name": "Hotel Lauria",
+    "destinationSlug": "tarragona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.0,
+    "reviewCount": 2900,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/lauria.html",
+    "petFee": 15,
+    "petPolicy": "One pet (dog or cat) up to 8 kg per room welcome with a €15 per night fee. Central Rambla Nova location, 5 minutes' walk from the Balcó del Mediterrani and 10 minutes from the Roman amphitheatre.",
+    "highlights": [
+      "Rambla Nova location, 5 min from the seafront balcony",
+      "Excellent 9.0 guest rating on Booking",
+      "Walking distance to Roman amphitheatre and Part Alta"
+    ],
+    "slug": "hotel-lauria"
+  },
+  {
+    "id": "tarragona-2",
+    "name": "B&B Hotel Tarragona Centro Urbis",
+    "destinationSlug": "tarragona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2100,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/b-amp-b-tarragona-centro-urbis.html",
+    "petFee": 10,
+    "petPolicy": "Dogs and cats welcome with a €10 per night fee. Modern budget hotel a 10-minute walk from the Rambla Nova and a 15-minute walk from the Roman amphitheatre. Pet bowls available at reception on request.",
+    "highlights": [
+      "Affordable budget option, family-run B&B chain",
+      "Dogs and cats both welcome",
+      "10 min walk to Rambla Nova"
+    ],
+    "slug": "bnb-hotel-tarragona-centro-urbis"
+  },
+  {
+    "id": "tarragona-3",
+    "name": "Hotel Cosmos Tarragona",
+    "destinationSlug": "tarragona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1800,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/cosmos-tarragona.html",
+    "petFee": 15,
+    "petPolicy": "Dogs and cats welcome with a €15 per night fee. Quiet central location with an outdoor pool. 15 minutes' walk to the Roman walls and 10 minutes to the Parc del Francolí off-leash dog area.",
+    "highlights": [
+      "Outdoor pool and quiet location",
+      "10 min walk to Parc del Francolí off-leash area",
+      "Generous 26 m² rooms"
+    ],
+    "slug": "hotel-cosmos-tarragona"
+  },
+  {
+    "id": "tarragona-4",
+    "name": "Hostal El Callejón",
+    "destinationSlug": "tarragona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.7,
+    "reviewCount": 1100,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hostal-el-callejon-tarragona.html",
+    "petFee": 5,
+    "petPolicy": "Dogs and cats of any size welcome with a €5 per night fee plus a €5 refundable deposit per night. Family-run hostal in the centro storico, 5 minutes' walk from the Roman amphitheatre and the seafront.",
+    "highlights": [
+      "All sizes of dogs and cats accepted",
+      "Family-run hostal in the historic centre",
+      "Cheapest verified pet-friendly option in Tarragona"
+    ],
+    "slug": "hostal-el-callejon-tarragona"
+  },
+  {
+    "id": "tarragona-5",
+    "name": "Catalunya Express",
+    "destinationSlug": "tarragona",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 9.0,
+    "reviewCount": 900,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/catalunya-express.html",
+    "petFee": 10,
+    "petPolicy": "Pets welcome with a €10 per night fee. Compact, modern, family-run hotel within a short walk of the Rambla Nova, the Balcó del Mediterrani and the Renfe Rodalies station for day trips to Barcelona.",
+    "highlights": [
+      "9.0 guest rating, modern family-run property",
+      "Walking distance to Renfe Rodalies station",
+      "Best-value pet-friendly option in the budget tier"
+    ],
+    "slug": "catalunya-express-tarragona"
+  },
+  {
     "id": "the-hague-1",
     "name": "Hilton The Hague",
     "destinationSlug": "the-hague",

@@ -112,6 +112,7 @@ const TARGETS = [
   { slug: 'funchal', query: 'Funchal Madeira Portugal harbour bay marina cable car amphitheatre Atlantic panorama sunset' },
   { slug: 'bari', query: 'Bari Italy Old Town Bari Vecchia Basilica San Nicola Lungomare Adriatic sea harbour panorama sunset' },
   { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
+  { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

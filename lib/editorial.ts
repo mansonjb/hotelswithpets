@@ -592,6 +592,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Pyynikki ridge and observation tower café, the Pyynikki and Niihama dog beaches on the two lakes, and the Tammerkoski rapids walkway through the centre`,
       area: `the centre between the Tammerkoski rapids and Hämeenkatu, the Finlayson creative quarter, and the lakeside Pyynikki ridge`,
     },
+    tarragona: {
+      personality: `Catalonia's UNESCO Roman seaport on the Costa Daurada, with three designated dog beaches, an open-air 2nd-century amphitheatre that doubles as the prettiest leashed walk in the city, and a 24/7 reference vet hospital at La Canonja`,
+      highlight: `the Roman amphitheatre and its seafront viewpoint, the dog area at Platja Llarga and the secluded Cala Fonda cove through the Bosc de la Marquesa pine forest, and the Passeig Arqueològic around the Roman walls`,
+      area: `the medieval Part Alta and Roman walls, the Rambla Nova ending at the Balcó del Mediterrani, and the seafront Platja del Miracle`,
+    },
     'the-hague': {
       personality: 'a stately Dutch capital where 11 km of North Sea coast, off-leash dunes, and dog-friendly cafés sit a tram ride from the centre',
       highlight: 'Westduinpark and Bosjes van Poot, the Haagse Bos forest, and Landgoed Clingendael',
@@ -1253,6 +1258,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la troisième ville de Finlande et la capitale officieuse du sauna, transports exceptionnellement dog-friendly (trams et trains gratuits), 22 koira-aitaus clôturés, deux plages canines en bord de lac à distance de marche du centre, et l'iconique crête de Pyynikki avec promenade canine toute l'année`,
       highlight: `la crête de Pyynikki et son café-tour d'observation, les plages canines de Pyynikki et Niihama sur les deux lacs, et la promenade des rapides du Tammerkoski à travers le centre`,
       area: `le centre entre les rapides du Tammerkoski et Hämeenkatu, le quartier créatif Finlayson et la crête lacustre de Pyynikki`,
+    },
+    tarragona: {
+      personality: `le port romain catalan classé à l'UNESCO sur la Costa Daurada, avec trois plages canines désignées, un amphithéâtre du IIᵉ siècle en plein air qui sert de plus belle balade en laisse de la ville, et un hôpital vétérinaire de référence 24h/24 à La Canonja`,
+      highlight: `l'amphithéâtre romain et son belvédère en bord de mer, la zone canine de la Platja Llarga et la crique discrète de Cala Fonda à travers la pinède du Bosc de la Marquesa, et le Passeig Arqueològic autour des murailles romaines`,
+      area: `la Part Alta médiévale et les murailles romaines, la Rambla Nova jusqu'au Balcó del Mediterrani, et la Platja del Miracle en bord de mer`,
     },
     'the-hague': {
       personality: 'une capitale néerlandaise élégante où 11 km de côte de la mer du Nord, des dunes sans laisse et des cafés dog-friendly sont à un tram du centre',
@@ -1916,6 +1926,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la cresta de Pyynikki y su café-torre de observación, las playas caninas de Pyynikki y Niihama en los dos lagos, y el paseo de los rápidos del Tammerkoski a través del centro`,
       area: `el centro entre los rápidos del Tammerkoski y Hämeenkatu, el barrio creativo Finlayson y la cresta lacustre de Pyynikki`,
     },
+    tarragona: {
+      personality: `el puerto romano catalán Patrimonio de la UNESCO en la Costa Daurada, con tres playas caninas señalizadas, un anfiteatro del siglo II al aire libre que es el paseo con correa más bonito de la ciudad, y un hospital veterinario de referencia 24h/24 en La Canonja`,
+      highlight: `el anfiteatro romano y su mirador junto al mar, la zona canina de Platja Llarga y la cala discreta de Cala Fonda a través del pinar Bosc de la Marquesa, y el Passeig Arqueològic en torno a las murallas romanas`,
+      area: `la Part Alta medieval y las murallas romanas, la Rambla Nova hasta el Balcó del Mediterrani, y la Platja del Miracle frente al mar`,
+    },
     'the-hague': {
       personality: 'una capital neerlandesa elegante donde 11 km de costa del Mar del Norte, dunas sin correa y cafés dog-friendly están a un tranvía del centro',
       highlight: 'Westduinpark y Bosjes van Poot, el bosque Haagse Bos y la finca Clingendael',
@@ -2577,6 +2592,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a tercera cidade de Finlândia e capital oficiosa do sauna, transporte excepcionalmente pet-friendly (elétricos e comboios grátis), 22 koira-aitaus valladas, dos praias caninas junto al lago a distancia pedonal do centro, e a icónica cresta de Pyynikki com passeio canino o ano inteiro`,
       highlight: `a cresta de Pyynikki e o seu café-torre de observación, as praias caninas de Pyynikki e Niihama nos dos lagos, e o passeio dos rápidos do Tammerkoski a través do centro`,
       area: `o centro entre os rápidos do Tammerkoski e Hämeenkatu, o bairro creativo Finlayson e a cresta lacustre de Pyynikki`,
+    },
+    tarragona: {
+      personality: `o porto romano catalão Património da UNESCO na Costa Daurada, com três praias caninas designadas, um anfiteatro do século II ao ar livre que é o passeio com trela mais bonito da cidade, e um hospital veterinário de referência 24h/24 em La Canonja`,
+      highlight: `o anfiteatro romano e o seu miradouro junto ao mar, a zona canina da Platja Llarga e a cala discreta de Cala Fonda através do pinhal Bosc de la Marquesa, e o Passeig Arqueològic em torno das muralhas romanas`,
+      area: `a Part Alta medieval e as muralhas romanas, a Rambla Nova até ao Balcó del Mediterrani, e a Platja del Miracle em frente ao mar`,
     },
     'the-hague': {
       personality: 'uma capital neerlandesa elegante onde 11 km de costa do mar do norte, dunas sem trela e cafés pet-friendly estão a um elétrico do centro',

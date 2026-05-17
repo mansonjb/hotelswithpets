@@ -171,6 +171,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
       area: 'Le Suquet (the old town), the Marché Forville quarter, and La Bocca',
     },
+    cardiff: {
+      personality: `the Welsh capital with one of the largest urban park networks in the UK, 130 hectares of off-lead riverside grass at Bute Park and Pontcanna Fields ten minutes from the castle, a 2 km Cardiff Bay barrage walk linking directly to Penarth Pier, and a 24/7 reference emergency hospital fifteen minutes north`,
+      highlight: `Bute Park along the River Taff, the Cardiff Bay barrage to Penarth Pier walk, and the dog-friendly ground floor of Caerphilly Castle`,
+      area: `the compact city centre around Cardiff Castle, the Pontcanna quarter, and the Cardiff Bay waterfront at Mermaid Quay`,
+    },
     cascais: {
       personality: `Lisbon's elegant coastal escape, where almost every marina terrace serves water bowls without being asked and the seafront Paredão promenade fills with dogs at sunset`,
       highlight: 'the Parque Marechal Carmona shaded park, the Boca do Inferno cliff walk, and the wild Atlantic dune trails of Guincho and Cresmina',
@@ -839,6 +844,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
       area: 'Le Suquet (la vieille ville), le quartier du Marché Forville et La Bocca',
     },
+    cardiff: {
+      personality: `la capitale galloise, avec l'un des plus vastes réseaux de parcs urbains du Royaume-Uni, 130 hectares de pelouses sans laisse en bord de rivière à Bute Park et Pontcanna Fields à dix minutes du château, une promenade de 2 km sur le barrage de Cardiff Bay qui rejoint directement Penarth Pier, et un hôpital d'urgence vétérinaire 24h/24 de référence à quinze minutes au nord`,
+      highlight: `Bute Park le long de la rivière Taff, la promenade du barrage de Cardiff Bay jusqu'à Penarth Pier et le rez-de-chaussée dog-friendly du château de Caerphilly`,
+      area: `le centre compact autour du château de Cardiff, le quartier de Pontcanna et le front de mer de Cardiff Bay à Mermaid Quay`,
+    },
     cascais: {
       personality: `l'évasion côtière élégante de Lisbonne, où presque toutes les terrasses de la marina servent une gamelle d'eau sans qu'on le demande et où la promenade en bord de mer du Paredão se remplit de chiens au coucher du soleil`,
       highlight: 'le parc ombragé Marechal Carmona, le sentier de falaise de Boca do Inferno et les plages sauvages des dunes atlantiques de Guincho et Cresmina',
@@ -1506,6 +1516,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Île Sainte-Marguerite boscosa, la Plage de la Bocca y los callejones adoquinados de Le Suquet',
       area: 'Le Suquet (el casco antiguo), el barrio del Marché Forville y La Bocca',
     },
+    cardiff: {
+      personality: `la capital galesa, con una de las mayores redes de parques urbanos del Reino Unido, 130 hectáreas de césped sin correa junto al río en Bute Park y Pontcanna Fields a diez minutos del castillo, un paseo de 2 km sobre el barrage de Cardiff Bay que conecta directamente con el Penarth Pier, y un hospital veterinario de urgencias 24/7 de referencia a quince minutos al norte`,
+      highlight: `Bute Park a lo largo del río Taff, el paseo del barrage de Cardiff Bay hasta Penarth Pier y la planta baja pet-friendly del castillo de Caerphilly`,
+      area: `el centro compacto alrededor del castillo de Cardiff, el barrio de Pontcanna y el paseo marítimo de Cardiff Bay en Mermaid Quay`,
+    },
     cascais: {
       personality: `la elegante escapada costera de Lisboa, donde casi todas las terrazas del puerto sirven un cuenco de agua sin pedirlo y el paseo marítimo del Paredão se llena de perros al atardecer`,
       highlight: 'el parque sombreado Marechal Carmona, el sendero del acantilado de Boca do Inferno y las playas salvajes de las dunas atlánticas de Guincho y Cresmina',
@@ -2172,6 +2187,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma glamurosa cidade da Costa Azul com uma cultura canina sorprendentemente relajada, as esplanadas de Le Suquet, o bairro do Marché Forville e as praias occidentales acogen cães durante o ano inteiro',
       highlight: 'a Île Sainte-Marguerite boscosa, a Plage da Bocca e as ruelas adoquinados de Le Suquet',
       area: 'Le Suquet (o centro histórico), o bairro do Marché Forville e A Bocca',
+    },
+    cardiff: {
+      personality: `a capital galesa, com uma das maiores redes de parques urbanos do Reino Unido, 130 hectares de relva sem trela junto ao rio em Bute Park e Pontcanna Fields a dez minutos do castelo, um passeio de 2 km sobre o barrage de Cardiff Bay que liga directamente ao Penarth Pier, e um hospital veterinário de urgências 24/7 de referência a quinze minutos a norte`,
+      highlight: `Bute Park ao longo do rio Taff, o passeio do barrage de Cardiff Bay até Penarth Pier e o piso térreo pet-friendly do castelo de Caerphilly`,
+      area: `o centro compacto à volta do castelo de Cardiff, o bairro de Pontcanna e a frente marítima de Cardiff Bay em Mermaid Quay`,
     },
     cascais: {
       personality: `a elegante escapada costera de Lisboa, onde casi todas as esplanadas do porto sirven um cuenco de água sem pedirlo e o passeio marítimo do Paredão se llena de cães al atardecer`,

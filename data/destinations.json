@@ -2202,6 +2202,80 @@
     }
   },
   {
+    "slug": "cardiff",
+    "name": "Cardiff",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "lat": 51.4816,
+    "lng": -3.1791,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cardiff.jpg",
+    "intro": "The Welsh capital pairs a 130-hectare riverside park network with a compact dog-welcoming city centre, a 2 km Cardiff Bay barrage walk linking directly to Penarth Pier, and a 24/7 reference emergency hospital fifteen minutes north.",
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild with showers",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool & wet",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "cascais",
     "name": "Cascais",
     "country": "Portugal",

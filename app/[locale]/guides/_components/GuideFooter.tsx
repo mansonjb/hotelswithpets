@@ -103,6 +103,12 @@ const ALL_GUIDES = [
     label: { fr: 'Parcs canins clôturés en Europe', en: 'Fenced Dog Parks in Europe', es: 'Parques caninos vallados en Europa' },
     desc:  { fr: 'Inventaire vérifié · 70+ Hundezone / sgambamento / caniparc dans 50+ villes', en: 'Verified inventory · 70+ Hundezone / sgambamento / caniparc across 50+ cities', es: 'Inventario verificado · 70+ Hundezone / sgambamento / caniparc en 50+ ciudades' },
   },
+  {
+    slug: 'top-dog-friendly-islands-europe',
+    emoji: '🏝️',
+    label: { fr: `Top 25 îles dog-friendly d'Europe`, en: 'Top 25 dog-friendly islands in Europe', es: 'Top 25 islas dog-friendly de Europa' },
+    desc:  { fr: 'Mallorca, Madère, Crète, Sicile, Skye… 25 îles auditées', en: 'Mallorca, Madeira, Crete, Sicily, Skye… 25 islands audited', es: 'Mallorca, Madeira, Creta, Sicilia, Skye… 25 islas auditadas' },
+  },
 ]
 
 const TITLES: Record<string, string> = {

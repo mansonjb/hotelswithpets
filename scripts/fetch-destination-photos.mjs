@@ -37,6 +37,7 @@ const TARGETS = [
   { slug: 'verona',      query: 'Arena di Verona Roman amphitheatre Piazza Bra' },
   { slug: 'padua',       query: 'Prato della Valle Padova canal statues' },
   { slug: 'naples',      query: 'Naples skyline Vesuvius Castel dellOvo' },
+  { slug: 'new-york',    query: 'Manhattan skyline Central Park New York' },
   { slug: 'strasbourg', query: 'Petite France Strasbourg half-timbered houses canals' },
   { slug: 'granada', query: 'Alhambra Granada Nasrid Palace aerial view' },
   { slug: 'hamburg', query: 'Speicherstadt Hamburg warehouse district canals' },

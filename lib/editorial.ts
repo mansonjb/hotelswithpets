@@ -466,6 +466,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Lungomare Caracciolo, the Bosco di Capodimonte, and the Parco Virgiliano on Posillipo',
       area: 'Chiaia, Posillipo, and the historic centre around Spaccanapoli',
     },
+    'new-york': {
+      personality: `the most pet-aware large city in the US, with 70+ dog runs, the country's most generous urban off-leash hours (5–9 am and 9 pm–1 am in Central and Prospect Parks), and a 24/7 emergency-vet network anchored by the Animal Medical Center`,
+      highlight: 'Central Park off-leash hours, Prospect Park Dog Beach, and the Hudson River Park dog runs',
+      area: 'the West Village, the East Village, and Park Slope in Brooklyn',
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -1154,6 +1159,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Lungomare Caracciolo, le Bosco di Capodimonte et le Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo et le centre historique autour de Spaccanapoli',
     },
+    'new-york': {
+      personality: `la grande ville la plus pet-aware des États-Unis, avec plus de 70 enclos canins, les horaires sans laisse urbains les plus généreux du pays (5h–9h et 21h–1h dans Central Park et Prospect Park), et un réseau d'urgences vétérinaires 24h/24 emmené par l'Animal Medical Center`,
+      highlight: `les heures sans laisse de Central Park, la Dog Beach de Prospect Park et les enclos du Hudson River Park`,
+      area: 'le West Village, l\'East Village et Park Slope à Brooklyn',
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -1841,6 +1851,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Lungomare Caracciolo, el Bosco di Capodimonte y el Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo y el centro histórico en torno a Spaccanapoli',
     },
+    'new-york': {
+      personality: `la gran ciudad más pet-aware de EE. UU., con más de 70 dog runs, los horarios sin correa urbanos más generosos del país (5:00–9:00 y 21:00–1:00 en Central Park y Prospect Park), y una red de urgencias veterinarias 24/7 encabezada por el Animal Medical Center`,
+      highlight: `las horas sin correa de Central Park, la Dog Beach de Prospect Park y los dog runs del Hudson River Park`,
+      area: 'el West Village, el East Village y Park Slope en Brooklyn',
+    },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
@@ -2527,6 +2542,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital caótica e apasionada do sul de Italia, densos ruelas históricos, Lungomare peatonal de 2,5 km, Bosco di Capodimonte de 134 hectáreas e trattorie que tratan aos cães como miembros da familia',
       highlight: 'o Lungomare Caracciolo, o Bosco di Capodimonte e o Parco Virgiliano de Posillipo',
       area: 'Chiaia, Posillipo e o centro histórico en torno a Spaccanapoli',
+    },
+    'new-york': {
+      personality: `a grande cidade mais pet-aware dos EUA, com mais de 70 dog runs, os horários sem trela urbanos mais generosos do país (5:00–9:00 e 21:00–1:00 em Central Park e Prospect Park), e uma rede de urgências veterinárias 24/7 liderada pelo Animal Medical Center`,
+      highlight: `as horas sem trela de Central Park, a Dog Beach de Prospect Park e os dog runs do Hudson River Park`,
+      area: 'o West Village, o East Village e Park Slope em Brooklyn',
     },
     nice: {
       personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',

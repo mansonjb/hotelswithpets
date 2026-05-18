@@ -6532,6 +6532,80 @@
     }
   },
   {
+    "slug": "new-york",
+    "name": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/new-york.jpg",
+    "intro": "The first US destination on the site: Manhattan's skyline, 70+ dog runs, 24/7 emergency vets, and the most generous urban off-leash hours in America (5–9 am, 9 pm–1 am in Central and Prospect Parks). Dense, demanding in summer heat, and rewarding for travellers who want a pet-friendly city break beyond Europe.",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "weather": {
+      "jan": {
+        "temp": 0,
+        "desc": "Cold, snow possible",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold, occasional snow",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool, blustery",
+        "icon": "🌬️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm, blooming",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm, humid",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, humid, 30°C+ days",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot, humid, thunderstorms",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm, fewer crowds",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool, autumn colours",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool to cold",
+        "icon": "☁️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold, festive lights",
+        "icon": "🎄"
+      }
+    }
+  },
+  {
     "slug": "nice",
     "name": "Nice",
     "country": "France",

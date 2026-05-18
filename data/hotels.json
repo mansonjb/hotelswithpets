@@ -13371,6 +13371,128 @@
     "petPolicyPt": "Animais permitidos por 10 EUR por noite. All sizes bem-vindos. máx. 1 animais per quarto."
   },
   {
+    "id": "new-york-1",
+    "name": "Loews Regency New York Hotel",
+    "destinationSlug": "new-york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1900,
+    "priceFrom": 525,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/hotel/us/the-regency-new-york.html",
+    "petFee": 0,
+    "petPolicy": "Loews Loves Pets program: dogs and cats welcome at no fee, no weight limit. Pet beds, bowls, treats and a Loews Loves Pets gift bag on arrival. Pet room service menu available.",
+    "highlights": [
+      "No pet fee, no weight limit",
+      "Park Avenue / Upper East Side, near Central Park",
+      "In-room pet bed, bowls and treats included"
+    ],
+    "slug": "loews-regency-new-york"
+  },
+  {
+    "id": "new-york-2",
+    "name": "Kimpton Hotel Eventi",
+    "destinationSlug": "new-york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 365,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/hotel/us/eventi-a-kimpton.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton brand: pets of any size, kind or number stay free. No deposit, no fee. Pet beds, bowls and a welcome treat provided. Daily wine hour is dog-friendly.",
+    "highlights": [
+      "Zero pet fee, any size, any number",
+      "NoMad / Chelsea, central Manhattan",
+      "Famous nightly wine hour open to dogs"
+    ],
+    "slug": "kimpton-hotel-eventi"
+  },
+  {
+    "id": "new-york-3",
+    "name": "Hotel Indigo Lower East Side",
+    "destinationSlug": "new-york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2600,
+    "priceFrom": 285,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/hotel/us/indigo-lower-east-side.html",
+    "petFee": 75,
+    "petPolicy": "Pets allowed for a $75 non-refundable cleaning fee per stay. Up to two pets per room, no weight limit listed. Bowls and a welcome treat at check-in.",
+    "highlights": [
+      "Flat $75 per-stay fee (not per-night)",
+      "Lower East Side, near East River park",
+      "Rooftop bar with skyline views"
+    ],
+    "slug": "hotel-indigo-lower-east-side"
+  },
+  {
+    "id": "new-york-4",
+    "name": "citizenM New York Bowery",
+    "destinationSlug": "new-york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 4100,
+    "priceFrom": 215,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/hotel/us/citizenm-new-york-bowery.html",
+    "petFee": 0,
+    "petPolicy": "citizenM allows one pet under 25 lb (11 kg) per room at no charge. Pet bed and bowls provided on request at check-in.",
+    "highlights": [
+      "No pet fee for one small pet",
+      "Bowery / Lower East Side location",
+      "Compact stylish rooms, great rooftop"
+    ],
+    "slug": "citizenm-new-york-bowery"
+  },
+  {
+    "id": "new-york-5",
+    "name": "Pod 51 Hotel",
+    "destinationSlug": "new-york",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 5800,
+    "priceFrom": 165,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/hotel/us/pod-51.html",
+    "petFee": 35,
+    "petPolicy": "Pets allowed for $35 per night, max 25 lb (11 kg), one pet per room. Designated pet-friendly rooms only, must request at booking.",
+    "highlights": [
+      "Budget-friendly Midtown East",
+      "Walk to Grand Central, easy transit",
+      "Small pet-friendly room block, book early"
+    ],
+    "slug": "pod-51-hotel"
+  },
+  {
     "id": "nice-1",
     "name": "Hotel Le Negresco",
     "destinationSlug": "nice",

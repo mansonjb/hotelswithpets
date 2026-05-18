@@ -11499,6 +11499,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'new-york': {
+    history: {
+      fr: `New York, fondée en 1624 comme comptoir hollandais de la Nouvelle-Amsterdam puis rebaptisée par les Anglais en 1664, est devenue en quatre siècles la métropole financière, culturelle et migratoire la plus influente du monde. Ses 8,3 millions d'habitants partagent 783 km² répartis sur cinq boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island), une densité qui en fait paradoxalement l'une des villes américaines les plus pet-aware. Pour les propriétaires de chiens, NYC offre un cocktail unique : 70+ enclos canins entretenus par les Parks, les horaires sans laisse urbains les plus généreux des États-Unis (Central et Prospect Parks de 5h à 9h et de 21h à 1h), un réseau dense d'urgences vétérinaires 24h/24, et une culture des hôtels haut de gamme qui accueillent activement les animaux. Les contraintes : la règle MTA imposant un sac de transport dans le métro, l'asphalte estival qui dépasse 50 °C l'après-midi, et un code sanitaire qui exclut les chiens des restaurants intérieurs (mais autorise les terrasses depuis 2015).`,
+      en: `New York, founded in 1624 as the Dutch trading post of New Amsterdam and renamed by the English in 1664, has become in four centuries the world's most influential financial, cultural and migratory metropolis. Its 8.3 million inhabitants share 783 km² across five boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island), a density that paradoxically makes it one of the most pet-aware US cities. For dog owners, NYC offers a unique mix: 70+ dog runs maintained by the Parks Department, the most generous urban off-leash hours in America (Central and Prospect Parks, 5–9 am and 9 pm–1 am), a dense 24/7 emergency-vet network, and a luxury-hotel culture that actively welcomes pets. The constraints: the MTA carrier rule on the subway, summer asphalt reaching 50 °C in the afternoon, and a Health Code that excludes dogs from restaurant interiors (but allows them on patios since 2015).`,
+      es: `Nueva York, fundada en 1624 como puesto comercial holandés de Nueva Ámsterdam y rebautizada por los ingleses en 1664, se ha convertido en cuatro siglos en la metrópoli financiera, cultural y migratoria más influyente del mundo. Sus 8,3 millones de habitantes comparten 783 km² distribuidos en cinco boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island), una densidad que paradójicamente la convierte en una de las ciudades de EE. UU. más pet-aware. Para los dueños de perros, NYC ofrece un cóctel único: más de 70 dog runs mantenidos por Parks, los horarios sin correa urbanos más generosos del país (Central y Prospect Parks de 5:00 a 9:00 y de 21:00 a 1:00), una densa red de urgencias veterinarias 24/7, y una cultura hotelera de lujo que acoge activamente a las mascotas. Las limitaciones: la regla MTA del transportín en el metro, el asfalto veraniego que supera los 50 °C por la tarde, y un código sanitario que excluye perros del interior de los restaurantes (pero permite las terrazas desde 2015).`,
+      pt: `Nova Iorque, fundada em 1624 como entreposto comercial holandês de Nova Amsterdão e rebatizada pelos ingleses em 1664, tornou-se em quatro séculos a metrópole financeira, cultural e migratória mais influente do mundo. Os seus 8,3 milhões de habitantes partilham 783 km² distribuídos por cinco boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island), uma densidade que paradoxalmente a torna numa das cidades dos EUA mais pet-aware. Para os donos de cães, NYC oferece um cocktail único: mais de 70 dog runs mantidos pelos Parks, os horários sem trela urbanos mais generosos do país (Central e Prospect Parks das 5:00 às 9:00 e das 21:00 à 1:00), uma densa rede de urgências veterinárias 24/7, e uma cultura hoteleira de luxo que acolhe ativamente os animais. As restrições: a regra MTA do transportador no metro, o asfalto estival que ultrapassa os 50 °C à tarde, e um código sanitário que exclui cães do interior dos restaurantes (mas permite esplanadas desde 2015).`,
+    },
+    sights: [
+      {
+        name: 'Central Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc emblématique de Manhattan de 341 hectares. Horaires officiels sans laisse de 5h à 9h et de 21h à 1h, toute l'année, sur la majorité du parc.`,
+          en: `Manhattan's iconic 843-acre park. Official off-leash hours 5–9 am and 9 pm–1 am year-round across most of the park.`,
+          es: `El parque emblemático de Manhattan, 341 hectáreas. Horario oficial sin correa 5:00–9:00 y 21:00–1:00 todo el año en la mayor parte del parque.`,
+          pt: `O parque emblemático de Manhattan, 341 hectares. Horário oficial sem trela 5:00–9:00 e 21:00–1:00 todo o ano na maior parte do parque.`,
+        },
+      },
+      {
+        name: 'Prospect Park',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: `Parc dessiné par Olmsted-Vaux à Brooklyn, 213 hectares. Sans laisse de 5h à 9h, et seule Dog Beach urbaine de NYC où les chiens peuvent nager d'avril à novembre.`,
+          en: `Olmsted-Vaux park in Brooklyn, 526 acres. Off-leash 5–9 am, and the only urban Dog Beach in NYC, where dogs can swim April through November.`,
+          es: `Parque diseñado por Olmsted-Vaux en Brooklyn, 213 hectáreas. Sin correa 5:00–9:00, y la única Dog Beach urbana de NYC, donde los perros pueden nadar de abril a noviembre.`,
+          pt: `Parque desenhado por Olmsted-Vaux em Brooklyn, 213 hectares. Sem trela 5:00–9:00, e a única Dog Beach urbana de NYC, onde os cães podem nadar de abril a novembro.`,
+        },
+      },
+      {
+        name: 'Brooklyn Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Pont suspendu emblématique de 1883, 1,8 km. Tablier piéton supérieur ouvert aux chiens en laisse à toute heure, séparé des vélos depuis 2021.`,
+          en: `Iconic 1883 suspension bridge, 1.8 km long. Upper pedestrian deck open to leashed dogs at all hours, separated from bikes since 2021.`,
+          es: `Emblemático puente colgante de 1883, 1,8 km. Cubierta peatonal superior abierta a perros con correa a toda hora, separada de las bicis desde 2021.`,
+          pt: `Emblemática ponte suspensa de 1883, 1,8 km. Tabuleiro pedonal superior aberto a cães com trela a toda a hora, separado das bicicletas desde 2021.`,
+        },
+      },
+      {
+        name: 'The High Line',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Parc linéaire surélevé de 2,3 km sur un ancien viaduc ferroviaire, ouvert depuis 2009. Chiens en laisse admis sur toute la longueur, gamelles d'eau aux accès 16e et 23e rue.`,
+          en: `A 2.3 km elevated linear park on a former freight rail viaduct, opened in 2009. Leashed dogs welcome the full length, water bowls at the 16th and 23rd Street access points.`,
+          es: `Parque lineal elevado de 2,3 km sobre un antiguo viaducto ferroviario, abierto en 2009. Perros con correa admitidos en toda la longitud, cuencos de agua en los accesos de las calles 16 y 23.`,
+          pt: `Parque linear elevado de 2,3 km sobre um antigo viaduto ferroviário, aberto em 2009. Cães com trela admitidos em toda a extensão, tigelas de água nos acessos das ruas 16 e 23.`,
+        },
+      },
+      {
+        name: 'Staten Island Ferry',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Ferry gratuit de 25 min entre Whitehall (Manhattan) et St. George (Staten Island). Chiens en laisse gratuits, passe devant la statue de la Liberté.`,
+          en: `Free 25-minute ferry between Whitehall (Manhattan) and St. George (Staten Island). Leashed dogs ride free, passes the Statue of Liberty.`,
+          es: `Ferri gratuito de 25 min entre Whitehall (Manhattan) y St. George (Staten Island). Los perros con correa viajan gratis, pasa por la Estatua de la Libertad.`,
+          pt: `Ferry gratuito de 25 min entre Whitehall (Manhattan) e St. George (Staten Island). Os cães com trela viajam grátis, passa pela Estátua da Liberdade.`,
+        },
+      },
+      {
+        name: `Hell's Kitchen and the West Village`,
+        emoji: '🏙️',
+        petFriendly: true,
+        desc: {
+          fr: `Deux quartiers de Manhattan parmi les plus dog-friendly. Centaines de terrasses, le Hudson River Park à un bloc, et un Veterinary Emergency Group ouvert 24h/24 sur la 4e rue ouest.`,
+          en: `Two of Manhattan's most dog-friendly neighbourhoods. Hundreds of patios, the Hudson River Park one block away, and a 24/7 Veterinary Emergency Group on West 4th Street.`,
+          es: `Dos de los barrios más dog-friendly de Manhattan. Cientos de terrazas, el Hudson River Park a una manzana, y un Veterinary Emergency Group abierto 24/7 en la calle 4 oeste.`,
+          pt: `Dois dos bairros mais dog-friendly de Manhattan. Centenas de esplanadas, o Hudson River Park a um quarteirão, e um Veterinary Emergency Group aberto 24/7 na West 4th Street.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le métro MTA n'accepte les chiens qu'en sac de transport (Code MTA §1050.9). Les grands chiens sont théoriquement interdits ; en pratique, beaucoup sont transportés dans de grands sacs IKEA modifiés.`,
+        `Heures sans laisse officielles dans Central Park et Prospect Park : 5h–9h et 21h–1h (Prospect Park 5h–9h seulement). En dehors, laisse obligatoire et amendes appliquées (jusqu'à 100 $).`,
+        `Bitume estival : 50–60 °C les après-midis de juillet-août. Promenez avant 9h ou après 20h, ou utilisez les pavés de pierre du SoHo et de Greenwich Village.`,
+        `Trois urgences vétérinaires 24h/24 ouvertes aux walk-ins : Animal Medical Center (510 E 62nd St), BluePearl Midtown West (410 W 55th St), VEG West Village (270 W 4th St).`,
+        `Uber Pet existe à NYC (supplément 3 à 5 $) pour les grands chiens ; le NYC Ferry accepte les chiens en laisse gratuitement sur toutes les lignes (East River, Astoria, South Brooklyn).`,
+      ],
+      en: [
+        `The MTA subway only accepts dogs in a carrier (MTA Code §1050.9). Big dogs are technically banned; in practice, many are carried in oversized modified IKEA-style bags.`,
+        `Official off-leash hours in Central Park and Prospect Park: 5–9 am and 9 pm–1 am (Prospect Park 5–9 am only). Outside these windows, leashes are mandatory and fines up to $100 are enforced.`,
+        `Summer asphalt: 50–60 °C on July and August afternoons. Walk before 9 am or after 8 pm, or stick to the stone cobbles of SoHo and Greenwich Village.`,
+        `Three 24/7 emergency vets accept walk-ins: Animal Medical Center (510 E 62nd St), BluePearl Midtown West (410 W 55th St), VEG West Village (270 W 4th St).`,
+        `Uber Pet operates citywide ($3–5 surcharge) for larger dogs; the NYC Ferry accepts leashed dogs free of charge on all routes (East River, Astoria, South Brooklyn).`,
+      ],
+      es: [
+        `El metro MTA solo admite perros en transportín (Código MTA §1050.9). Los perros grandes están técnicamente prohibidos; en la práctica, muchos viajan en bolsos grandes tipo IKEA modificados.`,
+        `Horario oficial sin correa en Central Park y Prospect Park: 5:00–9:00 y 21:00–1:00 (Prospect Park solo 5:00–9:00). Fuera de esos horarios, la correa es obligatoria y se aplican multas de hasta 100 $.`,
+        `Asfalto en verano: 50–60 °C en las tardes de julio-agosto. Pasea antes de las 9:00 o después de las 20:00, o quédate en los adoquines de piedra de SoHo y Greenwich Village.`,
+        `Tres urgencias veterinarias 24/7 admiten sin cita: Animal Medical Center (510 E 62nd St), BluePearl Midtown West (410 W 55th St), VEG West Village (270 W 4th St).`,
+        `Uber Pet funciona en toda la ciudad (suplemento 3–5 $) para perros grandes; el NYC Ferry admite perros con correa gratis en todas las rutas (East River, Astoria, South Brooklyn).`,
+      ],
+      pt: [
+        `O metro MTA só aceita cães em transportadora (Código MTA §1050.9). Os cães grandes estão tecnicamente proibidos; na prática, muitos são transportados em bolsas grandes tipo IKEA modificadas.`,
+        `Horário oficial sem trela em Central Park e Prospect Park: 5:00–9:00 e 21:00–1:00 (Prospect Park só 5:00–9:00). Fora desses horários, a trela é obrigatória e aplicam-se multas até 100 $.`,
+        `Asfalto no verão: 50–60 °C nas tardes de julho-agosto. Passeie antes das 9:00 ou depois das 20:00, ou fique-se pelas calçadas de pedra do SoHo e de Greenwich Village.`,
+        `Três urgências veterinárias 24/7 aceitam visitas sem marcação: Animal Medical Center (510 E 62nd St), BluePearl Midtown West (410 W 55th St), VEG West Village (270 W 4th St).`,
+        `O Uber Pet opera em toda a cidade (suplemento 3–5 $) para cães grandes; o NYC Ferry aceita cães com trela grátis em todas as rotas (East River, Astoria, South Brooklyn).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée aux États-Unis depuis l'UE : vaccin antirabique valide, puce électronique, et formulaire CDC Dog Import rempli en ligne avant le voyage. Règles durcies en août 2024, arrivée obligatoire dans un aéroport approuvé (JFK en fait partie).`,
+        `Laisse obligatoire (NYC Admin Code §161.05) sur toutes les voies publiques et dans les parcs hors horaires sans laisse, max 1,80 m.`,
+        `Ramassage des déjections obligatoire (Health Code §161.03), amende de 250 $, contrôles fréquents par la Sanitation Police.`,
+        `Pas d'interdiction de race au niveau de la ville, mais beaucoup d'hôtels refusent les pit bulls, rottweilers, dobermans et bergers allemands — vérifiez avant de réserver.`,
+        `Hôtels pet-friendly : les marques Kimpton, Loews et la plupart des hôtels boutique acceptent les animaux sans supplément ; les hôtels mid-range facturent 50 à 150 $ par séjour.`,
+      ],
+      en: [
+        `US entry from EU: valid rabies vaccination, microchip, and CDC Dog Import Form filled in online before travel. Rules tightened in August 2024, arrival mandatory at an approved airport (JFK qualifies).`,
+        `Leash mandatory (NYC Admin Code §161.05) on all public streets and in parks outside official off-leash hours, max 6 feet.`,
+        `Picking up waste mandatory (Health Code §161.03), $250 fine, Sanitation Police checks are frequent.`,
+        `No citywide breed ban, but many hotels refuse pit bulls, rottweilers, dobermans and German shepherds — confirm before booking.`,
+        `Pet-friendly hotels: Kimpton brand, Loews and most boutique hotels accept pets without a fee; mid-range hotels typically charge $50–150 per stay.`,
+      ],
+      es: [
+        `Entrada a EE. UU. desde la UE: vacuna antirrábica vigente, microchip y el formulario CDC Dog Import cumplimentado online antes del viaje. Reglas endurecidas en agosto de 2024, llegada obligatoria a un aeropuerto aprobado (JFK lo es).`,
+        `Correa obligatoria (NYC Admin Code §161.05) en todas las calles públicas y en los parques fuera del horario sin correa, máx 1,80 m.`,
+        `Recogida de excrementos obligatoria (Health Code §161.03), multa de 250 $, controles frecuentes de la Sanitation Police.`,
+        `Sin prohibición de raza a nivel municipal, pero muchos hoteles rechazan pit bulls, rottweilers, dobermans y pastores alemanes — confirma antes de reservar.`,
+        `Hoteles pet-friendly: la marca Kimpton, Loews y la mayoría de hoteles boutique aceptan mascotas sin suplemento; los hoteles de gama media suelen cobrar 50–150 $ por estancia.`,
+      ],
+      pt: [
+        `Entrada nos EUA desde a UE: vacina antirrábica válida, microchip, e formulário CDC Dog Import preenchido online antes da viagem. Regras endurecidas em agosto de 2024, chegada obrigatória num aeroporto aprovado (JFK qualifica).`,
+        `Trela obrigatória (NYC Admin Code §161.05) em todas as ruas públicas e nos parques fora dos horários sem trela, máx 1,80 m.`,
+        `Recolha de dejetos obrigatória (Health Code §161.03), multa de 250 $, controlos frequentes pela Sanitation Police.`,
+        `Sem proibição de raça a nível municipal, mas muitos hotéis recusam pit bulls, rottweilers, dobermans e pastores alemães — confirme antes de reservar.`,
+        `Hotéis pet-friendly: a marca Kimpton, Loews e a maioria dos hotéis boutique aceitam animais sem suplemento; os hotéis de gama média costumam cobrar 50–150 $ por estadia.`,
+      ],
+    },
+  },
+
   nice: {
     history: {
       en: 'Nice, the capital of the French Riviera and France\'s fifth-largest city, has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',

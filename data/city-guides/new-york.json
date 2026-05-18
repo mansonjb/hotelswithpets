@@ -1,0 +1,743 @@
+{
+  "slug": "new-york",
+  "name": "New York",
+  "country": "United States",
+  "flag": "🇺🇸",
+  "lastUpdated": "2026-05-18",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in New York City",
+      "titleFr": "Restaurants acceptant les animaux à New York",
+      "titleEs": "Restaurantes que admiten mascotas en Nueva York",
+      "introEn": "New York City has hundreds of dog-friendly restaurants thanks to NY State Health Code §81.25, which allows dogs on outdoor patios of food-service establishments (since 2015). Indoor dining with dogs is rare and limited to service animals, but the city's terrace culture in the West Village, East Village, Williamsburg and Astoria makes year-round patio dining easy in spring through fall. Many spots provide water bowls and treats unprompted. Pet-friendly patios are densest below 14th Street and along the Brooklyn waterfront. Call ahead in winter, only a minority of patios are heated.",
+      "introFr": "New York compte des centaines de restaurants dog-friendly grâce au code sanitaire de l'État de NY §81.25, qui autorise les chiens sur les terrasses extérieures des restaurants depuis 2015. Les chiens sont rarement admis à l'intérieur (uniquement les chiens d'assistance), mais la culture des terrasses dans le West Village, East Village, Williamsburg et Astoria rend les repas en terrasse faciles du printemps à l'automne. Beaucoup d'établissements offrent gamelles d'eau et friandises sans qu'on demande. Les terrasses dog-friendly sont les plus denses au sud de la 14e rue et le long du front de mer de Brooklyn. Appelez en hiver, seule une minorité de terrasses est chauffée.",
+      "introEs": "Nueva York tiene cientos de restaurantes pet-friendly gracias al Código Sanitario del Estado de NY §81.25, que permite perros en patios exteriores desde 2015. Los perros rara vez se admiten en el interior (solo perros de servicio), pero la cultura de terrazas en West Village, East Village, Williamsburg y Astoria facilita comer fuera de primavera a otoño. Muchos sitios ofrecen cuencos de agua y golosinas sin pedirlo. Las terrazas dog-friendly son más densas al sur de la calle 14 y a lo largo del waterfront de Brooklyn. Llama en invierno: pocas terrazas están climatizadas.",
+      "places": [
+        {
+          "name": "Boris & Horton",
+          "address": "195 Avenue A, New York, NY 10009",
+          "neighborhood": "East Village",
+          "photo": "/images/city-places/new-york-restaurants-boris-horton.jpg",
+          "website": "https://borisandhorton.com",
+          "description": "New York City's first fully dog-friendly café, opened in 2018 by a father-daughter duo and named after their two dogs. The space is split by NY Health Code rules: an order counter side (no dogs, food prep) and a separate dining area where leashed dogs are welcome to join you indoors year-round. Coffee, beer, wine, sandwiches and a rotating menu of dog adoption events. Closest subway: 1st Av (L) or Astor Pl (6).",
+          "descriptionFr": "Le premier café entièrement dog-friendly de New York, ouvert en 2018 par un duo père-fille et nommé d'après leurs deux chiens. L'espace est séparé selon les règles sanitaires : côté commande (sans chiens, préparation alimentaire) et côté salle où les chiens en laisse sont admis toute l'année. Café, bière, vin, sandwichs et événements réguliers d'adoption canine. Métro : 1st Av (L) ou Astor Pl (6).",
+          "descriptionEs": "El primer café totalmente dog-friendly de Nueva York, abierto en 2018 por un dúo padre-hija y bautizado con el nombre de sus dos perros. El espacio está dividido según el código sanitario: lado de pedido (sin perros, zona de manipulación) y sala donde los perros con correa pueden acompañarte todo el año. Café, cerveza, vino, sándwiches y eventos regulares de adopción canina. Metro: 1st Av (L) o Astor Pl (6).",
+          "petPolicy": "Dogs welcome indoors in the dining area (separated from food prep). Must be leashed.",
+          "petPolicyFr": "Chiens admis à l'intérieur, dans la salle (séparée de la zone de préparation). Laisse obligatoire.",
+          "petPolicyEs": "Perros admitidos en el interior, en la sala (separada de la cocina). Correa obligatoria.",
+          "priceRange": "$$",
+          "mustTry": "Avocado toast and a $5 pour-over coffee while your dog naps",
+          "mustTryFr": "Avocado toast et un café filtre à 5 $ pendant que votre chien fait la sieste",
+          "mustTryEs": "Tostada de aguacate y un café de filtro de 5 $ mientras tu perro descansa",
+          "openingHours": "Mon–Thu 7:00–22:00, Fri 7:00–23:00, Sat 8:00–23:00, Sun 8:00–22:00",
+          "tip": "Sunday afternoons are peak puppy hours; if your dog is reactive, weekday mornings are calm.",
+          "tipFr": "Les dimanches après-midi sont les heures de pointe canines ; pour un chien réactif, préférez les matinées en semaine.",
+          "tipEs": "Las tardes de domingo son hora punta de perros; para un perro reactivo, mejor las mañanas entre semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=Boris+and+Horton+195+Avenue+A+New+York",
+          "descriptionPt": "O primer café totalmente pet-friendly de Nueva York, abierto en 2018 por um dúo padre-hija e bautizado com o nombre dois seus dois cães. O espacio está dividido segundo o código sanitario: lado de pedido (sem cães, zona de manipulación) e sala onde os cães com trela podem acompanharte o ano inteiro. Café, cerveza, veio, sándwiches e eventos regulares de adopción canina. Metro: 1st Av (L) o Astor Pl (6).",
+          "petPolicyPt": "Cães admitidos no interior, na sala (separada da cocina). Trela obrigatória.",
+          "mustTryPt": "Tostada de aguacate e um café de filtro de 5 $ enquanto tu cão descansa",
+          "tipPt": "As tardes de domingo são hora punta de cães; para um cão reactivo, melhor as manhanas entre semana."
+        },
+        {
+          "name": "Bark Hot Dogs",
+          "address": "474 Bergen Street, Brooklyn, NY 11217",
+          "neighborhood": "Park Slope, Brooklyn",
+          "photo": "/images/city-places/new-york-restaurants-bark-hot-dogs.jpg",
+          "website": "https://barkhotdogs.com",
+          "description": "A Park Slope institution specializing in grass-fed hot dogs and craft beer, with a dedicated dog-friendly back patio and water bowls at the door. Dogs are welcome on the patio year-round and frequently get a free piece of plain hot dog if the kitchen isn't slammed. Walk-in only, no reservations. Closest subway: Bergen St (2/3) one block away.",
+          "descriptionFr": "Une institution de Park Slope spécialisée dans les hot dogs au bœuf nourri à l'herbe et la bière artisanale, avec un patio arrière dog-friendly et des gamelles d'eau à l'entrée. Chiens admis sur le patio toute l'année, avec souvent un morceau de saucisse offert si la cuisine n'est pas débordée. Sans réservation. Métro : Bergen St (2/3) à un bloc.",
+          "descriptionEs": "Una institución de Park Slope especializada en perritos calientes de ternera alimentada con hierba y cerveza artesanal, con un patio trasero dog-friendly y cuencos de agua en la entrada. Los perros son bienvenidos en el patio todo el año y suelen recibir un trozo de salchicha gratis si la cocina no está saturada. Sin reservas. Metro: Bergen St (2/3) a una manzana.",
+          "petPolicy": "Dogs welcome on the back patio year-round; leashed.",
+          "petPolicyFr": "Chiens admis sur le patio arrière toute l'année ; en laisse.",
+          "petPolicyEs": "Perros admitidos en el patio trasero todo el año; con correa.",
+          "priceRange": "$",
+          "mustTry": "Bark Dog (grass-fed beef) with sweet potato fries",
+          "mustTryFr": "Bark Dog (bœuf herbe) avec frites de patate douce",
+          "mustTryEs": "Bark Dog (ternera de hierba) con patatas fritas de boniato",
+          "openingHours": "Daily 11:30–22:00",
+          "tip": "The patio gets full sun in summer afternoons, ask for a corner table under the awning for shade.",
+          "tipFr": "Le patio est en plein soleil l'après-midi en été, demandez une table d'angle sous l'auvent pour l'ombre.",
+          "tipEs": "El patio recibe sol pleno por la tarde en verano, pide una mesa de esquina bajo el toldo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bark+Hot+Dogs+474+Bergen+Street+Brooklyn",
+          "descriptionPt": "Uma institución de Park Slope especializada en perritos calientes de ternera alimentada com hierba e cerveza artesanal, com um patio trasero pet-friendly e cuencos de água na entrada. Os cães são bem-vindos no patio o ano inteiro e costumam recibir um trozo de salchicha grátis se a cocina no está saturada. Sem reservas. Metro: Bergen St (2/3) a uma manzana.",
+          "petPolicyPt": "Cães admitidos no patio trasero o ano inteiro; com trela.",
+          "mustTryPt": "Bark Dog (ternera de hierba) com patatas fritas de boniato",
+          "tipPt": "O patio recibe sol pleno pela tarde en verão, pide uma mesa de esquina sob o toldo."
+        },
+        {
+          "name": "Westville Hudson",
+          "address": "333 Hudson Street, New York, NY 10013",
+          "neighborhood": "West Village / Hudson Square",
+          "photo": "/images/city-places/new-york-restaurants-westville-hudson.jpg",
+          "website": "https://westvillenyc.com",
+          "description": "Westville is a small NYC chain best known for its market vegetables and approachable American comfort food, and every location has a dog-friendly sidewalk patio with bowls of water provided on request. The Hudson Street location has the largest patio of the chain, sheltered partly under scaffolding which keeps it usable even on light rainy days. Solid for a Sunday brunch with a dog at your feet. Closest subway: Houston St (1) or Spring St (C/E).",
+          "descriptionFr": "Westville est une petite chaîne new-yorkaise connue pour ses légumes de marché et sa cuisine américaine accessible, et chaque adresse a une terrasse sur trottoir dog-friendly avec gamelles d'eau sur demande. L'adresse Hudson Street a la plus grande terrasse de la chaîne, partiellement abritée sous des échafaudages qui permettent même les jours de petite pluie. Idéal pour un brunch dominical avec son chien aux pieds. Métro : Houston St (1) ou Spring St (C/E).",
+          "descriptionEs": "Westville es una pequeña cadena neoyorquina conocida por sus verduras de mercado y cocina americana asequible, y cada local tiene una terraza en la acera dog-friendly con cuencos de agua bajo petición. El local de Hudson Street tiene la mayor terraza de la cadena, parcialmente cubierta por andamios que la hacen utilizable incluso con lluvia ligera. Ideal para un brunch dominical con tu perro a los pies. Metro: Houston St (1) o Spring St (C/E).",
+          "petPolicy": "Dogs welcome on the sidewalk patio (per NY Health Code §81.25). Leashed.",
+          "petPolicyFr": "Chiens admis sur le patio extérieur (selon le code sanitaire NY §81.25). En laisse.",
+          "petPolicyEs": "Perros admitidos en la terraza exterior (según el Código Sanitario NY §81.25). Con correa.",
+          "priceRange": "$$",
+          "mustTry": "Market plate (any four sides) and the turkey burger",
+          "mustTryFr": "Assiette marché (quatre légumes au choix) et le burger de dinde",
+          "mustTryEs": "Plato de mercado (cuatro verduras a elegir) y la hamburguesa de pavo",
+          "openingHours": "Daily 11:00–23:00",
+          "tip": "Brunch weekends have 30-min waits, the patio fills first because dogs queue better than people inside.",
+          "tipFr": "Brunch week-end : 30 min d'attente, la terrasse se remplit en premier car les chiens patientent mieux que les gens à l'intérieur.",
+          "tipEs": "Brunch de fin de semana: 30 min de espera; la terraza se llena primero porque los perros esperan mejor que la gente dentro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Westville+Hudson+333+Hudson+Street+New+York",
+          "descriptionPt": "Westville é uma pequenha cadena neoyorquina conocida por os seus verduras de mercado e cocina americana asequible, e cada local tem uma esplanada na acera pet-friendly com cuencos de água sob petición. O local de Hudson Street tem a mayor esplanada da cadena, parcialmente cubierta por andamios que a fazem utilizable mesmo com lluvia ligera. Ideal para um brunch dominical com tu cão aos pies. Metro: Houston St (1) o Spring St (C/E).",
+          "petPolicyPt": "Cães admitidos na esplanada exterior (segundo o Código Sanitario NY §81.25). Com trela.",
+          "mustTryPt": "Plato de mercado (quatro verduras a elegir) e a hamburguesa de pavo",
+          "tipPt": "Brunch de fin de semana: 30 min de espera; a esplanada se llena primero porque os cães esperan melhor que a gente dentro."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go inside NYC restaurants?",
+          "a": "Generally no, except service animals. NY State Health Code §81.25 prohibits dogs from indoor food service areas. The exceptions are venues like Boris & Horton that physically separate the kitchen from the dining area. Most NYC dog-friendly dining happens on outdoor patios, which have been legally allowed since 2015."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils entrer dans les restaurants new-yorkais ?",
+          "a": "Généralement non, sauf chiens d'assistance. Le code sanitaire de l'État de NY §81.25 interdit les chiens dans les zones intérieures de restauration. Exceptions : des lieux comme Boris & Horton qui séparent physiquement cuisine et salle. La quasi-totalité des repas dog-friendly à NYC se font sur des terrasses extérieures, autorisées depuis 2015."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros entrar en restaurantes de NYC?",
+          "a": "Por lo general no, salvo perros de servicio. El Código Sanitario del Estado de NY §81.25 prohíbe los perros en zonas interiores de hostelería. Las excepciones son locales como Boris & Horton que separan físicamente cocina y sala. La mayoría de comidas dog-friendly en NYC se hacen en terrazas exteriores, permitidas desde 2015."
+        }
+      ],
+      "titlePt": "Restaurantes que admitem animais en Nueva York",
+      "introPt": "Nueva York tem cientos de restaurantes pet-friendly gracias al Código Sanitario do Estado de NY §81.25, que permite cães en patios exteriores a partir de 2015. Os cães rara vez se admitem no interior (só cães de serviço), mas a cultura de esplanadas en West Village, East Village, Williamsburg e Astoria facilita comer fora de primavera a outono. Muitos sitios ofrecen cuencos de água e golosinas sem pedirlo. As esplanadas pet-friendly são mais densas a sul da rua 14 e a lo largo do waterfront de Brooklyn. Liga en inverno: poucas esplanadas estão climatizadas.",
+      "faqsPt": [
+        {
+          "q": "Podem os cães entrar en restaurantes de NYC?",
+          "a": "Por lo general no, salvo cães de serviço. O Código Sanitario do Estado de NY §81.25 prohíbe os cães en zonas interiores de hostelería. As excepciones são locales como Boris & Horton que separan físicamente cocina e sala. A maioria de comidas pet-friendly en NYC se fazem en esplanadas exteriores, permitidas a partir de 2015."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks and Green Spaces in New York City",
+      "titleFr": "Parcs canins et espaces verts à New York",
+      "titleEs": "Parques caninos y espacios verdes en Nueva York",
+      "introEn": "New York is unusually generous in green space for a megacity: Central Park (843 acres), Prospect Park (526 acres), Riverside Park (330 acres) and more than 70 designated dog runs maintained by the NYC Parks Department. The signature feature is the city's year-round off-leash policy in many large parks before 9 am and after 9 pm, by far the most generous schedule in any major US city. Outside those windows leashes are mandatory and tickets are written.",
+      "introFr": "New York est exceptionnellement bien dotée en espaces verts pour une mégalopole : Central Park (341 ha), Prospect Park (213 ha), Riverside Park (133 ha) et plus de 70 enclos canins (dog runs) gérés par la NYC Parks Department. La spécificité new-yorkaise : la politique d'horaires sans laisse toute l'année dans de nombreux grands parcs avant 9h et après 21h, de loin la plus généreuse de toute grande ville américaine. En dehors de ces créneaux, la laisse est obligatoire et les amendes pleuvent.",
+      "introEs": "Nueva York es excepcionalmente generosa en espacios verdes para una megaciudad: Central Park (341 ha), Prospect Park (213 ha), Riverside Park (133 ha) y más de 70 dog runs vallados gestionados por NYC Parks. La particularidad: política de horarios sin correa todo el año en muchos grandes parques antes de las 9:00 y después de las 21:00, de lejos la más generosa de cualquier gran ciudad de EE. UU. Fuera de esos horarios, la correa es obligatoria y se ponen multas.",
+      "places": [
+        {
+          "name": "Central Park",
+          "type": "Large urban park (off-leash hours)",
+          "photo": "/images/city-places/new-york-parks-central-park.jpg",
+          "website": "https://www.centralparknyc.org/visit/things-to-do/dogs",
+          "description": "Manhattan's 843-acre signature park, where dogs can be off-leash from 5 am to 9 am and 9 pm to 1 am across most of the park, year-round. Roughly two dozen specific areas (Sheep Meadow, Conservatory Garden, the Great Lawn during ballgame hours, all playgrounds, sports fields and water bodies) remain leashed at all times. The Pinetum and Wallach Walk are favourite off-leash spots; the East and West Drives are quiet enough at dawn for a long roam.",
+          "descriptionFr": "Le parc emblématique de Manhattan de 341 hectares, où les chiens peuvent être sans laisse de 5h à 9h et de 21h à 1h sur la majeure partie du parc, toute l'année. Une vingtaine de zones (Sheep Meadow, Conservatory Garden, Great Lawn pendant les matchs, tous les terrains de jeux, terrains de sport et plans d'eau) restent en laisse en permanence. Le Pinetum et la Wallach Walk sont des spots favoris ; les East et West Drives sont calmes à l'aube pour une longue balade.",
+          "descriptionEs": "El parque emblema de Manhattan, 341 hectáreas, donde los perros pueden ir sin correa de 5:00 a 9:00 y de 21:00 a 1:00 en la mayor parte del parque, todo el año. Una veintena de áreas (Sheep Meadow, Conservatory Garden, Great Lawn durante partidos, todas las zonas de juegos infantiles, campos deportivos y láminas de agua) permanecen siempre con correa. Pinetum y Wallach Walk son rincones favoritos; East y West Drives están tranquilas al amanecer.",
+          "offLeash": true,
+          "offLeashArea": "Off-leash 5:00–9:00 and 21:00–1:00 in most of the park. Permanently leashed zones: Sheep Meadow, Conservatory Garden, playgrounds, sports fields.",
+          "offLeashAreaFr": "Sans laisse 5h–9h et 21h–1h dans la majorité du parc. Zones en laisse permanente : Sheep Meadow, Conservatory Garden, terrains de jeux, terrains de sport.",
+          "offLeashAreaEs": "Sin correa 5:00–9:00 y 21:00–1:00 en la mayor parte del parque. Zonas con correa permanente: Sheep Meadow, Conservatory Garden, áreas infantiles, campos deportivos.",
+          "tip": "Cedar Hill (E 76th St near 5th Av) is the city's most famous social off-leash spot; arrive 7–9 am for the friendliest crowd.",
+          "tipFr": "Cedar Hill (E 76e rue près de la 5e Av) est le spot off-leash le plus social de la ville ; venez 7h–9h pour l'ambiance la plus conviviale.",
+          "tipEs": "Cedar Hill (E 76th cerca de la 5ª Av) es el rincón sin correa más social de la ciudad; ven entre 7:00 y 9:00 para el ambiente más amable.",
+          "googleMapsUrl": "https://maps.google.com/?q=Cedar+Hill+Central+Park+New+York",
+          "descriptionPt": "O parque emblema de Manhattan, 341 hectáreas, onde os cães podem ir sem trela de 5:00 a 9:00 e de 21:00 a 1:00 na mayor parte do parque, o ano inteiro. Uma veintena de áreas (Sheep Meadow, Conservatory Garden, Great Lawn durante partidos, todas as zonas de juegos infantiles, campos deportivos e láminas de água) permanecen sempre com trela. Pinetum e Wallach Walk são rincones favoritos; East e West Drives estão tranquilas al amanecer.",
+          "offLeashAreaPt": "Sem trela 5:00–9:00 e 21:00–1:00 na mayor parte do parque. Zonas com trela permanente: Sheep Meadow, Conservatory Garden, áreas infantiles, campos deportivos.",
+          "tipPt": "Cedar Hill (E 76th perto da 5ª Av) é o rincón sem trela mais social da cidade; ven entre 7:00 e 9:00 para o ambiente mais amable."
+        },
+        {
+          "name": "Prospect Park",
+          "type": "Large urban park (off-leash hours + dog beach)",
+          "photo": "/images/city-places/new-york-parks-prospect-park.jpg",
+          "website": "https://www.prospectpark.org/visit-the-park/visitor-info/dogs/",
+          "description": "Brooklyn's 526-acre answer to Central Park, designed by the same Olmsted-Vaux team. Off-leash hours run 5 am to 9 am everywhere outside the Long Meadow ballfields. The park's headline feature for dogs is the Dog Beach, a small inlet of the Lullwater Pond where dogs can swim during off-leash hours from April to November. The Long Meadow and Nethermead are wide, treelined and ideal for a sunrise sprint.",
+          "descriptionFr": "Le pendant de Brooklyn de 213 hectares, dessiné par la même équipe Olmsted-Vaux. Sans laisse de 5h à 9h partout sauf sur les terrains de baseball du Long Meadow. La Dog Beach, petite crique du Lullwater Pond où les chiens peuvent nager pendant les heures sans laisse d'avril à novembre, en est le clou. Long Meadow et Nethermead sont larges, arborés, parfaits pour un sprint à l'aube.",
+          "descriptionEs": "La respuesta de Brooklyn (213 ha) a Central Park, diseñada por el mismo equipo Olmsted-Vaux. Sin correa de 5:00 a 9:00 en todo el parque salvo los campos de béisbol del Long Meadow. Su atractivo estrella: la Dog Beach, pequeña cala del Lullwater Pond donde los perros pueden nadar en horario sin correa de abril a noviembre. Long Meadow y Nethermead son amplios, arbolados y perfectos para un sprint al amanecer.",
+          "offLeash": true,
+          "offLeashArea": "Off-leash 5:00–9:00 daily, year-round. Dog Beach swim access during off-leash hours, April–November.",
+          "offLeashAreaFr": "Sans laisse 5h–9h tous les jours, toute l'année. Accès baignade à la Dog Beach pendant les heures sans laisse, avril–novembre.",
+          "offLeashAreaEs": "Sin correa 5:00–9:00 todos los días, todo el año. Acceso de baño en Dog Beach durante las horas sin correa, abril–noviembre.",
+          "tip": "Park near Grand Army Plaza (2/3 train) for fastest access to the Long Meadow and Dog Beach.",
+          "tipFr": "Entrez par Grand Army Plaza (métro 2/3) pour l'accès le plus rapide au Long Meadow et à la Dog Beach.",
+          "tipEs": "Entra por Grand Army Plaza (metro 2/3) para el acceso más rápido al Long Meadow y a la Dog Beach.",
+          "googleMapsUrl": "https://maps.google.com/?q=Dog+Beach+Prospect+Park+Brooklyn",
+          "descriptionPt": "A respuesta de Brooklyn (213 ha) a Central Park, disenhada pelo mismo equipo Olmsted-Vaux. Sem trela de 5:00 a 9:00 en todo o parque salvo os campos de béisbol do Long Meadow. O seu atractivo estrella: a Dog Beach, pequenha cala do Lullwater Pond onde os cães podem nadar en horário sem trela de abril a novembro. Long Meadow e Nethermead são amplios, arbolados e perfeitos para um sprint al amanecer.",
+          "offLeashAreaPt": "Sem trela 5:00–9:00 todos os dias, o ano inteiro. Acesso de banho en Dog Beach durante as horas sem trela, abril–novembro.",
+          "tipPt": "Entra por Grand Army Praça (metro 2/3) para o acesso mais rápido al Long Meadow e a a Dog Beach."
+        },
+        {
+          "name": "Hudson River Park",
+          "type": "Linear waterfront park with dog runs",
+          "photo": "/images/city-places/new-york-parks-hudson-river-park.jpg",
+          "website": "https://hudsonriverpark.org",
+          "description": "A 4-mile linear park along Manhattan's West Side, from Battery Park to 59th Street, with three dedicated fenced dog runs (Leroy Street, Pier 84, Chelsea Waterside). Walking the full waterfront with a dog is one of the city's signature experiences. The Leroy Street run in the West Village is the most social; Chelsea Waterside has artificial turf and is easiest on senior joints.",
+          "descriptionFr": "Un parc linéaire de 6,5 km le long du côté ouest de Manhattan, de Battery Park à la 59e rue, avec trois enclos canins clôturés (Leroy Street, Pier 84, Chelsea Waterside). Parcourir tout le front d'eau avec son chien est l'une des expériences emblématiques de la ville. L'enclos de Leroy Street dans le West Village est le plus social ; Chelsea Waterside a un revêtement synthétique, plus doux pour les articulations âgées.",
+          "descriptionEs": "Un parque lineal de 6,5 km a lo largo del West Side de Manhattan, de Battery Park a la calle 59, con tres dog runs vallados (Leroy Street, Pier 84, Chelsea Waterside). Recorrer todo el waterfront con tu perro es una de las experiencias emblema de la ciudad. El dog run de Leroy Street en el West Village es el más social; Chelsea Waterside tiene césped sintético, más amable con articulaciones mayores.",
+          "offLeash": true,
+          "offLeashArea": "Three fenced dog runs (always off-leash inside the fence). Park paths require leash.",
+          "offLeashAreaFr": "Trois enclos canins clôturés (sans laisse à l'intérieur). Le reste du parc impose la laisse.",
+          "offLeashAreaEs": "Tres dog runs vallados (sin correa dentro de la valla). Los caminos del parque exigen correa.",
+          "tip": "The Pier 84 dog run has a Hudson view sunset; arrive by 6:30 pm in summer for the best light.",
+          "tipFr": "L'enclos du Pier 84 offre un coucher de soleil sur l'Hudson ; venez vers 18h30 en été pour la plus belle lumière.",
+          "tipEs": "El dog run del Pier 84 ofrece atardecer sobre el Hudson; ve hacia las 18:30 en verano para la mejor luz.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leroy+Street+Dog+Run+Hudson+River+Park",
+          "descriptionPt": "Um parque lineal de 6,5 km a lo largo do West Side de Manhattan, de Battery Park a a rua 59, com três dog runs vallados (Leroy Street, Pier 84, Chelsea Waterside). Recorrer todo o waterfront com tu cão é uma das as experiencias emblema da cidade. O dog run de Leroy Street no West Village é o mais social; Chelsea Waterside tem relva sintético, mais amable com articulaciones mayores.",
+          "offLeashAreaPt": "Três dog runs vallados (sem trela dentro da valla). Os caminos do parque exigen trela.",
+          "tipPt": "O dog run do Pier 84 ofrece atardecer sobre o Hudson; ve para as 18:30 en verão para a melhor luz."
+        }
+      ],
+      "titlePt": "Parques caninos e espacios verdes en Nueva York",
+      "introPt": "Nueva York é excepcionalmente generosa en espacios verdes para uma megaciudad: Central Park (341 ha), Prospect Park (213 ha), Riverside Park (133 ha) e mais de 70 dog runs vallados gestionados por NYC Parks. A particularidad: política de horários sem trela o ano inteiro en muitos grandes parques antes das 9:00 e depois das 21:00, de lejos a mais generosa de cualquier gran cidade de EE. UU. Fora de esos horários, a trela é obrigatória e se ponen multas."
+    },
+    "transport": {
+      "titleEn": "Getting Around New York City with Your Pet",
+      "titleFr": "Se déplacer à New York avec son animal",
+      "titleEs": "Moverse por Nueva York con tu mascota",
+      "introEn": "New York's transport rules for pets are blunt: on the MTA subway, buses and commuter rail, dogs are only allowed if they are 'enclosed in a container that does not annoy other passengers' (MTA Code §1050.9). In practice that means a carrier or a bag. Big dogs are technically banned, though enforcement varies widely and many New Yorkers carry medium dogs in Ikea-style oversized totes. Service dogs always ride free without restriction. For larger pets, Uber Pet is widely available citywide for a $3–5 surcharge, and most yellow taxis will accept small dogs in carriers at the driver's discretion.",
+      "introFr": "Les règles de transport new-yorkaises pour animaux sont brutes : dans le métro MTA, les bus et trains de banlieue, les chiens ne sont admis que s'ils sont « enfermés dans un contenant qui n'incommode pas les autres voyageurs » (Code MTA §1050.9). En pratique : sac de transport. Les grands chiens sont théoriquement interdits, mais l'application varie et beaucoup de New-Yorkais transportent des chiens moyens dans de grands sacs Ikea. Les chiens d'assistance voyagent gratuitement sans restriction. Pour les plus gros animaux, Uber Pet est disponible partout (supplément 3 à 5 $) et la plupart des yellow cabs acceptent les petits chiens en sac, à la discrétion du chauffeur.",
+      "introEs": "Las reglas de transporte de NYC para mascotas son tajantes: en el metro MTA, autobuses y trenes de cercanías, los perros solo se admiten si van 'encerrados en un contenedor que no moleste a otros pasajeros' (Código MTA §1050.9). En la práctica: un transportín o bolso. Los perros grandes están técnicamente prohibidos, aunque la aplicación varía y muchos neoyorquinos llevan perros medianos en grandes bolsos tipo Ikea. Los perros de servicio viajan gratis sin restricciones. Para mascotas grandes, Uber Pet está disponible en toda la ciudad (suplemento 3–5 $) y la mayoría de yellow cabs aceptan perros pequeños en transportín a discreción del conductor.",
+      "rules": [
+        {
+          "mode": "MTA Subway",
+          "modeFr": "Métro MTA",
+          "modeEs": "Metro MTA",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "Dogs must be in a carrier or bag that does not annoy other passengers (MTA Code §1050.9). No fare for pets. Service animals ride free without a carrier.",
+          "detailsFr": "Les chiens doivent être dans un sac ou un transporteur qui n'incommode pas les autres voyageurs (Code MTA §1050.9). Pas de tarif pour les animaux. Les chiens d'assistance voyagent gratuitement sans transporteur.",
+          "detailsEs": "Los perros deben ir en transportín o bolso que no moleste a otros pasajeros (Código MTA §1050.9). Sin tarifa. Los perros de servicio viajan gratis sin transportín.",
+          "restrictions": "Big dogs technically banned; enforcement is at the platform agent's or conductor's discretion. The bag must keep the dog fully contained.",
+          "restrictionsFr": "Grands chiens techniquement interdits ; l'application est à la discrétion de l'agent de quai ou du conducteur. Le sac doit contenir entièrement le chien.",
+          "restrictionsEs": "Perros grandes técnicamente prohibidos; la aplicación queda a discreción del agente o conductor. El bolso debe contener al perro por completo.",
+          "website": "https://new.mta.info/accessibility/pets",
+          "modePt": "Metro MTA",
+          "detailsPt": "Os cães deben ir en transportadora o bolso que no moleste a otros pasajeros (Código MTA §1050.9). Sem tarifa. Os cães de serviço viajan grátis sem transportadora.",
+          "restrictionsPt": "Cães grandes técnicamente prohibidos; a aplicación queda a discreción do agente o conductor. O bolso debe contener al cão por completo."
+        },
+        {
+          "mode": "MTA Buses",
+          "modeFr": "Bus MTA",
+          "modeEs": "Autobuses MTA",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "Same rule as subway: dogs only in a container that doesn't disturb others. No pet fee. Service dogs admitted freely on a leash.",
+          "detailsFr": "Même règle que le métro : chiens uniquement dans un contenant qui ne dérange pas les autres. Pas de supplément. Chiens d'assistance admis librement en laisse.",
+          "detailsEs": "Misma regla que el metro: perros solo en un contenedor que no moleste. Sin suplemento. Perros de servicio admitidos libremente con correa.",
+          "restrictions": "Driver may refuse boarding if the carrier is too large for crowded conditions.",
+          "restrictionsFr": "Le chauffeur peut refuser l'embarquement si le sac est trop volumineux pour un bus bondé.",
+          "restrictionsEs": "El conductor puede negar el acceso si el transportín es demasiado grande para condiciones de aforo lleno.",
+          "website": "https://new.mta.info/accessibility/pets",
+          "modePt": "Autocarros MTA",
+          "detailsPt": "Misma regla que o metro: cães só num contenedor que no moleste. Sem suplemento. Cães de serviço admitidos libremente com trela.",
+          "restrictionsPt": "O conductor pode negar o acesso se o transportadora é demasiado grande para condições de aforo lleno."
+        },
+        {
+          "mode": "Yellow taxi & Uber/Lyft",
+          "modeFr": "Yellow cab & Uber/Lyft",
+          "modeEs": "Yellow cab & Uber/Lyft",
+          "allowed": true,
+          "free": false,
+          "carrierRequired": false,
+          "details": "Yellow taxis: dogs at the driver's discretion (TLC rules); most accept small dogs in carriers, some accept larger leashed dogs on a towel. Uber Pet exists across NYC with a $3–5 surcharge, no carrier required, must be booked as 'Pet' tier in the app.",
+          "detailsFr": "Yellow cabs : chiens à la discrétion du chauffeur (règles TLC) ; la plupart acceptent les petits chiens en sac, certains les plus grands en laisse sur une serviette. Uber Pet disponible dans tout NYC avec supplément 3 à 5 $, sans sac obligatoire, à réserver via le tier 'Pet' dans l'app.",
+          "detailsEs": "Yellow cabs: perros a discreción del conductor (reglas TLC); la mayoría aceptan perros pequeños en transportín, algunos perros más grandes con correa sobre una toalla. Uber Pet disponible en toda la ciudad con suplemento 3–5 $, sin transportín obligatorio, hay que reservar el nivel 'Pet' en la app.",
+          "restrictions": "Service dogs cannot be refused by any TLC-licensed vehicle. For non-service dogs, the driver's decision is final.",
+          "restrictionsFr": "Aucun véhicule licencié TLC ne peut refuser un chien d'assistance. Pour les autres chiens, la décision du chauffeur prime.",
+          "restrictionsEs": "Ningún vehículo con licencia TLC puede rechazar a un perro de servicio. Para los demás, la decisión del conductor es final.",
+          "website": "https://www.uber.com/us/en/ride/uber-pet/",
+          "modePt": "Yellow cab & Uber/Lyft",
+          "detailsPt": "Yellow cabs: cães a discreción do conductor (reglas TLC); a mayoría aceitam cães pequenhos en transportadora, algunos cães mais grandes com trela sobre uma toalla. Uber Pet disponible en toda a cidade com suplemento 3–5 $, sem transportadora obrigatório, hay que reservar o nivel 'Pet' na app.",
+          "restrictionsPt": "Ningún vehículo com licencia TLC pode rechazar a um cão de serviço. Para os demás, a decisión do conductor é final."
+        },
+        {
+          "mode": "LIRR & Metro-North (commuter rail)",
+          "modeFr": "LIRR & Metro-North (trains de banlieue)",
+          "modeEs": "LIRR & Metro-North (cercanías)",
+          "allowed": true,
+          "free": true,
+          "carrierRequired": true,
+          "details": "Long Island Rail Road and Metro-North require pets in a carrier on the lap or under the seat. No additional fare. Service dogs ride leashed without a carrier.",
+          "detailsFr": "Le Long Island Rail Road et Metro-North exigent que les animaux soient dans un sac sur les genoux ou sous le siège. Sans supplément. Chiens d'assistance en laisse, sans sac.",
+          "detailsEs": "Long Island Rail Road y Metro-North exigen que las mascotas vayan en transportín sobre el regazo o bajo el asiento. Sin suplemento. Perros de servicio con correa, sin transportín.",
+          "restrictions": "Carrier must fit on the lap or under the seat. Larger dogs not accepted outside service-animal status.",
+          "restrictionsFr": "Le sac doit tenir sur les genoux ou sous le siège. Plus gros chiens non admis hors statut d'assistance.",
+          "restrictionsEs": "El transportín debe caber sobre el regazo o bajo el asiento. Perros más grandes no admitidos fuera del estatus de servicio.",
+          "website": "https://new.mta.info/accessibility/pets",
+          "modePt": "LIRR & Metro-North (cercanías)",
+          "detailsPt": "Long Island Rail Road e Metro-North exigen que as animais vayan en transportadora sobre o regazo o sob o asiento. Sem suplemento. Cães de serviço com trela, sem transportadora.",
+          "restrictionsPt": "O transportadora debe caber sobre o regazo o sob o asiento. Cães mais grandes no admitidos fora do estatus de serviço."
+        },
+        {
+          "mode": "Citi Bike & ferries",
+          "modeFr": "Citi Bike & ferries",
+          "modeEs": "Citi Bike & ferris",
+          "allowed": true,
+          "free": false,
+          "carrierRequired": true,
+          "details": "Citi Bike does not allow dogs on the bikes (no front basket). NYC Ferry allows leashed dogs free of charge on all routes (East River, South Brooklyn, Astoria, etc.) — a great alternative to the subway with a big dog. Staten Island Ferry: leashed dogs allowed free.",
+          "detailsFr": "Citi Bike n'autorise pas les chiens (pas de panier avant). Le NYC Ferry accepte les chiens en laisse gratuitement sur toutes les lignes (East River, South Brooklyn, Astoria...) — excellente alternative au métro avec un gros chien. Staten Island Ferry : chiens en laisse gratuits.",
+          "detailsEs": "Citi Bike no admite perros (sin cesta delantera). El NYC Ferry admite perros con correa gratis en todas las rutas (East River, South Brooklyn, Astoria...) — gran alternativa al metro con un perro grande. Staten Island Ferry: perros con correa gratis.",
+          "restrictions": "On the ferry, dogs must be leashed and stay on the open outer deck during summer crowds.",
+          "restrictionsFr": "Sur le ferry, les chiens doivent être en laisse et rester sur le pont extérieur en cas de forte affluence estivale.",
+          "restrictionsEs": "En el ferri, los perros deben llevar correa y permanecer en la cubierta exterior cuando hay mucha gente en verano.",
+          "website": "https://www.ferry.nyc/",
+          "modePt": "Citi Bike & ferris",
+          "detailsPt": "Citi Bike no admite cães (sem cesta delantera). O NYC Ferry admite cães com trela grátis en todas as rutas (East River, South Brooklyn, Astoria...) — gran alternativa al metro com um cão grande. Staten Island Ferry: cães com trela grátis.",
+          "restrictionsPt": "No ferri, os cães deben levar trela e permanecer na cubierta exterior quando hay muita gente en verão."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take a large dog on the NYC subway?",
+          "a": "Officially no, the MTA requires dogs to be 'enclosed in a container' that doesn't annoy other passengers. In practice, many New Yorkers carry mid-sized dogs in oversized totes or modified IKEA-style bags and ride without issue, but a station agent can refuse boarding at their discretion. For dogs over ~25 kg, use Uber Pet ($3–5 surcharge) or the NYC Ferry (free, leashed)."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre un grand chien dans le métro de NYC ?",
+          "a": "Officiellement non, la MTA exige que les chiens soient « enfermés dans un contenant » qui n'incommode pas les autres voyageurs. En pratique, beaucoup de New-Yorkais transportent des chiens moyens dans de grands sacs ou des sacs IKEA modifiés sans souci, mais un agent peut refuser l'accès à sa discrétion. Pour les chiens de plus de ~25 kg, optez pour Uber Pet (supplément 3 à 5 $) ou le NYC Ferry (gratuit, en laisse)."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar un perro grande en el metro de NYC?",
+          "a": "Oficialmente no, la MTA exige que los perros vayan 'encerrados en un contenedor' que no moleste a otros viajeros. En la práctica, muchos neoyorquinos llevan perros medianos en grandes bolsos o bolsas IKEA modificadas sin problema, pero un agente puede negar el acceso a su criterio. Para perros de más de ~25 kg, usa Uber Pet (suplemento 3–5 $) o el NYC Ferry (gratis, con correa)."
+        }
+      ],
+      "titlePt": "Moverse por Nueva York com tu animal",
+      "introPt": "As reglas de transporte de NYC para animais são tajantes: no metro MTA, autocarros e comboios de cercanías, os cães só se admitem se van 'encerrados num contenedor que no moleste a otros pasajeros' (Código MTA §1050.9). Na práctica: um transportadora o bolso. Os cães grandes estão técnicamente prohibidos, embora a aplicación varía e muitos neoyorquinos levam cães medianos en grandes bolsos tipo Ikea. Os cães de serviço viajan grátis sem restricciones. Para animais grandes, Uber Pet está disponible en toda a cidade (suplemento 3–5 $) e a maioria de yellow cabs aceitam cães pequenhos en transportadora a discreción do conductor.",
+      "faqsPt": [
+        {
+          "q": "Puedo levar um cão grande no metro de NYC?",
+          "a": "Oficialmente no, a MTA exige que os cães vayan 'encerrados num contenedor' que no moleste a otros viajeros. Na práctica, muitos neoyorquinos levam cães medianos en grandes bolsos o bolsas IKEA modificadas sem problema, mas um agente pode negar o acesso ao seu criterio. Para cães de mais de ~25 kg, usa Uber Pet (suplemento 3–5 $) o o NYC Ferry (grátis, com trela)."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches Near New York City",
+      "titleFr": "Plages acceptant les chiens près de New York",
+      "titleEs": "Playas que admiten perros cerca de Nueva York",
+      "introEn": "All NYC public beaches (Coney Island, Rockaway, Orchard Beach, South Beach) ban dogs from May 1 to October 1 between 10 am and 6 pm by NYC Parks rule. Outside of that swim season, dogs are welcome year-round, and Rockaway Beach in particular has a thriving off-season dog-walking culture. For true year-round dog beaches, the best options are short trips to New Jersey (Sandy Hook National Recreation Area) or Long Island (Smith Point County Park during winter hours).",
+      "introFr": "Toutes les plages publiques de NYC (Coney Island, Rockaway, Orchard Beach, South Beach) interdisent les chiens du 1er mai au 1er octobre entre 10h et 18h, par règlement NYC Parks. Hors saison de baignade, les chiens sont admis toute l'année, et la plage de Rockaway en particulier a une culture animée de balade canine hors saison. Pour de vraies plages canines toute l'année, mieux vaut un détour au New Jersey (Sandy Hook) ou à Long Island (Smith Point County Park hors saison).",
+      "introEs": "Todas las playas públicas de NYC (Coney Island, Rockaway, Orchard Beach, South Beach) prohíben los perros del 1 de mayo al 1 de octubre entre las 10:00 y las 18:00 por norma de NYC Parks. Fuera de la temporada de baño, los perros se admiten todo el año, y Rockaway en particular tiene una activa cultura de paseo canino fuera de temporada. Para playas caninas todo el año, lo mejor es Nueva Jersey (Sandy Hook) o Long Island (Smith Point fuera de temporada).",
+      "places": [
+        {
+          "name": "Rockaway Beach (off-season)",
+          "distance": "60 min by A train from Manhattan",
+          "description": "Once swim season ends on October 1, Rockaway becomes one of NYC's best dog walks: 11 km of Atlantic surf, wide flat sand, and a boardwalk that runs alongside it. Outside swim season (Oct 1–Apr 30), dogs are allowed on the beach and boardwalk leashed. The boardwalk concessions reopen in late spring with several dog-water bowls along the route.",
+          "season": "Dogs allowed on beach and boardwalk October 1 to April 30. Off-limits 10 am–6 pm during swim season (May 1–Sep 30).",
+          "rules": "Leash required at all times on the beach. Owners must pick up waste.",
+          "facilities": "Boardwalk with public restrooms (seasonal), Beach 86 St subway stop adjacent, parking lots open year-round.",
+          "googleMapsUrl": "https://maps.google.com/?q=Rockaway+Beach+Queens+New+York",
+          "photo": "/images/city-places/new-york-beaches-rockaway-beach-off-season.jpg"
+        },
+        {
+          "name": "Sandy Hook National Recreation Area (NJ)",
+          "distance": "75 min by Seastreak ferry from Pier 11 (summer) or 90 min by car",
+          "description": "A federally-managed 7-mile barrier beach on the New Jersey side of the Lower New York Bay, with the most generous dog policy near NYC. Dogs are permitted on most of Sandy Hook year-round, including the dunes and back beach areas, on a 6-foot leash. Beaches B and E are dog-permitted swim sections in the off-season. The northern tip has Manhattan skyline views.",
+          "season": "Year-round, leashed. Some swimming beaches close to dogs in summer (mid-May to Labor Day, 10 am–6 pm).",
+          "rules": "6-foot leash required. Some sensitive piping-plover nesting areas closed in spring/early summer (signed).",
+          "facilities": "Parking $20/vehicle (free in winter), Visitor Center, public toilets year-round, water fountains in season.",
+          "googleMapsUrl": "https://maps.google.com/?q=Sandy+Hook+National+Recreation+Area",
+          "photo": "/images/city-places/new-york-beaches-sandy-hook-national-recreation-area-nj.jpg"
+        },
+        {
+          "name": "Prospect Park Dog Beach",
+          "distance": "45 min by 2/3 train from Manhattan",
+          "description": "Technically not a beach but a small swim inlet on Prospect Park's Lullwater Pond, where dogs can wade and swim during the park's official off-leash hours (5 am–9 am, April–November). It's the only urban dog-swim spot in NYC. Expect 10–40 dogs on a sunny weekend morning.",
+          "season": "Open 5 am–9 am, April through November. Closed in winter when the pond may freeze.",
+          "rules": "Dogs must be under voice control during off-leash hours. Owners must remain on shore or be willing to wade in.",
+          "facilities": "Adjacent to the Long Meadow, public toilets at the nearby Wellhouse, parking at the Parkside Avenue entrance.",
+          "googleMapsUrl": "https://maps.google.com/?q=Dog+Beach+Prospect+Park+Brooklyn",
+          "photo": "/images/city-places/new-york-beaches-prospect-park-dog-beach.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to Coney Island?",
+          "a": "Only outside swim season (October 1 to April 30). From May 1 to September 30, dogs are banned from all NYC public beaches between 10 am and 6 pm. Off-season the Coney Island boardwalk is one of the best dog-walking spots in NYC, with wide flat space and easy subway access via D/F/N/Q."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je amener mon chien à Coney Island ?",
+          "a": "Seulement hors saison de baignade (1er octobre au 30 avril). Du 1er mai au 30 septembre, les chiens sont interdits sur toutes les plages publiques de NYC entre 10h et 18h. Hors saison, la promenade de Coney Island est l'une des meilleures balades canines de NYC, vaste et plate, accessible en métro D/F/N/Q."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a Coney Island?",
+          "a": "Solo fuera de la temporada de baño (1 octubre a 30 abril). Del 1 de mayo al 30 de septiembre, los perros están prohibidos en todas las playas públicas de NYC entre las 10:00 y las 18:00. Fuera de temporada, el paseo marítimo de Coney Island es uno de los mejores recorridos caninos de NYC, amplio y llano, con metro D/F/N/Q."
+        }
+      ],
+      "titlePt": "Praias que admitem cães perto de Nueva York",
+      "introPt": "Todas as praias públicas de NYC (Coney Island, Rockaway, Orchard Beach, South Beach) prohíben os cães do 1 de maio al 1 de outubro entre as 10:00 e as 18:00 por norma de NYC Parks. Fora da temporada de banho, os cães se admitem o ano inteiro, e Rockaway en particular tem uma activa cultura de passeio canino fora de temporada. Para praias caninas o ano inteiro, lo melhor é Nueva Jersey (Sandy Hook) o Long Island (Smith Point fora de temporada).",
+      "faqsPt": [
+        {
+          "q": "Puedo levar a mi cão a Coney Island?",
+          "a": "Só fora da temporada de banho (1 outubro a 30 abril). Do 1 de maio al 30 de setembro, os cães estão prohibidos en todas as praias públicas de NYC entre as 10:00 e as 18:00. Fora de temporada, o passeio marítimo de Coney Island é um dois os melhores recorridos caninos de NYC, amplio e llano, com metro D/F/N/Q."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in New York City",
+      "titleFr": "Vétérinaires d'urgence à New York",
+      "titleEs": "Veterinarios de urgencias en Nueva York",
+      "introEn": "New York has one of the densest networks of 24/7 emergency veterinary hospitals in the United States. The flagship is the Animal Medical Center (AMC) on the Upper East Side, a nonprofit teaching hospital staffed around the clock with board-certified specialists. BluePearl operates multiple locations across all five boroughs. Most NYC veterinary ERs speak only English, but staff in Manhattan are accustomed to international tourists and many practices accept walk-in foreign visitors with passport and credit card.",
+      "introFr": "New York dispose de l'un des réseaux d'urgences vétérinaires 24h/24 les plus denses des États-Unis. L'institution phare est l'Animal Medical Center (AMC) sur l'Upper East Side, hôpital universitaire à but non lucratif avec spécialistes certifiés en permanence. BluePearl exploite plusieurs sites dans les cinq boroughs. La plupart des urgences vétérinaires de NYC ne parlent qu'anglais, mais le personnel de Manhattan est habitué aux touristes internationaux et la plupart acceptent les visiteurs étrangers sans rendez-vous (passeport + carte de crédit).",
+      "introEs": "Nueva York tiene una de las redes más densas de urgencias veterinarias 24/7 de Estados Unidos. La referencia es el Animal Medical Center (AMC) en el Upper East Side, hospital universitario sin ánimo de lucro con especialistas certificados las 24 horas. BluePearl gestiona varios centros en los cinco boroughs. La mayoría de urgencias veterinarias de NYC solo hablan inglés, pero el personal de Manhattan está acostumbrado a turistas internacionales y la mayoría aceptan visitantes extranjeros sin cita previa (pasaporte y tarjeta).",
+      "places": [
+        {
+          "name": "Animal Medical Center (AMC)",
+          "type": "24/7 emergency + multi-specialty teaching hospital",
+          "address": "510 East 62nd Street, New York, NY 10065",
+          "phone": "+1 212 838 8100",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "englishSpeaking": true,
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "website": "https://www.amcny.org",
+          "description": "The leading veterinary teaching hospital in the eastern US, with 130+ veterinarians across 17 specialty services. AMC has the only 24-hour emergency room in Manhattan with board-certified emergency vets always on-site, plus on-call surgery, cardiology, oncology and internal medicine. Walk-ins welcome.",
+          "descriptionFr": "Le principal hôpital universitaire vétérinaire de l'Est des États-Unis, avec plus de 130 vétérinaires répartis sur 17 spécialités. AMC dispose de la seule salle d'urgences 24h/24 de Manhattan avec des urgentistes certifiés sur place en permanence, plus chirurgie, cardiologie, oncologie et médecine interne d'astreinte. Sans rendez-vous accepté.",
+          "descriptionEs": "El principal hospital universitario veterinario del este de EE. UU., con más de 130 veterinarios en 17 especialidades. AMC tiene la única sala de urgencias 24h de Manhattan con urgenciólogos certificados siempre presentes, además de cirugía, cardiología, oncología y medicina interna de guardia. Se admiten visitas sin cita.",
+          "tip": "Triage is by severity; bring credit card and pet's vaccination records. Emergency visit fee starts around $250 before treatment.",
+          "tipFr": "Triage par gravité ; munissez-vous de la carte de crédit et du carnet de vaccination. Frais d'admission urgence à partir de ~250 $ avant soins.",
+          "tipEs": "Triaje por gravedad; ten lista la tarjeta de crédito y la cartilla de vacunación. Tarifa de urgencia desde ~250 $ antes de los cuidados.",
+          "googleMapsUrl": "https://maps.google.com/?q=Animal+Medical+Center+510+E+62nd+Street+New+York",
+          "photo": "/images/city-places/new-york-vets-animal-medical-center-amc.jpg",
+          "hoursPt": "Abierto 24/7 todos os dias",
+          "descriptionPt": "O principal hospital universitario veterinário do leste de EE. UU., com mais de 130 veterinários en 17 especialidades. AMC tem a única sala de urgências 24h de Manhattan com urgenciólogos certificados sempre presentes, além disso de cirugía, cardiología, oncología e medicina interna de guardia. Se admitem visitas sem cita.",
+          "tipPt": "Triaje por gravedad; ten lista a tarjeta de crédito e a cartilla de vacinação. Tarifa de urgência a partir de ~250 $ antes dois cuidados."
+        },
+        {
+          "name": "BluePearl Pet Hospital — Manhattan (Midtown West)",
+          "type": "24/7 emergency + specialty",
+          "address": "410 West 55th Street, New York, NY 10019",
+          "phone": "+1 212 767 0099",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "englishSpeaking": true,
+          "languages": [
+            "English"
+          ],
+          "website": "https://bluepearlvet.com/hospital/new-york-ny-midtown-west/",
+          "description": "BluePearl's flagship Midtown emergency and specialty hospital, a short walk from Columbus Circle and most Times Square hotels. Offers around-the-clock emergency, plus internal medicine, cardiology and surgical specialties. Tourist-friendly location and standard credit-card billing for foreign visitors.",
+          "descriptionFr": "L'hôpital phare BluePearl à Midtown, à quelques pas de Columbus Circle et de la plupart des hôtels de Times Square. Urgences 24h/24, plus médecine interne, cardiologie et chirurgie. Emplacement pratique pour touristes et facturation par carte de crédit pour visiteurs étrangers.",
+          "descriptionEs": "El hospital insignia de BluePearl en Midtown, a unos pasos de Columbus Circle y la mayoría de hoteles de Times Square. Urgencias 24h, además de medicina interna, cardiología y cirugía. Ubicación cómoda para turistas y facturación con tarjeta para visitantes extranjeros.",
+          "tip": "Calling ahead lets them prep for your arrival; very useful if your dog is in distress and you're 10 min away.",
+          "tipFr": "Appeler à l'avance leur permet de préparer votre arrivée ; utile si votre chien est en détresse et que vous êtes à 10 min.",
+          "tipEs": "Llamar antes les permite preparar la llegada; muy útil si tu perro está mal y estás a 10 min.",
+          "googleMapsUrl": "https://maps.google.com/?q=BluePearl+410+West+55th+Street+New+York",
+          "photo": "/images/city-places/new-york-vets-bluepearl-pet-hospital-manhattan-midtown-west.jpg",
+          "hoursPt": "Abierto 24/7 todos os dias",
+          "descriptionPt": "O hospital insignia de BluePearl en Midtown, a uns pasos de Columbus Circle e a maioria de hotéis de Times Square. Urgências 24h, além disso de medicina interna, cardiología e cirugía. Ubicación cómoda para turistas e facturación com tarjeta para visitantes extranjeros.",
+          "tipPt": "Ligar antes les permite preparar a llegada; muito útil se tu cão está mal e estás a 10 min."
+        },
+        {
+          "name": "Veterinary Emergency Group (VEG) — West Village",
+          "type": "24/7 emergency",
+          "address": "270 W 4th Street, New York, NY 10014",
+          "phone": "+1 212 924 3311",
+          "hours": "Open 24/7 every day",
+          "hoursFr": "Ouvert 24h/24, 7j/7",
+          "hoursEs": "Abierto 24/7 todos los días",
+          "englishSpeaking": true,
+          "languages": [
+            "English"
+          ],
+          "website": "https://veterinaryemergencygroup.com/locations/west-village/",
+          "description": "An emergency-only veterinary practice in the West Village with an open-floor design that lets owners stay with their dog throughout the visit (no separate waiting room). No appointments; walk-in 24/7. Particularly convenient for visitors staying downtown or in Brooklyn.",
+          "descriptionFr": "Un cabinet d'urgences exclusivement, situé dans le West Village, avec un agencement ouvert permettant aux maîtres de rester avec leur chien tout au long de la consultation (pas de salle d'attente séparée). Sans rendez-vous, 24h/24. Pratique pour les visiteurs séjournant downtown ou à Brooklyn.",
+          "descriptionEs": "Un centro veterinario exclusivamente de urgencias en el West Village, con diseño abierto que permite a los dueños quedarse con su perro durante toda la visita (sin sala de espera separada). Sin cita, 24/7. Cómodo para visitantes alojados en downtown o Brooklyn.",
+          "tip": "Open layout means everyone sees everything; if your dog is reactive, ask staff for a quieter corner away from the main bay.",
+          "tipFr": "L'agencement ouvert fait que tout est visible ; si votre chien est réactif, demandez un coin plus calme à l'écart de la zone principale.",
+          "tipEs": "Diseño abierto: todo es visible; si tu perro es reactivo, pide un rincón más tranquilo apartado de la sala principal.",
+          "googleMapsUrl": "https://maps.google.com/?q=VEG+West+Village+270+W+4th+Street+New+York",
+          "photo": "/images/city-places/new-york-vets-veterinary-emergency-group-veg-west-village.jpg",
+          "hoursPt": "Abierto 24/7 todos os dias",
+          "descriptionPt": "Um centro veterinário exclusivamente de urgências no West Village, com disenho abierto que permite aos duenhos quedarse com o seu cão durante toda a visita (sem sala de espera separada). Sem cita, 24/7. Cómodo para visitantes alojados en downtown o Brooklyn.",
+          "tipPt": "Disenho abierto: todo é visible; se tu cão é reactivo, pide um rincón mais tranquilo apartado da sala principal."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Will a NYC emergency vet treat my dog without prior records?",
+          "a": "Yes. AMC, BluePearl and VEG all accept walk-in foreign visitors with a credit card and your dog's basic info. Bringing vaccination records helps with intake speed but is not strictly required. Expect a $200–300 emergency-exam fee before any treatment, paid up front."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Un vétérinaire d'urgence à NYC soignera-t-il mon chien sans dossier préalable ?",
+          "a": "Oui. AMC, BluePearl et VEG acceptent tous les visiteurs étrangers sans rendez-vous avec une carte de crédit et les infos de base de votre chien. Le carnet de vaccination accélère l'admission mais n'est pas strictement exigé. Comptez 200 à 300 $ de consultation d'urgence avant tout soin, à régler d'avance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Un veterinario de urgencias en NYC atenderá a mi perro sin historial previo?",
+          "a": "Sí. AMC, BluePearl y VEG aceptan visitantes extranjeros sin cita con tarjeta de crédito y los datos básicos de tu perro. La cartilla de vacunación agiliza el ingreso pero no es estrictamente obligatoria. Cuenta con 200–300 $ de tarifa de urgencia antes de cualquier tratamiento, a pagar por adelantado."
+        }
+      ],
+      "titlePt": "Veterinários de urgências en Nueva York",
+      "introPt": "Nueva York tem uma das redes mais densas de urgências veterinárias 24/7 de Estados Unidos. A referencia é o Animal Medical Center (AMC) no Upper East Side, hospital universitario sem ánimo de lucro com especialistas certificados as 24 horas. BluePearl gestiona varios centros nos cinco boroughs. A maioria de urgências veterinárias de NYC só hablan inglês, mas o personal de Manhattan está acostumbrado a turistas internacionales e a mayoría aceitam visitantes extranjeros sem cita previa (passaporte e tarjeta).",
+      "faqsPt": [
+        {
+          "q": "Um veterinário de urgências en NYC atenderá a mi cão sem historial previo?",
+          "a": "Sí. AMC, BluePearl e VEG aceitam visitantes extranjeros sem cita com tarjeta de crédito e os datos básicos de tu cão. A cartilla de vacinação agiliza o ingreso mas no é estrictamente obrigatória. Cuenta com 200–300 $ de tarifa de urgência antes de cualquier tratamento, a pagar por adelantado."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "New York City Pet Travel Tips",
+      "titleFr": "Conseils pratiques pour voyager à New York avec son animal",
+      "titleEs": "Consejos para viajar a Nueva York con tu mascota",
+      "introEn": "New York is dense, paved, hot in summer, and cold in winter, but its sheer concentration of dog-aware businesses, 24/7 vet care and large green spaces makes it easier than most US cities for a traveling pet owner. The big friction points are subway carrier rules, summer pavement heat (asphalt regularly reaches 50–60 °C on July afternoons), and entry rules from outside the US. Prices on this guide are noted in approximate USD-equivalent (the site renders € for legacy reasons; for NYC read €1 ≈ $1).",
+      "introFr": "New York est dense, bétonnée, chaude l'été et glaciale l'hiver, mais la concentration de commerces dog-aware, d'urgences vétérinaires 24h/24 et de grands espaces verts en fait l'une des villes américaines les plus accessibles pour un propriétaire en voyage. Les frictions : règles de transport en sac dans le métro, chaleur du bitume en été (l'asphalte dépasse régulièrement 50–60 °C les après-midis de juillet), et formalités d'entrée depuis l'étranger. Les prix de ce guide sont en équivalent USD approximatif (le site affiche € pour raisons historiques ; pour NYC, lire 1 € ≈ 1 $).",
+      "introEs": "Nueva York es densa, pavimentada, calurosa en verano y gélida en invierno, pero su concentración de negocios dog-friendly, urgencias veterinarias 24/7 y grandes espacios verdes la hacen más accesible que la mayoría de ciudades de EE. UU. para un viajero con mascota. Los puntos de fricción: reglas de transportín en el metro, calor del asfalto en verano (regularmente 50–60 °C en julio), y trámites de entrada desde el extranjero. Los precios de esta guía están en equivalente USD aproximado (la web muestra € por motivos heredados; para NYC, leer 1 € ≈ 1 $).",
+      "sections": [
+        {
+          "titleEn": "Entry requirements (international visitors)",
+          "titleFr": "Conditions d'entrée (visiteurs internationaux)",
+          "titleEs": "Requisitos de entrada (visitantes internacionales)",
+          "contentEn": "Dogs entering the US from rabies-free or low-risk countries (EU, UK, etc.) need a valid rabies vaccination, a microchip, and a CDC Dog Import Form completed online before travel (cdc.gov/importation/dogs). Rules tightened in August 2024: all dogs must arrive at one of 18 approved airports (JFK is one), be at least 6 months old, and be accompanied by the CDC form receipt. Cats currently have no federal vaccination requirement on entry, though airlines often require one.",
+          "contentFr": "Les chiens entrant aux États-Unis depuis des pays sans rage ou à faible risque (UE, Royaume-Uni, etc.) doivent avoir une vaccination antirabique valide, une puce électronique et un formulaire CDC Dog Import rempli en ligne avant le voyage (cdc.gov/importation/dogs). Règles durcies en août 2024 : tous les chiens doivent arriver dans l'un des 18 aéroports approuvés (JFK en fait partie), avoir au moins 6 mois, et présenter le récépissé CDC. Les chats n'ont actuellement aucune exigence fédérale de vaccination à l'entrée, mais les compagnies aériennes en imposent souvent une.",
+          "contentEs": "Los perros que entran a EE. UU. desde países sin rabia o de bajo riesgo (UE, Reino Unido, etc.) necesitan vacuna antirrábica vigente, microchip y el formulario CDC Dog Import cumplimentado online antes del viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos los perros deben llegar a uno de los 18 aeropuertos aprobados (JFK es uno), tener al menos 6 meses y presentar el justificante del formulario CDC. Los gatos no tienen actualmente requisito federal de vacunación a la entrada, aunque las aerolíneas suelen exigir uno.",
+          "titlePt": "Requisitos de entrada (visitantes internacionales)",
+          "contentPt": "Os cães que entran a EE. UU. a partir de países sem rabia o de sob riesgo (UE, Reino Unido, etc.) necesitan vacuna antirrábica vigente, microchip e o formulario CDC Dog Import cumplimentado online antes do viaje (cdc.gov/importation/dogs). Reglas endurecidas en agosto de 2024: todos os cães deben chegar a uno dois 18 aeroportos aprobados (JFK é uno), tener al menos 6 meses e presentar o justificante do formulario CDC. Os gatos no têm actualmente requisito federal de vacinação a a entrada, embora as aerolíneas costumam exigir uno."
+        },
+        {
+          "titleEn": "Leash, waste and breed rules",
+          "titleFr": "Règles de laisse, déjections et races",
+          "titleEs": "Reglas de correa, excrementos y razas",
+          "contentEn": "NYC Administrative Code §161.05 requires dogs to be leashed (max 6 feet) on all public streets and in parks outside of designated off-leash hours/zones. The 'pooper-scooper' law (Health Code §161.03) carries a $250 fine; sanitation enforcement is real. There is no NYC-wide breed ban, but housing buildings and individual hotels frequently refuse 'aggressive' breeds (pit bull, Rottweiler, Doberman, German shepherd) — always confirm with your hotel before booking.",
+          "contentFr": "Le Code administratif NYC §161.05 exige que les chiens soient en laisse (max 1,80 m) sur toutes les voies publiques et dans les parcs hors des plages/zones sans laisse. La « loi pooper-scooper » (Code sanitaire §161.03) prévoit 250 $ d'amende ; les contrôles existent vraiment. Pas d'interdiction de race à l'échelle de NYC, mais immeubles d'habitation et certains hôtels refusent souvent les races dites « agressives » (pit bull, rottweiler, doberman, berger allemand) — vérifiez toujours auprès de votre hôtel avant réservation.",
+          "contentEs": "El Código Administrativo NYC §161.05 exige perros con correa (máx 1,80 m) en todas las vías públicas y parques fuera de horarios/zonas sin correa. La 'ley pooper-scooper' (Código Sanitario §161.03) conlleva 250 $ de multa; los controles son reales. No hay prohibición de raza a nivel de NYC, pero edificios residenciales y algunos hoteles rechazan razas consideradas 'agresivas' (pit bull, rottweiler, doberman, pastor alemán) — confirma siempre con tu hotel antes de reservar.",
+          "titlePt": "Reglas de trela, excrementos e razas",
+          "contentPt": "O Código Administrativo NYC §161.05 exige cães com trela (máx 1,80 m) en todas as vías públicas e parques fora de horários/zonas sem trela. A 'lei pooper-scooper' (Código Sanitario §161.03) conlleva 250 $ de multa; os controles são reales. No hay prohibición de raza a nivel de NYC, mas edifícios residenciales e algunos hotéis rechazan razas consideradas 'agresivas' (pit bull, rottweiler, doberman, pastor alemão) — confirma sempre com tu hotel antes de reservar."
+        },
+        {
+          "titleEn": "Summer heat and winter cold",
+          "titleFr": "Chaleur estivale et froid hivernal",
+          "titleEs": "Calor en verano y frío en invierno",
+          "contentEn": "Manhattan asphalt regularly reaches 50–60 °C on July and August afternoons. Walk before 9 am or after 8 pm; the 5–7-second back-of-hand pavement test is standard practice. In winter, sidewalks are heavily salted, which burns paws — booties or pet-safe paw wax are useful for January and February visits. Tap water is safe and free for dogs everywhere.",
+          "contentFr": "L'asphalte de Manhattan atteint régulièrement 50–60 °C les après-midis de juillet-août. Promenez avant 9h ou après 20h ; le test main-au-sol 5–7 secondes est la règle. En hiver, les trottoirs sont massivement salés, ce qui brûle les coussinets — chaussons ou cire protectrice utiles en janvier-février. L'eau du robinet est sûre et gratuite partout pour les chiens.",
+          "contentEs": "El asfalto de Manhattan alcanza con regularidad 50–60 °C en las tardes de julio-agosto. Pasea antes de las 9:00 o después de las 20:00; el test mano-en-suelo de 5–7 segundos es el estándar. En invierno, las aceras están muy saladas y queman las almohadillas — botines o cera protectora útiles en enero-febrero. El agua del grifo es segura y gratuita para perros en todas partes.",
+          "titlePt": "Calor en verão e frio en inverno",
+          "contentPt": "O asfalto de Manhattan alcanza com regularidad 50–60 °C nas tardes de julho-agosto. Pasea antes das 9:00 o depois das 20:00; o test mano-en-suelo de 5–7 segundos é o estándar. En inverno, as aceras estão muito saladas e queman as almohadillas — botines o cera protectora útiles en janeiro-fevereiro. O água do grifo é segura e gratuita para cães em todo o lado."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "faqsEn": [
+        {
+          "q": "Is New York City a good destination with a dog?",
+          "a": "Yes, especially if your dog is small enough to fit in a carrier for the subway. NYC has more 24/7 vet ERs than any other US city, the largest urban off-leash hours network in America, hundreds of dog-friendly patios, and most luxury and boutique hotels actively welcome pets. The main constraints are subway carrier rules and summer heat — both manageable with planning."
+        },
+        {
+          "q": "Are NYC hotels really pet-friendly or just tolerant?",
+          "a": "Many of the city's luxury and boutique hotels — Loews Regency, Kimpton brand citywide, Soho Grand, Hotel Indigo Lower East Side — actively welcome pets with beds, bowls, treats and zero fees. Mid-range and corporate hotels are more variable and usually charge $50–150 per stay. Confirm policy via the hotel's own website, Booking.com listings can be out of date."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "New York est-elle une bonne destination avec un chien ?",
+          "a": "Oui, surtout si votre chien est assez petit pour tenir en sac dans le métro. NYC a plus d'urgences vétérinaires 24h/24 que toute autre ville américaine, le plus vaste réseau d'horaires sans laisse en milieu urbain des États-Unis, des centaines de terrasses dog-friendly, et la plupart des hôtels luxe et boutique accueillent activement les animaux. Les seules vraies contraintes sont les règles de sac dans le métro et la chaleur estivale, gérables avec un peu d'anticipation."
+        },
+        {
+          "q": "Les hôtels new-yorkais sont-ils vraiment dog-friendly ou seulement tolérants ?",
+          "a": "Beaucoup des hôtels luxe et boutique de la ville — Loews Regency, marque Kimpton, Soho Grand, Hotel Indigo Lower East Side — accueillent activement les animaux avec lits, gamelles, friandises et zéro supplément. Les hôtels milieu de gamme et corporate sont plus variables, généralement 50–150 $ par séjour. Vérifiez la politique sur le site officiel de l'hôtel, les fiches Booking.com sont parfois obsolètes."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Nueva York un buen destino con perro?",
+          "a": "Sí, sobre todo si tu perro es lo bastante pequeño para caber en un transportín en el metro. NYC tiene más urgencias veterinarias 24/7 que cualquier otra ciudad de EE. UU., la mayor red de horarios sin correa urbana de Norteamérica, cientos de terrazas dog-friendly, y la mayoría de hoteles de lujo y boutique acogen mascotas activamente. Las únicas verdaderas trabas son las reglas de transportín en el metro y el calor de verano, ambas gestionables con planificación."
+        },
+        {
+          "q": "¿Los hoteles de NYC son realmente pet-friendly o solo tolerantes?",
+          "a": "Muchos hoteles de lujo y boutique de la ciudad — Loews Regency, la marca Kimpton, Soho Grand, Hotel Indigo Lower East Side — acogen activamente a las mascotas con camas, cuencos, golosinas y sin suplemento. Los hoteles de gama media y corporativos son más variables, normalmente 50–150 $ por estancia. Confirma la política en la web oficial del hotel; las fichas de Booking.com a veces están desactualizadas."
+        }
+      ],
+      "titlePt": "Consejos para viajar a Nueva York com tu animal",
+      "introPt": "Nueva York é densa, pavimentada, calurosa en verão e gélida en inverno, mas o seu concentración de negocios pet-friendly, urgências veterinárias 24/7 e grandes espacios verdes a fazem mais acessível que a maioria de cidades de EE. UU. para um viajero com animal. Os puntos de fricción: reglas de transportadora no metro, calor do asfalto en verão (regularmente 50–60 °C en julho), e trámites de entrada a partir do extranjero. Os preços de esta guía estão en equivalente USD aproximado (a web muestra € por motivos heredados; para NYC, leer 1 € ≈ 1 $).",
+      "tipsPt": [],
+      "faqsPt": [
+        {
+          "q": "É Nueva York um buen destino com cão?",
+          "a": "Sí, sobre todo se tu cão é lo bastante pequenho para caber num transportadora no metro. NYC tem mais urgências veterinárias 24/7 que cualquier otra cidade de EE. UU., a mayor red de horários sem trela urbana de Norteamérica, cientos de esplanadas pet-friendly, e a maioria de hotéis de lujo e boutique acogen animais activamente. As únicas verdaderas trabas são as reglas de transportadora no metro e o calor de verão, ambas gestionables com planificación."
+        },
+        {
+          "q": "Os hotéis de NYC são realmente pet-friendly o só tolerantes?",
+          "a": "Muitos hotéis de lujo e boutique da cidade — Loews Regency, a marca Kimpton, Soho Grand, Hotel Indigo Lower East Side — acogen activamente a as animais com camas, cuencos, golosinas e sem suplemento. Os hotéis de gama media e corporativos são mais variables, normalmente 50–150 $ por estadia. Confirma a política na web oficial do hotel; as fichas de Booking.com a vezes estão desactualizadas."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in New York City",
+      "titleFr": "Sites touristiques acceptant les chiens à New York",
+      "titleEs": "Atracciones que admiten perros en Nueva York",
+      "introEn": "Most NYC indoor attractions (the Met, MoMA, the Empire State Building, the 9/11 Memorial museum) do not admit pets except service animals. But many of the outdoor signature experiences do: walking the Brooklyn Bridge, riding the Staten Island Ferry, strolling the High Line, exploring the Brooklyn Botanic Garden in shoulder season. Combining outdoor sights with dog-friendly café stops makes for a perfectly viable NYC weekend with a pet.",
+      "introFr": "La plupart des attractions intérieures de NYC (Met, MoMA, Empire State, mémorial du 11 septembre) refusent les animaux hors chiens d'assistance. Mais beaucoup des grandes expériences extérieures sont accessibles : traverser le pont de Brooklyn, prendre le Staten Island Ferry, parcourir la High Line, visiter le Brooklyn Botanic Garden hors saison. Combiner ces visites extérieures avec des pauses café dog-friendly permet de réussir un week-end à NYC avec son chien.",
+      "introEs": "La mayoría de atracciones interiores de NYC (Met, MoMA, Empire State, Memorial del 11-S) no admiten mascotas salvo perros de servicio. Pero muchas de las grandes experiencias exteriores sí: caminar el puente de Brooklyn, montar en el Staten Island Ferry, recorrer la High Line, visitar el Brooklyn Botanic Garden en temporada baja. Combinar visitas al aire libre con paradas en cafés dog-friendly hace perfectamente viable un fin de semana en NYC con mascota.",
+      "places": [
+        {
+          "name": "Brooklyn Bridge walk",
+          "neighborhood": "DUMBO / Lower Manhattan",
+          "photo": "/images/city-places/new-york-attractions-brooklyn-bridge-walk.jpg",
+          "website": "https://www.nycgo.com/attractions/brooklyn-bridge",
+          "description": "The pedestrian-and-bike upper deck of the Brooklyn Bridge is fully open to leashed dogs and is one of the most photographed urban dog walks in the world. The bridge is 1.8 km across with separated walking and biking lanes (separation was completed in 2021), and the Manhattan-to-Brooklyn direction gives the best skyline views. Allow 45 minutes one-way at a relaxed pace.",
+          "descriptionFr": "Le tablier piéton-vélo supérieur du pont de Brooklyn est entièrement ouvert aux chiens en laisse et c'est l'une des promenades canines urbaines les plus photographiées au monde. Le pont mesure 1,8 km avec des voies piéton et vélo séparées (séparation achevée en 2021), et le sens Manhattan-Brooklyn offre les plus belles vues sur la skyline. Comptez 45 min aller en allure tranquille.",
+          "descriptionEs": "La pasarela peatonal y ciclista superior del puente de Brooklyn está totalmente abierta a perros con correa y es una de las caminatas caninas urbanas más fotografiadas del mundo. El puente mide 1,8 km con carriles separados de peatones y bicicletas (separación completada en 2021), y el sentido Manhattan-Brooklyn ofrece las mejores vistas del skyline. Calcula 45 min en un sentido a paso tranquilo.",
+          "dogPolicy": "Leashed dogs welcome anytime, free of charge.",
+          "dogPolicyFr": "Chiens en laisse admis à toute heure, gratuitement.",
+          "dogPolicyEs": "Perros con correa admitidos a toda hora, gratis.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Cross at sunrise (6–7 am summer) for empty bridge and golden skyline; weekends after 11 am are crowded and slow with a dog.",
+          "tipFr": "Traversez au lever du soleil (6–7h en été) pour un pont vide et une skyline dorée ; les week-ends après 11h sont bondés et difficiles avec un chien.",
+          "tipEs": "Cruza al amanecer (6–7 h en verano) para puente vacío y skyline dorado; los fines de semana después de las 11:00 está saturado y lento con perro.",
+          "googleMapsUrl": "https://maps.google.com/?q=Brooklyn+Bridge+Promenade+Manhattan+side",
+          "descriptionPt": "A pasarela peatonal e ciclista superior do ponte de Brooklyn está totalmente abierta a cães com trela e é uma das as caminhadas caninas urbanas mais fotografiadas do mundo. O ponte mide 1,8 km com carriles separados de peatones e bicicletas (separación completada en 2021), e o sentido Manhattan-Brooklyn ofrece as melhores vistas do skyline. Calcula 45 min num sentido a paso tranquilo.",
+          "dogPolicyPt": "Cães com trela admitidos a toda hora, grátis.",
+          "admissionFeePt": "Grátis",
+          "tipPt": "Cruza al amanecer (6–7 h en verão) para ponte vacío e skyline dorado; os fines de semana depois das 11:00 está saturado e lento com cão."
+        },
+        {
+          "name": "Staten Island Ferry",
+          "neighborhood": "Whitehall Terminal, Lower Manhattan",
+          "photo": "/images/city-places/new-york-attractions-staten-island-ferry.jpg",
+          "website": "https://www.siferry.com",
+          "description": "The free 25-minute ferry between Whitehall (Manhattan) and St. George (Staten Island) passes the Statue of Liberty and Ellis Island, with the best free views in NYC. Leashed dogs ride free at all hours. The outdoor decks have plenty of space to stand with a dog and the round trip is a perfect 50-minute activity if the weather is fair.",
+          "descriptionFr": "Le ferry gratuit de 25 min entre Whitehall (Manhattan) et St. George (Staten Island) passe devant la statue de la Liberté et Ellis Island, avec les meilleures vues gratuites de NYC. Chiens en laisse gratuits à toute heure. Les ponts extérieurs offrent largement la place de tenir un chien et l'aller-retour est une parfaite activité de 50 minutes si le temps est clément.",
+          "descriptionEs": "El ferri gratuito de 25 min entre Whitehall (Manhattan) y St. George (Staten Island) pasa por la Estatua de la Libertad y Ellis Island, con las mejores vistas gratuitas de NYC. Los perros con correa viajan gratis a cualquier hora. Las cubiertas exteriores ofrecen espacio sobrado para estar con un perro y la ida y vuelta es una actividad ideal de 50 minutos si el tiempo acompaña.",
+          "dogPolicy": "Leashed dogs allowed on all decks, free.",
+          "dogPolicyFr": "Chiens en laisse admis sur tous les ponts, gratuitement.",
+          "dogPolicyEs": "Perros con correa admitidos en todas las cubiertas, gratis.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Stand on the right side (starboard) heading to Staten Island for the Statue of Liberty pass, and the left coming back for skyline.",
+          "tipFr": "Mettez-vous à droite (tribord) à l'aller vers Staten Island pour voir la statue de la Liberté, à gauche au retour pour la skyline.",
+          "tipEs": "Colócate a la derecha (estribor) en el trayecto a Staten Island para ver la Estatua de la Libertad, y a la izquierda en el regreso para el skyline.",
+          "googleMapsUrl": "https://maps.google.com/?q=Staten+Island+Ferry+Whitehall+Terminal",
+          "descriptionPt": "O ferri gratuito de 25 min entre Whitehall (Manhattan) e St. George (Staten Island) passa pela Estatua da Libertad e Ellis Island, com as melhores vistas gratuitas de NYC. Os cães com trela viajan grátis a cualquier hora. As cubiertas exteriores ofrecen espacio sobrado para estar com um cão e a ida e vuelta é uma actividad ideal de 50 minutos se o tempo acompanha.",
+          "dogPolicyPt": "Cães com trela admitidos en todas as cubiertas, grátis.",
+          "admissionFeePt": "Grátis",
+          "tipPt": "Colócate a a derecha (estribor) no trayecto a Staten Island para ver a Estatua da Libertad, e a a izquierda no regreso para o skyline."
+        },
+        {
+          "name": "The High Line",
+          "neighborhood": "Chelsea / Meatpacking District / Hudson Yards",
+          "photo": "/images/city-places/new-york-attractions-the-high-line.jpg",
+          "website": "https://www.thehighline.org",
+          "description": "A 2.3 km elevated linear park built on a former freight rail viaduct, opened in stages from 2009. Leashed dogs are welcome the full length of the park and there are designated water bowls at the 16th and 23rd Street access points. The park can be very crowded midday on weekends; a relaxed walk requires either early morning or off-season weekdays.",
+          "descriptionFr": "Un parc linéaire surélevé de 2,3 km construit sur un ancien viaduc de fret, ouvert par tronçons depuis 2009. Les chiens en laisse sont admis sur toute la longueur et des gamelles d'eau sont disposées aux accès des 16e et 23e rues. Le parc est souvent saturé le midi en week-end ; pour une vraie promenade, préférez le matin tôt ou les jours de semaine hors saison.",
+          "descriptionEs": "Un parque lineal elevado de 2,3 km construido sobre un antiguo viaducto ferroviario, abierto por tramos desde 2009. Los perros con correa están admitidos en toda la longitud y hay cuencos de agua en los accesos de las calles 16 y 23. El parque está muy lleno al mediodía los fines de semana; para un paseo tranquilo, mejor primera hora o días laborables fuera de temporada.",
+          "dogPolicy": "Leashed dogs welcome anywhere on the High Line. Free admission.",
+          "dogPolicyFr": "Chiens en laisse admis partout sur la High Line. Entrée libre.",
+          "dogPolicyEs": "Perros con correa admitidos en toda la High Line. Entrada gratuita.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Enter at Gansevoort Street and walk north to Hudson Yards (about 1 hour with photo stops); the southern end is more shaded.",
+          "tipFr": "Entrez par Gansevoort Street et marchez vers le nord jusqu'à Hudson Yards (environ 1h avec arrêts photos) ; l'extrémité sud est plus ombragée.",
+          "tipEs": "Entra por Gansevoort Street y camina hacia el norte hasta Hudson Yards (alrededor de 1 h con paradas para fotos); el extremo sur es más sombreado.",
+          "googleMapsUrl": "https://maps.google.com/?q=High+Line+Gansevoort+Street+entrance+New+York",
+          "descriptionPt": "Um parque lineal elevado de 2,3 km construido sobre um antigo viaducto ferroviario, abierto por tramos a partir de 2009. Os cães com trela estão admitidos en toda a longitud e hay cuencos de água nos acessos das ruas 16 e 23. O parque está muito lleno al mediodía os fines de semana; para um passeio tranquilo, melhor primera hora o dias laborables fora de temporada.",
+          "dogPolicyPt": "Cães com trela admitidos en toda a High Line. Entrada gratuita.",
+          "admissionFeePt": "Grátis",
+          "tipPt": "Entra por Gansevoort Street e caminha para o norte até Hudson Yards (alrededor de 1 h com paradas para fotos); o extremo sur é mais sombreado."
+        }
+      ],
+      "titlePt": "Atracciones que admitem cães en Nueva York",
+      "introPt": "A maioria de atracciones interiores de NYC (Met, MoMA, Empire State, Memorial do 11-S) no admitem animais salvo cães de serviço. Mas muitas das grandes experiencias exteriores sí: caminhar o ponte de Brooklyn, montar no Staten Island Ferry, recorrer a High Line, visitar o Brooklyn Botanic Garden en temporada baja. Combinar visitas al aire libre com paradas en cafés pet-friendly faz perfeitamente viable um fin de semana en NYC com animal."
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting and Dog-Walking in New York City",
+      "titleFr": "Pet-sitting et promeneurs de chiens à New York",
+      "titleEs": "Cuidadores y paseadores de perros en Nueva York",
+      "introEn": "New York is the largest market for professional dog-walkers and pet-sitters in the United States. Rover and Wag dominate the on-demand app side, with thousands of sitters in all five boroughs; rates run $25–40 per walk and $60–120 per overnight stay. Several New York-specific premium agencies (Throw Me a Bone, NYC Doggies) offer fully insured, employee-based service for guests who prefer a vetted operator over a marketplace platform.",
+      "introFr": "New York est le plus grand marché de pet-sitters et promeneurs de chiens professionnels des États-Unis. Rover et Wag dominent le créneau des apps à la demande, avec des milliers de sitters dans les cinq boroughs ; comptez 25 à 40 $ la promenade et 60 à 120 $ la nuit. Plusieurs agences premium spécifiques à NYC (Throw Me a Bone, NYC Doggies) proposent un service entièrement assuré avec employés salariés pour les voyageurs préférant un opérateur vérifié à une marketplace.",
+      "introEs": "Nueva York es el mayor mercado de paseadores y cuidadores profesionales de EE. UU. Rover y Wag dominan el segmento de apps a demanda, con miles de cuidadores en los cinco boroughs; las tarifas van de 25 a 40 $ por paseo y de 60 a 120 $ por noche. Varias agencias premium específicas de NYC (Throw Me a Bone, NYC Doggies) ofrecen servicio totalmente asegurado con empleados en plantilla para viajeros que prefieren un operador verificado a un marketplace.",
+      "places": [
+        {
+          "name": "Throw Me a Bone",
+          "website": "https://throwmeabonenyc.com",
+          "description": "An NYC-based pet-sitting and dog-walking company operating since 2008, employee-based (not contractor), fully insured and bonded. Services cover all of Manhattan and parts of Brooklyn. Specializes in regular hotel-stay arrangements for international travelers, walkers come to your room or meet at the hotel door.",
+          "descriptionFr": "Société new-yorkaise de pet-sitting et promenade de chiens fondée en 2008, employés salariés (pas indépendants), entièrement assurée. Services couvrant tout Manhattan et une partie de Brooklyn. Spécialisée dans les prestations pour clients hôteliers internationaux, les promeneurs viennent à votre chambre ou se présentent à l'entrée de l'hôtel.",
+          "descriptionEs": "Empresa neoyorquina de cuidado y paseo de perros fundada en 2008, con empleados en plantilla (no autónomos) y totalmente asegurada. Servicio en todo Manhattan y parte de Brooklyn. Especializada en clientes hoteleros internacionales: los paseadores acuden a tu habitación o te encuentran en la entrada del hotel.",
+          "serviceType": "Dog walking, in-home pet-sitting, hotel-room visits",
+          "serviceTypeFr": "Promenade de chiens, garde à domicile, visites en chambre d'hôtel",
+          "serviceTypeEs": "Paseos, cuidados a domicilio, visitas en habitación de hotel",
+          "pricePerDay": "$30–$45 per walk (30 min), $100–$140 overnight",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Book at least 48 hours ahead for first-time clients; weekends fill up fastest.",
+          "tipFr": "Réservez au moins 48 h à l'avance pour une première fois ; les week-ends se remplissent vite.",
+          "tipEs": "Reserva al menos 48 h antes para una primera vez; los fines de semana se llenan rápido.",
+          "descriptionPt": "Empresa neoyorquina de cuidado e passeio de cães fundada en 2008, com empleados en plantilla (no autónomos) e totalmente asegurada. Serviço en todo Manhattan e parte de Brooklyn. Especializada en clientes hoteleros internacionales: os paseadores acuden a tu habitación o te encontram na entrada do hotel.",
+          "serviceTypePt": "Passeios, cuidados a domicilio, visitas en habitación de hotel",
+          "tipPt": "Reserva al menos 48 h antes para uma primera vez; os fines de semana se llenan rápido."
+        },
+        {
+          "name": "Rover (NYC sitters)",
+          "website": "https://www.rover.com/search/?location=New+York%2C+NY",
+          "description": "Rover is the largest US peer-to-peer platform for dog-walkers and pet-sitters, with thousands of verified sitters across NYC. You can book hour-long walks, daily drop-ins, full daycare or overnight boarding. Read sitter reviews carefully — quality varies; the top 5-star sitters in Manhattan often book out 1–2 weeks ahead.",
+          "descriptionFr": "Rover est la plus grande plateforme américaine peer-to-peer de promeneurs et pet-sitters, avec des milliers de sitters vérifiés à NYC. Vous pouvez réserver une promenade d'une heure, des visites quotidiennes, de la garderie ou de la pension de nuit. Lisez attentivement les avis — la qualité varie ; les meilleurs sitters 5 étoiles à Manhattan sont souvent complets 1 à 2 semaines à l'avance.",
+          "descriptionEs": "Rover es la mayor plataforma peer-to-peer de EE. UU. para paseadores y cuidadores, con miles de cuidadores verificados en NYC. Puedes reservar paseos de una hora, visitas diarias, guardería diurna o pernoctación. Lee con atención las reseñas — la calidad varía; los mejores cuidadores 5 estrellas en Manhattan suelen estar reservados con 1–2 semanas de antelación.",
+          "serviceType": "Walks, drop-ins, daycare, boarding (marketplace)",
+          "serviceTypeFr": "Promenades, visites, garderie, pension (marketplace)",
+          "serviceTypeEs": "Paseos, visitas, guardería, pernoctación (marketplace)",
+          "pricePerDay": "$25–$40 walk, $50–$100 daycare, $60–$120 overnight",
+          "languages": [
+            "English",
+            "Spanish",
+            "Mandarin"
+          ],
+          "tip": "Filter by 'Star Sitter' status and read at least 5 recent reviews; very new profiles can be inconsistent in a city this size.",
+          "tipFr": "Filtrez par statut « Star Sitter » et lisez au moins 5 avis récents ; les profils tout neufs peuvent être inégaux dans une ville aussi grande.",
+          "tipEs": "Filtra por estatus 'Star Sitter' y lee al menos 5 reseñas recientes; los perfiles muy nuevos pueden ser desiguales en una ciudad tan grande.",
+          "descriptionPt": "Rover é a mayor plataforma peer-to-peer de EE. UU. para paseadores e cuidadores, com miles de cuidadores verificados en NYC. Puedes reservar passeios de uma hora, visitas diarias, guardería diurna o pernoctación. Lee com atención as resenhas — a calidad varía; os melhores cuidadores 5 estrellas en Manhattan costumam estar reservados com 1–2 semanas de antelación.",
+          "serviceTypePt": "Passeios, visitas, guardería, pernoctación (marketplace)",
+          "tipPt": "Filtra por estatus 'Star Sitter' e lee al menos 5 resenhas recientes; os perfiles muito nuevos podem ser desiguales numa cidade tan grande."
+        },
+        {
+          "name": "NYC Doggies",
+          "website": "https://nycdoggies.com",
+          "description": "Manhattan-based dog-walking, daycare and overnight-boarding service operating since 2005, fully insured, bonded, and employee-based. Particularly strong in the Upper East Side, Upper West Side, Midtown and Chelsea. They offer GPS-tracked walks with a real-time photo report after each session — useful for nervous owners.",
+          "descriptionFr": "Service new-yorkais de promenade, garderie et pension de nuit basé à Manhattan, fondé en 2005, entièrement assuré et avec employés salariés. Très implanté sur l'Upper East Side, l'Upper West Side, Midtown et Chelsea. Propose des promenades avec suivi GPS et compte-rendu photo en temps réel — utile pour les maîtres inquiets.",
+          "descriptionEs": "Servicio de paseos, guardería y pernoctación basado en Manhattan, fundado en 2005, totalmente asegurado y con empleados en plantilla. Especialmente fuerte en Upper East Side, Upper West Side, Midtown y Chelsea. Ofrece paseos con seguimiento GPS y reporte fotográfico en tiempo real tras cada sesión — útil para dueños nerviosos.",
+          "serviceType": "Walks, daycare, boarding (employee-based)",
+          "serviceTypeFr": "Promenades, garderie, pension (employés salariés)",
+          "serviceTypeEs": "Paseos, guardería, pernoctación (empleados en plantilla)",
+          "pricePerDay": "$25–$35 walk, $60–$80 daycare, $100–$130 overnight",
+          "languages": [
+            "English",
+            "Spanish"
+          ],
+          "tip": "Hotel guests get priority scheduling if you book your full stay in one shot rather than walk-by-walk.",
+          "tipFr": "Les clients hôteliers ont la priorité si vous réservez tout le séjour d'un coup plutôt qu'au cas par cas.",
+          "tipEs": "Los huéspedes de hotel tienen prioridad si reservas toda la estancia de una vez en lugar de paseo a paseo.",
+          "descriptionPt": "Serviço de passeios, guardería e pernoctación basado en Manhattan, fundado en 2005, totalmente asegurado e com empleados en plantilla. Especialmente fuerte en Upper East Side, Upper West Side, Midtown e Chelsea. Ofrece passeios com seguimiento GPS e reporte fotográfico en tempo real tras cada sesión — útil para duenhos nerviosos.",
+          "serviceTypePt": "Passeios, guardería, pernoctación (empleados en plantilla)",
+          "tipPt": "Os huéspedes de hotel têm prioridad se reservas toda a estadia de uma vez en lugar de passeio a passeio."
+        }
+      ],
+      "titlePt": "Cuidadores e paseadores de cães en Nueva York",
+      "introPt": "Nueva York é o mayor mercado de paseadores e cuidadores profesionales de EE. UU. Rover e Wag dominan o segmento de apps a demanda, com miles de cuidadores nos cinco boroughs; as tarifas van de 25 a 40 $ por passeio e de 60 a 120 $ por noite. Varias agencias premium específicas de NYC (Throw Me a Bone, NYC Doggies) ofrecen serviço totalmente asegurado com empleados en plantilla para viajeros que prefieren um operador verificado a um marketplace."
+    }
+  }
+}

@@ -38,6 +38,7 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Slovakia: '🇸🇰',
   Lithuania: '🇱🇹',
   Luxembourg: '🇱🇺',
+  'United States': '🇺🇸',
 }
 
 /**
@@ -75,6 +76,7 @@ const COUNTRIES_FR: Record<string, string> = {
   Slovakia: 'Slovaquie',
   Lithuania: 'Lituanie',
   Luxembourg: 'Luxembourg',
+  'United States': 'États-Unis',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -108,6 +110,7 @@ const COUNTRIES_ES: Record<string, string> = {
   Slovakia: 'Eslovaquia',
   Lithuania: 'Lituania',
   Luxembourg: 'Luxemburgo',
+  'United States': 'Estados Unidos',
 }
 
 const COUNTRIES_PT: Record<string, string> = {
@@ -141,6 +144,69 @@ const COUNTRIES_PT: Record<string, string> = {
   Slovakia: 'Eslováquia',
   Lithuania: 'Lituânia',
   Luxembourg: 'Luxemburgo',
+  'United States': 'Estados Unidos',
+}
+
+/**
+ * French preposition for "to/in {country}": en (feminine), au (masculine), aux (plural).
+ * Default is 'en' which covers most countries (France, Italie, Belgique, etc.).
+ */
+const COUNTRY_PREP_FR: Record<string, 'en' | 'au' | 'aux'> = {
+  Portugal: 'au',
+  Luxembourg: 'au',
+  Denmark: 'au',
+  'United Kingdom': 'au',
+  Netherlands: 'aux',
+  'United States': 'aux',
+}
+
+/** Returns the right FR preposition + country, e.g. "en France", "au Portugal", "aux États-Unis". */
+export function frCountryPhrase(englishName: string): string {
+  const prep = COUNTRY_PREP_FR[englishName] ?? 'en'
+  return `${prep} ${getLocalizedCountryName(englishName, 'fr')}`
+}
+
+/**
+ * Portuguese requires preposition + article + country, e.g. "em França", "no Reino Unido", "nos Estados Unidos".
+ * For feminine European countries we say "na X" (na Alemanha, na Áustria...), for "Portugal/Reino Unido" type "no X",
+ * for plural "nos X". This map encodes the full "prep + article + name" phrase for each.
+ */
+const COUNTRY_PT_PHRASE: Record<string, string> = {
+  France: 'em França',
+  Spain: 'em Espanha',
+  Italy: 'em Itália',
+  Belgium: 'na Bélgica',
+  Germany: 'na Alemanha',
+  Portugal: 'em Portugal',
+  Netherlands: 'nos Países Baixos',
+  'Czech Republic': 'na República Checa',
+  Austria: 'na Áustria',
+  Denmark: 'na Dinamarca',
+  Sweden: 'na Suécia',
+  Switzerland: 'na Suíça',
+  Hungary: 'na Hungria',
+  Croatia: 'na Croácia',
+  'United Kingdom': 'no Reino Unido',
+  Ireland: 'na Irlanda',
+  Iceland: 'na Islândia',
+  Slovenia: 'na Eslovénia',
+  Latvia: 'na Letónia',
+  Estonia: 'na Estónia',
+  Poland: 'na Polónia',
+  Greece: 'na Grécia',
+  Norway: 'na Noruega',
+  Finland: 'na Finlândia',
+  Bulgaria: 'na Bulgária',
+  Romania: 'na Roménia',
+  Serbia: 'na Sérvia',
+  Slovakia: 'na Eslováquia',
+  Lithuania: 'na Lituânia',
+  Luxembourg: 'no Luxemburgo',
+  'United States': 'nos Estados Unidos',
+}
+
+export function ptCountryPhrase(englishName: string): string {
+  return COUNTRY_PT_PHRASE[englishName] ?? `em ${getLocalizedCountryName(englishName, 'pt')}`
 }
 
 export function getLocalizedCountryName(englishName: string, locale: string): string {

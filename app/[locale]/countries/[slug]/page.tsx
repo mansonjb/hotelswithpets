@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
-import { getAllCountries, slugToCountry, getLocalizedCountryName } from '@/lib/countries'
+import { getAllCountries, slugToCountry, getLocalizedCountryName, frCountryPhrase, ptCountryPhrase } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import hotels from '@/data/hotels.json'
 import categories from '@/data/categories.json'
@@ -27,17 +27,20 @@ export async function generateMetadata({
   const countryName = slugToCountry(slug)
   if (!countryName) return {}
 
-  const countryFr = getLocalizedCountryName(countryName, 'fr')
   const countryEs = getLocalizedCountryName(countryName, 'es')
+  const frPhrase = frCountryPhrase(countryName)   // "en France", "au Portugal", "aux États-Unis"
+  const ptPhrase = ptCountryPhrase(countryName)   // "em França", "no Reino Unido", "nos Estados Unidos"
   const titleTemplates: Record<string, string> = {
     en: `Pet-friendly hotels in ${countryName} | HotelsWithPets.com`,
-    fr: `Hôtels pet-friendly en ${countryFr} | HotelsWithPets.com`,
+    fr: `Hôtels pet-friendly ${frPhrase} | HotelsWithPets.com`,
     es: `Hoteles pet-friendly en ${countryEs} | HotelsWithPets.com`,
+    pt: `Hotéis pet-friendly ${ptPhrase} | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `Discover the best pet-friendly hotels across ${countryName}. Browse cities, compare pet policies and book with confidence.`,
-    fr: `Découvrez les meilleurs hôtels pet-friendly en ${countryFr}. Comparez les villes, vérifiez les politiques animaux et réservez en confiance.`,
+    fr: `Découvrez les meilleurs hôtels pet-friendly ${frPhrase}. Comparez les villes, vérifiez les politiques animaux et réservez en confiance.`,
     es: `Descubre los mejores hoteles pet-friendly en ${countryEs}. Compara ciudades, consulta las políticas de mascotas y reserva con confianza.`,
+    pt: `Descubra os melhores hotéis pet-friendly ${ptPhrase}. Compare cidades, verifique as políticas de animais e reserve com confiança.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en
@@ -90,13 +93,15 @@ export default async function CountryPage({
   const localizedCountry = getLocalizedCountryName(countryName, locale)
   const headings: Record<string, string> = {
     en: `Pet-friendly hotels in ${countryName}`,
-    fr: `Hôtels pet-friendly en ${localizedCountry}`,
+    fr: `Hôtels pet-friendly ${frCountryPhrase(countryName)}`,
     es: `Hoteles pet-friendly en ${localizedCountry}`,
+    pt: `Hotéis pet-friendly ${ptCountryPhrase(countryName)}`,
   }
   const subtitles: Record<string, string> = {
     en: `${country.destinations.length} cities · ${totalHotels}+ pet-friendly hotels`,
     fr: `${country.destinations.length} villes · ${totalHotels}+ hôtels pet-friendly`,
     es: `${country.destinations.length} ciudades · ${totalHotels}+ hoteles pet-friendly`,
+    pt: `${country.destinations.length} cidades · ${totalHotels}+ hotéis pet-friendly`,
   }
 
   const base = 'https://www.hotelswithpets.com'
@@ -191,7 +196,7 @@ export default async function CountryPage({
             <section className="bg-white border-t border-gray-100 py-10">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-lg font-extrabold text-gray-900 mb-5">
-                  {locale === 'fr' ? `Guides populaires en ${localizedCountry}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares em ${localizedCountry}` : `Popular guides in ${countryName}`}
+                  {locale === 'fr' ? `Guides populaires ${frCountryPhrase(countryName)}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares ${ptCountryPhrase(countryName)}` : `Popular guides in ${countryName}`}
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {guideLinks.map((g) => (

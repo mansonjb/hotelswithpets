@@ -62,22 +62,36 @@ export async function generateMetadata({
   const minPrice = Math.min(...comboHotels.map((h) => h.priceFrom))
   const freeCount = comboHotels.filter((h) => h.petFee === 0).length
 
-  // Locale-aware title for cat name
-  const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+  // Localized city + category names (the cat.name is already "Dog-friendly", "Cat-friendly", etc.,
+  // which is much more compelling to lead with than "Hotels in {city}, {Cat}")
+  const catNameFr = cat.nameFr ?? cat.name
+  const catNameEs = cat.nameEs ?? cat.name
+  const catNamePt = (cat as typeof cat & { namePt?: string }).namePt ?? cat.name
+  const cityEn = dest.name
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
-  const countryFr = getLocalizedCountryName(dest.country, 'fr')
-  const countryEs = getLocalizedCountryName(dest.country, 'es')
+  const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
+  const freePart = (locale: 'en' | 'fr' | 'es' | 'pt') => {
+    if (freeCount === 0) return ''
+    if (locale === 'fr') return `, dont ${freeCount} sans supplément animaux`
+    if (locale === 'es') return `, ${freeCount} sin cargo por mascota`
+    if (locale === 'pt') return `, ${freeCount} sem suplemento de animais`
+    return `, ${freeCount} with no pet fee`
+  }
 
+  // Compelling, traveller-intent titles. Lead with the category (the differentiator),
+  // include hotel count + entry price (specificity = clicks).
   const titles: Record<string, string> = {
-    en: `Hotels in ${dest.name}, ${cat.name} (${year}): Top ${comboHotels.length} Picks`,
-    fr: `Hôtels à ${cityFr}, ${catName} (${year}) : Top ${comboHotels.length}`,
-    es: `Hoteles en ${cityEs}, ${catName} (${year}): Top ${comboHotels.length}`,
+    en: `${cat.name} hotels in ${cityEn}: ${comboHotels.length} verified picks from €${minPrice}/night`,
+    fr: `Hôtels ${catNameFr.toLowerCase()} à ${cityFr} : ${comboHotels.length} adresses vérifiées dès ${minPrice} €/nuit`,
+    es: `Hoteles ${catNameEs.toLowerCase()} en ${cityEs}: ${comboHotels.length} verificados desde ${minPrice} €/noche`,
+    pt: `Hotéis ${catNamePt.toLowerCase()} em ${cityPt}: ${comboHotels.length} verificados desde ${minPrice} €/noite`,
   }
   const descriptions: Record<string, string> = {
-    en: `${comboHotels.length} handpicked pet-friendly hotels in ${dest.name}, ${dest.country}, ${cat.name.toLowerCase()}. Verified policies, from €${minPrice}/night. ${freeCount} with no pet fee. Book on Booking.com.`,
-    fr: `${comboHotels.length} hôtels pet-friendly sélectionnés à ${cityFr}, ${countryFr}, ${catName.toLowerCase()}. Politiques vérifiées, dès ${minPrice} €/nuit. ${freeCount} sans frais animaux. Réservez sur Booking.com.`,
-    es: `${comboHotels.length} hoteles pet-friendly seleccionados en ${cityEs}, ${countryEs}, ${catName.toLowerCase()}. Políticas verificadas, desde ${minPrice} €/noche. ${freeCount} sin cargo por mascota. Reserva en Booking.com.`,
+    en: `${comboHotels.length} ${cat.name.toLowerCase()} hotels in ${cityEn}, verified pet policies and live Booking.com prices from €${minPrice}/night${freePart('en')}. Updated ${year}.`,
+    fr: `${comboHotels.length} hôtels ${catNameFr.toLowerCase()} à ${cityFr}, politiques animaux vérifiées et prix Booking.com en direct dès ${minPrice} €/nuit${freePart('fr')}. Mis à jour en ${year}.`,
+    es: `${comboHotels.length} hoteles ${catNameEs.toLowerCase()} en ${cityEs}, políticas de mascotas verificadas y precios Booking.com en directo desde ${minPrice} €/noche${freePart('es')}. Actualizado ${year}.`,
+    pt: `${comboHotels.length} hotéis ${catNamePt.toLowerCase()} em ${cityPt}, políticas de animais verificadas e preços Booking.com em direto desde ${minPrice} €/noite${freePart('pt')}. Atualizado ${year}.`,
   }
 
   const title = titles[locale] ?? titles.en
@@ -97,6 +111,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/${destination}/${category}`,
         fr: `${SITE_URL}/fr/${destination}/${category}`,
         es: `${SITE_URL}/es/${destination}/${category}`,
+        pt: `${SITE_URL}/pt/${destination}/${category}`,
         'x-default': `${SITE_URL}/en/${destination}/${category}`,
       },
     },

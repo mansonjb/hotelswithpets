@@ -6,6 +6,7 @@ import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/d
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import { getLocalizedCityName } from '@/lib/cityNames'
 import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
 
@@ -195,6 +196,60 @@ export async function generateStaticParams() {
 
 // ─── Metadata ─────────────────────────────────────────────────────────────────
 
+// Traveller-intent meta templates per guide section.
+// Goal: distinguish from "near me" local-search intent, so Google SERPs
+// for visitors searching "{thing} in {city}" instead of locals searching "{thing} near me".
+const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt', { title: (c: string) => string; desc: (c: string) => string }>> = {
+  parks: {
+    en: { title: c => `Dog-friendly parks in ${c}: a visitor's guide`, desc: c => `Off-leash zones, fenced dog runs and quiet walks in ${c}, mapped for travellers visiting with their dog. Verified locations and rules.` },
+    fr: { title: c => `Parcs pour chiens à ${c} : guide du voyageur`, desc: c => `Zones sans laisse, espaces clôturés et promenades à ${c}, repérés pour les voyageurs qui visitent avec leur chien. Adresses et règles vérifiées.` },
+    es: { title: c => `Parques caninos en ${c}: guía para viajeros`, desc: c => `Zonas sin correa, recintos vallados y paseos en ${c}, seleccionados para viajeros que visitan con su perro. Direcciones y normas verificadas.` },
+    pt: { title: c => `Parques para cães em ${c}: guia do viajante`, desc: c => `Zonas sem trela, recintos vedados e passeios em ${c}, selecionados para viajantes que visitam com o seu cão. Moradas e regras verificadas.` },
+  },
+  tips: {
+    en: { title: c => `Travelling to ${c} with a dog: rules, vets & transport`, desc: c => `What to know before visiting ${c} with your dog or cat: local rules, summer-heat warnings, transport policies, emergency vet contacts. All verified at source.` },
+    fr: { title: c => `Voyager à ${c} avec son chien : règles, vétos & transports`, desc: c => `À savoir avant de visiter ${c} avec votre chien ou chat : règles locales, alertes canicule, transports, vétos d'urgence. Tout vérifié à la source.` },
+    es: { title: c => `Viajar a ${c} con perro: normas, vetes y transporte`, desc: c => `Lo que conviene saber antes de visitar ${c} con tu perro o gato: normas locales, alertas de calor, transporte, veterinarios de urgencia. Verificado en origen.` },
+    pt: { title: c => `Viajar para ${c} com cão: regras, vetes e transporte`, desc: c => `O que saber antes de visitar ${c} com o seu cão ou gato: regras locais, alertas de calor, transporte, veterinários de urgência. Verificado na fonte.` },
+  },
+  restaurants: {
+    en: { title: c => `Dog-friendly restaurants in ${c}: terraces verified`, desc: c => `Where to eat with a dog when visiting ${c}: dog-welcoming terraces, indoor-tolerant rooms, water bowls. Pet policy verified at source for each venue.` },
+    fr: { title: c => `Restaurants acceptant les chiens à ${c} : terrasses vérifiées`, desc: c => `Où manger avec son chien lors de votre visite à ${c} : terrasses dog-friendly, salles intérieures tolérantes, gamelles. Politique animaux vérifiée à la source.` },
+    es: { title: c => `Restaurantes que admiten perros en ${c}: terrazas verificadas`, desc: c => `Dónde comer con perro al visitar ${c}: terrazas pet-friendly, salas interiores tolerantes, cuencos. Política de mascotas verificada en origen.` },
+    pt: { title: c => `Restaurantes que aceitam cães em ${c}: esplanadas verificadas`, desc: c => `Onde comer com cão ao visitar ${c}: esplanadas pet-friendly, salas interiores tolerantes, taças. Política de animais verificada na fonte.` },
+  },
+  beaches: {
+    en: { title: c => `Dog-friendly beaches near ${c}: seasonal rules & access`, desc: c => `Beaches that accept dogs near ${c}: year-round zones, seasonal restrictions, transport from the city centre. Picked for travellers, verified locally.` },
+    fr: { title: c => `Plages canines près de ${c} : règles saisonnières & accès`, desc: c => `Plages acceptant les chiens près de ${c} : zones toute l'année, restrictions saisonnières, accès depuis le centre. Sélectionné pour voyageurs, vérifié sur place.` },
+    es: { title: c => `Playas caninas cerca de ${c}: normas estacionales y acceso`, desc: c => `Playas que admiten perros cerca de ${c}: zonas todo el año, restricciones estacionales, transporte desde el centro. Seleccionado para viajeros.` },
+    pt: { title: c => `Praias caninas perto de ${c}: regras sazonais e acesso`, desc: c => `Praias que aceitam cães perto de ${c}: zonas o ano inteiro, restrições sazonais, transporte a partir do centro. Selecionado para viajantes.` },
+  },
+  transport: {
+    en: { title: c => `Pets on public transport in ${c}: official rules`, desc: c => `Dog and cat rules on metro, trams, buses and trains in ${c}: carrier requirements, muzzle policies, ticket prices, all verified with the operator.` },
+    fr: { title: c => `Animaux dans les transports à ${c} : règles officielles`, desc: c => `Règles pour chiens et chats dans métro, tram, bus, train à ${c} : cage de transport, muselière, prix, tout vérifié auprès de l'opérateur.` },
+    es: { title: c => `Mascotas en transporte público en ${c}: normas oficiales`, desc: c => `Normas para perros y gatos en metro, tranvía, autobús y tren en ${c}: transportín, bozal, precios, todo verificado con el operador.` },
+    pt: { title: c => `Animais nos transportes públicos em ${c}: regras oficiais`, desc: c => `Regras para cães e gatos no metro, elétrico, autocarro e comboio em ${c}: transportadora, açaime, preços, tudo verificado com o operador.` },
+  },
+  vets: {
+    en: { title: c => `24/7 emergency vets in ${c}: travellers' contact list`, desc: c => `Emergency and 24-hour vet clinics in ${c} with verified phone numbers and addresses. The list every pet traveller should save before arriving.` },
+    fr: { title: c => `Vétos d'urgence 24h/24 à ${c} : liste pour voyageurs`, desc: c => `Cliniques vétérinaires d'urgence et 24h/24 à ${c} avec numéros et adresses vérifiés. La liste à enregistrer avant d'arriver avec un animal.` },
+    es: { title: c => `Vetes de urgencia 24/7 en ${c}: lista para viajeros`, desc: c => `Clínicas veterinarias de urgencia y 24 h en ${c} con teléfonos y direcciones verificados. La lista para guardar antes de llegar con un animal.` },
+    pt: { title: c => `Vetes de urgência 24/7 em ${c}: lista para viajantes`, desc: c => `Clínicas veterinárias de urgência e 24 h em ${c} com telefones e moradas verificados. A lista para guardar antes de chegar com um animal.` },
+  },
+  attractions: {
+    en: { title: c => `Pet-friendly attractions in ${c} for visitors`, desc: c => `Sights, museums, gardens and tours that welcome dogs (and sometimes cats) in ${c}. Curated for travellers, with the pet policy of each venue.` },
+    fr: { title: c => `Sites pet-friendly à ${c} pour visiteurs`, desc: c => `Monuments, musées, jardins et visites qui accueillent les chiens (et parfois les chats) à ${c}. Sélectionné pour voyageurs, politique animaux de chaque lieu.` },
+    es: { title: c => `Atracciones pet-friendly en ${c} para visitantes`, desc: c => `Monumentos, museos, jardines y visitas que admiten perros (y a veces gatos) en ${c}. Seleccionado para viajeros, con la política de cada lugar.` },
+    pt: { title: c => `Atrações pet-friendly em ${c} para visitantes`, desc: c => `Monumentos, museus, jardins e visitas que aceitam cães (e por vezes gatos) em ${c}. Selecionado para viajantes, com a política de cada lugar.` },
+  },
+  petsitting: {
+    en: { title: c => `Pet-sitters in ${c}: verified platforms & local services`, desc: c => `Hour and overnight pet-sitters in ${c}: verified platforms (Rover, Pawshake), local services, prices and contact details for travelling owners.` },
+    fr: { title: c => `Pet-sitters à ${c} : plateformes & services locaux vérifiés`, desc: c => `Pet-sitters à l'heure ou la nuit à ${c} : plateformes vérifiées (Rover, Pawshake), services locaux, tarifs et contacts pour propriétaires en voyage.` },
+    es: { title: c => `Cuidadores de mascotas en ${c}: plataformas verificadas`, desc: c => `Cuidadores por horas o noche en ${c}: plataformas verificadas (Rover, Pawshake), servicios locales, precios y contactos para dueños en viaje.` },
+    pt: { title: c => `Cuidadores de animais em ${c}: plataformas verificadas`, desc: c => `Cuidadores à hora ou noite em ${c}: plataformas verificadas (Rover, Pawshake), serviços locais, preços e contactos para donos em viagem.` },
+  },
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -208,13 +263,20 @@ export async function generateMetadata({
   if (!dest || !cityGuide || !cityGuide.guides[guide]) return {}
 
   const guideData = cityGuide.guides[guide]
-  const title = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : guideData.titleEn
-  const intro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : guideData.introEn
-  const description = (intro ?? guideData.introEn ?? '').slice(0, 155)
+  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt') ? locale : 'en'
+  const localizedCity = getLocalizedCityName(dest.slug, dest.name, locale)
+
+  // Prefer the traveller-intent template; fall back to JSON title for sections we haven't templated.
+  const tpl = META_TPL[guide]?.[lang]
+  const fallbackTitle = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : guideData.titleEn
+  const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : guideData.introEn
+
+  const metaTitle = tpl ? tpl.title(localizedCity) : (fallbackTitle ?? guideData.titleEn)
+  const metaDesc = tpl ? tpl.desc(localizedCity) : (fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
 
   return {
-    title: `${title ?? guideData.titleEn} | HotelsWithPets.com`,
-    description,
+    title: `${metaTitle} | HotelsWithPets.com`,
+    description: metaDesc,
     alternates: {
       canonical: `${SITE_URL}/${locale}/destinations/${slug}/${guide}`,
       languages: {
@@ -223,8 +285,8 @@ export async function generateMetadata({
       },
     },
     openGraph: {
-      title: `${title ?? guideData.titleEn}`,
-      description,
+      title: metaTitle,
+      description: metaDesc,
       type: 'article',
     },
   }

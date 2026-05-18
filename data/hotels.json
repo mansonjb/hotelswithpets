@@ -12053,6 +12053,129 @@
     "petPolicyPt": "SANTA CRUZ SUITE Jardín com vistas Mijas Costa warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 10 kg; one animal per quarto máximo. O hotel é um short walk de animal-accessible beach areas. Ideal para morning runs com your cão. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "malmo-1",
+    "name": "Clarion Hotel Malmö Live",
+    "destinationSlug": "malmo",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 7200,
+    "priceFrom": 119,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/clarion-malmo-live.html",
+    "petFee": 22,
+    "petPolicy": "Clarion Hotel Malmö Live welcomes dogs of any size in designated rooms for SEK 250 (≈€22) per room per night (cats are not allowed). Dogs are permitted in guest rooms, the lobby and bar but not in the restaurant or breakfast area. The hotel sits a 5-minute walk from Malmö Central and the Western Harbour, with the rooftop bar Kitchen & Table offering panoramic city views.",
+    "highlights": [
+      "5 minutes' walk from Malmö Central",
+      "Rooftop bar with city panorama",
+      "Steps from Western Harbour and Slottsparken"
+    ],
+    "slug": "clarion-hotel-malmo-live"
+  },
+  {
+    "id": "malmo-2",
+    "name": "Quality Hotel View",
+    "destinationSlug": "malmo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 5800,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/quality-hotel-view.html",
+    "petFee": 22,
+    "petPolicy": "Quality Hotel View welcomes pets for SEK 250 (≈€22) per stay — a flat fee, not per night. Both dogs and cats are accepted; mention your pet at booking to be assigned a pet-friendly room. The hotel is directly above Hyllie station, 9 minutes by Pågatåg from Malmö Central and 15 minutes from Copenhagen Airport — ideal for cross-border trips with a dog.",
+    "highlights": [
+      "Direct access to Hyllie station (Pågatåg + Öresundståg)",
+      "15 minutes from Copenhagen Airport by train",
+      "Flat SEK 250 pet fee for entire stay"
+    ],
+    "slug": "quality-hotel-view-malmo"
+  },
+  {
+    "id": "malmo-3",
+    "name": "Story Hotel Studio Malmö, part of JdV by Hyatt",
+    "destinationSlug": "malmo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "dogs-stay-free",
+      "no-pet-fee"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/story-hotel-studio-malmo.html",
+    "petFee": 0,
+    "petPolicy": "Story Hotel Studio Malmö allows one pet up to 25 kg in designated rooms free of charge (no additional fee). Both dogs and cats are welcome. Located a 5-minute walk from Malmö Central, the design hotel features 48-inch Apple TVs, rain showers, free Wi-Fi and a complimentary breakfast served daily.",
+    "highlights": [
+      "Dogs and cats free up to 25 kg (no pet fee)",
+      "5 minutes' walk from Malmö Central",
+      "Free breakfast & design rooms"
+    ],
+    "slug": "story-hotel-studio-malmo"
+  },
+  {
+    "id": "malmo-4",
+    "name": "Good Morning+ Malmö",
+    "destinationSlug": "malmo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 4100,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/good-morning-malmo.html",
+    "petFee": 13,
+    "petPolicy": "Good Morning+ Malmö welcomes pets for SEK 150 (≈€13) per pet per night in designated rooms. Both dogs and cats are accepted; pet-friendly rooms have laminate flooring rather than carpet for easier cleaning. The hotel sits in central Malmö, 10 minutes' walk from Malmö Central and Pildammsparken, with free Wi-Fi and a daily breakfast buffet included.",
+    "highlights": [
+      "SEK 150 (€13) per pet/night — budget pet-friendly",
+      "Laminate flooring in pet rooms",
+      "10 minutes' walk to Pildammsparken"
+    ],
+    "slug": "good-morning-plus-malmo"
+  },
+  {
+    "id": "malmo-5",
+    "name": "The More Hotel Mazetti",
+    "destinationSlug": "malmo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 3200,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/the-more-hotel-mazetti.html",
+    "petFee": 18,
+    "petPolicy": "The More Hotel Mazetti welcomes dogs and cats in designated apartment-style rooms for SEK 200 (≈€18) per pet per night. The aparthotel format includes a kitchenette in every unit — useful for dogs on strict diets. Located in Möllevången, the multicultural creative district 7 minutes' walk from Malmö Central and adjacent to Folkets Park, with the Möllan market square at the door.",
+    "highlights": [
+      "Apartment-style rooms with kitchenette",
+      "In Möllevången, 1 minute from Folkets Park",
+      "7 minutes' walk from Malmö Central"
+    ],
+    "slug": "the-more-hotel-mazetti"
+  },
+  {
     "id": "manchester-1",
     "name": "The Lowry Hotel",
     "destinationSlug": "manchester",

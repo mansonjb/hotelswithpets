@@ -421,6 +421,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parque de Málaga seafront, the Montes de Málaga natural park, and the Pedregalejo beach dog zone',
       area: 'the Historic Centre, Soho, and Pedregalejo',
     },
+    malmo: {
+      personality: 'southern Sweden\'s coastal capital, a compact and bike-friendly city where 61 enclosed dog parks dot every district, dogs ride free on the entire Skånetrafiken network, and the year-round Ribersborg Hundbad is one of Europe\'s best urban dog beaches',
+      highlight: 'the Ribersborg dog beach and off-leash strip, Pildammsparken\'s 45-hectare landscape park, and the Sundspromenaden coastal walk to the Western Harbour',
+      area: 'Gamla Staden around Lilla Torg, Möllevången creative district, and Västra Hamnen by the Turning Torso',
+    },
     manchester: {
       personality: 'one of the UK\'s most reliably dog-friendly cities, with free pets on every Metrolink tram and Bee Network bus, dog-welcoming pubs on every Northern Quarter street, and 240-hectare Heaton Park a tram ride away',
       highlight: 'Heaton Park, Fletcher Moss Botanical Gardens, and the Bridgewater Canal towpath',
@@ -1104,6 +1109,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parque de Málaga en bord de mer, le parc naturel des Montes de Málaga et la zone chiens de la plage de Pedregalejo',
       area: 'le Centre Historique, Soho et Pedregalejo',
     },
+    malmo: {
+      personality: 'la capitale côtière du sud de la Suède, une ville compacte et propice au vélo où 61 parcs canins clos parsèment chaque quartier, les chiens voyagent gratuitement sur tout le réseau Skånetrafiken, et la plage canine de Ribersborg ouverte toute l\'année est l\'une des meilleures d\'Europe en milieu urbain',
+      highlight: 'la plage canine de Ribersborg et son aire sans laisse, le parc paysager de 45 hectares Pildammsparken, et la Sundspromenaden, promenade côtière jusqu\'au Western Harbour',
+      area: 'Gamla Staden autour de Lilla Torg, le quartier créatif de Möllevången et Västra Hamnen près du Turning Torso',
+    },
     manchester: {
       personality: 'l\'une des villes britanniques les plus fiables côté chiens, avec animaux gratuits dans chaque tram Metrolink et bus Bee Network, pubs dog-friendly à chaque rue du Northern Quarter, et les 240 hectares de Heaton Park à un tram du centre',
       highlight: 'Heaton Park, les jardins botaniques de Fletcher Moss et le chemin de halage du Bridgewater Canal',
@@ -1786,6 +1796,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque de Málaga en el paseo marítimo, el parque natural de los Montes de Málaga y la zona para perros de la playa de Pedregalejo',
       area: 'el Centro Histórico, Soho y Pedregalejo',
     },
+    malmo: {
+      personality: 'la capital costera del sur de Suecia, una ciudad compacta y propicia a la bicicleta donde 61 parques caninos cerrados salpican cada barrio, los perros viajan gratis en toda la red de Skånetrafiken, y la playa canina de Ribersborg abierta todo el año es una de las mejores de Europa en entorno urbano',
+      highlight: 'la playa canina de Ribersborg y su franja sin correa, el parque paisajístico de 45 hectáreas Pildammsparken, y la Sundspromenaden, paseo costero hasta el Western Harbour',
+      area: 'Gamla Staden en torno a Lilla Torg, el barrio creativo de Möllevången y Västra Hamnen junto al Turning Torso',
+    },
     manchester: {
       personality: 'una de las ciudades del Reino Unido más fiables con perros, con mascotas gratis en cada tranvía Metrolink y autobús Bee Network, pubs dog-friendly en cada calle del Northern Quarter, y las 240 hectáreas de Heaton Park a un tranvía del centro',
       highlight: 'Heaton Park, los jardines botánicos de Fletcher Moss y la senda del Bridgewater Canal',
@@ -2467,6 +2482,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma relajada cidade portuaria andaluza onde os cães acompanhan aos seus duenhos nas esplanadas de museus, en hotéis frente al mar e a través do histórico bairro da Alcazaba',
       highlight: 'o Parque de Málaga no passeio marítimo, o parque natural dos Montes de Málaga e a zona para cães da praia de Pedregalejo',
       area: 'o Centro Histórico, Soho e Pedregalejo',
+    },
+    malmo: {
+      personality: 'a capital costeira do sul da Suécia, uma cidade compacta e amiga das bicicletas onde 61 parques caninos vedados se distribuem por cada bairro, os cães viajam grátis em toda a rede Skånetrafiken, e a praia canina de Ribersborg, aberta todo o ano, é uma das melhores da Europa em ambiente urbano',
+      highlight: 'a praia canina de Ribersborg e a sua faixa sem trela, o parque paisagístico de 45 hectares Pildammsparken, e a Sundspromenaden, passeio costeiro até ao Western Harbour',
+      area: 'Gamla Staden em torno de Lilla Torg, o bairro criativo de Möllevången e Västra Hamnen junto ao Turning Torso',
     },
     manchester: {
       personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada elétrico Metrolink e autocarro Bee Network, pubs pet-friendly en cada rua do Northern Quarter, e as 240 hectáreas de Heaton Park a um elétrico do centro',

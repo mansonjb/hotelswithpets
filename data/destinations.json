@@ -5870,6 +5870,79 @@
     }
   },
   {
+    "slug": "malmo",
+    "name": "Malmö",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/malmo.jpg",
+    "intro": "Malmö is southern Sweden's coastal hub — compact, walkable, with 61 enclosed dog parks, a year-round dog beach at Ribersborg, and free public transport for pets.",
+    "lat": 55.605,
+    "lng": 13.0038,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & grey",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & breezy",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm & long days",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Sunny & coastal",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Sunny & coastal",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "manchester",
     "name": "Manchester",
     "country": "United Kingdom",

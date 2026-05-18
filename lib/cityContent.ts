@@ -10270,6 +10270,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  malmo: {
+    history: {
+      en: `Malmö sits at the southwestern tip of Sweden, a 35-minute Øresundståg train ride from Copenhagen across the 16 km Øresund Bridge that opened in 2000 and changed the city's economic gravity overnight. Founded in the 13th century as a Hanseatic fishing port, then a Danish royal city until the 1658 Treaty of Roskilde transferred it to Sweden, Malmö went through a heavy industrial century building Kockums shipyards and the textile mills around Möllevången. The Kockums crane left for South Korea in 2002, replaced symbolically by Santiago Calatrava's 190 m Turning Torso completed in 2005 — the visible centrepiece of a 25-year regeneration that turned the old harbour into the sustainable Western Harbour district. Today Malmö is Sweden's third-largest city with 360,000 inhabitants, half of them under 35, one of Europe's youngest urban demographics. Dog culture is exceptionally well embedded: the city manages 61 enclosed dog parks, a dedicated year-round dog beach at Ribersborg, and free travel for pets across the entire Skånetrafiken network. The Swedish nationwide leash law (kopplingstvång) from 1 March to 20 August keeps wildlife protected; outside that window, dogs run free under voice control in forests and meadows across Skåne.`,
+      fr: `Malmö se trouve à la pointe sud-ouest de la Suède, à 35 minutes de Copenhague en train Öresundståg via le pont de l'Øresund de 16 km ouvert en 2000, qui a changé du jour au lendemain la gravité économique de la ville. Fondée au XIIIᵉ siècle comme port de pêche hanséatique, puis ville royale danoise jusqu'au traité de Roskilde de 1658 qui la transfère à la Suède, Malmö a connu un siècle industriel intense avec les chantiers navals de Kockums et les filatures autour de Möllevången. La grue de Kockums est partie pour la Corée du Sud en 2002, remplacée symboliquement par le Turning Torso de 190 m de Santiago Calatrava achevé en 2005 — pièce maîtresse visible d'une régénération de 25 ans qui a transformé le vieux port en quartier durable du Western Harbour. Aujourd'hui Malmö est la troisième ville de Suède avec 360 000 habitants, dont la moitié a moins de 35 ans, l'une des démographies urbaines les plus jeunes d'Europe. La culture canine y est exceptionnellement bien implantée : la ville gère 61 parcs canins clos, une plage canine dédiée toute l'année à Ribersborg, et la gratuité totale du transport pour les animaux sur l'ensemble du réseau Skånetrafiken. La loi nationale suédoise sur la laisse (kopplingstvång) du 1ᵉʳ mars au 20 août protège la faune ; hors de cette fenêtre, les chiens courent librement sous contrôle vocal en forêts et prairies de toute la Scanie.`,
+      es: `Malmö se encuentra en el extremo suroeste de Suecia, a 35 minutos de Copenhague en tren Öresundståg cruzando el puente del Øresund de 16 km abierto en el año 2000, que cambió la gravedad económica de la ciudad de un día para otro. Fundada en el siglo XIII como puerto pesquero hanseático y luego ciudad real danesa hasta que el Tratado de Roskilde de 1658 la transfirió a Suecia, Malmö vivió un siglo industrial intenso con los astilleros Kockums y las fábricas textiles en torno a Möllevången. La grúa de Kockums partió hacia Corea del Sur en 2002, reemplazada simbólicamente por el Turning Torso de 190 m de Santiago Calatrava terminado en 2005 — pieza maestra visible de una regeneración de 25 años que convirtió el viejo puerto en el barrio sostenible del Western Harbour. Hoy Malmö es la tercera ciudad de Suecia con 360 000 habitantes, la mitad menores de 35 años, una de las demografías urbanas más jóvenes de Europa. La cultura canina está excepcionalmente bien arraigada: la ciudad gestiona 61 parques caninos cerrados, una playa canina dedicada todo el año en Ribersborg, y la gratuidad total del transporte para mascotas en toda la red de Skånetrafiken. La ley nacional sueca de correa (kopplingstvång) del 1 de marzo al 20 de agosto protege la fauna; fuera de esa ventana, los perros corren libres bajo control vocal en bosques y prados de toda Skåne.`,
+      pt: `Malmö situa-se na ponta sudoeste da Suécia, a 35 minutos de Copenhaga em comboio Öresundståg cruzando a ponte do Øresund de 16 km aberta no ano 2000, que mudou a gravidade económica da cidade de um dia para o outro. Fundada no século XIII como porto pesqueiro hanseático e depois cidade real dinamarquesa até o Tratado de Roskilde de 1658 a transferir para a Suécia, Malmö viveu um século industrial intenso com os estaleiros Kockums e as fábricas têxteis em torno de Möllevången. A grua de Kockums partiu para a Coreia do Sul em 2002, substituída simbolicamente pelo Turning Torso de 190 m de Santiago Calatrava concluído em 2005 — peça-mestra visível de uma regeneração de 25 anos que transformou o velho porto no bairro sustentável do Western Harbour. Hoje Malmö é a terceira cidade da Suécia com 360 000 habitantes, metade com menos de 35 anos, uma das demografias urbanas mais jovens da Europa. A cultura canina está excecionalmente bem implantada: a cidade gere 61 parques caninos vedados, uma praia canina dedicada todo o ano em Ribersborg, e a gratuitidade total do transporte para animais em toda a rede Skånetrafiken. A lei nacional sueca da trela (kopplingstvång) de 1 de março a 20 de agosto protege a fauna; fora dessa janela, os cães correm livres sob controlo de voz em florestas e prados de toda a Skåne.`,
+    },
+    sights: [
+      {
+        name: 'Ribersborg Hundbad',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          en: `Malmö's official year-round dog beach at the northern end of the Ribersborg sand strip. Dogs swim and run off-leash inside the marked zone, with a gentle entry slope and calm Øresund water that suits first-time canine swimmers.`,
+          fr: `La plage canine officielle de Malmö, ouverte toute l'année, à l'extrémité nord de la longue plage de Ribersborg. Les chiens nagent et courent sans laisse dans la zone balisée, avec une pente d'entrée douce et des eaux calmes de l'Øresund adaptées aux chiens débutants nageurs.`,
+          es: `La playa canina oficial de Malmö, abierta todo el año, en el extremo norte de la franja de arena de Ribersborg. Los perros nadan y corren sin correa dentro de la zona señalizada, con entrada en pendiente suave y aguas calmas del Øresund adecuadas para perros nadadores principiantes.`,
+          pt: `A praia canina oficial de Malmö, aberta todo o ano, na ponta norte da faixa de areia de Ribersborg. Os cães nadam e correm sem trela dentro da zona sinalizada, com entrada de declive suave e águas calmas do Øresund adequadas a cães nadadores principiantes.`,
+        },
+      },
+      {
+        name: 'Turning Torso',
+        emoji: '🏙️',
+        petFriendly: true,
+        desc: {
+          en: `Santiago Calatrava's 190 m residential tower (2005), the tallest building in the Nordics for fifteen years and the anchor of the Western Harbour regeneration. The tower interior is private, but the waterfront boardwalk and the Scaniabadet sea-pool steps are open to the public and dog-welcoming on leash.`,
+          fr: `La tour résidentielle de 190 m signée Santiago Calatrava (2005), le plus haut bâtiment des pays nordiques pendant quinze ans et la pièce maîtresse de la régénération du Western Harbour. L'intérieur de la tour est privé, mais la promenade portuaire et les escaliers de la piscine maritime Scaniabadet sont ouverts au public et accueillent les chiens en laisse.`,
+          es: `La torre residencial de 190 m diseñada por Santiago Calatrava (2005), el edificio más alto de los países nórdicos durante quince años y la pieza clave de la regeneración del Western Harbour. El interior de la torre es privado, pero el paseo del puerto y las escaleras de la piscina marítima Scaniabadet están abiertos al público y admiten perros con correa.`,
+          pt: `A torre residencial de 190 m concebida por Santiago Calatrava (2005), o edifício mais alto dos países nórdicos durante quinze anos e peça-chave da regeneração do Western Harbour. O interior da torre é privado, mas o passeio do porto e as escadas da piscina marítima Scaniabadet estão abertos ao público e aceitam cães com trela.`,
+        },
+      },
+      {
+        name: 'Pildammsparken',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Malmö's largest landscape park, 45 hectares of ponds, mature trees and broad lawns laid out for the 1914 Baltic Exhibition. Leash mandatory throughout except inside the enclosed hundrastgård at the southern end, which allows off-leash play in a fenced area.`,
+          fr: `Le plus grand parc paysager de Malmö, 45 hectares d'étangs, d'arbres matures et de grandes pelouses aménagés pour l'Exposition baltique de 1914. Laisse obligatoire partout, sauf à l'intérieur du hundrastgård clos à l'extrémité sud, qui autorise le jeu sans laisse dans un espace clôturé.`,
+          es: `El mayor parque paisajístico de Malmö, 45 hectáreas de estanques, árboles maduros y amplias praderas diseñadas para la Exposición Báltica de 1914. Correa obligatoria en todas partes, salvo dentro del hundrastgård cerrado en el extremo sur, que permite el juego sin correa en una zona vallada.`,
+          pt: `O maior parque paisagístico de Malmö, 45 hectares de lagos, árvores maduras e amplos relvados projetados para a Exposição Báltica de 1914. Trela obrigatória em todo o lado, exceto dentro do hundrastgård vedado na extremidade sul, que permite o jogo sem trela numa zona vedada.`,
+        },
+      },
+      {
+        name: 'Malmöhus Slottspark',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `The gardens around Malmöhus Castle, Sweden's oldest surviving Renaissance castle (1537), including the windmill, the moat-lined castle gardens and the broader Slottsparken. Castle interior houses the Moderna Museet and is closed to dogs; the gardens are leashed-dog-friendly throughout.`,
+          fr: `Les jardins autour du château de Malmöhus, le plus ancien château Renaissance encore debout en Suède (1537), avec le moulin, les jardins ceinturés de douves et le Slottsparken plus large. L'intérieur abrite le Moderna Museet et est interdit aux chiens ; les jardins accueillent les chiens en laisse partout.`,
+          es: `Los jardines en torno al Castillo de Malmöhus, el castillo renacentista más antiguo aún en pie en Suecia (1537), con el molino, los jardines del castillo bordeados por el foso y el más amplio Slottsparken. El interior alberga el Moderna Museet y está cerrado a los perros; los jardines admiten perros con correa en todo el recinto.`,
+          pt: `Os jardins em torno do Castelo de Malmöhus, o castelo renascentista mais antigo ainda de pé na Suécia (1537), com o moinho, os jardins do castelo cercados pelo fosso e o mais amplo Slottsparken. O interior alberga o Moderna Museet e está fechado aos cães; os jardins aceitam cães com trela em todo o recinto.`,
+        },
+      },
+      {
+        name: 'Lilla Torg & Gamla Staden',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          en: `The cobbled little square at the heart of the old town, ringed by half-timbered buildings and dog-welcoming café terraces. The medieval grid of Gamla Staden around it is compact and flat, ideal for an unhurried walk with a dog.`,
+          fr: `La petite place pavée au cœur de la vieille ville, entourée de maisons à colombages et de terrasses de café accueillant les chiens. La trame médiévale de Gamla Staden autour est compacte et plate, idéale pour une balade tranquille avec un chien.`,
+          es: `La pequeña plaza adoquinada en el corazón del casco antiguo, rodeada de casas con entramado de madera y terrazas de café que admiten perros. La trama medieval de Gamla Staden a su alrededor es compacta y llana, ideal para un paseo tranquilo con perro.`,
+          pt: `A pequena praça calcetada no coração do centro histórico, rodeada por casas em meia-madeira e esplanadas de café que aceitam cães. A malha medieval de Gamla Staden à volta é compacta e plana, ideal para um passeio tranquilo com cão.`,
+        },
+      },
+      {
+        name: 'Sundspromenaden',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `A 4 km waterfront promenade from the Western Harbour to Ribersborg, with sea on one side and a low-rise residential strip on the other. Leashed dogs are welcome the entire length; benches and the Scaniabadet sea-pool steps provide regular rest stops.`,
+          fr: `Une promenade côtière de 4 km du Western Harbour à Ribersborg, mer d'un côté, bande résidentielle basse de l'autre. Les chiens en laisse sont bienvenus sur toute la longueur ; bancs et escaliers de la piscine maritime Scaniabadet offrent des pauses régulières.`,
+          es: `Un paseo marítimo de 4 km del Western Harbour hasta Ribersborg, con el mar a un lado y una franja residencial baja al otro. Los perros con correa son bienvenidos en todo el recorrido; bancos y las escaleras de la piscina marítima Scaniabadet ofrecen paradas regulares.`,
+          pt: `Um passeio marítimo de 4 km do Western Harbour até Ribersborg, com o mar de um lado e uma faixa residencial baixa do outro. Os cães com trela são bem-vindos em todo o percurso; bancos e as escadas da piscina marítima Scaniabadet oferecem paragens regulares.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Dogs travel free on the entire Skånetrafiken network (city buses, regional buses and Pågatåg / Öresundståg trains within Sweden), up to two pets per passenger, leashed and off the seats. Pågatåg trains have a designated 'pet carriage' marked on the door.`,
+        `From 1 March to 20 August, Sweden's nationwide leash law (kopplingstvång) is mandatory in forests, fields and nature reserves — even when the path looks empty. Voice control is not a legal substitute during this window.`,
+        `Dogs are banned from all standard city swimming beaches between 15 March and 30 September. The exception is the year-round dog beach (hundbad) at the northern end of Ribersborg, with a second informal spot at Sibbarp.`,
+        `Crossing to Copenhagen by Öresundståg: small dogs in a closed carrier travel free both ways; larger dogs need a Danish-side child half-fare ticket from the conductor once the train enters Denmark.`,
+        `The nearest 24/7 emergency animal hospital is Evidensia Djursjukhuset Malmö (Cypressvägen 11, Fosie), with on-call vets, ICU and imaging. Call the triage line +46 40 55 22 55 before driving in.`,
+      ],
+      fr: [
+        `Les chiens voyagent gratuitement sur tout le réseau Skånetrafiken (bus urbains, bus régionaux, trains Pågatåg / Öresundståg en Suède), jusqu'à deux animaux par passager, en laisse et hors des sièges. Les trains Pågatåg disposent d'une « voiture pour animaux » signalée sur la porte.`,
+        `Du 1ᵉʳ mars au 20 août, la loi nationale suédoise sur la laisse (kopplingstvång) est obligatoire en forêt, dans les champs et les réserves naturelles — même quand le chemin semble vide. Le contrôle vocal n'est pas un substitut légal pendant cette période.`,
+        `Les chiens sont interdits sur toutes les plages de baignade municipales du 15 mars au 30 septembre. L'exception est la plage canine (hundbad) ouverte toute l'année à l'extrémité nord de Ribersborg, avec un second spot informel à Sibbarp.`,
+        `Traversée vers Copenhague par Öresundståg : petits chiens en cage fermée gratuits aller-retour ; grands chiens : demi-tarif enfant côté danois auprès du contrôleur dès que le train entre au Danemark.`,
+        `L'hôpital animalier d'urgence 24h/24 le plus proche est l'Evidensia Djursjukhuset Malmö (Cypressvägen 11, Fosie), avec vétérinaires de garde, soins intensifs et imagerie. Appelez la ligne de triage +46 40 55 22 55 avant de venir.`,
+      ],
+      es: [
+        `Los perros viajan gratis en toda la red de Skånetrafiken (autobuses urbanos, autobuses regionales y trenes Pågatåg / Öresundståg dentro de Suecia), hasta dos mascotas por pasajero, con correa y fuera de los asientos. Los trenes Pågatåg tienen un 'vagón para mascotas' señalizado en la puerta.`,
+        `Del 1 de marzo al 20 de agosto, la ley nacional sueca de correa (kopplingstvång) es obligatoria en bosques, campos y reservas naturales — incluso cuando el sendero parece vacío. El control vocal no es un sustituto legal en ese periodo.`,
+        `Los perros están prohibidos en todas las playas de baño municipales del 15 de marzo al 30 de septiembre. La excepción es la playa canina (hundbad) abierta todo el año en el extremo norte de Ribersborg, con un segundo punto informal en Sibbarp.`,
+        `Cruzar a Copenhague en Öresundståg: perros pequeños en transportín cerrado gratis ida y vuelta; perros grandes con medio billete infantil del lado danés al revisor en cuanto el tren entra en Dinamarca.`,
+        `El hospital veterinario de urgencias 24/7 más cercano es Evidensia Djursjukhuset Malmö (Cypressvägen 11, Fosie), con veterinarios de guardia, UCI e imagen. Llama a la línea de triaje +46 40 55 22 55 antes de acudir.`,
+      ],
+      pt: [
+        `Os cães viajam grátis em toda a rede Skånetrafiken (autocarros urbanos, autocarros regionais e comboios Pågatåg / Öresundståg dentro da Suécia), até dois animais por passageiro, com trela e fora dos lugares sentados. Os comboios Pågatåg têm uma 'carruagem para animais' sinalizada na porta.`,
+        `De 1 de março a 20 de agosto, a lei nacional sueca da trela (kopplingstvång) é obrigatória em florestas, campos e reservas naturais — mesmo quando o caminho parece vazio. O controlo de voz não é um substituto legal nesse período.`,
+        `Os cães estão proibidos em todas as praias municipais de banho de 15 de março a 30 de setembro. A exceção é a praia canina (hundbad) aberta todo o ano na ponta norte de Ribersborg, com um segundo ponto informal em Sibbarp.`,
+        `Atravessar para Copenhaga em Öresundståg: cães pequenos em transportadora fechada grátis em ambos os sentidos; cães grandes com meio bilhete infantil do lado dinamarquês ao revisor assim que o comboio entrar na Dinamarca.`,
+        `O hospital veterinário de urgência 24/7 mais próximo é Evidensia Djursjukhuset Malmö (Cypressvägen 11, Fosie), com veterinários de turno, UCI e imagiologia. Liga à linha de triagem +46 40 55 22 55 antes de ir.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Closest airport: Copenhagen Airport (CPH) is the de facto Malmö airport, 22 minutes by Öresundståg from Malmö Central Station; Malmö Airport (MMX) handles only domestic and a few European flights.`,
+        `Malmö Central Station (Malmö C) is the rail hub — Pågatåg local trains, Öresundståg to Copenhagen and SJ long-distance trains to Stockholm and Gothenburg all stop here.`,
+        `Tap water is potable and refilling stations (vattenpost) operate from May to September along Sundspromenaden, in Pildammsparken and on Lilla Torg.`,
+        `Sweden's tapeworm (Echinococcus) treatment rule still applies to dogs arriving from outside Finland, the UK, Ireland, Malta or Norway — administered by an Official Vet 24–120 hours before crossing the border.`,
+        `UK visitors: post-Brexit, the EU pet passport is not valid. You need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroport le plus proche : l'aéroport de Copenhague (CPH) est en pratique l'aéroport de Malmö, à 22 min en Öresundståg depuis Malmö Central ; l'aéroport de Malmö (MMX) ne dessert que les vols intérieurs et quelques destinations européennes.`,
+        `La gare centrale de Malmö (Malmö C) est le hub ferroviaire — trains locaux Pågatåg, Öresundståg vers Copenhague et trains SJ longue distance vers Stockholm et Göteborg s'y arrêtent.`,
+        `L'eau du robinet est potable et les points de remplissage (vattenpost) fonctionnent de mai à septembre le long de la Sundspromenaden, à Pildammsparken et sur Lilla Torg.`,
+        `Le traitement antiparasitaire échinocoque (ténia) imposé par la Suède s'applique toujours aux chiens arrivant d'un pays autre que la Finlande, le Royaume-Uni, l'Irlande, Malte ou la Norvège — administré par un vétérinaire officiel 24 à 120 heures avant le passage de la frontière.`,
+        `Visiteurs UK : depuis le Brexit, le passeport européen pour animal n'est plus valable. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: el aeropuerto de Copenhague (CPH) es de facto el aeropuerto de Malmö, a 22 min en Öresundståg desde Malmö Central; el aeropuerto de Malmö (MMX) solo opera vuelos nacionales y unos pocos europeos.`,
+        `La estación central de Malmö (Malmö C) es el hub ferroviario — trenes locales Pågatåg, Öresundståg a Copenhague y trenes SJ de larga distancia a Estocolmo y Gotemburgo paran aquí.`,
+        `El agua del grifo es potable y los puntos de rellenado (vattenpost) funcionan de mayo a septiembre a lo largo de la Sundspromenaden, en Pildammsparken y en Lilla Torg.`,
+        `La norma sueca de tratamiento contra la tenia equinococo sigue aplicándose a perros que llegan de un país distinto a Finlandia, Reino Unido, Irlanda, Malta o Noruega — administrado por un veterinario oficial 24 a 120 horas antes de cruzar la frontera.`,
+        `Visitantes del Reino Unido: tras el Brexit, el pasaporte europeo de mascotas ya no es válido. Se necesita un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: o aeroporto de Copenhaga (CPH) é, na prática, o aeroporto de Malmö, a 22 min em Öresundståg a partir de Malmö Central; o aeroporto de Malmö (MMX) só opera voos nacionais e alguns europeus.`,
+        `A estação central de Malmö (Malmö C) é o hub ferroviário — comboios locais Pågatåg, Öresundståg para Copenhaga e comboios SJ de longa distância para Estocolmo e Gotemburgo param aqui.`,
+        `A água da torneira é potável e os pontos de recarga (vattenpost) funcionam de maio a setembro ao longo da Sundspromenaden, em Pildammsparken e em Lilla Torg.`,
+        `A norma sueca de tratamento contra a ténia equinococo continua a aplicar-se a cães que chegam de país diferente da Finlândia, Reino Unido, Irlanda, Malta ou Noruega — administrado por um veterinário oficial 24 a 120 horas antes de atravessar a fronteira.`,
+        `Visitantes do Reino Unido: após o Brexit, o passaporte europeu para animais deixou de ser válido. É necessário um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   manchester: {
     history: {
       fr: `Manchester a été la première grande ville industrielle du monde, c'est ici que la révolution industrielle s'est faite, autour des moulins à coton et du Bridgewater Canal achevé en 1761, premier canal industriel britannique. Aujourd'hui ville de 553 000 habitants au cœur du Grand Manchester (2,8 millions d'habitants), elle a transformé son patrimoine industriel em quartiers créatifs : le Northern Quarter pour les indépendants, Ancoats et son ancien Little Italy, Castlefield et son bassin de canaux. La culture canine britannique du nord est l'une des plus généreuses : pubs dog-friendly à chaque rue, animaux gratuits dans les trams Metrolink (depuis 2023, permanent) et les bus Bee Network, et 240 hectares sans laisse au seul Heaton Park. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée, le passeport européen ne suffit plus.`,

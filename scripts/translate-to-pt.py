@@ -521,6 +521,86 @@ POST_FIXES = [
     (r'\bde a\b', 'da'),
     (r'\ba o\b', 'ao'),
     (r'\ba os\b', 'aos'),
+    # ── Round 2 (added 2026-05-18 to fix GSC duplicate flags) ────────────
+    # Pure ES → PT verb conjugations that were leaking
+    (r'\bdespués de\b', 'depois de'),
+    (r'\bdespués del\b', 'depois do'),
+    (r'\bdespués\b', 'depois'),
+    (r'\bmientras tanto\b', 'entretanto'),
+    (r'\bmientras\b', 'enquanto'),
+    (r'\bhicieron\b', 'fizeram'),
+    (r'\bhizo\b', 'fez'),
+    (r'\bhacen\b', 'fazem'),
+    (r'\bhace\b', 'faz'),
+    (r'\bhacer\b', 'fazer'),
+    (r'\bhacia\b', 'para'),
+    (r'\bincluyen\b', 'incluem'),
+    (r'\bincluye\b', 'inclui'),
+    (r'\badmiten\b', 'admitem'),
+    (r'\bencuentran\b', 'encontram'),
+    (r'\bencuentra\b', 'encontra'),
+    (r'\bencuentro\b', 'encontro'),
+    (r'\bvienen\b', 'vêm'),
+    (r'\bviene\b', 'vem'),
+    (r'\bvino\b', 'veio'),
+    (r'\bvienieron\b', 'vieram'),
+    (r'\bvinieron\b', 'vieram'),
+    (r'\bllegan\b', 'chegam'),
+    (r'\bllega\b', 'chega'),
+    (r'\bllegó\b', 'chegou'),
+    (r'\bllegaron\b', 'chegaram'),
+    (r'\bllevan\b', 'levam'),
+    (r'\blleva\b', 'leva'),
+    (r'\bllevó\b', 'levou'),
+    (r'\bllevaron\b', 'levaram'),
+    (r'\bcaminan\b', 'caminham'),
+    (r'\bcamina\b', 'caminha'),
+    (r'\bpasan\b', 'passam'),
+    (r'\bpasa\b', 'passa'),
+    (r'\bpasó\b', 'passou'),
+    (r'\bpasaron\b', 'passaram'),
+    (r'\bcogen\b', 'apanham'),
+    (r'\bcoge\b', 'apanha'),
+    (r'\bcogió\b', 'apanhou'),
+    (r'\bsuele\b', 'costuma'),
+    # Adverbs of place leaking
+    (r'\bencima de\b', 'em cima de'),
+    (r'\bencima\b', 'em cima'),
+    (r'\bdebajo de\b', 'debaixo de'),
+    (r'\bdebajo\b', 'debaixo'),
+    (r'\barriba\b', 'em cima'),
+    (r'\babajo\b', 'em baixo'),
+    (r'\bfuera de\b', 'fora de'),
+    (r'\bfuera\b', 'fora'),
+    (r'\baún\b', 'ainda'),
+    # Numbers (when written out)
+    (r'\bdos\b', 'dois'),
+    (r'\btres\b', 'três'),
+    (r'\bcuatro\b', 'quatro'),
+    (r'\bseis\b', 'seis'),
+    (r'\bsiete\b', 'sete'),
+    (r'\bocho\b', 'oito'),
+    (r'\bnueve\b', 'nove'),
+    (r'\bdiez\b', 'dez'),
+    # Time / words
+    (r'\btiempos\b', 'tempos'),
+    (r'\btiempo\b', 'tempo'),
+    (r'\bveces\b', 'vezes'),
+    (r'\bhorarios\b', 'horários'),
+    (r'\bhorario\b', 'horário'),
+    # "Pueblo" → "aldeia" (Iberian villages; less ambiguous than "vila")
+    (r'\bpueblos\b', 'aldeias'),
+    (r'\bpueblo\b', 'aldeia'),
+    # "si" (if) → "se" (only when standalone, not "sí" which is "yes")
+    (r'\bsi\b', 'se'),
+    # ES-only contractions still leaking
+    (r'\bvolverá\b', 'voltará'),
+    (r'\bvolver\b', 'voltar'),
+    (r'\bjueves\b', 'quinta-feira'),
+    (r'\bviernes\b', 'sexta-feira'),
+    (r'\blunes\b', 'segunda-feira'),
+    (r'\bmartes\b', 'terça-feira'),
+    (r'\bmiércoles\b', 'quarta-feira'),
     # Gender fixes
     (r'\bos paredes\b', 'as paredes'),
     (r'\bos ruelas\b', 'as ruelas'),
@@ -562,14 +642,20 @@ def translate(text):
     return result
 
 
-def add_pt_to_obj(obj):
-    """Walk obj, for every *Es field, add *Pt counterpart with translated value (idempotent)."""
+def add_pt_to_obj(obj, force=False):
+    """Walk obj, for every *Es field, add *Pt counterpart with translated value.
+
+    Idempotent by default (only adds when *Pt is absent).
+    If force=True, overwrites existing *Pt with a fresh translation from *Es,
+    which is the right mode when you've improved the dictionary and want
+    to re-translate the whole corpus.
+    """
     if isinstance(obj, dict):
         new_keys = {}
         for k, v in obj.items():
             if k.endswith('Es'):
                 pt_key = k[:-2] + 'Pt'
-                if pt_key not in obj:
+                if force or pt_key not in obj:
                     if isinstance(v, str):
                         new_keys[pt_key] = translate(v)
                     elif isinstance(v, list):
@@ -585,12 +671,12 @@ def add_pt_to_obj(obj):
                     else:
                         new_keys[pt_key] = v
             if isinstance(v, (dict, list)):
-                add_pt_to_obj(v)
+                add_pt_to_obj(v, force=force)
         for nk, nv in new_keys.items():
             obj[nk] = nv
     elif isinstance(obj, list):
         for item in obj:
-            add_pt_to_obj(item)
+            add_pt_to_obj(item, force=force)
 
 
 def restore_digits(obj):
@@ -649,7 +735,7 @@ def count_pt(obj, counter=None):
     return counter[0]
 
 
-def process_file(fp):
+def process_file(fp, force=False):
     """Returns tuple (slug, before_pt, after_pt, changed_bool)."""
     slug = Path(fp).stem
     try:
@@ -658,7 +744,7 @@ def process_file(fp):
         return (slug, 0, 0, False, str(e))
     before_count = count_pt(data)
     before_blob = json.dumps(data, ensure_ascii=False)
-    add_pt_to_obj(data)
+    add_pt_to_obj(data, force=force)
     restore_digits(data)
     after_blob = json.dumps(data, ensure_ascii=False)
     after_count = count_pt(data)
@@ -670,6 +756,10 @@ def process_file(fp):
 
 def main():
     args = sys.argv[1:]
+    force = False
+    if '--force' in args:
+        force = True
+        args = [a for a in args if a != '--force']
     if args:
         files = [str(ROOT / f'data/city-guides/{a}.json') for a in args]
     else:
@@ -683,7 +773,7 @@ def main():
         if not Path(fp).exists():
             print(f"  SKIP missing: {fp}")
             continue
-        slug, before, after, changed, err = process_file(fp)
+        slug, before, after, changed, err = process_file(fp, force=force)
         if err:
             print(f"  ERROR {slug}: {err}")
             continue

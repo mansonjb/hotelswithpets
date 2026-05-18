@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
-        pt: `${SITE_URL}/é/guides/${SLUG}`,
+        pt: `${SITE_URL}/pt/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -309,7 +309,7 @@ const COPY: Record<string, Copy> = {
     ctaTitle: 'Planeas um viaje Londres-Europa com o teu cão?',
     ctaDesc: 'Explora nuestros hotéis que admitem animais em París, Bruxelas, Amesterdão e Berlim, todos acessíveis desde Londres em Le Shuttle em menos de 8 horas de carretera.',
     ctaButton: 'Ver hotéis pet-friendly →',
-    ctaHref: '/é/destinations',
+    ctaHref: '/pt/destinations',
     relatedTitle: 'Guías prácticas relacionadas',
   },
 }

@@ -41,7 +41,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/guides/hotel-pet-friendly`,
         fr: `${SITE_URL}/fr/guides/hotel-pet-friendly`,
         es: `${SITE_URL}/es/guides/hotel-pet-friendly`,
-        pt: `${SITE_URL}/é/guides/hotel-pet-friendly`,
+        pt: `${SITE_URL}/pt/guides/hotel-pet-friendly`,
         'x-default': `${SITE_URL}/en/guides/hotel-pet-friendly`,
       },
     },

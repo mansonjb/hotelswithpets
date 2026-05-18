@@ -41,7 +41,7 @@ export async function generateMetadata({
         en: `${SITE_URL}/en/guides/avion-animal`,
         fr: `${SITE_URL}/fr/guides/avion-animal`,
         es: `${SITE_URL}/es/guides/avion-animal`,
-        pt: `${SITE_URL}/é/guides/avion-animal`,
+        pt: `${SITE_URL}/pt/guides/avion-animal`,
         'x-default': `${SITE_URL}/en/guides/avion-animal`,
       },
     },

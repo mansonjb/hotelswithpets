@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         en: `${SITE_URL}/en/guides/${SLUG}`,
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
-        pt: `${SITE_URL}/é/guides/${SLUG}`,
+        pt: `${SITE_URL}/pt/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -481,7 +481,7 @@ const COPY: Record<string, Copy> = {
     ctaTitle: 'Planificando um viaje com o teu cão?',
     ctaDesc: 'Explora nuestros 90+ destinos pet-friendly por toda Europa, cada guía incluye normas de entrada específicas do país, números de veterinários e um mapa Booking.com em vivo de hotéis pet-friendly.',
     ctaButton: 'Ver destinos pet-friendly →',
-    ctaHref: '/é/destinations',
+    ctaHref: '/pt/destinations',
   },
 }
 

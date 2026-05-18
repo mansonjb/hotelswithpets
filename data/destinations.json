@@ -2129,6 +2129,80 @@
     }
   },
   {
+    "slug": "cagliari",
+    "name": "Cagliari",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cagliari.jpg",
+    "intro": "Cagliari, the Sardinian capital on the Mediterranean, combines a hilltop Castello quarter, 8 km of urban beach at Poetto with a seasonal dog stretch, a 1,600-ha flamingo lagoon, mild winters and a 24/7 reference vet hospital.",
+    "lat": 39.2238,
+    "lng": 9.1217,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "cambridge",
     "name": "Cambridge",
     "country": "United Kingdom",

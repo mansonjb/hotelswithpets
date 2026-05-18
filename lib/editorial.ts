@@ -166,6 +166,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
+    cagliari: {
+      personality: `the Sardinian capital with 8 km of urban beach at Poetto, a seasonal municipal dog stretch, year-round canine cove at Calamosca, the 1,600-hectare Molentargius flamingo lagoon and one true 24/7 emergency vet hospital`,
+      highlight: `the Bastione di Saint Remy panorama, the Sella del Diavolo coastal trail above Calamosca, and the flat 7 km flamingo loop at Parco di Molentargius`,
+      area: `the Marina quarter around Via Sardegna, the hilltop Castello district, and the Poetto seafront`,
+    },
     cambridge: {
       personality: `one of England's most reliably dog-friendly small cities, vast off-leash urban commons (Jesus Green, Midsummer, Coe Fen), historic pubs that welcome leashed dogs in the bar, and direct 50-min Greater Anglia trains from London King's Cross`,
       highlight: `the Backs riverside path, Grantchester Meadows and The Orchard tea garden, and the Iron Age hillfort trails of Wandlebury Country Park`,
@@ -859,6 +864,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
+    cagliari: {
+      personality: `la capitale de la Sardaigne avec 8 km de plage urbaine au Poetto, un tronçon canin municipal saisonnier, la crique canine de Calamosca toute l'année, la lagune aux flamants roses de Molentargius (1 600 ha) et un vrai hôpital vétérinaire d'urgence 24h/24`,
+      highlight: `le panorama du Bastione di Saint Remy, le sentier côtier de la Sella del Diavolo au-dessus de Calamosca, et la boucle plate de 7 km aux flamants du Parco di Molentargius`,
+      area: `le quartier Marina autour de Via Sardegna, le quartier historique du Castello et le front de mer du Poetto`,
+    },
     cambridge: {
       personality: `l'une des petites villes anglaises les plus fiablement dog-friendly, vastes communaux urbains sans laisse (Jesus Green, Midsummer, Coe Fen), pubs historiques qui accueillent les chiens en laisse au bar, et trains directs Greater Anglia depuis London King's Cross en 50 min`,
       highlight: `le sentier riverain des Backs, les prés de Grantchester et le tea garden de The Orchard, et les sentiers du fort de l'âge du fer de Wandlebury Country Park`,
@@ -1551,6 +1561,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
     },
+    cagliari: {
+      personality: `la capital de Cerdeña con 8 km de playa urbana en Poetto, un tramo canino municipal estacional, la cala canina de Calamosca todo el año, la laguna de flamencos rosas de Molentargius (1.600 ha) y un verdadero hospital veterinario de urgencias 24/7`,
+      highlight: `el panorama del Bastione di Saint Remy, el sendero costero de la Sella del Diavolo sobre Calamosca, y el recorrido llano de 7 km de los flamencos en el Parco di Molentargius`,
+      area: `el barrio Marina alrededor de Via Sardegna, el barrio histórico del Castello y el paseo marítimo de Poetto`,
+    },
     cambridge: {
       personality: `una de las ciudades pequeñas inglesas más fiablemente dog-friendly, vastos comunales urbanos sin correa (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten perros con correa en la barra, y trenes directos Greater Anglia desde London King's Cross en 50 min`,
       highlight: `el sendero ribereño de los Backs, las praderas de Grantchester y el tea garden de The Orchard, y los senderos del fuerte de la Edad del Hierro de Wandlebury Country Park`,
@@ -2242,6 +2257,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade de gran arquitetura e uma escena pet-friendly en auge. Os cães viajan no metro, acceden a a maioria dos parques e são bem-vindos nos famosos bares en ruinas de Budapest',
       highlight: 'a Ilha Margarita, o Parque da Cidade (Városliget) e os passeios riberenhos do Danubio',
       area: 'o 7º distrito (o Bairro Judío), o distrito do Castelo de Buda e Óbuda',
+    },
+    cagliari: {
+      personality: `a capital da Sardenha com 8 km de praia urbana no Poetto, um trecho canino municipal sazonal, a enseada canina de Calamosca o ano inteiro, a lagoa de flamingos rosas de Molentargius (1.600 ha) e um verdadeiro hospital veterinário de urgências 24/7`,
+      highlight: `o panorama do Bastione di Saint Remy, o trilho costeiro da Sella del Diavolo acima de Calamosca, e o percurso plano de 7 km dos flamingos no Parco di Molentargius`,
+      area: `o bairro Marina à volta da Via Sardegna, o bairro histórico do Castello e a marginal do Poetto`,
     },
     cambridge: {
       personality: `uma das cidades pequenhas inglesas mais fiablemente pet-friendly, vastos comunales urbanos sem trela (Jesus Green, Midsummer, Coe Fen), pubs históricos que admiten cães com trela na barra, e comboios directos Greater Anglia a partir de London King's Cross en 50 min`,

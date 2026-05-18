@@ -3745,6 +3745,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cagliari: {
+    history: {
+      fr: `Cagliari, capitale de la Sardaigne, occupe sept collines au-dessus du golfe des Anges depuis l'âge du bronze. Fondée par les Phéniciens (VIIIe s. av. J.-C.), elle fut tour à tour carthaginoise, romaine (Karalis), byzantine, pisane (qui bâtit le quartier fortifié du Castello au XIIIe s.), puis aragonaise et savoyarde, capitale du royaume de Sardaigne jusqu'à l'unité italienne. La ville moderne s'étire des bastions calcaires du Castello jusqu'aux 8 km de plage urbaine du Poetto, entre la lagune aux flamants roses de Molentargius et la péninsule de Sant'Elia. Pour le voyageur avec chien, Cagliari combine quatre atouts rares : un centre marchable et essentiellement piéton après 19h, une plage canine municipale saisonnière au Poetto, des collines-parcs aménagées (Monte Urpinu, San Michele) et un hôpital vétérinaire 24h/24 de référence. Le climat méditerranéen offre des hivers doux (13-14°C) qui en font une destination toute l'année, à l'exception de juillet-août où le sirocco impose un rythme matin tôt et fin de journée.`,
+      en: `Cagliari, the capital of Sardinia, has occupied seven limestone hills above the Gulf of the Angels since the Bronze Age. Founded by the Phoenicians (8th c. BC), it passed through Carthaginian, Roman (Karalis), Byzantine, Pisan (which built the fortified Castello quarter in the 13th c.), Aragonese and Savoyard hands, serving as capital of the Kingdom of Sardinia until Italian unification. The modern city stretches from the limestone bastions of the Castello down to the 8 km urban beach of Poetto, between the pink-flamingo lagoon of Molentargius and the Sant'Elia headland. For the dog traveller, Cagliari combines four rare advantages: a walkable centre that goes mostly pedestrian after 19:00, a seasonal municipal dog beach on Poetto, hilltop park-forests (Monte Urpinu, San Michele) and a reference 24/7 emergency vet hospital. The Mediterranean climate delivers mild winters (13-14°C), making it a year-round destination except in July-August when the sirocco forces an early-morning and late-evening rhythm.`,
+      es: `Cagliari, capital de Cerdeña, ocupa siete colinas calizas sobre el golfo de los Ángeles desde la Edad del Bronce. Fundada por los fenicios (s. VIII a.C.), pasó por manos cartaginesas, romanas (Karalis), bizantinas, pisanas (que levantaron el barrio fortificado del Castello en el s. XIII), aragonesas y saboyanas, sirviendo como capital del reino de Cerdeña hasta la unificación italiana. La ciudad moderna se extiende desde los bastiones calizos del Castello hasta los 8 km de playa urbana de Poetto, entre la laguna de flamencos rosas de Molentargius y la península de Sant'Elia. Para el viajero con perro, Cagliari combina cuatro ventajas raras: un centro caminable y mayormente peatonal después de las 19:00, una playa canina municipal estacional en Poetto, parques en colinas boscosas (Monte Urpinu, San Michele) y un hospital veterinario de urgencias 24/7 de referencia. El clima mediterráneo ofrece inviernos suaves (13-14°C), destino de todo el año salvo en julio-agosto cuando el siroco impone ritmo de madrugada y atardecer.`,
+      pt: `Cagliari, capital da Sardenha, ocupa sete colinas calcárias sobre o golfo dos Anjos desde a Idade do Bronze. Fundada pelos fenícios (séc. VIII a.C.), passou por mãos cartaginesas, romanas (Karalis), bizantinas, pisanas (que ergueram o bairro fortificado do Castello no séc. XIII), aragonesas e saboianas, servindo como capital do reino da Sardenha até à unificação italiana. A cidade moderna estende-se desde os bastiões calcários do Castello até aos 8 km de praia urbana do Poetto, entre a lagoa de flamingos rosas de Molentargius e a península de Sant'Elia. Para o viajante com cão, Cagliari combina quatro vantagens raras: um centro pedonal a partir das 19:00, uma praia canina municipal sazonal no Poetto, parques em colinas arborizadas (Monte Urpinu, San Michele) e um hospital veterinário de urgências 24/7 de referência. O clima mediterrâneo oferece invernos amenos (13-14°C), destino do ano inteiro salvo em julho-agosto quando o siroco impõe ritmo de madrugada e fim de tarde.`,
+    },
+    sights: [
+      { name: 'Bastione di Saint Remy', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Terrasse monumentale en pierre du XIXe siècle reliant le Castello à la Marina, panorama signature de Cagliari sur les lagunes et le golfe. Ouverte 24h/24, chiens en laisse admis.`,
+        en: `Monumental 19th-century stone terrace linking the Castello to the Marina, Cagliari's signature panorama over the lagoons and the gulf. Open 24/7, leashed dogs welcome.`,
+        es: `Terraza monumental del siglo XIX que une el Castello con la Marina, panorama emblemático de Cagliari sobre las lagunas y el golfo. Abierta 24/7, perros con correa admitidos.`,
+        pt: `Terraço monumental do século XIX que liga o Castello à Marina, panorama emblemático de Cagliari sobre as lagoas e o golfo. Aberto 24/7, cães com trela admitidos.`,
+      }},
+      { name: 'Poetto Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage urbaine de 8 km bordée de kiosques, tronçon canin municipal à l'extrémité est ouvert de mai à octobre, accès toute l'année hors 8h-20h en haute saison.`,
+        en: `An 8 km urban beach lined with kiosks, with a municipal dog stretch at the eastern end open May-October, accessible year-round outside the 08:00-20:00 ban in high season.`,
+        es: `Playa urbana de 8 km bordeada de chiringuitos, tramo canino municipal al extremo este abierto de mayo a octubre, accesible todo el año fuera de la veda 08:00-20:00 en alta temporada.`,
+        pt: `Praia urbana de 8 km com quiosques, trecho canino municipal no extremo este aberto de maio a outubro, acessível o ano inteiro fora da veda 08:00-20:00 em época alta.`,
+      }},
+      { name: 'Parco di Monte Urpinu', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Plus grand parc urbain (25 ha) sur colline de pins méditerranéens, aire canine clôturée près de Via Vidal, paons et tortues en liberté, vue sur la lagune de Molentargius.`,
+        en: `The largest urban park (25 ha) on a hill of Mediterranean pines, fenced dog area near Via Vidal, peacocks and tortoises roam freely, views over the Molentargius lagoon.`,
+        es: `El mayor parque urbano (25 ha) en colina de pinos mediterráneos, área canina vallada cerca de Via Vidal, pavones y tortugas en libertad, vista a la laguna de Molentargius.`,
+        pt: `O maior parque urbano (25 ha) numa colina de pinheiros mediterrânicos, área canina vedada perto da Via Vidal, pavões e tartarugas em liberdade, vista sobre a lagoa de Molentargius.`,
+      }},
+      { name: 'Parco di Molentargius-Saline', emoji: '🦩', petFriendly: true, desc: {
+        fr: `Réserve naturelle de 1 600 ha entre Cagliari et Quartu, colonie permanente de 5 000+ flamants roses, boucle plate de 7 km sur les chemins de salines, chiens en laisse admis.`,
+        en: `A 1,600-hectare nature reserve between Cagliari and Quartu, with a permanent colony of 5,000+ pink flamingos, a flat 7 km loop on salt-pan paths, leashed dogs welcome.`,
+        es: `Reserva natural de 1.600 ha entre Cagliari y Quartu, colonia permanente de 5.000+ flamencos rosas, recorrido llano de 7 km por caminos salineros, perros con correa admitidos.`,
+        pt: `Reserva natural de 1.600 ha entre Cagliari e Quartu, colónia permanente de 5.000+ flamingos rosas, percurso plano de 7 km pelos caminhos das salinas, cães com trela admitidos.`,
+      }},
+      { name: 'Sella del Diavolo', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Promontoire rocheux entre Calamosca et le Poetto, sentier côtier d'1h aller-retour, vue mer sur le golfe, chiens en laisse admis, eau à prévoir.`,
+        en: `Rocky headland between Calamosca and Poetto, a 1-hour return coastal trail, sea views over the gulf, leashed dogs welcome, bring water.`,
+        es: `Promontorio rocoso entre Calamosca y Poetto, sendero costero de 1h ida y vuelta, vistas al golfo, perros con correa admitidos, lleva agua.`,
+        pt: `Promontório rochoso entre Calamosca e Poetto, trilho costeiro de 1h ida e volta, vistas sobre o golfo, cães com trela admitidos, levar água.`,
+      }},
+      { name: `Anfiteatro Romano`, emoji: '🏟️', petFriendly: true, desc: {
+        fr: `Amphithéâtre romain du IIe siècle taillé dans la colline, plus grande ruine romaine de Sardaigne. Périmètre extérieur et sentier panoramique accessibles aux chiens en laisse, intérieur archéologique fermé.`,
+        en: `A 2nd-century Roman amphitheatre carved into the hillside, Sardinia's largest Roman ruin. Outer perimeter and panoramic path open to leashed dogs, archaeological interior closed.`,
+        es: `Anfiteatro romano del siglo II tallado en la ladera, la mayor ruina romana de Cerdeña. Perímetro exterior y sendero panorámico abiertos a perros con correa, interior arqueológico cerrado.`,
+        pt: `Anfiteatro romano do século II talhado na encosta, a maior ruína romana da Sardenha. Perímetro exterior e trilho panorâmico abertos a cães com trela, interior arqueológico fechado.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Sur le tronçon principal du Poetto (km 0-6) les chiens sont interdits du 1er mai au 30 septembre de 8h à 20h, amendes 100-300 €. Hors période, libre accès en laisse.`,
+        `Aire canine officielle municipale à l'extrémité est du Poetto (km 4-5) ouverte mai-octobre : zone clôturée, abreuvoirs, poteaux d'ombre, accès gratuit.`,
+        `Vétérinaire d'urgence 24h/24 : Clinica Veterinaria Duemari, Via Donatori di Sangue 14 (+39 070 503480), seul vrai hôpital 24h/24 du sud de la Sardaigne.`,
+        `Bus CTM PF et PQ depuis Piazza Matteotti vers le Poetto en 20 min, chiens en laisse et muselés admis gratuitement, idéal en plein été pour éviter les trottoirs brûlants.`,
+        `Sardaigne à forte prévalence de tiques et leishmaniose d'avril à octobre, demandez à votre vétérinaire un Scalibor ou un Bravecto avant le voyage si séjour > 5 jours.`,
+      ],
+      en: [
+        `On the main Poetto stretch (km 0-6) dogs are banned from 1 May to 30 September between 08:00 and 20:00, fines €100-€300. Outside that window, free access on leash.`,
+        `Official municipal dog area at the eastern end of Poetto (km 4-5) open May-October: fenced zone, water troughs, shade posts, free entry.`,
+        `24/7 emergency vet: Clinica Veterinaria Duemari, Via Donatori di Sangue 14 (+39 070 503480), the only true 24/7 hospital in southern Sardinia.`,
+        `CTM buses PF and PQ from Piazza Matteotti reach Poetto in 20 min, leashed and muzzled dogs travel free, ideal in high summer to avoid burning pavements.`,
+        `Sardinia has high tick and Leishmaniasis prevalence April-October, ask your vet for a Scalibor collar or Bravecto before travel for stays over 5 days.`,
+      ],
+      es: [
+        `En el tramo principal del Poetto (km 0-6) los perros están prohibidos del 1 de mayo al 30 de septiembre de 08:00 a 20:00, multas 100-300 €. Fuera de ese periodo, acceso libre con correa.`,
+        `Área canina municipal oficial en el extremo este del Poetto (km 4-5) abierta de mayo a octubre: zona vallada, bebederos, postes de sombra, acceso gratuito.`,
+        `Veterinario de urgencias 24/7: Clinica Veterinaria Duemari, Via Donatori di Sangue 14 (+39 070 503480), único verdadero hospital 24/7 del sur de Cerdeña.`,
+        `Buses CTM PF y PQ desde Piazza Matteotti llegan a Poetto en 20 min, perros con correa y bozal viajan gratis, ideal en pleno verano para evitar las aceras ardiendo.`,
+        `Cerdeña tiene alta prevalencia de garrapatas y leishmaniosis de abril a octubre, pide al veterinario un collar Scalibor o Bravecto antes de viajar para estancias de más de 5 días.`,
+      ],
+      pt: [
+        `No trecho principal do Poetto (km 0-6) os cães estão proibidos de 1 de maio a 30 de setembro entre as 08:00 e as 20:00, multas 100-300 €. Fora desse período, acesso livre com trela.`,
+        `Área canina municipal oficial no extremo este do Poetto (km 4-5) aberta de maio a outubro: zona vedada, bebedouros, postes de sombra, entrada gratuita.`,
+        `Veterinário de urgências 24/7: Clinica Veterinaria Duemari, Via Donatori di Sangue 14 (+39 070 503480), o único verdadeiro hospital 24/7 do sul da Sardenha.`,
+        `Autocarros CTM PF e PQ desde Piazza Matteotti chegam ao Poetto em 20 min, cães com trela e açaime viajam grátis, ideal no pico do verão para evitar passeios escaldantes.`,
+        `A Sardenha tem alta prevalência de carraças e Leishmaniose de abril a outubro, peça ao veterinário uma coleira Scalibor ou Bravecto antes da viagem para estadias superiores a 5 dias.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : passeport européen pour animaux, puce ISO et vaccin antirabique en cours suffisent, l'Italie est dans l'espace Schengen.`,
+        `Aéroport Cagliari Elmas (CAG) à 8 km du centre, train ARST 7 min, chiens en cabine en sac IATA (moins de 8-10 kg selon compagnie) ou en soute en caisse IATA.`,
+        `Ferries Tirrenia et Grimaldi depuis Civitavecchia (13h), Naples (16h) et Palerme : cabines pet-friendly à réserver 2 mois à l'avance en juillet-août, supplément 25-40 € par chien.`,
+        `Bus CTM urbains : petits chiens en sac gratuits, grands chiens muselés et en laisse admis sans billet séparé, drivers' discretion aux heures de pointe.`,
+        `Meilleure saison : avril-juin et mi-septembre-début novembre (18-26°C, mer baignable, interdiction estivale du Poetto pas en vigueur). Évitez juillet-août (35°C+ et sirocco).`,
+      ],
+      en: [
+        `From the EU: standard European pet passport, ISO microchip and valid rabies vaccination are sufficient, Italy is in the Schengen area.`,
+        `Cagliari Elmas Airport (CAG) is 8 km from the centre, 7 min by ARST train, dogs in-cabin in IATA carrier (under 8-10 kg depending on airline) or in hold in IATA crate.`,
+        `Tirrenia and Grimaldi ferries from Civitavecchia (13h), Naples (16h) and Palermo: pet-friendly cabins to book 2 months ahead in July-August, supplement €25-€40 per dog.`,
+        `CTM urban buses: small dogs in carrier free, large dogs muzzled and leashed admitted without separate ticket, driver's discretion at peak hours.`,
+        `Best season: April-June and mid-September to early November (18-26°C, swimmable sea, Poetto summer ban not in force). Avoid July-August (35°C+ and sirocco).`,
+      ],
+      es: [
+        `Desde la UE: pasaporte europeo de mascota, microchip ISO y vacunación antirrábica vigente son suficientes, Italia está en el espacio Schengen.`,
+        `Aeropuerto Cagliari Elmas (CAG) a 8 km del centro, tren ARST 7 min, perros en cabina en transportín IATA (menos de 8-10 kg según aerolínea) o en bodega en jaula IATA.`,
+        `Ferries Tirrenia y Grimaldi desde Civitavecchia (13h), Nápoles (16h) y Palermo: camarotes pet-friendly a reservar con 2 meses en julio-agosto, suplemento 25-40 € por perro.`,
+        `Buses CTM urbanos: perros pequeños en transportín gratis, perros grandes con bozal y correa admitidos sin billete separado, a discreción del conductor en horas punta.`,
+        `Mejor temporada: abril-junio y mediados de septiembre a principios de noviembre (18-26°C, mar bañable, veda estival del Poetto no vigente). Evita julio-agosto (35°C+ y siroco).`,
+      ],
+      pt: [
+        `A partir da UE: passaporte europeu de animal, microchip ISO e vacinação antirrábica em dia são suficientes, a Itália está no espaço Schengen.`,
+        `Aeroporto Cagliari Elmas (CAG) a 8 km do centro, comboio ARST 7 min, cães em cabina em transportadora IATA (menos de 8-10 kg conforme companhia) ou em porão em caixa IATA.`,
+        `Ferries Tirrenia e Grimaldi de Civitavecchia (13h), Nápoles (16h) e Palermo: camarotes pet-friendly a reservar com 2 meses em julho-agosto, suplemento 25-40 € por cão.`,
+        `Autocarros CTM urbanos: cães pequenos em transportadora grátis, cães grandes com açaime e trela admitidos sem bilhete separado, à discrição do motorista nas horas de ponta.`,
+        `Melhor época: abril-junho e meados de setembro a início de novembro (18-26°C, mar banhável, veda estival do Poetto não em vigor). Evite julho-agosto (35°C+ e siroco).`,
+      ],
+    },
+  },
+
   cambridge: {
     history: {
       fr: `Cambridge, fondée vers le IXe siècle au gué (cam-bridge) sur la rivière Cam, doit sa célébrité mondiale à son université, fondée en 1209 par des clercs ayant fui Oxford. Au fil des siècles, 31 colleges se sont édifiés sur les Backs, les pelouses riveraines qui forment la vue signature de la ville, entre King's College Chapel (achevée en 1547, gothique perpendiculaire), Trinity College (où enseigna Newton) et St John's. Plus que sa rivale Oxford, Cambridge a conservé un cœur médiéval compact entouré de communaux ouverts (Jesus Green, Midsummer Common, Coe Fen, Sheep's Green) où le bétail pâture encore l'été. Pour les voyageurs avec un chien, c'est l'un des city-breaks britanniques les plus accessibles : centre marchable en 25 min, vastes prés sans laisse à 5 min des colleges, pubs et terrasses tolérants par défaut, et trains Greater Anglia directs depuis London King's Cross en 50 min.`,

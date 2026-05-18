@@ -78,6 +78,7 @@ const TARGETS = [
   { slug: 'cork', query: 'Cork Ireland Saint Fin Barre Cathedral River Lee Georgian skyline panorama sunset' },
   { slug: 'york', query: 'York England city walls York Minster Shambles medieval cobbled street panorama sunset' },
   { slug: 'cambridge', query: 'Cambridge England Kings College Chapel Backs River Cam punting bridge panorama sunset' },
+  { slug: 'cagliari', query: 'Cagliari Sardinia Italy Castello hilltop bastione Mediterranean panorama' },
   { slug: 'brno', query: 'Brno Czech Republic Spilberk Castle namesti Svobody Petrov Cathedral old town panorama sunset' },
   { slug: 'leipzig', query: 'Leipzig Germany Markt square Augustusplatz Volkerschlachtdenkmal panorama sunset' },
   { slug: 'maastricht', query: 'Maastricht Netherlands Vrijthof square Sint Servaasbasiliek Maas river panorama sunset' },

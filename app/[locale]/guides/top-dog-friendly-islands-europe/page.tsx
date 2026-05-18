@@ -53,7 +53,7 @@ const TOP_25: IslandEntry[] = [
     es: `La isla más grande del Mediterráneo. Bau Beach Mondello (cerca de Palermo) es una de las playas caninas italianas más establecidas, el Etna ofrece paseos en altitud en verano, y los agriturismi sicilianos son ampliamente tolerantes con perros.`,
     pt: `A maior ilha do Mediterrâneo. Bau Beach Mondello (perto de Palermo) é uma das praias caninas italianas mais estabelecidas, o Etna oferece passeios em altitude no verão, e os agriturismi sicilianos são largamente tolerantes com cães.`,
   }},
-  { slug: null, rank: 5, photoSlug: 'sardinia', islandName: 'Sardinia', country: 'Italy', flag: '🇮🇹', reason: {
+  { slug: 'cagliari', rank: 5, photoSlug: 'sardinia', islandName: 'Sardinia', country: 'Italy', flag: '🇮🇹', reason: {
     en: `Beach-heavy and lower-density than Sicily, with pet-friendly agriturismi inland and a coastline dotted with cove beaches where dogs are tolerated off-season.`,
     fr: `Plage à perte de vue et densité humaine moitié moindre qu'en Sicile. Les agriturismi de l'intérieur acceptent presque tous les chiens, et le littoral est parsemé de criques où ils sont tolérés en avril-mai et septembre-octobre.`,
     es: `Muy enfocada a playas y menos poblada que Sicilia, con agriturismi pet-friendly en el interior y un litoral salpicado de calas donde se toleran perros fuera de temporada.`,

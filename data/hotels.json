@@ -4500,6 +4500,130 @@
     "petPolicyPt": "Aria Hotel Budapest por Library Hotel Collection warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €35 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "cagliari-1",
+    "name": "Hotel Regina Margherita",
+    "destinationSlug": "cagliari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 2800,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/regina-margherita.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed on request. Charges may apply. Set on Viale Regina Margherita between the Marina and Bonaria, 8 min walk from the Bastione Saint Remy and 10 min from the port.",
+    "highlights": [
+      "Central location between Marina and Bonaria, 8 min from the Bastione",
+      "Pets welcome at no fee on request",
+      "Parking garage on-site for ferry arrivals with car + dog"
+    ],
+    "slug": "hotel-regina-margherita-cagliari"
+  },
+  {
+    "id": "cagliari-2",
+    "name": "T Hotel",
+    "destinationSlug": "cagliari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 3500,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/thotel.html",
+    "petFee": 20,
+    "petPolicy": "Pets are allowed on request. Charges may apply (around €20 per night). Design hotel on Via dei Giudicati next to the Parco di San Bartolomeo and a 12-minute walk to the centre, ideal for dog owners wanting parks at the doorstep.",
+    "highlights": [
+      "Design 4-star hotel adjacent to a fenced municipal area cani",
+      "Pet-friendly rooms on request",
+      "Free underground parking, easy access for dog owners arriving by car"
+    ],
+    "slug": "t-hotel-cagliari"
+  },
+  {
+    "id": "cagliari-3",
+    "name": "Hotel Miramare",
+    "destinationSlug": "cagliari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1600,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/miramare-cagliari.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed free of charge. Boutique hotel inside an Art Nouveau building on Via Roma, 2 min walk to the ferry terminal and the Marina trattorie, ideal for ferry arrivals with a dog.",
+    "highlights": [
+      "Pets stay free on Via Roma facing the port",
+      "2-minute walk to ferry terminal for arrivals from Civitavecchia",
+      "Marina pet-friendly terraces start at the front door"
+    ],
+    "slug": "hotel-miramare-cagliari"
+  },
+  {
+    "id": "cagliari-4",
+    "name": "Hotel Calamosca",
+    "destinationSlug": "cagliari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/calamosca.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed on request, around €10 per night. The hotel sits 50 metres from the Spiaggia di Calamosca dog-walkable cove and at the foot of the Sella del Diavolo trail, the most beach-accessible pet-friendly option in Cagliari.",
+    "highlights": [
+      "50 m from Spiaggia di Calamosca dog-walkable cove",
+      "Foot of the Sella del Diavolo coastal trail",
+      "Free parking, CTM bus 11 to the city centre in 15 min"
+    ],
+    "slug": "hotel-calamosca-cagliari"
+  },
+  {
+    "id": "cagliari-5",
+    "name": "Hostel Marina",
+    "destinationSlug": "cagliari",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 2,
+    "rating": 8.5,
+    "reviewCount": 4200,
+    "priceFrom": 55,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hostel-marina-cagliari.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed free of charge. Centrally located inside a former 19th-century convent on Scalette Santo Sepolcro, in the heart of the Marina quarter, 5 min from the port and most pet-friendly trattorie.",
+    "highlights": [
+      "Pets stay free in a heritage 19th-century building",
+      "Heart of the Marina, 5 min from port and pet-friendly trattorie",
+      "Budget rates with private en-suite rooms available"
+    ],
+    "slug": "hostel-marina-cagliari"
+  },
+  {
     "id": "cambridge-1",
     "name": "University Arms Cambridge",
     "destinationSlug": "cambridge",

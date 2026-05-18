@@ -250,6 +250,128 @@
     "petPolicyPt": "Cães e gatos de any size bem-vindos em sem taxa extra. Each guestroom can host one animal. Avise em reserva e trazer um vacinação record."
   },
   {
+    "id": "ajaccio-1",
+    "name": "Sofitel Golfe d'Ajaccio Thalassa Sea & Spa",
+    "destinationSlug": "ajaccio",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 1900,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/sofitel-thalassa-coti-chiavari.html",
+    "petFee": 30,
+    "petPolicy": "Pets allowed on request, €30 per night supplement. Set at Porticcio across the Gulf of Ajaccio, with private pebble beach access, sea-view rooms, full thalassotherapy spa and direct access to the Acqua Cinta maquis coastal trail for dog walking.",
+    "highlights": [
+      "Private pebble beach across the Gulf of Ajaccio with direct dog access off-season",
+      "Sea-view rooms and balcony terraces overlooking the Sanguinaires",
+      "Acqua Cinta maquis coastal trail starts at the hotel gate"
+    ],
+    "slug": "sofitel-golfe-ajaccio-thalassa"
+  },
+  {
+    "id": "ajaccio-2",
+    "name": "Hôtel Demeure Les Mouettes",
+    "destinationSlug": "ajaccio",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1100,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-mouettes.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed on request, €20 per night supplement. Boutique 19th-century villa on the waterfront Cours Lucien Bonaparte, 10 minute walk from the marina and old town, with private seafront garden where dogs can decompress between visits.",
+    "highlights": [
+      "Boutique seafront villa with private garden 10 min walk from Vieille Ville",
+      "Sea-view rooms with terraces facing the Gulf of Ajaccio",
+      "On the year-round Sanguinaires-side walking route, easy pet exit"
+    ],
+    "slug": "hotel-demeure-les-mouettes-ajaccio"
+  },
+  {
+    "id": "ajaccio-3",
+    "name": "Hôtel Napoléon",
+    "destinationSlug": "ajaccio",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1700,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/napoleon-ajaccio.html",
+    "petFee": 12,
+    "petPolicy": "Pets allowed on request, €12 per night supplement. Family-run mid-range hotel on Rue Lorenzo Vero, two blocks from the Cours Napoléon, 5 minute walk to the marina and Place Foch market, well-positioned for foot exploration with a dog.",
+    "highlights": [
+      "Central old-town location 5 min walk from the marina and Place Foch market",
+      "Family-run with relaxed pet policy and water bowls in the lobby",
+      "Two blocks from the Cours Napoléon plane-tree canopy for shaded walks"
+    ],
+    "slug": "hotel-napoleon-ajaccio"
+  },
+  {
+    "id": "ajaccio-4",
+    "name": "Best Western Plus Ajaccio Amirauté",
+    "destinationSlug": "ajaccio",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.0,
+    "reviewCount": 2400,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-amiraute.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed on request, €15 per night supplement. Modern 4-star on Plage du Ricanto, with direct beach access off-season (1 Oct–31 May), large secure car park for ferry arrivals with a dog, and pet beds available on request.",
+    "highlights": [
+      "Direct off-season access to Plage du Ricanto for dog swims",
+      "Large secure on-site car park, ideal for ferry arrivals with a vehicle and dog",
+      "Pet beds and bowls available free on request at reception"
+    ],
+    "slug": "best-western-plus-ajaccio-amiraute"
+  },
+  {
+    "id": "ajaccio-5",
+    "name": "Kallisté Hôtel",
+    "destinationSlug": "ajaccio",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.6,
+    "reviewCount": 2900,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/kalliste-ajaccio.html",
+    "petFee": 8,
+    "petPolicy": "Pets allowed on request, €8 per night supplement. Best-value pet-friendly option in central Ajaccio, on Cours Napoléon two blocks from the train station and marina, basic but spotless rooms, ideal for short stays with a dog before or after a Bastia–Ajaccio scenic train trip.",
+    "highlights": [
+      "Best budget-friendly pet option in central Ajaccio",
+      "Two blocks from CFC train station and 5 min from the marina",
+      "Cours Napoléon plane-tree canopy outside the door for shaded morning walks"
+    ],
+    "slug": "kalliste-hotel-ajaccio"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",

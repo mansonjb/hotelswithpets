@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Cours Mirabeau plane-tree canopy, Parc Jourdan, and the Bibémus and Bimont trails on the Sainte-Victoire',
       area: 'the historic centre, the Quartier Mazarin, and the Lauves hill around Cézanne\'s atelier',
     },
+    ajaccio: {
+      personality: `Corsica's sunlit capital and Napoléon's birthplace, a Genoese citadel on a sheltered Mediterranean gulf where year-round mild winters, ridge-top maquis trails, the Sanguinaires boat tours and wild Capo di Feno dog beach make it the island's most pet-friendly base`,
+      highlight: `the Sentier des Crêtes ridge walk, the Pointe de la Parata and Sanguinaires islands, and the year-round dog beach of Capo di Feno`,
+      area: `the Quartier des Étrangers around the Cours Grandval, the Vieille Ville around the Maison Bonaparte, and the marina-front Quai Napoléon`,
+    },
     amsterdam: {
       personality: 'one of Europe\'s most relaxed and pet-welcoming capitals',
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
@@ -729,6 +734,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la canopée de platanes du Cours Mirabeau, le Parc Jourdan, et les sentiers de Bibémus et Bimont sur la Sainte-Victoire',
       area: 'le centre historique, le Quartier Mazarin et la colline des Lauves autour de l\'atelier de Cézanne',
     },
+    ajaccio: {
+      personality: `la capitale ensoleillée de la Corse et lieu de naissance de Napoléon, citadelle génoise sur un golfe méditerranéen abrité où hivers doux à l'année, sentiers de crête dans le maquis, excursions bateau aux Sanguinaires et plage canine sauvage de Capo di Feno en font la base la plus pet-friendly de l'île`,
+      highlight: `le Sentier des Crêtes, la Pointe de la Parata et les îles Sanguinaires, et la plage canine toute l'année de Capo di Feno`,
+      area: `le Quartier des Étrangers autour du Cours Grandval, la Vieille Ville autour de la Maison Bonaparte, et le Quai Napoléon face au port`,
+    },
     amsterdam: {
       personality: 'l\'une des capitales les plus décontractées et accueillantes pour les animaux d\'Europe',
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
@@ -1426,6 +1436,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la bóveda de plátanos del Cours Mirabeau, el Parc Jourdan, y los senderos de Bibémus y Bimont en la Sainte-Victoire',
       area: 'el centro histórico, el Quartier Mazarin y la colina de Lauves alrededor del atelier de Cézanne',
     },
+    ajaccio: {
+      personality: `la capital soleada de Córcega y lugar de nacimiento de Napoleón, ciudadela genovesa sobre un golfo mediterráneo resguardado donde los inviernos suaves todo el año, los senderos de cresta por el maquis, las excursiones en barco a las Sanguinaires y la playa canina salvaje de Capo di Feno la convierten en la base más pet-friendly de la isla`,
+      highlight: `el Sentier des Crêtes, la Pointe de la Parata y las islas Sanguinaires, y la playa canina todo el año de Capo di Feno`,
+      area: `el Quartier des Étrangers en torno al Cours Grandval, la Vieille Ville en torno a la Maison Bonaparte, y el Quai Napoléon frente al puerto`,
+    },
     amsterdam: {
       personality: 'una de las capitales más relajadas y acogedoras con mascotas de Europa',
       highlight: 'el Vondelpark y las orillas sin correa del río Amstel',
@@ -2122,6 +2137,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade universitaria provenzal do século XVII onde as esplanadas sombreadas, as praças com fuentes e o macizo da Sainte-Victoire a convierten numa das cidades mais auténticamente tolerantes com os cães do sul de Francia',
       highlight: 'a bóveda de plátanos do Cours Mirabeau, o Parc Jourdan, e os trilhos de Bibémus e Bimont na Sainte-Victoire',
       area: 'o centro histórico, o Quartier Mazarin e a colina de Lauves alrededor do atelier de Cézanne',
+    },
+    ajaccio: {
+      personality: `a capital ensolarada da Córsega e lugar de nascimento de Napoleão, cidadela genovesa sobre um golfo mediterrâneo resguardado onde os invernos suaves o ano inteiro, os trilhos de cresta pelo maquis, as excursões de barco às Sanguinaires e a praia canina selvagem de Capo di Feno fazem dela a base mais pet-friendly da ilha`,
+      highlight: `o Sentier des Crêtes, a Pointe de la Parata e as ilhas Sanguinaires, e a praia canina o ano inteiro de Capo di Feno`,
+      area: `o Quartier des Étrangers em torno do Cours Grandval, a Vieille Ville em torno da Maison Bonaparte, e o Quai Napoléon frente ao porto`,
     },
     amsterdam: {
       personality: 'uma das capitales mais relajadas e acogedoras com animais de Europa',

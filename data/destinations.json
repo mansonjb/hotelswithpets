@@ -148,6 +148,32 @@
     }
   },
   {
+    "slug": "ajaccio",
+    "name": "Ajaccio",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ajaccio.jpg",
+    "intro": "Corsica's sunlit capital and Napoléon's birthplace, a Genoese citadel on a sheltered gulf where year-round mild winters, Sentier des Crêtes ridge walks, the Sanguinaires boat tours and wild Capo di Feno dog beach make it Corsica's most pet-friendly base.",
+    "lat": 41.9192,
+    "lng": 8.7386,
+    "weather": {
+      "jan": {"temp": 11, "desc": "Mild, sunny spells", "icon": "🌤️"},
+      "feb": {"temp": 11, "desc": "Mild, breezy", "icon": "🌤️"},
+      "mar": {"temp": 13, "desc": "Mild spring", "icon": "🌤️"},
+      "apr": {"temp": 15, "desc": "Warm, sunny", "icon": "☀️"},
+      "may": {"temp": 18, "desc": "Warm, dry", "icon": "☀️"},
+      "jun": {"temp": 22, "desc": "Hot, very sunny", "icon": "☀️"},
+      "jul": {"temp": 25, "desc": "Hot, dry", "icon": "☀️"},
+      "aug": {"temp": 26, "desc": "Very hot, dry", "icon": "☀️"},
+      "sep": {"temp": 23, "desc": "Warm, golden", "icon": "☀️"},
+      "oct": {"temp": 19, "desc": "Mild, sunny", "icon": "🌤️"},
+      "nov": {"temp": 15, "desc": "Mild, some rain", "icon": "🌦️"},
+      "dec": {"temp": 12, "desc": "Mild winter", "icon": "🌤️"}
+    }
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",

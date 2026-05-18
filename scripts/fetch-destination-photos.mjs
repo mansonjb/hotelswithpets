@@ -24,6 +24,7 @@ async function loadApiKey() {
 
 // Slug → query targeting a photogenic, pet-relevant landmark
 const TARGETS = [
+  { slug: 'ajaccio',       query: 'Ajaccio Corsica France marina old town Citadel Mediterranean panorama' },
   { slug: 'marseille',     query: 'Vieux Port Marseille waterfront' },
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },
   { slug: 'bologna',       query: 'Piazza Maggiore Bologna' },

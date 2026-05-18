@@ -71,7 +71,7 @@ const TOP_25: IslandEntry[] = [
     es: `La balear más tranquila, con una playa canina designada cerca de Son Bou y el Camí de Cavalls que ofrece 185 km de paseo canino fuera de temporada con vistas al mar en todo el recorrido.`,
     pt: `A balear mais tranquila, com uma praia canina designada perto de Son Bou e o Camí de Cavalls que oferece 185 km de passeio canino fora de época com vista para o mar em todo o percurso.`,
   }},
-  { slug: null, rank: 8, photoSlug: 'corsica', islandName: 'Corsica', country: 'France', flag: '🇫🇷', reason: {
+  { slug: 'ajaccio', rank: 8, photoSlug: 'corsica', islandName: 'Corsica', country: 'France', flag: '🇫🇷', reason: {
     en: `Mountains meet beach. Calvi and Bonifacio both have pet-friendly old towns, the GR20 (in its lower sections) accepts dogs, and Corsica Ferries officially welcomes dogs in cabins.`,
     fr: `La montagne plonge dans la mer. Calvi et Bonifacio ont chacune leur vieille ville pet-friendly, le GR20 accepte les chiens sur ses tronçons les plus bas, et Corsica Ferries propose officiellement des cabines acceptant les chiens depuis le continent.`,
     es: `La montaña se encuentra con la playa. Calvi y Bonifacio tienen ambos cascos viejos pet-friendly, el GR20 (en sus tramos bajos) admite perros, y Corsica Ferries acepta oficialmente perros en camarote.`,

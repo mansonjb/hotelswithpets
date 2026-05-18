@@ -264,6 +264,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ajaccio: {
+    history: {
+      fr: `Ajaccio, capitale de la Corse-du-Sud et lieu de naissance de Napoléon Bonaparte (1769), est une ville méditerranéenne ensoleillée de 72 000 habitants au fond d'un golfe abrité face aux îles Sanguinaires. Fondée en 1492 par la République de Gênes sur un promontoire défensif, la ville garde sa Citadelle Miollis génoise du XVIe siècle, ses ruelles pavées de granit dans la Vieille Ville autour de la Maison Bonaparte, et le Palais Fesch — l'une des plus belles collections de peinture italienne de France hors Paris, fruit du legs du cardinal Fesch, oncle de Napoléon. Pour les propriétaires de chiens, Ajaccio est la base la plus pet-friendly de Corse : climat méditerranéen avec hivers très doux (11–12°C en janvier), Sentier des Crêtes de 7 km sur les hauteurs avec panoramas mer à 360°, Pointe de la Parata et îles Sanguinaires à l'ouest accessibles en bateau (chiens en laisse sur ponts ouverts), plage canine sauvage à Capo di Feno toute l'année, et culture corse profondément accueillante aux animaux dans les trattorie de la Vieille Ville et les paillotes du front de mer. La logistique ferry (Marseille/Nice/Toulon/Livourne/Savone/Piombino) et vol (Air Corsica/Air France) est bien rodée mais demande une réservation animal anticipée 6–8 semaines à l'avance pour juillet-août.`,
+      en: `Ajaccio, capital of Southern Corsica and birthplace of Napoléon Bonaparte (1769), is a sun-drenched Mediterranean city of 72,000 at the head of a sheltered gulf facing the Sanguinaires islands. Founded in 1492 by the Republic of Genoa on a defensive promontory, the city preserves its 16th-century Genoese Citadelle Miollis, the granite-paved alleys of the Vieille Ville around the Maison Bonaparte, and the Palais Fesch — one of France's finest Italian painting collections outside Paris, the legacy of Cardinal Fesch, Napoléon's uncle. For dog owners, Ajaccio is the most pet-friendly base on Corsica: Mediterranean climate with very mild winters (11–12°C in January), the 7 km Sentier des Crêtes ridge walk on the heights with 360° sea panoramas, Pointe de la Parata and Sanguinaires islands to the west accessible by boat (leashed dogs on open decks), wild year-round dog beach at Capo di Feno, and a Corsican culture deeply welcoming to pets in the Vieille Ville trattorie and seafront beach bars. Ferry logistics (Marseille/Nice/Toulon/Livorno/Savona/Piombino) and flights (Air Corsica/Air France) are well-established but require pet booking 6–8 weeks ahead for July–August dates.`,
+      es: `Ajaccio, capital de Córcega del Sur y lugar de nacimiento de Napoleón Bonaparte (1769), es una ciudad mediterránea soleada de 72.000 habitantes al fondo de un golfo resguardado frente a las islas Sanguinaires. Fundada en 1492 por la República de Génova sobre un promontorio defensivo, la ciudad conserva su Citadelle Miollis genovesa del siglo XVI, los callejones empedrados de granito de la Vieille Ville en torno a la Maison Bonaparte, y el Palais Fesch — una de las mejores colecciones francesas de pintura italiana fuera de París, legado del cardenal Fesch, tío de Napoleón. Para los dueños de perros, Ajaccio es la base más pet-friendly de Córcega: clima mediterráneo con inviernos muy suaves (11–12°C en enero), Sentier des Crêtes de 7 km en las alturas con panorámicas de mar a 360°, Pointe de la Parata e islas Sanguinaires al oeste accesibles en barco (perros con correa en cubiertas abiertas), playa canina salvaje en Capo di Feno todo el año, y cultura corsa profundamente acogedora con los animales en las trattorias de la Vieille Ville y los chiringuitos del frente marítimo. La logística ferry (Marsella/Niza/Tolón/Livorno/Savona/Piombino) y vuelo (Air Corsica/Air France) está bien establecida pero requiere reserva de mascota con 6–8 semanas de antelación para fechas de julio-agosto.`,
+      pt: `Ajaccio, capital da Córsega do Sul e local de nascimento de Napoleão Bonaparte (1769), é uma cidade mediterrânea ensolarada de 72.000 habitantes no fundo de um golfo resguardado em frente às ilhas Sanguinaires. Fundada em 1492 pela República de Génova sobre um promontório defensivo, a cidade conserva a sua Citadelle Miollis genovesa do século XVI, as ruelas empedradas de granito da Vieille Ville em torno da Maison Bonaparte, e o Palais Fesch — uma das melhores coleções francesas de pintura italiana fora de Paris, legado do cardeal Fesch, tio de Napoleão. Para os donos de cães, Ajaccio é a base mais pet-friendly da Córsega: clima mediterrâneo com invernos muito suaves (11–12°C em janeiro), Sentier des Crêtes de 7 km nas alturas com panorâmicas de mar a 360°, Pointe de la Parata e ilhas Sanguinaires a oeste acessíveis de barco (cães com trela em conveses abertos), praia canina selvagem em Capo di Feno o ano inteiro, e cultura corsa profundamente acolhedora com os animais nas trattorie da Vieille Ville e nas paillotes do passeio marítimo. A logística de ferry (Marselha/Nice/Toulon/Livorno/Savona/Piombino) e voo (Air Corsica/Air France) está bem estabelecida mas exige reserva de animal com 6–8 semanas de antecedência para datas de julho-agosto.`,
+    },
+    sights: [
+      { name: 'Sentier des Crêtes', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Sentier de crête de 7 km au-dessus d'Ajaccio, panoramas à 360° sur le Golfe et les Sanguinaires. Hors laisse autorisé sur la crête, ombre partielle pins et chênes verts, deux sources naturelles.`,
+        en: `7 km ridge trail above Ajaccio, 360° panoramas over the Gulf and the Sanguinaires. Off-leash permitted on the ridge, partial pine and holm oak shade, two natural springs.`,
+        es: `Sendero de cresta de 7 km sobre Ajaccio, panorámicas a 360° sobre el Golfo y las Sanguinaires. Sin correa permitido en la cresta, sombra parcial de pinos y encinas, dos manantiales naturales.`,
+        pt: `Trilho de cresta de 7 km acima de Ajaccio, panorâmicas a 360° sobre o Golfo e as Sanguinaires. Sem trela permitido na cresta, sombra parcial de pinheiros e azinheiras, duas nascentes naturais.`,
+      }},
+      { name: 'Pointe de la Parata', emoji: '🌅', petFriendly: true, desc: {
+        fr: `Cap rocheux à l'extrémité ouest, tour génoise du XVIe siècle, sentier des Sanguinaires en boucle. Chiens en laisse, magique au coucher du soleil quand les îles Sanguinaires deviennent rouges.`,
+        en: `Rocky headland at the western tip, 16th-century Genoese tower, looped Sanguinaires trail. Leashed dogs, magical at sunset when the Sanguinaires islands turn red.`,
+        es: `Cabo rocoso en el extremo oeste, torre genovesa del siglo XVI, circuito de las Sanguinaires. Perros con correa, mágico al atardecer cuando las Sanguinaires se vuelven rojas.`,
+        pt: `Cabo rochoso no extremo oeste, torre genovesa do século XVI, circuito das Sanguinaires. Cães com trela, mágico ao pôr do sol quando as Sanguinaires ficam vermelhas.`,
+      }},
+      { name: 'Maison Bonaparte (extérieur)', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Maison natale de Napoléon, hôtel particulier du XVIIe siècle au cœur de la Vieille Ville. Intérieur musée non accessible aux chiens, mais façade et Place Letizia devant pet-friendly à l'année.`,
+        en: `Napoléon's birthplace, 17th-century townhouse in the heart of the Vieille Ville. Museum interior not dog-accessible, but the facade and Place Letizia in front are dog-friendly year-round.`,
+        es: `Casa natal de Napoleón, palacete del siglo XVII en el corazón de la Vieille Ville. Interior del museo no accesible para perros, pero la fachada y la Place Letizia frente al mismo son pet-friendly todo el año.`,
+        pt: `Casa natal de Napoleão, palácio urbano do século XVII no coração da Vieille Ville. Interior do museu não acessível para cães, mas a fachada e a Place Letizia em frente são pet-friendly o ano inteiro.`,
+      }},
+      { name: 'Plage de Capo di Feno', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Croissant sauvage de sable blanc à 15 min en voiture à l'ouest, face à la mer ouverte. Chiens autorisés à l'année sans restriction, longueur 800 m, pas de surveillance estivale.`,
+        en: `Wild crescent of white sand 15 min west by car, facing the open sea. Dogs permitted year-round without restriction, 800 m length, no summer lifeguarding.`,
+        es: `Media luna salvaje de arena blanca a 15 min en coche al oeste, frente al mar abierto. Perros permitidos todo el año sin restricción, 800 m de longitud, sin vigilancia estival.`,
+        pt: `Meia-lua selvagem de areia branca a 15 min de carro a oeste, em frente ao mar aberto. Cães permitidos o ano inteiro sem restrição, 800 m de comprimento, sem vigilância estival.`,
+      }},
+      { name: 'Citadelle Miollis & remparts', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Citadelle génoise du XVIe siècle gardant le port, démilitarisée en 2019. Tour des remparts en accès libre, chiens en laisse à l'année, le plus beau spot panoramique du centre.`,
+        en: `16th-century Genoese citadel guarding the port, demilitarised in 2019. Free-access ramparts walk, leashed dogs year-round, the most scenic panoramic spot in the centre.`,
+        es: `Ciudadela genovesa del siglo XVI que guarda el puerto, desmilitarizada en 2019. Recorrido libre por las murallas, perros con correa todo el año, el punto panorámico más bello del centro.`,
+        pt: `Cidadela genovesa do século XVI que guarda o porto, desmilitarizada em 2019. Percurso livre pelas muralhas, cães com trela o ano inteiro, o ponto panorâmico mais bonito do centro.`,
+      }},
+      { name: 'Jardin des Milelli', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Domaine oléicole de la famille Bonaparte à 4 km au nord, ouvert en parc public gratuit. Oliviers séculaires, tables de pique-nique, le seul espace vert urbain vraiment ombragé en été.`,
+        en: `Bonaparte family olive grove 4 km north, opened as a free public park. Centuries-old olive trees, picnic tables, the only truly shaded urban green space in summer.`,
+        es: `Finca de olivos de la familia Bonaparte a 4 km al norte, abierta como parque público gratuito. Olivos centenarios, mesas de picnic, el único espacio verde urbano realmente sombreado en verano.`,
+        pt: `Olival da família Bonaparte a 4 km a norte, aberto como parque público gratuito. Oliveiras centenárias, mesas de piquenique, o único espaço verde urbano verdadeiramente sombreado no verão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Tiques + leishmaniose : la Corse cumule très forte densité de tiques et plus haute prévalence française de leishmaniose canine — appliquez Bravecto/Frontline ET Advantix (spot-on anti-phlébotomes) une semaine avant l'arrivée.`,
+        `Interdiction estivale plages : chiens interdits sur Plage du Ricanto centrale, Trottel et Saint-François du 1er juin au 30 septembre, amende municipale 38 €. Exceptions à l'année : Capo di Feno (ouest) et extrémité est du Ricanto après l'aéroport.`,
+        `Bus TCA (1,60 €) : chiens <6 kg en caisse gratuits, plus grands muselés en laisse courte à la discrétion du conducteur. Pas de tramway/métro à Ajaccio.`,
+        `Pas de vétérinaire 24h/24 dédié à Ajaccio : tour de garde téléphonique partagé entre cliniques. Numéros à enregistrer avant l'arrivée : Clinique des Salines (+33 4 95 22 39 51) et ligne nationale SOS Vétérinaires (+33 9 70 72 73 73).`,
+        `Granit corse à midi : les dalles atteignent 50°C l'après-midi en été et brûlent les coussinets en moins d'une minute. Promenez avant 9h et après 19h de mi-juin à mi-septembre.`,
+      ],
+      en: [
+        `Ticks + leishmaniasis: Corsica has both very high tick density and the highest French rate of canine leishmaniasis — apply Bravecto/Frontline AND Advantix (sandfly-repellent spot-on) one week before arrival.`,
+        `Summer beach ban: dogs banned on central Plage du Ricanto, Trottel and Saint-François from 1 June to 30 September, €38 municipal fine. Year-round exceptions: Capo di Feno (west) and the eastern end of Ricanto past the airport.`,
+        `TCA bus (€1.60): dogs <6 kg in carriers free, larger dogs muzzled on a short leash at the driver's discretion. No tram or metro in Ajaccio.`,
+        `No dedicated 24/7 emergency vet in Ajaccio: phone-routed on-call rotation shared between clinics. Numbers to save before arrival: Clinique des Salines (+33 4 95 22 39 51) and SOS Vétérinaires national line (+33 9 70 72 73 73).`,
+        `Corsican granite at midday: paving stones hit 50°C in summer afternoons and burn paws in under a minute. Walk before 09:00 and after 19:00 from mid-June to mid-September.`,
+      ],
+      es: [
+        `Garrapatas + leishmaniasis: Córcega tiene a la vez densidad de garrapatas muy alta y la mayor prevalencia francesa de leishmaniasis canina — aplica Bravecto/Frontline Y Advantix (pipeta antiflebotomos) una semana antes de llegar.`,
+        `Prohibición estival de playas: perros prohibidos en Plage du Ricanto central, Trottel y Saint-François del 1 de junio al 30 de septiembre, multa municipal de 38 €. Excepciones todo el año: Capo di Feno (oeste) y el extremo este del Ricanto pasada la pista del aeropuerto.`,
+        `Bus TCA (1,60 €): perros <6 kg en transportín gratis, más grandes con bozal y correa corta a discreción del conductor. No hay tranvía ni metro en Ajaccio.`,
+        `Sin veterinario de urgencias 24/7 dedicado en Ajaccio: guardia rotatoria por teléfono compartida entre clínicas. Números a guardar antes de llegar: Clinique des Salines (+33 4 95 22 39 51) y línea nacional SOS Vétérinaires (+33 9 70 72 73 73).`,
+        `Granito corso a mediodía: las losas alcanzan 50°C en las tardes de verano y queman las almohadillas en menos de un minuto. Pasea antes de las 09:00 y después de las 19:00 de mediados de junio a mediados de septiembre.`,
+      ],
+      pt: [
+        `Carraças + leishmaniose: a Córsega tem ao mesmo tempo densidade de carraças muito alta e a maior prevalência francesa de leishmaniose canina — aplique Bravecto/Frontline E Advantix (pipeta repelente de flebótomos) uma semana antes da chegada.`,
+        `Proibição estival de praias: cães proibidos na Plage du Ricanto central, Trottel e Saint-François de 1 de junho a 30 de setembro, multa municipal de 38 €. Exceções o ano inteiro: Capo di Feno (oeste) e a extremidade leste do Ricanto após a pista do aeroporto.`,
+        `Autocarro TCA (1,60 €): cães <6 kg em transportadora grátis, maiores com açaime e trela curta à discrição do condutor. Não há elétrico nem metro em Ajaccio.`,
+        `Sem veterinário de urgências 24/7 dedicado em Ajaccio: escala rotativa telefónica partilhada entre clínicas. Números a guardar antes da chegada: Clinique des Salines (+33 4 95 22 39 51) e linha nacional SOS Vétérinaires (+33 9 70 72 73 73).`,
+        `Granito corso ao meio-dia: as lajes atingem 50°C nas tardes de verão e queimam as almofadas em menos de um minuto. Passeie antes das 09:00 e depois das 19:00 de meados de junho a meados de setembro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport Napoléon-Bonaparte d'Ajaccio (AJA) à 7 km à l'est du centre, navette TCA ligne 8 toutes les 30 min (4,50 €, chiens en caisse gratuits) ; taxi 25–35 € sans supplément animal chez la plupart.`,
+        `Ferries Corsica Linea & Corsica Ferries depuis Marseille (12h nuit), Toulon (10h nuit), Nice (5h30 NGV jour) et Italie (Livourne 6h, Savone 10h, Piombino 8h). Supplément animal 20–45 €, cabine pet-friendly indispensable pour grands chiens en nuit.`,
+        `Chemins de Fer de la Corse (CFC) Ajaccio-Bastia : 4h de voyage panoramique à travers l'épine corse, petits chiens en caisse gratuits, grands muselés 5 €.`,
+        `Pas de tramway ni de métro à Ajaccio, locomotion urbaine principalement à pied (centre très compact, 1,2 km du port aux remparts).`,
+        `Le passeport européen pour animaux est exigé sur tous les ferries et vols pour la Corse, vaccin antirabique en cours de validité (≥21 jours après la primo-vaccination).`,
+      ],
+      en: [
+        `Ajaccio Napoléon-Bonaparte airport (AJA) 7 km east of the centre, TCA shuttle line 8 every 30 min (€4.50, dogs in carriers free); taxi €25–€35 with no pet supplement on most companies.`,
+        `Corsica Linea & Corsica Ferries from Marseille (12h overnight), Toulon (10h overnight), Nice (5h30 NGV daytime) and Italy (Livorno 6h, Savona 10h, Piombino 8h). Pet supplement €20–€45, pet-friendly cabin essential for large dogs on overnight crossings.`,
+        `Chemins de Fer de la Corse (CFC) Ajaccio-Bastia: 4h scenic journey across the Corsican spine, small carrier dogs free, larger muzzled dogs €5.`,
+        `No tram or metro in Ajaccio, urban movement mostly on foot (very compact centre, 1.2 km from port to ramparts).`,
+        `EU pet passport required on all ferries and flights to Corsica, with rabies vaccination in date (≥21 days after primary vaccination).`,
+      ],
+      es: [
+        `Aeropuerto Napoléon-Bonaparte de Ajaccio (AJA) a 7 km al este del centro, lanzadera TCA línea 8 cada 30 min (4,50 €, perros en transportín gratis); taxi 25–35 € sin suplemento por mascota en la mayoría de empresas.`,
+        `Corsica Linea & Corsica Ferries desde Marsella (12h nocturno), Tolón (10h nocturno), Niza (5h30 NGV diurno) e Italia (Livorno 6h, Savona 10h, Piombino 8h). Suplemento mascota 20–45 €, camarote pet-friendly indispensable para perros grandes en nocturno.`,
+        `Chemins de Fer de la Corse (CFC) Ajaccio-Bastia: 4h de viaje panorámico a través de la espina dorsal corsa, perros pequeños en transportín gratis, grandes con bozal 5 €.`,
+        `Sin tranvía ni metro en Ajaccio, movilidad urbana mayoritariamente a pie (centro muy compacto, 1,2 km del puerto a las murallas).`,
+        `Pasaporte europeo para animales exigido en todos los ferries y vuelos a Córcega, con vacuna antirrábica en vigor (≥21 días tras la vacunación inicial).`,
+      ],
+      pt: [
+        `Aeroporto Napoléon-Bonaparte de Ajaccio (AJA) a 7 km a leste do centro, lançadeira TCA linha 8 cada 30 min (4,50 €, cães em transportadora grátis); táxi 25–35 € sem suplemento para animal na maioria das empresas.`,
+        `Corsica Linea & Corsica Ferries de Marselha (12h noturno), Toulon (10h noturno), Nice (5h30 NGV diurno) e Itália (Livorno 6h, Savona 10h, Piombino 8h). Suplemento animal 20–45 €, camarote pet-friendly indispensável para cães grandes em noturno.`,
+        `Chemins de Fer de la Corse (CFC) Ajaccio-Bastia: 4h de viagem panorâmica através da espinha dorsal corsa, cães pequenos em transportadora grátis, grandes com açaime 5 €.`,
+        `Sem elétrico nem metro em Ajaccio, mobilidade urbana maioritariamente a pé (centro muito compacto, 1,2 km do porto às muralhas).`,
+        `Passaporte europeu para animais exigido em todos os ferries e voos para a Córsega, com vacina antirrábica em vigor (≥21 dias após a vacinação inicial).`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel, d'où son nom, Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture, et cela vaut aussi pour les chiens, bienvenus dans les cafés, les terrasses et même les transports em commun.`,

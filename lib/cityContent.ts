@@ -2343,6 +2343,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bonn: {
+    history: {
+      en: `Bonn sits on the left bank of the Rhine, a market town from the 1st-century Roman fort Castra Bonnensia, the seat of the Cologne Archbishop-Electors from the 13th century, the birthplace of Ludwig van Beethoven in 1770, and — perhaps most consequentially — the provisional capital of West Germany from 1949 to 1990. Reunification moved the federal apparatus to Berlin, but Bonn kept seventeen UN agencies, two ministries, and the post-war architecture of the Bundesviertel district. The result is a city of 330,000 with the cultural infrastructure of a capital and the human scale of a university town. Dogs have long been part of the picture: Beethoven himself was a dog owner, the Rheinaue Bundesgartenschau park (1979) was laid out with off-leash meadows, and the city's mix of green space, walkable historic centre and easy ferry access to the Siebengebirge make it one of the more relaxed cities in Germany for an unhurried weekend with a four-legged companion.`,
+      fr: `Bonn s'étend sur la rive gauche du Rhin, ville de marché née du fort romain Castra Bonnensia au Iᵉʳ siècle, siège des archevêques-électeurs de Cologne à partir du XIIIᵉ siècle, ville natale de Ludwig van Beethoven em 1770 et — peut-être le plus marquant — capitale provisoire de l'Allemagne de l'Ouest de 1949 à 1990. La réunification a déplacé l'appareil fédéral à Berlin, mais Bonn a conservé dix-sept agences de l'ONU, deux ministères, et l'architecture d'après-guerre du quartier du Bundesviertel. Le résultat est une ville de 330 000 habitants avec l'infrastructure culturelle d'une capitale et l'échelle humaine d'une ville universitaire. Les chiens y ont leur place de longue date : Beethoven lui-même en possédait, le parc de la Bundesgartenschau de la Rheinaue (1979) a été conçu avec des prairies sans laisse, et le mélange d'espaces verts, de centre historique piéton et d'accès en bac vers le Siebengebirge font de Bonn l'une des villes allemandes les plus détendues pour un week-end tranquille avec un compagnon à quatre pattes.`,
+      es: `Bonn se asienta en la margen izquierda del Rin, ciudad de mercado nacida del fuerte romano Castra Bonnensia en el siglo I, sede de los arzobispos-electores de Colonia desde el siglo XIII, ciudad natal de Ludwig van Beethoven en 1770 y — quizá lo más decisivo — capital provisional de la Alemania Occidental de 1949 a 1990. La reunificación trasladó el aparato federal a Berlín, pero Bonn conservó diecisiete agencias de la ONU, dos ministerios y la arquitectura de posguerra del barrio del Bundesviertel. El resultado es una ciudad de 330 000 habitantes con la infraestructura cultural de una capital y la escala humana de una ciudad universitaria. Los perros forman parte del paisaje desde hace mucho: el propio Beethoven tuvo perros, el parque de la Bundesgartenschau del Rheinaue (1979) se trazó con praderas sin correa, y la combinación de espacios verdes, centro histórico peatonal y acceso en ferry al Siebengebirge hacen de Bonn una de las ciudades alemanas más relajadas para un fin de semana pausado con un compañero de cuatro patas.`,
+      pt: `Bonn estende-se na margem esquerda do Reno, cidade de mercado nascida do forte romano Castra Bonnensia no século I, sede dos arcebispos-eleitores de Colónia desde o século XIII, cidade natal de Ludwig van Beethoven em 1770 e — talvez o mais decisivo — capital provisória da Alemanha Ocidental de 1949 a 1990. A reunificação transferiu o aparelho federal para Berlim, mas Bonn conservou dezassete agências da ONU, dois ministérios e a arquitetura do pós-guerra do bairro do Bundesviertel. O resultado é uma cidade de 330 000 habitantes com a infraestrutura cultural de uma capital e a escala humana de uma cidade universitária. Os cães fazem parte da paisagem há muito tempo: o próprio Beethoven teve cães, o parque da Bundesgartenschau do Rheinaue (1979) foi traçado com prados sem trela, e a combinação de espaços verdes, centro histórico pedonal e acesso em ferry ao Siebengebirge fazem de Bonn uma das cidades alemãs mais relaxadas para um fim de semana tranquilo com um companheiro de quatro patas.`,
+    },
+    sights: [
+      {
+        name: 'Rheinaue',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Bonn's flagship 160-hectare park, laid out for the 1979 Bundesgartenschau, with a 38-hectare lake, the Japanese Garden, and a dedicated off-leash dog meadow along Landgrabenweg. Most paths are leashed but the Hundewiese is signed and well-used; bag dispensers and bins are provided.`,
+          fr: `Le parc phare de Bonn, 160 hectares aménagés pour la Bundesgartenschau de 1979, avec un lac de 38 hectares, le Jardin japonais, et une prairie sans laisse dédiée le long du Landgrabenweg. La plupart des chemins sont en laisse mais la Hundewiese est balisée et très fréquentée ; distributeurs de sacs et poubelles fournis.`,
+          es: `El parque emblemático de Bonn, 160 hectáreas diseñadas para la Bundesgartenschau de 1979, con un lago de 38 hectáreas, el Jardín Japonés y una pradera sin correa señalizada a lo largo del Landgrabenweg. La mayoría de los senderos exigen correa pero la Hundewiese está señalizada y muy usada; dispensadores de bolsas y papeleras incluidos.`,
+          pt: `O parque emblemático de Bonn, 160 hectares projetados para a Bundesgartenschau de 1979, com um lago de 38 hectares, o Jardim Japonês e um prado sem trela sinalizado ao longo do Landgrabenweg. A maioria dos caminhos exige trela mas a Hundewiese está sinalizada e muito usada; dispensadores de sacos e baldes incluídos.`,
+        },
+      },
+      {
+        name: 'Bonner Münster',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `Bonn's 900-year-old Romanesque basilica on Münsterplatz, with a 92 m spire and a 12th-century cloister. The interior is closed to dogs except registered assistance dogs, but the square outside is one of the most photogenic spots in the city, ringed with dog-welcoming café terraces.`,
+          fr: `La basilique romane de Bonn vieille de 900 ans sur la Münsterplatz, avec sa flèche de 92 m et son cloître du XIIᵉ siècle. L'intérieur est fermé aux chiens, sauf chiens d'assistance enregistrés, mais le parvis extérieur est l'un des lieux les plus photogéniques de la ville, entouré de terrasses de café accueillant les chiens.`,
+          es: `La basílica románica de Bonn de 900 años en la Münsterplatz, con aguja de 92 m y claustro del siglo XII. El interior está cerrado a los perros, salvo perros de asistencia registrados, pero la plaza exterior es uno de los lugares más fotogénicos de la ciudad, rodeada de terrazas de café que admiten perros.`,
+          pt: `A basílica românica de Bonn de 900 anos na Münsterplatz, com torre de 92 m e claustro do século XII. O interior está fechado aos cães, salvo cães de assistência registados, mas a praça exterior é um dos lugares mais fotogénicos da cidade, rodeada de esplanadas de café que aceitam cães.`,
+        },
+      },
+      {
+        name: 'Kottenforst',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: `A 40 km² mixed forest on the western edge of the city, with a dense network of marked trails, the Waldau wildlife enclosure and the Haus der Natur visitor centre. Voice-control walking is allowed outside the 1 March–15 July nesting season, except near the wildlife enclosures where the leash is mandatory year-round.`,
+          fr: `Une forêt mixte de 40 km² à la lisière ouest de la ville, avec un dense réseau de sentiers balisés, l'enclos animalier de Waldau et le centre Haus der Natur. La marche sous contrôle vocal est autorisée hors période de nidification du 1ᵉʳ mars au 15 juillet, sauf près des enclos où la laisse est obligatoire toute l'année.`,
+          es: `Un bosque mixto de 40 km² en el límite oeste de la ciudad, con una densa red de senderos señalizados, el recinto faunístico de Waldau y el centro Haus der Natur. El paseo con control vocal está permitido fuera del periodo de nidificación del 1 mar al 15 jul, salvo cerca de los recintos donde la correa es obligatoria todo el año.`,
+          pt: `Uma floresta mista de 40 km² na orla oeste da cidade, com uma densa rede de trilhos sinalizados, o recinto faunístico de Waldau e o centro Haus der Natur. O passeio com controlo de voz é permitido fora do período de nidificação de 1 de março a 15 de julho, salvo perto dos recintos onde a trela é obrigatória todo o ano.`,
+        },
+      },
+      {
+        name: 'Alter Zoll',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          en: `A former bastion of the city wall converted into a leafy Rhine viewpoint, looking across the river to the Siebengebirge. Dogs are welcome on the lawn and the connecting promenade; the spot is a favourite for sunset walks and for a slow coffee after the Altstadt.`,
+          fr: `Un ancien bastion des remparts transformé en belvédère verdoyant au-dessus du Rhin, avec vue sur le Siebengebirge en face. Les chiens sont les bienvenus sur la pelouse et la promenade attenante ; l'endroit est apprécié pour les balades au coucher du soleil et pour un café lent après l'Altstadt.`,
+          es: `Un antiguo bastión de la muralla convertido en mirador verde sobre el Rin, con vistas al Siebengebirge enfrente. Los perros son bienvenidos en el césped y el paseo adyacente; el lugar es un favorito para paseos al atardecer y un café pausado tras la Altstadt.`,
+          pt: `Um antigo bastião da muralha convertido em miradouro verde sobre o Reno, com vista para o Siebengebirge em frente. Os cães são bem-vindos no relvado e no passeio adjacente; o local é um favorito para passeios ao pôr do sol e um café pausado após a Altstadt.`,
+        },
+      },
+      {
+        name: 'Drachenfels',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          en: `The most famous peak of the Siebengebirge nature park, accessible from Königswinter via the Bastei ferry. A ruined hilltop castle, panoramic views over Bonn and the Rhine, and Schloss Drachenburg on the slope. The rack railway (Drachenfelsbahn) accepts leashed dogs; the trail is also dog-friendly and well-marked.`,
+          fr: `Le sommet le plus célèbre du parc naturel du Siebengebirge, accessible depuis Königswinter par le bac Bastei. Château en ruine au sommet, vues panoramiques sur Bonn et le Rhin, et le Schloss Drachenburg sur le flanc. Le funiculaire à crémaillère (Drachenfelsbahn) accepte les chiens en laisse ; le sentier est aussi dog-friendly et bien balisé.`,
+          es: `El pico más famoso del parque natural del Siebengebirge, accesible desde Königswinter por el ferry Bastei. Castillo en ruinas en la cima, vistas panorámicas sobre Bonn y el Rin, y Schloss Drachenburg en la ladera. El ferrocarril de cremallera (Drachenfelsbahn) admite perros con correa; el sendero también es dog-friendly y bien señalizado.`,
+          pt: `O pico mais famoso do parque natural do Siebengebirge, acessível a partir de Königswinter pelo ferry Bastei. Castelo em ruínas no topo, vistas panorâmicas sobre Bonn e o Reno, e o Schloss Drachenburg na encosta. O comboio de cremalheira (Drachenfelsbahn) aceita cães com trela; o trilho também é pet-friendly e bem sinalizado.`,
+        },
+      },
+      {
+        name: 'Rheinufer Promenade',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `A 6 km Rhine-side promenade from the Kennedybrücke south to Bad Godesberg, lined with mature plane trees and benches. Leash mandatory the entire length, but the path is broad enough to share comfortably with cyclists and joggers. Free Bastei ferry crossings let you swap to the quieter Beuel bank mid-walk.`,
+          fr: `Une promenade de 6 km au bord du Rhin de la Kennedybrücke vers le sud jusqu'à Bad Godesberg, bordée de platanes matures et de bancs. Laisse obligatoire sur toute la longueur, mais le chemin est assez large pour cohabiter sereinement avec cyclistes et joggeurs. Les traversées gratuites du bac Bastei permettent de passer sur la rive plus calme de Beuel à mi-parcours.`,
+          es: `Un paseo de 6 km a orillas del Rin desde el Kennedybrücke hacia el sur hasta Bad Godesberg, flanqueado por plátanos maduros y bancos. Correa obligatoria en todo el recorrido, pero el sendero es lo bastante ancho para compartirse con ciclistas y corredores. Las travesías gratuitas del ferry Bastei permiten pasar a la orilla más tranquila de Beuel a mitad del paseo.`,
+          pt: `Um passeio de 6 km à beira do Reno desde o Kennedybrücke para sul até Bad Godesberg, ladeado por plátanos maduros e bancos. Trela obrigatória em todo o percurso, mas o caminho é largo o suficiente para partilhar com ciclistas e corredores. As travessias gratuitas do ferry Bastei permitem passar para a margem mais tranquila de Beuel a meio do passeio.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Dogs travel free on the SWB bus, tram and Stadtbahn network, one per passenger, leashed and off the seats. Muzzle only required for breeds on the NRW Listenhunde register.`,
+        `From 1 March to 15 July, the NRW state leash law applies in all forests and nature reserves (Kottenforst, Siebengebirge) to protect ground-nesting birds — voice control is not enough during this window.`,
+        `Check the NRW Listenhunde categories before travelling: Pit Bull, American Staffordshire, Staffordshire Bull and Bull Terriers (Cat 1) and Alano, American Bulldog, Bullmastiff, Mastiff, Mastín Español, Mastino Napoletano, Fila Brasileiro, Dogo Argentino, Rottweiler and Tosa Inu (Cat 2) require special permits and proof of muzzling.`,
+        `The Bastei ferry between Bad Godesberg and Niederdollendorf takes dogs free of charge (5-minute crossing, roughly every 20 minutes in summer) — the easiest way to add the Siebengebirge to a Rhine walk.`,
+        `Bonn has no in-house 24/7 vet hospital; the after-hours rotation is run by the Tierärztlicher Vertretungskreis Bonn (bonner-tieraerzte.de), with the duty practice changing daily. For serious cases, the nearest 24/7 clinic is Tierklinik Dr. Kellerwessel in Cologne, 30 km north.`,
+      ],
+      fr: [
+        `Les chiens voyagent gratuitement sur le réseau bus, tram et Stadtbahn SWB, un par passager, en laisse et hors des sièges. Muselière obligatoire uniquement pour les races inscrites au registre Listenhunde NRW.`,
+        `Du 1ᵉʳ mars au 15 juillet, la loi régionale NRW impose la laisse dans toutes les forêts et réserves naturelles (Kottenforst, Siebengebirge) pour protéger les oiseaux nichant au sol — le contrôle vocal ne suffit pas pendant cette période.`,
+        `Vérifiez les catégories Listenhunde NRW avant le voyage : Pit Bull, American Staffordshire, Staffordshire Bull et Bull Terriers (Cat 1) et Alano, American Bulldog, Bullmastiff, Mastiff, Mastín Español, Mastino Napoletano, Fila Brasileiro, Dogo Argentino, Rottweiler et Tosa Inu (Cat 2) nécessitent des permis spéciaux et la preuve du port de la muselière.`,
+        `Le bac Bastei entre Bad Godesberg et Niederdollendorf prend les chiens gratuitement (traversée de 5 minutes, environ toutes les 20 minutes en été) — le moyen le plus simple d'ajouter le Siebengebirge à une balade rhénane.`,
+        `Bonn n'a pas d'hôpital vétérinaire 24h/24 sur place ; la garde hors heures est gérée par le Tierärztlicher Vertretungskreis Bonn (bonner-tieraerzte.de), avec un cabinet de garde différent chaque jour. Pour les cas sérieux, la clinique 24h/24 la plus proche est la Tierklinik Dr. Kellerwessel à Cologne, à 30 km au nord.`,
+      ],
+      es: [
+        `Los perros viajan gratis en la red de bus, tranvía y Stadtbahn de SWB, uno por pasajero, con correa y fuera de los asientos. Bozal obligatorio solo para razas inscritas en el registro Listenhunde NRW.`,
+        `Del 1 de marzo al 15 de julio, la ley regional de NRW impone la correa en todos los bosques y reservas naturales (Kottenforst, Siebengebirge) para proteger aves que anidan en el suelo — el control vocal no basta en ese periodo.`,
+        `Comprueba las categorías Listenhunde de NRW antes de viajar: Pit Bull, American Staffordshire, Staffordshire Bull y Bull Terriers (Cat 1) y Alano, American Bulldog, Bullmastiff, Mastiff, Mastín Español, Mastino Napoletano, Fila Brasileiro, Dogo Argentino, Rottweiler y Tosa Inu (Cat 2) requieren permisos especiales y prueba del bozal.`,
+        `El ferry Bastei entre Bad Godesberg y Niederdollendorf admite perros gratis (travesía de 5 minutos, aproximadamente cada 20 minutos en verano) — la forma más sencilla de añadir el Siebengebirge a un paseo por el Rin.`,
+        `Bonn no tiene un hospital veterinario 24/7 propio; la guardia fuera de horario la gestiona el Tierärztlicher Vertretungskreis Bonn (bonner-tieraerzte.de), con una consulta de guardia distinta cada día. Para casos graves, la clínica 24/7 más cercana es la Tierklinik Dr. Kellerwessel en Colonia, a 30 km al norte.`,
+      ],
+      pt: [
+        `Os cães viajam grátis na rede de autocarro, elétrico e Stadtbahn da SWB, um por passageiro, com trela e fora dos lugares sentados. Açaime apenas obrigatório para raças inscritas no registo Listenhunde de NRW.`,
+        `De 1 de março a 15 de julho, a lei regional de NRW impõe a trela em todas as florestas e reservas naturais (Kottenforst, Siebengebirge) para proteger aves que nidificam no solo — o controlo de voz não basta nesse período.`,
+        `Verifica as categorias Listenhunde de NRW antes de viajar: Pit Bull, American Staffordshire, Staffordshire Bull e Bull Terriers (Cat 1) e Alano, American Bulldog, Bullmastiff, Mastiff, Mastín Español, Mastino Napoletano, Fila Brasileiro, Dogo Argentino, Rottweiler e Tosa Inu (Cat 2) requerem permissões especiais e prova do uso de açaime.`,
+        `O ferry Bastei entre Bad Godesberg e Niederdollendorf aceita cães grátis (travessia de 5 minutos, aproximadamente a cada 20 minutos no verão) — a forma mais simples de adicionar o Siebengebirge a um passeio pelo Reno.`,
+        `Bonn não tem um hospital veterinário 24/7 próprio; o serviço fora de horas é gerido pelo Tierärztlicher Vertretungskreis Bonn (bonner-tieraerzte.de), com uma consulta de turno diferente todos os dias. Para casos graves, a clínica 24/7 mais próxima é a Tierklinik Dr. Kellerwessel em Colónia, a 30 km a norte.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Closest airport: Cologne Bonn Airport (CGN), 25 km north of central Bonn; dogs travel free on the SB60 airport bus (one dog per passenger, leashed).`,
+        `Bonn Hauptbahnhof is the central rail hub, served by ICE, IC and regional trains. Small dogs in carriers travel free on DB; larger dogs need a child half-fare ticket.`,
+        `Tap water is potable and public Trinkbrunnen (drinking fountains) are operational from April to October on the Münsterplatz, the Hofgarten and along the Rheinaue circuit.`,
+        `North Rhine-Westphalia Hundesteuer (dog tax) does not apply to short-term visitors; carry your EU pet passport, valid rabies vaccination (>21 days old) and microchip records as standard.`,
+        `UK visitors: the EU pet passport for UK dogs has not been valid since Brexit. You need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroport le plus proche : Cologne-Bonn (CGN), à 25 km au nord du centre ; les chiens voyagent gratuitement sur le bus aéroport SB60 (un chien par passager, en laisse).`,
+        `La Bonn Hauptbahnhof est le hub ferroviaire central, desservie par ICE, IC et trains régionaux. Petits chiens en cage gratuits sur DB ; grands chiens au demi-tarif enfant.`,
+        `L'eau du robinet est potable et les fontaines publiques (Trinkbrunnen) fonctionnent d'avril à octobre sur la Münsterplatz, au Hofgarten et le long du circuit de la Rheinaue.`,
+        `La Hundesteuer (taxe canine) de Rhénanie-du-Nord-Westphalie ne s'applique pas aux visiteurs courts ; emportez le passeport européen pour animal, le certificat de vaccination antirabique (>21 jours) et la puce à jour.`,
+        `Visiteurs UK : le passeport européen pour chien britannique n'est plus valable depuis le Brexit. Il faut un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Colonia-Bonn (CGN), a 25 km al norte del centro; los perros viajan gratis en el autobús aeroportuario SB60 (un perro por pasajero, con correa).`,
+        `La Bonn Hauptbahnhof es el hub ferroviario central, atendido por ICE, IC y trenes regionales. Perros pequeños en transportín gratis en DB; perros grandes con medio billete infantil.`,
+        `El agua del grifo es potable y las fuentes públicas (Trinkbrunnen) funcionan de abril a octubre en la Münsterplatz, el Hofgarten y a lo largo del circuito del Rheinaue.`,
+        `El Hundesteuer (impuesto canino) de Renania del Norte-Westfalia no se aplica a visitantes cortos; lleva pasaporte europeo para mascotas, vacuna antirrábica vigente (>21 días) y microchip al día.`,
+        `Visitantes del Reino Unido: el pasaporte europeo para perros británicos ya no es válido desde el Brexit. Se necesita un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Colónia-Bonn (CGN), a 25 km a norte do centro; os cães viajam grátis no autocarro aeroportuário SB60 (um cão por passageiro, com trela).`,
+        `A Bonn Hauptbahnhof é o hub ferroviário central, servida por ICE, IC e comboios regionais. Cães pequenos em transportadora grátis na DB; cães grandes com meio bilhete infantil.`,
+        `A água da torneira é potável e as fontes públicas (Trinkbrunnen) funcionam de abril a outubro na Münsterplatz, no Hofgarten e ao longo do circuito do Rheinaue.`,
+        `O Hundesteuer (imposto canino) da Renânia do Norte-Vestefália não se aplica a visitantes curtos; leva o passaporte europeu para animais, vacina antirrábica em vigor (>21 dias) e microchip atualizado.`,
+        `Visitantes do Reino Unido: o passaporte europeu para cães britânicos deixou de ser válido desde o Brexit. É necessário um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   bordeaux: {
     history: {
       en: 'Bordeaux, the "sleeping beauty" famously woken by Alain Juppé\'s mayoral renovation in the 1990s, is now one of France\'s most liveable cities. Its UNESCO-listed 18th-century riverfront, its wine culture and its Atlantic-influenced climate draw over five million visitors a year. Dogs have always been part of Bordeaux life: the Girondins tradition of long Sunday walks along the Garonne, the wine estate (château) culture where working dogs guard the vines, and the outdoor café life of the Chartrons antiques district all make Bordeaux one of France\'s most dog-welcoming cities.',

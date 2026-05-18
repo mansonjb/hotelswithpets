@@ -115,6 +115,7 @@ const TARGETS = [
   { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
   { slug: 'cardiff', query: 'Cardiff Castle Wales city centre Bute Park River Taff panorama' },
+  { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

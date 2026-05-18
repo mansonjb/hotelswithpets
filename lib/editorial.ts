@@ -111,6 +111,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Giardini Margherita park, the porticoed San Luca trail (3.8 km), and the hills above the Bolognina district',
       area: 'the Quadrilatero food district, Santo Stefano, and the Via Zamboni university quarter',
     },
+    bonn: {
+      personality: 'Beethoven\'s birthplace and the post-war federal capital, a green, walkable Rhine city where dogs are welcome on the Markt terraces, the 160-hectare Rheinaue and the Siebengebirge hiking trails just across the river',
+      highlight: 'the Rheinaue off-leash meadow, the 40 km² Kottenforst forest, and the Rheinufer promenade with ferry crossings to Beuel',
+      area: 'the Altstadt around Münsterplatz and Markt, Bad Godesberg, and the Beuel east bank',
+    },
     bordeaux: {
       personality: 'a city where dogs stroll the wine-bar terraces of the Chartrons, explore the Garonne riverside, and are welcomed in most boutique hotels',
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
@@ -789,6 +794,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les Giardini Margherita, le sentier à portiques de San Luca (3,8 km) et les collines au-dessus du quartier de la Bolognina',
       area: 'le Quadrilatero gastronomique, Santo Stefano et le quartier universitaire de Via Zamboni',
     },
+    bonn: {
+      personality: 'la ville natale de Beethoven et ancienne capitale fédérale d\'Allemagne de l\'Ouest, une cité rhénane verte et facile à parcourir où les chiens sont les bienvenus sur les terrasses du Markt, dans le parc Rheinaue de 160 hectares et sur les sentiers du Siebengebirge juste en face du fleuve',
+      highlight: 'la prairie sans laisse du Rheinaue, la forêt du Kottenforst (40 km²) et la promenade du Rhin avec les bacs vers Beuel',
+      area: 'l\'Altstadt autour de la Münsterplatz et du Markt, Bad Godesberg et la rive est de Beuel',
+    },
     bordeaux: {
       personality: 'une ville où les chiens se promènent sur les terrasses des bars à vins du quartier des Chartrons, explorent les quais de la Garonne et sont accueillis dans la plupart des hôtels boutiques',
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
@@ -1466,6 +1476,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Giardini Margherita, el sendero con pórticos de San Luca (3,8 km) y las colinas sobre el barrio de la Bolognina',
       area: 'el Quadrilatero gastronómico, Santo Stefano y el barrio universitario de Via Zamboni',
     },
+    bonn: {
+      personality: 'la ciudad natal de Beethoven y antigua capital federal de la República Federal de Alemania, una urbe renana verde y caminable donde los perros son bienvenidos en las terrazas del Markt, en el parque Rheinaue de 160 hectáreas y en los senderos del Siebengebirge justo enfrente del río',
+      highlight: 'la pradera sin correa del Rheinaue, el bosque del Kottenforst (40 km²) y el paseo del Rin con los ferries hasta Beuel',
+      area: 'la Altstadt en torno a Münsterplatz y Markt, Bad Godesberg y la orilla este de Beuel',
+    },
     bordeaux: {
       personality: 'una ciudad donde los perros pasean por las terrazas de los bares de vino del barrio de Chartrons, exploran los muelles del Garona y son bienvenidos en la mayoría de los hoteles boutique',
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
@@ -2142,6 +2157,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade medieval italiana de pórticos e mercados gastronómicos que acoge aos cães en os seus cafés, praças e as colinas circundantes',
       highlight: 'os Giardini Margherita, o trilho com pórticos de San Luca (3,8 km) e as colinas sobre o bairro da Bolognina',
       area: 'o Quadrilatero gastronómico, Santo Stefano e o bairro universitario de Via Zamboni',
+    },
+    bonn: {
+      personality: 'a cidade natal de Beethoven e antiga capital federal da Alemanha Ocidental, uma urbe renana verde e caminhável onde os cães são bem-vindos nas esplanadas do Markt, no parque Rheinaue de 160 hectares e nos trilhos do Siebengebirge mesmo em frente do rio',
+      highlight: 'o prado sem trela do Rheinaue, a floresta do Kottenforst (40 km²) e o passeio do Reno com os ferries até Beuel',
+      area: 'a Altstadt em torno da Münsterplatz e do Markt, Bad Godesberg e a margem leste de Beuel',
     },
     bordeaux: {
       personality: 'uma cidade onde os cães pasean pelas esplanadas dos bares de vino do bairro de Chartrons, exploran os muelles do Garona e são bem-vindos en a maioria dos hotéis boutique',

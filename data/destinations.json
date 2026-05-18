@@ -1322,6 +1322,79 @@
     }
   },
   {
+    "slug": "bonn",
+    "name": "Bonn",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bonn.jpg",
+    "intro": "Bonn is Beethoven's birthplace, the post-war federal capital, and one of the greenest mid-sized cities in Germany — perfect for a Rhine-side dog weekend.",
+    "lat": 50.7374,
+    "lng": 7.0982,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & green",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "bordeaux",
     "name": "Bordeaux",
     "country": "France",

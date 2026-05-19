@@ -7,6 +7,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelCard from '@/components/HotelCard'
 import PetMap from '@/components/PetMap'
+import TravelpayoutsFlightWidget from '@/components/TravelpayoutsFlightWidget'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -417,6 +418,13 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           )}
         </div>
       </section>
+
+      {/* Flight + hotel search widget (Travelpayouts), pre-filled with this destination's IATA */}
+      <TravelpayoutsFlightWidget
+        destinationIATA={(dest as typeof dest & { iata?: string }).iata}
+        locale={locale}
+        cityName={localizedName}
+      />
 
       {/* ── Rich city content (history + sights + tips) ── */}
       {cityContent[slug] && (() => {

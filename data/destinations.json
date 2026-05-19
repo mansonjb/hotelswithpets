@@ -71,7 +71,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "AAR"
   },
   {
     "slug": "aix-en-provence",
@@ -145,7 +146,8 @@
         "desc": "Cool, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "MRS"
   },
   {
     "slug": "ajaccio",
@@ -159,19 +161,68 @@
     "lat": 41.9192,
     "lng": 8.7386,
     "weather": {
-      "jan": {"temp": 11, "desc": "Mild, sunny spells", "icon": "🌤️"},
-      "feb": {"temp": 11, "desc": "Mild, breezy", "icon": "🌤️"},
-      "mar": {"temp": 13, "desc": "Mild spring", "icon": "🌤️"},
-      "apr": {"temp": 15, "desc": "Warm, sunny", "icon": "☀️"},
-      "may": {"temp": 18, "desc": "Warm, dry", "icon": "☀️"},
-      "jun": {"temp": 22, "desc": "Hot, very sunny", "icon": "☀️"},
-      "jul": {"temp": 25, "desc": "Hot, dry", "icon": "☀️"},
-      "aug": {"temp": 26, "desc": "Very hot, dry", "icon": "☀️"},
-      "sep": {"temp": 23, "desc": "Warm, golden", "icon": "☀️"},
-      "oct": {"temp": 19, "desc": "Mild, sunny", "icon": "🌤️"},
-      "nov": {"temp": 15, "desc": "Mild, some rain", "icon": "🌦️"},
-      "dec": {"temp": 12, "desc": "Mild winter", "icon": "🌤️"}
-    }
+      "jan": {
+        "temp": 11,
+        "desc": "Mild, sunny spells",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild, breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot, very sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Very hot, dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm, golden",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild, some rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AJA"
   },
   {
     "slug": "amsterdam",
@@ -245,7 +296,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "AMS"
   },
   {
     "slug": "annecy",
@@ -318,7 +370,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GVA"
   },
   {
     "slug": "antwerp",
@@ -391,7 +444,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BRU"
   },
   {
     "slug": "athens",
@@ -464,7 +518,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "ATH"
   },
   {
     "slug": "avignon",
@@ -537,7 +592,8 @@
         "desc": "Mild & dry",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "AVN"
   },
   {
     "slug": "barcelona",
@@ -610,7 +666,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "BCN"
   },
   {
     "slug": "bari",
@@ -684,7 +741,8 @@
         "desc": "Cool with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "BRI"
   },
   {
     "slug": "basel",
@@ -757,7 +815,8 @@
         "desc": "Cold, festive markets",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "BSL"
   },
   {
     "slug": "bath",
@@ -831,7 +890,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "BRS"
   },
   {
     "slug": "belgrade",
@@ -905,7 +965,8 @@
         "desc": "Cold & overcast",
         "icon": "🌨️"
       }
-    }
+    },
+    "iata": "BEG"
   },
   {
     "slug": "bergen",
@@ -979,7 +1040,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "BGO"
   },
   {
     "slug": "berlin",
@@ -1052,7 +1114,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BER"
   },
   {
     "slug": "bern",
@@ -1125,7 +1188,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BRN"
   },
   {
     "slug": "biarritz",
@@ -1198,7 +1262,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "BIQ"
   },
   {
     "slug": "bilbao",
@@ -1272,7 +1337,8 @@
         "desc": "Cool & rainy",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BIO"
   },
   {
     "slug": "bologna",
@@ -1345,7 +1411,8 @@
         "desc": "Cold & foggy",
         "icon": "🌫️"
       }
-    }
+    },
+    "iata": "BLQ"
   },
   {
     "slug": "bonn",
@@ -1418,7 +1485,8 @@
         "desc": "Cold & damp",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CGN"
   },
   {
     "slug": "bordeaux",
@@ -1491,7 +1559,8 @@
         "desc": "Cool & overcast",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "BOD"
   },
   {
     "slug": "bratislava",
@@ -1565,7 +1634,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "BTS"
   },
   {
     "slug": "bremen",
@@ -1638,7 +1708,8 @@
         "desc": "Cold & overcast",
         "icon": "🌨️"
       }
-    }
+    },
+    "iata": "BRE"
   },
   {
     "slug": "brighton",
@@ -1712,7 +1783,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LGW"
   },
   {
     "slug": "bristol",
@@ -1786,7 +1858,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "BRS"
   },
   {
     "slug": "brno",
@@ -1859,7 +1932,8 @@
         "desc": "Cold & cloudy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "BRQ"
   },
   {
     "slug": "bruges",
@@ -1932,7 +2006,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BRU"
   },
   {
     "slug": "brussels",
@@ -2005,7 +2080,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BRU"
   },
   {
     "slug": "bucharest",
@@ -2079,7 +2155,8 @@
         "desc": "Cold & overcast",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "OTP"
   },
   {
     "slug": "budapest",
@@ -2152,7 +2229,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BUD"
   },
   {
     "slug": "cagliari",
@@ -2226,7 +2304,8 @@
         "desc": "Mild & sunny",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "CAG"
   },
   {
     "slug": "cambridge",
@@ -2299,7 +2378,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "STN"
   },
   {
     "slug": "cannes",
@@ -2372,7 +2452,8 @@
         "desc": "Cool & mild",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "NCE"
   },
   {
     "slug": "cardiff",
@@ -2446,7 +2527,8 @@
         "desc": "Cold & rainy",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CWL"
   },
   {
     "slug": "cascais",
@@ -2520,7 +2602,8 @@
         "desc": "Cool & rainy",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "LIS"
   },
   {
     "slug": "catania",
@@ -2594,7 +2677,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "CTA"
   },
   {
     "slug": "coimbra",
@@ -2668,7 +2752,8 @@
         "desc": "Mild, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "OPO"
   },
   {
     "slug": "cologne",
@@ -2741,7 +2826,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CGN"
   },
   {
     "slug": "copenhagen",
@@ -2814,7 +2900,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CPH"
   },
   {
     "slug": "cordoba",
@@ -2888,7 +2975,8 @@
         "desc": "Mild, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "SVQ"
   },
   {
     "slug": "cork",
@@ -2961,7 +3049,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "ORK"
   },
   {
     "slug": "dresden",
@@ -3034,7 +3123,8 @@
         "desc": "Cold & overcast",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "DRS"
   },
   {
     "slug": "dublin",
@@ -3107,7 +3197,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "DUB"
   },
   {
     "slug": "dubrovnik",
@@ -3180,7 +3271,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "DBV"
   },
   {
     "slug": "dusseldorf",
@@ -3254,7 +3346,8 @@
         "desc": "Cold & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "DUS"
   },
   {
     "slug": "edinburgh",
@@ -3327,7 +3420,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "EDI"
   },
   {
     "slug": "evora",
@@ -3400,7 +3494,8 @@
         "desc": "Cool & dry",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "LIS"
   },
   {
     "slug": "faro",
@@ -3473,7 +3568,8 @@
         "desc": "Mild & sunny",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "FAO"
   },
   {
     "slug": "florence",
@@ -3546,7 +3642,8 @@
         "desc": "Cool & overcast",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "FLR"
   },
   {
     "slug": "frankfurt",
@@ -3620,7 +3717,8 @@
         "desc": "Cold, Christmas markets",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "FRA"
   },
   {
     "slug": "funchal",
@@ -3694,7 +3792,8 @@
         "desc": "Mild Atlantic winter",
         "icon": "🌤️"
       }
-    }
+    },
+    "iata": "FNC"
   },
   {
     "slug": "galway",
@@ -3767,7 +3866,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "NOC"
   },
   {
     "slug": "gdansk",
@@ -3840,7 +3940,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "GDN"
   },
   {
     "slug": "geneva",
@@ -3913,7 +4014,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GVA"
   },
   {
     "slug": "genoa",
@@ -3986,7 +4088,8 @@
         "desc": "Mild & rainy",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GOA"
   },
   {
     "slug": "ghent",
@@ -4059,7 +4162,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "BRU"
   },
   {
     "slug": "glasgow",
@@ -4133,7 +4237,8 @@
         "desc": "Cold & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GLA"
   },
   {
     "slug": "gothenburg",
@@ -4206,7 +4311,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GOT"
   },
   {
     "slug": "granada",
@@ -4279,7 +4385,8 @@
         "desc": "Cool & grey",
         "icon": "🌥️"
       }
-    }
+    },
+    "iata": "GRX"
   },
   {
     "slug": "graz",
@@ -4353,7 +4460,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "GRZ"
   },
   {
     "slug": "hamburg",
@@ -4427,7 +4535,8 @@
         "desc": "Cold, Christmas markets",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "HAM"
   },
   {
     "slug": "hannover",
@@ -4501,7 +4610,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "HAJ"
   },
   {
     "slug": "heidelberg",
@@ -4574,7 +4684,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "FRA"
   },
   {
     "slug": "helsinki",
@@ -4647,7 +4758,8 @@
         "desc": "Very cold",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "HEL"
   },
   {
     "slug": "heraklion",
@@ -4721,7 +4833,8 @@
         "desc": "Mild, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "HER"
   },
   {
     "slug": "innsbruck",
@@ -4795,7 +4908,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "INN"
   },
   {
     "slug": "krakow",
@@ -4868,7 +4982,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "KRK"
   },
   {
     "slug": "lausanne",
@@ -4941,7 +5056,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "GVA"
   },
   {
     "slug": "lecce",
@@ -5014,7 +5130,8 @@
         "desc": "Mild & sunny",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "BDS"
   },
   {
     "slug": "leipzig",
@@ -5087,7 +5204,8 @@
         "desc": "Cold & overcast",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "LEJ"
   },
   {
     "slug": "lille",
@@ -5161,7 +5279,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LIL"
   },
   {
     "slug": "lisbon",
@@ -5234,7 +5353,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "LIS"
   },
   {
     "slug": "liverpool",
@@ -5308,7 +5428,8 @@
         "desc": "Cold & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LPL"
   },
   {
     "slug": "ljubljana",
@@ -5381,7 +5502,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LJU"
   },
   {
     "slug": "london",
@@ -5454,7 +5576,8 @@
         "desc": "Cold & festive",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LHR"
   },
   {
     "slug": "lucca",
@@ -5528,7 +5651,8 @@
         "desc": "Cool, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "PSA"
   },
   {
     "slug": "lucerne",
@@ -5601,7 +5725,8 @@
         "desc": "Cold & overcast",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "ZRH"
   },
   {
     "slug": "luxembourg",
@@ -5675,7 +5800,8 @@
         "desc": "Cold & overcast",
         "icon": "🌨️"
       }
-    }
+    },
+    "iata": "LUX"
   },
   {
     "slug": "lyon",
@@ -5748,7 +5874,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LYS"
   },
   {
     "slug": "maastricht",
@@ -5821,7 +5948,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MST"
   },
   {
     "slug": "madrid",
@@ -5894,7 +6022,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MAD"
   },
   {
     "slug": "malaga",
@@ -5967,7 +6096,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "AGP"
   },
   {
     "slug": "malmo",
@@ -6040,7 +6170,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MMX"
   },
   {
     "slug": "manchester",
@@ -6114,7 +6245,8 @@
         "desc": "Cold & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MAN"
   },
   {
     "slug": "marseille",
@@ -6188,7 +6320,8 @@
         "desc": "Mild & sunny",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "MRS"
   },
   {
     "slug": "milan",
@@ -6261,7 +6394,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MXP"
   },
   {
     "slug": "modena",
@@ -6335,7 +6469,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "BLQ"
   },
   {
     "slug": "montpellier",
@@ -6409,7 +6544,8 @@
         "desc": "Cool & mild",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "MPL"
   },
   {
     "slug": "munich",
@@ -6482,7 +6618,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "MUC"
   },
   {
     "slug": "nantes",
@@ -6555,7 +6692,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "NTE"
   },
   {
     "slug": "naples",
@@ -6629,7 +6767,8 @@
         "desc": "Mild, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "NAP"
   },
   {
     "slug": "new-york",
@@ -6703,7 +6842,8 @@
         "desc": "Cold, festive lights",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "JFK"
   },
   {
     "slug": "nice",
@@ -6776,7 +6916,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "NCE"
   },
   {
     "slug": "nuremberg",
@@ -6850,7 +6991,8 @@
         "desc": "Cold, Christmas market",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "NUE"
   },
   {
     "slug": "oslo",
@@ -6923,7 +7065,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "OSL"
   },
   {
     "slug": "oxford",
@@ -6997,7 +7140,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "LHR"
   },
   {
     "slug": "padua",
@@ -7071,7 +7215,8 @@
         "desc": "Cold, festive fog",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "VCE"
   },
   {
     "slug": "palermo",
@@ -7145,7 +7290,8 @@
         "desc": "Mild, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "PMO"
   },
   {
     "slug": "palma",
@@ -7218,7 +7364,8 @@
         "desc": "Cool & overcast",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "PMI"
   },
   {
     "slug": "pamplona",
@@ -7292,7 +7439,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "PNA"
   },
   {
     "slug": "paris",
@@ -7365,7 +7513,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CDG"
   },
   {
     "slug": "pisa",
@@ -7439,7 +7588,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "PSA"
   },
   {
     "slug": "porto",
@@ -7512,7 +7662,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "OPO"
   },
   {
     "slug": "prague",
@@ -7585,7 +7736,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "PRG"
   },
   {
     "slug": "reims",
@@ -7658,7 +7810,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "CDG"
   },
   {
     "slug": "reykjavik",
@@ -7731,7 +7884,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "KEF"
   },
   {
     "slug": "riga",
@@ -7804,7 +7958,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "RIX"
   },
   {
     "slug": "rome",
@@ -7877,7 +8032,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "FCO"
   },
   {
     "slug": "rotterdam",
@@ -7951,7 +8107,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "RTM"
   },
   {
     "slug": "salamanca",
@@ -8025,7 +8182,8 @@
         "desc": "Cold, festive",
         "icon": "🎄"
       }
-    }
+    },
+    "iata": "SLM"
   },
   {
     "slug": "salzburg",
@@ -8098,7 +8256,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "SZG"
   },
   {
     "slug": "san-sebastian",
@@ -8171,7 +8330,8 @@
         "desc": "Cool & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "EAS"
   },
   {
     "slug": "seville",
@@ -8244,7 +8404,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "SVQ"
   },
   {
     "slug": "sofia",
@@ -8318,7 +8479,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "SOF"
   },
   {
     "slug": "split",
@@ -8391,7 +8553,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "SPU"
   },
   {
     "slug": "stavanger",
@@ -8464,7 +8627,8 @@
         "desc": "Cold & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "SVG"
   },
   {
     "slug": "stockholm",
@@ -8537,7 +8701,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "ARN"
   },
   {
     "slug": "strasbourg",
@@ -8610,7 +8775,8 @@
         "desc": "Cold, Christmas market season",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "SXB"
   },
   {
     "slug": "stuttgart",
@@ -8684,7 +8850,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "STR"
   },
   {
     "slug": "tallinn",
@@ -8757,7 +8924,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "TLL"
   },
   {
     "slug": "tampere",
@@ -8830,7 +8998,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "TMP"
   },
   {
     "slug": "tarragona",
@@ -8904,7 +9073,8 @@
         "desc": "Cool & breezy",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "REU"
   },
   {
     "slug": "the-hague",
@@ -8978,7 +9148,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "AMS"
   },
   {
     "slug": "thessaloniki",
@@ -9051,7 +9222,8 @@
         "desc": "Cold & overcast",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "SKG"
   },
   {
     "slug": "toledo",
@@ -9124,7 +9296,8 @@
         "desc": "Cold & dry",
         "icon": "⛅"
       }
-    }
+    },
+    "iata": "MAD"
   },
   {
     "slug": "toulouse",
@@ -9197,7 +9370,8 @@
         "desc": "Cool & damp",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "TLS"
   },
   {
     "slug": "trondheim",
@@ -9270,7 +9444,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "TRD"
   },
   {
     "slug": "turin",
@@ -9344,7 +9519,8 @@
         "desc": "Cold, Alpine",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "TRN"
   },
   {
     "slug": "utrecht",
@@ -9417,7 +9593,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "AMS"
   },
   {
     "slug": "valencia",
@@ -9490,7 +9667,8 @@
         "desc": "Mild with rain",
         "icon": "🌦️"
       }
-    }
+    },
+    "iata": "VLC"
   },
   {
     "slug": "venice",
@@ -9563,7 +9741,8 @@
         "desc": "Cool & overcast",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "VCE"
   },
   {
     "slug": "verona",
@@ -9636,7 +9815,8 @@
         "desc": "Cold & foggy",
         "icon": "🌫️"
       }
-    }
+    },
+    "iata": "VRN"
   },
   {
     "slug": "vienna",
@@ -9709,7 +9889,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "VIE"
   },
   {
     "slug": "vilnius",
@@ -9783,7 +9964,8 @@
         "desc": "Cold & snowy",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "VNO"
   },
   {
     "slug": "warsaw",
@@ -9856,7 +10038,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "WAW"
   },
   {
     "slug": "wroclaw",
@@ -9929,7 +10112,8 @@
         "desc": "Cold & grey",
         "icon": "❄️"
       }
-    }
+    },
+    "iata": "WRO"
   },
   {
     "slug": "york",
@@ -10002,7 +10186,8 @@
         "desc": "Cool & wet",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "LBA"
   },
   {
     "slug": "zagreb",
@@ -10076,7 +10261,8 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "ZAG"
   },
   {
     "slug": "zaragoza",
@@ -10149,7 +10335,8 @@
         "desc": "Cold, dry, foggy",
         "icon": "🌫️"
       }
-    }
+    },
+    "iata": "ZAZ"
   },
   {
     "slug": "zurich",
@@ -10222,6 +10409,7 @@
         "desc": "Cold & grey",
         "icon": "🌧️"
       }
-    }
+    },
+    "iata": "ZRH"
   }
 ]

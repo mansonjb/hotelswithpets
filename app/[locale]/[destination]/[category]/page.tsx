@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelRankedCard from '@/components/HotelRankedCard'
 import PetMap from '@/components/PetMap'
+import TravelpayoutsFlightWidget from '@/components/TravelpayoutsFlightWidget'
 import { generateIntro, generateFaqs, generateTips, generateWhy } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
@@ -483,6 +484,13 @@ export default async function ComboPage({
                   </div>
                 )}
               </section>
+
+              {/* Flight + hotel search widget (Travelpayouts), pre-filled with this destination's IATA */}
+              <TravelpayoutsFlightWidget
+                destinationIATA={(dest as typeof dest & { iata?: string }).iata}
+                locale={locale}
+                cityName={localizedDest}
+              />
 
               {/* ⑥ Tips section */}
               <section aria-label="Selection guide" className="mb-10">

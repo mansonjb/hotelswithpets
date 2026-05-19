@@ -346,6 +346,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
       area: 'Kallio, Töölö, and the Design District',
     },
+    ibiza: {
+      personality: `the capital of the Balearic island of Eivissa, where the UNESCO-walled Dalt Vila, a pine-forested interior, and a surprisingly relaxed shoulder season make it a genuine pet-friendly destination beyond the clubbing cliché`,
+      highlight: `the UNESCO walled old town of Dalt Vila and its panoramic ramparts, the year-round dog beach at Cala Nova, and the Ses Salines nature reserve with flamingo lagoons`,
+      area: `Dalt Vila (UNESCO old town), the harbour quarters of Sa Penya and Sa Marina, and the calmer family resort of Santa Eulalia 15 minutes north`,
+    },
     innsbruck: {
       personality: 'Tyrol\'s capital encircled by 2,300m Alpine peaks, free public transport for dogs, dog-friendly cable cars to mountain summits, café and Gasthaus tradition that welcomes dogs, and 24/7 emergency vet',
       highlight: 'the Nordkette range reachable by cable car from the centre, the Hofgarten royal park, and the cobbled Altstadt around the Goldenes Dachl',
@@ -1054,6 +1059,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
       area: 'Kallio, Töölö et le Quartier du Design',
     },
+    ibiza: {
+      personality: `la capitale de l'île baléare d'Eivissa, où Dalt Vila inscrite à l'UNESCO, un intérieur couvert de pinèdes et une basse saison étonnamment paisible en font une vraie destination pet-friendly, loin du cliché du clubbing`,
+      highlight: `la vieille ville fortifiée de Dalt Vila (UNESCO) et ses remparts panoramiques, la plage canine de Cala Nova ouverte toute l'année, et la réserve naturelle de Ses Salines avec ses flamants roses`,
+      area: `Dalt Vila (vieille ville UNESCO), les quartiers du port Sa Penya et Sa Marina, et la station familiale plus calme de Santa Eulalia à 15 minutes au nord`,
+    },
     innsbruck: {
       personality: 'la capitale du Tyrol entourée de pics alpins à 2 300 m, transports publics gratuits pour chiens, téléphériques dog-friendly jusqu\'aux sommets, tradition café et Gasthaus qui accueille les chiens, et urgences vétérinaires 24h/24',
       highlight: 'la chaîne du Nordkette accessible en téléphérique depuis le centre, le parc royal Hofgarten et le Altstadt pavé autour du Goldenes Dachl',
@@ -1761,6 +1771,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö y el Barrio del Diseño',
     },
+    ibiza: {
+      personality: `la capital de la isla balear de Eivissa, donde Dalt Vila declarada Patrimonio de la UNESCO, un interior cubierto de pinos y una temporada baja sorprendentemente tranquila la convierten en un auténtico destino pet-friendly, lejos del tópico del clubbing`,
+      highlight: `el casco antiguo amurallado de Dalt Vila (UNESCO) y sus murallas panorámicas, la playa canina de Cala Nova abierta todo el año, y la reserva natural de Ses Salines con sus flamencos`,
+      area: `Dalt Vila (casco antiguo UNESCO), los barrios portuarios de Sa Penya y Sa Marina, y la estación familiar más tranquila de Santa Eulalia a 15 minutos al norte`,
+    },
     innsbruck: {
       personality: 'la capital del Tirol rodeada de picos alpinos a 2.300 m, transporte público gratis para perros, teleféricos dog-friendly hasta las cimas, tradición de café y Gasthaus que admite perros, y urgencias veterinarias 24/7',
       highlight: 'la cordillera del Nordkette accesible en teleférico desde el centro, el parque real Hofgarten y el Altstadt empedrado en torno al Goldenes Dachl',
@@ -2467,6 +2482,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital nórdica onde o archipiélago islenho, os florestas de pinos e uma cultura profundamente orientada al aire libre a hacen excepcionalmente acogedora para os cães e os seus duenhos',
       highlight: 'o Parque Central (Keskuspuisto), a reserva natural insular de Seurasaari e a fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö e o Bairro do Disenho',
+    },
+    ibiza: {
+      personality: `a capital da ilha baleárica de Eivissa, onde Dalt Vila classificada pela UNESCO, um interior coberto de pinhais e uma época baixa surpreendentemente tranquila fazem dela um verdadeiro destino pet-friendly, longe do cliché do clubbing`,
+      highlight: `o centro histórico amuralhado de Dalt Vila (UNESCO) e as suas muralhas panorâmicas, a praia canina de Cala Nova aberta todo o ano, e a reserva natural de Ses Salines com os seus flamingos`,
+      area: `Dalt Vila (centro histórico UNESCO), os bairros portuários de Sa Penya e Sa Marina, e a estação familiar mais tranquila de Santa Eulalia a 15 minutos a norte`,
     },
     innsbruck: {
       personality: 'a capital do Tirol rodeada de picos alpinos a 2.300 m, transporte público grátis para cães, teleféricos pet-friendly até as cimas, tradición de café e Gasthaus que admite cães, e urgências veterinárias 24/7',

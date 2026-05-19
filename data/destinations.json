@@ -4878,6 +4878,81 @@
     "iata": "HER"
   },
   {
+    "slug": "ibiza",
+    "name": "Ibiza",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ibiza.jpg",
+    "intro": "Capital of the Balearic island of Eivissa, Ibiza Town wraps around a UNESCO-listed walled old town (Dalt Vila), a pine-forested interior, and one of Europe's most surprisingly dog-relaxing shoulder seasons. Beyond the clubbing cliché, year-round residents walk dogs through Sa Penya and the harbour, a handful of beaches (Cala Bassa, Cala Nova) tolerate dogs out of summer ban (15 May–15 October), and the ferry to Formentera opens a calmer second island for canine day trips. Direct flights from most EU hubs to Ibiza Airport (IBZ).",
+    "lat": 38.9067,
+    "lng": 1.4206,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild Mediterranean winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Warming, dry",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Pleasant spring",
+        "icon": "🌸"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot, beach season",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Very hot afternoons",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, occasional rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "IBZ"
+  },
+  {
     "slug": "innsbruck",
     "name": "Innsbruck",
     "country": "Austria",

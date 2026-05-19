@@ -59,7 +59,7 @@ const TOP_25: IslandEntry[] = [
     es: `Muy enfocada a playas y menos poblada que Sicilia, con agriturismi pet-friendly en el interior y un litoral salpicado de calas donde se toleran perros fuera de temporada.`,
     pt: `Muito focada em praias e menos povoada do que a Sicília, com agriturismi pet-friendly no interior e um litoral pontuado de enseadas onde os cães são tolerados fora de época.`,
   }},
-  { slug: null, rank: 6, photoSlug: 'ibiza', islandName: 'Ibiza', country: 'Spain', flag: '🇪🇸', reason: {
+  { slug: 'ibiza', rank: 6, photoSlug: 'ibiza', islandName: 'Ibiza', country: 'Spain', flag: '🇪🇸', reason: {
     en: `Cala Bassa and a few northern coves accept dogs out of peak season, the pine-forested interior is much calmer than the south, and shoulder-season Ibiza is genuinely dog-relaxing.`,
     fr: `Cala Bassa et plusieurs criques du nord ouvrent leurs portes aux chiens hors haute saison. L'intérieur, couvert de pinèdes, reste très calme, et Ibiza hors été est une vraie destination canine, à mille lieues du cliché du clubbing.`,
     es: `Cala Bassa y algunas calas del norte admiten perros fuera de temporada alta, el interior boscoso de pinos es mucho más tranquilo que el sur, y Ibiza fuera de temporada es realmente relajante para perros.`,

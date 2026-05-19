@@ -8339,6 +8339,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ibiza: {
+    history: {
+      fr: `Fondée par les Phéniciens vers 654 av. J.-C. sous le nom d'Ibossim, l'actuelle Ibiza (Eivissa en catalan) fut tour à tour carthaginoise, romaine, byzantine et arabe avant la conquête catalane de 1235. Sa vieille ville fortifiée Dalt Vila, classée à l'UNESCO depuis 1999, conserve la plus belle enceinte Renaissance encore intacte du bassin méditerranéen, construite au XVIe siècle pour résister aux corsaires barbaresques. Capitale de l'île homonyme des Baléares (50 000 habitants à l'année, multipliés par dix en juillet-août), Ibiza est mondialement connue pour ses clubs, mais conserve un visage tout autre hors saison : pinèdes, criques discrètes, intérieur agricole et une vie de quartier où les chiens accompagnent leurs propriétaires aux terrasses de Sa Penya et Sa Marina. Pour le voyageur canin, la fenêtre idéale est avril-mai ou octobre-novembre : températures clémentes, plages encore ou de nouveau accessibles aux chiens, et tarifs raisonnables. L'été (15 mai-15 octobre) impose l'interdiction des chiens sur la quasi-totalité des plages et une chaleur dangereuse pour les coussinets sur les pavés brûlants de Dalt Vila.`,
+      en: `Founded by the Phoenicians around 654 BCE as Ibossim, present-day Ibiza (Eivissa in Catalan) passed through Carthaginian, Roman, Byzantine and Arab hands before the Catalan conquest of 1235. Its fortified old town Dalt Vila, UNESCO-listed since 1999, preserves the finest intact Renaissance ramparts in the Mediterranean basin, built in the 16th century to resist Barbary corsairs. Capital of the namesake Balearic island (50,000 year-round residents, multiplied tenfold in July-August), Ibiza is globally known for its clubs but reveals an entirely different face off-season: pine forests, hidden coves, an agricultural interior and a neighbourhood rhythm where dogs accompany their owners to the harbour terraces of Sa Penya and Sa Marina. For the canine traveller, the sweet spot is April-May or October-November: gentle temperatures, beaches still or once again open to dogs, and reasonable rates. Summer (15 May-15 October) imposes a near-total dog ban on beaches and dangerously hot cobblestones in Dalt Vila that can burn paws.`,
+      es: `Fundada por los fenicios hacia 654 a.C. como Ibossim, la actual Ibiza (Eivissa en catalán) pasó por manos cartaginesas, romanas, bizantinas y árabes antes de la conquista catalana de 1235. Su casco antiguo fortificado de Dalt Vila, Patrimonio de la UNESCO desde 1999, conserva las mejores murallas renacentistas intactas del Mediterráneo, construidas en el siglo XVI para resistir a los corsarios berberiscos. Capital de la isla balear homónima (50.000 habitantes durante todo el año, multiplicados por diez en julio-agosto), Ibiza es conocida mundialmente por sus clubes, pero revela otra cara fuera de temporada: pinares, calas escondidas, un interior agrícola y una vida de barrio donde los perros acompañan a sus dueños a las terrazas portuarias de Sa Penya y Sa Marina. Para el viajero canino, la ventana ideal es abril-mayo u octubre-noviembre: temperaturas suaves, playas aún o de nuevo accesibles a los perros, y tarifas razonables. El verano (15 mayo-15 octubre) impone la prohibición casi total de perros en las playas y un calor peligroso para las almohadillas sobre los adoquines ardientes de Dalt Vila.`,
+      pt: `Fundada pelos fenícios por volta de 654 a.C. como Ibossim, a atual Ibiza (Eivissa em catalão) passou pelas mãos cartaginesas, romanas, bizantinas e árabes antes da conquista catalã de 1235. O seu centro histórico fortificado de Dalt Vila, classificado pela UNESCO desde 1999, preserva as melhores muralhas renascentistas intactas do Mediterrâneo, construídas no século XVI para resistir aos corsários berberes. Capital da ilha balear homónima (50.000 habitantes durante todo o ano, multiplicados por dez em julho-agosto), Ibiza é mundialmente conhecida pelos seus clubes, mas revela outra face fora de época: pinhais, enseadas escondidas, um interior agrícola e uma vida de bairro onde os cães acompanham os seus donos nas esplanadas portuárias de Sa Penya e Sa Marina. Para o viajante canino, a janela ideal é abril-maio ou outubro-novembro: temperaturas suaves, praias ainda ou de novo abertas aos cães, e tarifas razoáveis. O verão (15 maio-15 outubro) impõe a proibição quase total de cães nas praias e um calor perigoso para as almofadas das patas sobre os paralelepípedos escaldantes de Dalt Vila.`,
+    },
+    sights: [
+      {
+        name: `Dalt Vila`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Vieille ville fortifiée du XVIe siècle classée à l'UNESCO depuis 1999, perchée sur la colline qui domine le port. Les chiens en laisse sont les bienvenus dans les ruelles pavées, sur les remparts panoramiques et autour de la cathédrale Santa María, mais attention l'été : les pierres absorbent la chaleur dès 11h, prévoyez la balade tôt le matin ou après 19h.`,
+          en: `Fortified 16th-century old town UNESCO-listed since 1999, perched on the hill above the harbour. Leashed dogs are welcome in the cobbled alleys, on the panoramic ramparts and around Santa María cathedral, but mind the summer heat: stones absorb heat from 11am onwards, so walk early morning or after 7pm.`,
+          es: `Casco antiguo fortificado del siglo XVI declarado Patrimonio de la UNESCO desde 1999, encaramado en la colina que domina el puerto. Los perros con correa son bienvenidos en las callejuelas adoquinadas, en las murallas panorámicas y en torno a la catedral de Santa María, pero cuidado con el calor estival: las piedras absorben el calor desde las 11h, pasea temprano o después de las 19h.`,
+          pt: `Centro histórico fortificado do século XVI classificado pela UNESCO desde 1999, no alto da colina que domina o porto. Os cães com trela são bem-vindos nas ruelas empedradas, nas muralhas panorâmicas e em redor da catedral de Santa María, mas atenção ao calor de verão: as pedras absorvem o calor a partir das 11h, passeie cedo de manhã ou depois das 19h.`,
+        },
+      },
+      {
+        name: `Sa Penya & Sa Marina`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Les deux quartiers du port d'Ibiza Town, pieds dans l'eau au pied de Dalt Vila. Sa Marina aligne ses terrasses face aux yachts, Sa Penya conserve un caractère plus populaire avec ses ruelles de pêcheurs. Les chiens y sont visibles partout, les bars locaux (pas les clubs) sortent les gamelles d'eau, et la promenade du port offre une balade plate idéale au coucher du soleil.`,
+          en: `The two harbour neighbourhoods of Ibiza Town, hugging the water at the foot of Dalt Vila. Sa Marina lines its terraces facing the yachts, Sa Penya keeps a more working-class character with its fishermen's lanes. Dogs are visible everywhere, local bars (not the clubs) put out water bowls, and the harbour promenade offers a flat sunset stroll.`,
+          es: `Los dos barrios portuarios de Ibiza Town, a pie de agua bajo Dalt Vila. Sa Marina alinea sus terrazas frente a los yates, Sa Penya conserva un carácter más popular con sus callejones de pescadores. Los perros se ven por todas partes, los bares locales (no los clubes) sacan cuencos de agua, y el paseo marítimo ofrece un paseo llano ideal al atardecer.`,
+          pt: `Os dois bairros portuários de Ibiza Town, à beira-mar ao pé de Dalt Vila. Sa Marina alinha as suas esplanadas frente aos iates, Sa Penya conserva um carácter mais popular com as suas vielas de pescadores. Os cães vêem-se por toda a parte, os bares locais (não os clubes) põem tigelas de água, e o passeio marítimo oferece uma caminhada plana ideal ao pôr do sol.`,
+        },
+      },
+      {
+        name: `Ses Salines Natural Park`,
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Réserve naturelle protégée de 3 000 hectares au sud de l'île, salines en activité depuis l'époque phénicienne et habitat des flamants roses. Sentiers plats, ombre des pins en plusieurs sections, chiens admis en laisse hors zone de baignade publique. Idéal pour une longue marche d'octobre à avril, à éviter en plein été en raison de l'absence d'eau potable sur les sentiers.`,
+          en: `Protected 3,000-hectare nature reserve in the south of the island, salt flats active since Phoenician times and home to pink flamingos. Flat trails, pine shade in several sections, dogs allowed on leash outside the public swimming areas. Ideal for a long walk from October to April, avoid in midsummer due to the absence of drinkable water on trails.`,
+          es: `Reserva natural protegida de 3.000 hectáreas en el sur de la isla, salinas activas desde la época fenicia y hábitat de los flamencos rosados. Senderos llanos, sombra de pinos en varios tramos, perros admitidos con correa fuera de las zonas de baño público. Ideal para una caminata larga de octubre a abril, evitar en pleno verano por la ausencia de agua potable en los senderos.`,
+          pt: `Reserva natural protegida de 3.000 hectares no sul da ilha, salinas ativas desde a época fenícia e habitat dos flamingos cor-de-rosa. Trilhos planos, sombra de pinheiros em vários troços, cães admitidos com trela fora das zonas de banho público. Ideal para uma caminhada longa de outubro a abril, evitar em pleno verão pela ausência de água potável nos trilhos.`,
+        },
+      },
+      {
+        name: `Cala Nova`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage canine officielle d'Ibiza ouverte toute l'année, sur la côte est près de Santa Eulalia (à 20 min en voiture du centre). Sable doré, eau calme, et le rare statut de pouvoir s'y rendre avec son chien en plein juillet sans enfreindre l'interdiction du 15 mai-15 octobre qui frappe la quasi-totalité des autres plages de l'île.`,
+          en: `Official year-round dog beach of Ibiza, on the east coast near Santa Eulalia (20 min by car from Ibiza Town). Golden sand, calm water, and the rare privilege of being able to go with your dog in July without violating the 15 May-15 October ban that hits nearly every other beach on the island.`,
+          es: `Playa canina oficial de Ibiza abierta todo el año, en la costa este cerca de Santa Eulalia (a 20 min en coche del centro). Arena dorada, agua tranquila, y el raro estatus de poder ir con tu perro en pleno julio sin infringir la prohibición del 15 mayo-15 octubre que afecta a casi todas las demás playas de la isla.`,
+          pt: `Praia canina oficial de Ibiza aberta todo o ano, na costa leste perto de Santa Eulalia (a 20 min de carro do centro). Areia dourada, água calma, e o raro privilégio de poder ir com o seu cão em pleno julho sem infringir a proibição de 15 maio-15 outubro que atinge quase todas as outras praias da ilha.`,
+        },
+      },
+      {
+        name: `Cala d'Hort & Es Vedrà`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Petite crique du sud-ouest face au rocher mythique d'Es Vedrà, qui jaillit de la mer à 380 m de hauteur. Hors saison estivale, la balade de la corniche et les sentiers du mirador sont tolérés aux chiens en laisse. L'un des plus beaux couchers de soleil des Baléares, et un endroit qui contredit le cliché clubbing de l'île.`,
+          en: `Small southwestern cove facing the mythical Es Vedrà rock, rising 380m straight out of the sea. Outside summer ban, the coastal path and viewpoint trails tolerate leashed dogs. One of the most beautiful sunsets in the Balearics, and a place that puts the clubbing cliché of the island in perspective.`,
+          es: `Pequeña cala del suroeste frente al mítico peñón de Es Vedrà, que se eleva 380 m sobre el mar. Fuera de la temporada estival, el paseo costero y los senderos del mirador toleran perros con correa. Una de las puestas de sol más bellas de Baleares, y un lugar que contradice el tópico clubbing de la isla.`,
+          pt: `Pequena enseada a sudoeste frente ao mítico rochedo de Es Vedrà, que se eleva 380 m diretamente do mar. Fora da época estival, o passeio costeiro e os trilhos do miradouro toleram cães com trela. Um dos mais belos pores do sol das Baleares, e um lugar que contradiz o cliché clubbing da ilha.`,
+        },
+      },
+      {
+        name: `Formentera Ferry`,
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Trois compagnies (Aquabus, Trasmapi, Balearia) relient Ibiza Town à Formentera en 30-45 min toute l'année. Les chiens voyagent sur le pont extérieur (gratuit ou supplément 5-10 €) ou en cabine selon la compagnie. Formentera est nettement plus dog-relax qu'Ibiza, plusieurs plages tolérantes hors saison, idéal pour une journée hors du tumulte estival ibicenco.`,
+          en: `Three ferry companies (Aquabus, Trasmapi, Balearia) connect Ibiza Town to Formentera in 30-45 min year-round. Dogs travel on the open outdoor deck (free or €5-10 supplement) or in cabins depending on the company. Formentera is markedly more dog-relaxed than Ibiza, several tolerant beaches off-season, ideal for a day away from the summer Ibiza tumult.`,
+          es: `Tres compañías (Aquabus, Trasmapi, Balearia) conectan Ibiza Town con Formentera en 30-45 min todo el año. Los perros viajan en cubierta exterior (gratis o suplemento 5-10 €) o en camarote según la compañía. Formentera es claramente más dog-relax que Ibiza, varias playas tolerantes fuera de temporada, ideal para una jornada lejos del bullicio estival ibicenco.`,
+          pt: `Três companhias (Aquabus, Trasmapi, Balearia) ligam Ibiza Town a Formentera em 30-45 min todo o ano. Os cães viajam no convés exterior (gratuito ou suplemento 5-10 €) ou em camarote consoante a companhia. Formentera é claramente mais dog-relaxada que Ibiza, várias praias tolerantes fora de época, ideal para um dia longe do bulício estival ibicenco.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction des chiens sur la quasi-totalité des plages d'Ibiza du 15 mai au 15 octobre. Seule Cala Nova (côte est, près de Santa Eulalia) reste officiellement plage canine toute l'année.`,
+        `Bus TIB (réseau insulaire) : petits chiens en caisse de transport admis gratuitement, gros chiens à la discrétion du chauffeur et souvent refusés en juillet-août. Préférez la voiture ou le taxi en haute saison.`,
+        `Été brutal pour les chiens : 28-32°C l'après-midi, pavés de Dalt Vila brûlants, prévoyez les sorties avant 10h et après 20h. Évitez carrément l'île en juillet-août si possible, privilégiez avril-mai ou octobre-novembre.`,
+        `Urgences vétérinaires 24h/24 : Hospital Veterinario Ibiza à Sant Antoni (+34 971 19 50 50, ouvert 24/7) et Clínica Veterinaria del Mar à Ibiza Town pour les heures ouvrées.`,
+        `Ferry pour Formentera : Aquabus, Trasmapi et Balearia acceptent les chiens (pont extérieur gratuit ou supplément, cabine selon compagnie). Formentera est l'île baléare la plus dog-relax, parfaite pour un day trip hors saison.`,
+      ],
+      en: [
+        `Dogs banned from nearly all Ibiza beaches from 15 May to 15 October. Only Cala Nova (east coast, near Santa Eulalia) is the official year-round dog beach.`,
+        `TIB buses (island network): small dogs in carriers travel free, large dogs at driver's discretion and often refused in July-August. Prefer car or taxi in high season.`,
+        `Brutal summer for dogs: 28-32°C in the afternoon, scorching Dalt Vila cobbles, plan walks before 10am and after 8pm. Outright avoid the island in July-August if possible, prioritise April-May or October-November.`,
+        `24/7 emergency vets: Hospital Veterinario Ibiza in Sant Antoni (+34 971 19 50 50, open 24/7) and Clínica Veterinaria del Mar in Ibiza Town for daytime hours.`,
+        `Formentera ferry: Aquabus, Trasmapi and Balearia accept dogs (open deck free or supplement, cabin depending on company). Formentera is the most dog-relaxed Balearic island, perfect for an off-season day trip.`,
+      ],
+      es: [
+        `Prohibición de perros en casi todas las playas de Ibiza del 15 de mayo al 15 de octubre. Solo Cala Nova (costa este, cerca de Santa Eulalia) es la playa canina oficial todo el año.`,
+        `Autobuses TIB (red insular): perros pequeños en transportín admitidos gratis, perros grandes a discreción del conductor y a menudo rechazados en julio-agosto. Mejor coche o taxi en temporada alta.`,
+        `Verano brutal para los perros: 28-32°C por la tarde, adoquines ardientes en Dalt Vila, planifica los paseos antes de las 10h y después de las 20h. Evita directamente la isla en julio-agosto si es posible, prioriza abril-mayo u octubre-noviembre.`,
+        `Urgencias veterinarias 24h: Hospital Veterinario Ibiza en Sant Antoni (+34 971 19 50 50, abierto 24/7) y Clínica Veterinaria del Mar en Ibiza Town en horario diurno.`,
+        `Ferry a Formentera: Aquabus, Trasmapi y Balearia aceptan perros (cubierta exterior gratis o suplemento, camarote según compañía). Formentera es la isla balear más dog-relax, perfecta para una excursión fuera de temporada.`,
+      ],
+      pt: [
+        `Proibição de cães em quase todas as praias de Ibiza de 15 de maio a 15 de outubro. Só Cala Nova (costa leste, perto de Santa Eulalia) é a praia canina oficial durante todo o ano.`,
+        `Autocarros TIB (rede insular): cães pequenos em transportadora admitidos gratuitamente, cães grandes ao critério do condutor e frequentemente recusados em julho-agosto. Prefira carro ou táxi em época alta.`,
+        `Verão brutal para os cães: 28-32°C à tarde, paralelepípedos escaldantes em Dalt Vila, planeie passeios antes das 10h e depois das 20h. Evite mesmo a ilha em julho-agosto se possível, prioritize abril-maio ou outubro-novembro.`,
+        `Urgências veterinárias 24h: Hospital Veterinario Ibiza em Sant Antoni (+34 971 19 50 50, aberto 24/7) e Clínica Veterinaria del Mar em Ibiza Town em horário diurno.`,
+        `Ferry para Formentera: Aquabus, Trasmapi e Balearia aceitam cães (convés exterior gratuito ou suplemento, camarote consoante a companhia). Formentera é a ilha balear mais dog-relaxada, perfeita para uma excursão fora de época.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Ibiza (IBZ) à 7 km au sud-ouest du centre, accessible par bus L10 (3,50 €) ou taxi (~20 €) en 15 min. Vols directs depuis la plupart des hubs européens.`,
+        `Meilleures saisons : avril-mai et octobre-novembre. Évitez juillet-août (interdiction plages, chaleur, foule, prix x3).`,
+        `Urgence vétérinaire 24h/24 : Hospital Veterinario Ibiza, Carrer de Cervantes 8, Sant Antoni de Portmany, +34 971 19 50 50.`,
+        `Ferry pour Formentera depuis Ibiza Town : Aquabus, Trasmapi, Balearia, 30-45 min, fréquences toutes les 30-60 min en haute saison, 5-10 € pour le chien selon compagnie.`,
+        `Beaucoup de logements pet-friendly à Ibiza sont des fincas rurales (maisons rurales) plutôt que des hôtels classiques, particulièrement adaptés aux chiens grâce aux terrains clos et au calme du centre de l'île.`,
+      ],
+      en: [
+        `Ibiza Airport (IBZ) is 7 km southwest of the centre, accessible by bus L10 (€3.50) or taxi (~€20) in 15 min. Direct flights from most European hubs.`,
+        `Best seasons: April-May and October-November. Avoid July-August (beach ban, heat, crowds, 3× prices).`,
+        `24/7 emergency vet: Hospital Veterinario Ibiza, Carrer de Cervantes 8, Sant Antoni de Portmany, +34 971 19 50 50.`,
+        `Ferry to Formentera from Ibiza Town: Aquabus, Trasmapi, Balearia, 30-45 min, every 30-60 min in high season, €5-10 for the dog depending on company.`,
+        `Many pet-friendly stays in Ibiza are rural fincas (country houses) rather than classic hotels, particularly suited to dogs thanks to enclosed grounds and the quiet of the island interior.`,
+      ],
+      es: [
+        `Aeropuerto de Ibiza (IBZ) a 7 km al suroeste del centro, accesible por autobús L10 (3,50 €) o taxi (~20 €) en 15 min. Vuelos directos desde la mayoría de hubs europeos.`,
+        `Mejores temporadas: abril-mayo y octubre-noviembre. Evita julio-agosto (prohibición de playa, calor, multitudes, precios x3).`,
+        `Urgencia veterinaria 24h: Hospital Veterinario Ibiza, Carrer de Cervantes 8, Sant Antoni de Portmany, +34 971 19 50 50.`,
+        `Ferry a Formentera desde Ibiza Town: Aquabus, Trasmapi, Balearia, 30-45 min, cada 30-60 min en temporada alta, 5-10 € para el perro según compañía.`,
+        `Muchos alojamientos pet-friendly en Ibiza son fincas rurales en lugar de hoteles clásicos, particularmente adecuados para perros gracias a sus terrenos cercados y al calma del interior de la isla.`,
+      ],
+      pt: [
+        `Aeroporto de Ibiza (IBZ) a 7 km a sudoeste do centro, acessível por autocarro L10 (3,50 €) ou táxi (~20 €) em 15 min. Voos diretos a partir da maioria dos hubs europeus.`,
+        `Melhores épocas: abril-maio e outubro-novembro. Evite julho-agosto (proibição de praia, calor, multidões, preços x3).`,
+        `Urgência veterinária 24h: Hospital Veterinario Ibiza, Carrer de Cervantes 8, Sant Antoni de Portmany, +34 971 19 50 50.`,
+        `Ferry para Formentera a partir de Ibiza Town: Aquabus, Trasmapi, Balearia, 30-45 min, cada 30-60 min em época alta, 5-10 € para o cão consoante a companhia.`,
+        `Muitos alojamentos pet-friendly em Ibiza são fincas rurais em vez de hotéis clássicos, particularmente adequados aos cães graças aos seus terrenos vedados e à tranquilidade do interior da ilha.`,
+      ],
+    },
+  },
+
   innsbruck: {
     history: {
       fr: `Innsbruck, fondée vers 1187 au confluent de l'Inn et de la Sill, fut pendant trois siècles capitale du Tyrol et résidence préférée de l'empereur Maximilien Ier (qui y commanda le Goldenes Dachl, l'oriel doré de 1500). Aujourd'hui ville universitaire de 130 000 habitants, capitale culturelle du Tyrol et deux fois ville olympique d'hiver (1964, 1976), Innsbruck combine un cœur historique pavé Renaissance avec un environnement alpin spectaculaire, la chaîne du Nordkette à 2 300 m est accessible em téléphérique depuis la place du Congrès en 25 minutes. Pour les propriétaires de chiens, Innsbruck est l'une des villes alpines les plus pratiques : transports publics gratuits sur tout le réseau IVB (trams + bus + funiculaire Hungerburgbahn), 8 forêts urbaines accessibles à pied, téléphériques dog-friendly jusqu'à 2 256 m (Hafelekar), tradition café et Gasthaus tyrolienne qui accueille naturellement les chiens, et clinique vétérinaire 24h/24 (AniCura) em plein centre. La saison laisse autrichienne (1er mars-31 juillet) protège les oiseaux nicheurs sur les sentiers de montagne ; le reste de l'année, les chiens courent sans laisse em montagne avec un bon rappel.`,

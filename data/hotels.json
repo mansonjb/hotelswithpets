@@ -9639,6 +9639,130 @@
     "slug": "marin-dream-hotel-heraklion"
   },
   {
+    "id": "ibiza-1",
+    "name": "Hotel Mirador de Dalt Vila",
+    "destinationSlug": "ibiza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 412,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/mirador-de-dalt-vila.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Mirador de Dalt Vila welcomes well-behaved pets in this Relais & Châteaux 17th-century palace inside the UNESCO walled old town. Pets accepted on request with a €25 per night fee. Owners must keep dogs on leash in common areas and the rooftop pool deck is off-limits for pets. Bowls and bedding can be requested in advance.",
+    "highlights": [
+      "17th-century palace inside UNESCO Dalt Vila",
+      "Rooftop pool with panoramic harbour view",
+      "Michelin-recommended restaurant on terrace"
+    ],
+    "slug": "hotel-mirador-de-dalt-vila"
+  },
+  {
+    "id": "ibiza-2",
+    "name": "El Hotel Pacha",
+    "destinationSlug": "ibiza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1850,
+    "priceFrom": 240,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/el-hotel.html",
+    "petFee": 30,
+    "petPolicy": "El Hotel Pacha accepts pets with a €30 per stay fee. Pets are allowed in designated ground-floor rooms with terrace access. Owners must declare pets at booking and pets must remain on leash in all public areas. The hotel provides water bowls on request and a small lawn for short walks.",
+    "highlights": [
+      "Across from Pacha club and Ibiza marina",
+      "Outdoor pool and chillout terrace",
+      "Walking distance to Sa Marina restaurants"
+    ],
+    "slug": "el-hotel-pacha"
+  },
+  {
+    "id": "ibiza-3",
+    "name": "Sir Joan Hotel",
+    "destinationSlug": "ibiza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 920,
+    "priceFrom": 380,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/sir-joan.html",
+    "petFee": 35,
+    "petPolicy": "Sir Joan Hotel welcomes pets up to 15 kg with a €35 per night fee. Located on the Ibiza Town harbour facing Dalt Vila, the property offers a pet amenity package (bowl, mat, treats) on arrival. Pets must be supervised in common areas and are not allowed in the restaurant or spa, but the harbour promenade outside the door is perfect for walks.",
+    "highlights": [
+      "Harbour-front boutique design hotel",
+      "Direct view of Dalt Vila ramparts",
+      "Marina district 2 min walk to Sa Marina bars"
+    ],
+    "slug": "sir-joan-hotel"
+  },
+  {
+    "id": "ibiza-4",
+    "name": "Aguas de Ibiza Grand Luxe Hotel",
+    "destinationSlug": "ibiza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1340,
+    "priceFrom": 350,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/aguas-de-ibiza.html",
+    "petFee": 40,
+    "petPolicy": "Aguas de Ibiza Grand Luxe accepts pets up to 10 kg with a €40 per night cleaning fee. Located in Santa Eulalia 15 min by car from Ibiza Town, the hotel sits 10 min walk from Cala Nova, the year-round official dog beach. Pets allowed in selected rooms with terraces, on leash in common areas, not allowed in pool or spa.",
+    "highlights": [
+      "Santa Eulalia waterfront, 10 min walk to Cala Nova dog beach",
+      "Award-winning Revival Spa",
+      "Quieter than Ibiza Town clubbing zones"
+    ],
+    "slug": "aguas-de-ibiza-grand-luxe-hotel"
+  },
+  {
+    "id": "ibiza-5",
+    "name": "Hotel La Ventana",
+    "destinationSlug": "ibiza",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 680,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/la-ventana.html",
+    "petFee": 15,
+    "petPolicy": "Hotel La Ventana welcomes small to medium pets in this 15th-century Dalt Vila townhouse converted into a boutique. €15 per night pet fee. Pets must use the stairs (no lift) and remain on leash inside the building. The narrow cobbled lanes around the hotel are ideal for short morning walks before the summer heat hits the stones.",
+    "highlights": [
+      "Inside Dalt Vila UNESCO old town",
+      "Romantic 15th-century townhouse",
+      "Panoramic terrace over Ibiza harbour"
+    ],
+    "slug": "hotel-la-ventana"
+  },
+  {
     "id": "innsbruck-1",
     "name": "Hotel Innsbruck",
     "destinationSlug": "innsbruck",

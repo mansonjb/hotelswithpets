@@ -17,7 +17,7 @@ const PROMO_ID = '3414'
 const CAMPAIGN_ID = '111'
 
 const LOCALE_CURRENCY: Record<string, string> = {
-  en: 'eur',
+  en: 'usd',
   fr: 'eur',
   es: 'eur',
   pt: 'eur',

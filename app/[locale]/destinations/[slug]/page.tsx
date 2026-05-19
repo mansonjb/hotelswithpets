@@ -8,6 +8,7 @@ import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionari
 import HotelCard from '@/components/HotelCard'
 import PetMap from '@/components/PetMap'
 import TravelpayoutsFlightWidget from '@/components/TravelpayoutsFlightWidget'
+import TiqetsActivityWidget from '@/components/TiqetsActivityWidget'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -449,7 +450,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
               {/* Sights */}
               <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{sightsTitle}</h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
                 {cc.sights.map((sight) => (
                   <div key={sight.name} className="bg-gray-50 rounded-2xl p-5 border border-gray-100">
                     <div className="flex items-start gap-3 mb-2">
@@ -467,6 +468,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   </div>
                 ))}
               </div>
+
+              {/* Tiqets top-rated activities widget (only renders if we have a Tiqets city ID) */}
+              {(dest as typeof dest & { tiqetsId?: string }).tiqetsId && (
+                <div className="mb-12 -mx-4 sm:-mx-6 lg:-mx-8">
+                  <TiqetsActivityWidget
+                    tiqetsCityId={(dest as typeof dest & { tiqetsId: string }).tiqetsId}
+                    locale={locale}
+                    cityName={localizedName}
+                  />
+                </div>
+              )}
 
               {/* Pet tips + Practical side by side */}
               <div className="grid md:grid-cols-2 gap-8">

@@ -120,6 +120,7 @@ const TARGETS = [
   { slug: 'cardiff', query: 'Cardiff Castle Wales city centre Bute Park River Taff panorama' },
   { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },
   { slug: 'malmo', query: 'Malmö Sweden Turning Torso skyline Western Harbour Øresund coastline panorama sunset' },
+  { slug: 'valletta', query: 'Valletta Malta Grand Harbour Upper Barrakka Gardens sunset panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

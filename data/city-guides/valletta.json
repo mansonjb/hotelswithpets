@@ -1,0 +1,914 @@
+{
+  "slug": "valletta",
+  "name": "Valletta",
+  "country": "Malta",
+  "flag": "🇲🇹",
+  "lastUpdated": "2026-05-20",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Valletta",
+      "titleFr": "Restaurants acceptant les animaux à La Valette",
+      "titleEs": "Restaurantes con mascotas en La Valeta",
+      "titlePt": "Restaurantes com animais em Valletta",
+      "introEn": "Valletta's restaurant scene is concentrated within the UNESCO-listed peninsula, with most pet-friendly spots clustered along Strait Street, Old Bakery Street and the waterfront in the neighbouring towns of Sliema and St Julian's. Maltese hospitality is naturally tolerant of well-behaved dogs on outdoor terraces, especially around Marsamxett and Grand Harbour, where the limestone facades and sea breeze make for some of the Mediterranean's most atmospheric al-fresco dining. Summer heat (often 32–35°C from June to September) means evening dining is the only realistic option with a dog; reserve a shaded terrace and avoid lunchtime entirely.",
+      "introFr": "La scène gastronomique de La Valette se concentre dans la péninsule classée UNESCO, avec la plupart des établissements pet-friendly regroupés autour de Strait Street, Old Bakery Street et du front de mer des villes voisines de Sliema et St Julian's. L'hospitalité maltaise tolère naturellement les chiens bien éduqués sur les terrasses extérieures, en particulier autour de Marsamxett et du Grand Port. La chaleur estivale (souvent 32–35°C de juin à septembre) impose le dîner du soir comme seule option réaliste avec un chien.",
+      "introEs": "La escena gastronómica de La Valeta se concentra dentro de la península declarada Patrimonio de la Humanidad, con la mayoría de locales pet-friendly agrupados a lo largo de Strait Street, Old Bakery Street y los paseos marítimos de las ciudades vecinas de Sliema y St Julian's. La hospitalidad maltesa tolera naturalmente a los perros bien educados en terrazas exteriores. El calor estival (a menudo 32–35°C de junio a septiembre) hace que la cena nocturna sea la única opción realista con un perro.",
+      "introPt": "A cena gastronómica de Valletta concentra-se na península classificada pela UNESCO, com a maioria dos locais pet-friendly agrupados ao longo de Strait Street, Old Bakery Street e das frentes marítimas das cidades vizinhas de Sliema e St Julian's. A hospitalidade maltesa tolera naturalmente os cães bem educados nas esplanadas exteriores. O calor estival (frequentemente 32–35°C de junho a setembro) faz com que o jantar noturno seja a única opção realista com um cão.",
+      "places": [
+        {
+          "name": "Trabuxu Bistro",
+          "address": "8-9 South Street, Valletta",
+          "neighborhood": "Valletta historic centre",
+          "photo": "/images/city-places/valletta-restaurants-trabuxu-bistro.jpg",
+          "website": "https://trabuxu.com.mt/",
+          "description": "A long-standing Valletta favourite housed in a 400-year-old building with an open-air courtyard set into the side street, where well-behaved dogs are welcome at outdoor tables. The kitchen focuses on Maltese-Mediterranean small plates, fresh fish, rabbit (fenkata) and an extensive Maltese wine list. The shaded courtyard is one of the few cool dining spots in central Valletta on a hot evening.",
+          "descriptionFr": "Une adresse historique de La Valette installée dans un bâtiment de 400 ans avec une cour extérieure en retrait de la rue où les chiens bien élevés sont acceptés aux tables extérieures. La cuisine se concentre sur les petites assiettes maltaises et méditerranéennes, le poisson frais, le lapin (fenkata) et une longue carte de vins maltais.",
+          "descriptionEs": "Un clásico de La Valeta ubicado en un edificio de 400 años con un patio exterior en una calle lateral donde los perros bien educados son admitidos en mesas exteriores. La cocina se centra en raciones maltesas-mediterráneas, pescado fresco, conejo (fenkata) y una amplia carta de vinos malteses.",
+          "descriptionPt": "Um clássico de Valletta instalado num edifício de 400 anos com um pátio exterior numa rua lateral onde os cães bem-educados são admitidos nas mesas exteriores. A cozinha foca-se em pequenas pratos malteses-mediterrânicos, peixe fresco, coelho (fenkata) e uma extensa carta de vinhos malteses.",
+          "petPolicy": "Dogs welcome at outdoor courtyard tables",
+          "petPolicyFr": "Chiens acceptés en cour extérieure",
+          "petPolicyEs": "Perros admitidos en patio exterior",
+          "petPolicyPt": "Cães admitidos no pátio exterior",
+          "priceRange": "€€",
+          "mustTry": "Rabbit stew (stuffat tal-fenek), Gozitan ravioli, local Marsovin wine",
+          "mustTryFr": "Lapin en sauce (stuffat tal-fenek), ravioli de Gozo, vin Marsovin local",
+          "mustTryEs": "Estofado de conejo (stuffat tal-fenek), ravioli de Gozo, vino Marsovin local",
+          "mustTryPt": "Estufado de coelho (stuffat tal-fenek), ravióli de Gozo, vinho Marsovin local",
+          "openingHours": "Tue–Sun 18:30–23:00, closed Monday",
+          "tip": "The courtyard is reservation-only on weekends, book 48h ahead in summer and request the corner table near the well for the best shade.",
+          "tipFr": "La cour est uniquement sur réservation le week-end, réservez 48h à l'avance en été et demandez la table d'angle près du puits pour la meilleure ombre.",
+          "tipEs": "El patio es solo con reserva los fines de semana, reserva 48h antes en verano y pide la mesa de esquina junto al pozo para la mejor sombra.",
+          "tipPt": "O pátio é apenas com reserva aos fins de semana, reserve 48h antes no verão e peça a mesa de canto junto ao poço para a melhor sombra.",
+          "googleMapsUrl": "https://maps.google.com/?q=Trabuxu+Bistro+Valletta"
+        },
+        {
+          "name": "Bridge Bar",
+          "address": "256 Saint Ursula Street, Valletta",
+          "neighborhood": "Valletta lower town",
+          "photo": "/images/city-places/valletta-restaurants-bridge-bar.jpg",
+          "website": "https://www.facebook.com/thebridgebarvalletta/",
+          "description": "An informal outdoor wine bar built into the limestone staircase at the south end of Valletta, with cushions on the steps and tables spilling onto Saint Ursula Street. Dogs are welcome anywhere outdoors. The Friday-night live jazz is a Valletta institution. The kitchen is small (cheese and cured-meat platters, dips, Maltese ftira sandwiches) but the setting is the point.",
+          "descriptionFr": "Un bar à vins informel installé sur l'escalier de calcaire à l'extrémité sud de La Valette, avec des coussins sur les marches et des tables s'étendant sur Saint Ursula Street. Les chiens sont les bienvenus en extérieur. Le jazz live du vendredi soir est une institution.",
+          "descriptionEs": "Un bar de vinos informal instalado en la escalinata de piedra caliza al extremo sur de La Valeta, con cojines en los escalones y mesas en Saint Ursula Street. Los perros son bienvenidos en exterior. El jazz en vivo del viernes es una institución.",
+          "descriptionPt": "Um bar de vinhos informal instalado na escadaria de calcário no extremo sul de Valletta, com almofadas nos degraus e mesas a estender-se pela Saint Ursula Street. Os cães são bem-vindos em exterior. O jazz ao vivo de sexta-feira é uma instituição.",
+          "petPolicy": "Dogs welcome on the steps and outdoor tables",
+          "petPolicyFr": "Chiens acceptés dans l'escalier et tables extérieures",
+          "petPolicyEs": "Perros admitidos en las escaleras y mesas exteriores",
+          "petPolicyPt": "Cães admitidos nos degraus e mesas exteriores",
+          "priceRange": "€",
+          "mustTry": "Maltese platter (gbejna cheese, bigilla, galletti), house red",
+          "mustTryFr": "Assiette maltaise (fromage gbejna, bigilla, galletti), rouge maison",
+          "mustTryEs": "Tabla maltesa (queso gbejna, bigilla, galletti), tinto de la casa",
+          "mustTryPt": "Tábua maltesa (queijo gbejna, bigilla, galletti), tinto da casa",
+          "openingHours": "Mon–Sun 18:00–01:00",
+          "tip": "Arrive before 20:00 on Friday to claim a step before the jazz crowd, and bring a folded blanket if your dog dislikes warm limestone.",
+          "tipFr": "Arrivez avant 20h le vendredi pour avoir une marche avant la foule du jazz, et apportez une couverture pliée si votre chien n'aime pas le calcaire chaud.",
+          "tipEs": "Llega antes de las 20:00 el viernes para conseguir un escalón antes de la multitud del jazz, y trae una manta plegada si a tu perro le incomoda la piedra caliente.",
+          "tipPt": "Chegue antes das 20:00 à sexta-feira para conseguir um degrau antes da multidão do jazz, e leve uma manta dobrada se o seu cão não gostar do calcário quente.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bridge+Bar+Saint+Ursula+Street+Valletta"
+        },
+        {
+          "name": "Piadina Caffe",
+          "address": "Saint John Street, Valletta",
+          "neighborhood": "Saint John's Co-Cathedral area",
+          "photo": "/images/city-places/valletta-restaurants-piadina-caffe.jpg",
+          "website": "https://www.facebook.com/piadinacaffevalletta/",
+          "description": "A casual Italian piadineria on the pedestrianised Saint John Street, just steps from the cathedral. Tables spill onto the street and dogs are welcome at all of them. The piadine and salads are made to order and the espresso is among the best in Valletta. A reliable, fast option for lunch with a dog when you do not want to commit to a full sit-down meal.",
+          "descriptionFr": "Une piadineria italienne décontractée sur la Saint John Street piétonne, à deux pas de la cathédrale. Les tables s'étendent dans la rue et les chiens y sont admis. Les piadine et salades sont faites à la commande et l'espresso est l'un des meilleurs de La Valette.",
+          "descriptionEs": "Una piadineria italiana informal en la peatonal Saint John Street, a un paso de la catedral. Las mesas se extienden a la calle y los perros son admitidos. Las piadine y ensaladas se hacen al momento y el espresso es de los mejores de La Valeta.",
+          "descriptionPt": "Uma piadineria italiana informal na pedonal Saint John Street, a um passo da catedral. As mesas estendem-se pela rua e os cães são admitidos. As piadine e saladas são feitas na hora e o espresso é dos melhores de Valletta.",
+          "petPolicy": "Dogs welcome at all outdoor tables",
+          "petPolicyFr": "Chiens acceptés à toutes les tables extérieures",
+          "petPolicyEs": "Perros admitidos en todas las mesas exteriores",
+          "petPolicyPt": "Cães admitidos em todas as mesas exteriores",
+          "priceRange": "€",
+          "mustTry": "Piadina with prosciutto and stracciatella, double espresso",
+          "mustTryFr": "Piadina prosciutto et stracciatella, double espresso",
+          "mustTryEs": "Piadina con prosciutto y stracciatella, doble espresso",
+          "mustTryPt": "Piadina com prosciutto e stracciatella, duplo espresso",
+          "openingHours": "Mon–Sat 09:00–18:00",
+          "tip": "The east side of Saint John Street is shaded after 14:00; pick those tables in summer to keep your dog comfortable.",
+          "tipFr": "Le côté est de Saint John Street est ombragé après 14h, choisissez ces tables en été pour le confort de votre chien.",
+          "tipEs": "El lado este de Saint John Street está sombreado a partir de las 14:00, escoge esas mesas en verano para el confort del perro.",
+          "tipPt": "O lado este da Saint John Street fica à sombra depois das 14:00, escolha essas mesas no verão para o conforto do seu cão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Piadina+Caffe+Saint+John+Street+Valletta"
+        }
+      ],
+      "tipsEn": [
+        "Most Valletta restaurants serve only outdoors with dogs; book a shaded terrace and aim for dinner after 19:00 to avoid Mediterranean midday heat.",
+        "Maltese restaurants will almost always bring a water bowl on request; staff English is universal, no translation app needed.",
+        "Sliema and St Julian's, a 15-minute ferry from Valletta, have a denser cluster of seafront dog-friendly cafés if Valletta itself is fully booked."
+      ],
+      "tipsFr": [
+        "La plupart des restaurants de La Valette ne servent qu'en extérieur avec les chiens, réservez une terrasse ombragée et visez le dîner après 19h pour éviter la chaleur méditerranéenne de midi.",
+        "Les restaurants maltais apportent presque toujours une gamelle d'eau sur demande, le personnel parle anglais partout, aucune appli de traduction nécessaire.",
+        "Sliema et St Julian's, à 15 min de ferry de La Valette, offrent une densité de cafés dog-friendly en bord de mer si La Valette est complet."
+      ],
+      "tipsEs": [
+        "La mayoría de restaurantes de La Valeta solo sirven en exterior con perros, reserva una terraza sombreada y apunta a la cena después de las 19:00 para evitar el calor mediterráneo del mediodía.",
+        "Los restaurantes malteses casi siempre traen un cuenco de agua si lo pides, el personal habla inglés en todas partes, no hace falta app de traducción.",
+        "Sliema y St Julian's, a 15 min en ferry desde La Valeta, tienen una mayor densidad de cafés dog-friendly junto al mar si La Valeta está completo."
+      ],
+      "tipsPt": [
+        "A maioria dos restaurantes de Valletta serve apenas em exterior com cães, reserve uma esplanada sombreada e aponte para o jantar depois das 19:00 para evitar o calor mediterrânico do meio-dia.",
+        "Os restaurantes malteses trazem quase sempre uma tigela de água a pedido, o pessoal fala inglês em todo o lado, nenhuma app de tradução necessária.",
+        "Sliema e St Julian's, a 15 min de ferry de Valletta, têm uma maior densidade de cafés dog-friendly à beira-mar se Valletta estiver lotada."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog inside Valletta restaurants?",
+          "a": "Almost never. Maltese law and restaurant practice keep dogs on outdoor terraces only, even in winter. The good news is that Valletta's mild climate makes outdoor dining viable nearly year-round."
+        },
+        {
+          "q": "Do Valletta restaurants charge a fee for pets?",
+          "a": "No, there is no standard surcharge for dogs at Valletta restaurants. Most venues will provide a water bowl on request at no cost."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien est-il admis à l'intérieur des restaurants de La Valette ?",
+          "a": "Presque jamais. La loi maltaise et l'usage des restaurants cantonnent les chiens aux terrasses extérieures, même en hiver. Heureusement, le climat doux rend la terrasse viable presque toute l'année."
+        },
+        {
+          "q": "Les restaurants de La Valette facturent-ils un supplément animal ?",
+          "a": "Non, il n'existe pas de supplément standard pour les chiens. La plupart des établissements offrent gratuitement une gamelle d'eau sur demande."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en el interior de los restaurantes de La Valeta?",
+          "a": "Casi nunca. La legislación maltesa y la práctica restaurantera mantienen los perros solo en terrazas exteriores, incluso en invierno. La ventaja es que el clima suave hace viable la terraza casi todo el año."
+        },
+        {
+          "q": "¿Los restaurantes de La Valeta cobran suplemento por mascota?",
+          "a": "No, no hay suplemento estándar por perros. La mayoría de locales facilita un cuenco de agua sin coste si lo pides."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos no interior dos restaurantes de Valletta?",
+          "a": "Quase nunca. A lei maltesa e a prática dos restaurantes mantêm os cães apenas nas esplanadas exteriores, mesmo no inverno. A boa notícia é que o clima ameno torna a esplanada viável quase todo o ano."
+        },
+        {
+          "q": "Os restaurantes de Valletta cobram suplemento por animal?",
+          "a": "Não, não existe suplemento padrão para cães. A maioria dos locais fornece uma tigela de água gratuitamente a pedido."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks in Valletta",
+      "titleFr": "Parcs et promenades dog-friendly à La Valette",
+      "titleEs": "Parques y paseos dog-friendly en La Valeta",
+      "titlePt": "Parques e passeios dog-friendly em Valletta",
+      "introEn": "Valletta is a dense limestone fortress city with few traditional parks inside the walls; the green relief is provided by the historic Barrakka and Hastings Gardens overlooking the Grand Harbour and Marsamxett, plus the broader Floriana lawn outside the city gate. Dogs must be on a leash in all public parks under Maltese law. For larger off-leash spaces, the dog-walking community gravitates to Ta' Qali National Park (10 km west) and the rural coastline at Dingli Cliffs, both reachable by car or bus in under 30 minutes.",
+      "introFr": "La Valette est une dense ville-forteresse de calcaire avec peu de parcs traditionnels à l'intérieur des murs ; le poumon vert est constitué des jardins historiques Barrakka et Hastings dominant le Grand Port et Marsamxett, plus la pelouse de Floriana hors de la porte de ville. Les chiens doivent rester en laisse dans tous les parcs publics selon la loi maltaise. Pour les grands espaces sans laisse, la communauté canine se retrouve à Ta' Qali National Park (10 km à l'ouest) et sur la côte rurale des Dingli Cliffs.",
+      "introEs": "La Valeta es una densa ciudad-fortaleza de piedra caliza con pocos parques tradicionales dentro de las murallas; el respiro verde lo dan los jardines históricos Barrakka y Hastings sobre el Gran Puerto y Marsamxett, más el césped de Floriana fuera de la puerta. Los perros deben ir con correa en todos los parques públicos según la ley maltesa. Para grandes espacios sin correa, la comunidad canina se reúne en Ta' Qali National Park (10 km al oeste) y en la costa rural de los acantilados de Dingli.",
+      "introPt": "Valletta é uma densa cidade-fortaleza de calcário com poucos parques tradicionais dentro das muralhas; o respiro verde é dado pelos jardins históricos Barrakka e Hastings sobre o Grand Harbour e Marsamxett, e pelo relvado de Floriana fora do portão da cidade. Os cães devem estar com trela em todos os parques públicos segundo a lei maltesa. Para grandes espaços sem trela, a comunidade canina reúne-se em Ta' Qali National Park (10 km a oeste) e na costa rural das falésias de Dingli.",
+      "places": [
+        {
+          "name": "Upper Barrakka Gardens",
+          "type": "Historic terraced garden",
+          "photo": "/images/city-places/valletta-parks-upper-barrakka-gardens.jpg",
+          "website": "https://www.visitmalta.com/en/poi/upper-barrakka-gardens/",
+          "description": "The most famous viewpoint in Valletta, a tiered limestone garden built in 1661 with a colonnaded loggia and panoramic views across the Grand Harbour to the Three Cities. Dogs on lead are welcome at no charge. The Saluting Battery fires noon and 16:00 daily, dogs sensitive to gunshots should be kept clear of the lower terrace around those times.",
+          "descriptionFr": "Le belvédère le plus célèbre de La Valette, un jardin de calcaire en gradins construit en 1661 avec une loggia à colonnes et une vue panoramique sur le Grand Port et les Trois Cités. Les chiens en laisse sont admis gratuitement. La Saluting Battery tire le canon à midi et 16h, éloignez les chiens sensibles aux détonations à ces heures.",
+          "descriptionEs": "El mirador más famoso de La Valeta, un jardín escalonado de piedra caliza construido en 1661 con loggia de columnas y vistas panorámicas sobre el Gran Puerto hasta las Tres Ciudades. Perros con correa admitidos gratis. La Saluting Battery dispara a las 12:00 y 16:00 a diario; aleja a los perros sensibles a las detonaciones esas horas.",
+          "descriptionPt": "O miradouro mais famoso de Valletta, um jardim em socalcos de calcário construído em 1661 com uma loggia de colunas e vistas panorâmicas sobre o Grand Harbour até às Três Cidades. Cães com trela admitidos gratuitamente. A Saluting Battery dispara ao meio-dia e às 16:00 diariamente; afaste os cães sensíveis a detonações nessas horas.",
+          "offLeash": false,
+          "offLeashArea": "On-leash only across the garden",
+          "offLeashAreaFr": "En laisse uniquement dans tout le jardin",
+          "offLeashAreaEs": "Solo con correa en todo el jardín",
+          "offLeashAreaPt": "Apenas com trela em todo o jardim",
+          "tip": "The lift from Lascaris Wharf to the upper terrace is free for residents and €1 for visitors; dogs ride free and avoid the 40-metre staircase climb in summer.",
+          "tipFr": "L'ascenseur depuis Lascaris Wharf jusqu'à la terrasse haute est gratuit pour les résidents et 1€ pour les visiteurs, les chiens montent gratuitement et évitent les 40m d'escalier en été.",
+          "tipEs": "El ascensor desde Lascaris Wharf hasta la terraza alta es gratuito para residentes y 1€ para visitantes; los perros suben gratis y se evitan los 40 m de escalera en verano.",
+          "tipPt": "O elevador desde Lascaris Wharf até à esplanada superior é gratuito para residentes e 1€ para visitantes; os cães sobem gratuitamente e evitam os 40 m de escadas no verão.",
+          "googleMapsUrl": "https://maps.google.com/?q=Upper+Barrakka+Gardens+Valletta"
+        },
+        {
+          "name": "Hastings Gardens",
+          "type": "Bastion-top public garden",
+          "photo": "/images/city-places/valletta-parks-hastings-gardens.jpg",
+          "website": "https://www.visitmalta.com/en/poi/hastings-gardens/",
+          "description": "Built on top of the St John and St Michael bastions, Hastings Gardens runs the length of Valletta's landward wall and faces Marsamxett Harbour, Manoel Island and Sliema. The walk is shaded by mature trees and is the quietest large green space in the city for dog walking, especially at sunset. Dogs on leash welcome.",
+          "descriptionFr": "Construits au sommet des bastions Saint-Jean et Saint-Michel, les jardins Hastings parcourent toute la muraille intérieure de La Valette et font face au port de Marsamxett, à l'île Manoel et à Sliema. La promenade est ombragée d'arbres matures et constitue le plus grand et le plus tranquille des espaces verts pour la promenade canine, surtout au coucher du soleil.",
+          "descriptionEs": "Construidos sobre los bastiones de San Juan y San Miguel, los jardines Hastings recorren toda la muralla interior de La Valeta y miran al puerto de Marsamxett, la isla Manoel y Sliema. El paseo está sombreado por árboles maduros y es el espacio verde grande más tranquilo para pasear perros, sobre todo al atardecer.",
+          "descriptionPt": "Construídos no topo dos bastiões de São João e São Miguel, os jardins Hastings percorrem toda a muralha interior de Valletta e dão para o porto de Marsamxett, a ilha Manoel e Sliema. O passeio é sombreado por árvores maduras e é o maior espaço verde mais tranquilo para passear cães, sobretudo ao pôr-do-sol.",
+          "offLeash": false,
+          "offLeashArea": "On-leash only; no dedicated off-leash zone",
+          "offLeashAreaFr": "En laisse uniquement, pas de zone sans laisse",
+          "offLeashAreaEs": "Solo con correa, sin zona sin correa",
+          "offLeashAreaPt": "Apenas com trela, sem zona sem trela",
+          "tip": "Enter from Saint Mark Street and walk the full length to St Salvatore bastion, the best Manoel Island view is from the western end.",
+          "tipFr": "Entrez par Saint Mark Street et parcourez toute la longueur jusqu'au bastion Saint-Sauveur, la meilleure vue sur l'île Manoel est à l'extrémité ouest.",
+          "tipEs": "Entra por Saint Mark Street y recorre toda la longitud hasta el bastión San Salvador, la mejor vista de la isla Manoel es desde el extremo oeste.",
+          "tipPt": "Entre pela Saint Mark Street e percorra toda a extensão até ao bastião de São Salvador, a melhor vista da ilha Manoel é a partir do extremo oeste.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hastings+Gardens+Valletta"
+        },
+        {
+          "name": "Ta' Qali National Park",
+          "type": "Large off-leash-friendly national park",
+          "photo": "/images/city-places/valletta-parks-ta-qali-national-park.jpg",
+          "website": "https://www.visitmalta.com/en/poi/ta-qali-national-park/",
+          "description": "A 100-hectare green space converted from a former Second World War airfield, 10 km west of Valletta. It is Malta's largest single park with mature trees, jogging paths, a children's playground and the most popular off-leash dog-walking area on the island, although the formal rule is leash-on at all times; in practice, owners use voice control on the eastern lawns.",
+          "descriptionFr": "Un espace vert de 100 hectares converti à partir d'un ancien aérodrome de la Seconde Guerre mondiale, à 10 km à l'ouest de La Valette. C'est le plus grand parc unique de Malte avec arbres matures, sentiers de jogging, aire de jeux et la zone de promenade canine la plus populaire de l'île, la règle officielle reste laisse, en pratique les propriétaires utilisent le rappel sur les pelouses est.",
+          "descriptionEs": "Un espacio verde de 100 hectáreas reconvertido de un antiguo aeródromo de la Segunda Guerra Mundial, a 10 km al oeste de La Valeta. Es el mayor parque único de Malta con árboles maduros, senderos de jogging, área infantil y la zona de paseo canino más popular de la isla; la norma oficial es correa, en la práctica los dueños usan llamada en las praderas del este.",
+          "descriptionPt": "Um espaço verde de 100 hectares reconvertido a partir de um antigo aeródromo da Segunda Guerra Mundial, a 10 km a oeste de Valletta. É o maior parque único de Malta com árvores maduras, trilhos de corrida, parque infantil e a zona de passeio canino mais popular da ilha; a regra oficial é trela, na prática os donos usam chamada nas relvas a este.",
+          "offLeash": false,
+          "offLeashArea": "Officially on-leash; voice-control tolerated in eastern lawns",
+          "offLeashAreaFr": "Officiellement en laisse, rappel toléré dans les pelouses est",
+          "offLeashAreaEs": "Oficialmente con correa, llamada tolerada en las praderas del este",
+          "offLeashAreaPt": "Oficialmente com trela, chamada tolerada nas relvas a este",
+          "tip": "Bus 56 runs from Valletta to Ta' Qali in 35 minutes; bring water as the park has limited drinking fountains and the open lawns get scorching above 28°C.",
+          "tipFr": "Le bus 56 relie La Valette à Ta' Qali en 35 minutes, emportez de l'eau, les fontaines sont rares et les pelouses brûlent au-dessus de 28°C.",
+          "tipEs": "El autobús 56 conecta La Valeta con Ta' Qali en 35 minutos, lleva agua, las fuentes son escasas y las praderas queman por encima de 28°C.",
+          "tipPt": "O autocarro 56 liga Valletta a Ta' Qali em 35 minutos, leve água, as fontes são escassas e as relvas queimam acima de 28°C.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ta+Qali+National+Park+Malta"
+        }
+      ],
+      "tipsEn": [
+        "Maltese law requires dogs on leash in all public open spaces; off-leash zones do not formally exist on the island, voice control is tolerated in Ta' Qali and Dingli but not in Valletta city parks.",
+        "Summer heat (June–September) routinely exceeds 30°C with intense limestone glare; walk dogs before 08:00 or after 19:00 and always carry water.",
+        "Pick up after your dog: Malta enforces a €70 littering fine for dog waste in public spaces, and bins are provided at the entrances of all major gardens."
+      ],
+      "tipsFr": [
+        "La loi maltaise impose la laisse dans tous les espaces publics, les zones officielles sans laisse n'existent pas sur l'île, le rappel est toléré à Ta' Qali et Dingli mais pas dans les parcs de La Valette.",
+        "La chaleur estivale (juin-septembre) dépasse régulièrement 30°C avec une forte réverbération du calcaire, promenez votre chien avant 8h ou après 19h et emportez toujours de l'eau.",
+        "Ramassez les déjections : Malte applique une amende de 70€ pour souillure de l'espace public, des poubelles sont prévues aux entrées des grands jardins."
+      ],
+      "tipsEs": [
+        "La ley maltesa exige correa en todos los espacios públicos; las zonas oficiales sin correa no existen en la isla, la llamada se tolera en Ta' Qali y Dingli pero no en los parques urbanos de La Valeta.",
+        "El calor estival (junio-septiembre) supera con frecuencia los 30°C con fuerte reverberación de la piedra; pasea al perro antes de las 08:00 o después de las 19:00 y lleva siempre agua.",
+        "Recoge las cacas: Malta aplica una multa de 70€ por ensuciar el espacio público, hay papeleras en las entradas de los principales jardines."
+      ],
+      "tipsPt": [
+        "A lei maltesa exige trela em todos os espaços públicos; as zonas oficiais sem trela não existem na ilha, a chamada é tolerada em Ta' Qali e Dingli mas não nos parques urbanos de Valletta.",
+        "O calor estival (junho-setembro) ultrapassa frequentemente os 30°C com forte reverberação do calcário; passeie o cão antes das 08:00 ou depois das 19:00 e leve sempre água.",
+        "Apanhe os dejetos: Malta aplica uma multa de 70€ por sujar o espaço público, há caixotes nas entradas dos principais jardins."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there any off-leash dog parks in Valletta?",
+          "a": "No formal off-leash parks exist inside Valletta. The closest tolerated voice-control area is Ta' Qali National Park, 10 km west. Within the city, all gardens require a leash."
+        },
+        {
+          "q": "Is it safe to walk dogs around the Grand Harbour bastions?",
+          "a": "Yes, the bastion walks (Upper Barrakka, Hastings, Lower Barrakka) are paved and dog-friendly, but the limestone gets very hot underfoot in summer. Walk early or late and check paw temperature regularly."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Existe-t-il des parcs canins sans laisse à La Valette ?",
+          "a": "Aucun parc sans laisse officiel n'existe à La Valette. La zone tolérée la plus proche est le Ta' Qali National Park, 10 km à l'ouest. Dans la ville, tous les jardins imposent la laisse."
+        },
+        {
+          "q": "Est-il sûr de promener un chien sur les bastions du Grand Port ?",
+          "a": "Oui, les promenades sur les bastions (Upper Barrakka, Hastings, Lower Barrakka) sont pavées et dog-friendly, mais le calcaire chauffe fortement en été. Promenez tôt ou tard et contrôlez régulièrement la température des coussinets."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques caninos sin correa en La Valeta?",
+          "a": "No existen parques oficiales sin correa en La Valeta. La zona tolerada más cercana es Ta' Qali National Park, a 10 km al oeste. En la ciudad, todos los jardines exigen correa."
+        },
+        {
+          "q": "¿Es seguro pasear perros por los bastiones del Gran Puerto?",
+          "a": "Sí, los paseos por los bastiones (Upper Barrakka, Hastings, Lower Barrakka) están pavimentados y son dog-friendly, pero la piedra caliente quema en verano. Pasea temprano o tarde y comprueba la temperatura de las almohadillas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existem parques caninos sem trela em Valletta?",
+          "a": "Não existem parques oficiais sem trela em Valletta. A zona tolerada mais próxima é o Ta' Qali National Park, a 10 km a oeste. Na cidade, todos os jardins exigem trela."
+        },
+        {
+          "q": "É seguro passear cães pelos bastiões do Grand Harbour?",
+          "a": "Sim, os passeios pelos bastiões (Upper Barrakka, Hastings, Lower Barrakka) são pavimentados e dog-friendly, mas o calcário fica muito quente no verão. Passeie cedo ou tarde e verifique regularmente a temperatura das almofadas das patas."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Travelling with Pets in Valletta",
+      "titleFr": "Se déplacer avec son animal à La Valette",
+      "titleEs": "Moverse con mascota en La Valeta",
+      "titlePt": "Deslocar-se com animal em Valletta",
+      "introEn": "Valletta's compact peninsula is genuinely walkable end to end (1 km long, 600 m wide), so most pet owners will spend the day on foot. For longer hops, Malta Public Transport (Tallinja) operates the island-wide bus network from the Valletta Bus Terminus at City Gate, and the Valletta Ferry runs to Sliema (10 min) and the Three Cities (15 min). Pet policy varies by mode, see the rules below before boarding.",
+      "introFr": "La péninsule de La Valette est entièrement praticable à pied (1 km de long, 600 m de large), la plupart des propriétaires d'animaux feront leur journée à pied. Pour les trajets plus longs, Malta Public Transport (Tallinja) opère le réseau de bus depuis le terminus de la porte de la ville, et le Valletta Ferry relie Sliema (10 min) et les Trois Cités (15 min). La politique animale varie selon le mode, lisez les règles avant d'embarquer.",
+      "introEs": "La península de La Valeta es totalmente caminable (1 km de largo, 600 m de ancho), la mayoría de los dueños de mascotas harán el día a pie. Para trayectos más largos, Malta Public Transport (Tallinja) opera la red insular de autobuses desde la terminal de la puerta de la ciudad, y el ferry de La Valeta conecta Sliema (10 min) y las Tres Ciudades (15 min). La política animal varía según el medio.",
+      "introPt": "A península de Valletta é totalmente percorrível a pé (1 km de comprimento, 600 m de largura), a maioria dos donos de animais fará o dia a pé. Para deslocações mais longas, a Malta Public Transport (Tallinja) opera a rede insular de autocarros a partir do terminal do portão da cidade, e o ferry de Valletta liga Sliema (10 min) e as Três Cidades (15 min). A política animal varia consoante o meio.",
+      "rules": [
+        {
+          "icon": "🚌",
+          "title": "Tallinja Bus (Malta Public Transport)",
+          "titleFr": "Bus Tallinja",
+          "titleEs": "Autobús Tallinja",
+          "titlePt": "Autocarro Tallinja",
+          "rule": "Service dogs travel free at any time. Other pets are accepted at the driver's discretion: small dogs in a carrier are routinely allowed, larger dogs require a leash and a muzzle. No formal ticket for the pet.",
+          "ruleFr": "Les chiens d'assistance voyagent gratuitement à toute heure. Les autres animaux sont acceptés à la discrétion du chauffeur : les petits chiens en caisse sont systématiquement admis, les grands chiens doivent être en laisse et muselés. Pas de billet animal.",
+          "ruleEs": "Los perros de asistencia viajan gratis a cualquier hora. Otras mascotas se aceptan a discreción del conductor: perros pequeños en transportín siempre admitidos, perros grandes con correa y bozal. No hay billete para mascota.",
+          "rulePt": "Os cães de assistência viajam gratuitamente a qualquer hora. Outros animais são aceites à discrição do motorista: cães pequenos em transportadora sempre admitidos, cães grandes com trela e açaime. Não há bilhete para animal."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Valletta Ferry (to Sliema / Three Cities)",
+          "titleFr": "Valletta Ferry",
+          "titleEs": "Ferry de La Valeta",
+          "titlePt": "Ferry de Valletta",
+          "rule": "Dogs of all sizes accepted on outdoor decks at no extra charge. Must be on leash; muzzle recommended for larger dogs. The Sliema ferry runs every 30 min (06:00–24:00), the Three Cities ferry every 30 min (07:00–19:00).",
+          "ruleFr": "Chiens de toutes tailles acceptés sur les ponts extérieurs sans surcoût. Laisse obligatoire, muselière recommandée pour les grands chiens. Le ferry de Sliema circule toutes les 30 min (6h-minuit), celui des Trois Cités toutes les 30 min (7h-19h).",
+          "ruleEs": "Perros de todos los tamaños admitidos en cubierta exterior sin coste adicional. Correa obligatoria, bozal recomendado para perros grandes. El ferry a Sliema sale cada 30 min (06:00-24:00), el de las Tres Ciudades cada 30 min (07:00-19:00).",
+          "rulePt": "Cães de todos os tamanhos admitidos no convés exterior sem custo adicional. Trela obrigatória, açaime recomendado para cães grandes. O ferry para Sliema sai a cada 30 min (06:00-24:00), o das Três Cidades a cada 30 min (07:00-19:00)."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxi & ride-hailing (eCabs, Bolt)",
+          "titleFr": "Taxi et VTC (eCabs, Bolt)",
+          "titleEs": "Taxi y VTC (eCabs, Bolt)",
+          "titlePt": "Táxi e VTC (eCabs, Bolt)",
+          "rule": "At the driver's discretion. Most drivers accept small pets in a carrier; for larger dogs, request a 'pet-friendly' driver in the eCabs app or call ahead. A €2–5 cleaning supplement may apply.",
+          "ruleFr": "À la discrétion du chauffeur. La plupart acceptent les petits animaux en caisse, pour les grands chiens demandez un chauffeur 'pet-friendly' dans l'app eCabs ou appelez à l'avance. Un supplément nettoyage de 2-5€ peut s'appliquer.",
+          "ruleEs": "A discreción del conductor. La mayoría acepta mascotas pequeñas en transportín; para perros grandes pide un conductor 'pet-friendly' en la app eCabs o llama con antelación. Suplemento de limpieza 2-5€ posible.",
+          "rulePt": "À discrição do motorista. A maioria aceita animais pequenos em transportadora; para cães grandes peça um motorista 'pet-friendly' na app eCabs ou ligue antes. Suplemento de limpeza 2-5€ possível."
+        },
+        {
+          "icon": "✈️",
+          "title": "Malta International Airport (MLA) entry",
+          "titleFr": "Aéroport de Malte (MLA)",
+          "titleEs": "Aeropuerto de Malta (MLA)",
+          "titlePt": "Aeroporto de Malta (MLA)",
+          "rule": "Malta is an EU country: EU travellers need a valid EU pet passport, microchip and rabies vaccine in date. UK travellers post-Brexit need an Animal Health Certificate (AHC). US travellers need a USDA-endorsed health certificate and the CDC dog import form. Animals enter via the dedicated cargo area at MLA.",
+          "ruleFr": "Malte est dans l'UE : les voyageurs UE ont besoin d'un passeport européen valide, puce et rage à jour. Les voyageurs UK post-Brexit ont besoin d'un Animal Health Certificate (AHC). Les voyageurs US ont besoin d'un certificat de santé endossé USDA et du formulaire CDC. Les animaux entrent via la zone fret dédiée de MLA.",
+          "ruleEs": "Malta es UE: los viajeros UE necesitan pasaporte europeo válido, microchip y rabia al día. Los viajeros UK post-Brexit necesitan Animal Health Certificate (AHC). Los viajeros US necesitan certificado sanitario USDA y formulario CDC. Los animales entran por la zona de carga dedicada del MLA.",
+          "rulePt": "Malta é UE: viajantes UE precisam de passaporte europeu válido, microchip e raiva em dia. Viajantes UK pós-Brexit precisam de Animal Health Certificate (AHC). Viajantes US precisam de certificado sanitário USDA e formulário CDC. Os animais entram pela zona de carga dedicada do MLA."
+        }
+      ],
+      "sections": [],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Tallinja bus from the airport?",
+          "a": "Yes, bus X4 runs from Malta International Airport to Valletta in 30 minutes and accepts pets at the driver's discretion. Small dogs in a carrier are almost always admitted; larger dogs should be on leash and muzzled. A taxi is a more reliable option for the first leg with a tired dog."
+        },
+        {
+          "q": "Do I need a pet passport to enter Malta?",
+          "a": "Yes. As an EU member state, Malta requires an EU pet passport (or AHC for UK travellers) with a current rabies vaccine and microchip. There is no quarantine for compliant pets. Customs checks happen on arrival at the MLA cargo terminal."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il prendre le bus Tallinja depuis l'aéroport ?",
+          "a": "Oui, le bus X4 relie l'aéroport de Malte à La Valette en 30 minutes et accepte les animaux à la discrétion du chauffeur. Les petits chiens en caisse sont presque toujours admis ; les grands chiens doivent être en laisse et muselés. Un taxi est plus fiable pour le premier trajet avec un chien fatigué."
+        },
+        {
+          "q": "Faut-il un passeport pour animal pour entrer à Malte ?",
+          "a": "Oui. En tant qu'État membre UE, Malte exige un passeport européen pour animal (ou AHC pour les voyageurs UK) avec rage en cours et puce. Pas de quarantaine pour les animaux conformes. Les contrôles douaniers ont lieu à l'arrivée au terminal fret du MLA."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el autobús Tallinja desde el aeropuerto?",
+          "a": "Sí, el autobús X4 conecta el aeropuerto de Malta con La Valeta en 30 minutos y acepta mascotas a discreción del conductor. Los perros pequeños en transportín casi siempre se admiten; los grandes con correa y bozal. Un taxi es más fiable para el primer trayecto con un perro cansado."
+        },
+        {
+          "q": "¿Necesito pasaporte para mi mascota para entrar en Malta?",
+          "a": "Sí. Como Estado miembro de la UE, Malta exige pasaporte europeo (o AHC para viajeros UK) con rabia vigente y microchip. No hay cuarentena para mascotas conformes. Los controles aduaneros ocurren a la llegada en la terminal de carga del MLA."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no autocarro Tallinja desde o aeroporto?",
+          "a": "Sim, o autocarro X4 liga o aeroporto de Malta a Valletta em 30 minutos e aceita animais à discrição do motorista. Os cães pequenos em transportadora são quase sempre admitidos; os grandes com trela e açaime. Um táxi é mais fiável para o primeiro trajeto com um cão cansado."
+        },
+        {
+          "q": "Preciso de passaporte para o meu animal para entrar em Malta?",
+          "a": "Sim. Como Estado-membro da UE, Malta exige passaporte europeu (ou AHC para viajantes UK) com raiva em dia e microchip. Não há quarentena para animais conformes. Os controlos alfandegários ocorrem à chegada no terminal de carga do MLA."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Valletta",
+      "titleFr": "Plages dog-friendly près de La Valette",
+      "titleEs": "Playas dog-friendly cerca de La Valeta",
+      "titlePt": "Praias dog-friendly perto de Valletta",
+      "introEn": "Valletta itself has no swimming beach, but Malta's official 'dog beaches' are an easy day trip. Maltese law allows dogs on most beaches between 1 October and 31 May; from 1 June to 30 September, dogs are restricted to a small number of designated dog beaches. The closest is Mistra Bay near St Paul's Bay (25 km north), and a wilder pick is Wied il-Għajn in Marsascala on the southeast coast.",
+      "introFr": "La Valette même n'a pas de plage de baignade, mais les 'plages canines' officielles de Malte sont accessibles en excursion. La loi maltaise autorise les chiens sur la plupart des plages du 1er octobre au 31 mai, du 1er juin au 30 septembre les chiens sont restreints à un petit nombre de plages canines désignées. La plus proche est Mistra Bay près de St Paul's Bay (25 km nord), une option plus sauvage est Wied il-Għajn à Marsascala sur la côte sud-est.",
+      "introEs": "La Valeta no tiene playa de baño propia, pero las 'playas caninas' oficiales de Malta son accesibles en excursión. La ley maltesa permite perros en la mayoría de playas entre el 1 de octubre y el 31 de mayo; del 1 de junio al 30 de septiembre los perros se restringen a un pequeño número de playas designadas. La más cercana es Mistra Bay cerca de St Paul's Bay (25 km al norte), una opción más salvaje es Wied il-Għajn en Marsascala.",
+      "introPt": "Valletta não tem praia de banho própria, mas as 'praias caninas' oficiais de Malta são acessíveis em excursão. A lei maltesa permite cães na maioria das praias entre 1 de outubro e 31 de maio; de 1 de junho a 30 de setembro os cães ficam restringidos a um pequeno número de praias designadas. A mais próxima é Mistra Bay perto de St Paul's Bay (25 km a norte), uma opção mais selvagem é Wied il-Għajn em Marsascala.",
+      "places": [
+        {
+          "name": "Mistra Bay Dog Beach",
+          "distance": "25 km north (40 min by bus 41 or car)",
+          "description": "A small, rocky-pebble cove near St Paul's Bay officially classified as a year-round dog beach. Calm shallow water, easy entry for dogs, and a few shaded spots under tamarisk trees. The bay is popular with local dog walkers on summer evenings.",
+          "season": "Year-round; busiest in July–August evenings",
+          "rules": "Dogs allowed off-leash in the water and on the beach; on-leash on the access path",
+          "facilities": "Roadside parking, no showers or bins, bring water",
+          "googleMapsUrl": "https://maps.google.com/?q=Mistra+Bay+Malta",
+          "photo": "/images/city-places/valletta-beaches-mistra-bay-dog-beach.jpg"
+        },
+        {
+          "name": "Wied il-Għajn (St Thomas Bay) Dog Beach",
+          "distance": "15 km southeast (35 min by bus 91 or car)",
+          "description": "A long stretch of sandy and rocky shore in Marsascala with a designated dog-friendly zone at the southern end of the bay. Less crowded than Mistra in peak season and well suited to dogs who like to swim, although the seabed is mixed sand and seagrass.",
+          "season": "Year-round dog zone; summer is the most enjoyable for swimming",
+          "rules": "Dogs allowed off-leash in the dog zone, on-leash on the rest of the bay; bag and bin all waste",
+          "facilities": "Street parking, no showers, basic snack kiosk in summer",
+          "googleMapsUrl": "https://maps.google.com/?q=Wied+il+Ghajn+St+Thomas+Bay+Marsascala",
+          "photo": "/images/city-places/valletta-beaches-wied-il-g-ajn-st-thomas-bay-dog-beach.jpg"
+        },
+        {
+          "name": "Riviera Bay (Għajn Tuffieħa) — winter only",
+          "distance": "20 km northwest (40 min by car)",
+          "description": "One of Malta's most picturesque sandy beaches, set under red-clay cliffs. Dogs are allowed from 1 October to 31 May only; in summer it reverts to a swim-only beach with no pets. Off-season, the wide expanse of sand and clean Atlantic-style swell make it one of the best dog-walking beaches in Malta.",
+          "season": "1 October – 31 May only; closed to dogs in summer",
+          "rules": "On-leash in winter; respect the seasonal ban June–September",
+          "facilities": "Large car park (charged in summer), seasonal beach café",
+          "googleMapsUrl": "https://maps.google.com/?q=Ghajn+Tuffieha+Riviera+Bay+Malta",
+          "photo": "/images/city-places/valletta-beaches-riviera-bay-g-ajn-tuffie-a-winter-only.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to a Maltese beach in summer?",
+          "a": "Only to a designated dog beach. From 1 June to 30 September, Maltese law bans dogs from all non-designated beaches. The closest dog beaches to Valletta are Mistra Bay (25 km north) and Wied il-Għajn (15 km southeast)."
+        },
+        {
+          "q": "Is sea swimming safe for dogs in Malta?",
+          "a": "Yes in spring and autumn. In peak summer (water 27–29°C, air 33°C+) the risk of heatstroke and dehydration on a sun-exposed beach is real; swim at dawn, bring shade and fresh water, and rinse salt off your dog after."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la plage à Malte en été ?",
+          "a": "Uniquement sur une plage canine désignée. Du 1er juin au 30 septembre, la loi maltaise interdit les chiens sur toutes les plages non désignées. Les plus proches de La Valette sont Mistra Bay (25 km nord) et Wied il-Għajn (15 km sud-est)."
+        },
+        {
+          "q": "La baignade en mer est-elle sans danger pour les chiens à Malte ?",
+          "a": "Oui au printemps et à l'automne. En plein été (eau 27-29°C, air 33°C et plus), le risque de coup de chaleur et de déshydratation sur une plage exposée est réel : baignez tôt, prévoyez de l'ombre et de l'eau fraîche, et rincez le sel."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la playa en Malta en verano?",
+          "a": "Solo a una playa canina designada. Del 1 de junio al 30 de septiembre la ley maltesa prohíbe los perros en todas las playas no designadas. Las más cercanas a La Valeta son Mistra Bay (25 km norte) y Wied il-Għajn (15 km sureste)."
+        },
+        {
+          "q": "¿Es seguro que mi perro nade en el mar en Malta?",
+          "a": "Sí en primavera y otoño. En pleno verano (agua 27-29°C, aire 33°C o más) el riesgo de golpe de calor y deshidratación en una playa expuesta es real: baño temprano, sombra, agua fresca y enjuague de sal después."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à praia em Malta no verão?",
+          "a": "Apenas a uma praia canina designada. De 1 de junho a 30 de setembro a lei maltesa proíbe cães em todas as praias não designadas. As mais próximas de Valletta são Mistra Bay (25 km norte) e Wied il-Għajn (15 km sudeste)."
+        },
+        {
+          "q": "É seguro o meu cão nadar no mar em Malta?",
+          "a": "Sim na primavera e outono. Em pleno verão (água 27-29°C, ar 33°C ou mais) o risco de golpe de calor e desidratação numa praia exposta é real: banho cedo, sombra, água fresca e enxaguar o sal depois."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians & Emergency Pet Care in Valletta",
+      "titleFr": "Vétérinaires et urgences animales à La Valette",
+      "titleEs": "Veterinarios y urgencias animales en La Valeta",
+      "titlePt": "Veterinários e urgências animais em Valletta",
+      "introEn": "Valletta itself is small enough that most veterinary clinics are in the surrounding towns of Sliema, Msida, Birkirkara and Mosta, all reachable in 10–20 minutes by taxi. Malta has a 24-hour emergency veterinary rota run jointly by participating clinics; ask any clinic for the current night/weekend on-call practice. Maltese vets speak English by default.",
+      "introFr": "La Valette même est suffisamment petite pour que la plupart des cliniques vétérinaires se trouvent dans les villes voisines de Sliema, Msida, Birkirkara et Mosta, toutes accessibles en 10-20 minutes en taxi. Malte dispose d'une garde vétérinaire 24h organisée conjointement par les cliniques participantes, demandez à n'importe quelle clinique le cabinet de garde actuel. Les vétérinaires maltais parlent anglais par défaut.",
+      "introEs": "La Valeta es tan compacta que la mayoría de clínicas veterinarias están en las ciudades vecinas de Sliema, Msida, Birkirkara y Mosta, accesibles en 10-20 minutos en taxi. Malta tiene una guardia veterinaria 24h organizada conjuntamente por las clínicas participantes; pregunta en cualquier clínica por la consulta de guardia actual. Los veterinarios malteses hablan inglés por defecto.",
+      "introPt": "Valletta é suficientemente pequena para que a maioria das clínicas veterinárias se encontre nas cidades vizinhas de Sliema, Msida, Birkirkara e Mosta, todas acessíveis em 10-20 minutos de táxi. Malta tem um regime de urgência veterinária 24h organizado conjuntamente pelas clínicas participantes; pergunte em qualquer clínica qual é o consultório de urgência actual. Os veterinários malteses falam inglês por defeito.",
+      "entryRequirements": [
+        "EU travellers: valid EU pet passport, microchip (ISO 11784/11785), in-date rabies vaccine (at least 21 days after first vaccination).",
+        "UK travellers post-Brexit: Animal Health Certificate (AHC) issued within 10 days of travel, microchip and rabies vaccine in date.",
+        "US/non-EU travellers: USDA-endorsed health certificate, rabies vaccine, microchip and a CDC dog import form for US-origin dogs."
+      ],
+      "places": [
+        {
+          "name": "St Francis Veterinary Clinic (Birkirkara)",
+          "type": "Full-service small-animal clinic with night rota participation",
+          "address": "Triq Sant Anna, Birkirkara, Malta",
+          "phone": "+356 2144 4444",
+          "hours": "Mon–Sat 09:00–19:00; on-call rota for nights and Sundays via Malta veterinary association",
+          "hoursFr": "Lun-sam 09:00-19:00 ; garde via l'association vétérinaire maltaise pour les nuits et dimanches",
+          "hoursEs": "Lun-sáb 09:00-19:00; guardia vía la asociación veterinaria maltesa para noches y domingos",
+          "hoursPt": "Seg-sáb 09:00-19:00; urgência via a associação veterinária maltesa para noites e domingos",
+          "englishSpeaking": true,
+          "website": "https://www.facebook.com/StFrancisVeterinaryClinic/",
+          "description": "A well-regarded multi-vet clinic in Birkirkara (12 km from Valletta) with full general practice, surgery, dental and diagnostic imaging. Participates in the Malta veterinary night and weekend on-call rota, call ahead to confirm whether they are the duty practice on your date.",
+          "descriptionFr": "Clinique multivétérinaire réputée à Birkirkara (12 km de La Valette), médecine générale, chirurgie, dentaire et imagerie. Participe à la garde de nuit et du week-end de Malte, appelez avant pour confirmer s'ils sont de garde le jour donné.",
+          "descriptionEs": "Clínica multiveterinaria reputada en Birkirkara (12 km de La Valeta), medicina general, cirugía, dental e imagen. Participa en la guardia de noche y fin de semana de Malta, llama antes para confirmar si están de guardia tu día.",
+          "descriptionPt": "Clínica multiveterinária reputada em Birkirkara (12 km de Valletta), medicina geral, cirurgia, dentária e imagiologia. Participa na urgência de noite e fim de semana de Malta, ligue antes para confirmar se estão de serviço no dia.",
+          "tip": "Call before arriving. Malta's 24h rota rotates between clinics, the night number you ring is forwarded to whichever practice is on duty.",
+          "tipFr": "Appelez avant de venir. La garde 24h de Malte tourne entre cliniques, le numéro de nuit appelé est renvoyé au cabinet de garde.",
+          "tipEs": "Llama antes de ir. La guardia 24h de Malta rota entre clínicas, el número de noche se desvía a la consulta de turno.",
+          "tipPt": "Ligue antes de ir. A urgência 24h de Malta roda entre clínicas, o número de noite é reencaminhado para o consultório de serviço.",
+          "googleMapsUrl": "https://maps.google.com/?q=St+Francis+Veterinary+Clinic+Birkirkara+Malta",
+          "photo": "/images/city-places/valletta-vets-st-francis-veterinary-clinic-birkirkara.jpg",
+          "languages": [
+            "English",
+            "Maltese"
+          ]
+        },
+        {
+          "name": "Bordi Mintoff Veterinary Clinic (Mosta)",
+          "type": "General practice and emergency vet",
+          "address": "Constitution Street, Mosta, Malta",
+          "phone": "+356 2143 0000",
+          "hours": "Mon–Fri 09:00–19:00, Sat 09:00–13:00; participates in 24h on-call rota",
+          "hoursFr": "Lun-ven 09:00-19:00, sam 09:00-13:00 ; participe à la garde 24h",
+          "hoursEs": "Lun-vie 09:00-19:00, sáb 09:00-13:00; participa en guardia 24h",
+          "hoursPt": "Seg-sex 09:00-19:00, sáb 09:00-13:00; participa na urgência 24h",
+          "englishSpeaking": true,
+          "website": "https://www.bordimintoff.com/",
+          "description": "Long-established Mosta-based clinic (15 km from Valletta) offering general consultation, surgery, vaccinations and pet passport documentation. Frequently used by visiting EU pet owners for re-entry health checks; staff are accustomed to short-stay travellers.",
+          "descriptionFr": "Clinique installée de longue date à Mosta (15 km de La Valette), consultations, chirurgie, vaccins et passeport européen. Habituée aux propriétaires UE en visite pour les contrôles de retour, l'équipe est rodée aux séjours courts.",
+          "descriptionEs": "Clínica de larga trayectoria en Mosta (15 km de La Valeta), consulta general, cirugía, vacunas y pasaporte europeo. Acostumbrada a dueños UE de paso para los chequeos de retorno; el equipo está habituado a estancias cortas.",
+          "descriptionPt": "Clínica de longa data em Mosta (15 km de Valletta), consulta geral, cirurgia, vacinas e passaporte europeu. Habituada a donos UE de passagem para os check-ups de regresso; a equipa está habituada a estadias curtas.",
+          "tip": "If you need a tapeworm or worming certificate before flying back to the UK or Ireland, book 24h ahead; treatments must be administered 24–120 hours before entry.",
+          "tipFr": "Pour un certificat de vermifugation avant retour au Royaume-Uni ou en Irlande, réservez 24h à l'avance, le traitement doit être administré 24-120h avant l'entrée.",
+          "tipEs": "Para un certificado de desparasitación antes del vuelo al Reino Unido o Irlanda, reserva 24h antes; el tratamiento debe administrarse 24-120h antes de la entrada.",
+          "tipPt": "Para um certificado de desparasitação antes do voo para o Reino Unido ou Irlanda, reserve 24h antes; o tratamento deve ser administrado 24-120h antes da entrada.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bordi+Mintoff+Veterinary+Clinic+Mosta+Malta",
+          "photo": "/images/city-places/valletta-vets-bordi-mintoff-veterinary-clinic-mosta.jpg",
+          "languages": [
+            "English",
+            "Maltese"
+          ]
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a true 24-hour vet hospital in Malta?",
+          "a": "Not as a single fixed location. Malta operates a rotating 24-hour emergency rota shared between participating clinics. Any vet clinic can give you the current on-call number, or call your hotel front desk who keeps the duty roster."
+        },
+        {
+          "q": "Do Maltese vets speak English?",
+          "a": "Yes, English is one of Malta's two official languages and every vet on the island runs consultations in English. Maltese is also widely used but you will not need it."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Existe-t-il un véritable hôpital vétérinaire 24h à Malte ?",
+          "a": "Pas en un seul lieu fixe. Malte fonctionne avec une garde 24h tournante partagée entre cliniques participantes. N'importe quel cabinet peut vous donner le numéro de garde, ou demandez à votre hôtel qui dispose du tableau de service."
+        },
+        {
+          "q": "Les vétérinaires maltais parlent-ils anglais ?",
+          "a": "Oui, l'anglais est une des deux langues officielles de Malte et tous les vétérinaires de l'île consultent en anglais. Le maltais est aussi très utilisé mais vous n'en aurez pas besoin."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un hospital veterinario 24h real en Malta?",
+          "a": "No como un único lugar fijo. Malta opera con una guardia 24h rotativa compartida entre las clínicas participantes. Cualquier consulta te puede dar el número de guardia, o pide en la recepción del hotel que dispone del cuadrante."
+        },
+        {
+          "q": "¿Hablan inglés los veterinarios malteses?",
+          "a": "Sí, el inglés es una de las dos lenguas oficiales de Malta y todos los veterinarios de la isla consultan en inglés. El maltés también se usa mucho pero no lo necesitarás."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existe um verdadeiro hospital veterinário 24h em Malta?",
+          "a": "Não como um único local fixo. Malta opera com uma urgência 24h rotativa partilhada entre as clínicas participantes. Qualquer consultório lhe pode dar o número de urgência, ou peça na recepção do hotel que tem o escalonamento."
+        },
+        {
+          "q": "Os veterinários malteses falam inglês?",
+          "a": "Sim, o inglês é uma das duas línguas oficiais de Malta e todos os veterinários da ilha consultam em inglês. O maltês também é muito usado mas não precisará dele."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Valletta with a Pet",
+      "titleFr": "Conseils pratiques pour visiter La Valette avec un animal",
+      "titleEs": "Consejos prácticos para visitar La Valeta con mascota",
+      "titlePt": "Conselhos práticos para visitar Valletta com animal",
+      "introEn": "Valletta rewards pet owners willing to plan around the climate and the city's stone-built density. Most challenges are environmental rather than regulatory: heat, glare and lack of green relief inside the walls. The walking advantages, ferry access to dog-friendly outer towns and English-speaking infrastructure more than make up for it once you adapt your daily rhythm.",
+      "introFr": "La Valette récompense les propriétaires d'animaux capables de composer avec le climat et la densité minérale de la ville. Les difficultés sont surtout environnementales (chaleur, réverbération, peu d'espaces verts), pas réglementaires. Les avantages (tout à pied, ferry vers les communes dog-friendly, infrastructure anglophone) compensent largement une fois le rythme quotidien adapté.",
+      "introEs": "La Valeta recompensa al dueño de mascota que sabe organizarse en torno al clima y a la densidad pétrea de la ciudad. Los retos son sobre todo ambientales (calor, reverberación, poco verde) y no normativos. Las ventajas (todo a pie, ferry hacia poblaciones dog-friendly, infraestructura anglófona) compensan ampliamente una vez adaptado el ritmo diario.",
+      "introPt": "Valletta recompensa o dono de animal que sabe organizar-se em torno do clima e da densidade pétrea da cidade. Os desafios são sobretudo ambientais (calor, reverberação, pouco verde) e não regulamentares. As vantagens (tudo a pé, ferry para localidades dog-friendly, infraestrutura anglófona) compensam amplamente depois de adaptar o ritmo diário.",
+      "sections": [],
+      "tipsEn": [
+        "Heat is the biggest factor: from June to September the limestone retains heat well into the night and ground temperatures can burn paw pads at midday. Walk only before 08:00 and after 19:00 in summer.",
+        "Pet entry is straightforward for EU travellers with a pet passport; UK travellers post-Brexit need an Animal Health Certificate (AHC) issued within 10 days of travel; US travellers need a USDA-endorsed certificate plus CDC dog form.",
+        "Use the Valletta–Sliema ferry to get out of the dense old town quickly: 10 min, dogs free, and Sliema's promenade has shade and dog water bowls outside several cafés.",
+        "Voice control is tolerated at Ta' Qali National Park but legally Malta requires a leash everywhere in public; spot-checks for leash compliance do happen in city parks.",
+        "Mediterraneo Marine Park in St Paul's Bay (a popular family day-trip) does not admit dogs; plan an alternative or split the group."
+      ],
+      "tipsFr": [
+        "La chaleur est le facteur clé : de juin à septembre, le calcaire conserve la chaleur jusqu'à tard et le sol peut brûler les coussinets à midi. Promenez uniquement avant 8h et après 19h en été.",
+        "L'entrée animalière est simple pour les voyageurs UE avec passeport ; les voyageurs UK post-Brexit ont besoin d'un Animal Health Certificate (AHC) émis dans les 10 jours ; les voyageurs US ont besoin d'un certificat USDA et du formulaire CDC.",
+        "Utilisez le ferry La Valette-Sliema pour sortir vite de la vieille ville dense : 10 min, chiens gratuits, et la promenade de Sliema a de l'ombre et des gamelles d'eau à plusieurs terrasses.",
+        "Le rappel est toléré à Ta' Qali National Park, mais légalement Malte impose la laisse partout dans le public, les contrôles dans les jardins urbains existent.",
+        "Mediterraneo Marine Park à St Paul's Bay (excursion familiale populaire) n'admet pas les chiens, prévoyez une alternative ou divisez le groupe."
+      ],
+      "tipsEs": [
+        "El calor es el factor clave: de junio a septiembre la piedra caliza retiene el calor hasta tarde y el suelo puede quemar las almohadillas al mediodía. Pasea solo antes de las 08:00 y después de las 19:00 en verano.",
+        "La entrada con mascota es sencilla para viajeros UE con pasaporte; los viajeros UK post-Brexit necesitan un Animal Health Certificate (AHC) emitido en los 10 días previos; los viajeros US necesitan certificado USDA y formulario CDC.",
+        "Usa el ferry La Valeta-Sliema para salir rápido del centro denso: 10 min, perros gratis, y el paseo de Sliema tiene sombra y cuencos de agua en varias terrazas.",
+        "La llamada se tolera en Ta' Qali National Park, pero legalmente Malta exige correa en todo lo público; los controles en los jardines urbanos existen.",
+        "Mediterraneo Marine Park en St Paul's Bay (excursión familiar popular) no admite perros, prevé una alternativa o divide el grupo."
+      ],
+      "tipsPt": [
+        "O calor é o factor-chave: de junho a setembro o calcário retém calor até tarde e o solo pode queimar as almofadas das patas ao meio-dia. Passeie apenas antes das 08:00 e depois das 19:00 no verão.",
+        "A entrada com animal é simples para viajantes UE com passaporte; os viajantes UK pós-Brexit precisam de um Animal Health Certificate (AHC) emitido nos 10 dias anteriores; os viajantes US precisam de certificado USDA e formulário CDC.",
+        "Use o ferry Valletta-Sliema para sair rapidamente do centro denso: 10 min, cães gratuitos, e o passeio de Sliema tem sombra e tigelas de água em várias esplanadas.",
+        "A chamada é tolerada em Ta' Qali National Park, mas legalmente Malta exige trela em todo o espaço público; os controlos nos jardins urbanos existem.",
+        "Mediterraneo Marine Park em St Paul's Bay (excursão familiar popular) não admite cães, preveja uma alternativa ou divida o grupo."
+      ],
+      "faqsEn": [
+        {
+          "q": "What is the best month to visit Valletta with a dog?",
+          "a": "Spring (April–May) and autumn (October–November) are ideal: 18–25°C, dry, and dogs are allowed on most beaches outside the 1 June–30 September restriction. Avoid July and August, the combination of 33°C+ heat and dense limestone is exhausting for dogs."
+        },
+        {
+          "q": "Is Valletta walkable end-to-end with a dog?",
+          "a": "Yes. The peninsula is 1 km long and 600 m wide, almost entirely pedestrianised inside the walls. The main challenges are steep staircases at the lower harbour edges and limited shade at midday."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle est la meilleure saison pour visiter La Valette avec un chien ?",
+          "a": "Le printemps (avril-mai) et l'automne (octobre-novembre) sont idéaux : 18-25°C, sec, et les chiens sont autorisés sur la plupart des plages hors de la restriction 1er juin-30 septembre. Évitez juillet et août, le mélange 33°C et calcaire dense épuise les chiens."
+        },
+        {
+          "q": "Peut-on traverser La Valette à pied avec un chien ?",
+          "a": "Oui. La péninsule fait 1 km de long sur 600 m de large, presque entièrement piétonne dans les murs. Les principaux écueils sont les escaliers raides aux bords inférieurs du port et le manque d'ombre à midi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuál es el mejor mes para visitar La Valeta con perro?",
+          "a": "La primavera (abril-mayo) y el otoño (octubre-noviembre) son ideales: 18-25°C, seco y los perros admitidos en la mayoría de playas fuera de la restricción 1 junio-30 septiembre. Evita julio y agosto: 33°C y piedra caliente densa agotan al perro."
+        },
+        {
+          "q": "¿Se puede recorrer La Valeta a pie con un perro?",
+          "a": "Sí. La península mide 1 km de largo por 600 m de ancho, casi totalmente peatonal dentro de las murallas. Los principales obstáculos son las escaleras empinadas en los bordes bajos del puerto y la falta de sombra al mediodía."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Qual é o melhor mês para visitar Valletta com cão?",
+          "a": "A primavera (abril-maio) e o outono (outubro-novembro) são ideais: 18-25°C, seco e os cães admitidos na maioria das praias fora da restrição 1 junho-30 setembro. Evite julho e agosto: 33°C e calcário denso esgotam o cão."
+        },
+        {
+          "q": "É possível percorrer Valletta a pé com um cão?",
+          "a": "Sim. A península mede 1 km de comprimento por 600 m de largura, quase totalmente pedonal dentro das muralhas. Os principais obstáculos são as escadarias íngremes nas bordas baixas do porto e a falta de sombra ao meio-dia."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Pet-Friendly Attractions in Valletta",
+      "titleFr": "Attractions dog-friendly à La Valette",
+      "titleEs": "Atracciones dog-friendly en La Valeta",
+      "titlePt": "Atrações dog-friendly em Valletta",
+      "introEn": "Most of Valletta's headline attractions are outdoor or street-level, which keeps them accessible to dogs on a leash. The interiors of Saint John's Co-Cathedral, the Grand Master's Palace and the Lascaris War Rooms admit only assistance dogs, but Republic Street, the bastions, the harbour quays and the Saluting Battery viewing terrace are all dog-friendly. Day trips to silent walled Mdina and to Gozo by ferry expand the dog-friendly options well beyond the city itself.",
+      "introFr": "La plupart des attractions phares de La Valette sont en extérieur ou à hauteur de rue, donc accessibles aux chiens en laisse. Les intérieurs de la co-cathédrale Saint-Jean, du Palais du Grand Maître et des Lascaris War Rooms n'admettent que les chiens d'assistance, mais Republic Street, les bastions, les quais du port et la terrasse de la Saluting Battery sont dog-friendly. Les excursions à Mdina la silencieuse et à Gozo en ferry élargissent les options bien au-delà de la ville.",
+      "introEs": "La mayoría de las atracciones estrella de La Valeta están al aire libre o a nivel de calle, lo que las hace accesibles a los perros con correa. Los interiores de la Co-catedral de San Juan, el Palacio del Gran Maestre y las Lascaris War Rooms solo admiten perros de asistencia, pero Republic Street, los bastiones, los muelles del puerto y la terraza de la Saluting Battery son dog-friendly. Excursiones a Mdina la silenciosa y a Gozo en ferry amplían las opciones.",
+      "introPt": "A maioria das atrações principais de Valletta é ao ar livre ou ao nível da rua, o que as torna acessíveis a cães com trela. Os interiores da Co-catedral de São João, do Palácio do Grão-Mestre e das Lascaris War Rooms só admitem cães de assistência, mas a Republic Street, os bastiões, os cais do porto e a esplanada da Saluting Battery são dog-friendly. Excursões a Mdina silenciosa e a Gozo de ferry alargam as opções.",
+      "places": [
+        {
+          "name": "Saluting Battery & Upper Barrakka terrace",
+          "neighborhood": "Upper Valletta, harbour bastion",
+          "photo": "/images/city-places/valletta-attractions-saluting-battery-upper-barrakka-terrace.jpg",
+          "website": "https://www.visitmalta.com/en/poi/saluting-battery/",
+          "description": "Eight 19th-century guns lined up on the harbour terrace below Upper Barrakka, fired daily at noon and 16:00 as Malta's continuation of a 500-year-old tradition. The terrace and ceremony are open-air, dogs on leash are welcome, and the view across the Grand Harbour to the Three Cities is one of the best in the Mediterranean.",
+          "descriptionFr": "Huit canons du 19e siècle alignés sur la terrasse portuaire sous l'Upper Barrakka, tirés chaque jour à midi et 16h, perpétuant une tradition de 500 ans. La terrasse et la cérémonie sont en plein air, les chiens en laisse sont admis, et la vue sur le Grand Port et les Trois Cités est l'une des plus belles de Méditerranée.",
+          "descriptionEs": "Ocho cañones del siglo XIX alineados en la terraza portuaria bajo el Upper Barrakka, disparados a diario a las 12:00 y 16:00 como continuación de una tradición de 500 años. La terraza y la ceremonia son al aire libre, los perros con correa son admitidos, y la vista sobre el Gran Puerto y las Tres Ciudades es de las mejores del Mediterráneo.",
+          "descriptionPt": "Oito canhões do século XIX alinhados na esplanada portuária abaixo do Upper Barrakka, disparados diariamente ao meio-dia e às 16:00 como continuação de uma tradição de 500 anos. A esplanada e a cerimónia são ao ar livre, os cães com trela são admitidos, e a vista sobre o Grand Harbour e as Três Cidades é das melhores do Mediterrâneo.",
+          "dogPolicy": "Dogs on leash welcome on terrace; keep clear of the front row at firing time",
+          "dogPolicyFr": "Chiens en laisse acceptés sur la terrasse, éloignez-vous du premier rang au moment du tir",
+          "dogPolicyEs": "Perros con correa admitidos en la terraza, aléjate de la primera fila al momento del disparo",
+          "dogPolicyPt": "Cães com trela admitidos na esplanada, afaste-se da primeira fila no momento do disparo",
+          "admissionFee": "€3 for adults; free for dogs",
+          "admissionFeeFr": "3€ pour les adultes ; chiens gratuits",
+          "admissionFeeEs": "3€ adultos; perros gratis",
+          "admissionFeePt": "3€ adultos; cães grátis",
+          "tip": "Sound-sensitive dogs should be on the upper terrace (Upper Barrakka) at noon, the cannons are loud but the upper level dampens the report considerably.",
+          "tipFr": "Pour les chiens sensibles au bruit, restez sur la terrasse haute (Upper Barrakka) à midi, les canons sont forts mais l'étage supérieur amortit nettement.",
+          "tipEs": "Para perros sensibles al ruido, mantente en la terraza alta (Upper Barrakka) a las 12:00, los cañones son ruidosos pero el nivel superior amortigua bastante.",
+          "tipPt": "Para cães sensíveis ao ruído, mantenha-se na esplanada superior (Upper Barrakka) ao meio-dia, os canhões são altos mas o nível superior amortece bastante.",
+          "googleMapsUrl": "https://maps.google.com/?q=Saluting+Battery+Valletta"
+        },
+        {
+          "name": "Mdina, the Silent City",
+          "neighborhood": "Mdina (day trip, 13 km west)",
+          "photo": "/images/city-places/valletta-attractions-mdina-the-silent-city.jpg",
+          "website": "https://www.visitmalta.com/en/poi/mdina/",
+          "description": "The former medieval capital of Malta sits on a hilltop with sweeping views across the island. Cars are restricted, the narrow stone alleys are pedestrianised, and dogs on leash are welcome throughout. Walking Mdina at dusk, with the limestone catching the last sun, is one of the most atmospheric dog walks in Malta.",
+          "descriptionFr": "L'ancienne capitale médiévale de Malte siège au sommet d'une colline avec une vue panoramique sur l'île. Les voitures sont restreintes, les ruelles pavées sont piétonnes et les chiens en laisse sont admis partout. Marcher Mdina au crépuscule, le calcaire prenant les derniers rayons du soleil, est l'une des promenades canines les plus atmosphériques de Malte.",
+          "descriptionEs": "La antigua capital medieval de Malta se asienta en lo alto de una colina con vistas amplias a la isla. Los coches están restringidos, las callejas de piedra son peatonales y los perros con correa son admitidos. Pasear Mdina al atardecer, con la piedra caliza captando los últimos rayos, es uno de los paseos caninos más atmosféricos de Malta.",
+          "descriptionPt": "A antiga capital medieval de Malta ergue-se no topo de uma colina com vistas amplas sobre a ilha. Os carros são restringidos, as ruelas de pedra são pedonais e os cães com trela são admitidos em todo o lado. Caminhar Mdina ao entardecer, com o calcário a captar os últimos raios, é um dos passeios caninos mais atmosféricos de Malta.",
+          "dogPolicy": "Dogs on leash welcome throughout the walled city; interiors of churches and museums admit only assistance dogs",
+          "dogPolicyFr": "Chiens en laisse admis dans toute la ville fortifiée, l'intérieur des églises et musées n'admet que les chiens d'assistance",
+          "dogPolicyEs": "Perros con correa admitidos en toda la ciudad amurallada, los interiores de iglesias y museos solo admiten perros de asistencia",
+          "dogPolicyPt": "Cães com trela admitidos em toda a cidade muralhada, os interiores de igrejas e museus só admitem cães de assistência",
+          "admissionFee": "Free to enter the city; museum admissions €5–10",
+          "admissionFeeFr": "Gratuit pour entrer dans la ville, entrées musées 5-10€",
+          "admissionFeeEs": "Gratis para entrar en la ciudad; museos 5-10€",
+          "admissionFeePt": "Gratuito para entrar na cidade; museus 5-10€",
+          "tip": "Take bus 51 from Valletta (35 min) or a taxi. Mdina is genuinely silent after the day-trippers leave around 17:00, the best window for dog walking is 18:00 onwards.",
+          "tipFr": "Bus 51 depuis La Valette (35 min) ou taxi. Mdina est réellement silencieuse après le départ des excursionnistes vers 17h, la meilleure fenêtre pour promener le chien est à partir de 18h.",
+          "tipEs": "Autobús 51 desde La Valeta (35 min) o taxi. Mdina queda realmente silenciosa tras la marcha de los excursionistas hacia las 17:00, la mejor ventana para pasear el perro es a partir de las 18:00.",
+          "tipPt": "Autocarro 51 a partir de Valletta (35 min) ou táxi. Mdina fica verdadeiramente silenciosa após a saída dos excursionistas pelas 17:00, a melhor janela para passear o cão é a partir das 18:00.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mdina+Silent+City+Malta"
+        },
+        {
+          "name": "Three Cities ferry & Senglea waterfront",
+          "neighborhood": "Senglea (Isla), Vittoriosa, Cospicua",
+          "photo": "/images/city-places/valletta-attractions-three-cities-ferry-senglea-waterfront.jpg",
+          "website": "https://www.vallettaferryservices.com/",
+          "description": "The 15-minute ferry from Valletta to Senglea drops you into a far quieter, more residential pocket of historic Malta, with quaysides, fishing boats and the iconic Gardjola watchtower with carved eye and ear motifs. Dogs travel free on the ferry and are welcome along the entire waterfront walk between Senglea, Vittoriosa and Cospicua.",
+          "descriptionFr": "Le ferry de 15 minutes entre La Valette et Senglea vous dépose dans une poche bien plus tranquille et résidentielle de Malte historique, avec quais, barques de pêche et la tour Gardjola emblématique avec ses motifs d'œil et d'oreille sculptés. Les chiens voyagent gratuitement sur le ferry et sont les bienvenus sur tout le front de mer entre Senglea, Vittoriosa et Cospicua.",
+          "descriptionEs": "El ferry de 15 minutos entre La Valeta y Senglea te deja en una zona mucho más tranquila y residencial de Malta histórica, con muelles, barcas de pesca y la icónica torre Gardjola con sus motivos tallados de ojo y oreja. Los perros viajan gratis en el ferry y son bienvenidos en todo el paseo marítimo entre Senglea, Vittoriosa y Cospicua.",
+          "descriptionPt": "O ferry de 15 minutos entre Valletta e Senglea deixa-o num bolsão muito mais tranquilo e residencial de Malta histórica, com cais, barcos de pesca e a icónica torre Gardjola com os seus motivos esculpidos de olho e ouvido. Os cães viajam gratuitamente no ferry e são bem-vindos em todo o passeio marítimo entre Senglea, Vittoriosa e Cospicua.",
+          "dogPolicy": "Dogs free on the ferry (leash, outdoor deck); welcome along all public quayside walks",
+          "dogPolicyFr": "Chiens gratuits sur le ferry (laisse, pont extérieur), bienvenus sur toutes les promenades portuaires publiques",
+          "dogPolicyEs": "Perros gratis en el ferry (correa, cubierta exterior); bienvenidos en todos los paseos públicos del puerto",
+          "dogPolicyPt": "Cães grátis no ferry (trela, convés exterior); bem-vindos em todos os passeios públicos do porto",
+          "admissionFee": "€2.80 return ferry ticket; dogs free",
+          "admissionFeeFr": "2,80€ aller-retour ferry, chiens gratuits",
+          "admissionFeeEs": "2,80€ ida y vuelta ferry; perros gratis",
+          "admissionFeePt": "2,80€ ida e volta ferry; cães grátis",
+          "tip": "The first ferry leaves at 07:00; an early-morning crossing combined with a Senglea breakfast on a shaded quayside terrace is the best escape from Valletta's heat.",
+          "tipFr": "Le premier ferry part à 7h, une traversée matinale combinée à un petit-déjeuner à Senglea sur une terrasse ombragée est la meilleure échappée à la chaleur de La Valette.",
+          "tipEs": "El primer ferry sale a las 07:00; una travesía matinal combinada con desayuno en Senglea en una terraza sombreada es la mejor escapada al calor de La Valeta.",
+          "tipPt": "O primeiro ferry parte às 07:00; uma travessia matinal combinada com pequeno-almoço em Senglea numa esplanada sombreada é a melhor fuga ao calor de Valletta.",
+          "googleMapsUrl": "https://maps.google.com/?q=Senglea+Gardjola+Garden+Malta"
+        }
+      ],
+      "tipsEn": [
+        "Most museum and church interiors require assistance-dog certification, plan an outdoor-only itinerary or split the group with one person sitting outside.",
+        "Mdina at sunset is the most underrated dog experience in Malta; the limestone glows, the day-tour crowds have left, and dogs feel at home in the pedestrianised lanes.",
+        "Avoid the Saluting Battery's lower terrace at 12:00 and 16:00 if your dog is sound-sensitive, the 21-gun report carries far over the harbour."
+      ],
+      "tipsFr": [
+        "L'intérieur des musées et églises exige un chien d'assistance certifié, prévoyez un itinéraire exclusivement extérieur ou divisez le groupe.",
+        "Mdina au coucher du soleil est l'expérience canine la plus sous-cotée de Malte : le calcaire rougeoie, les groupes touristiques sont partis et les chiens se sentent chez eux dans les ruelles piétonnes.",
+        "Évitez la terrasse basse de la Saluting Battery à 12h et 16h si votre chien est sensible au bruit, la salve de 21 coups porte loin sur le port."
+      ],
+      "tipsEs": [
+        "El interior de museos e iglesias exige un perro de asistencia certificado; planea un itinerario solo exterior o divide el grupo.",
+        "Mdina al atardecer es la experiencia canina más infravalorada de Malta: la piedra caliza brilla, los grupos turísticos se han ido y los perros se sienten en casa en las callejuelas peatonales.",
+        "Evita la terraza baja de la Saluting Battery a las 12:00 y 16:00 si tu perro es sensible al ruido, la salva de 21 disparos llega lejos sobre el puerto."
+      ],
+      "tipsPt": [
+        "O interior dos museus e igrejas exige um cão de assistência certificado; planeie um itinerário só exterior ou divida o grupo.",
+        "Mdina ao pôr-do-sol é a experiência canina mais subvalorizada de Malta: o calcário brilha, os grupos turísticos partiram e os cães sentem-se em casa nas ruelas pedonais.",
+        "Evite a esplanada inferior da Saluting Battery às 12:00 e 16:00 se o seu cão for sensível ao ruído, a salva de 21 tiros chega longe sobre o porto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Saint John's Co-Cathedral?",
+          "a": "No, only certified assistance dogs are admitted inside the cathedral, the Grand Master's Palace and most other museum interiors in Valletta. The cathedral square outside is dog-friendly."
+        },
+        {
+          "q": "Can I take a harbour cruise with my dog?",
+          "a": "Yes, several Grand Harbour cruise operators (Captain Morgan, Hera Cruises) accept dogs on outdoor decks, generally at no extra charge. Call ahead to confirm and bring a leash, water bowl, and a folded blanket for the deck."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans la co-cathédrale Saint-Jean ?",
+          "a": "Non, seuls les chiens d'assistance certifiés sont admis dans la cathédrale, le Palais du Grand Maître et la plupart des autres musées de La Valette. La place de la cathédrale en extérieur est dog-friendly."
+        },
+        {
+          "q": "Peut-on faire une croisière du port avec son chien ?",
+          "a": "Oui, plusieurs opérateurs du Grand Port (Captain Morgan, Hera Cruises) acceptent les chiens en pont extérieur, généralement sans surcoût. Appelez avant de confirmer et apportez laisse, gamelle et couverture pliée pour le pont."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en la Co-catedral de San Juan?",
+          "a": "No, solo se admiten perros de asistencia certificados en la catedral, el Palacio del Gran Maestre y la mayoría de interiores museísticos de La Valeta. La plaza exterior de la catedral es dog-friendly."
+        },
+        {
+          "q": "¿Puedo hacer un crucero por el puerto con mi perro?",
+          "a": "Sí, varios operadores del Gran Puerto (Captain Morgan, Hera Cruises) admiten perros en cubierta exterior, normalmente sin coste adicional. Llama para confirmar y lleva correa, cuenco y manta plegada para la cubierta."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos na Co-catedral de São João?",
+          "a": "Não, apenas cães de assistência certificados são admitidos na catedral, no Palácio do Grão-Mestre e na maioria dos interiores museológicos de Valletta. A praça exterior da catedral é dog-friendly."
+        },
+        {
+          "q": "Posso fazer um cruzeiro pelo porto com o meu cão?",
+          "a": "Sim, vários operadores do Grand Harbour (Captain Morgan, Hera Cruises) admitem cães no convés exterior, normalmente sem custo adicional. Ligue para confirmar e leve trela, tigela e manta dobrada para o convés."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog Walking in Valletta",
+      "titleFr": "Garde et promenade de chien à La Valette",
+      "titleEs": "Cuidado y paseo de perros en La Valeta",
+      "titlePt": "Acolhimento e passeio de cães em Valletta",
+      "introEn": "Malta has an active expat community and a small but professional dog-care market concentrated around Sliema, St Julian's and the central towns of Birkirkara and Mosta. The two pan-European platforms (Pawshake and Rover) both have a handful of vetted sitters on the island, plus a few independent Maltese operators. Plan ahead in summer, sitter availability tightens between June and September.",
+      "introFr": "Malte dispose d'une communauté expatriée active et d'un marché professionnel modeste de garde canine concentré autour de Sliema, St Julian's et des villes centrales de Birkirkara et Mosta. Les deux plateformes paneuropéennes (Pawshake et Rover) ont chacune quelques pet-sitters vérifiés sur l'île, plus quelques opérateurs indépendants. Réservez tôt en été, la disponibilité se tend entre juin et septembre.",
+      "introEs": "Malta tiene una comunidad expat activa y un mercado profesional modesto de cuidado canino concentrado en Sliema, St Julian's y las ciudades centrales de Birkirkara y Mosta. Las dos plataformas paneuropeas (Pawshake y Rover) tienen cada una unos pet-sitters verificados en la isla, más algunos operadores independientes. Reserva pronto en verano: la disponibilidad se tensa entre junio y septiembre.",
+      "introPt": "Malta tem uma comunidade expat activa e um mercado profissional modesto de cuidado canino concentrado em Sliema, St Julian's e nas cidades centrais de Birkirkara e Mosta. As duas plataformas pan-europeias (Pawshake e Rover) têm cada uma alguns pet-sitters verificados na ilha, além de operadores independentes. Reserve cedo no verão: a disponibilidade aperta entre junho e setembro.",
+      "places": [
+        {
+          "name": "Pawshake Malta",
+          "website": "https://www.pawshake.com/sit/malta",
+          "description": "European pet-sitting platform with vetted sitters across Malta, including several based in Sliema, Gżira and Birkirkara — all within 20 minutes of Valletta. Insurance and 24/7 support included. Sitters offer drop-in visits, dog walks, day care and overnight boarding.",
+          "descriptionFr": "Plateforme européenne de pet-sitting avec des sitters vérifiés à Malte, dont plusieurs basés à Sliema, Gżira et Birkirkara, à 20 min maximum de La Valette. Assurance et support 24/7 inclus. Les sitters proposent visites, promenades, garde de jour et nuitées.",
+          "descriptionEs": "Plataforma europea de pet-sitting con cuidadores verificados en Malta, varios en Sliema, Gżira y Birkirkara, a 20 min máximo de La Valeta. Seguro y soporte 24/7 incluidos. Los cuidadores ofrecen visitas, paseos, guardería de día y noches.",
+          "descriptionPt": "Plataforma europeia de pet-sitting com cuidadores verificados em Malta, vários em Sliema, Gżira e Birkirkara, a 20 min no máximo de Valletta. Seguro e suporte 24/7 incluídos. Os cuidadores oferecem visitas, passeios, creche de dia e dormidas.",
+          "serviceType": "Drop-in visits, walks, day care, overnight boarding",
+          "serviceTypeFr": "Visites, promenades, garde de jour, nuitées",
+          "serviceTypeEs": "Visitas, paseos, guardería de día, noches",
+          "serviceTypePt": "Visitas, passeios, creche de dia, dormidas",
+          "pricePerDay": "€15–25 per walk, €25–40 per day, €35–50 per night",
+          "languages": [
+            "English",
+            "Maltese",
+            "Italian"
+          ],
+          "tip": "Filter Pawshake by 'Sliema' or 'Gżira' rather than 'Valletta' itself, the densest cluster of sitters is on the harbour just opposite the city.",
+          "tipFr": "Filtrez Pawshake par 'Sliema' ou 'Gżira' plutôt que 'Valletta', la plus forte densité de sitters est sur le port en face de la ville.",
+          "tipEs": "Filtra Pawshake por 'Sliema' o 'Gżira' en vez de 'Valletta', la mayor densidad de cuidadores está en el puerto frente a la ciudad.",
+          "tipPt": "Filtre Pawshake por 'Sliema' ou 'Gżira' em vez de 'Valletta', a maior densidade de cuidadores está no porto em frente à cidade."
+        },
+        {
+          "name": "Rover Malta",
+          "website": "https://www.rover.com/uk/search/?location=malta",
+          "description": "Global dog-sitting marketplace with a smaller but growing presence in Malta. Sitters cluster around the central conurbation (Sliema, Msida, Birkirkara). Useful as a backup if Pawshake is fully booked or for longer-stay boarding.",
+          "descriptionFr": "Marketplace mondial de garde canine avec une présence plus petite mais croissante à Malte. Les sitters sont concentrés dans la conurbation centrale (Sliema, Msida, Birkirkara). Utile en plan B si Pawshake est complet ou pour les pensions plus longues.",
+          "descriptionEs": "Marketplace global de cuidado canino con presencia más pequeña pero creciente en Malta. Los cuidadores se concentran en la conurbación central (Sliema, Msida, Birkirkara). Útil como plan B si Pawshake está completo o para estancias largas.",
+          "descriptionPt": "Marketplace global de cuidado canino com presença mais pequena mas crescente em Malta. Os cuidadores concentram-se na conurbação central (Sliema, Msida, Birkirkara). Útil como plano B se Pawshake estiver lotado ou para estadias longas.",
+          "serviceType": "Walks, day care, boarding",
+          "serviceTypeFr": "Promenades, garde de jour, pension",
+          "serviceTypeEs": "Paseos, guardería de día, pensión",
+          "serviceTypePt": "Passeios, creche de dia, pensão",
+          "pricePerDay": "€18–28 per walk, €30–45 per day, €40–60 per night",
+          "languages": [
+            "English",
+            "Maltese"
+          ],
+          "tip": "Use Rover for overnight boarding requests of three nights or more, the longer stays better suit the platform's sitter base on the island.",
+          "tipFr": "Utilisez Rover pour les demandes de pension de trois nuits et plus, les séjours longs conviennent mieux à la base de sitters sur l'île.",
+          "tipEs": "Usa Rover para solicitudes de pensión de tres noches o más, las estancias largas encajan mejor con la base de cuidadores en la isla.",
+          "tipPt": "Use Rover para pedidos de pensão de três noites ou mais, as estadias longas encaixam melhor na base de cuidadores na ilha."
+        }
+      ],
+      "tipsEn": [
+        "Book at least 7–10 days ahead for summer travel (June–September); the sitter pool is small and demand from cruise-ship passengers and expats peaks in those months.",
+        "Maltese pet-sitters are universally English-speaking; no language barrier for UK, US, Australian or Irish travellers.",
+        "If you are staying in Valletta itself, expect to taxi the dog 10–20 minutes to the sitter's home in Sliema or Birkirkara, very few sitters live inside the old city walls."
+      ],
+      "tipsFr": [
+        "Réservez au moins 7-10 jours à l'avance pour un voyage estival (juin-septembre), le vivier de sitters est petit et la demande des croisiéristes et expatriés culmine ces mois.",
+        "Les pet-sitters maltais sont universellement anglophones, aucun obstacle de langue pour les voyageurs UK, US, australiens ou irlandais.",
+        "Si vous logez à La Valette même, prévoyez 10-20 min de taxi pour amener le chien chez le sitter à Sliema ou Birkirkara, très peu de sitters vivent à l'intérieur des murs."
+      ],
+      "tipsEs": [
+        "Reserva con al menos 7-10 días de antelación para viajes de verano (junio-septiembre); la oferta de cuidadores es pequeña y la demanda de cruceristas y expats se dispara esos meses.",
+        "Los pet-sitters malteses hablan inglés universalmente, sin barrera idiomática para viajeros UK, US, australianos o irlandeses.",
+        "Si te alojas en La Valeta misma, cuenta con 10-20 min de taxi para llevar al perro a la casa del cuidador en Sliema o Birkirkara, pocos cuidadores viven dentro de las murallas."
+      ],
+      "tipsPt": [
+        "Reserve com pelo menos 7-10 dias de antecedência para viagens de verão (junho-setembro); a oferta de cuidadores é pequena e a procura de cruzeiristas e expats dispara nesses meses.",
+        "Os pet-sitters malteses falam inglês universalmente, sem barreira linguística para viajantes UK, US, australianos ou irlandeses.",
+        "Se ficar em Valletta, conte com 10-20 min de táxi para levar o cão a casa do cuidador em Sliema ou Birkirkara, poucos cuidadores vivem dentro das muralhas."
+      ],
+      "faqsEn": [
+        {
+          "q": "How much does a dog sitter cost per day in Malta?",
+          "a": "Expect €30–45 per day for day care and €40–60 per night for overnight boarding via Pawshake or Rover. Individual dog walks run €15–25. Prices are higher in July and August."
+        },
+        {
+          "q": "Can I use a pet-sitting platform like Pawshake in Malta if I am visiting briefly?",
+          "a": "Yes. Pawshake and Rover both let visitors book sitters as guests, with insurance and 24/7 support included. Confirm the sitter is happy with a short-stay traveller's dog before booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Combien coûte un dog-sitter par jour à Malte ?",
+          "a": "Comptez 30-45€/jour pour la garde de jour et 40-60€/nuit pour la pension via Pawshake ou Rover. Les promenades individuelles sont à 15-25€. Les tarifs montent en juillet-août."
+        },
+        {
+          "q": "Puis-je utiliser Pawshake à Malte pour un court séjour ?",
+          "a": "Oui. Pawshake et Rover permettent aux visiteurs de réserver en tant qu'invités, avec assurance et support 24/7 inclus. Confirmez avant de réserver que le sitter est à l'aise avec un chien de passage."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuánto cuesta un cuidador de perros al día en Malta?",
+          "a": "Cuenta con 30-45€/día para guardería de día y 40-60€/noche para pensión vía Pawshake o Rover. Los paseos individuales cuestan 15-25€. Los precios suben en julio y agosto."
+        },
+        {
+          "q": "¿Puedo usar Pawshake en Malta para una estancia corta?",
+          "a": "Sí. Pawshake y Rover permiten a los visitantes reservar como invitados, con seguro y soporte 24/7 incluidos. Confirma antes que el cuidador está cómodo con un perro de paso."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quanto custa um cuidador de cães por dia em Malta?",
+          "a": "Conte com 30-45€/dia para creche e 40-60€/noite para pensão via Pawshake ou Rover. Os passeios individuais custam 15-25€. Os preços sobem em julho e agosto."
+        },
+        {
+          "q": "Posso usar Pawshake em Malta para uma estadia curta?",
+          "a": "Sim. Pawshake e Rover permitem aos visitantes reservar como convidados, com seguro e suporte 24/7 incluídos. Confirme antes que o cuidador está confortável com um cão de passagem."
+        }
+      ]
+    }
+  }
+}

@@ -125,7 +125,7 @@ const TOP_25: IslandEntry[] = [
     es: `Clima suave todo el año (sin verdadero invierno), varias playas caninas oficialmente designadas alrededor de Yeroskipou y Lárnaca, y cobertura veterinaria de urgencias 24/7 en Limasol y Pafos.`,
     pt: `Clima ameno o ano inteiro (sem verdadeiro inverno), várias praias caninas oficialmente designadas em redor de Geroskipou e Larnaca, e cobertura veterinária de urgência 24/7 em Limassol e Pafos.`,
   }},
-  { slug: null, rank: 17, photoSlug: 'malta', islandName: 'Malta', country: 'Malta', flag: '🇲🇹', reason: {
+  { slug: 'valletta', rank: 17, photoSlug: 'malta', islandName: 'Malta', country: 'Malta', flag: '🇲🇹', reason: {
     en: `English-speaking, walkable Valletta, mild year-round climate, and a dense network of pet-friendly cafés. Public transport is dog-friendly with carriers, and the limestone coast is walkable with dogs out of high season.`,
     fr: `Anglophone, La Valette piétonne, climat clément à l'année et un dense réseau de cafés pet-friendly. Les transports en commun acceptent les chiens en cage de transport, et la côte calcaire se prête à de longues promenades hors période estivale.`,
     es: `Anglófona, La Valeta peatonal, clima suave todo el año y una densa red de cafés pet-friendly. El transporte público admite perros en transportín, y la costa caliza se pasea con perro fuera de temporada alta.`,

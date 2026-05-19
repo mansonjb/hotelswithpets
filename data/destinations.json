@@ -9761,6 +9761,82 @@
     "tiqetsId": "65847"
   },
   {
+    "slug": "valletta",
+    "name": "Valletta",
+    "country": "Malta",
+    "countryCode": "MT",
+    "flag": "🇲🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/valletta.jpg",
+    "intro": "Valletta's limestone fortress city, Grand Harbour bastions, and pet-friendly ferry network make Malta's UNESCO capital a year-round Mediterranean destination for dog owners.",
+    "lat": 35.8989,
+    "lng": 14.5146,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      }
+    },
+    "iata": "MLA",
+    "tiqetsId": "73787"
+  },
+  {
     "slug": "venice",
     "name": "Venice",
     "country": "Italy",

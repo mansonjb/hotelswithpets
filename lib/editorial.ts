@@ -672,6 +672,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Turia Garden (9 km off-leash friendly), the Malvarrosa beach dog zone, and the Albufera nature park',
       area: 'Ruzafa, El Carmen, and the Eixample',
     },
+    valletta: {
+      personality: 'a compact UNESCO limestone fortress city where dogs walk the entire 1 km peninsula in an afternoon, ride the Sliema and Three Cities ferries free, and find welcome on terrace cafés and the historic Barrakka and Hastings Gardens',
+      highlight: 'the Upper Barrakka Gardens above the Grand Harbour, the Hastings Gardens bastion walk, and a day trip to Ta\'Qali National Park',
+      area: 'the Valletta peninsula itself, Sliema across Marsamxett, and the Three Cities of Senglea, Vittoriosa and Cospicua',
+    },
     venice: {
       personality: 'one of Italy\'s most surprisingly dog-friendly cities. Dogs ride the vaporetto, explore quiet sestieri away from crowds, and are welcomed in many local bacari',
       highlight: 'the Lido island beaches (dogs allowed off-season), the quiet canals of Cannaregio, and the Sant\'Elena park',
@@ -1373,6 +1378,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville méditerranéenne ensoleillée avec 19 km de parc traversant son centre. L\'ancien lit de la Turia. Ce qui en fait l\'une des villes les plus praticables d\'Europe pour les propriétaires de chiens',
       highlight: 'le Jardin du Turia (9 km largement sans laisse), la zone chiens de la plage de Malvarrosa et le parc naturel de l\'Albufera',
       area: 'Ruzafa, El Carmen et l\'Eixample',
+    },
+    valletta: {
+      personality: 'une compacte ville-forteresse de calcaire classée UNESCO où les chiens parcourent la péninsule d\'1 km en un après-midi, montent gratuitement à bord des ferries de Sliema et des Trois Cités et sont accueillis sur les terrasses et dans les jardins Barrakka et Hastings',
+      highlight: 'les jardins Upper Barrakka surplombant le Grand Port, la promenade des bastions Hastings et une excursion à Ta\'Qali National Park',
+      area: 'la péninsule de La Valette elle-même, Sliema en face de Marsamxett, et les Trois Cités de Senglea, Vittoriosa et Cospicua',
     },
     venice: {
       personality: 'l\'une des villes les plus étonnamment dog-friendly d\'Italie. Les chiens prennent le vaporetto, explorent les sestieri tranquilles loin des foules et sont accueillis dans de nombreux bacari locaux',
@@ -2076,6 +2086,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Jardín del Turia (9 km mayormente sin correa), la zona para perros de la playa de Malvarrosa y el parque natural de la Albufera',
       area: 'Ruzafa, El Carmen y el Eixample',
     },
+    valletta: {
+      personality: 'una compacta ciudad-fortaleza de piedra caliza declarada Patrimonio de la Humanidad por la UNESCO donde los perros recorren la península de 1 km en una tarde, viajan gratis en los ferris a Sliema y a las Tres Ciudades y son bienvenidos en terrazas y en los jardines históricos Barrakka y Hastings',
+      highlight: 'los Upper Barrakka Gardens sobre el Gran Puerto, el paseo de los bastiones Hastings y una excursión al Ta\'Qali National Park',
+      area: 'la propia península de La Valeta, Sliema frente a Marsamxett, y las Tres Ciudades de Senglea, Vittoriosa y Cospicua',
+    },
     venice: {
       personality: 'una de las ciudades más sorprendentemente dog-friendly de Italia. Los perros viajan en vaporetto, exploran tranquilos sestieri lejos de las multitudes y son bienvenidos en muchos bacari locales',
       highlight: 'las playas de la isla del Lido (perros permitidos fuera de temporada), los tranquilos canales de Cannaregio y el parque de Sant\'Elena',
@@ -2777,6 +2792,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade mediterrânea soleada com 19 km de parque atravesando o seu centro. O antigo cauce do Turia. Que a convierte numa das cidades mais transitables de Europa para os duenhos de cães',
       highlight: 'o Jardim do Turia (9 km mayormente sem trela), a zona para cães da praia de Malvarrosa e o parque natural da Albufera',
       area: 'Ruzafa, O Carmen e o Eixample',
+    },
+    valletta: {
+      personality: 'uma compacta cidade-fortaleza de calcário classificada pela UNESCO onde os cães percorrem a península de 1 km numa tarde, viajam gratuitamente nos ferries para Sliema e para as Três Cidades e são bem-vindos em esplanadas e nos jardins históricos Barrakka e Hastings',
+      highlight: 'os Upper Barrakka Gardens sobre o Grand Harbour, o passeio dos bastiões Hastings e uma excursão ao Ta\'Qali National Park',
+      area: 'a própria península de Valletta, Sliema em frente a Marsamxett, e as Três Cidades de Senglea, Vittoriosa e Cospicua',
     },
     venice: {
       personality: 'uma das cidades mais sorprendentemente pet-friendly de Italia. Os cães viajan en vaporetto, exploran tranquilos sestieri longe das multitudes e são bem-vindos en muitos bacari locales',

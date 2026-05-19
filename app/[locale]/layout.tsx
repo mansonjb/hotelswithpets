@@ -119,6 +119,14 @@ export default async function LocaleLayout({
             __html: `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "wsnnrbve9l");`,
           }}
         />
+        {/* Travelpayouts (flight + travel affiliate), marker 530832 */}
+        <Script
+          id="travelpayouts"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var s=document.createElement("script");s.async=1;s.src="https://emrldtp.com/NTMwODMy.js?t=530832";document.head.appendChild(s);})();`,
+          }}
+        />
       </body>
     </html>
   )

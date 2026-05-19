@@ -74,6 +74,9 @@ export default function TravelpayoutsFlightWidget({ destinationIATA, locale, cit
       color_button_text: '#ffffff',
       promo_id: PROMO_ID,
       campaign_id: CAMPAIGN_ID,
+      // Force empty origin so the widget falls back to IP-detected user location
+      // instead of the NTE default baked into the saved widget config (shmarker).
+      default_origin: '',
     })
     if (destinationIATA) params.set('default_destination', destinationIATA)
 

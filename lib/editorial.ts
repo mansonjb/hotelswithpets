@@ -667,6 +667,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the 84-hectare Parco del Valentino, the 10 km Po riverside, and the Basilica di Superga reached by vintage rack railway',
       area: 'San Salvario, the Quadrilatero Romano, and the Piazza Castello historic core',
     },
+    uppsala: {
+      personality: `Sweden's most relaxed dog-travel city after Stockholm, a compact medieval university town where a 108-hectare urban forest meets seven municipal hundrastgårdar, a 24-hour vet hospital and a fika culture that welcomes dogs at the café table`,
+      highlight: `the 108-hectare Stadsskogen forest reserve, the royal mounds of Gamla Uppsala, and a designated river dog beach at Storvadsbadet`,
+      area: `Centrum around Stora Torget and the cathedral close, Luthagen by Stadsskogen, and Sunnersta on the Lake Ekoln shore`,
+    },
     utrecht: {
       personality: 'a compact Dutch university city where dogs ride city buses and trams free, the canal-cruise operator welcomes dogs at no charge, and three off-leash zones, the 300-hectare Máximapark, the central Griftpark, and the Amelisweerd estates, are all reachable from the historic core',
       highlight: 'Máximapark in Leidsche Rijn, the central Griftpark, and the Amelisweerd & Rhijnauwen estates 5 km southeast',
@@ -1378,6 +1383,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'la capitale baroque du nord de l\'Italie, avec 18 km d\'arcades couvertes qui abritent chiens et propriétaires de la pluie et du soleil estival, 35+ zones canines clôturées, et les Alpes à une heure pour les escapades du week-end',
       highlight: 'les 84 hectares du Parco del Valentino, les 10 km de berges du Pô et la Basilique de Superga atteinte par train à crémaillère',
       area: 'San Salvario, le Quadrilatero Romano et le cœur historique autour de la Piazza Castello',
+    },
+    uppsala: {
+      personality: `la ville la plus détendue de Suède pour voyager avec un chien après Stockholm, ville universitaire médiévale compacte où une réserve forestière urbaine de 108 hectares côtoie sept hundrastgårdar municipaux, un hôpital vétérinaire 24h/24 et une culture du fika qui accueille les chiens à la table du café`,
+      highlight: `la réserve forestière de Stadsskogen (108 hectares), les tumulus royaux de Gamla Uppsala et une plage chiens dédiée sur le Fyrisån à Storvadsbadet`,
+      area: `Centrum autour de Stora Torget et du parvis de la cathédrale, Luthagen près de Stadsskogen, et Sunnersta sur la rive du lac Ekoln`,
     },
     utrecht: {
       personality: 'une ville universitaire néerlandaise compacte où les chiens montent gratuitement dans les bus et trams urbains, où l\'opérateur de croisière canalière accepte les chiens sans supplément, et où trois zones sans laisse, le Máximapark de 300 hectares, le Griftpark central et les domaines d\'Amelisweerd, sont toutes accessibles depuis le cœur historique',
@@ -2091,6 +2101,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las 84 hectáreas del Parco del Valentino, los 10 km de orillas del Po y la Basílica de Superga a la que se accede por tren de cremallera',
       area: 'San Salvario, el Quadrilatero Romano y el núcleo histórico en torno a Piazza Castello',
     },
+    uppsala: {
+      personality: `la ciudad más relajada de Suecia para viajar con un perro después de Estocolmo, una compacta ciudad universitaria medieval donde una reserva forestal urbana de 108 hectáreas convive con siete hundrastgårdar municipales, un hospital veterinario 24/7 y una cultura del fika que acoge a los perros en la mesa del café`,
+      highlight: `la reserva forestal de Stadsskogen (108 hectáreas), los túmulos reales de Gamla Uppsala y una playa para perros dedicada sobre el Fyrisån en Storvadsbadet`,
+      area: `Centrum en torno a Stora Torget y el recinto catedralicio, Luthagen junto a Stadsskogen, y Sunnersta a orillas del lago Ekoln`,
+    },
     utrecht: {
       personality: 'una compacta ciudad universitaria neerlandesa donde los perros viajan gratis en autobuses y tranvías urbanos, el operador de cruceros por los canales admite perros sin coste, y tres zonas sin correa, el Máximapark de 300 hectáreas, el Griftpark central y las fincas de Amelisweerd, son accesibles desde el casco histórico',
       highlight: 'el Máximapark en Leidsche Rijn, el Griftpark central y las fincas Amelisweerd & Rhijnauwen a 5 km al sureste',
@@ -2802,6 +2817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a capital barroca do norte de Italia, com 18 km de pórticos cubiertos que resguardan a cães e duenhos da lluvia e do sol estival, mais de 35 zonas caninas valladas, e os Alpes a uma hora para escapadas de fin de semana',
       highlight: 'as 84 hectáreas do Parco do Valentino, os 10 km de margens do Po e a Basílica de Superga a a que se accede por comboio de cremallera',
       area: 'San Salvario, o Quadrilatero Romano e o núcleo histórico en torno a Piazza Castello',
+    },
+    uppsala: {
+      personality: `a cidade mais relaxada da Suécia para viajar com um cão depois de Estocolmo, uma compacta cidade universitária medieval onde uma reserva florestal urbana de 108 hectares convive com sete hundrastgårdar municipais, um hospital veterinário 24/7 e uma cultura do fika que acolhe os cães à mesa do café`,
+      highlight: `a reserva florestal de Stadsskogen (108 hectares), os túmulos reais de Gamla Uppsala e uma praia para cães dedicada no Fyrisån em Storvadsbadet`,
+      area: `Centrum à volta de Stora Torget e do adro da catedral, Luthagen junto a Stadsskogen, e Sunnersta nas margens do lago Ekoln`,
     },
     utrecht: {
       personality: 'uma compacta cidade universitaria neerlandesa onde os cães viajan grátis en autocarros e elétricos urbanos, o operador de cruceros pelos canales admite cães sem coste, e tres zonas sem trela, o Máximapark de 300 hectáreas, o Griftpark central e as fincas de Amelisweerd, são acessíveis a partir do casco histórico',

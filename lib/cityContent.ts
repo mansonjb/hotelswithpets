@@ -16640,6 +16640,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  uppsala: {
+    history: {
+      fr: `Fondée comme évêché en 1164 et siège de l'archevêché de Suède depuis 1273, Uppsala est la capitale spirituelle et académique du pays. La cathédrale de 1287, plus haute église de Scandinavie (118,7 m), abrite les sépultures de Gustav Vasa et de Carl von Linné. À 5 km au nord se dressent les tumulus royaux de Gamla Uppsala, centre spirituel du monde viking préchrétien et l'un des sites archéologiques les plus légendaires de Suède. La fondation en 1477 de la plus ancienne université de Scandinavie a donné à la ville son caractère étudiant : aujourd'hui 230 000 habitants dont 45 000 étudiants, un centre médiéval compact traversé par le Fyrisån, et une infrastructure vétérinaire unique grâce à la SLU et à son hôpital universitaire UDS, seul hôpital de référence 24h/24 pour petits animaux du pays. Pour les propriétaires de chiens, c'est la destination la plus détendue de Suède après Stockholm : 108 hectares de forêt urbaine, sept parcs canins clôturés, et une culture du fika qui accueille les chiens à la table du café.`,
+      en: `Founded as a bishopric in 1164 and the seat of the Archbishop of Sweden since 1273, Uppsala is the country's spiritual and academic capital. The 1287 cathedral, the tallest church in Scandinavia at 118.7 m, holds the tombs of Gustav Vasa and Carl Linnaeus. Five kilometres north stand the royal mounds of Gamla Uppsala, the spiritual centre of the pre-Christian Viking world and one of Sweden's most legendary archaeological sites. The founding of Scandinavia's oldest university in 1477 gave the city its enduring student character: today 230,000 inhabitants, 45,000 of them students, a compact medieval centre crossed by the Fyrisån river, and a unique veterinary infrastructure thanks to SLU and its teaching hospital UDS, the only 24-hour small-animal referral hospital in the country. For dog owners, this is Sweden's most relaxed destination after Stockholm: 108 hectares of urban forest, seven fenced municipal dog parks, and a fika culture that welcomes dogs at the café table.`,
+      es: `Fundada como obispado en 1164 y sede del arzobispo de Suecia desde 1273, Uppsala es la capital espiritual y académica del país. La catedral de 1287, la iglesia más alta de Escandinavia (118,7 m), alberga las tumbas de Gustav Vasa y Carl von Linneo. A 5 km al norte se alzan los túmulos reales de Gamla Uppsala, centro espiritual del mundo vikingo precristiano y uno de los yacimientos arqueológicos más legendarios de Suecia. La fundación en 1477 de la universidad más antigua de Escandinavia dio a la ciudad su carácter estudiantil: hoy 230 000 habitantes, 45 000 de ellos estudiantes, un compacto centro medieval atravesado por el río Fyrisån, y una infraestructura veterinaria única gracias a SLU y a su hospital universitario UDS, único hospital de referencia 24/7 para pequeños animales del país. Para los dueños de perros es el destino más relajado de Suecia después de Estocolmo: 108 hectáreas de bosque urbano, siete parques caninos municipales vallados, y una cultura del fika que acoge a los perros en la mesa del café.`,
+      pt: `Fundada como bispado em 1164 e sede do arcebispo da Suécia desde 1273, Uppsala é a capital espiritual e académica do país. A catedral de 1287, a igreja mais alta da Escandinávia (118,7 m), alberga os túmulos de Gustav Vasa e Carl von Lineu. A 5 km a norte erguem-se os túmulos reais de Gamla Uppsala, centro espiritual do mundo viking pré-cristão e um dos sítios arqueológicos mais lendários da Suécia. A fundação em 1477 da universidade mais antiga da Escandinávia deu à cidade o seu carácter estudantil: hoje 230 000 habitantes, 45 000 dos quais estudantes, um compacto centro medieval atravessado pelo rio Fyrisån, e uma infraestrutura veterinária única graças à SLU e ao seu hospital universitário UDS, único hospital de referência 24/7 para pequenos animais do país. Para os donos de cães é o destino mais relaxado da Suécia depois de Estocolmo: 108 hectares de floresta urbana, sete parques caninos municipais vedados, e uma cultura do fika que acolhe os cães à mesa do café.`,
+    },
+    sights: [
+      {
+        name: 'Stadsskogen',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Réserve naturelle municipale de 108 hectares au sud-ouest du centre, 6 km de sentiers balisés et piste éclairée. Chiens en laisse toute l'année.`,
+          en: `108-hectare municipal nature reserve south-west of the centre, 6 km of marked trails and a floodlit ski/jog track. Dogs leashed year-round.`,
+          es: `Reserva natural municipal de 108 hectáreas al suroeste del centro, 6 km de senderos señalizados y pista iluminada. Perros con correa todo el año.`,
+          pt: `Reserva natural municipal de 108 hectares a sudoeste do centro, 6 km de trilhos sinalizados e pista iluminada. Cães com trela durante todo o ano.`,
+        },
+      },
+      {
+        name: 'Uppsala domkyrka',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Plus haute église de Scandinavie (118,7 m), tombeaux de Gustav Vasa et Linné. Parvis et Odinslund libres aux chiens en laisse ; nef interdite.`,
+          en: `Scandinavia's tallest church (118.7 m), tombs of Gustav Vasa and Linnaeus. Close and Odinslund park open to leashed dogs; nave dog-free.`,
+          es: `Iglesia más alta de Escandinavia (118,7 m), tumbas de Gustav Vasa y Linneo. Recinto y parque Odinslund abiertos a perros con correa; nave no admite perros.`,
+          pt: `Igreja mais alta da Escandinávia (118,7 m), túmulos de Gustav Vasa e Lineu. Adro e parque Odinslund abertos a cães com trela; nave sem cães.`,
+        },
+      },
+      {
+        name: 'Gamla Uppsala',
+        emoji: '⚔️',
+        petFriendly: true,
+        desc: {
+          fr: `Tumulus royaux légendaires (Thor, Odin, Frey), église du XIᵉ siècle, 250 hectares de campagne ouverte. Chiens en laisse bienvenus partout en extérieur.`,
+          en: `Legendary royal mounds (Thor, Odin, Frey), 11th-century church, 250 hectares of open countryside. Leashed dogs welcome on every outdoor path.`,
+          es: `Túmulos reales legendarios (Thor, Odín, Frey), iglesia del siglo XI, 250 hectáreas de campo abierto. Perros con correa bienvenidos en todos los senderos.`,
+          pt: `Túmulos reais lendários (Thor, Odin, Frey), igreja do século XI, 250 hectares de campo aberto. Cães com trela bem-vindos em todos os trilhos exteriores.`,
+        },
+      },
+      {
+        name: 'Botaniska trädgården',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin botanique de l'université, parterre baroque et 9 000 espèces. Chiens en laisse autorisés en extérieur, chiens d'assistance uniquement dans les serres.`,
+          en: `University botanical garden, baroque parterre and 9,000 species. Leashed dogs allowed outdoors; service dogs only in the glasshouses.`,
+          es: `Jardín botánico de la universidad, parterre barroco y 9 000 especies. Perros con correa admitidos al aire libre; solo perros de servicio en los invernaderos.`,
+          pt: `Jardim botânico da universidade, parterre barroco e 9 000 espécies. Cães com trela admitidos no exterior; apenas cães de serviço nas estufas.`,
+        },
+      },
+      {
+        name: 'Fyrisån',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Rivière qui traverse le centre, berges piétonnes sur 3 km, terrasses à Brasserie21 et Stadsträdgården. Bain canin dédié à Storvadsbadet en aval.`,
+          en: `River crossing the centre, 3 km of pedestrian banks, terraces at Brasserie21 and Stadsträdgården park. Designated dog swim spot downstream at Storvadsbadet.`,
+          es: `Río que atraviesa el centro, 3 km de orillas peatonales, terrazas en Brasserie21 y el parque Stadsträdgården. Zona de baño canino dedicada aguas abajo en Storvadsbadet.`,
+          pt: `Rio que atravessa o centro, 3 km de margens pedonais, esplanadas em Brasserie21 e no parque Stadsträdgården. Zona de banho canino dedicada a jusante em Storvadsbadet.`,
+        },
+      },
+      {
+        name: 'Stabby hundrastgård',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Parc canin municipal clôturé à l'ouest du centre, section petits chiens, éclairé jusqu'à 21h. Pic social en semaine 18h-19h.`,
+          en: `Fenced municipal dog park west of the centre, small-dog section, lit until 21:00. Peak social hour weekdays 18:00–19:00.`,
+          es: `Parque canino municipal vallado al oeste del centro, sección para perros pequeños, iluminado hasta las 21:00. Hora social punta entre semana 18:00-19:00.`,
+          pt: `Parque canino municipal vedado a oeste do centro, secção para cães pequenos, iluminado até às 21:00. Hora social de ponta em dias úteis 18:00-19:00.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi nationale suédoise (koppeltvång) : chiens en laisse partout en extérieur du 1er mars au 20 août pour protéger oiseaux nicheurs au sol et faons.`,
+        `Sept hundrastgårdar municipaux clôturés permettent les chiens en liberté toute l'année — Stabby (Geijersgatan) et Nåntuna (Tornérplatsen) sont les plus fréquentés.`,
+        `Storvadsbadet est la seule plage publique avec une zone de baignade chien dédiée ; Fjällnora à 15 km dispose d'un hundbad sur la rive est du lac Trehörningen.`,
+        `Bus et trains UL gratuits pour le chien, montez à l'arrière du véhicule par respect pour les passagers allergiques.`,
+        `Urgence vétérinaire 24h/24 : SLU UDS sur le campus Ultuna (+46 18-67 10 00), seul hôpital de référence petits animaux 24h/24 de Suède.`,
+      ],
+      en: [
+        `Swedish national leash law (koppeltvång): dogs on a leash everywhere outdoors from 1 March to 20 August to protect ground-nesting birds and roe deer fawns.`,
+        `Seven fenced municipal hundrastgårdar allow off-leash dogs year-round — Stabby (Geijersgatan) and Nåntuna (Tornérplatsen) are the busiest.`,
+        `Storvadsbadet is the only public bathing place with a designated dog swim zone; Fjällnora 15 km east has a hundbad on the eastern shore of Lake Trehörningen.`,
+        `UL buses and trains carry dogs free of charge — ride at the rear of the vehicle out of consideration for passengers with allergies.`,
+        `24-hour veterinary emergency: SLU UDS on the Ultuna campus (+46 18-67 10 00), the only 24-hour small-animal referral hospital in Sweden.`,
+      ],
+      es: [
+        `Ley nacional sueca (koppeltvång): perros con correa en todos los espacios al aire libre del 1 de marzo al 20 de agosto para proteger aves que anidan en el suelo y corzos jóvenes.`,
+        `Siete hundrastgårdar municipales vallados permiten perros sin correa todo el año — Stabby (Geijersgatan) y Nåntuna (Tornérplatsen) son los más concurridos.`,
+        `Storvadsbadet es la única playa pública con zona de baño canina dedicada; Fjällnora a 15 km dispone de un hundbad en la orilla este del lago Trehörningen.`,
+        `Autobuses y trenes UL transportan al perro gratis — viaja al fondo del vehículo por respeto a los pasajeros alérgicos.`,
+        `Urgencia veterinaria 24/7: SLU UDS en el campus de Ultuna (+46 18-67 10 00), único hospital de referencia 24/7 para pequeños animales de Suecia.`,
+      ],
+      pt: [
+        `Lei nacional sueca (koppeltvång): cães com trela em todos os espaços exteriores de 1 de março a 20 de agosto para proteger aves que nidificam no solo e corços jovens.`,
+        `Sete hundrastgårdar municipais vedados permitem cães sem trela durante todo o ano — Stabby (Geijersgatan) e Nåntuna (Tornérplatsen) são os mais movimentados.`,
+        `Storvadsbadet é a única praia pública com zona de banho canino dedicada; Fjällnora a 15 km tem um hundbad na margem leste do lago Trehörningen.`,
+        `Autocarros e comboios UL transportam o cão grátis — viaja ao fundo do veículo por respeito aos passageiros alérgicos.`,
+        `Urgência veterinária 24/7: SLU UDS no campus de Ultuna (+46 18-67 10 00), único hospital de referência 24/7 para pequenos animais da Suécia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animal, puce et antirabique de plus de 21 jours exigés à l'arrivée. Traitement contre l'échinocoque obligatoire si le chien arrive d'un pays hors Finlande/Royaume-Uni/Irlande/Malte/Norvège, à administrer 24-120 heures avant la frontière suédoise.`,
+        `Cathédrale, château et musée Linné (intérieurs) interdits aux chiens hors chiens d'assistance — réservez un sitter Pawshake si vous voyagez seul.`,
+        `Train SJ Uppsala C ↔ Stockholm C (38 min) : sélectionnez une place dog-friendly à l'achat, le chien voyage au sol à vos pieds.`,
+        `Aéroport Arlanda (ARN) à 40 km : aires de détente animales aux terminaux 2 et 5, navette UL bus 801 ou taxi pré-réservé recommandé avec un grand chien.`,
+        `Hiver scandinave : températures jusqu'à -15 °C en janvier/février, prévoyez un manteau pour les petits chiens et des bottines pour le sel de déneigement sur les trottoirs.`,
+      ],
+      en: [
+        `EU pet passport, microchip and rabies vaccination at least 21 days old required at the border. Echinococcus (tapeworm) treatment mandatory if your dog arrives from a country other than Finland, the UK, Ireland, Malta or Norway, administered 24–120 hours before crossing the Swedish border.`,
+        `Cathedral interior, castle and Linnaeus Museum (indoors) are dog-free except for service dogs — book a Pawshake sitter if you are travelling solo.`,
+        `SJ train Uppsala C ↔ Stockholm C (38 min): select a dog-friendly seat at purchase, the dog rides on the floor at your feet.`,
+        `Arlanda Airport (ARN) 40 km away: pet relief areas at terminals 2 and 5, UL bus 801 shuttle or a pre-booked taxi is recommended with a large dog.`,
+        `Scandinavian winter: temperatures down to -15 °C in January/February, bring a coat for small dogs and booties for the road-salt grit on pavements.`,
+      ],
+      es: [
+        `Pasaporte europeo de mascotas, microchip y vacuna antirrábica de al menos 21 días exigidos en la frontera. Tratamiento contra la tenia equinococo obligatorio si el perro llega de un país distinto a Finlandia, Reino Unido, Irlanda, Malta o Noruega, administrado entre 24 y 120 horas antes de cruzar la frontera sueca.`,
+        `Interior de la catedral, castillo y Museo Linneo (interiores) prohíben perros excepto perros de servicio — reserva un cuidador Pawshake si viajas solo.`,
+        `Tren SJ Uppsala C ↔ Estocolmo C (38 min): selecciona una plaza dog-friendly al comprar, el perro viaja en el suelo a tus pies.`,
+        `Aeropuerto de Arlanda (ARN) a 40 km: zonas de esparcimiento animal en las terminales 2 y 5, autobús lanzadera UL 801 o un taxi reservado por adelantado recomendado con un perro grande.`,
+        `Invierno escandinavo: temperaturas hasta -15 °C en enero/febrero, lleva un abrigo para perros pequeños y botines para la sal de deshielo en las aceras.`,
+      ],
+      pt: [
+        `Passaporte europeu de animais, microchip e vacina antirrábica de pelo menos 21 dias exigidos na fronteira. Tratamento contra a tenia echinococcus obrigatório se o cão chegar de um país distinto da Finlândia, Reino Unido, Irlanda, Malta ou Noruega, administrado entre 24 e 120 horas antes de cruzar a fronteira sueca.`,
+        `Interior da catedral, castelo e Museu Lineu (interiores) proíbem cães exceto cães de serviço — reserva um sitter Pawshake se viajares sozinho.`,
+        `Comboio SJ Uppsala C ↔ Estocolmo C (38 min): seleciona um lugar dog-friendly ao comprar, o cão viaja no chão aos teus pés.`,
+        `Aeroporto de Arlanda (ARN) a 40 km: zonas de descompressão animal nos terminais 2 e 5, autocarro shuttle UL 801 ou táxi pré-reservado recomendado com um cão grande.`,
+        `Inverno escandinavo: temperaturas até -15 °C em janeiro/fevereiro, leva um casaco para cães pequenos e botinhas para o sal de degelo nos passeios.`,
+      ],
+    },
+  },
+
   utrecht: {
     history: {
       fr: `Fondée vers 47 après J.-C. comme fort romain de Traiectum gardant un gué de la branche nord du Rhin, Utrecht devint au Moyen Âge le siège épiscopal le plus puissant des Pays-Bas, la cathédrale Saint-Martin et la Domtoren de 112 mètres em sont les vestiges. Les werven (quais bas) bordant l'Oudegracht sont uniques em Europe : creusés dans le canal au XIIIᵉ siècle pour stocker les marchandises, ils accueillent aujourd'hui les terrasses où les chiens d'Utrecht prennent leurs habitudes. La ville, siège de la première université des Pays-Bas (1636) et de la Faculté de médecine vétérinaire, conjugue patrimoine médiéval et culture canine décontractée : chiens gratuits dans les bus et trams, croisières canalières dog-friendly, et trois zones sans laisse balisées à portée du centre.`,

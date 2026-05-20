@@ -19551,6 +19551,124 @@
     "petPolicyPt": "Animais permitidos por 8 EUR por noite. All sizes bem-vindos, máx. 1 animais per quarto."
   },
   {
+    "id": "uppsala-1",
+    "name": "Radisson Blu Hotel Uppsala",
+    "destinationSlug": "uppsala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 6800,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/radisson-blu-uppsala.html",
+    "petFee": 31,
+    "petPolicy": "Radisson Blu Hotel Uppsala welcomes pets of any size, including dogs and cats, for SEK 350 (≈€31) per room per stay (not per night). Multiple pets per room are permitted; a designated pet-friendly room must be requested in advance through the property. The hotel sits directly opposite Uppsala Central Station, a 10-minute walk from the cathedral and the Fyrisån river promenade, with the Stadsträdgården park 5 minutes away for a quick on-leash walk.",
+    "highlights": [
+      "Directly opposite Uppsala Central Station",
+      "10-minute walk to the cathedral and Fyrisån river",
+      "Pet fee charged per stay, not per night"
+    ],
+    "slug": "radisson-blu-hotel-uppsala"
+  },
+  {
+    "id": "uppsala-2",
+    "name": "Scandic Uplandia",
+    "destinationSlug": "uppsala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 5400,
+    "priceFrom": 119,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/scandic-uplandia.html",
+    "petFee": 18,
+    "petPolicy": "Scandic Uplandia welcomes pets of any size in designated rooms for SEK 200 (≈€18) per room per night. Scandic's group policy admits both dogs and cats; pet-friendly rooms must be requested at booking. The hotel occupies a quiet block on Dragarbrunnsgatan in the centre, a 5-minute walk from Stora Torget, the cathedral and the pedestrian shopping street, with bus and train stations both within 400 m.",
+    "highlights": [
+      "Central Dragarbrunnsgatan location",
+      "5-minute walk from Stora Torget and the cathedral",
+      "Walking distance to Uppsala Central Station"
+    ],
+    "slug": "scandic-uplandia"
+  },
+  {
+    "id": "uppsala-3",
+    "name": "Scandic Uppsala Nord",
+    "destinationSlug": "uppsala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 3900,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/scandic-uppsala-nord.html",
+    "petFee": 18,
+    "petPolicy": "Scandic Uppsala Nord welcomes pets of any size in designated rooms for SEK 200 (≈€18) per room per night. The property explicitly admits both dogs and cats. A 10-minute drive north of the centre on Gamla Uppsalagatan, the hotel is a 15-minute walk from the royal mounds at Gamla Uppsala and a 5-minute drive from Storvadsbadet, the dog-friendly bathing spot on the Fyrisån.",
+    "highlights": [
+      "15-minute walk from Gamla Uppsala royal mounds",
+      "5-minute drive from Storvadsbadet dog beach",
+      "Dogs and cats both welcomed"
+    ],
+    "slug": "scandic-uppsala-nord"
+  },
+  {
+    "id": "uppsala-4",
+    "name": "Elite Hotel Academia",
+    "destinationSlug": "uppsala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 4500,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/elite-academia.html",
+    "petFee": 22,
+    "petPolicy": "Elite Hotel Academia welcomes pets of any size for SEK 250 (≈€22) per pet per night. The hotel's policy explicitly admits dogs and cats; assistance dogs travel free of charge. Set in a converted university building on Suttungsgränd, the hotel is a 7-minute walk from the cathedral, 5 minutes from Stora Torget, and a 12-minute walk to the entrance of Stadsskogen forest reserve.",
+    "highlights": [
+      "Converted university building on Suttungsgränd",
+      "12-minute walk to Stadsskogen forest reserve",
+      "Dogs and cats both welcomed"
+    ],
+    "slug": "elite-hotel-academia"
+  },
+  {
+    "id": "uppsala-5",
+    "name": "Hotel Botanika Uppsala",
+    "destinationSlug": "uppsala",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1100,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/se/botanika-uppsala-uppsala.html",
+    "petFee": 22,
+    "petPolicy": "Hotel Botanika Uppsala welcomes pets of any size in designated rooms for SEK 250 (≈€22) per pet per stay (not per night). Dogs and cats are both accepted; the hotel notes there are no in-room amenities provided for pets, so bring your own bowls and bedding. Located on Skolgatan a 5-minute walk from Linnaeus's house museum and the Botanical Garden, with breakfast available in the lobby where dogs are welcome.",
+    "highlights": [
+      "5-minute walk to Linnaeus's house and Botanical Garden",
+      "Pet fee charged per stay, not per night",
+      "Dogs welcome in the lobby at breakfast"
+    ],
+    "slug": "hotel-botanika-uppsala"
+  },
+  {
     "id": "utrecht-1",
     "name": "Grand Hotel Karel V",
     "destinationSlug": "utrecht",

@@ -9686,6 +9686,80 @@
     "tiqetsId": "71534"
   },
   {
+    "slug": "uppsala",
+    "name": "Uppsala",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/uppsala.jpg",
+    "intro": "Uppsala is Sweden's most relaxed dog-travel city after Stockholm — a compact medieval university town with a 108-hectare urban forest, seven municipal hundrastgårdar, a designated river dog beach and a fika culture that welcomes dogs at the café table.",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 6,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 13,
+        "desc": "Mild & cooling",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 2,
+        "desc": "Cold & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "ARN"
+  },
+  {
     "slug": "utrecht",
     "name": "Utrecht",
     "country": "Netherlands",

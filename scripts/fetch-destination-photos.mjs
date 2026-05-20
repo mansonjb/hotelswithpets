@@ -47,6 +47,7 @@ const TARGETS = [
   { slug: 'palma', query: 'La Seu Cathedral Palma de Mallorca waterfront' },
   { slug: 'thessaloniki', query: 'White Tower Thessaloniki waterfront promenade' },
   { slug: 'cannes', query: 'Cannes La Croisette seafront promenade' },
+  { slug: 'capri', query: 'Capri Italy Faraglioni rocks Marina Piccola Mediterranean panorama' },
   { slug: 'gothenburg', query: 'Gothenburg Haga district historic wooden houses' },
   { slug: 'lausanne', query: 'Lausanne Ouchy lakeside Lake Geneva panorama' },
   { slug: 'geneva', query: 'Geneva Jet d Eau Lake Geneva Mont Blanc bridge panorama' },

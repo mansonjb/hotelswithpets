@@ -186,6 +186,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Île Sainte-Marguerite forested island, Plage de la Bocca, and the cobbled lanes of Le Suquet',
       area: 'Le Suquet (the old town), the Marché Forville quarter, and La Bocca',
     },
+    capri: {
+      personality: `the storied limestone island in the Bay of Naples where calm upper Anacapri is the pet-friendly base, ferries from Naples and Sorrento accept leashed dogs year-round, and the clifftop Via Krupp and Punta Tragara walks open onto the Faraglioni rocks`,
+      highlight: `the Punta Tragara belvedere over the Faraglioni, the bougainvillea-lined Giardini di Augusto and Via Krupp, and the Villa San Michele gardens 305 m above Marina Grande in Anacapri`,
+      area: `Anacapri (the calmer upper village around Piazza Caprile and Via Migliara), the Capri Town belt from the Quisisana to Punta Tragara, and the Marina Grande harbour for ferries`,
+    },
     cardiff: {
       personality: `the Welsh capital with one of the largest urban park networks in the UK, 130 hectares of off-lead riverside grass at Bute Park and Pontcanna Fields ten minutes from the castle, a 2 km Cardiff Bay barrage walk linking directly to Penarth Pier, and a 24/7 reference emergency hospital fifteen minutes north`,
       highlight: `Bute Park along the River Taff, the Cardiff Bay barrage to Penarth Pier walk, and the dog-friendly ground floor of Caerphilly Castle`,
@@ -909,6 +914,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'Île Sainte-Marguerite boisée, la Plage de la Bocca et les ruelles pavées du Suquet',
       area: 'Le Suquet (la vieille ville), le quartier du Marché Forville et La Bocca',
     },
+    capri: {
+      personality: `l'île de calcaire emblématique de la baie de Naples, où Anacapri (le village haut) est la base la plus calme avec un chien, les ferries depuis Naples et Sorrente acceptent les chiens en laisse toute l'année, et les sentiers en bord de falaise de la Via Krupp et de Punta Tragara s'ouvrent sur les Faraglioni`,
+      highlight: `le belvédère de Punta Tragara au-dessus des Faraglioni, les Giardini di Augusto bordés de bougainvilliers et la Via Krupp, et les jardins de la Villa San Michele à 305 m au-dessus de Marina Grande à Anacapri`,
+      area: `Anacapri (le village haut plus calme autour de la Piazza Caprile et de la Via Migliara), la bande de Capri-ville du Quisisana à Punta Tragara, et le port de Marina Grande pour les ferries`,
+    },
     cardiff: {
       personality: `la capitale galloise, avec l'un des plus vastes réseaux de parcs urbains du Royaume-Uni, 130 hectares de pelouses sans laisse en bord de rivière à Bute Park et Pontcanna Fields à dix minutes du château, une promenade de 2 km sur le barrage de Cardiff Bay qui rejoint directement Penarth Pier, et un hôpital d'urgence vétérinaire 24h/24 de référence à quinze minutes au nord`,
       highlight: `Bute Park le long de la rivière Taff, la promenade du barrage de Cardiff Bay jusqu'à Penarth Pier et le rez-de-chaussée dog-friendly du château de Caerphilly`,
@@ -1631,6 +1641,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Île Sainte-Marguerite boscosa, la Plage de la Bocca y los callejones adoquinados de Le Suquet',
       area: 'Le Suquet (el casco antiguo), el barrio del Marché Forville y La Bocca',
     },
+    capri: {
+      personality: `la emblemática isla calcárea de la bahía de Nápoles, donde Anacapri (el pueblo alto) es la base más tranquila con perro, los ferris desde Nápoles y Sorrento admiten perros con correa todo el año, y los senderos al borde del acantilado de la Via Krupp y de Punta Tragara se abren sobre los Faraglioni`,
+      highlight: `el mirador de Punta Tragara sobre los Faraglioni, los Giardini di Augusto bordeados de buganvillas y la Via Krupp, y los jardines de la Villa San Michele a 305 m sobre Marina Grande en Anacapri`,
+      area: `Anacapri (el pueblo alto más tranquilo alrededor de la Piazza Caprile y la Via Migliara), la franja de Capri Town del Quisisana a Punta Tragara, y el puerto de Marina Grande para los ferris`,
+    },
     cardiff: {
       personality: `la capital galesa, con una de las mayores redes de parques urbanos del Reino Unido, 130 hectáreas de césped sin correa junto al río en Bute Park y Pontcanna Fields a diez minutos del castillo, un paseo de 2 km sobre el barrage de Cardiff Bay que conecta directamente con el Penarth Pier, y un hospital veterinario de urgencias 24/7 de referencia a quince minutos al norte`,
       highlight: `Bute Park a lo largo del río Taff, el paseo del barrage de Cardiff Bay hasta Penarth Pier y la planta baja pet-friendly del castillo de Caerphilly`,
@@ -2352,6 +2367,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma glamurosa cidade da Costa Azul com uma cultura canina sorprendentemente relajada, as esplanadas de Le Suquet, o bairro do Marché Forville e as praias occidentales acogen cães durante o ano inteiro',
       highlight: 'a Île Sainte-Marguerite boscosa, a Plage da Bocca e as ruelas adoquinados de Le Suquet',
       area: 'Le Suquet (o centro histórico), o bairro do Marché Forville e A Bocca',
+    },
+    capri: {
+      personality: `a icónica ilha calcária da baía de Nápoles, onde Anacapri (a aldeia alta) é a base mais calma com cão, os ferries a partir de Nápoles e Sorrento aceitam cães com trela o ano inteiro, e os trilhos sobre a falésia da Via Krupp e de Punta Tragara abrem-se sobre os Faraglioni`,
+      highlight: `o miradouro de Punta Tragara sobre os Faraglioni, os Giardini di Augusto orlados de buganvílias e a Via Krupp, e os jardins da Villa San Michele a 305 m sobre Marina Grande em Anacapri`,
+      area: `Anacapri (a aldeia alta mais calma à volta da Piazza Caprile e da Via Migliara), a faixa de Capri Town do Quisisana a Punta Tragara, e o porto de Marina Grande para os ferries`,
     },
     cardiff: {
       personality: `a capital galesa, com uma das maiores redes de parques urbanos do Reino Unido, 130 hectares de relva sem trela junto ao rio em Bute Park e Pontcanna Fields a dez minutos do castelo, um passeio de 2 km sobre o barrage de Cardiff Bay que liga directamente ao Penarth Pier, e um hospital veterinário de urgências 24/7 de referência a quinze minutos a norte`,

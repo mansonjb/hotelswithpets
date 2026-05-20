@@ -137,7 +137,7 @@ const TOP_25: IslandEntry[] = [
     es: `Más tranquila que Malta y accesible en 25 min de ferri desde Ċirkewwa. La costa de Dwejra y el interior de Ta' Pinu ofrecen paseos caninos despejados, y los alojamientos rurales son ampliamente tolerantes con perros.`,
     pt: `Mais calma do que Malta e acessível em 25 min de ferry a partir de Ċirkewwa. A costa de Dwejra e o interior de Ta' Pinu oferecem passeios caninos abertos, e os alojamentos rurais são largamente tolerantes com cães.`,
   }},
-  { slug: null, rank: 19, photoSlug: 'capri', islandName: 'Capri', country: 'Italy', flag: '🇮🇹', reason: {
+  { slug: 'capri', rank: 19, photoSlug: 'capri', islandName: 'Capri', country: 'Italy', flag: '🇮🇹', reason: {
     en: `Day-trippable from Naples or Sorrento. Anacapri (the quieter upper village) is the dog-friendly base, the Monte Solaro chairlift accepts small dogs on a leash, and the via Krupp clifftop walk is open year-round.`,
     fr: `Accessible à la journée depuis Naples ou Sorrente. Anacapri, le village haut plus calme que Capri-ville, est la meilleure base avec un chien, le télésiège du Monte Solaro accepte les petits chiens en laisse, et la via Krupp en falaise reste ouverte toute l'année.`,
     es: `Accesible en excursión desde Nápoles o Sorrento. Anacapri (el pueblo alto más tranquilo) es la base pet-friendly, el telesilla del Monte Solaro admite perros pequeños con correa, y la via Krupp en acantilado está abierta todo el año.`,

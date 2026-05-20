@@ -5005,6 +5005,132 @@
     "petPolicyPt": "Le Cavendish Boutique Hotel é um genuinely animal-welcoming address com sem suplemento animal. Cães e gatos são accepted até 20 kg. O hotel é housed em um Belle Époque building one block do Croisette, e o intimate size means animais são treated as hóspedes. Um bem-vindos treat é fornecido em chegada. animais may accompany hóspedes no outdoor terrace e no lobby lounge. Morning walks para o Allées de la Liberté e o old port start do front porta."
   },
   {
+    "id": "capri-1",
+    "name": "Capri Palace Jumeirah",
+    "destinationSlug": "capri",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 980,
+    "priceFrom": 850,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/capri-palace.html",
+    "petFee": 50,
+    "petPolicy": "Capri Palace Jumeirah welcomes pets up to 10 kg in pet-friendly suites for EUR 50 per stay; larger dogs accepted on prior request. Dogs and cats both welcome. The hotel's white Anacapri setting is the calmest luxury base on the island, and the butler team arranges daytime dog-walking on the nearby Migliara path. Pets are allowed in the room and on the outdoor garden terraces but not in the Michelin-starred L'Olivo restaurant or the spa.",
+    "highlights": [
+      "Anacapri quiet luxury base",
+      "Butler dog-walking on Migliara path",
+      "Garden terraces dog-friendly"
+    ],
+    "slug": "capri-palace-jumeirah"
+  },
+  {
+    "id": "capri-2",
+    "name": "JK Place Capri",
+    "destinationSlug": "capri",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 540,
+    "priceFrom": 950,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/jkcapri.html",
+    "petFee": 40,
+    "petPolicy": "JK Place Capri accepts dogs and cats up to 15 kg for EUR 40 per stay in designated rooms with prior notice. The 22-room Marina Grande property faces the harbour and the ferry quay, making arrival and departure with pets straightforward. Pets welcomed in suites, on the seaview terrace and at the breakfast outdoor pavilion; not permitted indoors at the restaurant. Welcome amenity bowl and dog bed on request.",
+    "highlights": [
+      "Marina Grande ferry quay 200 m away",
+      "Seaview terrace dog-friendly",
+      "Dog bed and bowl on request"
+    ],
+    "slug": "jk-place-capri"
+  },
+  {
+    "id": "capri-3",
+    "name": "Hotel Villa Brunella",
+    "destinationSlug": "capri",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 670,
+    "priceFrom": 290,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-brunella.en-gb.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Villa Brunella welcomes dogs and cats up to 10 kg for EUR 25 per night with advance notice. The hotel sits on Via Tragara, directly on the path to the Punta Tragara Faraglioni belvedere — the location is unbeatable for dog-walks. Pets are welcomed in the room and on the panoramic outdoor terrace; not in the indoor restaurant. Family-run since 1968 and used to dog guests.",
+    "highlights": [
+      "On the Via Tragara path to the Faraglioni",
+      "Panoramic outdoor terrace pet-friendly",
+      "Family-run since 1968"
+    ],
+    "slug": "hotel-villa-brunella-capri"
+  },
+  {
+    "id": "capri-4",
+    "name": "Hotel La Floridiana",
+    "destinationSlug": "capri",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 410,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/lafloridiana.en-gb.html",
+    "petFee": 20,
+    "petPolicy": "Hotel La Floridiana accepts dogs and cats up to 10 kg for EUR 20 per night with advance notice. The location is on Via Campo di Teste, 4 minutes from the Piazzetta but on a quiet side street, with a garden where pets can stretch. Pets are welcomed in pet-designated rooms and on the garden terrace; not in the breakfast room. Walks to the Giardini di Augusto start at the front door.",
+    "highlights": [
+      "5-minute walk from the Piazzetta",
+      "Private garden for pet stretches",
+      "Walks to Giardini di Augusto"
+    ],
+    "slug": "hotel-la-floridiana-capri"
+  },
+  {
+    "id": "capri-5",
+    "name": "Hotel San Michele",
+    "destinationSlug": "capri",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1120,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/sanmichele.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel San Michele in Anacapri accepts dogs and cats up to 15 kg at no extra charge with prior notice. The terraced grounds with a swimming pool sit beside the Villa San Michele gardens, the calm Anacapri base for dog visitors. Pets welcome in the rooms and on the panoramic terrace facing the Bay of Naples; not in the indoor restaurant or pool area. Free shuttle to Piazza Vittoria for the Monte Solaro chairlift.",
+    "highlights": [
+      "Anacapri calm base, no pet fee",
+      "Beside Villa San Michele gardens",
+      "Panoramic Bay of Naples terrace"
+    ],
+    "slug": "hotel-san-michele-capri"
+  },
+  {
     "id": "cardiff-1",
     "name": "voco St. David's Cardiff by IHG",
     "destinationSlug": "cardiff",

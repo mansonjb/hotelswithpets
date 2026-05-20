@@ -2475,6 +2475,82 @@
     "iata": "NCE"
   },
   {
+    "slug": "capri",
+    "name": "Capri",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/capri.jpg",
+    "intro": "Capri, the storied limestone island in the Bay of Naples, pairs panoramic clifftop walks with a calm pet-friendly base in upper Anacapri, the year-round Via Krupp and Punta Tragara paths to the Faraglioni, and reliable garden-terrace dining; ferries from Naples and Sorrento accept leashed dogs and the day-trip-or-overnight choice is the key decision for pet travellers.",
+    "lat": 40.5532,
+    "lng": 14.2222,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild with sun",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NAP",
+    "tiqetsId": "105984"
+  },
+  {
     "slug": "cardiff",
     "name": "Cardiff",
     "country": "United Kingdom",

@@ -4203,6 +4203,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  capri: {
+    history: {
+      fr: `Capri, île calcaire de 10,4 km² dans la baie de Naples, vit une histoire en deux temps : repaire impérial romain sous Auguste puis Tibère, qui y résida les onze dernières années de sa vie depuis la Villa Jovis, puis villégiature européenne réinventée à partir de la fin du XIXᵉ siècle, lorsque le médecin suédois Axel Munthe bâtit la Villa San Michele à Anacapri et que les écrivains et artistes du Nord en firent un mythe méditerranéen. L'île compte deux communes — Capri (sud-est, la Piazzetta, le port de Marina Grande) et Anacapri (nord-ouest, plus calme, plus haut, autour de la Piazza Caprile) — et environ 13 000 habitants permanents, multipliés par dix en haute saison. Pour les voyageurs avec animal, Capri est faisable mais exige une logistique précise : pas d'aéroport sur l'île, accès uniquement par ferry depuis Naples (Molo Beverello, 40-80 minutes selon le type de bateau) ou Sorrente (30 minutes), les quatre opérateurs — Caremar, NLG, SNAV, Alilauro — acceptent les chiens en laisse et muselés sur les ponts extérieurs toute l'année et les petits chiens en caisse à l'intérieur. La règle italienne nationale interdit les chiens sur les concessions balnéaires payantes du 15 mai au 30 septembre, ce qui couvre la majorité du littoral accessible de Capri ; les rivages rocheux publics du phare de Punta Carena à Anacapri et le bord libre de Marina Piccola restent ouverts en laisse à l'année. Point critique : Capri n'a aucun hôpital vétérinaire 24h/24 sur l'île, l'hôpital de référence est la Clinica San Francesco à Naples, à joindre par le dernier ferry du soir (vers 22h en été) ou un transfert privé en hors-bord. Anacapri est la base la plus calme avec un chien, loin de la cohue estivale de la Piazzetta de Capri-ville.`,
+      en: `Capri, a 10.4 km² limestone island in the Bay of Naples, has lived two histories: a Roman imperial retreat under Augustus and then Tiberius, who spent the last eleven years of his life here at the Villa Jovis, and a reinvented European resort from the late 19th century onward, when the Swedish doctor Axel Munthe built the Villa San Michele in Anacapri and the writers and artists of the North turned the island into a Mediterranean myth. The island is divided into two municipalities — Capri (south-east, with the Piazzetta and Marina Grande harbour) and Anacapri (north-west, calmer, higher, around Piazza Caprile) — and counts roughly 13,000 permanent residents, multiplied tenfold in peak season. For pet travellers, Capri is workable but demands precise logistics: no airport on the island, access only by ferry from Naples (Molo Beverello, 40-80 minutes depending on the boat type) or Sorrento (30 minutes), and the four operators — Caremar, NLG, SNAV, Alilauro — all accept leashed and muzzled dogs on outdoor decks year-round, with small dogs in carriers indoors. The Italian national rule bans dogs from paid lido beach concessions 15 May to 30 September, which covers most of Capri's accessible shoreline; the public rock platforms at Punta Carena lighthouse in Anacapri and the free fringe of Marina Piccola stay open on leash year-round. Critical point: Capri has no 24/7 veterinary hospital on the island, the reference hospital is the Clinica San Francesco in Naples, reached by the last evening ferry (around 22:00 in summer) or a private speedboat transfer. Anacapri is the calmer base with a dog, away from the summer crush of Capri Town's Piazzetta.`,
+      es: `Capri, isla calcárea de 10,4 km² en la bahía de Nápoles, vive dos historias: refugio imperial romano bajo Augusto y luego Tiberio, que pasó aquí los últimos once años de su vida en la Villa Jovis, y centro turístico europeo reinventado desde finales del siglo XIX, cuando el médico sueco Axel Munthe construyó la Villa San Michele en Anacapri y los escritores y artistas del Norte hicieron de la isla un mito mediterráneo. La isla está dividida en dos municipios — Capri (sureste, con la Piazzetta y el puerto de Marina Grande) y Anacapri (noroeste, más tranquila, más alta, alrededor de Piazza Caprile) — y cuenta unos 13 000 residentes permanentes, multiplicados por diez en temporada alta. Para los viajeros con mascota, Capri es viable pero exige logística precisa: sin aeropuerto en la isla, acceso solo en ferry desde Nápoles (Molo Beverello, 40-80 minutos según el tipo de barco) o Sorrento (30 minutos), y los cuatro operadores — Caremar, NLG, SNAV, Alilauro — aceptan perros con correa y bozal en cubiertas exteriores todo el año, y perros pequeños en transportín dentro. La norma nacional italiana prohíbe perros en las concesiones de pago de los lidos del 15 de mayo al 30 de septiembre, que cubre la mayor parte del litoral accesible de Capri; las plataformas rocosas públicas del faro de Punta Carena en Anacapri y la franja libre de Marina Piccola siguen abiertas con correa todo el año. Punto crítico: Capri no tiene hospital veterinario 24/7 en la isla, el hospital de referencia es la Clinica San Francesco en Nápoles, accesible por el último ferry nocturno (sobre las 22:00 en verano) o un traslado privado en lancha rápida. Anacapri es la base más tranquila con perro, lejos del agobio estival de la Piazzetta de Capri Town.`,
+      pt: `Capri, ilha calcária de 10,4 km² na baía de Nápoles, vive duas histórias: refúgio imperial romano sob Augusto e depois Tibério, que passou aqui os últimos onze anos da sua vida na Villa Jovis, e estância europeia reinventada a partir do final do século XIX, quando o médico sueco Axel Munthe construiu a Villa San Michele em Anacapri e os escritores e artistas do Norte fizeram da ilha um mito mediterrânico. A ilha está dividida em dois municípios — Capri (sudeste, com a Piazzetta e o porto de Marina Grande) e Anacapri (noroeste, mais calma, mais alta, à volta da Piazza Caprile) — e conta cerca de 13 000 residentes permanentes, multiplicados por dez em época alta. Para viajantes com animal, Capri é viável mas exige logística precisa: sem aeroporto na ilha, acesso apenas por ferry a partir de Nápoles (Molo Beverello, 40-80 minutos consoante o tipo de barco) ou Sorrento (30 minutos), e os quatro operadores — Caremar, NLG, SNAV, Alilauro — aceitam cães com trela e açaime em conveses exteriores o ano inteiro, e cães pequenos em transportadora no interior. A regra nacional italiana proíbe cães nas concessões pagas dos lidos de 15 maio a 30 setembro, o que cobre a maior parte do litoral acessível de Capri; as plataformas rochosas públicas do farol de Punta Carena em Anacapri e a franja livre de Marina Piccola continuam abertas com trela o ano inteiro. Ponto crítico: Capri não tem hospital veterinário 24/7 na ilha, o hospital de referência é a Clinica San Francesco em Nápoles, alcançável pelo último ferry noturno (cerca das 22:00 no verão) ou uma transferência privada de lancha rápida. Anacapri é a base mais calma com um cão, longe da confusão estival da Piazzetta de Capri Town.`,
+    },
+    sights: [
+      {
+        name: `Faraglioni (Punta Tragara)`,
+        emoji: `🗿`,
+        petFriendly: true,
+        desc: {
+          fr: `Les trois piliers calcaires emblématiques de Capri, surgissant de la mer au large de la côte sud-est. Le belvédère public de Punta Tragara, au bout de la Via Tragara depuis l'hôtel Quisisana, en offre le panorama signature, librement accessible 24h. Chiens en laisse bienvenus sur tout le sentier toute l'année.`,
+          en: `The three iconic limestone stacks of Capri, rising from the sea off the south-east coast. The public Punta Tragara belvedere at the end of Via Tragara from the Quisisana hotel offers the signature panorama, freely accessible 24h. Dogs on leash welcome along the whole path year-round.`,
+          es: `Los tres pilares calcáreos icónicos de Capri, emergiendo del mar frente a la costa sureste. El mirador público de Punta Tragara al final de la Via Tragara desde el hotel Quisisana ofrece el panorama característico, accesible libremente 24h. Perros con correa bienvenidos en todo el sendero todo el año.`,
+          pt: `Os três pilares calcários icónicos de Capri, emergindo do mar ao largo da costa sudeste. O miradouro público de Punta Tragara ao fim da Via Tragara desde o hotel Quisisana oferece o panorama icónico, acessível livremente 24h. Cães com trela bem-vindos em todo o trilho o ano inteiro.`,
+        },
+      },
+      {
+        name: `Via Krupp`,
+        emoji: `🛤️`,
+        petFriendly: true,
+        desc: {
+          fr: `Sentier piéton en lacets de 1902 commandé par l'industriel Friedrich Krupp et taillé dans la falaise depuis les Giardini di Augusto jusqu'à Marina Piccola. L'une des promenades les plus photographiées d'Italie, entièrement dog-friendly en laisse, accès libre. Fermetures occasionnelles après chutes de pierres, vérifiez auprès de l'office de tourisme.`,
+          en: `A 1902 switchback pedestrian path commissioned by the industrialist Friedrich Krupp, carved into the cliff from the Giardini di Augusto down to Marina Piccola. One of the most photographed walks in Italy, fully dog-friendly on leash, free access. Occasional closures after rockfalls, check with the tourist office.`,
+          es: `Sendero peatonal en zigzag de 1902 encargado por el industrial Friedrich Krupp y tallado en el acantilado desde los Giardini di Augusto hasta Marina Piccola. Uno de los paseos más fotografiados de Italia, completamente dog-friendly con correa, acceso libre. Cierres ocasionales tras desprendimientos, consulta en la oficina de turismo.`,
+          pt: `Trilho pedonal em ziguezague de 1902 encomendado pelo industrial Friedrich Krupp e talhado na falésia desde os Giardini di Augusto até Marina Piccola. Um dos passeios mais fotografados de Itália, totalmente pet-friendly com trela, acesso livre. Encerramentos ocasionais após queda de pedras, verifique no posto de turismo.`,
+        },
+      },
+      {
+        name: `Giardini di Augusto`,
+        emoji: `🌺`,
+        petFriendly: true,
+        desc: {
+          fr: `Jardin botanique terrassé au-dessus de la falaise de Capri-ville, donné par Friedrich Krupp au début du XXᵉ siècle. Allées bordées de bougainvilliers et panorama direct emblématique sur les Faraglioni et Marina Piccola. Petit billet (env. 1,50 €), à 5 min de la Piazzetta, chiens en laisse bienvenus.`,
+          en: `A terraced clifftop botanical garden above Capri Town, donated by Friedrich Krupp in the early 20th century. Bougainvillea-lined paths and the iconic direct panorama of the Faraglioni and Marina Piccola. Small ticket fee (around EUR 1.50), 5 minutes from the Piazzetta, dogs on leash welcome.`,
+          es: `Jardín botánico aterrazado sobre el acantilado de Capri Town, donado por Friedrich Krupp a principios del siglo XX. Paseos bordeados de buganvillas y panorama directo icónico sobre los Faraglioni y Marina Piccola. Pequeña entrada (unos 1,50 €), a 5 min de la Piazzetta, perros con correa bienvenidos.`,
+          pt: `Jardim botânico em socalcos sobre a falésia de Capri Town, doado por Friedrich Krupp no início do século XX. Passeios orlados de buganvílias e panorama direto icónico sobre os Faraglioni e Marina Piccola. Bilhete simbólico (cerca de 1,50 €), a 5 min da Piazzetta, cães com trela bem-vindos.`,
+        },
+      },
+      {
+        name: `Villa San Michele (Anacapri)`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne demeure et jardin du médecin suédois Axel Munthe, perchée à 305 m au-dessus de Marina Grande à Anacapri, avec pergolas, fragments antiques et belvédère sur la baie de Naples. Chiens en laisse bienvenus dans les jardins (interdit dans les salles intérieures du musée). Billet 11 €.`,
+          en: `The former home and garden of Swedish doctor Axel Munthe, perched 305 m above Marina Grande in Anacapri, with pergolas, antique fragments and a belvedere over the Bay of Naples. Dogs on leash welcome in the gardens (not in the indoor museum rooms). Ticket EUR 11.`,
+          es: `Antigua casa y jardín del médico sueco Axel Munthe, encaramada a 305 m sobre Marina Grande en Anacapri, con pérgolas, fragmentos antiguos y mirador sobre la bahía de Nápoles. Perros con correa bienvenidos en los jardines (prohibidos en las salas interiores del museo). Entrada 11 €.`,
+          pt: `Antiga casa e jardim do médico sueco Axel Munthe, encarrapitada a 305 m sobre Marina Grande em Anacapri, com pérgolas, fragmentos antigos e miradouro sobre a baía de Nápoles. Cães com trela bem-vindos nos jardins (proibidos nas salas interiores do museu). Bilhete 11 €.`,
+        },
+      },
+      {
+        name: `Monte Solaro`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `Point culminant de Capri à 589 m avec panorama à 360° du golfe de Salerne à la baie de Naples. Accès par télésiège depuis Anacapri (petits chiens uniquement en caisse souple sur les genoux) ou à pied par le sentier Passetiello (90 min, dog-friendly en laisse). Le Bar Solaro du sommet a des terrasses ombragées et des gamelles d'eau.`,
+          en: `The 589 m highest point of Capri with a 360-degree panorama from the Gulf of Salerno to the Bay of Naples. Reached by chairlift from Anacapri (small dogs only in soft carrier on lap) or on foot via the Passetiello path (90 min, dog-friendly on leash). The summit Bar Solaro has shaded terraces and water bowls.`,
+          es: `Punto más alto de Capri a 589 m con panorama de 360 grados desde el golfo de Salerno hasta la bahía de Nápoles. Acceso por telesilla desde Anacapri (sólo perros pequeños en transportín blando sobre el regazo) o a pie por el sendero Passetiello (90 min, dog-friendly con correa). El Bar Solaro de la cima tiene terrazas sombreadas y boles de agua.`,
+          pt: `Ponto mais alto de Capri a 589 m com panorama de 360 graus do golfo de Salerno à baía de Nápoles. Acesso por teleférico a partir de Anacapri (apenas cães pequenos em transportadora flexível ao colo) ou a pé pelo trilho Passetiello (90 min, pet-friendly com trela). O Bar Solaro do cume tem esplanadas sombreadas e taças de água.`,
+        },
+      },
+      {
+        name: `Faro di Punta Carena`,
+        emoji: `🚨`,
+        petFriendly: true,
+        desc: {
+          fr: `Promontoire du phare à la pointe sud-ouest d'Anacapri, plateformes rocheuses publiques et vues dégagées sur le coucher du soleil. Pas de concession balnéaire, donc accessible aux chiens en laisse à l'année — la portion de littoral la plus calme et la plus dog-friendly de Capri.`,
+          en: `The lighthouse promontory at Anacapri's south-west tip, with public rock platforms and unobstructed sunset views. No bathing concession, so accessible to leashed dogs year-round — the calmest and most dog-friendly stretch of shoreline on Capri.`,
+          es: `Promontorio del faro en el extremo suroeste de Anacapri, con plataformas rocosas públicas y vistas despejadas del atardecer. Sin concesión balnearia, accesible a perros con correa todo el año — la franja de litoral más tranquila y dog-friendly de Capri.`,
+          pt: `Promontório do farol na ponta sudoeste de Anacapri, com plataformas rochosas públicas e vistas desimpedidas do pôr-do-sol. Sem concessão balnear, acessível a cães com trela o ano inteiro — a faixa de litoral mais calma e pet-friendly de Capri.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Capri n'a AUCUN hôpital vétérinaire 24h/24 sur l'île — l'hôpital de référence est la Clinica San Francesco à Naples (+39 081 545 4477). Enregistrez le numéro avant d'embarquer et notez l'horaire du dernier ferry (vers 22h en été, 20h en hiver).`,
+        `Logez à Anacapri (le village haut) plutôt qu'à Capri-ville : plus calme, plus arboré, terrasses-jardins fiablement dog-friendly, loin de la cohue estivale de la Piazzetta.`,
+        `Les ferries des quatre opérateurs (Caremar, NLG, SNAV, Alilauro) acceptent les chiens en laisse et muselés sur les ponts extérieurs toute l'année, et les petits chiens en caisse à l'intérieur ; billet animal 3-5 €.`,
+        `La règle italienne nationale interdit les chiens sur les concessions balnéaires payantes du 15 mai au 30 septembre — utilisez le phare de Punta Carena à Anacapri ou la frange publique de Marina Piccola, accessibles à l'année.`,
+        `La Grotte Bleue n'est pas faisable avec un chien : les barques sont petites et l'entrée basse rend l'embarquement dangereux. Remplacez la Grotte Bleue par le belvédère de Punta Tragara au-dessus des Faraglioni.`,
+      ],
+      en: [
+        `Capri has NO 24/7 veterinary hospital on the island — the reference hospital is the Clinica San Francesco in Naples (+39 081 545 4477). Save the number before boarding and note the last ferry schedule (around 22:00 in summer, 20:00 in winter).`,
+        `Base in Anacapri (the upper village) rather than Capri Town: calmer, leafier, reliably dog-friendly garden terraces, away from the summer Piazzetta crush.`,
+        `Ferries from the four operators (Caremar, NLG, SNAV, Alilauro) accept leashed and muzzled dogs on outdoor decks year-round, and small dogs in carriers indoors; pet ticket EUR 3-5.`,
+        `Italian national rule bans dogs from paid lido beach concessions 15 May to 30 September — use the Punta Carena lighthouse in Anacapri or the free fringe of Marina Piccola, accessible year-round.`,
+        `The Blue Grotto is not feasible with a dog: the boats are small and the low entrance makes boarding unsafe. Skip the Grotto and head to the Punta Tragara belvedere above the Faraglioni instead.`,
+      ],
+      es: [
+        `Capri NO tiene hospital veterinario 24/7 en la isla — el hospital de referencia es la Clinica San Francesco en Nápoles (+39 081 545 4477). Guarda el número antes de embarcar y anota el horario del último ferry (sobre las 22:00 en verano, 20:00 en invierno).`,
+        `Alójate en Anacapri (el pueblo alto) en vez de Capri Town: más tranquila, más arbolada, terrazas-jardín fiablemente dog-friendly, lejos del agobio estival de la Piazzetta.`,
+        `Los ferris de los cuatro operadores (Caremar, NLG, SNAV, Alilauro) aceptan perros con correa y bozal en cubiertas exteriores todo el año, y perros pequeños en transportín dentro; billete de mascota 3-5 €.`,
+        `La norma nacional italiana prohíbe perros en las concesiones de pago de los lidos del 15 mayo al 30 septiembre — usa el faro de Punta Carena en Anacapri o la franja libre de Marina Piccola, accesibles todo el año.`,
+        `La Gruta Azul no es viable con un perro: las barcas son pequeñas y la entrada baja hace el embarque inseguro. Salta la Gruta y dirígete al mirador de Punta Tragara sobre los Faraglioni.`,
+      ],
+      pt: [
+        `Capri NÃO tem hospital veterinário 24/7 na ilha — o hospital de referência é a Clinica San Francesco em Nápoles (+39 081 545 4477). Guarde o número antes de embarcar e anote o horário do último ferry (cerca das 22:00 no verão, 20:00 no inverno).`,
+        `Aloje-se em Anacapri (a aldeia alta) em vez de Capri Town: mais calma, mais arborizada, esplanadas-jardim fiavelmente pet-friendly, longe da confusão estival da Piazzetta.`,
+        `Os ferries dos quatro operadores (Caremar, NLG, SNAV, Alilauro) aceitam cães com trela e açaime em conveses exteriores o ano inteiro, e cães pequenos em transportadora no interior; bilhete animal 3-5 €.`,
+        `A regra nacional italiana proíbe cães nas concessões pagas dos lidos de 15 maio a 30 setembro — use o farol de Punta Carena em Anacapri ou a franja livre de Marina Piccola, acessíveis o ano inteiro.`,
+        `A Gruta Azul não é viável com um cão: os botes são pequenos e a entrada baixa torna o embarque inseguro. Salte a Gruta e dirija-se antes ao miradouro de Punta Tragara sobre os Faraglioni.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Accès : aucun aéroport sur Capri. L'aéroport commercial le plus proche est Naples Capodichino (NAP), à env. 1h en taxi/navette du Molo Beverello. Ferries Caremar/NLG/SNAV/Alilauro depuis Naples (40-80 min selon le bateau) et Sorrente (30 min), chiens acceptés à l'année.`,
+        `Plages : règle nationale italienne, chiens interdits sur les lidos payants du 15 mai au 30 septembre. Phare de Punta Carena (Anacapri) et frange publique de Marina Piccola accessibles en laisse toute l'année.`,
+        `Sentiers : Via Krupp, sentier de Punta Tragara, sentier rural Migliara depuis Anacapri jusqu'au Belvedere, tous dog-friendly en laisse à l'année, sans billet.`,
+        `Vétérinaires : Studio Veterinario Dott. Antonio Vacca à Capri-ville et Ambulatorio Veterinario Anacapri pour la routine. AUCUNE clinique 24h sur l'île — urgences renvoyées par la mer vers la Clinica San Francesco à Naples (+39 081 545 4477).`,
+        `Documents : passeport européen, puce électronique et vaccination antirabique en cours obligatoires ; les équipages de ferry contrôlent à l'embarquement au Molo Beverello.`,
+      ],
+      en: [
+        `Access: no airport on Capri. The nearest commercial airport is Naples Capodichino (NAP), about 1h by taxi/shuttle from Molo Beverello. Caremar/NLG/SNAV/Alilauro ferries from Naples (40-80 min depending on boat) and Sorrento (30 min), dogs accepted year-round.`,
+        `Beaches: Italian national rule bans dogs from paid lido concessions 15 May-30 September. Punta Carena lighthouse (Anacapri) and the free fringe of Marina Piccola remain accessible on leash year-round.`,
+        `Walks: Via Krupp, Punta Tragara path, the rural Migliara path from Anacapri to the Belvedere, all dog-friendly on leash year-round, no ticket required.`,
+        `Vets: Studio Veterinario Dott. Antonio Vacca in Capri Town and Ambulatorio Veterinario Anacapri for routine care. NO 24h clinic on the island — emergencies referred by sea to the Clinica San Francesco in Naples (+39 081 545 4477).`,
+        `Documents: EU pet passport, microchip and current rabies vaccination required; ferry crews check at boarding at Molo Beverello.`,
+      ],
+      es: [
+        `Acceso: sin aeropuerto en Capri. El aeropuerto comercial más cercano es Nápoles Capodichino (NAP), a aprox. 1h en taxi/lanzadera desde el Molo Beverello. Ferris Caremar/NLG/SNAV/Alilauro desde Nápoles (40-80 min según el barco) y Sorrento (30 min), perros aceptados todo el año.`,
+        `Playas: la norma nacional italiana prohíbe perros en las concesiones de pago de los lidos del 15 mayo al 30 septiembre. Faro de Punta Carena (Anacapri) y franja libre de Marina Piccola siguen accesibles con correa todo el año.`,
+        `Senderos: Via Krupp, sendero de Punta Tragara, sendero rural Migliara desde Anacapri hasta el Belvedere, todos dog-friendly con correa todo el año, sin billete.`,
+        `Veterinarios: Studio Veterinario Dott. Antonio Vacca en Capri Town y Ambulatorio Veterinario Anacapri para rutina. SIN clínica 24h en la isla — urgencias derivadas por mar a la Clinica San Francesco en Nápoles (+39 081 545 4477).`,
+        `Documentos: pasaporte europeo, microchip y vacuna antirrábica vigente obligatorios; las tripulaciones de los ferris controlan en el embarque en el Molo Beverello.`,
+      ],
+      pt: [
+        `Acesso: sem aeroporto em Capri. O aeroporto comercial mais próximo é Nápoles Capodichino (NAP), a cerca de 1h de táxi/shuttle do Molo Beverello. Ferries Caremar/NLG/SNAV/Alilauro a partir de Nápoles (40-80 min consoante o barco) e Sorrento (30 min), cães aceites o ano inteiro.`,
+        `Praias: a regra nacional italiana proíbe cães nas concessões pagas dos lidos de 15 maio a 30 setembro. Farol de Punta Carena (Anacapri) e franja livre de Marina Piccola continuam acessíveis com trela o ano inteiro.`,
+        `Trilhos: Via Krupp, trilho de Punta Tragara, trilho rural Migliara desde Anacapri até ao Belvedere, todos pet-friendly com trela o ano inteiro, sem bilhete.`,
+        `Veterinários: Studio Veterinario Dott. Antonio Vacca em Capri Town e Ambulatorio Veterinario Anacapri para rotina. SEM clínica 24h na ilha — urgências encaminhadas por mar para a Clinica San Francesco em Nápoles (+39 081 545 4477).`,
+        `Documentos: passaporte europeu, microchip e vacinação antirrábica em dia obrigatórios; as tripulações dos ferries verificam no embarque no Molo Beverello.`,
+      ],
+    },
+  },
+
   cardiff: {
     history: {
       fr: `Cardiff, capitale du Pays de Galles depuis 1955, compte environ 372 000 habitants et constitue le cœur économique et culturel du pays. Née sur les ruines du fort romain de Caerdydd au Iᵉʳ siècle, transformée en bastion normand après 1081 puis en plus grand port d'exportation de charbon du monde au début du XXᵉ siècle, la ville a été presque entièrement réinventée après la fermeture du dernier quai en 1978. Le réaménagement de Cardiff Bay en 2001, achevé par le barrage de 1,1 km qui ferme l'estuaire de la Taff et de l'Ely, a créé un front d'eau douce de 200 hectares aujourd'hui parmi les plus dog-friendly du Royaume-Uni. Côté chiens, l'arrêté municipal (PSPO 2018) exige que les chiens soient sous contrôle dans tous les espaces publics et qu'ils puissent être remis en laisse à la demande d'un agent, mais aucun arrêté n'impose la laisse en permanence dans le système Bute Park / Pontcanna Fields qui couvre 130 hectares au cœur de la ville. Trois plages canines à l'année dans le Vale of Glamorgan voisin (Penarth nord de la jetée, Jacksons Bay, Sully Island) et un hôpital vétérinaire 24h/24 de référence à Tongwynlais complètent une infrastructure animale parmi les meilleures des capitales britanniques. Depuis le Brexit (1ᵉʳ janvier 2021), les visiteurs européens doivent disposer d'un Animal Health Certificate (AHC) de moins de 10 jours plutôt que d'un passeport européen.`,

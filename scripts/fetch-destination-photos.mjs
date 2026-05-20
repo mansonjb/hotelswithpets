@@ -122,6 +122,7 @@ const TARGETS = [
   { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },
   { slug: 'malmo', query: 'Malmö Sweden Turning Torso skyline Western Harbour Øresund coastline panorama sunset' },
   { slug: 'uppsala', query: 'Uppsala Sweden Cathedral Domkyrka twin spires Fyrisån river view sunset panorama' },
+  { slug: 'linz', query: 'Linz Austria Hauptplatz baroque square Pöstlingberg basilica Danube river view panorama sunset' },
   { slug: 'valletta', query: 'Valletta Malta Grand Harbour Upper Barrakka Gardens sunset panorama' },
 ]
 

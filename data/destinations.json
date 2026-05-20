@@ -5404,6 +5404,80 @@
     "tiqetsId": "66858"
   },
   {
+    "slug": "linz",
+    "name": "Linz",
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/linz.jpg",
+    "intro": "Linz is Austria's third-largest city and an under-rated dog-travel destination: a compact baroque Altstadt on the Danube, an off-leash zone with river swimming for dogs, a 539 m forested hill reached by Europe's steepest adhesion railway, and a tram network that carries dogs free on every monthly ticket.",
+    "lat": 48.3069,
+    "lng": 14.2858,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & pleasant",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "LNZ"
+  },
+  {
     "slug": "lisbon",
     "name": "Lisbon",
     "country": "Portugal",

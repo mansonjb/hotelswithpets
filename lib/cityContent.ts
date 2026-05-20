@@ -9208,6 +9208,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  linz: {
+    history: {
+      fr: `Capitale de la Haute-Autriche, troisième ville d'Autriche avec 207 000 habitants, Linz est née comme fort romain de Lentia au Ier siècle sur la rive sud du Danube. Promue ville par Frédéric III en 1490, elle devint un centre commercial florissant entre Vienne et Salzbourg. Le XIXe siècle industriel l'a façonnée autour de l'aciérie VOEST et du port fluvial — héritage encore visible en aval du centre. Désignée Capitale européenne de la culture en 2009 puis UNESCO City of Media Arts en 2014, Linz s'est réinventée autour de l'Ars Electronica Center et d'une scène d'art numérique unique en Europe. Pour les propriétaires de chiens, c'est l'une des villes autrichiennes les plus pratiques après Vienne et Salzbourg : Altstadt baroque compact, Pöstlingberg à 539 m accessible par crémaillère, plage canine sur le Danube à la Hundefreilaufzone Urfahr, et un réseau Linz Linien qui transporte les chiens gratuitement avec tout ticket mensuel.`,
+      en: `The capital of Upper Austria and Austria's third-largest city with 207,000 inhabitants, Linz began as the Roman fort of Lentia in the 1st century on the south bank of the Danube. Granted city status by Frederick III in 1490, it grew into a thriving trading hub between Vienna and Salzburg. The 19th-century industrial age shaped it around the VOEST steelworks and the river port — still visible downstream of the centre. Designated European Capital of Culture in 2009 and UNESCO City of Media Arts in 2014, Linz has reinvented itself around the Ars Electronica Center and a digital-art scene unique in Europe. For dog owners, it is one of the most practical Austrian cities after Vienna and Salzburg: a compact baroque Altstadt, the 539 m Pöstlingberg reached by adhesion railway, a Danube dog beach at the Hundefreilaufzone Urfahr, and a Linz Linien network that carries dogs free with any monthly pass.`,
+      es: `Capital de Alta Austria y tercera ciudad de Austria con 207 000 habitantes, Linz nació como el fuerte romano de Lentia en el siglo I en la orilla sur del Danubio. Elevada a ciudad por Federico III en 1490, creció hasta convertirse en un centro comercial floreciente entre Viena y Salzburgo. La era industrial del siglo XIX la moldeó en torno a la acería VOEST y al puerto fluvial — herencia aún visible aguas abajo del centro. Designada Capital Europea de la Cultura en 2009 y UNESCO City of Media Arts en 2014, Linz se ha reinventado en torno al Ars Electronica Center y a una escena de arte digital única en Europa. Para los dueños de perros es una de las ciudades austriacas más prácticas después de Viena y Salzburgo: un Altstadt barroco compacto, el Pöstlingberg de 539 m alcanzado por cremallera, una playa canina sobre el Danubio en la Hundefreilaufzone Urfahr, y una red Linz Linien que transporta a los perros gratis con cualquier abono mensual.`,
+      pt: `Capital da Alta Áustria e terceira cidade da Áustria com 207 000 habitantes, Linz nasceu como o forte romano de Lentia no século I na margem sul do Danúbio. Elevada a cidade por Frederico III em 1490, cresceu até se tornar um centro comercial florescente entre Viena e Salzburgo. A era industrial do século XIX moldou-a em torno da siderurgia VOEST e do porto fluvial — herança ainda visível a jusante do centro. Designada Capital Europeia da Cultura em 2009 e UNESCO City of Media Arts em 2014, Linz reinventou-se em torno do Ars Electronica Center e de uma cena de arte digital única na Europa. Para os donos de cães é uma das cidades austríacas mais práticas depois de Viena e Salzburgo: um Altstadt barroco compacto, o Pöstlingberg de 539 m alcançado por cremalheira, uma praia canina no Danúbio na Hundefreilaufzone Urfahr, e uma rede Linz Linien que transporta os cães grátis com qualquer passe mensal.`,
+    },
+    sights: [
+      {
+        name: 'Hauptplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Une des plus grandes places médiévales fermées d'Europe centrale, 13 200 m² de pavés et de maisons baroques. Chiens en laisse bienvenus partout.`,
+          en: `One of the largest enclosed medieval squares in Central Europe, 13,200 m² of cobblestones and baroque townhouses. Leashed dogs welcome throughout.`,
+          es: `Una de las mayores plazas medievales cerradas de Europa Central, 13 200 m² de adoquines y casas barrocas. Perros con correa bienvenidos por toda la plaza.`,
+          pt: `Uma das maiores praças medievais fechadas da Europa Central, 13 200 m² de calçada e casas barrocas. Cães com trela bem-vindos em toda a praça.`,
+        },
+      },
+      {
+        name: 'Pöstlingberg',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Colline forestière à 539 m couronnée par la basilique baroque, atteinte par la Pöstlingbergbahn (crémaillère par adhérence la plus raide d'Europe). Chiens en laisse partout en extérieur.`,
+          en: `Forested hill at 539 m crowned by the baroque basilica, reached by the Pöstlingbergbahn (Europe's steepest adhesion railway). Leashed dogs welcome on every outdoor path.`,
+          es: `Colina forestal a 539 m coronada por la basílica barroca, alcanzada por el Pöstlingbergbahn (la cremallera por adherencia más empinada de Europa). Perros con correa en todos los senderos exteriores.`,
+          pt: `Colina arborizada a 539 m coroada pela basílica barroca, alcançada pelo Pöstlingbergbahn (a cremalheira por aderência mais íngreme da Europa). Cães com trela em todos os trilhos exteriores.`,
+        },
+      },
+      {
+        name: 'Donaupark',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc riverain de 1,2 km le long du Danube, sentier Forum Metall avec 20 sculptures en plein air. Chiens en laisse (ce n'est pas une Hundefreilaufzone).`,
+          en: `1.2 km riverside park along the Danube, Forum Metall trail with 20 outdoor sculptures. Leashed dogs only (not a Hundefreilaufzone).`,
+          es: `Parque ribereño de 1,2 km a lo largo del Danubio, sendero Forum Metall con 20 esculturas al aire libre. Solo perros con correa (no es una Hundefreilaufzone).`,
+          pt: `Parque ribeirinho de 1,2 km ao longo do Danúbio, trilho Forum Metall com 20 esculturas ao ar livre. Apenas cães com trela (não é uma Hundefreilaufzone).`,
+        },
+      },
+      {
+        name: 'Mariendom',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Plus grande église d'Autriche, néogothique, 134 m de hauteur. Intérieur interdit aux chiens hors chiens d'assistance ; parvis et jardins accessibles aux chiens en laisse.`,
+          en: `Austria's largest church, neo-Gothic, 134 m high. Interior dog-free except for assistance dogs; close and gardens open to leashed dogs.`,
+          es: `Iglesia más grande de Austria, neogótica, 134 m de altura. Interior sin perros excepto perros de asistencia; recinto y jardines abiertos a perros con correa.`,
+          pt: `Maior igreja da Áustria, neogótica, 134 m de altura. Interior sem cães exceto cães de assistência; adro e jardins abertos a cães com trela.`,
+        },
+      },
+      {
+        name: 'Hundefreilaufzone Urfahr',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grande zone sans laisse de Linz, prairie riveraine de 800 m sur le Danube avec plage de galets pour baignade canine à l'extrémité ouest.`,
+          en: `The largest off-leash zone in Linz, an 800 m riverside meadow on the Danube with a gravel beach for dog swimming at the western end.`,
+          es: `La mayor zona sin correa de Linz, una pradera ribereña de 800 m sobre el Danubio con playa de grava para baño canino en el extremo oeste.`,
+          pt: `A maior zona sem trela de Linz, um prado ribeirinho de 800 m no Danúbio com praia de gravilha para banho canino na extremidade oeste.`,
+        },
+      },
+      {
+        name: 'Ars Electronica Center',
+        emoji: '🤖',
+        petFriendly: false,
+        desc: {
+          fr: `Musée d'art numérique UNESCO sur la rive nord du Danube, façade LED iconique. Intérieur interdit aux chiens ; berges et terrasse extérieure accessibles.`,
+          en: `UNESCO-recognised digital-art museum on the north bank of the Danube, iconic LED facade. Interior dog-free; embankments and outdoor terrace accessible.`,
+          es: `Museo de arte digital reconocido por la UNESCO en la orilla norte del Danubio, icónica fachada LED. Interior sin perros; muelles y terraza exterior accesibles.`,
+          pt: `Museu de arte digital reconhecido pela UNESCO na margem norte do Danúbio, icónica fachada LED. Interior sem cães; margens e terraço exterior acessíveis.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Maulkorbpflicht (muselière obligatoire) appliquée strictement sur tous les trams Linz Linien, bus et la Pöstlingbergbahn — amende sur place 105 €.`,
+        `Leinenpflicht (laisse obligatoire) dans tous les espaces publics hors Hundefreilaufzonen balisées, amendes à partir de 50 €.`,
+        `Pleschinger See et Pichlinger See interdisent strictement les chiens dans les zones de baignade pour raisons d'hygiène — pour nager, allez à la Hundefreilaufzone Urfahr/Donau.`,
+        `Bus et trams Linz Linien gratuits pour le chien avec un ticket mensuel ou annuel valide (depuis le 1er septembre 2022), 2,40 € Hundeticket avec un ticket à l'unité.`,
+        `Urgences vétérinaires nocturnes : Tierklinik Sattledt à 35 km à l'ouest (+43 7244 8924), seul hôpital de référence 24h/24 de Haute-Autriche.`,
+      ],
+      en: [
+        `Strict Maulkorbpflicht (muzzle requirement) enforced on every Linz Linien tram, bus and the Pöstlingbergbahn — on-the-spot fine €105.`,
+        `Leinenpflicht (leash law) applies in all public spaces outside the signposted Hundefreilaufzonen, fines from €50.`,
+        `Pleschinger See and Pichlinger See strictly prohibit dogs in the bathing zones for hygiene reasons — for a swim, use the Hundefreilaufzone Urfahr/Donau on the Danube.`,
+        `Linz Linien buses and trams carry the dog free with a valid monthly or annual pass (since 1 September 2022); €2.40 Hundeticket on a single fare.`,
+        `Night-time veterinary emergencies: Tierklinik Sattledt 35 km west of the city (+43 7244 8924), the only 24-hour referral hospital in Upper Austria.`,
+      ],
+      es: [
+        `Maulkorbpflicht (bozal obligatorio) estrictamente aplicada en todo tranvía, autobús Linz Linien y el Pöstlingbergbahn — multa en el acto 105 €.`,
+        `Leinenpflicht (correa obligatoria) en todos los espacios públicos fuera de las Hundefreilaufzonen señalizadas, multas desde 50 €.`,
+        `Pleschinger See y Pichlinger See prohíben estrictamente los perros en las zonas de baño por motivos de higiene — para nadar, usa la Hundefreilaufzone Urfahr/Donau sobre el Danubio.`,
+        `Autobuses y tranvías Linz Linien transportan al perro gratis con un abono mensual o anual válido (desde el 1 de septiembre de 2022); 2,40 € Hundeticket en billete sencillo.`,
+        `Urgencias veterinarias nocturnas: Tierklinik Sattledt a 35 km al oeste de la ciudad (+43 7244 8924), único hospital de referencia 24/7 de Alta Austria.`,
+      ],
+      pt: [
+        `Maulkorbpflicht (açaime obrigatório) estritamente aplicada em todos os elétricos, autocarros Linz Linien e no Pöstlingbergbahn — coima no local 105 €.`,
+        `Leinenpflicht (trela obrigatória) em todos os espaços públicos fora das Hundefreilaufzonen sinalizadas, coimas a partir de 50 €.`,
+        `Pleschinger See e Pichlinger See proíbem estritamente os cães nas zonas de banho por motivos de higiene — para um banho, usa a Hundefreilaufzone Urfahr/Donau no Danúbio.`,
+        `Autocarros e elétricos Linz Linien transportam o cão grátis com um passe mensal ou anual válido (desde 1 de setembro de 2022); 2,40 € Hundeticket num bilhete simples.`,
+        `Urgências veterinárias noturnas: Tierklinik Sattledt a 35 km a oeste da cidade (+43 7244 8924), único hospital de referência 24/7 da Alta Áustria.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animal, puce et antirabique de plus de 21 jours exigés à l'arrivée. L'Autriche n'exige pas de traitement contre l'échinocoque (contrairement à la Finlande, au Royaume-Uni, à l'Irlande, à Malte ou à la Norvège).`,
+        `Mariendom, Ars Electronica Center et LENTOS Kunstmuseum interdisent les chiens à l'intérieur hors chiens d'assistance — réservez un sitter Pawshake si vous voyagez seul.`,
+        `ÖBB Railjet depuis Linz Hauptbahnhof accepte les chiens en laisse et muselière à 50 % du tarif adulte ; Vienne à 90 min, Salzbourg à 70 min, toutes deux avec départs horaires.`,
+        `Aéroport de Linz (LNZ) à 13 km : petit terminal, aire de détente animale extérieure, peu de vols directs ; l'aéroport de Vienne (VIE) à 1h45 par Railjet offre plus d'options long-courriers pour voyager avec un grand chien.`,
+        `Hiver continental autrichien : températures jusqu'à -10 °C en janvier/février, prévoyez un manteau pour les petits chiens et des bottines pour le sel sur les trottoirs.`,
+      ],
+      en: [
+        `EU pet passport, microchip and rabies vaccination at least 21 days old required at the border. Austria does NOT require a tapeworm treatment (unlike Finland, the UK, Ireland, Malta or Norway).`,
+        `Mariendom, Ars Electronica Center and LENTOS Kunstmuseum are dog-free inside except for assistance dogs — book a Pawshake sitter if you are travelling solo.`,
+        `ÖBB Railjet from Linz Hauptbahnhof accepts leashed muzzled dogs at 50% of the adult fare; Vienna 90 min, Salzburg 70 min, both with hourly departures.`,
+        `Linz Airport (LNZ) 13 km away: small terminal, outdoor pet relief area, few direct flights; Vienna Airport (VIE) 1h45 away by Railjet offers more long-haul options for travelling with a big dog.`,
+        `Austrian continental winter: temperatures down to -10 °C in January/February, bring a coat for small dogs and booties for the road salt on pavements.`,
+      ],
+      es: [
+        `Pasaporte europeo de mascotas, microchip y vacuna antirrábica de al menos 21 días exigidos en la frontera. Austria NO exige tratamiento contra la tenia equinococo (a diferencia de Finlandia, Reino Unido, Irlanda, Malta o Noruega).`,
+        `Mariendom, Ars Electronica Center y LENTOS Kunstmuseum prohíben perros en el interior excepto perros de asistencia — reserva un cuidador Pawshake si viajas solo.`,
+        `ÖBB Railjet desde Linz Hauptbahnhof admite perros con correa y bozal al 50% de la tarifa adulta; Viena 90 min, Salzburgo 70 min, ambas con salidas horarias.`,
+        `Aeropuerto de Linz (LNZ) a 13 km: pequeña terminal, zona de esparcimiento animal exterior, pocos vuelos directos; el aeropuerto de Viena (VIE) a 1h45 en Railjet ofrece más opciones de larga distancia para viajar con un perro grande.`,
+        `Invierno continental austriaco: temperaturas hasta -10 °C en enero/febrero, lleva un abrigo para perros pequeños y botines para la sal en las aceras.`,
+      ],
+      pt: [
+        `Passaporte europeu de animais, microchip e vacina antirrábica de pelo menos 21 dias exigidos na fronteira. A Áustria NÃO exige tratamento contra a tenia echinococcus (ao contrário da Finlândia, Reino Unido, Irlanda, Malta ou Noruega).`,
+        `Mariendom, Ars Electronica Center e LENTOS Kunstmuseum proíbem cães no interior exceto cães de assistência — reserva um sitter Pawshake se viajares sozinho.`,
+        `ÖBB Railjet a partir de Linz Hauptbahnhof aceita cães com trela e açaime a 50% da tarifa adulta; Viena 90 min, Salzburgo 70 min, ambas com partidas horárias.`,
+        `Aeroporto de Linz (LNZ) a 13 km: pequeno terminal, zona de descompressão animal exterior, poucos voos diretos; o aeroporto de Viena (VIE) a 1h45 em Railjet oferece mais opções de longo curso para viajar com um cão grande.`,
+        `Inverno continental austríaco: temperaturas até -10 °C em janeiro/fevereiro, leva um casaco para cães pequenos e botinhas para o sal nos passeios.`,
+      ],
+    },
+  },
+
   lisbon: {
     history: {
       fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises, d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa em damier, la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses, idéale pour voyager avec un animal toute l'année.`,

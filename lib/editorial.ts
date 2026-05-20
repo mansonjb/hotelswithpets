@@ -381,6 +381,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Citadelle ramparts walk, the Bois de Boulogne urban forest, and the Vieux Lille terrace cafés',
       area: 'Vieux Lille, Wazemmes, and the Vauban student quarter',
     },
+    linz: {
+      personality: `Austria's third-largest city on the Danube, a baroque Altstadt where dogs are welcome on every café terrace, a 539 m forested hill reached by Europe's steepest adhesion railway, an off-leash zone with river swimming on the north bank, and a Linz Linien tram network that carries dogs free on every monthly ticket`,
+      highlight: `the Pöstlingberg basilica reached by the historic Pöstlingbergbahn, the Hundefreilaufzone Urfahr/Donau dog beach on the Danube, and the Forum Metall sculpture trail along the Donaupark`,
+      area: `the Altstadt around Hauptplatz and the Mariendom, Urfahr across the river, and the Donaulände riverfront`,
+    },
     lisbon: {
       personality: 'a sunlit, hilly city whose mild climate makes it ideal for travelling with pets year-round',
       highlight: 'Monsanto forest park, Belém waterfront, and the esplanades of Alfama',
@@ -1099,6 +1104,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade des remparts de la Citadelle, le Bois de Boulogne urbain et les terrasses du Vieux Lille`,
       area: `le Vieux Lille, Wazemmes et le quartier étudiant de Vauban`,
     },
+    linz: {
+      personality: `la troisième ville d'Autriche sur le Danube, un Altstadt baroque où les chiens sont bienvenus à toutes les terrasses, une colline forestière de 539 m atteinte par la crémaillère par adhérence la plus raide d'Europe, une zone sans laisse avec baignade en rivière sur la rive nord, et un réseau de tramways Linz Linien qui transporte les chiens gratuitement avec tout ticket mensuel`,
+      highlight: `la basilique du Pöstlingberg atteinte par la Pöstlingbergbahn historique, la Hundefreilaufzone Urfahr/Donau plage canine sur le Danube et le sentier des sculptures Forum Metall le long du Donaupark`,
+      area: `l'Altstadt autour du Hauptplatz et du Mariendom, Urfahr de l'autre côté du fleuve, et la Donaulände bord-de-Danube`,
+    },
     lisbon: {
       personality: 'une ville ensoleillée et vallonnée dont le climat doux la rend idéale pour voyager avec des animaux toute l\'année',
       highlight: 'le parc forestier de Monsanto, le front de mer de Belém et les esplanades d\'Alfama',
@@ -1816,6 +1826,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo por las murallas de la Citadelle, el Bois de Boulogne urbano y las terrazas del Vieux Lille`,
       area: `el Vieux Lille, Wazemmes y el barrio estudiantil de Vauban`,
     },
+    linz: {
+      personality: `la tercera ciudad de Austria sobre el Danubio, un Altstadt barroco donde los perros son bienvenidos en todas las terrazas, una colina forestal de 539 m alcanzada por la cremallera por adherencia más empinada de Europa, una zona sin correa con baño en el río en la orilla norte, y una red de tranvías Linz Linien que transporta a los perros gratis con cualquier abono mensual`,
+      highlight: `la basílica del Pöstlingberg alcanzada por el histórico Pöstlingbergbahn, la Hundefreilaufzone Urfahr/Donau playa canina sobre el Danubio y el sendero de esculturas Forum Metall a lo largo del Donaupark`,
+      area: `el Altstadt en torno a Hauptplatz y al Mariendom, Urfahr al otro lado del río, y la Donaulände ribereña del Danubio`,
+    },
     lisbon: {
       personality: 'una ciudad soleada y con colinas cuyo clima suave la hace ideal para viajar con mascotas durante todo el año',
       highlight: 'el parque forestal de Monsanto, el paseo marítimo de Belém y las explanadas de Alfama',
@@ -2532,6 +2547,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade do norte de Francia de influencia flamenca, de ruas adoquinadas e casas de ladrillo com frontones, sede do primer café canino de Europa e com um centro plano e pedonal onde os cães viajan grátis no metro`,
       highlight: `o passeio pelas muralhas da Citadelle, o Bois de Boulogne urbano e as esplanadas do Vieux Lille`,
       area: `o Vieux Lille, Wazemmes e o bairro estudantil de Vauban`,
+    },
+    linz: {
+      personality: `a terceira cidade da Áustria sobre o Danúbio, um Altstadt barroco onde os cães são bem-vindos em todas as esplanadas, uma colina florestal de 539 m alcançada pela cremalheira por aderência mais íngreme da Europa, uma zona sem trela com banho no rio na margem norte, e uma rede de elétricos Linz Linien que transporta os cães grátis com qualquer passe mensal`,
+      highlight: `a basílica do Pöstlingberg alcançada pelo histórico Pöstlingbergbahn, a Hundefreilaufzone Urfahr/Donau praia canina no Danúbio e o trilho de esculturas Forum Metall ao longo do Donaupark`,
+      area: `o Altstadt à volta do Hauptplatz e do Mariendom, Urfahr do outro lado do rio, e a Donaulände ribeirinha do Danúbio`,
     },
     lisbon: {
       personality: 'uma cidade soleada e com colinas cuyo clima suave a hace ideal para viajar com animais durante o ano inteiro',

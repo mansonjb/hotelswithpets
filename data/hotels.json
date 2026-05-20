@@ -10613,6 +10613,123 @@
     "petPolicyPt": "Holiday Inn Express Lille Centre allows cães pequenos até 10 kg por 10 EUR por animal por noite. gatos são não permitted. Animais são aceites nos quartos apenas, não em breakfast ou lobby seating areas."
   },
   {
+    "id": "linz-1",
+    "name": "ARCOTEL Nike Linz",
+    "destinationSlug": "linz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4200,
+    "priceFrom": 119,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/arcotel-nike-linz.html",
+    "petFee": 15,
+    "petPolicy": "ARCOTEL Nike Linz welcomes dogs of any size for €15 per pet per night. The hotel sits directly on the Untere Donaulände on the south bank of the Danube, opposite the Ars Electronica Center across the river. A 5-minute walk gets you to the Donaupark sculpture trail and 8 minutes to the Hauptplatz; the Lentos art museum is the next-door neighbour.",
+    "highlights": [
+      "Directly on the Danube riverfront",
+      "5-minute walk to Donaupark and Lentos museum",
+      "8-minute walk to Hauptplatz"
+    ],
+    "slug": "arcotel-nike-linz"
+  },
+  {
+    "id": "linz-2",
+    "name": "Park Inn by Radisson Linz",
+    "destinationSlug": "linz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 3500,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/park-inn-linz.html",
+    "petFee": 15,
+    "petPolicy": "Park Inn by Radisson Linz welcomes pets of any size for €15 per pet per night. The hotel is on Hessenplatz, a 10-minute walk from Linz Hauptbahnhof and 15 minutes from the Hauptplatz; the Volksgarten is across the street. Pet-friendly rooms must be requested at booking; both dogs and cats are accepted.",
+    "highlights": [
+      "Across from the Volksgarten green space",
+      "10-minute walk from Linz Hauptbahnhof",
+      "Dogs and cats both welcomed"
+    ],
+    "slug": "park-inn-by-radisson-linz"
+  },
+  {
+    "id": "linz-3",
+    "name": "Austria Trend Hotel Schillerpark Linz",
+    "destinationSlug": "linz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 5100,
+    "priceFrom": 109,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/austria-trend-schillerpark.html",
+    "petFee": 18,
+    "petPolicy": "Austria Trend Hotel Schillerpark Linz welcomes dogs and cats in designated rooms for approximately €18 per pet per night. The hotel sits on Rainerstraße at the southern edge of the Innenstadt, a 7-minute walk to Hauptplatz and 5 minutes to the Hauptbahnhof. Rooms have large panoramic windows and individually adjustable air-conditioning; the breakfast buffet is dog-free.",
+    "highlights": [
+      "Panoramic windows facing the Schillerpark green",
+      "7-minute walk to Hauptplatz",
+      "5-minute walk to Linz Hauptbahnhof"
+    ],
+    "slug": "austria-trend-hotel-schillerpark-linz"
+  },
+  {
+    "id": "linz-4",
+    "name": "Leonardo Boutique Hotel Linz City Center",
+    "destinationSlug": "linz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2900,
+    "priceFrom": 99,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/leonardo-boutique-linz-city-center.html",
+    "petFee": 18,
+    "petPolicy": "Leonardo Boutique Hotel Linz City Center welcomes dogs of any size in designated rooms for €20 per pet per stay (not per night). Both dogs and cats are accepted. The hotel occupies a converted period building on Rudigierstraße, a 4-minute walk from the Mariendom and 7 minutes from the Hauptplatz; the Promenade with its row of cafés is at the doorstep.",
+    "highlights": [
+      "Converted period building on Rudigierstraße",
+      "4-minute walk to the Mariendom",
+      "Pet fee charged per stay, not per night"
+    ],
+    "slug": "leonardo-boutique-hotel-linz-city-center"
+  },
+  {
+    "id": "linz-5",
+    "name": "Ibis Styles Linz",
+    "destinationSlug": "linz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 4600,
+    "priceFrom": 79,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/ibis-styles-linz.html",
+    "petFee": 11,
+    "petPolicy": "Ibis Styles Linz welcomes up to two pets of any size for €11 per pet per night. Dogs and cats are both accepted, and food and water bowls are provided in the room. The hotel is on Mozartstraße in the Innenstadt, an 8-minute walk to the Hauptplatz and a 5-minute walk to the Pöstlingbergbahn line 50 stop at Hauptbahnhof.",
+    "highlights": [
+      "Two pets per room welcomed",
+      "Food and water bowls provided",
+      "8-minute walk to Hauptplatz"
+    ],
+    "slug": "ibis-styles-linz"
+  },
+  {
     "id": "lisbon-1",
     "name": "EPIC SANA Marquês Hotel",
     "destinationSlug": "lisbon",

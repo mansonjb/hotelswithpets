@@ -106,6 +106,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'best-dog-beaches-europe-2026',
     'fenced-dog-parks-europe',
     'top-dog-friendly-islands-europe',
+    'dog-beaches-france',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

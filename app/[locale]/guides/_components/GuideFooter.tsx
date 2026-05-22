@@ -109,6 +109,12 @@ const ALL_GUIDES = [
     label: { fr: `Top 25 îles dog-friendly d'Europe`, en: 'Top 25 dog-friendly islands in Europe', es: 'Top 25 islas dog-friendly de Europa' },
     desc:  { fr: 'Mallorca, Madère, Crète, Sicile, Skye… 25 îles auditées', en: 'Mallorca, Madeira, Crete, Sicily, Skye… 25 islands audited', es: 'Mallorca, Madeira, Creta, Sicilia, Skye… 25 islas auditadas' },
   },
+  {
+    slug: 'dog-beaches-france',
+    emoji: '🏖️',
+    label: { fr: `Meilleures plages pour chien en France : 20 plages vérifiées`, en: 'Best dog-friendly beaches in France: 20 verified spots', es: 'Mejores playas para perros en Francia: 20 playas verificadas' },
+    desc:  { fr: `Côte d'Azur, Languedoc, Aquitaine, Vendée, Bretagne, Normandie, Nord`, en: `Côte d'Azur, Languedoc, Aquitaine, Vendée, Brittany, Normandy, North`, es: `Costa Azul, Languedoc, Aquitania, Vendée, Bretaña, Normandía, Norte` },
+  },
 ]
 
 const TITLES: Record<string, string> = {

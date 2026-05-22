@@ -9,6 +9,8 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import PetMap from '@/components/PetMap'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 const SLUG = 'dog-beaches-france'
 
@@ -542,8 +544,23 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         🐾 {c.bookPrefix} {b.locationLabel.split(',')[0]} →
                       </a>
 
+                      {/* Inline editorial hotel pick — converts beach-reader to hotel-booker */}
+                      {b.dest && (
+                        <NearbyHotelCard
+                          destinationSlug={b.dest.slug}
+                          locale={locale}
+                          variant="compact"
+                          proximityLabel={
+                            locale === 'fr' ? `Où dormir près de ${b.beachName}` :
+                            locale === 'es' ? `Dónde dormir cerca de ${b.beachName}` :
+                            locale === 'pt' ? `Onde dormir perto de ${b.beachName}` :
+                            `Where to stay near ${b.beachName}`
+                          }
+                        />
+                      )}
+
                       {/* Secondary links row */}
-                      <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+                      <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm mt-3">
                         {b.dest && (
                           <Link href={`/${locale}/destinations/${b.dest.slug}`} className="text-blue-600 hover:text-blue-800 font-semibold hover:underline">
                             {c.guideLink}
@@ -673,6 +690,23 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       <GuideFooter locale={locale} currentSlug={SLUG} />
+
+      {/* Sticky mobile-only CTA — shows after 30% scroll, dismissible */}
+      <StickyHotelCTA
+        href={`https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=beaches-fr-sticky&address=${encodeURIComponent('Côte d\'Azur France')}`}
+        label={
+          locale === 'fr' ? `Hôtels pet-friendly Côte d'Azur dès 95 €/nuit` :
+          locale === 'es' ? `Hoteles pet-friendly Costa Azul desde 95 €/noche` :
+          locale === 'pt' ? `Hotéis pet-friendly Costa Azul desde 95 €/noite` :
+          `Pet-friendly Côte d'Azur hotels from €95/night`
+        }
+        cta={
+          locale === 'fr' ? 'Voir' :
+          locale === 'es' ? 'Ver' :
+          locale === 'pt' ? 'Ver' :
+          'View'
+        }
+      />
     </div>
   )
 }

@@ -10,6 +10,7 @@ import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import PetMap from '@/components/PetMap'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
 
 const SLUG = 'top-dog-friendly-islands-europe'
 
@@ -575,8 +576,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         🐾 {c.bookHotelsInPrefix} {isl.islandName} →
                       </a>
 
+                      {/* Inline editorial hotel pick (only when island is wired to a destination) */}
+                      {isl.dest && (
+                        <NearbyHotelCard destinationSlug={isl.dest.slug} locale={locale} variant="compact" />
+                      )}
+
                       {/* Secondary links row */}
-                      <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+                      <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm mt-3">
                         {isl.dest && (
                           <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-semibold">
                             {isl.hotelCount} {c.hotelsLabel}

@@ -119,6 +119,7 @@ const TARGETS = [
   { slug: 'funchal', query: 'Funchal Madeira Portugal harbour bay marina cable car amphitheatre Atlantic panorama sunset' },
   { slug: 'bari', query: 'Bari Italy Old Town Bari Vecchia Basilica San Nicola Lungomare Adriatic sea harbour panorama sunset' },
   { slug: 'catania', query: 'Catania Sicily Italy Piazza Duomo Fontana dell Elefante cathedral Mount Etna panorama sunset' },
+  { slug: 'cesky-krumlov', query: 'Cesky Krumlov Czech Republic castle Vltava river bend old town UNESCO panorama' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
   { slug: 'cardiff', query: 'Cardiff Castle Wales city centre Bute Park River Taff panorama' },
   { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },

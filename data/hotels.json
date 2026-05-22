@@ -5741,6 +5741,132 @@
     "slug": "hotel-manganelli-palace"
   },
   {
+    "id": "cesky-krumlov-1",
+    "name": "Hotel Růže",
+    "destinationSlug": "cesky-krumlov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1900,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/ruze.html",
+    "petFee": 25,
+    "petPolicy": "Pets (dogs and cats) accepted on request for €25 per pet per night, no weight limit but capped at 2 pets per room. The hotel occupies a 16th-century former Jesuit seminary on Horní street, 200 m from Náměstí Svornosti and 5 minutes from the castle entrance. Water bowls and a list of trusted local dog walkers provided at the concierge desk.",
+    "highlights": [
+      "5-star historic property inside the UNESCO old town",
+      "200 m from the main square, 5 min walk to the castle and Castle Garden",
+      "Concierge maintains a list of vetted local dog walkers"
+    ],
+    "slug": "hotel-ruze"
+  },
+  {
+    "id": "cesky-krumlov-2",
+    "name": "Hotel Old Inn",
+    "destinationSlug": "cesky-krumlov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/old-inn.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed on request for €15 per pet per night, up to 2 pets per room. Set on the corner of Náměstí Svornosti, the most central 4-star in town. Rooms facing the inner courtyard are quietest and best for nervous dogs; ask the front desk at booking. Water bowls and bedding available on loan.",
+    "highlights": [
+      "Directly on the main square (Náměstí Svornosti)",
+      "Inner courtyard rooms recommended for noise-sensitive dogs",
+      "Free bowls and dog bedding on loan from reception"
+    ],
+    "slug": "hotel-old-inn"
+  },
+  {
+    "id": "cesky-krumlov-3",
+    "name": "Hotel Bellevue",
+    "destinationSlug": "cesky-krumlov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 1600,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/bellevue-cesky-krumlov.html",
+    "petFee": 20,
+    "petPolicy": "Dogs and cats accepted on request, €20 per pet per night, no weight limit. Housed in a Baroque townhouse on Latrán street with direct views of the castle and the Vltava bend, a 4-minute walk from the main square. Bathrooms have stone-tile flooring useful for muddy paws after riverside walks.",
+    "highlights": [
+      "Castle-view rooms on Latrán street",
+      "4 min walk to the main square, 6 min to the Castle Garden",
+      "Stone-floor bathrooms convenient for muddy paws"
+    ],
+    "slug": "hotel-bellevue"
+  },
+  {
+    "id": "cesky-krumlov-4",
+    "name": "Hotel Garni Myší Díra",
+    "destinationSlug": "cesky-krumlov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 1300,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/garni-mysi-dira.html",
+    "petFee": 10,
+    "petPolicy": "One pet (dog or cat) per room accepted on request, €10 per night. A small family-run boutique pension on Rooseveltova street, 300 m from the main square and right at the foot of the Castle Garden access. Direct access to the riverside path makes morning dog walks effortless.",
+    "highlights": [
+      "Boutique family-run pension, only 18 rooms",
+      "Direct access to Vltava riverside walks",
+      "Low pet fee €10/night, ideal for longer stays"
+    ],
+    "slug": "hotel-garni-mysi-dira"
+  },
+  {
+    "id": "cesky-krumlov-5",
+    "name": "Penzion Pod Hrází",
+    "destinationSlug": "cesky-krumlov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 3,
+    "rating": 9.3,
+    "reviewCount": 950,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/cz/penzion-pod-hrazi.html",
+    "petFee": 0,
+    "petPolicy": "Pets stay free on request, no weight limit and up to 2 pets per room. A modest budget guesthouse 8 minutes' walk from the old town on the south bank of the Vltava, with a private fenced garden where dogs can run leash-free. Owner-operated, English and German spoken.",
+    "highlights": [
+      "Pets stay free — rare in Český Krumlov",
+      "Private fenced garden, off-leash safe space for dogs",
+      "8 min walk to the main square, on the quieter south bank"
+    ],
+    "slug": "penzion-pod-hrazi"
+  },
+  {
     "id": "coimbra-1",
     "name": "Quinta das Lágrimas",
     "destinationSlug": "coimbra",

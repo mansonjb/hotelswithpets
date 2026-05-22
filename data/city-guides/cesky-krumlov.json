@@ -1,0 +1,601 @@
+{
+  "city": "Český Krumlov",
+  "country": "Czech Republic",
+  "flag": "🇨🇿",
+  "lastUpdated": "2026-05-22",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Český Krumlov",
+      "titleFr": "Restaurants acceptant les animaux à Český Krumlov",
+      "titleEs": "Restaurantes que admiten mascotas en Český Krumlov",
+      "introEn": "Český Krumlov's cobbled lanes are lined with terraces along the Vltava and around the chateau, where leashed dogs are almost universally welcome outdoors. Czech pubs (hospody) have a long tradition of accepting well-behaved dogs in the public bar room and bringing a water bowl on request, which extends to most traditional places in the old town.",
+      "introFr": "Les ruelles pavées de Český Krumlov sont bordées de terrasses le long de la Vltava et autour du château, où les chiens en laisse sont quasi universellement bienvenus en extérieur. Les pubs tchèques (hospody) ont une longue tradition d'accueil des chiens sages dans la salle publique et apportent une gamelle d'eau sur demande, ce qui vaut pour la plupart des adresses traditionnelles de la vieille ville.",
+      "introEs": "Las callejuelas empedradas de Český Krumlov están bordeadas de terrazas a lo largo del Vltava y en torno al castillo, donde los perros con correa son casi universalmente bienvenidos en el exterior. Los pubs checos (hospody) tienen una larga tradición de aceptar perros tranquilos en la sala pública y traer un bol de agua bajo petición, lo que se aplica a la mayoría de los locales tradicionales del casco antiguo.",
+      "places": [
+        {
+          "name": "Krčma v Šatlavské",
+          "address": "Šatlavská 137, 381 01 Český Krumlov",
+          "neighborhood": "Vnitřní Město (Old Town)",
+          "photo": "/images/city-places/cesky-krumlov-restaurants-krcma-v-satlavske.jpg",
+          "website": "https://www.satlava.cz/",
+          "description": "A medieval-themed grill tavern set in a vaulted stone cellar a few steps from the main square, famous for its open wood-fire grill turning out spit-roasted pork knuckle, ribs and grilled trout. The atmospheric stone interior continues onto a small candle-lit street terrace.",
+          "descriptionFr": "Taverne-grill médiévale installée dans une cave voûtée à quelques pas de la place principale, célèbre pour son grand foyer au feu de bois où rôtissent jarrets de porc, travers et truites grillées. L'intérieur de pierre se prolonge sur une petite terrasse de rue éclairée à la bougie.",
+          "descriptionEs": "Taberna-parrilla de ambiente medieval instalada en una bodega abovedada a pocos pasos de la plaza principal, famosa por su gran fuego de leña abierto del que salen codillo de cerdo, costillas y truchas asadas. El interior de piedra se prolonga en una pequeña terraza de calle iluminada con velas.",
+          "petPolicy": "Leashed dogs welcome on the outdoor street terrace and, off peak hours, in the back room of the cellar at the staff's discretion. Water bowl provided on request.",
+          "petPolicyFr": "Chiens en laisse bienvenus sur la terrasse extérieure et, en dehors des heures de pointe, dans la salle du fond de la cave à la discrétion du personnel. Gamelle d'eau sur demande.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza exterior y, fuera de horas punta, en la sala del fondo de la bodega a discreción del personal. Bol de agua bajo petición.",
+          "priceRange": "€€",
+          "mustTry": "The grilled pork knuckle (pečené koleno) with horseradish and dark Budvar from České Budějovice on draft.",
+          "mustTryFr": "Le jarret de porc grillé (pečené koleno) avec raifort et la Budvar brune pression de České Budějovice.",
+          "mustTryEs": "El codillo de cerdo asado (pečené koleno) con rábano picante y la Budvar oscura de barril de České Budějovice.",
+          "openingHours": "Daily 11:00–24:00",
+          "tip": "Walk in before 18:00 or reserve, the small terrace fills fast in summer and the indoor cellar is too smoky and tight for dogs in the evening.",
+          "tipFr": "Présentez-vous avant 18h ou réservez, la petite terrasse se remplit vite en été et la cave intérieure est trop enfumée et serrée pour un chien le soir.",
+          "tipEs": "Llega antes de las 18:00 o reserva, la terraza pequeña se llena rápido en verano y la bodega interior es demasiado humeante y estrecha para un perro por la noche.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kr%C4%8Dma+v+%C5%A0atlavsk%C3%A9+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "Taberna-parrilla de ambiente medieval instalada numa bodega abovedada a poucos pasos da praça principal, famosa por o seu gran fuego de lenha abierto do que salen codillo de cerdo, costillas e truchas asadas. O interior de pedra se prolonga numa pequenha esplanada de rua iluminada com velas.",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada exterior e, fora de horas punta, na sala do fondo da bodega a discreción do personal. Bol de água sob petición.",
+          "mustTryPt": "O codillo de cerdo asado (pečené koleno) com rábano picante e a Budvar oscura de barril de České Budějovice.",
+          "tipPt": "Chega antes das 18:00 o reserva, a esplanada pequenha se llena rápido en verão e a bodega interior é demasiado humeante e estrecha para um cão pela noite."
+        },
+        {
+          "name": "Krčma U Dwau Maryí",
+          "address": "Parkán 104, 381 01 Český Krumlov",
+          "neighborhood": "Parkán (riverside below the castle)",
+          "photo": "/images/city-places/cesky-krumlov-restaurants-krcma-u-dwau-maryi.jpg",
+          "website": "https://www.2marie.cz/",
+          "description": "A riverside Old Bohemian inn perched on a wooden terrace directly above the Vltava facing the castle tower, serving rustic medieval-inspired dishes — buckwheat porridge, smoked pork, boar goulash, mead. The view is among the best in the whole town.",
+          "descriptionFr": "Auberge tchèque ancienne sur une terrasse en bois directement au-dessus de la Vltava face à la tour du château, avec des plats rustiques d'inspiration médiévale — bouillie de sarrasin, porc fumé, goulasch de sanglier, hydromel. La vue est parmi les plus belles de toute la ville.",
+          "descriptionEs": "Posada bohemia antigua en una terraza de madera directamente sobre el Vltava frente a la torre del castillo, con platos rústicos de inspiración medieval — gachas de trigo sarraceno, cerdo ahumado, gulash de jabalí, hidromiel. La vista es de las mejores de toda la ciudad.",
+          "petPolicy": "Dogs on leash are welcome on the riverside wooden terrace, the prime location. Owners report consistently warm reception and water served unprompted.",
+          "petPolicyFr": "Les chiens en laisse sont bienvenus sur la terrasse en bois côté rivière, l'emplacement le plus prisé. Les propriétaires témoignent d'un accueil chaleureux et de l'eau servie sans demande.",
+          "petPolicyEs": "Los perros con correa son bienvenidos en la terraza de madera junto al río, la mejor ubicación. Los dueños reportan acogida cálida constante y agua servida sin pedirla.",
+          "priceRange": "€€",
+          "mustTry": "Boar goulash with bread dumplings (knedlíky) and a mug of honey mead.",
+          "mustTryFr": "Le goulasch de sanglier avec quenelles de pain (knedlíky) et une chope d'hydromel.",
+          "mustTryEs": "El gulash de jabalí con knedlíky (bolas de pan) y una jarra de hidromiel.",
+          "openingHours": "Daily 11:00–22:00",
+          "tip": "Ask for a table on the lower riverside row — it is right at the water level and lets a calm dog watch the rafts float by.",
+          "tipFr": "Demandez une table sur la rangée basse côté rivière — elle est au ras de l'eau et permet à un chien calme de regarder passer les radeaux.",
+          "tipEs": "Pide una mesa en la fila baja junto al río — está al nivel del agua y deja que un perro tranquilo vea pasar las balsas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kr%C4%8Dma+U+Dwau+Mary%C3%AD+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "Posada bohemia antiga numa esplanada de madera directamente sobre o Vltava frente a a torre do castelo, com platos rústicos de inspiração medieval — gachas de trigo sarraceno, cerdo ahumado, gulash de jabalí, hidromiel. A vista é das melhores de toda a cidade.",
+          "petPolicyPt": "Os cães com trela são bem-vindos na esplanada de madera junto al rio, a melhor ubicación. Os duenhos reportan acogida cálida constante e água servida sem pedirla.",
+          "mustTryPt": "O gulash de jabalí com knedlíky (bolas de pan) e uma jarra de hidromiel.",
+          "tipPt": "Pide uma mesa na fila baja junto al rio — está al nivel do água e deja que um cão tranquilo vea pasar as balsas."
+        },
+        {
+          "name": "Laibon",
+          "address": "Parkán 105, 381 01 Český Krumlov",
+          "neighborhood": "Parkán (riverside below the castle)",
+          "photo": "/images/city-places/cesky-krumlov-restaurants-laibon.jpg",
+          "website": "https://www.laibon.cz/",
+          "description": "A long-established vegetarian and vegan restaurant on the Vltava with a stepped riverside terrace right at the water. The menu blends Indian curries, Middle-Eastern dishes and Czech vegetarian classics — useful when half the city's grill terraces feel meat-heavy.",
+          "descriptionFr": "Restaurant végétarien et végétalien historique au bord de la Vltava avec terrasse en gradins juste au-dessus de l'eau. La carte mêle currys indiens, plats du Moyen-Orient et classiques végétariens tchèques — utile quand la moitié des terrasses-grills du centre paraît trop carnée.",
+          "descriptionEs": "Restaurante vegetariano y vegano histórico junto al Vltava con terraza escalonada al borde del agua. La carta mezcla currys indios, platos de Oriente Medio y clásicos vegetarianos checos — útil cuando la mitad de las terrazas-parrilla del centro resulta demasiado cárnica.",
+          "petPolicy": "Dogs on leash welcome on the riverside terrace, the only area we recommend with a dog. Indoor seating is tight and discouraged for larger breeds.",
+          "petPolicyFr": "Chiens en laisse bienvenus sur la terrasse côté rivière, la seule zone que nous recommandons avec un chien. La salle intérieure est étroite et déconseillée pour les grandes races.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza junto al río, la única zona que recomendamos con perro. La sala interior es estrecha y desaconsejada para razas grandes.",
+          "priceRange": "€€",
+          "mustTry": "The garlic soup served in a bread bowl (česnečka v chlebu) and the pumpkin curry.",
+          "mustTryFr": "La soupe à l'ail servie dans une miche de pain (česnečka v chlebu) et le curry de potiron.",
+          "mustTryEs": "La sopa de ajo servida en pan (česnečka v chlebu) y el curry de calabaza.",
+          "openingHours": "Daily 11:00–23:00",
+          "tip": "The lowest terrace step has only four tables and is the one with the unobstructed water view — arrive at opening (11:00) to claim it.",
+          "tipFr": "Le gradin le plus bas n'a que quatre tables et offre la vue sur l'eau dégagée — venez à l'ouverture (11h) pour la décrocher.",
+          "tipEs": "El escalón más bajo solo tiene cuatro mesas y es el que ofrece la vista al agua sin obstáculos — llega a la apertura (11:00) para conseguirla.",
+          "googleMapsUrl": "https://maps.google.com/?q=Laibon+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "Restaurante vegetariano e vegano histórico junto al Vltava com esplanada escalonada al borde do água. A carta mezcla currys indios, platos de Oriente Medio e clásicos vegetarianos checos — útil quando a mitad das esplanadas-parrilla do centro resulta demasiado cárnica.",
+          "petPolicyPt": "Cães com trela bem-vindos na esplanada junto al rio, a única zona que recomendamos com cão. A sala interior é estrecha e desaconsejada para razas grandes.",
+          "mustTryPt": "A sopa de ajo servida en pan (česnečka v chlebu) e o curry de calabaza.",
+          "tipPt": "O escalón mais sob só tem quatro mesas e é o que ofrece a vista al água sem obstáculos — chega a a apertura (11:00) para conseguirla."
+        }
+      ],
+      "titlePt": "Restaurantes que admitem animais en Český Krumlov",
+      "introPt": "As callejuelas empedradas de Český Krumlov estão bordeadas de esplanadas a lo largo do Vltava e en torno al castelo, onde os cães com trela são casi universalmente bem-vindos no exterior. Os pubs checos (hospody) têm uma larga tradición de aceitar cães tranquilos na sala pública e traer um bol de água sob petición, lo que se aplica a a maioria dois locales tradicionales do centro histórico."
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks in Český Krumlov",
+      "titleFr": "Parcs et promenades acceptant les chiens à Český Krumlov",
+      "titleEs": "Parques y paseos para perros en Český Krumlov",
+      "introEn": "Český Krumlov is a tiny historic core ringed by riverside walks and forested castle hills. The cobbled old town keeps dogs on short leash, but five minutes in any direction opens onto grass, woodland and the Vltava — the classic morning walk is a loop combining the Castle Garden, the riverside Pivovarská zahrada and a Vltava bank stretch.",
+      "introFr": "Český Krumlov est un tout petit cœur historique entouré de promenades fluviales et de collines boisées autour du château. La vieille ville pavée impose la laisse courte, mais cinq minutes dans n'importe quelle direction donnent sur de l'herbe, des bois et la Vltava — la promenade matinale classique enchaîne le Jardin du château, la Pivovarská zahrada en bord de rivière et un tronçon de berge de la Vltava.",
+      "introEs": "Český Krumlov es un núcleo histórico minúsculo rodeado de paseos fluviales y colinas boscosas en torno al castillo. El casco antiguo empedrado impone correa corta, pero cinco minutos en cualquier dirección abren a hierba, bosque y el Vltava — el paseo matinal clásico combina el Jardín del castillo, la Pivovarská zahrada junto al río y un tramo de orilla del Vltava.",
+      "places": [
+        {
+          "name": "Zámecká zahrada",
+          "address": "Zámek 232, 381 01 Český Krumlov",
+          "neighborhood": "Castle Hill (above the old town)",
+          "photo": "/images/city-places/cesky-krumlov-parks-zamecka-zahrada.jpg",
+          "description": "The 11-hectare Baroque Castle Garden behind Český Krumlov Castle, laid out in the 17th century by the Eggenberg family, with formal parterres, the open-air revolving theatre, a Cascade Fountain and shaded chestnut alleys. The free-access main alleys are a relaxed leashed walk with constant chateau views.",
+          "descriptionFr": "Jardin baroque du château de 11 hectares, aménagé au XVIIᵉ siècle par la famille Eggenberg, avec parterres à la française, théâtre tournant en plein air, fontaine en cascade et allées de marronniers ombragées. Les grandes allées en accès libre offrent une promenade en laisse détendue avec vue continue sur le château.",
+          "descriptionEs": "Jardín barroco del castillo de 11 hectáreas, trazado en el siglo XVII por la familia Eggenberg, con parterres a la francesa, teatro giratorio al aire libre, fuente en cascada y avenidas de castaños sombreadas. Las grandes avenidas de acceso libre permiten un paseo con correa relajado y vista continua del castillo.",
+          "leashRequired": true,
+          "offLeashArea": "No — leash required throughout the garden.",
+          "highlights": "Free entry, Cascade Fountain, panoramic terrace over the upper Vltava bend, shaded chestnut alleys.",
+          "highlightsFr": "Entrée libre, fontaine en cascade, terrasse panoramique sur le coude supérieur de la Vltava, allées de marronniers ombragées.",
+          "highlightsEs": "Entrada libre, fuente en cascada, terraza panorámica sobre el meandro superior del Vltava, avenidas de castaños sombreadas.",
+          "tip": "Open April–October (8:00–19:00 summer, 8:00–17:00 spring/autumn). Closed in winter. Dogs are not allowed inside the revolving theatre auditorium or the castle museum interiors.",
+          "tipFr": "Ouvert d'avril à octobre (8h–19h en été, 8h–17h au printemps et en automne). Fermé l'hiver. Les chiens ne sont pas autorisés dans la salle du théâtre tournant ni dans les intérieurs muséaux du château.",
+          "tipEs": "Abierto de abril a octubre (8:00–19:00 en verano, 8:00–17:00 en primavera y otoño). Cerrado en invierno. Los perros no están permitidos dentro de la sala del teatro giratorio ni en los interiores museísticos del castillo.",
+          "googleMapsUrl": "https://maps.google.com/?q=Z%C3%A1meck%C3%A1+zahrada+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "Jardim barroco do castelo de 11 hectáreas, trazado no século XVII pela familia Eggenberg, com parterres a a francesa, teatro giratorio al aire libre, fuente en cascada e avenidas de castanhos sombreadas. As grandes avenidas de acesso libre permiten um passeio com trela relajado e vista continua do castelo.",
+          "highlightsPt": "Entrada libre, fuente en cascada, esplanada panorámica sobre o meandro superior do Vltava, avenidas de castanhos sombreadas.",
+          "tipPt": "Abierto de abril a outubro (8:00–19:00 en verão, 8:00–17:00 en primavera e outono). Cerrado en inverno. Os cães no estão permitidos dentro da sala do teatro giratorio ni nos interiores museísticos do castelo."
+        },
+        {
+          "name": "Městský park Český Krumlov (Jelení zahrada)",
+          "address": "Linecká, 381 01 Český Krumlov",
+          "neighborhood": "Plešivec / Latrán edge",
+          "photo": "/images/city-places/cesky-krumlov-parks-mestsky-park-cesky-krumlov-jeleni-zahrada.jpg",
+          "description": "The town's everyday public park, also known as Jelení zahrada (Deer Garden), a quiet 4-hectare wooded strip along the river just south of the old town with paths under tall lindens, benches and a riverside playground. The most used dog-walking park by locals.",
+          "descriptionFr": "Parc public quotidien de la ville, également appelé Jelení zahrada (Jardin des cerfs), un calme ruban boisé de 4 hectares en bord de rivière juste au sud de la vieille ville, avec sentiers sous de grands tilleuls, bancs et aire de jeux côté rivière. Le parc le plus utilisé par les habitants pour promener les chiens.",
+          "descriptionEs": "Parque público diario de la ciudad, también llamado Jelení zahrada (Jardín de los Ciervos), una tranquila franja arbolada de 4 hectáreas a orillas del río al sur del casco antiguo, con senderos bajo tilos altos, bancos y zona de juegos junto al río. El parque más usado por los locales para pasear perros.",
+          "leashRequired": true,
+          "offLeashArea": "No designated off-leash zone, leash required throughout.",
+          "highlights": "Quiet riverside paths, shade in summer, waste bins and dispensers, no tourist crowds.",
+          "highlightsFr": "Allées calmes en bord de rivière, ombre en été, poubelles et distributeurs de sacs, pas de foule touristique.",
+          "highlightsEs": "Senderos tranquilos junto al río, sombra en verano, papeleras y dispensadores de bolsas, sin multitudes turísticas.",
+          "tip": "Combine with a 20-minute walk south along the Vltava bike path to reach the more rural Kamenný most footbridge and grass meadows where dogs run free off-leash on quieter weekdays.",
+          "tipFr": "Combinez avec 20 minutes de marche au sud le long de la véloroute de la Vltava pour atteindre la passerelle Kamenný most et les prés où les chiens courent sans laisse en semaine calme.",
+          "tipEs": "Combina con un paseo de 20 minutos al sur por la vía ciclista del Vltava hasta llegar a la pasarela Kamenný most y los prados donde los perros corren sin correa en días laborables tranquilos.",
+          "googleMapsUrl": "https://maps.google.com/?q=M%C4%9Bstsk%C3%BD+park+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "Parque público diario da cidade, também chamado Jelení zahrada (Jardim dois Ciervos), uma tranquila franja arbolada de 4 hectáreas a margens do rio al sur do centro histórico, com trilhos sob tilos altos, bancos e zona de juegos junto al rio. O parque mais usado pelos locales para pasear cães.",
+          "highlightsPt": "Trilhos tranquilos junto al rio, sombra en verão, papeleras e dispensadores de bolsas, sem multitudes turísticas.",
+          "tipPt": "Combina com um passeio de 20 minutos al sur pela vía ciclista do Vltava até chegar a a pasarela Kamenný most e os prados onde os cães corren sem trela en dias laborables tranquilos."
+        },
+        {
+          "name": "Klášterní zahrada",
+          "address": "Klášterní 50, 381 01 Český Krumlov",
+          "neighborhood": "Latrán",
+          "photo": "/images/city-places/cesky-krumlov-parks-klasterni-zahrada.jpg",
+          "description": "The Monastery Garden of the former Minorite and Poor Clares' complex on Latrán, reopened to the public after restoration. A peaceful walled herb-and-vegetable garden with benches, beehives and orchard paths, free entry during the day.",
+          "descriptionFr": "Le Jardin du monastère de l'ancien complexe des Minorites et des Clarisses sur Latrán, rouvert au public après restauration. Jardin clos d'herbes et de potagers paisible avec bancs, ruches et allées d'arbres fruitiers, entrée libre en journée.",
+          "descriptionEs": "El Jardín del Monasterio del antiguo complejo de Minoritas y Clarisas en Latrán, reabierto al público tras restauración. Un tranquilo jardín amurallado de hierbas y huertos con bancos, colmenas y senderos entre frutales, entrada libre durante el día.",
+          "leashRequired": true,
+          "offLeashArea": "No — leash required, narrow paths and beehives present.",
+          "highlights": "Free quiet courtyard, very shaded, an alternative when the castle garden is overrun in summer.",
+          "highlightsFr": "Cour calme et gratuite, très ombragée, alternative quand le jardin du château est saturé en été.",
+          "highlightsEs": "Patio tranquilo y gratuito, muy sombreado, alternativa cuando el jardín del castillo está saturado en verano.",
+          "tip": "Pair with a tour of the adjoining Monasteries museum on rainy afternoons — dogs wait in the cloister garden but cannot enter the indoor exhibition rooms.",
+          "tipFr": "Associez à la visite des Monastères contigus les après-midis pluvieux — les chiens attendent dans le cloître mais ne peuvent pas entrer dans les salles d'exposition intérieures.",
+          "tipEs": "Combina con la visita de los Monasterios contiguos las tardes de lluvia — los perros esperan en el claustro pero no pueden entrar en las salas de exposición interiores.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kl%C3%A1%C5%A1tern%C3%AD+zahrada+%C4%8Cesk%C3%BD+Krumlov",
+          "descriptionPt": "O Jardim do Monasterio do antigo complejo de Minoritas e Clarisas en Latrán, reabierto al público tras restauración. Um tranquilo jardim amurallado de hierbas e huertos com bancos, colmenas e trilhos entre frutales, entrada libre durante o dia.",
+          "highlightsPt": "Patio tranquilo e gratuito, muito sombreado, alternativa quando o jardim do castelo está saturado en verão.",
+          "tipPt": "Combina com a visita dois Monasterios contiguos as tardes de lluvia — os cães esperan no claustro mas no podem entrar nas salas de exposición interiores."
+        }
+      ],
+      "titlePt": "Parques e passeios para cães en Český Krumlov",
+      "introPt": "Český Krumlov é um núcleo histórico minúsculo rodeado de passeios fluviales e colinas boscosas en torno al castelo. O centro histórico empedrado impone trela corta, mas cinco minutos en cualquier direção abren a hierba, floresta e o Vltava — o passeio matinal clásico combina o Jardim do castelo, a Pivovarská zahrada junto al rio e um tramo de margem do Vltava."
+    },
+    "transport": {
+      "titleEn": "Getting Around Český Krumlov with Your Dog",
+      "titleFr": "Se déplacer à Český Krumlov avec son chien",
+      "titleEs": "Moverse por Český Krumlov con tu perro",
+      "introEn": "The old town is a 15-minute walking circle — you will not need local transport inside Český Krumlov itself. The challenge is reaching it: trains, intercity buses and shared coaches each have specific pet rules, and the nearest international airport is 170 km away in Prague. Czech Railways (ČD) and the private operator RegioJet both charge a flat per-dog fare; FlixBus has stricter rules.",
+      "introFr": "La vieille ville se parcourt à pied en 15 minutes — pas besoin de transports en commun à l'intérieur de Český Krumlov. Le défi, c'est d'y arriver : les trains, les bus interurbains et les autocars partagés ont chacun leurs règles propres, et l'aéroport international le plus proche est à 170 km à Prague. Le rail tchèque (ČD) et l'opérateur privé RegioJet facturent tous deux un tarif chien forfaitaire ; FlixBus est plus strict.",
+      "introEs": "El casco antiguo se recorre a pie en 15 minutos — no necesitarás transporte local dentro de Český Krumlov. El reto es llegar: trenes, autobuses interurbanos y autocares compartidos tienen cada uno reglas propias, y el aeropuerto internacional más cercano está a 170 km en Praga. El ferrocarril checo (ČD) y el operador privado RegioJet cobran cada uno una tarifa fija por perro; FlixBus es más estricto.",
+      "modes": [
+        {
+          "name": "České dráhy (ČD) — Czech Railways",
+          "nameFr": "České dráhy (ČD) — chemins de fer tchèques",
+          "nameEs": "České dráhy (ČD) — ferrocarriles checos",
+          "dogPolicy": "Small dogs in a closed carrier travel free of charge. Larger dogs travel with a half-fare ticket (typically 25–55 CZK / €1–2.20 on regional connections) and must be on a short leash AND muzzled in the corridor and seats. The Český Krumlov railway station (15-minute walk from the old town) connects via České Budějovice (1h, change required) to Prague, Vienna and Linz.",
+          "dogPolicyFr": "Les petits chiens en caisse fermée voyagent gratuitement. Les chiens plus grands voyagent avec un billet demi-tarif (25–55 CZK / 1–2,20 € sur les liaisons régionales) et doivent être tenus en laisse courte ET muselés dans le couloir et aux sièges. La gare de Český Krumlov (15 minutes à pied de la vieille ville) est reliée via České Budějovice (1h, changement obligatoire) à Prague, Vienne et Linz.",
+          "dogPolicyEs": "Los perros pequeños en transportín cerrado viajan gratis. Los perros más grandes viajan con billete a media tarifa (25–55 CZK / 1–2,20 € en conexiones regionales) y deben ir con correa corta Y bozal en pasillo y asientos. La estación ferroviaria de Český Krumlov (15 minutos a pie del casco antiguo) conecta vía České Budějovice (1h, cambio obligatorio) con Praga, Viena y Linz.",
+          "icon": "🚆",
+          "tip": "Muzzles are checked by conductors and the rule is enforced — bring a comfortable basket muzzle even for the friendliest dog. The Český Krumlov–České Budějovice regional train is rarely full and a calm spot for nervous dogs.",
+          "tipFr": "Les muselières sont contrôlées par les contrôleurs et la règle est appliquée — apportez une muselière panier confortable, même pour le chien le plus amical. Le train régional Český Krumlov–České Budějovice est rarement plein et reste un endroit calme pour les chiens nerveux.",
+          "tipEs": "Los revisores comprueban los bozales y la norma se aplica — lleva un bozal cesta cómodo aunque tu perro sea muy amistoso. El tren regional Český Krumlov–České Budějovice rara vez va lleno y es un sitio tranquilo para perros nerviosos.",
+          "namePt": "České dráhy (ČD) — ferrocarriles checos",
+          "dogPolicyPt": "Os cães pequenhos en transportadora cerrado viajan grátis. Os cães mais grandes viajan com bilhete a meio preço (25–55 CZK / 1–2,20 € en conexiones regionales) e deben ir com trela corta E bozal en pasillo e asientos. A estação ferroviaria de Český Krumlov (15 minutos a pé do centro histórico) conecta vía České Budějovice (1h, cambio obrigatório) com Praga, Viena e Linz.",
+          "tipPt": "Os revisores comprueban os bozales e a norma se aplica — leva um bozal cesta cómodo embora tu cão sea muito amistoso. O comboio regional Český Krumlov–České Budějovice rara vez va lleno e é um sitio tranquilo para cães nerviosos."
+        },
+        {
+          "name": "Walking the old town",
+          "nameFr": "À pied dans la vieille ville",
+          "nameEs": "A pie por el casco antiguo",
+          "dogPolicy": "Český Krumlov's old town is a UNESCO-protected pedestrian zone of cobbled lanes and stairs, navigated entirely on foot. Leashes are required at all times by municipal regulation (Article 13 of the public order ordinance) and a fine of up to 1 000 CZK / €40 applies for unleashed dogs in the historic centre. Waste bags are mandatory and dispensers are provided at the entrances to the main squares.",
+          "dogPolicyFr": "La vieille ville de Český Krumlov est une zone piétonne classée UNESCO faite de ruelles pavées et d'escaliers, à arpenter à pied. La laisse est obligatoire en permanence par règlement municipal (article 13 de l'arrêté d'ordre public) et une amende jusqu'à 1 000 CZK / 40 € s'applique pour les chiens sans laisse dans le centre historique. Les sacs sont obligatoires et des distributeurs sont installés aux entrées des grandes places.",
+          "dogPolicyEs": "El casco antiguo de Český Krumlov es una zona peatonal protegida UNESCO de callejuelas y escaleras empedradas, recorrida íntegramente a pie. La correa es obligatoria en todo momento por ordenanza municipal (artículo 13 de la normativa de orden público) y se aplica una multa de hasta 1 000 CZK / 40 € por perros sin correa en el centro histórico. Las bolsas son obligatorias y hay dispensadores en las entradas de las plazas principales.",
+          "icon": "🚶",
+          "tip": "The cobbles are extremely uneven — older dogs and short-legged breeds struggle. Carry a small dog or pick lanes paralleling the river (Parkán, Dlouhá) which have flatter stone slabs.",
+          "tipFr": "Les pavés sont très inégaux — les chiens âgés et les races à pattes courtes peinent. Portez un petit chien ou choisissez les ruelles parallèles à la rivière (Parkán, Dlouhá) qui ont des dalles plus plates.",
+          "tipEs": "Los adoquines son muy irregulares — los perros mayores y de patas cortas sufren. Lleva en brazos a los pequeños o elige las callejuelas paralelas al río (Parkán, Dlouhá) que tienen losas más planas.",
+          "namePt": "A pé pelo centro histórico",
+          "dogPolicyPt": "O centro histórico de Český Krumlov é uma zona peatonal protegida UNESCO de callejuelas e escaleras empedradas, recorrida íntegramente a pé. A trela é obrigatória en todo momento por ordenanza municipal (artículo 13 da normativa de orden público) e se aplica uma multa de até 1 000 CZK / 40 € por cães sem trela no centro histórico. As bolsas são obrigatórias e hay dispensadores nas entradas das praças principales.",
+          "tipPt": "Os adoquines são muito irregulares — os cães mayores e de patas cortas sufren. Leva en brazos aos pequenhos o elige as callejuelas paralelas al rio (Parkán, Dlouhá) que têm losas mais planas."
+        },
+        {
+          "name": "RegioJet & FlixBus coaches",
+          "nameFr": "Autocars RegioJet et FlixBus",
+          "nameEs": "Autocares RegioJet y FlixBus",
+          "dogPolicy": "RegioJet accepts a small dog in a closed carrier under the seat for a flat fare (typically 50 CZK / €2 added to the ticket); larger dogs must travel muzzled and leashed and you must contact the carrier 24 h in advance to confirm space. FlixBus only accepts certified assistance dogs onboard, pet dogs are refused — book ČD or RegioJet instead. Coaches stop at the AN bus station 10 minutes' walk from the old town.",
+          "dogPolicyFr": "RegioJet accepte un petit chien en caisse fermée sous le siège pour un tarif fixe (généralement 50 CZK / 2 € ajoutés au billet) ; les chiens plus grands voyagent muselés et en laisse, contact obligatoire avec le transporteur 24 h à l'avance pour confirmer la place. FlixBus n'accepte à bord que les chiens d'assistance certifiés, les chiens de compagnie sont refusés — préférez ČD ou RegioJet. Les autocars s'arrêtent à la gare routière AN à 10 minutes à pied de la vieille ville.",
+          "dogPolicyEs": "RegioJet acepta un perro pequeño en transportín cerrado bajo el asiento por una tarifa fija (normalmente 50 CZK / 2 € añadidos al billete); los perros más grandes viajan con bozal y correa y debes contactar a la compañía 24 h antes para confirmar plaza. FlixBus solo acepta a bordo perros de asistencia certificados, los perros de compañía son rechazados — opta por ČD o RegioJet. Los autocares paran en la estación AN, a 10 minutos a pie del casco antiguo.",
+          "icon": "🚌",
+          "tip": "RegioJet from Prague to Český Krumlov (3 h) is the most reliable dog-friendly option from the capital — about 250 CZK / €10 for a person plus the small-dog supplement. Book online and select 'Pes' (dog) at the seat-selection step.",
+          "tipFr": "RegioJet entre Prague et Český Krumlov (3 h) est l'option dog-friendly la plus fiable depuis la capitale — environ 250 CZK / 10 € par personne plus le supplément petit chien. Réservez en ligne et cochez 'Pes' (chien) au moment de choisir le siège.",
+          "tipEs": "RegioJet entre Praga y Český Krumlov (3 h) es la opción más fiable con perro desde la capital — unos 250 CZK / 10 € por persona más el suplemento de perro pequeño. Reserva online y marca 'Pes' (perro) en el paso de selección de asiento.",
+          "namePt": "Autocares RegioJet e FlixBus",
+          "dogPolicyPt": "RegioJet aceita um cão pequenho en transportadora cerrado sob o asiento por uma tarifa fija (normalmente 50 CZK / 2 € anhadidos al bilhete); os cães mais grandes viajan com bozal e trela e debes contactar a a companhia 24 h antes para confirmar praça. FlixBus só aceita a bordo cães de assistência certificados, os cães de companhia são rechazados — opta por ČD o RegioJet. Os autocares paran na estação AN, a 10 minutos a pé do centro histórico.",
+          "tipPt": "RegioJet entre Praga e Český Krumlov (3 h) é a opción mais fiable com cão a partir da capital — uns 250 CZK / 10 € por persona mais o suplemento de cão pequenho. Reserva online e marca 'Pes' (cão) no paso de seleção de asiento."
+        }
+      ],
+      "titlePt": "Moverse por Český Krumlov com tu cão",
+      "introPt": "O centro histórico se recorre a pé en 15 minutos — no necesitarás transporte local dentro de Český Krumlov. O reto é chegar: comboios, autocarros interurbanos e autocares compartidos têm cada uno reglas propias, e o aeroporto internacional mais cercano está a 170 km en Praga. O ferrocarril checo (ČD) e o operador privado RegioJet cobran cada uno uma tarifa fija por cão; FlixBus é mais estricto."
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Swimming Spots Near Český Krumlov",
+      "titleFr": "Spots de baignade pour chiens près de Český Krumlov",
+      "titleEs": "Zonas de baño para perros cerca de Český Krumlov",
+      "introEn": "Český Krumlov is landlocked in the Bohemian Forest foothills, but the cold Vltava river runs through it and Lake Lipno — the largest reservoir in the Czech Republic and the country's de-facto inland Riviera — is only 45 minutes south by car. From May to September both offer genuine off-leash swimming for dogs outside marked tourist beaches.",
+      "introFr": "Český Krumlov est sans littoral au pied des contreforts de la forêt de Bohême, mais la Vltava froide traverse la ville et le lac Lipno — la plus grande retenue de République tchèque, la Riviera intérieure du pays — n'est qu'à 45 minutes au sud en voiture. De mai à septembre, les deux offrent de vraies baignades sans laisse hors des plages touristiques balisées.",
+      "introEs": "Český Krumlov no tiene costa, está al pie de los contrafuertes del bosque de Bohemia, pero el frío Vltava atraviesa la ciudad y el lago Lipno — el mayor embalse de la República Checa y la Riviera interior del país — está solo a 45 minutos al sur en coche. De mayo a septiembre ambos ofrecen baño real sin correa para perros fuera de las playas turísticas balizadas.",
+      "places": [
+        {
+          "name": "Vltava river beach at Jelení zahrada",
+          "nameFr": "Plage de la Vltava à Jelení zahrada",
+          "nameEs": "Playa del Vltava en Jelení zahrada",
+          "location": "Below the City Park (Jelení zahrada), 10 minutes' walk south of the old town, Český Krumlov",
+          "locationFr": "Sous le Parc municipal (Jelení zahrada), à 10 minutes à pied au sud de la vieille ville, Český Krumlov",
+          "locationEs": "Bajo el Parque municipal (Jelení zahrada), a 10 minutos a pie al sur del casco antiguo, Český Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-beaches-vltava-river-beach-at-jeleni-zahrada.jpg",
+          "dogPolicy": "Informal grassy bank with a shallow pebble entry into the Vltava, used by locals year-round. No designated dog beach status but no swimming-area ban either — leash off in the water and on the grass is tolerated. The current is gentle here but cold, even in August (16–18 °C).",
+          "dogPolicyFr": "Berge herbeuse informelle avec entrée en galets peu profonde dans la Vltava, utilisée toute l'année par les habitants. Pas de statut officiel de plage canine mais aucune interdiction de baignade non plus — la laisse détachée dans l'eau et sur l'herbe est tolérée. Le courant est doux ici mais froid, même en août (16–18 °C).",
+          "dogPolicyEs": "Orilla herbosa informal con entrada de guijarros poco profunda al Vltava, usada por los locales todo el año. Sin estatus oficial de playa canina pero tampoco prohibición de baño — correa suelta en el agua y la hierba es tolerada. La corriente es suave aquí pero fría, incluso en agosto (16–18 °C).",
+          "tip": "Avoid the central bend through the old town (high rafting traffic and cobble banks). Walk 10 minutes south along the riverside path to find calmer pools clear of the rafts.",
+          "tipFr": "Évitez le méandre central de la vieille ville (très fort trafic de radeaux et berges pavées). Marchez 10 minutes au sud le long du chemin de berge pour trouver des bassins calmes sans radeaux.",
+          "tipEs": "Evita el meandro central del casco antiguo (mucho tráfico de balsas y orillas empedradas). Camina 10 minutos al sur por el sendero de la orilla para encontrar pozas tranquilas sin balsas.",
+          "googleMapsUrl": "https://maps.google.com/?q=Jelen%C3%AD+zahrada+Vltava+%C4%8Cesk%C3%BD+Krumlov",
+          "namePt": "Praia do Vltava en Jelení zahrada",
+          "locationPt": "Sob o Parque municipal (Jelení zahrada), a 10 minutos a pé al sur do centro histórico, Český Krumlov",
+          "dogPolicyPt": "Margem herbosa informal com entrada de guijarros pouco profunda al Vltava, usada pelos locales o ano inteiro. Sem estatus oficial de praia canina mas tampoco prohibición de banho — trela suelta no água e a hierba é tolerada. A corriente é suave aqui mas fria, mesmo em agosto (16–18 °C).",
+          "tipPt": "Evita o meandro central do centro histórico (muito tráfico de balsas e margens empedradas). Caminha 10 minutos al sur pelo trilho da margem para encontrar pozas tranquilas sem balsas."
+        },
+        {
+          "name": "Lipno Lake — Frymburk beach",
+          "nameFr": "Lac Lipno — plage de Frymburk",
+          "nameEs": "Lago Lipno — playa de Frymburk",
+          "location": "Frymburk village, 45 km south of Český Krumlov on Lake Lipno's eastern shore",
+          "locationFr": "Village de Frymburk, à 45 km au sud de Český Krumlov sur la rive est du lac Lipno",
+          "locationEs": "Pueblo de Frymburk, a 45 km al sur de Český Krumlov en la orilla este del lago Lipno",
+          "photo": "/images/city-places/cesky-krumlov-beaches-lipno-lake-frymburk-beach.jpg",
+          "dogPolicy": "The largest informal dog-swimming bay on Lake Lipno is the northern bank just past the Frymburk ferry pier, outside the marked public swimming beach. Dogs off-leash in the water are standard practice; the official roped swimming zone forbids dogs (5 000 CZK / €200 fine on the spot).",
+          "dogPolicyFr": "La plus grande crique informelle pour la baignade des chiens du lac Lipno est la rive nord juste après l'embarcadère du bac de Frymburk, hors de la plage publique balisée. Les chiens sans laisse dans l'eau y sont la norme ; la zone officielle de baignade délimitée par cordes interdit les chiens (amende de 5 000 CZK / 200 € sur place).",
+          "dogPolicyEs": "La mayor cala informal de baño para perros del lago Lipno es la orilla norte justo después del embarcadero del ferry de Frymburk, fuera de la playa pública balizada. Los perros sin correa en el agua son práctica habitual; la zona oficial de baño delimitada por cuerdas prohíbe perros (multa de 5 000 CZK / 200 € en el sitio).",
+          "tip": "Best from mid-June to early September when the lake reaches 22 °C. Combine with the leashed dog-friendly Lipno Treetop Walk (Stezka korunami stromů Lipno) 5 km north, which explicitly admits dogs on its 675 m wooden walkway.",
+          "tipFr": "Idéal de mi-juin à début septembre quand le lac atteint 22 °C. Combinez avec la Lipno Treetop Walk (Stezka korunami stromů Lipno) 5 km au nord, qui admet explicitement les chiens en laisse sur sa passerelle de 675 m.",
+          "tipEs": "Mejor de mediados de junio a principios de septiembre cuando el lago llega a 22 °C. Combina con el Lipno Treetop Walk (Stezka korunami stromů Lipno) 5 km al norte, que admite explícitamente perros con correa en su pasarela de 675 m.",
+          "googleMapsUrl": "https://maps.google.com/?q=Frymburk+pl%C3%A1%C5%BE+Lipno",
+          "namePt": "Lago Lipno — praia de Frymburk",
+          "locationPt": "Aldeia de Frymburk, a 45 km a sul de Český Krumlov na margem este do lago Lipno",
+          "dogPolicyPt": "A mayor cala informal de banho para cães do lago Lipno é a margem norte justo depois do embarcadero do ferry de Frymburk, fora da praia pública balizada. Os cães sem trela no água são práctica habitual; a zona oficial de banho delimitada por cuerdas prohíbe cães (multa de 5 000 CZK / 200 € no sitio).",
+          "tipPt": "Melhor de mediados de junho a principios de setembro quando o lago chega a 22 °C. Combina com o Lipno Treetop Walk (Stezka korunami stromů Lipno) 5 km al norte, que admite explícitamente cães com trela en o seu pasarela de 675 m."
+        },
+        {
+          "name": "Lipno Lake — Černá v Pošumaví dog beach",
+          "nameFr": "Lac Lipno — plage canine de Černá v Pošumaví",
+          "nameEs": "Lago Lipno — playa canina de Černá v Pošumaví",
+          "location": "Černá v Pošumaví, 35 km southwest of Český Krumlov on Lake Lipno's northern shore",
+          "locationFr": "Černá v Pošumaví, à 35 km au sud-ouest de Český Krumlov sur la rive nord du lac Lipno",
+          "locationEs": "Černá v Pošumaví, a 35 km al suroeste de Český Krumlov en la orilla norte del lago Lipno",
+          "photo": "/images/city-places/cesky-krumlov-beaches-lipno-lake-cerna-v-posumavi-dog-beach.jpg",
+          "dogPolicy": "A small, locally signposted dog-bathing area east of the village's main public beach. Grass and gravel entry, gentle slope, ideal for first-time-swimming dogs. No fee, basic toilets and a kiosk open in July–August only.",
+          "dogPolicyFr": "Petite zone de baignade canine signalée localement à l'est de la plage publique principale du village. Entrée en herbe et gravier, pente douce, idéale pour les chiens qui apprennent à nager. Gratuit, toilettes basiques et un kiosque ouvert seulement en juillet-août.",
+          "dogPolicyEs": "Pequeña zona de baño canino señalizada localmente al este de la playa pública principal del pueblo. Entrada de hierba y grava, pendiente suave, ideal para perros que empiezan a nadar. Gratis, aseos básicos y un kiosko abierto solo en julio–agosto.",
+          "tip": "Sailboat traffic is heavy on summer weekends — stick to the marked dog-bathing strip and avoid the main fairway. Cyanobacteria (sinice) blooms can occur in late August; the regional public-health website (KHS Jihočeského kraje) updates water quality weekly.",
+          "tipFr": "Trafic de voiliers très dense le week-end en été — restez dans la bande de baignade canine balisée et évitez le chenal principal. Des proliférations de cyanobactéries (sinice) peuvent survenir fin août ; le site régional de santé publique (KHS Jihočeského kraje) publie les analyses chaque semaine.",
+          "tipEs": "Tráfico de veleros muy denso en fines de semana de verano — quédate en la franja de baño canino balizada y evita el canal principal. Pueden producirse floraciones de cianobacterias (sinice) a finales de agosto; la web sanitaria regional (KHS Jihočeského kraje) publica el análisis del agua cada semana.",
+          "googleMapsUrl": "https://maps.google.com/?q=%C4%8Cern%C3%A1+v+Po%C5%A1umav%C3%AD+pl%C3%A1%C5%BE",
+          "namePt": "Lago Lipno — praia canina de Černá v Pošumaví",
+          "locationPt": "Černá v Pošumaví, a 35 km al suroeste de Český Krumlov na margem norte do lago Lipno",
+          "dogPolicyPt": "Pequenha zona de banho canino senhalizada localmente a leste da praia pública principal do aldeia. Entrada de hierba e grava, pendiente suave, ideal para cães que empiezan a nadar. Grátis, aseos básicos e um kiosko abierto só en julho–agosto.",
+          "tipPt": "Tráfico de veleros muito denso en fines de semana de verão — quédate na franja de banho canino balizada e evita o canal principal. Podem producirse floraciones de cianobacterias (sinice) a finales de agosto; a web sanitaria regional (KHS Jihočeského kraje) publica o análisis do água cada semana."
+        }
+      ],
+      "titlePt": "Zonas de banho para cães perto de Český Krumlov",
+      "introPt": "Český Krumlov no tem costa, está al pie dois contrafuertes do floresta de Bohemia, mas o frio Vltava atraviesa a cidade e o lago Lipno — o mayor embalse da República Checa e a Riviera interior do país — está só a 45 minutos al sur de carro. De maio a setembro ambos ofrecen banho real sem trela para cães fora das praias turísticas balizadas."
+    },
+    "vets": {
+      "titleEn": "Veterinary Clinics in & near Český Krumlov",
+      "titleFr": "Cliniques vétérinaires à Český Krumlov et alentours",
+      "titleEs": "Clínicas veterinarias en Český Krumlov y alrededores",
+      "introEn": "Český Krumlov itself has two small day clinics but NO 24-hour veterinary service. For night and weekend emergencies, the official municipal referral is the 24/7 hospital in České Budějovice, 25 km north on the E55 (35-minute drive). Save these numbers before arrival — a hotel desk will help you call but cannot triage.",
+      "introFr": "Český Krumlov dispose de deux petites cliniques de jour mais d'AUCUN service vétérinaire 24h/24. Pour les urgences nocturnes et de week-end, le recours officiel de la municipalité est l'hôpital 24h/24 de České Budějovice, à 25 km au nord par l'E55 (35 minutes de route). Notez ces numéros avant l'arrivée — la réception d'un hôtel peut vous aider à appeler mais ne peut pas faire de triage.",
+      "introEs": "Český Krumlov tiene dos pequeñas clínicas diurnas pero NINGÚN servicio veterinario 24 horas. Para urgencias nocturnas y de fin de semana, la derivación oficial municipal es el hospital 24/7 de České Budějovice, a 25 km al norte por la E55 (35 minutos en coche). Apunta estos números antes de llegar — la recepción del hotel ayuda a llamar pero no puede hacer triaje.",
+      "places": [
+        {
+          "name": "Veterinární ordinace MVDr. Vladimír Kočí",
+          "address": "Plešivecká 365, 381 01 Český Krumlov",
+          "phone": "+420 380 711 555",
+          "hours": "Mon–Fri 8:00–11:00 and 15:00–18:00, Sat 9:00–11:00. Closed Sunday.",
+          "hoursFr": "Lun–ven 8h–11h et 15h–18h, sam 9h–11h. Fermé le dimanche.",
+          "hoursEs": "Lun–vie 8:00–11:00 y 15:00–18:00, sáb 9:00–11:00. Cerrado domingo.",
+          "languages": [
+            "Czech",
+            "basic German",
+            "basic English"
+          ],
+          "description": "The most central day veterinary practice in Český Krumlov, a 7-minute walk from the main square in the Plešivec quarter. Small-animal general care including consultations, vaccinations, microchip checks and travel paperwork. Walk-ins accepted but appointments recommended.",
+          "descriptionFr": "Cabinet vétérinaire de jour le plus central de Český Krumlov, à 7 minutes à pied de la place principale dans le quartier de Plešivec. Médecine générale petits animaux : consultations, vaccinations, vérification de puce et formalités de voyage. Sans rendez-vous accepté mais réservation conseillée.",
+          "descriptionEs": "Consulta veterinaria diurna más céntrica de Český Krumlov, a 7 minutos a pie de la plaza principal en el barrio de Plešivec. Medicina general de pequeños animales: consultas, vacunas, comprobación de microchip y trámites de viaje. Se aceptan visitas sin cita pero se recomienda reservar.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterin%C3%A1rn%C3%AD+ordinace+Ple%C5%A1iveck%C3%A1+%C4%8Cesk%C3%BD+Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-vets-veterinarni-ordinace-mvdr-vladimir-koci.jpg",
+          "hoursPt": "Lun–vie 8:00–11:00 e 15:00–18:00, sáb 9:00–11:00. Cerrado domingo.",
+          "descriptionPt": "Consulta veterinária diurna mais céntrica de Český Krumlov, a 7 minutos a pé da praça principal no bairro de Plešivec. Medicina general de pequenhos animales: consultas, vacunas, comprobación de microchip e trámites de viaje. Se aceitam visitas sem cita mas se recomienda reservar."
+        },
+        {
+          "name": "Veterina Domoradice — MVDr. Romana Vlčková",
+          "address": "Domoradice 35, 381 01 Český Krumlov",
+          "phone": "+420 602 364 525",
+          "hours": "Mon, Wed, Fri 8:00–11:00 and 15:00–18:00, Tue/Thu by appointment.",
+          "hoursFr": "Lun, mer, ven 8h–11h et 15h–18h, mar/jeu sur rendez-vous.",
+          "hoursEs": "Lun, mié, vie 8:00–11:00 y 15:00–18:00, mar/jue con cita previa.",
+          "languages": [
+            "Czech",
+            "basic English"
+          ],
+          "description": "A small-animal practice in the Domoradice district (3 km north-east of the centre, 5 min by car), useful when the central clinic is closed in the late afternoon. Offers digital X-ray and ultrasound, in-house lab, and arranges referrals to České Budějovice for surgery.",
+          "descriptionFr": "Cabinet petits animaux dans le quartier de Domoradice (3 km au nord-est du centre, 5 min en voiture), utile quand la clinique centrale ferme en fin d'après-midi. Radiographie numérique et échographie, laboratoire sur place et adressage à České Budějovice pour la chirurgie.",
+          "descriptionEs": "Consulta de pequeños animales en el barrio de Domoradice (3 km al noreste del centro, 5 min en coche), útil cuando la clínica central cierra a última hora de la tarde. Radiografía digital y ecografía, laboratorio in situ y derivación a České Budějovice para cirugía.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterina+Domoradice+%C4%8Cesk%C3%BD+Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-vets-veterina-domoradice-mvdr-romana-vlckova.jpg",
+          "hoursPt": "Lun, mié, vie 8:00–11:00 e 15:00–18:00, mar/jue com cita previa.",
+          "descriptionPt": "Consulta de pequenhos animales no bairro de Domoradice (3 km al noreste do centro, 5 min de carro), útil quando a clínica central cierra a última hora da tarde. Radiografía digital e ecografía, laboratorio in situ e derivación a České Budějovice para cirugía."
+        },
+        {
+          "name": "Veterinární klinika Budvet — 24h emergencies, České Budějovice",
+          "address": "Husova 1846/27, 370 05 České Budějovice",
+          "phone": "+420 387 312 423",
+          "hours": "24/7 emergency service, on-call vet always reachable.",
+          "hoursFr": "Service d'urgence 24h/24, vétérinaire d'astreinte toujours joignable.",
+          "hoursEs": "Servicio de urgencias 24/7, veterinario de guardia siempre disponible.",
+          "languages": [
+            "Czech",
+            "English",
+            "German"
+          ],
+          "description": "The official 24-hour reference hospital that the Český Krumlov municipality directs night and weekend emergencies to, 25 km north on the E55. Full-service hospital with surgery, ICU, in-house lab and digital imaging. Call ahead before driving — they will dispatch the on-call team.",
+          "descriptionFr": "Hôpital de référence 24h/24 vers lequel la municipalité de Český Krumlov dirige les urgences nocturnes et de week-end, à 25 km au nord sur l'E55. Hôpital complet : chirurgie, soins intensifs, laboratoire sur place et imagerie numérique. Appelez avant de partir — ils mobilisent l'équipe d'astreinte.",
+          "descriptionEs": "Hospital de referencia 24 horas al que la municipalidad de Český Krumlov deriva las urgencias nocturnas y de fin de semana, a 25 km al norte por la E55. Hospital integral con cirugía, UCI, laboratorio in situ e imagen digital. Llama antes de salir — movilizan al equipo de guardia.",
+          "googleMapsUrl": "https://maps.google.com/?q=Veterin%C3%A1rn%C3%AD+klinika+Budvet+%C4%8Cesk%C3%A9+Bud%C4%9Bjovice",
+          "photo": "/images/city-places/cesky-krumlov-vets-veterinarni-klinika-budvet-24h-emergencies-ceske-budejovice.jpg",
+          "hoursPt": "Serviço de urgências 24/7, veterinário de guardia sempre disponible.",
+          "descriptionPt": "Hospital de referencia 24 horas al que a municipalidad de Český Krumlov deriva as urgências nocturnas e de fin de semana, a 25 km al norte pela E55. Hospital integral com cirugía, UCI, laboratorio in situ e imagen digital. Liga antes de salir — movilizan al equipo de guardia."
+        }
+      ],
+      "titlePt": "Clínicas veterinárias en Český Krumlov e alrededores",
+      "introPt": "Český Krumlov tem dois pequenhas clínicas diurnas mas NINGÚN serviço veterinário 24 horas. Para urgências nocturnas e de fin de semana, a derivación oficial municipal é o hospital 24/7 de České Budějovice, a 25 km al norte pela E55 (35 minutos de carro). Apunta estes números antes de chegar — a recepción do hotel ayuda a ligar mas no pode fazer triaje."
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Český Krumlov with a Dog",
+      "titleFr": "Conseils pratiques pour Český Krumlov avec un chien",
+      "titleEs": "Consejos prácticos para Český Krumlov con perro",
+      "introEn": "Český Krumlov receives nearly 2 million visitors a year for a town of just 13 000 residents — the highest tourist-to-resident ratio in the Czech Republic. The result is that the cobbled core is enchanting in May, September and winter weekdays, but genuinely overwhelming in July, August and during the Christmas markets. These tips focus on managing the crowds, the cold-river microclimate and the cobblestone-heavy underfoot.",
+      "introFr": "Český Krumlov accueille près de 2 millions de visiteurs par an pour une ville de seulement 13 000 habitants — le ratio touristes/résidents le plus élevé de République tchèque. Résultat : le cœur pavé est enchanteur en mai, septembre et en semaine l'hiver, mais véritablement étouffant en juillet, août et pendant les marchés de Noël. Ces conseils visent à gérer la foule, le microclimat froid de la rivière et les pavés omniprésents.",
+      "introEs": "Český Krumlov recibe casi 2 millones de visitantes al año para una ciudad de solo 13 000 residentes — la mayor ratio turistas/residentes de la República Checa. El resultado es que el casco empedrado es encantador en mayo, septiembre y los días laborables de invierno, pero abrumador en julio, agosto y durante los mercados de Navidad. Estos consejos se centran en gestionar las multitudes, el microclima frío del río y los adoquines omnipresentes.",
+      "tipsEn": [
+        "Visit out of season. Český Krumlov from June 15 to August 31 averages 25 000 visitors a day in lanes 3 metres wide — overwhelming for any dog. Aim for May, late September, October, or winter weekdays (snow is beautiful and the town near-empty).",
+        "The cobbles are uneven medieval stone, not flat setts — older dogs and small breeds slip and bruise pads quickly. Carry a small dog, fit boots, or stick to the riverside lanes (Parkán, Dlouhá) which have flatter slabs.",
+        "Czech transport rules require muzzle AND leash on the train for any dog above carrier size — bring a comfortable basket muzzle from home; pet shops in the old town are scarce and tiny.",
+        "There is NO 24-hour vet in Český Krumlov. Save the Veterinární klinika Budvet number (+420 387 312 423, České Budějovice, 25 km north) on your phone before you arrive — the hotel desk can help you call but no one in town will triage at night.",
+        "The Vltava through the old town is the most-rafted river in the Czech Republic in summer — hundreds of pirate-themed plastic rafts pass daily 9:00–17:00. Avoid the central riverbank for dog rests; walk 10 minutes south to the City Park (Jelení zahrada) for calm.",
+        "The famous Bear Moat (Medvědí příkop) at the castle holds live brown bears — keep dogs on a very short leash and well back from the parapet, as the scent triggers strong barking that disturbs the bears and other visitors."
+      ],
+      "tipsFr": [
+        "Visitez hors saison. Du 15 juin au 31 août, Český Krumlov compte en moyenne 25 000 visiteurs par jour dans des ruelles larges de 3 mètres — invivable pour un chien. Privilégiez mai, fin septembre, octobre ou les jours de semaine l'hiver (la neige est superbe et la ville presque vide).",
+        "Les pavés sont de la pierre médiévale irrégulière, pas des pavés plats — les chiens âgés et les petites races glissent et s'usent vite les coussinets. Portez les petits chiens, mettez des bottines ou empruntez les ruelles côté rivière (Parkán, Dlouhá) aux dalles plus plates.",
+        "Le règlement ferroviaire tchèque impose muselière ET laisse en train pour tout chien trop grand pour une caisse — apportez une muselière panier confortable de chez vous ; les animaleries du centre sont rares et minuscules.",
+        "Il n'y a AUCUN vétérinaire 24h/24 à Český Krumlov. Enregistrez le numéro de la Veterinární klinika Budvet (+420 387 312 423, České Budějovice, 25 km au nord) sur votre téléphone avant l'arrivée — la réception de l'hôtel peut vous aider à appeler mais personne en ville ne fera de triage la nuit.",
+        "La Vltava qui traverse la vieille ville est la rivière la plus descendue en radeau de République tchèque l'été — des centaines de radeaux en plastique aux thèmes pirates passent 9h–17h. Évitez la berge centrale pour faire reposer le chien ; descendez 10 minutes au sud jusqu'au Parc municipal (Jelení zahrada) pour le calme.",
+        "Le célèbre Fossé aux ours (Medvědí příkop) du château abrite de vrais ours bruns — gardez le chien en laisse très courte et bien en retrait du parapet, car l'odeur déclenche de forts aboiements qui dérangent les ours et les autres visiteurs."
+      ],
+      "tipsEs": [
+        "Visita fuera de temporada. Del 15 de junio al 31 de agosto, Český Krumlov recibe una media de 25 000 visitantes al día en callejuelas de 3 metros de ancho — agotador para cualquier perro. Apunta a mayo, finales de septiembre, octubre o los días laborables de invierno (la nieve es preciosa y la ciudad casi vacía).",
+        "Los adoquines son piedra medieval irregular, no losas planas — los perros mayores y las razas pequeñas resbalan y se desgastan las almohadillas rápido. Lleva en brazos a los pequeños, ponles botines o usa las callejuelas junto al río (Parkán, Dlouhá) con losas más planas.",
+        "La normativa ferroviaria checa exige bozal Y correa en el tren para cualquier perro demasiado grande para un transportín — trae un bozal cesta cómodo desde casa; las tiendas de mascotas del centro son escasas y diminutas.",
+        "NO hay veterinario 24 horas en Český Krumlov. Guarda el número de la Veterinární klinika Budvet (+420 387 312 423, České Budějovice, 25 km al norte) en el móvil antes de llegar — la recepción del hotel ayuda a llamar pero nadie en la ciudad hará triaje de noche.",
+        "El Vltava a su paso por el casco antiguo es el río más recorrido en balsa de la República Checa en verano — cientos de balsas de plástico con temática pirata pasan 9:00–17:00. Evita la orilla central para descansar al perro; baja 10 minutos al sur al Parque municipal (Jelení zahrada) para tranquilidad.",
+        "El famoso Foso de los Osos (Medvědí příkop) del castillo aloja osos pardos vivos — mantén al perro con correa muy corta y bien apartado del pretil, ya que el olor desata fuertes ladridos que molestan a los osos y a otros visitantes."
+      ],
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog inside Český Krumlov Castle?",
+          "a": "Dogs on a short leash are welcome in the outer castle courtyards (I.–IV. nádvoří), in the Castle Garden (April–October) and on the famous Cloak Bridge. They are NOT permitted inside any of the indoor museum sections (state apartments, Baroque Theatre, Lapidarium) — those require a guided tour booked in advance and dogs would be turned away at the entrance."
+        },
+        {
+          "q": "Are dogs allowed on the Vltava rafting boats?",
+          "a": "Most rafting outfitters refuse dogs because of the plastic-pirate-raft format (open, unstable, communal). A few specialist operators in Český Krumlov rent private wooden canoes with dog-acceptance (look for 'Pes vítán' / 'dog welcome' on the website) — Maleček and Vltava-Travel both confirm dogs on solo-rented canoes only, not group rafts. Expect 800–1 200 CZK / €32–48 per canoe plus a dog supplement."
+        },
+        {
+          "q": "Is Český Krumlov dog-friendly in winter?",
+          "a": "Yes, and arguably the best season. Deep snow from late December through February turns the town into a postcard, crowds drop by 80%, and short-coated breeds welcome quiet snowy lanes. Be cautious of road salt — the municipality grits the main lanes heavily — and consider boots or paw balm. The castle garden is closed in winter but the riverside walks remain accessible."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il entrer au château de Český Krumlov ?",
+          "a": "Les chiens en laisse courte sont bienvenus dans les cours extérieures (I.–IV. nádvoří), dans le Jardin du château (avril–octobre) et sur le célèbre Pont au manteau (Plášťový most). Ils ne sont PAS autorisés dans les sections muséales intérieures (appartements d'État, théâtre baroque, lapidarium) — celles-ci se visitent en visite guidée réservée à l'avance et le chien serait refusé à l'entrée."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur les radeaux de la Vltava ?",
+          "a": "La plupart des loueurs refusent les chiens à cause du format radeau-pirate en plastique (ouvert, instable, collectif). Quelques opérateurs spécialisés de Český Krumlov louent des canoës en bois privés acceptant les chiens (cherchez 'Pes vítán' / 'chien bienvenu' sur le site) — Maleček et Vltava-Travel confirment tous deux les chiens sur canoë privé uniquement, pas en radeau de groupe. Comptez 800–1 200 CZK / 32–48 € par canoë plus un supplément chien."
+        },
+        {
+          "q": "Český Krumlov est-il adapté aux chiens en hiver ?",
+          "a": "Oui, et c'est sans doute la meilleure saison. La neige épaisse de fin décembre à février transforme la ville en carte postale, la foule diminue de 80 % et les races à poil court apprécient les ruelles calmes. Attention au sel de déneigement — la municipalité sale abondamment les voies principales — et prévoyez bottines ou baume pour coussinets. Le jardin du château est fermé l'hiver mais les promenades le long de la rivière restent accessibles."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo entrar con mi perro al castillo de Český Krumlov?",
+          "a": "Los perros con correa corta son bienvenidos en los patios exteriores (I.–IV. nádvoří), en el Jardín del Castillo (abril–octubre) y en el famoso Puente de la Capa (Plášťový most). NO se admiten en las secciones museísticas interiores (apartamentos de estado, teatro barroco, lapidario) — esas requieren visita guiada reservada con antelación y al perro lo rechazarían en la entrada."
+        },
+        {
+          "q": "¿Se admiten perros en las balsas del Vltava?",
+          "a": "La mayoría de los alquileres rechazan perros por el formato balsa-pirata de plástico (abierto, inestable, colectivo). Algunos operadores especializados de Český Krumlov alquilan canoas de madera privadas que aceptan perros (busca 'Pes vítán' / 'perro bienvenido' en la web) — Maleček y Vltava-Travel confirman ambos perros en canoa privada solamente, no en balsa de grupo. Cuesta unos 800–1 200 CZK / 32–48 € por canoa más un suplemento de perro."
+        },
+        {
+          "q": "¿Český Krumlov es buen destino con perro en invierno?",
+          "a": "Sí, y posiblemente sea la mejor temporada. La nieve profunda de finales de diciembre a febrero convierte la ciudad en una postal, las multitudes bajan un 80 % y las razas de pelo corto agradecen las callejuelas tranquilas. Cuidado con la sal de las calles — el ayuntamiento sala mucho las vías principales — y prevé botines o bálsamo. El jardín del castillo cierra en invierno pero los paseos junto al río siguen accesibles."
+        }
+      ],
+      "titlePt": "Consejos prácticos para Český Krumlov com cão",
+      "introPt": "Český Krumlov recibe casi 2 millones de visitantes ao ano para uma cidade de só 13 000 residentes — a mayor ratio turistas/residentes da República Checa. O resultado é que o casco empedrado é encantador en maio, setembro e os dias laborables de inverno, mas abrumador en julho, agosto e durante os mercados de Navidad. Estes consejos se centran en gestionar as multitudes, o microclima frio do rio e os adoquines omnipresentes.",
+      "tipsPt": [
+        "Visita fora de temporada. Do 15 de junho al 31 de agosto, Český Krumlov recibe uma media de 25 000 visitantes ao dia en callejuelas de 3 metros de ancho — agotador para cualquier cão. Apunta a maio, finales de setembro, outubro o os dias laborables de inverno (a nieve é preciosa e a cidade casi vacía).",
+        "Os adoquines são pedra medieval irregular, no losas planas — os cães mayores e as razas pequenhas resbalan e se desgastan as almohadillas rápido. Leva en brazos aos pequenhos, ponles botines o usa as callejuelas junto al rio (Parkán, Dlouhá) com losas mais planas.",
+        "A normativa ferroviaria checa exige bozal E trela no comboio para cualquier cão demasiado grande para um transportadora — trae um bozal cesta cómodo a partir de casa; as tiendas de animais do centro são escasas e diminutas.",
+        "NO hay veterinário 24 horas en Český Krumlov. Guarda o número da Veterinární klinika Budvet (+420 387 312 423, České Budějovice, 25 km al norte) no móvil antes de chegar — a recepción do hotel ayuda a ligar mas nadie na cidade hará triaje de noite.",
+        "O Vltava ao seu paso pelo centro histórico é o rio mais recorrido en balsa da República Checa en verão — cientos de balsas de plástico com temática pirata passam 9:00–17:00. Evita a margem central para descansar al cão; baja 10 minutos al sur al Parque municipal (Jelení zahrada) para tranquilidad.",
+        "O famoso Foso dois Osos (Medvědí příkop) do castelo aloja osos pardos vivos — mantén al cão com trela muito corta e bien apartado do pretil, ya que o olor desata fuertes ladridos que molestan aos osos e a otros visitantes."
+      ],
+      "faqsPt": [
+        {
+          "q": "Puedo entrar com mi cão al castelo de Český Krumlov?",
+          "a": "Os cães com trela corta são bem-vindos nos patios exteriores (I.–IV. nádvoří), no Jardim do Castelo (abril–outubro) e no famoso Ponte da Capa (Plášťový most). NO se admitem nas secciones museísticas interiores (apartamentos de estado, teatro barroco, lapidario) — esas requieren visita guiada reservada com antelación e al cão lo rechazarían na entrada."
+        },
+        {
+          "q": "Se admitem cães nas balsas do Vltava?",
+          "a": "A maioria dois alquileres rechazan cães pelo formato balsa-pirata de plástico (abierto, inestable, colectivo). Algunos operadores especializados de Český Krumlov alquilan canoas de madera privadas que aceitam cães (busca 'Pes vítán' / 'cão bem-vindo' na web) — Maleček e Vltava-Travel confirman ambos cães en canoa privada solamente, no en balsa de grupo. Cuesta uns 800–1 200 CZK / 32–48 € por canoa mais um suplemento de cão."
+        },
+        {
+          "q": "Český Krumlov é buen destino com cão en inverno?",
+          "a": "Sí, e posiblemente sea a melhor temporada. A nieve profunda de finales de dezembro a fevereiro convierte a cidade numa postal, as multitudes bajan um 80 % e as razas de pelo corto agradecen as callejuelas tranquilas. Cuidado com a sal das ruas — o ayuntamiento sala muito as vías principales — e prevé botines o bálsamo. O jardim do castelo cierra en inverno mas os passeios junto al rio siguen acessíveis."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions & Sights in Český Krumlov",
+      "titleFr": "Attractions et sites acceptant les chiens à Český Krumlov",
+      "titleEs": "Atracciones y lugares para perros en Český Krumlov",
+      "introEn": "Most of what makes Český Krumlov a UNESCO World Heritage Site can be enjoyed outdoors with a leashed dog: the Vltava bend viewpoints, the Cloak Bridge, the castle courtyards, the painted Round Tower seen from below, and the entire historic centre. Indoor museum sections are uniformly closed to pets, but the outdoor experience is so dense it more than fills a 2-day visit.",
+      "introFr": "L'essentiel de ce qui fait de Český Krumlov un site UNESCO se découvre en extérieur avec un chien en laisse : les points de vue sur le méandre de la Vltava, le Pont au manteau, les cours du château, la tour ronde peinte vue d'en bas et tout le centre historique. Les sections muséales intérieures sont uniformément interdites aux animaux, mais l'expérience extérieure est si dense qu'elle remplit largement deux jours.",
+      "introEs": "La mayor parte de lo que hace de Český Krumlov un sitio UNESCO se disfruta al aire libre con perro con correa: los miradores sobre el meandro del Vltava, el Puente de la Capa, los patios del castillo, la Torre Redonda pintada vista desde abajo y todo el centro histórico. Las secciones museísticas interiores están uniformemente prohibidas a las mascotas, pero la experiencia al aire libre es tan densa que llena de sobra una visita de dos días.",
+      "places": [
+        {
+          "name": "Český Krumlov Castle — outer courtyards & Cloak Bridge",
+          "nameFr": "Château de Český Krumlov — cours extérieures et Pont au manteau",
+          "nameEs": "Castillo de Český Krumlov — patios exteriores y Puente de la Capa",
+          "address": "Zámek 59, 381 01 Český Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-attractions-cesky-krumlov-castle-outer-courtyards-cloak-bridge.jpg",
+          "description": "The second-largest castle complex in the Czech Republic after Prague Castle, dominating the town on a rock above the Vltava bend. The five outer courtyards (I.–V. nádvoří), the painted Round Tower base, and the three-tiered Cloak Bridge (Plášťový most) connecting the castle to its garden are all open and free to traverse with a dog on a short leash.",
+          "descriptionFr": "Deuxième plus grand complexe castral de République tchèque après le Hradčany de Prague, dominant la ville sur un rocher au-dessus du méandre de la Vltava. Les cinq cours extérieures (I.–V. nádvoří), la base de la tour ronde peinte et le pont à trois étages dit Pont au manteau (Plášťový most) reliant le château à son jardin se traversent librement et gratuitement avec un chien en laisse courte.",
+          "descriptionEs": "El segundo mayor complejo castral de la República Checa tras el Castillo de Praga, dominando la ciudad sobre un peñón encima del meandro del Vltava. Los cinco patios exteriores (I.–V. nádvoří), la base de la Torre Redonda pintada y el Puente de la Capa de tres niveles (Plášťový most) que une el castillo con su jardín se recorren libre y gratuitamente con perro con correa corta.",
+          "petPolicy": "Outdoor courtyards and Cloak Bridge: dogs on short leash, free entry. Indoor museum routes (state apartments, Baroque Theatre, Lapidarium): dogs not permitted. The painted Round Tower climb (162 steps): no dogs. Bear Moat parapet viewing: dogs allowed at distance, do not lean over.",
+          "petPolicyFr": "Cours extérieures et Pont au manteau : chiens en laisse courte, accès libre. Circuits muséaux intérieurs (appartements d'État, théâtre baroque, lapidarium) : chiens interdits. Montée de la tour ronde peinte (162 marches) : pas de chiens. Belvédère du fossé aux ours : chiens autorisés à distance, ne pas se pencher.",
+          "petPolicyEs": "Patios exteriores y Puente de la Capa: perros con correa corta, acceso libre. Recorridos museísticos interiores (apartamentos de estado, teatro barroco, lapidario): perros no admitidos. Subida a la Torre Redonda pintada (162 escalones): sin perros. Mirador del Foso de los Osos: perros admitidos a distancia, no asomarse.",
+          "tip": "Walk up via the Latrán entrance and exit through the Cloak Bridge to the Castle Garden — the climb is more gradual on this side and the views improve at every courtyard.",
+          "tipFr": "Montez par l'entrée du Latrán et redescendez par le Pont au manteau vers le Jardin du château — la pente est plus douce de ce côté et la vue se bonifie à chaque cour.",
+          "tipEs": "Sube por la entrada del Latrán y baja por el Puente de la Capa hacia el Jardín del castillo — la subida es más suave por este lado y las vistas mejoran en cada patio.",
+          "googleMapsUrl": "https://maps.google.com/?q=Z%C3%A1mek+%C4%8Cesk%C3%BD+Krumlov",
+          "namePt": "Castelo de Český Krumlov — patios exteriores e Ponte da Capa",
+          "descriptionPt": "O segundo mayor complejo castral da República Checa tras o Castelo de Praga, dominando a cidade sobre um penhón em cima do meandro do Vltava. Os cinco patios exteriores (I.–V. nádvoří), a base da Torre Redonda pintada e o Ponte da Capa de três niveles (Plášťový most) que une o castelo com o seu jardim se recorren libre e gratuitamente com cão com trela corta.",
+          "petPolicyPt": "Patios exteriores e Ponte da Capa: cães com trela corta, acesso libre. Recorridos museísticos interiores (apartamentos de estado, teatro barroco, lapidario): cães no admitidos. Subida a a Torre Redonda pintada (162 escalones): sem cães. Mirador do Foso dois Osos: cães admitidos a distancia, no asomarse.",
+          "tipPt": "Sube pela entrada do Latrán e baja pelo Ponte da Capa para o Jardim do castelo — a subida é mais suave por este lado e as vistas mejoran en cada patio."
+        },
+        {
+          "name": "Náměstí Svornosti & the old town lanes",
+          "nameFr": "Náměstí Svornosti et les ruelles de la vieille ville",
+          "nameEs": "Náměstí Svornosti y las callejuelas del casco antiguo",
+          "address": "Náměstí Svornosti, 381 01 Český Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-attractions-namesti-svornosti-the-old-town-lanes.jpg",
+          "description": "The triangular Renaissance main square at the heart of the UNESCO old town, ringed by pastel townhouses, the town hall and the Marian Plague Column (1716). From here the lanes of Radniční, Latrán, Široká and Panská spread out into a pedestrian-only labyrinth where leashed dogs are universally welcome on terraces.",
+          "descriptionFr": "Place principale triangulaire de la Renaissance au cœur de la vieille ville UNESCO, ceinte de maisons aux teintes pastel, de l'hôtel de ville et de la Colonne mariale de la peste (1716). De là, les rues Radniční, Latrán, Široká et Panská se déploient en labyrinthe piétonnier où les chiens en laisse sont universellement bienvenus en terrasse.",
+          "descriptionEs": "Plaza principal triangular renacentista en el corazón del casco antiguo UNESCO, rodeada de casas pastel, el ayuntamiento y la Columna Mariana de la Peste (1716). Desde aquí las calles Radniční, Latrán, Široká y Panská se despliegan en un laberinto peatonal donde los perros con correa son universalmente bienvenidos en las terrazas.",
+          "petPolicy": "Entirely outdoor, leashed dogs welcome at all hours. Waste bag dispensers at the corners of the square. Cobble surface is rough — small breeds may struggle.",
+          "petPolicyFr": "Entièrement en extérieur, chiens en laisse bienvenus à toute heure. Distributeurs de sacs aux angles de la place. Pavé rugueux — les petites races peinent parfois.",
+          "petPolicyEs": "Totalmente al aire libre, perros con correa bienvenidos a toda hora. Dispensadores de bolsas en las esquinas de la plaza. Adoquinado rugoso — las razas pequeñas a veces sufren.",
+          "tip": "Arrive at 7:30 in summer for empty-square photos before the day-trip buses unload. Cafés open from 9:00; a few terraces (U Hada, Hospoda Na Louži) leave water bowls outside.",
+          "tipFr": "Arrivez à 7h30 en été pour des photos place vide avant l'arrivée des bus d'excursion. Les cafés ouvrent à partir de 9h ; quelques terrasses (U Hada, Hospoda Na Louži) laissent des gamelles d'eau à l'extérieur.",
+          "tipEs": "Llega a las 7:30 en verano para fotos de plaza vacía antes de que descarguen los autobuses de excursión. Los cafés abren desde las 9:00; algunas terrazas (U Hada, Hospoda Na Louži) dejan boles de agua fuera.",
+          "googleMapsUrl": "https://maps.google.com/?q=N%C3%A1m%C4%9Bst%C3%AD+Svornosti+%C4%8Cesk%C3%BD+Krumlov",
+          "namePt": "Náměstí Svornosti e as callejuelas do centro histórico",
+          "descriptionPt": "Praça principal triangular renascentista no corazón do centro histórico UNESCO, rodeada de casas pastel, o ayuntamiento e a Columna Mariana da Peste (1716). A partir de aqui as ruas Radniční, Latrán, Široká e Panská se despliegan num laberinto peatonal onde os cães com trela são universalmente bem-vindos nas esplanadas.",
+          "petPolicyPt": "Totalmente al aire libre, cães com trela bem-vindos a toda hora. Dispensadores de bolsas nas esquinas da praça. Adoquinado rugoso — as razas pequenhas a vezes sufren.",
+          "tipPt": "Chega a as 7:30 en verão para fotos de praça vacía antes de que descarguen os autocarros de excursión. Os cafés abren a partir das 9:00; algunas esplanadas (U Hada, Hospoda Na Louži) dejan boles de água fora."
+        },
+        {
+          "name": "Egon Schiele Art Centrum — courtyard & riverside terrace",
+          "nameFr": "Egon Schiele Art Centrum — cour et terrasse côté rivière",
+          "nameEs": "Egon Schiele Art Centrum — patio y terraza junto al río",
+          "address": "Široká 71, 381 01 Český Krumlov",
+          "photo": "/images/city-places/cesky-krumlov-attractions-egon-schiele-art-centrum-courtyard-riverside-terrace.jpg",
+          "description": "A repurposed 16th-century brewery housing the country's largest collection of Egon Schiele works (he lived in Krumlov in 1911). The walled cobblestone courtyard and the rear riverside terrace café are dog-friendly even though the indoor galleries are not — a quiet pause between two main-square crushes.",
+          "descriptionFr": "Ancienne brasserie du XVIᵉ siècle abritant la plus grande collection nationale d'œuvres d'Egon Schiele (il a vécu à Krumlov en 1911). La cour pavée close et le café-terrasse arrière côté rivière acceptent les chiens même si les galeries intérieures non — une pause au calme entre deux affluences sur la place principale.",
+          "descriptionEs": "Antigua cervecería del siglo XVI que alberga la mayor colección nacional de obras de Egon Schiele (vivió en Krumlov en 1911). El patio empedrado amurallado y la cafetería-terraza trasera junto al río admiten perros aunque las galerías interiores no — una pausa tranquila entre dos avalanchas en la plaza principal.",
+          "petPolicy": "Outdoor courtyard and riverside café: leashed dogs welcome. Indoor galleries: dogs not permitted. Small-dog carriers accepted in the entrance shop area only.",
+          "petPolicyFr": "Cour extérieure et café côté rivière : chiens en laisse bienvenus. Galeries intérieures : chiens interdits. Caisses pour petits chiens acceptées uniquement dans la boutique d'entrée.",
+          "petPolicyEs": "Patio exterior y cafetería junto al río: perros con correa bienvenidos. Galerías interiores: perros no admitidos. Transportines de perros pequeños aceptados solo en la zona de tienda de la entrada.",
+          "tip": "Travel as a pair — one person visits the galleries (allow 90 min) while the other relaxes on the riverside terrace with the dog. Then swap. The café serves Eggenberg local lager from the brewery 200 m away.",
+          "tipFr": "Voyagez en duo — l'un visite les galeries (90 min) pendant que l'autre se détend sur la terrasse côté rivière avec le chien. Puis échangez. Le café sert la bière locale Eggenberg de la brasserie à 200 m.",
+          "tipEs": "Viaja en pareja — uno visita las galerías (90 min) mientras el otro descansa en la terraza junto al río con el perro. Luego os turnáis. La cafetería sirve la cerveza local Eggenberg de la fábrica a 200 m.",
+          "googleMapsUrl": "https://maps.google.com/?q=Egon+Schiele+Art+Centrum+%C4%8Cesk%C3%BD+Krumlov",
+          "namePt": "Egon Schiele Art Centrum — patio e esplanada junto al rio",
+          "descriptionPt": "Antiga cervecería do século XVI que alberga a mayor colección nacional de obras de Egon Schiele (vivió en Krumlov en 1911). O patio empedrado amurallado e a cafetería-esplanada trasera junto al rio admitem cães embora as galerías interiores no — uma pausa tranquila entre dois avalanchas na praça principal.",
+          "petPolicyPt": "Patio exterior e cafetería junto al rio: cães com trela bem-vindos. Galerías interiores: cães no admitidos. Transportines de cães pequenhos aceites só na zona de tienda da entrada.",
+          "tipPt": "Viaja en pareja — uno visita as galerías (90 min) enquanto o otro descansa na esplanada junto al rio com o cão. Luego os turnáis. A cafetería sirve a cerveza local Eggenberg da fábrica a 200 m."
+        }
+      ],
+      "titlePt": "Atracciones e lugares para cães en Český Krumlov",
+      "introPt": "A mayor parte de lo que faz de Český Krumlov um sitio UNESCO se disfruta al aire libre com cão com trela: os miradores sobre o meandro do Vltava, o Ponte da Capa, os patios do castelo, a Torre Redonda pintada vista a partir de em baixo e todo o centro histórico. As secciones museísticas interiores estão uniformemente prohibidas a as animais, mas a experiencia al aire libre é tan densa que llena de sobra uma visita de dois dias."
+    },
+    "petsitting": {
+      "titleEn": "Pet-Sitting & Dog-Walking Services in Český Krumlov",
+      "titleFr": "Services de garde et promenade de chiens à Český Krumlov",
+      "titleEs": "Servicios de cuidado y paseo de perros en Český Krumlov",
+      "introEn": "Český Krumlov is too small to support a dedicated commercial dog-sitting agency, but two pan-Czech peer-to-peer platforms have verified sitters in the town and surrounding villages, and a hotel concierge will often arrange a short-notice walker from the same network. Plan ahead — sitter availability tightens during high season (June–September) and the Christmas markets.",
+      "introFr": "Český Krumlov est trop petite pour soutenir une agence commerciale dédiée au pet-sitting, mais deux plateformes pan-tchèques de particulier à particulier disposent de gardiens vérifiés en ville et dans les villages voisins, et le concierge d'un hôtel arrange souvent un promeneur en dernière minute via le même réseau. Anticipez — la disponibilité se tend en haute saison (juin–septembre) et pendant les marchés de Noël.",
+      "introEs": "Český Krumlov es demasiado pequeña para sostener una agencia comercial dedicada al cuidado canino, pero dos plataformas pan-checas entre particulares cuentan con cuidadores verificados en la ciudad y los pueblos vecinos, y el conserje de un hotel a menudo gestiona un paseador de última hora a través de la misma red. Anticipa — la disponibilidad se tensa en temporada alta (junio–septiembre) y durante los mercados de Navidad.",
+      "services": [
+        {
+          "name": "Pejskar.cz",
+          "website": "https://www.pejskar.cz/",
+          "description": "The leading Czech peer-to-peer dog-care platform, with verified sitters in Český Krumlov and surrounding villages including Větřní and Kájov. Services include drop-in visits, full-day care, overnight boarding and dog walks. All sitters are background-checked and the platform handles insurance and payment in Czech crowns.",
+          "descriptionFr": "Principale plateforme tchèque de garde de chiens entre particuliers, avec des gardiens vérifiés à Český Krumlov et dans les villages voisins, notamment Větřní et Kájov. Services : visites ponctuelles, garde de jour, hébergement de nuit et promenades. Tous les gardiens sont vérifiés et la plateforme gère l'assurance et le paiement en couronnes tchèques.",
+          "descriptionEs": "Principal plataforma checa de cuidado canino entre particulares, con cuidadores verificados en Český Krumlov y pueblos vecinos como Větřní y Kájov. Servicios: visitas puntuales, guardería diurna, alojamiento nocturno y paseos. Todos los cuidadores tienen verificación de antecedentes y la plataforma gestiona seguro y pago en coronas checas.",
+          "priceRange": "€€",
+          "bookingAdvice": "Book at least 5 days ahead in July–August and around the Five-Petalled Rose Festival (late June). Czech is the default but most sitters under 40 read English-language requests fine.",
+          "bookingAdviceFr": "Réservez au moins 5 jours à l'avance en juillet–août et autour du Festival de la Rose à cinq pétales (fin juin). Le tchèque est la langue par défaut mais la plupart des gardiens de moins de 40 ans lisent sans souci les demandes en anglais.",
+          "bookingAdviceEs": "Reserva al menos 5 días antes en julio–agosto y en torno al Festival de la Rosa de los Cinco Pétalos (finales de junio). El checo es la lengua por defecto pero la mayoría de cuidadores menores de 40 leen sin problema las solicitudes en inglés.",
+          "descriptionPt": "Principal plataforma checa de cuidado canino entre particulares, com cuidadores verificados en Český Krumlov e aldeias vecinos como Větřní e Kájov. Serviços: visitas puntuales, guardería diurna, alojamento nocturno e passeios. Todos os cuidadores têm verificación de antecedentes e a plataforma gestiona seguro e pago en coronas checas.",
+          "bookingAdvicePt": "Reserva al menos 5 dias antes en julho–agosto e en torno al Festival da Rosa dois Cinco Pétalos (finales de junho). O checo é a lengua por defecto mas a maioria de cuidadores menores de 40 leen sem problema as solicitudes en inglês."
+        },
+        {
+          "name": "Pawshake Česká republika",
+          "website": "https://www.pawshake.cz/",
+          "description": "The Czech branch of the global Pawshake platform, with a smaller but international roster of sitters in South Bohemia, including a handful of English- and German-speaking sitters in Český Krumlov itself. Best for short stays of a few hours during a castle visit or a no-pets restaurant dinner.",
+          "descriptionFr": "Branche tchèque de la plateforme mondiale Pawshake, avec un vivier plus restreint mais international de gardiens en Bohême du Sud, dont une poignée d'anglophones et de germanophones à Český Krumlov même. Idéal pour des gardes courtes de quelques heures pendant une visite du château ou un dîner sans chien.",
+          "descriptionEs": "Filial checa de la plataforma global Pawshake, con un plantel más pequeño pero internacional de cuidadores en Bohemia del Sur, entre ellos un puñado angloparlante y germanoparlante en la propia Český Krumlov. Ideal para cuidados cortos de unas horas durante una visita al castillo o una cena sin perro.",
+          "priceRange": "€€",
+          "bookingAdvice": "Same-day requests sometimes work for drop-in visits but not for boarding. The platform displays prices in EUR; payment is in CZK at booking confirmation.",
+          "bookingAdviceFr": "Les demandes du jour même fonctionnent parfois pour des visites ponctuelles mais pas pour l'hébergement. La plateforme affiche les prix en euros ; le paiement se fait en CZK à la confirmation.",
+          "bookingAdviceEs": "Las solicitudes para el mismo día a veces funcionan para visitas puntuales pero no para alojamiento. La plataforma muestra precios en EUR; el pago es en CZK al confirmar la reserva.",
+          "descriptionPt": "Filial checa da plataforma global Pawshake, com um plantel mais pequenho mas internacional de cuidadores en Bohemia do sul, entre ellos um punhado angloparlante e germanoparlante na propia Český Krumlov. Ideal para cuidados cortos de umas horas durante uma visita al castelo o uma jantar sem cão.",
+          "bookingAdvicePt": "As solicitudes para o mismo dia a vezes funcionam para visitas puntuales mas no para alojamento. A plataforma muestra preços en EUR; o pago é en CZK al confirmar a reserva."
+        },
+        {
+          "name": "Hotel concierge referrals",
+          "nameFr": "Recommandations par la conciergerie d'hôtel",
+          "nameEs": "Recomendaciones de conserjería de hotel",
+          "website": "",
+          "description": "All four of Český Krumlov's larger 4-star hotels (Růže, Old Inn, Bellevue, Garni Krumlov) maintain an informal list of two or three trusted local dog-walkers, typically neighbours or staff partners. Rates are off-platform (cash in CZK), 200–300 CZK / €8–12 per hour for walks, 700 CZK / €28 per night for boarding in the sitter's home.",
+          "descriptionFr": "Les quatre hôtels 4 étoiles principaux de Český Krumlov (Růže, Old Inn, Bellevue, Garni Krumlov) tiennent une liste informelle de deux ou trois promeneurs locaux de confiance, voisins ou conjoints d'employés. Tarifs hors plateforme (espèces en CZK), 200–300 CZK / 8–12 € de l'heure pour les promenades, 700 CZK / 28 € la nuit pour l'hébergement au domicile du gardien.",
+          "descriptionEs": "Los cuatro hoteles principales de 4 estrellas de Český Krumlov (Růže, Old Inn, Bellevue, Garni Krumlov) mantienen una lista informal de dos o tres paseadores locales de confianza, vecinos o cónyuges de personal. Tarifas fuera de plataforma (efectivo en CZK), 200–300 CZK / 8–12 € por hora de paseo, 700 CZK / 28 € por noche por alojamiento en casa del cuidador.",
+          "priceRange": "€",
+          "bookingAdvice": "Ask the desk on check-in, NOT on the morning you need it. Most walkers have day jobs and a 24-hour notice secures the slot. Always confirm the meeting point (hotel lobby) and the agreed CZK amount in writing in the WhatsApp thread the concierge sets up.",
+          "bookingAdviceFr": "Demandez à la réception au check-in, PAS le matin où vous en avez besoin. La plupart des promeneurs ont un emploi de jour et 24 h de préavis sécurisent le créneau. Confirmez toujours par écrit le point de rendez-vous (hall de l'hôtel) et le montant convenu en CZK dans la conversation WhatsApp ouverte par le concierge.",
+          "bookingAdviceEs": "Pregunta en recepción al hacer el check-in, NO la mañana que lo necesitas. La mayoría de paseadores tienen trabajo diurno y 24 h de antelación aseguran la franja. Confirma siempre por escrito el punto de encuentro (vestíbulo del hotel) y el importe acordado en CZK en el chat de WhatsApp que abre el conserje.",
+          "namePt": "Recomendaciones de conserjería de hotel",
+          "descriptionPt": "Os quatro hotéis principales de 4 estrellas de Český Krumlov (Růže, Old Inn, Bellevue, Garni Krumlov) mantienen uma lista informal de dois o três paseadores locales de confianza, vecinos o cónyuges de personal. Tarifas fora de plataforma (efectivo en CZK), 200–300 CZK / 8–12 € por hora de passeio, 700 CZK / 28 € por noite por alojamento en casa do cuidador.",
+          "bookingAdvicePt": "Pregunta en recepción al fazer o check-in, NO a manhã que lo necesitas. A maioria de paseadores têm trabajo diurno e 24 h de antelación aseguran a franja. Confirma sempre por escrito o punto de encontro (vestíbulo do hotel) e o importe acordado en CZK no chat de WhatsApp que abre o conserje."
+        }
+      ],
+      "titlePt": "Serviços de cuidado e passeio de cães en Český Krumlov",
+      "introPt": "Český Krumlov é demasiado pequenha para sostener uma agencia comercial dedicada al cuidado canino, mas dois plataformas pan-checas entre particulares cuentan com cuidadores verificados na cidade e os aldeias vecinos, e o conserje de um hotel a menudo gestiona um paseador de última hora a través da misma red. Anticipa — a disponibilidad se tensa en temporada alta (junho–setembro) e durante os mercados de Navidad."
+    }
+  }
+}

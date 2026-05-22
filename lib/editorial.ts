@@ -216,6 +216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Villa Bellini gardens on Via Etnea, the off-leash area cani at Parco Vulcania, the lava-paved Pescheria fish market and the dog beach at Lido Azzurro`,
       area: `the UNESCO-listed centro storico around Piazza Duomo, the Borgo university quarter, and the Plaja beachfront on Viale Kennedy`,
     },
+    'cesky-krumlov': {
+      personality: `a UNESCO old town of 13 000 residents under a vast Renaissance castle on a tight Vltava river bend in Bohemia, where leashed dogs are welcome on the painted castle courtyards, the Cloak Bridge and the Baroque Castle Garden, but the rafting boats and indoor museum sections remain off-limits`,
+      highlight: `Český Krumlov Castle's five outer courtyards and the three-tiered Cloak Bridge, the Baroque Zámecká zahrada garden above the Vltava bend, and the riverside dog-walking strip at the Jelení zahrada city park`,
+      area: `the cobbled Vnitřní Město around Náměstí Svornosti, the riverside Parkán lane below the castle, and the Latrán quarter at the foot of the castle hill`,
+    },
     cologne: {
       personality: 'a pragmatic Rhineland city where dogs ride trains on a child ticket, drink water at pub troughs, and follow owners along the riverside',
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
@@ -959,6 +964,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les jardins de la Villa Bellini sur la Via Etnea, l'area cani sans laisse du Parco Vulcania, la Pescheria pavée de lave et la plage canine du Lido Azzurro`,
       area: `le centro storico classé UNESCO autour de la Piazza Duomo, le Borgo universitaire et la Plaja en bord de mer sur le Viale Kennedy`,
     },
+    'cesky-krumlov': {
+      personality: `une vieille ville UNESCO de 13 000 habitants au pied d'un vaste château Renaissance posé sur un méandre serré de la Vltava, en Bohême, où les chiens en laisse sont admis dans les cours peintes du château, sur le Pont au manteau et dans le Jardin baroque, mais où les radeaux de la rivière et les salles muséales intérieures restent interdits`,
+      highlight: `les cinq cours extérieures du château de Český Krumlov et le Pont au manteau à trois étages, le Jardin baroque Zámecká zahrada surplombant le méandre de la Vltava, et la bande de promenade en bord de rivière au parc municipal Jelení zahrada`,
+      area: `la Vnitřní Město pavée autour de la place Náměstí Svornosti, la ruelle Parkán en bord de rivière sous le château, et le quartier Latrán au pied de la colline du château`,
+    },
     cologne: {
       personality: 'une ville rhénane pragmatique où les chiens prennent le train avec un billet enfant, boivent dans des abreuvoirs de pubs et suivent leurs maîtres le long du fleuve',
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
@@ -1701,6 +1711,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `los jardines de Villa Bellini en Via Etnea, el area cani sin correa del Parco Vulcania, la Pescheria empedrada en lava y la playa canina del Lido Azzurro`,
       area: `el centro histórico Patrimonio UNESCO en torno a Piazza Duomo, el Borgo universitario y el frente marítimo de la Plaja en Viale Kennedy`,
     },
+    'cesky-krumlov': {
+      personality: `un casco antiguo Patrimonio UNESCO de 13 000 residentes al pie de un vasto castillo renacentista sobre un cerrado meandro del Vltava, en Bohemia, donde los perros con correa son bienvenidos en los patios pintados del castillo, en el Puente de la Capa y en el Jardín barroco, pero las balsas del río y las salas museísticas interiores siguen vedadas`,
+      highlight: `los cinco patios exteriores del castillo de Český Krumlov y el Puente de la Capa de tres niveles, el Jardín barroco Zámecká zahrada sobre el meandro del Vltava, y la franja de paseo junto al río en el parque municipal Jelení zahrada`,
+      area: `la Vnitřní Město empedrada en torno a Náměstí Svornosti, la callejuela Parkán junto al río bajo el castillo, y el barrio Latrán al pie de la colina del castillo`,
+    },
     cologne: {
       personality: 'una ciudad renana pragmática donde los perros viajan en tren con billete infantil, beben en abrevaderos de pubs y acompañan a sus dueños por la ribera',
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
@@ -2442,6 +2457,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital barroca da Sicília construída sobre a lava do Etna, com três hospitais veterinários 24 horas, uma praia canina municipal aberta o ano inteiro na Plaja e um centro histórico Património da UNESCO onde as esplanadas pet-friendly são a norma, da Piazza Duomo à Via Crociferi`,
       highlight: `os jardins de Villa Bellini na Via Etnea, a area cani sem trela do Parco Vulcania, a Pescheria empedrada em lava e a praia canina do Lido Azzurro`,
       area: `o centro histórico Património UNESCO em torno da Piazza Duomo, o Borgo universitário e a frente marítima da Plaja no Viale Kennedy`,
+    },
+    'cesky-krumlov': {
+      personality: `um centro histórico Património UNESCO de 13 000 habitantes ao pé de um vasto castelo renascentista sobre um meandro apertado do Vltava, na Boémia, onde os cães com trela são bem-vindos nos pátios pintados do castelo, na Ponte do Manto e no Jardim barroco, mas as jangadas do rio e as salas museológicas interiores permanecem interditas`,
+      highlight: `os cinco pátios exteriores do castelo de Český Krumlov e a Ponte do Manto de três níveis, o Jardim barroco Zámecká zahrada sobre o meandro do Vltava, e a faixa de passeio à beira-rio no parque municipal Jelení zahrada`,
+      area: `a Vnitřní Město empedrada em torno de Náměstí Svornosti, a viela Parkán à beira-rio sob o castelo, e o bairro Latrán ao pé da colina do castelo`,
     },
     cologne: {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',

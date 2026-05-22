@@ -4995,6 +4995,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'cesky-krumlov': {
+    history: {
+      fr: `Český Krumlov, classée au patrimoine mondial de l'UNESCO depuis 1992, est une ville de seulement 13 000 habitants nichée dans un méandre serré de la Vltava, au pied des contreforts de la forêt de Bohême. Fondée au XIIIᵉ siècle autour du château des Vítkovci, devenue capitale de la puissante famille Rožmberk au XVᵉ siècle puis des Eggenberg et des Schwarzenberg, elle a traversé presque intacte les guerres et les démolitions communistes, ce qui en fait le second site castral de République tchèque après Prague. Aujourd'hui, près de 2 millions de touristes y défilent chaque année, soit un ratio touriste/résident record au pays. Côté chiens, la municipalité applique strictement la laisse en centre historique (article 13 du règlement d'ordre public, amende jusqu'à 1 000 CZK) et exige les sacs ramasse-crottes ; le réseau ferroviaire tchèque ČD impose laisse courte ET muselière pour tout chien plus grand qu'une caisse de transport. Aucun vétérinaire 24h/24 en ville, le renvoi officiel se fait sur České Budějovice (25 km). Hors saison, c'est l'une des plus belles villes médiévales d'Europe centrale à visiter avec un chien ; en juillet–août, les ruelles pavées de 3 m de large deviennent inadaptées aux animaux sensibles.`,
+      en: `Český Krumlov, a UNESCO World Heritage Site since 1992, is a town of just 13 000 residents tucked into a tight bend of the Vltava river at the foothills of the Bohemian Forest. Founded in the 13th century around the Vítkovci castle, it became the seat of the powerful Rožmberk family in the 15th century, then of the Eggenbergs and Schwarzenbergs, and survived almost unscathed through war and communist-era demolitions — leaving it the second-largest castle complex in the Czech Republic after Prague. Today the town hosts nearly 2 million visitors a year, the highest tourist-to-resident ratio in the country. On dogs, the municipality strictly enforces leashing in the historic centre (Article 13 of the public order ordinance, fines up to 1 000 CZK) and requires owners to carry waste bags; Czech Railways (ČD) mandate a short leash AND a muzzle for any dog above carrier size. There is NO 24-hour veterinary service in town — the official referral is to České Budějovice 25 km north. Out of season, Český Krumlov is one of Central Europe's most rewarding medieval towns with a dog; in July–August the 3-metre-wide cobbled lanes become unsuitable for anxious animals.`,
+      es: `Český Krumlov, Patrimonio de la Humanidad UNESCO desde 1992, es una ciudad de solo 13 000 habitantes incrustada en un cerrado meandro del Vltava al pie del bosque de Bohemia. Fundada en el siglo XIII en torno al castillo de los Vítkovci, sede de la poderosa familia Rožmberk en el XV y luego de los Eggenberg y los Schwarzenberg, sobrevivió casi intacta a las guerras y a las demoliciones del comunismo, lo que la convierte en el segundo conjunto castral de la República Checa tras Praga. Hoy recibe casi 2 millones de visitantes al año, la mayor ratio turistas/residentes del país. En cuanto a perros, el ayuntamiento aplica con rigor la correa en el centro histórico (artículo 13 de la ordenanza de orden público, multa hasta 1 000 CZK) y exige llevar bolsas; los ferrocarriles checos (ČD) imponen correa corta Y bozal para todo perro mayor que un transportín. NO hay servicio veterinario 24 horas en la ciudad — la derivación oficial es a České Budějovice, 25 km al norte. Fuera de temporada, Český Krumlov es una de las ciudades medievales más recompensantes de Europa Central con un perro; en julio–agosto las callejuelas empedradas de 3 metros de ancho son inadecuadas para animales nerviosos.`,
+      pt: `Český Krumlov, Património Mundial da UNESCO desde 1992, é uma cidade de apenas 13 000 habitantes encaixada num meandro apertado do rio Vltava ao pé da floresta da Boémia. Fundada no século XIII em torno do castelo dos Vítkovci, sede da poderosa família Rožmberk no século XV e depois dos Eggenberg e dos Schwarzenberg, sobreviveu quase intacta às guerras e às demolições da era comunista — o que dela faz o segundo maior conjunto castral da República Checa, depois de Praga. Hoje recebe quase 2 milhões de visitantes por ano, a maior proporção turistas/residentes do país. Quanto aos cães, o município aplica com rigor a obrigação de trela no centro histórico (artigo 13 da ordenança de ordem pública, multa até 1 000 CZK) e exige o transporte de sacos; os comboios checos (ČD) impõem trela curta E açaime para qualquer cão maior que uma transportadora. NÃO existe serviço veterinário 24 horas na cidade — o reencaminhamento oficial é para České Budějovice, 25 km a norte. Fora da época, Český Krumlov é uma das cidades medievais mais gratificantes da Europa Central com um cão; em julho–agosto as vielas empedradas de 3 m de largura tornam-se inadequadas para animais ansiosos.`,
+    },
+    sights: [
+      {
+        name: 'Český Krumlov Castle',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Deuxième plus grand complexe castral de République tchèque, sur un rocher dominant le méandre de la Vltava. Les cinq cours extérieures, la base de la tour ronde peinte et le Pont au manteau à trois étages se traversent gratuitement avec un chien en laisse courte. Intérieurs muséaux, montée de la tour et théâtre baroque interdits aux chiens.`,
+          en: `The second-largest castle complex in the Czech Republic, perched on a rock above the Vltava bend. The five outer courtyards, the painted Round Tower base and the three-tiered Cloak Bridge are free to traverse with a short-leashed dog. Museum interiors, the tower climb and the Baroque theatre are closed to dogs.`,
+          es: `El segundo mayor conjunto castral de la República Checa, sobre una roca que domina el meandro del Vltava. Los cinco patios exteriores, la base de la Torre Redonda pintada y el Puente de la Capa de tres niveles se recorren gratis con perro con correa corta. Interiores museísticos, subida a la torre y teatro barroco vetados a perros.`,
+          pt: `O segundo maior conjunto castral da República Checa, sobre uma rocha que domina o meandro do Vltava. Os cinco pátios exteriores, a base da Torre Redonda pintada e a Ponte do Manto de três níveis percorrem-se gratuitamente com cão com trela curta. Interiores museológicos, subida à torre e teatro barroco vedados a cães.`,
+        },
+      },
+      {
+        name: 'Zámecká zahrada',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin baroque de 11 hectares aménagé par les Eggenberg au XVIIᵉ siècle derrière le château, avec parterres, fontaine en cascade, allées de marronniers et théâtre tournant en plein air. Ouvert d'avril à octobre, entrée libre, chiens en laisse acceptés sur toutes les grandes allées.`,
+          en: `An 11-hectare Baroque garden laid out by the Eggenberg family in the 17th century behind the castle, with parterres, a cascade fountain, chestnut alleys and an open-air revolving theatre. Open April–October, free entry, leashed dogs welcome on all main alleys.`,
+          es: `Jardín barroco de 11 hectáreas trazado por la familia Eggenberg en el siglo XVII tras el castillo, con parterres, fuente en cascada, avenidas de castaños y teatro giratorio al aire libre. Abierto de abril a octubre, entrada libre, perros con correa admitidos en todas las avenidas principales.`,
+          pt: `Jardim barroco de 11 hectares delineado pela família Eggenberg no século XVII atrás do castelo, com parterres, fonte em cascata, avenidas de castanheiros e teatro giratório ao ar livre. Aberto de abril a outubro, entrada livre, cães com trela bem-vindos em todas as avenidas principais.`,
+        },
+      },
+      {
+        name: 'Náměstí Svornosti',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Place principale triangulaire de la Renaissance au cœur de la vieille ville UNESCO, bordée de maisons pastel, de l'hôtel de ville et de la Colonne mariale de la peste de 1716. Toujours ouverte, chiens en laisse bienvenus, distributeurs de sacs aux angles.`,
+          en: `The triangular Renaissance main square at the heart of the UNESCO old town, lined with pastel townhouses, the town hall and the 1716 Marian Plague Column. Always open, leashed dogs welcome, waste-bag dispensers on the corners.`,
+          es: `Plaza principal triangular renacentista en el corazón del casco antiguo UNESCO, rodeada de casas pastel, ayuntamiento y la Columna Mariana de la Peste de 1716. Siempre abierta, perros con correa bienvenidos, dispensadores de bolsas en las esquinas.`,
+          pt: `Praça principal triangular renascentista no coração do centro UNESCO, ladeada por casas pastel, o paços do concelho e a Coluna Mariana da Peste de 1716. Sempre aberta, cães com trela bem-vindos, dispensadores de sacos nos cantos.`,
+        },
+      },
+      {
+        name: 'Plášťový most (Cloak Bridge)',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Pont à trois étages reliant le château au Jardin baroque par-dessus le ravin du Plášťový most, vue cinématographique sur les toits rouges de la ville. Traversée libre, chiens en laisse acceptés ; large allée de pierre, plate, l'un des rares passages doux du circuit château.`,
+          en: `A three-tiered bridge connecting the castle to the Baroque garden, spanning the Cloak Bridge ravine with a postcard view over the town's red roofs. Free to cross, leashed dogs welcome; the wide flat stone walkway is one of the few easy stretches of the castle circuit.`,
+          es: `Puente de tres niveles que conecta el castillo con el Jardín barroco salvando el barranco del Plášťový most, con vista de postal sobre los tejados rojos. Cruce libre, perros con correa bienvenidos; el paseo amplio de piedra plana es uno de los pocos tramos suaves del circuito del castillo.`,
+          pt: `Ponte de três níveis que liga o castelo ao Jardim barroco vencendo o desfiladeiro do Plášťový most, com vista de postal sobre os telhados vermelhos. Travessia livre, cães com trela bem-vindos; o passeio largo de pedra plana é um dos poucos trechos suaves do circuito do castelo.`,
+        },
+      },
+      {
+        name: 'Jelení zahrada',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Parc municipal d'environ 4 hectares au sud de la vieille ville, le long de la Vltava, sous de grands tilleuls. Sentiers calmes, bancs, distributeurs de sacs, le parc le plus utilisé par les habitants pour promener leur chien. Laisse obligatoire.`,
+          en: `The town's 4-hectare public park south of the old town, running along the Vltava under tall lindens. Quiet paths, benches, waste-bag dispensers, the park locals use most for daily dog walks. Leash required.`,
+          es: `Parque municipal de unas 4 hectáreas al sur del casco antiguo, junto al Vltava, bajo tilos altos. Senderos tranquilos, bancos, dispensadores de bolsas, el parque más usado por los locales para pasear al perro. Correa obligatoria.`,
+          pt: `Parque municipal de cerca de 4 hectares a sul do centro, junto ao Vltava, sob tílias altas. Caminhos tranquilos, bancos, dispensadores de sacos, o parque mais usado pelos locais para passeios diários do cão. Trela obrigatória.`,
+        },
+      },
+      {
+        name: 'Lipno Lake (45 km south)',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Plus grand lac de République tchèque, à 45 minutes au sud en voiture, surnommé la Riviera intérieure tchèque. Zones de baignade canine officielles à Frymburk et Černá v Pošumaví, eau à 22 °C entre mi-juin et début septembre. La passerelle Lipno Treetop Walk admet explicitement les chiens en laisse.`,
+          en: `The largest lake in the Czech Republic, 45 minutes south by car, nicknamed the Czech inland Riviera. Official dog-bathing strips at Frymburk and Černá v Pošumaví, water at 22 °C from mid-June to early September. The Lipno Treetop Walk explicitly admits leashed dogs.`,
+          es: `El mayor lago de la República Checa, a 45 minutos al sur en coche, apodado la Riviera interior checa. Franjas oficiales de baño canino en Frymburk y Černá v Pošumaví, agua a 22 °C de mediados de junio a principios de septiembre. El Lipno Treetop Walk admite explícitamente perros con correa.`,
+          pt: `O maior lago da República Checa, a 45 minutos a sul de carro, apelidado de Riviera interior checa. Faixas oficiais de banho canino em Frymburk e Černá v Pošumaví, água a 22 °C de meados de junho a princípios de setembro. O Lipno Treetop Walk admite explicitamente cães com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Centre historique : laisse obligatoire en permanence (article 13 du règlement municipal), amende jusqu'à 1 000 CZK / 40 € pour les chiens sans laisse. Sacs ramasse-crottes obligatoires, distributeurs aux entrées des grandes places.`,
+        `Pavés très inégaux : les chiens âgés et les races à pattes courtes s'usent vite les coussinets. Préférez les ruelles Parkán et Dlouhá, côté rivière, aux dalles plus plates ; portez les petits chiens si nécessaire.`,
+        `Aucun vétérinaire 24h/24 à Český Krumlov. En urgence nocturne, appelez la Veterinární klinika Budvet à České Budějovice (+420 387 312 423), 25 km au nord par l'E55, 35 minutes en voiture. Notez le numéro avant l'arrivée.`,
+        `Trains ČD et bus RegioJet : laisse courte ET muselière obligatoires pour tout chien plus grand qu'une caisse, contrôle systématique par les contrôleurs. Apportez une muselière panier confortable depuis chez vous.`,
+        `Foule estivale (juillet–août, marchés de Noël) : 25 000 visiteurs/jour pour des ruelles de 3 m de large. Préférez mai, fin septembre, octobre ou semaine d'hiver. Le Fossé aux ours du château abrite de vrais ours bruns — tenez le chien court, en retrait du parapet.`,
+      ],
+      en: [
+        `Historic centre: leash required at all times (Article 13 of the public order ordinance), fine up to 1 000 CZK / €40 for unleashed dogs. Waste bags mandatory, dispensers at the entrances to the main squares.`,
+        `Very uneven cobbles: older dogs and short-legged breeds wear paws fast. Prefer the riverside Parkán and Dlouhá lanes, which have flatter slabs; carry small dogs if necessary.`,
+        `NO 24-hour vet in Český Krumlov. For night emergencies call Veterinární klinika Budvet in České Budějovice (+420 387 312 423), 25 km north on the E55, 35-minute drive. Save the number before you arrive.`,
+        `ČD trains and RegioJet coaches: short leash AND muzzle required for any dog above carrier size, systematically checked by conductors. Bring a comfortable basket muzzle from home.`,
+        `Summer crowds (July–August, Christmas markets): 25 000 visitors per day on 3-metre-wide lanes. Prefer May, late September, October or winter weekdays. The castle's Bear Moat holds live brown bears — keep the dog short and well back from the parapet.`,
+      ],
+      es: [
+        `Centro histórico: correa obligatoria en todo momento (artículo 13 de la ordenanza municipal), multa de hasta 1 000 CZK / 40 € por perros sin correa. Bolsas obligatorias, dispensadores en las entradas de las plazas principales.`,
+        `Adoquines muy irregulares: los perros mayores y las razas de patas cortas desgastan las almohadillas rápido. Prefiere las callejuelas Parkán y Dlouhá junto al río, con losas más planas; lleva en brazos a los pequeños si hace falta.`,
+        `NO hay veterinario 24 horas en Český Krumlov. Para urgencias nocturnas llama a la Veterinární klinika Budvet de České Budějovice (+420 387 312 423), 25 km al norte por la E55, 35 min en coche. Guarda el número antes de llegar.`,
+        `Trenes ČD y autocares RegioJet: correa corta Y bozal obligatorios para todo perro mayor que un transportín, control sistemático por los revisores. Trae un bozal cesta cómodo desde casa.`,
+        `Multitudes estivales (julio–agosto, mercados de Navidad): 25 000 visitantes/día en callejuelas de 3 m. Prefiere mayo, finales de septiembre, octubre o días laborables de invierno. El Foso de los Osos del castillo aloja osos pardos vivos — mantén al perro corto y apartado del pretil.`,
+      ],
+      pt: [
+        `Centro histórico: trela obrigatória a todo o momento (artigo 13 da ordenança municipal), multa até 1 000 CZK / 40 € por cães sem trela. Sacos obrigatórios, dispensadores nas entradas das praças principais.`,
+        `Calçada muito irregular: cães idosos e raças de patas curtas gastam as almofadas depressa. Prefere as vielas Parkán e Dlouhá, junto ao rio, com lajes mais planas; leva os pequenos ao colo se necessário.`,
+        `NÃO existe veterinário 24 horas em Český Krumlov. Para urgências nocturnas liga à Veterinární klinika Budvet em České Budějovice (+420 387 312 423), 25 km a norte pela E55, 35 min de carro. Guarda o número antes de chegar.`,
+        `Comboios ČD e autocarros RegioJet: trela curta E açaime obrigatórios para todo o cão maior que uma transportadora, fiscalização sistemática pelos revisores. Traz um açaime cesto confortável de casa.`,
+        `Multidões de verão (julho–agosto, mercados de Natal): 25 000 visitantes/dia em vielas de 3 m. Prefere maio, fim de setembro, outubro ou dias úteis de inverno. O Fosso dos Ursos do castelo aloja ursos-pardos vivos — mantém o cão curto e afastado do parapeito.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : pas d'aéroport, l'aéroport international le plus proche est Prague (PRG, 170 km, 3h en RegioJet ou ČD via České Budějovice). Linz (Autriche, 75 km) et Vienne (220 km) sont d'autres options. Pas de TGV, train régional ČD Český Krumlov–České Budějovice puis correspondance.`,
+        `Documents : passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours pour l'UE ; Animal Health Certificate (AHC) délivré dans les 10 jours pour les visiteurs hors UE (Royaume-Uni post-Brexit inclus). Pas de quarantaine.`,
+        `Transports locaux : la vieille ville se parcourt entièrement à pied en 15 minutes. Pour les excursions, RegioJet (Prague, Brno) accepte un petit chien en caisse pour 50 CZK ; FlixBus n'accepte que les chiens d'assistance.`,
+        `Pet-sitting : Pejskar.cz et Pawshake Česká republika ont des gardiens vérifiés en ville et dans les villages voisins ; les conciergeries des hôtels 4★ (Růže, Old Inn, Bellevue, Garni Krumlov) maintiennent leur propre liste de promeneurs locaux. Réservez 5 jours à l'avance en haute saison.`,
+        `Climat : étés modérés 17–19 °C avec orages, hivers froids et neigeux -2 à 4 °C de décembre à février, attention au sel de déneigement (bottines ou baume conseillés). Meilleurs mois : mai, fin septembre et octobre ; l'hiver enneigé est superbe pour les races à poil dense, la ville étant alors quasi vide.`,
+      ],
+      en: [
+        `How to arrive: no airport, the nearest international gateway is Prague (PRG, 170 km, 3 h by RegioJet coach or ČD train via České Budějovice). Linz (Austria, 75 km) and Vienna (220 km) are alternatives. No high-speed rail; regional ČD train Český Krumlov–České Budějovice with a connection.`,
+        `Documents: EU pet passport, ISO microchip and rabies vaccination at least 21 days old for EU visitors; Animal Health Certificate (AHC) issued within 10 days for non-EU visitors (UK included post-Brexit). No quarantine.`,
+        `Local transport: the old town is walked in 15 minutes. For day trips, RegioJet (Prague, Brno) accepts a small dog in a carrier for 50 CZK; FlixBus refuses pet dogs, accepting only certified assistance dogs.`,
+        `Pet-sitting: Pejskar.cz and Pawshake Česká republika have verified sitters in town and nearby villages; 4★ hotel concierges (Růže, Old Inn, Bellevue, Garni Krumlov) keep their own list of trusted local walkers. Book 5 days ahead in high season.`,
+        `Climate: mild summers 17–19 °C with thunderstorms, cold snowy winters -2 to 4 °C December–February, beware road salt (booties or paw balm recommended). Best months: May, late September and October; snowy winter is stunning for dense-coated breeds, with the town near-empty.`,
+      ],
+      es: [
+        `Cómo llegar: sin aeropuerto, la puerta internacional más cercana es Praga (PRG, 170 km, 3 h en autocar RegioJet o tren ČD vía České Budějovice). Linz (Austria, 75 km) y Viena (220 km) son alternativas. Sin alta velocidad; tren regional ČD Český Krumlov–České Budějovice con transbordo.`,
+        `Documentos: pasaporte europeo, microchip ISO y vacuna antirrábica de al menos 21 días para visitantes UE; Animal Health Certificate (AHC) emitido en los 10 días previos para visitantes de fuera de la UE (Reino Unido incluido tras el Brexit). Sin cuarentena.`,
+        `Transporte local: el casco antiguo se recorre a pie en 15 minutos. Para excursiones, RegioJet (Praga, Brno) admite un perro pequeño en transportín por 50 CZK; FlixBus rechaza perros de compañía, solo acepta perros de asistencia certificados.`,
+        `Pet-sitting: Pejskar.cz y Pawshake Česká republika tienen cuidadores verificados en la ciudad y pueblos vecinos; las conserjerías de los hoteles 4★ (Růže, Old Inn, Bellevue, Garni Krumlov) mantienen su propia lista de paseadores locales de confianza. Reserva 5 días antes en temporada alta.`,
+        `Clima: veranos suaves 17–19 °C con tormentas, inviernos fríos y nevados -2 a 4 °C de diciembre a febrero, cuidado con la sal de las calles (botines o bálsamo aconsejado). Mejores meses: mayo, finales de septiembre y octubre; el invierno nevado es espectacular para razas de pelo denso, con la ciudad casi vacía.`,
+      ],
+      pt: [
+        `Como chegar: sem aeroporto, a porta internacional mais próxima é Praga (PRG, 170 km, 3 h em autocarro RegioJet ou comboio ČD via České Budějovice). Linz (Áustria, 75 km) e Viena (220 km) são alternativas. Sem alta velocidade; comboio regional ČD Český Krumlov–České Budějovice com correspondência.`,
+        `Documentos: passaporte europeu, microchip ISO e vacina antirrábica de pelo menos 21 dias para visitantes UE; Animal Health Certificate (AHC) emitido nos 10 dias anteriores para visitantes fora da UE (Reino Unido incluído depois do Brexit). Sem quarentena.`,
+        `Transporte local: o centro antigo percorre-se a pé em 15 minutos. Para excursões, RegioJet (Praga, Brno) admite um cão pequeno em transportadora por 50 CZK; FlixBus recusa cães de companhia, aceitando apenas cães de assistência certificados.`,
+        `Pet-sitting: Pejskar.cz e Pawshake Česká republika têm cuidadores verificados na cidade e em aldeias vizinhas; as conciergerias dos hotéis 4★ (Růže, Old Inn, Bellevue, Garni Krumlov) mantêm a sua própria lista de passeadores locais de confiança. Reserva 5 dias antes em época alta.`,
+        `Clima: verões amenos 17–19 °C com trovoadas, invernos frios e nevados -2 a 4 °C de dezembro a fevereiro, cuidado com o sal das ruas (botas ou bálsamo aconselhados). Melhores meses: maio, fim de setembro e outubro; o inverno nevado é deslumbrante para raças de pelo denso, com a cidade quase vazia.`,
+      ],
+    },
+  },
+
   cologne: {
     history: {
       fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires em règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,

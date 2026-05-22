@@ -2882,6 +2882,82 @@
     "tiqetsId": "71461"
   },
   {
+    "slug": "cesky-krumlov",
+    "name": "Český Krumlov",
+    "country": "Czech Republic",
+    "countryCode": "CZ",
+    "flag": "🇨🇿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cesky-krumlov.jpg",
+    "intro": "Český Krumlov, a UNESCO World Heritage town of 13 000 residents in the Bohemian Forest foothills, packs Czech Republic's second-largest castle complex, painted Renaissance lanes and a tight Vltava-river bend into a 15-minute walking circle. Dogs on a short leash are welcome on the castle's five outer courtyards and the iconic Cloak Bridge, in the Baroque Castle Garden (April–October), and on the riverside promenades — though indoor museum sections, the Round Tower climb and rafting boats remain off-limits. The closest 24-hour vet is 25 km north in České Budějovice.",
+    "lat": 48.8127,
+    "lng": 14.3175,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & misty",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    },
+    "iata": "PRG",
+    "tiqetsId": "90598"
+  },
+  {
     "slug": "coimbra",
     "name": "Coimbra",
     "country": "Portugal",

@@ -6,6 +6,8 @@ import PetMap from '@/components/PetMap'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 // ─── Shared types ─────────────────────────────────────────────────────────────
 
@@ -45,6 +47,15 @@ export interface RouteCopy {
   faqs: Array<{ q: string; a: string }>
 }
 
+export interface StickyConfig {
+  /** Pre-built Stay22 Allez deep-link to send the user to */
+  href: string
+  /** Localized headline shown in the bar */
+  label: string
+  /** Localized CTA button text */
+  cta: string
+}
+
 export interface CityTripGuideProps {
   /** URL-safe slug used for canonical + GuideFooter highlight */
   slug: string
@@ -54,11 +65,13 @@ export interface CityTripGuideProps {
   locale: string
   /** Translated copy for this locale */
   copy: RouteCopy
+  /** Optional mobile sticky CTA shown at the bottom of the page */
+  sticky?: StickyConfig
 }
 
 // ─── Component ────────────────────────────────────────────────────────────────
 
-export function CityTripGuide({ slug, routeSlugs, locale, copy: c }: CityTripGuideProps) {
+export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: CityTripGuideProps) {
   // Resolve cities from data
   const cities = routeSlugs.map((destSlug) => {
     const dest = destinations.find((d) => d.slug === destSlug)
@@ -190,7 +203,12 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c }: CityTripGui
               </div>
             )}
 
-            <p className="text-gray-700 text-lg leading-relaxed mb-8">{city.copy.intro}</p>
+            <p className="text-gray-700 text-lg leading-relaxed mb-4">{city.copy.intro}</p>
+
+            {/* Inline editorial hotel pick — converts itinerary reader to hotel booker */}
+            <div className="mb-8 max-w-2xl">
+              <NearbyHotelCard destinationSlug={city.slug} locale={locale} variant="compact" />
+            </div>
 
             <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200 rounded-2xl p-6 mb-10">
               <p className="text-sm font-bold text-amber-900 mb-2">⭐ {city.copy.highlight}</p>
@@ -305,6 +323,10 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c }: CityTripGui
       </section>
 
       <GuideFooter locale={locale} currentSlug={slug} />
+
+      {sticky && (
+        <StickyHotelCTA href={sticky.href} label={sticky.label} cta={sticky.cta} />
+      )}
     </div>
   )
 }

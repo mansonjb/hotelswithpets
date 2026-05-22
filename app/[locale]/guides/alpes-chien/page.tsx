@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
-import { CityTripGuide, type RouteCopy } from '../_components/CityTripGuide'
+import { SITE_URL, STAY22_AID } from '@/lib/site'
+import { CityTripGuide, type RouteCopy, type StickyConfig } from '../_components/CityTripGuide'
 
 const SLUG = 'alpes-chien'
 const ROUTE_SLUGS = ['geneva', 'zurich', 'munich', 'salzburg'] as const
@@ -223,8 +223,21 @@ const COPY: Record<string, RouteCopy> = {
   },
 }
 
+function buildSticky(locale: string): StickyConfig {
+  const address = encodeURIComponent('Geneva Zurich Munich Salzburg')
+  const href = `https://www.stay22.com/allez/roam?aid=${STAY22_AID}&campaign=alpes-sticky&address=${address}`
+  const labels: Record<string, string> = {
+    en: 'Pet-friendly hotels Alpine route',
+    fr: `Hôtels pet-friendly route alpine`,
+    es: 'Hoteles pet-friendly ruta alpina',
+    pt: `Hotéis pet-friendly rota alpina`,
+  }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver' }
+  return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
+}
+
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
-  return <CityTripGuide slug={SLUG} routeSlugs={ROUTE_SLUGS} locale={locale} copy={COPY[locale] ?? COPY.en} />
+  return <CityTripGuide slug={SLUG} routeSlugs={ROUTE_SLUGS} locale={locale} copy={COPY[locale] ?? COPY.en} sticky={buildSticky(locale)} />
 }

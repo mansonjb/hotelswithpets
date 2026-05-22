@@ -3,11 +3,13 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, STAY22_AID } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 const SLUG = 'best-dog-beaches-europe-2026'
 
@@ -535,6 +537,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               const cityName = getLocalizedCityName(b.citySlug, dest.name, l)
               const countryName = getLocalizedCountryName(dest.country, l)
               const why = l === 'fr' ? b.whyFr : l === 'es' ? b.whyEs : b.whyEn
+              const proximityLabel =
+                l === 'fr' ? `Où dormir près de ${b.name}` :
+                l === 'es' ? `Dónde dormir cerca de ${b.name}` :
+                l === 'pt' ? `Onde dormir perto de ${b.name}` :
+                `Where to stay near ${b.name}`
               return (
                 <li key={b.rank} className="rounded-xl border border-gray-200 bg-white shadow-sm transition hover:shadow-md">
                   <Link href={`/${l}/destinations/${b.citySlug}`} className="flex flex-col sm:flex-row">
@@ -554,6 +561,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       <p className="text-sm leading-relaxed text-gray-700">{why}</p>
                     </div>
                   </Link>
+                  <div className="px-5 pb-5 sm:pl-56">
+                    <NearbyHotelCard destinationSlug={b.citySlug} locale={l} variant="compact" proximityLabel={proximityLabel} />
+                  </div>
                 </li>
               )
             })}
@@ -590,6 +600,17 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         <GuideFooter locale={l} currentSlug={SLUG} />
       </article>
+
+      <StickyHotelCTA
+        href={`https://www.stay22.com/allez/roam?aid=${STAY22_AID}&campaign=best-beaches-europe-sticky&address=${encodeURIComponent('Europe')}`}
+        label={
+          l === 'fr' ? `Hôtels pet-friendly dans toute l'Europe` :
+          l === 'es' ? 'Hoteles pet-friendly en toda Europa' :
+          l === 'pt' ? `Hotéis pet-friendly em toda a Europa` :
+          'Pet-friendly hotels Europe-wide'
+        }
+        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : 'View'}
+      />
     </>
   )
 }

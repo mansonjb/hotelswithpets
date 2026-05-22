@@ -3,11 +3,13 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { hasLocale } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, STAY22_AID } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 const SLUG = 'fenced-dog-parks-europe'
 
@@ -1021,6 +1023,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               const cityName = getLocalizedCityName(p.citySlug, dest.name, l)
               const countryName = getLocalizedCountryName(dest.country, l)
               const desc = l === 'fr' ? p.descFr : l === 'es' ? p.descEs : p.descEn
+              const proximityLabel =
+                l === 'fr' ? `Où dormir près de ${p.name}` :
+                l === 'es' ? `Dónde dormir cerca de ${p.name}` :
+                l === 'pt' ? `Onde dormir perto de ${p.name}` :
+                `Where to stay near ${p.name}`
               return (
                 <li key={`${p.citySlug}-${p.name}-${i}`} className="rounded-xl border border-gray-200 bg-white shadow-sm transition hover:shadow-md">
                   <Link href={`/${l}/destinations/${p.citySlug}/parks`} className="flex flex-col sm:flex-row">
@@ -1040,6 +1047,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       <p className="text-sm leading-relaxed text-gray-700">{desc}</p>
                     </div>
                   </Link>
+                  <div className="px-5 pb-5 sm:pl-56">
+                    <NearbyHotelCard destinationSlug={p.citySlug} locale={l} variant="compact" proximityLabel={proximityLabel} />
+                  </div>
                 </li>
               )
             })}
@@ -1071,6 +1081,17 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         <GuideFooter locale={l} currentSlug={SLUG} />
       </article>
+
+      <StickyHotelCTA
+        href={`https://www.stay22.com/allez/roam?aid=${STAY22_AID}&campaign=fenced-parks-sticky&address=${encodeURIComponent('Europe')}`}
+        label={
+          l === 'fr' ? `Hôtels pet-friendly dans les grandes villes européennes` :
+          l === 'es' ? 'Hoteles pet-friendly en grandes ciudades europeas' :
+          l === 'pt' ? `Hotéis pet-friendly nas grandes cidades europeias` :
+          'Pet-friendly hotels in major European cities'
+        }
+        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : 'View'}
+      />
     </>
   )
 }

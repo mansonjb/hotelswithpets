@@ -2,12 +2,28 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
 import { getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const COST_INDEX_PICK_LABELS: Record<string, { cheap: string; exp: string }> = {
+  en: { cheap: 'Book a value pick in the cheapest cities', exp: 'Book a top stay even in the priciest cities' },
+  fr: { cheap: `Réservez un bon plan dans les villes les moins chères`, exp: `Réservez un beau séjour même dans les villes les plus chères` },
+  es: { cheap: 'Reserva una opción económica en las ciudades más baratas', exp: 'Reserva un buen alojamiento incluso en las ciudades más caras' },
+  pt: { cheap: 'Reserve uma opção em conta nas cidades mais baratas', exp: 'Reserve uma boa estadia mesmo nas cidades mais caras' },
+}
+
+const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Compare pet-friendly hotel prices across Europe', cta: 'See hotels' },
+  fr: { label: `Comparez les prix des hôtels pet-friendly en Europe`, cta: 'Voir les hôtels' },
+  es: { label: 'Compara precios de hoteles pet-friendly en Europa', cta: 'Ver hoteles' },
+  pt: { label: 'Compare preços de hotéis pet-friendly em Europa', cta: 'Ver hotéis' },
+}
 
 const SLUG = 'pet-travel-cost-index-europe-2026'
 
@@ -558,6 +574,20 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
+      {/* Book a hotel in one of the cheapest cities */}
+      <section className="py-12 bg-emerald-50/60 border-b border-emerald-100">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h3 className="text-xl lg:text-2xl font-extrabold text-gray-900 mb-5 text-center">
+            🏨 {(COST_INDEX_PICK_LABELS[locale] ?? COST_INDEX_PICK_LABELS.en).cheap}
+          </h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {cheapest10.slice(0, 4).map((r) => (
+              <NearbyHotelCard key={r.slug} destinationSlug={r.slug} locale={locale} variant="compact" />
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Most expensive */}
       <section className="py-12 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -592,6 +622,20 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 ))}
               </tbody>
             </table>
+          </div>
+        </div>
+      </section>
+
+      {/* Book a hotel in one of the priciest cities */}
+      <section className="py-12 bg-rose-50/60 border-b border-rose-100">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h3 className="text-xl lg:text-2xl font-extrabold text-gray-900 mb-5 text-center">
+            🏨 {(COST_INDEX_PICK_LABELS[locale] ?? COST_INDEX_PICK_LABELS.en).exp}
+          </h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {expensive10.slice(0, 4).map((r) => (
+              <NearbyHotelCard key={r.slug} destinationSlug={r.slug} locale={locale} variant="compact" />
+            ))}
           </div>
         </div>
       </section>
@@ -646,6 +690,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       <GuideFooter locale={locale} currentSlug={SLUG} />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'cost-index-sticky')}
+        label={(STICKY_LABELS_COST[locale] ?? STICKY_LABELS_COST.en).label}
+        cta={(STICKY_LABELS_COST[locale] ?? STICKY_LABELS_COST.en).cta}
+      />
     </div>
   )
 }

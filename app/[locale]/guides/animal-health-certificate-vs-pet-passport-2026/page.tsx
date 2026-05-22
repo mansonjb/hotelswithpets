@@ -2,8 +2,17 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_AHC: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly hotels in the UK and EU', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly au Royaume-Uni et en UE`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly en Reino Unido y UE', cta: 'Ver hoteles' },
+  pt: { label: 'Hotéis pet-friendly no Reino Unido e UE', cta: 'Ver hotéis' },
+}
 
 const SLUG = 'animal-health-certificate-vs-pet-passport-2026'
 
@@ -660,7 +669,19 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['london', 'edinburgh', 'dublin', 'paris', 'amsterdam', 'brussels']}
+        campaign="ahc"
+      />
+
       <GuideFooter locale={locale} currentSlug={SLUG} />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'ahc-sticky')}
+        label={(STICKY_LABELS_AHC[locale] ?? STICKY_LABELS_AHC.en).label}
+        cta={(STICKY_LABELS_AHC[locale] ?? STICKY_LABELS_AHC.en).cta}
+      />
     </div>
   )
 }

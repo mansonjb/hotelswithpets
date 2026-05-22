@@ -3,13 +3,22 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../../_components/GuideFooter'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import Stay22Map from '@/components/Stay22Map'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_BYMONTH: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly hotels in our top picks this month', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly dans nos meilleurs choix du mois`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly en nuestros destinos del mes', cta: 'Ver hoteles' },
+  pt: { label: 'Hotéis pet-friendly nos nossos destinos do mês', cta: 'Ver hotéis' },
+}
 
 type MonthKey = 'january' | 'february' | 'march' | 'april' | 'may' | 'june' | 'july' | 'august' | 'september' | 'october' | 'november' | 'december'
 
@@ -363,7 +372,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         <span className="text-sm text-gray-500">{localCountry}</span>
                       </div>
                       <p className="text-gray-700 leading-relaxed mb-5">{p.reason}</p>
-                      <div className="flex flex-wrap items-center gap-3 text-sm">
+                      <NearbyHotelCard destinationSlug={p.dest.slug} locale={locale} variant="compact" />
+                      <div className="flex flex-wrap items-center gap-3 text-sm mt-4">
                         <span className="bg-amber-50 text-amber-800 px-3 py-1 rounded-full font-semibold">
                           {p.weather.icon} {c.weatherLabel}: {p.weather.temp}°C
                         </span>
@@ -451,6 +461,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       <GuideFooter locale={locale} currentSlug={`dog-friendly-europe-by-month/${month}`} />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'by-month-sticky')}
+        label={(STICKY_LABELS_BYMONTH[locale] ?? STICKY_LABELS_BYMONTH.en).label}
+        cta={(STICKY_LABELS_BYMONTH[locale] ?? STICKY_LABELS_BYMONTH.en).cta}
+      />
     </div>
   )
 }

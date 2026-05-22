@@ -3,7 +3,16 @@ import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_HOTEL: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Top-rated pet-friendly hotels in Europe', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly les mieux notés d'Europe`, cta: 'Voir les hôtels' },
+  es: { label: 'Los hoteles pet-friendly mejor valorados de Europa', cta: 'Ver hoteles' },
+  pt: { label: 'Os hotéis pet-friendly melhor avaliados de Europa', cta: 'Ver hotéis' },
+}
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -1075,6 +1084,18 @@ export default async function HotelPetFriendlyGuidePage({
 
         </div>
       </div>
+
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['florence', 'tallinn', 'ljubljana', 'venice', 'lyon', 'porto']}
+        campaign="hotel-guide"
+      />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'hotel-guide-sticky')}
+        label={(STICKY_LABELS_HOTEL[locale] ?? STICKY_LABELS_HOTEL.en).label}
+        cta={(STICKY_LABELS_HOTEL[locale] ?? STICKY_LABELS_HOTEL.en).cta}
+      />
     </>
   )
 }

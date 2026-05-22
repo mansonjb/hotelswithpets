@@ -3,7 +3,16 @@ import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_TRAIN: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly hotels near major rail hubs', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly près des grandes gares européennes`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly cerca de las principales estaciones', cta: 'Ver hoteles' },
+  pt: { label: `Hotéis pet-friendly perto das principais estações ferroviárias`, cta: 'Ver hotéis' },
+}
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -1113,6 +1122,18 @@ export default async function TrainAvecChienPage({
 
         </div>
       </div>
+
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['paris', 'brussels', 'amsterdam', 'berlin', 'milan', 'madrid']}
+        campaign="train"
+      />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'train-sticky')}
+        label={(STICKY_LABELS_TRAIN[locale] ?? STICKY_LABELS_TRAIN.en).label}
+        cta={(STICKY_LABELS_TRAIN[locale] ?? STICKY_LABELS_TRAIN.en).cta}
+      />
     </>
   )
 }

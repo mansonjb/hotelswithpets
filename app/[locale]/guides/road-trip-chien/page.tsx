@@ -3,7 +3,16 @@ import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_ROAD: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly road trip bases in Europe', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly pour road trip en Europe`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly para road trips en Europa', cta: 'Ver hoteles' },
+  pt: { label: 'Hotéis pet-friendly para road trips em Europa', cta: 'Ver hotéis' },
+}
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -1147,6 +1156,18 @@ export default async function RoadTripChienPage({
 
         </div>
       </div>
+
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['bordeaux', 'marseille', 'geneva', 'munich', 'florence', 'salzburg']}
+        campaign="road-trip"
+      />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'road-trip-sticky')}
+        label={(STICKY_LABELS_ROAD[locale] ?? STICKY_LABELS_ROAD.en).label}
+        cta={(STICKY_LABELS_ROAD[locale] ?? STICKY_LABELS_ROAD.en).cta}
+      />
     </>
   )
 }

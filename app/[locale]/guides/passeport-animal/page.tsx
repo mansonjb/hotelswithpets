@@ -3,7 +3,16 @@ import { GuideFooter } from '../_components/GuideFooter'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_PASSEPORT: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly stays across Europe', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly en Europe`, cta: 'Voir les hôtels' },
+  es: { label: 'Alojamientos pet-friendly en Europa', cta: 'Ver hoteles' },
+  pt: { label: 'Estadias pet-friendly em Europa', cta: 'Ver hotéis' },
+}
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -1449,6 +1458,18 @@ export default async function PetPassportGuidePage({
 
         </div>
       </div>
+
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['paris', 'amsterdam', 'london', 'barcelona', 'rome', 'lisbon']}
+        campaign="passeport"
+      />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'passeport-sticky')}
+        label={(STICKY_LABELS_PASSEPORT[locale] ?? STICKY_LABELS_PASSEPORT.en).label}
+        cta={(STICKY_LABELS_PASSEPORT[locale] ?? STICKY_LABELS_PASSEPORT.en).cta}
+      />
     </>
   )
 }

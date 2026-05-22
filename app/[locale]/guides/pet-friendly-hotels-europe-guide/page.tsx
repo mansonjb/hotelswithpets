@@ -2,8 +2,17 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
+import TopHotelsStrip from '@/components/TopHotelsStrip'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STICKY_LABELS_HOTELS_EU: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly hotels across Europe, live prices', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly en Europe, prix en direct`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly en Europa, precios en directo', cta: 'Ver hoteles' },
+  pt: { label: 'Hotéis pet-friendly em Europa, preços em directo', cta: 'Ver hotéis' },
+}
 import { getLocalizedCountryName, getAllCountries } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
@@ -941,7 +950,19 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
+      <TopHotelsStrip
+        locale={locale}
+        destinationSlugs={['paris', 'amsterdam', 'london', 'barcelona', 'rome', 'lisbon']}
+        campaign="hotels-eu"
+      />
+
       <GuideFooter locale={locale} currentSlug={SLUG} />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('Europe', 'Europe', 'hotels-eu-sticky')}
+        label={(STICKY_LABELS_HOTELS_EU[locale] ?? STICKY_LABELS_HOTELS_EU.en).label}
+        cta={(STICKY_LABELS_HOTELS_EU[locale] ?? STICKY_LABELS_HOTELS_EU.en).cta}
+      />
     </div>
   )
 }

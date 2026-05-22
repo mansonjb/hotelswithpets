@@ -2,8 +2,24 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
+
+const STAY_TITLES_EUROSTAR: Record<string, string> = {
+  en: 'Where to stay: pet-friendly hotels on every Eurostar route',
+  fr: `Où dormir : hôtels pet-friendly sur chaque itinéraire Eurostar`,
+  es: `Dónde dormir: hoteles pet-friendly en cada ruta Eurostar`,
+  pt: `Onde dormir: hotéis pet-friendly em cada rota Eurostar`,
+}
+
+const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
+  en: { label: 'Pet-friendly hotels in London and Paris', cta: 'See hotels' },
+  fr: { label: `Hôtels pet-friendly à Londres et Paris`, cta: 'Voir les hôtels' },
+  es: { label: 'Hoteles pet-friendly en Londres y París', cta: 'Ver hoteles' },
+  pt: { label: 'Hotéis pet-friendly em Londres e Paris', cta: 'Ver hotéis' },
+}
 
 const SLUG = 'eurostar-with-dog'
 
@@ -384,6 +400,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </article>
 
+      {/* Where to stay: pet-friendly hotels at each Eurostar route end */}
+      <section className="py-12 bg-white border-y border-gray-100">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-6 text-center">
+            🏨 {STAY_TITLES_EUROSTAR[locale] ?? STAY_TITLES_EUROSTAR.en}
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            <NearbyHotelCard destinationSlug="london" locale={locale} variant="compact" />
+            <NearbyHotelCard destinationSlug="paris" locale={locale} variant="compact" />
+            <NearbyHotelCard destinationSlug="brussels" locale={locale} variant="compact" />
+            <NearbyHotelCard destinationSlug="amsterdam" locale={locale} variant="compact" />
+          </div>
+        </div>
+      </section>
+
       {/* Comparison table */}
       <section className="py-12 bg-gray-50 border-y border-gray-100">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -441,6 +472,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       <GuideFooter locale={locale} currentSlug={SLUG} />
+
+      <StickyHotelCTA
+        href={buildAllezDestLink('London', 'United Kingdom', 'eurostar-sticky')}
+        label={(STICKY_LABELS_EUROSTAR[locale] ?? STICKY_LABELS_EUROSTAR.en).label}
+        cta={(STICKY_LABELS_EUROSTAR[locale] ?? STICKY_LABELS_EUROSTAR.en).cta}
+      />
     </div>
   )
 }

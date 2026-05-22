@@ -226,6 +226,82 @@
     "iata": "AJA"
   },
   {
+    "slug": "alicante",
+    "name": "Alicante",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/alicante.jpg",
+    "intro": "Alicante is the sun-drenched capital of the Costa Blanca, a Mediterranean port crowned by the Castillo de Santa Bárbara with 320+ days of sunshine, the palm-lined Explanada de España, the year-round dog beach of Agua Amarga, and an easy TRAM north to Benidorm — one of Spain's most genuinely pet-friendly coastal bases.",
+    "lat": 38.3452,
+    "lng": -0.481,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild, sunny winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild, mostly sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm, dry",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm, very sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Very hot, dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Very hot, dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, golden",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild, sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild, occasional rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "ALC",
+    "tiqetsId": "66088"
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",

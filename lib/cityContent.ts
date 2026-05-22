@@ -371,6 +371,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  alicante: {
+    history: {
+      fr: `Alicante, capitale de la province éponyme et l'une des plus grandes villes de la Costa Blanca (335 000 habitants), s'étire au pied du mont Benacantil couronné par le Castillo de Santa Bárbara, forteresse arabe du IXe siècle puis place forte chrétienne après la Reconquista de 1248. Le port méditerranéen, fondé par les Romains sous le nom de Lucentum, est aujourd'hui dominé par l'Explanada de España bordée de 6 600 carreaux de marbre rouge, blanc et noir formant un motif ondulant face à la marina. Pour les propriétaires de chiens, Alicante est l'une des bases les plus authentiquement pet-friendly de la côte espagnole : climat méditerranéen avec 320+ jours de soleil par an, hivers très doux (12–13°C en janvier), Playa de Agua Amarga officiellement désignée plage canine à l'année — l'une des rares en Espagne — Serra Grossa coastal walk avec vues sur le golfe, et un réseau TRAM Metropolitano qui file vers le nord jusqu'à Benidorm. La culture levantine est foncièrement accueillante aux animaux dans les terrasses du Casco Antiguo (Santa Cruz) et de l'Explanada, et l'aéroport international ALC à 9 km à l'ouest est l'un des hubs low-cost majeurs d'Europe du Sud.`,
+      en: `Alicante, capital of its eponymous province and one of the Costa Blanca's largest cities (335,000 inhabitants), stretches at the foot of Mount Benacantil crowned by the Castillo de Santa Bárbara, a 9th-century Moorish fortress turned Christian stronghold after the 1248 Reconquista. The Mediterranean port, founded by the Romans as Lucentum, is today dominated by the Explanada de España paved with 6,600 red, white and black marble tiles arranged in a wave pattern facing the marina. For dog owners, Alicante is one of the most genuinely pet-friendly bases on the Spanish coast: Mediterranean climate with 320+ days of sunshine a year, very mild winters (12–13°C in January), Playa de Agua Amarga officially designated as a year-round dog beach — one of the few in Spain — Serra Grossa coastal walk with views over the gulf, and a TRAM Metropolitano network running north as far as Benidorm. The Levantine culture is deeply welcoming to pets on the terraces of the Casco Antiguo (Santa Cruz) and the Explanada, and the international ALC airport 9 km west is one of southern Europe's major low-cost hubs.`,
+      es: `Alicante, capital de su provincia homónima y una de las mayores ciudades de la Costa Blanca (335.000 habitantes), se extiende al pie del monte Benacantil coronado por el Castillo de Santa Bárbara, fortaleza árabe del siglo IX convertida en plaza fuerte cristiana tras la Reconquista de 1248. El puerto mediterráneo, fundado por los romanos como Lucentum, hoy está dominado por la Explanada de España pavimentada con 6.600 baldosas de mármol rojo, blanco y negro formando un patrón ondulante frente a la marina. Para los dueños de perros, Alicante es una de las bases más genuinamente pet-friendly de la costa española: clima mediterráneo con más de 320 días de sol al año, inviernos muy suaves (12–13°C en enero), Playa de Agua Amarga oficialmente designada como playa canina todo el año — una de las pocas en España — paseo costero de la Serra Grossa con vistas sobre el golfo, y una red TRAM Metropolitano que sube hasta Benidorm por el norte. La cultura levantina es profundamente acogedora con los animales en las terrazas del Casco Antiguo (Santa Cruz) y de la Explanada, y el aeropuerto internacional ALC a 9 km al oeste es uno de los grandes hubs de bajo coste del sur de Europa.`,
+      pt: `Alicante, capital da sua província homónima e uma das maiores cidades da Costa Blanca (335 000 habitantes), estende-se ao pé do monte Benacantil coroado pelo Castillo de Santa Bárbara, fortaleza moura do século IX convertida em praça-forte cristã após a Reconquista de 1248. O porto mediterrânico, fundado pelos romanos como Lucentum, é hoje dominado pela Explanada de España pavimentada com 6 600 ladrilhos de mármore vermelho, branco e preto formando um padrão ondulado em frente à marina. Para os donos de cães, Alicante é uma das bases mais genuinamente pet-friendly da costa espanhola: clima mediterrânico com mais de 320 dias de sol por ano, invernos muito suaves (12–13°C em janeiro), Playa de Agua Amarga oficialmente designada como praia canina o ano inteiro — uma das poucas em Espanha — passeio costeiro da Serra Grossa com vistas sobre o golfo, e uma rede TRAM Metropolitano que sobe até Benidorm pelo norte. A cultura levantina é profundamente acolhedora com os animais nas esplanadas do Casco Antiguo (Santa Cruz) e da Explanada, e o aeroporto internacional ALC a 9 km a oeste é um dos grandes hubs low-cost do sul da Europa.`,
+    },
+    sights: [
+      { name: 'Castillo de Santa Bárbara', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse arabe du IXe siècle au sommet du mont Benacantil (166 m), accessible à pied par le sentier sud ou par ascenseur depuis la Playa del Postiguet. Chiens autorisés en laisse sur tout l'extérieur et les remparts, mais pas dans les salles du musée intérieur.`,
+        en: `9th-century Moorish fortress atop Mount Benacantil (166 m), reachable on foot via the south trail or by elevator from Playa del Postiguet. Leashed dogs allowed on all outdoor paths and ramparts, but not inside the museum rooms.`,
+        es: `Fortaleza árabe del siglo IX en la cima del monte Benacantil (166 m), accesible a pie por el sendero sur o en ascensor desde la Playa del Postiguet. Perros con correa permitidos en todos los senderos exteriores y murallas, pero no dentro de las salas del museo.`,
+        pt: `Fortaleza moura do século IX no cimo do monte Benacantil (166 m), acessível a pé pelo trilho sul ou de elevador a partir da Playa del Postiguet. Cães com trela permitidos em todos os trilhos exteriores e muralhas, mas não dentro das salas do museu.`,
+      }},
+      { name: 'Playa de Agua Amarga', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plage canine officielle à l'année à 4 km au sud du centre, l'une des rares en Espagne. Sable doré, 450 m de long, douches et poubelles à déjections, accès par bus TAM ligne 21 ou voiture (parking gratuit). Sans laisse autorisé sur le sable.`,
+        en: `Official year-round dog beach 4 km south of the centre, one of the few in Spain. Golden sand, 450 m long, dog showers and waste bins, accessible by TAM bus line 21 or car (free parking). Off-leash permitted on the sand.`,
+        es: `Playa canina oficial todo el año a 4 km al sur del centro, una de las pocas de España. Arena dorada, 450 m de longitud, duchas y papeleras para deyecciones, accesible en autobús TAM línea 21 o coche (aparcamiento gratuito). Sin correa permitido en la arena.`,
+        pt: `Praia canina oficial o ano inteiro a 4 km a sul do centro, uma das poucas em Espanha. Areia dourada, 450 m de comprimento, chuveiros para cães e recipientes para dejetos, acessível de autocarro TAM linha 21 ou de carro (estacionamento gratuito). Sem trela permitido na areia.`,
+      }},
+      { name: 'Explanada de España', emoji: '🌴', petFriendly: true, desc: {
+        fr: `Promenade emblématique de 500 m face à la marina, pavée de 6 600 carreaux de marbre rouge, blanc et noir en motif ondulant, bordée de quatre rangées de palmiers. Chiens en laisse les bienvenus à toute heure, terrasses pet-friendly tout au long.`,
+        en: `Iconic 500 m seafront promenade facing the marina, paved with 6,600 red, white and black marble tiles in a wave pattern, lined by four rows of palm trees. Leashed dogs welcome at all hours, pet-friendly terraces throughout.`,
+        es: `Emblemático paseo marítimo de 500 m frente a la marina, pavimentado con 6.600 baldosas de mármol rojo, blanco y negro en patrón ondulante, bordeado por cuatro hileras de palmeras. Perros con correa bienvenidos a cualquier hora, terrazas pet-friendly en todo el recorrido.`,
+        pt: `Emblemático passeio marítimo de 500 m em frente à marina, pavimentado com 6 600 ladrilhos de mármore vermelho, branco e preto em padrão ondulado, ladeado por quatro filas de palmeiras. Cães com trela bem-vindos a qualquer hora, esplanadas pet-friendly em todo o percurso.`,
+      }},
+      { name: 'Serra Grossa', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Petite chaîne côtière de 3 km entre la ville et la Playa de San Juan, ancien site de carrières aujourd'hui chemin de randonnée balisé. Vues panoramiques sur le golfe d'Alicante, chiens en laisse, peu d'ombre — éviter entre 11h et 17h en été.`,
+        en: `Small 3 km coastal ridge between the city and Playa de San Juan, a former quarry site turned waymarked hiking trail. Panoramic views over the Gulf of Alicante, leashed dogs, little shade — avoid between 11:00 and 17:00 in summer.`,
+        es: `Pequeña sierra costera de 3 km entre la ciudad y la Playa de San Juan, antiguo sitio de canteras hoy sendero balizado. Vistas panorámicas sobre el golfo de Alicante, perros con correa, poca sombra — evitar entre 11:00 y 17:00 en verano.`,
+        pt: `Pequena serra costeira de 3 km entre a cidade e a Playa de San Juan, antigo local de pedreiras hoje trilho sinalizado. Vistas panorâmicas sobre o golfo de Alicante, cães com trela, pouca sombra — evitar entre 11:00 e 17:00 no verão.`,
+      }},
+      { name: 'Parque El Palmeral', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Vaste parc municipal de 11 ha à 3 km au sud, palmeraie ombragée avec lacs artificiels, ruisseaux et aires de pique-nique. Chiens en laisse partout, zone canine sans laisse au nord du parc avec barrière complète et arrosage automatique.`,
+        en: `Large 11 ha municipal park 3 km south, a shaded palm grove with artificial lakes, streams and picnic areas. Leashed dogs throughout, fully fenced off-leash dog zone in the north section with automatic watering.`,
+        es: `Amplio parque municipal de 11 ha a 3 km al sur, palmeral sombreado con lagos artificiales, arroyos y áreas de picnic. Perros con correa en todo el recinto, zona canina sin correa en el norte del parque totalmente vallada con riego automático.`,
+        pt: `Amplo parque municipal de 11 ha a 3 km a sul, palmeiral sombreado com lagos artificiais, ribeiros e áreas de piquenique. Cães com trela em todo o recinto, zona canina sem trela na zona norte do parque totalmente vedada com rega automática.`,
+      }},
+      { name: 'Barrio de Santa Cruz', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Vieille ville historique adossée au mont Benacantil, ruelles blanchies à la chaux, escaliers fleuris et façades couvertes de bougainvilliers. Très pet-friendly aux terrasses des bars à tapas, escaliers raides à éviter aux heures les plus chaudes.`,
+        en: `Historic old town clinging to Mount Benacantil, whitewashed alleys, flower-decked stairways and façades draped in bougainvillea. Very pet-friendly on the tapas bar terraces, steep stairs best avoided in the hottest hours.`,
+        es: `Casco antiguo histórico encaramado al monte Benacantil, callejones encalados, escaleras floridas y fachadas cubiertas de buganvillas. Muy pet-friendly en las terrazas de los bares de tapas, escaleras empinadas a evitar en las horas más calurosas.`,
+        pt: `Centro histórico encostado ao monte Benacantil, ruelas caiadas, escadarias floridas e fachadas cobertas de buganvílias. Muito pet-friendly nas esplanadas dos bares de tapas, escadarias íngremes a evitar nas horas mais quentes.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale brutale : 28–30°C en moyenne de juin à septembre, sol qui dépasse 50°C l'après-midi sur l'Explanada en marbre. Promenez avant 9h et après 20h, et testez le sol avec la main 5 secondes — si vous ne tenez pas, le chien non plus.`,
+        `Plages avec interdiction estivale : Playa del Postiguet et Playa de San Juan interdites aux chiens du 1er mai au 1er octobre, amende municipale jusqu'à 300 €. Année entière autorisée : Playa de Agua Amarga uniquement, 4 km au sud par bus TAM 21.`,
+        `TRAM Metropolitano d'Alacant : chiens <10 kg en caisse fermée gratuits, plus grands en laisse + muselière à la discrétion du conducteur (généralement OK hors heures de pointe). Ligne 1 vers Benidorm-Dénia très scénique.`,
+        `Bus urbain TAM (Vectalia) : chiens <10 kg en caisse autorisés gratuitement, grands chiens muselés interdits sauf chien d'assistance. Trajet aéroport ALC ligne C-6 (3,85 €) accepte petits chiens en caisse.`,
+        `Vétérinaire 24h/24 : Hospital Veterinario Alicante au Polígono Pla de la Vallonga (+34 965 109 044, www.hospitalveterinarioalicante.es) couvre l'agglomération, comptez 10 min en taxi depuis le centre. Pas de service municipal d'animaux errants la nuit.`,
+      ],
+      en: [
+        `Brutal summer heat: 28–30°C averages from June to September, ground exceeds 50°C in the afternoon on the marble Explanada. Walk before 09:00 and after 20:00, and test the ground with your hand for 5 seconds — if you can't hold it, neither can the dog.`,
+        `Beaches with summer ban: Playa del Postiguet and Playa de San Juan banned to dogs from 1 May to 1 October, municipal fine up to €300. Year-round permitted: Playa de Agua Amarga only, 4 km south via TAM bus 21.`,
+        `TRAM Metropolitano d'Alacant: dogs <10 kg in closed carriers free, larger dogs leashed + muzzled at the driver's discretion (usually fine off-peak). Line 1 to Benidorm-Denia is highly scenic.`,
+        `TAM city bus (Vectalia): dogs <10 kg in carriers free, large muzzled dogs not allowed except service dogs. Airport ALC line C-6 (€3.85) accepts small dogs in carriers.`,
+        `24/7 emergency vet: Hospital Veterinario Alicante in Polígono Pla de la Vallonga (+34 965 109 044, www.hospitalveterinarioalicante.es) covers the metro area, about 10 min by taxi from the centre. No municipal stray service at night.`,
+      ],
+      es: [
+        `Calor estival brutal: 28–30°C de media de junio a septiembre, el suelo supera 50°C por la tarde en la Explanada de mármol. Pasea antes de las 09:00 y después de las 20:00, y prueba el suelo con la mano durante 5 segundos — si no aguantas, tu perro tampoco.`,
+        `Playas con prohibición estival: Playa del Postiguet y Playa de San Juan prohibidas a los perros del 1 de mayo al 1 de octubre, multa municipal hasta 300 €. Permitidas todo el año: Playa de Agua Amarga únicamente, 4 km al sur en autobús TAM 21.`,
+        `TRAM Metropolitano d'Alacant: perros <10 kg en transportín cerrado gratis, más grandes con correa + bozal a discreción del conductor (habitualmente OK fuera de horas punta). Línea 1 hacia Benidorm-Denia muy escénica.`,
+        `Autobús urbano TAM (Vectalia): perros <10 kg en transportín gratis, perros grandes con bozal no permitidos salvo perros de asistencia. Trayecto aeropuerto ALC línea C-6 (3,85 €) acepta perros pequeños en transportín.`,
+        `Veterinario 24/7: Hospital Veterinario Alicante en Polígono Pla de la Vallonga (+34 965 109 044, www.hospitalveterinarioalicante.es) cubre la conurbación, unos 10 min en taxi desde el centro. Sin servicio municipal de animales perdidos por la noche.`,
+      ],
+      pt: [
+        `Calor estival brutal: 28–30°C de média de junho a setembro, o solo supera os 50°C à tarde na Explanada de mármore. Passeie antes das 09:00 e depois das 20:00, e teste o solo com a mão durante 5 segundos — se não aguenta, o seu cão também não.`,
+        `Praias com proibição estival: Playa del Postiguet e Playa de San Juan proibidas a cães de 1 de maio a 1 de outubro, multa municipal até 300 €. Permitidas o ano inteiro: Playa de Agua Amarga apenas, 4 km a sul de autocarro TAM 21.`,
+        `TRAM Metropolitano d'Alacant: cães <10 kg em transportadora fechada grátis, maiores com trela + açaime à discrição do condutor (habitualmente OK fora das horas de ponta). Linha 1 para Benidorm-Denia muito cénica.`,
+        `Autocarro urbano TAM (Vectalia): cães <10 kg em transportadora grátis, cães grandes com açaime não permitidos salvo cães de assistência. Trajeto aeroporto ALC linha C-6 (3,85 €) aceita cães pequenos em transportadora.`,
+        `Veterinário 24/7: Hospital Veterinario Alicante no Polígono Pla de la Vallonga (+34 965 109 044, www.hospitalveterinarioalicante.es) cobre a área metropolitana, cerca de 10 min de táxi a partir do centro. Sem serviço municipal de animais perdidos à noite.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport ALC Alicante-Elche à 9 km à l'ouest, l'un des principaux hubs low-cost d'Europe du Sud (Ryanair, easyJet, Vueling). Bus ligne C-6 (3,85 €, petits chiens en caisse acceptés) toutes les 20 min vers le centre, taxi 25–30 €.`,
+        `TRAM Metropolitano d'Alacant : light-rail moderne traversant la ville et filant vers le nord jusqu'à Benidorm (1h05) puis Dénia (2h15). Chiens <10 kg en caisse gratuits, plus grands muselés en heures creuses.`,
+        `Renfe Cercanías ligne C-1 vers Murcia (1h20) et trains AVE Madrid–Alicante (2h30) ou Barcelone–Alicante (4h45). Petits chiens en caisse gratuits, grands chiens muselés autorisés sur AVE (10 € supplément).`,
+        `ALSA buses interurbains depuis la gare routière vers Valence (2h30), Murcie (1h15), Calpe (1h15), Almería (4h) — petits chiens en caisse gratuits, grands chiens à la discrétion du conducteur.`,
+        `Passeport européen pour animaux exigé pour tous les voyageurs UE (puce électronique + rage en cours de validité). Voyageurs Royaume-Uni post-Brexit : Animal Health Certificate (AHC) valable 4 mois maximum, à demander chez vétérinaire 10 jours avant le départ.`,
+      ],
+      en: [
+        `Alicante-Elche airport (ALC) 9 km west, one of southern Europe's major low-cost hubs (Ryanair, easyJet, Vueling). Bus line C-6 (€3.85, small dogs in carriers accepted) every 20 min to the centre, taxi €25–30.`,
+        `TRAM Metropolitano d'Alacant: modern light rail crossing the city and running north to Benidorm (1h05) then Denia (2h15). Dogs <10 kg in carriers free, larger dogs muzzled off-peak.`,
+        `Renfe Cercanías line C-1 to Murcia (1h20) and AVE high-speed trains Madrid–Alicante (2h30) or Barcelona–Alicante (4h45). Small carrier dogs free, large muzzled dogs allowed on AVE (€10 supplement).`,
+        `ALSA intercity coaches from the bus station to Valencia (2h30), Murcia (1h15), Calpe (1h15), Almería (4h) — small carrier dogs free, large dogs at the driver's discretion.`,
+        `EU pet passport required for all EU travellers (microchip + rabies in date). UK post-Brexit travellers: Animal Health Certificate (AHC) valid for max 4 months, request from your vet 10 days before departure.`,
+      ],
+      es: [
+        `Aeropuerto Alicante-Elche (ALC) a 9 km al oeste, uno de los principales hubs de bajo coste del sur de Europa (Ryanair, easyJet, Vueling). Autobús línea C-6 (3,85 €, perros pequeños en transportín aceptados) cada 20 min al centro, taxi 25–30 €.`,
+        `TRAM Metropolitano d'Alacant: tren ligero moderno que atraviesa la ciudad y sube al norte hasta Benidorm (1h05) y luego Denia (2h15). Perros <10 kg en transportín gratis, más grandes con bozal en horas valle.`,
+        `Renfe Cercanías línea C-1 hacia Murcia (1h20) y trenes AVE Madrid–Alicante (2h30) o Barcelona–Alicante (4h45). Perros pequeños en transportín gratis, perros grandes con bozal permitidos en AVE (suplemento 10 €).`,
+        `Autobuses interurbanos ALSA desde la estación de autobuses a Valencia (2h30), Murcia (1h15), Calpe (1h15), Almería (4h) — perros pequeños en transportín gratis, perros grandes a discreción del conductor.`,
+        `Pasaporte europeo para animales exigido a todos los viajeros UE (microchip + rabia en vigor). Viajeros Reino Unido post-Brexit: Animal Health Certificate (AHC) válido 4 meses máximo, a solicitar al veterinario 10 días antes del viaje.`,
+      ],
+      pt: [
+        `Aeroporto Alicante-Elche (ALC) a 9 km a oeste, um dos principais hubs low-cost do sul da Europa (Ryanair, easyJet, Vueling). Autocarro linha C-6 (3,85 €, cães pequenos em transportadora aceites) cada 20 min para o centro, táxi 25–30 €.`,
+        `TRAM Metropolitano d'Alacant: comboio ligeiro moderno que atravessa a cidade e sobe a norte até Benidorm (1h05) e depois Denia (2h15). Cães <10 kg em transportadora grátis, maiores com açaime nas horas vazias.`,
+        `Renfe Cercanías linha C-1 para Murcia (1h20) e comboios AVE Madrid–Alicante (2h30) ou Barcelona–Alicante (4h45). Cães pequenos em transportadora grátis, cães grandes com açaime permitidos no AVE (suplemento 10 €).`,
+        `Autocarros interurbanos ALSA da estação rodoviária para Valência (2h30), Murcia (1h15), Calpe (1h15), Almería (4h) — cães pequenos em transportadora grátis, cães grandes à discrição do condutor.`,
+        `Passaporte europeu para animais exigido a todos os viajantes UE (microchip + raiva em vigor). Viajantes Reino Unido pós-Brexit: Animal Health Certificate (AHC) válido 4 meses máximo, a solicitar ao veterinário 10 dias antes da viagem.`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel, d'où son nom, Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture, et cela vaut aussi pour les chiens, bienvenus dans les cafés, les terrasses et même les transports em commun.`,

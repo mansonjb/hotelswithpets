@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Sentier des Crêtes ridge walk, the Pointe de la Parata and Sanguinaires islands, and the year-round dog beach of Capo di Feno`,
       area: `the Quartier des Étrangers around the Cours Grandval, the Vieille Ville around the Maison Bonaparte, and the marina-front Quai Napoléon`,
     },
+    alicante: {
+      personality: `the sun-drenched capital of the Costa Blanca with 320+ days of sunshine a year, where the Castillo de Santa Bárbara, the palm-lined Explanada and the year-round Agua Amarga dog beach make it one of Spain's most genuinely pet-friendly Mediterranean bases`,
+      highlight: `the Castillo de Santa Bárbara outdoor paths, Playa de Agua Amarga (year-round dog beach), and the Serra Grossa coastal walk`,
+      area: `the Casco Antiguo (Santa Cruz) under the castle, the Explanada de España seafront, and the Playa de San Juan promenade north of the city`,
+    },
     amsterdam: {
       personality: 'one of Europe\'s most relaxed and pet-welcoming capitals',
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
@@ -774,6 +779,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Sentier des Crêtes, la Pointe de la Parata et les îles Sanguinaires, et la plage canine toute l'année de Capo di Feno`,
       area: `le Quartier des Étrangers autour du Cours Grandval, la Vieille Ville autour de la Maison Bonaparte, et le Quai Napoléon face au port`,
     },
+    alicante: {
+      personality: `la capitale ensoleillée de la Costa Blanca avec plus de 320 jours de soleil par an, où le Castillo de Santa Bárbara, l'Explanada bordée de palmiers et la plage canine à l'année d'Agua Amarga en font l'une des bases méditerranéennes les plus authentiquement pet-friendly d'Espagne`,
+      highlight: `les sentiers extérieurs du Castillo de Santa Bárbara, la Playa de Agua Amarga (plage canine à l'année), et la balade côtière de la Serra Grossa`,
+      area: `le Casco Antiguo (Santa Cruz) au pied du château, l'Explanada de España en bord de mer, et la promenade de Playa de San Juan au nord de la ville`,
+    },
     amsterdam: {
       personality: 'l\'une des capitales les plus décontractées et accueillantes pour les animaux d\'Europe',
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
@@ -1511,6 +1521,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Sentier des Crêtes, la Pointe de la Parata y las islas Sanguinaires, y la playa canina todo el año de Capo di Feno`,
       area: `el Quartier des Étrangers en torno al Cours Grandval, la Vieille Ville en torno a la Maison Bonaparte, y el Quai Napoléon frente al puerto`,
     },
+    alicante: {
+      personality: `la capital soleada de la Costa Blanca con más de 320 días de sol al año, donde el Castillo de Santa Bárbara, la Explanada bordeada de palmeras y la playa canina todo el año de Agua Amarga la convierten en una de las bases mediterráneas más genuinamente pet-friendly de España`,
+      highlight: `los senderos exteriores del Castillo de Santa Bárbara, la Playa de Agua Amarga (playa canina todo el año), y el paseo costero de la Serra Grossa`,
+      area: `el Casco Antiguo (Santa Cruz) al pie del castillo, la Explanada de España junto al mar, y el paseo de Playa de San Juan al norte de la ciudad`,
+    },
     amsterdam: {
       personality: 'una de las capitales más relajadas y acogedoras con mascotas de Europa',
       highlight: 'el Vondelpark y las orillas sin correa del río Amstel',
@@ -2247,6 +2262,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital ensolarada da Córsega e lugar de nascimento de Napoleão, cidadela genovesa sobre um golfo mediterrâneo resguardado onde os invernos suaves o ano inteiro, os trilhos de cresta pelo maquis, as excursões de barco às Sanguinaires e a praia canina selvagem de Capo di Feno fazem dela a base mais pet-friendly da ilha`,
       highlight: `o Sentier des Crêtes, a Pointe de la Parata e as ilhas Sanguinaires, e a praia canina o ano inteiro de Capo di Feno`,
       area: `o Quartier des Étrangers em torno do Cours Grandval, a Vieille Ville em torno da Maison Bonaparte, e o Quai Napoléon frente ao porto`,
+    },
+    alicante: {
+      personality: `a capital ensolarada da Costa Blanca com mais de 320 dias de sol por ano, onde o Castillo de Santa Bárbara, a Explanada ladeada de palmeiras e a praia canina o ano inteiro de Agua Amarga fazem dela uma das bases mediterrânicas mais genuinamente pet-friendly de Espanha`,
+      highlight: `os trilhos exteriores do Castillo de Santa Bárbara, a Playa de Agua Amarga (praia canina o ano inteiro), e o passeio costeiro da Serra Grossa`,
+      area: `o Casco Antiguo (Santa Cruz) ao pé do castelo, a Explanada de España junto ao mar, e o passeio da Playa de San Juan a norte da cidade`,
     },
     amsterdam: {
       personality: 'uma das capitales mais relajadas e acogedoras com animais de Europa',

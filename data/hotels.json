@@ -372,6 +372,125 @@
     "slug": "kalliste-hotel-ajaccio"
   },
   {
+    "id": "alicante-1",
+    "name": "Hospes Amerigo",
+    "destinationSlug": "alicante",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2400,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hospes-amerigo.html",
+    "petFee": 0,
+    "petPolicy": "Pets are allowed free of charge on request. Set in a restored 18th-century Dominican convent in the Casco Antiguo at the foot of the Castillo de Santa Bárbara, with a rooftop terrace, indoor pool and walking distance to the Explanada and Playa del Postiguet.",
+    "highlights": [
+      "Restored 18th-century Dominican convent in the old town",
+      "Rooftop terrace with castle views and indoor pool",
+      "Walking distance to Explanada and Postiguet beach"
+    ],
+    "slug": "hospes-amerigo"
+  },
+  {
+    "id": "alicante-2",
+    "name": "Eurostars Lucentum",
+    "destinationSlug": "alicante",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3100,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/eurostars-lucentum.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed on request, €25 per stay supplement, max 1 pet per room up to 10 kg. Centrally located on Avenida de Alfonso el Sabio steps from the Mercado Central and a 10-minute walk to the Explanada, with sea-view upper-floor rooms.",
+    "highlights": [
+      "Central location near Mercado Central and Explanada",
+      "Sea views from upper-floor rooms",
+      "5-minute walk to the TRAM Mercado station"
+    ],
+    "slug": "eurostars-lucentum"
+  },
+  {
+    "id": "alicante-3",
+    "name": "Meliá Alicante",
+    "destinationSlug": "alicante",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 5800,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/melia-alicante.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed on request, €25 per night supplement, max 1 pet up to 12 kg, dog bed and bowl provided. Beachfront location directly on Playa del Postiguet between the marina and the foot of the Castillo de Santa Bárbara, with outdoor pool and Explanada steps away.",
+    "highlights": [
+      "Beachfront on Playa del Postiguet under the castle",
+      "Dog bed and bowl provided in pet-friendly rooms",
+      "Outdoor pool and direct access to the Explanada"
+    ],
+    "slug": "melia-alicante"
+  },
+  {
+    "id": "alicante-4",
+    "name": "AC Hotel Alicante by Marriott",
+    "destinationSlug": "alicante",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2600,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ac-alicante.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed on request, €25 per stay supplement, max 1 pet up to 18 kg per room. Modern business-style hotel on Avenida de Elche near the El Corte Inglés and a 15-minute walk to the Castillo de Santa Bárbara, with rooftop pool and full breakfast buffet.",
+    "highlights": [
+      "Rooftop pool with Mediterranean and castle views",
+      "Larger pets up to 18 kg accepted",
+      "15-minute walk to Castillo de Santa Bárbara"
+    ],
+    "slug": "ac-hotel-alicante"
+  },
+  {
+    "id": "alicante-5",
+    "name": "Hotel Mio Cid",
+    "destinationSlug": "alicante",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1900,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/mio-cid.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed on request, €10 per night supplement, max 1 small/medium pet per room. Family-run 3-star in a quiet residential street 600 m from the train station and 10-minute walk to the Mercado Central, the most affordable pet-friendly base in central Alicante.",
+    "highlights": [
+      "Most affordable pet-friendly central option",
+      "Quiet street near the Renfe train station",
+      "Friendly family-run service and helpful pet info"
+    ],
+    "slug": "mio-cid-alicante"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",

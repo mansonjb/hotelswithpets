@@ -1575,6 +1575,34 @@
     "tiqetsId": "67101"
   },
   {
+    "slug": "braga",
+    "name": "Braga",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/braga.jpg",
+    "intro": "Portugal's oldest city and youngest by student population, Braga pairs baroque heritage and Minho green hills with a famously pet-progressive café culture.",
+    "lat": 41.5503,
+    "lng": -8.4200,
+    "weather": {
+      "jan": { "temp": 10, "desc": "Mild & wet", "icon": "🌧️" },
+      "feb": { "temp": 11, "desc": "Mild & wet", "icon": "🌧️" },
+      "mar": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
+      "apr": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
+      "may": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 21, "desc": "Sunny & warm", "icon": "🌤️" },
+      "jul": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
+      "aug": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
+      "sep": { "temp": 22, "desc": "Sunny & warm", "icon": "🌤️" },
+      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
+      "nov": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
+      "dec": { "temp": 10, "desc": "Mild & wet", "icon": "🌧️" }
+    },
+    "iata": "OPO",
+    "tiqetsId": "76598"
+  },
+  {
     "slug": "bratislava",
     "name": "Bratislava",
     "country": "Slovakia",

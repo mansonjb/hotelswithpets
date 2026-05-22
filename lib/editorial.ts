@@ -126,6 +126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
+    braga: {
+      personality: 'Portugal\'s youngest, most student-friendly historic city, where baroque churches, granite squares and pet-progressive terraces meet the Atlantic-cool Minho landscape',
+      highlight: 'the Bom Jesus do Monte forested staircase, Parque da Ponte along the river, and the Mosteiro de Tibães monastery gardens',
+      area: 'the Sé historic quarter, the Sá de Miranda café district, and the leafy university campus zone',
+    },
     bratislava: {
       personality: 'a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests, and the Danube embankments, all on foot from the centre',
       highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
@@ -854,6 +859,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
+    braga: {
+      personality: 'la plus ancienne ville du Portugal et la plus jeune par sa population étudiante, où les escaliers baroques de Bom Jesus, les places de granit du quartier de la Sé et les terrasses ouvertes aux chiens définissent un Minho décontracté et frais',
+      highlight: `l'escalier boisé du Bom Jesus do Monte, le Parque da Ponte le long du Este et les jardins du Mosteiro de Tibães`,
+      area: 'le quartier historique de la Sé, le secteur des cafés de Sá de Miranda et le campus universitaire arboré',
+    },
     bratislava: {
       personality: 'une capitale d\'Europe centrale compacte et abordable où les chiens arpentent les places pavées de la vieille ville, les forêts des Carpates et les berges du Danube, tout à pied depuis le centre',
       highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
@@ -1581,6 +1591,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
       area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
     },
+    braga: {
+      personality: 'la ciudad histórica más antigua de Portugal y la más joven por su población universitaria, donde la escalinata barroca de Bom Jesus, las plazas de granito del barrio de la Sé y las terrazas pet-friendly definen un Minho relajado y fresco',
+      highlight: 'la escalinata boscosa de Bom Jesus do Monte, el Parque da Ponte junto al río Este y los jardines del Monasterio de Tibães',
+      area: 'el casco histórico de la Sé, la zona de cafés de Sá de Miranda y el campus universitario arbolado',
+    },
     bratislava: {
       personality: 'una capital centroeuropea compacta y asequible donde los perros recorren las plazas adoquinadas del casco antiguo, los bosques de los Cárpatos y las riberas del Danubio, todo a pie desde el centro',
       highlight: 'el bosque de Železná Studnička, Sad Janka Kráľa y la ribera de Devín',
@@ -2307,6 +2322,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães pasean pelas esplanadas dos bares de vino do bairro de Chartrons, exploran os muelles do Garona e são bem-vindos en a maioria dos hotéis boutique',
       highlight: 'o Parque Bordelais, os muelles do Garona e o Jardim Público',
       area: 'os Chartrons, Saint-Pierre e o Triángulo de Oro',
+    },
+    braga: {
+      personality: 'a cidade histórica mais antiga de Portugal e a mais jovem pela sua população universitária, onde o escadório barroco de Bom Jesus, as praças graníticas da Sé e as esplanadas pet-friendly definem um Minho descontraído e fresco',
+      highlight: 'o escadório arborizado de Bom Jesus do Monte, o Parque da Ponte ao longo do rio Este e os jardins do Mosteiro de Tibães',
+      area: 'a Sé histórica, a zona de cafés de Sá de Miranda e o campus universitário arborizado',
     },
     bratislava: {
       personality: 'uma capital centroeuropea compacta e asequible onde os cães recorren as praças adoquinadas do centro histórico, os florestas dos Cárpatos e as riberas do Danubio, todo a pé a partir do centro',

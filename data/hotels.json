@@ -3239,6 +3239,126 @@
     "petPolicyPt": "Yndo Hôtel warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "braga-1",
+    "name": "Vila Galé Collection Braga",
+    "destinationSlug": "braga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2150,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vila-gale-collection-braga.html",
+    "petFee": 15,
+    "petPolicy": "Vila Galé Collection Braga welcomes pets in a converted 18th-century hospital in the historic centre. A pet fee of €15 per night per pet applies, with one pet per room (max 10 kg). Dogs must be on a lead in all common areas and are not permitted in the spa, indoor pool or restaurant. The hotel provides a welcome bed and bowl on request. Declare your pet at the time of booking.",
+    "highlights": [
+      "UNESCO-listed historic building",
+      "Indoor pool & spa",
+      "Restaurant Inevitável"
+    ],
+    "slug": "vila-gale-collection-braga"
+  },
+  {
+    "id": "braga-2",
+    "name": "Melia Braga Hotel & Spa",
+    "destinationSlug": "braga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/melia-braga.html",
+    "petFee": 20,
+    "petPolicy": "Melia Braga Hotel & Spa accepts small pets up to 10 kg, with a fee of €20 per night per pet. Pets must remain on a lead in lobby and corridors and are not permitted in dining areas, the spa or the pool. The hotel is set in a residential district with quiet green space at the door, useful for early-morning walks. Confirm pet booking by email after reservation.",
+    "highlights": [
+      "YHI Wellness spa",
+      "Indoor & outdoor pools",
+      "Free parking"
+    ],
+    "slug": "melia-braga-hotel-spa"
+  },
+  {
+    "id": "braga-3",
+    "name": "Hotel do Templo",
+    "destinationSlug": "braga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1480,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/do-templo.html",
+    "petFee": 10,
+    "petPolicy": "Hotel do Templo welcomes pets up to 15 kg with a fee of €10 per night per pet. Located steps from the Bom Jesus do Monte staircase and surrounding forest, the location is ideal for dogs needing space. Pets must be on a lead in common areas and are not permitted in the restaurant. Please declare your pet at booking.",
+    "highlights": [
+      "Steps from Bom Jesus do Monte",
+      "Restaurant with valley view",
+      "Free parking"
+    ],
+    "slug": "hotel-do-templo"
+  },
+  {
+    "id": "braga-4",
+    "name": "Burgus Tribute & Design Hotel",
+    "destinationSlug": "braga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1620,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/burgus-tribute-amp-design.html",
+    "petFee": 0,
+    "petPolicy": "Burgus Tribute & Design Hotel welcomes small pets (under 8 kg) at no additional charge in standard rooms. Pets must be on a lead in all common areas and are not permitted in the breakfast room or terrace bar. The boutique hotel occupies a restored townhouse on Avenida Central, walking distance to all major sights.",
+    "highlights": [
+      "No pet fee for small dogs",
+      "Avenida Central location",
+      "Design rooms"
+    ],
+    "slug": "burgus-tribute-design-hotel"
+  },
+  {
+    "id": "braga-5",
+    "name": "Hotel Mercure Braga Centro",
+    "destinationSlug": "braga",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2410,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/mercure-braga-centro.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Mercure Braga Centro accepts pets up to 10 kg with a fee of €12 per night per pet. The hotel sits one block from Parque da Ponte and is convenient for early-morning walks. Pets are allowed in the room and common areas on a lead, but not in the restaurant or breakfast service area. Please declare your pet at the time of booking.",
+    "highlights": [
+      "Next to Parque da Ponte",
+      "Walk to historic centre",
+      "Free WiFi"
+    ],
+    "slug": "hotel-mercure-braga-centro"
+  },
+  {
     "id": "bratislava-1",
     "name": "Sheraton Bratislava Hotel",
     "destinationSlug": "bratislava",

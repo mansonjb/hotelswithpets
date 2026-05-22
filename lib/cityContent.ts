@@ -2709,6 +2709,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  braga: {
+    history: {
+      en: `Braga is the oldest city in Portugal, founded as Bracara Augusta by the Romans in 16 BC and the seat of an archbishopric since the 4th century. For centuries known as the "Portuguese Rome" for its dense ecclesiastical heritage, today's Braga is also the country's youngest city by population: the Universidade do Minho campus brings 20,000+ students and a markedly progressive café and terrace culture. The historic core of granite squares, baroque churches and the UNESCO-listed Bom Jesus do Monte sanctuary sits within walking distance of the Cávado and Este rivers and the forested Serra do Carvalho. For pet visitors, the city is unusually relaxed: terraces routinely welcome dogs, two 24/7 veterinary hospitals serve the metro area, and the Peneda-Gerês National Park (Portugal's only national park) is 40 minutes east for off-leash hiking.`,
+      fr: `Braga est la plus ancienne ville du Portugal, fondée sous le nom de Bracara Augusta par les Romains en 16 av. J.-C. et siège archiépiscopal depuis le IVᵉ siècle. Longtemps surnommée la "Rome portugaise" pour sa densité de patrimoine ecclésiastique, la Braga contemporaine est aussi la plus jeune ville du pays par sa population : le campus de l'Universidade do Minho rassemble plus de 20 000 étudiants et impose une culture de café et de terrasse nettement progressiste. Le centre historique fait de places granitiques, d'églises baroques et du sanctuaire UNESCO de Bom Jesus do Monte se trouve à pied des rivières Cávado et Este et de la forêt de la Serra do Carvalho. Pour le visiteur avec un animal, la ville est inhabituellement décontractée : les terrasses accueillent les chiens, deux hôpitaux vétérinaires 24h/24 desservent l'agglomération et le Parc National de Peneda-Gerês (le seul parc national du Portugal) est à 40 minutes à l'est pour la randonnée sans laisse.`,
+      es: `Braga es la ciudad más antigua de Portugal, fundada como Bracara Augusta por los romanos en el año 16 a.C. y sede arzobispal desde el siglo IV. Conocida durante siglos como la "Roma portuguesa" por su densa herencia eclesiástica, la Braga actual es también la ciudad más joven del país por población: el campus de la Universidade do Minho aporta más de 20.000 estudiantes y una cultura de café y terraza marcadamente progresista. El casco histórico de plazas graníticas, iglesias barrocas y el santuario UNESCO de Bom Jesus do Monte está a pie de los ríos Cávado y Este y de la forestada Serra do Carvalho. Para el visitante con mascota, la ciudad es inusualmente relajada: las terrazas acogen a los perros con naturalidad, dos hospitales veterinarios 24/7 sirven el área metropolitana y el Parque Nacional de Peneda-Gerês (único parque nacional de Portugal) está a 40 minutos al este para senderismo sin correa.`,
+      pt: `Braga é a cidade mais antiga de Portugal, fundada como Bracara Augusta pelos romanos em 16 a.C. e sede arcebispal desde o século IV. Conhecida durante séculos como a "Roma portuguesa" pela densidade do seu património eclesiástico, a Braga contemporânea é também a cidade mais jovem do país pela sua população: o campus da Universidade do Minho reúne mais de 20.000 estudantes e impõe uma cultura de café e esplanada marcadamente progressista. O centro histórico de praças graníticas, igrejas barrocas e o santuário UNESCO do Bom Jesus do Monte fica a uma distância pedonal dos rios Cávado e Este e da Serra do Carvalho arborizada. Para o visitante com animal, a cidade é invulgarmente descontraída: as esplanadas acolhem os cães com naturalidade, dois hospitais veterinários 24/7 servem a área metropolitana e o Parque Nacional da Peneda-Gerês (único parque nacional de Portugal) fica a 40 minutos a leste para caminhadas sem trela.`,
+    },
+    sights: [
+      {
+        name: 'Bom Jesus do Monte',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: `Braga's UNESCO-listed baroque sanctuary on a forested hilltop east of the city. The 581-step zigzag staircase with chapels and fountains, the surrounding 22-hectare park, and the 19th-century water-counterbalance funicular all welcome dogs on lead. The basilica interior does not.`,
+          fr: `Le sanctuaire baroque UNESCO de Braga sur une colline boisée à l'est de la ville. L'escalier en zigzag de 581 marches avec chapelles et fontaines, le parc boisé de 22 hectares et le funiculaire à contrepoids d'eau du XIXᵉ siècle accueillent tous les chiens en laisse. L'intérieur de la basilique non.`,
+          es: `El santuario barroco UNESCO de Braga sobre una colina boscosa al este de la ciudad. La escalinata en zigzag de 581 escalones con capillas y fuentes, el parque arbolado de 22 hectáreas circundante y el funicular de contrapeso de agua del siglo XIX admiten perros con correa. El interior de la basílica no.`,
+          pt: `O santuário barroco UNESCO de Braga sobre uma colina arborizada a leste da cidade. O escadório em ziguezague de 581 degraus com capelas e fontes, o parque arborizado envolvente de 22 hectares e o funicular de contrapeso de água do século XIX acolhem cães à trela. O interior da basílica não.`,
+        },
+      },
+      {
+        name: 'Sé de Braga',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `Portugal's oldest cathedral, founded in the 11th century on the site of a Visigothic basilica. The Largo do Paço square in front and the surrounding old-town streets are dog-friendly; the cathedral interior, the cloister and the treasury museum are not.`,
+          fr: `La plus ancienne cathédrale du Portugal, fondée au XIᵉ siècle sur le site d'une basilique wisigothique. Le Largo do Paço devant et les rues de la vieille ville sont ouverts aux chiens ; l'intérieur de la cathédrale, le cloître et le musée du trésor non.`,
+          es: `La catedral más antigua de Portugal, fundada en el siglo XI sobre el emplazamiento de una basílica visigoda. El Largo do Paço delante y las calles del casco antiguo son pet-friendly; el interior de la catedral, el claustro y el museo del tesoro no.`,
+          pt: `A catedral mais antiga de Portugal, fundada no século XI no sítio de uma basílica visigótica. O Largo do Paço em frente e as ruas da cidade velha são pet-friendly; o interior da catedral, o claustro e o museu do tesouro não.`,
+        },
+      },
+      {
+        name: 'Mosteiro de Tibães',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          en: `A 16th-century Benedictine monastery 6 km west of the centre, set in 40 hectares of terraced gardens, vineyards and forest. Dogs on lead are welcome throughout the gardens and estate trails; the monastery building and church interior are not accessible to pets.`,
+          fr: `Un monastère bénédictin du XVIᵉ siècle à 6 km à l'ouest du centre, niché dans 40 hectares de jardins en terrasses, vignobles et forêt. Les chiens en laisse sont admis dans l'ensemble des jardins et sur les sentiers du domaine ; le bâtiment monastique et l'intérieur de l'église ne sont pas accessibles aux animaux.`,
+          es: `Un monasterio benedictino del siglo XVI a 6 km al oeste del centro, en 40 hectáreas de jardines aterrazados, viñedos y bosque. Los perros con correa son bienvenidos en todos los jardines y senderos de la finca; el edificio monástico y el interior de la iglesia no son accesibles para mascotas.`,
+          pt: `Um mosteiro beneditino do século XVI a 6 km a oeste do centro, em 40 hectares de jardins em socalcos, vinhas e floresta. Os cães à trela são bem-vindos em todos os jardins e trilhos da propriedade; o edifício monástico e o interior da igreja não são acessíveis a animais.`,
+        },
+      },
+      {
+        name: 'Parque da Ponte',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Braga's signature urban park, eight hectares of lawn, plane trees and walking paths along the Este river just south of the city centre. Dogs on lead welcome on all paths; bag dispensers at the main entrances.`,
+          fr: `Le parc urbain emblématique de Braga, huit hectares de pelouse, de platanes et de chemins le long de l'Este, juste au sud du centre. Chiens en laisse admis sur tous les chemins ; distributeurs de sacs aux entrées principales.`,
+          es: `El parque urbano emblemático de Braga, ocho hectáreas de césped, plátanos y senderos junto al río Este al sur del centro. Perros con correa admitidos en todos los caminos; dispensadores de bolsas en las entradas principales.`,
+          pt: `O parque urbano emblemático de Braga, oito hectares de relvado, plátanos e caminhos ao longo do rio Este mesmo a sul do centro. Cães à trela bem-vindos em todos os caminhos; dispensadores de sacos nas entradas principais.`,
+        },
+      },
+      {
+        name: 'Sá de Miranda & Avenida Central',
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          en: `The café and terrace district between Praça da República and Avenida Central, the social heart of Braga's student and young-professional crowd. Most terraces accept dogs informally; water bowls are common.`,
+          fr: `Le quartier des cafés et terrasses entre la Praça da República et l'Avenida Central, le cœur social des étudiants et jeunes actifs de Braga. La plupart des terrasses acceptent les chiens de manière informelle ; les gamelles d'eau sont fréquentes.`,
+          es: `El barrio de cafés y terrazas entre la Praça da República y la Avenida Central, el corazón social del público universitario y joven profesional de Braga. La mayoría de terrazas aceptan perros de modo informal; los cuencos de agua son habituales.`,
+          pt: `O bairro de cafés e esplanadas entre a Praça da República e a Avenida Central, o coração social do público universitário e jovem profissional de Braga. A maioria das esplanadas aceita cães de forma informal; as tigelas de água são frequentes.`,
+        },
+      },
+      {
+        name: 'Peneda-Gerês National Park (day trip)',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          en: `Portugal's only national park, 40 minutes east of Braga. Marked trails, waterfalls, river pools and Garrano horse herds. Dogs on lead required everywhere; fire-risk closures are common in July and August.`,
+          fr: `Le seul parc national du Portugal, à 40 minutes à l'est de Braga. Sentiers balisés, cascades, vasques fluviales et troupeaux de chevaux Garrano. Laisse obligatoire partout ; fermetures pour risque incendie fréquentes en juillet-août.`,
+          es: `El único parque nacional de Portugal, a 40 minutos al este de Braga. Senderos señalizados, cascadas, pozas fluviales y manadas de caballos Garrano. Correa obligatoria en todos los sitios; cierres por riesgo de incendio frecuentes en julio-agosto.`,
+          pt: `O único parque nacional de Portugal, a 40 minutos a leste de Braga. Trilhos sinalizados, cascatas, poças fluviais e manadas de cavalos Garranos. Trela obrigatória em todo o lado; encerramentos por risco de incêndio frequentes em julho-agosto.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `TUB municipal buses accept small dogs in carriers free of charge; larger dogs are admitted at the driver's discretion with muzzle and lead, preferably off-peak. In practice drivers are tolerant of well-behaved dogs.`,
+        `CP regional trains to Porto charge €5 each way for dogs over 6 kg (muzzle + lead, off-peak only); under 6 kg in a carrier travel free.`,
+        `Avoid the centre 22–25 June during the Festa de São João de Braga, fireworks and marching bands every night. Stay in Bom Jesus do Monte hills or visit in another week.`,
+        `Bom Jesus do Monte staircase and gardens accept dogs on lead, but no church interior in Braga does. Same for Sé Cathedral and Mosteiro de Tibães.`,
+        `Inland summer afternoons hit 30°C (warmer than coastal Porto). Walk dogs at dawn or after 19h in July–August; carry water for the Bom Jesus climb.`,
+      ],
+      fr: [
+        `Les bus municipaux TUB acceptent gratuitement les petits chiens en sac ; les grands chiens sont admis à la discrétion du conducteur avec muselière et laisse, hors heures de pointe préférables. Les conducteurs sont en pratique tolérants.`,
+        `Les trains régionaux CP vers Porto font payer 5 € par trajet pour les chiens de plus de 6 kg (muselière + laisse, hors heures de pointe uniquement) ; moins de 6 kg en sac gratuit.`,
+        `Évitez le centre du 22 au 25 juin pendant la Festa de São João de Braga, feux d'artifice et fanfares chaque soir. Logez dans les collines de Bom Jesus do Monte ou venez une autre semaine.`,
+        `L'escalier et les jardins de Bom Jesus do Monte acceptent les chiens en laisse, mais aucune église à Braga n'admet de chien à l'intérieur. Idem pour la Sé et le Mosteiro de Tibães.`,
+        `Les après-midi d'été dans les terres atteignent 30°C (plus chaud que la côte de Porto). Promenez les chiens à l'aube ou après 19h en juillet-août ; emportez de l'eau pour l'ascension du Bom Jesus.`,
+      ],
+      es: [
+        `Los autobuses municipales TUB admiten perros pequeños en transportín gratis; los perros grandes se admiten a discreción del conductor con bozal y correa, preferentemente fuera de horas punta. En la práctica los conductores son tolerantes.`,
+        `Los trenes regionales CP a Oporto cobran 5 € por trayecto a los perros de más de 6 kg (bozal + correa, fuera de horas punta); menos de 6 kg en transportín viajan gratis.`,
+        `Evite el centro del 22 al 25 de junio durante la Festa de São João de Braga, fuegos artificiales y bandas cada noche. Alójese en los montes de Bom Jesus do Monte o visite otra semana.`,
+        `La escalinata y los jardines de Bom Jesus do Monte admiten perros con correa, pero ninguna iglesia de Braga admite perros en su interior. Igual pasa con la Sé y el Mosteiro de Tibães.`,
+        `Las tardes de verano en el interior llegan a 30°C (más cálido que la costa de Oporto). Pasee al perro al amanecer o después de las 19h en julio-agosto; lleve agua para la subida al Bom Jesus.`,
+      ],
+      pt: [
+        `Os autocarros municipais TUB aceitam cães pequenos em transportadora gratuitamente; os cães grandes são admitidos à discrição do motorista com açaime e trela, preferencialmente fora das horas de ponta. Na prática os motoristas são tolerantes.`,
+        `Os comboios regionais CP para o Porto cobram 5 € por trajeto a cães acima de 6 kg (açaime + trela, apenas fora das horas de ponta); abaixo de 6 kg em transportadora viajam grátis.`,
+        `Evite o centro de 22 a 25 de junho durante a Festa de São João de Braga, fogo de artifício e bandas todas as noites. Aloje-se nos montes do Bom Jesus do Monte ou visite noutra semana.`,
+        `O escadório e os jardins do Bom Jesus do Monte aceitam cães à trela, mas nenhuma igreja em Braga admite cães no interior. O mesmo se aplica à Sé e ao Mosteiro de Tibães.`,
+        `As tardes de verão no interior atingem 30°C (mais quente do que a costa do Porto). Passeie o cão ao amanhecer ou depois das 19h em julho-agosto; leve água para a subida ao Bom Jesus.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Emergency vet: Hospital Veterinário do Bom Jesus (+351 253 261 050) and Hospital Veterinário de Braga (+351 253 264 222), both 24/7. Call before driving.`,
+        `Getting there: Porto Airport (OPO) is 50 km west, 35 minutes by GetBus or 1 h by CP via Porto São Bento. Dogs in carrier free on CP under 6 kg, €5 over 6 kg.`,
+        `Best season: April–June and September–October for mild temperatures and lighter crowds. Avoid 22–25 June (Festa de São João) with sound-sensitive dogs.`,
+        `Documents: EU pet passport (or UK AHC issued within 10 days), microchip and current rabies vaccine. Tapeworm treatment is NOT required for Portugal.`,
+        `Off-leash hiking: Peneda-Gerês National Park, 40 minutes east, all dogs on lead. Within Braga city, no formal off-leash zones, only on-lead in all parks.`,
+      ],
+      fr: [
+        `Vétérinaire d'urgence : Hospital Veterinário do Bom Jesus (+351 253 261 050) et Hospital Veterinário de Braga (+351 253 264 222), tous deux 24h/24. Appelez avant de venir.`,
+        `Accès : l'aéroport de Porto (OPO) est à 50 km à l'ouest, 35 minutes en GetBus ou 1 h en CP via Porto São Bento. Chiens en sac gratuits sur CP sous 6 kg, 5 € au-delà.`,
+        `Meilleure saison : avril-juin et septembre-octobre pour des températures douces et moins de foule. Évitez le 22-25 juin (Festa de São João) avec un chien sensible au bruit.`,
+        `Documents : passeport européen (ou AHC britannique émis dans les 10 jours), puce électronique et vaccin antirabique à jour. Le traitement ténia n'est PAS exigé pour le Portugal.`,
+        `Randonnée libre : Parc National de Peneda-Gerês, à 40 minutes à l'est, tous chiens en laisse. Dans Braga, aucune zone libre formelle, laisse obligatoire dans tous les parcs.`,
+      ],
+      es: [
+        `Veterinario de urgencia: Hospital Veterinário do Bom Jesus (+351 253 261 050) y Hospital Veterinário de Braga (+351 253 264 222), ambos 24/7. Llame antes de acudir.`,
+        `Cómo llegar: el aeropuerto de Oporto (OPO) está a 50 km al oeste, 35 minutos en GetBus o 1 h en CP vía Porto São Bento. Perros en transportín gratis en CP por debajo de 6 kg, 5 € por encima.`,
+        `Mejor temporada: abril-junio y septiembre-octubre por temperaturas suaves y menos masificación. Evite el 22-25 de junio (Festa de São João) con un perro sensible al ruido.`,
+        `Documentos: pasaporte europeo (o AHC británico emitido en los 10 días previos), microchip y antirrábica al día. El tratamiento de tenia NO es obligatorio para Portugal.`,
+        `Senderismo libre: Parque Nacional de Peneda-Gerês, a 40 minutos al este, todos los perros con correa. Dentro de Braga, no hay zonas libres formales, correa en todos los parques.`,
+      ],
+      pt: [
+        `Veterinário de urgência: Hospital Veterinário do Bom Jesus (+351 253 261 050) e Hospital Veterinário de Braga (+351 253 264 222), ambos 24/7. Ligue antes de se deslocar.`,
+        `Como chegar: o Aeroporto do Porto (OPO) fica a 50 km a oeste, 35 minutos em GetBus ou 1 h em CP via Porto São Bento. Cães em transportadora grátis na CP abaixo de 6 kg, 5 € acima.`,
+        `Melhor época: abril-junho e setembro-outubro por temperaturas amenas e menos multidões. Evite 22-25 de junho (Festa de São João) com cão sensível a ruído.`,
+        `Documentos: passaporte europeu (ou AHC britânico emitido nos 10 dias anteriores), microchip e vacina antirrábica em dia. O tratamento contra a ténia NÃO é obrigatório para Portugal.`,
+        `Caminhadas sem trela: Parque Nacional da Peneda-Gerês, a 40 minutos a leste, todos os cães à trela. Dentro de Braga não há zonas sem trela formais, trela obrigatória em todos os parques.`,
+      ],
+    },
+  },
+
   bratislava: {
     history: {
       fr: `Bratislava est la capitale de la Slovaquie depuis 1993, mais son histoire em tant que ville couronnée hongroise (Pozsony, Pressburg) remonte au XIIIe siècle, quand le château et la vieille ville se forment au pied des Petites Carpates et au bord du Danube. La ville actuelle compte environ 430 000 habitants et le ministère slovaque enregistre près de 35 000 chiens dans le grand Bratislava, une densité élevée pour une capitale d'Europe centrale, et qui se voit dans le tissu urbain : terrasses largement dog-friendly, parcs forestiers (Horský Park, Železná Studnička, Sad Janka Kráľa) à pied du centre, et quatre cliniques d'urgence 24h/24. La ville reste compacte, abordable et facilement combinable avec Vienne, Budapest ou Brno pour un circuit canin sur le Danube.`,

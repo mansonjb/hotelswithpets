@@ -125,6 +125,7 @@ const TARGETS = [
   { slug: 'uppsala', query: 'Uppsala Sweden Cathedral Domkyrka twin spires Fyrisån river view sunset panorama' },
   { slug: 'linz', query: 'Linz Austria Hauptplatz baroque square Pöstlingberg basilica Danube river view panorama sunset' },
   { slug: 'valletta', query: 'Valletta Malta Grand Harbour Upper Barrakka Gardens sunset panorama' },
+  { slug: 'braga', query: 'Braga Portugal Bom Jesus do Monte baroque staircase Sé Cathedral panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

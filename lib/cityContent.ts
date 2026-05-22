@@ -5158,6 +5158,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  como: {
+    history: {
+      en: `Como, an Italian provincial capital of around 84,000 at the southern tip of Lake Como, has been a luxury lakeside destination since the 18th century when the European nobility built villas along its shores. The city's compact medieval centre, ringed by Roman and 12th-century walls, sits between the mirror-glass lake and the wooded ridge of Brunate rising to 715 m. Como built its wealth on silk weaving (still its main industry) and now on tourism: 4 million visitors a year, of which a growing share arrive with dogs. Lake culture is unusually pet-tolerant for an Italian luxury destination — the Navigazione Laghi ferry network accepts dogs on every vessel, the 1894 funicular to Brunate has a clear pet policy, and a string of grand villa gardens (Olmo, Balbianello, Carlotta) open their grounds to leashed pets even when their interiors do not. The 50-km drive south to Milan and its 24/7 university veterinary referral makes Como a practical pet destination too.`,
+      fr: `Côme, capitale provinciale italienne d'environ 84 000 habitants à la pointe sud du lac de Côme, est une destination lacustre de luxe depuis le XVIIIe siècle, quand la noblesse européenne a bâti ses villas sur ses rives. Le centre médiéval compact, ceint de murs romains et du XIIe siècle, s'enclave entre le lac miroir et la crête boisée de Brunate à 715 m. Côme s'est enrichie par le tissage de la soie (encore son industrie principale) et désormais par le tourisme : 4 millions de visiteurs par an, dont une part croissante avec chiens. La culture du lac est inhabituellement tolérante envers les animaux pour une destination italienne de luxe — le réseau de ferries Navigazione Laghi accepte les chiens sur tous les bateaux, le funiculaire de Brunate (1894) a une politique animale claire, et les grandes villas (Olmo, Balbianello, Carlotta) ouvrent leurs jardins aux chiens en laisse même quand leurs intérieurs restent fermés. La voie rapide de 50 km vers Milan et son hôpital universitaire vétérinaire 24h/24 font aussi de Côme une destination pratique pour les voyageurs avec animal.`,
+      es: `Como, capital de provincia italiana de unos 84.000 habitantes en la punta sur del lago de Como, es destino lacustre de lujo desde el siglo XVIII, cuando la nobleza europea construyó sus villas en sus orillas. El compacto centro medieval, ceñido por murallas romanas y del s. XII, se aprieta entre el lago espejo y la cresta boscosa de Brunate a 715 m. Como se enriqueció con el tejido de la seda (aún su industria principal) y ahora con el turismo: 4 millones de visitantes anuales, una parte creciente con perros. La cultura del lago es inusualmente tolerante con animales para un destino italiano de lujo — la red de ferries Navigazione Laghi admite perros en todos sus barcos, el funicular de Brunate (1894) tiene una política animal clara, y las grandes villas (Olmo, Balbianello, Carlotta) abren sus jardines a perros con correa aunque sus interiores no. La autopista de 50 km a Milán y su hospital universitario veterinario 24h hacen de Como un destino práctico para viajeros con animal.`,
+      pt: `Como, capital de província italiana com cerca de 84.000 habitantes na ponta sul do lago de Como, é destino lacustre de luxo desde o século XVIII, quando a nobreza europeia construiu villas nas suas margens. O centro medieval compacto, cingido por muralhas romanas e do séc. XII, encaixa-se entre o lago espelhado e a crista florestada de Brunate a 715 m. Como enriqueceu com a tecelagem da seda (ainda a sua principal indústria) e agora com o turismo: 4 milhões de visitantes por ano, uma parte crescente com cães. A cultura do lago é invulgarmente tolerante com animais para um destino italiano de luxo — a rede de ferries Navigazione Laghi aceita cães em todos os barcos, o funicular de Brunate (1894) tem uma política animal clara, e as grandes villas (Olmo, Balbianello, Carlotta) abrem os seus jardins a cães com trela mesmo quando os seus interiores não. A autoestrada de 50 km até Milão e o seu hospital universitário veterinário 24h fazem de Como um destino prático para viajantes com animal.`,
+    },
+    sights: [
+      {
+        name: 'Passeggiata Lino Gelpi',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          en: `Como's signature lakefront promenade running 1.5 km from Piazza Cavour west to Villa Olmo, paved, flat and shaded by plane trees. The classic morning and sunset dog walk; benches every 100 m and lake-water access points along the seawall.`,
+          fr: `Promenade emblématique en bord de lac de 1,5 km de la Piazza Cavour vers l'ouest jusqu'à Villa Olmo, pavée, plate et ombragée par des platanes. Balade canine de référence le matin et au coucher du soleil ; bancs tous les 100 m et accès à l'eau du lac le long du quai.`,
+          es: `Paseo lacustre emblemático de 1,5 km de Piazza Cavour hacia el oeste hasta Villa Olmo, pavimentado, llano y sombreado por plátanos. Paseo canino clásico al amanecer y atardecer; bancos cada 100 m y accesos al agua del lago a lo largo del malecón.`,
+          pt: `Passeio lacustre emblemático de 1,5 km da Piazza Cavour para oeste até à Villa Olmo, pavimentado, plano e sombreado por plátanos. Passeio canino clássico ao amanhecer e ao pôr do sol; bancos a cada 100 m e acessos à água do lago ao longo do paredão.`,
+        },
+      },
+      {
+        name: 'Funicolare Como–Brunate',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          en: `Historic 1894 funicular climbing 540 m in 7 minutes from the lakefront to Brunate. Dogs accepted any time, leashed and muzzled (small dogs in carrier travel free). The starting point of the city's best pet hike.`,
+          fr: `Funiculaire historique de 1894 grimpant 540 m en 7 minutes du bord du lac à Brunate. Chiens admis à tout moment, en laisse et muselés (petits chiens en sac gratuits). Point de départ de la meilleure randonnée canine de la ville.`,
+          es: `Funicular histórico de 1894 que sube 540 m en 7 minutos del lago a Brunate. Perros admitidos en cualquier momento, con correa y bozal (pequeños en transportín gratis). Punto de partida de la mejor caminata canina de la ciudad.`,
+          pt: `Funicular histórico de 1894 que sobe 540 m em 7 minutos da margem do lago até Brunate. Cães admitidos a qualquer hora, com trela e açaime (pequenos em transportadora grátis). Ponto de partida da melhor caminhada canina da cidade.`,
+        },
+      },
+      {
+        name: 'Faro Voltiano (Volta Lighthouse)',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          en: `Built in 1927 for the centenary of Alessandro Volta's death, this 29-metre lighthouse on the Brunate ridge offers the lake's classic panorama. A 30-minute leashed walk from the funicular station; dogs welcome at the base, not inside the climb.`,
+          fr: `Édifié en 1927 pour le centenaire de la mort d'Alessandro Volta, ce phare de 29 mètres sur la crête de Brunate offre le panorama classique du lac. 30 min de marche en laisse depuis le funiculaire ; chiens admis au pied, pas dans la montée.`,
+          es: `Construido en 1927 por el centenario de la muerte de Alessandro Volta, este faro de 29 metros sobre la cresta de Brunate ofrece el panorama clásico del lago. 30 min de paseo con correa desde el funicular; perros admitidos en la base, no en la subida interior.`,
+          pt: `Construído em 1927 para o centenário da morte de Alessandro Volta, este farol de 29 metros sobre a crista de Brunate oferece o panorama clássico do lago. 30 min a pé com trela a partir do funicular; cães admitidos na base, não na subida interior.`,
+        },
+      },
+      {
+        name: 'Parco di Villa Olmo',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `The lakefront grounds of the neoclassical Villa Olmo, a public park since 1925 with formal Italian gardens, an English landscape section and a 600 m lakeside path. Leashed dogs welcome year-round in the park; villa interior off-limits to pets.`,
+          fr: `Parc lacustre de la néoclassique Villa Olmo, public depuis 1925, avec jardins à l'italienne, partie paysagère anglaise et une promenade lacustre de 600 m. Chiens en laisse admis dans le parc toute l'année ; intérieur de la villa interdit aux animaux.`,
+          es: `Jardines lacustres de la neoclásica Villa Olmo, parque público desde 1925, con jardines italianos formales, sección de paisaje inglés y un paseo junto al lago de 600 m. Perros con correa admitidos en el parque todo el año; interior de la villa vetado a animales.`,
+          pt: `Jardins lacustres da neoclássica Villa Olmo, parque público desde 1925, com jardins italianos formais, secção de paisagem inglesa e um passeio junto ao lago de 600 m. Cães com trela admitidos no parque o ano inteiro; interior da villa vedado a animais.`,
+        },
+      },
+      {
+        name: 'Duomo di Como',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `Como Cathedral, begun 1396 and finished in the 18th century, fuses late Gothic and Renaissance facades on Piazza Duomo. Dogs not permitted inside, but the cathedral square and surrounding cobbled streets are leashed-dog friendly and form a classic photo stop.`,
+          fr: `Cathédrale de Côme, commencée en 1396 et achevée au XVIIIe siècle, fusionne façades gothique tardive et Renaissance sur la Piazza Duomo. Chiens interdits à l'intérieur, mais la place et les ruelles pavées alentour accueillent les chiens en laisse et offrent un arrêt photo classique.`,
+          es: `Catedral de Como, iniciada en 1396 y terminada en el s. XVIII, fusiona fachadas gótico tardío y renacentistas en Piazza Duomo. Perros no admitidos en el interior, pero la plaza y las callejuelas empedradas circundantes son abiertas a perros con correa y forman una parada fotográfica clásica.`,
+          pt: `Catedral de Como, começada em 1396 e terminada no séc. XVIII, funde fachadas do gótico tardio e renascentistas na Piazza Duomo. Cães não permitidos no interior, mas a praça e as ruelas calcetadas circundantes acolhem cães com trela e formam uma paragem fotográfica clássica.`,
+        },
+      },
+      {
+        name: 'Bellagio (Ferry Day Trip)',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          en: `The famed lakeside village 30 km north reachable by leisurely slow ferry (2h) or hydrofoil (45 min) from Piazza Cavour. Cobbled lanes, terraced cafés, the public Punta Spartivento headland park — all leashed-dog friendly; ferries accept dogs at all times.`,
+          fr: `Le célèbre village lacustre à 30 km au nord, accessible en ferry lent (2h) ou en hydroglisseur (45 min) depuis la Piazza Cavour. Ruelles pavées, terrasses, parc public de la Punta Spartivento — tous ouverts aux chiens en laisse ; ferries acceptent les chiens à tout moment.`,
+          es: `El famoso pueblo lacustre a 30 km al norte, accesible en ferry lento (2h) o hidroplano (45 min) desde Piazza Cavour. Calles empedradas, terrazas, parque público de Punta Spartivento — todos abiertos a perros con correa; los ferries admiten perros en cualquier momento.`,
+          pt: `A famosa aldeia lacustre a 30 km a norte, acessível por ferry lento (2h) ou hidroplano (45 min) a partir da Piazza Cavour. Ruelas calcetadas, esplanadas, parque público de Punta Spartivento — tudo aberto a cães com trela; os ferries admitem cães a qualquer hora.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Italian law requires a muzzle to be available at all times in public, even if not worn; keep a soft basket muzzle in your bag for the funicular and ferries.`,
+        `Lombardy fines unbagged dog droppings up to 300 EUR and Como wardens patrol the Lungo Lario and Piazza Cavour in summer; pick up everything in any green street bin.`,
+        `Como's August humidity peaks at 28–30°C with the lake water at 24°C; walk before 09:00 and after 19:00, use Villa Olmo's shaded paths and the cooling lake at Villa Geno.`,
+        `Navigazione Laghi ferries accept dogs on every vessel at any time of year; small dogs in a carrier are free, larger dogs need a supplemental ticket of around half-fare.`,
+        `Como is a Schengen border town with Switzerland — random pet passport checks happen on the Como–Lugano S40 train and on the A9 motorway towards Chiasso.`,
+      ],
+      fr: [
+        `La loi italienne impose d'avoir une muselière disponible à tout moment en public, même non portée ; gardez une muselière souple panier dans votre sac pour le funiculaire et les ferries.`,
+        `La Lombardie sanctionne jusqu'à 300 € les déjections non ramassées et les agents de Côme patrouillent le Lungo Lario et la Piazza Cavour en été ; ramassez tout et jetez dans une corbeille verte de rue.`,
+        `L'humidité d'août à Côme atteint 28–30 °C avec une eau du lac à 24 °C ; promenez avant 9h et après 19h, profitez des chemins ombragés de Villa Olmo et de l'eau fraîche à Villa Geno.`,
+        `Les ferries Navigazione Laghi acceptent les chiens sur tous les bateaux toute l'année ; petits chiens en sac gratuits, grands chiens avec un billet supplémentaire d'environ la moitié du tarif adulte.`,
+        `Côme est une ville frontière Schengen avec la Suisse — des contrôles aléatoires de passeport animal ont lieu dans le train Côme–Lugano S40 et sur l'autoroute A9 vers Chiasso.`,
+      ],
+      es: [
+        `La ley italiana exige tener un bozal disponible en todo momento en público, aunque no se coloque; lleva un bozal flexible tipo cesta en la bolsa para el funicular y los ferries.`,
+        `Lombardía multa hasta 300 EUR los excrementos no recogidos y los agentes de Como patrullan el Lungo Lario y Piazza Cavour en verano; recoge todo y deposita en cualquier papelera verde de calle.`,
+        `La humedad de agosto en Como llega a 28–30 °C con el agua del lago a 24 °C; pasea antes de las 09:00 y después de las 19:00, usa los caminos sombreados de Villa Olmo y el agua fresca de Villa Geno.`,
+        `Los ferries Navigazione Laghi admiten perros en todos sus barcos durante todo el año; perros pequeños en transportín gratis, perros grandes con billete suplementario de aproximadamente la mitad de la tarifa adulta.`,
+        `Como es ciudad fronteriza Schengen con Suiza — hay controles aleatorios del pasaporte animal en el tren Como–Lugano S40 y en la autopista A9 hacia Chiasso.`,
+      ],
+      pt: [
+        `A lei italiana exige ter um açaime disponível a qualquer momento em público, mesmo que não colocado; leve um açaime flexível tipo cesto na bolsa para o funicular e os ferries.`,
+        `A Lombardia multa até 300 EUR os excrementos não recolhidos e os agentes de Como patrulham o Lungo Lario e a Piazza Cavour no verão; apanhe tudo e deposite em qualquer caixote verde de rua.`,
+        `A humidade de agosto em Como atinge 28–30 °C com a água do lago a 24 °C; passeie antes das 09:00 e depois das 19:00, use os caminhos sombreados da Villa Olmo e a água fresca de Villa Geno.`,
+        `Os ferries Navigazione Laghi aceitam cães em todos os barcos durante o ano inteiro; cães pequenos em transportadora grátis, cães grandes com bilhete suplementar de cerca de metade da tarifa adulta.`,
+        `Como é cidade fronteiriça Schengen com a Suíça — há controlos aleatórios do passaporte animal no comboio Como–Lugano S40 e na autoestrada A9 para Chiasso.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `No 24/7 emergency vet inside Como itself. Evening contact: Clinica Veterinaria San Siro Cernobbio (3 km north), +39 031 511 233. True overnight emergencies: Ospedale Veterinario Universitario di Lodi (1h south), +39 02 5033 4143.`,
+        `Daytime clinic in centre: Clinica Veterinaria San Rocco, Via San Rocco 12, +39 031 261 188, Mon–Fri.`,
+        `Trenord Como Nord Lago → Milano Cadorna: 1h (closer to the lake). Trenitalia Como San Giovanni → Milano Centrale: 35–45 min (closer to A9 motorway).`,
+        `Nearest international airport: Milan Malpensa (MXP), 50 km / 1h by Malpensa Express + transfer; Linate (LIN) 60 km for domestic and short-haul.`,
+      ],
+      fr: [
+        `Pas de vétérinaire 24h/24 dans Côme même. Contact en soirée : Clinica Veterinaria San Siro Cernobbio (3 km au nord), +39 031 511 233. Vraies urgences nocturnes : Ospedale Veterinario Universitario di Lodi (1h au sud), +39 02 5033 4143.`,
+        `Cabinet diurne en centre-ville : Clinica Veterinaria San Rocco, Via San Rocco 12, +39 031 261 188, lun–ven.`,
+        `Trenord Como Nord Lago → Milano Cadorna : 1h (plus proche du lac). Trenitalia Como San Giovanni → Milano Centrale : 35–45 min (plus proche de l'A9).`,
+        `Aéroport international le plus proche : Milan Malpensa (MXP), 50 km / 1h en Malpensa Express + correspondance ; Linate (LIN) 60 km pour vols domestiques et court-courriers.`,
+      ],
+      es: [
+        `No hay veterinario 24h dentro de Como. Contacto vespertino: Clinica Veterinaria San Siro Cernobbio (3 km al norte), +39 031 511 233. Emergencias nocturnas reales: Ospedale Veterinario Universitario di Lodi (1h al sur), +39 02 5033 4143.`,
+        `Clínica diurna céntrica: Clinica Veterinaria San Rocco, Via San Rocco 12, +39 031 261 188, lun–vie.`,
+        `Trenord Como Nord Lago → Milano Cadorna: 1h (más cerca del lago). Trenitalia Como San Giovanni → Milano Centrale: 35–45 min (más cerca de la A9).`,
+        `Aeropuerto internacional más cercano: Milán Malpensa (MXP), 50 km / 1h en Malpensa Express + transbordo; Linate (LIN) 60 km para domésticos y corto recorrido.`,
+      ],
+      pt: [
+        `Não há veterinário 24h dentro de Como. Contacto à tarde: Clinica Veterinaria San Siro Cernobbio (3 km a norte), +39 031 511 233. Verdadeiras urgências nocturnas: Ospedale Veterinario Universitario di Lodi (1h a sul), +39 02 5033 4143.`,
+        `Clínica diurna central: Clinica Veterinaria San Rocco, Via San Rocco 12, +39 031 261 188, seg–sex.`,
+        `Trenord Como Nord Lago → Milano Cadorna: 1h (mais perto do lago). Trenitalia Como San Giovanni → Milano Centrale: 35–45 min (mais perto da A9).`,
+        `Aeroporto internacional mais próximo: Milão Malpensa (MXP), 50 km / 1h em Malpensa Express + transbordo; Linate (LIN) 60 km para voos domésticos e curto curso.`,
+      ],
+    },
+  },
+
   copenhagen: {
     history: {
       en: 'Copenhagen, consistently ranked among the world\'s most liveable cities, is also one of Europe\'s most dog-friendly capitals. Danes have a deep and unsentimental relationship with their dogs: Copenhageners cycle with dogs in cargo bikes, take them to work, and bring them to the city\'s many dog-friendly cafés and restaurants as a matter of course. The city\'s commitment to cycling infrastructure, its network of harbour baths, parks and beaches within cycling distance, and its high social trust create an environment where dogs are genuinely welcomed rather than merely tolerated. An estimated 70,000 dogs live in the Copenhagen metropolitan area.',

@@ -126,6 +126,7 @@ const TARGETS = [
   { slug: 'linz', query: 'Linz Austria Hauptplatz baroque square Pöstlingberg basilica Danube river view panorama sunset' },
   { slug: 'valletta', query: 'Valletta Malta Grand Harbour Upper Barrakka Gardens sunset panorama' },
   { slug: 'braga', query: 'Braga Portugal Bom Jesus do Monte baroque staircase Sé Cathedral panorama' },
+  { slug: 'como', query: 'Como Italy lake waterfront cathedral Duomo Alps panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

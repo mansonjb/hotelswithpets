@@ -216,6 +216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Rhine riverbank path, Stadtwald forest park, and the off-leash meadow at Beethovenpark',
       area: 'the Altstadt around the cathedral, Ehrenfeld, and the Severinsviertel',
     },
+    como: {
+      personality: `a luxury Italian lake town at the southern tip of Lake Como, with pet-welcoming ferries to Bellagio and Varenna, a dog-friendly funicular climbing to Brunate panoramas, and grand villa gardens (Olmo, Balbianello) that open to leashed dogs`,
+      highlight: 'the Passeggiata Lino Gelpi lakefront, the Faro Voltiano panoramic trail above Brunate, and the Villa Olmo gardens',
+      area: 'the lakefront around Piazza Cavour, the medieval centro storico, and the Villa Geno eastern shore',
+    },
     coimbra: {
       personality: 'a UNESCO university city tumbling from its hilltop down to the Mondego, where leashed dogs glide through medieval lanes and the Choupal riparian forest is the daily walking magnet',
       highlight: `the Mata Nacional do Choupal riverside forest, the Parque Verde do Mondego with its Pedro & Inês pedestrian bridge, and the outdoor courtyards of Europe's oldest university`,
@@ -949,6 +954,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la promenade du Rhin, le parc forestier du Stadtwald et la prairie sans laisse du Beethovenpark',
       area: 'l\'Altstadt autour de la cathédrale, Ehrenfeld et le Severinsviertel',
     },
+    como: {
+      personality: `une ville italienne de luxe à la pointe sud du lac de Côme, avec ferries dog-friendly vers Bellagio et Varenna, un funiculaire qui accepte les chiens jusqu'aux panoramas de Brunate, et des jardins de grandes villas (Olmo, Balbianello) ouverts aux chiens en laisse`,
+      highlight: `la Passeggiata Lino Gelpi en bord de lac, le sentier panoramique du Faro Voltiano au-dessus de Brunate et les jardins de la Villa Olmo`,
+      area: 'le bord du lac autour de la Piazza Cavour, le centro storico médiéval et la rive est de Villa Geno',
+    },
     coimbra: {
       personality: `une ville universitaire UNESCO qui dévale de sa colline jusqu'au Mondego, où les chiens en laisse glissent dans les ruelles médiévales et où la forêt riveraine du Choupal est l'aimant quotidien des promenades`,
       highlight: `la forêt riveraine de la Mata Nacional do Choupal, le Parque Verde do Mondego et sa passerelle piétonne Pedro & Inês, ainsi que les cours extérieures de la plus ancienne université d'Europe`,
@@ -1681,6 +1691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el paseo del Rin, el parque forestal de Stadtwald y la pradera sin correa del Beethovenpark',
       area: 'la Altstadt en torno a la catedral, Ehrenfeld y el Severinsviertel',
     },
+    como: {
+      personality: `una localidad italiana de lujo en la punta sur del lago de Como, con ferries pet-friendly a Bellagio y Varenna, un funicular que admite perros hasta los panoramas de Brunate, y jardines de grandes villas (Olmo, Balbianello) abiertos a perros con correa`,
+      highlight: 'la Passeggiata Lino Gelpi junto al lago, el sendero panorámico del Faro Voltiano sobre Brunate y los jardines de Villa Olmo',
+      area: 'el paseo del lago en torno a Piazza Cavour, el centro histórico medieval y la orilla este de Villa Geno',
+    },
     coimbra: {
       personality: 'una ciudad universitaria UNESCO que desciende desde su colina hasta el Mondego, donde los perros con correa se deslizan por las callejuelas medievales y el bosque ripario del Choupal es el imán diario de los paseos',
       highlight: 'el bosque ribereño de la Mata Nacional do Choupal, el Parque Verde do Mondego con su pasarela peatonal Pedro & Inês, y los patios exteriores de la universidad más antigua de Europa',
@@ -2412,6 +2427,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade renana pragmática onde os cães viajan de comboio com bilhete infantil, beben en abrevaderos de pubs e acompanhan aos seus duenhos pela ribera',
       highlight: 'o passeio do Rin, o parque forestal de Stadtwald e a pradaria sem trela do Beethovenpark',
       area: 'a Altstadt en torno a a catedral, Ehrenfeld e o Severinsviertel',
+    },
+    como: {
+      personality: `uma localidade italiana de luxo na ponta sul do lago de Como, com ferries pet-friendly até Bellagio e Varenna, um funicular que admite cães até aos panoramas de Brunate, e jardins de grandes villas (Olmo, Balbianello) abertos a cães com trela`,
+      highlight: 'a Passeggiata Lino Gelpi à beira do lago, o trilho panorâmico do Faro Voltiano sobre Brunate e os jardins da Villa Olmo',
+      area: 'a margem do lago em torno da Piazza Cavour, o centro histórico medieval e a margem este de Villa Geno',
     },
     coimbra: {
       personality: 'uma cidade universitaria UNESCO que desciende a partir do seu colina até o Mondego, onde os cães com trela se deslizan pelas callejuelas medievais e o floresta ripario do Choupal é o imán diario dos passeios',

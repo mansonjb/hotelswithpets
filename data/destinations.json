@@ -2957,6 +2957,82 @@
     "tiqetsId": "64765"
   },
   {
+    "slug": "como",
+    "name": "Como",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/como.jpg",
+    "intro": "Como sits at the southern tip of Lake Como with the Alps rising behind, a luxury lakeside town where pet-friendly ferries cross to Bellagio and Varenna, the Brunate funicular climbs to dog-welcome panoramas, and Villa Olmo's lakeshore gardens are open to leashed dogs year-round.",
+    "lat": 45.8081,
+    "lng": 9.0852,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold with lake fog",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & damp",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & humid",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cooling, autumn light",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & foggy",
+        "icon": "🌫️"
+      }
+    },
+    "iata": "MXP",
+    "tiqetsId": "71894"
+  },
+  {
     "slug": "copenhagen",
     "name": "Copenhagen",
     "country": "Denmark",

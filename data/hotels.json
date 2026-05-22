@@ -5874,6 +5874,133 @@
     "petPolicyPt": "Hotel Servatius welcomes cães de any size gratuitamente. Pequeno family-run hotel no quiet Deutz district no right bank do Rhine."
   },
   {
+    "id": "como-1",
+    "name": "Vista Palazzo Lago di Como",
+    "destinationSlug": "como",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 700,
+    "priceFrom": 650,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/vista-palazzo-lago-di-como.html",
+    "petFee": 50,
+    "petPolicy": "Vista Palazzo welcomes well-behaved pets up to 10 kg in guest rooms with a cleaning fee per stay. The flagship boutique 5-star on Piazza Cavour offers concierge-arranged pet sitters and water bowls on the rooftop terrace.",
+    "highlights": [
+      "Piazza Cavour lakefront",
+      "Rooftop restaurant",
+      "Concierge pet service"
+    ],
+    "slug": "vista-palazzo-como",
+    "petPolicyPt": "Vista Palazzo recibe animais bem-comportados até 10 kg em quartos com taxa de limpeza. O 5 estrelas boutique de referência na Piazza Cavour oferece pet sitters via concierge e tigelas de água no terraço."
+  },
+  {
+    "id": "como-2",
+    "name": "Hilton Lake Como",
+    "destinationSlug": "como",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 3200,
+    "priceFrom": 280,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hilton-lake-como.html",
+    "petFee": 50,
+    "petPolicy": "Hilton Lake Como accepts pets up to 18 kg with a one-time fee per stay. Modern hotel with rooftop pool, walking distance to the Lungo Lario promenade and 600 m from Como Nord Lago station.",
+    "highlights": [
+      "Rooftop pool",
+      "5-min walk to lakefront",
+      "Pet beds available"
+    ],
+    "slug": "hilton-lake-como",
+    "petPolicyPt": "Hilton Lake Como aceita animais até 18 kg com taxa única por estadia. Hotel moderno com piscina no terraço, a curta distância da passeggiata Lungo Lario e a 600 m da estação Como Nord Lago."
+  },
+  {
+    "id": "como-3",
+    "name": "Sheraton Lake Como Hotel",
+    "destinationSlug": "como",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4100,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-flori.html",
+    "petFee": 35,
+    "petPolicy": "Sheraton Lake Como accepts dogs and cats up to 20 kg with a daily cleaning fee. Set in landscaped gardens on the western shore 1.5 km from the centre, with direct lakeside access and a dog-friendly grass lawn.",
+    "highlights": [
+      "Lakeside gardens",
+      "Free parking",
+      "Direct lake access"
+    ],
+    "slug": "sheraton-lake-como-hotel",
+    "petPolicyPt": "Sheraton Lake Como aceita cães e gatos até 20 kg com taxa diária de limpeza. Em jardins paisagísticos na margem oeste a 1,5 km do centro, com acesso direto ao lago e relvado pet-friendly."
+  },
+  {
+    "id": "como-4",
+    "name": "Hotel Metropole Suisse",
+    "destinationSlug": "como",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1800,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/metropole-suisse.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Metropole Suisse welcomes small to medium pets with a modest daily fee. Historic Liberty-style hotel directly on Piazza Cavour overlooking the lake, classic Como location for pet-friendly travellers.",
+    "highlights": [
+      "Piazza Cavour location",
+      "Lake-view rooms",
+      "Historic 1892 building"
+    ],
+    "slug": "hotel-metropole-suisse-como",
+    "petPolicyPt": "Hotel Metropole Suisse aceita animais pequenos a médios com taxa diária modesta. Hotel histórico Liberty diretamente na Piazza Cavour com vista lago, localização clássica de Como para viajantes pet-friendly."
+  },
+  {
+    "id": "como-5",
+    "name": "Hotel Plinius",
+    "destinationSlug": "como",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/plinius.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Plinius accepts pets of any reasonable size with a small daily fee. Family-run 3-star in the historic centre, 4 minutes' walk from the Duomo and 8 minutes from the lakefront, the best mid-range pet-friendly option in the centro storico.",
+    "highlights": [
+      "Centro storico location",
+      "Family-run",
+      "Generous breakfast"
+    ],
+    "slug": "hotel-plinius-como",
+    "petPolicyPt": "Hotel Plinius aceita animais de qualquer tamanho razoável com pequena taxa diária. 3 estrelas familiar no centro histórico, a 4 min do Duomo e 8 min da margem do lago, a melhor opção pet-friendly de gama média no centro storico."
+  },
+  {
     "id": "copenhagen-1",
     "name": "NH Collection Copenhagen",
     "destinationSlug": "copenhagen",

@@ -1053,6 +1053,82 @@
     "iata": "BEG"
   },
   {
+    "slug": "bergamo",
+    "name": "Bergamo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bergamo.jpg",
+    "intro": "Bergamo is one of northern Italy's most rewarding pet-friendly city breaks, a UNESCO-walled hilltop town with two pet-tolerant funiculars, the 4,700-hectare Parco dei Colli wrapping its northern flank, and Lake Iseo, Lake Como and Lake Garda all within an hour for cool dog-friendly day trips.",
+    "lat": 45.6983,
+    "lng": 9.6773,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & variable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild spring",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Warm autumn",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool, wet",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold, foggy",
+        "icon": "🌫️"
+      }
+    },
+    "iata": "BGY",
+    "tiqetsId": "71991"
+  },
+  {
     "slug": "bergen",
     "name": "Bergen",
     "country": "Norway",
@@ -1660,20 +1736,68 @@
     "heroImage": "/images/destinations/braga.jpg",
     "intro": "Portugal's oldest city and youngest by student population, Braga pairs baroque heritage and Minho green hills with a famously pet-progressive café culture.",
     "lat": 41.5503,
-    "lng": -8.4200,
+    "lng": -8.42,
     "weather": {
-      "jan": { "temp": 10, "desc": "Mild & wet", "icon": "🌧️" },
-      "feb": { "temp": 11, "desc": "Mild & wet", "icon": "🌧️" },
-      "mar": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
-      "apr": { "temp": 14, "desc": "Mild with rain", "icon": "🌦️" },
-      "may": { "temp": 17, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 21, "desc": "Sunny & warm", "icon": "🌤️" },
-      "jul": { "temp": 24, "desc": "Warm & sunny", "icon": "☀️" },
-      "aug": { "temp": 25, "desc": "Warm & sunny", "icon": "☀️" },
-      "sep": { "temp": 22, "desc": "Sunny & warm", "icon": "🌤️" },
-      "oct": { "temp": 18, "desc": "Mild & pleasant", "icon": "⛅" },
-      "nov": { "temp": 13, "desc": "Mild with rain", "icon": "🌦️" },
-      "dec": { "temp": 10, "desc": "Mild & wet", "icon": "🌧️" }
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
     },
     "iata": "OPO",
     "tiqetsId": "76598"

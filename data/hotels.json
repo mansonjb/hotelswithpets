@@ -2101,6 +2101,128 @@
     "petPolicyPt": "Courtyard Belgrade City Center accepts up para two animais até 18 kg per quarto por 25 EUR por animal por estadia. Both cães e gatos são accepted. animais são não permitidos em restaurants."
   },
   {
+    "id": "bergamo-1",
+    "name": "Hotel Excelsior San Marco",
+    "destinationSlug": "bergamo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2450,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/excelsior-san-marco.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Excelsior San Marco welcomes well-behaved pets and offers a central Città Bassa base just below the Venetian walls. A pet fee of €20 per night applies, charged at check-in. Pets are accepted up to 15 kg; one pet per room maximum. The Parco Suardi off-leash area is a 5-minute walk and the funicular to Città Alta is 10 minutes on foot. Pets must be leashed in all common areas and are not permitted in the rooftop restaurant. Please declare your pet at booking to ensure pet-friendly room allocation.",
+    "highlights": [
+      "Rooftop restaurant with Città Alta view",
+      "On-site parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-excelsior-san-marco-bergamo"
+  },
+  {
+    "id": "bergamo-2",
+    "name": "Petronilla Hotel Bergamo",
+    "destinationSlug": "bergamo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1380,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/petronilla-bergamo.html",
+    "petFee": 25,
+    "petPolicy": "Petronilla Hotel Bergamo is a small boutique 4-star hotel in Città Bassa that warmly welcomes pets. A pet fee of €25 per night applies. Pets are accepted up to 20 kg; one pet per room maximum. The hotel sits a 5-minute walk from the funicular and 10 minutes from the railway station. Pets must be on a leash in lobbies and corridors and are not permitted in the breakfast room. Please declare your pet at booking.",
+    "highlights": [
+      "Boutique design",
+      "Free WiFi",
+      "Central Città Bassa location"
+    ],
+    "slug": "petronilla-hotel-bergamo"
+  },
+  {
+    "id": "bergamo-3",
+    "name": "Mercure Bergamo Aeroporto",
+    "destinationSlug": "bergamo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4120,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/mercure-bergamo-aeroporto.html",
+    "petFee": 15,
+    "petPolicy": "Mercure Bergamo Aeroporto is a convenient pet-friendly option close to BGY airport for early flights or pet-travel arrivals. A pet fee of €15 per night applies, charged at check-in. Pets are accepted up to 10 kg; one pet per room maximum. The hotel offers a free shuttle to the airport and has a small lawn area for dog relief on site. Pets must be leashed in all common areas and are not allowed in the restaurant. Please declare your pet at booking.",
+    "highlights": [
+      "Free airport shuttle",
+      "On-site parking",
+      "Free WiFi"
+    ],
+    "slug": "mercure-bergamo-aeroporto"
+  },
+  {
+    "id": "bergamo-4",
+    "name": "Hotel Piazza Vecchia",
+    "destinationSlug": "bergamo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 980,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/piazza-vecchia.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Piazza Vecchia is a small boutique hotel inside the UNESCO walls of Città Alta, steps from the historic square. A pet fee of €20 per night applies. Pets are accepted up to 12 kg; one pet per room maximum. The Mura Venete walkway is a 2-minute walk for morning dog walks with panoramic views. Pets must be leashed in all common areas and are not permitted in the breakfast room. Please declare your pet at booking.",
+    "highlights": [
+      "Inside UNESCO walls of Città Alta",
+      "Free WiFi",
+      "Historic boutique property"
+    ],
+    "slug": "hotel-piazza-vecchia-bergamo"
+  },
+  {
+    "id": "bergamo-5",
+    "name": "GombitHotel",
+    "destinationSlug": "bergamo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 1250,
+    "priceFrom": 220,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/gombithotel.html",
+    "petFee": 30,
+    "petPolicy": "GombitHotel is Bergamo's leading design hotel, set in a medieval tower in the heart of Città Alta and a Design Hotels member. A pet fee of €30 per night applies, charged at check-in. Pets are accepted up to 15 kg; one pet per room maximum. The Mura Venete are 3 minutes on foot and the funicular is 5 minutes. Pets must be leashed in all common areas and are not permitted in the restaurant. Please declare your pet at booking.",
+    "highlights": [
+      "Design Hotels member",
+      "Medieval tower in Città Alta",
+      "Free WiFi"
+    ],
+    "slug": "gombithotel-bergamo"
+  },
+  {
     "id": "bergen-1",
     "name": "Bergen Borsen Hotel",
     "destinationSlug": "bergen",

@@ -1780,6 +1780,139 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bergamo: {
+    history: {
+      fr: `Bergame est une cité-État médiévale italienne perchée à 380 mètres au-dessus de la plaine du Pô, fondée par les Celtes Cenomani avant de devenir municipe romain en 49 av. J.-C. Le visage actuel de la ville lui vient surtout de Venise, qui l'a gouvernée pendant 350 ans (1428-1797) et a construit le grand anneau de murs vénitiens classés à l'UNESCO en 2017, l'un des derniers exemples intacts de fortification militaire de la Renaissance en Europe. La ville est divisée en deux : la Città Alta, médiévale et fortifiée, accrochée à la colline avec sa Piazza Vecchia que Le Corbusier aurait qualifiée de plus belle place d'Europe ; et la Città Bassa, néoclassique et XXe siècle, qui s'étend dans la plaine. Côté chiens, Bergame est étonnamment confortable : les Mura Venete forment une boucle de 6 km dog-friendly avec vue à 360°, le 4 700 ha du Parco dei Colli enveloppe la ville au nord, deux funiculaires acceptent les animaux, et les lacs d'Iseo, de Côme et de Garde sont tous à moins d'une heure pour s'évader de l'humidité de la plaine en été.`,
+      en: `Bergamo is a medieval Italian city-state perched 380 metres above the Po Valley, founded by the Cenomani Celts before becoming a Roman municipium in 49 BC. The city's current face owes most to Venice, which governed it for 350 years (1428-1797) and built the great ring of Venetian walls inscribed on the UNESCO World Heritage list in 2017, one of the last intact examples of Renaissance military fortification in Europe. The city is split in two: Città Alta, medieval and fortified, clinging to the hilltop with its Piazza Vecchia that Le Corbusier reportedly called the most beautiful square in Europe; and Città Bassa, neoclassical and twentieth-century, spreading across the plain. For dogs, Bergamo is unexpectedly comfortable: the Mura Venete form a 6 km dog-friendly loop with 360° views, the 4,700-hectare Parco dei Colli wraps the city to the north, two funiculars accept pets, and Lake Iseo, Lake Como and Lake Garda are all within an hour for cool day-trips away from Po Valley humidity in summer.`,
+      es: `Bérgamo es una ciudad-Estado medieval italiana encaramada a 380 metros sobre la llanura del Po, fundada por los celtas cenomanos antes de convertirse en municipio romano en el 49 a.C. El rostro actual de la ciudad se debe sobre todo a Venecia, que la gobernó durante 350 años (1428-1797) y construyó el gran anillo de murallas venecianas inscrito en el Patrimonio Mundial de la UNESCO en 2017, uno de los últimos ejemplos intactos de fortificación militar renacentista en Europa. La ciudad se divide en dos: la Città Alta, medieval y fortificada, encaramada a la colina con su Piazza Vecchia que Le Corbusier habría llamado la plaza más bella de Europa; y la Città Bassa, neoclásica y del siglo XX, extendida por la llanura. Para los perros, Bérgamo es sorprendentemente cómoda: las Mura Venete forman un circuito dog-friendly de 6 km con vistas de 360°, las 4.700 hectáreas del Parco dei Colli envuelven la ciudad por el norte, dos funiculares aceptan mascotas, y los lagos de Iseo, Como y Garda están todos a menos de una hora para escapar de la humedad de la llanura del Po en verano.`,
+      pt: `Bérgamo é uma cidade-Estado medieval italiana empoleirada a 380 metros sobre a planície do Pó, fundada pelos celtas cenomani antes de se tornar município romano em 49 a.C. O rosto atual da cidade deve-se sobretudo a Veneza, que a governou durante 350 anos (1428-1797) e construiu o grande anel de muralhas venezianas inscrito no Património Mundial da UNESCO em 2017, um dos últimos exemplos intactos de fortificação militar renascentista da Europa. A cidade divide-se em duas: a Città Alta, medieval e fortificada, agarrada à colina com a sua Piazza Vecchia que Le Corbusier teria chamado a praça mais bela da Europa; e a Città Bassa, neoclássica e do século XX, estendida pela planície. Para os cães, Bérgamo é surpreendentemente confortável: as Mura Venete formam um circuito pet-friendly de 6 km com vistas de 360°, os 4.700 hectares do Parco dei Colli envolvem a cidade a norte, dois funiculares aceitam animais, e os lagos de Iseo, Como e Garda estão todos a menos de uma hora para escapar à humidade da planície do Pó no verão.`,
+    },
+    sights: [
+      {
+        name: 'Piazza Vecchia',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La place monumentale au cœur de la Città Alta, encadrée par le Palazzo della Ragione et le campanile Campanone. Les chiens en laisse sont bienvenus sur toute la place et sur la Piazza del Duomo voisine. Les cafés tout autour acceptent presque tous les chiens en terrasse.`,
+          en: `The monumental square at the heart of Città Alta, framed by the Palazzo della Ragione and the Campanone bell tower. Leashed dogs are welcome throughout the piazza and the connecting Piazza del Duomo. Café terraces around the square almost all accept dogs.`,
+          es: `La plaza monumental en el corazón de la Città Alta, enmarcada por el Palazzo della Ragione y el campanario Campanone. Los perros con correa son bienvenidos en toda la plaza y en la Piazza del Duomo contigua. Las terrazas de cafés alrededor casi todas aceptan perros.`,
+          pt: `A praça monumental no coração da Città Alta, enquadrada pelo Palazzo della Ragione e pelo campanário Campanone. Os cães com trela são bem-vindos em toda a praça e na Piazza del Duomo contígua. As esplanadas de café em redor aceitam quase todas cães.`,
+        },
+      },
+      {
+        name: 'Mura Venete',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Les murs vénitiens du XVIe siècle classés UNESCO en 2017 forment une boucle panoramique de 6 km autour de la Città Alta. Les chiens en laisse sont bienvenus sur tout le parcours, avec des fontaines régulières et une vue continue sur la plaine du Pô.`,
+          en: `The 16th-century Venetian walls, UNESCO-listed in 2017, form a 6 km panoramic loop around Città Alta. Leashed dogs are welcome along the entire route, with regular water fountains and continuous views over the Po Valley.`,
+          es: `Las murallas venecianas del siglo XVI, inscritas en la UNESCO en 2017, forman un circuito panorámico de 6 km alrededor de la Città Alta. Los perros con correa son bienvenidos en todo el recorrido, con fuentes regulares y vistas continuas sobre la llanura del Po.`,
+          pt: `As muralhas venezianas do século XVI, inscritas pela UNESCO em 2017, formam um circuito panorâmico de 6 km em redor da Città Alta. Os cães com trela são bem-vindos em todo o percurso, com fontes regulares e vistas contínuas sobre a planície do Pó.`,
+        },
+      },
+      {
+        name: 'Parco dei Colli di Bergamo',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc régional protégé de 4 700 hectares au nord de Bergame, avec des dizaines de sentiers balisés, des chênaies, des points d'eau et le centre d'accueil de Valmarina. Les chiens sont bienvenus, en laisse sur les sentiers et libres dans les zones boisées loin du bétail.`,
+          en: `A 4,700-hectare protected regional park north of Bergamo, with dozens of marked trails, oak woodland, water points, and the Valmarina visitor centre. Dogs are welcome, on leash on trails and free in the wooded areas away from livestock.`,
+          es: `Parque regional protegido de 4.700 hectáreas al norte de Bérgamo, con decenas de senderos señalizados, robledales, puntos de agua y el centro de visitantes de Valmarina. Los perros son bienvenidos, con correa en senderos y sueltos en las zonas boscosas lejos del ganado.`,
+          pt: `Parque regional protegido de 4.700 hectares a norte de Bérgamo, com dezenas de trilhos sinalizados, carvalhais, pontos de água e o centro de visitantes de Valmarina. Os cães são bem-vindos, com trela nos trilhos e livres nas zonas arborizadas longe do gado.`,
+        },
+      },
+      {
+        name: 'Funicolare San Vigilio',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Le funiculaire qui grimpe de la Città Alta à la colline panoramique de San Vigilio (496 m) en deux minutes. Petits chiens en transportin gratuits, grands chiens avec laisse et muselière au tarif passager. Au sommet, les sentiers du Parco dei Colli s'ouvrent sur la plaine.`,
+          en: `The funicular that climbs from Città Alta to the panoramic San Vigilio hill (496 m) in two minutes. Small dogs in a carrier travel free; larger dogs with leash and muzzle pay a passenger fare. At the top, the Parco dei Colli trails open onto the plain.`,
+          es: `El funicular que sube de la Città Alta a la colina panorámica de San Vigilio (496 m) en dos minutos. Perros pequeños en transportín gratis; perros más grandes con correa y bozal pagan billete de pasajero. Arriba, los senderos del Parco dei Colli se abren a la llanura.`,
+          pt: `O funicular que sobe da Città Alta à colina panorâmica de San Vigilio (496 m) em dois minutos. Cães pequenos em transportadora viajam grátis; cães maiores com trela e açaime pagam bilhete de passageiro. No topo, os trilhos do Parco dei Colli abrem-se sobre a planície.`,
+        },
+      },
+      {
+        name: 'Accademia Carrara',
+        emoji: '🖼️',
+        petFriendly: false,
+        desc: {
+          fr: `Le plus beau musée d'art de Bergame, avec des Mantegna, Botticelli, Raphaël et Lotto. Politique italienne standard : petits chiens en transportin admis, grands chiens interdits. Le quartier environnant de Borgo Pignolo est très dog-friendly pour une pause.`,
+          en: `Bergamo's finest art museum, with works by Mantegna, Botticelli, Raphael and Lotto. Standard Italian policy: small dogs in carriers admitted, larger dogs not allowed. The surrounding Borgo Pignolo quarter is very dog-friendly for a break.`,
+          es: `El mejor museo de arte de Bérgamo, con obras de Mantegna, Botticelli, Rafael y Lotto. Política italiana estándar: perros pequeños en transportín admitidos, perros más grandes no permitidos. El barrio circundante de Borgo Pignolo es muy dog-friendly para una pausa.`,
+          pt: `O melhor museu de arte de Bérgamo, com obras de Mantegna, Botticelli, Rafael e Lotto. Política italiana padrão: cães pequenos em transportadora admitidos, cães maiores não permitidos. O bairro vizinho de Borgo Pignolo é muito pet-friendly para uma pausa.`,
+        },
+      },
+      {
+        name: 'Lake Iseo & Monte Isola',
+        emoji: '🛥️',
+        petFriendly: true,
+        desc: {
+          fr: `L'évasion lacustre la plus proche de Bergame, 30 minutes à l'est en train ou en voiture. Les ferries Navigazione Lago d'Iseo acceptent les chiens en laisse et muselés gratuitement entre Sulzano et Monte Isola, plus grande île lacustre d'Europe et entièrement sans voiture.`,
+          en: `Bergamo's closest lake escape, 30 minutes east by train or car. The Navigazione Lago d'Iseo ferries accept leashed, muzzled dogs free of charge between Sulzano and Monte Isola, Europe's largest lake island, entirely car-free.`,
+          es: `La escapada lacustre más cercana a Bérgamo, 30 minutos al este en tren o coche. Los ferris Navigazione Lago d'Iseo admiten perros con correa y bozal sin coste entre Sulzano y Monte Isola, mayor isla lacustre de Europa y totalmente sin coches.`,
+          pt: `A escapada lacustre mais próxima de Bérgamo, 30 minutos a leste de comboio ou carro. Os ferries Navigazione Lago d'Iseo aceitam cães com trela e açaime gratuitamente entre Sulzano e Monte Isola, a maior ilha lacustre da Europa, totalmente sem carros.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les funiculaires Città Alta et San Vigilio acceptent les chiens : petits chiens en transportin gratuits, grands chiens avec laisse et muselière au tarif passager. Évitez la tranche 11h-13h en été, la cabine se remplit.`,
+        `Loi italienne : tout propriétaire de grand chien en public doit avoir avec lui une muselière (même non portée) et une laisse. Le port n'est pas obligatoire mais la muselière doit être disponible en cas de demande.`,
+        `Les pavés de la Città Alta accumulent agressivement la chaleur en juillet-août. Promenez avant 10h ou après 19h en été, et préférez les sentiers gazonnés du Parco dei Colli ou la boucle des Mura Venete au sol mixte.`,
+        `Les trains régionaux Trenord acceptent les petits chiens en transportin gratuitement et les grands chiens avec muselière+laisse pour 5 €. Achetez le billet animal au guichet de la gare, l'application Trenord ne le permet pas toujours.`,
+        `L'aéroport de Bergame Orio al Serio (BGY) dispose d'une zone pipi extérieure devant le Terminal 1. Ryanair accepte les animaux jusqu'à 8 kg en cabine sur certaines lignes UE (20-30 €), à confirmer à la réservation.`,
+      ],
+      en: [
+        `Both funiculars (Città Alta and San Vigilio) accept dogs: small dogs in a carrier travel free, larger dogs with leash and muzzle pay a passenger fare. Avoid the 11:00-13:00 slot in summer, the cabin fills up.`,
+        `Italian law requires every large-dog owner in public to carry a muzzle (even if not worn) and a leash. Wearing the muzzle is not mandatory, but it must be available if requested by police.`,
+        `Città Alta cobblestones absorb heat aggressively in July-August. Walk before 10:00 or after 19:00 in summer, and prefer the grass trails of Parco dei Colli or the mixed-surface Mura Venete loop.`,
+        `Trenord regional trains accept small dogs in a carrier free of charge and larger dogs with muzzle+leash for €5. Buy the pet ticket at the station counter, the Trenord app does not always allow it.`,
+        `Bergamo Orio al Serio Airport (BGY) has an outdoor pet relief area in front of Terminal 1. Ryanair accepts pets up to 8 kg in cabin on selected EU routes (€20-30), confirm at booking.`,
+      ],
+      es: [
+        `Ambos funiculares (Città Alta y San Vigilio) admiten perros: pequeños en transportín gratis, perros más grandes con correa y bozal pagan billete de pasajero. Evita la franja 11:00-13:00 en verano, la cabina se llena.`,
+        `La ley italiana exige que cualquier propietario de perro grande lleve consigo en público un bozal (aunque no lo use) y una correa. Llevar el bozal puesto no es obligatorio, pero debe estar disponible si la policía lo solicita.`,
+        `El adoquinado de la Città Alta absorbe agresivamente el calor en julio-agosto. Pasea antes de las 10:00 o después de las 19:00 en verano, y prefiere los senderos de césped del Parco dei Colli o el circuito mixto de las Mura Venete.`,
+        `Los trenes regionales Trenord admiten perros pequeños en transportín gratis y perros más grandes con bozal+correa por 5 €. Compra el billete para mascota en la taquilla de la estación, la app Trenord no siempre lo permite.`,
+        `El aeropuerto de Bérgamo Orio al Serio (BGY) cuenta con una zona pipí exterior delante de la Terminal 1. Ryanair acepta mascotas hasta 8 kg en cabina en rutas UE seleccionadas (20-30 €), a confirmar al reservar.`,
+      ],
+      pt: [
+        `Ambos os funiculares (Città Alta e San Vigilio) aceitam cães: pequenos em transportadora viajam grátis, cães maiores com trela e açaime pagam bilhete de passageiro. Evita o intervalo 11:00-13:00 no verão, a cabina enche-se.`,
+        `A lei italiana exige que qualquer dono de cão grande leve consigo em público um açaime (mesmo que não o use) e uma trela. Usar o açaime não é obrigatório, mas deve estar disponível se a polícia o pedir.`,
+        `Os paralelepípedos da Città Alta absorvem agressivamente o calor em julho-agosto. Passeie antes das 10:00 ou depois das 19:00 no verão, e prefira os trilhos de relva do Parco dei Colli ou o circuito misto das Mura Venete.`,
+        `Os comboios regionais Trenord aceitam cães pequenos em transportadora grátis e cães maiores com açaime+trela por 5 €. Compre o bilhete para animal na bilheteira da estação, a app Trenord nem sempre o permite.`,
+        `O aeroporto de Bérgamo Orio al Serio (BGY) tem uma zona pipi exterior em frente ao Terminal 1. A Ryanair aceita animais até 8 kg em cabina em rotas UE selecionadas (20-30 €), a confirmar no momento da reserva.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence 24h/24 : Clinica Veterinaria Città di Bergamo, Via Borgo Palazzo 261, Boccaleone. Appeler avant d'arriver, surtout la nuit.`,
+        `Aéroport BGY (Milan Bergame Orio al Serio) : base Ryanair majeure, navette gratuite vers la gare de Bergame (15 min). Passeport UE + puce obligatoires.`,
+        `Trains Trenord directs vers Milano Centrale (50 min), Brescia (50 min) ; Frecciarossa pour Bologne, Florence, Rome via correspondance à Milan.`,
+        `Numéro d'urgence national pour animaux en détresse : 1515 (Carabinieri Forestali). ATS Bergamo coordonne la garde vétérinaire régionale hors horaires.`,
+      ],
+      en: [
+        `24/7 emergency vet: Clinica Veterinaria Città di Bergamo, Via Borgo Palazzo 261, Boccaleone. Call ahead before arriving, especially at night.`,
+        `BGY Airport (Milan Bergamo Orio al Serio): major Ryanair base, free shuttle to Bergamo station (15 min). EU pet passport + microchip required.`,
+        `Trenord direct trains to Milano Centrale (50 min), Brescia (50 min); Frecciarossa to Bologna, Florence, Rome via change at Milan.`,
+        `National emergency number for animals in distress: 1515 (Carabinieri Forestali). ATS Bergamo coordinates the regional out-of-hours veterinary on-call rota.`,
+      ],
+      es: [
+        `Veterinario de urgencias 24h: Clinica Veterinaria Città di Bergamo, Via Borgo Palazzo 261, Boccaleone. Llamar antes de llegar, especialmente de noche.`,
+        `Aeropuerto BGY (Milán Bérgamo Orio al Serio): base principal de Ryanair, lanzadera gratuita a la estación de Bérgamo (15 min). Pasaporte UE + microchip obligatorios.`,
+        `Trenes Trenord directos a Milano Centrale (50 min), Brescia (50 min); Frecciarossa a Bolonia, Florencia, Roma con transbordo en Milán.`,
+        `Número nacional de urgencias para animales en peligro: 1515 (Carabinieri Forestali). ATS Bérgamo coordina la guardia veterinaria regional fuera de horario.`,
+      ],
+      pt: [
+        `Veterinário de urgências 24h: Clinica Veterinaria Città di Bergamo, Via Borgo Palazzo 261, Boccaleone. Ligar antes de chegar, especialmente à noite.`,
+        `Aeroporto BGY (Milão Bérgamo Orio al Serio): base principal da Ryanair, transfer gratuito para a estação de Bérgamo (15 min). Passaporte UE + microchip obrigatórios.`,
+        `Comboios Trenord directos para Milano Centrale (50 min), Brescia (50 min); Frecciarossa para Bolonha, Florença, Roma com mudança em Milão.`,
+        `Número nacional de emergência para animais em perigo: 1515 (Carabinieri Forestali). A ATS Bergamo coordena a escala veterinária regional fora de horas.`,
+      ],
+    },
+  },
+
   bergen: {
     history: {
       fr: `Bergen, fondée en 1070 par le roi Olav Kyrre, fut pendant cinq siècles la capitale officieuse de la Norvège et le port hanséatique le plus important de Scandinavie. Le quai de Bryggen, classé UNESCO depuis 1979, témoigne de cet âge d'or marchand : maisons de bois colorées, ruelles labyrinthiques, entrepôts à poisson séché. Aujourd'hui Bergen compte 285 000 habitants et est la « porte des fjords » norvégiens, entrée pour le Sognefjord et le Hardangerfjord. Encastrée entre sept montagnes et la mer, c'est l'une des villes les plus dog-friendly de Scandinavie : transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre par funiculaire, climat océanique tempéré (240+ jours pluvieux), et culture café qui accueille les chiens em intérieur dès octobre. La saison laisse norvégienne (1er avril-20 août) protège les oiseaux nicheurs ; le reste de l'année, les chiens courent librement em montagne avec un bon rappel.`,

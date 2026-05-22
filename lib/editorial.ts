@@ -91,6 +91,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
       area: 'Stari Grad, Skadarlija, and Dorćol',
     },
+    bergamo: {
+      personality: `a UNESCO-walled hilltop town in Lombardy, with two pet-tolerant funiculars, the 4,700-hectare Parco dei Colli on its northern flank, and Lake Iseo, Lake Como and Lake Garda all within an hour for cool dog-friendly day trips`,
+      highlight: `the 6 km Mura Venete UNESCO walls walkway, the Parco dei Colli wooded ridges above Città Alta, and the San Vigilio funicular to the panoramic castle at 496 m`,
+      area: `Città Alta around Piazza Vecchia, Borgo Pignolo around the Accademia Carrara, and the San Vigilio hill`,
+    },
     bergen: {
       personality: 'Norway\'s gateway to the fjords, wedged between seven mountains and the sea, free public transport for dogs, off-leash mountains 7 minutes from the city centre, and a UNESCO Hanseatic wharf at the harbour',
       highlight: 'Mount Fløyen via the Fløibanen funicular, the Vidden ridge to Mount Ulriken, and the colourful Bryggen wharf',
@@ -839,6 +844,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
       area: 'Stari Grad, Skadarlija et Dorćol',
     },
+    bergamo: {
+      personality: `une cité fortifiée UNESCO de Lombardie, deux funiculaires pet-tolerant, le Parco dei Colli de 4 700 ha sur son flanc nord, et les lacs d'Iseo, de Côme et de Garde à moins d'une heure pour des excursions canines au frais`,
+      highlight: `la boucle de 6 km des Mura Venete UNESCO, les crêtes boisées du Parco dei Colli au-dessus de la Città Alta et le funiculaire San Vigilio jusqu'au château panoramique à 496 m`,
+      area: `la Città Alta autour de la Piazza Vecchia, Borgo Pignolo autour de l'Accademia Carrara et la colline de San Vigilio`,
+    },
     bergen: {
       personality: 'la porte d\'entrée norvégienne des fjords, encastrée entre sept montagnes et la mer, transports publics gratuits pour les chiens, montagnes sans laisse à 7 minutes du centre, et un quai hanséatique UNESCO sur le port',
       highlight: 'le Mont Fløyen via le funiculaire Fløibanen, la crête Vidden vers le Mont Ulriken et le quai coloré de Bryggen',
@@ -1586,6 +1596,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la fortaleza de Kalemegdan, la península de Ada Ciganlija y el parque Tašmajdan',
       area: 'Stari Grad, Skadarlija y Dorćol',
     },
+    bergamo: {
+      personality: `una ciudad amurallada UNESCO de Lombardía, dos funiculares pet-tolerant, el Parco dei Colli de 4.700 ha en su flanco norte, y los lagos de Iseo, Como y Garda a menos de una hora para escapadas caninas con clima más fresco`,
+      highlight: `el circuito de 6 km de las Mura Venete UNESCO, las crestas boscosas del Parco dei Colli sobre la Città Alta y el funicular de San Vigilio hasta el castillo panorámico a 496 m`,
+      area: `la Città Alta en torno a la Piazza Vecchia, Borgo Pignolo junto a la Accademia Carrara y la colina de San Vigilio`,
+    },
     bergen: {
       personality: 'la puerta noruega a los fiordos, encajada entre siete montañas y el mar, transporte público gratis para perros, montañas sin correa a 7 minutos del centro, y un muelle hanseático UNESCO en el puerto',
       highlight: 'el Monte Fløyen vía el funicular Fløibanen, la cresta Vidden hasta el Monte Ulriken y el colorido muelle Bryggen',
@@ -2332,6 +2347,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales europeias mais asequibles, com a praia canina de Ada Ciganlija o ano inteiro, transporte público gratuito a partir de 2025 e o único hospital veterinário 24/7 de Serbia',
       highlight: 'a fortaleza de Kalemegdan, a península de Ada Ciganlija e o parque Tašmajdan',
       area: 'Stari Grad, Skadarlija e Dorćol',
+    },
+    bergamo: {
+      personality: `uma cidade amuralhada UNESCO da Lombardia, dois funiculares pet-tolerant, o Parco dei Colli de 4.700 ha no seu flanco norte, e os lagos de Iseo, Como e Garda a menos de uma hora para escapadas caninas com clima mais fresco`,
+      highlight: `o circuito de 6 km das Mura Venete UNESCO, as cristas arborizadas do Parco dei Colli sobre a Città Alta e o funicular de San Vigilio até ao castelo panorâmico a 496 m`,
+      area: `a Città Alta em torno da Piazza Vecchia, Borgo Pignolo junto à Accademia Carrara e a colina de San Vigilio`,
     },
     bergen: {
       personality: 'a puerta noruega aos fiordos, encajada entre siete montanhas e o mar, transporte público grátis para cães, montanhas sem trela a 7 minutos do centro, e um muelle hanseático UNESCO no porto',

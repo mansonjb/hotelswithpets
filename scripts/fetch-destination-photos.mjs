@@ -26,6 +26,7 @@ async function loadApiKey() {
 const TARGETS = [
   { slug: 'ajaccio',       query: 'Ajaccio Corsica France marina old town Citadel Mediterranean panorama' },
   { slug: 'alicante',      query: 'Alicante Spain Santa Bárbara castle Mediterranean Explanada palm trees panorama' },
+  { slug: 'bergamo',       query: 'Bergamo Italy Citta Alta Piazza Vecchia Venetian walls Lombardy panorama' },
   { slug: 'marseille',     query: 'Vieux Port Marseille waterfront' },
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },
   { slug: 'bologna',       query: 'Piazza Maggiore Bologna' },

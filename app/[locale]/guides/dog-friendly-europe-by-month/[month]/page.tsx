@@ -153,6 +153,7 @@ const MONTH_NAMES: Record<string, Record<MonthKey, string>> = {
   en: { january: 'January', february: 'February', march: 'March', april: 'April', may: 'May', june: 'June', july: 'July', august: 'August', september: 'September', october: 'October', november: 'November', december: 'December' },
   fr: { january: 'janvier', february: 'février', march: 'mars', april: 'avril', may: 'mai', june: 'juin', july: 'juillet', august: 'août', september: 'septembre', october: 'octobre', november: 'novembre', december: 'décembre' },
   es: { january: 'enero', february: 'febrero', march: 'marzo', april: 'abril', may: 'mayo', june: 'junio', july: 'julio', august: 'agosto', september: 'septiembre', october: 'octubre', november: 'noviembre', december: 'diciembre' },
+  pt: { january: 'janeiro', february: 'fevereiro', march: 'março', april: 'abril', may: 'maio', june: 'junho', july: 'julho', august: 'agosto', september: 'setembro', october: 'outubro', november: 'novembro', december: 'dezembro' },
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; month: string }> }): Promise<Metadata> {
@@ -164,11 +165,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: `Best Dog-Friendly Cities in Europe in ${mn} (2026) | HotelsWithPets.com`,
     fr: `Les meilleures villes dog-friendly d'Europe en ${mn} (2026) | HotelsWithPets.com`,
     es: `Las mejores ciudades dog-friendly de Europa en ${mn} (2026) | HotelsWithPets.com`,
+    pt: `As melhores cidades dog-friendly da Europa em ${mn} (2026) | HotelsWithPets.com`,
   }
   const descs: Record<string, string> = {
     en: `Where to travel in Europe with a dog or cat in ${mn}. 6 hand-picked destinations with current weather, dog-beach openings, festival warnings and pet-friendly hotel inventory.`,
     fr: `Où voyager en Europe avec un chien ou un chat en ${mn}. 6 destinations sélectionnées avec météo actuelle, ouvertures de plages canines, alertes festivals et inventaire d'hôtels pet-friendly.`,
     es: `Dónde viajar por Europa con un perro o un gato en ${mn}. 6 destinos seleccionados con tiempo actual, aperturas de playas caninas, alertas de festivales e inventario de hoteles pet-friendly.`,
+    pt: `Onde viajar pela Europa com um cão ou gato em ${mn}. 6 destinos selecionados com meteorologia atual, aberturas de praias caninas, alertas de festivais e inventário de hotéis pet-friendly.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {

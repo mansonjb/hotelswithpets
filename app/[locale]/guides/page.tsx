@@ -20,11 +20,13 @@ export async function generateMetadata({
     en: 'Pet Travel Guides for Europe | HotelsWithPets.com',
     fr: 'Guides pratiques pour voyager avec son animal en Europe | HotelsWithPets.com',
     es: 'Guías prácticas para viajar con mascota en Europa | HotelsWithPets.com',
+    pt: 'Guias práticos para viajar com o seu animal pela Europa | HotelsWithPets.com',
   }
   const descriptions: Record<string, string> = {
     en: 'Practical guides for travelling with your dog or cat across Europe: pet passport requirements, country-by-country rules, tips and more.',
     fr: 'Guides pratiques pour voyager avec votre chien ou chat en Europe : passeport animal, règles par pays, conseils essentiels.',
     es: 'Guías prácticas para viajar con tu perro o gato por Europa: pasaporte de mascota, normas por país, consejos imprescindibles.',
+    pt: 'Guias práticos para viajar com o seu cão ou gato pela Europa: passaporte animal, regras país a país, dicas essenciais.',
   }
 
   return {

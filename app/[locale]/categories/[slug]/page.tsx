@@ -19,18 +19,22 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   const cat = categories.find((c) => c.slug === slug)
   if (!cat) return {}
 
-  const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : cat.name
+  const catNamePt = (cat as Record<string, unknown>).namePt as string | undefined
+  const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : locale === 'pt' && catNamePt ? catNamePt : cat.name
   const titleTemplates: Record<string, string> = {
     en: `${catName} Hotels in Europe | HotelsWithPets.com`,
     fr: `Hôtels en Europe, ${catName} | HotelsWithPets.com`,
     es: `Hoteles en Europa, ${catName} | HotelsWithPets.com`,
+    pt: `Hotéis na Europa, ${catName} | HotelsWithPets.com`,
   }
   const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
+  const metaDescPt = (cat as Record<string, unknown>).descriptionPt as string | undefined
   const descTemplates: Record<string, string> = {
     en: `${cat.description} Browse ${cat.cityCount}+ destinations and find the perfect stay for you and your pet.`,
     fr: `${metaDescFr ?? cat.description} Parcourez ${cat.cityCount}+ destinations et trouvez le séjour idéal pour vous et votre animal.`,
     es: `${metaDescEs ?? cat.description} Explora ${cat.cityCount}+ destinos y encuentra el alojamiento perfecto para ti y tu mascota.`,
+    pt: `${metaDescPt ?? cat.description} Explore ${cat.cityCount}+ destinos e encontre a estadia ideal para si e o seu animal.`,
   }
 
   return {

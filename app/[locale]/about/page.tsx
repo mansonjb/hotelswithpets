@@ -14,11 +14,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     en: 'About HotelsWithPets.com | How We Find Pet-Friendly Hotels',
     fr: 'À propos de HotelsWithPets.com | Comment nous trouvons les hôtels',
     es: 'Sobre HotelsWithPets.com | Cómo encontramos hoteles con mascotas',
+    pt: 'Sobre HotelsWithPets.com | Como encontramos hotéis que aceitam animais',
   }
   const descriptions: Record<string, string> = {
     en: 'HotelsWithPets.com helps pet owners find and book the best pet-friendly hotels in Europe. Learn how we select hotels and verify their pet policies.',
     fr: 'HotelsWithPets.com aide les propriétaires d\'animaux à trouver et réserver les meilleurs hôtels acceptant les animaux en Europe.',
     es: 'HotelsWithPets.com ayuda a los dueños de mascotas a encontrar y reservar los mejores hoteles que admiten mascotas en Europa.',
+    pt: 'A HotelsWithPets.com ajuda os donos de animais a encontrar e reservar os melhores hotéis que aceitam animais na Europa. Saiba como selecionamos os hotéis e verificamos as suas políticas.',
   }
   return {
     title: titles[locale] ?? titles.en,

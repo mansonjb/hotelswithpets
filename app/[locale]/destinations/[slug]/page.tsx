@@ -39,21 +39,26 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const year = new Date().getFullYear()
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
+  const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
   const countryFr = getLocalizedCountryName(dest.country, 'fr')
   const countryEs = getLocalizedCountryName(dest.country, 'es')
+  const countryPt = getLocalizedCountryName(dest.country, 'pt')
   // SERP titles optimised for real query patterns (GSC May 2026 data):
   // ES: "hoteles madrid mascotas", "hoteles pet friendly madrid", "hotel con mascotas madrid", "hoteles que admiten mascotas"
   // FR: "hôtel accepte chiens X", "hôtels animaux acceptés à X", "hôtels pet-friendly X"
   // EN: "dog friendly hotel X", "pet friendly hotel X", "cat friendly hotel X"
+  // PT: "hotéis que aceitam animais X", "hotéis pet-friendly X", "hotel com cães X"
   const titleTemplates: Record<string, string> = {
     en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}), Dog & Cat Friendly Stays Verified | HotelsWithPets.com`,
     fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}), Chiens et chats bienvenus | HotelsWithPets.com`,
     es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}), Hoteles pet-friendly verificados | HotelsWithPets.com`,
+    pt: `${hotelCount} hotéis que aceitam animais em ${cityPt} (${year}), Cães e gatos bem-vindos | HotelsWithPets.com`,
   }
   const descTemplates: Record<string, string> = {
     en: `${hotelCount} verified dog- and cat-friendly hotels in ${dest.name}, ${dest.country} from €${minPrice}/night. Pet fees, weight limits and policies clearly listed. Book on Booking.com.`,
     fr: `${hotelCount} hôtels pet-friendly vérifiés à ${cityFr}, ${countryFr} dès ${minPrice} €/nuit. Supplément animaux, poids maximum et conditions clairement détaillés. Réservez sur Booking.com.`,
     es: `${hotelCount} hoteles que admiten perros y gatos en ${cityEs}, ${countryEs} desde ${minPrice} €/noche. Suplemento mascotas, peso máximo y condiciones detalladas. Reserva en Booking.com.`,
+    pt: `${hotelCount} hotéis verificados que aceitam cães e gatos em ${cityPt}, ${countryPt} a partir de ${minPrice} €/noite. Suplemento para animais, peso máximo e condições claramente detalhados. Reserve na Booking.com.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en

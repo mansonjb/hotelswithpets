@@ -156,6 +156,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Bom Jesus do Monte forested staircase, Parque da Ponte along the river, and the Mosteiro de Tibães monastery gardens',
       area: 'the Sé historic quarter, the Sá de Miranda café district, and the leafy university campus zone',
     },
+    brasov: {
+      personality: 'a medieval Saxon citadel at the foot of the Carpathian Mountains, where Gothic Black Church silhouettes, pastel-painted Piața Sfatului and forested Tâmpa trails frame an unusually walkable old town with direct access to Bran, Râșnov and Peleș day trips',
+      highlight: 'the Tâmpa Mountain forest trails and cable car, Parcul Tractorul and Parcul Tiberiu Brediceanu, and the cobbled Strada Sforii',
+      area: 'the Old Town around Piața Sfatului, the Schei quarter below Tâmpa, and the Centrul Civic district',
+    },
     bratislava: {
       personality: 'a compact, affordable Central European capital where dogs walk the cobbled Old Town squares, the Carpathian forests, and the Danube embankments, all on foot from the centre',
       highlight: 'Železná Studnička forest, Sad Janka Kráľa, and the Devín riverside',
@@ -929,6 +934,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `l'escalier boisé du Bom Jesus do Monte, le Parque da Ponte le long du Este et les jardins du Mosteiro de Tibães`,
       area: 'le quartier historique de la Sé, le secteur des cafés de Sá de Miranda et le campus universitaire arboré',
     },
+    brasov: {
+      personality: `une citadelle saxonne médiévale au pied des Carpates, où la silhouette gothique de l'Église noire, la Piața Sfatului aux façades pastel et les sentiers boisés du Tâmpa encadrent une vieille ville étonnamment pédestre, avec accès direct aux excursions de Bran, Râșnov et Peleș`,
+      highlight: 'les sentiers forestiers du mont Tâmpa et son téléphérique, le Parcul Tractorul et le Parcul Tiberiu Brediceanu, et la Strada Sforii pavée',
+      area: 'la vieille ville autour de Piața Sfatului, le quartier de Schei au pied du Tâmpa et le secteur du Centrul Civic',
+    },
     bratislava: {
       personality: 'une capitale d\'Europe centrale compacte et abordable où les chiens arpentent les places pavées de la vieille ville, les forêts des Carpates et les berges du Danube, tout à pied depuis le centre',
       highlight: 'la forêt de Železná Studnička, Sad Janka Kráľa et la rive de Devín',
@@ -1701,6 +1711,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la escalinata boscosa de Bom Jesus do Monte, el Parque da Ponte junto al río Este y los jardines del Monasterio de Tibães',
       area: 'el casco histórico de la Sé, la zona de cafés de Sá de Miranda y el campus universitario arbolado',
     },
+    brasov: {
+      personality: 'una ciudadela sajona medieval al pie de los Cárpatos, donde la silueta gótica de la Iglesia Negra, la Piața Sfatului de fachadas pastel y los senderos forestales del Tâmpa enmarcan un casco antiguo sorprendentemente peatonal, con acceso directo a las excursiones de Bran, Râșnov y Peleș',
+      highlight: 'los senderos forestales del monte Tâmpa y su teleférico, el Parcul Tractorul y el Parcul Tiberiu Brediceanu, y la empedrada Strada Sforii',
+      area: 'el casco antiguo en torno a Piața Sfatului, el barrio de Schei al pie del Tâmpa y el distrito de Centrul Civic',
+    },
     bratislava: {
       personality: 'una capital centroeuropea compacta y asequible donde los perros recorren las plazas adoquinadas del casco antiguo, los bosques de los Cárpatos y las riberas del Danubio, todo a pie desde el centro',
       highlight: 'el bosque de Železná Studnička, Sad Janka Kráľa y la ribera de Devín',
@@ -2472,6 +2487,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade histórica mais antiga de Portugal e a mais jovem pela sua população universitária, onde o escadório barroco de Bom Jesus, as praças graníticas da Sé e as esplanadas pet-friendly definem um Minho descontraído e fresco',
       highlight: 'o escadório arborizado de Bom Jesus do Monte, o Parque da Ponte ao longo do rio Este e os jardins do Mosteiro de Tibães',
       area: 'a Sé histórica, a zona de cafés de Sá de Miranda e o campus universitário arborizado',
+    },
+    brasov: {
+      personality: 'uma cidadela saxã medieval aos pés dos Cárpatos, onde a silhueta gótica da Igreja Negra, a Piața Sfatului com fachadas em tons pastel e os trilhos arborizados do Tâmpa enquadram um centro histórico invulgarmente pedonal, com acesso direto às excursões de Bran, Râșnov e Peleș',
+      highlight: 'os trilhos florestais do monte Tâmpa e o seu teleférico, o Parcul Tractorul e o Parcul Tiberiu Brediceanu, e a calcetada Strada Sforii',
+      area: 'o centro histórico em torno da Piața Sfatului, o bairro de Schei aos pés do Tâmpa e o distrito do Centrul Civic',
     },
     bratislava: {
       personality: 'uma capital centroeuropea compacta e asequible onde os cães recorren as praças adoquinadas do centro histórico, os florestas dos Cárpatos e as riberas do Danubio, todo a pé a partir do centro',

@@ -3960,6 +3960,126 @@
     "slug": "hotel-mercure-braga-centro"
   },
   {
+    "id": "brasov-1",
+    "name": "Hotel Aro Palace",
+    "destinationSlug": "brasov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2950,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/aro-palace.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Aro Palace welcomes pets in the historic 1939 landmark hotel on Bulevardul Eroilor, a five-minute walk from Piața Sfatului. A pet fee of €25 per night applies; small to medium pets are accepted (max 15 kg, one per room). Pets must be kept on lead in all common areas and are not permitted in the restaurant, spa or indoor pool. Declare your pet at the time of booking.",
+    "highlights": [
+      "Historic 1939 landmark",
+      "Indoor pool & spa",
+      "5-min walk to Piața Sfatului"
+    ],
+    "slug": "aro-palace-brasov"
+  },
+  {
+    "id": "brasov-2",
+    "name": "Hotel Kronwell Brașov",
+    "destinationSlug": "brasov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1820,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/kronwell-brasov.html",
+    "petFee": 20,
+    "petPolicy": "Hotel Kronwell Brașov accepts pets in its contemporary design hotel in the Centrul Civic district, 10 minutes' walk from the old town. A pet fee of €20 per night per pet applies, with one pet up to 10 kg per room. Pets must be kept on lead in lobbies and corridors and are not permitted in the restaurant or spa areas. Declare your pet at the time of booking.",
+    "highlights": [
+      "Contemporary design",
+      "Spa & indoor pool",
+      "10-min walk to old town"
+    ],
+    "slug": "kronwell-brasov"
+  },
+  {
+    "id": "brasov-3",
+    "name": "Casa Wagner",
+    "destinationSlug": "brasov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 1480,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/casa-wagner.html",
+    "petFee": 15,
+    "petPolicy": "Casa Wagner is a 16th-century Saxon merchant townhouse on Piața Sfatului, lovingly restored as a boutique hotel. Pets are accepted for a fee of €15 per night per pet (max 10 kg). Pets must be kept on lead in all common areas and are not permitted in the breakfast room. The team can recommend dog walkers and dog-friendly hiking routes on Tâmpa. Declare your pet at booking.",
+    "highlights": [
+      "Historic Saxon townhouse on Piața Sfatului",
+      "Boutique 3★",
+      "Excellent breakfast"
+    ],
+    "slug": "casa-wagner-brasov"
+  },
+  {
+    "id": "brasov-4",
+    "name": "Hotel Bella Muzica",
+    "destinationSlug": "brasov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 2120,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/bellamuzica.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Bella Muzica occupies a 16th-century building on Piața Sfatului with a Mexican-Romanian fusion restaurant in a vaulted cellar. Pets up to 10 kg are accepted for a fee of €15 per night. Pets are welcome in rooms and on lead in lobbies; the cellar restaurant is reserved for guests without pets due to the confined space. Declare your pet at booking.",
+    "highlights": [
+      "Direct on Piața Sfatului",
+      "Family-run",
+      "Steps from Tâmpa cable car"
+    ],
+    "slug": "bella-muzica-brasov"
+  },
+  {
+    "id": "brasov-5",
+    "name": "ibis Brașov Centrum",
+    "destinationSlug": "brasov",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 3650,
+    "priceFrom": 60,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ro/ibis-brasov.html",
+    "petFee": 10,
+    "petPolicy": "ibis Brașov Centrum welcomes pets across the Accor pet-friendly programme. A fee of €10 per night per pet applies (max 7 kg). Pets must be kept on lead in lobbies and corridors and are not permitted in the breakfast area. The hotel sits a 15-minute walk from the old town and is well-served by buses 4 and 50 to Piața Sfatului.",
+    "highlights": [
+      "Accor Open Paws programme",
+      "Best value 3★ in Brașov",
+      "15-min walk to old town"
+    ],
+    "slug": "ibis-brasov-centrum"
+  },
+  {
     "id": "bratislava-1",
     "name": "Sheraton Bratislava Hotel",
     "destinationSlug": "bratislava",
@@ -5852,128 +5972,6 @@
     "slug": "hotel-san-michele-capri"
   },
   {
-    "id": "cardiff-1",
-    "name": "voco St. David's Cardiff by IHG",
-    "destinationSlug": "cardiff",
-    "categories": [
-      "dog-friendly",
-      "luxury",
-      "luxury-pet-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 5,
-    "rating": 9.2,
-    "reviewCount": 3400,
-    "priceFrom": 180,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/voco-st-davids-cardiff.html",
-    "petFee": 35,
-    "petPolicy": "Dogs up to 30 kg accepted in designated rooms only for £35 per dog per night, advance notice required so the front desk can allocate a pet-approved room. Cats are not allowed and dogs may not be left unattended. The Cardiff Bay location puts the barrage walk and Mermaid Quay restaurants on the doorstep.",
-    "highlights": [
-      "Cardiff Bay waterfront with views over the marina",
-      "Marine Spa with indoor pool",
-      "Dog-friendly Mermaid Quay restaurants at the door"
-    ],
-    "slug": "voco-st-davids-cardiff"
-  },
-  {
-    "id": "cardiff-2",
-    "name": "The Angel Hotel Cardiff",
-    "destinationSlug": "cardiff",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "boutique-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 5500,
-    "priceFrom": 95,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/theangelhotel-cardiff.en-gb.html",
-    "petFee": 15,
-    "petPolicy": "Pets welcomed for £15 per pet per stay (not per night) with a refundable £100 damage deposit taken at check-in. Pets are allowed in guest rooms and in the bar and lounge areas, but not in the main restaurant. The hotel sits directly opposite Cardiff Castle and the Bute Park gates.",
-    "highlights": [
-      "Opposite Cardiff Castle and Bute Park gates",
-      "Cairn Collection Victorian heritage building",
-      "Pets accepted in rooms, bar and lounge"
-    ],
-    "slug": "the-angel-hotel-cardiff"
-  },
-  {
-    "id": "cardiff-3",
-    "name": "Novotel Cardiff Centre",
-    "destinationSlug": "cardiff",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 7.8,
-    "reviewCount": 3800,
-    "priceFrom": 75,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/hanoverinternationalcardiff.en-gb.html",
-    "petFee": 15,
-    "petPolicy": "Pets of any size accepted for £15 per pet per night, advance notice requested at booking. Indoor pool and gym on site, ten minutes' walk from Cardiff Central station and the Principality Stadium. Bute Park is a fifteen-minute riverside walk from the front door.",
-    "highlights": [
-      "Indoor pool and gym",
-      "10-minute walk to Cardiff Central station",
-      "Pets of any size accepted"
-    ],
-    "slug": "novotel-cardiff-centre"
-  },
-  {
-    "id": "cardiff-4",
-    "name": "Holiday Inn Cardiff Bay by IHG",
-    "destinationSlug": "cardiff",
-    "categories": [
-      "dog-friendly",
-      "near-parks",
-      "budget-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.2,
-    "reviewCount": 2900,
-    "priceFrom": 85,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/holiday-inn-cardiff-bay.html",
-    "petFee": 15,
-    "petPolicy": "Small dogs welcomed for £15 per pet per night, maximum one dog per room. Dogs may not be left unattended in the room and are not allowed in the dining or lounge areas. Five minutes' walk from Mermaid Quay and the start of the Cardiff Bay barrage promenade.",
-    "highlights": [
-      "5 min walk to Cardiff Bay barrage start",
-      "Direct access to Mermaid Quay restaurants",
-      "Small dogs welcomed, max 1 per room"
-    ],
-    "slug": "holiday-inn-cardiff-bay"
-  },
-  {
-    "id": "cardiff-5",
-    "name": "easyHotel Cardiff City Centre",
-    "destinationSlug": "cardiff",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "budget-pet-friendly"
-    ],
-    "stars": 3,
-    "rating": 7.6,
-    "reviewCount": 2100,
-    "priceFrom": 39,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/easyhotel-cardiff-city-centre.html",
-    "petFee": 10,
-    "petPolicy": "Both dogs and cats welcomed for £10 per pet per night, maximum two pets per room. Dogs over 60 cm at the shoulder are not accepted. Pets must be supervised by their owners at all times. Guide and assistance dogs stay free. A short walk from Queen Street and Cardiff Castle.",
-    "highlights": [
-      "Best-value pet-friendly option in the city centre",
-      "Short walk to Cardiff Castle and Queen Street",
-      "Dogs and cats welcomed under 60 cm"
-    ],
-    "slug": "easyhotel-cardiff-city-centre"
-  },
-  {
     "id": "carcassonne-1",
     "name": "Hôtel de la Cité Carcassonne - MGallery",
     "destinationSlug": "carcassonne",
@@ -6094,6 +6092,128 @@
       "Best-value pet-friendly option in central Carcassonne"
     ],
     "slug": "hotel-espace-cite-carcassonne"
+  },
+  {
+    "id": "cardiff-1",
+    "name": "voco St. David's Cardiff by IHG",
+    "destinationSlug": "cardiff",
+    "categories": [
+      "dog-friendly",
+      "luxury",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 3400,
+    "priceFrom": 180,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/voco-st-davids-cardiff.html",
+    "petFee": 35,
+    "petPolicy": "Dogs up to 30 kg accepted in designated rooms only for £35 per dog per night, advance notice required so the front desk can allocate a pet-approved room. Cats are not allowed and dogs may not be left unattended. The Cardiff Bay location puts the barrage walk and Mermaid Quay restaurants on the doorstep.",
+    "highlights": [
+      "Cardiff Bay waterfront with views over the marina",
+      "Marine Spa with indoor pool",
+      "Dog-friendly Mermaid Quay restaurants at the door"
+    ],
+    "slug": "voco-st-davids-cardiff"
+  },
+  {
+    "id": "cardiff-2",
+    "name": "The Angel Hotel Cardiff",
+    "destinationSlug": "cardiff",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 5500,
+    "priceFrom": 95,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/theangelhotel-cardiff.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Pets welcomed for £15 per pet per stay (not per night) with a refundable £100 damage deposit taken at check-in. Pets are allowed in guest rooms and in the bar and lounge areas, but not in the main restaurant. The hotel sits directly opposite Cardiff Castle and the Bute Park gates.",
+    "highlights": [
+      "Opposite Cardiff Castle and Bute Park gates",
+      "Cairn Collection Victorian heritage building",
+      "Pets accepted in rooms, bar and lounge"
+    ],
+    "slug": "the-angel-hotel-cardiff"
+  },
+  {
+    "id": "cardiff-3",
+    "name": "Novotel Cardiff Centre",
+    "destinationSlug": "cardiff",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 3800,
+    "priceFrom": 75,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hanoverinternationalcardiff.en-gb.html",
+    "petFee": 15,
+    "petPolicy": "Pets of any size accepted for £15 per pet per night, advance notice requested at booking. Indoor pool and gym on site, ten minutes' walk from Cardiff Central station and the Principality Stadium. Bute Park is a fifteen-minute riverside walk from the front door.",
+    "highlights": [
+      "Indoor pool and gym",
+      "10-minute walk to Cardiff Central station",
+      "Pets of any size accepted"
+    ],
+    "slug": "novotel-cardiff-centre"
+  },
+  {
+    "id": "cardiff-4",
+    "name": "Holiday Inn Cardiff Bay by IHG",
+    "destinationSlug": "cardiff",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 2900,
+    "priceFrom": 85,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/holiday-inn-cardiff-bay.html",
+    "petFee": 15,
+    "petPolicy": "Small dogs welcomed for £15 per pet per night, maximum one dog per room. Dogs may not be left unattended in the room and are not allowed in the dining or lounge areas. Five minutes' walk from Mermaid Quay and the start of the Cardiff Bay barrage promenade.",
+    "highlights": [
+      "5 min walk to Cardiff Bay barrage start",
+      "Direct access to Mermaid Quay restaurants",
+      "Small dogs welcomed, max 1 per room"
+    ],
+    "slug": "holiday-inn-cardiff-bay"
+  },
+  {
+    "id": "cardiff-5",
+    "name": "easyHotel Cardiff City Centre",
+    "destinationSlug": "cardiff",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.6,
+    "reviewCount": 2100,
+    "priceFrom": 39,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/easyhotel-cardiff-city-centre.html",
+    "petFee": 10,
+    "petPolicy": "Both dogs and cats welcomed for £10 per pet per night, maximum two pets per room. Dogs over 60 cm at the shoulder are not accepted. Pets must be supervised by their owners at all times. Guide and assistance dogs stay free. A short walk from Queen Street and Cardiff Castle.",
+    "highlights": [
+      "Best-value pet-friendly option in the city centre",
+      "Short walk to Cardiff Castle and Queen Street",
+      "Dogs and cats welcomed under 60 cm"
+    ],
+    "slug": "easyhotel-cardiff-city-centre"
   },
   {
     "id": "cascais-1",

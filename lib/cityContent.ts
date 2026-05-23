@@ -3467,6 +3467,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  brasov: {
+    history: {
+      en: `Brașov is a Transylvanian Saxon city of about 280,000 residents in central Romania, founded in 1234 by the Teutonic Knights at the foot of the Carpathian Mountains. For 700 years it was one of the seven walled Saxon citadels of southern Transylvania, and the Gothic Black Church (Biserica Neagră), the cobbled Piața Sfatului and the surrounding ring of medieval bastions are all preserved within easy walking distance. Today Brașov is Romania's most-visited mountain city: the Tâmpa cable car climbs straight from the old town to a 960 m forested summit crowned with a Hollywood-style "BRAȘOV" sign, and the day-trip triangle of Bran Castle, Râșnov Citadel and Peleș Castle in Sinaia is all within an hour by bus. For visitors with dogs, Brașov pairs unusually walkable cobbled streets and dog-tolerant café terraces with one essential caution: the surrounding Carpathian forests are active brown-bear territory.`,
+      fr: `Brașov est une ville saxonne de Transylvanie d'environ 280 000 habitants, au cœur de la Roumanie, fondée en 1234 par les chevaliers teutoniques au pied des monts Carpates. Pendant 700 ans, elle fut l'une des sept citadelles saxonnes fortifiées du sud de la Transylvanie, et l'Église noire gothique (Biserica Neagră), la Piața Sfatului pavée et l'anneau de bastions médiévaux qui l'entoure sont tous préservés à distance de marche. Aujourd'hui Brașov est la ville de montagne la plus visitée de Roumanie : le téléphérique du Tâmpa grimpe directement depuis la vieille ville jusqu'à un sommet boisé de 960 m couronné d'un panneau « BRAȘOV » façon Hollywood, et le triangle d'excursion château de Bran, citadelle de Râșnov et château de Peleș à Sinaia est à moins d'une heure de bus. Pour les visiteurs avec un chien, Brașov combine des ruelles pavées étonnamment pédestres et des terrasses de café tolérantes aux chiens, avec une mise en garde essentielle : les forêts carpates environnantes sont en territoire d'ours bruns actifs.`,
+      es: `Brașov es una ciudad sajona de Transilvania de unos 280.000 habitantes en el centro de Rumanía, fundada en 1234 por los caballeros teutónicos al pie de los Cárpatos. Durante 700 años fue una de las siete ciudadelas sajonas amuralladas del sur de Transilvania, y la Iglesia Negra gótica (Biserica Neagră), la empedrada Piața Sfatului y el anillo de bastiones medievales que la rodea están todos preservados a distancia caminable. Hoy Brașov es la ciudad de montaña más visitada de Rumanía: el teleférico del Tâmpa sube directamente desde el casco antiguo hasta una cima boscosa de 960 m coronada por un cartel «BRAȘOV» al estilo Hollywood, y el triángulo de excursión castillo de Bran, ciudadela de Râșnov y castillo de Peleș en Sinaia está a menos de una hora en autobús. Para visitantes con perro, Brașov combina callejuelas empedradas sorprendentemente peatonales y terrazas de café tolerantes con perros, con una advertencia esencial: los bosques de los Cárpatos circundantes son territorio activo de osos pardos.`,
+      pt: `Brașov é uma cidade saxã da Transilvânia com cerca de 280 000 habitantes no centro da Roménia, fundada em 1234 pelos cavaleiros teutónicos aos pés dos Cárpatos. Durante 700 anos foi uma das sete cidadelas saxãs muralhadas do sul da Transilvânia, e a Igreja Negra gótica (Biserica Neagră), a calcetada Piața Sfatului e o anel de bastiões medievais que a rodeia estão todos preservados a uma distância pedonal. Hoje Brașov é a cidade de montanha mais visitada da Roménia: o teleférico do Tâmpa sobe diretamente do centro histórico até um cume arborizado de 960 m coroado por um sinal "BRAȘOV" ao estilo Hollywood, e o triângulo de excursão castelo de Bran, cidadela de Râșnov e castelo de Peleș em Sinaia fica a menos de uma hora de autocarro. Para visitantes com cão, Brașov combina ruelas calcetadas surpreendentemente pedonais e esplanadas de café tolerantes com cães, com um aviso essencial: as florestas dos Cárpatos circundantes são território ativo de ursos pardos.`,
+    },
+    sights: [
+      {
+        name: 'Piața Sfatului',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          en: `Brașov's pastel-painted central square, ringed by Saxon merchant houses, baroque façades and the 1420 Council House (now the History Museum). Dogs on lead welcome throughout the square and on the surrounding pedestrian streets.`,
+          fr: `La place centrale aux façades pastel de Brașov, bordée de maisons de marchands saxons, de façades baroques et de la Maison du Conseil de 1420 (aujourd'hui Musée d'Histoire). Chiens en laisse acceptés sur toute la place et dans les rues piétonnes environnantes.`,
+          es: `La plaza central de fachadas pastel de Brașov, rodeada por casas de mercaderes sajones, fachadas barrocas y la Casa del Consejo de 1420 (hoy Museo de Historia). Perros con correa admitidos en toda la plaza y en las calles peatonales circundantes.`,
+          pt: `A praça central de fachadas em tons pastel de Brașov, rodeada por casas de mercadores saxões, fachadas barrocas e a Casa do Conselho de 1420 (hoje Museu de História). Cães à trela bem-vindos em toda a praça e nas ruas pedonais circundantes.`,
+        },
+      },
+      {
+        name: 'Biserica Neagră (Black Church)',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `The Gothic Lutheran church that gives Brașov its symbol, built 1383–1477 and blackened by the great fire of 1689. The exterior, surrounding square and Honterus courtyard are dog-friendly on lead; the interior with its 16th-century Ottoman carpet collection does not admit pets.`,
+          fr: `L'église gothique luthérienne emblématique de Brașov, construite de 1383 à 1477 et noircie par le grand incendie de 1689. L'extérieur, la place environnante et la cour Honterus sont dog-friendly en laisse ; l'intérieur avec sa collection de tapis ottomans du XVIᵉ siècle n'admet pas d'animaux.`,
+          es: `La iglesia gótica luterana emblemática de Brașov, construida entre 1383 y 1477 y ennegrecida por el gran incendio de 1689. El exterior, la plaza circundante y el patio Honterus son pet-friendly con correa; el interior con su colección de alfombras otomanas del siglo XVI no admite mascotas.`,
+          pt: `A igreja gótica luterana emblemática de Brașov, construída entre 1383 e 1477 e enegrecida pelo grande incêndio de 1689. O exterior, a praça envolvente e o pátio Honterus são pet-friendly à trela; o interior com a sua coleção de tapetes otomanos do século XVI não admite animais.`,
+        },
+      },
+      {
+        name: 'Tâmpa Mountain & cable car',
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          en: `The forested 960 m peak that rises directly behind the old town, crowned by the giant white "BRAȘOV" Hollywood-style sign. Cable car or hiking trails (yellow triangle gentlest, 1 h to summit); dogs on lead throughout, brown-bear awareness essential.`,
+          fr: `Le sommet forestier de 960 m qui s'élève directement derrière la vieille ville, couronné par le grand panneau blanc « BRAȘOV » façon Hollywood. Téléphérique ou sentiers de randonnée (triangle jaune le plus doux, 1 h jusqu'au sommet) ; chiens en laisse partout, vigilance ours bruns indispensable.`,
+          es: `La cima forestal de 960 m que se eleva justo detrás del casco antiguo, coronada por el gran cartel blanco «BRAȘOV» al estilo Hollywood. Teleférico o senderos (triángulo amarillo el más suave, 1 h hasta la cima); perros con correa en todo el recorrido, vigilancia ante osos pardos imprescindible.`,
+          pt: `O cume arborizado de 960 m que se eleva diretamente atrás do centro histórico, coroado pelo grande sinal branco "BRAȘOV" ao estilo Hollywood. Teleférico ou trilhos (triângulo amarelo o mais suave, 1 h até ao cume); cães à trela em todo o percurso, vigilância de ursos pardos indispensável.`,
+        },
+      },
+      {
+        name: 'Strada Sforii',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `Famously one of the narrowest streets in Europe at 1.3 m wide, a 60 m alley between Strada Cerbului and Strada Poarta Schei. Dogs on lead welcome (small dogs only practical); the most photographed alley in town, busy on weekend afternoons.`,
+          fr: `Réputée pour être l'une des rues les plus étroites d'Europe avec 1,3 m de large, une ruelle de 60 m entre la Strada Cerbului et la Strada Poarta Schei. Chiens en laisse acceptés (en pratique petits chiens seulement) ; la ruelle la plus photographiée de la ville, bondée les après-midi de week-end.`,
+          es: `Famosa por ser una de las calles más estrechas de Europa con 1,3 m de ancho, una calleja de 60 m entre la Strada Cerbului y la Strada Poarta Schei. Perros con correa admitidos (en la práctica solo perros pequeños); la calleja más fotografiada de la ciudad, abarrotada los fines de semana por la tarde.`,
+          pt: `Famosa por ser uma das ruas mais estreitas da Europa com 1,3 m de largura, uma viela de 60 m entre a Strada Cerbului e a Strada Poarta Schei. Cães à trela bem-vindos (na prática apenas cães pequenos); a viela mais fotografada da cidade, lotada nas tardes de fim de semana.`,
+        },
+      },
+      {
+        name: 'Bran Castle (day trip)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `The 14th-century clifftop fortress 30 km from Brașov, marketed worldwide as "Dracula's Castle". The 22-hectare park, courtyards and outdoor terraces are dog-friendly on lead; the castle museum interior is not. Bus 1820 from Brașov bus station, 1 h.`,
+          fr: `La forteresse du XIVᵉ siècle perchée à 30 km de Brașov, mondialement commercialisée comme « château de Dracula ». Le parc de 22 hectares, les cours et les terrasses extérieures sont dog-friendly en laisse ; l'intérieur du musée du château ne l'est pas. Bus 1820 depuis la gare routière de Brașov, 1 h.`,
+          es: `La fortaleza del siglo XIV en lo alto de un peñasco a 30 km de Brașov, comercializada mundialmente como «castillo de Drácula». El parque de 22 hectáreas, los patios y las terrazas exteriores son pet-friendly con correa; el interior del museo del castillo no. Autobús 1820 desde la estación de buses de Brașov, 1 h.`,
+          pt: `A fortaleza do século XIV no cimo de um penhasco a 30 km de Brașov, comercializada mundialmente como "castelo do Drácula". O parque de 22 hectares, os pátios e as esplanadas exteriores são pet-friendly à trela; o interior do museu do castelo não. Autocarro 1820 desde a estação de autocarros de Brașov, 1 h.`,
+        },
+      },
+      {
+        name: 'Râșnov Citadel (day trip)',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          en: `A 13th-century Saxon hilltop fortress 15 km from Brașov, restored as an outdoor open-air museum. The entire ramparts, courtyards and viewpoints are dog-friendly on lead. Bus 1820 (continues past Bran), 45 min from Brașov.`,
+          fr: `Une forteresse saxonne de plateau du XIIIᵉ siècle à 15 km de Brașov, restaurée en musée ouvert. Remparts, cours et points de vue : intégralement dog-friendly en laisse. Bus 1820 (qui continue au-delà de Bran), 45 min depuis Brașov.`,
+          es: `Una fortaleza sajona de cima del siglo XIII a 15 km de Brașov, restaurada como museo al aire libre. Murallas, patios y miradores: enteramente pet-friendly con correa. Autobús 1820 (que continúa más allá de Bran), 45 min desde Brașov.`,
+          pt: `Uma fortaleza saxã de colina do século XIII a 15 km de Brașov, restaurada como museu ao ar livre. Muralhas, pátios e miradouros: inteiramente pet-friendly à trela. Autocarro 1820 (que continua para além de Bran), 45 min desde Brașov.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Brașov is in active brown-bear territory. Never hike Tâmpa or surrounding Carpathian forests at dusk, dawn or night; never let your dog off-lead in the forest; make noise on lower slopes near rubbish bins; never leave food (even kibble) outside hotel rooms or in cars.`,
+        `RAT Brașov city buses accept small dogs in carriers free; larger dogs with muzzle and lead at the driver's discretion, free. The Tâmpa cable car accepts muzzled large dogs or small dogs in carriers, free of charge, subject to space.`,
+        `CFR InterRegio trains Bucharest-Brașov (2.5 h) accept dogs under 30 kg in a carrier free; over 30 kg with muzzle and lead pay a 30% surcharge ticket (RON 20–30, €4–6).`,
+        `Most castle and church interiors (Black Church, Bran, Peleș, Sé in Brașov) exclude pets, but their outdoor parks, gardens and courtyards are dog-friendly: plan to alternate inside-visits with one partner waiting outside with the dog.`,
+        `Brașov has cold snowy winters (-5 to 0 °C, snow December–March) and mild summers (20–23 °C). Pack a warm coat for short-coated dogs November–March; in summer walk dogs at dawn or after 19h and carry water for the Tâmpa climb.`,
+      ],
+      fr: [
+        `Brașov est en territoire d'ours bruns actifs. Ne randonnez jamais le Tâmpa ni les forêts carpates environnantes au crépuscule, à l'aube ou la nuit ; ne lâchez jamais le chien en forêt ; faites du bruit sur les pentes basses près des poubelles ; ne laissez jamais de nourriture (même croquettes) hors de la chambre d'hôtel ou en voiture.`,
+        `Les bus urbains RAT Brașov acceptent les petits chiens en sac gratuitement ; les grands chiens muselés et en laisse à la discrétion du conducteur, gratuitement. Le téléphérique du Tâmpa accepte les grands chiens muselés ou les petits chiens en sac, gratuitement, sous réserve de place.`,
+        `Les trains InterRegio CFR Bucarest-Brașov (2h30) acceptent les chiens de moins de 30 kg en sac gratuitement ; au-delà de 30 kg en muselière et laisse, supplément de 30 % (20-30 RON, 4-6 €).`,
+        `La plupart des intérieurs de châteaux et d'églises (Église noire, Bran, Peleș, Sé de Brașov) excluent les animaux, mais leurs parcs, jardins et cours extérieurs sont dog-friendly : prévoyez d'alterner les visites intérieures, un conjoint attendant avec le chien.`,
+        `Brașov a des hivers froids et neigeux (-5 à 0 °C, neige de décembre à mars) et des étés doux (20-23 °C). Emportez un manteau chaud pour les chiens à poil court de novembre à mars ; en été, promenez à l'aube ou après 19h et emportez de l'eau pour la montée du Tâmpa.`,
+      ],
+      es: [
+        `Brașov está en territorio activo de osos pardos. No camine nunca por el Tâmpa ni los bosques de los Cárpatos circundantes al atardecer, al amanecer o de noche; no suelte nunca al perro en el bosque; haga ruido en las laderas bajas cerca de los contenedores; no deje nunca comida (ni siquiera pienso) fuera de la habitación de hotel ni en el coche.`,
+        `Los autobuses urbanos RAT Brașov admiten perros pequeños en transportín gratis; los grandes con bozal y correa a discreción del conductor, gratis. El teleférico del Tâmpa admite perros grandes con bozal o pequeños en transportín, gratis, según espacio.`,
+        `Los trenes InterRegio CFR Bucarest-Brașov (2,5 h) admiten perros de menos de 30 kg en transportín gratis; más de 30 kg con bozal y correa pagan un suplemento del 30 % (20-30 RON, 4-6 €).`,
+        `La mayoría de los interiores de castillos e iglesias (Iglesia Negra, Bran, Peleș, Sé de Brașov) excluyen mascotas, pero sus parques, jardines y patios exteriores son pet-friendly: planifique alternar las visitas interiores, un miembro de la pareja esperando con el perro.`,
+        `Brașov tiene inviernos fríos y nevados (-5 a 0 °C, nieve de diciembre a marzo) y veranos suaves (20-23 °C). Lleve un abrigo cálido para perros de pelo corto de noviembre a marzo; en verano pasee al amanecer o después de las 19:00 y lleve agua para la subida al Tâmpa.`,
+      ],
+      pt: [
+        `Brașov está em território ativo de ursos pardos. Não faça caminhadas no Tâmpa nem nas florestas circundantes dos Cárpatos ao anoitecer, ao amanhecer ou à noite; não solte nunca o cão na floresta; faça barulho nas encostas baixas perto dos contentores de lixo; nunca deixe comida (nem ração) fora do quarto de hotel ou no carro.`,
+        `Os autocarros urbanos RAT Brașov aceitam cães pequenos em transportadora gratuitamente; os grandes com açaime e trela à discrição do motorista, gratuitamente. O teleférico do Tâmpa aceita cães grandes com açaime ou pequenos em transportadora, gratuitamente, sujeito a espaço.`,
+        `Os comboios InterRegio CFR Bucareste-Brașov (2h30) aceitam cães abaixo de 30 kg em transportadora gratuitamente; acima de 30 kg com açaime e trela pagam um suplemento de 30 % (20-30 RON, 4-6 €).`,
+        `A maioria dos interiores de castelos e igrejas (Igreja Negra, Bran, Peleș, Sé de Brașov) excluem animais, mas os seus parques, jardins e pátios exteriores são pet-friendly: planeie alternar as visitas interiores com um dos membros do casal a esperar com o cão.`,
+        `Brașov tem invernos frios e com neve (-5 a 0 °C, neve de dezembro a março) e verões amenos (20-23 °C). Leve um casaco quente para cães de pelo curto de novembro a março; no verão passeie ao amanhecer ou depois das 19h e leve água para a subida ao Tâmpa.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Emergency vet: Clinica Animal Help (+40 731 060 060) operates an on-call line until 22:00 daily; out-of-hours referrals to the regional 24/7 rota. Most central daytime clinic: Clinica Dr. Roman (+40 268 511 818) on Strada Castelului.`,
+        `Getting there: Bucharest Otopeni (OTP) is the international airport, 170 km south, 2.5 h by direct bus or 3 h by train+metro. The planned regional airport Brașov-Ghimbav (GHV) operates limited regional flights only as of 2026; international travellers still arrive via OTP.`,
+        `Best season: May–June and September–early October for mild weather (15–22 °C), autumn colours and lower crowds. Winter is beautiful but bitterly cold (-5 °C, deep snow); July–August can hit 28 °C with heavy weekend day-tripper crowds from Bucharest.`,
+        `Documents: EU pet passport, microchip and current rabies vaccine (at least 21 days old) sufficient at entry. UK travellers need an Animal Health Certificate issued within 10 days of entry. Romania does not require tapeworm treatment at entry.`,
+        `Currency: Romania uses the Romanian leu (RON, ~5 RON = €1), not the euro. Hotel websites may quote in EUR but the bill is paid in RON. Cards accepted almost everywhere in the centre; carry RON 100 in cash for taxis, bag dispensers and rural day trips.`,
+      ],
+      fr: [
+        `Vétérinaire d'urgence : la Clinica Animal Help (+40 731 060 060) opère une ligne d'astreinte jusqu'à 22h tous les jours ; renvoi hors horaires vers la rotation régionale 24h/24. Clinique de jour la plus centrale : Clinica Dr. Roman (+40 268 511 818) sur la Strada Castelului.`,
+        `Accès : Bucarest Otopeni (OTP) est l'aéroport international, à 170 km au sud, 2h30 en bus direct ou 3 h en train + métro. L'aéroport régional prévu Brașov-Ghimbav (GHV) n'exploite que des vols régionaux limités en 2026 ; les voyageurs internationaux arrivent toujours via OTP.`,
+        `Meilleure saison : mai-juin et septembre-début octobre pour une météo douce (15-22 °C), les couleurs d'automne et moins de foule. L'hiver est superbe mais glacial (-5 °C, neige profonde) ; juillet-août peut atteindre 28 °C avec une forte affluence d'excursionnistes de Bucarest le week-end.`,
+        `Documents : passeport européen, puce et vaccin antirabique à jour (au moins 21 jours) suffisent à l'entrée. Les voyageurs britanniques ont besoin d'un Animal Health Certificate émis dans les 10 jours précédant l'entrée. La Roumanie n'exige pas de traitement contre le ténia à l'entrée.`,
+        `Monnaie : la Roumanie utilise le leu roumain (RON, ~5 RON = 1 €), pas l'euro. Les sites des hôtels affichent parfois en EUR mais la note se règle en RON. La carte passe partout dans le centre ; prévoyez 100 RON en liquide pour taxis, distributeurs de sacs et excursions rurales.`,
+      ],
+      es: [
+        `Veterinario de urgencia: la Clinica Animal Help (+40 731 060 060) opera una línea de guardia hasta las 22:00 todos los días; derivación fuera de horario a la rotación regional 24/7. Clínica diurna más céntrica: Clinica Dr. Roman (+40 268 511 818) en Strada Castelului.`,
+        `Cómo llegar: Bucarest Otopeni (OTP) es el aeropuerto internacional, a 170 km al sur, 2,5 h en autobús directo o 3 h en tren + metro. El aeropuerto regional planificado Brașov-Ghimbav (GHV) solo opera vuelos regionales limitados en 2026; los viajeros internacionales siguen llegando vía OTP.`,
+        `Mejor temporada: mayo-junio y septiembre-principios de octubre por clima suave (15-22 °C), colores de otoño y menos multitudes. El invierno es hermoso pero muy frío (-5 °C, nieve profunda); julio-agosto puede alcanzar 28 °C con fuerte afluencia de excursionistas de Bucarest el fin de semana.`,
+        `Documentos: pasaporte europeo, microchip y vacuna antirrábica al día (al menos 21 días) bastan a la entrada. Los viajeros británicos necesitan un Animal Health Certificate emitido en los 10 días previos a la entrada. Rumanía no exige tratamiento contra la tenia en la entrada.`,
+        `Moneda: Rumanía usa el leu rumano (RON, ~5 RON = 1 €), no el euro. Las webs de hoteles a veces cotizan en EUR pero la cuenta se paga en RON. La tarjeta se acepta en casi todos los sitios del centro; lleve 100 RON en efectivo para taxis, dispensadores de bolsas y excursiones rurales.`,
+      ],
+      pt: [
+        `Veterinário de urgência: a Clinica Animal Help (+40 731 060 060) opera uma linha de chamada até às 22:00 todos os dias; encaminhamento fora de horário para a rotação regional 24/7. Clínica diurna mais central: Clinica Dr. Roman (+40 268 511 818) na Strada Castelului.`,
+        `Como chegar: Bucareste Otopeni (OTP) é o aeroporto internacional, a 170 km a sul, 2h30 em autocarro direto ou 3 h em comboio + metro. O aeroporto regional planeado Brașov-Ghimbav (GHV) opera apenas voos regionais limitados em 2026; os viajantes internacionais continuam a chegar via OTP.`,
+        `Melhor época: maio-junho e setembro-início de outubro por clima ameno (15-22 °C), cores de outono e menos multidões. O inverno é belo mas muito frio (-5 °C, neve profunda); julho-agosto pode atingir 28 °C com forte afluência de excursionistas de Bucareste ao fim de semana.`,
+        `Documentos: passaporte europeu, microchip e vacina antirrábica em dia (pelo menos 21 dias) são suficientes à entrada. Os viajantes britânicos precisam de um Animal Health Certificate emitido nos 10 dias anteriores à entrada. A Roménia não exige tratamento contra a ténia à entrada.`,
+        `Moeda: a Roménia usa o leu romeno (RON, ~5 RON = 1 €), não o euro. Os sites dos hotéis por vezes cotam em EUR mas a conta é paga em RON. O cartão é aceite em quase todo o lado no centro; leve 100 RON em dinheiro para táxis, dispensadores de sacos e excursões rurais.`,
+      ],
+    },
+  },
+
   bratislava: {
     history: {
       fr: `Bratislava est la capitale de la Slovaquie depuis 1993, mais son histoire em tant que ville couronnée hongroise (Pozsony, Pressburg) remonte au XIIIe siècle, quand le château et la vieille ville se forment au pied des Petites Carpates et au bord du Danube. La ville actuelle compte environ 430 000 habitants et le ministère slovaque enregistre près de 35 000 chiens dans le grand Bratislava, une densité élevée pour une capitale d'Europe centrale, et qui se voit dans le tissu urbain : terrasses largement dog-friendly, parcs forestiers (Horský Park, Železná Studnička, Sad Janka Kráľa) à pied du centre, et quatre cliniques d'urgence 24h/24. La ville reste compacte, abordable et facilement combinable avec Vienne, Budapest ou Brno pour un circuit canin sur le Danube.`,

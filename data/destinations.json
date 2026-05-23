@@ -2030,6 +2030,82 @@
     "tiqetsId": "76598"
   },
   {
+    "slug": "brasov",
+    "name": "Brașov",
+    "country": "Romania",
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brasov.jpg",
+    "intro": "A medieval Saxon citadel at the foot of the Carpathian Mountains, Brașov pairs Transylvanian Gothic and pastel-painted squares with forested hiking trails and a notably dog-tolerant café scene on Piața Sfatului.",
+    "lat": 45.658,
+    "lng": 25.6012,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold with snow",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool with thaw",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm with thunderstorms",
+        "icon": "⛈️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild with autumn colours",
+        "icon": "🍂"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & golden",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold with first snow",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      }
+    },
+    "iata": "OTP",
+    "tiqetsId": "260938"
+  },
+  {
     "slug": "bratislava",
     "name": "Bratislava",
     "country": "Slovakia",

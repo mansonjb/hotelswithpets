@@ -29,6 +29,7 @@ const TARGETS = [
   { slug: 'albufeira',     query: 'Albufeira Portugal Algarve cliffs old town beach Atlantic panorama' },
   { slug: 'alicante',      query: 'Alicante Spain Santa Bárbara castle Mediterranean Explanada palm trees panorama' },
   { slug: 'bergamo',       query: 'Bergamo Italy Citta Alta Piazza Vecchia Venetian walls Lombardy panorama' },
+  { slug: 'brasov',        query: 'Brasov Romania Council Square Black Church Carpathian mountains panorama' },
   { slug: 'marseille',     query: 'Vieux Port Marseille waterfront' },
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },
   { slug: 'bologna',       query: 'Piazza Maggiore Bologna' },

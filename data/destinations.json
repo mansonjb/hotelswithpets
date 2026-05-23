@@ -378,6 +378,81 @@
     "tiqetsId": "75061"
   },
   {
+    "slug": "angers",
+    "name": "Angers",
+    "country": "France",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/angers.jpg",
+    "intro": "Angers, capital of the Anjou region in the Loire Valley, combines a 13th-century medieval fortress housing the world's largest medieval tapestry (the Apocalypse), a 700-hectare green network, and a 24/7 emergency vet, all within a 90-minute TGV from Paris.",
+    "lat": 47.4784,
+    "lng": -0.5632,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "NTE",
+    "tiqetsId": "67158"
+  },
+  {
     "slug": "annecy",
     "name": "Annecy",
     "country": "France",

@@ -699,6 +699,125 @@
     "petPolicyPt": "Pulitzer Amsterdam é um animal-friendly estabelecimento that welcomes cães e gatos. Um taxa animal de €15 por noite applies, charged em check-em. Animais são aceites até 25 kg; up para two animais per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em áreas comuns e são não permitidos sem supervisão nos quartos para extended periods. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "angers-1",
+    "name": "Best Western Plus Hôtel d'Anjou",
+    "destinationSlug": "angers",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1850,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-d-039-anjou.html",
+    "petFee": 15,
+    "petPolicy": "Best Western Plus Hôtel d'Anjou is a pet-friendly property that welcomes dogs and cats. A pet fee of €15 per night applies, charged at check-in. The hotel is steps from the Jardin du Mail and the pedestrian Place du Ralliement, offering immediate access to dog-friendly terraces and parks. Pets must be kept on a lead in common areas and are not left unattended in rooms. Please declare your pet at the time of booking to ensure a pet-friendly room is allocated.",
+    "highlights": [
+      "Historic 4-star in the city centre",
+      "On-site brasserie La Salamandre",
+      "Steps from Place du Ralliement"
+    ],
+    "slug": "best-western-plus-hotel-d-anjou"
+  },
+  {
+    "id": "angers-2",
+    "name": "Hôtel de France Angers",
+    "destinationSlug": "angers",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1320,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-france-angers.html",
+    "petFee": 12,
+    "petPolicy": "Hôtel de France Angers welcomes both dogs and cats with a pet fee of €12 per night, settled at check-in. Located directly opposite the Saint-Laud train station, it's a convenient base for TGV arrivals with a pet and a short walk to the Jardin des Plantes. Pets must be leashed in common areas and may not be left alone in rooms. Notify the front desk at booking so a ground-floor or quieter room can be allocated when possible.",
+    "highlights": [
+      "Opposite Angers Saint-Laud TGV station",
+      "Family-run since 1846",
+      "On-site restaurant Les 2 Cèdres"
+    ],
+    "slug": "hotel-de-france-angers"
+  },
+  {
+    "id": "angers-3",
+    "name": "Mercure Angers Centre Gare",
+    "destinationSlug": "angers",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2480,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-angerscentregare.html",
+    "petFee": 15,
+    "petPolicy": "Mercure Angers Centre Gare is a pet-friendly Accor property accepting both dogs and cats with a €15 per night pet fee, applied at check-in. Located between the train station and the Château, the hotel sits on a quiet street with easy access to the Promenade du Bout du Monde for an evening walk. Pets must be on a lead in common areas and are not allowed in the breakfast room or bar. Declare the pet at booking so a suitable room is reserved.",
+    "highlights": [
+      "5-minute walk from Château d'Angers",
+      "Quiet inner courtyard rooms",
+      "On-site bar and breakfast"
+    ],
+    "slug": "mercure-angers-centre-gare"
+  },
+  {
+    "id": "angers-4",
+    "name": "Hôtel Continental Angers",
+    "destinationSlug": "angers",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1640,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/continental-angers.html",
+    "petFee": 8,
+    "petPolicy": "Hôtel Continental Angers is a pet-friendly 3-star in the heart of the pedestrian centre, welcoming dogs and cats for an €8 per night fee charged at check-in. The hotel sits on a quiet pedestrian street steps from Place du Ralliement and a 10-minute walk from the Château. Pets must be kept on a lead in common areas and may not be left unattended for extended periods. Mention the pet when booking so the housekeeping team can prepare the room.",
+    "highlights": [
+      "In the pedestrian centre",
+      "Walking distance to Château d'Angers",
+      "Affordable 3-star option"
+    ],
+    "slug": "hotel-continental-angers"
+  },
+  {
+    "id": "angers-5",
+    "name": "ibis Styles Angers Centre Gare",
+    "destinationSlug": "angers",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 2150,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-angers-centre-gare.html",
+    "petFee": 10,
+    "petPolicy": "ibis Styles Angers Centre Gare welcomes both dogs and cats with a €10 per night pet fee, settled at check-in. Right next to the train station and a 10-minute walk from the Jardin des Plantes and the city centre, it's a practical TGV-friendly base. Pets must be on a lead in common areas, are accepted up to 25 kg, and may not be left unattended in rooms. Declare the pet at booking to ensure a pet-friendly room is allocated.",
+    "highlights": [
+      "Next to Angers Saint-Laud TGV station",
+      "All-included breakfast",
+      "Modern colourful design"
+    ],
+    "slug": "ibis-styles-angers-centre-gare"
+  },
+  {
     "id": "annecy-1",
     "name": "Hôtel Impérial Palace Annecy",
     "destinationSlug": "annecy",

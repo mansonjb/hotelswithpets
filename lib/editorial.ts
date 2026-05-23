@@ -46,6 +46,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Vondelpark and the off-leash banks of the Amstel River',
       area: 'the Jordaan neighbourhood and the canal belt',
     },
+    angers: {
+      personality: `the green capital of Anjou in the Loire Valley, with the medieval Château d'Angers and its world-famous Tapestry of the Apocalypse, 700+ hectares of municipal green space, and a 90-minute TGV link to Paris`,
+      highlight: `the Promenade du Bout du Monde under the Château ramparts, the Parc de Pignerolle forest paths 8 km east, and the Bord de Maine towpaths`,
+      area: `the pedestrian centre around Place du Ralliement, the medieval Doutre quarter across the Maine, and Saint-Aubin near the cathedral`,
+    },
     annecy: {
       personality: `the 'Venice of the Alps', a UNESCO-rated medieval Vieille Ville on canals, the cleanest large lake in Europe with year-round dog-swim spots, and the 4 000-hectare Semnoz forest with 50 km of off-leash trails directly south of the centre`,
       highlight: `the Pont des Amours and the Vieille Ville canals, the 42 km flat lake-circuit cycle path, and the Semnoz forest summit at 1 699 m`,
@@ -799,6 +804,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Vondelpark et les berges hors laisse de l\'Amstel',
       area: 'le quartier du Jordaan et la ceinture des canaux',
     },
+    angers: {
+      personality: `la capitale verte de l'Anjou en Val de Loire, avec le Château d'Angers médiéval et sa célèbre Tapisserie de l'Apocalypse, plus de 700 hectares d'espaces verts municipaux et une liaison TGV de 1h30 vers Paris`,
+      highlight: `la Promenade du Bout du Monde sous les remparts du Château, les sentiers forestiers du parc de Pignerolle à 8 km à l'est, et les chemins de halage du bord de Maine`,
+      area: `le centre piéton autour de la place du Ralliement, le quartier médiéval de la Doutre rive gauche de la Maine, et Saint-Aubin près de la cathédrale`,
+    },
     annecy: {
       personality: `la « Venise des Alpes », Vieille Ville médiévale classée le long des canaux, le grand lac le plus propre d'Europe avec spots de baignade canine toute l'année, et la forêt du Semnoz de 4 000 ha avec 50 km de sentiers sans laisse directement au sud du centre`,
       highlight: `le Pont des Amours et les canaux de la Vieille Ville, la piste cyclable plate de 42 km du tour du lac, et le sommet du Semnoz à 1 699 m`,
@@ -1551,6 +1561,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Vondelpark y las orillas sin correa del río Amstel',
       area: 'el barrio del Jordaan y el cinturón de canales',
     },
+    angers: {
+      personality: `la capital verde de Anjou en el Valle del Loira, con el Château d'Angers medieval y su célebre Tapiz del Apocalipsis, más de 700 hectáreas de espacios verdes municipales y una conexión TGV de 1h30 con París`,
+      highlight: `la Promenade du Bout du Monde bajo las murallas del Château, los senderos forestales del Parc de Pignerolle a 8 km al este, y los caminos de sirga del Bord de Maine`,
+      area: `el centro peatonal alrededor de la Place du Ralliement, el barrio medieval de La Doutre en la orilla izquierda del Maine, y Saint-Aubin junto a la catedral`,
+    },
     annecy: {
       personality: `la « Venecia de los Alpes », Casco Antiguo medieval clasificado a lo largo de los canales, el lago grande más limpio de Europa con spots de baño canino todo el año, y el bosque del Semnoz de 4 000 ha con 50 km de senderos sin correa directamente al sur del centro`,
       highlight: `el Pont des Amours y los canales del Casco Antiguo, el sendero ciclista plano de 42 km de la vuelta al lago, y la cima del Semnoz a 1 699 m`,
@@ -2302,6 +2317,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das capitales mais relajadas e acogedoras com animais de Europa',
       highlight: 'o Vondelpark e as margens sem trela do rio Amstel',
       area: 'o bairro do Jordaan e o cinturón de canales',
+    },
+    angers: {
+      personality: `a capital verde do Anjou no Vale do Loira, com o Château d'Angers medieval e a sua célebre Tapeçaria do Apocalipse, mais de 700 hectares de espaços verdes municipais e uma ligação TGV de 1h30 a Paris`,
+      highlight: `a Promenade du Bout du Monde sob as muralhas do Château, os trilhos florestais do Parc de Pignerolle a 8 km a leste, e os caminhos de sirga do Bord de Maine`,
+      area: `o centro pedonal à volta da Place du Ralliement, o bairro medieval da Doutre na margem esquerda do Maine, e Saint-Aubin junto à catedral`,
     },
     annecy: {
       personality: `a « Venecia dos Alpes », Centro histórico medieval clasificado a lo largo dos canales, o lago grande mais limpio de Europa com spots de banho canino o ano inteiro, e o floresta do Semnoz de 4 000 ha com 50 km de trilhos sem trela directamente al sur do centro`,

@@ -611,6 +611,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  angers: {
+    history: {
+      fr: `Angers, capitale historique de l'Anjou, s'est développée à partir d'un oppidum gaulois au confluent de la Maine et de la Sarthe, devenant un centre carolingien puis le siège des comtes d'Anjou dont les descendants Plantagenêt ont régné sur l'Angleterre du XIIe au XIIIe siècle. Le Château d'Angers, forteresse à 17 tours construite par Saint Louis vers 1230, abrite aujourd'hui la Tapisserie de l'Apocalypse (104 mètres, plus grande tapisserie médiévale du monde, tissée vers 1380). La ville a longtemps été un grand centre universitaire et viticole, et reste aujourd'hui la métropole d'un vignoble réputé (Anjou, Saumur, Coteaux du Layon). Pour les voyageurs avec un chien, Angers offre un centre piéton compact, plus de 700 hectares d'espaces verts municipaux, une garde vétérinaire régionale 24h/24, et une liaison TGV directe Paris-Montparnasse en 1h30. Nantes et l'Atlantique sont à 45 minutes en TER ; Tours et les châteaux de la Loire à une heure.`,
+      en: `Angers, the historic capital of Anjou, developed from a Gaulish hillfort at the confluence of the Maine and Sarthe rivers, becoming a Carolingian centre and then the seat of the Counts of Anjou, whose Plantagenet descendants ruled England from the 12th to 13th century. The Château d'Angers, a 17-tower fortress built by Saint Louis around 1230, today houses the Tapestry of the Apocalypse (104 metres, the largest medieval tapestry in the world, woven around 1380). The city was long a major university and wine centre, and remains the metropolis of a renowned vineyard region (Anjou, Saumur, Coteaux du Layon). For dog travellers, Angers offers a compact pedestrian centre, over 700 hectares of municipal green space, a 24/7 regional emergency vet, and a direct TGV link to Paris-Montparnasse in 1h30. Nantes and the Atlantic are 45 minutes by TER; Tours and the Loire chateaux an hour.`,
+      es: `Angers, capital histórica de Anjou, se desarrolló a partir de un oppidum galo en la confluencia del Maine y el Sarthe, convirtiéndose en centro carolingio y luego en sede de los Condes de Anjou, cuyos descendientes Plantagenet reinaron sobre Inglaterra del siglo XII al XIII. El Château d'Angers, fortaleza de 17 torres construida por San Luis hacia 1230, alberga hoy el Tapiz del Apocalipsis (104 metros, el mayor tapiz medieval del mundo, tejido hacia 1380). La ciudad fue durante mucho tiempo gran centro universitario y vitícola, y sigue siendo la metrópolis de un viñedo reputado (Anjou, Saumur, Coteaux du Layon). Para los viajeros con perro, Angers ofrece un centro peatonal compacto, más de 700 hectáreas de espacios verdes municipales, guardia veterinaria regional 24h/7j, y conexión TGV directa París-Montparnasse en 1h30. Nantes y el Atlántico están a 45 minutos en TER; Tours y los châteaux del Loira a una hora.`,
+      pt: `Angers, capital histórica do Anjou, desenvolveu-se a partir de um oppidum gaulês na confluência do Maine e do Sarthe, tornando-se centro carolíngio e depois sede dos Condes de Anjou, cujos descendentes Plantageneta reinaram sobre Inglaterra do século XII ao XIII. O Château d'Angers, fortaleza com 17 torres construída por São Luís por volta de 1230, alberga hoje a Tapeçaria do Apocalipse (104 metros, a maior tapeçaria medieval do mundo, tecida por volta de 1380). A cidade foi durante muito tempo um grande centro universitário e vitícola, e continua a ser a metrópole de uma região vinícola reputada (Anjou, Saumur, Coteaux du Layon). Para viajantes com cão, Angers oferece um centro pedonal compacto, mais de 700 hectares de espaços verdes municipais, urgência veterinária regional 24h/7d, e ligação TGV directa Paris-Montparnasse em 1h30. Nantes e o Atlântico ficam a 45 minutos em TER; Tours e os châteaux do Loire a uma hora.`,
+    },
+    sights: [
+      {
+        name: `Château d'Angers`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse médiévale du XIIIe siècle à 17 tours de schiste noir surplombant la Maine. Les chiens en laisse sont bienvenus sur le chemin de ronde extérieur et dans les jardins des douves en accès libre ; ils ne peuvent pas entrer dans le donjon ni dans la galerie de la Tapisserie de l'Apocalypse.`,
+          en: `13th-century medieval fortress with 17 black-schist towers overlooking the Maine. Leashed dogs are welcome on the free-access outer ramparts walk and in the moat gardens; they may not enter the keep or the Tapestry of the Apocalypse gallery.`,
+          es: `Fortaleza medieval del siglo XIII con 17 torres de esquisto negro que domina el Maine. Los perros con correa son bienvenidos en el paseo de ronda exterior de acceso libre y en los jardines del foso; no pueden entrar en el donjon ni en la galería del Tapiz del Apocalipsis.`,
+          pt: `Fortaleza medieval do século XIII com 17 torres de xisto negro a dominar o Maine. Os cães com trela são bem-vindos no passeio de ronda exterior de acesso livre e nos jardins do fosso; não podem entrar no donjon nem na galeria da Tapeçaria do Apocalipse.`,
+        },
+      },
+      {
+        name: 'Parc de Pignerolle',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc paysager de 80 hectares autour d'un château du XVIIIe siècle à 8 km à l'est d'Angers. Les chiens peuvent courir sans laisse sur les sentiers forestiers balisés (laisse obligatoire dans les jardins à la française). C'est la première destination de promenade canine de l'agglomération.`,
+          en: `An 80-hectare landscape park around an 18th-century chateau 8 km east of Angers. Dogs can run off-leash on the signposted forest paths (leash required in formal gardens). It is the metropolitan area's premier dog-walking destination.`,
+          es: `Parque paisajístico de 80 hectáreas alrededor de un château del siglo XVIII a 8 km al este de Angers. Los perros pueden correr sin correa en los senderos forestales señalizados (correa obligatoria en los jardines formales). Es el principal destino canino del área metropolitana.`,
+          pt: `Parque paisagístico de 80 hectares à volta de um château do século XVIII a 8 km a leste de Angers. Os cães podem correr sem trela nos trilhos florestais sinalizados (trela obrigatória nos jardins formais). É o principal destino de passeio canino da área metropolitana.`,
+        },
+      },
+      {
+        name: 'Promenade du Bout du Monde',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade riveraine emblématique au pied des remparts du Château, le long de la Maine. Large allée pavée, bancs ombragés, vues directes sur la forteresse et le pont de Verdun, accessible aux chiens en laisse toute l'année.`,
+          en: `The signature riverside walk at the foot of the Château ramparts, along the Maine. A wide paved alley with shaded benches, direct views of the fortress and the Pont de Verdun, open to leashed dogs year-round.`,
+          es: `El paseo ribereño emblemático al pie de las murallas del Château, a lo largo del Maine. Amplio paseo pavimentado con bancos sombreados, vistas directas a la fortaleza y al Pont de Verdun, abierto a los perros con correa todo el año.`,
+          pt: `O passeio ribeirinho emblemático ao pé das muralhas do Château, ao longo do Maine. Larga alameda pavimentada com bancos à sombra, vistas directas para a fortaleza e a Ponte de Verdun, aberta a cães com trela todo o ano.`,
+        },
+      },
+      {
+        name: 'Quartier de la Doutre',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier médiéval rive gauche de la Maine, avec ses maisons à pans de bois autour de la place de la Laiterie et de la place du Tertre Saint-Laurent. Quasi entièrement piéton, dog-friendly sur les terrasses et au marché d'artisans du samedi matin.`,
+          en: `The medieval quarter on the left bank of the Maine, with timber-framed houses around Place de la Laiterie and Place du Tertre Saint-Laurent. Almost entirely pedestrian, dog-friendly on its terraces and at the Saturday morning artisan market.`,
+          es: `El barrio medieval en la orilla izquierda del Maine, con casas con entramado de madera alrededor de la Place de la Laiterie y la Place du Tertre Saint-Laurent. Casi enteramente peatonal, dog-friendly en sus terrazas y en el mercado artesanal del sábado por la mañana.`,
+          pt: `O bairro medieval na margem esquerda do Maine, com casas em tabique alrededor da Place de la Laiterie e da Place du Tertre Saint-Laurent. Quase inteiramente pedonal, pet-friendly nas esplanadas e no mercado artesanal de sábado de manhã.`,
+        },
+      },
+      {
+        name: 'Cathédrale Saint-Maurice',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale gothique du XIIe-XIIIe siècle avec une façade-écran sculptée et la collection d'art sacré la plus riche de l'ouest de la France. Les chiens ne sont pas admis à l'intérieur, mais le parvis et l'escalier monumental sont accessibles et offrent l'une des plus belles vues du centre.`,
+          en: `12th-13th century Gothic cathedral with a carved screen-façade and the richest sacred art collection in western France. Dogs are not admitted inside, but the forecourt and the monumental staircase are accessible and offer one of the finest views of the centre.`,
+          es: `Catedral gótica de los siglos XII-XIII con fachada-pantalla esculpida y la colección de arte sacro más rica del oeste de Francia. Los perros no se admiten dentro, pero el atrio y la escalinata monumental son accesibles y ofrecen una de las vistas más bonitas del centro.`,
+          pt: `Catedral gótica dos séculos XII-XIII com fachada-écran esculpida e a colecção de arte sacra mais rica do oeste de França. Os cães não são admitidos no interior, mas o adro e a escadaria monumental são acessíveis e oferecem uma das vistas mais bonitas do centro.`,
+        },
+      },
+      {
+        name: 'Lac de Maine',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Lac urbain de 100 hectares au sud-ouest d'Angers, entouré de 220 hectares de parc de loisirs. Les chiens en laisse sont autorisés sur les chemins et berges toute l'année, sauf sur la plage de baignade désignée de juin à septembre.`,
+          en: `A 100-hectare urban lake on the southwest edge of Angers, surrounded by a 220-hectare leisure park. Leashed dogs are permitted on paths and shoreline year-round, except on the designated bathing beach from June to September.`,
+          es: `Lago urbano de 100 hectáreas al suroeste de Angers, rodeado por un parque de ocio de 220 hectáreas. Los perros con correa están permitidos en caminos y orillas todo el año, salvo en la playa de baño designada de junio a septiembre.`,
+          pt: `Lago urbano de 100 hectares a sudoeste de Angers, rodeado por um parque de lazer de 220 hectares. Os cães com trela são permitidos em caminhos e margens todo o ano, salvo na praia balnear designada de junho a setembro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le Château d'Angers admet les chiens en laisse sur le chemin de ronde extérieur et dans les jardins des douves (accès libre) mais pas dans le donjon ni dans la galerie de la Tapisserie de l'Apocalypse, prévoyez qu'une personne attende dehors.`,
+        `Le réseau Irigo (Tramway A + bus) accepte gratuitement les petits chiens en sac fermé ; les chiens plus grands sont admis à la discrétion du conducteur, muselés et tenus en laisse, évitez les heures de pointe.`,
+        `Les chiens doivent être tenus en laisse dans tous les parcs municipaux d'Angers (amende jusqu'à 68 €). Seuls les sentiers forestiers du parc de Pignerolle, à 8 km à l'est, tolèrent le sans-laisse.`,
+        `La plage de baignade du Lac de Maine est interdite aux chiens de juin à septembre. Le reste de l'année, les berges sont accessibles et idéales pour un patouillage.`,
+        `Les TER vers Nantes, Tours ou Saumur acceptent les chiens au tarif unique de 7 € (gratuit pour les petits chiens en sac de moins de 6 kg).`,
+      ],
+      en: [
+        `The Château d'Angers admits leashed dogs on the free-access outer ramparts walk and in the moat gardens, but not in the keep or in the Tapestry of the Apocalypse gallery, plan one person to wait outside.`,
+        `The Irigo network (Tramway A + buses) accepts small dogs in a closed carrier free of charge; larger dogs are admitted at the driver's discretion when muzzled and leashed, avoid rush hours.`,
+        `Dogs must be leashed in all Angers municipal parks (fines up to €68). Only the forest paths of the Parc de Pignerolle, 8 km east, tolerate off-leash.`,
+        `The bathing beach at Lac de Maine is closed to dogs from June to September. The rest of the year, the shoreline is accessible and great for a wade.`,
+        `TER trains to Nantes, Tours or Saumur accept dogs at a flat €7 ticket (free for small dogs under 6 kg in a carrier).`,
+      ],
+      es: [
+        `El Château d'Angers admite perros con correa en el paseo de ronda exterior de acceso libre y en los jardines del foso, pero no en el donjon ni en la galería del Tapiz del Apocalipsis, prevé que una persona espere fuera.`,
+        `La red Irigo (Tramway A + autobuses) admite gratis a los perros pequeños en transportín cerrado; los perros más grandes se admiten a discreción del conductor con bozal y correa, evita las horas punta.`,
+        `Los perros deben ir con correa en todos los parques municipales de Angers (multa hasta 68 €). Solo los senderos forestales del Parc de Pignerolle, a 8 km al este, toleran el sin correa.`,
+        `La playa de baño del Lac de Maine está prohibida a los perros de junio a septiembre. El resto del año, las orillas son accesibles e ideales para un chapoteo.`,
+        `Los TER hacia Nantes, Tours o Saumur admiten perros con tarifa única de 7 € (gratis para perros pequeños de menos de 6 kg en transportín).`,
+      ],
+      pt: [
+        `O Château d'Angers admite cães com trela no passeio de ronda exterior de acesso livre e nos jardins do fosso, mas não no donjon nem na galeria da Tapeçaria do Apocalipse, prevê que uma pessoa espere fora.`,
+        `A rede Irigo (Tramway A + autocarros) admite gratuitamente os cães pequenos em transportadora fechada; os cães maiores são admitidos à discrição do condutor, com açaime e trela, evita as horas de ponta.`,
+        `Os cães devem andar com trela em todos os parques municipais de Angers (multa até 68 €). Só os trilhos florestais do Parc de Pignerolle, a 8 km a leste, toleram o sem-trela.`,
+        `A praia balnear do Lac de Maine está interdita aos cães de junho a setembro. No resto do ano, as margens são acessíveis e ideais para chapinhar.`,
+        `Os TER para Nantes, Tours ou Saumur admitem cães com bilhete único de 7 € (grátis para cães pequenos com menos de 6 kg em transportadora).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire d'urgence régional (24h/24, orientation) : 02 41 47 26 26`,
+        `Ligne nationale d'urgence vétérinaire (gratuite, 24h/24) : 3115`,
+        `Refuge SPA Angers : 02 41 36 13 26`,
+        `Gare d'Angers Saint-Laud : TGV vers Paris-Montparnasse en 1h30 ; TER vers Nantes 45 min, Tours 1h, Saumur 25 min`,
+        `Aéroport le plus proche : Nantes Atlantique (NTE), à 90 km à l'ouest`,
+      ],
+      en: [
+        `Regional emergency vet (24/7 referral): 02 41 47 26 26`,
+        `National pet emergency line (free, 24/7): 3115`,
+        `SPA Angers shelter: 02 41 36 13 26`,
+        `Angers Saint-Laud station: TGV to Paris-Montparnasse 1h30; TER to Nantes 45 min, Tours 1h, Saumur 25 min`,
+        `Nearest airport: Nantes Atlantique (NTE), 90 km west`,
+      ],
+      es: [
+        `Veterinario regional de urgencias (orientación 24h/7j): 02 41 47 26 26`,
+        `Línea nacional de urgencia veterinaria (gratuita, 24h/7j): 3115`,
+        `Refugio SPA Angers: 02 41 36 13 26`,
+        `Estación Angers Saint-Laud: TGV a París-Montparnasse 1h30; TER a Nantes 45 min, Tours 1h, Saumur 25 min`,
+        `Aeropuerto más cercano: Nantes Atlantique (NTE), a 90 km al oeste`,
+      ],
+      pt: [
+        `Veterinário regional de urgência (orientação 24h/7d): 02 41 47 26 26`,
+        `Linha nacional de urgência veterinária (gratuita, 24h/7d): 3115`,
+        `Abrigo SPA Angers: 02 41 36 13 26`,
+        `Estação Angers Saint-Laud: TGV para Paris-Montparnasse 1h30; TER para Nantes 45 min, Tours 1h, Saumur 25 min`,
+        `Aeroporto mais próximo: Nantes Atlantique (NTE), a 90 km a oeste`,
+      ],
+    },
+  },
+
   annecy: {
     history: {
       fr: `Annecy, fondée comme bourg gallo-romain au pied du château des comtes de Genève au XIIe siècle, est devenue capitale de la Savoie au XVIe siècle quand le duc François de Sales y fixa son siège. Le rachat de la Savoie par Napoléon III en 1860 attacha la ville à la France ; le tourisme romantique du XIXe siècle (Lamartine y séjourna) em fit la « Venise des Alpes ». Les canaux du Thiou et du Vassé qui traversent la Vieille Ville, le Palais de l'Île triangulaire et le Pont des Amours forment l'image carte-postale la plus reproduite de France après le Mont-Saint-Michel. Pour les voyageurs avec un chien, Annecy est l'une des destinations canines les plus complètes de France : Vieille Ville piétonne en 15 min, culture brasserie savoyarde tolérante par défaut, lac avec eau cristalline (Classe A) où les chiens peuvent boire, piste cyclable plate de 42 km tout autour, et la forêt du Semnoz à 1 699 m juste au sud avec 50 km de sentiers sans laisse. Genève est à 40 min em TER direct.`,

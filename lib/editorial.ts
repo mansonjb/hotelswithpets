@@ -96,6 +96,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Royal Crescent lawn, the Bath Skyline National Trust trail, and the Kennet & Avon canal towpath',
       area: 'the Royal Crescent area, the riverside near Pulteney Bridge, and Bathwick',
     },
+    belfast: {
+      personality: `Northern Ireland's revitalised capital on Belfast Lough, with a fiercely dog-welcoming Cathedral Quarter pub scene, the 750-acre wilderness of Cave Hill rising directly above the city, year-round dog beaches in County Down and two 24/7 emergency vet hospitals`,
+      highlight: `Cave Hill Country Park up to Napoleon's Nose, the 18 km Lagan towpath from Stranmillis to Lisburn, and Helen's Bay year-round dog beach 20 minutes away by NIR train`,
+      area: 'the Cathedral Quarter around Commercial Court, the Ormeau and Stranmillis southside neighbourhoods, and the Titanic Quarter waterfront',
+    },
     belgrade: {
       personality: 'one of Europe\'s most affordable capitals, with the year-round Ada Ciganlija dog beach, free public transport since 2025, and Serbia\'s only 24-hour vet hospital',
       highlight: 'Kalemegdan Fortress, Ada Ciganlija peninsula, and Tašmajdan Park',
@@ -864,6 +869,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la pelouse du Royal Crescent, le sentier National Trust Bath Skyline et le chemin de halage Kennet & Avon',
       area: 'le quartier du Royal Crescent, les berges près du Pulteney Bridge et Bathwick',
     },
+    belfast: {
+      personality: `la capitale revitalisée d'Irlande du Nord en bord du Belfast Lough, avec un Cathedral Quarter farouchement accueillant pour les chiens, les 300 ha sauvages de Cave Hill juste au-dessus de la ville, des plages canines toute l'année dans le comté de Down et deux hôpitaux vétérinaires d'urgence 24h/24`,
+      highlight: `Cave Hill Country Park jusqu'au Napoleon's Nose, le chemin de halage du Lagan de 18 km de Stranmillis à Lisburn et la plage canine de Helen's Bay à 20 minutes en train NIR`,
+      area: 'le Cathedral Quarter autour de Commercial Court, les quartiers sud d\'Ormeau et Stranmillis et le front d\'eau du Titanic Quarter',
+    },
     belgrade: {
       personality: 'l\'une des capitales européennes les plus abordables, avec la plage canine d\'Ada Ciganlija toute l\'année, les transports publics gratuits depuis 2025 et le seul hôpital vétérinaire 24h/24 de Serbie',
       highlight: 'la forteresse de Kalemegdan, la presqu\'île d\'Ada Ciganlija et le parc Tašmajdan',
@@ -1631,6 +1641,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el césped del Royal Crescent, el sendero de la National Trust Bath Skyline y el camino de sirga Kennet & Avon',
       area: 'el barrio del Royal Crescent, la ribera junto al Pulteney Bridge y Bathwick',
     },
+    belfast: {
+      personality: `la capital revitalizada de Irlanda del Norte a orillas del Belfast Lough, con un Cathedral Quarter ferozmente acogedor para perros, las 300 hectáreas salvajes de Cave Hill justo sobre la ciudad, playas caninas todo el año en el condado de Down y dos hospitales veterinarios de urgencias 24/7`,
+      highlight: `Cave Hill Country Park hasta el Napoleon's Nose, el camino de sirga del Lagan de 18 km de Stranmillis a Lisburn y la playa canina de Helen's Bay a 20 minutos en tren NIR`,
+      area: 'el Cathedral Quarter en torno a Commercial Court, los barrios del sur de Ormeau y Stranmillis y el frente marítimo del Titanic Quarter',
+    },
     belgrade: {
       personality: 'una de las capitales europeas más asequibles, con la playa canina de Ada Ciganlija todo el año, transporte público gratuito desde 2025 y el único hospital veterinario 24/7 de Serbia',
       highlight: 'la fortaleza de Kalemegdan, la península de Ada Ciganlija y el parque Tašmajdan',
@@ -2397,6 +2412,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade balneario georgiana UNESCO de Inglaterra, compacta e peatonal, com uma fuerte cultura de pubs tolerante com os cães e o trilho Bath Skyline de 9,6 km justo encima do Royal Crescent de pedra color miel',
       highlight: 'o relva do Royal Crescent, o trilho da National Trust Bath Skyline e o camino de sirga Kennet & Avon',
       area: 'o bairro do Royal Crescent, a ribera junto al Pulteney Bridge e Bathwick',
+    },
+    belfast: {
+      personality: `a capital revitalizada da Irlanda do Norte às margens do Belfast Lough, com um Cathedral Quarter ferozmente acolhedor para cães, as 300 hectares selvagens de Cave Hill mesmo sobre a cidade, praias caninas o ano inteiro no condado de Down e dois hospitais veterinários de urgências 24/7`,
+      highlight: `Cave Hill Country Park até ao Napoleon's Nose, o trilho do Lagan de 18 km de Stranmillis até Lisburn e a praia canina de Helen's Bay a 20 minutos em comboio NIR`,
+      area: 'o Cathedral Quarter em torno de Commercial Court, os bairros do sul de Ormeau e Stranmillis e a frente marítima do Titanic Quarter',
     },
     belgrade: {
       personality: 'uma das capitales europeias mais asequibles, com a praia canina de Ada Ciganlija o ano inteiro, transporte público gratuito a partir de 2025 e o único hospital veterinário 24/7 de Serbia',

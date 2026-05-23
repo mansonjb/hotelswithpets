@@ -2220,6 +2220,125 @@
     "petPolicyPt": "Animais permitidos para £25 por estadia (máx. 2 animais per quarto). Travelodge chain-wide política animal."
   },
   {
+    "id": "belfast-1",
+    "name": "The Merchant Hotel",
+    "destinationSlug": "belfast",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 4200,
+    "priceFrom": 240,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-merchant-belfast.html",
+    "petFee": 40,
+    "petPolicy": "Pets allowed (dogs and cats) for £40 per stay. Listed Grade A Victorian building in the Cathedral Quarter, pet bed and bowls provided on request. Maximum one pet per room.",
+    "highlights": [
+      "5-star Victorian landmark in the Cathedral Quarter",
+      "Pet welcome amenities (bed, bowl)",
+      "Walking distance to Commercial Court pubs"
+    ],
+    "slug": "the-merchant-hotel-belfast"
+  },
+  {
+    "id": "belfast-2",
+    "name": "Grand Central Hotel Belfast",
+    "destinationSlug": "belfast",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 6100,
+    "priceFrom": 165,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/grand-central-belfast.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed (dogs and cats) for £25 per night. Tallest hotel in Belfast with panoramic Observatory bar. Bedding and bowls provided, advance notice required.",
+    "highlights": [
+      "23-storey city-centre tower with skyline views",
+      "Pet bedding and bowls included",
+      "5 minutes' walk to Belfast Grand Central Station"
+    ],
+    "slug": "grand-central-hotel-belfast"
+  },
+  {
+    "id": "belfast-3",
+    "name": "Europa Hotel Belfast",
+    "destinationSlug": "belfast",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 7500,
+    "priceFrom": 125,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/europa-belfast.html",
+    "petFee": 30,
+    "petPolicy": "Pets allowed (dogs and cats) for £30 per stay. Iconic Europa hotel opposite the Crown Liquor Saloon, treats and bowls on arrival. Maximum two pets per room.",
+    "highlights": [
+      "Iconic Belfast landmark since 1971",
+      "Opposite the Crown Liquor Saloon (dog-friendly pub)",
+      "Pet treats and bowls on arrival"
+    ],
+    "slug": "europa-hotel-belfast"
+  },
+  {
+    "id": "belfast-4",
+    "name": "Bullitt Hotel Belfast",
+    "destinationSlug": "belfast",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 4400,
+    "priceFrom": 130,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bullitt-belfast.html",
+    "petFee": 25,
+    "petPolicy": "Pets allowed (dogs and cats) for £25 per stay. Independent boutique hotel with rooftop terrace and Cathedral Quarter location, welcome pet kit with bowl and treats included.",
+    "highlights": [
+      "Independent boutique hotel in Cathedral Quarter",
+      "Rooftop terrace (Babel) dog-friendly outdoors",
+      "Welcome pet kit included"
+    ],
+    "slug": "bullitt-hotel-belfast"
+  },
+  {
+    "id": "belfast-5",
+    "name": "Premier Inn Belfast City Cathedral Quarter",
+    "destinationSlug": "belfast",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 3100,
+    "priceFrom": 75,
+    "currency": "GBP",
+    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-belfast-cathedral-quarter.html",
+    "petFee": 25,
+    "petPolicy": "Assistance dogs welcome at no charge; up to 2 pets per room for £25 per night under the Premier Inn pet policy. Bedding provided on request.",
+    "highlights": [
+      "Excellent value in Cathedral Quarter location",
+      "£25 per night pet fee, max 2 pets",
+      "Walking distance to Titanic Quarter"
+    ],
+    "slug": "premier-inn-belfast-cathedral-quarter"
+  },
+  {
     "id": "belgrade-1",
     "name": "Hyatt Regency Belgrade",
     "destinationSlug": "belgrade",

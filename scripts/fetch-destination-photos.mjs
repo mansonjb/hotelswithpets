@@ -72,6 +72,7 @@ const TARGETS = [
   { slug: 'zagreb', query: 'Zagreb Croatia St Marks Church colourful tiled roof Upper Town panorama sunset' },
   { slug: 'stuttgart', query: 'Stuttgart Germany Schlossplatz Neues Schloss panorama sunset vineyard hills' },
   { slug: 'bath', query: 'Bath England Royal Crescent Georgian terrace honey stone panorama sunset' },
+  { slug: 'belfast', query: 'Belfast Northern Ireland city hall Titanic Quarter panorama sunset' },
   { slug: 'cordoba', query: 'Cordoba Spain Mezquita Cathedral Roman Bridge Guadalquivir sunset panorama' },
   { slug: 'wroclaw', query: 'Wroclaw Poland Rynek market square colourful gabled townhouses Town Hall sunset panorama' },
   { slug: 'bristol', query: 'Bristol England Clifton Suspension Bridge Avon Gorge sunset panorama' },

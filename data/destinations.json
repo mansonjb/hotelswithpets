@@ -1129,6 +1129,82 @@
     "tiqetsId": "67623"
   },
   {
+    "slug": "belfast",
+    "name": "Belfast",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/belfast.jpg",
+    "intro": "Northern Ireland's revitalised capital on Belfast Lough, with the Cathedral Quarter pub scene, 750-acre Cave Hill Country Park rising directly above the city, the 18 km Lagan towpath, and year-round dog beaches on the County Down coast 20 minutes away. Strong British pub-and-dog culture, free dog travel on NI Railways, two 24/7 emergency vets.",
+    "lat": 54.5973,
+    "lng": -5.9301,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Mild, damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold, occasional snow",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool, blustery",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Cool, brightening",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild, long days",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Cool, frequent showers",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Mild, mostly cloudy",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Cool, breezy",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool, wet",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, festive",
+        "icon": "🎄"
+      }
+    },
+    "iata": "BFS",
+    "tiqetsId": "67614"
+  },
+  {
     "slug": "belgrade",
     "name": "Belgrade",
     "country": "Serbia",

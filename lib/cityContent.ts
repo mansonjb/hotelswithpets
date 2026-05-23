@@ -1887,6 +1887,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  belfast: {
+    history: {
+      fr: `Belfast s'est développée sur la rivière Lagan à partir d'un petit château normand du XIIᵉ siècle, mais c'est la révolution industrielle du XIXᵉ qui a fait d'elle l'une des plus grandes villes industrielles de l'Empire britannique : linen capital of the world, et plus encore, capitale mondiale de la construction navale, le RMS Titanic ayant été lancé depuis le Harland & Wolff shipyard en 1911. Les Troubles (1968-1998) ont divisé la ville selon des lignes communautaires dont les fresques de Falls Road et Shankill Road conservent la mémoire. Depuis l'Accord du Vendredi saint (1998), Belfast s'est radicalement transformée : Cathedral Quarter revitalisé, Titanic Quarter en front d'eau, Maritime Mile balisée, et l'une des cultures pub les plus dog-friendly des îles Britanniques. La géographie est généreuse : Cave Hill et ses 300 hectares de nature sauvage rejoignent presque la ville par le nord, le Lagan offre 18 km de chemin de halage plat jusqu'à Lisburn, et la côte est du comté de Down (plages sans interdiction estivale) est à 20 minutes en train. Particularité post-Brexit unique : sous le Windsor Framework, l'Irlande du Nord reconnaît les passeports européens pour les chiens voyageant vers/depuis l'UE, contrairement au reste du Royaume-Uni.`,
+      en: `Belfast grew on the River Lagan from a small 12th-century Norman castle, but it was the 19th-century industrial revolution that made it one of the largest industrial cities in the British Empire: linen capital of the world, and more than that, world capital of shipbuilding, the RMS Titanic launched from the Harland & Wolff shipyard in 1911. The Troubles (1968-1998) divided the city along community lines whose murals on Falls Road and Shankill Road preserve the memory. Since the Good Friday Agreement (1998), Belfast has transformed radically: revitalised Cathedral Quarter, waterfront Titanic Quarter, signposted Maritime Mile, and one of the most dog-welcoming pub cultures in the British Isles. The geography is generous: Cave Hill and its 750-acre wilderness joins the city from the north, the Lagan offers 18 km of flat towpath to Lisburn, and the east coast of County Down (year-round dog beaches) is 20 minutes by train. Unique post-Brexit quirk: under the Windsor Framework, Northern Ireland recognises EU pet passports for dogs travelling to/from the EU, unlike the rest of the UK.`,
+      es: `Belfast creció en el río Lagan desde un pequeño castillo normando del siglo XII, pero fue la revolución industrial del XIX la que hizo de ella una de las mayores ciudades industriales del Imperio británico: capital mundial del lino y más aún, capital mundial de la construcción naval, el RMS Titanic se botó desde el astillero Harland & Wolff en 1911. Los Troubles (1968-1998) dividieron la ciudad en líneas comunitarias cuyas murales en Falls Road y Shankill Road conservan la memoria. Desde el Acuerdo de Viernes Santo (1998), Belfast se ha transformado radicalmente: Cathedral Quarter revitalizado, Titanic Quarter en el frente marítimo, Maritime Mile señalizada, y una de las culturas de pub más pet-friendly de las Islas Británicas. La geografía es generosa: Cave Hill y sus 300 hectáreas de naturaleza salvaje se unen a la ciudad por el norte, el Lagan ofrece 18 km de camino de sirga llano hasta Lisburn, y la costa este del condado de Down (playas sin prohibición estival) está a 20 minutos en tren. Particularidad post-Brexit única: bajo el Windsor Framework, Irlanda del Norte reconoce los pasaportes europeos para mascotas que viajan a/desde la UE, a diferencia del resto del Reino Unido.`,
+      pt: `Belfast cresceu no rio Lagan a partir de um pequeno castelo normando do século XII, mas foi a revolução industrial do XIX que fez dela uma das maiores cidades industriais do Império Britânico: capital mundial do linho e mais ainda, capital mundial da construção naval, o RMS Titanic foi lançado a partir do estaleiro Harland & Wolff em 1911. Os Troubles (1968-1998) dividiram a cidade ao longo de linhas comunitárias cujos murais na Falls Road e na Shankill Road conservam a memória. Desde o Acordo de Sexta-feira Santa (1998), Belfast transformou-se radicalmente: Cathedral Quarter revitalizado, Titanic Quarter na frente marítima, Maritime Mile sinalizada, e uma das culturas de pub mais pet-friendly das Ilhas Britânicas. A geografia é generosa: Cave Hill e os seus 300 hectares de natureza selvagem juntam-se à cidade pelo norte, o Lagan oferece 18 km de trilho plano até Lisburn, e a costa leste do condado de Down (praias sem proibição estival) está a 20 minutos de comboio. Particularidade pós-Brexit única: sob o Windsor Framework, a Irlanda do Norte reconhece os passaportes europeus para animais que viajam para/da UE, ao contrário do resto do Reino Unido.`,
+    },
+    sights: [
+      {
+        name: 'Cave Hill',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Country Park de 300 ha culminant à 368 m, avec le célèbre profil de falaise « Napoleon's Nose ». Sans laisse sur les sentiers ouverts, vues panoramiques sur Belfast Lough.`,
+          en: `750-acre Country Park topping out at 368 m, with the famous Napoleon's Nose cliff profile. Off-leash on open trails, panoramic views over Belfast Lough.`,
+          es: `Country Park de 300 hectáreas que culmina a 368 m, con el famoso perfil de acantilado Napoleon's Nose. Sin correa en senderos abiertos, vistas panorámicas a Belfast Lough.`,
+          pt: `Country Park de 300 hectares culminando a 368 m, com o famoso perfil de penhasco Napoleon's Nose. Sem trela em trilhos abertos, vistas panorâmicas sobre Belfast Lough.`,
+        },
+      },
+      {
+        name: 'Cathedral Quarter',
+        emoji: '🍺',
+        petFriendly: true,
+        desc: {
+          fr: `Cœur historique revitalisé autour de Commercial Court et Hill Street, concentration la plus dense de pubs dog-friendly d'Irlande du Nord. Sessions trad chaque soir.`,
+          en: `Revitalised historic core around Commercial Court and Hill Street, the densest concentration of dog-friendly pubs in Northern Ireland. Live trad music every evening.`,
+          es: `Corazón histórico revitalizado en torno a Commercial Court y Hill Street, la mayor densidad de pubs pet-friendly de Irlanda del Norte. Música trad en directo cada noche.`,
+          pt: `Coração histórico revitalizado em torno de Commercial Court e Hill Street, a maior densidade de pubs pet-friendly da Irlanda do Norte. Música trad ao vivo todas as noites.`,
+        },
+      },
+      {
+        name: 'Titanic Quarter & Maritime Mile',
+        emoji: '🚢',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade balisée de 1,6 km le long des cales du Titanic et des grues Harland & Wolff Samson et Goliath. Chiens admis en extérieur, pas dans le musée Titanic Belfast.`,
+          en: `1.6 km signposted promenade along the Titanic slipways and the Harland & Wolff cranes Samson and Goliath. Dogs welcome outdoors, not inside Titanic Belfast museum.`,
+          es: `Promenada señalizada de 1,6 km a lo largo de las gradas del Titanic y las grúas Harland & Wolff Samson y Goliath. Perros admitidos al aire libre, no dentro del museo Titanic Belfast.`,
+          pt: `Passeio sinalizado de 1,6 km ao longo das gradas do Titanic e dos guindastes Harland & Wolff Samson e Goliath. Cães admitidos ao ar livre, não dentro do museu Titanic Belfast.`,
+        },
+      },
+      {
+        name: 'Lagan Towpath',
+        emoji: '🚣',
+        petFriendly: true,
+        desc: {
+          fr: `Chemin de halage plat de 18 km depuis Stranmillis jusqu'à Lisburn, sans voitures, traversant le Lagan Valley Regional Park. Sans laisse sur les sections larges.`,
+          en: `Flat 18 km canal towpath from Stranmillis to Lisburn, car-free, through the Lagan Valley Regional Park. Off-leash on wide sections.`,
+          es: `Camino de sirga llano de 18 km desde Stranmillis hasta Lisburn, sin coches, a través del Lagan Valley Regional Park. Sin correa en tramos anchos.`,
+          pt: `Trilho de sirga plano de 18 km de Stranmillis até Lisburn, sem carros, através do Lagan Valley Regional Park. Sem trela em trechos largos.`,
+        },
+      },
+      {
+        name: 'Botanic Gardens',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Parc victorien de 11 ha à côté de la Queen's University, le poumon vert le plus accessible depuis le centre. Chiens en laisse dans le parc, pas dans les serres Palm House et Tropical Ravine.`,
+          en: `11-hectare Victorian park beside Queen's University, the most accessible green lung from the centre. Leashed dogs in the park, not in the Palm House or Tropical Ravine glasshouses.`,
+          es: `Parque victoriano de 11 hectáreas junto a la Queen's University, el pulmón verde más accesible desde el centro. Perros con correa en el parque, no en los invernaderos Palm House o Tropical Ravine.`,
+          pt: `Parque vitoriano de 11 hectares junto à Queen's University, o pulmão verde mais acessível a partir do centro. Cães com trela no parque, não nas estufas Palm House ou Tropical Ravine.`,
+        },
+      },
+      {
+        name: `St George's Market`,
+        emoji: '🥖',
+        petFriendly: true,
+        desc: {
+          fr: `Marché couvert victorien (1890) ouvert vendredi-dimanche sur May Street, l'un des rares marchés couverts britanniques de centre-ville à accepter les chiens en laisse.`,
+          en: `Victorian covered market (1890) open Friday-Sunday on May Street, one of the few UK city-centre covered markets to admit leashed dogs.`,
+          es: `Mercado cubierto victoriano (1890) abierto de viernes a domingo en May Street, uno de los pocos mercados cubiertos de centro urbano del Reino Unido que admite perros con correa.`,
+          pt: `Mercado coberto vitoriano (1890) aberto de sexta a domingo na May Street, um dos poucos mercados cobertos de centro urbano do Reino Unido que admite cães com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `NI Railways accepte jusqu'à 2 chiens GRATUITS par passager en laisse, sans réservation, l'une des politiques les plus généreuses du Royaume-Uni.`,
+        `Bus Metro et Glider BRT : petits chiens en cage et chiens d'assistance gratuits, grands chiens à la discrétion du conducteur, presque toujours OK hors heure de pointe 16h30-18h.`,
+        `Vétérinaire d'urgence 24h/24 : Earlswood Veterinary Hospital (+44 28 9047 1304) à l'est, Cedar Grove (+44 28 9039 1300) au nord, enregistrer les deux à l'arrivée.`,
+        `Cave Hill : moutons en pâturage libre toute l'année au-dessus de la ligne d'arbres du Belfast Castle, laisse obligatoire dès que vous voyez du bétail, le Welfare of Animals Act autorise les propriétaires à abattre les chiens harcelant les moutons.`,
+        `Windsor Framework : votre passeport européen pour animal reste VALIDE pour entrer en Irlande du Nord depuis l'UE, contrairement au reste du Royaume-Uni qui exige un AHC britannique. Emportez quand même un AHC en backup.`,
+      ],
+      en: [
+        `NI Railways accepts up to 2 dogs FREE per passenger on a lead, no booking required, one of the most generous policies in the UK.`,
+        `Metro buses and Glider BRT: small dogs in carriers and assistance dogs free, large dogs at driver's discretion, almost always OK outside the 16:30-18:00 rush hour.`,
+        `24/7 emergency vets: Earlswood Veterinary Hospital (+44 28 9047 1304) in the east, Cedar Grove (+44 28 9039 1300) in the north, save both numbers on arrival.`,
+        `Cave Hill: free-roaming sheep on the open hillside year-round above the Belfast Castle treeline, leash on the moment you see livestock, the Welfare of Animals Act allows landowners to shoot dogs worrying sheep.`,
+        `Windsor Framework: your EU pet passport REMAINS VALID for entering Northern Ireland from the EU, unlike the rest of the UK which requires a UK AHC. Bring an AHC anyway as a backup.`,
+      ],
+      es: [
+        `NI Railways admite hasta 2 perros GRATIS por pasajero con correa, sin reserva, una de las políticas más generosas del Reino Unido.`,
+        `Autobuses Metro y Glider BRT: perros pequeños en transportín y de asistencia gratis, perros grandes a discreción del conductor, casi siempre OK fuera de la hora punta de 16:30-18:00.`,
+        `Veterinarios de urgencia 24/7: Earlswood Veterinary Hospital (+44 28 9047 1304) al este, Cedar Grove (+44 28 9039 1300) al norte, guarda ambos números al llegar.`,
+        `Cave Hill: ovejas pastando libremente todo el año en la ladera abierta por encima de la línea de árboles del Belfast Castle, correa obligatoria en cuanto veas ganado, el Welfare of Animals Act autoriza a los propietarios a disparar a perros que acosen a ovejas.`,
+        `Windsor Framework: tu pasaporte europeo para mascotas SIGUE SIENDO VÁLIDO para entrar en Irlanda del Norte desde la UE, a diferencia del resto del Reino Unido que exige un AHC británico. Lleva un AHC de todas formas como respaldo.`,
+      ],
+      pt: [
+        `NI Railways admite até 2 cães GRÁTIS por passageiro com trela, sem reserva, uma das políticas mais generosas do Reino Unido.`,
+        `Autocarros Metro e Glider BRT: cães pequenos em transportadora e de assistência grátis, cães grandes a discrição do motorista, quase sempre OK fora da hora de ponta 16:30-18:00.`,
+        `Veterinários de urgência 24/7: Earlswood Veterinary Hospital (+44 28 9047 1304) a leste, Cedar Grove (+44 28 9039 1300) a norte, guarda ambos os números à chegada.`,
+        `Cave Hill: ovelhas em pasto livre todo o ano na encosta aberta acima da linha de árvores do Belfast Castle, trela obrigatória assim que vires gado, o Welfare of Animals Act autoriza os proprietários a abater cães que persigam ovelhas.`,
+        `Windsor Framework: o teu passaporte europeu para animais MANTÉM-SE VÁLIDO para entrar na Irlanda do Norte a partir da UE, ao contrário do resto do Reino Unido que exige um AHC britânico. Leva um AHC de qualquer forma como reserva.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Titanic Belfast, Ulster Museum, Crumlin Road Gaol et Belfast Zoo n'admettent que les chiens d'assistance, prévoyez un sitter Tailster ou Pawshake local pour les visites intérieures.`,
+        `Animal Health Certificate (AHC) UE→UK : émis par votre vétérinaire dans les 10 jours du voyage, 100-200 €. NI accepte aussi le passeport européen sous Windsor Framework, mais emportez les deux par sécurité.`,
+        `Races interdites UK (Dangerous Dogs Act + XL Bully Ban 2024) appliquées en Irlande du Nord : Pit Bull Terrier, Tosa japonais, Dogue argentin, Fila brasileiro, XL Bully, illégal d'en importer un même en transit.`,
+        `Stena Line Belfast → Cairnryan (2h15) accepte les chiens dans votre voiture sans frais, Belfast → Liverpool (8h) propose des cabines pet-friendly à réserver à l'avance.`,
+        `Plages canines toute l'année à 20-50 minutes : Helen's Bay/Crawfordsburn (train NIR, 20 min), Tyrella (voiture, 50 min), Murlough National Trust (voiture, 55 min). Aucune n'a d'interdiction estivale.`,
+      ],
+      en: [
+        `Titanic Belfast, Ulster Museum, Crumlin Road Gaol and Belfast Zoo admit assistance dogs only, book a local Tailster or Pawshake sitter for indoor visits.`,
+        `EU→UK Animal Health Certificate (AHC): issued by your vet within 10 days of travel, €100-200. NI also accepts the EU pet passport under the Windsor Framework, but bring both for safety.`,
+        `UK breed restrictions (Dangerous Dogs Act + XL Bully Ban 2024) apply in Northern Ireland: Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro, XL Bully, illegal to bring one in, even in transit.`,
+        `Stena Line Belfast → Cairnryan (2h15) accepts dogs in your car at no extra charge, Belfast → Liverpool (8h) offers pet-friendly cabins to book in advance.`,
+        `Year-round dog beaches 20-50 minutes away: Helen's Bay/Crawfordsburn (NIR train, 20 min), Tyrella (car, 50 min), Murlough National Trust (car, 55 min). None has a summer dog ban.`,
+      ],
+      es: [
+        `Titanic Belfast, Ulster Museum, Crumlin Road Gaol y Belfast Zoo solo admiten perros de asistencia, reserva un cuidador local de Tailster o Pawshake para las visitas cubiertas.`,
+        `Animal Health Certificate (AHC) UE→UK: emitido por tu veterinario en los 10 días previos al viaje, 100-200 €. NI también acepta el pasaporte europeo bajo el Windsor Framework, pero lleva ambos por seguridad.`,
+        `Razas prohibidas UK (Dangerous Dogs Act + XL Bully Ban 2024) se aplican en Irlanda del Norte: Pit Bull Terrier, Tosa Japonés, Dogo Argentino, Fila Brasileiro, XL Bully, ilegal traer una incluso en tránsito.`,
+        `Stena Line Belfast → Cairnryan (2h15) admite perros en tu coche sin coste extra, Belfast → Liverpool (8h) ofrece camarotes pet-friendly con reserva anticipada.`,
+        `Playas caninas todo el año a 20-50 minutos: Helen's Bay/Crawfordsburn (tren NIR, 20 min), Tyrella (coche, 50 min), Murlough National Trust (coche, 55 min). Ninguna tiene prohibición estival.`,
+      ],
+      pt: [
+        `Titanic Belfast, Ulster Museum, Crumlin Road Gaol e Belfast Zoo só admitem cães de assistência, reserva um cuidador local da Tailster ou Pawshake para as visitas cobertas.`,
+        `Animal Health Certificate (AHC) UE→UK: emitido pelo teu veterinário nos 10 dias anteriores à viagem, 100-200 €. A NI também aceita o passaporte europeu sob o Windsor Framework, mas leva ambos por segurança.`,
+        `Raças proibidas UK (Dangerous Dogs Act + XL Bully Ban 2024) aplicam-se na Irlanda do Norte: Pit Bull Terrier, Tosa Japonês, Dogo Argentino, Fila Brasileiro, XL Bully, ilegal trazer um mesmo em trânsito.`,
+        `Stena Line Belfast → Cairnryan (2h15) admite cães no teu carro sem custo extra, Belfast → Liverpool (8h) oferece camarotes pet-friendly com reserva antecipada.`,
+        `Praias caninas o ano inteiro a 20-50 minutos: Helen's Bay/Crawfordsburn (comboio NIR, 20 min), Tyrella (carro, 50 min), Murlough National Trust (carro, 55 min). Nenhuma tem proibição estival.`,
+      ],
+    },
+  },
+
   belgrade: {
     history: {
       fr: `Belgrade s'est dressée pour la première fois au confluent de la Sava et du Danube il y a 7 000 ans, et elle a été détruite et reconstruite environ 40 fois, record de Slaves, Romains, Byzantins, Ottomans, Habsbourgeois et Yougoslaves. Capitale de la Serbie depuis 1841, c'est aujourd'hui une métropole d'environ 1,4 million d'habitants où la vieille ville baroque, les blocs brutalistes de Nouvelle Belgrade et les terrasses bohèmes de Skadarlija coexistent. La culture canine serbe est ouverte mais réglementée : laisse em ville et muselière panier pour les races dangereuses, mais Belgrade compte des dizaines de parcs canins clôturés, une plage canine balisée à Ada Ciganlija ouverte toute l'année, et le seul hôpital vétérinaire 24h/24 enregistré du pays (Vet Planet à Novi Beograd). Particularité : les bus de ville interdisent les chiens non-assistance, mais les trams, trolleybus et le rail national ŽS les acceptent, et le transport public est gratuit depuis janvier 2025.`,

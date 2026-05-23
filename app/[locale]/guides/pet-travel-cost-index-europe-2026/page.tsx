@@ -215,7 +215,7 @@ const COPY: Record<string, {
       `If you're flexible on destination, pivot Northern Europe (Sweden, Belgium, Netherlands, Czech Republic) before booking the UK or the Balkans. Same trip duration, often €100+ saved on the pet supplement alone over a 5-night stay.`,
       `When booking the UK specifically, prioritise Premier Inn, Travelodge and Holiday Inn Express, chains that cap pet fees at £10/stay. Independent UK boutiques routinely charge £25–35/night, which compounds aggressively over a long weekend.`,
       `In Mediterranean cities (Barcelona, Athens, Lisbon, Valencia, Split), 50%+ of pet-friendly hotels charge zero, the European Mediterranean is structurally the cheapest pet-travel zone in the EU. Pair this with year-round dog beaches for the strongest value-for-money equation.`,
-      `Always re-confirm the pet fee at booking, Booking.com shows the policy at search time, but several chains apply a "second pet" surcharge that only appears in the email confirmation. Book direct with the hotel if the price gap is meaningful.`,
+      `Always re-confirm the pet fee at booking, Booking.com shows the policy at search time, but several chains apply a "second pet" surcharge that only appears in the email confirmation. Book a free-cancellation rate so you have leverage if the post-booking pet fee differs.`,
     ],
     faqTitle: 'Frequently asked questions',
     faqs: [

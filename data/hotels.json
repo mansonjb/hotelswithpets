@@ -372,6 +372,128 @@
     "slug": "kalliste-hotel-ajaccio"
   },
   {
+    "id": "albufeira-1",
+    "name": "Grande Real Santa Eulália Resort & Hotel Spa",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 4870,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/grande-real-santa-eulalia-resort-hotel-spa.html",
+    "petFee": 25,
+    "petPolicy": "The Grande Real Santa Eulália, a 5-star beachfront resort on Praia de Santa Eulália, welcomes pets in selected garden-view rooms with prior request. Pet fee 25 € per night, max one pet up to 15 kg per room. Pets on leash in all outdoor common areas, not allowed in restaurants, spa or pool areas. Direct garden access to a leash-friendly Atlantic clifftop promenade.",
+    "highlights": [
+      "Beachfront",
+      "Garden access",
+      "Spa & 4 pools"
+    ],
+    "slug": "grande-real-santa-eulalia"
+  },
+  {
+    "id": "albufeira-2",
+    "name": "Pestana Royal Premium All Inclusive Ocean & Spa Resort",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3950,
+    "priceFrom": 255,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pestana-royal-resort-luxury-all-inclusive-spa-and-ocean.html",
+    "petFee": 30,
+    "petPolicy": "The Pestana Royal Premium, a 5-star all-inclusive clifftop resort west of Albufeira centre, accepts pets in selected garden-side rooms on request. Pet fee 30 € per night, one pet per room up to 20 kg. Pets welcome on leash on garden paths and the clifftop promenade, not allowed in restaurants, pool decks or the spa.",
+    "highlights": [
+      "All-inclusive",
+      "Clifftop location",
+      "9 pools"
+    ],
+    "slug": "pestana-royal-premium"
+  },
+  {
+    "id": "albufeira-3",
+    "name": "AP Cabanas Beach & Nature",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2280,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/ap-cabanas-beach-amp-nature.html",
+    "petFee": 20,
+    "petPolicy": "AP Cabanas Beach & Nature, a 4-star eco-design hotel between Albufeira and Tavira (35 min by car), welcomes pets in selected rooms with a 20 € per night fee. Up to two pets per room, max 20 kg combined. Pets welcome in lobby, outdoor terraces and adjacent Ria Formosa boardwalks; not allowed in pool, restaurants or breakfast room.",
+    "highlights": [
+      "Eco design",
+      "Nature reserve at the door",
+      "Adults-only"
+    ],
+    "slug": "ap-cabanas-beach-nature"
+  },
+  {
+    "id": "albufeira-4",
+    "name": "Vila Galé Praia",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3680,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vila-gale-praia.html",
+    "petFee": 15,
+    "petPolicy": "Vila Galé Praia, a 4-star adults-only resort on Praia da Galé just west of Albufeira, welcomes pets in selected garden rooms on prior request. Pet fee 15 € per night, one pet per room up to 10 kg. Pets on leash in lobbies and garden paths, not allowed in restaurants or pool areas. Five-minute walk to a year-round dog-friendly cliff trail.",
+    "highlights": [
+      "Adults-only",
+      "Garden rooms",
+      "Steps from Praia da Galé"
+    ],
+    "slug": "vila-gale-praia"
+  },
+  {
+    "id": "albufeira-5",
+    "name": "Hotel Baltum",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2540,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/baltum.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Baltum, a long-running 3-star directly on Albufeira's main square 50 m from Praia dos Pescadores, accepts small pets in selected rooms with a 10 € per night fee. One pet per room up to 10 kg. Pets on leash in lobby and corridors only, not allowed in breakfast room. Cidade Velha cobbled streets and Pau da Bandeira viewpoint at the door.",
+    "highlights": [
+      "Old Town location",
+      "Beachfront",
+      "Budget-friendly"
+    ],
+    "slug": "baltum"
+  },
+  {
     "id": "alicante-1",
     "name": "Hospes Amerigo",
     "destinationSlug": "alicante",

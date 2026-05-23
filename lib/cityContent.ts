@@ -371,6 +371,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  albufeira: {
+    history: {
+      fr: `Albufeira, plus grande station balnéaire de l'Algarve avec environ 42 000 habitants (et près de 5 millions de visiteurs par an), est née comme bourg de pêcheurs maure puis chrétien sur une crique calcaire de la côte sud du Portugal, dominée jusqu'au tremblement de terre de Lisbonne de 1755 par un château fortifié dont il ne reste que des fragments dans la Cidade Velha. La ville d'aujourd'hui est duale : la vieille ville pavée aux maisons blanchies à la chaux dégringole vers la Praia dos Pescadores et le Pau da Bandeira, tandis que la bande balnéaire d'Areias de São João s'étend à l'est en hôtels haute densité, bars et la Strip nocturne d'Avenida Sá Carneiro. Pour les voyageurs avec chien, l'Algarve combine ~300 jours de soleil par an, des plages canines officielles à l'année à Cova Redonda et Barranco das Belharucas, le sentier en falaise des Pine Cliffs sous les pins parasols, et la réserve lagunaire de Praia dos Salgados avec ses flamants. Le calendrier est crucial : du 1er mai au 30 septembre, les chiens sont interdits sur toutes les plages centrales (amende GNR jusqu'à 120 €), et la chaleur de juillet-août pousse l'asphalte et le sable au-dessus de 50 °C. Avril-mai et octobre-novembre transforment Albufeira en l'une des escapades canines les plus séduisantes d'Europe du sud, tarifs hôteliers 40-60 % en-dessous d'août et toutes les plages rouvertes aux chiens en laisse à partir du 1er octobre.`,
+      en: `Albufeira, the Algarve's largest beach resort with about 42,000 residents (and roughly 5 million visitors a year), began as a Moorish and then Christian fishing settlement on a limestone cove of Portugal's south coast, dominated until the 1755 Lisbon earthquake by a fortified castle whose fragments still lie in the Cidade Velha. Today the town has two faces: the cobbled Old Town of white-washed houses tumbles down to the Praia dos Pescadores and the Pau da Bandeira viewpoint, while the resort strip of Areias de São João stretches east in high-rise hotels, bars and the late-night Strip on Avenida Sá Carneiro. For travellers with a dog, the Algarve combines ~300 sunny days a year, official year-round dog beaches at Cova Redonda and Barranco das Belharucas, the Pine Cliffs clifftop trail under umbrella pines, and the Praia dos Salgados lagoon reserve with its flamingos. Timing is critical: from 1 May to 30 September dogs are banned from all central beaches (GNR fines up to 120 €) and July-August heat pushes asphalt and sand above 50 °C. April-May and October-November turn Albufeira into one of southern Europe's most rewarding dog-friendly escapes, hotel rates 40-60% below August levels and all beaches reopening to leashed dogs from 1 October.`,
+      es: `Albufeira, el mayor centro turístico de playa del Algarve con unos 42.000 habitantes (y cerca de 5 millones de visitantes al año), nació como aldea de pescadores morisca y luego cristiana sobre una cala caliza de la costa sur de Portugal, dominada hasta el terremoto de Lisboa de 1755 por un castillo fortificado cuyos fragmentos aún yacen en la Cidade Velha. La ciudad actual tiene dos caras: el casco antiguo empedrado de casas encaladas cae hacia la Praia dos Pescadores y el mirador del Pau da Bandeira, mientras que la franja turística de Areias de São João se extiende al este en hoteles de gran altura, bares y el Strip nocturno de la Avenida Sá Carneiro. Para los viajeros con perro, el Algarve combina unos 300 días de sol al año, playas caninas oficiales todo el año en Cova Redonda y Barranco das Belharucas, el sendero de Pine Cliffs en lo alto del acantilado bajo pinos piñoneros, y la reserva de la laguna de Praia dos Salgados con sus flamencos. El calendario es decisivo: del 1 de mayo al 30 de septiembre los perros están prohibidos en todas las playas centrales (multa GNR hasta 120 €), y el calor de julio-agosto eleva el asfalto y la arena por encima de 50 °C. Abril-mayo y octubre-noviembre convierten Albufeira en una de las escapadas caninas más atractivas del sur de Europa, tarifas hoteleras un 40-60 % por debajo de agosto y todas las playas reabriendo a los perros con correa a partir del 1 de octubre.`,
+      pt: `Albufeira, o maior resort de praia do Algarve com cerca de 42 000 habitantes (e quase 5 milhões de visitantes por ano), começou como aldeia piscatória moura e depois cristã numa enseada de calcário do litoral sul de Portugal, dominada até ao terramoto de Lisboa de 1755 por um castelo fortificado de que restam apenas fragmentos na Cidade Velha. A cidade de hoje tem duas faces: o centro histórico de calçada e casas caiadas cai sobre a Praia dos Pescadores e o miradouro do Pau da Bandeira, enquanto a zona turística de Areias de São João se estende a leste em hotéis de altura, bares e a Strip noturna da Avenida Sá Carneiro. Para quem viaja com cão, o Algarve combina cerca de 300 dias de sol por ano, praias caninas oficiais todo o ano na Cova Redonda e no Barranco das Belharucas, o trilho de falésia dos Pine Cliffs sob pinheiros-mansos, e a reserva da lagoa da Praia dos Salgados com os seus flamingos. O calendário é decisivo: de 1 de maio a 30 de setembro os cães são proibidos em todas as praias centrais (coima da GNR até 120 €), e o calor de julho-agosto sobe o asfalto e a areia acima dos 50 °C. Abril-maio e outubro-novembro transformam Albufeira numa das escapadas caninas mais cativantes do sul da Europa, tarifas de hotel 40-60% abaixo de agosto e todas as praias a reabrir aos cães com trela a partir de 1 de outubro.`,
+    },
+    sights: [
+      { name: 'Pine Cliffs Trail', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Sentier en haut de falaise de 4 km à travers pinède de pins parasols entre Praia da Falésia et Olhos de Água. Chiens en laisse à l'année, falaises de grès rouge vif, fontaines aux deux extrémités.`,
+        en: `4 km clifftop trail through umbrella-pine forest between Praia da Falésia and Olhos de Água. Leashed dogs year-round, bright red sandstone cliffs, water fountains at both ends.`,
+        es: `Sendero en lo alto del acantilado de 4 km a través de pinar de pino piñonero entre Praia da Falésia y Olhos de Água. Perros con correa todo el año, acantilados de arenisca roja brillante, fuentes en ambos extremos.`,
+        pt: `Trilho de falésia de 4 km através de pinhal-manso entre a Praia da Falésia e Olhos de Água. Cães com trela todo o ano, falésias de arenito vermelho-vivo, bebedouros nas duas extremidades.`,
+      }},
+      { name: 'Cidade Velha (Old Town)', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Dédale de ruelles pavées et maisons blanchies à la chaux qui descendent à la plage des pêcheurs, avec l'Igreja de São Sebastião et le belvédère du Pau da Bandeira en haut. Chiens en laisse bienvenus partout dans les rues publiques.`,
+        en: `Maze of cobbled streets and white-washed houses tumbling down to the fishermen's beach, with the Igreja de São Sebastião and the Pau da Bandeira viewpoint at the top. Leashed dogs welcome everywhere in the public streets.`,
+        es: `Laberinto de calles empedradas y casas encaladas que caen hacia la playa de los pescadores, con la Igreja de São Sebastião y el mirador del Pau da Bandeira en lo alto. Perros con correa bienvenidos por todas las calles públicas.`,
+        pt: `Labirinto de ruas de calçada e casas caiadas a cair sobre a praia dos pescadores, com a Igreja de São Sebastião e o miradouro do Pau da Bandeira no topo. Cães com trela são bem-vindos em todas as ruas públicas.`,
+      }},
+      { name: 'Praia da Cova Redonda', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Petite crique en fer à cheval à 15 km à l'ouest désignée plage canine à l'année par la municipalité de Lagoa. Chiens en laisse autorisés les douze mois, accès par boardwalk en bois, café de plage saisonnier.`,
+        en: `Small horseshoe cove 15 km west, officially designated as a year-round dog beach by the Lagoa municipality. Leashed dogs allowed all twelve months, wooden boardwalk descent, seasonal beach café.`,
+        es: `Pequeña cala en herradura a 15 km al oeste, designada oficialmente como playa canina todo el año por el ayuntamiento de Lagoa. Perros con correa permitidos los doce meses, bajada por pasarela de madera, café de playa estacional.`,
+        pt: `Pequena enseada em ferradura a 15 km a oeste, designada oficialmente como praia canina todo o ano pelo município de Lagoa. Cães com trela permitidos os doze meses, descida por passadiço de madeira, café de praia sazonal.`,
+      }},
+      { name: 'Marina de Albufeira', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Marina de 475 anneaux aux bâtiments colorés signés Vasco Vieira, promenade ouverte 24h/24, restaurants à terrasses dog-friendly et bateaux d'observation des dauphins. Chiens en laisse partout sur le boardwalk à l'année.`,
+        en: `475-berth marina with candy-coloured buildings by architect Vasco Vieira, 24/7 promenade, dog-friendly terrace restaurants and dolphin-watching boats. Leashed dogs welcome everywhere on the boardwalk year-round.`,
+        es: `Marina de 475 amarres con edificios de colores caramelo del arquitecto Vasco Vieira, paseo abierto 24/7, restaurantes con terraza dog-friendly y barcos de avistamiento de delfines. Perros con correa por todo el paseo todo el año.`,
+        pt: `Marina de 475 postos de amarração com edifícios de cores doces do arquiteto Vasco Vieira, passeio aberto 24/7, restaurantes com esplanada pet-friendly e barcos de observação de golfinhos. Cães com trela em todo o passeio todo o ano.`,
+      }},
+      { name: 'Praia dos Salgados Reserve', emoji: '🦩', petFriendly: true, desc: {
+        fr: `Réserve de lagune et marais salants à 8 km à l'ouest, boardwalk en bois de 3 km au-dessus des marais avec flamants et hérons toute l'année. Chiens en laisse sur le boardwalk à l'année.`,
+        en: `Coastal lagoon and salt-marsh reserve 8 km west, 3 km wooden boardwalk over the marshes with flamingos and herons year-round. Leashed dogs welcome on the boardwalk year-round.`,
+        es: `Reserva de laguna y marisma a 8 km al oeste, boardwalk de madera de 3 km sobre las marismas con flamencos y garzas todo el año. Perros con correa en el boardwalk todo el año.`,
+        pt: `Reserva de lagoa e sapal a 8 km a oeste, passadiço de madeira de 3 km sobre o sapal com flamingos e garças todo o ano. Cães com trela no passadiço todo o ano.`,
+      }},
+      { name: 'Castelo de Silves', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Château maure en grès rouge à 25 km au nord-ouest, ancienne capitale arabe de l'Algarve. Chiens en laisse autorisés sur l'enceinte extérieure et les remparts à l'année (entrée 2,80 €), pas dans les bâtiments du musée.`,
+        en: `Red-sandstone Moorish castle 25 km north-west, the former Arab capital of the Algarve. Leashed dogs allowed on the outdoor grounds and ramparts year-round (entry 2.80 €), not in the museum buildings.`,
+        es: `Castillo moro de arenisca roja a 25 km al noroeste, antigua capital árabe del Algarve. Perros con correa permitidos en el recinto exterior y las murallas todo el año (entrada 2,80 €), no en los edificios del museo.`,
+        pt: `Castelo mouro de arenito vermelho a 25 km a noroeste, antiga capital árabe do Algarve. Cães com trela permitidos no recinto exterior e nas muralhas todo o ano (entrada 2,80 €), não nos edifícios do museu.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale plages : chiens interdits sur toutes les plages centrales (Pescadores, Oura, Santa Eulália, Galé) du 1er mai au 30 septembre, amendes GNR jusqu'à 120 €. Exceptions à l'année : Praia da Cova Redonda (15 km ouest) et Praia do Barranco das Belharucas (10 km est).`,
+        `Chaleur extrême juillet-août : sable et asphalte au-dessus de 50 °C, brûlent les coussinets en moins d'une minute. Promenez avant 9h ou après 19h30, et préférez la saison intermédiaire (avril-mai, octobre-novembre).`,
+        `Vétérinaire d'urgence 24h le plus proche : Hospital Veterinário do Algarve à Loulé (20 km est, +351 289 410 020). Aucun service 24h dans Albufeira même, enregistrez le numéro avant l'arrivée.`,
+        `Transports publics : Próximo bus urbain accepte petits chiens en cage gratuits, grands chiens en laisse + muselière à discrétion du chauffeur. CP train Faro-Lagos 5 € forfaitaire pour grands chiens (gratuit en cage <10 kg).`,
+        `Évitez la Strip d'Areias de São João (Avenida Sá Carneiro) après 22h de juin à septembre avec un chien sensible au bruit, musique forte et foule toute la nuit. Préférez les hôtels de la Cidade Velha, d'Olhos de Água ou de la Praia da Galé.`,
+      ],
+      en: [
+        `Summer beach ban: dogs prohibited on all central beaches (Pescadores, Oura, Santa Eulália, Galé) from 1 May to 30 September, GNR fines up to 120 €. Year-round exceptions: Praia da Cova Redonda (15 km west) and Praia do Barranco das Belharucas (10 km east).`,
+        `Extreme July-August heat: sand and asphalt above 50 °C, burn paw pads in under a minute. Walk before 09:00 or after 19:30, and prefer shoulder season (April-May, October-November).`,
+        `Nearest 24h emergency vet: Hospital Veterinário do Algarve in Loulé (20 km east, +351 289 410 020). No 24h service inside Albufeira itself, save the number before arrival.`,
+        `Public transport: the Próximo urban bus accepts small dogs in carriers free, large dogs on leash + muzzle at driver discretion. CP train Faro-Lagos 5 € flat fare for large dogs (free in carrier <10 kg).`,
+        `Avoid the Areias de São João Strip (Avenida Sá Carneiro) after 22:00 from June to September with a noise-sensitive dog, loud music and crowds all night. Prefer hotels in Cidade Velha, Olhos de Água or Praia da Galé.`,
+      ],
+      es: [
+        `Prohibición estival de playas: perros prohibidos en todas las playas centrales (Pescadores, Oura, Santa Eulália, Galé) del 1 de mayo al 30 de septiembre, multas GNR hasta 120 €. Excepciones todo el año: Praia da Cova Redonda (15 km oeste) y Praia do Barranco das Belharucas (10 km este).`,
+        `Calor extremo julio-agosto: arena y asfalto por encima de 50 °C, queman las almohadillas en menos de un minuto. Pasea antes de las 09:00 o después de las 19:30, y prefiere temporada media (abril-mayo, octubre-noviembre).`,
+        `Veterinario de urgencias 24h más cercano: Hospital Veterinário do Algarve en Loulé (20 km al este, +351 289 410 020). Sin servicio 24h dentro de Albufeira, guarda el número antes de llegar.`,
+        `Transporte público: el bus urbano Próximo admite perros pequeños en transportín gratis, perros grandes con correa + bozal a discreción del conductor. Tren CP Faro-Lagos 5 € tarifa única para perros grandes (gratis en transportín <10 kg).`,
+        `Evita el Strip de Areias de São João (Avenida Sá Carneiro) después de las 22:00 de junio a septiembre con un perro sensible al ruido, música alta y gentío toda la noche. Prefiere hoteles en Cidade Velha, Olhos de Água o Praia da Galé.`,
+      ],
+      pt: [
+        `Proibição estival de praias: cães proibidos em todas as praias centrais (Pescadores, Oura, Santa Eulália, Galé) de 1 de maio a 30 de setembro, coimas da GNR até 120 €. Exceções todo o ano: Praia da Cova Redonda (15 km oeste) e Praia do Barranco das Belharucas (10 km leste).`,
+        `Calor extremo julho-agosto: areia e asfalto acima de 50 °C, queimam as almofadas em menos de um minuto. Passeie antes das 9h ou depois das 19h30, e prefira a época intermédia (abril-maio, outubro-novembro).`,
+        `Veterinário de urgência 24h mais próximo: Hospital Veterinário do Algarve em Loulé (20 km a leste, +351 289 410 020). Sem serviço 24h dentro da própria Albufeira, guarde o número antes de chegar.`,
+        `Transportes públicos: o autocarro urbano Próximo aceita cães pequenos em transportadora grátis, cães grandes com trela + açaime à discrição do motorista. Comboio CP Faro-Lagos 5 € tarifa única para cães grandes (grátis em transportadora <10 kg).`,
+        `Evite a Strip de Areias de São João (Avenida Sá Carneiro) depois das 22h de junho a setembro com um cão sensível ao ruído, música alta e multidões a noite toda. Prefira hotéis na Cidade Velha, Olhos de Água ou Praia da Galé.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Faro (FAO) à 40 km à l'est, environ 35 min en voiture sur l'A22. Aerobus EVA Transportes toutes les heures jusqu'au terminal d'Albufeira (chiens en cage uniquement) ; transfert privé pet-friendly 50-70 € l'aller simple, recommandé pour les grands chiens.`,
+        `Train CP régional Faro-Albufeira-Lagos, environ une fois par heure. Petits chiens en cage <10 kg gratuits ; grands chiens en laisse + muselière 5 € forfaitaire. La gare d'Albufeira-Ferreiras est à 6 km dans les terres du centre.`,
+        `Bus Próximo urbain : 9 lignes reliant la Cidade Velha, Areias de São João, Olhos de Água et la gare. Petits chiens en cage gratuits ; grands en laisse + muselière à discrétion du chauffeur (plus stricte aux heures de pointe).`,
+        `Portugal utilise l'euro, contactless universel, suppléments animaux dans les hôtels d'Albufeira 10-25 €/nuit, plus élevés qu'à Faro mais inférieurs aux stations espagnoles de la Costa del Sol.`,
+        `Voyageurs UK : Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant le voyage retour. La Clínica Veterinária de Albufeira et VetSet Albufeira peuvent le délivrer, réservez 72h à l'avance (80-120 €).`,
+      ],
+      en: [
+        `Faro Airport (FAO) 40 km east, around 35 min by car on the A22. EVA Transportes Aerobus hourly to Albufeira terminal (carrier dogs only); private pet-friendly transfer 50-70 € one-way, recommended for large dogs.`,
+        `CP regional train Faro-Albufeira-Lagos, roughly hourly. Small dogs in carriers <10 kg free; large dogs on leash + muzzle pay a 5 € flat ticket. The Albufeira-Ferreiras station is 6 km inland from the centre.`,
+        `Próximo urban buses: 9 lines linking Cidade Velha, Areias de São João, Olhos de Água and the train station. Small dogs in carriers free; large dogs on leash + muzzle at driver discretion (stricter at peak hours).`,
+        `Portugal uses the euro, contactless universal, pet supplements at Albufeira hotels 10-25 €/night, higher than Faro but below Spanish Costa del Sol resorts.`,
+        `UK travellers: Animal Health Certificate (AHC) issued by an EU OV within 10 days of return travel. Clínica Veterinária de Albufeira and VetSet Albufeira can issue it, book 72h ahead (80-120 €).`,
+      ],
+      es: [
+        `Aeropuerto de Faro (FAO) a 40 km al este, unos 35 min en coche por la A22. Aerobus EVA Transportes cada hora hasta la terminal de Albufeira (solo perros en transportín); traslado privado pet-friendly 50-70 € el trayecto, recomendado para perros grandes.`,
+        `Tren regional CP Faro-Albufeira-Lagos, aproximadamente cada hora. Perros pequeños en transportín <10 kg gratis; perros grandes con correa + bozal pagan un billete único de 5 €. La estación de Albufeira-Ferreiras está a 6 km tierra adentro del centro.`,
+        `Autobuses urbanos Próximo: 9 líneas que conectan Cidade Velha, Areias de São João, Olhos de Água y la estación de tren. Perros pequeños en transportín gratis; perros grandes con correa + bozal a discreción del conductor (más estricto en horas punta).`,
+        `Portugal usa el euro, contactless universal, suplementos para mascotas en hoteles de Albufeira 10-25 €/noche, más altos que en Faro pero por debajo de los resorts españoles de la Costa del Sol.`,
+        `Viajeros del Reino Unido: Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos al viaje de vuelta. La Clínica Veterinária de Albufeira y VetSet Albufeira pueden emitirlo, reserva con 72h de antelación (80-120 €).`,
+      ],
+      pt: [
+        `Aeroporto de Faro (FAO) a 40 km a leste, cerca de 35 min de carro pela A22. Aerobus EVA Transportes de hora a hora até ao terminal de Albufeira (só cães em transportadora); transfer privado pet-friendly 50-70 € sentido único, recomendado para cães grandes.`,
+        `Comboio regional CP Faro-Albufeira-Lagos, cerca de uma vez por hora. Cães pequenos em transportadora <10 kg grátis; cães grandes com trela + açaime pagam bilhete único de 5 €. A estação de Albufeira-Ferreiras fica a 6 km no interior do centro.`,
+        `Autocarros urbanos Próximo: 9 linhas a ligar a Cidade Velha, Areias de São João, Olhos de Água e a estação de comboios. Cães pequenos em transportadora grátis; cães grandes com trela + açaime à discrição do motorista (mais rígido nas horas de ponta).`,
+        `Portugal usa o euro, contactless universal, suplementos para animais em hotéis de Albufeira 10-25 €/noite, mais altos do que em Faro mas abaixo dos resorts espanhóis da Costa del Sol.`,
+        `Viajantes do Reino Unido: Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias prévios ao regresso. A Clínica Veterinária de Albufeira e a VetSet Albufeira podem emiti-lo, reserve com 72h de antecedência (80-120 €).`,
+      ],
+    },
+  },
+
   alicante: {
     history: {
       fr: `Alicante, capitale de la province éponyme et l'une des plus grandes villes de la Costa Blanca (335 000 habitants), s'étire au pied du mont Benacantil couronné par le Castillo de Santa Bárbara, forteresse arabe du IXe siècle puis place forte chrétienne après la Reconquista de 1248. Le port méditerranéen, fondé par les Romains sous le nom de Lucentum, est aujourd'hui dominé par l'Explanada de España bordée de 6 600 carreaux de marbre rouge, blanc et noir formant un motif ondulant face à la marina. Pour les propriétaires de chiens, Alicante est l'une des bases les plus authentiquement pet-friendly de la côte espagnole : climat méditerranéen avec 320+ jours de soleil par an, hivers très doux (12–13°C en janvier), Playa de Agua Amarga officiellement désignée plage canine à l'année — l'une des rares en Espagne — Serra Grossa coastal walk avec vues sur le golfe, et un réseau TRAM Metropolitano qui file vers le nord jusqu'à Benidorm. La culture levantine est foncièrement accueillante aux animaux dans les terrasses du Casco Antiguo (Santa Cruz) et de l'Explanada, et l'aéroport international ALC à 9 km à l'ouest est l'un des hubs low-cost majeurs d'Europe du Sud.`,

@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Sentier des Crêtes ridge walk, the Pointe de la Parata and Sanguinaires islands, and the year-round dog beach of Capo di Feno`,
       area: `the Quartier des Étrangers around the Cours Grandval, the Vieille Ville around the Maison Bonaparte, and the marina-front Quai Napoléon`,
     },
+    albufeira: {
+      personality: `the Algarve's largest beach resort, a cliff-top city of two faces where the cobbled medieval Cidade Velha tumbles down to the fishermen's beach and the busy resort strip stretches east, with year-round dog beaches just outside town and ~300 sunny days a year making it one of southern Europe's most pet-friendly seaside escapes outside the July-August peak`,
+      highlight: `the Pine Cliffs clifftop trail between Praia da Falésia and Olhos de Água, Praia da Cova Redonda (year-round dog beach), and the Praia dos Salgados flamingo boardwalk`,
+      area: `the Cidade Velha around the Pau da Bandeira viewpoint, the marina promenade, and the Praia da Galé resort coast west of town`,
+    },
     alicante: {
       personality: `the sun-drenched capital of the Costa Blanca with 320+ days of sunshine a year, where the Castillo de Santa Bárbara, the palm-lined Explanada and the year-round Agua Amarga dog beach make it one of Spain's most genuinely pet-friendly Mediterranean bases`,
       highlight: `the Castillo de Santa Bárbara outdoor paths, Playa de Agua Amarga (year-round dog beach), and the Serra Grossa coastal walk`,
@@ -794,6 +799,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Sentier des Crêtes, la Pointe de la Parata et les îles Sanguinaires, et la plage canine toute l'année de Capo di Feno`,
       area: `le Quartier des Étrangers autour du Cours Grandval, la Vieille Ville autour de la Maison Bonaparte, et le Quai Napoléon face au port`,
     },
+    albufeira: {
+      personality: `la plus grande station balnéaire de l'Algarve, une ville à deux visages où la Cidade Velha pavée médiévale dégringole vers la plage des pêcheurs et où la bande balnéaire s'étend à l'est, avec des plages canines toute l'année juste à l'extérieur et environ 300 jours de soleil par an qui en font l'une des escapades littorales pet-friendly les plus séduisantes du sud de l'Europe hors pic juillet-août`,
+      highlight: `le sentier en falaise des Pine Cliffs entre la Praia da Falésia et Olhos de Água, la Praia da Cova Redonda (plage canine à l'année), et le boardwalk aux flamants de Praia dos Salgados`,
+      area: `la Cidade Velha autour du belvédère du Pau da Bandeira, la promenade de la marina, et la côte balnéaire de la Praia da Galé à l'ouest de la ville`,
+    },
     alicante: {
       personality: `la capitale ensoleillée de la Costa Blanca avec plus de 320 jours de soleil par an, où le Castillo de Santa Bárbara, l'Explanada bordée de palmiers et la plage canine à l'année d'Agua Amarga en font l'une des bases méditerranéennes les plus authentiquement pet-friendly d'Espagne`,
       highlight: `les sentiers extérieurs du Castillo de Santa Bárbara, la Playa de Agua Amarga (plage canine à l'année), et la balade côtière de la Serra Grossa`,
@@ -1551,6 +1561,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Sentier des Crêtes, la Pointe de la Parata y las islas Sanguinaires, y la playa canina todo el año de Capo di Feno`,
       area: `el Quartier des Étrangers en torno al Cours Grandval, la Vieille Ville en torno a la Maison Bonaparte, y el Quai Napoléon frente al puerto`,
     },
+    albufeira: {
+      personality: `el mayor centro turístico de playa del Algarve, una ciudad de dos caras donde la Cidade Velha medieval empedrada cae hacia la playa de los pescadores y la franja turística se extiende al este, con playas caninas todo el año justo a las afueras y unos 300 días de sol al año que la convierten en una de las escapadas litorales pet-friendly más atractivas del sur de Europa fuera del pico de julio-agosto`,
+      highlight: `el sendero en acantilado de Pine Cliffs entre la Praia da Falésia y Olhos de Água, la Praia da Cova Redonda (playa canina todo el año), y el boardwalk de flamencos de Praia dos Salgados`,
+      area: `la Cidade Velha en torno al mirador del Pau da Bandeira, el paseo de la marina, y la costa turística de Praia da Galé al oeste de la ciudad`,
+    },
     alicante: {
       personality: `la capital soleada de la Costa Blanca con más de 320 días de sol al año, donde el Castillo de Santa Bárbara, la Explanada bordeada de palmeras y la playa canina todo el año de Agua Amarga la convierten en una de las bases mediterráneas más genuinamente pet-friendly de España`,
       highlight: `los senderos exteriores del Castillo de Santa Bárbara, la Playa de Agua Amarga (playa canina todo el año), y el paseo costero de la Serra Grossa`,
@@ -2307,6 +2322,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital ensolarada da Córsega e lugar de nascimento de Napoleão, cidadela genovesa sobre um golfo mediterrâneo resguardado onde os invernos suaves o ano inteiro, os trilhos de cresta pelo maquis, as excursões de barco às Sanguinaires e a praia canina selvagem de Capo di Feno fazem dela a base mais pet-friendly da ilha`,
       highlight: `o Sentier des Crêtes, a Pointe de la Parata e as ilhas Sanguinaires, e a praia canina o ano inteiro de Capo di Feno`,
       area: `o Quartier des Étrangers em torno do Cours Grandval, a Vieille Ville em torno da Maison Bonaparte, e o Quai Napoléon frente ao porto`,
+    },
+    albufeira: {
+      personality: `o maior resort de praia do Algarve, uma cidade de duas caras onde a Cidade Velha medieval de calçada cai sobre a praia dos pescadores e a zona turística se estende a leste, com praias caninas todo o ano mesmo à saída e cerca de 300 dias de sol por ano que a tornam num dos refúgios litorais pet-friendly mais cativantes do sul da Europa fora do pico de julho-agosto`,
+      highlight: `o trilho de falésia dos Pine Cliffs entre a Praia da Falésia e Olhos de Água, a Praia da Cova Redonda (praia canina todo o ano), e o passadiço dos flamingos da Praia dos Salgados`,
+      area: `a Cidade Velha em torno do miradouro do Pau da Bandeira, o passeio da marina, e a costa de resort da Praia da Galé a oeste da cidade`,
     },
     alicante: {
       personality: `a capital ensolarada da Costa Blanca com mais de 320 dias de sol por ano, onde o Castillo de Santa Bárbara, a Explanada ladeada de palmeiras e a praia canina o ano inteiro de Agua Amarga fazem dela uma das bases mediterrânicas mais genuinamente pet-friendly de Espanha`,

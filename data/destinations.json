@@ -226,6 +226,82 @@
     "iata": "AJA"
   },
   {
+    "slug": "albufeira",
+    "name": "Albufeira",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/albufeira.jpg",
+    "intro": "The Algarve's largest beach resort, a city of two faces: the cobbled medieval Cidade Velha tumbling down to the fishermen's beach, and the busy resort strip of Areias de São João. Year-round dog beaches at Cova Redonda and Barranco das Belharucas, the Pine Cliffs clifftop trail in pine shade, and ~300 sunny days a year.",
+    "lat": 37.0891,
+    "lng": -8.2477,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild, occasional rain",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild, sunny spells",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild, blooming",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Pleasant, dry",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot, dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, dry, busy",
+        "icon": "🌞"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot, dry, peak",
+        "icon": "🌞"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm, golden",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Warm, ideal",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild, occasional rain",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild, festive",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "FAO",
+    "tiqetsId": "76558"
+  },
+  {
     "slug": "alicante",
     "name": "Alicante",
     "country": "Spain",

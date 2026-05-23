@@ -135,6 +135,7 @@ const TARGETS = [
   { slug: 'valletta', query: 'Valletta Malta Grand Harbour Upper Barrakka Gardens sunset panorama' },
   { slug: 'braga', query: 'Braga Portugal Bom Jesus do Monte baroque staircase Sé Cathedral panorama' },
   { slug: 'como', query: 'Como Italy lake waterfront cathedral Duomo Alps panorama sunset' },
+  { slug: 'bournemouth', query: 'Bournemouth Dorset England pier beach Jurassic coast panorama' },
 ]
 
 async function searchPhoto(query, apiKey) {

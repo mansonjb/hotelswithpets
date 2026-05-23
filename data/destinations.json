@@ -1954,6 +1954,82 @@
     "tiqetsId": "67101"
   },
   {
+    "slug": "bournemouth",
+    "name": "Bournemouth",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "lat": 50.7192,
+    "lng": -1.8808,
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bournemouth.jpg",
+    "intro": "Bournemouth is a south-coast English seaside resort with seven miles of golden sand, year-round dog-friendly beach zones at Fisherman's Walk and the Hengistbury end, a 2 km linear chain of public gardens through the centre, and the New Forest National Park half an hour north for off-leash forest hiking with free-roaming ponies to watch out for.",
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "BOH",
+    "tiqetsId": "67582"
+  },
+  {
     "slug": "braga",
     "name": "Braga",
     "country": "Portugal",
@@ -3082,6 +3158,82 @@
     "tiqetsId": "105984"
   },
   {
+    "slug": "carcassonne",
+    "name": "Carcassonne",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/carcassonne.jpg",
+    "intro": "The largest medieval walled city in Europe, where leashed dogs roam 3 km of double ramparts, 52 towers and the outer courtyards of Château Comtal, with the Canal du Midi towpath and Lac de la Cavayère shoreline for swimming and shade.",
+    "lat": 43.213,
+    "lng": 2.3491,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool & cloudy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "CCF",
+    "tiqetsId": "67073"
+  },
+  {
     "slug": "cardiff",
     "name": "Cardiff",
     "country": "United Kingdom",
@@ -3156,82 +3308,6 @@
     },
     "iata": "CWL",
     "tiqetsId": "67545"
-  },
-  {
-    "slug": "carcassonne",
-    "name": "Carcassonne",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/carcassonne.jpg",
-    "intro": "The largest medieval walled city in Europe, where leashed dogs roam 3 km of double ramparts, 52 towers and the outer courtyards of Château Comtal, with the Canal du Midi towpath and Lac de la Cavayère shoreline for swimming and shade.",
-    "lat": 43.2130,
-    "lng": 2.3491,
-    "weather": {
-      "jan": {
-        "temp": 7,
-        "desc": "Mild & damp",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 8,
-        "desc": "Cool & breezy",
-        "icon": "🌥️"
-      },
-      "mar": {
-        "temp": 11,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Warm with showers",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Warm & sunny",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 22,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hottest month",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 21,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 16,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 10,
-        "desc": "Cool & cloudy",
-        "icon": "🌥️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cool & damp",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "CCF",
-    "tiqetsId": "67073"
   },
   {
     "slug": "cascais",

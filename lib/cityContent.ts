@@ -3330,6 +3330,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bournemouth: {
+    history: {
+      en: `Bournemouth sits on the Dorset coast facing the English Channel, a Victorian seaside resort founded in 1810 when Lewis Tregonwell built the first villa on what was then empty heathland. By the mid-19th century the pine-scented air had attracted a stream of convalescents, and the town expanded into a planned grid of gardens, hotels and a 305-metre iron pier (built 1880). Today Bournemouth-Christchurch-Poole (BCP) is one of the UK's largest conurbations at around 400,000 residents, swollen by five million visitors a year drawn to the seven-mile golden-sand beach, the protected Jurassic Coast immediately west, and the New Forest National Park 30 minutes north. For pet visitors the headline is the year-round dog beach zones at Fisherman's Walk (Southbourne) and the Hengistbury end, the off-leash 162-hectare Hengistbury Head Nature Reserve, a 2 km linear chain of public gardens through the centre, and the wooded chines (Branksome, Durley, Alum) descending to the beach.`,
+      fr: `Bournemouth se trouve sur la côte du Dorset face à la Manche, station balnéaire victorienne fondée en 1810 quand Lewis Tregonwell fit construire la première villa sur ce qui n'était alors qu'une lande vide. Au milieu du XIXᵉ siècle, l'air parfumé de pin avait attiré un flot de convalescents et la ville s'est développée selon un plan en damier de jardins, d'hôtels et d'une jetée en fer de 305 mètres (construite en 1880). Aujourd'hui l'agglomération Bournemouth-Christchurch-Poole (BCP) est l'une des plus grandes du Royaume-Uni avec environ 400 000 habitants, gonflée par cinq millions de visiteurs annuels attirés par les onze kilomètres de sable doré, la Côte Jurassique protégée juste à l'ouest, et le parc national de la New Forest à 30 minutes au nord. Pour le visiteur avec un animal, les atouts sont les zones de plage canine ouvertes toute l'année à Fisherman's Walk (Southbourne) et côté Hengistbury, la réserve naturelle de Hengistbury Head (162 hectares en majorité sans laisse), une chaîne de jardins publics linéaire de 2 km à travers le centre, et les chines boisées (Branksome, Durley, Alum) qui descendent à la plage.`,
+      es: `Bournemouth se encuentra en la costa de Dorset frente al Canal de la Mancha, estación balnearia victoriana fundada en 1810 cuando Lewis Tregonwell levantó la primera villa sobre lo que entonces era un brezal vacío. A mediados del siglo XIX el aire perfumado a pino había atraído un flujo de convalecientes y la ciudad se desarrolló según un trazado de jardines, hoteles y un muelle de hierro de 305 metros (construido en 1880). Hoy la conurbación Bournemouth-Christchurch-Poole (BCP) es una de las mayores del Reino Unido, con unos 400.000 residentes, multiplicados por cinco millones de visitantes anuales que vienen por los once kilómetros de arena dorada, la protegida Costa Jurásica justo al oeste y el parque nacional de la New Forest a 30 minutos al norte. Para el visitante con mascota lo destacado son las zonas de playa para perros abiertas todo el año en Fisherman's Walk (Southbourne) y en el extremo de Hengistbury, la reserva natural de Hengistbury Head (162 hectáreas mayoritariamente sin correa), una cadena lineal de jardines públicos de 2 km por el centro, y los chines boscosos (Branksome, Durley, Alum) que descienden hasta la playa.`,
+      pt: `Bournemouth fica na costa do Dorset em frente ao Canal da Mancha, estação balnear vitoriana fundada em 1810 quando Lewis Tregonwell construiu a primeira vila no que era então uma charneca vazia. Em meados do século XIX o ar perfumado a pinheiro atraíra um fluxo de convalescentes e a cidade desenvolveu-se segundo um traçado de jardins, hotéis e um pontão de ferro de 305 metros (construído em 1880). Hoje a conurbação Bournemouth-Christchurch-Poole (BCP) é uma das maiores do Reino Unido, com cerca de 400 000 residentes, multiplicados por cinco milhões de visitantes anuais atraídos pelos onze quilómetros de areia dourada, a protegida Costa Jurássica logo a oeste e o parque nacional da New Forest a 30 minutos a norte. Para o visitante com animal o destaque são as zonas de praia canina abertas todo o ano em Fisherman's Walk (Southbourne) e no extremo de Hengistbury, a reserva natural de Hengistbury Head (162 hectares maioritariamente sem trela), uma cadeia linear de jardins públicos de 2 km pelo centro, e os chines arborizados (Branksome, Durley, Alum) que descem até à praia.`,
+    },
+    sights: [
+      {
+        name: 'Hengistbury Head Nature Reserve',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          en: `A 162-hectare peninsula at the east end of Bournemouth Bay, mostly off-leash with sandy beaches, heathland and a 35-metre summit with views to the Isle of Wight. The most ambitious dog walk in the BCP conurbation, free Land Train back if your dog tires.`,
+          fr: `Péninsule de 162 hectares à l'extrémité est de la baie de Bournemouth, majoritairement sans laisse, avec plages de sable, lande et un sommet à 35 mètres avec vue sur l'île de Wight. La balade canine la plus ambitieuse de l'agglomération BCP, petit train de retour gratuit si le chien fatigue.`,
+          es: `Península de 162 hectáreas en el extremo este de la bahía de Bournemouth, mayoritariamente sin correa, con playas de arena, brezal y una cumbre de 35 metros con vistas a la isla de Wight. El paseo canino más ambicioso de la conurbación BCP, trenecito de vuelta gratis si el perro se cansa.`,
+          pt: `Península de 162 hectares no extremo este da baía de Bournemouth, maioritariamente sem trela, com praias de areia, charneca e um cume de 35 metros com vistas à ilha de Wight. O passeio canino mais ambicioso da conurbação BCP, comboio de regresso grátis se o cão se cansar.`,
+        },
+      },
+      {
+        name: 'Bournemouth Gardens (Lower, Central, Upper)',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `A 2 km linear chain of three Grade II-listed Victorian gardens running from the pier inland along the Bourne stream, dogs welcome on leash year-round. The signature city-centre dog walk, with cafés and bandstand along the way.`,
+          fr: `Chaîne linéaire de 2 km formée de trois jardins victoriens classés Grade II qui partent de la jetée vers l'intérieur le long du ruisseau Bourne, chiens en laisse acceptés toute l'année. La balade canine emblématique du centre-ville, avec cafés et kiosque à musique en chemin.`,
+          es: `Cadena lineal de 2 km formada por tres jardines victorianos clasificados Grade II que parten del muelle hacia el interior siguiendo el arroyo Bourne, perros con correa todo el año. El paseo canino emblemático del centro, con cafés y quiosco de música en el recorrido.`,
+          pt: `Cadeia linear de 2 km formada por três jardins vitorianos classificados Grade II que partem do pontão para o interior ao longo do ribeiro Bourne, cães com trela todo o ano. O passeio canino emblemático do centro, com cafés e coreto pelo caminho.`,
+        },
+      },
+      {
+        name: `Fisherman's Walk Beach`,
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          en: `The reference year-round dog beach in Southbourne, one of two sections of Bournemouth seafront where dogs are allowed every day of the year, including the summer ban period (1 May–30 September) that closes the central beach to pets.`,
+          fr: `La plage canine de référence ouverte toute l'année à Southbourne, l'une des deux sections du front de mer de Bournemouth où les chiens sont admis chaque jour de l'année, y compris pendant l'interdiction estivale (1ᵉʳ mai-30 septembre) qui ferme la plage centrale aux animaux.`,
+          es: `La playa para perros de referencia abierta todo el año en Southbourne, una de las dos secciones del paseo marítimo de Bournemouth donde se admiten perros todos los días del año, incluida la prohibición estival (1 may–30 sep) que cierra la playa central a las mascotas.`,
+          pt: `A praia canina de referência aberta todo o ano em Southbourne, uma das duas secções da frente marítima de Bournemouth onde se admitem cães todos os dias do ano, incluindo a proibição estival (1 mai–30 set) que fecha a praia central aos animais.`,
+        },
+      },
+      {
+        name: 'Branksome Chine',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: `A wooded valley descending steeply from the cliff-top to the beach at the western end of Bournemouth, dog-friendly year-round on the path, with the chine pub at the top and a dog-friendly section of beach below.`,
+          fr: `Vallée boisée descendant en pente raide depuis la falaise jusqu'à la plage à l'extrémité ouest de Bournemouth, dog-friendly toute l'année sur le sentier, avec le pub du chine en haut et une section de plage canine en bas.`,
+          es: `Valle boscoso que desciende empinado desde el acantilado hasta la playa en el extremo oeste de Bournemouth, dog-friendly todo el año en el sendero, con el pub del chine arriba y una sección de playa para perros abajo.`,
+          pt: `Vale arborizado que desce a pique da falésia até à praia no extremo oeste de Bournemouth, pet-friendly todo o ano no trilho, com o pub do chine no topo e uma secção de praia canina em baixo.`,
+        },
+      },
+      {
+        name: 'Bournemouth Pier',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          en: `The 1880 Victorian pier extending 305 metres into the bay, dogs are welcome on the pier deck itself on a leash (unlike Brighton Pier), but barred from the indoor RockReef adventure attractions at the seaward end.`,
+          fr: `La jetée victorienne de 1880 qui s'avance de 305 mètres dans la baie, les chiens sont admis sur le pont de la jetée même en laisse (contrairement au Brighton Pier), mais interdits dans les attractions intérieures RockReef à l'extrémité côté mer.`,
+          es: `El muelle victoriano de 1880 que se adentra 305 metros en la bahía, los perros son bienvenidos sobre el muelle mismo con correa (a diferencia del Brighton Pier), pero vetados de las atracciones interiores RockReef en el extremo marítimo.`,
+          pt: `O pontão vitoriano de 1880 que avança 305 metros na baía, os cães são bem-vindos no pontão em si com trela (ao contrário do Brighton Pier), mas vetados das atracções interiores RockReef na ponta marítima.`,
+        },
+      },
+      {
+        name: 'New Forest National Park (day trip)',
+        emoji: '🦌',
+        petFriendly: true,
+        desc: {
+          en: `Half-hour drive north, 566 km² of ancient forest, heath and open commons with free-roaming ponies, cattle and donkeys. Off-leash hiking is the norm, but keep the dog under close control near the livestock, ponies kick.`,
+          fr: `À 30 minutes en voiture au nord, 566 km² de forêt ancienne, lande et prairies communes avec poneys, vaches et ânes en libre divagation. La randonnée sans laisse est la norme, mais gardez le chien sous contrôle rapproché près du bétail, les poneys ruent.`,
+          es: `A 30 minutos en coche al norte, 566 km² de bosque antiguo, brezal y praderas comunales con ponis, vacas y burros en libertad. La caminata sin correa es la norma, pero mantén al perro bien controlado cerca del ganado, los ponis cocean.`,
+          pt: `A 30 minutos de carro a norte, 566 km² de floresta antiga, charneca e baldios comunais com póneis, vacas e burros em liberdade. A caminhada sem trela é a norma, mas mantenha o cão bem controlado perto do gado, os póneis dão coices.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Summer beach ban (1 May–30 September) covers the central Bournemouth and Boscombe seafront sections; fall back on Fisherman's Walk (Southbourne) or the Hengistbury end, both dog-friendly year-round.`,
+        `Yellow Buses and More Bus both accept up to two leashed dogs free per passenger, driver's discretion when crowded; the m1 and m2 routes link the centre to Hengistbury Head every 10 minutes.`,
+        `24h emergency vet: The Vet Practice Bournemouth, 4 Boscombe Grove Road, BH1 4DH, +44 1202 309 050 (verify hours by phone, after-hours often re-routes to Vets Now Poole 5 km west, +44 1202 308 940).`,
+        `Post-Brexit EU travellers: the EU pet passport is NOT valid for UK entry, you need an Animal Health Certificate (AHC) issued by an EU vet within 10 days of travel, plus microchip and rabies vaccination.`,
+        `UK XL Bully ban (in force since Feb 2024): if your dog meets the XL Bully physical conformation, it must be muzzled, on lead, exemption-certificated and insured in all public spaces, including Bournemouth.`,
+      ],
+      fr: [
+        `Interdiction estivale (1ᵉʳ mai-30 septembre) sur les sections centrales du front de mer de Bournemouth et de Boscombe ; repliez-vous sur Fisherman's Walk (Southbourne) ou côté Hengistbury, dog-friendly toute l'année.`,
+        `Yellow Buses et More Bus acceptent tous deux jusqu'à deux chiens en laisse gratuits par voyageur, à la discrétion du conducteur si bondé ; les lignes m1 et m2 relient le centre à Hengistbury Head toutes les 10 minutes.`,
+        `Vétérinaire d'urgence 24h : The Vet Practice Bournemouth, 4 Boscombe Grove Road, BH1 4DH, +44 1202 309 050 (vérifier les horaires par téléphone, hors heures ouvrées souvent redirigé vers Vets Now Poole à 5 km à l'ouest, +44 1202 308 940).`,
+        `Brexit pour les voyageurs européens : le passeport européen pour animaux n'est PLUS valable à l'entrée du Royaume-Uni, il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, plus puce électronique et vaccination antirabique.`,
+        `Interdiction britannique des XL Bully (en vigueur depuis février 2024) : si votre chien correspond à la conformation physique d'un XL Bully, il doit être muselé, en laisse, sous certificat d'exemption et assuré dans tout espace public, Bournemouth compris.`,
+      ],
+      es: [
+        `Prohibición estival (1 may–30 sep) en las secciones centrales del paseo marítimo de Bournemouth y Boscombe; usa Fisherman's Walk (Southbourne) o el extremo de Hengistbury, dog-friendly todo el año.`,
+        `Yellow Buses y More Bus admiten hasta dos perros con correa gratis por viajero, a discreción del conductor si va lleno; las líneas m1 y m2 unen el centro con Hengistbury Head cada 10 minutos.`,
+        `Veterinario de urgencia 24h: The Vet Practice Bournemouth, 4 Boscombe Grove Road, BH1 4DH, +44 1202 309 050 (verifica horarios por teléfono, fuera de horas suele redirigir a Vets Now Poole a 5 km al oeste, +44 1202 308 940).`,
+        `Tras el Brexit, viajeros europeos: el pasaporte europeo de mascotas YA NO sirve para entrar al Reino Unido, hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, más microchip y vacunación antirrábica.`,
+        `Prohibición británica de XL Bully (vigente desde febrero 2024): si tu perro encaja con la conformación física del XL Bully, debe ir con bozal, correa, certificado de exención y seguro en todo espacio público, Bournemouth incluido.`,
+      ],
+      pt: [
+        `Proibição estival (1 mai–30 set) nas secções centrais da frente marítima de Bournemouth e Boscombe; usa Fisherman's Walk (Southbourne) ou o extremo de Hengistbury, pet-friendly todo o ano.`,
+        `Yellow Buses e More Bus admitem até dois cães com trela grátis por passageiro, ao critério do motorista se vier cheio; as linhas m1 e m2 ligam o centro a Hengistbury Head a cada 10 minutos.`,
+        `Veterinário de urgência 24h: The Vet Practice Bournemouth, 4 Boscombe Grove Road, BH1 4DH, +44 1202 309 050 (confirmar horários por telefone, fora de horas costuma reencaminhar para Vets Now Poole a 5 km a oeste, +44 1202 308 940).`,
+        `Pós-Brexit, viajantes europeus: o passaporte europeu para animais JÁ NÃO é válido para entrar no Reino Unido, é preciso um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes da viagem, mais microchip e vacinação antirrábica.`,
+        `Proibição britânica de XL Bully (em vigor desde fevereiro de 2024): se o seu cão corresponder à conformação física de um XL Bully, deve usar açaime, trela, certificado de isenção e seguro em qualquer espaço público, Bournemouth incluído.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `South Western Railway from London Waterloo: 2h direct, dogs travel free (up to two per adult ticket). Bournemouth station is 15 min walk or short bus from the centre.`,
+        `Bournemouth Airport (BOH) is 10 km north, served by Ryanair, TUI and easyJet; brachycephalic breeds banned in cabin on most carriers.`,
+        `Isle of Wight day trip: ferry from Lymington (45 min west by car), Wightlink accepts leashed dogs free on car-ferry and foot-passenger sailings.`,
+        `Pub culture is extremely dog-tolerant on the south coast, three well-known Bournemouth dog-friendly pubs: The Anvil Inn (Pinford End), The Goat & Tricycle (West Hill Road), and The Larder House (Belle Vue Road).`,
+        `£100 fixed-penalty notice for not picking up dog waste in BCP public spaces, enforced by council officers; bins at every park gate and beach access.`,
+      ],
+      fr: [
+        `South Western Railway depuis Londres Waterloo : 2 h en direct, chiens gratuits (jusqu'à deux par billet adulte). La gare de Bournemouth est à 15 min à pied ou un court trajet de bus du centre.`,
+        `L'aéroport de Bournemouth (BOH) est à 10 km au nord, desservi par Ryanair, TUI et easyJet ; races brachycéphales interdites en cabine chez la plupart des compagnies.`,
+        `Excursion à l'île de Wight : ferry depuis Lymington (45 min à l'ouest en voiture), Wightlink accepte les chiens en laisse gratuitement sur les traversées voiture et piéton.`,
+        `La culture des pubs est extrêmement tolérante aux chiens sur la côte sud, trois pubs dog-friendly connus à Bournemouth : The Anvil Inn (Pinford End), The Goat & Tricycle (West Hill Road) et The Larder House (Belle Vue Road).`,
+        `Amende forfaitaire de 100 £ pour non-ramassage des déjections dans les espaces publics BCP, appliquée par les agents municipaux ; poubelles à chaque entrée de parc et accès plage.`,
+      ],
+      es: [
+        `South Western Railway desde London Waterloo: 2 h directo, perros gratis (hasta dos por billete adulto). La estación de Bournemouth está a 15 min andando o en bus corto del centro.`,
+        `Aeropuerto de Bournemouth (BOH) a 10 km al norte, operado por Ryanair, TUI y easyJet; razas braquicéfalas prohibidas en cabina en la mayoría de las compañías.`,
+        `Excursión a la isla de Wight: ferri desde Lymington (45 min al oeste en coche), Wightlink admite perros con correa gratis en travesías de coche y de pasajero.`,
+        `La cultura de pubs es muy tolerante con los perros en la costa sur, tres pubs dog-friendly conocidos en Bournemouth: The Anvil Inn (Pinford End), The Goat & Tricycle (West Hill Road) y The Larder House (Belle Vue Road).`,
+        `Multa fija de 100 £ por no recoger las deposiciones en espacios públicos BCP, aplicada por agentes municipales; papeleras en cada entrada de parque y acceso a la playa.`,
+      ],
+      pt: [
+        `South Western Railway desde London Waterloo: 2 h direto, cães grátis (até dois por bilhete adulto). A estação de Bournemouth fica a 15 min a pé ou um curto autocarro do centro.`,
+        `Aeroporto de Bournemouth (BOH) a 10 km a norte, operado por Ryanair, TUI e easyJet; raças braquicefálicas proibidas em cabina na maioria das companhias.`,
+        `Excursão à ilha de Wight: ferry desde Lymington (45 min a oeste de carro), Wightlink admite cães com trela grátis nas travessias de carro e a pé.`,
+        `A cultura dos pubs é muito tolerante com os cães na costa sul, três pubs pet-friendly conhecidos em Bournemouth: The Anvil Inn (Pinford End), The Goat & Tricycle (West Hill Road) e The Larder House (Belle Vue Road).`,
+        `Multa fixa de 100 £ por não apanhar dejectos em espaços públicos BCP, aplicada por agentes municipais; caixotes em cada entrada de parque e acesso à praia.`,
+      ],
+    },
+  },
+
   braga: {
     history: {
       en: `Braga is the oldest city in Portugal, founded as Bracara Augusta by the Romans in 16 BC and the seat of an archbishopric since the 4th century. For centuries known as the "Portuguese Rome" for its dense ecclesiastical heritage, today's Braga is also the country's youngest city by population: the Universidade do Minho campus brings 20,000+ students and a markedly progressive café and terrace culture. The historic core of granite squares, baroque churches and the UNESCO-listed Bom Jesus do Monte sanctuary sits within walking distance of the Cávado and Este rivers and the forested Serra do Carvalho. For pet visitors, the city is unusually relaxed: terraces routinely welcome dogs, two 24/7 veterinary hospitals serve the metro area, and the Peneda-Gerês National Park (Portugal's only national park) is 40 minutes east for off-leash hiking.`,

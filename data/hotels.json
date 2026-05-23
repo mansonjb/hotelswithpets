@@ -3839,6 +3839,126 @@
     "petPolicyPt": "Yndo Hôtel warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "bournemouth-1",
+    "name": "Hotel Miramar Bournemouth",
+    "destinationSlug": "bournemouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2100,
+    "priceFrom": 177,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/miramar-bournemouth.html",
+    "petFee": 18,
+    "petPolicy": "Hotel Miramar welcomes well-behaved dogs of any size for £15 per pet per night, with cats accepted on request. The 1925 cliff-top hotel sits opposite the gardens and a 2-minute walk to the central beach (winter dog zone). Water bowls in the lounge.",
+    "highlights": [
+      "1925 cliff-top hotel overlooking the bay",
+      "Two-minute walk to gardens and beach lift",
+      "Pet welcome pack on arrival"
+    ],
+    "slug": "hotel-miramar-bournemouth-bournemouth"
+  },
+  {
+    "id": "bournemouth-2",
+    "name": "Marsham Court Hotel",
+    "destinationSlug": "bournemouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1850,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/marsham-court.html",
+    "petFee": 14,
+    "petPolicy": "Marsham Court welcomes pets in designated ground-floor rooms for £12 per pet per night. Dogs and cats both accepted. The hotel sits on the East Cliff with a heated outdoor pool and a five-minute walk down the zig-zag path to the pier and central beach.",
+    "highlights": [
+      "East Cliff location with sea views",
+      "Heated outdoor pool",
+      "Five-minute walk to the pier"
+    ],
+    "slug": "marsham-court-hotel-bournemouth"
+  },
+  {
+    "id": "bournemouth-3",
+    "name": "The Suncliff Hotel",
+    "destinationSlug": "bournemouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 7.9,
+    "reviewCount": 3200,
+    "priceFrom": 112,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/suncliff.html",
+    "petFee": 12,
+    "petPolicy": "The Suncliff welcomes dogs and cats in selected rooms for £10 per pet per night. The Britannia hotel occupies a cliff-top position on the East Cliff with direct lift access to the Boscombe seafront promenade and the year-round dog beach east of Boscombe Pier.",
+    "highlights": [
+      "Cliff-top with direct lift to beach",
+      "Five minutes from Boscombe dog beach",
+      "Indoor pool"
+    ],
+    "slug": "the-suncliff-hotel-bournemouth"
+  },
+  {
+    "id": "bournemouth-4",
+    "name": "Carlton Hotel Bournemouth",
+    "destinationSlug": "bournemouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1450,
+    "priceFrom": 201,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/carltonbournemouth.html",
+    "petFee": 35,
+    "petPolicy": "The Carlton accepts dogs of any size for £30 per pet per night, with cats by prior arrangement. The Edwardian property on the East Overcliff Drive provides dog beds and water bowls on request, and overlooks the sea with garden access for morning walks.",
+    "highlights": [
+      "Edwardian seafront landmark",
+      "Garden for morning walks",
+      "Dog bed and welcome treats on request"
+    ],
+    "slug": "carlton-hotel-bournemouth-bournemouth"
+  },
+  {
+    "id": "bournemouth-5",
+    "name": "Premier Inn Bournemouth Central",
+    "destinationSlug": "bournemouth",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2800,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-bournemouth-central.html",
+    "petFee": 30,
+    "petPolicy": "Premier Inn Bournemouth Central admits up to two dogs per room (cats not accepted) for a one-off £25 charge per stay (not per night). The central location is a 10-minute walk to the beach and the gardens, with the Hengistbury Head bus stop one street away.",
+    "highlights": [
+      "Central location, 10 min to beach",
+      "Flat one-off £25 pet fee per stay",
+      "Hengistbury bus stop one street away"
+    ],
+    "slug": "premier-inn-bournemouth-central-bournemouth"
+  },
+  {
     "id": "braga-1",
     "name": "Vila Galé Collection Braga",
     "destinationSlug": "braga",

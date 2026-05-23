@@ -151,6 +151,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Bordelais, the Garonne quaysides, and the Jardin Public',
       area: 'the Chartrons, Saint-Pierre, and the Triangle d\'Or',
     },
+    bournemouth: {
+      personality: `the south-coast seaside resort with seven miles of golden sand, year-round dog beaches at Fisherman's Walk and the Hengistbury end, and the New Forest National Park 30 minutes north for off-leash hiking`,
+      highlight: 'Hengistbury Head Nature Reserve, the Bournemouth Gardens 2 km linear park, and the Branksome/Durley/Alum Chines descending to the beach',
+      area: 'the town centre and pier, Westbourne and Boscombe along the cliff-top, and the Hengistbury Head/Southbourne east end',
+    },
     braga: {
       personality: 'Portugal\'s youngest, most student-friendly historic city, where baroque churches, granite squares and pet-progressive terraces meet the Atlantic-cool Minho landscape',
       highlight: 'the Bom Jesus do Monte forested staircase, Parque da Ponte along the river, and the Mosteiro de Tibães monastery gardens',
@@ -929,6 +934,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Bordelais, les quais de la Garonne et le Jardin Public',
       area: 'les Chartrons, Saint-Pierre et le Triangle d\'Or',
     },
+    bournemouth: {
+      personality: `la station balnéaire de la côte sud anglaise avec onze kilomètres de sable doré, des plages canines ouvertes toute l'année à Fisherman's Walk et côté Hengistbury, et le parc national de la New Forest à 30 minutes au nord pour randonner sans laisse`,
+      highlight: `la réserve naturelle de Hengistbury Head, les Bournemouth Gardens (2 km de parc linéaire) et les chines de Branksome, Durley et Alum qui descendent à la plage`,
+      area: `le centre et la jetée, Westbourne et Boscombe le long de la falaise, et Hengistbury Head / Southbourne à l'est`,
+    },
     braga: {
       personality: 'la plus ancienne ville du Portugal et la plus jeune par sa population étudiante, où les escaliers baroques de Bom Jesus, les places de granit du quartier de la Sé et les terrasses ouvertes aux chiens définissent un Minho décontracté et frais',
       highlight: `l'escalier boisé du Bom Jesus do Monte, le Parque da Ponte le long du Este et les jardins du Mosteiro de Tibães`,
@@ -1706,6 +1716,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Bordelais, los muelles del Garona y el Jardín Público',
       area: 'los Chartrons, Saint-Pierre y el Triángulo de Oro',
     },
+    bournemouth: {
+      personality: `la estación balnearia de la costa sur inglesa con once kilómetros de arena dorada, playas para perros abiertas todo el año en Fisherman's Walk y en el extremo de Hengistbury, y el parque nacional New Forest a 30 minutos al norte para senderismo sin correa`,
+      highlight: `la reserva natural de Hengistbury Head, los Bournemouth Gardens (2 km de parque lineal) y los chines de Branksome, Durley y Alum que descienden a la playa`,
+      area: `el centro y el muelle, Westbourne y Boscombe en lo alto del acantilado, y Hengistbury Head / Southbourne al este`,
+    },
     braga: {
       personality: 'la ciudad histórica más antigua de Portugal y la más joven por su población universitaria, donde la escalinata barroca de Bom Jesus, las plazas de granito del barrio de la Sé y las terrazas pet-friendly definen un Minho relajado y fresco',
       highlight: 'la escalinata boscosa de Bom Jesus do Monte, el Parque da Ponte junto al río Este y los jardines del Monasterio de Tibães',
@@ -2482,6 +2497,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade onde os cães pasean pelas esplanadas dos bares de vino do bairro de Chartrons, exploran os muelles do Garona e são bem-vindos en a maioria dos hotéis boutique',
       highlight: 'o Parque Bordelais, os muelles do Garona e o Jardim Público',
       area: 'os Chartrons, Saint-Pierre e o Triángulo de Oro',
+    },
+    bournemouth: {
+      personality: `a estación balnearia da costa sul inglesa com onze quilómetros de areia dourada, praias para cães abertas o ano inteiro en Fisherman's Walk e no extremo de Hengistbury, e o parque nacional New Forest a 30 minutos al norte para senderismo sem trela`,
+      highlight: `a reserva natural de Hengistbury Head, os Bournemouth Gardens (2 km de parque linear) e os chines de Branksome, Durley e Alum que descienden a a praia`,
+      area: `o centro e o muelle, Westbourne e Boscombe en lo alto do acantilado, e Hengistbury Head / Southbourne al este`,
     },
     braga: {
       personality: 'a cidade histórica mais antiga de Portugal e a mais jovem pela sua população universitária, onde o escadório barroco de Bom Jesus, as praças graníticas da Sé e as esplanadas pet-friendly definem um Minho descontraído e fresco',

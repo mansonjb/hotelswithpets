@@ -5855,6 +5855,128 @@
     "slug": "easyhotel-cardiff-city-centre"
   },
   {
+    "id": "carcassonne-1",
+    "name": "Hôtel de la Cité Carcassonne - MGallery",
+    "destinationSlug": "carcassonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 1850,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/de-la-cite.html",
+    "petFee": 35,
+    "petPolicy": "Pets allowed for EUR 35 per pet per night, both dogs and cats welcome with advance notice. The only hotel located inside the medieval walls of La Cité, with direct ramparts access. Pets may not be left unattended in rooms and must be on a lead in the gardens and corridors. Bowls and beds provided on request.",
+    "highlights": [
+      "Only hotel inside the UNESCO-listed walls of La Cité",
+      "Private garden facing the ramparts",
+      "Michelin-starred Restaurant La Barbacane on-site"
+    ],
+    "slug": "hotel-de-la-cite-carcassonne"
+  },
+  {
+    "id": "carcassonne-2",
+    "name": "Best Western Plus Hôtel Le Donjon",
+    "destinationSlug": "carcassonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2300,
+    "priceFrom": 145,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-donjon-les-remparts.html",
+    "petFee": 15,
+    "petPolicy": "Pets allowed for EUR 15 per night, both dogs and cats welcome upon prior request. Located inside La Cité on a quiet cobbled lane two minutes from the Château Comtal. The patio garden serves as a dog-friendly breakfast terrace; pets must be on a lead in common areas and may not be left unattended.",
+    "highlights": [
+      "Inside La Cité, two minutes from Château Comtal",
+      "Quiet stone courtyard garden",
+      "Pet-friendly breakfast on the terrace"
+    ],
+    "slug": "best-western-plus-le-donjon-carcassonne"
+  },
+  {
+    "id": "carcassonne-3",
+    "name": "Hôtel du Château",
+    "destinationSlug": "carcassonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1650,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/du-chateau-carcassonne.html",
+    "petFee": 20,
+    "petPolicy": "Pets allowed for EUR 20 per pet per night, both dogs and cats welcome. The hotel sits at the foot of La Cité on the Saint-Vincent side, ideal for evening rampart walks. Pets may not be left unattended in rooms, must use the staff entrance and be on a lead in common areas. Water bowls provided on arrival.",
+    "highlights": [
+      "Two-minute walk to the Saint-Vincent gate of La Cité",
+      "Heated pool with shaded terrace",
+      "Free parking on-site, rare near La Cité"
+    ],
+    "slug": "hotel-du-chateau-carcassonne"
+  },
+  {
+    "id": "carcassonne-4",
+    "name": "Hôtel Le Saint Christophe",
+    "destinationSlug": "carcassonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1400,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-saint-christophe.html",
+    "petFee": 10,
+    "petPolicy": "Pets allowed for EUR 10 per night with no weight limit, both dogs and cats welcome upon arrival notice. Located in the Bastide Saint-Louis a five-minute walk from the train station and the Canal du Midi towpath. Pets must be on a lead in common areas and the breakfast room; bowls available on request.",
+    "highlights": [
+      "Five-minute walk to the train station",
+      "Direct access to the Canal du Midi towpath",
+      "Family-run, no weight limit on dogs"
+    ],
+    "slug": "hotel-le-saint-christophe-carcassonne"
+  },
+  {
+    "id": "carcassonne-5",
+    "name": "Hôtel Espace Cité",
+    "destinationSlug": "carcassonne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.0,
+    "reviewCount": 1200,
+    "priceFrom": 58,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/espacecite.html",
+    "petFee": 7,
+    "petPolicy": "Pets allowed for EUR 7 per night, both dogs and cats welcome with no size restriction. Located on the Cité side of the Pont Vieux for the shortest walk to the medieval walls, in a quiet street with on-site parking. Pets must be on a lead in corridors and the breakfast room; not left unattended.",
+    "highlights": [
+      "Shortest walk to the Cité across the Pont Vieux",
+      "Free private parking",
+      "Best-value pet-friendly option in central Carcassonne"
+    ],
+    "slug": "hotel-espace-cite-carcassonne"
+  },
+  {
     "id": "cascais-1",
     "name": "Pestana Cidadela Cascais - Pousada & Art District",
     "destinationSlug": "cascais",

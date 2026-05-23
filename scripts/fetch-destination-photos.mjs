@@ -125,6 +125,7 @@ const TARGETS = [
   { slug: 'cesky-krumlov', query: 'Cesky Krumlov Czech Republic castle Vltava river bend old town UNESCO panorama' },
   { slug: 'tarragona', query: 'Tarragona Spain Roman amphitheatre Costa Daurada Mediterranean Balco del Mediterrani panorama sunset' },
   { slug: 'cardiff', query: 'Cardiff Castle Wales city centre Bute Park River Taff panorama' },
+  { slug: 'carcassonne', query: 'Carcassonne France medieval citadel ramparts UNESCO walled city sunset' },
   { slug: 'bonn', query: 'Bonn Germany Altes Rathaus Markt square Rhine river Beethoven city panorama sunset' },
   { slug: 'malmo', query: 'Malmö Sweden Turning Torso skyline Western Harbour Øresund coastline panorama sunset' },
   { slug: 'uppsala', query: 'Uppsala Sweden Cathedral Domkyrka twin spires Fyrisån river view sunset panorama' },

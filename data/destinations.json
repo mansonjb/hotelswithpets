@@ -3006,6 +3006,82 @@
     "tiqetsId": "67545"
   },
   {
+    "slug": "carcassonne",
+    "name": "Carcassonne",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/carcassonne.jpg",
+    "intro": "The largest medieval walled city in Europe, where leashed dogs roam 3 km of double ramparts, 52 towers and the outer courtyards of Château Comtal, with the Canal du Midi towpath and Lac de la Cavayère shoreline for swimming and shade.",
+    "lat": 43.2130,
+    "lng": 2.3491,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Mild & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Warm with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cool & cloudy",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "CCF",
+    "tiqetsId": "67073"
+  },
+  {
     "slug": "cascais",
     "name": "Cascais",
     "country": "Portugal",

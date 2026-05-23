@@ -221,6 +221,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Bute Park along the River Taff, the Cardiff Bay barrage to Penarth Pier walk, and the dog-friendly ground floor of Caerphilly Castle`,
       area: `the compact city centre around Cardiff Castle, the Pontcanna quarter, and the Cardiff Bay waterfront at Mermaid Quay`,
     },
+    carcassonne: {
+      personality: `the largest medieval walled city in Europe, a UNESCO citadel on a hilltop in the Aude where leashed dogs roam 3 km of double ramparts, 52 towers and the outer courtyards of the Château Comtal, with the Canal du Midi towpath cutting flat and shaded through the lower town`,
+      highlight: `the outer courtyards and lower rampart walk of Château Comtal in La Cité, the Pont Vieux river-crossing to the Bastide Saint-Louis at sunset, and the wooded east bank of Lac de la Cavayère for off-season swimming`,
+      area: `La Cité on the hilltop east of the Aude, the Bastide Saint-Louis grid town across the Pont Vieux, and the canal-side Bassin du Pont Rouge near the train station`,
+    },
     cascais: {
       personality: `Lisbon's elegant coastal escape, where almost every marina terrace serves water bowls without being asked and the seafront Paredão promenade fills with dogs at sunset`,
       highlight: 'the Parque Marechal Carmona shaded park, the Boca do Inferno cliff walk, and the wild Atlantic dune trails of Guincho and Cresmina',
@@ -984,6 +989,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Bute Park le long de la rivière Taff, la promenade du barrage de Cardiff Bay jusqu'à Penarth Pier et le rez-de-chaussée dog-friendly du château de Caerphilly`,
       area: `le centre compact autour du château de Cardiff, le quartier de Pontcanna et le front de mer de Cardiff Bay à Mermaid Quay`,
     },
+    carcassonne: {
+      personality: `la plus grande cité médiévale fortifiée d'Europe, citadelle UNESCO perchée sur une colline de l'Aude, où les chiens en laisse parcourent 3 km de double rempart, 52 tours et les cours extérieures du Château Comtal, avec le chemin de halage du Canal du Midi qui traverse à plat et à l'ombre la ville basse`,
+      highlight: `les cours extérieures et la section basse du chemin de ronde du Château Comtal à La Cité, la traversée du Pont Vieux vers la Bastide Saint-Louis au coucher du soleil, et la rive est boisée du Lac de la Cavayère pour la baignade hors saison`,
+      area: `La Cité perchée sur la colline à l'est de l'Aude, la Bastide Saint-Louis quadrillée de l'autre côté du Pont Vieux, et le Bassin du Pont Rouge en bord de canal près de la gare`,
+    },
     cascais: {
       personality: `l'évasion côtière élégante de Lisbonne, où presque toutes les terrasses de la marina servent une gamelle d'eau sans qu'on le demande et où la promenade en bord de mer du Paredão se remplit de chiens au coucher du soleil`,
       highlight: 'le parc ombragé Marechal Carmona, le sentier de falaise de Boca do Inferno et les plages sauvages des dunes atlantiques de Guincho et Cresmina',
@@ -1746,6 +1756,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Bute Park a lo largo del río Taff, el paseo del barrage de Cardiff Bay hasta Penarth Pier y la planta baja pet-friendly del castillo de Caerphilly`,
       area: `el centro compacto alrededor del castillo de Cardiff, el barrio de Pontcanna y el paseo marítimo de Cardiff Bay en Mermaid Quay`,
     },
+    carcassonne: {
+      personality: `la mayor ciudad medieval amurallada de Europa, ciudadela UNESCO encaramada a una colina del Aude, donde los perros con correa recorren 3 km de doble muralla, 52 torres y los patios exteriores del Château Comtal, con el camino de sirga del Canal du Midi atravesando llano y a la sombra la ciudad baja`,
+      highlight: `los patios exteriores y la sección baja del camino de ronda del Château Comtal en La Cité, la travesía del Pont Vieux hacia la Bastide Saint-Louis al atardecer, y la orilla este boscosa del Lac de la Cavayère para el baño fuera de temporada`,
+      area: `La Cité encaramada en la colina al este del Aude, la Bastide Saint-Louis en cuadrícula al otro lado del Pont Vieux, y el Bassin du Pont Rouge a orillas del canal cerca de la estación`,
+    },
     cascais: {
       personality: `la elegante escapada costera de Lisboa, donde casi todas las terrazas del puerto sirven un cuenco de agua sin pedirlo y el paseo marítimo del Paredão se llena de perros al atardecer`,
       highlight: 'el parque sombreado Marechal Carmona, el sendero del acantilado de Boca do Inferno y las playas salvajes de las dunas atlánticas de Guincho y Cresmina',
@@ -2507,6 +2522,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital galesa, com uma das maiores redes de parques urbanos do Reino Unido, 130 hectares de relva sem trela junto ao rio em Bute Park e Pontcanna Fields a dez minutos do castelo, um passeio de 2 km sobre o barrage de Cardiff Bay que liga directamente ao Penarth Pier, e um hospital veterinário de urgências 24/7 de referência a quinze minutos a norte`,
       highlight: `Bute Park ao longo do rio Taff, o passeio do barrage de Cardiff Bay até Penarth Pier e o piso térreo pet-friendly do castelo de Caerphilly`,
       area: `o centro compacto à volta do castelo de Cardiff, o bairro de Pontcanna e a frente marítima de Cardiff Bay em Mermaid Quay`,
+    },
+    carcassonne: {
+      personality: `a maior cidade medieval muralhada da Europa, cidadela UNESCO empoleirada numa colina do Aude, onde os cães com trela percorrem 3 km de dupla muralha, 52 torres e os pátios exteriores do Château Comtal, com o caminho de sirga do Canal du Midi a atravessar plano e à sombra a cidade baixa`,
+      highlight: `os pátios exteriores e a secção baixa do caminho de ronda do Château Comtal em La Cité, a travessia do Pont Vieux até à Bastide Saint-Louis ao pôr do sol, e a margem leste arborizada do Lac de la Cavayère para o banho fora de época`,
+      area: `La Cité empoleirada na colina a leste do Aude, a Bastide Saint-Louis em grelha do outro lado do Pont Vieux, e o Bassin du Pont Rouge à beira do canal perto da estação`,
     },
     cascais: {
       personality: `a elegante escapada costera de Lisboa, onde casi todas as esplanadas do porto sirven um cuenco de água sem pedirlo e o passeio marítimo do Paredão se llena de cães al atardecer`,

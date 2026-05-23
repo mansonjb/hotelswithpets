@@ -5098,6 +5098,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  carcassonne: {
+    history: {
+      fr: `Carcassonne, préfecture de l'Aude en Occitanie, compte environ 46 000 habitants mais accueille près de 4 millions de visiteurs par an, concentrés sur les 11 hectares de La Cité, la plus grande ville médiévale fortifiée d'Europe. Le site est occupé depuis l'âge du fer ; les Romains y bâtissent la première enceinte au Iᵉʳ siècle, les Wisigoths puis les Trencavel l'agrandissent au Moyen Âge, et la croisade des Albigeois s'achève ici en 1209 avec la chute du vicomte Raymond-Roger Trencavel. La double enceinte du XIIIᵉ siècle, 3 km de remparts et 52 tours, est restaurée à partir de 1853 par Viollet-le-Duc et classée au patrimoine mondial UNESCO en 1997, avec le Canal du Midi (UNESCO 1996) qui traverse la ville basse. Côté chiens, le règlement municipal impose la laisse dans tout espace public, amende 68 € pour déjection, accès libre aux cours extérieures du Château Comtal et au chemin de ronde bas mais salles muséales intérieures réservées aux chiens d'assistance. Trois plages canines saisonnières au Lac de la Cavayère (interdites du 1ᵉʳ juin au 15 septembre), un système de garde vétérinaire départementale rotatif et le CHV de référence à Toulouse (90 km) complètent l'infrastructure. La brutalité de l'été (35–38 °C, pavés à 45 °C) impose la demi-saison (avril–juin, septembre–octobre) comme fenêtre confortable avec un chien.`,
+      en: `Carcassonne, prefecture of the Aude département in Occitanie, counts roughly 46,000 residents but draws nearly 4 million annual visitors, concentrated on the 11 hectares of La Cité, the largest medieval walled city in Europe. The site has been occupied since the Iron Age; the Romans built the first wall in the 1st century, the Visigoths and later the Trencavel viscounts extended it through the Middle Ages, and the Albigensian Crusade ended here in 1209 with the fall of viscount Raymond-Roger Trencavel. The 13th-century double wall, 3 km of ramparts and 52 towers, was restored from 1853 onward by Viollet-le-Duc and inscribed on the UNESCO World Heritage list in 1997, alongside the Canal du Midi (UNESCO 1996) which cuts through the lower town. On dogs, the municipal code requires leashes in every public space, with a 68-euro fine for fouling, free access to the outer courtyards of Château Comtal and the lower rampart walk, but interior museum rooms reserved for assistance dogs only. Three seasonal dog beaches at Lac de la Cavayère (closed from 1 June to 15 September), a rotating département veterinary on-call system, and the reference 24/7 hospital in Toulouse (90 km) complete the infrastructure. The brutal summer heat (35–38 °C, cobbles reaching 45 °C) makes the shoulder seasons (April–June, September–October) the only truly comfortable window with a dog.`,
+      es: `Carcassonne, prefectura del Aude en Occitania, cuenta con unos 46.000 habitantes pero recibe cerca de 4 millones de visitantes anuales, concentrados en las 11 hectáreas de La Cité, la mayor ciudad medieval amurallada de Europa. El emplazamiento se ocupa desde la Edad del Hierro; los romanos levantan la primera muralla en el siglo I, los visigodos y luego los vizcondes Trencavel la amplían en la Edad Media, y la cruzada albigense termina aquí en 1209 con la caída del vizconde Raymond-Roger Trencavel. La doble muralla del siglo XIII, 3 km de murallas y 52 torres, fue restaurada desde 1853 por Viollet-le-Duc e inscrita en el Patrimonio Mundial UNESCO en 1997, junto con el Canal du Midi (UNESCO 1996) que atraviesa la ciudad baja. Respecto a los perros, la ordenanza municipal exige correa en todo espacio público, multa de 68 € por excrementos, acceso libre a los patios exteriores del Château Comtal y al camino de ronda bajo, pero las salas museísticas interiores quedan reservadas a perros de asistencia. Tres playas caninas estacionales en el Lac de la Cavayère (cerradas del 1 de junio al 15 de septiembre), un sistema rotativo de guardia veterinaria departamental y el CHV de referencia en Toulouse (90 km) completan la infraestructura. El brutal calor estival (35–38 °C, adoquines a 45 °C) hace de las temporadas intermedias (abril–junio, septiembre–octubre) la única ventana realmente confortable con perro.`,
+      pt: `Carcassonne, prefeitura do Aude na Occitânia, conta com cerca de 46 000 habitantes mas recebe perto de 4 milhões de visitantes anuais, concentrados nos 11 hectares de La Cité, a maior cidade medieval muralhada da Europa. O sítio é ocupado desde a Idade do Ferro; os romanos erguem a primeira muralha no séc. I, os visigodos e depois os viscondes Trencavel ampliam-na na Idade Média, e a cruzada albigense termina aqui em 1209 com a queda do visconde Raymond-Roger Trencavel. A dupla muralha do séc. XIII, 3 km de muralhas e 52 torres, foi restaurada a partir de 1853 por Viollet-le-Duc e inscrita no Património Mundial UNESCO em 1997, juntamente com o Canal du Midi (UNESCO 1996) que atravessa a cidade baixa. Quanto aos cães, o regulamento municipal exige trela em todo o espaço público, multa de 68 € por dejeções, acesso livre aos pátios exteriores do Château Comtal e ao caminho de ronda baixo, mas as salas museológicas interiores ficam reservadas a cães de assistência. Três praias caninas sazonais no Lac de la Cavayère (interditas de 1 de junho a 15 de setembro), um sistema rotativo de escala veterinária departamental e o CHV de referência em Toulouse (90 km) completam a infraestrutura. O brutal calor estival (35–38 °C, calçada a 45 °C) faz das meias-estações (abril–junho, setembro–outubro) a única janela verdadeiramente confortável com cão.`,
+    },
+    sights: [
+      {
+        name: `La Cité de Carcassonne`,
+        emoji: `🏰`,
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande ville médiévale fortifiée d'Europe, 3 km de double rempart et 52 tours sur 11 hectares, classée UNESCO en 1997. Rues pavées et cours publiques accessibles aux chiens en laisse à toute heure ; évitez le plein midi en été car les pavés chauffent à 45 °C.`,
+          en: `The largest medieval walled city in Europe, 3 km of double rampart and 52 towers on 11 hectares, UNESCO since 1997. Cobbled streets and public courtyards open to leashed dogs at any hour; avoid midday in summer when the cobbles reach 45 °C.`,
+          es: `La mayor ciudad medieval amurallada de Europa, 3 km de doble muralla y 52 torres sobre 11 hectáreas, UNESCO desde 1997. Calles empedradas y patios públicos abiertos a perros con correa a cualquier hora; evita el mediodía en verano cuando los adoquines alcanzan 45 °C.`,
+          pt: `A maior cidade medieval muralhada da Europa, 3 km de dupla muralha e 52 torres em 11 hectares, UNESCO desde 1997. Ruas em calçada e pátios públicos abertos a cães com trela a qualquer hora; evite o meio-dia no verão quando a calçada atinge 45 °C.`,
+        },
+      },
+      {
+        name: `Château Comtal`,
+        emoji: `🏯`,
+        petFriendly: true,
+        desc: {
+          fr: `Citadelle du XIIᵉ siècle au cœur de La Cité, restaurée par Viollet-le-Duc. Chiens en laisse admis dans les cours extérieures et sur la section basse du chemin de ronde ; salles muséales intérieures et chemins de ronde couverts du haut réservés aux chiens d'assistance.`,
+          en: `12th-century citadel at the heart of La Cité, restored by Viollet-le-Duc. Leashed dogs admitted in the outer courtyards and on the lower section of the rampart walk; indoor museum rooms and upper covered wall walks reserved for assistance dogs only.`,
+          es: `Ciudadela del siglo XII en el corazón de La Cité, restaurada por Viollet-le-Duc. Perros con correa admitidos en los patios exteriores y en la sección baja del camino de ronda; salas museísticas interiores y caminos de ronda cubiertos superiores reservados a perros de asistencia.`,
+          pt: `Cidadela do séc. XII no coração de La Cité, restaurada por Viollet-le-Duc. Cães com trela admitidos nos pátios exteriores e na secção baixa do caminho de ronda; salas museológicas interiores e caminhos de ronda cobertos superiores reservados a cães de assistência.`,
+        },
+      },
+      {
+        name: `Pont Vieux`,
+        emoji: `🌉`,
+        petFriendly: true,
+        desc: {
+          fr: `Pont piétonnier du XIVᵉ siècle qui enjambe l'Aude entre La Cité et la Bastide Saint-Louis, offrant le meilleur point de vue sur la silhouette de la cité fortifiée. Plat, accessible aux chiens en laisse à toute heure ; magique au coucher du soleil.`,
+          en: `14th-century pedestrian bridge crossing the Aude between La Cité and the Bastide Saint-Louis, offering the best vantage point onto the citadel's silhouette. Flat, open to leashed dogs at any hour; magical at sunset.`,
+          es: `Puente peatonal del siglo XIV que cruza el Aude entre La Cité y la Bastide Saint-Louis, ofreciendo el mejor mirador sobre la silueta de la ciudadela. Llano, abierto a perros con correa a cualquier hora; mágico al atardecer.`,
+          pt: `Ponte pedonal do séc. XIV que atravessa o Aude entre La Cité e a Bastide Saint-Louis, oferecendo o melhor miradouro sobre a silhueta da cidadela. Plana, aberta a cães com trela a qualquer hora; mágica ao pôr do sol.`,
+        },
+      },
+      {
+        name: `Canal du Midi`,
+        emoji: `🚤`,
+        petFriendly: true,
+        desc: {
+          fr: `Canal de Pierre-Paul Riquet (XVIIᵉ siècle, UNESCO 1996) qui traverse Carcassonne, chemin de halage plat et ombragé par des platanes centenaires entre la gare et l'écluse de Foucaud. Chiens en laisse partagent le chemin avec les cyclistes ; revêtement terre damée idéal pour les coussinets.`,
+          en: `Pierre-Paul Riquet's 17th-century canal (UNESCO 1996) crosses Carcassonne; the towpath is flat and shaded by century-old plane trees between the train station and the Foucaud lock. Leashed dogs share the path with cyclists; hard-packed earth is paw-friendly.`,
+          es: `Canal de Pierre-Paul Riquet (siglo XVII, UNESCO 1996) que atraviesa Carcassonne; el camino de sirga es llano y a la sombra de plátanos centenarios entre la estación y la esclusa de Foucaud. Perros con correa comparten el camino con ciclistas; tierra compactada amable con las almohadillas.`,
+          pt: `Canal de Pierre-Paul Riquet (séc. XVII, UNESCO 1996) que atravessa Carcassonne; o caminho de sirga é plano e à sombra de plátanos centenários entre a estação e a eclusa de Foucaud. Cães com trela partilham o caminho com ciclistas; terra compactada amiga das almofadinhas.`,
+        },
+      },
+      {
+        name: `Lac de la Cavayère`,
+        emoji: `🏞️`,
+        petFriendly: true,
+        desc: {
+          fr: `Plan d'eau de 40 hectares à 5 km à l'est de la ville, boucle de 4,5 km sous pins et chênes. Chiens interdits sur les trois plages surveillées du 1ᵉʳ juin au 15 septembre, mais la rive est boisée reste ouverte à l'année pour les baignades canines.`,
+          en: `40-hectare leisure lake 5 km east of the city, with a 4.5 km loop under pines and oaks. Dogs banned from the three supervised beaches between 1 June and 15 September, but the wooded east bank stays open year-round for dog swims.`,
+          es: `Lago de 40 hectáreas a 5 km al este de la ciudad, con una vuelta de 4,5 km bajo pinos y robles. Perros prohibidos en las tres playas vigiladas del 1 de junio al 15 de septiembre, pero la orilla este boscosa queda abierta todo el año para baños caninos.`,
+          pt: `Lago de 40 hectares a 5 km a leste da cidade, com uma volta de 4,5 km sob pinheiros e carvalhos. Cães proibidos nas três praias vigiadas entre 1 de junho e 15 de setembro, mas a margem leste arborizada fica aberta o ano inteiro para banhos caninos.`,
+        },
+      },
+      {
+        name: `Châteaux de Lastours`,
+        emoji: `🗻`,
+        petFriendly: true,
+        desc: {
+          fr: `Quatre châteaux cathares en ruine du XIIᵉ–XIIIᵉ siècle perchés sur un éperon rocheux dans la Montagne Noire, à 20 km au nord de Carcassonne. Site entièrement en plein air, chiens en laisse autorisés dans les ruines ; sentier d'accès de 1,5 km raide mais ombragé par endroits.`,
+          en: `Four 12th–13th-century ruined Cathar castles perched on a rocky spur in the Montagne Noire, 20 km north of Carcassonne. Entirely outdoor, leashed dogs admitted inside the ruins; the 1.5 km access path is steep but partly shaded.`,
+          es: `Cuatro castillos cátaros en ruinas de los siglos XII–XIII encaramados a un espolón rocoso en la Montaña Negra, a 20 km al norte de Carcassonne. Recinto enteramente al aire libre, perros con correa admitidos en las ruinas; el sendero de acceso de 1,5 km es escarpado pero en parte sombreado.`,
+          pt: `Quatro castelos cátaros em ruínas dos séc. XII–XIII empoleirados num esporão rochoso na Montanha Negra, a 20 km a norte de Carcassonne. Recinto inteiramente ao ar livre, cães com trela admitidos nas ruínas; o trilho de acesso de 1,5 km é íngreme mas parcialmente sombreado.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Réseau RTCA / TUC : petits chiens en sac fermé (max 45 cm) gratuits, chiens moyens et grands en laisse avec muselière acceptés à la discrétion du conducteur, parfois avec un titre adulte plein tarif (1,20 €) demandé pour l'animal. Chiens guides et d'assistance exemptés.`,
+        `Trains SNCF (TGV direct Paris–Carcassonne 5h, TER Toulouse 50 min, Bordeaux 3h) : petits chiens jusqu'à 6 kg en sac fermé pour un forfait 7,50 € par trajet, chiens de plus de 6 kg en laisse avec muselière à 50 % du tarif adulte 2ᵉ classe.`,
+        `Garde vétérinaire 24h/24 : Carcassonne n'a pas d'hôpital permanent, le département de l'Aude fonctionne avec une garde tournante. Composez la Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) ou des Quatre Vents (+33 4 68 25 12 12), le répondeur de nuit donne le numéro du vétérinaire d'astreinte. Pour les soins intensifs, CHV VetOccitanie Toulouse à 90 km (+33 5 61 61 20 20) reste la référence 24h/24.`,
+        `Été : les pavés de La Cité atteignent 45 °C l'après-midi en juillet–août, suffisant pour brûler les coussinets en quelques minutes. Promenez avant 10h ou après 19h30, jamais à midi. Privilégiez avril–juin ou septembre–octobre pour les visites avec chien.`,
+        `Lac de la Cavayère : chiens interdits sur les trois plages surveillées du 1ᵉʳ juin au 15 septembre (arrêté municipal, amende 68 €), mais la rive est boisée au-delà de la troisième plage reste autorisée à l'année.`,
+      ],
+      en: [
+        `RTCA / TUC network: small dogs in a closed carrier (max 45 cm) travel free, medium and large dogs on a lead with muzzle accepted at driver's discretion, sometimes with a full adult fare (€1.20) requested for the dog. Guide and assistance dogs are exempt.`,
+        `SNCF trains (direct TGV Paris–Carcassonne 5h, TER Toulouse 50 min, Bordeaux 3h): small dogs up to 6 kg in a closed carrier for a flat €7.50 fee per journey, dogs over 6 kg on a lead with muzzle at 50% of a second-class adult fare.`,
+        `24/7 veterinary cover: Carcassonne has no permanent hospital; the Aude département operates a rotating on-call rota. Dial Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) or des Quatre Vents (+33 4 68 25 12 12); the night answering machine gives the on-duty vet's mobile. For intensive care, CHV VetOccitanie Toulouse (90 km, +33 5 61 61 20 20) is the 24/7 reference.`,
+        `Summer: the cobbles of La Cité reach 45 °C on July–August afternoons, enough to burn paw pads in minutes. Walk before 10:00 or after 19:30, never at midday. Prefer April–June or September–October for dog-paired visits.`,
+        `Lac de la Cavayère: dogs banned from the three supervised beaches between 1 June and 15 September (municipal by-law, €68 fine), but the wooded east bank past the third beach stays open year-round.`,
+      ],
+      es: [
+        `Red RTCA / TUC: perros pequeños en transportín cerrado (máx. 45 cm) viajan gratis, perros medianos y grandes con correa y bozal admitidos a discreción del conductor, a veces con un billete adulto completo (1,20 €) pedido por el animal. Perros guía y de asistencia exentos.`,
+        `Trenes SNCF (TGV directo París–Carcassonne 5h, TER Toulouse 50 min, Burdeos 3h): perros pequeños hasta 6 kg en transportín cerrado por una tarifa plana de 7,50 € por trayecto, perros de más de 6 kg con correa y bozal al 50 % de la tarifa adulta 2ª clase.`,
+        `Guardia veterinaria 24/7: Carcassonne no tiene hospital permanente, el departamento del Aude opera con una guardia rotativa. Marca la Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) o des Quatre Vents (+33 4 68 25 12 12); el contestador nocturno da el móvil del veterinario de guardia. Para cuidados intensivos, el CHV VetOccitanie Toulouse (90 km, +33 5 61 61 20 20) es la referencia 24/7.`,
+        `Verano: los adoquines de La Cité alcanzan 45 °C en las tardes de julio–agosto, suficiente para quemar las almohadillas en minutos. Pasea antes de las 10:00 o después de las 19:30, nunca al mediodía. Prefiere abril–junio o septiembre–octubre para visitar con perro.`,
+        `Lac de la Cavayère: perros prohibidos en las tres playas vigiladas del 1 de junio al 15 de septiembre (ordenanza municipal, multa 68 €), pero la orilla este boscosa pasada la tercera playa queda abierta todo el año.`,
+      ],
+      pt: [
+        `Rede RTCA / TUC: cães pequenos em transportadora fechada (máx. 45 cm) viajam grátis, cães médios e grandes com trela e açaime admitidos à discrição do condutor, por vezes com um bilhete adulto completo (1,20 €) pedido pelo animal. Cães-guia e de assistência isentos.`,
+        `Comboios SNCF (TGV direto Paris–Carcassonne 5h, TER Toulouse 50 min, Bordéus 3h): cães pequenos até 6 kg em transportadora fechada por uma tarifa plana de 7,50 € por viagem, cães com mais de 6 kg com trela e açaime a 50 % da tarifa adulta 2ª classe.`,
+        `Cobertura veterinária 24/7: Carcassonne não tem hospital permanente, o departamento do Aude opera com uma escala rotativa. Marque a Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) ou des Quatre Vents (+33 4 68 25 12 12); o atendedor noturno dá o telemóvel do veterinário de serviço. Para cuidados intensivos, o CHV VetOccitanie Toulouse (90 km, +33 5 61 61 20 20) é a referência 24/7.`,
+        `Verão: a calçada de La Cité atinge 45 °C nas tardes de julho–agosto, suficiente para queimar as almofadinhas em minutos. Passeie antes das 10h ou depois das 19h30, nunca ao meio-dia. Prefira abril–junho ou setembro–outubro para visitar com cão.`,
+        `Lac de la Cavayère: cães proibidos nas três praias vigiadas entre 1 de junho e 15 de setembro (regulamento municipal, multa 68 €), mas a margem leste arborizada para além da terceira praia fica aberta o ano inteiro.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Comment venir : TGV direct Paris–Carcassonne en 5h, TER toutes les 30 min depuis Toulouse-Matabiau (50 min), liaisons via Narbonne depuis Montpellier (1h15) et Marseille (2h30). Aéroport Carcassonne Salvaza (CCF) à 10 min en voiture, low-cost Ryanair principalement ; pour les compagnies majors, passez par Toulouse-Blagnac (TLS, 90 km).`,
+        `Vétérinaires : pas d'hôpital 24h/24 permanent à Carcassonne, le département de l'Aude opère une garde tournante. Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) et des Quatre Vents (+33 4 68 25 12 12) en journée ; le répondeur de nuit redirige vers le confrère d'astreinte. CHV VetOccitanie Toulouse à 90 km pour les soins intensifs spécialisés.`,
+        `Documents : passeport européen + puce + vaccin antirabique à jour suffisent pour l'entrée depuis l'UE. Pour les visiteurs hors UE, certificat sanitaire du pays d'origine + puce ISO + vaccin antirabique valide ; les animaux américains nécessitent le formulaire APHIS 7001 avec visa consulaire.`,
+        `Pet-sitting : Rover.fr et Gudog.fr couvrent Carcassonne avec une trentaine de sitters dans la Bastide et les quartiers est ; comptez 25–35 € la demi-journée de garde et 30–45 € la nuit complète. Réservez 24–48 h à l'avance en juillet–août.`,
+        `Climat : hivers doux 7–10 °C avec pluies, étés brûlants 25–28 °C de moyenne mais pics réguliers à 35–38 °C en juillet–août, automnes longs et chauds jusqu'en octobre. Cherchez avril–juin ou septembre–octobre pour la fenêtre la plus confortable avec un chien.`,
+      ],
+      en: [
+        `How to arrive: direct TGV Paris–Carcassonne in 5h, TER every 30 min from Toulouse-Matabiau (50 min), connections via Narbonne from Montpellier (1h15) and Marseille (2h30). Carcassonne Salvaza airport (CCF) is 10 minutes by car, mostly low-cost Ryanair; for full-service carriers go via Toulouse-Blagnac (TLS, 90 km).`,
+        `Vets: no permanent 24/7 hospital in Carcassonne; the Aude département runs a rotating on-call rota. Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) and des Quatre Vents (+33 4 68 25 12 12) in daytime; the night answering machine redirects to the on-duty vet. CHV VetOccitanie Toulouse (90 km) for specialist intensive care.`,
+        `Documents: EU pet passport + microchip + rabies vaccine up to date suffice for entry from the EU. Non-EU visitors need a country-of-origin health certificate + ISO microchip + valid rabies vaccination; US animals require APHIS 7001 form and consular endorsement.`,
+        `Pet-sitting: Rover.fr and Gudog.fr cover Carcassonne with around thirty sitters in the Bastide and eastern districts; budget €25–35 per half-day and €30–45 per overnight. Book 24–48 hours ahead in July–August.`,
+        `Climate: mild wet winters 7–10 °C, hot dry summers averaging 25–28 °C but with regular spikes to 35–38 °C in July–August, long warm autumns through October. Aim for April–June or September–October as the comfortable window with a dog.`,
+      ],
+      es: [
+        `Cómo llegar: TGV directo París–Carcassonne en 5h, TER cada 30 min desde Toulouse-Matabiau (50 min), enlaces vía Narbona desde Montpellier (1h15) y Marsella (2h30). Aeropuerto de Carcassonne Salvaza (CCF) a 10 minutos en coche, sobre todo low-cost Ryanair; para compañías de servicio completo, pasa por Toulouse-Blagnac (TLS, 90 km).`,
+        `Veterinarios: sin hospital 24/7 permanente en Carcassonne, el departamento del Aude opera con guardia rotativa. Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) y des Quatre Vents (+33 4 68 25 12 12) en horario diurno; el contestador nocturno deriva al veterinario de guardia. CHV VetOccitanie Toulouse (90 km) para cuidados intensivos especializados.`,
+        `Documentos: pasaporte europeo + microchip + vacuna antirrábica al día bastan para entrar desde la UE. Los visitantes de fuera de la UE requieren certificado sanitario del país de origen + microchip ISO + vacuna antirrábica válida; los animales estadounidenses requieren el formulario APHIS 7001 con refrendo consular.`,
+        `Pet-sitting: Rover.fr y Gudog.fr cubren Carcassonne con una treintena de cuidadores en la Bastide y los barrios del este; cuenta con 25–35 € por media jornada y 30–45 € por noche completa. Reserva 24–48 h de antelación en julio–agosto.`,
+        `Clima: inviernos suaves y lluviosos 7–10 °C, veranos calurosos y secos con media de 25–28 °C pero picos habituales a 35–38 °C en julio–agosto, otoños largos y cálidos hasta octubre. Apunta a abril–junio o septiembre–octubre como ventana confortable con perro.`,
+      ],
+      pt: [
+        `Como chegar: TGV direto Paris–Carcassonne em 5h, TER de 30 em 30 min a partir de Toulouse-Matabiau (50 min), ligações via Narbonne a partir de Montpellier (1h15) e Marselha (2h30). Aeroporto de Carcassonne Salvaza (CCF) a 10 minutos de carro, sobretudo low-cost Ryanair; para companhias de serviço completo, passe por Toulouse-Blagnac (TLS, 90 km).`,
+        `Veterinários: sem hospital 24/7 permanente em Carcassonne, o departamento do Aude opera com escala rotativa. Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) e des Quatre Vents (+33 4 68 25 12 12) em horário diurno; o atendedor noturno reencaminha para o veterinário de serviço. CHV VetOccitanie Toulouse (90 km) para cuidados intensivos especializados.`,
+        `Documentos: passaporte europeu + microchip + vacina antirrábica em dia bastam para entrada a partir da UE. Os visitantes fora da UE precisam de certificado sanitário do país de origem + microchip ISO + vacina antirrábica válida; os animais americanos exigem o formulário APHIS 7001 com endosso consular.`,
+        `Pet-sitting: Rover.fr e Gudog.fr cobrem Carcassonne com cerca de trinta cuidadores na Bastide e nos bairros a leste; conte com 25–35 € por meio dia e 30–45 € por uma noite completa. Reserve com 24–48 h de antecedência em julho–agosto.`,
+        `Clima: invernos suaves e chuvosos 7–10 °C, verões quentes e secos com média de 25–28 °C mas picos regulares a 35–38 °C em julho–agosto, outonos longos e quentes até outubro. Aponte para abril–junho ou setembro–outubro como janela confortável com cão.`,
+      ],
+    },
+  },
+
   cascais: {
     history: {
       fr: `Cascais s'étend sur la pointe sud de la côte d'Estoril, à 30 km à l'ouest de Lisbonne. Ancien village de pêcheurs dont les rois portugais firent leur villégiature de cour à partir de 1870, elle devint dans les années 1940 le refuge de l'aristocratie européenne fuyant la Seconde Guerre mondiale, d'Umberto II d'Italie au duc de Windsor. La ville compte aujourd'hui environ 215 000 habitants dans la municipalité (centre historique d'à peine 35 000) et reste l'une des destinations balnéaires les plus prisées du Portugal. Côté chiens, Cascais combine un règlement municipal strict (laisse obligatoire dans tous les parcs urbains, plages concédées interdites du 1er mai au 30 septembre, amendes de 100 à 600 €) avec une vraie culture de tolérance : terrasses dog-friendly autour de la marina et du Largo Luís de Camões, fontaines à eau le long du Paredão, et trois services vétérinaires 24h/24 dans les limites de la commune. Les chiens des huit catégories légalement classées dangereuses (Pit Bull, Rottweiler, Fila Brasileiro et autres) sont interdits sur la Linha de Cascais et les bus régionaux.`,

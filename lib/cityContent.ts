@@ -4884,6 +4884,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  caen: {
+    history: {
+      fr: `Caen, capitale historique de la Basse-Normandie, doit son existence à Guillaume le Conquérant, qui en fit sa résidence ducale au milieu du XIe siècle. C'est lui qui éleva le Château de Caen, l'une des plus vastes enceintes médiévales d'Europe, et qui fonda avec son épouse Mathilde de Flandre les deux abbayes romanes qui encadrent encore la ville : l'Abbaye aux Hommes (Saint-Étienne) et l'Abbaye aux Dames (Sainte-Trinité), respectivement leurs tombeaux. Caen fut presque rasée lors de la bataille de Normandie en 1944 — les Alliés bombardèrent la ville pendant deux mois après le Débarquement — mais le centre médiéval autour du château et les deux abbayes furent miraculeusement épargnés ou patiemment restaurés en pierre de Caen. Pour le voyageur avec chien, la ville offre un centre marchable, de vastes pelouses dans les enceintes du château, un parc ornithologique de 17 ha (Colline aux Oiseaux), le chemin de halage du canal de Caen à la mer (14 km vers Ouistreham et la Manche) et un accès direct aux plages du Débarquement à 30 km à l'ouest et à Bayeux à 30 km au nord-ouest.`,
+      en: `Caen, the historic capital of Lower Normandy, owes its existence to William the Conqueror, who made it his ducal residence in the mid-11th century. He raised the Château de Caen, one of Europe's largest medieval enclosures, and with his queen Matilda of Flanders founded the two Romanesque abbeys that still frame the city: the Abbaye aux Hommes (Saint-Étienne) and the Abbaye aux Dames (Sainte-Trinité), their respective tombs. Caen was almost flattened during the Battle of Normandy in 1944 — the Allies bombed the city for two months after D-Day — but the medieval core around the castle and the two abbeys were miraculously spared or patiently restored in pale Caen limestone. For the dog traveller, the city offers a walkable centre, vast lawns within the castle ramparts, a 17-hectare bird park (Colline aux Oiseaux), the towpath of the Canal de Caen à la Mer (14 km to Ouistreham and the Channel) and direct access to the D-Day landing beaches 30 km west and to Bayeux 30 km north-west.`,
+      es: `Caen, capital histórica de la Baja Normandía, debe su existencia a Guillermo el Conquistador, que la convirtió en su residencia ducal a mediados del siglo XI. Él levantó el Château de Caen, uno de los mayores recintos medievales de Europa, y junto a su esposa Matilde de Flandes fundó las dos abadías románicas que aún enmarcan la ciudad: la Abbaye aux Hommes (Saint-Étienne) y la Abbaye aux Dames (Sainte-Trinité), sus respectivas tumbas. Caen quedó casi arrasada durante la batalla de Normandía en 1944 — los Aliados bombardearon la ciudad durante dos meses tras el Desembarco — pero el corazón medieval en torno al castillo y las dos abadías se salvaron milagrosamente o fueron pacientemente restaurados en la pálida piedra de Caen. Para el viajero con perro, la ciudad ofrece un centro caminable, vastas praderas dentro de las murallas del castillo, un parque ornitológico de 17 ha (Colline aux Oiseaux), el camino de sirga del Canal de Caen al mar (14 km hasta Ouistreham y el Canal de la Mancha) y acceso directo a las playas del Desembarco a 30 km al oeste y a Bayeux a 30 km al noroeste.`,
+      pt: `Caen, capital histórica da Baixa Normandia, deve a sua existência a Guilherme o Conquistador, que a tornou na sua residência ducal a meados do século XI. Ele ergueu o Château de Caen, um dos maiores recintos medievais da Europa, e juntamente com a sua esposa Matilde de Flandres fundou as duas abadias românicas que ainda emolduram a cidade: a Abbaye aux Hommes (Saint-Étienne) e a Abbaye aux Dames (Sainte-Trinité), os seus respetivos túmulos. Caen ficou quase arrasada durante a batalha da Normandia em 1944 — os Aliados bombardearam a cidade durante dois meses após o Desembarque — mas o núcleo medieval em torno do castelo e as duas abadias foram miraculosamente poupados ou pacientemente restaurados na pálida pedra de Caen. Para o viajante com cão, a cidade oferece um centro pedonal, vastos relvados dentro das muralhas do castelo, um parque ornitológico de 17 ha (Colline aux Oiseaux), o caminho de sirga do Canal de Caen ao mar (14 km até Ouistreham e o Canal da Mancha) e acesso direto às praias do Desembarque a 30 km a oeste e a Bayeux a 30 km a noroeste.`,
+    },
+    sights: [
+      { name: 'Château de Caen', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse ducale fondée par Guillaume le Conquérant vers 1060, l'une des plus vastes enceintes médiévales d'Europe (5,5 ha). Cours, remparts et jardins ouverts en accès libre toute l'année, chiens en laisse admis. Musées intérieurs (Beaux-Arts, Normandie) interdits aux chiens.`,
+        en: `Ducal fortress founded by William the Conqueror around 1060, one of Europe's largest medieval enclosures (5.5 ha). Courtyards, ramparts and gardens open year-round, leashed dogs welcome. The indoor museums (Fine Arts, Normandy) are closed to dogs.`,
+        es: `Fortaleza ducal fundada por Guillermo el Conquistador hacia 1060, uno de los mayores recintos medievales de Europa (5,5 ha). Patios, murallas y jardines abiertos todo el año en acceso libre, perros con correa admitidos. Los museos interiores (Bellas Artes, Normandía) están cerrados a perros.`,
+        pt: `Fortaleza ducal fundada por Guilherme o Conquistador por volta de 1060, um dos maiores recintos medievais da Europa (5,5 ha). Pátios, muralhas e jardins abertos todo o ano em acesso livre, cães com trela admitidos. Os museus interiores (Belas Artes, Normandia) estão fechados a cães.`,
+      }},
+      { name: 'Abbaye aux Hommes (Saint-Étienne)', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Abbaye fondée par Guillaume le Conquérant en 1063, qui y est inhumé. Façade romane à deux tours, cloître classique et jardins publics ouverts aux chiens en laisse. Intérieur de l'église abbatiale fermé aux chiens.`,
+        en: `Abbey founded by William the Conqueror in 1063, where he is buried. Romanesque twin-tower façade, classical cloister and public gardens open to leashed dogs. Interior of the abbey church closed to dogs.`,
+        es: `Abadía fundada por Guillermo el Conquistador en 1063, donde está enterrado. Fachada románica de dos torres, claustro clásico y jardines públicos abiertos a perros con correa. Interior de la iglesia abacial cerrado a perros.`,
+        pt: `Abadia fundada por Guilherme o Conquistador em 1063, onde está sepultado. Fachada românica de duas torres, claustro clássico e jardins públicos abertos a cães com trela. Interior da igreja abacial fechado a cães.`,
+      }},
+      { name: 'Abbaye aux Dames (Sainte-Trinité)', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Pendant féminin de l'Abbaye aux Hommes, fondée par la reine Mathilde de Flandre en 1062 (où elle repose). Jardin clos et parvis ouverts aux chiens en laisse, intérieur de l'abbatiale fermé aux chiens.`,
+        en: `Female counterpart to the Abbaye aux Hommes, founded by Queen Matilda of Flanders in 1062 (where she rests). Walled garden and forecourt open to leashed dogs, abbey-church interior closed to dogs.`,
+        es: `Contraparte femenina de la Abbaye aux Hommes, fundada por la reina Matilde de Flandes en 1062 (donde reposa). Jardín cerrado y atrio abiertos a perros con correa, interior de la abacial cerrado a perros.`,
+        pt: `Contraparte feminina da Abbaye aux Hommes, fundada pela rainha Matilde de Flandres em 1062 (onde repousa). Jardim murado e átrio abertos a cães com trela, interior da abacial fechado a cães.`,
+      }},
+      { name: 'Colline aux Oiseaux', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc paysager de 17 ha aménagé sur une ancienne décharge, voisin du Mémorial. Roseraie de 14 000 rosiers, ferme pédagogique, labyrinthe végétal. Chiens en laisse admis sur toutes les allées, gratuit.`,
+        en: `A 17-hectare landscaped park built on a former landfill, next to the Memorial. Rose garden of 14,000 plants, educational farm, garden maze. Leashed dogs welcome on all paths, free entry.`,
+        es: `Parque paisajístico de 17 ha levantado sobre un antiguo vertedero, junto al Memorial. Rosaleda de 14.000 rosales, granja educativa, laberinto vegetal. Perros con correa admitidos en todos los senderos, gratis.`,
+        pt: `Parque paisagístico de 17 ha construído sobre um antigo aterro, junto ao Memorial. Roseiral de 14.000 roseiras, quinta pedagógica, labirinto vegetal. Cães com trela admitidos em todos os trilhos, grátis.`,
+      }},
+      { name: 'Canal de Caen à la Mer', emoji: '⛵', petFriendly: true, desc: {
+        fr: `Chemin de halage plat de 14 km reliant le bassin Saint-Pierre au centre de Caen au port de Ouistreham sur la Manche. Marche, vélo, écluses, vue sur le Pegasus Bridge (D-Day). Chiens en laisse, idéal du matin.`,
+        en: `Flat 14 km towpath linking the Saint-Pierre basin in central Caen to the port of Ouistreham on the Channel. Walking, cycling, locks, view of Pegasus Bridge (D-Day). Leashed dogs, ideal early morning.`,
+        es: `Camino de sirga llano de 14 km que une la dársena de Saint-Pierre en el centro de Caen con el puerto de Ouistreham en el Canal de la Mancha. Marcha, bici, esclusas, vista al Pegasus Bridge (Día D). Perros con correa, ideal a primera hora.`,
+        pt: `Caminho de sirga plano de 14 km que liga a doca de Saint-Pierre no centro de Caen ao porto de Ouistreham no Canal da Mancha. Marcha, ciclismo, eclusas, vista da Pegasus Bridge (Dia D). Cães com trela, ideal de manhã cedo.`,
+      }},
+      { name: 'Jardin des Plantes de Caen', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Jardin botanique municipal de 3,5 ha fondé en 1736, l'un des plus anciens de France. Serres tropicales (chiens interdits à l'intérieur), arboretum et roseraie en plein air ouverts aux chiens en laisse. Gratuit.`,
+        en: `A 3.5-hectare municipal botanical garden founded in 1736, one of the oldest in France. Tropical greenhouses (dogs not allowed inside), open-air arboretum and rose garden welcome leashed dogs. Free entry.`,
+        es: `Jardín botánico municipal de 3,5 ha fundado en 1736, uno de los más antiguos de Francia. Invernaderos tropicales (perros no admitidos dentro), arboreto y rosaleda al aire libre abiertos a perros con correa. Gratis.`,
+        pt: `Jardim botânico municipal de 3,5 ha fundado em 1736, um dos mais antigos de França. Estufas tropicais (cães não admitidos no interior), arboreto e roseiral ao ar livre abertos a cães com trela. Grátis.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Réseau Twisto (tram + bus) : petits chiens en sac fermé gratuits, grands chiens à la discrétion du conducteur en laisse et muselés, le plus simple est d'éviter les heures de pointe (7h30-9h, 17h-19h).`,
+        `Le Mémorial de Caen (musée de la Seconde Guerre mondiale) interdit les chiens à l'intérieur, mais les 6 ha de jardins extérieurs (mémoriaux Canada, Royaume-Uni, États-Unis) sont accessibles en laisse.`,
+        `Vétérinaire d'urgence : la clinique vétérinaire de l'Hippodrome (8 av. du Maréchal Montgomery, +33 2 31 73 21 76) assure une astreinte de nuit ; pour le 24h/24 strict, le CHV Saint-Martin à Allonnes (75 km) est l'hôpital de référence de la région.`,
+        `Plages du Débarquement (Omaha, Utah, Sword, Gold, Juno) : chiens en laisse acceptés toute l'année hors saison balnéaire ; en juillet-août, vérifier les arrêtés municipaux locaux, certaines plages interdisent les chiens de 10h à 19h.`,
+        `Bayeux (30 km à l'ouest) : la Tapisserie (musée) interdit les chiens, mais la cathédrale extérieure, les vieilles rues et la rivière Aure sont accessibles en laisse — un excellent day-trip combiné avec les plages.`,
+      ],
+      en: [
+        `Twisto network (tram + bus): small dogs in a closed carrier travel free, large dogs at the driver's discretion on leash and muzzled. Simplest is to avoid rush hours (07:30-09:00, 17:00-19:00).`,
+        `The Mémorial de Caen (WWII museum) bans dogs inside, but the 6-hectare outdoor gardens (Canada, UK and US memorials) are accessible on leash.`,
+        `Emergency vet: Clinique Vétérinaire de l'Hippodrome (8 av. du Maréchal Montgomery, +33 2 31 73 21 76) runs an overnight on-call rota; for strict 24/7, CHV Saint-Martin in Allonnes (75 km) is the regional reference hospital.`,
+        `D-Day Landing Beaches (Omaha, Utah, Sword, Gold, Juno): leashed dogs welcome year-round outside swim season; in July-August check local mayoral orders, some beaches ban dogs 10:00-19:00.`,
+        `Bayeux (30 km west): the Tapestry museum bans dogs, but the cathedral exterior, the old town and the river Aure walk are leash-accessible — an excellent day trip combined with the beaches.`,
+      ],
+      es: [
+        `Red Twisto (tranvía + bus): perros pequeños en transportín cerrado viajan gratis, perros grandes a discreción del conductor con correa y bozal. Lo más sencillo es evitar las horas punta (07:30-09:00, 17:00-19:00).`,
+        `El Mémorial de Caen (museo de la Segunda Guerra Mundial) prohíbe los perros dentro, pero las 6 ha de jardines exteriores (memoriales de Canadá, Reino Unido y EE. UU.) son accesibles con correa.`,
+        `Veterinario de urgencias: la Clinique Vétérinaire de l'Hippodrome (8 av. du Maréchal Montgomery, +33 2 31 73 21 76) tiene guardia nocturna; para 24/7 estricto, el CHV Saint-Martin en Allonnes (75 km) es el hospital de referencia regional.`,
+        `Playas del Desembarco (Omaha, Utah, Sword, Gold, Juno): perros con correa admitidos todo el año fuera de la temporada de baño; en julio-agosto comprueba los bandos municipales locales, algunas playas prohíben perros de 10:00 a 19:00.`,
+        `Bayeux (30 km al oeste): el museo del Tapiz prohíbe los perros, pero el exterior de la catedral, el casco viejo y el paseo del río Aure son accesibles con correa — una excelente excursión combinada con las playas.`,
+      ],
+      pt: [
+        `Rede Twisto (elétrico + autocarro): cães pequenos em transportadora fechada viajam grátis, cães grandes à discrição do motorista com trela e açaime. O mais simples é evitar as horas de ponta (07:30-09:00, 17:00-19:00).`,
+        `O Mémorial de Caen (museu da Segunda Guerra Mundial) proíbe cães no interior, mas os 6 ha de jardins exteriores (memoriais do Canadá, Reino Unido e EUA) são acessíveis com trela.`,
+        `Veterinário de urgências: a Clinique Vétérinaire de l'Hippodrome (8 av. du Maréchal Montgomery, +33 2 31 73 21 76) faz banco de noite; para 24/7 estrito, o CHV Saint-Martin em Allonnes (75 km) é o hospital de referência regional.`,
+        `Praias do Desembarque (Omaha, Utah, Sword, Gold, Juno): cães com trela aceites todo o ano fora da época balnear; em julho-agosto verificar os editais municipais locais, algumas praias proíbem cães das 10:00 às 19:00.`,
+        `Bayeux (30 km a oeste): o museu da Tapeçaria proíbe cães, mas o exterior da catedral, o centro velho e o passeio do rio Aure são acessíveis com trela — uma excelente excursão combinada com as praias.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : passeport européen pour animaux, puce ISO et vaccin antirabique en cours suffisent, la France est dans l'espace Schengen.`,
+        `Aéroport Caen-Carpiquet (CFR) à 8 km du centre, lignes saisonnières vers Lyon, Nice et la Corse ; pour le grand international, Paris CDG (2h en voiture) ou Paris ORY restent les hubs.`,
+        `TER Caen-Paris Saint-Lazare en 2h, Caen-Cherbourg 1h15, Caen-Le Havre 1h45 ; règle SNCF standard : petits chiens en sac jusqu'à 7€, grands chiens en laisse et muselés à demi-tarif (max 2 par voyageur).`,
+        `Voiture pratique pour les day-trips : Bayeux 30 km (30 min), Omaha Beach 60 km (1h), Honfleur 60 km (1h), Cabourg-Deauville 25-45 km. Parkings du château et de la Presqu'île à 2-3 €/h.`,
+        `Meilleure saison : mai-juin et septembre (15-18°C, jours longs, hors interdictions estivales de plages). Évitez novembre-février (pluie quasi quotidienne, jours courts).`,
+      ],
+      en: [
+        `From the EU: standard European pet passport, ISO microchip and valid rabies vaccination are sufficient, France is in the Schengen area.`,
+        `Caen-Carpiquet Airport (CFR) is 8 km from the centre, with seasonal routes to Lyon, Nice and Corsica; for major international flights, Paris CDG (2h drive) or Paris ORY remain the hubs.`,
+        `TER Caen-Paris Saint-Lazare in 2h, Caen-Cherbourg 1h15, Caen-Le Havre 1h45; standard SNCF rule: small dogs in a carrier up to €7, large dogs leashed and muzzled at half fare (max 2 per traveller).`,
+        `Car convenient for day trips: Bayeux 30 km (30 min), Omaha Beach 60 km (1h), Honfleur 60 km (1h), Cabourg-Deauville 25-45 km. Castle and Presqu'île car parks at €2-€3/h.`,
+        `Best season: May-June and September (15-18°C, long days, outside summer beach bans). Avoid November-February (near-daily rain, short days).`,
+      ],
+      es: [
+        `Desde la UE: pasaporte europeo de mascota, microchip ISO y vacuna antirrábica vigente son suficientes, Francia está en el espacio Schengen.`,
+        `Aeropuerto Caen-Carpiquet (CFR) a 8 km del centro, con rutas estacionales a Lyon, Niza y Córcega; para grandes internacionales, París CDG (2 h en coche) o París ORY siguen siendo los hubs.`,
+        `TER Caen-París Saint-Lazare en 2 h, Caen-Cherburgo 1h15, Caen-Le Havre 1h45; regla SNCF estándar: perros pequeños en transportín hasta 7 €, perros grandes con correa y bozal a mitad de precio (máx 2 por viajero).`,
+        `Coche práctico para excursiones: Bayeux 30 km (30 min), Omaha Beach 60 km (1 h), Honfleur 60 km (1 h), Cabourg-Deauville 25-45 km. Aparcamientos del castillo y de la Presqu'île a 2-3 €/h.`,
+        `Mejor temporada: mayo-junio y septiembre (15-18°C, días largos, fuera de las prohibiciones estivales de playa). Evita noviembre-febrero (lluvia casi diaria, días cortos).`,
+      ],
+      pt: [
+        `A partir da UE: passaporte europeu de animal, microchip ISO e vacina antirrábica em dia são suficientes, a França está no espaço Schengen.`,
+        `Aeroporto Caen-Carpiquet (CFR) a 8 km do centro, com rotas sazonais para Lyon, Nice e Córsega; para grandes voos internacionais, Paris CDG (2 h de carro) ou Paris ORY continuam a ser os hubs.`,
+        `TER Caen-Paris Saint-Lazare em 2 h, Caen-Cherbourg 1h15, Caen-Le Havre 1h45; regra SNCF padrão: cães pequenos em transportadora até 7 €, cães grandes com trela e açaime a meio preço (máx 2 por viajante).`,
+        `Carro prático para excursões: Bayeux 30 km (30 min), Omaha Beach 60 km (1 h), Honfleur 60 km (1 h), Cabourg-Deauville 25-45 km. Estacionamentos do castelo e da Presqu'île a 2-3 €/h.`,
+        `Melhor época: maio-junho e setembro (15-18°C, dias longos, fora das proibições estivais de praia). Evite novembro-fevereiro (chuva quase diária, dias curtos).`,
+      ],
+    },
+  },
+
   cagliari: {
     history: {
       fr: `Cagliari, capitale de la Sardaigne, occupe sept collines au-dessus du golfe des Anges depuis l'âge du bronze. Fondée par les Phéniciens (VIIIe s. av. J.-C.), elle fut tour à tour carthaginoise, romaine (Karalis), byzantine, pisane (qui bâtit le quartier fortifié du Castello au XIIIe s.), puis aragonaise et savoyarde, capitale du royaume de Sardaigne jusqu'à l'unité italienne. La ville moderne s'étire des bastions calcaires du Castello jusqu'aux 8 km de plage urbaine du Poetto, entre la lagune aux flamants roses de Molentargius et la péninsule de Sant'Elia. Pour le voyageur avec chien, Cagliari combine quatre atouts rares : un centre marchable et essentiellement piéton après 19h, une plage canine municipale saisonnière au Poetto, des collines-parcs aménagées (Monte Urpinu, San Michele) et un hôpital vétérinaire 24h/24 de référence. Le climat méditerranéen offre des hivers doux (13-14°C) qui en font une destination toute l'année, à l'exception de juillet-août où le sirocco impose un rythme matin tôt et fin de journée.`,

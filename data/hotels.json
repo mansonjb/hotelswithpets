@@ -5582,6 +5582,131 @@
     "petPolicyPt": "Aria Hotel Budapest por Library Hotel Collection warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €35 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "caen-1",
+    "name": "Hôtel Mercure Caen Centre Port de Plaisance",
+    "destinationSlug": "caen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2150,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-caen-centre.html",
+    "petFee": 14,
+    "petPolicy": "Mercure Caen Centre Port de Plaisance accepts pets for €14 per pet per night. Both dogs and cats are welcome. Pets are allowed in guest rooms and on outdoor terraces but not in the restaurant or breakfast room.",
+    "highlights": [
+      "Bassin Saint-Pierre marina front, walk to the castle in 10 min",
+      "Direct access to the 14 km Caen-Ouistreham canal towpath",
+      "Pet-friendly outdoor terrace and waterfront walks at the door"
+    ],
+    "slug": "hotel-mercure-caen-centre-port-de-plaisance-caen",
+    "petPolicyPt": "Mercure Caen Centre Port de Plaisance aceita animais por €14 por animal por noite. Cães e gatos são bem-vindos. Animais permitidos nos quartos and on outdoor terraces mas não no restaurante ou sala de pequeno-almoço."
+  },
+  {
+    "id": "caen-2",
+    "name": "ibis Styles Caen Centre Gare",
+    "destinationSlug": "caen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 1820,
+    "priceFrom": 78,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-caen-centre-gare.html",
+    "petFee": 10,
+    "petPolicy": "ibis Styles Caen Centre Gare accepts up to 2 pets per room for €10 per pet per night. Both dogs and cats are welcome on a leash or in a carrier in public areas.",
+    "highlights": [
+      "Directly opposite Caen SNCF station — easy day trips to Bayeux and Paris",
+      "Walking distance to the Presqu'île and the Orne riverside",
+      "Budget-friendly with included breakfast option"
+    ],
+    "slug": "ibis-styles-caen-centre-gare-caen",
+    "petPolicyPt": "ibis Styles Caen Centre Gare accepts até 2 animais por quarto for €10 por animal por noite. Cães e gatos são bem-vindos com trela or in a carrier in public areas."
+  },
+  {
+    "id": "caen-3",
+    "name": "Best Western Plus Hôtel Moderne Caen",
+    "destinationSlug": "caen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1980,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/best-western-le-moderne-caen.html",
+    "petFee": 15,
+    "petPolicy": "Best Western Plus Hôtel Moderne accepts pets for €15 per pet per night. Both dogs and cats are welcome in guest rooms. Pets must be kept on a leash in lobby and corridors and are not allowed in the restaurant.",
+    "highlights": [
+      "Central location two minutes from the Château de Caen",
+      "Within walking distance of both Abbaye aux Hommes and Abbaye aux Dames",
+      "Pet-friendly with quick access to the castle ramparts lawns"
+    ],
+    "slug": "best-western-plus-hotel-moderne-caen-caen",
+    "petPolicyPt": "Best Western Plus Hôtel Moderne aceita animais por €15 por animal por noite. Cães e gatos são bem-vindos in guest rooms. Pets must be kept com trela in lobby and corridors and are não permitidos no restaurante."
+  },
+  {
+    "id": "caen-4",
+    "name": "Hôtel des Quatrans",
+    "destinationSlug": "caen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1430,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/desquatrans.html",
+    "petFee": 10,
+    "petPolicy": "Hôtel des Quatrans accepts pets for €10 per pet per night. Both dogs and cats are welcome. Pets are allowed in guest rooms but not in the breakfast room.",
+    "highlights": [
+      "Quiet boutique hotel a 5-minute walk from the Château de Caen",
+      "Family-run, attentive welcome for pets at check-in",
+      "Close to the pedestrian Rue Saint-Pierre and Vaugueux dining quarter"
+    ],
+    "slug": "hotel-des-quatrans-caen",
+    "petPolicyPt": "Hôtel des Quatrans aceita animais por €10 por animal por noite. Cães e gatos são bem-vindos. Animais permitidos nos quartos but mas não na sala de pequeno-almoço."
+  },
+  {
+    "id": "caen-5",
+    "name": "Hôtel Le Dauphin Caen",
+    "destinationSlug": "caen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 1675,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ledauphincaen.html",
+    "petFee": 12,
+    "petPolicy": "Hôtel Le Dauphin accepts pets for €12 per pet per night. Both dogs and cats are welcome in guest rooms. Pets are not allowed in the gastronomic restaurant.",
+    "highlights": [
+      "Historic 12th-century building (former priory) two minutes from the castle",
+      "Renowned on-site bistro (pet-friendly bar area)",
+      "Walking access to the Vaugueux old quarter and Bassin Saint-Pierre"
+    ],
+    "slug": "hotel-le-dauphin-caen-caen",
+    "petPolicyPt": "Hôtel Le Dauphin aceita animais por €12 por animal por noite. Cães e gatos são bem-vindos in guest rooms. Pets are não permitidos no restaurante gastronómico."
+  },
+  {
     "id": "cagliari-1",
     "name": "Hotel Regina Margherita",
     "destinationSlug": "cagliari",

@@ -211,6 +211,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
+    caen: {
+      personality: `the medieval Norman capital founded by William the Conqueror, with two Romanesque abbeys, a 1,000-year-old castle in vast leashed-dog grounds, river and canal walks along the Orne, and a 30-minute drive to the D-Day landing beaches and the Bayeux Tapestry town`,
+      highlight: `the Château de Caen ramparts and courtyards, the Colline aux Oiseaux and Jardin des Plantes, and the canal towpath linking Caen to Ouistreham on the Channel`,
+      area: `the Vaugueux quarter east of the castle, the riverside Presqu'île along the Orne, and the Beaulieu university and abbey district`,
+    },
     cagliari: {
       personality: `the Sardinian capital with 8 km of urban beach at Poetto, a seasonal municipal dog stretch, year-round canine cove at Calamosca, the 1,600-hectare Molentargius flamingo lagoon and one true 24/7 emergency vet hospital`,
       highlight: `the Bastione di Saint Remy panorama, the Sella del Diavolo coastal trail above Calamosca, and the flat 7 km flamingo loop at Parco di Molentargius`,
@@ -994,6 +999,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
+    caen: {
+      personality: `la capitale médiévale normande fondée par Guillaume le Conquérant, avec deux abbayes romanes, un château millénaire dans de vastes enceintes accessibles aux chiens en laisse, des promenades fluviales et le long du canal de l'Orne, et 30 minutes en voiture des plages du Débarquement et de Bayeux et sa Tapisserie`,
+      highlight: `les remparts et la cour du Château de Caen, la Colline aux Oiseaux et le Jardin des Plantes, et le chemin de halage du canal reliant Caen à Ouistreham sur la Manche`,
+      area: `le quartier du Vaugueux à l'est du château, la Presqu'île riveraine le long de l'Orne, et le quartier universitaire et abbatial de Beaulieu`,
+    },
     cagliari: {
       personality: `la capitale de la Sardaigne avec 8 km de plage urbaine au Poetto, un tronçon canin municipal saisonnier, la crique canine de Calamosca toute l'année, la lagune aux flamants roses de Molentargius (1 600 ha) et un vrai hôpital vétérinaire d'urgence 24h/24`,
       highlight: `le panorama du Bastione di Saint Remy, le sentier côtier de la Sella del Diavolo au-dessus de Calamosca, et la boucle plate de 7 km aux flamants du Parco di Molentargius`,
@@ -1776,6 +1786,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
     },
+    caen: {
+      personality: `la capital medieval normanda fundada por Guillermo el Conquistador, con dos abadías románicas, un castillo milenario en vastos recintos accesibles a perros con correa, paseos fluviales y por el canal del Orne, y a 30 minutos en coche de las playas del Desembarco y de Bayeux con su Tapiz`,
+      highlight: `las murallas y el patio del Château de Caen, la Colline aux Oiseaux y el Jardin des Plantes, y el camino de sirga del canal que une Caen con Ouistreham en el Canal de la Mancha`,
+      area: `el barrio del Vaugueux al este del castillo, la Presqu'île ribereña a lo largo del Orne, y el barrio universitario y abacial de Beaulieu`,
+    },
     cagliari: {
       personality: `la capital de Cerdeña con 8 km de playa urbana en Poetto, un tramo canino municipal estacional, la cala canina de Calamosca todo el año, la laguna de flamencos rosas de Molentargius (1.600 ha) y un verdadero hospital veterinario de urgencias 24/7`,
       highlight: `el panorama del Bastione di Saint Remy, el sendero costero de la Sella del Diavolo sobre Calamosca, y el recorrido llano de 7 km de los flamencos en el Parco di Molentargius`,
@@ -2557,6 +2572,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade de gran arquitetura e uma escena pet-friendly en auge. Os cães viajan no metro, acceden a a maioria dos parques e são bem-vindos nos famosos bares en ruinas de Budapest',
       highlight: 'a Ilha Margarita, o Parque da Cidade (Városliget) e os passeios riberenhos do Danubio',
       area: 'o 7º distrito (o Bairro Judío), o distrito do Castelo de Buda e Óbuda',
+    },
+    caen: {
+      personality: `a capital medieval normanda fundada por Guilherme o Conquistador, com duas abadias românicas, um castelo milenar em vastos recintos acessíveis a cães com trela, passeios fluviais e ao longo do canal do Orne, e a 30 minutos de carro das praias do Desembarque e de Bayeux com a sua Tapeçaria`,
+      highlight: `as muralhas e o pátio do Château de Caen, a Colline aux Oiseaux e o Jardin des Plantes, e o caminho de sirga do canal que liga Caen a Ouistreham no Canal da Mancha`,
+      area: `o bairro do Vaugueux a leste do castelo, a Presqu'île ribeirinha ao longo do Orne, e o bairro universitário e abacial de Beaulieu`,
     },
     cagliari: {
       personality: `a capital da Sardenha com 8 km de praia urbana no Poetto, um trecho canino municipal sazonal, a enseada canina de Calamosca o ano inteiro, a lagoa de flamingos rosas de Molentargius (1.600 ha) e um verdadeiro hospital veterinário de urgências 24/7`,

@@ -202,6 +202,7 @@ const COUNTRY_PT_PHRASE: Record<string, string> = {
   Slovakia: 'na Eslováquia',
   Lithuania: 'na Lituânia',
   Luxembourg: 'no Luxemburgo',
+  Malta: 'em Malta',
   'United States': 'nos Estados Unidos',
 }
 

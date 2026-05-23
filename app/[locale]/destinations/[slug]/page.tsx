@@ -72,6 +72,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
         en: `${SITE_URL}/en/destinations/${slug}`,
         fr: `${SITE_URL}/fr/destinations/${slug}`,
         es: `${SITE_URL}/es/destinations/${slug}`,
+        pt: `${SITE_URL}/pt/destinations/${slug}`,
         'x-default': `${SITE_URL}/en/destinations/${slug}`,
       },
     },

@@ -727,6 +727,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
+    trieste: {
+      personality: `Friuli-Venezia Giulia's Habsburg port capital on the Adriatic, with around 22,000 registered dogs in 200,000 residents, official municipal off-leash areas, the iconic 4 km Barcola seafront with its dedicated Bau Beach, and the 22-hectare seaside Parco di Miramare`,
+      highlight: `Piazza Unità d'Italia (Europe's largest seafront square), the Castello di Miramare park, and the Karst plateau trails and osmiza farmhouse wine bars above the city`,
+      area: `the Borgo Teresiano grid around the Canal Grande, the Piazza Unità d'Italia waterfront, and the Barcola seafront promenade north of the centre`,
+    },
     trondheim: {
       personality: `Norway's third city and medieval capital, UNESCO Nidaros Cathedral (the world's northernmost Gothic cathedral), the colourful Bakklandet wooden quarter, free dog transport on buses, trams and trains, and 80 km² of Bymarka urban forest at the city edge`,
       highlight: `the Nidaros Cathedral and Gamle Bybro bridge, the iconic Gråkallbanen heritage tram to Bymarka forest, and Munkholmen island ferry`,
@@ -1513,6 +1518,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
+    },
+    trieste: {
+      personality: `la capitale habsbourgeoise du Frioul-Vénétie Julienne sur l'Adriatique, environ 22 000 chiens enregistrés pour 200 000 habitants, des aires sans laisse municipales officielles, l'emblématique front de mer de Barcola de 4 km avec sa Bau Beach dédiée, et le Parco di Miramare littoral de 22 hectares`,
+      highlight: `la Piazza Unità d'Italia (plus grande place littorale d'Europe), le parc du Castello di Miramare, et les sentiers du plateau karstique avec les osmize, bars à vin paysans au-dessus de la ville`,
+      area: `la grille du Borgo Teresiano autour du Canal Grande, le front de mer de la Piazza Unità d'Italia, et la promenade de Barcola au nord du centre`,
     },
     trondheim: {
       personality: `la troisième ville de Norvège et capitale médiévale, cathédrale Nidaros UNESCO (la cathédrale gothique la plus septentrionale du monde), quartier en bois coloré de Bakklandet, transport canin gratuit (bus, trams, trains), et 80 km² de forêt urbaine de Bymarka aux portes de la ville`,
@@ -2301,6 +2311,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
     },
+    trieste: {
+      personality: `la capital habsbúrgica de Friuli-Venezia Giulia sobre el Adriático, con unos 22.000 perros registrados sobre 200.000 habitantes, áreas municipales sin correa oficiales, el icónico paseo marítimo de Barcola de 4 km con su Bau Beach dedicada, y el Parco di Miramare litoral de 22 hectáreas`,
+      highlight: `la Piazza Unità d'Italia (la mayor plaza marítima de Europa), el parque del Castello di Miramare, y los senderos de la meseta cárstica con las osmize, bares de vino campesinos sobre la ciudad`,
+      area: `la cuadrícula del Borgo Teresiano alrededor del Canal Grande, el frente marítimo de Piazza Unità d'Italia, y el paseo de Barcola al norte del centro`,
+    },
     trondheim: {
       personality: `la tercera ciudad de Noruega y capital medieval, catedral de Nidaros UNESCO (la catedral gótica más septentrional del mundo), barrio de madera colorido de Bakklandet, transporte canino gratis (buses, tranvías, trenes), y 80 km² de bosque urbano de Bymarka a las puertas de la ciudad`,
       highlight: `la catedral de Nidaros y el Puente Viejo (Gamle Bybro), el icónico tranvía histórico Gråkallbanen hacia el bosque de Bymarka, y el ferry a la isla Munkholmen`,
@@ -3087,6 +3102,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade relajada do suroeste de ladrillo rosa e esplanadas onde os cães se integran na vida diaria junto al Garona',
       highlight: 'as margens do Garona, o camino de sirga do Canal du Midi e o parque riberenho da Prairie des Filtres',
       area: 'a place du Capitole, o bairro de Carmes e a margem izquierda de Saint-Cyprien',
+    },
+    trieste: {
+      personality: `a capital habsbúrgica de Friuli-Venezia Giulia sobre o Adriático, com uns 22.000 cães registados sobre 200.000 habitantes, áreas municipales sem trela oficiales, o icónico passeio marítimo de Barcola de 4 km com a sua Bau Beach dedicada, e o Parco di Miramare litoral de 22 hectáreas`,
+      highlight: `a Piazza Unità d'Italia (a mayor praça marítima de Europa), o parque do Castello di Miramare, e os trilhos da meseta cárstica com as osmize, bares de vinho campesinos sobre a cidade`,
+      area: `a cuadrícula do Borgo Teresiano alrededor do Canal Grande, o frente marítimo da Piazza Unità d'Italia, e o passeio de Barcola al norte do centro`,
     },
     trondheim: {
       personality: `a tercera cidade de Noruega e capital medieval, catedral de Nidaros UNESCO (a catedral gótica mais septentrional do mundo), bairro de madera colorido de Bakklandet, transporte canino grátis (buses, elétricos, comboios), e 80 km² de floresta urbano de Bymarka a as puertas da cidade`,

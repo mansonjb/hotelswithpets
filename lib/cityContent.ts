@@ -18216,6 +18216,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  trieste: {
+    history: {
+      fr: `Trieste, capitale du Frioul-Vénétie Julienne et grand port adriatique des Habsbourg, fut pendant cinq siècles (1382-1918) le débouché maritime de l'empire austro-hongrois sur la Méditerranée. Marie-Thérèse d'Autriche fit construire au XVIIIe siècle le Borgo Teresiano, quartier en grille traversé par le Canal Grande, qui donna à la ville sa silhouette néo-classique encore intacte. Carrefour cosmopolite italien-slovène-juif-grec, elle accueillit James Joyce (qui y écrivit l'essentiel d'Ulysse), Italo Svevo et Umberto Saba. Aujourd'hui ville d'environ 200 000 habitants pour 22 000 chiens enregistrés, Trieste cumule Piazza Unità d'Italia (la plus grande place littorale d'Europe), le château habsbourgeois de Miramare, le plateau karstique calcaire pour les randonnées, et la Bau Beach de Barcola pour la baignade canine, le tout battu en hiver par la Bora, vent froid catabatique iconique.`,
+      en: `Trieste, capital of Friuli-Venezia Giulia and a great Adriatic Habsburg port, was for five centuries (1382-1918) the Austro-Hungarian empire's outlet to the Mediterranean. Empress Maria Theresa built the 18th-century Borgo Teresiano, a gridded district crossed by the Canal Grande, giving the city its still-intact neoclassical silhouette. A cosmopolitan Italian-Slovenian-Jewish-Greek crossroads, it hosted James Joyce (who wrote much of Ulysses here), Italo Svevo and Umberto Saba. Today a city of around 200,000 people and 22,000 registered dogs, Trieste combines Piazza Unità d'Italia (Europe's largest seafront square), the Habsburg Castello di Miramare, the limestone Karst plateau for hiking, and the Barcola Bau Beach for dog swimming, all beaten in winter by the Bora, an iconic katabatic cold wind.`,
+      es: `Trieste, capital de Friuli-Venezia Giulia y gran puerto adriático de los Habsburgo, fue durante cinco siglos (1382-1918) la salida del imperio austro-húngaro al Mediterráneo. La emperatriz María Teresa hizo construir en el siglo XVIII el Borgo Teresiano, barrio en cuadrícula atravesado por el Canal Grande, que dio a la ciudad su silueta neoclásica aún intacta. Encrucijada cosmopolita italo-eslovena-judía-griega, acogió a James Joyce (que escribió aquí buena parte de Ulises), Italo Svevo y Umberto Saba. Hoy ciudad de unos 200.000 habitantes para 22.000 perros registrados, Trieste reúne la Piazza Unità d'Italia (la mayor plaza marítima de Europa), el castillo habsbúrgico de Miramare, la meseta cárstica de piedra caliza para senderismo, y la Bau Beach de Barcola para baño canino, todo azotado en invierno por la Bora, icónico viento frío catabático.`,
+      pt: `Trieste, capital de Friuli-Venezia Giulia e grande porto adriático dos Habsburgo, foi durante cinco séculos (1382-1918) a saída do império austro-húngaro al Mediterráneo. A imperatriz Maria Teresa fez construir no século XVIII o Borgo Teresiano, bairro en cuadrícula atravesado pelo Canal Grande, que deu a a cidade sua silueta neoclásica ainda intacta. Encrucijada cosmopolita italo-eslovena-judía-grega, acogió a James Joyce (que escreveu aqui boa parte de Ulises), Italo Svevo e Umberto Saba. Hoy cidade de uns 200.000 habitantes para 22.000 cães registados, Trieste reúne a Piazza Unità d'Italia (a mayor praça marítima de Europa), o castelo habsbúrgico de Miramare, a meseta cárstica de piedra caliza para senderismo, e a Bau Beach de Barcola para banho canino, todo azotado no inverno pela Bora, icónico vento frio catabático.`,
+    },
+    sights: [
+      {
+        name: `Piazza Unità d'Italia`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La plus grande place littorale d'Europe, ouverte directement sur l'Adriatique et encadrée par les palais habsbourgeois du XIXe siècle. Entièrement piétonne et dog-friendly, avec terrasses de cafés acceptant les chiens en laisse.`,
+          en: `Europe's largest seafront square, opening directly onto the Adriatic and framed by 19th-century Habsburg palaces. Fully pedestrian and dog-friendly, with café terraces welcoming leashed dogs.`,
+          es: `La mayor plaza marítima de Europa, abierta directamente al Adriático y enmarcada por palacios habsbúrgicos del siglo XIX. Totalmente peatonal y dog-friendly, con terrazas de café que reciben perros con correa.`,
+          pt: `A mayor praça marítima de Europa, abierta directamente al Adriático e enmarcada por palácios habsbúrgicos do século XIX. Totalmente peatonal e pet-friendly, com esplanadas de café que receben cães com trela.`,
+        },
+      },
+      {
+        name: 'Castello di Miramare',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Château néogothique habsbourgeois de l'archiduc Maximilien, perché sur un promontoire à 7 km au nord-ouest du centre. Le parc littoral de 22 hectares est entièrement dog-friendly en laisse ; l'intérieur du château reste interdit aux chiens.`,
+          en: `Habsburg neo-Gothic castle of Archduke Maximilian, perched on a promontory 7 km north-west of the centre. The 22-hectare seafront park is entirely dog-friendly on leash; the castle interior remains off-limits to dogs.`,
+          es: `Castillo neogótico habsbúrgico del archiduque Maximiliano, encaramado en un promontorio a 7 km al noroeste del centro. El parque litoral de 22 hectáreas es totalmente dog-friendly con correa; el interior del castillo sigue prohibido a los perros.`,
+          pt: `Castelo neogótico habsbúrgico do archiduque Maximiliano, encaramado num promontorio a 7 km a noroeste do centro. O parque litoral de 22 hectáreas é totalmente pet-friendly com trela; o interior do castelo continua proibido aos cães.`,
+        },
+      },
+      {
+        name: 'Canal Grande di Trieste',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `Canal navigable creusé en 1754-56 au cœur du Borgo Teresiano, pénétrant jusqu'à la Chiesa di Sant'Antonio Nuovo. Quais piétons des deux rives, terrasses de cafés tout le long, idéal pour une longue promenade en laisse avec vue sur les voiliers amarrés.`,
+          en: `Navigable canal dug in 1754-56 at the heart of the Borgo Teresiano, reaching all the way to the Chiesa di Sant'Antonio Nuovo. Pedestrian quays on both banks, café terraces along the entire length, ideal for a long leashed walk with views of moored sailing boats.`,
+          es: `Canal navegable excavado en 1754-56 en pleno Borgo Teresiano, que llega hasta la Chiesa di Sant'Antonio Nuovo. Muelles peatonales en ambas orillas, terrazas de café a lo largo de todo el recorrido, ideal para un paseo largo con correa y vistas a los veleros amarrados.`,
+          pt: `Canal navegable escavado en 1754-56 no coração do Borgo Teresiano, que chega até a Chiesa di Sant'Antonio Nuovo. Muelles peatonais nas duas margens, esplanadas de café ao longo do recorrido, ideal para um passeio longo com trela e vistas aos veleros amarrados.`,
+        },
+      },
+      {
+        name: 'Cattedrale di San Giusto',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Cathédrale du XIVe siècle au sommet de la colline éponyme, voisine du château vénéto-habsbourgeois Castello San Giusto. Chiens en laisse bienvenus sur les terrasses, bastions et jardin lapidaire ; intérieur de la cathédrale fermé aux chiens.`,
+          en: `14th-century cathedral atop its eponymous hill, next to the Venetian-Habsburg Castello San Giusto. Leashed dogs welcome on the terraces, bastions and lapidary garden; the cathedral interior is closed to dogs.`,
+          es: `Catedral del siglo XIV en lo alto de la colina homónima, junto al Castello San Giusto véneto-habsbúrgico. Perros con correa bienvenidos en terrazas, bastiones y jardín lapidario; el interior de la catedral está cerrado a los perros.`,
+          pt: `Catedral do século XIV no alto da colina homónima, junto al Castello San Giusto véneto-habsbúrgico. Cães com trela bem-vindos nas esplanadas, bastiões e jardim lapidario; o interior da catedral está cerrado aos cães.`,
+        },
+      },
+      {
+        name: 'Barcola Seafront',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade littorale de 4 km entre Cedas et Miramare, plage urbaine de prédilection des Triestins, avec sa Bau Beach dédiée entre Cedas et Il Pane Quotidiano. Eau profonde sur plateformes de béton, idéale pour chiens nageurs en juin-septembre.`,
+          en: `4 km seafront promenade between Cedas and Miramare, Trieste's favourite urban beach, with its dedicated Bau Beach between Cedas and Il Pane Quotidiano. Deep water off concrete platforms, ideal for swimming dogs from June to September.`,
+          es: `Paseo litoral de 4 km entre Cedas y Miramare, playa urbana favorita de los triestinos, con su Bau Beach dedicada entre Cedas e Il Pane Quotidiano. Agua profunda desde plataformas de hormigón, ideal para perros nadadores de junio a septiembre.`,
+          pt: `Passeio litoral de 4 km entre Cedas e Miramare, praia urbana favorita dos triestinos, com a sua Bau Beach dedicada entre Cedas e Il Pane Quotidiano. Água profunda desde plataformas de hormigón, ideal para cães nadadores de junho a setembro.`,
+        },
+      },
+      {
+        name: 'Carso (Karst Plateau)',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Plateau calcaire de 200-400 m d'altitude au-dessus de la ville, accessible en 15 min en bus 4 ou tram (quand il fonctionne). Réseau de sentiers CAI dog-friendly, doline du Val Rosandra, et osmize, fermes-bars à vin paysans ouvertes quelques semaines par an, généralement pet-tolerant.`,
+          en: `Limestone plateau at 200-400 m altitude above the city, reachable in 15 min by bus 4 or tram (when running). Network of dog-friendly CAI trails, the Val Rosandra karst valley, and osmize, country farmhouse wine bars open a few weeks each year and generally pet-tolerant.`,
+          es: `Meseta caliza a 200-400 m de altitud sobre la ciudad, accesible en 15 min en autobús 4 o tranvía (cuando funciona). Red de senderos CAI dog-friendly, dolina del Val Rosandra, y osmize, granjas-bares de vino campesinos abiertas pocas semanas al año y generalmente pet-tolerant.`,
+          pt: `Meseta caliza a 200-400 m de altitud sobre a cidade, acessível en 15 min en autocarro 4 o elétrico (quando funciona). Rede de trilhos CAI pet-friendly, dolina do Val Rosandra, e osmize, granjas-bares de vinho campesinos abiertas poucas semanas ao ano e geralmente pet-tolerant.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Bora souffle de décembre à mars avec des rafales de 60-100 km/h, parfois jusqu'à 200 km/h, qui peuvent soulever les petits chiens ; consultez l'OSMER FVG chaque matin et choisissez les ruelles abritées du Borgo Teresiano les jours d'alerte rouge.`,
+        `La loi italienne (DM 23/03/2007) impose en public le port d'une muselière disponible (même non portée) et d'une laisse de 1,5 m maximum ; la police peut verbaliser 25-160 € pour défaut de muselière.`,
+        `Les bus Trieste Trasporti acceptent les petits chiens en transportin gratuitement ; les grands chiens en laisse et muselés payent un billet passager simple, la règle est uniforme sur tout le réseau.`,
+        `La Barcola Bau Beach est la zone de baignade canine officielle entre Cedas et Il Pane Quotidiano ; ailleurs sur les 4 km du Lungomare la laisse est obligatoire et la mise à l'eau interdite en juillet-août.`,
+        `Le service vétérinaire d'urgence 24h le plus accessible est la Clinica Veterinaria Tergeste (+39 338 4265881) ; en parallèle, le 1515 (Carabinieri Forestali) reste le numéro national pour animaux en détresse.`,
+      ],
+      en: [
+        `The Bora blows December–March with gusts of 60-100 km/h, occasionally up to 200 km/h, strong enough to lift small dogs; check OSMER FVG every morning and stick to the sheltered Borgo Teresiano grid on red-alert days.`,
+        `Italian national law (DM 23/03/2007) requires every dog owner in public to carry a muzzle (even if not worn) and a leash no longer than 1.5 m; police can fine €25-160 for failing to carry a muzzle.`,
+        `Trieste Trasporti buses accept small dogs in carriers free of charge; larger dogs travel leashed and muzzled for a single passenger fare, the rule is uniform across the network.`,
+        `Barcola Bau Beach is the only designated dog swimming zone, between Cedas and Il Pane Quotidiano; elsewhere along the 4 km Lungomare leashes are mandatory and dogs are banned from the water in July-August.`,
+        `The most accessible 24h emergency vet is Clinica Veterinaria Tergeste (+39 338 4265881); in parallel, 1515 (Carabinieri Forestali) is the national line for animals in distress.`,
+      ],
+      es: [
+        `La Bora sopla de diciembre a marzo con rachas de 60-100 km/h, ocasionalmente hasta 200 km/h, suficiente para levantar perros pequeños; consulta OSMER FVG cada mañana y quédate en la cuadrícula resguardada del Borgo Teresiano los días de aviso rojo.`,
+        `La ley italiana (DM 23/03/2007) exige en público llevar bozal disponible (aunque no se use) y correa de 1,5 m máximo; la policía puede multar con 25-160 € por no llevar bozal.`,
+        `Los autobuses de Trieste Trasporti admiten perros pequeños en transportín gratis; los perros más grandes con correa y bozal pagan un billete normal de pasajero, la norma es uniforme en toda la red.`,
+        `La Barcola Bau Beach es la única zona de baño canino designada, entre Cedas e Il Pane Quotidiano; en el resto de los 4 km del Lungomare la correa es obligatoria y se prohíbe el baño canino en julio-agosto.`,
+        `El veterinario de urgencias 24 h más accesible es la Clinica Veterinaria Tergeste (+39 338 4265881); en paralelo, el 1515 (Carabinieri Forestali) es la línea nacional para animales en peligro.`,
+      ],
+      pt: [
+        `A Bora sopra de dezembro a março com rajadas de 60-100 km/h, ocasionalmente até 200 km/h, suficiente para levantar cães pequenos; consulta o OSMER FVG cada manhã e fica-te pela cuadrícula resguardada do Borgo Teresiano nos dias de aviso vermelho.`,
+        `A lei italiana (DM 23/03/2007) exige em público levar açaime disponível (embora não se use) e trela de 1,5 m máximo; a polícia pode multar 25-160 € por não levar açaime.`,
+        `Os autocarros de Trieste Trasporti admitem cães pequenos em transportadora grátis; os cães mais grandes com trela e açaime pagam um bilhete normal de pasajero, a norma é uniforme em toda a rede.`,
+        `A Barcola Bau Beach é a única zona de banho canino designada, entre Cedas e Il Pane Quotidiano; no resto dos 4 km do Lungomare a trela é obrigatória e se proíbe o banho canino em julho-agosto.`,
+        `O veterinário de urgências 24 h mais acessível é a Clinica Veterinaria Tergeste (+39 338 4265881); em paralelo, o 1515 (Carabinieri Forestali) é a linha nacional para animais em perigo.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport le plus proche : Trieste Ronchi dei Legionari (TRS), à 33 km nord-ouest, relié par train direct TS-TRS à Trieste Centrale en 35 min (chiens admis selon les règles Trenitalia).`,
+        `Vétérinaire d'urgence 24h : Clinica Veterinaria Tergeste (+39 338 4265881) à Roiano ; service public régional ASUGI pour la garde hors horaires sur le reste de la province.`,
+        `L'eau du robinet est potable ; fontaines à boire dans le Parco di Miramare, Piazza Unità et tous les aree cani municipaux, prenez une gamelle pliable.`,
+        `Les osmize, fermes-bars à vin du Karst, sont ouvertes quelques semaines par an ; consultez le calendrier osmize.com et apportez du liquide, la plupart n'acceptent pas la carte.`,
+        `Loi italienne : passeport européen, puce ISO et vaccin antirabique à jour pour tout chien entrant ; muselière et laisse de 1,5 m à porter en public, déjections sous peine de 100-500 € d'amende municipale à Trieste.`,
+      ],
+      en: [
+        `Nearest airport: Trieste Ronchi dei Legionari (TRS), 33 km north-west, linked by direct TS-TRS train to Trieste Centrale in 35 min (dogs admitted per Trenitalia rules).`,
+        `24h emergency vet: Clinica Veterinaria Tergeste (+39 338 4265881) in Roiano; the regional public ASUGI service covers out-of-hours rotation across the rest of the province.`,
+        `Tap water is safe; drinking fountains in the Parco di Miramare, Piazza Unità and every municipal area cani, bring a collapsible bowl.`,
+        `Osmize, the Karst farmhouse wine bars, are open a few weeks each year; check the osmize.com calendar and bring cash, most do not accept cards.`,
+        `Italian law: EU pet passport, ISO microchip and up-to-date rabies vaccine required for any dog entering; muzzle and 1.5 m leash to be carried in public, dog waste fines run €100-500 in Trieste.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Trieste Ronchi dei Legionari (TRS), a 33 km al noroeste, unido por tren directo TS-TRS a Trieste Centrale en 35 min (perros admitidos según las normas de Trenitalia).`,
+        `Veterinario de urgencias 24 h: Clinica Veterinaria Tergeste (+39 338 4265881) en Roiano; el servicio público regional ASUGI cubre la rotación fuera de horario en el resto de la provincia.`,
+        `El agua del grifo es potable; fuentes de agua en el Parco di Miramare, Piazza Unità y todas las aree cani municipales, lleva un bol plegable.`,
+        `Las osmize, granjas-bares de vino del Karst, abren pocas semanas al año; consulta el calendario osmize.com y lleva efectivo, la mayoría no acepta tarjeta.`,
+        `Ley italiana: pasaporte europeo, chip ISO y vacuna antirrábica al día para todo perro que entre; bozal y correa de 1,5 m a llevar en público, la multa por excrementos llega a 100-500 € en Trieste.`,
+      ],
+      pt: [
+        `Aeroporto mais cercano: Trieste Ronchi dei Legionari (TRS), a 33 km a noroeste, unido por comboio directo TS-TRS a Trieste Centrale em 35 min (cães admitidos segundo as regras da Trenitalia).`,
+        `Veterinário de urgências 24 h: Clinica Veterinaria Tergeste (+39 338 4265881) em Roiano; o serviço público regional ASUGI cobre a rotação fora de horário no resto da provincia.`,
+        `A água da torneira é potável; fontes de água no Parco di Miramare, Piazza Unità e en todas as aree cani municipales, leva um bol plegable.`,
+        `As osmize, quintas-bares de vinho do Karst, abrem poucas semanas ao ano; consulta o calendário osmize.com e leva dinheiro, a maioria não aceita cartão.`,
+        `Lei italiana: passaporte europeu, chip ISO e vacina antirrábica em dia para todo cão que entre; açaime e trela de 1,5 m a levar em público, a multa por dejeções chega a 100-500 € em Trieste.`,
+      ],
+    },
+  },
+
   trondheim: {
     history: {
       fr: `Trondheim, fondée en 997 par le roi viking Olaf Tryggvason sous le nom de Kaupangen, fut la première capitale de la Norvège médiévale et le siège du puissant archevêché de Nidaros pendant tout le Moyen Âge. La cathédrale Nidaros, construite à partir de 1070 sur la tombe de saint Olaf (martyrisé en 1030), est la cathédrale gothique la plus septentrionale du monde et reste le lieu où sont couronnés les rois de Norvège. Détruite plusieurs fois par les feux et reconstruite à l'identique, la ville est aujourd'hui le quatrième centre universitaire de Scandinavie (NTNU, 40 000 étudiants) et la troisième ville de Norvège (210 000 habitants). Pour les voyageurs avec un chien, Trondheim combine héritage médiéval et nature accessible : Centre médiéval piéton en 20 min, 80 km² de forêt urbaine Bymarka aux portes, tramway Gråkallbanen historique de 1955 (le plus septentrional du monde), et fjord avec sentier côtier de 14 km le long de la péninsule de Lade.`,

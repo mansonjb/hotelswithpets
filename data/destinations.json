@@ -10596,6 +10596,81 @@
     "tiqetsId": "66619"
   },
   {
+    "slug": "trieste",
+    "name": "Trieste",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/trieste.jpg",
+    "intro": "Trieste, Friuli-Venezia Giulia's Habsburg port capital, blends Adriatic seafront, Viennese cafés and Karst plateau hikes, with 22,000 registered dogs, official off-leash areas and Bau Beach swimming at Barcola making it one of north-east Italy's most pet-friendly bases.",
+    "lat": 45.6495,
+    "lng": 13.7768,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      }
+    },
+    "iata": "TRS"
+  },
+  {
     "slug": "trondheim",
     "name": "Trondheim",
     "country": "Norway",

@@ -137,6 +137,7 @@ const TARGETS = [
   { slug: 'como', query: 'Como Italy lake waterfront cathedral Duomo Alps panorama sunset' },
   { slug: 'bournemouth', query: 'Bournemouth Dorset England pier beach Jurassic coast panorama' },
   { slug: 'caen', query: 'Caen Normandy France Castle William Conqueror Abbey aux Hommes panorama' },
+  { slug: 'trieste', query: 'Trieste Italy Piazza Unita d Italia seafront Castello Miramare Habsburg Adriatic Friuli panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

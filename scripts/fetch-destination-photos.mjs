@@ -138,6 +138,7 @@ const TARGETS = [
   { slug: 'bournemouth', query: 'Bournemouth Dorset England pier beach Jurassic coast panorama' },
   { slug: 'caen', query: 'Caen Normandy France Castle William Conqueror Abbey aux Hommes panorama' },
   { slug: 'trieste', query: 'Trieste Italy Piazza Unita d Italia seafront Castello Miramare Habsburg Adriatic Friuli panorama sunset' },
+  { slug: 'rennes', query: 'Rennes Brittany France Parlement de Bretagne half-timbered medieval centre Place des Lices Vilaine panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

@@ -8602,6 +8602,30 @@
     "petPolicyPt": "Hotel Derlon, um 4-star boutique hotel em Onze-Lieve-Vrouweplein com Roman ruins displayed no basement, welcomes animais em 20 € por noite. Up para two animais per quarto. Stadspark e Helpoort 5 min em foot. animais em lead em áreas comuns; não permitidos no restaurant."
   },
   {
+    "id": "rennes-5",
+    "name": "Hôtel des Lices",
+    "destinationSlug": "rennes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 2100,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-lices.html",
+    "petFee": 10,
+    "petPolicy": "Hôtel des Lices welcomes pets at this charming family-run boutique hotel directly on Place des Lices, opposite the Saturday market. A pet fee of €10 per night applies, charged at check-in. Both dogs and cats are accepted (up to 8 kg), one pet per room maximum. Pets must be leashed in common areas. The half-timbered medieval centre is on the doorstep and the Vilaine river is 200 m away.",
+    "highlights": [
+      "On Place des Lices Saturday market",
+      "Half-timbered medieval centre on doorstep",
+      "Family-run boutique hotel"
+    ],
+    "slug": "hotel-des-lices-rennes"
+  },
+  {
     "id": "caen-4",
     "name": "Hôtel des Quatrans",
     "destinationSlug": "caen",
@@ -12714,6 +12738,30 @@
     "slug": "ibis-styles-linz"
   },
   {
+    "id": "rennes-4",
+    "name": "ibis Styles Rennes Centre Gare Nord",
+    "destinationSlug": "rennes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2950,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-styles-rennes-gare-nord.html",
+    "petFee": 10,
+    "petPolicy": "ibis Styles Rennes Centre Gare Nord welcomes pets at this colourful budget-friendly Accor property halfway between the TGV station and the medieval centre. A modest pet fee of €10 per night applies. Both dogs and cats are accepted (up to 7 kg), one pet per room. Pets must be leashed in common areas and are not permitted in the breakfast room.",
+    "highlights": [
+      "Modern colourful Accor design",
+      "Walking distance to TGV station",
+      "Breakfast included in most rates"
+    ],
+    "slug": "ibis-styles-rennes-centre-gare-nord"
+  },
+  {
     "id": "stuttgart-5",
     "name": "ibis Styles Stuttgart",
     "destinationSlug": "stuttgart",
@@ -13949,6 +13997,31 @@
     ],
     "slug": "le-cavendish-boutique-hotel-cannes",
     "petPolicyPt": "Le Cavendish Boutique Hotel é um genuinely animal-welcoming address com sem suplemento animal. Cães e gatos são accepted até 20 kg. O hotel é housed em um Belle Époque building one block do Croisette, e o intimate size means animais são treated as hóspedes. Um bem-vindos treat é fornecido em chegada. animais may accompany hóspedes no outdoor terrace e no lobby lounge. Morning walks para o Allées de la Liberté e o old port start do front porta."
+  },
+  {
+    "id": "rennes-1",
+    "name": "Hôtel Le Magic Hall",
+    "destinationSlug": "rennes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 1450,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-magic-hall.html",
+    "petFee": 15,
+    "petPolicy": "Hôtel Le Magic Hall welcomes pets in this design-led boutique hotel near the Place de la Mairie in central Rennes. A pet fee of €15 per night applies, charged at check-in. Both dogs and cats are accepted (up to 10 kg), one pet per room maximum. Pets must be leashed in common areas and are not permitted in the breakfast room. The Parlement de Bretagne and Parc du Thabor are 5 minutes on foot.",
+    "highlights": [
+      "Design boutique in central Rennes",
+      "5 min to Parlement de Bretagne",
+      "5 min to Parc du Thabor"
+    ],
+    "slug": "le-magic-hall-rennes"
   },
   {
     "id": "warsaw-7",
@@ -15451,6 +15524,30 @@
     "petPolicyPt": "One cão de any size bem-vindos em £20 por noite. Water bowls, blankets e treats fornecido mediante pedido. Well-behaved animais may be left sem quarto sem supervisão. gatos são não permitidos."
   },
   {
+    "id": "rennes-2",
+    "name": "Mercure Rennes Centre Gare",
+    "destinationSlug": "rennes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 3850,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/mercure-rennes-centre-gare.html",
+    "petFee": 12,
+    "petPolicy": "Mercure Rennes Centre Gare welcomes pets at its modern location directly opposite the TGV station on Place de la Gare. A pet fee of €12 per night applies. Both dogs and cats are accepted (up to 10 kg), one pet per room. Pets must be leashed in common areas and are not permitted in the restaurant. The Mail François Mitterrand riverside walk along the Vilaine is 200 m away.",
+    "highlights": [
+      "Opposite TGV station",
+      "200 m from Vilaine riverside walks",
+      "Walking distance to medieval centre"
+    ],
+    "slug": "mercure-rennes-centre-gare"
+  },
+  {
     "id": "bari-1",
     "name": "Mercure Villa Romanazzi Carducci",
     "destinationSlug": "bari",
@@ -16756,6 +16853,30 @@
     ],
     "slug": "novotel-nantes-carquefou",
     "petPolicyPt": "Novotel Nantes Carquefou (located em Carquefou, adjacent para Nantes) accepts animais de any size com um taxa de approximately €15 por animal por noite plus um refundable depósito. Both cães e gatos são bem-vindos. O hotel é verified animal-friendly em BringFido com sem size limit stated. It has outdoor grounds, um pool, e easy parking, making it um practical choice para owners driving para Nantes com um grande cão."
+  },
+  {
+    "id": "rennes-3",
+    "name": "Novotel Rennes Centre Gare",
+    "destinationSlug": "rennes",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 4200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/novotel-rennes-centre-gare.html",
+    "petFee": 12,
+    "petPolicy": "Novotel Rennes Centre Gare welcomes pets at this family-friendly Accor property near the TGV station and the new STAR metro line B. A pet fee of €12 per night applies. Both dogs and cats are accepted (up to 10 kg), one pet per room. Pets must be leashed in common areas and are not permitted in the restaurant or pool area. The Parc du Thabor is a 15-minute walk via the central streets.",
+    "highlights": [
+      "Family-friendly Accor property",
+      "Near TGV station and metro B",
+      "Free WiFi and on-site parking"
+    ],
+    "slug": "novotel-rennes-centre-gare"
   },
   {
     "id": "sofia-4",

@@ -9022,6 +9022,81 @@
     "iata": "CDG"
   },
   {
+    "slug": "rennes",
+    "name": "Rennes",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/rennes.jpg",
+    "intro": "Rennes, capital of Brittany, blends the half-timbered medieval centre rebuilt after the 1720 fire, the 10-hectare Parc du Thabor, France's second-largest Saturday market on Place des Lices, and day-trip access to Saint-Malo and the Côte d'Émeraude, making it one of north-west France's most walkable pet-friendly bases.",
+    "lat": 48.1173,
+    "lng": -1.6778,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & overcast",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "RNS"
+  },
+  {
     "slug": "reykjavik",
     "name": "Reykjavik",
     "country": "Iceland",

@@ -622,6 +622,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Promenades around Place de la République, the wooded Parc de Champagne, and the canal towpaths toward Cernay',
       area: 'the historic center near the Cathédrale Notre-Dame, Place Drouet d\'Erlon, and the leafy Parc de Champagne quarter',
     },
+    rennes: {
+      personality: `Brittany's regional capital where the half-timbered medieval centre (rebuilt after the 1720 fire), the 10-hectare Parc du Thabor and France's second-largest Saturday open-air market on Place des Lices make it one of north-west France's most walkable and dog-tolerant cities`,
+      highlight: `the Place du Parlement de Bretagne, the Parc du Thabor central park, and the Vilaine river towpath linking onward to the 84 km Ille-et-Rance canal toward Saint-Malo`,
+      area: `the half-timbered medieval centre around Rue du Chapitre and Place Sainte-Anne, the elegant 19th-century Thabor-Saint-Hélier quarter, and the rebuilt classical quarter around the Parlement`,
+    },
     reykjavik: {
       personality: 'the world\'s northernmost capital and one of its most dog-friendly. With vast lava fields, geothermal beaches, and a culture that brings dogs everywhere',
       highlight: 'Elliðaárdalur valley, the Öskjuhlíð hill, and the Grótta lighthouse coastal walk',
@@ -1413,6 +1418,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'élégante capitale de la Champagne, ville UNESCO où cathédrales gothiques, façades art déco et avenues plantées de vignes invitent à de longues promenades avec son chien en laisse`,
       highlight: 'les Promenades autour de la Place de la République, le boisé Parc de Champagne et les chemins de halage le long du canal vers Cernay',
       area: `le centre historique près de la Cathédrale Notre-Dame, la Place Drouet d'Erlon et le quartier verdoyant du Parc de Champagne`,
+    },
+    rennes: {
+      personality: `la capitale régionale de Bretagne où le centre médiéval à colombages (reconstruit après l'incendie de 1720), le Parc du Thabor de 10 hectares et le deuxième plus grand marché en plein air de France le samedi sur la Place des Lices en font l'une des villes les plus marchables et dog-tolerant du nord-ouest de la France`,
+      highlight: `la Place du Parlement de Bretagne, le Parc du Thabor central, et le chemin de halage de la Vilaine reliant ensuite les 84 km du canal d'Ille-et-Rance vers Saint-Malo`,
+      area: `le centre médiéval à colombages autour de la Rue du Chapitre et la Place Sainte-Anne, l'élégant quartier XIXe Thabor-Saint-Hélier, et le quartier classique reconstruit autour du Parlement`,
     },
     reykjavik: {
       personality: 'la capitale la plus septentrionale du monde et l\'une des plus dog-friendly. Avec de vastes champs de lave, des plages géothermiques et une culture qui emmène les chiens partout',
@@ -2206,6 +2216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las Promenades alrededor de la Place de la République, el boscoso Parc de Champagne y los caminos del canal hacia Cernay',
       area: `el centro histórico junto a la Catedral Notre-Dame, la Place Drouet d'Erlon y el frondoso barrio del Parc de Champagne`,
     },
+    rennes: {
+      personality: `la capital regional de Bretaña donde el centro medieval con entramado de madera (reconstruido tras el incendio de 1720), el Parc du Thabor de 10 hectáreas y el segundo mercado al aire libre más grande de Francia los sábados en Place des Lices la convierten en una de las ciudades más caminables y dog-tolerant del noroeste de Francia`,
+      highlight: `la Place du Parlement de Bretagne, el Parc du Thabor central, y el camino de sirga del Vilaine que enlaza con los 84 km del Canal d'Ille-et-Rance hacia Saint-Malo`,
+      area: `el centro medieval con entramado en torno a la Rue du Chapitre y la Place Sainte-Anne, el elegante barrio decimonónico Thabor-Saint-Hélier, y el barrio clásico reconstruido alrededor del Parlement`,
+    },
     reykjavik: {
       personality: 'la capital más septentrional del mundo y una de las más dog-friendly. Con vastos campos de lava, playas geotérmicas y una cultura que lleva a los perros a todas partes',
       highlight: 'el valle de Elliðaárdalur, la colina de Öskjuhlíð y el paseo costero del faro de Grótta',
@@ -2997,6 +3012,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a elegante capital da Champanha, cidade UNESCO onde catedrais góticas, fachadas art déco e avenidas bordeadas de vinhas invitan a largos passeios com tu cão com trela',
       highlight: 'as Promenades alrededor da Place da République, o boscoso Parc de Champagne e os caminos do canal hacia Cernay',
       area: `o centro histórico junto a a Catedral Notre-Dame, a Place Drouet d'Erlon e o frondoso bairro do Parc de Champagne`,
+    },
+    rennes: {
+      personality: `a capital regional da Bretanha onde o centro medieval com entramado de madeira (reconstruído após o incêndio de 1720), o Parc du Thabor de 10 hectáreas e o segundo maior mercado al aire libre de França aos sábados na Place des Lices a tornan numa das cidades mais caminháveis e pet-tolerant do noroeste de França`,
+      highlight: `a Place du Parlement de Bretagne, o Parc du Thabor central, e o camino de sirga do Vilaine que enlaça com os 84 km do Canal d'Ille-et-Rance em direção a Saint-Malo`,
+      area: `o centro medieval com entramado em torno da Rue du Chapitre e da Place Sainte-Anne, o elegante bairro oitocentista Thabor-Saint-Hélier, e o bairro clássico reconstruído em torno do Parlement`,
     },
     reykjavik: {
       personality: 'a capital mais septentrional do mundo e uma das mais pet-friendly. Com vastos campos de lava, praias geotérmicas e uma cultura que lleva aos cães a todas partes',

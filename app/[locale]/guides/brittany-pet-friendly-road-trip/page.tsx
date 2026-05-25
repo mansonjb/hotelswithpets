@@ -246,6 +246,10 @@ const STOPS: Stop[] = [
 
 const COPY = {
   en: {
+    dayLabels: ['Day 1', 'Day 2 & 3', 'Day 4', 'Day 5'],
+    dayLabelsShort: ['Day 1', 'Day 2–3', 'Day 4', 'Day 5'],
+    checkAvailability: 'Check availability →',
+    browseAll: (city: string) => `Browse all pet-friendly hotels in ${city} →`,
     eyebrow: '5-day pet-friendly Brittany road trip',
     title: 'Brittany Road Trip with Your Dog: 5 Days, 4 Stops, 1 Loop',
     intro: `North Brittany packs four very different dog-friendly stops into a 200 km loop you can drive comfortably in five days. We've matched each city to the right length of stay, picked two verified hotels per stop and noted the seasonal beach rules that catch every visitor out the first time. Distances are short, drives are scenic, and dogs are welcome almost everywhere outside the peak summer beach ban.`,
@@ -273,6 +277,10 @@ const COPY = {
     ],
   },
   fr: {
+    dayLabels: [`Jour 1`, `Jours 2 & 3`, `Jour 4`, `Jour 5`],
+    dayLabelsShort: [`Jour 1`, `Jours 2–3`, `Jour 4`, `Jour 5`],
+    checkAvailability: `Voir les disponibilités →`,
+    browseAll: (city: string) => `Voir tous les hôtels pet-friendly à ${city} →`,
     eyebrow: 'Road trip de 5 jours en Bretagne avec son chien',
     title: 'Road trip en Bretagne avec son chien : 5 jours, 4 étapes, 1 boucle',
     intro: `Le nord de la Bretagne réunit quatre étapes dog-friendly très différentes sur une boucle de 200 km que l'on peut faire confortablement en cinq jours. On a calé la durée idéale de chaque ville, sélectionné deux hôtels vérifiés par étape et signalé les règles de plage saisonnières qui surprennent chaque visiteur à la première marée. Distances courtes, routes scéniques, chiens bienvenus presque partout hors interdiction estivale.`,
@@ -300,6 +308,10 @@ const COPY = {
     ],
   },
   es: {
+    dayLabels: ['Día 1', 'Días 2 y 3', 'Día 4', 'Día 5'],
+    dayLabelsShort: ['Día 1', 'Días 2–3', 'Día 4', 'Día 5'],
+    checkAvailability: 'Ver disponibilidad →',
+    browseAll: (city: string) => `Ver todos los hoteles pet-friendly en ${city} →`,
     eyebrow: 'Road trip de 5 días por Bretaña con perro',
     title: 'Road trip por Bretaña con tu perro: 5 días, 4 paradas, 1 circuito',
     intro: `El norte de Bretaña reúne cuatro paradas dog-friendly muy distintas en un circuito de 200 km que se hace cómodamente en cinco días. Hemos ajustado la duración ideal de cada ciudad, seleccionado dos hoteles verificados por etapa y señalado las normas estacionales de playa que sorprenden a todo visitante novato. Distancias cortas, carreteras escénicas, perros bienvenidos casi en todas partes fuera de la prohibición veraniega.`,
@@ -327,6 +339,10 @@ const COPY = {
     ],
   },
   pt: {
+    dayLabels: ['Dia 1', 'Dias 2 e 3', 'Dia 4', 'Dia 5'],
+    dayLabelsShort: ['Dia 1', 'Dias 2–3', 'Dia 4', 'Dia 5'],
+    checkAvailability: 'Ver disponibilidade →',
+    browseAll: (city: string) => `Ver todos os hotéis pet-friendly em ${city} →`,
     eyebrow: 'Road trip de 5 dias pela Bretanha com cão',
     title: 'Road trip pela Bretanha com o seu cão: 5 dias, 4 paragens, 1 circuito',
     intro: `O norte da Bretanha junta quatro paragens dog-friendly muito diferentes num circuito de 200 km que se faz confortavelmente em cinco dias. Calibrámos a duração ideal de cada cidade, seleccionámos dois hotéis verificados por etapa e sinalizámos as regras sazonais de praia que apanham qualquer visitante de surpresa. Distâncias curtas, estradas cénicas, cães bem-vindos quase em todo o lado fora da proibição de verão.`,
@@ -440,7 +456,7 @@ export default async function Page({
         <ol className="grid grid-cols-1 sm:grid-cols-4 gap-3">
           {STOPS.map((s, i) => (
             <li key={s.slug} className="bg-white rounded-xl p-4 border border-stone-200">
-              <div className="text-xs font-semibold uppercase tracking-wider text-emerald-700 mb-1">Day {i === 0 ? '1' : i === 1 ? '2–3' : i === 2 ? '4' : '5'}</div>
+              <div className="text-xs font-semibold uppercase tracking-wider text-emerald-700 mb-1">{t.dayLabelsShort[i]}</div>
               <div className="text-lg font-bold text-stone-900">{s.name}</div>
               <div className="text-sm text-stone-600 mt-1">{t.nightsLabel(s.nights)}</div>
             </li>
@@ -470,7 +486,7 @@ export default async function Page({
         <div className="space-y-8">
           {STOPS.map((s, i) => {
             const localised = w(s)
-            const dayLabel = i === 0 ? 'Day 1' : i === 1 ? 'Day 2 & 3' : i === 2 ? 'Day 4' : 'Day 5'
+            const dayLabel = t.dayLabels[i]
             return (
               <article key={s.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
                 <header className="px-5 py-4 sm:px-7 sm:py-5 bg-gradient-to-r from-emerald-50 to-sky-50 border-b border-stone-200">
@@ -519,7 +535,7 @@ export default async function Page({
                           <div className="font-semibold text-stone-900">{h.name}</div>
                           <p className="text-xs text-stone-600 mt-1 leading-relaxed">{h.pitch}</p>
                           <div className="mt-2 text-xs font-semibold text-emerald-700">
-                            Check availability →
+                            {t.checkAvailability}
                           </div>
                         </a>
                       ))}
@@ -530,7 +546,7 @@ export default async function Page({
                       rel="noopener sponsored"
                       className="inline-block mt-3 text-sm text-stone-600 hover:text-emerald-700 underline underline-offset-2"
                     >
-                      Browse all pet-friendly hotels in {s.name} →
+                      {t.browseAll(s.name)}
                     </a>
                   </div>
                 </div>

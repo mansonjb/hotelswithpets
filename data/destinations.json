@@ -10697,6 +10697,33 @@
     "tiqetsId": "66619"
   },
   {
+    "slug": "tours",
+    "name": "Tours",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tours.jpg",
+    "intro": "Tours is the Loire Valley's most pet-friendly base — half-timbered Vieux-Tours, tram and bus open to dogs of all sizes, and four major chateaux (Villandry, Chenonceau, Amboise, Chambord) all welcoming leashed dogs in their gardens.",
+    "lat": 47.3941,
+    "lng": 0.6848,
+    "weather": {
+      "jan": {"temp": 5, "desc": "Cool & damp", "icon": "🌧️"},
+      "feb": {"temp": 6, "desc": "Cool & damp", "icon": "🌦️"},
+      "mar": {"temp": 9, "desc": "Cool & breezy", "icon": "🌦️"},
+      "apr": {"temp": 12, "desc": "Mild & pleasant", "icon": "⛅"},
+      "may": {"temp": 16, "desc": "Mild & sunny", "icon": "🌤️"},
+      "jun": {"temp": 19, "desc": "Warm & sunny", "icon": "☀️"},
+      "jul": {"temp": 21, "desc": "Warm & sunny", "icon": "☀️"},
+      "aug": {"temp": 22, "desc": "Warm & sunny", "icon": "☀️"},
+      "sep": {"temp": 18, "desc": "Mild & golden", "icon": "🌤️"},
+      "oct": {"temp": 13, "desc": "Cool & golden", "icon": "🍂"},
+      "nov": {"temp": 8, "desc": "Cool with rain", "icon": "🌦️"},
+      "dec": {"temp": 5, "desc": "Cool & damp", "icon": "🌧️"}
+    },
+    "iata": "TUF"
+  },
+  {
     "slug": "trieste",
     "name": "Trieste",
     "country": "Italy",

@@ -12761,6 +12761,30 @@
     "slug": "ibis-brasov-centrum"
   },
   {
+    "id": "tours-5",
+    "name": "ibis budget Tours Centre Gare",
+    "destinationSlug": "tours",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 7.9,
+    "reviewCount": 1850,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/sarl-tours-studios-etap.html",
+    "petFee": 5,
+    "petPolicy": "ibis budget Tours Centre Gare is the most affordable pet-friendly option in central Tours, 200 m from the train station. Pets are welcome for a minimal fee of €5 per pet per night. Both dogs and cats accepted. Service animals exempt from fees. Rooms are compact functional design — pets should not be left unattended.",
+    "highlights": [
+      "Lowest pet fee in Tours (€5)",
+      "2 min walk from train station",
+      "Functional compact rooms"
+    ],
+    "slug": "ibis-budget-tours-centre-gare"
+  },
+  {
     "id": "dresden-5",
     "name": "ibis Dresden Zentrum",
     "destinationSlug": "dresden",
@@ -13101,6 +13125,30 @@
     ],
     "slug": "ibis-toulouse-ponts-jumeaux",
     "petPolicyPt": "ibis Toulouse Ponts Jumeaux allows animais de any size por 5 EUR por animal por noite. no Canal du Midi, com easy access para o towpath para long cão walks."
+  },
+  {
+    "id": "tours-4",
+    "name": "ibis Tours Centre Gare",
+    "destinationSlug": "tours",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 2150,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-tours-centre.html",
+    "petFee": 10,
+    "petPolicy": "ibis Tours Centre Gare is a 3-star Accor budget hotel 100 m from the train station. Pets are allowed on request with a fee of approximately €10 per pet per night. Both dogs and cats accepted. Pets must be leashed in common areas. Some guests report being provided a welcome amenity (bowl and treats) on arrival.",
+    "highlights": [
+      "100 m from train station",
+      "Budget rate from €89",
+      "Welcome amenity for pets"
+    ],
+    "slug": "ibis-tours-centre-gare"
   },
   {
     "id": "zaragoza-5",
@@ -14261,6 +14309,30 @@
     ],
     "slug": "le-cavendish-boutique-hotel-cannes",
     "petPolicyPt": "Le Cavendish Boutique Hotel é um genuinely animal-welcoming address com sem suplemento animal. Cães e gatos são accepted até 20 kg. O hotel é housed em um Belle Époque building one block do Croisette, e o intimate size means animais são treated as hóspedes. Um bem-vindos treat é fornecido em chegada. animais may accompany hóspedes no outdoor terrace e no lobby lounge. Morning walks para o Allées de la Liberté e o old port start do front porta."
+  },
+  {
+    "id": "tours-2",
+    "name": "Le Grand Hôtel de Tours",
+    "destinationSlug": "tours",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1620,
+    "priceFrom": 135,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/le-grand.html",
+    "petFee": 8,
+    "petPolicy": "Le Grand Hôtel de Tours is a 4-star Art Deco hotel directly opposite the Tours Centre train station, on Place du Maréchal Leclerc. Pets of any size are welcome in designated rooms with a fee of €8 per pet per night. Both dogs and cats accepted. Pets must be leashed in common areas and not left unattended in rooms. The Jardin des Prébendes d'Oé is 5 minutes' walk away.",
+    "highlights": [
+      "Art Deco rooms",
+      "Opposite train station",
+      "Pet fee just €8/night"
+    ],
+    "slug": "le-grand-hotel-de-tours"
   },
   {
     "id": "warsaw-7",
@@ -15763,6 +15835,29 @@
     "slug": "mercure-rennes-centre-gare"
   },
   {
+    "id": "tours-3",
+    "name": "Mercure Tours Centre Gare et Congrès",
+    "destinationSlug": "tours",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.3,
+    "reviewCount": 2400,
+    "priceFrom": 125,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/tours-centre.html",
+    "petFee": 12,
+    "petPolicy": "Mercure Tours Centre Gare et Congrès is a 4-star Accor property next to the train station and the Vinci convention centre. Pets are welcome on request with a fee of approximately €12 per pet per night. Both dogs and cats accepted (size limitations may apply, confirm at booking). Pets are not permitted in the restaurant or bar areas but the lobby is dog-friendly.",
+    "highlights": [
+      "Next to train station and Vinci",
+      "Accor pet policy",
+      "Walking distance to Vieux-Tours"
+    ],
+    "slug": "mercure-tours-centre-gare-et-congres"
+  },
+  {
     "id": "bari-1",
     "name": "Mercure Villa Romanazzi Carducci",
     "destinationSlug": "bari",
@@ -17168,6 +17263,30 @@
     ],
     "slug": "occidental-ljubljana",
     "petPolicyPt": "Occidental Ljubljana warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €10 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "tours-1",
+    "name": "Oceania L'Univers Tours",
+    "destinationSlug": "tours",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1850,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/oceania-l-univers-tours.html",
+    "petFee": 20,
+    "petPolicy": "Hotel L'Univers (operated as Oceania L'Univers Tours) is a historic 4-star hotel on Boulevard Heurteloup, with origins going back to 1846. Pets of any size are welcome with a fee of €20 per pet per night, charged at check-in. Both dogs and cats are accepted. Pets are allowed in rooms and lobby but not in the restaurant or breakfast room. The Jardin des Prébendes d'Oé is 3 minutes' walk away for the morning routine.",
+    "highlights": [
+      "Historic 1846 building",
+      "Boulevard Heurteloup central location",
+      "3 min walk to Jardin des Prébendes"
+    ],
+    "slug": "oceania-l-univers-tours"
   },
   {
     "id": "toulouse-3",

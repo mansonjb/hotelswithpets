@@ -737,6 +737,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the banks of the Garonne, the Canal du Midi towpath, and the Prairie des Filtres riverside park',
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
+    tours: {
+      personality: `the Loire Valley's most pet-friendly base — a half-timbered medieval centre, a Fil Bleu tram and bus network that takes both small and large dogs, and four major Renaissance chateaux (Villandry, Chenonceau, Amboise, Chambord) all welcoming leashed dogs in their famous gardens`,
+      highlight: `the 14-hectare Parc de Sainte-Radegonde with the city's official off-leash dog area, the Loire à Vélo cycle path along the river, and the Jardin des Prébendes d'Oé 19th-century park`,
+      area: `the half-timbered Vieux-Tours around Place Plumereau, the Cathédrale Saint-Gatien quarter, and the Loire-side promenade up to Vouvray`,
+    },
     trieste: {
       personality: `Friuli-Venezia Giulia's Habsburg port capital on the Adriatic, with around 22,000 registered dogs in 200,000 residents, official municipal off-leash areas, the iconic 4 km Barcola seafront with its dedicated Bau Beach, and the 22-hectare seaside Parco di Miramare`,
       highlight: `Piazza Unità d'Italia (Europe's largest seafront square), the Castello di Miramare park, and the Karst plateau trails and osmiza farmhouse wine bars above the city`,
@@ -1543,6 +1548,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville décontractée du sud-ouest, de briques roses et de terrasses, où les chiens se fondent dans la vie quotidienne le long de la Garonne',
       highlight: 'les berges de la Garonne, le chemin de halage du Canal du Midi et le parc riverain de la Prairie des Filtres',
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
+    },
+    tours: {
+      personality: `la base la plus dog-friendly du Val de Loire — un centre médiéval à colombages, un réseau tram-bus Fil Bleu qui prend les petits comme les grands chiens, et quatre grands châteaux Renaissance (Villandry, Chenonceau, Amboise, Chambord) accueillant tous les chiens en laisse dans leurs célèbres jardins`,
+      highlight: `le Parc de Sainte-Radegonde de 14 hectares avec l'aire d'ébats canins officielle de la ville, la piste cyclable Loire à Vélo en bord de fleuve, et le Jardin des Prébendes d'Oé du XIXᵉ siècle`,
+      area: `le Vieux-Tours à colombages autour de la Place Plumereau, le quartier de la Cathédrale Saint-Gatien, et la promenade en bord de Loire vers Vouvray`,
     },
     trieste: {
       personality: `la capitale habsbourgeoise du Frioul-Vénétie Julienne sur l'Adriatique, environ 22 000 chiens enregistrés pour 200 000 habitants, des aires sans laisse municipales officielles, l'emblématique front de mer de Barcola de 4 km avec sa Bau Beach dédiée, et le Parco di Miramare littoral de 22 hectares`,
@@ -2351,6 +2361,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las orillas del Garona, el camino de sirga del Canal du Midi y el parque ribereño de la Prairie des Filtres',
       area: 'la place du Capitole, el barrio de Carmes y la orilla izquierda de Saint-Cyprien',
     },
+    tours: {
+      personality: `la base más dog-friendly del Valle del Loira: un centro medieval con entramado de madera, una red de tranvía y autobús Fil Bleu que admite perros pequeños y grandes, y cuatro grandes castillos renacentistas (Villandry, Chenonceau, Amboise, Chambord) que acogen perros con correa en sus famosos jardines`,
+      highlight: `el Parc de Sainte-Radegonde de 14 hectáreas con la aire d'ébats canins oficial de la ciudad, la ruta ciclista Loire à Vélo junto al río y el Jardin des Prébendes d'Oé del siglo XIX`,
+      area: `el Vieux-Tours con entramado de madera en torno a la Place Plumereau, el barrio de la Cathédrale Saint-Gatien, y el paseo a orillas del Loira hacia Vouvray`,
+    },
     trieste: {
       personality: `la capital habsbúrgica de Friuli-Venezia Giulia sobre el Adriático, con unos 22.000 perros registrados sobre 200.000 habitantes, áreas municipales sin correa oficiales, el icónico paseo marítimo de Barcola de 4 km con su Bau Beach dedicada, y el Parco di Miramare litoral de 22 hectáreas`,
       highlight: `la Piazza Unità d'Italia (la mayor plaza marítima de Europa), el parque del Castello di Miramare, y los senderos de la meseta cárstica con las osmize, bares de vino campesinos sobre la ciudad`,
@@ -3157,6 +3172,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade relajada do suroeste de ladrillo rosa e esplanadas onde os cães se integran na vida diaria junto al Garona',
       highlight: 'as margens do Garona, o camino de sirga do Canal du Midi e o parque riberenho da Prairie des Filtres',
       area: 'a place du Capitole, o bairro de Carmes e a margem izquierda de Saint-Cyprien',
+    },
+    tours: {
+      personality: `a base mais pet-friendly do Vale do Loire — um centro medieval com casas de tabique, uma rede de elétrico e autocarro Fil Bleu que aceita cães pequenos e grandes, e quatro grandes castelos renascentistas (Villandry, Chenonceau, Amboise, Chambord) que acolhem cães com trela nos seus famosos jardins`,
+      highlight: `o Parc de Sainte-Radegonde de 14 hectares com a aire d'ébats canins oficial da cidade, a ciclovia Loire à Vélo ao longo do rio e o Jardin des Prébendes d'Oé do século XIX`,
+      area: `o Vieux-Tours com casas de tabique em torno da Place Plumereau, o bairro da Cathédrale Saint-Gatien, e o passeio à beira do Loire até Vouvray`,
     },
     trieste: {
       personality: `a capital habsbúrgica de Friuli-Venezia Giulia sobre o Adriático, com uns 22.000 cães registados sobre 200.000 habitantes, áreas municipales sem trela oficiales, o icónico passeio marítimo de Barcola de 4 km com a sua Bau Beach dedicada, e o Parco di Miramare litoral de 22 hectáreas`,

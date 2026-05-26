@@ -18490,6 +18490,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tours: {
+    history: {
+      en: `Tours is the historic capital of the Touraine, on the southern bank of the Loire at its confluence with the Cher, and the gateway to the chateaux of the Loire Valley UNESCO World Heritage site. Its origins are Roman (the 1st-century Caesarodunum founded by Augustus), but the city took its medieval shape as a pilgrimage centre around the tomb of Saint Martin of Tours (4th-century bishop, patron saint of France) and as a royal residence under the Valois kings in the 15th and 16th centuries. Joan of Arc was given her sword at the basilique here in 1429. The half-timbered Vieux-Tours around Place Plumereau preserves the merchant city of the late Middle Ages; the 19th-century Boulevard Béranger and the elegant Prébendes d'Oé district reflect the Belle Époque expansion. With a population of around 136,000 (300,000 in the metropolitan area) and a strong university presence, Tours combines provincial calm with the cultural infrastructure of a regional capital. The city's pet culture is remarkably mature: the Fil Bleu network accepts dogs of all sizes (rare in France), the municipality opened its first official aire d'ébats canins at Parc de Sainte-Radegonde in 2021, and every major Loire Valley chateau within a 60 km radius welcomes leashed dogs in their gardens.`,
+      fr: `Tours est la capitale historique de la Touraine, sur la rive sud de la Loire au confluent avec le Cher, et la porte d'entrée des châteaux du Val de Loire classé au Patrimoine mondial de l'UNESCO. Ses origines sont romaines (le Caesarodunum du Iᵉʳ siècle fondé par Auguste), mais la ville a pris sa forme médiévale comme centre de pèlerinage autour du tombeau de saint Martin de Tours (évêque du IVᵉ siècle, patron de la France) et comme résidence royale sous les Valois aux XVᵉ et XVIᵉ siècles. Jeanne d'Arc reçut son épée à la basilique en 1429. Le Vieux-Tours à colombages autour de la Place Plumereau préserve la ville marchande de la fin du Moyen Âge ; le Boulevard Béranger du XIXᵉ siècle et l'élégant quartier des Prébendes d'Oé reflètent l'expansion Belle Époque. Avec environ 136 000 habitants (300 000 dans la métropole) et une forte présence universitaire, Tours combine la quiétude provinciale et l'infrastructure culturelle d'une capitale régionale. La culture canine de la ville est remarquablement mûre : le réseau Fil Bleu accepte les chiens de toutes tailles (rare en France), la municipalité a ouvert sa première aire d'ébats canins officielle au Parc de Sainte-Radegonde en 2021, et chaque grand château du Val de Loire dans un rayon de 60 km accueille les chiens en laisse dans ses jardins.`,
+      es: `Tours es la capital histórica de la Touraine, en la orilla sur del Loira en su confluencia con el Cher, y la puerta de entrada a los castillos del Valle del Loira, Patrimonio Mundial de la UNESCO. Sus orígenes son romanos (el Caesarodunum del siglo I fundado por Augusto), pero la ciudad adoptó su forma medieval como centro de peregrinación en torno a la tumba de San Martín de Tours (obispo del siglo IV, patrón de Francia) y como residencia real bajo los Valois en los siglos XV y XVI. Juana de Arco recibió aquí su espada en la basílica en 1429. El Vieux-Tours con entramado de madera alrededor de la Place Plumereau preserva la ciudad mercantil del final de la Edad Media; el Boulevard Béranger del siglo XIX y el elegante barrio de Prébendes d'Oé reflejan la expansión Belle Époque. Con unos 136.000 habitantes (300.000 en la metrópoli) y una fuerte presencia universitaria, Tours combina la calma provincial con la infraestructura cultural de una capital regional. La cultura canina de la ciudad es notablemente madura: la red Fil Bleu admite perros de todos los tamaños (raro en Francia), el ayuntamiento abrió su primera aire d'ébats canins oficial en el Parc de Sainte-Radegonde en 2021, y cada gran castillo del Valle del Loira en un radio de 60 km acoge perros con correa en sus jardines.`,
+      pt: `Tours é a capital histórica da Touraine, na margem sul do Loire na sua confluência com o Cher, e a porta de entrada para os castelos do Vale do Loire classificados como Património Mundial da UNESCO. As suas origens são romanas (a Caesarodunum do século I fundada por Augusto), mas a cidade adotou a sua forma medieval como centro de peregrinação em torno do túmulo de São Martinho de Tours (bispo do século IV, padroeiro de França) e como residência real sob os Valois nos séculos XV e XVI. Joana d'Arc recebeu aqui a sua espada na basílica em 1429. O Vieux-Tours com casas de tabique em torno da Place Plumereau preserva a cidade mercantil do final da Idade Média; o Boulevard Béranger do século XIX e o elegante bairro de Prébendes d'Oé refletem a expansão Belle Époque. Com cerca de 136.000 habitantes (300.000 na metrópole) e uma forte presença universitária, Tours combina a calma provincial com a infraestrutura cultural de uma capital regional. A cultura canina da cidade é notavelmente madura: a rede Fil Bleu aceita cães de todos os tamanhos (raro em França), o município abriu a sua primeira aire d'ébats canins oficial no Parc de Sainte-Radegonde em 2021, e cada grande castelo do Vale do Loire num raio de 60 km acolhe cães com trela nos seus jardins.`,
+    },
+    sights: [
+      {
+        name: 'Place Plumereau',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          en: `The iconic medieval square at the heart of the Vieux-Tours, ringed with half-timbered 15th-century houses converted to café-restaurants. The cobblestone pedestrian zone connects to Rue Colbert and Rue du Grand Marché, with leashed dogs welcome throughout and almost all terraces accepting them.`,
+          fr: `La place médiévale emblématique au cœur du Vieux-Tours, bordée de maisons à colombages du XVᵉ siècle converties en café-restaurants. La zone piétonne pavée se connecte à la Rue Colbert et à la Rue du Grand Marché, chiens en laisse bienvenus partout et presque toutes les terrasses les acceptent.`,
+          es: `La plaza medieval icónica en el corazón del Vieux-Tours, rodeada de casas con entramado de madera del siglo XV convertidas en café-restaurantes. La zona peatonal empedrada conecta con la Rue Colbert y la Rue du Grand Marché, con perros con correa bienvenidos en todo el recorrido y casi todas las terrazas los aceptan.`,
+          pt: `A praça medieval icónica no coração do Vieux-Tours, rodeada por casas com tabique do século XV convertidas em café-restaurantes. A zona pedonal empedrada conecta-se com a Rue Colbert e a Rue du Grand Marché, com cães com trela bem-vindos em todo o lado e quase todas as esplanadas a aceitá-los.`,
+        },
+      },
+      {
+        name: 'Cathédrale Saint-Gatien',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          en: `Tours' Gothic cathedral, built between the 13th and 16th centuries, with 13th-15th century stained glass that survived WWII bombing. The interior does not admit dogs (except registered assistance dogs), but the Place de la Cathédrale outside, the adjacent Psalette cloister, and the Jardin de Beaune-Semblançay behind welcome leashed dogs.`,
+          fr: `La cathédrale gothique de Tours, construite entre le XIIIᵉ et le XVIᵉ siècle, avec des vitraux du XIIIᵉ au XVᵉ siècle ayant survécu aux bombardements de la Seconde Guerre mondiale. L'intérieur n'admet pas les chiens (sauf assistance enregistrée), mais la Place de la Cathédrale, le cloître de la Psalette voisin et le Jardin de Beaune-Semblançay derrière accueillent les chiens en laisse.`,
+          es: `La catedral gótica de Tours, construida entre los siglos XIII y XVI, con vitrales de los siglos XIII al XV que sobrevivieron al bombardeo de la Segunda Guerra Mundial. El interior no admite perros (salvo asistencia registrada), pero la Place de la Cathédrale, el contiguo claustro de la Psalette y el Jardin de Beaune-Semblançay detrás acogen perros con correa.`,
+          pt: `A catedral gótica de Tours, construída entre os séculos XIII e XVI, com vitrais dos séculos XIII a XV que sobreviveram ao bombardeamento da Segunda Guerra Mundial. O interior não admite cães (salvo assistência registada), mas a Place de la Cathédrale, o claustro da Psalette adjacente e o Jardin de Beaune-Semblançay atrás acolhem cães com trela.`,
+        },
+      },
+      {
+        name: 'Parc de Sainte-Radegonde',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Tours' largest urban park, 14 hectares of wooded areas, lawns and play areas north of the Loire, home to the city's first official aire d'ébats canins (fenced off-leash dog play area) inaugurated on 3 October 2021. There is even a 1+ hectare llama enclosure near the tennis club.`,
+          fr: `Le plus grand parc urbain de Tours, 14 hectares de zones boisées, pelouses et aires de jeux au nord de la Loire, qui abrite la première aire d'ébats canins officielle de la ville (clôturée et sans laisse) inaugurée le 3 octobre 2021. Il y a même un enclos d'un hectare avec des lamas près du club de tennis.`,
+          es: `El mayor parque urbano de Tours, 14 hectáreas de zonas boscosas, praderas y zonas infantiles al norte del Loira, alberga la primera aire d'ébats canins oficial de la ciudad (vallada y sin correa) inaugurada el 3 de octubre de 2021. Hay incluso un cercado de más de una hectárea con llamas junto al club de tenis.`,
+          pt: `O maior parque urbano de Tours, 14 hectares de áreas arborizadas, prados e zonas de recreio a norte do Loire, abriga a primeira aire d'ébats canins oficial da cidade (vedada e sem trela) inaugurada a 3 de outubro de 2021. Há até um recinto com mais de um hectare com lamas junto ao clube de ténis.`,
+        },
+      },
+      {
+        name: 'Château de Villandry',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `Villandry's Renaissance gardens, 15 km west of Tours, are considered the finest in Europe — six terraced sections including the ornamental Renaissance kitchen garden. Leashed dogs welcome throughout the 9 hectares of gardens; small dogs in a bag or basket may also enter the chateau interior.`,
+          fr: `Les jardins Renaissance de Villandry, à 15 km à l'ouest de Tours, sont considérés comme les plus beaux d'Europe — six sections en terrasses dont le potager d'ornement Renaissance. Chiens en laisse bienvenus dans tous les 9 hectares de jardins ; les petits chiens en sac ou panier sont aussi admis à l'intérieur du château.`,
+          es: `Los jardines renacentistas de Villandry, 15 km al oeste de Tours, están considerados los mejores de Europa: seis secciones en terrazas que incluyen el huerto ornamental renacentista. Perros con correa bienvenidos en las 9 hectáreas de jardines; los perros pequeños en bolso o cesto también pueden entrar al interior del castillo.`,
+          pt: `Os jardins renascentistas de Villandry, a 15 km a oeste de Tours, são considerados os melhores da Europa — seis secções em socalcos incluindo a horta ornamental renascentista. Cães com trela bem-vindos nos 9 hectares de jardins; cães pequenos em saco ou cesto também podem entrar no interior do castelo.`,
+        },
+      },
+      {
+        name: 'Loire à Vélo',
+        emoji: '🚴',
+        petFriendly: true,
+        desc: {
+          en: `The 900 km regional cycle route along the Loire, which passes directly through Tours. The 8 km segment east toward Vouvray runs along the river bank under plane trees, fully dog-friendly for walking or cycling, finishing at the Vouvray wine domain terraces.`,
+          fr: `La piste cyclable régionale de 900 km le long de la Loire, qui traverse directement Tours. La section de 8 km vers l'est en direction de Vouvray longe la rive sous les platanes, entièrement dog-friendly pour la marche ou le vélo, et se termine sur les terrasses des domaines viticoles de Vouvray.`,
+          es: `La ruta ciclista regional de 900 km a lo largo del Loira, que atraviesa Tours directamente. El tramo de 8 km hacia el este en dirección a Vouvray bordea la orilla bajo plátanos, totalmente dog-friendly para caminar o pedalear, y termina en las terrazas de las bodegas de Vouvray.`,
+          pt: `A rota ciclável regional de 900 km ao longo do Loire, que atravessa diretamente Tours. O troço de 8 km para leste em direção a Vouvray segue a margem sob plátanos, totalmente pet-friendly para caminhar ou pedalar, terminando nas esplanadas dos domínios vinícolas de Vouvray.`,
+        },
+      },
+      {
+        name: 'Jardin des Prébendes d\'Oé',
+        emoji: '🌷',
+        petFriendly: true,
+        desc: {
+          en: `A 4-hectare 19th-century English-style park designed in 1872 by the Bühler brothers (also landscape architects of Parc de la Tête d'Or in Lyon), 7 minutes' walk from the train station. A stream, mature trees, lawns and flower beds in a refined Belle Époque setting. Leashed dogs welcome.`,
+          fr: `Un parc à l'anglaise de 4 hectares du XIXᵉ siècle conçu en 1872 par les frères Bühler (également paysagistes du Parc de la Tête d'Or à Lyon), à 7 minutes à pied de la gare. Un ruisseau, des arbres anciens, des pelouses et parterres dans un cadre Belle Époque raffiné. Chiens en laisse bienvenus.`,
+          es: `Un parque inglés de 4 hectáreas del siglo XIX diseñado en 1872 por los hermanos Bühler (también paisajistas del Parc de la Tête d'Or en Lyon), a 7 minutos a pie de la estación. Un arroyo, árboles maduros, praderas y parterres en un marco Belle Époque refinado. Perros con correa bienvenidos.`,
+          pt: `Um parque inglês de 4 hectares do século XIX desenhado em 1872 pelos irmãos Bühler (também paisagistas do Parc de la Tête d'Or em Lyon), a 7 minutos a pé da estação. Um ribeiro, árvores maduras, prados e canteiros num enquadramento Belle Époque refinado. Cães com trela bem-vindos.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `The Fil Bleu tram and bus network is unusually pet-friendly for France — small dogs in carriers travel on owner's lap, larger dogs travel leashed and muzzled for a passenger ticket (€1.60). Category 1 dogs (Pit Bull and similar) are prohibited.`,
+        `All four major Loire chateaux near Tours welcome dogs in their gardens: Villandry, Chenonceau, Amboise, Chambord. Only small dogs in a bag or basket may enter the interiors; large dogs are outdoor-only — pair the visit with a sitter if you want to see the interiors.`,
+        `Loire river bank tolerance for dog swimming is local custom, not official policy — best window mid-July to early September when the river is at its lowest. Avoid after heavy rain (May, October) when the current strengthens.`,
+        `Out-of-hours veterinary emergencies are covered by Urg&Vet in Rochecorbon (5 km east of Tours) every night 19:00–08:00 and all weekends/public holidays. Central daytime practices include TouraineVet and Clinique Tour Carrée; call the latter's ALVETIS line +33 2 47 40 10 30 after hours.`,
+        `Tours is on the TGV InOui line: Paris Montparnasse in 1h05 (small pets €7 in carrier, larger dogs half adult fare). Saint-Pierre-des-Corps station 5 km east handles most TGV traffic — the Fil Bleu shuttle accepts dogs for the connection.`,
+      ],
+      fr: [
+        `Le réseau tram et bus Fil Bleu est inhabituellement dog-friendly pour la France — les petits chiens en transportin voyagent sur les genoux du maître, les grands chiens voyagent en laisse et muselés pour un billet passager (1,60 €). Les chiens de catégorie 1 (Pit Bull et similaires) sont interdits.`,
+        `Tous les quatre grands châteaux de la Loire près de Tours accueillent les chiens dans leurs jardins : Villandry, Chenonceau, Amboise, Chambord. Seuls les petits chiens en sac ou panier sont admis à l'intérieur ; les grands chiens restent à l'extérieur — combinez la visite avec un petsitter si vous voulez voir les intérieurs.`,
+        `La tolérance des berges de la Loire pour la baignade canine est une coutume locale, pas une politique officielle — meilleure fenêtre de mi-juillet à début septembre quand le fleuve est à son plus bas. Évitez après une forte pluie (mai, octobre) quand le courant se renforce.`,
+        `Les urgences vétérinaires hors horaires sont couvertes par Urg&Vet à Rochecorbon (5 km à l'est de Tours) toutes les nuits 19h-8h et tous les week-ends/jours fériés. Cabinets centraux de jour : TouraineVet et Clinique Tour Carrée ; appelez la ligne ALVETIS de cette dernière au +33 2 47 40 10 30 hors horaires.`,
+        `Tours est sur la ligne TGV InOui : Paris Montparnasse en 1h05 (petits animaux 7 € en transportin, grands chiens demi-tarif adulte). Saint-Pierre-des-Corps à 5 km à l'est gère la plupart du trafic TGV — la navette Fil Bleu accepte les chiens pour la correspondance.`,
+      ],
+      es: [
+        `La red de tranvía y autobús Fil Bleu es inusualmente dog-friendly para Francia: los perros pequeños en transportín viajan sobre las rodillas del dueño, los más grandes viajan con correa y bozal con billete de pasajero (1,60 €). Los perros de categoría 1 (Pit Bull y similares) están prohibidos.`,
+        `Los cuatro grandes castillos del Loira cerca de Tours acogen perros en sus jardines: Villandry, Chenonceau, Amboise, Chambord. Solo los perros pequeños en bolso o cesto pueden entrar a los interiores; los perros grandes son solo exterior: combina la visita con un cuidador si quieres ver los interiores.`,
+        `La tolerancia de las orillas del Loira para el baño canino es costumbre local, no política oficial: la mejor ventana es de mediados de julio a principios de septiembre, cuando el río está más bajo. Evita tras lluvia fuerte (mayo, octubre), cuando la corriente se intensifica.`,
+        `Las urgencias veterinarias fuera de horario las cubre Urg&Vet en Rochecorbon (5 km al este de Tours) todas las noches 19:00-08:00 y todos los fines de semana/festivos. Consultas céntricas diurnas: TouraineVet y Clinique Tour Carrée; llama a la línea ALVETIS de esta última en +33 2 47 40 10 30 fuera de horario.`,
+        `Tours está en la línea TGV InOui: París Montparnasse en 1h05 (mascotas pequeñas 7 € en transportín, perros grandes a mitad de tarifa adulta). Saint-Pierre-des-Corps, 5 km al este, gestiona la mayor parte del tráfico TGV: la lanzadera Fil Bleu admite perros para la conexión.`,
+      ],
+      pt: [
+        `A rede de elétrico e autocarro Fil Bleu é invulgarmente pet-friendly para França — cães pequenos em transportadora viajam ao colo do dono, cães maiores viajam com trela e açaime com um bilhete de passageiro (1,60 €). Cães de categoria 1 (Pit Bull e similares) são proibidos.`,
+        `Os quatro principais castelos do Loire perto de Tours acolhem cães nos seus jardins: Villandry, Chenonceau, Amboise, Chambord. Apenas cães pequenos em saco ou cesto podem entrar nos interiores; cães grandes ficam só no exterior — combina a visita com um cuidador se quiseres ver os interiores.`,
+        `A tolerância das margens do Loire para o banho canino é costume local, não política oficial — a melhor janela é de meados de julho a princípios de setembro, quando o rio está mais baixo. Evita após chuva forte (maio, outubro), quando a corrente se intensifica.`,
+        `As urgências veterinárias fora de horas são cobertas pela Urg&Vet em Rochecorbon (5 km a leste de Tours) todas as noites 19:00-08:00 e todos os fins de semana/feriados. Consultas centrais diurnas: TouraineVet e Clinique Tour Carrée; liga para a linha ALVETIS desta última em +33 2 47 40 10 30 fora de horas.`,
+        `Tours está na linha TGV InOui: Paris Montparnasse em 1h05 (animais pequenos 7 € em transportadora, cães grandes a meio bilhete adulto). Saint-Pierre-des-Corps a 5 km a leste gere a maior parte do tráfego TGV — a lançadeira Fil Bleu aceita cães para a ligação.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest airports: Tours Val de Loire (TUF) 10 min north of city (seasonal Ryanair); Paris Orly and CDG via TGV 1h05 (with cabin pets allowed on most carriers).`,
+        `Tours Gare central station handles regional TER trains; Saint-Pierre-des-Corps 5 km east handles the heavier TGV traffic. SNCF small pets €7 in carrier per journey; larger dogs leashed+muzzled at half adult fare.`,
+        `Tap water is potable across the city; the Vieux-Tours has public Wallace fountains usable for water bowls in summer.`,
+        `Carry waste bags everywhere — municipal fines for non-pickup are €68, enforced more strictly in the Vieux-Tours and along the Loire embankment.`,
+        `EU pet passport, microchip and rabies vaccination required. UK travellers since Brexit need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroports les plus proches : Tours Val de Loire (TUF) à 10 min au nord (Ryanair saisonnier) ; Paris Orly et CDG via TGV en 1h05 (animaux cabine admis sur la plupart des compagnies).`,
+        `La Gare de Tours centre gère les TER régionaux ; Saint-Pierre-des-Corps à 5 km à l'est gère le plus gros du trafic TGV. SNCF : petits animaux 7 € en transportin par trajet ; chiens plus grands laisse+muselière au demi-tarif adulte.`,
+        `L'eau du robinet est potable dans toute la ville ; le Vieux-Tours dispose de fontaines Wallace publiques utilisables pour remplir une gamelle en été.`,
+        `Emportez toujours des sacs — les amendes municipales pour non-ramassage sont de 68 €, plus strictement appliquées dans le Vieux-Tours et le long des berges de Loire.`,
+        `Passeport européen, puce et vaccination antirabique obligatoires. Les voyageurs britanniques depuis le Brexit doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuertos más cercanos: Tours Val de Loire (TUF) a 10 min al norte (Ryanair estacional); París Orly y CDG vía TGV en 1h05 (mascotas en cabina admitidas en la mayoría de aerolíneas).`,
+        `La Gare de Tours centro gestiona los TER regionales; Saint-Pierre-des-Corps a 5 km al este gestiona la mayor parte del tráfico TGV. SNCF: mascotas pequeñas 7 € en transportín por trayecto; perros más grandes con correa+bozal a mitad de tarifa adulta.`,
+        `El agua del grifo es potable en toda la ciudad; el Vieux-Tours cuenta con fuentes Wallace públicas utilizables para rellenar un cuenco en verano.`,
+        `Lleva siempre bolsas: las multas municipales por no recoger son de 68 €, aplicadas con más rigor en el Vieux-Tours y a lo largo de la orilla del Loira.`,
+        `Pasaporte europeo, microchip y vacuna antirrábica obligatorios. Los viajeros del Reino Unido desde el Brexit necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroportos mais próximos: Tours Val de Loire (TUF) a 10 min a norte (Ryanair sazonal); Paris Orly e CDG via TGV em 1h05 (animais em cabina admitidos na maioria das companhias).`,
+        `A Gare de Tours centro gere os TER regionais; Saint-Pierre-des-Corps a 5 km a leste gere a maior parte do tráfego TGV. SNCF: animais pequenos 7 € em transportadora por viagem; cães maiores com trela+açaime a meio bilhete adulto.`,
+        `A água da torneira é potável em toda a cidade; o Vieux-Tours tem fontes Wallace públicas utilizáveis para encher uma tigela no verão.`,
+        `Leva sempre sacos — as coimas municipais por não apanhar são de 68 €, aplicadas com mais rigor no Vieux-Tours e ao longo da margem do Loire.`,
+        `Passaporte europeu, microchip e vacina antirrábica obrigatórios. Viajantes do Reino Unido desde o Brexit precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   trieste: {
     history: {
       fr: `Trieste, capitale du Frioul-Vénétie Julienne et grand port adriatique des Habsbourg, fut pendant cinq siècles (1382-1918) le débouché maritime de l'empire austro-hongrois sur la Méditerranée. Marie-Thérèse d'Autriche fit construire au XVIIIe siècle le Borgo Teresiano, quartier en grille traversé par le Canal Grande, qui donna à la ville sa silhouette néo-classique encore intacte. Carrefour cosmopolite italien-slovène-juif-grec, elle accueillit James Joyce (qui y écrivit l'essentiel d'Ulysse), Italo Svevo et Umberto Saba. Aujourd'hui ville d'environ 200 000 habitants pour 22 000 chiens enregistrés, Trieste cumule Piazza Unità d'Italia (la plus grande place littorale d'Europe), le château habsbourgeois de Miramare, le plateau karstique calcaire pour les randonnées, et la Bau Beach de Barcola pour la baignade canine, le tout battu en hiver par la Bora, vent froid catabatique iconique.`,

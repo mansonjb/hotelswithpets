@@ -20288,6 +20288,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  zadar: {
+    history: {
+      en: `Zadar packs three thousand years of Mediterranean history onto a small Adriatic peninsula. The Liburnian Illyrians founded the town as Iadera; the Romans turned it into a colony with one of the largest forums on the eastern Adriatic, still visible at street level today. After 1409 it spent four centuries under the Venetian Republic, which gave it the massive bastioned walls (now UNESCO-listed as part of the Venetian Works of Defence) and the Land Gate of 1543. Heavily bombed in WWII, Zadar rebuilt and finally found its 21st-century identity when architect Nikola Bašić installed two pieces of public art at the western tip of the Old Town: the Sea Organ (2005), which produces music from waves and resonant pipes, and the Greeting to the Sun (2008), a 22 m LED solar disc embedded in the pavement that lights the seafront at night. The combination — Roman ruins, pre-Romanesque rotunda, Venetian walls, contemporary sound art — makes Zadar the Dalmatian coast's most distinctive city for a slow weekend with a dog.`,
+      fr: `Zadar concentre trois mille ans d'histoire méditerranéenne sur une petite péninsule adriatique. Les Illyriens liburniens fondèrent la cité sous le nom d'Iadera ; les Romains en firent une colonie dotée de l'un des plus grands forums de l'Adriatique orientale, encore visible au niveau de la rue. Après 1409 elle passa quatre siècles sous la République de Venise, qui lui donna ses imposants remparts bastionnés (classés UNESCO comme partie des Ouvrages de défense vénitiens) et la Porte de Terre de 1543. Lourdement bombardée pendant la Seconde Guerre mondiale, Zadar s'est reconstruite et a enfin trouvé son identité du XXIᵉ siècle quand l'architecte Nikola Bašić a installé deux œuvres d'art public à la pointe ouest de la vieille ville : l'Orgue de la Mer (2005), qui produit de la musique à partir des vagues et de tuyaux résonants, et le Salut au Soleil (2008), un disque solaire LED de 22 m encastré dans le pavement qui illumine le front de mer la nuit. La combinaison — ruines romaines, rotonde pré-romane, remparts vénitiens, art sonore contemporain — fait de Zadar la ville la plus singulière de la côte dalmate pour un week-end tranquille avec un chien.`,
+      es: `Zadar concentra tres mil años de historia mediterránea en una pequeña península adriática. Los ilirios liburnos fundaron la ciudad como Iadera; los romanos la convirtieron en colonia con uno de los mayores foros del Adriático oriental, aún visible a pie de calle. Tras 1409 pasó cuatro siglos bajo la República de Venecia, que le dio las imponentes murallas abaluartadas (Patrimonio Mundial de la UNESCO como parte de las Obras Venecianas de Defensa) y la Puerta de Tierra de 1543. Muy bombardeada en la Segunda Guerra Mundial, Zadar se reconstruyó y encontró por fin su identidad del siglo XXI cuando el arquitecto Nikola Bašić instaló dos piezas de arte público en la punta occidental del casco antiguo: el Órgano del Mar (2005), que produce música a partir de las olas y tubos resonadores, y el Saludo al Sol (2008), un disco solar LED de 22 m embebido en el pavimento que ilumina el paseo marítimo de noche. La combinación —ruinas romanas, rotonda prerrománica, murallas venecianas, arte sonoro contemporáneo— hace de Zadar la ciudad más singular de la costa dálmata para un fin de semana pausado con un perro.`,
+      pt: `Zadar concentra três mil anos de história mediterrânica numa pequena península adriática. Os ilíricos libúrnios fundaram a cidade como Iadera; os romanos transformaram-na numa colónia com um dos maiores fóruns do Adriático oriental, ainda visível ao nível da rua. Depois de 1409 passou quatro séculos sob a República de Veneza, que lhe deu as imponentes muralhas abaluartadas (Património Mundial da UNESCO como parte das Obras Venezianas de Defesa) e a Porta de Terra de 1543. Muito bombardeada na Segunda Guerra Mundial, Zadar reconstruiu-se e encontrou finalmente a sua identidade do século XXI quando o arquiteto Nikola Bašić instalou duas obras de arte público na extremidade ocidental do centro histórico: o Órgão do Mar (2005), que produz música a partir das ondas e de tubos ressoantes, e a Saudação ao Sol (2008), um disco solar LED de 22 m embutido no pavimento que ilumina a marginal à noite. A combinação — ruínas romanas, rotunda pré-românica, muralhas venezianas, arte sonora contemporânea — faz de Zadar a cidade mais singular da costa dálmata para um fim de semana tranquilo com um cão.`,
+    },
+    sights: [
+      {
+        name: 'Sea Organ (Morske orgulje)',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          en: `Nikola Bašić's 2005 sound installation: 70 m of broad stone steps descending into the Adriatic, with 35 polyethylene pipes underneath that resonate as waves push air through them. The result is a continuous, never-repeating organ chord powered by the sea. Fully open-air and welcoming to leashed dogs.`,
+          fr: `L'installation sonore de Nikola Bašić (2005) : 70 m de larges marches de pierre descendant dans l'Adriatique, avec 35 tubes en polyéthylène en dessous qui résonnent quand les vagues y poussent l'air. Résultat : un accord d'orgue continu, jamais répétitif, alimenté par la mer. Entièrement en plein air et accueillant aux chiens en laisse.`,
+          es: `La instalación sonora de Nikola Bašić (2005): 70 m de amplias escaleras de piedra que descienden al Adriático, con 35 tubos de polietileno debajo que resuenan cuando las olas empujan aire a través de ellos. Resultado: un acorde de órgano continuo, nunca repetitivo, alimentado por el mar. Totalmente al aire libre y acogedora con perros con correa.`,
+          pt: `A instalação sonora de Nikola Bašić (2005): 70 m de amplos degraus de pedra que descem ao Adriático, com 35 tubos de polietileno por baixo que ressoam quando as ondas empurram ar através deles. Resultado: um acorde de órgão contínuo, nunca repetitivo, alimentado pelo mar. Totalmente ao ar livre e acolhedora para cães com trela.`,
+        },
+      },
+      {
+        name: 'Greeting to the Sun (Pozdrav Suncu)',
+        emoji: '☀️',
+        petFriendly: true,
+        desc: {
+          en: `A 22 m circular solar panel of 300 multi-layered glass plates set in the pavement next to the Sea Organ, also by Nikola Bašić (2008). By day a vibrant public space; at sunset and through the night, embedded LEDs cycle through a light show choreographed to the rhythm of the waves. The solid glass is paw-safe.`,
+          fr: `Un panneau solaire circulaire de 22 m fait de 300 plaques de verre multicouches encastrées dans le pavement à côté de l'Orgue de la Mer, également de Nikola Bašić (2008). Espace public vibrant le jour ; au coucher du soleil et la nuit, les LED encastrées dessous diffusent un spectacle lumineux chorégraphié sur le rythme des vagues. Le verre solide est sans danger pour les pattes.`,
+          es: `Un panel solar circular de 22 m de 300 placas de vidrio multicapa encastradas en el pavimento junto al Órgano del Mar, también de Nikola Bašić (2008). Espacio público vibrante de día; al atardecer y de noche, los LED embebidos debajo proyectan un espectáculo de luces coreografiado al ritmo de las olas. El vidrio macizo es seguro para las patas.`,
+          pt: `Um painel solar circular de 22 m feito de 300 placas de vidro multicamada embutidas no pavimento junto ao Órgão do Mar, também de Nikola Bašić (2008). Espaço público vibrante de dia; ao pôr do sol e durante a noite, os LED embutidos por baixo projetam um espetáculo de luzes coreografado ao ritmo das ondas. O vidro maciço é seguro para as patas.`,
+        },
+      },
+      {
+        name: 'Roman Forum & Church of St Donatus',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          en: `The 1st-century BCE Roman forum at the heart of the Old Town, still strewn with column drums and the medieval Pillar of Shame, is the largest of its kind on the eastern Adriatic. Directly on the forum rises the 9th-century circular Church of St Donatus, Croatia's largest pre-Romanesque structure. Forum and church exterior entirely dog-friendly on leash.`,
+          fr: `Le forum romain du Iᵉʳ siècle av. J.-C. au cœur de la vieille ville, encore parsemé de fûts de colonnes et de la colonne de la honte médiévale, est le plus grand de l'Adriatique orientale. Directement sur le forum s'élève l'église circulaire Saint-Donat du IXᵉ siècle, la plus grande structure pré-romane de Croatie. Forum et extérieur d'église entièrement dog-friendly en laisse.`,
+          es: `El foro romano del siglo I a.C. en el corazón del casco antiguo, aún sembrado de tambores de columnas y del Pilar de la Vergüenza medieval, es el mayor del Adriático oriental. Directamente sobre el foro se alza la iglesia circular de San Donato del siglo IX, la mayor estructura prerrománica de Croacia. Foro y exterior de la iglesia totalmente dog-friendly con correa.`,
+          pt: `O fórum romano do século I a.C. no coração do centro histórico, ainda salpicado de tambores de colunas e do Pilar da Vergonha medieval, é o maior do Adriático oriental. Diretamente sobre o fórum ergue-se a igreja circular de São Donato do século IX, a maior estrutura pré-românica da Croácia. Fórum e exterior da igreja totalmente pet-friendly com trela.`,
+        },
+      },
+      {
+        name: 'Park Vladimira Nazora',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Zadar's largest urban park, 5.5 hectares laid out 1888–1890 on the site of a 16th-century Venetian fortress, with winding gravel paths, century-old pines and cypresses, and a small pond. Known among locals as the main dog-walking ground; leashed dogs welcome throughout.`,
+          fr: `Le plus grand parc urbain de Zadar, 5,5 hectares aménagés en 1888-1890 sur le site d'une forteresse vénitienne du XVIe siècle, avec sentiers de gravier sinueux, pins et cyprès centenaires, et un petit étang. Réputé parmi les habitants comme principal terrain de promenade canine ; chiens en laisse bienvenus partout.`,
+          es: `El mayor parque urbano de Zadar, 5,5 hectáreas trazadas en 1888-1890 sobre el solar de una fortaleza veneciana del siglo XVI, con senderos de grava sinuosos, pinos y cipreses centenarios y un pequeño estanque. Reconocido entre los locales como el principal terreno de paseo canino; perros con correa bienvenidos en todo el parque.`,
+          pt: `O maior parque urbano de Zadar, 5,5 hectares projetados em 1888-1890 no local de uma fortaleza veneziana do século XVI, com trilhos de gravilha sinuosos, pinheiros e ciprestes centenários e um pequeno lago. Conhecido entre os locais como o principal local de passeio canino; cães com trela bem-vindos em todo o parque.`,
+        },
+      },
+      {
+        name: 'Riva',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `Zadar's continuous 2 km stone-paved seafront that loops the entire Old Town peninsula, from the ferry port to the Sea Organ. Traffic-free, broad sea views, plane trees and dozens of benches. Where locals walk their dogs at sunset year-round.`,
+          fr: `Le front de mer pavé continu de 2 km de Zadar qui longe toute la péninsule de la vieille ville, du port à l'Orgue de la Mer. Sans circulation, larges vues sur la mer, platanes et dizaines de bancs. C'est là que les habitants promènent leurs chiens au coucher du soleil toute l'année.`,
+          es: `El paseo marítimo empedrado continuo de 2 km de Zadar que rodea toda la península del casco antiguo, desde el puerto hasta el Órgano del Mar. Sin tráfico, amplias vistas al mar, plátanos y decenas de bancos. Donde los locales pasean a sus perros al atardecer todo el año.`,
+          pt: `A marginal empedrada contínua de 2 km de Zadar que contorna toda a península do centro histórico, do porto ao Órgão do Mar. Sem trânsito, amplas vistas para o mar, plátanos e dezenas de bancos. É onde os locais passeiam os cães ao pôr do sol durante todo o ano.`,
+        },
+      },
+      {
+        name: 'Kažin Dog Beach',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          en: `An officially designated, fenced dog beach (plaža za pse) over 100 m long near the Virski most (Vir bridge), 10 km north-east of Zadar. Gravel-and-pebble entry to shallow Adriatic water, parking on the access road. The best fully-equipped dog beach in the immediate Zadar area for summer swimming.`,
+          fr: `Une plage canine officiellement désignée et clôturée (plaža za pse) de plus de 100 m près du Virski most (pont de Vir), à 10 km au nord-est de Zadar. Entrée en gravier-galets vers une mer Adriatique peu profonde, parking sur la route d'accès. La meilleure plage canine entièrement équipée des environs immédiats de Zadar pour la baignade estivale.`,
+          es: `Una playa canina oficialmente designada y vallada (plaža za pse) de más de 100 m junto al Virski most (puente de Vir), a 10 km al noreste de Zadar. Entrada de grava y guijarros al mar Adriático poco profundo, aparcamiento en el camino de acceso. La mejor playa canina totalmente equipada del entorno inmediato de Zadar para nadar en verano.`,
+          pt: `Uma praia canina oficialmente designada e vedada (plaža za pse) com mais de 100 m de comprimento junto ao Virski most (ponte de Vir), 10 km a nordeste de Zadar. Entrada de gravilha e seixos para água adriática rasa, estacionamento no caminho de acesso. A melhor praia canina totalmente equipada da zona imediata de Zadar para nadar no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Liburnija city buses do NOT accept non-guide dogs — plan walking, taxis (Eko Taxi is the most pet-friendly operator, call ahead with 'imam psa') or rental cars. The Old Town peninsula is 1 km across and easily walkable.`,
+        `Croatian beach law bans dogs from public swimming beaches from 15 May to 15 September unless the beach is explicitly designated as 'plaža za pse'. The four official options near Zadar are Kažin/Vir, Borik south section, Privlaka and the Punta Bajlo islet.`,
+        `Croatia adopted the euro on 1 January 2023 — prices in older guidebooks in kuna are obsolete. Most places accept card; carry some cash for taxis and beach kiosks.`,
+        `Veterinarska Stanica Zadar has been the city's reference clinic since 1974, with a 24/7 emergency line at +385 98 33 94 00. For specialist care, Mustać runs an English-speaking dermatology and orthopaedics practice.`,
+        `Jadrolinija ferries from Gaženica port take leashed dogs free on deck — the Kornati national park and Dugi Otok make excellent dog-friendly island day trips from Zadar.`,
+      ],
+      fr: [
+        `Les bus urbains Liburnija N'ACCEPTENT PAS les chiens non guides — prévoyez la marche, les taxis (Eko Taxi est l'opérateur le plus dog-friendly, appelez à l'avance avec 'imam psa') ou la voiture de location. La péninsule de la vieille ville fait 1 km de large et se parcourt à pied.`,
+        `La loi croate sur les plages interdit les chiens sur les plages publiques du 15 mai au 15 septembre sauf si la plage est explicitement désignée 'plaža za pse'. Les quatre options officielles près de Zadar sont Kažin/Vir, la section sud de Borik, Privlaka et l'îlot de Punta Bajlo.`,
+        `La Croatie a adopté l'euro le 1ᵉʳ janvier 2023 — les prix en kuna des anciens guides sont obsolètes. La plupart des lieux acceptent la carte ; gardez un peu d'espèces pour les taxis et les kiosques de plage.`,
+        `La Veterinarska Stanica Zadar est la clinique de référence depuis 1974, avec une ligne urgences 24h/24 au +385 98 33 94 00. Pour les soins spécialisés, Mustać tient un cabinet anglophone de dermatologie et orthopédie.`,
+        `Les ferries Jadrolinija depuis le port de Gaženica prennent les chiens en laisse gratuitement sur le pont — le parc national des Kornati et l'île de Dugi Otok offrent d'excellentes excursions dog-friendly d'une journée depuis Zadar.`,
+      ],
+      es: [
+        `Los autobuses urbanos Liburnija NO admiten perros que no sean guía: planifica andar, taxis (Eko Taxi es el operador más dog-friendly, llama antes diciendo 'imam psa') o coche de alquiler. La península del casco antiguo tiene 1 km de extremo a extremo y se recorre a pie.`,
+        `La ley croata de playas prohíbe los perros en las playas públicas del 15 may al 15 sep salvo que la playa esté explícitamente designada como 'plaža za pse'. Las cuatro opciones oficiales cerca de Zadar son Kažin/Vir, la sección sur de Borik, Privlaka y el islote de Punta Bajlo.`,
+        `Croacia adoptó el euro el 1 de enero de 2023: los precios en kuna de las guías antiguas están obsoletos. La mayoría de los sitios aceptan tarjeta; lleva algo de efectivo para taxis y kioscos de playa.`,
+        `La Veterinarska Stanica Zadar es la clínica de referencia desde 1974, con línea de urgencias 24/7 en +385 98 33 94 00. Para atención especializada, Mustać dirige una consulta anglohablante de dermatología y ortopedia.`,
+        `Los ferris de Jadrolinija desde el puerto de Gaženica admiten perros con correa gratis en cubierta: el parque nacional de los Kornati y la isla de Dugi Otok ofrecen excelentes excursiones dog-friendly de un día desde Zadar.`,
+      ],
+      pt: [
+        `Os autocarros urbanos Liburnija NÃO aceitam cães exceto cães-guia — planeia caminhar, táxis (Eko Taxi é o operador mais pet-friendly, liga antes dizendo 'imam psa') ou carro de aluguer. A península do centro histórico tem 1 km de extremo a extremo e percorre-se a pé.`,
+        `A lei croata das praias proíbe cães nas praias públicas de 15 de maio a 15 de setembro a menos que a praia seja explicitamente designada 'plaža za pse'. As quatro opções oficiais perto de Zadar são Kažin/Vir, a secção sul de Borik, Privlaka e o ilhéu de Punta Bajlo.`,
+        `A Croácia adotou o euro a 1 de janeiro de 2023 — os preços em kuna dos guias antigos estão obsoletos. A maioria dos locais aceita cartão; leva algum dinheiro para táxis e quiosques de praia.`,
+        `A Veterinarska Stanica Zadar é a clínica de referência desde 1974, com linha de urgência 24/7 em +385 98 33 94 00. Para cuidados especializados, Mustać dirige uma prática de dermatologia e ortopedia que fala inglês.`,
+        `Os ferries Jadrolinija a partir do porto de Gaženica aceitam cães com trela grátis no convés — o parque nacional de Kornati e a ilha de Dugi Otok oferecem excelentes excursões pet-friendly de um dia a partir de Zadar.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Zadar Airport (ZAD) is 12 km south-east, with seasonal Ryanair, Eurowings, Croatia Airlines and easyJet routes. The €5 shuttle bus to the city takes 25 minutes.`,
+        `Mainline trains to Zagreb are slow (8–9 hours via Knin); long-distance buses are faster (3.5h Zadar–Zagreb, 4h Zadar–Split). Buses do not accept dogs except guide dogs — flying or driving is preferable with a pet.`,
+        `EU pet passport, microchip and rabies vaccination required; Croatia is in the EU since 2013 and Schengen since 2023, so no border checks coming from the EU.`,
+        `Carry waste bags everywhere — municipal fines for non-pickup are around €100 in Zadar; beach inspectors check for the EU pet passport in case of any incident.`,
+        `UK travellers need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel since Brexit; the older EU pet passport for UK dogs is no longer valid.`,
+      ],
+      fr: [
+        `L'aéroport de Zadar (ZAD) est à 12 km au sud-est, avec des liaisons saisonnières Ryanair, Eurowings, Croatia Airlines et easyJet. La navette à 5 € vers la ville prend 25 minutes.`,
+        `Les trains principaux vers Zagreb sont lents (8-9 h via Knin) ; les bus longue distance sont plus rapides (3h30 Zadar-Zagreb, 4h Zadar-Split). Les bus n'acceptent pas les chiens sauf chiens guides — l'avion ou la voiture sont préférables avec un animal.`,
+        `Passeport européen pour animaux, puce et vaccination antirabique obligatoires ; la Croatie est dans l'UE depuis 2013 et Schengen depuis 2023, donc aucun contrôle frontalier en provenance de l'UE.`,
+        `Emportez toujours des sacs — les amendes municipales pour non-ramassage sont d'environ 100 € à Zadar ; les contrôleurs de plage vérifient le passeport européen en cas d'incident.`,
+        `Les voyageurs britanniques doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage depuis le Brexit ; l'ancien passeport européen pour chien britannique n'est plus valable.`,
+      ],
+      es: [
+        `El aeropuerto de Zadar (ZAD) está a 12 km al sureste, con rutas estacionales de Ryanair, Eurowings, Croatia Airlines y easyJet. La lanzadera de 5 € a la ciudad tarda 25 minutos.`,
+        `Los trenes principales a Zagreb son lentos (8-9 h vía Knin); los autobuses de larga distancia son más rápidos (3h30 Zadar-Zagreb, 4h Zadar-Split). Los autobuses no admiten perros salvo perros guía: avión o coche son preferibles con mascota.`,
+        `Pasaporte europeo para animales, microchip y vacuna antirrábica obligatorios; Croacia está en la UE desde 2013 y en Schengen desde 2023, así que no hay controles fronterizos viniendo de la UE.`,
+        `Lleva siempre bolsas: las multas municipales por no recoger son de unos 100 € en Zadar; los inspectores de playa comprueban el pasaporte europeo en caso de incidente.`,
+        `Los viajeros del Reino Unido necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje desde el Brexit; el antiguo pasaporte europeo para perro británico ya no es válido.`,
+      ],
+      pt: [
+        `O aeroporto de Zadar (ZAD) fica a 12 km a sudeste, com rotas sazonais da Ryanair, Eurowings, Croatia Airlines e easyJet. A lançadeira de 5 € para a cidade demora 25 minutos.`,
+        `Os comboios principais para Zagreb são lentos (8-9 h via Knin); os autocarros de longa distância são mais rápidos (3h30 Zadar-Zagreb, 4h Zadar-Split). Os autocarros não aceitam cães exceto cães-guia — avião ou carro são preferíveis com animal.`,
+        `Passaporte europeu para animais, microchip e vacina antirrábica obrigatórios; a Croácia está na UE desde 2013 e em Schengen desde 2023, portanto sem controlos fronteiriços vindo da UE.`,
+        `Leva sempre sacos — as coimas municipais por não apanhar são cerca de 100 € em Zadar; os inspetores de praia verificam o passaporte europeu em caso de incidente.`,
+        `Viajantes do Reino Unido precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem desde o Brexit; o antigo passaporte europeu para cão britânico já não é válido.`,
+      ],
+    },
+  },
+
   zagreb: {
     history: {
       fr: `Zagreb est née de la fusion en 1850 de deux bourgs médiévaux distincts perchés sur des collines voisines : Kaptol, le siège ecclésiastique fortifié autour de la cathédrale, et Gradec (ou Gornji Grad), le bourg royal libre dont les remparts abritaient marchands et artisans. La frontière entre les deux passait par l'actuelle rue Tkalčićeva, jadis un torrent et aujourd'hui le couloir piéton et café le plus animé de la ville. Capitale de la Croatie depuis l'indépendance de 1991, Zagreb a conservé son urbanisme habsbourgeois, la « Lenuci horseshoe » de la Ville Basse aligne sept squares verts em fer à cheval, tout em se réinventant comme métropole détendue, marchable et étonnamment dog-friendly. Les chiens sont une présence quotidienne sur les terrasses, dans les transports publics et dans les quatre grands parcs urbains qui encerclent le centre.`,

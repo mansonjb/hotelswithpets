@@ -792,6 +792,30 @@
     "petPolicyPt": "Aparthotel Münzgasse welcomes cães e gatos em apartments por 25 EUR por animal por noite. Size limitations may apply, so confirm com o estabelecimento em reserva. tigelas para animais fornecido mediante pedido."
   },
   {
+    "id": "zadar-5",
+    "name": "Apartments Pegy Zadar",
+    "destinationSlug": "zadar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 350,
+    "priceFrom": 89,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/apartment-pegy.html",
+    "petFee": 7,
+    "petPolicy": "Apartments Pegy are recently renovated 3-star self-catering apartments near the Old Town, with full kitchens and parking. Pets of any size are accepted for a fee of approximately €7 per pet per night. Both dogs and cats are welcome. Pets should be leashed in common areas and not left unattended for long periods. The full kitchen is useful for travellers who want to prepare a dog meal from local market produce.",
+    "highlights": [
+      "Self-catering apartments",
+      "Full kitchen for dog meals",
+      "Walking distance to Old Town"
+    ],
+    "slug": "apartments-pegy-zadar"
+  },
+  {
     "id": "bath-2",
     "name": "Apex City of Bath Hotel",
     "destinationSlug": "bath",
@@ -967,6 +991,31 @@
     ],
     "slug": "art-hotel-commercianti-bologna",
     "petPolicyPt": "Art Hotel Commercianti welcomes cães de any size gratuitamente. Set em um 12th-century building next para Piazza Maggiore, this boutique hotel é ideal para exploring o porticoes com your animal."
+  },
+  {
+    "id": "zadar-4",
+    "name": "Art Villa Ines Zadar",
+    "destinationSlug": "zadar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 280,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/villa-inn-zadar.html",
+    "petFee": 15,
+    "petPolicy": "Art Villa Ines is a small art-themed seafront villa in the Diklo district north of central Zadar, with private rooms, garden access and a small pool. Pets are welcome for a fee of approximately €15 per pet per night. Both dogs and cats accepted. Pets are allowed in the rooms and garden but not in the breakfast area. Direct access to the sea and quiet residential walking streets make this a good base for dog travellers who want space.",
+    "highlights": [
+      "Oceanfront art villa with pool",
+      "Quiet residential walking streets",
+      "Small property, personal service"
+    ],
+    "slug": "art-villa-ines-zadar"
   },
   {
     "id": "salzburg-5",
@@ -2381,6 +2430,30 @@
     ],
     "slug": "boutique-design-hotel-volkshaus-basel",
     "petPolicyPt": "O Volkshaus Basel allows cães e gatos de any size para CHF 20 por animal por noite. Food e water bowls são placed sem quarto e o team often leaves um pequeno bed para canine hóspedes. Animais são bem-vindos no brasserie e o inner courtyard mas não no bar depois de 19:00. Exotic animais são não aceites."
+  },
+  {
+    "id": "zadar-3",
+    "name": "Boutique Hostel Forum",
+    "destinationSlug": "zadar",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.7,
+    "reviewCount": 2400,
+    "priceFrom": 65,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/boutique-hostel-forum.html",
+    "petFee": 10,
+    "petPolicy": "Boutique Hostel Forum sits directly on the Roman Forum in the heart of Zadar's Old Town, with private rooms and bunk dorms. Pets are allowed on request with a small fee of approximately €10 per night. Both dogs and cats are welcome. Pets must be on leash in common areas and not left unattended in rooms. The 24-hour reception and central location are ideal for visitors who want everything walkable with a dog.",
+    "highlights": [
+      "Directly on the Roman Forum",
+      "Budget rate from €65",
+      "24-hour reception"
+    ],
+    "slug": "boutique-hostel-forum-zadar"
   },
   {
     "id": "heidelberg-2",
@@ -4730,6 +4803,54 @@
     ],
     "slug": "fairmont-hotel-vier-jahreszeiten",
     "petPolicyPt": "Animais permitidos (cães e gatos) por 50 EUR por noite. Bowls, bed e bem-vindos treats fornecido. All sizes accepted com prior confirmation."
+  },
+  {
+    "id": "zadar-1",
+    "name": "Falkensteiner Hotel & Spa Iadera",
+    "destinationSlug": "zadar",
+    "categories": [
+      "dog-friendly",
+      "luxury-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 2200,
+    "priceFrom": 285,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/falkensteiner-spa-iadera.html",
+    "petFee": 45,
+    "petPolicy": "Falkensteiner Hotel & Spa Iadera is a 5-star adults-oriented resort on the Punta Skala peninsula, 12 km from central Zadar. Dogs are accepted on request with a fee of €45 per dog per day, with weight limits typically up to 25 kg. Cats are accepted only by prior agreement. Pets are not allowed in the main restaurants, spa or pool deck areas, but the seaside pine grove around the resort and the dog-tolerant Punta Skala promenade are ideal for walks. Please declare your pet at booking — only selected rooms allow pets.",
+    "highlights": [
+      "Seafront 5-star with spa",
+      "Pine grove around the resort",
+      "Selected pet-friendly rooms by request"
+    ],
+    "slug": "falkensteiner-hotel-spa-iadera"
+  },
+  {
+    "id": "zadar-2",
+    "name": "Falkensteiner Hotel Adriana – Adults Only",
+    "destinationSlug": "zadar",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1450,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/hr/hoteladrianaselect.html",
+    "petFee": 25,
+    "petPolicy": "Falkensteiner Hotel Adriana is an adults-only 4-star sister property to the Iadera on the Punta Skala peninsula. Dogs are welcome on request with a fee of approximately €25 per dog per day. Cats are not accepted. Pets are allowed in selected rooms and on the outdoor terrace, but not in the restaurant or pool area. The shared Punta Skala pine grove and seaside walking paths are excellent for the daily routine.",
+    "highlights": [
+      "Adults-only seaside setting",
+      "Punta Skala pine grove walks",
+      "Selected pet-friendly rooms"
+    ],
+    "slug": "falkensteiner-hotel-adriana-zadar"
   },
   {
     "id": "bratislava-3",

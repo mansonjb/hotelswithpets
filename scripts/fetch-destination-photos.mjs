@@ -34,6 +34,7 @@ const TARGETS = [
   { slug: 'rotterdam',     query: 'Erasmus Bridge Rotterdam waterfront' },
   { slug: 'bologna',       query: 'Piazza Maggiore Bologna' },
   { slug: 'bolzano',       query: 'Bolzano Italy Piazza Walther Dolomites panorama' },
+  { slug: 'zadar',         query: 'Zadar Croatia Sea Organ Greeting to the Sun sunset Adriatic Old Town' },
   { slug: 'cologne',       query: 'Cologne Cathedral Rhine river' },
   { slug: 'san-sebastian', query: 'La Concha beach San Sebastian' },
   { slug: 'toulouse',      query: 'Place du Capitole Toulouse' },

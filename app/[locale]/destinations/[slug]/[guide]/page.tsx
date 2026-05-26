@@ -9,6 +9,8 @@ import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
+import NearbyHotelCard from '@/components/NearbyHotelCard'
+import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -553,8 +555,17 @@ export default async function GuideDetailPage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
         {/* ── Intro ── */}
-        <div className="prose prose-lg max-w-none mb-12">
+        <div className="prose prose-lg max-w-none mb-8">
           <p className="text-gray-700 text-lg leading-relaxed">{intro}</p>
+        </div>
+
+        {/* ── Inline editorial hotel pick (above-the-fold conversion lever) ── */}
+        <div className="mb-12">
+          <NearbyHotelCard
+            destinationSlug={slug}
+            locale={locale}
+            variant="compact"
+          />
         </div>
 
         {/* ── Places list ── */}
@@ -916,6 +927,23 @@ export default async function GuideDetailPage({
           </section>
         )}
       </div>
+
+      {/* ── Mobile sticky CTA (appears after 30% scroll) ── */}
+      <StickyHotelCTA
+        href={allezHref}
+        label={
+          locale === 'fr' ? `Hôtels pet-friendly à ${dest.name}` :
+          locale === 'es' ? `Hoteles pet-friendly en ${dest.name}` :
+          locale === 'pt' ? `Hotéis pet-friendly em ${dest.name}` :
+          `Pet-friendly hotels in ${dest.name}`
+        }
+        cta={
+          locale === 'fr' ? 'Voir les hôtels' :
+          locale === 'es' ? 'Ver hoteles' :
+          locale === 'pt' ? 'Ver hotéis' :
+          'See hotels'
+        }
+      />
     </>
   )
 }

@@ -1805,6 +1805,32 @@
     "tiqetsId": "71986"
   },
   {
+    "slug": "bolzano",
+    "name": "Bolzano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bolzano.jpg",
+    "intro": "Bolzano is the bilingual gateway to the Dolomites — half-Italian, half-Tyrolean, with vineyard walks, an 1890s panoramic promenade and a 12-minute cable car to the cool Renon plateau, all dog-friendly.",
+    "lat": 46.4983,
+    "lng": 11.3548,
+    "weather": {
+      "jan": {"temp": 2, "desc": "Cold & sunny", "icon": "❄️"},
+      "feb": {"temp": 4, "desc": "Cold & crisp", "icon": "🌤️"},
+      "mar": {"temp": 9, "desc": "Cool & sunny", "icon": "🌤️"},
+      "apr": {"temp": 13, "desc": "Mild & pleasant", "icon": "⛅"},
+      "may": {"temp": 18, "desc": "Warm & sunny", "icon": "☀️"},
+      "jun": {"temp": 22, "desc": "Warm & sunny", "icon": "☀️"},
+      "jul": {"temp": 24, "desc": "Hot & dry", "icon": "☀️"},
+      "aug": {"temp": 24, "desc": "Hot & dry", "icon": "☀️"},
+      "sep": {"temp": 19, "desc": "Mild & sunny", "icon": "🌤️"},
+      "oct": {"temp": 14, "desc": "Cool & golden", "icon": "🍂"},
+      "nov": {"temp": 7, "desc": "Cool & damp", "icon": "🌦️"},
+      "dec": {"temp": 3, "desc": "Cold & sunny", "icon": "❄️"}
+    }
+  },
+  {
     "slug": "bonn",
     "name": "Bonn",
     "country": "Germany",

@@ -3208,6 +3208,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bolzano: {
+    history: {
+      en: `Bolzano (Bozen in German) sits at the confluence of the Adige and Isarco rivers in the heart of South Tyrol, the only officially trilingual province in Italy where Italian, German and Ladin coexist on every street sign. The city was contested between Italy and Austria for centuries; the German-speaking majority of the province only joined Italy in 1919 after the dissolution of the Habsburg Empire, and the bilingual culture remains visible everywhere — from the Tyrolean Gothic of Piazza delle Erbe to the Italian Rationalist architecture of the Victory Monument. Bolzano is also the gateway to the Dolomites UNESCO World Heritage site, with cable cars climbing straight from the city centre to the 1,200 m Renon plateau. Dogs have a comfortable place in this culture: the Talferwiesen meadows have been a Sunday strolling ground for generations, the historic Guncina and Sant'Osvaldo promenades date from the 1890s, and the bilingual signage 'Hunde an der Leine / cani al guinzaglio' captures the matter-of-fact attitude toward dogs that defines the place.`,
+      fr: `Bolzano (Bozen en allemand) se trouve au confluent de l'Adige et de l'Isarco, au cœur du Sud-Tyrol, seule province officiellement trilingue d'Italie où l'italien, l'allemand et le ladin coexistent sur chaque panneau. La ville fut disputée entre l'Italie et l'Autriche pendant des siècles ; la majorité germanophone de la province n'a rejoint l'Italie qu'en 1919 après la dissolution de l'Empire des Habsbourg, et la culture bilingue reste visible partout — du gothique tyrolien de la Piazza delle Erbe à l'architecture rationaliste italienne du Monument de la Victoire. Bolzano est aussi la porte des Dolomites classées au Patrimoine mondial de l'UNESCO, avec des téléphériques qui grimpent directement du centre-ville au plateau du Renon à 1 200 m. Les chiens y ont une place confortable : les prairies du Talvera sont un lieu de promenade dominical depuis des générations, les promenades historiques du Guncina et de Sant'Osvaldo datent des années 1890, et la signalétique bilingue 'Hunde an der Leine / cani al guinzaglio' résume l'attitude détendue envers les chiens qui définit la ville.`,
+      es: `Bolzano (Bozen en alemán) se sitúa en la confluencia del Adige y el Isarco, en el corazón del Tirol del Sur, la única provincia oficialmente trilingüe de Italia donde el italiano, el alemán y el ladino coexisten en cada cartel. La ciudad estuvo disputada entre Italia y Austria durante siglos; la mayoría germanófona de la provincia solo se unió a Italia en 1919 tras la disolución del Imperio Habsburgo, y la cultura bilingüe sigue visible por todas partes: del gótico tirolés de la Piazza delle Erbe a la arquitectura racionalista italiana del Monumento a la Victoria. Bolzano es también la puerta de los Dolomitas, Patrimonio Mundial de la UNESCO, con teleféricos que suben directamente del centro al altiplano del Renón a 1.200 m. Los perros tienen un lugar cómodo en esta cultura: los prados del Talvera son un paseo dominical desde generaciones, los históricos paseos del Guncina y Sant'Osvaldo datan de los años 1890, y la señalización bilingüe 'Hunde an der Leine / cani al guinzaglio' resume la actitud distendida hacia los perros que define la ciudad.`,
+      pt: `Bolzano (Bozen em alemão) situa-se na confluência do Adige e do Isarco, no coração do Tirol do Sul, a única província oficialmente trilingue de Itália onde o italiano, o alemão e o ladino coexistem em cada placa. A cidade foi disputada entre Itália e Áustria durante séculos; a maioria de língua alemã da província só se uniu à Itália em 1919, após a dissolução do Império Habsburgo, e a cultura bilingue continua visível por toda a parte — do gótico tirolês da Piazza delle Erbe à arquitetura racionalista italiana do Monumento à Vitória. Bolzano é também a porta dos Dolomitas, Património Mundial da UNESCO, com teleféricos que sobem diretamente do centro até o planalto do Renon a 1.200 m. Os cães têm um lugar confortável nesta cultura: os prados do Talvera são um passeio dominical há gerações, as históricas alamedas do Guncina e Sant'Osvaldo datam dos anos 1890, e a sinalização bilingue 'Hunde an der Leine / cani al guinzaglio' resume a atitude descontraída em relação aos cães que define a cidade.`,
+    },
+    sights: [
+      {
+        name: 'Talferwiesen (Prati del Talvera)',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `The riverside meadows that form Bolzano's largest green space, hugging both banks of the Talvera between Druso bridge and Castel Roncolo. Mature plane trees, gravel paths, a fenced Hundezone enclosure near the Druso bridge and direct access to the Lungotalvera walkway make this the city's daily dog meeting point.`,
+          fr: `Les prairies riveraines qui forment le plus grand espace vert de Bolzano, bordant les deux rives de la Talvera du pont Druso à Castel Roncolo. Platanes anciens, sentiers en gravier, Hundezone clôturée près du pont Druso et accès direct au cheminement du Lungotalvera en font le point de rencontre canin quotidien de la ville.`,
+          es: `Los prados ribereños que forman el mayor espacio verde de Bolzano, abrazando ambas orillas del Talvera entre el puente Druso y el Castel Roncolo. Plátanos maduros, senderos de grava, una Hundezone vallada junto al puente Druso y acceso directo al paseo del Lungotalvera lo convierten en el punto de encuentro canino diario de la ciudad.`,
+          pt: `Os prados ribeirinhos que formam o maior espaço verde de Bolzano, abraçando ambas as margens do Talvera entre a ponte Druso e o Castel Roncolo. Plátanos maduros, trilhos de gravilha, uma Hundezone vedada junto à ponte Druso e acesso direto ao passeio do Lungotalvera fazem deste o ponto de encontro canino diário da cidade.`,
+        },
+      },
+      {
+        name: 'Funivia del Renon (Rittner Seilbahn)',
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          en: `The 12-minute panoramic cable car from central Bolzano (260 m) to Oberbozen/Soprabolzano on the Renon plateau (1,221 m). Spacious cabins accept leashed dogs for €4 one way / €8 return per dog, with departures every four minutes. Once on top, the entire plateau opens into trails 18 °C cooler than the city in summer.`,
+          fr: `Le téléphérique panoramique de 12 minutes du centre de Bolzano (260 m) à Oberbozen/Soprabolzano sur le plateau du Renon (1 221 m). Cabines spacieuses acceptant les chiens en laisse pour 4 €/aller ou 8 €/aller-retour par chien, départs toutes les quatre minutes. Au sommet, tout le plateau s'ouvre sur des sentiers 18 °C plus frais que la ville en été.`,
+          es: `El teleférico panorámico de 12 minutos desde el centro de Bolzano (260 m) hasta Oberbozen/Soprabolzano en el altiplano del Renón (1.221 m). Cabinas espaciosas que admiten perros con correa por 4 €/ida u 8 €/ida y vuelta por perro, con salidas cada cuatro minutos. Arriba, todo el altiplano se abre en senderos 18 °C más frescos que la ciudad en verano.`,
+          pt: `O teleférico panorâmico de 12 minutos do centro de Bolzano (260 m) até Oberbozen/Soprabolzano no planalto do Renon (1.221 m). Cabines espaçosas que aceitam cães com trela por 4 €/ida ou 8 €/ida e volta por cão, com partidas a cada quatro minutos. No topo, todo o planalto abre-se em trilhos 18 °C mais frescos do que a cidade no verão.`,
+        },
+      },
+      {
+        name: 'Castel Roncolo (Schloss Runkelstein)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `The 'illustrated castle' perched on a rocky spur above the Talvera gorge, famous for the largest cycle of profane medieval frescoes in the Alpine world (c. 1390). Reached by the Lungotalvera footpath in 25 minutes from the centre, with leashed dogs welcome on the trail, terrace and grounds; small dogs in a carrier may enter the fresco rooms.`,
+          fr: `Le 'château illustré' perché sur un éperon rocheux au-dessus des gorges du Talvera, célèbre pour le plus grand cycle de fresques médiévales profanes du monde alpin (vers 1390). Accessible par le sentier du Lungotalvera en 25 minutes depuis le centre, chiens en laisse bienvenus sur le sentier, la terrasse et les bois ; petits chiens en transportin admis dans les salles aux fresques.`,
+          es: `El 'castillo ilustrado' encaramado en un espolón rocoso sobre el desfiladero del Talvera, famoso por el mayor ciclo de frescos medievales profanos del mundo alpino (c. 1390). Accesible por el sendero del Lungotalvera en 25 minutos desde el centro, con perros con correa bienvenidos en sendero, terraza y bosques; perros pequeños en transportín admitidos en las salas de frescos.`,
+          pt: `O 'castelo ilustrado' empoleirado num esporão rochoso sobre a garganta do Talvera, famoso pelo maior ciclo de frescos medievais profanos do mundo alpino (c. 1390). Acessível pelo trilho do Lungotalvera em 25 minutos a partir do centro, com cães com trela bem-vindos no trilho, esplanada e bosques; cães pequenos em transportadora admitidos nas salas dos frescos.`,
+        },
+      },
+      {
+        name: 'Passeggiata del Guncina',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `A historic 5 km panoramic promenade laid out in 1892, climbing gently from Gries through cypress, Mediterranean pine and exotic plantings to viewpoints over the Dolomites. Almost level grade, broad path, plenty of benches and water fountains — a classic Bolzano walk dogs love year-round, especially in winter sun.`,
+          fr: `Une promenade panoramique historique de 5 km tracée en 1892, qui grimpe doucement depuis Gries à travers cyprès, pins méditerranéens et plantations exotiques jusqu'à des points de vue sur les Dolomites. Pente quasi nulle, sentier large, nombreux bancs et fontaines — une promenade bolzanaise classique appréciée des chiens toute l'année, surtout au soleil d'hiver.`,
+          es: `Un paseo panorámico histórico de 5 km trazado en 1892, que sube suavemente desde Gries entre cipreses, pinos mediterráneos y plantaciones exóticas hasta miradores sobre los Dolomitas. Pendiente casi inexistente, sendero ancho, abundantes bancos y fuentes: un paseo bolzanés clásico apreciado por los perros todo el año, sobre todo al sol invernal.`,
+          pt: `Um passeio panorâmico histórico de 5 km traçado em 1892, que sobe suavemente desde Gries por entre ciprestes, pinheiros mediterrânicos e plantações exóticas até miradouros sobre os Dolomitas. Inclinação quase nula, caminho largo, muitos bancos e fontes — um passeio bolzaniano clássico apreciado pelos cães todo o ano, sobretudo ao sol de inverno.`,
+        },
+      },
+      {
+        name: 'Piazza delle Erbe (Obstmarkt)',
+        emoji: '🍎',
+        petFriendly: true,
+        desc: {
+          en: `The daily fruit and produce market in the heart of the Altstadt, running Mon–Sat 07:00–19:00. Leashed dogs are welcome to weave between the stalls, and the surrounding café terraces (Hopfen & Co, Stadtcafé) accept dogs on the outdoor seating. The fountain of Neptune at the western end is a useful water stop on a hot afternoon.`,
+          fr: `Le marché quotidien de fruits et légumes au cœur de l'Altstadt, ouvert du lundi au samedi de 7h à 19h. Les chiens en laisse peuvent se faufiler entre les étals, et les terrasses de café alentour (Hopfen & Co, Stadtcafé) acceptent les chiens à l'extérieur. La fontaine de Neptune à l'extrémité ouest est un point d'eau utile par après-midi chaud.`,
+          es: `El mercado diario de fruta y verdura en el corazón del Altstadt, abierto de lunes a sábado de 07:00 a 19:00. Los perros con correa son bienvenidos entre los puestos, y las terrazas de café alrededor (Hopfen & Co, Stadtcafé) aceptan perros en el exterior. La fuente de Neptuno en el extremo occidental es un práctico punto de agua en tardes calurosas.`,
+          pt: `O mercado diário de fruta e legumes no coração do Altstadt, aberto de segunda a sábado das 07:00 às 19:00. Cães com trela são bem-vindos a circular entre as bancas, e as esplanadas de café em redor (Hopfen & Co, Stadtcafé) aceitam cães no exterior. A fonte de Neptuno na extremidade ocidental é um prático ponto de água em tardes quentes.`,
+        },
+      },
+      {
+        name: 'Lake Caldaro Peace Trail',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          en: `The vineyard-fringed Peace Trail (Sentiero della Pace / Friedensweg) along Lake Caldaro, 15 km south of Bolzano. Leashed dogs are welcome on the entire shore path, though banned at the public swimming beaches for hygiene reasons. Reach it by SAD bus 130 in 35 minutes from Bolzano station (€1.50 dog ticket).`,
+          fr: `Le Sentier de la Paix (Friedensweg) longeant les vignobles du lac de Caldaro, à 15 km au sud de Bolzano. Les chiens en laisse sont bienvenus sur tout le chemin de rive, bien qu'interdits aux plages publiques pour raisons d'hygiène. Bus SAD 130 depuis la gare de Bolzano en 35 minutes (billet chien 1,50 €).`,
+          es: `El Sendero de la Paz (Friedensweg) que bordea los viñedos del lago de Caldaro, 15 km al sur de Bolzano. Los perros con correa son bienvenidos en todo el camino ribereño, aunque prohibidos en las playas públicas por higiene. Autobús SAD 130 desde la estación de Bolzano en 35 minutos (billete perro 1,50 €).`,
+          pt: `O Sentiero della Pace (Friedensweg) que ladeia as vinhas do lago de Caldaro, 15 km a sul de Bolzano. Cães com trela são bem-vindos em todo o caminho ribeirinho, embora proibidos nas praias públicas por razões de higiene. Autocarro SAD 130 desde a estação de Bolzano em 35 minutos (bilhete cão 1,50 €).`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Buy a Mobilcard or Südtirol Pass at the train station tabaccheria — it covers SASA buses, the Renon cable car and regional trains with dogs included, far cheaper than per-trip tickets over a 3-day stay.`,
+        `Italian national law requires owners to carry a muzzle and leash for any dog in public, even if not worn. Larger dogs travel muzzled and leashed on SASA buses; small dogs in a 70×30×50 cm carrier travel free.`,
+        `From 2026 Bolzano has proposed a tourist dog tax of approximately €1.50 per dog per night, collected with the accommodation tax. Confirm with your hotel at check-in.`,
+        `Test cobblestones with the back of your hand before walking the Altstadt in summer — if it's too hot to hold for 7 seconds, it will burn paws. Take the Renon cable car to escape into 18 °C cooler air on the plateau.`,
+        `Three 24/7 emergency vets serve Bolzano: Clinica Centro Storico (Via Dei Vanga 51/A, +39 0471 976158), VetBZ (Via Resia 20, +39 0471 204212) and Tierklinik Salten in San Genesio (+39 347 7037794). Carry the EU pet passport at all times.`,
+      ],
+      fr: [
+        `Achetez une Mobilcard ou un Südtirol Pass au tabac de la gare — il couvre les bus SASA, le téléphérique du Renon et les trains régionaux chien compris, bien plus économique que les billets unitaires sur un séjour de 3 jours.`,
+        `La loi italienne impose au propriétaire de toujours porter muselière et laisse pour tout chien en public, même non portées. Les grands chiens voyagent muselés et en laisse sur les bus SASA ; les petits chiens en transportin de 70×30×50 cm voyagent gratuitement.`,
+        `À partir de 2026, Bolzano a proposé une taxe touristique canine d'environ 1,50 € par chien et par nuit, perçue avec la taxe de séjour. À confirmer avec votre hôtel au check-in.`,
+        `Testez les pavés avec le dos de la main avant de marcher dans l'Altstadt en été — s'ils sont trop chauds pour 7 secondes, ils brûleront les pattes. Prenez le téléphérique du Renon pour gagner un air 18 °C plus frais sur le plateau.`,
+        `Trois cliniques d'urgence 24h/24 desservent Bolzano : Clinica Centro Storico (Via Dei Vanga 51/A, +39 0471 976158), VetBZ (Via Resia 20, +39 0471 204212) et Tierklinik Salten à San Genesio (+39 347 7037794). Gardez le passeport UE sur vous en permanence.`,
+      ],
+      es: [
+        `Compra una Mobilcard o un Südtirol Pass en el estanco de la estación: cubre los autobuses SASA, el teleférico del Renón y los trenes regionales con perro incluido, mucho más económico que los billetes sueltos en una estancia de 3 días.`,
+        `La ley italiana exige que el dueño lleve siempre bozal y correa para cualquier perro en público, aunque no los lleve puestos. Los perros grandes viajan con bozal y correa en los autobuses SASA; los perros pequeños en transportín de 70×30×50 cm viajan gratis.`,
+        `Desde 2026 Bolzano ha propuesto una tasa turística canina de aproximadamente 1,50 € por perro y noche, cobrada con la tasa de alojamiento. Confirma con tu hotel en el check-in.`,
+        `Comprueba el adoquinado con el dorso de la mano antes de pasear el Altstadt en verano: si está demasiado caliente para mantener 7 segundos, quemará las patas. Toma el teleférico del Renón para ganar un aire 18 °C más fresco en el altiplano.`,
+        `Tres clínicas de urgencias 24/7 sirven Bolzano: Clinica Centro Storico (Via Dei Vanga 51/A, +39 0471 976158), VetBZ (Via Resia 20, +39 0471 204212) y Tierklinik Salten en San Genesio (+39 347 7037794). Lleva el pasaporte UE siempre encima.`,
+      ],
+      pt: [
+        `Compra uma Mobilcard ou um Südtirol Pass na tabacaria da estação — cobre os autocarros SASA, o teleférico do Renon e os comboios regionais com cão incluído, muito mais económico do que bilhetes avulsos numa estadia de 3 dias.`,
+        `A lei italiana exige que o dono leve sempre açaime e trela para qualquer cão em público, mesmo que não estejam colocados. Cães grandes viajam com açaime e trela nos autocarros SASA; cães pequenos em transportadora de 70×30×50 cm viajam grátis.`,
+        `A partir de 2026, Bolzano propôs uma taxa turística canina de aproximadamente 1,50 € por cão e por noite, cobrada com a taxa de alojamento. Confirma com o teu hotel no check-in.`,
+        `Testa o calçamento com as costas da mão antes de passear no Altstadt no verão — se estiver demasiado quente para 7 segundos, queimará as patas. Apanha o teleférico do Renon para um ar 18 °C mais fresco no planalto.`,
+        `Três clínicas de urgência 24/7 servem Bolzano: Clinica Centro Storico (Via Dei Vanga 51/A, +39 0471 976158), VetBZ (Via Resia 20, +39 0471 204212) e Tierklinik Salten em San Genesio (+39 347 7037794). Leva o passaporte UE sempre contigo.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest international airports: Verona (VRN, 145 km south, ~90 min) and Innsbruck (INN, 115 km north, ~2 h). Bolzano-Dolomiti (BZO) has only limited regional service.`,
+        `Bolzano station sits on the Brenner railway, with regional Trenitalia and long-distance Frecciarossa/Railjet trains; small dogs in carrier free, larger dogs leashed+muzzled €5 regional or half-fare on Frecciarossa.`,
+        `Bolzano is officially bilingual Italian-German with Ladin as a third recognised language; staff in restaurants, hotels and vets typically speak both — English is widely understood in tourist areas.`,
+        `Bolzano's DNA-based dog waste tracking applies to resident dogs, but tourists are equally liable to €200–600 fines for failing to pick up waste; carry bags at all times.`,
+        `EU pet passport, microchip and rabies vaccination required. UK travellers since Brexit need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroports internationaux les plus proches : Vérone (VRN, 145 km au sud, ~90 min) et Innsbruck (INN, 115 km au nord, ~2 h). Bolzano-Dolomiti (BZO) n'a qu'un service régional limité.`,
+        `La gare de Bolzano est sur la ligne du Brenner, avec trains régionaux Trenitalia et longue distance Frecciarossa/Railjet ; petits chiens en transportin gratuits, grands chiens en laisse+muselière 5 € en régional ou demi-tarif sur Frecciarossa.`,
+        `Bolzano est officiellement bilingue italien-allemand avec le ladin comme troisième langue reconnue ; le personnel des restaurants, hôtels et vétérinaires parle généralement les deux — l'anglais est largement compris dans les zones touristiques.`,
+        `Le suivi des déjections canines par ADN à Bolzano s'applique aux chiens résidents, mais les touristes sont également passibles d'amendes de 200 à 600 € en cas de non-ramassage ; emportez toujours des sacs.`,
+        `Passeport européen pour animaux, puce et vaccination antirabique obligatoires. Les voyageurs britanniques depuis le Brexit doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuertos internacionales más cercanos: Verona (VRN, 145 km al sur, ~90 min) e Innsbruck (INN, 115 km al norte, ~2 h). Bolzano-Dolomiti (BZO) solo tiene servicio regional limitado.`,
+        `La estación de Bolzano está en la línea del Brennero, con trenes regionales Trenitalia y de larga distancia Frecciarossa/Railjet; perros pequeños en transportín gratis, perros grandes con correa+bozal 5 € en regional o mitad de precio en Frecciarossa.`,
+        `Bolzano es oficialmente bilingüe italiano-alemán con el ladino como tercera lengua reconocida; el personal de restaurantes, hoteles y veterinarios suele hablar ambos: el inglés se entiende ampliamente en zonas turísticas.`,
+        `El seguimiento por ADN de excrementos caninos en Bolzano se aplica a perros residentes, pero los turistas también se exponen a multas de 200-600 € por no recoger; lleva bolsas siempre.`,
+        `Pasaporte europeo para animales, microchip y vacuna antirrábica obligatorios. Los viajeros del Reino Unido desde el Brexit necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroportos internacionais mais próximos: Verona (VRN, 145 km a sul, ~90 min) e Innsbruck (INN, 115 km a norte, ~2 h). Bolzano-Dolomiti (BZO) tem apenas serviço regional limitado.`,
+        `A estação de Bolzano fica na linha do Brennero, com comboios regionais Trenitalia e de longa distância Frecciarossa/Railjet; cães pequenos em transportadora grátis, cães grandes com trela+açaime 5 € em regional ou meio bilhete no Frecciarossa.`,
+        `Bolzano é oficialmente bilingue italiano-alemão com o ladino como terceira língua reconhecida; o pessoal de restaurantes, hotéis e veterinários costuma falar ambos — o inglês é amplamente compreendido nas zonas turísticas.`,
+        `O rastreio por ADN dos dejetos caninos em Bolzano aplica-se aos cães residentes, mas os turistas estão igualmente sujeitos a coimas de 200-600 € por não apanharem; leva sacos sempre.`,
+        `Passaporte europeu para animais, microchip e vacina antirrábica obrigatórios. Viajantes do Reino Unido desde o Brexit precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   bordeaux: {
     history: {
       en: 'Bordeaux, the "sleeping beauty" famously woken by Alain Juppé\'s mayoral renovation in the 1990s, is now one of France\'s most liveable cities. Its UNESCO-listed 18th-century riverfront, its wine culture and its Atlantic-influenced climate draw over five million visitors a year. Dogs have always been part of Bordeaux life: the Girondins tradition of long Sunday walks along the Garonne, the wine estate (château) culture where working dogs guard the vines, and the outdoor café life of the Chartrons antiques district all make Bordeaux one of France\'s most dog-welcoming cities.',

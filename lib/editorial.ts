@@ -141,6 +141,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Giardini Margherita park, the porticoed San Luca trail (3.8 km), and the hills above the Bolognina district',
       area: 'the Quadrilatero food district, Santo Stefano, and the Via Zamboni university quarter',
     },
+    bolzano: {
+      personality: 'the bilingual Italian-Tyrolean gateway to the Dolomites, where vineyard promenades meet Alpine valleys and a 12-minute cable car lifts dogs from the warm Adige valley to the cool Renon plateau',
+      highlight: 'the Talferwiesen meadows along the Talvera river, the historic 5 km Guncina panoramic promenade above Gries, and the Renon plateau trails reached by cable car',
+      area: 'the porticoed Altstadt around Piazza Walther and Piazza delle Erbe, the leafy Gries quarter on the western slopes, and the Renon high country reached by cable car',
+    },
     bonn: {
       personality: 'Beethoven\'s birthplace and the post-war federal capital, a green, walkable Rhine city where dogs are welcome on the Markt terraces, the 160-hectare Rheinaue and the Siebengebirge hiking trails just across the river',
       highlight: 'the Rheinaue off-leash meadow, the 40 km² Kottenforst forest, and the Rheinufer promenade with ferry crossings to Beuel',
@@ -939,6 +944,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les Giardini Margherita, le sentier à portiques de San Luca (3,8 km) et les collines au-dessus du quartier de la Bolognina',
       area: 'le Quadrilatero gastronomique, Santo Stefano et le quartier universitaire de Via Zamboni',
     },
+    bolzano: {
+      personality: 'la porte bilingue italo-tyrolienne des Dolomites, où les promenades viticoles rencontrent les vallées alpines et où un téléphérique de 12 minutes hisse les chiens de la chaude vallée de l\'Adige au frais plateau du Renon',
+      highlight: 'les prés du Talvera (Talferwiesen) le long de la rivière, l\'historique promenade panoramique du Guncina (5 km) au-dessus de Gries, et les sentiers du plateau du Renon accessibles en téléphérique',
+      area: 'l\'Altstadt à arcades autour de la Piazza Walther et de la Piazza delle Erbe, le quartier verdoyant de Gries sur les pentes ouest, et le haut pays du Renon accessible en téléphérique',
+    },
     bonn: {
       personality: 'la ville natale de Beethoven et ancienne capitale fédérale d\'Allemagne de l\'Ouest, une cité rhénane verte et facile à parcourir où les chiens sont les bienvenus sur les terrasses du Markt, dans le parc Rheinaue de 160 hectares et sur les sentiers du Siebengebirge juste en face du fleuve',
       highlight: 'la prairie sans laisse du Rheinaue, la forêt du Kottenforst (40 km²) et la promenade du Rhin avec les bacs vers Beuel',
@@ -1736,6 +1746,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Giardini Margherita, el sendero con pórticos de San Luca (3,8 km) y las colinas sobre el barrio de la Bolognina',
       area: 'el Quadrilatero gastronómico, Santo Stefano y el barrio universitario de Via Zamboni',
     },
+    bolzano: {
+      personality: 'la puerta bilingüe italo-tirolesa a los Dolomitas, donde los paseos entre viñedos se cruzan con valles alpinos y un teleférico de 12 minutos eleva a los perros desde el cálido valle del Adige hasta el fresco altiplano del Renón',
+      highlight: 'los prados del Talvera (Talferwiesen) junto al río, el histórico paseo panorámico del Guncina (5 km) sobre Gries y los senderos del altiplano del Renón accesibles en teleférico',
+      area: 'el Altstadt porticado en torno a Piazza Walther y Piazza delle Erbe, el frondoso barrio de Gries en las laderas occidentales y el altiplano del Renón al que se llega en teleférico',
+    },
     bonn: {
       personality: 'la ciudad natal de Beethoven y antigua capital federal de la República Federal de Alemania, una urbe renana verde y caminable donde los perros son bienvenidos en las terrazas del Markt, en el parque Rheinaue de 160 hectáreas y en los senderos del Siebengebirge justo enfrente del río',
       highlight: 'la pradera sin correa del Rheinaue, el bosque del Kottenforst (40 km²) y el paseo del Rin con los ferries hasta Beuel',
@@ -2532,6 +2547,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade medieval italiana de pórticos e mercados gastronómicos que acoge aos cães en os seus cafés, praças e as colinas circundantes',
       highlight: 'os Giardini Margherita, o trilho com pórticos de San Luca (3,8 km) e as colinas sobre o bairro da Bolognina',
       area: 'o Quadrilatero gastronómico, Santo Stefano e o bairro universitario de Via Zamboni',
+    },
+    bolzano: {
+      personality: 'a porta bilingue ítalo-tirolesa para os Dolomitas, onde os passeios entre vinhas se cruzam com vales alpinos e um teleférico de 12 minutos leva os cães do quente vale do Adige até o fresco planalto do Renon',
+      highlight: 'os prados do Talvera (Talferwiesen) ao longo do rio, o histórico passeio panorâmico do Guncina (5 km) acima de Gries e os trilhos do planalto do Renon acessíveis em teleférico',
+      area: 'a Altstadt com pórticos em torno da Piazza Walther e da Piazza delle Erbe, o frondoso bairro de Gries nas encostas ocidentais e o planalto do Renon alcançado por teleférico',
     },
     bonn: {
       personality: 'a cidade natal de Beethoven e antiga capital federal da Alemanha Ocidental, uma urbe renana verde e caminhável onde os cães são bem-vindos nas esplanadas do Markt, no parque Rheinaue de 160 hectares e nos trilhos do Siebengebirge mesmo em frente do rio',

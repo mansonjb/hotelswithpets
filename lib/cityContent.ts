@@ -9519,6 +9519,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  hallstatt: {
+    history: {
+      en: `Hallstatt is one of the most photographed villages on Earth — a 750-resident UNESCO World Heritage Site pressed between the steep face of the Salzberg mountain and Lake Hallstatt in the heart of the Austrian Salzkammergut. The settlement is over 7,000 years old; the Hallstatt period of the European Iron Age (c. 800–450 BCE) is named after the salt mine that has been worked here continuously since prehistory, making it arguably the oldest still-operating industrial site in the world. The village's iconic compressed silhouette of pastel timber houses tiered against the cliff, the parish church spire reflected in the lake, and the dramatic mountain backdrop have made it a global symbol of Alpine Austria. UNESCO inscribed the entire Hallstatt-Dachstein Salzkammergut cultural landscape in 1997, and tourism has since exploded: 750 residents now receive up to 10,000 visitors a day in peak summer. Despite the crowds, Hallstatt remains a working village with daily life, school, church, post office and (yes) resident dogs walking the lakeside promenade at dawn and dusk.`,
+      fr: `Hallstatt est l'un des villages les plus photographiés au monde — site UNESCO de 750 habitants coincé entre la paroi abrupte du Salzberg et le lac de Hallstatt au cœur du Salzkammergut autrichien. L'habitat a plus de 7 000 ans ; la période de Hallstatt de l'âge du fer européen (vers 800-450 av. J.-C.) tient son nom de la mine de sel exploitée ici sans interruption depuis la préhistoire, ce qui en fait sans doute le plus ancien site industriel encore en activité au monde. La silhouette emblématique des maisons en bois pastel étagées contre la falaise, le clocher reflété dans le lac et l'arrière-plan dramatique de la montagne en ont fait un symbole mondial de l'Autriche alpine. L'UNESCO a classé l'ensemble du paysage culturel Hallstatt-Dachstein-Salzkammergut en 1997, et le tourisme a depuis explosé : 750 habitants accueillent désormais jusqu'à 10 000 visiteurs par jour en été. Malgré la foule, Hallstatt reste un village vivant avec école, église, bureau de poste, et oui, des chiens résidents qui parcourent la promenade du lac à l'aube et au crépuscule.`,
+      es: `Hallstatt es una de las aldeas más fotografiadas del mundo — un Patrimonio Mundial UNESCO de 750 habitantes encajado entre la pared abrupta del Salzberg y el lago Hallstatt en el corazón del Salzkammergut austriaco. El asentamiento tiene más de 7.000 años; el periodo de Hallstatt de la Edad del Hierro europea (c. 800-450 a. C.) toma su nombre de la mina de sal explotada aquí ininterrumpidamente desde la prehistoria, lo que la hace probablemente el sitio industrial en activo más antiguo del mundo. La icónica silueta comprimida de casas de madera pastel escalonadas contra el acantilado, el campanario reflejado en el lago y el telón de fondo de la montaña la han convertido en símbolo mundial de la Austria alpina. La UNESCO inscribió todo el paisaje cultural Hallstatt-Dachstein-Salzkammergut en 1997, y el turismo se ha disparado: 750 residentes reciben ahora hasta 10.000 visitantes diarios en pleno verano. Pese a la afluencia, Hallstatt sigue siendo un pueblo vivo con escuela, iglesia, oficina postal y, sí, perros residentes que recorren el paseo lacustre al amanecer y al atardecer.`,
+      pt: `Hallstatt é uma das aldeias mais fotografadas do mundo — um Património Mundial UNESCO de 750 habitantes encaixado entre a parede abrupta do Salzberg e o lago Hallstatt no coração do Salzkammergut austríaco. O povoamento tem mais de 7.000 anos; o período de Hallstatt da Idade do Ferro europeia (c. 800-450 a.C.) toma o seu nome da mina de sal explorada aqui sem interrupção desde a pré-história, o que faz dela provavelmente o mais antigo sítio industrial em atividade do mundo. A icónica silhueta comprimida de casas de madeira pastel escalonadas contra a falésia, o campanário refletido no lago e o fundo dramático da montanha tornaram-na símbolo mundial da Áustria alpina. A UNESCO inscreveu toda a paisagem cultural Hallstatt-Dachstein-Salzkammergut em 1997, e o turismo disparou: 750 residentes recebem agora até 10.000 visitantes por dia no pico do verão. Apesar da afluência, Hallstatt continua a ser uma aldeia viva com escola, igreja, posto, e sim, cães residentes que percorrem o passeio do lago ao amanhecer e ao anoitecer.`,
+    },
+    sights: [
+      {
+        name: 'Marktplatz & Lakeside Promenade',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          en: `The iconic central square and the 1 km timber-and-paved lakeside walkway that defines Hallstatt's postcard image. Leashed dogs are welcome throughout, café terraces accept dogs without fuss, and several gravel pockets between the boathouses let dogs paddle at the water's edge. Best enjoyed before 10:00 or after 18:00 to escape day-tripper crowds.`,
+          fr: `La place centrale emblématique et la promenade lacustre en bois et pavés de 1 km qui définissent l'image carte postale de Hallstatt. Les chiens en laisse sont bienvenus partout, les terrasses de café les acceptent sans façon et plusieurs criques de gravier entre les hangars à bateaux permettent aux chiens de patauger. À privilégier avant 10h ou après 18h pour échapper à la foule.`,
+          es: `La icónica plaza central y el paseo lacustre de madera y adoquines de 1 km que definen la imagen postal de Hallstatt. Los perros con correa son bienvenidos en todo el recorrido, las terrazas los aceptan sin problemas y varias calas de grava entre los embarcaderos permiten a los perros chapotear. Mejor antes de las 10:00 o después de las 18:00 para escapar de la multitud.`,
+          pt: `A icónica praça central e o passeio lacustre de madeira e calçada de 1 km que definem a imagem postal de Hallstatt. Cães com trela são bem-vindos em todo o trajeto, as esplanadas aceitam-nos sem problemas e várias enseadas de gravilha entre os barracões permitem que os cães chapinhem. Melhor antes das 10:00 ou depois das 18:00 para escapar à multidão.`,
+        },
+      },
+      {
+        name: 'Salzberg Funicular & Skywalk Welterbeblick',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          en: `The funicular from the village to the Salzberg plateau at 855 m, with leashed dogs travelling free. At the top, the cantilevered Skywalk Welterbeblick offers a 360° panorama of Hallstatt, the lake and the Dachstein massif. The Salzwelten salt mine itself BANS dogs, but the funicular, the Rudolfsturm restaurant terrace and the Skywalk are entirely dog-friendly.`,
+          fr: `Le funiculaire reliant le village au plateau du Salzberg à 855 m, chiens en laisse gratuits. Au sommet, la plateforme en porte-à-faux du Skywalk Welterbeblick offre un panorama à 360° sur Hallstatt, le lac et le massif du Dachstein. La mine de sel Salzwelten elle-même INTERDIT les chiens, mais le funiculaire, la terrasse du restaurant Rudolfsturm et le Skywalk sont entièrement dog-friendly.`,
+          es: `El funicular del pueblo al altiplano del Salzberg a 855 m, con perros con correa gratis. Arriba, la plataforma en voladizo del Skywalk Welterbeblick ofrece panorámica de 360° sobre Hallstatt, el lago y el macizo del Dachstein. La mina de sal Salzwelten en sí PROHÍBE perros, pero el funicular, la terraza del restaurante Rudolfsturm y el Skywalk son totalmente dog-friendly.`,
+          pt: `O funicular da aldeia ao planalto do Salzberg a 855 m, com cães com trela grátis. No topo, a plataforma em consola do Skywalk Welterbeblick oferece panorâmica de 360° sobre Hallstatt, o lago e o maciço do Dachstein. A mina de sal Salzwelten em si PROÍBE cães, mas o funicular, a esplanada do restaurante Rudolfsturm e o Skywalk são totalmente pet-friendly.`,
+        },
+      },
+      {
+        name: 'Dachstein Krippenstein & Five Fingers',
+        emoji: '🖐️',
+        petFriendly: true,
+        desc: {
+          en: `The Dachstein cable car from Obertraun climbs to the 2,109 m Krippenstein plateau in three stages, with leashed dogs admitted on all sections (€5 dog ticket return). At the top: the iconic Five Fingers viewing platform (free, dog-accessible), the Welterbespirale walking spiral, and access to the long Heilbronner Trail. Note: the Mammuthöhle ice cave at the middle station bans dogs.`,
+          fr: `Le téléphérique du Dachstein depuis Obertraun grimpe au plateau du Krippenstein à 2 109 m en trois tronçons, chiens en laisse acceptés partout (billet chien 5 € A/R). En haut : la plateforme iconique des Cinq Doigts (gratuite, dog-friendly), la Welterbespirale et l'accès au long sentier Heilbronner. Note : la grotte de glace Mammuthöhle à la station intermédiaire interdit les chiens.`,
+          es: `El teleférico del Dachstein desde Obertraun sube al altiplano del Krippenstein a 2.109 m en tres tramos, con perros con correa admitidos en todos (billete perro 5 € ida/vuelta). Arriba: la icónica plataforma Cinco Dedos (gratuita, dog-friendly), la Welterbespirale y acceso al sendero Heilbronner. Nota: la cueva de hielo Mammuthöhle en la estación intermedia prohíbe perros.`,
+          pt: `O teleférico do Dachstein a partir de Obertraun sobe ao planalto do Krippenstein a 2.109 m em três troços, com cães com trela admitidos em todos (bilhete cão 5 € ida/volta). No topo: a icónica plataforma Cinco Dedos (grátis, pet-friendly), a Welterbespirale e acesso ao trilho Heilbronner. Nota: a gruta de gelo Mammuthöhle na estação intermédia proíbe cães.`,
+        },
+      },
+      {
+        name: 'Echerntal Valley & Waldbachstrub',
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          en: `A gentle 6 km valley walk from the south end of Hallstatt village along the Waldbach stream, through meadows and beech forest to the dramatic Waldbachstrub waterfall at the foot of the Dachstein wall. Almost level grade, plenty of shade, multiple stream crossings for cool paw dips, and far less day-tripper traffic than the village. Ideal in a Hallstatt heatwave.`,
+          fr: `Une promenade vallonnée de 6 km depuis l'extrémité sud du village le long du ruisseau Waldbach, à travers prés et hêtraie jusqu'à la spectaculaire cascade du Waldbachstrub au pied de la muraille du Dachstein. Pente quasi nulle, ombre abondante, traversées de ruisseau pour tremper les pattes et trafic d'excursionnistes minimal. Idéal lors d'une vague de chaleur.`,
+          es: `Un sendero valle de 6 km desde el extremo sur del pueblo siguiendo el arroyo Waldbach por prados y hayedos hasta la espectacular caída del Waldbachstrub al pie del muro del Dachstein. Pendiente casi inexistente, abundante sombra, cruces de arroyo para mojar las patas y tráfico mínimo de excursionistas. Ideal en una ola de calor.`,
+          pt: `Um percurso de vale de 6 km desde o extremo sul da aldeia ao longo do ribeiro Waldbach, por prados e faiais até à espetacular queda do Waldbachstrub no sopé da muralha do Dachstein. Inclinação quase nula, sombra abundante, travessias de ribeiro para molhar as patas e tráfego mínimo de excursionistas. Ideal numa onda de calor.`,
+        },
+      },
+      {
+        name: 'Vorderer Gosausee Loop',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          en: `A 3.5 km nearly level loop trail around Vorderer Gosausee, 22 km west of Hallstatt, with the most iconic mirror-reflection view of the Dachstein glacier in the Salzkammergut. Wide gravel path suitable for older dogs, frequent water access and one of the few Salzkammergut lakes that explicitly allows dog swimming at its southern end.`,
+          fr: `Une boucle de 3,5 km quasi plate autour du Vorderer Gosausee, à 22 km à l'ouest de Hallstatt, avec la vue miroir la plus emblématique du glacier du Dachstein dans le Salzkammergut. Large sentier en gravier adapté aux chiens âgés, accès fréquents à l'eau et l'un des rares lacs du Salzkammergut à autoriser explicitement la baignade canine à son extrémité sud.`,
+          es: `Un circuito de 3,5 km casi llano alrededor del Vorderer Gosausee, 22 km al oeste de Hallstatt, con la vista de espejo más emblemática del glaciar del Dachstein en el Salzkammergut. Amplio sendero de grava apto para perros mayores, accesos frecuentes al agua y uno de los pocos lagos del Salzkammergut que permite expresamente el baño canino en su extremo sur.`,
+          pt: `Um circuito de 3,5 km quase plano em volta do Vorderer Gosausee, 22 km a oeste de Hallstatt, com a vista de espelho mais icónica do glaciar Dachstein no Salzkammergut. Trilho largo de gravilha adequado a cães idosos, acessos frequentes à água e um dos poucos lagos do Salzkammergut que permite explicitamente o banho de cães no seu extremo sul.`,
+        },
+      },
+      {
+        name: 'Charnel House (Beinhaus)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: `The 12th-century Catholic parish church St Michael, perched on the cliff above the village, contains the famous Beinhaus where 1,200 painted skulls are arranged. The church grounds and the cliffside footpath are dog-accessible on leash; the chapel interior asks dogs to wait outside. One of the calmest dog photo spots in the village even at peak hours.`,
+          fr: `L'église paroissiale catholique Saint-Michel du XIIᵉ siècle, perchée sur la falaise au-dessus du village, abrite le célèbre Beinhaus avec 1 200 crânes peints. L'enceinte de l'église et le sentier en falaise sont accessibles aux chiens en laisse ; l'intérieur de la chapelle demande aux chiens d'attendre dehors. L'un des spots photo canins les plus calmes du village même en heure de pointe.`,
+          es: `La iglesia parroquial católica de San Miguel del siglo XII, encaramada en el acantilado sobre el pueblo, alberga el famoso Beinhaus con 1.200 cráneos pintados. El recinto de la iglesia y el sendero por el acantilado son accesibles para perros con correa; el interior pide que los perros esperen fuera. Uno de los puntos fotográficos para perro más tranquilos incluso en hora punta.`,
+          pt: `A igreja paroquial católica de São Miguel do século XII, empoleirada na falésia sobre a aldeia, alberga o famoso Beinhaus com 1.200 crânios pintados. O recinto da igreja e o trilho pela falésia são acessíveis a cães com trela; o interior pede que os cães esperem fora. Um dos pontos fotográficos para cão mais calmos da aldeia mesmo em hora de ponta.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `The Salzwelten Hallstatt salt mine BANS dogs entirely (safety, hygiene, conservation). The funicular, Rudolfsturm restaurant and Skywalk Welterbeblick all accept leashed dogs free of charge. Plan accordingly — one partner can do the mine while the other enjoys the view.`,
+        `Visit before 10:00 or after 18:00, or come October–April. The summer crush of 10,000 day-trippers in a 750-resident village is genuinely overwhelming for anxious dogs. Staying overnight in the village transforms the experience.`,
+        `Austrian Maulkorbpflicht applies on all public transport (ÖBB trains, Postbus, Hallstatt lake boat): large dogs must wear basket muzzle AND leash; small dogs in a closed carrier are exempt. Buy a soft mesh muzzle before travelling.`,
+        `Lake Hallstatt's official Strandbad bans dogs in the bathing zone June–early September. The unfenced gravel shoreline immediately south of the lido is the unofficial dog beach. For guaranteed dog-swimming, head to Vorderer Gosausee's south end (22 km west).`,
+        `Hallstatt has no resident vet — closest practices are in Bad Goisern (10 km) and Bad Ischl (20 km). Save the regional 24/7 emergency line +43 6132 24222 in your phone before arriving; the village's boat-only access slows night transport.`,
+      ],
+      fr: [
+        `La mine de sel Salzwelten Hallstatt INTERDIT totalement les chiens (sécurité, hygiène, conservation). Le funiculaire, le restaurant Rudolfsturm et le Skywalk Welterbeblick acceptent tous les chiens en laisse gratuitement. Planifiez en conséquence — un partenaire fait la mine pendant que l'autre profite de la vue.`,
+        `Visitez avant 10h ou après 18h, ou venez d'octobre à avril. La cohue estivale de 10 000 excursionnistes par jour dans un village de 750 habitants est réellement éprouvante pour les chiens anxieux. Dormir sur place transforme l'expérience.`,
+        `La Maulkorbpflicht autrichienne s'applique sur tous les transports publics (trains ÖBB, Postbus, bateau de Hallstatt) : les grands chiens doivent porter muselière panier ET laisse ; les petits chiens en transportin fermé sont exemptés. Achetez une muselière mesh souple avant de partir.`,
+        `Le Strandbad officiel de Hallstatt interdit les chiens dans la zone de baignade de juin à début septembre. Le littoral de gravier non clôturé juste au sud du lido est la plage canine officieuse. Pour une baignade canine garantie, direction l'extrémité sud du Vorderer Gosausee (22 km à l'ouest).`,
+        `Hallstatt n'a pas de vétérinaire résident — cabinets les plus proches à Bad Goisern (10 km) et Bad Ischl (20 km). Enregistrez le numéro d'urgence régional 24h/24 +43 6132 24222 dans votre téléphone avant l'arrivée ; l'accès uniquement par bateau ralentit le transport nocturne.`,
+      ],
+      es: [
+        `La mina de sal Salzwelten Hallstatt PROHÍBE perros por completo (seguridad, higiene, conservación). El funicular, el restaurante Rudolfsturm y el Skywalk Welterbeblick aceptan perros con correa gratis. Planifica en consecuencia: un acompañante hace la mina mientras el otro disfruta de la vista.`,
+        `Visita antes de las 10:00 o después de las 18:00, o ven de octubre a abril. La avalancha veraniega de 10.000 excursionistas en un pueblo de 750 habitantes resulta abrumadora para perros ansiosos. Pernoctar transforma la experiencia.`,
+        `La Maulkorbpflicht austriaca rige en todo transporte público (trenes ÖBB, Postbus, barco de Hallstatt): los perros grandes deben llevar bozal de cesta Y correa; los pequeños en transportín cerrado quedan exentos. Compra un bozal de malla blanda antes de viajar.`,
+        `El Strandbad oficial de Hallstatt prohíbe perros en la zona de baño de junio a principios de septiembre. El litoral de grava sin vallar justo al sur del lido es la playa canina no oficial. Para baño canino garantizado, ve al extremo sur del Vorderer Gosausee (22 km al oeste).`,
+        `Hallstatt no tiene veterinario residente — consultas más cercanas en Bad Goisern (10 km) y Bad Ischl (20 km). Guarda la línea regional 24/7 +43 6132 24222 en tu móvil antes de llegar; el acceso solo en barco ralentiza el transporte nocturno.`,
+      ],
+      pt: [
+        `A mina de sal Salzwelten Hallstatt PROÍBE cães por completo (segurança, higiene, conservação). O funicular, o restaurante Rudolfsturm e o Skywalk Welterbeblick aceitam cães com trela grátis. Planeia em conformidade — um acompanhante faz a mina enquanto o outro desfruta da vista.`,
+        `Visita antes das 10:00 ou depois das 18:00, ou vem de outubro a abril. A avalanche estival de 10.000 excursionistas numa aldeia de 750 residentes é esmagadora para cães ansiosos. Pernoitar transforma a experiência.`,
+        `A Maulkorbpflicht austríaca aplica-se em todos os transportes públicos (comboios ÖBB, Postbus, barco de Hallstatt): cães grandes têm de usar açaime cesto E trela; cães pequenos em transportadora fechada estão isentos. Compra um açaime de malha macia antes da viagem.`,
+        `O Strandbad oficial de Hallstatt proíbe cães na zona de banho de junho a início de setembro. O litoral de gravilha sem vedação imediatamente a sul do lido é a praia canina não oficial. Para banho canino garantido, vai ao extremo sul do Vorderer Gosausee (22 km a oeste).`,
+        `Hallstatt não tem veterinário residente — consultórios mais próximos em Bad Goisern (10 km) e Bad Ischl (20 km). Guarda a linha regional 24/7 +43 6132 24222 no telemóvel antes de chegar; o acesso só por barco atrasa o transporte nocturno.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest international airport: Salzburg (SZG, 80 km, ~90 min by car or ~3 h via Postbus 150 + ÖBB train + Hallstatt boat). Vienna (VIE) is 3.5 h by car or 4 h by ÖBB.`,
+        `Hallstatt Bahnhof sits on the OPPOSITE shore of the lake; arrivals take the synchronised boat 'Stefanie' (€4 one way, dog free) for the iconic first impression. Small dogs in carrier free on ÖBB; larger dogs leashed+muzzled at half-fare.`,
+        `Hallstatt is officially German-speaking; English is widely used in tourist-facing businesses (hotels, restaurants, shops). Vet and emergency services may operate in German first — keep a translation app handy.`,
+        `Non-resident cars are banned from the centre 10:00–17:00 May–October; park at Lahn P1 or P2 (€20/day) and walk. Local Postbus 542/543 from Bad Ischl runs hourly.`,
+        `EU pet passport, microchip and rabies vaccination required. UK travellers since Brexit need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroport international le plus proche : Salzbourg (SZG, 80 km, ~90 min en voiture ou ~3 h en Postbus 150 + train ÖBB + bateau Hallstatt). Vienne (VIE) est à 3h30 en voiture ou 4 h en ÖBB.`,
+        `Hallstatt Bahnhof est sur la rive OPPOSÉE du lac ; les arrivants prennent le bateau synchronisé 'Stefanie' (4 € l'aller, chien gratuit) pour la première impression iconique. Petits chiens en transportin gratuits sur ÖBB ; grands chiens en laisse+muselière demi-tarif.`,
+        `Hallstatt est officiellement germanophone ; l'anglais est largement pratiqué dans les commerces touristiques (hôtels, restaurants, boutiques). Les services vétérinaires et d'urgence peuvent fonctionner en allemand d'abord — gardez une app de traduction sous la main.`,
+        `Les voitures non-résidentes sont interdites dans le centre de 10h à 17h de mai à octobre ; garez-vous à Lahn P1 ou P2 (20 €/jour) et marchez. Le Postbus 542/543 depuis Bad Ischl fonctionne toutes les heures.`,
+        `Passeport européen pour animaux, puce et vaccination antirabique obligatoires. Les voyageurs britanniques depuis le Brexit doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuerto internacional más cercano: Salzburgo (SZG, 80 km, ~90 min en coche o ~3 h en Postbus 150 + tren ÖBB + barco Hallstatt). Viena (VIE) está a 3,5 h en coche o 4 h en ÖBB.`,
+        `Hallstatt Bahnhof está en la orilla OPUESTA del lago; los visitantes toman el barco sincronizado 'Stefanie' (4 € ida, perro gratis) para la primera impresión icónica. Perros pequeños en transportín gratis en ÖBB; grandes con correa+bozal medio billete.`,
+        `Hallstatt es oficialmente germanófona; el inglés se usa ampliamente en comercios turísticos (hoteles, restaurantes, tiendas). Los servicios veterinarios y de urgencia pueden operar primero en alemán — ten una app de traducción a mano.`,
+        `Los coches no residentes están prohibidos en el centro de 10:00 a 17:00 de mayo a octubre; aparca en Lahn P1 o P2 (20 €/día) y entra a pie. El Postbus 542/543 desde Bad Ischl pasa cada hora.`,
+        `Pasaporte europeo, microchip y vacuna antirrábica obligatorios. Los viajeros del Reino Unido desde el Brexit necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroporto internacional mais próximo: Salzburgo (SZG, 80 km, ~90 min de carro ou ~3 h em Postbus 150 + comboio ÖBB + barco Hallstatt). Viena (VIE) fica a 3,5 h de carro ou 4 h em ÖBB.`,
+        `Hallstatt Bahnhof situa-se na margem OPOSTA do lago; os visitantes apanham o barco sincronizado 'Stefanie' (4 € ida, cão grátis) para a primeira impressão icónica. Cães pequenos em transportadora grátis na ÖBB; cães grandes com trela+açaime meio bilhete.`,
+        `Hallstatt é oficialmente germanófona; o inglês é amplamente usado em estabelecimentos turísticos (hotéis, restaurantes, lojas). Os serviços veterinários e de urgência podem operar primeiro em alemão — tem uma app de tradução à mão.`,
+        `Os carros não residentes estão proibidos no centro das 10:00 às 17:00 de maio a outubro; estaciona em Lahn P1 ou P2 (20 €/dia) e entra a pé. O Postbus 542/543 a partir de Bad Ischl passa de hora a hora.`,
+        `Passaporte europeu, microchip e vacina antirrábica obrigatórios. Viajantes do Reino Unido desde o Brexit precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   hamburg: {
     history: {
       fr: `Hambourg, fondée en 808 par Charlemagne comme poste avancé face aux Slaves de l'Est, est depuis mille ans une ville libre et hanséatique, son port, le deuxième d'Europe après Rotterdam, demeure le cœur d'une métropole de 1,9 million d'habitants. Ville-état à part entière au sein de l'Allemagne fédérale, Hambourg combine un centre d'affaires prospère avec un attachement viscéral à l'eau : plus de 2 500 ponts (davantage que Venise, Amsterdam et Londres réunies), le lac Alster em plein cœur urbain et 7 km de rives élégantes. Pour les propriétaires de chiens, Hambourg est une bénédiction : 14% de la surface em parcs et jardins, 56 Hundeauslaufzonen officielles réparties sur 104 quartiers, des plages de sable urbaines le long de l'Elbe, et une culture portuaire décontractée où chien et café font bon ménage. La Hamburg Hundegesetz impose la laisse em public hors zones désignées, mais les Hambourgeois l'appliquent avec le pragmatisme qui a forgé leur réputation hanséatique.`,

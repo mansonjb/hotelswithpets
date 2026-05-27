@@ -5187,6 +5187,30 @@
     "petPolicyPt": "GA Palace Hotel & Spa, um XIXth-Century Villa warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "hallstatt-5",
+    "name": "Gasthof Simony",
+    "destinationSlug": "hallstatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 1100,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/gasthof-simony.html",
+    "petFee": 10,
+    "petPolicy": "Gasthof Simony is a historic 16th-century Gasthof directly on the lake at the Marktplatz, with a wooden terrace built over the water. Pets accepted on prior request for approximately €10 per night, dogs and cats both welcome. One pet per room. The downstairs restaurant is among the most dog-friendly dining terraces in the Salzkammergut and the staff bring water bowls without asking.",
+    "highlights": [
+      "Lakeside terrace dining",
+      "16th-century building",
+      "On Marktplatz"
+    ],
+    "slug": "gasthof-simony-hallstatt"
+  },
+  {
     "id": "heraklion-1",
     "name": "GDM Megaron Historical Monument Hotel",
     "destinationSlug": "heraklion",
@@ -6290,6 +6314,30 @@
     ],
     "slug": "helvetiabristol-firenze-starhotels-collezione",
     "petPolicyPt": "Helvetia&Bristol Firenze – Starhotels Collezione warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "hallstatt-1",
+    "name": "Heritage Hotel Hallstatt",
+    "destinationSlug": "hallstatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 1850,
+    "priceFrom": 195,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/heritage-hallstatt.html",
+    "petFee": 20,
+    "petPolicy": "Heritage Hotel Hallstatt is a historic 4-star hotel spread across three landmark lakeside buildings in the heart of the UNESCO village. Pets are welcome on prior request with a fee of approximately €20 per pet per night. Dogs and cats accepted; one pet per room standard. The Marktplatz and the lake boat dock are 2 minutes on foot, and the property has direct access to the lake promenade for evening dog walks.",
+    "highlights": [
+      "Lakeside historic buildings",
+      "On Marktplatz",
+      "Walking distance to funicular"
+    ],
+    "slug": "heritage-hotel-hallstatt"
   },
   {
     "id": "bath-4",
@@ -9080,6 +9128,30 @@
       "Dedicated pet welcome amenities"
     ],
     "slug": "hotel-greif-bolzano"
+  },
+  {
+    "id": "hallstatt-3",
+    "name": "Hotel Grüner Anger",
+    "destinationSlug": "hallstatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 950,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/gruner-anger.html",
+    "petFee": 10,
+    "petPolicy": "Hotel Grüner Anger is a quiet family-run 3-star in the Lahn district at the south end of Hallstatt, with garden grounds away from the day-tripper crush. Dogs and cats accepted on prior request for €10 per night. The hotel sits at the trailhead of the Echerntal valley walk (a dog-friendly 6 km hike to the Waldbachstrub waterfall) and 5 minutes from the unofficial dog beach south of the lido.",
+    "highlights": [
+      "Echerntal trailhead",
+      "Quiet south end",
+      "Private garden"
+    ],
+    "slug": "hotel-gruner-anger"
   },
   {
     "id": "san-sebastian-3",
@@ -17825,6 +17897,30 @@
     "petPolicyPt": "Patria Palace Lecce, um five-star palazzo facing o Basilica di Santa Croce, welcomes animais em selected quarto categories. Um taxa animal de 20 € por noite applies. Up para two animais per quarto com um recommended máx. 25 kg por animal. Piazza Sant'Oronzo e Piazza Duomo within 3 min em foot. animais em lead em lobbies; não permitidos no restaurant."
   },
   {
+    "id": "hallstatt-4",
+    "name": "Pension Hallberg",
+    "destinationSlug": "hallstatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 780,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/pension-hallberg.html",
+    "petFee": 8,
+    "petPolicy": "Pension Hallberg is a small family pension on the lake promenade with hand-painted breakfast room and a Tibet shop on the ground floor. Pets accepted on prior request for €8 per night, both dogs and cats. One pet per room; please notify at booking. Directly on the lakeside promenade with seconds-away water access for a morning dog walk.",
+    "highlights": [
+      "Direct lake promenade",
+      "Family-run",
+      "Affordable rate"
+    ],
+    "slug": "pension-hallberg"
+  },
+  {
     "id": "leipzig-3",
     "name": "pentahotel Leipzig",
     "destinationSlug": "leipzig",
@@ -20338,6 +20434,30 @@
     ],
     "slug": "sea-containers-london",
     "petPolicyPt": "Sea Containers London charges £35 por estadia para animais (não por noite). South Bank boutique hotel com Thames views; cães receive um bem-vindos amenity."
+  },
+  {
+    "id": "hallstatt-2",
+    "name": "Seehotel Grüner Baum",
+    "destinationSlug": "hallstatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 1450,
+    "priceFrom": 165,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/seehotel-gruner-baum-hallstatt.html",
+    "petFee": 15,
+    "petPolicy": "Seehotel Grüner Baum, a family-run 4-star directly on the Marktplatz and the lakefront, welcomes pets on request for a fee of approximately €15 per night. Dogs and cats both accepted. The hotel's lakeside terrace restaurant accepts leashed dogs and is one of the most photogenic dining spots in Hallstatt. Two minutes from the boat dock; ten minutes on foot from the Salzberg funicular.",
+    "highlights": [
+      "Direct Marktplatz location",
+      "Lakefront terrace restaurant",
+      "Family-run since 1700s"
+    ],
+    "slug": "seehotel-gruner-baum"
   },
   {
     "id": "strasbourg-5",

@@ -142,6 +142,7 @@ const TARGETS = [
   { slug: 'caen', query: 'Caen Normandy France Castle William Conqueror Abbey aux Hommes panorama' },
   { slug: 'trieste', query: 'Trieste Italy Piazza Unita d Italia seafront Castello Miramare Habsburg Adriatic Friuli panorama sunset' },
   { slug: 'rennes', query: 'Rennes Brittany France Parlement de Bretagne half-timbered medieval centre Place des Lices Vilaine panorama sunset' },
+  { slug: 'hallstatt', query: 'Hallstatt Austria UNESCO lakeside village Salzkammergut Dachstein mountain reflection postcard panorama sunrise' },
 ]
 
 async function searchPhoto(query, apiKey) {

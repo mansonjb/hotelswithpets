@@ -5515,6 +5515,32 @@
     "tiqetsId": "60360"
   },
   {
+    "slug": "hallstatt",
+    "name": "Hallstatt",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/hallstatt.jpg",
+    "intro": "Hallstatt is the UNESCO World Heritage lakeside village of the Salzkammergut, a 750-resident Alpine icon where dogs walk the lake promenade, ride the funicular and the boat for free, and explore the dog-friendly Echerntal valley and Gosausee trails.",
+    "lat": 47.5622,
+    "lng": 13.6493,
+    "weather": {
+      "jan": {"temp": -1, "desc": "Cold & snowy", "icon": "❄️"},
+      "feb": {"temp": 0, "desc": "Cold & snowy", "icon": "❄️"},
+      "mar": {"temp": 4, "desc": "Cool & wet", "icon": "🌦️"},
+      "apr": {"temp": 8, "desc": "Mild & changeable", "icon": "🌦️"},
+      "may": {"temp": 13, "desc": "Mild & green", "icon": "⛅"},
+      "jun": {"temp": 16, "desc": "Warm & lush", "icon": "⛅"},
+      "jul": {"temp": 18, "desc": "Warm & sunny", "icon": "🌤️"},
+      "aug": {"temp": 18, "desc": "Warm & sunny", "icon": "🌤️"},
+      "sep": {"temp": 14, "desc": "Mild & golden", "icon": "🌤️"},
+      "oct": {"temp": 9, "desc": "Cool & misty", "icon": "🌫️"},
+      "nov": {"temp": 3, "desc": "Cold & damp", "icon": "🌧️"},
+      "dec": {"temp": 0, "desc": "Cold & snowy", "icon": "❄️"}
+    }
+  },
+  {
     "slug": "hamburg",
     "name": "Hamburg",
     "country": "Germany",

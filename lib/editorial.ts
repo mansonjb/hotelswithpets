@@ -391,6 +391,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Paseo de los Tristes below the Alhambra walls, the Albaicín UNESCO quarter, and the dog-friendly parks of the Arabial district',
       area: 'the Albaicín, the Realejo, and the historic centre around Plaza Nueva',
     },
+    hallstatt: {
+      personality: 'the UNESCO World Heritage lakeside village of the Salzkammergut, a 750-resident Alpine icon where dogs ride the lake boat free, take the Salzberg funicular up to the Skywalk Welterbeblick, and explore the Echerntal valley and dog-swim-friendly Gosausee',
+      highlight: 'the 1 km lakeside promenade, the Echerntal valley to the Waldbachstrub waterfall, and the Dachstein Krippenstein cable car to the Five Fingers viewpoint',
+      area: 'the Marktplatz UNESCO core, the Salzberg plateau above the village, and the Dachstein-Salzkammergut trails around Obertraun and Gosau',
+    },
     hamburg: {
       personality: 'Germany\'s greenest major city with 56 fenced Hundeauslaufzonen, a 7 km Alster lake walking loop, the famous Elbstrand urban beaches, and a harbour culture where dogs ride ferries and nap on café terraces',
       highlight: 'the Außenalster 7 km loop, the Elbstrand at Övelgönne, and the 205-hectare Altonaer Volkspark',
@@ -1204,6 +1209,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Paseo de los Tristes au pied des remparts de l\'Alhambra, le quartier UNESCO de l\'Albaicín et les parcs dog-friendly du quartier d\'Arabial',
       area: 'l\'Albaicín, le Realejo et le centre historique autour de la Plaza Nueva',
     },
+    hallstatt: {
+      personality: `le village UNESCO au bord du lac de Salzkammergut, icône alpine de 750 habitants où les chiens prennent gratuitement le bateau du lac, montent en funiculaire du Salzberg jusqu'au Skywalk Welterbeblick et explorent la vallée d'Echerntal et le Gosausee où la baignade canine est autorisée`,
+      highlight: `la promenade de 1 km au bord du lac, la vallée d'Echerntal jusqu'à la cascade du Waldbachstrub et le téléphérique du Dachstein Krippenstein jusqu'au belvédère des Cinq Doigts`,
+      area: `le cœur UNESCO de la Marktplatz, le plateau du Salzberg au-dessus du village et les sentiers du Dachstein-Salzkammergut autour d'Obertraun et de Gosau`,
+    },
     hamburg: {
       personality: 'la grande ville la plus verte d\'Allemagne avec 56 Hundeauslaufzonen clôturées, une boucle de 7 km autour du lac Alster, les célèbres plages urbaines de l\'Elbstrand, et une culture portuaire où les chiens prennent les ferries et dorment sur les terrasses des cafés',
       highlight: 'la boucle de 7 km autour de l\'Außenalster, l\'Elbstrand à Övelgönne et l\'Altonaer Volkspark de 205 hectares',
@@ -2016,6 +2026,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Paseo de los Tristes al pie de las murallas de la Alhambra, el barrio UNESCO del Albaicín y los parques dog-friendly del barrio de Arabial',
       area: 'el Albaicín, el Realejo y el centro histórico en torno a la Plaza Nueva',
     },
+    hallstatt: {
+      personality: `la aldea UNESCO a orillas del lago en el Salzkammergut, icono alpino de 750 habitantes donde los perros viajan gratis en el barco del lago, suben en el funicular del Salzberg hasta el Skywalk Welterbeblick y exploran el valle del Echerntal y el Gosausee donde se permite el baño canino`,
+      highlight: `el paseo lacustre de 1 km, el valle del Echerntal hasta la cascada del Waldbachstrub y el teleférico del Dachstein Krippenstein hasta el mirador Cinco Dedos`,
+      area: `el núcleo UNESCO de la Marktplatz, el altiplano del Salzberg sobre el pueblo y los senderos del Dachstein-Salzkammergut alrededor de Obertraun y Gosau`,
+    },
     hamburg: {
       personality: 'la gran ciudad más verde de Alemania con 56 Hundeauslaufzonen valladas, un circuito de 7 km alrededor del lago Alster, las famosas playas urbanas del Elbstrand, y una cultura portuaria donde los perros cogen ferris y duermen en las terrazas de los cafés',
       highlight: 'el circuito de 7 km alrededor del Außenalster, el Elbstrand en Övelgönne y el Altonaer Volkspark de 205 hectáreas',
@@ -2827,6 +2842,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade árabe mais atmosférica de Europa, onde a Alhambra vigila as callejuelas empedradas do Albaicín, a cultura da esplanada andaluza hace que os cães sean genuinamente bem-vindos e Sierra Nevada está a uma hora',
       highlight: 'o Passeio dos Tristes al pie das muralhas da Alhambra, o bairro UNESCO do Albaicín e os parques pet-friendly do bairro de Arabial',
       area: 'o Albaicín, o Realejo e o centro histórico en torno a a Praça Nueva',
+    },
+    hallstatt: {
+      personality: `a aldeia UNESCO à beira do lago no Salzkammergut, ícone alpino de 750 habitantes onde os cães viajam grátis no barco do lago, sobem no funicular do Salzberg até ao Skywalk Welterbeblick e exploram o vale do Echerntal e o Gosausee onde o banho de cães é permitido`,
+      highlight: `o passeio lacustre de 1 km, o vale do Echerntal até à cascata do Waldbachstrub e o teleférico do Dachstein Krippenstein até ao miradouro Cinco Dedos`,
+      area: `o núcleo UNESCO da Marktplatz, o planalto do Salzberg sobre a aldeia e os trilhos do Dachstein-Salzkammergut em redor de Obertraun e Gosau`,
     },
     hamburg: {
       personality: 'a gran cidade mais verde de Alemania com 56 Hundeauslaufzonen valladas, um circuito de 7 km alrededor do lago Alster, as famosas praias urbanas do Elbstrand, e uma cultura portuaria onde os cães cogen ferris e duermen nas esplanadas dos cafés',

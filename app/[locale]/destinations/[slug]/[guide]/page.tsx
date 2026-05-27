@@ -313,6 +313,69 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
   return loc(enVal ?? '', frVal, esVal, locale, ptVal)
 }
 
+/**
+ * Tip cards across city-guide JSONs reuse a small set of generic concept
+ * names (Currency & cost, Best season, Languages, etc.) that were never
+ * localized in the data layer. This dictionary translates the recurring
+ * ones to FR/ES/PT. Falls back to the EN name for one-off, city-specific
+ * tip titles (most of those are already proper nouns or local terms).
+ */
+const TIP_NAME_I18N: Record<string, { fr: string; es: string; pt: string }> = {
+  'Currency & cost': {
+    fr: 'Monnaie et budget',
+    es: 'Moneda y presupuesto',
+    pt: 'Moeda e custo',
+  },
+  'Best season': {
+    fr: 'Meilleure saison',
+    es: 'Mejor temporada',
+    pt: 'Melhor época',
+  },
+  Languages: {
+    fr: 'Langues',
+    es: 'Idiomas',
+    pt: 'Idiomas',
+  },
+  'Heat & paw safety': {
+    fr: 'Chaleur et coussinets',
+    es: 'Calor y almohadillas',
+    pt: 'Calor e almofadas',
+  },
+  'Post-Brexit UK travel paperwork': {
+    fr: 'Formalités post-Brexit pour le Royaume-Uni',
+    es: 'Trámites post-Brexit para Reino Unido',
+    pt: 'Formalidades pós-Brexit para o Reino Unido',
+  },
+  'UK pet-import paperwork (2026)': {
+    fr: `Formalités d'entrée d'animaux au Royaume-Uni (2026)`,
+    es: 'Trámites de entrada de mascotas al Reino Unido (2026)',
+    pt: 'Formalidades de entrada de animais no Reino Unido (2026)',
+  },
+  'Norwegian entry & tapeworm rules': {
+    fr: `Entrée en Norvège et règles de vermifuge contre l'echinococcose`,
+    es: 'Entrada en Noruega y normas de desparasitación',
+    pt: 'Entrada na Noruega e regras de desparasitação',
+  },
+  'Choose your neighbourhood carefully': {
+    fr: 'Choisissez bien votre quartier',
+    es: 'Elige bien tu barrio',
+    pt: 'Escolha bem o seu bairro',
+  },
+}
+
+function localizePlaceName(place: GuidePlace, locale: string): string {
+  // 1. JSON-level localized name wins
+  const p = place as unknown as Record<string, string | undefined>
+  if (locale === 'fr' && p.nameFr) return p.nameFr
+  if (locale === 'es' && p.nameEs) return p.nameEs
+  if (locale === 'pt' && p.namePt) return p.namePt
+  // 2. Fallback to dictionary for recurring generic concept tips
+  const dict = TIP_NAME_I18N[place.name]
+  if (dict && (locale === 'fr' || locale === 'es' || locale === 'pt')) return dict[locale]
+  // 3. Last fallback = original EN name
+  return place.name
+}
+
 // ─── UI label maps ────────────────────────────────────────────────────────────
 
 function uiLabels(locale: string) {
@@ -584,13 +647,20 @@ export default async function GuideDetailPage({
                 const admissionFee = getPlaceField(place, 'admissionFee', locale)
                 const serviceType = getPlaceField(place, 'serviceType', locale)
 
+                const localizedName = localizePlaceName(place, locale)
+                // Tip cards are concept entries (Currency & cost, Best season…), not real
+                // places — Google Places returns irrelevant brand logos for these queries
+                // (e.g. a Ria money-transfer logo for "Currency & cost"). Skip the photo
+                // header on the tips guide entirely.
+                const placePhoto = guide === 'tips' ? undefined : place.photo
+
                 return (
                   <article key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">
                     {/* Photo header */}
-                    {place.photo && (
+                    {placePhoto && (
                       <div className="relative h-52 overflow-hidden">
                         <Image
-                          src={place.photo}
+                          src={placePhoto}
                           alt={place.name}
                           fill
                           sizes="(max-width: 768px) 100vw, 800px"
@@ -616,7 +686,7 @@ export default async function GuideDetailPage({
                         </div>
                         {/* Name on photo bottom */}
                         <div className="absolute bottom-3 left-3 right-3">
-                          <h3 className="font-extrabold text-white text-xl leading-tight drop-shadow-sm">{place.name}</h3>
+                          <h3 className="font-extrabold text-white text-xl leading-tight drop-shadow-sm">{localizedName}</h3>
                           {(place.neighborhood || place.address) && (
                             <p className="text-white/80 text-xs mt-0.5">
                               {place.neighborhood}{place.neighborhood && place.address ? ' · ' : ''}{place.address}
@@ -628,14 +698,14 @@ export default async function GuideDetailPage({
 
                     <div className="p-6">
                       {/* Header when no photo */}
-                      {!place.photo && (
+                      {!placePhoto && (
                         <div className="flex items-start justify-between gap-4 mb-4">
                           <div>
                             <div className="flex items-center gap-2 mb-1">
                               <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center flex-shrink-0`}>
                                 {i + 1}
                               </span>
-                              <h3 className="font-bold text-gray-900 text-lg">{place.name}</h3>
+                              <h3 className="font-bold text-gray-900 text-lg">{localizedName}</h3>
                             </div>
                             {(place.address || place.neighborhood) && (
                               <p className="text-sm text-gray-400 ml-9">

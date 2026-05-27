@@ -1,6 +1,13 @@
 @import "tailwindcss";
 
+/* Force light mode site-wide. We're a public SEO content site (not an app
+   with a theme toggle), and the entire UI is built with hardcoded light-mode
+   colors (text-gray-900, bg-white, etc.). Honoring prefers-color-scheme:dark
+   produced dark-text-on-dark-bg on FAQ / tips / section titles in iOS Safari
+   dark mode. `color-scheme: light` also stops auto-darkening of form
+   controls and the system-coloured page background. */
 :root {
+  color-scheme: light;
   --background: #ffffff;
   --foreground: #171717;
 }
@@ -10,13 +17,6 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {

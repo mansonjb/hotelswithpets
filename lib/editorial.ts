@@ -832,6 +832,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the 27-hectare Parque Grande Labordeta, the fenced canine zone in Parque del Tío Jorge, and the riverside walks along the Riberas del Ebro`,
       area: `the Casco Histórico around El Pilar, the leafy Centro on Paseo de Sagasta, and the Magdalena tapas quarter`,
     },
+    zermatt: {
+      personality: 'the car-free Alpine resort village at the foot of the Matterhorn, where dogs ride the Sunnegga funicular and Gornergrat railway free or half-fare, swim at the Leisee dog beach, and walk the legendary Five Lakes route past the Stellisee reflection',
+      highlight: 'the Five Lakes Walk from Stellisee to Leisee, the Gornergrat railway to a 3,089 m dog-friendly panorama, and the Matter Vispa river path through the village',
+      area: 'the car-free village centre on Bahnhofstrasse, the Sunnegga-Blauherd plateau, and the Gornergrat and Schwarzsee ridges above the valley',
+    },
     zurich: {
       personality: 'a city that ranks among Europe\'s most dog-friendly. With dedicated dog zones on lake beaches, dog-friendly trams, and pet passports accepted everywhere',
       highlight: 'the Zürichsee lakefront, Uetliberg hill, and the Sihl river trails',
@@ -1648,6 +1653,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capitale de l'Aragon et cinquième ville d'Espagne, ancrée par la Basílica del Pilar sur l'Ebre et bâtie autour de 126 zones sans laisse désignées, l'un des réseaux dog-friendly les plus denses d'Espagne, plus l'hôpital de référence AniCura Emvet 24h/24`,
       highlight: `le Parque Grande Labordeta de 27 hectares, l'enclos canin du Parque del Tío Jorge et les promenades fluviales des Riberas del Ebro`,
       area: `le Casco Histórico autour d'El Pilar, le Centro arboré sur Paseo de Sagasta et le quartier à tapas Magdalena`,
+    },
+    zermatt: {
+      personality: `le village alpin sans voiture au pied du Cervin, où les chiens prennent gratuitement ou à demi-tarif le funiculaire du Sunnegga et le train du Gornergrat, se baignent à la plage canine du Leisee et parcourent la légendaire randonnée des Cinq Lacs jusqu'au reflet du Stellisee`,
+      highlight: `la randonnée des Cinq Lacs du Stellisee au Leisee, le train du Gornergrat pour un panorama dog-friendly à 3 089 m, et le sentier de la Matter Vispa à travers le village`,
+      area: `le centre piéton sur la Bahnhofstrasse, le plateau Sunnegga-Blauherd et les crêtes du Gornergrat et du Schwarzsee au-dessus de la vallée`,
     },
     zurich: {
       personality: 'une ville qui figure parmi les plus dog-friendly d\'Europe. Avec des zones dédiées aux chiens sur les plages, des tramways dog-friendly et les passeports pour animaux acceptés partout',
@@ -2466,6 +2476,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Parque Grande Labordeta de 27 hectáreas, la zona canina vallada del Parque del Tío Jorge y los paseos junto al río en las Riberas del Ebro`,
       area: `el Casco Histórico alrededor del Pilar, el frondoso Centro en el Paseo de Sagasta y el barrio de tapas de La Magdalena`,
     },
+    zermatt: {
+      personality: `el pueblo alpino sin coches al pie del Matterhorn, donde los perros viajan gratis o a medio billete en el funicular del Sunnegga y el tren del Gornergrat, se bañan en la playa canina del Leisee y recorren la legendaria caminata Cinco Lagos hasta el reflejo del Stellisee`,
+      highlight: `la caminata Cinco Lagos del Stellisee al Leisee, el tren del Gornergrat hacia un panorama dog-friendly a 3.089 m y el sendero del Matter Vispa por el pueblo`,
+      area: `el centro peatonal en Bahnhofstrasse, el altiplano Sunnegga-Blauherd y las crestas del Gornergrat y Schwarzsee sobre el valle`,
+    },
     zurich: {
       personality: 'una ciudad que figura entre las más dog-friendly de Europa. Con zonas dedicadas a perros en las playas, tranvías pet-friendly y pasaportes de mascotas aceptados en todas partes',
       highlight: 'el paseo lacustre del Zürichsee, la colina del Uetliberg y los senderos del río Sihl',
@@ -3282,6 +3297,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital de Aragón e quinta cidade de Espanha, anclada pela Basílica do Pilar a margens do Ebro e articulada alrededor de 126 zonas sem trela designadas, uma das redes de parques pet-friendly mais densas de Espanha, além disso do hospital de referencia AniCura Emvet 24/7`,
       highlight: `o Parque Grande Labordeta de 27 hectáreas, a zona canina vallada do Parque do Tío Jorge e os passeios junto al rio nas Riberas do Ebro`,
       area: `o Casco Histórico alrededor do Pilar, o frondoso Centro no Passeio de Sagasta e o bairro de tapas da Magdalena`,
+    },
+    zermatt: {
+      personality: `a aldeia alpina sem carros ao pé do Matterhorn, onde os cães viajam grátis ou com meio bilhete no funicular do Sunnegga e no comboio do Gornergrat, banham-se na praia canina do Leisee e percorrem a lendária caminhada dos Cinco Lagos até ao reflexo do Stellisee`,
+      highlight: `a caminhada dos Cinco Lagos do Stellisee ao Leisee, o comboio do Gornergrat para um panorama pet-friendly a 3.089 m e o trilho do Matter Vispa pela aldeia`,
+      area: `o centro pedonal na Bahnhofstrasse, o planalto Sunnegga-Blauherd e as cumeadas do Gornergrat e Schwarzsee acima do vale`,
     },
     zurich: {
       personality: 'uma cidade que figura entre as mais pet-friendly de Europa. Com zonas dedicadas a cães nas praias, elétricos pet-friendly e passaportes de animais aceites em todo o lado',

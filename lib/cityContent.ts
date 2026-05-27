@@ -20943,6 +20943,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  zermatt: {
+    history: {
+      en: `Zermatt sits at 1,608 m at the head of the Matter Valley in the Valais, at the foot of the Matterhorn — one of the most recognisable mountains on Earth. The village was a poor farming hamlet until 1865, when Edward Whymper's first ascent of the Matterhorn (and the fatal descent that followed) made it world-famous overnight, and the British and Continental mountaineering elite descended upon it. Today Zermatt has roughly 5,800 permanent residents and over 2 million visitors a year, with a unique car-free policy in place since 1947: only electric taxis, small electric carts and on-foot movement inside the village. The Matterhorn-Gotthard Bahn and the iconic Gornergratbahn cogwheel railway connect Zermatt to Visp and the high Gornergrat ridge. Dogs are an integral part of village life: hotels routinely accept pets, the Sunnegga funicular and most cable cars carry leashed dogs free or at half-fare, and the village's Tierarztpraxis Zermatt handles altitude- and trail-related issues unique to a high-Alpine destination. Swiss third-party dog liability insurance is mandatory for residents; visitors are strongly encouraged to carry travel cover that includes mountain rescue (the Rega 1414 service can airlift dogs alongside owners).`,
+      fr: `Zermatt se trouve à 1 608 m à la tête de la vallée du Cervin en Valais, au pied du Cervin — l'une des montagnes les plus reconnaissables au monde. Le village était un pauvre hameau agricole jusqu'en 1865, date à laquelle la première ascension du Cervin par Edward Whymper (et la descente fatale qui suivit) le rendit mondialement célèbre du jour au lendemain, attirant l'élite de l'alpinisme britannique et continental. Aujourd'hui, Zermatt compte environ 5 800 habitants permanents et plus de 2 millions de visiteurs par an, avec une politique unique sans voiture en vigueur depuis 1947 : seuls les taxis électriques, petites voiturettes électriques et le déplacement à pied sont autorisés dans le village. Le Matterhorn-Gotthard Bahn et l'iconique train à crémaillère du Gornergratbahn relient Zermatt à Viège et à la haute crête du Gornergrat. Les chiens font partie intégrante de la vie du village : les hôtels acceptent couramment les animaux, le funiculaire Sunnegga et la plupart des téléphériques transportent les chiens en laisse gratuitement ou à demi-tarif, et la Tierarztpraxis Zermatt gère les pathologies d'altitude et de sentier propres à une destination de haute altitude. L'assurance responsabilité civile pour chien est obligatoire pour les résidents suisses ; les visiteurs sont fortement encouragés à souscrire une assurance voyage incluant le secours en montagne (le service Rega 1414 peut héliporter un chien avec son maître).`,
+      es: `Zermatt se halla a 1.608 m en la cabecera del valle del Matterhorn en el Valais, al pie del Matterhorn, una de las montañas más reconocibles del mundo. El pueblo era una pobre aldea agrícola hasta 1865, cuando el primer ascenso del Matterhorn por Edward Whymper (y el descenso fatal subsiguiente) lo hizo mundialmente famoso de un día para otro, atrayendo a la élite del alpinismo británico y continental. Hoy Zermatt cuenta con unos 5.800 habitantes permanentes y más de 2 millones de visitantes anuales, con una política única sin coches vigente desde 1947: solo se permiten taxis eléctricos, pequeños carros eléctricos y desplazamiento a pie dentro del pueblo. El Matterhorn-Gotthard Bahn y el icónico tren cremallera del Gornergratbahn conectan Zermatt con Visp y la alta cresta del Gornergrat. Los perros son parte integral de la vida del pueblo: los hoteles aceptan habitualmente mascotas, el funicular del Sunnegga y la mayoría de teleféricos transportan perros con correa gratis o a medio billete, y la Tierarztpraxis Zermatt atiende patologías de altitud y senderismo propias de un destino alpino. El seguro de responsabilidad civil canina es obligatorio para residentes suizos; a los visitantes se les recomienda encarecidamente un seguro de viaje que incluya rescate en montaña (el servicio Rega 1414 puede helicoptar a un perro con su dueño).`,
+      pt: `Zermatt situa-se a 1.608 m na cabeceira do vale do Matterhorn no Valais, ao pé do Matterhorn — uma das montanhas mais reconhecíveis do mundo. A aldeia era um pobre povoado agrícola até 1865, quando a primeira ascensão do Matterhorn por Edward Whymper (e a descida fatal que se seguiu) a tornou mundialmente famosa de um dia para o outro, atraindo a elite do alpinismo britânico e continental. Hoje Zermatt tem cerca de 5.800 residentes permanentes e mais de 2 milhões de visitantes por ano, com uma política única sem carros em vigor desde 1947: apenas táxis elétricos, pequenos carrinhos elétricos e deslocação a pé são permitidos dentro da aldeia. O Matterhorn-Gotthard Bahn e o icónico comboio de cremalheira do Gornergratbahn ligam Zermatt a Visp e à alta crista do Gornergrat. Os cães são parte integral da vida da aldeia: os hotéis aceitam habitualmente animais, o funicular do Sunnegga e a maioria dos teleféricos transportam cães com trela grátis ou com meio bilhete, e a Tierarztpraxis Zermatt trata patologias de altitude e trilho próprias de um destino alpino. O seguro de responsabilidade civil canina é obrigatório para residentes suíços; aos visitantes recomenda-se fortemente um seguro de viagem que inclua resgate em montanha (o serviço Rega 1414 pode resgatar de helicóptero um cão com o dono).`,
+    },
+    sights: [
+      {
+        name: 'Matter Vispa Riverside Path',
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          en: `The glacier-fed Matter Vispa runs through the centre of Zermatt and a paved riverside path follows it from the south end of the village to the Sunnegga funicular base station, with constant Matterhorn views. Wide path, plenty of benches, several gravel pockets where dogs can dip paws. The classic morning walk for resident dogs.`,
+          fr: `La Matter Vispa d'origine glaciaire traverse le centre de Zermatt et un chemin pavé la longe de l'extrémité sud du village jusqu'à la station basse du funiculaire Sunnegga, avec vue continue sur le Cervin. Chemin large, nombreux bancs, plusieurs criques de gravier où les chiens peuvent tremper les pattes. La promenade matinale classique des chiens résidents.`,
+          es: `El Matter Vispa de origen glacial cruza el centro de Zermatt y un camino pavimentado lo sigue desde el extremo sur del pueblo hasta la estación baja del funicular Sunnegga, con vistas continuas al Matterhorn. Camino ancho, abundantes bancos, varias calas de grava donde los perros pueden mojar las patas. El paseo matutino clásico de los perros residentes.`,
+          pt: `O Matter Vispa de origem glaciar atravessa o centro de Zermatt e um caminho pavimentado segue-o do extremo sul da aldeia até à estação baixa do funicular Sunnegga, com vistas contínuas do Matterhorn. Caminho largo, abundantes bancos, várias enseadas de gravilha onde os cães podem molhar as patas. O passeio matinal clássico dos cães residentes.`,
+        },
+      },
+      {
+        name: 'Five Lakes Walk (Sunnegga–Leisee)',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          en: `The iconic Five Lakes Walk (9.3 km, 590 m descent) links Stellisee — the lake with the famous Matterhorn reflection — with Grindjisee, Grünsee, Moosjisee and Leisee, ending at the Sunnegga funicular. Entirely on marked Wanderweg trails, leashed dogs welcome throughout. Leisee at the end has a roped-off dog swim area.`,
+          fr: `L'iconique randonnée des Cinq Lacs (9,3 km, 590 m de descente) relie le Stellisee — lac aux reflets du Cervin — au Grindjisee, Grünsee, Moosjisee et Leisee, se terminant au funiculaire du Sunnegga. Entièrement sur Wanderweg balisé, chiens en laisse bienvenus partout. Le Leisee à l'arrivée a une zone de baignade canine délimitée.`,
+          es: `La icónica caminata de los Cinco Lagos (9,3 km, 590 m de descenso) une el Stellisee — el lago con el famoso reflejo del Matterhorn — con Grindjisee, Grünsee, Moosjisee y Leisee, terminando en el funicular del Sunnegga. Enteramente sobre Wanderweg señalizado, perros con correa bienvenidos. El Leisee al final tiene zona de baño canino acotada.`,
+          pt: `A icónica caminhada dos Cinco Lagos (9,3 km, 590 m de descida) liga o Stellisee — o lago com o famoso reflexo do Matterhorn — ao Grindjisee, Grünsee, Moosjisee e Leisee, terminando no funicular do Sunnegga. Totalmente em Wanderweg sinalizado, cães com trela bem-vindos. O Leisee no final tem zona de banho canino delimitada.`,
+        },
+      },
+      {
+        name: 'Gornergrat Railway & Ridge',
+        emoji: '🚞',
+        petFriendly: true,
+        desc: {
+          en: `The Gornergrat cogwheel railway climbs from Zermatt to 3,089 m in 33 minutes, with leashed dogs accepted at half-fare. At the top: a 360° panorama of 29 four-thousanders, the Gorner glacier and the Monte Rosa massif. The highest comfortable altitude for most dogs and the single best mountain panorama in the Matterhorn region.`,
+          fr: `Le train à crémaillère du Gornergrat grimpe de Zermatt à 3 089 m en 33 minutes, chiens en laisse acceptés à demi-tarif. Au sommet : panorama à 360° sur 29 quatre-mille, le glacier du Gorner et le massif du Mont Rose. La plus haute altitude confortable pour la plupart des chiens et le meilleur panorama montagneux de la région du Cervin.`,
+          es: `El tren cremallera del Gornergrat sube desde Zermatt a 3.089 m en 33 minutos, con perros con correa admitidos a medio billete. Arriba: panorámica de 360° sobre 29 cuatromiles, el glaciar del Gorner y el macizo del Monte Rosa. La altitud máxima cómoda para la mayoría de perros y la mejor panorámica de montaña de la región del Matterhorn.`,
+          pt: `O comboio de cremalheira do Gornergrat sobe de Zermatt a 3.089 m em 33 minutos, com cães com trela admitidos com meio bilhete. No topo: panorâmica de 360° sobre 29 quatro-mil, o glaciar do Gorner e o maciço do Monte Rosa. A altitude máxima confortável para a maioria dos cães e o melhor panorama de montanha da região do Matterhorn.`,
+        },
+      },
+      {
+        name: 'Hinterdorf (Old Wooden Hamlet)',
+        emoji: '🏠',
+        petFriendly: true,
+        desc: {
+          en: `Zermatt's preserved cluster of 16th–18th century timber granaries on staddle stones, the village's most photogenic non-mountain spot. Leashed dogs are welcome to wander among the lanes. Best photographed at sunrise (08:00) before tour groups arrive.`,
+          fr: `Le groupe préservé de greniers en bois sur pilotis des XVIᵉ-XVIIIᵉ siècles, le coin non-montagne le plus photogénique de Zermatt. Les chiens en laisse sont bienvenus parmi les ruelles. Mieux photographié au lever du soleil (8h) avant l'arrivée des groupes.`,
+          es: `El conjunto preservado de graneros de madera sobre pilotes del siglo XVI-XVIII, el rincón no montañoso más fotogénico de Zermatt. Los perros con correa son bienvenidos en las callejuelas. Mejor fotografiado al amanecer (08:00) antes de los grupos.`,
+          pt: `O conjunto preservado de celeiros de madeira sobre estacas dos séculos XVI-XVIII, o canto não-montanhoso mais fotogénico de Zermatt. Cães com trela são bem-vindos pelas ruelas. Melhor fotografado ao amanhecer (08:00) antes dos grupos.`,
+        },
+      },
+      {
+        name: 'Riffelsee Reflection Lake',
+        emoji: '🪞',
+        petFriendly: true,
+        desc: {
+          en: `A small high-altitude lake near the Rotenboden station of the Gornergrat railway, with another classic Matterhorn reflection. The 30-minute loop from Rotenboden is entirely leashed-dog friendly and offers the best reflection between 07:00 and 09:30 before the wind picks up.`,
+          fr: `Un petit lac d'altitude près de la station Rotenboden du train Gornergrat, avec un autre reflet classique du Cervin. La boucle de 30 minutes depuis Rotenboden est entièrement dog-friendly en laisse et offre le meilleur reflet entre 7h et 9h30 avant que le vent ne se lève.`,
+          es: `Un pequeño lago de altura cerca de la estación Rotenboden del tren Gornergrat, con otro reflejo clásico del Matterhorn. El circuito de 30 min desde Rotenboden es totalmente dog-friendly con correa y ofrece el mejor reflejo entre las 07:00 y las 09:30 antes de que suba el viento.`,
+          pt: `Um pequeno lago de altitude perto da estação Rotenboden do comboio Gornergrat, com outro reflexo clássico do Matterhorn. O circuito de 30 min a partir de Rotenboden é totalmente pet-friendly com trela e oferece o melhor reflexo entre as 07:00 e as 09:30 antes do vento subir.`,
+        },
+      },
+      {
+        name: 'Schwarzsee (Black Lake)',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          en: `A small dark glacial lake at 2,583 m directly beneath the Matterhorn's east face, reached by the Furi–Schwarzsee cable car (leashed dogs accepted). The surrounding alpine meadows and the dog-friendly Matterhorn Glacier Trail down to Furi (1.5 h descent) are among the best high-altitude walks in the Alps.`,
+          fr: `Un petit lac glaciaire sombre à 2 583 m directement sous la face est du Cervin, accessible par le téléphérique Furi-Schwarzsee (chiens en laisse acceptés). Les pâturages alpins alentour et le Matterhorn Glacier Trail dog-friendly de descente vers Furi (1h30) sont parmi les meilleures randos d'altitude des Alpes.`,
+          es: `Un pequeño lago glacial oscuro a 2.583 m directamente bajo la cara este del Matterhorn, accesible por el teleférico Furi–Schwarzsee (perros con correa admitidos). Los pastos alpinos alrededor y el Matterhorn Glacier Trail dog-friendly de bajada a Furi (1,5 h) están entre las mejores caminatas de altura de los Alpes.`,
+          pt: `Um pequeno lago glaciar escuro a 2.583 m diretamente sob a face leste do Matterhorn, acessível pelo teleférico Furi–Schwarzsee (cães com trela aceites). Os pastos alpinos em redor e o Matterhorn Glacier Trail pet-friendly de descida para Furi (1,5 h) estão entre as melhores caminhadas de altitude dos Alpes.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Zermatt is COMPLETELY car-free since 1947 — non-resident vehicles must park at Matterhorn Terminal Täsch (CHF 16/day) and take the 12-min shuttle train. The shuttle has open luggage areas perfect for large dogs.`,
+        `Altitude affects dogs from 2,500 m upward. Gornergrat (3,089 m) is the highest comfortable altitude for most dogs; Klein Matterhorn (3,883 m) is borderline. Brachycephalic breeds (pugs, bulldogs) should not exceed 2,500 m. Test at Gornergrat first.`,
+        `The Austrian-style Maulkorbpflicht does NOT apply in Switzerland, but SBB and Matterhorn Gotthard Bahn require large dogs to be leashed AND in a basket muzzle on board. Small dogs in carrier ride free; larger dogs leashed+muzzled at half-fare adult ticket.`,
+        `Glacial water in the Matter Vispa, Leisee, Stellisee and Riffelsee stays 4–12 °C even in August. Limit dog swimming to 5–10 min max and dry thoroughly afterwards. The Leisee has the only purpose-built dog swim zone above the village.`,
+        `Save Rega 1414 (Swiss air rescue, dogs included with members) and Valais vet emergency 0900 140 999. Zermatt's resident vet is Tierarztpraxis Zermatt at Spissstrasse 6 (+41 27 967 65 95). Mobile signal is solid in the village but spotty above 2,500 m.`,
+      ],
+      fr: [
+        `Zermatt est ENTIÈREMENT sans voiture depuis 1947 — les véhicules non-résidents doivent se garer au Matterhorn Terminal Täsch (16 CHF/jour) et prendre la navette ferroviaire de 12 min. La navette a des zones bagages ouvertes parfaites pour les grands chiens.`,
+        `L'altitude affecte les chiens à partir de 2 500 m. Le Gornergrat (3 089 m) est la plus haute altitude confortable pour la plupart des chiens ; le Klein Matterhorn (3 883 m) est limite. Les races brachycéphales (carlins, bouledogues) ne devraient pas dépasser 2 500 m. Testez d'abord au Gornergrat.`,
+        `La Maulkorbpflicht à l'autrichienne ne s'applique PAS en Suisse, mais les CFF et le Matterhorn Gotthard Bahn exigent que les grands chiens soient en laisse ET muselière panier à bord. Petits chiens en transportin gratuits ; grands chiens en laisse+muselière demi-tarif adulte.`,
+        `L'eau glaciaire de la Matter Vispa, du Leisee, du Stellisee et du Riffelsee reste à 4-12 °C même en août. Limitez la baignade canine à 5-10 min max et séchez soigneusement après. Le Leisee a la seule zone de baignade canine dédiée au-dessus du village.`,
+        `Enregistrez Rega 1414 (secours héliporté suisse, chiens inclus pour les membres) et l'urgence vétérinaire Valais 0900 140 999. Le vétérinaire résident de Zermatt est Tierarztpraxis Zermatt sur Spissstrasse 6 (+41 27 967 65 95). Le signal mobile est bon au village mais aléatoire au-dessus de 2 500 m.`,
+      ],
+      es: [
+        `Zermatt es COMPLETAMENTE sin coches desde 1947: los vehículos no residentes deben aparcar en Matterhorn Terminal Täsch (16 CHF/día) y tomar la lanzadera ferroviaria de 12 min. La lanzadera tiene zonas de equipajes abiertas perfectas para perros grandes.`,
+        `La altitud afecta a los perros desde los 2.500 m. El Gornergrat (3.089 m) es la altitud máxima cómoda para la mayoría; el Klein Matterhorn (3.883 m) es el límite. Razas braquicéfalas (carlinos, bulldogs) no deberían pasar de los 2.500 m. Pon a prueba primero en el Gornergrat.`,
+        `La Maulkorbpflicht estilo austriaco NO se aplica en Suiza, pero SBB y Matterhorn Gotthard Bahn exigen que los perros grandes vayan con correa Y bozal de cesta a bordo. Perros pequeños en transportín gratis; grandes con correa+bozal medio billete adulto.`,
+        `El agua glacial del Matter Vispa, Leisee, Stellisee y Riffelsee sigue a 4-12 °C incluso en agosto. Limita el baño canino a 5-10 min máximo y seca a fondo después. El Leisee tiene la única zona de baño canino dedicada por encima del pueblo.`,
+        `Guarda Rega 1414 (rescate aéreo suizo, perros incluidos para socios) y la urgencia veterinaria del Valais 0900 140 999. El veterinario residente en Zermatt es Tierarztpraxis Zermatt en Spissstrasse 6 (+41 27 967 65 95). La cobertura móvil es buena en el pueblo pero irregular por encima de los 2.500 m.`,
+      ],
+      pt: [
+        `Zermatt é COMPLETAMENTE sem carros desde 1947 — os veículos não residentes devem estacionar no Matterhorn Terminal Täsch (16 CHF/dia) e apanhar o shuttle ferroviário de 12 min. O shuttle tem zonas de bagagens abertas perfeitas para cães grandes.`,
+        `A altitude afeta os cães a partir dos 2.500 m. O Gornergrat (3.089 m) é a altitude máxima confortável para a maioria; o Klein Matterhorn (3.883 m) está no limite. Raças braquicéfalas (pugs, bulldogs) não devem ir acima dos 2.500 m. Testa primeiro no Gornergrat.`,
+        `A Maulkorbpflicht ao estilo austríaco NÃO se aplica na Suíça, mas SBB e Matterhorn Gotthard Bahn exigem que os cães grandes estejam com trela E açaime cesto a bordo. Cães pequenos em transportadora grátis; cães grandes com trela+açaime meio bilhete adulto.`,
+        `A água glaciar do Matter Vispa, Leisee, Stellisee e Riffelsee mantém-se a 4-12 °C mesmo em agosto. Limita o banho canino a 5-10 min máximo e seca a fundo depois. O Leisee tem a única zona de banho canino dedicada acima da aldeia.`,
+        `Guarda Rega 1414 (resgate aéreo suíço, cães incluídos para sócios) e a urgência veterinária do Valais 0900 140 999. O veterinário residente em Zermatt é Tierarztpraxis Zermatt na Spissstrasse 6 (+41 27 967 65 95). A cobertura móvel é boa na aldeia mas irregular acima dos 2.500 m.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest international airport: Geneva (GVA, 230 km, ~3.5 h direct train via Visp). Zurich (ZRH) is equivalent in time (~3.5 h). Both follow EU/Swiss pet rules.`,
+        `Matterhorn Gotthard Bahn from Visp to Zermatt runs every 30 min from 06:00 to 22:00. Small dogs in carrier free; larger dogs leashed+muzzled at half-fare adult ticket. SBB Swiss Travel Pass / Saver Day Pass lets dogs travel free with a paying adult.`,
+        `Zermatt is officially German-speaking; English is widely used at hotels and restaurants, with French and Italian also common in tourist-facing businesses. Vet services typically German first.`,
+        `Swiss third-party dog liability insurance is mandatory for residents. Visitors are strongly encouraged to carry pet travel insurance with mountain rescue cover; Rega membership (CHF 40/year) airlifts dogs alongside their owners.`,
+        `EU/Swiss pet passport, microchip and rabies vaccination required. UK travellers since Brexit need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroport international le plus proche : Genève (GVA, 230 km, ~3h30 en train direct via Viège). Zurich (ZRH) est équivalent (~3h30). Les deux appliquent les règles UE/suisses.`,
+        `Le Matterhorn Gotthard Bahn de Viège à Zermatt circule toutes les 30 min de 6h à 22h. Petits chiens en transportin gratuits ; grands chiens en laisse+muselière au demi-tarif adulte. Le Swiss Travel Pass / Saver Day Pass CFF laisse les chiens voyager gratuitement avec un adulte payant.`,
+        `Zermatt est officiellement germanophone ; l'anglais est largement utilisé dans les hôtels et restaurants, le français et l'italien aussi fréquents dans le commerce touristique. Vétérinaires en allemand d'abord.`,
+        `L'assurance responsabilité civile pour chien est obligatoire en Suisse pour les résidents. Les visiteurs sont fortement encouragés à souscrire une assurance voyage animale avec couverture secours en montagne ; l'adhésion Rega (40 CHF/an) héliporte les chiens avec leurs maîtres.`,
+        `Passeport européen/suisse, puce et vaccination antirabique obligatoires. Les voyageurs britanniques depuis le Brexit doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuerto internacional más cercano: Ginebra (GVA, 230 km, ~3,5 h en tren directo vía Visp). Zurich (ZRH) es equivalente (~3,5 h). Ambos aplican las reglas UE/suizas.`,
+        `El Matterhorn Gotthard Bahn de Visp a Zermatt pasa cada 30 min de 06:00 a 22:00. Perros pequeños en transportín gratis; grandes con correa+bozal medio billete adulto. El Swiss Travel Pass / Saver Day Pass SBB deja viajar a los perros gratis con un adulto de pago.`,
+        `Zermatt es oficialmente germanófona; el inglés se usa ampliamente en hoteles y restaurantes, francés e italiano también frecuentes en negocios turísticos. Servicios veterinarios primero en alemán.`,
+        `El seguro de responsabilidad civil canina es obligatorio en Suiza para residentes. A los visitantes se les recomienda encarecidamente seguro de viaje para mascotas con cobertura de rescate en montaña; la afiliación Rega (40 CHF/año) helicopta a perros junto a sus dueños.`,
+        `Pasaporte europeo/suizo, microchip y vacuna antirrábica obligatorios. Los viajeros del Reino Unido desde el Brexit necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroporto internacional mais próximo: Genebra (GVA, 230 km, ~3,5 h em comboio direto via Visp). Zurique (ZRH) é equivalente (~3,5 h). Ambos aplicam as regras UE/suíças.`,
+        `O Matterhorn Gotthard Bahn de Visp a Zermatt circula a cada 30 min das 06:00 às 22:00. Cães pequenos em transportadora grátis; cães grandes com trela+açaime meio bilhete adulto. O Swiss Travel Pass / Saver Day Pass SBB deixa os cães viajar grátis com um adulto pagante.`,
+        `Zermatt é oficialmente germanófona; o inglês é amplamente usado em hotéis e restaurantes, francês e italiano também frequentes em negócios turísticos. Serviços veterinários primeiro em alemão.`,
+        `O seguro de responsabilidade civil canina é obrigatório na Suíça para residentes. Aos visitantes recomenda-se fortemente seguro de viagem para animais com cobertura de resgate em montanha; a adesão Rega (40 CHF/ano) resgata cães em helicóptero com os donos.`,
+        `Passaporte europeu/suíço, microchip e vacina antirrábica obrigatórios. Viajantes do Reino Unido desde o Brexit precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   zurich: {
     history: {
       fr: `Zurich, fondée par les Romains sous le nom de Turicum au bord de la Limmat, est passée du bourg marchand médiéval au centre financier de la Suisse, référence mondiale de qualité de vie. Huldrych Zwingli y lança la Réforme suisse depuis le Grossmünster en 1519, façonnant une éthique civique encore attachée à l'ordre et à la précision. Le canton prend les chiens au sérieux : chaque maître paie une Hundesteuer cantonale (env. 170 CHF pour le premier chien en 2026), l'animal doit être pucé dans la base AMICUS et l'assurance responsabilité civile est obligatoire. Le Hundeführerschein fédéral a été supprimé en 2017, mais Zurich a réintroduit un cours pratique pour les primo-propriétaires. En échange, la ville est taillée pour les chiens : baignades propres dans le lac, compartiments de tram dédiés, crêtes boisées de l'Uetliberg et accueil exceptionnellement généreux dans les restaurants et boutiques.`,

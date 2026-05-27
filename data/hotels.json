@@ -3067,6 +3067,30 @@
     "slug": "catalunya-express-tarragona"
   },
   {
+    "id": "zermatt-3",
+    "name": "CERVO Mountain Resort",
+    "destinationSlug": "zermatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1240,
+    "priceFrom": 570,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/cervo-mountain-boutique-resort.html",
+    "petFee": 38,
+    "petPolicy": "CERVO Mountain Resort is a cluster of contemporary chalets at the base of the Sunnegga funicular, the most overtly dog-friendly luxury property in Zermatt. Pets welcomed for approximately CHF 40 (€38) per pet per night with welcome treats and a dog bed. Dogs and cats both accepted. Specific pet-friendly chalets allocated at booking. Direct trailhead access for the Sunnegga funicular and the Matter Vispa river path.",
+    "highlights": [
+      "At Sunnegga base",
+      "Dog welcome treats",
+      "Trailhead access"
+    ],
+    "slug": "cervo-mountain-resort"
+  },
+  {
     "id": "biarritz-6",
     "name": "CHAMBRE D'HOTES Villa BIBICHERI",
     "destinationSlug": "biarritz",
@@ -3374,6 +3398,30 @@
     ],
     "slug": "classy-apartment-in-city-center-with-large-balcony",
     "petPolicyPt": "Classy Apartment em City Center com Grande Balcony warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €10 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "zermatt-4",
+    "name": "Coeur des Alpes",
+    "destinationSlug": "zermatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 740,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/coeur-des-alpes.html",
+    "petFee": 24,
+    "petPolicy": "Coeur des Alpes is a 4-star boutique on a quiet lane two minutes from Bahnhofstrasse, consistently rated 9.5+ on Booking. Pets accepted on prior request for approximately CHF 25 (€24) per pet per night. Dogs and cats both welcome; one pet per room. The hotel has a small in-house spa where dogs are not allowed but waits in the room are fine for short periods.",
+    "highlights": [
+      "Top-rated 9.5+ boutique",
+      "Quiet central lane",
+      "Award-winning breakfast"
+    ],
+    "slug": "coeur-des-alpes"
   },
   {
     "id": "san-sebastian-4",
@@ -7562,6 +7610,30 @@
     "petPolicyPt": "All animais bem-vindos; taxa animal por noite."
   },
   {
+    "id": "zermatt-5",
+    "name": "Hotel Bahnhof",
+    "destinationSlug": "zermatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.6,
+    "reviewCount": 1820,
+    "priceFrom": 105,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/bahnhof.html",
+    "petFee": 14,
+    "petPolicy": "Hotel Bahnhof is the budget pet-friendly favourite in Zermatt — a 2-star directly opposite the train station, perfect for arrivals by Matterhorn Gotthard Bahn. Pets accepted on prior request for approximately CHF 15 (€14) per pet per night. Dogs and cats both welcome; one pet per room. Rooms are simple and quiet; the lounge has communal kitchen access useful for dog meal prep on longer stays.",
+    "highlights": [
+      "Opposite the train station",
+      "Budget rate from €105",
+      "Communal kitchen"
+    ],
+    "slug": "hotel-bahnhof-zermatt"
+  },
+  {
     "id": "albufeira-5",
     "name": "Hotel Baltum",
     "destinationSlug": "albufeira",
@@ -10319,6 +10391,30 @@
     ],
     "slug": "hotel-mitland-utrecht",
     "petPolicyPt": "Hotel Mitland welcomes animais por 25 EUR por animal por noite, including um food e water bowl, um treat, e um cushion. Both cães e gatos são accepted. animais são não permitidos em beds ou furniture."
+  },
+  {
+    "id": "zermatt-1",
+    "name": "Hotel Mont Cervin Palace",
+    "destinationSlug": "zermatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1620,
+    "priceFrom": 760,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/mont-cervin-palace.html",
+    "petFee": 48,
+    "petPolicy": "Hotel Mont Cervin Palace is the grand 5-star landmark on Bahnhofstrasse, a Leading Hotel of the World since 1851. Pets are welcomed on prior request for a fee of approximately CHF 50 (€48) per pet per night. Dogs and cats accepted; one pet per room standard, second by arrangement. The concierge can arrange e-taxi pickup from the station with a dog. Pets not allowed in spa, indoor pool or main restaurants but welcome in selected lounge areas.",
+    "highlights": [
+      "Leading Hotel of the World since 1851",
+      "Heated outdoor pool",
+      "Bahnhofstrasse central"
+    ],
+    "slug": "hotel-mont-cervin-palace"
   },
   {
     "id": "bremen-5",
@@ -22343,6 +22439,31 @@
     ],
     "slug": "the-old-ship-hotel-brighton",
     "petPolicyPt": "O Old Ship welcomes up para two cães para £13 por animal por noite. cães receive um bed, food e water bowls, e treats em check-em. Animais são permitidos everywhere except o gym e main restaurant."
+  },
+  {
+    "id": "zermatt-2",
+    "name": "The Omnia",
+    "destinationSlug": "zermatt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 950,
+    "priceFrom": 665,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/the-omnia.html",
+    "petFee": 48,
+    "petPolicy": "The Omnia is the iconic 5-star design hotel built into a cliff above Zermatt, reached by a private rock elevator. Pets are welcomed on prior request for approximately CHF 50 (€48) per pet per night. Dogs and cats both accepted; one pet per suite. Specific pet-friendly rooms must be allocated at booking. The hotel's panoramic terrace welcomes leashed dogs and offers a direct Matterhorn view.",
+    "highlights": [
+      "Cliff-top design hotel",
+      "Private rock elevator",
+      "Panoramic Matterhorn view"
+    ],
+    "slug": "the-omnia-zermatt"
   },
   {
     "id": "barcelona-1",

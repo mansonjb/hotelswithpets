@@ -11976,6 +11976,32 @@
     "iata": "ZAZ"
   },
   {
+    "slug": "zermatt",
+    "name": "Zermatt",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/zermatt.jpg",
+    "intro": "Zermatt is the car-free Alpine resort village at the foot of the Matterhorn, a 5,800-resident icon where dogs ride the Sunnegga funicular and the Gornergrat railway, swim at the Leisee dog beach, and walk the legendary Five Lakes route past the Stellisee reflection.",
+    "lat": 46.0207,
+    "lng": 7.7491,
+    "weather": {
+      "jan": {"temp": -3, "desc": "Cold & snowy", "icon": "❄️"},
+      "feb": {"temp": -2, "desc": "Cold & snowy", "icon": "❄️"},
+      "mar": {"temp": 2, "desc": "Cold & bright", "icon": "🌨️"},
+      "apr": {"temp": 6, "desc": "Mild & melting", "icon": "🌦️"},
+      "may": {"temp": 10, "desc": "Cool & green", "icon": "⛅"},
+      "jun": {"temp": 14, "desc": "Mild & sunny", "icon": "⛅"},
+      "jul": {"temp": 16, "desc": "Warm & sunny", "icon": "🌤️"},
+      "aug": {"temp": 16, "desc": "Warm & sunny", "icon": "🌤️"},
+      "sep": {"temp": 12, "desc": "Mild & golden", "icon": "🌤️"},
+      "oct": {"temp": 7, "desc": "Cool & crisp", "icon": "🌤️"},
+      "nov": {"temp": 1, "desc": "Cold & snowy", "icon": "❄️"},
+      "dec": {"temp": -2, "desc": "Cold & festive", "icon": "❄️"}
+    }
+  },
+  {
     "slug": "zurich",
     "name": "Zurich",
     "country": "Switzerland",

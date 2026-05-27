@@ -6,6 +6,9 @@ import { notFound } from 'next/navigation'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import TopHotelsStrip from '@/components/TopHotelsStrip'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
+import AmazonProductCard from '@/components/AmazonProductCard'
+import AmazonDisclosure from '@/components/AmazonDisclosure'
+import { PRODUCTS } from '@/data/amazon-products'
 
 const STICKY_LABELS_ROAD: Record<string, { label: string; cta: string }> = {
   en: { label: 'Pet-friendly road trip bases in Europe', cta: 'See hotels' },
@@ -925,6 +928,62 @@ export default async function RoadTripChienPage({
           </div>
         </section>
 
+        {/* ── Top hôtels (remonté pour conversion) ──────────────────────── */}
+        <TopHotelsStrip
+          locale={locale}
+          destinationSlugs={['bordeaux', 'marseille', 'geneva', 'munich', 'florence', 'salzburg']}
+          campaign="road-trip"
+        />
+
+        {/* ── Meilleurs sacs de transport (FR only) ─────────────────────── */}
+        {locale === 'fr' && (() => {
+          const BAG_ASINS = [
+            'B00Q5KBRBA', // Trixie Wings - cabine IATA
+            'B000VBPEEU', // Trixie Ryan - souple
+            'B07QNZFWHL', // Kurgo G-Train - sac à dos
+            'B0002DI0UM', // Petmate Vari Kennel Jr - caisse rigide
+            'B01NCHCI3F', // K9 Sport Sack Air - sac frontal
+            'B007N7DQ2C', // Doggyhut Medium - remorque vélo
+          ]
+          const bags = BAG_ASINS
+            .map(asin => PRODUCTS.find(p => p.asin === asin))
+            .filter((p): p is NonNullable<typeof p> => Boolean(p))
+          return (
+            <section className="bg-amber-50 border-y border-amber-200">
+              <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <div className="text-center mb-8">
+                  <p className="text-sm font-bold uppercase tracking-widest text-amber-700 mb-2">
+                    🎒 Équipement road-trip
+                  </p>
+                  <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mb-2">
+                    Les 6 meilleurs sacs et caisses de transport
+                  </h2>
+                  <p className="text-stone-600 max-w-2xl mx-auto">
+                    Sac cabine avion, caisse rigide IATA, sac à dos rando, remorque vélo : six
+                    options testées pour chaque format de voyage. Liens directs Amazon.fr.
+                  </p>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                  {bags.map((p, i) => (
+                    <AmazonProductCard key={p.asin} product={p} campaign="road-trip-bags" rank={i + 1} />
+                  ))}
+                </div>
+                <div className="mt-6 text-center">
+                  <Link
+                    href="/fr/accessoires-chien"
+                    className="inline-block text-sm font-semibold text-amber-700 hover:text-amber-900 underline"
+                  >
+                    Voir tous nos accessoires chien voyageur →
+                  </Link>
+                </div>
+                <div className="mt-4 text-center">
+                  <AmazonDisclosure />
+                </div>
+              </div>
+            </section>
+          )
+        })()}
+
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
           {/* ── Sources note ─────────────────────────────────────────────── */}
@@ -1156,12 +1215,6 @@ export default async function RoadTripChienPage({
 
         </div>
       </div>
-
-      <TopHotelsStrip
-        locale={locale}
-        destinationSlugs={['bordeaux', 'marseille', 'geneva', 'munich', 'florence', 'salzburg']}
-        campaign="road-trip"
-      />
 
       <StickyHotelCTA
         href={buildAllezDestLink('Europe', 'Europe', 'road-trip-sticky')}

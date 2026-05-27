@@ -1,20 +1,18 @@
+import Link from 'next/link'
+
 /**
- * Mandatory disclosure for the Amazon Associates programme (FR market).
- * Must appear clearly on any page containing Amazon affiliate links.
- * Source: Amazon Operating Agreement, EU section 5 (affiliate disclosure).
+ * Short inline pointer to the global affiliate disclosure page.
+ * Full text lives at /fr/mentions-affiliees per Amazon Operating Agreement
+ * EU section 5 (clear and accessible from every page with affiliate links).
  */
 export default function AmazonDisclosure() {
   return (
-    <div className="text-xs text-stone-500 bg-stone-100 rounded-lg p-4 leading-relaxed">
-      <strong className="text-stone-700">Transparence affiliation Amazon :</strong>{' '}
-      HotelsWithPets.com participe au Programme Partenaires d&apos;Amazon EU,
-      un programme d&apos;affiliation conçu pour permettre à des sites de
-      percevoir une rémunération grâce à la création de liens vers
-      Amazon.fr. Les liens sur cette page sont sponsorisés : si vous
-      achetez un produit après avoir cliqué, nous touchons une petite
-      commission sans surcoût pour vous. Cela ne change rien à notre
-      sélection éditoriale - nous ne recommandons que des produits que
-      nous trouvons réellement utiles pour voyager avec son animal.
-    </div>
+    <p className="text-xs text-stone-500 leading-relaxed">
+      Liens sponsorisés Amazon. En savoir plus :{' '}
+      <Link href="/fr/mentions-affiliees" className="text-stone-700 underline hover:text-amber-700">
+        mentions affiliées
+      </Link>
+      .
+    </p>
   )
 }

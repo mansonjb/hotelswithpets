@@ -51,6 +51,13 @@ export interface AmazonProduct {
    * Used to highlight at the top of category-specific lists.
    */
   featured?: boolean
+  /**
+   * Optional: SiteStripe Image URL (officially-blessed Amazon image).
+   * If absent, the card falls back to the legacy CDN pattern
+   * `m.media-amazon.com/images/P/{ASIN}.jpg`, which works for ~90% of
+   * consumer products. Paste the `src=` of the SiteStripe "Image" snippet.
+   */
+  imageUrl?: string
 }
 
 // ──────────────────────────────────────────────────────────────────────────

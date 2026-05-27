@@ -75,6 +75,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '~25 €',
     emoji: '💧',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/51r12skhO6L._AC_SL1170_.jpg',
   },
   {
     asin: 'B06Y4CCPRC',
@@ -84,6 +85,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'both',
     priceHint: '~8 €',
     emoji: '🥣',
+    imageUrl: 'https://m.media-amazon.com/images/I/61myQqkniHL._AC_SL1500_.jpg',
   },
 
   // ── Transport voiture / avion ─────────────────────────────────────────
@@ -96,6 +98,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '60–90 €',
     emoji: '🚗',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/71OQRWiRxxL._AC_SL1417_.jpg',
   },
   {
     asin: 'B00Q5KBRBA',
@@ -105,6 +108,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'both',
     priceHint: '40–55 €',
     emoji: '✈️',
+    imageUrl: 'https://m.media-amazon.com/images/I/71aBNPkVxaS._AC_SL1500_.jpg',
   },
   {
     asin: 'B000VBPEEU',
@@ -114,6 +118,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'both',
     priceHint: '~35 €',
     emoji: '🎒',
+    imageUrl: 'https://m.media-amazon.com/images/I/81ujvhnImRL._AC_SL1500_.jpg',
   },
   {
     asin: 'B07G495HGR',
@@ -123,6 +128,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'cat',
     priceHint: '15–20 €',
     emoji: '🐈',
+    imageUrl: 'https://m.media-amazon.com/images/I/61z+Tw7c-LL._AC_SL1000_.jpg',
   },
 
   // ── Fontaines / hydratation maison ────────────────────────────────────
@@ -135,6 +141,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '25–35 €',
     emoji: '⛲',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/71aslVHKnkL._AC_SL1000_.jpg',
   },
 
   // ── Rafraîchissement / canicule ───────────────────────────────────────
@@ -147,6 +154,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '25–35 €',
     emoji: '❄️',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/61RRuzyp5hL._AC_SL1500_.jpg',
   },
   {
     asin: 'B06XJXKLTG',
@@ -156,6 +164,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '35–50 €',
     emoji: '❄️',
+    imageUrl: 'https://m.media-amazon.com/images/I/51ZKJB5JdQL._AC_SL1500_.jpg',
   },
   {
     asin: 'B08144QV3P',
@@ -165,6 +174,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '55–75 €',
     emoji: '❄️',
+    imageUrl: 'https://m.media-amazon.com/images/I/61ribRqqxwL._AC_SL1500_.jpg',
   },
   {
     asin: 'B01MR5LRPJ',
@@ -175,6 +185,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '70–90 €',
     emoji: '🦺',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/61MARKcWQjL._AC_SL1000_.jpg',
   },
   {
     asin: 'B00XW9ZZDI',
@@ -184,6 +195,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '15–25 €',
     emoji: '🟦',
+    imageUrl: 'https://m.media-amazon.com/images/I/61TvE98h50L._AC_SL1200_.jpg',
   },
   {
     asin: 'B07SR9PCQH',
@@ -193,6 +205,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '30–45 €',
     emoji: '🏊',
+    imageUrl: 'https://m.media-amazon.com/images/I/81pxgqOl-pL._AC_SL1500_.jpg',
   },
 
   // ── Anti-stress chat ──────────────────────────────────────────────────
@@ -205,6 +218,7 @@ export const PRODUCTS: AmazonProduct[] = [
     priceHint: '25–35 €',
     emoji: '🌸',
     featured: true,
+    imageUrl: 'https://m.media-amazon.com/images/I/81d0NqMy8jL._AC_SL1500_.jpg',
   },
   {
     asin: 'B015HDIQ1E',
@@ -214,6 +228,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'cat',
     priceHint: '15–20 €',
     emoji: '🌸',
+    imageUrl: 'https://m.media-amazon.com/images/I/81xKKA-tmmL._AC_SL1500_.jpg',
   },
 
   // ── Jouet / occupation ────────────────────────────────────────────────
@@ -225,6 +240,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '12–18 €',
     emoji: '🦴',
+    imageUrl: 'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',
   },
   {
     asin: 'B0002AR0I8',
@@ -234,6 +250,7 @@ export const PRODUCTS: AmazonProduct[] = [
     petType: 'dog',
     priceHint: '15–22 €',
     emoji: '🦴',
+    imageUrl: 'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',
   },
 ]
 

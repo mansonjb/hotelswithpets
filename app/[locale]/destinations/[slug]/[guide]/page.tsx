@@ -921,6 +921,28 @@ export default async function GuideDetailPage({
           </section>
         )}
 
+        {/* ── Amazon accessories cross-link (FR only — pages don't exist yet in EN/ES/PT) ── */}
+        {locale === 'fr' && (guide === 'tips' || guide === 'transport' || guide === 'beaches') && (
+          <section className="mb-12 bg-gradient-to-br from-amber-100 to-orange-100 border border-amber-300 rounded-2xl p-6">
+            <h2 className="text-xl font-extrabold text-stone-900 mb-2">🎒 Voyager bien équipé</h2>
+            <p className="text-sm text-stone-700 mb-4 leading-relaxed">
+              Notre sélection d&apos;accessoires testés pour partir avec son chien :
+              gourde nomade, tapis rafraîchissant, harnais voiture, sac de transport.
+            </p>
+            <div className="flex flex-wrap gap-2 text-sm">
+              <Link href={`/fr/accessoires-chien`} className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+                Accessoires chien →
+              </Link>
+              <Link href={`/fr/accessoires-chien-chaleur`} className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+                Spécial canicule 🔥 →
+              </Link>
+              <Link href={`/fr/accessoires-chat`} className="bg-white border border-stone-300 text-stone-700 px-3 py-2 rounded-full hover:bg-stone-50">
+                Accessoires chat →
+              </Link>
+            </div>
+          </section>
+        )}
+
         {/* ── FAQ ── */}
         {faqs.length > 0 && (
           <section className="mb-12">

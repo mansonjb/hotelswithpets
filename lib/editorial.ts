@@ -531,6 +531,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Heaton Park, Fletcher Moss Botanical Gardens, and the Bridgewater Canal towpath',
       area: 'Northern Quarter, Ancoats, and Castlefield',
     },
+    marbella: {
+      personality: `a Costa del Sol resort city with two official year-round dog beaches, a 7 km seafront boardwalk linking the centre to Puerto Banús, and an Andalusian whitewashed old town where most café terraces welcome dogs by default`,
+      highlight: `Playa Canina El Pinillo and Playa Canina Ventura del Mar, the Avenida del Mar Dalí sculpture promenade, and the Senda Litoral coastal path`,
+      area: `the Casco Antiguo around Plaza de los Naranjos, the Golden Mile beachfront, and Puerto Banús`,
+    },
     marseille: {
       personality: 'a sun-drenched Mediterranean city where outdoor life, terraces and coastal nature shape an unmistakably dog-friendly rhythm',
       highlight: 'the Calanques National Park trails, the Frioul islands accessible by ferry, and the 5-kilometre Corniche Kennedy promenade',
@@ -1359,6 +1364,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Heaton Park, les jardins botaniques de Fletcher Moss et le chemin de halage du Bridgewater Canal',
       area: 'le Northern Quarter, Ancoats et Castlefield',
     },
+    marbella: {
+      personality: `une station balnéaire de la Costa del Sol avec deux plages canines officielles ouvertes toute l'année, un paseo marítimo de 7 km reliant le centre à Puerto Banús, et une vieille ville andalouse blanchie à la chaux où la plupart des terrasses acceptent les chiens par défaut`,
+      highlight: `la Playa Canina El Pinillo et la Playa Canina Ventura del Mar, la promenade des sculptures Dalí de l'Avenida del Mar et le sentier littoral Senda Litoral`,
+      area: `le Casco Antiguo autour de la Plaza de los Naranjos, la Milla de Oro en bord de mer et Puerto Banús`,
+    },
     marseille: {
       personality: 'une ville méditerranéenne baignée de soleil où la vie en extérieur, les terrasses et la nature côtière imposent un rythme résolument dog-friendly',
       highlight: 'les sentiers du Parc National des Calanques, les îles du Frioul accessibles en ferry et les 5 kilomètres de la Corniche Kennedy',
@@ -2186,6 +2196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Heaton Park, los jardines botánicos de Fletcher Moss y la senda del Bridgewater Canal',
       area: 'el Northern Quarter, Ancoats y Castlefield',
     },
+    marbella: {
+      personality: `una ciudad balneario de la Costa del Sol con dos playas caninas oficiales abiertas todo el año, un paseo marítimo de 7 km que une el centro con Puerto Banús, y un casco antiguo andaluz encalado donde la mayoría de terrazas admiten perros por defecto`,
+      highlight: `la Playa Canina El Pinillo y la Playa Canina Ventura del Mar, el paseo de esculturas de Dalí en la Avenida del Mar y la Senda Litoral`,
+      area: `el Casco Antiguo en torno a la Plaza de los Naranjos, la Milla de Oro frente al mar y Puerto Banús`,
+    },
     marseille: {
       personality: 'una ciudad mediterránea bañada por el sol donde la vida al aire libre, las terrazas y la naturaleza costera imponen un ritmo claramente dog-friendly',
       highlight: 'los senderos del Parque Nacional de las Calanques, las islas Frioul accesibles en ferry y los 5 kilómetros de la Corniche Kennedy',
@@ -3012,6 +3027,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma das cidades do Reino Unido mais fiables com cães, com animais grátis en cada elétrico Metrolink e autocarro Bee Network, pubs pet-friendly en cada rua do Northern Quarter, e as 240 hectáreas de Heaton Park a um elétrico do centro',
       highlight: 'Heaton Park, os jardins botánicos de Fletcher Moss e a senda do Bridgewater Canal',
       area: 'o Northern Quarter, Ancoats e Castlefield',
+    },
+    marbella: {
+      personality: `uma cidade balnear da Costa del Sol com duas praias caninas oficiais abertas todo o ano, um passeio marítimo de 7 km que liga o centro a Puerto Banús, e uma cidade velha andaluza caiada onde a maioria das esplanadas aceita cães por defeito`,
+      highlight: `a Playa Canina El Pinillo e a Playa Canina Ventura del Mar, o passeio de esculturas de Dalí na Avenida del Mar e a Senda Litoral`,
+      area: `o Casco Antiguo à volta da Plaza de los Naranjos, a Milha de Ouro à beira-mar e Puerto Banús`,
     },
     marseille: {
       personality: 'uma cidade mediterrânea banhada pelo sol onde a vida al aire libre, as esplanadas e a naturaleza costera imponen um ritmo claramente pet-friendly',

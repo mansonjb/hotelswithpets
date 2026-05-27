@@ -13126,6 +13126,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  marbella: {
+    history: {
+      en: `Marbella sits at the heart of Andalusia's Costa del Sol, founded as the Roman settlement of Salduba and reshaped under five centuries of Moorish rule before the Catholic Monarchs took it in 1485 - the surviving town wall and the whitewashed Casco Antiguo around Plaza de los Naranjos still trace the medieval Christian-Moorish layering. From the 1950s onwards, the village was transformed into Europe's reference luxury resort by Prince Alfonso von Hohenlohe's Marbella Club, with the Golden Mile and Puerto Banús (1970) cementing the international jet-set identity. The relationship with dogs is unusually pragmatic for southern Spain: the Ayuntamiento operates two officially signposted year-round dog beaches (Pinillo and Ventura del Mar) with freshwater showers and fountains, the 7 km Senda Litoral coastal boardwalk runs uninterrupted from the centre to Puerto Banús, and the large international expat community has built one of Andalusia's densest networks of 24h veterinary care and English-speaking pet sitters. The Andalusian summer demands one critical adaptation: pavement and wooden-boardwalk surfaces hit 50-60°C between 11:00 and 19:00 from June to September, more than enough to burn paw pads in under a minute, so locals walk dogs before 09:30 or after 20:00 from late spring through early autumn.`,
+      fr: `Marbella se trouve au cœur de la Costa del Sol andalouse, fondée comme l'établissement romain de Salduba puis remodelée sous cinq siècles de domination musulmane avant d'être reprise par les Rois Catholiques en 1485 - la muraille subsistante et le Casco Antiguo blanchi autour de la Plaza de los Naranjos en dessinent encore le palimpseste médiéval. À partir des années 1950, le village devient la station de luxe de référence en Europe grâce au Marbella Club du prince Alfonso von Hohenlohe, la Milla de Oro et Puerto Banús (1970) cimentant l'identité jet-set internationale. Le rapport aux chiens y est singulièrement pragmatique pour le sud de l'Espagne : la mairie exploite deux plages canines officielles ouvertes toute l'année (Pinillo et Ventura del Mar) avec douches d'eau douce et fontaines, le sentier littoral Senda Litoral de 7 km court sans interruption du centre à Puerto Banús, et la grande communauté expatriée a tissé l'un des réseaux les plus denses d'Andalousie en vétérinaires 24h et pet-sitters anglophones. L'été andalou impose une adaptation cruciale : trottoirs et platelage en bois atteignent 50-60°C entre 11h et 19h de juin à septembre, largement assez pour brûler les coussinets en moins d'une minute, les habitants promènent donc avant 9h30 ou après 20h de fin de printemps au début de l'automne.`,
+      es: `Marbella se sitúa en el corazón de la Costa del Sol andaluza, fundada como el asentamiento romano de Salduba y remodelada bajo cinco siglos de dominio musulmán antes de ser tomada por los Reyes Católicos en 1485 - la muralla superviviente y el Casco Antiguo encalado alrededor de la Plaza de los Naranjos aún trazan el palimpsesto medieval cristiano-musulmán. Desde los años 50, el pueblo se transformó en el resort de lujo de referencia en Europa gracias al Marbella Club del príncipe Alfonso von Hohenlohe, con la Milla de Oro y Puerto Banús (1970) consolidando la identidad jet-set internacional. La relación con los perros es inusualmente pragmática para el sur de España: el Ayuntamiento opera dos playas caninas oficiales abiertas todo el año (Pinillo y Ventura del Mar) con duchas de agua dulce y fuentes, la Senda Litoral de 7 km recorre sin interrupciones del centro a Puerto Banús, y la gran comunidad expatriada ha construido una de las redes más densas de Andalucía de veterinarios 24h y cuidadores anglófonos. El verano andaluz exige una adaptación crítica: aceras y pasarelas de madera alcanzan 50-60°C entre las 11:00 y las 19:00 de junio a septiembre, suficiente para quemar las almohadillas en menos de un minuto, así que los locales pasean antes de las 9:30 o después de las 20:00 desde finales de primavera a principios de otoño.`,
+      pt: `Marbella situa-se no coração da Costa del Sol andaluza, fundada como a povoação romana de Salduba e remodelada sob cinco séculos de domínio mouro antes de ser tomada pelos Reis Católicos em 1485 - a muralha sobrevivente e o Casco Antiguo caiado em redor da Plaza de los Naranjos ainda traçam o palimpsesto medieval cristão-mouro. A partir dos anos 50, a vila transformou-se no resort de luxo de referência na Europa graças ao Marbella Club do príncipe Alfonso von Hohenlohe, com a Milha de Ouro e Puerto Banús (1970) a consolidar a identidade jet-set internacional. A relação com os cães é invulgarmente pragmática para o sul de Espanha: a câmara opera duas praias caninas oficiais abertas todo o ano (Pinillo e Ventura del Mar) com duches de água doce e fontes, a Senda Litoral de 7 km percorre sem interrupção do centro a Puerto Banús, e a grande comunidade expatriada construiu uma das redes mais densas da Andaluzia de veterinários 24h e cuidadores anglófonos. O verão andaluz exige uma adaptação crítica: passeios e estrados de madeira atingem 50-60°C entre as 11:00 e as 19:00 de junho a setembro, suficiente para queimar as almofadas em menos de um minuto, pelo que os locais passeiam antes das 9:30 ou depois das 20:00 do final da primavera ao início do outono.`,
+    },
+    sights: [
+      {
+        name: `Playa Canina El Pinillo`,
+        emoji: `🐕`,
+        petFriendly: true,
+        desc: {
+          en: `Marbella's flagship year-round dog beach, a 250 m signposted off-leash strip on the east side of the centre, with freshwater dog showers and drinking fountains installed by the Ayuntamiento.`,
+          fr: `La plage canine phare de Marbella ouverte toute l'année, un linéaire sans laisse de 250 m balisé à l'est du centre, avec douches d'eau douce et fontaines installées par la mairie.`,
+          es: `La playa canina insignia de Marbella abierta todo el año, una franja sin correa de 250 m señalizada al este del centro, con duchas de agua dulce y fuentes instaladas por el Ayuntamiento.`,
+          pt: `A praia canina de referência de Marbella aberta todo o ano, uma faixa sem trela de 250 m sinalizada a leste do centro, com duches de água doce e fontes instaladas pela câmara.`,
+        },
+      },
+      {
+        name: `Casco Antiguo & Plaza de los Naranjos`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          en: `Marbella's whitewashed old town centred on an orange-tree-lined square framed by the 16th-century town hall, fully walkable on a leash, with most café terraces accepting dogs by default.`,
+          fr: `La vieille ville blanchie à la chaux de Marbella autour d'une place plantée d'orangers, encadrée par l'hôtel de ville du XVIe siècle, entièrement parcourable en laisse et où la plupart des terrasses acceptent les chiens par défaut.`,
+          es: `El casco antiguo encalado de Marbella en torno a una plaza de naranjos enmarcada por el ayuntamiento del siglo XVI, totalmente paseable con correa y donde la mayoría de las terrazas admiten perros por defecto.`,
+          pt: `A cidade velha caiada de branco de Marbella à volta de uma praça de laranjeiras emoldurada pela câmara do século XVI, totalmente passeável à trela e onde a maioria das esplanadas aceita cães por defeito.`,
+        },
+      },
+      {
+        name: `Avenida del Mar (Dalí promenade)`,
+        emoji: `🎨`,
+        petFriendly: true,
+        desc: {
+          en: `An open-air museum: a free marble promenade lined with ten original bronze Salvador Dalí sculptures (Perseus, Mercurio and others), connecting Alameda Park to the seafront and walkable 24/7 on a leash.`,
+          fr: `Un musée à ciel ouvert : une promenade en marbre gratuite bordée de dix sculptures originales en bronze de Salvador Dalí (Persée, Mercure et d'autres), reliant le parc Alameda au front de mer et parcourable 24h/24 en laisse.`,
+          es: `Un museo al aire libre: un paseo de mármol gratuito flanqueado por diez esculturas originales de bronce de Salvador Dalí (Perseo, Mercurio y otras), que conecta el Parque de la Alameda con el paseo marítimo y se recorre 24h con correa.`,
+          pt: `Um museu ao ar livre: um passeio de mármore gratuito ladeado por dez esculturas originais de bronze de Salvador Dalí (Perseu, Mercúrio e outras), que liga o Parque da Alameda ao passeio marítimo e se percorre 24h à trela.`,
+        },
+      },
+      {
+        name: `Senda Litoral & Puerto Banús boardwalk`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          en: `A continuous 7 km wooden and concrete boardwalk linking Marbella centre to Puerto Banús, hugging the beach the entire way - the city's longest uninterrupted dog walk, fully flat, threading together the two official dog beaches.`,
+          fr: `Un platelage continu de 7 km en bois et béton reliant Marbella centre à Puerto Banús, en bord de plage sur toute la longueur - la plus longue promenade canine sans interruption de la ville, plate, qui relie les deux plages canines officielles.`,
+          es: `Una pasarela continua de 7 km de madera y hormigón que une Marbella centro con Puerto Banús, pegada a la playa todo el recorrido - el paseo canino más largo y sin interrupciones de la ciudad, totalmente llano, que enhebra las dos playas caninas oficiales.`,
+          pt: `Um estrado contínuo de 7 km em madeira e betão que liga Marbella centro a Puerto Banús, junto à praia ao longo de todo o percurso - o passeio canino mais longo e sem interrupções da cidade, totalmente plano, a unir as duas praias caninas oficiais.`,
+        },
+      },
+      {
+        name: `Parque Canino Arroyo de la Represa`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          en: `Marbella's reference fully-fenced off-leash dog park, with drinking fountains, agility equipment and free parking, run by the Ayuntamiento on the edge of the centre.`,
+          fr: `Le parc canin de référence de Marbella, entièrement clôturé, avec fontaines, équipement d'agility et stationnement gratuit, géré par la mairie en bordure du centre.`,
+          es: `El parque canino de referencia en Marbella, totalmente vallado, con fuentes, equipamiento de agility y aparcamiento gratuito, gestionado por el Ayuntamiento al borde del centro.`,
+          pt: `O parque canino de referência em Marbella, totalmente vedado, com fontes, equipamento de agility e estacionamento gratuito, gerido pela câmara no limite do centro.`,
+        },
+      },
+      {
+        name: `Puerto Banús marina`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          en: `Europe's reference luxury marina, fully walkable on a leash along its glamorous quayside promenade - busy and crowded in high season but flat and easy for calm dogs, with several pet-friendly café terraces.`,
+          fr: `La marina de luxe de référence en Europe, entièrement parcourable en laisse le long de sa promenade glamour - animée et fréquentée en haute saison mais plate et facile pour les chiens calmes, avec plusieurs terrasses de café pet-friendly.`,
+          es: `La marina de lujo de referencia en Europa, totalmente paseable con correa por su glamuroso paseo del muelle - animada y concurrida en alta temporada pero llana y fácil para perros tranquilos, con varias terrazas de café pet-friendly.`,
+          pt: `A marina de luxo de referência na Europa, totalmente passeável à trela pelo seu glamouroso passeio do cais - animada e concorrida em alta época mas plana e fácil para cães calmos, com várias esplanadas de café pet-friendly.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Apply the seven-second rule before every summer walk: if you can't hold the back of your hand on the pavement or wooden boardwalk for seven seconds, do not walk your dog there - in June-September, Andalusian asphalt regularly hits 50-60°C between 11:00 and 19:00 and burns paw pads in under 60 seconds.`,
+        `Walk before 09:30 or after 20:00 from late May to early October, and stick to shaded sand, grass or the cobbled Casco Antiguo lanes which stay cool most of the day.`,
+        `Andalusian supervised beaches ban dogs from 1 June to 30 September; outside this window almost every Marbella beach is leash-walkable, and the two official dog beaches (Pinillo and Ventura del Mar) stay open year-round.`,
+        `Save Urvet Marbella (+34 951 70 48 57) on arrival - English-speaking 24h emergency hospital on Camino del Ángel, closest to most beach hotels.`,
+        `Microchip and current rabies vaccination are mandatory for all dogs in Spain and may be scanned at AVE high-speed train entry points.`,
+      ],
+      fr: [
+        `Appliquez la règle des sept secondes avant chaque sortie estivale : si vous ne pouvez pas garder le dos de la main sur le trottoir ou le platelage en bois pendant sept secondes, ne sortez pas votre chien - en juin-septembre, le bitume andalou atteint régulièrement 50-60°C entre 11h et 19h et brûle les coussinets en moins de 60 secondes.`,
+        `Promenez avant 9h30 ou après 20h de fin mai à début octobre, et tenez-vous au sable ombragé, à la pelouse ou aux ruelles pavées du Casco Antiguo qui restent fraîches la majeure partie de la journée.`,
+        `Les plages andalouses surveillées interdisent les chiens du 1er juin au 30 septembre ; hors de cette fenêtre, presque toutes les plages de Marbella se promènent en laisse, et les deux plages canines officielles (Pinillo et Ventura del Mar) restent ouvertes toute l'année.`,
+        `Enregistrez Urvet Marbella (+34 951 70 48 57) en arrivant - hôpital d'urgence 24h anglophone sur le Camino del Ángel, le plus proche de la plupart des hôtels de plage.`,
+        `La puce électronique et la vaccination antirabique à jour sont obligatoires pour tous les chiens en Espagne et peuvent être contrôlées aux points d'entrée des trains AVE.`,
+      ],
+      es: [
+        `Aplica la regla de los siete segundos antes de cada paseo de verano: si no puedes mantener el dorso de la mano en la acera o pasarela de madera durante siete segundos, no saques al perro ahí - en junio-septiembre, el asfalto andaluz alcanza con frecuencia 50-60°C entre las 11:00 y las 19:00 y quema las almohadillas en menos de 60 segundos.`,
+        `Pasea antes de las 9:30 o después de las 20:00 desde finales de mayo a principios de octubre, y quédate en arena con sombra, césped o las calles empedradas del Casco Antiguo, que se mantienen frescas la mayor parte del día.`,
+        `Las playas andaluzas vigiladas prohíben los perros del 1 de junio al 30 de septiembre; fuera de esta ventana casi todas las playas de Marbella se pasean con correa, y las dos playas caninas oficiales (Pinillo y Ventura del Mar) permanecen abiertas todo el año.`,
+        `Guarda Urvet Marbella (+34 951 70 48 57) al llegar - hospital de urgencias 24h anglófono en el Camino del Ángel, el más cercano a la mayoría de los hoteles de playa.`,
+        `El microchip y la vacuna antirrábica al día son obligatorios para todos los perros en España y pueden escanearse en los puntos de entrada de los trenes AVE.`,
+      ],
+      pt: [
+        `Aplique a regra dos sete segundos antes de cada passeio de verão: se não conseguir manter as costas da mão no passeio ou no estrado de madeira durante sete segundos, não passeie o cão ali - em junho-setembro, o asfalto andaluz atinge frequentemente 50-60°C entre as 11:00 e as 19:00 e queima as almofadas em menos de 60 segundos.`,
+        `Passeie antes das 9:30 ou depois das 20:00 do final de maio ao início de outubro, e fique pela areia com sombra, relva ou pelas ruas empedradas do Casco Antiguo, que se mantêm frescas a maior parte do dia.`,
+        `As praias andaluzas vigiadas proíbem cães de 1 de junho a 30 de setembro; fora desta janela quase todas as praias de Marbella se passeiam à trela, e as duas praias caninas oficiais (Pinillo e Ventura del Mar) permanecem abertas todo o ano.`,
+        `Guarde Urvet Marbella (+34 951 70 48 57) ao chegar - hospital de urgência 24h anglófono no Camino del Ángel, o mais próximo da maioria dos hotéis de praia.`,
+        `O microchip e a vacina antirrábica em dia são obrigatórios para todos os cães em Espanha e podem ser lidos nos pontos de entrada dos comboios AVE.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `No train station: the nearest AVE high-speed line stops in Málaga María Zambrano, 60 km east; the easiest connection from Málaga airport is the Avanza intercity bus (€8-10, 45-75 min) or a private/Uber transfer.`,
+        `Two year-round official dog beaches: Playa Canina El Pinillo (east of centre) and Playa Canina Ventura del Mar (Nueva Andalucía); 250 m off-leash zones with showers and fountains, signposted 09:00-22:00.`,
+        `24h emergency vets: Urvet Marbella (+34 951 70 48 57, Camino del Ángel), Clínica Veterinaria La Campana (+34 952 81 15 94, Nueva Andalucía), GreenVet San Pedro de Alcántara - all with English-speaking staff.`,
+        `Public transport rules: small dogs in a closed carrier (max 60x35x35 cm) travel free on M-220 buses and Avanza intercity; large dogs case by case, leashed and muzzled.`,
+        `Best season: late September to May - off-season covers the beach ban, paw-burn risk drops, and inland walks around La Concha become comfortable.`,
+      ],
+      fr: [
+        `Pas de gare ferroviaire : la ligne à grande vitesse AVE la plus proche s'arrête à Málaga María Zambrano, à 60 km à l'est ; la liaison la plus simple depuis l'aéroport de Málaga est le bus interurbain Avanza (8-10€, 45-75 min) ou un transfert privé/Uber.`,
+        `Deux plages canines officielles ouvertes toute l'année : Playa Canina El Pinillo (est du centre) et Playa Canina Ventura del Mar (Nueva Andalucía) ; zones sans laisse de 250 m avec douches et fontaines, balisées 09h00-22h00.`,
+        `Vétérinaires d'urgence 24h : Urvet Marbella (+34 951 70 48 57, Camino del Ángel), Clínica Veterinaria La Campana (+34 952 81 15 94, Nueva Andalucía), GreenVet San Pedro de Alcántara - tous avec personnel anglophone.`,
+        `Transports en commun : petits chiens en sac fermé (max 60x35x35 cm) gratuits sur les bus M-220 et Avanza interurbains ; grands chiens au cas par cas, en laisse et muselés.`,
+        `Meilleure saison : fin septembre à mai - la basse saison contourne l'interdiction estivale des plages, le risque de brûlure des coussinets diminue et les balades à l'intérieur des terres autour de La Concha redeviennent agréables.`,
+      ],
+      es: [
+        `Sin estación de tren: la línea AVE de alta velocidad más cercana para en Málaga María Zambrano, a 60 km al este; la conexión más fácil desde el aeropuerto de Málaga es el autobús interurbano Avanza (8-10€, 45-75 min) o un traslado privado/Uber.`,
+        `Dos playas caninas oficiales todo el año: Playa Canina El Pinillo (este del centro) y Playa Canina Ventura del Mar (Nueva Andalucía); zonas sin correa de 250 m con duchas y fuentes, señalizadas 09:00-22:00.`,
+        `Veterinarios de urgencias 24h: Urvet Marbella (+34 951 70 48 57, Camino del Ángel), Clínica Veterinaria La Campana (+34 952 81 15 94, Nueva Andalucía), GreenVet San Pedro de Alcántara - todos con personal anglófono.`,
+        `Transporte público: perros pequeños en transportín cerrado (máx 60x35x35 cm) gratis en buses M-220 y Avanza interurbano; perros grandes caso por caso, con correa y bozal.`,
+        `Mejor temporada: de finales de septiembre a mayo - la temporada baja esquiva la prohibición estival en playas, baja el riesgo de quemadura de almohadillas y los paseos hacia el interior de La Concha vuelven a ser cómodos.`,
+      ],
+      pt: [
+        `Sem estação ferroviária: a linha AVE de alta velocidade mais próxima para em Málaga María Zambrano, a 60 km a leste; a ligação mais fácil a partir do aeroporto de Málaga é o autocarro interurbano Avanza (8-10€, 45-75 min) ou uma transferência privada/Uber.`,
+        `Duas praias caninas oficiais todo o ano: Playa Canina El Pinillo (leste do centro) e Playa Canina Ventura del Mar (Nueva Andalucía); zonas sem trela de 250 m com duches e fontes, sinalizadas 09:00-22:00.`,
+        `Veterinários de urgência 24h: Urvet Marbella (+34 951 70 48 57, Camino del Ángel), Clínica Veterinaria La Campana (+34 952 81 15 94, Nueva Andalucía), GreenVet San Pedro de Alcántara - todos com pessoal anglófono.`,
+        `Transportes públicos: cães pequenos em transportadora fechada (máx 60x35x35 cm) grátis nos autocarros M-220 e Avanza interurbano; cães grandes caso a caso, com trela e açaime.`,
+        `Melhor época: de finais de setembro a maio - a época baixa contorna a proibição estival nas praias, baixa o risco de queimadura das almofadas e os passeios pelo interior à volta de La Concha voltam a ser confortáveis.`,
+      ],
+    },
+  },
+
   marseille: {
     history: {
       fr: `Marseille est la plus ancienne ville de France, fondée par les Grecs phocéens en 600 avant J.-C., elle a 2 600 ans de culture portuaire et méditerranéenne. Ville cosmopolite et populaire, Marseille entretient un rapport décomplexé avec les animaux : les chiens accompagnent leurs maîtres sur les quais du Vieux-Port, dans les bars du Panier, et sur les sentiers des Calanques. Le Parc National des Calanques, créé en 2012 aux portes de la ville, offre un cadre unique em Europe : 20 km de côtes sauvages accessibles à pied ou em bateau, où les chiens sont autorisés em laisse. La ville compte aussi 70 km de littoral et plus de 30 parcs, dont une poignée disposent de zones canines dédiées.`,

@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { buildAmazonLink } from '@/lib/amazon'
+import { AMAZON_AFFILIATE_TAG, buildAmazonLink } from '@/lib/amazon'
 import type { AmazonProduct } from '@/data/amazon-products'
 
 interface Props {
@@ -13,15 +13,22 @@ interface Props {
 }
 
 /**
- * Product image URLs we try in order. The last one (null) means "give up and
- * show the emoji". `m.media-amazon.com/images/P/{ASIN}.jpg` is the legacy
- * pattern that resolves for ~90% of consumer products. If an Associate has
- * pasted a SiteStripe Image URL in the registry we use that first (better
- * resolution, officially blessed).
+ * Product image URLs we try in order:
+ *   1. Explicit `imageUrl` from the registry (SiteStripe HD), if set.
+ *   2. Amazon Associates image widget — official endpoint that works for
+ *      any active ASIN regardless of category. This is what SiteStripe
+ *      generates under the hood.
+ *   3. Legacy `m.media-amazon.com/images/P/{ASIN}.jpg` pattern (~50–90%
+ *      of products, fails on newer / non-book items).
+ *   4. Older `images-na.ssl-images-amazon.com` fallback.
+ *   5. If everything 404s, the card shows the product emoji.
  */
 function getImageCandidates(product: AmazonProduct): string[] {
   const urls: string[] = []
   if (product.imageUrl) urls.push(product.imageUrl)
+  urls.push(
+    `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${product.asin}&Format=_SL250_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=${AMAZON_AFFILIATE_TAG}`
+  )
   urls.push(`https://m.media-amazon.com/images/P/${product.asin}.jpg`)
   urls.push(`https://images-na.ssl-images-amazon.com/images/P/${product.asin}.01._SCLZZZZZZZ_.jpg`)
   return urls

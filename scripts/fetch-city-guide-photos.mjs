@@ -106,6 +106,12 @@ async function main() {
       // physical locations and Google Places matches noisy results (e.g.
       // "Rover Strasbourg" → Land Rover car dealership).
       if (sectionName === 'petsitting') continue
+      // Skip tips — concept cards ("Currency & cost", "Best season", "Heat &
+      // paw safety") that Google Places matches to irrelevant brand logos
+      // (e.g. "Currency & cost Modena" → Ria Money Transfer logo). The tips
+      // guide template now suppresses place.photo, so any image fetched here
+      // is dead weight that pollutes the cache and JSON.
+      if (sectionName === 'tips') continue
       const places = section?.places || []
       for (let idx = 0; idx < places.length; idx++) {
         const place = places[idx]

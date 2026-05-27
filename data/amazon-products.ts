@@ -78,14 +78,14 @@ export const PRODUCTS: AmazonProduct[] = [
     imageUrl: 'https://m.media-amazon.com/images/I/51r12skhO6L._AC_SL1170_.jpg',
   },
   {
-    asin: 'B06Y4CCPRC',
-    name: `WoofWoof - Gamelle pliante silicone 350 ml`,
-    desc: `Gamelle pliable en silicone alimentaire, mousqueton inclus pour l'accrocher au sac ou à la laisse. Indispensable pour les pauses-eau en rando ou sur l'autoroute.`,
+    asin: 'B07B2ZCN9D',
+    name: `Ruffwear Trail Runner - Gamelle pliante ultralégère (1 L)`,
+    desc: `Bol pliable en nylon 210D imperméable, contenance 1 L, base antidérapante stable. Se range dans une poche de veste, parfait pour les pauses-eau en rando, plage ou aire d'autoroute.`,
     category: 'gamelle',
-    petType: 'both',
-    priceHint: '~8 €',
+    petType: 'dog',
+    priceHint: '20–30 €',
     emoji: '🥣',
-    imageUrl: 'https://m.media-amazon.com/images/I/61myQqkniHL._AC_SL1500_.jpg',
+    imageUrl: 'https://m.media-amazon.com/images/I/81fMV+1YdSL._AC_SL1500_.jpg',
   },
 
   // ── Transport voiture / avion ─────────────────────────────────────────
@@ -243,14 +243,26 @@ export const PRODUCTS: AmazonProduct[] = [
     imageUrl: 'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',
   },
   {
-    asin: 'B0002AR0I8',
-    name: `KONG Classic - Jouet à garnir (L)`,
-    desc: `Version grande taille du Kong Classic, pour chiens 13–30 kg. Lavable lave-vaisselle, garantie à vie sur la robustesse - un investissement qui dure.`,
-    category: 'jouet',
+    asin: 'B00TUA98JA',
+    name: `Kurgo Mud Dog - Douche portable pour chien`,
+    desc: `Douchette silicone qui se visse sur n'importe quelle bouteille PET 2 L. Rince les pattes boueuses après plage ou rando avant de remonter en voiture - l'accessoire road-trip qu'on regrette de ne pas avoir.`,
+    category: 'hygiene',
     petType: 'dog',
-    priceHint: '15–22 €',
-    emoji: '🦴',
-    imageUrl: 'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',
+    priceHint: '12–18 €',
+    emoji: '🚿',
+    imageUrl: 'https://m.media-amazon.com/images/I/71GW4CVxl5L._AC_SL1500_.jpg',
+  },
+
+  // ── Premiers secours ──────────────────────────────────────────────────
+  {
+    asin: 'B00IKRVU90',
+    name: `Kurgo - Trousse de premiers secours chien`,
+    desc: `Trousse compacte (compresses stériles, bandage cohésif, pince à tique, couverture de survie) pensée pour voyages et rando. La marque référence aux US, distribuée en France depuis 10 ans.`,
+    category: 'securite',
+    petType: 'both',
+    priceHint: '25–35 €',
+    emoji: '🩹',
+    imageUrl: 'https://m.media-amazon.com/images/I/81QdYcNIVeL._AC_SL1500_.jpg',
   },
 ]
 

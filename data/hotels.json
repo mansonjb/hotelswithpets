@@ -7428,6 +7428,30 @@
     "petPolicyPt": "Cães e gatos bem-vindos; nas proximidades Parc du Cinquantenaire recommended."
   },
   {
+    "id": "lugano-5",
+    "name": "Hotel and Hostel Montarina",
+    "destinationSlug": "lugano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "budget-pet-friendly"
+    ],
+    "stars": 2,
+    "rating": 8.7,
+    "reviewCount": 1950,
+    "priceFrom": 115,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/montarina.html",
+    "petFee": 14,
+    "petPolicy": "Hotel & Hostel Montarina is a historic villa-hostel hybrid 5 minutes uphill from Lugano station, with a large garden, outdoor pool, and the most affordable pet-friendly stay in central Lugano. Pets accepted for approximately CHF 15 (€14) per pet per night, dogs and cats both welcome. The 12,000 m² garden provides ample dog space; rooms range from private doubles to dorm shares (only private rooms accept pets).",
+    "highlights": [
+      "12,000 m² private garden",
+      "Outdoor pool",
+      "Most affordable pet stay in Lugano"
+    ],
+    "slug": "hotel-and-hostel-montarina"
+  },
+  {
     "id": "san-sebastian-2",
     "name": "Hotel Antik San Sebastián",
     "destinationSlug": "san-sebastian",
@@ -9631,6 +9655,30 @@
     "petPolicyPt": "Animais permitidos por 15 EUR por noite. Tigelas e camas fornecidas mediante pedido. Cães e gatos bem-vindos."
   },
   {
+    "id": "lugano-3",
+    "name": "Hotel International au Lac Historic Lakeside Hotel",
+    "destinationSlug": "lugano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1620,
+    "priceFrom": 215,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/internationalaulac.html",
+    "petFee": 24,
+    "petPolicy": "Hotel International au Lac is a 4-star family-run hotel directly on the lakefront promenade, between Parco Ciani and the city centre. Pets accepted on prior request for approximately CHF 25 (€24) per pet per night. Dogs and cats both welcome. Direct access to the lakeside promenade and Parco Ciani's Area cani off-leash zone in 5 min on foot.",
+    "highlights": [
+      "Lakefront promenade location",
+      "5 min to Parco Ciani Area cani",
+      "Family-run since 1906"
+    ],
+    "slug": "hotel-international-au-lac-lugano"
+  },
+  {
     "id": "brno-2",
     "name": "Hotel International Brno",
     "destinationSlug": "brno",
@@ -9990,6 +10038,30 @@
     ],
     "slug": "hotel-lobby",
     "petPolicyPt": "Hotel Lobby é um animal-friendly estabelecimento that welcomes cães e gatos. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 25 kg; up para two animais per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em áreas comuns e são não permitidos sem supervisão nos quartos para extended periods. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "lugano-4",
+    "name": "Hotel Lugano Center",
+    "destinationSlug": "lugano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 850,
+    "priceFrom": 175,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/lugano-center.html",
+    "petFee": 19,
+    "petPolicy": "Hotel Lugano Center is a 4-star property in central Lugano, a 5-min walk from Piazza della Riforma and the lake. Pets accepted on prior request for approximately CHF 20 (€19) per pet per night. Dogs and cats both welcome; one pet per room. The hotel has a small garden where leashed dogs are welcome and the staff routinely host travellers with pets.",
+    "highlights": [
+      "5 min to Piazza della Riforma",
+      "Small garden for dogs",
+      "Mid-range central price"
+    ],
+    "slug": "hotel-lugano-center"
   },
   {
     "id": "cologne-1",
@@ -11417,6 +11489,30 @@
     ],
     "slug": "hotel-sol-algarve",
     "petPolicyPt": "Hotel Sol Algarve, um 3-star family-run hotel near o train station, welcomes animais em 8 € por noite. One animal per quarto standard, second em prior pedido. Cidade Velha 8 min em foot, marina 6 min."
+  },
+  {
+    "id": "lugano-1",
+    "name": "Hotel Splendide Royal Lugano",
+    "destinationSlug": "lugano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1840,
+    "priceFrom": 475,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/splendide-royal.html",
+    "petFee": 38,
+    "petPolicy": "Hotel Splendide Royal Lugano is the historic 5-star landmark on Riva Caccia, on the lakefront with direct views of Monte San Salvatore. Pets are welcomed on prior request for a fee of approximately CHF 40 (€38) per pet per night. Dogs and cats accepted; one pet per room standard. The hotel's lakefront terrace welcomes leashed dogs and the concierge can arrange dog walkers via a vetted Pawshake sitter network.",
+    "highlights": [
+      "Historic 5-star lakefront",
+      "Direct Monte San Salvatore view",
+      "Concierge dog walker service"
+    ],
+    "slug": "hotel-splendide-royal-lugano"
   },
   {
     "id": "krakow-1",
@@ -22959,6 +23055,31 @@
     ],
     "slug": "the-venice-venice-hotel",
     "petPolicyPt": "O Venice Venice Hotel warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €30 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "lugano-2",
+    "name": "The View Lugano",
+    "destinationSlug": "lugano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury-pet-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 920,
+    "priceFrom": 425,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ch/the-view-lugano.html",
+    "petFee": 38,
+    "petPolicy": "The View Lugano is a 5-star design hotel above Paradiso with an infinity pool and a 360° view over the lake. Pets are welcomed on prior request for approximately CHF 40 (€38) per pet per night. Dogs and cats both accepted; one pet per suite. Specific pet-friendly suites must be allocated at booking. The hotel restaurant terrace welcomes leashed dogs for breakfast and dinner with the Matterhorn-on-lake view.",
+    "highlights": [
+      "Design hotel above Paradiso",
+      "Infinity pool",
+      "360° lake view"
+    ],
+    "slug": "the-view-lugano"
   },
   {
     "id": "dublin-3",

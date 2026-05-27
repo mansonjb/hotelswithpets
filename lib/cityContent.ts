@@ -12075,6 +12075,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  lugano: {
+    history: {
+      en: `Lugano is the largest city in the Italian-speaking canton of Ticino, perched on the eastern shore of Lake Lugano at the foot of Monte San Salvatore and Monte Brè. With about 63,000 residents and a metro area of 150,000, it's Switzerland's southernmost city and the only major one where Italian is the everyday language — a unique cultural enclave where Lombard architecture, palms, citrus and Mediterranean light meet Swiss precision. Historically a Lombard bishopric, it joined the Swiss Confederation in 1798 and grew through Belle Époque tourism. Today Lugano is a financial centre (third-largest in Switzerland after Zurich and Geneva), an arts hub with the LAC cultural complex, and a year-round dog-friendly destination thanks to its mild climate, lakeside walks, dog-accessible funiculars, and an Italian-Ticinese restaurant culture that genuinely welcomes pets. Swiss third-party dog liability insurance is mandatory for residents, and Cantonal Ticino's dog laws are softer than the German-speaking cantons (no Maulkorbpflicht). The combination of lake, mountains, Italian charm and Swiss infrastructure makes Lugano one of the easiest large Swiss cities to visit with a dog.`,
+      fr: `Lugano est la plus grande ville du canton italophone du Tessin, perchée sur la rive est du lac de Lugano au pied du Monte San Salvatore et du Monte Brè. Avec environ 63 000 habitants et une aire métropolitaine de 150 000, c'est la ville la plus méridionale de Suisse et la seule grande ville où l'italien est la langue quotidienne — une enclave culturelle unique où architecture lombarde, palmiers, agrumes et lumière méditerranéenne rencontrent la précision suisse. Historiquement évêché lombard, elle a rejoint la Confédération suisse en 1798 et s'est développée grâce au tourisme Belle Époque. Aujourd'hui Lugano est un centre financier (le troisième de Suisse après Zurich et Genève), un pôle artistique avec le complexe culturel LAC, et une destination dog-friendly toute l'année grâce à son climat doux, ses promenades lacustres, ses funiculaires accessibles aux chiens et une culture restauration italo-tessinoise qui accueille sincèrement les animaux. L'assurance responsabilité civile canine est obligatoire pour les résidents suisses, et la loi tessinoise sur les chiens est plus souple que celle des cantons alémaniques (pas de Maulkorbpflicht). La combinaison lac-montagnes-charme italien-infrastructure suisse fait de Lugano l'une des grandes villes suisses les plus faciles à visiter avec un chien.`,
+      es: `Lugano es la mayor ciudad del cantón italoparlante del Ticino, encaramada en la orilla este del lago Lugano al pie del Monte San Salvatore y el Monte Brè. Con unos 63.000 habitantes y un área metropolitana de 150.000, es la ciudad más meridional de Suiza y la única importante donde el italiano es la lengua cotidiana: un enclave cultural único donde arquitectura lombarda, palmeras, cítricos y luz mediterránea se encuentran con la precisión suiza. Históricamente obispado lombardo, se unió a la Confederación Suiza en 1798 y se desarrolló gracias al turismo Belle Époque. Hoy Lugano es un centro financiero (el tercero de Suiza tras Zurich y Ginebra), un polo artístico con el complejo cultural LAC y un destino dog-friendly todo el año gracias a su clima suave, sus paseos lacustres, sus funiculares accesibles a perros y una cultura gastronómica ítalo-ticinés que acoge genuinamente a las mascotas. El seguro de responsabilidad civil canina es obligatorio para residentes suizos, y la ley ticinés sobre perros es más blanda que la de los cantones alemanes (sin Maulkorbpflicht). La combinación lago-montañas-encanto italiano-infraestructura suiza hace de Lugano una de las grandes ciudades suizas más fáciles de visitar con perro.`,
+      pt: `Lugano é a maior cidade do cantão italófono do Ticino, empoleirada na margem leste do lago Lugano ao pé do Monte San Salvatore e do Monte Brè. Com cerca de 63.000 residentes e uma área metropolitana de 150.000, é a cidade mais meridional da Suíça e a única importante onde o italiano é a língua quotidiana — um enclave cultural único onde arquitetura lombarda, palmeiras, citrinos e luz mediterrânica se encontram com a precisão suíça. Historicamente bispado lombardo, juntou-se à Confederação Suíça em 1798 e desenvolveu-se com o turismo Belle Époque. Hoje Lugano é um centro financeiro (o terceiro da Suíça depois de Zurique e Genebra), um polo artístico com o complexo cultural LAC e um destino pet-friendly todo o ano graças ao seu clima ameno, passeios lacustres, funiculares acessíveis a cães e uma cultura gastronómica ítalo-tessinesa que acolhe genuinamente os animais. O seguro de responsabilidade civil canina é obrigatório para residentes suíços, e a lei tessinesa sobre cães é mais branda do que a dos cantões alemães (sem Maulkorbpflicht). A combinação lago-montanhas-charme italiano-infraestrutura suíça torna Lugano uma das grandes cidades suíças mais fáceis de visitar com cão.`,
+    },
+    sights: [
+      {
+        name: 'Parco Ciani',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `Lugano's central 63,000 m² public park along the lakefront, with mature plane trees, century-old magnolias and a fenced Area cani in the eastern section. Leashed dogs welcome throughout; the daily city dog meeting point.`,
+          fr: `Le parc public central de Lugano, 63 000 m² le long du lac, avec platanes anciens, magnolias centenaires et une Area cani clôturée dans la section est. Chiens en laisse bienvenus partout ; le point de rencontre canin quotidien de la ville.`,
+          es: `El parque público central de Lugano, 63.000 m² a lo largo del lago, con plátanos maduros, magnolias centenarias y una Area cani vallada en la sección este. Perros con correa bienvenidos en todo el parque; el punto de encuentro canino diario.`,
+          pt: `O parque público central de Lugano, 63.000 m² ao longo do lago, com plátanos maduros, magnólias centenárias e uma Area cani vedada na secção leste. Cães com trela bem-vindos em todo o parque; o ponto de encontro canino diário.`,
+        },
+      },
+      {
+        name: 'Lakeside Promenade Lugano-Paradiso',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          en: `A 3 km paved lakefront walk from Lugano's Piazza Manzoni south to the Paradiso district, with continuous lake views, palms and art installations. Leashed dogs welcome throughout; several gravel coves let dogs dip paws.`,
+          fr: `Une promenade pavée de 3 km au bord du lac de la Piazza Manzoni au sud jusqu'à Paradiso, avec vue continue sur le lac, palmiers et installations d'art. Chiens en laisse bienvenus partout ; plusieurs criques de gravier pour tremper les pattes.`,
+          es: `Un paseo pavimentado de 3 km a orillas del lago desde la Piazza Manzoni al sur hasta Paradiso, con vistas continuas, palmeras e instalaciones de arte. Perros con correa bienvenidos en todo el recorrido; varias calas de grava para mojar las patas.`,
+          pt: `Um passeio pavimentado de 3 km à beira do lago da Piazza Manzoni a sul até Paradiso, com vistas contínuas, palmeiras e instalações de arte. Cães com trela bem-vindos em todo o trajeto; várias enseadas de gravilha para molhar as patas.`,
+        },
+      },
+      {
+        name: 'Monte Brè Funicular',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          en: `The 12-min funicular from Cassarate to the 925 m summit, with leashed dogs accepted (CHF 5 return). The summit terrace offers a 360° panorama and the dog-friendly restaurant welcomes leashed dogs. Air at the summit is 5-8 °C cooler than the city.`,
+          fr: `Le funiculaire de 12 min de Cassarate au sommet à 925 m, chiens en laisse acceptés (5 CHF A/R). La terrasse du sommet offre un panorama à 360° et le restaurant dog-friendly accueille les chiens en laisse. L'air au sommet est 5-8 °C plus frais que la ville.`,
+          es: `El funicular de 12 min de Cassarate a la cumbre a 925 m, con perros con correa admitidos (5 CHF ida/vuelta). La terraza de la cumbre ofrece panorámica de 360° y el restaurante dog-friendly admite perros con correa. El aire de la cumbre es 5-8 °C más fresco que la ciudad.`,
+          pt: `O funicular de 12 min de Cassarate até ao cume a 925 m, com cães com trela aceites (5 CHF ida/volta). A esplanada do cume oferece panorâmica de 360° e o restaurante pet-friendly admite cães com trela. O ar do cume é 5-8 °C mais fresco do que a cidade.`,
+        },
+      },
+      {
+        name: 'Sentiero dell\'Olivo to Gandria',
+        emoji: '🫒',
+        petFriendly: true,
+        desc: {
+          en: `A 3.5 km lakeside footpath from Castagnola to the picturesque fishing village of Gandria, passing 18 educational panels on Mediterranean olive cultivation. Almost level, partially shaded, leashed dogs welcome. Lugano lake boat back (dogs free) closes a perfect dog day loop.`,
+          fr: `Un sentier de 3,5 km au bord du lac de Castagnola au pittoresque village de pêche de Gandria, passant par 18 panneaux pédagogiques sur la culture méditerranéenne de l'olivier. Quasi plat, partiellement ombragé, chiens en laisse bienvenus. Bateau du lac de Lugano au retour (chiens gratuits) pour boucler une journée parfaite.`,
+          es: `Un sendero de 3,5 km a orillas del lago de Castagnola al pintoresco pueblo pesquero de Gandria, pasando por 18 paneles educativos sobre el cultivo del olivo mediterráneo. Casi llano, parcialmente sombreado, perros con correa bienvenidos. Vuelta en barco del lago Lugano (perros gratis) para cerrar un día perfecto.`,
+          pt: `Um trilho de 3,5 km à beira do lago de Castagnola à pitoresca aldeia piscatória de Gandria, passando por 18 painéis pedagógicos sobre o cultivo da oliveira mediterrânica. Quase plano, parcialmente sombreado, cães com trela bem-vindos. Regresso de barco do lago Lugano (cães grátis) para fechar um dia perfeito.`,
+        },
+      },
+      {
+        name: 'Lido di Caslano Dog Beach',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          en: `The only officially designated dog swimming beach on the Swiss side of Lake Lugano — a small dedicated gravel cove with shallow shoreline, separate from the main human bathing area. Open year-round, free entry. Reach by TPL Postbus 431 (25 min from central Lugano).`,
+          fr: `La seule plage canine officiellement désignée côté suisse du lac de Lugano — une petite crique de gravier dédiée à littoral peu profond, séparée de la zone humaine principale. Ouverte toute l'année, accès libre. Postbus TPL 431 (25 min depuis le centre de Lugano).`,
+          es: `La única playa canina oficialmente designada en el lado suizo del lago Lugano — una pequeña cala de grava dedicada con litoral poco profundo, separada de la zona humana principal. Abierta todo el año, acceso libre. Postbus TPL 431 (25 min del centro de Lugano).`,
+          pt: `A única praia canina oficialmente designada no lado suíço do lago Lugano — uma pequena enseada de gravilha dedicada com litoral raso, separada da zona humana principal. Aberta todo o ano, acesso livre. Postbus TPL 431 (25 min do centro de Lugano).`,
+        },
+      },
+      {
+        name: 'Morcote Lakeside Village',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: `Often called the most beautiful village in Switzerland, Morcote sits at the southern tip of Lake Lugano with terracotta-roofed houses reflecting on the water. Reached by lake boat (25 min, dogs free); the entire pedestrian village welcomes leashed dogs and most terrace restaurants accept them.`,
+          fr: `Souvent appelée le plus beau village de Suisse, Morcote se trouve à l'extrémité sud du lac de Lugano avec ses maisons aux toits de terre cuite se reflétant sur l'eau. Accessible par le bateau du lac (25 min, chiens gratuits) ; tout le village piéton accueille les chiens en laisse et la plupart des restaurants en terrasse les acceptent.`,
+          es: `A menudo llamada el pueblo más bonito de Suiza, Morcote se halla en el extremo sur del lago Lugano con casas de tejados de terracota reflejándose en el agua. Accesible por barco del lago (25 min, perros gratis); el pueblo peatonal entero acoge perros con correa y la mayoría de restaurantes con terraza los admite.`,
+          pt: `Frequentemente chamada a aldeia mais bonita da Suíça, Morcote situa-se no extremo sul do lago Lugano com casas de telhados de terracota refletindo-se na água. Acessível de barco do lago (25 min, cães grátis); toda a aldeia pedonal acolhe cães com trela e a maioria dos restaurantes com esplanada admite-os.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Lake Lugano boats (Società Navigazione del Lago di Lugano) carry leashed dogs FREE year-round. Open stern decks are the best dog spots; the day pass (CHF 60) lets you combine Gandria, Morcote and Campione without extra dog tickets.`,
+        `Ticino canton dispenses with the Austrian-style Maulkorbpflicht — most TPL bus drivers and SBB conductors don't ask for muzzles for large dogs in Ticino itself. Carry one for cross-border Italian trains (Trenord) and onward Swiss-German trains, where rules are stricter.`,
+        `Lugano's Mediterranean summers (30-34 °C, 65%+ humidity) are much more uncomfortable for dogs than the dry Alpine cities. Walk before 09:00 or after 19:00 in July-August; cobblestones around Piazza della Riforma can scorch paws midday. Use Monte Brè funicular to escape heat.`,
+        `Cross-border to Italy (Como, Milan) is seamless within Schengen but Italian transport rules differ: large dogs muzzled+leashed required on Italian buses; Trenord dogs under 10 kg in carrier travel free, larger dogs half-fare. Carry your EU pet passport across the border.`,
+        `Save +41 91 921 30 30 (Clinica Veterinaria Lugano, 24/7) and Rega 1414 (Swiss air rescue, dogs included for members CHF 40/year). Lugano's resident emergency clinic is the canton's reference centre with X-ray, CT, ultrasound and surgical capacity.`,
+      ],
+      fr: [
+        `Les bateaux du lac de Lugano (Società Navigazione del Lago di Lugano) transportent les chiens en laisse GRATUITEMENT toute l'année. Les ponts arrière ouverts sont les meilleures places pour chien ; le pass journée (60 CHF) permet de combiner Gandria, Morcote et Campione sans frais supplémentaires.`,
+        `Le canton du Tessin se dispense de la Maulkorbpflicht à l'autrichienne — la plupart des chauffeurs TPL et contrôleurs CFF ne demandent pas de muselière pour les grands chiens au Tessin. Apportez-en une pour les trains transfrontaliers italiens (Trenord) et les trains alémaniques où les règles sont plus strictes.`,
+        `Les étés méditerranéens de Lugano (30-34 °C, 65%+ d'humidité) sont bien plus inconfortables pour les chiens que les villes alpines sèches. Promenez avant 9h ou après 19h en juillet-août ; les pavés autour de la Piazza della Riforma peuvent brûler les pattes en milieu de journée. Utilisez le funiculaire du Monte Brè pour échapper à la chaleur.`,
+        `Le passage en Italie (Côme, Milan) est sans accroc dans Schengen mais les règles de transport italiennes diffèrent : grands chiens muselés+en laisse obligatoires sur les bus italiens ; sur Trenord, chiens de moins de 10 kg en transportin gratuits, plus grands au demi-tarif. Apportez le passeport européen.`,
+        `Enregistrez +41 91 921 30 30 (Clinica Veterinaria Lugano, 24h/24) et Rega 1414 (secours héliporté suisse, chiens inclus pour les membres à 40 CHF/an). La clinique d'urgence résidente de Lugano est le centre de référence du canton avec radio, CT, écho et capacité chirurgicale.`,
+      ],
+      es: [
+        `Los barcos del lago Lugano (Società Navigazione del Lago di Lugano) llevan perros con correa GRATIS todo el año. La popa abierta es el mejor sitio para perro; el pase día (60 CHF) permite combinar Gandria, Morcote y Campione sin tickets adicionales.`,
+        `El cantón del Ticino prescinde de la Maulkorbpflicht estilo austriaco: la mayoría de conductores TPL y revisores SBB no piden bozal para perros grandes en el Ticino. Lleva uno para trenes italianos transfronterizos (Trenord) y trenes suizo-alemanes, donde las reglas son más estrictas.`,
+        `Los veranos mediterráneos de Lugano (30-34 °C, 65%+ humedad) son mucho más incómodos para perros que las ciudades alpinas secas. Pasea antes de las 09:00 o después de las 19:00 en julio-agosto; el adoquinado alrededor de la Piazza della Riforma puede quemar las patas a mediodía. Usa el funicular del Monte Brè para escapar del calor.`,
+        `El paso a Italia (Como, Milán) es fluido dentro de Schengen pero las reglas de transporte italianas difieren: perros grandes con bozal+correa obligatorios en autobuses italianos; en Trenord, perros menores de 10 kg en transportín gratis, grandes a medio billete. Lleva el pasaporte europeo.`,
+        `Guarda +41 91 921 30 30 (Clinica Veterinaria Lugano, 24/7) y Rega 1414 (rescate aéreo suizo, perros incluidos para socios a 40 CHF/año). La clínica de urgencias residente de Lugano es el centro de referencia del cantón con rayos X, TAC, ecografía y capacidad quirúrgica.`,
+      ],
+      pt: [
+        `Os barcos do lago Lugano (Società Navigazione del Lago di Lugano) transportam cães com trela GRÁTIS todo o ano. A popa aberta é o melhor lugar para cão; o passe diário (60 CHF) permite combinar Gandria, Morcote e Campione sem bilhetes adicionais.`,
+        `O cantão do Ticino dispensa a Maulkorbpflicht ao estilo austríaco — a maioria dos motoristas TPL e revisores SBB não pede açaime para cães grandes no Ticino. Leva um para comboios italianos transfronteiriços (Trenord) e comboios suíço-alemães, onde as regras são mais estritas.`,
+        `Os verões mediterrânicos de Lugano (30-34 °C, 65%+ humidade) são muito mais desconfortáveis para cães do que as cidades alpinas secas. Passeia antes das 09:00 ou depois das 19:00 em julho-agosto; a calçada em redor da Piazza della Riforma pode queimar as patas a meio do dia. Usa o funicular do Monte Brè para escapar ao calor.`,
+        `A passagem para Itália (Como, Milão) é fluida dentro de Schengen mas as regras de transporte italianas diferem: cães grandes com açaime+trela obrigatórios em autocarros italianos; na Trenord, cães com menos de 10 kg em transportadora grátis, maiores com meio bilhete. Leva o passaporte europeu.`,
+        `Guarda +41 91 921 30 30 (Clinica Veterinaria Lugano, 24/7) e Rega 1414 (resgate aéreo suíço, cães incluídos para sócios a 40 CHF/ano). A clínica de urgência residente de Lugano é o centro de referência do cantão com raio-X, TC, ecografia e capacidade cirúrgica.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest international airport: Milan Malpensa (MXP, 80 km / 1.5 h by car or direct ALSA/FlixBus shuttle). Lugano-Agno (LUG) operates limited service. Zurich (ZRH) is ~2 h by direct SBB train.`,
+        `SBB direct trains from Zurich (~2 h), Geneva (~3.5 h via Milan or Zurich connection) and Italian Trenord trains from Milan Centrale (~1 h). Small dogs in carrier free; larger dogs leashed at half-fare adult ticket. Swiss Travel Pass lets dogs travel free with a paying adult.`,
+        `Lugano is officially Italian-speaking; Italian is the everyday language. English is widely used in tourist and business areas; German and French available at hotels and central restaurants. Vet services typically Italian first with strong English.`,
+        `Swiss third-party dog liability insurance is mandatory for residents. Visitors are strongly encouraged to carry pet travel insurance with mountain rescue cover; Rega membership (CHF 40/year) airlifts dogs alongside their owners.`,
+        `EU/Swiss pet passport, microchip and rabies vaccination required. UK travellers since Brexit need an Animal Health Certificate (AHC) issued by an Official Veterinarian within 10 days of travel.`,
+      ],
+      fr: [
+        `Aéroport international le plus proche : Milan Malpensa (MXP, 80 km / 1h30 en voiture ou navette ALSA/FlixBus directe). Lugano-Agno (LUG) propose un service limité. Zurich (ZRH) est à ~2 h en train direct CFF.`,
+        `Trains directs CFF depuis Zurich (~2 h), Genève (~3h30 via Milan ou correspondance Zurich) et trains italiens Trenord depuis Milano Centrale (~1 h). Petits chiens en transportin gratuits ; grands chiens en laisse au demi-tarif adulte. Le Swiss Travel Pass laisse les chiens voyager gratuitement avec un adulte payant.`,
+        `Lugano est officiellement italophone ; l'italien est la langue quotidienne. L'anglais est largement utilisé dans les zones touristiques et d'affaires ; allemand et français disponibles dans les hôtels et restaurants centraux. Services vétérinaires en italien d'abord, anglais solide.`,
+        `L'assurance responsabilité civile pour chien est obligatoire en Suisse pour les résidents. Les visiteurs sont fortement encouragés à souscrire une assurance voyage animale avec couverture secours en montagne ; l'adhésion Rega (40 CHF/an) héliporte les chiens avec leurs maîtres.`,
+        `Passeport européen/suisse, puce et vaccination antirabique obligatoires. Les voyageurs britanniques depuis le Brexit doivent obtenir un Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant le voyage.`,
+      ],
+      es: [
+        `Aeropuerto internacional más cercano: Milán Malpensa (MXP, 80 km / 1,5 h en coche o lanzadera ALSA/FlixBus directa). Lugano-Agno (LUG) opera servicio limitado. Zurich (ZRH) está a ~2 h en tren directo SBB.`,
+        `Trenes directos SBB desde Zurich (~2 h), Ginebra (~3,5 h vía Milán o transbordo Zurich) y trenes italianos Trenord desde Milano Centrale (~1 h). Perros pequeños en transportín gratis; grandes con correa a medio billete adulto. El Swiss Travel Pass deja viajar a los perros gratis con un adulto de pago.`,
+        `Lugano es oficialmente italoparlante; el italiano es la lengua cotidiana. El inglés se usa ampliamente en zonas turísticas y de negocios; alemán y francés disponibles en hoteles y restaurantes centrales. Servicios veterinarios primero en italiano con buen inglés.`,
+        `El seguro de responsabilidad civil canina es obligatorio en Suiza para residentes. A los visitantes se les recomienda encarecidamente seguro de viaje para mascotas con cobertura de rescate en montaña; la afiliación Rega (40 CHF/año) helicopta a perros con sus dueños.`,
+        `Pasaporte europeo/suizo, microchip y vacuna antirrábica obligatorios. Los viajeros del Reino Unido desde el Brexit necesitan un Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos al viaje.`,
+      ],
+      pt: [
+        `Aeroporto internacional mais próximo: Milão Malpensa (MXP, 80 km / 1,5 h de carro ou shuttle ALSA/FlixBus direto). Lugano-Agno (LUG) opera serviço limitado. Zurique (ZRH) fica a ~2 h em comboio direto SBB.`,
+        `Comboios diretos SBB de Zurique (~2 h), Genebra (~3,5 h via Milão ou transbordo Zurique) e comboios italianos Trenord de Milão Central (~1 h). Cães pequenos em transportadora grátis; cães grandes com trela com meio bilhete adulto. O Swiss Travel Pass deixa os cães viajar grátis com um adulto pagante.`,
+        `Lugano é oficialmente italófona; o italiano é a língua quotidiana. O inglês é amplamente usado nas zonas turísticas e de negócios; alemão e francês disponíveis em hotéis e restaurantes centrais. Serviços veterinários primeiro em italiano com bom inglês.`,
+        `O seguro de responsabilidade civil canina é obrigatório na Suíça para residentes. Aos visitantes recomenda-se fortemente seguro de viagem para animais com cobertura de resgate em montanha; a adesão Rega (40 CHF/ano) resgata cães em helicóptero com os donos.`,
+        `Passaporte europeu/suíço, microchip e vacina antirrábica obrigatórios. Viajantes do Reino Unido desde o Brexit precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem.`,
+      ],
+    },
+  },
+
   luxembourg: {
     history: {
       fr: `Luxembourg-Ville est la capitale du Grand-Duché du Luxembourg, État souverain depuis 1815 et l'un des fondateurs de l'Union européenne. Construite sur un promontoire rocheux à la confluence de l'Alzette et de la Pétrusse, la ville-citadelle a été surnommée la 'Gibraltar du Nord' et ses fortifications sont classées UNESCO depuis 1994. Avec environ 130 000 habitants intra-muros (50 % de la population non-luxembourgeoise, l'une des proportions les plus internationales d'Europe), c'est aussi un hub financier majeur. Côté chiens, le Luxembourg combine la rigueur allemande (passeport européen, vaccination antirabique) avec la souplesse française (chiens souvent acceptés em salle de restaurant). Particularité unique au monde : depuis le 1er mars 2020, tout le transport public est gratuit pour tous, animaux compris, bus, tram, trains CFL, sans ticket. La ville compte neuf enclos canins clôturés, deux cliniques vétérinaires 24h/24, et la législation de protection animale la plus stricte d'Europe.`,

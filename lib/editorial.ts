@@ -491,6 +491,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the lakeside Schweizerhofquai promenade, the Sonnenberg forest ridge above the city, and the 30-hectare Allmend commons',
       area: 'the Altstadt, Tribschen, and Hirschmatt-Neustadt',
     },
+    lugano: {
+      personality: 'the elegant Italian-speaking face of Switzerland on Lake Lugano, where dogs ride the lake boats free, walk the Sentiero dell\'Olivo to Gandria, swim at the dedicated Caslano dog beach, and take the Monte Brè funicular to a 925 m panorama',
+      highlight: 'the lakeside Promenade Lugano-Paradiso, the Sentiero dell\'Olivo to Gandria, and the Monte Brè funicular to the summit terrace',
+      area: 'the centre around Piazza della Riforma, the lakeside Paradiso district, and Castagnola-Gandria on the eastern shore',
+    },
     luxembourg: {
       personality: 'the only European capital with free public transport for everyone (including dogs) since 2020, with nine fenced municipal dog enclosures inside the city and a UNESCO Old Town that wraps around the dramatic Pétrusse and Alzette river valleys',
       highlight: 'the Chemin de la Corniche, the Parc de la Pétrusse with its two dog enclosures, and the 600-hectare Bambësch forest',
@@ -1314,6 +1319,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade lacustre du Schweizerhofquai, la crête boisée du Sonnenberg au-dessus de la ville et le pré communal de l'Allmend (30 hectares)`,
       area: `la Vieille Ville (Altstadt), Tribschen et Hirschmatt-Neustadt`,
     },
+    lugano: {
+      personality: `la face italophone élégante de la Suisse sur le lac de Lugano, où les chiens prennent gratuitement les bateaux du lac, parcourent le Sentiero dell'Olivo jusqu'à Gandria, se baignent à la plage canine dédiée de Caslano et prennent le funiculaire du Monte Brè jusqu'à un panorama à 925 m`,
+      highlight: `la promenade lacustre Lugano-Paradiso, le Sentiero dell'Olivo jusqu'à Gandria et le funiculaire du Monte Brè vers la terrasse du sommet`,
+      area: `le centre autour de la Piazza della Riforma, le quartier lacustre de Paradiso et Castagnola-Gandria sur la rive est`,
+    },
     luxembourg: {
       personality: 'la seule capitale européenne avec transports publics gratuits pour tous (chiens compris) depuis 2020, avec neuf enclos canins municipaux clôturés dans la ville et une Vieille Ville UNESCO qui épouse les spectaculaires vallées du Pétrusse et de l\'Alzette',
       highlight: 'le Chemin de la Corniche, le Parc de la Pétrusse avec ses deux enclos canins, et la forêt du Bambësch de 600 hectares',
@@ -2136,6 +2146,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo lacustre del Schweizerhofquai, la cresta boscosa del Sonnenberg sobre la ciudad y la explanada comunal del Allmend (30 hectáreas)`,
       area: `el casco antiguo (Altstadt), Tribschen y Hirschmatt-Neustadt`,
     },
+    lugano: {
+      personality: `la cara italoparlante elegante de Suiza sobre el lago Lugano, donde los perros viajan gratis en los barcos del lago, recorren el Sentiero dell'Olivo hasta Gandria, se bañan en la playa canina dedicada de Caslano y suben en el funicular del Monte Brè a un panorama a 925 m`,
+      highlight: `el paseo lacustre Lugano-Paradiso, el Sentiero dell'Olivo hasta Gandria y el funicular del Monte Brè a la terraza de la cumbre`,
+      area: `el centro alrededor de la Piazza della Riforma, el barrio lacustre de Paradiso y Castagnola-Gandria en la orilla este`,
+    },
     luxembourg: {
       personality: 'la única capital europea con transporte público gratuito para todos (perros incluidos) desde 2020, con nueve recintos caninos municipales vallados dentro de la ciudad y un casco antiguo UNESCO que rodea los espectaculares valles del Pétrusse y el Alzette',
       highlight: 'el Chemin de la Corniche, el Parc de la Pétrusse con sus dos recintos caninos, y el bosque del Bambësch de 600 hectáreas',
@@ -2957,6 +2972,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade suiza de cuento de hadas abrazada a um profundo lago alpino, onde pontes cubiertos de madera, esplanadas pet-friendly e cremalleras pet-friendly al Pilatus e al Rigi hacen que as jornadas multi-cima com cão sean sorprendentemente fáciles`,
       highlight: `o passeio lacustre do Schweizerhofquai, a cresta boscosa do Sonnenberg sobre a cidade e a explanada comunal do Allmend (30 hectáreas)`,
       area: `o centro histórico (Altstadt), Tribschen e Hirschmatt-Neustadt`,
+    },
+    lugano: {
+      personality: `a face italófona elegante da Suíça no lago Lugano, onde os cães viajam grátis nos barcos do lago, percorrem o Sentiero dell'Olivo até Gandria, banham-se na praia canina dedicada de Caslano e sobem no funicular do Monte Brè até um panorama a 925 m`,
+      highlight: `o passeio lacustre Lugano-Paradiso, o Sentiero dell'Olivo até Gandria e o funicular do Monte Brè até à esplanada do cume`,
+      area: `o centro em redor da Piazza della Riforma, o bairro lacustre de Paradiso e Castagnola-Gandria na margem leste`,
     },
     luxembourg: {
       personality: 'a única capital europeia com transporte público gratuito para todos (cães incluidos) a partir de 2020, com nueve recintos caninos municipales vallados dentro da cidade e um centro histórico UNESCO que rodea os espectaculares valles do Pétrusse e o Alzette',

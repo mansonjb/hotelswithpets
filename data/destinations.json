@@ -6967,6 +6967,32 @@
     "iata": "ZRH"
   },
   {
+    "slug": "lugano",
+    "name": "Lugano",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "flag": "🇨🇭",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/lugano.jpg",
+    "intro": "Lugano is the elegant Italian-speaking face of Switzerland — a 63,000-resident lakeside city of palms, porticoes and Lombard architecture where dogs ride the boat for free, swim at Caslano's dog beach, and walk the Sentiero dell'Olivo to Gandria.",
+    "lat": 46.0037,
+    "lng": 8.9511,
+    "weather": {
+      "jan": {"temp": 5, "desc": "Mild & damp", "icon": "🌦️"},
+      "feb": {"temp": 6, "desc": "Mild & sunny", "icon": "⛅"},
+      "mar": {"temp": 10, "desc": "Mild & green", "icon": "⛅"},
+      "apr": {"temp": 13, "desc": "Mild & lush", "icon": "🌤️"},
+      "may": {"temp": 18, "desc": "Warm & sunny", "icon": "☀️"},
+      "jun": {"temp": 22, "desc": "Warm & sunny", "icon": "☀️"},
+      "jul": {"temp": 25, "desc": "Hot & humid", "icon": "☀️"},
+      "aug": {"temp": 24, "desc": "Hot & humid", "icon": "☀️"},
+      "sep": {"temp": 20, "desc": "Warm & golden", "icon": "🌤️"},
+      "oct": {"temp": 14, "desc": "Mild & sunny", "icon": "🌤️"},
+      "nov": {"temp": 8, "desc": "Cool & damp", "icon": "🌦️"},
+      "dec": {"temp": 5, "desc": "Cool & festive", "icon": "🌦️"}
+    }
+  },
+  {
     "slug": "luxembourg",
     "name": "Luxembourg",
     "country": "Luxembourg",

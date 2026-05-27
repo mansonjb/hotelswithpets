@@ -943,7 +943,7 @@ export default async function RoadTripChienPage({
             'B07QNZFWHL', // Kurgo G-Train - sac à dos
             'B0002DI0UM', // Petmate Vari Kennel Jr - caisse rigide
             'B01NCHCI3F', // K9 Sport Sack Air - sac frontal
-            'B007N7DQ2C', // Doggyhut Medium - remorque vélo
+            'B0BYGCW5LY', // Doggyhut Premium L - remorque vélo 2-en-1
           ]
           const bags = BAG_ASINS
             .map(asin => PRODUCTS.find(p => p.asin === asin))

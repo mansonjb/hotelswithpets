@@ -205,7 +205,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
 
             <p className="text-gray-700 text-lg leading-relaxed mb-4">{city.copy.intro}</p>
 
-            {/* Inline editorial hotel pick — converts itinerary reader to hotel booker */}
+            {/* Inline editorial hotel pick - converts itinerary reader to hotel booker */}
             <div className="mb-8 max-w-2xl">
               <NearbyHotelCard destinationSlug={city.slug} locale={locale} variant="compact" />
             </div>

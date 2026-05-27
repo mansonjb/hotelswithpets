@@ -649,7 +649,7 @@ export default async function GuideDetailPage({
 
                 const localizedName = localizePlaceName(place, locale)
                 // Tip cards are concept entries (Currency & cost, Best season…), not real
-                // places — Google Places returns irrelevant brand logos for these queries
+                // places - Google Places returns irrelevant brand logos for these queries
                 // (e.g. a Ria money-transfer logo for "Currency & cost"). Skip the photo
                 // header on the tips guide entirely.
                 const placePhoto = guide === 'tips' ? undefined : place.photo
@@ -921,7 +921,7 @@ export default async function GuideDetailPage({
           </section>
         )}
 
-        {/* ── Amazon accessories cross-link (FR only — pages don't exist yet in EN/ES/PT) ── */}
+        {/* ── Amazon accessories cross-link (FR only - pages don't exist yet in EN/ES/PT) ── */}
         {locale === 'fr' && (guide === 'tips' || guide === 'transport' || guide === 'beaches') && (
           <section className="mb-12 bg-gradient-to-br from-amber-100 to-orange-100 border border-amber-300 rounded-2xl p-6">
             <h2 className="text-xl font-extrabold text-stone-900 mb-2">🎒 Voyager bien équipé</h2>

@@ -13,7 +13,7 @@ export default function AmazonDisclosure() {
       Amazon.fr. Les liens sur cette page sont sponsorisés : si vous
       achetez un produit après avoir cliqué, nous touchons une petite
       commission sans surcoût pour vous. Cela ne change rien à notre
-      sélection éditoriale — nous ne recommandons que des produits que
+      sélection éditoriale - nous ne recommandons que des produits que
       nous trouvons réellement utiles pour voyager avec son animal.
     </div>
   )

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     languages: { fr: `${SITE_URL}/fr/${SLUG}` },
   },
   openGraph: {
-    title: 'Accessoires pour chat voyageur — la sélection HotelsWithPets',
+    title: 'Accessoires pour chat voyageur - la sélection HotelsWithPets',
     description: `Sac de transport, fontaine, harnais, litière, anti-stress : nos accessoires testés pour partir avec son chat.`,
     type: 'article',
     url: `${SITE_URL}/fr/${SLUG}`,
@@ -79,7 +79,7 @@ export default async function Page({
           <h2 className="text-2xl font-bold text-stone-900 mb-5">Notre sélection</h2>
           {catProducts.length === 0 ? (
             <p className="text-stone-600 italic">
-              Sélection chat en cours de constitution — envoyez-moi les URLs Amazon des
+              Sélection chat en cours de constitution - envoyez-moi les URLs Amazon des
               produits que vous utilisez et je les ajoute. Pour l&apos;instant la page
               affiche seulement les produits multi-espèces (gourde nomade, etc.).
             </p>

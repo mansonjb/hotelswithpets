@@ -433,7 +433,7 @@ export default async function GuidesIndexPage({
       </section>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-14">
-        {/* Amazon accessories cross-link (FR only — pages exist only in FR) */}
+        {/* Amazon accessories cross-link (FR only - pages exist only in FR) */}
         {locale === 'fr' && (
           <section className="bg-gradient-to-br from-amber-100 to-orange-100 border border-amber-300 rounded-2xl p-6">
             <div className="flex items-start gap-4 flex-wrap">
@@ -441,7 +441,7 @@ export default async function GuidesIndexPage({
               <div className="flex-1 min-w-0">
                 <h2 className="text-xl font-extrabold text-stone-900 mb-1">Accessoires testés pour voyager</h2>
                 <p className="text-sm text-stone-700 mb-3 leading-relaxed">
-                  Notre sélection chien / chat / canicule — gourde nomade, tapis rafraîchissant,
+                  Notre sélection chien / chat / canicule - gourde nomade, tapis rafraîchissant,
                   harnais voiture, fontaine. Liens directs Amazon.fr.
                 </p>
                 <div className="flex flex-wrap gap-2 text-sm">

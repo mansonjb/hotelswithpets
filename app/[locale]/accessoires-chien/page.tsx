@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'Accessoires pour chien voyageur — la sélection HotelsWithPets',
+    title: 'Accessoires pour chien voyageur - la sélection HotelsWithPets',
     description: `Gourde, tapis rafraîchissant, harnais voiture, fontaine : nos accessoires testés pour partir avec son chien.`,
     type: 'article',
     url: `${SITE_URL}/fr/${SLUG}`,
@@ -58,7 +58,7 @@ export default async function Page({
           </h1>
           <p className="text-lg text-amber-50 max-w-2xl">
             La sélection HotelsWithPets : ce qu&apos;on emporte vraiment en voyage avec
-            son chien — gourde nomade, tapis rafraîchissant, harnais de sécurité voiture,
+            son chien - gourde nomade, tapis rafraîchissant, harnais de sécurité voiture,
             fontaine, sac de transport. Tous les liens pointent vers Amazon.fr, prix mis à
             jour côté Amazon.
           </p>
@@ -92,7 +92,7 @@ export default async function Page({
           <h2 className="text-2xl font-bold text-stone-900 mb-5">Notre sélection</h2>
           {dogProducts.length === 0 ? (
             <p className="text-stone-600 italic">
-              Sélection en cours de constitution — revenez bientôt.
+              Sélection en cours de constitution - revenez bientôt.
             </p>
           ) : (
             <div className="space-y-3">
@@ -114,7 +114,7 @@ export default async function Page({
           </p>
           <p className="text-sm text-stone-700 leading-relaxed">
             Les liens sont des liens d&apos;affiliation Amazon. Le prix que vous payez
-            est identique — Amazon nous reverse une petite commission sur votre achat,
+            est identique - Amazon nous reverse une petite commission sur votre achat,
             ce qui finance le travail éditorial du site (vérification des hôtels,
             rédaction des guides ville).
           </p>

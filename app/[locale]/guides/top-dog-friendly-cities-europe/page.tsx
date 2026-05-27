@@ -516,7 +516,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         🐾 {c.bookHotelsInPrefix} {localName} →
                       </a>
 
-                      {/* Inline editorial hotel pick — converts info-readers to bookers */}
+                      {/* Inline editorial hotel pick - converts info-readers to bookers */}
                       <NearbyHotelCard destinationSlug={city.dest.slug} locale={locale} variant="compact" />
 
                       {/* Secondary links row */}

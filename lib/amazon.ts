@@ -1,14 +1,14 @@
 /**
  * Amazon Associates affiliate-link builder for HotelsWithPets.com.
  *
- * Our Amazon FR tag: `mansonjb-21`. Stored as a constant — never override it
+ * Our Amazon FR tag: `mansonjb-21`. Stored as a constant - never override it
  * per-call. To attribute clicks per page or per campaign, use the `campaign`
  * option which sets `ascsubtag` (Amazon's free-form sub-tag, surfaced in the
  * Associates click report).
  *
- * `extractASIN` accepts ANY Amazon product URL the user copies — including
+ * `extractASIN` accepts ANY Amazon product URL the user copies - including
  * the bloated SiteStripe links with crid / dib / sprefix / linkId / etc.
- * — and returns just the 10-char ASIN. Pair it with `buildAmazonLink` to
+ * - and returns just the 10-char ASIN. Pair it with `buildAmazonLink` to
  * produce a clean canonical affiliate URL.
  */
 

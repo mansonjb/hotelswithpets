@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react'
 interface Props {
   /** Pre-built Stay22 Allez link to drop the user on. */
   href: string
-  /** Localized headline e.g. "Hôtels pet-friendly Côte d'Azur — dès 95 €/nuit" */
+  /** Localized headline e.g. "Hôtels pet-friendly Côte d'Azur - dès 95 €/nuit" */
   label: string
   /** Localized CTA button text */
   cta: string

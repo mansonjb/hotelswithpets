@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 const HEAT_TIPS = [
   {
     title: `Sortir à la bonne heure`,
-    body: `Pas de balade entre 11 h et 18 h en été. Au-dessus de 25 °C l'asphalte peut atteindre 50 °C et brûler les coussinets en moins d'une minute. Test : posez votre main au sol 7 secondes — si vous ne tenez pas, votre chien non plus.`,
+    body: `Pas de balade entre 11 h et 18 h en été. Au-dessus de 25 °C l'asphalte peut atteindre 50 °C et brûler les coussinets en moins d'une minute. Test : posez votre main au sol 7 secondes - si vous ne tenez pas, votre chien non plus.`,
   },
   {
     title: `Hydratation : toutes les 30 min`,
@@ -44,7 +44,7 @@ const HEAT_TIPS = [
   },
   {
     title: `Jamais en voiture stationnée`,
-    body: `À 25 °C extérieur, l'habitacle dépasse 45 °C en 20 minutes, même avec une vitre entrouverte. C'est non négociable et c'est un délit en France (art. R655-1 + L521-1 Code pénal — jusqu'à 30 000 € d'amende et 2 ans de prison).`,
+    body: `À 25 °C extérieur, l'habitacle dépasse 45 °C en 20 minutes, même avec une vitre entrouverte. C'est non négociable et c'est un délit en France (art. R655-1 + L521-1 Code pénal - jusqu'à 30 000 € d'amende et 2 ans de prison).`,
   },
 ]
 
@@ -121,7 +121,7 @@ export default async function Page({
           </p>
           {products.length === 0 ? (
             <p className="text-stone-600 italic">
-              Sélection en cours d&apos;enrichissement — pour l&apos;instant seuls les
+              Sélection en cours d&apos;enrichissement - pour l&apos;instant seuls les
               produits voyage multi-saisons s&apos;affichent. Envoyez-moi les URLs Amazon
               des tapis rafraîchissants / gilets / bandanas que vous voulez référencer
               et je les ajoute en quelques minutes.

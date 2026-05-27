@@ -748,7 +748,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'Place du Capitole, Carmes, and the Saint-Cyprien left bank',
     },
     tours: {
-      personality: `the Loire Valley's most pet-friendly base — a half-timbered medieval centre, a Fil Bleu tram and bus network that takes both small and large dogs, and four major Renaissance chateaux (Villandry, Chenonceau, Amboise, Chambord) all welcoming leashed dogs in their famous gardens`,
+      personality: `the Loire Valley's most pet-friendly base - a half-timbered medieval centre, a Fil Bleu tram and bus network that takes both small and large dogs, and four major Renaissance chateaux (Villandry, Chenonceau, Amboise, Chambord) all welcoming leashed dogs in their famous gardens`,
       highlight: `the 14-hectare Parc de Sainte-Radegonde with the city's official off-leash dog area, the Loire à Vélo cycle path along the river, and the Jardin des Prébendes d'Oé 19th-century park`,
       area: `the half-timbered Vieux-Tours around Place Plumereau, the Cathédrale Saint-Gatien quarter, and the Loire-side promenade up to Vouvray`,
     },
@@ -823,7 +823,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `the historic centre inside the walls, the Fossgate quarter, and the Bishopthorpe Road / Knavesmire neighbourhood`,
     },
     zadar: {
-      personality: `the Dalmatian coast's most under-rated city — Roman forum, pre-Romanesque Saint Donatus rotunda, the wave-powered Sea Organ and the LED Greeting to the Sun, all on a compact dog-friendly Old Town peninsula with year-round Adriatic dog beaches a short drive away`,
+      personality: `the Dalmatian coast's most under-rated city - Roman forum, pre-Romanesque Saint Donatus rotunda, the wave-powered Sea Organ and the LED Greeting to the Sun, all on a compact dog-friendly Old Town peninsula with year-round Adriatic dog beaches a short drive away`,
       highlight: `the 2 km Riva seafront promenade, the Sea Organ and Greeting to the Sun installations, and the officially designated Kažin dog beach near the Vir bridge`,
       area: `the Old Town peninsula around the Roman forum, the Borik resort area to the north-west, and the Five Wells Square (Trg Pet Bunara) restaurant quarter`,
     },
@@ -1575,7 +1575,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'la place du Capitole, le quartier des Carmes et la rive gauche de Saint-Cyprien',
     },
     tours: {
-      personality: `la base la plus dog-friendly du Val de Loire — un centre médiéval à colombages, un réseau tram-bus Fil Bleu qui prend les petits comme les grands chiens, et quatre grands châteaux Renaissance (Villandry, Chenonceau, Amboise, Chambord) accueillant tous les chiens en laisse dans leurs célèbres jardins`,
+      personality: `la base la plus dog-friendly du Val de Loire - un centre médiéval à colombages, un réseau tram-bus Fil Bleu qui prend les petits comme les grands chiens, et quatre grands châteaux Renaissance (Villandry, Chenonceau, Amboise, Chambord) accueillant tous les chiens en laisse dans leurs célèbres jardins`,
       highlight: `le Parc de Sainte-Radegonde de 14 hectares avec l'aire d'ébats canins officielle de la ville, la piste cyclable Loire à Vélo en bord de fleuve, et le Jardin des Prébendes d'Oé du XIXᵉ siècle`,
       area: `le Vieux-Tours à colombages autour de la Place Plumereau, le quartier de la Cathédrale Saint-Gatien, et la promenade en bord de Loire vers Vouvray`,
     },
@@ -1650,7 +1650,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `le centre historique à l'intérieur des remparts, le quartier de Fossgate et le secteur de Bishopthorpe Road / Knavesmire`,
     },
     zadar: {
-      personality: `la ville la plus sous-estimée de la côte dalmate — forum romain, rotonde pré-romane Saint-Donat, Orgue de la Mer alimenté par les vagues et Salut au Soleil LED, le tout sur une compacte péninsule de vieille ville dog-friendly avec des plages canines adriatiques ouvertes toute l'année à courte distance`,
+      personality: `la ville la plus sous-estimée de la côte dalmate - forum romain, rotonde pré-romane Saint-Donat, Orgue de la Mer alimenté par les vagues et Salut au Soleil LED, le tout sur une compacte péninsule de vieille ville dog-friendly avec des plages canines adriatiques ouvertes toute l'année à courte distance`,
       highlight: `la promenade Riva de 2 km en front de mer, les installations Orgue de la Mer et Salut au Soleil, et la plage canine officielle de Kažin près du pont de Vir`,
       area: `la péninsule de la vieille ville autour du forum romain, le quartier touristique de Borik au nord-ouest, et la place des Cinq Puits (Trg Pet Bunara) pour la restauration`,
     },
@@ -3229,7 +3229,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: 'a place du Capitole, o bairro de Carmes e a margem izquierda de Saint-Cyprien',
     },
     tours: {
-      personality: `a base mais pet-friendly do Vale do Loire — um centro medieval com casas de tabique, uma rede de elétrico e autocarro Fil Bleu que aceita cães pequenos e grandes, e quatro grandes castelos renascentistas (Villandry, Chenonceau, Amboise, Chambord) que acolhem cães com trela nos seus famosos jardins`,
+      personality: `a base mais pet-friendly do Vale do Loire - um centro medieval com casas de tabique, uma rede de elétrico e autocarro Fil Bleu que aceita cães pequenos e grandes, e quatro grandes castelos renascentistas (Villandry, Chenonceau, Amboise, Chambord) que acolhem cães com trela nos seus famosos jardins`,
       highlight: `o Parc de Sainte-Radegonde de 14 hectares com a aire d'ébats canins oficial da cidade, a ciclovia Loire à Vélo ao longo do rio e o Jardin des Prébendes d'Oé do século XIX`,
       area: `o Vieux-Tours com casas de tabique em torno da Place Plumereau, o bairro da Cathédrale Saint-Gatien, e o passeio à beira do Loire até Vouvray`,
     },
@@ -3304,7 +3304,7 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `o centro histórico dentro das muralhas, o bairro de Fossgate e a zona de Bishopthorpe Road / Knavesmire`,
     },
     zadar: {
-      personality: `a cidade mais subvalorizada da costa dálmata — fórum romano, rotunda pré-românica de São Donato, o Órgão do Mar movido pelas ondas e a Saudação ao Sol LED, tudo numa compacta península do centro histórico pet-friendly com praias caninas adriáticas todo o ano a curta distância`,
+      personality: `a cidade mais subvalorizada da costa dálmata - fórum romano, rotunda pré-românica de São Donato, o Órgão do Mar movido pelas ondas e a Saudação ao Sol LED, tudo numa compacta península do centro histórico pet-friendly com praias caninas adriáticas todo o ano a curta distância`,
       highlight: `o passeio Riva de 2 km junto ao mar, as instalações do Órgão do Mar e da Saudação ao Sol, e a praia canina oficial de Kažin junto à ponte de Vir`,
       area: `a península do centro histórico em torno do fórum romano, a zona turística de Borik a noroeste e a praça dos Cinco Poços (Trg Pet Bunara) para a restauração`,
     },

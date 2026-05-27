@@ -544,7 +544,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         🐾 {c.bookPrefix} {b.locationLabel.split(',')[0]} →
                       </a>
 
-                      {/* Inline editorial hotel pick — converts beach-reader to hotel-booker */}
+                      {/* Inline editorial hotel pick - converts beach-reader to hotel-booker */}
                       {b.dest && (
                         <NearbyHotelCard
                           destinationSlug={b.dest.slug}
@@ -691,7 +691,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
       <GuideFooter locale={locale} currentSlug={SLUG} />
 
-      {/* Sticky mobile-only CTA — shows after 30% scroll, dismissible */}
+      {/* Sticky mobile-only CTA - shows after 30% scroll, dismissible */}
       <StickyHotelCTA
         href={`https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=beaches-fr-sticky&address=${encodeURIComponent('Côte d\'Azur France')}`}
         label={

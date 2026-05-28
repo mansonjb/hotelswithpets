@@ -700,6 +700,43 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </section>
       )}
 
+      {/* ── Accessoires maillage (FR only, weather-aware) ── */}
+      {locale === 'fr' && dest.weather && (() => {
+        const w = dest.weather as Record<string, { temp: number; desc: string; icon: string }>
+        const summerPeak = Math.max(w.jun?.temp ?? 0, w.jul?.temp ?? 0, w.aug?.temp ?? 0)
+        const isHot = summerPeak >= 28
+        return (
+          <section className={`py-10 border-t ${isHot ? 'bg-orange-50 border-orange-200' : 'bg-amber-50 border-amber-200'}`}>
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-6">
+                <div className="flex-1">
+                  <h2 className="text-lg font-extrabold text-stone-900 mb-1">
+                    {isHot
+                      ? `${localizedName} grimpe à ${summerPeak}°C l'été : préparez les pattes de votre chien`
+                      : `Bien équiper son chien pour ${localizedName}`}
+                  </h2>
+                  <p className="text-sm text-stone-700 leading-relaxed">
+                    {isHot
+                      ? `Au-dessus de 28°C l'asphalte brûle les coussinets et le coup de chaleur guette. Gourde nomade, tapis rafraîchissant, gilet à mouiller : notre sélection testée pour voyager l'esprit tranquille.`
+                      : `Gourde nomade, harnais de sécurité voiture, gamelle pliante, trousse de secours : ce qu'on emporte vraiment pour partir avec son chien.`}
+                  </p>
+                </div>
+                <div className="flex flex-wrap gap-2 sm:flex-shrink-0">
+                  {isHot && (
+                    <Link href="/fr/accessoires-chien-chaleur" className="bg-orange-600 text-white px-5 py-2.5 rounded-full font-bold text-sm hover:bg-orange-700 transition-colors shadow-sm">
+                      Kit anti-chaleur →
+                    </Link>
+                  )}
+                  <Link href="/fr/accessoires-chien" className={`px-5 py-2.5 rounded-full font-bold text-sm transition-colors shadow-sm ${isHot ? 'bg-white border border-orange-300 text-orange-900 hover:bg-orange-100' : 'bg-amber-600 text-white hover:bg-amber-700'}`}>
+                    Accessoires chien →
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </section>
+        )
+      })()}
+
       {/* Explore by category. Rich links */}
       {presentCategories.length > 0 && (
         <section className="py-12 bg-gray-50 border-t border-gray-100">

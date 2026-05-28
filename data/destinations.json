@@ -2931,6 +2931,80 @@
     "tiqetsId": "68199"
   },
   {
+    "slug": "cadiz",
+    "name": "Cadiz",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cadiz.jpg",
+    "intro": "Cadiz pairs a compact, walkable old town with mild Atlantic weather and winter dog beaches: an easy Andalusian city break with your pet.",
+    "lat": 36.5298,
+    "lng": -6.2924,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild Atlantic",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Mild Atlantic",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Sunny & warm",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & breezy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "XRY"
+  },
+  {
     "slug": "caen",
     "name": "Caen",
     "country": "France",

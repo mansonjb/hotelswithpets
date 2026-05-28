@@ -26,6 +26,7 @@ async function loadApiKey() {
 const TARGETS = [
   { slug: 'angers',        query: 'Angers France Chateau medieval fortress Maine river Loire Valley panorama' },
   { slug: 'ajaccio',       query: 'Ajaccio Corsica France marina old town Citadel Mediterranean panorama' },
+  { slug: 'cadiz',         query: 'Cadiz Spain old town cathedral Atlantic ramparts La Caleta panorama' },
   { slug: 'albufeira',     query: 'Albufeira Portugal Algarve cliffs old town beach Atlantic panorama' },
   { slug: 'alicante',      query: 'Alicante Spain Santa Bárbara castle Mediterranean Explanada palm trees panorama' },
   { slug: 'bergamo',       query: 'Bergamo Italy Citta Alta Piazza Vecchia Venetian walls Lombardy panorama' },

@@ -5021,6 +5021,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cadiz: {
+    history: {
+      en: `Cadiz claims to be the oldest continuously inhabited city in Western Europe, founded by Phoenician traders from Tyre as Gadir around 1100 BC to access Iberian silver, tin and amber, with a home port for fleets sailing north toward Britain. It passed under Carthaginian control (Hamilcar Barca established a base here in 237 BC), then became the prosperous Roman port of Gades, whose amphorae reached across the empire. Centuries later it grew rich as the gateway to Spain's American trade, a role that shaped its grand 18th-century old town of watchtowers, plazas and sea ramparts. For the dog traveller, Cadiz is unusually easy: a compact, walled centre you cover entirely on foot, leashed dogs welcome on terraces and seafront promenades, fenced off-leash dog areas, and beach access on the city sands out of season plus a dedicated dog beach at Torregorda.`,
+      fr: `Cadix revendique le titre de plus ancienne ville d'Europe occidentale habitee sans interruption, fondee par des marchands pheniciens de Tyr sous le nom de Gadir vers 1100 av. J.-C. pour acceder a l'argent, l'etain et l'ambre iberiques, avec un port d'attache pour les flottes faisant route vers la Bretagne. Elle passa sous controle carthaginois (Hamilcar Barca y etablit une base en 237 av. J.-C.), puis devint le prospere port romain de Gades, dont les amphores se retrouvaient dans tout l'empire. Bien plus tard, elle s'enrichit comme porte du commerce espagnol avec l'Amerique, role qui faconna sa grande vieille ville du XVIIIe siecle, faite de tours de guet, de places et de remparts marins. Pour le voyageur avec chien, Cadix est exceptionnellement facile : un centre compact et fortifie que l'on parcourt entierement a pied, des chiens en laisse bienvenus en terrasse et sur les promenades, des aires canines clturees, et un acces aux plages de la ville hors saison ainsi qu'une plage canine dediee a Torregorda.`,
+      es: `Cadiz reivindica ser la ciudad habitada de forma continua mas antigua de Europa occidental, fundada por comerciantes fenicios de Tiro como Gadir hacia el 1100 a.C. para acceder a la plata, el estano y el ambar iberico, con un puerto base para las flotas que navegaban hacia Britania. Paso a control cartagines (Amilcar Barca establecio aqui una base en el 237 a.C.) y luego se convirtio en el prospero puerto romano de Gades, cuyas anforas llegaron a todo el imperio. Siglos despues prospero como puerta del comercio espanol con America, un papel que dio forma a su gran casco antiguo del siglo XVIII de torres vigia, plazas y murallas marinas. Para el viajero con perro, Cadiz es muy comoda: un centro compacto y amurallado que se recorre entero a pie, perros con correa bienvenidos en terrazas y paseos maritimos, areas caninas valladas, y acceso a las playas de la ciudad fuera de temporada mas una playa canina propia en Torregorda.`,
+      pt: `Cadiz reivindica ser a cidade habitada de forma continua mais antiga da Europa ocidental, fundada por comerciantes fenicios de Tiro como Gadir por volta de 1100 a.C. para aceder a prata, ao estanho e ao ambar iberico, com um porto base para as frotas que navegavam para a Britania. Passou a controlo cartagines (Amilcar Barca estabeleceu aqui uma base em 237 a.C.) e depois tornou-se o prospero porto romano de Gades, cujas anforas chegaram a todo o imperio. Seculos depois prosperou como porta do comercio espanhol com a America, um papel que moldou o seu grande centro historico do seculo XVIII de torres de vigia, pracas e muralhas marinhas. Para o viajante com cao, Cadiz e muito comoda: um centro compacto e amuralhado que se percorre todo a pe, caes a trela bem-vindos em esplanadas e passeios maritimos, areas caninas vedadas, e acesso as praias da cidade fora de epoca, alem de uma praia canina propria em Torregorda.`,
+    },
+    sights: [
+      { name: 'Parque Genoves', emoji: '🌳', petFriendly: true, desc: {
+        en: `Cadiz's main green space, a 29,000 sq m botanical garden above the Atlantic ramparts with over 100 tree species. Leashed dogs are welcome along the shaded avenues and around the ornamental lake.`,
+        fr: `Le principal espace vert de Cadix, un jardin botanique de 29 000 m2 au-dessus des remparts atlantiques, avec plus de 100 especes d'arbres. Les chiens en laisse sont bienvenus le long des allees ombragees et autour du lac d'agrement.`,
+        es: `El principal espacio verde de Cadiz, un jardin botanico de 29.000 m2 sobre las murallas atlanticas, con mas de 100 especies de arboles. Los perros con correa son bienvenidos por las avenidas con sombra y alrededor del lago ornamental.`,
+        pt: `O principal espaco verde de Cadiz, um jardim botanico de 29.000 m2 sobre as muralhas atlanticas, com mais de 100 especies de arvores. Os caes a trela sao bem-vindos pelas avenidas com sombra e em redor do lago ornamental.`,
+      }},
+      { name: 'Playa de Torregorda (zona canina)', emoji: '🐕', petFriendly: true, desc: {
+        en: `The city's dedicated dog beach at the far end of Playa de Cortadura, a 465 m stretch with a 340 m leashed zone and a fenced 125 m off-leash section, open to dogs roughly March to October. The only legal beach for a dog on the sand during the summer bathing season.`,
+        fr: `La plage canine dediee de la ville, a l'extremite de la Playa de Cortadura : un troncon de 465 m avec une zone en laisse de 340 m et une section clturee de 125 m sans laisse, ouverte aux chiens environ de mars a octobre. La seule plage legale pour un chien sur le sable pendant la saison de baignade estivale.`,
+        es: `La playa canina propia de la ciudad, al final de la Playa de Cortadura: un tramo de 465 m con una zona con correa de 340 m y una seccion vallada de 125 m sin correa, abierta a perros mas o menos de marzo a octubre. La unica playa legal para un perro en la arena durante la temporada de bano de verano.`,
+        pt: `A praia canina propria da cidade, no extremo da Playa de Cortadura: um troco de 465 m com uma zona a trela de 340 m e uma seccao vedada de 125 m sem trela, aberta a caes mais ou menos de marco a outubro. A unica praia legal para um cao na areia durante a epoca balnear de verao.`,
+      }},
+      { name: 'Castillo de Santa Catalina', emoji: '🏰', petFriendly: true, desc: {
+        en: `A star-shaped 16th-century fortress on La Caleta beach, with free entry and open-air ramparts and courtyards. Its outdoor layout makes it an easy, atmospheric stop with a leashed dog.`,
+        fr: `Une forteresse en etoile du XVIe siecle sur la plage de La Caleta, a entree gratuite, avec remparts et cours a ciel ouvert. Sa configuration exterieure en fait une halte facile et pleine de charme avec un chien en laisse.`,
+        es: `Una fortaleza en estrella del siglo XVI en la playa de La Caleta, de entrada gratuita, con murallas y patios al aire libre. Su trazado exterior la hace una parada facil y con encanto con el perro atado.`,
+        pt: `Uma fortaleza em estrela do seculo XVI na praia de La Caleta, de entrada gratuita, com muralhas e patios ao ar livre. O seu traçado exterior torna-a uma paragem facil e cheia de charme com o cao a trela.`,
+      }},
+      { name: 'Torre Tavira', emoji: '🔭', petFriendly: true, desc: {
+        en: `The city's highest 18th-century watchtower with a camera obscura over Cadiz and the bay, and a notably dog-friendly team. Note the narrow access stairs with glass steps, which can unsettle some dogs.`,
+        fr: `La plus haute tour de guet du XVIIIe siecle de la ville, avec une camera obscura sur Cadix et la baie, et une equipe particulierement accueillante envers les chiens. Attention a l'escalier d'acces etroit aux marches en verre, qui peut gener certains chiens.`,
+        es: `La torre vigia del siglo XVIII mas alta de la ciudad, con una camara oscura sobre Cadiz y la bahia, y un equipo especialmente perro-friendly. Ojo con la escalera de acceso estrecha y de peldanos de cristal, que puede incomodar a algunos perros.`,
+        pt: `A mais alta torre de vigia do seculo XVIII da cidade, com uma camara escura sobre Cadiz e a baia, e uma equipa especialmente acolhedora para caes. Atencao a escada de acesso estreita e de degraus de vidro, que pode incomodar alguns caes.`,
+      }},
+      { name: 'Playa de la Caleta', emoji: '🏖️', petFriendly: true, desc: {
+        en: `The postcard cove between two castles in the heart of the old town, framed by the Balneario spa building. Out of bathing season leashed dogs can join you on the sand; in summer enjoy the promenade instead.`,
+        fr: `La crique carte postale entre deux chateaux au coeur de la vieille ville, encadree par le batiment du Balneario. Hors saison de baignade, les chiens en laisse peuvent vous accompagner sur le sable ; en ete, profitez plutot de la promenade.`,
+        es: `La cala de postal entre dos castillos en pleno casco antiguo, enmarcada por el edificio del Balneario. Fuera de temporada de bano los perros con correa pueden acompanarte en la arena; en verano disfruta del paseo.`,
+        pt: `A enseada de postal entre dois castelos em pleno centro historico, emoldurada pelo edificio do Balneario. Fora da epoca balnear os caes a trela podem acompanha-lo na areia; no verao aproveite o passeio.`,
+      }},
+      { name: 'Campo del Sur & murallas', emoji: '🌊', petFriendly: true, desc: {
+        en: `The dramatic Atlantic-facing promenade along the old sea walls, with the cathedral rising behind. A breezy, shaded-at-dusk leashed walk that is one of the best dog outings in the city.`,
+        fr: `La spectaculaire promenade face a l'Atlantique le long des anciennes murailles, avec la cathedrale en arriere-plan. Une balade en laisse ventee et ombragee au crepuscule, l'une des meilleures sorties canines de la ville.`,
+        es: `El espectacular paseo frente al Atlantico junto a las antiguas murallas, con la catedral al fondo. Un paseo con correa con brisa y sombra al atardecer, una de las mejores salidas perrunas de la ciudad.`,
+        pt: `O espetacular passeio frente ao Atlantico junto as antigas muralhas, com a catedral ao fundo. Um passeio a trela com brisa e sombra ao entardecer, uma das melhores saidas para caes da cidade.`,
+      }},
+    ],
+    petTips: {
+      en: [
+        `From June to September, Andalusian asphalt and sand can hit 50-60C between about 11:00 and 19:00, enough to burn paw pads in seconds; walk early or after sunset and test the ground with your hand.`,
+        `City beaches (La Victoria, Santa Maria del Mar, Cortadura, La Caleta) only allow dogs out of bathing season, roughly 1 October to Palm Sunday; in summer the only legal sand is the dedicated Torregorda dog beach.`,
+        `Dogs must be leashed in all public spaces, and dogs over 20 kg must wear a muzzle in the street; off-leash running is only inside fenced areas caninas like the Fosos de Puertas de Tierra.`,
+        `Carry water everywhere: the historic centre has few fountains and summers are humid; the seafront promenades (Campo del Sur, La Caleta) catch the cooling Atlantic breeze.`,
+        `Save the 24-hour Hospital Veterinario Bahia de Cadiz number (+34 956 274 141) before you arrive.`,
+      ],
+      fr: [
+        `De juin a septembre, l'asphalte et le sable andalous peuvent atteindre 50-60C entre environ 11h et 19h, assez pour bruler les coussinets en quelques secondes ; promenez tot ou apres le coucher du soleil et testez le sol avec la main.`,
+        `Les plages de la ville (La Victoria, Santa Maria del Mar, Cortadura, La Caleta) n'acceptent les chiens que hors saison de baignade, en gros du 1er octobre au dimanche des Rameaux ; en ete, le seul sable legal est la plage canine dediee de Torregorda.`,
+        `Les chiens doivent etre tenus en laisse dans tous les espaces publics, et les chiens de plus de 20 kg doivent porter une museliere dans la rue ; la liberte n'est permise que dans les aires canines clturees comme les Fosos de Puertas de Tierra.`,
+        `Emportez de l'eau partout : le centre historique a peu de fontaines et les etes sont humides ; les promenades du front de mer (Campo del Sur, La Caleta) profitent de la brise atlantique rafraichissante.`,
+        `Enregistrez le numero 24h/24 de l'Hospital Veterinario Bahia de Cadiz (+34 956 274 141) avant d'arriver.`,
+      ],
+      es: [
+        `De junio a septiembre, el asfalto y la arena en Andalucia pueden alcanzar 50-60C entre las 11:00 y las 19:00 aproximadamente, suficiente para quemar las almohadillas en segundos; pasea pronto o tras el atardecer y prueba el suelo con la mano.`,
+        `Las playas de la ciudad (La Victoria, Santa Maria del Mar, Cortadura, La Caleta) solo admiten perros fuera de temporada de bano, aproximadamente del 1 de octubre al Domingo de Ramos; en verano la unica arena legal es la playa canina de Torregorda.`,
+        `Los perros deben ir con correa en todos los espacios publicos, y los de mas de 20 kg deben llevar bozal en la calle; soltarlos solo se permite en las areas caninas valladas como los Fosos de Puertas de Tierra.`,
+        `Lleva agua a todas partes: el casco historico tiene pocas fuentes y los veranos son humedos; los paseos maritimos (Campo del Sur, La Caleta) reciben la brisa atlantica que refresca.`,
+        `Guarda el numero 24 horas del Hospital Veterinario Bahia de Cadiz (+34 956 274 141) antes de llegar.`,
+      ],
+      pt: [
+        `De junho a setembro, o asfalto e a areia na Andaluzia podem chegar a 50-60C entre cerca das 11:00 e as 19:00, suficiente para queimar as almofadas em segundos; passeie cedo ou depois do por do sol e teste o chao com a mao.`,
+        `As praias da cidade (La Victoria, Santa Maria del Mar, Cortadura, La Caleta) so aceitam caes fora da epoca balnear, sensivelmente de 1 de outubro ao Domingo de Ramos; no verao a unica areia legal e a praia canina de Torregorda.`,
+        `Os caes devem ir a trela em todos os espacos publicos, e os de mais de 20 kg devem usar acaimo na rua; soltar so e permitido nas areas caninas vedadas como os Fosos de Puertas de Tierra.`,
+        `Leve agua para todo o lado: o centro historico tem poucas fontes e os veroes sao humidos; os passeios maritimos (Campo del Sur, La Caleta) recebem a brisa atlantica que refresca.`,
+        `Guarde o numero 24 horas do Hospital Veterinario Bahia de Cadiz (+34 956 274 141) antes de chegar.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Cadiz's walled old town is tiny and flat, so most sightseeing with a dog is done comfortably on foot.`,
+        `RENFE Cercanias C-1 trains carry pets free (dogs out of a carrier need a muzzle and a fixed 1.5 m leash) and link Cadiz to Jerez airport, El Puerto de Santa Maria and Sevilla-bound connections.`,
+        `The Trambahia tram allows leashed or carried pets; city buses only take small pets up to about 10 kg in a carrier.`,
+        `Spain is in the EU: an EU pet passport, microchip and up-to-date rabies vaccination are enough for most European visitors, with no quarantine.`,
+        `Best time to visit with a dog is October to March: mild Atlantic weather, no paw-burn heat, and full city-beach access.`,
+      ],
+      fr: [
+        `La vieille ville fortifiee de Cadix est minuscule et plate : la plupart des visites avec un chien se font confortablement a pied.`,
+        `Les trains RENFE Cercanias C-1 transportent les animaux gratuitement (les chiens hors sac ont besoin d'une museliere et d'une laisse fixe de 1,5 m) et relient Cadix a l'aeroport de Jerez, a El Puerto de Santa Maria et aux correspondances vers Seville.`,
+        `Le tram Trambahia admet les animaux en laisse ou en sac ; les bus urbains ne prennent que les petits animaux jusqu'a environ 10 kg en sac.`,
+        `L'Espagne est dans l'UE : un passeport europeen pour animaux, une puce et une vaccination antirabique a jour suffisent a la plupart des visiteurs europeens, sans quarantaine.`,
+        `La meilleure periode pour venir avec un chien est d'octobre a mars : climat atlantique doux, pas de chaleur brulante pour les coussinets, et plein acces aux plages de la ville.`,
+      ],
+      es: [
+        `El casco antiguo amurallado de Cadiz es diminuto y llano, asi que la mayoria de las visitas con perro se hacen comodamente a pie.`,
+        `Los trenes RENFE Cercanias C-1 llevan mascotas gratis (los perros que no van en transportin necesitan bozal y correa fija de 1,5 m) y conectan Cadiz con el aeropuerto de Jerez, El Puerto de Santa Maria y enlaces hacia Sevilla.`,
+        `El tranvia Trambahia admite mascotas con correa o en transportin; los autobuses urbanos solo llevan mascotas pequenas de hasta unos 10 kg en transportin.`,
+        `Espana esta en la UE: el pasaporte europeo de mascotas, el microchip y la vacuna antirrabica al dia bastan para la mayoria de los visitantes europeos, sin cuarentena.`,
+        `La mejor epoca para venir con perro es de octubre a marzo: clima atlantico suave, sin calor que queme las almohadillas, y acceso total a las playas de la ciudad.`,
+      ],
+      pt: [
+        `O centro historico amuralhado de Cadiz e minusculo e plano, por isso a maioria das visitas com cao faz-se comodamente a pe.`,
+        `Os comboios RENFE Cercanias C-1 levam animais gratis (os caes fora de transportadora precisam de acaimo e trela fixa de 1,5 m) e ligam Cadiz ao aeroporto de Jerez, a El Puerto de Santa Maria e a ligacoes para Sevilha.`,
+        `O eletrico Trambahia aceita animais a trela ou em transportadora; os autocarros urbanos so levam animais pequenos ate cerca de 10 kg em transportadora.`,
+        `A Espanha esta na UE: o passaporte europeu para animais, o microchip e a vacina antirrabica em dia bastam para a maioria dos visitantes europeus, sem quarentena.`,
+        `A melhor altura para vir com um cao e de outubro a marco: clima atlantico suave, sem calor que queime as almofadas, e acesso total as praias da cidade.`,
+      ],
+    },
+  },
+
   caen: {
     history: {
       fr: `Caen, capitale historique de la Basse-Normandie, doit son existence à Guillaume le Conquérant, qui en fit sa résidence ducale au milieu du XIe siècle. C'est lui qui éleva le Château de Caen, l'une des plus vastes enceintes médiévales d'Europe, et qui fonda avec son épouse Mathilde de Flandre les deux abbayes romanes qui encadrent encore la ville : l'Abbaye aux Hommes (Saint-Étienne) et l'Abbaye aux Dames (Sainte-Trinité), respectivement leurs tombeaux. Caen fut presque rasée lors de la bataille de Normandie en 1944 - les Alliés bombardèrent la ville pendant deux mois après le Débarquement - mais le centre médiéval autour du château et les deux abbayes furent miraculeusement épargnés ou patiemment restaurés en pierre de Caen. Pour le voyageur avec chien, la ville offre un centre marchable, de vastes pelouses dans les enceintes du château, un parc ornithologique de 17 ha (Colline aux Oiseaux), le chemin de halage du canal de Caen à la mer (14 km vers Ouistreham et la Manche) et un accès direct aux plages du Débarquement à 30 km à l'ouest et à Bayeux à 30 km au nord-ouest.`,

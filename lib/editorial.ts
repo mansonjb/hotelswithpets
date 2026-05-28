@@ -216,6 +216,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Margaret Island, City Park (Városliget), and the Danube riverfront promenades',
       area: 'the 7th district (the Jewish Quarter), Buda Castle district, and Óbuda',
     },
+    cadiz: {
+      personality: `one of the oldest cities in Western Europe, a compact walled Andalusian port wrapped by Atlantic ramparts where leashed dogs wander the old-town squares and, out of season, join you on the beach`,
+      highlight: `the Parque Genoves botanical gardens, the winter-only dog access on Playa de la Victoria and Santa Maria del Mar, and the dedicated Torregorda dog beach at the end of Cortadura`,
+      area: `the walled old town around Plaza de San Antonio and Plaza de Mina, the La Caleta seafront, and the Campo del Sur ramparts`,
+    },
     caen: {
       personality: `the medieval Norman capital founded by William the Conqueror, with two Romanesque abbeys, a 1,000-year-old castle in vast leashed-dog grounds, river and canal walks along the Orne, and a 30-minute drive to the D-Day landing beaches and the Bayeux Tapestry town`,
       highlight: `the Château de Caen ramparts and courtyards, the Colline aux Oiseaux and Jardin des Plantes, and the canal towpath linking Caen to Ouistreham on the Channel`,
@@ -1059,6 +1064,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'île Marguerite, le Parc de la Ville (Városliget) et les promenades en bord de Danube',
       area: 'le 7e arrondissement (le quartier juif), le quartier du château de Buda et Óbuda',
     },
+    cadiz: {
+      personality: `l'une des plus anciennes villes d'Europe occidentale, un port andalou compact et fortifie ceinture de remparts atlantiques ou les chiens en laisse parcourent les places de la vieille ville et, hors saison, vous accompagnent a la plage`,
+      highlight: `les jardins botaniques du Parque Genoves, l'acces canin hivernal aux plages de la Victoria et de Santa Maria del Mar, et la plage canine dediee de Torregorda au bout de Cortadura`,
+      area: `la vieille ville fortifiee autour de la Plaza de San Antonio et de la Plaza de Mina, le front de mer de La Caleta, et les remparts du Campo del Sur`,
+    },
     caen: {
       personality: `la capitale médiévale normande fondée par Guillaume le Conquérant, avec deux abbayes romanes, un château millénaire dans de vastes enceintes accessibles aux chiens en laisse, des promenades fluviales et le long du canal de l'Orne, et 30 minutes en voiture des plages du Débarquement et de Bayeux et sa Tapisserie`,
       highlight: `les remparts et la cour du Château de Caen, la Colline aux Oiseaux et le Jardin des Plantes, et le chemin de halage du canal reliant Caen à Ouistreham sur la Manche`,
@@ -1901,6 +1911,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Isla Margarita, el Parque de la Ciudad (Városliget) y los paseos ribereños del Danubio',
       area: 'el 7º distrito (el Barrio Judío), el distrito del Castillo de Buda y Óbuda',
     },
+    cadiz: {
+      personality: `una de las ciudades mas antiguas de Europa occidental, un puerto andaluz compacto y amurallado rodeado de murallas atlanticas donde los perros con correa recorren las plazas del casco antiguo y, fuera de temporada, te acompanan a la playa`,
+      highlight: `los jardines botanicos del Parque Genoves, el acceso canino invernal a las playas de la Victoria y de Santa Maria del Mar, y la playa canina propia de Torregorda al final de Cortadura`,
+      area: `el casco antiguo amurallado en torno a la Plaza de San Antonio y la Plaza de Mina, el frente maritimo de La Caleta, y las murallas del Campo del Sur`,
+    },
     caen: {
       personality: `la capital medieval normanda fundada por Guillermo el Conquistador, con dos abadías románicas, un castillo milenario en vastos recintos accesibles a perros con correa, paseos fluviales y por el canal del Orne, y a 30 minutos en coche de las playas del Desembarco y de Bayeux con su Tapiz`,
       highlight: `las murallas y el patio del Château de Caen, la Colline aux Oiseaux y el Jardin des Plantes, y el camino de sirga del canal que une Caen con Ouistreham en el Canal de la Mancha`,
@@ -2742,6 +2757,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade de gran arquitetura e uma escena pet-friendly en auge. Os cães viajan no metro, acceden a a maioria dos parques e são bem-vindos nos famosos bares en ruinas de Budapest',
       highlight: 'a Ilha Margarita, o Parque da Cidade (Városliget) e os passeios riberenhos do Danubio',
       area: 'o 7º distrito (o Bairro Judío), o distrito do Castelo de Buda e Óbuda',
+    },
+    cadiz: {
+      personality: `uma das cidades mais antigas da Europa ocidental, um porto andaluz compacto e amuralhado rodeado de muralhas atlanticas onde os caes a trela percorrem as pracas do centro historico e, fora de epoca, o acompanham a praia`,
+      highlight: `os jardins botanicos do Parque Genoves, o acesso canino de inverno as praias da Victoria e de Santa Maria del Mar, e a praia canina propria de Torregorda no fim de Cortadura`,
+      area: `o centro historico amuralhado em torno da Plaza de San Antonio e da Plaza de Mina, a frente maritima de La Caleta, e as muralhas do Campo del Sur`,
     },
     caen: {
       personality: `a capital medieval normanda fundada por Guilherme o Conquistador, com duas abadias românicas, um castelo milenar em vastos recintos acessíveis a cães com trela, passeios fluviais e ao longo do canal do Orne, e a 30 minutos de carro das praias do Desembarque e de Bayeux com a sua Tapeçaria`,

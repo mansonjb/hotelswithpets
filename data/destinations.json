@@ -11868,6 +11868,81 @@
     "tiqetsId": "60335"
   },
   {
+    "slug": "vigo",
+    "name": "Vigo",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vigo.jpg",
+    "intro": "Galicia's biggest port city on a deep Atlantic fjord, with 18 official off-leash dog areas, a 24/7 reference vet hospital, and the Castro park citadel with sunset views over the Cíes Islands (pet entry strictly banned on the islands themselves).",
+    "lat": 42.2406,
+    "lng": -8.7207,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild, showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild, rainy",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Mild, fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Mild, pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild, showers",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "VGO"
+  },
+  {
     "slug": "vilnius",
     "name": "Vilnius",
     "country": "Lithuania",

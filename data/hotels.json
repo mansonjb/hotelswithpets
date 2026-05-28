@@ -23220,6 +23220,121 @@
     "petPolicyPt": "Hyatt Regency Vienna warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. animais estadia completely gratuitamente. Sem taxa extra applies. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
+    "id": "vigo-1",
+    "name": "NH Collection Vigo",
+    "destinationSlug": "vigo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 1620,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/nh-collection-vigo.html",
+    "petFee": 35,
+    "petPolicy": "NH Collection Vigo welcomes up to 2 pets per room for €35 per pet, per night, with limited availability requiring direct contact with the hotel. Both dogs and cats are accepted. Pet beds and food/water bowls are provided on request. The hotel sits at García Barbón in the city centre, a short walk from the harbour and the Casco Vello.",
+    "highlights": [
+      "City centre location",
+      "Free WiFi",
+      "On-site restaurant"
+    ],
+    "slug": "nh-collection-vigo"
+  },
+  {
+    "id": "vigo-2",
+    "name": "Hotel Zenit Vigo",
+    "destinationSlug": "vigo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 1280,
+    "priceFrom": 75,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/zenit-vigo.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Zenit Vigo welcomes 1 pet up to 25 kg per room for €25 per night. Both dogs and cats are accepted. Pets cannot be left unattended in the room. The hotel is located near Praza de Compostela in the city centre.",
+    "highlights": [
+      "Top-rated guest reviews",
+      "Free WiFi",
+      "Central location"
+    ],
+    "slug": "hotel-zenit-vigo"
+  },
+  {
+    "id": "vigo-3",
+    "name": "Hotel Ciudad de Vigo",
+    "destinationSlug": "vigo",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 950,
+    "priceFrom": 80,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/ciudad-de-vigo.html",
+    "petFee": 25,
+    "petPolicy": "Hotel Ciudad de Vigo accepts 1 dog up to 10 kg in designated rooms for a flat fee of €25 per stay, plus a refundable €100 deposit. Cats are not accepted. Pets cannot be left unattended in the room. Food and water bowls are provided. The hotel is located on Rúa Concepción Arenal next to the city marina.",
+    "highlights": [
+      "Refundable pet deposit",
+      "Free WiFi",
+      "Marina-side"
+    ],
+    "slug": "hotel-ciudad-de-vigo"
+  },
+  {
+    "id": "vigo-4",
+    "name": "Hesperia Vigo",
+    "destinationSlug": "vigo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1450,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/hesperia-vigo.html",
+    "petFee": 22,
+    "petPolicy": "Hesperia Vigo welcomes 1 pet up to 8 kg per room for €22 per night. Both dogs and cats are accepted. The hotel is on Avenida Alcalde Gregorio Espino, a short walk from Praza de Compostela and the train station.",
+    "highlights": [
+      "Near train station",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "hesperia-vigo"
+  },
+  {
+    "id": "vigo-5",
+    "name": "Hotel Bahía de Vigo",
+    "destinationSlug": "vigo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 2380,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/bahiavigo.html",
+    "petFee": 12,
+    "petPolicy": "Hotel Bahía de Vigo accepts dogs of any size in designated rooms for €12 per pet, per night. Cats are also welcome. Food and water bowls are provided. The hotel sits directly opposite the cruise port on Avenida Cánovas del Castillo, with most rooms offering Ría de Vigo views.",
+    "highlights": [
+      "Cruise port location",
+      "Ría views",
+      "On-site restaurant"
+    ],
+    "slug": "hotel-bahia-de-vigo"
+  },
+  {
     "id": "vilnius-1",
     "name": "Grand Hotel Kempinski Vilnius",
     "destinationSlug": "vilnius",

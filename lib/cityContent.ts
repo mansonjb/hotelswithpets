@@ -20485,6 +20485,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vigo: {
+    history: {
+      fr: `Vigo est un port atlantique galicien, le plus grand de Galice avec environ 290 000 habitants, bâti sur les pentes raides qui descendent à la Ría de Vigo, l'un des estuaires en forme de fjord les plus profonds d'Europe. Son histoire mêle pêche, conserve de sardines (les fabriques Massó, Albo) et industrie navale (l'usine Vulcano fondée en 1907), avec une identité résolument ouvrière qui se traduit jusque dans la culture canine : pragmatique, sans fioriture, structurée autour de 18 'áreas caninas' clôturées dans les quartiers résidentiels plutôt qu'autour du tourisme de centre-ville. Vigo est aussi le port d'embarquement des îles Cíes, sanctuaire naturel atlantique où les chiens sont strictement interdits toute l'année.`,
+      en: `Vigo is a Galician Atlantic port, the largest in Galicia with about 290 000 inhabitants, built on steep slopes descending to the Ría de Vigo, one of Europe's deepest fjord-like estuaries. Its history blends fishing, sardine canning (Massó and Albo factories) and shipbuilding (the Vulcano works founded in 1907), with a resolutely working-class identity that carries through into dog culture: pragmatic, unfussy, structured around 18 fenced 'áreas caninas' in residential neighbourhoods rather than around city-centre tourism. Vigo is also the ferry port to the Cíes Islands, an Atlantic nature sanctuary where dogs are strictly banned year-round.`,
+      es: `Vigo es un puerto atlántico gallego, el mayor de Galicia con unos 290.000 habitantes, construido en las empinadas laderas que descienden a la Ría de Vigo, uno de los estuarios en forma de fiordo más profundos de Europa. Su historia mezcla pesca, conserva de sardinas (las fábricas Massó, Albo) e industria naval (la fábrica Vulcano fundada en 1907), con una identidad decididamente obrera que se traduce hasta en la cultura canina: pragmática, sin pretensiones, estructurada en torno a 18 'áreas caninas' valladas en barrios residenciales más que en torno al turismo de centro. Vigo es también el puerto de embarque a las islas Cíes, santuario natural atlántico donde los perros están estrictamente prohibidos todo el año.`,
+      pt: `Vigo é um porto atlântico galego, o maior da Galiza com cerca de 290 000 habitantes, construído nas encostas íngremes que descem à Ría de Vigo, um dos estuários em forma de fiorde mais profundos da Europa. A sua história mistura pesca, conserva de sardinhas (as fábricas Massó, Albo) e indústria naval (a fábrica Vulcano fundada em 1907), com uma identidade decididamente operária que se traduz até na cultura canina: pragmática, sem pretensões, estruturada em torno de 18 'áreas caninas' vedadas em bairros residenciais mais do que em torno do turismo de centro. Vigo é também o porto de embarque para as ilhas Cíes, santuário natural atlântico onde os cães estão estritamente proibidos o ano inteiro.`,
+    },
+    sights: [
+      {
+        name: 'Parque do Castro',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc emblématique de Vigo sur la colline, montant jusqu'aux fortifications du Castelo do Castro (XVIe) avec vues panoramiques sur la Ría de Vigo et les îles Cíes. Allées pavées, terrasses ombragées d'eucalyptus et site archéologique d'une rotonde celtique. Chiens en laisse bienvenus, aire sans laisse clôturée sur le versant sud inférieur.`,
+          en: `Vigo's iconic hilltop park, climbing to the 16th-century Castelo do Castro fortifications with panoramic views over the Ría de Vigo and the Cíes Islands. Paved walks, shaded eucalyptus terraces and a celtic-roundhouse archaeological site. Leashed dogs welcome throughout, enclosed off-leash area on the lower south slope.`,
+          es: `El emblemático parque de Vigo en lo alto, subiendo hasta las fortificaciones del Castelo do Castro (s. XVI) con vistas panorámicas sobre la Ría de Vigo y las islas Cíes. Paseos empedrados, terrazas sombreadas de eucalipto y yacimiento arqueológico de un castro celta. Perros con correa bienvenidos, zona sin correa vallada en la ladera sur inferior.`,
+          pt: `O emblemático parque de Vigo no alto, subindo até às fortificações do Castelo do Castro (séc. XVI) com vistas panorâmicas sobre a Ría de Vigo e as ilhas Cíes. Passeios empedrados, esplanadas sombreadas de eucalipto e sítio arqueológico de um castro celta. Cães com trela bem-vindos, zona sem trela vedada na encosta sul inferior.`,
+        },
+      },
+      {
+        name: 'Parque de Castrelos',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc urbain de Galice (24 ha) autour du Pazo Quiñones de León, avec jardins à la française, parterres à l'anglaise et la rivière Lagares. Grande zone canine clôturée à l'est, avec enclos séparés petits et grands chiens. Chiens en laisse bienvenus partout ailleurs.`,
+          en: `Galicia's largest urban park (24 ha) around the Pazo Quiñones de León, with formal French gardens, English parterres and the Lagares river. Large fenced 'área canina' in the eastern section, with separate small-dog and big-dog enclosures. Leashed dogs welcome throughout the rest.`,
+          es: `El mayor parque urbano de Galicia (24 ha) en torno al Pazo Quiñones de León, con jardines a la francesa, parterres a la inglesa y el río Lagares. Gran 'área canina' vallada en el sector este, con recintos separados para perros pequeños y grandes. Perros con correa bienvenidos en el resto.`,
+          pt: `O maior parque urbano da Galiza (24 ha) em torno do Pazo Quiñones de León, com jardins à francesa, canteiros à inglesa e o rio Lagares. Grande 'área canina' vedada no setor leste, com recintos separados para cães pequenos e grandes. Cães com trela bem-vindos no resto.`,
+        },
+      },
+      {
+        name: 'Casco Vello',
+        emoji: '🦪',
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville pavée qui grimpe du port à la Porta do Sol, avec la Concathédrale Santa María, la Praza da Constitución et la rangée d'étals d'huîtres de la Rúa Pescadería. Quartier piéton entièrement dog-friendly à l'extérieur ; les ostreiras servent les huîtres directement de leurs dalles de granit.`,
+          en: `The stone-paved old town climbing from the harbour to Porta do Sol, with the Concatedral de Santa María, Praza da Constitución and the Rúa Pescadería oyster-stall row. Entirely pedestrian and dog-friendly outdoors; oyster women shuck directly on their granite slabs.`,
+          es: `El casco antiguo empedrado que sube del puerto hasta la Porta do Sol, con la Concatedral de Santa María, la Praza da Constitución y la fila de puestos de ostras de la Rúa Pescadería. Totalmente peatonal y dog-friendly al aire libre; las ostreiras abren las ostras directamente sobre sus losas de granito.`,
+          pt: `O casco antigo calcetado que sobe do porto até à Porta do Sol, com a Concatedral de Santa María, a Praza da Constitución e a fila de postos de ostras da Rúa Pescadería. Totalmente pedonal e dog-friendly ao ar livre; as ostreiras abrem as ostras diretamente sobre as suas lajes de granito.`,
+        },
+      },
+      {
+        name: 'Monte da Guía',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Une colline boisée côtière à l'est de Vigo, avec une chapelle au sommet et vues panoramiques sur la ría intérieure. Réseau de sentiers à travers pinèdes et eucalyptus, sentiers tranquilles permettant la promenade sans laisse avec un chien rappelé. Bus 12 depuis le centre.`,
+          en: `A wooded coastal hill on the eastern edge of Vigo, with a hermitage at the summit and panoramic views over the inner ría. Network of trails through pine and eucalyptus woodland, quiet paths permit off-leash walking with a recall-trained dog. Bus 12 from the city centre.`,
+          es: `Una colina boscosa costera al este de Vigo, con una ermita en la cima y vistas panorámicas sobre la ría interior. Red de senderos por pinares y eucaliptos, sendas tranquilas permiten paseo sin correa con perro adiestrado en la llamada. Bus 12 desde el centro.`,
+          pt: `Um monte arborizado costero a leste de Vigo, com uma ermida no cimo e vistas panorâmicas sobre a ría interior. Rede de trilhos por pinhais e eucaliptos, trilhos tranquilos permitem passeio sem trela com cão treinado para a chamada. Autocarro 12 a partir do centro.`,
+        },
+      },
+      {
+        name: 'Cíes Islands',
+        emoji: '🚫',
+        petFriendly: false,
+        desc: {
+          fr: `Le Parc National des îles Cíes interdit strictement les chiens TOUTE L'ANNÉE, sans exception. Les compagnies de ferry refusent l'embarquement avec un chien. Alternative dog-friendly : la Costa da Vela autour du Cabo Home (40 km au sud-ouest), avec des criques de sable blanc similaires.`,
+          en: `The Cíes Islands National Park strictly bans dogs YEAR-ROUND, no exceptions. Ferry companies refuse boarding with a dog. Dog-friendly alternative: the Costa da Vela around Cabo Home (40 km south-west), with similar white-sand coves.`,
+          es: `El Parque Nacional de las islas Cíes prohíbe estrictamente los perros TODO EL AÑO, sin excepciones. Las navieras deniegan el embarque con perro. Alternativa dog-friendly: la Costa da Vela en torno al cabo Home (40 km al suroeste), con calas similares de arena blanca.`,
+          pt: `O Parque Nacional das ilhas Cíes proíbe estritamente os cães O ANO INTEIRO, sem exceções. As empresas de ferry recusam o embarque com cão. Alternativa dog-friendly: a Costa da Vela em torno do cabo Home (40 km a sudoeste), com enseadas semelhantes de areia branca.`,
+        },
+      },
+      {
+        name: 'Praia da Mourisca',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine officielle de la côte sud de la Ría de Vigo, à Nigrán, 12 km au sud. Croissant de 200 m de sable fin aux eaux turquoise peu profondes, accessible toute l'année. Lieu de rendez-vous des propriétaires de Vigo le week-end estival.`,
+          en: `The official dog beach of the south Ría de Vigo coast, in Nigrán, 12 km south. A 200 m crescent of fine sand with shallow turquoise water, accessible year-round. Meeting point for Vigo dog owners on summer weekends.`,
+          es: `La playa canina oficial de la costa sur de la Ría de Vigo, en Nigrán, 12 km al sur. Media luna de 200 m de arena fina con aguas turquesa poco profundas, accesible todo el año. Punto de encuentro de los propietarios de Vigo los fines de semana estivales.`,
+          pt: `A praia canina oficial da costa sul da Ría de Vigo, em Nigrán, 12 km a sul. Meia-lua de 200 m de areia fina com águas turquesa pouco profundas, acessível o ano inteiro. Ponto de encontro dos donos de Vigo aos fins de semana de verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le Parc National des îles Cíes interdit strictement les chiens toute l'année, sans exception ; les compagnies de ferry refusent l'embarquement.`,
+        `Interdiction estivale (1er juin-30 septembre, 9h-20h) sur toutes les plages de baignade de la commune de Vigo : Samil, O Vao, Tombo do Gato. Praia da Mourisca à Nigrán (12 km) reste accessible toute l'année.`,
+        `Vigo compte 18 'áreas caninas' officielles, la plus grande au Parque de Castrelos et la plus centrale sur le versant sud du Parque do Castro.`,
+        `La topographie est très raide (du niveau de la mer à 180 m en 1 km), des escaliers mécaniques extérieurs gratuits aident sur les montées ; portez les petits chiens, contrôle ferme de laisse pour les grands.`,
+        `Le climat galicien est humide toute l'année (1300 mm de pluie/an), apportez serviette à séchage rapide et imperméable canin en toute saison.`,
+      ],
+      en: [
+        `The Cíes Islands National Park strictly bans dogs year-round, no exceptions; ferry companies refuse boarding.`,
+        `Summer beach ban (June 1-September 30, 09:00-20:00) on all bathing beaches in Vigo municipality: Samil, O Vao, Tombo do Gato. Praia da Mourisca in Nigrán (12 km south) remains accessible year-round.`,
+        `Vigo has 18 official 'áreas caninas', the largest at Parque de Castrelos and the most central on the south slope of Parque do Castro.`,
+        `The topography is very steep (sea level to 180 m in 1 km), free outdoor escalators help with the climbs; carry small dogs, keep larger dogs firmly heeled.`,
+        `Galician weather is wet year-round (1300 mm rain/year), bring a quick-dry towel and dog raincoat in any season.`,
+      ],
+      es: [
+        `El Parque Nacional de las islas Cíes prohíbe estrictamente los perros todo el año, sin excepciones; las navieras deniegan el embarque.`,
+        `Prohibición estival (1 de junio-30 de septiembre, 09:00-20:00) en todas las playas de baño del municipio de Vigo: Samil, O Vao, Tombo do Gato. La Praia da Mourisca en Nigrán (12 km al sur) sigue accesible todo el año.`,
+        `Vigo cuenta con 18 'áreas caninas' oficiales, la más grande en el Parque de Castrelos y la más céntrica en la ladera sur del Parque do Castro.`,
+        `La topografía es muy empinada (del nivel del mar a 180 m en 1 km), las escaleras mecánicas exteriores gratuitas ayudan en las subidas; lleva en brazos a los perros pequeños, control firme de correa con los grandes.`,
+        `El clima gallego es húmedo todo el año (1300 mm de lluvia/año), lleva toalla de secado rápido e impermeable canino en cualquier estación.`,
+      ],
+      pt: [
+        `O Parque Nacional das ilhas Cíes proíbe estritamente os cães o ano inteiro, sem exceções; as empresas de ferry recusam o embarque.`,
+        `Proibição estival (1 de junho-30 de setembro, 09:00-20:00) em todas as praias de banho do município de Vigo: Samil, O Vao, Tombo do Gato. A Praia da Mourisca em Nigrán (12 km a sul) continua acessível o ano inteiro.`,
+        `Vigo conta com 18 'áreas caninas' oficiais, a maior no Parque de Castrelos e a mais central na encosta sul do Parque do Castro.`,
+        `A topografia é muito íngreme (do nível do mar a 180 m em 1 km), as escadas rolantes exteriores gratuitas ajudam nas subidas; leve ao colo os cães pequenos, controlo firme de trela com os grandes.`,
+        `O clima galego é húmido o ano inteiro (1300 mm de chuva/ano), leve toalha de secagem rápida e impermeável canino em qualquer estação.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport : Vigo-Peinador (VGO) à 10 km à l'est, accessible en bus pet-friendly et taxi ; alternatives Santiago (SCQ, 90 km) et Porto-Sá Carneiro (OPO, 150 km).`,
+        `Vétérinaire 24h/24 : AniCura Navia Hospital Veterinario, Rúa das Teixugueiras 27, +34 986 117 056, hospitalisation séparée chiens/chats.`,
+        `Le bus urbain VITRASA n'admet les chiens qu'en sac de transport fermé ; pour les grands chiens, taxi (accord du chauffeur) ou marche.`,
+        `Excursions dog-friendly : Praia da Mourisca à Nigrán (12 km), Costa da Vela autour du Cabo Home (40 km), Saint-Jacques-de-Compostelle (90 km au nord), Pontevedra historique (30 km).`,
+        `Fournitures : Kiwoko et Tiendanimal dans les centres commerciaux Vialia et A Laxe, plus plusieurs cliniques-tiendas à Coruxo et Navia.`,
+      ],
+      en: [
+        `Airport: Vigo-Peinador (VGO) is 10 km east, reachable by pet-friendly bus and taxi; alternatives are Santiago (SCQ, 90 km) and Porto-Sá Carneiro (OPO, 150 km).`,
+        `24h vet: AniCura Navia Hospital Veterinario, Rúa das Teixugueiras 27, +34 986 117 056, separate hospitalisation for dogs and cats.`,
+        `The VITRASA city bus only admits dogs in closed carriers; for larger dogs prefer taxi (driver's discretion) or walking.`,
+        `Dog-friendly day trips: Praia da Mourisca in Nigrán (12 km), Costa da Vela around Cabo Home (40 km), Santiago de Compostela (90 km north), historic Pontevedra (30 km).`,
+        `Pet supplies: Kiwoko and Tiendanimal at the Vialia and A Laxe shopping centres, plus several clinic-shops in Coruxo and Navia.`,
+      ],
+      es: [
+        `Aeropuerto: Vigo-Peinador (VGO) a 10 km al este, accesible en bus pet-friendly y taxi; alternativas Santiago (SCQ, 90 km) y Porto-Sá Carneiro (OPO, 150 km).`,
+        `Veterinario 24h: AniCura Navia Hospital Veterinario, Rúa das Teixugueiras 27, +34 986 117 056, hospitalización separada para perros y gatos.`,
+        `El autobús urbano VITRASA solo admite perros en transportín cerrado; para perros grandes mejor taxi (a discreción del conductor) o ir a pie.`,
+        `Excursiones dog-friendly: Praia da Mourisca en Nigrán (12 km), Costa da Vela en torno al cabo Home (40 km), Santiago de Compostela (90 km al norte), Pontevedra histórica (30 km).`,
+        `Suministros: Kiwoko y Tiendanimal en los centros comerciales Vialia y A Laxe, más varias clínicas-tienda en Coruxo y Navia.`,
+      ],
+      pt: [
+        `Aeroporto: Vigo-Peinador (VGO) a 10 km a leste, acessível por autocarro pet-friendly e táxi; alternativas Santiago (SCQ, 90 km) e Porto-Sá Carneiro (OPO, 150 km).`,
+        `Veterinário 24h: AniCura Navia Hospital Veterinario, Rúa das Teixugueiras 27, +34 986 117 056, internamento separado para cães e gatos.`,
+        `O autocarro urbano VITRASA só admite cães em transportadora fechada; para cães grandes prefira táxi (à descrição do condutor) ou andar a pé.`,
+        `Excursões dog-friendly: Praia da Mourisca em Nigrán (12 km), Costa da Vela em torno do cabo Home (40 km), Santiago de Compostela (90 km a norte), Pontevedra histórica (30 km).`,
+        `Suprimentos: Kiwoko e Tiendanimal nos centros comerciais Vialia e A Laxe, mais várias clínicas-loja em Coruxo e Navia.`,
+      ],
+    },
+  },
+
   vilnius: {
     history: {
       fr: `Vilnius est la capitale de la Lituanie depuis 1323, fondée par le grand-duc Gediminas après un songe prophétique du loup de fer. Sa vieille ville baroque, l'une des plus vastes d'Europe orientale, est inscrite à l'UNESCO depuis 1994 et reste l'épine dorsale du tourisme local. La ville actuelle compte environ 580 000 habitants et l'État lituanien recense près de 60 000 chiens à Vilnius, densité élevée qui se traduit dans la rue : près de 500 cafés, restaurants et boutiques dog-friendly listés sur l'annuaire national draugiskigyvunams.lt, deux hôpitaux vétérinaires 24h/24, et une politique transports qui laisse les animaux voyager gratuitement. Vilnius est aussi la capitale la plus verte de l'UE par couvert arboré, ce qui se voit dans le réseau de parcs centraux : 160 hectares au Vingis, le jardin Bernardine au cœur de la ville, et les forêts de Verkiai à 15 minutes du centre.`,

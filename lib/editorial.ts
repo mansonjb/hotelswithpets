@@ -812,6 +812,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Prater park, Donauinsel island, and the Lainzer Tiergarten',
       area: 'the 1st district, Naschmarkt, and Josefstadt',
     },
+    vigo: {
+      personality: 'Galicia\'s biggest port city, climbing steeply from a deep Atlantic fjord, with 18 official off-leash dog areas, a strong working-port character and the Cíes Islands National Park visible (but firmly off-limits to pets) across the ría',
+      highlight: 'the Castro park citadel with Cíes Islands sunset views, the 24-hectare Parque de Castrelos, and the Rúa Pescadería oyster-stall culture in the Casco Vello',
+      area: 'the Casco Vello around the cruise port, the residential Coruxo neighbourhood near the western beaches, and the leafy Castrelos park district',
+    },
     vilnius: {
       personality: 'the EU\'s greenest capital and one of its most dog-welcoming, where pets travel free on every bus and nearly 500 pet-friendly venues sit inside the UNESCO Old Town',
       highlight: 'Vingis Park forest, Bernardinai Garden, and the Three Crosses hill',
@@ -1648,6 +1653,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville qui prend la possession d\'animaux très au sérieux. Les chiens prennent le U-Bahn, entrent dans les musées et sont accueillis dans des centaines de cafés viennois',
       highlight: 'le parc du Prater, l\'île du Danube et le Lainzer Tiergarten',
       area: 'le 1er arrondissement, le Naschmarkt et Josefstadt',
+    },
+    vigo: {
+      personality: 'la plus grande ville portuaire de Galice, qui grimpe à pic depuis un fjord atlantique profond, avec 18 espaces canins officiels sans laisse, un fort caractère de port de travail et le Parc National des îles Cíes visible (mais strictement interdit aux animaux) en travers de la ría',
+      highlight: 'la citadelle du parc du Castro avec vues sur les îles Cíes au coucher du soleil, le Parque de Castrelos de 24 hectares et la culture des étals d\'huîtres de la Rúa Pescadería dans le Casco Vello',
+      area: 'le Casco Vello autour du port de croisière, le quartier résidentiel de Coruxo près des plages occidentales et le secteur arboré du parc de Castrelos',
     },
     vilnius: {
       personality: 'la capitale la plus verte de l\'UE et l\'une des plus accueillantes pour les chiens, où les animaux voyagent gratuitement dans tous les bus et près de 500 adresses pet-friendly se concentrent dans la vieille ville UNESCO',
@@ -2486,6 +2496,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque del Prater, la isla del Danubio y el Lainzer Tiergarten',
       area: 'el 1er distrito, el Naschmarkt y Josefstadt',
     },
+    vigo: {
+      personality: 'la mayor ciudad portuaria de Galicia, que sube a pique desde un profundo fiordo atlántico, con 18 áreas caninas oficiales sin correa, un fuerte carácter de puerto trabajador y el Parque Nacional de las islas Cíes visible (pero estrictamente vedado a las mascotas) cruzando la ría',
+      highlight: 'la ciudadela del parque del Castro con vistas a las islas Cíes al atardecer, el Parque de Castrelos de 24 hectáreas y la cultura de los puestos de ostras de la Rúa Pescadería en el Casco Vello',
+      area: 'el Casco Vello en torno al puerto de cruceros, el barrio residencial de Coruxo cerca de las playas occidentales y el frondoso sector del parque de Castrelos',
+    },
     vilnius: {
       personality: 'la capital más verde de la UE y una de las más acogedoras con perros, donde las mascotas viajan gratis en todos los autobuses y casi 500 direcciones pet-friendly se concentran en el casco antiguo UNESCO',
       highlight: 'el bosque de Vingis, el Bernardine Garden y la colina de las Tres Cruces',
@@ -3322,6 +3337,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade que se toma en serio a tenencia de animais. Os cães viajan no U-Bahn, entran en museus e são atendidos en cientos de cafés vieneses',
       highlight: 'o parque do Prater, a ilha do Danubio e o Lainzer Tiergarten',
       area: 'o 1er distrito, o Naschmarkt e Josefstadt',
+    },
+    vigo: {
+      personality: 'a maior cidade portuária da Galiza, que sobe a pique a partir de um fundo fiorde atlântico, com 18 áreas caninas oficiais sem trela, um forte carácter de porto trabalhador e o Parque Nacional das ilhas Cíes visível (mas estritamente vedado aos animais) a atravessar a ría',
+      highlight: 'a cidadela do parque do Castro com vistas para as ilhas Cíes ao pôr do sol, o Parque de Castrelos de 24 hectares e a cultura dos postos de ostras da Rúa Pescadería no Casco Vello',
+      area: 'o Casco Vello em redor do porto de cruzeiros, o bairro residencial de Coruxo perto das praias ocidentais e o arborizado sector do parque de Castrelos',
     },
     vilnius: {
       personality: 'a capital mais verde da UE e uma das mais acogedoras com cães, onde as animais viajan grátis en todos os autocarros e casi 500 direcciones pet-friendly se concentran no centro histórico UNESCO',

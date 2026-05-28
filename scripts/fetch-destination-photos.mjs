@@ -146,6 +146,7 @@ const TARGETS = [
   { slug: 'zermatt',   query: 'Zermatt Switzerland Matterhorn mountain village Alps Valais panorama sunrise' },
   { slug: 'lugano',    query: 'Lugano Switzerland Ticino lake Monte San Salvatore lakefront promenade palms panorama sunset' },
   { slug: 'santiago-de-compostela', query: 'Santiago de Compostela Spain Cathedral Praza do Obradoiro Galicia old town granite spires panorama sunset' },
+  { slug: 'vigo', query: 'Vigo Spain Ria de Vigo port harbour Castro park Cies Islands Galicia Atlantic panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

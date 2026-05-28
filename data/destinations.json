@@ -9919,6 +9919,81 @@
     "tiqetsId": "66172"
   },
   {
+    "slug": "santiago-de-compostela",
+    "name": "Santiago de Compostela",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/santiago-de-compostela.jpg",
+    "intro": "Galicia's UNESCO-listed pilgrim capital with granite-paved squares around the cathedral, six designated off-leash dog spaces, a 24/7 reference vet hospital at Costa Vella, and a municipal 'Santiguau' programme formally listing pet-friendly venues across the old town.",
+    "lat": 42.8806,
+    "lng": -8.5453,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild, showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild, rainy",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild, fresh",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild, pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Mild summer",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 18,
+        "desc": "Mild, showers",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cool, very rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SCQ"
+  },
+  {
     "slug": "seville",
     "name": "Seville",
     "country": "Spain",

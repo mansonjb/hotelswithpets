@@ -682,6 +682,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'La Concha and Zurriola beaches (October–May), Monte Urgull\'s hill trails, and the Paseo Nuevo coastal path',
       area: 'the Old Town (Parte Vieja), Gros, and the Antiguo district near Monte Igueldo',
     },
+    'santiago-de-compostela': {
+      personality: 'a UNESCO-listed pilgrim capital where the Camino de Santiago has shaped a thousand-year tradition of welcoming dogs through the granite-paved old town',
+      highlight: 'the four cathedral squares, the Alameda park with its Carballeira de Santa Susana off-leash zone, and the panoramic Parque de Bonaval',
+      area: 'the casco antiguo around the cathedral, the leafy Alameda corridor, and the residential Conxo and Vista Alegre neighbourhoods',
+    },
     seville: {
       personality: 'one of Andalusia\'s most dog-friendly cities. Where dogs stroll under orange trees, join owners on tapas bar terraces, and explore riverside parks',
       highlight: 'the Parque de María Luisa, the Alamillo park, and the Guadalquivir riverside promenade',
@@ -1513,6 +1518,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville balnéaire basque où les chiens sont parfois plus nombreux que les enfants et où les plages leur ouvrent d\'octobre à mai',
       highlight: 'les plages de La Concha et Zurriola (octobre–mai), les sentiers du Mont Urgull et le Paseo Nuevo sur le front de mer',
       area: 'la Parte Vieja (vieille ville), Gros et le quartier d\'Antiguo près du Mont Igueldo',
+    },
+    'santiago-de-compostela': {
+      personality: 'la capitale galicienne du pèlerinage classée à l\'UNESCO, où le Chemin de Saint-Jacques a forgé une tradition millénaire d\'accueil des chiens dans la vieille ville pavée de granit',
+      highlight: 'les quatre places de la cathédrale, le parc de l\'Alameda avec sa zone sans laisse de la Carballeira de Santa Susana et le parc panoramique de Bonaval',
+      area: 'le casco antiguo autour de la cathédrale, l\'avenue ombragée de l\'Alameda et les quartiers résidentiels de Conxo et Vista Alegre',
     },
     seville: {
       personality: 'l\'une des villes les plus dog-friendly d\'Andalousie. Où les chiens se promènent sous les orangers, rejoignent leurs propriétaires sur les terrasses de bars à tapas et explorent les parcs riverains',
@@ -2346,6 +2356,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'las playas de La Concha y Zurriola (octubre–mayo), los senderos del Monte Urgull y el Paseo Nuevo junto al mar',
       area: 'la Parte Vieja, Gros y el barrio de Antiguo cerca del Monte Igueldo',
     },
+    'santiago-de-compostela': {
+      personality: 'la capital gallega del peregrinaje declarada Patrimonio de la UNESCO, donde el Camino de Santiago ha forjado una tradición milenaria de acoger a los perros en el casco antiguo empedrado de granito',
+      highlight: 'las cuatro plazas de la catedral, el parque de la Alameda con su zona sin correa en la Carballeira de Santa Susana y el parque panorámico de Bonaval',
+      area: 'el casco antiguo en torno a la catedral, la frondosa avenida de la Alameda y los barrios residenciales de Conxo y Vista Alegre',
+    },
     seville: {
       personality: 'una de las ciudades más dog-friendly de Andalucía. Donde los perros pasean bajo los naranjos, acompañan a sus dueños en las terrazas de bares de tapas y exploran los parques ribereños',
       highlight: 'el Parque de María Luisa, el parque Alamillo y el paseo ribereño del Guadalquivir',
@@ -3177,6 +3192,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade costera vasca onde os cães llegan a ser mais numerosos que os ninhos en algunos bairros e cuyas praias se les abren de outubro a maio',
       highlight: 'as praias da Concha e Zurriola (outubro–maio), os trilhos do Monte Urgull e o Passeio Nuevo junto al mar',
       area: 'a Parte Vieja, Gros e o bairro de Antigo perto do Monte Igueldo',
+    },
+    'santiago-de-compostela': {
+      personality: 'a capital galega da peregrinação classificada pela UNESCO, onde o Caminho de Santiago forjou uma tradição milenar de acolher cães no casco antigo empedrado de granito',
+      highlight: 'as quatro praças da catedral, o parque da Alameda com a sua zona sem trela na Carballeira de Santa Susana e o parque panorâmico de Bonaval',
+      area: 'o casco antigo em torno à catedral, a arborizada avenida da Alameda e os bairros residenciais de Conxo e Vista Alegre',
     },
     seville: {
       personality: 'uma das cidades mais pet-friendly de Andalucía. Onde os cães pasean sob os naranjos, acompanhan aos seus duenhos nas esplanadas de bares de tapas e exploran os parques riberenhos',

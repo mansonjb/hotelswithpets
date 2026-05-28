@@ -145,6 +145,7 @@ const TARGETS = [
   { slug: 'hallstatt', query: 'Hallstatt Austria UNESCO lakeside village Salzkammergut Dachstein mountain reflection postcard panorama sunrise' },
   { slug: 'zermatt',   query: 'Zermatt Switzerland Matterhorn mountain village Alps Valais panorama sunrise' },
   { slug: 'lugano',    query: 'Lugano Switzerland Ticino lake Monte San Salvatore lakefront promenade palms panorama sunset' },
+  { slug: 'santiago-de-compostela', query: 'Santiago de Compostela Spain Cathedral Praza do Obradoiro Galicia old town granite spires panorama sunset' },
 ]
 
 async function searchPhoto(query, apiKey) {

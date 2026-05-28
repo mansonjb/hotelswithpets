@@ -17088,6 +17088,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'santiago-de-compostela': {
+    history: {
+      fr: `Saint-Jacques-de-Compostelle naît au IXe siècle de la découverte présumée du tombeau de l'apôtre Jacques, devenant rapidement l'un des trois grands pèlerinages chrétiens médiévaux aux côtés de Rome et Jérusalem. Sa cathédrale baroque-romane, ses quatre places voûtées de granit et son centre historique inscrit à l'UNESCO en 1985 sont l'aboutissement de mille ans de marche : les pèlerins, leurs ânes et leurs chiens ont façonné une culture d'accueil exceptionnelle pour les voyageurs accompagnés d'animaux. La ville est aussi capitale de Galice, région verdoyante au climat atlantique nord, ce qui explique son 1500 mm de pluie annuelle et son ambiance résolument celto-ibérique : cornemuses, pulpo á feira et bruyères en fleurs.`,
+      en: `Santiago de Compostela emerged in the 9th century from the alleged discovery of the apostle James's tomb, swiftly becoming one of medieval Christendom's three great pilgrimages alongside Rome and Jerusalem. Its baroque-Romanesque cathedral, its four granite-vaulted squares and its UNESCO-listed historic centre (1985) are the outcome of a thousand years of walking: pilgrims, their donkeys and their dogs shaped an exceptionally accommodating culture for travellers with animals. The city is also Galicia's capital, a green region with a North-Atlantic climate, which explains its 1500 mm annual rainfall and resolutely Celtic-Iberian feel: bagpipes, pulpo á feira, and heather in bloom.`,
+      es: `Santiago de Compostela surgió en el siglo IX a partir del supuesto hallazgo del sepulcro del apóstol Santiago, convirtiéndose rápidamente en una de las tres grandes peregrinaciones de la cristiandad medieval junto a Roma y Jerusalén. Su catedral barroca-románica, sus cuatro plazas abovedadas de granito y su casco histórico declarado Patrimonio de la UNESCO en 1985 son el resultado de mil años de andar: peregrinos, sus burros y sus perros forjaron una cultura excepcionalmente acogedora para los viajeros con animales. La ciudad es también capital de Galicia, región verde de clima atlántico norte, lo que explica sus 1500 mm de lluvia anuales y su ambiente decididamente celto-ibérico: gaitas, pulpo á feira y brezo en flor.`,
+      pt: `Santiago de Compostela surgiu no século IX a partir da alegada descoberta do túmulo do apóstolo Tiago, tornando-se rapidamente uma das três grandes peregrinações da cristandade medieval ao lado de Roma e Jerusalém. A sua catedral barroco-românica, as quatro praças abobadadas de granito e o seu casco histórico classificado pela UNESCO em 1985 são o resultado de mil anos de caminhar: peregrinos, seus burros e seus cães moldaram uma cultura excecionalmente acolhedora para os viajantes com animais. A cidade é também capital da Galiza, região verde de clima atlântico norte, o que explica os seus 1500 mm de chuva anuais e o seu ambiente decididamente celto-ibérico: gaitas-de-foles, pulpo á feira e urze em flor.`,
+    },
+    sights: [
+      {
+        name: 'Praza do Obradoiro',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `La place monumentale qui sert d'arrivée du Chemin, encadrée par la façade baroque de la cathédrale, l'Hostal dos Reis Católicos (plus ancien hôtel d'Espagne) et le Pazo de Raxoi. Les chiens en laisse sont les bienvenus partout sur la place et dans les trois autres places voisines (Praterías, Quintana, Inmaculada).`,
+          en: `The monumental square that serves as the Camino's finishing line, framed by the baroque cathedral facade, the Hostal dos Reis Católicos (Spain's oldest hotel), and the Pazo de Raxoi. Leashed dogs are welcome throughout the square and in the three adjoining ones (Praterías, Quintana, Inmaculada).`,
+          es: `La plaza monumental que sirve de meta del Camino, enmarcada por la fachada barroca de la catedral, el Hostal dos Reis Católicos (el hotel más antiguo de España) y el Pazo de Raxoi. Los perros con correa son bienvenidos en toda la plaza y en las tres aledañas (Praterías, Quintana, Inmaculada).`,
+          pt: `A praça monumental que serve de meta do Caminho, enquadrada pela fachada barroca da catedral, o Hostal dos Reis Católicos (o hotel mais antigo da Espanha) e o Pazo de Raxoi. Os cães com trela são bem-vindos em toda a praça e nas três adjacentes (Praterías, Quintana, Inmaculada).`,
+        },
+      },
+      {
+        name: 'Parque da Alameda',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc public principal de la ville, promenade Belle Époque surélevée au sud de la vieille ville, avec la chênaie Carballeira de Santa Susana et le meilleur point de vue sur les flèches de la cathédrale. La municipalité y a aménagé une zone canine sans laisse dédiée dans la chênaie.`,
+          en: `The city's main public park, a Belle Époque promenade rising south of the old town, with the Carballeira de Santa Susana oak grove and the city's best view of the cathedral spires. The municipality has designated a dedicated off-leash dog zone within the oak grove.`,
+          es: `El parque público principal de la ciudad, un paseo Belle Époque elevado al sur del casco antiguo, con el robledal Carballeira de Santa Susana y la mejor vista de las torres de la catedral. El ayuntamiento ha designado una zona canina sin correa dedicada dentro del robledal.`,
+          pt: `O parque público principal da cidade, um passeio Belle Époque elevado a sul do casco antigo, com o carvalhal Carballeira de Santa Susana e a melhor vista das torres da catedral. O município designou uma zona canina sem trela dedicada dentro do carvalhal.`,
+        },
+      },
+      {
+        name: 'Parque de Bonaval',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Parc en terrasses serein derrière l'ancien couvent dominicain devenu Musée du peuple galicien, avec parterres d'hortensias, un bois et l'ancien cimetière monastique sur la pelouse supérieure. Le belvédère est sans doute le plus beau panorama urbain sur la cathédrale.`,
+          en: `A serene terraced park behind the former Dominican convent, now the Galician Museum of the People, with hydrangea beds, a wooded grove and the old monastic cemetery on the upper lawn. The viewpoint is arguably the city's finest urban panorama of the cathedral.`,
+          es: `Un parque escalonado y sereno detrás del antiguo convento dominico, hoy Museo do Pobo Galego, con macizos de hortensias, una arboleda y el antiguo cementerio monástico en el césped superior. El mirador es probablemente el mejor panorama urbano de la catedral.`,
+          pt: `Um parque sereno em socalcos atrás do antigo convento dominicano, hoje Museo do Pobo Galego, com canteiros de hortênsias, um bosque e o antigo cemitério monástico no relvado superior. O miradouro é provavelmente o melhor panorama urbano da catedral.`,
+        },
+      },
+      {
+        name: 'Parque de Belvís',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Amphithéâtre verdoyant descendant sous le couvent de Belvís, avec jardins en labyrinthes formels en haut et une zone canine sans laisse murée à l'extrémité sud, l'un des espaces enclos les plus sûrs du centre.`,
+          en: `A green amphitheatre sloping below the Belvís convent, with formal labyrinth gardens above and a walled off-leash dog zone at the southern end, one of the safest enclosed off-leash spots in central Santiago.`,
+          es: `Un anfiteatro verde que desciende bajo el convento de Belvís, con jardines de laberintos formales arriba y una zona canina sin correa amurallada en el extremo sur, uno de los espacios cerrados sin correa más seguros del centro.`,
+          pt: `Um anfiteatro verde que desce sob o convento de Belvís, com jardins de labirintos formais em cima e uma zona canina sem trela murada no extremo sul, um dos espaços fechados sem trela mais seguros do centro.`,
+        },
+      },
+      {
+        name: 'Mercado de Abastos',
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `Le marché alimentaire le plus important de Galice, halles de granit à arcades ouvertes (1937) avec poissonniers, bouchers et pulperías. Chiens en laisse bienvenus dans l'arcade extérieure et aux cafés pet-friendly de la Praza de Abastos en face.`,
+          en: `Galicia's most important food market, granite halls with open arcades (1937) housing fishmongers, butchers and pulperías. Leashed dogs are welcome on the outdoor arcade and at the pet-friendly cafés directly facing the market on Praza de Abastos.`,
+          es: `El mercado de alimentos más importante de Galicia, naves de granito con arcadas abiertas (1937) que albergan pescaderías, carnicerías y pulperías. Perros con correa bienvenidos en la arcada exterior y en los cafés pet-friendly frente al mercado en la Praza de Abastos.`,
+          pt: `O mercado de alimentos mais importante da Galiza, naves de granito com arcadas abertas (1937) que albergam peixarias, talhos e pulperías. Cães com trela bem-vindos na arcada exterior e nos cafés pet-friendly em frente ao mercado na Praza de Abastos.`,
+        },
+      },
+      {
+        name: 'Cidade da Cultura de Galicia',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Complexe architectural monumental de Peter Eisenman au sommet du Monte Gaiás, aux toits ondulés revêtus de granit, ouvert en 2011. Esplanades extérieures et sentiers sur les toits ouverts aux chiens en laisse, jour et nuit, panoramas sur le centre historique.`,
+          en: `Peter Eisenman's monumental architectural complex atop Monte Gaiás, with wave-roofed granite-clad buildings, opened in 2011. Exterior plazas and rooftop paths are open to leashed dogs day and night, with panoramic views back over the historic centre.`,
+          es: `Monumental complejo arquitectónico de Peter Eisenman en la cima del Monte Gaiás, con techos ondulados revestidos de granito, inaugurado en 2011. Las explanadas exteriores y los senderos sobre las cubiertas están abiertas a perros con correa, día y noche, con vistas panorámicas al casco histórico.`,
+          pt: `Monumental complexo arquitetónico de Peter Eisenman no topo do Monte Gaiás, com coberturas onduladas revestidas de granito, inaugurado em 2011. As esplanadas exteriores e os trilhos sobre as coberturas estão abertos a cães com trela, dia e noite, com vistas panorâmicas para o casco histórico.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le programme municipal 'Santiguau' recense les hôtels, cafés et restaurants formellement enregistrés comme pet-friendly, consultez la liste sur santiagoturismo.com avant de réserver.`,
+        `Les pavés de granit poli deviennent très glissants par temps de pluie (1500 mm/an), envisagez des bottines pour les chiens âgés ou les races à coussinets sensibles.`,
+        `L'intérieur de la cathédrale, le musée et la visite des toits n'admettent pas les chiens (sauf chiens d'assistance) ; prévoyez qu'une personne reste dehors avec l'animal ou réservez un pet-sitter local.`,
+        `Pour la majorité des albergues publics du Chemin, les chiens ne sont PAS admis : réservez albergues privés ou maisons d'hôtes pet-friendly à l'avance, surtout sur les dernières étapes depuis Sarria (Camino Francés) ou Tui (Camino Portugués).`,
+        `L'association APACA délivre un credential 'Compostela Dog' (ou 'Perregrina') aux chiens qui terminent le Camino, à demander au bureau d'accueil des pèlerins après votre arrivée.`,
+      ],
+      en: [
+        `The municipal 'Santiguau' programme lists hotels, cafés and restaurants formally registered as pet-friendly, check the list on santiagoturismo.com before you book.`,
+        `Polished granite cobbles become very slippery in the rain (1500 mm/year), consider booties for senior dogs or breeds with sensitive paws.`,
+        `The cathedral interior, museum and rooftop tour do not admit dogs (assistance dogs excepted); plan for one person to stay outside with the dog or book a local pet-sitter.`,
+        `Most public albergues on the Camino do NOT accept dogs: book private albergues or pet-friendly guesthouses in advance, particularly on the final stages from Sarria (Camino Francés) or Tui (Camino Portugués).`,
+        `The APACA association issues a 'Compostela Dog' (or 'Perregrina') credential to dogs that complete the Camino, ask at the Pilgrim Reception Office after you arrive.`,
+      ],
+      es: [
+        `El programa municipal 'Santiguau' recoge hoteles, cafés y restaurantes formalmente registrados como pet-friendly, consulta la lista en santiagoturismo.com antes de reservar.`,
+        `Las losas de granito pulido se vuelven muy resbaladizas con lluvia (1500 mm/año), considera botines para perros mayores o razas con almohadillas sensibles.`,
+        `El interior de la catedral, el museo y la visita a la cubierta no admiten perros (salvo los de asistencia); organiza que una persona quede fuera con el perro o reserva un pet-sitter local.`,
+        `La mayoría de albergues públicos del Camino NO admiten perros: reserva albergues privados o alojamientos pet-friendly con antelación, sobre todo en las últimas etapas desde Sarria (Camino Francés) o Tui (Camino Portugués).`,
+        `La asociación APACA emite la credencial 'Compostela Dog' (o 'Perregrina') a los perros que completan el Camino, solicítala en la Oficina del Peregrino tras tu llegada.`,
+      ],
+      pt: [
+        `O programa municipal 'Santiguau' regista hotéis, cafés e restaurantes formalmente inscritos como pet-friendly, consulte a lista em santiagoturismo.com antes de reservar.`,
+        `As lajes de granito polido tornam-se muito escorregadias com chuva (1500 mm/ano), considere botinhas para cães idosos ou raças com almofadinhas sensíveis.`,
+        `O interior da catedral, o museu e a visita à cobertura não admitem cães (exceto os de assistência); organize-se para que uma pessoa fique fora com o cão ou reserve um pet-sitter local.`,
+        `A maioria dos albergues públicos do Caminho NÃO admite cães: reserve albergues privados ou alojamentos pet-friendly com antecedência, sobretudo nas últimas etapas a partir de Sarria (Camino Francés) ou Tui (Camino Portugués).`,
+        `A associação APACA emite a credencial 'Compostela Dog' (ou 'Perregrina') aos cães que completam o Caminho, solicite-a na Oficina do Peregrino após a sua chegada.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport : Saint-Jacques-Rosalía de Castro (SCQ) à 12 km à l'est, navette bus et taxi disponibles ; chiens en sac de transport admis sur les bus aéroport, sans frais.`,
+        `Vétérinaires : AniCura ImaVet Referencia Veterinaria (24h/24) à Costa Vella au nord, hôpital de référence complet avec scanner et trois blocs opératoires.`,
+        `Le bus urbain TUSSA n'admet les chiens qu'en sac de transport fermé ; pour les grands chiens, préférer le taxi (accord du chauffeur) ou les trajets à pied (ville compacte).`,
+        `Excursions : Praia do Testal à Noia (35 km, plage canine officielle), A Coruña (60 km, prudence après l'ordonnance de 2025 interdisant la plupart des plages aux chiens), Finisterre et la Costa da Morte (90 km, ambiance fin du monde).`,
+        `Fournitures : Kiwoko et Tiendanimal en périphérie, plusieurs cliniques-tiendas à San Lázaro et Conxo.`,
+      ],
+      en: [
+        `Airport: Santiago-Rosalía de Castro (SCQ) is 12 km east, with airport bus and taxi available; dogs in carriers travel free on the airport bus.`,
+        `Vets: AniCura ImaVet Referencia Veterinaria (24/7) in Costa Vella to the north, full reference hospital with CT and three operating theatres.`,
+        `The TUSSA city bus only admits dogs in closed carriers; for larger dogs prefer taxi (driver's discretion) or walking (compact city).`,
+        `Day trips: Praia do Testal in Noia (35 km, official dog beach), A Coruña (60 km, but verify access since the 2025 ordinance banned dogs from most beaches), Finisterre and the Costa da Morte (90 km, end-of-the-world atmosphere).`,
+        `Pet supplies: Kiwoko and Tiendanimal on the city edge, plus several neighbourhood clinic-shops in San Lázaro and Conxo.`,
+      ],
+      es: [
+        `Aeropuerto: Santiago-Rosalía de Castro (SCQ) está a 12 km al este, con bus aeroporto y taxi disponibles; los perros en transportín viajan gratis en el bus del aeropuerto.`,
+        `Veterinarios: AniCura ImaVet Referencia Veterinaria (24/7) en Costa Vella al norte, hospital de referencia completo con TAC y tres quirófanos.`,
+        `El autobús urbano TUSSA solo admite perros en transportín cerrado; para perros grandes, mejor taxi (a discreción del conductor) o ir a pie (ciudad compacta).`,
+        `Excursiones: Praia do Testal en Noia (35 km, playa canina oficial), A Coruña (60 km, pero verifica acceso desde la ordenanza de 2025 que prohibió perros en la mayoría de sus playas), Finisterre y la Costa da Morte (90 km, ambiente fin del mundo).`,
+        `Suministros: Kiwoko y Tiendanimal en la periferia, varias clínicas-tienda de barrio en San Lázaro y Conxo.`,
+      ],
+      pt: [
+        `Aeroporto: Santiago-Rosalía de Castro (SCQ) a 12 km a leste, com autocarro do aeroporto e táxi disponíveis; os cães em transportadora viajam gratuitamente no autocarro do aeroporto.`,
+        `Veterinários: AniCura ImaVet Referencia Veterinaria (24/7) em Costa Vella a norte, hospital de referência completo com TAC e três blocos operatórios.`,
+        `O autocarro urbano TUSSA só admite cães em transportadora fechada; para cães grandes, prefira táxi (à descrição do condutor) ou andar a pé (cidade compacta).`,
+        `Excursões: Praia do Testal em Noia (35 km, praia canina oficial), A Coruña (60 km, mas verifique acesso desde a ordenança de 2025 que proibiu cães na maioria das suas praias), Finisterre e a Costa da Morte (90 km, ambiente fim do mundo).`,
+        `Suprimentos: Kiwoko e Tiendanimal na periferia, várias clínicas-loja de bairro em San Lázaro e Conxo.`,
+      ],
+    },
+  },
+
   seville: {
     history: {
       fr: `L'identité de Séville s'est forgée dans l'empire : Hispalis sous Rome, Ishbiliya sous les Almohades, puis port atlantique exclusif des Indes espagnoles après 1503, elle a fait transiter l'argent du Nouveau Monde par sa Torre del Oro et vu naître Velázquez, Murillo et le flamenco. Il em résulte une ville de patios parfumés à l'oranger, d'azulejos mudéjars et de la plus grande cathédrale gothique au monde. Les Sévillans entretiennent un rapport très social avec leurs chiens, fruit d'un mode de vie place-et-patio où le perro de casa suit simplement la famille au bar à tapas. L'été bouleverse tout autour de l'ombre : chiens et maîtres vivent nocturnes de juin à septembre, les berges ombragées du Guadalquivir faisant office de salon extérieur.`,

@@ -404,7 +404,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       <h4 className="text-lg font-bold text-gray-900">📍 {c.mapLabel(localName)}</h4>
                       <span className="text-xs text-gray-500 hidden sm:inline">{c.mapHint}</span>
                     </div>
-                    <Stay22Map lat={p.dest.lat} lng={p.dest.lng} destName={localName} height={360} />
+                    <Stay22Map lat={p.dest.lat} lng={p.dest.lng} destName={localName} height={360} locale={locale} />
                   </div>
                 </article>
               )

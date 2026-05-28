@@ -358,6 +358,28 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </div>
       </section>
 
+      {/* Month picker (top, right under hero) */}
+      <section className="py-6 bg-white border-b border-gray-100 sticky top-0 z-20 shadow-sm">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <p className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-3 text-center">{c.monthsTitle}</p>
+          <div className="flex flex-wrap justify-center gap-2">
+            {MONTHS.map((mm) => {
+              const active = mm === m
+              const label = (MONTH_NAMES[locale]?.[mm] ?? MONTH_NAMES.en[mm])
+              return (
+                <Link
+                  key={mm}
+                  href={`/${locale}/guides/dog-friendly-europe-by-month/${mm}`}
+                  className={`px-3.5 py-1.5 rounded-full text-sm font-semibold transition-colors ${active ? 'bg-orange-700 text-white' : 'bg-gray-50 text-gray-700 border border-gray-200 hover:border-orange-300 hover:text-orange-700'}`}
+                >
+                  {label.charAt(0).toUpperCase() + label.slice(1)}
+                </Link>
+              )
+            })}
+          </div>
+        </div>
+      </section>
+
       {/* Picks */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -472,27 +494,6 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           </section>
         )
       })()}
-
-      {/* Month picker */}
-      <section className="py-12 bg-gray-50 border-y border-gray-100">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-xl lg:text-2xl font-extrabold text-gray-900 mb-6 text-center">{c.monthsTitle}</h2>
-          <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-3">
-            {MONTHS.map((mm) => {
-              const active = mm === m
-              return (
-                <Link
-                  key={mm}
-                  href={`/${locale}/guides/dog-friendly-europe-by-month/${mm}`}
-                  className={`px-4 py-3 rounded-xl text-center text-sm font-semibold transition-colors ${active ? 'bg-orange-700 text-white' : 'bg-white text-gray-700 border border-gray-200 hover:border-orange-300 hover:text-orange-700'}`}
-                >
-                  {(MONTH_NAMES[locale]?.[mm] ?? MONTH_NAMES.en[mm]).charAt(0).toUpperCase() + (MONTH_NAMES[locale]?.[mm] ?? MONTH_NAMES.en[mm]).slice(1)}
-                </Link>
-              )
-            })}
-          </div>
-        </div>
-      </section>
 
       {/* FAQ */}
       <section className="py-16 bg-white">

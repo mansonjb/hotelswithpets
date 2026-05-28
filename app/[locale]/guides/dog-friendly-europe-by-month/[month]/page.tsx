@@ -12,6 +12,15 @@ import hotels from '@/data/hotels.json'
 import Stay22Map from '@/components/Stay22Map'
 import NearbyHotelCard from '@/components/NearbyHotelCard'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
+import AmazonProductCard from '@/components/AmazonProductCard'
+import AmazonDisclosure from '@/components/AmazonDisclosure'
+import { PRODUCTS } from '@/data/amazon-products'
+
+// FR-only "essentials to pack" kit, swapped by season. Summer months lead with
+// heat-safety gear; cooler months lead with general travel essentials.
+const SUMMER_MONTHS: MonthKey[] = ['may', 'june', 'july', 'august', 'september']
+const ESSENTIALS_SUMMER = ['B072Q1NFC9', 'B08M3M6TT1', 'B01MR5LRPJ', 'B00XW9ZZDI']
+const ESSENTIALS_DEFAULT = ['B072Q1NFC9', 'B01M2ZVPWJ', 'B07B2ZCN9D', 'B00IKRVU90']
 
 const STICKY_LABELS_BYMONTH: Record<string, { label: string; cta: string }> = {
   en: { label: 'Pet-friendly hotels in our top picks this month', cta: 'See hotels' },
@@ -413,6 +422,56 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           </div>
         </div>
       </article>
+
+      {/* Essentiels à emporter (FR only) + maillage accessoires */}
+      {locale === 'fr' && (() => {
+        const isSummer = SUMMER_MONTHS.includes(m)
+        const asins = isSummer ? ESSENTIALS_SUMMER : ESSENTIALS_DEFAULT
+        const kit = asins
+          .map(a => PRODUCTS.find(p => p.asin === a))
+          .filter((p): p is NonNullable<typeof p> => Boolean(p))
+        return (
+          <section className="py-14 bg-amber-50 border-y border-amber-200">
+            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="text-center mb-8">
+                <p className="text-sm font-bold uppercase tracking-widest text-amber-700 mb-2">
+                  {isSummer ? '🔥 Kit anti-chaleur' : '🎒 Kit voyage'}
+                </p>
+                <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mb-2">
+                  Les essentiels à emporter en {mn}
+                </h2>
+                <p className="text-stone-600 max-w-2xl mx-auto">
+                  {isSummer
+                    ? `En ${mn} la priorité c'est de gérer la chaleur : hydratation nomade, tapis rafraîchissant, gilet et bandana à mouiller. Notre sélection testée, liens directs Amazon.fr.`
+                    : `Ce qu'on emporte vraiment pour voyager avec son chien en ${mn} : gourde nomade, harnais de sécurité voiture, gamelle pliante et trousse de secours. Liens directs Amazon.fr.`}
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {kit.map((p, i) => (
+                  <AmazonProductCard key={p.asin} product={p} campaign={`by-month-${month}`} rank={i + 1} />
+                ))}
+              </div>
+
+              {/* Maillage vers les pages accessoires */}
+              <div className="mt-8 flex flex-wrap justify-center gap-2 text-sm">
+                <Link href="/fr/accessoires-chien" className="bg-white border border-amber-300 text-amber-900 px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
+                  Tous les accessoires chien →
+                </Link>
+                <Link href="/fr/accessoires-chien-chaleur" className="bg-white border border-amber-300 text-amber-900 px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
+                  Spécial canicule →
+                </Link>
+                <Link href="/fr/accessoires-chat" className="bg-white border border-stone-300 text-stone-700 px-4 py-2 rounded-full hover:bg-stone-100 font-semibold">
+                  Accessoires chat →
+                </Link>
+              </div>
+
+              <div className="mt-5 text-center">
+                <AmazonDisclosure />
+              </div>
+            </div>
+          </section>
+        )
+      })()}
 
       {/* Month picker */}
       <section className="py-12 bg-gray-50 border-y border-gray-100">

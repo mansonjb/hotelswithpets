@@ -14944,6 +14944,133 @@
     "petPolicyPt": "Native Manchester aparthotel accepts cães até 18 kg para £25 por animal por noite. gatos são não aceites. O fully equipped apartments include um kitchenette, ideal para longer estadias com um cão."
   },
   {
+    "id": "marbella-1",
+    "name": "ME Marbella by Melia",
+    "destinationSlug": "marbella",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury",
+      "dogs-stay-free",
+      "no-pet-fee"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 1300,
+    "priceFrom": 230,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/me-marbella.html",
+    "petFee": 0,
+    "petPolicy": "ME Marbella by Melia welcomes dogs of any size in designated rooms completely free of charge, and cats are also accepted. Pets must be kept on a lead in the common areas and are not permitted in the restaurants or pool area. The hotel sits on the Costa del Sol seafront, with a long beachside promenade right outside that is ideal for walking your dog at sunrise.",
+    "highlights": [
+      "Beachfront location",
+      "Outdoor swimming pool",
+      "Free WiFi"
+    ],
+    "slug": "me-marbella-by-melia"
+  },
+  {
+    "id": "marbella-2",
+    "name": "Kimpton Los Monteros Marbella by IHG",
+    "destinationSlug": "marbella",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury",
+      "dogs-stay-free",
+      "no-pet-fee"
+    ],
+    "stars": 5,
+    "rating": 9.0,
+    "reviewCount": 980,
+    "priceFrom": 300,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/kimpton-los-monteros-marbella-by-ihg.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Los Monteros Marbella warmly welcomes pets of any size that fit in the lift at no additional charge, in keeping with Kimpton's pet-loving philosophy. Food and water bowls are provided in the room. Pets must be kept on a lead in common areas. The resort sits just back from the beach east of Marbella, with the seafront and Los Monteros beach a short walk away for daily dog walks.",
+    "highlights": [
+      "Spa and golf resort",
+      "Outdoor pools",
+      "Close to the beach"
+    ],
+    "slug": "kimpton-los-monteros-marbella-by-ihg"
+  },
+  {
+    "id": "marbella-3",
+    "name": "Rio Real Golf & Hotel",
+    "destinationSlug": "marbella",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 720,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/rio-real-golf.html",
+    "petFee": 0,
+    "petPolicy": "Rio Real Golf & Hotel, set among the fairways just east of Marbella, accepts dogs up to 15 kg on request. Both dogs and cats are welcome, and pets must be kept on a lead in the gardens and common areas. The open golf-course grounds and the nearby Rio Real beach, reachable in a few minutes, give dogs plenty of room to walk and explore.",
+    "highlights": [
+      "Golf course setting",
+      "Outdoor swimming pool",
+      "Free WiFi"
+    ],
+    "slug": "rio-real-golf-hotel"
+  },
+  {
+    "id": "marbella-4",
+    "name": "Vasari Resort",
+    "destinationSlug": "marbella",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.2,
+    "reviewCount": 1100,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/vasari-resort.html",
+    "petFee": 0,
+    "petPolicy": "Vasari Resort allows pets of any size with no per-night fee, requiring instead a refundable deposit of 500 EUR per stay returned at check-out provided there is no damage. Both dogs and cats are welcome, and pets must be kept on a lead in the common areas and gardens. The resort's leafy grounds and nearby green spaces are convenient for daily walks.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Gardens",
+      "Free WiFi"
+    ],
+    "slug": "vasari-resort"
+  },
+  {
+    "id": "marbella-5",
+    "name": "The Marbella Heights Boutique Hotel",
+    "destinationSlug": "marbella",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.0,
+    "reviewCount": 540,
+    "priceFrom": 170,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/the-marbella-heights.html",
+    "petFee": 25,
+    "petPolicy": "The Marbella Heights Boutique Hotel, set in the hills above Marbella, welcomes up to two small pets per room (up to around 10 kg each) for a fee of 25 EUR per accommodation, per day plus a refundable 100 EUR deposit per stay. Service animals are exempt from fees. Pets must be kept on a lead in the common areas. The surrounding hillside lanes offer quiet routes for walking your dog with sea views.",
+    "highlights": [
+      "Panoramic sea views",
+      "Outdoor pool",
+      "Free WiFi"
+    ],
+    "slug": "the-marbella-heights-boutique-hotel"
+  },
+  {
     "id": "marseille-1",
     "name": "InterContinental Marseille - Hotel Dieu",
     "destinationSlug": "marseille",

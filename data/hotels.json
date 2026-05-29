@@ -1497,6 +1497,101 @@
     "petPolicyPt": "cães bem-vindos; sem peso restriction."
   },
   {
+    "id": "aveiro-1",
+    "name": "Melia Ria Hotel & Spa",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2400,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/melia-ria.html",
+    "petFee": 25,
+    "petPolicy": "Melia Ria Hotel & Spa, overlooking the Fonte Nova canal, allows one dog under 20 kg in designated rooms for a fee of 25 EUR per night, with a 100 EUR refundable deposit per stay. Arriving dogs receive food bowls, a blanket and treats. Pets must be kept on a lead in common areas and are not permitted in the spa or restaurant. The waterfront walkways along the Ria de Aveiro right outside are perfect for dog walks.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa and wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "melia-ria-hotel-spa"
+  },
+  {
+    "id": "aveiro-2",
+    "name": "Hotel Imperial",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.0,
+    "reviewCount": 1300,
+    "priceFrom": 70,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/hotel-imperial-aveiro.html",
+    "petFee": 15,
+    "petPolicy": "Hotel Imperial, just a short walk from the Ria de Aveiro canal, welcomes two pets of any size in designated rooms for a fee of 15 EUR per pet, per night. Both dogs and cats are accepted. Pets must be kept on a lead in shared areas and should not be left alone in the room. The hotel's central location makes it easy to reach the canal-side promenades and nearby green spaces for walks.",
+    "highlights": [
+      "Near the Aveiro canals",
+      "24-hour front desk",
+      "Free WiFi"
+    ],
+    "slug": "hotel-imperial"
+  },
+  {
+    "id": "aveiro-3",
+    "name": "Pousada da Ria - Aveiro",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "boutique-pet-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 740,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-da-ria.html",
+    "petFee": 30,
+    "petPolicy": "Pousada da Ria, built on pillars over the Aveiro lagoon near Torreira, allows one pet up to 15 kg for a fee of 30 EUR per pet, per night. Both dogs and cats are accepted, and pets cannot be left unattended in the room. Pets must be kept on a lead in common areas. The pousada has a small private beach and free bicycles, ideal for exploring the lagoon shoreline with a dog.",
+    "highlights": [
+      "Lagoon-front setting",
+      "Outdoor swimming pool",
+      "Free bicycles"
+    ],
+    "slug": "pousada-da-ria-aveiro"
+  },
+  {
+    "id": "aveiro-4",
+    "name": "Montebelo Vista Alegre Ilhavo Hotel",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1050,
+    "priceFrom": 160,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/montebelo-vista-alegre-ilhavo.html",
+    "petFee": 30,
+    "petPolicy": "Montebelo Vista Alegre Ilhavo Hotel, set within the historic Vista Alegre porcelain complex just outside Aveiro, allows pets on request for a fee of 30 EUR per animal, per day. Dogs up to 20 kg and over three months old are welcome, with larger animals accepted only on request and subject to approval. Pets must be kept on a lead in common areas. The grounds and surrounding lagoon paths offer plenty of room for walks.",
+    "highlights": [
+      "Indoor pool and spa",
+      "Historic porcelain estate",
+      "Free WiFi"
+    ],
+    "slug": "montebelo-vista-alegre-ilhavo-hotel"
+  },
+  {
     "id": "avignon-1",
     "name": "La Mirande",
     "destinationSlug": "avignon",
